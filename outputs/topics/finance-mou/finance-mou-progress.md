@@ -1,21 +1,23 @@
 ---
-title: MoUs and other agreements — progress report, 2025-08-01 to 2026-08-23
-compiled: 2026-08-23
-period: 2025-08-01 to 2026-08-23
+title: MoUs and other agreements — progress report, 2025-08-01 to 2026-08-24
+compiled: 2026-08-24
+period: 2025-08-01 to 2026-08-24
 subject: finance.mou
 places: DZA; BWA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; COD; EGY; SWZ; GAB; GHA; GIN; KEN; LSO; MWI; MRT; MAR; RWA; SEN; SYC; SSD; TZA; TGO; UGA; ZMB; ZWE; XAF
-record: 76684e0a1838
+record: df0a952b2cb2
 ---
 
-# MoUs and other agreements: progress report, 2025-08-01 to 2026-08-23
+# MoUs and other agreements: progress report, 2025-08-01 to 2026-08-24
 
 *31 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
+*The place reports do not share one window; the period above is the range they span.*
+
 ## Algeria
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | AfriLabs and Eyconet investor-matching partnership | Did not exist | [Announced: a continental innovation-hub network tied to a platform connecting North African companies to investors](https://www.wearetech.africa/fr/fils/breves/breves-simple/afrilabs-s-allie-a-eyconet-pour-connecter-les-entreprises-d-afrique-du-nord-aux-investisseurs) | Advanced |
 | Bilateral telecom and ICT cooperation with Tunisia and Niger | Did not exist | [Fourth Tunisia commission (2026-06); Niger cooperation (2026-03)](https://techafricanews.com/2026/06/09/algeria-and-tunisia-expand-cooperation-in-telecommunications-and-ict-sector/) | Advanced |
@@ -23,7 +25,7 @@ record: 76684e0a1838
 
 ## Botswana
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Orange Botswana and special economic zones memorandum | Did not exist | [A framework for connected utilities, smart security, digital platforms and connectivity in special economic zones; no value stated](https://www.wearetech.africa/en/fils-uk/news/tech/orange-botswana-seza-sign-deal-to-upgrade-digital-infrastructure) | Advanced |
 
@@ -73,7 +75,7 @@ record: 76684e0a1838
 
 ## Cote d'Ivoire
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Five-year telecommunications and digital-infrastructure memorandum with an Indian technology company | Did not exist | [A five-year memorandum of agreement between an Indian technology company, a continental investment council and an Ivorian mobile operator to develop telecommunications and digital public infrastructure across the continent, dated 2026-08-07 and fully executed on 2026-08-19 per a regulatory filing. It covers national fibre backbones, 4G and 5G, submarine cable landing stations, internet exchange points, telecom towers, and digital identity, national interoperability, e-government and digital payment platforms. No financial commitment is disclosed](https://enterpriseai.economictimes.indiatimes.com/news/industry/blue-cloud-softech-signs-5-year-africa-pact-for-telecom-digital-infrastructure-projects/133366356) | ***Baseline not held*** |
 
@@ -101,7 +103,7 @@ record: 76684e0a1838
 
 ## Gabon
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Partnership with the United Nations Capital Development Fund | Did not exist | [Policy support on financial governance aligned to the 2026-2030 national plan and the regional financial inclusion strategy, covering provider competition, payment infrastructure and consumer protection](https://www.biometricupdate.com/202512/gabon-pens-deal-with-uncdf-to-accelerate-financial-inclusion) | Advanced |
 | Start-up credit-guarantee accord with the Societe gabonaise de garantie | Did not exist | [Guarantee mechanisms to reduce the risk borne by institutions lending to innovative young firms; no ceiling, coverage ratio, eligibility test, term, participating bank or envelope is published](https://www.wearetech.africa/fr/fils/actualites/tech/le-gabon-mobilise-la-garantie-publique-et-huawei-pour-soutenir-les-start-up-numeriques) | Advanced |
@@ -110,7 +112,7 @@ record: 76684e0a1838
 
 ## Ghana
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | TradeMark Africa country programme memorandum | Not held | [Renewed to continue trade-facilitation and AfCFTA-readiness work, including digital customs systems at the Akanu-Noepe joint border post and support for more than 1,250 women and small-scale cross-border traders](https://thehighstreetjournal.com/ghana-trademark-africa-deal-targets-higher-exports-regional-market-access/) | ***Baseline not held*** |
 
@@ -122,7 +124,7 @@ record: 76684e0a1838
 
 ## Kenya
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | EU-Kenya Digital Partnership | ***Baseline not held*** | [KSh 15.3bn committed, including EUR 37m to the Blue Raman submarine cable](https://techafricanews.com/2026/06/09/kenya-secures-ksh-15-3-billion-eu-boost-to-accelerate-digital-transformation/) | ***Baseline not held*** |
 | Judiciary people-centred justice partnership | ***Baseline not held*** | [A memorandum signed between the judiciary and a Netherlands justice-innovation institute, with an intergovernmental development-law organisation and the Netherlands embassy participating, building on the country's access-to-justice blueprint](https://www.hiil.org/news/hiil-and-kenyas-judiciary-formalise-partnership/) | ***Baseline not held*** |
@@ -161,7 +163,7 @@ record: 76684e0a1838
 
 ## Senegal
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | UN development programme memorandum | Did not exist | [Signed on four stated focus areas: digital governance, digital inclusion, AI and innovation](https://techafricanews.com/2026/04/16/undp-and-senegal-government-strengthen-ties-on-digital-development-agenda/) | Advanced |
 
@@ -179,7 +181,7 @@ record: 76684e0a1838
 
 ## Tanzania
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Bilateral digital-cooperation tracks with Brazil, Poland and Russia | Did not exist | [Frameworks agreed with two states on AI strategy, digital government and cybersecurity research, and youth and technology-skills agreements in drafting with a third](https://dailynews.co.tz/brazil-poland-back-dars-push-for-digital-growth/) | Advanced |
 | Digital economy memorandum with Huawei | Did not exist | [Cooperation named across ICT infrastructure, AI, digital public service infrastructure, developing local professionals, and manufacture and assembly of digital equipment](https://www.mawasiliano.go.tz/news/tanzania-na-huawei-watia-saini-makubaliano-ya-kuimarisha-ushirikiano-katika-uchumi-wa-kidijitali-na-ubunifu) | Advanced |
@@ -194,13 +196,13 @@ record: 76684e0a1838
 
 ## Uganda
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Ethio Telecom cooperation talks | Not held | [Preliminary: a ministerial delegation visited the Ethiopian incumbent's headquarters to explore cooperation on telecommunications infrastructure, digital payments, skills training and technology transfer in support of the national vision and the 2023-2027 digital roadmap; no agreement was signed](https://www.ecofinagency.com/news-digital/1308-48043-uganda-explores-digital-partnership-with-ethiopia-s-ethio-telecom) | ***Baseline not held*** |
 
 ## Zambia
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Government compact with the Payments Association of Zambia | Did not exist | [Government and the association agreed to accelerate digital financial services and reduce cash dependency, with quarterly regulatory coordination between the technology ministry, the central bank and the regulator; a fourth mobile network operator was named and committed to the national financial inclusion strategy](https://itweb.africa/article/zambia-partners-with-payz-to-boost-financial-inclusion/xnklOqz1eBKM4Ymz) | Advanced |
 | UNDP and Tony Blair Institute memorandum of understanding | Did not exist | [Signed by the UNDP resident representative and the institute's country director, covering digital transformation and inclusion, public-sector capability, investment promotion, health systems including improved data systems, and climate-resilient agriculture. The Government of Zambia is not a party, though the areas were identified jointly with it](https://www.undp.org/zambia/press-releases/undp-and-tony-blair-institute-join-forces-boost-zambias-digital-and-development-transformation) | Advanced |
@@ -215,7 +217,7 @@ record: 76684e0a1838
 
 ## Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-23 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | AUC-Google memorandum on AI | Did not exist | [Signed on AI and cloud infrastructure, skills, research and AI policy, with a pledge to train three million students and teachers by 2030](https://cioafrica.co/auc-signs-partnership-with-google-to-advance-africas-ai-digital-capacity/) | Advanced |
 | AUC-ITU cooperation memorandum | Did not exist | [Signed across AI, digital public infrastructure, skills, connectivity, cybersecurity, space technology and standards, naming the Commission the continental coordinating partner for the 55 member states](https://techreviewafrica.com/news/6310/african-union-commission-itu-sign-cooperation-agreement) | Advanced |

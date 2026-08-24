@@ -1,21 +1,23 @@
 ---
-title: Technical Capacity — progress report, 2025-08-01 to 2026-08-23
-compiled: 2026-08-23
-period: 2025-08-01 to 2026-08-23
+title: Technical Capacity — progress report, 2025-08-01 to 2026-08-24
+compiled: 2026-08-24
+period: 2025-08-01 to 2026-08-24
 subject: infra.capacity
 places: BWA; CMR; TCD; COG; GNQ; GHA; GIN; KEN; LSO; MWI; MAR; MOZ; NAM; NGA; RWA; SEN; SOM; ZAF; TZA; ZWE; XSA
-record: 2efa48a0f5b2
+record: 16d526884d56
 ---
 
-# Technical Capacity: progress report, 2025-08-01 to 2026-08-23
+# Technical Capacity: progress report, 2025-08-01 to 2026-08-24
 
 *21 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
+*The place reports do not share one window; the period above is the range they span.*
+
 ## Botswana
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | International internet traffic | Just over 100Gbps (2025-02), up from under 8Gbps (2015) | [Unchanged; no later figure published at 2026-08-06](https://www.mmegi.bw/business/bofinet-invests-p100m-in-upgrading-botswanas-internet-gateway/news) | No change |
 
@@ -45,7 +47,7 @@ record: 2efa48a0f5b2
 
 ## Ghana
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Submarine cable inventory | ***Baseline not held*** | [The regulator names five submarine cable providers - SAT-3, MainOne, WASC, Glo and ACE - on an undated page resting the licence on section 3(8) of the Electronic Communications Act 2008; an analyst brief counts six cables landing at Accra and about 2.5 Tbps of international capacity in use (2024 estimate)](https://nca.org.gh/submarine-cable-landing/) | ***Baseline not held*** |
 
@@ -57,7 +59,7 @@ record: 2efa48a0f5b2
 
 ## Kenya
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Kenya Advanced Institute of Science and Technology | KSh 2.3bn appropriated in FY2025/26 for continued construction at Konza | [Charter issued and operationalisation under review with Korea Exim Bank; no FY2026/27 allocation disclosed and no commitment amount stated](https://techafricanews.com/2026/08/03/kenya-advances-korea-partnership-to-boost-ai-research-and-digital-infrastructure/) | Stalled |
 | Broadcast Logger and CA Broadcast Monitoring Room | ***Baseline not held*** | [Nationwide deployment complete with a Broadcast Monitoring Room at the CA Centre](https://techafricanews.com/2026/07/27/communications-authority-of-kenya-and-kfcb-complete-joint-broadcast-monitoring-training/) | ***Baseline not held*** |
@@ -83,7 +85,7 @@ record: 2efa48a0f5b2
 
 ## Mozambique
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | MoRENet bandwidth capacity | 5 Gbps international bandwidth on a single route through South Africa (before 2025-10) | [60 Gbps international bandwidth over the AmLight-SACS South Atlantic link with two continental routes (2025-10-30), restated by the communications minister as funded for 15 years (2026-08-03); the national backbone that would distribute it to universities was still being expanded as at 2025-10-30](https://africarxiv.ubuntunet.net/bitstreams/9427cb02-feef-4b3f-b03b-84cb4efea3cb/download) | Advanced |
 | Mozambique Internet Exchange Point | ***Baseline not held*** | [143 Gbps of cumulative member port capacity, with no autonomous systems joining or leaving over the tracked period and no peak-traffic figure published; operator is CIUEM (Universidade Eduardo Mondlane), located in Maputo, Av. Julius Nyerere, founded May 2002, with 18 peers on the exchange's own site; its PeeringDB record has been stale since 2016](https://pulse.internetsociety.org/en/ixp-tracker/ixp/260/) | Advanced |
@@ -98,7 +100,7 @@ record: 2efa48a0f5b2
 
 ## Nigeria
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | NIMC platform capacity for compulsory NIN use | ***Baseline not held*** | [Servers, databases and networks not sized for compulsory NIN use across 14 sectors](https://punchng.com/pros-cons-of-amended-nimc-act/) | ***Baseline not held*** |
 
@@ -110,25 +112,25 @@ record: 2efa48a0f5b2
 
 ## Senegal
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Data centres operating in Senegal | ***Baseline not held*** | [Seven at mid-2025, level with Ghana, against South Africa's 56, Kenya's 19 and Nigeria's 17](https://www.seneweb.com/fr/news/16/du-gabon-au-senegal-comment-lafrique-accelere-sur-les-data-centers-pour-ne-plus-brader-ses-donnees_n_500226.html) | ***Baseline not held*** |
 
 ## Somalia
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | National IPv6 migration | Strategy adopted February 2025, with no migration activity on record (2025-08) | [Migration running with a National IPv6 Centre at Jamhuriya University; no adoption percentage published (2026-06)](https://www.wearetech.africa/en/fils-uk/news/public-management/somalia-upgrades-digital-infrastructure-to-bypass-global-ipv4-address-depletion) | Advanced |
 
 ## South Africa
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | National Integrated Cyber Infrastructure System | ***Baseline not held*** | [Operating; CHPC at maximum capacity, expansion required](https://www.parliament.gov.za/press-releases/media-statement-committee-science-visits-national-integrated-cyber-infrastructure-system) | ***Baseline not held*** |
 
 ## Tanzania
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Cyber-skills partnership with South Korea | A partnership announced for digital forensics and misinformation-detection training | [Unchanged; no trainee numbers, cohorts or completion reported since](https://www.mwananchi.co.tz/mw/habari/kitaifa/tanzania-kuongeza-wataalamu-kupambana-na-wadukuzi-mtandaoni-5158368) | No change |
 | Practical backbone training with a technical institute | ***Baseline not held*** | [Students given hands-on training at the operator's headquarters on backbone technologies and operational systems](https://techafricanews.com/2026/07/23/ttcl-equips-dit-students-with-practical-broadband-infrastructure-skills/) | ***Baseline not held*** |
@@ -143,6 +145,6 @@ record: 2efa48a0f5b2
 
 ## Southern Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-23 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Seacom 2.0 subsea system | Did not exist | [Announced with 48 fibre pairs across the Indian Ocean basin; no route, cost or in-service date on record](https://seacom.com/news/unveiling-seacom-20) | Advanced |

@@ -1,17 +1,19 @@
 ---
-title: Rural digital data capture — progress report, 2025-08-01 to 2026-08-23
-compiled: 2026-08-23
-period: 2025-08-01 to 2026-08-23
+title: Rural digital data capture — progress report, 2025-08-01 to 2026-08-24
+compiled: 2026-08-24
+period: 2025-08-01 to 2026-08-24
 subject: digital.rural
 places: BDI; CAF; COG; EGY; SWZ; GIN; LSO; MWI; MLI; MAR; NAM; NER; NGA; RWA; SLE; TGO; ZMB; ZWE
-record: 43509f4a3b0d
+record: 772eee54a7e1
 ---
 
-# Rural digital data capture: progress report, 2025-08-01 to 2026-08-23
+# Rural digital data capture: progress report, 2025-08-01 to 2026-08-24
 
 *18 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Burundi
 
@@ -66,7 +68,7 @@ record: 43509f4a3b0d
 
 ## Mali
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Rural and white-zone coverage | No white-zone map published | [An updated universal-access strategy with a white-zone map recommended, against a 2030 universal connectivity target](https://www.maliweb.net/technologie/4e-edition-de-la-semaine-du-numerique-des-recettes-variees-pour-la-souverainete-numerique-3118872.html) | Advanced |
 
@@ -91,11 +93,11 @@ record: 43509f4a3b0d
 
 ## Nigeria
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Rural connectivity programmes | ***Baseline not held*** | [About 3,700 towers to start deploying around October 2026 against 23% of rural communities connected (2025-10)](https://www.vanguardngr.com/2025/10/only-23-of-rural-communities-have-internet-access-in-nigeria-ncc/) | Advanced |
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Cisco AI for smallholder farmers | Did not exist | [Exploratory; no programme, funding, timeline or counterparty ministry named](https://itweb.africa/article/cisco-explores-ai-for-nigeria-farmers/nWJadMbNDjyMbjO1) | Advanced |
 
@@ -119,7 +121,7 @@ record: 43509f4a3b0d
 
 ## Zambia
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Satellite terminals in rural public facilities | Kits deployed in underserved public facilities since 2024, year only | [A rural health clinic and two primary schools connected for access to government services through the national portal; no national count of connected facilities published](https://techafricanews.com/2025/09/29/smart-zambia-brings-starlink-internet-to-remote-moomba-chiefdom/) | Advanced |
 

@@ -1,17 +1,19 @@
 ---
-title: Access to services — progress report, 2025-08-01 to 2026-08-23
-compiled: 2026-08-23
-period: 2025-08-01 to 2026-08-23
+title: Access to services — progress report, 2025-08-01 to 2026-08-24
+compiled: 2026-08-24
+period: 2025-08-01 to 2026-08-24
 subject: include.access
 places: AGO; BEN; BWA; BFA; BDI; CMR; CPV; TCD; COM; COG; CIV; COD; EGY; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE; XSA; XWA
-record: 1b5fec60fa45
+record: e5e4dae9ae3d
 ---
 
-# Access to services: progress report, 2025-08-01 to 2026-08-23
+# Access to services: progress report, 2025-08-01 to 2026-08-24
 
 *44 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Angola
 
@@ -43,14 +45,14 @@ record: 1b5fec60fa45
 
 ## Botswana
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Mascom device-financing facility | Launched, no uptake figure published (2025-05) | [Still no uptake, portfolio or default figure published at 2026-08-06](https://www.sundaystandard.info/mascom-launches-myzaka-flexi-botswanas-first-mobile-device-financing-facilty/) | No change |
 | BTC prepaid mobile data tariffs | ***Baseline not held*** | [1.5GB a day for P10; 4GB a month for P65; 30GB over 30 days for P199; 100GB over 30 days for P349](https://www.mmegi.bw/business/btc-reduces-data-prices-following-regulator-approval/news) | ***Baseline not held*** |
 
 ## Burkina Faso
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Consumer-protection rules | Adopted in 2023 but suspended and unenforceable | [In force, with main-balance validity extended from 90 to 180 days, promotional credit usable across networks and minimum one-month validity on data bundles; the regulator reports standard mobile-internet prices down 28 to 45%](https://www.wearetech.africa/en/fils-uk/news/telecom/burkina-faso-tightens-telecom-regulations-but-affordability-concerns-persist) | Advanced |
 | Financial inclusion promotion agency | ***Baseline not held*** | [Operating and explicitly not a regulator, with its director general arguing account counts conceal absent savings, credit and insurance](https://lefaso.net/spip.php?article148215) | ***Baseline not held*** |
@@ -97,7 +99,7 @@ record: 1b5fec60fa45
 
 ## Cote d'Ivoire
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Civil-registry agency in a shopping centre | Did not exist | [A civil-registry and identification agency opened inside a Yopougon shopping centre in partnership with a private mobility company, presented as bringing identification services closer to citizens](https://www.oneci.ci/actualites/1787127124) | Advanced |
 | Portfolio guarantee for small enterprises | Did not exist | [Up to FCFA 17,000,000,000 mobilisable across two windows, with stated attention to women's entrepreneurship](https://www.aip.ci/aip-une-banque-digitale-et-la-sgpme-signent-deux-accords-pour-faciliter-lacces-des-pme-ivoiriennes-au-credit/) | Advanced |
@@ -131,28 +133,28 @@ record: 1b5fec60fa45
 
 ## Ethiopia
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Smartphone affordability financing | Did not exist | [Up to two million handsets a year on long-term instalments](https://www.biometricupdate.com/202607/ethio-telecom-huawei-partner-to-expand-ethiopias-digital-infrastructure) | Advanced |
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Identity mandate for school enrolment and examinations | Did not exist | [Identity required for school enrolment and examinations](https://www.ena.et/web/eng/fayda-28-million) | Advanced |
 | Remote account opening on the digital identity | Did not exist | [Account opening on the digital identity alone](https://www.biometricupdate.com/202604/dashen-bank-launches-ethiopias-first-digital-id-based-accounts) | Advanced |
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Mobile connections and internet penetration | 85.4m connections at 63.8% of population (early 2025) | [93.2m connections at 68.4% (late 2025)](https://datareportal.com/reports/digital-2026-ethiopia) | Advanced |
 
 ## Gabon
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Registre social unifie du Gabon | Technical work finalised at a closing workshop on 2025-08-28, with nothing delivered | [First deliverable presented, alongside a commitment to full digitalisation of non-contributory social protection under the 2026-2030 development plan](http://gouvernement.ga/2025/08/28/registre-social-unique-gabon-modernisation-de-la-protection-sociale) | Advanced |
 
 ## Ghana
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Unlimited fibre tariff | GH¢987 per month for an unlimited 100 Mbit/s package | [GH¢299 per month, with 300 Mbit/s at GH¢444 and 500 Mbit/s at GH¢999](https://www.myjoyonline.com/sam-george-announces-major-reduction-in-mtn-fibre-broadband-prices/) | Advanced |
 | Cash-grant programme on mobile-money rails | ***Baseline not held*** | [A full-year allocation of GH¢1.1bn, the highest since inception, with a recent cycle releasing about GH¢139m to roughly 350,580 households](https://www.mofep.gov.gh/sites/default/files/budget-statements/2026-Mid-Year-Fiscal-Policy-Review-Speech.pdf) | ***Baseline not held*** |
@@ -165,7 +167,7 @@ record: 1b5fec60fa45
 
 ## Kenya
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Starlink school connectivity with GrowX and CEMASTEA | Did not exist | [30 schools across 30 districts reaching more than 32,000 students and about 1,000 teachers, with financial terms undisclosed](https://spaceinafrica.com/2026/06/10/starlink-connects-30-kenyan-schools-across-30-districts-in-initiative-originated-by-grow-x-education-and-cemastea/) | Advanced |
 | EU Last Mile Connectivity of Schools | EUR 9.8m committed | [Commitment unchanged, with no outturn published](https://d-portal.org/ctrack.html#view=act&aid=XI-IATI-EC_INTPA-2023-PC-25192) | No change |
@@ -213,9 +215,9 @@ record: 1b5fec60fa45
 
 ## Mali
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
-| Main news source shares | No survey-based ranking of main news sources held | [A short-video platform ranks third as a main news source behind radio at 27.3 per cent and television at 21.7 per cent, on a survey of 2,220 adults across the capital and ten regional capitals](https://www.maliweb.net/societe/mali-metre-2026-les-reseaux-sociaux-gagnent-du-terrain-aux-cotes-des-medias-traditionnels-3119304.html) | Advanced |
+| Main news source shares | No survey-based ranking of main news sources held | [Radio is the main news source for 27.3 per cent and television for 21.7 per cent, with a short-video platform third at 19.7 per cent, ahead of family and word of mouth at 9.4, a social network at 8.5, internet sites at 6.9, a messaging application at 4.8, a video platform at 0.4, and the printed press and a microblogging platform at 0.1 each; 1.3 per cent did not know (n=2,219)](https://collections.fes.de/publikationen/download/pdf/1991557) | Advanced |
 | Mobile data affordability against Senegal | Not held | [About 1.5GB of mobile data in Bamako for what buys about 25GB in Dakar, a ratio of roughly 25 to 1, attributed by critics to weak market oversight by the regulator, the duopoly of the two incumbent operators and the years since a new operator licence was issued](https://theafricantribune.info/malis-telecom-costs-surge-while-senegal-thrives-in-data-affordability/) | ***Baseline not held*** |
 
 ## Morocco
@@ -227,7 +229,7 @@ record: 1b5fec60fa45
 
 ## Mozambique
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Financial services access points | 315,005 non-bank agents, 1,391 automated teller machines and 35,486 card terminals (2024) | [446,604 non-bank agents, 1,383 automated teller machines and 32,236 card terminals; 482,359 access points in total, up 36% (2025)](https://clubofmozambique.com/news/atms-and-pos-terminals-lose-further-ground-to-mobile-money-in-mozambique/) | Advanced, in agents; regressed in terminals |
 | Mobile money and bank accounts per thousand adults | 1,093 mobile money and 330 bank accounts per thousand adults (2024) | [1,313 mobile money and 337 bank accounts per thousand adults (2025)](https://clubofmozambique.com/news/atms-and-pos-terminals-lose-further-ground-to-mobile-money-in-mozambique/) | Advanced |
@@ -252,18 +254,18 @@ record: 1b5fec60fa45
 
 ## Nigeria
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Ward-level enrolment drive | Did not exist | [Free enrolment in every ward, targeting under-enrolled groups](https://www.biometricupdate.com/202602/nigeria-launches-nationwide-drive-to-boost-digital-id-coverage-improve-inclusion) | Advanced |
 | Diaspora Non-Resident BVN | Live (2025-05) | [Remote diaspora onboarding](https://www.vanguardngr.com/2025/05/cbn-launches-diaspora-bvn-platform/) | No change |
 | NIN-keyed consumer credit scoring | Proposed (2025-06) | [Planned; consequences would extend to passport and licence renewal](https://www.thisdaylive.com/2025/06/17/credicorp-well-link-citizens-credit-scores-to-nin-for-a-centralised-credit-bureau/) | No change |
 | Correction of errors in the identity register | ***Baseline not held*** | [Excludes the about 72% of adults without smartphones](https://www.thisdaylive.com/2026/03/07/nigerians-groan-under-digital-identity-regime/) | ***Baseline not held*** |
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Agent-network microfinance | ***Baseline not held*** | [Agent-network microfinance for microenterprises and the unbanked](https://www.wearetech.africa/fr/fils/tech-stars/rukayat-kolawole-bello-connecte-les-exclus-de-la-banque-au-credit) | ***Baseline not held*** |
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | GoMed-UNFPA digital self-care platform (University of Lagos) | Did not exist | [Live for UoL students; routes to free contraceptives via Lagos State Ministry of Health/UNFPA supply chain, discreet delivery, SoftLife 247/U-Plan and GoMed pharmacists; expansion to other Lagos campuses planned](https://techafricanews.com/2026/08/10/gomed-and-unfpa-launch-digital-health-platform-for-university-of-lagos-students/) | Advanced |
 | Zero-rated access to education platforms | Did not exist | [Every option consulted on requires registration to control access](https://www.ncc.gov.ng/sites/default/files/2026-06/Consultation-Paper-on-Zero-Rated-Access-to-Educational-Platforms.pdf) | Advanced |
@@ -279,7 +281,7 @@ record: 1b5fec60fa45
 
 ## Senegal
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Un étudiant, un ordinateur student-computer programme | Running since 2017 | [Under a parliamentary commission of inquiry covering about 48 billion FCFA of commitments since 2017](https://www.seneweb.com/fr/news/Politique/un-etudiant-un-ordinateur-lassemblee-ouvre-une-enquete-sur-pres-de-48-milliards-de-fcfa_n_501999.html) | Regressed |
 | Digital training for blind and partially sighted people | ***Baseline not held*** | [700 blind and partially sighted people and twenty trainers trained since the programme's launch, with an advanced tier now running](https://www.seneweb.com/fr/news/Technologie/informatique-et-intelligence-artificielle-un-programme-pour-renforcer-lemployabilite-des-non-voyants_n_497443.html) | ***Baseline not held*** |
@@ -301,7 +303,7 @@ record: 1b5fec60fa45
 
 ## South Africa
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Bank-account means test across eight grants | Appeal opposed 2026-01-28 | [Undecided; SCA hearing 2026-08-25](https://www.dailymaverick.co.za/article/2026-07-25-a-peek-behind-south-africas-digitalised-grants-system/) | Stalled |
 | MICT SETA | ***Baseline not held*** | [Referred for assessment 2026-07-21](https://www.itweb.co.za/article/mict-seta-governance-concerns-referred-to-skills-authority/WnxpE74YZZdMV8XL) | Regressed |
@@ -324,7 +326,7 @@ record: 1b5fec60fa45
 
 ## Tanzania
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Braille editions of central bank publications | Did not exist | [Braille editions of the central bank's publications on the economy, finance and financial services, covering personal financial management among other subjects, so that blind readers can read a service's terms, benefits and risks without an intermediary](https://www.mwananchi.co.tz/mw/habari/biashara/bot-yazindua-machapisho-ya-nukta-nundu-kwa-wasioona-5564948) | Advanced |
 | Financial access points | 1.69m access points (2024-12) | [2.27m access points, up 33.5%, of which about 2m are mobile-money agents](https://www.bot.go.tz/Publications/Regular/Annual%20Report/en/2026072316300213.pdf) | Advanced |
@@ -342,13 +344,13 @@ record: 1b5fec60fa45
 
 ## Tunisia
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Affordability of digital services | ***Baseline not held*** | [A digital basket at 1.53% of gross national income per head, about US$5.31 a month, second in the Maghreb and under the two-percent international threshold; the figures are the international union's, reported by the regulator (2026-07)](https://www.lapresse.tn/2026/07/18/internet-et-mobile-la-tunisie-parmi-les-pays-arabes-ou-les-services-numeriques-coutent-le-moins-cher/) | ***Baseline not held*** |
 
 ## Uganda
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Average monthly consumer data spend | UGX 10,392 for 5.1GB a month (June 2025) | [UGX 10,841 a month, 71 per cent of a UGX 15,349 total telecom bill and the first quarter in which data was the dominant line item, on average consumption of 3.7GB a month, up from 3.0GB in Q1 2026](https://www.ceo.co.ug/ugandans-spend-on-data-telecom-budget-shift/) | Advanced |
 | Gulu Service Uganda Centre | Did not exist | [Under construction with more than 40 workstations; stated completion June 2026, nothing on record as delivered at 2026-08-06](https://www.newvision.co.ug/category/business/construction-of-sh4b-service-uganda-centre-be-NV_229820_062026) | Advanced, slipped |
@@ -360,7 +362,7 @@ record: 1b5fec60fa45
 
 ## Zambia
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Financial inclusion, adult population | 69.4% financially included (2020) | [80.1% financially included (2025), with mobile money use at 76.2%](https://www.itweb.co.za/article/from-rails-to-routine/dgp45vaB8nQ7X9l8) | Advanced |
 | Universal Access and Service Fund | Tower, last-mile fibre, learning-institution and inclusive-ICT programmes running; two named towers built in 2021 and 2025 were inspected in August 2025 | [Same programme structure; the 2026 assessment covers a special school serving 768 learners of whom 213 live with disabilities, and no new tower or coverage total is published](https://techafricanews.com/2025/09/01/zicta-board-committee-reviews-uasf-projects-in-copperbelt-and-northwestern-provinces/) | No change |
@@ -380,12 +382,12 @@ record: 1b5fec60fa45
 
 ## Southern Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-23 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Adults financially included in SADC | 119 million, 77% of adults (2024-02), against 57% in 2011 | [No later figure held; the 2024 survey is still the newest](https://www.sadc.int/latest-news/sadc-adopts-technology-drive-financial-inclusion-initiatives-within-region) | No change |
 
 ## West Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-23 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Open e-money accounts in the UEMOA | 209,025,380 accounts (2023) | [248,710,918 accounts (2024-12-31), of which 76,863,533 active, an activity rate of 30.9%](https://www.bceao.int/sites/default/files/2026-03/Rapport%20annuel%20sur%20les%20services%20financiers%20num%C3%A9riques%20dans%20l%27UEMOA%20-%202024.pdf) | Advanced |

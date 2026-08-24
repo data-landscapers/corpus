@@ -1,15 +1,17 @@
 ---
 title: Use of satellite data — monthly update, July 2026
-compiled: 2026-08-23
-period: 2026-07-01 to 2026-08-23
+compiled: 2026-08-24
+period: 2026-07-01 to 2026-08-24
 subject: data.satellite
-places: AGO; COG; EGY; GHA; LBR; LBY; NAM; NER; RWA; SYC; SLE; ZMB
-record: a43fb009521f
+places: AGO; COG; EGY; GHA; LBR; LBY; MOZ; NAM; NER; RWA; SYC; SLE; ZMB
+record: 80deff8acb33
 ---
 
 # Use of satellite data: monthly update, July 2026
 
-*12 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*13 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Angola
 
@@ -34,6 +36,10 @@ The Land Authority took the country's geospatial ambition abroad rather than to 
 ## Libya
 
 On 4 August the Libyan Authority for Scientific Research [discussed launching a first Libyan satellite for climate and desertification monitoring](https://www.lananews.com/ar/?p=499199), at design stage with no budget, timetable, launch partner or procurement route stated.
+
+## Mozambique
+
+A development-bank and Korean-financed programme has left a standing national flood-mapping capability: [nine LiDAR-equipped drone systems, simulators, unmanned surface vessels and data platforms, with 30 specialists from the meteorology institute, the disaster management institute, the cartography and remote-sensing centre, the roads administration and the water directorate certified in July](https://www.afdb.org/en/success-stories/eyes-above-ricatla-how-african-development-bank-korea-partnership-helped-mozambiques-flood-zone-achieve-zero-fatalities-96237). The cohort was deployed half-trained into the January 2026 Marracuene floods, which the district recorded with no loss of life. The account is the financing bank's own, and it states no running cost, custodian institution or arrangement for sharing the mapping output.
 
 ## Namibia
 

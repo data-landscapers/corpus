@@ -1,13 +1,13 @@
 ---
-title: Digital divides — progress report, 2025-08-01 to 2026-08-23
-compiled: 2026-08-23
-period: 2025-08-01 to 2026-08-23
+title: Digital divides — progress report, 2025-08-01 to 2026-08-24
+compiled: 2026-08-24
+period: 2025-08-01 to 2026-08-24
 subject: include.divides
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CAF; COM; COG; CIV; COD; EGY; ERI; SWZ; ETH; GHA; GIN; GNB; KEN; LBR; MWI; MLI; MUS; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; TZA; TGO; UGA; ZWE; XAF; XSA
-record: 81f89d55e9b9
+record: 7c974311e19b
 ---
 
-# Digital divides: progress report, 2025-08-01 to 2026-08-23
+# Digital divides: progress report, 2025-08-01 to 2026-08-24
 
 *38 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -17,7 +17,7 @@ record: 81f89d55e9b9
 
 ## Algeria
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Universal-service programme for low-density areas | ***Baseline not held*** | [1,400 areas reached; no target, budget or completion date](https://www.echoroukonline.com/%D8%B2%D8%B1%D9%88%D9%82%D9%8A-%D8%A7%D8%B3%D8%AA%D9%83%D9%85%D8%A7%D9%84-%D8%AA%D8%B9%D9%85%D9%8A%D9%85-%D8%A7%D9%84%D8%A3%D9%84%D9%8A%D8%A7%D9%81-%D8%A7%D9%84%D8%A8%D8%B5%D8%B1%D9%8A%D8%A9-%D9%85) | ***Baseline not held*** |
 
@@ -37,14 +37,14 @@ record: 81f89d55e9b9
 
 ## Botswana
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | BTC Community Wi-Fi, Old Naledi | A single site, tariffs P2 to P10 plus a free 45-minute daily window (2025-06) | [The same single site; no second site recorded to 2026-08-06](https://techafricanews.com/2025/06/09/botswana-launches-community-wi-fi-in-old-naledi-boosting-digital-inclusion/) | No change |
 | Universal Access and Service Fund school digital centres | ***Baseline not held*** | [P1.45m and P1.5m per site, thirty machines each; no programme total or school target published](https://dailynews.gov.bw/news-detail/92351) | ***Baseline not held*** |
 
 ## Burkina Faso
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Sahel connectivity project | Running, serving more than 3,650 users across two countries including host communities and refugees | [The project report published, with US$1.2m contributed by one European state, a vendor supplying access points and another agency training local teams](https://itweb.africa/article/ericsson-luxembourg-sweden-support-boosts-sahel-digital-connectivity/Pero3MZ3ozJqQb6m) | Closed |
 | Digital programme for girls and women | ***Baseline not held*** | [A EUR 2.25m grant from 2021 to 2025, recorded closed, with no evaluation, outturn or beneficiary count in the base](https://open.enabel.be/en/evaluation/23/download/96) | ***Baseline not held*** |
@@ -84,7 +84,7 @@ record: 81f89d55e9b9
 
 ## Cote d'Ivoire
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Feature-phone service platform | Did not exist | [Unchanged; nothing on file establishes the launch happened, and the stated date passed](https://techcabal.com/2026/02/06/brastorne-expands-to-cote-divoire/) | Stalled |
 | Territorial mobile-network coverage | 82% of the territory covered, with about 500 localities being connected | [About 95% of the territory covered](https://www.fratmat.info/article/2642807/societe/forum-intech-sante-2026-lansut-presente-sa-feuille-de-route-pour-connecter-les-zones-rurales-et-moderniser-lacces-aux-soins) | Advanced |
@@ -119,21 +119,21 @@ record: 81f89d55e9b9
 
 ## Ethiopia
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Universal Access Fund levy | Did not exist | [About 2.5bn birr a year from Ethio Telecom and Safaricom](https://www.thereporterethiopia.com/49962/) | Advanced |
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Makatet refugee-inclusion framework | Did not exist | [Covers 1.1m refugees and 2m internally displaced people](https://www.biometricupdate.com/202607/fayda-digital-id-critical-for-ethiopias-five-year-refugee-inclusion-strategy) | Advanced |
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Rural mobile-internet gender gap | ***Baseline not held*** | [81% in rural areas against 29% urban (2026-03)](https://dial.global/ethiopias-approach-to-use-cases/) | ***Baseline not held*** |
 
 ## Ghana
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | American-funded digital inclusion and connectivity programming | In delivery | [Planned and running work slowed or stopped after the 2025 wind-down, with no replacement funder named](https://www.developingtelecoms.com/telecom-business/humanitarian-communications/20670-usaids-exit-leaves-a-gap-in-the-drive-for-meaningful-connectivity.html) | Regressed |
 | Household survey of digital access | A 2019 regulator household survey, with a biennial repeat stated as intent | [No repeat round; 16.8% of households with internet access against 73.8% owning a television, 7.9% of people aged five and over owning a computer of any kind, and smartphone ownership at 58.4% urban against 28.1% rural](https://nca.org.gh/wp-content/uploads/2021/12/Household-Survey-on-ICT-in-Ghana-Abridged-NRF.pdf) | No change |
@@ -156,7 +156,7 @@ record: 81f89d55e9b9
 
 ## Kenya
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | American-funded digital inclusion and connectivity programming | In delivery, including work in remote counties | [Planned and running work slowed or stopped after the 2025 wind-down, with no replacement funder named](https://www.developingtelecoms.com/telecom-business/humanitarian-communications/20670-usaids-exit-leaves-a-gap-in-the-drive-for-meaningful-connectivity.html) | Regressed |
 | KenSafeSpace | Running on a EUR 1.3m EU grant | [Closed after 30 months, reporting 18,000 reached directly, 9.4m through campaigns and 133 defenders trained, with a 49-member coalition continuing unfunded](https://www.kictanet.or.ke/kensafespace-project-impact-digital-rights-kenya/) | Closed |
@@ -181,7 +181,7 @@ record: 81f89d55e9b9
 
 ## Mali
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Women's digital-training target | Did not exist | [Target set; no interim figure published](https://www.ifc.org/en/pressroom/2025/ifc-invests-in-orange-mali-to-expand-digital-connectivity-and-support-women-s-digi) | Advanced |
 
@@ -193,7 +193,7 @@ record: 81f89d55e9b9
 
 ## Mozambique
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | American-funded digital inclusion and connectivity programming | In delivery | [Planned and running work slowed or stopped after the 2025 wind-down, with no replacement funder named](https://www.developingtelecoms.com/telecom-business/humanitarian-communications/20670-usaids-exit-leaves-a-gap-in-the-drive-for-meaningful-connectivity.html) | Regressed |
 | Gender gap in access to credit | Women 31%, men 59% (2024) | [Women 34%, men 66% (2025)](https://clubofmozambique.com/news/atms-and-pos-terminals-lose-further-ground-to-mobile-money-in-mozambique/) | Regressed |
@@ -215,7 +215,7 @@ record: 81f89d55e9b9
 
 ## Nigeria
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Device affordability | ***Baseline not held*** | [Sub-$100 shipments down 34% year-on-year in Q2 2026 and the African average selling price up $41 to $202; Nigeria's own market down 11% in the quarter](https://techcabal.com/2026/08/20/ai-is-making-africas-cheapest-smartphones-harder-to-afford/) | Worsened |
 | Digital Futures programme for young people with disabilities | Did not exist | [A four-and-a-half-year programme run by a disability-rights organisation with a philanthropic foundation to expand employment access for young people with disabilities through digital skills, entrepreneurship and inclusive employment pathways, opened in Lagos with the state disability office's stated support](https://qualitativemagazine.com/lasoda-gm-champions-digital-inclusion-for-young-nigerians-with-disabilities-at-digital-futures-workshop/) | Advanced |
@@ -231,7 +231,7 @@ record: 81f89d55e9b9
 
 ## Senegal
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Population without connectivity | Baseline not held | [40% of the population still without access to connectivity, on the minister's statement to parliament (2026-08)](https://www.seneweb.com/fr/news/Technologie/fracture-numerique-40-des-senegalais-toujours-sans-acces-a-la-connectivite_n_501971.html) | ***Baseline not held*** |
 
@@ -244,13 +244,13 @@ record: 81f89d55e9b9
 
 ## Somalia
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Smartphone financing programme | Did not exist | [Targeting 100,000 affordable smartphones by end-2026 at a US$19 deposit and US$0.60 to US$1.60 a day, repaid over mobile money and scored on SIM tenure and spend; a pilot recorded under 4% default (2026-05)](https://www.connectingafrica.com/digital-inclusion/hormuud-get-phone-launch-smartphone-financing-program-in-somalia) | Advanced |
 
 ## Tanzania
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Digital transformation centre for rights and gender equity | EUR 3,000,000 committed, active | [EUR 3,000,000 committed, active](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=DE-1-202222214) | No change |
 
@@ -262,7 +262,7 @@ record: 81f89d55e9b9
 
 ## Uganda
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | American-funded digital inclusion and connectivity programming | In delivery | [Planned and running work slowed or stopped after the 2025 wind-down, with no replacement funder named](https://www.developingtelecoms.com/telecom-business/humanitarian-communications/20670-usaids-exit-leaves-a-gap-in-the-drive-for-meaningful-connectivity.html) | Regressed |
 | Digital for Girls and Women Uganda | Active; EUR 2.25m, 2021-2025 | [The record still reads active; the stated period has elapsed with no closure, extension or results record held](https://open.enabel.be/en/UGA/2662/p/digital-for-girls-and-women-uga.html) | No change |
@@ -278,12 +278,12 @@ record: 81f89d55e9b9
 
 ## Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-23 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Women and girls digital-inclusion accelerator | ***Baseline not held*** | [An industry-body accelerator backed by two private foundations opened its next call for digital-inclusion solutions for women and girls across India and sub-Saharan Africa, with a grant amount listed at INR 42,000,000](https://www.ngobox.org/full_grant_announcement_Applications-Invited-for-SheConnects-Digital-Accelerator-to-Advance-Womens-Digital-Inclusion-_13239) | ***Baseline not held*** |
 
 ## Southern Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-23 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | COMESA Regional Digital Inclusion Strategy | Did not exist | [In drafting under the World Bank-supported IDEA programme, with consultation on affordable connectivity and devices, skills gaps, accessibility and digital trust; no draft, drafter or adoption date published](https://www.comesa.int/consultations-held-to-shape-regional-artificial-intelligence-digital-inclusion-strategies-in-comesa/) | Advanced |

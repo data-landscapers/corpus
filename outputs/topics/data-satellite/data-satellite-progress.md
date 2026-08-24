@@ -1,21 +1,23 @@
 ---
-title: Use of satellite data — progress report, 2025-08-01 to 2026-08-23
-compiled: 2026-08-23
-period: 2025-08-01 to 2026-08-23
+title: Use of satellite data — progress report, 2025-08-01 to 2026-08-24
+compiled: 2026-08-24
+period: 2025-08-01 to 2026-08-24
 subject: data.satellite
 places: DZA; AGO; BWA; BFA; CMR; TCD; COM; COG; CIV; EGY; SWZ; ETH; GHA; LBR; LBY; MAR; MOZ; NAM; NER; NGA; RWA; SYC; SLE; TZA; ZMB; ZWE
-record: 50a4fba5c0e9
+record: b4cf9e15bf71
 ---
 
-# Use of satellite data: progress report, 2025-08-01 to 2026-08-23
+# Use of satellite data: progress report, 2025-08-01 to 2026-08-24
 
 *26 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
+*The place reports do not share one window; the period above is the range they span.*
+
 ## Algeria
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Alsat-3A and 3B high-resolution Earth-observation satellites | Did not exist | [Both satellites in orbit, operated with the Ministry of National Defence](https://www.echoroukonline.com/le-general-darmee-said-chanegriha-suit-loperation-de-lancement-du-deuxieme-satellite-alsat-3b) | Advanced |
 
@@ -28,13 +30,13 @@ record: 50a4fba5c0e9
 
 ## Botswana
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | BOTSAT-1 | In orbit, hyperspectral, with data commercialisation stated as the next phase | [Unchanged; commercialisation still stated as the next phase, with no product, customer or revenue held](https://www.telecomreviewafrica.com/articles/telecom-operators/11357-botswana-enters-space-race-with-botsat-1-launch/) | No change |
 
 ## Burkina Faso
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Satellite verification of land development | Did not exist; development of a plot had to be verified by a field commission on site | [The tax administration verifies development from satellite imagery without a site visit, instructing a file in a day, and the development period is extended from five to eight years](https://www.sidwaya.info/reorganisation-agraire-et-fonciere-la-nouvelle-loi-un-rempart-contre-les-derives/) | Advanced |
 
@@ -65,7 +67,7 @@ record: 50a4fba5c0e9
 
 ## Cote d'Ivoire
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Grand Abidjan urban planning geoportal | ***Baseline not held*** | [Under build with Japanese cooperation on three axes including a governance arrangement for managing, sharing and opening the data; the portal itself is not yet built](https://www.fratmat.info/article/2642517/economie/ville-intelligente-le-projet-de-promotion-du-geoportail-du-grand-abidjan-lance) | ***Baseline not held*** |
 
@@ -84,13 +86,13 @@ record: 50a4fba5c0e9
 
 ## Ethiopia
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Licensing framework for LEO satellite operators | In force (2021-07) | [Satellite services licensable as a GMPCS landing-right class authorisation; no LEO operator authorised on record](https://www.eca.et/wp-content/uploads/2022/10/2022-03-24T06-45-04.775ZTelecommunications-Licensing-Directive-No.-792-2021-English.pdf) | No change |
 
 ## Ghana
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Ghana Agricultural Information and Monitoring System | ***Baseline not held*** | [Live spatial/agricultural data platform named by BigData Ghana's co-founder as one of three live deployments; no coverage, user or funding figure published](https://www.myjoyonline.com/drowning-in-data-dying-from-bad-decisions-bigdata-ghana-ceo-charges-africa-to-act/) | ***Baseline not held*** |
 | National Forest Monitoring System and ForestTrace AI deforestation tracker | ***Baseline not held*** | [Live national forest monitoring system paired with the ForestTrace AI deforestation tracker, built toward EU Deforestation Regulation compliance for cocoa and gold supply chains; no coverage or accuracy figure published](https://www.myjoyonline.com/drowning-in-data-dying-from-bad-decisions-bigdata-ghana-ceo-charges-africa-to-act/) | ***Baseline not held*** |
@@ -115,8 +117,9 @@ record: 50a4fba5c0e9
 
 ## Mozambique
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
+| National flood-mapping drone capability | Did not exist | [A standing national flood-mapping capability left by a development-bank and Korean-financed programme: nine LiDAR-equipped drone systems, simulators, unmanned surface vessels and data platforms, with 30 specialists from the meteorology institute, the disaster management institute, the cartography and remote-sensing centre, the roads administration and the water directorate certified in July 2026, after the half-trained cohort was deployed months early into the January 2026 Marracuene floods, which the district recorded with no loss of life](https://www.afdb.org/en/success-stories/eyes-above-ricatla-how-african-development-bank-korea-partnership-helped-mozambiques-flood-zone-achieve-zero-fatalities-96237) | Advanced |
 | ANGOSAT-2 connectivity via the Boane earth station | ***Baseline not held*** | [Station integrated and under test; remote terminals not yet activated](https://techreviewafrica.com/news/6025/angola-and-mozambique-sign-space-and-digital-cooperation-agreements-to-strengthen-connectivity) | ***Baseline not held*** |
 | Starlink terminals in disaster response | ***Baseline not held*** | [Donated terminals deployed by the regulator with open access, plus four operator connectivity kits at Boane, Bobole, Manhica and Marracuene](https://clubofmozambique.com/news/starlink-vodacom-bring-hope-to-flood-hit-mozambique/) | ***Baseline not held*** |
 
@@ -135,7 +138,7 @@ record: 50a4fba5c0e9
 
 ## Nigeria
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Amazon Kuiper landing permit | Did not exist | [Permit granted; no service](https://techafricanews.com/2026/01/15/ncc-grants-landing-permit-to-amazons-project-kuiper-for-satellite-operations-in-nigeria/) | Advanced |
 | Starlink Nigeria service | Second-largest ISP by subscribers | [Orders paused over congestion, later reopened](https://techcabal.com/2025/03/10/starlink-now-nigerias-second) | Regressed |
@@ -163,13 +166,13 @@ record: 50a4fba5c0e9
 
 ## Tanzania
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Educational cubesat | Did not exist | [A budget line, with no design, launch date, operator or cost broken out](https://www.mwananchi.co.tz/mw/habari/kitaifa/kairuki-aomba-222-5-bilioni-kamati-yaitaja-tcra-5442016) | Advanced |
 
 ## Zambia
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Satellite and AI farm traceability platform | No position held at 2025-08-01 | [A Zambian platform pairing satellite imagery with artificial intelligence for smallholder traceability and market matching, built after commercial traceability software quotes ran to thousands of dollars a month, and stated to have changed how thousands of farmers interact with markets in under three years](https://techcabal.com/2026/07/31/how-high-school-sweethearts-built-ai-farmers/) | ***Baseline not held*** |
 

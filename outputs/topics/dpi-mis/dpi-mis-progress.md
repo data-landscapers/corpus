@@ -1,13 +1,13 @@
 ---
-title: Sectoral management information systems (HMIS, EMIS, etc.) — progress report, 2025-08-01 to 2026-08-23
-compiled: 2026-08-23
-period: 2025-08-01 to 2026-08-23
+title: Sectoral management information systems (HMIS, EMIS, etc.) — progress report, 2025-08-01 to 2026-08-24
+compiled: 2026-08-24
+period: 2025-08-01 to 2026-08-24
 subject: dpi.mis
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBY; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF; XWA
-record: b4a8b8e1279b
+record: 8c2ab73dbe20
 ---
 
-# Sectoral management information systems (HMIS, EMIS, etc.): progress report, 2025-08-01 to 2026-08-23
+# Sectoral management information systems (HMIS, EMIS, etc.): progress report, 2025-08-01 to 2026-08-24
 
 *52 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -17,7 +17,7 @@ record: b4a8b8e1279b
 
 ## Algeria
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Automated water-meter reading pilot (SEAAL with OTEC/Omantel) | Did not exist | [MoU for a LoRaWAN pilot; no site, scale or start date](https://techafricanews.com/2026/07/30/omantel-expands-regional-digital-footprint-with-algeria-smart-water-partnership/) | Advanced |
 | Four higher-education digital platforms | Did not exist | [Four platforms live](https://techafricanews.com/2026/02/25/algeria-launches-four-new-digital-platforms-to-modernise-higher-education-sector/) | Advanced |
@@ -51,7 +51,7 @@ record: b4a8b8e1279b
 
 ## Botswana
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Animal Disease Surveillance Dashboard | Did not exist | [In operation, consolidating field data for national animal-health surveillance](https://www.mmegi.bw/news/botswana-gains-upper-hand-against-fmd/news) | Advanced |
 | Government Accounting and Budgeting System | Fully operational after the December 2024 fix, more than 20,000 users | [Unchanged; no later statement, availability figure or upgrade held](https://dailynews.gov.bw/news-detail/85274) | No change |
@@ -59,7 +59,7 @@ record: b4a8b8e1279b
 
 ## Burkina Faso
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Customs system | Procurement of an intelligent customs solution authorised at FCFA 3.313bn, entirely state-budget financed, nothing built | [The system in advanced testing with production imminent](https://www.sidwaya.info/transformation-numerique-inclusion-financiere-et-financement-des-pme-le-bilan-dun-projet-structurant-au-burkina-faso/) | Advanced |
 | Pension acts platform | Did not exist | [Announced as the platform that will join the pension fund, the civil-service directorate and the budget directorate on a single pension file](https://www.laborpresse.net/retraite-des-agents-publics-du-burkina-faso-une-plateforme-ecarfo-dediee-aux-formalites/) | Advanced |
@@ -124,7 +124,7 @@ record: b4a8b8e1279b
 
 ## Cote d'Ivoire
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Transport data platform | Did not exist | [Collects and analyses road, port, airport and rail flow data, with corridor and checkpoint mapping and decision dashboards](https://www.fratmat.info/article/2641293/economie/fluidite-des-transports-une-nouvelle-plateforme-pour-accompagner-les-acteurs) | Advanced |
 
@@ -168,7 +168,7 @@ record: b4a8b8e1279b
 
 ## Ethiopia
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | America First Global Health Strategy memorandum of understanding | Did not exist | [Planned United States support of US$1,016,000,000 across 2026-2030 against Ethiopia's US$450,000,000, of which US$18,850,149 is for health data systems on a profile falling from US$6,283,383 in 2026 to US$1,256,677 in 2030, with Ethiopia to carry software licensing, cloud, hardware and maintenance costs for those systems; the United States reserves 6% of the top-line budget for its own management and operations, and Ethiopia signed through the Minister of Finance](https://www.citizen.org/wp-content/uploads/2026-0004QN-Ethiopia-Health-12.23.2025.pdf) | Advanced |
 | Donor-funded health and surveillance data systems | Donor-funded surveillance operating | [Livestock and zoonotic surveillance suspended; the national health system stayed online on local staffing](https://developmentgateway.org/blog/a-year-after-usaid-reclaiming-control-of-data-systems/) | Regressed |
@@ -179,7 +179,7 @@ record: b4a8b8e1279b
 
 ## Gabon
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Systeme d'information et de gestion de l'education | Operating, with school-health indicators being integrated | [Operating, with 1,000 tablets delivered on 2026-07-30 for the 148 connected schools](https://gabonmediatime.com/gabon-integration-de-la-sante-scolaire-dans-le-systeme-de-gestion-educative) | Advanced |
 | eGabon health information system | Thirteen pilot facilities equipped | [Still thirteen pilot facilities; no facility count, interconnection figure or national rollout published](https://www.gabonreview.com/egabon-sis-un-don-dequipements-pour-accelerer-la-numerisation-des-structures-sanitaires/) | No change |
@@ -187,14 +187,14 @@ record: b4a8b8e1279b
 
 ## Gambia
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | DHIS2 for Education | ***Baseline not held*** | [Individual learner tracking and school report cards being built on DHIS2 by the basic and secondary education ministry; no coverage figure or go-live date published (2026-05)](https://education.dhis2.org/gambia-data-driven-education) | ***Baseline not held*** |
 | Smart Paper Technology for community health data | ***Baseline not held*** | [In use for community health data capture; no district count or record volume published (2025-12)](https://articles.nigeriahealthwatch.com/smart-paper-technology-is-transforming-community-health-data-capture-in-the-gambia) | ***Baseline not held*** |
 
 ## Ghana
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Meteorological agency digitalisation roadmap | Did not exist | [A donor-run gap assessment delivered, with an implementation roadmap yet to be written](https://techafricanews.com/2026/08/20/dmi-assessment-highlights-ict-cybersecurity-and-data-gaps-at-ghanas-gmet/) | Advanced |
 | Health management information system | ***Baseline not held*** | [Rollout directed and a vendor engaged; no completion, facility count or coverage figure held since](https://www.graphic.com.gh/news/general-news/health-ministry-rolls-out-new-digital-system-to-fix-hospital-service-disruptions.html) | ***Baseline not held*** |
@@ -209,7 +209,7 @@ record: b4a8b8e1279b
 
 ## Kenya
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Biometric Health Identification | Launched at Kenyatta University hospital 2025-08-04 with 29 biometric devices, operational in all level 4 to 6 public facilities | [Extended to biometric enrolment of dependants aged 7 to 17, each issued a Maisha Namba linked to their health record](https://www.biometricupdate.com/202606/kenya-expands-digital-id-program-to-minors-through-health-sector-rollout) | Advanced |
 | Kenya Education Management Information System | Pilot due July 2025 and full go-live promised by September 2025, with a unique identifier for every child | [No confirmation of go-live, coverage or learner count on file as at 2026-08-05](https://www.biometricupdate.com/202505/kenya-to-harmonize-education-sector-data-through-maisha-namba-id-integration) | Stalled |
@@ -248,7 +248,7 @@ record: b4a8b8e1279b
 
 ## Mali
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | National digital health portal | Did not exist | [Live with facility geolocation; power, urban-rural divide and interoperability flagged as obstacles](https://techgriot.co/english/african-tech/2026/07/mali-launches-a-national-digital-portal-to-modernize-healthcare-access/) | Advanced |
 | OpenClinic health information system | Did not exist | [In build; stated to link to the NINA and to mandatory health insurance](https://www.ecofinagency.com/news-digital/1709-48777-mali-rolls-out-new-digital-tools-to-modernize-public-administration) | Advanced |
@@ -276,7 +276,7 @@ record: b4a8b8e1279b
 
 ## Mozambique
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | National health management information system | None established | [The Government of Mozambique is owner and operator of SIS-RME as the core integrated electronic medical record, its minimum viable version targeted for release in September 2026 with modules for registration, consultation, maternal and child health, HIV and TB; the United States-built Electronic Patient Tracking System SESP was to pass to Mozambican management by 2026-06-20 and to be retired once its data and functions are migrated; SIS-LAB for laboratories, eVIDR for outbreak surveillance and nSIMAM for commodity logistics sit behind a health data exchange expected functional by the end of 2026, with a national health data warehouse expected operational by the end of 2027](https://www.citizen.org/wp-content/uploads/2026-0008QN-Mozambique-Health-12.15.2025.pdf) | Advanced |
 | Digital Health Strategy 2025-2034 | ***Baseline not held*** | [Mozambique's first dedicated digital health strategy, on a ten-year horizon](https://www.ictworks.org/updated-every-african-countrys-national-digital-health-strategy-in-2026/) | ***Baseline not held*** |
@@ -299,7 +299,7 @@ record: b4a8b8e1279b
 
 ## Nigeria
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Customs Electronic Cargo Tracking System | Did not exist | [GPS tracking replacing physical escort at a second command](https://www.thisdaylive.com/2026/07/29/ncs-deploys-electronic-cargo-tracking-system-at-ptml/) | Advanced |
 | IPPIS human-resource modules | Did not exist | [Biometric onboarding, payroll and workforce analytics across 508+ agencies](https://fmino.gov.ng/fg-launches-ippis-human-resource-modules-deepens-digital-transformation-of-civil-service/) | Advanced |
@@ -323,7 +323,7 @@ record: b4a8b8e1279b
 
 ## Senegal
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Mortality and cause-of-death analysis tool | Did not exist | [Training delivered; the tool assesses mortality data coded to international classifications and disaggregates by age, sex, territory and cause](https://lesoleil.sn/actualites/sante/renforcement-informations-sanitaires-anacod3-lance-afin-dameliorer-la-qualite-des-donnees-de-mortalite/) | Advanced |
 | Digital-health bill | ***Baseline not held*** | [Unadopted; status, sponsor and text not stated](https://lesoleil.sn/actualites/sante/coeur-rose-de-diourbel-plaide-ladoption-de-la-loi-sur-la-sante-digitale/) | ***Baseline not held*** |
@@ -343,14 +343,14 @@ record: b4a8b8e1279b
 
 ## Somalia
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Electronic Immunization Register | Did not exist | [Running on an open-source health platform, assigning each vaccinated child a unique identifier with dose histories and SMS reminders, against about 60% of children recorded as zero-dose (2026-02)](https://www.hiiraan.com/national4/2026/Feb/204540/somalia_expands_digital_public_infrastructure_dpi_for_child_immunization_in_mogadishu_.aspx) | Advanced |
 | Pandemic Fund health information project | Did not exist | [A project to strengthen prevention, preparedness, detection and response for infectious disease and public health emergencies, launched by the health minister with a set of multilateral and regional partners](https://afenet.net/the-minister-of-health-somalia-launched-the-pandemic-fund-project/) | Advanced |
 
 ## South Africa
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | NSFAS student funding system | Board dissolved 2024 over IT-system failures | [Under administration; ICT named the largest operational risk](https://www.itweb.co.za/article/nsfas-says-ict-is-its-biggest-operational-risk/rW1xLv5ngJy7Rk6m) | Regressed |
 | National Digital Health Strategy 2019-2024 | Term already expired | [No successor strategy held](https://knowledgehub.health.gov.za/system/files/elibdownloads/2023-04/national-digital-strategy-for-south-africa-2019-2024-b.pdf) | No change |
@@ -371,7 +371,7 @@ record: b4a8b8e1279b
 
 ## Tanzania
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Health management information system | A fragmented ecosystem of eighteen systems, with the platform in all district councils since 2013 carrying over 90% of flows | [Unchanged; no dated update inside the progress window](https://pmc.ncbi.nlm.nih.gov/articles/PMC10617168/) | No change |
 | Agriculture and fertiliser information systems | ***Baseline not held*** | [One system holds farmer records, manages ministry institutions and issues agricultural permits; the other monitors manufacturers, importers and distributors against indicative prices](https://dailynews.co.tz/ega-drives-digital-farming/) | ***Baseline not held*** |
@@ -387,7 +387,7 @@ record: b4a8b8e1279b
 
 ## Tunisia
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Sahetna.tn health portal | Did not exist | [Cleared its technical gate and not launched; it is to expose medical records, appointments and treatment tracking against the health identifier, and no legal basis, retention rule or data-protection authority is named for the linked dataset (2026-07)](https://tmo-mag.com.tn/tunisia-finalizes-sahetna-tn-digital-health-portal-as-national-id-rollout-gains-steam/) | Advanced |
 | School life platform (viescolaire.education.tn) | ***Baseline not held*** | [A single platform consolidating every stage of schooling, with parents asked to create accounts ahead of registration opening; no data-protection basis, retention rule or pupil-record scope published](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/151762-%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D9%8A%D8%A9-%D8%AA%D8%B7%D9%84%D9%82-%D9%85%D9%86%D8%B8%D9%88%D9%85%D8%A9-%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%88%D8%B4%D8%A7%D9%85%D9%84%D8%A9) | Advanced |
@@ -395,13 +395,13 @@ record: b4a8b8e1279b
 
 ## Uganda
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | National Laboratory Data Repository | Did not exist | [A one-stop platform linking laboratory information systems to the National Health Data Warehouse for real-time surveillance and planning](https://www.newvision.co.ug/category/health/ugandas-new-lab-data-repository-to-boost-heal-NV_227554_032026) | Advanced |
 
 ## Zambia
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Constituency Development Fund management information system | Did not exist in the base at 2025-08-01 | [In data entry across councils, intended to track fund transactions and payments individually; the June 2026 operationalisation date is not confirmed by any held source](https://kalemba.news/local/government-to-track-cdf-transactions-payment-digitally-as-e-council-develops/) | Advanced |
 | Emergency outbreak response platform | Did not exist | [A platform built by the national public health institute with a research centre, holding outbreak information, response activities, teams and tasks in one place, in user-acceptance testing](https://www.cidrz.org/2026/08/19/infectious-disease-response-goes-digital/) | Advanced |
@@ -418,13 +418,13 @@ record: b4a8b8e1279b
 
 ## Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-23 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Africa CDC Central Data Repository | Did not exist | [A federated repository integrating national surveillance, laboratory and programme data in which member states retain ownership of their data](https://africacdc.org/news-item/africa-cdc-establishes-central-data-repository-to-strengthen-public-health-surveillance/) | Advanced |
 | African Regional Integration Synthesized Index (ASRII) platform | ***Baseline not held*** | [The African Union Commission's platform for submission, validation, automated computation and dissemination of regional integration scores across political, economic, infrastructure, and human and social pillars, developed with the regional economic communities, the Economic Commission for Africa and the African Development Bank to replace manual data collection. Deployment to the regional economic communities began with a four-day training of 20 core participants at the ECOWAS Commission in Abuja on 4-7 August 2026, at which its Secretary General said the Commission holds no centralised database of the status, amendments and implications of regional legal protocols](https://www.ecowas.int/ecowas-commission-and-african-union-conclude-asrii-digital-platform-training-with-high-level-engagement-with-the-secretary-general/) | ***Baseline not held*** |
 
 ## West Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-23 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | ASRII Digital Platform | ***Baseline not held*** | [Twenty core participants trained across the Commission's directorates with the Directorate of Research and Statistics named as single focal point; the platform is to replace manual collection with submission, validation, automated computation of integration scores and dissemination, and is to be used to evaluate member states' policy implementation and track commitments across sectors. No integration score has been published (2026-08)](https://www.ecowas.int/ecowas-commission-and-african-union-conclude-asrii-digital-platform-training-with-high-level-engagement-with-the-secretary-general/) | ***Baseline not held*** |

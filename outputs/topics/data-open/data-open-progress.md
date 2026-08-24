@@ -1,13 +1,13 @@
 ---
-title: Open data — progress report, 2025-08-01 to 2026-08-23
-compiled: 2026-08-23
-period: 2025-08-01 to 2026-08-23
+title: Open data — progress report, 2025-08-01 to 2026-08-24
+compiled: 2026-08-24
+period: 2025-08-01 to 2026-08-24
 subject: data.open
 places: BEN; CMR; CPV; COG; CIV; DJI; COD; EGY; GNQ; GHA; KEN; LBY; MDG; MWI; MRT; MUS; MAR; NAM; NER; TUN; UGA; ZMB; ZWE
-record: 3f7b1056d038
+record: c47b076b57a0
 ---
 
-# Open data: progress report, 2025-08-01 to 2026-08-23
+# Open data: progress report, 2025-08-01 to 2026-08-24
 
 *23 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -45,7 +45,7 @@ record: 3f7b1056d038
 
 ## Cote d'Ivoire
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Access to public-interest information programme | Presented as the operational refresh of the 2013 access-to-information law: a portal, a conformity audit tool, a helpline, a mobile application and a monitoring barometer | [Unchanged; no later source on file in the year since](https://www.fratmat.info/article/2635603/culture/access-caidp-un-tournant-pour-la-transparence-et-lacces-a-linformation-en-cote-divoire) | No change |
 
@@ -79,13 +79,13 @@ record: 3f7b1056d038
 
 ## Ghana
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Fisheries Information System | Did not exist | [An online fisheries information system built by the fisheries ministry with the national multi-stakeholder group and launched in June 2026, with inadequate funding constraining the wider Fisheries Transparency Initiative commitment it sits under](https://gna.org.gh/2026/08/funding-constraints-threaten-ghanas-fisheries-transparency-agenda/) | Advanced |
 
 ## Kenya
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | National data marketplace | Did not exist | [Proposed state-run marketplace, more than 1,000 datasets over five years, KSh 396m to build and operate, overseen by a proposed national council](https://nation.africa/kenya/business/state-plans-ecitizen-data-sale-to-boost-revenue--5488496) | Advanced |
 
@@ -148,7 +148,7 @@ record: 3f7b1056d038
 
 ## Tunisia
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Agrifood sector data portal | Did not exist | [Live and free after registration, centralising regulatory monitoring, market movement, export opportunity and sector-trend data under three public bodies; built inside a German- and EU-financed project with no amount disclosed and no statement of what happens when the project ends (2026-07)](https://www.lapresse.tn/2026/07/26/agroalimentaire-la-tunisie-lance-un-nouveau-portail-pour-aider-les-entreprises-a-mieux-decider/) | Advanced |
 | Aswat Nissa femicide data platform | Did not exist | [A civil-society platform to centralise Tunisia's femicide data, opening the 109 cases documented since January 2018 (30 in 2025, 26 in 2024, 25 in 2023, 23 in 2022) to researchers, media and civil-society organisations; launch set for 12 August 2026, with no state role or public-data reconciliation stated (2026-08)](https://www.wearetech.africa/fr/fils/actualites/tech/tunisie-aswat-nissa-lancera-mercredi-une-plateforme-pour-recenser-les-feminicides) | Advanced |
@@ -156,13 +156,13 @@ record: 3f7b1056d038
 
 ## Uganda
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Procurement portal conformance with the infrastructure data standard | ***Baseline not held*** | [26 of 148 data elements published, 17.6%, and 4.2% of required project-level disclosure paths (2025-11)](https://www.newvision.co.ug/category/business/why-govt-is-moving-to-upgrade-procurement-por-NV_222664_022026) | ***Baseline not held*** |
 
 ## Zambia
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | 2026 Abuja Declaration on Meaningful Connectivity | Did not exist | [Adopted by African telecommunications ministers, defining meaningful connectivity as regular access plus a suitable device, sufficient data and a connection fast enough for video learning and commerce, and committing signatories to review sector-specific taxes and levies, lower taxes on entry-level devices, incentivise local assembly and reduce import tariffs on handsets priced below US$50](https://techafricanews.com/2026/07/27/atu-conference-adopts-abuja-declaration-to-advance-meaningful-connectivity-across-africa/) | Advanced |
 

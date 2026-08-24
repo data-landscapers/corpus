@@ -1,21 +1,23 @@
 ---
-title: Digitalisation of sub-national government — progress report, 2025-08-01 to 2026-08-23
-compiled: 2026-08-23
-period: 2025-08-01 to 2026-08-23
+title: Digitalisation of sub-national government — progress report, 2025-08-01 to 2026-08-24
+compiled: 2026-08-24
+period: 2025-08-01 to 2026-08-24
 subject: digital.localgov
 places: DZA; AGO; BFA; CMR; TCD; COG; COD; EGY; SWZ; ETH; GAB; GMB; GIN; KEN; LSO; LBY; MWI; MLI; MOZ; NAM; NER; NGA; RWA; SOM; TZA; TGO; ZMB; ZWE
-record: b05ba4118b1c
+record: 76957d3f6ff5
 ---
 
-# Digitalisation of sub-national government: progress report, 2025-08-01 to 2026-08-23
+# Digitalisation of sub-national government: progress report, 2025-08-01 to 2026-08-24
 
 *28 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
+*The place reports do not share one window; the period above is the range they span.*
+
 ## Algeria
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Municipal digitalisation ("electronic municipalities") | In development (2025, year-precision) | [No later account held](https://doi.org/10.56334/sei/8.12.46) | No change |
 
@@ -27,7 +29,7 @@ record: b05ba4118b1c
 
 ## Burkina Faso
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Citizen service centres | A plan being drafted, with no site under construction | [Two pilots under construction, the first of them named Zama Tchey and intended to bring postal, financial and digital services closer to the population, with architectural studies under way for a further city, eight regional capitals and fifty rural communes, against a state and postal-service contract for twenty spaces over five years; physical execution across this site and the digital infrastructure supervision centre together stood at about 20% on 2026-08-05](https://www.moussonews.com/contrats-dobjectifs-2026-467-de-taux-dexecution-a-mis-parcours-pour-dr-aminata-zerbo-sabane/) | Advanced |
 | Regional portals | Did not exist | [One portal per region covering all seventeen regions, built jointly by the territorial-administration and digital ministries, with an electronic document-archiving system](https://www.sidwaya.info/portails-des-regions-du-burkina-faso-un-pas-decisif-vers-une-administration-numerique-de-proximite/) | Advanced |
@@ -73,20 +75,20 @@ record: b05ba4118b1c
 
 ## Ethiopia
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Addis Ababa one-stop digital service centres | ***Baseline not held*** | [11 one-stop centres carrying more than 150 services from more than 25 integrated institutions; no volumes, cost or evaluation published](https://www.amn.gov.et/en/addis-ababas-digital-one-stop-platform-streamlines-government-services-bringing-over-150-services-under-one-digital-system-official/) | ***Baseline not held*** |
 
 ## Gabon
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | ANINF provincial office network | No office outside Libreville since the agency was created in 2011 | [One provincial office](https://techreviewafrica.com/news/6042/aninf-opens-first-provincial-office-in-franceville) | Advanced |
 | Libreville municipal revenue-digitalisation system | Not on the record | [Operating, and explicitly distinct from the national scheme, which will not replace it](https://union.sonapresse.com/fr/paiement-numerique-la-mairie-de-libreville-accompagne-le-deploiement-de-madigipaie) | ***Baseline not held*** |
 
 ## Gambia
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Kanifing municipal digital addressing | ***Baseline not held*** | [36,000 properties georeferenced, feeding property-tax billing and waste management in Kanifing Municipality (2025-12)](https://logri.org/publication/implementing-a-comprehensive-digital-addressing-system-a-step-by-step-guide-inspired-by-the-experience-of-kanifing-municipality-the-gambia) | ***Baseline not held*** |
 
@@ -98,7 +100,7 @@ record: b05ba4118b1c
 
 ## Kenya
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | County digital services register | None published | [All 47 counties scored out of 100 on citizen experience, revenue and back-office systems, data use and employment creation, from 98.3 for Murang'a to 28.8 for Wajir, with seven counties at Grade A and six at Grade D](https://vision2030.go.ke/wp-content/uploads/2026/02/ASSESSMENT-REPORT-AUTOMATION-EMPLOYMENT-IN-COUNTIES-23-02-2026.pdf) | Advanced |
 | Kirinyaga One Government Network fibre | ***Baseline not held*** | [102.4km of fibre connecting all five sub-counties, with nine public Wi-Fi hotspots live and 80 further sites surveyed](https://www.telecomreviewafrica.com/articles/general-news/28132-kenya-advances-digital-economy-with-fiber-wi-fi-and-youth-programs/) | ***Baseline not held*** |
@@ -129,14 +131,14 @@ record: b05ba4118b1c
 
 ## Mali
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Digital payment at civil registry centres | ***Baseline not held*** | [About FCFA 200m collected between July 2024 and May 2026, with every collectivite ordered to report within 30 days](https://fassoactu.com/2026/07/31/transparence-financiere-les-collectivites-sommees-daccelerer-la-digitalisation-des-paiements/) | ***Baseline not held*** |
 | Koutiala commune fiscal census and financial management digitisation | ***Baseline not held*** | [Surveying taxable commercial equipment and public-space use and equipping the town hall with digital financial-management tools, to widen the commune's own-source revenue](https://www.idsahel.com/2026/08/13/koutiala-un-projet-de-recensement-fiscal-et-de-digitalisation-pour-renforcer-la-gestion-des-ressources-communales/) | ***Baseline not held*** |
 
 ## Mozambique
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Municipal revenue and property-tax management system | Not held | [SISPGIA processes property-tax collection in Maputo; SISTAE, SIRR and SIGERE named as further municipal revenue systems; no national rollout or count of municipalities using them established](https://www.pdul.gov.mz/content/download/513/2779/file/Avaliacao%20Rapida%20do%20SIGEF%20Municipal.pdf) | Advanced |
 | Projecto Municipio Digital | Launched by memorandum across all 65 municipalities, with no delivery report (2025-02) | [Same at 2026-08-09: work packages cover mass rollout of municipal virtual secretariats, digital issue of the national tax clearance certificate, participatory-governance and transparency tools and adoption of the National Document Management System, with widening revenue-collection capacity stated among its objectives; no budget, delivery or progress report is held](https://jornalnoticias.co.mz/destaque/digitalizacao-moderniza-gestao-municipal-no-pais/) | No change |
@@ -155,7 +157,7 @@ record: b05ba4118b1c
 
 ## Nigeria
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Enugu smart green schools | 260 schools announced (2024-02) | [Still 260 schools announced, at about ₦1.3-1.5bn each](https://www.thecable.ng/investigation-in-enugu-smart-schools-get-all-attention-but-concerns-remain-over-work-quality-part-ii/) | Stalled |
 | Enugu TradEX Programme | Did not exist | [Free digital storefronts, CAC registration support, digital-trade training and payment enablement open to 1,000 Enugu SMEs; cost, funder and selection method unstated](https://itpulse.com.ng/enugu-launches-tradex-programme-to-support-1000-smes-with-digital-trade/) | Advanced |
@@ -164,7 +166,7 @@ record: b05ba4118b1c
 | Lagos digital house-numbering and addressing | Piloting (2025-06) | [Piloting](https://www.wearetech.africa/en/fils-uk/news/nigeria-lagos-unveils-digital-house-numbering-system-to-power-smart-city-vision) | No change |
 | Anambra OneGov state services platform | Not held | [In its second phase, expanding to digitise state government services and formalise small and medium enterprises; the platform logged about 14,000 visits over three weeks in July despite limited publicity](https://punchng.com/anambra-deepens-digital-push-targets-sme-formalisation/) | ***Baseline not held*** |
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Cross River Smart Surveillance Infrastructure Project | Did not exist | [Phase One approved for a Huawei-specified facial-recognition and plate-recognition network feeding a command centre in the Office of the State Security Adviser](https://www.thisdaylive.com/2026/07/31/c-river-set-to-launch-smart-surveillance-infrastructure-to-bolster-security-climate-resilience/) | Advanced |
 | AI open-contracting platform in three states | Live (2025-02) | [Running in three states](https://www.vanguardngr.com/2025/02/ai-integrated-platform-to-simplify-public-procurement-data-in-plateau-edo-ekiti) | No change |
@@ -179,13 +181,13 @@ record: b05ba4118b1c
 
 ## Somalia
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | SUMER revenue collection terminals (Hirshabelle) | Paper vouchers carried up to 90km and hand-keyed, on a reconciliation cycle of 30 to 45 days (2025-08) | [Terminals holding the tariff schedule on the device, paying over mobile money into the government account with real-time QR receipts (2026-07)](https://www.dawan.africa/news/hirshabelles-digital-fix-for-somalias-oldest-tax-problem) | Advanced |
 
 ## Tanzania
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Make Kibamba Digital | Did not exist | [A constituency digitalisation strategy opening with the education department's administration, inter-departmental communication, examination coordination and service delivery, marked by 20 computers and two printers valued at TZS 100m donated by a consumer lender; secondary schools stated next and ward offices in phases over three to four years](https://ippmedia.co.tz/the-guardian/business/read/bayport-donates-100m-tech-facility-to-kibambas-education-department-2026-08-04-131047) | Advanced |
 
@@ -198,7 +200,7 @@ record: b05ba4118b1c
 
 ## Zambia
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | e-Council platform | Did not exist at 2025-08-01; announced 2026-03-25 as a proof-of-concept phase one with eight councils, covering property taxes, business levy, market levy, health permits and fire certificates | [Live at eight local authorities, collecting about K21.7 million in the first month for property rates, business levies and permits, with Lusaka City Council urging business and property owners to use it on stated grounds of minimising revenue leakages](https://kalemba.news/local/government-to-track-cdf-transactions-payment-digitally-as-e-council-develops/) | Advanced |
 | Local authorities on the national portal | Did not exist; no local authority on the portal | [Lusaka City Council live, with seven further councils stated as due to follow by 2026-06-30 and no held source confirming they did](https://diggers.news/local/2026/05/29/councils-to-go-digital-as-lcc-becomes-first-on-zamportal/) | Advanced |

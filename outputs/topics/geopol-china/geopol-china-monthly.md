@@ -1,15 +1,17 @@
 ---
 title: China activities — monthly update, July 2026
-compiled: 2026-08-23
-period: 2026-07-01 to 2026-08-23
+compiled: 2026-08-24
+period: 2026-07-01 to 2026-08-24
 subject: geopol.china
 places: DZA; CPV; TCD; COD; ETH; GAB; KEN; NAM; NER; SEN; ZMB
-record: 9793f2d5ce35
+record: a47362aff0fb
 ---
 
 # China activities: monthly update, July 2026
 
 *11 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Algeria
 

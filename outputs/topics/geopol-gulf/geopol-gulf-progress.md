@@ -1,17 +1,19 @@
 ---
-title: Gulf/UAE activities — progress report, 2025-08-01 to 2026-08-23
-compiled: 2026-08-23
-period: 2025-08-01 to 2026-08-23
+title: Gulf/UAE activities — progress report, 2025-08-01 to 2026-08-24
+compiled: 2026-08-24
+period: 2025-08-01 to 2026-08-24
 subject: geopol.gulf
 places: AGO; BWA; BFA; CAF; CIV; COD; SWZ; MLI; MRT; NAM; NER; SDN; UGA; ZWE
-record: 9cb8296cf764
+record: cbd9e80e6554
 ---
 
-# Gulf/UAE activities: progress report, 2025-08-01 to 2026-08-23
+# Gulf/UAE activities: progress report, 2025-08-01 to 2026-08-24
 
 *14 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Angola
 
@@ -21,13 +23,13 @@ record: 9cb8296cf764
 
 ## Botswana
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Kala Data heads of agreement | Heads of agreement in place with the UAE counterparty, site planning under way | [Unchanged; the UAE counterparty is not named in the operator's 2026-08-03 quarterly account](https://itweb.africa/article/botswanas-kala-data-centre-near-revenue-generating-stage/lwrKxv3YbjAMmg1o) | No change |
 
 ## Burkina Faso
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Gulf digital memorandum | Did not exist | [A memorandum covering AI skills, digital infrastructure, electronic-government consolidation and cybersecurity, with no project, value, timetable or delivery reported since signature](https://www.connectingafrica.com/digital-inclusion/burkina-faso-uae-s-presight-partner-to-accelerate-digital-transformation) | Advanced |
 
@@ -39,7 +41,7 @@ record: 9cb8296cf764
 
 ## Cote d'Ivoire
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Gulf AI memoranda | Two non-binding memoranda, one framework for public-administration reform and digitalisation and one for the next national digital strategy | [Unchanged; no work programme, deliverable, successor instrument or vendor presence on file as at 2026-08-05](https://www.wearetech.africa/en/fils-uk/news/tech/cote-d-ivoire-signs-ai-partnership-to-modernize-public-services) | No change |
 
@@ -57,7 +59,7 @@ record: 9cb8296cf764
 
 ## Mali
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | e& Partner2Connect digital-infrastructure pledge | Did not exist | [$6bn committed 2024-2026 across 16 markets including Mali and Niger, undivided between them; no Mali-specific allocation published](https://www.thenationalnews.com/future/technology/2024/03/01/uaes-e-commits-6bn-to-advance-technology-infrastructure-in-16-countries/) | Advanced |
 
@@ -87,7 +89,7 @@ record: 9cb8296cf764
 
 ## Uganda
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Tahaluf national ID system contract | ***Baseline not held*** | [A UAE-based supplier is service provider for the new national ID system, with five modules in service](https://www.biometricupdate.com/202602/uganda-migrates-more-than-28m-records-to-new-national-id-system) | ***Baseline not held*** |
 

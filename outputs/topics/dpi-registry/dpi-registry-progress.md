@@ -1,13 +1,13 @@
 ---
-title: Registries (population, land, address, etc.) — progress report, 2025-08-01 to 2026-08-23
-compiled: 2026-08-23
-period: 2025-08-01 to 2026-08-23
+title: Registries (population, land, address, etc.) — progress report, 2025-08-01 to 2026-08-24
+compiled: 2026-08-24
+period: 2025-08-01 to 2026-08-24
 subject: dpi.registry
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 92acf1b5d251
+record: 4aa24191413e
 ---
 
-# Registries (population, land, address, etc.): progress report, 2025-08-01 to 2026-08-23
+# Registries (population, land, address, etc.): progress report, 2025-08-01 to 2026-08-24
 
 *52 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -17,7 +17,7 @@ record: 92acf1b5d251
 
 ## Algeria
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | AMLAK electronic land-title system | Did not exist | [Nationwide with end-to-end traceability; no coverage figure published](https://www.wearetech.africa/en/fils-uk/news/public-management/algeria-moves-to-electronic-land-titles-with-amlak-system) | Advanced |
 | CNAS electronic health card for the uninsured | Did not exist | [Issuing to the uninsured](https://www.echoroukonline.com/cnas-une-carte-electronique-pour-les-personnes-sans-couverture-sociale) | Advanced |
@@ -50,7 +50,7 @@ record: 92acf1b5d251
 
 ## Botswana
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Electronic voter registration | No priced voter-register line in any held document | [P50,000,000 appropriated within the commission's development budget, with government committing in Parliament to an electoral-reform package built on one-time voter registration, the national identity card and a verified electronic voters' roll accessible to political parties](https://allafrica.com/stories/202608190305.html) | Advanced |
 | Deeds registry processing | Substantially manual; workload 9,000 to 30,000 transactions a year since the 2017-18 land Acts, with no added resources | [Unchanged; no digitisation programme, budget line or date on the record](https://www.mmegi.bw/business/botswana-registry-faces-backlog/news) | No change |
@@ -59,7 +59,7 @@ record: 92acf1b5d251
 
 ## Burkina Faso
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Civil-registration platform | 3,391,907 civil-status acts digitised across 54 communes and 145,655 birth certificates issued in 2024 | [Thirty communes hold fully digitised registers, and 121,000 civil-status acts were issued to internally displaced people in 2025 against a 65,000 target](https://lefaso.net/spip.php?article144154) | Advanced |
 | Estate-agency register | Did not exist; brokering private residential leases required no licence and no register | [A compulsory national card applied for and tracked wholly online, with a legally recognised virtual card issued on validation and a register the public can query, and commissions capped](https://digitalmagazine.bf/2026/07/23/burkina-faso-lancement-officiel-de-la-plateforme-de-delivrance-de-la-carte-nationale-de-demarcheur-pour-le-bail-dhabitation-prive/) | Advanced |
@@ -127,7 +127,7 @@ record: 92acf1b5d251
 
 ## Cote d'Ivoire
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Civil-registry software rollout | Partial rollout, with the interior ministry calling for deployment to be accelerated | [Installed with hardware in every municipal and sub-prefecture civil-status centre for digital recording of births, marriages and deaths, financed by the European Union; the national civil-status system now covers 699 centres and has digitised more than four million records, and on 11 August 2026 the identification office handed 283 digital birth-registration terminals to health workers in the Tonkpi region to link maternities directly to civil-registry offices under a zero-invisible-child programme](https://www.koaci.com/index.php/article/2026/08/12/cote-divoire/societe/cote-divoire-operation-zero-enfant-invisible-loneci-deploie-283-terminaux-numeriques-dans-le-tonkpi-pour-garantir-lidentite-des-la-naissance_199500.html) | Advanced |
 | Digital birth-registration terminals | Did not exist | [Terminals for systematic birth registration in service, on which a parent's national identity card populates the child's identity data directly, presented by the civil-registry office at the ninth African civil registration day](https://www.oneci.ci/actualites/1786857181) | Advanced |
@@ -174,7 +174,7 @@ record: 92acf1b5d251
 
 ## Gabon
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Cadastre digitalisation under the land-title programme | Not on the record | [Proposal received and drone purchases announced; no system, contract award or delivery date is held](http://gouvernement.ga/2025/11/24/foncier-et-numerique-le-gabon-engage-la-modernisation-de-son-cadastre-avec-lign-fi) | Advanced |
 | Fichier Unique de Participation | Did not exist | [Reported established, to centralise data on state participations](https://techafricanews.com/2026/01/14/gabon-accelerates-digital-transformation-with-new-public-finance-and-e-government-initiatives) | Advanced |
@@ -183,7 +183,7 @@ record: 92acf1b5d251
 
 ## Gambia
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Electronic civil registration and vital statistics | In service as the interoperability backbone, about 1.17m people registered with a unique national identification number (2024-03) | [Unchanged; the June 2025 commitment to integrate it with identity cards and the passport has produced no published integration milestone (2026-08)](https://www.worldbank.org/en/results/2024/03/28/afw-transformative-journey-of-mass-birth-registration-and-health-insurance-in-the-gambia) | No change |
 | Gambia Social Registry | 203,022 households, about 70% of the population, carrying the Nafa cash transfers (2024-04) | [Unchanged; no coverage update published since (2026-08)](https://blogs.worldbank.org/en/nasikiliza/the-gambia-social-registry-a-success-story-in-systems-building) | No change |
@@ -192,7 +192,7 @@ record: 92acf1b5d251
 
 ## Ghana
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Births and deaths registry digitisation | Decentralised printing across 470 offices in 261 districts with electronically signed certificates, and 881,000 copies needed to clear the backlog | [Unchanged; nothing dated since](https://www.graphic.com.gh/news/general-news/ghana-news-births-and-deaths-registry-receives-security-papers-begins-clearing-backlog.html) | No change |
 | Land cadastre digitalisation | A fit-for-purpose cadastre programme expected to commence in 2023 | [Unchanged; no dated progress on file](https://lc.gov.gh/landconference/materials/NLC-Fit-for-purpose%20cadastral.pdf) | No change |
@@ -222,7 +222,7 @@ record: 92acf1b5d251
 
 ## Kenya
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | National database of qualifications | Did not exist | [A bill proposing a national database of qualifications established, maintained and published by the qualifications authority, extending to foreign qualifications harmonised and recognised domestically, with awarding institutions required to notify the authority within 90 days of issuing a qualification](https://www.parliament.go.ke/sites/default/files/2026-08/THE%20KENYA%20NATIONAL%20QUALIFICATIONS%20FRAMEWORK%28AMENDMENT%29%20BILL%2C2026.pdf) | Advanced |
 | Online download of birth certificates | Application online through eCitizen, collection required a visit to a registry or Huduma centre | [Certificate downloadable and printable online after application](https://www.kenyans.co.ke/news/124508-kenyans-download-and-print-birth-certificates-online) | Advanced |
@@ -270,7 +270,7 @@ record: 92acf1b5d251
 
 ## Mali
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Birth registration | 89.5% registration, 747 centres (2025-06) | [No later figure published](https://www.biometricupdate.com/202506/chad-mali-senegal-pursue-birth-registration-reforms-to-close-gaps) | No change |
 | Death registration | About 20% (2025-06) | [About 20%; no later figure published](https://www.biometricupdate.com/202506/chad-mali-senegal-pursue-birth-registration-reforms-to-close-gaps) | No change |
@@ -300,7 +300,7 @@ record: 92acf1b5d251
 
 ## Mozambique
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Civil registration and population register services tender | Did not exist | [Tender closed; bidders required a US$7m or two US$4m track record and a US$90,000 bid security; no award on record](https://www.biometricupdate.com/202601/mozambique-seeks-expert-services-to-support-mass-birth-id-registration) | Advanced |
 | Free birth registration campaign 2026 | Did not exist | [About 7 million people targeted at 25,000 registrations a day through up to 500 mobile brigades, costs met by the World Bank-funded governance and economy project](https://clubofmozambique.com/news/mozambique-government-launchs-free-birth-registration/) | Advanced |
@@ -332,7 +332,7 @@ record: 92acf1b5d251
 
 ## Nigeria
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Electronic civil registration and vital statistics | Platform in rollout (2025-11) | [Nationwide on the VitalReg platform with paper discontinued from 1 July 2026, but stalled at the health-facility layer: none of 371 targeted facilities live despite completed training, zero birth notifications recorded in the reporting year, 120,469 certificates issued against 443,162 registrations, and an estimated 3.5 million children across seven southern states holding no certificate; the platform also displayed charges of US$30 to US$80 for documents the commission says are free, and carried a Lagos man's record with a wife and a son unknown to him until the commission corrected it](https://www.vanguardngr.com/2026/08/3-5m-missing-births-how-hospitals-can-close-nigerias-registration-gap/) | Advanced, regressed at the health-facility layer |
 | National alphanumeric digital postcode system | An intention with no date | [A launch date of 2026-10-01 for a unique address per building, with integration to existing government identity databases to follow](https://www.vanguardngr.com/2026/08/fg-to-rollout-90000km-fibre-optic-network-tijani/) | Advanced |
@@ -361,7 +361,7 @@ record: 92acf1b5d251
 
 ## Senegal
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Audit of civil registration in 74 communes | Did not exist | [The mission live across 74 communes, 59 already audited and their findings re-examined, fifteen selected on risk analysis for document and field checks](https://www.seneweb.com/fr/news/Societe/gestion-de-letat-civil-74-communes-du-senegal-dans-le-viseur-de-la-cour-des-comptes_n_499794.html) | Advanced |
 | Biometric audit of the public-service headcount | Did not exist | [More than 35 auditor teams deployed nationally with ten more to be added; the object is a reliable payroll database for wage-bill control](https://lesoleil.sn/actualites/societe-fait-divers/audit-agents-fonction-publique-le-ministre-diante-visite-les-centres-denrolement-de-rufisque-et-thies/) | Advanced |
@@ -389,13 +389,13 @@ record: 92acf1b5d251
 
 ## Somalia
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Unified digital civil registration system | Registration and vital statistics system handed over by NADRA in November 2024, with no district pilot running (2025-08) | [Piloted across 19 districts on an open-source platform as the vital-events layer beneath legal identity; no registration coverage figure published (2026-01)](https://www.opencrvs.org/about-us/country-stories/somalia) | Advanced |
 
 ## South Africa
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Blocked identity numbers | 384,189 (2025-12) | [377,060](https://iol.co.za/news/politics/2026-07-17-home-affairs-struggles-to-unblock-identity-numbers-due-to-unserviceable-addresses/) | Stalled |
 | Intelligent Population Register | ***Baseline not held*** | In development (2026-07-07) | ***Baseline not held*** |
@@ -418,7 +418,7 @@ record: 92acf1b5d251
 
 ## Tanzania
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Birth registration programme, 2026-2027 | Did not exist | [A partner sought, covering ten districts in three regions](https://www.biometricupdate.com/202606/unicef-seeks-partner-to-expand-birth-registration-legal-identity-in-tanzania) | Advanced |
 | National addressing and postcode system | 85% of Tanzanians reached since the 2022 census, a population rate | [More than 12.9m residential addresses registered, 29 systems interconnected and international certification obtained](https://ippmedia.com/the-guardian/news/local-news/read/tanzania-registers-12-million-housing-addresses-to-boost-digital-governance-2026-02-09-105732) | Advanced, on a non-comparable metric |
@@ -440,7 +440,7 @@ record: 92acf1b5d251
 
 ## Tunisia
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Digital birth declaration platform | Did not exist | [202 births registered, each assigned a health identifier automatically at birth, tied to the mother's and wired into civil-status registers and social-affairs platforms (2026-07)](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/151109) | Advanced |
 | National Business Register digitalisation | Paper filing in use (2025-08) | [The whole company-creation chain online with no physical travel, access requiring a digital identity, and electronic documents carrying the same legal value as paper; online tax-identity-card issuance targeted for end-September 2026 (2026-04)](https://en.africanmanager.com/tunisia-national-business-register-accelerates-digitalization-of-its-services/) | Advanced |
@@ -449,7 +449,7 @@ record: 92acf1b5d251
 
 ## Uganda
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Alien registration and Alien Identification Number | Did not exist | [First cards issued, with 1,875 foreigners enrolled in the ten weeks since registration opened, against about 2m registered foreigners in scope; the US$100 card is required for SIM registration, banking and business access but confers no vote](https://nilepost.co.ug/news/365341/nira-starts-issuing-ids-to-foreign-nationals) | Advanced |
 | Birth registration drive | Registration system in 112 of 135 districts and 222 of 5,230 birth-handling facilities (2020); certificate holding 32% (2016) | [Community drives of ten or more parents; under-nine-months exempt from biometrics; certificates free under six months then UGX 10,000, 20,000 and 50,000 by age band](https://www.newvision.co.ug/category/news/nira-intensifies-birth-registration-drive-lau-NV_234727_062026) | Advanced |
@@ -459,7 +459,7 @@ record: 92acf1b5d251
 
 ## Zambia
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | National Carbon Registry | Did not exist | [Live in its first phase, covering Article 6-aligned projects, with all carbon-credit transactions in Zambia required to pass through it; administered by the Zambia Environmental Management Agency and linked to the National Integrated MRV System and to the UNFCCC Centralised Accounting and Reporting Platform, with a second phase to add voluntary-market registration and performance tracking; no address, operating rules, access terms or naming of the legal instrument is published (2026-08)](https://www.lusakatimes.com/2026/08/08/govt-launches-national-carbon-registry/) | Advanced |
 | National Spatial Data Infrastructure Policy and Portal | Did not exist; geospatial data described as fragmented, duplicated and inaccessible | [Policy and portal launched, built on open-source software and aligned to the national development plan and the UN geospatial framework, and cited as underpinning land mapping and artisanal mining licensing; no dataset count, licence terms, access conditions or usage figure is held](https://itweb.africa/article/zambias-govt-leans-towards-open-source/KjlyrvwBpprqk6am) | Advanced |

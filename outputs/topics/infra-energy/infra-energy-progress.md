@@ -1,13 +1,13 @@
 ---
-title: Energy — progress report, 2025-08-01 to 2026-08-23
-compiled: 2026-08-23
-period: 2025-08-01 to 2026-08-23
+title: Energy — progress report, 2025-08-01 to 2026-08-24
+compiled: 2026-08-24
+period: 2025-08-01 to 2026-08-24
 subject: infra.energy
 places: AGO; BWA; BDI; CMR; CPV; CAF; TCD; COG; DJI; EGY; GNQ; SWZ; ETH; GAB; KEN; LSO; MWI; MLI; MRT; MUS; MAR; MOZ; NGA; SLE; SSD; TUN; UGA; ZMB; ZWE
-record: c0630423be3f
+record: 66d281ceed49
 ---
 
-# Energy: progress report, 2025-08-01 to 2026-08-23
+# Energy: progress report, 2025-08-01 to 2026-08-24
 
 *29 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -24,7 +24,7 @@ record: c0630423be3f
 
 ## Botswana
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Kala hybrid gas and solar generation | Renewables named for future phases only (2025-09-26) | [On-site gas-fired generation supplemented by solar, with battery and compressed-gas storage under review](https://itweb.africa/article/tlou-energy-targets-botswana-data-growth/PmxVE7KEO8bqQY85) | Advanced |
 | Lesedi 5MW solar development | No solar development on file (2025-08) | [An initial 5MW assessed; no capital cost, approval or date](https://itweb.africa/article/tlou-energy-targets-botswana-data-growth/PmxVE7KEO8bqQY85) | Advanced |
@@ -95,20 +95,20 @@ record: c0630423be3f
 
 ## Ethiopia
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Bitdeer Oromia bitcoin-mining site | Did not exist | [40 MW operating with 20 MW in progress](https://www.bitdeer.com/news/oromia-ethiopia-update) | Advanced |
 | Ethio Telecom Green Operator renewable network programme | 27 MW installed solar at the FY2024/25 close, derived | [39.72 MW installed solar across 190 fully solar-powered sites, 867 hybrid solar-and-battery systems and 1,114 lithium-ion storage units, with diesel generator running time down by up to 40%](https://techafricanews.com/2026/08/04/ethio-telecom-combines-reforestation-with-renewable-telecom-infrastructure-expansion/) | Advanced |
 
 ## Gabon
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Nkok data centre photovoltaic plant | Planned - partial solar supply, adiabatic cooling and rainwater recycling in the announced design | [In service, supplying about 22 per cent of site energy needs, with water-free cooling and a dual 15 kV feed with N+1 redundant units](https://www.gabonreview.com/gabon-a-la-zis-de-nkok-st-digital-annonce-le-projet-de-construction-dun-datacenter-ecoresponsable/) | Advanced |
 
 ## Kenya
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Grid capacity against data-centre demand | ***Baseline not held*** | [About 3GW installed supply against a 10GW-by-2030 target; a single 1GW data centre would take a third of supply](https://www.datacenterdynamics.com/en/news/microsoft-and-g42-data-center-in-kenya-stalled-due-to-lack-of-power-capacity/) | ***Baseline not held*** |
 
@@ -127,7 +127,7 @@ record: c0630423be3f
 
 ## Mali
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Diesel-to-solar conversion of network sites | Did not exist | [In the loan's scope; no site count published](https://www.ifc.org/en/pressroom/2025/ifc-invests-in-orange-mali-to-expand-digital-connectivity-and-support-women-s-digi) | Advanced |
 
@@ -151,7 +151,7 @@ record: c0630423be3f
 
 ## Mozambique
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Grid supply arrangements for data centres and telecom sites | Not held | [Medium Voltage 4.78 MT/kWh plus 497.03 MT fixed plus 3,207.25 MT/kW; High Voltage 4.70 MT/kWh, negotiable; no data-centre-specific supply arrangement, generation commitment or outage figure published](https://edm.flexibihost.com/en/website/page/electricity-tariffs) | Advanced |
 | Solar power at the rural mobile stations | Not specified in the tender notice | [Solar energy systems specified to power all 60 sites; no installed capacity, supplier or commissioning date stated](https://techafricanews.com/2025/10/20/mozambique-to-install-60-new-mobile-stations-to-boost-rural-connectivity/) | Advanced |
@@ -159,7 +159,7 @@ record: c0630423be3f
 
 ## Nigeria
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Grid supply to the data-centre estate | ***Baseline not held*** | [The grid has never reliably exceeded 6 GW for about 230m people, roughly 41% availability](https://techmoonshot.com/2026/05/21/africas-data-center-boom/) | ***Baseline not held*** |
 
@@ -177,20 +177,20 @@ record: c0630423be3f
 
 ## Tunisia
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Renewable power for data-centre capacity | Did not exist | [A 60 MW solar site is to power the planned Bizerte facility, its base camp operational from November 2025; no grid connection or power purchase arrangement is published (2026-02)](https://www.datacenterdynamics.com/en/news/solecrypt-plans-20mw-solar-powered-data-center-in-bizerte-tunisia/) | Advanced |
 
 ## Uganda
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Karuma surplus power for compute | ***Baseline not held*** | [100MW of surplus pre-transmission power from the 600MW plant, with Nile-water cooling, claimed in the project design](https://www.ecofinagency.com/news-digital/1509-48701-synectics-schneider-to-build-ai-center-in-uganda-starting-2026) | ***Baseline not held*** |
 | MTN Uganda network sites on solar or hydro | ***Baseline not held*** | [45% of network sites on solar or hydro; a 490 kWh solar plant commissioned at headquarters](https://www.mtn.co.ug/wp-content/uploads/sites/7/2026/08/MTN-Uganda-Sustainability-Report-2025-Digital-1.pdf) | ***Baseline not held*** |
 
 ## Zambia
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Load-shedding as a constraint on digital services | Regular load-shedding of more than 20 hours daily following the drought that began in January 2024, stated to negatively affect digital services, with energy-access gaps named as a constraint that connectivity expansion must be aligned with | [No later measurement of load-shedding hours or of its effect on networks is held](https://documents1.worldbank.org/curated/en/099012025023033676/txt/P505094-630a5ef9-d23a-4221-b7c8-397c94a90b4d.txt) | No change |
 | Solar power at local authority offices | No position held on power supply at council offices | [The government chief technical officer states solar power has been provided to all 116 councils, enabling 24-hour service provision](https://kalemba.news/local/government-to-track-cdf-transactions-payment-digitally-as-e-council-develops/) | ***Baseline not held*** |

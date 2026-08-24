@@ -1,13 +1,13 @@
 ---
-title: National statistics — progress report, 2025-08-01 to 2026-08-23
-compiled: 2026-08-23
-period: 2025-08-01 to 2026-08-23
+title: National statistics — progress report, 2025-08-01 to 2026-08-24
+compiled: 2026-08-24
+period: 2025-08-01 to 2026-08-24
 subject: data.statistics
 places: DZA; AGO; BEN; BWA; BDI; CMR; CPV; CAF; TCD; COM; COG; DJI; COD; EGY; GNQ; ERI; SWZ; GAB; GMB; GHA; GIN; GNB; KEN; LBY; MDG; MWI; MLI; MRT; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SSD; TUN; UGA; ZWE; XSA; XWA
-record: fec9312bd2a4
+record: 24388693b54f
 ---
 
-# National statistics: progress report, 2025-08-01 to 2026-08-23
+# National statistics: progress report, 2025-08-01 to 2026-08-24
 
 *41 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -17,7 +17,7 @@ record: fec9312bd2a4
 
 ## Algeria
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Published official telecom and digital statistics series | ***Baseline not held*** | [ARPCE annual report for 2024 held; no quarterly observatory or statistics-office series](https://www.arpce.dz/en/file/q6i1l8) | ***Baseline not held*** |
 
@@ -37,7 +37,7 @@ record: fec9312bd2a4
 
 ## Botswana
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Statistician General | The post held in an acting capacity | [A substantive statistician general in post; data quality described by a named analyst as worryingly uneven](https://www.sundaystandard.info/a-letter-to-dr-khaufelo-lekobane-statistician-general/) | Advanced |
 | Africa Broadband Maps training | ***Baseline not held*** | [Training under way with Malawi, Zambia and Zimbabwe; no Botswana broadband map published](https://techreviewafrica.com/news/5719/itu-bdt-drives-africa-broadband-maps-project-with-subregional-gis-training-in-southern-africa) | ***Baseline not held*** |
@@ -135,13 +135,13 @@ record: fec9312bd2a4
 
 ## Gabon
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Second census of economically weak Gabonese | Did not exist | [Preparation through July and August 2026 and fieldwork from September 2026, drawing on the population census and health-insurance records](https://www.gabonreview.com/gabonais-economiquement-faibles-le-gouvernement-lance-un-nouveau-recensement-en-septembre/) | Advanced |
 
 ## Gambia
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Coordination of official statistics production | No convened process on record | [Producers and users convened by the Central Bank with the International Monetary Fund and the Bureau of Statistics, naming data gaps, inconsistency and inaccessibility as the constraints; no framework or workplan published (2026-07)](https://thepoint.gm/africa/gambia/headlines/cbg-hosts-stakeholders-engagement-on-statistical-data) | Advanced |
 | Gambia Labour Force Survey series | Four rounds published, with no cross-round comparison volume (2025-08) | [Fifth round published with the first systematic comparison across the 2023, 2025 and 2026 rounds, and a sixth round confirmed for later in 2026 (2026-07)](https://www.gbosdata.org/downloads-file/627-the-gambia-labour-force-survey-findings-report) | Advanced |
@@ -151,7 +151,7 @@ record: fec9312bd2a4
 
 ## Ghana
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Quarterly employment statistics | None published | [Still none published, with a methodology requested in July 2026 and no timetable](https://www.myjoyonline.com/finance-minister-urges-gss-to-publish-quarterly-employment-rate-data/) | No change |
 | Governance Series survey | ***Baseline not held*** | [A six-monthly repeat panel run by the statistical service across all 16 regions, with its third wave published and its findings put by the Government Statistician to remedies that are digital ones, among them digitising public services and publishing official fees](https://www.graphic.com.gh/news/politics/ghana-news-governance-reforms-yielding-results-but-remain-fragile-government-statistician.html) | ***Baseline not held*** |
@@ -170,7 +170,7 @@ record: fec9312bd2a4
 
 ## Kenya
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | KNBS digital-indicator release | Economic Survey 2025, ICT chapter running to 2024 | [Unchanged; the ICT chapter puts mobile subscriptions at 71.4m and 136.1 per 100 inhabitants in 2024, fixed and wireless internet subscriptions at 57.8m and mobile-money subscriptions at 42.3m, and no 2026 edition or Statistical Abstract is held](https://www.knbs.or.ke/wp-content/uploads/2025/05/2025-Economic-Survey.pdf) | No change |
 | Safaricom and KNBS mobile-data partnership | ***Baseline not held*** | [Collaboration to explore anonymised aggregated mobile data for population, mobility and socio-economic insight, with no scope, governance terms or start date](https://techafricanews.com/2026/06/08/safaricom-and-knbs-partner-to-harness-mobile-data-for-national-planning/) | ***Baseline not held*** |
@@ -198,7 +198,7 @@ record: fec9312bd2a4
 
 ## Mali
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | INSTAT microdata catalogue | None published | [NADA microdata archive under INSTAT's own domain holding 107 studies, led by the 2022 census (RGPH5) and near-annual agricultural surveys since 1996/1997](https://microdata.instat.ml/index.php/catalog/) | Advanced |
 | Mali's share of UEMOA electronic money | 12.1% of Union transaction value (2023) | [11.7% of Union value and 10.7% of volume in 2024, on 18.58% volume growth and 7.29% of accounts opened](https://www.bceao.int/sites/default/files/2026-03/Rapport%20annuel%20sur%20les%20services%20financiers%20num%C3%A9riques%20dans%20l%27UEMOA%20-%202024.pdf) | Advanced, share of the Union down |
@@ -213,7 +213,7 @@ record: fec9312bd2a4
 
 ## Mozambique
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | MOZDATA microdata catalogue (INE) | Did not exist | [NADA-style catalogue depositing operations from INE, the education ministry (MINEDH/DIPLAC), the science ministry and the public works ministry; access is licensed, not open](https://mozdata.ine.gov.mz/index.php/catalog) | Advanced |
 | Plano de Melhoria de Qualidade de Dados (PMQD) 2025-2029 | No dedicated data-quality plan | [Five-year plan across facility, district, provincial and central tiers; baseline data-quality index 70% district, 63% facility](https://sisma.misau.gov.mz/wp-content/uploads/2026/03/Plano-de-Melhoria-de-Qualidade-de-Dados-2025-2029.pdf) | Advanced |
@@ -240,7 +240,7 @@ record: fec9312bd2a4
 
 ## Nigeria
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Make Inclusive Data the Norm initiative | Did not exist | [Widened from three countries to five](https://www.data4sdgs.org/news/five-countries-one-shared-push-make-inclusive-data-norm) | Advanced |
 | Telecoms contribution to GDP | 8.93% of GDP (Q2 2024) | [9.19% of GDP (Q1 2026) for telecommunications and information services, within information and communication at 11.31% of GDP (Q1 2026)](https://www.thisdaylive.com/2026/07/30/telecoms-contribution-to-gdp-grows-from-7-67-to-9-19-in-q1-2026/) | Advanced |
@@ -254,7 +254,7 @@ record: fec9312bd2a4
 
 ## Senegal
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Inclusive-data initiative second phase | Did not exist | [The second phase opened, widening from three countries to five](https://www.data4sdgs.org/news/five-countries-one-shared-push-make-inclusive-data-norm) | Advanced |
 
@@ -272,14 +272,14 @@ record: fec9312bd2a4
 
 ## Tunisia
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
-| Internet use | Not measured on this series | [85.9% of respondents using the internet, 95.4% holding a mobile line, 84.3% a smartphone and 41% a computer, with 70.4% connecting principally over mobile (2026)](https://www.lapresse.tn/2026/07/27/express-la-tunisie-accelere-sa-transition-numerique-le-smartphone-et-lia-gagnent-du-terrain/) | ***Baseline not held*** |
+| Internet use | Not measured on this series | [85.9% of respondents using the internet, 95.4% holding a mobile line, 84.3% a smartphone and 41% a computer, with 70.4% of internet users connecting principally over mobile. Among internet users, 41.3% use an e-service, 36.9% e-commerce, 26.5% e-government and 47.9% artificial intelligence (2026)](https://www.intt.tn/upload/files/Synth%C3%A8se%20des%20r%C3%A9sultats%20Enqu%C3%AAte%202026.pdf) | ***Baseline not held*** |
 | Use of online public administration | Not measured on this series | [26.5% of internet users, last of the four uses measured, behind artificial-intelligence applications at 47.9%, e-services at 41.3% and online shopping at 36.9% (2026)](https://www.lapresse.tn/2026/07/27/express-la-tunisie-accelere-sa-transition-numerique-le-smartphone-et-lia-gagnent-du-terrain/) | ***Baseline not held*** |
 
 ## Uganda
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | 9th Uganda National Household Survey | 8th round findings released May 2025; 9th round not in field | [16 language-matched field teams after fifteen days' training](https://nilepost.co.ug/news/361056/ubos-commissions-80-data-collectors-for-9th-uganda-national-household-survey) | Advanced |
 | Labour, Employment, Productivity and Reporting Programme | Did not exist | [An integrated administrative labour-data ecosystem under the Employment Act, against official figures of 12.3% unemployment, 42% labour underutilisation and 88% informality](https://www.newvision.co.ug/category/news/gender-ministry-unveils-initiative-to-address-NV_235563_062026) | Advanced |
@@ -295,12 +295,13 @@ record: fec9312bd2a4
 
 ## Southern Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-23 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | SADC ICT Observatory | Named since at least 2018 as the destination for regional ICT indicators, with no published output held | [Still assembling its inputs; the draft SADC Regional ICT Facts and Figures Report and proposed 2030 broadband indicators under review, and MoUs on indicator-data sharing between national statistics offices, ministries and regulators not yet in place (2025-08)](https://www.sadc.int/latest-news/sadc-secretariat-convene-regional-workshop-strengthening-ict-statistics-and-enhancing) | No change |
 
 ## West Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-23 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | ECOWAS regional statistical methodological guides | The Regional Statistical Programme 2023-2027 under implementation, with no adopted methodological guide held | [Regional methodological guides in use, with a second Abidjan workshop training national coordination and economic policy committee members to operationalise the common regional frameworks for compiling and publishing macroeconomic statistics, reviewing the two regional databases and the harmonisation of member states' 2000-2025 national statistics for multilateral surveillance](https://www.ecowas.int/ecowas-strengthens-the-harmonization-of-migration-data-and-macroeconomic-convergence-in-west-africa/) | Advanced |
+| ECOMAC (ECOWAS Multilateral Surveillance Mechanism database) | Baseline not held | [The database of the bloc's multilateral surveillance mechanism, constituted by a statistical and computer protocol adopted by the Council of Ministers in December 2007: thirteen Excel tables on a quarterly update cadence with stated deadlines, and supervision divided between the monetary union's commission and central bank, the West African Monetary Agency and the West African Monetary Institute; no later amendment and no operational report is held](https://africanlii.org/akn/aa-ecowas/act/reg/2007/12-30/eng@2007-12-15/source) | ***Baseline not held*** |

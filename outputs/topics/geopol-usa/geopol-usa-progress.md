@@ -1,17 +1,19 @@
 ---
-title: US / hyperscaler activities — progress report, 2025-08-01 to 2026-08-23
-compiled: 2026-08-23
-period: 2025-08-01 to 2026-08-23
+title: US / hyperscaler activities — progress report, 2025-08-01 to 2026-08-24
+compiled: 2026-08-24
+period: 2025-08-01 to 2026-08-24
 subject: geopol.usa
 places: AGO; BWA; BFA; BDI; CMR; CPV; CAF; TCD; CIV; COD; EGY; SWZ; GAB; GHA; GIN; KEN; LSO; MUS; MAR; MOZ; NAM; NGA; SEN; SSD; UGA; ZMB; ZWE; XAF
-record: 936687e6494c
+record: 2a34eaab6509
 ---
 
-# US / hyperscaler activities: progress report, 2025-08-01 to 2026-08-23
+# US / hyperscaler activities: progress report, 2025-08-01 to 2026-08-24
 
 *28 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Angola
 
@@ -23,13 +25,13 @@ record: 936687e6494c
 
 ## Botswana
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Artemis Accords accession | Not a signatory | [Signed as the 68th signatory, about fifteen months after the national satellite launch](https://techreviewafrica.com/news/6126/botswana-joins-artemis-accords-as-68th-signatory) | Advanced |
 
 ## Burkina Faso
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | US AI training initiative | Digital-cooperation talks at a preliminary stage, no agreement signed | [A major training initiative on digitalisation and artificial intelligence announced for 2026 in US-run spaces in three cities, with no delivery, cohort size or start date reported](https://itweb.africa/article/us-burkina-faso-alliance-to-offer-ai-training-to-youths/rW1xL75n8o9MRk6m) | Advanced |
 
@@ -66,7 +68,7 @@ record: 936687e6494c
 
 ## Cote d'Ivoire
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | US export-credit digital package | A 2023 agreement for a national data centre and a digital administrative city inside a wider trade-agreement package announced May 2025, with no export-credit approval made | [Formally authorised US$170m project covering a sovereign national data centre, a government digitisation platform and smart-border surveillance](https://techafricanews.com/2026/07/17/us-expands-cote-divoire-tech-footprint-with-starlink-approval-and-170m-data-centre-project/) | Advanced |
 
@@ -93,13 +95,13 @@ record: 936687e6494c
 
 ## Gabon
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Amazon acquisition of Globalstar | Not held | [Advanced talks reported for the acquisition of an operator holding spectrum authorisations and partnerships in Gabon for enterprise connectivity and industrial monitoring](https://itweb.africa/article/amazons-9bn-satellite-deal-set-to-benefit-africa/kLgB17ezwwgM59N4) | ***Baseline not held*** |
 
 ## Ghana
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Google AI research and community centre | Operating, with a US$37m cumulative investment figure disclosed by the company | [Unchanged; it hosts the new applied AI lab and no further Ghana investment figure has been published since](https://managingghana.com/2025/07/27/google-unveils-37m-investment-and-ai-hub-in-accra-to-boost-africas-ai-growth/) | No change |
 
@@ -111,7 +113,7 @@ record: 936687e6494c
 
 ## Kenya
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | OpenAI Academy Nairobi | Did not exist | [Proposal for East Africa's first OpenAI Academy, unsigned](https://techafricanews.com/2026/06/18/kenya-eyes-first-openai-academy-in-east-africa-following-ruto-sam-altman-talks/) | Advanced |
 | Safaricom and AWS generative AI collaboration | Collaboration for fraud detection, customer-service automation and engineer upskilling | [Unchanged, with no expansion, spend figure or workload detail published since](https://itweb.africa/article/safaricom-selects-aws-for-genai-use-cases/KjlyrvwBVnbqk6am) | No change |
@@ -137,7 +139,7 @@ record: 936687e6494c
 
 ## Mozambique
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | United States bilateral health cooperation memorandum | Did not exist | [Planned United States support of US$1,829,380,000 across 2026-2030 against Mozambique's US$70,573,106, including US$83,072,079 for health data systems; the text carries no personal-data, data-ownership, hosting or residency clause, and 4.7 makes failure to fulfil a Specimen Sharing Agreement and a Data Sharing Agreement signed the same day, neither annexed, grounds for changing or discontinuing assistance](https://www.citizen.org/wp-content/uploads/2026-0008QN-Mozambique-Health-12.15.2025.pdf) | Advanced |
 | SpaceX partnership talks | ***Baseline not held*** | [Exploratory discussion of connectivity, digital infrastructure and participation by small and medium enterprises; no agreement, amount or timetable announced](https://techafricanews.com/2026/07/06/mozambique-explores-strategic-partnership-with-spacex-to-advance-digital-economy/) | ***Baseline not held*** |
@@ -150,17 +152,17 @@ record: 936687e6494c
 
 ## Nigeria
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | United States fibre and feasibility grants | In place (2025-01) | [US$2m toward the 90,000 km build](https://itweb.africa/article/us-nigeria-ink-2m-deal-to-expand-fibre-optic-network/rxP3jqBE4KpMA2ye) | No change |
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Google AI alliance, research and skilling | Alliance signed (2025-02) | [A five-area alliance, ₦3bn across five partners, and a second consecutive year of free student AI subscriptions](https://techcabal.com/2026/08/20/google-is-giving-nigerian-students-a-year-of-free-ai-access/) | Advanced |
 
 ## Senegal
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | United States bilateral digital cooperation | Not held | [Under exploration: the ICT minister met a US Embassy delegation on 17 August 2026 to discuss deeper cooperation on cybersecurity, artificial intelligence, connectivity and the digital economy, tied to the New Deal Technologique priorities](https://techreviewafrica.com/news/6786/senegal-us-explore-deeper-cooperation-in-cybersecurity-ai-and-digital-economy) | ***Baseline not held*** |
 | United States development-finance talks | ***Baseline not held*** | [Discussions scoped to financing mechanisms for digital infrastructure, data centres, connectivity, digital identity and payment systems, plus sovereignty, cybersecurity and AI; no financier, amount, instrument or signing reported](https://www.rts.sn/actualite/detail/a-la-une/new-deal-technologique-le-senegal-renforce-ses-partenariats-strategiques-a-washington) | ***Baseline not held*** |
@@ -173,13 +175,13 @@ record: 936687e6494c
 
 ## Uganda
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | United States health-data access agreement | Did not exist | [The signed memorandum caps the data-sharing arrangement at seven years from execution, places it under joint steering-committee governance with the Government of Uganda as data owner, requires prior written authorisation through a Data Sharing Agreement approved by both, binds all data activities to the Data Protection and Privacy Act Cap 97 and the National Data Governance Framework, and has Uganda approve the national health information architecture before any United States-financed investment; planned United States support is US$1,719,960,000 against Uganda's US$577,001,796, including US$113,102,289 for data systems. The MOU only provides for a future Data Sharing Agreement (§2.5.2); ProPublica reported 2026-07-23 that it reviewed that agreement directly and that it grants direct, real-time login access to nine of Uganda's health data systems for seven years, a term matching the MOU's own cap. The agreement's text is unpublished and not held, and no Ugandan or US primary has confirmed or denied ProPublica's account (reconciled 2026-08-10) Eight United States senators wrote to the Secretary of State in the week to 2026-08-19 challenging the arrangement, noting that the Uganda agreement provides up to US$1.7bn in aid for HIV, tuberculosis and malaria among other diseases against direct access to the government's own health data systems, and requesting a briefing and a written answer by the end of August 2026.](https://www.propublica.org/article/senators-letter-health-data-africa-humanitarian-aid) | Advanced |
 
 ## Zambia
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | United States health financing memorandum of understanding | Did not exist | [A leaked five-year draft offering US$1.012bn in health funding against commitments to hire 40,000 health workers and add US$400m in health services, plus ten years of health-data access and a 25-year pathogen-data pledge. Zambia confirmed requesting revisions after the funding was linked to a copper and cobalt compact; the draft carried a clause terminating the process if no agreement was reached by 2026-04-01, and no signature is on file. Foreign Minister Mulambo Haimbe said in May 2026 that the proposed five-year agreement, which he put at up to US$2bn, had stalled over data terms the government considers unacceptable, and the agreement was reported shelved in May after Washington sought signature alongside a critical-minerals pact](https://www.theguardian.com/global-development/2026/feb/25/zambia-us-health-aid-deal-exploitation-mining-concessions-data-sharing-targets) | Stalled |
 
@@ -195,7 +197,7 @@ record: 936687e6494c
 
 ## Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-23 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | America First Global Health Strategy data-sharing agreements | Did not exist; no bilateral United States health agreement of this kind on record before December 2025 | [Memorandums worth US$20bn signed with more than 30 countries since December 2025, on a model Data Sharing Agreement giving the United States at-will access to seven classes of national health system for 25 years with a 10-year post-termination tail; Ghana refused in April 2026, Zimbabwe withdrew in February 2026 and Zambia shelved in May 2026, and Kenya's framework is before the Court of Appeal with a final ruling due at the end of October 2026; the State Department's standard-form memorandum, held as a blank template dated 2026-03-11, commits a partner government to name and run its electronic medical record, laboratory, pharmacy, surveillance, commodity-inventory and national data warehouse systems, to load 90 per cent of clinical encounters into the electronic medical record within two years of rollout in a facility, to enter a data sharing agreement expected to run twenty-five years, and to provide specimens and genetic sequence data of pathogens with epidemic potential within five days of detection, with section 4.7 making failure on those commitments grounds for changing or discontinuing the assistance; the signed texts are withheld, the department having published a subset of the memorandums in March 2026 and then removed public access, and a freedom-of-information suit covering sixteen African countries (Public Citizen v. Department of State, No. 1:26-cv-01137, D.D.C.) was unresolved when filed on 2026-04-02; a rights organisation's clause-by-clause assessment of the seven signed memorandums it holds - Ethiopia, Kenya, Mozambique, Nigeria, Rwanda, Liberia and Uganda - reports that the model's terms were not applied uniformly: all seven require broad audit access, three (Liberia, Mozambique and Rwanda) commit to supplying any data requested for that audit with no privacy safeguard stated, two (Liberia and Nigeria) defer the data-sharing arrangement to an unpublished appendix, and the specimen and pathogen-sequencing clause appears in five of the seven, with Liberia and Kenya outside it Eight United States senators wrote to the Secretary of State in the week to 2026-08-19 challenging the demands for direct access to partner governments' own health-data systems as a condition of lifesaving aid, calling them unprecedented and at odds with United States policy on the data of American citizens, and requesting a briefing on the agreements' data requirements and a written answer by the end of August 2026.](https://www.propublica.org/article/senators-letter-health-data-africa-humanitarian-aid) | Advanced, refused by three states and challenged in the United States Senate |
 | US-AUC Strategic Investment Working Group | Did not exist | [Agreed to channel US private investment into AU-backed infrastructure including digital transformation, on an investment-in-place-of-aid posture; no membership, meeting or work programme held](https://www.state.gov/releases/office-of-the-spokesperson/2026/01/joint-statement-of-the-united-states-and-african-union-on-the-launch-of-a-strategic-investment-working-group) | Advanced |

@@ -1,15 +1,17 @@
 ---
 title: Research institutions — monthly update, July 2026
-compiled: 2026-08-23
-period: 2026-07-01 to 2026-08-23
+compiled: 2026-08-24
+period: 2026-07-01 to 2026-08-24
 subject: capacity.research
 places: BDI; CMR; CIV; GNQ; ETH; LBY; MOZ; SEN; SOM; ZAF; ZMB
-record: a6ee71b871f8
+record: cbbb5427e68f
 ---
 
 # Research institutions: monthly update, July 2026
 
 *11 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Burundi
 

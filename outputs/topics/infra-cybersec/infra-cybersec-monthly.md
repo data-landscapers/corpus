@@ -1,10 +1,10 @@
 ---
 title: Cybersecurity — monthly update, July 2026
-compiled: 2026-08-23
-period: 2026-07-01 to 2026-08-23
+compiled: 2026-08-24
+period: 2026-07-01 to 2026-08-24
 subject: infra.cybersec
 places: DZA; AGO; BEN; BFA; BDI; CMR; CPV; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MLI; MRT; MUS; MAR; MOZ; NAM; NGA; SEN; SYC; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 282af4c34d7e
+record: 9e060ec9d2f4
 ---
 
 # Cybersecurity: monthly update, July 2026
@@ -158,7 +158,7 @@ The regulator and the chamber of commerce signed a three-year memorandum in Wind
 
 ## Nigeria
 
-The communications regulator [issued a Guidance Note on cybersecurity budgets on 7 August](https://techafricanews.com/2026/08/07/ncc-mandates-dedicated-cybersecurity-budgets-for-nigerian-telcos/) under a framework effective since 23 February, adding a dedicated budget line with tracked spend and periodic audit, requiring a Chief Information Security Officer, and restating two-year in-country retention of call logs and traffic data; the compliance clock ends 23 February 2027. Two further bodies are announced and no more: [a Ministerial Advisory Council on Cybersecurity](https://punchng.com/nigeria-now-west-africas-digital-powerhouse-says-tijani/) with no membership or terms of reference published, and [a Payment Security Operations Centre](https://thenationonlineng.net/payment-vision-2028-is-nigeria-ready-for-digital-economy/) set as a 2028 target with no legal basis, funding line or operator named.
+The communications regulator [issued a Guidance Note on cybersecurity budgets on 7 August](https://techafricanews.com/2026/08/07/ncc-mandates-dedicated-cybersecurity-budgets-for-nigerian-telcos/) under a framework effective since 23 February, adding a dedicated budget line with tracked spend and periodic audit, requiring a Chief Information Security Officer, and restating two-year in-country retention of call logs and traffic data; the compliance clock ends 23 February 2027. Two further bodies are announced and no more: [a Ministerial Advisory Council on Cybersecurity](https://punchng.com/nigeria-now-west-africas-digital-powerhouse-says-tijani/) with no membership or terms of reference published, and [a Payment Security Operations Centre](https://thenationonlineng.net/payment-vision-2028-is-nigeria-ready-for-digital-economy/) set as a 2028 target with no legal basis, funding line or operator named. Where staffing did move it moved on a foreign programme: the national cybersecurity coordinator [put a United Kingdom-funded bilateral partnership at more than 90 per cent implemented on 22 August, crediting it with the continent's first four SIM3-certified incident-response auditors at the national coordination centre, a reviewed national incident response plan and maturity frameworks for critical national information infrastructure](https://businessday.ng/news/article/how-nigeria-uk-cyber-alliance-is-countering-ai-driven-threats-financial-crime/). The completion figure is his own, and neither the memorandum nor the programme document is held.
 
 ## Senegal
 

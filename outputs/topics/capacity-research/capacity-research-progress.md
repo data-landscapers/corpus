@@ -1,21 +1,23 @@
 ---
-title: Research institutions — progress report, 2025-08-01 to 2026-08-23
-compiled: 2026-08-23
-period: 2025-08-01 to 2026-08-23
+title: Research institutions — progress report, 2025-08-01 to 2026-08-24
+compiled: 2026-08-24
+period: 2025-08-01 to 2026-08-24
 subject: capacity.research
 places: DZA; AGO; BWA; BDI; CMR; COG; CIV; GNQ; ETH; GAB; GHA; LSO; LBY; MDG; MLI; MRT; MAR; MOZ; NGA; RWA; SEN; SOM; ZAF; TZA; TGO; UGA; ZMB; ZWE; XSA
-record: 9d04fb6ad4bc
+record: 4392db1c8a5a
 ---
 
-# Research institutions: progress report, 2025-08-01 to 2026-08-23
+# Research institutions: progress report, 2025-08-01 to 2026-08-24
 
 *29 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
+*The place reports do not share one window; the period above is the range they span.*
+
 ## Algeria
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | High Council of Scientists (Presidency) | Did not exist | [Installed at the Presidency](https://www.echoroukonline.com/creation-de-deux-importantes-structures-sous-la-tutelle-de-la-presidence-de-la-republique) | Advanced |
 | Virtual-education AI innovation centre | Did not exist | [Operating](https://www.echoroukonline.com/%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D8%A3%D9%88%D9%84-%D9%85%D8%B1%D9%83%D8%B2-%D9%84%D9%84%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7-%D9%88%D8%A7%D9%84%D8%A7%D8%A8%D8%AA%D9%83%D8%A7%D8%B1) | Advanced |
@@ -29,7 +31,7 @@ record: 9d04fb6ad4bc
 
 ## Botswana
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | National Research Agenda | 45 projects approved in 2024; the agenda approved by Cabinet July 2025 | [45 projects carried forward, P9.5m spent in FY2025/26, five completed and none added](https://www.mmegi.bw/business/govt-spends-p95m-on-research-projects/news) | Advanced, no new projects added |
 | University of Botswana virtual-reality programme | Did not exist | [The first local virtual-reality programme, giving remote access to university laboratories](https://www.wearetech.africa/en/fils-uk/news/tech/university-of-botswana-enters-vr-space-with-new-immersive-initiative) | Advanced |
@@ -55,7 +57,7 @@ record: 9d04fb6ad4bc
 
 ## Cote d'Ivoire
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Cyber-security masters degrees | Did not exist | [Two degrees, in information-systems security and digital forensics, with enrolment stated for the September 2026 academic year](https://www.aip.ci/cote-divoire-aip-lanssi-et-lesatic-valident-les-maquettes-de-deux-masters-pour-renforcer-les-competences-nationales-en-cybersecurite/) | Advanced |
 
@@ -67,24 +69,24 @@ record: 9d04fb6ad4bc
 
 ## Ethiopia
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Digital ID Assessment as official monitoring | First run (2025-01) | [Adopted as the programme's official monitoring instrument and re-run](https://dial.global/research/digital-id-second-assessment-continuous-learning-ethiopia/) | Advanced |
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | AI University Innovation Pod | Did not exist | [Running with UNDP and Addis Ababa University](https://www.connectingafrica.com/ai/ethiopia-launches-ai-unipod-to-drive-innovation) | Advanced |
 | Artificial Intelligence University construction | Did not exist | [A single named capital project; no site or timetable published](https://www.mofed.gov.et/media/filer_public/c1/de/c1de6f52-b57e-4a94-91ff-cc22a2c751b8/2019_e_c_budget_year_goe_federal_budget_proclamation_part_two_updated.xlsx) | Advanced |
 
 ## Gabon
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Gabon Statistical Development Project | Closed | [Closed, with no successor statistical-capacity operation on the base](https://projects.worldbank.org/en/projects-operations/project-detail/P157473) | No change |
 
 ## Ghana
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Innovation centre at a public university | ***Baseline not held*** | [An advanced technology innovation centre with a foreign development agency, recorded as active](https://old1.ug.edu.gh/news/ug-and-koica-sign-agreement-ict-based-start-ups-and-asian-studies-gk-impact-worth-9-million) | ***Baseline not held*** |
 
@@ -108,7 +110,7 @@ record: 9d04fb6ad4bc
 
 ## Mali
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Higher-education and research digital capacity | No long-term national research strategic plan on record and a 1:100 teacher-student ratio at the University of Bamako (2009) | [Universite Numerique du Mali strategic framework and action plan validated; 132,186 students across 16 higher-education institutions and an 81:1 student-teacher ratio against UNESCO's 25:1 norm (2024-05)](https://dg-enseignementsup.ml/wp-content/uploads/2024/10/Document-de-Politique-Nationale-de-ES.pdf) | Advanced |
 
@@ -126,13 +128,13 @@ record: 9d04fb6ad4bc
 
 ## Mozambique
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Research and education network governance transfer | ***Baseline not held*** | [Transfer of the education and research network from the ministry to the universities proposed, with no date, instrument or governance model named](https://clubofmozambique.com/news/mozambique-govt-wants-universities-involved-in-protecting-against-cyberattacks/) | ***Baseline not held*** |
 
 ## Nigeria
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | National Cybersecurity Centre, Bayero University Kano | Operating (2025-05) | [Operating](https://techafricanews.com/2025/05/28/nigeria-takes-bold-step-in-cybersecurity-with-new-national-centre-in-kano/) | No change |
 
@@ -144,26 +146,26 @@ record: 9d04fb6ad4bc
 
 ## Senegal
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | National research and innovation fund | Did not exist | [Proposed; no budget, statute or date, with a companion council still at reflection stage](https://primature.sn/publications/actualites/conseil-des-ministres-du-29-juillet-2026) | Advanced |
 | Two AI research laboratories | Two laboratories launched, targeting agriculture, education and industry | [Unchanged; no publication, budget, headcount or research output is held](https://techreviewafrica.com/news/1997/senegal-bolsters-ai-development-with-launch-of-alive-and-dicentre4ai-laboratories) | No change |
 
 ## Somalia
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | University research partnership on official microdata | Did not exist | [A pilot training researchers from three universities on the statistics bureau's household budget and labour force microdata, funded by the Swiss development agency with no amount stated (2026-07)](https://arlaadimedia.com/2026/07/30/somalia-launches-new-push-for-data-led-research-and-policy-solutions/) | Advanced |
 
 ## South Africa
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Standing in digital-privacy research | Baseline not held | [18th worldwide and the only African country in the top 20 for digital-privacy research output, on a 4,760-article review of 2005-2025](https://sajim.co.za/index.php/sajim/article/view/2146) | ***Baseline not held*** |
 
 ## Tanzania
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | University ICT college building | ***Baseline not held*** | [Under construction; no completion date, cost or capacity stated](https://www.mwananchi.co.tz/mw/habari/kitaifa/serikali-kuendelea-kupeleka-wanafunzi-nje-kusomea-ai-5392884) | ***Baseline not held*** |
 
@@ -175,13 +177,13 @@ record: 9d04fb6ad4bc
 
 ## Uganda
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | KOICA distance-education project, Makerere University | Commitment recorded; US$12.2m, 2025-2030 | [Unchanged; no progress or delivery figure published](https://softpower.ug/muyingo-launches-12-2m-koica-project-to-revolutionise-digital-learning-at-makerere/) | No change |
 
 ## Zambia
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Revenue authority research memorandum | Did not exist | [Signed by the Zambia Revenue Authority and an international tax and development research centre, covering research, capacity building and innovation for evidence-based tax administration](https://techafricanews.com/2026/07/17/zambia-revenue-authority-signs-ictd-deal-to-advance-digital-tax-reforms/) | Advanced |
 
@@ -193,6 +195,6 @@ record: 9d04fb6ad4bc
 
 ## Southern Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-23 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Research and development spending against the regional target | ***Baseline not held*** | [No member state has reached the regional target of 1% of GDP, or the continental target of 1.5% (2026-08)](https://www.sadc.int/sites/default/files/2026-08/Remarks%20of%20the%20SADC%20Executive%20Secretary%20at%20the%20Council%20of%20Ministers%20meeting%20on%2012%20August%202026%20Durban%2C%20South%20Africa.pdf) | ***Baseline not held*** |

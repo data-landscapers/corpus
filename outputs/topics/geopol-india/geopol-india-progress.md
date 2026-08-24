@@ -1,17 +1,19 @@
 ---
-title: India activities — progress report, 2025-08-01 to 2026-08-23
-compiled: 2026-08-23
-period: 2025-08-01 to 2026-08-23
+title: India activities — progress report, 2025-08-01 to 2026-08-24
+compiled: 2026-08-24
+period: 2025-08-01 to 2026-08-24
 subject: geopol.india
 places: AGO; BDI; TCD; CIV; EGY; ETH; KEN; LSO; LBY; MOZ; NAM; RWA; ZMB
-record: 4954e2ab819c
+record: ae5618829ea5
 ---
 
-# India activities: progress report, 2025-08-01 to 2026-08-23
+# India activities: progress report, 2025-08-01 to 2026-08-24
 
 *13 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Angola
 
@@ -33,7 +35,7 @@ record: 4954e2ab819c
 
 ## Cote d'Ivoire
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Technology park | Special economic zone operating since 2004 across more than 600 hectares, seeking US$311m for its plan to 2028, with an Indian export-credit bank the original infrastructure lender | [Same targets, with the raise not established as secured and no Indian commitment reported since; the state portfolio report puts the zone at a first 180-hectare tranche of earthworks, roads and utilities complete, a business hotel built and about ten firms housed, and records the operating company among the digital holdings whose results fell in 2023](https://www.wearetech.africa/en/fils-uk/news/tech/cote-d-ivoire-vitib-seeks-311-mln-to-accelerate-its-development) | No change |
 
@@ -45,13 +47,13 @@ record: 4954e2ab819c
 
 ## Ethiopia
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | RailTel data-centre build | Did not exist | [Planned](https://railtel.in/images/pdf/Press%20Release_RailTel%20to%20build%20Data%20Centre%20in%20Ethiopia.pdf) | Advanced |
 
 ## Kenya
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Kenya-India-Italy sovereign AI partnership | Did not exist | [Targets 100 AI-deployment programmes by 2030 on multilingual low-bandwidth voice AI](https://www.ecofinagency.com/kenya-india-and-italy-launch-trilateral-sovereign-ai-partnership/) | Advanced |
 
@@ -69,7 +71,7 @@ record: 4954e2ab819c
 
 ## Mozambique
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | India-Mozambique digital or technology cooperation agreement | Not held | [An Information Technology Park delivered under an Indian concessional Line of Credit; the brief states no location, value or completion date for the park](https://www.mea.gov.in/Portal/ForeignRelation/India-Mozambique-April-2025.pdf) | Advanced |
 
@@ -88,6 +90,6 @@ record: 4954e2ab819c
 
 ## Zambia
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Edge data centre plan | The operator's chief executive listed Zambia, alongside four other countries, as a high-potential country where it will create data centres, describing them as future edge locations | [Unchanged; no site, investment figure, capacity or date has been reported since](https://www.datacenterdynamics.com/en/marketwatch/nxtra-airtels-leap-into-africas-growing-data-center-market) | No change |

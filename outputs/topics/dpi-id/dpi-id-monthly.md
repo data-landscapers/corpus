@@ -1,10 +1,10 @@
 ---
 title: Digital Identity and CRVS — monthly update, July 2026
-compiled: 2026-08-23
-period: 2026-07-01 to 2026-08-23
+compiled: 2026-08-24
+period: 2026-07-01 to 2026-08-24
 subject: dpi.id
 places: DZA; AGO; BWA; BFA; BDI; CMR; CPV; COG; CIV; DJI; COD; EGY; ETH; GMB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TUN; UGA; ZMB; ZWE
-record: d9fdc1d7ffb5
+record: bc6c81077e87
 ---
 
 # Digital Identity and CRVS: monthly update, July 2026
@@ -164,7 +164,7 @@ On 27 July an account of the [restructured WURI-Niger project](https://www.lesah
 Identity gained infrastructure and kept its gap. The passport became [cryptographically verifiable at 111 member states' borders](https://www.biometricupdate.com/202607/nigeria-achieves-full-icao-pkd-integration-for-its-biometric-passport) on 16 July; the identity authority [took the national root certification authority over from NITDA](https://techafricanews.com/2026/07/22/nitda-and-nimc-deepen-partnership-to-accelerate-nigerias-digital-public-infrastructure/) on 21 July; and [V-Pass went live](https://www.biometricupdate.com/202607/nigerias-id-authority-takes-on-new-duties-to-secure-growing-digital-ecosystem) for airport security checks and boarding on the number and face biometrics. Registration stands at [136 million against a target of 180 million by 31 December](https://guardian.ng/news/nimc-enrols-136-million-nigerians-as-coker-odusote-pushes-stronger-inter-ministerial-partnership/), leaving about 100 million people uncaptured on the information minister's own figure. The root certification authority it took over also created a conflict: the NIMC Act 2026 makes the identity commission the root authority while the [still-pending Digital Economy and E-Governance Bill carries its own electronic-signature provisions](https://techcabal.com/2026/08/13/nigerias-identity-law-raises-questions-over-digital-signatures/), and which instrument governs digital signatures is unresolved.
 
 
-Two identity systems moved in opposite directions. The federal government [signed a memorandum on 12 August to issue cooperatives a verification number and their members an identity credential, opening a six-month revalidation exercise](https://www.nationalaccordnewspaper.com/fg-signs-mou-for-national-cooperative-digital-id-begins-6-month-revalidation/), with no cooperative or member count, cost, or link to the foundational register stated. Against that, an observer mission at the state governorship election of 15 August [called for a full post-election technical audit of the biometric voter-accreditation system, for the electoral commission to publish the causes of authentication failures, and for uniform guidance on downloadable voter cards before 2027](https://dailypost.ng/2026/08/16/osun-election-yiaga-africa-calls-for-bvas-audit-improved-security-ahead-2027-polls/). No commission response, failure rate or audit commitment is on record.
+Two identity systems moved in opposite directions. The federal government [signed a memorandum on 12 August to issue cooperatives a verification number and their members an identity credential, opening a six-month revalidation exercise](https://www.nationalaccordnewspaper.com/fg-signs-mou-for-national-cooperative-digital-id-begins-6-month-revalidation/), with no cooperative or member count, cost, or link to the foundational register stated. Against that, an observer mission at the state governorship election of 15 August [called for a full post-election technical audit of the biometric voter-accreditation system, for the electoral commission to publish the causes of authentication failures, and for uniform guidance on downloadable voter cards before 2027](https://dailypost.ng/2026/08/16/osun-election-yiaga-africa-calls-for-bvas-audit-improved-security-ahead-2027-polls/). A second observer group reporting on the same poll [named the failure modes — devices that would not boot, delaying one unit's opening to 09:45, fingerprint and facial capture failing on voters, elderly voters recurrently, so that they could not vote at all, slow processing at units of over 1,100 registered voters, an export failure, and one device that stopped altogether](https://blog.nigerianbar.org.ng/wp-content/uploads/2026/08/REPORT-OF-THE-OSUN-STATE-ELECTION-2026.pdf), and asked for the devices to be upgraded before 2027. Both accounts are observers' own, limited to the units their teams visited; no commission response, failure rate or audit commitment is on record.
 
 ## Rwanda
 

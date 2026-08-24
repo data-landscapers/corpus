@@ -1,15 +1,15 @@
 ---
-title: Innovation ecosystem — progress report, 2025-08-01 to 2026-08-23
-compiled: 2026-08-23
-period: 2025-08-01 to 2026-08-23
+title: Innovation ecosystem — progress report, 2025-08-01 to 2026-08-24
+compiled: 2026-08-24
+period: 2025-08-01 to 2026-08-24
 subject: tech.innovate
-places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; ERI; SWZ; GAB; GMB; GHA; KEN; LSO; LBR; LBY; MDG; MWI; MAR; NAM; NER; NGA; RWA; SEN; SOM; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF
-record: a86c9da64192
+places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; ERI; SWZ; GAB; GMB; GHA; KEN; LSO; LBR; LBY; MDG; MWI; MAR; NAM; NER; NGA; RWA; SEN; SOM; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF; XWA
+record: 5cd06f2aa5f9
 ---
 
-# Innovation ecosystem: progress report, 2025-08-01 to 2026-08-23
+# Innovation ecosystem: progress report, 2025-08-01 to 2026-08-24
 
-*41 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
+*42 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -17,7 +17,7 @@ record: a86c9da64192
 
 ## Algeria
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | AI and cybersecurity startup cluster, Sidi Abdellah | Did not exist | [Operating, inside a target of 20,000 startups by 2029](https://www.wearetech.africa/en/fils-uk/news/tech/algeria-unveils-first-ai-and-cybersecurity-start-up-cluster) | Advanced |
 | Startup IPO-fee waiver to 2028 | Did not exist | [In force to 2028](https://www.wearetech.africa/en/fils-uk/news/public-management/algeria-waives-ipo-fees-for-startups-until-2028) | Advanced |
@@ -42,13 +42,13 @@ record: a86c9da64192
 
 ## Botswana
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Research projects funded under the National Research Agenda | 45 projects approved in 2024, all carried forward | [45 projects, with no new projects added in FY2025/26](https://www.mmegi.bw/business/govt-spends-p95m-on-research-projects/news) | No change |
 
 ## Burkina Faso
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Innovation platform | Did not exist | [A platform for inventors and diaspora innovators to register projects toward local manufacture, routed to an incubator described as under construction, with no operational statement or user count since](https://www.ecofinagency.com/news-digital/2410-49818-burkina-faso-launches-faso-andube-platform-to-promote-local-innovation) | Advanced |
 | Innovation ranking | 129th of 133 economies and 23rd of 27 in sub-Saharan Africa | [The same, with the base holding no 2025 or 2026 profile](https://www.wipo.int/edocs/gii-ranking/2024/bf.pdf) | No change |
@@ -110,7 +110,7 @@ record: a86c9da64192
 
 ## Cote d'Ivoire
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Government technology procurement platform | Did not exist | [Platform on which the state's own digital-transformation projects are to be published for startups and small firms to bid directly; nothing establishes it is live or that any project has been published](https://www.wearetech.africa/fr/fils/actualites/tech/la-cote-divoire-lance-deux-accelerateurs-pour-faire-emerger-ses-champions-du-numerique) | Advanced |
 | Ministerial digital roadmap 2026-2028 | Did not exist; the 2021-2025 national digital development strategy was the instrument in force and expiring | [Ministerial roadmap in force on seven pillars and 40 priority projects, sitting under the national digital development strategy and the 2026-2030 development plan](https://techreviewafrica.com/news/5738/cote-divoire-targets-digital-economy-growth-at-african-digital-week-2026) | Advanced |
@@ -159,7 +159,7 @@ record: a86c9da64192
 
 ## Gabon
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Innovation centre and angel network financing partnership | Did not exist | [A partnership between the national innovation centre and a domestic angel investor network to ease startups access to financing](https://agpgabon.ga/gabon-innovation-le-cgi-et-gain-scellent-un-partenariat-pour-faciliter-lacces-des-startups-au-financement/) | Advanced |
 | Kimba Connect | Did not exist, the July 2026 launch being billed as the first edition | [Launched with the employers' federation, targeting an ecosystem the organisers put at 150 to 200 start-ups, and offering finance, technology, labelling and market access. The final set for 2026-08-04 was postponed on 2026-08-06 after participating start-ups objected to how the edition was organised; a revised agenda published on 2026-08-11 runs pitches to 24 August and moves the final to late September or early October. The accelerator reports 155 registered start-ups, 133 of which submitted against its 16 published challenges, and 66 shortlisted](https://agpgabon.ga/gabon-numerique-kimba-connect-le-bilan-de-la-premiere-preselection-dresse/) | Advanced, final postponed |
@@ -168,14 +168,14 @@ record: a86c9da64192
 
 ## Gambia
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Kalp Foundation Gambia One blockchain platform | Memorandum signed; nothing on record being built (2025-08) | [Unchanged; no build, pilot, funding or withdrawal reported in the nineteen months since (2026-08)](https://itweb.africa/article/the-gambia-signs-blockchain-pact-to-boost-digital-economy/8OKdWqDXbnYqbznQ) | No change |
 | Gambia Digital Innovation Sprint | ***Baseline not held*** | [Held with the National Youth Council, the communications ministry and UNICEF; no follow-on funding or incubation route published (2026-07)](https://thepoint.gm/africa/gambia/national-news/young-gambians-unveil-digital-innovations-to-transform-childrens-lives) | ***Baseline not held*** |
 
 ## Ghana
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Assistive vision technology | A post-hackathon prototype from a 2024 competition | [Two devices in pilot, smart glasses and an ultrasonic obstacle detector, at a target price of about GH¢2,000 and a 1,500-user target within a year](https://techcabal.com/2026/08/04/assistive-technology-for-african-users/) | Advanced |
 | Startup equity funding | US$9,715,000 across seven startups in 2024 | [US$41,225,000 across eight startups in 2025, seventh in Africa and 2.5% of the continental total](https://disruptafrica.com/wp-content/uploads/2026/02/The-African-Tech-Startups-Funding-Report-2025.pdf) | Advanced |
@@ -183,7 +183,7 @@ record: a86c9da64192
 
 ## Kenya
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Qubit Hub | Did not exist | [African AI research and development lab to be hosted at iXAfrica NBOX1 on sovereign compute](https://techafricanews.com/2026/05/25/qhala-amini-ai-angani-and-ixafrica-unite-to-launch-ai-infrastructure-hub-in-kenya/) | Advanced |
 | Startup funding raised | US$1.04bn raised in 2025, first in Africa and up 72% year on year | [US$126m total and US$46m equity in the first half of 2026, third in Africa and the weakest half since early 2021](https://techcabal.com/2026/07/27/african-venture-capital-is-backing-fewer-founders-than-ever/) | Regressed |
@@ -247,7 +247,7 @@ record: a86c9da64192
 
 ## Nigeria
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Bango food-market price data platform | Did not exist (founded, launched November 2025) | [Crowdsourced food-market price platform with about 2,500 users; extended into direct farmer-to-consumer sales via Shopr by Bango in Abuja; a group-buying feature (Bango Market Day) planned next](https://www.wearetech.africa/en/fils-uk/solutions/nigeria-s-bango-uses-price-data-to-bring-transparency-to-food-markets) | Advanced |
 | Katsina state technology hub | Did not exist | [Planned](https://www.wearetech.africa/en/fils-uk/news/public-management/nigeria-plans-10bln-tech-hub-in-katsina-to-anchor-national-digital-push) | Advanced |
@@ -268,21 +268,21 @@ record: a86c9da64192
 
 ## Senegal
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Corporate mobility platform | Did not exist | [A centralised platform for companies to manage employee travel, set spending limits, automate billing and track rides in real time](https://www.wearetech.africa/en/fils-uk/brief/brief-simple/senegal-yango-expands-into-corporate-mobility) | Advanced |
 | Max it super-app on the Dakar rapid-transit network | Ticketing available through the operator's money service since commercial launch in May 2024, with the super-app not integrated | [An agreement signed for progressive integration of ticketing, subscription top-ups and further services, with transport-card top-ups, bank financing, station Wi-Fi and passenger-flow analytics planned](https://www.wearetech.africa/en/fils-uk/news/tech/senegal-sonatel-connects-max-it-app-to-dakar-bus-rapid-transit-network) | Advanced |
 
 ## Somalia
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | National startup network | Did not exist | [Connecting startups to incubators, chambers of commerce and agencies, on European Union funding implemented by UNIDO; the project reports 3,600 applications across three cohorts and more than 200 startups incubated (2026-07)](https://techafricanews.com/2026/07/22/somalia-launchs-national-startup-network-to-boost-innovation-and-entrepreneurship/) | Advanced |
 | Regulator partnership with iRise Hub | Did not exist | [Memorandum covering innovation, skills, cybersecurity and research with no figure, term, named deliverable or funder (2026-07)](https://techreviewafrica.com/news/6182/somalias-nca-signs-partnership-agreement-with-irise-hub) | Advanced |
 
 ## Tanzania
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | ITU acceleration centre | A host agreement signed February 2024, Tanzania one of seventeen centres selected worldwide | [Approved and awaiting launch; no launch date, budget or premises on file at 2026-08-06](https://www.biometricupdate.com/202604/tanzania-itu-innovation-center-to-drive-digital-transformation-set-for-launch) | Advanced |
 | Startups raising disclosed funding | 6 startups raising US$41,250,000 (2024), of which US$40m went to one company | [3 startups raising US$3,706,063 (2025)](https://disruptafrica.com/wp-content/uploads/2026/02/The-African-Tech-Startups-Funding-Report-2025.pdf) | Regressed |
@@ -296,14 +296,14 @@ record: a86c9da64192
 
 ## Tunisia
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Startup Act and Startup Tunisia | In force, with over 40 firms reported as having expanded into Europe, the Middle East and sub-Saharan Africa (2025-08) | [In force and being circulated as a replicable model rather than as one country's statute, through a triangular programme with Japan (2026-07)](https://www.lapresse.tn/2026/07/28/la-tunisie-et-le-japon-sallient-pour-renforcer-les-ecosystemes-de-startups-en-afrique/) | Advanced |
 | Tunisia Digital Summit | ***Baseline not held*** | [Tenth edition held with about 2,000 participants and 80 exhibitors, the minister setting a goal of a regional digital hub and pledging continued legal and regulatory development on artificial intelligence and data protection (2026-04)](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/144861-%D9%82%D9%85%D8%A9-%D8%AA%D9%88%D9%86%D8%B3-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D9%88%D8%B2%D9%8A%D8%B1-%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84-%D8%A7%D9%84%D8%AA%D8%AD%D9%88%D9%84-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A-%D9%84%D9%85-%D9%8A%D8%B9%D8%AF-%D8%AE%D9%8A%D8%A7%D8%B1%D8%A7-%D8%A8%D9%84-%D8%B6%D8%B1%D9%88%D8%B1%D8%A9-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%8A%D8%A9-%D8%AA%D9%81%D8%B1%D8%B6%D9%87%D8%A7-%D9%85%D8%AA%D8%B7%D9%84%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D9%86%D9%85%D9%8A%D8%A9) | ***Baseline not held*** |
 
 ## Uganda
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Fintech Fridays Uganda Edition | Did not exist | [A recurring convening platform; no funding, cohort or target attached](https://www.newvision.co.ug/category/business/makerere-innovation-incubation-center-afriven-NV_236970_072026) | Advanced |
 | Mbale ICT Hub | Did not exist | [A UGX 3bn hub for young women's ICT and entrepreneurship careers; no opening date held](https://www.newvision.co.ug/category/education/mbale-ict-hub-to-boost-employable-skills-acqu-NV_228434_062026) | Advanced |
@@ -317,7 +317,7 @@ record: a86c9da64192
 
 ## Zambia
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Green Giraffe | Operating since 2022 on the founders' own account, though the base holds no dated position on the firm before 2026-07-31 | [A Zambian agritech pairing satellite imagery with artificial intelligence to route smallholders into premium markets, operating a virtual warehouse in which buyers specify variety, quality standards and compliance requirements before planting and contracts are signed pre-harvest](https://techcabal.com/2026/07/31/how-high-school-sweethearts-built-ai-farmers/) | No change |
 | E-MARK Innovation Hub | Not established; the base carries no position on the hub at 2025-08-01, and the nine-month cycle it describes began around October 2025 | [A private Zambian innovation hub which identified and mentored the delegation that reached the global finals of the 2026 AI for Good summit and youth robotics challenge among nearly 50 participating countries, and co-organised the national recognition ceremony with the technology ministry and the Presidential Delivery Unit; no figures on size, funding, participant numbers or geographic reach are held](https://techafricanews.com/2026/07/17/zambia-eyes-ai-leadership-following-global-robotics-challenge-milestone/) | ***Baseline not held*** |
@@ -333,6 +333,12 @@ record: a86c9da64192
 
 ## Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-23 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Multi-country mapping of innovation-support organisations | ***Baseline not held*** | [A EUR120,000 procurement opened by a European development agency for a multi-country mapping of African entrepreneurship- and innovation-support organisations under a Europe-Africa digital innovation programme](https://opportunitiesforyouth.org/2026/08/07/advanced-entrepreneurship-and-innovation-support-organisations-ecosystem-mapping-2026-estdev-invites-bids-for-e120000-africa-europe-digital-innovation-bridge-procurement/) | ***Baseline not held*** |
+
+## West Africa
+
+| Body, instrument or system | At 2025-08-01 | At 2026-08-24 | Movement |
+|---|---|---|---|
+| ECOWAS Startup Awards | Baseline not held | [A second edition launched by the Commission's private sector and industry directorate, offering scaling technology-led businesses managerial training, venture funding and cross-border expansion support within the continental free trade area; no prize fund, entry deadline, cohort size or outcome from the first edition is published](https://dailytrust.com/ecowas-unveils-2nd-regional-startup-awards-to-drive-innovation-youth-employment/) | Advanced |
