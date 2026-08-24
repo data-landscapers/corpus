@@ -57,20 +57,20 @@ Ackerman S	1219
 Ackerman&author	1219
 Ackermans	6368
 Acknowledge	1243,2631
-Acknowledgement	26,1,1,913,68,5937,3775
+Acknowledgement	26,1,1,913,68,5937,3775,42
 Acknowledgement All	34
 Acknowledgement Conveners	6936
 Acknowledgement The NRO EC	8047
 Acknowledgement of National Treasury	6432
-Acknowledgements	26,1,1,368,370,5,490,832,855,103,789,592,812,810,372,406,115,331,453,28,262,1,108,153,177,668,109,502
+Acknowledgements	26,1,1,368,370,5,490,832,855,103,789,592,812,810,372,406,115,331,453,28,262,1,108,153,177,668,109,502,1025,12,8
 Acknowledgements AcknowledgementsI	3791
 Acknowledgements PMA Ethiopia	1212
 Acknowledgements The Ministry of ICT	4528
 Acknowledgements This National Data Governance Policy	5244
-Acknowledges	4614,1211
+Acknowledges	4614,1211,4940,10
 Acknowledging	789,1173,2,1521,2340,607,180,222,754,1088,984
-Acknowledgment	1219
-Acknowledgments	958,866,853,1537,225,237,1024,1090,1586,2342
+Acknowledgment	1219,9561
+Acknowledgments	958,866,853,1537,225,237,1024,1090,1586,2342,57
 Al Manassa. Acknowledging	8706
 Benin Acknowledgements	7886
 COMMUNICATION AUTHORITY OF KENYA Acknowledgement	6946
@@ -93,6 +93,7 @@ O. Ackah	5349
 PA. Acknowledgements Ahmed	9129
 SADC Model Law Acknowledgements	26,1,1
 Table of Contents ACKNOWLEDGMENTS	9855
+Table of Contents Acknowledgement	10763
 UK Acknowledges Dire Situation Facing Congo	3245
 V ACKNOWLEDGEMENTS	961
 V ACKNOWLEDGEMENTS The Guidelines for Integrating Data	1243

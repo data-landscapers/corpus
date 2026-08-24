@@ -1,4 +1,4 @@
-A. Country Context	969,295,603,1737,2935
+A. Country Context	969,295,603,1737,2935,4229
 A. Every Council	6921
 A. The Participating Countries	1914
 ACP Countries Computer Crime and Cybercrime	26
@@ -112,10 +112,16 @@ Agricultural Training Courses	2775
 Alexandria Economic Court	4583
 Algeria Council of Europe	1276
 Algeria's Council of Ministers	3883
+Aline Coudouel	10768
 Amadou Coulibaly	2376,432,237,1850
 Amadou Coulibaly. Avec	2376
 Amount-quality Approx. Countries	712
+Angola A Xalam Analytics Country Report	10781
+Angola Country Climate Development Report	10763,5
 Angola Country Climate and Development Report.pdf	800
+Angola Country Context Angola	10763
+Angola Country Economic Memorandum	10768
+Angola Country Strategy Paper	10763
 Annual Statistical Abstract and County Statistical	2775
 Another Atlantic Council	8495
 Anti- Money Laundering and Counter Terrorist Financing	3583
@@ -150,6 +156,8 @@ B. Countries	1548,2
 B. Introduction and Context Country Context	1704,587,1165
 BAMBA SUB COUNTY HOSPITAL Data Controller	7167
 BAMBA SUB COUNTY HOSPITAL Data Processor	7167
+BETTER SUPPORT TO COUNTRIES	10776
+BETTER SUPPORT TO COUNTRIES Relatório Anual	10776
 BILLION Total Courier Traffic	9781
 BOMET COUNTY PUBLIC SERVICE BOARD Data	7167
 BOXLEO COURIER	7167
@@ -195,6 +203,7 @@ CAR Country Climate and Development Report	2889
 CAR SCD Systematic Country Diagnostic SEP	969
 CAR’s Special Criminal Court. Minster of State	4127
 CBC. The Basic Council	899
+CCDR Country Climate and Development Report CERC	10768
 CHC Council for Scientific and Industrial Research COBIT	1009
 CHE. Council	6832
 CIDP County Integrated Development Plan CSO	7548
@@ -325,12 +334,14 @@ Context of Country’s Data Governance	1161
 Context of Country’s Data Governance Trust	1161
 Context of Country’s Data Infrastructure	1161
 Context of Country’s Socio-Politics and Economics	1161
+Contingent Emergency Response Component CPF Country	10768
+Control of Counterfeit and Low-Quality Medicines	10776
 Coordinating Councils	4126
 Corporate Council	3093,4
 Cost Sources Technologies Council	7548
 Couffo	5478,345
 Couffo. Autorités	5823
-Could	418,21,2022,1886,92,424,4843,369
+Could	418,21,2022,1886,92,424,4843,369,701
 Could Botswana	2404
 Could Online Gig Work Drive Development	226
 Could Spain	9608,208
@@ -390,7 +401,8 @@ Council of Foreign Relations	8788
 Council of Governors	745,7472,1635,87,374,328
 Council of Governors' Maarifa Centre	5134
 Council of ICT Ministers	10073
-Council of Ministers	7,738,17,443,66,310,218,165,162,180,45,55,136,510,176,18,348,12,132,123,16,48,436,1,40,18,15,140,214,47,93,139,293,56,358,191,100,116,10,139,46,7,56,3,31,495,93,29,361,86,394,810,1,26,194,463,322
+Council of Ministers	7,738,17,443,66,310,218,165,162,180,45,55,136,510,176,18,348,12,132,123,16,48,436,1,40,18,15,140,214,47,93,139,293,56,358,191,100,116,10,139,46,7,56,3,31,495,93,29,361,86,394,810,1,26,194,463,322,1006,21,4
+Council of Ministers No	10765,10
 Council of Ministers Regulation	762
 Council of Ministers Resolution	3861
 Council of Ministers Resolution No	7624
@@ -445,7 +457,7 @@ Countering Strategic Litigation Against Public Participation	8485
 Countering Xenophobia	9682
 Countering the Financing of Terrorism	789
 Counterpart	2218
-Counterpart Funding	1264
+Counterpart Funding	1264,9504
 Counterparty	5863
 Counterpoint Research	9015
 Counterpoint Research. Coherent and Lumentum	8921
@@ -458,7 +470,7 @@ Counterterrorism Unit	783
 Counties	1638,1137,3657,514,602,2391
 Counting	1431,5306,1246,199,1226,629
 Counting President Bio Gains	8115
-Countries	177,49,65,101,10,26,67,21,57,22,2,51,123,18,31,1,15,55,1,2,42,6,19,87,98,97,21,255,9,21,15,250,14,65,95,227,342,74,46,5,52,41,386,813,75,101,109,98,11,222,217,18,81,178,30,96,6,26,5,5,29,126,56,87,132,9,9,16,194,146,97,33,151,256,58,17,1,20,19,24,58,258,12,4,87,22,164,208,3,130,287,43,38,97,32,20,231,124,79,41,10,33,179,95,132,50,92,172,176,7,19,44,62,63,264,5,5,110
+Countries	177,49,65,101,10,26,67,21,57,22,2,51,123,18,31,1,15,55,1,2,42,6,19,87,98,97,21,255,9,21,15,250,14,65,95,227,342,74,46,5,52,41,386,813,75,101,109,98,11,222,217,18,81,178,30,96,6,26,5,5,29,126,56,87,132,9,9,16,194,146,97,33,151,256,58,17,1,20,19,24,58,258,12,4,87,22,164,208,3,130,287,43,38,97,32,20,231,124,79,41,10,33,179,95,132,50,92,172,176,7,19,44,62,63,264,5,5,110,576
 Countries Countries	6671
 Countries Missing Primary Text Algeria	7707
 Countries Sierra Leoneans Can Travel	5390,965,827
@@ -466,14 +478,18 @@ Countries That Strengthen Local Interconnection	6318
 Countries UGA	1152
 Countries. Beyond	6203
 Countries. Out	5508
-Country	236,76,106,113,42,145,53,18,173,161,38,55,13,32,3,13,79,6,103,176,17,160,49,10,111,673,154,346,295,106,21,21,258,265,88,38,46,541,132,262,115,424,252,45,381,37,178,103,165,3,26,167,913,403,281,164,176,95,103,134,42,162,1,168,9,407,227,186
+Country	236,76,106,113,42,145,53,18,173,161,38,55,13,32,3,13,79,6,103,176,17,160,49,10,111,673,154,346,295,106,21,21,258,265,88,38,46,541,132,262,115,424,252,45,381,37,178,103,165,3,26,167,913,403,281,164,176,95,103,134,42,162,1,168,9,407,227,186,158,5,1,3,7
 Country Analyses And Plans	899
 Country Assessment Mission	6858
 Country Average	9616
 Country Case Studies	4430,245
 Country Cases Show	4430
-Country Climate and Development Report	1828,1628,148
+Country Climate Development Report Contingent Emergency	10763
+Country Climate and Development Report	1828,1628,148,7164
 Country Climate and Development Report CERC Contingent	1264
+Country Context	10763
+Country Cooperation Strategy	10776
+Country Cooperation Strategy CSO	10776
 Country Current	1264
 Country Diagnostic	1028,2576,4040,3070
 Country Diagnostic Report	739
@@ -482,7 +498,7 @@ Country Diagnostic for CAR	969
 Country Diagnostic for Madagascar	172
 Country Diagnostic for South Sudan	7644
 Country Dialogues and Country Strategy Paper	7784
-Country Director	1228,686,2132,607,3721,418
+Country Director	1228,686,2132,607,3721,418,1971
 Country Director Carlos Felipe Jaramillo	579
 Country Director Chon Gyong Shik	770
 Country Director Jomoke Jagun-Dokunmu	579
@@ -500,30 +516,37 @@ Country Growth	7655
 Country Head for Benin	3255
 Country Index	969
 Country Index Technical Report	3456
+Country LTS Long-Term Strategy M&E Monitoring	10768
 Country Lake Resort. Museveni	6077
 Country Lead	9424
 Country Leader of Deloitte	9107
 Country Legislative Reference	3161
-Country Manager	6056,3026
+Country Management Unit and ESF	10768
+Country Manager	6056,3026,1681,2,10
 Country Manager Clovis Pilla	5699
 Country Manager for North West Africa	7271
 Country Manager of Paratus Rwanda	10312
 Country Managers	10718
 Country Mean	1013,931
 Country Mozambique Official Use Only	4653
+Country Office	10776
 Country PANEE	3604
 Country Panics	10
-Country Partnership Framework	1901,1703,4874
+Country Partnership Framework	1901,1703,4874,2290
 Country Partnership Framework DA Designated Account	1264
 Country Partnership Framework for Togo	2026
 Country Perspectives	4907
 Country Pilots	8726
 Country Policy and Institutional Assessment	969,2635
 Country Portfolio Performance Review	4840
+Country Private Sector Diagnostic	10768
 Country Product Line Team Leader	1284
 Country Profile	1356,742
 Country Profile Companion	2098
 Country Profile.pdf	1400
+Country Profiles	10764
+Country Profiles Africa Angola Global Cybersecurity	10764
+Country Profiles For Early Childhood Development	10768
 Country Program Officer	4840
 Country Programme	7785,259
 Country Ranking	5247
@@ -703,7 +726,7 @@ Court of Accounts	969,315,2525,3351
 Court of Accounts and Parliament	969
 Court of Accounts’ Execution Control	1284
 Court of Appeal	11,2692,164,499,71,195,532,448,102,288,114,269,126,272,239,8,490,1,56,239,111,99,8,71,50,37,129,39,19,47,137,144,69,316,3,384,184,113,769,100,327
-Court of Auditors	3667
+Court of Auditors	3667,7101
 Court of Cassation	39,10035
 Court of Civil Appeal	1919,7589,301
 Court of Civil Appeal Act	1919,7890
@@ -720,7 +743,7 @@ Courtesy of Ministry of Health Zambia Activists	5162
 Courtesy of National Council for Persons	8795
 Courtesy. An AWS Outpost	5837
 Courtesy. The Central Equatoria State Ministry	8330
-Courts	958,1349,468,1086,857,1154,183,1812,513,396,202,421,733,79
+Courts	958,1349,468,1086,857,1154,183,1812,513,396,202,421,733,79,564
 Courts Act	7845
 Courts Defining the Red Lines	4583
 Courts Mission Mode Project	8978
@@ -756,6 +779,7 @@ DOL DOL SUB COUNTY HOSPITAL Data	7167
 DPAs. Countries	4583
 DRC's Presidential Strategic Oversight Council	3424
 DStv Country	9781
+Daniel Dulitzky Country Director	10768
 Danish Industrialisation Fund for Developing Counties	789
 Danish Refugee Council	6947
 Danish Refugee Council Diaspora Programme	6947
@@ -899,6 +923,7 @@ Extension Couverture	3537
 FCC’s Council	10444
 FINANCIAL STABILITY FRAMEWORK IN AFRICAN COUNTRIES	6938
 FTTH Council Europe Conference	6539
+FY14-FY16 WBG Country Partnership Strategy	10779
 FY21-FY25 Country Partnership Framework	969
 Fatogoma Coulibaly	4170
 Federal Court of Justice	10090
@@ -911,6 +936,7 @@ Federal Supreme Court	1783
 Financial Industry Cyber Council	4073
 Financial Market Council	6938
 Financial Reporting Council	9508
+Financial Reporting Standards Council	10793
 Financial Sector Systems General Counsel and Bank	6938
 Fintech Advisory Council	4848
 Fiscal Council	7695
@@ -930,11 +956,18 @@ Full Council Meetings Period Meetings First	1154
 Functions The Council	3861
 Functions of County Governments	2775
 G5 Sahel Country Climate and Development Report	1264
+GCI. Countries	10764
 GCM Champion Country	9838
 GENERAL INSTITUTIONAL FRAMEWORK GENERAL APPROACH Countries	1243
 GIZ Nigeria Country Office	8985
 GIZ and Human Sciences Research Council	4126
 GOVERNING COUNCIL	1220
+GROUP DATA REVENUE BY COUNTRY Table	10793
+GROUP DIGITAL REVENUE BY COUNTRY Table	10793
+GROUP EBITDA BY COUNTRY Table	10793
+GROUP FINTECH REVENUE BY COUNTRY Table	10793
+GROUP REVENUE BY COUNTRY Table	10793
+GROUP SERVICE REVENUE BY COUNTRY Table	10793
 Gambia Court	5033
 Garissa County	346,10382
 Garissa Youth Hub and Nyeri County Youth	6946
@@ -1034,6 +1067,7 @@ Hybrid Court for South Sudan	3583
 Hybrid Court.146	3583
 I. STRATEGIC CONTEXT A. Country Context	969,898,1737
 IBRAHIM COULIBALY FAITS MARQUANTS REPARTITION	2342
+ICRR0024415 Country Angola Programmatic DPF Planned	10779
 ICT Minister Lumumba Pays Courtesy Visit	4608
 ID Countr	6432
 ID for All A High Court	2324
@@ -1186,6 +1220,7 @@ Labour Courts and Masters' Offices	9894
 Lamine COULIBALY	8321
 Lamu County	10313
 Lamu County. Social Responsibility and Investment	6946
+Land Landlocked Developing Countries	10764
 Land Locked Developing Country Freedom House	9477
 Land The Ministry of Lands and Country Planning	1161
 Landlocked Developing Countries	2663,6282
@@ -1194,7 +1229,7 @@ Laure Besse and Mamadou Coulibaly	7189
 Le Gros Coup Gueule De Rabiot	4960,62,2035
 Le Temps Moyen de Coupure	2342
 Lead and Country Economists	10718
-Least Developed Countries	2663,4536,36
+Least Developed Countries	2663,4536,36,3529
 Least Developed Countries and Small Island Developing	6318
 Least Developed Country	3583,5894
 Legal Counsel	9311
@@ -1408,6 +1443,7 @@ National Industrial Court	8978
 National Industrial Court of Nigeria and State High	10211
 National Islamic Council	3046
 National Judicial Council. Such	8978
+National Payment Council	10779
 National Payments Council	3391
 National Research Council Regulations	9525
 National Research Policy The Research Council	1154
@@ -1467,11 +1503,14 @@ Opening the Council Meeting	7142
 Oracle Kenya Country Leader David Bunei	8261
 Ordinary Directive Council	5568
 Organization of Petroleum Exporting Countries	2775
+Oslo Diploma Course	10752
 Others1 IN THE HIGH COURT	1829
 Oti Regional Coordinating Council	7457
 Ousmane Diagana Country Director	969,295
 Outgoing Domestic Courier Item	6946
 Outgoing Outgoing SMS Data Volumes Country	6671
+P168336 TBL Country Angola Operation ID P168336	10779
+P169983 TBL Country Angola Operation ID P169983	10779
 P2P Mobile Money Transaction Count	9781
 PART B IN THE DISTRICT COURT	7845
 PAYS INITIATIVES EN COURS BÉNIN	10711
@@ -1566,6 +1605,7 @@ Qhala Digital Economy County Centers of Excellence	6948
 Quality Council for Trades and Occupations	6832,1245
 Quality Council for Trades and Occupations SAQA	6832
 Quality of Service for Postal and Courier Services	1209
+R&D. Countries	10764
 REG. Countries	1048
 RESEARCH COUNCIL OF ZIMBABWE	1154
 RESEARCH COUNCIL OF ZIMBABWE Leadership	1154,400
@@ -1574,6 +1614,7 @@ RISK COMMITTEE The Research Council of Zimbabwe	1554
 RULAAC Warns Data Protection Bill Could	7458
 Ramaphosa and Boutbig Chart New Course	8015
 Rapid Assessment of Counties	5134
+Real-Time Review of Country Measures	10763
 Recent Geopolitical Tensions Could Stifle Trade	10718
 Recettes Courantes	4420
 Recommendations County	5134
@@ -1622,6 +1663,7 @@ Rwanda Country Director	5837
 Rwanda Is Counting Everything	5889
 SADC Council of Ministers	9761
 SADC Council of Ministers. Allow	9761
+SCD Systematic Country Diagnostic SIAC Serviços	10765,10
 SCREENGRAB The High Court	9646
 SECTORS COUNTRIES	4883
 SLB for Rural Councils	970
@@ -1739,7 +1781,7 @@ Supreme Court. Cooperation	1333
 Supreme Court’s Electronic Diary System	8978
 Supreme Judicial Council	9064
 System LIC Low Income Countries LMIC	771
-Systematic Country Diagnostic	969,5570
+Systematic Country Diagnostic	969,5570,4226,10
 Systm Upgrades Provincial Courts Proceedings	2987,16,13,949,1438,159,1347
 Sénégal Coupe	2478
 T. Coups	7886
@@ -1798,6 +1840,7 @@ UNFPA Somalia Country Humanitarian Appeal	9766
 UNHCR Country Representative Aissatou M. Ndiaye	4652
 UNICEF Country Representative	7171
 UNICEF Country Representative Wafaa Abdelatef	5100
+UNICEF and Countdown	10768
 UNICEF’s Country Representative for Zambia	5802
 UNITED STATES DISTRICT COURT	5692
 UPDATES TO RELEVANT COURT RULINGS	5533
@@ -1829,6 +1872,7 @@ Use Case for African Counterparts	3796
 User Experience Design VCT Voluntary Counselling	396
 User Interfaces for Low-Income Countries	5349
 Utilities and Wildlife Court	7771,2792
+VIII. STRATEGIC CONTEXT A. Country Context	10768
 Veterinary Council Act	7845
 Victoria Kwakwa Country Director	1284
 View Counter	2266,48,70,1204,745,235,171,806,299,245
@@ -1838,6 +1882,7 @@ Visitor Counter	6480
 Vulnerability and Readiness Country Index	2889
 WALES KING'S BENCH DIVISION COMMERCIAL COURT	1829
 WB Digital Economy Country Diagnostic for Equatorial	1752
+WFP Angola Country Brief	10763
 WFP Kenya Annual Country Report	7548
 WTO Council for Trade	1243
 Wairagala Wakabi and Dr Tony Roberts. Court	5508
@@ -1853,6 +1898,7 @@ Wholesale and Retail Payment Systems Country	6938
 Women Council and Local Council	8352
 Women Count	1407
 Women Count Phase	1407
+World Bank Angola Country Climate Development	10763
 World Bank Country Director	2592
 World Bank Country Director Satu Kahkonen	2391
 World Bank Country Director for Gabon	1575
@@ -1864,6 +1910,7 @@ World Bank Country Manager for Zambia	7963
 World Bank Country Manager for Zambia. Zambia	1901
 World Bank Country Partnership Framework	1264,2340
 World Bank Country Representative Franklin Mutahakana	8459
+World Bank Country and Lending Groups	10785
 World Bank Digital Economy Country	1029
 World Bank Group's Country Partnership	1954
 World Bank Group’s Country Partnership Framework	6539

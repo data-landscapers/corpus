@@ -4,6 +4,7 @@ ACM EAAMO	1004
 ACTUARIAL SERVICES EAST AFRICA LIMITED Data	7167
 ADM Arcade Bigirindavyi EAERU Responsible	1284
 ADVANCE INSIGHT EAST AFRICA LIMITED Data	7167
+AFR EAP ECA LCR MNA NAM	10785
 AFRICA AND THE MIDDLE EAST CRISIS	4114
 AFRICA SPECIALTY RISKS EAST AFRICA Data	7167
 AGRI FRONTIER EAST AFRICA LIMITED Data	7167
@@ -137,6 +138,7 @@ Class EA	9123
 Coast Lower Eastern Lower Eastern Lower	7869
 Coast South Rift Nairobi Lower Eastern	7869
 Coast and Lower Eastern	7869
+Columbia Center for International Earth Science Information	10759
 Commission EAs Enumeration Areas EBK Engineers	2775
 Common Market for Eastern Africa	1914
 Common Market for Eastern and Southern Africa	26,1,1,2263,1457,12,778,2001,481,576,367,76,255,41,818,29,834,1,296,59
@@ -147,6 +149,7 @@ Congo Brazzaville and Ghana. EAIF	516
 Connect East and Southern Africa	3523
 Connectivity for Early	2989
 Continental Early Warning System	5825
+Country Profiles For Early Childhood Development	10768
 Crowned Eagle Safaris Limited Data Controller	7167
 Current EAC	7548
 Cyan EA	5408
@@ -171,6 +174,7 @@ Description EAIF	516,1,1,196,222,209,1,1,402,1
 Description Eastcastle Infrastructure DRC SARLU	7356
 Description Phase II of Digital Earth Africa	345
 Develop New Ease of Doing Business Portal	3907
+Development Office Famines Early Warning Systems	10763
 Diagnostic Network Optimization Early Infant Diagnosis	4153
 Digital Development Global Practice Eastern and Southern	1284,2278,2977
 Digital Earth Africa	345,714,8563
@@ -178,6 +182,7 @@ Digital Earth Africa Innovation Challenge	9561
 Digital Earth Africa Phase II DFAT	345
 Digital Earth Africa Phase III DFAT	1059
 Digital Economy East African Community Headquarters	9707
+Digital Investment Facility EAC East African	10781
 Digitalisation for East African Trade and Integration	827
 Dimension Data Solutions East Africa Ltd	6671
 Domestic Economy Earnings	2775
@@ -185,6 +190,7 @@ Domestic Economy Wage Earnings	2775
 Décision du Ministre des Eaux	2342
 E T R H N EASTERN	582
 E&S Environmental and Social EA Environmental Assessment	1988
+EA EE EFP EG EGRA EJA	10766
 EA Enumeration Area Figure	582
 EA Framework Below	21
 EA INFRASTRUCTURE PLATFORM LIMITED Data Controller	7167
@@ -323,6 +329,8 @@ EARDIP Project	3238
 EARDIP SOP-II	1264
 EARLIER	9794
 EARLY STAGE OF DEVELOPING NATIONAL	1243
+EARNINGS PER ORDINARY	10793
+EARNINGS PER ORDINARY SHARE Number	10793
 EARNabler’s Victory Oyare Matthew Refunds Lagosian	10034,231
 EARSPforR	8527
 EARTH CRAVE LIMITED Data Processor INST-86219788DE9	7167
@@ -412,7 +420,7 @@ Earlier MIS	1371
 Earliest	2432,108,500,898,716
 Earliest of CAR	2611
 Earliest-dated	5513
-Early	587,202,110,365,99,360,55,50,561,131,486,5,1,53,46,22,18,6,56,48,25,92,82,10,113,21,17,121,98,47,287,175,765,249,170,18,19,130,122,349,122,51,154,41,33,57,171,197,325,252,30,44,142,191,569,54,66,45,81,211,15,81,25,10,32,67,97,384,11,37,170,33,219,227
+Early	587,202,110,365,99,360,55,50,561,131,486,5,1,53,46,22,18,6,56,48,25,92,82,10,113,21,17,121,98,47,287,175,765,249,170,18,19,130,122,349,122,51,154,41,33,57,171,197,325,252,30,44,142,191,569,54,66,45,81,211,15,81,25,10,32,67,97,384,11,37,170,33,219,227,378
 Early Access	8698
 Early Bird	6971,95,5,213,98,1507,118,10,622,24,91,9,34,72,11,16,23,36,1,16,12,216,502,36,2
 Early Childhood Care and Education	7845
@@ -431,6 +439,7 @@ Early Registration of Birth	3200
 Early Stage	4972
 Early Stages Accelerate	4972
 Early Warning Signal Against	5550
+Early Warning System Food and Agriculture Organisation	10763
 Early Warning and Disaster Preparedness	8645
 Early Warnings for All	8370
 Early-2024	1624
@@ -441,7 +450,7 @@ Early-Stage Innovation	1580
 Early-stage	9495,624
 Early-stage African	9495
 Earn Certificates Under New Training Plan	10280
-Earnings	2775,2121,2308,829,1939,185,582
+Earnings	2775,2121,2308,829,1939,185,582,54
 Earnings Before Interest	1818,5386,2435,24,479
 Earnings Before Interest Tax	3898,2202
 Earnings Release	8607
@@ -477,11 +486,11 @@ Ease of Doing Business Index	4528
 Ease of Doing Business Portal	3725,182,4300
 Ease of Doing Business. Nigeria	8440
 Ease of Trade	5247
-Easier	2319
+Easier	2319,8445
 Easier Said Than Done	5366
 Easler	1885
 Eassy	3559
-East Africa	107,71,196,136,203,73,44,12,45,48,141,47,122,19,263,193,1,1,56,46,4,29,131,287,73,328,1,2,95,24,16,36,107,29,201,6,107,122,94,7,53,7,42,102,11,7,29,14,71,80,15,198,287,116,8,49,140,43,11,42,70,17,23,1,13,16,26,19,40,51,100,23,125,46,67,36,80,26,1,1,61,16,59,257,19,5,15,35,17,37,81,27,8,52,20,65,23,80,97,88,25,1,56,16,1,52,8,87,1,8,15,21,27,3,22,106,11,4,45,8,198,34,20,47,18,23,25,46,18,179,18,33,54,11,33,2,34,32,78,40,50,5,320,2,18,4,94,133,5,44,46,102,42,10,59,61,3,116,46,176,4,102,86,28,74,14,10,132,127,11,118,16,3,24,25,127,10,53,13,61,107,3,27,1,34,21,13,3
+East Africa	107,71,196,136,203,73,44,12,45,48,141,47,122,19,263,193,1,1,56,46,4,29,131,287,73,328,1,2,95,24,16,36,107,29,201,6,107,122,94,7,53,7,42,102,11,7,29,14,71,80,15,198,287,116,8,49,140,43,11,42,70,17,23,1,13,16,26,19,40,51,100,23,125,46,67,36,80,26,1,1,61,16,59,257,19,5,15,35,17,37,81,27,8,52,20,65,23,80,97,88,25,1,56,16,1,52,8,87,1,8,15,21,27,3,22,106,11,4,45,8,198,34,20,47,18,23,25,46,18,179,18,33,54,11,33,2,34,32,78,40,50,5,320,2,18,4,94,133,5,44,46,102,42,10,59,61,3,116,46,176,4,102,86,28,74,14,10,132,127,11,118,16,3,24,25,127,10,53,13,61,107,3,27,1,34,21,13,3,57
 East Africa BMZ	178
 East Africa Banking Industry Outlook	5883
 East Africa Breweries PLC Data Controller	7167
@@ -599,7 +608,8 @@ East Africa’s AI	6410,2234
 East Africa’s AI-ready	8644
 East Al-Nasr	7809
 East Asia	6997
-East Asia Pacific	10714
+East Asia Pacific	10714,71
+East Asia and Pacific	10785
 East Asian	4053
 East Cantonments	3386
 East Castle	3862
@@ -646,6 +656,7 @@ East-West	4958,1
 East-West Southern Africa	10697
 East-to-West Africa	7036
 East-to-West Connectivity Project	5293
+East-toWest	10793
 East2West	124,924
 EastAfrica	9452,39
 EastAfrican	6986,2501
@@ -706,6 +717,7 @@ Eastern Province	4942,457,207,283,454,183,20,482,2732
 Eastern Region	3386,6681
 Eastern Region Mob	3386
 Eastern Region Plot No	2776
+Eastern Tanzania. Lusaka	10780
 Eastern Technical University	9450
 Eastern Uganda	5109
 Eastern and Central Africa. Officials	7989
@@ -783,8 +795,10 @@ Every Day Earners	7618,1
 Exits East Africa	4972
 FSSES Fixed Satellite Service Earth Stations	6946
 Facebook Connectivity Lab and Center for International Earth	1013
+Famines Early Warning Systems Network	10763
 Far East Asia	523
 Financial Management Ingrid Cesarine Meka EAEG2	1284
+Financial Management Public Perception of Easiness	10759
 First for East Africa	3193
 Five East African	10476
 For-Tesfaye-Research The East African	8671
@@ -806,15 +820,18 @@ George Orwell Early	4258
 Geostationary Earth Orbit	5378
 Ghanaian Earth Observation	9561
 Gogrial East	3442
+Google Earth Maps	10763
 Google Maps and Google Earth	3782
 Government- Ease	395
 Graphical User Interface Easy	7988
 Group's East African	10312
+Group's Middle East	10793
 Group. Early	10049
 GwanPz Dr. Eng. E.MD.rK. Eamngu.sEo.kMo	1154
 Head of Central West and East Africa	5277
 Head of Division East and Central Africa	9707
 Head of Movement for Southern Eastern Africa	6484
+Headline Earnings	10793
 Helios Towers Africa and Eaton Towers	236
 Hold Middle East Crisis Summit	3437,3942,47
 Homeboyz Radio Gukena FM East FM	9646
@@ -851,6 +868,7 @@ International Year of Planet Earth	6997
 Internet Outage Felt Across East Africa	2677
 Internet Routers Across Africa and Middle East	6678,209,414,23
 Internet. Earth Station Service Provider	10407
+James Eaton-Lee	10764
 Journal of Eating Disorders	7759
 Jul-2026 Earthworks	5734
 June. The Eastleigh Voice	6866
@@ -903,7 +921,7 @@ Medium Earth Orbit	2913
 Member for Wuli East	5273
 Microsoft Excel Ease	9124
 Microsoft Middle East and Africa	5327
-Middle East	344,3,273,416,676,7,22,228,56,350,143,159,1,131,21,55,17,147,64,285,238,91,41,86,18,249,115,165,275,209,5,44,38,149,105,21,5,5,341,9,14,80,98,340,169,30,30,42,183,128,152,142,141,72,189,102,15,219,106,190,27,47,1,1,96,187,22,96,57,307,195,402,222,26,34,161,54,63,156,58,81,9,111,93,28,109,22,4
+Middle East	344,3,273,416,676,7,22,228,56,350,143,159,1,131,21,55,17,147,64,285,238,91,41,86,18,249,115,165,275,209,5,44,38,149,105,21,5,5,341,9,14,80,98,340,169,30,30,42,183,128,152,142,141,72,189,102,15,219,106,190,27,47,1,1,96,187,22,96,57,307,195,402,222,26,34,161,54,63,156,58,81,9,111,93,28,109,22,4,67,8
 Middle East and Africa	1741,569,427,876,1052,56,251,392,164,272,671,261,1488,1,1,255,114,237,266,802,446,350
 Middle East and Africa. Singapore	10342
 Middle East and Africa. Under	10342
@@ -941,6 +959,7 @@ Ministère des Eaux	3045
 Mn. Bottom-line Performance Earnings Before Interest	3898
 Morash EA	8460
 Mozambique Eastern and Southern Africa Region Attachment	2474
+Muntean EA	10780
 Mustafa Sheikh Ahmed Dhuxulow. The EAC	5045
 NGSO Gateway Earth Station	2913
 NORTH EAST	582
@@ -948,6 +967,7 @@ NTRA's Radio Spectrum Guidelines for Earth Stations	1259
 Nakuru Town East	10313
 National Assembly. EAM	2667
 National Government Debt Service Charges and Earnings	2775
+Network Earth Institute	10759
 Newsfeed The Common Market for Eastern and Southern	3737
 Nexus Eau-Energie-Alimentation-Ecosystèmes	8891
 Nigeria Super Eagles	5985,909
@@ -969,6 +989,7 @@ North South East West Central Southern	9616
 North West North East North Central	3862
 Novastar Ventures East Africa Fund	46
 Number of Earth Stations	3641
+Nurturing Care For Early Childhood Development	10768
 Nyanza Lower Eastern Mt Kenya	7869
 O.E. Oluwadamisi of Earnest Attorneys LP	8648
 OPay and Moniepoint. East Africa	8727
@@ -1003,6 +1024,7 @@ Project East	4069
 Project East2West	1048
 Project East2West. Bayobab	2814
 Province Eastern Cape Free State Gauteng	8999
+Public Perception of Easiness	10759
 Purpose COMESA Common Market for Eastern and Southern	2775
 RFID and EAS	736
 RISA EA	9124
@@ -1041,6 +1063,7 @@ Senior Vice President and Country Manager for East	8374
 Seychelles Launches Ease of Doing Business Portal	3907
 Single Digital Market for East Africa	1264
 Social EAC East Africa Community EARDIP	1264
+Social Protection and Jobs Global Practice Eastern	10768
 Société Easycom	7977
 Société Nationale des Eaux du Bénin	7212
 Solwezi East MP Alex Katakwe	3182
@@ -1048,6 +1071,7 @@ Somalia and East Africa	5975
 South Africa Far East	2677,615
 South Africa's Eastern Cape	6931
 South Africa-Far East	3292
+South Africa’s Eastern Cape	10780
 South Africa’s EasyEquities	8624
 South East Asia	9616
 South East Asia and Australia	4676
@@ -1059,7 +1083,7 @@ Southern Africa Multi-Region East Africa	4972
 Southern Africa and East Africa	5247
 Southern Africa and Eastern Africa	585
 Southern Oscillation EOPS Early Oil Pilot	2775
-Southern and East Africa	8111,1788,689
+Southern and East Africa	8111,1788,689,205
 Southern and Eastern Africa. Lagos	9496
 SpaceX’s Gateway Earth Station and User- Terminal	6891
 Starlink Broke Through Easily Nigeria	6825
@@ -1129,5 +1153,6 @@ World Bank World Development Indicators. EACO	8753
 World Bank's Ease of Doing Business Index	8440
 World Bank. The EARDIP	3238
 YALI RLC East Africa	10475
+Yalcin EA	10784
 ZAMBIA’S EASE OF TRADE INDEX SCORE	5247
 Zimba-Soaring Eagle	4528

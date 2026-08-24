@@ -37,11 +37,13 @@ BAOSTEEL EUROPE GMBH. KE BRANCH Data	7167
 BCS EUR	253
 BDIH and Team Europe	10730
 BFA. Norfund EUR	708
+Banco Mundial EDIÇÃO Eugénia Tavares Ulo	10757
 Bank of America Europe DAC and Citibank	7198
 Bank of America Europe DAC and Citibank N.A	7198
 Banque Européenne	7668
 Baptista Eusébio Oreste Kauxique Maganlal Adelino	2989
 Belarus and Russia. A European	8890
+Benguela Luanda EUGÉNIO FRANCISCO DA COSTA	10751
 Bernardo Eugénia Ulo Alfredo José Engrácia	4044
 Bianca-Ioana Marcu Managing Director for Europe	5363
 Biometric Update EU	6650
@@ -76,6 +78,7 @@ Commit EUR2.42M	1063
 Commits EUR12.68M	626
 Commits EUR5.28M	250
 Common European Data Space for Cultural Heritage	7313
+Community EU European Union F Forecast	10781
 Competition Space China European Union Data	9816
 Comprehensive EU	4650
 Congo Unveils European-Backed Plan	3080
@@ -441,10 +444,12 @@ EU4DigitalFebruary	4776
 EU4Skills	3023,2925
 EUA Fonte	2816
 EUA Luanda	2581
+EUA Maio	10777
 EUA-STP	2444
 EUA. Consultor Jurídico. Disponível	2816
 EUA. O Chefe de Estado	6525
 EUA. Poder Aéreo. Disponível	2816
+EUA. Secção	10751
 EUCL Compared	718
 EUCL International Trade	718
 EUCL Mukungwa	718
@@ -544,7 +549,8 @@ EU’s Critical Raw Materials Act	10592
 EU’s Digital Services Act	7983
 EU’s ERN	10188
 EU’s GDPR	961,2331,2201,850
-EU’s General Data Protection Regulation	1243,3999,1229,1240,1065
+EU’s General Data Protection	10765
+EU’s General Data Protection Regulation	1243,3999,1229,1240,1065,1999
 EU’s Global Gateway	5099,3176,2317
 EU’s TEI	970
 EU’s Team Europe Initiative	5235
@@ -564,6 +570,7 @@ Energia EUinMoz2026	6743
 Eng. ED.rM. E. Kngam. Eu.sMok.oKamusoko Ms	1154
 Environmental Impact Assessment EIB European Investment	2775
 Escola Secundária Eugénio Tavares	5329
+Estados Membros da União Europeia	10750
 Estimated. EUR	648
 Ethiopia European Commission	629,438
 Eu EEES	163
@@ -583,6 +590,7 @@ Eugenio Garcia	7428
 Eugenio Moeda	5509
 Eugène Mba	7094
 Eugène Mba. Objectif	7094
+Eugénia Ulo	10757
 Eugénio Jeremias	2784,32
 Eugénio Macumbe	2816
 Eugénio Tiny	8536
@@ -593,6 +601,7 @@ Eunice Likotiko	8883
 Eunice Olaleye Is Starlink	5874
 Eunick Odjo	9800
 Euper	961
+Eur Respir J	10784
 Euractiv	5846,2845,68
 Euractiv. Acquired	5846
 Euractiv. Cet	8759
@@ -610,7 +619,7 @@ EuroHPC JU	8346
 EuroPA	9832
 EuroStack	7857
 Eurobarometer EU	9067
-Eurobond	4461,786,1499,848,101
+Eurobond	4461,786,1499,848,101,3098
 Eurobonds	581,1248,38
 Eurocham CI	3526
 Eurogroup	4429,1992,1050
@@ -619,7 +628,7 @@ Euromoney Awards	2888,32,354,504,1444,877,6,100,680,129,293,115
 Euronews	5618,3074,1124,16
 Euronews. Is the EU	8692
 Euronews. PagBrasil	9832
-Euronext Dublin	4461,2285
+Euronext Dublin	4461,2285,4047
 Euronext NL0000400653 GTO	24
 Euronext Paris	8125
 Euronext Paris. North African	2673
@@ -632,9 +641,10 @@ Europa. Direção-Geral	2816
 Europa. Segundo	6356
 Europacable	3604
 Europay	4791
-Europe	10,30,185,204,118,3,12,6,20,201,172,30,45,2,175,30,2,19,99,100,185,64,3,2,24,73,4,10,65,76,148,236,22,84,16,39,4,73,86,29,26,37,6,19,15,4,23,1,28,171,13,26,38,44,22,43,46,11,13,50,15,108,41,15,75,20,35,108,23,77,13,2,30,63,154,6,62,16,48,5,1,109,33,25,22,66,136,13,13,8,31,6,127,15,56,40,5,8,3,18,36,52,43,14,7,14,65,18,2,8,125,77,45,119,63,20,3,68,26,48,17,62,116,21,12,2,93,17,14,14,36,16,42,18,42,4,1,28,2,7,11,47,3,5,1,10,11,5,14,25,3,37,1,10,11,25,6,15,38,2,14,39,47,18,24,41,6,30,29,8,13,12,26,11,24,4,29,1,36,106,25,50,107,78,3,106,35,43,15,15,30,7,52,48,14,21,115,42,35,74,2,37,20,13,26,25,17,2,1,80,1,79,124,33,15,6,10,30,26,22,32,16,41,30,79,1,13,32,26,85,20,65,19,4,14,159,155,13,112,8,16,51,48,84,1,16,63,35,82,1,34,15,3,23,48,21,31,13,4,3,13,40,117,103,38,8,65,25,14,61,26
+Europe	10,30,185,204,118,3,12,6,20,201,172,30,45,2,175,30,2,19,99,100,185,64,3,2,24,73,4,10,65,76,148,236,22,84,16,39,4,73,86,29,26,37,6,19,15,4,23,1,28,171,13,26,38,44,22,43,46,11,13,50,15,108,41,15,75,20,35,108,23,77,13,2,30,63,154,6,62,16,48,5,1,109,33,25,22,66,136,13,13,8,31,6,127,15,56,40,5,8,3,18,36,52,43,14,7,14,65,18,2,8,125,77,45,119,63,20,3,68,26,48,17,62,116,21,12,2,93,17,14,14,36,16,42,18,42,4,1,28,2,7,11,47,3,5,1,10,11,5,14,25,3,37,1,10,11,25,6,15,38,2,14,39,47,18,24,41,6,30,29,8,13,12,26,11,24,4,29,1,36,106,25,50,107,78,3,106,35,43,15,15,30,7,52,48,14,21,115,42,35,74,2,37,20,13,26,25,17,2,1,80,1,79,124,33,15,6,10,30,26,22,32,16,41,30,79,1,13,32,26,85,20,65,19,4,14,159,155,13,112,8,16,51,48,84,1,16,63,35,82,1,34,15,3,23,48,21,31,13,4,3,13,40,117,103,38,8,65,25,14,61,26,46,17
 Europe AI-governance	6189
 Europe AfCFTA	5244
+Europe Albania Global Cybersecurity Index	10764
 Europe Asia Oceania	4972
 Europe CLVI	6477
 Europe Cable System	7329
@@ -650,6 +660,8 @@ Europe Getting AI Wrong	7112,35,27
 Europe IPE	643
 Europe Put Start-Ups	6487
 Europe Submarine Cable GAMTEL The Gambia	1000
+Europe Switzerland International Telecommunication Union	10764
+Europe T5 Building Vatican T4 Evolving	10764
 Europe Tech News	9608
 Europe The Equiano	1363
 Europe Tried	6487
@@ -660,7 +672,7 @@ Europe and America	2154,1201
 Europe and Asia	1903,1733,889,323,1830,13,99,438,2892
 Europe and Asia. While Africa	4121
 Europe and Central	10714
-Europe and Central Asia	226,5372
+Europe and Central Asia	226,5372,5187
 Europe and Eurasia	10351
 Europe and Israel	5716
 Europe and Italy	10592
@@ -704,7 +716,8 @@ Europe. Schneider	4933
 Europe. Signing	8125
 Europe. Situating GenAI	9364
 Europe. TikTok	7602
-European	26,1,1,545,216,56,8,117,116,631,101,68,87,120,3,146,35,28,13,6,103,20,71,3,20,25,48,44,19,43,5,53,38,3,1,3,50,41,11,18,4,70,1,8,10,13,26,5,100,99,6,18,95,31,31,163,119,45,33,41,13,15,15,126,37,21,103,67,110,79,1,105,75,3,19,13,13,13,62,25,55,141,102,11,28,32,79,18,5,5,50,8,32,24,82,34,11,60,43,101,125,24,32,78,116,114,3,25,17,24,11,8,6,64,19,9,1,37,11,47,3,6,10,30,3,21,1,4,36,53,14,1,1,16,76,57,7,16,43,7,6,59,127,11,5,127,77,85,32,87,262,23,181,11,48,36,45,30,68,1,7,15,6,24,19,81,1,1,70,111,17,4,46,7,26,63,119,93,163,52,36,244,97,78,58,59,48,77,16,215,41,2,46,21,31,13,74,44,111,3,94,65,100,18
+Europe.13 CIRTs	10764
+European	26,1,1,545,216,56,8,117,116,631,101,68,87,120,3,146,35,28,13,6,103,20,71,3,20,25,48,44,19,43,5,53,38,3,1,3,50,41,11,18,4,70,1,8,10,13,26,5,100,99,6,18,95,31,31,163,119,45,33,41,13,15,15,126,37,21,103,67,110,79,1,105,75,3,19,13,13,13,62,25,55,141,102,11,28,32,79,18,5,5,50,8,32,24,82,34,11,60,43,101,125,24,32,78,116,114,3,25,17,24,11,8,6,64,19,9,1,37,11,47,3,6,10,30,3,21,1,4,36,53,14,1,1,16,76,57,7,16,43,7,6,59,127,11,5,127,77,85,32,87,262,23,181,11,48,36,45,30,68,1,7,15,6,24,19,81,1,1,70,111,17,4,46,7,26,63,119,93,163,52,36,244,97,78,58,59,48,77,16,215,41,2,46,21,31,13,74,44,111,3,94,65,100,18,54
 European AI	6214,263,10,392
 European AI Office	8686,6
 European AI Sovereignty	6879
@@ -761,11 +774,11 @@ European Court of Human Rights	10335
 European Court of Justice	1243
 European Cybersecurity Certification Framework	3787
 European DFI. Subject	970
-European Data Protection Board	5113,3323,337,294,1021
+European Data Protection Board	5113,3323,337,294,1021,676
 European Data Protection Board Commissioner Michael	8533
 European Data Protection Board Having	7081
 European Data Protection Board. Participants	9067
-European Data Protection Directive	1387
+European Data Protection Directive	1387,9378,10
 European Data Protection Supervisor	1807,2776,3946,157
 European Development Fund	26,1,1
 European Digital Identity	9683
@@ -841,7 +854,7 @@ European Technological Sovereignty Package	6468,19
 European Technology Sovereignty Package	10088
 European Technology Sovereignty Package. The EU	10088
 European Telco	6477
-European Union	26,1,1,527,234,172,1,7,1,100,16,1,156,14,7,543,7,4,49,96,154,37,2,55,46,63,17,98,98,93,213,119,65,41,16,82,22,1,170,143,85,17,4,47,112,14,83,12,230,21,4,53,115,152,23,1,43,11,3,55,34,33,13,5,83,17,80,194,133,27,40,5,55,26,35,3,38,83,12,4,98,100,19,143,85,99,3,22,41,118,8,41,31,20,30,16,10,116,36,15,28,59,38,20,26,18,82,7,106,89,54,31,62,58,10,7,85,117,97,94,89,90,24,10,111,19,29,81,98,1,22,30,29,1,71,88,1,86,7,17,64,19,118,26,3,13,71,338,14,15,38,19,25,89,1,63,1,33,112,224,6,19,158,73,23,2,44,31,82,5,42,28,228,19,39,79,5,5
+European Union	26,1,1,527,234,172,1,7,1,100,16,1,156,14,7,543,7,4,49,96,154,37,2,55,46,63,17,98,98,93,213,119,65,41,16,82,22,1,170,143,85,17,4,47,112,14,83,12,230,21,4,53,115,152,23,1,43,11,3,55,34,33,13,5,83,17,80,194,133,27,40,5,55,26,35,3,38,83,12,4,98,100,19,143,85,99,3,22,41,118,8,41,31,20,30,16,10,116,36,15,28,59,38,20,26,18,82,7,106,89,54,31,62,58,10,7,85,117,97,94,89,90,24,10,111,19,29,81,98,1,22,30,29,1,71,88,1,86,7,17,64,19,118,26,3,13,71,338,14,15,38,19,25,89,1,63,1,33,112,224,6,19,158,73,23,2,44,31,82,5,42,28,228,19,39,79,5,5,45,3,7,1,4,1
 European Union AI Act	9204
 European Union AI Act. Many African	7678
 European Union AI Office	6997
@@ -849,6 +862,7 @@ European Union Agency for Cybersecurity	5677
 European Union Ambassador Karsten Mecklenburg	6013
 European Union Artificial Intelligence Act	6231,1103
 European Union Commission	7678,208
+European Union Cyber Security Agency	10764
 European Union Data Protection Directive	8436
 European Union Delegation	970,3132,137
 European Union EN L	1807,6048
@@ -989,6 +1003,7 @@ Google Amazon Leo Eutelsat OneWeb Icasa	6898
 Governance and Accountability Project European Commission	1460
 Gov’t Engages On Harnessing By Eulalia	8505
 Green Transition European Commission	846
+Group A. The Europe and Central Asia	10785
 HL7 HNSF Enterprise User Authentication European	1009
 HOL EU	5225
 Heads of Cooperation Group. The EU Delegation	789
@@ -1000,6 +1015,7 @@ Horizon Europe Moonshot Projects	9816
 Horizonte Europa	1265
 Huduma Namba. The European Union	9600
 Human-Centred Digitalisation. EUR	1164
+Huíla Cuanza-Sul EUGÊNIO CARVALHO MASSOCO	10751
 IA Européennes	3465
 ICPC Public EU	2677
 ID for All The European Union	6650
@@ -1047,6 +1063,7 @@ Lourino Chemane and Eugénio Alberto Macumbe	4214
 M EU	854
 M EUR	643,146
 M Eurobond	4461
+MAUEZA EURIDCE AMADO GARCIA MAURÍCIO GANDO	10750
 MDG. EUR	709
 Makanjira Road European Union	7041
 Mali's EU	9552
@@ -1087,6 +1104,7 @@ Northern Ethiopia European Commission	1066
 Northern European	2910
 O Regulamento Europeu de Inteligência Artificial	2816
 OECD and EU Standards	9204
+Office for Europe Place des Nations CH-1211 Geneva	10764
 Old Europa	5744
 Old Oyo Empire. European Journal of Management	1248
 Olimatou Coker The European Union	9838
@@ -1149,6 +1167,7 @@ Seed Financing European Commission	348
 Senegal. EU-funded	641
 Shaping Europe	1243
 Sierra Leone European Commission	471
+Social Framework EU European Union FAS-IDL	10768
 Somadina Eugene Okorie	7003
 South Africa and Europe	2773
 South-East Asia-Middle East-Western Europe	4676
@@ -1175,6 +1194,7 @@ Team Europe Initiatives The Team Europe	789
 Tech News How the EU AI Act	8348
 Technology and Innovation' and EUR	1465
 Tecnologia EUA	2816
+Through EU	10768
 Thursday. The European Commission	8347
 Tracking EU	9067
 Trans Europe Asia System	1741
@@ -1209,12 +1229,14 @@ United States and China. EU	10710
 United States and Europe	5124,128,1899
 United States and Europe. Operators	1036
 United States of America and Europe. Ngamita	2549
-União Europeia	2816,137,566,11,1181,227,358,722,512,41,2189,1560
+União Europeia	2816,137,566,11,1181,227,358,722,512,41,2189,1560,430,23
 União Europeia O Regulamento	2816
 União Europeia Partilhar Tweetar Partilhar Email	3530
 União Europeia Sim Avançado Sim Fonte	2816
 União Europeia UEM	2816
+União Europeia. Edição Nº	10750
 União Europeia. Na	8536
+União Europeia. Workshop	10750
 Unión Europea	1701
 Unlike the EU GDPR	4951
 Unlike the European	9494

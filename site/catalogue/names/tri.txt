@@ -1,9 +1,11 @@
 A. Public Clinical Trial Unit	7845
 A19 Trinidad and National Identification Card	10714
+AGT A Administração Geral Tributária	10787
+AUTONOMIA ADMINISTRATIVA E FINANCEIRA DOS TRIBUNAIS	10752
 Absence Forces Delay In Kidnapping Trial	7312
 Accounting Department of Jumhuriya Bank Tripoli	4630
 Administración Tributaria	4209
-Administração Geral Tributária	4203,1647,674,1,1527
+Administração Geral Tributária	4203,1647,674,1,1527,2734
 Alcatraz and Tristao Islands Marine Protected Areas	1264
 Anambra Digital Tribe	10160
 Appeals Tribunal	7755
@@ -27,6 +29,7 @@ Chairman and CEO of Trident Digital Tech Holdings	9977
 Chief Executive Officer of Trident	2698
 Clinical Trials	8831
 Clinical Trials Act	7845
+Clinical Trials. Proposals	10776
 Co-operative Tribunal	7845
 Commentaires Trier	5022
 Companies Tribunal	3714
@@ -37,6 +40,7 @@ Competition Tribunal. EP.06	4730
 Competition and Consumer Protection Tribunal	6055,3762
 Complexity H1 Compability Skills Trialability H2	9129
 Conducteurs des Motos Taxis Tricycles Assimilés du Cameroun	718
+Conselho da Administração Geral Tributária	10786
 Conselho de Administração da Administração Geral Tributária	6309
 Construct SYSQ COMPL COMP TRIAL SEC	9129
 Constâncio Trigo	1583
@@ -53,8 +57,10 @@ DRC and Singapore's Trident	2389
 DRC and Trident	2385
 DRC and Trident Digital Tech Holdings Ltd	2385
 Data Sources and Triangulation	7966
+Delays of Tribunal de Contas	10768
 Democratic Republic of Congo. Trident Digital Tech	6753
 Digital Preservation Triad	9888
+Diploma Ficha de Programação Financeira Trimestral ANEXO	10783
 Directive Helped Trigger the Financial Crisis	10
 Déclaration Trimestrielle Si	6954
 Décryptage Editorial Tribune	9620
@@ -98,21 +104,24 @@ INGRESOS NO TRIBUTARIOS	4209
 INGRESOS PETROLEROS NO TRIBUTARIOS	4209
 INGRESOS PETROLEROS TRIBUTARIOS	4209
 IP Tribunal. The AI Bill	8490
-IV Trimestre	5012
+IV Trimestre	5012,5760
 Identificação Tributária	2438
 Incident Triage Investigating	775
 Independent Tribunal	2307
 India India’s Tripoli Chargé	4849
 India and Italy Launch Trilateral Sovereign AI	5095
+Indicative Triggers	10779
+Indigenous and Tribal Peoples Convention	10765,10
 Ingresos Tributarios	4209
 Intellectual Property Tribunal. Instead	10041
 Intendente Eridson Trindade	5819
+Jamaica Panama Paraguay Peru Trinidad and Tobago	10764
 Job Descriptions What Nigeria Has Tried	10015
 Justicia Fiscal Tribunal Constitucional Magistrado Corte	4209
 Justicia Fiscal Tribunal Constitucional Ministro de Estado	4209
 LASR's Tripoli	9091
 La Tribune du Faso	2074
-Legal Operational Policies Triggered	1867
+Legal Operational Policies Triggered	1867,8901
 Lesotho Tribune	6490,143
 Libya Municipality of Tripoli Centre	5948
 Libya's Tripoli	9479
@@ -132,6 +141,7 @@ Mapas Contas 1º Trim 2026 Site.xlsx	6191
 Mapas Contas 4º Trim 2025 Site.xlsx	5012
 Mapas da Conta Provisória I Trimestre	4411,2,1
 Mapas da Conta Provisória IV Trimestre	2081,2,1
+Marcelo Trindade Pitta	10764
 Mayor of Central Tripoli	3826
 Media Council of Kenya and Copyright Tribunal	8570
 Member States. The Consumer Tribunal	5676
@@ -147,6 +157,7 @@ Nguyen Trieu	4611
 Nigerian Tribune	2318
 Nigerian Tribune Provided	7179
 Note Trial Note Trial Implementation	1009
+Os Tribunais	10752
 P E TRI	1837
 PDG de Trident	2602
 PPDA Appeals Tribunal	3700
@@ -166,6 +177,7 @@ Public Clinical Trial Unit Any	7845
 Public Interest Clinical Trial	7845
 Publique-se. Tribunal Supremo	6462
 Referral Triggers	3861
+Relatórios Trimestrais	10772
 República Fiscal Tribunal Constitucional Magistrado Corte	4209
 Review Triggers and Adaptive Flexibility	3861
 Review Triggers and Adaptive Flexibility The NDGC	3861
@@ -177,11 +189,13 @@ SECRETARIO TRIBUNAL CONSTITUCIONAL	4209
 SUMÁRIO Tribunal Supremo	6462
 SUNSET CLAUSES AND REVIEW TRIGGERS	3861
 Secretario Fiscalía Tribunal Constitucional	4209
+Senegal Sierra Leone Trinidad and Tobago Tunisia	10764
 Servicios Tributarios	4209
 Seven Trillion	3862
 Singapore's Trident	3367,3280
 Singapore-based Trident Digital Tech	2244
 Singapore-based Trident Digital Tech Holdings	2244,4337,66
+Sistema Integrado de Gestão Tributária Base da Dados	10762
 Sistema Tributario	4209
 Smart Triage AI	10531
 South Sudan Tri-Ocean	3583
@@ -241,6 +255,7 @@ Triangle	2888,32,354,504,1444,877,6,100,680,129,293,115
 Triangular Cooperation for Digitial Innovation Made	1423
 Triangulating	1018
 Triangulation	3791,3157,330,688,1162
+Triangulo	10751
 Tribal	3761
 Tribal Heads	8820
 Tribal Land Act	3761
@@ -249,9 +264,18 @@ Tribe	7565
 Tribeless Youth	8095
 Tribeless Youth. Partners	8095
 Tribuanl	3714
-Tribunais	14,1,5409
+Tribunais	14,1,5409,5328
 Tribunais Judiciais	6462
-Tribunal	11,528,2580,541,40,14,2748,442,17,422,502,132,344,33,1687,348
+Tribunais da Jurisdição Comum. MINISTÉRIO DA JUSTIÇA	10752
+Tribunais da Justiça	10752
+Tribunais da Província	10753
+Tribunais de Actualmente	10752
+Tribunais de Comarca	10752
+Tribunais de Relação	10752
+Tribunais. Desses	10751
+Tribunais. Foi	10752
+Tribunais. Quando	10752
+Tribunal	11,528,2580,541,40,14,2748,442,17,422,502,132,344,33,1687,348,362,1
 Tribunal Administrativo	2866
 Tribunal Administrativo. CAPÍTULO VI Fiscalização	2866
 Tribunal Constitucional	1701,2508,4327,640
@@ -260,10 +284,12 @@ Tribunal Constitucional Ministro de Estado Ministro Vocal	4209
 Tribunal Constitucional Servicio	4209
 Tribunal Constitucional Tribunal de Cuentas	4209
 Tribunal General	11
-Tribunal Supremo	6462
+Tribunal Supremo	6462,4288
+Tribunal Supremo da República Popular da China	10752
 Tribunal and Courts	3714
+Tribunal de Comarca	10751
 Tribunal de Commerce de Cotonou	5478
-Tribunal de Contas	13,1,153,3500,1345,1179
+Tribunal de Contas	13,1,153,3500,1345,1179,4577
 Tribunal de Contas. CAPÍTULO V PESSOAL	167
 Tribunal de Contas. Every	1339
 Tribunal de Cuentas	1701,2508
@@ -274,6 +300,7 @@ Tribunal's Suspension Orders	3700
 Tribunal. Communications	11
 Tribunal. Power	3714
 Tribunales	1701
+Tribunals	10775
 Tribunals Service Reform Programme	8978
 Tribunaux	3381
 Tribune	2436,1116,1177,950,2388
@@ -334,11 +361,11 @@ Trimestres	7655
 Trimestrielle	6954
 Trimmed	8186
 Trinidad	5042,1571,4101
-Trinidad and Tobago	6613,447,1389
+Trinidad and Tobago	6613,447,1389,2315,21
 Trinity Audio	9111,882
 Trinity College Dublin’s AI Accountability Lab	10727
 Trinité-et-Tobago	6613,511
-Trinta	4820
+Trinta	4820,5940
 Triodos EUR	390
 Triodos Investment Management	1057
 Tripartite Committee	7452

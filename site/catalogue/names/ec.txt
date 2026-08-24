@@ -2,6 +2,7 @@ A. Economic and Financial Analysis	2889
 A. Technical and Economic Analysis	1264
 A2 Jefe Económico Admón.. B2 Tercer	4209
 ADDITIONAL MATERIAL INFORMATION Econet InfraCo	4896
+AFR EAP ECA LCR MNA NAM	10785
 AFRICAN TRANSITION TO DIGITAL ECONOMY	1243
 AFRISTAT and ECOWAS Commission	7
 AGENDA Digital Superhighway and Creative Economy Space	1131
@@ -33,7 +34,15 @@ Accountability Within Digital Ecosystems Challenge	6936
 Acknowledgement The NRO EC	8047
 Activates National RDC-PASS Digital Identity Ecosystem	6753
 Actividade Economica	574
-Actividades Económicas	1701
+Actividade Económica	10757
+Actividade Económica Actividades	10757
+Actividade Económica CAE Rev2 Total Empresa	10757
+Actividade Económica Lunda Sul Malanje Província	10757
+Actividade Económica Total Actividade Económica Actividades	10757
+Actividade Económica Total Escalão	10757
+Actividade Económica Total Situação	10757
+Actividade Suspensa Encerrada Total Actividade Económica	10757
+Actividades Económicas	1701,9056
 Addressing ECZ	9986
 Adhesión de Guinea Ecuatorial	4209
 Administración Pública de Guinea Ecuatorial	2585,6939
@@ -66,7 +75,7 @@ African Economic Research Consortium	374
 African Fin- Tech Ecosystem	961
 African Guarantee and Economic Cooperation Fund	6764
 African School of Economics and Université	7886
-African Tech Ecosystem	8898
+African Tech Ecosystem	8898,1893
 African Tech Ecosystem Report	8898
 African Union BETA Bottom-Up Economic Transformation	7548
 African Union and ECOWAS	5244
@@ -94,6 +103,7 @@ All Economic Activities Taxes	2775
 AlphaBeta Economics for Google Cloud	1363
 Amazon EC2	1729
 Amazon ECS	1729
+Ambriz Caculama Ecunha Mucaba Gambos Nancova	10765
 American Economic Review	1161,103
 Analyse Stratégique Economique	6578
 Analysis ERR Economic Rate of Return ESCP	1867
@@ -101,6 +111,7 @@ Analysis of Issues Shaping Africa’s Economic	4972
 Anambra Digital Economy By Chinwe Onuigbo	10160
 Android App Economy	1363
 Angel Lane London EC4R	6593
+Angola Country Economic Memorandum	10768
 Angola-France Economic Forum	2242,63
 Angolan Startup Ecosystem	2573
 Annual Economic Survey	2775
@@ -302,6 +313,7 @@ Clase Económica. Escala	4209
 Clase Económica. REPUBLICA DE GUINEA ECUATORIAL	4209
 Class ECNS	1900
 Class ECS	1900
+Classificador Económico da Despesa	10783
 Climate and Ecological Crisis	7038
 Cloud Infrastructure Ecosystem Report	1697
 Cogent Economics	6938
@@ -373,6 +385,7 @@ Creating Opportunities Across Ghana’s Digital Ecosystem	8988
 Creative Economy. The Treasury	7831
 Crescimento Económico	2816
 Critical Economic Infrastructure	6711
+Croatia Czech Republic Ecuador Georgia Hungary	10764
 Cultivating Open Government Data Platform Ecosystems	226
 Cyberattacks Digital Economy Digital	9963
 Cybersecurity Ecosystem and Cross-Sector CCB-CECC.S1	10721
@@ -401,6 +414,7 @@ DIGITAL ECONOMY KENYA ARTIFICIAL INTELLIGENCE	7548
 DIGITAL HEALTH ECO-SYSTEM Dashboard Use	2477
 DOMESTIC ECONOMY Chapter	2775
 DPG Ecosystem Africa	7921
+DPT ECDI2030 EFD FAO FCR	10777
 DRAFTING SIGNIFICANT ECONOMIC PRESENCE LEGISLATION DRAFTING	3161
 DRC's Minister of Digital Economy	3734,2166
 Data Center Ecosystem and Digital Sovereignty	2918
@@ -436,7 +450,7 @@ Description Economic	1761,1383,3772
 Description USAID Digital Economy and Market Development	404
 Description USAID Digital Ecosystem Country Assessment	1166
 Description USAID Kenya Digital Health Ecosystem	725
-Desenvolvimento Económico	2816
+Desenvolvimento Económico	2816,7972
 Desenvolvimento Económico Local	2816
 Desenvolvimento Económico ONU	2816
 Desenvolvimento da Economia Digital	10325
@@ -666,6 +680,7 @@ ECA and COMESA	1704
 ECA and GIZ	10720
 ECA and Mozambique	8754
 ECA and RES4Africa Foundation	941
+ECA for CRVS	10775
 ECA's Mactar Seck. Pillars	1714
 ECA-310-E	9123
 ECA. Reference	1031
@@ -677,12 +692,13 @@ ECAN COMMUNITY BASED ORGANISATION Data Controller	7167
 ECART SERVICES KENYA LIMITED Data Controller	7167
 ECART SERVICES KENYA LIMITED Data Processor	7167
 ECB ADVERTISEMENT ADVERTISEMENT Top	9832
-ECCAS	26,1,1,933,58,224,356,215,847,833,135,5987
+ECCAS	26,1,1,933,58,224,356,215,847,833,135,5987,1143
 ECCAS Treaty	1599
 ECCAS's Annex-VII	1599
 ECCE.1	4840
 ECCMIS	8470
 ECCouncil	2308
+ECDI2030	10777
 ECDPM	4689
 ECE Brussels	8530
 ECHANtILLON	7655
@@ -737,6 +753,7 @@ ECONOM. JURIDICOS CENTRALES TOTAL GENERAL ESTADO	4209
 ECONOMIC ANALYSIS	1818
 ECONOMIC AND FINANCIAL MEASURES	7845
 ECONOMIC COMMUNITY OF WEST	1177,87
+ECONOMIC OPPORTUNITY SCORE	10759
 ECONOMIC PLANNING AND ICT Data Controller	7167
 ECONOMIC PRESENCE LEGISLATION	3161
 ECONOMIC PRESENCE Section	3161
@@ -750,6 +767,7 @@ ECONOMIQUE ET FINANCIER PEF POUR	2342
 ECONOMY	1243,5189
 ECONOMY Data	1161
 ECONOMY Digitalisation	1243
+ECONOMY Rural Land	10759
 ECORENET BUSINESS SOLUTIONS LTD Data Controller	7167
 ECORENET BUSINESS SOLUTIONS LTD Data Processor	7167
 ECOS. REGIONAL TRADUCCIONES MALABO BATA PRIMERO	4209
@@ -759,7 +777,7 @@ ECOSPACE SERVICES LIMITED Data Processor INST-7903735665B	7167
 ECOSYSTEMS Challenge	6936
 ECOTOURISM KENYA Data Controller INST-406008FDDB8 NAIROBI	7167
 ECOWAN	238
-ECOWAS	7,19,1,1,524,193,44,18,154,58,142,16,2,64,21,13,54,25,279,20,122,37,95,408,45,48,371,13,9,36,165,85,3,34,301,44,133,20,54,43,38,64,30,6,66,177,47,219,26,121,67,1,118,37,89,17,4,80,217,65,34,107,11,1,32,5,179,1,96,5,101,180,29,12,60,289,51,19,49,109,14,105,239,379,135,424,45,44,107,450,10,264,321,77,144,131,83,84,36,259,16,126,84,1,104,98,148,1,17,46,72
+ECOWAS	7,19,1,1,524,193,44,18,154,58,142,16,2,64,21,13,54,25,279,20,122,37,95,408,45,48,371,13,9,36,165,85,3,34,301,44,133,20,54,43,38,64,30,6,66,177,47,219,26,121,67,1,118,37,89,17,4,80,217,65,34,107,11,1,32,5,179,1,96,5,101,180,29,12,60,289,51,19,49,109,14,105,239,379,135,424,45,44,107,450,10,264,321,77,144,131,83,84,36,259,16,126,84,1,104,98,148,1,17,46,72,149
 ECOWAS ADVANCES HARMONISATION OF THE REGIONAL	10509
 ECOWAS ADVANCES REGIONAL CYBERSECURITY COOPERATION THROUGH	9470
 ECOWAS AUTHORITY OF HEADS	4114,3338
@@ -916,6 +934,7 @@ EJERCICIO ECONOMICO	4209
 EJERCICIO ECONOMICO DEL AÑO	4209
 EJERCIO ECONOMICO	4209
 ENI-ABT Ecole Nationale	12
+ERR Economic Rate of Return ESF Environmental	10768
 ESCP. ECOWAS. Section I.B.1 of Schedule	1264
 ESCWA Minister of Economy	3826
 ESG and Sustainability Considerations Econet InfraCo	4896
@@ -1134,7 +1153,7 @@ Econet’s Strive Masiyiwa	6266
 Econn2n0a2is4s	4459
 Econometric	7886
 Econometrica	7886
-Economia	167,247,863,62,2,740,3,1108,1219,3,524,725,697,492,118,696,719,389,1309,266
+Economia	167,247,863,62,2,740,3,1108,1219,3,524,725,697,492,118,696,719,389,1309,266,409
 Economia ANGOTIC	6585
 Economia Acto	4250
 Economia Aplicativo PayPay	5309
@@ -1150,16 +1169,18 @@ Economia Director Geral	6069,541
 Economia Director Nacional	7245
 Economia Em	1265
 Economia Governador	6360
+Economia Inteligência	10787
 Economia Logomarca	4820
 Economia Ministro	4248,1157
 Economia Ministro de Estado	7166
 Economia O Ministro	8827
 EconomiaPT	3192
-Economic	395,1,4,18,300,252,174,120,99,191,180,27,227,390,140,149,108,183,47,139,393,17,29,1,198,75,4,37,319,213,129,117,425,191,241,418,149,6,290,138,59,97,118,108,22,10,389,241,18,42,57,164,106,318,263,158,305,58,61,341,83,64,44,101,195,201,31,372,132
+Economic	395,1,4,18,300,252,174,120,99,191,180,27,227,390,140,149,108,183,47,139,393,17,29,1,198,75,4,37,319,213,129,117,425,191,241,418,149,6,290,138,59,97,118,108,22,10,389,241,18,42,57,164,106,318,263,158,305,58,61,341,83,64,44,101,195,201,31,372,132,71,2,10,18
 Economic Activities	2775
 Economic Activities Mining	1988
 Economic Advancement	7990
 Economic Affairs and Agriculture	7452
+Economic Analysis	10768
 Economic Analysis Technical	1264
 Economic Analysis and Policy	5349
 Economic Analysis of National Government Expenditure	2775
@@ -1170,15 +1191,16 @@ Economic Cluster	3583
 Economic Cluster Ministerial Council	6792
 Economic Co-operation and Development GDPR General Data	6936
 Economic Co-operation and Development RAIO Responsible AI	1204
+Economic Commission	10775
 Economic Commission for Africa	941,4848,4927
 Economic Commission for Africa.12 Constraints	10718
 Economic Community	1599
 Economic Community Of West African States	27
 Economic Community RIA Research ICT Africa	1814
 Economic Community SEP Stakeholder Engagement Plan	6539
-Economic Community of Central African States	26,1,1,2633,201,3471
+Economic Community of Central African States	26,1,1,2633,201,3471,4426
 Economic Community of Central African States European	9616
-Economic Community of West African States	7,19,1,1,933,282,21,513,1017,9,36,632,133,20,135,824,118,444,218,32,5,179,1,382,101,289,586,134,380,144,936,662,275,163,4,36,259,16,315,247,17
+Economic Community of West African States	7,19,1,1,933,282,21,513,1017,9,36,632,133,20,135,824,118,444,218,32,5,179,1,382,101,289,586,134,380,144,936,662,275,163,4,36,259,16,315,247,17,267
 Economic Community of West African States EMIS	5244
 Economic Community of West African States Published	7
 Economic Community of West African States. Guinea	8082
@@ -1208,6 +1230,7 @@ Economic Development's Report	106
 Economic Dimension	5676
 Economic Diplomacy Action Group	6790
 Economic Diplomacy and Investment Attraction	4528
+Economic Diversification	10759
 Economic Diversification Initiative	2508
 Economic Efficiency	4430
 Economic Empowerment	1824,951
@@ -1215,6 +1238,7 @@ Economic Empowerment BMA Border Management Authority	5533
 Economic Empowerment of Persons	4133
 Economic Entities Platform	8770
 Economic Execution	7909
+Economic Forum WHO World Health Organization	10759
 Economic Forum for Sustainable Development	1353
 Economic Freedom Fighters	8398
 Economic Freedom Party Data Controller INST-694526EFE36	7167
@@ -1241,6 +1265,7 @@ Economic Item and Funding	1512,1,695
 Economic Margins	226
 Economic Modelling Building	1363
 Economic Opportunities and Legal Challenges. Police Paper	2816
+Economic Opportunity	10759
 Economic Outlook	2775,4171
 Economic Outlook Kenya	2775
 Economic Partnership Agreement	789,1039,4726
@@ -1290,13 +1315,15 @@ Economic Transformation PFM	789
 Economic Transformation Pillar of NST1	1903
 Economic Transformation and Diversification	3861
 Economic Transformation and Jobs	1867
+Economic Transformation for Growth	10768
 Economic Unions	6938
 Economic Update	1284
 Economic and Commercial Office	3950
 Economic and Cultural Issues	1988
 Economic and Demographic Studies	4035
+Economic and Financial	10779
 Economic and Financial Affairs	4071
-Economic and Financial Analysis	969,259,639,1737,2935
+Economic and Financial Analysis	969,259,639,1737,2935,4229
 Economic and Financial Crimes Commission	3870,2341,1983,1860,506
 Economic and Financial Data	4265
 Economic and Financial Management. Tailored	3583
@@ -1308,6 +1335,7 @@ Economic and Monetary Union of Central Africa	2775
 Economic and Organised Crime Office	587,3104,5057,148
 Economic and Organised Crime Office Act	587
 Economic and Political Studies	4676
+Economic and Social Affairs UNESCO United Nations	10759
 Economic and Social Commission for Western Asia TRA	5951
 Economic and Social Recovery Plan. Critics	4063
 Economic and Social Research and Training Centre for Islamic	6203
@@ -1352,7 +1380,9 @@ Economie Numérique. Article	1231
 Economie Numérique. Je	7470
 Economie Rurale INR Instituts Nationaux de Recherche	12
 Economie du Plan	4273
-Economies	2775,6677,1262
+Economies	2775,6677,1262,71
+Economies D C B	10785
+Economies Economies	10785
 Economies PAGE	2775
 Economies With Limited Access	9331
 Economies of Africa	4325
@@ -1391,6 +1421,7 @@ Economy Policy and Strategy	4126
 Economy Portal Google-backed	9321
 Economy Principal Secretary John Tanui	9334
 Economy Reading Time	5774
+Economy Support Rural Representation	10759
 Economy Taiwo Oyedele	6376
 Economy William Kabogo Gitau	7481
 Economy World Bank Poised	8478
@@ -1409,7 +1440,7 @@ Economía Digital	975,3234,5718
 Economía Nacional	4209
 Economías	1701
 Econsult	4932
-Económica	1855
+Económica	1855,8903
 Económica Especial	1701
 Económica Poder Judicial	4209
 Económico	2816,1393
@@ -1418,7 +1449,7 @@ Ecos de WN	4209
 Ecossistema	3519
 Ecossistema de Código Aberto	3519
 Ecossistemas Globais de IA Para Moçambique	2816
-Ecosystem	2277,33,1067,1,171,577,402,320,276,427,474,568,344,611,2054,408,711
+Ecosystem	2277,33,1067,1,171,577,402,320,276,427,474,568,344,611,2054,408,711,72
 Ecosystem Access	4848
 Ecosystem Approach	5366
 Ecosystem Can the AT50 Index	7284,98
@@ -1452,7 +1483,9 @@ Ecowas and Non-Ecowas	4778
 Ecrire	1801
 Ecrivez-nous	3658,2617,145,3959,2,310
 Ecsel Expo	3775
-Ecuador	5042,5672
+Ectopic	10780
+Ecuador	5042,5672,71
+Ecuador Global Cybersecurity Index	10764
 Ecuador SCHULDT	6613
 Ecuador System	10714
 Ecuatoguineana	4209
@@ -1486,6 +1519,7 @@ Engagement CEMAC Central African Economic and Monetary	969
 Engineer Econet Park	4896
 Enterprise Value for Econet InfraCo of US	4896
 Entrepreneurial Ecosystem	940
+Environment and Development Economics	10763
 Environment and Ecological Transition	3431
 Environmental Economic Accounts	2775
 Equatorial Guinea Digital Economy Country	1752
@@ -1532,6 +1566,9 @@ Extend Its Super-App Ecosystem	5397
 FBS Indicators Economic Survey	2775
 FINANZAS ECONOMIA Y PLANIFICACION CONTABILIDAD FINANCIERA	4209
 FINTECH ECOSYSTEM PERSPECTIVES	4848
+FOUNDATIONS FOR ECONOMIC OPPORTUNITY FOUNDATIONS	10759
+FOUNDATIONS FOR ECONOMIC OPPORTUNITY PUBLIC ADMINISTRATION	10759
+FOUNDATIONS FOR ECONOMIC OPPORTUNITY Public Administration	10759
 Faculty of Economic	9237
 Faculty of Economic and Objectives	9237
 Fairer Gig Economy	226
@@ -1557,6 +1594,8 @@ Five-Year Plan and ECOWAS's Vision	6003
 Forest Products OECD Organisation for Economic Co-operation	970
 Former Minister of Economy and Planning	8126
 Foundational Infrastructure and Data Ecosystems Objective	4528
+Foundations for Economic Opportunity	10759
+Foundations for Economic Opportunity and Human Development	10759
 Foundations of Economic Analysis	5700
 Fourth Industrial Revolution. World Economic	6832
 Fragmented Ecosystem Participation. Analysis	4528
@@ -1691,11 +1730,13 @@ ICT and Digital Economy John Kipchumba Tanui	9851
 ICT and Digital Economy Principal Secretary John	6717
 ICT and Digitalization Adopts the ECOWAS Digital Sector	1909
 IDA ECOWAS	1264
+IDENTITY ECOSYSTEM IN ANGOLA	10775
 IDs. ECOWAS	1635
 IGAD. Echoing	3238
 IGNITE Digital Economy Incubator and Accelerator Programme	9198
 II- ECONOMIC AND SOCIAL PERFORMANCE	7452
 III CEN. Agenda Guinea Ecuatorial	1701
+III. IDENTITY ECOSYSTEM IN ANGOLA	10765
 IMF ECF	1592,6103
 IMF World Economic Outlook Update Publication	2775
 IMF- ECF	1828
@@ -1711,6 +1752,8 @@ ITU EC ACP	26,1,1,516
 ITU. Djibouti's Ministry of Digital Economy and Innovation	2435
 IV. APPRAISAL SUMMARY A. Technical and Economic	1284
 Identidade Económica	8003
+Identity Ecosystem	10765
+Identity Ecosystem. Box	10775
 Imlementation of Economic	165
 Implications for Kenya’s Evolving AI Ecosystem	10246
 Implied Valuation for Econet Based	4896
@@ -1718,6 +1761,7 @@ Improvement Project Economic Development Cooperation Fund	850
 Improving the Digital Innovation Ecosystem	845
 Inclusive Data Economy	1161
 Inclusive Digital Economy. Centurion	6832
+Inclusive Economic Diversification	10768
 Inclusive Payments Ecosystem	2857,1
 Inclusive Payments Ecosystem The COMESA	9516
 Inclusive and Diverse AI Start-up and Enterprise Ecosystem	1814
@@ -1851,6 +1895,7 @@ La Agencia Nacional de Desarrollo de Guinea Ecuatorial	1701,6002
 La Agenda Guinea Ecuatorial	1701
 La Sociedad de Electricidad de Guinea Ecuatorial	6298
 La Special Economic Zone de Côte-d'Or	6757
+Labour Environment Infrastructure Rural Economy Health	10759
 Lagos The Economic Community of West African	4738
 Latecomer Economies and National Digital Policy	226
 Launches the Political Economy of Digital Governance Report	5715
@@ -1878,6 +1923,7 @@ Limited and Econet Insurance	4896
 Liquid ECG Infraco	1126
 Liquid ECG Infraco Broadband Loan	1126
 Listing of Econet InfraCo	4896
+Lived Poverty Public Perception of Economic Opportunities	10759
 Local Data Centres and Cloud Ecosystems	4993
 Local Economic Development	789
 Local Economic Growth	970
@@ -1982,7 +2028,7 @@ Ministry of Economics and Finance	6938
 Ministry of Economy	2330,268,1228,401,57,13,323,644,4,519,1257,398,260
 Ministry of Economy and Finance	312,916,600,502,1884,551,1679,1140
 Ministry of Economy and Finance. Civil	1982
-Ministry of Economy and Planning	1688,1
+Ministry of Economy and Planning	1688,1,9074,5
 Ministry of Economy and Trade	5264,2178,1364,673
 Ministry of Economy of Mozambique	7044
 Ministry of Finance and Economic Affairs	1277,3266,819
@@ -2000,7 +2046,7 @@ Ministry of Nigeria Communications and Digital Economy	3456
 Ministry of Planning and Economic Development	8189,1777
 Ministry of Telecommunications and Digital Economy	1865,5198,2901
 Ministério Da Economia Digital	1339,742,2330
-Ministério da Economia	2138,335,1656,6196,24
+Ministério da Economia	2138,335,1656,6196,24,405,4
 Ministério da Economia Digital	1256,83,92,1,659,55,1,1411,109,796,1,1727
 Mme. Echata Abdillah	5370
 MoFED Ministry of Finance and Economic Development MoHCC	970
@@ -2205,6 +2251,7 @@ Principal Secretary for ICT and Digital Economy John	9849,888
 Private Sector and Economic Deals Beyond	6790
 Product GEG Green Economic Growth GGCR	970
 Production of Economic Survey	2775
+Programa de Reconversão da Economia Informal	10758
 Programme Economique	2808
 Programme Management for Digital Society and Economy	5182
 Project ECHO	10188
@@ -2220,6 +2267,9 @@ Proyecto de Empadronamiento Municipal de Guinea Ecuatorial	4209
 Proyecto de Gas Natural Licuado de Guinea Ecuatorial	1701
 Proyectos de Diversificación Económica	4209
 Public Financial and Economic Management Stärkung	825
+Public Perception of Economic Opportunities	10759
+Public Perception of Economic Opportunities Infrastructure	10759
+Public Perception of Infrastructure Rural Economy	10759
 Public Security and Digital Economy	1591
 Q3. Econet	6011
 Qhala Digital Economy County Centers of Excellence	6948
@@ -2232,6 +2282,9 @@ REPUBLICA DE GUINEA ECUATORIAL MES	163
 REPUBLICA DE GUINEA ECUATORIAL Presidencia	4209
 RISE OF THE DATA ECONOMY	961
 RPCC. ECOWAS. Section I.A.3	1264
+RURAL ECONOMY	10759
+RURAL ECONOMY Rank	10759
+RURAL ECONOMY Rural Land	10759
 Real Economy	6387
 Red de Transporte de Guinea Ecuatorial	1701
 Refugee Committee ECHO EU Directorate-General for European	6947
@@ -2275,6 +2328,8 @@ RiSE OF THE DATA ECONOMY	961
 Rights and Economy	10300
 Robust AI Community Ecosystem PILLAR	4126
 Robust AI Ecosystem	4126
+Rural Economy	10759
+Rural Economy Support	10759
 Ruwa Econet Zimbabwe Group Pen- Building	4896
 Rwanda Economy Digitalisation	3815
 Rwanda and Burundi Economic Survey	2775
@@ -2292,6 +2347,7 @@ SECTION B Domestic Economy PAGE	2775
 SECTORS Services Administration Resources Circular Economy	4126
 SEIAS Social Economic Impact Assessment System	5533
 SEZ Special Economic Zone FBB Fixed	3184,1,1340
+SEZ Special Economic Zone SSA Sub-Saharan	10781
 SHAREHOLDERS CIRCULAR TO ECONET WIRELESS ZIMBABWE	4896
 SHAREHOLDERS FORM OF PROXY ECONET WIRELESS	4896
 SIGNIFICANT ECONOMIC PRESENCE LEGISLATION	3161
@@ -2308,6 +2364,7 @@ STIMULATING THE DIGITAL Vision ECON	1885
 STRUCTURE OF ECONET INFRACO Econet InfraCo	4896
 SUGGESTED APPROACH TO DRAFTING SIGNIFICANT ECONOMIC	3161
 SYDONIA. Economic	3674
+Safety Women's Equality Rural Economy	10759
 Sapo Economia ADI	4938
 Sapo Economia Eleições	4938
 Sapo Economia Espanha	4938
@@ -2337,8 +2394,9 @@ Senior Country Economist	4840
 Senior Economic Advisor	3237,2
 Senior Economic Advisor. Follows the April EO	3237
 Senior Economic Assistant	3895
-Senior Economist	2989,3949
+Senior Economist	2989,3949,3825
 Senior Economiste	7655
+Senior Social Protection and Economic Inclusion Consultant	10763
 Services DTT Digital Terrestrial Television ECG	4126
 Serviços Ecológicos. O Projecto	1192
 Shanghai and London. Echoes	8629
@@ -2405,6 +2463,7 @@ StartupBlink's Global Startup Ecosystem Index	3377
 State Department for Economic Planning	6133
 State Department for ICT and Digital Economy	3845,22,1669,2846,952
 State Department of ICT and Digital Economy	3878,2847,344,411,1089,223,1607,268
+State of Economic Inclusion Report	10768
 Stockholm School of Economics	8315
 Strengthen Its Digital Economy	3970
 Strengthen Regulatory Ecosystem	4803
@@ -2424,6 +2483,7 @@ Support for AU ECOWAS and SAA	1264
 Support for AU and ECOWAS	1264
 Sustainable Digital Economy	8592
 Swiss State Secretariat for Economic Affairs	6175
+T2 Advancing Canada Ecuador Mexico Uruguay	10764
 TRENDS IN IDENTIFICATION FOR DEVELOPMENT Economy	10714
 Tags Econet Zimbabwe NetOne Telecel POTRAZ	6011
 Tanzania Digital Economy Strategic Framework	1388,1469
@@ -2438,6 +2498,7 @@ Tatenda A. Ngowe Econet InfraCo	4896
 Tatu City's Special Economic Zone	9016
 Teatro Nacional de Guinea Ecuatorial	4209
 Tech Ecosystem Development	3487
+Technical Assistance Project for Economic Growth	10774
 Technology and Innovation and Economic Diversification	5276
 TelOne and Econet’s AI Data Centre	8483
 Telecommunications and Digital Economy	3080,148,85,221,229,14,253,585,183,1083,206
@@ -2481,6 +2542,7 @@ U.S.-China Economic and Security Review Commission	5242
 UEMOA Union Economique	12
 UK-Singapore Digital Economy Partnership	1243
 UN Department of Economic and Social Affairs	1912
+UN ECA	10765,10
 UN ECA's Deputy Executive Secretary and Chief	8472
 UN Economic Commission	562
 UN Economic Commission for Africa	289,150,522,395,2612,212,1122,948,359,58,191,79,60,175
@@ -2498,7 +2560,7 @@ Unified Economic Number	7442
 Unified Economic Number Project Foreign	3826,1438
 Union Economique	737,3722,4828,55,1369
 Unit Economics	9198
-United Nations Department of Economic and Social Affairs	2510,8084,120
+United Nations Department of Economic and Social Affairs	2510,8084,120,51,10
 United Nations Economic	1554
 United Nations Economic Commission for Africa	26,1,1,930,596,260,1244,1299,1235,291,726,278,642,898,327,408,32,1154,67,305
 United Nations Economic Commission for Africa Conference	8472
@@ -2526,6 +2588,7 @@ WB Digital Economy Country Diagnostic for Equatorial	1752
 WB Digital Economy Diagnostic	1809
 WBG Digital Economy for Africa	3984
 WardheerNews Economy	5975
+Watch OEC Observatory for Economic Complexity PTS	10759
 West Africa Economic Summit	3427,941
 West Africa Economic and Monetary Union	5395,5
 West Africa. The Economic Community of West	5351
@@ -2564,6 +2627,7 @@ World Economic Forum’s Network Readiness Index	236
 World Economic Forum’s Technology Pioneers	4972
 World Economic Outlook	2775,4171
 World Economy	10718
+World Institute for Development Economics Research UPU	10759
 Yet the UN Economic Commission for Africa	10015
 ZSE. Econet InfraCo	4896
 Zambia and Zimbabwe. West African Economic and Monetary	2775

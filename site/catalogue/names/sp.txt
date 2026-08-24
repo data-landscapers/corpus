@@ -1,5 +1,6 @@
 A- Spouse A- Basic	582
 A. Specific	7845
+A. Specifically	10768
 ACHPR Administrative and Technical Special Mechanisms	8485
 ACHPR Special Rapporteur Remy Ngoy Lumbu	8713
 ACT SUPPLEMENT To The Special Gazette	6921
@@ -93,6 +94,7 @@ Angola SPTR	6938
 Angola's National Space Program Management Office	6797
 Angola's National Space Programme Management Office	6618
 Angolan Space Agency	5421
+Angola’s SP	10768
 Annual General Members' Meeting and Special General	8866
 Annual General Members' Meetings and Special General	8866
 Anti-IFFs Policy Tracker. Specifically	9162
@@ -101,6 +103,7 @@ Application for Special	736
 Apply and View Special Votes	7266
 Article Google Scholar Sprengel D	9739
 Artificial Intelligence Sphere	5104
+Assembly Political Pluralism Civil Society Space	10759
 Asylum Seekers and Special Permit	4667
 Auditor-General’s Special Audit Report	5536
 Augusta Spinelli	5607
@@ -190,6 +193,7 @@ City of Kigali Spokesperson	4941
 Civic Space Monitor	9022
 Civil Society And Specialist Groups	5677
 Civil Society And Specialist Groups. Cybersecurity	5677
+Civil Society Space	10759
 Close SpaceX	6467
 Closing Civic Space	1250
 Cocoa Sector Reforms Mr. Speaker	7695
@@ -269,7 +273,7 @@ Development Objective Project Implementing Entity Special	1228
 Development of Space-related Collaboration	1131
 Devoluciones IVA Sportado	4209
 Digital Affairs and Special Advisor	3436
-Digital Development Specialist	2989
+Digital Development Specialist	2989,7776,10
 Digital Economy Specialist	3678
 Digital Government Lead Specialist	6539
 Digital Health Specialist	3005
@@ -358,9 +362,11 @@ Fair Spectrum Pricing	5245
 Farmer Service Centres Mr. Speaker	7695
 Fiber Infracos The Data Center Specialists	4525
 Finance and National Planning. Hon. Speaker	10313
+Financial Inclusion Specialist	10774
 Financial Management Specialist	1867,1122
 Financial Management Specialist and Project Accountant	1867
 Financial Sector Performance Mr. Speaker	7695
+Financial Sector Specialist	10763,2,10
 Fiscal Performance Mr. Speaker	7695
 Flood Response and Mitigation Measures Mr. Speaker	7695
 Fonds Spécial	10087
@@ -458,6 +464,7 @@ Hon. Temporary Speaker. The Deputy Leader	10313
 Hon. Temporary Speaker. The Temporary Speaker	10313
 Honourable Speaker	6152
 Honourable Speaker Honourable Members My	3264
+Hospitalization Rates and Hospital Capacity Specijalnosti	10780
 House. Hon. Speaker	10313
 Hovy and Spruit	7790
 Hubert Maurice Social Specialist	1284
@@ -470,6 +477,7 @@ ICT Policy Specialist	3678
 ICT SPECIFICATIONS STANDARDS	2779
 ICT Specialist	1228
 ICT Specifications Standards	2779
+ID. Specific CR	10775
 IDEMOC National Infrastructure for Spatial Data INAGE	4214
 IMPROVING EFFICIENCY IN SPECTRUM USE	5245
 IMT Spectrum	5245
@@ -550,6 +558,7 @@ Land and Space Zimbabwe’s Maminda Combines AI	6678
 Laptop Computer Specifications DATE QUANTITY	34
 Latitude Longitude Altitude Associated Space Station	736
 Lead Financial Advisor Sponsoring Brokers	4896
+Lead Social Protection Specialist	10763
 Leah Katung-Babatunde Special Assistant	7847
 Les SPFP	2342
 Liberia. Space Segment	10407
@@ -640,6 +649,7 @@ Moon Business SpaceX	9816
 Motion. Hon. Speaker	10313
 Motion. The Temporary Speaker	10313
 Motor Spirit	6921
+Moyane SP	10780
 Mr. Speaker	7695
 Mr. Speaker Sir	1191
 Mr. Speaker... Madam Speaker. Sorry	10313
@@ -647,6 +657,7 @@ Muse Spark	9659
 Musk's SpaceX	9608,208
 N Operator Access Speed	3862
 NASA Space Apps Challenge	2096
+NASA’s Moderate Resolution Imaging Spectroradiometer	10763
 NASRDA and Galaxy Space	3063
 NCCD Specific Objectives	1000
 NCSC Specific Objectives	1000
@@ -699,6 +710,7 @@ Nkok Special Economic Zone	3418
 No. SpecFee	736
 Norleo Space Investments	10162,37,1
 Norleo Space Investments and Grant Gordon	10162
+Norway Portugal Serbia Slovenia Spain Sweden	10764
 Notice. SpaceX	6891
 Novaspace's Space Economy Report	6467
 Number of Government Sponsored Students Placed	2775
@@ -786,6 +798,8 @@ Promotions and Special Offers	6671
 Provision for Spectrum Management and Mon- CA	6946
 Przestrze Spoleczna	9616
 Public Health Specialist	10374
+Public Perception of Freedom of Speech	10759
+Public Perception of Freedom of Speech Inclusion	10759
 Public Procurement Specialized Oversight Authority Inclusive	7548
 Public Spending	5517
 Publican AI Trade Solution Mr. Speaker	7695
@@ -796,6 +810,7 @@ REPORTING IF OTHER SPECIFY	2709
 REQUESTS FOR STATEMENTS Hon. Speaker	10313
 RESOLVED AS A SPECIAL RESOLUTION	4896
 RF Spectrum	5245
+RGPH SEN SFP SIGE SPE TBA	10766
 Racks Regular Duties and Responsibilities Required Spare	9123
 Radio Communications and Frequency Spectrum	6946
 Radio Frequency Spectrum	762,2346,2764,1034
@@ -857,22 +872,29 @@ SEAH SPMU	1988
 SECRÉTAIRE D'ETAT CHARGÉ DES SPORTS Projet	4402
 SECTORAL DATA GOVERNANCE BODIES AND SPECIALIZATION	3861
 SEZ Special Economic Zone FBB Fixed	3184,1,1340
+SEZ Special Economic Zone SSA Sub-Saharan	10781
 SFN Service Financier Numérique SPAME Service	4459
 SIM Cards. In Space	718
 SITE SPONSOR	2284,13,4,72,21,3,65,10,86,28,4,19,190,10,16,25,134,79,190,7,70,41,46,34,30,76,30,47,9,16,38,19,16,322,19,14,524,10,7,509,12,171,64,5,22,3,94,10,19,294,222,108,23,41,281,60,26,6,125,80,6,193,189,9,1,69,2,1,107,3
 SITE SPONSOR Sponsored	10734,9
+SMEB SPCB SPSTT UNDMT UNDP UNFP	10763
 SMEs Small and Medium Enterprises SPMU Satellite	1867
 SODE SPFP	2342
 SODE SPFP Majoritaire SPFP	2342
 SP Echo Ghana Limited	3386,4639
+SP Miller1	10793
+SP Social Protection SSA Sub-Saharan Africa	10768
 SP&author	2096
 SP&publication	2096
 SP-CNDD Objectif	643
 SP-ISN	5515
 SP-IVTEN	5826
+SP. The MIS	10768
 SP.25	3350
 SP.POP. TOTL	4127
+SP.POP.0014.TO.ZS	10765,10
 SP.URB.TOTL	747
+SP.URB.TOTL.IN.ZS	10763
 SPAAT	8471
 SPACE APPLICATIONS TOWARDS ACHIEVEMENT OF BETA	1131
 SPACE APPLICATIONS TOWARDS ACHIEVEMENT OF SDGS	1131
@@ -885,6 +907,7 @@ SPAR6C Zambia Team Lead	9393
 SPARK	9270
 SPDs. Within	9123
 SPE AIF	510
+SPE GRH GTIC INADE INE INEE	10766
 SPECIAL	2023
 SPECIAL CONSIDERATIONS FOR STATE PARTIES17	1243
 SPECIAL ECONOMIC ZONES ACT	6921
@@ -928,6 +951,7 @@ SPGCs	427
 SPIDER	93,122,729
 SPIDER Phase-out Support	944
 SPIM. Artigo	5169
+SPINE	10757
 SPIRIT- AI	8301
 SPIRIT-AI	8301
 SPIRIT-AI and CONSORT-AI Working Group	8301
@@ -981,12 +1005,14 @@ Secure Your Spot	10731
 Security. Within Special Programmes	6422
 Senate The Honourable Speaker	10210
 Senegal SP1	641
-Senior Digital Development Specialist	2989,605
+Senior Digital Development Specialist	2989,605,7171,10
 Senior Digital Specialist Alma Nurshaikhova Senior	3456
 Senior Education Specialist	2989
 Senior Environment Specialist	2989
-Senior Financial Sector Specialist	3238
+Senior Financial Sector Specialist	3238,7525
+Senior Land Administration Specialist	10763
 Senior Procurement Specialist	1284,1705
+Senior Social Protection Specialist	10763,2,10
 Senior Special Assistant	2318,6506,576
 Senior Special Assistants	1014
 Senior Special Development Specialist	2592
@@ -1015,6 +1041,7 @@ Social Justice News Reporter Special Investigative	7936
 Social Logic of Space	5700
 Social Media Post Sparks Diplomatic Exchange	4942
 Social Media Sport Sports Startup Streaming	9993
+Social Protection Specialist	10763
 Social Recovery and Human Development Specific Objective	970
 Social Safeguards Specialist	1228
 Social Specialist	1284,704
@@ -1098,11 +1125,13 @@ Spacecoin	4604
 Spaceflight Now	1648
 Spaces for Change	2549
 Spacesail	7051
+Spacetel Benin SA Term	10793
 Spacetel Bénin	6234
 Spackman	8606
-Spain	789,181,243,880,533,211,260,260,425,90,849,251,364,23,31,307,196,409,240,4,67,175,4,8,312,33,60,138,510,270,2,222,513,102,58,192,15,325,56,208,332,145,42,43,336
+Spain	789,181,243,880,533,211,260,260,425,90,849,251,364,23,31,307,196,409,240,4,67,175,4,8,312,33,60,138,510,270,2,222,513,102,58,192,15,325,56,208,332,145,42,43,336,50,21
 Spain Disclaimer	5390
 Spain N	10714
+Spain Sweden Tanzania Thailand Türkiye United	10764
 Spain and Italy	8811
 Spain and Sweden	8346
 Spain and Switzerland	789
@@ -1174,7 +1203,7 @@ SpecFee	736
 SpecUmt X X X X X	736
 SpecUnit	736
 SpecUnit Spectrum User	736
-Special	11,14,711,204,21,282,18,293,202,1,1,1,1,1,1,1,1,1,13,36,888,73,86,190,79,10,1,1,1,1,1,1,1,1,106,185,422,379,288,288,583,31,72,62,19,849,330,3,147,1,1,1,1,1,1,1,1,28,95,83,140,282,242,942,391,583,21,128,302,156,416
+Special	11,14,711,204,21,282,18,293,202,1,1,1,1,1,1,1,1,1,13,36,888,73,86,190,79,10,1,1,1,1,1,1,1,1,106,185,422,379,288,288,583,31,72,62,19,849,330,3,147,1,1,1,1,1,1,1,1,28,95,83,140,282,242,942,391,583,21,128,302,156,416,47
 Special Adviser	3101,3386,384,8,972,1122,471,785
 Special Advisers	1014
 Special Advisor	6250
@@ -1247,6 +1276,7 @@ Special Purpose Vehicles	1264,7082
 Special Rapporteur	1237,4849,2627
 Special Reconstruction Fund	3583
 Special Report	3066,517,2425
+Special Representative	10776
 Special Research Initiative	4126
 Special Resolution	585,3129,5152
 Special Resolutions	585
@@ -1260,6 +1290,7 @@ Special Youth Emergency Plan	9616
 Special-purpose entity	8346
 Specialconsiderationshallbegivenwhenachildisfoundguilty	972
 Speciale	8022
+Specialisations	10771
 Specialised	961,48,1517,2002,4075,1585
 Specialised Technical Committee	6997,790,1375
 Specialised Technical Group	3038
@@ -1267,7 +1298,7 @@ Specialist	21,1263,704,1616,1762,1266,51,315,3190
 Specialist Ensure	1988
 Specialist Head	2989
 Specialist Increase	1988
-Specialists	1988,2287,1390
+Specialists	1988,2287,1390,5098
 Specialists Increased	1988
 Specialists Use	1988
 Specialits	1988
@@ -1285,8 +1316,9 @@ Specialized Technical	4103
 Specialized Technical Committee	4103,3692
 Specialized Technical Committees	1814
 Specially Permitted Procurement Procedure	2512,3
+Specialties Broj	10780
 Specie	4896,642
-Specific	640,149,173,8,30,68,93,82,21,194,320,89,121,756,860,257,440,812,173,247,1353,61,504,308,1639,790,163,376
+Specific	640,149,173,8,30,68,93,82,21,194,320,89,121,756,860,257,440,812,173,247,1353,61,504,308,1639,790,163,376,37
 Specific Aspects of Refugee Problems	5533
 Specific Challenges	5677
 Specific Evaluation	1778
@@ -1302,19 +1334,21 @@ Specific Procurement Notice	7951
 Specific Procurement Notices	1867
 Specific Security Controls	6432
 Specific Tasks	3678
-Specifically	629,160,172,200,67,15,5,16,554,10,39,121,108,21,647,11,214,467,31,117,23,24,27,352,22,162,3,84,131,177,67,56,134,398,290,101,153,347,28,28,301,27,93,304,11,285,46,193,224,174,507,230,171,140,105,107,220,818
+Specifically	629,160,172,200,67,15,5,16,554,10,39,121,108,21,647,11,214,467,31,117,23,24,27,352,22,162,3,84,131,177,67,56,134,398,290,101,153,347,28,28,301,27,93,304,11,285,46,193,224,174,507,230,171,140,105,107,220,818,596,2,10,1,4,5
 Specifically Article	5321
 Specifically the PDO	1867
-Specification	1009,7803,311,1598
+Specification	1009,7803,311,1598,54
 Specification Version	1009
 Specification of Types of Portable Identity Card Readers	1263
 Specification-asymmetry-and-digital-inclusion-how Abstract	8812
 Specifications	1009
 Specificity	1161,8996
 Specifics	5679
+Specified	10765,10
 Specify	582,154,1041,100,63,2032,1693
 Specify State Party	1243
 Specifying	1243
+Specijalnosti	10780
 Specimen	3974,2560
 Specimen Sharing	4049,198,55,6411
 Specimen Sharing Agreement	3974,75,198,54,1,1050,5361
@@ -1400,7 +1434,7 @@ Speedtest Intelligence	6659
 Spelling	3226,1101,940
 Spencer	6832
 Spend	9781
-Spending	1763,1820,2239,240,284,86,3550,739
+Spending	1763,1820,2239,240,284,86,3550,739,42
 Spending Tier	10721
 Spennemann	9739
 Spennemann D	9739
@@ -1498,14 +1532,15 @@ Spread.pdf	7548
 SpreadsheetBench	7396
 Spreadsheets	8380
 Sprengel	9739
-Spring	226,10,5154,965,132,695
+Spring	226,10,5154,965,132,695,3586
 Springer	1828,5450,608,244,541,197,1,122,137,1,108
 Springer Fachmedien Wiesbaden	8130
 Springer International Publishing	2518,2158,3346,108,474
-Springer Nature	766,5,490,2530,3487,744,649
-Springer Nature SharedIt	9739
+Springer Nature	766,5,490,2530,3487,744,649,2113
+Springer Nature SharedIt	9739,1045
 Springer Nature Singapore	6948
 Springer Nature Switzerland	2096,422
+Springer Nature Switzerland AG	10780
 Springer Open	1243
 Springer Singapore	8022
 Springer. Ses	8721
@@ -1543,6 +1578,7 @@ Structural Concerns Specific	9123
 Supply Chain Management Division SDR Special	1264
 Support Essential Spending Demand	8482
 Support Specialists Technology Education	6832
+System Management Specialist	10765,10
 Systèmes SPECIFIQUES	10712
 T Procurement Specialists Data	6832
 T SECTORS Specific Objectives	1000
@@ -1599,10 +1635,13 @@ U.S. Special Operations	5141
 UN Secretary General’s Special Advocate for Inclusive	1486
 UN Secretary-General’s Special Representative and Head	10409
 UN Special Rapporteur	7946,1136
+UN Special Representative	10776
+UNAIDS Spectrum	10776
 UNDP AI Sprint	7060
 UNDP Digital Specialist	1953
 UNDP LESP Communications Specialist	8860,352
 UNDP's AI Sprint	9873
+UNICEF Angola's Education Specialist	10748
 UNICEF Child Protection Specialist	10704
 US Special Ops	5141
 Ugandans Spend	10245
@@ -1633,6 +1672,7 @@ World Bank SPRING	4278
 World Bank Senior Social Development Specialist	1901
 World Bank Spring Meetings	5843
 World Bank's Senior Digital Specialist for Western	6277
+World Bank-financed SP	10768
 World Bank-funded SPRING	4278
 World Bank. The Procurement Specialist	1284
 World Bank’s SPDs	1867

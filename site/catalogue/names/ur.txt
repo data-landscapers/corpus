@@ -15,10 +15,12 @@ Burkina Faso Ensemble Urbain Rural	737
 CADE URL	4634
 CENTAL Urges Government	10405
 CIPESA Urges Rights-Centred Approach	6132
+COVID-19 Urban Cash Intervention	10763
 CRA URL	9939
 Calls For Urgent Safety Measures	10274
 Cameroon Urges North West Councils	7336
 Canonical URL	3981,1944
+Característica Urbana Agregados	10777
 Chad Urges Speed	2533
 Claude Urbain PLAGBETO	2354,905,3629
 Comissária da UE Jutta Urpilainen	9434
@@ -74,6 +76,7 @@ Housing and Urban Development	1391,387,210,604,454,2201,923,997,1790,1356
 ID Tech Wire URL	3814
 INTERIOR LOCALES LIBRE MUNICIPALES URBANOS SERVICIOS	4209
 ITU URL	7199
+Idade Urbana Masculino Feminino Total Rural	10777
 Impilo EMR. PROVISIONAL URL	6666
 Industry Calls for Urgent Harmonisation	10360
 Integrated Urban Land Management System	4064
@@ -86,6 +89,7 @@ Kampala. URA Commissioner General John R	4348
 Kassait Urges Industry Leaders	2668
 Kenya Urban Roads Authority	9647
 Kyambogo Vice Chancellor Warns UPDF Urges	6077
+LEX.AO URL	10755
 LSO-digital.localgov-municipal. Both URLs	2674
 Libya Urges Swift Transition	5904
 Limpeza Urbana	9403
@@ -152,8 +156,10 @@ Rehabilitation of Urban Roads	3583
 Representing URSB	6121
 Reserve Bank of Zimbabwe Urban Women Financial	940
 Residuos Sólidos Urbanos	4209
+Residência Urbana	10757
 Rest of Urban Areas	2775
 Rural District Councils. Urban SLB	970
+Rural Total Urbana População Rural	10777
 Rural Urbain National	737
 Rural Urbain Salle	737
 Rural Urban	1013
@@ -172,6 +178,7 @@ Sistema de Gestao de Residuos Solidos Urbanos	574
 Solo Urbano	2437,6966
 SpaceX Urges South Africa's ICASA	10589
 Sustainable Urban Development Programme	332
+T2 Advancing Canada Ecuador Mexico Uruguay	10764
 TINs. URA	3955
 TREND URBAN	2342
 TREND URBAN. PERFORMANCES FINANCIÈRES EN	2342
@@ -200,6 +207,7 @@ URGENCY TO BE TAKEN NOTE	2709
 URL Article	5079
 URL BRAZZAVILLE	1876
 URL IS EVER FOUND	4848
+URL MTN's SENS	10793
 URL. Candidate	6659
 URL. Digital-relevant	2667
 URL. Frontmatter	7233
@@ -230,12 +238,18 @@ Urbain Rural Ensemble Sexe du CM Masculin	737
 Urbain Rural National	737
 Urbain Rural Total Cadre	737
 Urbaine	419,2977
-Urban	183,53,11,92,2,17,60,164,64,72,53,18,169,55,206,408,317,152,395,4,2,128,797,490,218,1870,51,722,18,145,168,152,292,321,17,1513
+Urban	183,53,11,92,2,17,60,164,64,72,53,18,169,55,206,408,317,152,395,4,2,128,797,490,218,1870,51,722,18,145,168,152,292,321,17,1513,1364
 Urban AI	2518
 Urban Activity	6051
+Urban Africa. Washington	10768
 Urban Agenda Training	5771,84,268,178,427
 Urban And Rural Management	4482
-Urban Areas	2775
+Urban Angola	10763
+Urban Angola Figure	10763
+Urban Angola Key	10763
+Urban Angola Table	10763
+Urban Areas	2775,7988
+Urban Areas Figure	10763
 Urban Authorities	6921
 Urban Behavior Identified	4130
 Urban Bottleneck	6876
@@ -259,10 +273,16 @@ Urban Nature-Based Solutions	5247
 Urban Planning	789,5016
 Urban Planning and Environmental Science	718
 Urban Population	9485
+Urban Poverty Reduction Programme	10763
 Urban Premium LTE	4130
 Urban Roads Director-General	8896
-Urban Rural	236,1708
+Urban Rural	236,1708,8819,12
 Urban Rural Male Female Usage	582
+Urban Rural Poor Food	10763
+Urban Rural Poor Vulnerable Other Poor	10763
+Urban Rural Registered	10765
+Urban Rural Salary	10763
+Urban Rural Urban Rural Employed Unemployed	10763
 Urban Security Monitoring System Project	183
 Urban Security Monitoring System Project. China	183
 Urban Security and Monitoring System	619
@@ -274,10 +294,16 @@ Urban and Regional Host Communities Project	1988
 Urban and Regional Planning Act	1988
 Urban and Rural District	970
 Urban-rural	4528
-Urbana	4209
+Urbana	4209,6548,3,17
+Urbana Rural	10760,17
+Urbana Rural Gráfico	10757
+Urbana Rural Página	10760
+Urbana Rural Total Bens	10777
+Urbana Rural Total Chefe	10777
+Urbana Rural Total Entrevistas	10777
 Urbana-Champaign	4734
 Urbanisation	2079,2330,2386,2096,1569
-Urbanism	2598,2347
+Urbanism	2598,2347,5816
 Urbanism and Cadastre	4064
 Urbanisme	235,2368,442,179,157,15,742,2453,291,788,255,53,913
 Urbanisme Des	3396
@@ -287,7 +313,7 @@ Urbanismo Encargado de Carreteras	1855
 Urbanización	4209
 Urbanización de Terrenos	4209
 Urbanization and Infrastructure	718
-Urbano	1526
+Urbano	1526,9251
 Urbano de Abiara Esatop	4209
 Urbanos Infraestructura	4209
 Urbanístico	1701
@@ -311,10 +337,12 @@ Urman	4253
 Uroniisosna.nAceu	4459
 Urso MoU	3353
 Ursula	2379,2471,3923
-Uruguay	1243,5908,60,1856,1647
+Urteaga	10763
+Uruguay	1243,5908,60,1856,1647,50,21
 Uruguay BARRETTO GHIONE	6613
 Uruguay FOSTIK BRITO	6613
 Uruguay Jun	10714
+Uruguay Uzbekistan Zambia Tier	10764
 Urugwiro Village	6526
 Ururembo	718
 Urwego	1214
@@ -329,8 +357,10 @@ Vidéosurveillance Urbaine	4356
 Western Area Urban District	8903
 World Bank Document URL	2889
 World Bank URL	2291,1271
+World Bank Urbanization Review	10763
 World Bank Urges ECA	3773
 World Urban Forum	10025
 World Urbanization Prospect	4325
 Y URB	4209
+Zambezi Rivers. Urban	10768
 Zanzibar Urban West	6728

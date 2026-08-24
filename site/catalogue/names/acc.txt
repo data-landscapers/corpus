@@ -35,6 +35,7 @@ ACCESS.2019.2927491	8606
 ACCESS.2022.3232485. Farahani	6948
 ACCESS.2023.3254500 Murigi	9129
 ACCESS.2023.3267737 Crossref Citations	8130
+ACCESSIBILITY	10765
 ACCESSIBLE	3604
 ACCESSIBLE TO CITIZENS. Even	7362
 ACCET	8850
@@ -44,7 +45,7 @@ ACCOLADE HOLDINGS LIMITED Data Processor INST-543458A51F0	7167
 ACCOMPAGNEMENT DU PROCESSUS DE MISE EN	613
 ACCOMPLISHED FACT	2352
 ACCORD MANAGED CARE LTD Data Controller	7167
-ACCOUNTABILITY	6936,231
+ACCOUNTABILITY	6936,231,3592
 ACCOUNTABILITY AND TRANSPARENCY PART	3714
 ACCOUNTABILITY United Nations System Organizations	1243
 ACCOUNTING AND DISCLOSURE	3714
@@ -124,6 +125,7 @@ Accelerate Digital and Financial Inclusion	3891
 Accelerate E-Government Reforms	4626
 Accelerate E-Government Reforms Nigeria	4626
 Accelerate Fintech Innovation Jordan Kuwait Bank	5322
+Accelerate Home	10793
 Accelerate Its Development	2760
 Accelerate MSME Growth	7436
 Accelerate Malawi	3108
@@ -153,8 +155,10 @@ Accelerating Digital Inclusion Nationwide The Republic	3777
 Accelerating Digitalization	2026
 Accelerating Digitalization Global Challenge Program	3604,1049
 Accelerating Digitalization Global Challenge Program. Page	4653
+Accelerating Digitization	10768
 Accelerating FinTech Growth	6653
 Accelerating Gender Equality To End Poverty	1867
+Accelerating Home Under	10793
 Accelerating Industrial Intelligence	2825
 Accelerating Progress	5246
 Accelerating Responsible AI Adoption	1204
@@ -194,7 +198,7 @@ Acceptance and Use of Technology	9129
 Acceptation	4459
 Acceptation Avis	10708
 Acceptation des Paiements Offre	10711
-Accepted	2518,5241,51,211,1,108,246,226,2,1,1,522,109,112,304,86
+Accepted	2518,5241,51,211,1,108,246,226,2,1,1,522,109,112,304,86,1041,4
 Accepted.pdf Deloitte	961
 Accepter	3577,4340,1133
 Acceptez	6954
@@ -206,7 +210,7 @@ Acceptée DECLA-0006	998
 Acceptée DECLA-0012	998
 Accesibilidad	1701
 Acceso	1701,2508
-Access	11,10,5,1,7,288,96,126,27,16,6,125,51,14,6,10,100,41,18,3,8,31,9,42,93,17,43,15,24,14,7,69,79,62,123,89,51,77,4,10,39,82,39,11,111,70,99,28,83,278,41,66,114,27,86,3,8,43,284,20,18,13,54,14,16,38,59,11,21,68,42,7,2,35,103,61,8,17,22,14,58,12,74,39,93,165,184,45,47,52,96,5,1,50,69,35,31,2,40,35,26,83,19,1,2,74,35,114,81,23,43,13,46,1,2,21,103,69,180,335,36,54,21,36,149,110,39,2,112,54,26,125,29,45,109,68,69,22,4,24,27,54,122,37,2,69,54,68,12,9,13,19,11,4,3,57,44,4,162,55,26,3,22,38,110,54,3,2,23,394,9,41,40,8,3,5,18,104,11,136,2,47,32,68,1,173,16,23,162,38,113,37,48,13,1,45,29,35,4,29,258,30,16,92,5,7,5,3,2
+Access	11,10,5,1,7,288,96,126,27,16,6,125,51,14,6,10,100,41,18,3,8,31,9,42,93,17,43,15,24,14,7,69,79,62,123,89,51,77,4,10,39,82,39,11,111,70,99,28,83,278,41,66,114,27,86,3,8,43,284,20,18,13,54,14,16,38,59,11,21,68,42,7,2,35,103,61,8,17,22,14,58,12,74,39,93,165,184,45,47,52,96,5,1,50,69,35,31,2,40,35,26,83,19,1,2,74,35,114,81,23,43,13,46,1,2,21,103,69,180,335,36,54,21,36,149,110,39,2,112,54,26,125,29,45,109,68,69,22,4,24,27,54,122,37,2,69,54,68,12,9,13,19,11,4,3,57,44,4,162,55,26,3,22,38,110,54,3,2,23,394,9,41,40,8,3,5,18,104,11,136,2,47,32,68,1,173,16,23,162,38,113,37,48,13,1,45,29,35,4,29,258,30,16,92,5,7,5,3,2,28,4,2,10
 Access API	10721
 Access Advertised Speed	3862
 Access Africans’ Data Raise Privacy	10446
@@ -245,6 +249,7 @@ Access Government Services	6831
 Access Health Data	10446
 Access Holdings	7907,810
 Access Holdings Deepens Sustainable Finance Impact	9117
+Access Individuals	10775
 Access Information	3861
 Access Information Act	5898
 Access Information Act. The Ministry	10674
@@ -294,13 +299,15 @@ Access the Legis1	10351
 Access the Virtual Results Operations Centre	7266
 Access-point	5928
 AccessTrade	3779
-Accessed	697,261,303,1257,1608,550,566,4,454,1247,1429,84,143,2,794,340,979
+Accessed	697,261,303,1257,1608,550,566,4,454,1247,1429,84,143,2,794,340,979,57
 Accesses	9739
 Accessibility	958,3,200,96,1518,1753,718,419,14,532,537,200,600,1451,204,226
 Accessibility Advocacy	4126
 Accessibility Display	9429
 Accessibility and Standards	7548
+Accessibility and Universality	10775
 Accessibility of Digital Services	5676
+Accessibility of Public Records	10759
 Accessibilité	1187,5030,4491
 Accessibilité du Système	5135
 Accessible	940,637,735,671,2263,481,871,87,203,50,51,235,324,189,291,102,303,791,44,348,123,326,36,87
@@ -316,6 +323,7 @@ Accident and Emergency Centre	8813
 Accidental Asbestos Friable Release	1988
 Accidental and Internal Breaches	6727
 Accidents	9890
+Accidents and Fatalities	10776
 Accion	948
 Accion A Nigerian	7560
 Accion Digital Transformation Fund	943,5
@@ -356,7 +364,7 @@ Accord de SAMOA	3045
 Accord-Cadre	2808
 Accord-cadre	2808
 Accorder	7917,974
-Accordingly	236,482,436,65,24,695,951,24,45,93,7,249,276,21,187,423,518,164,217,420,23,297,279,566,209,31,8,1,37,384,96,84,242,37,191,18,51,2,191,160,142,284,119,160,531,52,150,279,31,557
+Accordingly	236,482,436,65,24,695,951,24,45,93,7,249,276,21,187,423,518,164,217,420,23,297,279,566,209,31,8,1,37,384,96,84,242,37,191,18,51,2,191,160,142,284,119,160,531,52,150,279,31,557,48
 Accords	2465,2896,1536
 Account	940,280,64,544,39,1716,638,1466,1590,1846,43
 Account Aggregator	3391,4590
@@ -373,7 +381,7 @@ Account VAT Value Added Tax TABLE	1284
 Account-to-Account and Wallet-to-Wallet	8708
 Account-to-Wallet	8708
 Account-to-account	8432
-Accountability	27,762,183,259,102,297,466,268,185,227,182,903,667,235,462,19,105,107,29,48,41,91,249,140,333,55,350,2,38,104,119,167,326,418,317,346,94,24,1404,6,227,39,198
+Accountability	27,762,183,259,102,297,466,268,185,227,182,903,667,235,462,19,105,107,29,48,41,91,249,140,333,55,350,2,38,104,119,167,326,418,317,346,94,24,1404,6,227,39,198,138,6,10
 Accountability Accountability	4563
 Accountability Configuration	8283
 Accountability Configuration. Stage	8283
@@ -381,7 +389,7 @@ Accountability Consumers	5678
 Accountability Guidelines	5244
 Accountability Integrating	899
 Accountability Lab Nigeria	2364,4406,2646
-Accountability Mechanism	1264,20,583,1022,715,2935
+Accountability Mechanism	1264,20,583,1022,715,2935,4229
 Accountability Mechanisms	7313
 Accountability Mechanisms Accountability	7313
 Accountability Must Be Explicit	7548
@@ -406,7 +414,7 @@ Accountants Transaction Date	4896
 Accountants and Auditors Act	3714
 Accountants’ and Auditors’ Act	3714
 Accountants’ and Auditors’ Regulatory Authority of Namibia	3714
-Accounting	22,1806,39,1737,110,1182,2044,1081,649,53,514,255,843
+Accounting	22,1806,39,1737,110,1182,2044,1081,649,53,514,255,843,433
 Accounting Authority	7622
 Accounting Department of Jumhuriya Bank Tripoli	4630
 Accounting Estimates and Errors	3051
@@ -418,8 +426,10 @@ Accounting Officers	10313
 Accounting Officers and CEOs	9983
 Accounting Officers and Chief Executive Officers	8981
 Accounting Policies	3051
+Accounting Practices Committee	10793
+Accounting Practices Committee and Financial Pronouncements	10793
 Accounting Risk	3604
-Accounting Standards	7204
+Accounting Standards	7204,3589
 Accounting Standards IRR Internal Rate of Return	1264
 Accounting System CBS Case-based Surveillance NHISSA	396
 Accounting Treatment	7198
@@ -520,10 +530,11 @@ Accueil Ministère	3675
 AccueilEn	1876
 Accueilli	8633
 Accumulation	7845,2867
-Accuracy	1554,76,1145,1086,1815,538,2392,1249
+Accuracy	1554,76,1145,1086,1815,538,2392,1249,910
 Accuracy Matters	10015
+Accuracy Personal	10775
 Accuracy and Reliability	5244
-Accurate	1131,4965,783,1726,342,704,537,421
+Accurate	1131,4965,783,1726,342,704,537,421,152
 Accurate Valuers Limited Data Processor INST-5706553B01B	7167
 Accurately	5533,4083
 Accused	8639
@@ -572,7 +583,7 @@ Aminah Zawedde. Public Accounts Committee	5343
 Amélioration Accélérée	9637
 Analysis My Account Sign Out Stay	9629
 Angola Digital Acceleration Program	3966
-Angola Digital Acceleration Project	1039,728,147,798,3867
+Angola Digital Acceleration Project	1039,728,147,798,3867,4189
 Angola Digital Acceleration Project World Bank	1770
 Annual Production Accounts	2775
 Appendix B User Acceptance MINISTRY	34
@@ -590,6 +601,7 @@ Assainissement du Accroître	10712
 Assurance Body Accelerated	7548
 Attribute Based Access Control	6423
 Audit and Accounting	1020
+Auditing. Accordingly	10793
 Authority Accreditation and Certification	587
 Authority. Accounts	587
 Authority. PART II UNIVERSAL ACCESS	22
@@ -623,7 +635,7 @@ Bachelor of Accounting Science	4896
 Balancing Access and Safety	4253
 Bank Accounts	940,1336
 Bank Mozambique Digital Acceleration Project	1228
-Bank’s Accountability Mechanism	1284,583,4672
+Bank’s Accountability Mechanism	1284,583,4672,4229
 Barriers To Account Ownership Saving	1828
 Benin Accelerates Digital Transformation	3790
 Benin Expands Higher Education Access Through	7062
@@ -683,6 +695,7 @@ COMPUTER AND INTERNET ACCESS AND USAGE	582
 CONSULTATION PAPER ON ZERO-RATED ACCESS	6748
 CONVENTIONS ET ACCORDS INTERNATIONAUX	4658
 COVERED DATA SYSTEM ACCESS L. Purpose	3972
+CRITICAL ACCOUNTING JUDGEMENTS AND ESTIMATES	10793
 CULTIVING NEW Validé Acceptée FRONTIER	998
 CYBERSECCyUbeRrsIeTcuYritAy ACcTt	587
 Cabinet. Accountability	7548
@@ -731,6 +744,7 @@ Commission Digital Malawi Acceleration Project	3678
 Communication and Account-	6938
 Communications Authority Expands Digital Access	7394
 Competition Demand Side Access	1161
+Competition Regulations Access	10759
 Complex Emergencies. Shabaka Working Paper. Accessed	6947
 Compute Access	7548
 Conditional Access	10617
@@ -774,6 +788,7 @@ D.G. INCIDENTES Y ACCID. AEREOS.- Concepto	4209
 D.G.PLAN. ACCION. TERR. Concepto	4209
 D.G.PLAN. ACCION. TERR.- Concepto	4209
 DA Designated Account DE4A Digital Economy	969,5570
+DA Designated Account DFIL Disbursement and Financial	10768
 DATA ACCESS AND INTEROPERABILITY Data	961
 DEFINITIONS Accommodation Online Marketplace	3161
 DEMOCRATIC ACCOUNTABILITY	3861
@@ -817,7 +832,7 @@ Description Access Now	1156
 Description Accion Digital Transformation Fund	943
 Description The Digital Access Programme	649
 Design and Access for Large Information Spaces	5700
-Designated Account	1264,603,1022,3650
+Designated Account	1264,603,1022,3650,4229
 Designated Account A for Components	3604
 Designated Account DPI Development Committee Paper	3604
 Designated Accounts	6539
@@ -870,6 +885,7 @@ Digital and Postal Access	5198
 Digital and Postal Access and Services	5191
 DigitalGlobe. Accessed	1013
 Directorate General of Treasury and Public Accounting	2330
+Discrimination Public Procurement Procedures Access	10759
 Distributed System Accountability	8283
 Distribution and Access Project	1538
 Distribution and Access Project. Budget	1538
@@ -908,6 +924,7 @@ Economy Accra	9421
 Ecosystem Access	4848
 Editorial Team The Project for Accelerating Digital	5495
 Education EEA Environmental Economic Accounts EEC	2775
+Efficiency and Access	10768
 Eko Atlantic and Open Access Data Centres	8045
 Elaborar Planes de Acción	1701
 Electricity Sector Strengthening and Access Project	988
@@ -930,8 +947,10 @@ Ensuring Transparency and Accountability	2958
 Entrance Rooms Access	9123
 Environmental Economic Accounts	2775
 Environnement Accédez	9482
+Equal Access	10759
 Equinix and Open Access Data Centres	2320
 Equitable Access	899
+Equitable Access for Displaced Populations	10776
 Ernest Nutsugah Accra	8548
 Ethical Data Management. Accessed	5700
 Ethio Telecom Extends Digital Access	8539
@@ -976,7 +995,7 @@ Firewalls and Access Controls	10721
 First Let’s Talk About Boardroom Accountability	8629
 Fixed Broadband Networks Access	718
 Fixed Fixed Application Fixed Wireless Access	736
-Fixed Wireless Access	2528,2808,339,325
+Fixed Wireless Access	2528,2808,339,325,4793
 Fixed Wireless Access GB	6000
 Fixed Wireless Access Subscriptions	6000
 Fixed Wireless Access System	736
@@ -1008,6 +1027,7 @@ Gbps. Accra-IX	10037
 Gbps. LINX Accra	10037
 General Elections. Public Accounts Committee	5343
 General Paths of Access All	9123
+General and Simplified VAT Regimes. ACC	10792
 Generally Accepted Privacy Principles	8022
 Ghana Accelerated National Reserve Accumulation Policy	7695
 Ghana Digital Acceleration Project	3250,3027,2490
@@ -1057,6 +1077,7 @@ HIV Next-Generation Treatment Accelerating	4167
 HIViCare Digital Access Initiative	9781
 HOUSEHOLD ACCESS TO ICT PRODUCTS	582
 HQ Accra	6937
+HUMAN DEVELOPMENT HUMAN DEVELOPMENT HEALTH Access	10759
 Harambee Youth Employment Accelerator	6832
 Harare Mr Roy Chimanikire Chartered Accountant	4896
 Hasna Jiballah. Accessible	7769
@@ -1083,7 +1104,7 @@ ICT4AD ICT for Accelerated Development ISP Internet	4126
 ID Account F25 Apr	10714
 IEEE Access	6948,1182,476
 IFR. Accounting and Reporting Arrangements	3604
-IFRS Accounting Standards	7204,2707
+IFRS Accounting Standards	7204,2707,882
 IGNITE Digital Economy Incubator and Accelerator Programme	9198
 IGO Open Access	5618
 III.I Access	1597
@@ -1112,6 +1133,8 @@ Illegal Access	26
 Implementation of Zero-Rated Access	6748
 Improve Access	182
 Improve Data Accessibility	5244
+Improved Access	10776
+Improved Access To Quality Essential Health	10776
 Improving Access	10347
 Increased Access	1046
 Increased Access To Digital Skills	346
@@ -1126,6 +1149,7 @@ Inflation and Current Account Balances	2775
 Information Access	6793
 Information Security Policy for Access Security	1686
 Information and Access	3861
+Infrastructure and Access	10775
 Institute of Certified Accountants	1964
 Institute of Certified Public Accountants of Kenya	6946,3097
 Institute of Chartered Accountant of Pakistan	1824
@@ -1133,11 +1157,11 @@ Integrated Accounting Computerized Network	3604
 Interconnection Access	11
 International Accounting Standard	1154,3742
 International Accounting Standard Board	1154
-International Accounting Standards Board	1154,1897
+International Accounting Standards Board	1154,1897,7742
 International Data Access	3862
 International Journal of Digital Accounting Research	8606
 International Public Sector Accounting Standard	3051
-International Public Sector Accounting Standards	1554,1497,5953
+International Public Sector Accounting Standards	1554,1497,5953,1764
 International Public Sector Accounting Standards Board	3051
 Internet Accelerated	3185
 Internet Access	736,1603,574,4033
@@ -1156,6 +1180,7 @@ Jeffrey Accam	6936
 Journal of Accountancy	8784
 Journal of Applied Management Accounting Research	8130
 July2025 Accepted	8603
+Justice Accountability	10759
 Karanja S. Acceptability	1219
 Kay-Lyne Wolfenden The Accelerating Digital Transformation	4963
 Kenya Digital Acceleration Project	3604
@@ -1197,6 +1222,7 @@ Logistics Clean Energy Access	4972
 M Distribution and Access Project	1538
 MANGA SECURITE Validé Acceptée Welthunger Hilfe	998
 MARKET ACCESS	1243
+MATERIAL PRINCIPAL ACCOUNTING POLICIES	10793
 MDAP Mozambique Digital Acceleration Project MEF	4214
 MFA and Conditional Access	10617
 MFB Transactions Account	3604
@@ -1275,6 +1301,7 @@ National Accounts	236,919
 National Accounts16	236
 National Accreditation	4126
 National Accredited Technical Education Diploma	6832
+National Directorate of Public Accounting	10768
 National Directorate of Treasury and Public Accounting	2597
 National Electricity Digitalization and Access	3604
 National Financial Access Strategy	4115
@@ -1308,11 +1335,12 @@ Office Accommodation	5533
 Office Accra	2308
 Office of Accountant-General	2527
 Officer Accountant Taona Jakachira Chief Technical	4896
+Oil Price Differential Account	10779
 Oil Revenue Stabilization Account	3583
 Oil Revenue Stabilization Account.347	3583
 Ongoing Accreditation	6832
 Online Accounts	4439
-Open Access	3378,1760,108,1,2484,552,153,692,1,108,502
+Open Access	3378,1760,108,1,2484,552,153,692,1,108,502,1045
 Open Access Article Publishing Charges	5246
 Open Access Data Centres	892,661,292,505,222,33,432,150,321,351,70,262,834,136,39,870,510,486,263,1262,261,765,260,287,341
 Open Access Data Centres Bellville. Teraco	9617
@@ -1328,6 +1356,7 @@ Operational Account	3604
 Operational Accra	3386
 Operational Operational Account	1867
 Operator Compliance Accreditation System	10324
+Opportunity Equal Access	10759
 Optimisation des Accroître	10712
 Optimizing Spectrum for Universal Access	5245
 Order of Accountants and Auditors of Mozambique	6626
@@ -1375,6 +1404,7 @@ Plan de Acción	9302
 Platform Accountability Fellowship	10571
 Policy Recommendations for Accelerating Growth	2334
 Policy and Regulatory Changes Promote Open Access	3604
+Postal Network Secure Employment Opportunities Access	10759
 Powers of Access	2913
 Preferential Market Access for Women and Youth	7142
 Presenting Accounts	10
@@ -1416,6 +1446,8 @@ Public Finance Accounts Management Regulations	10313
 Public Finance Management and Accountability Act	3583
 Public Financial Management and Accountability Act	3583
 Public Health Emergency Account	4217
+Public Perception of Accountability	10759
+Public Perception of Accountability Anti-Corruption	10759
 Public Sector Accountant	3604
 Public Sector Accounting Standards	6946
 Public Trust and Accountability	3861
@@ -1488,10 +1520,13 @@ Role Account	9129
 Role-Based Access Control	10721
 Rooms. Accessed	6947
 Royaume-Uni. Accès	4422
+Rule of Law ACCOUNTABILITY	10759
+Rule of Law Accountability	10759
 Rule of Law and Accountability Advocacy Centre	7458
 Rural Digital Connectivity and Access	4653
 Rural Fixed Broadband Wireless Access Systems	736
 Rural Internet Access	1284
+Rural Market Access	10759
 Rwanda Digital Acceleration Project	607,111,2680,206,463,899,1580
 Rwanda's Universal Access and Service Fund	563
 Rwandan Society Tshisekedi Accepts National Dialogue	3245
@@ -1540,6 +1575,7 @@ Software-Defined Intelligent Access	3897
 South Africa. Accepted	9129
 South Africa. WIOCC's Open Access Data	892
 South African Accreditation Authority	7278
+South African Institute of Chartered Accountants	10793
 Southern African Journal of Accountability	9237
 Special Drawing Account	7845
 Special Funds Accounts Committee	10313
@@ -1622,8 +1658,10 @@ Transformation Digitale. Accélérer	10708
 Transforming Lives Through Digital Access	3783
 Transparency and Accountability	718,252,2118
 Transparent Reporting and Public Accountability	5245
+Transport Network Access	10759
 Transportation Accidental	1988
-Treasury Single Account	969,315,8175,30,1,518,85,136
+Treasury Single Account	969,315,8175,30,1,518,85,136,556
+Treasury Single Account I-6	10785
 Trinity College Dublin’s AI Accountability Lab	10727
 Trusted Source for Accurate and Timely Updates	9989
 Tsetela Account	7653,187,58,726
@@ -1645,6 +1683,8 @@ UNDP's Accelerator Lab	1871
 UNE ACCÉLÉRATION DE LA PERFORMANCE	2342
 UNIVERSAL ACCESS	718
 UNIVERSAL ACCESS INITIATIVES	6946
+UNIVERSAL COVERAGE AND ACCESSIBILITY	10775
+UNIVERSAL HEALTH COVERAGE Improved Access	10776
 URA's Accounting Officer	3700
 US.IntraTrade. Accessed	10718
 Uganda Communications Universal Service and Access Fund	3990,4557,75,108,311,740,201
@@ -1678,6 +1718,7 @@ Universal Access and Service Fund and SmartBots Programme	9562
 Universal Access and Service Fund. Botswana	9562
 Universal Communications Service Access Fund	5788,4221
 Universal Digital Access	4234
+Universal Financial Access	10775
 Universal Service Access Fund	3264
 Universal Service and Access Agency of SA	10129
 Universal Service and Access Agency of South Africa	5191
@@ -1735,6 +1776,8 @@ WIRELESSS ACCESS	736
 WT ACC COM 50 LEG1.pdf	1272
 Wal R. Acceptance	1219
 Wartime Sudan. Accessed	6947
+Water Access	10759
+Water Access Rural Market Access Rural	10759
 Wave Fixed Wireless Access	5245
 Wave Improves Internet Access	4442
 Weak Accountability and Transparency	6936
@@ -1759,11 +1802,13 @@ World Bank Mozambique Digital Acceleration	1228,3425
 World Bank Mozambique Digital Acceleration Project	4653
 World Bank Results Acceleration Program	3604
 World Bank-backed Kenya Digital Economy Acceleration	6587
+World Bank-financed Angola Digital Acceleration Project	10765,10
 World Bank-funded Digital Malawi Acceleration Project	7070
 World Bank. The Accelerating Digital Transformation	4963
 World Bank’s Access	2989
 World Bank’s Accountability Mechanism	3604
 World Bank’s Digital Zambia Acceleration Project	1867
+World Bank’s Universal Financial Access Survey	10775
 XMLdatasupportinguserpersonalization. IEEE Access	8606
 Year Accessible	4126
 Years. Accessed	6947

@@ -42,7 +42,9 @@ Approved Actual Exec Approved Actual Exec	6422
 Assistant Secretary General and Deputy Executive Director	5538
 Authority Executive Secretary	6938
 Authority of Kenya CEO Chief Executive Officer	6946
+Avaliação da Execução	10783
 BOCRA Acting Chief Executive Officer Maitseo	7239
+Balanço da Execução	10783
 Bazara Tech Inc. EXECUTIVE SUMMARY Unlocking	2957
 Benjamin Mkapa Foundation Chief Executive Officer	7321
 Bentoumi and Sparkle Executive Director Enrico Bagnasco	3342
@@ -51,7 +53,7 @@ BoFiNet Chief Executive Officer Dr Geoffrey	10050
 BoFiNet Chief Executive Officer Dr. Geoffrey	10151
 Boakai's Executive Order	5994
 Board Chairperson Mr. Richard Byarugaba and Executive	8969
-Board of Executive Directors	10714
+Board of Executive Directors	10714,51,10,10
 Board. Chief Executive Officer.Chief Financial Officer	585
 Boitumelo Semete-Makokotlela Chief Executive Officer	3651
 Brazzaville. Congo Telecom Chief Executive Officer	6764
@@ -196,6 +198,7 @@ County Executive Committee Members	2775
 County Executive Member	2668
 Court of Accounts’ Execution Control	1284
 Crawford Capital Ltd Chief Executive Officer	6776
+Crisis Simulation Exercise	10779
 Cyber Exercise and Cyber Drill Drill the NCC	1777
 DA Executive Committee	5569
 DES EXERCICES	3396
@@ -205,7 +208,7 @@ DISSENTING SHAREHOLDERS’ APPRAISAL RIGHTS Exemptions	3714
 DLP Executive Summary. Retrieved	899
 Dakar Mobilité Chief Executive Officer Cheikh	7324
 Data Mapping Exercise	6792
-Decreto Executivo	4218
+Decreto Executivo	4218,6533,32
 Decreto Executivo Conjunto	744,50
 Deputy Chief Executive Officer	587,3676,4773
 Deputy Chief Executive Officer Sabine Mensah	9036
@@ -249,7 +252,7 @@ EXECUTION DU BUDGET	998
 EXECUTIVE AUTHORITY STATEMENT	5533
 EXECUTIVE AUTHORITY STATEMENT DEPARTMENT OF HOME	5533
 EXECUTIVE DIRECTOR	1154
-EXECUTIVE SUMMARY	236,482,222,60,9,152,779,48,1063,1075,846,1460,506,610,1851
+EXECUTIVE SUMMARY	236,482,222,60,9,152,779,48,1063,1075,846,1460,506,610,1851,1366
 EXECUTIVE SUMMARY African	6938
 EXECUTIVE SUMMARY Agriculture	520
 EXECUTIVE SUMMARY Artificial Intelligence	7548
@@ -263,6 +266,8 @@ EXECUTIVE SUMMARY The Environmental and Social Management	1988
 EXECUTIVE SUMMARY The FSCA	8354
 EXECUTIVE SUMMARY The Government of Sierra Leone	1161
 EXECUTIVOS	167
+EXECUÇÃO	10783
+EXECUÇÃO DE OPERAÇÕES DE PAGAMENTO	10755
 EXECUÇÃO E DILIGÊNCIAS	549
 EXECUÇÃO E DILIGÊNCIAS SECÇÃO I DECISÃO	549
 EXEMPTIONS	762,2952
@@ -278,12 +283,13 @@ Ex-Administrador Executivo	2816
 Exec Approved Actual Exec Approved Actual	6422
 Exec Chairman Mohamed Mekouar	3473
 Exec Director Yodahe Zemichael	3757,1626
+Executar Projectos	10783
 Execute	6432
 Executed	26,1,1,1728,7,2
 Executing Agencies	10348
 Executing Agency	603
 Execution	3,937,332,400,1,1153,298,691,1307,137,198,1091,1000,496,502,83,208,162,351,1371
-Executive	396,31,158,2,202,110,59,880,102,367,470,1005,79,353,682,722,59,288,195,282,151,239,54,195,200,374,588,65,183,375,89,636,25,255,217,128,30,67,103
+Executive	396,31,158,2,202,110,59,880,102,367,470,1005,79,353,682,722,59,288,195,282,151,239,54,195,200,374,588,65,183,375,89,636,25,255,217,128,30,67,103,377
 Executive Authority	2662,2871
 Executive Authority Signature OFFICIAL SIGN OFF	5533
 Executive Board	1830,5865
@@ -299,14 +305,15 @@ Executive Chairman of Trans-IT Group	7371
 Executive Chairman of Unitel	7108
 Executive Commissioner	3945,3906,405
 Executive Commissioner for Technical Services	8417
-Executive Committee	3513,1645,282,2298
+Executive Committee	3513,1645,282,2298,3037
 Executive Committees CEMAC Economic and Monetary Community	2775
+Executive Compliance	10759
 Executive Council	961,282,4798,642
 Executive Council of ASCON	7329
 Executive Council. H.E. Simeón Oyono Esono	8192
 Executive Dean	8142
-Executive Decree	3685
-Executive Decree No	3221,464
+Executive Decree	3685,7080,10
+Executive Decree No	3221,464,7090
 Executive Digest	9990
 Executive Director	587,567,400,257,19,21,686,52,416,577,72,833,270,16,446,1567,150,101,28,233,22,1,137,387,6,6,257,142,34,397,25,18,23,14,202,11,61,225,151,364,14,469,213,152,100
 Executive Director Anderson Miamen	8955
@@ -389,8 +396,9 @@ Executive Secretary of SETIC and Coordinator	6044
 Executive Secretary of WAPCO	10509
 Executive Secretary of WATAF	5351
 Executive Secretary of WATRA	5790
-Executive Summary	395,184,3,317,358,106,234,633,828,799,2,669,55,389,160,112,2,1,533,271,375,16,448,57,18,186,2877,690
+Executive Summary	395,184,3,317,358,106,234,633,828,799,2,669,55,389,160,112,2,1,533,271,375,16,448,57,18,186,2877,690,45,12,1
 Executive Summary Africa	3859
+Executive Summary Angola	10763
 Executive Summary Artificial	1814
 Executive Summary Artiﬁcial Intelligence	1204
 Executive Summary Executive	23
@@ -423,14 +431,20 @@ Executive's Budget Proposal	6463
 Executive-Order-No.-2-of-2023-.pdf	6133
 Executive. Parliament	8611
 Executives	940,1907,1092,1861,776,75,1236,1572
-Executivo	13,1,1,1200,1080,434,92,698,246,128,10,172,71,289,301,366,170,24,9,100,137,308,129,1,8,580,192,59,125,22,25,89,38,127,637,66,211,149,16,167,28,75,64,222,84,194,1,98,3,139,390,10,296
-Executivo Angolano	14,3505,627,104
-Execução	13,536,245,3353,272,138
+Executivo	13,1,1,1200,1080,434,92,698,246,128,10,172,71,289,301,366,170,24,9,100,137,308,129,1,8,580,192,59,125,22,25,89,38,127,637,66,211,149,16,167,28,75,64,222,84,194,1,98,3,139,390,10,296,655,1,1,2,4,14,5,1,5
+Executivo Angolano	14,3505,627,104,6501
+Execução	13,536,245,3353,272,138,6198,28
+Execução Autorizada	10783
+Execução Financeira	10783
+Execução Incorrecta	10755
+Execução Tardia	10755
 Execução de Actos Jurídicos Internacionais	9799
 Exemp7t.i2onEsxemptions	10157
+Exemplares PREÇO Kz	10757
+Exemplares Reprodução	10766
 Exemplary	4126
 Exemple	747,1,1236,429
-Exemplo	2816,605,4527,1228
+Exemplo	2816,605,4527,1228,1601
 Exemplos	2816
 Exempted	736
 Exemption	1220,657,238,594,1178,2545,3725
@@ -440,7 +454,7 @@ Exemption for On- Premise Hosting	6432
 Exemptions	3,759,571,18,391,86,899,987,173,2545,3725,153
 Exemptions Exemptions	10157
 Exemptions PART II	1333
-Exercer	13,154,4051
+Exercer	13,154,4051,6537
 Exercice	822,1171,349,6549
 Exercise	11,1833,4950
 Exercise Over Technical Challenges Gambiaj.com	10110
@@ -482,8 +496,10 @@ Greater Banjul Exercise	10110
 Group Chief Executive	10665
 Group Chief Executive Officer	4864,2340
 Group Executive	4952,1155
+Group Executive Committee	10793
 Group Executive Director	2552
 Group Executive and Head of Regulatory	4896
+Group Finance Executive	10793
 Group Managing Director and Chief Executive Officer	7371
 Hon. Nyombi Thembo EXECUTIVE DIRECTOR	4661
 Human Rights and Disinformation Executive	10729
@@ -500,6 +516,7 @@ ITIDA Chief Executive Officer Ahmed Elzaher	7045
 Impact Analysis Exercise	1554
 Important Conditionality Executive Notaries Public	4896
 Inclusion and Integrity Table Of Contents Executive	4848
+Incorrectamente Executadas	10755
 Information-Sharing and Joint Exercises	6936
 Installer and Execution Model	9475
 Interim Chief Executive Officer	8866,1126
@@ -509,7 +526,9 @@ Italia Matlala Executive Group Head	5247
 Ivoire Chief Executive Officer Mamadou Bamba	6303
 JKCI Executive Director Dr Peter Kisenge	7360
 JTL Chief Executive Officer Dr C.K	9940
+JUSTICE Executive Compliance	10759
 James Chona and Executive Director Webby Mate	9371
+Joint Executive Decree	10775
 KUPPET Nyamira Executive Secretary George Ayieko	8383
 Karl Olutokun Toriola Chief Executive Officer	8408
 Karo Platinum Crosses Critical Execution Milestone	6011,985
@@ -598,7 +617,7 @@ Non Executive	4263
 Normas Técnicas Ferramentas Exemplos Benefícios Riscos	2816
 Nov-2025 Executive Regulations	3525
 Number Resource Organization Executive Council	8047
-O Executivo	1215,2678,685,524,2016,937,2040
+O Executivo	1215,2678,685,524,2016,937,2040,656
 O Secretário Executivo	2866
 Open Hub Chief Executive Officer David	5939
 Operating Expenditure Execution	718
@@ -620,9 +639,9 @@ Philip Myburgh Executive Sponsor	5247
 Plan EXECUTIVE SUMMARY	1000
 Planning and Execution of Projects	10157
 Planning and Investment and Executive Secretary	10195
-Poder Executivo	14,1,152,372,3607,1,71,1762,2328
+Poder Executivo	14,1,152,372,3607,1,71,1762,2328,2442,2,3,28
 Poder Executivo. ARTIGO	539
-Poder Executivo. Artigo	14,1,152
+Poder Executivo. Artigo	14,1,152,10616
 Poder Executivo. CAPÍTULO III MEDIDAS PARA	15
 Poder Executivo. Publicado	15
 Pour le Chief Executive Officer de Mauritius Telecom	7224
@@ -633,6 +652,10 @@ President and Group Chief Executive Officer of Cassava	4896
 Presidential Executive Order	7448,46,713,1023,927
 Presidential Executive Orders	10157
 Previous Exercise	10415
+Project Executive Committee	10775
+Projecto de Execução	10783
+Projecto. CAPÍTULO IV EXECUÇÃO E CONTROLO	10783
+Proposals for Executive Decrees	10776
 Provincial Executive	7738
 Public Budget Preparation and Execution System	9489
 QGroup Chief Executive Officer Muhammed Jah	6008
@@ -644,10 +667,12 @@ RCZ Executive Director Dr. P. Chikudza	1554
 RCZ Executive Director Dr. Partson Chikudza	1554
 REALISE ITS POTENTIAL Table of Contents Executive	899
 RELATIONSHIP WITH EXECUTIVE	3861
+RESUMO EXECUTIVO	10766
+RESUMO EXECUTIVO Infraestrutura	10766
 RUBRIQUE EXECUTION BUDGET	998
 Regional Ad- Chief Executive Officer	6938
 Regional Executive Manager	7377
-Regras de Execução	2365
+Regras de Execução	2365,8418
 Regulations OMAANDNHPWN IN EXERCISE	5687
 Regulators Chief Executive Officer	6938
 Relatório de Execução	5986
@@ -672,6 +697,7 @@ SECÇÃO IV SECRETARIADO EXECUTIVO Artigo	13
 SERVIÇOS EXECUTIVOS	4218
 SETIC Executive Secretary and PAFEN	6061
 STEMpower Chief Executive Officer	10621
+SUMÁRIO EXECUTIVO	10757
 SYNTHESIS TEAM REFERENCES EXEGUTIVE SUMMARY Ghana	6936
 Safaricom Ethiopia Chief Executive Officer Wim	7037
 Says Former NASA Executive Jim Adams	8787
@@ -698,12 +724,14 @@ Steve Howden Steve Howden Executive Vice	8939
 Structure Executive Summary	2777
 Sumário Executivo	5663
 Sumário Executivo. Ministry Of Education State	899
+Supervisão da Execução	10783
 TABLE OF CONTENTS EXECUTIVE SUMMARY	940
 TJNA's Executive Director	9162
 TNM Chief Executive Officer Michel Hebert	3933
 Table of Contents EXECUTIVE SUMMARY	5245
 Table of Contents Executive Summary	8670
 Tanzania Data Lab Executive Director Dr	10392
+Tax Executions	10762
 Taxa EXE	3667
 Taxa de Execução	3667
 Tech5's Chief Executive Officer and Vice-President	3613
@@ -747,7 +775,9 @@ Ward Enrollment Exercise	4291
 Wednesday. The National Commissioner and Chief Executive	9878
 World Bank Board of Executive Directors	2832
 World Bank's Executive Directors	2291
+World Bank. EXECUTIVE SUMMARY	10775
 World Bank’s Executive Directors	6539
+X. CRONOGRAMA DE EXECUÇÃO	10772
 YAS Chief Executive Officer Mr Pierre	7026
 YEA Chief Executive Officer Malik Basintale	7285
 Yiaga Africa Executive Director	10054

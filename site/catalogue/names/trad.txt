@@ -77,6 +77,7 @@ Apprentissage Effectif Apprentissage Traditionnel	2966
 Australian Department of Foreign Affairs and Trade	249,96,714
 Authority TWI Trade Weighted Index UAE	2775
 Automated Trading System	10
+Autoridade Tradicional	10751
 Autoridades Tradicionales	1701
 Autres Tradipratici	737
 Average Share of Trade Finance Portfolio for Small	10718
@@ -496,7 +497,7 @@ Topics U.S. Trade and Development Agency	10351
 Tourism and Trade	9781
 Trada-Digilink	8029
 Tradability Index	5247
-Trade	7,229,553,172,48,145,89,14,358,101,35,77,160,142,201,3,187,83,171,780,159,842,277,63,76,129,146,193,215,296,450,21,121,403,196,79,317,10,212,27,8,170,54,826,198,119,181,79,116,134,37,143,79,28,354,163,116,126
+Trade	7,229,553,172,48,145,89,14,358,101,35,77,160,142,201,3,187,83,171,780,159,842,277,63,76,129,146,193,215,296,450,21,121,403,196,79,317,10,212,27,8,170,54,826,198,119,181,79,116,134,37,143,79,28,354,163,116,126,75
 Trade Agreement AI Artificial Intelligence APEC	1243
 Trade Agreement Provisions	1243
 Trade AllAfrica	10663
@@ -571,12 +572,14 @@ Trade Regulatory Integration	1031,132
 Trade Secretary Jonathan Reynolds	10433
 Trade Spat	4970
 Trade Systems and Pipes Data	1161
+Trade Union Confederation ODW Open Data	10759
 Trade Worldwide Information Network	6369
 Trade and Cooperation Agreement	1243
 Trade and Development	226,735,303,2863,241,3180,3170
 Trade and Development Bank	8472
 Trade and Development Canada	1651
 Trade and Development Report	7548
+Trade and Development UNDESA United Nations Department	10759
 Trade and Development UNDG United Nations Development	1243
 Trade and Development UNDP United Nations Development	1264,5682,602
 Trade and Development UNESCO United Nations Educational	2775
@@ -593,6 +596,9 @@ Trade and Industry	1988,1315,1944,5066,315
 Trade and Industry Executive Summary	5247
 Trade and Industry The Ministry of Home Affairs	1988
 Trade and Investment	3006,732,3403,1,606,673,614,841,281
+Trade and Investment Approved Operations	10779
+Trade and Investment Operation Name Angola DPF3	10779
+Trade and Investment Operation Name Angola DPO2	10779
 Trade and Investment of Nigeria and Chair	7039
 Trade and Investment. Trade	10157
 Trade and Market Expert	10634
@@ -641,7 +647,7 @@ Trading Potential	5245
 Tradipraticie	737
 Tradition	4636
 Tradition Shapes Nigeria's Digital Divide	9879
-Traditional	571,390,817,1180,48,645,791,141,93,161,304,237,222,100,611,358,39,548,436,39,109,58,54,178,153,132,726,81,313,87,31,24,10,31,185,557
+Traditional	571,390,817,1180,48,645,791,141,93,161,304,237,222,100,611,358,39,548,436,39,109,58,54,178,153,132,726,81,313,87,31,24,10,31,185,557,319
 Traditional Authorities Trust	8415
 Traditional Banking Usage	2775
 Traditional Banking and Mobile Bank Usage	2775
@@ -651,7 +657,7 @@ Traditional Leaders	1778
 Traditional Methods of Conflict Management and Resolutions	1248
 Traditional and Khoi San Leadership Act	5872
 Traditional and Religious	7664
-Traditionally	2913,1763,448,226,1047,881,473,1418,53,244,581
+Traditionally	2913,1763,448,226,1047,881,473,1418,53,244,581,728
 Traducteur-Interprète. AU CHAPITRE DES COMMUNICATIONS Sur	7843
 Traductor Consulado B3 Intérprete Traductor Embajada	4209
 Traductor Embajada A2 Jefe Económico Admón	4209

@@ -1,4 +1,5 @@
 ABUSE OF OFFICE	7206
+ABUSE OR HARASSMENT AT OMS OFFICES	10776
 ACCOUNTING OFFICER STATEMENT	5533
 ACCOUNTING OFFICER STATEMENT The Department of Home	5533
 ADEA Senior Programs Officer Shem Bodo	10359
@@ -78,6 +79,11 @@ Annual Performance Report. Officials	8469
 Applicant Signature Position Held Date Official	736
 Applicant's Best Price Offer	8582
 Approving Officer	1877
+Area Office	10764
+Area Office Gedung Sapta Pesona	10764
+Area Office USAF POTRAZ Building	10764
+Area Office United Nations House Marine	10764
+Area Office and Innovation Centre C-DOT Campus	10764
 Artificial Intelligence Office	8014
 Artificial Intelligence Strategy Implementation Office	3760
 Arusha Regional Commissioner’s Office	7360
@@ -114,6 +120,7 @@ BRIEF OVERVIEW OF SMARTCARE Offline	2477
 BULLETIN OFFICIEL	308,427
 BULLETIN OFFICIEL N	308
 BULLETIN OFFICIEL Nº	735
+Back Office	10765,10
 Bankak. Officials	1676
 Bavarian State Office for Data Protection Supervision	10090
 Being Offered	3862
@@ -340,9 +347,11 @@ Chief Technology Officer	3652,41,1523,1475,1184,1945
 Chief Technology Officer DC Data Centre	6432
 Chief Technology and Information Officer	3699
 Chief of UNICEF Lagos Field Office	10704
+Child Protection Officer	10765,10
 Chisipite EWZL Owned Offices N	4896
 Civil Registration Office	3004
 Civil Registration Officer	3623
+Civil Registry Offices	10765,10
 Classification of Offences	2775
 Clerk's Office	10313
 Clinical Officer	771,3020
@@ -364,7 +373,8 @@ Commissioner General’s Office Abigail Kawamba	9093
 Committed Proposed Allocation Official Use Only	4653
 Committee Media Officer	9883
 Common Services Office	10063
-Commonwealth and Development Office	3654,472,4651,1276,534
+Commonwealth and Development Office	3654,472,4651,1276,534,181
+Commonwealth and Development Office FM Financial Management	10768
 Communications Authority’s Western Regional Office	8323
 Communications Officer	6199,1675,1087,192,896
 Communications Officers	6077
@@ -388,6 +398,7 @@ Council Act OAG Office	6432
 Country Director of KOICA Nigeria Office	9360
 Country Director of KOICA Rwanda Office	770
 Country Mozambique Official Use Only	4653
+Country Office	10776
 Country Program Officer	4840
 County Governments Public Private Office	7548
 Court Papers Reveal How VID Officials	8639
@@ -457,6 +468,7 @@ Description of Offences	2775
 Designated Officer	10721
 Determination Officer SA South Africa	5533
 Development Office	2590,1536,1046,1254,1616
+Development Office Famines Early Warning Systems	10763
 Development Office Published	9630
 Development Office. Published	6886
 Diaspora Affairs Office	4126
@@ -491,6 +503,7 @@ Djibouti Office of Industrial and Commercial Assets	6938
 Djibouti Officially Launches Mobile ID Digital	4977
 Djibouti Telecom Chief Executive Officer Mohamed	4898
 Doctors and Clinical Officers	4217
+Doctor’s Offices	10775
 Document of The World Bank FOR OFFICIAL	1284
 Dodoma and Zanzibar. Officials	10460
 Domestic Mobile Off-Net Voice Traffic	2776
@@ -622,6 +635,8 @@ Gabinete Ministerio Oficial Mayor	4209
 Gautengprovince ofSouthAfrica. Oxford Open Digital Health	8606
 Gender and Digital Rights Programme Officer	7990
 General Adjunto Oficial Mayor Interventor Abogado	4209
+General Secretary’s Office	10768
+General Taxpayer Register Ex Officio	10775
 German Federal Foreign Office	7794,1676,237
 German Federal Foreign Office Press Release	7794
 German Federal Statistical Office. Mobile	9149
@@ -647,6 +662,7 @@ Gross Capital Provider Buildings Equipment Office	236
 Group Chief Digital Officer	8583
 Group Chief Executive Officer	4864,2340
 Group Chief Finance Officer	4896
+Group Chief Financial Officer	10793
 Group Chief Information Officer	8583
 Group Chief Product and Innovation Officer	8429
 Group Data Protection Officer	10694
@@ -684,6 +700,7 @@ ICT Officer Ms. Gwendoline Hamabele	1874
 ICT Officer-Information	34
 ICT Officers	7407,2494
 ICT. Officers	34
+ID Office	10765,10
 ID. Officials	4966
 IEC Chief Electoral Officer	9375
 IEC Chief Electoral Officer Sy Mamabolo	9375
@@ -780,6 +797,7 @@ Labour Officer	1988
 Lagos Head Office	5321
 Lagos State Office for Disability Affairs	10290
 Large Taxpayer Office	10419
+Large Taxpayer Offices and State Suppliers	10792
 Latest Biometrics News OfDIA	10293
 Law Officers Act	7845
 Le Chief Executive Officer de Mauritius Telecom	9948
@@ -798,6 +816,7 @@ Livingstone EWPL Owned Offices N	4896
 Local Offices	8999
 Logistics Officers	9004
 Lomé. Officials	5962
+Luanda Health Office	10784
 M&E Officer	1228
 MAC. The Data Protection Officer	5244
 MANDATE OF THE OFFICE	1630
@@ -964,7 +983,7 @@ OFFICER REMUNERATION OF DIRECTORS PROCEEDINGS	585
 OFFICIAL NOTICE	10476
 OFFICIAL USE ONLY	5598,22
 OFFICIAL USE ONLY Received	22
-OFFICIAL USE ONLY Report	1867,1695,2977
+OFFICIAL USE ONLY Report	1867,1695,2977,4229
 OFFICIAL USE ONLY. Report	989
 OFFIXPRESS	10024
 OFFLINE	2492
@@ -1039,7 +1058,7 @@ Offering High-Speed Connectivity Across	5289
 Offeror	7108
 Offers	961,2753,416,212,2856
 Offers Client Data for Sale	3364
-Office	395,16,176,131,244,7,1,2,42,11,129,74,15,39,2,6,264,22,54,44,103,1,32,57,7,1,53,16,20,24,81,48,136,79,10,47,135,92,36,16,59,48,4,94,47,111,20,66,2,188,57,22,70,70,6,30,21,9,3,25,40,54,11,217,46,66,53,7,12,8,80,3,11,139,161,7,48,7,7,43,28,47,4,89,28,60,84,53,39,6,35,4,6,11,81,5,143,3,97,70,17,48,18,10,16,9,124,69,150,37,102,26,1,22,47,2,31,128,32,71,13,28,34,149,4,72,13,25,1,17,55,32,10,5,8,15,1,14,65,56,31,18,8,24,121,126,9,1,27,19,54,59,8,2,16,14,23,26,13,11,23,102,60,1,67,45,4,28,24,176,40,49,28,53,49,21,30,9,103,162,10,18,23,46,9,8,81,65,23,35,22,33,8,13,42,44,36,89,20,12,8,1,70,27,5,40,21,1,42,23,10,17,32,2,8,16,85,3,86,11,15,12,90,7,44,1,47,93,57,5,3,25,5,58,15,3,53,38,53,30,6,4,86,47
+Office	395,16,176,131,244,7,1,2,42,11,129,74,15,39,2,6,264,22,54,44,103,1,32,57,7,1,53,16,20,24,81,48,136,79,10,47,135,92,36,16,59,48,4,94,47,111,20,66,2,188,57,22,70,70,6,30,21,9,3,25,40,54,11,217,46,66,53,7,12,8,80,3,11,139,161,7,48,7,7,43,28,47,4,89,28,60,84,53,39,6,35,4,6,11,81,5,143,3,97,70,17,48,18,10,16,9,124,69,150,37,102,26,1,22,47,2,31,128,32,71,13,28,34,149,4,72,13,25,1,17,55,32,10,5,8,15,1,14,65,56,31,18,8,24,121,126,9,1,27,19,54,59,8,2,16,14,23,26,13,11,23,102,60,1,67,45,4,28,24,176,40,49,28,53,49,21,30,9,103,162,10,18,23,46,9,8,81,65,23,35,22,33,8,13,42,44,36,89,20,12,8,1,70,27,5,40,21,1,42,23,10,17,32,2,8,16,85,3,86,11,15,12,90,7,44,1,47,93,57,5,3,25,5,58,15,3,53,38,53,30,6,4,86,47,28,11,5
 Office Accommodation	5533
 Office Accra	2308
 Office Annual	7548
@@ -1072,7 +1091,9 @@ Office des Changes. Disponible	8891
 Office des Postes	4715
 Office des Produits	8237
 Office for Digital and Emerging Technologies	10210
+Office for Europe Place des Nations CH-1211 Geneva	10764
 Office for Nigerian Digital Innovation	6058,4622
+Office for Studies	10780
 Office of AG	7548
 Office of Accountant-General	2527
 Office of Auditor General	718,252
@@ -1093,6 +1114,7 @@ Office of Research	7548
 Office of Science and Technology Policy	5773,1017,3655
 Office of Science and Technology Policy. X. Review	5773
 Office of Strategic Capital	4447
+Office of Studies	10780
 Office of Technology	5994,1621,2,74,29,1,1140
 Office of The President and Cabinet	395
 Office of Treaty Affairs	1234
@@ -1135,7 +1157,7 @@ Official Development Assistance	1828,3416,1094
 Official Development Assistance PUL	5244
 Official ECOWAS	4827
 Official Electoral Registration	9399
-Official Gazette	3,4,1013,194,119,423,1,1,1,1,1,1,1,1,1,1375,1,1,1,1,1,1,1,1,713,266,226,244,163,2152,1,1,1,1,1,1,1,1,3801
+Official Gazette	3,4,1013,194,119,423,1,1,1,1,1,1,1,1,1,1375,1,1,1,1,1,1,1,1,713,266,226,244,163,2152,1,1,1,1,1,1,1,1,3801,54
 Official Gazette No	1220
 Official Gazette of Mozambique	3861
 Official Gazette. All	10004
@@ -1204,6 +1226,10 @@ Offsec Certified Professional	1940
 Offshore	5200,809,2980,1749
 Offshore Banking	3364
 Offshoring	168,67,1868,2734,4003
+Oficiais	10751
+Oficiais de Justiça	10751,21
+Oficiais de Justiça. V. SOLUÇÕES PARA	10772
+Oficiais de Municipal da Polícia Nacional	10751
 Oficial	4209,3673
 Oficial Administrativo	4209
 Oficial Director General	4209
@@ -1226,6 +1252,7 @@ Oficina Nacional de Turismo	4209
 Oficina Reguladora de Telecomunicaciones	9543
 Oficina de Contratos	4209
 Oficina de Información	975,5323,1785,289,182,511
+Oficina de Representación	10764
 Oficina de Seguimiento BAD	4209
 Oficina de Tramitación de Documentación de Vehículos	4209
 Oficinas	4209
@@ -1360,6 +1387,8 @@ Proportion ofPHEs	4301
 Protect Their Rights The Office	2668
 Protection of Personal Draft Official Identity Cybersecurity	1939
 Provincial Cadastral Offices	427
+Provincial Health Office	10784
+Provincial Health Office of Luanda	10776
 Provincial ICT Officer	9137
 Provincial ICT Officer Joyce Mushiko	9792
 Provincial ICT Officer Joyce Mushiko. Nawa	9792
@@ -1404,8 +1433,10 @@ Reference Infrastructure Sharing Offer	6100
 Reference Interconnection Offer	6100
 Region Office P.O Box	6946
 Regional Ad- Chief Executive Officer	6938
-Regional Office	7167
-Regional Office for Africa	6297,3672
+Regional Office	7167,3597,12
+Regional Office Gambia Road Leghar Ethio	10764
+Regional Office Smart Village	10764
+Regional Office for Africa	6297,3672,811
 Regional Office for Southern Africa	10073
 Regional Offices CA Central and Eastern CA	6946
 Regional Procurement Officer	7457
@@ -1486,6 +1517,7 @@ Senior Officers' Annual Conference	5174
 Senior Official for Foreign Assistance	4154,11,2
 Senior Officials	318,7497,1946,408
 Senior Officials Consultative Meeting	7795
+Senior Operations Officer	10763
 Senior Policy Officer	961
 Senior Programme Officer	962,2396
 Senior Programme Officer ICT. The Director	962
@@ -1540,6 +1572,7 @@ Subsahara Africa Office	9082
 Sunyani Office National Communications Authority	2776
 Supervisor Responsibility Chief Data Officers	3861
 Sustain Early Deployment of Election Officials and Materials	10049
+Switzerland Office of Deputy Director and Regional Presence	10764
 TAKEOVERS AND OFFERS PART	3714
 TINs. Officials	3938
 TJNA's Communications Officer	9162
@@ -1551,6 +1584,7 @@ Takoradi Office National Communications Authority	2776
 Tamale Office National Communications Authority	2776
 Tasks and Position of Data Protection Officers	6608
 Tax Business Offices. Solar	10581
+Tax Office	10775
 Tech Valleys Offshoring	4837
 Tech5's Chief Executive Officer and Vice-President	3613
 Technical Officer	9793
@@ -1586,6 +1620,7 @@ UN Office	4810,2137
 UN Office for Digital and Emerging Technologies	7112
 UN Office of Information and Communications Technology	5825
 UN Resident Coordinator's Office	7749,2193
+UN Resident Coordinator’s Office	10776
 UN and OFAC	5369
 UNDP Country Offices	402
 UNDP's Chief Digital Office	1953
@@ -1599,6 +1634,7 @@ UPS Preinstalled Genuine Microsoft Office Professional	34
 URA Officer	3955
 URA's Accounting Officer	3700
 US Officials Are Pressuring Europe	5366
+US Treasury Department’s Office of Foreign Assets	10793
 USAID. USAID Office of Inspector General Follow-Up	3583
 Ubari Civil Registry Office	4531
 Uche Ofodile	3112,3098
@@ -1609,10 +1645,10 @@ Uganda’s Personal Data Protection Office	5220,835,2235,1609
 United Kingdom's Home Office	4052
 United Kingdom’s Office for AI	4126
 United Kingdom’s Office for AI. Ghana	4126
-United Nations Office	970,3157,1211,332,1136,954,1591,265,125
+United Nations Office	970,3157,1211,332,1136,954,1591,265,125,1035
 United Nations Office for Disarmament Affairs	2117
 United Nations Office for Outer Space Affairs	7760
-United Nations Office for Project Services	6806
+United Nations Office for Project Services	6806,3970
 United Nations Office of Counter-Terrorism. The Somali	10701
 United Nations Office. At the Geneva Summit	9741
 United States Patent and Trademark Office	8967

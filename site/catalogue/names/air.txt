@@ -55,7 +55,7 @@ Air France Data Processor INST-25160974C8C NAIROBI	7167
 Air Interface Encryption	10721
 Air Pollution	1988
 Air Pollution Management	1988
-Air Quality	8891
+Air Quality	8891,1868
 Air Traffic	261
 Air Traffic Management System	261
 Air Transport	7452,3271
@@ -284,7 +284,7 @@ Airtel’s	9997
 Airtel’s Direct-to-Cell	4442
 Airtel’s Managing Director	3458
 Airtel’s Nxtra	4191,6070
-Airtime	418,1675,3502,1965,1103
+Airtime	418,1675,3502,1965,1103,2130
 Airtime Credit Services	8587,76
 Airwaves	6051
 Airwing	9644
@@ -354,6 +354,7 @@ Federal Airports Authority of Nigeria	7561
 Finance Minister Urges Airtel Uganda	8352
 Fly Net Zero The African Airlines	10723
 Frogfoot Air	10735
+G and MTN AirFibre	10793
 GLO MTN EMTS AIRTEL SMILE IHS	3862
 Gbps AIRTEL	718
 Globacom and Airtel Africa	7560
@@ -441,6 +442,7 @@ Ouagadougou International Airport. Beyond	5792
 Oversee Jomo Kenyatta Airport Modernization Kenya	5407,676
 PM Aires Ali	2667
 Part of Airtel	2134,1280
+Participation Air Quality Political Power	10759
 Philippines' Ninoy Aquino International Airport	4275
 Pipeline Transport Air Transport Aircraft Movements	2775
 Plan Directeur des Aires Protégées	8891
@@ -471,6 +473,7 @@ Sierra Leone. Airtel Sierra Leone	4189
 Simon Mwansa Kapwepwe International Airport	5247
 Single African Air Transport Market	961,2201,2750,4448
 Solwezi Airport	5247
+Sonangol and TAAG Angola PA2b S Airlines	10779
 Sotel Tchad and Airtel	5033
 Sotel and Airtel	4956,2056
 South African Airways	562,2728

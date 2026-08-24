@@ -113,6 +113,7 @@ LPA-approved Point-of-Sale	4283
 M2200000020563ON MOULINS GM PNR DE POINTE-NOIRE	7346
 MMG. A Technical Focal Point	2889
 MOMO Focal Point	9699
+Manufacturer POP Point of Presence PUE Power	10781
 Mauritius Internet Exchange Point	3292
 Merchant Point-of-Sale	6453
 Message Structures Service Point Application Enterprise	21
@@ -157,8 +158,9 @@ Point of Sale	1925,924,28,1848,1728,9,516,931,169,40
 Point of Sale and ATM Switching	2276
 Point of Sale-POS-cards	8806
 Point of Sales	4630,50,637
+Point of Sales Persons With Disabilities	10763
 Point-	736
-Point-of-Sale	7689,114,125,250,1983
+Point-of-Sale	7689,114,125,250,1983,602
 Point-of-care	10188
 Point-of-sale	5513
 Point-to	736
@@ -176,6 +178,8 @@ Pointing	34,9642
 Points	164,6795,696,1582,1263,211
 Points Development Discoveries Education	9989
 Points WRA Water Resources Authority	2775
+Points Weight	10785
+Points Weight I-27 UN E-Participation Index	10785
 Points of Customer Contact E-mail	775
 Points of Presence	1289,2573,2887
 Points ofEntry	4260
@@ -183,6 +187,7 @@ Points. Government of Cybersecurity	1777
 Poirier	2093
 Poisons	9855
 Poisons Board	9855
+Posts and Points and Customs	10762
 Radware Point of Presence	5793
 Rationale for Revision The Pharmacy and Poisons Board	9855
 Recommended Universal Contact Points	5676
@@ -206,6 +211,7 @@ Service Framework Service Point Application Service	21
 Service Point Applications	21
 Service Points	8999
 Signaling Point Codes IT Information Technology	6946
+Staff Development and Learning Focal Point	10776
 Sticking Point	10360
 System Key Point	6173
 Systems Point-of-Sale Persons	940

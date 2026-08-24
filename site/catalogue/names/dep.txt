@@ -51,6 +51,7 @@ Auditor General's Department	2779
 Australia's Department of Families	7147
 Australian Department of Foreign Affairs and Trade	249,96,714
 Authority Governor Deputy Governor	6938
+Author’s Depiction	10765,10
 Avant-propos Depuis	6959
 Awa Baldé Depuis Sa Cellule	4960,62,2035
 BEAC Deploys New CEMAC Retail-Payment Platform	9926
@@ -124,6 +125,7 @@ Child Online Protection Department	4583
 China-Africa Media Cooperation Deputy Minister	10441
 Citizen. State Dept	2457
 Citizen. The State Department	2457
+Civil Registration and Vital Statistics Department	10765,10
 Civil Registry Department	3247,27,1115,1790
 Civil Registry Department. Dr Mayanga	9461
 Cloud Deployment Model	9123
@@ -210,6 +212,7 @@ DEPORT. DEPORT. Cuentas CONCEPTO	4209
 DEPORTEES RAISE QUESTIONS ABOUT LIBERIA MIGRATION	10581
 DEPORTIVAS A IDIOMAS REGIONAL DISTRITALES INSULAR	4209
 DEPRAVATION DE NOS MOEURS	8236
+DEPRECIATION AND AMORTISATION Table	10793
 DEPRISS GROUP LIMITED Data Controller INST-1653870F18B	7167
 DEPTH	7138
 DEPTO	4209
@@ -225,6 +228,7 @@ DIMKES DEPOSIT TAKING SAVINGS AND CREDIT	7167
 DOMESTIC National Departments Telecommunications	961
 DTA State Dept	1172
 Daily Observer Deputy News Editor David	8151
+Daniel Tulomba Public Health Department	10784
 Database Management Department	7159
 Daughters of Charity of St Vincent Depaul Data	7167
 DePphlaosyem2e	10157
@@ -233,7 +237,10 @@ Defendant United States Department of State	5692
 Dep moy	737
 Depart	4775
 Departamento	1701,2508
-Departamento Ministerial	167,382,195,50,3352,1,71
+Departamento Especializado	10750
+Departamento Ministerial	167,382,195,50,3352,1,71,6536,29
+Departamento Ministerial Responsável	10783
+Departamento Pedro Cipriano Massiala Telefone	10766
 Departamento de Administração	167,4051
 Departamento de Apoio	4218
 Departamento de Assessoria Técnico-Jurídico	167
@@ -250,13 +257,14 @@ Departamento de Estado	2816
 Departamento de Estatística. Artigo	167
 Departamento de Estudos	1526,1258,32
 Departamento de Gestão	167
-Departamento de Informação	4044
+Departamento de Informação	4044,6713
 Departamento de Inspecção	167
 Departamento de Matemática	2816
 Departamento de Operações de Cibersegurança	4218
 Departamento de Orçamento	167
 Departamento de Protecção de Infra-Estruturas Críticas	4218
 Departamento de Recursos Humanos	2816
+Departamento de Recursos Humanos Dande. Corrupção	10751
 Departamento de Registo de Ficheiros	167
 Departamento de Relações Internacionais	167
 Departamento de Relações Públicas. Artigo	167
@@ -267,14 +275,14 @@ Departamento de Sistemas Operativos	9694
 Departamento de Sistemas de Informação	167,2649
 Departamento. Artículo	4209
 Departamentos	4209
-Departamentos Ministeriais	794,398,2954,72
+Departamentos Ministeriais	794,398,2954,72,6534,2,18,11
 Departamentos Ministeriales	4209
 Departamentos de Educación	4209
 Departe-	1009
 Departement	1009
 Departing Kenyans	2775
 Departing Visitors	2775
-Department	428,533,48,623,38,140,307,459,38,33,1,185,367,25,39,350,512,483,538,28,358,110,130,99,160,120,104,176,48,32,274,63,318,237,281,71,1,1,199,295,206,11,11,179,181,288,307,149,100,208,1,264,254
+Department	428,533,48,623,38,140,307,459,38,33,1,185,367,25,39,350,512,483,538,28,358,110,130,99,160,120,104,176,48,32,274,63,318,237,281,71,1,1,199,295,206,11,11,179,181,288,307,149,100,208,1,264,254,354
 Department ALECSO Charter	2958
 Department Annual	7548
 Department DDiplomatic Mission D Public Company	736
@@ -311,6 +319,7 @@ Department of Business Administration	6936
 Department of Business Information Systems	2093
 Department of Children Services	2775,6308
 Department of Children's Services	8050
+Department of Civil Protection	10763
 Department of Civil Registration	2831
 Department of Civil Registry	4257
 Department of Civil and National Registration	1662,3972
@@ -428,6 +437,7 @@ Department of State Foreign Assistance	4349
 Department of State Foreign Assistance and CDC	4349
 Department of State Senior Advisor for Space Greg	6897
 Department of State Services	5215,3634
+Department of Statistics	10780
 Department of Telecommunications and Postal Services	396,6436,2065
 Department of Tourism	1188,5679,1,3190,44
 Department of Trade	4242,391,553,686,960,335,877,1085,806
@@ -475,7 +485,7 @@ Department’s Youth Forum	5533
 Depend	1988
 Dependability	8021
 DependabilityThe	7278
-Depende	1701
+Depende	1701,9054
 Dependence	1777,682,2069,1149,800,1071,799,772,1602
 Dependencia	1701
 Dependencies	1009,9712
@@ -487,6 +497,8 @@ Dependency Ratio	2775
 Dependent	9129
 Dependerá	1701
 Depending	21,1222,144,260,57,74,29,60,121,690,902,1096,570,1421,298,287,82,377,40,676,686,10,114,482,1002
+Dependência	10777
+Dependência Primária de Tecnologias	10777
 Dependência de IA	2816
 Depicted	9124
 Deplatformed	4514
@@ -506,7 +518,7 @@ Deploying AI Nigeria	9574
 Deploying NVIDIA GPU-powered	2388
 Deploying SOAR	5677
 Deploying the Largest Subsea Fiber-Optic Cable System	2677
-Deployment	396,868,1285,58,67,2612,389,325,792,146,585,25,595,135,23,835,467,554,250,209,1
+Deployment	396,868,1285,58,67,2612,389,325,792,146,585,25,595,135,23,835,467,554,250,209,1,158
 Deployment Models Entities	6432
 Deployment Phase	5665
 Deployment Procedures	5665
@@ -518,7 +530,8 @@ Deployment of Troops	6422
 Deployments	1009,5016
 Deploys	708,3820
 Deploys Asset-Financing Solution for Rwandan Drivers Foluso	7324
-Depois	2816
+Depois	2816,7934,5
+Depois de Luanda	10751
 Depoliticize	1828
 Deport	10729
 Deporte	4209
@@ -526,6 +539,7 @@ Deportes	1855,2354,2632
 Deportes. Excelentísimo	6841
 Deportiva Militar	4209
 Deposit	5679
+Deposit Guarantee Fund	10779
 Deposit Insurance Corporation Act	9341
 Deposit Insurance Corporation Act and ESOMA Bills	9220
 Deposit Insurance Permanent Secre- Board	6938
@@ -539,13 +553,16 @@ Deposit-Taking Institutions	8732
 Deposit-taking Savings and Credit Cooperatives	6938
 Deposition	5246
 Depositors	9441
-Depository	10
+Depository	10,10783
 Depository Trust	9706
+Depositou	10760
 Deposits	3657,238,3794
 Deprecated Features	5665
-Depreciation	940,214,3742,3512
+Depreciation	940,214,3742,3512,2385
 Depreciation Depreciation	1154
+Depreciation Reported Constant Prior	10793
 Depreciation and Amortisation	3898,2202,1104,2435,24,479
+Deprivation	10763
 Dept of Agriculture	7167
 Dept of E-Government	5098,1972
 Dept. Accounting	10123
@@ -561,10 +578,10 @@ Depuis	12,1426,241,127,16,439,81,12,23,72,2,105,137,75,198,54,78,2,5,14,38,38,72
 Deputada Maria de Lourdes Roque Caposso Femandes	539
 Deputada Maria de Lourdes Roque Caposso Fernandes	539
 Deputada Welwitschea José	539
-Deputado	539
+Deputado	539,10211
 Deputado Boaventura da Silva Cardoso	539
 Deputado José António Lopes Semedo	539
-Deputados	539,6579,2587
+Deputados	539,6579,2587,1047
 Deputados Boaventura da Silva Cardoso	539
 Deputados. Anteriormente	2816
 Deputados. Representantes	8760
@@ -746,6 +763,7 @@ Deputy Speaker for Administration and Finance	9585
 Deputy Vice Chairperson Benny Namugwanya Bugembe	9386
 Deputy Vice-Chancellor	9331,939
 DeputyDirector	2727
+Depósito Bankita	10775
 Description Department of Digital Communications	1672,977,2999
 Description Department of Shared Digital Services	1673,977,2999
 DevOps Depos	1938
@@ -756,6 +774,7 @@ Different Roles and Mutual Dependencies of Data	6948
 Difusão Departamento de Informação	4044
 Digital Dependence	5970
 Digital Development Department	1264
+Digital Knowledge Hub Department	10764
 Director of Financial Stability Monitoring Department	6938
 Director of Infrastructure and Energy Department	1243
 Director of Monetary Policy Department	6938
@@ -763,11 +782,13 @@ Directorates and Departments	9469
 Directorates and Departments of ECOWAS Commission	9194
 Directors and Deputy Directors	2727
 Disaster Risk Management Department	10348
+Diseases Department	10784
 DistinguishingModelEvidencefrom Deployment Evidence	8301
 Dr. Ruth Kagia Deputy Chief of Sta	899
 Drawing Rights SDHUD State Department for Housing	2775
 EAC Deputy Secretary General	7815,152
 EAC Deputy Secretary General for Customs	6096,746
+EBITDA Depreciation	10793
 EN COURS DEPP	2966
 ENSEÑANZA PROFESIONAL Y DEPORTES	4209
 ENSEÑANZA PROFESIONAL Y DEPORTES Servicio	4209
@@ -789,6 +810,7 @@ Elon Musk's Department of Government Efficiency	7750
 Emerging Technologies South Africa Deputy Minister	6480
 Enters Active Deployment of Africa-Middle East Fibre	10583
 Equatorial Guinea’s First Deputy Prime Minister	5001
+Estatística Departamento de Estudos	10766
 Eswatini's Deposit Protection Fund	8377
 Ethiopia's Deputy Prime Minister	5073
 Exchequer State Department Civil	7548
@@ -831,6 +853,7 @@ G Deployment and Policy Framework	5675
 G Deployment and Policy Framework Working Group	5675
 G. The UN Department of Economic and Social	2383
 GAMCEL. Deployment	7195
+GEPE Research and Projects Department	10780
 GIMPA Deputy Rector	10123
 Gabon US Department of State	1560
 Gambia Immigration Department	4677,101
@@ -866,6 +889,7 @@ Heads of Departments	2933
 Headteachers and Deputy Headteachers	899
 Health Department	8301
 Hidden Dependency	8644
+High Deposit Guarantee Fund	10779
 Historical Technology Dependency	7921
 Home Affairs Department	4831,2573
 Home Affairs Dept Budget Vote	6196
@@ -982,6 +1006,7 @@ Mr. Ndiaye Diouf Head of Department	5680
 Ms. Ssemuwemba. The Deputy Secretary General	7967
 Muchinga Province Deputy Permanent Secretary Brian	6104
 Multiple Access CDSC Central Depository and Settlement	2775
+Municipal Departments of Civil Registry and Notaries	10765,10
 NADF’s Partnership and Investor Relations Department	8818
 NASA Deputy Administrator Matthew Anderson and U.S	6897
 NASA Deputy Chief Technologist	8787
@@ -1003,6 +1028,7 @@ National Communication Centre. The State Department	6316
 National Department of Health	396,613,4524,2768
 National Department of Health Civitas Building Cnr	396
 National Department of Health Republic of South Africa	396
+National Department of SA	10780
 National Department of Tourism. Non-compulsory	10102
 National Director of Communications Deputy National Director	2989
 National Information System Department	5027
@@ -1017,6 +1043,7 @@ Niltional Department of Health	1009
 Northern Cape Department of Education	10247
 November. The Department of Basic Education	10102
 Number of Grants Care Dependency Grant	8999
+O Departamento Ministerial	10783
 O Departamento da Força Aérea	2816
 O Departamento de Administração	4218
 O Departamento de Apoio	4218
@@ -1029,6 +1056,7 @@ Office Equipment Department	34
 Office of Deputy Minister	8999
 Officer Deputy General Director Manager of Cybersecurity	2989
 Oficial Grupo E Responsable Deporte Militar	4209
+Operations Coordination Department	10764
 Operators and Service Providers Department	3696
 Organisation President Commissioners Departments	9067
 Outpatient Department	771
@@ -1041,6 +1069,7 @@ PRINTING DEPARTMENT	410
 PS State Department of ICT and Digital Economy	1245
 PTML Conference Hall. Deputy Comptroller Nura	8278
 Parlamento Jefe Departamento Dirección General Secretario	4209
+Partnerships for Digital Development Department	10764
 Payment System Department	6938
 Payment Systems Supervision Department	10424
 Payments System Supervision Department	6698,237,2817,753
@@ -1161,6 +1190,7 @@ South Africa’s G20 Presidency. Department of Home	9250
 South Arica Department of Higher Education and Training	6832
 Sovereign Business Dept	2160
 Special Drawing Rights Department	7845
+Staffing. The MASFAMU Administrative and Finance Department	10768
 Startup Anda Deploys	7324
 Startup Fund Depuis	3157
 State Department	1038,196,1278,357,1296,2,35,15,43,41,1,47,98,25,202,474,109,109,90,94,766,218,256,144,614,202,632,827,125,454,250,30,378,81,186
@@ -1219,6 +1249,7 @@ Supervision Department	9774
 Suppliers Dependencies	10721
 Supply Dependencies	10721
 Sustain Early Deployment of Election Officials and Materials	10049
+Switzerland Office of Deputy Director and Regional Presence	10764
 Synod of Livingstonia Health Department	3791
 Systems. Deploying Infrastructure for Industrialisation	5912
 Sénégal. Depuis	5054
@@ -1229,6 +1260,7 @@ Team OPD Open Patient Department RHIS	3791
 TechCabal. Depending	10481
 Technology and Innovation Department	5246
 Technology and Science Education Department	9755
+Tecnologias Limpas Dependência	10777
 Telecel Faso Deployment	4234
 Tendai S. Samusodza Department of Information Technology	8130
 Texas Department of Public Safety	2427
@@ -1237,6 +1269,7 @@ Third-Party Testing Providers Pre- Deployment Requirement	5665
 Time............................. Dept	34
 Tororo Municipality’s Deputy Mayor	8032
 Town and Country Planning Department	11
+Trade and Development UNDESA United Nations Department	10759
 Trade and Exchange Department	10
 Trade and Exchange Department Compiled Data	10
 Transformation A Deputy Chief of Staff	8371
@@ -1285,8 +1318,9 @@ US State Department's Bureau of African Affairs	6534
 US State Department-administered	4049
 US States Department	5035
 US States Department and Starlink	3251
+US Treasury Department’s Office of Foreign Assets	10793
 Ubungo Municipal Education Department	8884
-United Nations Department of Economic and Social Affairs	2510,8084,120
+United Nations Department of Economic and Social Affairs	2510,8084,120,51,10
 United States Department of State	3972,181,11,38,58,41,1051,1454
 University of Oxford's Department of Computer Science	8529
 University of Pretoria Department of Library Services	8022
@@ -1295,6 +1329,7 @@ VUT's Department of Tourism and Integrated Communication	10082
 Vehicle Inspection Department	8639,755,3
 Virtual Assets Department	8697
 Visitor Departures	2775
+Vulnerable Demographics Dependency	10763
 Water Department Loses Ksh.22 Billion	2428
 Western Cape Department of Health	396
 Western Cape Department of Infrastructure	8564

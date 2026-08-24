@@ -34,6 +34,8 @@ Description Der Verdant Capital Hybrid Fund	692,1
 Developing Telecoms Hytera and CWS	2511
 Development Hybrids	226
 EAU ET ASSAINISSEMENT HYDROCARBURES En	2342
+Eliminations CODM EBITDA Hyperinflation	10793
+Eliminations Hyperinflation	10793
 Entrust and Hyf	4985
 Frogfoot and Hypa	10735
 Full Hygiene	10721
@@ -49,6 +51,7 @@ HMN Tech. Hyperscalers	4676
 HY IS DIGITAL IDENTITY	1939
 HYDROCARBURES	2342
 HYNES	6613
+HYPERINFLATION	10793
 HYPERLINK	3715
 Huawei's HyperBeamforming	8379
 Hyacinth Iormem Alia	2616
@@ -86,7 +89,7 @@ Hydrogéologie	1005
 Hydrologie	1005
 Hydropower	10180
 Hydropower Project. Being	3760
-Hygiene	6903,44,3774
+Hygiene	6903,44,3774,55
 Hygiene Tier	10721
 Hygiene WBG World Bank Group WHR	1867
 Hygiene and Sanitation	1828
@@ -105,7 +108,9 @@ Hyper-converged Infrastructure	1632
 HyperBeamforming	8379
 Hyperautomation	10193
 Hyperia Ltd	3862
-Hyperinflation	40
+Hyperinflation	40,10753
+Hyperinflation CODM EBITDA	10793
+Hyperinflationary	10793
 Hyperinflationary Economies	1154,1897
 Hyperlink	26
 Hyperlinked	8978

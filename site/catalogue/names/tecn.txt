@@ -14,6 +14,7 @@ D.G DE ENSEÑANZA TECNICA Y PROFESIONAL	4209
 D.G. DE INFORMATICA E INNOV. TECNOLOGICA	4209
 D.G. TELECOMU. Y NUEVAS TECN	4209
 DADOS Instituto Nacional de Tecnologias de Informação	2437
+Dependência Primária de Tecnologias	10777
 Desarrollo Sostenible Sistema Tecno-Económico Eje III	1701
 Desenvolvimento de Infra-estruturas Tecnológicas	2816
 Diploma As Tecnologias de Informação	15
@@ -28,7 +29,7 @@ Equipamentos Tecnológicos	794
 Finanças. O Instituto Nacional de Tecnologias de Informação	2784
 Fortalecimento da Infra-estrutura Tecnológica	2816
 Fórum Internacional de Tecnologias de Informação	6617,2
-Gabinete de Tecnologias de Informação	167
+Gabinete de Tecnologias de Informação	167,10586,19
 Governo Quer Ligar Tecnologia	8827
 INSTITUTO NACIONAL DE TECNOLOGIAS DE INFORMACAO	4509
 Images Studio Funk Grupo Ingenium Tecnología	8530
@@ -40,6 +41,7 @@ Instituto Nacional de Tecnologias de Informação	2473,311,32,242,1156,295,1822,
 Instituto Nacional de Tecnologías	3029
 Instituto Tecnológico de Minas	4209
 Inteligência Artificial. Tecnologia. Disponível	2816
+Logística SUBCOMISSÃO DE INFORMÁTICA E TECNOLOGIA	10757
 Modernização Tecnológica	2295
 Moçambique Instituto Nacional de Tecnologias de Informação	2816
 N Neutralidade Tecnológica	2866
@@ -62,6 +64,8 @@ Política de Tecnologias de Informação	4218
 Projeto Infra-estrutura Tecnológica da Rede Electrónica	181,9
 Provedores de Serviços de Internet Rede Tecnológica Privada	6970
 Proyecto de Celebración de Eventos Tecnológicos	4209
+Recursos Humanos Gabinete de Tecnologia de Informação	10766
+Recursos Tecnológicos	10783
 Rede Tecnológica Privativa	3838,2382,144
 Reporte de Incidentes Tecnológicos	5169
 Revista Interface Tecnológica	2816
@@ -84,7 +88,7 @@ TECNOLOGIAS DE INFORMAÇÃO E COMUNICAÇÃO. Artigo	15
 TECNOLOGIES EMERGENTES VOYAGE D'ETUDES Ouaga	998
 TRANSPORTE GENERAL DE DELEGACIÓN NUEVAS TECNOL	4209
 Tecno	10209
-Tecnologia	1265,1208,343,703,1501,552,1323,31,2508,7
+Tecnologia	1265,1208,343,703,1501,552,1323,31,2508,7,1313,23
 Tecnologia EUA	2816
 Tecnologia Ministro	3137,769
 Tecnologia Projecto	6595
@@ -95,12 +99,15 @@ Tecnologia de Macau	6568
 Tecnologia de Maluana	2816
 Tecnologia de Moçambique	2816
 Tecnologia. Com	1265
-Tecnologias	2295,446,75,2163,684,4503
+Tecnologias	2295,446,75,2163,684,4503,611
 Tecnologias Agrárias	1265
 Tecnologias Digitais	9236
+Tecnologias Limpas	10777
+Tecnologias Limpas Dependência	10777
 Tecnologias da Informação	2816,50,1352
 Tecnologias da Informação COGEMO	2816
-Tecnologias de Informação	13,2,415,146,219,397,23,1080,116,23,147,32,88,28,55,32,5,316,382,387,240,1,71,1187,137,412,20,5,1,557,48,10,15,7,23,158,97,31,44,148,122,5,491,209,214,41,343,284,31,22,61,158,137,21,1,436,392,54,26,324,124
+Tecnologias de Informação	13,2,415,146,219,397,23,1080,116,23,147,32,88,28,55,32,5,316,382,387,240,1,71,1187,137,412,20,5,1,557,48,10,15,7,23,158,97,31,44,148,122,5,491,209,214,41,343,284,31,22,61,158,137,21,1,436,392,54,26,324,124,140,18,8
+Tecnologias de Informação da Administração Central	10754
 Tecnologias de Informação. Artigo	167
 Tecnologias de Informação. Matias Borges	1215
 Tecnologias de Informação. Só	2295
@@ -112,7 +119,7 @@ Tecnologias. Disponível	2816
 Tecnología	1701
 Tecnologías	1701,1793,5387
 Tecnologías de Información	1701,2508
-Tecnológica	2816
+Tecnológica	2816,7956
 Telecomunicações Tecnologias de Informação	1192,6053
 TÍTULO II DAS TECNOLOGIAS DE INFORMAÇÃO	15
 TÍTULO II Das Tecnologias de Informação	15
@@ -120,3 +127,4 @@ Unidade Tecnica de Implementacao da ENIF	2138
 Unidade de Investigação Tecnológica	549
 Unidade de Tecnologias	3118
 Universidade de Tecnologia de Troyes	5020
+Uso de Tecnologias	10777

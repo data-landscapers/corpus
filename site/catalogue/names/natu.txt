@@ -1,10 +1,13 @@
 A. Climate Change Related Natural Disasters	1828
 Agriculture and Nature Capital Bond	6213
+Annual Natural Hazard Occurrence	10763
 Areas of Intervention Partner Nature of Involvement	3604
 Blocs de Nature de Sociétés Références	998
 Brazil Natural Persons Register	10714
 Business and Background of Natural Persons	7198
 C. Climate Change Related Natural Disasters	1828
+CONSTRANGIMENTOS DE NATUREZA CONTEXTUAL	10757
+CONSTRANGIMENTOS DE NATUREZA LOGÍSTICA	10757
 Catástrofes Naturales	4209
 Changing Nature of Work. Washington	6832
 Climate Change Related Natural Disasters	1828
@@ -20,6 +23,8 @@ Debt-Investment-Growth and Natural Disasters	1828
 Dominica National Register of Natural Persons	10714
 E-mail Telephone No. Nature of Business Contact	736
 EXPLORAÇÃO DE RECURSOS NATURAIS	2816
+Empresa Pública Natureza Jurídica Sociedade Anónima	10757
+Empresa Pública Natureza Jurídica Sociedade Sociedade	10757
 Energy and Natural Resources	10348
 Environment and Natural	2775
 Environment and Natural Resources	2775
@@ -63,7 +68,7 @@ NRM Natural Resource Management NTFP Non-Timber	970
 National Register of Natural Persons	1927,394,2343,22,276
 National Registry of Natural Persons	10714
 NaturAfrica	643,146
-Natural	789,181,314,530,4,10,39,1695,42,522,1281,676,1121,1325,594
+Natural	789,181,314,530,4,10,39,1695,42,522,1281,676,1121,1325,594,1645
 Natural Disasters	1828
 Natural Disasters Adaptation	1828
 Natural Environment	4126
@@ -86,6 +91,7 @@ Natural Resources and Data Governance	8070
 Natural Sciences	1554
 Natural Sciences Journal	2093
 Naturaleza	163
+Naturalidade	10749
 Naturalization	2115
 Naturally	1647,6848
 Nature	737,25,1115,111,89,1318,1,318,539,1424,2703,563,1769
@@ -97,8 +103,10 @@ Nature des Prévision	2476
 Nature of Business Certificate of Incorp Contact Person	736
 Nature. Accessed	5700
 Naturevolution	8016
-Natureza	13,1,153,1098,1173,1229,480,2315,508
-Natureza Jurídica	2866,1352
+Natureza	13,1,153,1098,1173,1229,480,2315,508,3784
+Natureza Jurí-	10757
+Natureza Jurídica	2866,1352,6539
+Natureza Jurídica Sociedade Sociedade Anónima	10757
 Natureza de Programa	1342
 Natureza de Prova de Vida. A Base de Dados	5204,1
 ONECI's National Register of Natural Persons	4664
@@ -119,10 +127,11 @@ Recursos Naturales	1701
 Registry of Natural Persons	3604
 Ressources Naturelles	4402
 Scope Payment Type Nature of Transactions Payment	6938
-Springer Nature	766,5,490,2530,3487,744,649
-Springer Nature SharedIt	9739
+Springer Nature	766,5,490,2530,3487,744,649,2113
+Springer Nature SharedIt	9739,1045
 Springer Nature Singapore	6948
 Springer Nature Switzerland	2096,422
+Springer Nature Switzerland AG	10780
 Toxicity and Radioactive Nature of E-waste	1988
 Type and Nature	1988
 Urban Nature-Based Solutions	5247

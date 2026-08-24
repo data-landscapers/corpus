@@ -16,6 +16,8 @@ Additional Testing Requirements Software	5665
 Administrative Requirements	573,2588
 Agreements Actually Require Each MOU	5456
 Amendment Procedures and Constitutional Requirements	3861
+Annual PA12b S Revenue Requirements	10779
+Annual Revenue Requirements	10779
 Application Requirements	10407
 Application Requirements Applicants	9198
 Application Requirements Interested	9203
@@ -93,6 +95,7 @@ HEALTH DATA REQUEST FORM	2709
 Hosting Requirement Hosted	10157
 Hosting Requirements	6432
 Hour Data Breach Notification Requirement	6632
+ID Card Request	10765,10
 ID Financing Instrument Resp CC Req	1284
 INSTITUTIONAL CAPACITY REQUIREMENTS	3861
 ITEMS REQUIRED TO BE INCLUDED	3714
@@ -119,8 +122,9 @@ Legal and Regulatory Compliance Requirements NIMC.pdf	4794
 License Application Conditions and Requirements	762
 License Requirement	762
 Licensing Requirements	6940
+Limited Listings Requirements	10793
 Listing Requirements	4896
-Listings Requirements	3714,1182,642,1666
+Listings Requirements	3714,1182,642,1666,3589
 Local Representation Requirement All GCSPs	6432
 Localisation Requirements Regular Legal	6432
 MEMORANDUM OF ASSOCIATION Requirements	3714
@@ -145,9 +149,11 @@ Non-Consulting Services Requirements	1638
 Non-Functional Requirements	5665
 Normalise structure XML Require	8606
 Notificação de Incidentes SECÇÃO I Requisitos	6970
+November. Requirements	10775
 Now Requires Government ID From Users	3016
 OBRIGAÇÕES E REQUISITOS A OBSERVAR PELOS	3519
 ONGOING REQUIREMENTS	6432
+OUTROS REQUISITOS	10755
 Obtain the Installation Request	34
 Occupational Health and Safety Requirements	1988
 Operational Requirements. Each RIR	3503
@@ -176,6 +182,7 @@ Qualification Criteria and Requirements	1638
 REGULATORY REQUIREMENTS OF ARTIFICIAL INTELLIGENCE	3651
 REPORTING REQUIREMENTS AND TIMELINES FOR EXPECTED	3678
 REQUEST	2709
+REQUEST ANALYSIS	10775
 REQUEST Dr. Peter Ndegwa	7204
 REQUEST FOR EXPRESSION OF INTEREST REQUEST	962
 REQUEST FOR EXPRESSIONS OF INTEREST	9603,1
@@ -208,7 +215,7 @@ Reporting and Oversight Requirements	3861
 Reporting and Oversight Requirements Entities	3861
 Requerimento	794
 Requerir	163
-Request	34,202,351,1241,167,1892,547,427,932,630,9,2702,140,356,106,157
+Request	34,202,351,1241,167,1892,547,427,932,630,9,2702,140,356,106,157,875,7
 Request Form Portals Complaints Portal Voice	9109
 Request for Applications	7368,33,1143,38
 Request for Comments	991
@@ -243,7 +250,7 @@ Requirement	11,725,1741,1237
 Requirement Analysis	5665
 Requirement Requirement Level	5244
 Requirement Service Description Tariffs and Charges Contract	5676
-Requirements	28,708,478,29,534,47,850,930,47,34,29,147,184,2010,159,209,9,107,999,10,1575,507,527,213,246,93
+Requirements	28,708,478,29,534,47,850,930,47,34,29,147,184,2010,159,209,9,107,999,10,1575,507,527,213,246,93,56
 Requirements All	5665
 Requirements Concerning Offering of Securities	3714
 Requirements Definition	9237
@@ -257,15 +264,17 @@ Requirements for Startup Survival	226
 Requirements for Type Approval	736
 Requirementsforlocalclinicalval-	8301
 Requires	961,2900,1804,767,1810,882
-Requiring	961,282,3285,835,2108
+Requiring	961,282,3285,835,2108,3304
 Requiring RIRs	3502
 Requisite Regulatory Approvals	7198
-Requisitos	14,525,255,1644,2731,1801
+Requisitos	14,525,255,1644,2731,1801,3785,20
 Requisitos Especiais	3519
+Requisitos Gerais	10755
 Requisitos Técnicos Mínimos	794
 Requisitos Técnicos de Transmissão	794
 Requisitos de Acesso	3519
 Requisitos de Admissão	6462
+Requisitos de Informação	10755
 Requisitos de Segurança	6970
 Requisição de Serviço Técnico Especializado	549
 Residency Requirements Mandatory	6432
@@ -297,6 +306,7 @@ Support Requested	8999
 Support Requested Support Requested	8999
 TEL NO. REQUEST DETAILS	2709
 TEL NO. REQUISITE DOCUMENTS	2709
+TRANSPARÊNCIA DAS CONDIÇÕES E DOS REQUISITOS	10755
 TYPE REQUESTED	34
 Technical Minimum Require-	6946
 Technical Specific Performance Requirements	6432

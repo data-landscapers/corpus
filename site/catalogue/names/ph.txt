@@ -148,6 +148,7 @@ Economic Interest Group of Pharmacists of Burkina Faso	2985
 Electronic Pharmaceutical Management Information System	4349
 Emerging Partners Physical Planning	7548
 Energy Physical Supply and Use Tables	2775
+Enhanced PHC-Based Interventions	10776
 Environmental and Pharmaceutical Waste Management	9855
 Eswatini. Ms Phumzile Nhleko Centre for Financial	418
 Ethiopia and PhilSys	6668
@@ -180,6 +181,7 @@ Giga Global School Connectivity Initiative Phase	502
 Giga Phase	953
 Good Financial Governance Phase	1462
 Good Pharmacy Practice	9855
+Good Pharmacy Practices	10776
 Goodlife Pharmacy Africa	145
 Goodlife Pharmacy Kenya	145
 Government Infrastructure Phase II	6623
@@ -195,6 +197,7 @@ Health Impact PHC Primary Healthcare	396
 Healthcare and Pharma	9204,332
 Healthcare and Pharmacy	9430
 Healthcare and Pharmacy. The Conference	9420
+Hepatitis PHC	10776
 HerDigitalFuture Phase Il	9781
 High-Energy Physics	5246
 Hon. Ben Phiri	8667
@@ -369,6 +372,8 @@ PHC Patient Identifier Cross-reference for Mobile PIX	1009
 PHC Pillar	1009
 PHC Primary Health Care RHIS Routine	771
 PHC Software	2816
+PHC-based HIV	10776
+PHCbased	10776
 PHEM Information System	4349
 PHG Foundation Africa	10067
 PHH.0000000000000069	8376
@@ -407,6 +412,7 @@ PharmAccess	186,647
 Pharma	7297,2239
 Pharmaceutical	1988,1873,3590,2509
 Pharmaceutical Ingredients for Africa	9333
+Pharmaceutical Policy	10776
 Pharmaceutical Society of Kenya	9855
 Pharmaceuticals	2775
 Pharmaceuticals Regulatory Systems	4349
@@ -420,7 +426,7 @@ Pharmacists Year	4202
 Pharmacists Year U.S. Government	4217
 Pharmacists and Dentists Union	2512
 Pharmacology	8301
-Pharmacovigilance	9855
+Pharmacovigilance	9855,921
 Pharmacovigilance Committee	7845
 Pharmacovigilance and Post-Market Surveillance	9855
 Pharmacv WorkersI Year U.S. Government Federal	4301
@@ -562,8 +568,10 @@ Philippine Identification System	10714
 Philippine Statistic Authority. Uh	6985
 Philippine Statistical Authority	6985
 Philippine Statistics Authority	6985
-Philippines	290,321,608,1228,211,62,55,172,35,838,268,170,17,155,245,1,772,464,112,326,21,128,44,70,55,24,157,50,86,23,56,1,46,32,1428,93,327,654,64,642,72,220,71,12
+Philippines	290,321,608,1228,211,62,55,172,35,838,268,170,17,155,245,1,772,464,112,326,21,128,44,70,55,24,157,50,86,23,56,1,46,32,1428,93,327,654,64,642,72,220,71,12,59
 Philippines Ericsson	2511
+Philippines Global Cybersecurity Index	10764
+Philippines Poland Romania Russian Federation Slovakia	10764
 Philippines Statistical Authority	6985
 Philippines Thailand	2775
 Philippines and Bahrain	4686
@@ -581,7 +589,7 @@ Phillipi	8999
 Phillipi SuperSpar Eeesteriver Superspar Khayelitsha Pick	8999
 Phillips	4432,3223,950,1134
 Phillips Consulting	5321
-Phillips J	766
+Phillips J	766,10014
 Phillips and Barker	8605
 Phillips&volume	766
 Philomena Mwilu and Justices Lenaola	9645
@@ -615,7 +623,7 @@ PhonePe and Google Pay	7468
 Phones	34,2742,2039,1948,183,2601,543
 Photocopying	7317
 Photocopying Ghana Card	7317
-Photograph	5162,1975,1454,190,469,1284
+Photograph	5162,1975,1454,190,469,1284,241
 Photographic	582
 Photographs	8713,151
 Photonics	9629
@@ -638,7 +646,7 @@ Phyllis	5875
 Phyllis BiroriJohannesburg	3697,1687,800
 Phyllis Kyomuhendo	5875
 Phyllis Wakiaga	9930
-Physical	21,715,487,591,174,3677,14,21,563,803,405,77,1425,10,140,939,533,126
+Physical	21,715,487,591,174,3677,14,21,563,803,405,77,1425,10,140,939,533,126,54,1
 Physical Access Management	10721
 Physical Address	736,1141
 Physical Address Telephone No. Contact Person	736
@@ -729,6 +737,7 @@ Revenu des Personnes Physiques IS Impôt	10712
 Risk Management and Mitigation Strategies The Philosophy	4528
 Robert Phiri	10111
 Rockefeller Philanthropy Advisors	71,3,56,10,129,101,114,1,382
+Role-modelling Bhutan China Brunei Darussalam Philippines	10764
 Rwanda Phone	9892,1
 SA Connect Phase	1289,324,197,1092,712,1594
 SGCI Phase II	1554

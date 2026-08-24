@@ -1,11 +1,13 @@
 AI Readiness Assessment Methodology	4126,402
 AI-ASSISTED METHODOLOGY	5599
 APPROACH AND METHODOLOGY	236
+ASPECTOS ORGANIZACIONAIS E METODOLÓGICOS	10757
 Access Method and Physical Layer Specifications. Amendment	3604
 Advanced Metering Infrastructure	1413,157,423,4407,2028
 Afrobarometer Working Papers Methodology Data	7886
+Agricultural Development IHME Institute for Health Metrics	10759
 Alexis METON	3452
-Anna Metz	10714
+Anna Metz	10714,61
 Annex D. Estimation Method	10714
 Anthropic and OpenAI and Google Meta	9284
 Anthropic’s Claude and Meta’s Llama	8216
@@ -23,7 +25,9 @@ C. Methodology	3583
 C. Methodology Standards	3583
 C2- Methodology	7548
 CLASSIFICATION DECISION MATRIX Calculation Method	5665
+CPN. Metade	10760
 Cape Metropolitan Council	6683
+Cartão de Eleitor. VI. METODOLOGIA	10772
 Catedral Metropolitana	4209
 Challenges Google and Meta	3962
 Chapter 3 - Research Methodology and Research Method. Haikal	7278
@@ -64,6 +68,7 @@ Europeana Metis Sandbox	8341
 Evaluation Methodology and Criteria	3700
 Evaluation Methods	5349
 ExpressRoute Metro	7467
+FAS-IDL Methodology for Data Collection FAS-IDL	10768
 Facebook Meta	1622
 Facilitating Open Methods	5246
 Financial Service MGR Meter Gauge Railway	2775
@@ -71,6 +76,7 @@ Findings Concluding Comments Survey Methodology	7869
 Fodé Dieme Director of Methodology	6963
 Form for Data Capture Remove Metadata and Documents	1009
 Freque Responsibili Paramet Methodolog Responsibili Impacts	1988
+GTMI Methodology	10785
 Gbps Meta	10037
 Ghana APPROACH AND METHODOLOGY	236
 Ghana Meteorological Agency	2714,5656,2214
@@ -87,6 +93,7 @@ Health Services and Outcomes Research Methodology	8605
 Hendrick Metsileng	396
 ID4D GLOBAL COVERAGE ESTIMATES AND METHODOLOGY	10714
 ID4D Global Coverage Estimates and Methodology	10714
+INTRODUÇÃO E METODOLOGIA DO INQUÉRITO	10777
 IP Core and Metro	5444
 ISPs Methodology for Data Collection Data	3604
 ITU Methodology for Data Collection Data	3604
@@ -95,7 +102,7 @@ India Meteorological Department	4300
 Industrial and Legal Metrology	1988
 Infectious Disease Outbreak Response Metrics	4153,14,35,15,43,41,48,1003
 Institute for Health Metrics and Evaluation	6171,2720
-Instituto Nacional de Meteorologia	13
+Instituto Nacional de Meteorologia	13,10755
 Instituto Nacional de Meteorología	1701
 Int J Qual Methods	9739
 Integrated METHODOLOGY Public Security Centre	9399
@@ -114,6 +121,8 @@ Kampala and Metropolitan Affairs Minister Hajjat Minsa	9900
 Kenya Methodist University	6946
 Kleinauskaite. Meta	1741
 Kuwait Launch Lebanon License MENA Meta	5322
+Kwenda MIS Methodology for Data Collection FAS-IDL	10768
+Kwenda MIS Methodology for Data FAS-IDL	10768
 Labour Digital Skill Development Methodology Programme	4359
 Large Language Model Meta AI	2816
 Law Reform Commission KMD Kenya Meteorological	7548
@@ -127,13 +136,15 @@ Liquefied Petroleum Gas Smart Meters of HS	6921
 London Metal Exchange	10078
 London Metro	6832
 M Metrics	3972
+MASFAMU Methodology for Data MASFAMU	10768
 MDAs Methodology for Data Collection Data	3604
 MDAs. Methodology for Data Collection	3604
 MEPS and METFPA. Author	2966
 MET Computerisation	1668,977,2998
+METAINFORMAÇÃO	10766
 METFPA	2966,638
 METHODOLOGICAL PROCEDURES	8604
-METHODOLOGY	10,572,1406,2138,757,3719
+METHODOLOGY	10,572,1406,2138,757,3719,2178
 METHODOLOGY Ghana’s National AI Strategy	4126
 METHODOLOGY Review	1988
 METHODOLOGY The African Tech Startups Funding	4883
@@ -143,10 +154,12 @@ METISS	3292
 METIX	5406,409,2188
 METIX Instant Payment System	5406
 METIX The Bank of Mozambique	5406
+METOD RADA	10780
 METSOLA For the Council The President T	7855
 MPSAM and ONECI Methodology for Data Collection Data	3604
 MTND Methodology for Data Collection Biennial	3604
 MTND Methodology for Data Collection Data	3604
+Mapa de Angola INTRODUÇÃO E METODOLOGIA	10777
 Mapping Methodology Framework for Mutual Aid Groups	6947
 March-2026 Methodology Report	6937
 March. With METIX	5815
@@ -200,6 +213,7 @@ Metabolism and Genetics Screening Unit	10188
 Metadata	1009,2852,353,920,110,2304
 Metadata Fields	3861
 Metadata Guide	4098
+Metade	10777
 Metal	1988,7135
 Metallic	9123
 Metallurgical Industry	1154
@@ -226,6 +240,7 @@ Meteorological Services	5643
 Meteorological Services Department	520
 Meteorological Services P3	1668
 Meteorological and Water Affairs Departments	7030
+Meteorology and Geophysics Inter-tropical Convergence Zone	10763
 Meteorología	1701
 Meteorología Directrices	1701
 Meteorología OMS	1701
@@ -246,7 +261,7 @@ Methodological Guide	8532
 Methodological Soundness	2775
 Methodologically	7759,207
 MethodologicalstudiesonXML-baseddatabasemodelling	8606
-Methodology	236,663,362,102,522,103,105,581,274,110,1072,229,73,7,89,35,1115,1,729,55,473,1,214,70,1,56,270,321,85,67,1,279,75,60,176,516,1,108,162,217,353
+Methodology	236,663,362,102,522,103,105,581,274,110,1072,229,73,7,89,35,1115,1,729,55,473,1,214,70,1,56,270,321,85,67,1,279,75,60,176,516,1,108,162,217,353,795,1,10
 Methodology Business Process Used	9124
 Methodology Data	6565
 Methodology Data Collection	899
@@ -256,14 +271,18 @@ Methodology For the Zambia Refugees and Host Communities	1778
 Methodology Overview Fieldwork Dates	7869
 Methodology QoS	5744
 Methodology Roundtable	1200
+Methodology Scope	10764
 Methodology The ARN	5679
 Methodology The DPI Map	7222
+Methodology The ID4D	10765,10
 Methodology and Approach	6832
 Methodology for Assessing Procurement	9399
 Methodology for Assessing Procurement Systems	9399
+Methodology for Data	10768
 Methodology for Data Agriculture	1867
 Methodology for Data Attendance	1867
 Methodology for Data Biannual	1867
+Methodology for Data Collection	10768
 Methodology for Data Collection ARTCI	3604
 Methodology for Data Collection Data	3604
 Methodology for Data Data	1867
@@ -277,7 +296,7 @@ Methodology-Equal	8436
 Methodology-Lead	8436
 Methodology-Supporting	8436
 Methodology. Tortoise Media	2816
-Methods	585,181,446,7,42,425,92,46,4,160,108,1695,641,917,1585,14,1073,650,195,873,982
+Methods	585,181,446,7,42,425,92,46,4,160,108,1695,641,917,1585,14,1073,650,195,873,982,63
 Methods Five LIC and LMICs	771
 Methods In Cambodia	771
 Methods Phenomenological	1219
@@ -290,12 +309,16 @@ Metier	716
 Metier Capital Growth Fund III. EM-Three	10735
 Metier PE	716
 Metix	8407
-Metodologia	4040,1623
+Metodista	10777
+Metodologia	4040,1623,5103,17
 Metodologia da AQD	2228
+Metodologia de Acompanhamento	10783
 Metodologia de Avaliação da Prontidão RAM	2816
 Metodologia de Avaliação de Prontidão	6926
 Metodologia de Avaliação de Prontidão de IA da UNESCO	2816
 Metodologia de Avaliação de Risco	6895
+Metodologia de Hierarquização	10783
+Metodologia de Preparação	10783
 Metre	2775
 Metre Gauge Railway	2775
 Metre Gauge Railway Traffic	2775
@@ -354,6 +377,7 @@ Namibia AI Readiness Assessment Methodology	5036
 National Commission for Electronic Payment Methods	6204
 National Immunization Program. Method	8376
 National Institute of Meteorology	10219
+National Institute of Meteorology and Geophysics	10763,5
 National Meteorological Service Modernization Phase	2242
 National Meteorological Service Modernization Project	2305
 Natl Cent Res Methods Rev Pap	1219
@@ -378,6 +402,7 @@ Overberg West Coast Metros Metros Boland	8999
 PCU Methodology for Data Collection Data	3604
 PDO Indicators Mapped Methodology for Data Responsibility	1284
 PERFORMANCE METRICS AND GOVERNANCE MATURITY INDICATORS	3861
+PI Methodology for Data Collection	10768
 PROPOSED METHOD FOR STANDARDISING AND INTEGRATING	8606
 Performance Metncs	3972
 Performance Metrics	3972,2460
@@ -430,6 +455,7 @@ Safety Metrics	4528
 Sage Research Methods	2093
 Salaam Metropolitan Network	9149
 San Diego. Meta	9659
+Santos Fatima Lourenço SUBCOMISSÃO DE METODOLOGIA	10757
 Scope and Methodology	8301,1098
 Selection Rule Child Metric Findex	10714
 Seychelles Meteorological Authority	10348
@@ -452,6 +478,7 @@ Technecultura Meta	10727
 Technology MMDAs Metropolitan	4126
 Template and Methodology	3861
 Traditional Methods of Conflict Management and Resolutions	1248
+Training and Methodologies	10776
 Trilogy Metals	4447
 UAB Meeple S.r.l. Delirio AI Meta	8530
 UNESCO AI Readiness Assessment Methodology and Nigeria	9511

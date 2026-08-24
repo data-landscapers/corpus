@@ -1,5 +1,6 @@
 AIDS and TB	771
 Achèvement TBFS	737
+Angola TB	10784
 Annual TB	4301
 Bill of Quantities TBA	1988
 CIDRZ Hosts Uganda’s R2D2 TB Network	10374
@@ -12,6 +13,10 @@ Data Storage TBA TBA	1988
 Desktops TBA	1988
 Document Scanners TBA TBA	1988
 Drivers Licence ZRCP TBA	1988
+EFFICACY TBL OBJECTIVE	10779
+Ensino Secundário Geral Província TBE	10766
+Ensino Secundário Província TBE	10766
+Ensino Secundário TécnicoProfissional Província TBE	10766
 Entry-level Printers TBA	1988
 Expenditure Framework NCDs Non-Communicable Diseases TB	396
 Global TB	4301
@@ -21,6 +26,7 @@ Heart of Health Management TBI	7764
 I Can End TB	2626
 I TBnodRed	4301
 II. TB	4260
+Improving TB	10784
 KoN and TB	771
 Label of ZRCP TBA	1988
 Laboratory Commodity TB Lab Commodities HIV	4217
@@ -28,19 +34,28 @@ Le TBFS	737
 Material Specifications ZRCP TBA and Cost	1988
 Mid-range Printers TBA TBA	1988
 Mozambique. HIV and TB	771
+NSP TB	10776
+National TB	10784
 Network Equipment for Data Center TBA TBA	1988
 OHS TBD	4260
 Outcomes RESULT FRAME TBL PD O Indicator Name	1284
 Outcomes RESULT FRAME TBL PDO Indicator Name PBC Baseline	1228
+P168336 TBL Country Angola Operation ID P168336	10779
+P169983 TBL Country Angola Operation ID P169983	10779
 Planification Economique ADD FIN TBL1	1284
+Policy Areas EVOBJ TBL Page	10779
 QC QMS RTCQI SHA STI TB	4153
 Quantity of ZRCP TBA	1988
 RESULT FRAME TBL IO Indicator Name PBC Baseline	1284
 RESULT FRAME TBL IO Indicator Name PBC Baseline Intermediate	1228
+RGPH SEN SFP SIGE SPE TBA	10766
+RT Mupita7 TBL Molefe7	10793
+RV SIDA SRO TBF TBN TCA	10777
 RW7L0KQSP UGBpW7gwDsF TbcvEgS	4583
 Reaching TB	4260
 Road Safety ZRCP TBA	1988
 S-Annual TB	4301
+Sexually Transmitted Infections TB	10776
 Soum le TBS	737
 South Africa's National TB Prevalence Survey	8301
 Stop TB Partnership	2816
@@ -49,9 +64,13 @@ TB Backup	9475
 TB Campaign	8301
 TB Commodity	4301
 TB Deaths	4167,50,1135
+TB Dispensaries	10784
+TB EMR	10784
 TB Elimination Acceleration Program	4260
 TB Elimination Acceleration The Government of Mozambique	4260
 TB Hack Claim Secondary	5146
+TB Modelling Working Group	10784
+TB National Strategic Plan	10776
 TB SAS Drive Primary Communication	9475
 TB SATA Drive Storage	9475
 TB SSD	8289
@@ -75,9 +94,12 @@ TBD Health	970
 TBD IE	970
 TBD Social Recovery and Human Development	970
 TBD Tax-to-GDP	789
+TBE TC TLE TT ZIPs Gabinetes	10766
 TBI Country Director	4046
 TBI Country Director Maria Mkandawire	4046
 TBI and UNDP	4046
+TBL Molefe	10793
+TBL OLD Overall Achievement of Objectives	10779
 TBMPE	2966
 TBS Filles	2966
 TBS. Under	5116

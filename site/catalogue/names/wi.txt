@@ -228,7 +228,7 @@ Fixed Wired	3862
 Fixed Wired Internet Market Lags	7110
 Fixed Wired Internet Subscriptions	3862
 Fixed Wireless	3862,2809
-Fixed Wireless Access	2528,2808,339,325
+Fixed Wireless Access	2528,2808,339,325,4793
 Fixed Wireless Access GB	6000
 Fixed Wireless Access Subscriptions	6000
 Fixed Wireless Access System	736
@@ -298,6 +298,7 @@ IDA20 Window for Host Communities and Refugees	1778,1917
 IDs. Bankunda Winifred	7772
 IEEE Wireless Communications	8130
 IFC SSA WIOCC	1520
+IFRs. Withdrawal	10768
 ILLEGIBLE COPY. NO FUTURE QUERIES WILL	1009
 Igbintade Wireless Application Service Providers Association	7776
 Inside President William Ruto	2666,4130
@@ -346,6 +347,7 @@ Lara Simone Beirão Guadalupe. William Salvaterra	2974
 Le Wifi	6497
 Leader of Team Wiadze	8384
 Legal and Regulatory Framework Within	718
+Luanda WILSON CLÁUDIO GOMES DA ROSA	10751
 M. Willy Mulamba	9822
 MATUMIZI YA WIZARA YA MAWASILIANO NA	6019
 MD of World Wide Worx	9921
@@ -376,6 +378,7 @@ Market Presence Without	6467
 Mascom Wireless	2916,2466,1398
 Matthew Willcox FAITS MARQUANTS Adm MPPEEP	2342
 Matthew Wilson	3658,2617,145
+Matthias-Sönke Witt	10765,10
 Mauritania’s Win Services and Oman’s Al Anqa	8592
 Mauritius Single Window	5993
 Mavetera. The Wi-Fi	5727
@@ -456,6 +459,7 @@ Patience Makwele The City of Windhoek	6676
 Pattern of Participation Without Accountability	3874
 Pauline Kuresoi and Wilson Teketi	6946
 Payoneer and Wise	10319
+Planning Ahead Will Make	10763
 Political Will	5349
 Possible Candidate William Ruto Edwin Sifuna	7869
 Potential Data Winter	3810
@@ -503,7 +507,7 @@ Regulations Within	7548
 Regulatory Window	4848,80
 Renting Without Surrendering	9119
 Reporters Without	5215
-Reporters Without Borders	9082,597
+Reporters Without Borders	9082,597,1080
 Research Symposium Zimbabwe Parks and Wildlife Management	1554
 Revolution That Will Transform	6832
 Roger Williams University	3398
@@ -537,9 +541,12 @@ Sefwi Wiawso	7368
 Sheridan and Wickens2000	8283
 Single Regulatory Window	4848,63,17
 Single Regulatory Window and Smart Licensing Gateway	4848
-Single Window	9361
+Single Window	9361,1414,10
+Single Window I-23 Social Ins	10785
 Single Window Support	1834
 Single Window for Foreign Trade. Tradepost	4149
+Single Window for Remote Delivery of Public Services	10765,10
+Single Window. Noteworthy	10785
 Siruai Wind and Storage	9635
 Skysenx Wireless Networks Ltd	3862
 Smart Wifi	260,40
@@ -586,6 +593,7 @@ Telecommunications and Digital Technologies. Within	9756
 Tensions Within Kenya’s Framework	5550
 Terrestrial Wireless	6671,275
 TikTok. Internet Without Borders	8095
+Tito Vicente S. Joaquim Winner	10776
 Today’s Project Management Tasks Will	2816
 Tom Wilson and Michelle Conlin	4127
 Too Much Wifi	1418
@@ -629,9 +637,12 @@ Vitel Wireless	10537
 Vodafone and WIOCC	1643
 Vote Will Be Fought	7445
 Vuukle Quiz Widget	4791
+W. Wiseman. and T. Robertson	10768
 WAN Wide Area Network WRC World	6946
 WIA Supported Media Size Details ADF	34
 WICE and NITDA	9576
+WID.World	10759
+WID.World World Inequality Database WJP World	10759
 WIL Design	6832
 WIL Establish	6832
 WIL Scale	6832
@@ -678,7 +689,7 @@ Weather Widget	4706
 Whistle Blowers and Witness Protection Bill	8681
 Wi Fi	5245
 Wi-Best GH Limited	3386
-Wi-Fi	406,312,44,48,151,189,69,17,53,358,163,184,3,408,138,45,228,51,1,34,160,10,171,21,11,111,11,7,85,294,107,14,18,32,604,61,66,365,160,85,400,32,66,136,7,1,78,66,52,190,42,132,42,110,72,113,112,187,18,216,69,291,227,71,210,175,314,117,54,21,115,365,122,10,390,18,111,103,315,121,64,18,53,21
+Wi-Fi	406,312,44,48,151,189,69,17,53,358,163,184,3,408,138,45,228,51,1,34,160,10,171,21,11,111,11,7,85,294,107,14,18,32,604,61,66,365,160,85,400,32,66,136,7,1,78,66,52,190,42,132,42,110,72,113,112,187,18,216,69,291,227,71,210,175,314,117,54,21,115,365,122,10,390,18,111,103,315,121,64,18,53,21,51
 Wi-Fi Calling	2528
 Wi-Fi Hotspots	1236
 Wi-Fi Internet	6230
@@ -813,10 +824,11 @@ William Ruto	3748,2017,396,358,3523
 William Ruto Edwin Sifuna Fred Matiang’i	7869
 William W. Popp U.S. Ambassador	4217
 William and Flora Hewlett Foundation	5480,2406
-Williams	7278,481,847,1875,156
+Williams	7278,481,847,1875,156,147
 Williams Ampomah E. Darlas	3567
 Williams Ampomah Emmanuel Darlas	7317,52,997
 Williams Darlas	2689
+Williams KA	10780
 Williams Olusegun	7395
 Williams RD	5242
 Williams RD Beyond Huawei and TikTok	5242
@@ -886,6 +898,7 @@ Windows Service	10617
 Windows XP	34
 Windows&amp	5072
 Windows-based	7988
+Windows. Para	10777
 Winfred	6948
 Wing Wah	2738,712,6778
 Wing Wah Exploration	2738
@@ -921,9 +934,10 @@ Winning the AI Race	5257
 Winning the Race	5216,5311
 Winrock Nigeria Ltd	3862
 Winseck	3782,894
-Winston Oyadomari	6709,1334
+Winsemius	10763
+Winston Oyadomari	6709,1334,2721
 Winston Qiu	2677
-Winter	2093
+Winter	2093,8687
 Wiocc	5161
 Wiocc Group	5161
 Wiper	7869,53
@@ -997,12 +1011,16 @@ Withholding VAT	10419
 Within	7,4,15,210,144,16,322,44,137,59,3,48,239,530,89,121,108,21,154,15,521,4,19,128,646,110,77,70,266,26,14,35,15,43,41,48,70,11,17,229,211,85,141,11,13,107,1,2,105,11,6,56,230,21,3,114,90,37,172,144,196,17,230,26,43,72,118,8,1,149,355,97,48,163,127,60,20,56,115,6,636,85,52,11,18,152,4,23,4,61,33,15,162,67,42,27,10,71,6,7,110,116,114,46,73,130,95,283,13,95
 Within Africa	1243,3729,1974,602
 Within BCX	8785
+Within Connectivity	10793
 Within Consumer Discretionary	4972
 Within DPI	6668
+Within Digital Infrastructure	10793
 Within EMDEs	6946
+Within Fintech	10793
 Within HDAs	9123
 Within INSIGHT’s Secure Research Environment	7313
 Within Liberia	5244
+Within MINJUSDH	10765,10
 Within NICTBB	1122
 Within Namibia	5036
 Within ODM	7922
@@ -1010,6 +1028,8 @@ Within ST Engineering	5528
 Within Shambko Apps Group	10001
 Within Ugandan	8352
 Within the African	8747
+Within the African Union	10765,10
+Within the DNIRN	10775
 Within the Digital Malawi Acceleration Project. Local-govt	5312
 Within the ECOWAS	1264
 Within the EU	8436
@@ -1025,7 +1045,7 @@ Withinsuchcon-	8602
 WithintheAfricancontext	8602
 Withinthisframework	8606
 Withinthisimplementationdiscourse	8602
-Without	3,7,1,15,1,1,405,138,14,2,149,26,137,41,21,11,256,15,41,49,30,267,46,101,110,39,3,378,32,120,163,56,7,2,136,3,122,33,70,52,30,64,25,101,43,19,6,44,35,84,29,21,73,37,17,7,38,94,17,82,10,66,57,25,96,145,56,2,6,7,116,70,11,32,6,16,24,9,45,26,13,18,7,21,10,33,74,63,8,9,34,118,13,52,15,40,68,79,5,23,31,5,11,6,1,55,59,12,145,89,22,14,28,47,14,16,2,1,33,19,25,20,34,19,14,14,18,35,8,39,19,3,10,22,26,64,57,5,20,18,16,10,48,16,1,21,1,15,3,13,28,24,20,39,66,37,1,12,107,57,39,22,9,38,22,36,235,25,10,12,13,17,6,13,35,87,18,1,1,27,12,37,9,9,10,5,61,31,3,10,1,17,22,16,29,24,15,1,1,92,65,27,5,21,19,14,104,20,14,11,114,1,30,82,5,7,45,29,45,25,121,28,89,15,1,3,120,196,13,53,2,82,23,4,2,84,17,40,10,25,38,23,25,6,28,16,7,10,22,46,57,1,15,9,3,32,4,11,8,2,31,82,43,27,120,48,13,5,2,27,9,33,4,30,73,10,4,1,8
+Without	3,7,1,15,1,1,405,138,14,2,149,26,137,41,21,11,256,15,41,49,30,267,46,101,110,39,3,378,32,120,163,56,7,2,136,3,122,33,70,52,30,64,25,101,43,19,6,44,35,84,29,21,73,37,17,7,38,94,17,82,10,66,57,25,96,145,56,2,6,7,116,70,11,32,6,16,24,9,45,26,13,18,7,21,10,33,74,63,8,9,34,118,13,52,15,40,68,79,5,23,31,5,11,6,1,55,59,12,145,89,22,14,28,47,14,16,2,1,33,19,25,20,34,19,14,14,18,35,8,39,19,3,10,22,26,64,57,5,20,18,16,10,48,16,1,21,1,15,3,13,28,24,20,39,66,37,1,12,107,57,39,22,9,38,22,36,235,25,10,12,13,17,6,13,35,87,18,1,1,27,12,37,9,9,10,5,61,31,3,10,1,17,22,16,29,24,15,1,1,92,65,27,5,21,19,14,104,20,14,11,114,1,30,82,5,7,45,29,45,25,121,28,89,15,1,3,120,196,13,53,2,82,23,4,2,84,17,40,10,25,38,23,25,6,28,16,7,10,22,46,57,1,15,9,3,32,4,11,8,2,31,82,43,27,120,48,13,5,2,27,9,33,4,30,73,10,4,1,8,36,1,4,7,4
 Without IDs	10714
 Without Moniepoint	10165
 Without Prequalification	7951

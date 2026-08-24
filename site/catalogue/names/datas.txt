@@ -3,7 +3,7 @@ CONTENTS DATASHEET	969,295,603
 Consulta Pública Datas	3118
 DATASET	6470,95
 DATASHEET	3562
-DATASHEET BASIC INFORMATION Project Operation Name	1867,1737
+DATASHEET BASIC INFORMATION Project Operation Name	1867,1737,7164
 DATASHEET The Project Development	969
 DataScientia	2816
 DataSovereignty	7027
@@ -28,13 +28,13 @@ Fidelity TABLE OF CONTENTS DATASHEET	6539
 IATI Datastore	91,57,1007,1084,1
 IATI Datastore API	6982
 ID4D GLOBAL DATASET	10714
-ID4D Global Dataset	10714
+ID4D Global Dataset	10714,61
 National Agricultural Dataset and National Health	4528
 National Foundational Datasets	4528
 Paul Ndungutse DATASHEET BASIC INFORMATION Project	3562
 Records Dataset	4528
 Standard for Government Datasets	3861
-TABLE OF CONTENTS DATASHEET	3604
+TABLE OF CONTENTS DATASHEET	3604,7164
 Testing Dataset	4528
 Training Dataset	4528
 World Bank's Identification for Development Dataset	4807

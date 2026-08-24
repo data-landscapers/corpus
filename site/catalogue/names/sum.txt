@@ -118,7 +118,7 @@ ENTREPRENEURSHIP SUMMIT-	2339
 ES NOTE TABLE III. SUMMARY	1228
 EU Summit	2626
 EXEC SUMMARY	5618
-EXECUTIVE SUMMARY	236,482,222,60,9,152,779,48,1063,1075,846,1460,506,610,1851
+EXECUTIVE SUMMARY	236,482,222,60,9,152,779,48,1063,1075,846,1460,506,610,1851,1366
 EXECUTIVE SUMMARY African	6938
 EXECUTIVE SUMMARY Agriculture	520
 EXECUTIVE SUMMARY Artificial Intelligence	7548
@@ -132,9 +132,11 @@ EXECUTIVE SUMMARY The Environmental and Social Management	1988
 EXECUTIVE SUMMARY The FSCA	8354
 EXECUTIVE SUMMARY The Government of Sierra Leone	1161
 Ellen Summey	6048,979
+Environment and Social Review Summary	10768
 Environmental and Social Review Summary	1260,30,4330,1736
-Executive Summary	395,184,3,317,358,106,234,633,828,799,2,669,55,389,160,112,2,1,533,271,375,16,448,57,18,186,2877,690
+Executive Summary	395,184,3,317,358,106,234,633,828,799,2,669,55,389,160,112,2,1,533,271,375,16,448,57,18,186,2877,690,45,12,1
 Executive Summary Africa	3859
+Executive Summary Angola	10763
 Executive Summary Artificial	1814
 Executive Summary Artiﬁcial Intelligence	1204
 Executive Summary Executive	23
@@ -215,8 +217,8 @@ ITWeb Security Summit	5806
 ITWeb Security Summit Cape Town	5806
 IV. APPRAISAL SUMMARY	1284,1605
 IV. APPRAISAL SUMMARY A. Technical and Economic	1284
-IV. PROJECT APPRAISAL SUMMARY	969,295,603,1737,2935
-IV. PROJECT APPRAISAL SUMMARY A. Technical	1264,2340,2935
+IV. PROJECT APPRAISAL SUMMARY	969,295,603,1737,2935,4229
+IV. PROJECT APPRAISAL SUMMARY A. Technical	1264,2340,2935,4229
 IV. PROJECT APPRAISAL SUMMARY Page	1867
 Implementation Plan Summary	1204
 Implementing World Summit	5822
@@ -315,7 +317,7 @@ Programa de Suministros de Material Didáctico	4209
 Programme I. Summary EBRD	1818
 Project Summary	3430
 Project's Appraisal Environmental and Social Review Summary	3562
-Project’s Appraisal Environmental and Social Review Summary	1284,583,1737,2935
+Project’s Appraisal Environmental and Social Review Summary	1284,583,1737,2935,4229
 Public Info Summary	461,1,160,1
 Public Summary of Training Content for GPAI	8529
 Publication Summary	1814,2769
@@ -347,7 +349,7 @@ SUMMARY OF REALLOCATIONS FOR COMPONENT	4653
 SUMMARY OF TRANSACTIONS	6408
 SUMMARY Ownership	582
 SUMMARY TABLE OF THE PRIORITY AREAS	970
-SUMMARY Total Operation Cost	1704,163,424,1271,42
+SUMMARY Total Operation Cost	1704,163,424,1271,42,7164
 SUMMIT	7452
 SUMMIT PREPARATORY MEETINGS	2626
 SUMTECH Renewable and Electrical Installation	10180
@@ -357,6 +359,7 @@ SUMÁRIO A V I S	795
 SUMÁRIO Assembleia da República	6970
 SUMÁRIO Banco de Moçambique	5169
 SUMÁRIO Conselho de Ministros	2866
+SUMÁRIO EXECUTIVO	10757
 SUMÁRIO Tribunal Supremo	6462
 SYNTHESIS TEAM REFERENCES EXEGUTIVE SUMMARY Ghana	6936
 Sandbox Summer School	7298
@@ -401,7 +404,7 @@ Sumitomo Corporation	733,391,7327
 Summaries	1009,2852
 Summarises	7327
 Summarising	8648
-Summarized	2477
+Summarized	2477,8286
 Summary	236,160,503,305,24,33,284,1,84,148,40,170,105,373,1,1,1,1,1,2,1029,81,544,442,1,1,1,1,1,79,195,399,228,202,489,279,501,1,35,216,561,617,227,2,593,307,1,1,1,104,1,97,99,105,1,76,1,25,318
 Summary Advice	7471
 Summary Description Operation Abstract	4653
@@ -505,6 +508,7 @@ Web Summit	3956
 West Africa Economic Summit	3427,941
 West Africa Feminist Data Summit	8318,395
 World Bank Global Digital Summit	2585
+World Bank. EXECUTIVE SUMMARY	10775
 World Government Summit	4921,13
 World Summit	1888,5109,41,11,86,54,14,15,10,92,108,448,237,712,65,55,316
 World Travel and Tourism Council Global Summit	5418

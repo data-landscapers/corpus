@@ -71,7 +71,7 @@ B-BBEE ICT Sector Code	2946,2114,4875
 B-BBEE ICT Sector Council	9935
 B. Broadcasting Sector Radio	2022
 B. Secteur	998
-B. Sectoral and Institutional Context	969,295,603,1737,2935
+B. Sectoral and Institutional Context	969,295,603,1737,2935,4229
 B. Sectoral and Institutional Context Public Financial	969
 BPO and ITES Sector	6948
 BUNDLING OF TELECOMS SERVICES SECTION G	582
@@ -108,6 +108,9 @@ Cameroon's Electricity Sector Reform	1413,157
 Cameroon's Telecom Sector Grows	4207
 Cameroon. Sector	7589
 Canadian NGO. Sectors	62
+Carteira Sectorial	10783
+Carteira Sectorial de Projectos	10783
+Carteiras Sectoriais	10783
 Case of Public Sector	431
 Cement Tourism Sector	2775
 Central Bank of Nigeria Banking Sector Reform	10
@@ -140,6 +143,7 @@ Constitution. Section	2307,7685,461
 Construction Sector	2775
 Cooperative Sector Digitalization	9876
 Coordination Centre KEPSA Kenya Private Sector	7548
+Country Private Sector Diagnostic	10768
 Courier Sector	3990
 Creation of Sectoral Focal Points	1000
 Credit Control Section Debt Management	9437
@@ -240,6 +244,8 @@ Energy Sector Overview	2775
 Energy Sector Recovery	789
 Energy Sector Recovery Programme	789
 Energy Sector Transformation AI	4528
+Entities for Public Sector Innovation	10785
+Entity for Public Sector Innovation	10785
 Environment and Tourism Sector Transformation AI-powered	4528
 Escalation Level Timeline Name Section	6432
 Establishment of Sector-CSIRTs Promotion	8897
@@ -259,9 +265,10 @@ Family Planning FSD Kenya Financial Sector	2775
 Federal Republic ofNigeria's Health Sector Renewal	4301
 Finance Sector Data Sharing and Retention Guidelines	3861
 Finance and Private Sector Development Unit	10714
-Financial Sector	418
+Financial Sector	418,10347,10
 Financial Sector AI	7334
 Financial Sector Conduct Authority	4824,2062,453,1444,57,84,81,122,240,310
+Financial Sector Currently	10775
 Financial Sector Deepening	132,69,76,378,1,12,812,29,664,1,33
 Financial Sector Deepening Africa	662,456,357
 Financial Sector Deepening Trust Kenya	7548
@@ -278,6 +285,7 @@ Financial Sector Faces Rising Cyber Threats	4832
 Financial Sector Performance Mr. Speaker	7695
 Financial Sector Regula- Affairs	6938
 Financial Sector Regulation Act	4633
+Financial Sector Specialist	10763,2,10
 Financial Sector Stability Forum	6938
 Financial Sector Systems General Counsel and Bank	6938
 Financial Services Sector	940
@@ -353,6 +361,7 @@ IFC Real Sector Emergency COVID-19 Facility	500
 IFC-supported Somali Unlocking Sector Investment Project	6788
 INTITULES DES SECTIONS	3396
 ITU Sector Member	8753
+ITU Sectoral CIRTs	10764
 ITU Telecommunication Development Sector	8945
 ITWeb Sectors Companies About Subscribe Banks	7339
 ITWeb Sectors Companies About Subscribe InfoReg	5806
@@ -360,6 +369,7 @@ ITWeb Sectors Companies About Subscribe Malatsi	7051
 ITWeb Sectors Companies About Subscribe Operation	5922
 ITWeb Sectors Companies About Subscribe SA	3290
 ITWeb Sectors Companies About Subscribe Timeline	5175
+IV. SECTORAL DEMAND FOR IDENTIFICATION	10765
 Impact Across Sectors	4625
 Incidentes de Segurança Cibernética Sectoriais	6970
 Industry Sector Environmental Health and Safety Guidelines	1988
@@ -375,7 +385,7 @@ Innovation and Sectoral Use Cases	3235
 Insurance Sector Education and Training Authority IoT	6832
 Intergovernmental Sector Forum	8569
 International Public Sector Accounting Standard	3051
-International Public Sector Accounting Standards	1554,1497,5953
+International Public Sector Accounting Standards	1554,1497,5953,1764
 International Public Sector Accounting Standards Board	3051
 Introduction The ICT Sector Market	1944
 Investissement Sectoriel	12
@@ -401,7 +411,7 @@ Kinyinya Sector	10153
 LEGAL EFFECT OF ELECTRONIC COMMUNICATIONS Section	28
 LEGAL Legal Covenants Sections and Description I	3562
 LEGAL Legal Covenants Sections and Description KOE	6539
-LEGAL Legal Covenants Sections and Description Schedule	3604
+LEGAL Legal Covenants Sections and Description Schedule	3604,7164
 LEGAL RECOGNITION OF ELECTRONIC COMMUNICATIONS Section	28
 LEGAL RECOGNITION OF ELECTRONIC TRANSACTIONS Section	28
 LES SECTEURS Un	2342
@@ -455,6 +465,7 @@ Namibia ICT Sector Market Report	1944
 Namibian Dollar Telecommunication Sector Market Report	1013
 NatCA. Section	7777
 National Agriculture Sector Investment Plan	9609
+National Health Sector Development Plan	10776
 National National AI and Sector Regulators AI	7548
 National Public Sector Reform Strategy	8371
 National Public Sector Reform Strategy II	8367,2,1361
@@ -479,6 +490,8 @@ Ongoing Commitments Section Feedback	3502
 Open Data Licensing and Publication Procedures Sectoral	3861
 Open Sectors	8726,408,140
 Oracle Kenya Managing Director and Public Sector	7069
+Orçamento Sectoriais	10783
+Os Sectores	10754
 Overview of NCA and Ghana’s ICT Sector	236
 PANORAMA SECTORIEL	2342
 PANORAMA SECTORIEL AGRICULTURE AGRICULTURE	2342
@@ -522,6 +535,7 @@ Performance of Banking Sectors	6938
 Performance of Non-Banking Sectors	6938
 Petroleum Private Sector Increased	7548
 Petroleum Sector Infrastructure and Quality Regulation	408
+Plano Sectorial	10783
 Politique Sectorielle	7812
 Politique Sectorielle Eau	643
 Políticas Sectoriales	1701
@@ -537,7 +551,7 @@ Print Sections Toggle	5440
 Priorities Sectors Team Europe Initiative	789
 Priority Sectors	1814
 Priority Sectors All	1814
-Private Sector	192,707,101,87,117,573,37,14,302,1996,169,162,1,35,3,1,15,16,716,433,226,250,679,716,41,1730,292,119,95
+Private Sector	192,707,101,87,117,573,37,14,302,1996,169,162,1,35,3,1,15,16,716,433,226,250,679,716,41,1730,292,119,95,934,9
 Private Sector AI	7548
 Private Sector Adoption and KPI Monitoring Design	4126
 Private Sector All	7548
@@ -553,11 +567,13 @@ Private Sector GDP	958
 Private Sector Ghana	4126
 Private Sector Initiatives	21
 Private Sector Learners	899
+Private Sector Mobile Communications Absence of Corruption	10759
 Private Sector Number	7548
 Private Sector Operation	1818
 Private Sector Paratus Shareholders Equity Addition	1944
 Private Sector Participation	2626
 Private Sector Practical Ethical Guidelines	1204
+Private Sector Public Perception of Anti-Corruption	10759
 Private Sector The Private Sector	1000
 Private Sector and Economic Deals Beyond	6790
 Private Sector and International Engagement	3861
@@ -573,6 +589,8 @@ Project. Guinea-Bissau. Section I.A.1	1264
 Project. Mauritania. Section I.A.1	1264
 Project. The Gambia. Section I.A.1	1264
 Project. The Gambia. Section I.B.1 of Schedule	1264
+Projecto de Investimento Público Sectorial	10783
+Projectos de Investimento Público Sectoriais	10783
 Projet de Gouvernance Numérique du Secteur Public	5139
 Prospects of Ghana’s ICT Sector	236
 Protection Sector Recurrent Strategic Objective	1777
@@ -581,23 +599,29 @@ Protocol IPSAS International Public Sector Accounting	6946
 Prudential Authority and Financial Sector Conduct Authority	4633
 Public Protector's Section	10394
 Public Register of Public Sector AI Systems	7548
-Public Sector	103,3,85,37,1,9,62,3,13,1,2,101,1,10,46,21,53,2,27,1,542,81,209,157,582,59,33,9,2,413,107,41,1310,342,3,5,2,17,3,1,20,1,6,2,55,693,264,160,453,337,1492,385,195,860,177,524
+Public Sector	103,3,85,37,1,9,62,3,13,1,2,101,1,10,46,21,53,2,27,1,542,81,209,157,582,59,33,9,2,413,107,41,1310,342,3,5,2,17,3,1,20,1,6,2,55,693,264,160,453,337,1492,385,195,860,177,524,636
 Public Sector AI Academies	4528
 Public Sector AI Transformation Programme	7548
 Public Sector Accountant	3604
 Public Sector Accounting Standards	6946
 Public Sector Adoption	1204
+Public Sector Consultant	10765,10
 Public Sector Cybersecurity Framework	5533
 Public Sector Digital Governance Project	1678,1211
-Public Sector Digital Transformation	9126
+Public Sector Digital Transformation	9126,1659
 Public Sector Governance	8726
 Public Sector Governance Programme	4236
 Public Sector Governance Programme. The Ministry	4236
 Public Sector IT Will Never	5700
-Public Sector Innovation	1903,913
+Public Sector Innovation	1903,913,7969
+Public Sector Innovation Entities	10785
+Public Sector Innovation Entity	10785
+Public Sector Innovation Strategies	10785
+Public Sector Innovation Strategy I-46	10785
 Public Sector Institutional Table	2775
 Public Sector Lead for Sub-Saharan Africa	9849
 Public Sector Myths	5700
+Public Sector Public Procurement Procedures Absence	10759
 Public Sector Reform Secretariat	8367,1363
 Public Sector Reform Secretariat and PricewaterhouseCoopers	8367
 Public Sector Reform for Results Project	8367,2
@@ -693,6 +717,7 @@ SECTOR REPORT	1686
 SECTOR SOCIAL	4209
 SECTOR TYPES	1940
 SECTORAL DATA GOVERNANCE BODIES AND SPECIALIZATION	3861
+SECTORAL DEMAND FOR IDENTIFICATION AND AUTHENTICATION	10775
 SECTORS	4883
 SECTORS COUNTRIES	4883
 SECTORS Services Administration Resources Circular Economy	4126
@@ -736,27 +761,32 @@ Section C	582,2226
 Section C.2.1	1243
 Section C.4	2626
 Section D	582,636,2386,4241
+Section Disbursement	10768
 Section F	1218,25,6602
 Section I	4260
 Section I F	1284
 Section I- Instructions	1638
 Section I.A.1 Schedule	6539
-Section I.A.3	3604
+Section I.A.2	10768
+Section I.A.3	3604,7164
+Section I.A2	10768
+Section I.A3	10768
 Section I.B of Schedule	1867
 Section I.B.1	3604
 Section I.C Schedule	6539
-Section II	37,1601,1688,1241,1206,610
+Section I.H.2	10768
+Section II	37,1601,1688,1241,1206,610,4382,10
 Section II Opérations	17
 Section II Vote	17
 Section II.A	5773
 Section II.E	1264
-Section III	37,198,723,680,180,1508,1241,1206,610,552,2668,1
+Section III	37,198,723,680,180,1508,1241,1206,610,552,2668,1,1161,10
 Section III B Agreement	1867
 Section III Consultation	17
 Section III of Schedule	1914
 Section III.A of Schedule	2474
 Section III.B.1	1264,5275
-Section IV	1638,4135,610,768
+Section IV	1638,4135,610,768,3614,10
 Section IV Décision	4420
 Section IV Lutte	4420
 Section IV Opérations	17
@@ -769,7 +799,7 @@ Section Il	37
 Section Page Executive	10729
 Section Refer	10617
 Section S du Code	4567
-Section V	1638,6139
+Section V	1638,6139,2988,10
 Section V Dépouillement	17
 Section VII- Scope of Works	1638
 Section VII. Technical	10616
@@ -794,7 +824,7 @@ Sections of Contravention Administrative Penalty Act	587
 Sections of Prequalification Document	1638
 Sections3.1and3.2arefurther	8606
 Sections4	8606
-Sector	14,4,111,38,28,1,40,26,33,61,1,7,354,71,108,2,59,3,14,180,106,3,98,106,233,113,348,3,51,115,444,114,296,346,328,267,20,63,9,341,96,185,9,120,3,515,46,453,591,160,69,80,60,24,578,114,471,479,57,897,206,48,79,83,739,8
+Sector	14,4,111,38,28,1,40,26,33,61,1,7,354,71,108,2,59,3,14,180,106,3,98,106,233,113,348,3,51,115,444,114,296,346,328,267,20,63,9,341,96,185,9,120,3,515,46,453,591,160,69,80,60,24,578,114,471,479,57,897,206,48,79,83,739,8,21,3,10,9,11
 Sector AI Ecosystem Enablers AI Ecosystem	4126
 Sector ARPU	6011
 Sector Academia	7548
@@ -844,6 +874,7 @@ Sector Performance Report	6011
 Sector Pesquero	1701
 Sector Policy	5245
 Sector Policy and Digital Transformation Strategy Page	3604
+Sector Político	10751
 Sector Privado	14,1687,1115,1330,2824,3175
 Sector Produtivo Pede Arquitectura Financeira Mais	8003
 Sector Profile	718
@@ -864,7 +895,7 @@ Sector Statistics Plans	1188
 Sector Statistics Report	3898,2932
 Sector Strategic Plan	899
 Sector Strategic Plans	1261
-Sector Strategies and Policies	969,898,1737,2935
+Sector Strategies and Policies	969,898,1737,2935,4229
 Sector Subsector Tipo de Entidade Autoridades	6970
 Sector Tecnologia de Informação	2784
 Sector Tecnológico	2816
@@ -876,8 +907,12 @@ Sector and Corporate Transformation Exposure Programme	1818
 Sector and Corporate Transformation Programme	1818
 Sector and Corporate Transformation Programme Description	1818
 Sector da Defesa	2816
+Sector da Educação	10766
+Sector da Justiça	10749,1
+Sector da Justiça. Em	10750
 Sector da Saúde	7707
 Sector de Energia	6970
+Sector de Geral de Justiça	10750
 Sector de Investigação Científica	6970
 Sector de Medios	1701
 Sector de Segurança Pública	2784
@@ -892,7 +927,7 @@ Sector-impact	1702
 Sector-specific	1161,2700,667,1137,928,355,600,527
 Sector-specific Foreign Affairs	7548
 Sector-wise	7482
-Sectoral	961,743,73,1827,257,26,641,444,515,1734,92,235,1535
+Sectoral	961,743,73,1827,257,26,641,444,515,1734,92,235,1535,1692
 Sectoral AI	4528
 Sectoral AI Adoption Framework Agriculture and Food	4528
 Sectoral Adoption and Use Cases	4528
@@ -900,6 +935,7 @@ Sectoral Allocation of AI-Enabled Productivity Gains	2957
 Sectoral Analysis	2775
 Sectoral Annual	7548
 Sectoral Applications of AI	7547,1
+Sectoral CIRTs	10764
 Sectoral Center for Vigilance	6657
 Sectoral Computer	587
 Sectoral Computer Emergency	587
@@ -924,10 +960,11 @@ Sectoral Technologies	7548
 Sectoral Vision for Renewal	4619
 Sectoral and External Audit	3861
 Sectoral and Institutional Context	1704,587,1165
-Sectores	1701,1115
+Sectores	1701,1115,7938
 Sectores Privado	2816
 Sectores da Saúde	4147
 Sectores de Defesa	794
+Sectorial	10783
 Sectors	61,2,1,135,1,194,259,209,952,353,78,712,1169,324,66,308,420,1703
 Sectors PILLAR	4126
 Sectors Research the Public Future Inclusion Community	4126
@@ -937,10 +974,11 @@ Security Sector	0,1655
 Segment Sectors Content Rights Online Services	1944
 Segment Sectors EBITDA Margins Return	1944
 Select Social Sectors Health	3604
-Senior Financial Sector Specialist	3238
+Senior Financial Sector Specialist	3238,7525
 Senior Sectional Engineer and Assistant Manager Engineering	6946
 Smart Sector	395
 Social and Political Sectors	9707
+Sociedade Sector Informal Unipessoal Quadro	10757
 Somalia. Sector	393
 South African Financial Sector	4824
 South Africas Public Sector.pdf	4845
@@ -968,6 +1006,7 @@ TFEU. Section	10090
 THIRD QUARTER SECTOR STATISTICS REPORT	6671
 TOP INVESTMENT SECTOR Financials	4972
 TOP INVESTMENT SECTOR Financials and Industrials	4972
+TRACKING PUBLIC SECTOR DIGITAL TRANSFORMATION WORLDWIDE	10785
 TRANSPORT SECTOR	718
 TRATAMENTO DE DADOS PESSOAIS NO SECTOR	14
 TVET Private Sector. for AI-enabled	4126
@@ -1001,6 +1040,7 @@ Tourism Sector Players	395
 Towards Crowding-in Private Sector Investment Companion	941
 Towards Crowding-in Private Sector Investment Copyright	941
 Towards Crowding-in Private Sector Investment Regulatory	941
+Tracking Public Sector Digital Transformation Worldwide	10785
 Training Sector Gender Policy	899
 Training and Development BANKSETA Banking Sector Education	6832
 Transform Key Sectors	4528

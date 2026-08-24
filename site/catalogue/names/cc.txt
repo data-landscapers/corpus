@@ -10,7 +10,7 @@ CAGR Compound Annual Growth Rate CCG	1818
 CC Attribution	10323
 CC BY-NC	2775,4773,1132
 CC BY-NC-ND	7750,1482
-CC BY-NC-SA	1225,1,1483,4239
+CC BY-NC-SA	1225,1,1483,4239,3816
 CC BY-NCSA	2709
 CC BY-SA	4676
 CC CONCLUSION	6671
@@ -18,11 +18,18 @@ CC Cyber Threat Advisories FY	6946
 CC Cyber Threats Detected FY	6946
 CC Cybersecurity Committee	6946
 CC Cybersecurity Committee NPKI National Public	6946
+CC Data	10793
+CC EBITDA	10793
+CC Fintech	10793
 CC INNOVATION AFRICA LTD Data Controller	7167
 CC Kenya Computer Incident Response Team	2775,4171,602
 CC M	1154
 CC National Kenya Computer Incident Response	6671
 CC Practice Area	1284
+CC Provides	10768
+CC Reported	10793
+CC Voice	10793
+CC Wholesale	10793
 CC and Others	6683
 CC&author	2096,3146
 CC-BY	6879,2601
@@ -60,7 +67,10 @@ CCCFDS	6970
 CCCIs	8161
 CCD Clinical Document Architecture CCR European	1009
 CCD Continuity of Care Document CCR Continuity	1009
+CCDH Lunda-Norte	10752
+CCDR CERC CHIRPS CNAS CNPC COVID-19	10763
 CCDR Central Bank of West African States	3604
+CCDR Country Climate and Development Report CERC	10768
 CCDR Tendances	7655
 CCEIBANK GE	5176
 CCENIF	4820,56
@@ -120,6 +130,7 @@ CcahtiilodnCs	1154
 Cci-CI	2418
 Cctld	2815
 Cctld.km	2815
+Community-Based Surveillance CCS	10776
 Creative Commons Attribution CC	9025,1689
 Cybersecurity CCB-CTA.S3	10721
 Cybersecurity Ecosystem and Cross-Sector CCB-CECC.S1	10721
@@ -150,6 +161,7 @@ Licensed CC	7954,1071
 Licensed CC BY-NC-SA	3162
 MD of CCA-Bank	4143
 Managing Partner of CcHUB	10170
+Mapoma CC	10780
 Nconco. The CCMA	7961
 O CC	8745
 Operate CAB Central African Backbone CCDR	1264
@@ -169,6 +181,6 @@ Standard Operating Procedure CCMP.S6	10721
 TI AN CCRA TERN AL TR	2776
 US CCG	3001,374
 Uganda Police National CCTV Network Expansion	315
-WB Angola CCDR	800
+WB Angola CCDR	800,9963
 World Bank Angola CCDR	800
 ZTE. Includes CCTV	104

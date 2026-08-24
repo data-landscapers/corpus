@@ -6,7 +6,7 @@ AI Standardized and Vendor	7548
 ANNUAL REPORT RCZ STANDING COMMITTEES	1554
 Aaron Stanley	8764
 Accessibility and Standards	7548
-Accounting Standards	7204
+Accounting Standards	7204,3589
 Accounting Standards IRR Internal Rate of Return	1264
 Accounts SGR Standard Gauge Railway SHA	2775
 Addis Standard	3176,1384,239,117,417,3338
@@ -24,6 +24,7 @@ African Organisation for Standardisation	10336
 African Revenue Service SCRA Standing Committee	5533
 Agency. Standards Exemptions Compounding	2727
 Align National Framework With Global Standards	4215
+American National Standards Institute API Application	10775
 American Standard Code for Information Interchange	1984
 Annexure-VII. STANDARDS PILLAR GUIDANCE NOTES ARTIFACTS	10721
 Application-layers Control and Standards Test	5773
@@ -167,6 +168,7 @@ FQ Cybersecurity Standards	1759,1383,3772
 Facility Standards	7548
 Family of Standards	1009
 Family of Standards WS-Base Notification	1009
+Financial Reporting Standards Council	10793
 Fracturing of Global Standards	8629
 Framework Outcome of STANDARDS PILLAR GUIDANCE	10721
 G Standalone	2528,15,3822
@@ -225,11 +227,12 @@ ICBC and Standard Bank	378
 ICT Accessibility Standard	6946
 ICT SPECIFICATIONS STANDARDS	2779
 ICT Specifications Standards	2779
+IEC International Organization for Standardization	10765,10
 IEEE Standard Computer Dictionary	1009
 IEEE Standard Computer Glossorles	1009
 IFMIS STANDARDS AND GUIDELINES	34
 IFMIS STANDARDS AND GUIDELINES The Integrated	34
-IFRS Accounting Standards	7204,2707
+IFRS Accounting Standards	7204,2707,882
 INDIVIDUAL RIGHTS AND LEGAL STANDING	3861
 INTERNATIONAL INTEGRATION AND COMPARATIVE STANDARDS	3861
 INTERNATIONAL INTEGRATION AND COMPARATIVE STANDARDS Recital	3861
@@ -245,7 +248,7 @@ Integration Standards	5665
 International AI Standards	7548
 International Accounting Standard	1154,3742
 International Accounting Standard Board	1154
-International Accounting Standards Board	1154,1897
+International Accounting Standards Board	1154,1897,7742
 International Collaboration and Standards	5245
 International Financial Reporting Standard	4896
 International Financial Reporting Standards	1154,400,1497,1101,744,2949
@@ -254,15 +257,16 @@ International Human Rights Standards	2958
 International Organisation for Standardisation	961
 International Organization for Standardization	3604,257,4212
 International Public Sector Accounting Standard	3051
-International Public Sector Accounting Standards	1554,1497,5953
+International Public Sector Accounting Standards	1554,1497,5953,1764
 International Public Sector Accounting Standards Board	3051
-International Standard	4896
+International Standard	4896,5897
 International Standard Classification of Activities	236
 International Standard Industrial Classification	236
-International Standards	236,663,2152,553,1292,1536,514
+International Standards	236,663,2152,553,1292,1536,514,3847
 International Standards Certificates	6432
 International Standards Certificates. All	6432
 International Standards Organisation	9239
+International Standards for Supreme Audit Institutions	10768
 International Standards of Supreme Audit Institutions	3051
 International Sustainability Standards Board	7845,2873
 Interoperability Standards	4848
@@ -316,6 +320,7 @@ NDGC Standard No	3861
 NDGC Standard Operating Procedures Manual	3861
 NIST AI Agent Standards Initiative	5216
 NIST National Institute of Standards and Technology	6936
+NIST National Institute of Standards and Technology NUC	10765,10
 NORMATIVE STANDARDS FRAMEWORK FOR INTEROPERABILITY	1009
 NOSS National Occupational Skills Standards OHS	1818
 Naming Convention Standards	9124
@@ -405,7 +410,7 @@ Rwanda Standard Board	9123
 Rwanda Standards	9123
 Rwanda Standards Board	1534,7589
 Rwanda Standards Board. Receptacles	9123
-S Standards Relevance ESS	1867,4672
+S Standards Relevance ESS	1867,4672,4229
 S Standards Relevance Relevant ESS	3604
 SADC Standing Committee of Senior Officials	9761
 SECURITY STANDARDS AND GUIDELINES	34
@@ -584,15 +589,16 @@ Standardised Surveys. GESIS Survey Guidelines. Mannheim	8376
 Standardised XML Phase	8606
 Standardiser	747
 Standardising ICT	2920
+Standardization Forum. Assurance	10775
 Standardization Framework	2868
 Standardization Sector	1264
 Standardization and Interoperability	5677
 Standardize	2724,2953
-Standardized	970,2891,399,2172,719,397,3171
+Standardized	970,2891,399,2172,719,397,3171,44
 Standardized AI Number	7548
 Standardized Data Formats	5665
 Standardized Electronic	9855
-Standards	11,10,13,966,237,587,164,739,324,663,139,8,81,184,76,166,848,312,148,1,234,512,505,18,374,228,223,754,145,453,283,553,484,120
+Standards	11,10,13,966,237,587,164,739,324,663,139,8,81,184,76,166,848,312,148,1,234,512,505,18,374,228,223,754,145,453,283,553,484,120,201
 Standards Act	1988,5560
 Standards Adoption and Development	4528
 Standards Association Zimbabwe	4528
@@ -601,10 +607,11 @@ Standards DC PUE	6432
 Standards Emerging Technologies	7548
 Standards Followed	1686
 Standards IPv4 Internet Protocol	6946
+Standards Institute API Application Programming Interface	10765
 Standards International Organisation for Alignment	961
 Standards Mandatory	5665
 Standards OASIS Web Services Notification Family	1009
-Standards Relevance Given	1867,121,1574,42,2935
+Standards Relevance Given	1867,121,1574,42,2935,4229
 Standards Service	5676
 Standards WS- Base Notification	1009
 Standards and Certifications	6432
@@ -657,6 +664,8 @@ Stanley Musa	9669
 Stanlib	5025
 Stanlib Lesotho	8034
 Stanlib Lesotho Managing Director Mohlabinyane Mohapi	8034
+Stanovništvo	10780
+Stansfield SK	10780
 StantlJl	1009
 Stany Ngendakumana	9175
 Stany Ngendakumana. Il	9175

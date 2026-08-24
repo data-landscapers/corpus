@@ -25,6 +25,7 @@ Abby May for Open Secrets	7910
 Acting County Secretary and County Executive Committee	7990
 Acting Director of Legal and Company Secretary Anthony	9093
 Acting Executive Secretary	2308,1185
+Acting Group Company Secretary MML Mokoka	10793
 Action Gouvernementale du Secrétariat Général	10712
 Action The Secretariat	7039
 Administrativo A3 Tercer Secretario A3 Vice	4209
@@ -213,6 +214,8 @@ ENGAGEMENT WITH THE SECRETARY GENERAL	9469
 Earth National Space Secretariat	1131
 East African Community Secretariat	9707
 Economy Principal Secretary John Tanui	9334
+Ensino Primário Província Secretárias	10766
+Ensino Secundário Província Secretárias	10766
 Environnemental Membres Secrétaire Général Younès Benakki	8891
 Establish Policy Secretariat	7548
 European Commission and ACP Secretariat	26,1,1
@@ -259,8 +262,11 @@ General Manager and Secretariat	3513
 General Secretariat	3882,1525,1081,1305,157,1806
 General Secretario Sala	4209
 General Secretary	6409,920,2720
+General Secretary of Justice	10765,10
+General Secretary’s Office	10768
 General Women’s Union Secretary General Noura	7687
 General de Justicia Secretario	4209
+Gestão da Educação Secretaria Provincial da Educação Taxa	10766
 Gobernador Provincial Secretario Administrativo	4209
 Gobierno Canciller Secretario General Secretario General	4209
 Gobierno Consejero Ministro Gran Canciller Secretario	4209
@@ -364,6 +370,7 @@ MICDE Secretariat	7548,2698
 MICDE Secretariat Sector MDAs Regulatory Private	7548
 MICDE Secretariat and Technical Working Groups	7548
 MICSTI Principal Secretary Kanono Ramashamole	7161
+Maio. O Secretário de Estado	10752
 Malawi Principal Secretary for E-Government	5098
 Mesa Secretario de Mesa	4209
 Michael Ouma. NRB Secretary Dr Christopher	3936
@@ -371,6 +378,7 @@ Militar Secretario General Ministerio	4209
 Minister Ashwini Vaishnaw and IT Secretary	9404
 Minister Secretary General	3540
 Minister Secretary-General Job Obiang Esono Ayingono	5111
+Minister and Secretary of State for MAT	10768
 Ministerio Juez Comarcal Secretario Juzgado Comarcal	4209
 Ministers Delegate and Secretaries of State	8506
 Ministro Secretario Mesa Magistrado CSJ	4209
@@ -597,11 +605,21 @@ Secretaria Embajador A3	4209
 Secretaria Embajador A3 Administrativo Consulado B1	4209
 Secretaria Fiscalía de Instrucción	4209
 Secretaria Municipal de Nampula	1808
+Secretaria Provinciais	10766
+Secretaria Provinciais da Educação	10766
+Secretaria Provinciais da Educação Gabinete	10766
+Secretaria Provinciais da Educação. Aprovação	10766
+Secretaria Provinciais da Educação. F	10766
+Secretaria Provinciais da Educação. Licenciatura M	10766
+Secretaria Provinciais da Educação. MF	10766
+Secretaria Provinciais da Educação. Pública N.º	10766
+Secretaria Provinciais da Educação. Quadro	10766
+Secretaria Provinciais da Educação. Total M	10766
 Secretaria Titular de Antidrogas	4209
 Secretaria Titular de Medio Ambiente	4209
 Secretaria Técnica	163
 Secretaria Virtual Municipal	1808
-Secretaria de Estado	1855,4986
+Secretaria de Estado	1855,4986,3909
 Secretaria de Estado de Hacienda	1855
 Secretaria de Estado de Igualdad de Género	1855
 Secretaria de Estado de Seguridad	1855
@@ -615,6 +633,7 @@ Secretariado-Geral	4435
 Secretarias	4209
 Secretarias Fiscalías de Salas	4209
 Secretarias Fiscalías de Salas Servicio	4209
+Secretarias Municipais	10766
 Secretarias Municipais Virtuais	1808
 Secretariat	21,5,1,1,290,269,184,169,22,20,172,89,21,290,1922,107,278,242,425,1173,426,217,297,221,177,222,191,70,1,25,215,535,69,102,58,212,296,118,15,39,48,106,221,348,29,198,12,17,1,73,53,4,4,24,131
 Secretariat African Financial Stablity Committee	6938
@@ -711,7 +730,7 @@ Secretarios de Mesa	4209
 Secretary	11,576,149,47,231,206,334,224,221,382,1,8,162,115,253,5,9,579,374,744,441,1272,136,302,156,8,96,140,282,315,66,93,650,393,329,644,109,16,150
 Secretary Dickson Matembo	8480
 Secretary Dr. Aminah Zawedde	6247
-Secretary General	25,2581,1034,985,1150,1171,847,91,66,1419,100
+Secretary General	25,2581,1034,985,1150,1171,847,91,66,1419,100,1307
 Secretary General Aline Sylvie Minko-Mi-Etoua. Discussions	8541
 Secretary General Dr Sifundo Chief Moyo	4953
 Secretary General John Omo	9236
@@ -758,6 +777,7 @@ Secretary-General Dr. Borlli Michel	5917
 Secretary-General Dr. Borlli Michel Jonas	6707
 Secretary-General H.E. Wamkele Mene	7039,2216,1221
 Secretary-General John Omo	7562
+Secretary-General STIs	10776
 Secretary-General of Nigerian National Commission for UNESCO	9755
 Secretary-General's and Director-General	5814
 Secretary-General-elect	7883
@@ -767,11 +787,15 @@ Secretaría Técnica	163
 Secreto	163
 Secretária	3519,6621
 Secretária Permanente	10140
-Secretária de Estado	1180,84
+Secretária de Direitos Humanos	10750
+Secretária de Estado	1180,84,9486,2
+Secretária de Estado Moçambique	10750
+Secretário	10750,2,1
 Secretário Executivo	2866
+Secretário Geral	10753
 Secretário Nacional de APU-PDGB	10114
 Secretário da Força Aérea	2816
-Secretário de Estado	4075,4234,541
+Secretário de Estado	4075,4234,541,1900,2,1
 Secretário de Estado da Saúde	5020
 Secretário-Geral António Guterres	2816
 Secrétaire	324,1384,40,694,473,16,557,178,133,168,313,494,949,184,558,217,19,158,4,26,444,337,46,83,38,141,185,74,32,44,8,23,377,29,72,69,65,325,144,806,282
@@ -814,6 +838,8 @@ Smart Africa Secretariat. Mare	10073
 Social Integration. Briefing the Secretary General	9469
 Southern African Development Community Secretariat	962
 Spokesperson and Press Secretary	10695
+Srª Secretária	10752
+Srº Secretário de Estado	10752
 State Department for Diaspora Affairs Principal Secretary	9738
 State Secretary	7794
 State Secretary Willemijn Aerdts	8904

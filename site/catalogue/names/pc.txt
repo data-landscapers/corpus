@@ -38,9 +38,10 @@ MTND. Responsibility for Data Collection PCU Newly	3604
 NAVODAYA TRADING PCA	2342
 NY.GDP. PCAP.CD	4127
 Non-monetary Potential PCE	3604
-O PCA	7736,1490,914
+O PCA	7736,1490,914,646,1
 O PCA da INCV	6571
 O PCA da UNITEL	8260
+ONG PCM PCV PID RGPH RMM	10777
 PC Cable	34
 PC Hill	766
 PC Network Engineering Information	6832
@@ -50,7 +51,7 @@ PC. Server	34
 PC0502	6476
 PC2D Programme de Croissance	10712
 PC4IR	5724
-PCA da AGT	6309
+PCA da AGT	6309,4477
 PCA da INCV	6571
 PCA da Imprensa Nacional de Cabo Verde	6571
 PCA da UNITEL	4248

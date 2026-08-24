@@ -51,9 +51,11 @@ B1 Certificado de Actualizacion PE	4209
 B2 COMERCIO Certificado de Comercio	4209
 B3 COMERCIO Certificado de Comercio	4209
 Back Ratio I Certify	736
-Birth Certificate	6392,3642,231
+Birth Certificate	6392,3642,231,500,10
 Birth Certificate Online	6783
-Birth Certificates	445,3812
+Birth Certificates	445,3812,6518
+Birth Registration and Certificates Figure	10765
+Birth Registration and Certificates for Children Under Age	10765,10
 Build and Certify	7921
 Bénin. Certaines	3361
 C1 COMERCIO Certificado de Comercio	4209
@@ -69,6 +71,8 @@ CATEGORÍA Certificado de Actualizacion PE	4209
 CATEGORÍA Certificado de Actualización PE	4209
 CATEGORÍA Certificado de Actualización PE ACTUAL Certificado	4209
 CATEGORÍA Certificado de Comercio ACTUAL Libreta	4209
+CCDR CERC CHIRPS CNAS CNPC COVID-19	10763
+CCDR Country Climate and Development Report CERC	10768
 CEH Certified	9858
 CERBA LANCET KENYA LIMITED Data Controller	7167
 CERBA LANCET KENYA LIMITED Data Processor	7167
@@ -107,7 +111,7 @@ CERTIFIED TRUE COPY	2465
 CERTINUM	6810,209,1727,1452
 CERTMU	4850
 CERTS	5677
-CERTs	1000,228,36,1552,2716,145,749,3190,347,213
+CERTs	1000,228,36,1552,2716,145,749,3190,347,213,588
 CERTs and Cybersecurity Operations Centres	9964
 CERVANNA CARE LIMITED Data Controller INST-66209110F70	7167
 CERVIDA	2966
@@ -120,7 +124,7 @@ COMERCIO Certificado de Comercio C2 COMERCIO Certificado	4209
 COMERCIO Certificado de Comercio Libreta	4209
 Carolina Cerqueira. Promulgada	3519
 Center for Media Studies and Peacebuilding CERT	5244
-Cerca	795,3249
+Cerca	795,3249,6713
 Cercle	3520,5200,567,55,155
 Cercle de Kéniéba	9287,55
 Cereal Growers Association Data Processor INST-6608837F224	7167
@@ -149,10 +153,18 @@ Certainty	5487
 Certamen Miss Guinea	4209
 Certes	8891,1604
 Certi	4896
+Certidão	10772,5
+Certidão Narrativa Completa	10749,7
+Certidão Nascimento	10765,10
+Certidão de Baptismo	10749,7
+Certidão de Casamento	10777
+Certidão de Nascimento	10765,7,3
+Certidão de Nascimento. Ou	10772
 Certidão de Quitação Fiscal	8731
 Certificaciones de Pagos	4209
 Certificación de Productos	4209
-Certificado	794
+Certificado	794,9956,1
+Certificado Positivo	10750,1
 Certificado de Actualizacion PE	4209
 Certificado de Actualizacion PE INFORMACIÓN Rótulos	4209
 Certificado de Actualización PE	4209
@@ -165,8 +177,11 @@ Certificado de Comercio	4209
 Certificado de Comercio Certificado de Comercio	4209
 Certificado de Comercio Certificado de Comercio Libreta	4209
 Certificado de Registo Criminal	2688,3298
+Certificado de Registo Criminal. Edição Nº	10752
+Certificados	10752
 Certificados Digitais	1431,715,2317
 Certificados de Encriptação	794
+Certificados de Registo Criminal	10750
 Certificat	1706,1339,407,968,1111,686,4,1567,949
 Certificat NPI	1769,2083
 Certificat de Nationalité	3045
@@ -390,6 +405,7 @@ Nature of Business Certificate of Incorp Contact Person	736
 Nigeria Begins Sovereign Cloud Certification	10424
 Nigeria’s Root Certification Authority	9880
 Nokia and Cerillion	2235
+O Certificado	10750,1
 O Pedido de Certidão de Nascimento	2688
 Odoo Gold Certified Partner	9533
 Offsec Certified Professional	1940

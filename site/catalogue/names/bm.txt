@@ -1,7 +1,7 @@
 ADCT TABLEAU DES ACRONYMES AS BM	643
 Africa BMZ	1422,1
 Africa. BMJ Glob Health	771
-African Health Initiative. BMC Health Serv	766
+African Health Initiative. BMC Health Serv	766,10014
 Afrika BMZ	456
 Apilotstudy. BMC Medical Ethics	8606
 BAM Bank Al-Maghrib BM Banque	7655
@@ -17,7 +17,7 @@ BMC Health Serv Res	3791,4585
 BMC Health Services Research	2108
 BMC Health Services Research Volume	771
 BMC Med Inf Decis Mak	1261
-BMC Med Inform Decis Mak	1219,2572
+BMC Med Inform Decis Mak	1219,2572,6993
 BMC Medical Informatics and Decision Making	8604,2
 BMC Medical Research Methodology	8671
 BMC Nurs	1219
@@ -29,6 +29,7 @@ BMI's Sub-Saharan Africa Telecommunications Risk	6152
 BMIT Knowledge Group	10129
 BMJ Global Health	4781,4347
 BMJ Group	7187
+BMJ Health Care Inf Online	10784
 BMJ Health Care Inform	3791
 BMJ Medicine	8604
 BMJ Open	771,3020

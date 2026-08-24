@@ -1,7 +1,10 @@
 API Testing	5665
 Additional Testing Requirements Software	5665
+Algoritmo de Testagem	10777
+Angola Testagem de VIH Entre	10760
 Application-layers Control and Standards Test	5773
 Bartlett’s Test of Sphericity	4432
+Base de Artemisina Teste de Diagnóstico Rápido Taxa	10777
 Benoit Tessier	8273
 CULTURA LICENCIA TOTAL TESORO PÚBLICO	4209
 Chpter Tesh Mbaabu	10464
@@ -28,11 +31,13 @@ Functional Tests	7266
 GASTOS DE TESORERÍA	4209
 Guideline for Software Testing Services	5665
 HIV Tests	4260
+Harmonized Tests	10775
 Integration Tests	7266
 J176 Anum Tessa Avenue	7886
 Julien Tessier	5712
 LICENCIA D3 ACTUAL ACTUAL TOTAL TESORO	4209
 Lab Commodities HIV Rapid Test Kits	4217
+Laboratory Tests	10776
 Lead Tester	5665
 Lead Testers	5665
 Les Résultats Des Tests Adn Sont	4960,62,2035
@@ -75,6 +80,7 @@ Portability Testing	5665
 Pour Julien Tessier	5712
 Prisca Tessembaye	5545
 Proficiency Testing Quality Assurance I Quality	4153
+Proxy-Means Testing National Policy	10763
 Proyecto de Implementación Plan de Tesorería	4209
 Public Register Licensed Software Testing Organisations	5665
 Public Register of Testing Entities and Certified Software	5665
@@ -91,9 +97,11 @@ Scheme UAT User Acceptance Testing UN	5533
 Security Testing	5665
 Senior Testers	5665
 Servers Regular Restoration Tests of Servers and Services	9123
+Serviços de Testagem	10777
 Severe Disabilities CTU Cane Testing Units	2775
 Six Tests Starlink Had	6825
 Smart Test Spa	3609
+Social Protection Stress Test Tool United	10763
 Software Committees HCT HIV Counselling and Testing	396
 Software Integration Tests	10721
 Software Test	6832
@@ -114,6 +122,8 @@ Spike Testing	5665
 Stress Test	4583
 Stress Test By Emmanuel Vitus	10375
 Stress Testing	5665
+Stress Testing Social Protection Tool	10763
+Surveillance and Laboratory Testing	10776
 TES NOTE BY THE DEPARTMENT	4247,55
 TES Phase II	7544
 TESCREAL	5302
@@ -155,10 +165,10 @@ Tesoro Con	9065
 Tesoro Nacional	1701
 Tesoro Público	8153
 Tesoro Público. En	8554
-Tesouro	744,8,42,545,1,1,1,739,2,1,2134,193,2,1,333
-Tesouro Nacional	4218
+Tesouro	744,8,42,545,1,1,1,739,2,1,2134,193,2,1,333,6003,33
+Tesouro Nacional	4218,6534
 Tessalit	5380
-Tesseract	2625,648,2414
+Tesseract	2625,648,2414,5083
 Tesseract OCR	163,4950
 Tessier	8605
 Test Ahead	5970
@@ -177,14 +187,24 @@ Test Schedule of Power Limits	736
 Test Technology	7998
 Test and Specification Management	7988
 Testability	5665
+Testagem	10777
+Teste Piloto	10777
+Teste Prévio	10777
+Teste Prévio de VIH	10777
 Teste de Turing	2816
+Teste de VIH	10777
 Teste-	539
 Tested	1930,1,1,1,1,1,1,1,65,1,1,1,1,1,1,1,1,1,1,1,1981,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
 Testemale	8604
 Testemunha	539
 Testemunhas	539
+Testemunhas de Jeová	10777
 Tester	5665
 Testers	5665
+Testes	10777
+Testes Recentes de VIH	10777
+Testes de VIH	10760,17
+Testes de VIH Prévios	10777
 Testified	6635
 Testimony	2518
 Testimony Akinkunmi	9642

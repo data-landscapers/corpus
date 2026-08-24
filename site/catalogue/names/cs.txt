@@ -5,8 +5,10 @@ All CSPs	6432
 Attorney-General’s Office. The CSA	10248
 B Y O D CSP CSP	9123
 BNC CAAZ CSIC FAHRC FRC GEII	1554
+CDC CNBS COVID CPN CSPro DAM	10777
 CIDP County Integrated Development Plan CSO	7548
 CPD Continuous Professional Development CSP Content	6946
+CR Civil Registry CSU Cadastro Social	10765,10
 CS Adjusted	1818
 CS Cabinet Secretary for ICT CSP Cloud	6432
 CS Duale	3400
@@ -102,7 +104,7 @@ CSIRT. Projecto	3838
 CSIRT.MZ	6970
 CSIRTS	1000,4677,3793
 CSIRTSs	1000
-CSIRTs	961,39,228,307,1281,173,1157,72,435,1024,103,14,1039,103,34,1927,573,1219
+CSIRTs	961,39,228,307,1281,173,1157,72,435,1024,103,14,1039,103,34,1927,573,1219,75
 CSIR’s USS	6365
 CSIS Africa Program	7588
 CSIS. Artyushina	1243
@@ -146,7 +148,7 @@ CSP Ministry	6432
 CSP du CM Cadre	737
 CSP. Cette	7892
 CSP. Le Groupe	1679
-CSPro	6048,3229
+CSPro	6048,3229,1500
 CSPs CAC	6432
 CSPs Content Services Providers CT-OVC Cash	2775
 CSPs Entities CAC	6432
@@ -163,6 +165,8 @@ CSSDOS	7707
 CSSF-funded	861
 CSTDAN	9277
 CSTHCN	3831
+CSU CUCI DRC DRF DRM EM-DAT	10763
+CSU and Kwenda	10768
 CSV UTF-8	747
 CSV-load	103,3,85,1,36,1,9,62,3,13,1,2,101,1,56,21,53,2,27,1
 CSV. Crosswalk	4466
@@ -196,6 +200,7 @@ Conferência CSA	2816
 Consistent Time CSIR Digital Imaging and Communications	1009
 Continuous Professional Development CSL	6832
 Contractor CSM Tech Limited	10411
+Country Cooperation Strategy CSO	10776
 Cross-Border Data Flow CSPs	6432
 Cyber Security Authority CSA	6936
 Czechia’s Transformation Cooperation Programme. CSA	8947
@@ -266,6 +271,7 @@ Kabogo. The CS	8214
 Kenya CS William Kabogo. Harmonise	5964
 Kenya News Agency. ICT CS	899
 Kenya Treasury CS John Mbadi and China	2160
+Kwok CS	10780
 L'atelier du CSC	10546
 Leverage CSP	6432
 Liberia CSP	4840
@@ -294,6 +300,7 @@ Open CSIRT Foundation	7736,1734
 Os CSIRTs	6970
 OtSO CSEE	1885
 Partnership Framework CSI Corporate Scorecard Indicator	6539
+Partnership Framework CSU Single Social Registry	10768
 Pilot License CSM Cylinder Smart Metering	2775
 Policy. CSRI	6946
 Program Supporting Digital CSIs	3604

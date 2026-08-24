@@ -40,9 +40,11 @@ Algeria's National Digital Payment Strategy	3286
 Ambassade des Pays-Bas	5899,3967
 Ambassade du Royaume des Pays-Bas	5899
 Amends the Electronic Payment Services Regulations	5687
-Angolan Payment System	4876
+Angolan Mobile Payments Subsystem	10775
+Angolan Payment System	4876,5899
 Annual PAYE	4191
 Apple Pay	3957,25,342,4684
+Approve Payment System Vision	10767
 Approved Push Payment	7334
 Arif Pay	1677
 Asset Payment Processor Virtual Asset Investment	10738
@@ -56,6 +58,7 @@ Average Pay-As-You-Go Rates	6946
 Awareness Responsible Behaviour Integrity Description Pay	5676
 B. Operating Limits for Non-Account Based Payment	5687
 B2B Payments	608
+BNA's Payment System	10767
 BRB's Payment Systems Management Department	2745
 BRICS Pay	7220
 BTC Acting CEO Ms. Boitumelo Paya	2999
@@ -138,6 +141,7 @@ Deputy Director of Operations for Payments	3964,63
 Description Care Pay	186
 Description The Payment System and Financial Inclusion	175
 Developer PayInc	6286
+Development of Angola's Payment System	10767
 Digital Government-to-Person Payments	10714
 Digital Pay-As-You-Go Access	717
 Digital Payment Conference	5007
@@ -146,8 +150,9 @@ Digital Payment Infrastructure Component World Bank	1197
 Digital Payment System Component World Bank	409
 Digital Payment Systems Component World Bank	1003
 Digital Payment for Polio Campaigns Bill	2184
-Digital Payments	1828,87,1476,6886
+Digital Payments	1828,87,1476,6886,488,10
 Digital Payments Advocacy	213
+Digital Payments Angola	10775
 Digital Payments Component World Bank Group	416
 Digital Payments Infrastructure Loan Belgian Investment	1419
 Digital Payments and Banking	7535
@@ -287,11 +292,13 @@ Head Payment and Cash Management	4695
 Head of Infrastructure and Payments	10117
 Head of Payments	4673
 Head of Payments for Corporate and Investment Banking	8026
+Head of Registrations and Payments	10763
 Health Insurance Fund Care Pay Mobile	186
 ICT Minister Lumumba Pays Courtesy Visit	4608
 IFT The National Instant Payment System	2358
 Idaho-based PayServices	4669
 Identity and Payments	3391
+Implementation of Mobile Payments. Aligned	10775
 Inclusion and Payment Modernization	5836
 Inclusive Instant Payment System	3518,736,7,11,10,3,2945,387,2791
 Inclusive Instant Payment Systems	2172,2305,1145,2528,1,885
@@ -416,19 +423,21 @@ National Instant Payment Switch	2395
 National Instant Payment System	2358,854,1795,857,3912,83
 National Instant Payment System Project	5864
 National Interoperable Payment Switch	3473
+National Payment Council	10779
 National Payment Gateway	1995,2771
 National Payment Stack	3931,925,4896
 National Payment Strategy	8753
 National Payment Switch	2849,28,524,91,3,210,5746
-National Payment System	718,302,4400,2510,94,227,156,308
+National Payment System	718,302,4400,2510,94,227,156,308,2052
 National Payment System Act	1020,1722,2678
 National Payment System Bill	9585
 National Payment System Department	6259,1761
 National Payment System Department and Head	6938
 National Payment System Director	3679
 National Payment System Framework and Strategy Vision	4824
+National Payment System Law	10779
 National Payment System Strategy	8251
-National Payment System Vision	5408,2843,1
+National Payment System Vision	5408,2843,1,2515
 National Payment Systems	3964,3014
 National Payment Systems Act	958,2099,970,2204,765
 National Payment Systems Report	2728
@@ -463,6 +472,7 @@ Nigeria’s Instant Payment System	4848
 Nigeria’s Instant Payments	4357
 Nigeria’s National Payment Stack	4972
 Nimba Pay	7730
+Notelaers G. Pay-level	10780
 Number of Mobile Payment Accounts	6938
 Off-Grid Solar PAYG Loan Norfund	389
 Office Services Activity BPM6 Balance of Payment	2775
@@ -583,7 +593,7 @@ Paylinks	3260
 Payload	443,2415,4935,1640,4,18
 Payload the Beninese	8713
 Paymaster General	6921,2571
-Payment	822,140,905,908,808,131,1110,300,316,190,61,172,534,16,259,266,176,40,8,11,48,1,473,313,11,6,122,1164,185,407,69,39,2,144,250,312
+Payment	822,140,905,908,808,131,1110,300,316,190,61,172,534,16,259,266,176,40,8,11,48,1,473,313,11,6,122,1164,185,407,69,39,2,144,250,312,44,22
 Payment Access Devices	4517,2461
 Payment Access Points	4517,2461
 Payment Aggregator	6684
@@ -594,6 +604,7 @@ Payment Card Industry Data Security Standard	2312,38,4588
 Payment Ecosystem Modernisation	8571
 Payment Gateway	4609,1930
 Payment Gateway Operators	7909
+Payment IBRD	10768
 Payment Identification Numbers	2744
 Payment Infrastructure	9903
 Payment Institution License	3260
@@ -611,7 +622,9 @@ Payment Service Provider Licence	6074
 Payment Service Provider and Payment System Operator	4405
 Payment Service Providers	2857,4078,825,972
 Payment Service for Commercial Registration	4542
+Payment Services	10785
 Payment Services Directive	7468,2026
+Payment Services I-22 Customs Services	10785
 Payment Solution Service Providers	3491,3207,237,2755
 Payment Story Behind Its Food	5765
 Payment Switch Operators	7909
@@ -665,6 +678,7 @@ Payments Payments	6938
 Payments Platform	4095
 Payments Subject	2307
 Payments Sys-	6938
+Payments System Law	10779
 Payments System Policy	6416
 Payments System Resilience	4848
 Payments System Supervision	6644,2342
@@ -672,6 +686,7 @@ Payments System Supervision Department	6698,237,2817,753
 Payments System Vision	4848,1568,283,1,2870,585,498,66
 Payments Systems Act	3964
 Payments Systems Subcommittee	6720
+Payments Systems and Services Law	10779
 Payments Ugandan	9387
 Payments Work and How They Have	5124
 Payments and Clearing	10193
@@ -686,11 +701,12 @@ Payout	6371,3376
 Paypal	1859
 Paypay	5309
 Paypay Africa	5309
-Payroll	7648
+Payroll	7648,3137
 Payroll Ghosts and Duplicated Salaries Mr Mabiala	9517
 Payroll Investments Asset Management and Insurance	9437
 Payroll Section	9437
-Payroll System	6432
+Payroll System	6432,4353
+Payroll System I-10	10785
 Payrolls	3
 Pays Banques	4459
 Pays When Electronic Payments Fail	9494
@@ -730,6 +746,7 @@ RBZ Payments Division	6105
 RETAIL PAYMENTS	4517,2461
 RTC and PayShap	5420
 Rapid Payments Programme	9183
+Real-Time Payment Subsystem	10775
 Real-Time Payments	4848
 Regional Payment Networks NimbaPay	8082
 Regional Payment and Settlement System	6938
@@ -777,6 +794,7 @@ Should Pay	10360
 Sierra Leone Launches National Instant Payment	2395
 Singapore's PayNow	9431
 Single Payments Network	6677
+Single State Payments Reference	10762
 Skosana PayInc PayShap South African Reserve	6286
 So Policymakers Should Pay Close Attention	1243
 Somalia Instant Payment System	2612,1943,3375,94

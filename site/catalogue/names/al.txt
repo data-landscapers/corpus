@@ -4,6 +4,7 @@ ACCEPT ALL	6181
 ADM Alexis Manirambona SAEE3 Responsible	1284
 AES Alliance	6959
 AES Moustapha Alou Le Président	7553
+AF ALCP Anti-HBc ARV BCG CAPI	10777
 AFRICA ALLIANCE OF YMCA Data Controller	7167
 AFRICA ALLIANCE OF YMCA Data Processor	7167
 AFRICAN ALLIANCE KENYA ASSET MANAGEMENT LIMITED	7167
@@ -236,6 +237,8 @@ ALTON Chairman	3942,5622
 ALTOS CARGOS DEL ESTADO	4209
 ALUCOV	8737
 ALUMNI CHALLENGE FOUNDATION Data Controller INST-5951070590C	7167
+ALUNO	10766
+ALUNO MATRICULADO	10766
 ALVIN LEE FITNESS LIMITED Data Controller	7167
 ALWASI MEDICAL CENTRE Data Controller INST-3696162321A	7167
 ALandry	5440
@@ -244,6 +247,7 @@ ANINF Director General Alberto Mounguengui Moudoki	9837
 ANS Alberto	9799
 API Endpoints and APIs All API	6423
 API for All Models CAIMEx	5226
+ASSISTÊNCIA ALIMENTAR	10766
 AU and Smart Africa Alliance	1277
 AURORA ALLIANCE PLC Data Controller INST-767765F81B7	7167
 AURORA ALLIANCE PLC Data Processor INST-767765F81B7	7167
@@ -257,6 +261,7 @@ Abdiwali Ali Abdulle	2967,1725,618
 Abdoul Malick ALMAIMOUNE Impression	6959
 Abdoulaye Alkadi	2972
 Abdourahamane Cheikh Ali	4729
+Abdulaziz Alfaiz	10764
 Abdulbaset AlBaour	3188
 Abdullahi Ali	2668
 Abiy Ahmed Ali	6756
@@ -266,6 +271,7 @@ Accelerate Digital Transformation Ooredoo Algeria	5391
 Accept All	3907
 Ack All Saints Mushililie Cdc Data	7167
 Acknowledgement All	34
+Aconselhamento Sobre Alimentação de Lactentes	10777
 Acordo de Facilidade de Crédito Alargada	1265
 Acting Finance Minister Kadiatu Allie	10328
 Actualité Alexie Alaïs	9620
@@ -372,14 +378,16 @@ Al5DrygF0	6667
 AlKadi	8022
 AlShdaifat	2093
 AlYahya	7169
+Ala Sul	10764
 Alabama	5349
 Alabi	9116
 Alabi Zubair	9594
 Alade	7172,985
 Alafia	3852,1151,1789,224,3696
 Alagie B. Sowe	7823
+Alaidar Amirseiit	10764
 Alaimo	7966
-Alain	7437
+Alain	7437,3326
 Alain Bienvenu Ossebi. Cet	4169
 Alain Ebobissé	9504,298,1
 Alain Fauré	5405
@@ -409,15 +417,18 @@ Alamy Civil	5162
 Alan Bush	1695
 Alan Finlay	7954
 Alan Kasujja	8687,1094
+Alan Khubaev	10764
 Alan Mauldin	2677
 Alan Sirima	10330
 Alan Turing	2816
 Alan Turing Institute	1246,5762
 Alan Zimmermann	3897
+Alana G. Ramos	10764
 Alananga	9454
 Alano	3791
 Alar Mitangan Akwa	4209
 Alarm Transmitter	6946
+Alarmingly	10776
 Alaro City	3006,6863,636
 Alassane Dramane Ouattara	2418
 Alassane OUEDRAOGO	7670
@@ -434,7 +445,9 @@ Alban Bienvenu Bessan	2392
 Alban Etho	7268,131
 Alban Gildas Obela	5063
 Alban Sumana Kingsford Bagbin	5219,727
-Albania	5872,1188,2548,208
+Albania	5872,1188,2548,208,969
+Albania Austria Azerbaijan Benin Canada China	10764
+Albania Austria Croatia Czech Republic Georgia	10764
 Albania FIDA	6613
 Albania Tazkira No N	10714
 Albanie	6613
@@ -452,7 +465,9 @@ Alberga la Sede	4209
 Alberro	10714
 Albert Bernard Djela	2513
 Albert Byamugisha	9388
+Albert G	10763
 Albert G. Zeufack	1914
+Albert G. Zeufack Practice Manager	10768
 Albert G. Zeufack Regional Director	1284
 Albert Kamunde	7167
 Albert Karaziwan	4479,1047
@@ -465,6 +480,7 @@ Albert Oppong-Ansah Email	10112
 Albert Sasson	8891
 Albert Siaw-Boateng	6475
 Albert Sore	3691
+Albert Zeufack	10763
 Albertina Amutenya	6676,2046
 Alberto Dembi	8053
 Alberto Maria Mongardini and Alessandro Mei	4127
@@ -498,16 +514,20 @@ Aldabaiba	2837,1843
 Aldabaiba Libya	3841,905,65,38,926,129,44,409
 Aldabaiba Vows National Consensus for Libya's Political	2837,989,15,690,99,50,66,65,38,415,53,275,183,129,44,409,340
 Aldeias Turísticas Rurais	1265
+Aldemiro Nzele	10763
 Alden	2518
 Alderman Eddie Andrews	6486
 Aldjima Matthieu NAMOUNTOUGOU	7670
 Aldridge Dzvene	9460
+Alduais F	10780
 Ale Abdel Farid	5685
 Ale Format	3972
 Alec Erwin	5968
 Aleem Kumi	9977
 Alegações	3421
 Alegp Usonga MP Samuel Atandi	6316
+Alejandra Campero Peredo	10763
+Alejandro	10775
 Alejandro Badel	1828
 Alejandro Vitón-Castillo	2948
 Aleksander Dardeli	9641
@@ -559,6 +579,7 @@ Alex-Nmecha	8022
 AlexNet	2816
 Alexander Dolgui	1183
 Alexander Forbes Financial Services Page	6539
+Alexander Grishchenko	10764
 Alexander Kibandama	6786
 Alexander Maune Jul	6099,6
 Alexander Tsado and Robin Miller	4970
@@ -584,9 +605,12 @@ Alexious Kamangira	10412
 Alexis METON	3452
 Alexis Mangala. Bienvenu Ipan	5835
 Alexopoulos	2096
-Alfabetismo	4044
+Alfabetismo	4044,6733
 Alfabetización	1701,2508
+Alfabetização	10766,11
 Alferidah	8022
+Alffenaar J-W	10784
+Alfian SD	10784
 Alfiano Fawwaz Lokopessy	1824
 Alfonso-Sánchez	8283
 Alfred Opare Saforo	2407,41,490,2760,1057
@@ -608,10 +632,11 @@ Alger and Blida	7031
 Alger. L'événement	3520
 Alger. Un	10230
 Alger. Une	9497
-Algeria	236,618,159,200,30,33,67,20,451,28,44,4,25,209,7,21,110,144,14,26,53,43,25,50,65,40,53,7,8,12,36,7,113,10,189,62,2,57,8,56,11,4,83,169,55,5,30,65,11,38,18,22,6,12,1,5,4,2,45,45,4,10,65,33,66,17,10,6,11,82,100,156,26,24,1,1,2,1,8,138,21,5,49,70,1,3,4,15,53,7,3,7,2,32,33,73,55,103,8,11,18,33,36,15,61,11,42,79,1,79,52,26,21,107,31,40,11,1,102,72,3,74,39,65,18,221,18,48,16,28,90,26,19,33,113,121,68,189,136,226,29,59,27,91,10,56,12,84,85,297,178,222,208,1,207,459,204,471,136,200
+Algeria	236,618,159,200,30,33,67,20,451,28,44,4,25,209,7,21,110,144,14,26,53,43,25,50,65,40,53,7,8,12,36,7,113,10,189,62,2,57,8,56,11,4,83,169,55,5,30,65,11,38,18,22,6,12,1,5,4,2,45,45,4,10,65,33,66,17,10,6,11,82,100,156,26,24,1,1,2,1,8,138,21,5,49,70,1,3,4,15,53,7,3,7,2,32,33,73,55,103,8,11,18,33,36,15,61,11,42,79,1,79,52,26,21,107,31,40,11,1,102,72,3,74,39,65,18,221,18,48,16,28,90,26,19,33,113,121,68,189,136,226,29,59,27,91,10,56,12,84,85,297,178,222,208,1,207,459,204,471,136,200,45,26
 Algeria Adopts	5307
 Algeria Adopts New Cybersecurity Framework	4760
 Algeria Aims for Full Digital Transformation	2845
+Algeria Andorra Belarus Bhutan Botswana Brunei	10764
 Algeria Appoints Expert Panel	3831
 Algeria Approves Law	3877
 Algeria Argentina	10714
@@ -759,9 +784,12 @@ Algorithmization	2096
 Algorithms	5349,1443,1812,143,1849
 Algorithms Are Not Bias-Free	5700
 Algorithms and Applications. Springer. The Hindu	2816
+Algoritmo de Testagem	10777
 Algoritmos Genéticos	2816
 Algoritmos de ML	2816
 Algrie Tl-Compensation Interbancaire	6938
+Algum	10760
+Alguma	10760
 Algumas	9434
 Algumas Iniciativas Globais de Inteligência Artificial	2816
 Algumas Intervenções Estratégicas da Política de Ciência	2816
@@ -813,6 +841,7 @@ Alhassan	5349
 Alhassan Iddrisu	9205
 Alhassan Pereira Ibrahim	9116
 Ali Al-Abed	7723
+Ali Ali	10764
 Ali Badaoui	4052,2905
 Ali Bahati Juma	7639
 Ali Balcad	2719
@@ -844,6 +873,7 @@ Ali Resting	3371
 Ali Resting. Paratus Eswatini	3371
 Ali Sabieh	3098
 Ali Sabieh. Dans	3098
+Ali Saeed Alkindi	10764
 Ali Salatou Adji	2801
 Ali Sharif Dahir	3405
 Ali Tounsi	6957
@@ -855,6 +885,7 @@ Ali-Sabieh	4402
 Ali-Sabieh SA	6902
 Ali. With Eritrea	1741
 AliExpress	4673,5317
+Aliado	10772
 Alibaba	562,1178,26,1050,649,1201,576,125,618,425,381,418,2054,805,377
 Alibaba Cloud	1740,2119,4418,448
 Alibaba Group	5598,387
@@ -924,14 +955,18 @@ Alimentación	1701,6347,2439
 Alimentación Eléctrica	4209
 Alimentaire	643,1699
 Alimentation	2342,8131
+Alimentação	10754,23
+Alimentação Continuada	10777
 Alimento	4209
-Alimentos	1701
+Alimentos	1701,9059,17
 Alimenté	8109,610
 Alinah Fosi	2681,11
+Aline Coudouel	10768
 Aline Minko Mi Etoua. Déterminé	3178
 Aline Moulare N’Dakon	6660
 Aline Sylvie Minko Mi-Etoua	8761
 Alinhadas	9434
+Alinhamento	10783
 Alinéa	4420
 Aliongeza	4387
 Alioni Yorke Odria	8549,310,922
@@ -1013,6 +1048,8 @@ All HVAC	9123
 All Hands	5349
 All ICPC Members	3513
 All ICT	34,924
+All ID	10775
+All IIAG	10759
 All Individual	762
 All Internet	34
 All Know About	5817
@@ -1038,6 +1075,7 @@ All Policies	8613
 All Policy	3861
 All Posts	10123
 All Progressives Congress	4861
+All Project	10768
 All Projects Table	607
 All Proposals	7951
 All Public Commissions	4528
@@ -1071,6 +1109,7 @@ All U.S. Government-funded	4217
 All Ugandan	1920
 All VAT	8590
 All Zones Carthago Compensation SIBTEL National	6938
+All for Health	10776
 All of NIMC	5321
 All of Sadc	8128
 All of Us	10188
@@ -1094,7 +1133,7 @@ All-member	6947
 All-party	3714
 All-programmes	6548
 AllAfrica	4674,541,284,4,3609,981,570
-AllAfrica Global Media	4334,736
+AllAfrica Global Media	4334,736,5697
 AllAfrica Newsletters Get	7615
 AllMyT Summit	7367
 Allada	6217,4,3689
@@ -1124,6 +1163,7 @@ Allemagne. Bureau	10712
 Allemagne. Par	10371
 Allemand	998
 Allen	771,1047,179,120,8521
+Allen C	10784
 Allen Institute	10638
 Allen Institute for AI	5257,3531
 Allen Lane	5700
@@ -1133,6 +1173,7 @@ Allen&volume	771
 Aller	8606,1062
 Allexer Namundjembo The City of Windhoek	8676
 Allexxandar	5529,1328
+Alleyne G	10780
 Allez	747,4275
 Allgemeine Zeitung	3002,443,14,16,1606,536
 Alliamore NKABA ATSAMA	1594
@@ -1225,22 +1266,26 @@ Almamy Ilo Ba	6719
 Almamya and Coleah	2259
 Almanagil	1851
 Almasi Financial Services Limited Data Controller	7167
-Almeida	6514,2089
+Almeida	6514,2089,2177
+Almeida AA. Assessing	10780
 Almeida Partilhar Tweetar Partilhar Email Gerciley	2444
 Almeida Partilhar Tweetar Partilhar Email Sérgio	2315
 Almeirim	3048,1663,36,1071,200,154
+Almenfi	10763
 Almighty God	587
 Almond	7886
-Almost	582,189,448,42,1311,398,403,1593,67,91,197,839,310,1,680,442,171,13,178,772,318,61,511,12,119,25,315,126,324,101
+Almost	582,189,448,42,1311,398,403,1593,67,91,197,839,310,1,680,442,171,13,178,772,318,61,511,12,119,25,315,126,324,101,124,1,20,1
 Almost R63bn	9005
 Alnajdawi	9129
 Alofa	7392,1
+Alojamento	10757
 Alon Stern	8857
 Alon-Barkat and Busuioc	8283
+Alone	10763
 Along	36,1327,2559,905,945,614,562,67,3449
 Along National Arteries The Highway Effect	4130
 Along the Tana River Irrigation Scheme	9547
-Alongside	701,662,66,399,921,466,284,79,5,543,56,247,247,111,158,271,66,20,319,81,9,16,50,263,352,125,76,180,21,28,10,116,75,31,150,16,290,59,40,81,63,72,121,44,492,165,225,231,458,71,337,436,19,150,21,78,19
+Alongside	701,662,66,399,921,466,284,79,5,543,56,247,247,111,158,271,66,20,319,81,9,16,50,263,352,125,76,180,21,28,10,116,75,31,150,16,290,59,40,81,63,72,121,44,492,165,225,231,458,71,337,436,19,150,21,78,19,83
 Alongside Oracle	8261
 Alongside PAPSS	6401
 Alongside VAT	7786
@@ -1311,9 +1356,12 @@ Alta Tensión	4209
 Altas Personalidades Malabo	4209
 Alteneiji	9129
 Alter Ego Media S.A Bria.ai Alyntoris	8530
+Alterar	10772
 Alteration	1,1008,465,2240
 Alteration of Sex Description and Sex Status Act	5533
+Alteração	10749,6,28
 Alterações	8003
+Alterações Estatutárias	10755
 Alterações Orçamentais	1252,1,1,1,1,83,742,2931
 Altering	736
 Alternance Politique	4539
@@ -1331,7 +1379,7 @@ Alternative Dispute Resolution	2668,3008
 Alternative Dispute Resolution Procedure. Key	1742
 Alternative Finance Lab	9170
 Alternative Pathways	4439
-Alternative Procurement Arrangements	1867,1022,673,42
+Alternative Procurement Arrangements	1867,1022,673,42,7164
 Alternative Transfer Mechanisms	3861
 Alternativeclusteringalgorithms	8606
 Alternatively	26,984,818,158,1618,522,133,1105,1583,1,601,337,1187,50,1404
@@ -1357,6 +1405,7 @@ Altos	4209
 Altos Funcionarios	4209
 Altron	6232,1747,229
 Altron and BCX	8208
+Altura	10749
 Alufheli Ravuluvulu	396
 Aluglass Africa Ltd Data Controller INST-5171867254C	7167
 Aluguer de Licença	794
@@ -1364,14 +1413,18 @@ Aluguer de Servidores Fisicos	570
 Alum Continental	4209
 Aluminous	6921
 Alumni Talk	5355
-Alunos	10614
+Aluno	10766
+Alunos	10614,152
+Alunos Angola	10766
 Alupe University Data Controller INST-9238228DAB4 BUSIA	7167
 Alupe University Data Processor INST-9238228DAB4 BUSIA	7167
 Aluquém	539
 Aluse Arthur Ondego Data Processor INST-8487037F95A	7167
 Aluso	4674
 Alvarez Ntafatiro	7955
+Alvaro Andre	10763
 Alvará Gratuito Saber	9040
+Alvarás. O Guichê	10753
 Alvin R Cabral	1634
 Alvin Toffler	8483
 Alvoice Solutions Limited	3862
@@ -1388,10 +1441,12 @@ Alwihda	8171
 Alwohaibi	8604
 Aly Badara Berété	7826
 Aly Badara Bérété	7706
+Aly Elshekh	10764
 Aly SAWADOGO	6889,465
 Aly SAWADOGO Rasmatou OUEDRAOGO	3825
 Aly Song	8495
 Aly&author	766
+Alyaquobi F	10784
 Alyousif	9129
 Alzaabi	2673
 Alzahranietal	8602
@@ -1414,11 +1469,14 @@ Analyses Alimentaires	4402
 Analysis By Allen Mangava	6099
 Andrew Alston	9612
 Ange J.A de Berry Quenum Algeria Sets	6678
+Angola Press Agency. All	10767
 Anne Aliker	3056
 Annepeace Alwala	5839
 Années Ali	8891
 Anthony Albanese. Avinash Ramtohul	4850
 April. All	9613
+Aprovado Luísa Maria Alves Grilo Ministra	10766
+Arab States Algeria Global Cybersecurity Index	10764
 Arabia Saudita ALJINDAN	6613
 Architecture All	10616
 Architecture Was Always	5513
@@ -1451,6 +1509,7 @@ Ayantola Alayande	7211,377,1176
 Ayantola Alayande Researcher	7588
 Ayantola Alayange	6267
 Ayotunde Alabi	2826,7077
+Aziza Alrashdi	10764
 B- Work A- MTN R ALLOWED	582
 BAM Bank Al-Maghrib BM Banque	7655
 BESSAN Alban	10712
@@ -1496,6 +1555,7 @@ Brice Allowanou	3687
 Britam Uganda Managing Director Allan Mafabi	7591
 Broadband Access for All	3456
 Broadband for All	9107
+Bruno Halopeau and Albtoul	10764
 Bryce Allan	7638,2131
 Budget Allocation Reported Expenditure	3583
 Budget Allocation Reported Expenditure Legal	3583
@@ -1535,12 +1595,14 @@ CSPs and End User Agreements All	6432
 CTO Forum Algeria	2420
 Cabinet Ministers Alfred Gangata	5906
 Cabinet No Result View All Result	5774
+Cairo Alexandria Desert Road Giza Governorate	10764
 Cairo and Alexandria. Later	8828
 Calling All Tech Diplomats	4253
 Calls for Investigation Journalist Alfred Togba	8835
 Cambridge Centre for Alternative Finance	8074,277,1669
 Cambridge Centre for Alternative Finance Driven	8074
 Can You Have It All	7857
+Carlos Alberto Cavuquila. E ESTATÍSTICA Ministro	10752
 Carlos Alberto Tavares Pina	2091
 Categories Cybersecurity Allan Juma	9830
 Category Grant Allocated Financed	2474
@@ -1566,6 +1628,11 @@ Chris Hani and Alfred Nzo	7514
 Cidade Alta	539
 City of Kigali and All Provinces	718
 Civil Council Against All Forms of Discrimination	8811
+Classe Alunos Angola	10766
+Classe Alunos Angola Bengo Benguela Bié	10766
+Classe Professores Alunos	10766
+Classe Professores Alunos Angola	10766
+Classe Professores Alunos Angola Bengo Benguela	10766
 Claude and Claude Code. Along	5048
 Clean Alliance Party of Kenya	7167
 Client Alert	8027
@@ -1582,6 +1649,7 @@ Co-Head of Emerging Market Alternative Credit	9061
 Coding Training for All	3397
 Colegio de Alep Bata Bata	4209
 Colonel-major Bana Alhassane	10154
+Colonia Altos de Miramontes Calle	10764
 Combat Cybercrime. Allocate	1777
 Comisión de Supervisión Presupuestaria de Alto Nivel	4209
 Comisión de Supervisión Presupuestaria de Alto Nivel Se	4209
@@ -1590,6 +1658,7 @@ Committed Proposed Allocation Official Use Only	4653
 Communication All	395
 Communications Minister Mohamed Aden Mohamud Ali	3774
 Compliance Requirement All	6432
+Comportamento Reprodutivo de Alto Risco	10777
 Compute Almost	7151
 Computer Attack Response and Alert Centre	301
 Conceptual Al-Amin	9129
@@ -1599,6 +1668,8 @@ Connectivity for All	3954
 Consejo de Poblado de Alen-Angok Ebibeyín	4209
 Consulta Alvará Comercial Consulta Alvará Comercial	9040
 Consultivo de Alto Nível	2816,5814
+Consumo de Alimentos	10777
+Consumo de Alimentos Pouco Saudáveis	10777
 Contingent Allemand	998
 Contingent Allemand ARCEP	998
 Continuous Compliance Align	6432
@@ -1606,6 +1677,7 @@ Contractual and Regulatory Obligations All	3861
 Cookie Settings Accept All CookiesManage	3907
 Cookie SettingsREJECT ALLACCEPT ALLManage	6181
 Coopération Allemande	10371,341
+Coordenadora Dulce Alexandre Beatriz Gomes Mendes	10757
 Copy Link News Alerts WhatsApp	6559,339
 Copy Link News Alerts WhatsApp Communications	5050,883,432
 Copy Link News Alerts WhatsApp Government	6721
@@ -1618,8 +1690,11 @@ Countries Missing Primary Text Algeria	7707
 County Governments Additional Allocations Bill	10122
 Creating Prosperity and Equal Opportunity For All	582
 Creating Prosperity and Equal Opportunity for All	789
+Creative Commons Attribution-NonCommercial-Share Alike	10764
 Credit Allocated	4653
+Criminal MARCIA REPARAÇÃO ALFREDO MENDES Direcção	10750
 Critical and Alternative Perspectives Framing	7966
+Cuanza-Sul JULIANA ARAÚJO JOSÉ ALFREDO	10751
 Cultural Cartography By Atwemereireho Alex	8352
 Cultural and Scientific Organization ALECSO Charter	2958
 Current Allocation Actuals	4653
@@ -1638,6 +1713,7 @@ DPA- All	2668
 DZAP Project Components and Funds Allocation Component	2291
 Daily Maverick. All	1695
 Daily Subsistence Allowance	3583
+Dana Yousif Al-Abdulla	10764
 Daoud Aly MOHAMMEDINE	1968
 Dar Al-Handasah Consultants	5407,676
 Data Classifications. All	6432
@@ -1646,6 +1722,7 @@ Data Minimization All	3861
 Data Protection Act. All	8479
 Data Protection and Privacy A. All Telecommunications	4610
 Data and Algorithms	7836
+Data-Driven Resource Allocation	10776
 DataReportal. Algeria	3871
 Deeds Registries Act and Alienation of Land Act	7278
 Deemah AlYahya	3837
@@ -1696,11 +1773,15 @@ Digitalisation for All	1161
 Dimensions of Data Quality All	3861
 Directive Training Requirements All	3861
 Directorate General of National Security of Algeria	4052
+Direitos Humanos Carlos Alberto Cavuquila	10752
+Direção Nacional de Segurança Alimentar	10768
 Disclaimer All	8376
 Disclosure of Information All	775
 Discovery Alert	5247
 Dispute Resolution All	6432
 Disrupt Africa. All	4883
+Diversidade Alimentar Mínima	10777
+Diversidade Alimentar Mínima Gotas de Sangue Seco	10777
 Divona Algérie	5766
 Djezzy and Ooredoo. Algeria	4195
 Djibril Abdi Ali	8899
@@ -1718,6 +1799,7 @@ Dr. Ali	8592
 Dr. Ali Al-Baji	3826
 Dr. Badr N. Alsuwaidan	9262
 Dr. Dele Alake	7513
+Dr. Fernanda Alves	10776
 Dr. Hussein Ali Mwinyi	10746
 Dr. Katra Ali	9852
 Dr. Maruf Tunji Alausa	7027
@@ -1735,6 +1817,7 @@ ECOWAS Bank President Alberto Mario Noretti	9536
 ECOWAS Chief Negotiator Alhaji Aliko Dangote	7452
 ECOWAS and Smart Africa Alliance. Confirmed	1277
 EGM. All	8939
+EMR. All the EMRs	10784
 ESCWA Aldabaiba	3841,1934
 EU. All	9067
 EU. Min. Maruf Tunji Alausa	7027
@@ -1755,7 +1838,8 @@ Eleanor Beevor and Alexandre Bish	4127
 Elections Alimatou S. Bajinka Aug	9315
 Elena Fabrichnaya and Alexander Marrow	4127
 Elimination of All Forms of Discrimination	3583
-Elimination of All Forms of Discrimination Against Women	3005,2528
+Elimination of All Forms of Discrimination Against Women	3005,2528,5232,10
+Elimination of All Forms of Racial Discrimination	10765,10
 Emerging Actors and Coalition Dynamics Alongside	10062
 Emerging Allocations	7548
 Emerging Technologies. Alongside	7548
@@ -1772,6 +1856,8 @@ Engineer Issam Al-Oul	9479
 English. All	766,3673
 Engr. Aliyu Yusuf Aboki	7876
 Enseignement Supérieur Monsieur Ali Mohamed Ali	2960
+Ensino Primário Província Aluno	10766
+Ensino Secundário Província Alunos	10766
 Ensure Strategic Align	1777
 Ensure Strategic Alignment of NCC	1777
 Ensure the Alignment	1777
@@ -1788,6 +1874,7 @@ Etat Ali BONGO ONDIMBA	1231
 Etat Ali BONGO ONDIMBA Le Premier	548,683
 Etat. Alors	6889
 Ethiopia Algeria Street	4349
+Europe Albania Global Cybersecurity Index	10764
 European Payments Alliance	9832
 Evangelical Alliance of Kenya	6409
 Excellency Mahmoud Ali Youssouf	10169
@@ -1796,6 +1883,7 @@ Existing Statutes and Alignment Proposals	7548
 Existing Statutes and Alignment Proposals Fundamentally	7548
 Exit Clause All	6432
 Ezekiel Alabi	9116
+FINANÇAS Bernadete Alexandre	10757
 FISIM All Indus- Taxes	2775
 FONCTIONNALITES ET AVANTAGES DU LGEC Aliou	3381
 FORESTAL ALIMENTARIA AGRARIA	4209
@@ -1822,6 +1910,7 @@ Four Dimensions Alternative	7966
 Four Dimensions of Algorithmic Institutions	7966
 Frames Algeria	4151
 Francophone Africa. Already	3905
+Frequência Mínima de Alimentação	10777
 Frontière Algérie	3967
 Functional Functional Always	5050,272,222,389,353,79,194,162,177,2871
 Funding Alignment	3614
@@ -1851,11 +1940,14 @@ General of ALECSO	2958
 Genetec ALPR	10293
 Genetic Algorithms. MIT Press. Mkoba	2816
 Georgetown University's Kenneth Propp and Alston	8773
+Ghada Aljuhaiman	10764
 Ghana Alongside	6948
 Ghana. All	6041
 Gigler’s Alternative Evaluation Framework	10726
 GitHub Copilot and VS Code. All	6498
+Global Alliance	10776
 Global Alliance for Genomics and Health	10188
+Global Alliance for Vaccines and Immunization GBT	10776
 Global Anti-Scam Alliance	7476
 Global Anti-Scam Alliance’s State of Scams	8711
 Global Artificial Intelligence Alliance	7474
@@ -1923,7 +2015,7 @@ Hassan Allam Digital Infrastructure	4496
 Hassan Allam Digital Infrastructure and Data Center	4496,2182
 Hassina Aly Abeidy	1183
 Hay Al-Andalus	2101
-Health for All	4301
+Health for All	4301,6475
 Hile Alifa	9616
 Hirko Alemu	7909
 Hisham Ezz Al-Arab	10665
@@ -2002,6 +2094,7 @@ IP. Al-Hilal	10620
 IPPMEDIA.COM. ALL RIGHTS RESERVED	2857,3026,94,2907
 IR Fourth Industrial Revolution ADR Alternative	1243
 ITU All Rights Reserved Back	9434
+ITU Almost	10764
 IX. All	4217
 Ibrahim Al-Maliki	3160
 Ibrahim Binahmed Mohammed Alnaqbi	1639
@@ -2010,10 +2103,13 @@ Identity Cards. All	5609
 Idle Algorithms	7909
 Ifeloju Alakija- President	7329
 Ilyaas Ali Hassan	5045
+Implementation of Mobile Payments. Aligned	10775
 Importance of Preparing the ALECSO Charter	2958
 Incident Response A. All Telecommunications Service	4610
 Incubators United States All	4972
 India By Alfred Shilongo	3253
+Indicadores de ALCP	10777
+Indicadores de Alimentação de Lactentes	10777
 Information for All Programme	7724
 Information. M. Adji Ali Salatou	3337
 Infrastructure All ICTs	395
@@ -2037,6 +2133,7 @@ International Telecommunica- Alignment	961
 Internet Numbers Registry System. All RIRs	3503
 Internet for All	226,3058,2954
 Internet. Além	2816
+Introdução de Alimentos Complementares	10777
 Investment Algorithms	4848
 Islamic Republic of Mauritania H.E. Omar Alieu	7452
 Issam Al-Oul	9479
@@ -2054,12 +2151,15 @@ Jamiu Tolani Alli-Balogun Honourable Commissioner	7444
 Jassem Alzaabi	2673
 Jean Albert Manigomba	3560
 Jehad Alshrafi	7147
+Joana Albino	10753
+Joana Cardoso de Guerra Matos Albino	10753
 Joining Yonas Alemayehu	7887
 Jon Boyle and Alexander Smith	6486
 Jonathan Allen	10638
 Jose Carlos Almeida and Antonio	9399
 José Manuel Costa Alegre	5818
 José Manuel Macumbo Costa Alegre	6568
+Juan Carlos Alvarez	10763,2,10
 Judge Allen-Yaman	7587
 Judge K Allen-Yaman	7587
 Julia Love and Davey Alba	7343
@@ -2085,12 +2185,14 @@ Kuwait ALHAYEN	6613
 L. Albert	6652
 LC1 Polls Over Alleged Breach of EC	4175
 LE TEMPS All News	2396,3046
+LEI QUE ALTERA O REGIME JURÍDICO	10756
 LEO and High Altitude Platform System	3696
 LacInternet Society Khachoum Al-Wadi	2384
 Lagos’s Alaba International Market	9739
 Lalla Nouzha Alaoui	8891
 Lamine Zeine Ali Mahaman	4813
 Latitude Longitude Altitude Associated Space Station	736
+Lauren Allognon	10763
 Laws Alone Are Not Enough	6212
 Layout Abdoul Malick ALMAIMOUNE Conception	6959
 Le Ministre Adji Ali Salatou	3305,662
@@ -2099,6 +2201,7 @@ Le Sahel Aller	2514,287,536,4,15,39,594,824,1281,484,305,281,19
 Lead Entity All TWGs	4528
 Leading Algeria's Digital Leap	4178,1213
 Legal Identity for All	4791
+Lei de Alteração	10749
 Leora Klapper and Alexandra Norris	10714
 Leverage Africa Already Has	6410
 Lian Aldrich	6765
@@ -2122,6 +2225,10 @@ Lors du All My.T Summit	8699
 Los Alamitos	8021
 Lourino Alberto Chemane	2784,32,7323
 Lourino Chemane and Eugénio Alberto Macumbe	4214
+Luanda Cabinda ROSA ALVES BASTOS	10751
+Luanda DICKSON ALEXANDRE FRANCISCO JOÃO	10751
+Luanda GILBERTO LUTHER ALVES BAPTISTA	10751
+Luanda LEONOR DA CONCEIÇÃO ALZIRA PILARTES	10751
 Luhya and Kalenjin. The Alliance	9944
 Luno Nigeria CEO Ayotunde Alabi	9903
 Léon Alfred Opimba	7680
@@ -2149,6 +2256,7 @@ M. Héliodore Francis Alex GOULOUBI	7660,1
 M. Mamane Alassane Ahmed	7164
 M.Adji Ali Salatou	3305
 MADE Alliance	6023
+MARIA ALICE OLIVEIRA DA SILVA NETO	10750
 MCOM.001.2200594 Aligarh	7759
 MEA. Almost	8220
 MENA Startup Digest All Rights Reserved	5322
@@ -2162,6 +2270,8 @@ Mahamadou Aly Haidara	9042
 Mahasen Ali Yagoub and Minister of Digital Transformation	10663
 Mahdi Hassani Hamad Ali Director of Education	2958
 Mahdi Nasrullah Al-Ameen	4439
+Mahran Alsheikh	10764
+Maio Luanda JOÃO DOMINGOS ALFREDO	10751
 Maj Gen Tariq Al-Thaman	1868
 Major General Tariq Al-Thaman	1868
 Making All Spaces Safe	6705
@@ -2172,10 +2282,12 @@ Managing Director Gbenga Alade	8291
 Managing Director of Soft Alliance and Resources Limited	7973
 Mandatory Audit of Legacy Data All	3861
 Mandatory Internal Controls All	3861
+Manuel Alves Mendes Difusão GEPE	10766
 Maputo Along	9446
 Marc Alexandre Doumba	4138,982,2001
 March. All	1741
 Marck Alexandre Ndoumba	7094
+Marcos Alexandre Nhunga	10776
 Marekani. Alisema	8411
 Mariam Hamadou Ali	3616,332,5,244,67,25,40,647,1328,1152,259
 Marie Alexandre Yomo	8737
@@ -2235,9 +2347,11 @@ Mohamed Al-Turki	7947
 Mohamed Ali Abdallah	5530
 Mohamed Ali Jalloh Shows The Way	6355
 Mohamed Ali Nasra	2460,3536
+Mohamed Bubaker Alsafi	10763
 Mohamed Nur Ali Olow	2668
 Mohammed Alaoui	8891
 Moncef Ziani Ali Ghannam Tarik Aguizoul	8891
+Monitoring Alcoholic and Sugary Beverages	10776
 Monitoring and Alerts	5665
 Monsieur Alain Christian BAMOUNI	5826
 Monzer Ali	6139
@@ -2322,6 +2436,7 @@ Nihal Ali	8079
 No. Category Allocation Committed Allocation	2473
 Non-Discrimination ALECSO	2958
 Noon Al-Rashid	3448
+Noora Yousif Al-Abdulla	10764
 Norman Albi	1213,1162
 Notto Alternative	9222
 Nour Al-Daem	8972
@@ -2333,6 +2448,9 @@ Ntakamurenga Alexis	6389
 Number of Allocations	7548
 Nuno Caldas Albino	8491
 Nursing Trainee Allowance	7695
+NÁDIA ALEXANDRA CRISTÓVÃO PEDRO CABETO	10751
+NÍVEL DE ESCOLARIDADE E ALFABETIZAÇÃO Alfabetização	10777
+OLIVEIRA AUGUSTO ALBERTO	10751
 OZON Aljaded For Telecom and Technology Group	2843
 Obidah Habila Albert	5267
 Obrigação de Reportar Alterações	3519
@@ -2361,6 +2479,7 @@ Os Alunos	899
 Ouali Alami El Ghali	8891
 Outputs Algorithmic	7966
 Oversee the Strategy and Policy Alignment Unit	4528
+PA Paris Alignment PDO Project	10768
 PAENS. Rising Budget Allocation	5056
 PAFEN. All	1284
 PARIS ALIGNMENT ASSESSMENT For Direct	1818
@@ -2378,13 +2497,14 @@ Pan African Alliance of Small and Medium Industry	10262
 Pan African Visions AlgeriaAngolaBenin Dangote Launches	9989
 Pan African Visions. All Rights Reserved	9989
 Pango Aluquém	4044
+Pango Aluquêm	10751
 Paper Model Name Comments Al-Sharhan	8603
 Par Alain Nzilo	8168
 Par Albright Fandono	8170
 Par Alfred Ronys Yemetchipa Bangui	5856
 Par Alioune Badara CISS	7501
 Par Orland Alain M'BADINGA	9405
-Paris Alignment	6539
+Paris Alignment	6539,4229
 Participants. All	4217
 Participate All	1261
 Paseka Letsatsi. Alternative	2752
@@ -2454,6 +2574,8 @@ Professor Alessandro Abate	8529
 Professor Alison Gildwald	6152
 Professor Alison Gillwald	7757
 Professor Muhammad Ali Pate	7454
+Programa Alargado de Vacinação	10772
+Programa de Alfabetização	10766
 Programa de Conferencias de Alto Nivel	4209
 Programa de Produção Alimentar de Urgência	1265
 Programme Alimentaire Mondial	5667
@@ -2466,14 +2588,18 @@ Projecto de Lei de Alteração da Lei da Protecção de Dados	6847
 Proposed Alterations New Indicator New Target	4653
 Propostas de Altera	9399
 Prosper Alebgmiah Asuure	6936
+Província Total Professores Alunos Pública Professores	10766
 Proyecto de Alfabetización	4209
 Proyecto de Alianza	4209
 Proyecto de Alimentación	4209
 Proyecto de Alimentación Escolar	4209
+Práticas de Alimentação	10777
+Práticas de Alimentação de Lactentes	10777
 Président Alpha Condé	142
 Public Allocation	7548
 Public Health Minister Fidele Ndayisaba and Alain	6854
 PwC. All	7751
+Qualidade da Alimentação	10777
 Quona Capital. Per AllBusiness Africa	934
 R. Alghamdi	5349
 R.A. Alias	2093
@@ -2501,9 +2627,11 @@ Regional and International Alignment	5244
 Regulators Algeria Financial Stability Committee Angola	6938
 Regulatory Alignment	5665
 Reproductive Rights All	6534
+Republic T3 Establishing Algeria Kuwait Libya	10764
 Republic of Angola and Country Director Albert G	1770
 Requirements All	5665
 Research Data Alliance RDA	5246
+Resident Alien	10775
 Resource Allocation and Sustainable Funding Sustaining	1777
 Resource Optimization and Efficiency. All	6432
 Response All	7987
@@ -2523,11 +2651,15 @@ Risk Identification A. All Telecommunications Service	4610
 Risk Rides Alongside Opportunity	9547
 Risks of Algorithmic Bias and Exclusive Digital	8747
 Robert Kwaku Annor Algeria	4879
+Robin Almario	10764
+Rodriguez Alas	10763
 Romania and Albania	8182
 Rt. Hon. Alban Sumana Kingsford Bagbin	5935
+Ruaa AlJassar	10764
 RunLevel. Alex Rocha	5140
 Rw-CSIRT Alerts Advisories About NCSA Documentation	9125
 Rwanda Internet Community and Technology Alliance	8343,1452
+RÁCIO ALUNO	10766
 République Alassane Ouattara	2453
 République Algérienne	4403
 République du Congo Alliamore NKABA ATSAMA	1682
@@ -2565,6 +2697,7 @@ San Francisco and Palo Alto	5224
 San Juan Alcaide	4209
 Satellite Town and Alimosho Local Government Area	10742
 Savings of Prior Law and Acts All	3861
+Saúde Agregados Familiares Alimentação de Lactentes	10777
 Scam Alert	10311
 Scam Alert Tool	10580
 Scope and Applicability Data Domains Covered All	3861
@@ -2602,6 +2735,7 @@ Sid Ali Zerrouki. Selon	5766
 Siddig Al-Sour	9213
 Sidi Ali Nafee	2876
 Sierra Leone Aligns University Training	8610
+Siham Alrashdi	10764
 Simon Aldous	4119
 Six West African Nations Align AI	965,3804,120,206,68,334,86
 Smart Africa Alliance	1182,61,21,13,537,1000,478,257,50,360,27,140,1059,1218,661,484,373,2152
@@ -2664,6 +2798,7 @@ Sécurité Alimentaire	643
 T-Digital Impact Alliance	102
 T. Alhussain	5349
 TAM. Al-Suqri	5349
+TCHIPITA NETO FERREIRA DE ALMEIDA	10751
 TEHAMA. Alisisitiza	7863
 TELL and MG1. All	5033
 TENET and UbuntuNet Alliance	3840
@@ -2717,6 +2852,7 @@ Tunisia Zambia Zambia ECOWAS All Zones	6938
 Tunji Alausa	5137,1890
 Turn Around Allocation	969
 Types of Incidents and Level of Support All	775
+TÂNIA MANDUME SILVA DE ALMEIDA	10751
 Télécommunications. Alladoum Désiré	5671
 U.S. Department of State and Ethiopia. All	4349
 U.S. Department of State and Liberia. All	4202
@@ -2766,6 +2902,7 @@ Wafaa Al-Kilani	3073
 Walmart-owned PhonePe and Alphabet’s Google Pay	8942
 Warnings and Alarm	9123
 Warns Against Media Intimidation Cummings Alleges	4261
+Wassim AlJuneidi	10764
 Wataniya Telecom Algeria	3221
 Web Foundation's Alliance for Affordable Internet	149
 Web3.0 Alliance	5145
@@ -2788,6 +2925,7 @@ Yasmine Alemwa Ibango	4501,2096,379
 Yentemma Alex Lankoandé	9378
 Yibeltal Alemayehu	1824
 Yonas Alemayehu	2878,5009
+Yusuf Mohamed Ali Mothanna	10764
 ZMB. All SSA-49	724
 Zakwan AlArnaout	6948
 Zambia Mozambique Djibouti Algeria Uganda Angola	6938
@@ -2795,3 +2933,4 @@ Zimbabwe Independent. All	6244,1
 Zimbabwe National Frequency Allocation Plan	736
 Zimbabwean Ethical Values Pillar Alignment Pillar	4528
 Zoé Allado	1235
+Zumba Manuel Martins Alves Raimundo Mauro	10766

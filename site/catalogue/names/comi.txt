@@ -3,6 +3,7 @@ ANNEXES MEMBRES DU COMITÉ DE SUPERVISION	10712
 Agence de Développement du Digital. Ce Comité	9406
 B Comisario Grupo B Consejero Grupo	4209
 C Comissão Nacional de Direitos Humanos	6530
+CNE Comissão Nacional Eleitoral	10765,10
 CNPD Comissão Nacional de Proteção de Dados Pedidos	3079
 COMIFAC	4209
 COMIGEM	4127
@@ -58,7 +59,7 @@ Comisión de Supervisión Presupuestaria de Alto Nivel Se	4209
 Comissariado Geral de Moçambique	2816
 Comissariado Geral de Moçambique CPLP	2816
 Comissária da UE Jutta Urpilainen	9434
-Comissão	15,2300,129,1075,11,2027,15,247,3061,378
+Comissão	15,2300,129,1075,11,2027,15,247,3061,378,1492,2,3,17
 Comissão Económica	2816
 Comissão Eleitoral Nacional	3530,2288,2718
 Comissão Especializada	1268,72
@@ -66,18 +67,22 @@ Comissão Europeia	2816
 Comissão Executiva	7667,336
 Comissão Executiva da Mercury	6617
 Comissão Inter-americana de Telecomunicações	2816
+Comissão Interministerial	10772
 Comissão Interministerial Social	3246
 Comissão Nacional	2953
 Comissão Nacional Eleitoral	6640,3788
 Comissão Nacional da UNESCO	7882
 Comissão Nacional de Angola	7882
+Comissão Nacional de Educação	10766
 Comissão Nacional de Eleições	4419,519,5333
 Comissão Nacional de Fronteiras	5402
 Comissão Nacional de Fronteiras da Guiné-Bissau	5402
 Comissão Nacional de Inteligência Artificial	2816,7735
+Comissão Nacional de Protecção Civil	10763,5
 Comissão Nacional de Protecção de Dados	1338,742,265
 Comissão Nacional de Protecção de Dados de Cabo Verde	6568
 Comissão Nacional de Proteção de Dados Av. D	3079
+Comissão Técnica	10755
 Comissão Técnica Multissectorial de Coordenação	10551
 Comissão Técnico-Científica	4274
 Comissão da CEDEAO	8051
@@ -98,7 +103,7 @@ Comissões de Trabalho Especializadas	539,5252,3089
 Comissões de Trabalho Especializadas da Assembleia Nacional	8880
 Comite Nacional de Inclusao Financeira	2138
 Comite de Satélite	1215
-Comité	545,98,104,500,432,23,53,213,374,233,129,104,237,10,207,43,268,636,211,131,56,513,289,97,124,186,75,102,50,696,88,469,235,90,162,5,25,30,49,64,21,22,60,38,427,60,216,34,185,3,178,225,195,308,209,136,214,37,81,42
+Comité	545,98,104,500,432,23,53,213,374,233,129,104,237,10,207,43,268,636,211,131,56,513,289,97,124,186,75,102,50,696,88,469,235,90,162,5,25,30,49,64,21,22,60,38,427,60,216,34,185,3,178,225,195,308,209,136,214,37,81,42,130
 Comité Científico	10487
 Comité Consultatif Communautaire	2342
 Comité Directivo da SADC	9799
@@ -109,6 +114,7 @@ Comité Ministériel	8328
 Comité Nacional	9065
 Comité Nacional Derechos	4209
 Comité Nacional Económico	4209
+Comité Nacional de Bioética	10777
 Comité Nacional de Diversificación Económica	4209
 Comité Nacional de Inclusão Financeira	2138
 Comité Nacional de Luxofonía	4209
@@ -150,18 +156,24 @@ Comité du Pilotage	822
 Comités	1679,663,8158
 Comités Científicos. Uno	10487
 Comités Locaux	3396
+Comités Provinciais	10752
 Comités de Vigilancia	4209
 Comités des Utilisateurs de Recherches	12
 Comium	6226
 Constitucional Presidente Comisión Nac. UNESCO Secretario	4209
 Contribuables CTCS Comité Technique de Coordination	10712
+Control and Prevention Comité Nacional de Bioética	10777
 Convergence Is Not Coming. It Has	10570
+Criação de Comissão Técnica	10755
 Cross-Border Data Flows and International Comity	3861
 Células Sectoriales Comisión Nacional de Coordinación	4209
 D.C. Comité National Economique	1828
+Dados Comissão de Acompanhamento	10766
+Escritório Coordenadora da Comissão de Protecção	10750
 Events Happening Now No Events Coming	10707
 Finances MEMBRES DU COMITÉ TECHNIQUE Président	10712
 Fiscalía General Secretario General Comisión Nac	4209
+Funcionamento da Comissão Técnica	10755
 Gestion du Comité	8269
 La Comisión	4209
 Le Comité	735,2320,4837,64
@@ -193,6 +205,7 @@ Président du Comité	8269,2004
 Président du Comité National de Politique	10500
 Rede Lusófona de Proteção de Dados A Comissão	3079
 Regional and International Comity	3861
+Representantes da Comissão Intersectorial	10752
 Règles de Fonctionnement du Comité National	2625
 Sahel CARFO Banque Mondiale CBSD Comité	643
 Secretario Comisión Parlamentaria	4209

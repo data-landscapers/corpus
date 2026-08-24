@@ -128,11 +128,12 @@ IRA Insurance Regulatory Authority ISIC International	2775
 Indemnity and Insurance Rationale	8866
 Inspector General Servicios R. Insular Servicio	4209
 Insuchcases	8602
-Insufficient	396,370,195,1346,1123,361,335,313,409,685,144,1052,103,716,203,625,752,532,374,15,216,453
+Insufficient	396,370,195,1346,1123,361,335,313,409,685,144,1052,103,716,203,625,752,532,374,15,216,453,45
 Insufficient Resources	4439
 Insufficiently	766
 Insuffisance	737,2229,4689,3057
 Insuficiente	1701
+Insuficiência	10772
 Insularización	1701
 Insulate the Panel	7112
 Insulation	1988
@@ -140,7 +141,8 @@ Insult	26
 Insumos	1701
 Insur	6019
 InsurTech	4848,1021,52
-Insurance	418,349,173,1769,66,2121,304,465,547,27,759,791,236,110,1102
+InsurTech-related	10793
+Insurance	418,349,173,1769,66,2121,304,465,547,27,759,791,236,110,1102,1556
 Insurance Act	6938
 Insurance Activity Supervisory Body	6938
 Insurance Control Department	6938
@@ -167,6 +169,7 @@ Insurance and Social Security Supervisory Authority	6938
 Insurance-Sector-Coverage-Kenya-vF.pdf. United Nations	6938
 Insurer Liberty	5806
 Insurers	9237,438
+Insusceptibilidade	10777
 Insuﬀicient	958
 Ivorian Insurtech and Jumia Technologies	4150
 Journal of Insurance Medicine	8604
@@ -231,6 +234,7 @@ Sierra Leone Insurance Commission	6938
 Social Health Insurance Act	8934
 Social Health Insurance Fund	3393
 Social Health Insurance Fund and Affordable Housing	5684
+Social Insurance	10785
 South Africa’s National Health Insurance	8603
 Stabilization Levy NHIL National Health Insurance	236
 Strengthen Health Insurance Systems Through Digital	9837

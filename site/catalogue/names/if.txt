@@ -22,6 +22,7 @@ DFC and Cassava. IFC	1429
 DPEs and IFPs	2989
 Description IFC	80,1,1,1,201,95,120,1,181,1,1,1,1,1,1,202,1,1,1,1,1,1,229,1,1,391,1,1,1,1,2,1,690,1
 Description IFU	84,59,237,121,395
+Displacement Monitoring Centre IFAD International Fund	10759
 EU IFIs	970
 Economic Development Partner. IFC	2577
 Electoral and Boundaries Commission IFAD International Fund	2775
@@ -29,6 +30,7 @@ Eswatini IFMIS and PFM Capacity Building Project	536
 European IFIs. Subject	970
 Expansion IFU	380
 FY2017 IFMIS	1789,1,1,1,1,1413,3881
+Financial Instruments and IFRS	10793
 Fintech Pan-Africa IFU	501
 G Capital and IFC	9079
 Gambia. Supports IFMIS	166
@@ -53,7 +55,7 @@ IFC Catalytic First Loss Guarantee	8937
 IFC Collaboration	3562,42
 IFC Collaboration Disbursement	1284
 IFC Collaboration No Expected Approval Date	1284
-IFC Collaboration No Proposed Development Objective	1867
+IFC Collaboration No Proposed Development Objective	1867,8901
 IFC Country Manager for Comoros	3067
 IFC Debt Facility	893,1322
 IFC Disruptive Technologies and Funds	1264
@@ -136,16 +138,20 @@ IFMIS Oracle	1834
 IFMIS STANDARDS AND GUIDELINES	34
 IFMIS STANDARDS AND GUIDELINES The Integrated	34
 IFP MP Busaphi Machi	7404,3215
-IFPRI	8683
+IFPRI	8683,2085
 IFPs and Núcleos Pedagógicos Complete	2989
 IFR Interim Financial Report INRIS Integrated	1867
+IFR Interim Financial Report IPF Investment	10768
+IFR-based	10768
 IFR. Accounting and Reporting Arrangements	3604
-IFRS Accounting Standards	7204,2707
+IFRS Accounting Standards	7204,2707,882
 IFRS S1	9103
 IFRS S1 and S2	9103
 IFRSs	1154,1897
 IFRSs and IPSASs	3051
 IFRs M	3604
+IFRs and Annual Financial Statements	10768
+IFRs. Withdrawal	10768
 IFT The National Instant Payment System	2358
 IFU Investment Committee	84
 IFU and IFU	380

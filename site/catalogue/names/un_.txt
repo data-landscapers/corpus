@@ -23,6 +23,7 @@ Digital Economy. UN E-Government Survey	3534
 Diplomatic Corps Representatives of UN ODET and ITU	10210
 Direction Générale. Un	6438
 Download the UN News	9786
+E1 I-44 UN Human Capital Index	10785
 EN COURS DGAENF Un	2966
 Elon Musk. Un	6241
 English Search UN News Global	9786
@@ -49,6 +50,8 @@ HOL UN	3774
 Heads of UN Agencies	10210
 Hirshabelle State HOL UN	5172
 I Un	1996,2390
+I-16 UN Telecommunication Infrastructure Index	10785
+I-18 UN Online Service Index	10785
 IA. Un	9541
 IPS UN Bureau	8472
 Innovendi Data Technologies Un	5291
@@ -70,14 +73,17 @@ M. Doualeh Saïd Mohamoud. Un	4957
 Masaar. On the UN	3271
 Mauritius's UN Human Rights Committee	2363
 Mobile Money. Un	2765
+Mortality Estimation UN MMEIG United Nations	10759
 Médina Wandifa. Un	8270
 Non. Un	2975
 Officiel Un	7767
 Ouest Un	6200
 Parlement. Un	2014,7712
+Points Weight I-27 UN E-Participation Index	10785
 Qatar. Un	7531
 Refus Un	1005
 SME SOP STEM SWOT TWG UN	4528
+SMS Short Message Service UN United	10765,10
 Sandra Johnson. Un	8468
 Scheme UAT User Acceptance Testing UN	5533
 Sekou Kromah. Un	10604
@@ -93,6 +99,7 @@ TWG Technical Working Group UN United	6947
 Tchad. Un	6275
 Technical Working Group UN United Nations	7548
 Ten UN Principles	1243
+UCDP Uppsala Conflict Data Program UN	10759
 UEMOA. Un	5455
 UK United Kingdom UN United Nations	2775
 UN AI	8113
@@ -105,6 +112,7 @@ UN ATOUT RÉGIONAL MAJEUR DANS	10711
 UN Agencies	1814,2714
 UN Agencies and International Organizations	1243
 UN Agreement	8681
+UN Angola	10776
 UN Basic Principles and Guidelines	3583
 UN Binding Treaty	6960
 UN Bodies	3513
@@ -135,6 +143,8 @@ UN Dialogue Namibia	7098
 UN E-Gov Index	5114
 UN E-Government Development Index	1264,626,3,478,3,1211,221,409,84,705
 UN E-Government Survey	1749,156
+UN E-Participation Index	10785
+UN ECA	10765,10
 UN ECA's Deputy Executive Secretary and Chief	8472
 UN EGDI	1890,536,171,667,111,375,152,64,233,831,89,605,104,1082
 UN ESCWA	4819
@@ -168,6 +178,7 @@ UN Headquarters	9786
 UN Health Industry Foundation	5658
 UN High Commissioner	3583
 UN High Commissioner for Refugees	4127
+UN Human Capital Index	10785
 UN Human Development Index	3584
 UN Human Rights Council	3584
 UN Human Rights Office	3584,543
@@ -197,6 +208,7 @@ UN OEWG	2117
 UN Office	4810,2137
 UN Office for Digital and Emerging Technologies	7112
 UN Office of Information and Communications Technology	5825
+UN Online Service Index	10785
 UN PARTENARIAT BCEAO COFEB	10237
 UN PORTEFEUILLE DIVERSIFIÉ PRÉSENT DANS TOUS	2342
 UN POSITIONNEMENT INSTITUTIONNEL RENFORCÉ Missions	2342
@@ -205,16 +217,18 @@ UN Pact	4940
 UN Panel of Experts	3583
 UN Population	970
 UN Principles	1243
+UN Principles and Recommendations	10765,10
 UN Processes South Africa	2117
 UN Public Service Forum	6288
 UN Public Service ForumJuly	5553
 UN REPORTS SERIOUS HUMAN RIGHTS VIOLATIONS	4127
 UN Refugee	899
-UN Refugee Agency	4807
+UN Refugee Agency	4807,5969
 UN Refugees Agency	2324
 UN Resident Coordinator	2545,3197,3012
 UN Resident Coordinator Let	10210
 UN Resident Coordinator's Office	7749,2193
+UN Resident Coordinator’s Office	10776
 UN SDG	2829
 UN SDGs	7204,3387
 UN SDGs Good	7204
@@ -234,6 +248,7 @@ UN Security Council	2117,1467,529,162,941,2236,342,2341,274,55
 UN Security Council Counter-Terrorism Committee Executive	571
 UN Security Council Resolution	7452
 UN Special Rapporteur	7946,1136
+UN Special Representative	10776
 UN Statistical Commission	6337,626
 UN Summit of Futures	1264
 UN Sustainable Development Goals	582,207,1009,2022,4101,80
@@ -241,6 +256,7 @@ UN Sustainable Development Goals. Entities Joint	3583
 UN System	1243
 UN Tax Convention	9162,1173
 UN Tech Envoy	2311,24,2424,534,613,107,100,280,14,352,339,157,80
+UN Telecommunication Infrastructure Index	10785
 UN Third Committee	2117
 UN Trade And Development	250,814
 UN Trade and Development	7548,1267

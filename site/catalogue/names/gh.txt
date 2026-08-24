@@ -22,6 +22,7 @@ Addressing Underage and Ghost Voters In the U.S	9390
 Admissible. GHA	7068
 Adoption of GhanaChat Mandate	4126
 Advancing Ghana's National Security and Cyber Defence	8767
+Africa CDD-Ghana Ghana Center for Democratic Development	10759
 Africa Data Centres Ghana	1041
 Africa. In Ghana	789
 Africa. REPUBLIC OF GHANA NATIONAL ARTIFICIAL	4126
@@ -53,7 +54,7 @@ BA PUBLICNA NK OF GHA	2450
 BANK OF GHANA	7464,1268
 BU CLA Database ID GH.078	478
 Bank Of Ghana	4905
-Bank of Ghana	587,797,505,561,624,310,742,139,317,236,55,32,3,228,383,13,524,18,1,22,39,12,105,68,513,106,5,169,40,8,155,8,16,123,27,68,47,89,330,387,52,143,90,35,7,189,147,242,217,601,9,105,136
+Bank of Ghana	587,797,505,561,624,310,742,139,317,236,55,32,3,228,383,13,524,18,1,22,39,12,105,68,513,106,5,169,40,8,155,8,16,123,27,68,47,89,330,387,52,143,90,35,7,189,147,242,217,601,9,105,136,408
 Bank of Ghana Act	7695
 Bank of Ghana ISP Internet Service Provider	6936
 Bank of Ghana Mobile Payments Integration Strategy	6938
@@ -79,11 +80,13 @@ C. Ghidini	9237
 CDD Ghana	7662
 CEO of MTN Ghana	5136,2022
 CEO of Trident Aliska Digital Tech Ghana	9977
+CHANGES IN SHAREHOLDING MTN Ghana	10793
 CIPS Stanbic Bank Ghana	8928
 CIPS. Ghana	8928
 CIV and GHA	856
 CNGUP Love Emma Ghunney Team Member	1284
 COD GHA CIV RWA UGA ZMB	689
+CODM EBITDA South Africa Nigeria Ghana	10793
 COMMUNICATIONS IN GHANA Volume	2776
 CONCLUSION The Republic of Ghana	4126
 CSA and EY Ghana	10304,72
@@ -163,6 +166,7 @@ European Union and Ghana	789
 European and Ghanaian	789
 Every Ghanaian	4773
 Excluding GHS	4202
+Excluding MTN Nigeria and MTN Ghana	10793
 Executive Director of Ghana's Data Protection Commission	1779
 Expand Ghanaian	4126
 Feed Ghana	7695
@@ -204,7 +208,7 @@ GHG. Consequently	970
 GHIMS	3833
 GHN-BF	9509
 GHS Lab Commodities	4167
-GHS0.03	8813
+GHS0.03	8813,1980
 GHS1.9	8607,206
 GHS10.45	8607
 GHS11.35	8607
@@ -268,9 +272,10 @@ GhIPSS CEO	6075
 GhIPSS CEO Clara B. Arthur	6097
 GhIPSS Instant Pay	1384,2881,608
 GhIPSS. ICT4AD	1889
+Ghada Aljuhaiman	10764
 Ghafoori	4432
 Ghaith	8891
-Ghana	7,4,51,19,3,5,6,25,34,16,6,60,13,14,31,37,13,55,3,58,35,15,6,9,57,5,8,28,1,12,7,1,31,2,42,4,43,5,18,22,9,36,6,47,22,16,1,13,21,13,18,19,6,3,6,5,2,36,33,13,3,56,17,7,24,7,13,1,68,29,2,4,17,31,19,2,29,49,1,22,3,7,7,31,62,45,4,16,16,51,35,10,29,36,20,51,20,122,53,53,1,35,94,4,20,45,41,2,71,48,2,18,93,32,7,4,51,7,13,28,3,108,3,7,1,11,88,25,4,29,77,4,1,65,22,32,40,40,2,5,5,28,3,2,41,1,17,5,38,12,7,18,14,14,2,6,15,22,50,32,59,9,10,1,46,11,118,16,43,23,38,5,7,8,9,1,23,24,55,4,32,61,4,38,14,63,34,8,1,1,1,1,91,1,7,15,6,8,6,52,29,2,26,23,16,18,57,5,1,16,3,10,8,5,1,4,3,1,3,3,1,6,10,3,39,2,25,44,1,17,1,41,26,9,8,20,48,2,4,1,8,20,30,21,44,7,1,9,4,12,58,1,27,2,10,19,27,10,3,90,53,4,1,1,17,3,8,38,31,42,34,45,13,20,3,11,4,20,29,2,23,31,1,18,1,22,39,11,1,11,7,10,1,10,25,7,7,6,1,9,11,13,1,43,11,14,12,4,17,3,6,15,14,65,37,4,8,1,59,13,39,15,21,15,7,20,4,41,37,15,16,3,8,32,10,54,1,5,1,1,2,5,1,2,2,2,9,2,33,2,41,9,20,8,25,13,24,16,4,4,3,22,98,1,16,23,4,12,11,16,1,1,2,1,27,1,51,8,4,27,1,17,14,16,6,13,15,4,2,15,10,2,12,13,17,47,1,1,1,1,8,36,3,47,43,18,32,35,8,21,4,63,5,3,1,1,18,5,23,8,1,29,39,24,32,41,18,10,12,14,62,1,1,2,3,42,30,1,21,13,2,35,30,1,3,2,30,15,12,89,1,1,26,1,7,16,7,10,1,1,1,8,37,83,2,28,1,1,19,3,38,19,18,10,1,38,1,21,13,12,4,8,3,12,7,7,40,1,1,51,62,32,70,1,1,1,8,27,26,42,2,7,1,1,1,1,20,3,32,17,1,22,1,1,93,1,1,3,2,41,12,32,20,2,1,15,1,10,34,28,44,53,9,30,2,22,21,5,2,4,12,9,18,37,1,9,3,5,1,16,14,1,1,1,1,7,9,36,1,30,7,34,8,1,30,4,35,5,5,12,5,1,41,2,4,5,3,4,16,28,15,29,1,1,35,23,6,12,7,4,5,13,3,1
+Ghana	7,4,51,19,3,5,6,25,34,16,6,60,13,14,31,37,13,55,3,58,35,15,6,9,57,5,8,28,1,12,7,1,31,2,42,4,43,5,18,22,9,36,6,47,22,16,1,13,21,13,18,19,6,3,6,5,2,36,33,13,3,56,17,7,24,7,13,1,68,29,2,4,17,31,19,2,29,49,1,22,3,7,7,31,62,45,4,16,16,51,35,10,29,36,20,51,20,122,53,53,1,35,94,4,20,45,41,2,71,48,2,18,93,32,7,4,51,7,13,28,3,108,3,7,1,11,88,25,4,29,77,4,1,65,22,32,40,40,2,5,5,28,3,2,41,1,17,5,38,12,7,18,14,14,2,6,15,22,50,32,59,9,10,1,46,11,118,16,43,23,38,5,7,8,9,1,23,24,55,4,32,61,4,38,14,63,34,8,1,1,1,1,91,1,7,15,6,8,6,52,29,2,26,23,16,18,57,5,1,16,3,10,8,5,1,4,3,1,3,3,1,6,10,3,39,2,25,44,1,17,1,41,26,9,8,20,48,2,4,1,8,20,30,21,44,7,1,9,4,12,58,1,27,2,10,19,27,10,3,90,53,4,1,1,17,3,8,38,31,42,34,45,13,20,3,11,4,20,29,2,23,31,1,18,1,22,39,11,1,11,7,10,1,10,25,7,7,6,1,9,11,13,1,43,11,14,12,4,17,3,6,15,14,65,37,4,8,1,59,13,39,15,21,15,7,20,4,41,37,15,16,3,8,32,10,54,1,5,1,1,2,5,1,2,2,2,9,2,33,2,41,9,20,8,25,13,24,16,4,4,3,22,98,1,16,23,4,12,11,16,1,1,2,1,27,1,51,8,4,27,1,17,14,16,6,13,15,4,2,15,10,2,12,13,17,47,1,1,1,1,8,36,3,47,43,18,32,35,8,21,4,63,5,3,1,1,18,5,23,8,1,29,39,24,32,41,18,10,12,14,62,1,1,2,3,42,30,1,21,13,2,35,30,1,3,2,30,15,12,89,1,1,26,1,7,16,7,10,1,1,1,8,37,83,2,28,1,1,19,3,38,19,18,10,1,38,1,21,13,12,4,8,3,12,7,7,40,1,1,51,62,32,70,1,1,1,8,27,26,42,2,7,1,1,1,1,20,3,32,17,1,22,1,1,93,1,1,3,2,41,12,32,20,2,1,15,1,10,34,28,44,53,9,30,2,22,21,5,2,4,12,9,18,37,1,9,3,5,1,16,14,1,1,1,1,7,9,36,1,30,7,34,8,1,30,4,35,5,5,12,5,1,41,2,4,5,3,4,16,28,15,29,1,1,35,23,6,12,7,4,5,13,3,1,19,26,8
 Ghana A Xalam Analytics Country Report	3184
 Ghana AI Institute	5227
 Ghana AI Readiness Index. Learn	4126
@@ -302,6 +307,7 @@ Ghana CARES	1889
 Ghana CARES. Ghana	789
 Ghana Cabinet	5701
 Ghana Cameroon	4972
+Ghana Capital	10793
 Ghana Card	84,895,1610,100,32,51,24,33,400,21,141,33,119,24,1,3,231,57,723,95,114,682,19,67,188,252,148,30,133,61,21,707,66,129,23,35,17,1,330,327,339,330,1145,574
 Ghana Card PIN	2589
 Ghana Card-related	9841
@@ -375,9 +381,12 @@ Ghana Free Zones Authority	10630
 Ghana GL-126-7029	9109
 Ghana Gazette	11
 Ghana Ghana’s Draft Data Protection Bill	6520
+Ghana Global Cybersecurity Index	10764
 Ghana Gold Board	7695
+Ghana Greece Iceland India Indonesia Italy	10764
 Ghana Greece Personal Identity Document	10714
 Ghana Grid	4126
+Ghana Group EBITDA	10793
 Ghana Health Information Management System	3833
 Ghana Health Service	723,311,4990,4606
 Ghana Health Service Patients’ Charter	4126
@@ -661,6 +670,7 @@ Ghana. QUESTION	6940
 Ghana. REPUBLIC OF GHANA NATIONAL ARTIFICIAL	4126
 Ghana. Result	789
 Ghana. Review	4126
+Ghana. Robust	10793
 Ghana. Secondly	8776
 Ghana. Securing	9007
 Ghana. Several	4126
@@ -685,7 +695,7 @@ GhanaChat	4126
 GhanaHomePage	84
 GhanaPostGPS	10672
 GhanaPostGPS and Ghana.gov	8545
-Ghanaian	89,147,101,245,207,1900,107,388,45,21,243,57,18,14,170,96,226,52,103,254,99,124,2,220,208,91,482,69,154,2,1,64,75,73,1,129,33,37,4,18,23,128,186,230,4,5,3,206,11,152,35,16,40,115,35,48,89,44,286,338,4,112,35,31,179,8,16,28,171,60,310,178,39,2,25,370,103,3,80,133,169,136,45,31
+Ghanaian	89,147,101,245,207,1900,107,388,45,21,243,57,18,14,170,96,226,52,103,254,99,124,2,220,208,91,482,69,154,2,1,64,75,73,1,129,33,37,4,18,23,128,186,230,4,5,3,206,11,152,35,16,40,115,35,48,89,44,286,338,4,112,35,31,179,8,16,28,171,60,310,178,39,2,25,370,103,3,80,133,169,136,45,31,162
 Ghanaian AGI	4126
 Ghanaian AGI Policy	4126
 Ghanaian AI	4126
@@ -843,6 +853,7 @@ Integrated Ghana Gas Processing Facility	7695
 Intelligence Association of Ghana	4126
 Internet GHS	582
 Internet Society Ghana Chapter	8247,2310
+Ivoire Ghana Angola Tanzania MW	10781
 Ivoire Ghana Senegal Rwanda MW	3184
 JA and FA for Ghana	771
 JOINT PROGRAMMING GHANA	789
@@ -878,18 +889,22 @@ METHODOLOGY Ghana’s National AI Strategy	4126
 MHz GHz	736
 MINISTER REPUBLIC OF GHANA NATIONAL ARTIFICIAL	4126
 MTN GHANA	6242
-MTN Ghana	89,835,2406,1797,9,388,185,533,351,113,662,123,67,467,149,340,66,27,89,70,47,113,426,685,105
+MTN Ghana	89,835,2406,1797,9,388,185,533,351,113,662,123,67,467,149,340,66,27,89,70,47,113,426,685,105,651
 MTN Ghana Accra Media and Stakeholder Forum	5854
 MTN Ghana Backs Phased SIM Re-Registration	5524
 MTN Ghana CEO Stephen Blewett	7491
+MTN Ghana FY	10793
 MTN Ghana FY22	924
 MTN Ghana Fintech Trust	5709,2316
 MTN Ghana Foundation	10142
+MTN Ghana Mobile Money	10793
 MTN Ghana US	7491
+MTN Ghana and MTN Nigeria	10793
 MTN Ghana and Vodafone Ghana	236
 MTN Ghana's CEO	8580
 MTN Ghana's Chief Executive Officer	5524
 MTN Ghana's Chief Home Officer Richard	7491
+MTN Ghana's Employee Share Option Scheme	10793
 MTN Ghana's FY2026	7491
 MTN Ghana's Field Service Manager	8696
 MTN Ghana's Ghana	5136
@@ -897,7 +912,9 @@ MTN Ghana. MTN Ghana	9840
 MTN Ghana’s Mobile Money	8813
 MTN Mobile Money Ghana	8174,340
 MTN Mobile Money for Ghana	4750
-MTN Nigeria and MTN Ghana	5389
+MTN Nigeria and MTN Ghana	5389,5404
+MTN South Sudan and MTN Ghana	10793
+MTN Zakhele Futhi MTN Ghana	10793
 MTN's Ghana	7491
 MW Ghana	3184
 Mahesh Ghatge	2427
@@ -950,9 +967,10 @@ National Validation Workshop for Ghana's National Data	1779
 News Ghana	4905,3,494,2968
 News Trident’s Ghana JV Projects US	9977
 Niger Liberia Ghana Cabo Verde Central	9616
-Nigeria and Ghana	265,777,1903,2027,1801,875,1204,883,142,863
+Nigeria and Ghana	265,777,1903,2027,1801,875,1204,883,142,863,53
 Nigeria and Ghana. POTRAZ Director General	2987
 Nigeria and Ghana. Tizeti	265
+Nigerian and Ghanaian	10793
 Nigeria’s and Ghana	4848
 Northern Bahr El Ghazal	3583
 Note The Bank of Ghana	7606
@@ -1013,8 +1031,10 @@ Republic of Ghana National Artificial Intelligence	4126
 Republic of Ghana. Address	6936
 Republic of Ghana. Data Protection Act	6936
 Research and Development GHG Greenhouse Gas GII	7548
+Restated1 South Africa Nigeria Ghana SEA	10793
 Reviving Ghana’s Upstream Oil and Gas Sector	7695
 Roadmap for Ghana	4126
+Role-modelling Ghana Kenya Mauritius Rwanda Tanzania	10764
 SCAN FOR APPENDICES REPUBLIC OF GHANA	4126
 SKILLS AND DIGITAL DIVIDE IN GHANA	582
 SP Echo Ghana Limited	3386,4639
@@ -1040,6 +1060,8 @@ Simba Media Ghana Limited Government School	3386
 Simo Mobile Ghana Limited	3386
 Simou Hajbouha Zoubeir Thami Ghorfi Abderrahmane	8891
 Software Bill of Materials GRA Ghana Revenue	6936
+South Africa Nigeria Ghana SEA	10793
+South Africa Nigeria Ghana SEA Uganda	10793
 South Africa and Ghana	1805,8797
 Space X Starlink GH LTD	1692,161
 Stakes for Ghana	10415
@@ -1049,6 +1071,8 @@ Startup Law. Ghana	1889
 State of Ghana's AI	9204
 Straits Times. Ghana	7187
 Strengthen Ghana's Digital Governance and Global Trade	9422
+Sudan South Sudan Ghana Financial	10793
+Sudan South Sudan Ghana Six	10793
 Support Ghana	789
 System Ghana Ltd	3386
 System Ghana Ltd January Email	3386

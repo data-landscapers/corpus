@@ -20,6 +20,7 @@ Le Rfu	6795
 Mobile Care Services IETF RFC7159	1009
 PDF RFC	1009
 PDF RFC3778 PDF	1009
+PUE Power Usage Effectiveness RFS Ready	10781
 Profile CERT-GH Home RFC	775
 Profile CERT-GH RFC	775
 RF Modules. Applications	6946
@@ -62,6 +63,8 @@ RFC5646 HL7 CDA R2 ISO2260 PDF	1009
 RFC6585	1009
 RFC7525	1009
 RFC7540	1009
+RFC9116. Note	10764
+RFDRP	10779
 RFI. L'initiative	7421
 RFID Journal	8776
 RFID and EAS	736
@@ -88,6 +91,7 @@ Russophonie Afrique. See RFI	4127
 SITA RFB	7514
 SMART CITY FACILITIES RFP NO. PPPD	5793
 Smart Africa Secretariat RFP	4050
+Usage Effectiveness RFS Ready For Service	10781
 Web. Subject Data Definitions RFC1510	1009
 XDS RFC	1009
 Zimbabwe. RF	970

@@ -1,5 +1,6 @@
 A. SHAREHOLDER DETAILS Full Name	4896
 ACTION Namibia Coalition	1016,5
+AFR EAP ECA LCR MNA NAM	10785
 AFS Conclusion Namibia	1013
 AI and Robotics Accelerator'. Namibia University of Science	5036
 AI. Namibia's AI	5036
@@ -21,6 +22,7 @@ Africa. Namibia	4980
 Aic Namuncha Local Church Data Processor	7167
 Aldjima Matthieu NAMOUNTOUGOU	7670
 Allexer Namundjembo The City of Windhoek	8676
+Amostra Namibe	10777
 Angola Ghana Kenya Mozambique Namibia Nigeria	5247
 Angola and Namibia	6618,3341
 Anti-Corruption Commission of Namibia	3445
@@ -67,6 +69,7 @@ COUNTRY NAME	5352
 COUNTRY NAME ABBREVIATION	3972,1380
 CRVS and Maisha Namba	6274
 CSP Information Item Details Name of Entity	6432
+Cabinda Luanda Namibe Bengo Zaire Moxico	10775
 Capacity Base Station Name	736
 Capacity Project ID Project Name Additional	1284
 Capital Name of Director	4896
@@ -87,7 +90,7 @@ Committee Meetings Committee Name National Research	1154
 Communication Regulatory Authority of Namibia	2588,5039,623
 Communications Regulatory Authority of Namibia	1750,150,75,1,1,2,1,6,36,547,19,429,442,2039,9,22,14,21,48,5,850,298,19,1,41,447,150,318,513,1,159,1,245,606,1199
 Component Name	3604
-Components Component Name Cost	1867
+Components Component Name Cost	1867,8901
 Components RESULT FRAME TBL IO Indicator Name PBC	1284
 Components RESULT FRAME TBL IO Indicator Name PBC Baseline	1228
 Computable Name	6666
@@ -96,9 +99,12 @@ Congo and Namibia	9399
 Conselho Municipal da Cidade de Nampula	1808
 Contact Information Name	9892,1
 Contingent Emergency Response Component Indicator Name	4653
+Cubango Namibe Huíla Cunene Sul	10760
+Cunene and Namibe	10763
+Cunene and Namibé	10768
 Cyclone Freddy. COMPONENTS Current Component Name	4653
 D. BANKING DETAILS Name of Bank	4896
-DATASHEET BASIC INFORMATION Project Operation Name	1867,1737
+DATASHEET BASIC INFORMATION Project Operation Name	1867,1737,7164
 DPS Nampula	2228
 DRIVER'S NAME	1988
 DWELLING NOT FOUND LOCALITY NAME	582
@@ -111,6 +117,7 @@ Deep Learning IndabaX Namibia	5036
 Denial of Service DNS Domain Name System	6946
 Deputy Vice Chairperson Benny Namugwanya Bugembe	9386
 Description Named	2905
+Description Namibé	10768
 Development Bank of Namibia	3714
 Digital Access and Inclusion Revised Indicator Name	4653
 Digitalized Namibia	4980
@@ -119,7 +126,7 @@ Domain Name Administration	6946
 Domain Name Authority	8435,166
 Domain Name System	958,33,3219,2936,283
 Domain Name System DSTV	958
-Domain Name System Security Extensions	1036,3174
+Domain Name System Security Extensions	1036,3174,6554
 Domain Name Systems	2117
 E Household NAME’s NAME	582
 ENTITY Name	1638
@@ -168,6 +175,7 @@ Huduma Namba Identity System	9399
 Huduma Namba Integration	10415
 Huduma Namba and Maisha Number	3391
 Huduma Namba. The European Union	9600
+Huíla Namibe ROSA ELSA ERNESTO BAPTISTA	10751
 ICT Sector Telecom Namibia Mobile Telecommunications	1013
 ID for All The Namibian	3017
 IDD04 Extended Team Name Title Organization	1284
@@ -197,6 +205,7 @@ International Non-proprietary Name	9855
 Internet Corporation for Assigned Names and Numbers	3503,3743
 Internet Society of Namibia	1928
 Investments Named DPI	3859
+Israel Nambi	10765,10
 JAMII NAMBA	1921
 Jamii Namba	1644,215,62,947,2829,196,230,204,235,158,96,3644,131
 Jamii Namba ID	2783
@@ -227,7 +236,9 @@ Lipa Namba and QR	6816
 Location Name	1988
 Ltd Bundle Validity Bundle Name MBs	718
 Ltd Namclear	6938
+Luanda Namibe TATIANA ULICA DA SILVA	10751
 Lunda Norte and Namibe. SMS	8475
+Lunda Sul Malanje Moxico Namibe Uíge	10766
 M NAME	582
 MTC Namibia	3634,1228,453
 MTC Namibia and BoFiNet Sign MOU	5066
@@ -244,14 +255,19 @@ Maisha Namba ID	2447,478
 Maisha Namba. Digitisation	10728
 Maisha Namba. Last	2447
 Maisha Namba. Now	10728
+Malanje Moxico Namibe Uíge Zaire Continua	10766
+Malanje Moxico Namibe Uíge Zaire Fonte	10766
+Malanje Moxico Namibe Uíge Zaire MF	10766
 Malawi ICT Minister Shadrick Namalomba	4790
 Malawi. Namalomba	10553
+Mali Namibia Niger Sao Tome and Principe	10764
 Manica and Nampula	1228
 Manyando Namakando	9152
 Maria Nambuya	8764
 Martin Endjala Namibia	7627
 Mashia Namba	2566
 Masiah Namba ID	2566
+Mauritania Namibia Nauru Nicaragua Niger Saint	10764
 Mauritius and Namibia	962
 Member for Nambale	10313
 Member for Nambale Constituency	10313
@@ -262,6 +278,13 @@ Miriam Namutebi	6576
 Monitoring System Infrastructure Applications Domain Name	9123
 Morocco Namibia MauCAS Instant Payment System	6938
 Morocco and Namibia	6938
+Moxico Namibe	10766
+Moxico Namibe Continuação Uíge Zaire	10757
+Moxico Namibe Uíge	10766
+Moxico Namibe Uíge Zaire	10766
+Moxico Namibe Uíge Zaire Continua	10766
+Moxico Namibe Uíge Zaire Fonte	10766
+Moxico Namibe Uíge Zaire MF	10766
 Mozambique Namibia Nigeria	5247
 N Company Name Date of Contact Details	3386
 NAD Namibia	1944
@@ -316,6 +339,7 @@ NAMING CONVENTIONS STANDARDS AND GUIDELINES	34
 NAMPA	9664,1
 NAMlEgNeTmNeOnTeICKE	6907
 NaMEA	9966
+Nam Tier Performance	10764
 Nam-CSIRT	7627
 NamClear	6988
 NamClear Managing Director Fabian Tait. Under	6988
@@ -327,6 +351,7 @@ NamSwitch CBN RTGS Namclear	6938
 Nama Water Services	8428
 Namaacha	10083
 Namabal Beligung Gung	6841
+Namacunde	10776
 Namacurra	1228
 Namageyo-FunaAAketchMTabuCMacNeilABlolandP. Assessment	8376
 Namahoua Bamba Touré. L'ARTCI	1648
@@ -348,7 +373,7 @@ Nambari	2868
 Nambeshe	4175
 Nambeshe Takes Over	4175
 Nambia	5612
-Nambuangongo	539,3505,2697
+Nambuangongo	539,3505,2697,4010
 Name Baseline Actual	4653
 Name Baseline Result	4653
 Name Bearer	736
@@ -418,9 +443,24 @@ Namespace Identifier	6666
 Nametil-Angoche Inauguração da Estrada Maroeira	9432
 Namib Desert	5081
 NamibLII	1233
-Namibe	4044,4381
+Namibe	4044,4381,2325,7,3,3,2,1,10,1,5
+Namibe Cabinda ISABEL CONSTÂNCIA TOMÉ	10751
+Namibe Cuando Cubango JOSÉ ADÃO NETO	10751
+Namibe Cuanza-Sul SONIA LUZIA GUEVE CHIMANHA	10751
+Namibe EDNA DA GLORIA CAHALA TCHIVANDJA	10751
+Namibe Edição Nº	10753
+Namibe Huíla Cunene Lunda Sul Bengo	10777
+Namibe Moxico ANTÓNIO CAPALO MATIAS MUCANDA	10751
+Namibe NGANETA CLAUDERINHA FIGUEIREDO DOS SANTOS	10751
+Namibe Uíge	10766
+Namibe Uíge Zaire	10766
+Namibe Uíge Zaire Continua	10766
+Namibe Uíge Zaire Fonte	10766
+Namibe Uíge Zaire MF	10766
+Namibe Uíge Zaire N.º	10766
+Namibe Uíge Zaire Professores	10766
 Namibe. O Conecta Angola	6585
-Namibia	159,10,67,69,13,7,77,1,109,77,55,132,186,51,3,14,1,115,87,9,1,36,154,32,89,36,6,63,188,24,51,6,16,31,1,1,2,1,1,5,1,10,2,23,50,158,5,105,124,26,98,89,5,79,14,56,104,60,7,15,163,73,99,17,41,29,6,14,16,9,48,7,48,33,14,80,45,23,38,39,8,110,77,19,77,26,49,157,50,1,62,88,7,50,169,7,46,78,19,13,8,30,26,45,5,161,7,74,79,7,74,10,4,5,22,14,21,48,5,64,99,14,132,64,65,28,143,22,2,11,78,29,58,37,76,18,75,4,2,25,1,5,7,5,2,25,2,52,3,19,8,33,1,50,22,40,50,8,2,100,11,17,62,85,57,93,17,188,50,29,34,2,50,32,80,45,55,1,14,70,23,1,134,3,1,3,158,1,1,137,58,50,16,46,118,3,127,136,1,1,54,9,182,46,76,10,77,104,16,67,123,1,79,1,120,73,1,22,137,54,94,5,75,25,32,35,25,63
+Namibia	159,10,67,69,13,7,77,1,109,77,55,132,186,51,3,14,1,115,87,9,1,36,154,32,89,36,6,63,188,24,51,6,16,31,1,1,2,1,1,5,1,10,2,23,50,158,5,105,124,26,98,89,5,79,14,56,104,60,7,15,163,73,99,17,41,29,6,14,16,9,48,7,48,33,14,80,45,23,38,39,8,110,77,19,77,26,49,157,50,1,62,88,7,50,169,7,46,78,19,13,8,30,26,45,5,161,7,74,79,7,74,10,4,5,22,14,21,48,5,64,99,14,132,64,65,28,143,22,2,11,78,29,58,37,76,18,75,4,2,25,1,5,7,5,2,25,2,52,3,19,8,33,1,50,22,40,50,8,2,100,11,17,62,85,57,93,17,188,50,29,34,2,50,32,80,45,55,1,14,70,23,1,134,3,1,3,158,1,1,137,58,50,16,46,118,3,127,136,1,1,54,9,182,46,76,10,77,104,16,67,123,1,79,1,120,73,1,22,137,54,94,5,75,25,32,35,25,63,45,5,21
 Namibia AI Readiness Assessment Methodology	5036
 Namibia Access	1025
 Namibia African	1944
@@ -605,6 +645,7 @@ Namibia’s Root Certification Authority	8250
 Namibia’s Vice-President	1981
 Namibie	6241,372,602,78,803,1036,1352
 Namibie. En	6241,16
+Namibé	10768
 Naming	1989,2269,304,1490,885,383,810,994,383,526
 Naming Convention Standards	9124
 Naming Systems	6666
@@ -636,6 +677,7 @@ Nigeria. Named for Olaudah Equiano	1363
 Nimpamya Janat Namara	3726
 Njavwa Namposya Chilufya ABBREVIATIONS AND ACRONYMS	1867
 No. Description Contract Number Supplier Name	6946
+Norte Lunda Sul Malanje Moxico Namibe	10766
 Note Named-analyst	6952,1
 Nov-2024 Namibian	1981
 ORGANIZATION NAME	2709
@@ -643,6 +685,7 @@ OVERALL RATINGS Name Current Progress	4688
 OVERALL RATINGS Name Previous Current Progress	2712,3867,349,949
 Officer Table of Contents INTERPRETATION NAME TYPE	585
 Omaheke and Namibia	8250
+Operation Name Angola DPF L	10779
 Operation Name P172350 Digital Governance and Economy	2473
 Opportunities Namibia	5036
 Organization Performer Name	10244
@@ -683,6 +726,7 @@ Qe7FtjalG The Namibia Cyber Security Incident	5794
 RAN Sites Telecom Namibia	1013
 RESULT FRAME TBL IO Indicator Name PBC Baseline	1284
 RESULT FRAME TBL IO Indicator Name PBC Baseline Intermediate	1228
+ROSA NAMUTO	10751
 ROUTE Name Bearer1	736
 ROUTE Station Name Latitude Longitude	736
 ROUTE Station Name Latitude Longitude Altitude	736
@@ -731,6 +775,10 @@ Starlink for Namibia	5529
 Starlink's Namibian	5612
 Station Name Latitude Longitude Altitude Antenna	736
 Substantial Operation Name Mozambique Digital Acceleration	4653
+Sul Malanje Moxico Namibe	10766
+Sul Malanje Moxico Namibe Uíge	10766
+Sul Malanje Moxico Namibe Uíge Zaire	10766
+Suleiman Namara Boban Varghese Paul	10768
 System Name Exchange	736
 Systematic Literature Review Papers Author Name	1248
 TIGER GLOBAL IS NOT NAMED ANYWHERE	9098
@@ -763,7 +811,10 @@ Times Group NAMALOMBA	3933
 Title Namibia	4980
 Titus Nampala	8414
 Touche Namibia	9107,1
+Trade and Investment Operation Name Angola DPF3	10779
+Trade and Investment Operation Name Angola DPO2	10779
 UAE and Namibian	5086
+UILDING A GROWTH-FRIENDLY TAX ENVIRONMENT Name	10762
 UN Dialogue Namibia	7098
 UNDP Namibia	1928,1604,6341
 UNDP Namibia's Inclusive Green Growth Portfolio	9873
@@ -771,7 +822,8 @@ University of Namibe	6482
 University of Namibia	5036,4837
 VAT. Telecom Namibia	1944
 VRR Namibia Nauru State Register	10714
-Viet Nam	7655,3059
+Viet Nam	7655,3059,50
+Viet Nam Tier	10764
 Việt Nam	8062
 West Kunene Omaheke Namibia	1944
 Western Cape Site Locations Site Name	8999

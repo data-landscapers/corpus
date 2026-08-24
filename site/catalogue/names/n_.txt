@@ -52,7 +52,7 @@ CITIBANK N A Data Processor INST-86717473C7A	7167
 CLICK N TELL LIMITED Data Controller	7167
 CLICK N TELL LIMITED Data Processor	7167
 Celtel. GRAPHIQUE N	998
-Chintu N	766
+Chintu N	766,10014
 Chisipite EWZL Owned Offices N	4896
 Citizenship Card No N	10714
 Client UI Platform N	9124
@@ -226,12 +226,14 @@ N Mobile Technologies Coverage	3862
 N N Data	10719
 N NZUZA	5533
 N Neutralidade Tecnológica	2866
+N Newton-King	10793
 N Nombre	3396
 N Operator	3862
 N Operator Access Speed	3862
 N Operator Bandwidth Capacity	3862
 N Operator Number of Points of Presence	3862
 N Operators Nigerian Male Nigerian Female	3862
+N P R O C	10775
 N PHI N PHIIS PHC PMTCT	4153
 N Programas Educativos	4209
 N Query AUC Response	10617
@@ -269,6 +271,7 @@ N. N. Wekwete Ms N. Marongwe	1154
 N. R	5349,1483,1773
 N. S	4676
 N. Tempini	5700
+N. Tirivayi	10768
 N. Wekwete Ms N. Marongwe	1154
 N. van Horen	10718
 NAME OWNER RENTED TYPE ADDRESS N	4896
@@ -313,6 +316,7 @@ Par Arrêté N	10087
 Pockets Hill EWZL Owned Guest N	4896
 Pockets Hill EWZL Owned Switch N	4896
 Pointe N	3994
+Prata N	10780
 Procedures N	6946
 Processo Eleitoral C N D H	6530
 Production Contract Renewal Date N	9124
@@ -333,6 +337,7 @@ Responses Increased N	5247
 Rizk N	9739
 Règlement N	8357
 République du Congo N	7152,194,1844
+S IR C M A N	10775
 SILUE N	2342
 SOCIETE DE RECHERCHE MINIERE N	998
 STRATEGIQUE N	10712

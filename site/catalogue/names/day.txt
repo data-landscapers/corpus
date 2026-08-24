@@ -15,8 +15,12 @@ Business Day	226,2432,660,2294,2139,516,315,19,1160
 Business Day. For the IEC	9375
 CRVS Day	3434,6114
 CSO Open Days	7784
-Capital Markets Day	6851
+Capital Markets Day	6851,3942
 Cascador Pitch Day	6368
+Celebration of International Day of Older Persons	10776
+Celebration of Universal Health Coverage Day	10776
+Celebration of World Mental Health Day	10776
+Celebration of World Mental Health Day Mental	10776
 Comrade Sunday Daya	8824
 Congo Investment Day	6067
 Customs Day	4449,80
@@ -82,6 +86,7 @@ German-Kenyan Business Day	8342
 Global Commemoration of World Statistics Day	9708
 GxlQ X-Xc Day	8713
 HeQwnJ-yGpo Day	8713
+Health Day	10776
 Hours Days	1938
 Huawei Day Nigeria	2825
 ICT Day	958,5375
@@ -92,6 +97,7 @@ Independence Day	2968,1204,992,563,624,1750
 Independence Day and Republic Day	7845
 Information Commission Data Protection Day	4800
 Information Technology Day	6243
+International Day of Older Persons	10776
 International Day of Persons	4133
 International Identification Day	3586
 International Open Data Day	4429
@@ -117,6 +123,7 @@ Mandela Day Jackass	5017
 Mandela Day Malatsi	5808
 Mandela Day Responding	6183
 National Day of Identity Conference	3703
+National Immunization Days	10776
 Niger Digital Day	10233
 Nigeria Digital Open Day	2156,2083
 Ondo State. Day	9427
@@ -126,6 +133,7 @@ Pan-African Women’s Day	8662
 Poppy Day Next Article Treasury	3933
 Regulatory Sandbox Demo Day. Barigye	6184
 Regulatory Sandbox Demo Day. Rwanda	6184
+SADC Malaria Day	10776
 Safer Internet Day	5551
 Scientific Days	4991
 Sowetan and Business Day	10092
@@ -141,6 +149,7 @@ Travel World PR Day	7253
 TrendAI Zero Day Initiative and Pwn2Own	7137
 UN Day	3851
 UNHCR World Refugee Day Golf Charity	899
+Universal Health Coverage Day	10776
 Visa FinTech Day	3007
 Visa Fintech Day	6496
 WORLD YOUTH SKILLS DAY	5276
@@ -151,7 +160,12 @@ World Aids Day	5162
 World Data Centers Day	2918
 World Day Against Trafficking	8480
 World Diabetes Day	9855
+World Health Day	10776
+World Health Day and World Mental	10776
 World MSME Day	10330
+World Mental Health Day	10776
+World No Tobacco Day	10776
+World No Tobacco Day Initiatives	10776
 World Password Day	9902
 World Population Day	7749
 World Population Day High-Level Dialogue	7749

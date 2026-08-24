@@ -9,7 +9,11 @@ FORMALLY SERVED	418
 FOURNITURE ET LIVRAISON SERVEUR PAIE ET	9339
 INFORMALLY SERVED	418
 IP Server Equipment	6946
+Infraestructure Local Server Tax Number-MINFIN	10775
 Linux Servers	10617
+Local Server Central Server Internet Local	10775
+Local Server Local Server Social Security	10775
+Main Server ID Production Center CPBI	10775
 Maria Server	3395
 Microsoft SQL Server Management Studio	10617
 Microsoft Server	5866
@@ -26,6 +30,7 @@ Serve	2757,1104,667
 Served	1984,2958,664,283,454,183
 Server	593,626,5213,2691,1
 Server Backup	34
+Server Local Server Local Server	10775
 Servernah	6791
 Servernah Cloud	5368,1349,74,2448
 Servers	34,544,1410,7135,373

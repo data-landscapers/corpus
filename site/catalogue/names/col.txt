@@ -20,6 +20,7 @@ Anatole Collinet MAKOSSO	1186,8004
 Anatole Collinet Makosso	4169
 Apex Collections Africa Ltd Data Processor	7167
 Applicable Rates and Collection of Tax	8590
+ArcGIS Collector	10761
 Areas of Collaboration	5676
 Areas of Collaboration National Regulatory Authorities	5676
 Arguido Colaborador	539
@@ -95,6 +96,7 @@ Cadre National de Collecte	2625
 Call for Stronger Industry Collaboration	6075
 Calls for Collaborative Action	7921
 Cameroon COLEPS	2221
+Cameroon Chile Colombia Costa Rica Côte	10764
 Cash Collection	6804
 Central Johannesburg TVET College	6632,95
 Chainama College	34
@@ -102,6 +104,8 @@ Chamasiri Technical And Vocational College Data	7167
 Checklist Connect Communicate Combine Collaborate Contain	8603
 Checklist Connect Communicate Combine Collaborate Repository	8603
 Cher Collègue	7470
+Child’s Fingerprints Collection	10765,10
+Child’s Fingerprints Collection Figure	10775
 Chuka Technical and Vocational College Data Controller	7167
 Chuka Technical and Vocational College Data Processor	7167
 Civil Service Training College	7182
@@ -128,6 +132,7 @@ Colchester	7886
 Colchones	4209
 Cold Chain Management	9855
 Cold War	4676,353,15,1953
+Coldrey	10763
 Colecta	3519,3451
 Colectividades Locales	4209
 Colegio	4209
@@ -188,6 +193,7 @@ Colegio de Rilaja	4209
 Colegios	4209
 Coleman	1248,6774
 Coleridge Initiative	4429
+Coleta	10777
 Coli Link Ghana Limited	3386
 Coligação de Partidos Políticos	539
 Colin Lankshear and Michele Knobel	6948
@@ -198,7 +204,7 @@ Collaborate	940,18,42,131,73,610,735,1577,737,381,92,3267
 Collaborateur	3879
 Collaborating	1243,850,185,497,829,1244,685,144,359
 Collaborating To Transform And Improve Education	899
-Collaboration	562,337,41,21,170,30,616,37,393,342,456,157,196,246,37,470,103,25,19,325,223,174,56,208,2,239,66,46,80,203,233,19,162,122,377,1,155,1,9,161,52,226,67,83,203,226,45,16,316,64,329,200,52,23,123,307,39,125,269,14,38,220
+Collaboration	562,337,41,21,170,30,616,37,393,342,456,157,196,246,37,470,103,25,19,325,223,174,56,208,2,239,66,46,80,203,233,19,162,122,377,1,155,1,9,161,52,226,67,83,203,226,45,16,316,64,329,200,52,23,123,307,39,125,269,14,38,220,611,8
 Collaboration Age Group	582
 Collaboration Becoming	1810
 Collaboration Index	7548
@@ -209,8 +215,8 @@ Collaboration Updates	1154
 Collaboration and Commercialisation. Commercialisation	10098
 Collaboration and Partnership	4528
 Collaboration and Partnerships	1154
-Collaborations	1903,572,1692,1277
-Collaborative	1131,5206,611,49,1430,465
+Collaborations	1903,572,1692,1277,5332
+Collaborative	1131,5206,611,49,1430,465,1872,12
 Collaborative Approach	1718
 Collaborative Foundations for Implementa-	4848
 Collaborative Regulation	5241,811
@@ -222,6 +228,7 @@ Collaborative Work of Loan Payment	226
 Collaborative and Iterative Approach	4528
 Collaboratrice	3812,247,2709
 Collaborer	1702
+Collado	10763
 Collapse	1988
 CollapseItems	6997
 Collarana	8606
@@ -238,14 +245,15 @@ Collectables	8494
 Collecte	747,1,9964
 Collecter	998,7
 Collectif	1930,1,1,1,1,1,1,1,72,1,1,1,1,958,1051,2,1805
-Collecting	775,165,221,617,997,3914,16,233,813,13,1858,482
+Collecting	775,165,221,617,997,3914,16,233,813,13,1858,482,671
 Collecting and Analysis	940
-Collection	26,210,704,60,161,617,89,842,17,282,427,1220,299,1967,924,177,1531
+Collection	26,210,704,60,161,617,89,842,17,282,427,1220,299,1967,924,177,1531,1211,1,3,7
 Collection Becomes Harder When Ugandans Doubt	3955
 Collection Date	3861
 Collection Mechanism for Peer-to-Peer	8590
 Collection Number	1867
 Collection Page	1867
+Collection Responsibility for Data MASFAMU Collection Page	10768
 Collection Responsibility for Data MoHAIS	1867
 Collection Responsibility for Data MoHAIS Collection Number	1867
 Collection Responsibility for Data MoHAIS Collection People	1867
@@ -269,7 +277,7 @@ Collective Sudan	6947
 Collective Threshold Below	8283
 Collective X	6832
 Collective X and Harambee	5551
-Collectively	1154,2316,17,870,75,151,323,66,153,89,30,1,2,197,89,58,202,72,708,220,99,656,338,136,24,163,273,120,264,112,150,1,33,508,299,219,237
+Collectively	1154,2316,17,870,75,151,323,66,153,89,30,1,2,197,89,58,202,72,708,220,99,656,338,136,24,163,273,120,264,112,150,1,33,508,299,219,237,339,29
 Collectivité Cercle	9287,55
 Collectivités	1755,1053,573,1336,838,164,110,1053,303,658,53,1391,55,156,109,1104,1
 Collectivités Territo-	2342
@@ -325,6 +333,7 @@ Colm Cloonan	3649
 Colmer	6365
 Colmer Wapa Wireless Access Providers Association	6365
 Colmer. Use	6365
+Colo Colocation DC Data Center DIF	10781
 Colo and Raxio	2634
 Coloca São Tomé	4747
 Colocación	4209
@@ -334,9 +343,10 @@ Colocation NDC National Data Center DC	3184,1,1340
 Colocação de Sinais	794
 Cologne-based	6879
 Colombe Blanche	1576
-Colombia	226,1017,4106,1614,1058,608,802,401,882
+Colombia	226,1017,4106,1614,1058,608,802,401,882,50,21
 Colombia Ambassador	6963
 Colombia Civil Registry Information System	10714
+Colombia Costa Rica Cuba Dominican Rep	10764
 Colombia GALLON GIRALDO	6613
 Colombia and India	4997
 Colombia and Kenya	9713
@@ -372,6 +382,7 @@ Colonel-major Kaya Issa CISSE. Chargés	8237
 Colonel-major Lanseny DOUMBIA. AU TITRE	8237
 Colonel-major Mamadou Namballa TRAORE. AU TITRE	8237
 Colonel-major Moussa DEME. AU TITRE	8237
+Colonia Altos de Miramontes Calle	10764
 Colonial	6808,2931
 Colonial-era	6997
 Colonial-geography	5252
@@ -388,9 +399,12 @@ Coloured	2093
 Colovic	2096
 Columba	1005
 Columbbo	7065
+Columbia	10759
+Columbia Center for International Earth Science Information	10759
 Columbia Convening	5029
 Columbia University	1013,6138,2808
 Columbia University CIESIN	196
+Columbia University DSP Digital Society Project	10759
 Columbia University Press	3782
 Column	587,379,862,1734,306,2554
 Columnists Leader Star-blogs Cartoon Sports Football	9646
@@ -417,6 +431,7 @@ DUE DILIGENCE FOR THIRD-PARTY COLLABORATORS	1243
 Data Collection	196,402,663,526,1417,657,3224,463
 Data Collection Data Collection Framework Component	4528
 Data Collection Guide	1261
+Data Collection MASFAMU Cash	10768
 Data Collection Methods	7548
 Data Collection Methods GM	1778
 Data Collection and Data Acquisition	262
@@ -450,6 +465,8 @@ Enhancing Collection of Revenue and Expenditure Management	3295,20
 Equitable Data Collection	3861
 Ericsson and Safaricom Deepen Collaboration	5332
 Establish E-Waste Collection Centers	1988
+FAS-IDL Methodology for Data Collection FAS-IDL	10768
+FAS-IDL Responsibility for Data Collection Page	10768
 Federal College of Education	9576
 Federal Unity Colleges	8586
 Federal Unity Colleges. Beyond	8586
@@ -459,7 +476,9 @@ Forecasted Collection	3583
 Foundations for Collaborative Regulation Date	5241
 Founder Collective	529
 Furusa and Coleman	1248
+Future Vision for WHO-UKB Collaboration	10776
 G5 Regulatory Collaboration Summit	5241,811
+GRM. Responsibility for Data Collection FAS-IDL Enhanced	10768
 Gambia By Collins Eshiet	6315
 Gettysburg College	8704
 Ghana Domestic Revenue Collection Platform	8368,177
@@ -473,10 +492,12 @@ Group. Collectively	6100
 Health Data Collaborative	2678
 Hive Collab	2676
 Honourable Vice President Col	3760
+ID Data Collection	10765,10
+ID Data Collection Technological	10775
 IFC Collaboration	3562,42
 IFC Collaboration Disbursement	1284
 IFC Collaboration No Expected Approval Date	1284
-IFC Collaboration No Proposed Development Objective	1867
+IFC Collaboration No Proposed Development Objective	1867,8901
 IG Coleman	10405
 IHS Brazil and IHS Colombia	9330
 IMATT College	7777
@@ -493,7 +514,7 @@ Ingham and Collerette	8130
 Innovation and Industry Collaborations Posted	6480
 Institutional Isomorphism and Collective Rationality	5349
 Intelligent Collaboration	3511
-International Collaboration	4528
+International Collaboration	4528,6248
 International Collaboration and Standards	5245
 Ivoire Collaborate	6646
 Ivoire Coltan	2342
@@ -507,6 +528,8 @@ Kenya and Colombia	10591
 Kenyan Wall Street. Collections	7786
 Kigali Collaborative Research Centre	942
 Kilo Tonnes KUC Kenya Utalii College	2775
+Kwenda MIS Methodology for Data Collection FAS-IDL	10768
+Kwenda MIS. Responsibility for Data Collection FAS-IDL	10768
 Land Rights Action Collaborative	5035
 Last Colony	7867
 Launch Collateral Registry By Maximilian K	9943
@@ -550,6 +573,7 @@ Masvingo Teachers' College	4528
 Messagerie Collaborative	9049
 Mestre Nilza Collinson. Na	2816
 Methodology Data Collection	899
+Methodology for Data Collection	10768
 Methodology for Data Collection ARTCI	3604
 Methodology for Data Collection Data	3604
 Mida Collect	7907
@@ -588,12 +612,14 @@ PCU Methodology for Data Collection Data	3604
 PCU Responsibility for Data Collection PCU Component	3604
 PCU Responsibility for Data Collection PCU Page	3604
 PCU Responsibility for Data Collection PCU. Beneficiaries	3604
+PI Methodology for Data Collection	10768
 Pan-African Colocation Data Centre Rollout	1152
 Participation and Collaboration Processors	3861
 Partnership and Collaboration Index	10550
 Partnerships And Collaborations	958
 Partnerships and Collaborations	958
 Paul Colmer	6365
+Pessoas Colectivas	10786
 Pierre Collet	1183
 Platform for Collaboration	1828
 Police College	5174
@@ -607,6 +633,7 @@ Processo de Colheita	966
 Produced and Collected	2775
 Promote Collaboration White	1777
 Promote International Cooperation and Collaboration	1000
+Promoting Multisectoral Collaboration	10776
 Promotion of Collaboration	958
 Public Secondary Schools and Teachers Training Colleges	2775
 Public Service Training College	7182
@@ -629,9 +656,22 @@ Rejected Business Collaboration Business Interface	9124
 Relationship Interview Columns Opinion Advertise	9669,84
 Research Collaboration The RCZ and POTRAZ	1154
 Research and Development Collaboration	1814
+Responsibility for Data Collection FAS-IDL	10768
+Responsibility for Data Collection FAS-IDL Beneficiaries	10768
+Responsibility for Data Collection FAS-IDL COMPONENT	10768
+Responsibility for Data Collection FAS-IDL Cash	10768
+Responsibility for Data Collection FAS-IDL Custom Indicators	10768
+Responsibility for Data Collection FAS-IDL People	10768
+Responsibility for Data Collection FAS-IDL Updated	10768
+Responsibility for Data Collection MASFAMU	10768
+Responsibility for Data Collection MASFAMU COMPONENT	10768
 Responsibility for Data Collection PCU	3604
 Responsibility for Data Collection PCU Graduates of ESATIC	3604
 Responsibility for Data Collection PCU People	3604
+Responsibility for Data FAS-IDL Collection	10768
+Responsibility for Data FAS-IDL Collection Cash	10768
+Responsibility for Data FAS-IDL Collection Increase	10768
+Responsibility for Data FAS-IDL Collection Strengthen	10768
 Responsibility for Data MoHAIS Collection Stakeholder	1867
 Responsible AI Through Collaboration	2732
 Revenue Collection	9437
@@ -641,6 +681,7 @@ Ronald Ngala Utalii College	7441,192
 Réhabilitation EM Collectivités	643
 SECÇÃO I SÍMBOLOS E COLOCAÇÃO	794
 Salaam’s College of Information and Communication Technology	5511
+Sarah Coll-Black	10763
 Security Layers Colocation Cross Connect	9446
 Select College	8671
 Serge Ghislain Djorie du Collectif	4539
@@ -656,6 +697,7 @@ Stakeholders Collaboration	4610
 Stakeholders Collaboration A. Recognizing	4610
 Startup. Le Collège des Startups	4567
 Statement of Collaboration	1726
+Strategic Collaboration	10776
 Strategic International Collaboration and Diplomacy	3760
 Strategy. Samuel Cole	10345
 Strengthen Cyber Intelligence Collection	1000

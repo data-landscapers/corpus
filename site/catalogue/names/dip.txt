@@ -12,6 +12,7 @@ CAMARA DE LOS DIPUTADOS	4209
 CAMARA DE LOS DIPUTADOS Cuentas CONCEPTO	4209
 Calling All Tech Diplomats	4253
 China Diplomacy Why the Chinese	10026
+Consular and Diplomatic Mission Posts	10775
 Cyber and Digital Diplomacy	8982,376
 Cámara de Diputados	4209,3839,1255
 D Diplomacy	3803
@@ -27,14 +28,19 @@ DIPLOMA	3519
 DIPLOMATIC DATA AND SOVEREIGN IMMUNITY	3861
 DIPUTADOS	4209
 Department of Economic Diplomacy	10592
-Detalhes Diploma	13,1,153,263,119,195,8,42
+Detalhes Diploma	13,1,153,263,119,195,8,42,9978
 DiPES	3710,66
 Dip. Law. Secretary-General African Telecommunications Union	8497
 Diplo	2816,4356
-Diploma	14,153,263,119,195,8,42,2725,87,1,539,1,71,678,1936,114
+Diploma	14,153,263,119,195,8,42,2725,87,1,539,1,71,678,1936,114,3801,2,5,1,1,16,11
 Diploma Artigo	167,263,314,8,42
 Diploma As Tecnologias de Informação	15
-Diploma Considerando	13,4133
+Diploma Considerando	13,4133,6608,18,11
+Diploma Estrutura	10783
+Diploma FICHA DE IDENTIFICAÇÃO E CARACTERIZAÇÃO	10783
+Diploma Fases	10783
+Diploma Ficha de Acompanhamento	10783
+Diploma Ficha de Programação Financeira Trimestral ANEXO	10783
 Diploma LEI DA IDENTIFICAÇÃO OU LOCALIZAÇÃO	549
 Diploma Ministerial	6,1520
 Diploma N	6
@@ -43,11 +49,16 @@ Diploma Publicação	3607
 Diploma Tabela Salarial	752
 Diploma Tabela de Taxas da APD O Presidente	744
 Diploma Tendo	4147
-Diploma. Artigo	167,577,8
-Diploma. Conteúdo	167,577,8
+Diploma Tornando-se	10756
+Diploma. Artigo	167,577,8,10031
+Diploma. CAPÍTULO III PROCESSO DE PROGRAMAÇÃO	10783
+Diploma. Conteúdo	167,577,8,10031
+Diploma. O Presidente da República	10754
+Diploma. SECÇÃO II CARTEIRA DE PROJECTO	10783
 Diplomacy	4934,506,1557,3091
 Diplomacy Eswatini	4934
-Diplomas	15,6931
+Diplomas	15,6931,3809,17
+Diplomas Complementares	10755
 Diplomas Legais	167,372
 Diplomat	4193
 Diplomate	2266,2675
@@ -63,6 +74,7 @@ Diplomatic Drive FCT	4301
 Diplomatic Exchange	7662
 Diplomatic Foundation	5890
 Diplomatic Mission	736
+Diplomatic Missions and Consular Services	10775
 Diplomatic Relations	3861
 Diplomatic Relations Between Guinea-Bissau and Cape Verde	3768
 Diplomatic and Sovereign Data	3861
@@ -98,6 +110,7 @@ LUXOFANIA LA ENCARGADO DE DIPLOMAT	4209
 Le Diplomate	3248
 Los Honorables Diputados	9303
 MISIONES CONSULAR DIÁSPORA REGIONAL MEDIO DIPLOMAT	4209
+Missões Diplomáticas	10772
 Modern Diplomacy	3398
 Mr. Dipo Mbewe	34
 NGO and Diplomatic Mission	736
@@ -107,6 +120,7 @@ Non- Diploma	582
 Numérisation des Diplômes	4002
 OFICINA INFORMAC. DIPLOMAT.- Concepto	4209
 Ordenes Nacionales Ministro Delegado Diputado Secretario	4209
+Oslo Diploma Course	10752
 Other. Technical Diplomatic Mission	736
 PRESIDENTE CAMARA DE LOS DIPUT	4209
 Pauvreté DEA Diplôme	12
@@ -132,3 +146,4 @@ Tech Diplomacy and Avenues for Digital Development	5239
 Testing New Solutions for Global Development and Diplomacy	2165
 Tourisme Actualités Diplomatie	4895
 UNESCO's Jun-2025 Tech Diplomacy Forum	5239
+Venâncio de Moura Diplomatic Academy	10776

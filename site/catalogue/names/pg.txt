@@ -1,4 +1,5 @@
 Concepto PGE Cód	4209
+Criminal da PGR	10750
 Les PGA	8891
 PG Mayor Senado Inspector General	4209
 PGD146	763
@@ -6,7 +7,8 @@ PGD168	537
 PGEDS	3639
 PGEDS-financed	2950,689
 PGES. Version	1005
-PGIBI	10714
+PGIBI	10714,51,10
+PGIBI Plataforma de Gestão Integrada da Identificação Civil	10765,10
 PGII-linked	462
 PGNSP	969,4170
 PGP Public Key	9125

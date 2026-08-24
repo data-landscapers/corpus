@@ -1,7 +1,11 @@
 Alto Comando Militar	10114
 Ayudante Grupo E Comandante Embarcación Corresponsal	4209
+Centro de Comando	10788
 Centro de Comando da Polícia Nacional	9994
+Centros de Comando	10788
 Comandachina	3179
+Comandante	10752
+Comandante Coordenadores	10751
 Comandante Embarcación	4209
 Comandante-Geral da Polícia Nacional de Angola	4147
 Comando Geral da Polícia Nacional	794
@@ -11,6 +15,7 @@ Comarcas	5424
 Comisario Jefe Superior Capitán de Corbeta Comandante	4209
 Comisario Principal Capitán Capitán Infantería Comandante	4209
 Distrital Ministerio Juez Distrito Juez Comarcal	4209
+Estatística Avenida Comandante Gika	10766
 Instancia Secretario Juzgado Comarcal	4209
 Juzgado Comarcal Secretario Particular	4209
 Ministerio Juez Comarcal Secretario Juzgado Comarcal	4209
@@ -18,3 +23,6 @@ O Comando Provincial da Polícia Nacional	794
 Oficial de Protocolo Secretario Juzgado Comarcal Conserje	4209
 Primer Ministro Juez Comarcal Juez Distrito	4209
 Registo da Comarca de Mbanza Kongo	5296
+Tribunais de Comarca	10752
+Tribunal de Comarca	10751
+Um Centro de Comando	10788

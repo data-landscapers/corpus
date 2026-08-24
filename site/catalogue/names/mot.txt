@@ -79,9 +79,10 @@ Mot du Ministre Biographie du Ministre Cabinets Strucutres	3675
 Motaze	2919,1184
 Motazé	6556
 Mothapo	8604
-Mother	2775,3648
+Mother	2775,3648,4352
 Mother ID	6423
 Mother and Child	6423
+Motherhood	10763
 Mothers	5225
 Mothiba	8604
 Mothibi G. Ramusi	4732,3096
@@ -103,6 +104,9 @@ Motivation	899,362,835,1744,3921,29
 Motivation Opportunity Teachers	899
 Motivations	1219
 Motives	8497
+Motivo	10777
+Motivo da Migração	10777
+Motivo da Migração Entre	10777
 Motivos	6970
 Motlatsi Komote	10729
 Motlatsi Komote-	10729
@@ -124,6 +128,7 @@ Motorcycles	2775
 Motores	1701,8226,398
 Motoring	9253
 Motorists	3442,4313
+Motorizada Carro	10777
 Motorola	2157,2815,2648
 Motorola DP	998
 Motorola Solutions	2157,1284,21
@@ -176,3 +181,4 @@ Tshiamo Motitswe	10102
 Viana da Mota	3048,1663,36,1071,200,154
 Wilton Mota	5587
 Yango Motors	7440
+Yusuf Mohamed Ali Mothanna	10764

@@ -3,8 +3,10 @@ AfDB and WBG	4214
 Application WBG World Bank Group TABLE	969
 Development Programme WBG World Bank Group	3604
 Draft WBG Country Partnership Framework	1867
+FY14-FY16 WBG Country Partnership Strategy	10779
 H SIM TC Tmcel WBG Project	1228
 Hygiene WBG World Bank Group WHR	1867
+Institute WB World Bank WEF World	10759
 M EDCF. WB ILMP	354
 M. WB	607
 MICT SETA-funded WBL	6832
@@ -15,9 +17,10 @@ Shift WBL	6832
 Testing WHA World Health Assembly WBPHCOT	396
 ToRs Terms of Reference WB World Bank	1988
 UNAUTHORISED ACCESS INFORMATION DISCLOSURE WB OTHERS	6936
+UNICEF VE WB WFP Individual Digital	10763
 VULA Virtual Unbundled Local Access WBG	1818
 WASH Water Sanitation and Hygiene WBT Working	970
-WB Angola CCDR	800
+WB Angola CCDR	800,9963
 WB Board	1992,261
 WB DDP COVID	463
 WB DPF	558
@@ -39,7 +42,7 @@ WB Enterprise Surveys Benin	1400
 WB Environmental	1988
 WB Ethiopia Digital ID for Inclusion and Services	1260,30,2539
 WB Fiscal	3604
-WB Fiscal Year	969,295,603
+WB Fiscal Year	969,295,603,8901
 WB GREAT	2548
 WB Gender Assessment	6539
 WB GovTech Case Study	1393
@@ -68,6 +71,7 @@ WBG Board of Directors	4688
 WBG Climate Change Action Plan	3604
 WBG Digital Economy for Africa	3984
 WBG EHS	1988
+WBG GovTech Maturity Index	10785
 WBG's Digital Development Global Practice	4214
 WBG's Office	4214
 WBG’s Climate Change Action Plan	1867
