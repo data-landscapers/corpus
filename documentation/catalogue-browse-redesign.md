@@ -36,7 +36,11 @@ The topic ordering above was correct in the built page and wrong on the site, wh
 
 `stamp()` now appends `?v=<8 hex of the file's content>` to the `<script src>` and to the `fetch` of `raw-catalogue.json`. Content, not build time, so a file that did not change keeps its URL and stays cached. The JSON matters more than the page does: a stale payload is a facet in the wrong order, but a stale JSON is an **export cut from a catalogue the reader is not looking at**, and that one leaves the building as a file with a build date on it.
 
-The general shape is worth keeping: **a large asset that a small one depends on for its behaviour has to be versioned, or the two will be served from different builds.** Nothing warns when it happens, and the failure wears the same clothes as an unmade change.
+**The same stale payload was also producing an empty CSV**, and that second symptom is the one that matters. `cols` — the sixteen-column download spec — was added to the payload earlier the same day, so a browser holding anything older had none. `toCSV` walks `CSVCOLS`; an empty spec produces an empty row rather than an error, so the filtered CSV came out as one blank line per record, no header. The JSON export beside it was perfect, because that path never touches `CSVCOLS`. Two symptoms, one cause, and neither looked like a cache: a facet in the wrong order looks like a change that was not made, and a blank CSV looks like a broken export.
+
+`exportSelection` now **refuses with a message rather than writing the file** when the column spec is absent, and again if none of the rows on screen resolve in the catalogue file — the other way a page and its data can turn out to be from different builds. `catalogue-filtered-download.md` carries why the byte-for-byte export test could not have caught it.
+
+The general shape is worth keeping: **a large asset that a small one depends on for its behaviour has to be versioned, or the two will be served from different builds.** Nothing warns when it happens, and the failure wears the same clothes as an unmade change — or, worse, as a working feature producing an empty file.
 
 ## The catalogue page is published by the bulletin top-up now
 

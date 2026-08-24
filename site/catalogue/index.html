@@ -420,11 +420,32 @@
   }
 
   function exportSelection(fmt){
+    // **Refuse rather than write a wrong file.** `toCSV` walks CSVCOLS, so an absent
+    // column spec does not fail — it produces one empty line per record, no header,
+    // which is a file that downloads, opens and says nothing. It happened for real on
+    // 2026-08-24: a browser holding a payload cached from before `cols` was added
+    // served exactly that, while the JSON export beside it was perfect, because the
+    // JSON path never touches CSVCOLS. The `?v=` content hash on the payload is what
+    // stops the cache going stale in the first place; this is the belt to that
+    // braces, because a silently empty export is the worst failure on this page.
+    if (fmt === 'csv' && !CSVCOLS.length){
+      dlMsg = 'This page loaded without its column list, so a CSV of the selection ' +
+              'would come out blank. Reload the page (Ctrl+F5) and try again — the ' +
+              'whole-catalogue CSV above is unaffected.';
+      drawDownload(); return;
+    }
     var slugs = VIEW.map(function(r){ return r[7]; });
     dlMsg = 'busy'; drawDownload();
     fetchFull().then(function(full){
       var items = [], i, it;
       for (i = 0; i < slugs.length; i++){ it = full.by[slugs[i]]; if (it) items.push(it); }
+      // Same rule from the other end: the rows on screen resolved to nothing in the
+      // catalogue file, which means the two are from different builds.
+      if (!items.length){
+        dlMsg = 'None of these ' + slugs.length.toLocaleString() + ' records could be ' +
+                'matched in the catalogue file. Reload the page (Ctrl+F5) and try again.';
+        drawDownload(); return;
+      }
       var base = 'catalogue-selection-' + (full.built || 'undated');
       if (fmt === 'csv') save(base + '.csv', toCSV(items), 'text/csv');
       else save(base + '.json', JSON.stringify({
