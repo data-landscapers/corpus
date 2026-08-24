@@ -29,7 +29,9 @@ The subtitle is pinned explicitly — never left to inheritance, never weight 30
 
 ## Chrome and navigation
 
-Header 60px, logo 44px. Main site: header sticky, one nav row. Corpus: header scrolls away; the mono `corpus-nav` row is the only sticky element (`top:0`, ~36px). Corpus chrome comes from `chrome_lib.py` only — no page builds its own header, and the nav lists only pages that exist. The main-site nav includes Corpus; every corpus page carries the main-site row above its own.
+Header 70px, logo 50px, wordmark 1.35rem with the tagline under it in **green** (`--green`) — green because the tagline is the masthead's own line and not a link, and everything in the row beside it is. Main site: header sticky, one nav row, **Corpus first**. Corpus: header scrolls away; the mono `corpus-nav` row is the only sticky element (`top:0`, ~36px). Corpus chrome comes from `chrome_lib.py` only — no page builds its own header, and the nav lists only pages that exist. Every corpus page carries the main-site row above its own, and both sites open the row on the same item.
+
+The header row is a fixed budget too: at 980px the wordmark, a 2rem gap and seven nav items have to coexist, and the tagline is the widest thing in it. That is why the tagline is 0.66rem and the nav 0.74rem/1.25rem — sized to leave the gap standing, not for their own sake. Below 900px the nav collapses to the hamburger, because that is the width at which the row would otherwise collide rather than merely tighten.
 
 In-page jump navigation (category bars, report section lists, article TOCs) is one idiom — the bulletin's terracotta small caps: mono 0.72rem uppercase letter-spaced links in `--accent` (hover `--accent-dk`), separated by middots, closed below by a single 1px rule. Not dashes, not grey, not a second style of bar. The distinction from site chrome holds: the corpus-nav is the same voice but grey (`--ink-light`), taking the accent only on hover/active — terracotta all the time marks the page's own contents, grey marks the site's.
 
@@ -43,7 +45,9 @@ Dense but not cramped. Two hard rules and no enumerated scale: **no vertical mar
 
 **The fold budget, checked before a new page type ships:** at 1366×768, **the first line of body content sits within 260px of the viewport top**. That is the rule; it is arithmetic, not judgement, and it is what a header block has to give way to rather than the other way round.
 
-Measured on 2026-08-24, at the values now in `main.css`: an article's first line lands at **258px** (was ~430px), leaving 510px — about 17 lines of prose. The Corpus sticky nav is **37px**. A `/writing/` index entry is ~162px, so **four entries** land above the fold where three did; five is not reachable without cutting the summary line, and the summary is the reason the index is worth reading. Re-run the sum when any of `.site-header__inner` height, `.article-header`'s three values, or the h1 clamp changes — those are the terms.
+Measured on 2026-08-24, at the values now in `main.css`: an article's first line lands at **259px** (was ~430px), leaving ~509px — about 17 lines of prose. The Corpus sticky nav is **37px**. A `/writing/` index entry is ~162px, so **four entries** land above the fold where three did; five is not reachable without cutting the summary line, and the summary is the reason the index is worth reading.
+
+**The header and the article header spend the same budget.** When the site header went 60px → 70px so the wordmark could carry its weight, `.article-header` gave back 9px and the sum came out at 259 rather than 268. Re-run it when any of `.site-header__inner` height, `.article-header`'s three values, or the h1 clamp changes — those four are the whole of the arithmetic, and raising one means finding the difference in another.
 
 ## Print
 

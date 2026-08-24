@@ -17,6 +17,11 @@
   --paper-warm: #f3f0e8;
   --accent:     #c84b2f;
   --accent-dk:  #9e3620;
+  /* The house green, promoted to a token on 2026-08-24 so the masthead tagline
+     could use it. The same #2a6b3a the green badge and the Lab's active status
+     chip have always carried — a token, not a new colour. (The badge tints keep
+     their literals: they are a set of five that only make sense together.) */
+  --green:      #2a6b3a;
   --link:       #1f5c8a;
   --link-hover: #c84b2f;
   --code-bg:    #f0ede6;
@@ -112,10 +117,16 @@ figcaption { font-size: 0.82rem; color: var(--accent); margin-top: 0.5rem; line-
 /* ── HEADER / NAV ── */
 .site-header { border-bottom: 1px solid var(--rule); background: var(--paper); position: sticky; top: 0; z-index: 100; }
 
-/* 60px, not 88px. The header is sticky, so its height is subtracted from every
-   viewport at every scroll position — the most expensive whitespace on the site
-   (documentation/house-style.md → Chrome). The logo and both lines of the
-   wordmark are sized to fit it with air to spare. */
+/* 70px. It was 88px, went to 60px for the fold budget, and came back to 70 on
+   2026-08-24 because 60 read as too shallow for the wordmark (Bill). The header
+   is sticky, so its height is subtracted from every viewport at every scroll
+   position — 70px is the agreed price, and the article header gave back the
+   difference so the fold budget still holds.
+
+   **`gap` is load-bearing, not decoration.** `space-between` alone puts no
+   minimum between the wordmark and the nav, so at 980px the end of LANDSCAPE
+   ran into CORPUS. The gap guarantees the separation and the nav is sized to
+   leave room for it. */
 .site-header__inner {
   max-width: var(--col-wide);
   margin: 0 auto;
@@ -123,32 +134,44 @@ figcaption { font-size: 0.82rem; color: var(--accent); margin-top: 0.5rem; line-
   display: flex;
   align-items: center;
   justify-content: space-between;
-  height: 60px;
+  gap: 2rem;
+  height: 70px;
 }
 
-.site-logo { font-family: var(--display); font-size: 1.15rem; font-weight: 700; color: var(--ink); border: none; letter-spacing: -0.01em; flex-shrink: 0; display: flex; align-items: center; gap: 0.6rem; line-height: 1.15; }
-.site-logo__img { height: 44px; width: 44px; display: block; }
+.site-logo { font-family: var(--display); font-size: 1.35rem; font-weight: 700; color: var(--ink); border: none; letter-spacing: -0.01em; flex-shrink: 0; display: flex; align-items: center; gap: 0.65rem; line-height: 1.15; }
+.site-logo__img { height: 50px; width: 50px; display: block; }
 .site-logo__text { display: flex; flex-direction: column; }
 .site-logo:hover { color: var(--accent); border: none; }
-.site-logo__sub { font-family: var(--serif); font-size: 0.72rem; font-weight: 400; line-height: 1.2; color: var(--accent); text-transform: uppercase; letter-spacing: 0.08em; display: block; margin-top: 1px; }
+/* Green, not terracotta (Bill, 2026-08-24). The tagline sat in the accent and so
+   read as part of the navigation; the house green separates the masthead's own
+   line from everything that is a link. It is also the widest element in the
+   header, so it is set a little smaller than the wordmark's scale would suggest
+   — that is what buys the gap in the rule above. */
+.site-logo__sub { font-family: var(--serif); font-size: 0.66rem; font-weight: 400; line-height: 1.2; color: var(--green); text-transform: uppercase; letter-spacing: 0.07em; display: block; margin-top: 2px; }
 
-/* Desktop nav */
-.site-nav { display: flex; gap: 1.75rem; align-items: center; }
-.site-nav a { font-family: var(--serif); font-size: 0.78rem; font-weight: 400; text-transform: uppercase; letter-spacing: 0.07em; color: var(--ink-light); border: none; white-space: nowrap; }
+/* Desktop nav. Seven items since Corpus joined, so the type and the gap are both
+   a touch tighter than they were at six — the row has to fit beside the wordmark
+   inside 980px with the header's 2rem gap still standing. */
+.site-nav { display: flex; gap: 1.25rem; align-items: center; }
+.site-nav a { font-family: var(--serif); font-size: 0.74rem; font-weight: 400; text-transform: uppercase; letter-spacing: 0.06em; color: var(--ink-light); border: none; white-space: nowrap; }
 .site-nav a:hover, .site-nav a.active { color: var(--accent); border: none; }
 
 /* Mobile hamburger */
 .nav-toggle { display: none; flex-direction: column; gap: 5px; cursor: pointer; padding: 4px; background: none; border: none; }
 .nav-toggle span { display: block; width: 24px; height: 2px; background: var(--ink); transition: all 0.2s; }
 
-/* ── MOBILE NAV ── */
-@media (max-width: 680px) {
+/* ── MOBILE NAV ──
+   **900px, not 680px** *(2026-08-24)*. The seven-item row and the two-line
+   wordmark together need about 900px; below that they collided rather than
+   collapsing, which is the overlap Bill reported at the narrow end. The
+   hamburger now takes over while there is still room for it to. */
+@media (max-width: 900px) {
   .nav-toggle { display: flex; }
 
   .site-nav {
     display: none;
     position: absolute;
-    top: 60px;   /* follows .site-header__inner's height */
+    top: 70px;   /* follows .site-header__inner's height */
     left: 0;
     right: 0;
     background: var(--paper);
@@ -244,11 +267,13 @@ figcaption { font-size: 0.82rem; color: var(--accent); margin-top: 0.5rem; line-
 /* ── ARTICLE PAGE ──
    The title block was 3rem of padding above, 2rem below and a 2.5rem margin
    after that — some 200px before a word of the article, on top of the header.
-   Trimmed to 1.25/0.75/1, which is where the fold budget is won: it puts the
-   first line of an article at ~258px on a 1366x768 laptop, inside the 260px the
-   budget allows (documentation/house-style.md → Whitespace). Raising any of the
-   three breaks that arithmetic, so change them together and re-check. */
-.article-header { padding: 1.25rem 0 0.75rem; border-bottom: 1px solid var(--rule); margin-bottom: 1rem; }
+   Trimmed to 1/0.75/0.75, which is where the fold budget is won: it puts the
+   first line of an article at ~259px on a 1366x768 laptop, inside the 260px the
+   budget allows (documentation/house-style.md → Whitespace). It gave back a
+   further 9px when the site header went from 60px to 70px on 2026-08-24 — the
+   two are the same budget, so raising one means finding the difference in the
+   other. Change them together and re-check the sum. */
+.article-header { padding: 1rem 0 0.75rem; border-bottom: 1px solid var(--rule); margin-bottom: 0.75rem; }
 .article-header__kicker { font-family: var(--mono); font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.1em; color: var(--accent); margin-bottom: 0.5rem; }
 .article-header__title { font-size: clamp(1.6rem, 3vw, 2rem); line-height: 1.15; margin-bottom: 0.5rem; }
 /* Pinned, every property stated. Never weight 300: the Lato 300-italic web font
