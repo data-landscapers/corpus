@@ -3,18 +3,18 @@ title: Tanzania — progress report, 2025-08-01 to 2026-08-24
 compiled: 2026-08-24
 period: 2025-08-01 to 2026-08-24
 place: TZA
-ledger_rows: 141
+ledger_rows: 142
 not_held: 13
-record: c5e2739e56cf
+record: 7c81c29a579e
 ---
 
 # Tanzania: progress report, 2025-08-01 to 2026-08-24
 
 *Compiled 2026-08-24 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
 
-*Of 141 systems and instruments on this place's ledger, 67 changed position between 2025-08-01 and 2026-08-24, 19 did not, 42 carry no stated baseline, and 13 are ***Not held*** at both ends.*
+*Of 142 systems and instruments on this place's ledger, 67 changed position between 2025-08-01 and 2026-08-24, 19 did not, 43 carry no stated baseline, and 13 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 191 sources for this place in the window — 34 in the earlier half (2025-08 to 2026-02), 157 in the later (2026-03 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+*Shape check, run before the comparison: 193 sources for this place in the window — 34 in the earlier half (2025-08 to 2026-02), 159 in the later (2026-03 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -38,7 +38,7 @@ Two positions worsened on their own measures: [smartphone users fell from 29.8m 
 | Active mobile subscriptions and penetration | 86.77m active subscriptions, 133.3% penetration (2024) | [117m telecom subscriptions and 89.7% internet penetration for the quarter ending June 2026 on the regulator's own count, with internet subscriptions up 6.48% to 62.79 million, data consumption up 11.65% to 1,041 petabytes, mobile-money subscriptions up 7.5% to 87.05 million, and smartphone penetration at 44.74% against featurephone penetration of 83.38%](https://www.tcra.go.tz/tcra-tovuti/2026/mamlaka-website/documents/quarterly-statistics/Communications_Sector_performance_report_for_quarter_ending_June_2026_ad44159230.pdf) | Advanced |
 | Kenya border terrestrial fibre link | The backbone connected to Mombasa on the same route, with no launched cross-border service | [Launched by both ministers, with the national backbone integrated with submarine cable capacity](https://www.kenyanews.go.ke/kenya-and-tanzania-launch-terrestrial-fiber-link-connection/) | Advanced |
 | Kilimanjaro One submarine cable | Did not exist | [1,900 km from Dar es Salaam to Mauritius with two branches; construction stated from 2026 and completion late 2027](https://dailynews.co.tz/tanzania-unveils-kilimanjaro-one-submarine-cable-system-to-connect-mauritius/) | Advanced |
-| National ICT Broadband Backbone | 13,820 km laid of a 16,280 km planned total at April 2025, 109 of 139 districts, all 111 service delivery points done; TZS 73bn for 2025/26 | [15,167 km at December 2025 at 2,000 Gbps, all mainland regional headquarters and 122 of 139 districts, linked to seven neighbouring countries; in one region 942.5 km built against 65 citizens connected region-wide (2026-07)](https://www.tcra.go.tz/uploads/text-editor/files/MINISTERS%20STATEMENT%20WITSD%202026_1779118337.pdf) | Advanced, uptake stalled |
+| National ICT Broadband Backbone | 13,820 km laid of a 16,280 km planned total at April 2025, 109 of 139 districts, all 111 service delivery points done; TZS 73bn for 2025/26 | [15,167 km at December 2025 at 2,000 Gbps, all mainland regional headquarters and 122 of 139 districts, linked to seven neighbouring countries; in one region 942.5 km built against 65 citizens connected region-wide (2026-07)](https://techafricanews.com/2026/08/24/tanzania-president-mwinyi-reviews-ttcl-digital-connectivity-zanzibar/) | Advanced, uptake stalled |
 | Satellite broadband service | A distribution deal covering Tanzania among fourteen markets announced 2025-05-06, service not live | [Live, with direct-to-cell and backhaul reseller arrangements alongside](https://www.techinafrica.com/starlink-partners-airtel-vodacom-rival-ally/) | Advanced |
 | Smartphone users and penetration | 29.8m users and 41.82% penetration (2025-12) | [28.5m users and 42.5% penetration](https://www.thecitizen.co.tz/tanzania/business/telecom-infrastructure-investment-drives-5g-expansion-despite-low-smartphone-uptake-5491080) | Regressed |
 | Tower and fibre public-private handover | Under construction since the May 2023 launch: 758 new towers plus 304 upgrades, not yet transferred | [758 towers and about 1,100 km of fibre transferred to government across three corridors plus metro fibre](https://www.thecitizen.co.tz/tanzania/business/yas-tanzania-partners-hand-over-major-digital-infrastructure-to-government-5420804) | Advanced |
@@ -301,6 +301,7 @@ The sector's own funding went the other way, from [six startups raising US$41,25
 | Science and ICT education grant | About US$10m committed, active | [About US$10m committed, active](https://medhospafrica.com/2025/08/07/the-revolutionary-role-that-korea-has-played-in-improving-tanzanias-health-and-educational-systems/) | No change |
 | Certified financial educators | ***Baseline not held*** | [1,167 certified financial educators trained and about 155,730 individuals reached](https://www.bot.go.tz/Publications/Regular/Annual%20Report/en/2026072316300213.pdf) | ***Baseline not held*** |
 | Digital clubs programme | ***Baseline not held*** | [800 digital clubs established from nursery to university level and funded through the telecoms regulator, alongside its sponsorship of the national schools mathematics olympiad team](https://dailynews.co.tz/tcra-ups-support-for-mathematics-digital-clubs/) | ***Baseline not held*** |
+| Operator-funded school innovation lab | Did not exist | [One lab open, run with a Dar es Salaam technology incubator](https://techafricanews.com/2026/08/24/airtel-launches-fursa-lab-tanzania-school-digital-skills/) | ***Baseline not held*** |
 
 ### Training and skills
 

@@ -3,18 +3,18 @@ title: West Africa — progress report, 2025-08-01 to 2026-08-24
 compiled: 2026-08-24
 period: 2025-08-01 to 2026-08-24
 place: XWA
-ledger_rows: 52
+ledger_rows: 54
 not_held: 1
-record: bc72ac6ed4b0
+record: 7ad359413616
 ---
 
 # West Africa: progress report, 2025-08-01 to 2026-08-24
 
 *Compiled 2026-08-24 from the Data Landscapers source base. Sections run from the region's institutions outwards to what funds them. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
 
-*Of 52 bodies, instruments and systems on this place's ledger, 37 changed position between 2025-08-01 and 2026-08-24, 3 did not, 11 carry no stated baseline, and 1 is ***Not held*** at both ends.*
+*Of 54 bodies, instruments and systems on this place's ledger, 37 changed position between 2025-08-01 and 2026-08-24, 4 did not, 12 carry no stated baseline, and 1 is ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 125 sources for this place in the window — 19 in the earlier half (2025-08 to 2026-01), 106 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+*Shape check, run before the comparison: 127 sources for this place in the window — 19 in the earlier half (2025-08 to 2026-01), 108 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -59,6 +59,7 @@ The Alliance of Sahel States, which severed its ECOWAS ties in 2024, is building
 | Body, instrument or system | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | BCEAO connection obligation for instant-payment participants | Interoperability announced as mandatory from 30 June 2026 | [Banks, e-money issuers and payment institutions have until 30 September 2026 and microfinance institutions until 30 June 2027](https://www.fratmat.info/article/2641755/economie/uemoa-linteroperabilite-des-paiements-devient-obligatoire-des-le-30-juin-2026) | Advanced, slipped |
+| BCEAO guide to digitalising member-state payments | In force | [In force, unrevised on the record](https://www.bceao.int/sites/default/files/2021-03/Guide%20pour%20la%20digitalisation%20des%20paiements%20des%20Etats%20membres%20de%20l%27UEMOA.pdf) | No change |
 
 ### Legislation and regulation
 
@@ -126,6 +127,7 @@ The BCEAO's connection obligation slipped. Interoperability [was to be mandatory
 | CSquared West Africa backbone | Carrying regional traffic on its own subsea and terrestrial routes | [Capacity on the 2Africa West system added for route diversity, after three multi-country outages in 28 months at the Accra, Lagos and Abidjan landing concentration](https://www.mobileeurope.co.uk/csquared-boosts-internet-resilence-integrating-with-2africa-west/) | Advanced |
 | EllaLink Mauritania branch | Launched at Nouadhibou in July 2025, with nothing laid | [Coastal landing complete, offshore laying scheduled for August 2026 and commissioning expected in the first quarter of 2027](https://ami.mr/fr/archives/294524) | Advanced |
 | Via Africa submarine cable | Did not exist | [A consortium memorandum signed by Canalink, GUILAB, International Mauritania Telecom, the Orange group, Sonatel and Silverlinks for a Europe-to-South-Africa system landing in Mauritania, Senegal, Guinea, Cote d'Ivoire and Nigeria; no cost, contract or in-service date held](https://techafricanews.com/2026/05/13/via-africa-project-to-launch-new-subsea-cable-strengthening-europe-africa-connectivity/) | Advanced |
+| Nigeria-Burkina Faso connectivity partnership | Did not exist | [Technical teams to assess routes through Niger and through Benin, on a stated aim of halving the cost of internet access in Burkina Faso](https://techafricanews.com/2026/08/13/nigeria-and-burkina-faso-explore-project-bridge-to-cut-internet-costs-by-50/) | ***Baseline not held*** |
 | WACS cable repair logistics | ***Baseline not held*** | [The cable's spare-fibre depot sits at Brest, far from the stretch between Senegal and Congo where most outages occur, so a repair ship had to sail from Portland to Abidjan](https://subseacables.blogspot.com/2026/07/update-on-wacs-2africa-outages.html) | ***Baseline not held*** |
 
 ### Cybersecurity

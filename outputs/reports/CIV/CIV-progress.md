@@ -5,7 +5,7 @@ period: 2025-08-01 to 2026-08-24
 place: CIV
 ledger_rows: 145
 not_held: 10
-record: f74b308798cc
+record: a7cd0e31ded8
 ---
 
 # Cote d'Ivoire: progress report, 2025-08-01 to 2026-08-24
@@ -14,7 +14,7 @@ record: f74b308798cc
 
 *Of 145 systems and instruments on this place's ledger, 74 changed position between 2025-08-01 and 2026-08-24, 24 did not, 37 carry no stated baseline, and 10 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 276 sources for this place in the window — 87 in the earlier half (2025-08 to 2026-01), 189 in the later (2026-02 to 2026-08). The two halves are comparable, so the comparison is made over the whole window.*
+*Shape check, run before the comparison: 277 sources for this place in the window — 87 in the earlier half (2025-08 to 2026-01), 190 in the later (2026-02 to 2026-08). The two halves are comparable, so the comparison is made over the whole window.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 

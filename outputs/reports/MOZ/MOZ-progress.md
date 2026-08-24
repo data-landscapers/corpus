@@ -5,7 +5,7 @@ period: 2025-08-01 to 2026-08-24
 place: MOZ
 ledger_rows: 156
 not_held: 19
-record: 1885b375565f
+record: 1ff964abddfa
 ---
 
 # Mozambique: progress report, 2025-08-01 to 2026-08-24
@@ -14,7 +14,7 @@ record: 1885b375565f
 
 *Of 156 systems and instruments on this place's ledger, 80 changed position between 2025-08-01 and 2026-08-24, 27 did not, 30 carry no stated baseline, and 19 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 181 sources for this place in the window — 30 in the earlier half (2025-08 to 2026-01), 151 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+*Shape check, run before the comparison: 182 sources for this place in the window — 31 in the earlier half (2025-08 to 2026-01), 151 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -240,7 +240,7 @@ The interoperability platform is the position that did not move visibly in eithe
 
 | System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
-| Data Sharing Agreement under the health memorandum | Did not exist | [Signed by the two governments on the same day as the memorandum and not annexed to it, so neither its term, its pathogen or genetic-sequence scope nor any transfer trigger can be read from the instrument that penalises failure to fulfil it; the State Department briefly posted a subset of the memoranda in March 2026, then removed access and published none of the related agreements, and a suit for their release was unresolved at 2026-04-02. A rights organisation's reading of the seven signed memoranda puts Mozambique among three committing to hand over any data requested for the American audit without explicit privacy safeguards, and among five whose text requires unilateral sharing of specimens and pathogen-sequencing data; it also names Mozambique as lacking a binding comprehensive data-protection law, which is what makes the audit-access provision acute](https://www.hrw.org/news/2026/06/08/human-rights-assessment-of-the-2025-2026-us-bilateral-health-agreements) | Advanced |
+| Data Sharing Agreement under the health memorandum | Did not exist | [Published: specimens, sequencing data and digital sequence information to be shared within eight working days of a request, subject to approval by the national ethics, biosafety and security authority which shall not be unreasonably withheld, with advance consent to onward sharing with US entities on after-the-fact notice and no cap on recipients](https://www.citizen.org/wp-content/uploads/64103-Mozambique-Health-Specimen-Sharing-Agreement-12.15.2025.pdf) | Advanced |
 | National data protection authority | No data regulatory authority, with INTIC, INCM, INAGE and CEDSIF exercising implied oversight and coordination gaps between them (2025-06); a two-tier commission and agency provided for in the draft law (2025-09) | [Still provided for in the draft only; no authority established. The World Bank recommended creating one in December 2025 and on 2026-01-16 cut the project subcomponent funding cybersecurity and data protection from US$18m to US$11m, stating that operationalising the Data Protection Office had been envisaged over six years and that the remaining project period no longer allows it](https://www.techhiveadvisory.africa/insights/review-of-mozambiques-proposed-personal-data-protection-law) | Stalled |
 | Personal Data Protection Law (draft) | Draft in preparation, no tabling date (2025-04, World Bank diagnostic) | [Still in preparation; the Cabinet submission INTIC planned for June 2026 is not on record, and no tabling or adoption date is stated](https://www.techhiveadvisory.africa/insights/review-of-mozambiques-proposed-personal-data-protection-law) | Stalled |
 | Personal-data breach reporting platform | Did not exist | [Live, taking reports of personal-data breaches, illicit content and cyber incidents](https://itweb.africa/article/mozambique-intros-data-breach-platform/) | Advanced |

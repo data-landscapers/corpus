@@ -3,9 +3,9 @@ title: Tanzania — monthly update, July 2026
 compiled: 2026-08-24
 period: 2026-07-01 to 2026-08-24
 place: TZA
-ledger_rows: 72
+ledger_rows: 73
 not_held: 13
-record: a7efe642eb93
+record: 3f172b7fcc0b
 ---
 
 # Tanzania: monthly update, July 2026
