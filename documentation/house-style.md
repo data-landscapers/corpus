@@ -37,7 +37,7 @@ In-page jump navigation (category bars, report section lists, article TOCs) is o
 
 ## Boundaries
 
-Three devices, and no others. A 1px `--rule` separates items and closes headers. A 2px `--ink` top rule with a display h2 (`.section-heading`) opens a major page section. A 3px `--accent` left border marks quoted or apparatus matter (blockquote, standfirst, callout). Fills: `--paper-warm` for apparatus only, never behind content. Radius 2px on controls (buttons, inputs, badges), 3px on containers (table wraps, cards, code blocks) — the house sets both, and neither is a licence for a third.
+Three devices, and no others. A 1px `--rule` separates items and closes headers. A **1px `--accent`** top rule with a display h2 (`.section-heading`) opens a major page section — terracotta and thin since 2026-08-24, where it was 2px ink: the heading is already bold, 1.45rem and display, so the line only has to mark where a section starts and does not need to carry weight of its own. (The 2px ink rule survives in one place, `table.pivot tfoot` in `country.css`, where it divides a totals row from its data. That is a table device, not a page divider.) A 3px `--accent` left border marks quoted or apparatus matter (blockquote, standfirst, callout). Fills: `--paper-warm` for apparatus only, never behind content. Radius 2px on controls (buttons, inputs, badges), 3px on containers (table wraps, cards, code blocks) — the house sets both, and neither is a licence for a third.
 
 ## Whitespace
 

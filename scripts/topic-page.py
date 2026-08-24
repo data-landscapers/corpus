@@ -186,7 +186,7 @@ TOPIC_BODY = """    <h2 class="section-heading">Documents</h2>
     <p>{how_to_read}</p>
     <p>Where a place has nothing on record for this topic in the period, it has no section: an
        absent heading means no evidence held, not nothing happening. The place&rsquo;s own report
-       is the fuller account &mdash; <a href="{base}/#countries">browse by country</a>.</p>
+       is the fuller account &mdash; <a href="{base}/countries/">browse by country</a>.</p>
 """
 
 CATEGORY_BODY = """    <p class="section-intro">{intro}</p>

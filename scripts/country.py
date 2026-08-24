@@ -503,7 +503,7 @@ FINANCE = """<!DOCTYPE html>
   <div class="container container--wide">
 
     <div class="country-head">
-      <div class="crumb"><a href="{base}/#countries">Countries</a> &nbsp;/&nbsp; <a href="index.html">{name}</a> &nbsp;/&nbsp; Non-state finance</div>
+      <div class="crumb"><a href="{base}/countries/">Countries</a> &nbsp;/&nbsp; <a href="index.html">{name}</a> &nbsp;/&nbsp; Non-state finance</div>
       <h1>Non-state finance</h1>
       <div class="country-head__meta">{name} &nbsp;·&nbsp; {fin_n} commitments &nbsp;·&nbsp; US${fin_total}m &nbsp;·&nbsp; {y0}&ndash;{y1}</div>
     </div>

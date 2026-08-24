@@ -648,7 +648,7 @@ def build_document(md_path: Path, edition: str | None, absolute: bool,
         until = bulletin_editions.expires_on(edition)
         current_row += (
             f'          <dt>Retention</dt><dd>Kept until {until}. Older bulletins: the '
-            f'<a href="{SITE_BASE}/#countries">country pages</a> and the monthly reports.</dd>\n')
+            f'<a href="{SITE_BASE}/countries/">country pages</a> and the monthly reports.</dd>\n')
         # **Not in the PDF.** The control needs a script to do anything and the PDF runs none,
         # so it renders `hidden` there for ever — and a `<dt>Earlier editions</dt>` with nothing
         # beside it is the same fault as the download button that named a file nobody cut.

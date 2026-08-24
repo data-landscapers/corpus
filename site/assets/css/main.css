@@ -212,7 +212,11 @@ figcaption { font-size: 0.82rem; color: var(--accent); margin-top: 0.5rem; line-
   align-items: baseline;
   justify-content: space-between;
   gap: 1rem;
-  border-top: 2px solid var(--ink);
+  /* 1px terracotta, not 2px ink (Bill, 2026-08-24). The heavy black rule was
+     doing the work twice — the heading is already bold, 1.45rem and display —
+     so the line only has to say *a section starts here*, and the accent says it
+     without weighing the page down. */
+  border-top: 1px solid var(--accent);
   padding-top: 0.6rem;
   margin: 1.75rem 0 0.6rem;
   font-family: var(--display);

@@ -39,7 +39,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from copy_lib import copy_inline  # noqa: E402
-from chrome_lib import chrome, styles  # noqa: E402
+from chrome_lib import chrome, foot, styles  # noqa: E402
 
 CORPUS = Path(__file__).resolve().parent.parent
 OUTPUTS = CORPUS / "outputs"
@@ -346,12 +346,9 @@ TEMPLATE = """<!DOCTYPE html>
     </div>
 
 {bulletin}
-    <h2 class="section-heading" id="countries">Countries</h2>
+    <h2 class="section-heading" id="countries"><a href="{base}/countries/">Countries</a></h2>
     <p class="section-intro">{countries_intro}</p>
-    <div class="boxes">
-{countries}
-    </div>
-    <p class="caveat">{countries_caveat}</p>
+    <p class="section-intro"><a href="{base}/countries/">Browse all 54 countries &rarr;</a></p>
 
     <h2 class="section-heading" id="regions">Regions</h2>
     <p class="section-intro">{regions_intro}</p>
@@ -421,6 +418,99 @@ SCRIPT = """<script>
 </script>"""
 
 
+# The countries page — the 54-box matrix, moved off the home page on 2026-08-24
+# (Bill). The home page keeps the heading and `countries-intro` and links here.
+#
+# **Why it is a page and not a section.** The matrix is the largest single object
+# on the site — 54 boxes, most of a viewport — and it sat above Regions and
+# Topics, which meant a reader who wanted either had to scroll past all of it.
+# It also gives `{SITE_BASE}/countries/` something to be: that URL held the 54
+# per-country directories and no index, so it 404'd, and it was one of the three
+# dead links the nav carried until this morning. The nav points at it properly
+# now instead of at the home page's `#countries` anchor.
+COUNTRIES_TEMPLATE = """<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Countries — Data Landscapers</title>
+<meta name="description" content="Every African country in the Data Landscapers corpus, with the number of primary sources held for each.">
+<link rel="canonical" href="{base}/countries/">
+{styles}
+<link rel="icon" href="{favicon}" type="image/svg+xml">
+<meta property="og:title" content="Countries — Data Landscapers">
+<meta property="og:description" content="Every African country in the Data Landscapers corpus, with the number of primary sources held for each.">
+<meta property="og:url" content="{base}/countries/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Data Landscapers">
+</head>
+<body>
+<div class="site-wrap">
+
+{chrome}
+
+  <div class="stat-bar">
+    <div class="stat-bar__inner">
+      <span class="stat-bar__label">Primary sources in corpus</span>
+      <span class="stat-bar__item">Total <strong>{docs}</strong></span>
+      <span class="stat-bar__item">Countries covered <strong>{ncountries}</strong></span>
+    </div>
+  </div>
+
+  <main id="main">
+  <div class="container">
+
+    <h2 class="section-heading" id="countries">Countries</h2>
+    <p class="section-intro">{countries_intro}</p>
+    <div class="boxes">
+{countries}
+    </div>
+    <p class="caveat">{countries_caveat}</p>
+
+    <div class="colophon">
+      <strong>About this page</strong>
+      <dl>
+        <dt>Built</dt><dd class="mono">{built}</dd>
+        <dt>Licence</dt><dd><a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></dd>
+      </dl>
+    </div>
+
+  </div>
+  </main>
+
+{foot}
+
+</div>
+</body>
+</html>
+"""
+
+
+def build_countries() -> Path:
+    """`site/countries/index.html` — the matrix on a page of its own.
+
+    Written into the directory that already holds the 54 per-country folders, so
+    `/countries/` resolves and `/countries/AGO/` goes on resolving beneath it."""
+    s = load_stats()
+    by_place = s["by_place"]
+    built = date.today().isoformat()
+    doc = COUNTRIES_TEMPLATE.format(
+        base=SITE_BASE, built=built,
+        favicon=f"{MAIN_SITE}/assets/favicon.svg",
+        chrome=chrome("countries", depth=1), foot=foot(depth=1),
+        styles=styles(1, "home.css"),
+        docs=f"{s['documents']:,}",
+        ncountries=sum(1 for k, v in by_place.items() if not k.startswith("X") and v),
+        countries=country_boxes(by_place),
+        countries_intro=copy_inline("home", "countries-intro"),
+        countries_caveat=copy_inline("home", "countries-caveat"),
+    )
+    out = SITE / "countries"
+    out.mkdir(parents=True, exist_ok=True)
+    (out / "index.html").write_text(doc, encoding="utf-8")
+    return out / "index.html"
+
+
 def build() -> Path:
     s = load_stats()
     by_place = s["by_place"]
@@ -438,8 +528,7 @@ def build() -> Path:
         chrome=chrome(None, depth=0),
         styles=styles(0, "home.css"),
         hero=copy_inline("home", "hero"),
-        countries_caveat=copy_inline("home", "countries-caveat"),
-        countries=country_boxes(by_place), countries_intro=copy_inline("home", "countries-intro"),
+        countries_intro=copy_inline("home", "countries-intro"),
         regions=region_boxes(by_place), regions_intro=copy_inline("home", "regions-intro"),
         topics=topic_boxes(s["by_topic"]), topics_intro=copy_inline("home", "topics-intro"),
         regional=f"{regional:,}", ntopics=len(s["by_topic"]), script=SCRIPT,
@@ -457,6 +546,7 @@ def build() -> Path:
 
 if __name__ == "__main__":
     print(build())
+    print(build_countries())
     print("stats file the page will prefer, once REPO-STATUS writes it:")
     print("  outputs/catalogue/stats.json")
     print(STATS_SHAPE)

@@ -14,7 +14,7 @@ This is a dated edition and is not revised after publication. If a figure here h
 
 ## bulletin-notes
 
-This bulletin is produced automatically at the end of each data collection sweep but only includes items published on the day cited in the edition, and the previous day. Items published in the last month can be found on the [country pages](https://corpus.data-landscapers.io/#countries). The links to all items stored in the corpus can be found in the [catalogue](https://corpus.data-landscapers.io/catalogue/).
+This bulletin is produced automatically at the end of each data collection sweep but only includes items published on the day cited in the edition, and the previous day. Items published in the last month can be found on the [country pages](https://corpus.data-landscapers.io/countries/). The links to all items stored in the corpus can be found in the [catalogue](https://corpus.data-landscapers.io/catalogue/).
 
 Bulletins are kept for a week — the last week's editions are listed above, each at its own dated address — and are then deleted. Older material is in the country pages and the monthly reports.
 

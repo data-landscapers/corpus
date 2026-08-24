@@ -36,7 +36,11 @@ MAIN_SITE = "https://data-landscapers.io"
 # (Bill, 2026-08-19 — before that the last three were home-page anchors too).
 NAV = [
     ("Bulletin", f"{SITE_BASE}/bulletin/"),
-    ("Countries", f"{SITE_BASE}/#countries"),
+    # A page of its own since 2026-08-24 (Bill), so the nav points at it rather
+    # than at the home page's anchor. `/countries/` used to hold the 54
+    # per-country folders and no index, which is why it was one of the three
+    # dead links this file's own note warned a private copy would accumulate.
+    ("Countries", f"{SITE_BASE}/countries/"),
     ("Regions", f"{SITE_BASE}/#regions"),
     ("Topics", f"{SITE_BASE}/#topics"),
     ("Finance", f"{SITE_BASE}/finance/"),
