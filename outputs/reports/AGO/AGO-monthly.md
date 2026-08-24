@@ -1,16 +1,16 @@
 ---
 title: Angola — monthly update, July 2026
-compiled: 2026-08-23
-period: 2026-07-01 to 2026-08-23
+compiled: 2026-08-24
+period: 2026-07-01 to 2026-08-24
 place: AGO
-ledger_rows: 43
+ledger_rows: 44
 not_held: 7
-record: 67fbfa54ea10
+record: 5c2706624744
 ---
 
 # Angola: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-23 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-24 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -82,17 +82,17 @@ The education ministry and a domestic technology firm [expanded their work on th
 ### Other GovTech and e-Gov
 
 <!-- narrative: dpi--dpi-govtech -->
-The government-systems movement in the window is a procurement decision rather than a build. The executive [authorised an integrated digital transformation programme for the public finances by presidential order, as a direct award, covering modernisation of finance ministry services and a restructuring of state bodies and framed as raising revenue collection and cutting bureaucracy](https://correiokianda.info/executivo-preve-gastar-cerca-mais-de-2-mil-milhoes-de-kwanzas-para-digitalizar-financas-publicas/). What a direct award removes is the part of the record a reader could check: the supplier, the scope document and the delivery schedule are all unpublished, so the programme enters the ledger as an intention with a price attached and nothing behind it.
+The government-systems movement in the window is a procurement decision rather than a build. The executive [authorised an integrated digital transformation programme for the public finances by presidential order, as a direct award, covering modernisation of finance ministry services and a restructuring of state bodies and framed as raising revenue collection and cutting bureaucracy](https://correiokianda.info/executivo-preve-gastar-cerca-mais-de-2-mil-milhoes-de-kwanzas-para-digitalizar-financas-publicas/). What a direct award removes is the part of the record a reader could check: the supplier, the scope document and the delivery schedule are all unpublished, so the programme enters the ledger as an intention with a price attached and nothing behind it. Against that, the one government system already in service produced its first operating figures: the tax authority reported on 23 August that [51,245 large taxpayers and state suppliers had joined electronic invoicing since November 2025, issuing 36,341,801 invoices at a daily run-rate near 400,000 and peaking around 700,000, through 255 automatically certified software packages](https://angop.ao/en/noticias/economia/mais-de-50-mil-contribuintes-aderem-a-facturacao-electronica-em-angola/). The figures are the collector's own and the mandate reaches general and simplified-regime taxpayers only in 2027, so this is the compliant half of the base rather than the base.
 <!-- /narrative -->
 ### National statistics
 
 <!-- narrative: dpi--data-statistics -->
-The statistics office [launched a census portal and a mobile application on 2 July](https://angop.ao/noticias/politica/presidente-da-republica-inaugura-novo-centro-de-dados-do-governo/), both built by its own technical staff, carrying census indicators by geographic level and macroeconomic series; no open-data licence, bulk download or programming interface is stated.
+The statistics office [launched a census portal and a mobile application on 2 July](https://angop.ao/noticias/politica/ine-lanca-portal-do-censo-2024-e-aplicacao-movel/), both built by its own technical staff, carrying census indicators by geographic level and macroeconomic series; no open-data licence, bulk download or programming interface is stated.
 <!-- /narrative -->
 ### Use of satellite data
 
 <!-- narrative: dpi--data-satellite -->
-The regulator had licensed a first private reseller of national satellite capacity on 2 July, following 37 firms entering the commercial process by April.
+The regulator [licensed a first private reseller of national satellite capacity on 2 July](https://angop.ao/noticias/tecnologia/startup-do-moxico-recebe-licenca-para-fornecer-internet-via-angosat-2/), following [37 firms entering the commercial process by April](https://techafricanews.com/2026/04/10/angola-expands-satellite-internet-push-as-37-firms-enter-conecta-project/).
 <!-- /narrative -->
 
 ## Governance and regulation
