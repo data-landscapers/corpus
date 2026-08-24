@@ -14,7 +14,7 @@ Corpus is a repository of public documents covering digital transformation, digi
 
 ## countries-intro
 
-The repository covers all 54 countries For each country four reports have been built and are modified whenever newly arrived content merits an update. The ***Status Report*** attempts to summarise the current state of all components of the digital transformation landscape, The ***Monthly Update*** reference all new content published since the beginning of the last calendar month. The ***Progress Report*** attempts to track whether the tracked components have advanced, stalled or regressed over the past 12 months. ***Non-state Finance*** list all known financial commitments made since 2015. A fifth report on state budgeting and expenditure is outstanding.
+The repository covers all 54 countries. For each country four reports have been built and are modified whenever newly arrived content merits an update. The ***Status Report*** attempts to summarise the current state of all components of the digital transformation landscape, The ***Monthly Update*** reference all new content published since the beginning of the last calendar month. The ***Progress Report*** attempts to track whether the tracked components have advanced, stalled or regressed over the past 12 months. ***Non-state Finance*** list all known financial commitments made since 2015. A fifth report on state budgeting and expenditure is outstanding.
 
 ## countries-caveat
 
