@@ -460,7 +460,12 @@ COUNTRIES_TEMPLATE = """<!DOCTYPE html>
   <main id="main">
   <div class="container">
 
-    <h2 class="section-heading" id="countries">Countries</h2>
+    <!-- An h1, not the h2.section-heading the home page uses. This is the page's
+         own title rather than one section of several, so it takes the page-title
+         type and none of the section rule — which was drawing a terracotta line
+         above the first thing on the page, where there is nothing to divide it
+         from. It also gives the page the h1 it was missing. -->
+    <h1>Countries</h1>
     <p class="section-intro">{countries_intro}</p>
     <div class="boxes">
 {countries}
