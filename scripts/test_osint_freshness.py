@@ -123,6 +123,17 @@ def ahead(**delta) -> str:
     return f"## {when:%Y-%m-%d %H:%M} (ingest Phase A slice ingest-33)" + chr(10)
 
 
+def dateless(hours: float) -> str:
+    """A heading carrying a date and no time, as OSINT has written them since 2026-08-23."""
+    return (f"## {ago(hours):%Y-%m-%d} (ingest Phase A - bulletin sweep, slice 1 of 3; "
+            f"10 items in, 6 admitted)" + chr(10))
+
+
+def midnight(hours: float) -> str:
+    """Midnight of the day `hours` ago — what `dateless(hours)` is expected to read as."""
+    return ago(hours).replace(hour=0, minute=0).strftime(TS)
+
+
 def stamp_cases() -> int:
     """`last_ingest()` takes the maximum, so one mistyped heading outranks every correct one.
 
@@ -148,6 +159,18 @@ def stamp_cases() -> int:
              f"## {skew:%Y-%m-%d %H:%M} (ingest 33)" + chr(10), skew.strftime(TS)),
             ("a file of nothing but future stamps reads as unreadable, not as fresh",
              ahead(days=1), None),
+            # 2026-08-24. OSINT dropped the time from the heading on 2026-08-23 and 21 of the
+            # 63 headings then carried a date alone. Unread, they were not a gap in the answer
+            # but a wrong one: both readers fell back to the newest heading that still had a
+            # time on it, `2026-08-23 10:20`, on an afternoon when that morning's sweep had
+            # admitted 16 records — and the bulletin byline states this file as fact.
+            ("a heading dated with no time is read, at midnight",
+             dateless(1.0), midnight(1.0)),
+            ("a date-only heading cannot outrank a timed one later the same day",
+             dateless(1.0) + f"## {stamp(1.0)} (ingest Phase A slice 2)" + chr(10), stamp(1.0)),
+            ("today's date-only heading still beats yesterday's timed one",
+             dateless(1.0) + f"## {stamp(25.0)} (ingest Phase A slice 1)" + chr(10),
+             midnight(1.0)),
         ]
         for name, text, expected in cases:
             log.write_text(text, encoding="utf-8")
@@ -161,7 +184,7 @@ def stamp_cases() -> int:
     finally:
         osint_lib.INGESTED_LOG = saved
         shutil.rmtree(tmp, ignore_errors=True)
-    return failures
+    return failures, len(cases)
 
 
 def heads(*hours_ago: float) -> str:
@@ -214,7 +237,7 @@ def run_start_cases() -> int:
     finally:
         osint_lib.INGESTED_LOG = saved
         shutil.rmtree(tmp, ignore_errors=True)
-    return failures
+    return failures, len(cases)
 
 
 def run() -> int:
@@ -261,9 +284,13 @@ def run() -> int:
         (osint_lib.INGESTED_LOG, osint_lib.CYCLE_LOG, osint_lib.MIRROR,
          of.WATERMARK, of.head_committed) = saved
 
-    failures += stamp_cases()
-    failures += run_start_cases()
-    total = len(CASES) + 4 + 6
+    stamp_failures, stamp_ran = stamp_cases()
+    start_failures, start_ran = run_start_cases()
+    failures += stamp_failures + start_failures
+    # Counted off the case lists, not added up by hand. It read `len(CASES) + 4 + 6` until
+    # 2026-08-24, when three cases were added to `stamp_cases()` and the run went on reporting
+    # 22 — a suite that miscounts itself is a suite that can quietly stop running something.
+    total = len(CASES) + stamp_ran + start_ran
 
     print()
     if failures:

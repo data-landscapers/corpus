@@ -32,9 +32,13 @@ INGESTED_LOG = os.path.join(MIRROR, "logs", "ingested_log.md")
 CYCLE_LOG = os.path.join(MIRROR, "logs", "sweep-cycle_log.md")
 
 TS = "%Y-%m-%d %H:%M"
+DATE = "%Y-%m-%d"
 
-# `## 2026-08-21 00:05 (ingest Phase A, slice 4/10 — 10 items in, 8 admitted, …)`
-_INGEST_HEAD = re.compile(r"^##\s+(\d{4}-\d{2}-\d{2} \d{2}:\d{2})\b")
+# `## 2026-08-21 00:05 (ingest Phase A, slice 4/10 — 10 items in, 8 admitted, …)`, and since
+# 2026-08-23 the time is often simply absent: `## 2026-08-24 (ingest Phase A - bulletin-2026-08-24,
+# slice 1 of 3; …)`. Both forms are read, and a date on its own is taken as midnight — `_parse`
+# carries why, and why midnight rather than the end of the day.
+_INGEST_HEAD = re.compile(r"^##\s+(\d{4}-\d{2}-\d{2}(?: \d{2}:\d{2})?)\b")
 
 
 def last_ingest() -> dt.datetime | None:
@@ -163,29 +167,57 @@ def _stamps(path: str, pattern: re.Pattern) -> list[dt.datetime]:
     both readers get the same view of the file and neither has to remember to filter."""
     if not os.path.exists(path):
         return []
-    found = []
+    found, dateless = [], 0
     horizon = dt.datetime.now() + SKEW
     with open(path, encoding="utf-8") as fh:
         for line in fh:
             m = pattern.match(line)
             if not m:
                 continue
-            when = _parse(m.group(1))
+            raw = m.group(1).strip()
+            when = _parse(raw)
             if when is None:
                 continue
             if when > horizon:
                 print(f"note: {os.path.basename(path)} carries a stamp in the future "
                       f"({when:%Y-%m-%d %H:%M}) - ignored", file=sys.stderr)
                 continue
+            dateless += len(raw) == len("0000-00-00")
             found.append(when)
+    # Said rather than absorbed, on the same terms as the future stamp above. Reading a whole
+    # day at midnight is the right answer at the wrong precision, and the run that stops
+    # noticing is the run that publishes it as though it were the time OSINT wrote.
+    if dateless:
+        print(f"note: {os.path.basename(path)} carries {dateless} heading(s) dated with no time "
+              f"- read as 00:00, which understates freshness rather than overstating it",
+              file=sys.stderr)
     return sorted(found)
 
 
 def _parse(text: str) -> dt.datetime | None:
-    try:
-        return dt.datetime.strptime(text.strip(), TS)
-    except (ValueError, AttributeError):
-        return None
+    """A heading’s stamp, from `YYYY-MM-DD HH:MM` or from a bare `YYYY-MM-DD`.
+
+    **A date with no time is read as midnight** *(2026-08-24)*. OSINT stopped writing the time
+    into `ingested_log.md` headings on 2026-08-23 — 19 of the 63 headings there carry a date
+    alone — and until this was read the whole of both days failed to parse, so every reader
+    here answered from the newest heading that still had a time on it: `2026-08-23 10:20`, on an
+    afternoon when 16 records had already been admitted that morning. The bulletin’s byline
+    takes both its stamps from this file, so that would have been published as fact, and a
+    format the reader silently cannot see is exactly the stale-looking-fresh failure the rest of
+    this module is built to refuse.
+
+    Midnight rather than the end of the day, because the answer feeds *how recent is the
+    material here*: a run that admitted at 13:18 reported as `00:00` is stale by thirteen hours,
+    where the same run reported as `23:59` is a claim about collection that had not happened
+    yet. Stale rather than false, which is the direction everything here errs in.
+    """
+    text = (text or "").strip()
+    for fmt in (TS, DATE):
+        try:
+            return dt.datetime.strptime(text, fmt)
+        except (ValueError, AttributeError):
+            continue
+    return None
 
 
 if __name__ == "__main__":
