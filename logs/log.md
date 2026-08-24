@@ -11,6 +11,7 @@ title: Corpus process log
 
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 <!-- newest first: a new entry goes directly below this line -->
+2026-08-24 23:14 · render · 18m · 242 documents, 66 editions, home+countries+topics+catalogue+finance rendered, deployed — site leak gate stopped by Bill mid-pass as unnecessary; outputs gated at the build's end — ok
 2026-08-24 22:56 · build · 18m · catalogue 10793, finance 61 places, scan 18 units / 90 sources, 12 ledgers updated (2 moved + 17 minted rows), topics 76, bulletin 23 items — ok
 2026-08-24 13:38 · build · unclocked · bulletin top-up: window 21 records, 17 new summaries, rendered — ok
 2026-08-24 01:42 · render · 6m · 242 documents rendered (0 failed), home, 54 country pages, 48 topic pages, catalogue 10711, finance 1272 deals US$91,548m, bulletin 4 items, prune 0 deletable — deployed — ok
