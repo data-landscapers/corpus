@@ -34,6 +34,14 @@
   --col-content: 980px;
   --col-wide:    980px;
   --gap:         1.5rem;
+
+  /* The sticky header's height, as a token because three rules have to agree
+     with it and they are in two repositories: the header itself, the mobile
+     menu that drops below it, and Corpus's `.corpus-nav`, which sticks
+     underneath. They have disagreed before — the mobile menu was still opening
+     at 88px after the header went to 60 — and a literal repeated in three
+     places is a literal that will drift again. */
+  --header-h:    70px;
 }
 
 html { font-size: 18px; scroll-behavior: smooth; }
@@ -60,7 +68,9 @@ h1, h2, h3, h4 {
   font-weight: 700;
   line-height: 1.2;
   color: var(--ink);
-  scroll-margin-top: 70px;   /* clears the 60px sticky header */
+  /* Clears the sticky header when an anchor is jumped to. Corpus overrides this
+     in `corpus.css`, where a second sticky row sits below the header. */
+  scroll-margin-top: calc(var(--header-h) + 10px);
 }
 
 h1 { font-size: clamp(1.6rem, 3vw, 2rem); margin-bottom: 0.5rem; }
@@ -135,7 +145,7 @@ figcaption { font-size: 0.82rem; color: var(--accent); margin-top: 0.5rem; line-
   align-items: center;
   justify-content: space-between;
   gap: 2rem;
-  height: 70px;
+  height: var(--header-h);
 }
 
 .site-logo { font-family: var(--display); font-size: 1.35rem; font-weight: 700; color: var(--ink); border: none; letter-spacing: -0.01em; flex-shrink: 0; display: flex; align-items: center; gap: 0.65rem; line-height: 1.15; }
@@ -171,7 +181,7 @@ figcaption { font-size: 0.82rem; color: var(--accent); margin-top: 0.5rem; line-
   .site-nav {
     display: none;
     position: absolute;
-    top: 70px;   /* follows .site-header__inner's height */
+    top: var(--header-h);
     left: 0;
     right: 0;
     background: var(--paper);

@@ -4,7 +4,9 @@ One style, two sites. data-landscapers.io is the origin; every Corpus page is an
 
 **Status, 2026-08-24: this is the tree, with one exception.** The review's §4 landed the same day — `corpus.css` exists, `main.css` is vendored byte-identical and the lint covers it, every builder takes its chrome and its stylesheet set from `chrome_lib`, the catalogue is on house tokens, and the main-site nav links to Corpus. The figures under *Whitespace* are measured, not proposed.
 
-The exception: **the 241 rendered documents already published still carry the old chrome**, including a nav with three dead links. `RENDER.md` holds a document whose content has not moved, and `--force` would cut 241 new editions to push a stylesheet through — a decision, not a habit. Each takes the new chrome at its next natural edition. Nothing else on the site is waiting.
+The exception is now only `/method/`, which cannot build until the `method.md` → `methodology.md` rename is finished. Every other page on the site — 400 of 401 — carries the current chrome.
+
+The 241 rendered documents got there through **`render.py --repage`**, added the same day, and it is the tool to reach for after any chrome or stylesheet change. It rewrites the served page under the edition already held, touches no PDF and mints nothing. `--force` is the wrong instrument for a presentation change: it would cut 241 new dated editions to fix a navigation bar. The distinction it rests on is that the dated PDF is the citable artefact, while `AGO-status.html` is an undated view nothing can cite the bytes of.
 
 ## Where style lives
 
@@ -29,7 +31,7 @@ The subtitle is pinned explicitly — never left to inheritance, never weight 30
 
 ## Chrome and navigation
 
-Header 70px, logo 50px, wordmark 1.35rem with the tagline under it in **green** (`--green`) — green because the tagline is the masthead's own line and not a link, and everything in the row beside it is. Main site: header sticky, one nav row, **Corpus first**. Corpus: header scrolls away; the mono `corpus-nav` row is the only sticky element (`top:0`, ~36px). Corpus chrome comes from `chrome_lib.py` only — no page builds its own header, and the nav lists only pages that exist. Every corpus page carries the main-site row above its own, and both sites open the row on the same item.
+Header 70px, logo 50px, wordmark 1.35rem with the tagline under it in **green** (`--green`) — green because the tagline is the masthead's own line and not a link, and everything in the row beside it is. Main site: header sticky, one nav row, **Corpus first**. Corpus: **both rows stick** — the header, then the mono `corpus-nav` beneath it at `top: var(--header-h)`, 107px in all. The masthead is the way back out of a long report, so it stays reachable. Corpus chrome comes from `chrome_lib.py` only — no page builds its own header, and the nav lists only pages that exist. Every corpus page carries the main-site row above its own, and both sites open the row on the same item.
 
 The header row is a fixed budget too: at 980px the wordmark, a 2rem gap and seven nav items have to coexist, and the tagline is the widest thing in it. That is why the tagline is 0.66rem and the nav 0.74rem/1.25rem — sized to leave the gap standing, not for their own sake. Below 900px the nav collapses to the hamburger, because that is the width at which the row would otherwise collide rather than merely tighten.
 
@@ -45,7 +47,7 @@ Dense but not cramped. Two hard rules and no enumerated scale: **no vertical mar
 
 **The fold budget, checked before a new page type ships:** at 1366×768, **the first line of body content sits within 260px of the viewport top**. That is the rule; it is arithmetic, not judgement, and it is what a header block has to give way to rather than the other way round.
 
-Measured on 2026-08-24, at the values now in `main.css`: an article's first line lands at **259px** (was ~430px), leaving ~509px — about 17 lines of prose. The Corpus sticky nav is **37px**. A `/writing/` index entry is ~162px, so **four entries** land above the fold where three did; five is not reachable without cutting the summary line, and the summary is the reason the index is worth reading.
+Measured on 2026-08-24, at the values now in `main.css`: an article's first line lands at **259px** (was ~430px), leaving ~509px — about 17 lines of prose. Corpus pays more at every scroll position, because both chrome rows stick there: **107px**, against the 128px it started at. A `/writing/` index entry is ~162px, so **four entries** land above the fold where three did; five is not reachable without cutting the summary line, and the summary is the reason the index is worth reading.
 
 **The header and the article header spend the same budget.** When the site header went 60px → 70px so the wordmark could carry its weight, `.article-header` gave back 9px and the sum came out at 259 rather than 268. Re-run it when any of `.site-header__inner` height, `.article-header`'s three values, or the h1 clamp changes — those four are the whole of the arithmetic, and raising one means finding the difference in another.
 

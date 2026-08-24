@@ -18,20 +18,28 @@
  */
 
 /* ── CORPUS NAV ──
- * The internal menu, below the site header on every corpus page.
+ * The internal menu, sticking below the site header on every corpus page.
  *
- * **It is the only sticky element on a Corpus page** *(2026-08-24)*. It used to
- * stick at `top: 88px`, under a header that stuck too, so 128px of every
- * viewport at every scroll position was chrome — on documents (a status report,
- * a bulletin) that are mostly scrolling. The header now scrolls away and this
- * stays, which keeps the affordance that matters on a long page and costs 36px
- * instead. `main.css`'s `.site-header` rule is overridden below rather than
- * changed upstream, because on the website — short pages, no second row — a
- * sticky header is worth its height.
+ * **Both rows stick, and the header's height is a token so they cannot drift
+ * apart** *(Bill, 2026-08-24)*. For part of that day only this row stuck and the
+ * header scrolled away, on the reasoning that a Corpus page is a long scrolling
+ * document and 107px of permanent chrome is a lot to pay on one. Bill's answer
+ * is that the masthead is the way back out of a report and has to stay
+ * reachable, which settles it: the two rows stack, as they did before, and the
+ * saving is taken in their heights instead — 107px against the 128px this
+ * started at.
+ *
+ * `top` is `--header-h` from `main.css`, never a literal. The literal is what
+ * broke it the last time the header was resized: the row went on sticking at
+ * 88px under a 60px header, leaving a 28px band of page showing through above
+ * it. A token cannot do that.
  */
-.site-header { position: static; }
+.corpus-nav { border-bottom: 1px solid var(--rule); background: var(--paper-warm); position: sticky; top: var(--header-h); z-index: 99; }
 
-.corpus-nav { border-bottom: 1px solid var(--rule); background: var(--paper-warm); position: sticky; top: 0; z-index: 99; }
+/* Both bars, plus a little air, so a jumped-to heading lands below them rather
+   than behind them. The bulletin's category bar is the page this matters most
+   on, and it is the one place a reader jumps by anchor constantly. */
+h1, h2, h3, h4 { scroll-margin-top: calc(var(--header-h) + 46px); }
 /* Right-aligned so the internal menu lines up under the main site nav, which
  * sits on the right of the header (Bill, 2026-08-13, item 1). */
 .corpus-nav__inner { max-width: var(--col-wide); margin: 0 auto; padding: 0.45rem 1.5rem; display: flex; gap: 1.75rem; flex-wrap: wrap; justify-content: flex-end; }
