@@ -33,31 +33,37 @@
 
 html { font-size: 18px; scroll-behavior: smooth; }
 
+/* Line-height and paragraph gap are the two values that decide how much of a
+   page a reader sees before scrolling; 1.6/0.9rem is the house setting, and the
+   floor is 1.45 (documentation/house-style.md → Whitespace). */
 body {
   font-family: var(--serif);
   font-weight: 400;
   font-size: 1rem;
-  line-height: 1.75;
+  line-height: 1.6;
   color: var(--ink);
   background: var(--paper);
   -webkit-font-smoothing: antialiased;
 }
 
-/* ── TYPOGRAPHY ── */
+/* ── TYPOGRAPHY ──
+   One scale, and nothing outside it: h1 the page title, h2 the section, h3 the
+   subsection, h4 a run-in label. h3 is Lato 600 rather than display 700 so it
+   sits clearly under h2 at the tighter rhythm. */
 h1, h2, h3, h4 {
   font-family: var(--display);
   font-weight: 700;
   line-height: 1.2;
   color: var(--ink);
-  scroll-margin-top: 100px;
+  scroll-margin-top: 70px;   /* clears the 60px sticky header */
 }
 
-h1 { font-size: 2.4rem; margin-bottom: 0.5rem; }
-h2 { font-size: 1.6rem; margin: 2.5rem 0 0.75rem; }
-h3 { font-size: 1.2rem; margin: 2rem 0 0.5rem; }
-h4 { font-size: 1rem; font-family: var(--serif); font-weight: 600; margin: 1.5rem 0 0.4rem; }
+h1 { font-size: clamp(1.6rem, 3vw, 2rem); margin-bottom: 0.5rem; }
+h2 { font-size: 1.45rem; margin: 1.75rem 0 0.5rem; }
+h3 { font-size: 1.05rem; font-family: var(--serif); font-weight: 600; margin: 1.4rem 0 0.4rem; }
+h4 { font-size: 1rem; font-family: var(--serif); font-weight: 600; margin: 1.25rem 0 0.4rem; }
 
-p { margin-bottom: 1.25rem; }
+p { margin-bottom: 0.9rem; }
 
 a { color: var(--link); text-decoration: none; border-bottom: 1px solid transparent; transition: color 0.15s, border-color 0.15s; }
 a:hover { color: var(--link-hover); border-bottom-color: var(--link-hover); }
@@ -68,7 +74,7 @@ em { font-style: italic; }
 blockquote {
   border-left: 3px solid var(--accent);
   padding: 0.25rem 0 0.25rem 1.5rem;
-  margin: 1.5rem 0;
+  margin: 1.25rem 0;
   color: var(--ink-light);
   font-style: italic;
 }
@@ -84,16 +90,17 @@ code {
   color: var(--accent-dk);
 }
 
-pre { background: var(--code-bg); padding: 1rem 1.25rem; border-radius: 3px; overflow-x: auto; margin: 1.5rem 0; }
+pre { background: var(--code-bg); padding: 1rem 1.25rem; border-radius: 3px; overflow-x: auto; margin: 1.25rem 0; }
 pre code { background: none; padding: 0; color: var(--ink); }
 
-ul, ol { padding-left: 1.5rem; margin-bottom: 1.25rem; }
-li { margin-bottom: 0.35rem; }
+ul, ol { padding-left: 1.5rem; margin-bottom: 0.9rem; }
+li { margin-bottom: 0.3rem; }
 
-hr { border: none; border-top: 1px solid var(--rule); margin: 2.5rem 0; }
+/* 1.75rem is the house ceiling on any vertical gap inside a page. */
+hr { border: none; border-top: 1px solid var(--rule); margin: 1.75rem 0; }
 img { max-width: 100%; height: auto; display: block; }
 
-figure { margin-top: 1.5rem; margin-bottom: 1.5rem; }
+figure { margin-top: 1.25rem; margin-bottom: 1.25rem; }
 figcaption { font-size: 0.82rem; color: var(--accent); margin-top: 0.5rem; line-height: 1.5; }
 
 /* ── LAYOUT ── */
@@ -105,6 +112,10 @@ figcaption { font-size: 0.82rem; color: var(--accent); margin-top: 0.5rem; line-
 /* ── HEADER / NAV ── */
 .site-header { border-bottom: 1px solid var(--rule); background: var(--paper); position: sticky; top: 0; z-index: 100; }
 
+/* 60px, not 88px. The header is sticky, so its height is subtracted from every
+   viewport at every scroll position — the most expensive whitespace on the site
+   (documentation/house-style.md → Chrome). The logo and both lines of the
+   wordmark are sized to fit it with air to spare. */
 .site-header__inner {
   max-width: var(--col-wide);
   margin: 0 auto;
@@ -112,14 +123,14 @@ figcaption { font-size: 0.82rem; color: var(--accent); margin-top: 0.5rem; line-
   display: flex;
   align-items: center;
   justify-content: space-between;
-  height: 88px;
+  height: 60px;
 }
 
-.site-logo { font-family: var(--display); font-size: 1.45rem; font-weight: 700; color: var(--ink); border: none; letter-spacing: -0.01em; flex-shrink: 0; display: flex; align-items: center; gap: 0.75rem; }
-.site-logo__img { height: 80px; width: 80px; display: block; }
+.site-logo { font-family: var(--display); font-size: 1.15rem; font-weight: 700; color: var(--ink); border: none; letter-spacing: -0.01em; flex-shrink: 0; display: flex; align-items: center; gap: 0.6rem; line-height: 1.15; }
+.site-logo__img { height: 44px; width: 44px; display: block; }
 .site-logo__text { display: flex; flex-direction: column; }
 .site-logo:hover { color: var(--accent); border: none; }
-.site-logo__sub { font-family: var(--serif); font-size: 1.0rem; font-weight: 300; color: var(--accent); text-transform: uppercase; letter-spacing: 0.08em; display: block; margin-top: -3px; }
+.site-logo__sub { font-family: var(--serif); font-size: 0.72rem; font-weight: 400; line-height: 1.2; color: var(--accent); text-transform: uppercase; letter-spacing: 0.08em; display: block; margin-top: 1px; }
 
 /* Desktop nav */
 .site-nav { display: flex; gap: 1.75rem; align-items: center; }
@@ -137,7 +148,7 @@ figcaption { font-size: 0.82rem; color: var(--accent); margin-top: 0.5rem; line-
   .site-nav {
     display: none;
     position: absolute;
-    top: 88px;
+    top: 60px;   /* follows .site-header__inner's height */
     left: 0;
     right: 0;
     background: var(--paper);
@@ -155,43 +166,69 @@ figcaption { font-size: 0.82rem; color: var(--accent); margin-top: 0.5rem; line-
   .site-nav a:last-child { border-bottom: none; }
 }
 
-/* ── CORPUS NAV — sits below the site header on every corpus page, sticky
-   together with it so both stay visible while a long page scrolls. ── */
-.corpus-nav { border-bottom: 1px solid var(--rule); background: var(--paper-warm); position: sticky; top: 88px; z-index: 99; }
-/* Right-aligned so the internal menu lines up under the main site nav, which
- * sits on the right of the header (Bill, 2026-08-13, item 1). */
-.corpus-nav__inner { max-width: var(--col-wide); margin: 0 auto; padding: 0.65rem 1.5rem; display: flex; gap: 1.75rem; flex-wrap: wrap; justify-content: flex-end; }
-.corpus-nav a { font-family: var(--mono); font-size: 0.72rem; font-weight: 500; text-transform: uppercase; letter-spacing: 0.08em; color: var(--ink-light); border: none; }
-.corpus-nav a:hover, .corpus-nav a.active { color: var(--accent); border: none; }
-
-/* ── HIGHLIGHTED STAT LINE — total/this-year style figures, or a page's own
-   headline counts, in one row. Used on the home page and on country pages. ── */
-.stat-bar { background: color-mix(in srgb, var(--accent) 10%, var(--paper)); border-bottom: 1px solid var(--rule); }
-.stat-bar__inner { max-width: var(--col-wide); margin: 0 auto; padding: 0.7rem 1.5rem; display: flex; flex-wrap: wrap; align-items: baseline; gap: 0.35rem 2rem; }
-.stat-bar__label { font-family: var(--mono); font-size: 0.68rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--ink-faint); }
-.stat-bar__item { font-family: var(--serif); font-size: 0.85rem; color: var(--ink-light); }
-.stat-bar__item strong { font-family: var(--display); font-size: 1rem; font-weight: 700; color: var(--accent-dk); margin-left: 0.3rem; }
-
-/* ── SECTION HEADING — the bold, top-ruled h2 used to open a section
-   (Countries/Regions/Topics on the home page; Reports/Sources/Non-state
-   finance on a country page). ── */
-.section-heading { font-size: 1.45rem; margin: 3rem 0 0.6rem; border-top: 2px solid var(--ink); padding-top: 0.85rem; font-family: var(--display); font-weight: 700; color: var(--ink); }
-.section-heading:first-of-type { margin-top: 0; }
-
 /* ── BUTTONS ── */
 .btn { display: inline-block; font-family: var(--serif); font-size: 0.82rem; font-weight: 600; letter-spacing: 0.03em; padding: 0.6rem 1.4rem; border-radius: 2px; border: 1.5px solid var(--ink); color: var(--ink); transition: all 0.15s; text-decoration: none; }
 .btn:hover { background: var(--ink); color: var(--paper); border-color: var(--ink); }
 .btn--accent { border-color: var(--accent); color: var(--accent); }
 .btn--accent:hover { background: var(--accent); color: white; border-color: var(--accent); }
 
-/* ── SECTION HEADERS ── */
-.section-header { padding: 2.5rem 0 1.5rem; display: flex; align-items: baseline; justify-content: space-between; border-bottom: 1px solid var(--rule); }
-.section-header h2 { margin: 0; font-size: 0.72rem; font-family: var(--mono); font-weight: 500; text-transform: uppercase; letter-spacing: 0.12em; color: var(--ink-faint); }
-.section-header a { font-size: 0.75rem; color: var(--accent); font-family: var(--serif); border: none; }
+/* ── SECTION HEADING ──
+   The one device that opens a major page section: a 2px ink top rule under a
+   display h2. It replaced `.section-header` — a mono label over a 1px rule — on
+   2026-08-24, because the two did the same job in two voices and neither said
+   which was which. It came up from the Corpus block at the same time, so both
+   sites now own it (documentation/house-style.md → Boundaries).
+
+   Works either way round: as the heading itself (`<h2 class="section-heading">`)
+   or as a wrapper holding the heading and a link to that section's full index.
+   The link takes `.section-heading__more` explicitly rather than being matched
+   as any child `a`, so that a heading which is *itself* a link — Corpus's
+   Bulletin heading — keeps the heading's own type. */
+.section-heading {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1rem;
+  border-top: 2px solid var(--ink);
+  padding-top: 0.6rem;
+  margin: 1.75rem 0 0.6rem;
+  font-family: var(--display);
+  font-weight: 700;
+  font-size: 1.45rem;
+  line-height: 1.2;
+  color: var(--ink);
+}
+.section-heading:first-of-type { margin-top: 0; }
+.section-heading > h2 { font: inherit; margin: 0; }
+.section-heading__more { font-family: var(--serif); font-weight: 400; font-size: 0.75rem; color: var(--accent); border: none; white-space: nowrap; }
+.section-heading__more:hover { color: var(--accent-dk); }
+
+/* ── IN-PAGE JUMP NAV ──
+   One idiom for every in-page nav — an article's table of contents, the
+   bulletin's category bar, a report's section list: terracotta small caps
+   separated by middots, closed below by a single rule (Bill, 2026-08-21,
+   reconfirmed 2026-08-24). Terracotta all the time marks the page's own
+   contents; site chrome is the same voice in grey. */
+.article-toc {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.4rem 0.75rem;
+  border-bottom: 1px solid var(--rule);
+  padding: 0 0 0.7rem;
+  margin: 0 0 1.25rem;
+}
+.article-toc a { font-family: var(--mono); font-size: 0.72rem; font-weight: 500; text-transform: uppercase; letter-spacing: 0.08em; color: var(--accent); border: none; }
+.article-toc a:hover { color: var(--accent-dk); border-bottom: 1px solid currentColor; }
+/* A sibling of the links, not an ::after inside one, so it is neither
+   clickable nor underlined on hover. */
+.article-toc__sep { color: var(--ink-faint); font-size: 0.72rem; line-height: 1; }
 
 /* ── ARTICLE LIST — no tag box on summary ── */
 .article-list { list-style: none; padding: 0; }
-.article-list__item { padding: 1.75rem 0; border-bottom: 1px solid var(--rule); }
+/* 1rem, against a 0.75rem floor: five to six entries land above the fold
+   instead of three (documentation/house-style.md → Whitespace). */
+.article-list__item { padding: 1rem 0; border-bottom: 1px solid var(--rule); }
 .article-list__item:last-child { border-bottom: none; }
 .article-list__meta { font-family: var(--mono); font-size: 0.72rem; color: var(--ink-faint); text-transform: uppercase; letter-spacing: 0.07em; margin-bottom: 0.4rem; }
 .article-list__title { font-family: var(--display); font-size: 1.2rem; font-weight: 700; line-height: 1.3; margin-bottom: 0.4rem; }
@@ -200,21 +237,26 @@ figcaption { font-size: 0.82rem; color: var(--accent); margin-top: 0.5rem; line-
 .article-list__excerpt { font-size: 0.9rem; color: var(--ink-light); line-height: 1.6; margin-top: 0.3rem; }
 .article-list__tags { margin-top: 0.5rem; font-family: var(--mono); font-size: 0.67rem; text-transform: uppercase; letter-spacing: 0.07em; color: var(--ink-faint); }
 
-/* ── ARTICLE PAGE ── */
-.article-header { padding: 3rem 0 2rem; border-bottom: 1px solid var(--rule); margin-bottom: 2.5rem; }
-.article-header__kicker { font-family: var(--mono); font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.1em; color: var(--accent); margin-bottom: 0.75rem; }
-.article-header__title { font-size: clamp(1.8rem, 4vw, 2.6rem); line-height: 1.15; margin-bottom: 0.75rem; }
-.article-header__subtitle { font-size: 1.1rem; font-weight: 300; font-style: italic; color: var(--ink-light); margin-bottom: 1.25rem; font-family: var(--serif); }
+/* ── ARTICLE PAGE ──
+   The title block was 3rem of padding above, 2rem below and a 2.5rem margin
+   after that — some 200px before a word of the article, on top of the header.
+   Trimmed to 1.25/1/1.25, which is where the fold budget is won. */
+.article-header { padding: 1.25rem 0 1rem; border-bottom: 1px solid var(--rule); margin-bottom: 1.25rem; }
+.article-header__kicker { font-family: var(--mono); font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.1em; color: var(--accent); margin-bottom: 0.5rem; }
+.article-header__title { font-size: clamp(1.6rem, 3vw, 2rem); line-height: 1.15; margin-bottom: 0.5rem; }
+/* Pinned, every property stated. Never weight 300: the Lato 300-italic web font
+   is the flakiest face in the set, and when it fails to load the browser
+   synthesises an oblique from the regular — which reads as the subtitle having
+   silently changed typeface (documentation/house-style-review-2026-08-24.md §1). */
+.article-header__subtitle { font-family: var(--serif); font-size: 1.05rem; font-weight: 400; font-style: italic; line-height: 1.45; color: var(--ink-light); margin-bottom: 0.75rem; }
 .article-header__byline { font-size: 0.8rem; color: var(--ink-faint); font-family: var(--mono); }
 .article-body { max-width: var(--col-content); }
-.article-body h2 { font-size: 1.45rem; }
-.article-body h3 { font-size: 1.1rem; font-family: var(--serif); font-weight: 600; }
 
-.article-body table { border-collapse: collapse; width: 100%; margin: 1.5rem 0; font-size: 0.88rem; }
+.article-body table { border-collapse: collapse; width: 100%; margin: 1.25rem 0; font-size: 0.88rem; }
 .article-body table th, .article-body table td { border: 1px solid var(--rule); padding: 0.5rem 0.75rem; text-align: left; vertical-align: top; }
 .article-body table th { font-family: var(--mono); font-size: 0.72rem; font-weight: 500; text-transform: uppercase; letter-spacing: 0.07em; color: var(--ink-faint); background: var(--paper-warm); }
 .article-body table tbody tr:hover { background: var(--paper-warm); }
-.data-table-wrap { margin: 2rem 0; border: 1px solid var(--rule); border-radius: 3px; background: white; }
+.data-table-wrap { margin: 1.5rem 0; border: 1px solid var(--rule); border-radius: 3px; background: white; }
 
 .data-table-controls { padding: 0.75rem 1rem; border-bottom: 1px solid var(--rule); display: flex; gap: 0.75rem; flex-wrap: wrap; align-items: center; background: var(--paper-warm); }
 .data-table-controls input[type="search"], .data-table-controls select { font-family: var(--serif); font-size: 0.8rem; padding: 0.35rem 0.7rem; border: 1px solid var(--rule); border-radius: 2px; background: white; color: var(--ink); outline: none; }
@@ -247,7 +289,7 @@ table.data-table td.mono { font-family: var(--mono); font-size: 0.72rem; color: 
 .badge--grey   { color: var(--ink-faint); border-color: var(--rule); background: var(--paper-warm); }
 
 /* ── CV PAGE ── */
-.cv-section { padding: 2rem 0; border-bottom: 1px solid var(--rule); }
+.cv-section { padding: 1.5rem 0; border-bottom: 1px solid var(--rule); }
 .cv-section:last-child { border-bottom: none; }
 .cv-section__label { font-family: var(--mono); font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.1em; color: var(--accent); margin-bottom: 1.25rem; }
 .cv-job { margin-bottom: 1.75rem; }
@@ -259,10 +301,10 @@ table.data-table td.mono { font-family: var(--mono); font-size: 0.72rem; color: 
 .cv-job__desc ul { margin: 0.5rem 0 0; }
 
 /* ── ABOUT PAGE ── */
-.about-intro { display: grid; grid-template-columns: 1fr 200px; gap: 3rem; padding: 3rem 0; border-bottom: 1px solid var(--rule); }
+.about-intro { display: grid; grid-template-columns: 1fr 200px; gap: 3rem; padding: 1.75rem 0; border-bottom: 1px solid var(--rule); }
 
 /* ── WIP PAGE ── */
-.wip-item-card { padding: 1.75rem 0; border-bottom: 1px solid var(--rule); }
+.wip-item-card { padding: 1rem 0; border-bottom: 1px solid var(--rule); }
 .wip-item-card__status { display: inline-block; font-family: var(--mono); font-size: 0.65rem; text-transform: uppercase; letter-spacing: 0.08em; padding: 0.2rem 0.6rem; border-radius: 2px; margin-bottom: 0.6rem; }
 .wip-item-card__status--active { background: #edf7ef; color: #2a6b3a; border: 1px solid #a8d5b0; }
 .wip-item-card__status--planned { background: var(--paper-warm); color: var(--ink-faint); border: 1px solid var(--rule); }
@@ -271,14 +313,14 @@ table.data-table td.mono { font-family: var(--mono); font-size: 0.72rem; color: 
 .wip-item-card h3 a:hover { color: var(--accent); }
 
 /* ── CONTACT ── */
-.services-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1.5rem; margin: 2rem 0; }
+.services-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1.5rem; margin: 1.5rem 0; }
 .service-card { padding: 1.25rem; border: 1px solid var(--rule); border-radius: 3px; }
 .service-card__icon { font-family: var(--mono); font-size: 0.65rem; text-transform: uppercase; letter-spacing: 0.1em; color: var(--accent); margin-bottom: 0.6rem; }
 .service-card h3 { font-size: 1rem; margin: 0 0 0.5rem; }
 .service-card p { font-size: 0.88rem; color: var(--ink-light); margin: 0; line-height: 1.55; }
 
 /* ── FOOTER ── */
-.site-footer { border-top: 1px solid var(--rule); margin-top: auto; padding: 2.5rem 0; }
+.site-footer { border-top: 1px solid var(--rule); margin-top: auto; padding: 1.5rem 0; }
 .site-footer__inner { max-width: var(--col-wide); margin: 0 auto; padding: 0 1.5rem; display: flex; justify-content: space-between; align-items: flex-end; flex-wrap: wrap; gap: 1rem; }
 .site-footer__copy { font-size: 0.78rem; color: var(--ink-faint); font-family: var(--mono); }
 .site-footer__links { display: flex; gap: 1.5rem; }
@@ -286,10 +328,10 @@ table.data-table td.mono { font-family: var(--mono); font-size: 0.72rem; color: 
 .site-footer__links a:hover { color: var(--accent); }
 
 /* ── HOMEPAGE GRID ── */
-.home-grid { max-width: var(--col-wide); margin: 0 auto; padding: 0 1.5rem 4rem; display: grid; grid-template-columns: 1fr 280px; gap: 4rem; align-items: start; }
-@media (max-width: 800px) { .home-grid { grid-template-columns: 1fr; gap: 2rem; } }
+.home-grid { max-width: var(--col-wide); margin: 0 auto; padding: 1.25rem 1.5rem 1.75rem; display: grid; grid-template-columns: 1fr 280px; gap: 4rem; align-items: start; }
+@media (max-width: 800px) { .home-grid { grid-template-columns: 1fr; gap: 1.75rem; } }
 
-.sidebar-block { padding-bottom: 2rem; margin-bottom: 2rem; border-bottom: 1px solid var(--rule); }
+.sidebar-block { padding-bottom: 1.25rem; margin-bottom: 1.25rem; border-bottom: 1px solid var(--rule); }
 .sidebar-block:last-child { border-bottom: none; }
 .sidebar-block__label { font-family: var(--mono); font-size: 0.67rem; text-transform: uppercase; letter-spacing: 0.1em; color: var(--ink-faint); margin-bottom: 0.75rem; }
 .sidebar-block p, .sidebar-block li { font-size: 0.85rem; line-height: 1.55; color: var(--ink-light); }
@@ -308,7 +350,6 @@ table.data-table td.mono { font-family: var(--mono); font-size: 0.72rem; color: 
 /* ── RESPONSIVE ── */
 @media (max-width: 640px) {
   html { font-size: 16px; }
-  h1 { font-size: 1.9rem; }
   .about-intro { grid-template-columns: 1fr; }
   .data-table-controls input[type="search"] { min-width: 160px; }
 }

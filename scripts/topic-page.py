@@ -30,6 +30,7 @@ from pathlib import Path
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import editions  # noqa: E402  — §9's filename grammar has one implementation
 import vault_lib  # noqa: E402
+from chrome_lib import chrome, foot, styles  # noqa: E402
 from copy_lib import copy_inline  # noqa: E402
 
 CORPUS = Path(__file__).resolve().parent.parent
@@ -127,32 +128,13 @@ def document_rows(slug_path: str) -> str:
     return "\n".join(rows)
 
 
-CHROME = """  <header class="site-header">
-    <div class="site-header__inner">
-      <a href="{main_site}/" class="site-logo">
-        <img src="../../assets/logo.png" alt="Data Landscapers" class="site-logo__img">
-        <span class="site-logo__text">Data Landscapers
-          <span class="site-logo__sub">Mapping Africa&rsquo;s data landscape</span>
-        </span>
-      </a>
-      <nav class="site-nav" aria-label="Main">
-        <a href="{base}/">Home</a>
-        <a href="{base}/bulletin/">Bulletin</a>
-        <a href="{base}/#countries">Countries</a>
-        <a href="{base}/#topics">Topics</a>
-        <a href="{base}/catalogue/">Catalogue</a>
-        <a href="{base}/finance/">Finance</a>
-      </nav>
-    </div>
-  </header>"""
-
-FOOT = """  <footer class="site-footer">
-    <div class="site-footer__inner">
-      <p>Data Landscapers &middot; {year} &middot; <a href="{main_site}/">{main_site}</a></p>
-      <p>Reports are compiled from the Data Landscapers source base. Metadata only; source bodies
-         are never republished.</p>
-    </div>
-  </footer>"""
+# The header and footer this file used to carry were deleted on 2026-08-24 and
+# come from `chrome_lib` now. They were a fourth variant of the site chrome: no
+# main-site row at all, a nav offering Home but neither Regions nor Method, and
+# a footer in prose where every other page carries the licence line. That is
+# exactly what `chrome_lib`'s own header note predicted would happen to a copy
+# nothing compares against — see documentation/house-style-review-2026-08-24.md
+# §2. Nothing about the chrome belongs in this file.
 
 PAGE = """<!DOCTYPE html>
 <html lang="en">
@@ -162,9 +144,7 @@ PAGE = """<!DOCTYPE html>
 <title>{title} — Data Landscapers</title>
 <meta name="description" content="{description}">
 <link rel="canonical" href="{base}/topics/{path}/">
-<link rel="stylesheet" href="../../assets/css/main.css">
-<link rel="stylesheet" href="../../assets/css/home.css">
-<link rel="stylesheet" href="../../assets/css/country.css">
+{styles}
 <link rel="icon" href="{favicon}" type="image/svg+xml">
 <meta property="og:title" content="{title} — Data Landscapers">
 <meta property="og:description" content="{description}">
@@ -228,8 +208,9 @@ def write(path: str, title: str, description: str, crumb: str, meta: str, body: 
         base=SITE_BASE, path=path, title=e(title), description=e(description),
         crumb=crumb, meta=meta, body=body,
         favicon=f"{MAIN_SITE}/assets/favicon.svg",
-        chrome=CHROME.format(base=SITE_BASE, main_site=MAIN_SITE),
-        foot=FOOT.format(main_site=MAIN_SITE, year=date.today().year),
+        styles=styles(2, "home.css", "country.css"),
+        chrome=chrome("topics", depth=2),
+        foot=foot(depth=2),
     ), encoding="utf-8")
     return dst
 

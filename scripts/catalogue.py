@@ -27,7 +27,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from copy_lib import copy  # noqa: E402
 import taxonomy_lib  # noqa: E402
-from chrome_lib import chrome, foot  # noqa: E402
+from chrome_lib import chrome, foot, styles  # noqa: E402
 
 CORPUS = Path(__file__).resolve().parent.parent
 OUTPUTS = CORPUS / "outputs"
@@ -954,8 +954,7 @@ PAGE = """<!DOCTYPE html>
 <title>Catalogue — Data Landscapers</title>
 <meta name="description" content="The Data Landscapers catalogue: every source held in the base, metadata only, each record linking to its publisher.">
 <link rel="icon" href="{favicon}">
-<link rel="stylesheet" href="../assets/css/main.css">
-<link rel="stylesheet" href="../assets/css/home.css">
+{styles}
 <style>{style}</style>
 </head>
 <body>
@@ -1024,6 +1023,7 @@ def main() -> int:
     # the page. `{ver}` is substituted here rather than through `PAGE.format`, because
     # SCRIPT is JavaScript and full of braces `format` would try to read.
     html = PAGE.format(favicon=f"{MAIN_SITE}/assets/favicon.svg",
+                       styles=styles(1, "home.css"),
                        style=STYLE, chrome=CHROME, body=BODY, foot=FOOT,
                        script=SCRIPT.replace("{ver}", stamp(data_js)))
     (out_dir / "index.html").write_text(html, encoding="utf-8")

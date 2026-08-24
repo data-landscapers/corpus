@@ -54,14 +54,64 @@ def assets(depth: int) -> str:
     return "../" * depth + "assets"
 
 
-def chrome(active: str | None = None, depth: int = 1) -> str:
+def styles(depth: int = 1, *extra: str, base: str | None = None,
+           version=None) -> str:
+    """The stylesheet links, in load order, for a page `depth` below `site/`.
+
+    `main.css` is a byte-identical copy of the website's and carries the whole
+    house style; `corpus.css` follows it with the handful of rules only this
+    site needs. **The order is the contract** — corpus.css overrides main.css
+    (the sticky header, for one) and does nothing if it loads first.
+
+    Pass any page-type sheet as `extra`: `styles(2, "report.css")`. Those come
+    last and hold layout for that page type only, never identity
+    (documentation/house-style.md → Where style lives).
+
+    This exists for the same reason `chrome()` does. The link tags were written
+    out in six builders, and when `corpus.css` was split out of `main.css` on
+    2026-08-24 every one of them needed the same second line — which is exactly
+    the edit that gets made in five places and missed in the sixth.
+
+    `base` replaces the computed relative prefix outright, for the one caller
+    that cannot use one: `render.py` cuts each document twice, and the PDF pass
+    hands WeasyPrint `file://` URIs because a relative href has nothing to be
+    relative to.
+
+    `version` is a callable taking a sheet's filename and returning the suffix
+    to hang off its href — `render.py`'s `?v=` cache-buster. It is a hook rather
+    than a rule because the buster is only wanted on the served copies: the PDF
+    pass reads the same files off disk, where a query string is part of the
+    filename and the fetch simply fails."""
+    root = base if base is not None else assets(depth)
+    sheets = ["main.css", "corpus.css", *extra]
+    return "\n".join(
+        f'<link rel="stylesheet" href="{root}/css/{s}{version(s) if version else ""}">'
+        for s in sheets)
+
+
+def chrome(active: str | None = None, depth: int = 1, *,
+           base: str | None = None, screen_only: bool = False) -> str:
     """The masthead and the Corpus nav, ready to drop into a page template.
 
     **Bulletin is an ordinary nav item now** *(Bill, 2026-08-21)*. It used to be added on the
     home page alone, behind a `bulletin=True` flag, because it linked `/#bulletin` — an anchor
     that exists on no other page. It is a page of its own at `/bulletin/` now, so it belongs in
-    the same list as everything else and reaches every page in the site."""
+    the same list as everything else and reaches every page in the site.
+
+    `base` overrides the relative path to `assets/`, as in `styles()`, for the
+    PDF pass. `screen_only` adds the class that `report.css` hides in print: a
+    rendered document carries its own `.print-masthead` on page one instead,
+    because a sticky screen header does not survive pagination.
+
+    **`render.py` came onto this on 2026-08-24** *(house-style-review §2)*. It
+    had grown a chrome of its own — no main-site row, a logo pointing at the
+    corpus home rather than the website, and three links to pages that do not
+    exist (`/data/`, `/regions/`, `/countries/`, all 404 on every bulletin and
+    every report since they were written). Two copies of a nav is one nav and
+    one liability; the liability was the one nobody was reading."""
     a = (active or "").strip().lower()
+    hdr = " screen-only" if screen_only else ""
+    root = base if base is not None else assets(depth)
 
     main_links = "\n".join(
         f'        <a href="{MAIN_SITE}/{p}/">{p.capitalize()}</a>' for p in _MAIN_NAV)
@@ -72,10 +122,10 @@ def chrome(active: str | None = None, depth: int = 1) -> str:
         % (href, ' class="active"' if label.lower() == a else "", label)
         for label, href in items)
 
-    return f"""  <header class="site-header">
+    return f"""  <header class="site-header{hdr}">
     <div class="site-header__inner">
       <a href="{MAIN_SITE}/" class="site-logo">
-        <img src="{assets(depth)}/logo.png" alt="Data Landscapers" class="site-logo__img">
+        <img src="{root}/logo.png" alt="Data Landscapers" class="site-logo__img">
         <span class="site-logo__text">Data Landscapers
           <span class="site-logo__sub">Mapping Africa&rsquo;s data landscape</span>
         </span>
@@ -87,7 +137,7 @@ def chrome(active: str | None = None, depth: int = 1) -> str:
     </div>
   </header>
 
-  <nav class="corpus-nav" aria-label="Corpus navigation">
+  <nav class="corpus-nav{hdr}" aria-label="Corpus navigation">
     <div class="corpus-nav__inner">
 {corpus_links}
     </div>

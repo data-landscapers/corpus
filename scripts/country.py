@@ -61,7 +61,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from copy_lib import copy_inline  # noqa: E402
-from chrome_lib import chrome, foot  # noqa: E402
+from chrome_lib import chrome, foot, styles  # noqa: E402
 import editions  # noqa: E402  — §9's filename grammar has one implementation
 
 CORPUS = Path(__file__).resolve().parent.parent
@@ -394,9 +394,7 @@ COUNTRY = """<!DOCTYPE html>
 <title>{name} — Data Landscapers</title>
 <meta name="description" content="{name}: digital transformation and data governance. Reports, sources and non-state finance, from the Data Landscapers base.">
 <link rel="canonical" href="{base}/countries/{iso}/">
-<link rel="stylesheet" href="../../assets/css/main.css">
-<link rel="stylesheet" href="../../assets/css/home.css">
-<link rel="stylesheet" href="../../assets/css/country.css">
+{styles}
 <link rel="icon" href="{favicon}" type="image/svg+xml">
 <meta property="og:title" content="{name} — Data Landscapers">
 <meta property="og:description" content="{name}: digital transformation and data governance, from the Data Landscapers base.">
@@ -482,10 +480,7 @@ FINANCE = """<!DOCTYPE html>
 <title>{name} — non-state finance — Data Landscapers</title>
 <meta name="description" content="Every non-state commitment to {name}'s digital sector held in the Data Landscapers base, all fields, searchable and downloadable.">
 <link rel="canonical" href="{base}/countries/{iso}/finance.html">
-<link rel="stylesheet" href="../../assets/css/main.css">
-<link rel="stylesheet" href="../../assets/css/home.css">
-<link rel="stylesheet" href="../../assets/css/country.css">
-<link rel="stylesheet" href="../../assets/css/datatable.css">
+{styles}
 <link rel="icon" href="{favicon}" type="image/svg+xml">
 </head>
 <body>
@@ -604,6 +599,7 @@ def build(iso: str) -> list[Path]:
         publishers=", ".join(f"<span>{e(p)} ({c})</span>" for p, c in pubs),
         reports=report_rows(report_editions(iso), iso),
         finance_section=finance_section,
+        styles=styles(2, "home.css", "country.css"),
         **common), encoding="utf-8")
 
     written = [out_dir / "index.html"]
@@ -612,6 +608,7 @@ def build(iso: str) -> list[Path]:
         (out_dir / "finance.html").write_text(FINANCE.format(
             fin_total=f"{sum(amounts):,.0f}",
             y0=(min(ys) if ys else "&mdash;"), y1=(max(ys) if ys else "&mdash;"),
+            styles=styles(2, "home.css", "country.css", "datatable.css"),
             **csv_names, **common), encoding="utf-8")
         written.append(out_dir / "finance.html")
         written.append(out_dir / csv_names["csv_name"])

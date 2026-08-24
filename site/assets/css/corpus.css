@@ -1,0 +1,50 @@
+/* corpus.css — what every Corpus page needs and the website does not have.
+ *
+ * Loaded after `main.css` on every page in this site. It exists so that
+ * `main.css` can be a byte-identical copy of the website's: until 2026-08-24
+ * these rules were spliced into the vendored file at line 155, which meant the
+ * one asset `MAIN-CSS-FROM` was invented to track was the one asset
+ * `scripts/lint-shared-assets.py` could not compare. A copy nothing checks is
+ * not sharing; it is two files that used to agree. With the block moved out,
+ * the lint now covers main.css too.
+ *
+ * The bar for a rule living here rather than upstream: it must be something a
+ * Corpus page needs and no page on data-landscapers.io ever would. `.corpus-nav`
+ * and `.stat-bar` pass. `.section-heading` did not — it is a general device, it
+ * went up to `main.css` on 2026-08-24, and both sites now draw on it.
+ *
+ * Identity — palette, faces, type scale, boundaries — comes from `main.css` and
+ * is never restated here (documentation/house-style.md → Where style lives).
+ */
+
+/* ── CORPUS NAV ──
+ * The internal menu, below the site header on every corpus page.
+ *
+ * **It is the only sticky element on a Corpus page** *(2026-08-24)*. It used to
+ * stick at `top: 88px`, under a header that stuck too, so 128px of every
+ * viewport at every scroll position was chrome — on documents (a status report,
+ * a bulletin) that are mostly scrolling. The header now scrolls away and this
+ * stays, which keeps the affordance that matters on a long page and costs 36px
+ * instead. `main.css`'s `.site-header` rule is overridden below rather than
+ * changed upstream, because on the website — short pages, no second row — a
+ * sticky header is worth its height.
+ */
+.site-header { position: static; }
+
+.corpus-nav { border-bottom: 1px solid var(--rule); background: var(--paper-warm); position: sticky; top: 0; z-index: 99; }
+/* Right-aligned so the internal menu lines up under the main site nav, which
+ * sits on the right of the header (Bill, 2026-08-13, item 1). */
+.corpus-nav__inner { max-width: var(--col-wide); margin: 0 auto; padding: 0.45rem 1.5rem; display: flex; gap: 1.75rem; flex-wrap: wrap; justify-content: flex-end; }
+/* Grey, taking the accent only on hover and when active. Terracotta all the
+ * time marks a page's own contents — `.article-toc` in main.css; grey marks the
+ * site's chrome. Same voice, two jobs. */
+.corpus-nav a { font-family: var(--mono); font-size: 0.72rem; font-weight: 500; text-transform: uppercase; letter-spacing: 0.08em; color: var(--ink-light); border: none; }
+.corpus-nav a:hover, .corpus-nav a.active { color: var(--accent); border: none; }
+
+/* ── HIGHLIGHTED STAT LINE — total/this-year style figures, or a page's own
+   headline counts, in one row. Used on the home page and on country pages. ── */
+.stat-bar { background: color-mix(in srgb, var(--accent) 10%, var(--paper)); border-bottom: 1px solid var(--rule); }
+.stat-bar__inner { max-width: var(--col-wide); margin: 0 auto; padding: 0.7rem 1.5rem; display: flex; flex-wrap: wrap; align-items: baseline; gap: 0.35rem 2rem; }
+.stat-bar__label { font-family: var(--mono); font-size: 0.68rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--ink-faint); }
+.stat-bar__item { font-family: var(--serif); font-size: 0.85rem; color: var(--ink-light); }
+.stat-bar__item strong { font-family: var(--display); font-size: 1rem; font-weight: 700; color: var(--accent-dk); margin-left: 0.3rem; }

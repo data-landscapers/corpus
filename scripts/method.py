@@ -26,7 +26,7 @@ from datetime import date
 from pathlib import Path
 
 import markdown
-from chrome_lib import chrome, foot  # noqa: E402
+from chrome_lib import chrome, foot, styles  # noqa: E402
 
 CORPUS = Path(__file__).resolve().parent.parent
 CONTENT = CORPUS / "content" / "method.md"
@@ -47,9 +47,7 @@ PAGE = """<!DOCTYPE html>
 <title>Method — Data Landscapers</title>
 <meta name="description" content="How the Data Landscapers corpus is built: what becomes a source, how it is classified, how figures are dated, and what the base does not claim.">
 <link rel="canonical" href="{base}/method/">
-<link rel="stylesheet" href="../assets/css/main.css">
-<link rel="stylesheet" href="../assets/css/home.css">
-<link rel="stylesheet" href="../assets/css/country.css">
+{styles}
 <link rel="icon" href="{main}/assets/favicon.svg" type="image/svg+xml">
 </head>
 <body>
@@ -95,6 +93,7 @@ def main() -> int:
     OUT.mkdir(parents=True, exist_ok=True)
     (OUT / "index.html").write_text(PAGE.format(
         base=SITE_BASE, main=MAIN_SITE, chrome=CHROME, foot=FOOT,
+        styles=styles(1, "home.css", "country.css"),
         body="\n".join("      " + ln if ln.strip() else ln for ln in body.splitlines()),
         built=date.today().isoformat(),
     ), encoding="utf-8")

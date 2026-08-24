@@ -31,6 +31,7 @@ from pathlib import Path
 import markdown
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
+from chrome_lib import chrome, foot, styles  # noqa: E402
 from copy_lib import copy  # noqa: E402
 
 # The edition grammar and the same-day suffix live in `editions.py`, because `country.py`,
@@ -352,8 +353,7 @@ TEMPLATE = """<!DOCTYPE html>
 <title>{title} — Data Landscapers</title>
 <meta name="description" content="{description}">
 <link rel="canonical" href="{permalink_html}">
-<link rel="stylesheet" href="{main_css}">
-<link rel="stylesheet" href="{report_css}">
+{styles}
 <link rel="icon" href="{favicon}" type="image/svg+xml">
 <meta property="og:title" content="{title}">
 <meta property="og:description" content="{description}">
@@ -365,26 +365,7 @@ TEMPLATE = """<!DOCTYPE html>
 <body>
 <div class="site-wrap">
 
-  <header class="site-header screen-only">
-    <div class="site-header__inner">
-      <a href="{site_base}/" class="site-logo">
-        <img src="{logo}" alt="Data Landscapers" class="site-logo__img">
-        <span class="site-logo__text">
-          Data Landscapers
-          <span class="site-logo__sub">Mapping Africa&rsquo;s data landscape</span>
-        </span>
-      </a>
-      <nav class="site-nav" aria-label="Main navigation">
-        <a href="{site_base}/bulletin/">Bulletin</a>
-        <a href="{site_base}/countries/" class="active">Countries</a>
-        <a href="{site_base}/regions/">Regions</a>
-        <a href="{site_base}/topics/">Topics</a>
-        <a href="{site_base}/catalogue/">Catalogue</a>
-        <a href="{site_base}/data/">Data</a>
-        <a href="{site_base}/method/">Method</a>
-      </nav>
-    </div>
-  </header>
+{chrome}
 
   <div class="running-header">{current_url}</div>
 
@@ -423,18 +404,7 @@ TEMPLATE = """<!DOCTYPE html>
   </article>
   </main>
 
-  <footer class="site-footer screen-only">
-    <div class="site-footer__inner">
-      <p class="site-footer__copy">
-        <a href="{licence_url}" style="color:inherit;border-bottom:none;">{licence}</a>
-        {year} {org} &nbsp;·&nbsp; {company}
-      </p>
-      <div class="site-footer__links">
-        <a href="{main_site}/">data-landscapers.io</a>
-        <a href="{site_base}/method/">Method</a>
-      </div>
-    </div>
-  </footer>
+{foot}
 
 </div>
 {page_script}
@@ -592,11 +562,27 @@ def build_document(md_path: Path, edition: str | None, absolute: bool,
     # edit, so the header takes a modifier class and `report.css` turns the border off for it.
     header_mod = " article-header--bulletin" if kind == "bulletin" else ""
 
+    # Which nav item lights up. A bulletin is its own item; a country or region report
+    # belongs under Countries, and everything else under no item at all rather than a
+    # wrong one — `chrome()` matches this against its labels and marks nothing if it
+    # does not recognise it.
+    nav_active = "bulletin" if kind == "bulletin" else "countries"
+
+    # The stylesheet set and the site chrome both come from `chrome_lib` — the same
+    # `main.css` + `corpus.css` + page-type sheet every other page loads, and the same
+    # header, nav and footer. This file used to build its own of each, which is how the
+    # bulletin and every report came to carry a nav with no main-site row and three links
+    # to pages that do not exist (documentation/house-style-review-2026-08-24.md §2).
+    #
+    # `base` is passed rather than a depth because this is the one builder that emits a
+    # document twice: once for the web at a relative path, once for WeasyPrint at `file://`,
+    # which has no notion of relative. `screen_only` marks the chrome that `report.css`
+    # hides in print, where `.print-masthead` stands in for it on page one.
     css_dir = SITE / "assets" / "css"
     if absolute:
-        main_css = (css_dir / "main.css").as_uri()
-        report_css = (css_dir / "report.css").as_uri()
+        sheets = styles(0, "report.css", base=css_dir.parent.as_uri())
         logo = (BUILD / "assets" / "logo.png").as_uri()
+        page_chrome = chrome(nav_active, base=(BUILD / "assets").as_uri(), screen_only=True)
     else:
         # **How far up `assets/` is, counted from the directory the page lands in** — not the
         # constant `../../` this held until 2026-08-21. That constant was right for the only two
@@ -607,9 +593,10 @@ def build_document(md_path: Path, edition: str | None, absolute: bool,
         # a page, and `--no-pdf` meant no PDF was cut where the breakage would have been obvious.
         up = "../" * len(rel.split("/"))
         # `?v=` on the stylesheets and the script, never on the PDF's `file://` URIs above.
-        main_css = f"{up}assets/css/main.css{asset_version(css_dir / 'main.css')}"
-        report_css = f"{up}assets/css/report.css{asset_version(css_dir / 'report.css')}"
+        sheets = styles(0, "report.css", base=f"{up}assets",
+                        version=lambda s: asset_version(css_dir / s))
         logo = f"{up}assets/logo.png"
+        page_chrome = chrome(nav_active, base=f"{up}assets", screen_only=True)
 
     # The bulletin's country filter *(Bill, 2026-08-21)*. An external file rather than an inline
     # block: it is 120 lines, it is one page's behaviour, and inlining would put it in the
@@ -685,7 +672,7 @@ def build_document(md_path: Path, edition: str | None, absolute: bool,
         h1=h1 or title,
         subtitle=subtitle,
         body=html_body,
-        main_css=main_css, report_css=report_css, logo=logo,
+        styles=sheets, chrome=page_chrome, foot=foot(), logo=logo,
         favicon=f"{MAIN_SITE}/assets/favicon.svg",
         edition=edition,
         permalink_html=url_html,

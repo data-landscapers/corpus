@@ -44,9 +44,21 @@ from pathlib import Path
 CORPUS = Path(__file__).resolve().parent.parent
 
 # (marker file in Corpus, Corpus copy, path within the canonical repo)
+#
+# `main.css` joined the list on 2026-08-24 and is the reason the list exists.
+# It could not be checked before: the Corpus-only rules (`.corpus-nav`,
+# `.stat-bar`) were spliced into the vendored file at line 155, so the copy was
+# never meant to match and a byte-comparison would have reported drift on every
+# run. Those rules now live in `site/assets/css/corpus.css`, loaded after
+# main.css on every page, and the vendored file is a straight copy again.
+#
+# **Anything Corpus needs that the website does not goes in `corpus.css`, never
+# into this copy.** Editing the copy is how the two versions diverge, and the
+# lint will then say so without saying which way round.
 SHARED = [
-    ("site/assets/DATATABLE-FROM", "site/assets/js/datatable.js",   "assets/shared/datatable.js"),
-    ("site/assets/DATATABLE-FROM", "site/assets/css/datatable.css", "assets/shared/datatable.css"),
+    ("site/assets/css/MAIN-CSS-FROM", "site/assets/css/main.css",     "assets/css/main.css"),
+    ("site/assets/DATATABLE-FROM",    "site/assets/js/datatable.js",  "assets/shared/datatable.js"),
+    ("site/assets/DATATABLE-FROM",    "site/assets/css/datatable.css", "assets/shared/datatable.css"),
 ]
 
 DEFAULTS = [
