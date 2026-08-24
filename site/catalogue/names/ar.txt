@@ -79,7 +79,6 @@ ARCEP Dans	7237
 ARCEP Deputy Director General Isra Brahim	6752
 ARCEP Executive Secretary Wendlassida Patrice Compaore	6939
 ARCEP I Page	998
-ARCEP Le	998
 ARCEP L’ARCEP	998
 ARCEP Niger	998,8567
 ARCEP ONEP NIGER	5170
@@ -101,9 +100,6 @@ ARCEP. Aussi	998
 ARCEP. Ces	998
 ARCEP. Cette	998,1265,2539
 ARCEP. Elle	4813
-ARCEP. La	983,15,9370
-ARCEP. Le	998
-ARCEP. Les	37
 ARCEP. Leur	5891
 ARCEP. M. Nouhou Aboubacar	5170
 ARCEP. Sans ARCEP	3319
@@ -119,7 +115,6 @@ ARCHITECTURE TAKING SHAPE AfCFTA	9593
 ARCHMAN HOLDINGS LTD Data Processor INST-943095BFF4E	7167
 ARCOD	8733,2,1,150
 ARCOD. Il	8735,1
-ARCOD. Le	8886
 ARCOP	5907,2405,1
 ARCOP. L’objectif	8313
 ARCOP. Pour	8312
@@ -194,7 +189,6 @@ ARPT Guinea The National Communications Authority	3986
 ARPTC	2574,212,3,4,87,6,183,35,554,1023,1049,545,145,1256,135,633,1,78,230,306,764,102
 ARPTait	9731
 ARPU Average Revenue Per User B2B	1818
-ARPU Le	998
 ARPUs	1818
 ARR. Through	9098
 ARRANGEMENT OF ACT PREAMBLE CHAPTER	3714
@@ -202,13 +196,13 @@ ARRANGEMENT OF CLAUSES Clause	7845
 ARRANGEMENT OF REGULATIONS REGULATION Preliminary	5687
 ARRANGEMENT OF REGULATIONS Regulation	22
 ARRANGEMENT OF SECTIONS	2726
-ARRANGEMENT OF SECTIONS PART I	1333
+ARRANGEMENT OF SECTIONS PART	1333
 ARRANGEMENT OF SECTIONS PART I Preliminary	736,236
 ARRANGEMENT OF SECTIONS Preliminary Section	587
-ARRANGEMENT OF SECTIONS SECTION PART I	3887
+ARRANGEMENT OF SECTIONS SECTION PART	3887
 ARRANGEMENT OF SECTIONS Section	1220,657
 ARRANGEMENT OF SECTIONS Section Application	11
-ARRANGEMENT OF SECTIONS Section PART I	783,691,1253
+ARRANGEMENT OF SECTIONS Section PART	783,691,1253
 ARREST AGENDA INTO RESULTS	10581
 ARREST Agenda	4272,10,332,263,1
 ARREST Agenda for Inclusive Development	5244
@@ -247,10 +241,10 @@ ARTF-DGE	2436
 ARTHUR GOLDSTUCK	3318,1707,183
 ARTICLE	2465,1107,675,1941,2702
 ARTICLE ENQUIRY FEEDBACK	6387
+ARTICLES	2400,39,1,1,1,1,139,165,81,292,300,1479,308,258,41,255,18,1345,145
 ARTICLES CONNEXESPLUS DE L'AUTEUR	8797
 ARTICLES CONNEXESPLUS DE L'AUTEUR Mozambique	9620
 ARTICLES FOR A NOT FOR PROFIT	3714
-ARTICLES LES	2400,39,1,1,1,1,139,165,81,292,300,1479,308,258,41,255,18,1345,145
 ARTICLES OF ASSOCIATION	3714
 ARTICLES OF ASSOCIATION Companies	3714
 ARTICLES OF ASSOCIATION FOR A PRIVATE	3714
@@ -642,8 +636,8 @@ Argélia	2816
 Ari Bouzbib	24
 Aria Ventures	1857
 Arial	1988
+Ariana	9596
 Ariana Issaias	10246
-Ariana. Le	9596
 Ariana. Présidée	9596
 Ariary	2929,313,588
 Ariary CBDC	3830
@@ -776,16 +770,14 @@ Arptc	7812
 Arq. Júlio Parruque	10140
 Arqam Yassir Salim of Rehema Wakfu School	9014
 Arquitectura	1701
-Arquivo	2581,1713,460,1037,3650
+Arquivo	2581,1713,460,1037,849,2801
 Arquivo Em	8425
 Arquivo Esse	8122
 Arquivo FC	9159
 Arquivo Luanda	8056
-Arquivo NJ	4203,2079
-Arquivo NJ O	5467
+Arquivo NJ	4203,1264,815
 Arquivo NJ O Grupo Parlamentar da UNITA	7118
 Arquivo Nacional de Identificação Civil	7466,1805
-Arquivo O	6640
 Arquivo Wellington Muzengeza	8850
 Arquivo de Gazettes	2816
 Arranca	6640
@@ -882,6 +874,7 @@ Arthur Mensch	2379
 Arti Dhar	5367
 Articl	10190
 Article	7,3,1,6,8,2,10,76,50,69,1,1,30,38,6,3,108,16,113,21,7,9,150,12,1,2,3,9,23,4,368,29,28,5,12,12,4,25,18,44,1,1,1,244,6,5,5,33,29,83,59,6,11,19,1,1,37,15,22,29,17,25,4,62,26,1,1,1,11,6,49,280,12,1,27,47,3,15,19,42,34,134,14,86,7,99,40,53,3,5,95,60,76,104,29,1,1,71,74,6,75,56,1,23,18,53,52,181,7,105,104,44,40,17,44,3,1,1,1,11,1,119,1,18,8,17,4,59,106,143,16,104,97,29,68,30,2,2,3,74,42,3,74,47,26,10,66,70,32,134,16,66,87,14,21,159,38,49,58,54,33,46,5,17,33,67,1,23,27,299,32,27,3,81,71,19,121,45,9,54,51,5,2,12,2,34,6,6,20,10,102,45,20,52,11,43,24,5,5,66,45,17,95,190,148,20,34,15,48,69,1,1,1,1,23,25,88,1,4,29,39,41,10,25,79,36,29,32,110,13,14,27,162,6,17,8,120,64,37,1,14,78,1,115,1,1,46,12,1,24,1,29,22,1,95,1,2,7,93,2,24,97,21,36,17,2,25,39,172,25,63,5
+Article 12.html	6471
 Article B	37
 Article Cairo University Launches Free Program	5322
 Article DOI	4074
@@ -891,7 +884,7 @@ Article Facebook Twitter Copy Link Print	2264,1669,239,437,166,820,1446
 Article Flipboard Pinterest Tumblr	9925,238
 Article Google Scholar Arora P	9739
 Article Google Scholar Aruku K	9739
-Article Google Scholar Bai Y	9739
+Article Google Scholar Bai	9739
 Article Google Scholar Birhane	9739
 Article Google Scholar Cazzaniga M	9739
 Article Google Scholar Download	9739
@@ -912,12 +905,12 @@ Article Google Scholar Okorafor N	9739
 Article Google Scholar Servant JC	9739
 Article Google Scholar Singh N	9739
 Article Google Scholar Sprengel D	9739
-Article Google Scholar Stephen O	9739
+Article Google Scholar Stephen	9739
 Article Google Scholar Tencer D	9739
 Article Google Scholar Van Niekerk	9739
 Article Google Scholar Veal M	9739
 Article Google Scholar Waterman CA	9739
-Article Google Scholar Wilson E	9739
+Article Google Scholar Wilson	9739
 Article ID	4271
 Article II	1914
 Article III	7845
@@ -952,7 +945,6 @@ Article3	2625
 ArticleHuawei	6559
 ArticleRegulatory Pressure Is Increasing. Many Organisations	6632
 ArticleSouth Africa	6365
-Article_12.html	6471
 Articled Accountant	4896
 Articles	25,2,546,12,133,31,13,137,63,252,33,89,258,88,125,84,105,409,60,46,248,57,97,92,168,541,147,266,259,181,91,16,222,425,166,6,6,409,342,100,262,358,481,97,22,1,69,215,477,5,178,157,194,533,246,15,150,382,56,57,9,56,106,187,28
 Articles Chukwuemeka Fred Agbata	9936
@@ -981,7 +973,7 @@ Articulación	1701
 Articular	1701,2446
 Articulating	3503,2047,3687
 Articulation	1009
-Articulations Le	7919
+Articulations	7919
 Articulo	163
 Articulé	4043
 Artifact Symbol	9124
@@ -1099,12 +1091,10 @@ Artificial Intelligence. Within	1814
 Artificial Intelligence.pdf	2682
 Artificial IntelligenceCloud ComputingCloud	6506
 Artificial IntelligenceDigital	7270
-Artificial Intelligence_	2839
 Artificial Intelligent	1481
 Artificial Neural Networks	2816
 Artificial. Capacidade Institucional	2816
 ArtificialIntelligence	7860,566,934,63
-Artificial_Intelligence	6997
 Artificielle	7403
 Artigo	13,1,1,152,263,119,27,168,8,42,1,457,1,1,1,1,86,747,348,1,252,176,55,685,1,539,1,71,56,145,750,310,983,508
 Artigos	9799
@@ -1177,6 +1167,7 @@ B. Results Monitoring and Evaluation Arrangements	969,295,603,1737,2935
 BANCE C EPICENTRE NIGER ARCEP	998
 BELLAS ARTES CULTUR	4209
 BENJAMIN ARCTON-TETTEY	8368,834
+BO 7204 Ar.pdf	8891
 BRITISH AMERICAN TOBACCO AREA LIMITED Data	7167
 BROAD ACCESS TO ARTIFICIAL INTELLIGENCE APPLICATIONS	7362
 BUNI Art Hub	10728
@@ -1193,7 +1184,7 @@ Barbra Among Arinda	8290
 Bases de Dados Artigo	6970
 Bassirou Diomaye Faye PARTAGEZ CET ARTICLE	2442
 Bay Area	10430
-Bceao PARTAGEZ CET ARTICLE SUR LES	2828
+Bceao PARTAGEZ CET ARTICLE SUR	2828
 Bem A Inteligência Artificial	2816
 Ben Arthur	1032
 Beneficial Ownership of Legal Persons and Legal Arrangements	9750
@@ -1554,7 +1545,7 @@ E CONFIDENCIALIDADE Artigo	15
 E ENS ArticleRCR Season	6998
 E ENS ArticleThird-party Payment Providers	6998
 E INTERESSES DOS USUÁRIOS ARTIGO	3519
-E-Journal of Humanities Arts and Social Sciences_	2093
+E-Journal of Humanities Arts and Social Sciences	2093
 E-Visa. Wasiiru-dowlaha Arrimaha Dibadda Soomaaliya	10059
 E-mail Copy URL Article	1876
 E.A.P.C Archers Child Development Centre Data	7167
@@ -1570,7 +1561,7 @@ EMIRATOS ARABES UNIDOS DUBAI	4209
 ENUMERATION AREA NUMBER	582
 ENVISAGED IN ARTICLE	1333
 EQUIPAMENTOS Artigo	15
-EQUIPARACION Y ARMONIZACION DE SALARIOS DE	4209
+EQUIPARACION Y ARMONIZACION DE SALARIOS	4209
 ERP Article	7346
 ES Artículo	163
 ESTADO DE ARTE DA INTELIGÊNCIA ARTIFICIAL	2816
@@ -1677,7 +1668,7 @@ Exploitants des Services Postaux Article	37
 FADCOM. Artigo	13
 FASO ARZEKA	6827
 FASO ARZEKA. Pour	8633
-FCFA PARTAGEZ CET ARTICLE SUR LES	2439
+FCFA PARTAGEZ CET ARTICLE SUR	2439
 FCFA UNODC Artificial	9616
 FHIR Home Summary Deployment Downloads Artifacts	6666
 FICHIERS ADMINISTRATIFS Article	785
@@ -1747,6 +1738,7 @@ Funding Arrangements	7548
 Funding Arrangements Successful	7548
 Fundo De Inteligência Artificial Alguns	2816
 Future of Artificial Intelligence	4126
+Fxd arbiter	5784,4,162,263
 Fórum Nacional de Inteligência Artificial	7245
 G D P R Article	8436
 G20 International Financial Architecture Working	2626
@@ -1934,7 +1926,7 @@ Institutional Arrangement No Risks No Implementation	2473
 Institutional Arrangement The Ministry of ICT	395
 Institutional Arrangements	1228,8929
 Institutional Arrangements. Responsibility	4653
-Institutional and Implementation Arrangements. The AF	1284
+Institutional and Implementation Arrangements	1284
 Instituto de Inteligencia Artificial	2816
 Instituto de Inteligência Artificial	2816
 Instruments Algeria Algeria ARTS	6938
@@ -1968,7 +1960,6 @@ Inteligência Artificial. Em	2816
 Inteligência Artificial. Estas	3519
 Inteligência Artificial. Este	7342
 Inteligência Artificial. Moçambique	2816
-Inteligência Artificial. O	2816,703,6327
 Inteligência Artificial. Para	2816
 Inteligência Artificial. Por	6895
 Inteligência Artificial. Tecnologia. Disponível	2816
@@ -2056,7 +2047,7 @@ Kigega Article	1214
 Kingdom of Saudi Arabia	8645,1000
 Kitwe Teaching Hospital and Arthur Davison Children	7383,1
 Know Mauritius Privacy E ENS ArticleEU	6632
-Kolda PARTAGEZ CET ARTICLE SUR LES	5779
+Kolda PARTAGEZ CET ARTICLE SUR	5779
 Kpanou Jean Armel	1806
 KwaZulu-Natal's Disease Management Area	2626
 L'Intelligence Artificielle	4065
@@ -2205,6 +2196,7 @@ NCRST Artificial Intelligence Working Group	5036
 NEWS ARTICLE	7972
 NGBWA Arsene Chanel	1814
 NIB Bank and Arifpay	8671
+NIS 2 Directive Article 21.html	6471
 NOMINEE AND TRUST ARRANGEMENTS	4360
 NOUS SUR FACEBOOK Apbinfo Articles Récents	9810
 Nacional. Artigo	6462
@@ -2237,18 +2229,16 @@ National Artificial Intelligence Regulatory Sandbox	3760
 National Artificial Intelligence Research Laboratory	1787,1417,3881
 National Artificial Intelligence Roadmap	6707
 National Artificial Intelligence Strategies	2958
-National Artificial Intelligence Strategy	3133,102,48,321,156,366,402,277,896,83,134,17,396,102,7,143,651,194,109,551,873,69,87,280,25,116,36,413,85,67,18,77,36,30,1
+National Artificial Intelligence Strategy	3133,102,48,321,156,366,402,277,896,83,134,17,396,46,56,7,143,651,194,109,551,873,69,87,280,25,116,36,413,85,67,18,77,36,30,1
 National Artificial Intelligence Strategy. Cooperation	10510
 National Artificial Intelligence Strategy. Malawi	3643
-National Artificial Intelligence Strategy_	6377
 National Artificial Intelligence and Big Data Strategy	6893
 National Artificial Intelligence and Data Platform	3760
 National Artiﬁcial Intelligence Policy	1204
 National Centre for Artificial Intelligence and Robotics	3622,2665,1801,1029,623,393
 National Charter for Artificial Intelligence Ethics	2958
 National Charter of Ethics for Artificial Intelligence	2958
-National Commission for Artificial Intelligence	2420,2997,137,512
-National Commission for Artificial Intelligence_	6377
+National Commission for Artificial Intelligence	2420,2997,137,512,311
 National Cooperative Digital Architecture Platform	9876
 National Council for Artificial Intelligence	6997
 National Council for Artificial Intelligence. Kenya	8088
@@ -2317,7 +2307,7 @@ OPEN DATA POLICY Background Article	170
 OPORTUNIDADES DA INTELIGÊNCIA ARTIFICIAL PARA MOÇAMBIQUE	2816
 ORIENTADORES Artigo	15
 Object Area	1161
-Objective Area I	1161
+Objective Area	1161
 Objective Area IV	1161
 Observatório Nacional de Inteligência Artificial	2816
 Oct-2025 BRIDGE Nigeria Practice Area	3456
@@ -2545,6 +2535,7 @@ Responsible Artificial Intelligence	1814
 Responsible Artificial Intelligence Lab	4126,1101,4193,10
 Responsible Artificial Intelligence Office	5932,2
 Rest of Urban Areas	2775
+Results-Report AR	9022
 Retail Army	7446
 Revised Implementation Arrangements PM MFBPE SETIC	1284
 Rise of Artificial Intelligence	9511
@@ -2732,7 +2723,7 @@ Syrian Arab Republic	6613,4101
 System Information Coverage Area	736
 SÍMBOLOS E COLOCAÇÃO DE SINAIS Artigo	794
 Sénat. Art	436
-Sénégalais PARTAGEZ CET ARTICLE SUR LES	4899
+Sénégalais PARTAGEZ CET ARTICLE SUR	4899
 Sûreté Nationale. ARTICLE	2465
 TACHES ET RESPONSABILITES DETAILLEES A. Architecture	7977
 TALLERES Y TIENDAS ARTESANALES	4209
@@ -2742,7 +2733,7 @@ TECNOLOGIAS DE INFORMAÇÃO E COMUNICAÇÃO. Artigo	15
 TELECOMUNICACIONES Y SISTEMAS DE INTELIGENCIA ARTIFICIAL	4209
 TIC. Artigo	15
 TIENDAS ARTESANALES	4209
-TIENDAS ARTESANALES CAPITALES DE DISTRITALES Y	4209
+TIENDAS ARTESANALES CAPITALES DE DISTRITALES	4209
 TIENDAS ARTESANALES CAPITALES DE PROVINCIAS CAPITALES	4209
 TITRE V DISPOSITIONS FINALES Article	4420
 TRADING ARRANGEMENTS POST-DELISTING Shareholders	4263
@@ -2853,6 +2844,7 @@ Western Area	8820
 Western Area Urban District	8903
 Wide Area Network	1783
 Willard Munyoka and Prof. Armstrong Kadyamatimba	2093
+Windhoek Statement on Artficial Intelligence	2816
 Wireless Local Area Network	3386
 Workshop Participants Focus Areas Output Outcome	6946
 World Artificial Intelligence Conference	7474,383,105,17,229,287,395,502,823,215

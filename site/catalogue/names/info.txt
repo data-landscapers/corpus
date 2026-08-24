@@ -15,7 +15,7 @@ AI Act Single Information	8530
 AI-Related Informational Capabilities	10726
 ALFABIZ INFORMATICS LIMITED Data Processor INST-991165E711B	7167
 ANADEN INFORMATION	743
-ANY OTHER RELEVANT INFORMATION DECLARATION I	2709
+ANY OTHER RELEVANT INFORMATION DECLARATION	2709
 APD. O Gabinete de Tecnologias de Informação	167
 API Security Information	10721
 APPENDED FINANCIAL INFORMATION	4896
@@ -38,7 +38,6 @@ Act. Although the Information Commission	1737
 Acting Chief Technology and Information Officer	10666
 Activos de Informação	2784
 Additional Information	736,6462
-Additional Information I	736
 Additional Information I Certify	736
 Additional Information Regulation M-A Item	7198
 Additional Information and Documents Sought	762
@@ -73,6 +72,7 @@ Airport Management Information Systems	5883
 Ali Omar Abdalla Information and Public Relations	2800
 Alliance KICA Kenya Information and Communications Act	7548
 American Medical Informatics Association	1824,6782
+American Standard Code for Information Interchange	1984
 Anexo I Glossário A Activo de Informação	6970
 Anexo Informativo	1251,1,1,1,1,1,83,1,2,743,1,1,1,2331
 Angola's INFOSI-managed	3555
@@ -90,7 +90,7 @@ Arab Permanent Committee for Communications and Information	8645
 Arab Telecommunications and Information Ministers Council	4865
 Archives and Information Science	8022
 Armed Services Integrated Information System Establishment	246,92
-Aslib Journal of Information Management_	5349
+Aslib Journal of Information Management	5349
 Assistant Commissioner Health and Information Management	3005
 Assistant Commissioner for Health Information	4922
 Association for Information	9128
@@ -146,7 +146,7 @@ Bureau RISA Rwanda Information Society Authority	718
 C. Confidentiality and FOIA Information	5773
 CAI Information	748
 CAN FIND MORE INFORMATION	7198
-CARREIRAS DE TECNOLOGIA DE INFORMAÇÃO E	2816
+CARREIRAS DE TECNOLOGIA DE INFORMAÇÃO	2816
 CATEGORÍA INFORMACIÓN Rótulos	4209
 CENTRE DE TRAITEMENT DE DONNÉES INFORMATIQUES	1005
 CENTRE for Information Technology and Development	9443
@@ -278,6 +278,7 @@ Contract Tracking and Management Information System	7223
 Control Objectives for Information and Related	9237
 Control Objectives for Information and Related Technologies	1009,8228
 Controlled Unclassified Information	6423
+CookieDurationDescriptionDEVICE INFO5	3907
 Cooperation and Information Sharing	5677
 Copyright Information	5665
 Corporate Information	4896
@@ -312,7 +313,7 @@ DECLASSIFICATION DES INFORMATIONS ET DES DOCUMENTS	113
 DEL. REG. INFORMACION	4209
 DEMOGRAPHIC INFORMATION SECTION B	582
 DES INFORMATIONS ET DES DOCUMENTS ADMINISTRATIFS	113
-DHIS District Health Information System DI	2775
+DHIS District Health Information System	2775
 DHIS District Health Information System USAID	766
 DHMIS District Health Management Information NIDS	396
 DPI Info Hub	4120
@@ -449,8 +450,7 @@ Ethiopia's Livestock Information System Digital Public	8183
 Ethiopia. J Health Inform Dev Ctries	1219
 European Conference In Information Systems	1009
 European Handbook of Crowdsourced Geographic Information	2096
-European Journal of Information Systems	9237
-European Journal of Information Systems_	5349
+European Journal of Information Systems	5349,3888
 Eviden Information Technology	3700
 Evidence Based Library and Information Practice	8022
 Excluded Banked Informal	418
@@ -528,6 +528,7 @@ General Information Authority	1229,1624,335,122,516,15,257,394,535,748,145,1239,
 General Information Countries	9892,1
 Geographic Information System	104,685,1803,2773,4284,303
 Geographic Information Systems	1222
+Geographic information system	5785
 Geographical Information System GSMA	958
 Geographical Information Systems	10662
 Gestores de Informação Científica	8000
@@ -552,8 +553,7 @@ Government Assets Management Information System	9492
 Government Communication and Information System	1912,7087
 Government Communications Information Systems	8999
 Government Information Centre	5414,129,2362
-Government Information Quarterly	2096,3604
-Government Information Quarterly_	2093,3256
+Government Information Quarterly	2093,3,3253,351
 Government Information Service	2363,5003
 Government Information Services	8240
 Government Information and Communication Center	5817
@@ -652,8 +652,8 @@ INFO.KE Government Institutions	6671
 INFO.KE Information	6946
 INFO16050419 Ning	8602
 INFOCOM INTERNATIONAL	4802,11
-INFORMAC Y ORGAN. PROTOCOLO Y LA	4209
-INFORMACAO DE	4507
+INFORMAC Y ORGAN. PROTOCOLO	4209
+INFORMACAO	4507
 INFORMACION	4209
 INFORMACIÓN INSPECCION ANUAL	4209
 INFORMACIÓN Rótulos	4209
@@ -661,22 +661,21 @@ INFORMAL MECHANISMS DRIVEN	418
 INFORMAL MECHANISMS DRIVEN BY FINANCIAL INCLUSION	418
 INFORMALLY SERVED	418
 INFORMATIK Systematic	9237
-INFORMATION	958,3165
+INFORMATION	958,3165,2831
 INFORMATION AND COMMUNICATION TECHNOLOGY HELP DESK	34
 INFORMATION CIRCULAR	8590
 INFORMATION COMMISSION	1333,141
 INFORMATION COMMISSION Information Commission	1333
 INFORMATION CONTACT Page	3456
 INFORMATION INTEGRITY	6907
-INFORMATION La	6954
 INFORMATION ON ECONET INFRACO	4896
 INFORMATION SOCIETY DAY	6168
 INFORMATION SUPPLIED. PART VI Data Subject	972
 INFORMATION TECHNOLOGY	9437
 INFORMATION TECHNOLOGY AND E-GOVERNANCE	9437
 INFORMATIONS GÉNÉRALES	2342
-INFORMATIVO_OE_2024_DEFINITIVO.pdf	1251,1,1,1,1
-INFORMAÇÃO SECÇÃO I MEDIDAS GERAIS E	15
+INFORMATIVO OE 2024 DEFINITIVO.pdf	1251,1,1,1,1
+INFORMAÇÃO SECÇÃO I MEDIDAS GERAIS	15
 INFORPRESS	8638,1356
 INFOSI	1192,1381,8,974,411,1988,25,657,45,2718
 INFOSI DG	3966
@@ -747,10 +746,9 @@ Informar	163,4
 Informaticien	7805,314,43,159,2032
 Informatics	1261,835,3496,1344,823,846
 Informatics Authority	4849,743,312
+Informatics Governance	9863
 Informatics Governance Forum	9863
 Informatics&volume	2096
-Informatics_Governance	9863
-Informatics_Governance_Forum	9863
 Informatik	9237
 Informatikai Kft. Consilia ApS AustriaContent Moss	8530
 Information	1,2,9,5,4,1,4,1,1,6,15,161,26,72,120,8,98,13,18,17,5,150,6,5,14,4,3,2,4,8,116,41,18,11,3,28,9,51,17,108,2,27,17,5,25,23,1,1,47,124,97,44,5,35,11,129,23,6,7,2,2,19,40,29,143,44,3,58,170,18,76,33,63,116,5,25,35,14,18,6,42,26,54,37,21,18,20,7,3,162,1,37,23,1,10,110,28,4,3,1,14,1,19,20,24,56,37,71,21,110,1,67,9,70,1,25,80,18,4,26,75,36,44,44,32,9,18,24,28,17,42,1,17,22,65,36,120,108,38,32,58,1,54,81,96,131,3,102,25,6,60,162,15,60,23,33,81,16,3,214,1,77,150,133,15,48,41,81,7,32,106,54,1,78,63,8,4,2,21,18,13,20,61,70,6,26,95,29,39,34,42,17,12,63,34,114,6,6,13,37,35,46,40,41,54,15,38,29,36,72,47,37,58,11,53,12,39,49,24,47,61,34,1,1,1,1,64,170,20,2,1,98,17,89,7,8,41,88,1,9,16,27,23,37,9,9,64,10,93,88,3,53,7,8,71,116,35,2,178,24,8,114,2,54,13,168,79,69,10,46,44,7,4,2,4,3,8
@@ -808,7 +806,6 @@ Information Infrastructure Provider CIM Chartered Institute	6946
 Information Infrastructures	5700
 Information Integrity	1814,6671,1731,513
 Information Integrity and Human Rights	10453
-Information Integrity and Human Rights. I	10453
 Information Interopérable	7718
 Information Intégré	1284
 Information Linden	9128
@@ -837,8 +834,7 @@ Information PMO Provincial Medical Office PMTCT	34
 Information PTA Plan de Travail Annuel PTF	10712
 Information Policière	1315,724,2277
 Information Policy	1818,1171
-Information Polity	2096
-Information Polity_	5349
+Information Polity	2096,3253
 Information Portal Consumer Resource Centres Purpose	5676
 Information Preservation	7724
 Information Privacy and Security Policy	6632
@@ -913,12 +909,10 @@ Information System Master Plan	4284,13
 Information System National Public Health Institute	4153
 Information Systems	34,966,9,239,13,2866,305,917,351,3537,823
 Information Systems Audit and Control Association	9237,1179,13
-Information Systems Journal	226
-Information Systems Journal_	2093
+Information Systems Journal	226,1867
 Information Systems Management	8883,245
 Information Systems Research	5349,351,3537
 Information Systems Research Conference	4432
-Information Systems Research_	5349
 Information Systems Security Agency	2838,1917,515
 Information Systems Success	9129
 Information Systems and Digital Agency	6451,2049
@@ -964,8 +958,7 @@ Information Technology and Innovation	7034,3163,195
 Information Technology and Innovation Foundation	961,282,5966
 Information Technology and Media	4583
 Information Technology and Social Communication	2411
-Information Technology for Development	1248,7881,1597
-Information Technology for Development_	4432
+Information Technology for Development	1248,3184,4697,1597
 Information The Authority	6946
 Information Type Commentary Information Data	7731,552
 Information Type Research Article Information Data	8436
@@ -1041,7 +1034,6 @@ Information-to-Authority Threshold	8283
 Information. Bids	6942
 Information. Comoros	1906
 Information. Dans	6578
-Information. La	1185
 Information. La Côte	2376
 Information. M. Adji Ali Salatou	3337
 Information. Notamment	5103
@@ -1065,7 +1057,7 @@ Informação	13,154,372,37,218,1501,142,1,1081,3451
 Informação Administrativa Consulta Prévia	3079
 Informação Crítica	795
 Informação Financeira C G J Cofre	6530
-Informação Pode Reduzir O Custo Do	8003
+Informação Pode Reduzir O Custo	8003
 Informações	167,2271,1081,2763,2894
 Informações Falsas	9161
 Informações Pessoais	3519
@@ -1117,8 +1109,7 @@ Integrated Personnel and Payroll Information System	7973
 International Health Partnership HISP Health Information	766
 International Institute for Information Technology Bangalore	290
 International Institute of Information Technology Bangalore	1492,14,664,12
-International Journal of Information Management	7759
-International Journal of Information Management_	4432
+International Journal of Information Management	4432,3327
 International Journal of Information and Learning Technology	8602
 International Journal of Medical Informatics	8603
 International Peace Information Service and Danish Institute	3583
@@ -1142,7 +1133,7 @@ Journal of Electrical Systems and Information Technology	9616
 Journal of Global Information Management	5349
 Journal of Health Inform-	8603
 Journal of Health Informatics	2948
-Journal of Healthcare Informatics Research_	2948
+Journal of Healthcare Informatics Research	2948
 Journal of Industrial Information Integration	8605
 Journal of Informatics and Web Engineering	8606
 Journal of Information	8021,1108
@@ -1150,7 +1141,7 @@ Journal of Information Management	8022
 Journal of Information Policy	3782,894
 Journal of Information Security and Applications	8605
 Journal of Information Systems Engineering	2093
-Journal of Information Systems and Digital Technologies_	5349
+Journal of Information Systems and Digital Technologies	5349
 Journal of Information Systems and Dogan	9237
 Journal of Information Technology	2518,3182
 Journal of Information Technology and Innovation Adoption	9129
@@ -1257,7 +1248,7 @@ Mahomed and Minister of Information Technology	10296
 Maintenance Informatique	8678
 Management Information System	899,472,1404,1378
 Management Information System for Social Assistance	1371
-Management Information Systems Quarterly_	2948
+Management Information Systems Quarterly	2948
 Management Office POPIA Protection of Personal Information	5533
 Management of Information Systems	3640
 Manager for Information	10676
@@ -1690,7 +1681,7 @@ Sistemas de Tecnologias de Informação	167
 Situation Awareness and Information Sharing CRM-SAIS.S1	10721
 Social Registry Information System	1687
 Social Registry Information System SRIS	1687
-Social Theory and Philosophy for Information Systems_	5349
+Social Theory and Philosophy for Information Systems	5349
 Sociedad de Información	975
 Sociedad de Información de Guinea Ecuatorial	975
 Sociedade Global da Informação	795

@@ -24,7 +24,9 @@ AFYAPOINT MEDICARE LIMITED Data Controller INST-5133291168B	7167
 AHAVA MEDICAL CENTRE LIMITED Data Controller	7167
 AHLAAM MEDICARE CENTRE Data Controller INST-4456761AF14	7167
 AI Medical Device Safety	3279
+AIA&utm medium	5550
 AL HABIB MEDICAL CLINIC LIMITED Data	7167
+AL KARIM MEDICAL CENTER LIMITED Data Processor	7167
 AL-AIN MEDICAL CENTRE LIMITED Data Controller	7167
 AL-MAARAJ MEDICAL CENTRE LIMITED Data Controller	7167
 AL-MAQDIS MEDICAL CENTRE LIMITED Data Controller	7167
@@ -49,7 +51,6 @@ ALPHA MEDICAL MANUFACTURERS LIMITED Data Controller	7167
 ALPHABLISS HEARTFELT MEDICAL AND MENTAL HEALTH	7167
 ALPHALINK COMMUNITY MEDICAL CENTRE Data Controller	7167
 ALWASI MEDICAL CENTRE Data Controller INST-3696162321A	7167
-AL_KARIM MEDICAL CENTER LIMITED Data Processor	7167
 AMANI PLACE MEDICAL CENTRE Data Controller	7167
 AMCARE MEDICAL LIMITED Data Controller INST-21645821DA9	7167
 AMELSTAR MEDICAL CENTRE Data Controller INST-1220615886B	7167
@@ -130,6 +131,7 @@ Audio and Audiovisual Media Services and Online Safety	3264
 Audio-Visual Services and Media Policy	6152
 Audiovisual and Digital Media Industry Support	5198
 Audiovisual and Digital Media Industry Support and Services	5188
+Aug 2021&utm medium	1363
 Average Deal Volume Median Deal	4972
 B BRAUN MEDICAL KENYA LIMITED Data	7167
 BABY BOMA CHILDREN'S MEDICAL CENTRE LIMITED	7167
@@ -366,7 +368,7 @@ DAWALINE MEDICARE CONSORTIUM LIMITED Data Controller	7167
 DAWALINE MEDICARE CONSORTIUM LIMITED Data Processor	7167
 DE BATA EBEBIYÍN ANTICORRUPCIÓ MEDIO AMBIENTE	4209
 DE LAS MEDIDAS TRIBUTARIAS	4209
-DE LOS GASTOS Y MEDIDAS DE	4209
+DE LOS GASTOS Y MEDIDAS	4209
 DECIDE-AI.Nature Medicine	8301
 DECLANDEN MEDICAL SERVICES LTD Data Controller	7167
 DECLOLA MEDICAL CENTRE Data Processor INST-79671871021	7167
@@ -492,7 +494,7 @@ FUTURISTIC MEDICAL	396
 Facilitate Media and Information Literacy	1814
 Faculty of Medical Sciences	2422
 FairPlanet Media Services	8943
-Family Medicine_	2948
+Family Medicine	2948
 Fate of Media and Free Expression Rights	9661
 Fiscalía Titular de Medio Ambiente	4209
 Forms Licensing and Authorisation Media Centre All	9109
@@ -526,8 +528,9 @@ ICT Media Strategies	3658,2617,145
 ICT Medias Strategies	3658,2617,145
 ICT and Media	1962
 IGAD Media Awards	10451
-INFORMAÇÃO SECÇÃO I MEDIDAS GERAIS E	15
+INFORMAÇÃO SECÇÃO I MEDIDAS GERAIS	15
 IPP Media	2947,6859
+ITEDGENEWS&utm medium	7139
 IV. Sostenibilidad Medioambiental	1701
 Illegal Medicine Promotions	7312
 Implement Media Campaigns	1777
@@ -566,7 +569,7 @@ Jeune Afrique Media Group	7596
 Joint Medical Stores	4217
 Joint Medical Stores. The Government of Uganda	4217
 Journal of Insurance Medicine	8604
-Journal of Medical Internet Research_	2948
+Journal of Medical Internet Research	2948
 Journal of Medicine	8605
 Journalism and Media Studies	1195,1090,9,275,245,528,1632,459,257,114,242,17,39,145,256,323,24,7,186,382,84,16
 Karim Medjani	7717
@@ -609,7 +612,7 @@ MEDICAL CLINIC LTD Data Controller INST-57255188A6C	7167
 MEDICAL CLINIC LTD Data Processor INST-57255188A6C	7167
 MEDICARE LTD Data Processor INST-24904985BE6 WAJIR	7167
 MEDICI	6613
-MEDICINA CRONICAS NO SOCIAL PATRIMONIO DE	4209
+MEDICINA CRONICAS NO SOCIAL PATRIMONIO	4209
 MEDICINA TRAD.- Concepto.-	4209
 MEDIDAS DE GESTIÓN DE PERSONAL CAPÍTULO	4209
 MEDIO AMBIENTE LICENCIA MEDIO ABIENTAL	4209
@@ -832,8 +835,7 @@ Medio Ambiente	1701,2508,3839
 Medio Plazo	1701
 Medioambiental	1701
 Medios	1701
-Medios Audiovisuales	9303
-Medios Audiovisuales. El	9320
+Medios Audiovisuales	9303,17
 Medios Audiovisuales. Esta	9320
 Medios Informativos Nacionales. Dada	163
 Medipool	4301
@@ -1024,7 +1026,7 @@ Registro Sanitario de Medicamentos	4209
 Reimagining Media Viability	8653
 Reporting Guidelines for Medical AI	8301
 Responsible Use of Social Media	10134
-S Afr Med J._	7836
+S Afr Med J	7836
 SAGE Open Med	8376
 SANITAR. PROFESORES MAESTROS ASIMILADOS MEDIOS Importe	4209
 SECRETARIO DE LA FISCALIA DE MEDIO	4209
@@ -1052,8 +1054,7 @@ Significant Social Media Intermediaries	9208
 Simba Media Ghana Limited Government School	3386
 Singapore's Infocomm Media Development Authority	7060
 Sistema Medioambiental	1701
-Sistema Nacional de Medio Ambiente La	1701
-Sistema Nacional de Medio Ambiente. La	1701
+Sistema Nacional de Medio Ambiente	1701
 Sistema Regulatorio Nacional de Medicamentos	4209
 Sistema de Farmacovigilancia Integral de Medicamentos	4209
 Small Media	2377
@@ -1091,8 +1092,7 @@ Sostenibilidad Medioambiental	1701
 South Africa's Media and Digital Platforms Market	9817
 South Africa. BMC Med Inform Decis	766
 South African Medical Association's AI Task	8301
-South African Medical Journal	8301,827
-South African Medical Journal_	2948
+South African Medical Journal	2948,5353,827
 South African Medical Research Council	396
 South Sudan Medical Council	3583
 Southern Malawi. Malawi Med J	3791
@@ -1138,7 +1138,6 @@ Uganda Media Centre UCC	9781
 Uganda Medical Association	4753
 Uganda Medical and Dental Practitioners Council	9784
 Understanding Media	8380
-Understanding Media_	8380
 Univers J Med Sci	1219
 Universal Medical Insurance Fund	1828
 University of Medical Sciences	9427

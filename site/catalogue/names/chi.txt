@@ -105,7 +105,6 @@ Baldwin Chiyamwaka	3349
 Bank of China	125,119,1,1,1,55,1,8,5,1,20,1,1,81,1,130,2,2283,1520,3233,2004,776
 Bank of China Décret N	311
 Bank of China Johannesburg Branch	10618
-Bank of China Le	311
 Bank of China for Phase	244,1,71,1
 Bayport Financial Services Tanzania Chief Credit	8884
 Beaullah Chirume	9886,715
@@ -267,11 +266,12 @@ Chief Consumer Business Officer	7568
 Chief Consumer Business Officer Mr Kolubah	2916
 Chief Data Management and Security Officer de Mauritius	9948
 Chief Data Officer	3861
+Chief Data Officer Manuel	748
 Chief Data Officer11	748
 Chief Data Officers	3861
 Chief Development Officer	6394
+Chief Digital	1204
 Chief Digital Advisor	5378,533
-Chief Digital O	1204
 Chief Digital Office	1953
 Chief Digital Officer of LOTUS Bank	7314,594
 Chief Digital Officers. The Ministry of ICT	5460
@@ -291,8 +291,7 @@ Chief Enterprise Business Officer	3220,6500
 Chief Enterprise Business Officer Angela Mensah-Poku	9840
 Chief Enterprise Business Officer Lynda Saint-Nwafor	3155,31
 Chief Evangelist	6065
-Chief Executive	11,1198,6636,548,140,285
-Chief Executive O	4896
+Chief Executive	11,1198,3687,2949,548,140,285
 Chief Executive Officer	585,2,149,395,202,689,489,176,330,203,318,176,6,41,126,376,94,306,233,435,28,90,89,126,48,405,511,146,164,8,127,22,19,93,18,173,46,108,42,12,8,49,122,10,45,253,49,80,34,152,11,58,150,32,207,72,103,41,20,160,182,510,91,53,52,99,269,52,92
 Chief Executive Officer Antoine Sebera	6388
 Chief Executive Officer CI Continuous Integration	6432
@@ -381,7 +380,7 @@ Chief Executive of SNPT	5407,676
 Chief Executive of Stanbic Bank Ghana	8928
 Chief External Affairs Officer	4993,2438
 Chief Finance Officer and Managing Director of Ultimate	718
-Chief Financial O	4896
+Chief Financial	4896
 Chief Financial Officer	8866,1254
 Chief Financial Officer Fikile Gama	4058
 Chief Financial Officer Signature Mr Thulani	5533
@@ -460,7 +459,7 @@ Chief Strategy Officer	8002
 Chief Strategy Officer Michael Mutiga	7567
 Chief Strategy Officer and Co-founder	5925
 Chief Strategy Officer and Deputy CEO of Cybastion	8244
-Chief Technical O	4896
+Chief Technical	4896
 Chief Technical Officer	4759
 Chief Technology Officer	3652,41,1523,1475,1184,1945
 Chief Technology Officer DC Data Centre	6432
@@ -477,7 +476,6 @@ Chief of Section	4357
 Chief of Staff	1014,236,517,2517,1248,2837,2,740,308
 Chief of UNICEF Lagos Field Office	10704
 Chief-Artificial-Intelligence-Officer-CAIO	6997
-Chief_Data_Officer Manuel	748
 Chiefs	4126
 Chieftaincy	4126
 Chieftaincy and Religious Affairs	1514,2976
@@ -634,7 +632,7 @@ Chimwemwe Mangazi	3933,676,166
 Chimène Anani Dègla	5899
 Chimène Lougbegnon Bossa	6475
 Chin J Int Polit	5242
-China	51,1,8,62,58,3,2,41,10,140,83,16,6,47,33,10,147,73,67,103,9,68,112,93,7,304,147,27,86,12,1,68,198,24,194,24,30,153,31,77,51,98,29,12,20,193,27,141,201,64,49,8,27,37,15,1,93,258,31,60,12,2,71,127,5,1,167,13,8,1,47,19,103,49,8,2,71,7,5,121,27,63,40,19,4,11,78,2,23,92,3,5,5,5,31,5,9,62,76,93,65,2,58,22,2,34,17,22,47,61,9,34,79,6,12,10,6,83,11,83,59,12,35,24,5,24,6,7,25,14,3,1,66,45,14,5,12,12,3,12,2,10,98,69,31,18,17,9,33,1,2,5,18,1,52,2,2,70,78,11,3,14,48,35,11,24,11,80,72,64,3,74,21,142,48,98,3,3,7,92,17,35,12,20,4,76,11,35,93,66,16,16,97,35,15,10,96,22,32,34,36,48,1,101,2,29,7,8,31,3,44,1,3,178,42,12,13,19,2,8,52,35,8,5,7,32,30,132,15,21,3,13,14,108,2,47,35,44,89,10,31,1,12,9,11,10,10,10,26,43,16,28,14,3,24,28,25,55,1,22,57,11,2,1,7,50,26,96,7,2,17,65,13,2
+China	51,1,8,62,58,3,2,35,6,10,140,83,16,6,47,33,10,147,73,67,103,9,68,112,93,7,304,147,27,86,12,1,68,198,24,194,24,30,153,31,77,51,98,29,12,20,193,27,141,201,64,49,8,27,37,15,1,93,258,31,60,12,2,71,127,5,1,167,13,8,1,47,19,103,49,8,2,71,7,5,121,27,63,40,19,4,11,78,2,23,92,3,5,5,5,31,5,9,62,76,93,65,2,58,22,2,34,17,22,47,61,9,34,79,6,12,10,6,83,11,83,59,12,35,24,5,24,6,7,25,14,3,1,66,45,14,5,12,12,3,12,2,10,98,69,31,18,17,9,33,1,2,5,18,1,52,2,2,70,78,11,3,14,48,35,11,24,11,80,72,64,3,74,21,142,48,98,3,3,7,92,17,35,12,20,4,76,11,35,93,66,16,16,97,35,15,10,96,22,32,34,36,48,1,101,2,29,7,8,31,3,44,1,3,178,42,12,13,19,2,8,52,35,8,5,7,32,30,132,15,21,3,13,14,108,2,47,35,44,89,10,31,1,12,9,11,10,10,10,26,43,16,28,14,3,24,28,25,55,1,22,57,11,2,1,7,50,26,96,7,2,17,65,13,2
 China Academy of Information and Communications Technology	7174
 China Aerospace Science and Technology Corporation	9816
 China Builds Underlying Infrastructure	10350
@@ -642,8 +640,7 @@ China Category	8726
 China Chengxin International Credit Rating Co	7785
 China Citic Bank	1430,714
 China Citic Bank Corporation	1430,714
-China Citic Bank Corporation LTD	1430,714
-China Citic Bank Corporation LTD. Le	4356
+China Citic Bank Corporation LTD	1430,714,2212
 China Citic Bank Corporation LTD. Selon	4356
 China Communications Construction Co	35,9531
 China Communications Services Corporation	125
@@ -823,7 +820,6 @@ China. Bulletin	2518
 China. But China	5863
 China. CIPS	8928
 China. China	2518,4064
-China. De	220
 China. European	6582
 China. Given	10527
 China. In Nigeria	1250
@@ -832,7 +828,6 @@ China. International Journal of Communication	2518
 China. Minister of Innovation and Technology Dr Belete	7474
 China. Nonetheless	3554
 China. Novo	9994
-China. O	3519
 China. Overseas	8892
 China. Popular Communication	2518
 China. President Trump	9027
@@ -859,7 +854,7 @@ China’s Alibaba Group	5985
 China’s Ambassador	6541,2851
 China’s Belt and Road Initiative	2518
 China’s CIPS	9593
-China’s Campaign of Repression Against Xinjiang’s Muslims’_	2518
+China’s Campaign of Repression Against Xinjiang’s Muslims	2518
 China’s Competitiveness Myth	2518
 China’s Cross-Border Interbank Payment System	9593,433
 China’s DeepSeek	5364
@@ -1040,7 +1035,7 @@ Chiwoni	7270
 Chiwoni. The Authority	7364
 Chiyamwaka	3349
 Cleopas Kadzimu Chief Finance	4896
-Cleopas Kadzimu Chief Financial O	4896
+Cleopas Kadzimu Chief Financial	4896
 Clo Chief Information Officer MDA Ministries	6936
 Co-Founder and Chief Commercial Officer of Zoyk	6484
 Co-Founder and Chief Executive Officer	8429
@@ -1074,7 +1069,7 @@ DEVISED BY CHINA	561
 DHA Chief Executive Officer Anthony Lenaiyara	10331
 DPO Margaret Chirimumimba	4529
 DSTI Director and Chief Operating Officer	8903
-DU CHIFFRE D'AFFAIRES DES ENTREPRISES DU	2342
+DU CHIFFRE D'AFFAIRES DES ENTREPRISES	2342
 DU CHIFFRE D’AFFAIRES CUMULÉ DES ENTREPRISES	2342
 Dakar Mobilité Chief Executive Officer Cheikh	7324
 Dan Chiwoni	7270
@@ -1627,8 +1622,7 @@ Somalia Most Valuable Chinese Tech Import	10451
 South Africa Industrial and Commercial Bank of China	378
 South Africa and China	9767
 South Africa-China and China-Africa	10441
-South China Morning Post	5364,352,4728,1
-South China Morning Post_	3598
+South China Morning Post	3598,1766,352,4728,1
 South China University of Technology	8376
 South Korea's AI Basic Act and China	8435
 South Sudan Civil Aviation Authority and China	261
@@ -1713,7 +1707,7 @@ United Nations International Children’s Fund	1261
 United States and China	2117,3085,1401,548,580,1438,899
 United States and China. EU	10710
 United States and China. Mario Draghi	9832
-United States and China. Section I	7151
+United States and China. Section	7151
 Unitel Chief Executive Officer Amílcar Safeca	6624
 University of Chicago Press	8380,748,611
 Unpacking the Outcome of China-Africa Cooperation	1554

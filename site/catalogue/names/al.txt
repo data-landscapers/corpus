@@ -104,7 +104,6 @@ ALGEMENE KENNISGEWINGS Agriculture	1009
 ALGER	4184,6504
 ALGERIA DIGITAL BRIEF	8637
 ALGERIA DIGITAL BRIEF CARE	8637
-ALGERIA DIGITAL BRIEF Le	8637
 ALGERIA DIGITAL BRIEF Une	8637
 ALGOINFOSYS LTD Data Controller INST-60281813B0E NAKURU	7167
 ALGOINFOSYS LTD Data Processor INST-60281813B0E NAKURU	7167
@@ -125,7 +124,7 @@ ALICE WAITHERA The Murang'a	6405
 ALICE WAMUYU NJARAMBA Data Processor INST-477164114AB	7167
 ALICE WANJIKU MURIITHI Data Processor INST-1704651E51C	7167
 ALICE WANJIRU NDIENYE Data Processor INST-490037D7A3F	7167
-ALIGUMA MUGISA_ MARIA BYOMA LOUBEGA RAYMOND	9781
+ALIGUMA MUGISA MARIA BYOMA LOUBEGA RAYMOND	9781
 ALIKI MONEY TRANSFER LIMITED Data Controller	7167
 ALIME	4209
 ALIOUNE SALL	2443
@@ -163,7 +162,7 @@ ALLIED INDUSTRIES LIMITED Data Controller INST-914916B0821	7167
 ALLM AFYA SOLUTIONS LTD Data Controller	7167
 ALLM AFYA SOLUTIONS LTD Data Processor	7167
 ALLMED MEDICAL SUPPLIES LIMITED Data Controller	7167
-ALLNEWS&taging_subtype	9399
+ALLNEWS&taging subtype	9399
 ALLORA MEDICAL PRACTICE LLP Data Processor	7167
 ALLOWED	582
 ALLOYKI AUTO LOGISTICS LIMITED Data Processor	7167
@@ -239,8 +238,6 @@ ALUCOV	8737
 ALUMNI CHALLENGE FOUNDATION Data Controller INST-5951070590C	7167
 ALVIN LEE FITNESS LIMITED Data Controller	7167
 ALWASI MEDICAL CENTRE Data Controller INST-3696162321A	7167
-AL_202401689&utm_source	2816
-AL_KARIM MEDICAL CENTER LIMITED Data Processor	7167
 ALandry	5440
 ALmarashdeh	8604
 ANINF Director General Alberto Mounguengui Moudoki	9837
@@ -339,7 +336,6 @@ Al-Madar Al-Jadid	3811
 Al-Madar Al-Jadid Company	3811
 Al-Madina	1258,2932
 Al-Madina CNI	1226
-Al-Madina. Les	1258
 Al-Mamary	4432
 Al-Manssa	3448
 Al-Masry Al-Youm	9522
@@ -588,7 +584,6 @@ Alexious Kamangira	10412
 Alexis METON	3452
 Alexis Mangala. Bienvenu Ipan	5835
 Alexopoulos	2096
-Alfa O	3862
 Alfabetismo	4044
 Alfabetización	1701,2508
 Alferidah	8022
@@ -607,7 +602,6 @@ Alfândegas	4747
 Algebra Ventures	4453,4,2071
 Algedi Intelligence Labs	9944
 Alger	3157,501,197,273,56,42,177,552,216,280,302,442,21,59,145,537,74,916,746,198,353,986,165
-Alger Le	10230
 Alger L’administration	10230
 Alger Mohamed Abdenour Rabehi. Infrastructure	7052
 Alger and Blida	7031
@@ -724,8 +718,8 @@ Algeria’s AI Research and Innovation Strategy	1814
 Algeria’s Water and Sanitation Company	8428
 Algerie	10231,164,120
 Algerie Telecom	6326
+Algerie aps	5452
 Algerie360	10230
-Algerie_aps	5452
 Algiers	2617,221,130,253,219,391,364,82,993,314,2,239,45,83,174,116,414,659,477,157,488,768
 Algiers Declaration	5586
 Algiers Province	7127
@@ -762,10 +756,9 @@ Algorithmic Justice League	6635
 Algorithmic Review	4253
 Algorithmic Tools	7966
 Algorithmization	2096
-Algorithms	6792,1812,143,1849
+Algorithms	5349,1443,1812,143,1849
 Algorithms Are Not Bias-Free	5700
 Algorithms and Applications. Springer. The Hindu	2816
-Algorithms_	5349
 Algoritmos Genéticos	2816
 Algoritmos de ML	2816
 Algrie Tl-Compensation Interbancaire	6938
@@ -791,14 +784,11 @@ Algérie Télécom Satellite Revealed	2262
 Algérie Télécom and Italian	3342
 Algérie Télécom and Sparkle	3521,3252
 Algérie Télécom's Mobilis	2968,1200,1208
-Algérie Télécom. Les	10178
 Algérie-Vision	9798
 Algérie. Au	10688
 Algérie. Ce	10515
 Algérie. Elle	6761,1876
 Algérie. Il	3520,2246,1265
-Algérie. Le	3842,6846
-Algérie. Les	10688
 Algérie. Lien	10395
 Algérie. Mais	9607
 Algérie. Nous	3157,7358
@@ -1021,7 +1011,6 @@ All Government Line Ministries	4528
 All HRIS	34
 All HVAC	9123
 All Hands	5349
-All I	3005
 All ICPC Members	3513
 All ICT	34,924
 All Individual	762
@@ -1134,8 +1123,7 @@ Allemagne	643,1810,513,499,377,1187,1231,307,46,137,209,165,1767,976,460,44
 Allemagne. Bureau	10712
 Allemagne. Par	10371
 Allemand	998
-Allen	1818,179,120,8521
-Allen E	771
+Allen	771,1047,179,120,8521
 Allen Institute	10638
 Allen Institute for AI	5257,3531
 Allen Lane	5700
@@ -1154,11 +1142,10 @@ Alliance Burkinabè des Domaines Internet	9509
 Alliance KICA Kenya Information and Communications Act	7548
 Alliance Sahel	643
 Alliance Summit	4114
+Alliance des	6959
 Alliance des Etats du Sa-	6959
-Alliance des Etats du Sahel	3993,66,2900,711
-Alliance des Etats du Sahel. Le	8237
+Alliance des Etats du Sahel	3993,66,2900,711,567
 Alliance des Etats du Sahel. Pour	3592
-Alliance des Les	6959
 Alliance for Affordable Internet	4619
 Alliance for Community Action	8513,569
 Alliance for Digital and Financial Services Activity USAID	298
@@ -1301,7 +1288,6 @@ Alquiler	4209
 Alquiler Inmobiliarios	4209
 Alquileres de Bienes	4209
 Already	1018,225,1147,276,11,65,205,356,167,23,85,180,62,130,33,459,71,270,327,217,173,116,95,212,191,46,156,93,107,15,232,24,213,265,94,930,449,305,493,173,250,380,75
-Already I	9959
 Alsat-3	4838
 Alsat-3A	4838,42
 Alsat-3B	4838,42
@@ -1402,7 +1388,6 @@ Alwihda	8171
 Alwohaibi	8604
 Aly Badara Berété	7826
 Aly Badara Bérété	7706
-Aly E	766
 Aly SAWADOGO	6889,465
 Aly SAWADOGO Rasmatou OUEDRAOGO	3825
 Aly Song	8495
@@ -1411,7 +1396,7 @@ Alyousif	9129
 Alzaabi	2673
 Alzahranietal	8602
 Alzaqebah	8604
-Além da Jurisdição Nacional. De	5791
+Além da Jurisdição Nacional	5791
 Am All	7987,1
 Amal Al-Falah Al-Saghrouchini	4032
 Amal Al-Falah Al-Saghroushni	4141
@@ -1883,6 +1868,7 @@ Google Agnes Mlambo Bryce Allan Chris	9769
 Google’s MD for Africa Alex Okosi	3619
 Gov. Alex Otti	5072
 Governance Duty All	3861
+Governance of AI-Based Algorithms	4253
 Governance of AI-based Algorithms	4253
 Government of Algeria	6127
 Government of Kenya. All	4153
@@ -2148,7 +2134,6 @@ M. Ali Gazibo Moussa	7348
 M. Ali Ghannam	8891
 M. Ali Kolotou Tchaïmi	3799
 M. Ali Mahaman Lamine Zeine	3341
-M. Ali Mahaman Lamine Zeine Le	3341
 M. Ali Mahaman Lamine Zéine	6094,1651
 M. Ali Salatou Adji	2801
 M. Ali-Mohamed SINANE	8956
@@ -2574,7 +2559,7 @@ Salah Al-Din Mohammed Abdelrahim	9587
 Sam Altman	2379,437,2734,971,194
 Samara Allen	9786
 Samuel Alemayehu	7151
-San Francisco and Palo Alto. I	5224
+San Francisco and Palo Alto	5224
 San Juan Alcaide	4209
 Savings of Prior Law and Acts All	3861
 Scam Alert	10311

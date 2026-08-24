@@ -8,7 +8,7 @@ FX Foreign Exchange PUE Power Usage	3184,1,1340
 FX-conversion	1854
 FX-reserve	5201
 Fx2kCrTPZhC7bKZLj5	6423
-Fxd_arbiter	5784,4,162,263
+Fxd arbiter	5784,4,162,263
 IATI. FX	345
 K. FX	650
 LD-dollar FX	4680

@@ -62,7 +62,7 @@ Adjusted Budget	750,540,494,1,2,7,3
 Administrateur ACTUALITES Afrique Burundi Jeunesse	9810
 Administrateur Afrique Burundi Jeunesse	9810
 Administrateur Bujumbura Environnement Un	9810
-Administrateur Burundi Politique Les	9810
+Administrateur Burundi Politique	9810
 Admissions Academics Academic Calendar Business School	10123
 Advancing the Agenda Building	7596
 Africa Building the Agentic Future	6441
@@ -153,7 +153,7 @@ BERKLEY BUSINESS SOLUTIONS Data Controller INST-2014650660A	7167
 BI Business Intelligence BM Banque Mondiale	10712
 BLOSSOM BUSINESS SOLUTIONS LIMITED Data Controller	7167
 BN Budget National CDMT Cadre des Dépenses	10712
-BPP Budget O	10157
+BPP Budget	10157
 BRIAN JUMA Data Processor INST-1609516F134 BUSIA	7167
 BRICH HEALTHCARE Data Controller INST-310377BF1DA BUNGOMA	7167
 BRICH HEALTHCARE Data Processor INST-310377BF1DA BUNGOMA	7167
@@ -185,7 +185,7 @@ BUDGET ANNUEL REVISE	3164,1,1,1,1,1,1,1,1
 BUDGET BY INSTITUTION	1756,1,1,1,1,1,1,1,1,1,1375,1,1,1,1,1,1,1,1,3764,1,1,1,1,1,1,1,1
 BUDGET DE L'ETAT	1325,1,1,1,1,1,685,1,1,1,1,1,266,1869,1,1,1,1,1,770,2955
 BUDGET DEFICIT	5655
-BUDGET GLOBAL DU	10712
+BUDGET GLOBAL	10712
 BUDGET PERFORMANCE Actual-	9437
 BUDGET REACTIONS	8723
 BUDGET Raccourcis Le Ministre Composition du Cabinet	1297
@@ -380,7 +380,6 @@ Bucks Now	8732
 Bucopho	9305
 Budalangi	10313
 Budalang’i	10313
-Budalang’i. I	10313
 Budapest	1000,2105
 Budapest Convention	318,382,75,8,493,259,242,132,208,2466,1843,566,752,1872
 Budapest Convention. Coordinated	1777
@@ -450,7 +449,6 @@ Budget and GC	10721
 Budget and Spending	9354
 Budget and Spending Tier	10721
 Budget du Conseil	8891
-Budget du Conseil Les	8891
 Budget du Senegal	940
 Budget du Sénat	4363
 Budget of UGX	1920
@@ -488,7 +486,7 @@ Buenos Aires	226,5038
 Buffalo	7140
 Buffalo City Optic Fibre	6832
 Buffalo Project	3759
-Buffalo_n.2e16d0ba.fill-280x185.png	7140
+Buffalo n.2e16d0ba.fill-280x185.png	7140
 Buffer	4153
 Buffett	5124
 Buga Dance Challenge	9739
@@ -812,8 +810,6 @@ Bureau Mali Confiance	6959
 Bureau Mali Dans	6959
 Bureau Mali En	6959
 Bureau Mali Formule	6959
-Bureau Mali La	6959
-Bureau Mali Le	6959
 Bureau Mali L’analyse	6959
 Bureau Mali Par	6959
 Bureau Mali Plus	6959
@@ -853,10 +849,10 @@ Burhanuddin	9129
 Buried	2826,3463,4439
 Burinfort	10471
 Burkhardt	2117
-Burkina	737,561,97,314,97,792,5,129,394,220,10,40,373,35,21,121,87,26,137,187,76,632,189,211,103,113,790,234,549,26,13,14,20,278,39,651,181,131,45,170,200,239,115,107,484,132,134,383,69
+Burkina	737,561,97,314,97,792,5,129,394,220,10,40,373,35,21,121,87,26,137,187,76,632,189,211,103,113,790,234,549,26,13,14,20,278,39,651,181,131,45,170,200,239,55,60,107,484,132,134,383,69
 Burkina ATA	8886
 Burkina CASEM Plan de Travail Annuel	2074
-Burkina Faso	7,23,83,44,42,37,71,5,19,6,55,10,3,11,58,1,77,88,2,1,1,8,60,10,15,48,51,1,56,36,4,80,52,76,1,47,28,26,21,13,14,1,1,3,2,33,14,3,47,46,24,119,37,13,1,6,6,3,94,57,11,25,80,1,32,107,1,3,1,12,67,7,155,14,60,7,138,38,8,7,107,24,19,7,43,194,14,72,71,106,40,44,25,4,9,42,31,17,11,10,6,1,13,5,9,18,19,38,14,36,16,28,16,27,101,11,1,1,66,34,2,19,40,7,36,4,6,20,75,48,14,37,63,37,37,1,3,1,8,16,1,59,91,1,17,37,57,20,19,26,1,9,2,9,10,6,13,2,25,47,7,1,11,1,29,9,5,3,1,13,32,9,33,66,209,24,47,105,10,18,11,20,2,18,32,13,100,1,42,35,1,31,2,15,19,18,42,13,18,172,2,1,2,132,15,10,67,30,47,51,11,16,176,36,16,6,24,20,41,31,4,7,49,6,44,5,1,11,9,51,14,24,122,76,5,25,3,7,20,47,1,7,64,27,33,185,4,4,29,86,7,86,29,35,49,62,12,25,52,1,11,75,84,82,51,47,1,132,1,43,43,12,1,1,1,86,64,150,12,1,227,73,160,32,79,40,1,139,47,27,86,1,32,98,112,19,37,38,30,17,27,18,156,3,19,5,43,18,11,16,54
+Burkina Faso	7,23,83,44,42,37,71,5,19,6,55,10,3,11,58,1,77,88,2,1,1,8,60,10,15,48,51,1,56,36,4,80,52,76,1,47,28,26,21,13,14,1,1,3,2,33,14,3,47,46,24,119,37,13,1,6,6,3,94,57,11,25,80,1,32,107,1,3,1,12,67,7,155,14,60,7,138,38,8,7,107,24,19,7,43,194,14,72,71,106,40,44,25,4,9,42,31,17,11,10,4,2,1,13,5,9,18,19,38,14,36,16,28,2,14,27,101,11,1,1,54,12,34,2,19,21,19,7,36,4,6,20,75,48,14,37,63,37,37,1,3,1,8,16,1,59,91,1,17,37,57,20,19,26,1,9,2,9,10,6,13,2,25,47,7,1,11,1,29,9,5,3,1,13,32,9,33,66,209,24,47,105,10,18,11,20,2,18,32,13,100,1,42,35,1,31,2,15,19,18,42,13,18,172,2,1,2,132,15,10,67,30,47,51,11,16,176,36,16,6,24,20,41,31,4,7,49,6,44,5,1,11,9,51,14,24,122,76,5,25,3,7,20,47,1,7,64,27,33,185,4,4,29,86,7,86,29,35,49,62,12,25,52,1,11,75,84,82,51,47,1,132,1,43,43,12,1,1,1,86,64,150,12,1,227,73,160,32,79,40,1,139,47,27,86,1,32,98,112,19,37,38,30,17,27,18,156,3,19,5,43,18,11,16,54
 Burkina Faso Adama YAMEOGO Chef	10708
 Burkina Faso Adopts Harmonized Framework	3640
 Burkina Faso Advances Digital Transformation	5466
@@ -887,10 +883,8 @@ Burkina Faso KOUSSOUBE	6613
 Burkina Faso Kicks Off Construction of Digital	4682
 Burkina Faso L'adoption	3116
 Burkina Faso LF	1291,1,1,1,1,1,761,1,1,1,1,1,2308,1,1,1,1,1
-Burkina Faso La	2732
 Burkina Faso Launches Central Portal	6092
 Burkina Faso Launches Digital Travel Declaration	5758
-Burkina Faso Le	3472
 Burkina Faso Liens	7800
 Burkina Faso Minister of Security	475
 Burkina Faso Ministry Explores Strategic Partnership	3345
@@ -955,10 +949,8 @@ Burkina Faso. Cette	7269,1052,313,768,1258
 Burkina Faso. Covers	722
 Burkina Faso. DCRP	3469
 Burkina Faso. Dans	643,94,7717
-Burkina Faso. De	8678
 Burkina Faso. Depuis	8721
 Burkina Faso. Domaine	643
-Burkina Faso. Du	3946
 Burkina Faso. D’autres	10642
 Burkina Faso. Elle	8098,1895,552
 Burkina Faso. En	737,913,3129
@@ -972,10 +964,7 @@ Burkina Faso. Il	737,7584
 Burkina Faso. J’exhorte	4033
 Burkina Faso. L'ARCEP	1650
 Burkina Faso. L'introduction	4134
-Burkina Faso. La	643,2847,477,4535
-Burkina Faso. Le	737,3088,54,4036
 Burkina Faso. Le Conseil	8321
-Burkina Faso. Les	3469,201,4000
 Burkina Faso. Lorsqu’un	4033
 Burkina Faso. L’adoption	8321
 Burkina Faso. L’examen	8321
@@ -1013,7 +1002,6 @@ Burkina's President	9267
 Burkina. En	737
 Burkina. Graphique	4459
 Burkina. Il	3666
-Burkina. Le	9342
 Burkina. M. Sow	4550
 Burkina. Nous	2514
 Burkina. Oumarou RABO	4399
@@ -1025,17 +1013,15 @@ Burkina24	1950,427,1288,260
 BurkinaFGB	7799
 Burkinabe	2560,8,664,113,1337,46,235,532,422,531,4119
 Burkinabe National No F25 Jul	10714
-Burkinabè	983,311,1,1,70,218,366,112,268,1016,50,15,61,18,180,134,87,55,87,263,87,200,2441,252,1045,133,47,547,1
+Burkinabè	983,311,1,1,70,218,366,112,268,1016,50,15,61,18,180,134,87,55,87,263,87,200,2441,252,30,1015,133,47,547,1
 Burkinabè AI-research	8721
 Burkinabè Acquérir	3396
 Burkinabè ID	3925
 Burkinabè PTA	3469
 Burkinabè President Ibrahim Traoré	3804
 Burkinabè Publié	5567
-Burkinabè de Les	3396
 Burkinabè. C'est	6889
 Burkinabè. Ce	10259
-Burkinabè. La	7306
 Burkinabé	3396,228,609,525
 Burkinabés	3465
 Burkybile F	7187
@@ -1102,7 +1088,7 @@ Burundi Par La Rédaction D'ici	5905
 Burundi Pay	6605,3857
 Burundi Police	1776
 Burundi Public Procurement Regulatory Authority	1284
-Burundi RESULT_NO_PDO Additional Financing	1284
+Burundi RESULT NO PDO Additional Financing	1284
 Burundi Receives	1579
 Burundi Request	5692
 Burundi Request. State	5692
@@ -1145,12 +1131,9 @@ Burundi. Après	9270
 Burundi. Bộ	8062
 Burundi. Ces	4363
 Burundi. Dans	8503
-Burundi. De	6605
 Burundi. Discussions	5262
 Burundi. Elle	4068
 Burundi. Following	1867
-Burundi. Le	9614
-Burundi. Les	2624
 Burundi. L’ABUCO	8503
 Burundi. Minister Léocadie Ndacayisaba	1962
 Burundi. Over	5292
@@ -1398,7 +1381,7 @@ Business and Commercial Banking	8974
 Business and Communities	395
 Business and Digital Rights	6113
 Business and Disability Networks	10290
-Business and Economic Research_	4432
+Business and Economic Research	4432
 Business and Economics	9237
 Business and Farmers	789
 Business and Human Rights	3005,578,3564,1935
@@ -1413,10 +1396,8 @@ Business and Management Research	5244
 Business and Management. SAGE Publications	5349
 Business and Other Services	789
 Business and Public Administration	4432
-Business and Social Science	7759
-Business and Social Science_	2093
-Business and Social Sciences	9129
-Business and Social Sciences_	5349
+Business and Social Science	2093,5666
+Business and Social Sciences	5349,3780
 Business and Technical Specifications	8840
 Business and Technology	9124
 Business- Critical High Performance Standard Basic	5665
@@ -1677,7 +1658,7 @@ DHA’s Bursary Policy	5533
 DIA MICHELLE BUA	6212
 DIGITAL Business Africa	2056,1602,217,1991,409,107,38,1445,199,920,1271,3,121,2,310
 DIRECTION GENERALE DU BUDGET Introduction Dans	2476
-DIRECTION GENERALE DU BUDGET RAPPORT DE	3396
+DIRECTION GENERALE DU BUDGET RAPPORT	3396
 DM Pro Expands Liquor Business	10274
 DPI. For Burundi	6899
 DU BUDGET DE L'ETAT	3396
@@ -1917,15 +1898,15 @@ Frontière Burkina Faso	3967
 Full Business Case	10603
 Functions of Business and Intellectual Property Authority	3714
 Future Being Built Today Liberia	8861
+G 30 GB Monthly Bundle	718
+G 90 GB Monthly Bundle	718
 G Consumer Business Case	5675
 G. Businesses	8266
 GDP. Businesses	1814
 GM for ICT Business Systems	10538
 GSMA Building Digital Ecosystems	5241
-G_30 GB_Monthly Bundle	718
-G_90 GB_Monthly Bundle	718
 Gabon and Zimbabwe. ITU Telecommunication Development Bureau	2464
-Gail_Bester_SANRAL_FMS.pdf BusinessTech	8603
+Gail Bester SANRAL FMS.pdf BusinessTech	8603
 Galaxy Backbone Building	5903
 Gambia Bureau of Statistics	1654,33,6136,538,1
 Gambia Bureau of Statistics GBoS	1687
@@ -2018,7 +1999,7 @@ Housing Budget Shrinks	2428
 Huawei and Algérie Télécom Business	2790
 Hydrocarbures50 Le Budget	1594
 I I D- Buy	582
-I I Nature of Business I I	736
+I I Nature of Business	736
 I de Buena Esperanza II	4209
 I. Burden	4301
 IA du Burkina Faso	3465
@@ -2121,7 +2102,7 @@ International Business Development	9155
 International Business Research	8021
 International Maritime Bureau	9068
 International Relations and International Business	3398
-International Small Business Journal_	2093
+International Small Business Journal	2093
 Internet Governance Forum Burkina Faso. Dans	10642
 Investigations Bureau DPO Data Protection Officer	6936
 Investissements du Budget	1682
@@ -2137,8 +2118,7 @@ Join BusinessDay	9047,703,247,96,127,400,69
 Jointly Building	7835
 Joseph Budu	226
 Journal of Business	5349
-Journal of Business Research	8460,777
-Journal of Business Research_	4432
+Journal of Business Research	4432,4028,777
 Journal of Business and Management Sciences Market Research	9129
 Journal of Business and Psychology	8460
 Journal of Business and Public Administration	7759
@@ -2241,6 +2221,7 @@ MAISON DE L’ENTREPRISE DU BURKINA FASO	7670
 MANAGEMENT OF COMPANY DURING BUSINESS	3714
 MARS DU BUDGET DE L'ÉTAT	2959
 MCPP.' Business Daily	889
+MD-10227 MWK-DDM-packshot Bundle-	753
 MDE Business School. Ce	2342
 MFB Ministry of Finance and Budget	969
 MICDE Budget National	7548
@@ -2335,7 +2316,6 @@ Moov Africa Burkina	4900,1597,3496
 Moov Africa Burkina Breaks Ground	4900
 Moov Africa Burkina Faso	3891,2877,242
 Moov Africa Burkina Faso Aligns	3891
-Moov Africa Burkina. La	6497
 Morocco Duke Buchan III	6924
 Morocco. Vodafone Business and Maroc Telecom	2755
 Mozambique India Business Forum	2667
@@ -2608,7 +2588,7 @@ Rwanda Investigation Bureau	718,1162
 Rwanda and Burundi Economic Survey	2775
 Rwanda-Botswana Business Forum	6117
 Rwandan and Burundian	10260
-RÉPARTITION DES DÉPENSES DU BUDGET DE	2476
+RÉPARTITION DES DÉPENSES DU BUDGET	2476
 République du Burundi	1284,1341,1738,1608,60,3142
 République. Le Burkina Faso	6465
 S.E M. Duke Buchan III	5745
@@ -2619,7 +2599,7 @@ SARB Builds National Payment Utility	5691
 SARB Builds National Payment Utility PayShap	5691
 SECURITE ALIMENTAIRE Au Burkina Faso	737
 SEP Budget Table Budget Category	1778
-SERVICE BUS FORM DE	2709
+SERVICE BUS FORM	2709
 SHA Building	8383
 SIIPS Business	4357
 SIM3 AUDITOR CAPACITY BUILDING PROGRAMME	9470

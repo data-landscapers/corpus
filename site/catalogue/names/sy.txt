@@ -338,7 +338,6 @@ Computer Systems Engineering	6832
 Computer Systems Organization	8605
 Computer Systems and Cyber Security	10227
 Computing Systems	4439,4021
-Computing Systems_	4439
 Conference Sydney	2521,659,249,939,974,1524,210,294
 Confidential Attributes Symbol Example Process Name	9124
 Congo's National Information Systems Security Agency	3096
@@ -400,7 +399,7 @@ DES REGLES DE SECURISATION DES SYSTEMES	1801
 DES Scope System Type Binary	7221
 DES Scope System Type Nominal Identifies	7221
 DEVICES TO THE ELECTRONIC INVOICING SYSTEM	4699
-DHIS District Health Information System DI	2775
+DHIS District Health Information System	2775
 DHIS District Health Information System USAID	766
 DIGITAL SYSTEM AND TECHNOLOGY REQUIREMENTS	9855
 DIGITAL SYSTEM AND TECHNOLOGY REQUIREMENTS Standard	9855
@@ -629,8 +628,7 @@ Ethiopia's Livestock Information System Digital Public	8183
 Ethiopian Electronic Single Window System Development	208
 Europe Cable System	7329
 European Conference In Information Systems	1009
-European Journal of Information Systems	9237
-European Journal of Information Systems_	5349
+European Journal of Information Systems	5349,3888
 Every Monday. Subscribe Related Systems PayShapFPS	5691
 Evolution of Payment Systems	4856
 Excludes Syria	2775
@@ -657,7 +655,7 @@ Facinet Sylla	7978
 Farevic Systems	8975
 Farmers Payment Systems	6511
 Fatou SY	9133
-Fatou Sylla. Le	6235
+Fatou Sylla	6235
 Fawry Integrated Systems	5869
 Feature Story Synopsis	9985
 Fertiliser Information System	8908
@@ -720,6 +718,7 @@ Geo-Information Systems	6832
 Geographic Information System	104,685,1803,2773,4284,303
 Geographic Information Systems	1222
 Geographic Scope of Payment Systems	6938
+Geographic information system	5785
 Geographical Information System GSMA	958
 Geographical Information Systems	10662
 Ghana Agricultural Information and Monitoring System	9561
@@ -757,7 +756,7 @@ Government Systems Automation	958
 Government Systems Prototype Showcase	6239,49
 Government of Mozambique's Laboratory Information System	4260
 Govt Pushes for Unified Digital Systems	6077
-Guinée. A. Migration du Système RTGS Le	8556
+Guinée. A. Migration du Système RTGS	8556
 Général Sylvie Nguembhyt	4683
 H Blue Synergy Docent.Digital Boc-Group	8530
 HEALTH SYSTEM- LEVEL INTEROPERABILITY	1009
@@ -834,7 +833,7 @@ Human Capital Information Management System	4612,140
 Human Resource Information System	396,3953
 Human Resource Management Information System	127
 Human Resource for Health Information System	1261
-Human Systems Management_	4432
+Human Systems Management	4432
 Humanitarian Assistance Management System	9747
 Hz Size Projection System	34
 I. Le Système	4420
@@ -907,12 +906,10 @@ Information System Master Plan	4284,13
 Information System National Public Health Institute	4153
 Information Systems	34,966,9,239,13,2866,305,917,351,3537,823
 Information Systems Audit and Control Association	9237,1179,13
-Information Systems Journal	226
-Information Systems Journal_	2093
+Information Systems Journal	226,1867
 Information Systems Management	8883,245
 Information Systems Research	5349,351,3537
 Information Systems Research Conference	4432
-Information Systems Research_	5349
 Information Systems Security Agency	2838,1917,515
 Information Systems Success	9129
 Information Systems and Digital Agency	6451,2049
@@ -1005,7 +1002,7 @@ Jean Symphorien NGAMA-PIAULT	5135
 Journal of Computer Information Systems	9128
 Journal of Electrical Systems and Information Technology	9616
 Journal of Information Systems Engineering	2093
-Journal of Information Systems and Digital Technologies_	5349
+Journal of Information Systems and Digital Technologies	5349
 Journal of Information Systems and Dogan	9237
 Journal of Intelligent Information Systems	8604
 Journal of Management Information Systems	9128
@@ -1134,7 +1131,7 @@ Malaysia National Registration and Identification System	10714
 Mamadou Sy Albert	8821
 Management Information System	899,472,1404,1378
 Management Information System for Social Assistance	1371
-Management Information Systems Quarterly_	2948
+Management Information Systems Quarterly	2948
 Management System	295,2150,4501,3768
 Management System LSK Law Society of Kenya	6946
 Management System New Digital Platform Marks	6806
@@ -1598,6 +1595,7 @@ SMART Office System Rollout	3088
 SMARTCARE HEALTH INFORMATION SYSTEM STANDARDS	34
 SNT. Le Système	9716
 SOE State-Owned Enterprise STEP Systematic Tracking	6539
+SS IC Syllabus Gr12 Final February 2019.pdf	288
 STEP Systematic Tracking of Exchanges	2889,715
 SVS Stock Visibility System MTEF Medium-Term	396
 SY125	2776
@@ -1620,16 +1618,15 @@ SYNAM-CI. Il	7807
 SYNECAT	1679
 SYNTHESIS AND INTERPRETATION	8605
 SYNTHESIS TEAM REFERENCES EXEGUTIVE SUMMARY Ghana	6936
-SYNTHÈSE DES RECOMMANDATIONS DES GROUPES DE	10024
+SYNTHÈSE DES RECOMMANDATIONS DES GROUPES	10024
 SYNTHÈSE DU DIAGNOSTIC STRATÉGIQUE	10712
 SYSCOHADA	3604
 SYSROAD	4519,24
 SYSROAD SA HOLDING	4519,24
-SYSTAC	3157,2583,1198,2988,96,216,486
+SYSTAC	3157,2583,1198,1126,1862,96,216,486
 SYSTAC- Automated Clearing System	969
 SYSTAC-Système de Télécompensation	969
 SYSTAC. Groupings of Central Banks	6938
-SYSTAC. Le	8064
 SYSTAC2	9926,798
 SYSTEM	7988
 SYSTEM Among	1243
@@ -1703,7 +1700,7 @@ Social Protection System PforR	742
 Social Protection System Program-for-Results	734,8
 Social Registry Information System	1687
 Social Registry Information System SRIS	1687
-Social Theory and Philosophy for Information Systems_	5349
+Social Theory and Philosophy for Information Systems	5349
 Soft Logistics Management Information System	4202
 Software Developers Enterprise Architects Systems	21
 Solar Home Systems Receivables Facility Norfund	707
@@ -1797,13 +1794,12 @@ Sylla	2839
 SyllaBSavadogoLDialloG. Improving	8376
 Sylndr	4324
 Sylvain Hekponhoue	7886
-Sylvain Lekaka	2564
-Sylvain Lekaka. Le	5303
+Sylvain Lekaka	2564,2739
 Sylvain Lékaka	2655
 Sylvain Mubenga	6016,122
 Sylvain Riquier	1996,2390
 Sylvan Van Kramberg	8161
-Sylvanus E	9739
+Sylvanus	9739
 Sylvanus Redwood-Sawyer	4114
 Sylvere	431
 Sylvere Udahemuka	8038
@@ -1876,7 +1872,7 @@ Synthetic	3103,4048
 Synthetic Media	7548
 Synthèse	2966,193,2471,1266,1629,366,1821
 Synthèse de Armelle Ouédraogo Lefaso.net	9048
-Synthèse-Brochure_Fr.pdf	3159
+Synthèse-Brochure Fr.pdf	3159
 Syracuse University	7233
 Syria	6825,122,2223,1208
 Syria Thales Alenia	2405
@@ -1981,7 +1977,7 @@ Systemic Oversight Measures	6935,2815
 Systemic Risk	7548
 Systemically	5242,1931,2443
 Systemically Important Financial Market Infrastructures	4103
-Systems	736,35,128,73,271,18,1038,1284,71,323,224,59,41,389,95,584,296,26,222,62,457,341,163,10,58,316,14,213,1,203,8,227,22,4,3,268,320,2,22,492,4,5,41,68,459,159,37,183,111,528,7
+Systems	736,35,128,73,271,18,1038,1284,71,323,224,59,41,131,258,95,584,296,26,222,62,457,341,163,10,58,316,14,213,1,203,8,227,22,4,3,268,320,2,22,492,4,5,41,68,459,159,37,183,111,528,7
 Systems Across Africa TechAfrica News	4225
 Systems Administrator	8022
 Systems Analyst	2982
@@ -2010,7 +2006,6 @@ Systems-Level	3791
 Systems-thinking	10060
 Systems. Deploying Infrastructure for Industrialisation	5912
 Systems. Fintech	6397
-Systems_	4432
 Systm Upgrades Provincial Courts Proceedings	2987,16,13,949,1438,159,1347
 Système	12,198,25,322,86,588,53,365,30,122,183,358,261,347,1,132,211,68,57,162,23,83,32,388,62,570,324,16,24,2,489,220,2,17,33,117,65,41,151,194,241,213,298,384,148,125,166,378,120,10,68,178,249,37,124,103,129,311,1,174,102,103,29,141,7,71,299,68,1
 Système Certificat	5063
@@ -2161,6 +2156,7 @@ Verification and Certification of Imported ICT Systems	6936
 Vice President for Information Systems Security	10025
 Vice-Presidente Executivo de Space Systems da Airbus	5405
 Visa Adjudication System	5533
+WACS Cable system.jpg	8679
 WAEMU Regional Payment System	118
 Warehouse Receipt System	5883,3707
 Wastewater Systems	1988

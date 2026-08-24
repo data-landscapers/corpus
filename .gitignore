@@ -44,6 +44,16 @@ __pycache__/
 *.pyc
 .workroot/
 
+# npm's working state. The catalogue's export tests run the built page under jsdom
+# (documentation/catalogue-filtered-download.md), and `npm install` drops these in
+# whatever directory it is run from — 1,800-odd files that are not this repo's. The
+# fix is to install outside the tree, and this is the second line of defence for the
+# times that is forgotten. Nothing here is a dependency of anything Corpus builds:
+# every script that renders the site is Python, and the site itself ships no npm code.
+node_modules/
+package.json
+package-lock.json
+
 # `build-finance-page.py` writes a per-place {ISO3}-summary.csv on every build, and
 # nothing reads it: budget work is suspended, so `country.py` does not open it and
 # `finance.py` does not aggregate it. Bill removed all 59 from the repo on 2026-08-14

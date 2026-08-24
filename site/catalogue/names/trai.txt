@@ -81,7 +81,7 @@ DES UTILISATEURS ET DES OPERATEURS Traitement	998
 DHET Department of Higher Education and Training DIRISA	5246
 DHET. Department of Higher Education and Training	6832
 DHIS2 Training and Implementation	6048
-DLP Training E	899
+DLP Training	899
 DONNEES FONT L’OBJET D’UN TRAITEMENT Section	436
 Data Protection Impact Assessments. Training	5385
 December. Staff Development and Training Capacity	1554
@@ -123,7 +123,7 @@ Empowering the Next Generation of Trainers	9360
 Enhanced Training of Election Officials INEC	10049
 Epidemiology and Laboratory and Training Program	4153
 Establish Train-the-Trainer Program	1204
-European Journal of Training and Development_	4432
+European Journal of Training and Development	4432
 Features of SmartCare Pro Overview of Training	2477
 Foundation GIS and Data Management Training	6427
 Foundational Training and Capacity Initiation	3861
@@ -196,7 +196,7 @@ National Female Pre-Tech Training Programme	4126
 National ICT Training Program	5244
 Nigeria's Technical and Vocational Education and Training	9755
 Nursing Trainee Allowance	7695
-OBLIGATIONS DU RESPONSABLE DE TRAITEMENT DE	436
+OBLIGATIONS DU RESPONSABLE DE TRAITEMENT	436
 OVERVIEW OF TRAINING STRATEGY	2477
 Opaque Training Data and Decision-Making	3651
 Personnel Vetting and Training	3861
@@ -263,9 +263,8 @@ TVET Technical and Vocational Education and Training TVETA	7548
 TVET Trainers	2775
 Teacher Trainee Allowance	7695
 Teacher Trainees Enrolment	2775
-Teacher Training	2989,1539,3020
+Teacher Training	899,2090,1539,3020
 Teacher Training Colleges	383,6821
-Teacher Training E	899
 Teacher Training Institutes	2989,1664
 Teacher Training Institutes Finalize	2989
 Teacher Training Institutes Sign	2989
@@ -348,7 +347,6 @@ Training-	7548
 Training. Statistics	6832
 Training21	1814
 TrainingOfTrainers	9360
-Training_and_Skills_Alignment_	6948
 Traininginitiativesfocusedonhelpinglecturers	8602
 Trainings	1362,416,210,4958
 Trains	4259

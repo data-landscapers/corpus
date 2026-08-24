@@ -174,6 +174,7 @@ AKIDE AND COMPANY ADVOCATES Data Processor	7167
 AKM Health Centre Data Processor INST-3708454B011	7167
 AKO ADVOCATES LLP Data Processor INST-443537E416E	7167
 AKSHAR TEAM SECURITY LIMITED Data Processor	7167
+AL KARIM MEDICAL CENTER LIMITED Data Processor	7167
 AL- FAROOQ HOSPITAL LIMITED Data Processor	7167
 AL-RASH INVESTMENTS LIMITED Data Processor INST-174721E207C	7167
 AL-RAYAN INTERGRATED SCHOOLS LIMITED Data Processor	7167
@@ -213,7 +214,6 @@ ALPHONIK INVESTMENT Data Processor INST-955461BA7E8 NAIROBI	7167
 ALPINE ADVENTURES LIMITED Data Processor INST-784490A9E4B	7167
 ALTAIR RETRO LIMITED Data Processor INST-468557B1AB8	7167
 ALTHAUS SERVICES LIMITED Data Processor INST-25467511D7A	7167
-AL_KARIM MEDICAL CENTER LIMITED Data Processor	7167
 AMA ADVOCATES LLP Data Processor INST-594912A5A22	7167
 AMACEC KENYA LIMITED Data Processor INST-4775360F7C5	7167
 AMADI ADVOCATES Data Processor INST-6282072BF30 NAIROBI	7167
@@ -292,7 +292,7 @@ APPLECROSS SURVEYORS Data Processor INST-503227DA939 NAKURU	7167
 APPLEGATE CHRISTIAN SCHOOLS LIMITED Data Processor	7167
 APPLEWOOD DATA TECHNOLOGIES LTD Data Processor	7167
 APPLIANCE ZONE LIMITED Data Processor INST-47396675117	7167
-APPLICATION PROCEDURES SECTION I	1638
+APPLICATION PROCEDURES SECTION	1638
 APPLIED PRINCIPLES LIMITED Data Processor INST-4791499F7C4	7167
 APPRISE REALTORS LIMITED Data Processor INST-710534E2AD3	7167
 APSOLID DIAGNOSTIC CENTRE LIMITED Data Processor	7167
@@ -455,6 +455,7 @@ Assessment Procedure	1824
 Attributes Standardisation Process	8606
 Automatic Data Processing	972
 Automatic Processing of Personal Data	8776
+Automating for End-to-End Claims Processing Whitepaper	9237
 Automation of Operational Processes	5677
 Automation of Operational Processes Automation	5677
 Autopax Limited Data Processor INST-612415FD98A NAIROBI	7167
@@ -1146,7 +1147,7 @@ Company LLP Data Processor INST-7959174FE30 NAIROBI	7167
 Company Limited Data Processor INST-957624ED452 NAIROBI	7167
 Compassion International Inc Data Processor INST-281755F5493	7167
 Compea LTD Data Processor INST-454616C800D NAIROBI	7167
-Complex Processes and Unknown Requirements._	4439
+Complex Processes and Unknown Requirements	4439
 Computech Limited Data Processor INST-933817C4FDC NAIROBI	7167
 Computer Science and Data Processing	6832
 Computer Vision Robotic Process Automation	4528
@@ -1867,7 +1868,7 @@ Object and Restrict Processing	3861
 One-Envelope Bidding Process	8166
 Open Data Licensing and Publication Procedures Sectoral	3861
 Operating Procedures	1988,1803
-Organizational Behavior and Human Decision Processes_	5349
+Organizational Behavior and Human Decision Processes	5349
 PARLIAMENTARY PROCEDURE	5872
 PART SEVEN PROCEDURES FOR TRANSFER	762
 PLACE LTD Data Processor INST-9941250204F	7167
@@ -1913,8 +1914,7 @@ Proce	972
 Proceder	167,4051
 Procederá	163
 Procedia	9129
-Procedia Computer Science	226,8379,523,1
-Procedia Computer Science_	5349
+Procedia Computer Science	226,5123,3256,523,1
 Procedimento	539,37,3981
 Procedimento de Concurso Público	4556,1
 Procedimento de Contratação	4557
@@ -1978,8 +1978,7 @@ Process Outcomes	7548
 Process Refer for Approval Page	9124
 Process Service Order Connection Uses	9124
 Process Visa Application	9124
-Process and Policy	5700
-Process and Policy_	2093,3256
+Process and Policy	2093,3256,351
 Process and Result Verification for Transparency	9986
 Process and Results Verification Statement	10054
 Process and Results Verification for Transparency	10054
@@ -2214,7 +2213,7 @@ Rules of Procedure	7081,934,470
 Rwanda Integrated Payments Processing System	6938
 SA-EU Open Science Dialogue Process	5246
 SARIT CENTRE Data Processor INST-35623816A01 NAIROBI	7167
-SECÇÃO I INSTRUÇÃO DO PROCESSO DE	794
+SECÇÃO I INSTRUÇÃO DO PROCESSO	794
 SIPOP Procurement Process	9134
 SMILES CLINIC Data Processor INST-102389934E1 NAIROBI	7167
 SOCIEDAD PROCESOS CUENTAS GRAL. DE REG	4209
@@ -2255,7 +2254,7 @@ TIMELINES CSP Accreditation Process	6432
 TOGAF Business Process Event-driven Process Powerful	9124
 TOUCHE LLP Data Processor INST-158027558A5 NAIROBI	7167
 TOURISM AND CLIMATE CHANGE Data Processor	7167
-TRANSACTIONS PRIORITÉS DANS LE PROCESSUS DE	10711
+TRANSACTIONS PRIORITÉS DANS LE PROCESSUS	10711
 TRANSPARENCY PARTY Data Processor INST-6497049E084 NAIROBI	7167
 TRANSPARENCY Processing	1243
 TRAVEL LIMITED Data Processor INST-447779F24C9 MOMBASA	7167

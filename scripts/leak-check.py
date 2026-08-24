@@ -187,7 +187,7 @@ def check_names_shard(path: Path, rel: str) -> list[str]:
     itself is still capped, at `build-names-index.py`'s own extraction limit.
 
     The gate's standing warning applies here as it does to the prose columns: the
-    way to keep this honest is to keep the *shape* narrow, never to widen the cap
+    way to keep this tight is to keep the *shape* narrow, never to widen the cap
     until the gate goes quiet.
     """
     faults = []

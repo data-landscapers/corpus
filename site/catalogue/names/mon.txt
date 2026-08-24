@@ -104,11 +104,9 @@ Bank's Monitoring Support	1988
 Banking and Monetary Control Department	5317
 Banks and Mobile Money Operators	4901
 Banque GIM-UEMOA Groupement Interbancaire Monétique	4459
-Banque Mondiale	737,6,4,1,1245,815,349,213,955,1658,85,78,319,1158,845,88,335,395,11,109,262,732,311,1
-Banque Mondiale Le	6068,2488
+Banque Mondiale	737,6,4,1,1245,815,349,213,955,1658,85,78,319,140,1018,845,88,335,395,11,109,262,732,311,1
 Banque Mondiale Table des Matières Version	1187
 Banque Mondiale. Dans	2768
-Banque Mondiale. Le	6465,140
 Banque Mondiale. Opérationnel	6146
 Barry Maher and Nicolas Million INTERNATIONAL MONETARY	1828
 Baseline Month	6579,349
@@ -119,7 +117,6 @@ Bikuan Ndong Mongomo	4209
 Bitcoin. Money	9367
 Bloomwit Africa Monitoring Standard	7445
 Blue Money	2785,743,643,184,1024,320
-Blue Money Les	4355
 Blue Money. C'est	4355
 Broad Money	2775
 Broadcast Content Monitoring	6946
@@ -177,7 +174,7 @@ Centre Broadcasting Monitoring Centre Type Approval	9109
 Centro Mongomo	4209
 Centro de Dados da Universidade Eduardo Mondlane	8807
 Cfa.- Banque Mondiale	3577
-Charles Richard MONDJO Le	435
+Charles Richard MONDJO	435
 Checking Mobile Money	3150
 Christian Churches Monitoring Group	9986,31
 Ciudad de Mongomeyen Mongomo	4209
@@ -229,12 +226,13 @@ D.G. MONITOREO Y PROG. S. SOC..-Concepto	4209
 DAYTONA KENYA MONEY TRANSFER LIMITED Data	7167
 DE LOS RECURSOS MONTO INGRESOS	4209
 DEL MONTE KENYA LIMITED Data Controller	7167
-DEL MONUMENTO DEL	4209
+DEL MONUMENTO	4209
 DG de Mobile Money Corporation	6804
 DPI ADP III. Moniepoint	2247
 Daily Monitor	315,2711
 Data Boom and Airtel Money Surge Author	7663
 Data Collection and Real-Time Monitoring Effective Spectrum	5245
+Datacenters Monographie-Ex-Summary-18092023.pdf	1244
 Date Closing Period Month	6579,349
 Dedicated Electronic Money Issuer	7325
 Departments and Agencies M&E Monitoring and Evaluation MFD	1264
@@ -332,6 +330,7 @@ Five Money Engines	5869
 Fix Is Five Months Overdue	10672
 Flutterwave and Moniepoint	2310
 Following the Monetary Policy Committee	5247
+Fomid monitoring bin.js	4861,929,900
 Fondo Monetario Internacional	1701,6677
 Fonds Monétaire International	1300,771,271,8370
 Fonds Monétaire JANVIER International	2342
@@ -349,6 +348,10 @@ Functions of Cyber Security and Monitoring of Interceptions	972
 Fundo Monetário Internacional	1948,6827
 Fundo Monetário Internacional GenAI	2816
 Funeka Montjane. Biometric	3435
+G 10 GB Monthly	718
+G 3 GB Monthly Surf	718
+G 30 GB Monthly Bundle	718
+G 90 GB Monthly Bundle	718
 GABAC Action Group Against Money Laundering	4127
 GCM Implementation and Monitoring Plan	9838
 GIE Monétique	1842,2535,1827,2284,2027,173
@@ -474,7 +477,7 @@ Lewis S. Teh Monrovia	7230
 Ley2026 MONTO	4209
 Liability No Monitoring	26
 Liberia Mobile Money Regulations	1372
-Libya Activates LY_GOVREP Platform for Government Monitoring	5775
+Libya Activates LY GOVREP Platform for Government Monitoring	5775
 Lisa Montel	7027
 Loide Monteiro	5509
 Lonestar Cell MTN Mobile Money Inc	9036
@@ -900,7 +903,7 @@ Monsieur Ibrahima Sory SARR	8269
 Monsieur Isaac TCHIAKPE	2966
 Monsieur Isidore DIOUF	7641
 Monsieur Jean Luc STALONE	1748
-Monsieur Jean-Claude Kassi Brou. La	8316
+Monsieur Jean-Claude Kassi Brou	8316
 Monsieur KABA Ibrahima	2342
 Monsieur Kalil KONATÉ	1598
 Monsieur Kharouna TALLA	8269
@@ -915,7 +918,7 @@ Monsieur Mamadi DOUMBOUYA	9637,1
 Monsieur Mamadou Moustapha DIA	8269
 Monsieur Mamane DJITTE	8269
 Monsieur Marie Ghislain YEBAS MANDELO	2738
-Monsieur Marius Abdon MIKPOAÏ. Les	5206
+Monsieur Marius Abdon MIKPOAÏ	5206
 Monsieur Mbaye NIANG	8269
 Monsieur Michael Edgar Lewin Downs	7670
 Monsieur Mohamed BENCHAABOUN	7620
@@ -946,7 +949,7 @@ Monsieur Rodrigue S. CHAOU	7953
 Monsieur Romuald WADAGNI	7953
 Monsieur Samba DIOUF	7641
 Monsieur Sibiri TIEMOUNOU	5826
-Monsieur Sié Maxime DA	5826
+Monsieur Sié Maxime	5826
 Monsieur Souleymane Bah. Africaguinee.com	10610
 Monsieur Syndoph Paeby ENDONI	7670
 Monsieur TABAKA Mexan Guillaume	3191
@@ -1006,6 +1009,9 @@ Month Treasury Bill Rate	1828
 Month Treasury Bill Rate Figure	1828
 Month-precision	3755
 Monthly	236,346,154,950,302,1001,122,861,260,758,331,140,971,107,389,252,368,114,1166,1154
+Monthly 10000 RWF	718
+Monthly 21000 RWF	718
+Monthly 30000	718
 Monthly Aggregated Limit	5687
 Monthly Average Basic Wages	2775
 Monthly Bed Occupancy Rates	2775
@@ -1026,9 +1032,6 @@ Monthly Reports ZRCP	1988
 Monthly Room Occupancy Rates	2775
 Monthly SASSA	8999
 Monthly and Pay-	8999
-Monthly_10000 RWF	718
-Monthly_21000 RWF	718
-Monthly_30000	718
 Months	2775,903,876,661,1217,10,494,62,909,2,42,2206
 Months Average	3583
 Monthty	3972
@@ -1069,14 +1072,13 @@ Monétaire Ouest-Africaine VG Vérification Générale PLAN	10712
 Monétique	5322
 Moov Africa Mobile Money	836
 Moov Africa Mobile Money Platform Investment	836
-Moov Money	2261,504,1418,868,516,667,891,1098,977
+Moov Money	2261,504,1418,868,516,667,891,1098,977,773
 Moov Money Mali	5760
-Moov Money Mastercard. La	4183
+Moov Money Mastercard	4183
 Moov Money Tchad	8223
 Moov Money Tchad SA	7620,603
 Moov Money-Mastercard	3010
 Moov Money. Au Togo	5324
-Moov Money. Les	9973
 Moov Money. Se	3650
 Morocco Economic Monitor	7655
 Moyen-Orient Montant	10519
@@ -1121,7 +1123,7 @@ Obj. Monitoring Details Baseline Target Due	1818
 Ole Hanseth and Eric Monteiro	7151
 Online Market Development and Integration Baseline Month	6928
 Operation Monitoring Africa-MMA	10729
-Orange Money	1142,1072,98,210,435,26,27,250,390,500,111,24,388,22,629,63,180,10,37,52,129,114,76,909,212,124,94,406,47,346,59,295,847,987,33
+Orange Money	1142,1072,98,210,435,26,27,250,390,500,111,24,388,22,629,63,180,10,37,52,129,114,76,909,212,124,39,55,406,47,346,59,295,847,987,33
 Orange Money Burkina Faso	2522,461
 Orange Money By Owl	7777
 Orange Money CEO	5666
@@ -1143,7 +1145,6 @@ Orange Money and MTN Mobile Money	4285
 Orange Money. Cette	8162
 Orange Money. Chaque	8953
 Orange Money. Grâce	2983
-Orange Money. Les	7269
 Orange Money. Nous	2983
 Orange Money. Pour	2983
 Orange Sierra Leone and Orange Money SL	10580
@@ -1193,7 +1194,7 @@ Private Sector Adoption and KPI Monitoring Design	4126
 Procurement MS MS MS Monitoring and Evaluation	1284
 Prof. Arkoful Sam and Dr. Augustine Monney	10600
 Programme Alimentaire Mondial	5667
-Programme de Transferts Monétaires. Le	3045
+Programme de Transferts Monétaires	3045
 Project Financing M&E Monitoring and Evaluation MoA	1867
 Project Management and Implementation Support Baseline Month	6928
 Project Monitoring and Implementation Unit	9219
@@ -1362,7 +1363,6 @@ Vulekamali and Municipal Money	8013
 WAVE MOBILE MONEY	4459
 Wave Mobile Money	864,29,36,1212,799
 Wave Mobile Money Group	8098
-Wave Mobile Money Group La	8098
 Wave Mobile Money Regional	929
 Wave Mobile Money S.A	864,29,1248
 Wave Mobile Money SSA Expansion Finnfund	864

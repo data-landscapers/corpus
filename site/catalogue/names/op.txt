@@ -1,4 +1,5 @@
 A-National Open-Source A1-Public and Private Sector	7548
+A1 RT OP PROJECT&UserID	126
 ABONNÉS OPÉRATEURS	998
 ADF Regional Operation	4840
 AFRICLOUD Opens Its Lagos Region	9496
@@ -68,6 +69,7 @@ Amateur Transceiver Radio Operator’s Certificate	736
 AmateurTransceiver Radio Operators Certificate	736
 Amazon’s Project Kuiper for Satellite Operations	4632
 Amenazas Oportunidades Fortalezas	1701
+Angola opens graft case into would be ruling party	9399
 Angolan Opposition UNITA Rejects Ruling Party	9399
 Annejiagye Street Operational P.O Box LG	3386
 Anthropic and OpenAI	9284
@@ -257,7 +259,7 @@ Cybersecurity Operations Services	9963,213
 Cybersecurity Risk Management Operations	6832
 CÔTE D’IVOIRE Opportunités de Délégation de SP	2342
 D. Legal Operational Policies	1284
-DADOS E OPERADORES DE CENTROS DE	2437
+DADOS E OPERADORES DE CENTROS	2437
 DATA TRAFFIC Mobile Network Operators	6000
 DATASHEET BASIC INFORMATION Project Operation Name	1867,1737
 DE GESTION DU PORTEEUILLE OPÉRATIONS EN	2342
@@ -282,8 +284,7 @@ Dar Petroleum Operating Company	3583
 Data Protection Commissioner OpEx Operational Expenditure	6432
 Dec-2027 Operation Closing	2712
 Delayed Trans-Saharan Fiber Optic Project	2533
-Democracy and Open Government	2096
-Democracy and Open Government_	2093
+Democracy and Open Government	2093,3
 Departamento de Operações de Cibersegurança	4218
 Departamento de Sistemas Operativos	9694
 Department Higher Education Opportunities	9128
@@ -626,7 +627,7 @@ Léon Alfred Opimbat	7263
 M OPIC	461
 M. Mobile and Fixed Operators	1872
 M20000000186699E DIXSTONE OPERATIONS CONGO DIXSTONE	7346
-MADA OPENDATA Les	9482
+MADA OPENDATA	9482
 MB Megabytes MNO Mobile Network Operator	2776
 MIT Open Publishing	9739
 ML Machine Learning MOOC Massive Open	1204
@@ -639,7 +640,6 @@ MTN Open Time	6834
 MTN. Operating	9639
 MULTIPLE OPTIONS	582
 MULTIPLE OPTIONS ALLOWED	582
-MULTIPLE OPTIONS E	582
 MULTIPLE OPTIONS SHOULD	582
 Macau Oportunidades de Negócios	6568
 Madina Near New Road Operational	3386
@@ -860,10 +860,10 @@ OPPORTUNITY	3184,1,1340
 OPPORTUNITÉS MENACES	10712
 OPPOSITION UNITY WITHOUT PRINCIPLE IS JUST	10581
 OPROGEM	10137
+OPS DETAILEDCHANGES REALLOCATION	1228
+OPS TABLE PDO CURRENTPDO Summary Status of Financing	1228
 OPSEC	1000
 OPSED	10714
-OPS_DETAILEDCHANGES_REALLOCATION	1228
-OPS_TABLE_PDO_CURRENTPDO Summary Status of Financing	1228
 OPT-NC and Lynk	2511
 OPTIC	2288,8079
 OPTICALS LTD Data Controller INST-364145F15AE KISUMU	7167
@@ -969,7 +969,6 @@ Open Data Initiatives	3810
 Open Data Institute	747,1,213,1023,3045
 Open Data Inventory	769,8508
 Open Data Kit	1219,2488
-Open Data La	1984
 Open Data Le ROD	748
 Open Data Licensing and Publication Procedures Sectoral	3861
 Open Data L’objectif	1984
@@ -1010,10 +1009,7 @@ Open Data. Généralement	747
 Open Data. Généralisation	9406
 Open Data. Il	747,1
 Open Data. Ils	748
-Open Data. La	1187
-Open Data. Le	748
 Open Data. Le ROD	747
-Open Data. Les	1187
 Open Data. L’objectif	748
 Open Data. Renforcement	9406
 Open Data. Références	748
@@ -1061,7 +1057,6 @@ Open In Whatsapp	9047,1173
 Open In Whatsapp YOU MIGHT	9750,247,623
 Open Innovation	7268
 Open Innovation. Cette	7268
-Open Innovation. La	7268
 Open International	9604
 Open International Bidding	3700
 Open International Market Approach	9603
@@ -1110,6 +1105,7 @@ Open Source Community	985
 Open Source Community Africa	985
 Open Source Maintenance	6468
 Open Source PARAM Supercomputing Cluster	9475
+Open Source Report.pdf GDPR.EU	1243
 Open Source Software and Digital Public Infrastructure	5700
 Open Source Strategy	6468
 Open Source Week	7161
@@ -1126,6 +1122,9 @@ Open Weights and American AI Leadership	8680
 Open Worldwide Application Security Project	7283
 Open Zer	6985
 Open and Public Data	3861
+Open data manuel GgD	1984
+Open data manuel ROD Avril	747,1237
+Open letter ITU AI Commission.pdf	7174
 Open&title	771
 Open-Ended Health Data Sharing	6534
 Open-Ended Mandate	6793
@@ -1140,7 +1139,7 @@ Open-ended	3651
 Open-ended Ad Hoc Intergovernmental Committee of Experts	2117
 Open-source	1261,1464,927,973,1075,637,814,1339,1223,375
 Open-weight	5682
-OpenAI	2379,437,1229,81,350,229,76,191,57,13,174,8,33,107,7,596,510,21,217,93,199,53,87,61,1,242,162,401,205,100,28,1,248,9,39,47,11,86,9,66,162,2,142,115,308,16,822,15
+OpenAI	2379,437,175,1054,81,350,229,76,191,57,13,174,8,33,107,7,596,510,21,217,93,199,53,87,61,1,242,162,401,205,100,28,1,248,9,39,47,11,86,9,66,162,2,142,115,308,16,822,15
 OpenAI AI	8692
 OpenAI Academy	5042,1673
 OpenAI CEO Sam Altman	9027
@@ -1166,9 +1165,7 @@ OpenAI. Codex	5967
 OpenAI. Ele	2816
 OpenAI. Fonte	2816
 OpenAI. GPT-4	6498
-OpenAI. Le	2991
 OpenAI. Microsoft	5967
-OpenAI. O	2816
 OpenAI’s API	7208
 OpenAI’s CEO	5550
 OpenAI’s ChatGPT	6948,1653
@@ -1218,12 +1215,8 @@ OpenStreetMap	1828,5485,1590,663
 OpenStreetMap&author	2096
 OpenStreetMaps	2096
 OpenUp	961,24,5744
-OpenUp’s Data Pipeline for Narrative Storytelling_	6729
+OpenUp’s Data Pipeline for Narrative Storytelling	6729
 OpenUrl	7187
-Open_Source_Report.pdf GDPR.EU	1243
-Open_data_manuel_GgD	1984
-Open_data_manuel_ROD_Avril	747,1237
-Open_letter_ITU_AI_Commission.pdf	7174
 Opendata	747,1,439
 Opendefinition.org	5246
 Opened	3313,1561
@@ -1660,7 +1653,8 @@ Owners and Operators CII	1000
 Oxford Open Digital Health	1824
 P505094 Operation Name	2291
 PHASE Operation ID	3604
-PHASE PILOTE DES OPÉRATIONS DE LA	2342
+PHASE PILOTE DES OPÉRATIONS	2342
+PII. IDCUST DAT CUST OPEN NAM FIRST NAM LAST NAM MID	3364
 PIU’s Operations Manager	2989
 PLA and OpenAI	8510
 POLICY OPTIONS AND INSTITUTIONAL PATHWAYS Policy	4848
@@ -1738,7 +1732,7 @@ Quadro Operacional	5663
 Qualified Opinion	4896
 RELIEF FROM OPPRESSION	3714
 RELIEF FROM OPPRESSION Relief	3714
-RESUMEN DE LAS OPERACIONES FINANCIERAS DEL	4209
+RESUMEN DE LAS OPERACIONES FINANCIERAS	4209
 RIR Services. The Emergency Operator	3503
 RPA. Optical	9237
 RURA’S OPERATIONAL FRAMEWORK	718
@@ -1793,8 +1787,8 @@ SADC Humanitarian and Emergency Operations Centre	9959
 SADC Model Law Part VI Openness	27
 SADC Opportunity For SADC	10570
 SADC Regional and Settlement System Operator	5263
+SAGE Open	5349
 SAGE Open Med	8376
-SAGE Open_	5349
 SAIIA OP	1006
 SARB Opens National System	5691
 SERVICE OPERATORS	5679
@@ -1814,7 +1808,7 @@ SYSTEMATIC OPERATIONS RISK-RATING TOOL	969,315
 SYSTEMATIC OPERATIONS RISK-RATING TOOL Rating	2712,1976
 SYSTEMATIC OPERATIONS RISK-RATING TOOL Risk Category	6579,349,949
 Safe Innovation Open Data Rights	1243
-Sage Open_	2093
+Sage Open	2093
 Sahel. Open	4394
 Sarah Opendi	10066
 Satellite Network Operator License	10407
@@ -1955,7 +1949,7 @@ U.S. Government Operations	4217
 U.S. Special Operations	5141
 UEMOA IMF Institution de Microfinance P2P Opération	4459
 UK’s Mobile Network Operators	5872
-UMA OPORTUNIDADE PARA MOÇAMBIQUE O	2125
+UMA OPORTUNIDADE PARA MOÇAMBIQUE	2125
 UN CADRE ORGANISATIONNEL OPTIMISÉ POUR L’ATTEINTE	2342
 UNCAT and OPCAT	2343
 UNESCO Open Science Partnership	5246

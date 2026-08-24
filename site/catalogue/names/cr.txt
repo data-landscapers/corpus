@@ -39,7 +39,7 @@ AMMAR SAVINGS AND CREDIT CO-OPERATIVE SOCIETY	7167
 ANJOY CREDIT LIMITED Data Controller INST-768105A179F	7167
 ANNUAL CRYPTO INVESTMENT	4602
 ANPFI. Créée	8098
-AP-01_DP-15_WARDIP-2026 Crédit	5983
+AP-01 DP-15 WARDIP-2026 Crédit	5983
 APEC CROSS-BORDER PRIVACY RULES	1243
 APEC Cross-Border Data Rules	6928
 APEC Cross-Border Privacy Rules	1243
@@ -240,19 +240,19 @@ CRASA Executive Secretary	9292
 CRASA Executive Secretary Dr Stanley Shanapinda	9292
 CRASA Human Resources Committee	10337
 CRASA Legal and Policy Committee	9692
+CRASA Study.pdf	544
 CRASA Summit	6052
 CRASA and EACO	961
 CRASA and SADC Secretariats	26,1,1
 CRASA and Southern African Development Community	6052
 CRASA for Southern Africa	5677
-CRASA_Study.pdf	544
 CRASP	8269
 CRATER LAKE COMPANY LIMITED Data Controller	7167
 CRATER VIEW AUCTIONEERS Data Processor INST-6296581CC35	7167
 CRAVE CAPITAL LIMITED Data Controller INST-22360622CA0	7167
 CRAVE CAPITAL LIMITED Data Processor INST-22360622CA0	7167
-CRAWL_LIVECRAWL_TIMEOUT	17,718,801,6009
-CRAWL_UNKNOWN_ERROR	8202
+CRAWL LIVECRAWL TIMEOUT	17,718,801,6009
+CRAWL UNKNOWN ERROR	8202
 CRC Press	7278,1098
 CRC-AENF	2966
 CRDB Bank	2703
@@ -504,6 +504,7 @@ Co-Head of Emerging Market Alternative Credit	9061
 Cocinero B3 Criado A3	4209
 Coglianese and Crum	8283
 Colegio Nacional de Santa Cruz Bata Bata	4209
+College of Economic and Management Sciences CRERC	7278
 Combat Cyber Crime	1777
 Combat Cyber Crime Liberia	1777
 Combat Cyber Crime-----------------------------	1777
@@ -694,7 +695,7 @@ Credit Support and Public-Interest Considerations	4896
 Credit Terms Extended	5247
 Credit Union Cap	1020
 Credit Unions	7760
-Credit-based Al	9781
+Credit-based	9781
 Credit-readiness	9840
 Credit-scoring	6808
 Creditability	7278
@@ -714,7 +715,7 @@ Crescent Tech Ltd Data Processor INST-849295FCFA0	7167
 Crescer Tech	6852
 Crescimento	2816,3158
 Crescimento Económico	2816
-Crescimento Profissional O	2816
+Crescimento Profissional	2816
 Crescimento Sustentável	2816
 Crest Tech Innovation	10180
 Cresta Lodge	1554
@@ -806,7 +807,7 @@ Crisis Management Committee	6938
 Crisis Management Program and Remediation Program	1000
 Crisis Response Window	1228
 Crisis of Imagination	5141
-Crisis of Implementation_	6770
+Crisis of Implementation	6770
 Crisis of Reliability	5854
 Crisis of Substantive Governance	10062
 Crista da Onda	7948
@@ -876,10 +877,9 @@ Critique	7112
 Critiques	961
 Critiques the Nadella	6808
 Critiquez	4960,62,2035
-Critère	748,6206,3754
+Critère	748,439,5767,3754
 Critère Avant ATS Après ATS Délai	6146
 Critère Données	1187
-Critère Les	1187
 Critères	1247,3320,1416
 CrlnoaundcGeoCvoemrnmanitcteeeCommittee PART IV	10157
 Croacia MUSIĆ OREŠKOVIĆ	6613
@@ -1037,7 +1037,7 @@ Crossref Citations	7759,262,1
 Crossref Google Scholar Attride-Stirling J	8460
 Crossref Google Scholar Bareis J	8460
 Crossref Google Scholar Brause SR	8460
-Crossref Google Scholar Gabriel I	8460
+Crossref Google Scholar Gabriel	8460
 Crossref Google Scholar Kowalski RM	8460
 Crossref Google Scholar Messer U	8460
 Crossref Google Scholar Ng DTK	8460
@@ -1205,6 +1205,7 @@ DE LA DISTRIBUCIÓN DE LOS CRÉDITOS	4209
 DEFENCE SAVINGS AND CREDIT CO-OPERATIVE SOCIETY	7167
 DELTAP CREDIT LIMITED Data Controller INST-638440016A6	7167
 DELTAP CREDIT LIMITED Data Processor INST-638440016A6	7167
+DF CRS&df	6982
 DFI. Crosswalk	946
 DHIS2 EIR and CRVS	977
 DICE Technology Fund and DICE Creative Fund	1128,7222
@@ -1221,6 +1222,7 @@ DRAFT CRYPTO ASSET MANUAL FOR CROSS-BORDER	8840
 DRC. Crosswalk	851
 DREAM CREDIT LIMITED Data Controller INST-8882294892E	7167
 DREAM CREDIT LIMITED Data Processor INST-8882294892E	7167
+DSD CRS	6982
 DSTI and CRS Drive Sierra Leone’s Digital	6903
 Dados Criam Oportunidades	8003
 Dan Croft	6932,163
@@ -1440,6 +1442,7 @@ Guarantee Credit Amount Grant Amount SML	1284,583
 Guichet Unique de Création	8065,122,1571
 Gulf. Cross-border	4972
 HIGH Create the Regional Platform for Sharing Information	5677
+HQ cropped.png	6714
 HUMANITARIAN CRISES DEEPEN IN THE CAR	4127
 Haitian Creole	10047
 Hasty Credit	8732
@@ -1567,9 +1570,9 @@ Kumasi Crescent	5678,1
 L'organisation Création des Opportunités	9270
 L.G. Cross-pressured	7886
 LCD Liquid Crystal Display LMGH Levy	34
-LE CRITÈRE CARE Le	8637
+LE CRITÈRE CARE	8637
 LONG TERM Create the Regional Centre of Excellence	5677
-LOS CRÉDITOS PRESUPUESTARIOS CAPÍTULO I	4209
+LOS CRÉDITOS PRESUPUESTARIOS CAPÍTULO	4209
 La CRAN	6241
 Laboratorio Criminalístico	4209
 Land Cruiser FJ Opinion By Andrew	6244,1
@@ -1578,7 +1581,7 @@ Le Guichet Unique de Création	8065
 Legal Crosshairs	8352
 Lei de Crimes Cibernéticos	2816,4920
 Lendable Fintech Credit Fund	624
-Lendable MSME FinTech Credit Fund I	821
+Lendable MSME FinTech Credit Fund	821
 Lendable MSME Fintech Credit Fund	624,197,126
 Lendable MSME Fintech Credit Fund II	4474
 Lendable MSME Fintech Credit Fund USAID	729
@@ -1613,7 +1616,7 @@ MARCHÉS DES INFRASTRUCTURES CRITIQUES	8313
 MARI CRUZ EVUNA ANDEME	1855
 MDAs. Critical	9123
 MEDIA RELEASE CRAN UNVEILS	2022
-MEDICINA CRONICAS NO SOCIAL PATRIMONIO DE	4209
+MEDICINA CRONICAS NO SOCIAL PATRIMONIO	4209
 MERCADOS DEL Y CRÉDITOS REGIONAL K.N	4209
 MICDE Creation	6432
 MICT. CRAN	3410

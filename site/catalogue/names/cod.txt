@@ -6,6 +6,7 @@ African Coding Week	1814
 Age-Appropriate Design Code	7983
 Amend the Personal Income Tax Code	3479
 Amended ICT Sector Code	6183
+American Standard Code for Information Interchange	1984
 Angolan Criminal Code	3722
 Avr. Code	8673
 B-BBEE Code	2937
@@ -59,6 +60,7 @@ Codafis	4209
 Codage	4742
 Codar	7395
 Code Act	1988
+Code Aster Impact Z88	9475
 Code CPV	8643
 Code Civil Mauricien	7845
 Code Codification	7966
@@ -76,7 +78,6 @@ Code Owner N	9124
 Code Pénal	743,488
 Code Pénal. Article	1231
 Code Pénal. Cette	743
-Code Pénal. Le	743
 Code QR	5471
 Code SOP Standard Operating Procedure UHC	9855
 Code Structure Overview	5665
@@ -86,8 +87,8 @@ Code Systems Terminology	6666
 Code Yo Maali Yo	9223
 Code de Douanes	4567
 Code des Collectivités	9287,55
+Code des Hydrocarbures	3191
 Code des Hydrocarbures. Dans	3191
-Code des Hydrocarbures. Le	3191
 Code des Investissements	4567
 Code des Marchés	5907
 Code des Marchés Publics	4567
@@ -116,11 +117,9 @@ Code-SA	10729
 Code. Although the Authority	6946
 Code. Article	4420
 Code. Désormais	3267
-Code. La	7345
 Code.ai	3527
 CodeForAfrica	6055
 CodeLoccol	3395
-Code_Aster Impact Z88	9475
 Codebook	7221,1215
 Coders Eswatini	4866,2821
 Coders and AI Practioners	4866
@@ -264,7 +263,7 @@ Model Law Part XII Code of HIPSSA	27
 Muse Code	8797
 Mwongozo Code	6946
 Mwongozo Code of Governance for State Corporations	6946
-NAMFULL2 ID_ENTITY CODBRANCH Notably	3364
+NAMFULL2 ID ENTITY CODBRANCH Notably	3364
 NITDA Code of Practice	5215
 National Building Codes	1988
 National Code of Corporate Governance for Mauritius	8866

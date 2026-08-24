@@ -143,7 +143,6 @@ AMLCTF	4633
 AMMAR SAVINGS AND CREDIT CO-OPERATIVE SOCIETY	7167
 AMMYRON ENTERPRISES LIMITED Data Processor INST-7155510F793	7167
 AMN PLUS	7463
-AMO La	8891
 AMO-TADAMON	1992
 AMO-TNS	8891
 AMO-Tadamon	8891
@@ -273,9 +272,8 @@ Amadou Drammeh	3066
 Amadou Hampâté Bâ	8750
 Amadou Konia Camara	9326,216
 Amadou Makhtar Fall	2889
-Amadou Oury Bah	2370,939,4312,357,2500,87
+Amadou Oury Bah	2370,939,4312,357,1866,634,87
 Amadou Oury Bah. Avec	3241
-Amadou Oury Bah. La	9844
 Amadou Sy Savané	7926
 Amadumisa	5600
 Amadé Semdé	6889
@@ -412,7 +410,6 @@ Ambassad	737
 Ambassade	2801,685,2774
 Ambassade de France	1679,8348
 Ambassade des Pays-Bas	5899,3967
-Ambassade des Pays-Bas. Les	5899
 Ambassade du Burkina Faso	8321
 Ambassade du Cameroun	4193
 Ambassade du Mali	8237
@@ -632,7 +629,7 @@ American Friends Service Committee Data Controller	7167
 American Historical Review	6997
 American IP	8788
 American Journal of Industrial and Business Management	7759
-American Journal of Sociology_	5349
+American Journal of Sociology	5349
 American Leadership	5216
 American Library Association	8022
 American Low Earth Orbit	4990
@@ -641,8 +638,9 @@ American Political Science Review	2096,5790
 American Secretary of State	1038
 American Security	9284
 American Security’s Technology and National Security	4617
-American Sociological Review_	5349
+American Sociological Review	5349
 American Spaces	9621
+American Standard Code for Information Interchange	1984
 American Telecom	2137,526
 American Tower	3232,4561
 American Tower Corporation	236,8494,311
@@ -665,7 +663,6 @@ American-run	6667
 American-style	8494
 American-written	5216
 American. The Belfer Center	6471
-American_Standard_Code_for_Information_Interchange	1984
 Americanism	5366
 Americans	38,4388,2761,563,1244,635,801,14,2
 Americans and Africans	4787
@@ -737,8 +734,7 @@ Aminata Bangura	4619
 Aminata Camara	9620
 Aminata Camara. L’ambassadrice	9620
 Aminata Kaba	7978
-Aminata Kane	5836
-Aminata Kane. Le	8140
+Aminata Kane	5836,2304
 Aminata Ndiaye Niang	4179
 Aminata Sannoh	9450
 Aminata Touré	5022
@@ -944,8 +940,8 @@ Américo José	2816
 Américo Muchanga	2434,1836,859,259,401,52,536,420,938,265,70,673,64,20,138,260,125,1366
 Américo Muchanga. L’initiative	10226
 Américo Muchanga. Na	8858
+Américo Ramos	5572
 Américo Ramos. Na	5572
-Américo Ramos. O	5572
 Amérique	3268,2477,868,790,267,1221
 Amérique du Nord	2732,951,5449,1073
 Amérique. Cette	8237
@@ -1046,8 +1042,7 @@ Collateral Amounts	4517,2461
 Colombia Ambassador	6963
 Colombia's Ambassador	6963
 Colombian Ambassador	6963
-Colonel-Major Souleymane Amadou Moussa	7374,2294
-Colonel-Major Souleymane Amadou Moussa. Le	9567
+Colonel-Major Souleymane Amadou Moussa	7374,2193,101
 Commentaires Entretien Aminata Touré	5022
 Commissaire Divisionnaire Ousseini Amadou Oumarou	10547
 Commissioner Amani Abou-Zeid	1597
@@ -1055,7 +1050,7 @@ Community of Latin American and Caribbean States	10038
 Compete Amazon	10588
 Competition From Starlink and Amazon	965,3804,120,206,402
 Complexity and Ambiguity	7444
-Computação Em Nuvem Pode Ampliar O	8827
+Computação Em Nuvem Pode Ampliar	8827
 Comércio Ambulante	9403
 Consejo Nacional de Medio Ambiente	1701
 Conselho de Gestão da AMECON	8003
@@ -1099,7 +1094,7 @@ Dickson Amoung-Yam	8696
 Digital Ambassador	2989
 Digital Ambassador Program	906
 Digital Ambassadors	906,2083,615,1049
-Digital Ambassadors Forum. I	7471
+Digital Ambassadors Forum	7471
 Digital Ambassadors Program	1903
 Digital Ambassadors Programme	3243,4254
 Digital Ambassadors Skills Training Programme	2256
@@ -1143,6 +1138,7 @@ E-Waste Exposure Amongst E-Waste Entrepreneurs	1154
 ECOWAS’ Amilcar Cabral Submarine Cable Project	1264
 EHILE Amoi FAITS MARQUANTS Adm MMPE	2342
 EHTP. Par Amine Bouwafoud	8109
+ELC13936 Amazon	7210
 ELECTRONIC COMMUNICATIONS AMENDMENT BILL	5872
 END-USER AND SUBSCRIBER SERVICE CHARTER AMENDMENT	4732
 ES OF AMERICA FEDERAL REPUBLIC Richard	4302
@@ -1510,7 +1506,7 @@ North American and East African	8040
 North and South America	1036,5568
 Notice of Amendment	3714
 Notice of Proposed Amendment	7400
-Nova Infra-Estrutura Amplia Capacidade Tecnológica Da	8827
+Nova Infra-Estrutura Amplia Capacidade Tecnológica	8827
 Numbering Plan Fourth Amendment Regulat	4732
 Numbering Plan Fourth Amendment Regulations	4732
 N’GOM Aminata	2342
@@ -1630,7 +1626,7 @@ Quadro Ambiental	6269
 RECOPILAC. MEDIO AMBIENTE INDUSTRIAL Y GRAL	4209
 RECURRENTin AMha	1784,1,1,1,1,5,2,1,1,1404,1,1,1,1,1,2,1,1,3872,1,1,1,1,1,2,1
 RESULTATS ATTENDUS Amélioration	10712
-RGPH-5. Nassuf Ben Amad Les	10285
+RGPH-5. Nassuf Ben Amad	10285
 Rabat. Par Amal Mountassir	7732
 Radio Amani FM Malinde	10097
 Radio Amateur Examination Certificate	736
@@ -1693,8 +1689,7 @@ Sheikh Dina Amadou	786
 Shiferaw AM	3791
 Sierra Leone. AMIA Annu Symp Proc	766
 Sierra Leone’s Ambassador	9344
-Sistema Nacional de Medio Ambiente La	1701
-Sistema Nacional de Medio Ambiente. La	1701
+Sistema Nacional de Medio Ambiente	1701
 Small States Can Move Differently Ambassador	9741
 Society Division and Ms. Souhila Amazouz	1243
 Somali Ambassador	10184

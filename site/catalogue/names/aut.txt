@@ -29,6 +29,7 @@ AUTHORITY	1920,2865,2667,1947
 AUTHORITY The Information and Communication Technologies Act	22
 AUTHORIZED USE	3861
 AUTHORS S. Name Expertise	9855
+AUTO EDIT SOM ABO&did	5550
 AUTO EXTREME Data Processor INST-856495288C0 KISUMU	7167
 AUTO PARKING SYSTEMS LIMITED Data Controller	7167
 AUTO PARKING SYSTEMS LIMITED Data Processor	7167
@@ -48,7 +49,6 @@ AUTORIZAÇÃO	794
 AUTOSCAN MOTOR ASSESSORS AND VALUERS LIMITED	7167
 AUTOSPAN MOTORS LIMITED Data Controller INST-737918439A2	7167
 AUTOXPRESS LIMITED Data Controller INST-73436397767 NAIROBI	7167
-AUTO_EDIT_SOM_ABO&did	5550
 AUTRES	2342
 AUTRES ACTIONNAIRES	2342
 AUTRES DEMANDES DE RENOUVELLEMENT	998
@@ -407,7 +407,7 @@ Automatic Processing of Personal Data	8776
 Automatically	9123
 Automaticmapping	8606
 Automating	8436,409,392
-Automating_for_End-to-End_Claims_Processing_Whitepaper	9237
+Automating for End-to-End Claims Processing Whitepaper	9237
 Automation	1814,2287,1033,399,132,758,914,704,395,24,513,916,829
 Automation Human-on-the-loop	10726
 Automation NV of Belgium	3561
@@ -477,7 +477,7 @@ Autoridade Central	6970
 Autoridade Competente	6970
 Autoridade Competente da IA	3519
 Autoridade Credenciadora	8309
-Autoridade Geral Aduaneira. O	4747
+Autoridade Geral Aduaneira	4747
 Autoridade Judiciária	794
 Autoridade Nacional	10188
 Autoridade Nacional da Segurança Cibernética	6970
@@ -527,10 +527,8 @@ Autorité de Contrôle des Assurances	568
 Autorité de Gestion des Réparations	8237
 Autorité de Protection	1231
 Autorité de Protection des Données	232,1093,690,2140,818,1106,757,1445,678,83,1198,29
-Autorité de Protection des Données Personnelles	1231,759,2807,1026,916,2007
-Autorité de Protection des Données Personnelles. Les	5546
+Autorité de Protection des Données Personnelles	1231,759,2807,749,277,916,2007
 Autorité de Protection. Article	1231
-Autorité de Protection. Les	1231
 Autorité de RégulatiDn des Communications Electroniques	37
 Autorité de Régulation	998,1788,2967,10,144,1769,135,188,446,720,760
 Autorité de Régulation Multisectorielle de Djibouti	4402
@@ -549,9 +547,7 @@ Autorité des Postes	10691
 Autorité. Article	113,1118
 Autorité. Ce	1214
 Autorité. En	1231
-Autorité. Le	1231
 Autorité. Le Président	113
-Autorité. Les	113
 Autorité. Section	1231
 Autorité. Sous-section	1231
 Autorités	1214,2045,97,675,771,1880,1161,394,1050,55,1369,1
@@ -574,7 +570,7 @@ Autre	737,450,1190,101,280,762,197,348,357,251,21,176,595,792,620,340,157,527,41
 Autrefois	5712
 Autrement	737,2511,390,1255,129,1478,1217,176,34,428,822,54,47,241,196,106,209,160,498
 Autres	643,94,261,249,1095,134,490,571,299,584,475,2368,392,1166,70,158,841,347,163
-Autres Autres Le	7917
+Autres Autres	7917
 Autres Comm Resta	737
 Autres Dépenses67	1682
 Autres Grenier Autre Magasin	737
@@ -817,7 +813,7 @@ Cyber Security Authority and NITA	4488
 Cybersecurity Authority	587,2642
 Cybersecurity Cybersecurity Authority	4126
 D.G. AUTORIDAD AERONAUT.- Concepto	4209
-D.G. AUTÓNOMAS FINANCIERO FINANCIEROS CONTRATOS Y	4209
+D.G. AUTÓNOMAS FINANCIERO FINANCIEROS CONTRATOS	4209
 D.G. DE ENTIDADES AUTONOMAS Y EMPRESAS	4209
 DAO Decentralised Autonomous Organisation	8590
 DATA PROTECTION AUTHORITY P.O. Box MP	1877
@@ -864,7 +860,7 @@ Data Silos Authorized	6432
 Data Youth Authority Protection and Cybersecurity	4126
 Decision Authority	4528,3755
 Decision Authority. Stage	8283
-Declaration and Authorization I	6432
+Declaration and Authorization	6432
 Defining AI and Automated Systems	6442
 Delegation of Authority	940
 Derechos de Autor	9303
@@ -945,9 +941,8 @@ Electronic Communications and Postal Regulatory Authority	3499,697,4425
 Electronic Design Automation	6468
 Electronic Government Authority	8908
 Electronic Money Institutions. Automated Teller Machines	7803
-Electronic Travel Authorisation	4256,891,386,343,320,671,1,676,1055,477,159,15,441,204,163,115,151
+Electronic Travel Authorisation	4256,891,386,343,320,671,1,676,25,1030,477,159,15,441,204,163,115,151
 Electronic Travel Authorisation The Electronic	6867,1
-Electronic Travel Authorisation. When I	7569
 Electronic Travel Authorization	5032,1223,3930
 Elon Musk Independent Communications Authority of South	5808,375
 Embedded Autonomy	5700
@@ -1290,6 +1285,7 @@ MICDE ICT Authority	7548
 MICT SETA's Accounting Authority	7622
 MICT SETA. The National Skills Authority	7622
 MINISTRE AUTORITE DE REGULATION DES COMMUNICATIONS	998
+MISSING AUTHORIZATION HEADER	8676
 MOGO Auto Limited	10313
 MOGO Auto Limited. Article	10313
 Malawi Communications Regulatory Authority	1704,1398,6,570,494,411,26,925,14,504,894,418,47,1,31,43,39,1692,729,464,2,236
@@ -1316,7 +1312,7 @@ Media Authority	6281,1166
 Media Regulatory Authority The Ministry	2311
 Medicines Regulatory Authority ZICTA Zambia Information	34
 Meets the Authority	762
-Merci Byamungu About The Author La	10278
+Merci Byamungu About The Author	10278
 Microfinance Supervisory Authority CEO Insurance Regulatory	6938
 Million Customers Author	7688
 Mines and Technology VRA Volta River Authority	4126
@@ -1517,7 +1513,7 @@ PRIMARY CONSTITUTIONAL AUTHORITY	3861
 PROGRAMMES AUTRES	10712
 PROPOSED CREDIT Public Disclosure Authorized	3604
 PROTECTION AUTHORITY NOT APPOINTED. Fact	4785
-PRÉ-REQUIS POUR UNE AUTONOMISATION DE LA	10711
+PRÉ-REQUIS POUR UNE AUTONOMISATION	10711
 PS3.15 Authentication Authentication	1009
 Pakistan's National Database and Registration Authority	2274,5,2413
 Pakistan’s National Database and Registration Authority	10521

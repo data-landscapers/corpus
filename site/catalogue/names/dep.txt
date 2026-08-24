@@ -176,8 +176,7 @@ DBK Development Bank of Kenya DCS Depository	2775
 DELEG. NAC. DE DEPORTE MILITAR.- Concepto	4209
 DEPA and Article	1243
 DEPART	4209
-DEPART DU DERNIER VOL DE LA	2556,995,1106,1302,1374
-DEPART. DE	4209
+DEPART DU DERNIER VOL	2556,995,1106,1302,1374
 DEPARTAM. ASUNTOS POLIT. Y ADMTIVOS	4209
 DEPARTAM. AUDITORIA	4209
 DEPARTAM. AUDITORIAS	4209
@@ -231,7 +230,7 @@ Daughters of Charity of St Vincent Depaul Data	7167
 DePphlaosyem2e	10157
 Deepening AI Deployment	10630
 Defendant United States Department of State	5692
-Dep_moy	737
+Dep moy	737
 Depart	4775
 Departamento	1701,2508
 Departamento Ministerial	167,382,195,50,3352,1,71
@@ -275,7 +274,7 @@ Departe-	1009
 Departement	1009
 Departing Kenyans	2775
 Departing Visitors	2775
-Department	428,533,48,623,38,140,307,459,38,33,1,185,367,25,39,350,512,483,538,28,358,110,130,99,160,120,280,48,32,274,63,318,237,281,71,1,1,199,295,206,11,11,179,181,288,307,149,100,208,1,264,254
+Department	428,533,48,623,38,140,307,459,38,33,1,185,367,25,39,350,512,483,538,28,358,110,130,99,160,120,104,176,48,32,274,63,318,237,281,71,1,1,199,295,206,11,11,179,181,288,307,149,100,208,1,264,254
 Department ALECSO Charter	2958
 Department Annual	7548
 Department DDiplomatic Mission D Public Company	736
@@ -324,7 +323,6 @@ Department of Communication and Digital Technologies	1695,4488
 Department of Communications	6467,513,157,181
 Department of Communications and Digital	10729
 Department of Communications and Digital Technologies	1912,28,177,1147,1911,23,1,399,371,85,299,479,74,74,116,418,74,14,377,109,43,304,511,730,24,180,55,194
-Department of Communications and Digital Technologies DEL	6832
 Department of Communications. Accenture	428
 Department of Computer Science	766,4647,3191,1779
 Department of Computer Science and Information Technology	10323
@@ -335,7 +333,6 @@ Department of Defense	5216,71
 Department of Digital Communications	1672,977,2999
 Department of Digital Transformation and Fintech Innovation	3965
 Department of Disease Control	10188
-Department of E	6256
 Department of E-Government	1376,2267,1455,1972,2146
 Department of E-Government Prosper Mopiwa	9216
 Department of Economic Development and Tourism	9791
@@ -360,8 +357,7 @@ Department of Government Investment	6946
 Department of Health	396,5137,2485,585
 Department of Health RFD National Health Insurance	1009
 Department of Health Services	7167
-Department of Health and Human Services	7750
-Department of Health and Human Services. But I	4049
+Department of Health and Human Services	4049,3701
 Department of Health and Human Services. The U.S	10446
 Department of Health of Regulations	2626
 Department of Health- Garissa County Data Controller	7167
@@ -771,7 +767,7 @@ Dr. Ruth Kagia Deputy Chief of Sta	899
 Drawing Rights SDHUD State Department for Housing	2775
 EAC Deputy Secretary General	7815,152
 EAC Deputy Secretary General for Customs	6096,746
-EN COURS DEPP La	2966
+EN COURS DEPP	2966
 ENSEÑANZA PROFESIONAL Y DEPORTES	4209
 ENSEÑANZA PROFESIONAL Y DEPORTES Servicio	4209
 ENSEÑANZA Y PROFESIONAL Y DEPORTES	4209
@@ -875,7 +871,6 @@ Home Affairs Dept Budget Vote	6196
 Hon Deputy Minister	4528
 Hon. Deputy Leader	10313
 Hon. Deputy Speaker	10313
-Hon. Deputy Speaker. I	10313
 Hon. Temporary Speaker. The Deputy Leader	10313
 Honourable Deputy Minister Dingumuzi Phuti	4528
 Hospital TAMBO MEMORIAL HOSPITAL EMERGENCY DEPARTMENT	8603

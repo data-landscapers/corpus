@@ -36,8 +36,7 @@ Decisões de IA	2816
 Dependência de IA	2816
 Desafios da IA	2816
 Desenvolvedores de IA	3519
-Desenvolvimento da IA	3519
-Desenvolvimento da IA De	2816
+Desenvolvimento da IA	2816,703
 Desenvolvimento da IA Para	2816
 Desenvolvimento de IA	2816
 Digital de IA	3519
@@ -116,9 +115,7 @@ IA Gouvernance	7123
 IA Hugging Face. Sam Altman	8863
 IA I Deux	8877
 IA Jurisdicional	3519
-IA La	2582,5819
 IA La SNIA-RDC	8445
-IA Le	8096
 IA Le Cameroun	2546
 IA Luanda	6895,1735
 IA Mahuna AKPLOGAN	6395
@@ -126,7 +123,6 @@ IA Mme Djanabou Mahondé	6578
 IA Moderna	2816
 IA Médica	3519
 IA NO TRABALHO	2816
-IA O	2816
 IA O Relatório de Avaliação de Prontidão	2816
 IA Par	7542,187
 IA Plateforme	8637
@@ -173,7 +169,6 @@ IA. Concrètement	2387
 IA. C’est	7613
 IA. D'autres	4607
 IA. Dans	7623
-IA. De	2816
 IA. Dentre	3519
 IA. Depuis	2353
 IA. Desta	3519
@@ -205,9 +200,6 @@ IA. L'enjeu	10205
 IA. L'objectif	5786
 IA. L'organisation	9167
 IA. L'étude	9541
-IA. La	8445
-IA. Le	2353,1472,115,1846,2143,290
-IA. Les	2353,193
 IA. Lors	7122,75
 IA. L’intégration	2582,1358
 IA. Mais	10531
@@ -218,7 +210,6 @@ IA. Neste	2816
 IA. Nota	2690
 IA. Nous	2732,733
 IA. Não	3334
-IA. O	2816,703
 IA. O Canadá	2816
 IA. O Capítulo II	2816
 IA. O ECO. Disponível	2816
@@ -242,11 +233,10 @@ IA. Tabela	2816
 IA. Un	9541
 IA. Varela	2584
 IA. WAT	8219
-IA. Y	8219
 IAAS PAAS SAAS	9123
 IAAS PAAS SAAS CCC-	9123
 IAAS PAAS SAAS H R S	9123
-IAAS PAAS SAAS IP Y	9123
+IAAS PAAS SAAS IP	9123
 IAAS PAAS SAAS S	9123
 IADIS'24	2732
 IAEA General Conference	718
@@ -262,7 +252,6 @@ IAPs Average Revenue Per User	6000
 IAPs Revenue	6000
 IASP International Association of Science Parks ICAO	2775
 IATA Corporate Communications Tel	10723
-IATA. Le	9928
 IATA’s Regional Vice President	10723
 IATF2025	3440
 IATI Datastore	91,57,1007,1084,1
@@ -388,7 +377,7 @@ Sistema de IA	4209
 Sistemas de IA	2816,2847
 Sofisticação da IA	2816
 Sommet Action IA	5029
-Startups de IA. De	2816
+Startups de IA	2816
 Stratégie Nationale IA	5478
 Sub-Categoria da Inteligência Artificial A IA	2816
 Super App IA Gouvernementale	5478

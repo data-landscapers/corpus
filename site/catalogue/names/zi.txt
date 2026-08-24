@@ -1,5 +1,6 @@
 A19 Zimbabwe National Identification System	10714
 ACKNOWLEDGEMENTS The Reserve Bank of Zimbabwe	940
+ADDR 3 ADDR 4 ADDR CITY ADDR STATE ADDR COUNTRY ADDR ZIP	3364
 AI Strategy Zimbabwe’s AI Strategy	6294
 AI Talent and Capacity Development Zimbabwe	4528
 AI and Zimbabwe’s Digital Future	5727
@@ -890,7 +891,7 @@ Zimbabwe-based	4528
 Zimbabwe-registered	36
 Zimbabwe-specific AI Ethics Framework	4528
 Zimbabwe-specific AI Ethics Framework. Pillar	4528
-Zimbabwe. Appendix E	4528
+Zimbabwe. Appendix	4528
 Zimbabwe. Application	736
 Zimbabwe. Appreciation	958
 Zimbabwe. Codes	6666
@@ -913,7 +914,6 @@ Zimbabwe. Given	970
 Zimbabwe. Good	970
 Zimbabwe. Good Governance and Citizens’ Rights EURO	970
 Zimbabwe. Hosted	4528
-Zimbabwe. I	1154,1897
 Zimbabwe. I THANK	3760
 Zimbabwe. Journal of Entrepreneurship	1248
 Zimbabwe. Key	1554
@@ -1031,8 +1031,7 @@ ZinderMagaria	4039
 Zindi	5439,1154,689,543,271,108,348,128,1027
 Zineb Kamri	8244,232
 Zinger Systems	7603
-Ziniaré	3396
-Ziniaré. De	6827
+Ziniaré	3396,3431
 Zinzi Mgqoboka	8597
 Ziora	9237
 ZipIt	5222
@@ -1040,7 +1039,6 @@ Zipline	5456,366,3714
 Zipline International	5456
 ZipporahM	7795
 Ziqoqe Construction	7936
-Ziqoqe Construction. I	7936
 Zirro	9574
 Zite Manager	9772
 Zitemesaqele Qalat	10001

@@ -22,7 +22,7 @@ AGIB Bank	6008
 AGM World Bank	6202
 AI The South African Reserve Bank	8664
 AI and Education. World Bank	6948
-AIO_e_Web-1.pdf. Bank for International Settlements	6938
+AIO e Web-1.pdf. Bank for International Settlements	6938
 ANNOBON BANEY PERIFERIA	4209
 APT Band Plan A5	7368
 ASSOCIATION OF AFRICAN CENTRAL BANKS	4103
@@ -140,7 +140,7 @@ Africa’s Export-Import Bank	560
 Afrika Banque	5324
 Afriland First Bank	3779,1254,3323
 Afriland First Bank Cameroun	8356
-Agreement Establishing the Bank. I	1818
+Agreement Establishing the Bank	1818
 Agricultural Bank	9588
 Agricultural Bank of Sudan	9587
 Agricultural Development Bank	789,6906
@@ -268,7 +268,6 @@ Banco Internacional de São Tomé	7156
 Banco Millennium BIM	2816
 Banco Millennium BIM. Fonte	2816
 Banco Mundial	574,221,381,92,433,247,633,235,711,31,31,249,598,1285,548,156,1241,37,33,56,89,64,103,3,543,181,52,52,679,1,135,152,63
-Banco Mundial. E	2816
 Banco Mundial. Entre	1268
 Banco Mundial. Segundo	7666
 Banco Mundial.A	7945
@@ -311,7 +310,6 @@ Band VHF Alarm	6946
 Band of Operation	736
 Banda	3791,418,731,2493,453
 Banda Ancha	9543
-Banda I	3791
 Banda Larga Nacional	5272
 Banda-C	1215
 Banda-Ka	1215
@@ -355,8 +353,7 @@ Banfora	3396,1695
 Banfora. Ces	8098
 Banfora. Cette	3316
 Banga	1243
-Banga Kayo	3191,259,309,108,6361
-Banga Kayo. La	2738
+Banga Kayo	2738,453,259,309,108,6361
 Bangalore	3100,2600,1365,1141
 Bangalore. MOSUP	7065
 Bangani and Moyo	9969
@@ -381,16 +378,13 @@ Bangladeshi	7679,2349
 Bangladesh’s Aspire	5700
 Bango	9569
 Bango Market Day	9569
-Bangui	969,19,201,69,422,126,101,48,45,211,112,43,508,15,18,157,13,273,18,106,538,95,20,78,26,49,47,8,539,115,146,4,177,119,26,395,73,44,212,148,49,97,132,63,1389,105,340,769,1,1,336,303,335,20,29
+Bangui	969,19,201,69,422,68,58,101,48,45,211,112,43,508,15,18,157,13,273,18,106,538,95,20,78,26,49,47,8,539,115,146,4,177,119,26,395,73,44,212,148,49,97,132,63,747,642,105,340,769,1,1,336,303,335,20,29
 Bangui-Douala	1189
 Bangui. CAR	572,397
-Bangui. Du	1748
 Bangui. Enrolment	1258
 Bangui. Ici	1806
 Bangui. Il	2739
 Bangui. L'enregistrement	1258
-Bangui. Le	7421
-Bangui. Les	9918
 Bangui. Mais	4334
 Bangui. Selon	2071
 Bangura	3895,6327,422
@@ -488,7 +482,6 @@ Bank of Central African States BCEAO Central	2775
 Bank of China	125,119,1,1,1,55,1,8,5,1,20,1,1,81,1,130,2,2283,1520,3233,2004,776
 Bank of China Décret N	311
 Bank of China Johannesburg Branch	10618
-Bank of China Le	311
 Bank of China for Phase	244,1,71,1
 Bank of Commerce and Development	4746
 Bank of Eritrea	6984
@@ -555,7 +548,7 @@ Bank of Uganda. Priority	1262
 Bank of Uganda. The Central Bank	3238
 Bank of West African States BMI Body	2775
 Bank of Zambia	22,918,927,1881,1469,30,982,1810,338,1139
-Bank of Zambia Bank of Zambia DA	1867
+Bank of Zambia Bank of Zambia	1867
 Bank of Zambia Board	6938
 Bank of Zambia Governor Patrick Mvunga	194
 Bank of Zambia Retail Payment Clearing Systems	6938
@@ -669,7 +662,7 @@ Bank’s Grievance Redress Service	1284,583,1022,3650
 Bank’s Vice President for Digital Transformation	10451
 BannedBlockedMTN South SudanZain South Sudan	2313
 Banner Ads	10025
-Banner_podcast_4.gif	5752,962,1,214,78,28,33,78,31
+Banner podcast 4.gif	5752,962,1,214,78,28,33,78,31
 Bannister	2096,3604
 Bannister and Connolly	5700
 Bannual	3782
@@ -689,7 +682,6 @@ Banque Centrale de Mauritanie	9656
 Banque Centrale des Comores	1854,606,3585,14,87
 Banque Centrale des Etats	3604,7107
 Banque Centrale du Congo	5836,207,3254
-Banque Centrale. Les	6942,1374
 Banque Centrale. Quid	2623
 Banque Congolaise	1828
 Banque Européenne	7668
@@ -697,11 +689,9 @@ Banque GIM-UEMOA Groupement Interbancaire Monétique	4459
 Banque Islamique de Développement	2342,466,349,2213,4902
 Banque Marocaine du Commerce Ext-rieur	10718
 Banque Misr	3451
-Banque Mondiale	737,6,4,1,1245,815,349,213,955,1658,85,78,319,1158,845,88,335,395,11,109,262,732,311,1
-Banque Mondiale Le	6068,2488
+Banque Mondiale	737,6,4,1,1245,815,349,213,955,1658,85,78,319,140,1018,845,88,335,395,11,109,262,732,311,1
 Banque Mondiale Table des Matières Version	1187
 Banque Mondiale. Dans	2768
-Banque Mondiale. Le	6465,140
 Banque Mondiale. Opérationnel	6146
 Banque Nationale	2342,4764
 Banque Nationale Agricole	10692
@@ -717,7 +707,6 @@ Banque de Développement Local	4887
 Banque de Développement du Mali	8103,349
 Banque de France	2460
 Banque de Maurice	4894
-Banque de Maurice La	4894
 Banque de Sierra Leone	10447
 Banque des Dépôts du Trésor	3396
 Banque des Etats	969,330,4441,155,1368
@@ -949,8 +938,7 @@ Chief Executive of Stanbic Bank Ghana	8928
 Chikondi Banda	10358
 China Citic Bank	1430,714
 China Citic Bank Corporation	1430,714
-China Citic Bank Corporation LTD	1430,714
-China Citic Bank Corporation LTD. Le	4356
+China Citic Bank Corporation LTD	1430,714,2212
 China Citic Bank Corporation LTD. Selon	4356
 China Construction Bank	340,1074,6175
 China Construction Bank Corporation	1414,2942
@@ -1117,7 +1105,6 @@ Digital Trade Finance. Deutsche Bank Corporate	10718
 Digital Transformation of Cameroon Project World Bank	773
 Digitale Transformation Westafrika KfW Development Bank	900
 Directeur Général de Banque Atlantique Niger	6883
-Directeur Général de Banque Atlantique Niger. De	6883
 Direito. Banco de Moçambique	6462
 Disclaimer the African Development Bank	5247
 Discovery Bank	5533,58,1662,31
@@ -1282,6 +1269,7 @@ GDP. The World Bank	2374
 GHz Band	736
 GHz Bands	736
 GIMAC Central Bank of Egypt Egyptian Banks	6938
+GISEC26 Banner15	9799
 GIZ and World Bank	1264
 GPP Band	7368
 Gabon Digital. Both ANINF and World Bank	6779
@@ -1495,7 +1483,6 @@ M World Bank-supported	7707
 M and Bannister	2096
 M. World Bank	852
 MAVHUTO BANDA	5098,2133
-MAVHUTO BANDA_	7231
 METIX The Bank of Mozambique	5406
 MHz Band	6946
 MICTPCS ZIMCHE Reserve Bank of Zimbabwe Academia	958
@@ -1504,8 +1491,8 @@ MSMEs. Dashen Bank	8671
 Macro and Micro Correlates of World Bank Project	1264
 Madagascar Project World Bank Group	1199
 Madagascar Statistical Capacity Building World Bank	222
+Mady Bangoura	9845
 Mady Bangoura Correspondant	9845
-Mady Bangoura Le	9845
 Malawi Digital Foundations Project World Bank	230
 Malawi Secures World Bank Backing	5548
 Malawi. With the Instant Bank Transfer	3035
@@ -1884,7 +1871,7 @@ Seychelles Commercial Bank Confirms Customer Data	3279,85
 Seychelles. The Development Bank of Seychelles	3364
 Shenzhen Branch of Bank of China	303,34,7252
 Short Range and Utrawide Band Devices	736
-Sidian Bank	143
+Sidian Bank	143,237
 Sidian Bank Kenya	380
 Sidian Bank Kenya Convertible Loan for Digital	380
 Sidian Bank Kenya Digital Banking Tier	143
@@ -2086,7 +2073,7 @@ United Nations and World Bank. This MIP	970
 Unity Bank Plc. Last	4771
 University of Bangui	1189,1718,2546
 University of Pretoria and Standard Bank	7210
-Université de Bangui. La	2907
+Université de Bangui	2907
 Used Bandwidth	2830
 Used International Bandwidth	6671
 Used International Bandwidth Growth	2830
@@ -2421,7 +2408,6 @@ World Bank's Statistical Performance Indicators	7151
 World Bank's US	2251,6450
 World Bank's WURI	6251
 World Bank's Zimbabwe Economic Update	3385
-World Bank's_	7358
 World Bank-	1264,2340
 World Bank- and UNDP-backed	3091
 World Bank-IMF Debt Sustainability Analysis	238
@@ -2489,7 +2475,6 @@ World Bank. Table A1.1	3604
 World Bank. Telemedan	2380
 World Bank. The AI Teacher Coach	8609
 World Bank. The Accelerating Digital Transformation	4963
-World Bank. The DA	1264
 World Bank. The E&S	1867
 World Bank. The EARDIP	3238
 World Bank. The Procurement Specialist	1284

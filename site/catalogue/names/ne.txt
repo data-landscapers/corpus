@@ -1,7 +1,7 @@
 ACCESS Newswire	9735
 ACE Electoral Knowledge Network	10714
 ACE Electoral Knowledge Network Constitute Project	10062
-ADDFIN_TABLE Urgent Need	1284
+ADDFIN TABLE Urgent Need	1284
 AFRICA DAFFODIL NETWORK LIMITED Data Processor	7167
 AFRICABLE NETWORK SA	998
 AFRICAN NETWORK INFORMATION CENTRE	8866
@@ -113,7 +113,7 @@ Alto Consejo de Negocios	4209
 Amajuba Newcastle Internet of Things	6832
 Analysis and News. Get	2339
 Andries Nel	8521
-Angel Networks Family O	4972
+Angel Networks Family	4972
 Angola and EDGE Group Near Border Security	9399
 Angola's National Broadband Network	1088
 Annual Net Profit Before NCI Deductions	5869
@@ -219,6 +219,7 @@ CEO de Nexus Core Systems	5745
 CEO of Nexus Core Systems	3049
 CEO of Nexus Inc	8644
 CIDRZ Hosts Uganda’s R2D2 TB Network	10374
+CLIMATE CHANGE AND ADAPTATION NEEDS	1828
 CLINICAL RESEARCH HEALTH NETWORK LIMITED Data	7167
 CLINICAL TRIAL NETWORK	7845
 CLOSE Online Special City News Entrepreneurship	9878
@@ -235,7 +236,6 @@ Cameroon Adaptive Safety Nets and Economic Inclusion	971
 Cameroon's Camtel Expands Fiber Network and Fixed	3528
 Camunda News	5211
 Capacity Accelerator Network	6729
-Capacity Accelerator Network_	6729
 Cape Business News	10243
 Capital News	10025
 Capitalethiopia News In Brief	10025
@@ -356,6 +356,7 @@ Cross-Border Fiber Network Ethio	4975
 Customers M-PESA Network People	7204
 Customers. Network and Infrastructure Security Cloud	9123
 Cyberspace Network Ltd	3862,2887
+D The Network Access Support Project	182
 DAILY NEWS Reporter	8276
 DAILY NEWS Reporter DAR ES	10460
 DAILY NEWS ReporterApril	5771
@@ -370,7 +371,6 @@ DRC Launches Data Protection Officers Network	5425
 DTT Broadcasting Network Development Project	2217,1251
 DTT Networks	6946
 DU RÉSULTAT NET CUMULÉ DES ENTREPRISES	2342
-D_ The Network Access Support Project	182
 Daddy’ Release Next Article CEPI	9989
 Dados. Nesse	2816
 Daily News	4553,1144,228,3534
@@ -436,7 +436,7 @@ Drive Rural Network Expansion	5390
 Détériorée Ne	6959
 Développement Women Leaders Network for Development	8713
 D’accord Neutre Pas	6959
-E HUMANOS NECESSÁRIOS PARA IMPLEMENTAÇÃO DA	3519
+E HUMANOS NECESSÁRIOS PARA IMPLEMENTAÇÃO	3519
 E Never	5679
 E-National Higher Education Network Project	125
 E-National Higher Education Network Project Export-Import	125
@@ -542,6 +542,7 @@ Fiji NEMANI	6613
 Files By Central News Reporter	5597
 Finance Neighbourhood Investment Platform	1818
 Financement du NEKKAL	3381
+Financial NewsDocs	8408
 Fingaz SMS News	9253
 FingazLive SMS News	9253
 Fintech News Africa	4848
@@ -1016,6 +1017,7 @@ N Neutralidade Tecnológica	2866
 N25.85bn. Punch Newspapers	4848
 NAMIBIA NEWS ROOM	9485
 NCC's Technical Standards and Network Integrity Department	9564
+NCCPolicy New1.pdf	7173
 NDC Nationally Determined Contribution NPV Net	1264
 NDPA NDPC NEPC NERC NIMC NITDA	10157
 NDU National Defence University NEMA National	2775
@@ -1058,7 +1060,7 @@ NEET Malgré	8891
 NEFZAOUIA	2696,279
 NEGOC	4209
 NEI-CEDA	2342
-NEJM Evid._	7836
+NEJM Evid	7836
 NEKKAL	6882
 NELFUND	2536
 NEMA MICDE	7548
@@ -1408,7 +1410,7 @@ Netanyahu	4885,49,187,1152,547
 Netasq	8678
 Netblocks	4753
 Netfinity Ltd	3862
-Netflix	571,182,285,226,1552,586,240,140,444,933,408,235,209,223,243,86,97,288,177,661,344,306,59,43,7,401,1299,236
+Netflix	571,182,285,226,1552,586,240,140,444,447,486,408,235,209,223,243,86,97,288,177,661,344,306,59,43,7,401,1299,236
 Netflix Membership Information Request Response	8436
 Netflix and DStv	8130
 Netflix and Showmax	4150
@@ -1417,7 +1419,6 @@ Netflix and TikTok	10047
 Netflix and YouTube	3782
 Netflix' DDP	8436
 Netflix-owned	10481
-Netflix. Les	4673
 Netflix. L’institution	6234
 Netflix’s Global Top	10481
 Netherlands	186,64,96,117,162,1,163,44,1,136,66,27,1,72,960,629,199,1523,170,355,203,127,900,315,24,72,236,5,92,252,533,28,127,80,606,140,227,607,6,187,853,122
@@ -1623,8 +1624,7 @@ Never Ncube	3111
 Never Sibanda	8639
 Never-ending	10394
 Nevertheless	766,23,172,1,8,725,133,289,190,606,379,499,335,24,57,801,234,2,23,289,39,105,186,33,285,153,220,150,211,11,48,1025,414,90,48,31,1,170,12,150,141,49,114,42,65,390,230,80,50,37,52,276,250,4
-Neves	7452
-Neves AL	771
+Neves	771,6681
 Neves&author	771
 Neville Alexander Building	3654
 New-born	970
@@ -1637,12 +1637,10 @@ NewSpace	2125,4048
 NewTrails Capital	7015
 NewZimbabwe.com	3352,2381,2686,557
 NewZimbabwe.com Facebook Instagram Youtube Sign	5733
-New_Home_Page	3604,2935
 Newbold	236
 Newborn	771,106,3276,107,5928
 Newborn and Child Health	200,453
 Newcastle	2719,677,813
-Newcastle Les	3396
 Newcomer	8603
 Newgry Money Tree	8732
 Newly	718,510,2321,55,1049
@@ -1666,7 +1664,7 @@ News Cabo Verde	7795
 News Cauridor Deepens West Africa Push	9811
 News Centralised	6121
 News Constitutional Court	5422
-News Culture Moroccan Filmmaker and Rapper El	5407,676
+News Culture Moroccan Filmmaker and Rapper	5407,676
 News DNA	7264
 News DR Congo Plans National Strategy	9924
 News Deal Technologique. Cet	3120
@@ -1730,9 +1728,9 @@ News and Development Journalist. Johannesburg	7604
 News and Development JournalistJohannesburg	5411
 News and Press Releases	1962
 News-	6133
-News-Details_593856-2.html	460
-News-Details_638592-2.html	618,3
-News-Details_695616-2.html	813,16
+News-Details 593856-2.html	460
+News-Details 638592-2.html	618,3
+News-Details 695616-2.html	813,16
 News-and Events	4127
 News. Stay	3955,220,433,224,1245,2470,106,8,26,337
 News.Az	7220
@@ -1758,7 +1756,7 @@ NewsPix	6638
 NewsR	2160
 NewsWatch	7958
 Newsday Zimbabwe	2888,32,354,504,1444,877,6,100,680,129,293,115
-Newsfeed	2826,644,472,382,237,41,199,1068,45,1057,313
+Newsfeed	2826,552,92,472,382,237,41,199,1068,45,1057,313
 Newsfeed Although Eswatini	3964
 Newsfeed Amazon Leo	7382
 Newsfeed Amazon Web Services	2277
@@ -1795,7 +1793,6 @@ Newsfeed The Nigerian Communications Commission	2293
 Newsfeed Wave	3151
 Newsfeed Welcome	5054,2052,177
 Newsfeed When African	6583
-Newsfeed When I	3378
 Newshaus	5402
 Newsletter	8674,269,24,158
 Newsletter Keep	3364
@@ -1839,7 +1836,6 @@ Next Generation Radio Frequency Spectrum	5872
 Next Horizon	3487,1341,70,235,200,2017,48,290,850,1,380,610,1054,120
 Next Horizon Three-Year Strategy	3487
 Next Horizon Year	9532
-Next I	5513
 Next Leap Ctech Testimonials Projects	10068
 Next Media Group Chief Executive Officer	7874
 Next Media Park	8284,446
@@ -1954,7 +1950,7 @@ Packet-Switched Networks	10721
 Palo Alto Networks	4434,1968
 Pan Africa Network Group	6946
 Pan-African Terrestrial Fibre Optic Network Africa50	1048
-Par ONEP NE Les	7993
+Par ONEP NE	7993
 Parliament. Next Order. QUESTIONS AND STATEMENTS	10313
 Parliamentary Network Africa	9191
 Part of National AI Push NetOne Turns	3965
@@ -1996,6 +1992,7 @@ President Netumbo Nandi-Ndaitwah	2626,2788,1695,17
 Prestigious Euromoney Awards NetOne Steps Up	2987,16,2400,1506
 Prev Next	10220
 Previous Post Next Post	5903
+Prince NedNwoko	5363
 Print Disabilities Area Networks	6946
 Print Next	7343
 Private Cloud VPN Virtual Private Network	6432
@@ -2109,9 +2106,9 @@ Résultat Net	2342
 S.E. Nelly Banaken Elel	8906
 SABC's News Channel	1810
 SASSA’s Nebo	7500
-SCIENCE_ADVISER NEWSLETTER	6997
+SCIENCE ADVISER NEWSLETTER	6997
 SCRYPT Expands Stablecoin Settlement Network Across	7378
-SIGRHEP Par ONEP NE La	8227
+SIGRHEP Par ONEP NE	8227
 SIM Card Surveillance and Network Facility	6946
 SIM Network-layer	6593
 SUDAN One Net Area	9781
@@ -2150,8 +2147,7 @@ Serviço da Cidadania Necessidade	3048
 Several Fighters Neutralised	4738
 Seychelles News Agency	1884,8,5967,1820
 Seychelles News Agency. Complementary	1884
-Shanghai Nenghui Technology	7456
-Shanghai Nenghui Technology. Le	7715
+Shanghai Nenghui Technology	7456,259
 Shaping Africa's Next Growth Chapter Africa	7596
 Shared Agent Network Expansion Facilities	3735
 Shareholders Equity Addition PPE Revenue Net	1944

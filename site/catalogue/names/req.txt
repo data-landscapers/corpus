@@ -44,7 +44,7 @@ Citing Security and Equipment Traceability Requirements	5973
 Civilian and Non-Civilian Uses Require Clear Boundaries	7548
 Cloud Service Provider Requirements	6432
 Co-Investment Requirements	4167,35,15,43,41,48,1003
-Complex Processes and Unknown Requirements._	4439
+Complex Processes and Unknown Requirements	4439
 Compliance Requirement All	6432
 Compliance Requirements Compliance Level Score Regulations	5665
 Content Required	6432
@@ -115,6 +115,7 @@ LICENSING REQUIREMENTS Section	2913
 Legacy System Migration and Compatibility Requirements	3861
 Legal Publication and Official Gazette Requirements	3861
 Legal Requirements Data Protection Act	6432
+Legal and Regulatory Compliance Requirements NIMC.pdf	4794
 License Application Conditions and Requirements	762
 License Requirement	762
 Licensing Requirements	6940
@@ -141,7 +142,7 @@ Nigeria Request	5692
 Nigeria Request. State	5692
 Non-Consulting Services Requirements	1638
 Non-Functional Requirements	5665
-Normalise_structure_XML Require	8606
+Normalise structure XML Require	8606
 Notificação de Incidentes SECÇÃO I Requisitos	6970
 Now Requires Government ID From Users	3016
 OBRIGAÇÕES E REQUISITOS A OBSERVAR PELOS	3519

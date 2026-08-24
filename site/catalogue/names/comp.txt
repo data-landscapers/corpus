@@ -196,6 +196,7 @@ Board T.A. Ngowe Group Company Secretary	4263
 Board. Company	8866
 Bolster Digital Trust and Compliance	2987
 Bond Issuance Composition	1828
+Bond Issuance Composition 7	1828
 Boost Competition	7400
 Boris Compaoré	4234
 Boticas Compra	9990
@@ -220,13 +221,13 @@ C. Complaint Monitoring Consumer	5676
 C02 Complex	9237
 CAB-25 COMPTE RENDU DU CONSEIL DES	2738,453,135
 CAGR Compound Annual Growth Rate CCG	1818
-CALIDAD COMERC. TRATADOS COMPETITIVIDAD CONTROL DE	4209
+CALIDAD COMERC. TRATADOS COMPETITIVIDAD CONTROL	4209
 CAPEX Capital Expenditure CD Compact Disc	6432
 CAPEX LIFE ASSURANCE COMPANY LIMITED Data	7167
 CAPI Computer Assisted Personal Interview Figure	582
 CAPITALISATION OF PROFIT COMPANIES	3714
 CAPITALISATION OF PROFIT COMPANIES Legal	3714
-CAPÍTULO II COMPETÊNCIAS NA PROMOÇÃO DAS	15
+CAPÍTULO II COMPETÊNCIAS NA PROMOÇÃO	15
 CAPÍTULO II COMPOSIÇÃO	4147
 CAPÍTULO II Competências	15
 CAR Component African Development Bank	174
@@ -270,7 +271,7 @@ COMESA Competition Authority	4583
 COMESA Competition Commission	9817
 COMESA Competition Regulations and Competition Rules	961
 COMPAGNIE IVOIRIENNE DE PRODUCTION D’ÉLECTRICITÉ Gestion	2342
-COMPAGNIE IVOIRIENNE POUR LE DÉVELOPPEMENT DU	2342
+COMPAGNIE IVOIRIENNE POUR LE DÉVELOPPEMENT	2342
 COMPAGNIE MINIERE DU BAFING Gestion	2342
 COMPAGNIE MINIÈRE DU LITTORAL Gestion	2342
 COMPANIES	3714
@@ -542,7 +543,7 @@ Company's Articles of Association	4896
 Company's Board of Directors	8939
 Company's FY2025	4896
 Company's Memorandum and Articles of Association	4896
-Company's Registered O	4896
+Company's Registered	4896
 Company's Schedule	8939
 Company's TND-labelled	1818
 Company-Profile.pdf. Acesso	2816
@@ -820,7 +821,7 @@ Complex	571,40,350,200,1787,1029,1699,3407
 Complex Business-To-Business Services	5349
 Complex Emergencies. Shabaka Working Paper. Accessed	6947
 Complex Financial Interdependencies	9511
-Complex Processes and Unknown Requirements._	4439
+Complex Processes and Unknown Requirements	4439
 Complex Systems	2948
 Complex World	4827
 Complexe	2342,7888
@@ -914,8 +915,8 @@ Components Consumer Services Pharma	4972
 Components Cost	3604
 Components Monitoring	1867
 Components Organizations Borrower	3562
-Components RESULT_FRAME_TBL_ IO Indicator Name PBC	1284
-Components RESULT_FRAME_TBL_IO Indicator Name PBC Baseline	1228
+Components RESULT FRAME TBL IO Indicator Name PBC	1284
+Components RESULT FRAME TBL IO Indicator Name PBC Baseline	1228
 Components Resilient Digital Infrastructure Baseline Actual	4688,3189
 Components Sustainability Mechanism Component	6539
 Components Transportation Consumer Services Distribution	4972
@@ -933,7 +934,6 @@ Composante	1649,3721
 Composante B	5370
 Composante C	5370
 Composante D	5370
-Composante E	5370
 Composante F	5370
 Composante G	5370
 Composante Mauritanie	5983
@@ -1047,7 +1047,7 @@ Computational Fluid Dynamics OpenFOAM Free CFD	9475
 Computational Intelligence	8022
 Computational Sovereignty Zimbabwe National AI Strategy	4528
 Computação	2816,7324
-Computação Em Nuvem Pode Ampliar O	8827
+Computação Em Nuvem Pode Ampliar	8827
 Computação Evolutiva	2816
 Compute	2092,865,1777,895,951,13,558,397,183,395,993,958
 Compute AI	5297
@@ -1070,9 +1070,8 @@ Computech Institute	9082
 Computech Limited Data Controller INST-933817C4FDC NAIROBI	7167
 Computech Limited Data Processor INST-933817C4FDC NAIROBI	7167
 Computeconfusionmatrixentries	8606
-Computer	26,8,192,10,346,155,46,217,154,942,5521,405,1594,276
+Computer	26,8,192,10,346,155,46,217,154,939,3,5521,405,1594,276
 Computer Applications	10001
-Computer Applications. I	10001
 Computer Assisted Personal Interview	582,3462
 Computer Assisted Personal Interview1	4040
 Computer Assisted Telephonic Interview	4044
@@ -1154,7 +1153,6 @@ Computer-Assisted Personal Interviewing	6106,4179
 Computer-related	582,201,6994
 Computer-related Forgery	26
 Computer-related Fraud	26
-Computer_	2093
 Computerisation	1660,1,1,1,1,1,1,1,1,1,5,1,964,2992,4
 Computerisation P42	5634
 Computerised	9237
@@ -1171,9 +1169,8 @@ Computing Platforms	1814
 Computing Power Hub	5242
 Computing Research Association	4253
 Computing Systems	4439,4021
-Computing Systems_	4439
 Computing Technology	9816
-Computing and Sustainable Societies_	4439
+Computing and Sustainable Societies	4439
 Computingthecorrelationbetweenageandweightyields	8606
 Computitional Center for IOT Project Expansion	7085
 Compétences	1218,7673
@@ -1510,7 +1507,7 @@ Features and Compatibility	9855
 Federal Competition	7469
 Federal Competition and Consumer Protection Act	3538,3643,288,91,216,872
 Federal Competition and Consumer Protection Commission	2459,1079,404,1142,1437,589,69,2,228,151,216,515,296,76,1154,754
-Fev. COMPTE_RENDU_DU_CONSEIL_DES_MINISTRES_DU_JEUDI_13_FE	8673
+Fev. COMPTE RENDU DU CONSEIL DES MINISTRES DU JEUDI 13 FE	8673
 FinTech Companies and Payment Service Providers RMAFC	9750
 Finance and Tax Compliance Processes	8670
 Finances of Companies Tribunal	3714
@@ -1599,7 +1596,7 @@ Greater Pioneer Operating Company	3583
 Green Compute	7548
 Green Computing	7715
 Group Company Secretary	4896
-Group Company Secretary and Registered O	4896
+Group Company Secretary and Registered	4896
 Guideline. Compliance and Enforcement NITDA	5665
 Guinea Guinea-Bissau Mauritania Total Component	1264
 Guinea-Bissau Tax Compliance	1698
@@ -1754,7 +1751,7 @@ Journal of Computer-Mediated Communication	8460
 Journal of Computing	8602
 Journal of Mathematics and Computing Science	8604
 Journal of Mobile Computing and Application	9616
-Journal of Organizational Computing and Electronic Commerce_	4432,917
+Journal of Organizational Computing and Electronic Commerce	4432,917
 Journal of Parallel and Distributed Computing	8605
 Jun-2024. Component	1704
 Junho. Complementando	4146
@@ -1805,6 +1802,7 @@ Legacy System Migration and Compatibility Requirements	3861
 Legal Audit and Compliance Directive	3861
 Legal Compliance	6432
 Legal Protection of Computer Programs	5700
+Legal and Regulatory Compliance Requirements NIMC.pdf	4794
 Legislation Interpretation Relevance Compliance	1988
 Legislation Interpretation Relevance Compliance The Gender	1988
 Lesotho. Procedia Computer Science	8605
@@ -1910,6 +1908,7 @@ NATURE OF THE COMPLAINT	2709
 NCC Comprehensive Cybersecurity Framework	10721
 NCC's Computer Security Incident Response Team	5677
 NCC’s Computer Security Incident Response Team	5308
+NDP6-Policy-Document compressed.pdf. NUST	5036
 NHSRII Compact	4301
 NITDA's National Cloud Computing Policy	9877
 NRD Companies	3907
@@ -2039,7 +2038,7 @@ PKF Financial Consulting Services Zambia. Compliance	10628
 POLICY COMPLIANCE Does	3562
 POLICY COMPLIANCE Policy Does	1867,1737,2935
 POPIA Compliance Framework	6632,95
-POURQUOI CELA COMPTE La	8637
+POURQUOI CELA COMPTE	8637
 PPAA Complaints and Appeals Module	8616
 PRIDA Component	285
 PRINTED BY GHANA PUBLISHING COMPANY LTD	587
@@ -2071,7 +2070,7 @@ Personal Computers Entities	6432
 Phase Timeline Complexity Level Risk Level	6432
 Planning CONSUMER PROCESS Compare	418
 Plataformas de Computação	6970
-Platform Group Company Secretary and Registered O	4896
+Platform Group Company Secretary and Registered	4896
 Police Comptroller General Cheick Keita	3823
 Police Public Complaints Commission. The Ministry	1988
 Policy Compliance	3503
@@ -2093,8 +2092,7 @@ Prisma Construction Company	5394
 Private Company	736
 Private Sector Competitiveness Project	2674
 Privinvest Companies	1829
-Procedia Computer Science	226,8379,523,1
-Procedia Computer Science_	5349
+Procedia Computer Science	226,5123,3256,523,1
 Procurement Without Competition	9650
 Professor of Comparative Criminal Law	10270
 Project Company	2253,1203,1378,4149
@@ -2302,7 +2300,7 @@ Systèmes de Comptage Avancé	1993
 TAT COMPARATIF DE L'ÉVOLUTION DES COMPTES	4459
 TEAM COMPOSITION AND MINIMUM QUALIFICATION	3678
 TEUT and CERPIT. This Competitive	9129
-TG_Regulamento de Centro de Computacao	2437
+TG Regulamento de Centro de Computacao	2437
 TMS FINC SKILL OC COMPED VENDOR	9129
 TRIBUNAL Establishment of Companies Tribunal Appointment	3714
 TWGs Composition Each TWG	7548

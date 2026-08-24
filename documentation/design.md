@@ -76,7 +76,7 @@ The first two live in this repo (Corpus); paths above are relative to it. Moved 
 
 ## 6. Open
 
-- **Serving shape of the catalogue.** ~7.2 MB JSON at 9,407 records; ~23 MB at the 30,000 projected for spring 2027. A single fetch stops being defensible around 15–20k rows. `raw/` is already sharded by year, so sharding the catalogue the same way is nearly free — but the boundary is expensive to move once anything external consumes the file. Decide before launch, not when it breaks.
+- **Serving shape of the catalogue.** ~7.2 MB JSON at 9,407 records; ~23 MB at the 30,000 projected for spring 2027. A single fetch stops being defensible around 15–20k rows. `raw/` is already sharded by year, so sharding the catalogue the same way is nearly free — but the boundary is expensive to move once anything external consumes the file. Decide before launch, not when it breaks. *(Two consumers now, not one: the filtered download fetches `raw-catalogue.json` at its published URL on the reader's first export click, which is a second reason a split has to keep that URL working — `catalogue-filtered-download.md`, 2026-08-24.)*
 - **The home page.** It has to say what this is, to someone arriving from a link, in about eight seconds, without becoming a dashboard. Hardest page on the site.
 
 ## 7. Preconditions
@@ -250,6 +250,8 @@ Hashing below the frontmatter is the whole trick: `compiled:` changes on every r
 **The undated predecessor is deleted when the dated edition first appears.** That does break a URL that was published, and it is the lesser of the two breakages: `site/` is generated but never purged, so a file that simply stops being written would go on being served indefinitely, and an undated URL left in place keeps inviting the citation this section exists to prevent. It has been live for days, against a rule meant to hold for years.
 
 **The catalogue is not an edition** *(Bill, 2026-08-18)*. `raw-catalogue.csv` stays at its undated URL, republished wholesale on every build. The distinction being drawn is between a compiled finding of ours — a ledger, a set of commitments, something a reader quotes a figure out of and may be asked to stand up — and an index over other people's records, which is what the catalogue is: every row points at a publisher's own document, and it is the pointer rather than the claim. It is worth naming as an exception to *no undated download URL exists at all* rather than leaving it as the one download that quietly does not follow the rule, because the argument for dating it would be the same argument, and if anyone ever cites a catalogue count as of a date, it should become an edition too.
+
+**A filtered selection is a cut of it, and is not an edition either** *(2026-08-24)*. The page will now hand a reader the current filter as CSV or JSON, with the same sixteen columns as the whole file. The temptation was to tell them to cite the full download instead, as though that were the stable object — it is not, per the paragraph above. So what the export points at is **the view's own URL**, which re-cuts against whatever the catalogue holds when it is opened, and the build date rides in the filename to say which cut the file in hand was. `catalogue-filtered-download.md` is the record.
 
 ### Not yet
 

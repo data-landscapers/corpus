@@ -205,7 +205,7 @@ Burundi Adopts National Data Governance Strategy	3968
 Business Govt	6239
 Bybit. The Mauritius Internet Governance Forum	9658
 CAMTEL and Government Launch Initiative	6489
-CAPÍTULO VI MODELO DE GOVERNAÇÃO DA	3519
+CAPÍTULO VI MODELO DE GOVERNAÇÃO	3519
 CAR Public Sector Digital Governance Project	969,1920,2250
 CAR- Public Sector Digital Governance Project	981
 CASE STUDIES GUIDANCE Governance	5618
@@ -265,8 +265,7 @@ Central Bank of Libya Governor Naji Issa	10026
 Central Bank of Nigeria Governor	3732
 Central Equatoria State Deputy Governor Paulino	8330
 Centre for Artificial Intelligence Ethics and Governance	9416
-Centre for International Governance Innovation	7886
-Centre for International Governance Innovation_	3598
+Centre for International Governance Innovation	3598,4288
 Certified National Government Data Centres All	6432
 Chadian School of Internet Governance	4215
 Challenges and Government Response	9397
@@ -416,8 +415,7 @@ Deep Learning. MIT Press. Governo de Moçambique	2816
 Delivering Governance That Works for Citizens	7337
 Deliveroo and Air France. The Government	3394
 Democracy and Good Governance	7452,2208
-Democracy and Open Government	2096
-Democracy and Open Government_	2093
+Democracy and Open Government	2093,3
 Demonstrable Governance Traditional	10570
 Deon Govender	2724
 Department of Cooperative Governance	5872
@@ -777,7 +775,7 @@ Global Majority AI Governance Efforts	4734
 Global Map The Federal Government of Nigeria	6065
 Global Partnerships and SOE Governance	5184
 Global Partnerships and State-Owned Enterprises Governance	5185,1,1,11
-Global Public Policy and Governance_	2093
+Global Public Policy and Governance	2093
 Global and Continental Gov-	8301
 Glossary of Key Data Governance Terms Access	3861
 GoCAR Government	969
@@ -785,8 +783,7 @@ GoM Government of Mozambique ID Identification	2473
 GoTG Government of The Gambia KPI Key	1000
 Good Financial Governance Phase	1462
 Good Governance	970
-Good Governance Africa	9399
-Good Governance Africa_	3598
+Good Governance Africa	3598,5801
 Good Governance Forum	3632
 Good Governance Priority Area	970
 Good Governance and Citizens' Rights	970
@@ -854,6 +851,7 @@ GovStack BBs	6423
 GovStack Building Blocks	6423
 GovStack Building Blocks Specification	5700
 GovStack Digital Platform Security Framework	6423
+GovStack Digital registries BB Data API template-1.3.0.json	6423
 GovStack General Terminology	6423
 GovStack Information Mediator	3272
 GovStack Initiative	6297
@@ -863,7 +861,6 @@ GovStack Workshop	5750
 GovStack-specific	6423
 GovStack29	1814
 GovStackWorkingGroup	6423
-GovStack_Digital_registries_BB_Data_API_template-1.3.0.json	6423
 GovTech	157,837,290,109,703,153,465,25,77,1516,420,169,18,403,179,75,965,1130,29,1141,1101
 GovTech Case Studies	994
 GovTech Challenge	9434
@@ -978,6 +975,7 @@ Governance and Operational Oversight The Council	1554
 Governance and Planning Division	9162
 Governance for Coherence	3861
 Governance of AI	1814
+Governance of AI-Based Algorithms	4253
 Governance of AI-based	6794
 Governance of AI-based Algorithms	4253
 Governance of Digital Platforms	6436,1273
@@ -992,7 +990,6 @@ Governance. Beyond	7170
 Governance. In M. Buri	1243
 Governance. NITDA	10157
 Governance.pdf	4842
-Governance_of_AI-Based_Algorithms	4253
 Governando	2816
 Governar	2816,5363
 Governação	3519,2144,1046,2694
@@ -1184,8 +1181,7 @@ Government In Your Hand and ERS TaxPal	2885
 Government Index	1912,1352
 Government Influence	5349
 Government Information Centre	5414,129,2362
-Government Information Quarterly	2096,3604
-Government Information Quarterly_	2093,3256
+Government Information Quarterly	2093,3,3253,351
 Government Information Service	2363,5003
 Government Information Services	8240
 Government Information and Communication Center	5817
@@ -1569,8 +1565,7 @@ Government’s Feed Ghana Programme	7695
 Government’s Social Cash Transfer	8513
 Governo	167,53,350,225,397,73,543,53,193,84,157,3,17,50,69,3,7,244,96,32,5,132,140,25,74,338,28,207,128,321,221,143,63,95,11,269,86,52,57,94,50,68,1,3,35,95,15,91,58,98,65,70,20,5,1,58,499,223,59,151,29,167,74,287,265,89,122,176,21,124,163,32,139,87,30,32,157,325,110,295,300,89,31,26,131,78,141
 Governo Após	7948
-Governo Digital	2816,2489,764,4645
-Governo Digital. De	9909
+Governo Digital	2816,2489,764,3840,805
 Governo Electrónico	4510
 Governo Electrónico. Estes	8309
 Governo Eletrónico	1228,1245
@@ -1588,7 +1583,6 @@ Governo da União Africana	795
 Governo da X Legislatura	3118,1898
 Governo de Américo Ramos Jordânia	4938
 Governo de Angola	1192,3562,1200,641,165,2280,196,163,510,705
-Governo de Angola. O	5954
 Governo de Cabo Verde	3558,4961
 Governo de Cabo Verde Notícias	1736
 Governo de Cabo Verde NotíciasDiscurso	1265
@@ -1596,7 +1590,6 @@ Governo de Cabo Verde NotíciasMinistra Edna Oliveira	1268
 Governo de Cabo Verde NotíciasPrimeiro Ministro	2054
 Governo de Itália	9434
 Governo de Moçambique	2784,32,2847,3771
-Governo de Moçambique. O	2816
 Governo. Aquele	10114
 Governo. O Governo da República da Guiné-Bissau	7527
 Governo. Por	1948
@@ -1722,7 +1715,7 @@ Healthcare Worker Funding The U.S. Government	4167,35,15,84,1051
 High-Level Recommendations for AI Governance and Regulation	1814
 Higher Education The Government of Sierra Leone	2339
 Hon Abiante. The Federal Government	8087
-Human-A I Governance H A I	8283
+Human-A I Governance H	8283
 Human-AI Governance	8283
 Hunger Safety Net Programme. The Government	2775
 I Technical Contact Agent D Government	736
@@ -1783,6 +1776,7 @@ Includes U.S. Government	4153
 Incubators Government Agencies Foundations Asset Managers	4972
 Independent Government Institute Implementing Agency Country	4653
 India AI Governance Guidelines	9208
+Informatics Governance	9863
 Informatics Governance Forum	9863
 Information Technology DATA GOVERNANCE	3184,1
 Infrastructure Government Data	5244
@@ -1817,7 +1811,7 @@ International Journal of Disclosure and Governance	8022
 International Kenya School of Government	7548
 International Trade Centre. Government	8271
 International and Regional Governance	961
-Internet Governance	961,6398,984,739,1392
+Internet Governance	961,6397,1,984,739,1392
 Internet Governance Blueprint	8343
 Internet Governance Forum	1714,4476,760,10,360,730,293,547,619,139,418
 Internet Governance Forum Burkina Faso. Dans	10642
@@ -1827,7 +1821,6 @@ Internet Governance Project Skip	6562
 Internet Governance Secretariat	8038
 Internet Governance Tanzania Working Group	9082
 Internet Governance. The Digital Trade Imbalance	1243
-Internet Governance_	7358
 Interoperable Digital Government Initiative	1813
 Introduction Governments	2096
 Introduction The Government of Eswatini	418
@@ -1854,7 +1847,7 @@ Johnny Ohisa Damian Governor	2358
 Joint Framework for Digital Platform Governance	7709
 Joint Framework for Digital Platform Governance for Kenya	7709
 Joint Medical Stores. The Government of Uganda	4217
-Journal of Local Government Research and Innovation_	2948
+Journal of Local Government Research and Innovation	2948
 Judicial Review of Data Governance Decisions	3861
 KENYA AND THE GOVERNMENT	4154
 KING CODE AND CORPORATE GOVERNANCE	4896
@@ -1882,6 +1875,7 @@ Konza Government Landing Zone	6432
 L5. Government	3972
 LESOTHO ADVANCES DIGITAL FUTURE The Government	3358
 LS. Government	3972
+LY GOVREP	5775
 Laborat01y Management System I. The Government	4260
 Laboratory Cadres Year U.S. Government	4217
 Laboratory The U.S. Government	4349
@@ -1909,7 +1903,7 @@ Liberia's Electronic Government Procurement	9338
 Liberia. The U.S. Government	4202
 Liberian Government's Network	5244
 Liberia’s Electronic Government Procurement	9087
-Libya Activates LY_GOVREP Platform for Government Monitoring	5775
+Libya Activates LY GOVREP Platform for Government Monitoring	5775
 Libya Policy The Governor	6697
 Libyan Government Reporting Platform	5775
 Libyan Ministry of Local Government	5948
@@ -2016,7 +2010,7 @@ Moroccan Government	2577
 Morocco's Head of Government	5777
 Mozambican Government	4260,913
 Mozambique Digital Governance and Economy Project	772,456,3317
-Mozambique Government Gazette Series I	2816
+Mozambique Government Gazette Series	2816
 Mozambique Government Network Global Rapid Post-Disaster	1228
 Mozambique Prioritizes Data Governance	4180
 Mozambique's National Data Governance Policy	3861
@@ -2065,8 +2059,7 @@ National Data Governance Strategy and National Data	3058
 National Data Governance and Emerging Technologies	6516,15
 National Data Governance and Emerging Technologies Council	6516,3,273
 National Electronic Government Plan	2291
-National Fintech Governance Committee	6887,958
-National Fintech Governance Committee. Les	6757
+National Fintech Governance Committee	6757,130,958
 National Governance Framework for Digital Transformation	583
 National Government	1264,574,937,3657,514,602,2391,374
 National Government Administration Officers	8793
@@ -2301,8 +2294,7 @@ Regional Administration and Local Government	1261,4622
 Regional Governance and Cooperation Zimbabwe	4528
 Regional Governments	5655
 Regulation Governing SIM Card Registration	1840
-Regulation and Governance	8193,619
-Regulation and Governance_	5349
+Regulation and Governance	5349,2844,619
 Regulatory Board. The Corporate Governance and Human	718
 Regulatory and Governance	6748
 Regulação da Inteligência Artificial. Gov.br. Disponível	2816
@@ -2491,6 +2483,7 @@ TB Elimination Acceleration The Government of Mozambique	4260
 TB. The Government of Mozambique	4260
 TBD F Good Governance	970
 TERMS OF THE LOCAL GOVERNMENT	6907
+TF05 ST 05 Equitable Data Gove66d5d7413a57e.pdf	7242
 TOGAF The Government of Rwanda	9124
 TRENDS IN THE GOVERNANCE OF DATA	1243
 Table of Government Financial Transactions	8532

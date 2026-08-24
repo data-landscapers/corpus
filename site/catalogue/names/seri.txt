@@ -74,7 +74,7 @@ Moniepoint Series C	2223
 Moniepoint's Series C	2247
 Moove's Series B	1136
 Moove's Series C	9098
-Mozambique Government Gazette Series I	2816
+Mozambique Government Gazette Series	2816
 Mpwapwa. Serikali	7849
 NIGERIA’S FINTECH EVOLUTION Policy Insight Series	4848
 Naked Insurtech South Africa Series B	1058
@@ -108,7 +108,7 @@ Serial No	22
 Serial Number of MOH Equipment Model	34
 Serials Librarian	8022
 Serianu	6426
-Series	264,1,28,98,119,19,44,32,77,31,200,17,4,200,6,11,92,120,184,55,1,1,1,1,9,1,694,726,115,8,1165,133,1,390,35,89,216,1,1,1,1,10,12,714,227,373,65,144,278,263,200,4,457,247,512,159,182,58,39,238,901,4,37,148,39
+Series	264,1,28,98,119,19,44,32,77,31,200,17,4,200,6,11,92,120,184,55,1,1,1,1,9,1,694,726,115,8,1165,133,1,96,294,35,89,216,1,1,1,1,10,12,714,227,373,65,144,278,263,200,4,457,247,512,159,182,58,39,238,901,4,37,148,39
 Series A	4883
 Series A E-Commerce Jun	934
 Series A Series	4972
@@ -131,7 +131,6 @@ Series B2 for South African InsurTech	4972
 Series B2. Seven	4883
 Series C	606,105,99,8,112,210,288,11,105,679,24,63,772,1242,398,250,718,189,2819,400,46,40,161,1,773,345
 Series D	895
-Series E	4554
 Series Editor	7886
 Series F	4972
 Series of Projects	1175,2,1,1,1,1,1,95,7,583,1022,673,42,1758,1566
@@ -158,8 +157,7 @@ Serious	5665
 Serious Adverse Events	8831
 Serious Drought	1988
 Seriti Green	5621
-Shangri-La Series	7138
-Shangri-La Series_	7151
+Shangri-La Series	7138,13
 Smile ID Series B	1139
 Socket Layer Protocol USB Universal Serial	34
 São Tomé and Príncipe. Series	1380

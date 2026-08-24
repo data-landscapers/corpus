@@ -210,6 +210,7 @@ MD Mohale Ralebitso	2748,2648
 MM. Mohamed Abdoulkader Moussa Helem	8297
 MOFPED and MOH. Overhead	4217
 MOH Celebrates African CRVS Day Posted	9548
+MOH Kenya	5550,2667,166
 MOH Ministry of Health MOTIHUD- Ministry of Transport	2775
 MOH Zimbabwe	6666
 MOH and Digital Health Activity	1824
@@ -227,7 +228,6 @@ MOHCC	6666
 MOHERST	1000
 MOHERST Specific Objectives	1000
 MOHSS	9485
-MOH_Kenya	5550,2667,166
 Maat Moulan Mohamed Abdi	6767
 Mahmoud Helmy El-Sherif. Presidential Spokesman Mohamed	10103
 Mahmoud Mohamed and HSF Chairman Abdullahi Nur	10116
@@ -262,7 +262,6 @@ MoH QMS Expert PPB	9855
 MoH User Acceptance	34
 MoH's VPN	34
 MoHAIS	1778,89,121,266,37,1271,133
-MoHAIS DA	1867
 MoHAIS Kalumbila Town Council	1867
 MoHAIS MoHAIS SPMU	1867
 MoHAIS Office	1988
@@ -275,7 +274,7 @@ MoHAIS. Membership	1867
 MoHAIS. The PMU	1867
 MoHCC	970,184,400,7875
 MoHCDGEC	1261
-MoHCDGEC&publication_year	1261
+MoHCDGEC&publication year	1261
 MoHCDGEC. Mid Term Review	1261
 MoHCDGEC. Tanzania Health Sector Strategic Plan	1261
 MoHE Computerisation	5652
@@ -341,7 +340,6 @@ Mohamed Chakib	3795
 Mohamed Chakour	1814
 Mohamed Diaby	2442
 Mohamed Diaouné	8555
-Mohamed Diaouné. Le	8555
 Mohamed Edhib	10289
 Mohamed El Mehdi Ould Ely Val	10402
 Mohamed El-Hadi Hennachi	3520
@@ -538,7 +536,7 @@ SmartCare Data Analyst MoH	34
 Software MoH	34
 Soilahoudine Mohamed	8876
 Soilahoudine Mohamed. L'initiative	8876
-Soilihi Mohamed Djounaid. Le	3772
+Soilihi Mohamed Djounaid	3772
 Somali National University President Dr. Mohamed	10116
 Somalia. President Mohamud	2743
 Somcable CEO Mohammed Ibrahim Ahmed	4806

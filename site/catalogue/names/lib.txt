@@ -389,10 +389,9 @@ Library Freedom Project	8022
 Library HTML	1828
 Library Hi Tech	8022
 Library Hi Tech News	8022
-Library Management	3782,4240
+Library Management	2948,834,4240
 Library Management System	5250
 Library Management System P2	5635
-Library Management_	2948
 Library National Data Library	7548
 Library Philosophy and Practice	1248,6774
 Library Policy Guidelines and Digital Repository Policy	6946
@@ -407,7 +406,6 @@ LibreSSL	991
 Libreta	4209
 Libreville	24,524,79,604,549,545,18,690,278,732,21,144,536,2133,217,149,212,86,247,131,21,34,178,150,19,7,367,66,657,197,6,10,297,108,449,1,160,1
 Libreville Special Economic Zone. ST Digital	7093
-Libreville. Le	3033
 Libreville. Présidée	3033
 Libreville. Selon Laïka Mba	3298
 LibrevilleDéveloppement	3173
@@ -415,7 +413,7 @@ Libro LPGE	4209
 Libros	1701
 Libtelco	7616
 Libya	236,198,420,159,181,35,145,16,286,214,792,93,62,2,4,10,105,65,165,122,47,68,39,273,74,15,15,12,19,105,121,90,244,60,62,29,47,50,66,63,2,38,178,6,231,53,19,256,183,129,37,7,409,76,132,48,84,95,146,504,265,17,199,208,514,161,22,116,108,38,1,122,49,217,383,1,163,102,250,31,140,165
-Libya Activates LY_GOVREP Platform for Government Monitoring	5775
+Libya Activates LY GOVREP Platform for Government Monitoring	5775
 Libya Advertisement Promote	4811
 Libya Branch	3464
 Libya By Mohamed Emad Libya's Ministry	2843
@@ -513,12 +511,11 @@ Libyan News Agency	10026
 Libyan Post Telecommunications	2837
 Libyan Prime Minister	6697
 Libyan Tax Authority	4251
-Libyan Technology Foundation	7724
+Libyan Technology Foundation	7724,2139
 Libyan Telecommunications Holding Company	4746
 Libyan United International Company	2837
 Libyan Zakat Fund Office	5920
 Libyan-Italian	4849
-Libyan_Technology_Foundation	9863
 Libyans	3023,818,690,149,66,65,38,468,458,129,44,409
 Libyaâs	9052
 Libya’s Apollonia Al-Hadba Al-Khadra Hospital	4811,964,129
@@ -531,7 +528,6 @@ Libya’s Internet	4554
 Libya’s Libya-Africa Transit Corridors Project	5317
 Libya’s Ministry of Economy and Trade	5264
 Libye	6241,372,836
-Libye. Le	7449
 Libère Nduwimana	5942,3231
 Libéralisation	7999
 Libération	4924

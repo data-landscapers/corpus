@@ -172,13 +172,14 @@ EU CSO Roadmap	970
 EU CSP	9123
 EU CSP CCC-	9123
 EU CSP D C S	9123
-EU CSP D S I	9123
+EU CSP D S	9123
 EU CSP EK M	9123
 EU CSP GR M	9123
 EU CSP I A M	9123
-EU CSP I S O	9123
+EU CSP I S	9123
 EU CSP IV S	9123
 EU CSPs. Last	6477
+EU Centrafrique	2323
 EU Charter of Fundamental Rights	8436
 EU Cl	9123
 EU Cloud AI Development Act	6834
@@ -194,7 +195,7 @@ EU Cyber Direct	2117
 EU Cybersecurity Act	6936
 EU Cybersecurity Act and Singapore's Cybersecurity	6936
 EU D C S	9123
-EU D S I	9123
+EU D S	9123
 EU D4D	1063
 EU DMA	5802
 EU DORA	6471
@@ -249,9 +250,9 @@ EU Guidelines	2958
 EU H R S	9123
 EU Health Information and Management Systems Society	1009
 EU I A M	9123
-EU I S O	9123
+EU I S	9123
 EU IFIs	970
-EU IP Y	9123
+EU IP	9123
 EU IV S	9123
 EU Industrial R&D Investment Scoreboard	6477
 EU JRC	1814
@@ -442,7 +443,6 @@ EUA Fonte	2816
 EUA Luanda	2581
 EUA-STP	2444
 EUA. Consultor Jurídico. Disponível	2816
-EUA. O	6356
 EUA. O Chefe de Estado	6525
 EUA. Poder Aéreo. Disponível	2816
 EUCL Compared	718
@@ -534,7 +534,6 @@ EUROPEAN UNION	7821
 EUSSC	4732,4109
 EUSSC Regulations	4732
 EUTELSAT KONNECT	5937
-EU_Centrafrique	2323
 EUinMoz2026	6743
 EUinMoz2026 During the Mozambique	6743
 EUinTheGambia	4583
@@ -633,7 +632,7 @@ Europa. Direção-Geral	2816
 Europa. Segundo	6356
 Europacable	3604
 Europay	4791
-Europe	10,30,185,204,118,3,12,6,20,201,172,30,45,2,175,30,2,19,99,100,185,64,3,2,24,73,4,10,65,76,148,236,22,84,16,39,4,73,86,29,26,37,6,19,15,4,23,1,28,171,13,26,38,44,22,43,46,11,13,50,15,108,41,15,75,20,35,108,23,77,13,2,30,63,154,6,62,16,48,5,1,109,33,25,22,66,136,13,13,8,31,6,127,15,56,40,5,8,3,18,36,52,43,14,7,14,65,18,2,8,125,77,45,119,63,20,3,68,26,48,17,62,116,21,12,2,93,17,14,14,36,16,42,18,42,4,1,28,2,7,11,47,3,5,1,10,11,5,14,25,3,37,1,10,11,25,6,15,38,2,14,39,47,18,24,41,6,30,29,8,13,12,26,11,24,4,29,1,36,106,25,50,107,78,3,106,35,43,15,15,37,52,48,14,21,115,42,35,74,2,37,20,13,26,25,17,2,1,80,1,79,124,33,15,6,10,30,26,22,32,16,41,30,79,1,13,32,26,85,20,65,19,4,14,159,155,13,112,8,16,51,48,84,1,16,63,35,82,1,34,15,3,23,48,21,31,13,4,3,13,40,117,103,38,8,65,25,14,61,26
+Europe	10,30,185,204,118,3,12,6,20,201,172,30,45,2,175,30,2,19,99,100,185,64,3,2,24,73,4,10,65,76,148,236,22,84,16,39,4,73,86,29,26,37,6,19,15,4,23,1,28,171,13,26,38,44,22,43,46,11,13,50,15,108,41,15,75,20,35,108,23,77,13,2,30,63,154,6,62,16,48,5,1,109,33,25,22,66,136,13,13,8,31,6,127,15,56,40,5,8,3,18,36,52,43,14,7,14,65,18,2,8,125,77,45,119,63,20,3,68,26,48,17,62,116,21,12,2,93,17,14,14,36,16,42,18,42,4,1,28,2,7,11,47,3,5,1,10,11,5,14,25,3,37,1,10,11,25,6,15,38,2,14,39,47,18,24,41,6,30,29,8,13,12,26,11,24,4,29,1,36,106,25,50,107,78,3,106,35,43,15,15,30,7,52,48,14,21,115,42,35,74,2,37,20,13,26,25,17,2,1,80,1,79,124,33,15,6,10,30,26,22,32,16,41,30,79,1,13,32,26,85,20,65,19,4,14,159,155,13,112,8,16,51,48,84,1,16,63,35,82,1,34,15,3,23,48,21,31,13,4,3,13,40,117,103,38,8,65,25,14,61,26
 Europe AI-governance	6189
 Europe AfCFTA	5244
 Europe Asia Oceania	4972
@@ -695,8 +694,6 @@ Europe. European Societies	7886
 Europe. For Africa	4121
 Europe. Growth	4972
 Europe. Ils	5412
-Europe. Le	7715
-Europe. Les	8891
 Europe. Lisbon	9496
 Europe. L’accord	7716
 Europe. Nigeria	4583
@@ -800,10 +797,8 @@ European Investment Fund	6879
 European Journal of Communication	8130
 European Journal of Development Research	7886
 European Journal of General Practice	7278
-European Journal of Information Systems	9237
-European Journal of Information Systems_	5349
-European Journal of Innovation Management	9129
-European Journal of Innovation Management_	2093
+European Journal of Information Systems	5349,3888
+European Journal of Innovation Management	2093,7036
 European Journal of International Law Blog	1243
 European Journal of International Management	8021
 European Journal of International Relations	4676
@@ -812,8 +807,8 @@ European Journal of Political Economy	1828
 European Journal of Political Research	7886
 European Journal of Public Health	1824,5173
 European Journal of Tkaczyk	9237
-European Journal of Training and Development_	4432
-European Law Journal_	5349
+European Journal of Training and Development	4432
+European Law Journal	5349
 European MEDUSA	1819
 European Medicine Agency	7112
 European NIS Cooperation Group	6936
@@ -917,7 +912,6 @@ European and U.S	5367
 European and US	10088
 European-built AI	6214
 European-funded	853,2227
-European_Union	5701
 Europeana	8341
 Europeana Metis Sandbox	8341
 Europeans	1038,1639,1581,168,325,551,3390,1140,369
@@ -961,7 +955,6 @@ Eutelsat's OneWeb	2294,520,1907,1624
 Eutelsat's OneWeb LEO	5937
 Eutelsat's OneWeb Low Earth Orbit	5936
 Eutelsat's VP for Connectivity	4721
-Eutelsat. O	6617
 Evaluating Europe's Package	6545
 Even the EU	5802
 Experience Europe Visitors' Centre	9067
@@ -1008,6 +1001,7 @@ Horizonte Europa	1265
 Huduma Namba. The European Union	9600
 Human-Centred Digitalisation. EUR	1164
 IA Européennes	3465
+ICPC Public EU	2677
 ID for All The European Union	6650
 IDs. European Countries	10415
 IEEE European Symposium	9616

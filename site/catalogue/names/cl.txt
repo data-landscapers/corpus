@@ -155,6 +155,7 @@ Aurelia Women's Clinic Data Controller INST-413102941D7	7167
 Automated Clearing House	2358,1299,22,26
 Automated Clearing House Related Indicator	7221
 Automated Clearing House of Angola	6938
+Automating for End-to-End Claims Processing Whitepaper	9237
 Azure and Google Cloud	7173
 Azure for Google Cloud for AWS	6667
 Ação Climática	1265
@@ -251,6 +252,7 @@ C. Climate Change Related Natural Disasters	1828
 C.C.S Marsabit Clinic Data Controller INST-950367CDC78	7167
 C.C.S Marsabit Clinic Data Processor INST-950367CDC78	7167
 CALL FOR STRONGER CLIMATE AND SECURITY	10581
+CAMP Report Parting Clouds.pdf	6445
 CANAAN MEDICAL CLINIC LIMITED Data Controller	7167
 CAPE DENTAL CLINIC LIMITED Data Controller	7167
 CAPE DENTAL CLINIC LIMITED Data Processor	7167
@@ -355,6 +357,7 @@ CLIENT SATISFACTION SURVEY	5679
 CLIII	6477
 CLIKNET SCOPES LIMITED Data Controller INST-78578115E29	7167
 CLIKNET SCOPES LIMITED Data Processor INST-78578115E29	7167
+CLIMATE CHANGE AND ADAPTATION NEEDS	1828
 CLIMATE Climate Change and Disaster Screening	3604
 CLIMATE FOCUS US	4972
 CLINIC Data Processor INST-1398694F487 KAJIADO Kenya	7167
@@ -388,12 +391,12 @@ CLOUD INNOVATION LTD	1919
 CLOUD IT LIMITED Data Controller INST-222773BD812	7167
 CLOUD IT LIMITED Data Processor INST-222773BD812	7167
 CLOUD MIGRATION ROADMAP AND PHASE	6432
-CLOUD NACIONAL REFORÇA ECOSSISTEMA DIGITAL DO	1192
+CLOUD NACIONAL REFORÇA ECOSSISTEMA DIGITAL	1192
 CLOUD ONE LIMITED Data Processor INST-69687359C10	7167
 CLOUD POLICY	10157
 CLOUD POLICY Complementing	10157
 CLOUD POLICY National Data Park	10157
-CLOUD POLICY PART I	10157
+CLOUD POLICY PART	10157
 CLOUD POLICY PART II	10157
 CLOUD POLICY PART III	10157
 CLOUD POLICY PART IV	10157
@@ -413,7 +416,6 @@ CLOUDLESS MEDICAL LIMITED Data Controller INST-43603106A62	7167
 CLOUDPLEXO KENYA LIMITED Data Controller INST-399214E7E80	7167
 CLOUDTIMES KENYA LIMITED Data Controller INST-689092D0328	7167
 CLOUDTIMES KENYA LIMITED Data Processor INST-689092D0328	7167
-CLOUD_Act	6471
 CLOVA AI	3049
 CLOVER FIELD DAIRIES LIMITED Data Controller	7167
 CLS. Na	4250
@@ -513,7 +515,7 @@ Clara Ana De Sousa	1641
 Clara B. Arthur	6075
 Clara Mazon	10302
 Clara Saine Mendy	7475
-Clara-Saine-Mendy__ScaleMaxWidthWzcwMF0.jpg	7475
+Clara-Saine-Mendy ScaleMaxWidthWzcwMF0.jpg	7475
 Clare Ollama	10396
 Clare Omalla	6493
 Claremont	8999
@@ -573,7 +575,6 @@ Class Comprehensive Telecommunications Service Licence	5498,31
 Class Comprehensive Telecommunications Service License	6826
 Class D	3651
 Class D AI	3651
-Class E	9123
 Class EA	9123
 Class ECNS	1900
 Class ECS	1900
@@ -724,7 +725,7 @@ Cleopas	4896
 Cleopas Kadzimu	4896
 Cleopas Kadzimu BDO Zimbabwe Chartered	4896
 Cleopas Kadzimu Chief Finance	4896
-Cleopas Kadzimu Chief Financial O	4896
+Cleopas Kadzimu Chief Financial	4896
 Cleopas Kadzimu Nil Nil Nil	4896
 Cleopas Kadzimu. SECTION	4896
 Clerk	783,231,269,2604,3034,3392
@@ -841,7 +842,6 @@ Climate Risk Profile	6539
 Climate Risk and Insurance	7334
 Climate Scientist GIS	520
 Climate Shocks	1828
-Climate Shocks.___________________________________	1828
 Climate Smart Agriculture	970
 Climate Smart Agriculture Framework	970
 Climate Smart Agriculture-	970
@@ -909,10 +909,9 @@ Clipper	2518,2724,1397,399,550,486,69,39,198
 Clique	9990
 Cliquer	6954,2452
 Cliquez	747,4213,62,1932,103,402,182,457,950,358
-Clive Humby	7711
+Clive Humby	6982,729
 Clive Nabale	6484
 Clive Thomson	10212
-Clive_Humby	6982
 Cllr Andrew Matseke	7827
 Cllr. Harris	8804
 Cllr. Kim A. Harris	8804
@@ -1133,7 +1132,6 @@ Cloudwards	7215,78
 Clovis Pilla	3335
 Club Dsi	5260
 Club Dsi Bénin	5260
-Club Dsi Bénin. Le	5260
 Club Dsi. La CoP	5260
 Club Dsi. Son	5260
 Club Jeun'Action	9814
@@ -1171,7 +1169,7 @@ Clé RIB	6954
 Clément Delangue	8702,582
 Clément Domingo	5330
 Clément Fayol and Zack Kopplin	4127
-Clément MOUAMBA Le	435
+Clément MOUAMBA	435
 Clément MUAMBA	3069,282,467,160,915,185,39,6,354,566,618,555,2789
 Cléopâtre Iluku	5888
 Clés Publiques	8525
@@ -1191,7 +1189,6 @@ Clúster Textil	1701
 Clúster Textil-Ropa-Calzado	1701
 Clúster Turismo	1701
 Clúster de Agua	1701
-Clúster de Agua El	1701
 Clúster de Construcción	1701
 Clúster de Petróleo	1701
 Clúster de Recursos Minerales	1701
@@ -1240,7 +1237,7 @@ DANTEZ MEDICAL CLINIC Data Processor INST-1284273EE02	7167
 DASONET CLEANING COMPANY LIMITED Data Controller	7167
 DATHIWA MEDICAL CLINIC LTD Data Processor	7167
 DAWAFRONT PHARMACEUTICALS AND CLINIC LIMITED Data	7167
-DE LA CLASSIFICATION ET DE LA	113
+DE LA CLASSIFICATION ET	113
 DEBTS OF CLOSELY HELD COMPANIES Joint	3714
 DEBTS OF CLOSELY HELD COMPANY	3714
 DELIVERANCE CHURCH KASARANI MEDICAL CLINIC Data	7167
@@ -1346,6 +1343,7 @@ EU's Cloud and AI Development Act	10088
 EU-US CLOUD Act	10088
 EUR Climate Health	970
 EU’s Cloud Service Restrictions	6582
+EX CL Dec 1143-1167 XL E.pdf African Union	1243
 EXECUTIVE SUMMARY Kenya’s Cloud Policy	6432
 EXTERNAL RELATIONS FOR CLOSELY HELD COMPANIES	3714
 East Africa Cloud Region	1720,2,4749,2768
@@ -1437,6 +1435,7 @@ G Coverage Climbs	5715
 G20 Environment and Climate Sustainability Working	2626
 G5 Sahel Country Climate and Development Report	1264
 GCF Green Climate Funds GDP Gross	2775
+GCI PB 019 CLA-2023-FIN.pdf	645,2,211,2
 GCSP Public Cloud	6432
 GCSP Third-Party Cloud Service Provider	6432
 GCSPs Prohibited Practices Cloud	6432
@@ -1620,6 +1619,7 @@ KENYA CLOUD POLICY	6432
 KNPHI LIMS Tender Closing Date	7988
 KONZA CLOUD EXPANSION	5793
 KONZA Cloud	6432
+Kamukunji cluster.pdf	7573
 Kasese Deputy Town Clerk Zedekiah Kambasu	8661,134
 Kasi Cloud	3477,77,1356,290,1176,204,486,263,3176
 Kasi Cloud Datacenters	6376
@@ -1677,9 +1677,10 @@ Local Cloud Is Important	7173
 Local Data Centres and Cloud Ecosystems	4993
 Logistics Clean Energy Access	4972
 Logistics and Telecommunications Cluster	5087
+Long Term Climate Change Strategy of The Gambia Final.pdf	1264
 Long-Term Climate Neutral-Development Strategy	1264
 Lu By Clever Mwale	7870
-L’INSTAURATION L’ATTEINTE DES OBJECTIFS CLÉS DE	2342
+L’INSTAURATION L’ATTEINTE DES OBJECTIFS CLÉS	2342
 M Cloud Library	8022
 MATERIAL SCOPE AND DATA CLASSIFICATION TAXONOMY	3861
 MBA. Cleopas	4896
@@ -2117,7 +2118,7 @@ Up Innovativa Hardin AI Claibe	8530
 Use of Accredited Cloud Service Providers Contract	6432
 Utilities Climate	970
 V. Clarke	5349
-VERS L’ATTEINTE DES OBJECTIFS CLÉS DE	2342
+VERS L’ATTEINTE DES OBJECTIFS CLÉS	2342
 VIDEOS CLUBS Y SIMILARES	4209
 VIDEOS CLUBS Y SIMILARES CARPINTERIAS EN	4209
 VII. Classification	6612

@@ -86,6 +86,7 @@ Moov Africa Tchad	2554,5066,603
 Moov Africa Tchad. Moov Africa Tchad	7620
 Moov Money Tchad	8223
 Moov Money Tchad SA	7620,603
+P10 TC1-COD	7821,34
 Par Déus Gracias Tchémanguéré	2300
 PayShap and TCIB	5420
 Pensiones No Contributivas TCI	4209
@@ -144,9 +145,6 @@ Tchad. Djibouti	2448
 Tchad. Désormais	4739
 Tchad. En	9180
 Tchad. Il	565,5524
-Tchad. La	5781
-Tchad. Le	7865
-Tchad. Les	10633
 Tchad. Mais	3368
 Tchad. Selon	7866,751
 Tchad. Sur	2695
@@ -163,7 +161,6 @@ Tchadinfos	3224,281,771,313,1536
 Tchadinfos ANNONCE-L’Agence Nationale des Titres Sécurisés	6125
 Tchadinfos Après	4589
 Tchadinfos Ce	3224
-Tchadinfos Le	3505,771
 Tchamba-Nzassi	3801
 Tchiamba-Nzassi	3552
 Tchibanga	2325

@@ -15,6 +15,7 @@ AI. Education	4126
 AISIO Ministry of Primary and Secondary Education	4528
 AM EDT. Last	10609
 ASIST. PERS. TERC. EDAD	4209
+AUTO EDIT SOM ABO&did	5550
 AWS VP of EC2 Edge Jan Hofmeyr	1729
 Abidjan-Lagos. Esaïe Edoh	9975
 About the Author Associate Editor	3342
@@ -392,7 +393,6 @@ Ede North and Ede South. Team	10049
 Ede South	10049
 Ede South Local Government Area	10049
 Ede South and Ilesa East	10254
-Edea Le	6575
 Edelman	8436
 Edelman Reference Edelman2016	8436
 Edelman Trust Barometer	5618
@@ -481,7 +481,7 @@ Editorial Team AFR-IX	7752
 Editorial Team Category	5289
 Editorial Team Cohort	8209
 Editorial Team Combined	4546
-Editorial Team F E	9783,51,5,12,61,12
+Editorial Team F	9783,51,5,12,61,12
 Editorial Team F E Cauridor	9811
 Editorial Team F E Sikaflow	9977
 Editorial Team F E The Consultative	9843
@@ -505,7 +505,7 @@ Editorials	10405
 Editors	2096,4327,2264,256,1780
 Editors Guild Annual General Meeting	8687
 Editors Raise Alarm Over AI Misuse	8687
-Editors' Best Picks Send I	8943
+Editors' Best Picks Send	8943
 Editors’ Recommendations	5224,28
 Editors’ Voices	8943
 Editor’s Memo	6205
@@ -732,7 +732,7 @@ Edwards	5700,2760
 Edwards D	8460
 Edwards N. Delivering	1219
 Edwards R	1219
-Edwards&publication_year	1219
+Edwards&publication year	1219
 Edwige Ngono	3808
 Edwin Amoako	6277
 Edwin Dikoloti	7236
@@ -913,7 +913,7 @@ Inside Higher Ed Oct	146
 Instill Education	899
 Institute of Open and Distance Education	2989
 Insurance Sector Education and Training Authority IoT	6832
-Int J Res Educ Sci._	7836
+Int J Res Educ Sci	7836
 Integrated Education Information and Management System	210
 Inteligência Artificial da Universidade Eduardo Mondlane	2816
 Intelwatch. Partilhar Edição Impressa Assinar Newsletter	9990
@@ -933,7 +933,7 @@ JOSÉ EDUARDO DOS SANTOS. Publicado	13
 Jazari Institute for Education and Technological Innovation	10004
 Jean Edouard Odilon DOAMBA	737
 Jean Edouard Odilon DOAMBA Chef	737
-Jean Edouard SURGOU. E. MINISTERE DE	7670
+Jean Edouard SURGOU. E. MINISTERE	7670
 John Edokpolo	6689
 José Eduardo	14,1,165,40,6888
 Journal of Developmental Education	7278
@@ -1233,7 +1233,7 @@ Proyecto de Educación Preescolar	4209
 Proyecto de Implementación de Educación Inclusiva	4209
 Proyecto de Producción de Programas Educativos	4209
 Proyectos Educativos	4209
-Psychology and Education Journal_	4432
+Psychology and Education Journal	4432
 Public Awareness and Education	1814
 Public Education	5583
 Punch Editorial Board	8440
@@ -1367,7 +1367,7 @@ Strategic Framework Education and AI Literacy Foundations	4528
 Strengthen Science and ICT Education	907
 Sub-county Directors of Education	899
 Sub-county Directors of Education THE PROMISING FUTURE	899
-Sub-county Directors of Education and Curriculum Support O	899
+Sub-county Directors of Education and Curriculum Support	899
 Subsector Educación Primaria	4209
 Subsector Educación Secundaria	4209
 Subsector Educación Técnica Profesional	4209

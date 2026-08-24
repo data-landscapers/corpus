@@ -187,7 +187,7 @@ CAPITALES DE REGIONES CAPITALES DE REGIONES	4209
 CAPITALES DE REGIONES CATEGORÍA MINISTERIO CONCEPTO	4209
 CAPÍTULO III REGIME SANCIONATÓRIO Artigo	15
 CAPÍTULO V REGIMES ESPECIAIS DE APLICAÇÃO	3519
-CAPÍTULO VIII REGIME DE RESPONSABILIDADE DA	3519
+CAPÍTULO VIII REGIME DE RESPONSABILIDADE	3519
 CEMAC Region	3495
 CEMAC's Regional Financial Inclusion Strategy	4240
 CII Register	1000
@@ -199,7 +199,7 @@ COMESA Regional Artificial Intelligence	9182
 COMESA Regional Digital Inclusion Strategy. Delivering	9182
 COMESA’s Regional Payment and Settlement System	10372
 COMMUNICATION AUTHORITY OF KENYA CHRP Regina	6946
-CONJONCTURE ECONOMIQUE REGIONALE Du	9615
+CONJONCTURE ECONOMIQUE REGIONALE	9615
 CONTINENTAL AND REGIONAL FRAMEWORKS	1243
 CONTINENTAL AND REGIONAL INSTITUTIONS AND ASSOCIATIONS	961
 COORD. REGIONAL DERECHOS HUMAN.-Concepto	4209
@@ -299,7 +299,7 @@ Companies Registrar	3714
 Companies Registration Office	3714
 Companies’ Register	3714
 Company Registration Number	4896
-Company's Registered O	4896
+Company's Registered	4896
 Complete Registration	4449
 Component Regional IDA National UCF	1704
 Comprehensive Economic Partnership RECs Regional Economic	1243
@@ -343,7 +343,7 @@ DEPORTIVAS A IDIOMAS REGIONAL DISTRITALES INSULAR	4209
 DES REGLES ET PRINCIPES FONDAMENTAUX REGISSANT	785
 DESARROLLO TURÍSTICAS Y REGIONAL	4209
 DHIS2 Electronic Immunization Registry	977
-DIRECTIVO JUSTICIA PENIT. C. REGISTROS Y	4209
+DIRECTIVO JUSTICIA PENIT. C. REGISTROS	4209
 DIRECTOR THE NATIONAL IDENTIFICATION AND REGISTRATION	1920
 DNRN National Directorate of Registries and Notary	4214
 DNS Registrar	736
@@ -561,7 +561,7 @@ Free Birth Registration	5609
 Future of Regional Integration	4738,2714
 Fórum Sub Regional	2816
 G-compatible. Regional Synthesis	5675
-GENERAL CAPITALES DE REGIONES CAPITALES DE	4209
+GENERAL CAPITALES DE REGIONES CAPITALES	4209
 GLOBAL AND REGIONAL DATA GOVERNANCE LANDSCAPE	1243
 GLOBAL AND REGIONAL MACROFINANCIAL DEVELOPMENTS	6938
 GRAL. REGIONAL PROVINC. PROVINC	4209
@@ -582,6 +582,7 @@ Global and Regional ICT Data	9616
 Google Cloud Region	1363
 Google's Johannesburg Cloud Region	7005
 Google’s Regional Director for Sub-Saharan Africa	5092
+GovStack Digital registries BB Data API template-1.3.0.json	6423
 Governadora da Região de Cacheu	5402
 Governance of Sub-Regional Registries Feedback	3502
 Government Digital Registry	6239
@@ -590,7 +591,7 @@ Great Lakes Region	10017
 Greater Accra Region	3229
 Greater Accra Region Mob	3386
 Greater Not Operational Accra Region. Tel	3386
-Group Company Secretary and Registered O	4896
+Group Company Secretary and Registered	4896
 Group of Experts of Registrars General	3038
 Growth Engines and Regional Expansion	3487
 Guidelines and Proposed Registration Fees. MACRA Head	7364
@@ -720,7 +721,7 @@ Key Digital Functionalities The Digital Registries	6423
 Key Regional Anchors	4130
 Kharas Region	9872
 Kyrgyz Republic Unified State Register	10714
-LISBOA PróximoABERTURA DO REGIME ESPECIAL DE	6837
+LISBOA PróximoABERTURA DO REGIME ESPECIAL	6837
 LONG TERM Create the Regional Centre of Excellence	5677
 Lagos Man Visited Birth Registration Website	10034,231
 Lagos Region	4130
@@ -759,7 +760,7 @@ MISIONES CONSULAR DIÁSPORA REGIONAL MEDIO DIPLOMAT	4209
 MT KENYA REGION LIMITED Data Controller	7167
 MULTI REGION DEAL ACTIVITY	4972
 MULTILATERAL AND REGIONAL TRADE AGREEMENTS	1243
-Magistrat.ADMINISTRATEUR REPRESENTANT LE CONSEIL REGIONAL DU	7670
+Magistrat.ADMINISTRATEUR REPRESENTANT LE CONSEIL REGIONAL	7670
 Malaysia National Registration and Identification System	10714
 Malta National Registration Identity Card	10714
 Man-Made River Eastern Region	2837
@@ -1000,7 +1001,7 @@ Peru Unique Registry of Identification of Natural Persons	10714
 Planning and Regional Development	103,5234
 Plateaux Region Land Restoration	3437,3942,47
 Plateaux Region Togo	3437,3942,47
-Platform Group Company Secretary and Registered O	4896
+Platform Group Company Secretary and Registered	4896
 Poland Register of Identity Cards	10714
 Policy and Institutional Assessment CR Civil Registration	969
 Population Register	7569
@@ -1045,7 +1046,7 @@ REGIONAL FOCUS	4972
 REGIONAL MODEL LAW INITIATIVES	1243
 REGIONAL POLICY AND LEGISLATION TRENDS	961
 REGIONAL PROFILE	4972
-REGIONAL PROVINCIAL Cuentas CONCEPTO DE LA	4209
+REGIONAL PROVINCIAL Cuentas CONCEPTO	4209
 REGIONAL Regional Economic ECOWAS	961
 REGIONAL SCHOOL OF JOURNALISM BEGINS CIRCLE	10581
 REGIONAL SERVICE DELIVERY FOOTPRINT	8999
@@ -1057,7 +1058,7 @@ REGISTER HERE En	10235
 REGISTER OF LAWS	3861
 REGISTERED	2668
 REGISTERED OFFICE	585,8281
-REGISTO E LICENCIAMENTO DE CENTROS DE	2437
+REGISTO E LICENCIAMENTO DE CENTROS	2437
 REGISTRATION	3714
 REGISTRATION AND FEES	1220
 REGISTRATION AND INCORPORATION OF COMPANIES	3714
@@ -1067,7 +1068,7 @@ REGISTRATION STATUS OF DATA HANDLERS	7167
 REGISTRO	4209
 REGISTRO DE PROPIEDAD DE LA REGION	4209
 REGISTROS REGISTROS REGISTROS REGISTROS REGISTROS Cuentas	4209
-RESTAURANTES CAPITALES DE REGIONES CAPITALES DE	4209
+RESTAURANTES CAPITALES DE REGIONES CAPITALES	4209
 RIR’s Service Region	3503
 Railways Golf Club. Regional Office	6946
 Real Estate Registration and Notarization Sector	9828
@@ -1189,11 +1190,10 @@ Regional Data Commons	6250
 Regional Data Hub	1956
 Regional Data Strategy for Marine and Coastal	961
 Regional Developme	339
-Regional Development	55,1,69,122
+Regional Development	55,1,69,122,1846
 Regional Development Forum for Africa	578
 Regional Development Plan	8645
 Regional Development Rebecca Miano and KenGen Chairman	1245
-Regional Development_	2093
 Regional Digital Inclusion Strategy	7261,1921
 Regional Digital Inclusion Strategy. Opened	7261
 Regional Digital Infrastructure Market Development	1264
@@ -1411,7 +1411,7 @@ Register of Voters The Elections Act	1630
 Register of Voters. Further	1630
 Register of Voters. IEBC	3936
 Register of Voters. The IEBC	3936
-Registered	582,3,151,1992,47,1217,881,665,351,1731,225,567,454,91,824,74,127,119,56,250
+Registered	582,3,151,1992,47,1217,881,23,642,351,1731,225,567,454,91,824,74,127,119,56,250
 Registered Agent	5687
 Registered Births	2775
 Registered Contact	9612
@@ -1425,7 +1425,6 @@ Registered Members and Resource Members	585,8281
 Registered Membership	8866
 Registered Murder	2775
 Registered Name	4896
-Registered O	4896
 Registered Office Rationale	8866
 Registered Persons	2775
 Registered Program	6423
@@ -1448,7 +1447,7 @@ Registers Contract	6432
 Registo	539,37,218,1643,1,250,1586,1022,180,1138,2785
 Registo Civil	2953,4513
 Registo Eleitoral Oficioso	6537,282,491,2089,1029
-Registo Predial. O	5850
+Registo Predial	5850
 Registo da Comarca de Mbanza Kongo	5296
 Registo da IA Crítica	3519
 Registo de Dados ARTIGO	539
@@ -1570,7 +1569,7 @@ Registre Social Unifié	2107
 Registre Social Unique	2713,787
 Registre Sont	735
 Registre de Commerce	5478
-Registre des Bénéficiaires Effectifs. MINISTÈRE DE LA	4402
+Registre des Bénéficiaires Effectifs. MINISTÈRE	4402
 Registre du Commerce	6942,404
 Registred	5687
 Registred Note	5687

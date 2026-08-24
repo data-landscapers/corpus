@@ -24,6 +24,7 @@ AIC KATUMANI CDC Data Processor INST-854872AFE10	7167
 AIC Kalamba Data Processor INST-6412627EC6D MAKUENI	7167
 AIC Katheka Health Center Data Controller	7167
 AKILI UNDE KATIKA MAGEUZI YA KIDIJITALI	7218
+AL KARIM MEDICAL CENTER LIMITED Data Processor	7167
 ALICE HIUKO KAMWENJI Data Controller INST-65956547587	7167
 ALLAN KANYI WACHIRA Data Processor INST-114939D8C25	7167
 ANN WANJIKU KARIUKI Data Processor INST-9855362BE84	7167
@@ -90,8 +91,7 @@ Ambassador Dr. Kadah	8335
 Ambassador Dr. Mohamed Kadah	8335
 Ambassador John Mirenge and Estelle Kayitesi	4921
 Aminata Kaba	7978
-Aminata Kane	5836
-Aminata Kane. Le	8140
+Aminata Kane	5836,2304
 Amine Kandil	8244,232
 Anant Kamath	226
 Anaïs Kale-Mea-Kale	10302
@@ -112,7 +112,7 @@ Arnold Kavaarpuo	4757,16,446,3260,2150
 Arouna KABORE	6827
 Article Google Scholar Katende R	9739
 Association Al Karam	8891
-Association Kabakoo. La	8656
+Association Kabakoo	8656
 Attorney General Mulilo Kabesha	7223
 Auditor General Alexis Kamuhire	3043
 Authors Frederike Kaltheuner	6487
@@ -123,8 +123,7 @@ BUILD WITH KARIANYU Data Processor INST-6069911E795	7167
 Babu Kalonzo Maraga Gachagua	7869
 Backup. PPPC CEO Patrick Kabambe	1632
 Bamako Kayes Koulikoro Sikasso Ségou Mopti	6959
-Banga Kayo	3191,259,309,108,6361
-Banga Kayo. La	2738
+Banga Kayo	2738,453,259,309,108,6361
 Bank of Uganda Dr. Kamau Thugge	7815
 Baptista Eusébio Oreste Kauxique Maganlal Adelino	2989
 Barthélemy KABORE	8321
@@ -190,9 +189,8 @@ Charles Waithaka Kanyi Data Processor INST-274144700E9	7167
 Chartered Mr Cleopas Kadzimu Chartered Accountant	4896
 Cheick Fantamady Kante Practice Managers	2889
 Cheick Kante	764,811
-Cheikh Hamidou Kane	10493
+Cheikh Hamidou Kane	10493,83
 Cheikh Hamidou Kane Digital University	2335
-Cheikh Hamidou Kane. La	10576
 Cherif Kane Coordinateur	8105
 Chichester. Kaltenbrunner	2093
 Chief Administrator of Kauto Administrative Area	8213
@@ -207,7 +205,7 @@ Civil. M. Abdoul Kader Moussa Garba	10547
 Cleopas Kadzimu	4896
 Cleopas Kadzimu BDO Zimbabwe Chartered	4896
 Cleopas Kadzimu Chief Finance	4896
-Cleopas Kadzimu Chief Financial O	4896
+Cleopas Kadzimu Chief Financial	4896
 Cleopas Kadzimu Nil Nil Nil	4896
 Cleopas Kadzimu. SECTION	4896
 Climate Kalumbila District	1988
@@ -234,7 +232,6 @@ Corporate Social Responsibility Kathieno B Self	6946
 Cotonou. Pour Jean-Claude Kassi Brou	3719
 Council. Kalumbila Town Council	1988
 Célestin Kadjidja	2263,1631,850,5741,162
-Célestin Kadjidja. La	4744
 D and Karvonen	2096
 D'après M. Kadiat	2415
 D. Kaufmann	1264
@@ -247,7 +244,7 @@ DR. JAMES KABORA MOGIRE Data Processor	7167
 DR. KALEBI LABS	7167
 DRIP KASH INVESTMENT LIMITED Data Controller	7167
 Dadaab and Kakuma	2324
-Dahmani Abderrahmane Kandila Les	8891
+Dahmani Abderrahmane Kandila	8891
 Dan Kasirye	579
 Dan Katz	9428
 Daniel Kahneman	8380
@@ -351,7 +348,7 @@ Esther Karuga	2517
 Estonia President Alar Karis. Botswana	2910
 Eunice Kamwendo	8754
 European Union Ambassador Karsten Mecklenburg	6013
-Evelyne Elsa Kaboré. Les	10413
+Evelyne Elsa Kaboré	10413
 Events KAUTRA Introduces Smarter Onboard Ticketing	3907
 Excellency President Yoweri Kaguta Museveni	9781
 Executive Director of KADUPEDI	8661,134
@@ -378,7 +375,7 @@ Fred Matiang’I and Kalonzo Musyoka	7869
 Fred Matiang’i Kalonzo Musyoka Rigathi Gachagua	7869
 Frederico Antunes de Carvalho Sarah Kleinmann Karen	6832
 Frederike Kaltheuner	6487,392,978
-Frédéric Kanga. Le	6200
+Frédéric Kanga	6200
 G.C. Kane	4432
 G.K. Karagiannidis	8022
 GESD Citizen Engagement Committee Willy Kambwandira	8434
@@ -543,7 +540,6 @@ Jean Kaseya	4782,421,1292
 Jean Sansan Kambile	2349
 Jean Sansan Kambilé	2332,3513,22,1037
 Jean-Claude Kassi Brou	3259,425,35,2679,1197
-Jean-Claude Kassi Brou. La	3684
 Jean-Claude Kassi Brou. Pour	3684
 Jean-Jacques Kayembe	8524
 Jemima Kariuki-Njuguna	6865
@@ -616,7 +612,6 @@ KAUTO	8213
 KAVIE	9399
 KAYDAN TECHNOLOGY	6180
 KAYDAN TECHNOLOGY. L'entreprise	6180
-KAYO. Le	2738
 KAYOD	3526,841
 KAYOD Le Kenya	2448,490,3817
 KAYOD Technologies	3526,841
@@ -692,7 +687,7 @@ Kadi RABO Soukriya NACRO	3633
 Kadiata Malick Diallo	6719
 Kadiatou OULLA	7670
 Kadick Integrated Limited	3862
-Kadidja Adoum Attimer. Le	5671
+Kadidja Adoum Attimer	5671
 Kadiogo	8321
 Kadiogo du Balai Citoyen	8634
 Kadiogo du Balai Citoyen. Sadiya Diallo	8634
@@ -877,7 +872,7 @@ Kambasu	8661,134
 Kambwa	8434
 Kambwandira	8434
 Kamel Baddari	2617,2554,3909,164,459
-Kamel Benelkadi Les	9244
+Kamel Benelkadi	9244
 Kamel Rezig	2131,1682,1638
 Kamerun BMZ	1051
 Kamhoua	8606
@@ -934,7 +929,7 @@ Kamto	2336
 Kamugisha	4175
 Kamukina	4941
 Kamukunji	7573,2740
-Kamukunji_cluster.pdf	7573
+Kamukunji cluster.pdf	7573
 Kamuleta	8345
 Kamuntu	9386
 Kamusoko	1554
@@ -1041,7 +1036,6 @@ Kanzenze Water Treatment Plant	718
 Kaolack	58,583,3559,3354,2027,480,113
 Kaolack and Fatick	58
 Kaolack. Elle	5761
-Kaolack. Le	10174
 Kaoma	1988
 Kaoma District	1867,121
 Kaonde	1778
@@ -1160,7 +1154,7 @@ Kasaï	7892
 Kasbah	1688,3330,4578,469,590
 Kaseje D	1219
 Kaseje&author	1219
-Kaselitz E	1219
+Kaselitz	1219
 Kaselitz&volume	1219
 Kasenyi	5209
 Kasese	3275,3160,1597,557,72,1120
@@ -1225,7 +1219,6 @@ Kassem	6947
 Kassem Mnejja	1637,250
 Kassena-Nankana West District	7165
 Kasserine	9596
-Kasserine. Le	9596
 Kasseré	5221
 Kassim Majaliwa	2718,367
 Kassogue	6283
@@ -1242,7 +1235,7 @@ Katanga	9248
 Katanomics	4844
 Katavi	2868,3860
 Kate Bapela	9375
-Kate Bartlett_ Rapid	7638
+Kate Bartlett Rapid	7638
 Kate Duffy	2677
 Kate Kallot	7151
 Kate Mayberry	10373
@@ -1331,7 +1324,7 @@ Kay-Lyne Wolfenden	2711,769,5,39,137,35,44,23,1,24,17,76,51,150,11,101,102,281,5
 Kay-Lyne Wolfenden Cybastion Institute of Technology	3441
 Kay-Lyne Wolfenden Developed	6376
 Kay-Lyne Wolfenden Discussions	5917
-Kay-Lyne Wolfenden F E	9790,107,84
+Kay-Lyne Wolfenden F	9790,107,84
 Kay-Lyne Wolfenden Konaté	4096
 Kay-Lyne Wolfenden Overall	5755
 Kay-Lyne Wolfenden PactDigital	7251
@@ -1339,14 +1332,12 @@ Kay-Lyne Wolfenden Priority	3891
 Kay-Lyne Wolfenden The Accelerating Digital Transformation	4963
 Kaya. Des	7916
 Kaya. L'adoption	4399
-Kaya. Les	7915
 Kayanza	9173
 Kaye Ann Williams	10481
 Kayemba Laurent Ntumba. For Southern Africa	9507
 Kayes	6648,311,769
 Kayes Koulikoro Sikasso Ségou Mopti Tombouctou	6959
 Kayes Tombouctou	6959
-Kayes. Les	6959
 Kayhil Freight	5168
 Kayhko	2096
 Kayigana	8838
@@ -1363,11 +1354,10 @@ Kayoola E-Bus	8549
 Kayunga District	3005
 Kayuyu	10436
 Kazakh	1749,8319
-Kazakhstan	1749,641,913,126,194,745,974,19,1289,155,18,26,44,231,838,487,1492,127,362,202,82
+Kazakhstan	1749,641,913,126,194,745,974,19,1289,155,18,26,44,231,838,487,428,1064,127,362,202,82
 Kazakhstan Les Comores	8877
 Kazakhstan and Togo	1749
 Kazakhstan. At Digital Almaty	1749
-Kazakhstan. La	8877
 Kazakhtelecom	9941,691
 Kazang	10393
 Kazang Insights	10393
@@ -1439,7 +1429,6 @@ Léonidas Kabura	6742
 M-PESA Buy Goods Kadogo	8842
 M-PESA Kadogo	8842,155
 M. Abdoul Kader Moussa Garba	9567,101,486,393
-M. Abdoul Kader Moussa Garba. La	10154
 M. Abdoulkader Kamil Mohamed	4774
 M. Amine Kandil	8002
 M. Dominique Kaba	5835
@@ -1568,7 +1557,7 @@ Mohamed Kamara	10180
 Mohamed Karim	3891
 Mohammed Kamal	7519
 Monsieur Abdou Karim DIALLO	8269
-Monsieur Jean-Claude Kassi Brou. La	8316
+Monsieur Jean-Claude Kassi Brou	8316
 Monsieur KABA Ibrahima	2342
 Monsieur Kalil KONATÉ	1598
 Monsieur Takanari KAKUDA	8321
@@ -1773,7 +1762,7 @@ Rwanda's President Paul Kagame	8113
 Rwandan President Paul Kagame. NCC Executive	8552
 Rwanda’s Paul Kagame	5302
 Rwanda’s President Paul Kagame	4030
-Région de Kayes. Le	9287,55
+Région de Kayes	9287,55
 République Kaïs Saïed	7767,1231
 SAES3 Kamal M. Siblini Team Member	1284
 SAWADOGO Kadsongo	737

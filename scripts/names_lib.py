@@ -101,13 +101,25 @@ def names_in(text: str) -> set[str]:
 
 
 def clean(raw: str) -> str:
-    """Trim a candidate to the name itself: filler off both ends, possessive off the tail."""
-    s = " ".join(raw.split())
+    r"""Trim a candidate to the name itself: filler off both ends, possessive off the tail.
+
+    Underscores become spaces first. `\w` admits `_`, so a slug or filename quoted in
+    the prose came through whole — `Bruno_N_Kone`, `ICT_Commission_Tanzania`,
+    `Sidian_Bank` all reached `lookups/entity-names.csv` and the search index looking
+    like that. An underscore in this corpus is a space someone could not type, so
+    substituting one both repairs the name and lets the trimming below see the words.
+    """
+    s = " ".join(raw.replace("_", " ").split())
     s = re.sub(r"[’']s$", "", s)
     words = s.split()
     while words and words[0].lower() in STOP:
         words = words[1:]
-    while words and words[-1].lower() in STOP:
+    # Particles are trimmed from the **tail only**. Inside a name they are load-bearing
+    # — "Banco de Desenvolvimento", "Banque de l'Habitat" — but a name that *ends* in one
+    # is always a run-on into the next sentence, which is how "Ataraxis. Le" and
+    # "Blue Money Les" were derived off French copy. STOP alone does not catch these,
+    # because it holds English filler and the particles live in KEYSTOP.
+    while words and (words[-1].lower() in STOP or words[-1].lower() in KEYSTOP):
         words = words[:-1]
     s = " ".join(words).strip(" .,;:'’")
     return s if MIN_NAME <= len(s) <= MAX_NAME else ""

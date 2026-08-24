@@ -198,8 +198,8 @@ def derive(items, place_tokens, only=None):
         # itself, "Draft ODPC Guidance" and "ID for All The Electoral Commission of
         # Uganda" are extraction runs that crossed a heading. So the allowance for
         # unexplained tokens grows with corroboration, and where nothing clears it
-        # the page falls back to the prettified slug — which is honest, and often
-        # better than a confident wrong answer.
+        # the page falls back to the prettified slug — which is straight with the
+        # reader, and often better than a confident wrong answer.
         # ...but this never applies to an acronym expansion, where "unexplained
         # tokens" is a meaningless count: an expansion does not contain its own
         # initials, so every word of it is unexplained by construction. Applying it
@@ -210,10 +210,28 @@ def derive(items, place_tokens, only=None):
         # tightness.
         if rank != 2 and extra > (1 if seen < 2 else 3):
             continue
-        # An acronym that drops the rest of the slug (`malawi-ministry-of-ict` ->
-        # "Information and Communication Technology", losing the ministry) needs a
-        # second source before it is worth more than the slug itself.
-        if rank == 2 and best_key[1] == 0 and seen < 2:
+        # An acronym that accounts for **none** of the rest of the slug is never worth
+        # more than the slug itself, however many sources carry it. This used to admit
+        # one at two sources, and corroboration is the wrong axis: nine sources agreeing
+        # that `ai` expands to "Artificial Intelligence" does not make that the name of
+        # `au-continental-ai-strategy`, and it collapsed nine unrelated slugs onto one
+        # label. Same for `cbn-payments-circular-2026` -> "Central Bank of Nigeria",
+        # which named a circular after the bank that issued it. Where the acronym is the
+        # whole slug (`itu`, `undp`, `noa`) there is no rest to account for, `oc` is 1.0
+        # by construction, and none of this applies.
+        if rank == 2 and best_key[1] == 0:
+            continue
+
+        # The country-suffix bug's last costume. Rejecting a *place-only acronym
+        # expansion* fixed `bf-ministry-digital-transition`, but the same wrong answer
+        # arrives at rank 1 and 0 too: `cv-telecom`, `gov-cv` and `techpark-cv` all
+        # derived "Cabo Verde". A candidate that is nothing but place tokens names the
+        # country, not the thing — unless the slug is only a place, where it is right
+        # (`kenya` -> "Kenya"), which is what `distinguishing()` returning `core or toks`
+        # already tells us.
+        cand_toks = [w for w in tokens(best) if w not in KEYSTOP]
+        if (cand_toks and all(w in place_tokens for w in cand_toks)
+                and any(t not in place_tokens for t in slug.split("-") if len(t) > 1)):
             continue
 
         basis = {2: "acronym", 1: "full", 0: "partial"}[rank]

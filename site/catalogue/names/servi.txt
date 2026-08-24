@@ -67,7 +67,7 @@ ATC KENYA SERVICES LIMITED Data Controller	7167
 ATC KENYA SERVICES LIMITED Data Processor	7167
 AUC-AfricaNenda Digital Financial Services	1115
 AVENUE RESCUE SERVICES LIMITED Data Processor	7167
-AVIS A MANIFESTATIONS D’INTERET SERVICES DE	7977
+AVIS A MANIFESTATIONS D’INTERET SERVICES	7977
 AWS Advanced Tier Services Partner	1729
 Absa Pension Services Limited Data Controller	7167
 Academic Affairs Hospitality Services Internal Audit	10123
@@ -115,7 +115,7 @@ African Digital Financial Services	5124
 African Mobile Phone Financial Services Policy	7166
 African Revenue Service	10394
 African Revenue Service SCRA Standing Committee	5533
-Africa’s Public Service Delivery and Performance Review_	2093
+Africa’s Public Service Delivery and Performance Review	2093
 Ag. Director Director Human Resource and Services	6946
 Aga Khan Education Service Kenya Data	7167
 Agence Nationale du Service Universel des Télécommunications	3322,282,765
@@ -206,7 +206,7 @@ BEMESTAR HEALTH SERVICES LIMITED Data Processor	7167
 BENROSE SERVICES COMPANY LIMITED Data Processor	7167
 BETTER SHORT MESSAGE SERVICES LIMITED Data	7167
 BEYOND ALL LOVE SERVICES LIMITED Data	7167
-BGFI Services. La	4043
+BGFI Services	4043
 BIENESTAR SOCIAL E INFRAESTRUCTURAS SANITARIAS Servicio	4209
 BIENS ET SERVICES	1272
 BITBIZ CONSULTING AND SERVICES LTD Data	7167
@@ -648,8 +648,7 @@ Department of Children Services	2775,6308
 Department of Children's Services	8050
 Department of Employment Services	5250
 Department of Health Services	7167
-Department of Health and Human Services	7750
-Department of Health and Human Services. But I	4049
+Department of Health and Human Services	4049,3701
 Department of Health and Human Services. The U.S	10446
 Department of Immigration and Citizenship Services	7070
 Department of Public Service and Administration	1810,102,5146,38,3006
@@ -708,7 +707,6 @@ Digital Services Act's Platform Liability Regime	5349
 Digital Services Act. National	8529
 Digital Services Act. The United States	8046
 Digital Services Agency	3454
-Digital Services Agency. Do	3454
 Digital Services Authority	5444
 Digital Services Bill	5631
 Digital Services Bill and Cybersecurity Bill	4186
@@ -782,8 +780,8 @@ Dzaïr Digital Services	8637
 Dzaïr Digital Services. Il	6419
 Délivrance des Services	3604
 Délivrance des Services de Base	3443
-E COMUNICAÇÃO E DOS SERVIÇOS DA	15
-E Jefe Servicio Grupo E	4209
+E COMUNICAÇÃO E DOS SERVIÇOS	15
+E Jefe Servicio Grupo	4209
 E Servicio	4209
 E-CSP Electronic Certification Service Provider EMDE	6946
 E-Government Service Adoption	5349
@@ -880,7 +878,6 @@ Equality and Quality of Service	5676
 Equality and Quality of Service Consumers	5676
 Equipamiento Servicio Exterior	4209
 Espaces Sénégal Services	7641,217
-Espaces Sénégal Services. La	7641
 Especialista Grupo E Servicio	4209
 Especialista Grupo F Jefe Servicio Grupo	4209
 Especialista Grupo F Servicio	4209
@@ -1292,25 +1289,23 @@ IoT Fixed Services and IoT	6100
 Ivoire Digitizes Judicial Services	2349
 Ivoire Rolls Out Nationwide Financial Service	5817
 Jackson County Library Services	8022
+Jee Servicio Grupo	4209
 Jee Servicio Grupo B	4209
 Jee Servicio Grupo C	4209
 Jee Servicio Grupo D	4209
-Jee Servicio Grupo E	4209
+Jee de Servicio Grupo	4209
 Jee de Servicio Grupo B	4209
 Jee de Servicio Grupo D	4209
-Jee de Servicio Grupo E	4209
 Jees de Servicio Grupo B	4209
 Jefe Informático Servicio	4209
 Jefe Servicio	4209
-Jefe Servicio E	4209
 Jefe Servicio Grupo	4209
 Jefe Servicio Grupo B	4209
 Jefe Servicio Grupo C	4209
 Jefe Servicio Grupo D	4209
-Jefe Servicio Grupo E	4209
 Jefe Servicio Grupo F	4209
 Jefe Servicio Grupo G	4209
-Jefe Servicio Grupo G D.G. DE	4209
+Jefe Servicio Grupo G D.G	4209
 Jefe Servicio Grupo G D.G. ENCARGADO	4209
 Jefe Servicio Grupo G Sección	4209
 Jefe Servicio Grupo G Servicio	4209
@@ -1318,9 +1313,9 @@ Jefe Servicio Zona Escolar	4209
 Jefe ServicioGrupo D	4209
 Jefe de Estado Mayor Adjunto Servicio	4209
 Jefe de Estado Mayor Servicio	4209
+Jefe de Servicio Grupo	4209
 Jefe de Servicio Grupo B	4209
 Jefe de Servicio Grupo D	4209
-Jefe de Servicio Grupo E	4209
 Jeff Bezos’ Amazon Web Services	9239
 Journal of Services Marketing	8460
 Judicial Service Commission	9241,1
@@ -1760,7 +1755,7 @@ PRINCIPAL SECRETARY State Department Medical Services	7987,1
 PRODUCTS AND SERVICES	582
 PROGRAMME PILOTAGE ET SOUTIEN AUX SERVICES	4105
 PROMOCION EMPRESARIAL E INDUSTRIA Servicio	4209
-PROPOSTA DE REGULAMENTO DOS SERVIÇOS DE	2438
+PROPOSTA DE REGULAMENTO DOS SERVIÇOS	2438
 PROT. INFRAEST. INFRAESTURAS Y SERVICIOS SERVICIOS	4209
 PROVISION OF TRANSACTION ADVISORY SERVICES	5793
 PS for Immigration and Citizen Services	4631
@@ -1937,7 +1932,7 @@ Publication Services PO Box	1828
 Publicity and Broadcasting Services	972
 Q1 FY27 By Service Segment Service	8727
 QUALITY OF SERVICE MONITORING	718
-QUALITY OF SERVICE UNDERTAKING I	22
+QUALITY OF SERVICE UNDERTAKING	22
 QUALITY OF SERVICE WORRY TECH EXPERTS	9594
 Qualidade Prestação de Serviço	1256,84,743,2330
 Quality of Financial Services of Côte	5817
@@ -2043,7 +2038,7 @@ SECURITY SERVICE PROVIDERS	2727
 SECÇÃO II SERVIÇOS EXECUTIVOS Artigo	167
 SECÇÃO III SERVIÇOS DE APOIO AGRUPADOS	167
 SERVICE A VALEUR AJOUTEE	998
-SERVICE BUS FORM DE	2709
+SERVICE BUS FORM	2709
 SERVICE CONTRACTS OF DIRECTORS	4896
 SERVICE CONTRACTS OF DIRECTORS Company	4896
 SERVICE DATA	3862
@@ -2315,6 +2310,7 @@ Services Agreement	1243
 Services Agreement TPP Trans-Pacific Partnership UK	1243
 Services Alhaji Mohammed-Mubarak	4229
 Services Assimilés	1649
+Services BEE	7210
 Services Citoyens Scalables	3857
 Services Cluster	3583
 Services Consumer Confidence Description Consumer	5676
@@ -2377,7 +2373,6 @@ Services. American University International Law Review	1243
 Services. Interested Consultants	9603,1
 Services. NTT Global. Retrieved	6832
 Services190	1682
-Services_BEE	7210
 Servicing	10189
 Servicio	4209
 Servicio Exterior	4209
@@ -2446,7 +2441,6 @@ Serviços	15,152,2270,379,1259,143,56,1188,1106,284,118,1190,1243,1211
 Serviços Baseados	2816
 Serviços Centrais	2688,1530
 Serviços Digitais	2816,1458,2621,350
-Serviços Digitais. O	6895
 Serviços Ecológicos. O Projecto	1192
 Serviços Essenciais	4218
 Serviços Executivos	4218
@@ -2508,6 +2502,7 @@ Société Comores Informatique Service	3868
 Software Support-The Service Desk	2477
 Software Testing Service	5665
 Software Testing Services	5665
+Software as a service. Manuel	1984
 Solid Interconnectivity Services Limited	3862
 Solutions and Services for Carrier Phones	3511
 Somalia’s National Employment Service Center	5172

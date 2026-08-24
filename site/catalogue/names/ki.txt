@@ -69,15 +69,12 @@ Audiencia Provincial de Kie Ntem	4209
 Augustin KIBASSA MALIBA	7470
 Augustin Kibasa	3512
 Augustin Kibassa	8444,307,151,392
-Augustin Kibassa Maliba	2398,167,37,191,93,218,6,398,226,13,1201,145,322,315,170,483,1805,335,162,217,157,518,144,37,64
+Augustin Kibassa Maliba	2398,167,37,191,93,218,6,398,226,13,1201,145,322,315,170,483,1805,335,162,217,157,234,284,144,37,64
 Augustin Kibassa Maliba. CP	8902
-Augustin Kibassa Maliba. De	2886
 Augustin Kibassa Maliba. Ils	9293
 Augustin Kibassa Maliba. L'objectif	2886
-Augustin Kibassa Maliba. Le	9293
 Augustin Kibassa. ACP	8444
 Augustin Kibassa. Jeudi	3110
-Augustin Kibassa. Le	8902
 Augustin Kibassa. Samedi	2602
 Augustine Kidisil	7696
 Avec Kimba Connect	7268
@@ -533,7 +530,7 @@ Kiaraho	6627
 Kiaren Bently	7429
 Kiarie	2518,3798,684,2940
 Kibaale District	7771
-Kibabi. Les	5209
+Kibabi	5209
 Kibaha	4534
 Kibaha. Officials	10460
 Kibalo	2686
@@ -542,9 +539,8 @@ Kibamba Constituency	8884
 Kibamba. Salamu	6019
 Kibao	4964
 Kibasa Maliba	3512
-Kibassa	8444,849,1,1
+Kibassa	8444,849,1,1,527
 Kibassa Maliba	2385,725,398
-Kibassa. De	9822
 Kibatha Njoroge	5690
 Kibaza	4941
 Kibenga	718
@@ -715,7 +711,6 @@ Kilifi North	7000,3313
 Kilifi North MP	7000
 Kilifi South	10313
 Kilifi and Marsabit	5134
-Kilifi. I	10313
 Kilimall	5440
 Kilimanjaro	2868,1086,2774
 Kilimanjaro Kidney	2857,3026,94
@@ -768,7 +763,7 @@ Kimi K3 Tech Industry US	9629
 Kimihurura	718,4223,28
 Kimihurura Sector	4941
 Kimihurura Sector Office	4941
-Kiminini Market and Diani Market._	6133
+Kiminini Market and Diani Market	6133
 Kimironko	718
 Kimironko Market	5399
 Kimkakati	6019
@@ -837,7 +832,7 @@ Kinondoi-Manyanya	2718
 Kinondoni	7258
 Kinondoni MP Tarimba Abbas	5977
 Kinsella EA	9739
-Kinshasa	1839,6,12,1,23,363,106,39,26,150,133,88,3,97,65,118,35,6,185,6,175,258,73,11,32,38,55,112,37,409,168,26,131,67,140,84,41,257,10,88,91,6,57,27,141,1,52,250,100,200,143,16,50,14,92,11,44,408,141,113,213,1,99,30,79,290,6,133,24,99,1,78,120,109,149,1,114,43,122,11,101,1,1,1,1,280,46,98,35,2,64,102,150,23,259,44,1,35,38,1,31,119,31
+Kinshasa	1839,6,12,1,23,363,106,39,26,150,133,88,3,97,65,118,35,6,185,6,175,258,73,11,32,38,55,112,37,409,168,26,131,67,140,84,41,257,10,88,91,6,57,27,16,125,1,52,250,100,200,143,16,50,14,92,11,44,408,141,113,213,1,99,30,79,290,6,133,24,99,1,78,120,109,149,1,114,43,122,11,101,1,1,1,1,280,46,98,35,2,64,102,150,23,259,44,1,35,38,1,31,119,31
 Kinshasa Achieves ISO and PCI DSS Certifications	2350
 Kinshasa Government Steps Foot	3245
 Kinshasa Internet Exchange	10506
@@ -853,8 +848,6 @@ Kinshasa. Companion	5415
 Kinshasa. Dans	6661
 Kinshasa. Il	6016
 Kinshasa. L'événement	3807
-Kinshasa. La	5710
-Kinshasa. Les	4695,198
 Kinshasa. Promise	3978
 Kinshasa. The Africa Congo Internet Exchange	6238
 Kinshasa.Face	7683
@@ -887,7 +880,7 @@ Kipkogei	9645
 Kiplagat S. Court	7187
 Kippour	7655
 Kiprono	5110
-Kiprotich Koros_	6055
+Kiprotich Koros	6055
 Kipsang	2666,76,3532,549
 Kiptoo	10330
 Kira. Another	9696
@@ -1005,7 +998,6 @@ Legal Officer Kishna Dhondee and Senior Executive	9612
 Light and Sun King	4972
 LinkedIn NIRA Executive Director Rosemary Kisembo	9386
 Lisa Kim	8555,1582
-Lisa Kim. La	8555
 Livestock Data Controller INST-1443778C6D8 KITUI Kenya	7167
 Livestock Data Processor INST-1443778C6D8 KITUI Kenya	7167
 Lopela Paul Kichoda	3005

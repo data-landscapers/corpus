@@ -22,6 +22,7 @@ AI Sphere	1771,480,2853
 AI Sprint	9873
 AI Sprinter	1363,3165
 AI Sprinters	1363
+AI Sprinters Report.pdf	1363
 AI and Innovation LinkedIn Targets AI Spam	5562
 AI-powered Spam Alert Service	9899
 AL JUYUSHI SPECIALIST CLINIC Data Controller	7167
@@ -31,6 +32,7 @@ AMOORE SPECIAL CLINIC LTD Data Processor	7167
 ANGOLA RULING PARTY SPLITS OVER HIGH-STAKES	9399
 APEX SPECIAL CLINICS AND WELLNESS CENTRE	7167
 APEX SPECIALIST AND DIAGNOSTIC CENTER LIMITED	7167
+API SP.URB.TOTL DS2 fr excel v2 318520	747
 APPENDICES Appendix A Equipment Specifications Desktop	34
 ASFR Age Specific Fertility Rates ASPs	2775
 AST SpaceMobile	7303
@@ -214,6 +216,7 @@ Coordination and Regulation of Space	1131
 Copper Springs Community Health Center Data	7167
 Could Spain	9608,208
 Country Director of Project Sprint	8264
+Country Specific Policy Briefs	961
 County Department of Sports	7167
 Cresta Sprayview Hotel	6642
 Cross-Border Data Flows Are Spreading Globally	1243
@@ -368,6 +371,7 @@ Founding Sponsor Membership	514
 Founding and Headline Sponsor	3797
 Fourth Specialized Technical Committee	961
 French Guiana SPLANG	7145
+French Guiana SPLANG.2e16d0ba.fill-280x185.jpg	7145
 French and Spanish	6612
 Frequency Spectrum Authorizations	6946
 Frequency Spectrum Authorizations Authorization FY FY	6946
@@ -438,18 +442,15 @@ Highway Spotlight Tracing Digital Corridors	4130
 Hold Special Sitting	6077
 Hon Speaker. Hon. Speaker	10313
 Hon. Deputy Speaker	10313
-Hon. Deputy Speaker. I	10313
 Hon. Rose Museo. Hon. Speaker	10313
 Hon. Speaker	10313
 Hon. Speaker. About	10313
 Hon. Speaker. Disclaimer	10313
 Hon. Speaker. Hon. Speaker	10313
-Hon. Speaker. I	10313
 Hon. Speaker. Pursuant	10313
 Hon. Temporary Speaker	10313
 Hon. Temporary Speaker. Allow	10313
 Hon. Temporary Speaker. Hon. Owen Baya	10313
-Hon. Temporary Speaker. I	10313
 Hon. Temporary Speaker. Let	10313
 Hon. Temporary Speaker. The Committee	10313
 Hon. Temporary Speaker. The Deputy Leader	10313
@@ -839,6 +840,7 @@ Rt. Hon. Speaker	7695
 Rural Behavior Sparse	4130
 Russian Space Agency	5886
 Rwanda Space Agency	1903,3146,4495
+Rwanda Space Agency Brochure.pdf	1903
 Rwanda. Specifically	718
 RÉSUMÉ DES CHAPITRES SPÉCIAUX DES DERNIÈRES	7655
 Réseau des Journalistes Africains Spécialistes	5546
@@ -880,7 +882,7 @@ SPAR6C Programme	9393
 SPAR6C Zambia Team Lead	9393
 SPARK	9270
 SPDs. Within	9123
-SPE AIF I	510
+SPE AIF	510
 SPECIAL	2023
 SPECIAL CONSIDERATIONS FOR STATE PARTIES17	1243
 SPECIAL ECONOMIC ZONES ACT	6921
@@ -900,7 +902,6 @@ SPECIFICATIONS FOR A LABORATORY MANAGEMENT INFORMATION	7988
 SPECIFICATIONS STANDARDS	2779
 SPECIFIED STATE CORPORATIONS Hon. Emmanuel Wangwe	10313
 SPECIFIQUES	10712
-SPECIFIQUES Les	10712
 SPECIFIQUES RESULTATS ATTENDUS	10712
 SPECIFY	582
 SPECIFY THE STEPS YOUR ORGANIZATION RECOMMENDS	2709
@@ -961,7 +962,7 @@ Safe Space for Bold Ideas	4528
 Safeguards Specialist	1228
 Sam Ntuli Sports Centre	9073
 Sammy Masibo Digital Health Specialist	9855
-Sanlam Specialised Asset Management. Jacques Le	9367
+Sanlam Specialised Asset Management. Jacques	9367
 Satellite Imagery and IoT Data for Spatial Temporal	2816
 Satellite PMU E&S Specialists	1988
 Satellite Paradox SpaceX	6467
@@ -1057,7 +1058,7 @@ Space24 and Starlink	7051
 Space42	4952,2028
 Space42 and BrainSAT Technologies	6980
 Space42 and Esri	6232
-SpaceX	1585,63,28,19,117,3,2,34,21,15,42,46,1,3,1,6,11,283,89,75,94,15,1,2,13,18,9,90,43,64,4,4,11,125,7,2,278,141,140,370,363,6,25,66,5,5,6,91,105,5,105,255,148,27,69,51,205,21,28,41,5,22,83,5,79,105,132,130,134,2,8,19,1,14,5,1,10,5,1,1,25,26,24,128,162,8,32,39,2,11,28,49,27,1,25,40,1,5,1,8,87,51,7,267,25,80,86,253,196,173,656,1,62,21,145,451,51,479,35,196,361
+SpaceX	1585,63,28,19,117,3,2,34,21,15,42,46,1,3,1,6,11,283,89,75,94,15,1,2,13,18,9,90,43,64,4,4,11,125,7,2,278,141,140,370,363,6,25,66,5,5,6,91,105,5,105,255,148,27,69,51,205,21,28,41,5,22,83,5,79,105,132,130,134,2,8,19,1,14,5,1,10,5,1,1,25,26,24,81,47,162,8,32,39,2,11,28,49,27,1,25,40,1,5,1,8,87,51,7,267,25,80,86,253,196,173,656,1,62,21,145,451,51,479,35,196,361
 SpaceX CEO	4912,586
 SpaceX CEO Elon Musk	1980
 SpaceX Complete Starlink Mobile Testing	5562
@@ -1083,7 +1084,6 @@ SpaceX. En	9518
 SpaceX. ICASA	2946
 SpaceX. Instead	6784
 SpaceX. L'entreprise	9518
-SpaceX. Les	6420
 SpaceX. Under	6248
 SpaceX’s ESIM-equipped	6891
 SpaceX’s Gateway Earth Station and User- Terminal	6891
@@ -1092,7 +1092,7 @@ SpaceX’s Starlink Direct-to-Cell	8872
 SpaceX’s Starlink. ICASA	6906
 Spacebear and Dispossessor	2230
 Spacecoin	4604
-Spaceflight Now. Les	1648
+Spaceflight Now	1648
 Spaces for Change	2549
 Spacesail	7051
 Spacetel Bénin	6234
@@ -1253,7 +1253,7 @@ Special Summit	4738
 Special Votes	7266
 Special Yango Offer	3335
 Special Youth Emergency Plan	9616
-Special-purpose_entity_	8346
+Special-purpose entity	8346
 Specialconsiderationshallbegivenwhenachildisfoundguilty	972
 Speciale	8022
 Specialised	961,48,1517,2002,4075,1585

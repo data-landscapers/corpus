@@ -21,7 +21,7 @@ The catalogue carries metadata only — never source bodies. Each record links t
 its publisher (`build-catalogue.py`).
 """
 from __future__ import annotations
-import csv, json, re, shutil, sys
+import ast, csv, json, re, shutil, sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
@@ -37,6 +37,7 @@ NAMES = CORPUS / "outputs" / "names"
 DOC_IDS = CORPUS / "outputs" / "catalogue" / "doc-ids.csv"
 
 ENTITY_NAMES = CORPUS / "lookups" / "entity-names.csv"
+BUILD_CATALOGUE = CORPUS / "scripts" / "build-catalogue.py"
 
 from names_lib import shard_file, shard_key  # noqa: E402  — see there for the WIN_RESERVED rule
 SITE_BASE = "https://corpus.data-landscapers.io"
@@ -44,6 +45,29 @@ MAIN_SITE = "https://data-landscapers.io"
 
 if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+
+
+def csv_cols() -> list[str]:
+    """The download's column list, lifted from `build-catalogue.py` rather than restated.
+
+    The page cuts a filtered CSV in the reader's browser, and it has to come out with
+    the same sixteen columns in the same order as `raw-catalogue.csv` — two files both
+    called CSV with different column sets is the thing that bites a reader six months
+    later, and it is the whole reason the export fetches the full catalogue instead of
+    serialising the eleven fields the browse payload happens to carry.
+
+    So the spec is read from the one place that defines it. By syntax tree, not by
+    import: `build-catalogue.py` opens the vault at module scope, which a page build
+    has no business doing, and its name is hyphenated besides. A column added there
+    reaches the export on the next build with nothing to change here.
+    """
+    tree = ast.parse(BUILD_CATALOGUE.read_text(encoding="utf-8"))
+    for node in tree.body:
+        if isinstance(node, ast.Assign) and any(
+                isinstance(t, ast.Name) and t.id == "CSV_COLS" for t in node.targets):
+            return [ast.literal_eval(e) for e in node.value.elts]
+    raise SystemExit("catalogue: no CSV_COLS in build-catalogue.py — the filtered "
+                     "download cannot be built without the column spec")
 
 
 def catalogue_dir() -> Path:
@@ -67,6 +91,77 @@ def vocab():
     topics = taxonomy_lib.labels()
     cats = taxonomy_lib.level1s()
     return places, regions, topics, cats
+
+
+def _place_map():
+    """Token(s) a slug writes -> the country name to qualify a label with."""
+    m = {}
+    with open(VOCAB / "countries.csv", encoding="utf-8-sig") as fh:
+        for r in csv.DictReader(fh):
+            name = (r.get("country-name") or "").strip()
+            iso = (r.get("iso-3") or "").strip().lower()
+            if not name:
+                continue
+            if iso:
+                m[(iso,)] = name
+            toks = tuple(t for t in name.lower().replace("'", " ").replace("-", " ").split() if t)
+            if toks:
+                m.setdefault(toks, name)
+    # Forms the slugs write that the vocabulary does not, including the two-letter
+    # codes — countries.csv carries iso-3 only, and `bf-`, `cv-` are common prefixes.
+    m.update({("cote", "divoire"): "Côte d'Ivoire", ("civ",): "Côte d'Ivoire",
+              ("drc",): "DR Congo", ("rdc",): "DR Congo", ("bf",): "Burkina Faso",
+              ("cv",): "Cabo Verde", ("gnq",): "Equatorial Guinea"})
+    return m
+
+
+def disambiguate(ent_names: dict) -> dict:
+    """Qualify a display name that several *different* entities would otherwise share.
+
+    `build-entity-names.py` strips the place before scoring, which is right — a country
+    suffix is the least distinguishing part of a slug and was winning on its own. But
+    the place was then missing from the **label** too, so 17 ministries of finance and
+    12 ministries of health all read the same on the page and in the row chips, and the
+    reader could not tell which country's they were filtering by. 458 slugs collapsed
+    onto 183 labels that way.
+
+    Only where the collision is real: slugs that resolve to the *same* place, or to no
+    place at all, are duplicate slugs for one entity (`m-kopa`, `m-kopa-holdings-ltd`)
+    and should keep sharing a label. And a place already named in the display adds
+    nothing — "Central Bank of Nigeria (Nigeria)" is worse than leaving it alone.
+    """
+    pm = _place_map()
+    single = {k[0]: v for k, v in pm.items() if len(k) == 1 and len(k[0]) >= 5}
+
+    def place_of(slug):
+        t = slug.split("-")
+        for n in (3, 2, 1):                      # longest wins: `burkina-faso` before `faso`
+            for i in range(len(t) - n + 1):
+                if tuple(t[i:i + n]) in pm:
+                    return pm[tuple(t[i:i + n])]
+        for tok in t:                            # last resort: adjectival or truncated
+            if len(tok) < 5:
+                continue
+            for base, name in single.items():
+                if tok.startswith(base) or base.startswith(tok):
+                    return name
+        return None
+
+    by = {}
+    for slug, display in ent_names.items():
+        by.setdefault(display, []).append(slug)
+    out = dict(ent_names)
+    for display, slugs in by.items():
+        if len(slugs) < 2:
+            continue
+        pl = {s: place_of(s) for s in slugs}
+        if len(set(pl.values())) < 2:
+            continue
+        for s in slugs:
+            p = pl[s]
+            if p and p.lower() not in display.lower():
+                out[s] = f"{display} ({p})"
+    return out
 
 
 def pack_rows(cdir: Path):
@@ -150,8 +245,14 @@ STYLE = r"""
   .cat .opt.zero{opacity:.34}
   .cat .grp{font-size:11px;text-transform:uppercase;letter-spacing:.06em;color:var(--faint);margin:9px 0 3px;padding-left:4px}
   .cat .grp:first-child{margin-top:0}
-  .cat .count{font-size:14px;color:var(--muted);margin:0 0 12px}
+  .cat .countrow{display:flex;align-items:baseline;justify-content:space-between;gap:8px 18px;flex-wrap:wrap;margin:0 0 12px}
+  .cat .count{font-size:14px;color:var(--muted);margin:0}
   .cat .count b{color:var(--ink);font-weight:600}
+  .cat .dl{font-size:13px;color:var(--muted)}
+  .cat .dl button{background:none;border:0;padding:0;font:inherit;color:var(--accent);cursor:pointer}
+  .cat .dl button:hover{text-decoration:underline}
+  .cat .dl button[disabled]{color:var(--faint);cursor:default;text-decoration:none}
+  .cat .dl .dlmsg{display:block;color:var(--warn);font-size:12.5px;margin-top:3px;max-width:44ch}
   .cat .row{border-bottom:1px solid var(--line);padding:13px 0;display:grid;grid-template-columns:92px minmax(0,1fr);gap:16px}
   .cat .row .date{color:var(--faint);font-size:13px;font-variant-numeric:tabular-nums;padding-top:1px}
   .cat .row .ttl{font-size:15px;margin:0 0 3px;line-height:1.4}
@@ -193,7 +294,7 @@ BODY = r"""
   <div class="cols">
     <aside id="facets"></aside>
     <main>
-      <p class="count" id="count"></p>
+      <div class="countrow"><p class="count" id="count"></p><span class="dl" id="dl"></span></div>
       <div id="results"></div>
       <button class="more" id="more" hidden>Show more</button>
       <p class="note" id="note"></p>
@@ -330,6 +431,127 @@ SCRIPT = r"""
       });
   }
 
+  // ---- downloading a selection ----------------------------------------------
+  // The browse payload carries eleven of the download's sixteen fields: author,
+  // date_precision, finance, words and ingested were never needed to render a row,
+  // so pack_rows never packed them. That leaves three ways to export a filtered
+  // selection and only one of them is honest. Serialising what the page holds gives
+  // a CSV with a different column set from the published one. Packing the missing
+  // five gives parity, paid for by every visitor to buy an export most never ask
+  // for, on a payload design.md §6 is already worried about. So: fetch the full
+  // catalogue once, on the first export click, and cut the selection from it by
+  // slug. A reader who browses without exporting fetches nothing at all, and what
+  // comes out has the same sixteen columns as the whole-catalogue download.
+  //
+  // Same lazy-fetch shape as the names index above, and it degrades the same way —
+  // if the fetch fails the reader still has the whole-catalogue links at the top.
+  var CSVCOLS = D.cols || [], VIEW = [], FULL = null, fullPending = null, dlMsg = '';
+
+  function fetchFull(){
+    if (FULL) return Promise.resolve(FULL);
+    if (fullPending) return fullPending;
+    if (!window.fetch || !window.Blob || !window.URL || !URL.createObjectURL)
+      return Promise.reject(new Error('unsupported'));
+    fullPending = fetch('raw-catalogue.json')
+      .then(function(res){ if (!res.ok) throw new Error(res.status); return res.json(); })
+      .then(function(d){
+        var items = d.items || [], by = {};
+        for (var i = 0; i < items.length; i++) by[items[i].slug] = items[i];
+        FULL = {built: d.built, note: d.note, by: by};
+        return FULL;
+      })
+      .catch(function(err){ fullPending = null; throw err; });   // so a retry can happen
+    return fullPending;
+  }
+
+  function csvCell(v){
+    // `csv.DictWriter`'s QUOTE_MINIMAL, reproduced: quote only where the value
+    // carries a comma, a quote or a line break, and double an inner quote.
+    if (v === null || v === undefined) v = '';
+    else if (v === true) v = 'True';        // Python writes its bools this way and
+    else if (v === false) v = 'False';      // `finance` is one
+    else if (Array.isArray(v)) v = v.join('; ');   // build-catalogue.py's own separator
+    v = String(v);
+    return /[",\r\n]/.test(v) ? '"' + v.replace(/"/g, '""') + '"' : v;
+  }
+  function toCSV(items){
+    // CRLF and no BOM, because that is what the published file has. RENDER.md ->
+    // *The finance tables* is the standing warning about the two disagreeing.
+    var out = [CSVCOLS.join(',')], i, c, row;
+    for (i = 0; i < items.length; i++){
+      row = [];
+      for (c = 0; c < CSVCOLS.length; c++) row.push(csvCell(items[i][CSVCOLS[c]]));
+      out.push(row.join(','));
+    }
+    return out.join('\r\n') + '\r\n';
+  }
+
+  function selectionMeta(n, built){
+    // The JSON carries what produced it; the CSV cannot, which is why the filename
+    // carries the build date instead.
+    //
+    // What this is *not* is a dated edition — and neither is the whole-catalogue
+    // file, deliberately (design.md §9: the catalogue is an index over other
+    // people's records, republished wholesale at an undated URL). So the thing to
+    // cite is the view's own url, which re-cuts against whatever the catalogue
+    // holds when it is opened, and the build date says which cut this file was.
+    var f = {};
+    if (state.q) f.search = state.q;
+    ['places','topics','ents','lens','years'].forEach(function(k){
+      if (state[k].length) f[k] = state[k].slice();
+    });
+    if (state.sort !== 'new') f.sort = state.sort;
+    return {url: location.href, filters: f, records: n,
+            of: ROWS.length, cut: new Date().toISOString().slice(0, 19) + 'Z',
+            note: 'A selection cut in a reader\'s browser from the catalogue as built on ' +
+                  built + '. The catalogue is republished wholesale rather than versioned, ' +
+                  'so cite the url above — it re-cuts this selection against whatever the ' +
+                  'catalogue holds when it is opened.'};
+  }
+
+  function save(name, text, mime){
+    var blob = new Blob([text], {type: mime + ';charset=utf-8'}),
+        u = URL.createObjectURL(blob), a = document.createElement('a');
+    a.href = u; a.download = name;
+    document.body.appendChild(a); a.click(); document.body.removeChild(a);
+    setTimeout(function(){ URL.revokeObjectURL(u); }, 4000);
+  }
+
+  function exportSelection(fmt){
+    var slugs = VIEW.map(function(r){ return r[7]; });
+    dlMsg = 'busy'; drawDownload();
+    fetchFull().then(function(full){
+      var items = [], i, it;
+      for (i = 0; i < slugs.length; i++){ it = full.by[slugs[i]]; if (it) items.push(it); }
+      var base = 'catalogue-selection-' + (full.built || 'undated');
+      if (fmt === 'csv') save(base + '.csv', toCSV(items), 'text/csv');
+      else save(base + '.json', JSON.stringify({
+        built: full.built, note: full.note,
+        selection: selectionMeta(items.length, full.built),
+        count: items.length, items: items
+      }, null, 1) + '\n', 'application/json');
+      dlMsg = ''; drawDownload();
+    }).catch(function(){
+      // The buttons come back with the message rather than being replaced by it:
+      // the commonest cause is a dropped connection, and the fix is to press again.
+      dlMsg = 'That did not come through — try again, or take the whole-catalogue ' +
+              'download at the top of the page.';
+      drawDownload();
+    });
+  }
+
+  function drawDownload(){
+    var el = document.getElementById('dl');
+    // Unfiltered, the selection *is* the catalogue, and the published files are the
+    // citable ones — the paragraph at the top of the page already offers them, so
+    // this control stays out of the way until there is a selection to cut.
+    if (!VIEW.length || VIEW.length === ROWS.length){ el.textContent = ''; return; }
+    if (dlMsg === 'busy'){ el.textContent = 'Preparing the file…'; return; }
+    el.innerHTML = 'Download these ' + VIEW.length.toLocaleString() + ': ' +
+      '<button data-dl="csv">CSV</button> &nbsp;·&nbsp; <button data-dl="json">JSON</button>' +
+      (dlMsg ? '<span class="dlmsg">' + esc(dlMsg) + '</span>' : '');
+  }
+
   function passes(r, skip){
     if (state.q && r._s.indexOf(state.q) === -1 &&
         !(nameHits && r[11] >= 0 && nameHits[r[11]])) return false;
@@ -381,7 +603,7 @@ SCRIPT = r"""
         var n = c[k] || 0;
         html += '<label class="opt' + (n ? '' : ' zero') + '">' +
           '<input type="checkbox" data-f="' + key + '" value="' + k + '"' + (on ? ' checked' : '') + '>' +
-          '<span class="lbl" title="' + lab.replace(/"/g,'&quot;') + '">' + lab + '</span>' +
+          '<span class="lbl" title="' + att(lab) + '">' + esc(lab) + '</span>' +
           '<span class="n">' + n.toLocaleString() + '</span></label>';
         drawn++;
       }
@@ -412,15 +634,17 @@ SCRIPT = r"""
   function drawChips(){
     var c = document.getElementById('chips'), h = '';
     function add(key, label, val, text){
-      h += '<span class="chip"><b>' + label + '</b> ' + text +
-           ' <button data-rm="' + key + '" data-v="' + val + '" aria-label="Remove">&times;</button></span>';
+      h += '<span class="chip"><b>' + label + '</b> ' + esc(text) +
+           ' <button data-rm="' + key + '" data-v="' + att(val) + '" aria-label="Remove">&times;</button></span>';
     }
     state.places.forEach(function(v){ add('places','Country', v, D.places[v]||v); });
     state.topics.forEach(function(v){ add('topics','Topic', v, D.topics[v]||v); });
     state.ents.forEach(function(v){ add('ents','Actor', v, ENTLABEL[v]||v); });
     state.lens.forEach(function(v){ add('lens','Lens', v, v); });
     state.years.forEach(function(v){ add('years','Year', v, v); });
-    if (state.q) h += '<span class="chip"><b>Search</b> ' + state.q + ' <button data-rm="q" data-v="">&times;</button></span>';
+    // `state.q` arrives from the URL fragment via readHash, so it is attacker-supplied
+    // on a public page and must be escaped before it reaches innerHTML.
+    if (state.q) h += '<span class="chip"><b>Search</b> ' + esc(state.q) + ' <button data-rm="q" data-v="">&times;</button></span>';
     if (h) h += '<button class="clearall" id="clearall">Clear all</button>';
     c.innerHTML = h;
   }
@@ -428,6 +652,9 @@ SCRIPT = r"""
     var out = ROWS.filter(function(r){ return passes(r, null); });
     if (state.sort === 'old') out = out.slice().reverse();
     else if (state.sort === 'az') out = out.slice().sort(function(a,b){ return a[0].localeCompare(b[0]); });
+    // Held for the export, after the sort rather than before it: a downloaded
+    // selection comes out in the order the reader was looking at.
+    VIEW = out; dlMsg = ''; drawDownload();
     document.getElementById('count').innerHTML =
       '<b>' + out.length.toLocaleString() + '</b> of ' + ROWS.length.toLocaleString() + ' records';
     var slice = out.slice(0, state.shown), h = '';
@@ -450,6 +677,8 @@ SCRIPT = r"""
     m.hidden = out.length <= state.shown;
     m.textContent = 'Show more (' + Math.min(100, out.length - state.shown) + ' of ' + (out.length - state.shown).toLocaleString() + ' remaining)';
     var note = 'Browsing ' + ROWS.length.toLocaleString() + ' catalogue records. Filter state is in the URL — copy the address bar to share this view.';
+    if (VIEW.length && VIEW.length < ROWS.length)
+      note += ' A downloaded selection carries the same sixteen columns as the whole-catalogue file, cut in your browser from the build you are looking at — so cite this view’s URL rather than the file, and it will re-cut against whatever the catalogue holds when it is opened. The JSON records the filter that produced it.';
     if (NAMES){
       if (nameBusy) note = 'Also searching ' + NAMES.n.toLocaleString() + ' names found in the sources…';
       else if (nameHits) note = 'Includes matches on names occurring in the sources, not only in titles. ' + note;
@@ -458,6 +687,9 @@ SCRIPT = r"""
     document.getElementById('note').textContent = note;
   }
   function esc(s){ return String(s).replace(/[<>&]/g, function(c){ return {'<':'&lt;','>':'&gt;','&':'&amp;'}[c]; }); }
+  // For a value going into a quoted attribute rather than a text node. Filter values
+  // reach these from the URL fragment, so `"` has to close nothing.
+  function att(s){ return esc(s).replace(/"/g, '&quot;'); }
   function writeHash(){
     var p = [];
     if (state.q) p.push('q=' + encodeURIComponent(state.q));
@@ -504,6 +736,7 @@ SCRIPT = r"""
       redraw();
     }
     if (t.id === 'more'){ state.shown += 100; drawResults(); }
+    if (t.dataset && t.dataset.dl){ exportSelection(t.dataset.dl); }
   });
   var timer;
   document.getElementById('q').addEventListener('input', function(){
@@ -564,6 +797,8 @@ def main() -> int:
                 if r.get("display"):
                     ent_names[r["slug"]] = r["display"]
 
+    ent_names = disambiguate(ent_names)
+
     nm = NAMES / "manifest.json"
     names_meta = json.loads(nm.read_text(encoding="utf-8")) if nm.exists() else None
     if names_meta:
@@ -575,9 +810,11 @@ def main() -> int:
     # packed data the page reads
     # Only the slugs that *have* a derived name are shipped; the rest are absent and
     # the page prettifies them, so this costs nothing for the 36% still unnamed.
+    # `cols` is the download's column spec, ~200 bytes, and it is what lets the page
+    # cut a filtered CSV with the same sixteen columns as the published one.
     payload = {"places": places, "regions": regions, "topics": topics, "cats": cats,
                "ents": ents, "entnames": {s: n for s, n in ent_names.items() if s in set(ents)},
-               "names": payload_names, "rows": rows}
+               "names": payload_names, "cols": csv_cols(), "rows": rows}
     data_js = out_dir / "catalogue-data.js"
     with open(data_js, "w", encoding="utf-8") as fh:
         fh.write("window.CATALOGUE = ")
@@ -632,7 +869,18 @@ def main() -> int:
         print(f"  names index: {names_meta['names']:,} names over {n_shards:,} shards, "
               f"fetched on demand")
     else:
+        # `outputs/names/` is gitignored, so on a fresh clone — or after a clean — it is
+        # absent and the page ships with search turned off. The shards under `site/` are
+        # tracked and survive, so the published tree is then serving 1,900 files nothing
+        # references. Not fatal (re-running the builder fixes it) but never what anyone
+        # meant, and the prune below cannot run to tidy up because there is no manifest
+        # to say what is wanted.
+        orphans = len(list(shard_dir.glob("*.txt"))) if shard_dir.exists() else 0
         print("  names index: not built — run scripts/build-names-index.py")
+        if orphans:
+            print(f"  WARNING: {orphans:,} published shards under site/catalogue/names/ are "
+                  f"now unreferenced — the page shipped without search. Run "
+                  f"scripts/build-names-index.py and re-run this.")
     if ent_names:
         named = sum(1 for e in ents if e in ent_names)
         print(f"  entity display names: {named:,} of {len(ents):,} "

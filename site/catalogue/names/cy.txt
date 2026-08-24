@@ -541,7 +541,7 @@ Cybernetica. We’re	5325
 Cyberport de Hong Kong	6568
 Cybersecurit	6432
 Cybersecurite	10494
-Cybersecurity	528,50,9,58,4,69,240,3,1,7,27,4,161,39,43,188,1,128,126,91,37,72,23,31,219,97,52,269,45,81,72,158,25,31,91,53,64,48,99,25,118,12,105,47,40,168,2,21,5,15,40,184,60,337,60,27,43,111,68,135,5,1,161,38,69,3,32,5,26,23,33,44,126,16,48,75,5,96,11,384,75,68,10,66,45,26,81,226,4,24,39,62,6,36,10,274,58,260,10,35,104,54,18,263,51,119,411,37,71,54,74,58,50,31,4,29,106,316,58,125,79,14,19,114,151,69,37,58,59,139,28,33,44,67,93,101
+Cybersecurity	528,50,9,58,4,69,240,3,1,7,27,4,161,39,43,188,1,128,126,91,37,72,23,31,219,97,52,269,45,81,72,158,25,31,91,53,64,48,99,25,118,12,105,47,40,168,2,21,5,15,40,184,60,337,60,27,43,111,68,135,5,1,161,38,69,3,32,5,26,23,33,44,126,16,48,75,5,96,11,384,75,68,10,66,45,26,81,226,4,24,39,62,6,36,10,58,216,58,260,10,35,104,54,18,263,51,119,411,37,71,54,74,58,50,31,4,29,106,316,58,125,79,14,19,114,151,69,37,58,59,139,28,33,44,67,93,101
 Cybersecurity Act	587,574,616,2110,239,360,680,480,673,1,616,4,2142,122,524,111,3,426,108
 Cybersecurity Advisory Board	1000
 Cybersecurity Advocacy	10721
@@ -585,7 +585,6 @@ Cybersecurity Cybersecurity Skill	10721
 Cybersecurity Data Protection and Privacy Financial Digital	5676
 Cybersecurity Days	6778
 Cybersecurity Development Cybersecurity	10721
-Cybersecurity Do	7004
 Cybersecurity Ecosystem and Cross-Sector CCB-CECC.S1	10721
 Cybersecurity Education	1000,777
 Cybersecurity Education Cluster. Identify	1777
@@ -1012,7 +1011,7 @@ Journal of Cyber Policy	2518
 Kay-Lyne Wolfenden Cybastion Institute of Technology	3441
 Kenya Cyber Resilience	4471,297
 Kenya Cyber Resilience Project	4470
-Kenya Cyberspace_Portal	2447
+Kenya Cyberspace Portal	2447
 Kenya and UK Review Cybersecurity Partnership	10587
 Kenya's National Cybersecurity Strategy and Digital Master	4768
 Kenya. Computer Misuse and Cybercrimes Act	6432

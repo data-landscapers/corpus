@@ -30,9 +30,11 @@ when its own names change, which is what makes this affordable in git.
 **Bounded fetches, not a bounded index.** Shards are keyed on the first two
 characters of *every word* in a name, so "Cassava Technologies" is reachable from
 both `ca` and `te`. A prefix whose shard grows past `SPLIT_BYTES` is re-cut at
-three characters and named in the manifest's `splits`, so the page knows to use a
-longer key. The page never searches names on fewer than three characters, which
-is what makes that safe.
+three characters and recorded in the manifest's `splits` as a build record. The page
+does not read that list — it walks the shipped key list from longest to shortest,
+which works because a split key is removed when its children are written, so no
+key is ever a prefix of another. The page never searches names on fewer than
+three characters, which is what makes that safe.
 
 **Tables and frontmatter are not prose.** The first pass at this indexed the
 finance records' column headers — `Value`, `Financier`, `Amount`, `Deal ID` were
@@ -82,8 +84,14 @@ from names_lib import (KEYSTOP, WORDKEY, WIN_RESERVED, shard_file, shard_key,   
                        body, names_in)                                          # noqa: E402
 
 
-def doc_ids(slugs: list[str]) -> dict[str, int]:
-    """Append-only slug -> id. Existing ids are never reassigned; new slugs go on the end."""
+def doc_ids(slugs: list[str], write: bool = True) -> dict[str, int]:
+    """Append-only slug -> id. Existing ids are never reassigned; new slugs go on the end.
+
+    `write=False` mints the new ids in memory and leaves the file alone. `--check` and
+    `--stats` promise to write nothing, and this is a *tracked* registry — minting ids
+    from a read-only probe dirties the working tree and quietly commits the numbering
+    to whatever the vault happened to hold at the time.
+    """
     ids: dict[str, int] = {}
     if DOC_IDS.exists():
         with open(DOC_IDS, encoding="utf-8", newline="") as fh:
@@ -94,7 +102,7 @@ def doc_ids(slugs: list[str]) -> dict[str, int]:
     for s in fresh:
         ids[s] = nxt
         nxt += 1
-    if fresh or not DOC_IDS.exists():
+    if write and (fresh or not DOC_IDS.exists()):
         DOC_IDS.parent.mkdir(parents=True, exist_ok=True)
         with open(DOC_IDS, "w", encoding="utf-8", newline="\n") as fh:
             w = csv.writer(fh, lineterminator="\n")
@@ -277,7 +285,7 @@ def main() -> int:
 
     doc = json.loads(CATALOGUE.read_text(encoding="utf-8"))
     items = doc["items"] if isinstance(doc, dict) and "items" in doc else doc
-    ids = doc_ids([i["slug"] for i in items])
+    ids = doc_ids([i["slug"] for i in items], write=not (a.check or a.stats))
     post, missing = harvest(items, ids)
     shards, splits, lines = shard(post)
     stats = {"built": doc.get("built", ""), "names": len(post),

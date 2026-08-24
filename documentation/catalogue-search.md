@@ -67,7 +67,7 @@ The file earns a second job immediately: **alias search**. A `display` of "Natio
 
 > **Ruled, 2026-08-24 (Bill): "Publishing an index of names is not a licencing/copyright problem."** The question below is settled and stage 3 is admissible. What remains is engineering — the shard layout, the `RENDER.md` §9 exemption, and the lazy-fetch split — not permission. The argument is left standing because it is the reasoning the ruling was given on.
 
-**The honest reading is that a search index is not a republication, and the leak gate's own framing supports it**: `design.md` §8 says "the boundary that matters is bodies, not internal reasoning", and the gate's tests are for body-shaped *fields* — a column named `text`, a value over a length cap. A positionless inverted index delivers no expressive content and no prose can be reconstructed from it. But that is an argument, not a ruling, and **publishing it puts it in a public repo's history permanently**. By the reversibility test in `CLAUDE.md` → *Be decisive*, that makes it Bill's call rather than one to take and log.
+**The better reading is that a search index is not a republication, and the leak gate's own framing supports it**: `design.md` §8 says "the boundary that matters is bodies, not internal reasoning", and the gate's tests are for body-shaped *fields* — a column named `text`, a value over a length cap. A positionless inverted index delivers no expressive content and no prose can be reconstructed from it. But that is an argument, not a ruling, and **publishing it puts it in a public repo's history permanently**. By the reversibility test in `CLAUDE.md` → *Be decisive*, that makes it Bill's call rather than one to take and log.
 
 **The recommendation, if he says yes: index names, not every word.** A read-only probe over a 900-document sample of `raw/` extrapolates to roughly **123,000 distinct proper-noun strings and 508,000 name→document postings** — about 3 MB raw, near 1 MB gzipped, against the 9.6 million words a full-text index would have to cover. It answers the question actually asked, it is an order of magnitude smaller, and "a list of the names occurring in a document" is a far easier thing to defend as an index term than a full concordance. **No snippets, in either case** — match-or-no-match is the line, because a snippet *is* the body, in fragments.
 
@@ -113,7 +113,7 @@ Sub-Saharan mobile sits at [15–20 Mbps on average](https://www.connectingafric
 
 **Latency, not bytes.** On a poor mobile link a round trip is 300–800 ms, which dwarfs the transfer of a 2 KB file. Debounce at ~150 ms, cache every shard for the session, and never fetch on the first character.
 
-**Word-prefix, not substring.** Typing `aricom` will not find Safaricom, where today's `indexOf` over titles would. This applies only to the names index — title, publisher and entity search stay in memory and stay substring — but it is a visible behaviour difference and the placeholder text has to be honest about it.
+**Word-prefix, not substring.** Typing `aricom` will not find Safaricom, where today's `indexOf` over titles would. This applies only to the names index — title, publisher and entity search stay in memory and stay substring — but it is a visible behaviour difference and the placeholder text has to say so.
 
 **Bounded worst case, and a rule to settle.** The all-names variant has one 310 KB shard, which is 25 seconds on EDGE; split any shard over ~30 KB to three characters and the whole index fits with a bounded tail. Separately, 586–809 shard files are rebuilt on every run, so they are **not** edition-style artefacts and the immutability rule in `RENDER.md` §9 must exempt them or key them by content hash — otherwise the first rebuild trips it.
 
@@ -140,7 +140,7 @@ Verified by driving the built page under jsdom: first paint and a full redraw in
 
 ## Stage 3 — built 2026-08-24
 
-`scripts/build-names-index.py` extracts names from the source bodies and writes `outputs/names/`; `scripts/catalogue.py` packs the shard keys into the page and publishes the shards; `scripts/leak-check.py` admits them by shape. **207,911 names over 442,331 postings across all 10,711 documents, in 1,889 shards totalling 7.10 MB gzipped on the server.**
+`scripts/build-names-index.py` extracts names from the source bodies and writes `outputs/names/`; `scripts/catalogue.py` packs the shard keys into the page and publishes the shards; `scripts/leak-check.py` admits them by shape. **201,284 names over 430,929 postings across all 10,731 documents, in 1,896 shards.** *(Re-measured 2026-08-24 after stage 2 moved the extraction into `names_lib.py`; the first stage-3 build read 207,911 names over 1,889 shards, and the difference is the shared stopword sets, not the corpus.)*
 
 **What a reader downloads, typing a whole query, measured by driving the built page:**
 
@@ -157,7 +157,7 @@ Verified by driving the built page under jsdom: first paint and a full redraw in
 
 Four decisions worth keeping in view.
 
-**Stable document ids, not row positions.** Postings key on `outputs/catalogue/doc-ids.csv`, which is append-only. Rows sort by date descending, so keying on row position would have shifted every id below each new source and rewritten all 1,889 shards every cycle. A second identical build now rewrites **zero** shards, which is the property that makes this affordable in git.
+**Stable document ids, not row positions.** Postings key on `outputs/catalogue/doc-ids.csv`, which is append-only. Rows sort by date descending, so keying on row position would have shifted every id below each new source and rewritten all 1,896 shards every cycle. A second identical build now rewrites **zero** shards, which is the property that makes this affordable in git.
 
 **Shard on every word, two characters deep, re-cut where fat.** "Cassava Technologies" is reachable from `ca` and from `te`. The first cut left a 248 KB shard, and one re-cut left 244 KB — English prefixes are not uniformly distributed, so the split had to become iterative. The remaining lever was that `of` and `the` were being used as shard keys, collecting every name containing them into a bucket too short to cut; excluding words nobody searches took the worst shard to **94.9 KB**, with a 0.5 KB median and a 10.7 KB p90.
 
@@ -175,7 +175,7 @@ The extraction is shared with stage 3 rather than rebuilt: `names_lib.py` holds 
 
 **Strip the place before scoring.** Plain token overlap gave `pura-gambia` → "The Gambia" and `sec-nigeria` → "Nigeria": a country suffix is the least distinguishing part of a slug and was winning on its own. Scoring now runs on the slug's distinguishing tokens, with the place kept only as a tie-break so `bank-of-namibia` still prefers "Bank of Namibia" over "Bank". Those two now give *Public Utilities Regulatory Authority* and *Securities and Exchange Commission*.
 
-**An acronym match must not expand to a place.** `bf` is the initials of "Burkina Faso", so the fix above simply moved the bug: `bf-ministry-digital-transition` derived the country and dropped the ministry. An expansion made entirely of place tokens is now rejected, and that slug falls back to the prettifier — which is honest, and better than a confident wrong answer.
+**An acronym match must not expand to a place.** `bf` is the initials of "Burkina Faso", so the fix above simply moved the bug: `bf-ministry-digital-transition` derived the country and dropped the ministry. An expansion made entirely of place tokens is now rejected, and that slug falls back to the prettifier — which is straight with the reader, and better than a confident wrong answer.
 
 **Thin evidence must be tight evidence — except for acronyms.** 4,074 slugs are tagged by exactly one source, so requiring two sources to agree is not a quality bar but a 78%→25% coverage cut on slugs that can never corroborate. What separates a good single-source derivation from a bad one is how much of the candidate the slug fails to explain: "Bank of Namibia" explains itself, "Draft ODPC Guidance" and "ID for All The Electoral Commission of Uganda" are extraction runs that crossed a heading. So the allowance for unexplained tokens grows with corroboration. Applying that to acronyms was then a mistake of its own — an expansion never contains its own initials, so *every* word is unexplained by construction, and the rule cost `undp` its "United Nations Development Programme" for being four words long while three-word `itu` survived. A threshold that fires on word count while claiming to measure fit is worth catching early.
 

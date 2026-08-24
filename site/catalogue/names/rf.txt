@@ -62,7 +62,6 @@ RFC5646 HL7 CDA R2 ISO2260 PDF	1009
 RFC6585	1009
 RFC7525	1009
 RFC7540	1009
-RFI Le	10085
 RFI. L'initiative	7421
 RFID Journal	8776
 RFID and EAS	736
@@ -73,13 +72,12 @@ RFP Wireless Infrastructure for AUC Final	7951
 RFP. Aisino	3700
 RFP. Closing	9676
 RFP116	7514
+RFQ 03	8474
 RFQ-RFP	5793
-RFQ_03	8474
 RFS Ready For Service F Forecast	3184,1,1340
 RFS Regulations	6891
 RFSAP	7828
 RFSAPs	7828,152
-RFWB_	736
 Radio Frequency Bandwidth RFBW	736
 Referral RFC	1009
 Remove Metadata and Documents RFD South African	1009

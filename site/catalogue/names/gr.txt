@@ -94,7 +94,6 @@ Administrador Grupo B	4209
 Administrador Grupo C Asesor Grupo C	4209
 Administrador Grupo D	4209
 Administrador Grupo D Ayudante Grupo D	4209
-Administrador Grupo E	4209
 Administrador Grupo E Servicio	4209
 Administration. Grâce	747,1,1236
 Advance Green Tech	3730
@@ -114,6 +113,7 @@ Africa Green Hydrogen Summit	2626
 Africa Green Transition PPP Fund	7795
 Africa GreenTech Hub	8094
 Africa Group	7187
+Africa Group.pdf	5550
 Africa Growth Initiative	5440,4269
 Africa Growth Initiative Chido Munyati Chido	5440
 Africa Mobile Networks Group	6467
@@ -154,8 +154,8 @@ Afrique. Grâce	2693
 Afriventia Group	7248
 Age Group	582
 Age Group and Residence	2775
-Agente Grupo E	4209
-Agente Grupo E Auxiliar Grupo E	4209
+Agente Grupo	4209
+Agente Grupo E Auxiliar Grupo	4209
 Agente Grupo F Auxiliar Grupo F	4209
 Agente Grupo F Servicio	4209
 Agente Grupo G Delineante Director Grupo	4209
@@ -181,13 +181,14 @@ Amritso Limited and Gresa Limited Trading	7167
 Angel Groups	4972
 Angola and EDGE Group	9399
 Angola and EDGE Group Near Border Security	9399
+Angola opens graft case into would be ruling party	9399
 Annual Africa Group of Experts Meeting	7861
 Annual Expert Group Meeting for African Registrars	7879
 Annual Gross Revenue	4610
 Annual Growth	7446
 Ant Group	6971,1306
 Anzana Electric Group Limited	3093
-Apis Growth Fund I	47,47,303,1161
+Apis Growth Fund	47,47,303,1161
 Apis Growth Fund I Swedfund	94
 Apis Growth Fund I. Apis Fund	94
 Apis Growth Fund II	379,18
@@ -218,7 +219,7 @@ Austria’s Desert Greener	5948
 Authors and Affiliations University of Groningen	9739
 Autonomous District of Greater Lome	4293
 Autres Grenier Autre Magasin	737
-Auxiliar Grupo E	4209
+Auxiliar Grupo	4209
 Auxiliar Grupo F	4209
 Auxiliar Grupo F Servicio	4209
 Average Gross Commodity Prices	2775
@@ -334,9 +335,9 @@ CIUDADANA R. FRONTERAS INSTALAC. GRALES. R	4209
 COMPUTER REVOLUTION AFRICA GROUP LIMITED Data	7167
 CONCLUSION The NBA Election Working Group	10049
 CONDITIONAL GRANTS	5533
-CONSULADOS DEL GRUPO B1 EN EL	4209
-CONSULADOS DEL GRUPO B2 EN EL	4209
-CONSULADOS DEL GRUPO B3 EN EL	4209
+CONSULADOS DEL GRUPO B1 EN	4209
+CONSULADOS DEL GRUPO B2 EN	4209
+CONSULADOS DEL GRUPO B3 EN	4209
 CONTROL RISKS GROUP LIMITED Data Processor	7167
 COO of Standard Bank Group	10189
 COO of Standard Bank Group. Standard Bank	10189
@@ -566,9 +567,9 @@ Direct Award Grant ICT Standardisation	1458
 Direct Award Grant ICT Standardisation European	1458
 Direction des Grandes Entreprises	6163
 Director General of Genesis Group	3112
+Director Grupo	4209
 Director Grupo B	4209
 Director Grupo C	4209
-Director Grupo E	4209
 Director Grupo Servicio	4209
 Director for Graduate and Continuous Education	10384
 Disability Grant	7910,1089
@@ -601,8 +602,8 @@ Driving Economic Growth Through Digital Technology	10157
 DÉCEMBRE DES GROS D’ABIDJAN	2342
 Députés Groupes	9480
 Déus Gracias Tchémanguéré	2739,580
-E Intérprete-Traductor Jefe de Estudios Grupo E	4209
-E Jefe Servicio Grupo E	4209
+E Intérprete-Traductor Jefe de Estudios Grupo	4209
+E Jefe Servicio Grupo	4209
 E- Grand	582
 E.A. VALUE WORLD GROUPE LIMITED Data	7167
 EACO E-Waste Technical Working Group Based	6946
@@ -617,9 +618,9 @@ EIA Ethical Impact Assessment G7 Group	1814
 EIB Grants	2708
 ELDORET GRAINS LIMITED Data Controller INST-588779D6CBA	7167
 ELECTION WORKING GROUP ON THE OSUN	10049
-EMBAJADAS DEL GRUPO A1 EN EL	4209
-EMBAJADAS DEL GRUPO A2 EN EL	4209
-EMBAJADAS DEL GRUPO A3 EN EL	4209
+EMBAJADAS DEL GRUPO A1 EN	4209
+EMBAJADAS DEL GRUPO A2 EN	4209
+EMBAJADAS DEL GRUPO A3 EN	4209
 EMEA Growth	3929
 EU CSP GR M	9123
 EU GR M	9123
@@ -657,9 +658,9 @@ Emerging Cybercrime Group XP95 XP95	5597
 Emerging Technologies C2- Growth	7548
 Emerging Technologies Council Technical Working Groups	7548
 Emerging Technologies Working Group	8645
+Encargado Grupo	4209
 Encargado Grupo C Especialista Grupo C	4209
 Encargado Grupo D	4209
-Encargado Grupo E	4209
 Encargado Grupo G Servicio	4209
 Energy For Growth Hub	5247
 Energy Growth Hub	4964
@@ -694,7 +695,6 @@ Eskom Green	9769
 Especialista Grupo	4209
 Especialista Grupo B	4209
 Especialista Grupo D	4209
-Especialista Grupo E	4209
 Especialista Grupo E Servicio	4209
 Especialista Grupo F	4209
 Especialista Grupo F Jefe Servicio Grupo	4209
@@ -937,11 +937,10 @@ Gracefully	6593
 Gracias	6298
 Gracious Igwe	10653
 Gradations of Data Sensitivity and Protection Levels	3861
-Grade	288,524,1175,1,787,173,1001,286,899,914,709,189,298,1894,528,283
+Grade	288,524,1175,1,787,173,1001,286,899,914,709,189,298,20,1874,528,283
 Grade B	5134
 Grade C	5134
 Grade D	5134
-Grade I	7264
 Grade I... ByStanley Khumalo15	3331,91,225,6,324,50,31,115,12,487,194,149,2015,234
 Grade One Magistrate Geoffrey Akena	4235
 Grade Six	6946
@@ -995,11 +994,9 @@ Grand Bassam	318,687,1337,266,531
 Grand Bassam Avis	1005
 Grand Bassam Ce	1005
 Grand Bassam Contexte	1005
-Grand Bassam De	1005
 Grand Bassam NATURE DE L’EFFET TYPOLOGIE	1005
 Grand Bassam SECTION	1005
 Grand Bassam. Il	1005
-Grand Bassam. Le	1005
 Grand Capital	10468
 Grand Cayman KY1-9001	7198
 Grand Challenge	1148,3380,4502
@@ -1031,10 +1028,9 @@ Grand View Research	5852
 Grand Vizier of Persia	899
 Grand Walkerhill Seoul	9905
 Grand Yoff	5207,554
-Grand-Bassam	1697,200,445,418,359,317,168,4,75,7,4,7,586,1558,169,3040,466
+Grand-Bassam	1697,200,445,418,359,317,168,4,75,7,4,4,3,586,1558,169,3040,466
 Grand-Bassam. Ce	3402
 Grand-Bassam. Certains	9054
-Grand-Bassam. La	3698
 Grand-Béréby	5221
 Grand-Duché de Luxembourg	8678
 Grand-Duché de Luxembourg. Le Centre	7374
@@ -1215,7 +1211,6 @@ Green Agriculture	970
 Green Amayaga II	8674
 Green Blood	4992
 Green Blood Group	4924,43,1,24,5,149,184
-Green Blood Group. Les	4992
 Green Bloods	4997
 Green Bond	9796
 Green Bond for Off-Grid Solar PAYG	939
@@ -1450,6 +1445,7 @@ Groundwater and Boreholes	1988
 Group	157,65,1,1,3,3,88,91,16,148,10,167,13,9,1,14,184,3,5,8,5,1,3,7,10,10,1,119,54,87,294,192,1,7,40,81,45,44,59,42,537,149,708,121,31,79,139,45,159,95,62,118,28,252,65,75,144,240,15,1,453,71,1,3,100,320,77,55,154,37,116,249,60,50,43,5,1,126,131,38,249,165,219,158,2,1,1,86,1,1,3,21,54,227,8,75,90,124,290,382,46,133,61,24,100,62,1,79,144,140,28,1,404
 Group A. Within Africa	4612
 Group AML	10718
+Group African	6232
 Group Architecture Framework	9124
 Group B	4612
 Group C	2626
@@ -1485,7 +1481,7 @@ Group Chief Product and Innovation Officer	8429
 Group Coaching Facilitator	9198
 Group Coaching Facilitators BongoHive	9198
 Group Company Secretary	4896
-Group Company Secretary and Registered O	4896
+Group Company Secretary and Registered	4896
 Group Data Protection Officer	10694
 Group Data Protection and Privacy Counsel	9903
 Group Discussions	6936
@@ -1542,7 +1538,6 @@ Group. Political	10049
 Group. SPAR6C	9393
 Group. The Group	4360
 GroupBy	4434
-Group_African	6232
 Groupe	24,90,529,94,788,154,219,444,282,184,56,83,23,257,230,201,309,72,88,35,798,203,722,390,145,79,8,376,713,27,32,182,158,242,316,202,136,515,51,23,39,329,356,296,135
 Groupe Algamil	4774
 Groupe BCP	6883
@@ -1570,7 +1565,6 @@ Groupe Sotel Tchad	2863
 Groupe WIB	1232
 Groupe Waberi	4774
 Groupe des Pays	8237
-Groupe. Le	1679
 Groupement	3032,1,682,74,200,1282,1004,602,1452,27,1,1210,158,790,173
 Groupement CGPS	4589
 Groupement Interbancaire Monétique	5740,1543,1517,1911
@@ -1647,7 +1641,6 @@ Grupo D	4209
 Grupo D Director Grupo D Encargado	4209
 Grupo D Especialista Grupo D Inspector	4209
 Grupo D Interventor Grupo D Jefe	4209
-Grupo E	4209
 Grupo E Encargado Grupo E Especialista	4209
 Grupo E Habilitado Pagador Inspector Grupo	4209
 Grupo F Servicio	4209
@@ -1794,7 +1787,6 @@ Inspector Grupo B	4209
 Inspector Grupo C	4209
 Inspector Grupo C Interventor Grupo C	4209
 Inspector Grupo D	4209
-Inspector Grupo E	4209
 Inspector Grupo E Servicio	4209
 Inspur Group	51,134
 Institute of Religion and The Graduate School	8991
@@ -1838,33 +1830,32 @@ JOURS GRATUITS Profitez	10387,306
 JSON JSON Groupes Parlementaires Groupes	9480
 Jade Rose Graphic Design Cover	4528
 Jamieson Greer	8760,1673
+Jee Servicio Grupo	4209
 Jee Servicio Grupo B	4209
 Jee Servicio Grupo C	4209
 Jee Servicio Grupo D	4209
-Jee Servicio Grupo E	4209
+Jee de Servicio Grupo	4209
 Jee de Servicio Grupo B	4209
 Jee de Servicio Grupo D	4209
-Jee de Servicio Grupo E	4209
 Jees de Servicio Grupo B	4209
 Jefe Económico Parlamento Inspector Grupo	4209
+Jefe Sección Grupo	4209
 Jefe Sección Grupo D	4209
-Jefe Sección Grupo E	4209
 Jefe Servicio Grupo	4209
 Jefe Servicio Grupo B	4209
 Jefe Servicio Grupo C	4209
 Jefe Servicio Grupo D	4209
-Jefe Servicio Grupo E	4209
 Jefe Servicio Grupo F	4209
 Jefe Servicio Grupo G	4209
-Jefe Servicio Grupo G D.G. DE	4209
+Jefe Servicio Grupo G D.G	4209
 Jefe Servicio Grupo G D.G. ENCARGADO	4209
 Jefe Servicio Grupo G Sección	4209
 Jefe Servicio Grupo G Servicio	4209
 Jefe Supervisor Grupo C	4209
-Jefe de Estudios Grupo E	4209
+Jefe de Estudios Grupo	4209
+Jefe de Servicio Grupo	4209
 Jefe de Servicio Grupo B	4209
 Jefe de Servicio Grupo D	4209
-Jefe de Servicio Grupo E	4209
 Jefe de Zona Escolar Jefe Informático Grupo	4209
 Jennifer Onyeagoro The Wave Money Group	3345
 Jeune Afrique Media Group	7596
@@ -1964,7 +1955,7 @@ MENTAL Y ADMVA. Y GESTIÓN GRAL	4209
 MICDE Secretariat and Technical Working Groups	7548
 MICDE Sector Working Group Report	7548
 MILLION Gross Telecom S Revenue	9781
-MISE EN PLACE DU GROUPE DE	10711
+MISE EN PLACE DU GROUPE	10711
 MNE Group	573
 MNE Group. MNE Group	573
 MNE Group. Tax	573
@@ -2163,8 +2154,8 @@ Number of Individual Research Licenses Granted	2775
 OFIQ User Group Meeting Online	2521,659,249,939,974,1524,210,294
 OKAYA Group	2760
 OZON Aljaded For Telecom and Technology Group	2843
+Oficial Grupo	4209
 Oficial Grupo D Policía Judicial Grupo	4209
-Oficial Grupo E	4209
 Oficial Grupo E Responsable Deporte Militar	4209
 Oicial Grupo D	4209
 Okwiri and Guodong Network Communications Group Chairman	10283
@@ -2232,7 +2223,7 @@ Petites Moyennes Grandes	7655
 Phase1 Group	8606
 Pieter Grootes Municipalities	5602
 Plateformes X du Groupe SONATEL	7634
-Platform Group Company Secretary and Registered O	4896
+Platform Group Company Secretary and Registered	4896
 Pleno Senador Ministro Delegado Diputado Gran	4209
 Policy Recommendations for Accelerating Growth	2334
 Policy Stakeholder Group	1867
@@ -2355,7 +2346,7 @@ SA World Bank Group The World	1228
 SADC Expert Group	318
 SADC Real-Time Gross Settlement System	10169
 SAVIS Group	5140
-SECÇÃO II VISUALIZAÇÃO E GRAVAÇÃO DE	794
+SECÇÃO II VISUALIZAÇÃO E GRAVAÇÃO	794
 SERENEA Group	7021
 SOC of Group's SOC	10721
 SOCIEDAD PROCESOS CUENTAS GRAL. DE REG	4209
@@ -2366,11 +2357,12 @@ SOP2 World Bank Group	5362
 SOP3 World Bank Group	221
 SPEECH Resetting for Growth	7695
 SPIRIT-AI and CONSORT-AI Working Group	8301
+SS IC Syllabus Gr12 Final February 2019.pdf	288
 STC Group	4993
 STEM Graduates	4528
 SYGMA Automated Gross Amount System	969
 SYGMA- Système de Gros Montants Automatisé	969
-SYNTHÈSE DES RECOMMANDATIONS DES GROUPES DE	10024
+SYNTHÈSE DES RECOMMANDATIONS DES GROUPES	10024
 SYSTAC. Groupings of Central Banks	6938
 Safaricom Group	3898,2202
 Safaricom Group CEO Peter Ndegwa	5581,1283
@@ -2395,12 +2387,12 @@ Scientific Research Graduate	2958
 Seamfix Group CEO Chimezie Emewulu	4292
 Secretario Gral. Adj. Consejo Super. Podel	4209
 Secretario Gral. Consejo Super. Podel Judicial	4209
+Secretario Grupo	4209
 Secretario Grupo B	4209
 Secretario Grupo C Segundo Jefe Estado	4209
 Secretario Grupo C Servicio	4209
 Secretario Grupo D	4209
 Secretario Grupo D Servicio	4209
-Secretario Grupo E	4209
 Secretario Grupo E Administrador Grupo F	4209
 Secretario Grupo E Servicio	4209
 Secretario Grupo F	4209
@@ -2674,11 +2666,9 @@ Wananchi Group Holdings Ltd	3886
 Wananchi Group Kenya Limited	6946
 War Veterans Grant	7910
 Wave Mobile Money Group	8098
-Wave Mobile Money Group La	8098
 Wave Money Group	3345
 WeChat and Grab	8107
 Webb Fontaine Group	2342
-Webb Fontaine Group. Les	2342
 West Africa The WATRA Working Group	5675
 West Africa WATRA Working Group	5676,5
 West Africa’s Centre of Gravity	6791

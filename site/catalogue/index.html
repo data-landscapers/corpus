@@ -44,8 +44,14 @@
   .cat .opt.zero{opacity:.34}
   .cat .grp{font-size:11px;text-transform:uppercase;letter-spacing:.06em;color:var(--faint);margin:9px 0 3px;padding-left:4px}
   .cat .grp:first-child{margin-top:0}
-  .cat .count{font-size:14px;color:var(--muted);margin:0 0 12px}
+  .cat .countrow{display:flex;align-items:baseline;justify-content:space-between;gap:8px 18px;flex-wrap:wrap;margin:0 0 12px}
+  .cat .count{font-size:14px;color:var(--muted);margin:0}
   .cat .count b{color:var(--ink);font-weight:600}
+  .cat .dl{font-size:13px;color:var(--muted)}
+  .cat .dl button{background:none;border:0;padding:0;font:inherit;color:var(--accent);cursor:pointer}
+  .cat .dl button:hover{text-decoration:underline}
+  .cat .dl button[disabled]{color:var(--faint);cursor:default;text-decoration:none}
+  .cat .dl .dlmsg{display:block;color:var(--warn);font-size:12.5px;margin-top:3px;max-width:44ch}
   .cat .row{border-bottom:1px solid var(--line);padding:13px 0;display:grid;grid-template-columns:92px minmax(0,1fr);gap:16px}
   .cat .row .date{color:var(--faint);font-size:13px;font-variant-numeric:tabular-nums;padding-top:1px}
   .cat .row .ttl{font-size:15px;margin:0 0 3px;line-height:1.4}
@@ -119,7 +125,7 @@
   <div class="cols">
     <aside id="facets"></aside>
     <main>
-      <p class="count" id="count"></p>
+      <div class="countrow"><p class="count" id="count"></p><span class="dl" id="dl"></span></div>
       <div id="results"></div>
       <button class="more" id="more" hidden>Show more</button>
       <p class="note" id="note"></p>
@@ -264,6 +270,127 @@
       });
   }
 
+  // ---- downloading a selection ----------------------------------------------
+  // The browse payload carries eleven of the download's sixteen fields: author,
+  // date_precision, finance, words and ingested were never needed to render a row,
+  // so pack_rows never packed them. That leaves three ways to export a filtered
+  // selection and only one of them is honest. Serialising what the page holds gives
+  // a CSV with a different column set from the published one. Packing the missing
+  // five gives parity, paid for by every visitor to buy an export most never ask
+  // for, on a payload design.md §6 is already worried about. So: fetch the full
+  // catalogue once, on the first export click, and cut the selection from it by
+  // slug. A reader who browses without exporting fetches nothing at all, and what
+  // comes out has the same sixteen columns as the whole-catalogue download.
+  //
+  // Same lazy-fetch shape as the names index above, and it degrades the same way —
+  // if the fetch fails the reader still has the whole-catalogue links at the top.
+  var CSVCOLS = D.cols || [], VIEW = [], FULL = null, fullPending = null, dlMsg = '';
+
+  function fetchFull(){
+    if (FULL) return Promise.resolve(FULL);
+    if (fullPending) return fullPending;
+    if (!window.fetch || !window.Blob || !window.URL || !URL.createObjectURL)
+      return Promise.reject(new Error('unsupported'));
+    fullPending = fetch('raw-catalogue.json')
+      .then(function(res){ if (!res.ok) throw new Error(res.status); return res.json(); })
+      .then(function(d){
+        var items = d.items || [], by = {};
+        for (var i = 0; i < items.length; i++) by[items[i].slug] = items[i];
+        FULL = {built: d.built, note: d.note, by: by};
+        return FULL;
+      })
+      .catch(function(err){ fullPending = null; throw err; });   // so a retry can happen
+    return fullPending;
+  }
+
+  function csvCell(v){
+    // `csv.DictWriter`'s QUOTE_MINIMAL, reproduced: quote only where the value
+    // carries a comma, a quote or a line break, and double an inner quote.
+    if (v === null || v === undefined) v = '';
+    else if (v === true) v = 'True';        // Python writes its bools this way and
+    else if (v === false) v = 'False';      // `finance` is one
+    else if (Array.isArray(v)) v = v.join('; ');   // build-catalogue.py's own separator
+    v = String(v);
+    return /[",\r\n]/.test(v) ? '"' + v.replace(/"/g, '""') + '"' : v;
+  }
+  function toCSV(items){
+    // CRLF and no BOM, because that is what the published file has. RENDER.md ->
+    // *The finance tables* is the standing warning about the two disagreeing.
+    var out = [CSVCOLS.join(',')], i, c, row;
+    for (i = 0; i < items.length; i++){
+      row = [];
+      for (c = 0; c < CSVCOLS.length; c++) row.push(csvCell(items[i][CSVCOLS[c]]));
+      out.push(row.join(','));
+    }
+    return out.join('\r\n') + '\r\n';
+  }
+
+  function selectionMeta(n, built){
+    // The JSON carries what produced it; the CSV cannot, which is why the filename
+    // carries the build date instead.
+    //
+    // What this is *not* is a dated edition — and neither is the whole-catalogue
+    // file, deliberately (design.md §9: the catalogue is an index over other
+    // people's records, republished wholesale at an undated URL). So the thing to
+    // cite is the view's own url, which re-cuts against whatever the catalogue
+    // holds when it is opened, and the build date says which cut this file was.
+    var f = {};
+    if (state.q) f.search = state.q;
+    ['places','topics','ents','lens','years'].forEach(function(k){
+      if (state[k].length) f[k] = state[k].slice();
+    });
+    if (state.sort !== 'new') f.sort = state.sort;
+    return {url: location.href, filters: f, records: n,
+            of: ROWS.length, cut: new Date().toISOString().slice(0, 19) + 'Z',
+            note: 'A selection cut in a reader\'s browser from the catalogue as built on ' +
+                  built + '. The catalogue is republished wholesale rather than versioned, ' +
+                  'so cite the url above — it re-cuts this selection against whatever the ' +
+                  'catalogue holds when it is opened.'};
+  }
+
+  function save(name, text, mime){
+    var blob = new Blob([text], {type: mime + ';charset=utf-8'}),
+        u = URL.createObjectURL(blob), a = document.createElement('a');
+    a.href = u; a.download = name;
+    document.body.appendChild(a); a.click(); document.body.removeChild(a);
+    setTimeout(function(){ URL.revokeObjectURL(u); }, 4000);
+  }
+
+  function exportSelection(fmt){
+    var slugs = VIEW.map(function(r){ return r[7]; });
+    dlMsg = 'busy'; drawDownload();
+    fetchFull().then(function(full){
+      var items = [], i, it;
+      for (i = 0; i < slugs.length; i++){ it = full.by[slugs[i]]; if (it) items.push(it); }
+      var base = 'catalogue-selection-' + (full.built || 'undated');
+      if (fmt === 'csv') save(base + '.csv', toCSV(items), 'text/csv');
+      else save(base + '.json', JSON.stringify({
+        built: full.built, note: full.note,
+        selection: selectionMeta(items.length, full.built),
+        count: items.length, items: items
+      }, null, 1) + '\n', 'application/json');
+      dlMsg = ''; drawDownload();
+    }).catch(function(){
+      // The buttons come back with the message rather than being replaced by it:
+      // the commonest cause is a dropped connection, and the fix is to press again.
+      dlMsg = 'That did not come through — try again, or take the whole-catalogue ' +
+              'download at the top of the page.';
+      drawDownload();
+    });
+  }
+
+  function drawDownload(){
+    var el = document.getElementById('dl');
+    // Unfiltered, the selection *is* the catalogue, and the published files are the
+    // citable ones — the paragraph at the top of the page already offers them, so
+    // this control stays out of the way until there is a selection to cut.
+    if (!VIEW.length || VIEW.length === ROWS.length){ el.textContent = ''; return; }
+    if (dlMsg === 'busy'){ el.textContent = 'Preparing the file…'; return; }
+    el.innerHTML = 'Download these ' + VIEW.length.toLocaleString() + ': ' +
+      '<button data-dl="csv">CSV</button> &nbsp;·&nbsp; <button data-dl="json">JSON</button>' +
+      (dlMsg ? '<span class="dlmsg">' + esc(dlMsg) + '</span>' : '');
+  }
+
   function passes(r, skip){
     if (state.q && r._s.indexOf(state.q) === -1 &&
         !(nameHits && r[11] >= 0 && nameHits[r[11]])) return false;
@@ -315,7 +442,7 @@
         var n = c[k] || 0;
         html += '<label class="opt' + (n ? '' : ' zero') + '">' +
           '<input type="checkbox" data-f="' + key + '" value="' + k + '"' + (on ? ' checked' : '') + '>' +
-          '<span class="lbl" title="' + lab.replace(/"/g,'&quot;') + '">' + lab + '</span>' +
+          '<span class="lbl" title="' + att(lab) + '">' + esc(lab) + '</span>' +
           '<span class="n">' + n.toLocaleString() + '</span></label>';
         drawn++;
       }
@@ -346,15 +473,17 @@
   function drawChips(){
     var c = document.getElementById('chips'), h = '';
     function add(key, label, val, text){
-      h += '<span class="chip"><b>' + label + '</b> ' + text +
-           ' <button data-rm="' + key + '" data-v="' + val + '" aria-label="Remove">&times;</button></span>';
+      h += '<span class="chip"><b>' + label + '</b> ' + esc(text) +
+           ' <button data-rm="' + key + '" data-v="' + att(val) + '" aria-label="Remove">&times;</button></span>';
     }
     state.places.forEach(function(v){ add('places','Country', v, D.places[v]||v); });
     state.topics.forEach(function(v){ add('topics','Topic', v, D.topics[v]||v); });
     state.ents.forEach(function(v){ add('ents','Actor', v, ENTLABEL[v]||v); });
     state.lens.forEach(function(v){ add('lens','Lens', v, v); });
     state.years.forEach(function(v){ add('years','Year', v, v); });
-    if (state.q) h += '<span class="chip"><b>Search</b> ' + state.q + ' <button data-rm="q" data-v="">&times;</button></span>';
+    // `state.q` arrives from the URL fragment via readHash, so it is attacker-supplied
+    // on a public page and must be escaped before it reaches innerHTML.
+    if (state.q) h += '<span class="chip"><b>Search</b> ' + esc(state.q) + ' <button data-rm="q" data-v="">&times;</button></span>';
     if (h) h += '<button class="clearall" id="clearall">Clear all</button>';
     c.innerHTML = h;
   }
@@ -362,6 +491,9 @@
     var out = ROWS.filter(function(r){ return passes(r, null); });
     if (state.sort === 'old') out = out.slice().reverse();
     else if (state.sort === 'az') out = out.slice().sort(function(a,b){ return a[0].localeCompare(b[0]); });
+    // Held for the export, after the sort rather than before it: a downloaded
+    // selection comes out in the order the reader was looking at.
+    VIEW = out; dlMsg = ''; drawDownload();
     document.getElementById('count').innerHTML =
       '<b>' + out.length.toLocaleString() + '</b> of ' + ROWS.length.toLocaleString() + ' records';
     var slice = out.slice(0, state.shown), h = '';
@@ -384,6 +516,8 @@
     m.hidden = out.length <= state.shown;
     m.textContent = 'Show more (' + Math.min(100, out.length - state.shown) + ' of ' + (out.length - state.shown).toLocaleString() + ' remaining)';
     var note = 'Browsing ' + ROWS.length.toLocaleString() + ' catalogue records. Filter state is in the URL — copy the address bar to share this view.';
+    if (VIEW.length && VIEW.length < ROWS.length)
+      note += ' A downloaded selection carries the same sixteen columns as the whole-catalogue file, cut in your browser from the build you are looking at — so cite this view’s URL rather than the file, and it will re-cut against whatever the catalogue holds when it is opened. The JSON records the filter that produced it.';
     if (NAMES){
       if (nameBusy) note = 'Also searching ' + NAMES.n.toLocaleString() + ' names found in the sources…';
       else if (nameHits) note = 'Includes matches on names occurring in the sources, not only in titles. ' + note;
@@ -392,6 +526,9 @@
     document.getElementById('note').textContent = note;
   }
   function esc(s){ return String(s).replace(/[<>&]/g, function(c){ return {'<':'&lt;','>':'&gt;','&':'&amp;'}[c]; }); }
+  // For a value going into a quoted attribute rather than a text node. Filter values
+  // reach these from the URL fragment, so `"` has to close nothing.
+  function att(s){ return esc(s).replace(/"/g, '&quot;'); }
   function writeHash(){
     var p = [];
     if (state.q) p.push('q=' + encodeURIComponent(state.q));
@@ -438,6 +575,7 @@
       redraw();
     }
     if (t.id === 'more'){ state.shown += 100; drawResults(); }
+    if (t.dataset && t.dataset.dl){ exportSelection(t.dataset.dl); }
   });
   var timer;
   document.getElementById('q').addEventListener('input', function(){

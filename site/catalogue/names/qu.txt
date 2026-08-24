@@ -83,7 +83,7 @@ Bénin. Quatre	4812
 Béninois. Qu'ils	2765
 C- Qualifying	7548
 C1- Qualifying	7548
-CE QUI CHANGE Les	8637
+CE QUI CHANGE	8637
 CEMAC. Quarante-huit	8655
 CEMAC. Quel	8800
 CEO Jason Quinn. Digital	8974
@@ -175,7 +175,7 @@ DÉCIDÉ CE QUI SUIT	308,427
 E2.8 Billion Question	4535
 EDUCAUSE Quarterly	6832
 EME QUESTION	6902
-EN SA QUATRIEME SEANCE PUBLIQUE DU	4420
+EN SA QUATRIEME SEANCE PUBLIQUE	4420
 ENHANCING QUALITY OF EXPERIENCE	5245
 ENSURE ACCESS TO QUALITY EDUCATION	899
 ENSURiNG QUALiTY AND RELEVANCE OF PUBLiC	961
@@ -240,11 +240,10 @@ Ghana’s Disability Inclusive Hackathon. Quartey	9007
 Gifted Students’ Perceptions of Course Quality	961
 Goals Quick	7204
 Google’s Brian Quigley	1726
-Government Information Quarterly	2096,3604
-Government Information Quarterly_	2093,3256
+Government Information Quarterly	2093,3,3253,351
 Governo Quer Ligar Tecnologia	8827
 HOUSEHOLD QUESTIONNAIRE	582
-Handbook of Qualitative Research_	5349
+Handbook of Qualitative Research	5349
 Harmonised Quality of Service	5680
 Higher Education Qualifications Sub-Framework	6832
 Hire A Muzungu. Quartz Africa	6231
@@ -313,11 +312,10 @@ M. M. Quinlan	5349
 MANAGING AND PROMOTING QUALITY STATISTICS Economic	2775
 MANGANESE QUIPUX SMD SNDI SM Floleu	2342
 MINIMUM REQUIREMENTS FOR CONSULTANT'S QUALIFICATIONS	3678
-MIS Quarterly	5820,2851,457,109
-MIS Quarterly_	5349
+MIS Quarterly	5349,471,2851,457,109
 MONEY INTERNET FOURTH QUARTER ENDING	6978
 MaciejewskiML. Quasi-experimental	8376
-Management Information Systems Quarterly_	2948
+Management Information Systems Quarterly	2948
 Management System QR Code Quick Response	9855
 Manager for Information System Quality Assurance	7155
 Managing Director of Quantis Côte	7021
@@ -350,6 +348,7 @@ NATIONAL QUALIFICATIONS FRAMEWORK	7832
 NCA Quarterly Statistical Bulletin	236,1627
 ND QUARTER	3386
 NEANT. MARCHES DE SERVICES AUTRES QUE	1649
+NG quotation	8985
 NITDA Launches National Software Quality Assurance	8439
 NITDA's National Software Quality Assurance Framework	5665
 NVIDIA and Qualcomm	8346
@@ -394,7 +393,7 @@ PME. Quels	6827
 POPULAÇÃO POR PROVÍNCIA E MUNICÍPIO Quadro	4044
 PRAYERS QUORUM Hon. Speaker	10313
 PRINCIPE D’ENGAGEMENT SUR LA QUALITE Article	785
-PROPOSTA DE QUADRO DE REFERÊNCIA DOS	2816
+PROPOSTA DE QUADRO DE REFERÊNCIA	2816
 PSK Pharmaceutical Society of Kenya QMS Quality	9855
 PUBLIC PUBLIC QUESTION	6940
 PUBLIC QUESTION	6940
@@ -440,7 +439,7 @@ QUALITY ASSURANCE	9855
 QUALITY ASSURANCE Standard Digital	9855
 QUALITY CORPORATE SARL	3299
 QUALITY OF SERVICE MONITORING	718
-QUALITY OF SERVICE UNDERTAKING I	22
+QUALITY OF SERVICE UNDERTAKING	22
 QUALITY OF SERVICE WORRY TECH EXPERTS	9594
 QUAND L’UNIVERSITÉ DÉNONCE LA THÉORIE PAR	9916
 QUANTIS CÔTE D'IVOIRE	1648
@@ -453,7 +452,7 @@ QUESTIONNAIRE	582
 QUESTIONS	6940
 QUESTIONS AND ANSWERS ABOUT THE EXTRAORDINARY	7198
 QUINIENTOS MIL	4209
-QUIPE DES FORMATEURS La	10237
+QUIPE DES FORMATEURS	10237
 QUIPUX-AFRIQUE	2342
 Qu'en	2732,2680,1415,2557,90
 Qu'est-ce	3465,1694,1098,620,3410
@@ -514,22 +513,19 @@ Qualitative Analysis	5349
 Qualitative Exploratory Study	226
 Qualitative Health Research	7278
 Qualitative Psychology	7278
-Qualitative Report	8130
-Qualitative Report_	2093,3256
+Qualitative Report	2093,3256,2781
 Qualitative Research	5349,3111,142,3
-Qualitative Research Journal	7278
-Qualitative Research Journal_	2093,3256
+Qualitative Research Journal	2093,3256,1929
 Qualitative Research Synthesis	5349
 Qualitative Study	1824
 Qualitus Ketjimambo	10358
 Qualitus Ketjimambo. Wide-ranging	10358
 Quality	25,2,209,530,5,169,18,12,2,189,48,73,2,534,67,890,876,123,17,1455,103,316,386,781,116,256,74,355,497,294,15,628
 Quality Assessment	1261
-Quality Assurance	7266,63
+Quality Assurance	899,6367,63
 Quality Assurance Framework	9855
-Quality Assurance O	899
 Quality Assurance Office	8957
-Quality Assurance Support O	899
+Quality Assurance Support	899
 Quality Assurance Testing	8670
 Quality Assurance and Continuous Improvement	9855
 Quality Assurance and Public	6832
@@ -762,14 +758,12 @@ Questioning Finsprint	8949
 Questioning The Future of Africa’s Digital Sovereignty	3598
 Questionnaire	737,3054,1888,784,2666
 Questionnaires	3862,2244
-Questions	760,276,952,319,728,253,61,159,250,29,251,401,119,84,32,189,294,90,421,32,151,181,224,255,42,28,422,275,86,48,85,178,71,836,99,41,74,826,117,119,98,305,52,99,33
+Questions	760,276,952,319,728,253,61,159,250,29,251,401,119,84,32,189,294,90,266,155,32,151,181,224,255,42,28,422,275,86,48,85,178,71,836,99,41,74,826,117,119,98,305,52,99,33
 Questions Answered	2677
 Questions Governance Keeps Dodging	8050
-Questions I	5513
 Questions de Communication	226
 Questão	6167
-Questões-Chave	9558,1
-Questões-Chave O	8827
+Questões-Chave	8827,731,1
 QueueMetrics	10102
 Queues	5533,1563,2600
 Qui Est Romain Molina	4960,62,2035

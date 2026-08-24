@@ -98,6 +98,7 @@ Amal El Fallah Seghrouchni and World Bank	7584
 Among Cheapest Currencies In The World	5390,965,827
 Angola Digital Acceleration Project World Bank	1770
 Angola Strengthening Statistical Capacity World Bank	974
+Angola opens graft case into would be ruling party	9399
 Annual Work Plan	2989,1411
 Annual Work Plan PIU Management and Budget	2989
 Annual Work Plan and Budget	1228,56,5255
@@ -548,7 +549,7 @@ Kay-Lyne Wolfenden	2711,769,5,39,137,35,44,23,1,24,17,76,51,150,11,101,102,281,5
 Kay-Lyne Wolfenden Cybastion Institute of Technology	3441
 Kay-Lyne Wolfenden Developed	6376
 Kay-Lyne Wolfenden Discussions	5917
-Kay-Lyne Wolfenden F E	9790,107,84
+Kay-Lyne Wolfenden F	9790,107,84
 Kay-Lyne Wolfenden Konaté	4096
 Kay-Lyne Wolfenden Overall	5755
 Kay-Lyne Wolfenden PactDigital	7251
@@ -725,8 +726,8 @@ OECD Working Party	4126
 OICA. World Motor Vehicle Production	8891
 OICA. World Passenger Car Production	8891
 Object Workgroup	1009
+Official Use Only The World	3456
 Official Use Only The World Bank	3456,148,1049
-Official Use Only_ The World	3456
 Oil and Gas Alone Won’t End Poverty	10465
 Olivia Rakotomalala The World Bank Digital	2473
 Ongoing World Bank Projects	3604
@@ -817,8 +818,7 @@ Reserve Bank of Zimbabwe Urban Women Financial	940
 Residential Workshop	6077
 Resist the Exploitation of Digital Gig Workers	226
 Rest of APAC Europe Rest of World	6477
-Rest of World	4970,25,372,315,585,144,66,126
-Rest of World_	10727
+Rest of World	4970,25,372,315,585,144,66,126,4124
 Rights of Women	1988,3545,2145
 Rise Worldwide	9830
 Risks and Impacts Relevant Relevant ESS2-Labor and Working	1988
@@ -1068,7 +1068,7 @@ Woman	1363
 Women	598,191,151,29,1,199,1,94,554,49,73,48,638,42,107,104,704,21,522,313,89,35,231,60,50,139,238,41,498,63,656,293,116,191,12,21,349,123,348,9,134,240,34,402,36,225,73,116,88,85,113,14,55,8,137,6,5,16,205,24,50,6,20,312,245,45,34
 Women Affairs	940
 Women Affairs Ministry	7868
-Women Council and Local Council I	8352
+Women Council and Local Council	8352
 Women Count	1407
 Women Count Phase	1407
 Women Digital Champions	9648
@@ -1239,7 +1239,7 @@ Workshops Cases	1009
 Workspace	1363
 Workspace. Under Google	1267
 Workstation	34
-World	312,418,36,5,472,18,683,152,679,98,710,718,375,40,205,281,45,20,413,20,777,469,1683,255,138,624,93,42,212,721
+World	312,418,36,5,472,18,683,152,679,98,710,718,375,40,205,281,45,20,413,20,777,469,890,793,255,138,624,93,42,212,721
 World AI Conference	8740,498,578
 World AI Conference Algeria	2311,24,2424,534,613,107,100,280,14,352,339,157,80
 World AI Cooperation Organisation	7979,229
@@ -1544,7 +1544,6 @@ World Bank's Statistical Performance Indicators	7151
 World Bank's US	2251,6450
 World Bank's WURI	6251
 World Bank's Zimbabwe Economic Update	3385
-World Bank's_	7358
 World Bank-	1264,2340
 World Bank- and UNDP-backed	3091
 World Bank-IMF Debt Sustainability Analysis	238
@@ -1612,7 +1611,6 @@ World Bank. Table A1.1	3604
 World Bank. Telemedan	2380
 World Bank. The AI Teacher Coach	8609
 World Bank. The Accelerating Digital Transformation	4963
-World Bank. The DA	1264
 World Bank. The E&S	1867
 World Bank. The EARDIP	3238
 World Bank. The Procurement Specialist	1284
@@ -1822,7 +1820,6 @@ World-Bank-flagged	4435
 World-Class	3391
 World-Defining Digital Sector Reform	5871
 World-leading	320
-World._	7836
 WorldBank	7453
 WorldCoin	5363
 WorldCom	4676

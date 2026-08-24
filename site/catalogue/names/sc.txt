@@ -7,7 +7,7 @@ AA.AI City Scheme	7845
 AAU School of Information Science	1813
 ABSOLUTE SCALES LIMITED Data Controller INST-970688CBA89	7167
 ACM. Crossref Google Scholar Magni F	8460
-ACM. Google Scholar Siles I	8460
+ACM. Google Scholar Siles	8460
 ADMINISTRATION OF THE SCHEDULE	3714
 AFRICAN CENTRE FOR DATA SCIENCE	7167
 AI City Scheme	7845
@@ -55,8 +55,7 @@ Addis Ababa University School of Law	8647
 Addis Ababa University School of Public Health	1212
 Addis Ababa University's School of Commerce. Fayda	5729
 Administration and Judiciary School	969
-Administrative Sciences	8021
-Administrative Sciences_	4432
+Administrative Sciences	4432,3589
 Admissions Academics Academic Calendar Business School	10123
 Adrian Schofield	8494
 Advanced Computer Science and Information Systems	226
@@ -119,7 +118,7 @@ Archives and Information Science	8022
 Arqam Yassir Salim of Rehema Wakfu School	9014
 Article Google Scholar Arora P	9739
 Article Google Scholar Aruku K	9739
-Article Google Scholar Bai Y	9739
+Article Google Scholar Bai	9739
 Article Google Scholar Birhane	9739
 Article Google Scholar Cazzaniga M	9739
 Article Google Scholar Download	9739
@@ -140,12 +139,12 @@ Article Google Scholar Okorafor N	9739
 Article Google Scholar Servant JC	9739
 Article Google Scholar Singh N	9739
 Article Google Scholar Sprengel D	9739
-Article Google Scholar Stephen O	9739
+Article Google Scholar Stephen	9739
 Article Google Scholar Tencer D	9739
 Article Google Scholar Van Niekerk	9739
 Article Google Scholar Veal M	9739
 Article Google Scholar Waterman CA	9739
-Article Google Scholar Wilson E	9739
+Article Google Scholar Wilson	9739
 Artificial Intelligence and Bachelor of Science	8839
 Asian Journal of Social Science and Management Technology	6948
 Assessment and Screening	1988
@@ -202,10 +201,8 @@ Bulk Scanning of Beneficiary Files	6458
 Bursaries and Scholarship Act	1988
 Buseko Primary School Grounds	2707
 Business School	9781
-Business and Social Science	7759
-Business and Social Science_	2093
-Business and Social Sciences	9129
-Business and Social Sciences_	5349
+Business and Social Science	2093,5666
+Business and Social Sciences	5349,3780
 C of Schedule	3714
 C318 SCHEDULE	5687
 CA Staff Loan Scheme	6946
@@ -267,6 +264,7 @@ Citizen Tech and Science	7079
 Cité des Sciences	5713
 Civil Service Family Protection Scheme	7845
 Civil Service Family Protection Scheme Act	7845
+Clara-Saine-Mendy ScaleMaxWidthWzcwMF0.jpg	7475
 Climate Change and Disaster Screening	1284
 Climate Scientist GIS	520
 Climate and Disaster Risk Screening	1284,2320
@@ -279,7 +277,7 @@ Cogent Social Sciences	1248,7423
 Collective Investment Scheme	8464
 College of Computing and Information Sciences	5413
 College of Economic and Management Sciences	7278
-College of Economic and Management Sciences_CRERC	7278
+College of Economic and Management Sciences CRERC	7278
 College of Health Sciences Medical Research Council	21
 College of Human Sciences	8021
 College of Human Sciences Research Ethics Review	8021
@@ -326,7 +324,7 @@ Cross-border Payments Scheme	5263
 Crossref Google Scholar Attride-Stirling J	8460
 Crossref Google Scholar Bareis J	8460
 Crossref Google Scholar Brause SR	8460
-Crossref Google Scholar Gabriel I	8460
+Crossref Google Scholar Gabriel	8460
 Crossref Google Scholar Kowalski RM	8460
 Crossref Google Scholar Messer U	8460
 Crossref Google Scholar Ng DTK	8460
@@ -473,7 +471,7 @@ Développement Durable SCADD	737
 E&S Screening	1988
 E&S Screening Form for Subcomponent	1988
 E&S Screening Forms	1988
-E-Journal of Humanities Arts and Social Sciences_	2093
+E-Journal of Humanities Arts and Social Sciences	2093
 EAC Regional Science	5601
 EC Open Science Policy Platform	5246
 ECOWAS Trade Liberalisation Scheme Taskforce Mr	7452
@@ -521,7 +519,7 @@ Encouraging Responsible Innovation and Scientific Research	2958
 Engineering Sciences	9129
 Enhancing Security and Privacy of National Scale Identity	1495
 Entertainment Scheme TES Trusted Employer Scheme	5533
-Enugu Google Scholar Okafor E	9739
+Enugu Google Scholar Okafor	9739
 Enugu Smart School Initiative	9117
 Enugu State Smart Green School	6211
 Environmental Scan	6832
@@ -601,7 +599,7 @@ Future of Science and Science	5246
 Future of Statistical Science. Boca Raton	8376
 Fuzzy Matching Algorithm Good Score	8604
 G20's Meeting of Agricultural Chief Scientists	2626
-GARDE DES SCEAUX RELATIF A LA	8236
+GARDE DES SCEAUX RELATIF	8236
 GENERAL PROVISIONS FOR THIS SCHEDULE Penalties	3714
 GIGA Project School Connectivity Dashboard	899
 GIZ and Human Sciences Research Council	4126
@@ -673,7 +671,7 @@ Head of Strategic Partnerships and Learning Scientist	8586
 Headmistress of St. Monica’s Girls’ School	5802
 Headmistress of Wesley Girls Basic School	8384
 Headphones and Screen Reader	6946
-Health Aff Sch._	7836
+Health Aff Sch	7836
 Health Data Science	8606
 Health Sciences	8605
 Health Sciences’ Graduates	2775
@@ -716,7 +714,7 @@ Implement Sci Commun	8376
 Implementation Schedule	1228
 Implementation Schedule and Cost Estimates	1988
 Implementation Schedules and Organization Charts	3861
-Implementation Science Communications_	2093
+Implementation Science Communications	2093
 Implementation Scope Pilot Machines	10617
 Inaugural Research Science	1154
 Independent Audits and Compliance Scorecards	6936
@@ -739,7 +737,7 @@ Institutionalisation and Scale	4848
 Int J Arts Humanit Soc Sci	9739
 Int J Phys Social Sci	1261
 Int J Recent Res Soc Sci	9739
-Int J Res Educ Sci._	7836
+Int J Res Educ Sci	7836
 Integrated Modern Agricultural Morcellement Scheme	7845
 Interior and Scope	9399
 International Airport. Schreiber	8137
@@ -749,7 +747,7 @@ International Journal of Science Education	7759
 International Journal of Scientific Research	8606
 International Journal of Social Science and Human Research	7759
 International Kenya School of Government	7548
-International Review of Administrative Sciences_	2093,3256
+International Review of Administrative Sciences	2093,3256
 International Scene	2775
 International Scene Association of Southeast Asian Nations	2775
 International Scene Economic Survey	2775
@@ -780,7 +778,7 @@ Johns Hopkins Bloomberg School of Public Health	1212
 Johns Hopkins University School of Advanced International	7358
 Jonathan A. Solis Research Scientist	7590
 Joseph Schumpeter	428
-Journal of Academic Science_	5349
+Journal of Academic Science	5349
 Journal of Business and Management Sciences Market Research	9129
 Journal of Computer Science and Cybernetics	8606
 Journal of Computer Science and Technology Studies	8606
@@ -1029,7 +1027,7 @@ National University of Science and Technology Office	1154
 National University of Science and Technology Online Grants	1554
 National University of Science and Technology The RCZ	1154
 Natural Sciences	1554
-Natural Sciences Journal_	2093
+Natural Sciences Journal	2093
 Nature Sci Data	5367
 Nawy Scientific	4972
 Neither the DRPP Scheme Rulebook	9516
@@ -1095,7 +1093,7 @@ Open Science. Open	7498
 OpenAI Chief Scientist Jakub Pachocki	9592
 Operational Scalability	8999
 Operational Scaling	8283
-Organization Science_	2093
+Organization Science	2093
 Orlando West High School	9968
 Overall Connectivity Score	2552
 Owo Smart Green School	6211
@@ -1154,8 +1152,7 @@ Private Capital Mobilization Scheme	4500
 Private Health Institutions Act SECOND SCHEDULE	7845
 Private Pension Schemes Act	7845
 Private Pension Schemes Act FOURTH SCHEDULE	7845
-Procedia Computer Science	226,8379,523,1
-Procedia Computer Science_	5349
+Procedia Computer Science	226,5123,3256,523,1
 Procurement SUW Scale-Up Window TA Technical	3604
 Professor Eddie Mwenje of Bindura University of Science	520
 Profit Scaling	5869
@@ -1268,7 +1265,7 @@ SCHIALER SALCEDO	6613
 SCHUB	5478
 SCI. Dates	1993
 SCIAM	4273
-SCIENCE_ADVISER NEWSLETTER	6997
+SCIENCE ADVISER NEWSLETTER	6997
 SCIENTIFIC AND TECHNICAL COOPERATION	1234
 SCITI	6514
 SCImago	5419
@@ -1336,7 +1333,7 @@ Scalar Botswana Innovation Program	5393,38,15,1
 Scalar Decarbonization Fund	5444
 Scalar Infrastructure and Real Assets	5393,53
 Scalar International	5393,38
-Scalar International's Africa Decarbonisation Fund I	5431
+Scalar International's Africa Decarbonisation Fund	5431
 Scale	899,357,35,1,1,1,1,1,136,228,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,149,4,57,172,1,1,1,1,1,85,139,9,266,75,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,303,425,155,85,45,217,19,291,176,1,1,1,1,1,59,30,64,224,41,55,82,172,138,391,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,257,75,72,368,64,342,105,18,267,246,263,20,134,36,175,15,463,414,628,421,388,148,12
 Scale AI	4972,3007
 Scale Accelerators	2957
@@ -1656,8 +1653,7 @@ ScienceDirect and Wiley	8605
 Sciences	1154,29,713,200,1299,4874,607
 Sciences. The Malawian	7841
 Scientific	789,181,1018,970,903,4519,149,599
-Scientific African	2518
-Scientific African_	2093,855
+Scientific African	2093,425,430
 Scientific Committee	5270
 Scientific Conference and Innovation Expo	6554
 Scientific Days	4991
@@ -1804,9 +1800,9 @@ Screening Forms	1988
 Screening Forms and ESMPs	1988
 Screening Page	1264
 Screenshot	6729,861,184,3,2648
+Screenshot 20260417 124944 Gallery.jpg	5837
 Screenshot PAC MINTTICS	2431
 Screenshot the Orange Money	7777
-Screenshot_20260417_124944_Gallery.jpg	5837
 Scribbr	7278
 Scribd	1042
 Scripts	6735,200
@@ -1902,7 +1898,7 @@ South Africa. Department of Science	10118
 South Africa. SCOPE The HNSF	1009
 South Africa. Scholars	8021
 South Africa. Science and Innovation Department	1940
-South African Journal of Economic and Management Sciences_	4432
+South African Journal of Economic and Management Sciences	4432
 South African Journal of Libraries and Information Science	8021,1
 Southern Africa. The Scalar Botswana Innovation	5393
 Sovereignty Score	3787
@@ -2090,7 +2086,7 @@ Wits University School of Law. Founded	9889
 Wits University School of Statistics and Actuarial Science	5969
 XML Schema	1009
 XSLT Schema Output	8606
-Yildiz Social Science Review_	2093
+Yildiz Social Science Review	2093
 Yumnaa Ocks Department of Library and Information Science	8022
 ZAMBIA’S ACCESS TO CREDIT INDEX SCORE	5247
 ZAMBIA’S BUSINESS CONFIDENCE INDEX SCORE	5247

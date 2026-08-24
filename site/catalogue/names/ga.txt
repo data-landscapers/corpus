@@ -88,6 +88,7 @@ Ayudante Gabinete S.E	4209
 Ayudante Gabinete S.E. Ayudante Protocolo S.E	4209
 Ayudante Principal Gabinete S.E	4209
 Ayudante Principal Gabinete de S.E. Ayudante Principal	4209
+AzureMap SouthAfrica GA-final	411
 B. Estimating The Tax Gap	1828
 B. Smart Licensing and Supervisory Gateway	4848
 B978-0-12-815368-0.00006-3 Gazzarata	8603
@@ -163,8 +164,7 @@ Chairperson Dr. Ignace GATARE	718
 Charbon de Gaz Bois	737
 Charles Gadner	9454
 Charles Gahungu	5469
-Charles Kokouvi Gafan	8755
-Charles Kokouvi Gafan. De	8673
+Charles Kokouvi Gafan	8673,82
 Chauchard and Garimella	8436
 Chief Executive Officer of Galaxy Backbone. Professor	8980
 Chief Financial Officer Fikile Gama	4058
@@ -204,11 +204,12 @@ Contingencias Gastos Corrientes	4209
 Controller INST-296212BCE13 GARISSA Kenya	7167
 Controller INST-9127450AF50 GARISSA Kenya	7167
 Controller INST-96009603963 GARISSA Kenya	7167
+CookieDurationDescription ga2	3907
 Corporate Appointments Tech Gateways HR	10068
 Counting President Bio Gains	8115
 Couto and Garimella	8436
 Critical Information Infrastructure of The Gambia	1000
-Crossref Google Scholar Gabriel I	8460
+Crossref Google Scholar Gabriel	8460
 Crossref Web of Science Google Scholar Gandini	8460
 Crédit du Gabon	8355
 Current Gaps	10028
@@ -219,14 +220,14 @@ Cyrille Ganou Badolo	5917
 D'après le Garde des Sceaux	5477
 D. Gasevi	9128
 D.C. Gaspar	1828
-D.G. DE GANAD. SAN. ANIMAL Y	4209
+D.G. DE GANAD. SAN. ANIMAL	4209
 D.G. DE INSPECC. GEN. DE GANADERIA	4209
-D.G. PRODUCC. REPOBLACION FOREST. GANAD. Y	4209
+D.G. PRODUCC. REPOBLACION FOREST. GANAD	4209
 D.G.PRODUCC. REPOBLACION FOREST. GANAD. Y CONT	4209
 D4D Hub and Global Gateway. Benin	1779
 DABASO GALGALO GUYO Data Processor INST-5802205F741	7167
-DE LA APROBACIÓN DE GASTOS E	4209
-DE LOS GASTOS Y MEDIDAS DE	4209
+DE LA APROBACIÓN DE GASTOS	4209
+DE LOS GASTOS Y MEDIDAS	4209
 DEE EM AUTO GARAGE LIMITED Data	7167
 DES GARANTIES Date	7977
 DETALLE DE GASTOS	4209
@@ -426,7 +427,7 @@ GABAC Action Group Against Money Laundering	4127
 GABDIBÉ PASSALÉ. Organisé	9814
 GABINETE	4209
 GABINETE CIVIL	4209
-GABINETE DE APOIO AO CONSELHO DE	8052
+GABINETE DE APOIO AO CONSELHO	8052
 GABINETE MILITAR	4209
 GABINETE PRIMERA DAMA	4209
 GABIX	6157,2604,657
@@ -480,7 +481,7 @@ GAPP Framework	8022
 GAR-SI	643
 GARANTIE	5022
 GARANTIES ET FACILITÉS POUR LES STARTUPS	4567
-GARDE DES SCEAUX RELATIF A LA	8236
+GARDE DES SCEAUX RELATIF	8236
 GARISSA Kenya	7167
 GARP International Journal of Library	8022
 GASANZE	718
@@ -604,9 +605,7 @@ Gabon. Dans	4744,3175,843
 Gabon. Elle	3894
 Gabon. L'Arcep	9518
 Gabon. L'institution	3894
-Gabon. Le	3311,2846
 Gabon. Le SecBOM	2961
-Gabon. Les	5740
 Gabon. L’organisation	7919
 Gabon. MIM	9418
 Gabon. Pour le CGI	10486
@@ -619,14 +618,12 @@ Gabon. Sont	114
 Gabon. Through	5797
 Gabon. Under	2282
 Gabon. Une	3311
-GabonReview	7455,1087
+GabonReview	7455,519,568
 GabonReview Dans	7974
-GabonReview La	7974
 GabonReview and Tech Africa News	7940
-Gabonais	1231,1032,770,50,42,1000,3118,298,1100,121
+Gabonais	1231,1032,770,50,42,1000,1118,2000,298,1100,121
 Gabonais L'État	4138
 Gabonais. Il	4125
-Gabonais. Le	5243
 Gabonais. Sans	8441
 Gabonaise	4970
 Gabonese	24,1501,229,19,509,54,955,288,648,309,84,2172,243,58,28,819,602,657,638
@@ -682,8 +679,8 @@ Gaheyr	10116
 Gahunda	1214
 Gaia-X	3787,472
 Gail Andrews. As the Chairperson	396
+Gail Bester SANRAL FMS.pdf BusinessTech	8603
 Gail Makin	7275
-Gail_Bester_SANRAL_FMS.pdf BusinessTech	8603
 Gain Allocations	7548
 Gain Proficiency	6432
 GainForest.Earth	7313
@@ -974,7 +971,6 @@ Gareile	1885
 Gares	1265
 Gareth Grobler	9127
 Gareth Guadalupe	4747
-Gareth Guadalupe. De	4747
 Gareth Guadalupe. Um	4747
 Gareth Redelinghuys	7137
 Garg SK	1219
@@ -1007,7 +1003,6 @@ Gary Stevenson	3435
 Gas LTE Long Term Evolution LTM	2775
 Gas Natural	1701
 Gas Natural Diversificada	1701
-Gas Natural El	1701
 Gas Natural Licuado	1701
 Gas and Downstream	718
 Gas and Downstream Petroleum	718
@@ -1187,7 +1182,7 @@ Georgia Gambian National ID Card Sep	10714
 Ghana Gazette	11
 Ghana and The Gambia	4677
 Ghana's Digital Payment Model Gains Attention	6075
-Global Gateway	1068,18,103,76,193,6,64,251,169,205,555,372,1348,222,13,836,4,1049,98,93,917,586,816,247,1283
+Global Gateway	1068,18,103,76,193,3,3,64,251,169,205,555,372,1348,222,13,836,4,1049,98,93,917,586,816,247,1283
 Global Gateway Afrique-Europe	1189
 Global Gateway Investment Package	2626
 Global Gateway The European Union	6552
@@ -1195,7 +1190,6 @@ Global Gateway da União Europeia	5884
 Global Gateway da União Europeia. Cabo Verde	1948
 Global Gateway-tagged	9062
 Global Gateway. Deal	5499
-Global Gateway. La	1461
 Global Gender Gap Index	789,2667
 Global Gender Gap Report. Page	3456
 Global ICT Index Varun Galande	5278
@@ -1241,8 +1235,7 @@ Honorable Jacques Gabriel Ehouo	6180
 Hover Gao	3692
 Hover Gao. Durante	3692
 Huawei App Gallery	7266
-Huawei Gabon	4536,2863
-Huawei Gabon. Les	3177
+Huawei Gabon	3177,1359,2863
 Huawei Technologies Gabon	7399
 Hype Cycle for Artificial Intelligence. Gartner. Disponível	2816
 I-Grow Gate World Limited	3862
@@ -1261,7 +1254,7 @@ INST-901996C37EF GARISSA Kenya	7167
 INST-9801678FF6B GARISSA Kenya	7167
 INST-98032565F9F GARISSA Kenya	7167
 INST-982631993BB GARISSA Kenya	7167
-INTERESES Y GASTOS FINANC. DE LA	4209
+INTERESES Y GASTOS FINANC	4209
 ISOC Gabon	8762
 ITU Radio Regulations. Gateway Earth Station	2913
 Identify and Address Skill Gaps	6948
@@ -1346,7 +1339,7 @@ L'agence de Moov Africa Gabon Telecom de Mbolo	2325
 L. Garc	9237
 LEGAL PUBLICATION AND OFFICIAL GAZETTE REQUIREMENTS	3861
 LNW Gaming	2819,207
-LUCH. CAMBIO ORDEN. PESQUERA GANADERÍA Y	4209
+LUCH. CAMBIO ORDEN. PESQUERA GANADERÍA	4209
 La Fondation Gates	10267
 La GAR	10712
 La Gaulette	259
@@ -1377,6 +1370,7 @@ Line Gamrath Rasmussen	2615
 Liquefied Petroleum Gas	718
 Liquefied Petroleum Gas Smart Meters of HS	6921
 Liquefied Petroleum Gaze	718
+Long Term Climate Change Strategy of The Gambia Final.pdf	1264
 Lorato Gaofise. Location	5328
 Lord Marhyno Gandou	4996,67,40
 Lord Marhyno Gandou. Cette	5103
@@ -1388,7 +1382,6 @@ Lydia Gachungi	1814
 M Federal Negarit Gazette No.41	7538
 M. A. Garcia	5349
 M. Abdoul Kader Moussa Garba	9567,101,486,393
-M. Abdoul Kader Moussa Garba. La	10154
 M. Ali Gazibo Moussa	7348
 M. GANDA Ydora	2966
 M. Garcia-Escribano	1828
@@ -1460,7 +1453,7 @@ Morocco and Gabon	5797
 Mount Meru Gas Rusororo	718
 Move Africa Gabon Télécom	2263
 Moyen Orient Le Gabon	2938
-Mozambique Government Gazette Series I	2816
+Mozambique Government Gazette Series	2816
 Mr. Claver Gatete	5789,4927
 Mr. Gabriel Aboton-Philip	10704
 Mr. Gabriel Amudipe	8586
@@ -1489,6 +1482,7 @@ NITDA and Galaxy Backbone	9573,98,82
 NMP and The Gambia Labour Act	10463
 Nadungu Gagare	7593,1393,683,487,268,173
 Naibu Gavana	10556
+NameDescriptionDuration gac Contains	3212,2216,578
 Nana Appiah Acquaye Senegal and The Gambia	6869
 Nana Appiah Acquaye The Gambia	6297
 Napoleon Adok Gai	2313
@@ -1620,7 +1614,7 @@ R. Gabryelczyk	9237
 R. Garcia	4472,2958
 R.D. Galliers	4432
 RD Gauld	766
-RECURSOS Y GASTOS PÚBLICOS CAPÍTULO I	4209
+RECURSOS Y GASTOS PÚBLICOS CAPÍTULO	4209
 REGULATORY BOARD Dr. GATARE IGNACE	718
 REPUBLIC OF KENYA KENYA GAZETTE SUPPLEMENT	7832
 REPUBLIC OF THE GAMBIA	1264
@@ -1660,6 +1654,7 @@ Rikin Gandhi	5367,1784
 Robert Gabriel Mugabe Award	1554
 Robert Gabriel Mugabe International Airport	1713
 Robert Souffrance Gango	4135
+Royal Commission on Railway Gauges	4259
 Rubavu Societe Petroliere Bugesera Standard Gas	718
 Rural Connectivity Gap Persists	6473
 Rural Gambia	8311
@@ -1683,6 +1678,7 @@ Satellite Gateway	5976
 Satellite Gateway Service Providers	10407
 Satellite Gateway Services	10407
 Satellite News Gathering	762
+Screenshot 20260417 124944 Gallery.jpg	5837
 Sectoral Allocation of AI-Enabled Productivity Gains	2957
 Segundo Gareth Guadalupe	4747
 Selected EPZ Garment	2775
@@ -1723,7 +1719,7 @@ Special Olympics World Winter Games	2626
 Spectranet Ltd Swifttalk Galaxy Backbone Ltd	3862
 St Pierre and Petit Gabriel	259
 St. Gallen Endowment for Prosperity	9422,116
-Stand da Mercury Beyond Connection Gaspar Dos	7667
+Stand da Mercury Beyond Connection Gaspar	7667
 Standard Gauge Railway	2775,6717,1100
 Standard Gauge Railway Traffic	2775
 Standard Gauge Railway. The TTCL-managed NICTBB	9149
@@ -1744,7 +1740,7 @@ Supervisory Committee for Gateway Services	4654
 Sur Gabon Télévision	4138
 Systems Program SOGIM Société Gabonaise	766
 TECH BUSINESS DECI-0341 GA TECHNOLOGIE NIGER	998
-TITULO II GARANTIA Y PROTECCION DE	163
+TITULO II GARANTIA Y PROTECCION	163
 Tabora Bojang The Gambia	5035
 Tagged GAB and UGA	2336
 Talent Gap Assessment	2680
@@ -1779,6 +1775,7 @@ Torbjorn Fredriksson and Pilar Fajarnes Garces	961
 Tournons la Page Gabon	7243
 Town Cape Winelands Garden Route Garden	8999
 Town Garden Route Overberg West Coast	8999
+Track gauge in the United States	4259
 Trade Finance Gap	10718
 Trade Finance Gap Estimate	10718
 Trade Finance Gaps	10718
@@ -1789,7 +1786,7 @@ Twi and Ga	5935,3072
 Twi and Ga. For Olamide Daniel	9007
 Twitter and Tear Gas	2518
 Type Model Gain	736
-TÍTULO VI DE LOS GASTOS Y	4209
+TÍTULO VI DE LOS GASTOS	4209
 UNDP The Gambia	9170
 UNHCR Gap Analysis	1867
 UNICEF. Gates	7566
@@ -1805,6 +1802,7 @@ Understanding the Gaps Significant	899
 Uneven Resource Distribution and Infrastructure Gaps	6936
 Uneven Resource Distribution and Infrastructure Gaps Launch	6936
 Uneven Resource Distribution and Infrastructure Gaps SUMMARY	6936
+Unification to standard gauge on May 31	4259
 Universal Access and Gap Analysis	1433,317
 Universal Access and Gap Analysis Report	1433
 Universities and Gambian Secondary Schools	1000

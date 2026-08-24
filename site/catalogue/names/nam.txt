@@ -88,8 +88,8 @@ Communication Regulatory Authority of Namibia	2588,5039,623
 Communications Regulatory Authority of Namibia	1750,150,75,1,1,2,1,6,36,547,19,429,442,2039,9,22,14,21,48,5,850,298,19,1,41,447,150,318,513,1,159,1,245,606,1199
 Component Name	3604
 Components Component Name Cost	1867
-Components RESULT_FRAME_TBL_ IO Indicator Name PBC	1284
-Components RESULT_FRAME_TBL_IO Indicator Name PBC Baseline	1228
+Components RESULT FRAME TBL IO Indicator Name PBC	1284
+Components RESULT FRAME TBL IO Indicator Name PBC Baseline	1228
 Computable Name	6666
 Confidential Attributes Symbol Example Process Name	9124
 Congo and Namibia	9399
@@ -265,7 +265,21 @@ Morocco and Namibia	6938
 Mozambique Namibia Nigeria	5247
 N Company Name Date of Contact Details	3386
 NAD Namibia	1944
+NAM 1992 DHS v01 M	9485
+NAM 2000 DHS v01 M	9485
+NAM 2009 HIES v01 M v01 A PUF	9485
+NAM 2012 LFS v01 M v01 A PUF	9485
 NAM BWA	6593
+NAM FULL TXT PREFECTURE DAT BIRTH FLG GENDER ADDR 1 ADDR 2	3364
+NAM NSA 1993 NHIES	9485
+NAM NSA 2003 NHIES v01 M	9485
+NAM NSA 2013 NLFS Vo2	9485
+NAM NSA 2014 NLFS Vo3	9485
+NAM NSA 2015	9485
+NAM NSA 2016 LFS V04 PUF	9485
+NAM NSA 2017 NFIS V4	9485
+NAM NSA PHC 2011 V01 PUMS	9485
+NAM NSA PHC 2023 V01 PUMS	9485
 NAM-CSIRT	1870,360,1106,74,2370,14,1947,1821
 NAM-CSIRT Emilia Nghikembua	7741
 NAM-CSIRT Implementation Update	2230,3550
@@ -291,7 +305,7 @@ NAME REGISTRATION	3714
 NAME REGISTRATION Names	3714
 NAMES	3714
 NAMFISA	3714
-NAMFULL2 ID_ENTITY CODBRANCH Notably	3364
+NAMFULL2 ID ENTITY CODBRANCH Notably	3364
 NAMIBIA	1750,97,53,99
 NAMIBIA Building	5036
 NAMIBIA CYBER SECURITY INCIDENTS RESPONSE TEAM	3336
@@ -300,20 +314,6 @@ NAMIBIA'S	5543
 NAMING	10033
 NAMING CONVENTIONS STANDARDS AND GUIDELINES	34
 NAMPA	9664,1
-NAM_1992_DHS_v01_M	9485
-NAM_2000_DHS_v01_M	9485
-NAM_2009_HIES_v01_M_v01_A_PUF	9485
-NAM_2012_LFS_v01_M_v01_A_PUF	9485
-NAM_FULL TXT_PREFECTURE DAT_BIRTH FLG_GENDER ADDR_1 ADDR_2	3364
-NAM_NSA_1993_NHIES	9485
-NAM_NSA_2003_NHIES_v01_M	9485
-NAM_NSA_2013_NLFS_Vo2	9485
-NAM_NSA_2014_NLFS_Vo3	9485
-NAM_NSA_2015	9485
-NAM_NSA_2016_LFS_V04_PUF	9485
-NAM_NSA_2017_NFIS V4	9485
-NAM_NSA_PHC_2011_V01_PUMS	9485
-NAM_NSA_PHC_2023_V01_PUMS	9485
 NAMlEgNeTmNeOnTeICKE	6907
 NaMEA	9966
 Nam-CSIRT	7627
@@ -385,9 +385,9 @@ Name of Requesting Officer	34
 Name of Software	34
 Name of ZRCP Transporter. Location	1988
 Name the SIEM	10617
+NameDescriptionDuration gac Contains	3212,2216,578
 NameDescriptionDurationCookie PreferencesThis	3212,2216,578
-NameDescriptionDuration_gac_Contains	3212,2216,578
-NameDescriptionDurationwordpress_logged_inUsed	3212,2216,578
+NameDescriptionDurationwordpress logged inUsed	3212,2216,578
 Named	776,22,728,92,177,1011,402,905,162,350,434,132,854,381,529,51,83,1986,1147
 Named ADVOCACY ANALYSIS	3572
 Named African	9611
@@ -418,8 +418,7 @@ Namespace Identifier	6666
 Nametil-Angoche Inauguração da Estrada Maroeira	9432
 Namib Desert	5081
 NamibLII	1233
-Namibe	4044
-Namibe. De	8425
+Namibe	4044,4381
 Namibe. O Conecta Angola	6585
 Namibia	159,10,67,69,13,7,77,1,109,77,55,132,186,51,3,14,1,115,87,9,1,36,154,32,89,36,6,63,188,24,51,6,16,31,1,1,2,1,1,5,1,10,2,23,50,158,5,105,124,26,98,89,5,79,14,56,104,60,7,15,163,73,99,17,41,29,6,14,16,9,48,7,48,33,14,80,45,23,38,39,8,110,77,19,77,26,49,157,50,1,62,88,7,50,169,7,46,78,19,13,8,30,26,45,5,161,7,74,79,7,74,10,4,5,22,14,21,48,5,64,99,14,132,64,65,28,143,22,2,11,78,29,58,37,76,18,75,4,2,25,1,5,7,5,2,25,2,52,3,19,8,33,1,50,22,40,50,8,2,100,11,17,62,85,57,93,17,188,50,29,34,2,50,32,80,45,55,1,14,70,23,1,134,3,1,3,158,1,1,137,58,50,16,46,118,3,127,136,1,1,54,9,182,46,76,10,77,104,16,67,123,1,79,1,120,73,1,22,137,54,94,5,75,25,32,35,25,63
 Namibia AI Readiness Assessment Methodology	5036
@@ -440,6 +439,7 @@ Namibia Cyber Security Incident Response Team	2230,1180,663,2692,862,114
 Namibia Cyber Security Information Sharing	5780
 Namibia Cybersecurity	2230,3550
 Namibia Cybersecurity Landscape Report	2230,3550,14
+Namibia DPA-Bill.pdf	512
 Namibia Data Portal	9485
 Namibia Economist	2588
 Namibia Energy Institute. Nearly	1242
@@ -553,7 +553,6 @@ Namibia. The ICT	9562
 Namibia. The NCRST	5036
 Namibia. The Namibian	3459
 Namibia. Traditional	8415
-Namibia_DPA-Bill.pdf	512
 Namibian	961,15,37,931,31,2,2,1,1,5,36,208,5,526,256,135,184,109,14,16,64,81,14,80,340,19,422,275,92,219,5,412,4,5,22,14,21,48,5,163,588,99,113,56,45,84,19,41,1,597,205,378,125,117,2,2,3,159,1,195,360,138,245,132,181,481,1,411,92
 Namibian Census	1944,78
 Namibian Competition Commission	3714
@@ -620,7 +619,6 @@ Nampost and Letshego Bank Namibia	8252
 Nampower	1944
 Nampower AFS	1944
 Nampula	1526,282,1008,967,3896,431,1449,992
-Nampula. O	8110
 Namugga	5343
 Namugongo Martyrs Shrine	4954
 Namukasa	8661,134
@@ -649,10 +647,10 @@ Operation Name P172350 Digital Governance and Economy	2473
 Opportunities Namibia	5036
 Organization Performer Name	10244
 Oshana Oshikoto Otjozondjupa Zambezi Namibia MTC	1013
-Outcomes RESULT_FRAME_TBL_ PD O Indicator Name	1284
-Outcomes RESULT_FRAME_TBL_PDO Indicator Name PBC Baseline	1228
+Outcomes RESULT FRAME TBL PD O Indicator Name	1284
+Outcomes RESULT FRAME TBL PDO Indicator Name PBC Baseline	1228
 P505094 Operation Name	2291
-PII. IDCUST DAT_CUST_OPEN NAM_FIRST NAM_LAST NAM_MID	3364
+PII. IDCUST DAT CUST OPEN NAM FIRST NAM LAST NAM MID	3364
 PM Namibia	1977
 PM UTC Namibia	6785
 PPE. Name	1988
@@ -683,8 +681,8 @@ Províncias de Nampula	1808
 Q-Kon Telecom Namibia	5502
 Qe7FtjalG The Namibia Cyber Security Incident	5794
 RAN Sites Telecom Namibia	1013
-RESULT_FRAME_TBL_ IO Indicator Name PBC Baseline	1284
-RESULT_FRAME_TBL_IO Indicator Name PBC Baseline Intermediate	1228
+RESULT FRAME TBL IO Indicator Name PBC Baseline	1284
+RESULT FRAME TBL IO Indicator Name PBC Baseline Intermediate	1228
 ROUTE Name Bearer1	736
 ROUTE Station Name Latitude Longitude	736
 ROUTE Station Name Latitude Longitude Altitude	736
@@ -739,6 +737,7 @@ TIGER GLOBAL IS NOT NAMED ANYWHERE	9098
 Tech Namibia Reports	5794
 TechCentral. Namibia	8131
 Telecom Namibia	1013,266,471,97,53,44,1033,562,220,2167,442,250,20,25,1,101,247,513,1741,296,585,318
+Telecom Namibia Angola Telecom SATCAB 1200.jpg	6638
 Telecom Namibia Annual Reports	1944
 Telecom Namibia CEO	5926
 Telecom Namibia CEO Stanley Shanapinda	10465

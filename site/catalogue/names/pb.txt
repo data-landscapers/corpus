@@ -7,15 +7,17 @@ CHINA EXIMBANK PBC NO	56,302
 CIGI PB226	4846
 CIGI PB232	5239
 China Eximbank PBC No	228,1
-Components RESULT_FRAME_TBL_ IO Indicator Name PBC	1284
-Components RESULT_FRAME_TBL_IO Indicator Name PBC Baseline	1228
+Components RESULT FRAME TBL IO Indicator Name PBC	1284
+Components RESULT FRAME TBL IO Indicator Name PBC Baseline	1228
 Customer Base Ingestion PB	8999
+GCI PB 012 EN FIN.pdf	474,2,2,2,2
+GCI PB 019 CLA-2023-FIN.pdf	645,2,211,2
 Governing Global Tech Giants CIGI PB226.pdf	4846
 LMP Labor Management Plan PBA Performance-Based	1264
 MLGRD PBB Estimates	4490
 National PBA	969
 National Telecommunication Coverage Project. The PBC	228,1
-Outcomes RESULT_FRAME_TBL_PDO Indicator Name PBC Baseline	1228
+Outcomes RESULT FRAME TBL PDO Indicator Name PBC Baseline	1228
 PB Enterprise Storage	3487
 PB Object Storage	3487
 PB Paid Direct	8999
@@ -26,9 +28,9 @@ PBB Estimates	4481,1,2,1,1,1,1
 PBB FY2024	1730,1,1,1,1
 PBB FY2025	2963,1,1
 PBB FY2026	6428,1,1,1
-PBB Part E	1834
+PBB Part	1834
 PBB-MLGCRA.pdf	4490
-PBB-MLGRD_.pdf	1514
+PBB-MLGRD .pdf	1514
 PBB-MOCD.pdf	4491
 PBC Baseline End Target	1284
 PBCs. Activity	6539
@@ -39,8 +41,8 @@ Pbps. Global Content Provider Bandwidth	1766
 Planet Labs PBC	9544
 Prof. I. D.T. Mpofu PBroofa.rZd.CMhauirramnadna	1154
 Project. The PBC	358
-RESULT_FRAME_TBL_ IO Indicator Name PBC Baseline	1284
-RESULT_FRAME_TBL_IO Indicator Name PBC Baseline Intermediate	1228
+RESULT FRAME TBL IO Indicator Name PBC Baseline	1284
+RESULT FRAME TBL IO Indicator Name PBC Baseline Intermediate	1228
 Rationale for PBCs	6539
 SAFE and PBOC	5863
 Safe City Project. The PBC	259

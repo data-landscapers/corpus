@@ -89,7 +89,7 @@ Editorial Team AFR-IX	7752
 Editorial Team Category	5289
 Editorial Team Cohort	8209
 Editorial Team Combined	4546
-Editorial Team F E	9783,51,5,12,61,12
+Editorial Team F	9783,51,5,12,61,12
 Editorial Team F E Cauridor	9811
 Editorial Team F E Sikaflow	9977
 Editorial Team F E The Consultative	9843
@@ -302,9 +302,8 @@ Teacher Professional Learning	899
 Teacher Service Commission	899
 Teacher Trainee Allowance	7695
 Teacher Trainees Enrolment	2775
-Teacher Training	2989,1539,3020
+Teacher Training	899,2090,1539,3020
 Teacher Training Colleges	383,6821
-Teacher Training E	899
 Teacher Training Institutes	2989,1664
 Teacher Training Institutes Finalize	2989
 Teacher Training Institutes Sign	2989

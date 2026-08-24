@@ -12,7 +12,6 @@ Agencia Nacional de Ciberseguridad	6992
 Agencia Nacional de Desarrollo	9302
 Agencia Nacional de Desarrollo de G.E	4209
 Agencia Nacional de Desarrollo de Guinea Ecuatorial	1701,2508,3495
-Agencia Nacional de Desarrollo de Guinea Ecuatorial De	4209
 Agencia Nacional de Gestión	4209
 Agencia Nacional de Inversión Privada	1701
 Agencia Nacional de Investigación Financiera	4209
@@ -28,7 +27,7 @@ Agência Nacional de Protecção de Dados Pessoais de São	6568
 Agência Nacional de Proteção de Dados Pessoais	3079
 Agência Nacional de Proteção de Dados Pessoais de São	3079
 Agência Nacional de Segurança Cibernética	2816
-Além da Jurisdição Nacional. De	5791
+Além da Jurisdição Nacional	5791
 Ambito Nacional Múltiples Nacional	4209
 Antigüedad de Empleados Centro Nacional de Derechos Humanos	4209
 Ao Conselho Nacional de Cibersegurança	4147
@@ -73,7 +72,7 @@ C Comissão Nacional de Direitos Humanos	6530
 C Sistema Nacional de Identificação	6530
 CANCIL. DE LAS ORDENES NACIONALES	4209
 CARTÃO NACIONAL DE IDENTIFICAÇÃO	7466
-CLOUD NACIONAL REFORÇA ECOSSISTEMA DIGITAL DO	1192
+CLOUD NACIONAL REFORÇA ECOSSISTEMA DIGITAL	1192
 CNPD Comissão Nacional de Proteção de Dados Pedidos	3079
 COMPUTAÇÃO EM NUVEM Instituto Nacional de Tecnologias	2438
 CONSEJO NAC. PARA EL DESARROLLO ECONÓMICO	4209
@@ -235,7 +234,7 @@ D.G DE BELLEZA Y TRADICION NACIONAL.-	4209
 D.G DE ESTATALES Y NACIONAL	4209
 D.G DE SEGURIDAD NACIONAL	4209
 D.G DE SEGURIDAD NACIONAL Concepto	4209
-D.G. CONTE. NACIO. Y DESARR. DE	4209
+D.G. CONTE. NACIO. Y DESARR	4209
 D.G. DE ECONOMIA Y CUENTAS NACIONALES	4209
 D.G. DE ECONOMIA Y CUENTAS NACIONALES-	4209
 DADOS Instituto Nacional de Tecnologias de Informação	2437
@@ -263,7 +262,7 @@ Diésel Múltiples Nacional	4209
 D’après Aboubakar Nacanabo	4550
 E. P. ASSEMBLEIA NACIONAL Lei	539
 ESCUELA NAC. DE FAS Y MÚSICA	4209
-ESTATUTO ORGÂNICO DO CENTRO NACIONAL DE	4218
+ESTATUTO ORGÂNICO DO CENTRO NACIONAL	4218
 ESTRATÉGIA NACIONAL DE CIBERSEGURANÇA	4146
 ESTRATÉGIA NACIONAL DE INCLUSÃO FINANCEIRA	2138
 Economia Director Nacional	7245
@@ -290,9 +289,8 @@ Estado. SUBSECÇÃO I Conselho Nacional de Segurança	6970
 Estrada Nacional Número	10083
 Estrategia Global Nacional	1701
 Estrategia Nacional de Desarrollo Sostenible	1701,2508,5093
-Estrategia Nacional de Desarrollo Sostenible E	1701
 Estrategia Nacional de Desarrollo Sostenible IMPLEMENTACIÓN	1701
-Estrategia Nacional de Desarrollo Sostenible SISTEMAS DE	1701
+Estrategia Nacional de Desarrollo Sostenible SISTEMAS	1701
 Estrategia Nacional de Desarrollo Sostenible TURBULENCIAS	1701
 Estrategia Nacional de Desarrollo Sostenible V. EJES	1701
 Estrategia Nacional de Seguranca Cibernetica	10440
@@ -447,7 +445,6 @@ Nacala	3533,6228
 Nacala-Lobito	6775
 Nacanabo	2603,1780,1339
 Nacanabo. Au	1918
-Nacanabo. Le	5722
 Nachfrage	2219
 Nachinga	10705
 Nachiri	9399
@@ -536,11 +533,10 @@ Plan Nacional de Desarrollo	7703,1
 Plan Nacional de Desarrollo Económico	1701
 Plan Nacional de Desarrollo Sanitario	4209
 Plan Nacional de Desarrollo Sanitario PNP	1701
-Plan Nacional de Desarrollo de Guinea Ecuatorial. La	9302
+Plan Nacional de Desarrollo de Guinea Ecuatorial	9302
 Plan Nacional de Operacionalización	4209
 Planificación Nacional	1701,5140,1207,330,924,1059,126
 Planificación Nacional. Durante	8378
-Planificación Nacional. La	9302
 Plano Estratégico Nacional	7707
 Plano Nacional de Capacitação	1948
 Plano Nacional de Cuidados	1948
@@ -549,7 +545,6 @@ Plano Nacional de Digitalização Portuária	8729
 Plano Nacional de Frequências	15,2851
 Plano Nacional de Numeração	15
 Plano de Desenvolvimento Nacional	1215,2304,384,391,726,954,2334,952
-Plano de Desenvolvimento Nacional. O	9260
 Planos de Desenvolvimento Nacional	8309
 Plataforma Nacional de Gestión Minera	9303
 Plataforma Nacional de Identidade Digital	9909
@@ -663,8 +658,7 @@ Sistema Nacional de Identificação Civil	1252,1,1,1,830,1,1,1,2327,1,1,1,2153
 Sistema Nacional de Información	1701
 Sistema Nacional de Información Sanitaria TIC	1701
 Sistema Nacional de Innovación	1701
-Sistema Nacional de Medio Ambiente La	1701
-Sistema Nacional de Medio Ambiente. La	1701
+Sistema Nacional de Medio Ambiente	1701
 Sistema Nacional de Pagamentos	5068,101,1825,344,665
 Sistema Nacional de Pagamentos. I SÉRIE	5169
 Sistema Nacional de Planificación	4209
@@ -694,7 +688,7 @@ Tercera Conferencia Económica Nacional	1701
 Territorio Nacional	163,4046
 Territorio Nacional. Múltiples Nacional	4209
 Tesorería General Múltiples Nacional	4209
-Tesoro Nacional. El	1701
+Tesoro Nacional	1701
 Tesouro Nacional	4218
 Transf. Comité Nac. de Control de Precios Combustibles	4209
 Transf. Comité Nac. de Seguridad	4209
@@ -711,5 +705,5 @@ ViNaDia Vigilancia Nacional	966
 Voz Múltiples Nacional	4209
 Weidain Aboubacar Mahamane NACRO	7670
 X Programa Nacional de Fomento	4209
-Y FORMACIÓN NACIONAL FORESTAL Y Y	4209
+Y FORMACIÓN NACIONAL FORESTAL	4209
 Y PAGINA WEB BIBLIOTECAS E NACIONAL	4209

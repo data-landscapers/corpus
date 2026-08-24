@@ -242,7 +242,7 @@ C. Leveraging Development Partner Support Align	4848
 C. Proposed Development Objective	1704,587,1165
 C16 Developing	9237
 CAPÍTULO IV Deveres	539
-CAPÍTULO V DEVERES E CONFLITOS DE	4147
+CAPÍTULO V DEVERES E CONFLITOS	4147
 CAPÍTULO V Deveres	6462
 CAR Component African Development Bank	174
 CAR Country Climate and Development Report	2889
@@ -421,7 +421,7 @@ DEVELOPMENT OF AN INCLUSIVE DATA ECONOMY	1161
 DEVELOPMENT PROJECT	8669
 DEVELOPMENT STAGE	9458
 DEVELOPMENT STUDIES Data Processor INST-86521012D9D	7167
-DEVELOPPEME La	3396
+DEVELOPPEME	3396
 DEVICES TO THE ELECTRONIC INVOICING SYSTEM	4699
 DEVISED BY CHINA	561
 DEVKI STEEL MILLS LIMITED Data Processor	7167
@@ -489,7 +489,7 @@ Description USAID Digital Economy and Market Development	404
 Description World Bank Digital Development Partnership	525,634
 Designated Account DPI Development Committee Paper	3604
 Dev Bank	5241
-Dev Supp I Vol I	1834,1
+Dev Supp I Vol	1834,1
 Dev&title	766,453
 DevCon	7224
 DevEx	2678
@@ -568,9 +568,8 @@ Developing	395,371,195,48,146,6,82,18,3,217,333,174,296,23,51,258,332,443,122,10
 Developing AI	8113
 Developing African	6938
 Developing Context	6832
-Developing Countries	226,228,158,154,1752,2831,351,2910,233,1875,8
+Developing Countries	226,228,158,154,1752,430,2401,351,2910,233,1875,8
 Developing Countries Performing	226
-Developing Countries_	2948,2401
 Developing Country	5349
 Developing Country Facing Resource Depletion	1828
 Developing Country Perspective	226
@@ -1039,7 +1038,7 @@ Equity Commitment Belgian Investment Company for Developing	821
 Essential for Development	1777
 Establish Bilateral and Develop	1777
 Establish Bilateral and Multilateral Partnerships. Develop	1777
-Establish Connactathon National Repository Develop I	1009
+Establish Connactathon National Repository Develop	1009
 Establishing Space Industry Development Fund. Entering	1131
 Estate Intel Lagos Real Estate Development	8045
 Estimates Yes Loan Cancellations Yes Development	2473
@@ -1060,7 +1059,7 @@ European Development Fund	26,1,1
 European Fund for Sustainable Development Plus	4475,175,13,436
 European Fund for Sustainable Development Plus EIB	970
 European Journal of Development Research	7886
-European Journal of Training and Development_	4432
+European Journal of Training and Development	4432
 Examining E-Government Development Effects	5349
 Exchequer Develop Kiswahili	7548
 Executive Economic Development Advisor	7156,597
@@ -1162,7 +1161,6 @@ Global Economy and Development	5440,4269
 Global IPv6 Development Report	1702
 Global Market Development	560
 Global Partnership for Sustainable Development Data	540,621,5568,1612
-Global Partnership for Sustainable Development Data._	6729
 GoZ Devolution	970
 GoZ’s Development Co-operation Policy	970
 Google Developer	1363
@@ -1306,8 +1304,7 @@ Information Technology Development Company	4284
 Information Technology Industry Development Agency	7397,824,1,1658
 Information Technology Industry Development Agency and EY	7045
 Information Technology Industry Development Agency and Heba	5607
-Information Technology for Development	1248,7881,1597
-Information Technology for Development_	4432
+Information Technology for Development	1248,3184,4697,1597
 Information and Communication Technology for Development	226,759
 Information for Development	7724
 Infrastructure Development	1818,2043,1814,5,1,4640
@@ -1384,7 +1381,7 @@ Jointly Promote West Africa's Development	6003
 Journal of Development Studies	226
 Journal of Developmental Education	7278
 Journal of International Development	10726
-Journal of Resources Development and Management_	4432
+Journal of Resources Development and Management	4432
 Jul-2022 TO Republic of Mozambique Digital Development	4653
 Jun-2024 Digital Development Financing	1704
 Justice and Constitutional Development	2626
@@ -1421,7 +1418,7 @@ Konza Technopolis Development Authority Address	1638
 Konza Technopolis Development Authority CEO	5108
 Konza Technopolis Development Authority Chief Executive	9853
 Kwekwe Development	4896
-LE DEVELOPPEMENT ET LES CONDITIONS DE	2342
+LE DEVELOPPEMENT ET LES CONDITIONS	2342
 LEAD Support Develop AI	7548
 LEGACY SMARTCARE PLUS SMARTCARE PRO Developer	2477
 LIST OF ACRONYMS ADM Architecture Development	1009
@@ -1636,7 +1633,7 @@ National Company for Information Technology Development	6403
 National Computer Development Company	3604
 National Develop	1462,6086
 National Development	970
-National Development Agenda. I	1554
+National Development Agenda	1554
 National Development Bank	3847,22
 National Development Framework	3861
 National Development Objectives Zimbabwe’s AI	4528
@@ -1646,9 +1643,11 @@ National Development Plan IV	6311,3898
 National Development Plan IV and Uganda's Vision	4217
 National Development Plan IV and Vision	4217
 National Development Plan NSDP	6832
+National Development Plan Ngubane-Mokiwa	6832
 National Development Plan. Nandi-Ndaitwah	7126
 National Development Plan. Recommendations	1809
 National Development Planning Commission	582,4793,1133
+National Development Planning and Research	2998,400
 National Development Plans	1814,53,6546
 National Development Priorities	4528
 National Development Strategies	4528
@@ -1741,7 +1740,7 @@ Objective Original Development Objective	6833
 Office of External Relations and Development	5404
 Official Development Assistance	1828,3416,1094
 Official Development Assistance PUL	5244
-Official Use Only_ Proposed Development	3456
+Official Use Only Proposed Development	3456
 Olorropil Child Development Center Data Controller	7167
 Ombuds ICT Development	5642
 Omdia Fiber Development Index	6773
@@ -1792,7 +1791,7 @@ Pear System Development Company Ltd	3862
 Pension Fund Regulatory and Development Authority	7981
 Percentage of Housing Developers	2775
 Performance Management Development System PMO Project	5533
-Personal Development Interdisciplinary Journal_	4432
+Personal Development Interdisciplinary Journal	4432
 Phase I African Development Bank	599
 Phase I The African Development Bank	792,6368
 Phase II African Development Bank	803
@@ -1889,11 +1888,10 @@ Reformed Constituency Development Fund Dashboard	8667
 Refugee Affairs SDG Sustainable Developmental Goals	5533
 Regional Centre for Mapping of Resources for Development	5805
 Regional Developme	339
-Regional Development	55,1,69,122
+Regional Development	55,1,69,122,1846
 Regional Development Forum for Africa	578
 Regional Development Plan	8645
 Regional Development Rebecca Miano and KenGen Chairman	1245
-Regional Development_	2093
 Regional Digital Infrastructure Market Development	1264
 Regional Hosting Hub Development The Federal	10157
 Regional Indicative Strategic Development Plan	9708,461,152
@@ -1906,7 +1904,7 @@ Regional Planning and Urban Development	8087
 Regulatory Framework and Policy Development	5245
 Reimagining Development Data	7590,72
 Related Sustainable Development Goals	8943
-Remittance for Development I	1019
+Remittance for Development	1019
 Remittances for Development	377,642
 Remittances for Development Sweden	377
 Remote Sensing Zim-AEZ App Development Zim-AEZ	520
@@ -2177,7 +2175,7 @@ Technology Development Agency	9576
 Technology Development Agency Strategic Business Group	10157
 Technology Development and Applications	958
 Technology Innovation And Research Development	1756,1384,3772
-Technology and Development. I	8704
+Technology and Development	8704
 Technology and Innovation Develop	1161
 Technopark PPP Development Africa50	812
 Technopolis Development Authority	1638,4495,28,466,853,614,2573

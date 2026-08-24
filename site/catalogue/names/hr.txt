@@ -15,17 +15,17 @@ HR Modules	7973
 HR Perspective	9253
 HRA Human Resources and Administration HRIS Human	34
 HRC52	3583
+HRH FHW	4301
 HRH Funded	4217
 HRH Funded Government of Uganda	4217
 HRH Funded Government of Uganda Existing	4217
 HRH Funded Uganda	4217
 HRH Labo	4301
+HRH Laboratory	4301
 HRH Prince Sicalo	5976
 HRH. Federal Republic ofNigeria	4301
 HRHIS	1261
 HRHO.CA	9826
-HRH_FHW	4301
-HRH_Laboratory	4301
 HRIAs	4424
 HRIS Human Resource Information System IaaS	6432
 HRIS System	6432
@@ -34,7 +34,6 @@ HRM&D	5533
 HRM-related	1284
 HRMIS	127,1157,2011
 HRMIS DPI	3295
-HRMS. The AF	1284
 HRSL2	1944
 HRSL3	1013
 Health Products Regulatory HRIS Human Resource	396

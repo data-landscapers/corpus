@@ -46,7 +46,7 @@ AGEFINE LAB	7167
 AGEMA ANALYSTS LIMITED Data Controller INST-3182202B86D	7167
 AGEMA ANALYSTS LIMITED Data Processor INST-3182202B86D	7167
 AGENCE NATIONALE D’APPUI AU DÉVELOPPEMENT RURAL	2342
-AGENCE NATIONALE POUR LA SOCIETE DE	3395
+AGENCE NATIONALE POUR LA SOCIETE	3395
 AGENCIFY LIMITED Data Controller INST-624951420E9 NAIROBI	7167
 AGENCIFY LIMITED Data Processor INST-624951420E9 NAIROBI	7167
 AGENCY	2727
@@ -123,7 +123,6 @@ AGRIBORA KENYA LIMITED Data Controller INST-30963624517	7167
 AGRIBORA KENYA LIMITED Data Processor INST-30963624517	7167
 AGRICHEM AFRICA LIMITED Data Controller INST-7396380818D	7167
 AGRICULTURA	4209
-AGRICULTURA Y	4209
 AGRICULTURAL SUB-PROJECT ACTIVITIES Date Submitted	1988
 AGRICULTURE	737
 AGRICULTURE L’Agriculture	737
@@ -315,7 +314,6 @@ Agbogboza	8718
 Agboola	3082,178,1465,5109,176
 Agboville	2342,777,2726
 Agboville. Ces	2342
-Agboville. La	2342
 Age Group	582
 Age Group and Residence	2775
 Age Threshold	582
@@ -364,8 +362,7 @@ Agence Maghreb Arabe Presse Chapitre	308
 Agence Marocaine de Développement des Investissement	5745,1
 Agence Marocaine de Développement des Investissements	5745
 Agence Mauritanienne	2154,1179,22,2692
-Agence Nationale	1560,954,109,7,711,15,248,798,165,357,282,340,1032,22,583,29,593,169,19,35,392,137,1111,486,346,32,15
-Agence Nationale De	1005
+Agence Nationale	1005,555,954,109,7,711,15,248,798,165,357,282,340,1032,22,583,29,593,169,19,35,392,137,1111,486,346,32,15
 Agence Nationale de Digitalisation	4036,6496
 Agence Nationale de Développement du Numérique	5370
 Agence Nationale de Promotion	6827
@@ -410,8 +407,6 @@ Agence du Numerique	715
 Agence. Article	735
 Agence. Cette	9656
 Agence. Dans	735
-Agence. Le	735
-Agence. Les	4812
 Agence. Une	8360
 Agencement	3537
 Agences	3396
@@ -421,7 +416,6 @@ Agencia Nacional de Ciberseguridad	6992
 Agencia Nacional de Desarrollo	9302
 Agencia Nacional de Desarrollo de G.E	4209
 Agencia Nacional de Desarrollo de Guinea Ecuatorial	1701,2508,3495
-Agencia Nacional de Desarrollo de Guinea Ecuatorial De	4209
 Agencia Nacional de Gestión	4209
 Agencia Nacional de Inversión Privada	1701
 Agencia Nacional de Investigación Financiera	4209
@@ -493,7 +487,7 @@ Agenda Estratégica	1268
 Agenda Guinea Ecuatorial	1701
 Agenda Items	5680
 Agenda Jeunesse	8237
-Agenda Ministère Gouvernement Du	3675
+Agenda Ministère Gouvernement	3675
 Agenda Nacional de Digitalización	10318
 Agenda National de Transformation Numérique	1218
 Agenda O Governo	8827
@@ -528,8 +522,8 @@ Agent-to-agent	4265
 AgentTesla	9830
 Agente Consular	4209
 Agente Criminoso	549
-Agente Grupo E	4209
-Agente Grupo E Auxiliar Grupo E	4209
+Agente Grupo	4209
+Agente Grupo E Auxiliar Grupo	4209
 Agente Grupo F Auxiliar Grupo F	4209
 Agente Grupo F Servicio	4209
 Agente Grupo G Delineante Director Grupo	4209
@@ -600,7 +594,6 @@ Agnéby-Tiassa	2342
 Ago Christian Koda	3031
 Ago Christian Kodia	2758,1230,698,1461,12,399,1779,1380
 Ago Christian Kodia. L'objectif	2758
-Ago Christian Kodia. Le	6558
 Agoe-Nyive	4035,232,12
 Agogbua	7066
 Agokoli IV	8718
@@ -618,7 +611,6 @@ Agostinho Tavares da Silva Neto	5319
 Agostinho Van-Dúnem. Os	2581
 Agosto	220,356,219,2021,703,70,620,1512,741,109,2059,28,17,26,126,23,4,26,279,100,1,241,42,256,110,205,26,26,105,54,115,2
 Agosto O SGLA	10276
-Agosto. O	8701
 Agosto. Reglamento	9543
 Agosto. Segundo	8731
 Agosto.A	8211
@@ -638,7 +630,7 @@ Agreeing	5148,2039
 Agreement	905,22,34,119,163,21,20,442,188,74,129,357,203,271,308,272,55,351,38,77,105,93,55,47,321,23,1841,5,125,170,205,103,310,393,117,1293,182,1039,79,158
 Agreement DFFT Data Free Flow	1243
 Agreement Establishing the African Continental Free Trade	10157,319
-Agreement Establishing the Bank. I	1818
+Agreement Establishing the Bank	1818
 Agreement G20 Group of Twenty GATS General	1243
 Agreement Register AI	7548
 Agreement Text	5550
@@ -805,8 +797,7 @@ Agrícola	1701
 Agua Calefaccion Comunidad Estipendio	4209
 Agua Potable	4209
 Aguera	961,1156
-Aguinaldo Jaime	7108,1152,233
-Aguinaldo Jaime. O	4250
+Aguinaldo Jaime	4250,2858,1152,233
 Aguinis	6832,1134
 Agulugufe	7726
 Agus Heri Setiawan	1824
@@ -848,7 +839,6 @@ Agência de Protecção de Dados. ARTIGO	539
 Agência de Protecção de Dados. Artigo	14,1,779
 Agência de Protecção de Dados. CAPÍTULO VI DISPOSIÇÕES	794
 Agência de Protecção de Dados. Entende-se	14
-Agência de Protecção de Dados. O	14
 Agência de Protecção de Dados. SECÇÃO III COMUNICAÇÃO	14
 Agência de Protecção de Dados. Salvo	14
 Agência de Protecção de Dados. Sem	14
@@ -952,7 +942,7 @@ C19968 Khadijetou Mohamed Fadel Aghdhafna Cheikh	1183
 CAMER PRESS AGENCYCamer Press Agency DECOUVREZ	9916
 CAMTEL’s Special Commercial Agency of Yaoundé	9917
 CAP Agrees	4732
-CAPÍTULO III AGÊNCIA DE PROTECÇÃO DE	14
+CAPÍTULO III AGÊNCIA DE PROTECÇÃO	14
 CDMT. Neither the Agence Nationale	4015
 CEMAC. Agenda Guinea Ecuatorial	1701
 CENTRE NATIONAL DE RECHERCHE AGRONOMIQUE Structures	2342
@@ -1005,7 +995,7 @@ Changed Implementing Agency	1284
 Check Against Delivery	1735
 Child Labour and Minimum Age Sections	1988
 China Eximbank and Credit Suisse AG	192
-China’s Campaign of Repression Against Xinjiang’s Muslims’_	2518
+China’s Campaign of Repression Against Xinjiang’s Muslims	2518
 Christian Ago Kodia	6989
 Christian Kodia Ago	6558
 Chukwuemeka Agbata	10052
@@ -1029,7 +1019,6 @@ Climate Smart Agriculture Framework	970
 Climate Smart Agriculture-	970
 Climate-Resilient Agriculture	1867
 Clúster de Agua	1701
-Clúster de Agua El	1701
 Collaboration Age Group	582
 Collateral Agent	4462,250
 Collective Bargaining Agreements Registered	2775
@@ -1105,7 +1094,7 @@ Cybersecurity and Infrastructure Agency	2314
 Cybersecurity and Infrastructure Security Agency	8776
 Cónsul B3 Cónsul General B1 Agregado	4209
 D. G. DE AGRICULT	4209
-D.G. DE INSPECC. GEN.DE AGRICULTURA Y	4209
+D.G. DE INSPECC. GEN.DE AGRICULTURA	4209
 DA AGÊNCIA DE PROTECÇÃO DE DADOS	167,585
 DATA DE-IDENTIFIED DATA AGGREGATE HEALTH DATA	2709
 DE ADMINISTRAÇÃO DA AGÊNCIA DE PROTECÇÃO	752
@@ -1215,7 +1204,6 @@ Digital Intelligent Age	8890
 Digital Mozambique Agenda	3861
 Digital Mozambique Agenda The Digital Mozambique	3861
 Digital Services Agency	3454
-Digital Services Agency. Do	3454
 Digital Shield Against Administrative Malpractice	9517
 Digital Shield Against Counterfeit Goods	3003
 Digital Trade Agenda and Africa	226
@@ -1263,7 +1251,8 @@ ECOWAS Digital Agenda	5676
 ECOWAS Rice Agenda	7452
 EEA Agreement	7081
 EIPA Warns Against Rising Online Copyright	8647
-ENTRE AGEFAU ET MINISTÈRES CHARGÉS DE	7926
+EN - Protocol to AfCFTA Agreement on Digital Trade.pdf	5487
+ENTRE AGEFAU ET MINISTÈRES CHARGÉS	7926
 ENTREPRISES FAMILIALES NON AGRICOLES	737
 EPA Environmental Protection Agency	6936
 EPTC Loan Agreement	6539
@@ -1529,7 +1518,7 @@ III CEN. Agenda Guinea Ecuatorial	1701
 IMPLEMENTATION AND COORDINATION FRAMEWORK The Agency	1131
 IMPLEMENTING AGENCY Implementing Agency Name Type	1284
 IRAS Infeccao Respiratoria Aguda Ligera IRAS	966
-ISOE2019 DFinal Agregada_02Set2019	966
+ISOE2019 DFinal Agregada 02Set2019	966
 ISR03430 Implementing Agencies	2712
 ISR06567 Implementing Agencies	6928
 ISR07996 Implementing Agencies	6579
@@ -1713,7 +1702,7 @@ MERGER AGREEMENT	7198
 MGI Communications AG	4654
 MIDDLE AGE	940
 MINISTERIO DE AGRICULTURA	4209
-MISE EN PLACE D'UNE AGENCE DU	765
+MISE EN PLACE D'UNE AGENCE	765
 MODEL SPECIMEN SHARING AGREEMENT BETWEEN	4049
 MOICI Agencies	1000
 MOICI& Ministry Agencies	1000
@@ -1889,7 +1878,7 @@ National Cybersecurity Agency	395,1382,368,539,513,83,324,867,297,1572,447,36,15
 National Cybersecurity Agency Order	6787,36
 National Data Agency	4528,644
 National Data Protection Agency	2109
-National Development Agenda. I	1554
+National Development Agenda	1554
 National Digital Certification Agency	2578
 National Digital Transformation Agenda	1271,3702
 National Digital Transition Agenda	6910
@@ -2133,6 +2122,7 @@ Rwanda Broadcasting Agency	718
 Rwanda Korea International Cooperation Agency	209
 Rwanda National Identification Agency	6546,254
 Rwanda Space Agency	1903,3146,4495
+Rwanda Space Agency Brochure.pdf	1903
 Rwanda's AI Agency	10152
 Rwanda’s Flagship Agribusiness Hub	3256
 Réorganisation Agraire	737
@@ -2299,7 +2289,7 @@ Sénégal AGENCE NATIONALE DE L'ETAT CIVIL	3381
 Séraphin Agbahoungbata	2950
 Séva Agbonon	6134
 Sêmèvo Bonaventure AGBON	8318
-TAXAS A COBRAR PELA AGÊNCIA DE	744
+TAXAS A COBRAR PELA AGÊNCIA	744
 TBD Agriculture	970
 TOURISME ET AUTRES SERVICES Agriculture	2342
 TRIPS Agreement and Public Health	6534

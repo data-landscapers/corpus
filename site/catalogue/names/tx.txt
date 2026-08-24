@@ -3,7 +3,7 @@ Capacity Make Model Tx Power Tunability	736
 IATI TX	640,2
 J Base Stations Tx Channel S	736
 Latitude Tx of Earth Location Freq Freq	736
-NAM_FULL TXT_PREFECTURE DAT_BIRTH FLG_GENDER ADDR_1 ADDR_2	3364
+NAM FULL TXT PREFECTURE DAT BIRTH FLG GENDER ADDR 1 ADDR 2	3364
 Name Site TX Rx Altitude Longitude	736
 Number Tx	736
 Out Stations TX	736

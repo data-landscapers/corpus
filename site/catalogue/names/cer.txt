@@ -179,6 +179,7 @@ Certificate	1,127,608,513,739,1726,377,805,1536,400,1013,2578,298
 Certificate Authority	5533,58
 Certificate Authority CARA Criminal Assets Recovery	5533
 Certificate Delivery System	2819,1272
+Certificate Final.pdf	7210
 Certificate Management System	5983,963
 Certificate Master	1940
 Certificate Page	10721
@@ -194,7 +195,6 @@ Certificate of Proficiency	1554
 Certificate of Registration	9779,378
 Certificate of Simple Prior Notification	8769
 Certificate of Title	1249
-Certificate_Final.pdf	7210
 Certificated	4896
 Certificated Shareholders	4896
 Certificated Shareholders and Dematerialised Shareholders	4896
@@ -428,6 +428,7 @@ Root Certification Authority for Nigeria	10423
 Root Certification Authority for Nigeria's National Public	8440
 Rota Planning Staff Technical Training and Certifications	9123
 SAQA-approved Further Education and Training Certificate	8077
+SEC E CERT EXPIRED	2256,6977
 SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS	7198
 SEQE1. Certains	8891
 SIM3 Auditor Certification	9470
