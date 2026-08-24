@@ -10,11 +10,11 @@ The Bulletin section is heading, this paragraph and nothing else *(Bill, 2026-08
 
 ## hero
 
-A living record of digital transformation and data governance across Africa. Compiled from primary sources. Updated daily.
+Corpus is a repository of public documents covering digital transformation, digital public infrastructures and data governance across Africa. It is updated daily. 
 
 ## countries-intro
 
-Each country page contains four reports: A status summary; A breakdown of progress recorded over the past twelve months; a summary of news reported in the last month; and a financial record of investments or commitments made by non-state institutions since 2015.
+The repository covers all 54 countries For each country four reports have been built and are modified whenever newly arrived content merits an update. The ***Status Report*** attempts to summarise the current state of all components of the digital transformation landscape, The ***Monthly Update*** reference all new content published since the beginning of the last calendar month. The ***Progress Report*** attempts to track whether the tracked components have advanced, stalled or regressed over the past 12 months. ***Non-state Finance*** list all known financial commitments made since 2015. A fifth report on state budgeting and expenditure is outstanding.
 
 ## countries-caveat
 
@@ -30,4 +30,4 @@ A controlled vocabulary in a strict single-parent tree, so a category rolls up t
 
 ## bulletin-intro
 
-Everything published in the last two days, by topic, with the countries each item touches. Compiled at the end of each collection sweep; a quiet bulletin means nothing was published on those two days, not that nothing arrived.
+The bulletin lists all new content published today and yesterday. The first build takes place overnight and is refreshed in the middle of the day to catch this morning's publications. The bulletin can be filtered by country and topic.
