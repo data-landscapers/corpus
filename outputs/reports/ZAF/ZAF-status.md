@@ -1,12 +1,12 @@
 ---
 title: South Africa — digital transformation and data governance status report
-compiled: 2026-08-22
+compiled: 2026-08-24
 place: ZAF
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-05
 intersections_read: 12
-sources_cited: 215
+sources_cited: 216
 sections_written: 37
 not_established: 1
 acquire_lines: 49
@@ -27,7 +27,7 @@ Spectrum remains the binding scarcity. [Of 1,155MHz for which assignment plans o
 ### Data Storage
 <!-- infra.store -->
 
-Where South African government data physically sits is not a matter of public record: [it is hosted both inside and outside the country and the hosting arrangements are not published (2025)](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), though the state does run [a single shared government cloud platform](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). Localisation is sectoral: [only government data touching national security or sovereignty must sit on infrastructure inside the country, with further obligations in fields such as tax and financial services and no general mandate](https://www.ensafrica.com/news/detail/8715/south-africas-new-national-cloud-and-data-pol/).
+Where South African government data physically sits is not a matter of public record: [it is hosted both inside and outside the country and the hosting arrangements are not published (2025)](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), though the state does run [a single shared government cloud platform](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update). Localisation is sectoral: [only government data touching national security or sovereignty must sit on infrastructure inside the country, with further obligations in fields such as tax and financial services and no general mandate](https://www.ensafrica.com/news/detail/8715/south-africas-new-national-cloud-and-data-pol/). The commercial build-out is now under constitutional scrutiny of a kind the regulatory frameworks do not provide: the Human Rights Commission [opened a stakeholder process in May 2026 under section 184 of the Constitution, inviting written submissions by 30 July on eleven themes — among them electricity demand and tariffs, water use and cooling, environmental and climate impact, electronic waste, land use and community participation, privacy and cybersecurity, business and human rights due diligence, and equitable access to digital infrastructure — to assess whether the frameworks governing data centre development meet constitutional obligations](https://www.sahrc.org.za/index.php/sahrc-media/news-2/item/4479-media-advisory-south-african-human-rights-commission-calls-for-public-submissions-on-data-centres-and-human-rights-in-south-africa). No report, hearing date or submission list has been published.
 
 The most prescriptive residency rule yet drafted sits in exchange control rather than data policy. [The Reserve Bank's draft Crypto Asset Manual would let authorised providers host offshore within a group, but refuses any arrangement storing data in a sanctioned country or a jurisdiction that may inhibit effective access to it](https://www.treasury.gov.za/comm_media/press/2026/Draft%20Crypto%20Assets%20Manual%202026-07-31.pdf). [Approved offshore hosting would have to be ring-fenced by contract, retained five years and produced to the Financial Surveillance Department within 48 hours, and a provider leaving the country would have to replicate five years of data back into it](https://www.treasury.gov.za/comm_media/press/2026/Draft%20Crypto%20Assets%20Manual%202026-07-31.pdf).
 

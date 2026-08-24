@@ -1,16 +1,16 @@
 ---
 title: Mozambique — monthly update, July 2026
-compiled: 2026-08-23
-period: 2026-07-01 to 2026-08-23
+compiled: 2026-08-24
+period: 2026-07-01 to 2026-08-24
 place: MOZ
-ledger_rows: 66
+ledger_rows: 67
 not_held: 19
-record: d8a1ce6cb372
+record: 696142c8eaca
 ---
 
 # Mozambique: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-23 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-24 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -91,6 +91,11 @@ The tax authority made the fiscal clearance certificate available online from 3 
 
 <!-- narrative: dpi--data-statistics -->
 The statistics institute opened enumerator training on 27 July for a census pilot running 1-15 August, testing procedures for a 2027 census it states will be the first run entirely in digital format ([training account](https://jornalnoticias.co.mz/destaque/mais-de-200-jovens-recebem-formacao-para-o-censo-piloto/)).
+<!-- /narrative -->
+### Use of satellite data
+
+<!-- narrative: dpi--data-satellite -->
+A development-bank and Korean-financed programme has left a standing national flood-mapping capability: [nine LiDAR-equipped drone systems, simulators, unmanned surface vessels and data platforms, with 30 specialists from the meteorology institute, the disaster management institute, the cartography and remote-sensing centre, the roads administration and the water directorate certified in July](https://www.afdb.org/en/success-stories/eyes-above-ricatla-how-african-development-bank-korea-partnership-helped-mozambiques-flood-zone-achieve-zero-fatalities-96237). The cohort was deployed half-trained into the January 2026 Marracuene floods, which the district recorded with no loss of life. The account is the financing bank's own, and it states no running cost, custodian institution or arrangement for sharing the mapping output.
 <!-- /narrative -->
 
 ## Governance and regulation

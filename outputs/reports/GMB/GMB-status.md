@@ -1,15 +1,15 @@
 ---
 title: Gambia — digital transformation and data governance status report
-compiled: 2026-08-23
+compiled: 2026-08-24
 place: GMB
 ledger_rows: 67
 not_held: 13
-record: 732acccd54e2
+record: 54803802debc
 ---
 
 # Gambia: status report
 
-*Compiled 2026-08-23 from the Data Landscapers source base, from `outputs/reports/GMB/ledger.csv` (67 systems and instruments, 13 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-24 from the Data Landscapers source base, from `outputs/reports/GMB/ledger.csv` (67 systems and instruments, 13 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -164,7 +164,7 @@ Statistics are the most complete system in the stack. The [fifth labour force su
 | System or instrument | Status | Milestone |
 |---|---|---|
 | Access to Information Act | [Implemented, largely unimplemented in practice](https://www.voicegambia.com/gpu-says-access-to-information-law-yet-to-be-fully-implemented/) | Press union reported implementation ineffective 2026-08-07 |
-| Broadcasting and online content regulatory framework | [In development](https://www.voicegambia.com/le-ministre-de-linformation-exhorte-les-medias-a-proteger-les-enfants-vulnerables-dans-leurs-reportages/) | Child-protection provisions set out by the information minister 2026-08-16 |
+| Broadcasting and Online Content Regulations, 2026 | [In development](https://pura.gm/wp-content/uploads/2026/04/Broadcasting-and-Online-Content-Regulations-2026-.pdf) | Draft issued for public consultation 2026-04-02; child-protection provisions set out by the information minister 2026-08-16 |
 | Communications Bill 2025 | [In development](https://standard.gm/lawmakers-back-bill-to-protect-personal-data-in-digital-age/) | Sitting with National Assembly committees after second reading on 2 March 2026 |
 | State Intelligence Service Bill | [In development](https://thepoint.gm/africa/gambia/headlines/sis-validates-bill-to-reposition-as-robust-futuristic-intelligence-service) | Draft validated at a stakeholder workshop, 31 July 2026 |
 

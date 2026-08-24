@@ -1,15 +1,15 @@
 ---
 title: Botswana — digital transformation and data governance status report
-compiled: 2026-08-23
+compiled: 2026-08-24
 place: BWA
-ledger_rows: 96
+ledger_rows: 97
 not_held: 11
-record: 798c57e94b68
+record: b0a28ce6dea2
 ---
 
 # Botswana: status report
 
-*Compiled 2026-08-23 from the Data Landscapers source base, from `outputs/reports/BWA/ledger.csv` (96 systems and instruments, 11 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-24 from the Data Landscapers source base, from `outputs/reports/BWA/ledger.csv` (97 systems and instruments, 11 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -232,6 +232,12 @@ The [Remote Service VAT Act took effect on 1 June 2026, charging 14% on non-resi
 |---|---|---|
 | Judicial capability on AI and digital evidence | [Planned](https://www.mmegi.bw/news/judges-courts-must-embrace-ai-driven-cases-cj/news) | The Chief Justice stated the Judiciary had resolved to train judges in AI and emerging technologies |
 | National AI policy or strategy | ***Not held*** | — |
+
+### ICT Industry
+
+| System or instrument | Status | Milestone |
+|---|---|---|
+| BoFiNet, the state wholesale network operator | [Implemented](https://www.bofinet.co.bw/uploads/571/01M07F2TQ2HE6M06GD31SSDFZG.pdf) | First integrated report, for the year ended 31 March 2025, presented at the annual general meeting 2026-08-13 |
 
 ### US / hyperscaler activities
 

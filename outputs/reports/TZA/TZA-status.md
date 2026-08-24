@@ -1,12 +1,12 @@
 ---
 title: Tanzania — digital transformation and data governance status report
-compiled: 2026-08-23
+compiled: 2026-08-24
 place: TZA
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 12
-sources_cited: 173
+sources_cited: 174
 sections_written: 37
 not_established: 0
 acquire_lines: 45
@@ -148,7 +148,7 @@ Reach beyond the internet is being built deliberately. [NIDA runs a free SMS sho
 ### Legislation and regulation
 <!-- gov.legislate -->
 
-Tanzania made electronic payment compulsory across most of its consumer economy on 1 July 2026, [by ministerial order rather than by regulations](https://fbattorneys.co.tz/wp-content/uploads/2026/07/1784910470319-1.pdf) — Government Notice No. 158C, signed at Dodoma by the Minister for Finance under section 13(2) of the [Electronic Transactions Act, Cap. 442](https://www.mof.go.tz/uploads/documents/en-1676545044-THE%20ELECTRONIC%20TRANSACTIONS%20ACT,%20CAP%20442%20R.E.%202022.pdf). Its Schedule lists nine classes of transaction: transport fares, tolls and parking; malls, gyms, cinemas, filling stations and event venues; school fees from pre-primary to university; hotels and restaurants; tourism; sales of buildings, plots, farms and motor vehicles; and cooperative and AMCOS payments for the strategic crops. [The duty binds the payee as well as the payer](https://fbattorneys.co.tz/wp-content/uploads/2026/07/1784910470319-1.pdf), and electronic means is defined technology-neutrally, from mobile money and cards to the government payment system.
+Tanzania made electronic payment compulsory across most of its consumer economy on 1 July 2026, [by ministerial order rather than by regulations](https://fbattorneys.co.tz/wp-content/uploads/2026/07/1784910470319-1.pdf) — Government Notice No. 158C, signed at Dodoma by the Minister for Finance under section 13(2) of the [Electronic Transactions Act, Cap. 442](https://www.mof.go.tz/uploads/documents/en-1676545044-THE%20ELECTRONIC%20TRANSACTIONS%20ACT,%20CAP%20442%20R.E.%202022.pdf). Its Schedule lists nine classes of transaction: transport fares, tolls and parking; malls, gyms, cinemas, filling stations and event venues; school fees from pre-primary to university; hotels and restaurants; tourism; sales of buildings, plots, farms and motor vehicles; and cooperative and AMCOS payments for the strategic crops. [The duty binds the payee as well as the payer](https://fbattorneys.co.tz/wp-content/uploads/2026/07/1784910470319-1.pdf), and electronic means is defined technology-neutrally, from mobile money and cards to the government payment system. The power to make that order was created the same day: [the Finance Act, 2026 amended section 13 of the Electronic Transactions Act to let the Minister for Finance prescribe by Gazette order which payments must be made electronically, and separately made proof of electronic payment a condition of approving any transfer of land, a building or a motor vehicle](https://oagmis.oag.go.tz/portal/acts/337/download) — an obligation on the registry rather than on the parties, and one the order's Schedule does not carry.
 
 Two limits sit inside the Order. A business that was taking cash when it commenced has six months, to 1 January 2027, to put electronic means in place, and [it does not affect arrangements or contracts made before it came into force](https://fbattorneys.co.tz/wp-content/uploads/2026/07/1784910470319-1.pdf). It is silent on [who bears the transaction charge](https://dailynews.co.tz/cashless-shift-poised-to-transform-economy/), and [cash remains legal tender](https://www.thecitizen.co.tz/tanzania/business/tanzania-steps-up-cash-lite-drive-as-digital-payments-hit-new-highs-5541316): the mandate falls on the transaction, not on the currency.
 

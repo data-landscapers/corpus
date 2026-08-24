@@ -1,12 +1,12 @@
 ---
 title: Ethiopia — digital transformation and data governance status report
-compiled: 2026-08-21
+compiled: 2026-08-24
 place: ETH
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 8
-sources_cited: 153
+sources_cited: 155
 sections_written: 37
 not_established: 1
 acquire_lines: 67
@@ -120,7 +120,7 @@ Education is barely digitised at the point of service. [Rural primary schools st
 
 [MESOB's founding director general conceded in July 2026 that the one-stop platform remains intertwined with decades-old institutional systems built to no defined standard](https://birrmetrics.com/mesob-meets-the-monster-it-was-built-to-kill/), and [regional officials told federal management that services are being onboarded before the underlying institutional systems have been digitised, the platform's Addis deputy director naming that premature integration the year's main obstacle](https://birrmetrics.com/mesob-meets-the-monster-it-was-built-to-kill/). [Its three-year plan launched on 24 July 2026 puts institutional capacity first rather than extending the platform's reach](https://birrmetrics.com/mesob-meets-the-monster-it-was-built-to-kill/), against [staff losses to better-paying institutions that management has not resolved](https://birrmetrics.com/mesob-meets-the-monster-it-was-built-to-kill/).
 
-What the platform actually offers is narrower than the ambition. [MESOB brings 41 services from 12 federal agencies behind a single front door with Fayda as the authentication layer](https://mosip.io/news/how-fayda-powers-ethiopia-mesob) (July 2025), [including passport, business registration, tax and investment services and a MESOB Bridge API gateway for cross-agency data sharing](https://www.biometricupdate.com/202507/ethiopias-mesob-platform-facilitating-access-to-digital-govt-services), with [driving licence applications among the live services and licence registration integrated with Fayda authentication](https://documents1.worldbank.org/curated/en/099040725180520454/pdf/P179040-8ca592cd-4db0-4949-81ed-724c1a1f19e9.pdf) (2025).
+What the platform actually offers is narrower than the ambition, and how much narrower depends on which government figure is read. The platform's own public catalogue [lists 180+ services from 23 named provider organisations, each with its required documents, processing time and fees](https://mesobcenter.et/) (August 2026), against [2,260 services claimed as integrated into a single platform in a government communication of 20 April 2026](https://www.gcs.gov.et/en/2026/04/20/key-achievements-in-the-world-defining-digital-sector-reform/) — a figure that predates the 185 stated at the June 2026 launch rather than superseding it, so the two counts run concurrently on bases neither states. Behind the front door sits [Fayda as the authentication layer](https://mosip.io/news/how-fayda-powers-ethiopia-mesob), [passport, business registration, tax and investment services and a MESOB Bridge API gateway for cross-agency data sharing](https://www.biometricupdate.com/202507/ethiopias-mesob-platform-facilitating-access-to-digital-govt-services), and [driving licence applications with licence registration integrated with Fayda authentication](https://documents1.worldbank.org/curated/en/099040725180520454/pdf/P179040-8ca592cd-4db0-4949-81ed-724c1a1f19e9.pdf) (2025).
 
 Elsewhere in the estate, delivery is real but uneven. [The national service portal is transactional at level 3 or 4, meaning services can be applied for and completed online end to end, and a public jobs portal and an e-procurement system covering open tendering and contract management are in use, while the social protection portal is still being implemented](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). [The Auditor General attributed a decline in cash shortages across federal institutions largely to the e-procurement system, saying it has strengthened procurement oversight and budget administration](https://www.ofag.gov.et/ofag/the-office-of-the-federal-auditor-general-presents-its-annual-audit-report-to-the-house-of-peoples-representatives/) (July 2026). [The Federal Supreme Court has run electronic filing and virtual hearings since October 2025, with litigants authenticating by national ID number and an integrated case management system covering 24 federal branches](https://www.thereporterethiopia.com/47015/), and [an unmanned "smart police station" staffed by AI kiosks opened in March 2026](https://www.ena.et/web/eng/smart-police-station). Against all of it, [Ethiopia scored 0.3111 on the UN E-Government Development Index, 169th of 193 member states](https://publicadministration.un.org/egovkb/en-us/Data/Compare-Countries) (2024).
 

@@ -1,12 +1,12 @@
 ---
 title: Somalia — digital transformation and data governance status report
-compiled: 2026-08-21
+compiled: 2026-08-24
 place: SOM
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-23
 intersections_read: 7
-sources_cited: 129
+sources_cited: 130
 sections_written: 37
 not_established: 4
 acquire_lines: 45
@@ -159,7 +159,7 @@ The governing capacity these plans sit on is weak and slowly improving. Somalia 
 ### Regional collaboration
 <!-- gov.regional -->
 
-[Regional rules on cross-border data flows and personal data protection were approved at East African Community official level on 24 July 2026](https://newsaf.cgtn.com/news/2026-07-25/East-African-Community-pushes-for-a-single-digital-market-1P2UgLoWEPS/p.html) and must still clear the Community's decision-making organs before any partner state, Somalia among them, adopts them; no adoption date has been published. Somalia is inside that process as a [full EAC member since March 2024, one of the bloc's eight partner states](https://itweb.africa/article/eac-moves-to-create-unified-ai-sovereignty-bloc/).
+[Regional rules on cross-border data flows and personal data protection were approved at East African Community official level on 24 July 2026](https://newsaf.cgtn.com/news/2026-07-25/East-African-Community-pushes-for-a-single-digital-market-1P2UgLoWEPS/p.html) and must still clear the Community's decision-making organs before any partner state, Somalia among them, adopts them; no adoption date has been published. Somalia is inside that process as a [full EAC member since March 2024, one of the bloc's eight partner states](https://itweb.africa/article/eac-moves-to-create-unified-ai-sovereignty-bloc/). The continental tier is being joined on a schedule of its own: the AfCFTA Secretariat closed a visit to Mogadishu in August 2026 having agreed that [Somalia will become the 50th state party on depositing its instrument of ratification in September 2026, on a sequence running from ratification through domesticating the electronic tariff book and configuring preferential tariffs in the customs administration to completing outstanding EAC tariff and services commitments and a first shipment](https://au-afcfta.org/2026/08/from-ratification-to-the-first-shipment-the-afcfta-secretary-general-in-mogadishu/), with the continental payment system and the AfCFTA Adjustment Fund named as the instruments available and the national chamber of commerce asking for access to services markets including telecommunications, logistics, finance and digital commerce.
 
 The monetary track is slower. The [29th Ordinary Meeting of the EAC Monetary Affairs Committee held the single-currency target at 2031 while recording that no partner state has attained all four primary macroeconomic convergence criteria](https://www.eac.int/documents?controller=download&task=download.file&file=84a90aa8-df68-461c-9541-d0e124507d2f&name=29th%20EAC%20MAC%20Communique.pdf.pdf) (July 2026), and the central bank's [membership of the Pan-African Payment and Settlement System is signed but not yet live](https://sba.so/somalia-joins-the-pan-african-payment-and-settlement-system-papss/). Somalia [signed ratification of the African Continental Free Trade Area in early August 2026](https://www.hiiraan.com/op4/2026/Aug/205876/frommarket_access_to_measurable_gains_somalias_trade_delivery_agenda.aspx), the commitment its trade-facilitation systems are being built to serve, and it belongs to [COMESA, CEN-SAD and IGAD, scoring 38.5 out of 100 on regional integration in 2023, 35th of 54 and up 7.6 points over the decade](https://assets.iiag.online/2024/profiles/2024-IIAG-profile-so.pdf).
 

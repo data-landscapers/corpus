@@ -1,12 +1,12 @@
 ---
 title: Mozambique — digital transformation and data governance status report
-compiled: 2026-08-21
+compiled: 2026-08-24
 place: MOZ
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-28
 intersections_read: 8
-sources_cited: 152
+sources_cited: 153
 sections_written: 37
 not_established: 2
 acquire_lines: 48
@@ -357,7 +357,7 @@ What stays unpublished is more often the instrument than the statistic. The [rul
 ### Use of satellite data
 <!-- data.satellite -->
 
-Mozambique's most substantial use of satellite capacity is a communications one: SpaceX donated Starlink terminals that [INCM deployed at accommodation and coordination centres in flood-affected areas](https://clubofmozambique.com/news/starlink-vodacom-bring-hope-to-flood-hit-mozambique/) in February 2026, giving emergency low-earth-orbit connectivity where the terrestrial network had gone. No national space or geospatial data policy had been adopted as at August 2026.
+Mozambique now holds a standing aerial mapping capability of its own. A development-bank and Korean-financed programme left [nine LiDAR-equipped drone systems, simulators, unmanned surface vessels and data platforms, and certified 30 specialists in July 2026 from the meteorology institute, the disaster management institute, the cartography and remote-sensing centre, the roads administration and the water directorate](https://www.afdb.org/en/success-stories/eyes-above-ricatla-how-african-development-bank-korea-partnership-helped-mozambiques-flood-zone-achieve-zero-fatalities-96237); the cohort was deployed half-trained into the January 2026 Marracuene floods, which the district recorded with no loss of life. That account is the financing bank's own, and it names no custodian institution, running cost or arrangement for sharing the mapping output. The other use of satellite capacity is a communications one: SpaceX donated Starlink terminals that [INCM deployed at accommodation and coordination centres in flood-affected areas](https://clubofmozambique.com/news/starlink-vodacom-bring-hope-to-flood-hit-mozambique/) in February 2026, giving emergency low-earth-orbit connectivity where the terrestrial network had gone. No national space or geospatial data policy had been adopted as at August 2026.
 
 ## Finance
 
