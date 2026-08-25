@@ -197,7 +197,7 @@ def select(run_date: date) -> tuple[list[dict], list[dict]]:
     the remit turned away, so a day when it turns away a great deal is visible on the run."""
     start, end = window(run_date)
     rows, excluded = [], []
-    with CATALOGUE.open(encoding="utf-8", newline="") as fh:
+    with CATALOGUE.open(encoding="utf-8-sig", newline="") as fh:
         for row in csv.DictReader(fh):
             if row["published"].strip() not in (start, end):
                 continue
@@ -242,7 +242,7 @@ def prune(store: dict, run_date: date) -> dict:
 
 def write_summary(slug: str, text: str, run_date: date) -> int:
     published = ""
-    with CATALOGUE.open(encoding="utf-8", newline="") as fh:
+    with CATALOGUE.open(encoding="utf-8-sig", newline="") as fh:
         for row in csv.DictReader(fh):
             if row["slug"] == slug:
                 published = row["published"].strip()

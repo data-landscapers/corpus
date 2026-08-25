@@ -478,15 +478,20 @@ SCRIPT = r"""
     return /[",\r\n]/.test(v) ? '"' + v.replace(/"/g, '""') + '"' : v;
   }
   function toCSV(items){
-    // CRLF and no BOM, because that is what the published file has. RENDER.md ->
-    // *The finance tables* is the standing warning about the two disagreeing.
+    // CRLF and a BOM, because that is what the published file has. RENDER.md ->
+    // *The finance tables* is the standing warning about the two disagreeing, and
+    // `test_catalogue_export.py` compares these bytes to `raw-catalogue.csv`.
+    // The BOM arrived on 2026-08-25: without it Excel on Windows reads the file in
+    // the ANSI codepage, and a cut of a catalogue whose titles are largely French,
+    // Portuguese and Arabic comes out mangled. `build-catalogue.py` -> `CSV_PATH`
+    // carries the reasoning.
     var out = [CSVCOLS.join(',')], i, c, row;
     for (i = 0; i < items.length; i++){
       row = [];
       for (c = 0; c < CSVCOLS.length; c++) row.push(csvCell(items[i][CSVCOLS[c]]));
       out.push(row.join(','));
     }
-    return out.join('\r\n') + '\r\n';
+    return '\ufeff' + out.join('\r\n') + '\r\n';
   }
 
   function selectionMeta(n, built){

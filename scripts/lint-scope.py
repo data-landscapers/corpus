@@ -65,7 +65,7 @@ CATALOGUE = ROOT / "outputs" / "catalogue" / "raw-catalogue.csv"
 
 def classify(since: str | None) -> dict[str, list[dict]]:
     buckets: dict[str, list[dict]] = {"in": [], "unverified": [], "unaccounted": []}
-    with io.open(CATALOGUE, encoding="utf-8", newline="") as fh:
+    with io.open(CATALOGUE, encoding="utf-8-sig", newline="") as fh:
         for row in csv.DictReader(fh):
             if since and (row.get("ingested") or "").strip() < since:
                 continue

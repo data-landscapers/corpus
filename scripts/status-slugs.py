@@ -28,7 +28,7 @@ FIELDS = ("slug", "title", "publisher", "published", "url", "places", "topics")
 
 def catalogue():
     out = {}
-    with open(S.CATALOGUE_CSV, encoding="utf-8", newline="") as fh:
+    with open(S.CATALOGUE_CSV, encoding="utf-8-sig", newline="") as fh:
         for row in csv.DictReader(fh):
             out[row["slug"]] = {k: row.get(k, "") for k in FIELDS}
     return out

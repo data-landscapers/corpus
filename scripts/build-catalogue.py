@@ -152,7 +152,20 @@ def write(rows, meta, stamp):
             fh.write(json.dumps(item, ensure_ascii=False, sort_keys=True))
             fh.write(",\n" if n < len(rows) - 1 else "\n")
         fh.write(" ]\n}\n")
-    with open(CSV_PATH, "w", encoding="utf-8", newline="") as fh:
+    # `utf-8-sig` — a BOM, like every other CSV the site publishes *(2026-08-25)*. This
+    # file is 26,000 non-ASCII characters of French, Portuguese and Arabic titles, and
+    # Excel on Windows opens a BOM-less CSV in the ANSI codepage: `Republica` arrives as
+    # `RepÃºblica` on the biggest download on the site while the finance CSVs beside it
+    # open clean, because those have carried a BOM since they were written. Nothing was
+    # wrong upstream — `lint-mojibake.py` is clean over inputs and derived alike — so the
+    # fault was Excel guessing, and the BOM is how a file stops it guessing.
+    #
+    # The reader's filtered cut must carry one too, or it opens worse than the whole file
+    # it was cut from. `catalogue.py` -> `toCSV` prepends it and
+    # `test_catalogue_export.py` compares the bytes, so the two cannot drift apart in
+    # silence. Every Python reader of this file already opens it `utf-8-sig`, which reads
+    # both forms; `bulletin.py` and `lint-scope.py` were the two that did not and now do.
+    with open(CSV_PATH, "w", encoding="utf-8-sig", newline="") as fh:
         w = csv.DictWriter(fh, fieldnames=CSV_COLS, extrasaction="ignore")
         w.writeheader()
         for r in rows:
