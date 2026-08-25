@@ -1,20 +1,20 @@
 ---
-title: Senegal — progress report, 2025-08-01 to 2026-08-24
-compiled: 2026-08-24
-period: 2025-08-01 to 2026-08-24
+title: Senegal — progress report, 2025-08-01 to 2026-08-25
+compiled: 2026-08-25
+period: 2025-08-01 to 2026-08-25
 place: SEN
 ledger_rows: 114
 not_held: 14
-record: e1f508a84c7d
+record: 5937dd5f593e
 ---
 
-# Senegal: progress report, 2025-08-01 to 2026-08-24
+# Senegal: progress report, 2025-08-01 to 2026-08-25
 
-*Compiled 2026-08-24 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
+*Compiled 2026-08-25 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
 
-*Of 114 systems and instruments on this place's ledger, 61 changed position between 2025-08-01 and 2026-08-24, 18 did not, 21 carry no stated baseline, and 14 are ***Not held*** at both ends.*
+*Of 114 systems and instruments on this place's ledger, 61 changed position between 2025-08-01 and 2026-08-25, 18 did not, 21 carry no stated baseline, and 14 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 182 sources for this place in the window — 27 in the earlier half (2025-08 to 2026-01), 155 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+*Shape check, run before the comparison: 183 sources for this place in the window — 27 in the earlier half (2025-08 to 2026-01), 156 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -32,7 +32,7 @@ The money moved on paper. The digital-sector appropriation went from [FCFA 16.1b
 
 ### Connectivity
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | 2Africa cable landing station | Landing station built, not in service | [In service: sixteen fibre pairs, 180 Tbps, carrier-neutral open access](https://techafricanews.com/2026/02/23/sonatel-commissions-2africa-submarine-cable-africas-largest-connectivity-project/) | Advanced |
 | EBRD network facility | Did not exist: the bank held no Senegal investment | [A senior facility of up to EUR 270m, EUR 170m committed and EUR 100m uncommitted, for 4G, 5G and accelerated fibre in Senegal and Kenya](https://techtrendske.co.ke/2026/07/13/ebrd-extends-e270m-financing-to-yas-for-kenya-senegal-network-expansion/) | Advanced |
@@ -48,7 +48,7 @@ The money moved on paper. The digital-sector appropriation went from [FCFA 16.1b
 
 ### Data Storage
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Cloud residency zones in operator data centres | Operating: data-residency zones inside in-country operator data centres | [Operating; no expansion, region upgrade or usage figure reported](https://www.mobileeurope.co.uk/orange-and-aws-partner-to-deliver-cloud-services-in-morocco-and-senegal/) | No change |
 | Diamniadio national data centre | In operation, with a server-localisation requirement in force | [In operation; no capacity, utilisation or migration-completion figure held](https://africachinainitiative.georgetown.edu/research-working-group/blog-posts/huawei-helping-or-hindering-african-countries-secure-their-data-sovereignty-2/) | No change |
@@ -58,13 +58,13 @@ The money moved on paper. The digital-sector appropriation went from [FCFA 16.1b
 
 ### Technical Capacity
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Data centres operating in Senegal | ***Baseline not held*** | [Seven at mid-2025, level with Ghana, against South Africa's 56, Kenya's 19 and Nigeria's 17](https://www.seneweb.com/fr/news/16/du-gabon-au-senegal-comment-lafrique-accelere-sur-les-data-centers-pour-ne-plus-brader-ses-donnees_n_500226.html) | ***Baseline not held*** |
 
 ### Cybersecurity
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Procurement route for critical-infrastructure cybersecurity | Did not exist | [Three routes floated — a three-year standing supplier arrangement, functional rather than technical specifications, and pooled purchasing — with the digital economy ministry reported to have signed a memorandum with a United States cybersecurity firm that is seeking Senegalese partners; no timetable, contract value or affected system established](https://www.digitalbusiness.africa/cooperation-la-societe-americaine-de-cybersecurite-cybastion-recherche-des-partenaires-senegalais/) | Advanced |
 | Recorded cybercrime offences | 3,902 offences recorded (2024) | [3,794 offences recorded (2025)](https://www.agenceecofin.com/actualites-numerique/1708-140914-senegal-vers-la-mise-en-place-d-une-autorite-nationale-de-cybersecurite) | Advanced, marginal |
@@ -85,7 +85,7 @@ The one position that regressed is the breach count, against an index score unch
 
 ### Data Exchange
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Digital agency and health-cover platform interconnection | Did not exist | [The convention signed, with training of service-point managers, joint communication and a monitoring mechanism committed](https://www.seneweb.com/fr/news/Video/sante-et-numerique-senum-sa-et-la-sen-csu-sunissent-pour-faciliter-lacces-a-la-couverture-maladie_n_499241.html) | Advanced |
 | Government enterprise architecture | Did not exist | [A framework being built across policies, processes, data, applications and infrastructure; the diagnostic phase's interim results have been presented, a target architecture proposed, and the inventory of state information systems launched](https://www.biometricupdate.com/202608/senegal-seeks-to-fully-align-sovereignty-vision-with-dpi-strategy) | Advanced |
@@ -96,7 +96,7 @@ The one position that regressed is the breach count, against an index score unch
 
 ### Digital Identity and CRVS
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Civil-registration modernisation programme | Running, with two implementing agencies and the national agency as counterpart | [Closed on completion; outputs include 26 modern centres, 400 centres interconnected, 1,200 computers, a validated bill and a national civil-status strategy costed at FCFA 68bn](https://aps.sn/le-programme-nekkal-a-permis-dimportantes-avancees-dans-la-modernisation-de-letat-civil-selon-un-responsable/) | Closed |
 | Civil-status software deployment across centres | 235 of about 400 centres connected and operational, 383 installed (2025-08) | [74% of civil-status centres fully deployed, up from 70% reported five days earlier, with the citizen-facing request service live in 189 communes; the agency launched phase four of its remediation plan on 10 August 2026, extending to Kaffrine and Tambacounda](https://aps.sn/la-modernisation-de-letat-civil-une-veritable-politique-publique-et-strategique-selon-le-directeur-general-de-lanec/) | Advanced |
@@ -106,7 +106,7 @@ The one position that regressed is the breach count, against an index score unch
 
 ### Digital Payments and Fintech
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Digital payment share on the Dakar rapid-transit network | 10% of payments digital, the prior figure undated in the source | [39% of payments digital (2026-07)](https://www.wearetech.africa/en/fils-uk/news/tech/senegal-sonatel-connects-max-it-app-to-dakar-bus-rapid-transit-network) | Advanced |
 | Share of regional mobile-money transaction volume | 22.7% of union transaction volume (2023) | [24.1% of union volume, the largest share, and 30.2% of transaction value, with the union's highest volume growth](https://www.bceao.int/sites/default/files/2026-03/Rapport%20annuel%20sur%20les%20services%20financiers%20num%C3%A9riques%20dans%20l%27UEMOA%20-%202024.pdf) | Advanced |
@@ -114,7 +114,7 @@ The one position that regressed is the breach count, against an index score unch
 
 ### Registries (population, land, address, etc.)
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Audit of civil registration in 74 communes | Did not exist | [The mission live across 74 communes, 59 already audited and their findings re-examined, fifteen selected on risk analysis for document and field checks](https://www.seneweb.com/fr/news/Societe/gestion-de-letat-civil-74-communes-du-senegal-dans-le-viseur-de-la-cour-des-comptes_n_499794.html) | Advanced |
 | Biometric audit of the public-service headcount | Did not exist | [More than 35 auditor teams deployed nationally with ten more to be added; the object is a reliable payroll database for wage-bill control](https://lesoleil.sn/actualites/societe-fait-divers/audit-agents-fonction-publique-le-ministre-diante-visite-les-centres-denrolement-de-rufisque-et-thies/) | Advanced |
@@ -128,14 +128,14 @@ The one position that regressed is the breach count, against an index score unch
 
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Mortality and cause-of-death analysis tool | Did not exist | [Training delivered; the tool assesses mortality data coded to international classifications and disaggregates by age, sex, territory and cause](https://lesoleil.sn/actualites/sante/renforcement-informations-sanitaires-anacod3-lance-afin-dameliorer-la-qualite-des-donnees-de-mortalite/) | Advanced |
 | Digital-health bill | ***Baseline not held*** | [Unadopted; status, sponsor and text not stated](https://lesoleil.sn/actualites/sante/coeur-rose-de-diourbel-plaide-ladoption-de-la-loi-sur-la-sante-digitale/) | ***Baseline not held*** |
 
 ### Other GovTech and e-Gov
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Citizen single window | Did not exist | [Operational for passport applications, business creation, police-clearance and nationality certificates, with online tracking](https://www.biometricupdate.com/202603/senegal-launches-digital-government-portal-to-ease-access-to-public-services) | Advanced |
 | Digital fiscal stamp | Did not exist | [The sole recognised channel nationwide, with QR-coded stamps bought and received remotely and a second access route through a super-app](https://www.wearetech.africa/fr/fils/actualites/tech/le-senegal-supprime-le-timbre-fiscal-physique-au-profit-dune-version-numerique) | Advanced |
@@ -146,7 +146,7 @@ The one position that regressed is the breach count, against an index score unch
 
 ### National statistics
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Inclusive-data initiative second phase | Did not exist | [The second phase opened, widening from three countries to five](https://www.data4sdgs.org/news/five-countries-one-shared-push-make-inclusive-data-norm) | Advanced |
 
@@ -164,7 +164,7 @@ The fiscal stamp shows both ends of the same move: the digital stamp went from n
 
 ### Legislation and regulation
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Critical information infrastructure bill | Did not exist | [Debated in plenary, with deputies pressing government on the offshore hosting of citizens' personal data — one objecting that records as sensitive as blood groups are entrusted to foreign firms and that national identity cards are managed by foreigners, another warning of the risk a cyberattack would pose to continuity of care — and the telecommunications minister arguing that protecting the digital estate is a duty of the state rather than an option](https://aps.sn/lhebergement-des-donnees-personnelles-au-coeur-de-la-pleniere-sur-la-securite-numerique-au-senegal/) | Advanced |
 | Critical-infrastructure protection legal framework | None held | [Law n° 25/2026 on the protection of critical information infrastructure and digital security was adopted unanimously by the National Assembly on 2026-08-20, seven days after reaching its intercommission. On the ministry's account it grades obligations by risk - ordinary networks and systems on standard requirements, critical infrastructure on enhanced ones covering monitoring, data backup, encryption of sensitive information, business continuity and disaster recovery, and regular resilience testing - establishes a National Cybersecurity Authority, a national computer emergency response team, sectoral teams and cybersecurity operations services, mandates in-country storage of state-sensitive data, and folds in technology-neutral standards for the AI era and the child-online-protection plan PAPEL. No promulgation date, gazette reference or text is published](https://www.seneweb.com/fr/news/Politique/securite-numerique-lassemblee-nationale-adopte-a-lunanimite-le-projet-de-loi-sur-les-infrastructures-critiques_n_501981.html) | Advanced |
@@ -174,7 +174,7 @@ The fiscal stamp shows both ends of the same move: the digital stamp went from n
 
 ### Strategies, plans and policies
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Blueprint for value creation through data | Did not exist | [Under development, with working groups naming health, agriculture, transport, education, taxation, territorial administration, security and public services, and a secure inter-administration data-sharing governance framework planned](https://www.wearetech.africa/en/fils-uk/news/tech/senegal-elevates-data-and-ai-as-core-pillars-of-public-governance-reform) | Advanced |
 | Digital governance steering committee | Did not exist | [Created but not yet running; named as the body overseeing all digital-transformation initiatives](https://www.biometricupdate.com/202608/senegal-seeks-to-fully-align-sovereignty-vision-with-dpi-strategy) | Advanced |
@@ -186,20 +186,20 @@ The fiscal stamp shows both ends of the same move: the digital stamp went from n
 
 ### Regional collaboration
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | ECOWAS regional statistical methodological guides | Did not exist | [Three guides adopted, for the industrial production index, the statistical business register and public-debt statistics; two further guides returned for finalisation](https://www.ecowas.int/ecowas-concludes-meeting-of-directors-general-of-national-statistical-institutes-by-adopting-new-guidelines-for-regional-statistical-harmonization/) | Advanced |
 | Founding membership of a global AI cooperation body | Did not exist | [One of 29 founding states of an intergovernmental AI-governance body](https://www.seneweb.com/fr/news/Technologie/intelligence-artificielle-le-senegal-parmi-les-29-etats-fondateurs-de-la-waico_n_498704.html) | Advanced |
 
 ### Standards
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Francophone West African AI governance guidelines | Did not exist | [A common reference framework recommending transparent systems, stronger data protection, skills, bias mitigation, local innovation and digital sovereignty; it complements rather than replaces national strategies](https://www.wearetech.africa/en/fils-uk/news/tech/six-francophone-west-african-countries-unite-on-ai-governance-framework) | Advanced |
 
 ### Data protection
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Bill revising the personal data law | Reform reported as in the circuit, awaiting a parliamentary vote, with no text and no timetable | [The bill and implementing decree in a finalisation workshop, rewritten against the data and AI strategies; still no adoption date or published text](https://lequotidien.sn/mbour-gouvernance-des-donnees-et-intelligence-artificielle-vers-un-nouveau-dispositif-normatif/) | Advanced |
 | Cooperation convention with Benin's protection authority | Did not exist | [In force on five pillars: technical and legal capacity, shared regulatory practice, user awareness, cross-border data-flow cooperation and a concerted African position](https://lanation.bj/numerique/protection-des-donnees-personnelles-le-benin-et-le-senegal-scellent-une-alliance-strategique-a-cotonou) | Advanced |
@@ -207,7 +207,7 @@ The fiscal stamp shows both ends of the same move: the digital stamp went from n
 
 ### Public debate and participation in policymaking
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Social-media regulation workstream | ***Baseline not held*** | [Under way since 2024; no bill, decree or timetable named, and an observatory is a proposal](https://lesoleil.sn/actualites/technologie/reseaux-sociaux-et-intelligence-artificielle-luniversite-cheikh-ahmadoul-khadim-ucak-au-chevet-des-defis-communautaires-lies-au-numerique/) | ***Baseline not held*** |
 
@@ -223,7 +223,7 @@ Two instruments narrowed and widened disclosure in the same window. [Décret n°
 
 ### AI
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Wolof and French AI tutor by phone call | Did not exist | [A tutor reachable by ordinary phone call with no internet, curriculum written by teachers and validated by school inspectors, hosted on servers in Senegal](https://aps.sn/allo-goor-gi-une-ia-avec-des-contenues-pedagogiques-certifies/) | Advanced |
 | National AI ethics committee | ***Baseline not held*** | [Planned; no statute, membership, chair or date](https://www.seneweb.com/fr/news/Technologie/intelligence-artificielle-en-afrique-le-senegal-encore-a-la-traine_n_499460.html) | ***Baseline not held*** |
@@ -231,21 +231,21 @@ Two instruments narrowed and widened disclosure in the same window. [Décret n°
 
 ### Innovation ecosystem
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Corporate mobility platform | Did not exist | [A centralised platform for companies to manage employee travel, set spending limits, automate billing and track rides in real time](https://www.wearetech.africa/en/fils-uk/brief/brief-simple/senegal-yango-expands-into-corporate-mobility) | Advanced |
 | Max it super-app on the Dakar rapid-transit network | Ticketing available through the operator's money service since commercial launch in May 2024, with the super-app not integrated | [An agreement signed for progressive integration of ticketing, subscription top-ups and further services, with transport-card top-ups, bank financing, station Wi-Fi and passenger-flow analytics planned](https://www.wearetech.africa/en/fils-uk/news/tech/senegal-sonatel-connects-max-it-app-to-dakar-bus-rapid-transit-network) | Advanced |
 
 ### US / hyperscaler activities
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | United States bilateral digital cooperation | Not held | [Under exploration: the ICT minister met a US Embassy delegation on 17 August 2026 to discuss deeper cooperation on cybersecurity, artificial intelligence, connectivity and the digital economy, tied to the New Deal Technologique priorities](https://techreviewafrica.com/news/6786/senegal-us-explore-deeper-cooperation-in-cybersecurity-ai-and-digital-economy) | ***Baseline not held*** |
 | United States development-finance talks | ***Baseline not held*** | [Discussions scoped to financing mechanisms for digital infrastructure, data centres, connectivity, digital identity and payment systems, plus sovereignty, cybersecurity and AI; no financier, amount, instrument or signing reported](https://www.rts.sn/actualite/detail/a-la-une/new-deal-technologique-le-senegal-renforce-ses-partenariats-strategiques-a-washington) | ***Baseline not held*** |
 
 ### China activities
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Strategic partnership with Huawei | An agreement signed covering data-centre modernisation, an equipment assembly plant on Senegalese territory, and high-level training | [Unchanged; no site, cost, timetable, groundbreaking or training cohort reported since](https://lesoleil.sn/actualites/technologie/senegal-huawei-un-accord-strategique-pour-accelerer-la-souverainete-numerique/) | No change |
 | Sovereign cloud built with Alibaba | ***Baseline not held*** | [Data-centre infrastructure deployed and tested for redundancy and reliability, to host sensitive national data on Senegalese territory, accelerated ahead of an international sporting event](https://africabusinessinsight.com/senegal-partners-alibaba-to-build/) | ***Baseline not held*** |
@@ -260,27 +260,27 @@ The largest technology relationship moved from nothing on file to [infrastructur
 
 ### Digital divides
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Population without connectivity | Baseline not held | [40% of the population still without access to connectivity, on the minister's statement to parliament (2026-08)](https://www.seneweb.com/fr/news/Technologie/fracture-numerique-40-des-senegalais-toujours-sans-acces-a-la-connectivite_n_501971.html) | ***Baseline not held*** |
 
 ### Access to services
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Un étudiant, un ordinateur student-computer programme | Running since 2017 | [Under a parliamentary commission of inquiry covering about 48 billion FCFA of commitments since 2017](https://www.seneweb.com/fr/news/Politique/un-etudiant-un-ordinateur-lassemblee-ouvre-une-enquete-sur-pres-de-48-milliards-de-fcfa_n_501999.html) | Regressed |
 | Digital training for blind and partially sighted people | ***Baseline not held*** | [700 blind and partially sighted people and twenty trainers trained since the programme's launch, with an advanced tier now running](https://www.seneweb.com/fr/news/Technologie/informatique-et-intelligence-artificielle-un-programme-pour-renforcer-lemployabilite-des-non-voyants_n_497443.html) | ***Baseline not held*** |
 
 ### Literacy
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Digital financial-education project | Running since June 2024 in Senegal and Cameroon | [Closed, with 265 civil-society trainers trained across twelve organisations in two cities, and a comparison platform left unmaintained because no implementer can compel tariff data from financial institutions](https://business221.com/2026/07/24/projet-finance-4-all-au-senegal-265-personnes-issues-de-la-societe-civile-formees-a-leducation-financiere-numerique/) | Closed |
 | Digital Schools programme | The memorandum signed: 120 schools and 500 women targeted | [Unchanged; no schools-equipped or women-trained count is held at any date](https://www.wearetech.africa/en/fils-uk/news/tech/senegal-launches-digital-schools-program-with-sonatel-s-support) | No change |
 
 ### Training and skills
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Sovereign-cloud engineer training | Did not exist | [About 100 engineers to be trained in advanced cloud technologies, with infrastructure in testing and training not begun](https://africabusinessinsight.com/senegal-partners-alibaba-to-build/) | Advanced |
 | Young Africa Works Senegal | US$200m committed, the programme running to 2030 | [US$200m committed; no disbursement, beneficiary or mid-term figure is held](https://mastercardfdn.org/en/news/mastercard-foundation-to-enable-three-million-youth-to-access-employment-opportunities-in-senegal/) | No change |
@@ -288,7 +288,7 @@ The largest technology relationship moved from nothing on file to [infrastructur
 
 ### Research institutions
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | National research and innovation fund | Did not exist | [Proposed; no budget, statute or date, with a companion council still at reflection stage](https://primature.sn/publications/actualites/conseil-des-ministres-du-29-juillet-2026) | Advanced |
 | Two AI research laboratories | Two laboratories launched, targeting agriculture, education and industry | [Unchanged; no publication, budget, headcount or research output is held](https://techreviewafrica.com/news/1997/senegal-bolsters-ai-development-with-launch-of-alive-and-dicentre4ai-laboratories) | No change |
@@ -303,7 +303,7 @@ The one closure in the section is instructive: a digital financial-education pro
 
 ### New investments
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | BOAD digital transformation of public services loan | Did not exist | [XOF 30.9bn (US$51.5m) BOAD loan to accelerate digital transformation of Senegal's public services, 2026-2028; no named agency or specific systems stated](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=XM-DAC-46021-2026028) | Advanced |
 | Digital economy acceleration project | US$150m committed at board approval, scope as approved | [FCFA 95.05bn stated as committed to connectivity, digital public services and regulatory reform, with scope now adding integrated public financial management, cybersecurity capability, a sovereign government cloud and AI use cases](https://www.wearetech.africa/en/fils-uk/news/tech/senegal-maps-2026-digital-drive-with-world-bank-backing) | Advanced |
@@ -314,13 +314,13 @@ The one closure in the section is instructive: a digital financial-education pro
 
 ### MoUs and other agreements
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | UN development programme memorandum | Did not exist | [Signed on four stated focus areas: digital governance, digital inclusion, AI and innovation](https://techafricanews.com/2026/04/16/undp-and-senegal-government-strengthen-ties-on-digital-development-agenda/) | Advanced |
 
 ### Domestic budget appropriations and expenditure
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Digital-sector appropriation | FCFA 16.1bn appropriated for FY2024 under the finance law | [FCFA 31.1bn for FY2025, up 93.2%, within a FCFA 58.4bn ministry envelope](https://www.digitalbusiness.africa/senegal-le-ministere-charge-du-numerique-a-un-budget-de-584-milliards-fcfa-en-2025-contre-427-milliards-fcfa-en-2024/) | Advanced, FY2025 only |
 | Ministry vote and investment allocation for 2026 | A FCFA 58.4bn ministry envelope for FY2025, adopted in committee | [A FCFA 81.06bn ministry vote for FY2026 with FCFA 58.2bn to investment, and stated priorities of universal coverage, free connectivity, a sovereign cloud, biometric digital identity, administrative interoperability and a citizen one-stop shop](https://www.ecofinagency.com/news-digital/0912-51246-senegal-allocates-60-of-2026-digital-ministry-budget-to-investment) | Advanced |

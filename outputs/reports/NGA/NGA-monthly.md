@@ -1,16 +1,16 @@
 ---
 title: Nigeria — monthly update, July 2026
-compiled: 2026-08-24
-period: 2026-07-01 to 2026-08-24
+compiled: 2026-08-25
+period: 2026-07-01 to 2026-08-25
 place: NGA
 ledger_rows: 147
 not_held: 9
-record: 2b173c3a0754
+record: 89588d28305d
 ---
 
 # Nigeria: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-24 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-25 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -37,6 +37,8 @@ On the tower estate, shareholders of the tower company [approved the acquirer's 
 
 
 Two build programmes put dates on themselves. The government says resource mobilisation and contracting are complete for [about 3,700 towers to be deployed from October for more than 20 million people in unserved and underserved communities, with the first being installed in Delta State and riverine communities targeted before mid-2027](https://guardian.ng/business-services/fg-to-expand-internet-access-for-20m-nigerians-in-new-3700-tower-deployment/); no contract value or supplier is stated. Where fibre does not reach at all, an operator [now runs nearly a dozen light-beam links across Lagos serving banks, hotels, internet providers and a utility, and plans to extend to Abuja, Ibadan and Kano](https://datacentresafrica.com/taara-and-liquid-use-light-beam-technology-to-expand-data-centre-capacity-to-large-enterprises-in-lagos-nigeria/). A state airport also [activated a multi-gigabit backbone on 8 August over a commercial submarine-fibre network, to carry passenger processing, operations and real-time security monitoring](https://africanpilot.africa/akwa-ibom-victor-attah-internet/).
+
+The state also went back to orbit, and changed suppliers doing it. The Federal Executive Council [approved the acquisition and deployment of two high-throughput communications satellites, NIGCOMSAT-2A and 2B, to be built by Thales Alenia Space and Israel Aerospace Industries](https://saharareporters.com/2026/08/22/nigerian-government-approves-nigcomsat-2a-2b-satellites-expand-broadband-strengthen) on 22 August, with [NIGCOMSAT-2A due by the end of 2028 and 2B in 2029 or 2030 on the operator's own timetable](https://www.wearetech.africa/fr/fils/actualites/telecom/internet-le-nigeria-choisit-iai-et-thales-alenia-space-pour-acquerir-deux-nouveaux-satellites). The award [breaks with the Chinese partnership that built NigComSat-1, which failed in November 2008, and NigComSat-1R, launched in 2011 and approaching the end of its fifteen-year design life](https://www.wearetech.africa/fr/fils/actualites/telecom/internet-le-nigeria-choisit-iai-et-thales-alenia-space-pour-acquerir-deux-nouveaux-satellites), and sits alongside a January 2025 partnership with Eutelsat for low-earth-orbit services. No contract value is published and negotiation with the two manufacturers precedes manufacture.
 <!-- /narrative -->
 ### Data Storage
 
@@ -115,6 +117,8 @@ The virtual-asset track kept admitting. Three further firms were [named as admit
 
 
 The rail underneath all of it began to change. The clearing operator [reports 26.55 million transactions worth 1.4 trillion naira across 48 institutions in the early phase of the ISO 20022-compliant stack that replaces the instant-payments system](https://theeagleonline.com.ng/nibss-rolls-out-nps-as-nip-successor/), on a multi-currency platform carrying payments, identity and data together. The figures are the operator's own.
+
+The withdrawn credit product came back on 24 August. The dominant operator [resumed airtime lending on four vendors after the April suspension that followed new consumer-watchdog licensing and consumer-protection requirements, with its lending base cut to about a quarter of its first-quarter run rate and a stated cost of about 50 billion naira (US$37.1m) to first-half revenue](https://techcabal.com/2026/08/24/mtn-sees-nigeria-rebound-as-airtime-lending-returns/). The group [expects the whitelisted customer base to rebuild through the third and fourth quarters](https://techcabal.com/2026/08/24/mtn-sees-nigeria-rebound-as-airtime-lending-returns/) — its own forecast, and no regulator statement on the resumption is held. The jurisdictional question the suspension turned on is unresolved and before the Court of Appeal.
 <!-- /narrative -->
 ### Registries (population, land, address, etc.)
 

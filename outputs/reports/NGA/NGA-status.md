@@ -1,12 +1,12 @@
 ---
 title: Nigeria — digital transformation and data governance status report
-compiled: 2026-08-23
+compiled: 2026-08-25
 place: NGA
 region: XWA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-09
 intersections_read: 16
-sources_cited: 252
+sources_cited: 253
 sections_written: 37
 not_established: 0
 acquire_lines: 41
@@ -89,7 +89,7 @@ The domestic rails are old and heavily used. [The instant payment scheme has run
 
 The state's own digital currency has gone the other way: [the eNaira is being redesigned toward a wholesale model in which licensed institutions hold the customer relationship](https://thenationonlineng.net/payment-vision-2028-is-nigeria-ready-for-digital-economy/). Virtual assets are handled by coordination rather than consolidation: an executive order [establishes a Virtual Asset Council chaired by the central bank with the revenue service and the securities commission as vice-chairs, and a shared supervisory-technology platform](https://www.vanguardngr.com/2026/08/from-ban-to-blueprint-nigerias-virtual-assets-turn/), while [creating no new regulator and transferring no statutory power](https://www.vanguardngr.com/2026/08/from-ban-to-blueprint-nigerias-virtual-assets-turn/).
 
-Telco fintech proved thinner than its billing suggested. [MTN Nigeria's fintech revenue fell 72.4% year on year to ₦12.99 billion in the second quarter of 2026](https://doclib.ngxgroup.com/Financial_NewsDocs/47698_MTN_NIGERIA_COMMUNICATIONS_PLC-MTN_NIGERIA_H1_2026_EARNINGS_RELEASE_CORPORATE_ACTIONS_JULY_2026.pdf) after it suspended its airtime and data credit service, a single withdrawn product that [cost 1.4 percentage points of group service-revenue growth in the half](https://doclib.ngxgroup.com/Financial_NewsDocs/47698_MTN_NIGERIA_COMMUNICATIONS_PLC-MTN_NIGERIA_H1_2026_EARNINGS_RELEASE_CORPORATE_ACTIONS_JULY_2026.pdf), while [mobile money revenue grew about 132% and active wallets rose 1.3 million to 5.0 million](https://doclib.ngxgroup.com/Financial_NewsDocs/47698_MTN_NIGERIA_COMMUNICATIONS_PLC-MTN_NIGERIA_H1_2026_EARNINGS_RELEASE_CORPORATE_ACTIONS_JULY_2026.pdf).
+Telco fintech proved thinner than its billing suggested. [MTN Nigeria's fintech revenue fell 72.4% year on year to ₦12.99 billion in the second quarter of 2026](https://doclib.ngxgroup.com/Financial_NewsDocs/47698_MTN_NIGERIA_COMMUNICATIONS_PLC-MTN_NIGERIA_H1_2026_EARNINGS_RELEASE_CORPORATE_ACTIONS_JULY_2026.pdf) after it suspended its airtime and data credit service, a single withdrawn product that [cost 1.4 percentage points of group service-revenue growth in the half](https://doclib.ngxgroup.com/Financial_NewsDocs/47698_MTN_NIGERIA_COMMUNICATIONS_PLC-MTN_NIGERIA_H1_2026_EARNINGS_RELEASE_CORPORATE_ACTIONS_JULY_2026.pdf) and has since [resumed on four vendors with the lending base cut to about a quarter of its first-quarter run rate, at a stated cost of about ₦50 billion (US$37.1 million) to first-half revenue](https://techcabal.com/2026/08/24/mtn-sees-nigeria-rebound-as-airtime-lending-returns/), while [mobile money revenue grew about 132% and active wallets rose 1.3 million to 5.0 million](https://doclib.ngxgroup.com/Financial_NewsDocs/47698_MTN_NIGERIA_COMMUNICATIONS_PLC-MTN_NIGERIA_H1_2026_EARNINGS_RELEASE_CORPORATE_ACTIONS_JULY_2026.pdf).
 
 ### Registries
 <!-- dpi.registry -->
