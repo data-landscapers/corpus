@@ -76,6 +76,7 @@ Alemania NOLL	6613
 Alex Norris	4052
 Algérie. Nous	3157,7358
 Alhamisi Novemba	4099
+Amazon Simple Notification Service	10794
 Ambassadors of Ireland and Norway	4888
 Amostra Cuanza Norte	10777
 Amostra Lunda Norte	10777
@@ -1027,7 +1028,7 @@ Nobel Prize	3782,4922
 Nobel and Turing	10430
 Noble	6231
 Noble and Heale	7278
-Nobody	4150,1439,233,219,64,2,107,12,18,227,49,169,259,745,489,1363,240,292,137,514
+Nobody	4150,1439,233,219,64,2,107,12,18,227,49,169,259,745,489,1363,240,292,137,514,73
 Nobody Being Held Accountable	7055
 Nobus	2277,1582
 Noda and O'Hara2004	8283
@@ -1277,7 +1278,7 @@ Non-communicable	5889,3567
 Non-compliance	1243,90,474,902,18,585,575,715,6,29,259,55,714,767,245,223,1310,639,759,248,457
 Non-compliant	3003,535,6105
 Non-compliant VASPs	4602
-Non-compulsory	7514,2162,426
+Non-compulsory	7514,2162,426,707
 Non-concessional	3583
 Non-confidential	3861
 Non-conformité	10712
@@ -1295,6 +1296,7 @@ Non-discrimination	1243,2618,3361,2935
 Non-excludable	3391
 Non-exclusion	28
 Non-exclusion Any	28
+Non-exclusive Herotel	10797
 Non-formal	6832
 Non-formal Begin	6832
 Non-formal SAQA CHE	6832
@@ -1546,7 +1548,7 @@ North Star	3255,1273
 North Star Africa	5608
 North Unguja	6728
 North University of China	8510
-North West	1289,3222,1842,1273,112,729,1117,92,8,283
+North West	1289,3222,1842,1273,112,729,1117,92,8,283,830
 North West Benin. Simplice	6251
 North West District.She	7672
 North West InfraCo and Data Center Feasibility	299
@@ -1592,7 +1594,7 @@ Northeast	3791
 Northeast Nigeria. CARE. Retrieved	3456
 Northeastern State	3426,5815
 Northern	34,202,553,1535,452,636,269,1571,142,1319,234,544,204,174,501,1772,487
-Northern Africa	585,400,2172,1519,4190,641
+Northern Africa	585,400,2172,1519,4190,641,1292
 Northern Africa and Western Africa	585
 Northern Africa. Five	7423
 Northern Bahr	3583,7074
@@ -1630,7 +1632,7 @@ Northern and Western	585,9568
 Northern and Western Province	10153
 Northern and Western Provinces. Mukesha	6546
 Northern. Leading	7869
-Northwest	3791,71,1380
+Northwest	3791,71,1380,5569
 Northwest China's Shaanxi	7835
 Northwest Ethiopia	3791
 Northwest Ethiopia. BMC Med Inform Decis	3791
@@ -2064,6 +2066,7 @@ Recettes Non Fiscales Domaines	4420
 Record of Noise	1988
 Red Note Africa's Khetsiwe Dlamini	9304
 Redes de Nova Geração	15
+Redmi Note	10796
 Reference Norris	8436
 Reference Norval	8436
 Refugees Act No.1	1867

@@ -7,7 +7,7 @@ African Stock Market Capitalization of GDP	6938
 African Stock Market Robust	6938
 Algiers Stock Exchange	4887
 Amazon Elastic Block Store	1729
-Amazon Simple Storage Service	9123
+Amazon Simple Storage Service	9123,1671
 App Store	2805,461,4005,2819
 Apple App Store	7266
 Apple App Store and Google Play Store	9952
@@ -34,6 +34,8 @@ Central Medical Stores. Liberia	4202
 Change In the Stock of Domestic	1828
 Chassis for Servers and Storages	1988
 Chris Stokel-Walker	7174
+Chris Stoner Chris	10794
+Chris Stoner and Caroline Sang	10794
 Cloud Storage	4061,2730
 Cloud Storage. Ikumbukwe	4061
 Committee of SADC Stock Exchanges	6938
@@ -182,7 +184,7 @@ Stepping Stones' African	1036
 Stochastic	1828
 Stochastic Frontier Analysis	1828
 Stochastic Frontier Models	1828
-Stock	396,1592,137,3505,1160,148,773,1800,400,40,761,67
+Stock	396,1592,137,3505,1160,148,773,1800,400,40,761,67,27,3
 Stock Add	3962
 Stock Exchange	4896
 Stock Exchange Market.Following	8056
@@ -288,7 +290,7 @@ Victoria Falls Stock Exchange. Publication	4896
 Viettel Global Joint Stock	6019
 Volume and Value of Stocks	10
 World Bank Feature Story	7644
-York Stock Exchange	415,6257,526,1902,1,562,1130
+York Stock Exchange	415,6257,526,1902,1,562,1130,8
 York Stock Exchange. Bloomberg	8049
 York Stock Exchange. Liquidity	6938
 You. More Stories	9878

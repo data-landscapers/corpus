@@ -243,7 +243,7 @@ Can Cell C	4732
 Cat C	5005
 Catalani C	1219
 Category C	5005,2690
-Cell C	78,1,4653,318,2006,2855,626,85,51,60,60
+Cell C	78,1,4653,318,2006,2855,626,85,51,60,60,4
 Cell C CEO Jorge Mendes	10622
 Cell C CFO El Kope	10622
 Cell C Group	10622
@@ -451,6 +451,7 @@ Smart Africa C Drive	961
 Soberanía F U N C	4209
 South Sudan. C. Corruption	3583
 Sriram C	1261
+Starlink and Amazon Leo Cell C	10797
 Statistic Prob. C	236
 Sub-Part C	7845
 Supervisor Grupo C Juez Militar Instrucción	4209

@@ -49,9 +49,11 @@ Alimentación Eléctrica	4209
 Alta Elaboradas	2816
 Aly Elshekh	10764
 Amazon Elastic Block Store	1729
-Amazon Elastic Compute Cloud	1729
+Amazon Elastic Compute Cloud	1729,9065
+Amazon Elastic Container Registry	10794
 Amazon Elastic Container Service	1729
-Amazon Elastic Kubernetes Service	1729
+Amazon Elastic Kubernetes Service	1729,9065
+Amazon Elastic Kubernetes Services	10794
 Amazon’s Elastic Compute Cloud	9123
 Amends the Electronic Payment Services Regulations	5687
 Amerika Ellen Maduhu Wizara	7935
@@ -236,6 +238,7 @@ Data Processor INST-898834D8AAC ELGEYO Kenya	7167
 Data Processor INST-95337558B36 ELGEYO Kenya	7167
 Data Protection Election Watch	5603
 DataReportal. Electricity	5316
+Deal Technologique. Elle	10795
 Dedicated Electronic Money Issuer	7325
 DeepSeek. Ele	2816
 Deepfake Election	7445
@@ -647,7 +650,7 @@ Electronic Communica-	5872
 Electronic Communication	26,147,545,2475
 Electronic Communication Equipment	718
 Electronic Communications	236,736,2632,1097,84,129,4002
-Electronic Communications Act	11,225,160,191,1108,121,301,560,99,161,9,1637,149,328,748,64,61,250,284,72,347,5,15,462,32,356,71,1,22,130,109,72,12,62,347,527,1460
+Electronic Communications Act	11,225,160,191,1108,121,301,560,99,161,9,1637,149,328,748,64,61,250,284,72,347,5,15,462,32,356,71,1,22,130,109,72,12,62,347,527,1460,228
 Electronic Communications Act No	7827
 Electronic Communications Amendment Act	5872
 Electronic Communications Amendment Bill	5872,280,2009,2408
@@ -1230,9 +1233,9 @@ Independent Electoral and Boundaries Commission	1630,2128,4075,958,754,100,693
 Independent Electoral and Boundaries Commission Act	1630
 Independent National Electoral Commission	2670,3452,567,81,406,572,692,547,403,659,5,200,317
 India's Ministry of Electronics and Information Technology	3363,2235
-Individual Electronic Communications Network Service	2946,3945,15,3630
+Individual Electronic Communications Network Service	2946,3945,15,3630,275
 Individual Electronic Communications Network and Service	6152
-Individual Electronic Communications Service	6906
+Individual Electronic Communications Service	6906,3905
 Industrial Electronics Society	8606
 Information System Emergency Operations Center Electronic	4153
 Information and Elections	10729
@@ -1537,7 +1540,7 @@ Police Electronic Crash Records	1001
 Police Electronic Crash Records and Analytics	1001
 Political Economy of Electricity Management	194
 Poltech Electronic and Gateway	2970
-Port Elizabeth	10323
+Port Elizabeth	10323,488
 Portefeuille Electricité	2342
 Porto-Novo. Elle	5899
 Positioning Microsoft Elevate	5551
@@ -1771,9 +1774,11 @@ Union E- Waste Electronic Waste FAO	2775
 Union des Comores. Elle	743
 Union of African Electoral Commissions	2571
 Union. Elle	4459
+Unis. Elle	10803
 United Kingdom's Electronic Trade Documents Act	10718
 Universal Electronic Communications Service	3699
 Universal Electronic Payment System	2939
+Université de Dallas. Elle	10803
 Université de Nouakchott. Elle	1183
 Université du Cap. Elle	8433
 Use of Electronic Communications	1163

@@ -70,7 +70,7 @@ Africa. In SCHUFA Holding AG	8747
 Africa. Schools	1814
 Africa. Scripted	9739
 African Initiative for Planetary and Space Sciences	1735
-African Institute for Mathematical Sciences	4109,17,731,32,530,4214,1,907,59
+African Institute for Mathematical Sciences	4109,17,731,32,530,4214,1,907,59,201
 African Institute of Mathematical Sciences	9633
 African Open Science Platform	5246,2252
 African Revenue Service SCRA Standing Committee	5533
@@ -327,7 +327,7 @@ Core Applications and Scaling	4528
 Corporate Scorecard Indicators	3604,2935
 Cost of Scaling Up Safety Nets Figure	10763
 Council for Natural Scientific Professions SA-EU South	5246
-Council for Scientific and Industrial Research	396,36,1,5100,1523,23,2047
+Council for Scientific and Industrial Research	396,36,1,5100,1523,23,2047,1680
 Critical Enterprise Integration Moderate Integration Score	5665
 Criticality Impact Impact Level Score Criteria	5665
 Cross-Border Scale Ugandan	4988
@@ -427,7 +427,7 @@ Department of Information Science	8021
 Department of Library and Information Science	8022
 Department of Mathematics and Computer Science	5097
 Department of Nursing Science	8604
-Department of Science	5533,947,500,518,1104,524
+Department of Science	5533,947,500,518,1104,524,1680
 Department of Science and Education	6948
 Department of Science and Innovation	6832,54
 Department of Science and Technology	396,1418
@@ -1973,6 +1973,7 @@ St. Mary’s Girls’ Secondary School	10313
 St. Mathews Muromutua School	10313
 St. Monica’s Girls School	5802
 St. Peter’s Rambusi Secondary School	6946
+Stablecoin Infrastructure Scales Stablecoin	10802
 Staff Retirement Benefits Scheme Data Controller	7167
 Staff Retirement Benefits Scheme Data Processor	7167
 Staff Scheduler Management System	6946

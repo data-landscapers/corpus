@@ -58,6 +58,7 @@ AU Pan-African AI Compute Grid	6690
 AU Working Group	1814
 AVADA GROUP LIMITED Data Controller INST-6229969CEC4	7167
 AVADA GROUP LIMITED Data Processor INST-6229969CEC4	7167
+AWS Ground Station	10794
 AXIAN Group	4112,1039
 AXIAN Group and Mastercard	4112
 AYEDOS COWRIE GROUP LIMITED Data Controller	7167
@@ -281,7 +282,7 @@ Bank’s GRS	2889,715
 Bank’s Grievance Redress Service	1284,583,1022,3650,4229
 Banque GIM-UEMOA Groupement Interbancaire Monétique	4459
 Banxso and Bhaca Green	8354
-Baobab Group	4972
+Baobab Group	4972,5827
 Bar De ChangeMSL Group	7253
 Bassirou Diomaye Diakhar Faye and Tom Greenwood	7543
 Bayayi Group	4948
@@ -877,6 +878,7 @@ GRANT PERFORMANCE The Federal Government	5655
 GRAPHIQUES ET TABLEAUX Graphiques Graphique	998
 GRA’s Domestic Tax Revenue Division	10419
 GRA’s Top Management	10419
+GRC Department of Agriculture	10809
 GRCRO	7123
 GREAT	108,2144,296,56,1041,1599
 GREAT Project	6166
@@ -1460,7 +1462,7 @@ Gross Capital Formation	236
 Gross Capital Provider Buildings Equipment Office	236
 Gross Domestic	2775
 Gross Domestic Expenditure	2775
-Gross Domestic Product	236,337,367,423,625,787,641,167,279,1587,876,122,27,65,339,68,746,1343,119,98,617
+Gross Domestic Product	236,337,367,423,625,787,641,167,279,1587,876,122,27,65,339,68,746,1343,119,98,617,935
 Gross Domestic Product Financial and Insurance Activities	2775
 Gross Domestic Product GDP	2775
 Gross Domestic Product GDPR	5244
@@ -1839,6 +1841,7 @@ IGME United Nations Inter-agency Group for Child	10759
 IHS Group	10793
 IHS Holding Limited MTN Group Limited	7198
 IHS Towers Group	45
+IHS Towers. Vodacom Group	10799
 INC Ransomware Group	6765
 INFRAESTRUCT. GRAL. PROVINCIAL PROVINCIAL KIE- TURÍSTICAS	4209
 INSPEC. GRAL	4209
@@ -1867,6 +1870,7 @@ ITU Study Group	7174
 ITU-R Study Groups	5680
 ITU-T Study Group	7320
 IUU Working Group	789
+Icasa. Vodacom Group	10797
 Ideal Grip	1988
 Ideal Grip Gloves	1988
 Idemia and SELP. IN Groupe	2864
@@ -2001,6 +2005,7 @@ Kenya Utalii College Graduates	2775
 Kenya and East Africa for MultiChoice Group	6946
 Kenya's Gross Domestic Product	7204
 Kenya's Internet Growth Kenya	3625
+Kenya’s NCBA Group. Beltone	10799
 Kingdom of Eswatini GP Global Practice GRS	6539
 Klivvr. Grâce	8190
 Kololo Independence Grounds	3065,6631
@@ -2082,9 +2087,9 @@ MNE Groups. Whilst	573
 MNE Group’s Revenue	573
 MPDI Working Groups	6938
 MSC Group	2135,1770
-MTN Group	924,124,489,722,100,13,87,68,36,30,118,5,38,44,29,95,11,78,43,34,20,130,25,37,6,91,61,22,11,33,5,49,34,36,14,40,26,12,3,1,53,40,22,38,35,124,13,13,112,45,4,29,54,220,29,47,3,7,98,73,98,5,87,74,21,20,28,2,170,31,30,20,71,61,13,2,12,12,47,7,7,51,2,35,23,20,26,24,32,75,27,1,39,26,56,46,65,1,8,8,1,14,28,62,8,33,1,15,28,4,8,71,7,18,54,11,5,3,6,90,47,11,2,12,27,34,3,24,18,34,7,1,30,3,82,57,50,35,3,70,4,171,6,45,62,620,2,295,106,65,2,2,385,132,1,229,22,287,24,57,179,329,360,151,54
+MTN Group	924,124,489,722,100,13,87,68,36,30,118,5,38,44,29,95,11,78,43,34,20,130,25,37,6,91,61,22,11,33,5,49,34,36,14,40,26,12,3,1,53,40,22,38,35,124,13,13,112,45,4,29,54,220,29,47,3,7,98,73,98,5,87,74,21,20,28,2,170,31,30,20,71,61,13,2,12,12,47,7,7,51,2,35,23,20,26,24,32,75,27,1,39,26,56,46,65,1,8,8,1,14,28,62,8,33,1,15,28,4,8,71,7,18,54,11,5,3,6,90,47,11,2,12,27,34,3,24,18,34,7,1,30,3,82,57,50,35,3,70,4,171,6,45,62,620,2,295,106,65,2,2,385,132,1,229,22,287,24,57,179,329,360,151,54,6,8
 MTN Group Available	9871
-MTN Group CEO	5569
+MTN Group CEO	5569,5238
 MTN Group CEO Ralph Mupita	6563,288,3737
 MTN Group CEO Sifiso Dabengwa	3187
 MTN Group Chief Information Officer Nikos	8583
@@ -2114,6 +2119,7 @@ MTN Group. Senior Vice President of MTN	5136
 MTN Group. Under	8581
 MTN GroupRead	5389
 MTN Group’s Ambition	3330
+MTN Group’s H1	10807
 MTN Uganda Calls for Greater Support	6865
 MTN's Group	5709
 MTN. Graphique	4459

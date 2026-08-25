@@ -36,7 +36,7 @@ APEX SPECIALIST AND DIAGNOSTIC CENTER LIMITED	7167
 API SP.URB.TOTL DS2 fr excel v2 318520	747
 APPENDICES Appendix A Equipment Specifications Desktop	34
 ASFR Age Specific Fertility Rates ASPs	2775
-AST SpaceMobile	7303
+AST SpaceMobile	7303,3494
 AU Special Envoy	562
 AU Special Envoy Strive Masiyiwa	560
 AU Specialized Institutions	1243,571
@@ -1054,7 +1054,7 @@ South African National Space Agency	3290,3338
 South African-born SpaceX and Tesla	5808
 South Africans. SpaceX	5507,1318
 South Sudan Launches National Spectrum Management	7508
-Space	11,707,413,604,262,99,817,63,421,729,106,648,10,191,363,546,95,161,221,118,164,35,92,769,117,369,144,512,280,56,693
+Space	11,707,413,604,262,99,817,63,421,729,106,648,10,191,363,546,95,161,221,118,164,35,92,769,117,369,144,512,280,56,693,978
 Space Daily	5252
 Space Exploration Technologies Corp	4552,860,1479,3698
 Space Exploration Technologies Corp. Registration Statement	6467
@@ -1117,7 +1117,7 @@ SpaceX. L'entreprise	9518
 SpaceX. Under	6248
 SpaceX’s ESIM-equipped	6891
 SpaceX’s Gateway Earth Station and User- Terminal	6891
-SpaceX’s Starlink	6669,222,412
+SpaceX’s Starlink	6669,222,412,3494
 SpaceX’s Starlink Direct-to-Cell	8872
 SpaceX’s Starlink. ICASA	6906
 Spacebear and Dispossessor	2230
@@ -1606,6 +1606,7 @@ Telecommunications Licence for Special Services	736
 Temporary Speaker	10313
 Terrestrial Spectrum	5245
 Test and Specification Management	7988
+Thales Alenia Space	10808
 Thales Alenia Space of France and Israel Aerospace	10699
 Theme Specific Recommendations	4214
 Thomson Reuters Special Services	9747,54,3,23

@@ -43,6 +43,7 @@ APOLLO LANDINGS LIMITED Data Controller INST-13996202B01	7167
 APPLICABLE LAWS	4153
 ARIN and LACNIC	3874
 AUDA-NEPAD Launches Island Economy Programme	7795
+AWS Lambda	10794
 Aare Laponin	6423
 Aare Lapõnin	6423
 Abdelouafi Laftit	4113,503
@@ -138,6 +139,7 @@ Am J Int Law	5242
 Am J Int Law Unbound	5242
 Amah Lawal	10049
 Amand Lawin	7168
+Amazon S3 and AWS Lambda	10794
 Ambassador and Expand Ambassador. Launch	1777
 Amend Official Voter Registration Law	9399
 Amend the Lawful Interception Framework	958
@@ -353,6 +355,7 @@ CROP NUTRITION LABORATORY SERVICES LIMITED Data	7167
 CSR and Strategic Partnerships. The Fursa Lab	10732
 CURRENT CROSS-BORDER TRADE LANDSCAPE	5247
 CV Labs	6368
+CV Labs Accelerator	10810
 Cabinet's Inspection and Follow-Up Department. Launch	3310
 Cable Landing Station	2677
 Cabo Verde Lança Plataforma Para Detectar	8324
@@ -1414,7 +1417,7 @@ Lago Dilolo	6595
 Lago Dilolo Moxico-Leste	6595
 Lagodinsky	8014
 Lagoon	8610,233
-Lagos	388,59,124,68,217,143,39,69,29,84,143,201,117,124,7,8,201,113,21,122,52,26,26,36,45,69,4,1,27,27,2,3,10,72,148,2,107,72,5,1,18,7,28,36,10,22,18,4,2,29,1,26,165,36,30,26,7,50,21,6,26,16,25,67,37,2,5,5,45,15,1,61,14,56,2,171,48,41,100,132,91,11,38,2,157,3,13,118,54,27,53,64,20,10,61,55,12,3,23,14,29,21,19,248,1,146,49,35,63,11,83,79,5,10,135,26,2,36,16,24,6,56,16,8,34,61,27,68,14,118,51,41,1,17,43,25,16,63,48,36,25,2,35,5,31,5,31,6,2,27,26,1,21,27,3,28,15,42,73,16,9,104,6,21,186,12,56,41,13,6,7,124,5,57,42,8,25,16,8,1,81,4,7,28,81,56,51,95,30,2,23,187,156,8,19,12,21,30,6,8,5,24,14,51,40,75,24,1,98,13,29,10,15,4,34,22,8,14,9,30,1,54,52,137,96,21,22,19,3,118,2,46,49,32,6,29,115,71,50,18,131,27,11
+Lagos	388,59,124,68,217,143,39,69,29,84,143,201,117,124,7,8,201,113,21,122,52,26,26,36,45,69,4,1,27,27,2,3,10,72,148,2,107,72,5,1,18,7,28,36,10,22,18,4,2,29,1,26,165,36,30,26,7,50,21,6,26,16,25,67,37,2,5,5,45,15,1,61,14,56,2,171,48,41,100,132,91,11,38,2,157,3,13,118,54,27,53,64,20,10,61,55,12,3,23,14,29,21,19,248,1,146,49,35,63,11,83,79,5,10,135,26,2,36,16,24,6,56,16,8,34,61,27,68,14,118,51,41,1,17,43,25,16,63,48,36,25,2,35,5,31,5,31,6,2,27,26,1,21,27,3,28,15,42,73,16,9,104,6,21,186,12,56,41,13,6,7,124,5,57,42,8,25,16,8,1,81,4,7,28,81,56,51,95,30,2,23,187,156,8,19,12,21,30,6,8,5,24,14,51,40,75,24,1,98,13,29,10,15,4,34,22,8,14,9,30,1,54,52,137,96,21,22,19,3,118,2,46,49,32,6,29,115,71,50,18,131,27,11,56,1,2
 Lagos Avenue Not Limited Operational	3386
 Lagos Based Doctor Uncovers The Hidden	5574,215
 Lagos Business School	8764
@@ -1527,6 +1530,8 @@ Lake Chad Basin	7452,2164
 Lake Kariba	5247
 Lake Kariba Fisheries Research Institute	3025
 Lake Kariba. ZERA	6492
+Lake Ngami	10794
+Lake Sulunga	10794
 Lake Tanganyika	10009
 Lake Victoria	3583
 Lake Victoria Serena Golf Resort	10563
@@ -1548,6 +1553,7 @@ Lambach	2117
 Lambanyi	9542
 Lambaréné	2325
 Lambaréné-Fougamou-Mouila-Ndendé-Tchibanga-Mayumba	301
+Lambda	10794
 Lambert	5448
 Lamberton	9237
 Lameque	7679
@@ -1686,7 +1692,7 @@ Lands Secretary Sarah Maina	3374
 Lands Transport Regulatory Authority	5883
 Lands and Country Planning	1161
 Lands and Deeds Registry	1249
-Landsat	8787
+Landsat	8787,2007
 Landsberg	4432
 Landscape	226,417,3139,2631
 Landscape Analysis and Tool Selection	1824
@@ -1956,7 +1962,7 @@ Launch of SmartCare Pro	2477
 Launch of TELEMO Platform Guinea	6349
 Launch the Ghanaian Global AI Summit	4126
 LaunchBase Africa Dec	1404
-Launched	973,561,333,469,119,64,761,108,21,61,59,145,85,130,69,169,211,12,121,133,97,220,57,98,71,100,16,198,34,220,14,184,220,10,201,446,345,69,179,13,123,188,113,862,102,105,51,117,181,137,64,6,68,56,386,83,119,28
+Launched	973,561,333,469,119,64,761,108,21,61,59,145,85,130,69,169,211,12,121,133,97,220,57,98,71,100,16,198,34,220,14,184,220,10,201,446,345,69,179,13,123,188,113,862,102,105,51,117,181,137,64,6,68,56,386,83,119,28,619
 Launched Dec	909
 Launched Feb	2222
 Launched Jan	2612
@@ -3150,6 +3156,7 @@ Vodacom Tanzania Launches USD	5715
 Vumah Labs	7530
 WATAF LAUNCHES AFDB-FINANCED US	10581
 WGI Rule of Law	1828
+WOfS Landsat	10794
 Waitiki Land	10313
 Washington College of Law	9632
 Water Resources Management Authority. Ministry of Labour	1988

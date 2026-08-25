@@ -24,6 +24,7 @@ ASSOCIATED OPERATION	2712,1976,1891,349,949
 ATC KENYA OPERATIONS LIMITED Data Controller	7167
 AUDIT OPINIONS Harare	4896
 AUTORIZAÇÃO DE OPERAÇÕES DE PAGAMENTO	10755
+AWS Open Data	10794
 AWS and OpenAI	5967
 AWS. OpenAI	5967
 Abby May for Open Secrets	7910
@@ -902,7 +903,8 @@ OPS5.05-GUID.180	10768
 OPSEC	1000
 OPSED	10714
 OPT-NC and Lynk	2511
-OPTIC	2288,8079
+OPTIC	2288,8079,428
+OPTIC Antoine Ngom	10795
 OPTICALS LTD Data Controller INST-364145F15AE KISUMU	7167
 OPTIMA	3683
 OPTIMA SARL Décision	998
@@ -990,7 +992,7 @@ Open Contracting Data Standard29	1984
 Open Contracting Partnership	2364
 Open Contracting for Infrastructure Data Standard	3969,5463
 Open Cosmos	9816
-Open Data	170,375,202,1,21,189,229,31,25,4,737,112,1139,626,262,710,15,396,2,1177,9,887,229,1858,74,1305
+Open Data	170,375,202,1,21,189,229,31,25,4,737,112,1139,626,262,710,15,396,2,1177,9,887,229,1858,74,1305,9
 Open Data Budget Description URL	748
 Open Data Charter	961
 Open Data Charter Principles. Open Data	961
@@ -1826,6 +1828,7 @@ Regional Digital Inclusion Strategy. Opened	7261
 Regional Export Opportunity Beyond	10157
 Regional Food Balance Sheet COMESA Opens	7020
 Regional Open Data Legal Framework and Interoperability	6352
+Registry of Open Data	10794
 Regulatory and Operational Reporting	9855
 Reimagining Economic Opportunities for Africa's Workforce	2686
 Relationship Interview Columns Opinion Advertise	9669,84

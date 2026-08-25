@@ -430,6 +430,7 @@ Alar Mitangan Akwa	4209
 Alarm Transmitter	6946
 Alarmingly	10776
 Alaro City	3006,6863,636
+Alaska Satellite Facility	10794
 Alassane Dramane Ouattara	2418
 Alassane OUEDRAOGO	7670
 Alassane Ouattara	6005,90,14,465,17,940,2858
@@ -1162,7 +1163,7 @@ Allemagne	643,1810,513,499,377,1187,1231,307,46,137,209,165,1767,976,460,44
 Allemagne. Bureau	10712
 Allemagne. Par	10371
 Allemand	998
-Allen	771,1047,179,120,8521
+Allen	771,1047,179,120,8521,160
 Allen C	10784
 Allen Institute	10638
 Allen Institute for AI	5257,3531
@@ -1283,6 +1284,7 @@ Alon Stern	8857
 Alon-Barkat and Busuioc	8283
 Alone	10763
 Along	36,1327,2559,905,945,614,562,67,3449
+Along Kenya	10796
 Along National Arteries The Highway Effect	4130
 Along the Tana River Irrigation Scheme	9547
 Alongside	701,662,66,399,921,466,284,79,5,543,56,247,247,111,158,271,66,20,319,81,9,16,50,263,352,125,76,180,21,28,10,116,75,31,150,16,290,59,40,81,63,72,121,44,492,165,225,231,458,71,337,436,19,150,21,78,19,83
@@ -1295,7 +1297,7 @@ Alongside the World Bank-funded Digital Malawi Acceleration	6592
 Alongsidetheseenablingpractices	8602
 Alonso-Mora	7966
 Aloqaily	8605
-Alors	643,104,1,1236,369,24,225,130,119,87,4,67,100,252,34,49,21,86,107,282,45,225,16,108,167,521,258,224,169,81,239,282,145,322,13,122,133,113,196,169,196,311,4,163,15,42,544,90,38,142,160,134,172,232,360,376,65,12,60,1,6,71,1
+Alors	643,104,1,1236,369,24,225,130,119,87,4,67,100,252,34,49,21,86,107,282,45,225,16,108,167,521,258,224,169,81,239,282,145,322,13,122,133,113,196,169,196,311,4,163,15,42,544,90,38,142,160,134,172,232,360,376,65,12,60,1,6,71,1,120,5
 Aloyo Nyeko Mega	4235
 Aloysious Kasoma	4235,3640
 Alpec	7283
@@ -1353,6 +1355,8 @@ Alta Elaboradas	2816
 Alta HealtchCare Limited Data Processor INST-983616D8380	7167
 Alta Incidência Criminal	549
 Alta Tensión	4209
+Alta Vermaak	10809
+AltaV	10809
 Altas Personalidades Malabo	4209
 Alteneiji	9129
 Alter Ego Media S.A Bria.ai Alyntoris	8530
@@ -2155,7 +2159,7 @@ Joana Albino	10753
 Joana Cardoso de Guerra Matos Albino	10753
 Joining Yonas Alemayehu	7887
 Jon Boyle and Alexander Smith	6486
-Jonathan Allen	10638
+Jonathan Allen	10638,160
 Jose Carlos Almeida and Antonio	9399
 José Manuel Costa Alegre	5818
 José Manuel Macumbo Costa Alegre	6568
@@ -2827,6 +2831,7 @@ Telecom International Alliance	8393,442
 Telecommunications and Digital Economy Alioune Sall	5330
 Temperature and Relative Humidity Control All Tier	9123
 Terms of Use All	6408
+Thales Alenia Space	10808
 Thales Alenia Space of France and Israel Aerospace	10699
 Theapplicationoftheanalysismethodisshownin Algorithm4	8606
 Through the EAC AI Alliance	9707

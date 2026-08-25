@@ -440,7 +440,7 @@ Ministry Reviews	8961
 Ministry of Foreign Affairs and International Affairs Review	1161
 Ministry of ICT Urges POTRAZ To Review	2987
 Ministry of Justice and Ministry of Revenues	7909
-Ministry of Revenue	1789,1,1,1,1,659,754,3881
+Ministry of Revenue	1789,1,1,1,1,659,527,227,3881
 Ministry of Revenue's EFY	1789,1,1,1
 Ministry of Revenue. Connects	208
 Ministry of Revenue. Tax	5655
@@ -970,8 +970,9 @@ Soludo's Quiet Tech Revolution Is Reshaping	9936
 Solution for Unified Management of Electronic Revenue. Strip	7897
 South Africa Reviewed	520
 South African Health Review	2948
-South African Revenue Service	2681,11,2455,386,58,93,192,1726,2,306,449,311,422,1,652,150,163,268
+South African Revenue Service	2681,11,2455,386,58,93,192,1726,2,306,449,311,422,1,652,150,163,268,483
 South African Revenue Service Act	8840
+South African Revenue Service SARS	10809
 South African Revenue Services	9005
 South Sudan Revenue Authority	3583,150,1281,333,835,10,584,70,1066,2687
 South Sudan Revenue Authority Logo	7912

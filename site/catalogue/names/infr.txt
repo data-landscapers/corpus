@@ -851,7 +851,7 @@ National Infrastructure	7548
 National Infrastructure Financing	7548
 National Infrastructure Fund	7548,2765
 National Infrastructure Fund Act	10313
-National Integrated Cyber Infrastructure System	9126
+National Integrated Cyber Infrastructure System	9126,1680
 National Optic Fibre Backbone Infrastructure	126
 National Optical Fibre Backbone Infrastructure	1164
 National Public Digital Infrastructure	4528
@@ -1061,6 +1061,7 @@ Sovereign Infrastructure Development	4755
 Sovereign Technological Infrastructure	3235
 Spatial Data Infrastructure	427
 Spatial Data Infrastructure Act	1009
+Stablecoin Infrastructure Scales Stablecoin	10802
 State Connectivity Infrastructure Modernization Project	4548
 State Digital Infrastructure Company	5968,1088
 State of Africa's Infrastructure Report	5912,1

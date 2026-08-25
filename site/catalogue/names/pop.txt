@@ -136,7 +136,7 @@ POP. FiberOne	6749
 POP. Starlink	6749
 POP3S	10764
 POPI Act	2117,5905,1106
-POPIA	1243,362,334,785,94,573,260,792,1090,191,82,383,198,125,120,95,65,40,54,169,82,129,12,227,251,266,108,787,211,106,262,847
+POPIA	1243,362,334,785,94,573,260,792,1090,191,82,383,198,125,120,95,65,40,54,169,82,129,12,227,251,266,108,787,211,106,262,847,455
 POPIA Compliance Framework	6632,95
 POPIA Five Years Later	7055
 POPIA-aligned	7055
@@ -270,6 +270,7 @@ South Africa's POPIA	3885
 South African Population Research Infrastructure Network	7836
 South Africa’s POPI Act	2117
 South Africa’s POPIA	6471
+South Africa’s POPIA and Kenya’s Data Protection	10798
 Specific Problems of Refugee Populations	1867
 Starlink's Popularity	3625
 Territorial Planning and Population	3713

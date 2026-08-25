@@ -305,7 +305,7 @@ Department for International Development	6982
 Department for Science	3654
 Department of AGRITEX	520
 Department of Administration	7167
-Department of Agriculture	1188,1438,4541,347
+Department of Agriculture	1188,1438,4541,347,3295
 Department of Agriculture Busia County Data Controller	7167
 Department of Agriculture Busia County Data Processor	7167
 Department of Agriculture Livestock and Blue Economy Data	7167
@@ -337,6 +337,7 @@ Department of Computer Science	766,4647,3191,1779
 Department of Computer Science and Information Technology	10323
 Department of Computing Science	7112
 Department of Cooperative Governance	5872
+Department of Correctional Services	10809
 Department of Culture	7167
 Department of Defense	5216,71
 Department of Digital Communications	1672,977,2999
@@ -422,7 +423,7 @@ Department of Productivity and Competitiveness	5250
 Department of Public Health	8604
 Department of Public Service and Administration	1810,102,5146,38,3006
 Department of Roads	7167,1129
-Department of Science	5533,947,500,518,1104,524
+Department of Science	5533,947,500,518,1104,524,1680
 Department of Science and Education	6948
 Department of Science and Innovation	6832,54
 Department of Science and Technology	396,1418
@@ -841,7 +842,7 @@ Forecasting and Research Department	10718
 Forestry Department	1988,5560
 Foreword From the Hon Deputy Minister	4528
 Former Director of NOC International Marketing Department	4531
-Forward Deployed Engineering	10638
+Forward Deployed Engineering	10638,160
 Fraud A- Deposit	582
 Fund Department Department Resource	6946
 Future of Africa’s Digital Economy Depends	6212
@@ -855,6 +856,7 @@ G. The UN Department of Economic and Social	2383
 GAMCEL. Deployment	7195
 GEPE Research and Projects Department	10780
 GIMPA Deputy Rector	10123
+GRC Department of Agriculture	10809
 Gabon US Department of State	1560
 Gambia Immigration Department	4677,101
 Gambia Immigration Department Bill	3061

@@ -84,7 +84,9 @@ Alice Makeba Siwekirori	5399
 All SIM	1910
 All Zones Carthago Compensation SIBTEL National	6938
 Amani Siyam	771
-Amazon Simple Storage Service	9123
+Amazon Simple Notification Service	10794
+Amazon Simple Queue Service	10794
+Amazon Simple Storage Service	9123,1671
 America First Global Health Strategy. SIGNED	4153,14,35,15,43,41,48
 Amos Siwoi	1639
 Analysis My Account Sign Out Stay	9629
@@ -2151,7 +2153,7 @@ Simplification	1219,1123,8423,10
 Simplification for SMCs	7972
 Simplification of Administrative Procedures	3375
 Simplification of Birth Registration	10765,10
-Simplified	7020,770
+Simplified	7020,770,3004
 Simplified Birth Registration System	6807
 Simplified Decision Tree Use	6432
 Simplified Version KICTANet	3162
@@ -2659,6 +2661,7 @@ Sixty-four	6734
 Sixty60	9763
 Siyabonga	6808
 Siyabonga Mabuza	6808
+Siyabonga Sibiya of Molotel	10811
 Siyabonga’s PESTEL	6808
 Siyam	771
 Siyanbola Adegoke	8588

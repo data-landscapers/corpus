@@ -92,7 +92,7 @@ All Legal Briefs	6387
 All Legislation	6387
 AmCham Ghana’s Legal	7696
 Amazon LEO	4990
-Amazon Leo	4623,1143,1128,4,153,252,15,64,749,2457
+Amazon Leo	4623,1143,1128,4,153,252,15,64,749,2457,209
 Amazon Leo Huawei	5908,442
 Amazon Leo and Herotel	7303
 Amazon Leo and Starlink	7382
@@ -235,6 +235,7 @@ Centre for Applied Legal Studies	6683,3206
 Centre for Experiential Learning and Innovation	6211
 Centre for Innovative Teaching and Learning	508,7701,118,562
 Centre for National Distance Learning and Open Schooling	580
+Centre of High Performance Computing’s Lengau	10806
 Cette Lettre	12
 Chad and Lesotho	3405
 Chairman's Letter	4896
@@ -266,6 +267,7 @@ Commissioner Leonashia	10729
 Commissioner Lerato D. Mataboge	5092
 Commissioner Lerato Mataboge	5092,2044
 Commonwealth of Learning	8609,1146
+Communications and Outreach Lead	10794
 Communities Lead	6947
 Community Level	958
 Community Levy	6422,1030
@@ -370,7 +372,7 @@ Dedicated Website Lead Nowhere DPO Ukorobo	10034,231
 Deep Learning	1814,1002,1712,4193,156
 Deep Learning Employee	4528
 Deep Learning INDABA	5036
-Deep Learning Indaba	2732,84,1171,139,127,821,1881,3038
+Deep Learning Indaba	2732,84,1171,139,127,821,1881,3038,808
 Deep Learning Indaba ECTIM	2816
 Deep Learning Indaba. VERIFY	5074
 Deep Learning IndabaX Namibia	5036
@@ -1159,7 +1161,7 @@ LeapFrog and Tana Africa Capital	908
 LeapFrog-specific	2223
 Leapfrogging	7233,893
 Leapfrogging Potential	4528
-Learn	2318,6,103,20,57,1,16,20,25,48,44,20,42,5,53,41,1,3,50,41,11,18,4,70,1,8,154,99,6,18,126,31,163,119,40,38,69,29,1,1,110,37,21,38,118,124,66,119,78,145,6,49,32,222,225,32,25,81,45,60,43,86,15,181,78,116,183,10,9,44,26,19,5,64,109,5,16,77,11,1,149,7,16,43,81,38,19,72,99,24,11,34,120,6,42,1655,362,132,186,39,15,3,23,468,56,363,13
+Learn	2318,6,103,20,57,1,16,20,25,48,44,20,42,5,53,41,1,3,50,41,11,18,4,70,1,8,154,99,6,18,126,31,163,119,40,38,69,29,1,1,110,37,21,38,118,124,66,119,78,145,6,49,32,222,225,32,25,81,45,60,43,86,15,181,78,116,183,10,9,44,26,19,5,64,109,5,16,77,11,1,149,7,16,43,81,38,19,72,99,24,11,34,120,6,42,1655,362,132,186,39,15,3,23,468,56,363,13,67
 Learn Executive Summary	6947
 Learn Get	9429
 Learn REPORT JUL	6947
@@ -1456,6 +1458,7 @@ Legally	4042,3179,556,927,2061,10
 Legally-binding	7221,1
 Legend Patient Facility	8605
 Legendary Foods	7482
+Leggero	10809
 Legibility	7570,1,69
 Legis1	10351
 Legislación Electoral	163
@@ -1644,7 +1647,7 @@ Lendable MSME Fintech Credit Fund USAID	729
 Lendable. Crosswalk	1415
 Lending	5267,215,632,466,3609
 Lending-as-a-Service	5482
-Lengau	9126
+Lengau	9126,1680
 Lengo	3447
 Lengo la Serikali	1921
 Length	747
@@ -2666,6 +2669,7 @@ South Africa's Legal Resources Centre	8915
 South Africa. Let	6196
 South Africa. The LEP	6720
 South African Reserve Bank Governor Lesetja	5910,2109
+South Africa’s Lengau	10806
 South Sudan Revenue Authority. II. Legal	3583
 South Sudan’s National Legislative Assembly	4583
 South Sudan’s Transitional National Legislative Assembly	10657
@@ -2691,6 +2695,7 @@ Stanlib Lesotho	8034
 Stanlib Lesotho Managing Director Mohlabinyane Mohapi	8034
 Starlink LEO	6467
 Starlink Lesotho	2547
+Starlink and Amazon Leo Cell C	10797
 Starlink's D2C LEO	6247
 State Department For Early Learning	899
 State We Are Leaping Over	7233

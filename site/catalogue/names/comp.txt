@@ -104,7 +104,7 @@ Algeria’s Water and Sanitation Company	8428
 All Zones Carthago Compensation SIBTEL National	6938
 Allow South Complete Its Turn	2355,176,4,1,56,3,339,96,901,1006,1761,673
 Alta Competencia	1701
-Amazon Elastic Compute Cloud	1729
+Amazon Elastic Compute Cloud	1729,9065
 Amazon’s Elastic Compute Cloud	9123
 Anicet Compaoré	6497
 Anicet Compaoré. Pour	6497
@@ -429,9 +429,10 @@ Cayman Islands Companies Act	7198
 Center Computer Security Incident Response Team	4653
 Central Bank of Eswatini Complex	3977
 Centre for Development of Advanced Computing	6411
-Centre for High Performance Computing	4528,4598
+Centre for High Performance Computing	4528,4598,1680
 Centre for High Performance Computing Zimbabwe National	4528
 Centre for Quantum Computation	9698
+Centre of High Performance Computing’s Lengau	10806
 Centros de Competências	2816
 Certidão Narrativa Completa	10749,7
 Certificate of Competency	736,7903
@@ -497,7 +498,7 @@ Compagnie Minière du Bafing	2342
 Companhia Santomense de Telecomunicações	2315
 Companhia São-tomense de Telecomunicações	5557
 Companhias	6970
-Companies	571,165,163,878,110,631,91,769,205,131,193,84,685,296,141,89,22,239,155,182,10,10,44,478,79,250,63,194,18,25,44,283,391,62,263,166,26,10,132,11,27,258,609,31,286,72,39,28,160,542,181,45,101
+Companies	571,165,163,878,110,631,91,769,205,131,193,84,685,296,141,89,22,239,155,182,10,10,44,478,79,250,63,194,18,25,44,283,391,62,263,166,26,10,132,11,27,258,609,31,286,72,39,28,160,542,181,45,101,60,3
 Companies API Application Programming Interface	4214
 Companies Act	11,574,697,637,1795,919,263,467,509,1068,258,6,492,149,1021,642,270,137,77,801
 Companies Act and AFRINIC	9506
@@ -865,7 +866,7 @@ Complexo Administrativo Clássicos de Talatona	10770
 Complexo Escolar	7240,3526
 Complian	6432
 Complianc	6432
-Compliance	436,282,282,9,11,5,189,119,193,462,645,35,290,29,227,437,63,147,111,182,13,35,15,43,41,48,179,235,3,82,284,36,184,181,58,74,198,159,33,321,56,303,211,119,139,314,30,241,238,409,28,639,25,123,349,74,21,160,84,218,250,209,13,92,44,3
+Compliance	436,282,282,9,11,5,189,119,193,462,645,35,290,29,227,437,63,147,111,182,13,35,15,43,41,48,179,235,3,82,284,36,184,181,58,74,198,159,33,321,56,303,211,119,139,314,30,241,238,409,28,639,25,123,349,74,21,160,84,218,250,209,13,92,44,3,41
 Compliance Agreements	7994
 Compliance Breaches	5939
 Compliance Burn	10738
@@ -1058,8 +1059,8 @@ Comptabilité	969,1373,134,3079,2346,2594,217
 Comptabilité Publique	3396,208,3223,1074,849,1962
 Comptabilité Publique DPP Direction	10712
 Comptabilité Stratégie Transport Telecom	2342
-Comptable	8321,2284
-Compte	12,417,118,3,18,20,1091,295,368,83,541,78,1,144,167,2470,1185,638,6,15,137,257,827,190
+Comptable	8321,2284,198
+Compte	12,417,118,3,18,20,1091,295,368,83,541,78,1,144,167,2470,1185,638,6,15,137,257,827,190,1714
 Compte Administratif	969
 Compte de Gestion	969
 Comptes	2476,3264,1915
@@ -1074,7 +1075,7 @@ Comptroller-General	587,2431,6458
 Comptroller-General of Customs	8167,111,221,977
 Comptés	7655
 Compulsion	7777
-Compulsory	1940,48,1726,706,3094,2162,426
+Compulsory	1940,48,1726,706,3094,2162,426,707
 Compulsory Security Governance	4755
 Compulsory Social Security	2775
 Compulsory Standard Act No.3	1988
@@ -1558,7 +1559,7 @@ Farmer Aggregation Companies	5765
 Fast Company	4972
 Featured Office of Registrar of Companies	9842
 Features and Compatibility	9855
-Federal Competition	7469
+Federal Competition	7469,3338
 Federal Competition and Consumer Protection Act	3538,3643,288,91,216,872
 Federal Competition and Consumer Protection Commission	2459,1079,404,1142,1437,589,69,2,228,151,216,515,296,76,1154,754,222
 Fev. COMPTE RENDU DU CONSEIL DES MINISTRES DU JEUDI 13 FE	8673
@@ -1632,6 +1633,7 @@ Global Talent Competitiveness Index	4528
 Global Tech Competitions	4725
 Globally Competitive	5134
 Globally Competitive Knowledge	770
+GoMyCode and Complete Farmer	10801
 Golden Clinic Complexes	5317
 Google Chief Compliance Officer	3307
 Google’s Compute Engine	9123
@@ -1825,7 +1827,7 @@ Kenya Company Limited	6946
 Kenya Electricity Generating Company PLC	1722
 Kenya Electricity Transmission Company	10313
 Kenya Electricity Transmission Company Limited	10313
-Kenya Pipeline Company	6946
+Kenya Pipeline Company	6946,3850
 Kenya Pipeline Company Limited	3583
 Kenya Pipeline Company. Correspondence	3583
 Kenya Power and Lighting Company	6133,4180

@@ -778,7 +778,7 @@ Independent News	2885,1650,350,49,187,653,25,474,547,1,222
 Independent News Eswatini	2885,1650,350,49,187,653,25,474,547,1,222
 Independent Newspaper Nigeria	8241,476
 Index Non-Governmental Organisation Near Real-Time National	10763
-Individual Electronic Communications Network Service	2946,3945,15,3630
+Individual Electronic Communications Network Service	2946,3945,15,3630,275
 Individual Electronic Communications Network and Service	6152
 Individual Student Needs	6948
 Inexistants Ne	6959
@@ -1263,7 +1263,7 @@ Necessity	1161
 Necessity of Changing Paradigm	3112
 Necta	10196
 Ned Nwoko	8984,1395,2,310
-Nedbank	411,602,416,3032,1072,58,1693,626,673,391,392,1273
+Nedbank	411,602,416,3032,1072,58,1693,626,673,391,392,1273,160
 Nedbank Africa Regions	8974
 Nedbank Business Hub	8974
 Nedbank COO Nkuhlu	8974
@@ -1347,7 +1347,7 @@ Neil Roy	6423
 Neili Yahyaoui	2679
 Neill	771
 Neirby	3688
-Neither	31,379,234,352,53,39,124,52,21,1,250,55,58,31,61,69,129,57,136,318,673,1,413,46,131,143,297,106,41,83,1,12,15,27,214,59,401,9,125,627,177,134,335,83,295,99,150,62,226,142,85,115,47,4,27,31,28,41,126,101,198,170,151,269,24,114,11,280,86,21,74,335,147,706,25
+Neither	31,379,234,352,53,39,124,52,21,1,250,55,58,31,61,69,129,57,136,318,673,1,413,46,131,143,297,106,41,83,1,12,15,27,214,59,401,9,125,627,177,134,335,83,295,99,150,62,226,142,85,115,47,4,27,31,28,41,126,101,198,170,151,269,24,114,11,280,86,21,74,335,147,706,25,4
 Neither FMCIDE	5903
 Neither Liberia	7750
 Neither PDF	1438
@@ -1534,7 +1534,7 @@ Netservice	5767
 Netshirando	2093
 Nettoyer	747
 Netumbo Nandi-Ndaitwah	1981,2073,956
-Network	34,202,500,26,24,214,243,14,4,23,186,402,363,356,17,168,528,183,272,23,79,1,264,4,478,68,149,600,252,43,102,278,332,400,59,383,54,215,3,185,400,157,88,32,19,178,91,19,408,437,33,23,68,258,95,41,89,77,477,72
+Network	34,202,500,26,24,214,243,14,4,23,186,402,363,356,17,168,528,183,272,23,79,1,264,4,478,68,149,600,252,43,102,278,332,400,59,383,54,215,3,185,400,157,88,32,19,178,91,19,408,437,33,23,68,258,95,41,89,77,477,72,16
 Network APIs	6593
 Network APIs Commercial Open Gateway APIs	6593
 Network Access	10721
@@ -1827,7 +1827,7 @@ News. Stay	3955,220,433,224,1245,2470,106,8,26,337
 News.Az	7220
 News24	1695,284,698,139,4235
 News3	9117
-NewsCentral Media	3459,1702,441,183,91,57,35,595,1709,1497,198,628,78
+NewsCentral Media	3459,1702,441,183,91,57,35,595,1709,1497,198,628,78,124
 NewsCentral Media Follow TechCentral	6286,79,356
 NewsCentral Media Get	5050
 NewsCentral Media Namibia	5507
@@ -2263,6 +2263,7 @@ Shanghai Nenghui Technology	7456,259
 Shaping Africa's Next Growth Chapter Africa	7596
 Shared Agent Network Expansion Facilities	3735
 Shareholders Equity Addition PPE Revenue Net	1944
+Shop2Shop. Nedbank	10799
 Short-term National NEMA	7548
 Single Payments Network	6677
 Skills Negative H9	9129

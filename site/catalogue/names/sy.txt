@@ -1079,6 +1079,7 @@ Kenya Health Information System	297
 Kenya Health Information System USAID	216
 Kenya Health Management Information Systems	10641
 Kenya Intelligent Transport System	355
+Kenya Syntura	10796
 Kenya's National Logistics Management System	4153
 Kenyan Health Information Systems Interoperability	9969
 Kenya’s Faster Payments System	5124
@@ -1344,7 +1345,7 @@ National Information Systems Security Strategy	5270
 National Innovation System	5700
 National Instant Payment System	2358,854,1795,857,3912,83
 National Instant Payment System Project	5864
-National Integrated Cyber Infrastructure System	9126
+National Integrated Cyber Infrastructure System	9126,1680
 National Integrated Identity Management System	9856
 National Interoperability Standards for E-Government Systems	3861
 National Laboratory Information System	4349
@@ -1402,6 +1403,8 @@ National System for Digital Payments	3492
 National System for Healthcare-Associated Infection	4202
 National System of Innovation	5246
 National System of Innovation OA Open Access	5246
+National Treasury Safetyweb Banking System	10809
+National Treasury-owned SafetyWeb Banking System	10809
 Nations System Organizations	1243
 Navision System	34
 Navy’s Sound Surveillance System	4676
@@ -1439,6 +1442,7 @@ Nigerian Interbank Settlement Systems	5880
 Nigerian University System. Key	8710
 Nigeria’s Central Bank Launches AI-Driven System	6549
 Nigeria’s Instant Payment System	4848
+Nitro System	10798
 Nortal and Baltic Computer Systems	2910
 North Macedonia National ID System	10714
 Nvidia and Nexus Core Systems	10136

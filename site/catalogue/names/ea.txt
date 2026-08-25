@@ -177,10 +177,12 @@ Develop New Ease of Doing Business Portal	3907
 Development Office Famines Early Warning Systems	10763
 Diagnostic Network Optimization Early Infant Diagnosis	4153
 Digital Development Global Practice Eastern and Southern	1284,2278,2977
-Digital Earth Africa	345,714,8563
+Digital Earth Africa	345,714,8563,1172
 Digital Earth Africa Innovation Challenge	9561
 Digital Earth Africa Phase II DFAT	345
 Digital Earth Africa Phase III DFAT	1059
+Digital Earth Africa and AWS	10794
+Digital Earth Africa’s Coastlines Service	10794
 Digital Economy East African Community Headquarters	9707
 Digital Investment Facility EAC East African	10781
 Digitalisation for East African Trade and Integration	827
@@ -422,7 +424,7 @@ Earliest of CAR	2611
 Earliest-dated	5513
 Early	587,202,110,365,99,360,55,50,561,131,486,5,1,53,46,22,18,6,56,48,25,92,82,10,113,21,17,121,98,47,287,175,765,249,170,18,19,130,122,349,122,51,154,41,33,57,171,197,325,252,30,44,142,191,569,54,66,45,81,211,15,81,25,10,32,67,97,384,11,37,170,33,219,227,378
 Early Access	8698
-Early Bird	6971,95,5,213,98,1507,118,10,622,24,91,9,34,72,11,16,23,36,1,16,12,216,502,36,2
+Early Bird	6971,95,5,213,98,1507,118,10,622,24,91,9,34,72,11,16,23,36,1,16,12,216,502,36,2,58,3,6
 Early Childhood Care and Education	7845
 Early Childhood Care and Education Authority	7845
 Early Childhood Care and Education Authority Act	7845
@@ -457,7 +459,8 @@ Earnings Release	8607
 Earnings and Consumer Price Indices Overview	2775
 Earnings and Consumer Prices	2775
 Earnings and Consumer Prices Ethiopia	2775
-Earth	345,786,564,40,77,185,297,210,1,48,16,18,132,95,99,24,199,81,188,134,65,33,4,278,1,338,93,91,159,22,9,89,159,72,7,122,171,169,17,23,68,40,232,175,197,25,48,16,1,1,81,69,53,15,31,59,65,189,25,40,1,6,95,58,205,47,245,98,1,311,173,3,107,34,512,84,1,98,81,53,45,395,272,216,44,152,179,182
+Earth	345,786,564,40,77,185,297,210,1,48,16,18,132,95,99,24,199,81,188,134,65,33,4,278,1,338,93,91,159,22,9,89,159,72,7,122,171,169,17,23,68,40,232,175,197,25,48,16,1,1,81,69,53,15,31,59,65,189,25,40,1,6,95,58,205,47,245,98,1,311,173,3,107,34,512,84,1,98,81,53,45,395,272,216,44,152,179,182,205
+Earth Africa and AWS	10794
 Earth National Space Secretariat	1131
 Earth Observation	1131,8413
 Earth Observation Satellite FUNCTIONS	1131
@@ -490,7 +493,7 @@ Easier	2319,8445
 Easier Said Than Done	5366
 Easler	1885
 Eassy	3559
-East Africa	107,71,196,136,203,73,44,12,45,48,141,47,122,19,263,193,1,1,56,46,4,29,131,287,73,328,1,2,95,24,16,36,107,29,201,6,107,122,94,7,53,7,42,102,11,7,29,14,71,80,15,198,287,116,8,49,140,43,11,42,70,17,23,1,13,16,26,19,40,51,100,23,125,46,67,36,80,26,1,1,61,16,59,257,19,5,15,35,17,37,81,27,8,52,20,65,23,80,97,88,25,1,56,16,1,52,8,87,1,8,15,21,27,3,22,106,11,4,45,8,198,34,20,47,18,23,25,46,18,179,18,33,54,11,33,2,34,32,78,40,50,5,320,2,18,4,94,133,5,44,46,102,42,10,59,61,3,116,46,176,4,102,86,28,74,14,10,132,127,11,118,16,3,24,25,127,10,53,13,61,107,3,27,1,34,21,13,3,57
+East Africa	107,71,196,136,203,73,44,12,45,48,141,47,122,19,263,193,1,1,56,46,4,29,131,287,73,328,1,2,95,24,16,36,107,29,201,6,107,122,94,7,53,7,42,102,11,7,29,14,71,80,15,198,287,116,8,49,140,43,11,42,70,17,23,1,13,16,26,19,40,51,100,23,125,46,67,36,80,26,1,1,61,16,59,257,19,5,15,35,17,37,81,27,8,52,20,65,23,80,97,88,25,1,56,16,1,52,8,87,1,8,15,21,27,3,22,106,11,4,45,8,198,34,20,47,18,23,25,46,18,179,18,33,54,11,33,2,34,32,78,40,50,5,320,2,18,4,94,133,5,44,46,102,42,10,59,61,3,116,46,176,4,102,86,28,74,14,10,132,127,11,118,16,3,24,25,127,10,53,13,61,107,3,27,1,34,21,13,3,57,5
 East Africa BMZ	178
 East Africa Banking Industry Outlook	5883
 East Africa Breweries PLC Data Controller	7167
@@ -519,6 +522,7 @@ East Africa Pentecostal	7167
 East Africa Property Holdings	7167
 East Africa Refinery	5765
 East Africa Regional Digital Integration Project	7192
+East Africa Research and Development Centre	10796
 East Africa Retail	881
 East Africa Rwanda	8266
 East Africa Share Organisation	9679
@@ -689,7 +693,7 @@ Eastern Africa. The EAC	6096
 Eastern Africa. Through	5485
 Eastern And Southern Africa Public Disclosure	4653
 Eastern Business Kenya Markets Commentary Opinion	9646
-Eastern Cape	1289,1018,4046,577,31,553,60,444,59,769,153,968
+Eastern Cape	1289,1018,4046,577,31,553,60,444,59,769,153,968,844
 Eastern Cape By Staff Writer	8077
 Eastern Cape Department of Agriculture	7514
 Eastern Cape Department of Economic Development	6683
@@ -1136,6 +1140,7 @@ VSAT and Low Earth Orbit	10518
 Very Early Smoke Detection Apparatus	593
 Vice President and Head of East Africa	8623
 Vision Behind East Africa's Quest for Unified	8528
+Visit Digital Earth Africa	10794
 Vodacom Tanzania and Sanlam Investments East Africa	8624
 Volta and Eastern Regions	7695
 Wage Earnings	2775

@@ -28,17 +28,21 @@ AWS Economic Impact Study	1206
 AWS European Sovereign Cloud	6477
 AWS FDE	10638
 AWS GM SSA	5837
+AWS Ground Station	10794
 AWS Investment	1206
 AWS Kenya	7208
+AWS Lambda	10794
+AWS Local Zone	10798
 AWS Local Zone Orange Middle East	1729
 AWS Local Zone. Customers	1729
 AWS Local Zones	2277,910
 AWS Logos.7c8c43c2.fill-280x185.jpg	7140
 AWS Marketplace	6879
 AWS Nairobi	9849
+AWS Open Data	10794
 AWS Outpost	5837,4016,383
 AWS Outpost and Centre of Excellence	9853
-AWS Outposts	5084,541,212
+AWS Outposts	5084,541,212,4961
 AWS Partner Network	9853
 AWS Public Sector Blog	1207,1
 AWS Region	1729,4108
@@ -47,7 +51,7 @@ AWS Regional Lead	10236
 AWS Regions	1729
 AWS Shield	1719
 AWS South African	1206
-AWS Summit	1208
+AWS Summit	1208,9590
 AWS Summit Johannesburg	1208,9430
 AWS Summit Nairobi	7208
 AWS Telco	8142
@@ -57,6 +61,7 @@ AWS Wavelength Zone	1729
 AWS Wavelength Zones	1729
 AWS Wavelength Zones for North	1729
 AWS XL	6477
+AWS and Amazon Sustainability Data Initiative	10794
 AWS and Azure	2277,3141
 AWS and Cisco	3462
 AWS and Comviva	4150
@@ -73,12 +78,14 @@ AWS. OpenAI	5967
 AWS. WCX	5629
 AWS’s European	2277
 Academy Award-winning	3711
+Africa AWS Public Sector Blog Digital	10794
 Africa. AWS	9853
 African Banker Awards	9079
 African CIO Awards	6767,2889
 African Global Startup Awards	10353
 Akim Benamara F E Through the AWS	9849
 Amazon AWS	3859,3020,15
+Amazon S3 and AWS Lambda	10794
 Angola Strengthens Maritime Domain Awareness	9399
 Awa Baldé	4960,62,2035
 Awa Baldé Depuis Sa Cellule	4960,62,2035
@@ -190,6 +197,7 @@ De Chan Awuol	3442
 Description AWS	1208
 Description AWS's South Africa Economic Impact	1207
 Digital Awards Cabo Verde	2281
+Digital Earth Africa and AWS	10794
 Digital Privacy Awareness Campaign	5137
 Digital Transformation Public Sector Forum and Awards	2668
 Direct Award Grant ICT Standardisation	1458
@@ -198,6 +206,7 @@ EACO Regional Awareness	6946
 ECOWAS Startup Awards	10262
 ESG Performance Overview and Awards Executive Statements	9103
 EVALUATION AND AWARD OF THE CONTRACT	962
+Earth Africa and AWS	10794
 Educational Awareness Campaign	9394
 Efforts Awareness Activities and Partnerships	1777
 Enhance Cybersecurity Awareness	1000

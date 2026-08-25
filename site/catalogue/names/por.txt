@@ -324,7 +324,7 @@ Port Autonome de Cotonou. Organisée	6300
 Port Autonome de Douala	5291
 Port Autonome de San-Pedro	2342
 Port Community System	2392,3757
-Port Elizabeth	10323
+Port Elizabeth	10323,488
 Port Harcourt	2155,1399,375,1945,1002,190,593,1797,1286
 Port Harcourt J Hist Dipl Stud	9739
 Port Harcourt and Benin City	5874
@@ -506,7 +506,7 @@ Portugal’s Atlantic	5252
 Portugal’s Minister for State Reform	8246
 Portugal’s RD	10188
 Portuguesa	2816
-Portuguese	167,14,9,152,88,109,107,98,8,210,1983,130,393,21,64,1322,377,775,334,795,225,495,10,856,657,35,398,356,282,278,6,9,2,5,5
+Portuguese	167,14,9,152,88,109,107,98,8,210,1983,130,393,21,64,1322,377,775,334,795,225,495,10,856,657,35,398,356,282,278,6,9,2,5,5,26
 Portuguese Cooperation Center	10776
 Portuguese Health Ministry	10188
 Portuguese Ministry of Health	10188
@@ -553,6 +553,7 @@ SOFIGIB Partial Portfolio Guarantee	416
 SRM MOTOROLA DP2000e Portatif VHF	998
 SSA. Portfolio	335
 SaaS. Portfolio	2233
+Saly Portudal	10794
 Secrétariat Exécutif du Portefeuille	8750
 Sector Annual Missions Portfolio AI	7548
 Self-Reporting Evidence Portal	2445
@@ -594,6 +595,7 @@ Taxpayer’s Portal	10762
 Technical Project Portfolio Management	4528
 Technology Portals	8208,197,791
 Tenders Portal	7514,504,1658,426
+Tenders Portaloffering	10809
 Through Hormuud’s Humanitarian Portal	6723
 Trade Information Portal	8845
 TradeMark Africa and Port of Antwerp-Bruges International	10592

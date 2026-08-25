@@ -413,7 +413,7 @@ Internet Access Providers	578,5422
 Internet Hotspot Provider	3386
 Internet Providers and Subscriptions	2775
 Internet Service Provide	958
-Internet Service Provider	718,44,2151,473,1664,268,4,222,389,353,79,194,162,177,2871
+Internet Service Provider	718,44,2151,473,1664,268,4,222,389,353,79,194,162,177,2871,1042
 Internet Service Provider Association	10506
 Internet Service Provider Core Network	2913
 Internet Service Provider ITU	958
@@ -894,6 +894,7 @@ Sofala and Maputo Provincia	1526
 Software of Unknown Provenance	3651
 Somalia’s Provisional Constitution	3615
 South African Crypto Asset Service Provider	8840
+South African Internet Service Provider	10811
 South African National and Provincial Government	7759
 Southeast Sulawesi Province	7759
 Southern Province	4941,2562,2289,361

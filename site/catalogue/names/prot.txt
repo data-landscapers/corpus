@@ -184,7 +184,7 @@ Consumer Protection	940,60,243,3998,435,1264,6,602,137
 Consumer Protection Act	940,985,3940,1021,295,2062,1070,337
 Consumer Protection Act Chapter	1925
 Consumer Protection Act Regulations	5865
-Consumer Protection Commission	1925,5544
+Consumer Protection Commission	1925,5544,3338
 Consumer Protection Framework	940
 Consumer Protection and Financial Capability	940
 Contact MP Protest	7886
@@ -1239,6 +1239,7 @@ South Africa Protection Personal Williamson	9128
 South Africa's Protection of Personal Informa-	8301
 South Africa. Protests	9691
 South Africa’s Critical Infrastructure Protection Act	5161
+South Africa’s POPIA and Kenya’s Data Protection	10798
 South Africa’s Protection of Personal Information Act	5487,779,670,775
 South Sudan's Data Protection Law	3776
 Standards IPv4 Internet Protocol	6946

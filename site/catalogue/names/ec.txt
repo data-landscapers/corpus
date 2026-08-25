@@ -101,7 +101,9 @@ All Africa Digital Economy Moonshot	226
 All Economic Activities	2775
 All Economic Activities Taxes	2775
 AlphaBeta Economics for Google Cloud	1363
-Amazon EC2	1729
+Amazon EC2	1729,9065
+Amazon EC2. Customers	10798
+Amazon ECR	10794
 Amazon ECS	1729
 Ambriz Caculama Ecunha Mucaba Gambos Nancova	10765
 American Economic Review	1161,103
@@ -191,6 +193,7 @@ Botswana and Rwanda. Econet	36
 Botswana’s Economic Transformation Programme and BoFiNet	9912
 Bottom-Up Economic Transformation	1131,1644
 Bottom-Up Economic Transformation Agenda	3015,875,1220,1206,658,574,40,243,2801
+Bottom-Up Economic Transformation Agenda. Isaboke	10796
 Bottom-up Economic Organization	6946
 Bottom-up Economic Transformation Agenda	10330
 Bottom-up Economic Transformation Agenda BPO Business	6946
@@ -540,6 +543,7 @@ Digital Economy William Kabogo	9006
 Digital Economy William Kabogo Gitau	6790,3059
 Digital Economy Working Group	5044,1342
 Digital Economy Working Group. Although the DEWG	7242
+Digital Economy and AI Kenya	10805
 Digital Economy and Administration Digitalization	4215
 Digital Economy and Administration Modernisation	6969
 Digital Economy and Administration Modernisation Alhamdou Ag	4404,944
@@ -968,7 +972,7 @@ Echos Santé	8666
 Eclipse Nkasi	9739
 Eco Park	6891
 Eco Point Office Park	6891
-Eco Tweet	9724,13,3,18,183
+Eco Tweet	9724,13,3,18,183,862,5
 Eco Tweet Tagged	9961
 Eco-friendly Cloud Market Study	1264
 EcoCash	40,997,1730,249,3089,891

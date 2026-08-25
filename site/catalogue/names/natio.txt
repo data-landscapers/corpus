@@ -752,7 +752,7 @@ Eswatini’s National Data Centre	4934
 Etablissements Publics Nationaux	2808
 Ethics and Protection. United Nations Development Group	1243
 Ethiopia National ID	7065
-Ethiopia National ID Program	9415
+Ethiopia National ID Program	9415,1389
 Ethiopia National Tax and Customs Administration System	850
 Ethiopia's National Digital Payments Strategy	10193
 Ethiopia's National ID	9415
@@ -1516,7 +1516,7 @@ Nation.Africa Ready	2666,44,8,24,55,265,23,1,361,62,249,225,78,38,265,23,126,577
 Nationa	3972,2460
 Nationa9l.1DiNgiatatiloMnalrDkeigtpitlaalcMearketplace	10157
 Nationai	3972
-National	3,9,9,98,117,49,110,1,23,163,61,46,47,1,52,110,59,3,8,31,8,1,195,39,14,4,23,244,127,33,89,39,12,39,5,13,27,76,410,30,121,77,50,99,41,74,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,93,47,13,37,64,26,231,167,12,9,187,70,13,98,47,25,82,11,16,49,12,51,36,123,2,99,3,81,12,75,144,8,329,1,1,1,1,1,1,1,9,1,1,1,1,1,46,1,1,33,84,12,36,38,83,67,34,32,108,5,76,219,80,23,134,52,70,39,37,10,25,36,24,32,71,42,180,8,2,8,1,91,61,3,12,40,8,3,10,29,62,19,9,28,19,27,170,10,4,21,5,129,2,22,32,96,27,77,171,104,138,240,12,58,205,108,400,35,148,53,144,76,3,111,159,26,34,58,67,131,111,159,5,2,42,1,1,10,1,8,9
+National	3,9,9,98,117,49,110,1,23,163,61,46,47,1,52,110,59,3,8,31,8,1,195,39,14,4,23,244,127,33,89,39,12,39,5,13,27,76,410,30,121,77,50,99,41,74,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,93,47,13,37,64,26,231,167,12,9,187,70,13,98,47,25,82,11,16,49,12,51,36,123,2,99,3,81,12,75,144,8,329,1,1,1,1,1,1,1,9,1,1,1,1,1,46,1,1,33,84,12,36,38,83,67,34,32,108,5,76,219,80,23,134,52,70,39,37,10,25,36,24,32,71,42,180,8,2,8,1,91,61,3,12,40,8,3,10,29,62,19,9,28,19,27,170,10,4,21,5,129,2,22,32,96,27,77,171,104,138,240,12,58,205,108,400,35,148,53,144,76,3,111,159,26,34,58,67,131,111,159,5,2,42,1,1,10,1,8,9,1,15
 National AI	1204,610,2312,399,3,757,540,143,824,156,600,1061,1637
 National AI A- National AI	7548
 National AI A1- National AI	7548
@@ -1783,7 +1783,7 @@ National Backbone Network P34	2647
 National Backbone Network P65	5646
 National Backbone Optical Cable Network and Communication	35,9531
 National Backbone Project	4840
-National Bank	4038,3263,377,2920
+National Bank	2979,1059,3263,377,2920
 National Bank of Algeria	1343
 National Bank of Angola	6938,3830,7
 National Bank of Angola National Interbank Large-value	6938
@@ -2720,7 +2720,7 @@ National ID Numbers	1868
 National ID Paves Way for Digital	2430
 National ID Pilot Program	7322
 National ID Production Centre	10775
-National ID Program	2455,1494,2194,894,92,945,897,99,552,1087
+National ID Program	2455,524,970,2194,894,92,945,897,99,552,1087
 National ID Program ED	7037
 National ID Program and Africom Technologies PLC	7037
 National ID Programme	5267
@@ -2915,7 +2915,7 @@ National Institutes of Health	8604,1365
 National Insurance	4602
 National Insurance Commission	6938
 National Integrated Big Data Center Collaborative	5242
-National Integrated Cyber Infrastructure System	9126
+National Integrated Cyber Infrastructure System	9126,1680
 National Integrated ICT Policy White	5872
 National Integrated ICT Policy White Paper	396,1721,4715
 National Integrated Identity Management System	9856
@@ -3090,6 +3090,7 @@ National Pangolin Conservation Strategy	1154
 National Parks	1988
 National Parks and Game Reserves	2775
 National Participatory	7548
+National Partner Cloud	10798
 National Payment Council	10779
 National Payment Gateway	1995,2771
 National Payment Stack	3931,925,4896
@@ -3154,7 +3155,7 @@ National Police Command Centre	8638
 National Police Service	2775,1208,2828,55,682,1400
 National Police Service Information Management System	3320
 National Police Services	3583
-National Policy	958,1030,1871,2,829,1781,321,1688,88,2,434,1764
+National Policy	958,1030,1871,2,829,1781,321,1688,88,2,434,1764,30
 National Policy for Economic Empowerment of Citizens	5883
 National Policy for Older Persons	3005
 National Polio Vaccination Campaigns	10776
@@ -3551,15 +3552,17 @@ National Transparency Platform Modules	3430
 National Transport and Safety Authority	3983,5452,211
 National Treasuries	10022
 National Treasuries and BEAC National Directorates. About	10022
-National Treasury	396,893,457,88,4,322,147,307,128,201,72,249,240,110,100,27,148,744,160,31,36,463,210,3,1,256,129,211,18,1,114,166,156,358,112,38,44,40,320,14,18,16,59,103,124,76,108,26,520,35,1,103,61,15,4,57,106,3,56,1,121,112,128,309,111,152,104,59,20,7,184
+National Treasury	396,893,457,88,4,322,147,307,128,201,72,249,240,110,100,27,148,744,160,31,36,463,210,3,1,256,129,211,18,1,114,166,156,358,112,38,44,40,320,14,18,16,59,103,124,76,108,26,520,35,1,103,61,15,4,57,106,3,56,1,121,112,128,309,111,152,104,59,20,7,184,496
 National Treasury AI	7548
 National Treasury Date	4633
 National Treasury Director-General	3741
 National Treasury Emerging Emerging Technologies A2-Private	7548
 National Treasury Emerging Tech Market Emerging	7548
 National Treasury Health and Social Development Team	2307
+National Treasury Information	10809
 National Treasury Oversight	2307
 National Treasury PS Chris Kiptoo	10122
+National Treasury Safetyweb Banking System	10809
 National Treasury Secure Data Facility	3741
 National Treasury and Auditor-General	10313
 National Treasury and Economic Planning	1746,2406,3679,2482
@@ -3572,6 +3575,7 @@ National Treasury and Public Service Commission	3264
 National Treasury and SARB	8783,344
 National Treasury and SARS	6152
 National Treasury's Budget Review	5199
+National Treasury-owned SafetyWeb Banking System	10809
 National Treasury. Kiptoo	5537
 National Treasury. Subject	3614
 National Treasury. Telecommunications	6409
@@ -3799,6 +3803,7 @@ Ouest. L’Agence Nationale	3395
 Outgoing and Incoming Local National Telephone	3862
 Outputs Primary Secondary National Security Recurrent	1777
 Oversee the National AI	7548
+PABXs. National Treasury	10809
 PAGE The Kenya National Qualifications Framework	7832
 PART XVI AMENDMENT OF THE NATIONAL	6921
 PATNUC's National Coordinator	4562

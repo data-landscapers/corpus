@@ -35,6 +35,8 @@ AMADI ADVOCATES Data Controller INST-6282072BF30 NAIROBI	7167
 AMADI ADVOCATES Data Processor INST-6282072BF30 NAIROBI	7167
 AMAH COMPANY LIMITED Data Processor INST-432947122FC	7167
 AMAHORO COALITION LIMITED Data Controller INST-60349983692	7167
+AMAN Consumer Finance	10800
+AMAN Super App	10800
 AMANA INSURANCE BROKERS LIMITED Data Controller	7167
 AMANA VIEW HOTEL LIMITED Data Processor	7167
 AMANA VIEW HOTEL LTD Data Controller	7167
@@ -199,6 +201,7 @@ AMÉLIORATION EN	2342
 ANO Amoa Antoine	2342
 ANSS. Dr Aminata Camara	4090
 APRA AMCOS	9739
+AWS and Amazon Sustainability Data Initiative	10794
 Abdelkader AMARA Président du Conseil Economique	8891
 Abou Seydou Amouda	6252
 Accepting the American	8479
@@ -248,9 +251,11 @@ Am J Int Law	5242
 Am J Int Law Unbound	5242
 Am J Med	1219
 Am Tender Attachement ADD	7987,1
+AmCham	10805
 AmCham Ghana	7696,668
 AmCham Ghana and American Tower Corporation	8364
 AmCham Ghana’s Legal	7696
+AmCham Summit	10805
 AmLight	3840
 AmLight ExP	3840
 AmLight-SACS	3840
@@ -357,40 +362,54 @@ AmateurTransceiver Radio Operators Certificate	736
 Amaury Sport Organisation	8186
 Amazigh	3880,2,3311,102
 Amazing. Okay	560
-Amazon	767,440,1,63,92,403,511,16,17,19,88,94,3,24,14,125,85,54,10,4,176,5,1,53,46,22,18,4,58,165,16,71,5,110,41,37,67,2,10,45,147,13,22,81,146,133,99,138,41,199,20,13,154,2,35,17,8,4,1,29,75,80,3,10,115,5,41,50,11,124,20,64,18,6,37,23,35,68,11,34,19,34,172,136,135,1,9,1,24,26,6,40,4,7,55,84,2,64,12,28,75,31,19,48,25,85,50,19,14,35,109,1,19,15,64,21,210,118,70,330,3,39,372,53,190,730,99,54,98,263,504,52
+Amazon	767,440,1,63,92,403,511,16,17,19,88,94,3,24,14,125,85,54,10,4,176,5,1,53,46,22,18,4,58,165,16,71,5,110,41,37,67,2,10,45,147,13,22,81,146,133,99,138,41,199,20,13,154,2,35,17,8,4,1,29,75,80,3,10,115,5,41,50,11,124,20,64,18,6,37,23,35,68,11,34,19,34,172,136,135,1,9,1,24,26,6,40,4,7,55,84,2,64,12,28,75,31,19,48,25,85,50,19,14,35,109,1,19,15,64,21,210,118,70,330,3,39,372,53,190,730,99,54,98,263,504,52,209
 Amazon AWS	3859,3020,15
 Amazon Amazon Alibaba Amazon Amazon Amazon	6477
 Amazon Bedrock	5967,2175,2047
 Amazon CEO Andy Jassy	5967
 Amazon CloudFront	1719
+Amazon Cognito	10794
 Amazon Connect	10534
 Amazon Cyril Ramaphosa	7079
 Amazon EBS	1729
-Amazon EC2	1729
+Amazon EC2	1729,9065
+Amazon EC2. Customers	10798
+Amazon ECR	10794
 Amazon ECS	1729
-Amazon EKS	1729
+Amazon EKS	1729,9065
 Amazon EMR and Application Load Balancer	1729
 Amazon Elastic Block Store	1729
-Amazon Elastic Compute Cloud	1729
+Amazon Elastic Compute Cloud	1729,9065
+Amazon Elastic Container Registry	10794
 Amazon Elastic Container Service	1729
-Amazon Elastic Kubernetes Service	1729
+Amazon Elastic Kubernetes Service	1729,9065
+Amazon Elastic Kubernetes Services	10794
+Amazon GuardDuty	10794
 Amazon Kindle	1984
 Amazon Kuiper	5158,522,1638,3088
 Amazon Kuiper Kenya Limited	10588
 Amazon Kuiper Nigeria Limited	5212
 Amazon Kuiper. Participants	5158
 Amazon LEO	4990
-Amazon Leo	4623,1143,1128,4,153,252,15,64,749,2457
+Amazon Leo	4623,1143,1128,4,153,252,15,64,749,2457,209
 Amazon Leo Huawei	5908,442
 Amazon Leo and Herotel	7303
 Amazon Leo and Starlink	7382
 Amazon Prime	5908,442,2596
 Amazon Prime Video and Disney	5802
 Amazon Quick and Amazon Kiro	8142
-Amazon RDS	10505
-Amazon Simple Storage Service	9123
+Amazon RDS	10505,289
+Amazon Relational Database Service	10794
+Amazon S3	10794
+Amazon S3 and AWS Lambda	10794
+Amazon SNS	10794
+Amazon SNS and Amazon SQS	10794
+Amazon SQS	10794
+Amazon Simple Notification Service	10794
+Amazon Simple Queue Service	10794
+Amazon Simple Storage Service	9123,1671
 Amazon Web	1245
-Amazon Web Services	1729,114,314,659,168,202,46,209,21,21,71,368,204,899,4,55,77,464,75,137,96,34,299,145,60,6,190,124,88,177,10,13,37,57,36,109,49,181,238,15,341,557,60,162,928,4,95,1,66,32,189,402
+Amazon Web Services	1729,114,314,659,168,202,46,209,21,21,71,368,204,899,4,55,77,464,75,137,96,34,299,145,60,6,190,124,88,177,10,13,37,57,36,109,49,181,238,15,341,557,60,162,928,4,95,1,66,32,189,402,156,4
 Amazon Web Services Inc	5837
 Amazon Web Services South Africa	7210
 Amazon Web Services and Canal Plus	3264
@@ -405,6 +424,7 @@ Amazon-backed	4632
 Amazon-like	767
 Amazon. Ces	10700
 Amazon. Pendant la COVID	2514
+Amazon. We’re	10797
 Amazon.com Inc	6471
 Amazons	9769
 Amazon’s Algorithmic Rents	5700
@@ -620,7 +640,7 @@ America-First	4447
 America-First-Global-Health-Strategy-Report.pdf	4426,2508
 America-India Connect	5122,2243,1,1333
 America. Yet Nigeria	6266
-American	571,420,47,985,73,271,159,214,129,132,74,38,21,98,376,18,180,68,175,83,21,12,2,35,15,41,1,86,7,74,21,25,197,77,58,157,74,7,32,10,40,24,14,54,8,18,15,45,9,41,14,199,180,27,1,64,63,101,230,19,12,64,84,61,6,13,27,34,31,22,63,65,58,89,29,21,245,35,47,87,1,86,41,108,171,1,106,269,8,72,141,1,45,25,61,16,15,170,12,198,14,17,55,31,8,12,92,50,60,34,21,203,9,97,66,80,308,21,20,58,31,24,229,3,13,5,38,16,22,32,234
+American	571,420,47,985,73,271,159,214,129,132,74,38,21,98,376,18,180,68,175,83,21,12,2,35,15,41,1,86,7,74,21,25,197,77,58,157,74,7,32,10,40,24,14,54,8,18,15,45,9,41,14,199,180,27,1,64,63,101,230,19,12,64,84,61,6,13,27,34,31,22,63,65,58,89,29,21,245,35,47,87,1,86,41,108,171,1,106,269,8,72,141,1,45,25,61,16,15,170,12,198,14,17,55,31,8,12,92,50,60,34,21,203,9,97,66,80,308,21,20,58,31,24,229,3,13,5,38,16,22,32,234,12
 American AI	5216,41,516,1017,277,142,805,333,148,15,505,248,366,801,97
 American AI Exports Program	5216,41,516,1017,277,142,1286,2032
 American AI Exports Program. Applicants	7067
@@ -633,7 +653,7 @@ American Bar Association	2546
 American Behavioral Scientist	2096
 American Big Tech	5366
 American Big Tech. Well	6517
-American Chamber of Commerce	7537,159,84
+American Chamber of Commerce	7537,159,84,3025
 American Corner	6695,2926
 American Corner Maseru	6695
 American DFC	560
@@ -728,6 +748,7 @@ Amharic and Afan Oromo	1219
 Amharic-language	4766
 Amharic. Google Translate	5302
 AmharicNews	10025
+Amherst	10794
 Amicus Curiae	3572
 Amid Gradual Diversification Sales	4972
 Amidou Baba-Moussa	766
@@ -819,7 +840,7 @@ Amofia Nara	6211
 Amon Magunje	10418
 Amonai Medical Clinic Data Controller INST-432992369F9	7167
 Amonestación	163
-Among	418,164,136,243,8,274,18,293,132,128,11,3,75,37,48,276,18,37,128,54,56,20,91,92,15,7,143,126,57,72,52,67,24,21,137,12,64,26,18,3,98,11,38,101,9,67,139,11,7,35,7,23,194,201,16,33,82,24,131,17,167,21,89,19,100,2,1,65,9,42,148,53,19,383,71,35,75,54,11,19,42,1,60,59,118,272,6,11,6,17,32,91,126,121,56,90,45,45,18,29,36,49,63,67,50,44,17,31,36,15,2,36,17,23,21,9,29,1,3,110,155,11,57,9,32,59,2,10,7,5,39,29,24,89,5,9,10,17,97,142,2,3,12,3,15,29,15,116,18,84,210,9,28,5,124,8,24,2,57,194,34,24,21,21,46,8,21,92,13,124,41,37,1,22,54,109,149,11,34,2,10,5
+Among	418,164,136,243,8,274,18,293,132,128,11,3,75,37,48,276,18,37,128,54,56,20,91,92,15,7,143,126,57,72,52,67,24,21,137,12,64,26,18,3,98,11,38,101,9,67,139,11,7,35,7,23,194,201,16,33,82,24,131,17,167,21,89,19,100,2,1,65,9,42,148,53,19,383,71,35,75,54,11,19,42,1,60,59,118,272,6,11,6,17,32,91,126,121,56,90,45,45,18,29,36,49,63,67,50,44,17,31,36,15,2,36,17,23,21,9,29,1,3,110,155,11,57,9,32,59,2,10,7,5,39,29,24,89,5,9,10,17,97,142,2,3,12,3,15,29,15,116,18,84,210,9,28,5,124,8,24,2,57,194,34,24,21,21,46,8,21,92,13,124,41,37,1,22,54,109,149,11,34,2,10,5,21
 Among CQC	9698
 Among Cheapest Currencies In The World	5390,965,827
 Among Esther	7567
@@ -1776,6 +1797,7 @@ South Sudan's Ambassador	3583
 Special Economic Zones Amendment Bill and Technopolis	6161
 Stability Amid Global Contraction	4972
 Starlink and Amazon	10673
+Starlink and Amazon Leo Cell C	10797
 States of America	4302
 Stephane Boyera and Aman Grewal	769
 Study Ranks Rwanda Among Africa’s	3256

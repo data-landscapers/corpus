@@ -80,7 +80,7 @@ Environmental Ethics and Defensive Sovereignty	8629
 Era of Ethiopia’s Digital Sovereignty and Inclusive	8920
 European AI Sovereignty	6879
 European Commissioner for Tech Sovereignty	5487,981
-European Sovereign Cloud	6471
+European Sovereign Cloud	6471,4327
 European Tech Sovereignty	6468
 European Technological Sovereignty Package	6468,19
 European Technology Sovereignty Package	10088
@@ -180,7 +180,8 @@ Sovereign Infrastructure Development	4755
 Sovereign Innovation	9117
 Sovereign Intelligence	6955
 Sovereign National Cloud	5403
-Sovereign Public Cloud	6299
+Sovereign Private Cloud	10798
+Sovereign Public Cloud	6299,4499
 Sovereign Tech Stack	4259,2186,1026
 Sovereign Technological Infrastructure	3235
 Sovereign Wealth Fund	4535

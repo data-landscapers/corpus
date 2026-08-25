@@ -328,7 +328,7 @@ ICAO's Policies	10723
 ICAO-compliant	320,3483,20,545
 ICAO-standard	2796
 ICAR-ADE	1368
-ICASA	926,31,446,206,201,2,757,375,2,318,980,488,328,115,6,11,406,126,61,23,64,180,100,31,284,358,7,74,145,267,105,333,68,3,1,22,130,109,41,1,30,12,62,163,37,482,775,844,53,140,15
+ICASA	926,31,446,206,201,2,757,375,2,318,980,488,328,115,6,11,406,126,61,23,64,180,100,31,284,358,7,74,145,267,105,333,68,3,1,22,130,109,41,1,30,12,62,163,37,482,775,844,53,140,15,67
 ICASA Act	4732,1140,1952
 ICASA Auction MTN Group	926
 ICASA Auction Vodacom	957
@@ -450,7 +450,7 @@ ICT Board	2913,4635
 ICT CFT	899
 ICT CHAMBER	1204
 ICT Cabinet Secretary Eliud Owalo	3983
-ICT Cabinet Secretary William Kabogo	8091
+ICT Cabinet Secretary William Kabogo	8091,2714
 ICT Capacity Development	4483,2,6
 ICT Challenges	958
 ICT Challenges In Zimbabwe	958
@@ -826,12 +826,13 @@ ITU ICT-DF CHF	689
 ITU and ICPC	5950
 ITU’s Global Cybersecurity Index Penetration of ICT	6946
 Icann	2815
-Icasa	1695,1242,1305,808,457,95,10,173,148,218,32,182,194,339,405,870,99,329,67,173,928,826,149
+Icasa	1695,1242,1305,808,457,95,10,173,148,218,32,182,194,339,405,870,99,329,67,173,928,826,149,53
 Icasa Act	2937
 Icasa BEE	4242
 Icasa CEO Tshiamo Maluleka-Disemelo	5050
 Icasa South African	4110
 Icasa's End-User and Subscriber Service Charter Amendment	8841
+Icasa. Vodacom Group	10797
 IcasaSePush	2937
 IcasaSePush. Second	2937
 Icc Credentials Production	10775
@@ -1340,7 +1341,7 @@ Telone Join ICANN and INTERPOL for DNS Security	6909
 Thomas Linder Research ICT Africa	6512
 Through ICTs	21
 Tier III. ICT	1889
-Top ICT	7514,504
+Top ICT	7514,504,2791
 Trade Finance. ICC and Boston Consulting Group	10718
 Train ICT	1000
 Transport and ICT	5851

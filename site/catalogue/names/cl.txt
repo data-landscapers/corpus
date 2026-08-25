@@ -112,7 +112,7 @@ Alibaba Cloud	1740,2119,4418,448
 All Confidential and Classified	3861
 AlphaBeta Economics for Google Cloud	1363
 Amazon CloudFront	1719
-Amazon Elastic Compute Cloud	1729
+Amazon Elastic Compute Cloud	1729,9065
 Amazon Web Services and Cloudflare	7209
 Amazon’s Elastic Compute Cloud	9123
 Ambassador Claudia Patricia Mosquera Rosero	6963
@@ -159,6 +159,7 @@ Automated Clearing House	2358,1299,22,26
 Automated Clearing House Related Indicator	7221
 Automated Clearing House of Angola	6938
 Automating for End-to-End Claims Processing Whitepaper	9237
+Avec Clea	10803
 Azure and Google Cloud	7173
 Azure for Google Cloud for AWS	6667
 Ação Climática	1265
@@ -999,7 +1000,7 @@ Closer	5175,2192
 Closer Look	1828,3579,676,1505
 Closes	3228,34,677,3026
 Closes Roads	9989
-Closing	543,1161,124,693,69,590,249,353,464,122,195,430,248,101,521,50,208,50,167,201,40,14,121,76,42,34,210,294,144,65,27,49,131,88,2,237,58,179,363,449,44,260,210,22,127,1,262,14,86,136,296,94,4,17,40,18
+Closing	543,1161,124,693,69,590,249,353,464,122,195,430,248,101,521,50,208,50,167,201,40,14,121,76,42,34,210,294,144,65,27,49,131,88,2,237,58,179,363,449,44,260,210,22,127,1,262,14,86,136,296,94,4,17,40,18,16
 Closing Argument	6968
 Closing Civic Space	1250
 Closing Date	2473,3832,2421,2053
@@ -1337,6 +1338,7 @@ DRC Moves Closer	2385
 DRC Tax Claims Loom Over U.S.-Backed	5407,676
 DUMORA MEDICAL CLINIC Data Controller INST-161563051F8	7167
 DYNAMIC DEELAND CLINIC Data Controller INST-499267959E3	7167
+Data Boundary and Google Distributed Cloud	10798
 Data Breach Hacker Claims	3279
 Data Capturer Clerks	8639
 Data Capturer Ward Clerk Administration Manager	8603
@@ -1352,7 +1354,7 @@ Data Classification and Residency Details System	6432
 Data Classifications. All	6432
 Data Privacy Clubs	5137
 Data Residence Cloud	10140
-Data and Cloud	2117,1742,2612
+Data and Cloud	2117,1742,2612,4327
 Data and Cloud Policy	2117,3125
 Data and Cloud Strategy	1912
 Date Closing Period Month	6579,349
@@ -1459,7 +1461,7 @@ Ethiopia Approves Close	3211
 Ethiopian Clinics	5599
 Europe CLVI	6477
 European Open Science Cloud	3861,3452
-European Sovereign Cloud	6471
+European Sovereign Cloud	6471,4327
 Evidence and CLOUD Act	10088
 Excellence Cloud	3857
 Exit Clause	6432
@@ -1529,7 +1531,7 @@ GmbH Human Asset Clouds&Training Inetum España	8530
 Golden Clinic Complexes	5317
 Good Clinical Practice	7845
 Google Classroom	6748
-Google Cloud	1267,96,227,46,90,13,471,82,334,51,139,341,279,118,65,64,176,260,7,133,175,3,56,1,706,56,479,1,1,109,62,324,18,17,83,121,6,29,161,124,88,30,21,1,4,70,25,36,107,298,1173,839
+Google Cloud	1267,96,227,46,90,13,471,82,334,51,139,341,279,118,65,64,176,260,7,133,175,3,56,1,706,56,479,1,1,109,62,324,18,17,83,121,6,29,161,124,88,30,21,1,4,70,25,36,107,298,1173,839,1315
 Google Cloud CEO Thomas Kurian	2025
 Google Cloud Credits	674
 Google Cloud Credits. African	5302
@@ -1616,7 +1618,7 @@ Hospitals Clinics Laboratories Other Major	8605
 Hospitals and Clinics	8677
 House Approves Close	1798
 House of Commons Library. Clark	5675
-Huawei Cloud	376,2440,805,238,2794,1326
+Huawei Cloud	376,2440,805,238,2794,1326,2819
 Huawei Cloud FinTech Summit	6653
 Huawei Cloud SSA	376
 Huawei Cloud South Africa	376
@@ -1864,6 +1866,7 @@ National Framework for Climate Transparency	3431
 National Framework for Climate Transparency for Senegal	3430
 National Government Expenditure Classification	2775
 National Interoperability Use Cli	1009
+National Partner Cloud	10798
 National Sovereign Cloud	5297,14,1356,3086,200
 National Sovereign Cloud Initiative	8986,132,455,98,753,257
 NetOne Joins Govt’s Mega Clean-Up	3003
@@ -1951,6 +1954,7 @@ Policy Clauses Implementation Guidelines Actor Requirements	6432
 Policy for Mozambique Client	3058
 Policy. NATIONAL DIGITAL CLOUD POLICY ACRONYM	10157
 Post Recent Posts Climate	9682
+Postbank.co.za Closing	10809
 Potsdam Institute for Climate Impact Research	520
 Pour le Club	5260
 Pour le Pr Armand Claude Abanda	8906
@@ -2094,7 +2098,8 @@ Sovereign Government Cloud	4281
 Sovereign Government Cloud Governance Committee	10157
 Sovereign Government Cloud for Cameroon	4171
 Sovereign National Cloud	5403
-Sovereign Public Cloud	6299
+Sovereign Private Cloud	10798
+Sovereign Public Cloud	6299,4499
 Standard Contractual Clauses	5244
 Standards for Cloud Service Providers	6432
 Starlink Close Menu Get	5933
@@ -2166,6 +2171,7 @@ Transition Brigadier General Brice Clotaire Oligui	1754,19
 Transition and Clean	10157
 Transitional Clause	7832
 Transport CLIMATE Climate Change and Disaster Screening	1867
+Treasury.gov.za Closing	10809
 Tuberculosis Angola Profiles Claudia Robbiati View	10784
 Turnkey Verifiable Cloud	4716
 Tx Emission Class	736

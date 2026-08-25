@@ -1078,7 +1078,7 @@ National Police Command Centre	8638
 National Police Service	2775,1208,2828,55,682,1400
 National Police Service Information Management System	3320
 National Police Services	3583
-National Policy	958,1030,1871,2,829,1781,321,1688,88,2,434,1764
+National Policy	958,1030,1871,2,829,1781,321,1688,88,2,434,1764,30
 National Policy for Economic Empowerment of Citizens	5883
 National Policy for Older Persons	3005
 National Polio Vaccination Campaigns	10776
@@ -1612,6 +1612,7 @@ Pollution	1988,6903
 Pollution Prevention and Management	1988
 Pollution Prevention and Management The Borrower	1988
 Pollutions	8673
+Polmed and Wits University	10806
 Pologne	6613,1047
 Polokwane	8604
 Polonia LEMIESZEWSKA	6613
@@ -1934,7 +1935,7 @@ South Africa School for Digital Policy	8161
 South Africa's Draft National AI Policy	6189
 South Africa's National Open Science Policy	5246
 South African Human Rights Commission's Policy	10453
-South African Police Service	2117,509,599,2098,210,1538,25,1258,543,1442
+South African Police Service	2117,509,599,2098,210,1538,25,1258,543,1442,467
 South African Police Services	8600,179
 South Africa’s Draft AI Policy	6041
 South Africa’s Draft National AI Policy	5914

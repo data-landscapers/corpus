@@ -69,6 +69,7 @@ Azure	411,627,805,681,1,630,1104,431,471,39,282,147,164,174,265,200,39,196,399,1
 Azure Databricks	6232
 Azure East Africa and West Africa	6266
 Azure Johannesburg	5200
+Azure Local	10798
 Azure Orbital	1038
 Azure SQL	6432
 Azure South Africa North	2524

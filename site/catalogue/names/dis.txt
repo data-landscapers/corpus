@@ -400,6 +400,7 @@ DUNGICHA DISPENSARY Data Controller INST-4476481FD51 KILIFI	7167
 DUNGICHA DISPENSARY Data Processor INST-4476481FD51 KILIFI	7167
 DZIKUNZE DISPENSARY Data Controller INST-1714197C87E KILIFI	7167
 DZIKUNZE DISPENSARY Data Processor INST-1714197C87E KILIFI	7167
+Data Boundary and Google Distributed Cloud	10798
 Data Dissemination	196
 Data Dissemination and Use	1261
 Data Protection Act DSM Dispute Settlement	1243
@@ -569,7 +570,7 @@ Disclosable Restructuring Paper	772,1298
 Disclosable Version	1331
 Disclose	6432,3975
 Disclose Beneficial Owners	6698
-Disclosed	449,4427,935,9,3622,778,573
+Disclosed	449,4427,935,9,3622,778,573,6
 Disclosed Data	8436
 Disclosed Not Disclosed	4972
 Disclosing	3,7365
@@ -816,6 +817,7 @@ Distribuer	3396
 Distribuição	2138,728,7881,10,3,6,6,5
 Distribuição da Rede Bancária	10775
 Distributed	1686,1121,2089,10,164,607,561,553,757,1057,518,1644
+Distributed Active Archive Center	10794
 Distributed Antenna System	718
 Distributed Cloud	4434
 Distributed Cloud Partner Validation Guide	4434

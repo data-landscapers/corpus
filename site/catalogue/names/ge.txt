@@ -1252,7 +1252,7 @@ General Jurisdicción Militar Secretario General Ministerio	4209
 General Laws	4633
 General Leopoldino Fragoso	2543
 General Madey Nureey Ufurow. Opening	10701
-General Manager	1742,2063,1444,560,128,669,933,2751,127,42
+General Manager	1742,2063,1444,560,128,669,933,2751,127,42,341
 General Manager Sales and Services Lebohang Ramaisa	3258
 General Manager and Secretariat	3513
 General Manager for Africa	3409
@@ -1509,7 +1509,7 @@ Geoforum	9739
 Geofísica	13,10755
 Geografia	414
 Geografia da Conectividade Até	9559
-Geographic	11,546,1539,1508,183,2639,322,84,3325,606,5
+Geographic	11,546,1539,1508,183,2639,322,84,3325,606,5,31
 Geographic Coverage of Western Cape Region	8999
 Geographic Distribution and National Resilience In Nigeria	10157
 Geographic Focus REGIONAL PROFILE	4972
@@ -1531,7 +1531,7 @@ Geographical Discrimination	226
 Geographical Information System GSMA	958
 Geographical Information Systems	10662
 Geographical Names Register	4214
-Geographically	4863,20,3082,2310,76
+Geographically	4863,20,3082,2310,76,448
 Geography	6051,1914,1541,41,641
 Geojson	1187,797
 Geologia	1265
@@ -1684,7 +1684,7 @@ German-Swedish	9632
 German-backed	8266
 Germano Marques da Silva	9176
 Germanwatch	8891
-Germany	402,118,40,229,181,66,174,40,617,36,193,530,76,1,72,387,22,1,181,60,157,204,641,97,92,225,48,82,57,13,118,42,100,26,235,309,61,538,6,40,1,24,71,112,124,82,181,114,16,36,324,77,52,63,127,45,310,70,30,316,535,325,155,108,17,8,250,21,2,60,354,187,67,4
+Germany	402,118,40,229,181,66,174,40,617,36,193,530,76,1,72,387,22,1,181,60,157,204,641,97,92,225,48,82,57,13,118,42,100,26,235,309,61,538,6,40,1,24,71,112,124,82,181,114,16,36,324,77,52,63,127,45,310,70,30,316,535,325,155,108,17,8,250,21,2,60,354,187,67,4,14
 Germany BAMF	4842
 Germany Civil Registry	10714
 Germany Consortium Veridos. Uganda Security Printing	1282
@@ -1840,7 +1840,7 @@ Getachew	3820
 Getesa Money	6323
 Gets Harder	6947
 Gets Selected	6947
-Getting	961,3003,468,538,1104,873,113,384,345,391,547,130,41,213,537,324,21,82,598
+Getting	961,2018,985,468,538,1104,873,113,384,345,391,547,130,41,213,537,324,21,82,598
 Getting Eswatini	5799
 Getting It Right	8088
 Getting Serious About	5700
@@ -2397,6 +2397,7 @@ Partners Attorney General	7548
 Partners General	7548
 Passport and Immigration Maj. Gen. Simon Majur	2023
 Paweł Gesek	6423
+Pay Master General	10809
 Pay... Get	5691
 Paymaster General	6921,2571
 Performance Indicator Responsible Person Gender	1988

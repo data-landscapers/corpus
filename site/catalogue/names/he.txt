@@ -1178,7 +1178,7 @@ Headteachers and Deputy Headteachers	899
 Heal Psychol Behav Med	8376
 Heale	7278
 Heallh REPUBLIC OF SOUTH AFRICA	1009
-Health	3,18,6,7,7,354,1,135,40,58,101,36,5,126,61,12,2,5,32,152,51,7,9,33,293,100,124,32,8,6,4,39,10,111,319,166,116,15,22,52,31,61,5,182,15,86,72,113,142,198,21,47,39,31,70,70,42,223,27,1,10,3,50,84,1,47,73,4,102,146,1,90,17,140,89,130,21,63,57,96,155,122,170,86,64,231,6,21,163,27,97,19,55,57,143,152,258,109,168,57,10,76,38,45,24,78,27,300,122,43,75,7,96,124,1,1,8,23,16,14,301,100,362,15,34,58,225,94,24,55,10,461,236,118,6,10,1,4
+Health	3,18,6,7,7,354,1,135,40,58,101,36,5,126,61,12,2,5,32,152,51,7,9,33,293,100,124,32,8,6,4,39,10,111,319,166,116,15,22,52,31,61,5,182,15,86,72,113,142,198,21,47,39,31,70,70,42,223,27,1,10,3,50,84,1,47,73,4,102,146,1,90,17,140,89,130,21,63,57,96,155,122,170,86,64,231,6,21,163,27,97,19,55,57,143,152,258,109,168,57,10,76,38,45,24,78,27,300,122,43,75,7,96,124,1,1,8,23,16,14,301,100,362,15,34,58,225,94,24,55,10,461,236,118,6,10,1,4,21
 Health AI	6233
 Health AI Governance Workshop	9784
 Health Act	5456,4399
@@ -1830,7 +1830,7 @@ Hernídia Tavares	5509
 Heroes Of The Sahel	3395
 Heroes and Defence Forces	9394
 Heroes and Defence Forces Road Safety Enforcement	9394
-Herotel	6894,409,15,64,41,612,1,95,3,2402,52
+Herotel	6894,409,15,64,41,612,1,95,3,2402,52,209
 Herotel CEO	7318
 Herotel CEO Van Zyl Botha	7303,79
 Herotel. Amazon	7318
@@ -2437,6 +2437,7 @@ Niltional Department of Health	1009
 Noble and Heale	7278
 Nobody Being Held Accountable	7055
 Noel Henjewele Mkuu	5090
+Non-exclusive Herotel	10797
 North Africa’s Digital Health Push Tunisia	7766
 NotifyLogistics Waweru and Hellen Nderitu	10464
 Notional Digital Health Strategy for South Africa	1009
