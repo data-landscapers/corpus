@@ -1,6 +1,7 @@
 ANRT. The GSMA	9868
 APIs. The GSB	2112
 Aayushya Ranjan GSMA	2334
+About GSMA Connected Women The GSMA	11003
 Authority GSS Ghana Statistical Service GVA	236
 Authorization Fee GSO	10407
 BAOFANG UV-9RPlus GSP-BAO-UV5-ARCEP- Conforme VITAL SECURITE	998
@@ -43,7 +44,7 @@ GSI Guidelines	4848
 GSIE TECHNOLOGIE C	998
 GSIMT Switch	6938
 GSM Active Voice Subscriptions	3862
-GSM Association	1228,2676,2877,34,4004,22
+GSM Association	1228,2676,2877,34,4004,22,136
 GSM Association Introduction Benin Ghana Digital	10822
 GSM Association Official Document FS.31 CM	10721
 GSM FIXED ISP VAS C&I OTHERS	3862
@@ -63,8 +64,13 @@ GSMA Africa	7793,157,100,191,2287
 GSMA AgriTech Innovation Fund	10856
 GSMA Building Digital Ecosystems	5241
 GSMA Caroline Mbugua	10856
-GSMA Connected Women	1169
-GSMA Consumer Survey	5232
+GSMA Connected	11004
+GSMA Connected Women	1169,9835,13
+GSMA Connected Women Commitment Initiative	11003
+GSMA Connected Women Partnership	11004
+GSMA Connected Women The GSMA Connected	11017
+GSMA Consumer Survey	5232,5772
+GSMA Consumer Surveys	11004
 GSMA Contents	10856
 GSMA Contents Executive	6593
 GSMA Contributor	10822
@@ -81,9 +87,9 @@ GSMA GSM Association HPC High-Performance Computing	7548
 GSMA GSMA The GSMA	10856
 GSMA Handset Affordability Coalition	6593
 GSMA Handset Ethiopia	6593
-GSMA Head Office	6593
+GSMA Head Office	6593,4411,13
 GSMA Head Office One Angel Lane	10856
-GSMA Intelligence	1623,858,1,4,4,1,1,1,1,1,2,1,5,1,1,1,1402,3,1,1,4,1,1,1,1755,918,239,54,461,226,452,2047,750,34,3,73
+GSMA Intelligence	1623,858,1,4,4,1,1,1,1,1,2,1,5,1,1,1,1402,3,1,1,4,1,1,1,1755,918,239,54,461,226,452,2047,750,34,3,73,72
 GSMA Intelligence Connectivity	6593
 GSMA Intelligence Enterprise	6593
 GSMA Intelligence Figure	10856
@@ -102,13 +108,19 @@ GSMA Mobile Data for Humanitarian Action.pdf	6024
 GSMA Mobile Economy Africa	6714
 GSMA Mobile Economy SSA	10856
 GSMA Mobile Industry Leadership	214
+GSMA Mobile Internet Skills Training Toolkit	11004,13
+GSMA Mobile Internet Skills Training Toolkit.45	11004
 GSMA Mobile Money	5820
 GSMA Mobile Money API	2633
 GSMA Mobile Money API Compliant	2633
 GSMA Mobile Money Certification	3463
 GSMA Mobile Money Data	5232
+GSMA Mobile Money Deployment Tracker	10977
 GSMA Mobile Money Program	66,306
 GSMA Mobile for Development	719,505,5662,2186,1750
+GSMA Mobile for Development Blog	11004
+GSMA Mobile for Development Blog. The Mobile	11004
+GSMA Mobile for Development Foundation	11003
 GSMA Mobile for Development Foundation Inc	66
 GSMA Mobile for Development. SSA	719
 GSMA Mobile for Humanitarian	195
@@ -120,6 +132,7 @@ GSMA Open Gateway APIs	5820
 GSMA Open Gateway APIs Revenues	6593
 GSMA Philippe Goabga	10856
 GSMA Press Office	7825
+GSMA RESPONDENTS FROM Updated	11004
 GSMA Report	7548
 GSMA Report Finds	6781
 GSMA Report Highlights Digitalisation's Role	2334
@@ -157,6 +170,7 @@ GSMA. GSMA Mobile Economy Report	5675
 GSMA. Le Mozambique	7737
 GSMA. Longtemps	5891
 GSMA. Mobile Infrastructure Sharing	5675
+GSMA. Organisations	11017
 GSMA. QoS	10856
 GSMA. Road	5675
 GSMA. Supports	1169
@@ -191,10 +205,15 @@ GSS Trade Statistics Section Naa Amerley	236
 GSSRS	7659
 GSU Chief Executive Officer and Managing Director	4934
 GSX’s Karamoja and CBDC	5743
+GSdfiN’na	10965
+GSfH3	10965
 GSmartphoneSomaliaRead	6723
+Gates Foundation. About the GSMA The GSMA	11003
+Gates GSMA Intelligence	11004
 Geographical Information System GSMA	958
 Ghana. GSMA	10819
 Gsenger and Strle	8283
+Gseocvoenrndmareyn	10969
 ICOM UV-5R GSP-ICO-ICF-ARCEP- VHF	998
 IDAS Pilot. GSMA	10819
 IMEIs. A GSMA	8941
@@ -213,6 +232,7 @@ MOTOROLA MT-777R MT-777R GSP-MOT-MT7-ARCEP- Ministère	998
 Malawi GSMA	10819
 Market Share of Mobile GSM Operators	3862
 Mbugua. The GSMA	6156
+Media Contact GSMA Press Office	11003
 Mins Read The GSMA	8552
 MoF GSB	2112
 Mobile GSM	3862
@@ -225,6 +245,8 @@ NCA and GSS	236
 NCA and GSS. Any	236
 Nigeria. GSMA	10819
 POD FDA FBO FTE GHS GS	4153
+Previous GSMA	11004
+Prosperity The GSMA Connected Women	11004
 RSS Dark Mode A GSMA	3463
 Recent GSMA	9349
 Reference Gsenger and Strle2021	8283

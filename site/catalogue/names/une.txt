@@ -1,4 +1,4 @@
-AFR Afrobarometer UNESCO United Nations Educational	10835,3
+AFR Afrobarometer UNESCO United Nations Educational	10835,3,130
 AI Strategies. UNESCO	2816
 AI. UNESCO	7841
 AI. UNESCO's Recommendation	5036
@@ -22,15 +22,19 @@ Bank Smart Africa Unesco African Union	9886
 Bosun Tijani. Une	9993
 Burkina Faso Une	3396
 Bénin. Une	5512,2707
+CAMPOST. Une	10965
 CETIC.br and UNESCO	8043
 CFA. Une	10546
 CGI Une	10858
 CIL. Une	10821
+CIPESA and UNESCO Partner	11011
 CONOMIQUE ET FINANCIÈRE UNE GESTION AMÉLIORÉE	2342
 CONOMIQUE ET FINANCIÈRE Une	2342
 COVID-19. Une	643
 CR5 UNECA	10819
+Cameroun. Une	10965
 Carlton. Une	4262
+Cas De La Distribution D’Électricité Une	11034
 Casamance. Une	4899
 Centrafrique Une	1806
 Chaire UNESCO ACCES-TIC	8906
@@ -57,6 +61,7 @@ Economic and Social Affairs UNESCO United Nations	10759,78
 Environnemental Une	8891
 Estados Membros da UNESCO	2816
 Etat-civil. Une	5530
+Etat. Une	10965
 Etats-Unis. Une	2808
 FCFA. Une	3789
 Finances. Une	1837
@@ -64,9 +69,11 @@ Foundation and UNESCO	5618
 GDP. UNECA	10819
 Gabon. Une	3311
 General Adjunto C. Nac. UNESCO Jefe	4209
+Ghana Unemployed	11004
 Gnoumou Hikoti. Une	3856
 Government of South Sudan and UNESCO	3583
 Gratien Zanhounkpèvi. Une	2697
+Guatemala Unemployed	11004
 H100''. Une	3100
 Habitation UNESCO	10847
 Hamado Bambara. Une	2665
@@ -84,6 +91,7 @@ Inteligência Artificial da UNESCO	2816
 Internet. Une	2384,7134
 Inuwa Sanni. Uneven AI	9642
 Kenya. UNESCO	899
+LA UNE SITE	11123
 LAISSER UNE RÉPONSE Supprimer	3658,2617,145,3959
 LEO Une	5040
 LETTRES DE MISSIONS UNE ACCÉLÉRATION	2342
@@ -112,6 +120,7 @@ Nigeria’s Uneven Progress Nigeria	9206
 OBR. Une	9175
 OECD Unemployment Rate	2775
 Open Data Une	1984
+Opérateur. Une	10975
 Ouagadougou Une	10858
 Ouaka. Une	2366
 P03182023.pdf UNESCO	6832
@@ -146,6 +155,7 @@ Scientific and Cultural Organization. UNESCO	5036
 Secretario General Adjunto C. Nac. UNESCO	4209
 Secretario General Comisión Nal. UNESCO Secretario	4209
 Secretary-General of Nigerian National Commission for UNESCO	9755
+Self-Employed Unemployed	11004
 Serge Dino Daniel Ngassakys. Une	5895
 So- UNECA	10819
 Starlink. Une	3551
@@ -189,7 +199,7 @@ UNEP and UN Habitiat	3583
 UNEPCCC	9424
 UNESC's Journey	8860
 UNESCAP	1243
-UNESCO	19,624,256,59,246,159,316,29,106,98,53,580,193,78,142,8,430,187,543,83,319,277,14,217,6,185,19,56,297,19,45,31,7,234,84,192,83,37,17,29,59,128,145,123,54,9,31,22,49,46,19,6,44,58,58,17,37,169,47,50,130,31,15,117,41,161,320,7,17,120,70,132,1,37,209,35,148,63,2,378,173,66,65,56,131,66,2,42,27,36,55,150,52,82,16,35,84,39,76,2,1,75
+UNESCO	19,624,256,59,246,159,316,29,106,98,53,580,193,78,142,8,430,187,543,83,319,277,14,217,6,185,19,56,297,19,45,31,7,234,84,192,83,37,17,29,59,128,145,123,54,9,31,22,49,46,19,6,44,58,58,17,37,169,47,50,130,31,15,117,41,161,320,7,17,120,70,132,1,37,209,35,148,63,2,378,173,66,65,56,131,66,2,42,27,36,55,150,52,82,16,35,84,39,76,2,1,75,55,43
 UNESCO AI	5036
 UNESCO AI Readiness Assessment Methodology and Nigeria	9511
 UNESCO AI Readiness Assessments	6862
@@ -198,6 +208,7 @@ UNESCO Broadband Commission	6467
 UNESCO Campus Africa and JICA	9707
 UNESCO Chair	9475
 UNESCO Country Representative	9202
+UNESCO Côte	11078
 UNESCO Deep Dive for Policymakers	1814
 UNESCO Digital Platform Governance Toolkit	8473
 UNESCO Empowering Local Radio	19
@@ -211,7 +222,7 @@ UNESCO ICT CFT	899
 UNESCO ICT Competency Framework for Teachers	899,5933
 UNESCO ICT Competency Framework for Teachers. Paris	899
 UNESCO Institute for Lifelong Learning	1049
-UNESCO Institute for Statistics	7548
+UNESCO Institute for Statistics	7548,3421
 UNESCO International Institute for Capacity Building	7405
 UNESCO International Standard Classification of Education	7845
 UNESCO Office	8548,2053
@@ -248,6 +259,7 @@ UNESCO-UNICEF Education Connectivity Assessment	4619
 UNESCO-UNITWIN	10469
 UNESCO-funded	5036
 UNESCO-led	7405
+UNESCO-led Global Initiative for Information Integrity	11011
 UNESCO. CPM	6895
 UNESCO. Cet	8387
 UNESCO. Depuis	10519
@@ -275,17 +287,27 @@ UNESWA FM	4058,5246
 UNEVOC	6832
 UNEVOC Network Directory. Retrieved	6832
 USA. Unemployment	2775
+Uganda Unemployed Mexico	11004
 Une Affaire de Choix	8891
+Une Association Professionnelle	10965
 Une Communication	2342
 Une Foi	12
 Une IA	3465,528,840,196,3190
+Une Méthode De Protection L’examen	11034
 Une Politique	748
 Une Startup	4567
 Une Technologie	3099
 Une URL	748
 Unemploy-	2775
-Unemployed	582
-Unemployment	1867,121,787,2769,2151,56,3012,49,29
+Unemployed	582,10422
+Unemployed Egypt Unemployed	11004
+Unemployed Employed	11004
+Unemployed Ghana Men Employed	11004
+Unemployed Improved	11004
+Unemployed Unemployed	11004
+Unemployed Women	11004
+Unemployed Women Employed	11004
+Unemployment	1867,121,787,2769,2151,56,3012,49,29,122,1
 Unemployment Insurance Fund	7910,26,531
 Unemployment Relief Scheme	7859
 Unepa	4513
@@ -295,7 +317,7 @@ Unequal Distribution of Technology Arab	2958
 Unequal Political Voice	2096
 Unesco	2387,307,575,619,3393,332,316
 Unestablished	9168,87
-Uneven	432,1,528,5391,1196,2640
+Uneven	432,1,528,5391,1196,2640,776
 Uneven Africa	6248
 Uneven Digital Geographies	226
 Uneven Enforcement of Data Protection Laws Puts	5603
@@ -315,4 +337,5 @@ Urban Rural Urban Rural Employed Unemployed	10763
 VIE DES POPULATIONS UNE ACCÉLÉRATION	2342
 Vouloir Exécuter Une Commande Politique Politique	4960,62,2035
 Washington Une	8755
+Women Employed Women Unemployed	11004
 World Unemployment Rate	2775

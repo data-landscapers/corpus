@@ -63,6 +63,7 @@ C1 Certificado de Actualización PE	4209
 C2 COMERCIO Certificado de Comercio	4209
 C3 COMERCIO Certificado de Comercio	4209
 C5 CERC	1770
+CARD INDEX SERVICE COPIE CERTIFIEE CONFORME	10974
 CATEGORIES OF DATA Certain	961
 CATEGORÍA COMERCIO Certificado de Comercio	4209
 CATEGORÍA COMERCIO Certificado de Comercio C2 COMERCIO	4209
@@ -77,10 +78,12 @@ CCES Certificat de Conformité Environnementale	10876
 CEH Certified	9858
 CERBA LANCET KENYA LIMITED Data Controller	7167
 CERBA LANCET KENYA LIMITED Data Processor	7167
+CERC Business Plan Competition CISE Caisse	10964
 CERC Component	1228
 CERC Contingent Emergency Response Component CHW	10829
 CERC Coordinating Authority. The CERC	1228
 CERC E&S Risks Finalize TORs for MCTES	2989
+CERC Manual and Emergency Page	10964
 CERC SC	1228
 CERC Steering Committee	1228
 CERC of MDAP	1228
@@ -92,6 +95,7 @@ CERES TECH LIMITED Data Processor INST-30211102FD2	7167
 CERIST	2617,1238
 CERME	2966
 CERN for AI	6960
+CERP Discussion Paper	10997
 CERPIT	9129
 CERRT	7630
 CERRT.NG	9118
@@ -105,13 +109,17 @@ CERT-MZ	1228
 CERT-NG	4861
 CERT.ao	4146,72
 CERT.tg	3866,4396,1208,1105
+CERTAIN TIMES OF THE DAY	11004
 CERTIFICATE OF BUSINESS	2709
 CERTIFICATE OF ORIGIN	7020
 CERTIFICATION DEPARTMENT Request	10819
 CERTIFICATION DEPARTMENT Request PTSP	10819
 CERTIFICATIONS AND INVESTMENT	1940
+CERTIFIE COP ERTIFIED TR	10974
 CERTIFIED COPY Baker Birikujja	5113
+CERTIFIED TRUE	10974
 CERTIFIED TRUE COPY	2465
+CERTIFIEE CONFORME CERTIFIED TRUE COPY PART	10974
 CERTINUM	6810,209,1727,1452
 CERTMU	4850
 CERTS	5677
@@ -127,6 +135,11 @@ COMERCIO Certificado de Comercio C1 COMERCIO Certificado	4209
 COMERCIO Certificado de Comercio C1 Libreta	4209
 COMERCIO Certificado de Comercio C2 COMERCIO Certificado	4209
 COMERCIO Certificado de Comercio Libreta	4209
+CONFORME CERTIFIED TRUE COPY SECTION	10974
+COPIE CERTIFIEE CONFORME CERTIFIED TRUE COPY	10974
+COPIE CERTIFIEE JONFORME CERTIFIED TRYE COPY	10974
+COPIE CERTIFIÉE CONFORME	10981
+Cameroun. Certains	10965
 Carolina Cerqueira. Promulgada	3519
 Center for Media Studies and Peacebuilding CERT	5244
 Cerca	795,3249,6713
@@ -148,11 +161,11 @@ Cerraduras Electrónicas	4209
 Cerrillas	4209
 CertExpress	1012,872
 CertExpress CertExpress	1882
-Certain	10,561,172,218,282,409,3244,351,286,835,570,260,688
+Certain	10,561,172,218,282,409,3244,351,286,835,570,260,688,3091
 Certain Effects	7198
 Certain Financial Forecasts	7198
-Certaines	748,439,635,162,85,331,2913,60,864,722,396,48,310,117,268,257,286,250,389,444,542,21,102,90,232,110,5,49
-Certains	643,104,1,483,753,277,152,352,700,343,430,918,743,616,100,344,138,558,58,989,35,79,75,627,480,241,48,102,126,196,110,5,49
+Certaines	748,439,635,162,85,331,2913,60,864,722,396,48,310,117,268,257,286,250,389,444,542,21,102,90,232,110,5,49,100
+Certains	643,104,1,483,753,277,152,352,700,343,430,918,743,616,100,344,138,558,58,989,35,79,75,627,480,241,48,102,126,196,110,5,49,90,49
 Certains Camerounais	3808
 Certainty	5487
 Certamen Miss Guinea	4209
@@ -229,7 +242,7 @@ Certificates of Incorporation	1988
 Certificates of Origin	7142
 Certificates of Recognition and Merit	7702
 Certificates of Registration	9646,511
-Certification	587,149,264,9,222,13,1098,1519,1690,114,71,57,639,504,119,493,1451,617,697,499,29,28,87
+Certification	587,149,264,9,222,13,1098,1519,1690,114,71,57,639,504,119,493,1451,617,697,499,29,28,87,18
 Certification Authorities	9880
 Certification Authority	1009
 Certification Authority and Digital Trust Centre	2692
@@ -261,7 +274,7 @@ Certificação Artigo	6462
 Certificação Digital	7948,361
 Certificação Digital.Ao	8308
 Certificações	2816
-Certified	736,2978,220,5937,536
+Certified	736,2978,220,5937,536,567
 Certified Data Protection Officer	7258
 Certified Data Protection Supervisors and Officers	3582
 Certified Digital Finance Practitioner	128
@@ -295,6 +308,7 @@ Certiﬁcation	2709
 Certiﬁcation A Digital Health Solution Vendor	2709
 Certiﬁcation Framework	2709
 Cervical Cancer	1363
+Cervigni	10963,1
 Chamber Registration Certificates	10645
 Chartered Certified Accountant	4896
 Circular. Certificated	4896
@@ -324,11 +338,13 @@ DISCLOSURE OF CERTAIN MATTERS IN FINANCIAL	3714
 DISPOSITIONS PARTICULIERES A CERTAINS TRAITEMENTS Article	10825
 DPG Awareness and Certification Programme. Partner	7921
 Data Center Certification	1264
+Demonstrated Global Capacity Certificate	10975
 Des Certificats Nationaux de Transhumance	3396
 Device Certification Guidelines	3934
 Digify Solutions KShs. Digital Certificate Management	6946
 Digital Certificate	10714
 Digital Identity AUTHORISATION REGULATED Brith Certificate	10819
+Digitalizing Birth Certificates	10989
 Director Cereals and Other Produce Regulatory Authority	5883
 Director of CERT-MU	783
 Distribution List for Notifications CERT-GH	775
@@ -410,6 +426,7 @@ Microsoft CERT-GH	775
 Microsoft Certified	2525
 Ministry of Communications and Digitalisation CERT-GH	775
 Mission Statement CERT-GH	775
+Mozambique's Digital Certification System	11120
 Myth and Ceremony	5349
 NDPR Certified	5665
 NIMC the Root Certification Authority	9880
@@ -439,6 +456,7 @@ PARCOURS CERTIFIANT EN FINANCE DIGITALE	10237
 POTRAZ. Certification	8437
 PROCÉDURES D'AUDIT CONTROLE ET CERTIFICATION SYSTÈME	10906
 PROVISION OF E-HEALTH AND CERTIFICATION	2709
+PY CERTIFIED TRUE C PART VII	10974
 Phytosanitary Certificate	1988
 Postgraduate Certificate	4896,2050
 Primary Education KCSE Kenya Certificate of Secondary	2775
@@ -470,14 +488,17 @@ Robert Kahn and Vinton Cerf	1036
 Root Certification Authority	8440,1440
 Root Certification Authority for Nigeria	10423
 Root Certification Authority for Nigeria's National Public	8440
+Root Certification Authority. The DCS	11120
 Rota Planning Staff Technical Training and Certifications	9123
 SAQA-approved Further Education and Training Certificate	8077
 SEC E CERT EXPIRED	2256,6977
+SECREIARTAT PIE CERTIFIEEC COP ERTIFIED TRUE	10974
 SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS	7198
 SEQE1. Certains	8891
 SIM3 Auditor Certification	9470
 SOC and CERT	1264
 SSN. Certaines	10874
+STATUTORY AFFAI COPIE CERTIFIEE GONFORME	10974
 Security Certifications	6432
 Security Emerging C- Certified	7548
 Security of Data Centres Certifications	6432
@@ -490,11 +511,13 @@ South Africa. View the Certificate	7210
 Special Certification Requirements	9123
 Standards and Certifications	6432
 Startup Label Certificate	9598
+Sud-Ouest Certains	10975
 Summary of Certain Discussion Materials Provided	7198
 Systems Security Certified Practitioner	1940
 Système Certificat	5063
 TCCF TCCD- Tier Certification of Design Documents	6432
 TEUT and CERPIT. This Competitive	9129
+TH E UE PUBLIQ SOPIE CERTIFIEE	10974
 TRANSITIONAL PERIOD FOR CERTAIN STATE PARTIES	1243
 Targeted Review for Q2 Targeted Life Certifications	8999
 Tax Clearance Certificate	5247,4532,285,343,221

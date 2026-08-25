@@ -93,8 +93,8 @@ Closing Period Indicator Name Value Month	2712,1976,3189
 Colonel-major Mamadou Namballa TRAORE. AU TITRE	8237
 Committee Meetings Committee Name National Research	1154
 Communication Regulatory Authority of Namibia	2588,5039,623
-Communications Regulatory Authority of Namibia	1750,150,75,1,1,2,1,6,36,547,19,429,442,2039,9,22,14,21,48,5,850,298,19,1,41,447,150,318,513,1,159,1,245,606,1199
-Component Name	3604
+Communications Regulatory Authority of Namibia	1750,150,75,1,1,2,1,6,36,547,19,429,442,2039,9,22,14,21,48,5,850,298,19,1,41,447,150,318,513,1,159,1,245,606,1199,575
+Component Name	3604,7360
 Components Component Name Cost	1867,8901
 Components RESULT FRAME TBL IO Indicator Name PBC	1284,9545
 Components RESULT FRAME TBL IO Indicator Name PBC Baseline	1228
@@ -110,6 +110,7 @@ Cunene and Namibe	10763
 Cunene and Namibé	10768
 Cyclone Freddy. COMPONENTS Current Component Name	4653
 D. BANKING DETAILS Name of Bank	4896
+DATASHEET BASIC INFORMATION Project Name BASIC INFO TABLE	10964
 DATASHEET BASIC INFORMATION Project Operation Name	1867,1737,7164
 DPS Nampula	2228
 DRIVER'S NAME	1988
@@ -155,6 +156,7 @@ Failed Namibia	6825
 Financial Intelligence Centre of Namibia	3714
 Forefront of Environmental Action Across UNDP Namibia	9873
 Founder of CityMender. CityMender Namibia	9952
+Free Press of Namibia	11122
 Full Name	4602,294,791
 Funding NAME	5352
 Fundo Nacional de Investigação Av. da Namaacha	414
@@ -201,6 +203,7 @@ IPN and NamClear	6988
 IPN and NamClear Sign Pact	6988
 Impact of M-Pesa and Huduma Namba	9399
 India and Namibia	9749
+Indicator Name	10964
 Indicator Name Baseline Actual	10870
 Indicator Name Jun	6928
 Indicators RESULT FRAME TBL PD O Indicator Name	10829
@@ -211,7 +214,7 @@ Instant Payments Namibia	3180,3808
 Instant Payments Namibia COO Marsorry Ickua	5254
 Institution Name Institution Identifier C319 SCHEDULE	5687
 Instruments Namibia Namibia Nigeria Nigeria Rwanda	6938
-Intermediate Results Indicators Indicator Name Definition	10829
+Intermediate Results Indicators Indicator Name Definition	10829,135
 International Non-proprietary Name	9855
 Internet Corporation for Assigned Names and Numbers	3503,3743,3573
 Internet Society of Namibia	1928
@@ -407,6 +410,7 @@ Name Dr. T. Matekaire Dr. T	2779
 Name Educational	4896
 Name Maguraushe	1248
 Name Of Regions Authorised FM Stations	2776
+Name Parent Project ID	10963
 Name Rationale	8866
 Name Signature Mr Godfrey Gomwe	4896
 Name Site TX Rx Altitude Longitude	736
@@ -486,7 +490,7 @@ Namibe Uíge Zaire MF	10766
 Namibe Uíge Zaire N.º	10766
 Namibe Uíge Zaire Professores	10766
 Namibe. O Conecta Angola	6585
-Namibia	159,10,67,69,13,7,77,1,109,77,55,132,186,51,3,14,1,115,87,9,1,36,154,32,89,36,6,63,188,24,51,6,16,31,1,1,2,1,1,5,1,10,2,23,50,158,5,105,124,26,98,89,5,79,14,56,104,60,7,15,163,73,99,17,41,29,6,14,16,9,48,7,48,33,14,80,45,23,38,39,8,110,77,19,77,26,49,157,50,1,62,88,7,50,169,7,46,78,19,13,8,30,26,45,5,161,7,74,79,7,74,10,4,5,22,14,21,48,5,64,99,14,132,64,65,28,143,22,2,11,78,29,58,37,76,18,75,4,2,25,1,5,7,5,2,25,2,52,3,19,8,33,1,50,22,40,50,8,2,100,11,17,62,85,57,93,17,188,50,29,34,2,50,32,80,45,55,1,14,70,23,1,134,3,1,3,158,1,1,137,58,50,16,46,118,3,127,136,1,1,54,9,182,46,76,10,77,104,16,67,123,1,79,1,120,73,1,22,137,54,94,5,75,25,32,35,25,63,45,5,21,34,16,3,2,6,94
+Namibia	159,10,67,69,13,7,77,1,109,77,55,132,186,51,3,14,1,115,87,9,1,36,154,32,89,36,6,63,188,24,51,6,16,31,1,1,2,1,1,5,1,10,2,23,50,158,5,105,124,26,98,89,5,79,14,56,104,60,7,15,163,73,99,17,41,29,6,14,16,9,48,7,48,33,14,80,45,23,38,39,8,110,77,19,77,26,49,157,50,1,62,88,7,50,169,7,46,78,19,13,8,30,26,45,5,161,7,74,79,7,74,10,4,5,22,14,21,48,5,64,99,14,132,64,65,28,143,22,2,11,78,29,58,37,76,18,75,4,2,25,1,5,7,5,2,25,2,52,3,19,8,33,1,50,22,40,50,8,2,100,11,17,62,85,57,93,17,188,50,29,34,2,50,32,80,45,55,1,14,70,23,1,134,3,1,3,158,1,1,137,58,50,16,46,118,3,127,136,1,1,54,9,182,46,76,10,77,104,16,67,123,1,79,1,120,73,1,22,137,54,94,5,75,25,32,35,25,63,45,5,21,34,16,3,2,6,94,28,37,91,26
 Namibia AI Readiness Assessment Methodology	5036
 Namibia Access	1025
 Namibia African	1944
@@ -536,10 +540,11 @@ Namibia PART	3714
 Namibia Population and Housing Census	9485
 Namibia Population and Housing Census PUMS	9485
 Namibia Press Agency	8253
+Namibia Producer Price Index	11122
 Namibia Reports	5794
 Namibia Revenue Authority	1188
 Namibia Shuts The Door On Starlink	6825
-Namibia Statistics Agency	1188,2526,4291,249,159,1072
+Namibia Statistics Agency	1188,2526,4291,249,159,1072,1637
 Namibia Statistics Agency Strategic Plan	976
 Namibia Stock	3714
 Namibia Students Finance Assistance Fund	6765
@@ -620,11 +625,12 @@ Namibia. The ICT	9562
 Namibia. The NCRST	5036
 Namibia. The Namibian	3459
 Namibia. Traditional	8415
-Namibian	961,15,37,931,31,2,2,1,1,5,36,208,5,526,256,135,184,109,14,16,64,81,14,80,340,19,422,275,92,219,5,412,4,5,22,14,21,48,5,163,588,99,113,56,45,84,19,41,1,597,205,378,125,117,2,2,3,159,1,195,360,138,245,132,181,481,1,411,92
+Namibian	961,15,37,931,31,2,2,1,1,5,36,208,5,526,256,135,184,109,14,16,64,81,14,80,340,19,422,275,92,219,5,412,4,5,22,14,21,48,5,163,588,99,113,56,45,84,19,41,1,597,205,378,125,117,2,2,3,159,1,195,360,138,245,132,181,481,1,411,92,471
 Namibian Census	1944,78
 Namibian Competition Commission	3714
 Namibian Constitution	3714
 Namibian Context	4980
+Namibian Copyright and Neighbouring Rights Protection Act	11122
 Namibian Cran	5502
 Namibian Dollar	1944,1770
 Namibian Dollar Telecommunication Sector Market Report	1013
@@ -644,7 +650,7 @@ Namibian Schools and Health Facilities Network Coverage	1944
 Namibian Starlink	5564
 Namibian Stock Exchange	1013,2446,255
 Namibian Stock Exchange. Revenues	1013
-Namibian Sun	2588,414,150,217,76,14,16,1606,536,1339,1863
+Namibian Sun	2588,414,150,217,76,14,16,1606,536,1339,1863,2277
 Namibian Sun Data	3445
 Namibian Sun Namibia	3002,473
 Namibian Sun Paratus	3459
@@ -653,6 +659,7 @@ Namibian Sun The Equiano	5081
 Namibian The Communications Regulatory Authority	5502
 Namibian-ownership	5529
 Namibian-registered	3714
+Namibian. All	11122
 Namibians	1013,931,36,1,607,389,118,1845,589,83,5,1145,3,60,131,153,17,779,344,4,1100,313,206,1,273,1,412,92
 Namibians for CRAN	5612,5
 Namibians for Namibians	8255
@@ -680,7 +687,7 @@ Naming Systems Example	6666
 Namisindwa MP	6493
 Namorupus	8213
 Namosha Veerasamy	1940
-Nampa	8006,249,158
+Nampa	8006,249,158,2709
 Nampay	3532
 Nampevo Construção	9432
 Nampost and Letshego Bank Namibia	8252
@@ -698,6 +705,7 @@ Network Infrastructure MTC and Telecom Namibia	1013
 News Industry Namibia	5407,676
 NewsCentral Media Namibia	5507
 Niassa and Nampula	1228
+Nigeria Bangladesh Viet Nam SSA	10985
 Nigeria and Namibia	6426
 Nigeria. Named	8001
 Nigeria. Named for Olaudah Equiano	1363
@@ -707,6 +715,7 @@ No. Description Contract Number Supplier Name	6946
 Norte Lunda Sul Malanje Moxico Namibe	10766
 Note Named-analyst	6952,1
 Nov-2024 Namibian	1981
+O Indicator Name PBC Baseline Intermediate	10964
 ORGANIZATION NAME	2709
 OVERALL RATINGS Name Current Progress	4688
 OVERALL RATINGS Name Previous Current Progress	2712,3867,349,949,2993
@@ -721,7 +730,7 @@ Outcomes RESULT FRAME TBL PD O Indicator Name	1284
 Outcomes RESULT FRAME TBL PDO Indicator Name PBC Baseline	1228
 P505094 Operation Name	2291
 PBC Name Baseline Closing Period	10870
-PDO Indicators Indicator Name Definition	10829
+PDO Indicators Indicator Name Definition	10829,135
 PII. IDCUST DAT CUST OPEN NAM FIRST NAM LAST NAM MID	3364
 PM Namibia	1977
 PM UTC Namibia	6785
@@ -757,7 +766,7 @@ RAN Sites Telecom Namibia	1013
 RE NAM ENT ENGA BOUCLE	10847
 RESULT FRAME TBL IO Indicator Name PBC Baseline	1284,9545
 RESULT FRAME TBL IO Indicator Name PBC Baseline Intermediate	1228
-RESULT FRAME TBL PD O Indicator Name PBC	10829
+RESULT FRAME TBL PD O Indicator Name PBC	10829,135
 ROSA NAMUTO	10751
 ROUTE Name Bearer1	736
 ROUTE Station Name Latitude Longitude	736
@@ -781,6 +790,7 @@ SADC UMOA UMOA UMOA UMOA Namclear	6938
 SITA's Advance Passenger Information and Passenger Name	4275
 SMS Conclusion Namibia’s ICT	1013
 SOLUTION NAME	2709
+SP Area Program Name Ministry	10985
 SPUR ROUTE Name Bearer	736
 Safaricom Plc. In Namibia	1979
 Sam Darwish Name	7198
@@ -815,6 +825,8 @@ Suleiman Namara Boban Varghese Paul	10768
 System Name Exchange	736
 Systematic Literature Review Papers Author Name	1248
 TIGER GLOBAL IS NOT NAMED ANYWHERE	9098
+Target Indicator Name	10964
+Targets Indicator Name	10964
 Tech Namibia Reports	5794
 TechCentral. Namibia	8131
 Telecom Namibia	1013,266,471,97,53,44,1033,562,220,2167,442,250,20,25,1,101,247,513,1741,296,585,318,494
@@ -846,6 +858,7 @@ Titus Nampala	8414
 Touche Namibia	9107,1
 Trade and Investment Operation Name Angola DPF3	10779
 Trade and Investment Operation Name Angola DPO2	10779
+Trending Stories Namibia	11122
 UAE and Namibian	5086
 UILDING A GROWTH-FRIENDLY TAX ENVIRONMENT Name	10762
 UN Dialogue Namibia	7098
@@ -855,9 +868,10 @@ University of Namibe	6482
 University of Namibia	5036,4837
 VAT. Telecom Namibia	1944
 VRR Namibia Nauru State Register	10714
-Viet Nam	7655,3059,50,82
+Viet Nam	7655,3059,50,82,131
 Viet Nam Tier	10764
 Viet Nam and Morocco	10846
+Viet Nam's	10985
 Việt Nam	8062
 West Kunene Omaheke Namibia	1944
 Western Cape Site Locations Site Name	8999

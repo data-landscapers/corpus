@@ -8,6 +8,7 @@ Activité du CESE	8891
 Afrique. Ces	2732,277,4148,910
 Agadir342. Ces	8891
 Agboville. Ces	2342
+Agence. Ces	10975
 Agriculture. Ces	7001
 Amazon. Ces	10700
 Angola.Para Cesaltino Miranda	8160
@@ -21,6 +22,7 @@ Bondoukou. Ces	2342
 Bouregreg. Ces	8891
 Bujumbura. Ces	9173
 Burundi. Ces	4363
+CEMAC. Ces	10965
 CES Kazelma de Diffa	7374
 CES de Las Vegas	3104
 CES du Brésil	8891
@@ -45,6 +47,7 @@ CESMPs	1988
 CESPEDES GOMEZ	6613
 CESREES	7313
 CFA. Ces	10576
+Cameroun. Ces	10975
 Canada. Ces	2732
 Ces DLI	10876
 Ces PEP	10876
@@ -58,7 +61,7 @@ Cesec	2418,3677
 Cesena	10592
 Cesena Fiera Congress Centre	10592
 Cesión	163
-Cessation	1220,2494
+Cessation	1220,2494,7261
 Cessação	5169,1293
 Cessação de Mandato	167
 Cession	2342,2554
@@ -79,8 +82,10 @@ Daloa. Ces	2342
 Developer Cession	4896
 Directeur Exécutif de Med.IA Lab. Ces	3724
 Discord283. Ces	8891
+Dispatch. Ces	10975
 District de Bamako. Ces	9287,55
 Département de Kong. Ces	3045
+Electricité Ces	10975
 Environnemental CESE180	8891
 Environnemental Ces	8891
 Est. Ces	5829
@@ -136,7 +141,7 @@ One. Ces	8002
 Open Data. Ces	1984
 Orange Cameroon. Ces	5357
 Oued El Makhazine-Dar Khrofa. Ces	8891
-Ouest. Ces	8893
+Ouest. Ces	8893,2082
 Ousmane Sonko. Ces	10579
 PE. Ces	8891
 POSAF. Ces	10712
@@ -165,4 +170,5 @@ Unité de Cession de Medicaments	10829
 Unité de Cession des Médicaments	10829
 Wave. Ces	7106
 Wirelees Pvt Ltd Cession Willowvale N	4896
+Yaoundé. Ces	10965
 YouTube du CESE	8891

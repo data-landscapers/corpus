@@ -1,6 +1,7 @@
 Airport Square	3386
 Amazon SNS and Amazon SQS	10794
 Amazon SQS	10794
+Audi SQ5 Sportback	11036
 Azure SQL	6432
 Bank Square	7464,1268
 Binance Square	4127
@@ -20,6 +21,7 @@ Microsoft SQL Server Management Studio	10617
 MySQL and SQL Server	10060
 Oracle SQL Developer	10617
 Ordinary Least Squares	236
+Partial Least Squares	11107
 Postbank Black Card. Newsclock Squeezeback	8999
 Research Square	2816
 Research Square Preprint	8604

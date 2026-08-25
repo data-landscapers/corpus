@@ -95,6 +95,7 @@ Average TOP INVESTMENT STAGE Seed	4972
 Average TOP INVESTMENT STAGE Venture Debt	4972
 Axian Telecom Invests	2663
 BAASH INVESTMENT LIMITED Data Processor INST-3524504F988	7167
+BANK GCB GT BANK NATIONAL INVESTMENT	11002
 BARTEK INVESTMENTS CO-OPERATIVE SOCIETY LIMITED Data	7167
 BENZION INVESTMENTS LIMITED Data Controller INST-61473260E82	7167
 BENZION INVESTMENTS LIMITED Data Processor INST-61473260E82	7167
@@ -197,11 +198,12 @@ Coordination Centre KenInvest Kenya Investment Authority	2775
 Corporate and Investment Banking	8974
 Country Investment Authorities	10861
 County Investment Plans	10346
-Criminal Investigation Department	587
+Criminal Investigation Department	587,10494
 Criminal Investigations Department	8767
 Customers Investors	7204
 Cybersecurity and Investigatory Powers	587
 Cybersecurity and Investigatory Powers Application	587
+D'INVENTAIRE REGION INVENTORIER INVENTORIEES INVENTORIEES	10975
 D. Rationale for Bank Involvement and Role of Partners	6539
 D. Rationale for World Bank Involvement and Role	3604
 DE INVESTIMENTO PÚBLICO Artigo	10783
@@ -210,7 +212,7 @@ DEG Equity Investment	248,582,227,1,1093
 DEG Investment	1055,1
 DEVICES TO THE ELECTRONIC INVOICING SYSTEM	4699
 DHIIN DHIIN INVESTMENT SEZ LIMITED Data	7167
-DIF Digital Investment Facility POP Point	3184,1,1340
+DIF Digital Investment Facility POP Point	3184,1,1340,6470
 DIMKES INVESTMENT CO-OPERATIVE SOCIETY LTD Data	7167
 DO INVESTIMENTO PÚBLICO SECÇÃO I CICLO	10783
 DO PROGRAMA DE INVESTIMENTO PÚBLICO Artigo	10783
@@ -250,7 +252,7 @@ Digital Infrastructure Investments	3859
 Digital Infrastructure Investments Africa	3859
 Digital Invest	728
 Digital Invest DCCP	954
-Digital Investment Facility	3184,1,1243,97,1707,4549,80
+Digital Investment Facility	3184,1,1243,97,1707,4549,80,134
 Digital Investment Facility EAC East African	10781
 Digital Investment for Recovery	607
 Digital Invoicing System	3236
@@ -258,7 +260,7 @@ Digital Payments Infrastructure Loan Belgian Investment	1419
 Digital SME Invoice Financing Loan DFC	1062
 Direct Investment DIE Direct Investment Enterprise	2775
 Direct Investment FDP Forcibly Displaced Persons	10841
-Direct Investment USD US	3184,1,1340
+Direct Investment USD US	3184,1,1340,6470
 Direction des Investissements. L'objectif	9425
 Director for Trade Facilitation and Investment Promotion	8167,332
 Director of Complaints Investigation	3360
@@ -277,7 +279,7 @@ Domestic and Foreign Portfolio Investment Report	6408
 Drive Investment	3837
 Driving the Investment Cloud	6791
 Dépenses des Investissements461	1682
-E. Rationale for Bank Involvement and Role of Partners	969,898,8901
+E. Rationale for Bank Involvement and Role of Partners	969,898,8901,196
 E. Rationale for World Bank Involvement and Role	1264,9565
 EAIF Anchor Investment PIDG	518,196,222
 EAIF Co-Anchor Investment PIDG	1550
@@ -332,7 +334,7 @@ Ethiopian Investment Commission	10709
 Ethiopian Investment Holdings	5383,3537,51,99,337,8
 Ethiopian Investment Holdings Portfolio. Addis Ababa	8971
 European Investigation Order	10088
-European Investment Bank	123,65,60,5,1,1,89,12,116,1,166,150,62,1,1,1,1,228,181,199,1,609,80,1,554,372,275,363,1313,468,548,109,343,439,205,2319,1,1378,16
+European Investment Bank	123,65,60,5,1,1,89,12,116,1,166,150,62,1,1,1,1,228,181,199,1,609,80,1,554,372,275,363,1313,468,548,109,343,439,205,2319,1,1378,16,123
 European Investment Bank EU European Union	970
 European Investment Bank. The UNDP	1264
 European Investment Fund	6879
@@ -391,6 +393,7 @@ Fraco Investimento	2816
 Fragmentation Investors Encounter During Due	7003
 Freelance Investigative Journalist. Cameroon	2388
 Funding Sources for Adaptation Investments	1828
+Funding and Investment	11041
 Fundo Nacional de Investigação	414
 Fundo Nacional de Investigação Av. da Namaacha	414
 Future Investment Initiative	3837,2531
@@ -441,6 +444,7 @@ Government Agencies United Kingdom Investisseurs	4972
 Government’s Investment Case	10829
 Govt Invites Public Submissions	7549
 Group CEO Pledges Continued Investment	3483
+Guide Investment	11103
 Hardy Pemhiwa Investment Banker Zimbabwean	4896
 Head of Assets and Investment Management	718
 Head of Investments	7939
@@ -516,11 +520,13 @@ INVESTOR PROFILE	4972
 INVITATION	7074
 INVITATION TO APPLY FOR PREQUALIFICATION Konza	1638
 INVITE	5565
+INVOLVE	11006
 INVOLVED IN THE DATA BREACH	2709
 INVPAESRTTMI	10157
 ISA Investments and Securities Act	8590
 Impact Investor Presence	4972
 Impact Investors	4972
+Implementing Agency Investment Project Financing	10963
 Implications for Investors The Circular	9750
 Imports Outpace Exports... Tunisia Industrial Investment	7322
 InViis	10834
@@ -538,6 +544,7 @@ Instituto Nacional de Investigação	10777
 Instituto de Investigación	4209
 Integrated Public Investment Program Management System	5588
 Interesting Investment IPO Iraq Jordan KSA	5322
+International Centre for Investigative Reporting	11100
 International Centre for Settlement of Investment Disputes	3583
 International Investment Position Manual	2775
 International Investors	8610,233
@@ -546,10 +553,10 @@ Internet Series C Equity Investment Africa50	810
 InvalidCastException	10000
 Inveep	8565
 Inveep. Lancée	8565
-Inventaire	748,439,44,8175
+Inventaire	748,439,44,8175,1569
 Inventaire du Canada15	748
 Inventories	3051,1845
-Inventory	1000,988,4444,1319,170,67,2140,593
+Inventory	1000,988,4444,1319,170,67,2140,593,296
 Inventory Inventory	1154
 Invercargill	7145
 Inversely	10764
@@ -562,7 +569,7 @@ Inversión Directa Extranjera	4209
 Inversión Extranjera Directa	1701
 Inversión Extranjera Directa INAP	1701
 Inversión Privada	1701
-Invest	958,856,812,52,905,227,316,722,122,23,49,202,196,1392,128,484,307,262,171,935,376,165,1102
+Invest	958,856,812,52,905,227,316,722,122,23,49,202,196,1392,128,484,307,262,171,935,376,165,1102,242
 Invest India	9332
 Invest Kenya	7406
 Invest-Time	4655
@@ -590,7 +597,7 @@ Investigating Authorities	789
 Investigating Factors Inhibiting	5349
 Investigating the Cybersecurity Aspects	5244
 Investigating the Protection of Customers’ Personal Data	226
-Investigation	1778,315,616,1005,1973,2334,1,354,752,1,108,1168,416
+Investigation	1778,315,616,1005,1973,2334,1,354,752,1,108,1168,416,284
 Investigation Committee	3583
 Investigation Division Department Division	6946
 Investigation GDP Gross Domestic Product GNI	10765,10
@@ -600,7 +607,7 @@ Investigation and Handling	1000
 Investigation and Information Gathering Office	8806
 Investigation-Equal	8436
 Investigation-Lead	8436
-Investigations	1333,1656,14,1687,843,3106,139,1019
+Investigations	1333,1656,14,1687,843,3106,139,1019,1165
 Investigations Bureau DPO Data Protection Officer	6936
 Investigations Centers	4260
 Investigations Numériques	2451,184
@@ -625,22 +632,25 @@ Investimento Privado	1265
 Investimento Público	10783
 Investimento Público. Artigo	10783
 Investimentos	1948,868,3158,4809
-Investing	396,393,180,92,100,202,451,53,226,425,159,1,371,18,1059,402,368,382,597,815,756,150,1013,146,106,336,337,577,54,446,174,56
+Investing	396,393,180,92,100,202,451,53,226,425,159,1,371,18,1059,402,368,382,597,815,756,150,1013,146,106,336,337,577,54,446,174,56,159
 Investing for Employment	789
 Investing for Food and Job	789
 Investing.com	5734
-Investir	1218,50,628,1569,773,31,2287,868,2117,305,977
+Investir	1218,50,628,1569,773,31,2287,868,2117,305,977,163
 Investiss	1302
-Investissement	643,355,304,12,222,113,344,45,304,134,1061,299,479,284,1146,1,237,1672,13,1223,448,292,1269,14
+Investissement	643,355,304,12,222,113,344,45,304,134,1061,299,479,284,1146,1,237,1672,13,1223,448,292,1269,14,51
 Investissement Consommation	7655
 Investissement Public	3396
 Investissement Sectoriel	12
-Investissements	419,550,29,287,1,250,235,571,781,1,33,239,988,1,389,2941,1,1092,83,1956
+Investissements	419,550,29,287,1,250,235,571,781,1,33,239,988,1,389,2941,1,1092,83,1956,128
 Investissements Au	1682
+Investissements Dans	10975
 Investissements Directs Etrangers	2342,5313
+Investissements Fonds	10975
 Investissements HPIP	2966
 Investissements OPERATEURS	998
 Investissements PIP	2966
+Investissements Projet Figure	10975
 Investissements Stratégiques	7106
 Investissements du Budget	1682
 InvestissementsTotal Dépenses Présidence	1682
@@ -648,7 +658,7 @@ Investisseur Air	4567
 Investisseurs	1047,9794
 Investisseurs Air	4567
 Investitionen	696,205
-Investment	22,23,3,5,92,91,6,352,8,3,3,2,207,18,2,121,170,3,43,30,53,7,99,106,308,51,39,57,16,48,152,103,15,84,183,101,42,107,2,760,67,257,126,59,68,53,72,161,2,9,2,102,10,3,56,1,77,186,48,76,228,402,8,212,314,20,30,176,352,210,227,127,59,109,102,203,85,255,259,58,41,496,28,176,97,15,243,229,1,185,40,198,1,85,238,74,207,19,12,36,12,15,5,93
+Investment	22,23,3,5,92,91,6,352,8,3,3,2,207,18,2,121,170,3,43,30,53,7,99,106,308,51,39,57,16,48,152,103,15,84,183,101,42,107,2,760,67,257,126,59,68,53,72,161,2,9,2,102,10,3,56,1,77,186,48,76,228,402,8,212,314,20,30,176,352,210,227,127,59,109,102,203,85,255,259,58,41,496,28,176,97,15,243,229,1,185,40,198,1,85,238,74,207,19,12,36,12,15,5,93,15,7,1,125
 Investment Advisor for Phase	5897
 Investment Africa50	811
 Investment Algorithms	4848
@@ -660,6 +670,7 @@ Investment Bank	9826,1026
 Investment Banking	4041,2829,2955,1
 Investment Banking Luvuyo Masinda	9702
 Investment Bo City	4114
+Investment Cameroon2024 Sub-Saharan Africa Lower Middle	10976
 Investment Cap	6921
 Investment Capex	6593
 Investment Case	10829
@@ -678,11 +689,13 @@ Investment Funds CIF Cost	2775
 Investment Fuzé DA Seed Fund Investment	6155
 Investment Holding Company	4972
 Investment Holdings	10735
+Investment Hub	11127
 Investment Incentive	7548
 Investment Incentive Infrastructure Investment	7548
 Investment Incentive Reliable	10157
 Investment Incentive The Federal Government	10157
 Investment Incentives Fiber Market	4525
+Investment Incentives Law	10997
 Investment Inflows	5163
 Investment License	1988
 Investment Metric	7003
@@ -696,6 +709,7 @@ Investment Project	1704
 Investment Project Financing	761,1013,517,421,850,1126,1891,175,79,95,949,74,215,1437,1,1175
 Investment Project Financing Current Closing	1228
 Investment Project Financing IRR Internal Rate	6539
+Investment Project Financing LIPW Indigenous Peoples	10964
 Investment Project Financing M&E Monitoring and Evaluation	10829
 Investment Project Financing Official Use Only	3604
 Investment Project Financing. Environmental	5620
@@ -734,6 +748,7 @@ Investments Named DPI	3859
 Investments Pvt Ltd	4896
 Investments Strategic	10841
 Investments and Securities Act	2826,6404
+Investments for Rebuilding Better	10964
 Investor	2826,1896,250,1604,1264,5,1650,1075
 Investor Day	7241
 Investor Dynamics	4722
@@ -761,9 +776,10 @@ Invitation Fr	10235
 Invitation To Treaty	1222
 Invitation for Bids	8166
 Invitations	7980,255
+Invite	11017
 InviteForActiveLiveStream	10848
 Invites Stronger South African Participation	6480
-Inviting	8091
+Inviting	8091,2980
 Invité	2738,453,135,332,2258,151,208,145,1743,879
 Invitée	2991,6821
 Invités	10436
@@ -773,7 +789,7 @@ Invoice and VAT	8670
 Invoice. C1	8670
 Invoices	8670
 Invoices. Adopting	8670
-Invoicing	8670
+Invoicing	8670,2415
 Invoke-WebRequest	1,569,6,12,596,623,449,181,162,185,32,518,527,656,423,1086,1021,230,578,364,23,105,1,905,814,257,23,168
 Invokes Pablo Chavez	4675
 Involuntary Resettlement	1264,724
@@ -800,9 +816,9 @@ LP Investment British International Investment	610
 La Agencia Nacional de Investigación Financiera	1701
 La Inversión	4209
 Lamu County. Social Responsibility and Investment	6946
-Land Use and Involuntary Resettlement	10829
+Land Use and Involuntary Resettlement	10829,135
 Land Use and Involuntary Resettlement Not Currently	10768
-Land Use and Involuntary Resettlement Relevant Biodiversity	1284,9545
+Land Use and Involuntary Resettlement Relevant Biodiversity	1284,9545,135
 Land Use and Involuntary Resettlement Relevant ESS	1867
 Land Use and Involuntary Resettlement Relevant Relevant	3604
 Launch AI Investor Education Program	4528
@@ -884,6 +900,7 @@ National Investment Commission	4998
 National Investment Development Committee	6921
 National Investment and Exports Agency	7160
 National Registration Information System IPF Investment	1867
+National Security Investment Programs	11005
 Neighbourhood Investment Platform	854,964,1,2831,13
 Net Foreign Direct Investment	5247
 Net International Investment Position NIRU National	2775
@@ -980,6 +997,7 @@ Programa de Investimento Público	5986,708,8,2177,1904
 Programa de Investimento Público I. Introdução	10783
 Programa de Investimento Público. Artigo	10783
 Programas de Investimento Público	10783
+Programming of Public Investments	10964
 Project BRIDGE Investment Tour	9047
 Projecto de Investimento Público	10783
 Projecto de Investimento Público Provincial	10783
@@ -1067,6 +1085,7 @@ Sierra Leone. Investments	1143,405
 Smart Investment	3487
 Smart Invoice	5247,5381
 Social Justice News Reporter Special Investigative	7936
+Social Risk Classification P175363 Substantial Investment	10964
 South Africa Digital Infrastructure Investment Study	5602
 South Africa Investment Conference	4511,1110
 South Africa's Digital Infrastructure Investment Study	2116
@@ -1078,6 +1097,7 @@ Special Investigation Unit	9365
 Special Investigative Unit	5533
 Spectrum Pricing and Renewals for Sustainable Investments	5390
 Staff Inventory Table	10616
+Stakeholder Involvement	11006
 Stakeholders Call for Increased Investment	9983
 Standard Bank Corporate Investment Banking	3056
 Standard Bank Corporate and Investment Banking	3056,997
@@ -1167,6 +1187,7 @@ Vorbereitung von Investitionsentscheidungen	9062
 WIOCC Group Equity Investment	892
 Weak Investment	2958
 West Africa. Investments	2233
+World Bank Directive FM Manual for Investment	10964
 World Bank Group Invests	9734
 World Bank Investment Project Financing	10829
 World Bank Policy and Directive for Investment Project	2889

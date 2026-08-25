@@ -11,7 +11,7 @@ ADT INSURANCE AGENCY LIMITED Data Controller	7167
 ADT INSURANCE AGENCY LIMITED Data Processor	7167
 AETHER INSURANCE AGENCY LIMITED Data Controller	7167
 AFFIRMATIVE INSURANCE AGENCY Data Processor INST-30877116911	7167
-AI Insurance Superfund	5969,2303
+AI Insurance Superfund	5969,2303,2740
 AL AHDI INSURANCE BROKERS LIMITED Data	7167
 AMANA INSURANCE BROKERS LIMITED Data Controller	7167
 AMRO INSURANCE BROKERS LTD Data Controller	7167
@@ -76,6 +76,8 @@ D.G SERVI. ELECT. R. INSULAR.- Concepto	4209
 D.G. R. INSULAR REG. CONT	4209
 DEFENCE FORCES MEDICAL INSURANCE SCHEME Data	7167
 DEPORTIVAS A IDIOMAS REGIONAL DISTRITALES INSULAR	4209
+DIFFICULTIES NOT NOT INTERNET IS INSUFFICIENT	11004
+DIFFICULTIES SUPPORT IN INTERNET INSUFFICIENT STRANGERS	11004
 DIGI AFRICA INSURANCE BROKERS LIMITED Data	7167
 DIRECTORS SECRETARY INDEMNITY AND INSURANCE WINDING-UP	585
 DISNEY INSURANCE BROKERS LIMITED Data Controller	7167
@@ -92,6 +94,7 @@ ESTADO MAYOR MAYOR REG. INSULAR	4209
 ESTADO MAYOR MAYOR REG. INSULAR.- Concepto	4209
 Econet Insurance	4896
 Econet and Econet Insurance	4896
+Estonian Health Insurance Fund	11006
 Ethiopian Health Insurance Agency	629
 Fawry Insurance Brokerage	5869
 Finance South Sudan No Insurance Regulatory	6938
@@ -131,10 +134,10 @@ IRA Insurance Regulatory Authority ISIC International	2775
 Indemnity and Insurance Rationale	8866
 Inspector General Servicios R. Insular Servicio	4209
 Insuchcases	8602
-Insufficient	396,370,195,1346,1123,361,335,313,409,685,144,1052,103,716,203,625,752,532,374,15,216,453,45
+Insufficient	396,370,195,1346,1123,361,335,313,409,685,144,1052,103,716,203,625,752,532,374,15,216,453,45,217
 Insufficient Resources	4439
 Insufficiently	766
-Insuffisance	737,2229,4689,3057,162
+Insuffisance	737,2229,4689,3057,162,91
 Insuffisances	10858
 Insuffisant Non-renouvellement	10876
 Insuficiente	1701
@@ -149,7 +152,7 @@ Insumos	1701
 Insur	6019
 InsurTech	4848,1021,52
 InsurTech-related	10793
-Insurance	418,349,173,1769,66,2121,304,465,547,27,759,791,236,110,1102,1556,72
+Insurance	418,349,173,1769,66,2121,304,465,547,27,759,791,236,110,1102,1556,72,112,106
 Insurance Act	6938
 Insurance Activity Supervisory Body	6938
 Insurance Control Department	6938
@@ -159,6 +162,7 @@ Insurance Markets	6938
 Insurance Nominal GDP	2775
 Insurance Regulatory Authority	6938,653
 Insurance Regulatory Authority of Uganda	6938
+Insurance Régime de Retraite de Ministry	10985
 Insurance SHIF Social Health Insurance Fund	2775
 Insurance Sector Education and Training Authority IoT	6832
 Insurance Strand	418
@@ -196,7 +200,7 @@ Naked Insurance	1058,1093,7524
 Naked Insurtech South Africa Series B	1058
 Naked Insurtech South Africa Series B2	2151
 National Health Insurance	24,372,971,2465,3622,107,1042,511,1424
-National Health Insurance Authority	1654,2089,89,1,468,27,1671,178
+National Health Insurance Authority	1654,2089,89,1,468,27,1671,178,4814
 National Health Insurance BUI. Retrieved	1009
 National Health Insurance Bill	1009
 National Health Insurance Bill. Retrieved	1009
@@ -239,10 +243,12 @@ Services Insurance Banks Financial Services Distribution	4972
 Services Insurance Banks Financial Services Durables	4972
 Short-Term Insurance Ombudsman	9675
 Sierra Leone Insurance Commission	6938
+Social Assistance Social Insurance Q5	10985
 Social Health Insurance Act	8934
 Social Health Insurance Fund	3393
 Social Health Insurance Fund and Affordable Housing	5684
 Social Insurance	10785
+Social Insurance Labor Market Social Assistance	10985
 South Africa’s National Health Insurance	8603
 Stabilization Levy NHIL National Health Insurance	236
 Strengthen Health Insurance Systems Through Digital	9837

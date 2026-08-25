@@ -30,6 +30,7 @@ DOCUMENT TRACKING TABLE Reference	5678,1
 Data Tracker	9622
 Dieleman JL. Tracking	7187
 Digital Agriculture Solution Tracker	1102
+Digital Connectivity Tracker	10977
 Digital Fast Track	2149,944,4,37,3512
 Digital and Leadership Track	146,240,317,207
 Drives the Performance of COVID-19 Tracing Apps	5700
@@ -46,7 +47,9 @@ FX BDC Purchase Tracker	7416
 Fast Track Clinical Trials Committee	7845
 Fast Track Ethics Committee	7845
 Fast Track Initiative	978
+GSMA Mobile Money Deployment Tracker	10977
 Global Aid Freeze Tracker	6337
+Global Findex Digital Connectivity Tracker	10977
 Global Innovation Tracker	10846
 Global Innovation Tracker Dashboard	10846
 Global Innovation Tracker. Figures	10846
@@ -80,6 +83,7 @@ Parliamentarian Track	10707
 Patient Location Patient Location Tracking	1009
 Policy Tracker	9162
 Poor Tracking and Communication Mechanisms. . Participants	4439
+Project STEP Systematic Tracking of Exchanges	10964
 Promise Tracker	6133
 Public Assets Traced	2775
 SH Sexual Harassment STEP Systematic Tracking	10829
@@ -89,7 +93,7 @@ STEP Systematic Tracking of Exchanges	2889,715
 Satellite Launching and Tracking Base Agency	1131
 Short Track Speed Skating	2626
 Systematic Tracking and Exchange	1264
-Systematic Tracking of Exchanges	1867,1022,715,2935,4290
+Systematic Tracking of Exchanges	1867,1022,715,2935,4290,135
 TRAC-2	7790
 TRACK	2275
 TRACKING PUBLIC SECTOR DIGITAL TRANSFORMATION WORLDWIDE	10785
@@ -103,8 +107,8 @@ Tracer Study Survey	6832
 Traces Technologiques	10911
 Tracey Turner Tracey Turner	10464
 Tracey Turner and Jonathan Lewis	10464
-Tracing	4127,222,3836,1431
-Track	899,165,924,489,2051,2304,206,134,376,1165
+Tracing	4127,222,3836,1431,1434
+Track	899,165,924,489,2051,2304,206,134,376,1165,2251
 Track A	7890,99
 Track B	7685
 Track II	10430
@@ -115,8 +119,10 @@ Track and Measure the Progress of Implementation	958
 Track gauge in the United States	4259
 Track-B	7972,42
 Track-and-Trace	3400
+Tracked	11006
 Tracker	977,1140,6259,786
 Tracker Data	8376
+Tracker The Global Innovation Tracker	10969
 Tracker and HMIS	8376
 Tracker. All	8376
 Tracker. Health	8376

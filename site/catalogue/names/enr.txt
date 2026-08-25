@@ -13,7 +13,7 @@ DGI PRMP Enregistre	10876
 Déploiement du Desk ENR	1993
 ENR Sector	29
 Education Education Enrolment Education Completion Human	10837
-Education Enrolment	10759,76,2,1
+Education Enrolment	10759,76,2,1,130
 Enregistre	10876
 Enregistrement	7993,1675,486,393,329,26
 Enregistrement Cadastral	10876
@@ -34,6 +34,7 @@ Enrichissement Illicite ONU Organisation des Nations Unies	6959
 Enrico Bagnasco	3342
 Enrique	4209
 Enroll	2604,8161,10
+Enrolled	11006
 Enrolling	571,4877
 Enrollment	2775,1260,931,2163,467,3216,27
 Enrollment for Digital ID	10153
@@ -60,6 +61,8 @@ Pre-enrollment and Enrollment	6343
 Primary and Junior School Enrolment	2775
 Public Services for Women Education Enrolment Public	10759
 Pupil Enrolment and Number of Teachers	2775
+Registre du Courrier Enregistrement	10975
+Saisines Enregistrées Dossiers	10975
 Teacher Trainees Enrolment	2775
 UPDATE OF MASS ENROLMENT EXERCISE	1920
 University Enrolment1	2775

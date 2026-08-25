@@ -59,6 +59,8 @@ Abreviaturas Aband. Aprov. Compart. Definit	10766
 Abuja Investments Company Limited	9833
 Accelerate the Adopt the Comprehensive Enforce	1777
 Acordos de Compensação	10755
+Actif Net Comptable	10975
+Actif Net Comptable. L’analyse	10975
 Acting Director of Legal and Company Secretary Anthony	9093
 Acting Director of Regulation and Compliance	6689,1057
 Acting Group Company Secretary MML Mokoka	10793
@@ -72,6 +74,7 @@ Adoption of Community Competition Rules	961
 Advanced Compliance Program	6543
 Advanced Computer Information ACM	9237
 Advanced Computer Information Thabit	9237
+Advanced Computer Science	11128
 Advanced Computer Science and Information Systems	226
 Afatrading Company Limited Data Processor INST-1678087797A	7167
 Africa Broker'S Company Arriauz Services Sante	10821
@@ -80,6 +83,7 @@ Africa Companion	1203
 Africa Compliance Academy	7123
 Africa Green Compute Coalition	7836
 Africa Merchant Assurance Company Limited Data	7167
+Africa NIS Large Company ME National	10980
 Africa Private Capital Fundraising Report Companion	8612
 Africa Still Needs Its Own Compute	9119
 Africa's Core Systems Complete	6593
@@ -153,7 +157,7 @@ Average Compliance Level	6946
 Average GTMI Components Score	10785
 Ayang Macdonald Compliance	7518
 B. Composition of NFGC	7845
-B. Project Components	969,295,603,1737,2935,4229,61
+B. Project Components	969,295,603,1737,2935,4229,61,135
 B. Project Components Component	10768
 B. Project Components Table	10829
 B. Status of Project Components Note	2989
@@ -194,6 +198,7 @@ Bachelor of Computer and Information Sciences	6832
 Background Uganda Security Printing Company	1282
 Banque Compte	10876
 Bar Anding'o Comprehensive School	7204
+Base Bilan Comptable	10975
 Baseline Comparison	9772
 Baseline Target Component	4653
 Bat Computer Technologies Ltd	3862
@@ -207,6 +212,7 @@ Beyond the Company	7356
 Big Data and Cognitive Computing	9128
 Bilateral Compact	6534
 Blantyre Government Office Complex and Zomba Government	127
+Blog Connecting Complex Ecosystems	11006,1
 Bm Compliance	10856
 Board Member of Africa Merchant Assurance Company	6946
 Board T.A. Ngowe Group Company Secretary	4263
@@ -231,6 +237,9 @@ Building Block Components The Building Block	6423
 Business Case for Edge Computing	6773
 Business E-Mail Compromise	8777
 Business Email Compromise	1680,4746,4295
+Business Plan Competition	10963,1,21
+Business Plan Competition Youths	10964
+Business Plan Competition. Page	10964
 Business Registries Articles Meet NRD Companies	3907
 Business Services Company	2227
 C. Complaint Monitoring	5676
@@ -265,6 +274,7 @@ CENTUM INVESTMENT COMPANY PLC Data Controller	7167
 CENTUM INVESTMENT COMPANY PLC Data Processor	7167
 CEO Boris Compaoré	4233
 CEO of MainOne Company	3782
+CERC Business Plan Competition CISE Caisse	10964
 CERC Component	1228
 CERC Contingent Emergency Response Component CHW	10829
 CFL AND COMPANY Data Controller INST-4564611209B	7167
@@ -431,6 +441,10 @@ CYBERSECURITY AWARENESS AND PREPAREDNESS Compiled	1686
 CYBERSECURITY SKILLS GAP SURVEY Compiled	1940
 Cabinet for Complaints and Citizen Satisfaction. Refai	9414
 California Consumer Privacy Act CPTPP Comprehensive	1243
+Cameroon Government Revenue and Tax Composition Trends	10997
+Cameroon and Comparator Average	10997
+Cameroon and Comparator Countries	10997
+Cameroon and Comparators Median	10997
 Can Starlink Stay Competitive	3625
 Canadian Bank Note Company	10812
 Capacity Component	10768
@@ -439,6 +453,7 @@ Carbon Footprint of National Compute	4528
 Carteiras de Projectos. CAPÍTULO II COMPETÊNCIA	10783
 Case Study Companion	2858
 Cash Component	4896
+Cash Transfer Compensation Program	10991
 Category FM Compliance FM Compliance TV	6946
 Cayman Companies Act	7198
 Cayman Islands Companies Act	7198
@@ -460,7 +475,7 @@ Certificates of Competency	8639
 Chainalysis. Compared	9311
 Chairman of Togo’s Cotton Company	5407,676
 Challenge Cohort Competition Crypto Cybersecurity Data	5322
-Chambre des Comptes	8750
+Chambre des Comptes	8750,2231
 Chapman Computer Ltd	3862
 Chapman Computers Nigeria Ltd	3862
 Chief Risk and Compliance Officer	7606
@@ -521,7 +536,7 @@ Compagnies	10934
 Companhia Santomense de Telecomunicações	2315
 Companhia São-tomense de Telecomunicações	5557
 Companhias	6970
-Companies	571,165,163,878,110,631,91,769,205,131,193,84,685,296,141,89,22,239,155,182,10,10,44,478,79,250,63,194,18,25,44,283,391,62,263,166,26,10,132,11,27,258,609,31,286,72,39,28,160,542,181,45,101,60,3,40
+Companies	571,165,163,878,110,631,91,769,205,131,193,84,685,296,141,89,22,239,155,182,10,10,44,478,79,250,63,194,18,25,44,283,391,62,263,166,26,10,132,11,27,258,609,31,286,72,39,28,160,542,181,45,101,60,3,40,202
 Companies API Application Programming Interface	4214
 Companies Act	11,574,697,637,1795,919,263,467,509,1068,258,6,492,149,1021,642,270,137,77,801
 Companies Act and AFRINIC	9506
@@ -582,6 +597,7 @@ Company Share Plan	7198
 Company Share Price	4896
 Company South Africa AFIS Automated Fingerprint	5533
 Company These Articles	3714
+Company Works	11007
 Company and Oranje-Nassau Développement S.C.A	7198
 Company for Developing Countries	1419
 Company's	4896
@@ -629,37 +645,40 @@ Comparative	2096,327,2402,58,13,780,1775,97,262,156,1923,825
 Comparative AI Strategy References	4528
 Comparative Analysis Synthesis Across	7966
 Comparative Analysis of Changes	10829
+Comparative Analysis of Data Governance	11028
 Comparative Analysis of Field Kitchen	6947
 Comparative Constitutional and Regulatory Analysis	10270
 Comparative Fit Index	4432
 Comparative Metrics	4896
 Comparative Perspectives	9399
 Comparative Political Studies	7886
+Comparative Study of Australia	11006
 Comparative Summary of Report	8606
 Comparative Valuation Metrics of Selected African Mobile	4896
 Comparative-report.pdf	961
 ComparativeSummaryofReport1andReport2 Criterion Report	8606
 Comparativecurve.Class1	8606
-Comparatively	961,1865,6744
-Comparativement	737,2659,1063
+Comparatively	961,1865,6744,1409
+Comparativement	737,2659,1063,6506
 Comparator	1623,433,439,5628
-Comparators	5267,417,779
+Comparators	5267,417,779,4534
 Comparação	2816
 Compare	1243,1946,2923,1536,732,225,824,12,1336
 Comparecer	4147
 Compared	236,704,888,153,305,1151,931,235,280,528,244,484,808,432,47,325,135,960,238,71,554,568,441,47,10,10,66,5,63
 Comparer	9278
-Comparing	236,530,5,1322,723,5053,114,477,1810,444,127
+Comparing	236,530,5,1322,723,5053,114,477,1810,444,127,136
 Comparison	1212,612,406,5560,814,525,1683
 Comparison Between Starlink	5874
 Comparison of Goodness-of-Fit Indices for Model	4432
 Comparison of National Government Budget Estimates	2775
 Comparison of South Sudan Humanitarian Response Plans	3583
 Comparison of Telecoms Industry Performance	3862
+Compartilhando	11045
 Comparé	2342,4617,696
 Comparées	2476
 Comparés	7670
-Compass	5700
+Compass	5700,5264
 Compass for Sustainable Development	7702
 Compassion International Inc Data Processor INST-281755F5493	7167
 Compassionate Family Carers Data Controller INST-7316470123B	7167
@@ -677,7 +696,7 @@ Compatible Android	10032
 Compea LTD Data Controller INST-454616C800D NAIROBI	7167
 Compea LTD Data Processor INST-454616C800D NAIROBI	7167
 Compel Social Media Giants	7853
-Compendium	5700
+Compendium	5700,5307
 Compendium Report	6948
 Compendium of Good Practices	10765,10
 Compendiums	10847
@@ -686,7 +705,7 @@ Compensate Customers Over Tariff Notice Breach	7411
 Compensated	7198
 Compensates Customers for Expired Bundles NITA-U Outlines	4608
 Compensating	1828
-Compensation	3,233,1574,965,2758,143,2019,1415,453
+Compensation	3,233,1574,965,2758,143,2019,1415,453,1412
 Compensation Conditional	4258
 Compensation PEES Plan	10876
 Compensation and Reparation Authority	3583
@@ -695,7 +714,7 @@ Compensation and Valuation System	2355
 Compensation of Consumption of Taxes	236
 Compensation of Employees	2775,4920
 Compensação	5169,5586
-Compete	13,2,524,37,218,1644,428,1281,127,2263,433,2206,1571,7,1,28
+Compete	13,2,524,37,218,1644,428,1281,127,2263,433,2206,1571,7,1,28,193
 Compete Amazon	10588
 Competence	4762
 Competence Licence	1988
@@ -709,8 +728,9 @@ Competency Based Curriculum CBK Central Bank	2775
 Competency Framework for AI Literacy	6948
 Competency-Based Curriculum	899,5673
 Competent	3861,6958
+Competent Courts of First	10979
 Competeve	9129
-Competing	766,5,490,832,3,852,98,745,641,2358,361,36,91,453,28,262,1,108,153,97,56,292,279,121,1,108,112,1435
+Competing	766,5,490,832,3,852,98,745,641,2358,361,36,91,453,28,262,1,108,153,97,56,292,279,121,1,108,112,1435,199
 Competing Interests	7836
 Competing Paradigms	5349
 Competition	961,282,575,459,658,1215,433,149,240,61,91,76,12,29,3,628,284,265,248,277,310,215,77,183,380,1038,194,168,526,53,465,163,126
@@ -734,7 +754,7 @@ Competition Limited	10718
 Competition Management	6946
 Competition Management Tel	6671
 Competition Management and Consumer Affairs	1797,1413,3880
-Competition Regulations	10759,76,2,1,74
+Competition Regulations	10759,76,2,1,74,56
 Competition Regulations Access	10759,78
 Competition Regulatory Authority	7381,3398
 Competition Space China European Union Data	9816
@@ -762,9 +782,11 @@ Competitive Quality	1818
 Competitive Tender Commission	3221
 Competitive Tendering	7695
 Competitive Transition Quality	1818
-Competitiveness	395,142,21,6913,3297,73
+Competitiveness	395,142,21,6913,3297,73,123,13
 Competitiveness Question	6421,1050
 Competitiveness Security	9067
+Competitiveness and Growth	10963,1
+Competitiveness and Innovation Practice Area	10964
 Competitiveness and Investment Global Department	4357
 Competitiveness and Sustainability	2918
 Competitividad	1701
@@ -792,7 +814,7 @@ Complainants	1807,1500,655
 Complainants The Complainants	3307
 Complainants. The Respondent’s Privacy Policy	3307
 Complaining	8460
-Complaint	1778,1337,1998,563,3,13,1056,2361,208,419
+Complaint	1778,1337,1998,563,3,13,1056,2361,208,419,1270
 Complaint Channels	3861
 Complaint Committee	1778
 Complaint Concerning Violation	5113
@@ -802,7 +824,7 @@ Complaint Rejected Complaint Upheld Appeal Process	10819
 Complaint Resolution Rate	5676
 Complaint Stage Recommended Timeline Acknowledgement	5676
 Complaint Tool	8529
-Complaints	34,1230,20,583,801,108,113,715,2061,11,11,57,159,636,281,126,817,697,969,18,1321,61
+Complaints	34,1230,20,583,801,108,113,715,2061,11,11,57,159,636,281,126,817,697,969,18,1321,61,131,2,2
 Complaints Handled	6946
 Complaints Handled Total Resolved Pending No	6946
 Complaints Handling RURA	718
@@ -831,6 +853,7 @@ Complementary Pathways	10841
 Complementary Pillar Data	2557
 Complementing	3398,398,327,316,144,659,221,51,213,1861,713,137,724,454,1225,23
 Complementing Africa	7518
+Complementing VAT	10997
 Complementing the Participation Agreement	4261
 Complemento	4209
 Complemento Específico	4209
@@ -847,7 +870,7 @@ Complements the Ministry of Health	2615
 Complements the OpenClinic HMIS	7132
 Completa Representantes	8003
 Completar	1701
-Complete	395,1079,514,131,305,49,1,36,158,321,2687,756,400,1156,612,1747,428
+Complete	395,1079,514,131,305,49,1,36,158,321,2687,756,400,1156,612,1747,428,230
 Complete CAC	6432
 Complete Communications Infrastructure	395
 Complete Follow-up Action	1778
@@ -878,7 +901,7 @@ Completion	1830,80,78,901,972,667,368,1936,1013,640,768,313,259,1
 Completion Date	1988,2908
 Completion Date FM Conditions Accounting	10829
 Completou	10777
-Complex	571,40,350,200,1787,1029,1699,3407,1758
+Complex	571,40,350,200,1787,1029,1699,3407,1758,176
 Complex Business-To-Business Services	5349
 Complex Emergencies. Shabaka Working Paper. Accessed	6947
 Complex Financial Interdependencies	9511
@@ -898,7 +921,8 @@ Complexo Administrativo Clássicos de Talatona	10770
 Complexo Escolar	7240,3526
 Complian	6432
 Complianc	6432
-Compliance	436,282,282,9,11,5,189,119,193,462,645,35,290,29,227,437,63,147,111,182,13,35,15,43,41,48,179,235,3,82,284,36,184,181,58,74,198,159,33,321,56,303,211,119,139,314,30,241,238,409,28,639,25,123,349,74,21,160,84,218,250,209,13,92,44,3,41,47
+Compliance	436,282,282,9,11,5,189,119,193,462,645,35,290,29,227,437,63,147,111,182,13,35,15,43,41,48,179,235,3,82,284,36,184,181,58,74,198,159,33,321,56,303,211,119,139,314,30,241,238,409,28,639,25,123,349,74,21,160,84,218,250,209,13,92,44,3,41,47,118
+Compliance Advisor Ombudsman	11007
 Compliance Agreements	7994
 Compliance Breaches	5939
 Compliance Burn	10738
@@ -959,15 +983,16 @@ Complète	6146
 Complétant le Code de Commerce	4567
 Compléter	3356
 Complété	3157
-Component	34,287,286,41,124,207,17,4,9,219,36,20,6,414,66,8,89,121,265,1,37,182,239,120,57,100,261,206,138,10,74,102,579,294,243,474,250,919,40,254,95,2702,592,546,61,3,33
+Component	34,287,286,41,124,199,8,17,4,9,219,36,20,6,414,66,8,89,121,265,1,37,182,239,120,57,100,261,206,138,10,74,102,579,294,243,474,250,919,40,254,95,2702,592,546,61,3,33,98,1
 Component B	5370
+Component Beneficiary Profile	10964
 Component Calculation	4896
 Component Climate Hazards Group InfraRed Precipitation	10763
 Component Diagrams	5665
 Component III	1176
 Component Manager	2989
 Component Managers	1228
-Component Name	3604
+Component Name	3604,7360
 Component Regional IDA National UCF	1704
 Component Technology Directory	1009
 Component Technology Mapping	1009
@@ -976,7 +1001,8 @@ Component3	1456
 Componente de Gestao Financeira	574
 Componente de Gestao da Receita	574
 Componentes	10777
-Components	236,191,837,167,141,132,163,121,158,107,1,37,421,892,74,785,1157,919,40,254,1450,785,1700
+Components	236,191,837,167,141,132,163,121,158,107,1,37,421,892,74,785,1157,919,40,254,1450,785,1700,196
+Components Adaptive Safety Nets Youth Economic	10963
 Components Baseline Period	1264,603,1737,7164
 Components COMPONENT	10768
 Components Component	2712,1941,1926,349
@@ -984,11 +1010,12 @@ Components Component Name Cost	1867,8901
 Components Consumer Services Distribution	4972
 Components Consumer Services Food	4972
 Components Consumer Services Pharma	4972
-Components Cost	3604
+Components Cost	3604,7360
 Components Monitoring	1867
 Components Organizations Borrower	3562
 Components RESULT FRAME TBL IO Indicator Name PBC	1284,9545
 Components RESULT FRAME TBL IO Indicator Name PBC Baseline	1228
+Components RESULT FRAME TBL IO PBC Baseline Intermediate	10964
 Components Resilient Digital Infrastructure Baseline Actual	4688,3189
 Components Sustainability Mechanism Component	6539
 Components Transportation Consumer Services Distribution	4972
@@ -1016,7 +1043,7 @@ Composante F	5370
 Composante G	5370
 Composante Mauritanie	5983
 Composante Niger du Projet	3989
-Composantes	5370,3521
+Composantes	5370,3521,2074
 Compose	6997
 Composed	3791
 Composite	9129
@@ -1042,7 +1069,8 @@ Compra de Mobiliario	4209
 Comprador Complex	4258
 Compreender	10777
 Compreender Quadros	10777
-Comprehensive	766,133,62,194,622,44,1762,46,232,353,168,228,1055,1283,811,1219,145,208,115,170,239,447,419,41,2,192
+Comprehend	11017
+Comprehensive	766,133,62,194,622,44,1762,46,232,353,168,228,1055,1283,811,1219,145,208,115,170,239,447,419,41,2,192,61
 Comprehensive AI	7548
 Comprehensive Africa Agriculture Development Programme	9609,152,496
 Comprehensive African Agricultural Development Programme	1257
@@ -1061,6 +1089,7 @@ Comprehensive Economic Partnership Agreement	4583
 Comprehensive Economic Partnership RECs Regional Economic	1243
 Comprehensive Emergency Obstetric Newborn Care	4301
 Comprehensive Governance Framework ESTABLISHING	3861
+Comprehensive Guide for Regulators	11007
 Comprehensive Income	1554
 Comprehensive Integrated Digital Health Information System	7707
 Comprehensive Integrated Health Information System	2709
@@ -1068,11 +1097,13 @@ Comprehensive Mental Health Action Plan	10776
 Comprehensive Overview of Its Diverse Applications	6948
 Comprehensive Peace Agreement	3583
 Comprehensive Pre-Election Testing of BVAS INEC	10049
+Comprehensive Reforms	10997
 Comprehensive Report	3583
 Comprehensive and Create	5244
 Comprehensive and Progressive Trans-Pacific Partnership	961
 Comprehensiveness	1155
-Comprendre	3242,801,1178,1162,1347,489,958,1534,131
+Comprehensiveness Land	10960
+Comprendre	3242,801,1178,1162,1347,489,958,1534,131,123
 Comprise	747
 Comprised	3583
 Comprises	4528
@@ -1090,22 +1121,29 @@ Compromissos Estratégicos	5663
 Comprovada	10754
 Compréhension	7977
 Comptabilisation	10876
-Comptabilité	969,1373,134,3079,2346,2594,217,164
+Comptabilité	969,1373,134,3079,2346,2594,217,164,99
 Comptabilité Publique	3396,208,3223,1074,849,1962,164
 Comptabilité Publique DNCMP Direction Nationale de Contrôle	10876
 Comptabilité Publique DPP Direction	10712
+Comptabilité SPH	10975
 Comptabilité Stratégie Transport Telecom	2342
+Comptabilité-Matières	10975
 Comptable	8321,2284,198,73
 Comptable Vérifie	10876
-Comptables	10876
-Compte	12,417,118,3,18,20,1091,295,368,83,541,78,1,144,167,2470,1185,638,6,15,137,257,827,190,1714,41,38,2
-Compte Administratif	969
+Comptables	10876,99
+Compte	12,417,118,3,18,20,1091,295,368,83,541,78,1,144,167,2470,1185,638,6,15,137,257,827,190,1714,41,38,2,89
+Compte Administratif	969,10006
+Compte Administratif. Budgétisation	10975
+Compte Courant Postal	10981
+Compte Général	10981
+Compte Unique du Trésor	10981
 Compte de Appui	10876
 Compte de Financement	10876
 Compte de Financement du Projet	10876
 Compte de Gestion	969
 Compte de Programme IDA	10876
 Comptes	2476,3264,1915
+Comptes Mobile Money	10965
 Comptes Nationaux	737
 Comptes Publics Edith EKIRI MOUNOMBI	1231
 Comptes Spéciaux du Trésor	1321,724
@@ -1161,7 +1199,8 @@ Computech Institute	9082
 Computech Limited Data Controller INST-933817C4FDC NAIROBI	7167
 Computech Limited Data Processor INST-933817C4FDC NAIROBI	7167
 Computeconfusionmatrixentries	8606
-Computer	26,8,192,10,346,155,46,217,154,939,3,5521,405,1594,276
+Computed Value Method Method	11036
+Computer	26,8,192,10,346,155,46,217,154,939,3,5521,405,1594,276,1087
 Computer Applications	10001
 Computer Assisted Personal Interview	582,3462,6733
 Computer Assisted Personal Interview1	4040
@@ -1201,7 +1240,7 @@ Computer Misuse Act. NITA-U ED	3275
 Computer Misuse and Cyber Crimes Act	6432
 Computer Misuse and Cybercrime	6432
 Computer Misuse and Cybercrime Act	783
-Computer Misuse and Cybercrimes	4583,2204,3153
+Computer Misuse and Cybercrimes	4583,2204,3153,1175
 Computer Misuse and Cybercrimes Act	2709,1883,1840,355,694,66,1,2095,212
 Computer Misuse and Cybersecurity	7548
 Computer Networks and ISDN Systems	3782
@@ -1250,9 +1289,9 @@ Computerisation P42	5634
 Computerised	9237
 Computerization of Government Procedures	10663
 Computerized	1824
-Computers	236,346,7440,438,146,234,288,488,1143,76,2,1,74
+Computers	236,346,7440,438,146,234,288,488,1143,76,2,1,74,56
 Computers Conference	9237
-Computers Public Perception of Accountability	10835,3
+Computers Public Perception of Accountability	10835,3,130
 Computers Shipping	10759,78
 Computing	2096,7379
 Computing Can Unlock	4970
@@ -1289,9 +1328,10 @@ Consumer Complaints The Authority	6946
 Contemporary Computing and Informatics	9237
 Continental Data Governance Compact	6107
 Contingency Emergency Reconstruction Component	1228
-Contingency Emergency Response Component	2989,7779
-Contingent Emergency Response Component	996,232,36,20,583,1022,100,573,42,1049,2180,3935,61
+Contingency Emergency Response Component	2989,7779,195
+Contingent Emergency Response Component	996,232,36,20,583,1022,100,573,42,1049,2180,3935,61,135
 Contingent Emergency Response Component CERC Steering	1228
+Contingent Emergency Response Component CPF Comité	10964
 Contingent Emergency Response Component CPF Country	10768
 Contingent Emergency Response Component Community Multimedia	4653
 Contingent Emergency Response Component Indicator Name	4653
@@ -1412,7 +1452,7 @@ Department of Mathematics and Computer Science	5097
 Department of Productivity and Competitiveness	5250
 Deputy Comptroller-General	9361
 Description AoJ Computerisation	1667,977,2996
-Description Component	416,374
+Description Component	416,374,181
 Description Component of FCDO's Somalia Monitoring Programme	650
 Description Components	1003
 Description Comprehensive Integrated ICT Strategy for Africa	187
@@ -1442,6 +1482,7 @@ Desktop Computers	6946
 Develop AI Infrastructure and Green Compute Zones	7548
 Develop Digital Trade Competitiveness In Selected	626
 Development of Computer Services	2919
+Developpment Company DSCE Document de Stratégie	10975
 Digital Access and Inclusion Component	1228,1761,1664
 Digital Compass	845
 Digital Competencies for Teachers	8609
@@ -1472,6 +1513,7 @@ Djibouti Enacts Comprehensive Digital Code	3193
 Documents Comprising the Application	1638
 Domain Compromise	3364
 Domestic Economy Compensation	2775
+Dynamic Computable General Equilibrium Model	10980
 Développement des Compétences	10944
 E&S Completion	1988
 E&S Completion Upon	1988
@@ -1513,10 +1555,11 @@ Eastern Data Western Computing	5242
 Econet InfraCo Limited. The Company	5538
 Econet Infrastructure Company Limited	4263,633
 Economic Complexity Index	10157
-Economic Complexity PTS Political Terror Scale	10835,3
+Economic Complexity PTS Political Terror Scale	10835,3,130
 Economic Sovereignty and Competitiveness Zimbabwe	4528
+Edge Computing	11000
 Edition Companion	1353
-Education Completion	10759,76,2,1
+Education Completion	10759,76,2,1,130
 Education Education Enrolment Education Completion Human	10837
 Education Kenya Compact	899
 Egyptian Banks Company	6938
@@ -1526,8 +1569,10 @@ Electricity Company of Ghana FDI Foreign	4126
 Electricity Generation and Transmission Company	1539
 Electricity Transmission Company Limited KFS Kenya	2775
 Electricity. Computers	9025
+Electricité Le Compte Administratif	10975
 Electronic Banking Services Company	1851
 Electronic Programming Guide Submission Complaints Handling	6946
+Elgar Companion	11028
 Eligible Citizens Companion	741
 Ellen Johnson Sirleaf Ministerial Complex	7617,103
 Email Signature of Complainant	1778
@@ -1540,6 +1585,7 @@ Emerging Technologies Compute and Infrastructure	7548
 Emerging Technologies Compute and Infrastructure Plan	7548
 Emerging Technologies and Data Readiness and Compliance	7548
 Emirates International Investment Company. Blnk	4457,2071
+EmpLoi ECG Electricity Company of Ghana EP	10975
 Employees of Companies Tribunal	3714
 Empowerment and Fostering Competitive ICT Enhancement of Key	6946
 Empresas de Compensación	4209
@@ -1554,7 +1600,8 @@ Enquiry Consumer Complaints FAQs Consumer Complaints	9109
 Entrants Shake Up Competition	3625
 Equity Commitment Belgian Investment Company for Developing	821
 Ericsson and MTN Complete MoMo Cloud Migration	10666
-Erwan Compaoré Lefaso.net	6497,783
+Erwan Compaoré Lefaso.net	6497,783,3783
+Essential Analytics for Compliance Risk Management. IMF	10997
 Establishing Computer Security Response Units	1000
 Establishing Cybercrime Complaint Center	1000
 Establishment Of The National Computer Incident	2256
@@ -1581,7 +1628,7 @@ Evolution of Competitive Telecom Ecosystems	3292,1688,360,1433
 Evolve Holding Investment Company	6653
 Exchange Act. The Company	7198
 Excluding Cell C and Comm Equipment Company	9911
-Executive Compliance	10759,76,2,1
+Executive Compliance	10759,76,2,1,130
 Executive Secretary Wendlassida Patrice Compaoré	4182
 Expected Compute and Storage Expansion	5793
 Experts Company MORE STORIES UIB	5101,850
@@ -1661,6 +1708,7 @@ Gambia Telecommunications Company Ltd	4519,24
 Gambia Transport Service Company	3066
 Gastos de Organización de Competiciones Deportivas	4209
 General Complaints	6946
+General Government Revenue Composition	10997
 General and Complex Systems Theories	2948
 Generation Under Component	1988
 Genuine Parts Company	4434
@@ -1668,6 +1716,8 @@ Geoeconomic Competition	4676
 German Competition Act	10090
 Ghana Hostel Complex	3386
 Ghana National Computer Emergency Response Team	775
+Ghana Publishing Company and Commissioners for Oaths	11082
+Ghana Publishing Company. The NSA	11082
 Gitinga Comprehensive School	10313
 Glo Steady Competitive	6051
 Global Compact	1901
@@ -1677,7 +1727,8 @@ Global Comparison of Cable Repair Commencement	2677
 Global Comparison of YoY Changes	4972
 Global Competitiveness	1154
 Global Competitiveness Report	4840
-Global Digital Compact	1775,335,706,2987,583,574,37,106,33,36,70,306,373,192,532,245,968,352
+Global Digital Compact	1775,335,706,2987,583,574,37,106,33,36,70,306,373,192,532,245,968,352,818
+Global Digital Compact Submissions	11028
 Global Digital Compact. Tweet URL	9786
 Global Digital Compact. Yet	6386,856
 Global Talent Competitiveness Index	4528
@@ -1696,10 +1747,12 @@ Government Communications Network Complete	2989
 Government Complex	9439
 Government Component	5533
 Government Conceals Names of Companies Awarded Direct	9399
+Government Revenue and Tax Composition Trends	10997
 Government and Academic Computer Security Incident Response	2989
 Government of Ghana GRIDCO Ghana Grid Company	4126
 Government’s Comprehensive Approach	10058
 Grande Rencontre des Compliance	7123
+Grands Comptes	10975
 Great Power Competition	4676
 Greater Pioneer Operating Company	3583
 Green Compute	7548
@@ -1794,10 +1847,12 @@ ITWeb Sectors Companies About Subscribe Malatsi	7051
 ITWeb Sectors Companies About Subscribe Operation	5922
 ITWeb Sectors Companies About Subscribe SA	3290
 ITWeb Sectors Companies About Subscribe Timeline	5175
+IV. Global Comparative Analysis of AI Systems	11036
 IVRS. The Sierra Leone Agro-Processing Competitiveness	1161
 Ibadan Electricity Distribution Company	8157
 Idemia and Airports Company South Africa	2521
 Implementation Completion Report	10779
+Implementation Completion and Results Report	10964
 Implementation Progress and Components	996
 Inclusive Component	1818
 Independent Audits and Compliance Scorecards	6936
@@ -1806,6 +1861,7 @@ India Company	2511
 India-Mozambique Bilateral Relations Companion	2667
 Indian Banks and Payments Companies	5124
 Indicators of Compromise Vulnerability	10721
+Indirect Component	10964
 Individual Company	22
 Individual Comprehensive	1900
 Industry and Competition	1009,606,2627,391,1232,967,1186,26,1676,215
@@ -1876,9 +1932,11 @@ Journal of Organizational Computing and Electronic Commerce	4432,917
 Journal of Parallel and Distributed Computing	8605
 Jun-2024. Component	1704
 Junho. Complementando	4146
+Juridiction des Comptes	10981
 Jurisdictional Complexity and Regulatory Overlap	4848
 KENYA Basic ICT Competencies	899
 KEY M&E COMPONENTS	5245
+KPDC Kribi Power Developpment Company	10975
 Kalumbila District Council. Component	1988
 Kalumbila District of North-Western Province. Component	1988
 Kenya Company Limited	6946
@@ -1919,6 +1977,7 @@ La Compétition des Plans	6827
 Lagos. Competitive	6955
 Landlocked President Blaise Compaoré	10838
 Laptop Computer Specifications DATE QUANTITY	34
+Large Compagnies	10980
 Latin American Companies	226
 Layer Component Description References Contextual	9128
 Legacy System Migration and Compatibility Requirements	3861
@@ -1945,6 +2004,7 @@ Location Data Residency Compliance	6432
 Log of Complaints	6946
 Loss and Other Comprehensive Income	1154
 Lou Compernolle	10865
+Lower Middle Income Complying	10976
 Luanda-RCMJ-Investimentos Company	9399
 M Benin Power Compact	87
 M CONSULT COMPANY LIMITED Data Controller	7167
@@ -1967,6 +2027,7 @@ MLA Computerisation	2640,2996
 MNO'S STAFF COMPOSITION	3862
 MON COMPTE S'ABONNER LE KIOSQUE Actualités	2353,47,39,1,1,1,1,35,104,165,81,292,300,1479,308,258,41,255,18,1345,145
 MONITORING AND COMPLIANCE ARCHITECTURE	3861
+MSME Competitiveness Project	10964
 MSP Computerisation	1660,977,2995
 MTC Telecom Namibia Company Powercom Paratus	1944
 MTE Computerisation	2642,2996
@@ -2006,6 +2067,7 @@ Meta Companies	5113
 Methods of Computing Core Inflation Measures	2775
 Microsoft Frontier Company	7007
 Mikati. Compte	2828
+Milliards FCFA Compensation	10975
 Mimosa Mining Company	1554
 Ministerial Complex	4272
 Ministry. Computer	34
@@ -2026,6 +2088,8 @@ Moçambique Companion	2125
 Mubadala Investment Company	706,430,408,7554,46,201,1
 Mukuru Companion Card	10418
 Multi-Tier Framework Companion	423
+Multistakeholder Governance for DPI A COMPENDIUM	11006
+Multistakeholder Governance for DPI A Compendium of Evidence	11006,1
 Mutapa Investment Fund Company	7036
 MyMzansi. Compare	3922
 N COLLOCATION COMPANIES NO. TOWERS	3862
@@ -2077,6 +2141,7 @@ National Computer Network	5484
 National Computer Response Team. Penalty	587
 National Computer Security Incident Response	5166
 National Computer Security Incident Response Team	6778,1795,324
+National Computer and Cyber Crimes Co-ordination Committee	11115
 National Computer and Cybercrime Coordination Committee	7481,3139
 National Computer and Cybercrimes Co-ordination Committee	6787
 National Data Exchange Regulation Compliance	5665
@@ -2090,6 +2155,7 @@ National High-Performance Computing	4528
 National Kenya Computer Incident	6946
 National Kenya Computer Incident Response Team	7481
 National Labour AI Competency Framework for Civil	4126
+National Oil Company of Malawi Limited	11089
 National Pharmaceutical Company. The Solar for Health	3385
 National QoS Comparison	6051
 National Teacher AI Competency Framework	8609
@@ -2128,7 +2194,7 @@ OVERVIEW OF CLOUD COMPUTING	6432
 OVERVIEW OF CLOUD COMPUTING Policy	6432
 OWASP Compliance Security	5665
 Observatory of Economic Complexity	2889
-Obtain Executive Compliance	10835,3
+Obtain Executive Compliance	10835,3,130
 October. Companies	7209
 Office of Health Standards Compliance	396
 Office of Registrar of Companiesn	9842
@@ -2145,7 +2211,7 @@ Operador de Plataformas de Computação	6970
 Operadores de Plataformas de Computação	6970
 Operational Compliance	10157
 Operations Manager Complete	2989
-Operator CAGR Compound Annual Growth Rate	3184,1,1340
+Operator CAGR Compound Annual Growth Rate	3184,1,1340,6470
 Operator Compliance Accreditation System	10324
 Operator Type Compliance	6432
 Operação de Plataformas de Computação	2816
@@ -2166,6 +2232,7 @@ PI and Component	10768
 PIB. Compte	1679
 PIM. Component	10768
 PIU Component	2712,3867
+PIU Plan Competition	10964
 PKF Financial Consulting Services Zambia. Compliance	10628
 POLICY COMPLIANCE Does	3562
 POLICY COMPLIANCE Policy Does	1867,1737,2935,4229
@@ -2201,6 +2268,7 @@ Performance Indicator Responsible Person Component	1988
 Perplexity Computer	5599,966
 Personal Computers Entities	6432
 Phase Timeline Complexity Level Risk Level	6432
+Plan Comptable	10975
 Planning CONSUMER PROCESS Compare	418
 Plataformas de Computação	6970
 Platform Group Company Secretary and Registered	4896
@@ -2236,6 +2304,7 @@ Programas de Computador	10747
 Programme Compétences	10925
 Programmes Compendiums	10847
 Programs’ Components	10775
+Project Beneficiaries Component Beneficiary Profile	10964
 Project Company	2253,1203,1378,4149
 Project Company. Once the Project Company	3456
 Project Company. The PIU	3456
@@ -2307,6 +2376,7 @@ Reported Number and Value of Private Buildings Completed	2775
 Reports the COMPLETION	6358
 Republic of South Africa Company	10793
 Request Form Portals Complaints Portal Voice	9109
+Response Component	10963,1
 Response Component EDGE Digital Governance and Economy	2473
 Responsibilities of Technology Companies Operating	8485
 Responsibility Timing Timing Value Status Completion	10870
@@ -2353,6 +2423,7 @@ SMF. Compte	2342
 SN Computer Science	8604
 SNDI National Computer Development Company	3604
 SSA COMPONENT	854
+SSA LMIC Cameroon Cameroon and Comparators Median	10997
 STRATEGIC COMPONENTS	396
 STRIVE FOR IMPROVEMENT Compiled	1686
 SUBSECÇÃO XI Operador de Plataformas de Computação	6970
@@ -2401,6 +2472,7 @@ Smart City Technology Company Ltd	3862
 Social Systems Ministry of Completion NA Economy	10870
 Société Quipux Afrique S.A. Compte	2342
 Soft Computing	9128
+Solving Complex Problems. Harvard University	11007
 Somali Political Compass	5172
 Somalia Computer	5338
 Somalia Computer Incident Response Team	4810,528,332
@@ -2439,6 +2511,8 @@ Subject Company Regulation M-A Item	7198
 Submarine Cable Route Survey Companies and Governments	3513
 Subsidies Compensation	2775
 Subsidies Compensation Platform	1954,521
+Substantial COMPLIANCE Policy Does	10964
+Substantially Complete	11005
 Substantial’. Component	10829
 Sudan Companion	779
 Sudan Following Cybercrime Complaint	10213
@@ -2474,9 +2548,11 @@ Tanzania Computer Emergency Response Team	2703,3465
 Tanzania Mainland Companion	327
 Target Compliance Level	6946
 Tatenda Alice Ngowe Group Company Secretary	4896
+Tax Administration Performance Shapes Compliance	10997
 Tax Compliance	1698
 Tax Compliance Certificate	10064
 Tax Compliance Certiﬁcate	2709
+Tax Revenue Composition	10997
 Taxpayer COMPLIED	6921
 Teacher ICT Competency17 Competency TSC CEMASTEA	899
 Teachers Kenya Global Partnership for Education Compact	899
@@ -2514,9 +2590,10 @@ Tunisia Companion	442,2,1214
 Tunisie. Comparativement	7449
 Type and Objects of Company Rationale This Article	8866
 Técnico da Difusão COMPOSIÇÃO	10757
+U.S. Company Astrophysics Inc	11112
 UEMOA Comptes	4459
 UN Global Compact SDG Innovation Accelerator	8035
-UN Global Digital Compact	1862,820,4865,1,373
+UN Global Digital Compact	1862,820,4865,1,373,3107
 UN Global Digital Compact Digital	7548
 UNESCO ICT Competency Framework for Teachers	899,5933
 UNESCO ICT Competency Framework for Teachers. Paris	899
@@ -2529,11 +2606,13 @@ Uganda Printing and Publishing Company	1198
 Uganda Security Printing Company	320,2355
 Uganda. Components	394
 Under Component	1264,20,583,121,901,3650,4290
+Under Components	10964
 Understanding and Competency	899
 Undertook Comparable Company Analysis	4896
 Unified Competing Interest	1212
 Unified Government Complaints System	9414
 United Nations International Computing Centre	9147
+United Nations' Global Digital Compact	11028
 Universal Journal of Computer Sciences and Communications	9129
 University of Oxford's Department of Computer Science	8529
 Université de Kinshasa. Composé	5888
@@ -2562,6 +2641,7 @@ WHO. FIGURE A.1 THE COMPONENTS	1009
 WINDING-UP OF CLOSELY HELD COMPANIES Application	3714
 WINDING-UP OF SOLVENT COMPANIES AND DEREGISTERING	3714
 WIOCC Holding Company Ltd	892
+WOMEN SAVED FORMALLY COMPARED	10977
 Waste Management Hierarchy Under Component	1988
 Watch OEC Observatory for Economic Complexity PTS	10759,78
 Wendlassida Patrice Compaoré	4059

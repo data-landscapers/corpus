@@ -24,6 +24,7 @@ Application Requirements Applicants	9198
 Application Requirements Interested	9203
 Approve Requisition	9124
 Approved Provider Requirement	6432
+Arrangement and Request for Augmentation of Access	11105
 AttributeSelection Require	8606
 Authority. PART TWO LICENSING REQUIREMENT	762
 B.2 Requirements	8840
@@ -76,6 +77,7 @@ DIGITAL SYSTEM AND TECHNOLOGY REQUIREMENTS Standard	9855
 DISTRIBUTIONS BY COMPANIES Requirements	3714
 DUAT Requests	427
 Data Residency Requirements	6432
+Determinations Meets Minimum Requirements	11005
 Development and Sovereignty Actually Require	3874
 Digital Sovereignty Requires More Than Just	6879
 Digital System and Technology Requirements	9855
@@ -152,7 +154,10 @@ Malawi Request. State	5692
 Managed Requirements DGov	9237
 Mandates Requirement	10738
 Meaningful Consultation ESS and Requirements National Laws	1988
+Meet Minimum Requirements	11005
+Meeting Minimum Fiscal Transparency Requirements Significant	11005
 Membership Required	2740,6058,231
+Minimum Fiscal Transparency Requirements House Report	11005
 Minimum Required Data	6423
 Minimum Sample Size Requirements for Seasonal Forecasting	236
 NA Requires	10908
@@ -179,6 +184,7 @@ Obtain the Installation Request	34
 Occupational Health and Safety Requirements	1988
 Operational Requirements. Each RIR	3503
 Ownership Requirements for Licences	6621
+PIU. Implementation Support Plan and Resource Requirements	10964
 POLICY REQUIREMENTS	6432
 PURPOSE OF THE REQUEST	2709
 Participation Requirements	7548
@@ -242,14 +248,14 @@ Reporting and Oversight Requirements	3861
 Reporting and Oversight Requirements Entities	3861
 Requerimento	794
 Requerir	163
-Request	34,202,351,1241,167,1892,547,427,932,630,9,2702,140,356,106,157,875,7,34
+Request	34,202,351,1241,167,1892,547,427,932,630,9,2702,140,356,106,157,875,7,34,161,47
 Request Form Portals Complaints Portal Voice	9109
 Request for Applications	7368,33,1143,38
 Request for Comments	991
 Request for Expression of Interest	962
 Request for Expressions of Interest	8669
 Request for Expressions of Interest Notice	9892,1
-Request for Information	2273,353,4320
+Request for Information	2273,353,4320,4090
 Request for Proposal	2743,3050,2158
 Request for Proposals	1371,2233,4347
 Request for Quotations	2989
@@ -266,11 +272,11 @@ Requestors and Providers	3815
 Requests	1474,304,2037,46,2011,69,1006,265,1628,283,937,756
 Requests the AU Commission	5825
 Requiert	10876
-Require	1988,2138,1118,432,1,744,21,390,104,13,2,597,2389
+Require	1988,2138,1118,432,1,744,21,390,104,13,2,597,2389,1023,119
 Require AI	7548
 Require SSHv2	10721
 Require the FM	3604
-Required	34,1906,175,4,1595,1,146,2003,452,107,2700,80
+Required	34,1906,175,4,1595,1,146,2003,452,107,2700,80,1775
 Required Breakeven Revenue	10738
 Required Date	1778
 Required Documentation	6442
@@ -304,9 +310,10 @@ Requirements for Issuance	762
 Requirements for Startup Survival	226
 Requirements for Type Approval	736
 Requirementsforlocalclinicalval-	8301
-Requires	961,2900,1804,767,1810,882,1732
-Requiring	961,282,3285,835,2108,3304
+Requires	961,2900,1804,767,1810,882,1732,146
+Requiring	961,282,3285,835,2108,3304,230,74
 Requiring RIRs	3502
+Requiring Telecom Users	11079
 Requisite Regulatory Approvals	7198
 Requisitos	14,525,255,1644,2731,1801,3785,20
 Requisitos Especiais	3519
@@ -339,10 +346,12 @@ Service Delivery Requirements	9855
 Service Request	34
 Shareholder Approval Required Econet	4896
 SimilarityBetweenTwoPatients Require	8606
+Skills Mix Required Number of Trips Task	10964
 Software Installation Request Form	34
 Software Requirements Specifications	5665
 Special Certification Requirements	9123
 Spectrum Outlook and Capacity Requirements	5245
+Standard Request for Proposals	10964
 Strategic Plan Polls Request Forms Benchmarking	9109
 Strong Requires	961
 Support Requested	8999
@@ -368,6 +377,7 @@ Vote Required	7198
 WEST AFRICA DATA CENTER CAPACITY REQUIREMENTS	10861
 Web Request	3364
 Workloads Requirements	10616
+World Bank’s Standard Request for Proposals	10964
 ZSE Listings Requirements	4263,633
 ZSE Listings Requirements. Accordingly	4896
 ZSE and VFEX Listings Requirements	4896

@@ -1,3 +1,4 @@
+ADDITIONAL GDP	11004
 AI GDP	3859
 AU CZI ECD GDP HIT HPC	4528
 Africa's GDP	1038,1769,4,146,4474,173,2301,810
@@ -21,7 +22,7 @@ Carvalho GDA	10780
 Co-Develop and GDN	10852
 Compiling GDP	236
 Congo's GDP	3096
-Current USD GDP	10835,3
+Current USD GDP	10835,3,130
 DPI. GDN	10852
 DRC GDP	3515
 DRC’s GDP	4826
@@ -33,7 +34,7 @@ EU GDPR	961,282,104,1377,82,750,4880
 EU's GDPR	1652
 EU’s GDPR	961,2331,2201,850
 Economic Co-operation and Development GDPR General Data	6936
-Effectiveness GDP Gross Domestic Product RFS	3184,1,1340
+Effectiveness GDP Gross Domestic Product RFS	3184,1,1340,6470
 Equatorial Guinea’s GDP	10841
 Ethiopia’s ID GDN	10852
 European Union’s GDP	10819
@@ -57,6 +58,15 @@ GDA Data Assessment Framework	1161
 GDAP PCU Coordinator	6277
 GDAZAfQIPrAArorBW	6423
 GDC and WSIS	7242
+GDC-submission 5Rights.pdf. Google Scholar Ryan	11028
+GDC-submission AARP.pdf. Google Scholar Ação Educativa	11028
+GDC-submission APC.pdf. Google Scholar Braun	11028
+GDC-submission ICNL-ECNL.pdf. Google Scholar Iglesias Keller	11028
+GDC-submission R3D.pdf. Google Scholar Puukko	11028
+GDC-submission Southern Alliance.pdf. Google Scholar Tjahja	11028
+GDC-submission-BSM-Academy.pdf. Google Scholar Cammaerts	11028
+GDC. All	11028
+GDC. Theoretically	11028
 GDD Visibility Tech Sprint and Prototype	2203
 GDF-KSEC	6729
 GDJF and GSA	6960
@@ -69,7 +79,8 @@ GDN’s Four Gear Approach	10852
 GDN’s ITERATION ARE CRUCIAL	10852
 GDP Contribution of Target Sectors	4528
 GDP Expenditure Category	2775
-GDP GDP	10835,3
+GDP FDI	10969
+GDP GDP	10835,3,130
 GDP GFDRR GoA Senior Health and Community	10763
 GDP Gross Domestic Product GEF Global	7548
 GDP Grows	8466
@@ -77,14 +88,17 @@ GDP Growth	8126
 GDP Industry	2775
 GDP Investment Into	1828
 GDP MSME’s Strengthening	5245
+GDP Market	10969
 GDP Millions Current USD	10759
 GDP Nations	2775
 GDP PPP	4840
 GDP Per	2775
 GDP Population	10837
+GDP QS	10969
 GDP RI6	10779
-GDP Real GDP	3184,1,1340
+GDP Real GDP	3184,1,1340,6470
 GDP Transport	5245
+GDP Unicorn	10969
 GDP Weighted Averages	1828
 GDP ZiG1	4392
 GDP and ICT	5245,5611
@@ -96,8 +110,10 @@ GDP of Ghana	236
 GDP of Sub-Saharan Africa	2775
 GDP of US	1264,9555
 GDP of Zimbabwe	9396
+GDP--ten	10985
 GDP-projection	5230
 GDP-weighted	1828
+GDP. Around	10963,1
 GDP. Authorities	6458
 GDP. Businesses	1814
 GDP. But Econsult	4932
@@ -123,6 +139,7 @@ GDP. Separately	6893
 GDP. So	8466
 GDP. Social	10846
 GDP. Submarine	1363
+GDP. Taking	10980
 GDP. Thanks	3394
 GDP. The GSS	236
 GDP. The Global Crypto Adoption Index	9709
@@ -174,6 +191,8 @@ GDPR.EU	1243
 GDPRinterpretive	8436
 GDPand Inequality	1828
 GDS Government Digital Service	4214
+GDS ORION	10975
+GDS Orion Licence Dossier	10975
 GDS.aspx da Silva	8603
 GDS1 Issued	8166
 GIFEC and GDCL	4484
@@ -215,7 +234,7 @@ Non-Oil GDP	1828
 Open Source Report.pdf GDPR.EU	1243
 PA9 MU GDP RI9	10779
 Private Sector GDP	958
-Ready For Service GDPR General Data	3184,1,1340
+Ready For Service GDPR General Data	3184,1,1340,6470
 Real GDP	940,888,947,762,1710,408,2040,3086
 Real GDP Gini	1828
 Real GDP Growth	940,1835,2880
@@ -228,6 +247,7 @@ Relative GDP	1363
 Saharan Africa's GDP. Yet	3691
 Sector GDP	10856
 Services GBP Great British Pound GDP	1243
+Social Standards GBV Financial Management GDP	10964
 South African GDP	1208
 South Sudan's GDP	7749
 Stats SA’s GDP	7751
@@ -238,6 +258,7 @@ System GDP Gross Domestic Product GEMS	10829
 Tanzania’s GDP	4714,5878
 Telecommunication GDP Gross Domestic Product GFCF	236
 UK GDRP	8436
+UN's GDC	11028
 US GDP	8126
 US Stored Communications Act and GDPR	10088
 Under the GDPR	7081,1355,1551
@@ -248,6 +269,7 @@ Unlike the GDPR	2806,3921
 Violence GDP Gross Domestic Product GHG	1264
 Violence GDP Gross Domestic Product GRF	1867
 Weak GDPR	8436
+World Bank and OECD GDP	10969
 World Development Indicators Benin’s GDP	10856
 Year Information and Communication GDP-Current	6946
 Yet the GDC	7242

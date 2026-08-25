@@ -1,5 +1,5 @@
 AFR Afrobarometer AUC African Union Commission	10759,78
-AFR Afrobarometer UNESCO United Nations Educational	10835,3
+AFR Afrobarometer UNESCO United Nations Educational	10835,3,130
 AFRO BEAUTY PLASTIC CENTRE LIMITED Data	7167
 AFRO Digital Finance Team	2184
 AFRO-ASIAN REINSURANCE BROKERS	7167
@@ -15,9 +15,9 @@ Afro-descendants	3076
 Afro-feminist	4443,4270
 AfroQuality	10464
 AfroXLMR	9622
-Afrobarometer	1230,6432,224,1730,63,383,391
+Afrobarometer	1230,6432,224,1730,63,383,391,532
 Afrobarometer Dispatch No	7886
-Afrobarometer Round	7886
+Afrobarometer Round	7886,3099
 Afrobarometer Working Papers	7886
 Afrobarometer Working Papers Afrobarometer Working Papers	7886
 Afrobarometer Working Papers Appendix Pearson Khi2	7886
@@ -35,7 +35,7 @@ Afrobarometer Working Papers Trust	7886
 Afrobarometer Working Papers Wald	7886
 Afrobarometer Working Papers Working Paper No	7886
 Afrobarometer. Nearly	10759,78
-Afrobarometer. Sustainable Environment Nearly	10835,3
+Afrobarometer. Sustainable Environment Nearly	10835,3,130
 Afrobarometer’s National Partners	7886
 Afrobeat	9739
 Afrobeats	9739
@@ -54,6 +54,7 @@ Haratine and Afro-Mauritanian	6719
 Ivoire-based Afro Mobile SARL	10518
 Jornal de Angola and AFRO Health Observatory. Institutional	10776
 Next Afrobeats Star	9560
+Official Use Only References Afrobarometer	10985
 Robert Mattes Afrobarometer	7886
 Systemic Barriers Gendered Consequences An Afro-feminist	4443
 UNECA and AFROPAC	9162

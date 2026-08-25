@@ -25,6 +25,7 @@ Africa CDC DG Jean Kaseya	5213
 Africa's Largest' Jessica Erobomhan Chairman	9571
 Afrique Burundi Jeunesse	9810
 Agence Emploi Jeunes	10942,1
+Agence. LE DIRECTEUR GENERAL NKOU Jean	10975
 Agenda Jeunesse	8237
 Agripreneuriat des Jeunes	10492
 Amada De Jesus Lourenco Rodrigues	10763
@@ -105,6 +106,7 @@ Economie Numérique. Je	7470
 Effectiveness of Angola’s HIS Jedinstveni	10780
 Embajada A3 Jefe Económico Admón.. A3	4209
 Embajador Gran Canciller Jefe Económico	4209
+Emploi des Jeunes	10963,1
 Employabilité des Jeunes du Mali Comme	7634
 Espace JEKAD	6810
 Especialista Grupo F Jefe Servicio Grupo	4209
@@ -123,6 +125,7 @@ Finances Jean-Marie OGANDAGA	548
 Fiscal Jefe	4209
 Fondation Jeunesse	1005
 G Inspector Grupo G Jefe Servicio	4209
+Gamabika Jeremie	10971
 Gashami Jean Pierre Guy	1814
 Gasoline Diesel Kerosene Jet	1828
 General Adjunto C. Nac. UNESCO Jefe	4209
@@ -147,6 +150,7 @@ IGAD Secretariat Immigration Expert Mujib Jemal	10317
 Impossible Position Africa CDC Director-General Jean	5456
 Industrie du Burkina Faso. Je	10259
 Innovation. Par Jean Materne Zambo Avez-vous	10691
+Installation des Jeunes Ministry of Agriculteurs	10985
 Interprete Traductor Embajada A1 Jefe Económico	4209
 Interventor de Cuentas Parlamento Jefe de Coordinación	4209
 Inês Correia Botelho JE Leitor	4938
@@ -169,6 +173,7 @@ JEFATURA TOTAL DIRECTIVO INCIDENTES Y INFRAESTRUCTURAS	4209
 JEFE ECONOMICO	4209
 JEFE ECONOMICO Y ADMINISTRATIVO	4209
 JEL CLASSIFICATION	5700
+JEL CODES D63	10985
 JEL Codes	10323
 JENY SAS Traitement	10821
 JEP du Togo. En	2966
@@ -183,6 +188,7 @@ Je Ne Vois Que Viviane	4960,62,2035
 Je Suis Citoyen Béninois	6217
 Je8mN-A	7242
 JeDEM-eJournal	2093,3
+JeQsf	10965
 Jean Aholou	1927
 Jean Albert Manigomba	3560
 Jean Ateba Onguene	5065
@@ -215,6 +221,7 @@ Jean Luc Stalone	1684
 Jean Marc Dewerpe	2323,14
 Jean Marc Hovi	10389
 Jean Marc Ntirushwa	10152,19
+Jean Marie ALEOKOL	10975
 Jean Monnet Actions	970
 Jean N	5673
 Jean Noël GYENGANI	8321
@@ -222,6 +229,7 @@ Jean Olessongo Ondaye	9405,112
 Jean Parfait Tsé	9054
 Jean Paul Cédy	3900
 Jean Paul Zongo	7674
+Jean Pesme	10977
 Jean Philbert Nsengimana	5378
 Jean Philippe Bouchard	8289
 Jean Philippe WALKER	10821
@@ -230,6 +238,7 @@ Jean Sansan Kambile	2349
 Jean Sansan Kambilé	2332,3513,22,1037
 Jean Simon Str	8999
 Jean Symphorien NGAMA-PIAULT	5135
+Jean Tchoffo Secretary General	10963
 Jean Van Wetter	10865
 Jean le Roux	10729
 Jean-Andre Gbarssin	1712
@@ -266,6 +275,7 @@ Jean-Lucien Savi de Tové	8673
 Jean-Marc Matwaki	9193
 Jean-Marc Pisani	6882
 Jean-Marcel Manfoumbi	7940
+Jean-Marie Badga	10961
 Jean-Marie Montsagna	4135
 Jean-Marius Yao	4285
 Jean-Martial Adou. Il	10924
@@ -347,7 +357,7 @@ Jefe de Servicio Grupo D	4209
 Jefe de Zona Escolar Jefe Informático Grupo	4209
 Jefe de Zona Marítima	4209
 Jefes Tradicionales	4209
-Jeff Bezos	767
+Jeff Bezos	767,10283
 Jeff Bezos’ Amazon Web Services	9239
 Jeff Ciamala	9059
 Jeff Koinange's Homes Face Auction Over	9736
@@ -367,6 +377,7 @@ Jehiel Oliver	6948
 Jehovah	2987
 Jehovah's Witness	7151
 Jelagat Kimosop	1814
+Jellema	10997
 Jem Hub	10279
 Jem Series	10316
 Jem's WhatsApp-based	10279
@@ -389,6 +400,7 @@ Jenkinson	8021
 Jennie Cataldo	1038
 Jennie Jaribu	1261
 Jennifer Ambolley	8363
+Jennifer Chien	10977
 Jennifer Davis Paguada	10177,81
 Jennifer Hansen	6135
 Jennifer Mbuya	10732
@@ -437,6 +449,7 @@ Jeremy	10841
 Jeremy Awori	3844
 Jeremy Gisemba	3583
 Jeremy P. Lewin	4165
+Jeremy Shapiro	10964
 Jerome Wanyou	10509
 Jerry Aziawa	6048
 Jerry Silaa	3245,215,4754
@@ -461,7 +474,9 @@ Jessica Charles Wade	579
 Jessica Daminelli	10768
 Jessica Davis Ba	3486
 Jessica Eni	10571
+Jessica Hagen-Zanker	10985
 Jessica Hauuanga	5086
+Jessica Heller REI Cameroon Secures	10993
 Jessica Osborn	226
 Jessica RABO	3472
 Jessica Wells Research Scientist	7590
@@ -487,8 +502,9 @@ Jeudiger Nascimento	8536
 Jeune Afrique	2377,754,996,5356
 Jeune Afrique Media Group	7596
 Jeunes	5022,2084,2164,819
+Jeunes Development	10985
 Jeunes Filles de Yopougon	5381
-Jeunesse	643,1039,1126,588,1006,1269,173,170,1829,135,259,32,44,321,116,141,515,1538
+Jeunesse	643,1039,1126,588,1006,1269,173,170,1829,135,259,32,44,321,116,141,515,1538,20,1,20
 Jeunesse CT Caisse	643
 Jeunesse Digitale	8634
 Jeunesse-Diaspora	8237
@@ -542,6 +558,7 @@ Minister Jerry Silaa	2867
 Minister Jerry William Silaa's FY2025	6020
 Ministerio Interventor de Presupuestos Jefe de Protocolo	4209
 Ministre Bruno Jean Richard ITOUA	2738
+Ministry of Jeunes	10985
 Mohammed Ben Jelloun	8891
 Monsieur Bruno Jean Richard ITOUA	3191
 Monsieur Jean Luc STALONE	1748
@@ -555,7 +572,7 @@ Mère-enfant Jeanne Ebori	3362
 NIANSOUNOU Jean Albert	2342
 NIANSOUNOU Jean-Albert	2342
 Nac. UNESCO Director General Jefe	4209
-Nadia Jeffrie	2879
+Nadia Jeffrie	2879,8098
 Nafula Jesca	3005
 National Institute for Drug Abuse JEE	10776
 National Startup World Cup. Jentzen	7720
@@ -571,7 +588,7 @@ Ong Je Suis Citoyen Béninois	6217
 Oscar Jeke	10019
 PM Rimtalba Jean Emmanuel Ouédraogo	4748
 Par Jean Materne	8064
-Par Jean Materne Zambo	3658,2208,1999,2390,3,121,489
+Par Jean Materne Zambo	3658,2208,1999,2390,3,121,489,205
 Parlamento Jefe Departamento Dirección General Secretario	4209
 Parlamento Jefe Informático	4209
 Parlamento Jefe Secc. Económica	4209

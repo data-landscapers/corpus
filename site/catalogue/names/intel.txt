@@ -1,5 +1,5 @@
 ABOUT INTELWATCH Intelwatch	9399
-AI Artificial Intelligence	3184,1,1340
+AI Artificial Intelligence	3184,1,1340,6470
 AI Artificial Intelligence ART Antiretroviral Therapy	396
 AI List of Abbreviations AI Artiﬁcial Intelligence	1204
 AI-powered Health Intelligence Center	4781
@@ -51,15 +51,16 @@ Aplicação de Inteligência Artificial	2816
 Arab National Strategies for Artificial Intelligence	2958
 Arab Scientific Research and Artificial Intelligence Ethics	2958
 Artificial E-Commerce Intelligence	4972
-Artificial General Intelligence	6955
-Artificial Intelligence	396,36,1,138,390,282,201,370,126,202,20,96,45,35,21,29,6,22,110,51,18,31,56,3,105,17,4,5,23,11,18,90,26,66,132,18,28,138,174,59,33,19,3,106,34,156,95,27,37,14,3,109,118,29,146,55,7,2,29,55,148,24,18,104,59,4,3,8,30,36,17,89,28,32,90,3,17,25,29,68,3,90,75,51,98,46,4,6,51,3,34,31,5,30,6,9,16,75,90,1,145,25,8,16,51,3,7,19,20,23,74,72,95,42,47,14,43,10,2,2,10,37,18,86,11,24,11,95,2,93,24,1,82,66,36,2,16,123,53,17,68,35,4,10,32,8,52,77,45,2,2,21,17,110,18,18,25,79,103,12,10,15,9,19,38,23,19,1,75,61,2,27,45,22,39,7,10,44,2,10,57,96,76,44,174,3,7,106,39,1,69,62,32,16,2,21,6,184,25,3,70,130,50,24,25,48,12,15,20,140,36,32,2,121,5,59,55,79
+Artificial General Intelligence	6955,4095
+Artificial Intelligence	396,36,1,138,390,282,201,370,126,202,20,96,45,35,21,29,6,22,110,51,18,31,56,3,105,17,4,5,23,11,18,90,26,66,132,18,28,138,174,59,33,19,3,106,34,156,95,27,37,14,3,109,118,29,146,55,7,2,29,55,148,24,18,104,59,4,3,8,30,36,17,89,28,32,90,3,17,25,29,68,3,90,75,51,98,46,4,6,51,3,34,31,5,30,6,9,16,75,90,1,145,25,8,16,51,3,7,19,20,23,74,72,95,42,47,14,43,10,2,2,10,37,18,86,11,24,11,95,2,93,24,1,82,66,36,2,16,123,53,17,68,35,4,10,32,8,52,77,45,2,2,21,17,110,18,18,25,79,103,12,10,15,9,19,38,23,19,1,75,61,2,27,45,22,39,7,10,44,2,10,57,96,76,44,174,3,7,106,39,1,69,62,32,16,2,21,6,184,25,3,70,130,50,24,25,48,12,15,20,140,36,32,2,121,5,59,55,79,109,4,18
 Artificial Intelligence AM Ivorian Agency for Radio	3604
 Artificial Intelligence APPETD	6832
 Artificial Intelligence ARPU	6000
-Artificial Intelligence Act	1807,1151,1793,2721,574,390
+Artificial Intelligence Act	1807,1151,1793,2721,574,390,2614
 Artificial Intelligence Action Summit	2816
 Artificial Intelligence Adoption and Service Transformation	3760
 Artificial Intelligence Anti-DDoS Anti	6432
+Artificial Intelligence As Ghana	11032
 Artificial Intelligence Association of Ghana	4126
 Artificial Intelligence Author	10246
 Artificial Intelligence Bill	10246
@@ -197,6 +198,8 @@ CONTINENTAL ARTIFICIAL INTELLIGENCE STRATEGY Harnessing AI	1814
 Cameroon Intelligent City Project	7589
 Cameroon Intelligent City Project. The French	339,7250
 Cameroon Unveils Plans for National Artificial Intelligence	2303
+Cameroon's National Artificial Intelligence Strategy	11000
+Cameroon’s National Artificial Intelligence Strategy	11000
 Casos de Aplicação da Inteligência Artificial Actualmente	2816
 Cassava Intelligence’s GPU	5226
 Cell C and Liquid Intelligent Technologies. Vodacom	5050
@@ -354,7 +357,7 @@ Fórum Nacional de Inteligência Artificial	7245
 G20 Presidency. The Artificial Intelligence	2526
 GHANA NATIONAL ARTIFICIAL INTELLIGENCE STRATEGY	4126
 GLOSSARY AI Artificial Intelligence ASN Autonomous	10861
-GSMA Intelligence	1623,858,1,4,4,1,1,1,1,1,2,1,5,1,1,1,1402,3,1,1,4,1,1,1,1755,918,239,54,461,226,452,2047,750,34,3,73
+GSMA Intelligence	1623,858,1,4,4,1,1,1,1,1,2,1,5,1,1,1,1402,3,1,1,4,1,1,1,1755,918,239,54,461,226,452,2047,750,34,3,73,72
 GSMA Intelligence Connectivity	6593
 GSMA Intelligence Enterprise	6593
 GSMA Intelligence Figure	10856
@@ -365,6 +368,7 @@ GSMA Intelligence and Kepios	2483,1,1,4,7,1413
 GSMA Intelligence. Authors	10932
 GSMA Intelligence. Copyright	10932
 GSMA Intelligence. The Mobile Economy Africa	6467
+Gates GSMA Intelligence	11004
 General Directorate for Artificial Intelligence. Malawi	4583
 General Intelligence Service	10213,121
 Generative Artificial Intelligence	7179,499
@@ -398,6 +402,7 @@ Green Intelligence	7548
 Green Intelligence Policy Objective	7548
 Gro Intelligence	10464
 HOL Somali Intelligence	3637
+Handbook of Critical Studies of Artificial Intelligence	11028
 Harnessing Artificial Intelligence and Digital Inclusion	10598
 Harnessing Demographic Intelligence	7749
 Hawks and Crime Intelligence	5323
@@ -421,6 +426,7 @@ INTELIGÊNCIA ARTIFICIAL PARA A CAPACITAÇÃO NA	2816
 INTELLECTUAL PROPERTY	4153
 INTELLIGENCE STRATEGY	4126
 Ilasan. Estate Intel	8045
+Imaginaries of Artificial Intelligence	11028
 Impact of Artificial Intelligence	2844
 Impacto da Inteligência Artificial	2816
 Importância da Regulamentação da Inteligência Artificial	2816
@@ -443,7 +449,7 @@ Inteligencia Artificial By Marisa Pilar Oyana	7100
 Inteligencia Artificial. En	9318
 Inteligência	539,255,2022,703
 Inteligência Artifical	2816
-Inteligência Artificial	2618,123,75,518,185,2144,697,349,186,350,97,243,1045,228,241,459,288,644
+Inteligência Artificial	2618,123,75,518,185,2144,697,349,186,350,97,243,1045,228,241,459,288,644,555,27
 Inteligência Artificial A Parceria Global	2816
 Inteligência Artificial Actualmente	2816
 Inteligência Artificial Centrada	2816
@@ -468,8 +474,9 @@ Inteligência Artificial. Todas	2816
 Inteligência Artificial. Um	2816
 InteligênciaArtificial	9846
 Intelizência	539
+Intellect	11028
 Intellectua	1009
-Intellectual	961,48,378,1388,1086,667,2427,249,2837,1,513,291
+Intellectual	961,48,378,1388,1086,667,2427,249,2837,1,513,291,123
 Intellectual Disabilities	2518
 Intellectual Property	1243,571,5146,2330
 Intellectual Property Act	3714
@@ -485,13 +492,13 @@ Intellectual Property Tribunal. Instead	10041
 Intellectual Property and Benefit Sharing	1554
 Intellexa	5211
 IntelliSOFT-Consulting	10031,69
-Intelligence	1000,785,311,257,14,12,8,26,5,24,1,103,270,40,19,83,180,64,67,151,45,193,66,101,54,114,36,4,44,451,79,64,13,98,51,382,29,238,70,47,146,337,193,145,12,82,79,108,131,251,141,55,14,13,13,35,105,29,13,47,90,46,383,202,236,228,143,204,207,55,57,142,705,133,2,162,72,76
+Intelligence	1000,785,311,257,14,12,8,26,5,24,1,103,270,40,19,83,180,64,67,151,45,193,66,101,54,114,36,4,44,451,79,64,13,98,51,382,29,238,70,47,146,337,193,145,12,82,79,108,131,251,141,55,14,13,13,35,105,29,13,47,90,46,383,202,236,228,143,204,207,55,57,142,705,133,2,162,72,76,372,24
 Intelligence AI for Development AI Strategy Implementation	4528
 Intelligence Age	8692
 Intelligence Agencies and Revenue Agencies	789
 Intelligence Antenatal Care Antiretroviral Therapy	4153
 Intelligence Artificiel	7634
-Intelligence Artificielle	1231,665,252,270,277,37,76,183,205,37,7,88,529,208,1604,1770,1369,273,276,464,1093
+Intelligence Artificielle	1231,665,252,270,277,37,76,183,205,37,7,88,529,208,1604,1770,1369,273,276,464,1093,110
 Intelligence Association of Ghana	4126
 Intelligence Brief	6397
 Intelligence Database	1000
@@ -599,6 +606,7 @@ Monetary Fund Internet of Things Intellectual Property	4528
 Moov Intelligence Artificielle	6648
 Mordor Intelligence	3873,2393,205,1007,785,2016
 Morocco Intel	5830
+Mozambican Association of Artificial Intelligence	11113
 Mozambique. Gro Intelligence Gro Intelligence	10464
 Mozambique’s National Artificial Intelligence Strategy	6331
 NATIONAL ARTIFICIAL INTELLIGENCE STRATEGY	1965,2161
@@ -623,7 +631,7 @@ National Artificial Intelligence Regulatory Sandbox	3760
 National Artificial Intelligence Research Laboratory	1787,1417,3881
 National Artificial Intelligence Roadmap	6707
 National Artificial Intelligence Strategies	2958
-National Artificial Intelligence Strategy	3133,102,48,321,156,366,402,277,896,83,134,17,396,46,56,7,143,651,194,109,551,873,69,87,280,25,116,36,413,85,67,18,77,36,30,1
+National Artificial Intelligence Strategy	3133,102,48,321,156,366,402,277,896,83,134,17,396,46,56,7,143,651,194,109,551,873,69,87,280,25,116,36,413,85,67,18,77,36,30,1,812
 National Artificial Intelligence Strategy. Cooperation	10510
 National Artificial Intelligence Strategy. Malawi	3643
 National Artificial Intelligence and Big Data Strategy	6893,3963
@@ -743,6 +751,7 @@ Software-Defined Intelligent Access	3897
 Somali National Artificial Intelligence Centre	7504
 South Africa AI Artificial Intelligence API	5533
 South Africa’s Artificial Intelligence Institute	4970
+South Africa’s Draft National Artificial Intelligence	11012
 Sovereign Intelligence	6955
 Spanish Artificial Intelligence Supervisory Agency	6997
 Speedtest Intelligence	6659
@@ -780,6 +789,7 @@ Through Intelligent Card Production Systems	4677
 Trade Agreement AI Artificial Intelligence APEC	1243
 Transformation Agenda BI Business Intelligence Bi-Monthly	6432
 Trusted Artificial Intelligence	1814
+UHC Business Intelligence System Nov	10970
 UJ’s School of Consumer Intelligence and Information Systems	8142
 UK Artificial Intelligence Regulation	1814
 UNESCO's Artificial Intelligence Needs Assessment Survey	1814
@@ -792,13 +802,15 @@ Use of Artificial Intelligence Technologies	2958
 Users of Artificial Intelligence Systems	2958
 Uso da Inteligência Artificial	2816
 Uso de Inteligência Artificial	2816
+WIPO Intellectual Property Statistics	10969
 Welcomes the AU Continental Artificial Intelligence Strategy	5825
+Western Cape Artificial Intelligence	11012
 Windhoek Statement on Artficial Intelligence	2816
 World Artificial Intelligence Conference	7474,383,105,17,229,287,395,502,823,215
 World Artificial Intelligence Cooperation Organisation	9938,601
 World Artificial Intelligence Cooperation Organization	7459,15,488,310,91,265,112,150,348,154,646,30,147
 World Intellectual Property Organisation	961
-World Intellectual Property Organization	7548
+World Intellectual Property Organization	7548,3421
 Xhosa. Ethiopia’s Artificial Intelligence Institute	3622
 YoY. GSMA Intelligence	2500,1414
 YouTube. Artificial Intelligence	6201

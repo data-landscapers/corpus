@@ -56,6 +56,7 @@ Maintainability Testing	5665
 Meet Testing Standards	5665
 Minister Tesfaselasie	6230
 Mr. Tesfaselasie Berhane	6230
+NHS Testbeds	11007
 NITDA. Testing	5665
 NVIDIA Tesla V100	9475
 NVidia Tesla V100	9475
@@ -64,6 +65,7 @@ National Software Testing Commencement Guideline	5665
 National Software Testing Guideline	5665,2759,15
 National Software Testing Guideline Title	5665
 Necessary and Proportionate Test	3861
+Nesta’s Testing Innovation	11007
 Next Leap Ctech Testimonials Projects	10068
 Non-Functional Testing	5665
 Operaciones Centrales de Tesorería	1701
@@ -88,6 +90,7 @@ Quality Assurance Testing	8670
 RECURSOS DE TESORERÍA	4209
 Rapid Diagnostic Test	1824
 Rapid Testing Continuous Quality Improvement	4153
+References Nesta. Testing Innovation	11007
 Regular Security Audits and Penetration Testing	10721
 Reliability Testing	5665
 Reserve Bank of India's Stress Test Model	6938
@@ -169,11 +172,12 @@ Tesoro Público. En	8554
 Tesouro	744,8,42,545,1,1,1,739,2,1,2134,193,2,1,333,6003,33
 Tesouro Nacional	4218,6534
 Tessalit	5380
-Tesseract	2625,648,2414,5083
+Tesseract	2625,648,2414,5083,204
 Tesseract OCR	163,4950
 Tessier	8605
 Test Ahead	5970
 Test Automation	5665
+Test Case Nyandarua	11086
 Test Cases and Scripts	5665
 Test Data	5665
 Test Design	5665
@@ -214,6 +218,7 @@ Testing Attributes Functional Testing	5665
 Testing Dataset	4528
 Testing Director	5665
 Testing Documentation	5665
+Testing Innovation	11007
 Testing Instructions	5665
 Testing Labs	5665
 Testing Management	5665

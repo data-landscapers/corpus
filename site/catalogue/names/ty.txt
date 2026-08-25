@@ -3,6 +3,7 @@ AI Adoption Typology	10726
 AI Adoption Typology of Degree and Type	10726
 ANPR. Typical	5716
 Algorithm Type Approach	8604
+Analysis of Civil Society Typologies	11028
 Angola. Typically	10763
 Application Type Date	1877
 Asset Type	7662
@@ -35,6 +36,7 @@ Data Handler Name Handler Type Registration	7167
 Database Type N	9124
 Degree and Type	10726
 Deployment Type Class	736
+Description Type IBRD	10964
 Desktop Interface Type USB	34
 Digital Trade. Typically	1243
 Director of Tymstar Motors Limited	6946
@@ -42,6 +44,7 @@ Distribution of Types of TV Services	2776
 Document Feeder Type Autoload Cables Included	34
 Document Type	4342
 ESCP. Type Financing	10829
+Electricité Types	10975
 Equipment Type Approval	10407
 Equipment Type-Approval	10407
 FADES. Type	1993
@@ -196,6 +199,7 @@ Type Approval and Distribution	8916
 Type Approval and Equipment Clearance	6946
 Type Billion Birr	5655
 Type Financing	10829
+Type IBRD	10964
 Type II	8376
 Type II Card	34
 Type IV	9123
@@ -233,14 +237,14 @@ Type-2	196,66,102,498,605,698
 Type-Approved-Equipment-List.php	8916
 Type-Approved-Equipment-List.php Buying	8916
 TypeScript	5513
-Types	582,136,529,691,686,4597,569,1616,682,788
+Types	582,136,529,691,686,4597,569,1616,682,788,99,29
 Types Effectif Pourcentage	10875
 Types of AI Machine Learning	4528
 Types of Incidents and Level of Support All	775
 Typical	5238,3885
-Typically	1248,493,1172,451,1918,1597,343,2853,744
+Typically	1248,493,1172,451,1918,1597,343,2853,744,160
 Typographic	8604
-Typologie	5740,3151
+Typologie	5740,3151,2084
 Typologie des Ser-	10237
 Tyree	8604
 Tyrell Sykes	2626

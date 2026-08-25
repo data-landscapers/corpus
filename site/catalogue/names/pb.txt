@@ -14,6 +14,7 @@ CIGI PB232	5239
 China Eximbank PBC No	228,1
 Components RESULT FRAME TBL IO Indicator Name PBC	1284,9545
 Components RESULT FRAME TBL IO Indicator Name PBC Baseline	1228
+Components RESULT FRAME TBL IO PBC Baseline Intermediate	10964
 Current PBF	10829
 Customer Base Ingestion PB	8999
 GCI PB 012 EN FIN.pdf	474,2,2,2,2
@@ -24,9 +25,11 @@ HMIS and PBF	10829
 LMP Labor Management Plan PBA Performance-Based	1264
 MLGRD PBB Estimates	4490
 MOH Report PBF National Technical Unit	10829
-National PBA	969,9860
+National Action Plan for Youth PBC Employment	10964
+National PBA	969,9860,135
 National Technical Unit for PBF	10829
 National Telecommunication Coverage Project. The PBC	228,1
+O Indicator Name PBC Baseline Intermediate	10964
 Outcomes RESULT FRAME TBL PDO Indicator Name PBC Baseline	1228
 PB Enterprise Storage	3487
 PB F	10829
@@ -89,7 +92,8 @@ Quarterly PBF Database Routine	10829
 Quarterly PBF Database Routine HMIS	10829
 RESULT FRAME TBL IO Indicator Name PBC Baseline	1284,9545
 RESULT FRAME TBL IO Indicator Name PBC Baseline Intermediate	1228
-RESULT FRAME TBL PD O Indicator Name PBC	10829
+RESULT FRAME TBL IO PBC Baseline Intermediate Targets	10964
+RESULT FRAME TBL PD O Indicator Name PBC	10829,135
 Rationale for PBCs	6539
 Redesign the PBF	10829
 SAFE and PBOC	5863

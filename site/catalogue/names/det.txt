@@ -79,7 +79,7 @@ DetailFreeIncluded	10848
 DetailFreeIncludedOrderOfMagnitude	10848
 DetailFreeSubscriberCount	10848
 DetailOrderOfMagnitude	10848
-Detailed	236,500,476,45,7,20,540,43,121,721,969,220,74,242,87,48,17,310,437,552,470,697,242,464,763,596,226,75,990,59,467,7,130,5,74
+Detailed	236,500,476,45,7,20,540,43,121,721,969,220,74,242,87,48,17,310,437,552,470,697,242,464,763,596,226,75,990,59,467,7,130,5,74,87
 Detailed Analysis	236
 Detailed Audit Trails	5665
 Detailed Data Storage Location Inventory	6432
@@ -127,25 +127,28 @@ Deteiled	3972
 Detention	4531
 Detergentes	4209
 Deteriorated	5679
-Deterioration	1828,9007,3
+Deterioration	1828,9007,3,130
 Deterioration Angola	10759
 Deterioration Bouncing Back Not Classified	10837
 Deterioration Characteristic Score	10759
 Deterioration Increasing Deterioration Not Classified	10759
 Deterioration Increasing Deterioration Not Classified Best	10759
-Deterioration No Change Not Classified	10759,76,3
+Deterioration No Change Not Classified	10759,76,3,130
 Deterioration No Change Not Classified FOUNDATIONS	10759
 Deterioration No Change Not Classified SECURITY	10837
+Deterioration Overall Governance	10968
 Determinados	3519
-Determinants	7886,135,1107,532,1,299,816
+Determinants	7886,135,1107,532,1,299,816,188
 Determinants Of Implementation Of The Digital	899
 Determinants of Health Addressed	10776
+Determinants of Property Tax Revenue	10997
 Determinar	1701,9076
 Determination	1,2,19,214,526,2243,302,407,1399,1833,492,1691,1592
 Determination No	6946
 Determination Officer SA South Africa	5533
 Determination of Dominant Position	1847
 Determinations	10157
+Determinations Meets Minimum Requirements	11005
 Determine	573,427,630,463,1068,1053,3807,1102,1034
 Determine the MNE Group	573
 Determined Contribution NDP National Development Plan	10768
@@ -155,11 +158,12 @@ Determining Fairness	7198
 Determining the Contribution	236
 Deterministic	1828
 Deterministic Frontier Using Data Envelopment Analysis	1828
-Dette	4420,5005
+Dette	4420,5005,1550
 Dette Publique Ministère	10708
 Dette Publique Ministère des Finances Guinée Bissau	10708
 Dette du Trésor	7655
 Dette225	1682
+Dettes	10975
 Detty	4848
 Detty Rave	9869
 Developing Telecoms Details Vaughan O'Grady Category	5908
@@ -194,6 +198,8 @@ Ghana’s Nationally Determined Contributions	789
 HEALTH AND WELL-BEING Determinants of Health Addressed	10776
 Health Emergencies Rapidly Detected And Responded	10776
 Host Intrusion Detection Systems	1000
+IDA Financing Gap DETAILS	10963
+IDA Financing Gap Total Amount DETAILS	10964
 III.2.4 Caisse Autonome de Gestion des Dettes	10876
 IIT Kharagpur's Real-Time Voice Deepfake Detection	9208
 ISSUES FOR DETERMINATION BY PDPO Five	3307
@@ -201,9 +207,9 @@ IV. DETAILED CHANGE	1228,1245,2180
 Identify Protect Detect Respond Recover All	6423
 Impact. Detailed	6100
 Improvement Bouncing Back Increasing Deterioration Slowing	10837
-Improvement Increasing Deterioration Slowing Improvement	10835,3
+Improvement Increasing Deterioration Slowing Improvement	10835,3,130
 Improvement No Change Increasing Deterioration Slowing	10837
-Improvement Slowing Deterioration Warning Signs Increasing	10759,76,3
+Improvement Slowing Deterioration Warning Signs Increasing	10759,76,3,130
 Inadequate Incident Detection and Response Capabilities	5677
 Incident Coordination Determining	775
 Inclusive Obj. Objective Details No	1818
@@ -296,7 +302,7 @@ Seychelles Details Vaughan O'Grady Category	2511
 Signs Bouncing Back Slowing Deterioration Increasing	10759
 Size and Determinants	10856
 Slowing Deterioration Score	10837
-Slowing Improvement Slowing Deterioration Not Classified	10835,3
+Slowing Improvement Slowing Deterioration Not Classified	10835,3,130
 Slowing Improvement Slowing Deterioration Warning Signs	10835,3
 Smart Zambia Institute MPA FINANCING DETAILS	3562
 Station Details MAIN Station	736
@@ -309,8 +315,9 @@ System Details	736
 TACHES ET RESPONSABILITES DETAILLEES A. Architecture	7977
 TEL NO. DETAILS OF DATA PROTECTION	2709
 TEL NO. REQUEST DETAILS	2709
+Tables A.1 Details	10977
 Tanzania and Uganda. Explore Firm Details South	6683
-Trend Bouncing Back Slowing Deterioration Increasing	10835,3
+Trend Bouncing Back Slowing Deterioration Increasing	10835,3,130
 Trust Event Details	10707
 Uganda Determination	5113
 V. Dette	6896
@@ -321,7 +328,7 @@ Very Early Smoke Detection Apparatus	593
 Victoria Falls and Dete	1554
 WIA Supported Media Size Details ADF	34
 Warning Signs Bouncing Back Slowing Deterioration	10759
-Warning Signs Increasing Deterioration	10835,3
+Warning Signs Increasing Deterioration	10835,3,130
 Water Leakage Detection	593
 Weitere Details	9062
 WhatsApp. Determination	5113

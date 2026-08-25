@@ -54,7 +54,8 @@ Coast Region	4534,2194,3585
 Coast Region Session The Office	2668
 Coast South Rift Nairobi Lower Eastern	7869
 Coast and Lower Eastern	7869
-Coastal	8891,1872,149
+Coastal	8891,1872,149,51,1
+Coastal President Paul Biya	10968
 Coastal President Thomas Yayi Boni	10835
 Coastal REC Membership	10759
 Coastlines Monitoring Service	10794
@@ -71,6 +72,7 @@ Digitalisation of Ivory Coast	5437
 Dynamic Coalition	8050
 ECOWAS Small Business Coalition	9117
 East Coast Radio	8458
+East Far North Coastline North Northwest	10980
 Eden Karoo Metros West Coast Team	8999
 Egypt and Ivory Coast	9733,2
 Emerging Actors and Coalition Dynamics Alongside	10062

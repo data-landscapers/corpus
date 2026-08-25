@@ -63,6 +63,7 @@ Federal Mortgage Bank of Nigeria	6938,1149,892
 Federal National Mortgage Association	10
 Fiji and Morocco	6692
 Finnfund.fi. Morocco	1515
+Francisco Moraes Leitao	10963,1
 French and Moroccan	10929
 Fundo Morabeza	3558
 G Moroccan	2673
@@ -80,6 +81,7 @@ GroomHHopkinsDPPabstLJMurphy MorganJPatelMCalongeNet	8376
 Guinée. Par DAMBA Morlaye	8557
 Habeebulah Morakinyo Olasupo. Kluwer	6026
 Habitação Razão de Mortalidade Materna Vacina Contra	10777
+Hachette UK. Morozov	11050
 Hanan Morsy	8472
 Hub Morocco Digital for Sustainable Development	4833
 IDSR and BES Maternal Mortality Rate	4260
@@ -128,6 +130,7 @@ MORHCSA National Steering Committee	1778
 MORHCSA SMART Zambia	1988
 MOROCCO	8891
 MOROCCO Amending and Extending the Agreement	1234
+MOROCCO LIVE SOON	11002
 MORROW	6613
 MORTALIDADE ADULTA E MATERNA	10777
 MORTALIDADE NEONATAL E INFANTIL	10777
@@ -135,7 +138,7 @@ Main Causes of Morbidity	10780
 Make Morocco	1885
 Mame Mor Gaye	2353,47,39,1,1,1,1,35,104,165,81,292,300,1479,308,258,41,255,18,1345,145
 Maroc Telecom. Morocco	8828
-Maternal Mortality Estimation Inter-agency Group UNAIDS	10759,76,2,1
+Maternal Mortality Estimation Inter-agency Group UNAIDS	10759,76,2,1,130
 Maternal Mortality Rate	4167,6613
 Maternal Mortality Ratio	4349
 Mathias Barthélemy Morouba	3474
@@ -218,7 +221,7 @@ Moroccan Tech SMEs	1885
 Moroccan and Senegalese	1729
 Moroccan-law	3321
 Moroccans	168,389,3252,304,2339,2358,1
-Morocco	25,143,64,58,41,98,108,13,8,10,3,56,121,89,17,33,78,48,22,25,125,2,26,21,9,1,6,113,73,2,126,70,101,79,64,7,5,3,91,119,14,147,54,6,98,3,2,20,12,30,52,16,9,11,37,44,15,4,5,33,5,5,30,20,3,5,5,3,13,15,1,2,1,50,41,11,18,4,10,1,24,19,6,10,1,8,23,64,159,13,8,10,54,18,65,20,94,9,33,4,19,4,12,107,40,27,11,39,13,8,2,7,3,4,8,29,44,53,2,34,1,17,1,3,25,28,31,17,193,43,128,30,16,1,9,22,138,6,1,55,2,4,46,6,31,44,8,23,2,7,5,20,10,3,42,1,10,68,51,96,50,79,9,45,4,56,30,9,3,1,12,22,67,37,3,8,1,3,15,8,5,21,4,76,12,29,2,7,28,69,30,17,29,46,108,11,1,7,38,32,19,8,39,34,8,44,13,32,5,57,10,16,10,11,1,41,100,8,7,16,2,74,25,13,1,77,26,24,86,18,24,102,193,96,12,59,52,59,137,1,35,63,129,113,1,16,118,93,4,19,115,107,70,23,2,16,15,48,14,120,10,69,452,312,136,11,58,63,578,45,5,71,3,2,6,15,93
+Morocco	25,143,64,58,41,98,108,13,8,10,3,56,121,89,17,33,78,48,22,25,125,2,26,21,9,1,6,113,73,2,126,70,101,79,64,7,5,3,91,119,14,147,54,6,98,3,2,20,12,30,52,16,9,11,37,44,15,4,5,33,5,5,30,20,3,5,5,3,13,15,1,2,1,50,41,11,18,4,10,1,24,19,6,10,1,8,23,64,159,13,8,10,54,18,65,20,94,9,33,4,19,4,12,107,40,27,11,39,13,8,2,7,3,4,8,29,44,53,2,34,1,17,1,3,25,28,31,17,193,43,128,30,16,1,9,22,138,6,1,55,2,4,46,6,31,44,8,23,2,7,5,20,10,3,42,1,10,68,51,96,50,79,9,45,4,56,30,9,3,1,12,22,67,37,3,8,1,3,15,8,5,21,4,76,12,29,2,7,28,69,30,17,29,46,108,11,1,7,38,32,19,8,39,34,8,44,13,32,5,57,10,16,10,11,1,41,100,8,7,16,2,74,25,13,1,77,26,24,86,18,24,102,193,96,12,59,52,59,137,1,35,63,129,113,1,16,118,93,4,19,115,107,70,23,2,16,15,48,14,120,10,69,452,312,136,11,58,63,578,45,5,71,3,2,6,15,93,14,37,6
 Morocco AI	6792,3212
 Morocco Data Center Market	1244
 Morocco Digital	3113,779
@@ -314,7 +317,10 @@ Moroni Prince Saïd Ibrahim	4729
 Moroni-Union des Comores	4342
 Moroni. Dans	5657
 Moronou	10936
-Morozov	5700
+Morozov	5700,5350
+Morozumi	10997
+Morpho Safran	11115
+Morpho. The Electronic Voter Identification Devices	11115
 Morreale	4676
 Morris D Wonder Boy	7182
 Morris Ebeiroma	8443
@@ -332,8 +338,9 @@ Mortalidade Contém	966
 Mortalidade Perinatal	10777
 Mortalidade Relacionada	10777
 Mortality	10780
-Mortality Estimation UN MMEIG United Nations	10759,76,2,1
+Mortality Estimation UN MMEIG United Nations	10759,76,2,1,130
 Mortality Rate	4167,35,15,43,1092,5428
+Mortalité	11123
 Morte	10754
 Morten Larsen ABBREVIATIONS AND ACRONYMS	2889
 Mortes	10760
@@ -387,6 +394,7 @@ Retaj de Moroni. L’ordre	8360
 Robert Belong Morbe	4640
 Royal Institute for Strategic Studies of Morroco	1814
 Rukwa and Morogoro	9689
+Rádio Morabeza	11108
 S0219877024300039 Tshepiso P. Morema	9129
 STARLINK INTERNET SERVICES MOROCCO	5830
 Salaam. Moraes	2816

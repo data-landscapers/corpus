@@ -1,7 +1,7 @@
 AB Traffic	9781
 AMENDMENT OF THE ROAD TRAFFIC ACT	6921
 AN. Traffic Management and Road Safety Unit	7845
-Absence of Human Trafficking	10759,76,2,1
+Absence of Human Trafficking	10759,76,2,1,130
 Administrative Adjudication of Road Traffic Offences	7755
 Air Traffic	261
 Air Traffic Management System	261
@@ -122,7 +122,7 @@ Mobile Voice Traffic	2776,1086,2809
 Mobile Voice Traffic Market	6000
 Mobile Voice Traffic Minutes of Use	2776
 Motor Traffic Act	3061
-Motor Traffic and Transport Department	9205
+Motor Traffic and Transport Department	9205,1876
 NATIONAL TELEPHONE TRAFFIC	3862
 National Telephone Traffic	3862
 National Traffic	6000
@@ -184,6 +184,7 @@ Subscriptions Total Mobile Data Traffic	2776
 Subscriptions Traffic Q3	2776
 TRAFFIC DATA	3862
 TRAFIGO SARL	6597
+TRAFITECH	11062
 TRAFSCAN	4813
 Tbps Traffic Milestone	2754
 Telecommunications Traffic Control Regulation	9288

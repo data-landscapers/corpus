@@ -55,6 +55,7 @@ Building Public Confidence Through Responsible AI	8609
 CANNOT TAKE LEGAL RESPONSIBILITY	972
 CAPÍTULO II Responsabilidades	6462
 CAPÍTULO VIII REGIME DE RESPONSABILIDADE	3519
+CATÉGORIES INSTITUTIONS RÔLES ET RESPONSABILITÉS ORGANES	10965
 CC Kenya Computer Incident Response Team	2775,4171,602
 CC National Kenya Computer Incident Response	6671
 CENA RESPONSABLE DE TRAITEMENT Agence Nationale	10821
@@ -64,6 +65,7 @@ CHALLENGES AND STRATEGIC RESPONSES	4114
 CIDADÃO RESPEITADO	10770
 CIDADÃO RESPEITADO Assim	10770
 COMPUTER EMERGENCY RESPONSE TEAM OF MAURITIUS	783
+COVID-19 Crisis Response Approach Paper	10964
 COVID-19 Response Facility	500
 COVID-19 Strategic Preparedness and Response	10829
 COVID-19-Outbreak Response	10919
@@ -103,10 +105,11 @@ Computer Security Incident Response Team	1200,28,549,1817,249,44,766,1886
 Computer Security Incident Response Team CERT	1000
 Computer Security Incident Response Teams	5677,1259,1961,573,1219
 Consolidated Response	8582
-Contingency Emergency Response Component	2989,7779
+Contingency Emergency Response Component	2989,7779,195
 Contingent Emergency Response	1284,3369,2275
-Contingent Emergency Response Component	996,232,36,20,583,1022,100,573,42,1049,2180,3935,61
+Contingent Emergency Response Component	996,232,36,20,583,1022,100,573,42,1049,2180,3935,61,135
 Contingent Emergency Response Component CERC Steering	1228
+Contingent Emergency Response Component CPF Comité	10964
 Contingent Emergency Response Component CPF Country	10768
 Contingent Emergency Response Component Community Multimedia	4653
 Contingent Emergency Response Component Indicator Name	4653
@@ -212,6 +215,7 @@ GC-RRA.S2 Responsibilities	10721
 GC-RRA.S5 Responsibilities	10721
 GHANA’S RESPONSIBLE AI AUTHORITY	4126
 GRM. Responsibility for Data Collection FAS-IDL Enhanced	10768
+GSMA RESPONDENTS FROM Updated	11004
 GTEI Indicator-Level Responses	10785
 Gambia Computer Security Incident Response	1000
 Gambia Computer Security Response Units Supporting	1000
@@ -445,7 +449,7 @@ Professional Responsibilities and Ethics	9855
 Project ESMF Type Responsible Party Development	1988
 Promoting Responsible Innovation The Charter	2958
 Protecting First Responders	6947
-Quick Response	8588
+Quick Response	8588,2387
 REGIME DE RESPONSABILIDADE DA IA SECÇÃO	3519
 REGULATION A RESPONSABILITE PARTAGEE DES ACTEURS	10906
 REPORTING ACCOUNTANT'S RESPONSIBILITY	4896
@@ -477,6 +481,7 @@ RESPONSIBILITIES COMPOSITION MEETING FREQUENCY	6432
 RESPONSIBILITIES COMPOSITION MEETING FREQUENCY Committee	6432
 RESPONSIBILITY FOR DIGITAL HEALTH	396
 RESPONSIBILITY STATEMENT	5538
+RESPONSIBLE DIGITAL USE ONLINE ACTIVITY	10977
 RESPONSIVE	10765
 RESPONSIVE AND SUSTAINABLE	10775
 RESPONSÁVEL DA IA NO SECTOR PÚBLICO	2816
@@ -504,7 +509,7 @@ Removal Process Responsibility The Satellite PMU	1988
 Republic of Liberia National Incident Response Capacity	1777
 Resilient and Responsible Design	5892
 Resources and Responsibilities	1778
-Respect	37,968,209,5745,589,461,1651,1052,124,40
+Respect	37,968,209,5745,589,461,1651,1052,124,40,124
 Respect Gono	1713,6582
 Respect for Arab	2958
 Respect for Autonomy	3861
@@ -526,12 +531,12 @@ Respond	395,563,819,319,3017,563,4925,120,4
 Respondent	1919,1388,393,1413,3005,12,48
 Respondent Google LLC	3307
 Respondent The Respondent	3307
-Respondents	1219,42,102,576,1,1008,57,599,187,897,425,420,893,1460,136,1107,487,14,15,1069
-Responding	1284,583,226,3,969,448,49,42,1618,79,149,358,296,101,6,136,473,290,31,3,260,39,113,1,45,98,142,104,76,59,104,182,26,129,395,38,141,25,322,2,31,49,595,346,36,57,209,8,53,61
+Respondents	1219,42,102,576,1,1008,57,599,187,897,425,420,893,1460,136,1107,487,14,15,1069,290
+Responding	1284,583,226,3,969,448,49,42,1618,79,149,358,296,101,6,136,473,290,31,3,260,39,113,1,45,98,142,104,76,59,104,182,26,129,395,38,141,25,322,2,31,49,595,346,36,57,209,8,53,61,74,117
 Respondingtothisgap	8602
 ResponsAbility	389
 Responsabilidad Extendida	1701
-Responsabilidade	14,562,2240,703,2943,508,3785
+Responsabilidade	14,562,2240,703,2943,508,3785,317
 Responsabilidade Civil Conexa	3519
 Responsabilidade Contra-ordenacional Objectiva	3519
 Responsabilidade Objectiva	3519
@@ -566,9 +571,11 @@ Responsables Open Data Manuel Open Data	747
 Responsables Open Data14	1984
 Responsables Open Data8	748
 Responsables Open Data9	747
+Responsables. LA TRANSPARENCE POUR UN SECTEUR	10975
 Response	1597,343,1562,81,208,510,1376,226,1094,990,2326,133,275,55,143
 Response AI	7987
 Response All	7987
+Response Component	10963,1
 Response Component EDGE Digital Governance and Economy	2473
 Response Emergency Response	1284
 Response Joint Venture	7987
@@ -592,7 +599,7 @@ Responses Score ICT	10812
 Responsibilit Agencies	1000
 Responsibilit Agency	1000
 Responsibilit Responsibilitie	7548
-Responsibilities	1778,89,1811,1855,2015,1655,591,927
+Responsibilities	1778,89,1811,1855,2015,1655,591,927,405
 Responsibilities Article	1214
 Responsibilities and Authorities	10721
 Responsibilities and Authorities GC-RRA.S1 GC-RRA	10721
@@ -603,7 +610,7 @@ Responsibilities of NFIS II Stakeholders Type of Stakeholder	940
 Responsibilities of Public Entities	6432
 Responsibilities of Stakeholders	5665
 Responsibilities of Technology Companies Operating	8485
-Responsibility	396,191,1401,970,756,814,718,305,1395,2,600,242,739,918,767,239,312,10
+Responsibility	396,191,1401,970,756,814,718,305,1395,2,600,242,739,918,767,239,312,10,229
 Responsibility GM	1778
 Responsibility MICTPCS RBZ Ministry of Trade Private	958
 Responsibility Period MICTPCS	958
@@ -654,6 +661,7 @@ Responsible Consumption and Production	1131
 Responsible Cost	1988
 Responsible Date	1988
 Responsible Governance of Tenure	9727
+Responsible Governance of Tenure of Land	10960
 Responsible Growth	3487
 Responsible Innovation	2958
 Responsible Institution	1000

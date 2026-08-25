@@ -23,6 +23,7 @@ About Google Cloud	6930
 Access Google Distributed Cloud	4434
 Accra and Nairobi. Google Search and Ads	1363
 Act. Google	3307
+Adaptive Governance Good Practice	11006
 Admired Ethiopian Brands Doing Good	8919
 AfCFTA Secretariat and Google	10555
 Africa Google	3619
@@ -34,11 +35,13 @@ African Google Cloud	6250
 Alex Goody	10223
 Allo Goor Gi	8305
 AlphaBeta Economics for Google Cloud	1363
+Amazon and Google	11050
 Amharic. Google Translate	5302
 Anthropic and Google	8014
 Anthropic and OpenAI and Google Meta	9284
 Anthropic’s Claude and Google’s Gemini	5311
 Apple App Store and Google Play Store	9952
+Apple Pay and Google Pay	11119
 Apple and Google	306,9377
 Applying AI for Social Good	4126
 Article Google Scholar Arora P	9739
@@ -95,9 +98,11 @@ CEO da Google	2816
 CEO of Google	2394
 CEO of Google Cloud	1636
 CHALLENGE The AI for Public Good Challenge	10347
+COMMON GOOD	11006
 COMPLAINANTS VERSUS GOOGLE LLC	3307
 Cape of Good Hope	6593,3366
 Capital for Good	1476
+Cash Transfers and Temptation Goods	10985
 Centre of Google	6909
 Challenges Google and Meta	3962
 Chanal Subramoney and Trevor Goott	7656
@@ -108,13 +113,15 @@ Cloud Google	6894
 Cloud Hero and Google Hustle Academy. Google	1590
 Code of Good Practice	5533
 Cohorts Google	674
-Common Good	5700
+Common Good	5700,5306
 Common Good Economy	5700
+Common Good Framework	11006
+Common Good Principles	11006
 Communications and Technology and Google Cloud EMEA Ltd	5799
 Comparison of Goodness-of-Fit Indices for Model	4432
 Compendium of Good Practices	10765,10
 Connecting Businesses With Customers Google	1363
-Connectivity for Good	6593,1232,3031
+Connectivity for Good	6593,1232,3031,147,1,13
 Constitutional Public Good RECOGNISING	3861
 Consumer Goods	5247
 Consumer Goods and Services	9815
@@ -160,8 +167,9 @@ Democracy and Good Governance	7452,2208
 Description Google	673,1,841
 Description Google CEO Sundar Pichai	776
 Description Google's AI	2209
+Digital Future Topics Digital Public Goods	11006,1
 Digital Public Good Alliance	6337
-Digital Public Goods	4606,219,38,3058,689
+Digital Public Goods	4606,219,38,3058,689,2396
 Digital Public Goods Alliance	3720,1980,24,1518,679,689
 Digital Public Goods Alliance Secretariat	3720
 Digital Public Goods Alliance’s GovStack	5700
@@ -188,6 +196,7 @@ Export of Goods	5655
 Exports of Goods	2775
 Extend Google Cloud	4434
 Facebook and Google	8436,1180
+Faculty of Commerce Professor Suki Goodman	11027
 Fancy Goodman	7444
 FinTech Football Gadget Gaming Gemini Google	9993
 Forecasting Floods Google	1363
@@ -195,13 +204,22 @@ Freemuse Google Scholar Simmert T	9739
 Fund Funding Gaming GCC GITEX Google	5322
 Fuzzy Matching Algorithm Good Score	8604
 G Is for Google	3782
+GDC-submission 5Rights.pdf. Google Scholar Ryan	11028
+GDC-submission AARP.pdf. Google Scholar Ação Educativa	11028
+GDC-submission APC.pdf. Google Scholar Braun	11028
+GDC-submission ICNL-ECNL.pdf. Google Scholar Iglesias Keller	11028
+GDC-submission R3D.pdf. Google Scholar Puukko	11028
+GDC-submission Southern Alliance.pdf. Google Scholar Tjahja	11028
+GDC-submission-BSM-Academy.pdf. Google Scholar Cammaerts	11028
 GDPR. Google	8436
 GOOD DATA	2839
 GOOD ETHICS	2839
 GOOD GOVERNANCE MAKES GOOD NEIGHBOURS	2839
 GOOD OFFICE AND CONCILIATION The State	1243
 GOODS IN TRANSIT	4827
+GOODS WITH A CARD	10977
 GOOGL.O	6931
+GRS Good Practice Note GTC Grievance	10964
 Gates Foundation and Google.org	10620
 Gazette. Google	3307
 Gemini Google	1363
@@ -262,7 +280,7 @@ Goodlife Pharmacy Kenya	145
 Goodman	1243
 Goodness Morakinyo	7444
 Goodnight	6197,10,40,15,1,4326,155
-Goods	1243,395,836,301,114,1764,880,167,562,139,1550,215,968,140,163,493,29,897
+Goods	1243,395,836,301,114,1764,880,167,562,139,1550,215,968,140,163,493,29,897,108
 Goods and Service	5655
 Goods and Service Excise	5655
 Goods and Services	2775,2880
@@ -270,7 +288,7 @@ Goodson Sinyenga	8480
 Goodwell Investments	830,9634
 Goodwell Investments and LUN Partners	606
 Goodwill	4102
-Google	415,156,7,14,81,1,1,1,8,92,123,62,4,39,239,2,19,3,4,91,1,66,7,79,75,46,90,40,77,60,2,83,37,185,78,4,5,36,41,20,23,97,107,5,51,2,46,91,14,41,120,316,5,30,2,31,8,8,11,34,29,5,149,39,34,19,71,69,8,63,25,15,25,58,64,17,24,85,199,59,1,41,141,170,43,16,3,117,17,31,19,30,39,39,15,24,3,10,4,46,62,2,1,46,69,88,4,9,15,84,83,9,15,10,9,14,16,54,77,60,26,69,59,48,1,18,16,1,8,136,9,50,1,6,29,11,4,59,13,10,64,47,22,37,17,18,26,45,15,15,21,1,17,13,44,5,22,7,17,2,8,13,60,3,3,34,2,28,72,48,8,6,205,48,17,118,55,67,122,8,67,45,36,51,17,59,3,69,18,88,24,35,35,8,60,46,48,6,1,6,83,75,153,11,8,50,84,94,58,197,74,16,12,13,38,145,16,52,23,14,39,33,44,82,38,222,2,35,89,20,16,59,91,9
+Google	415,156,7,14,81,1,1,1,8,92,123,62,4,39,239,2,19,3,4,91,1,66,7,79,75,46,90,40,77,60,2,83,37,185,78,4,5,36,41,20,23,97,107,5,51,2,46,91,14,41,120,316,5,30,2,31,8,8,11,34,29,5,149,39,34,19,71,69,8,63,25,15,25,58,64,17,24,85,199,59,1,41,141,170,43,16,3,117,17,31,19,30,39,39,15,24,3,10,4,46,62,2,1,46,69,88,4,9,15,84,83,9,15,10,9,14,16,54,77,60,26,69,59,48,1,18,16,1,8,136,9,50,1,6,29,11,4,59,13,10,64,47,22,37,17,18,26,45,15,15,21,1,17,13,44,5,22,7,17,2,8,13,60,3,3,34,2,28,72,48,8,6,205,48,17,118,55,67,122,8,67,45,36,51,17,59,3,69,18,88,24,35,35,8,60,46,48,6,1,6,83,75,153,11,8,50,84,94,58,197,74,16,12,13,38,145,16,52,23,14,39,33,44,82,38,222,2,35,89,20,16,59,91,9,304,13,33,13
 Google ABUJA	2841
 Google AI	2394,422,1310,4572,1270
 Google AI Centre Accra	4126
@@ -403,6 +421,7 @@ Google Map	9568
 Google Maps	1363,284,337,3586,3240,32
 Google Maps Contact	3364
 Google Maps and Google Earth	3782
+Google Maps and Waze	10983
 Google Meet	2413
 Google MoU	5774
 Google NCC	3945
@@ -423,12 +442,13 @@ Google Nigeria	2769,1588,2179
 Google Nonkqubela Jordan-Dyani SA Connect WhatsApp	6721
 Google Only	3798
 Google Opens Africa AI Lab for Startup	8698
-Google Pay	7596,1412
-Google Play	1363,1216,226,461,560,1193,245,78,599,1330,911
-Google Play Store	7266
+Google Pay	7596,1412,2111
+Google Play	1363,1216,226,461,560,1193,245,78,599,1330,911,2822
+Google Play Store	7266,3804
 Google Play Store and Apple App Store	2885
 Google Play Store. NIMC	5284
 Google Play Works	1363
+Google Play and Apple	11124
 Google Play and Apple App	4292
 Google Play. L'application	10941
 Google Research	3344,2254,1332,1768,1421
@@ -436,19 +456,56 @@ Google Research Africa	4857,32
 Google Research Africa's WAXAL	4857
 Google SA	5838
 Google SEC	3870
-Google Scholar	766,5,448,42,835,422,1264,9,648,237,566,107,351,1487,572,31,881,1298
+Google Scholar	766,5,448,42,835,422,1264,9,648,237,566,107,351,1487,572,31,881,1298,1059
+Google Scholar APC	11028
 Google Scholar Adedeji W	9739
+Google Scholar BSM-Academy	11028
 Google Scholar Bello D	9739
 Google Scholar Boyd D	8460
+Google Scholar Brause	11028
+Google Scholar Cammaerts	11028
+Google Scholar Carpentier	11028
 Google Scholar Cohen M	8460
+Google Scholar Couture	11028
+Google Scholar Digital Empowerment Foundation	11028
+Google Scholar Friedrich-Ebert Stiftung and IT for Change	11028
+Google Scholar Global Initiative for Digital Empowerment	11028
+Google Scholar Glynos	11028
+Google Scholar Grover	11028
+Google Scholar Guay	11028
+Google Scholar Gwagwa	11028
+Google Scholar Hawkins	11028
+Google Scholar Hendriks	11028
+Google Scholar Hepp	11028
+Google Scholar Hiltunen	11028
+Google Scholar ICNL-ECNL	11028
+Google Scholar Jasanoff	11028
+Google Scholar Karppinen	11028
+Google Scholar Kazansky	11028
+Google Scholar Kølvraa	11028
+Google Scholar Laclau	11028
+Google Scholar Lehuedé	11028
 Google Scholar Li EZS	9739
+Google Scholar Mager	11028
+Google Scholar Mansell	11028
+Google Scholar Maroni	11028
+Google Scholar Milan	11028
+Google Scholar Moon	11028
 Google Scholar Nkechi C	9739
 Google Scholar Obijiaku C	9739
 Google Scholar Oke T	9739
 Google Scholar Olaniyan T	9739
 Google Scholar Opuowei J	9739
+Google Scholar Palladino	11028
 Google Scholar PwC	9739
+Google Scholar R3D	11028
+Google Scholar Remling	11028
+Google Scholar Richter	11028
+Google Scholar Siapera	11028
+Google Scholar Southern Alliance	11028
 Google Scholar Tatar K	9739
+Google Scholar Tupasela	11028
+Google Scholar UN	11028
 Google Scholar Wu X	8460
 Google Scholar Zuboff S	8460
 Google Search	1363,4207,2866,1041
@@ -593,6 +650,8 @@ Google’s Vice President of Engineering	3782
 Google’s Wider Impactin Sub-Saharan Africa	1363
 Google’s and NVIDIA	6667
 Googling	3782
+Goolam	11053
+Goons	11084
 Goose FL	9740
 Goose FL and Fireflies AI	9882
 Goosen	9237
@@ -608,6 +667,7 @@ IFB Goods	8166
 IFC and Google	1243
 ITU’s AI for Good Global Summit	1814
 Imports of Goods	5655
+Innovation and Governance. Oxford University Press. Google	11028
 International Telecommunication Union’s AI for Good	4723
 Introduction Good	8376
 Issuing of Goods	9437
@@ -640,6 +700,7 @@ Microsoft Copilot and Google Gemini. Data Reportal	6232
 Microsoft Office and Google Docs	6517
 Microsoft and Google	3596,434,2391,56,1786
 Microsoft and Google. All	4030
+Microsoft and Google. Nigeria	11102
 Microsoft and Google. Phase	3155,31
 Microsoft’s AI for Good Lab	8680,1940
 Ministry’s Goods and Services	10112
@@ -652,8 +713,9 @@ NVIDIA and Google	10801
 NVIDIA and Google. The Competition Commission	4730
 Nana Appiah Acquaye Rwanda and Google	9884
 National Competitive Tendering for Goods	7695
+Nations. Google Scholar UN Women	11028
 Nigeria. Google	3782
-Nizam Goolam	1209
+Nizam Goolam	1209,9844
 Nov-2023 Google Cloud MoU	1636
 O Google	2816
 O Google Maps	2816
@@ -693,6 +755,7 @@ Public Service Management and Good Governance	3632
 Putting Google	1363
 Quadri Goodness	6235
 REUTERS Meta and Google	5401
+Radical Democratic Politics. Verso. Google Scholar	11028
 Raymond Amumpaire and Mercy Awino. Google	3312
 Regulations. Google	3307
 Respondent Google LLC	3307
@@ -705,8 +768,10 @@ Ryan Goodnight Senior Director	6891
 Ryan Goodnight. Following	6264
 S. Goodwin	8022
 S0261143000003402 Article Google Scholar Daba Finance	9739
+SEARCH ORDER GOODS	11004
 Sanibonani. Good	10169
 Scaling Blockchain for Public Good	9170
+Secretary-General. United Nations. Google Scholar UN	11028
 Senior Director for Market Access Ryan Goodnight	6247
 Silicon Valley Google	1363
 Social Good	6948
@@ -720,6 +785,7 @@ Strive Masiyiwa and Google Senior VP James	6909
 Sub-Saharan Africa Google	1363
 Sub-Saharan Africa Google Ads	1363
 Sub-Saharan Africa and Google Cloud	1363
+Sub-Saharan Africa. Good	10995
 Sub-Saharan Africa. Google	2417
 TBD F Good Governance	970
 Tech Google Deepens	3344
@@ -731,6 +797,8 @@ Through Google	2292
 Through Google.org	6736
 Today’s Google Cloud Summit	6930
 Trade Alliance and Google	1362
+Transaction Value of Identical Goods Method	11036
+Transaction Value of Similar Goods Method	11036
 Translating Google	1363
 Trevor Goott	7656
 Twitter. Unclear for Google	8436
@@ -746,6 +814,7 @@ Uganda. Google LLC	3307
 Underwater Google	3782
 United Nations AI for Good Global Summit	7174
 United Nations' AI for Good Innovation Factory	9185
+University of Chicago Press. Google Scholar Open	11028
 Unpacks Good ID Final 3.7.19.pdf Parker GG	10819
 Upskill Digital and Google Under	1362
 Use of Goods and Services	3583
@@ -763,6 +832,7 @@ Wilson Sonsini Goodrich	8773
 Workspace. Under Google	1267
 World Bank ESF Good Practice Note	1778
 World Bank Good Practice Note	1988
+World Bank’s Good Practice Note	10964
 YouTube and Google Maps	1363
 Zero Trust Strategy for Google Distributed Cloud	4434
 Zimbabwe. Good	970

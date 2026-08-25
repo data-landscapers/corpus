@@ -1226,6 +1226,7 @@ CAMBRIAN VALUERS LIMITED Data Controller INST-137149F6CF0	7167
 CAMBRIAN VALUERS LIMITED Data Processor INST-137149F6CF0	7167
 CAMEL CAPTAIN SERVICES LIMITED Data Controller	7167
 CAMEL CAPTAIN SERVICES LIMITED Data Processor	7167
+CAMEROON Limitations	10997
 CAMILISH INVESTMENTS LIMITED Data Processor INST-6750275E17C	7167
 CAMP NDUNDA FALLS LIMITED Data Controller	7167
 CANAAN MEDICAL CLINIC LIMITED Data Controller	7167
@@ -2076,6 +2077,7 @@ DYNASOFT BUSINESS SOLUTIONS LIMITED Data Processor	7167
 DYNO LABS LIMITED Data Controller INST-8271969472A	7167
 Dachris Engineering Limited Data Controller INST-443222D0ED8	7167
 Dafric Global Resources Limited	3862
+Daily Limits Limits	11002
 Dale Vision Company Limited Data Processor	7167
 Damal Healthcare Solutions Limited Data Controller	7167
 Daraja La Amani Limited Data Controller	7167
@@ -2383,6 +2385,7 @@ LIMITED	306,1523,513,8451
 LIMITED AND EXIT OFFER	4896
 LIMITED AND EXIT OFFER ECONET WIRELESS	4896
 LIMITED AND EXIT OFFER IMPORTANT	4896
+LIMITED COST GENERAL INTERNET INTERNET	11004
 LIMITED Data Controller INST-10212622055 NAIROBI Kenya	7167
 LIMITED Data Controller INST-10684197F45 NAIROBI Kenya	7167
 LIMITED Data Controller INST-110895ADA40 MERU Kenya	7167
@@ -2495,14 +2498,14 @@ Lagos Avenue Not Limited Operational	3386
 Laxton Limited Data Controller INST-4688876A8A1 KILIFI	7167
 Leo and Telecom Namibia Limited	1847
 Lightwave Health Information Management System Limited	3833
-Limit	899,1089,3125,574,749,4285
+Limit	899,1089,3125,574,749,4285,239
 Limit Cyber Impact How Cloud Security	3279
 Limit the Department	5773
 Limitación	163
 Limitada	9399
 Limitado	2816
 Limitam-se	9176
-Limitation	27,1204,1246,1237,5039,2083
+Limitation	27,1204,1246,1237,5039,2083,130
 Limitation of Company Powers and Objectives	3714
 Limitation of Company Powers and Objectives PART	3714
 Limitation of Rights JUDGMENT TWALA	2307
@@ -2516,7 +2519,7 @@ Limitations of Existing Evidence Existing	8301
 Limitação	10755
 Limitações	2816,703
 Limite	9480
-Limited	60,64,104,1,32,45,89,310,78,116,29,12,18,3,8,44,141,7,58,45,20,270,260,455,208,853,56,328,126,22,264,175,59,488,48,66,10,275,30,225,31,85,182,255,159,194,24,161,239,104,2,8,90,78,37,5,42,87,44,115,104,242,345,39,127,136,501,190,488,339,94,33,106,32,205,293,1,60,14,26,10,5
+Limited	60,64,104,1,32,45,89,310,78,116,29,12,18,3,8,44,141,7,58,45,20,270,260,455,208,853,56,328,126,22,264,175,59,488,48,66,10,275,30,225,31,85,182,255,159,194,24,161,239,104,2,8,90,78,37,5,42,87,44,115,104,242,345,39,127,136,501,190,488,339,94,33,106,32,205,293,1,60,14,26,10,5,130,16,142
 Limited Access	1988
 Limited Awareness and Digital Literacy	6936
 Limited Awareness and Digital Literacy Challenge	6936
@@ -2565,10 +2568,11 @@ Limites	539,4630,1293,497
 Limites da Utilização	10755
 Limiting	7695
 Limiting Conditions	4896
-Limits	1474,2177,3295,1067
+Limits	1474,2177,3295,1067,2989,26
 Limitée	5370
 Liquid Telecommunications Holding Limited	242
 Liquid Telecommunications Jersey Limited	453
+Lisk Limited	11117
 M CONSULT COMPANY LIMITED Data Controller	7167
 M CONSULT COMPANY LIMITED Data Processor	7167
 M-Birr Limited	197
@@ -2620,6 +2624,7 @@ Model Law Part X Limitations HIPSSA	27
 Moninet Limited	3386
 Monthly Aggregated Limit	5687
 Moveon Telecoms Limited	6394
+Mozhandling Limited	11089
 MultiChoice Uganda Limited	3990
 Multimedia Group Limited	7606,91,1,1,667
 Mwananchi Communications Limited	3447,6748
@@ -2632,6 +2637,7 @@ NOSE AND THROAT CLINIC LIMITED Data	7167
 NRG Wireless Limited	3386
 Nairtime Nigeria Limited	8587,76
 Name and Address. IHS Holding Limited	7198
+National Oil Company of Malawi Limited	11089
 Nebula Fintech Limited. Following	950
 Netnova Technologies Limited	3386
 Networks Kenya Limited and Telkom Kenya Limited	6946
@@ -2775,6 +2781,7 @@ TNM Mpamba Limited	3288
 TOPPAN SECURITY LIMITED	9399
 TOTOS SPECIALIST HOSPITAL LIMITED Data	7167
 TRAINING LIMITED Data Controller INST-3420092D39C NAIROBI	7167
+TRANSACTION LIMITS Per-Transaction	11002
 TRAVEL LIMITED Data Controller INST-483204DA988 NAIROBI	7167
 TRAVEL LIMITED Data Processor INST-447779F24C9 MOMBASA	7167
 TRAVEL LIMITED Data Processor INST-483204DA988 NAIROBI	7167
@@ -2809,6 +2816,7 @@ UNICEF and Barnksforte Technologies Limited	10704
 USE LIMITATION AND PURPOSE COMPATIBILITY Data	1243
 Ubuntu Universe Limited	8209
 Uganda Limited	3307
+Un Risque Central Limiter	11034
 Unlimited Aggregated Limit Account Balance	5687
 UsPlus Limited	1062
 VALUERS LIMITED Data Processor INST-932723CA892 NAIROBI	7167

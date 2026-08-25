@@ -116,6 +116,7 @@ G Encargado Grupo G Especialista Grupo	4209
 G Era	5981,70
 G FBB	3184
 G FBB Data	4525
+G FBB Sources	10995
 G FWA	8828,1965
 G Fifth Generation ASPs Application Service	6671
 G Fifth Generation Network ABMT Appropriate	2775
@@ -179,6 +180,7 @@ G Prosperity Insight Series GOVTECH MATURITY	10785
 G RAN	5675
 G RAN. Targeted	1818
 G RSRP	10856
+G RedCap	11016
 G Report	3972
 G Retail	718
 G Revolution By Ishmael F. Menkor	4817
@@ -256,6 +258,7 @@ G. Cet	2290
 G. Cette	1272,5496
 G. Chaque	5071
 G. Chinyama	10215
+G. Como	11111
 G. DECLARATIONS	5113
 G. Des	5877
 G. Developing	7759
@@ -264,6 +267,8 @@ G. Em Abril	9559
 G. Environmental and Social	10829
 G. F	2816
 G. Frempong	236
+G. Goggin	11028
+G. Goggin and P. Iosifidis	11028
 G. Grâce	2695
 G. Gupta	5700
 G. H	5349
@@ -288,10 +293,13 @@ G. Nous	2881
 G. O	10
 G. Of AT Ghana	8926
 G. Orange Centrafrique	1949
+G. Para	11111
 G. Paulatinamente	1215
+G. Plank. LASER Synthesis Paper	11006
 G. Pour	10226
 G. Quels	7715
 G. Risk-based	7845
+G. Risks and Monitoring	10997
 G. S	8301
 G. S. Sher	6997
 G. Salah Eddine	10688
@@ -300,6 +308,7 @@ G. Siemens	9128
 G. Table	10856
 G. Technology	4214
 G. The UN Department of Economic and Social	2383
+G. Toledo. Interim Evaluation	11006
 G. Toutefois	3526
 G. Un	2400
 G. Under	8127,321
@@ -354,6 +363,7 @@ Mothibi G. Ramusi	4732,3096
 Mr. G. Gomwe	4263
 Mwinnyaa G	3791
 Nakigozi G	1219
+Naumann G	10964
 Negarit G. P.O.Box	7538
 None G- None D- No F-	582
 Notelaers G. Pay-level	10780

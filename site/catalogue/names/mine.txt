@@ -29,7 +29,9 @@ Department of Geology and Mines	2889
 Department of Mineral Resources and Energy	6683
 Desarrollo Minero	4209
 Direction des Mines	235
+Développer des MINEDUB	10965
 Eastern and Western Platinum Mines	6683
+Education de Base MINEPAT Ministère	10965
 Empresa Minera Nacional	4209
 Energy and Mineral Resources	1228
 FCFA Mines SA	2342
@@ -52,6 +54,7 @@ La SOCIETE DES MINES DE FLO-	2342
 La SOCIETE DES MINES DE LA-	2342
 La SOCIETE DES MINES D’ITY	2342
 La SOCIÉTÉ DES MINES	2342
+Le MINEE	10975
 Le MINESEC	10379
 Lumwana Mines	1867
 MDAP MEF MINEDH MIREME MISAU MOPHRH	1228
@@ -67,16 +70,28 @@ MINEDH Ministry of Education and Human Development	4214
 MINEDH and CITT	996
 MINEDU MININTER Others	1284
 MINEDU-NC	5708
+MINEDUB	10965
+MINEDUB Ministère	10965
 MINEDUC	697,21,52,434,558,1,1382,1,3771,1,1897
 MINEDUC MINEDUC	1204
 MINEDUC. Established	209
-MINEE	6400
+MINEE	6400,4575
 MINEFID	3044,4626,651,2390,164
-MINEPAT	55,1,47,22,122,55,4023,148
+MINEFOP	10963,1,1
+MINEFOP Ministère	10964
+MINEPAT	55,1,47,22,122,55,4023,148,6490,1,1,15,5,11
+MINEPAT Ministre	10964
+MINEPAT Statistical Yearbook	10980
+MINEPAT and MINAS--and	10985
+MINEPAT-based PIU	10963,1
+MINEPAT. Page	10964
+MINEPAT. That PIU	10964
+MINEPIA	10963,2
+MINEPIA Management Information System Ministère	10964
 MINES PIC	2342
-MINESEC	10379
+MINESEC	10379,586
 MINESEC Avez-vous	10379
-MINESUP	7598
+MINESUP	7598,3367
 MINISTERIO DE HIDROCARBUROS Y DESARROLLO MINERO	4209
 Mark Minevich	10840
 Mechanical Components and Minerals Development	3760
@@ -105,6 +120,7 @@ Minerals Council South Africa. Drawn	7751
 Minerals Technology and Space Science	1154
 Mineração	2816
 Mineração de Dados Educacionais	2816
+Minerva	11028
 Minerva Technology Futures	7209
 Mines	235,1753,354,1054,43,192,1185,686,62,107,751,340,3,361,642,169,384,434,199,47,286,55,254,418,859,2,25
 Mines Agriculture des Marchés Eau	2342
@@ -145,6 +161,8 @@ Mº DE HIDROCARBUROS Y DESARROLLO MINERO	4209
 Mº HIDROCARBUROS Y DESARROLLO MINERO Servicio	4209
 Nigeria Mineral Sector Support for Economic Diversification	2889
 Non-Metallic Mineral Products	2775
+Offre MINEE	10975
+Oil MT Moyenne Tension MINEE Ministère	10975
 Orion Critical Mineral Consortium	4447
 PANORAMA SECTORIEL MINES AUGMENTATION	2342
 PANORAMA SECTORIEL MINES EXPLORATION	2342
@@ -182,6 +200,8 @@ TONGON GOLD MINE	2342
 TRCI INIE INS-SODE MINES LONACI Exploitation	2342
 Telecoms Minister Minette Libom Li Likeng	3283
 Turn.io Minette Barkhuysen	10538
+United States and South Korea. Minerva	11050
+Update the MINEPAT-based PIU PIM	10964
 Vuyiswa Khutlang SA Mine Project Leader	7751
 WebSIG du MINEDUB	8507
 Yaoundé. Minette Libom Li Likeng	10354

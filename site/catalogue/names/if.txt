@@ -40,7 +40,7 @@ Huit IFM	8577
 ICT Grievance Redress Service IFC Higher-Level	3604
 IDP Internally Displaced Person IFR Interim	10829
 IFA2017yearinreview	226
-IFAD International Fund for Agricultural Development IHME	10835,3
+IFAD International Fund for Agricultural Development IHME	10835,3,130
 IFAD International Fund for Agricultural Development ILO	10841
 IFAD and World Bank	9650
 IFADÉlevage de Barkoissi	8303
@@ -59,7 +59,7 @@ IFC Catalytic First Loss Guarantee	8937
 IFC Collaboration	3562,42
 IFC Collaboration Disbursement	1284
 IFC Collaboration No Expected Approval Date	1284
-IFC Collaboration No Proposed Development Objective	1867,8901,61
+IFC Collaboration No Proposed Development Objective	1867,8901,61,135
 IFC Country Manager for Comoros	3067
 IFC Debt Facility	893,1322
 IFC Disruptive Technologies and Funds	1264

@@ -10,7 +10,7 @@ Administrador Grupo D Ayudante Grupo D	4209
 Annex D	3861,3337,3516
 Annex D. Estimation Method	10714
 Anofi D. US-Nigeria	7187
-Appendix D	236,4292
+Appendix D	236,4292,6489
 Appendix D Components	236
 Appendix D Software Installation	34
 Appendix D and Table	3862
@@ -34,6 +34,7 @@ Benin. See Annex D	10714
 Berhanu D	3791
 Bornobé D IGLI Le Minislre de I'Economie	10813
 C and D. Figure	10785
+C- D	10975
 C- Sibling C- Smartphone D	582
 C. D	1248,7423
 C. Legal Operational Policies D. Environmental	1264,5275
@@ -74,9 +75,12 @@ D Data PrOcessOr	1593
 D Data PrOcessOrs	1593
 D Data PrOcessOrs OF MaJOr IMPOrtance	1593
 D Defesa	6970
+D Deployment	11007
+D Deployment C Development Digitalization	11006,1
 D Diplomacy	3803
 D Diplomacy'. Benin's DPI	3803
 D Duplex I Simplex	736
+D During the Deployment	11006,1
 D E C R E T	1231
 D E C-	582
 D E- Desktop	582
@@ -112,6 +116,7 @@ D Spam Any	972
 D THE GOVERNMENT	4049,252,1051
 D The GTMI	10785
 D The Network Access Support Project	182
+D Transparence	10975
 D Unlawful	972
 D Unsatisfactory E Very	5679
 D While the African	961
@@ -123,6 +128,7 @@ D and Trappmann	2096
 D- Browse	582
 D- Definitional	7548
 D- Documentation	7548
+D- F Transparence	10975
 D- Learning D- IMO E- Snapchat	582
 D- Mobile	582
 D- No T C- Terrestrial	582
@@ -131,6 +137,7 @@ D- Parent	582
 D- Privacy	582
 D- Religious	582
 D- Sur	582
+D- Transparence	10975
 D- Value-added	5864
 D. A	4676,3625,370
 D. AU TITRE DU MINISTERE	7670
@@ -151,7 +158,7 @@ D. EMPLOYMENT DISAGGREGATED IN THE INDUSTRY-	3862
 D. Eaves	5700
 D. Elle	2603
 D. En	1701,902
-D. Environmental and Social	969,295,603,1737,2935,4229
+D. Environmental and Social	969,295,603,1737,2935,4229,196
 D. Esta	9176
 D. Estimating The Size of Fuel Subsidies	1828
 D. Estimating the Size of Fuel Subsidies	1828
@@ -185,6 +192,7 @@ D. Government	4214
 D. Grant	5692
 D. H	8604
 D. Harper	2093
+D. Howarth	11028
 D. Human	3583
 D. Humanitarian	3583
 D. INFORMATIONS GÉNÉRALES	2342
@@ -212,6 +220,7 @@ D. Non-payment	7845
 D. Notification	7845
 D. Notification Proposers	5773
 D. Ossouna	1828
+D. P. Gaonkar	11050
 D. P. I	5700
 D. Pajank	1828
 D. Pandey	6948
@@ -221,15 +230,16 @@ D. Policy Advice	1828
 D. Policy Development	5676
 D. Policy Development Consumer	5676
 D. Prady	1828
-D. Project Description	1704,1752
+D. Project Description	1704,1752,7507
 D. R	4676
 D. Rationale	1264
 D. Rationale for Bank Involvement and Role of Partners	6539
 D. Rationale for World Bank Involvement and Role	3604
 D. Recommendations	1828
+D. Redeker	11028
 D. Rehabilitation	7845
 D. Religion	7886
-D. Results Chain	969,295,603,8901,61
+D. Results Chain	969,295,603,8901,61,135
 D. Results Chain Note	10829
 D. Rights	3583
 D. S	1828,2848
@@ -237,12 +247,14 @@ D. S. V	8605
 D. Soares	2093
 D. Submission of Applications	1638
 D. Sustainability	10829
+D. Tax Expenditures	10997
 D. W	8301
 D. You’re	7886
 D. and Akello	6436
 D. and Bester	6445
 D. and Rao	2123,5099
 DECRET D	233,1
+DIGITALIZATION LIFE CYCLE Deployment D	11007
 DSRP D	2966
 Dd D Q A Mm S	163
 Department DDiplomatic Mission D Public Company	736
@@ -263,6 +275,7 @@ EU D S	9123
 Economies D C B	10785
 Eddie D. Jarwolo	3092
 Edwards D	8460
+Electricité Où C d	10975
 Emerging Challenges. In D. O. Eke	2816
 Encargado Grupo D	4209
 Energy Lerato D. Mataboge and ITU SG	7326
@@ -354,6 +367,7 @@ Neighbour D	582
 None G- None D- No F-	582
 O E D	582
 O R D O N N	548
+OPPORTUNITY The D Deployment	11006
 OUEDRAOGO. D. MINISTERE DE LA CONSTRUCTION	8321
 Oficial Grupo D Policía Judicial Grupo	4209
 Oicial Grupo D	4209
@@ -361,6 +375,8 @@ Okunbor D	9739
 Oluniyi D. Ajao	10037
 Oluniyi D. Ajao Oluniyi D. Ajao	10244
 PART D	4896,637
+PIM. D. Results Chain	10964
+PRESIDENGE D PROS ERRCY	10974
 Par Salif D. Cheickna	9028,1897
 Part D	3583,131,1182
 Ph. D	10
@@ -395,7 +411,7 @@ Signature By Destiny D. Jabula	6968
 Soti D	10881
 Spennemann D	9739
 Sub-Part D	7845
-Sèna D. B. de Sodji	2257,13,33,3,63,5,9,2,13,8,15,9,5,75,12,20,15,10,1,5,44,117,26,4,18,9,60,18,5,756,1447,94,263,332,125,1206,2483
+Sèna D. B. de Sodji	2257,13,33,3,63,5,9,2,13,8,15,9,5,75,12,20,15,10,1,5,44,117,26,4,18,9,60,18,5,756,1447,94,263,332,125,1206,2483,1402
 T. D	3782
 TE D	3604
 Table D	7

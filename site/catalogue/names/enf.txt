@@ -32,6 +32,7 @@ Drug Enforcement Agency	3887
 Drug Enforcement Commission	1988,739
 E&S Environmental and Social ENFOTSS National Training	10768
 EDT U.S. Immigration and Customs Enforcement	9747,54,3,23
+ENF Energies	10975
 ENF des CEB	3396
 ENFANTS FACE AUX DANGERS DU NUMERIQUE	2695
 ENFERM. DE INFORM. LAB. Y BANCO	4209
@@ -53,7 +54,7 @@ Enfermedades Crónicas	4209
 Enfermos	4209
 Enfermos Hospitalizados	4209
 Enfermos Sección	4209
-Enfin	643,104,1,250,7,182,781,16,296,62,65,5,144,67,72,5,32,6,30,83,24,76,10,5,115,110,160,5,221,39,278,47,124,260,77,57,198,37,4,176,155,25,411,47,4,141,28,60,160,177,2,79,219,83,14,18,3,105,77,135,10,132,138,199,23,29,7,265,20,9,6,60,82,128,2,49,1,17,72,33,78,50,1,41,47,188,268,44,37,38,8,54,49,10,119,43,3,4,329,127,78,490,25,57,102,15,80,31,31,114,51,1,109,5,49,1
+Enfin	643,104,1,250,7,182,781,16,296,62,65,5,144,67,72,5,32,6,30,83,24,76,10,5,115,110,160,5,221,39,278,47,124,260,77,57,198,37,4,176,155,25,411,47,4,141,28,60,160,177,2,79,219,83,14,18,3,105,77,135,10,132,138,199,23,29,7,265,20,9,6,60,82,128,2,49,1,17,72,33,78,50,1,41,47,188,268,44,37,38,8,54,49,10,119,43,3,4,329,127,78,490,25,57,102,15,80,31,31,114,51,1,109,5,49,1,89,10,49,27,12
 Enfor1c1e.10meEnntfaonrdceCmoemnptlaianndcCeompliance	10157
 Enforc	9123
 Enforce	1988,471,318,2756,132,767,504,1881,1904,44,10,54
@@ -67,7 +68,7 @@ Enforce the Data Protection	1204
 Enforceability	3714
 Enforceable	5113
 Enforced	3714
-Enforcement	3,8,707,44,481,90,18,1105,549,221,452,35,1,453,50,366,399,102,301,78,202,390,831,50,10,422,83,903,82,93,157,6,289,582,292,85,217,156,103
+Enforcement	3,8,707,44,481,90,18,1105,549,221,452,35,1,453,50,366,399,102,301,78,202,390,831,50,10,422,83,903,82,93,157,6,289,582,292,85,217,156,103,558,32
 Enforcement Action	6792
 Enforcement Actions	5665
 Enforcement Actions for Non-compliance	5665
@@ -81,6 +82,7 @@ Enforcement Notice	3962,3476
 Enforcement Powers and Sanctions Regime	3861
 Enforcement Process Regulations	3945
 Enforcement Removed	4258
+Enforcement Weapon Importers	11036
 Enforcement and Compliance	10157
 Enforcement and Education	587
 Enforcement and Education Cybersecurity	587
@@ -88,7 +90,7 @@ Enforcement and Penalties	1652
 Enforcement and Regulations	3480,4638,60
 Enforcement and Remedies	3861
 Enforcement and Remedies Failure	3861
-Enforcement of Environmental Policies	10759,76,2,1
+Enforcement of Environmental Policies	10759,76,2,1,130
 Enforcement of SIM	9781
 Enforcing	1828
 Enfouissement des Déchets de Chebelly. Par	4402
@@ -106,7 +108,7 @@ Information Regulator's Enforcement Notice Against Mining	6683
 Information Regulator’s First Enforcement Notice	6632
 Inspectorate Compliance and Enforcement	7141
 Inter-Agency Digital Piracy Enforcement Framework	8568,2
-Law Enforcement	1877,2848,2385,3649,76,2,1
+Law Enforcement	1877,2848,2385,3649,76,2,1,130
 Law Enforcement Directive	9067
 Law Enforcement Directive English	9067
 Law Law Enforcement Property Rights Public	10759,78

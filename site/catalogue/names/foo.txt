@@ -27,6 +27,7 @@ Climatic Shocks and Food Security Table	10763
 Columnists Leader Star-blogs Cartoon Sports Football	9646
 Components Consumer Services Food	4972
 Consumer Price Indices for Food and Non-Alcoholic Beverages	2775
+Context of National Food Security	10960
 Contributing Practice Areas Agriculture and Food	1867
 Deepen Digital Footprint	2716
 Desenvolvimento da Primeira Infância Efeito de Desenho Food	10777
@@ -62,7 +63,7 @@ Food Inclusive	970
 Food Insecurity Domestic Food Production	1828
 Food Processing Industry Investigation of Water Tube	1154
 Food Production of Côte	10931
-Food Security	1828,1516,1184,5348,89,192,602,9,67,2,1
+Food Security	1828,1516,1184,5348,89,192,602,9,67,2,1,130
 Food Security Programme	7845
 Food Security Project	10841
 Food Security and Agricultural Development	7452
@@ -88,7 +89,8 @@ Food and Agriculture Organisation	9136
 Food and Agriculture Organization	3583,3058,389,3811
 Food and Agriculture Organization FBO Faith Based	2775
 Food and Beverage	4972
-Food and Drugs Authority	10630
+Food and Commercial Justice	10960
+Food and Drugs Authority	10630,402
 Food and Nutrition Security	10768
 Food4Education	899
 FoodCare	5589
@@ -188,11 +190,11 @@ Urban Rural Poor Food	10763
 VAM Food Consumption Score Sources	10763
 WFP Specialized Nutritious Foods	10841
 Warani Food	2851
-World Bank FAO Food and Agriculture Organization	10835,3
+World Bank FAO Food and Agriculture Organization	10835,3,130
 World Bank World Food Programme	10763
 World Food Program	969,259
 World Food Program WHR Window for Host	10841
-World Food Programme	1828,39,310,935,471,3399,48,117,2337,263,315,448,253,59,7,12
+World Food Programme	1828,39,310,935,471,3399,48,117,2337,263,315,448,253,59,7,12,122,1
 World Food Programme and United Nations	3583
 World Food Programme. Success	1687
 World Food Programme. Technical Report	10841

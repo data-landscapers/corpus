@@ -1,7 +1,10 @@
 ACHPR Recommendations Tracking Database System Guidelines	8485
 ACKNOWLEDGEMENTS The ID4D-Global Findex Database	10714
+About the Global Findex Database	10977
+About the Global Findex Database Financial	10977
 Access Control RDS Relational Database Service	6432
 Access National Database The Authority	10280
+Acknowledgments About the Global Findex Database Executive	10977
 Amazon Relational Database Service	10794
 Applications and Database Security Environments	9123
 Arab Rep. National Citizen Database	10714
@@ -48,11 +51,14 @@ Datable	2977,1987,78,780,1012
 Development and Management of Database	1512
 Diagram DATABASE	6423
 Disaster Risk Management Emergency Events Database	10763
+EXECUTIVE SUMMARY The Global Findex Database	10977
 Emergency Events Database	10763
 External Data Sources DIMAMO Operational Database	8604
 Family Database	8891
+Findex Database	10977
+Full Contents of The Global Findex Database	10977
 GSMA Tax Database. Côte	10932
-Global Findex Database	940,4625,974,4175,108,19
+Global Findex Database	940,4625,974,4175,108,19,136
 Global Innovation Index Database	10846
 ICT Indicators Database	1248
 ID for All The National Database and Registration	3623
@@ -61,6 +67,7 @@ ID4D Global Database Volume	10714
 ID4D- Global Findex Database	10714
 ID4D-Global Findex Database	10714
 Incident Database	9968
+Industrial Statistics Database	10969
 Intelligence Database	1000
 Investments AVCA’s Venture Capital Database	4972
 Libyan Legal Database	0
@@ -81,7 +88,7 @@ PBF Manual. Quarterly PBF Database PBF	10829
 Pakistan's National Database and Registration Authority	2274,5,2413
 Pakistan’s National Database and Registration Authority	10521
 Passport Database	10714
-Peace WID.World World Inequality Database FH	10835,3
+Peace WID.World World Inequality Database FH	10835,3,130
 Personal Records Database	10714
 Population Database	10714
 Project. Quarterly PBF Database Patient	10829
@@ -101,9 +108,12 @@ Tanzania National ID Database	10714
 TiVa Database	8891
 TiVa Database Graphique	8891
 Turkmenistan Database	10714
+United Nations Comtrade Database	10969
 VRR Togo DGDN Database	10714
 Voter Turnout Database. Retrieved	10714
+WDI and Informal Economy Database	10997
 WID.World World Inequality Database WJP World	10759,78
+World Bank DataBank	11004
 World Bank Global Findex Database	1828
 World Bank Global Findex Database and IMF	1828
 World Bank Group DataBank	10768

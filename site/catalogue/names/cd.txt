@@ -80,8 +80,8 @@ CDC-CI and GREEN-PAY	4627
 CDC-CI and GREEN-PAY Partner	4627
 CDC-funded	10641
 CDD Ghana	7662
-CDD-Ghana	7886,2873,76,2,1
-CDD-Ghana Ghana Center for Democratic Development UNU-WIDER	10835,3
+CDD-Ghana	7886,2873,76,2,1,130
+CDD-Ghana Ghana Center for Democratic Development UNU-WIDER	10835,3,130
 CDEAO	998
 CDF Dashboard	8741
 CDF NWDT SACCO LTD Data Processor	7167
@@ -140,7 +140,7 @@ ESONG CDO	4209
 Elong CDO Nsork Wele-Nzas	4209
 Excellency CDE	4528
 Excellency the President Cde. Dr. Emmerson	3760
-Expenditures MSP Managed Service Provider CDN	3184,1,1340
+Expenditures MSP Managed Service Provider CDN	3184,1,1340,6470
 HL7 CDA R2	1009
 HL7 CDA R2 Consent	1009
 HL7 CDA Release	1009
@@ -186,5 +186,6 @@ UNDP CDO	4431
 UNDP and CDC	4642
 US CDC	4338
 US CDC and Bundung Hospital	4338
+US Government-funded CDC	10970
 Vodacom CDRs	6024
 ZSE Zimswitch CDC	4517,2461

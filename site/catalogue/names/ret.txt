@@ -122,6 +122,7 @@ Individual Merchants Retail Large Customer Agent	5687
 Individuals Merchants Retail Agents and Category Lite	5687
 Information Model Representational State Transfer Retrieve	1009
 Infrastructure Over A Retail CBDC ENS	6998
+Insurance Régime de Retraite de Ministry	10985
 Interbank Interbank Public Retail	6938
 Interbank Public Interbank Retail	6938
 Interbank Retail	6938
@@ -208,6 +209,7 @@ RETIRE	6432
 RETIRE Archive	6432
 RETIRE Decommission	6432
 RETIRE RETIRE	6432
+RETIREMENT. About	10977
 RETRACTION	5624
 RETRAITE DES FONCTIONNAIRES	7670
 RETS-SM	7977
@@ -222,7 +224,7 @@ Refugees and Returnees Service	10886
 Regional Regional Regional Interbank Retail	6938
 Residuais Retenção	6970
 Retai Volumes	4517
-Retail	418,300,510,476,1008,63,51,131,647,603,446,1399,209,147,171,254,105,508,189,1,209,121,181,889,194,1589,22
+Retail	418,300,510,476,1008,63,51,131,647,603,446,1399,209,147,171,254,105,508,189,1,209,121,181,889,194,1589,22,135
 Retail Army	7446
 Retail Automobiles	4972
 Retail Capital Goods Durables	4972
@@ -287,6 +289,7 @@ Rethinking Education	6832
 Rethinking How Africa Discovers Innovation	10067
 Rethinking Ownership	5858
 Rethinking Ownership Authorship and Value Creation	5858
+Rethinking Poverty Reduction	10985
 Rethinking Regulation	5241,811
 Rethinking Sovereignty	6410
 Rethinking Technology Neutrality. Minnesota Law Review	1243
@@ -307,7 +310,7 @@ Retirement Benefits Authority	6938
 Retirent	10876
 Retiring	3714,4413
 Retomamos	1948
-Retour	4342,528,2785,1018,124,823
+Retour	4342,528,2785,1018,124,823,1345,10
 Retracción	1701
 Retracted	8605,1810
 Retraining	7789
@@ -326,13 +329,14 @@ Retri	1009
 Retribuciones Complementarias	4209
 Retrievability	1219
 Retrieval	37,932,1920,1325,444,3578,2381,148,10
+Retrieval-Augmented Generation	10991
 Retrieval-augmented	7789
 Retrieve	1009
 Retrieve Information for RFC1738	1009
 Retrieve SA NHIS Sharing Value Sets	1009
 Retrieve Sharing Value Sets	1009
 Retrieve&query	6879
-Retrieved	899,110,16,218,20,105,631,309,479,439,927,12,2,35,15,43,41,1,47,48,1,724,570,1140,537,179,369,429,700,1667,1,51,10,44
+Retrieved	899,110,16,218,20,105,631,309,479,439,927,12,2,35,15,43,41,1,47,48,1,724,570,1140,537,179,369,429,700,1667,1,51,10,44,171
 Retrieved Nation TV	899
 RetrievedJanuary25	8606
 Retroactive	10937
@@ -341,6 +345,7 @@ Retrogressive Grant	2307
 Retrospective	8301
 Retrospective Risk Assessment	7548
 Retrospective The Legislative	4583
+Retrospective. World Bank. IDA18 Scale-Up Facility	10997
 Retrouvez	5504
 Return	3,733,26,601,581,44,2736,1869,416,2114,470,830,370,48
 Return Erroneous N50	7176
@@ -350,7 +355,7 @@ Return Intentions Among Nigerian Refugees	10841
 Return and Rehabilitation Commission	3583
 Returned	10937
 Returnees	2106,8735
-Returning	6179,972,460
+Returning	6179,972,460,3425
 Returning Officer	9645
 Role of Technology. Retrieved	899
 Royaume du Maroc. Retrieved	10714
@@ -386,6 +391,7 @@ Toward the Digital Age. Retrieved	10819
 Trade Impact Assessments. Retrieved	1243
 Trade and Development. Retrieved	1243
 Transfer Retail	6938
+UCT Retirement Fund	11027
 UK. Retrieved	1243
 UNEVOC Network Directory. Retrieved	6832
 UNHCR and Ethiopia’s Refugees and Returnees Service	4842

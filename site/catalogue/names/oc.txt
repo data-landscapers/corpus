@@ -161,7 +161,7 @@ OCMIN	6613
 OCPCA	10762
 OCR Optical Character Recognition OECD Organisation	1814
 OCR Studio	9747,54,3,23
-OCR'd	167,263,314,8,457,303,23,10,1,45,476,398,159,1986,503,127,2787,2727,141,1,1,6,1,2
+OCR'd	167,263,314,8,457,303,23,10,1,45,476,398,159,1986,503,127,2787,2727,141,1,1,6,1,2,68
 OCR'd. Identification	10898
 OCR'd. Reading	2067
 OCR-blocked	3164,474,2910,348,47
@@ -233,7 +233,7 @@ Ochang and Adimula	9969
 Ochebhoya Ekpete	8040
 Ochola	8865
 Ocholla	8022
-Ocidental	2298,373,2731,41,826,302,1480,1375
+Ocidental	2298,373,2731,41,826,302,1480,1375,1618
 Ocidental. Esse	3093
 Ocidente. Como	2816
 Ocio El Clúster de Turismo	1701
@@ -266,6 +266,7 @@ October-November-December	2775
 OctoberAugust	2820
 Octobre	436,311,251,7,743,236,769,922,29,81,3685,185,1100,2071,15,33,1,1,46,26
 Octobre N	10876
+Octobre Yaound	10975
 Octobre du PTA	10876
 Octotel	448
 Octoverse	990
@@ -276,6 +277,7 @@ Oct’25 Middle East	5247
 Ocupacional	4209
 Ocupación	1701
 Ocupação	9403,1374
+Océan	10975
 Océan Atlantique	8891
 Océan Indien	6883
 Organising Framework for Occupations OIHD	6832

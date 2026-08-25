@@ -210,6 +210,7 @@ CYNTUM LIMITED Data Processor INST-101210CFB41 NAIROBI	7167
 CYPHIS Auctioneers Data Controller INST-4658020F4B6 NAIROBI	7167
 CYPOWER SECURE LIMITED Data Controller INST-481973DCF5E	7167
 CYPOWER SECURE LIMITED Data Processor INST-481973DCF5E	7167
+CYRUS	10975
 CYS-D	6630
 CYTONN ASSET MANAGERS LIMITED Data Controller	7167
 CYTONN ASSET MANAGERS LIMITED Data Processor	7167
@@ -261,7 +262,7 @@ Computer Crime and Cybersecurity Bill	1535,7165
 Computer Misuse and Cyber Crimes Act	6432
 Computer Misuse and Cybercrime	6432
 Computer Misuse and Cybercrime Act	783
-Computer Misuse and Cybercrimes	4583,2204,3153
+Computer Misuse and Cybercrimes	4583,2204,3153,1175
 Computer Misuse and Cybercrimes Act	2709,1883,1840,355,694,66,1,2095,212
 Computer Misuse and Cybersecurity	7548
 Computer Systems and Cyber Security	10227
@@ -544,13 +545,13 @@ Cybercrime. Accepted	10911
 Cybercrime. Law	10775
 CybercrimeRead	7273
 Cybercrimes	2269,6580,1308
-Cybercrimes Act	2117,1266,1200,632,509,653,393,17,99,2196,1295,76,44
+Cybercrimes Act	2117,1266,1200,632,509,653,393,17,99,2196,1295,76,44,603
 Cybercrimes Act and Cybersecurity Act	9082
 Cybercrimes Act. Nigeria	8418
 Cybercrimes and Computer Misuse Bill	4042
 Cybercrimes and Data Protection Act	3983
 Cybercriminal	5794
-Cybercriminalité	1801,1110,577,3027,778,2960,136,469
+Cybercriminalité	1801,1110,577,3027,778,2960,136,469,176
 Cybercriminals	1777,5169,1765,455,450,844
 Cybercriminals Attack Seychelles	3364
 Cyberdefense	5073
@@ -733,6 +734,7 @@ Cybersecurity and Data Gaps	10584
 Cybersecurity and Data Protection	3058,664,1703,4772,568,10
 Cybersecurity and Data Protection Cybersecurity	2958
 Cybersecurity and Data Protection Laws	2989
+Cybersecurity and Digital Trust	11041
 Cybersecurity and Fight	1264
 Cybersecurity and Information Assurance	6832
 Cybersecurity and Information Security	5677
@@ -794,6 +796,7 @@ Cygnus Safety Consulting Limited Data Processor	7167
 Cymunio Limited Data Controller INST-944126A6FE7 NAIROBI	7167
 Cymunio Limited Data Processor INST-944126A6FE7 NAIROBI	7167
 Cynthia Ebot Takang	9926
+Cynthia English and Chris McCarty	10977
 Cynthia Lesufi	7793
 Cynthia Wafula	6946
 Cyprien K	10471
@@ -810,6 +813,7 @@ Cyril Ramaphosa and Solly Malatsi	7318
 Cyril Ramaphosa of South Africa	560
 Cyril Xaba	9959
 Cyrille Ganou Badolo	5917
+Cyrille Ndong	11080
 Cyrille Schouame	5065
 Cys-LAB Startup Village	6630
 Cytek Solar LTD Data Controller INST-473180B6103	7167
@@ -818,6 +822,11 @@ Czech Republic Global Cybersecurity Index	10764
 D4D Initiative for Digital Government and Cybersecurity	886
 DG... Cybersécurité Régulation	10379
 DIGI-ASSURANCE CYBER RISK MANAGEMENT LIMITED Data	7167
+DIGITALIZATION LIFE CYCLE Conception A and Scoping	11007
+DIGITALIZATION LIFE CYCLE Deployment D	11007
+DIGITALIZATION LIFE CYCLE Development C	11007
+DIGITALIZATION LIFE CYCLE Operations and E Maintenance	11007
+DIGITALIZATION LIFE CYCLE Strategy B and Design	11007
 DPI Development Cycle	3735
 Data Governance Cyber and Data Protection Act	4528
 Data Governance and Cybersecurity	9892
@@ -851,6 +860,7 @@ Development and Cybersecurity Economic	7379
 Digital Connectivity and Cybersecurity Partnership	954,8834
 Digital Connectivity and Cybersecurity Partnership USAID	532
 Digital Services Bill and Cybersecurity Bill	4186
+Digitalization Life Cycle B Strategy and Design	11006,1
 Directive Review Cycle	3861
 Director General Zambia Cyber Security Agency	9082
 Director of INTERPOL’s Cybercrime	8777
@@ -1194,6 +1204,7 @@ National Community Media Cyber Capability	8765,3
 National Community Media Cyber Capability Building	8748,17,2,1
 National Community Media Cyber Capacity	8947
 National Community Media Cyber Capacity Building	8896,51,1436
+National Computer and Cyber Crimes Co-ordination Committee	11115
 National Computer and Cybercrime Coordination Committee	7481,3139
 National Computer and Cybercrimes Co-ordination Committee	6787
 National Cyber	6803
@@ -1356,6 +1367,7 @@ Projet de Stratégie Nationale de Cybersécurité	7439
 Promote National Cybersecurity Awareness	1777
 Promote National Cybersecurity Awareness Promoting	1777
 Protecting Cyber Infrastructure	4676
+Protection Des Données Formateur En Cybersécurité	11034
 Protection and Data Protection Cybersecurity	4126
 Protection of Personal Draft Official Identity Cybersecurity	1939
 Public Sector Cybersecurity Framework	5533

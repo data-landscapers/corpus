@@ -5,6 +5,7 @@ A- Pooled Demand Number	7548
 A1- Demand	7548
 AI Innovation Demo Day	5413
 AI and Africa's Demographic Dividend	2686
+ANALYSIS OF DEMOGRAPHIC DATA ON SMESEH	10980
 ARPCE Demands Flawless Network Performance Ahead	5075
 AUTRES DEMANDES DE RENOUVELLEMENT	998
 AUTRES DEMANDES DE RENOUVELLEMENT PERMISSIONNAIRE REFERENCE	998
@@ -30,7 +31,7 @@ Boubacar Dembélé	8577
 Broken Promise of American Democracy. Princeton	2096
 Bus Drivers Demand Tougher Road Safety	6077
 CARACTERISTIQUES SOCIO- DEMOGRAPHIQUES DE LA POPULATION	737
-CDD-Ghana Ghana Center for Democratic Development UNU-WIDER	10835,3
+CDD-Ghana Ghana Center for Democratic Development UNU-WIDER	10835,3,130
 CENTRO PROM. DCHOS. HUMAN. Y DEMOC.-Concepto	4209
 CHILDREN DEMANDE REJETEE	998
 Caracterização Demográfica	4044
@@ -49,6 +50,7 @@ Coalición Democrática	9303
 Colonel-major Moussa DEME. AU TITRE	8237
 Combined Periodic Report of Sahrawi Arab Democratic	8485
 Commissioner for Democracy	7685,848
+Comoros Mongolia Tonga Democratic Republic	11005
 Competition Demand Side Access	1161
 Continent’s Demographic Advantage Africa	6690
 Council of Patriots for Democracy	6122
@@ -60,6 +62,7 @@ DE LA DEMOGRAPHIE Plan	10874
 DE LA DEMOGRAPHIE RECENSEMENT GÉNÉRAL DES	10875
 DEMAALS E.A COMPANY LIMITED Data Controller	7167
 DEMAND WAS MADE	10775
+DEMARCHE INCLUSIVE Plus	10996
 DEMAS MODERN MEDICAL CLINIC Data Controller	7167
 DEMAT	1304,724,2277
 DEMBSHER	6613
@@ -87,7 +90,7 @@ Dem. Rep. Mauritania Cote	10819
 Dema-Coleford	6492
 Demain	9231
 Demais	10755
-Demand	236,722,203,543,1071,399,110,299,716,597,10,776,118,112,53,57,34,524,111,1,133,7,44,3,187,482,203,1368,30,226,273,337,30,113,29,120,579,5
+Demand	236,722,203,543,1071,399,110,299,716,597,10,776,118,112,53,57,34,524,111,1,133,7,44,3,187,482,203,1368,30,226,273,337,30,113,29,120,579,5,99,56
 Demand Assessment	7548
 Demand Chapter III	6832
 Demand Generation and Responsible Public Engagement	9855
@@ -107,11 +110,11 @@ Demand-Side View of Mobile Internet	961
 Demand-responsive	6832
 Demand-side	6832,3882,142
 Demandam	2816
-Demande	998,1467,7015,1356,6,32,2
+Demande	998,1467,7015,1356,6,32,2,89,10
 Demande Transmission	3381
 Demande Usagers Centre	3381
 Demande Usagers Plateforme	3381
-Demande de Cotation	9339
+Demande de Cotation	9339,1636
 Demande de Proposition	10876
 Demande de Propositions	3715,2268,4893
 Demande de Réparation	10876
@@ -134,40 +137,43 @@ Demirkol	7759
 Demis Hassabis	7857,931
 Demo Day	5413,4704,628
 Demobilization and Reintegration Commission	3583
-Democracia	2816
-Democracy	2096,1487,3568,301,1408,127,80,145,15,189,136,127,409,365,312,10
+Democracia	2816,8190
+Democracy	2096,1487,3568,301,1408,127,80,145,15,189,136,127,409,365,312,10,253
 Democracy Index	2690
-Democracy Institute ENACT ENACT Africa WB	10835,3
+Democracy Institute ENACT ENACT Africa WB	10835,3,130
 Democracy Report	1016
 Democracy and Development	5825
 Democracy and Good Governance	7452,2208
 Democracy and Human Rights	1814
 Democracy and Open Government	2093,3
+Democracy for Citizens Party	11084
 Democracy&author	2096
 Democracy&volume	2096
 Democracy. Adequacy	9067
-Democratic	110,418,442,1147,658,5685,1557,45
+Democratic	110,418,442,1147,658,5685,1557,45,988
 Democratic Accountability DPI	4424
 Democratic Accountability ESTABLISHING	3861
 Democratic Accountability and Transparency Mandates	3861
 Democratic Alliance	5533,1518,3678
 Democratic Climate Financial	970
 Democratic Deficit	7147
-Democratic Elections	10759,76,2,1
+Democratic Elections	10759,76,2,1,130
 Democratic Elections Deliberative	10759,78
+Democratic Erosion	11028
 Democratic Federal Trade Commission	8921
 Democratic Party	10042
 Democratic People’s Republic of Korea	10764,76
 Democratic Progressive Party	4790
 Democratic Project If DPI	4424
 Democratic Rep. of Congo	4972
-Democratic Republic	291,427,196,449,662,652,98,675,65,104,140,108,188,121,49,217,5,31,133,449,98,267,8,297,79,34,57,713,325,74,49,210,238,198,86,43,114,85,2,442,164,756,9,299,54,228,95,13,70,2,305,32,258,58,18
+Democratic Republic	291,427,196,449,662,652,98,675,65,104,140,108,188,121,49,217,5,31,133,449,98,267,8,297,79,34,57,713,325,74,49,210,238,198,86,43,114,85,2,442,164,756,9,299,54,228,95,13,70,2,305,32,258,58,18,165
 Democratic Republic Congo Disaster Risk Financing	10763
-Democratic Republic of Congo	123,76,54,65,142,17,120,254,111,76,325,363,45,44,52,47,212,125,27,13,407,14,63,92,57,46,147,121,77,155,6,32,229,23,392,134,79,218,98,69,59,17,57,48,27,1,34,111,143,5,277,185,88,34,64,130,43,23,42,18,9,3,70,134,1,73,25,22,46,42,12,54,24,39,43,11,36,25,1,66,117,178,70,34,56,9,69,82,32,211,213,2,2,53,13,444,8,15,253,307,1,88,250,211,1,170,39,104,35,38,12,23,42,154,74,10,194,96,161,5,8,53,12,7,17,27,40,8
+Democratic Republic of Congo	123,76,54,65,142,17,120,254,111,76,325,363,45,44,52,47,212,125,27,13,407,14,63,92,57,46,147,121,77,155,6,32,229,23,392,134,79,218,98,69,59,17,57,48,27,1,34,111,143,5,277,185,88,34,64,130,43,23,42,18,9,3,70,134,1,73,25,22,46,42,12,54,24,39,43,11,36,25,1,66,117,178,70,34,56,9,69,82,32,211,213,2,2,53,13,444,8,15,253,307,1,88,250,211,1,170,39,104,35,38,12,23,42,154,74,10,194,96,161,5,8,53,12,7,17,27,40,8,23,20
 Democratic Republic of Congo EU European Union	10861
 Democratic Republic of Congo Global Affairs Canada	61
 Democratic Republic of Congo Me José Mpanda	9756
 Democratic Republic of Congo Ministry of Finance. Includes	476
+Democratic Republic of Congo SME Growth and Development	10964
 Democratic Republic of Congo Under	6753
 Democratic Republic of Congo and Côte	3037
 Democratic Republic of Congo and Ethiopia	6333
@@ -217,8 +223,9 @@ Demonstrable	6512
 Demonstrable Governance Traditional	10570
 Demonstrate	9604,1171
 Demonstrated	3678,2225,1248,2452
+Demonstrated Global Capacity Certificate	10975
 Demonstrates	3791,49,290,398
-Demonstrating	1580,2071,271
+Demonstrating	1580,2071,271,7048
 Demonstrations	4175
 Demonstração	2816
 Demos Kyriacou	2986,2643,393
@@ -235,6 +242,7 @@ Dr. Austin Demby	8086
 Dr. Demby	7964
 Dr. Dembydescribed	8086
 E. Demand	4214
+E.g. Demonstrate	11004
 EU-funded European Partnership for Democracy	10345
 EVOLUTION DE LA DEMANDE	4459
 Economic and Demographic Studies	4035
@@ -301,6 +309,7 @@ Infrastructure of Essential Facilities Demand Aggregation	3604
 Inquérito Demográfico	10777
 Institute for Multi-Party Democracy	10503
 International Bandwidth Demand Trends Bandwidth	2830
+Internet for Democracy	11028
 Intervalo de Confiança Inquérito Demográfico	10777
 Ivoire Dem. Rep	10764
 Joining Minister Demby	10659
@@ -310,6 +319,7 @@ Kenya Demand	8342
 Key Demographic And Socio-economic Indicators	958
 Key Demographic and Socio-Economic Indicators Zimbabwe	958
 Lao People’s Democratic Republic	226,6387
+Law and Democracy Support Foundation	11079
 Le Dossier de Demande de Propositions	5983
 Linyon Demokratik Seselwa	6379
 M. Oumar Bah Dembélé	9866
@@ -338,8 +348,11 @@ Nigeria's National Endowment for Democracy	10028
 O Democrata	2671
 O Democrata GB	6269
 O Democrata GB and Africa-Press	2671
+OECD. Open Government for Stronger Democracies	11006
 OSI M-HcI M-TII Africa Democratic Republic	10840
 Official Launch and Product Demonstration	3895
+Open Government for Stronger Democracies	11006
+Open Internet for Democracy	11028
 Orange Democratic Movement	8217
 P180495 Democratic Republic of Congo	6539
 PAM Patient Demographics Query PDF Presidential	1009
@@ -361,6 +374,8 @@ Prosecutions DRC Democratic Republic	2775
 Protection of Constitutional Democracy	8840
 Public Participation and Democratic Governance	7548
 Quoting W. Edwards Deming	8483
+Radical Democratic Politics. Verso. Google Scholar	11028
+Radical Democratic Turn	11028
 Real Non-Oil GDP and Public Demand Impulse	1828
 Refusée MACROLIAS DEMANDE REJETEE	998
 Regulatory Sandbox Demo Day. Barigye	6184
@@ -402,6 +417,7 @@ Ukraine Unified State Demographic Register	10714
 United Democratic Party	3432,5883,747
 Universal Postal Union V-DEM Varieties of Democracy	10759,78
 Validé Aucune MACROLIAS Aucune MACROLIAS DEMANDE	998
+Vehicle and Fuel Taxation for Transport Demand Management	10997
 Vulnerable Demographics Dependency	10763
 Water Body Shoreline Demarcation	1964
 Years of Freedom and Democracy	2626

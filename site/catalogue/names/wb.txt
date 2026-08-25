@@ -5,9 +5,10 @@ Application WBG World Bank Group TABLE	969
 Assessment Tool’. WB ID4D	10819
 BFA 2024 WBES v01 M Title World Bank Enterprise Survey	10862
 CONSULTATION DRAFT WB ID4D	10819
+Cameroon Climate Change and Development Report. WBG	10964
 DC and Geneva. WBG	10841
 Data Processing The WBES	10862
-Democracy Institute ENACT ENACT Africa WB	10835,3
+Democracy Institute ENACT ENACT Africa WB	10835,3,130
 Development Programme WBG World Bank Group	3604
 Digital Identity WB ID4D	10819
 Digital Identity. WB	10819
@@ -28,6 +29,7 @@ SETA-funded WBL	6832
 Sampling Sampling Procedure The WBES	10862
 Scale WBL	6832
 Shift WBL	6832
+Social Registry WBG World Bank Group	10964
 Testing WHA World Health Assembly WBPHCOT	396
 ToRs Terms of Reference WB World Bank	1988
 UNAUTHORISED ACCESS INFORMATION DISCLOSURE WB OTHERS	6936
@@ -57,7 +59,7 @@ WB Enterprise Surveys Benin	1400
 WB Environmental	1988
 WB Ethiopia Digital ID for Inclusion and Services	1260,30,2539,7003,54
 WB Fiscal	3604
-WB Fiscal Year	969,295,603,8901,61
+WB Fiscal Year	969,295,603,8901,61,135
 WB G	10841
 WB GREAT	2548
 WB Gender Assessment	6539

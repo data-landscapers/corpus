@@ -24,6 +24,7 @@ AENF Fin	2966
 AENF Ministère	2966
 AENF Rec	2966
 AENF. Au Ministère	2966
+AER Libellés	10975
 AERC Supplement	1828
 AEREO Y RELC. SERVICIOS MALABO	4209
 AEREOS INTERNAC	4209
@@ -43,6 +44,7 @@ AES Identity Card	3925
 AES L’Alliance	6959
 AES Moustapha Alou Le Président	7553
 AES Passport. Biometric	6448
+AES SONEL	10975
 AES States	7452
 AES-256	5244,1188
 AES-aligned	5580
@@ -114,8 +116,10 @@ ESTDEV AEDIB	9697
 Espace AES	4124
 FUERZAS AEREAS.- Concepto	4209
 Follows the AES	3126
+Health Information Network AeHIN	10970
 Hong Kong Aerospace Technology Group	4880
 I DSKGIELDLS R AENPODR DTIGITAL DIVIDE	582
+Industries de Réseau AER Agence	10975
 Infraestructuras Aeroportuarias	1855,2354
 Instituto Superior de Aeronáutica	1265
 Israel Aerospace Industries	10808

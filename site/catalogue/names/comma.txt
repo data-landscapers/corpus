@@ -3,6 +3,7 @@ Apapa Area Command	8278
 Area Command	8278
 Bon de Commande	10876
 Borno State Command	8471
+Chronos des COMMANDES	10975
 Comma	8021
 Comma Inside	5390
 Comma-separated values	1984
@@ -13,7 +14,7 @@ Command Line. Querying the IATI	6982
 Command Station	2775
 Command Stations	2775
 Command Stations and Sex	2775
-Commandant	7670
+Commandant	7670,3392
 Commande	5907,4786
 Commandement Supérieur	3604
 Commands	8278
@@ -25,6 +26,7 @@ Imo State Command Kaduna State Command	8471
 Integrated Command	6866
 Intelligent Command System	259
 Kano State Command Lagos State Command	8471
+Lettres Commandes	10975
 National Command Centre	315
 National Police Command Centre	8638
 National Public Security Command Centre. LAZ	5626
@@ -33,7 +35,10 @@ Officer Commanding	9316
 PROCÉDURE DE GROUPEMENT DE COMMANDES	10876
 PTML Area Command	8278
 Plateau State Command Oyo State Command	8471
+Police Academy and Regional Police Commanders	11062
+Police Regional Command Conference	11062
 Pour Jacques David Commarmond	5712
+Regional Commanders	11062
 Rivers State Command Kwara State Command	8471
 Rwandan FDLR Commanders In DRC	3245
 Service Provider CSV Comma-Separated Values CTO	6432

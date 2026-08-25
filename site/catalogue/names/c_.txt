@@ -27,9 +27,10 @@ Amoroso C	766,10014,101
 Amy McDonough and Daniela C. Rodríguez	6948
 Annex C	7198
 Any Cell C	10673
-Appendix C	236,3626,666,2623,115,524
+Appendix C	236,3626,666,2623,115,524,3227
 Appendix C Authorisation	34
 Appendix C Table	7790
+Appendix C. Mobile for Business Knowledge and Skills	11017
 Apêndice C QUADROS DA QUALIDADE	10777
 Apêndice C Quadro C.1 Quadro C.2.1	10777
 Arsenault C	3791
@@ -66,11 +67,13 @@ C Assess International Focusing	961
 C CUOTA ANUAL	4209
 C Comissão Nacional de Direitos Humanos	6530
 C Crime	6970
+C Development	11006,1
 C Domesticate	961
 C E H R A ES	2776
 C Establish	961
 C Figure	582
 C I O N Mensual Mensual	4209
+C In the Development	11006,1
 C List	1988
 C Lovis	1824
 C Months	4972
@@ -95,12 +98,18 @@ C Standards	9123
 C Street NW	5692
 C TI O M N	582
 C Transmission	972
+C Transparence	10975
 C Unlawful	972
 C Yaoundé	9916
+C acc	10975
 C and D. Figure	10785
 C and Ku Bands	736
 C and Robertson	2096
+C ex	10975
 C of Schedule	3714
+C pert	10975
+C reg	10975
+C us	10975
 C- Access	7548
 C- AirtelTigo	582
 C- Anchor	7548
@@ -109,8 +118,10 @@ C- Balance	7548
 C- Baseline	7548
 C- Communication G-	582
 C- Connectivity Resilience	7548
+C- D	10975
 C- EAC	7548
 C- Electronic	582
+C- Exigences	10975
 C- Guidelines	7548
 C- Infrastructure	7548
 C- Investment	7548
@@ -129,6 +140,7 @@ C- Speech	582
 C- Supplier	7548
 C- Targets	7548
 C- Tier-based	7548
+C- Transparence	10975
 C- Withdraw	582
 C- Yes Tablet N	582
 C- Zakat	5864
@@ -187,10 +199,11 @@ C. International	5872
 C. Jensen	5700
 C. K. Corruption	7886
 C. Karagueuzian	10718
+C. Katzenbach	11028
 C. L'inclusion	5630
 C. Lang	9128
 C. Lawson	5700
-C. Legal Operational Policies	969,295,603,1737,2935,4229,61
+C. Legal Operational Policies	969,295,603,1737,2935,4229,61,135
 C. Legal Operational Policies D. Environmental	1264,5275
 C. Leveraging Development Partner Support Align	4848
 C. Liao	5700
@@ -201,6 +214,7 @@ C. MINISTERE DE L’INDUSTRIE	8321
 C. Methodology	3583
 C. Methodology Standards	3583
 C. Modelling	10856
+C. Mouffe	11028
 C. N. Habitant	8853
 C. N. Olien	6948
 C. Newton	4432
@@ -209,22 +223,24 @@ C. On-budget	3583
 C. Open Finance Lab	4848
 C. P	8603
 C. POLICIAL S ECONOMICOS DISCIPLINA DISCIPLINA	4209
+C. Padovani	11028
 C. Participation	822,4808
 C. Payment	7845
 C. Policy Implications	1828
 C. Policy Recommendations	1828
 C. Preparation of Applications	1638
 C. Procurement	1284
-C. Project Beneficiaries	969,295,603,1737,2935,4229,61
-C. Proposed Development Objective	1704,587,1165
+C. Project Beneficiaries	969,295,603,1737,2935,4229,61,135
+C. Proposed Development Objective	1704,587,1165,7507
 C. R	10726
 C. Regular Audits	4610
-C. Relevance	969,295,603,1737,2935,4229,61
+C. Relevance	969,295,603,1737,2935,4229,61,135
 C. Right	1630,1953
 C. Sdralevich	1828
 C. Sectoral Context Key PFM Processes1	1284
 C. Supporting Capital Access and Sustainable Busi-	4848
-C. Sustainability	969,295,603,1737,2935,4229
+C. Sustainability	969,295,603,1737,2935,4229,196
+C. Tax Revenue Performance and Challenges Tax	10997
 C. Term	7845
 C. The Challenge	1828
 C. Utility	7845
@@ -232,10 +248,12 @@ C. Vogeli	5700
 C. Wang	5700,2905
 C. What Can Be Done Next	1828
 C. Z-W	1264
+C. and Shanahan	11004
 C. the Borrower	1914
 CELTEL NIGER SA C	998
 CELTOUCH CI C	998
 CLEFT- KINDER C	998
+CNEF C	10965
 COMPANY TABLE C	3714
 CONGO C	1828
 CONGO C. The Challenge	1828
@@ -274,6 +292,7 @@ County C- Portfolio	7548
 Cunningham C	10784
 Cybersecurity Units. C. The Cybersecurity Unit	4610
 C’ River Set	8520
+D Deployment C Development Digitalization	11006,1
 D E C R E T	1231
 D E C-	582
 D'ELIGIBILITE DES REFUGIES C	998
@@ -281,6 +300,7 @@ D- No T C- Terrestrial	582
 D. C	7886
 DEPARTMENT OF HOME AFFAIRS C	6512
 DESDISPOSITIONSGENERALES C	37
+DIGITALIZATION LIFE CYCLE Development C	11007
 DIRECTIVO JUSTICIA PENIT. C. REGISTROS	4209
 Dakar Chapter Google Scholar Onyekwelu C	9739
 Daniela C. Rodríguez	6948
@@ -303,8 +323,10 @@ EU AA C-	9123
 EU CSP D C S	9123
 EU D C S	9123
 Economies D C B	10785
+Electricité Où C d	10975
 Emerging C- Annual	7548
 Encargado Grupo C Especialista Grupo C	4209
+Environment and Planning C	11028
 Excluding Cell C and Comm Equipment Company	9911
 Exporting Digital Authoritarianism C	5242
 F- Busy D C- Yes Tablet	582
@@ -352,7 +374,8 @@ Inspector Grupo C	4209
 Inspector Grupo C Interventor Grupo C	4209
 Interfaces Service C	10876
 Internet Series C Equity Investment Africa50	810
-J. C	2816,2533
+J. C	2816,2533,5648
+J. C. Magalhães	11028
 Jee Servicio Grupo C	4209
 Jefe Servicio Grupo C	4209
 Jefe Supervisor Grupo C	4209
@@ -364,6 +387,7 @@ Joël C. Tokponou	5516
 Kamusoko Deputy Chairperson Prof. C. E	1554
 Kenya C- Uptake	7548
 Kishamawe C. Assessment	3791
+LEGISLATIVE AND STATUTORY AFFAIRS C COPIE	10974
 Laptop C- Sending	582
 Layer C Integration Layer	1009
 Le C	10876
@@ -372,7 +396,10 @@ Liu C. Health	10919
 M Series C	606,324,509
 M Series C for MFS Africa	606
 M. C	8604
+M. C. van Schalkwyk	11028
 MEASURING PERFORMANCE PART C	5533
+MINFI C	10965
+MINPOSTEL C	10965
 MOOV AFRICA NIGER C	998
 Maheba C Primary School	1867
 Mapa C	4508
@@ -386,8 +413,11 @@ Moniepoint Group Nigeria Series C	2223
 Moniepoint Group's Series C	2223
 Moniepoint Series C	2223
 Moniepoint's Series C	2247
+Monnaie C	10965
 Moove's Series C	9098
 Mossaoa C	1009
+Multistakeholder Governance for DPI A E C	11006
+Multistakeholder Governance for DPI B C	11006
 Muranda Prof. C. E. Ndhlovu Prof	1154
 Mushi C	1219
 N C I O N Global	4209
@@ -400,6 +430,7 @@ Ndhlovu Prof. Z.BMouarradndCahairman Prof. C. E	1154
 None. TABLE C	3714
 Novelli C	5242
 OCWAR C	5677
+OPPORTUNITY The C Development	11006
 Okafor C	9739
 Option C	6748
 Orden Cantidad F U N C	4209
@@ -411,6 +442,7 @@ PDPO. C. EVIDENCE	5113
 PIM. C. Legal Operational Policies	10768
 POL. PERSONAL POL. LUCHA C. R	4209
 PROSPECTUS PART C	3714
+PY CERTIFIED TRUE C PART VII	10974
 Panel C	7886
 Par Thibaud C. NAGNONHOU	4077,2695
 Park C	5242
@@ -436,6 +468,7 @@ Rambaud-Althaus C	10881
 Ref. C	10769
 Regulation C	7
 Republic. Part C Insert	3714
+Revenue and Fiscal Space 4 C. Tax Revenue	10997
 Robbiati C	10784
 Réservation AL IZZA C	998
 Réservation CELTEL NIGER SA C	998
@@ -452,6 +485,7 @@ Secretario General Adjunto C. Nac. UNESCO	4209
 Secretario Grupo C Segundo Jefe Estado	4209
 Secretario Grupo C Servicio	4209
 Section C	582,2226
+Section I. C	10964
 Security C	7538
 Security Emerging C- Certified	7548
 Series C	606,105,99,8,112,210,288,11,105,679,24,63,772,1242,398,250,718,189,2819,400,46,40,161,1,773,345,490

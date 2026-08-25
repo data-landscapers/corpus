@@ -13,20 +13,21 @@ ANTARA HEALTH LIMITED Data Processor INST-198582479BC	7167
 ANTARC LIMITED Data Processor INST-20455608284 NAIROBI	7167
 ANTHONY	6613
 ANTHONY WANJOHI NDAMBIRI Data Processor INST-1152252C025	7167
-ANTI-CORRUPTION	10759,76,2,1
+ANTI-CORRUPTION	10759,76,2,1,130
 ANTI-CORRUPTION Anti-Corruption Mechanisms	10759,78
 ANTI-CORRUPTION HEALTH	10838
 ANTI-CORRUPTION HEALTH Rank	10838
-ANTI-CORRUPTION Rank	10759,78
-ANTI-CORRUPTION Shipping	10835,3
+ANTI-CORRUPTION Rank	10759,78,131
+ANTI-CORRUPTION Shipping	10835,3,130
 ANTI-MONEY LAUNDERING AND COMBATING TERRORISM FINANCING	4633
-ANTIC	1592,1103,963,327,225,9,304,170,10,61,1511,145,318,598,2280,754
+ANTIC	1592,1103,963,327,225,9,304,170,10,61,1511,145,318,598,2280,754,596,30,14
 ANTIC Director General Prof. Ebot Ebot	4693,2045
 ANTIC Director General Professor Ebot Ebot	7336
 ANTIC Drives Push for Secure and Sovereign Internet	6738
 ANTIC's CIRT	4703
 ANTIC. Cette	4210
 ANTIC. Mais	3985
+ANTIC. Section	10974
 ANTICORRUPC	4209
 ANTICORRUPCION	4209
 ANTIDROGAS MILITAR	4209
@@ -51,6 +52,7 @@ Africa. Antwi-Gyekyi	9538
 Africa. Combining Anthropic	1636
 Ailton Moreira. António Baptista	10349
 Albano Carige António	1808
+Alipay and Ant International	11121
 Amend the Anti-Pornography Act	6949
 Americas Antigua and Barbuda Global Cybersecurity Index	10764
 Americas T5 Building Antigua and Barbuda T4	10764
@@ -60,6 +62,7 @@ Angola. Segundo António Hou	3692
 Ann Anthropol Pract	1219
 Ant Group	6971,1306
 Ant International	5325,2700,2715,53
+Ant International Group	11121
 Antalya	8797
 Antananarivo	481,3863,2501,308,206
 Antananarivo and Fianarantsoa	4047
@@ -96,6 +99,7 @@ Anthony Community	10742
 Anthony Fakiyesi	8640
 Anthony Fakiyesi Cybersecurity	8640
 Anthony Kimery The Netherlands	8904
+Anthony Kwasi Sarpong	11038
 Anthony L. Fortune	9548
 Anthony Mburu	10246
 Anthony Mburu Blog	10246
@@ -107,7 +111,7 @@ Anthony Samé	6580
 Anthony Simpasa	10718
 Anthony Voscarides	2986
 Anthony and Mende	10742
-Anthropic	1636,207,973,1660,229,267,57,19,238,1,77,54,180,573,96,220,180,123,217,53,52,25,14,58,404,606,186,89,16,20,66,48,47,11,57,29,9,18,48,27,137,142,94,329,16,208,105,280,244,82
+Anthropic	1636,207,973,1660,229,267,57,19,238,1,77,54,180,573,96,220,180,123,217,53,52,25,14,58,404,606,186,89,16,20,66,48,47,11,57,29,9,18,48,27,137,142,94,329,16,208,105,280,244,82,523
 Anthropic CEO Dario Amodei	9592
 Anthropic Claude	5226,85
 Anthropic Research	7151
@@ -148,7 +152,7 @@ Anti- Increased	970
 Anti- Money Laundering and Counter Terrorist Financing	3583
 Anti-Apartheid	2626
 Anti-Bias National Datasets	4528
-Anti-Corruption	1638,9121,76,2,1,74
+Anti-Corruption	1638,9121,76,2,1,74,56
 Anti-Corruption Act	3583,131,3492,1307
 Anti-Corruption Commission	121,3462,4667,263,1668,329
 Anti-Corruption Commission Zimbabwe Agricultural	1154
@@ -158,9 +162,9 @@ Anti-Corruption Fight	5910,491
 Anti-Corruption Guidelines	10829
 Anti-Corruption Index CMF	5951
 Anti-Corruption Index Foreign Trade	5101,850
-Anti-Corruption Mechanisms	10759,76,2,1
+Anti-Corruption Mechanisms	10759,76,2,1,130
 Anti-Corruption Mechanisms Absence of Corruption	10837
-Anti-Corruption Rights Every IIAG	10835,3
+Anti-Corruption Rights Every IIAG	10835,3,130
 Anti-Corruption and Economic Crimes Act	8180
 Anti-Counterfeit Act	10041
 Anti-Counterfeit Authority	10041,272
@@ -192,6 +196,7 @@ Anti-Trafficking	2106
 Anti-Tubercolosis Dispensary of Luanda	10784
 Anti-competitive	6432
 Anti-foreigner	5533
+Anti-hunger Network	10960
 Anti-immigrant	6997
 Anti-money	4127,1003
 Anti-smuggling	8681
@@ -204,6 +209,7 @@ Anticipated	2989
 Anticipated Waste Generation	1988
 Anticipating	2816
 Anticipating Conflict	8202
+Anticipation	10975
 Anticipatory	7451,1531,376
 Anticipatory Action	10763
 Anticipatory Cash Transfers	10763
@@ -217,7 +223,7 @@ Antidius	8022
 Antigos Combatentes	4147,5111,1496,18
 Antigua	8945
 Antigua and Administrative Identification Number	10714
-Antigua and Barbuda	10785
+Antigua and Barbuda	10785,219
 Antiguo CNC	4209
 Antiguo Hospital	4209
 Antigénio Central da Hepatite B Antirretroviral Bacille	10777
@@ -232,7 +238,7 @@ Antiretroviral	4301
 Antiretroviral Therapy	4349
 Antiretroviral Therapy CBS	10776
 Antitrust	1814,3959
-Antivirus	34
+Antivirus	34,10941
 Antivirus Software Black	34
 Antler	7406,3058
 Antler MENAP	8076,3
@@ -269,6 +275,7 @@ Ants Anupõld	7677
 Antsimondrano	4788
 Antsimondrano. Enrolment	4789
 Antsirabe. The DRA	2509
+Antwerp	11006
 Antwi	771
 Antwi-Gyekyi	9538
 Antão Chantre	2870
@@ -341,7 +348,7 @@ Dr. Albano Carige António	1808
 Dr. Albert Antwi-Boasiako	7114
 Dr. António Agostinho Neto International Airport	4275
 E.g. Anti-Corruption Commission	970
-EDUCATION ANTI-CORRUPTION	10835
+EDUCATION ANTI-CORRUPTION	10835,133
 EGDI M-OSI H-HcI VH-TII Europe Antigua	10840
 ET ANTERIEURS AU	3396
 ET ANTÉRIEURS	3396
@@ -408,6 +415,7 @@ Longitude Latitude Antenna Power Stations Station	736
 Luanda Benguela DOMINGOS ANTONIO ADAO	10751
 Luanda Luanda VICTORIA ANTÔNIO ERNESTO MARTINS	10751
 Luganda and Kinyarwanda. Kenya's AntuGrow	9944
+L’ ANTIC	11010
 M. Anthony Ngororano	765
 M. Antoine Ngom	2441
 MARIA ANTÔNIO ERNESTO	10751
@@ -454,7 +462,7 @@ Professor Sir Anthony Finkelstein	1246
 Prossy Mukisa and Anthony Odur	3005
 Prove Rani Group and Others Anti-Competitive Practices	10465
 Public Perception of Accountability Anti-Corruption	10759
-Public Perception of Anti-Corruption	10759,76,2,1
+Public Perception of Anti-Corruption	10759,76,2,1,130
 Public Perception of Anti-Corruption PARTICIPATION	10759
 Questionário de Remedição de Dados Antropométricos	10777
 RAS PETROLEUM Envoy X1 Antenne	998
@@ -482,7 +490,7 @@ Secretário-Geral António Guterres	2816
 Security Anti-DDOS	6432
 Selon Antoine Ngom	10795
 Sié Antoine-Marie Tioyé	1715
-Socioeconomic Opportunity for Women Anti-Corruption	10835,3
+Socioeconomic Opportunity for Women Anti-Corruption	10835,3,130
 Sofia Alexandra Da Silva Antunes	2989
 Son Excellence Félix Antoine Tshisekedi Tshilombo	6460
 South Sudan's Anti-Corruption Commission	3583

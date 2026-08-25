@@ -48,6 +48,8 @@ BIOKO SUR BANEY CIUDAD	4209
 BIOKO SUR CENTRO SUR WELE-NZAS POLICIA	4209
 BIOKO SUR CIVIL WELE- CIVIL KIE-	4209
 BLOOM SURGICAL CENTRE LIMITED Data Controller	7167
+BPC Survey IDPs	10964
+BPC Survey Random	10964
 Bandiagara. Sur	9342
 Baraka. Sur	8752
 Bceao PARTAGEZ CET ARTICLE SUR	2828
@@ -59,6 +61,7 @@ Broadcasting Baseline Survey	6946
 Built Beneath the Surface	3292,1688,360,1433
 Burkina Faso World Bank Enterprise Survey	10862
 Burkina Faso. Sur	643,6184
+Business Pulse Survey	10963,1
 CCTV Smart Camera Surveillance System	259
 CENTRO SUR	4209
 CENTRO SUR BATA PERIFERIA	4209
@@ -73,19 +76,22 @@ COVID-19 Survey	10829
 CULTO GRAL. DE NOTARIA BIOKO SUR	4209
 CYBERSECURITY SKILLS GAP SURVEY Compiled	1940
 CYBERSECURITY SKILLS GAP SURVEY The CSIR	1940
+Cameroon Household Survey	10985
 Cased-based Surveillance	396
 Census and Survey Processing System	10777
 Child Online Safety Survey	1554
 China Eximbank. Surfaced	10632
 Chinese Supply of Surveillance Technology	9399
 Coloniality of Chinese Surveillance Technologies	2518
+Commission de Surveillance du Marché	10965
 Communication VPG Sur	7541
 Community Based Surveillance	4349
 Community-Based Surveillance CCS	10776
+Conclusion Appendix A Survey	10977
 Conseil de Surveillance	7805,3116
 Consultas Pré-natais Census and Survey Processing System	10777
 Consumer Pulse Survey	8482
-Consumer Survey	7802
+Consumer Survey	7802,3202
 Consumer Survey Highlights Partnering	418
 Continous Multipurpose Household Survey Sweden	30
 Contracting and Disposal of Surplus	10008
@@ -143,19 +149,24 @@ E- Surfline B- Yes Desktop D-	582
 E-Government Survey	1893,1641,2778,4528,16
 ECONOMIC SURVEY	2775
 ECOWAS Multilateral Surveillance Mechanism	7
+ENTERPRISE SURVEYS ENTERPRISE SURVEYS WHAT BUSINESSES	10976
 ERETES. Sur	9276
+ESCP Fourth Cameroon Household Survey ESF	10964
 ET MISE SUR L'INCLUSION NUMÉRIQUE RTS	5157
+ETS Third Survey	10980
 Economic Survey	2775,3896,275,602
 Economic Survey Consistency	2775
 Economic Survey Report	2775
 Economic- Survey.pdf	7548
 Economics Survey	6946
 Efficient and Quality Public Service Survey	6946
+Electricité ASC Avances Sur Consommation BAD	10975
 Electronic Integrated Disease Surveillance and Response	4202
+Employment and Informal Sector Survey	10980
 Enterprise Analysis Unit. The Enterprise Surveys	10862
 Enterprise Opportunity Survey	6593
 Enterprise Survey	10862
-Enterprise Surveys	1400,698,8764
+Enterprise Surveys	1400,698,8764,114
 Enterprise Surveys Manual and Guide	10862
 Enterprise Surveys. All	10862
 Enterprise Surveys. Cooperatives	10862
@@ -176,6 +187,7 @@ FSD Kenya FinAccess Household Survey Report	7548
 FTTH. Sur	6284
 Facebook Sur	10231
 Federal Republic ofNigeria Thematic Arca Surveillance	4301
+Fifth Cameroon Household Survey	10985
 Fin-Scope Survey	2857
 FinAccess Household Survey Reporthttps	7548
 FinScope Consumer Survey	940,8409
@@ -192,6 +204,7 @@ FinScope Surveys	940
 Final Survey Results Report	969
 Finance Survey	866
 Financial Access Household Survey Overview	2775
+Financial Access Survey	10969
 Financial Literacy Survey Results Report	10775
 Financial Services Demand Side Survey Financial	940
 Financial Services Survey	8292
@@ -202,6 +215,7 @@ Finmark Trust Survey	418
 Finscope Consumer Survey Report	9349
 Finscope Survey	1867
 First Penile Prosthesis Surgery Libya Plans	2837,989,15,690,99,50,66,65,38,415,53,275,183,129,44,409,340
+Fourth Cameroon Household Survey	10964
 Fourth National ICT Survey	10412
 Fourth Round Eritrea Population and Health Survey	6106
 Freedom House AI Surveillance Index	121,138,83,133
@@ -212,7 +226,8 @@ GBV Survivors	10829
 GBV Survivors District	10829
 GOS Gross Operating Surplus GPRS Ghana	236
 GOVERNMENT SUPPORT Surveyed	5247
-GSMA Consumer Survey	5232
+GSMA Consumer Survey	5232,5772
+GSMA Consumer Surveys	11004
 Gambia Labour Force Survey	8362,97
 General Household Survey	6832
 Ghana Living Standard Survey	236
@@ -297,6 +312,7 @@ Launch Smart Surveillance Infrastructure	8520
 Lekki and Surulere	5212
 Liberia College of Physicians and Surgeons	4202
 Liberia Household Income and Expenditure Survey	31
+Libreville. Sur	11080
 Libreville. Survey	10841
 Libya E-Payment Transactions Surge	4680
 List of Organizations Surveyed	7151
@@ -309,6 +325,7 @@ MICS Multiple Indicator Cluster Survey MOH	10829
 MICT SETA Tracer Study Survey	6832
 MONDIALE SUR LE MAROC Rapport	7655
 MSME Surveys. Formal	940
+Madagascar Suriname Cameroon Malawi Tajikistan Central	11005
 Madagascar. Sur	8657
 Make Sure	8629
 Mapping Chinese AI Surveillance	5508
@@ -422,6 +439,7 @@ République Centrafricaine. Sur	4813
 SAGEA Employer Benchmark Survey	6832
 SANS. Sur	8702
 SARB’s Financial Surveillance Department	10452
+SBT. Sur	11123
 SECTION A International Scene Economic Survey	2775
 SERVICES FINANCIERS NUMÉRIQUE RAPPORT ANNUEL SUR	4459
 SERVICIOS REGIONAL WELE-NZAS CENTRO SUR	4209
@@ -439,7 +457,8 @@ SURTOS Investigacao	966
 SURVEILLANCE	4153
 SURVEILLANCE ARCHITECTURE	9399
 SURVEILLER	8637
-SURVEY	582,1516,1149
+SURVEY	582,1516,1149,7729
+SURVEY COUNTRIES	11004
 SURVEY Compiled	1939
 SURVEY OBJECTIVES	582
 SURVEY OF RELEVANT EMPIRICAL LITERATURE	10
@@ -472,8 +491,11 @@ State Digital Surveillance Risk Landscape	9399
 Stats SA's General Household Survey	6832
 Studies and Surveys	6946
 Submarine Cable Route Survey Companies and Governments	3513
+Sudan X Suriname X Tajikistan X	11005
 Sur DENG	6613
+Sur Facebook	11015
 Sur Gabon Télévision	4138
+Sur La Protection Des Infrastructures D’Informations	11034
 Suran	2096
 Surbhi	8021
 Surcharge	7845,1209
@@ -519,13 +541,14 @@ Surprisingly	4439,5991
 Surrender	762,1965,1531
 Surrender of Individual License	762
 Surrendered	2775
-Surtout	747,901,865,1303,2864,675,868,2465
+Surtout	747,901,865,1303,2864,675,868,2465,392
 Suru-Léré	7355,3512
 Surulere	3580,843,178,453,820,1232,177,3448
 Surveillanc	4301
-Surveillance	245,15,99,116,144,379,1119,42,1,358,31,129,343,1146,35,15,43,41,48,77,137,679,110,1035,35,140,265,2572,319,251,268,76,463,53
+Surveillance	245,15,99,116,144,379,1119,42,1,358,31,129,343,1146,35,15,43,41,48,77,137,679,110,1035,35,140,265,2572,319,251,268,76,463,53,214
 Surveillance Architecture	9399
 Surveillance By Evin McMullen Age Verification	9328
+Surveillance Capitalism	11028
 Surveillance Footprint	2549
 Surveillance Law	1250
 Surveillance Malaria	4167
@@ -540,8 +563,8 @@ Surveillance des Opérations de Bourse	4887
 Surveillance des Systèmes	10237
 Surveillance du Territoire	7333,660,1675
 Surveillance-f	4301
-Surveiller	7977
-Survey	418,164,388,942,28,835,1310,763,382,12,5,1292,33,314,52,852,79,53,100,935,989,331,437,4,57,54,11,1,21,8
+Surveiller	7977,2998
+Survey	418,164,388,942,28,835,1310,763,382,12,5,1292,33,314,52,852,79,53,100,935,989,331,437,4,57,54,11,1,21,8,94,40
 Survey 0.pdf	7548
 Survey 0.pdf SUMMARY OF ICT INDICATORS	6671
 Survey Based	582
@@ -552,12 +575,14 @@ Survey IC Intermediate Consumption ICOR Incremental	236
 Survey Ijasan	9759
 Survey Methodology	2775
 Survey Objectives	2775
+Survey Percentage	10964
 Survey Project	191
 Survey Responses	6938
 Survey Responses Real-Time Gross Settlement	6938
 Survey Solution	737
 Survey and IFMIS	7548
 Survey and Inspection	1000
+Survey for Cameroon	10976
 Survey of Chinese	5242
 Survey of Expenditure	10763
 Survey of Income	10763
@@ -569,6 +594,8 @@ Surveyed Zambian	5247
 Surveying	888,1790
 Surveying and Geoinformatics	9104
 Surveys	236,182,552,1126,2106,1708,629,4175,127
+Surveys and Land Affairs	10960
+Surveys and Land Tenure	10987
 Surveys and Physical Planning	8957
 Surveys the African	6520
 Survival	2093,619,3867,369
@@ -613,6 +640,7 @@ USER SATISFACTION SURVEY	5679
 Uganda National Household Survey	9024
 Uganda National Household Survey The Uganda	9024
 Understanding Surveillance Trends	2549
+Unis. Sur	11014
 United Nations E-Government Survey	1912,8928
 United Nations E-Government Survey. Countries EDGI	10840
 United Nations E-Government Survey. Legend	10840
@@ -636,8 +664,9 @@ Web-Based Survey	10919
 Web-Based Survey Data	10919
 World Bank Enterprise Survey	1828
 World Bank Enterprise Survey Implementation Report	10862
-World Bank Enterprise Surveys	1400,9462
+World Bank Enterprise Surveys	1400,9462,107
 World Bank Survey of Enterprises	1828
+World Bank. The Enterprise Surveys	10976
 World Bank’s Universal Financial Access Survey	10775
 X United Nations E-Government Surveys	10840
 Year Surveillance	4153,49,15,43,41,48

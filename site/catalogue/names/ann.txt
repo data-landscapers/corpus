@@ -24,7 +24,8 @@ ANN WANJIKU KARIUKI Data Processor INST-9855362BE84	7167
 ANN WAYUA KARURI Data Processor INST-39879007F06	7167
 ANNE WANJIKU KABERA Data Processor INST-494880208E7	7167
 ANNEE	4658
-ANNEX	961,1,8,273,21,20,534,49,1022,715,257,987,1691,659,350,2307,859,54,61
+ANNEX	961,1,8,273,21,20,534,49,1022,715,257,987,1691,659,350,2307,859,54,61,135
+ANNEX Annex	10980
 ANNEX B	3861,3337
 ANNEX C	3861,3337
 ANNEX COUNTRY	4653
@@ -46,7 +47,7 @@ ANNEXE III	10836
 ANNEXE VI	1866,130,52,1,1,1,1,1,907,337,418,665
 ANNEXE-VI	1319,1,1
 ANNEXE-X	1301,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,707,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2260,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
-ANNEXES	998,245,745,157,821,430,465,598,1196,273,1620,3163,125,39,38
+ANNEXES	998,245,745,157,821,430,465,598,1196,273,1620,3163,125,39,38,52
 ANNEXES ANNEX	1243,6305
 ANNEXES Annex	789,1199
 ANNEXES Annexe	998,1968,7909
@@ -189,6 +190,7 @@ Ann Wangechi Kamunya Data Processor INST-68056192EA7	7167
 Anna Chibamu AS Zimbabwe	1191
 Anna Lixi	1779
 Anna Metz	10714,61
+Anna Popova	10985
 Anna Sophie Herken	9632
 Annaba	6243,3935
 Annabel Schiff	226
@@ -209,7 +211,7 @@ Annegret Hilse	6931
 Annejiagye Street Operational P.O Box LG	3386
 Annepeace Alwala	5839
 Annette Mangena	1248
-Annex	789,110,62,1,7,1,218,55,14,7,514,36,4,10,39,121,901,24,76,467,127,21,257,266,174,282,70,591,1,242,131,175,625,116,5,100,193,106,44,92,7,61,56,170,104,76,273,34,117,610,171,877,1084,51,10,37,17,11,4,12,55
+Annex	789,110,62,1,7,1,218,55,14,7,514,36,4,10,39,121,901,24,76,467,127,21,257,266,174,282,70,591,1,242,131,175,625,116,5,100,193,106,44,92,7,61,56,170,104,76,273,34,117,610,171,877,1084,51,10,37,17,11,4,12,55,54,15,17,10
 Annex A	7987,1136,1591
 Annex A-C	10714
 Annex A. Action Plan Implementing Entity	1777
@@ -224,6 +226,7 @@ Annex Careplus MEdical Data Controller INST-724067F63A2	7167
 Annex D	3861,3337,3516
 Annex D. Estimation Method	10714
 Annex F	3861,3337
+Annex Figure A.3	10985
 Annex G	3861
 Annex H	3861
 Annex I	10763
@@ -248,7 +251,7 @@ Annex for Early Learning and Basic Education	899
 Annex-Call Health Clinic Data Controller INST-436531FB4AC	7167
 Annex. Republic of Congo	1828
 Annex62	10856
-Annexe	643,104,1,17,233,293,1,1,1,1,1,621,140,1,1,1,1,1,12,892,223,280,427,259,1,1,1,1,1,210,1,1,1,1,1,8,978,1187,1107,1236,1820,161,2,1,31,7
+Annexe	643,104,1,17,233,293,1,1,1,1,1,621,140,1,1,1,1,1,12,892,223,280,427,259,1,1,1,1,1,210,1,1,1,1,1,8,978,1187,1107,1236,1820,161,2,1,31,7,52
 Annexe 2 au decret 2021-916 du 22 decembre 2022 PPIC-1.pdf	10906
 Annexe A	747
 Annexe Annexe	10874
@@ -256,7 +259,7 @@ Annexe B	748
 Annexe II	10906
 Annexe III	10400,321
 Annexed	5679
-Annexes	579,64,122,1013,29,180,1,1442,2248,1,1153,127,183,1294,455,1873,147
+Annexes	579,64,122,1013,29,180,1,1442,2248,1,1153,127,183,1294,455,1873,147,64
 Annexes A and B	2957,4241
 Annexes A-C	10714
 Annexes A-D	10714
@@ -312,6 +315,7 @@ Anniversaire	4895
 Anniversary	5825,4295
 Anniversary Corporate Social Investment	8884
 Anniversary Launch	6310
+Anniversary Symposium	11039
 Anniversary of Independence	6831
 Annobón	3179,1030,1027
 Annobón Annobón	4209
@@ -339,11 +343,11 @@ Announcing	1208,1239,119,2558,678,1715,183
 Annoyance	1988
 Annu Rev Public Health	10881
 Annuai	3972
-Annuaire	643,544,1971
+Annuaire	643,544,1971,7817
 Annuaire Active Directory	9049
 Annuaire Statistique	10812
 Annuaires Décentralisation	3396
-Annual	11,117,83,25,23,130,1,123,74,121,1,1,26,74,2,112,4,1,17,23,1,43,12,40,72,4,1,72,6,64,73,84,138,163,35,90,37,40,152,679,410,419,110,147,26,51,34,213,32,308,717,291,143,1,423,332,305,95,114,591,11,114,183,439,582,1291,193,409,9,12,1,31,17,6,2,1,18,14,42,27
+Annual	11,117,83,25,23,130,1,123,74,121,1,1,26,74,2,112,4,1,17,23,1,43,12,40,72,4,1,72,6,64,73,84,138,163,35,90,37,40,152,679,410,419,110,147,26,51,34,213,32,308,717,291,143,1,423,332,305,95,114,591,11,114,183,439,582,1291,193,409,9,12,1,31,17,6,2,1,18,14,42,27,25,4,8,29
 Annual A- Data Centre Compute Percentage	7548
 Annual ACIST Proceedings	1248
 Annual AI	4126,3422
@@ -358,7 +362,7 @@ Annual Average Exchange Rates.pdf	1013
 Annual Average Retail Prices of Selected Consumer	2775
 Annual Business Performance Report	7819
 Annual Commercial Data Center Revenue	10781
-Annual Commercial Data Data	3184,1,1340
+Annual Commercial Data Data	3184,1,1340,6470
 Annual Compute and Plan	7548
 Annual Computers	8604
 Annual Conference	1814,8382
@@ -376,6 +380,7 @@ Annual Emerging Technologies Technologies Infrastructure	7548
 Annual Establish	6832
 Annual Estimates	7548
 Annual Expert Group Meeting for African Registrars	7879
+Annual Figure	10976
 Annual Financial Inclusion Report	8135
 Annual Financial Statements	1554,316,1540,194,110,3490
 Annual Forum	1554
@@ -408,6 +413,7 @@ Annual Growth Rate CapEx Capital Expenditures	10861
 Annual Heads of Procurement Conference	10043
 Annual Inflation	2775
 Annual Insurance Market Report	6938
+Annual Integrated Report	11048
 Annual International Conference	2096,2336,917
 Annual Investment Plans. PBGs	5620
 Annual Joint Meeting	3038
@@ -422,6 +428,7 @@ Annual NHIF Members’ Contributions and Benefits Paid	2775
 Annual National AI	7548
 Annual Natural Hazard Occurrence	10763
 Annual Net Profit Before NCI Deductions	5869
+Annual Number	10964
 Annual Observatory	4207,5409
 Annual PA12b S Revenue Requirements	10779
 Annual PAYE	4191
@@ -459,6 +466,8 @@ Annual Reports and State	5872
 Annual Residential Address Conference and Postal Services	4953
 Annual Revenue Requirements	10779
 Annual Review	5665
+Annual Review of Economics	10964
+Annual Review of Environment and Resources	11006
 Annual Review of Organizational Psy-	8603
 Annual Review of Political Science	7886
 Annual School Census	10359
@@ -479,7 +488,8 @@ Annual Volume of Water Abstracted	2775
 Annual Work Plan	2989,1411
 Annual Work Plan PIU Management and Budget	2989
 Annual Work Plan and Budget	1228,56,5255,4290
-Annual Work Plans and Budgets	3562
+Annual Work Plans	10963
+Annual Work Plans and Budgets	3562,7402
 Annual Work Program BEAC Bank of Central	969
 Annual-Report.pdf	1059
 AnnualGeneral Member	585
@@ -495,13 +505,19 @@ Annually General Public	7548
 Annually Review	10829
 Annuel	2342
 Annuelle	6954
+Annuelle APECCAM	10965
+Annuelle BEAC	10965
+Annuelle CNEF	10965
+Annuelle MINFI	10965
 Annul	3861
-Annuler	3224,281,771,104,209,791,745,340,489,2971,68,170,115
+Annuler	3224,281,771,104,209,791,745,340,489,2971,68,170,115,845
 Annulments	10812
 Annulé	1993
-Année	419,865,712,346,2044,2568,889,830,2174,29
+Année	419,865,712,346,2044,2568,889,830,2174,29,99
 Année Scolaire	10847
+Années	10975
 Années Ali	8891
+Années Téléphone	10975
 Application Programming Information APP Annual Performance	5533
 Articles. Annexure	3714
 Aryemo Anna	3005
@@ -514,6 +530,7 @@ B2- Annual	7548
 B3- Annual	7548
 BCEAO RAPPORT ANNUEL SUR L'ÉVOLUTION DES	4459
 BCEAO RAPPORT ANNUEL SUR L’ÉVOLUTION DES	4459
+BEAC Annuelle MINFI	10965
 BIOKO SUR ANNOBON C.S	4209
 BLANK ANNEXURE B7	4896
 BUDGET ANNUEL REVISE	3164,1,1,1,1,1,1,1,1
@@ -523,7 +540,7 @@ Bank of Tanzania’s National Payment Systems Annual	8888
 Bank of Uganda Integrated Annual Report	10299
 Bd Annakhil	1184
 Benin. See Annex D	10714
-Broadband Annual	3184
+Broadband Annual	3184,7811
 Budget Annuel	3396,420,7060
 Budget Annuel REESS Rapport	10876
 Burkina CASEM Plan de Travail Annuel	2074
@@ -533,6 +550,8 @@ C2- Annual	7548
 C2- Annual FDI	7548
 CAGR Compound Annual Growth Rate CCG	1818
 CAGR Compound Annual Growth Rate CapEx	10781
+CAMEROON ANNEX	10997
+CAMEROON Annex I. Estimating Tax Potential	10997
 CASCARE ANNEX MEDICAL CENTRE Data Controller	7167
 CHIFFRES CLÉS FAITS MARQUANTS Rapport Annuel	2342
 CIL the Annexe-6	2062
@@ -557,13 +576,14 @@ Cf. Annexe	8891
 Charity Annex Chemist Data Controller INST-529182D34CC	7167
 Circular ANNEXURE D1	4896
 Civil Annex	10812
+Climate and Conflict. Annual Review of Economics	10963
 Community Health Impact Coalition. Annual	1219
 Company's Annual Report	4896
 Company’s Annual General Members’ Meeting	585
 Company’s Annual Report	7198
 Compute Annual	7548
 Conduct Annual List	1988
-Conférence Annuelle	10821
+Conférence Annuelle	10821,154
 Continued Annual Absorption of Frontline HCWs Year	4260
 Count Down Announcements	8999
 Countdown Announcement PR Campaign Mop-up	8999
@@ -612,6 +632,7 @@ Digital Trade and Its Annexes	7596
 Disability Registered Annually1	2775
 Domest. Respons. Repres. Annual Bruto	4209
 Domestic Revenue Mobilisation Strategy Annual Budget	3307
+Douala. Annex	10964
 Douglas Mboweni ANNEXURE D5	4896
 Dr. Anne Cavoukian of Ryerson University	10765,10
 Dr. Anne Cavoukian's Eleven Practices of Privacy-by-Design	10765
@@ -628,6 +649,7 @@ EU Announces	4239
 East Africa VP Anne Kinuthia Otieno	8623
 Editors Guild Annual General Meeting	8687
 Elaboration du Budget Annuel	10876
+Electricité Annexes Tableau	10975
 Emerging Annual	7548
 Emerging C- Annual	7548
 Emerging Technologies Annexure	4583
@@ -670,7 +692,7 @@ GLOSSAIRE Année	2476
 GREEN ASSESSMENT SUMMARY ANNEX	1818
 Gabon. Annoncé	6570
 Gabriele Annis	7030
-Ghana-India Kofi Annan Centre of Excellence	7954
+Ghana-India Kofi Annan Centre of Excellence	7954,3078
 Giga Annual Results	953
 Government. Annual	11,576
 Gross Annual N	10407
@@ -689,6 +711,7 @@ IDA Audrey Anne Alexandra Ariss Project	1284
 IDEA Annual Digital Forum	8294
 IDEA Annual Digital Forum Outcome Report	7963
 IFRs and Annual Financial Statements	10768
+III LIST OF ANNEX	10980
 INSULAR CONT. ANNOBON WELE-NZAS NTEM CENTRO	4209
 INTRODUCTION Safaricom Annual Report	7204
 ITU-R F.636-4 Annex	5245
@@ -719,12 +742,14 @@ Kofi Annan Foundation	8634
 L'Enquête Agricole Annuelle	9286
 LAISSER UN COMMENTAIRE Annuler	9620
 LCRP Launch Announcements	8999
+LIST OF ANNEX Annex	10980
 Landlocked Developing Countries Annex	10844
 Landlocked Developing Countries Annual	10844
 Lesotho Communications Authority Annual Report	5168
 Licence Fee Annual Compliance Burn KES	10738
 License Annual Universal Fee Fee Regulatory	10407
 Livestock Annually	10098
+Loaded Pictures. Patricia Anne Janer and Ryan	10977
 M'. DFC Annual Report FY2021	462
 M. Announced Jun	2234
 MARKET INFORMATION ANNEX	1818
@@ -795,10 +820,11 @@ OTR Année	8673
 Office Annual	7548
 Online Annex	8436
 Online Annex B	8436
-Operator CAGR Compound Annual Growth Rate	3184,1,1340
+Operator CAGR Compound Annual Growth Rate	3184,1,1340,6470
 Orange MEA Annual Network CapEx Programme	933,208
 PAD. Annexes	969
 PIM. Frequency Annual Data	3604
+PIM’s Annex	10964
 PIU PIU PIU PIU Annex	2989
 POTRAZ Finally Announces Starlink	1872
 PROCEEDINGS AT ANNUAL GENERAL MEMBERS' MEETINGS	8866
@@ -821,6 +847,8 @@ Plans de Travail Annuels	10712
 Program Annually Review	3604
 Program. Frequency Annual Data	3604
 Program. Frequency Annual. Data	3604
+Projet Annuel de Performance	10975
+Projet de Performance Annuel	10975
 Prosperity Insight Annex The GTMI	10785
 Préscolaire Primaire Annexe	2966
 Public Annual Emerging Technologies	7548
@@ -840,6 +868,8 @@ RURA Annual Report	563
 Radiocommunications ANNEXE	5361
 Rapport Annuel	2342,5253,721,575,1965
 Rapport Annuel 2025 BCEAO vf.pdf	7595
+Rapport Annuel de Performance	10975
+Rapport de Annuelle BEAC	10965
 Rapport-de-FIN-D ANNEE-2025.pdf	6896
 Re-reading. Annotating. Asking	5513
 Renewal Annual	736
@@ -859,6 +889,7 @@ Robert Kwaku Annor Cabo Verde Digital	6040
 Robert Kwaku Annor Côte	5784
 Robert Kwaku Annor Sierra Leone’s Ministry	10674
 Robert Kwaku Annor Telecel Centrafrique	6185
+Rubrique Année	10975
 Rwanda. Announced	1519
 Rwanda. Annual	811
 SERVICES FINANCIERS NUMÉRIQUE RAPPORT ANNUEL SUR	4459
@@ -936,6 +967,7 @@ Xpatweb Annual Global Mobility Conference Programme	7569
 Y BASE DE KIE-NTEM ANNOBON INTERPOL	4209
 Yakan Annick Amani-Koné	9961
 Year Mark Zuckerberg Announces Groundbreaking Update	5390,965,827
+Yearly Annual System	10964
 Z Annual	3861
 ZAF. Announced	675
 ZEEX. Announced	8626

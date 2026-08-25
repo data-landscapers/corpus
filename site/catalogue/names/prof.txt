@@ -28,6 +28,7 @@ Associate Professor of Wireless Communication Networks	10383
 Association Nationale des Professionnels	10821
 Association Professionnelle	8355,2481
 Association Professionnelle des Banques	10821
+Association Professionnelle des Etablissements	10965
 Association of Professional Societies	7167
 Associação Moçambicana de Profissionais	2816
 Audio By Carbonatix Economist and Professor of Finance	7697
@@ -44,6 +45,7 @@ Buyer Profile	4972
 Buyer Profile Figure	4972
 CAPITALISATION OF PROFIT COMPANIES	3714
 CAPITALISATION OF PROFIT COMPANIES Legal	3714
+CNEF BEAC Professionnalisation	10965
 CORE VALUES Excellence Professionalism Integrity	1131
 CPD Continuous Professional Development CSP Content	6946
 Cameroon Country Profile	10841
@@ -73,6 +75,7 @@ Climate Risk Country Profile	3456
 Climate Risk Profile	6539
 Committee Member Professor Dr. Ashraf Darwish	2958
 Commonwealth Professional Fellowship	10252
+Component Beneficiary Profile	10964
 Comprehensive Company Profile	8985
 Consortium Profile Provide	5903
 Continuous Professional Development	6946
@@ -80,10 +83,10 @@ Continuous Professional Development CSL	6832
 Corporate Profile	5903
 Council for Natural Scientific Professions SA-EU South	5246
 Council of Ministers View Profile	5775
-Country Profile	1356,742
+Country Profile	1356,742,8878
 Country Profile Companion	2098
 Country Profile.pdf	1400
-Country Profiles	10764
+Country Profiles	10764,212
 Country Profiles Africa Angola Global Cybersecurity	10764
 Country Profiles For Early Childhood Development	10768
 Crescimento Profissional	2816
@@ -142,9 +145,10 @@ Executive Secretary Professor Abdullahi Yusufu Ribadu	8710
 Expo View Profile	6357
 FINANCIAL CAPABILITIES Profile	418
 FORMAÇÃO DE PROFESSORES	10766
+Faculty of Commerce Professor Suki Goodman	11027
 Formación Profesional	4209
 Formación Profesional Ocupacional	4209
-Formation Professionnelle	643,2753,4530,965
+Formation Professionnelle	643,2753,4530,965,2073
 Formação Profissional	10768,10
 Formação Profissional Básica	10766
 Formação de Professores	10766
@@ -214,9 +218,12 @@ Licences Professionnelles	10893
 MANAGEMENT PROFILES	4896
 MANAGEMENT PROFILES Douglas	4896
 MCom Economics Profiles	4896
+MINFI- Professions-REPPA	10965
+MSMEs. Professor Eric Osei-Assibey	11032
 MUST Vice-Chancellor Professor Mauakowa Malata	4558
 Malawi and Zimbabwe Professor Nhamo Nhamo Indigenous	1154
 Management Our Profile Corporate Subscription Home	9750,247
+Minister Awaté Hodabalo. Professor Wella Mazamesso	11104
 Mozambique's Digital Innovation Profile	9434
 NAAIP Founder Professor Emeritus Peter Akinsola	8710
 NAAIP President Professor Eyitope Ogunbodede	8710
@@ -238,6 +245,7 @@ Nuevo Modelo de Formación Profesional	4209
 Nyamira Professionals Association	10330
 Número de Professores	10766
 O Professor Associado Jorge Nhambiu	9694
+Observatory of Employment and Professional Training	10963,1
 Offsec Certified Professional	1940
 Operator Profiles	4130
 Organisational Profile	9198
@@ -294,7 +302,7 @@ Professeur Tahirou Djara	9044
 Professeur Vincent Kangulumba	5888
 Professeure Mariatou Koné	10925
 Profession	2775,2121,5879
-Professional	34,1185,720,1,835,328,1411,14,719,1699,843,56,109,942,210,749,363,157,221
+Professional	34,1185,720,1,835,328,1411,14,719,1699,843,56,109,942,210,749,363,157,221,380
 Professional Certificate	10133
 Professional Development	6946
 Professional Etiquette	6946
@@ -303,6 +311,7 @@ Professional ID	10823
 Professional ID Registration	10823
 Professional Integration and Civic Service	6730
 Professional Nursing Today	8603
+Professional Orientation	10963,1
 Professional Responsibilities and Ethics	9855
 Professional Services Capital Goods Food	4972
 Professional Services Figure	4972
@@ -317,9 +326,12 @@ Professionnalisation	643,7660
 Professionnaliser	8891
 Professionnalisme	10874,2
 Professionnel	10282
+Professionnell	10965
+Professionnell Activité	10965
 Professionnelle	643
+Professionnelle des Education	10985
 Professionnelle des Jeunes	10826
-Professionnels	9287,55,1269
+Professionnels	9287,55,1269,364
 Professor	2816,518,1562,996,77,1203,1532,1679,367,16,86
 Professor A. Murwira	413
 Professor Abate	8529
@@ -373,6 +385,7 @@ Professor Naana Jane Opoku-Agyemang	6097
 Professor Ndubueze Mbah	7444
 Professor Nii Narku Quaynor	4706
 Professor Ntoi Rapapa	3183
+Professor Parsons	11027
 Professor Pat Terry	1036
 Professor Paul Mapfumo	520
 Professor Percy Chimwamurombe	5036
@@ -387,6 +400,7 @@ Professor Sagir Adamu Abbas	2933
 Professor Samuel Bunani	7955
 Professor Samuel K. Bonsu	8950
 Professor Sandra Maximiano of ANACOM	7323
+Professor Shaun Parsons	11027
 Professor Shoshana Zuboff	4426
 Professor Sir Anthony Finkelstein	1246
 Professor Smaranda Olarinde of Afe Babalola University	8710
@@ -394,7 +408,9 @@ Professor Somadoda Fikeni	7058,13
 Professor Stefaan Verhulst	1246
 Professor Tankiso Moloi	8142
 Professor Tawanda Mushiri	4528
+Professor Thokozani Majozi	11027
 Professor Titular	2816
+Professor Vera Fiador of UGBS	11032
 Professor Vukosi Marivate	6152,1605
 Professor William Dutton	1200
 Professor William Webb	7508
@@ -425,9 +441,9 @@ Profiles	1875,240,2781,1684
 Profiles MauCAS	1386
 Profiles Tolúlọpẹ	9739
 Profiles of African	6580
-Profiling	3861
+Profiling	3861,7113
 Profiling the LCC	7886
-Profissionais	2816
+Profissionais	2816,8240
 Profissionais Qualificados	10777
 Profissional	10777
 Profit	2096,2010,1905,985,431,236,378,2649,103
@@ -448,6 +464,7 @@ Profits of SEP Section	3161
 Profitshare Partners	6886
 Profundizar	1701
 Programa Apoyo Formación Profesional Ocupacional	4209
+Project Beneficiaries Component Beneficiary Profile	10964
 Província Total Professores Alunos Pública Professores	10766
 QUADRO DE PROFESSORES E INFRAESTRUTURAS	10766
 QUALIFICATIONS ET PROFIL DU CONSULTANT SYSTÈME	7977
@@ -456,7 +473,7 @@ Quadro de Professores	10766
 RCCC Chairman Professor W. Magwa	1554
 REALIZED PROFIT	4602
 REGIONAL PROFILE	4972
-RESULTS PROFILE	10759,76,3
+RESULTS PROFILE	10759,76,3,130
 Reagents for Mineral Froth Flotation Professor Tawanda	1154
 Recouvrement BEPS Base Erosion Profit Shifting	10712
 Redes Neurais Convolucionais Profundas	2816
@@ -512,6 +529,7 @@ UNHCR Socioeconomic Profiling	10841
 UPS Preinstalled Genuine Microsoft Office Professional	34
 USAID Climate Risk Profile	10768
 Uganda Faces Critical Shortage of Professors	6077
+Une Association Professionnelle	10965
 Unidad de Orientación Profesional	4209
 University of Oslo Associate Professor Terje Aksel	6048
 University of Professional Studies	7968

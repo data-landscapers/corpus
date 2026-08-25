@@ -12,6 +12,7 @@ CPLP A Comunidade	2816
 Comissão da Comunidade Económica	8051
 Comum	6462
 Comunica	10755
+Comunicacao Social	11045
 Comunicaciones	1701,1793,715
 Comunicación	163,1538,1328,1180,3874,2355
 Comunicación A2 Oficial de Comunicación A3 Recepcionista	4209
@@ -26,12 +27,12 @@ Comunicacoes de Mocambique	1526
 Comunicado	8578
 Comunicado Final	4147
 Comunicar	163,2658,7934
-Comunicação	13,1,1,152,409,218,1,420,216,715,265,23,3,1,35,228,83,32,50,252,401,627,68,249,46,810,1012,286,278,75,766,209,55,159,41,658,83,158,127,208,260,420,26,300,50,257,8
+Comunicação	13,1,1,152,409,218,1,420,216,715,265,23,3,1,35,228,83,32,50,252,401,627,68,249,46,810,1012,286,278,75,766,209,55,159,41,658,83,158,127,208,260,420,26,300,50,257,8,317
 Comunicação Institucional	1192,9580
 Comunicação Instituto Nacional de Avaliação	10766
 Comunicação IoT	2816
 Comunicação S	539
-Comunicação Social	167,372,653,146,957,70,66,150,32,116,92,316,769,240,1,101,2,1155,137,412,20,5,1,557,48,10,15,7,23,158,97,31,192,122,5,700,363,1,182,52,337,356,21,1,13,815,28,500,158
+Comunicação Social	167,372,653,146,957,70,66,150,32,116,92,316,769,240,1,101,2,1155,137,412,20,5,1,557,48,10,15,7,23,158,97,31,192,122,5,700,363,1,182,52,337,356,21,1,13,815,28,500,158,273,27
 Comunicação Social Sublinhou	5974
 Comunicação Social. Disse	3906
 Comunicação UA	2816
@@ -47,7 +48,7 @@ Comunicações Electrónicas	15,1200,2388,4706,2438,8,15,1
 Comunicações Eletrónicas	4435
 Comunicações Móveis	15
 Comunicações and Tecnologias de Informação	2295
-Comunicações de Moçambique	2866,5792,308,468
+Comunicações de Moçambique	2866,5792,308,468,1677
 Comunicações. Artigo	15,2851
 Comunicaçōes	2866
 Comunidad	1701
@@ -57,7 +58,7 @@ Comunidad de Desarrollo	8881
 Comunidad de Países de Lengua Portuguesa CSU	1701
 Comunidad de Vecinos	4209
 Comunidade	2618,248,3705,1480,1185,1546
-Comunidade Económica	5402,1169
+Comunidade Económica	5402,1169,4473
 Comunidade Integrada	1256,84,743,2330
 Comunidade de Desenvolvimento	5974,2880,142,1087
 Comunidade de Países de Língua Portuguesa DLI	2816
@@ -139,6 +140,7 @@ Operadoras de Comunicações	1251,831,2330
 Operadores de Comunicações Digitais	6970
 Operadores de Comunicações Electrónicas	6970
 Os Operadores de Comunicações Electrónicas	15
+Partido Comunista da China	11045
 Partners Hidroeléctrica de Cahora Bassa Comunidade	9409
 Política de Comunicaciones	1701
 Política de Comunicaciones ODS	1701

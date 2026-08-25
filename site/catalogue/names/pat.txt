@@ -157,6 +157,7 @@ Le PATNUC	2695
 Le Patron des PTN	2602
 Legal and Policy Pathways Artificial Intelligence	8747
 Legend Patient Facility	8605
+Loaded Pictures. Patricia Anne Janer and Ryan	10977
 Logbook. Justice Patricia Mande	9646
 Lukudu Obede and Information Minister Patrick Nyarsuk	8330
 MANAGEMENT PATRIMOINE ET SA GESTION	1214
@@ -200,10 +201,14 @@ PATN. Attach	3302
 PATN. Il	6465
 PATN. Progress	3129
 PATN. Une	1973
-PATNUC	2695,1228,600,39,131,71,227
+PATNUC	2695,1228,600,39,131,71,227,6001,4
 PATNUC's National Coordinator	4562
+PATRIE	10966
+PATRIMOINE	10975
+PATRIMOINE Matériel	10975
 PATRIMÓNIO DOS AGREGADOS FAMILIARES	10777
 PATRIOTIQUE	8321
+PEACE- WORK- FATHERLAND PAIX- TRAVAIL- PATRIE	10980
 PHC Patient Identifier Cross-reference for Mobile PIX	1009
 POLICY OPTIONS AND INSTITUTIONAL PATHWAYS Policy	4848
 Pan-African Pattern	8717
@@ -226,14 +231,14 @@ Patel A. SMARTHealth India	1219
 Patel Hachitema	9792
 Patel and Patel	7278
 Patel&volume	1219
-Patent	4676
+Patent	4676,6293
 Patent And Company Registration Agency	1222
 Patent Laws Heritage-Based Education	4528
 Patent No. US	4676
 Patente	8990
 Patente Tributaria	4595
 Patente Tributario	4209
-Patents	7845
+Patents	7845,3124
 Patents Officer	10358
 Patents and Companies Registration Agency	6187
 Paterne Binene-A-Kadiat	6460,3707
@@ -252,11 +257,12 @@ Pathogen Access and Benefits Sharing	4049
 Pathogen Economy Labs	5413
 Pathogen Economy Labs Project	5413
 Pathogens	4426,3939,1353
-Paths	1243,2641
+Paths	1243,2641,7122
 Pathway	7548
 Pathway Advisors	8186,456
 Pathway Advisors Limited	8186,456
 Pathways	2957,1891,1299,415,230,1390,1777,129,627,53
+Pathways for Social Cohesion	10964
 Patience	6948
 Patience Makwele	10146
 Patience Makwele Namibia and Botswana	9562
@@ -334,10 +340,14 @@ Patricia Adusei-Poku	1779
 Patricia Ainembabazi	9817
 Patricia Amand	4814,1141
 Patricia Asero Ochieng and Others	3005
+Patricia Katayama	10977
 Patricia R. Blanco	1997
+Patricia Raffaele Aug	11077
 Patricia Sibanda	6179
 Patricia Yoman. Cet	5377
+Patricia da Camara	10977
 Patricia de Lille	9895
+Patrick	10963,1
 Patrick Asare-Frimpong	10117
 Patrick Biney Amissah	8384
 Patrick Blas	3988
@@ -361,6 +371,7 @@ Patrick Namazihana Vendredi	6620
 Patrick Niyodusenga	8758
 Patrick N’Guessan	6095,128,14,423
 Patrick Okebu	10010
+Patrick Premand	10964
 Patrick R. Honnah	10406
 Patrick Tete	9293
 Patrick Valery Alakoua	987
@@ -400,7 +411,7 @@ Pattern	8604
 Pattern Across the Continent Across Africa	8943
 Pattern of Escalating Enforcement	7181
 Pattern of Participation Without Accountability	3874
-Patterns	3583,4303
+Patterns	3583,4303,3142
 Patterns Across the Continent	5551
 Patterson	7789
 Patticipants	4153
@@ -456,6 +467,7 @@ TESORERÍA Y PATRIMONIO DEL ESTADO	4209
 TESORERÍA Y PATRIMONIO DEL ESTADO Cuentas	4209
 TEXTILE Gestion Patrimoniale	2342
 TGE TOTAL DIRECTIVO PATRIMONIO DELEGACIÓN	4209
+TRAVAIL- PATRIE	10981
 TRIBUNE du DG Paterne Binene	10163
 TROPICAL RUBBER CÔTE D’IVOIRE Gestion Patrimoniale	2342
 Team OPD Open Patient Department RHIS	3791

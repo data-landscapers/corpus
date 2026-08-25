@@ -320,7 +320,7 @@ C'est Moi. Tokandji K. Houédako	6217
 C. Homburg	9129
 C1- Hosting	7548
 CA Staff House Mortgage	6946
-CAHF Centre for Affordable Housing Finance	10835,3
+CAHF Centre for Affordable Housing Finance	10835,3,130
 CALVARY HOPE MEDICAL CENTRE LTD Data	7167
 CALVIANE HOSPITAL LIMITED Data Controller INST-77964819084	7167
 CANA HOSPITAL LTD Data Controller INST-14512254709	7167
@@ -373,6 +373,7 @@ CUSTODIAN Ministry of Justice House of Parliament Presidency	1161
 CYNERT HOSPITAL AND REHABILITATION CENTRE LIMITED	7167
 Cabinet Secretary for Health Hon. Aden Duale	10641
 Cacuaco Hospital	10776
+Cameroon Household Survey	10985
 Cape of Good Hope	6593,3366
 Capital Hotel	10049
 Caring Bees Homecare and Counselling Service Data	7167
@@ -380,6 +381,7 @@ Carlton House	3386
 Carrier Hotel	8542
 Carry Home Never	7777
 Cartografo Horácio Pascoal	10757
+Catégorie Hommes Femmes Total Cadres	10975
 Cell C Holdings Limited	10733
 Census of Population and Housing	1867
 Centre Hospitalo-Universitaire de Kamenge	4363
@@ -453,6 +455,7 @@ Current Hosting	7548
 Cyberport de Hong Kong	6568
 Cybersecurity White House	9629
 D. G. COORD. HOSP Y ENFERM	4209
+D. Howarth	11028
 DABAA NURSING HOME LIMITED Data Controller	7167
 DABACITY NURSING HOME LIMITED Data Controller	7167
 DANASA NURSING HOME LIMITED Data Processor	7167
@@ -504,12 +507,14 @@ DURO MODERN HOSPITAL LIMITED Data Controller	7167
 DURO MODERN HOSPITAL LIMITED Data Processor	7167
 DYMA HOLDINGS LTD Data Processor INST-186148CCF10	7167
 Dallas Premiere Hotel Data Controller INST-9474530047C	7167
+Data Collection Collection Households	10964
 Data IDD HOUSEHOLD SURVEY ON ICT	582
+Data MIS Collection Collection Households	10964
 Data Processor INST-6332844F250 HOMABAY Kenya	7167
 Dating Home	2888,32,354,504,1444,877,6,100,680,129,293,115
 Deal Horizon	2622
 Debt and Holdings	4620
-Decent Housing	10759,76,2,1
+Decent Housing	10759,76,2,1,130
 Decent Housing Absence of Armed Conflict	10838
 Default GBB Hosting	10157
 Definitive Proxy Statement of IHS Holding Limited	7198
@@ -581,6 +586,7 @@ ELIGIBLE RESPONDENT AT HOME	582
 EMMANUEL J. PAYEGAR PATRICK R. HONNAH	10407
 EN Factsheet IDGC Horn	886
 ENTIRE HOUSEHOLD ABSENT FOR EXTENDED PERIOD	582
+ESCP Fourth Cameroon Household Survey ESF	10964
 EU-US Justice and Home Affairs	10088
 EXECUTIVE AUTHORITY STATEMENT DEPARTMENT OF HOME	5533
 East Africa Property Holdings	7167
@@ -599,11 +605,14 @@ Egyptian Currency Printing House	7536
 Ekurhuleni Minister of Home Affairs	10058
 Eldoret Regional Hospital Moi Barracks Data	7167
 Election House	6907
+Electricité EFFECTIF PAR GENRE HOMME FEMME	10975
 Ella Holland	10764
 Email Hosting	9455
 Embassy The White House	8921
+Emergency Cash Transfers Households	10964
 Emergency Doctor Health Information Oﬃcer Hospital	8603
 Emerging Technologies Hosting	7548
+Emma Hobson and Colin Andrews	10985
 Energy and Hospitality Rise	9815
 Enfermos Hospitalizados	4209
 Entretien Emprunt Camp Minawao Hors Camp	10841
@@ -619,6 +628,7 @@ Er Hock Lai	9238
 Eritrea Household Income and Expenditure Survey	6106
 Eskom Holdings SOC Ltd	2307
 Estatística Rua Ho-Chin-Minh	10757
+Estonian Hospitals Union	11006
 Eswatini Ministry of Home Affairs Annual Report	1357
 Ethiopia Operating Hours	10709
 Ethiopia's House of People's Representatives	3211
@@ -655,8 +665,10 @@ Federated Hospitality Association of Southern Africa	5533
 Felix Houphouët Boigny	2342
 Femme Homme Femme Secondaire	10875
 Femmes Hommes	10847
+Femmes Hommes Total Départements	10975
 Festival Honors Esaad Younes... Egypt’s National	7322
 Fiber To The Home	1885,4399,1444
+Fifth Cameroon Household Survey	10985
 Fifth General Population and Housing Census	10870
 Filles Ensemble Garçons Filles Ensemble Houet	10847
 FinAccess Household Survey Reporthttps	7548
@@ -674,13 +686,14 @@ Foreword From the Hon Minister	4528
 Formal Homens Informal Mulheres Quadro	10757
 Founder and CEO of Evolve Holding Investment Company	6653
 Four Points By Sheraton Hotel	5371
+Fourth Cameroon Household Survey	10964
 France Host the Bulk of Content	6542
 Fraud Is Holding Back Ghana	7114,40,8
 Freedom House	2117,3098,1617,117,2,1281,790,60,74
 Freedom House AI Surveillance Index	121,138,83,133
 Freedom House HEI Health Effects Institute	10759,78
 Freedom House Score	10908
-Freedom House WJP World Justice Project	10835,3
+Freedom House WJP World Justice Project	10835,3,130
 Fresh Horticultural	2775
 Funding Model NHC National Housing Corporation	2775
 Félicien Houindo Lokossou	5583,3027
@@ -712,6 +725,7 @@ Glee Hotel	6946
 Global Affairs Canada The Honourable Anita	9275
 Global Housing Boom	10
 Global Workforce Hopes and Fears	4085
+Glynos and Howarth	11028
 Golden Oak House	10793
 Google Lens Homework Helper	10525
 Gordon Hollamby	5533
@@ -865,6 +879,7 @@ Hodges	2096
 Hodgkinson	2093
 Hodh Charghi	1993
 Hodh El Gharbi	1993
+Hofburg Palace de Vienne	11109
 Hoffman	2518
 Hoffmann	1248,7423,566
 Hoffnung	614
@@ -890,7 +905,7 @@ HoldCo	5869
 Holden	7343
 Holden J. International	771
 Holder	5687,1511,2039
-Holders	1926,1426,362,3654,3039
+Holders	1926,1426,362,3654,3039,710
 Holders of Certificates of Registration	8831
 Holding	226,1913,819,3522,123,1640,880,1591
 Holding Account	10313
@@ -1035,7 +1050,7 @@ Homes	3898,5119,942,631
 Homes SLBC Staff Accused of Assaulting Open	8271
 Homework	9120
 Hommage	8718,79
-Homme	308,429,494,86,1,672,51,1,290,45,415,16,237,74,1199,1,1526,22,996,41,1074,258,1,165,348,1490,125,22,439,15,6,51
+Homme	308,429,494,86,1,672,51,1,290,45,415,16,237,74,1199,1,1526,22,996,41,1074,258,1,165,348,1490,125,22,439,15,6,51,68
 Homme Femme	737
 Homme Femme Homme Femme Activités	10875
 Homme Femme S2Q05	6959
@@ -1045,12 +1060,13 @@ Homme des Nations Un	10826
 Homme des Nations Unies	10826
 Homme. Bien	10826
 Homme. Elle	429,10397
-Hommes	3670,7177,27,49
-Hommes Femmes	737
+Homme. L’ensemble	11067
+Hommes	3670,7177,27,49,52
+Hommes Femmes	737,10238
 Homogenized	6921
 Homologación	4209
 Homologar	13
-Homologation	1205,596
+Homologation	1205,596,9174
 Homoíne	1782
 Hon AC Nel	10453
 Hon Abiante. The Federal Government	8087
@@ -1282,7 +1298,7 @@ Hon. Weituey Luony Babuoth	9585
 Hon. William Kabogo	6946,1551
 Hon. William Kabogo Gitau	3890
 Honda Fit	3111
-Honduras	10785,61
+Honduras	10785,61,159
 Honduras Cambodia Iraq Chad Lao P.D.R	10764
 Honduras Global Cybersecurity Index	10764
 Honduras MOLINA CASTRO	6613
@@ -1406,6 +1422,7 @@ Hoop Telecoms Ltd	3862
 Hoover Institution	5242
 Hope Behind Bars Africa	6770
 Hope Institute	4941
+Hope of Trust	11028
 Hopeday Lupumpaula	9137
 Hopefully	306,461,1920,1930,3160
 Hopes	999
@@ -1454,7 +1471,7 @@ Hormuud Telecom and Somtel	3637
 Hormuud University	10183
 Hormuud’s EVC Plus	3463,4434
 Horn Hussein Sheikh-Ali Far-right	3463
-Horn of Africa	469,337,1008,1673,34,1,105,928,251,1,863,296,338,924,566,2007,917
+Horn of Africa	469,337,1008,1673,34,1,105,928,251,1,863,296,338,924,566,2007,917,402
 Horn of Africa Deutsche Gesellschaft	886
 Horn of Africa Digital Market Integration	806
 Horn of Africa Initiative	469,337
@@ -1562,7 +1579,7 @@ Hostage State	5141
 Hosted	345,2955,1228,716,269,786,133,1260,101,91,66,93,1081,180,445,32,105,310,479
 HostelMate	7968
 Hostile Rhetoric Against	3245
-Hosting	26,2,1526,223,897,53,311,849,641,714,291,58,841,1262,1190,509,103,299,362,53,182
+Hosting	26,2,1526,223,897,53,311,849,641,714,291,58,841,1262,1190,509,103,299,362,53,182,649
 Hosting ACIX	6238
 Hosting African	3436
 Hosting CPL-26	7884
@@ -1603,7 +1620,7 @@ Hotel Verde	10392
 Hotel de Bata	4209
 Hotelería	4209
 Hotellerie	2342
-Hotels	6215
+Hotels	6215,4761
 Hotels and Lodges	8677
 Hotels.ng	5570
 Hoth Mai	3583
@@ -1629,7 +1646,7 @@ Hour Economy Secretariat	10630
 Hours	9442
 Hours Days	1938
 Hours South Africa Privacy FW Fairbridges	6632
-House	582,568,60,11,1,61,503,1,1,5,3,1,13,932,125,334,1,2,6,400,199,842,159,188,452,746,120,272,95,255,30,114,1,2,5,1,465,1,138,87,60,172,727,155,200,25,2,177,99,340,574,359,29
+House	582,568,60,11,1,61,503,1,1,5,3,1,13,932,125,334,1,2,6,400,199,842,159,188,452,746,120,272,95,255,30,114,1,2,5,1,465,1,138,87,60,172,727,155,200,25,2,177,99,340,574,359,29,414
 House Approves Close	1798
 House Business Committee	10313
 House Chairperson The Deputy Minister	1810
@@ -1683,16 +1700,19 @@ House. Sometimes	10313
 House. Unfortunately	10313
 Househelp	582
 Househelp D	582
-Household	236,182,164,388,2189,410,475,3477,1888,266,1088
+Household	236,182,164,388,2189,410,475,3477,1888,266,1088,201,21
 Household Access	3641
 Household Budget Survey	9252
+Household Consumption	11017
 Household Data	3861
 Household Dietary	970
 Household Expenditure	2775
+Household Impact	10964
 Household Income	10841
 Household Income and Expenditure Survey	31
 Household Living Conditions and Poverty	10841
 Household Master Sample Frame PAGE	2775
+Household PIU	10964
 Household Resilience Building Through Safety Nets	10763
 Household Response Rate	2775
 Household Size and Average Area Per Person	2775
@@ -1701,7 +1721,7 @@ Household Survey	582
 Household Surveys	970,2671
 Household Tariff	9409
 Household Uplifting Programme-Conditional Cash Transfers	10093
-Households	582,5532,682,2535,216,546,670,5,25,48,11
+Households	582,5532,682,2535,216,546,670,5,25,48,11,111,1,21
 Households Figure	582
 Households Passed	1818
 Households and Use	7521
@@ -1726,12 +1746,14 @@ Housing and Urban Affairs Shri Hardeep S	2667
 Housing and Urban Development	1391,387,210,604,454,2201,923,997,1790,1356
 Housing and Urban Planning	10937
 Housing and Water Resources	1228,6467
+Housing. Criminal	10979
 Houssam Said Ali	5669
 Houston	8702
 Houston Wireless Ltd	3862
 Houthi	1741
 Houthi-Sunk Ship’s Anchor Likely Severed Sea	2677
 Houthis	1741,601,377
+Houts	10985
 Houver	3519
 Houwiya	10692
 Houwiyati	3333
@@ -1946,6 +1968,7 @@ M-KOPA Holdings	120,922
 M-KOPA Holdings Limited	1042
 M-KOPA Holdings Ltd	263,828
 M. Hooghe	7886
+M. Horowitz	11028
 M. Jean Robert Hountomey	3341
 MB30 HostFactory	1232
 MBOCK Honorables Députés	2695
@@ -1997,7 +2020,7 @@ Members of Liberia's House of Representatives	3645
 Members of USAC. H.E. Hon. James. E	6946
 Merger for U.S. Holders	7198
 Merit HoldCo	610,75
-Mestil Hotel	3050
+Mestil Hotel	3050,8025
 Mestile Hotel	3050
 Methodology For the Zambia Refugees and Host Communities	1778
 Metzy Residence Hotel	4359
@@ -2007,6 +2030,8 @@ Million Homes	3740
 Million Households Connect	5112
 Million Prize Pool Tunisia Hosts COMESA	5322
 Minawao Hors	10841
+Minimum Fiscal Transparency Requirements House Report	11005
+Minister Awaté Hodabalo. Professor Wella Mazamesso	11104
 Minister Hon. Joyce Nabbosa Ssebugwawo. Presided	9781
 Minister Honorato Evita Oma	4303,1265
 Minister Honorato Evita Oma. Sessions	2585
@@ -2038,7 +2063,7 @@ Ministers Hon. Dr. Chris Baryomunsi and Hon	9781
 Ministries of Home Affairs and Internal Security	1778,210
 Ministry of Agriculture MoHAIS Ministry of Home Affairs	1867
 Ministry of Finance's First Undersecretary Hon. Garang	3736
-Ministry of Home Affairs	1,1658,174,928,163,71,282,1257,587,576,1023,42,58,289,155,641,209,136,3,1,1,1411,794,191,117
+Ministry of Home Affairs	1,1658,174,928,163,71,282,1257,587,576,1023,42,58,289,155,641,209,136,3,1,1,1411,794,191,117,195,1
 Ministry of Home Affairs Communications Officer	6820
 Ministry of Home Affairs Internal Security	1988
 Ministry of Home Affairs and Cultural Heritage	3274
@@ -2050,7 +2075,7 @@ Ministry of Home Affairs and NIDA	741
 Ministry of Home Affairs. Citizens	10017
 Ministry of Home Affairs. Despite	1816
 Ministry of Housing	2592
-Ministry of Housing and Urban Development	6273
+Ministry of Housing and Urban Development	6273,4691
 Ministry of Labour and Home Affairs	1662,977,2611,384,1,898
 Ministry of Labour and Home Affairs. Even Parliament	2736
 Ministry of Lands and Housing	2104
@@ -2171,6 +2196,7 @@ Non Profit Institutions Serving Households	2775
 Non-Profit Institutions Serving Householuds	2775
 Non-profit Organisations Belgium Holocene Ventures	4972
 Norrsken East Africa Kigali House. Stakeholders	5625
+North Holland. New Media	11050
 North-Western Province. The Zambia Refugees and Host	1778
 Nuevo Hospital de Mongomo	4209
 Nuevos Hospitales	4209
@@ -2187,6 +2213,7 @@ Oldest Psychiatric Hospital Brings Website Back	7176
 Ole Sereni Hotel	4513
 Olkaria Prime Cabinet Secretary Hon. Musalia	1245
 Onandjokwe State Hospital	3439,1377,686,62,1198,3,361
+Once Household Impact	10964
 Open-ended Ad Hoc Intergovernmental Committee of Experts	2117
 OpenAI Horizon	4781
 Operating Hours Prioritization	8999
@@ -2206,6 +2233,7 @@ PAGF-SI MOHAMED KAWAMI HOUSSEINI BEN MOHAMED	3715
 PARIS HOLDING PERSPECTIVES	2342
 PERMANENT HOME	9696
 PETROCI HOLDING	2342
+PIU Households	10964
 POLICING OVERSIGHT AUTHORITY Hon. Gabriel Tongoyo	10313
 PRACTICES BY MOGO AUTO LIMITED Hon	10313
 PRAYERS QUORUM Hon. Speaker	10313
@@ -2237,10 +2265,12 @@ Pitman House	1131
 Plan Horizonte	1701
 Plan National du Numérique Horizon	3747
 Planting Hope	8919
+Police Hospital	11062
 Policy. Hon. Temporary Speaker	10313
 Population and Housing	10765,10
 Population and Housing Census	940,36,827,1121,4444,637,243,6,159,1027
 Population and Housing Census. About	9111
+Poste Hommes Femmes	10975
 Pour Merveille Hountondji	3591
 Pour le Dr Luciano HOUNKPONOU	4797
 Presenting the Ministry of Home Affairs	10460
@@ -2259,6 +2289,7 @@ Prime Minister Abdi Farah Shirdoon HOL	2743
 Privacy Policy Home The NCA About	9109
 Private Network Licence Holders	958
 Procedure and House Rules Committee	10313
+Product Green House Gases GPN Deutsche	10964
 Professor Hoexter	2307
 Professor Myung-Ho Park of Hongik University	9729
 Profile CERT-GH Home RFC	775
@@ -2294,6 +2325,7 @@ R A- Home	582
 R1. The Minister of Home Affairs	3225
 RD PARK HOSPITAL LIMITED Data Controller	7167
 REFERRAL HOSPITAL Data Controller INST-3686438BC5D MOMBASA	7167
+RELIABLY GET HOLD	10977
 REPUBLIQUE ISLAMIQUE DE MAURITANIE Honneur	232
 REQUESTS FOR STATEMENTS Hon. Speaker	10313
 Radisson Blu Hotel	3549,3712
@@ -2304,6 +2336,7 @@ Raleigh Fitkin Memorial Hospital	7030
 Ramatou Mahamat Houtouin	5748,3533
 Ramatou Mahamat Houtouin. Elle	9281
 Ramzi Houidi	8565
+Random House. Birhane	11050
 Recovery of IDPs and Host Communities	10864
 Reference Hospitals	10775
 References Republic of South Africa. Department of Home	6512
@@ -2320,6 +2353,7 @@ Reimagining Horizons of Dignity	2110
 Renaissance Cairo Mirage City Hotel	8755
 Renewed Hope	5499,4658
 Renewed Hope Agenda	2394,142,2189,1651,1275,233,1089
+Renewed Hope Agenda Deji Elumoye	11126
 Renewed Hope Agenda of President Bola Ahmed	8980,1083
 Renewed Hope Agenda of President Bola Tinubu	10156
 Renewed Hope Cooperative Reform	9876
@@ -2420,6 +2454,7 @@ Sierra Leoneans. Hosted	9966
 Silicon House	3386
 Silver Springs Hotel	4922
 Silverbacks Holdings	4972,4172
+Sima Hong	11045
 Singapore and Hong Kong	5872
 Singapore-based Trident Digital Tech Holdings	2244,4337,66
 Sipepa Rural Hospital	3385
@@ -2428,6 +2463,7 @@ Skylight Hotel. Regional	7887
 Skyz Hotel	6786
 Small Business House	10841
 Smart Education Project Home China-Rwanda Economy	791
+Smartmatic International Holding BV-	11115
 Social Health Insurance Fund and Affordable Housing	5684
 Social Security and Housing Finance Corporation	3066
 Socioeconomic Inequality Mitigation Decent Housing Food	10837
@@ -2466,7 +2502,7 @@ Stanley House EWZL Owned Guest N	4896
 Starlink Holdings Netherlands	2547
 State Department for Housing	2428
 State Department for Housing Accommodation and Food Services	2775
-State House	1838,1033,159,223,922,578,347,117,944,36,2,8,20,21,14,326,283,129,481,165,1,4,208,36,322,166,226,371,67,315,38,60,236,550
+State House	1838,1033,159,223,922,578,347,117,944,36,2,8,20,21,14,326,283,129,481,165,1,4,208,36,322,166,226,371,67,315,38,60,236,550,880
 State House Cabinet	5318
 State House Construction	5658
 State House Entebbe	6248,15
@@ -2566,7 +2602,9 @@ USAC Chairperson Hon. James Ongwae	6946
 UWA Urge Hotels	6077
 Uganda National Household Survey	9024
 Uganda National Household Survey The Uganda	9024
+Under the Renewed Hope Agenda	11126
 Unitas Hospital and Another	2307
+United Hotel	10975
 United Kingdom's Home Office	4052
 United Nations House	9117,638
 Universal Telecom's Bayan Jamali and Holiness Mosarwa	5295
@@ -2593,7 +2631,9 @@ Virtual Telemedicine Hospital	7312
 Vision Homegrown Innovation	4528
 Vodacom International Holdings Pty Ltd	1135
 Vodafamily Ethiopia Holding	733
+Volta Serene Hotel	11038
 Vulnerable Households	9772
+Vulnerables25 Ministry of Programme National Housing	10985
 WIOCC Holding Company Ltd	892
 WISeKey International Holding	1884
 WORK FROM HOME Figure	1940
@@ -2604,7 +2644,7 @@ Wang Hongbo	4041
 Wanjala. Hon. Raphael Wanjala	10313
 Waseem and Hovy	7790
 Washington HOL No US	3463
-Wh Kilowatt Hour ASN Autonomous System	3184,1,1340
+Wh Kilowatt Hour ASN Autonomous System	3184,1,1340,6470
 Wh Kilowatt Hour LLM Large Language	10781
 Whistleblowing Homa Bay County	6946
 White House	4447,716,53,41,183,791,978,1301,517,1403,15,82

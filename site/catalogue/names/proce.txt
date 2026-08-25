@@ -407,6 +407,7 @@ Advocacy and Development Initiative Kenya Data Processor	7167
 Advocates for Social Change Kenya Data Processor	7167
 Afatrading Company Limited Data Processor INST-1678087797A	7167
 Affordable Housing Board Data Processor INST-2364763E1C0	7167
+Africa AMC Enterprise Creation Procedure Centre	10980
 Africa Inland Church Data Processor INST-488545879F0	7167
 African Leadership Centre Trust Data Processor	7167
 African Plant Nutrition Institute Data Processor	7167
@@ -1089,6 +1090,7 @@ CYNTUM LIMITED Data Processor INST-101210CFB41 NAIROBI	7167
 CYPOWER SECURE LIMITED Data Processor INST-481973DCF5E	7167
 CYTONN ASSET MANAGERS LIMITED Data Processor	7167
 Call for Research Proposal Appeal Process	1554
+Cameroonian Criminal Procedure Code	10979
 Capital Strategies Kenya Limited Data Processor	7167
 Capture and Validate KYC Processes	10819
 CarePay Devco Kenya Ltd Data Processor	7167
@@ -1185,6 +1187,7 @@ Credit Bank Plc Data Processor INST-5006303240E	7167
 Credops Kenya Limited Data Processor INST-458599E2EB7	7167
 Crescent Tech Ltd Data Processor INST-849295FCFA0	7167
 Criminal Procedure Act	2307,1407,509,860
+Criminal Procedure Code	10979
 Criminal Procedure Law	9064
 Criminal Procedure and Evidence Act	972,7892
 Cross Border Processing	10157
@@ -1644,6 +1647,7 @@ ELDO COMMUNICATIONS LIMITED Data Processor INST-3545142FF11	7167
 ELDO EYE CENTER LTD Data Processor	7167
 ELDOCATE CO. LIMITED Data Processor INST-3950233525E	7167
 ELDORET HOSPITAL LIMITED Data Processor INST-478746E6531	7167
+ENoLL. Proceedings	11006
 EUROPE SERVICES SRO Data Processor INST-643505F8D1B	7167
 Eagle Travel Service Data Processor INST-10301319A58	7167
 East Africa Data Processor INST-190042FFF42 NAIROBI	7167
@@ -1671,6 +1675,7 @@ Elgeyo Marakwet Data Processor INST-743998EB731 ELGEYO	7167
 Elgeyo Marakwet Data Processor INST-816005CB495 ELGEYO	7167
 End-to-End Digital Processes	3088
 Enforcement Process Regulations	3945
+Enterprise Creation Procedure Centre	10980
 Environmental and Social Risk Management Procedures	1988
 Environmental and Social Screening Process and Checklists	1988
 Epidemiological Data Processing Center	10775
@@ -1689,6 +1694,7 @@ FULFILLMENT SERVICES LIMITED Data Processor INST-24648675F6B	7167
 Federalism Requires Process	3615
 Finance and Tax Compliance Processes	8670
 Finances. Processus	10693
+Fiscal Transparency Review Process and Criteria	11005
 Food Processing Industry Investigation of Water Tube	1154
 Forfeiture of Proceeds of Crimes Act	2726,1
 G License Following Competitive Tender Process	3221
@@ -1772,7 +1778,7 @@ JAMES ASSOCIATES ADVOCATES LLP Data Processor	7167
 JAMLICK MICHENI MUTHUURI Data Processor	7167
 JOSPHAT KYALO SAMMY Data Processor	7167
 Journal of Process Management and New Technologies	9237
-Judicial Processes	10759,76,2,1
+Judicial Processes	10759,76,2,1,130
 Judicial System Judicial Processes Equality	10759,78
 KENNETH ADVOCATES LLP Data Processor INST-983602FF56B	7167
 KENYA Data Processor INST-14995135BCE NAIROBI Kenya	7167
@@ -1787,7 +1793,7 @@ Kakamega County Data Processor INST-432425862D6 BUNGOMA	7167
 Kenya Limited Data Processor INST-642544415AD NAIROBI	7167
 Kimberley Process	2889
 Kisumu County Data Processor INST-175606322DE KISUMU	7167
-LABOUR ENVIRONMENT Judicial Processes	10835,3
+LABOUR ENVIRONMENT Judicial Processes	10835,3,130
 LIMITED Data Processor INST-10323276806 NAIROBI Kenya	7167
 LIMITED Data Processor INST-10684197F45 NAIROBI Kenya	7167
 LIMITED Data Processor INST-110895ADA40 MERU Kenya	7167
@@ -1843,7 +1849,7 @@ LTD Data Processor INST-584549FAC38 NAIROBI Kenya	7167
 LTD Data Processor INST-6141722351B NAKURU Kenya	7167
 LTD Data Processor INST-944724CBB35 NANDI Kenya	7167
 Labor Management Procedure	3456
-Labor Management Procedures	1867,121,1616,7225
+Labor Management Procedures	1867,121,1616,7225,135
 Labour Management Procedures	1988
 Labour Management Procedures MoA Ministry of Agriculture	1988
 Languages Processing	4126
@@ -1864,6 +1870,7 @@ Long ID Processing Times	4439
 Ltd Data Processor INST-801719B7B26 NAIROBI South	7167
 Ltd Data Processor INST-9516495F757 NAIROBI South	7167
 M CONSULT COMPANY LIMITED Data Processor	7167
+M&E Lower-Middle-Income Country Labor Management Procedures	10964
 M&E Process	4528
 MANUEL DES PROCEDURES DE COLLECTE ET	10876
 MARAGUA Data Processor INST-9572901A64E MURANGA Kenya	7167
@@ -1916,7 +1923,10 @@ Operating Procedures	1988,1803
 Organ Behav Hum Decis Process. Dec	10919
 Organizational Behavior and Human Decision Processes	5349
 PARLIAMENTARY PROCEDURE	5872
+PART IV PROHIBITIONS ON THE PROCESSING	10974
 PART SEVEN PROCEDURES FOR TRANSFER	762
+PERSONAL DATA PROCESSING PRINCIPLES SECTION	10974
+PERSONAL DATA SEE VTE PROCESSING	10974
 PLACE LTD Data Processor INST-9941250204F	7167
 PLC Data Processor INST-3357766893A NAIROBI Kenya	7167
 POSSIBLE LIMITED Data Processor INST-8976118FE4F NAIROBI	7167
@@ -1940,8 +1950,9 @@ PROCESS	762
 PROCESSAMENTO DE DADOS Durante	10777
 PROCESSED Give	2709
 PROCESSES Regulation	961
+PROCESSING OF PERSONAL DATA CHAPTER	10974
 PROCESSING SPECIAL CATEGORIES OF PERSONAL DATA	1333
-PROCESSOR	2668,41
+PROCESSOR	2668,41,8265
 PROCESSORS	1333,141,2387
 PROCESSORS Safe	1333
 PROCESSUS	10876
@@ -1980,15 +1991,16 @@ Procedimentos de Controlo	4274
 Procedimentos de Estética	7882
 Procedimiento	163
 Procedimientos	1701
-Procedural	7221,1,744,1647,3,446
+Procedural	7221,1,744,1647,3,446,944
 Procedural Controls Security	21
 Procedural Directives	3861
 Procedural Duties	3861
+Procedural Fairness	11006
 Procedural Law	26
 Procedural Law Assistance	26
 Procedural Legitimacy	10062
 Procedural Safeguards	2307,1554
-Procedure	11,1977,178,141,118,1289
+Procedure	11,1977,178,141,118,1289,7265
 Procedure Make	9109
 Procedure Periodically	1988
 Procedure and House Rules Committee	10313
@@ -2007,7 +2019,7 @@ Procedures for Voting	7198
 Procedência	10777
 Proceed	9960,150
 Proceeding	6950
-Proceedings	3,223,359,658,850,3,1618,718,7,590,320,1572,27,811,371,330,144,2,260,262,1,108,502,1041
+Proceedings	3,223,359,658,850,3,1618,718,7,590,320,1572,27,811,371,330,144,2,260,262,1,108,502,1041,226,44
 Proceedings of Directors Rationale This Article	8866
 Proceedings of Khatri	9237
 Proceedings of Machine Learning Research	8301
@@ -2018,7 +2030,7 @@ Procenat	10780
 Proceso de Enseñanza-Aprendizaje	4209
 Proceso de Recopilación de Datos	8378
 Procesos	4209
-Process	1161,827,127,4,870,725,399,415,105,716,351,73,116,534,1595,265,93,230,517,114,1528,10,9,30,5
+Process	1161,827,127,4,870,725,399,415,105,716,351,73,116,534,1595,265,93,230,517,114,1528,10,9,30,5,187
 Process A Well	9123
 Process Autonomy	8283
 Process Autonomy. Stage	8283
@@ -2035,6 +2047,7 @@ Process National Rwanda Is Counting Everything	5889
 Process Outcomes	7548
 Process Refer for Approval Page	9124
 Process Service Order Connection Uses	9124
+Process Theory View	11006
 Process Visa Application	9124
 Process and Policy	2093,3256,351
 Process and Result Verification for Transparency	9986
@@ -2051,12 +2064,12 @@ Processamento de Dados	10754,23
 Processamento de Linguagem Natural	2816
 Processar	167,2649
 Processed	3931
-Processes	1824,2037,667,1137,35,1521,1,3597
+Processes	1824,2037,667,1137,35,1521,1,3597,145
 Processes of Technological Innovation. Lexington	5349
 Processes6	8606
 Processes9	8606
 Processin	972
-Processing	3,13,9,2,284,451,527,44,141,119,37,107,50,90,14,218,666,114,119,196,100,310,247,1121,131,86,45,119,316,744,89,573,246,597,508,170,1551,16,548,120
+Processing	3,13,9,2,284,451,527,44,141,119,37,107,50,90,14,218,666,114,119,196,100,310,247,1121,131,86,45,119,316,744,89,573,246,597,508,170,1551,16,548,120,139
 Processing History	3861
 Processing Manually	10814
 Processing Time	10709
@@ -2245,19 +2258,21 @@ Processor INST-9866599AA0F NAIROBI Kenya	7167
 Processor of Major Importance	5137
 Processor of Major Importance. The NDPC	3480
 Processors	1652,1221,988,1177
+Processors and FMCG	11127
 Processors of Major Importance	8078,40,60
 Processos	2228,8525
 Processos. Relativamente	10753
 Processual Penal	10747
-Processus	1187,2194,6025,74,1356,40
+Processus	1187,2194,6025,74,1356,40,89,10
 Procesus	6977
 Procurement Process	9274
 Products and Processes	2595
 Project Cycle and E&S Management Procedures	1988
 Project Processing No	9265
 Project Stage E&S E&S Management Procedures	1988
+Project Strengthening Digital Processes	10984
 Proyecto de Digitalización de Procedimientos	4209
-Public Procurement Procedures	10759,76,2,1
+Public Procurement Procedures	10759,76,2,1,130
 Public Sector Public Procurement Procedures Absence	10759,78
 RAMESH MEGHI SHAH Data Processor	7167
 RAPID-CI FM Procedures Manual	3604
@@ -2278,7 +2293,8 @@ Reporting and Planning Processes	3430
 Reporting. Central Bank of Procedures Liberia	1777
 Research Grant Appeal Process and Procedures	1554
 Results Report KP Kimberley Process MMG	2889
-Review Process	958
+Review Process	958,10047
+Review Process Conclusions The Department	11005
 Review of Electoral Processes	5641
 Revocation Procedure	5665
 Robotic Process Automation	7334,1903

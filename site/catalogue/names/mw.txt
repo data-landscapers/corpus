@@ -27,13 +27,14 @@ CPF Mwamba Trust Fund Data Controller	7167
 CPF Mwamba Trust Fund Data Processor	7167
 CRS Sec Paul Mwangemi	5299
 CRS Secretary Paul Mwangemi	5299
+Capacité Hydro MW	10975
 Caroline Mwikali	7990
 Carolyne Mwikali	9547
 Carolyne Mwikali Trust	9547
 Citizen Justice Chacha Mwita	6796
 Clever Mwale	8279
 Commissioner for Refugee Affairs Mercy Mwasaru	4631
-Content Delivery Network MW Megawatts Colo	3184,1,1340
+Content Delivery Network MW Megawatts Colo	3184,1,1340,6470
 Copperbelt Permanent Secretary Lawrence Mwanza	5984
 Cybercrime Act Government Spokesperson Mwaura	6787
 DANSON MWANGI MUGURO Data Controller INST-23824677D56	7167
@@ -80,6 +81,7 @@ Hubert Mwesigwa	6019
 Human Resource and Administration Nalituba Mwale	10510
 Infrastructure Events MWC Barcelona	9899
 Inside Politics Linda Mwananchi	9940
+Installée Ther Grid MW	10975
 Irungu Mwangi Data Controller INST-516004EF48C	7167
 Ivoire Ghana Angola Tanzania MW	10781
 Ivoire Ghana Senegal Rwanda MW	3184
@@ -118,6 +120,7 @@ MATUMIZI YA FEDHA KWA MWAKA	2868
 MATUMIZI YA FEDHA KWA MWAKA WA	6019
 MD-10227 MWK-DDM-packshot Bundle-	753
 MDG MWI MUS MOZ NER NGA	4912
+MINFI Ministère des Finances MW MégaWatt PfoR	10975
 MLI MWI TGO GNBLBR DJI GAB	6593
 MNO Mobile Network Operator MW Megawatt	718
 MW ACC-1 Accra	10861
@@ -134,6 +137,8 @@ MW Cape Town	1404
 MW Chisamba	5247
 MW Chisamba Solar Plant	5247
 MW Chisamba and Kabwe	5247
+MW Concession	10975
+MW Critical	10995
 MW DC	1227
 MW DC Campus	1639
 MW Dakar Dakar Pipeline	10861
@@ -151,20 +156,29 @@ MW Kabwe Solar Project	5247
 MW Karuma Hydro Power Plant	3561
 MW Kasi Cloud Lagos	10861
 MW LAG-1 Lagos	10861
+MW LFO	10975
+MW LFO de Guider	10975
+MW LFO de Maroua	10975
 MW LOS	10861
 MW LOS1	4191
+MW Licence	10975
 MW Live	10781
 MW Mansa	5247
+MW NA NA Live DC	10995
 MW Nairobi	9016
+MW Nombre	10975
 MW Noor Chad Solar Plant	4934
 MW Number	789
 MW Nxtra	8045
 MW Oromia	4591
 MW PV	10180
 MW Potential	10781
+MW Production	10975
+MW Puissance	10975
 MW Rack Centre LG3 Lagos	10861
 MW Schweppes Zimbabwe	6492
 MW Siavonga	5247
+MW Suite	10975
 MW TBD Abidjan	10861
 MW Tier III	5200
 MW Tier-III	4191,2875
@@ -173,6 +187,8 @@ MW Undersea Power Link	965,3924,206
 MW Union	789
 MW Willowvale	408
 MW Zimbabwe	3185
+MW de Kousseri	10975
+MW de Ngaoundéré	10975
 MW for RDH	1956
 MW of Digital Resilience Liquid Zimbabwe	6909
 MW of Renewable Energy and Next-Generation AI Compute	3049
@@ -191,6 +207,8 @@ MW. Founded	2994
 MW. Further	3937
 MW. Generally	718
 MW. In the Gas and Downstream Petroleum	718
+MW. LA TRANSPARENCE POUR UN SECTEUR	10975
+MW. La Centrale de Lagdo	10975
 MW. MTN Group CEO Ralph Mupita	5569
 MW. NBO2	594
 MW. Phase	3186
@@ -198,6 +216,7 @@ MW. RMB	1404
 MW. SAME	5627
 MW. Sources	10861
 MW. The MW	1244
+MW. Toutefois	10975
 MW. Version	1005
 MW2063	3108
 MW30 MW	4525
@@ -207,7 +226,7 @@ MWC Confirmed Mupita	5752
 MWC Kigali	3796,179,650,1968,121,1750,1435
 MWC Shanghai	9820
 MWC Takeaways	5752
-MWC and M360	6593,1232,3031
+MWC and M360	6593,1232,3031,147,1,13
 MWC. Previously	5752
 MWC25 Kigali. Visit Huawei Booth	3797
 MWEA Data Processor INST-59724551F3D EMBU Kenya	7167
@@ -218,6 +237,7 @@ MWUm1SvRXJka3oDK8bQBJBWCzg uughu	1580
 MWa.gMwaagwa Air CAdirreCdre	1154
 MWh BESS	10857
 MWh Megawatt-hour NCSA National Cyber Security	718
+MWh Nombre	10975
 MWh. Domestic	718
 MWp Danzi	10857
 MWp Danzi Solar Power Plant	10857
@@ -346,6 +366,7 @@ Peter Mwangi	9311
 Peter Mwasalyanda	6577
 Philip Muturi Mwawingwa Gituri Clinic	7167
 Philomena Mwilu and Justices Lenaola	9645
+Production O MW	10975
 Professor Eddie Mwenje of Bindura University of Science	520
 Promise Mwakale	10732
 Prossy Mwanjuzi Yesterday	8352
@@ -359,6 +380,7 @@ Simon Mwansa Kapwepwe International Airport	5247
 TEKNOLOJIA YA HABARI KWA MWAKA WA	6019
 Tanzania President Mwinyi Reviews TTCL’s Digital	10746
 Techweez and Mwananchi	1733
+Ther Isolee MW	10975
 Tindi Mwale	5537
 Toleo la Mwaka	6019
 Tony Mwenda Kamninga	9349

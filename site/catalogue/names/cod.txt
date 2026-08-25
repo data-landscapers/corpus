@@ -36,6 +36,7 @@ CODAN SLR5300 Mobile CPE-COD-935-ARCEP- Conforme TQJ350M	998
 CODATA	5246
 CODAZIM	6792
 CODE BREEZE LTD Data Processor INST-9730244A10F	7167
+CODE DU NUMÉRIQUE	11098
 CODE NOMENCLATURE	3164,1,1,1,1
 CODE OF CONDUCT COUNTERING DISINFORMATION	6907
 CODEBU	6122
@@ -54,6 +55,8 @@ CODM EBITDA. CODM EBITDA	10793
 CODM. The Group	10793
 CODO INVESTMENTS LIMITED Data Controller INST-4709614A25D	7167
 CONFORME AU CODE DES MARCHÉS PUBLICS	10876
+Cameroon Code Indicator	10969
+Cameroonian Criminal Procedure Code	10979
 Capital Markets Authority Code of Corporate Governance	7204
 Card Production Centers CPF Code of Persons	10812
 Chad's Labor Code	10841
@@ -84,7 +87,8 @@ Code Codification	7966
 Code Detail Record	5173
 Code Division Multiple Access WHO World	718
 Code For Africa	6055
-Code Général des Impôts	4420,147,1889,4256
+Code Général des Collectivités Territoriales Décentralisées	10981
+Code Général des Impôts	4420,147,1889,4256,266
 Code Général des Impôts. La Taxe de Soutien	3045
 Code ICT	236
 Code Minier	2342
@@ -103,6 +107,7 @@ Code Systems	6666
 Code Systems Terminology	6666
 Code Yo Maali Yo	9223
 Code de Douanes	4567
+Code de Transparence	10981
 Code des Collectivités	9287,55
 Code des Hydrocarbures	3191
 Code des Hydrocarbures. Dans	3191
@@ -121,7 +126,7 @@ Code for AfricaFollow6	6055
 Code for Africa’s DataLab	6055
 Code for South Africa	961
 Code of Code of Conduct for PIU SPMU	1988
-Code of Conduct	27,945,1016,1468,57,3415,509,766,1569,681
+Code of Conduct	27,945,1016,1468,57,3415,509,766,1569,681,597
 Code of Conduct for Workers	1988
 Code of Corporate Governance for Issuers of Securities	7204
 Code of Ethics for Print	10735
@@ -173,6 +178,7 @@ Coding Camps	2989
 Coding Camps for Girls	2989
 Coding Standards and Conventions	5665
 Coding Training for All	3397
+Coding and Encoding Rights	11028
 Coding and Labelling	1261
 Coding and Robotics	6832
 Coding4Girls	2989,1664
@@ -186,6 +192,7 @@ Contenu Code des Marchés Publics du Bénin Référence	10876
 Criminal Code	27,931,14
 Criminal Law Code	972,8279
 Criminal Law Codification and Reform Amendment Act	6951
+Criminal Procedure Code	10979
 D.R. Le QR Code	8357
 DGI Codes A1.1.2.2 A1.1.2.3 A1.1.2.4 A1.1.2.6	10858
 DGI Codes Action	10858
@@ -207,11 +214,13 @@ Djibouti Digital Code	3153,114,1316
 Djibouti Enacts Comprehensive Digital Code	3193
 Draft Code of Practice for Lifts Inside Wind	1009
 Draft Electoral Code of Conduct	6907
+Dématérialisation En Code	10975
 ELECTORAL CODE OF CONDUCT ON COUNTERING	6907
+EU Code of Practice	11050
 EU's AI Code of Practice	8348
 Electoral Code	6122
 Electoral Code Art	2859
-Electoral Code of Conduct	6907
+Electoral Code of Conduct	6907,4169
 Electronic Communications Code	2296,3383
 Electronic Communications Code. Any	5696
 Electronic Communications Code. Thiam	2301
@@ -231,7 +240,10 @@ Family Code	10765,10,39
 Feldspar of HS Code	6921
 Finalize TORs for Coding Camp for Girls Finalize	2989
 Forestry Code	10841
+GPAI Code of Practice	11050
+GPAI Code of Practice and High-Level Expert Group	11050
 General Code of Conduct	8354
+General-Purpose AI Code of Practice	11050
 General-Purpose AI Code of Practice Template	8529
 Ghana ISIC Codes Activity ICT	236
 Ghana’s One Million Coders Programme	5298
@@ -267,6 +279,7 @@ International Building Code Data Center Design	9123
 International Data Policy Committee CODATA	5246
 Internet Code of Practice	3945,638
 Introduces Digital Code	3153
+JEL CODES D63	10985
 JEL Codes	10323
 KING CODE AND CORPORATE GOVERNANCE	4896
 Kenya Master Facility List Code	2709
@@ -277,6 +290,7 @@ LINKS TO SECTORAL DAC CODES	970
 Labor Code	10841
 Labour Code	10841
 Le Code	3267,5054,2553,1,1
+Le Code CIMA	10965
 Le Code Electoral	2808
 Life Safety and Fire Safety Codes	1988
 Lusaka. ZIP Code	9603,1
@@ -319,7 +333,7 @@ Number Portability Routing Codes	6946
 OpenAI. Codex	5967
 Ouest CGI Code Général des Impôts CMR	10712
 PIU Code	1988
-Penal Code	3583,1060,475,304,1548,303,2943,317
+Penal Code	3583,1060,475,304,1548,303,2943,317,446
 Penal Code Act	1535,3887
 Penal Code Chapter	1988
 Petroleum Code	10841
@@ -341,6 +355,7 @@ QR Codes	4208,156,879,28,1667,792,1447,1495
 QR Codes GIMAC	5243
 QR Codes. C'est	10515
 Qr Code	7269
+Rank Code Indicator	10969
 References the Digital Code	5094
 Regarding the Internet Code of Practice	3945
 Remote Code Execution	3214
@@ -358,6 +373,7 @@ Signaling Point Codes IT Information Technology	6946
 Signing of Codes of Conduct	2989
 South Sudan Penal Code Act	4042
 Statistical Code Card	10645
+Strengths Weaknesses Rank Code Indicator	10969
 Structural Building Code Compliance and Coordination Local	9123
 Such Codes	961
 Tagged COD	3117,2041,678
@@ -373,9 +389,12 @@ Translate Code	1988
 UK Age-Appropriate Design Code	6029
 UK's Code of Practice for Statistics	8283
 UK’s Age-Appropriate Design Code	7983
+Under the Union Customs Code	11036
+Union Customs Code	11036
 Urban Planning and Urban Land Code	10930
 VISITS RESULT CODES	582
 Wayleave Code	1988
+Whereas the GPAI Code of Practice	11050
 Zambia Bureau of Standard Codes	1988
 Zimbabwe District Code System Districts	6666
 Zimbabwe Health Facility Code Namespace Identifier	6666

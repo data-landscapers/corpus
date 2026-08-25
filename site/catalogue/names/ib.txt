@@ -56,6 +56,7 @@ Dec-2021 IBRD	10779
 Department of IT IBM Corp	9129
 Description Disbursement IBRD	969,315,9545
 Description Effectiveness IBRD	10829
+Description Type IBRD	10964
 Digital Economy Léon Juste Ibombo	2306,1478
 Digital Economy Minister Léon Juste Ibombo	3294
 Director-General Abdallah Ibrahim Yonis	4197
@@ -80,7 +81,7 @@ Finance Minister Dr. Gebreil Ibrahim	9009
 Funds IBRD IDA Grants Net	4653
 GBB CEO Prof. Ibrahim Adeyanju	8423
 Gabon's IBOGA	24
-Governance MO IBRAHIM FOUNDATION	10759,76,2,1
+Governance MO IBRAHIM FOUNDATION	10759,76,2,1,130
 Guhanga Ibishya	1214
 Guinea-Bissau PIM. Disbursement IBRD	1264
 Général de Brigade Ibroh Amadou Bacharou	7333
@@ -117,6 +118,7 @@ IBPSS	4678
 IBRAHIM BANGURA ENGAGES APC MEMBERS	4619
 IBRAHIM COULIBALY FAITS MARQUANTS REPARTITION	2342
 IBRAJUS	10750
+IBRD Loan and IDA Credits and Grants	10964
 IBRD Loans and IDA Credits and Grants	3604,2299,4865,61
 IBRD and IDA and Grants	6539
 IBRD-89830 Bank Approval Date	10779
@@ -140,7 +142,11 @@ Ibero América. OEI. Disponível	2816
 Ibero-América	2054
 Ibeto	4794
 Ibibio	8982
+Ibid Article	10979
+Ibid IJNRD2504292 International Journal Of Novel	10979
+Ibid Section	10979
 Ibile	3101
+IbinleId.iv0Cid8o9umBs	10965
 Ibis Cotonou Communication	10821
 Ibis Hôtels Cotonou SPACETEL BENIN	10821
 Ibis Hôtels Cotonou Traitement	10821
@@ -167,7 +173,7 @@ Ibrahim Bbossa	9781
 Ibrahim Binahmed Mohammed Alnaqbi	1639
 Ibrahim Dikko	5800
 Ibrahim Hassan	3429
-Ibrahim Index of African Governance	5879,4880,76,2,1
+Ibrahim Index of African Governance	5879,4880,76,2,1,130
 Ibrahim Kalil	3698
 Ibrahim Kalil Konaté	1266,1152,35,566,93,19,66,71,49,169,158,11,3,2,489,607,1393,126,145,4513
 Ibrahim Khalil KONATE	10914
@@ -254,8 +260,8 @@ Minister of Trade and Industry Hon. Alpha Ibrahim	8271
 Ministre IBARA	3326
 Ministry of Finance’s IBM	6273
 Mo Ibrahim	5302,1110,422
-Mo Ibrahim Foundation	6023,1863,2374,499,76,2,1
-Mo IbrahimFdn	10759,76,2,1
+Mo Ibrahim Foundation	6023,1863,2374,499,76,2,1,130
+Mo IbrahimFdn	10759,76,2,1,130
 Mohamed Ibrahim	9522
 Mohammed Ibrahim	8659,159
 Monday. Mohamed Ibrahim	10105
@@ -291,13 +297,15 @@ Professor Ibrahim Adeyanju	3557,2501
 Project Implementation IBRD	10768
 Rear Admiral Hamza Ibrahim	7371
 Representing Akwa Ibom State Governor	9115
-Resources Institute IBP International Budget Partnership	10835,3
+Resources Institute IBP International Budget Partnership	10835,3,130
 Ring With IBO Africa Title Fight	10151
 Royal Ibeh	9560
 Royal Ibeh Nigeria	8207
 Royal Ibeh Royal Ibeh	9997
 Royal Ibeh Starlink	6708,548
+STANBIC IBTC STERLING BANK TAJBANK UBA	11002
 Salesforce IBM China Mobile Fujitsu IBM	6477
+Saliu Ibrahim-Dasuki	11126
 Secretary of State for Telecommunications Ibango Manga Ma	6752
 Secteur Bancaire M. IBRAHIM MOHAMED Abdourazak	1961
 Selon Ibrahim UCIRCAN	4893
@@ -306,6 +314,7 @@ Senator Ibrahim Hadejia	8046
 Sheikh of Mombasa. Mr Ibrahim	8949
 Somcable CEO Mohammed Ibrahim Ahmed	4806
 Somcable CEO Mohammed Ibrahim Ahmed and Ethio	4806
+Son Excellence Monsieur Ibrahima Sory Sylla	11024
 Son Excellence le Capitaine Ibrahim TRAORE	3189,2637
 Son Excellence le Capitaine Ibrahim TRAORÉ	5304
 Stanbic IBTC	4771,3877,69
@@ -319,12 +328,14 @@ Tankari Ibrahim	2606
 Tariq Ibnou Ziyad Initiative	8891
 Thales. Minister Ibombo	3313
 Tool. IBMRD’s Journal of Management	8604
+Type IBRD	10964
 Université du Sine Saloum El Hadji Ibrahima	8269
 Usman Aliyu and Ibukun Emiola	8588
 Victoria Ibezim-Ohaeri	2549
 Voice Vox Limited Iberdrola Vulcable Igi	8530
 WB IBRD	223
 WHO. Ibid	3583
+Xiaoyu Wang. Fareeza Ibrahim	10977
 Yasmine Alemwa Ibango	4501,2096,379
 Yassine Ibar	10476
 Zeufack for IBRD	1770

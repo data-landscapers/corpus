@@ -7,6 +7,7 @@ AIC Krezee Data Controller INST-434105826EF BARINGO	7167
 Abdoulaye Barry	6284
 Adama Barrow	10062
 Adama-Dian Barry	6082
+Address Barriers	11017
 Adele Moukheibir Barzelay	4214
 Afghanistan Antigua and Barbuda Burundi Central African	10764
 Africa Looks Beyond the Signal Bar	8241
@@ -29,7 +30,7 @@ Amirkhani and Barshooi	8283
 Aménagements Barrages	3396
 Andrea Bartz	8494
 Andrew Barker Walkers	7198
-Antigua and Barbuda	10785
+Antigua and Barbuda	10785,219
 Arret Jatta President Adama Barrow	6941
 Augustus Barnnet Anderson	226
 BANK OF BARODA	7167
@@ -118,7 +119,7 @@ Baraza la Utawala	2868,3151
 Baraza la Utawala la ITU	6019
 Barazani Girls High School	10313
 Barbade	3658,2617,145,193,4030
-Barbados	10764,21
+Barbados	10764,21,219
 Barbados ELCOCK	6613
 Barbados National Identity Management System	10714
 Barbados and Bangladesh	1332
@@ -127,6 +128,7 @@ Barbara Lewis	6931
 Barbelet	10841
 Barbieri	9129
 Barbosa	8605
+Barbosa P	10964
 Barbra Among Arinda	8290
 Barbuda High EGDI M-OSI H-HcI VH-TII	10840
 Barcelona	1634,515,362,11,146,75,350,4,37,476,1111,577,13,22,3,3,9,11,341,52,734,3043,3,616,674
@@ -148,7 +150,7 @@ Bardon CG	1219
 Bardon&author	1219
 Bare and Associates Advocates LLP Data Controller	7167
 Bareedi	9064
-Bareis	8460
+Bareis	8460,2590
 Barely	3331,91,225,6,324,50,31,115,12,487,194,149,1179,836,234
 Bargo	3396
 Baria Johnson	6278
@@ -179,7 +181,7 @@ Barocas	7966
 Barometer	5247
 Baround	3782
 Barr. Hannatu Musa Musawa	9869
-Barra	4044
+Barra	4044,6953
 Barrage Bougouriba	10858
 Barrages	3396
 Barre	2691,7830
@@ -195,8 +197,9 @@ Barrick	1778,210
 Barrick Lumwana	1778,210
 Barrick Lumwana Mines	1778,210
 Barrier	1243,2288
+Barrier MNOs44 Internet	11004
 Barrier Reduction	3861
-Barriers	544,278,77,41,21,258,24,18,567,95,49,124,852,427,156,260,31,379,1296,102,940,409,1428,2338,98,29
+Barriers	544,278,77,41,21,258,24,18,567,95,49,124,852,427,156,260,31,379,1296,102,940,409,1428,2338,98,29,162,1,24
 Barriers To Account Ownership Saving	1828
 Barriers Towards Adoption of E-Government Services	5349
 Barriers and Enablers	4439
@@ -337,12 +340,16 @@ Linguistic Barriers	6793
 Local Development. Barrick	1778,210
 Luís Soares Barbosa	1380
 M. Bara Ndao	7822
+M. Barqué	11067
+M. Barry Moussa Barqué	11067
 M. José Barahona	8344
 MTC. Barney Harmse	3459
 MWC Barcelona	5311,25,3,413,841,121,1838
 Mahdi Barouni	10714
 Mamadou Aliou Barry	2344
+Mamadou Yaya BARRY	11019
 Mamadu Iaia Bari	9426,420
+Managing Common Barriers	11007
 Managing Directors Barry Mamadou Fodé and Retice	9811
 Marciano Silva Barbeiro	2298,24
 Marsabit and Baringo	3374
@@ -403,6 +410,7 @@ REPORT OF THE NIGERIAN BAR ASSOCIATION	10049
 Real Barrier Ask	9547
 Reference Amirkhani and Barshooi2022	8283
 Reference Pollman and Barry2017	8436
+References Bareis	11050
 Region Barbados High EGDI M-OSI VH-HcI	10840
 Regulatory Sandbox Demo Day. Barigye	6184
 Relevant Indicators BARRIERS	3604
@@ -464,6 +472,7 @@ Turn.io Minette Barkhuysen	10538
 UNICEF and Barnksforte Technologies Limited	10704
 Under President Adama Barrow	5279
 Uruguay BARRETTO GHIONE	6613
+Valentina Barca	10985
 Van Niekerk and Barnard	9739
 WAT The Nigerian Bar Association	10254
 World Trade Organization Technical Barriers	1988

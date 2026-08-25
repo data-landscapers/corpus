@@ -24,7 +24,7 @@ Afrique. Quelles	10287
 Agency for Healthcare Research and Quality	8604,2176
 Agricultural Quarantine	4811,453,53,458,129
 Aimee Vyda Quashie	7464
-Air Quality	8891,1868,76,2,1
+Air Quality	8891,1868,76,2,1,130
 Air Quality Sustainable Use of Land	10837
 Amazon Quick and Amazon Kiro	8142
 Amazon Simple Queue Service	10794
@@ -128,6 +128,7 @@ Certidão de Quitação Fiscal	8731
 Charge des Questions Fiscales	7470
 Chinese Yuan. Quidax	8443
 Circular Economy Soil Management Air Quality	4126
+Clarifies Vehicle Procurement Amid Public Questions	11054
 Co-investor Quona Capital	934
 Command Line. Querying the IATI	6982
 Communication. Quatre	2342
@@ -183,12 +184,14 @@ Deal. Qu’est-ce	2443
 Deeper Question The Sovereign AI	6410
 Demographics Query Patient Demographics Query	1009
 Department of Home Affairs. Quarterly	5533
+Des Questions Parlementaires	11034
 Description Quel	10817
 Development Data Quality Policy	4214
 Different AI Question Much	8091
 Digital Credit Services Providers. QUESTION	6940
 Digital ID Strategy Addressing Quantum	3279
 Digital Quality Assurance	9755
+Digital Quality Assurance Guideline	11041
 Dimensions of Data Quality	3861
 Dimensions of Data Quality All	3861
 Director-General Office of Education Quality Assurance	7444
@@ -221,7 +224,7 @@ Ebow Quayson	8442
 Economic System Question Revisited	5700
 Editorial Team Qubit Hub	6332
 Education Education Quality Public Perception of Education	10837
-Education Quality	10759,76,2,1
+Education Quality	10759,76,2,1,130
 Education Standards and Quality Assurance Council	899
 Education Standards and Quality Assurance and Inclusion	899
 Education and Digital Development Global Quality Assurance	6832
@@ -259,6 +262,8 @@ FINANCIAL INCLUSION Quality of Inclusion Indicator	418
 FIRST QUARTER ENDING	6978
 FOURTH QUARTER	6000
 FOURTH QUARTER ENDING	4517
+Fifth Quintile	10985
+Financial Management Air Quality	10968
 Fine for Institutions Awarding Unrecognized Qualifications	10280
 Firms Qualifications	9603,1
 First Qua National Breweries Posts First	6011,985
@@ -268,6 +273,7 @@ First Quarter African Prepaid Pricing Index	236
 First Quarter National Financial Payment Systems	7900
 First Quarter Performance Report	7453
 First Quarter Performance Report. Nkosi	9527
+First Quintile	10985
 Fixed Broadband Subscriptions Quarter Q3	2776
 Forestry Mining and Quarrying	2775
 Formal Homens Informal Mulheres Quadro	10757
@@ -275,6 +281,7 @@ Fourth Quarter	2776,1086
 Fourth Quarter Ending	4517
 Fourth Quarter Federal Budget Vs Expenditure	1784,1,2,7,3
 Fourth Quarter Sector Statistics Report	7548
+Fourth Quintile	10985
 Francisco Queiroz	10750,1
 Francisco Queiroz Direitos Humanos	10753
 Francisco Queiroz Edição	10750
@@ -302,9 +309,10 @@ Gráficos Quadro C.6 Quadro C.7 Quadro	10777
 HOUSEHOLD QUESTIONNAIRE	582
 Handbook of Qualitative Research	5349
 Harmonised Quality of Service	5680
+Head of Quality and Accreditation	10970
 Health Data Quality Intervention	10881
 Health Information Technology Systems and Quality of Care	10784
-Health Quality	10759,76,2,1
+Health Quality	10759,76,2,1,130
 Higher Education Qualifications Sub-Framework	6832
 Hire A Muzungu. Quartz Africa	6231
 Homens........................................57 Quadro	10777
@@ -325,6 +333,7 @@ INTRODUCTION This Quarterly Statistical Bulletin	2776
 INTÉ- QUIS RIEURES Renforcement	10712
 INVESTMENT BANKING Quest Merchant Bank Limited	5903
 IV.1- Quelles	10711
+Immatriculation Immatriculation Qui	10978
 Improve Quality of Service	5676
 Improved Access To Quality Essential Health	10776
 Increasing Health Service Utilization and Quality	10829
@@ -378,6 +387,7 @@ LTA's Revenue Secrecy Raises Transparency Questions	8955
 Label Question Answer	10714
 Laptop Computer Specifications DATE QUANTITY	34
 Le Quotidien	555
+Le Quotidien de Nouakchott	11092
 Le Québec	10286
 Library Quarterly	8022
 Lot Quality Assurance Sampling MDA	10776
@@ -390,6 +400,7 @@ MINIMUM REQUIREMENTS FOR CONSULTANT'S QUALIFICATIONS	3678
 MIS Quarterly	5349,471,2851,457,109
 MIS Quarterly. Sep	10919
 MONEY INTERNET FOURTH QUARTER ENDING	6978
+MPMEs. Quant	10965
 MaciejewskiML. Quasi-experimental	8376
 Mais Segundo Médio Quarto Mais	10760
 Management Information Systems Quarterly	2948
@@ -398,6 +409,7 @@ Manager for Information System Quality Assurance	7155
 Managing Director of Quantis Côte	7021
 Managing and Promoting Quality Statistics Published	2775
 Marchant T. Quality	771
+Market Queens	11083
 Massango Cambundi Catembo Quipungo Belize Amboim	10765
 Materials Modeling ABINIT Quantam Espresso OpenMX	9475
 Maternal Health Health Quality Public Perception	10837
@@ -474,6 +486,7 @@ O Questionário de Biomarcadores	10777
 Occupational Qualifications	6832
 Olívio Quilumbo	6847
 Ookla Quality of Experience	9112
+Open Question None	11086
 Oppenheim AN. Questionnaire	3791
 Orçamento Retificativo. Quando	8179
 Ouagadougou. Que	3465
@@ -509,6 +522,7 @@ Planes Estratégicos Quinquenales	1701
 Plano Quinquenal	4214
 Plano de Melhoria de Qualidade de Dados	2228
 Poor Network Quality Nigeria	9563
+Poorest Quintile	10985
 Portable Document Format Patient Demographics Query	1009
 Potential Quantum of IMT Spectrum Required	5245
 Price Schedule. Question	7987
@@ -516,6 +530,7 @@ Primary Quality	1818
 Primer Plan Quinquenal	1701
 Printer Computer Specifications DATE QUANTITY	34
 Private Sector Education Quality	10835
+Private Sector Health Quality	10968
 Product Quality	1000
 Prof. Nii Narku Quaynor	4706
 Professor Nii Narku Quaynor	4706
@@ -643,14 +658,14 @@ Qualitative Exploratory Study	226
 Qualitative Health Research	7278
 Qualitative Psychology	7278
 Qualitative Report	2093,3256,2781
-Qualitative Research	5349,3111,142,3
+Qualitative Research	5349,3111,142,3,2423
 Qualitative Research Journal	2093,3256,1929
 Qualitative Research Synthesis	5349
 Qualitative Study	1824
 Qualitatively	10852
 Qualitus Ketjimambo	10358
 Qualitus Ketjimambo. Wide-ranging	10358
-Quality	25,2,209,530,5,169,18,12,2,189,48,73,2,534,67,890,876,123,17,1455,103,316,386,781,116,256,74,355,497,294,15,628,1708,9,45,52,67
+Quality	25,2,209,530,5,169,18,12,2,189,48,73,2,534,67,890,876,123,17,1455,103,316,386,781,116,256,74,355,497,294,15,628,1708,9,45,52,67,15,1
 Quality Assessment	1261
 Quality Assurance	899,6367,63
 Quality Assurance Framework	9855
@@ -670,6 +685,7 @@ Quality Corporate	3514
 Quality Corporate Sarl	3514
 Quality Council for Trades and Occupations	6832,1245
 Quality Council for Trades and Occupations SAQA	6832
+Quality Days	10976
 Quality Education	789,110,232,2614
 Quality Essential Health Services Relatório Anual	10776
 Quality HIV	4153
@@ -710,7 +726,8 @@ Quality of Services RADW Radioactive Waste Management	718
 Quality-of-Service	718,9689
 QualityFilterEnabled	10848
 Qualität	383,1150,687
-Qualité	643,94,11,257,182,1507,702,1007,967,260,124,174,2963,515,159,1147
+Qualité	643,94,11,257,182,1507,702,1007,967,260,124,174,2963,515,159,1147,263
+Qualité ARMP Agence de Régulation des Marchés	10975
 Qualité Gouvernance Gouvernance Annexe	2966
 Qualité Gouvernance Primaire Accès	2966
 Qualité Gouvernance Secondaire	2966
@@ -727,10 +744,11 @@ Qualtrics	8670
 Quand	747,1,1058,178,459,70,1,121,166,298,96,270,193,66,92,5,168,44,989,258,101,713,181,145,158,102,279,224,172,258,100,94,192,703,19,95,32,105,40,287,77,367,306,94,230,35,157
 Quand la DGI	6383
 Quando	14,1,534,195,2122,653,3451,148,885,157,1016,147,178,1050,200,1,1,2,22
-Quant	565,172,550,421,210,145,217,62,281,343,138,234,58,69,241,48,235,394,3,73,91,263,61,848,512,204,312,18,59,36,96,255,92,328,36,203,53,3,298,94,570,676,148,16,658,323,105,4,5,49,2,8
+Quant	565,172,550,421,210,145,217,62,281,343,138,234,58,69,241,48,235,394,3,73,91,263,61,848,512,204,312,18,59,36,96,255,92,328,36,203,53,3,298,94,570,676,148,16,658,323,105,4,5,49,2,8,80
 Quantas	10777
 Quantbusiness	5022
 Quantification	10793
+Quantifying the Revenue Yields	10997
 Quantiles T1 Top	10764
 Quantilope	7278
 Quantitatifs	748
@@ -748,7 +766,7 @@ Quantity of ZRCP TBA	1988
 Quantité	2342,1054
 Quantité Montant	2966
 Quantités	3396,7480
-Quanto	5988,340,838,837,824,1923,1,7,14,5
+Quanto	5988,340,838,837,824,1923,1,7,14,5,295
 Quantum	4893,1605,105,3390
 Quantum Computing	961,3567,3020
 Quantum Computing Working Group	8534
@@ -803,6 +821,7 @@ Quarterly Employment Statistics	2626
 Quarterly Gross Domestic Product	2775
 Quarterly IFRs	10829
 Quarterly Indicator	6671
+Quarterly Journal of Economics	10964
 Quarterly Labour Force Survey	10058
 Quarterly M&E Reviews	9852
 Quarterly Management	1154
@@ -846,7 +865,7 @@ Quasi Money	2775
 Quasi-finalisation	2342
 Quater Second Quarter Third Quarter Fourth	1154
 Quatorze	10760
-Quatre	737,28,233,189,1551,212,209,480,1173,692,8,547,50,631,477,80,788,360,211,237,280,368,1171,146
+Quatre	737,28,233,189,1551,212,209,480,1173,692,8,547,50,631,477,80,788,360,211,237,280,368,1171,146,107,102
 Quatre Bornes	3292
 Quatre-vingt-trois	8593
 Quatrième	6084,2807
@@ -872,13 +891,15 @@ Queensland Digital ID	3429,1913
 Queen’s University	4429
 Quelimane Municipality	2989
 Quelle	737,450,1166,90,140,149,733,1815,314,2120,1,115,389,672,240,195,1168,21,311,16,34
-Quelles	1187,407,819,319,2138,410,97,1450,887,1,225,1053,9,129,195,704,160,69,452,115,16
+Quelles	1187,407,819,319,2138,410,97,1450,887,1,225,1053,9,129,195,704,160,69,452,115,16,192,75
 Quelqu'un	5280
 Quelque	565,9245,456
-Quelques	1005,674,663,71,216,103,85,544,20,343,1005,300,1246,994,386,157,485,39,8,381,26,1,722,390,69,96,249,111,322,1
-Quels	2443,752,270,1694,121,486,350,711,62,443,382,1,1176,102,831,435,28,206,22,196,115,16
+Quelques	1005,674,663,71,216,103,85,544,20,343,1005,300,1246,994,386,157,485,39,8,381,26,1,722,390,69,96,249,111,322,1,253,84
+Quels	2443,752,270,1694,121,486,350,711,62,443,382,1,1176,102,831,435,28,206,22,196,115,16,136
 Quency Otieno	8764
 Quentin Loubou	9818
+Quentin Stoeffler	10963,1
+Quentin Stoeffler. Forthcoming	10985
 Quentin Velluet and Omer Mbadi	4127
 Quenum	4181,2566,380
 Quequezana	10763
@@ -907,6 +928,7 @@ Question of Balance The Prime Minister	4535
 Question of Data Retention	2918
 Question of Resilience	6993
 Question of Trajectory for African Connectivity	10360
+Questionable Data Representation Reflects	11105
 Questionado	5211,2846,1444
 Questionados	9990
 Questioned	5321
@@ -917,7 +939,7 @@ Questioning Finsprint	8949
 Questioning The Future of Africa’s Digital Sovereignty	3598
 Questionnaire	737,3054,1888,784,2666,1635,92,63
 Questionnaires	3862,2244,4756
-Questions	760,276,952,319,728,253,61,159,250,29,251,401,119,84,32,189,294,90,266,155,32,151,181,224,255,42,28,422,275,86,48,85,178,71,836,99,41,74,826,117,119,98,305,52,99,33
+Questions	760,276,952,319,728,253,61,159,250,29,251,401,119,84,32,189,294,90,266,155,32,151,181,224,255,42,28,422,275,86,48,85,178,71,836,99,41,74,826,117,119,98,305,52,99,33,517,14,62
 Questions Answered	2677
 Questions Governance Keeps Dodging	8050
 Questions de Communication	226
@@ -947,11 +969,13 @@ Quick Fire	7418
 Quick Highlights Regulatory	2668
 Quick Links Ministry of Communication	9109
 Quick Loans	8974
-Quick Response	8588
+Quick Reply	11033
+Quick Response	8588,2387
 Quick Step Delivery	10468
 Quick Step Shippers. Sur	10468
 Quick U-Turn’ NetOne Turns	3003
 Quick U-Turn’ Zimbabwe	3965,1438,1506
+Quick Wins	10997
 Quick-win	1751
 QuickBook	1264
 Quicker	5247
@@ -1021,13 +1045,14 @@ Quénia Universidade Jomo Kenyatta	2816
 Química Computacional. Trabalhos	2741
 Quórum	4147
 Qu’en	8800
-Qu’est-ce	2514,1613,895,32,2776,389,94,2398
-Qu’il	8098,2584
+Qu’est-ce	2514,1613,895,32,2776,389,94,2398,323
+Qu’il	8098,2584,283
 Qu’ils	8816
 REPORT FOR THE FOURTH QUARTER	4517
 REQUEST FOR QUOTATION	3405
 RESCUE Qualifications	3714
 RGPH-4. CAP SUR LA QUATRIEME PHASE	9277
+RIB. Quelles	10978
 RID Multi-Patient Queries RIM REST National	1009
 Rapid Testing Continuous Quality Improvement	4153
 Real Authority Comes Into Question	8380
@@ -1070,6 +1095,7 @@ Sand Technologies. Quotes	5837
 Scanner Specifications DATE QUANTITY	34
 Second Quarter	1863,913
 Second Quarter Ending	6978
+Second Quintile	10985
 Secondary Quality	1818
 Secretaria Provinciais da Educação. Quadro	10766
 Secretariat and Quest Ghana Limited	7039
@@ -1117,6 +1143,7 @@ Thelma Quaye	10450
 Third Quarter	2776
 Third Quarter Sector Statistics Report	6671,74
 Third Quarter Sector Statistics Report for FY2025	8872
+Third Quintile	10985
 Tombouctou. Quant	6959
 Tonne Quantité	3396
 Top-Left Quadrant	8436

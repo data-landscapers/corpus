@@ -22,7 +22,7 @@ ASEAN Advantage and Hurdles	9431
 AU Commission and Huawei	5302
 Abdulrahman Hussein	2703
 Abomey-Calavi. Hubert	2765
-Absence of Human Trafficking	10759,76,2,1
+Absence of Human Trafficking	10759,76,2,1,130
 Abuja Startup Hub	2218
 Action Humanitaire	3351,45
 Administration and Human Resources Audit Risk Infrastructure	1154
@@ -36,7 +36,8 @@ Africa Governance and Civic Innovation Hub	8628
 Africa GreenTech Hub	8094
 Africa Hub	4999
 Africa Hub for Innovation and Development	9444
-Africa Human Capital Plan	10829
+Africa Human Capital	10963,1
+Africa Human Capital Plan	10829,135
 Africa Regional Hub	6133
 Africa Regional Hub The Kenya Kwanza	6133
 Africa's AI Hub	5946
@@ -101,6 +102,7 @@ Botswana Digital Innovation Hub	5989,4741
 Botswana Digital and Innovation Hub	1154,400,1022,1218,6620
 Botswana Innovation Hub	5879,18
 Bridge Loan and Hustler Groups	10330
+Brief User Journey Through Humanitarian Identification	11006,1
 Build Human Capacity	958
 Bunge Husna Shekiboko	5416
 Bureau de Coordination des Affaires Humanitaires. In OC	10826
@@ -108,8 +110,9 @@ Bureau of Standards HR Human Resources HRH	396
 Burundi HR Human Resources HRM Human	1284
 Business Huawei	6311
 Business Hubs Associations	4126
-Business and Human Rights	3005,578,3564,1935
+Business and Human Rights	3005,578,3564,1935,1925
 Business and Human Rights Centre	9399
+Business and Human Rights.66	11007
 C Comissão Nacional de Direitos Humanos	6530
 CENTRO PROM. DCHOS. HUMAN. Y DEMOC.-Concepto	4209
 CEO CEMAC of Huawei for Central Africa	4536
@@ -120,7 +123,7 @@ CEO of Currency Hub. Qualified	9367
 CEO of Huawei Cloud Egypt	6653
 CEO of Huawei South Africa	7979,229
 CFA. Huit	10576
-CHANGE HUMAN DEVELOPMENT SCORE	10835,3
+CHANGE HUMAN DEVELOPMENT SCORE	10835,3,130
 CM8353 acc.pdf Huawei	1243
 COMFORTCARE THREE HUNDRED SIXTY PLUS LAVINGTON	7167
 CONSOLIDATED HUMAN RESOURCE SOLUTIONS LIMITED Data	7167
@@ -128,15 +131,18 @@ COORD. REGIONAL DERECHOS HUMAN.-Concepto	4209
 CRASA Human Resources Committee	10337
 CRIMINAL ATTACK SYSTEM FAULT HUMAN ERROR	2709
 CULTO Y DERECHOS HUMANOS	4209
+Cairo Institute for Human Rights Studies	11079
 Caleb Jack Tunde Buremo Hush Naidoo	10861
 Cambridge Frugal AI Hub	5682
 Cameroon Climate Innovation Hub	3730
+Cameroon Human Capital Index	10963
 Cameroon Launches Climate Innovation Hub	3730
 Cameroon. Huawei	3598
 Capacidade Humana Determinará O Retorno	8827
 Capacity and Human Capital Development	7547,1
 Capacity and Human Capital Development Policy Objective	7548
 Capacity and Human Capital Development Policy Statement	7548
+Capital Humain	10965
 Capital Humano	7948
 Capital Humano Nacional	2816
 Center for Democracy and Human Rights	9288
@@ -185,6 +191,7 @@ Corporate Governance and Human Resource Committee	718
 Corporate Governance and Human Resource of RURA	718
 Creativa Innovation Hub	3429,6400
 Creativa Innovation Hubs	1902
+Critique of Human-Centred AI	11028
 Croatia Czech Republic Ecuador Georgia Hungary	10764
 Cuando Lunda Benguela Huambo Bié Moxico	10760
 Cuanza Norte Cuanza Sul Cunene Huambo	10766
@@ -248,6 +255,7 @@ Desenvolvimento Humano	795
 Desenvolvimento Humano ID	9441
 Designer de Convivência Humano-Máquina	2816
 Development Index HDP Humanitarian Development Peace	970
+Development Reports UN Human Development Reports	11004
 Diagnostic of Human Resources Management	969
 Dianne Hubbard	1659
 Diaspora Hub	7843
@@ -310,8 +318,8 @@ Dr. Humphrey Mwavali Digital Health Expert	9855
 Dr. Hussein Ali Mwinyi	10746
 Dr. Hussein Mohiadin	10477
 Dra. Ana Celeste Cardoso Direitos Humanos	10750
-Droits Humains	3396,1707
-Développement Humain	643
+Droits Humains	3396,1707,5964
+Développement Humain	643,10322
 Développement Humain Inclusif Objectif	643
 E DOS DIREITOS HUMANOS APOSTA NA	10752
 E HUMANOS NECESSÁRIOS PARA IMPLEMENTAÇÃO	3519
@@ -327,6 +335,9 @@ Education Education Enrolment Education Completion Human	10837
 Education Mbale ICT Hub	5109
 Education and Human Development	1228
 Education and Human Resource Development Educational	3861
+EgyptWide for Human Rights	11079
+Egyptian Front for Human Rights	11079
+Egyptian Human Rights Forum	11079
 Eight Hundred Million US Dollars	5903
 Eight Hundred Thousand	7538
 Eight Hundred and Eleven Million	3862
@@ -356,7 +367,7 @@ Executive and Human Resource Committee	6946
 Experiência Humana	2816
 Export of Human	395
 Extending the Human-Centred Framework	10726
-FOUNDATIONS FOR ECONOMIC OPPORTUNITY HUMAN DEVELOPMENT	10835,3
+FOUNDATIONS FOR ECONOMIC OPPORTUNITY HUMAN DEVELOPMENT	10835,3,130
 Fab Labs and Innovation Hubs	10834
 Faculty of Human Sciences	8021
 Failing the Hustlers	10330
@@ -407,11 +418,13 @@ Game Hub Senegal and Anim’Lab	2544
 Garissa Youth Hub and Nyeri County Youth	6946
 Gases GoZ Government of Zimbabwe HDI Human	970
 Gbps. Huawei	859
+Gender Inequality Index UN Human Development	11004
 Geoff Huston	2677
 Gestion des Ressources Humaines	1281,9540
 Gestão de Recursos Humanos	10614
 Ghana Data Exchange Hub	4126
 Global AI Hub	10957
+Global AI Hub and MDB	11061
 Global Human Rights Framework Integration	3861
 Global Human Rights Framework Integration Universal	3861
 Global Partnership for Human-Centric ICT Standardization	10336
@@ -452,7 +465,7 @@ HUBIYE Verification Platform	4091
 HUITIEME LEGISLATURE UNITE-PROGRES-JUSTICE	785,10040
 HUMAN CAPITAL	10762
 HUMAN CAPITAL DEVELOPMENT AND VOCATIONAL TRAINING	7167
-HUMAN DEVELOPMENT	10759,76,2,1
+HUMAN DEVELOPMENT	10759,76,2,1,130
 HUMAN DEVELOPMENT FOUNDATIONS FOR ECONOMIC OPPORTUNITY	10837
 HUMAN DEVELOPMENT HUMAN DEVELOPMENT HEALTH Access	10759
 HUMAN DEVELOPMENT SCORE	10759,78
@@ -509,7 +522,7 @@ Huambo PAULO IAMBO	10751
 Huambo. Revelou	7585
 Huang	5658,1290,1656,1
 Huang L	9739
-Huawei	18,34,6,20,1,113,68,42,13,61,2,42,1,13,45,2,1,16,66,81,2,252,344,22,3,248,10,202,8,162,420,6,103,19,1,64,7,23,25,48,2,11,31,62,5,53,38,3,1,3,2,43,5,8,33,11,13,5,4,70,1,8,36,51,7,57,108,18,46,111,4,2,45,29,6,9,43,19,6,36,33,19,31,55,9,14,69,71,70,30,7,21,293,92,22,41,17,10,29,39,45,66,12,22,47,8,76,2,40,73,11,52,153,4,15,41,4,8,26,23,48,11,30,45,60,43,79,22,4,15,39,1,16,106,30,48,52,9,2,53,9,2,27,20,28,52,25,20,19,6,18,13,33,6,9,4,19,37,60,62,5,7,23,16,58,1,140,9,7,16,123,85,78,17,1,47,22,72,37,93,348,117,36,72,8,46,148,27,8,37,134,116,25,33,6,1,292,69,15,327,136,167,302,2,120,14,153,58,103,133,10,10,19,15,195
+Huawei	18,34,6,20,1,113,68,42,13,61,2,42,1,13,45,2,1,16,66,81,2,252,344,22,3,248,10,202,8,162,420,6,103,19,1,64,7,23,25,48,2,11,31,62,5,53,38,3,1,3,2,43,5,8,33,11,13,5,4,70,1,8,36,51,7,57,108,18,46,111,4,2,45,29,6,9,43,19,6,36,33,19,31,55,9,14,69,71,70,30,7,21,293,92,22,41,17,10,29,39,45,66,12,22,47,8,76,2,40,73,11,52,153,4,15,41,4,8,26,23,48,11,30,45,60,43,79,22,4,15,39,1,16,106,30,48,52,9,2,53,9,2,27,20,28,52,25,20,19,6,18,13,33,6,9,4,19,37,60,62,5,7,23,16,58,1,140,9,7,16,123,85,78,17,1,47,22,72,37,93,348,117,36,72,8,46,148,27,8,37,134,116,25,33,6,1,292,69,15,327,136,167,302,2,120,14,153,58,103,133,10,10,19,15,195,324
 Huawei AI	6541
 Huawei Africa VP	6008
 Huawei Afrika Mashariki	3062
@@ -686,6 +699,7 @@ Hughes	2093,7588
 Hughes L	9739
 Hughes Network Systems	6980
 Hugo Augusto. Ao	10366
+Hugo Brousset	10985
 Hugo Verkuijl	5899
 Hugo and Samsung	2610
 Hugues Abdias NDOLINGAR	1300
@@ -707,7 +721,7 @@ HumAngle	5267
 HumAngle Bala Abubakar	5267
 Humain	9824
 Humains	4325
-Human	21,13,737,18,169,3,8,1,97,64,88,65,154,376,4,10,39,121,319,468,183,529,96,27,81,435,1,312,89,716,77,590,303,91,846,53,344,242,96,209,188,18,159,329,21,257,56,81,195,70,83,64,97,73,151,199,276,314,38,4,8,4,49,27,14
+Human	21,13,737,18,169,3,8,1,97,64,88,65,154,376,4,10,39,121,319,468,183,529,96,27,81,435,1,312,89,716,77,590,303,91,846,53,344,242,96,209,188,18,159,329,21,257,56,81,195,70,83,64,97,73,151,199,276,314,38,4,8,4,49,27,14,93,1,5,59
 Human AI	10726
 Human AI Capabilities and Development AI Adoption	10726
 Human Appeal	4528
@@ -715,7 +729,7 @@ Human Basic	970
 Human Behavior	8460,668
 Human Behavior and Emerging Technologies	1248,4452,2322
 Human Capabilities	10726
-Human Capacity	1161
+Human Capacity	1161,9839
 Human Capacity Development	1554
 Human Capital	969,3559,2409,3831
 Human Capital Development	1154,2707,667,748
@@ -723,19 +737,20 @@ Human Capital Development Must Be Systemic	7548
 Human Capital Development Objective	4528
 Human Capital Development and Special Programmes	7480
 Human Capital Formation	10768
-Human Capital Index	1353,540,19,8856,7,54
+Human Capital Index	1353,540,19,8856,7,54,134,1
 Human Capital Index.35	10856
 Human Capital Information Management System	4612,140
 Human Capital Learning Solutions	8077
+Human Capital Project	10964
 Human Capital Reform DPF World Bank	763
 Human Capital Service Delivery Transformation	723
 Human Capital and Connectivity	10829
 Human Capital and Research	3235
 Human Capital and Resilience Building	10768
 Human Capital and Resilience Building Cash	10768
-Human Development	643,1,10115,78,1
-Human Development Index	3583
-Human Development Infrastructure Development	10835,3
+Human Development	643,1,10115,78,1,126,4
+Human Development Index	3583,7421
+Human Development Infrastructure Development	10835,3,130
 Human Development Initiative	206
 Human Development Initiative- OPHI	206
 Human Development Report	969
@@ -784,7 +799,7 @@ Human Resource and Administration	1778,210
 Human Resource and Administration Mrs Christine Mshanga	34
 Human Resource and Administration Nalituba Mwale	10510
 Human Resource for Health Information System	1261
-Human Resources	34,1906,3917,3266,1636,17,59,2,1
+Human Resources	34,1906,3917,3266,1636,17,59,2,1,130
 Human Resources Cabinet	10775
 Human Resources Committee	1154,400,5650
 Human Resources Committee The Finance	1554
@@ -868,6 +883,7 @@ Human Skills	5551
 Human Systems Management	4432
 Human Task Document Workflow	1009
 Human Trafficking and Smuggling of Migrants	8480
+Human Values	11050
 Human and Economic Impact of Digital Public	5700
 Human and People's Rights	1988
 Human and People's Rights. Attention	3583
@@ -878,7 +894,7 @@ Human and Peoples' Rights of Women	3583
 Human and Peoples' Rights. Continued	3583
 Human and Peoples' Rights. Joof	9313
 Human and Peoples' Rights29	3583
-Human and Peoples’ Rights	961,853,1191,2316,212,655,763,727,1404,1647,46
+Human and Peoples’ Rights	961,853,1191,2316,212,655,763,727,1404,1647,46,320,5
 Human and Peoples’ Rights Declaration of Principles	9416
 Human and People’s Rights	961,6717
 Human and People’s Rights AI Artificial Intelligence	1814
@@ -985,7 +1001,7 @@ Hundreds of Somalis	10260
 Hundreds of Starlink	7422
 Hundreds of US	9015
 Hungarian Association of Digital Companies Kappa404 KeeeX	8530
-Hungary	789,4945,879,253,1480,1053,1386
+Hungary	789,4945,879,253,1480,1053,1386,220
 Hungary Global Cybersecurity Index	10764
 Hungary Iceland	10714
 Hungary Ireland Israel Lithuania Malta Poland	10764
@@ -1059,9 +1075,10 @@ IA Hugging Face. Sam Altman	8863
 ICT Data Hub	6946
 ICT Hub	5109,3552,134
 ID for All Hundreds	3460
+IDA Human Capital Index IDP International	10964
 INCLUSION HUMAN DEVELOPMENT HEALTH Access	10837
-INCLUSION HUMAN DEVELOPMENT PARTICIPATION	10835,3
-INCLUSION HUMAN DEVELOPMENT PARTICIPATION HEALTH Freedom	10835,3
+INCLUSION HUMAN DEVELOPMENT PARTICIPATION	10835,3,130
+INCLUSION HUMAN DEVELOPMENT PARTICIPATION HEALTH Freedom	10835,3,130
 IOtech Global Hub Ltd	3862
 IPPIS Human Resource Modules	7973
 Identify A Human Need And Reach	36
@@ -1084,6 +1101,7 @@ Innovation Hubs	226,1010,1721
 Instituições Nacionais de Direitos Humanos	10750
 Institute of Human Resource Management	6946,3097
 Institute of South Africa and AI Hubs	4970
+Institutions Human	10969
 Instituto Humanitas Unisinos	2816
 Int J Arts Humanit Soc Sci	9739
 Integral Human Development	10841
@@ -1095,6 +1113,7 @@ International Humanitarian Law	7452
 International Journal of Education and Humanities	7759
 International Journal of Social Science and Human Research	7759
 International VSAT Hub	736
+Investment Hub	11127
 Inwi and Huawei	8610,233
 IoT Huawei	6235
 Iotech Global Hub Ltd	3862
@@ -1118,9 +1137,11 @@ Kenya and Huawei	4592
 Kenya's Digital Hub	9203
 Kenya's Huduma Namba	4981
 Kenya's Hungary	9399
+Kenya's Hunger Safety Net Program	10963
 Kenyan INTERIOR AND THE SME Huduma	9399
 Kenya’s Huduma Bill	10822
 Kenya’s Huduma Namba	5224,97
+Kenya’s Hunger Safety Net Program	10964
 Khazar J Humanit Soc Sci	9739
 Kidijitali. Huduma	6019
 Kikuyu Center of Excellence Digital Hub	10668
@@ -1231,7 +1252,7 @@ National Innovation Hub Standards Framework Workshop	10573
 National Minister of Human Settlements	8564
 National Religious Leaders Forum. A Human	2626
 National Summary of Human Resources for Health	4217
-Nations Human Settlements Programme Cable Cable.co.uk	10835,3
+Nations Human Settlements Programme Cable Cable.co.uk	10835,3,130
 Nationwide Human Capital and Women and Girls’ Empowerment	10829
 Nedbank Business Hub	8974
 NetHope Humanitarian AI Code of Conduct	7147
@@ -1271,6 +1292,7 @@ Perda da Conexão Humana	2816
 Perspective of Human Rights Watch	2518
 Planeamento A Ministra da Saúde Víctor Hugo	10777
 Police and Huawei	315
+Policy's Hubris	11028
 Pour Huawei	10471
 Pour KMR Start-up HUB	6655
 President HUAWEI CLOUD Southern Africa Region	376
@@ -1334,17 +1356,20 @@ Related Articles of Human Rights	8943
 Relatórios Nacionais de Direitos Humanos	10752
 Relações Humanas	2816
 Remote Station Make Model Hub	736
+Reports Gender Development Index UN Human	11004
 Republic of Congo and Huawei Technologies Co	228,1
 Republic of Zambia HIV Human Immunodeficiency Virus	1988
 Research Hubs	7548
 Reserve Bank Innovation Hub	8351
 Respect for Human Dignity	2958
-Ressources Humaines	2342,2881
+Ressources Humaines	2342,2881,5752
+Ressources Humaines du Marché SDAAB	10975
+Ressources Humaines. C’est	10975
 Reusable Data Principles HSRC Human Sciences	5246
 Rev. Interdiscip. Mobil. Hum	10765,10
 Revival Innovation Hub	1857
 Revival Innovation Hub and DIAMBILAY	1857
-Rights Human Business	10835,3
+Rights Human Business	10835,3,130
 Rise Hub	8457
 Robert L. Bernstein Institute for Human Rights	225
 Rwanda AI Scaling Hub	6564
@@ -1383,6 +1408,7 @@ Shapes the Future Aviation Hub	2511
 Sichuan Huakai Project Management Co. Ltd	181,9
 Sierra Leone's National Health Information Hub	9370
 Sierra Leone’s Health Information Hub	10659
+Sinai for Human Rights	11079
 Six Hundred and Seventy-Four Billion	3862
 Sixty-One Thousand Five Hundred and One Naira	3862
 Skills and Human Capital Data	3861
@@ -1399,6 +1425,7 @@ Société des Huileries du Bénin	10821
 SoftSuite Human Capital Management	7973
 Solutions HUAWEI	3511
 Soon Huat Lim	2385,313,7644
+Sous-Direction des Ressources Humaines SDRDC	10975
 South African Human Rights Commission	5806,499,3377,659,112,237,32,7
 South African Human Rights Commission Act	6305
 South African Human Rights Commission's Policy	10453
@@ -1474,8 +1501,10 @@ UICT Innovation Hub	9781
 UN AI Governance for Humanity Lab	9106
 UN Human Capital Index	10785
 UN Human Development Index	3584
+UN Human Development Reports	11004
+UN Human Development Reports UN Human	11004
 UN Human Rights Council	3584
-UN Human Rights Office	3584,543
+UN Human Rights Office	3584,543,6880
 UN REPORTS SERIOUS HUMAN RIGHTS VIOLATIONS	4127
 UNDP Human Development Report	2117
 UNDP Sub-Regional Hub for West and Central Africa	9134
@@ -1493,6 +1522,7 @@ Unbroken Chain of Hutu Power Rwanda Leaves	6343
 Under the Human and Social Capital Development	9959
 United Nations Commissioner for Human Rights	3583
 United Nations High Commissioner for Human Rights	3583,3368,1853
+United Nations Human	11004
 United Nations Human Rights Commission	6776
 United Nations Human Rights Council	3583,544,5018,1696
 United Nations Human Rights Council. First	3584
@@ -1513,6 +1543,7 @@ Vinci Vice President of Huawei	6008
 Vírus da Hepatite B Vírus da Imunodeficiência Humana	10777
 Vítimas de Tráfico de Seres Humanos	10750
 Watoa Huduma	2868,3151
+We're Only Human After All	11028
 Welt Hunger Channel Master	998
 Welt Hunger Ubiquity M5 Ubiquity M5	998
 What’s Actually Becoming Abundant Human	8380

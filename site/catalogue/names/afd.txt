@@ -6,6 +6,7 @@ AFD US	543
 AFD USD	473
 AFD and EIB	543,6600
 AFD and Expertise France	3036
+AFD and UNICEF	10964,21
 AFD's AI Investment Potential Index	2303
 AFD's Choose Africa	7891
 AFD-financed	4645
@@ -48,7 +49,7 @@ AfDB and IsDB	1406
 AfDB and MCDF	9988
 AfDB and Standard Bank	9702
 AfDB and WBG	4214
-AfDB&AUC	10759,76,2,1
+AfDB&AUC	10759,76,2,1,130
 AfDB's Data Innovation Lab	4214
 AfDB's Governance and Economic Reform Department	4181
 AfDB's Statistics Department	4214
@@ -79,6 +80,7 @@ Description First AFD	1043
 EUR45.5m AfDB	803
 EUR7m AfDB and EUR3.5m European Union	9463
 Enabel and AFD. Senegal	641
+Erkin Mamadaliev and Ioana Botea AFD ABBREVIATIONS	10964
 Ethiopia and Burkina Faso. The AFD	2303
 Event Data Project AfDB African Development	10759,78
 FR-3 AFD	1405
@@ -87,6 +89,7 @@ Free Trade Area AfDB African Development	7548
 Ivoire's AfDB Governor	4096
 Kamara. The AfDB	5804
 Koulibaly the AfDB	2942
+LISTE DES ACRONYMES ET ABREVIATIONS AFD	10965
 M. No AFD	716,1520
 Million AfDB Support for E-Governance Upgrade	4181
 Official Use Only AfDB ABBREVIATIONS	3604
@@ -96,7 +99,7 @@ SSA. REG. No AFD	1551
 Sole AFD	450
 Sovereign AFD	789
 Trade Area AFD French Development Agency	10841
-Trade and Development AfDB African Development Bank	10835,3
+Trade and Development AfDB African Development Bank	10835,3,130
 UNECA and AfDB	9469
 WATAF LAUNCHES AFDB-FINANCED US	10581
 WB IDEA and AFD	4841

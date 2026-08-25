@@ -6,8 +6,11 @@ ACIH Knowledge-Transfer C2-Number	7548
 ALREADY KNOWN	10881
 Acronyms AmeliCA Open Knowledge for Latin America	5246
 Alan Knott-Craig	10955
+Alan Knott-Craig and Shayne Mann. Verascient	11128
 Algerian Ministry of Knowledge Economy	6127
 All Know About	5817
+Appendix C. Mobile for Business Knowledge and Skills	11017
+Appendix Mobile for Business Knowledge and Skills Guide	11017
 Assessment Basic Knowledge	899
 Authors ArticleID Like To Know	6632
 Awareness and Knowledge Efforts	2958
@@ -15,6 +18,7 @@ BAI08 Managed Knowledge	9237
 BMIT Knowledge Group	10129
 Bank ATM Know	418
 Building Knowledge and Capabilities	1200
+Business Knowledge and Skills Guide	11017
 CITADEL KNOWLEDGE CONSULTANTS LIMITED Data Processor	7167
 Case for Digital Public Infrastructure. Knight	5700
 Ceiling. Knowledge Doesn't	10078
@@ -23,6 +27,7 @@ China Disability Inclusion Knowledge Exchange Platform	9767
 Cloud Knowledge and Skills	1810
 Colin Lankshear and Michele Knobel	6948
 Colin Lankshear and Michele Knobel. Peter Lang	6948
+Communications Authority and KNBS	11086
 Customer and Agent Know Your Customer	10775
 Danish Institute for Human Rights and KNCHR	2615
 Department KNBS Kenya National Bureau of Statistics	7548
@@ -129,7 +134,8 @@ Know First	9331
 Know How It Got Infected	3364
 Know Mauritius Privacy E ENS ArticleEU	6632
 Know Your Business	5369,2150,82
-Know Your Customer	1880,36,639,23,227,36,269,7,284,28,79,139,464,737,7,179,335,170,226,232,100,80,10,45,513,476,298,82,333,159,943,320,59,350,85,6,151,22,101,450,2,132,90,18,17
+Know Your Customer	1880,36,639,23,227,36,269,7,284,28,79,139,464,737,7,179,335,170,226,232,100,80,10,45,513,476,298,82,333,159,943,320,59,350,85,6,151,22,101,450,2,132,90,18,17,144
+Know Your Device	11033
 Know Your Numbers	7360
 Know Your Rates	9781
 Know Your Rights. Know the Law	8804
@@ -139,7 +145,7 @@ Know-Your-Customer	1401,888,5846,2630,10
 KnowBe4. The KnowBe4 Africa Human Risk	3253
 Knowing	1000,8386
 Knowingly	3383
-Knowledge	21,397,153,328,41,874,125,157,1582,371,399,229,1003,178,974,116,600,183,28,187,75,1,161,778,168,69,448,432,636
+Knowledge	21,397,153,328,41,874,125,157,1582,371,399,229,1003,178,974,116,600,183,28,187,75,1,161,778,168,69,448,432,636,255,11
 Knowledge Acquisition	899
 Knowledge Application Knowledge Society Skills Pedagogy	899
 Knowledge Creation	899
@@ -158,21 +164,27 @@ Knowledge Management	1000,7021,525
 Knowledge Management Safety and Health Act	6946
 Knowledge Oasis Muscat	10380
 Knowledge Politics and Imagining the Future of AI	4253
-Knowledge Sharing Program	10957
+Knowledge Sharing Program	10957,104
+Knowledge Skills	11017
+Knowledge Skills Communicate	11017
+Knowledge Skills19	11017
 Knowledge Syed	9237
 Knowledge Transfer	6946
 Knowledge Transfer Every	718
 Knowledge Transfer Programme	5428
 Knowledge Transfer Programme. The ITU	5428
+Knowledge and Skills Guide	11017
+Knowledge and Skills Guide. Mobile for Business Knowledge	11017
 Knowledge and Technology	2576,60,28,72,4936
 Knowledge of Cost of Borrowing	2775
 Knowledge of Cost of Borrowing and Transaction Cost	2775
 Knowledge of ICT	9203
 Knowledge-Based Systems	8604
+Knowledge-intensive	10969
 Knowledge-sharing	8021
 Knowledge7	5712
 Knowledgeable Research	8022
-Known	4119,2446,851,2828,477
+Known	4119,2446,851,2828,477,336
 Knox Magambuza	3274
 Knut Staring	7027
 Knysna	8999
@@ -180,9 +192,12 @@ LEA Head of Information and Knowledge Management	5998
 LOW Planning LOW ChoiceLOW KnowledgeLOW Control	418
 Lead Knowledge Partner for NaVALI and Head	9534
 M- National Ministry of KNBS	7548
+M4B Knowledge and Skills Guide	11017
 Map Is TAIS Knowledge Map	5513
 Measurable KNBS Annual Emerging Technologies	7548
 Minister of Knowledge Economy	2420,370,3162
+Mobile for Business Knowledge and Skills Guide	11017
+NGO Knowledge	11004
 Nationwide Urban Rural Male Female Know	582
 ODPC Hosts Somali Delegation for Knowledge	2668
 Open Knowledge Ghana	10557
@@ -195,6 +210,7 @@ P. O. Box KN	3386
 P.O. Box KN	3386
 People Who Know Their HIV	4153,49,15,132,1003
 People With HIV Who Know	4153,49,15,43,89,1003
+Politics of Knowledge	11028
 Project Support and Knowledge Management Department	26,1,1
 R&D KNBS Innovation	7548
 R. Knight	4432
@@ -228,6 +244,7 @@ Things You Should Know	6948
 Through Knowledge Sharing Ghana and Malawi	10736
 Tiered Merchant and Know	7391
 Training College KNBS Kenya National Bureau	2775
+Uganda Mobile for Business Knowledge and Skills Guide	11017
 Uptime The KNDC	5793
 Visited Egyptian Knowledge Bank Cabinet	9332
 World Bank Climate Change Knowledge Portal	10763

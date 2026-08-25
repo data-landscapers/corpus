@@ -8,6 +8,7 @@ Commodity TB Commodities ARVs and PrEP Opportunistic	4217
 Completed Planned July August On-going TBC	8999
 Components RESULT FRAME TBL IO Indicator Name PBC	1284,9545
 Components RESULT FRAME TBL IO Indicator Name PBC Baseline	1228
+Components RESULT FRAME TBL IO PBC Baseline Intermediate	10964
 Curing TB	4260
 Data Storage TBA TBA	1988
 Desktops TBA	1988
@@ -48,11 +49,13 @@ P168336 TBL Country Angola Operation ID P168336	10779
 P169983 TBL Country Angola Operation ID P169983	10779
 Planification Economique ADD FIN TBL1	1284
 Policy Areas EVOBJ TBL Page	10779
+Project Development Objective Indicators RESULT FRAME TBL PD	10964
 QC QMS RTCQI SHA STI TB	4153
 Quantity of ZRCP TBA	1988
 RESULT FRAME TBL IO Indicator Name PBC Baseline	1284,9545
 RESULT FRAME TBL IO Indicator Name PBC Baseline Intermediate	1228
-RESULT FRAME TBL PD O Indicator Name PBC	10829
+RESULT FRAME TBL IO PBC Baseline Intermediate Targets	10964
+RESULT FRAME TBL PD O Indicator Name PBC	10829,135
 RGPH SEN SFP SIGE SPE TBA	10766
 RT Mupita7 TBL Molefe7	10793
 RV SIDA SRO TBF TBN TCA	10777
@@ -112,6 +115,7 @@ TBSI Tableau de Bord de Suivi des Indicateurs TdC	10712
 TBnotified	4301
 TF LEGAL TBL1 Description Status Action	1284
 Tbits	5138
+Tbps BB	10995
 Tbps Sample Ghana	3184
 Tbps Traffic Milestone	2754
 Tbps. Capacity	4676

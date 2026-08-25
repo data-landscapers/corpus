@@ -1,5 +1,6 @@
 AFW Health Nutrition and Population Strategy22 and M300	3604
 AGREGADOS FAMILIARES E DA POPULAÇÃO	10777
+ARTICLES POPULAIRES Plaies	11123
 ATM Population Merchants and POS	6978
 ATM Population Page	4517
 Adolescent-Responsive Action and Population Data	9766
@@ -11,6 +12,7 @@ Alice Sesay Pope Delegated	2521,659,249,939,974,1524,210,294
 Ambassador Popp	6262
 Amendment of Identification Regulations POPIA	6512
 Andrei Popviciu	4127
+Anna Popova	10985
 BRR Moldova Monaco National Population	10714
 BRR Population Registry	10714
 BRR South Africa National Population	10714
@@ -19,6 +21,7 @@ Banque Centrale Populaire	1244,5639,3835
 Banque Populaire de Côte	2342
 Banque Populaire de Mauritanie	9656
 Bem-Estar da População	220
+Blog On the Pope	11006,1
 Board POPIA Protection of Personal Information Act	5246
 CAR The Ministry of Health and Population	10829
 CARACTERISTIQUES SOCIO- DEMOGRAPHIQUES DE LA POPULATION	737
@@ -27,6 +30,7 @@ CHINÊS A República Popular da China	3519
 Cape Town PoP	3840
 Censo Geral da População	6595
 Censo Populacional	10772
+Census and Population Studies	10964
 Census of Population	10826
 Census of Population and Housing	1867
 Central African Popcat POPCAR	4127
@@ -43,7 +47,7 @@ Couverture Population	419
 D'ACHEVEMENT Population	10847
 DEMOCRATIQUE ET POPULAIRE N	4658
 DES POPULATIONS DE L’ÉTAT SIGNATURE DES	2342
-DIF Digital Investment Facility POP Point	3184,1,1340
+DIF Digital Investment Facility POP Point	3184,1,1340,6470
 DIMAMO Population Health Research Centre	8604
 DISPLACED POPULATION IN BURKINA FASO	10864
 DTT Population Coverage	6946
@@ -83,6 +87,8 @@ GDP Population	10837
 General Directorate of Population and Primary Health Care	10829
 General Population and Housing Census	7702
 Geographic and Population Coverage	6000
+Governo Popular	11045
+Governo da República Popular da China	11045
 Gribo Popoli	2342
 Groupe Banque Centrale Populaire	8891
 H.E. William Popp	6199
@@ -92,6 +98,7 @@ INSERT COUNTRY POPULATION	5352
 IV Recenseamento Geral da População	7792,1531
 IVº Recenseamento Geral da População	7666
 Identity System Eswatini National Population Register	10714
+Income Region Population	10969
 Inscription Populaires	9668
 Integrated Information System of National Population App	10714
 Integrated Population Registration System	1745,2191,6886
@@ -109,6 +116,7 @@ Leisure Viewpoint Vox Pop Women	9878
 London Pop-Up Registration	7099
 Ltd POPIA Five Years Later	7055
 MGC Office Park Corner Pope John	10060
+MISTT Internet Fundamentals and Popular Apps	11017
 MW CAPACITY PER MILLION POPULATION	10861
 Male Population	9485
 Manage the Health of Populations	5700
@@ -184,10 +192,11 @@ Popcorn	8606
 Popia	3962,3319,1962,526,323,249
 Popia-equivalent	7281
 Popia. Gwala	10092
+Popiel	11050
 Pople	10763
 Popote Familiale	3045
 Popov	5022
-Popova	5349
+Popova	5349,5636
 Poppy Day Next Article Treasury	3933
 Popul Music	9739
 Populacao	1144
@@ -200,7 +209,7 @@ Popular Movie Gender Breakdown Michael	9781
 Popular Posts	9253
 Popular de Liberta	9399
 Populating Shared Value Sets	1009
-Population	21,716,10,223,28,15,350,191,68,1,1,1,1,1,1,54,63,2,41,156,29,82,422,4,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,2,118,1,150,1,252,177,138,261,304,1,1,1,1,5,1,60,66,83,198,107,671,142,457,328,313,277,62,146,100,31,127,192,377,58,1,279,308,87,503,386,35,173,68,115,486,131,262,165,2,49,2,3,7,5,32,9,1,4,3,6,3,3,3,3,9,2,16,7,31,8
+Population	21,716,10,223,28,15,350,191,68,1,1,1,1,1,1,54,63,2,41,156,29,82,422,4,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,2,118,1,150,1,252,177,138,261,304,1,1,1,1,5,1,60,66,83,198,107,671,142,457,328,313,277,62,146,100,31,127,192,377,58,1,279,308,87,503,386,35,173,68,115,486,131,262,165,2,49,2,3,7,5,32,9,1,4,3,6,3,3,3,3,9,2,16,7,31,8,44,4,1,16
 Population Administration Information System	10714
 Population Affected	1828
 Population Bas-Sassandra	747
@@ -211,7 +220,7 @@ Population Coverage Digital Terrestrial Television	6946
 Population Coverage Rural Urban	6000
 Population Database	10714
 Population Density	9485
-Population Division	3583,7131
+Population Division	3583,7131,290
 Population Estimates	10714
 Population Estimation Survey for Somalia	32
 Population Flood Impact	1828
@@ -320,9 +329,10 @@ VRR Suriname Population Register	10714
 Vulnerable Population Groups	1412
 William Popp	6264
 William W. Popp U.S. Ambassador	4217
+World Pop	10964
 World Population Day	7749
 World Population Day High-Level Dialogue	7749
-World Population Prospects	10714
+World Population Prospects	10714,255,35
 WorldPop Population	10763
 Year Population No	4217
 Year Value Indicator Name Population	6928

@@ -2,7 +2,7 @@ ABAN SAVINGS AND CREDIT CO-OPERATIVE SOCIETY	7167
 ABC Empowerment Regulated NWDT SACCO Society	7167
 ACCEL CO-OPERATIVE SAVINGS AND CREDIT SOCIETY	7167
 ACCION SOCIAL.- Concepto	4209
-ACCOUNTABILITY SOCIAL PROTECTION	10835
+ACCOUNTABILITY SOCIAL PROTECTION	10835,133
 ACCOUNTABILITY SOCIAL PROTECTION INFRASTRUCTURE	10835
 ACÇÃO SOCIAL	10766
 ADMINISTRATEUR REPRESENTANT LA SOCIETE SUCRIERE	8321
@@ -13,6 +13,7 @@ AI and Society	4528
 AI- Powered Society	4126
 AI-Powered Society	4126
 AIBK REGULATED NON-WDT SACCO SOCIETY LTD	7167
+ALL ADULTS USE SOCIAL MEDIA	10977
 AMICA SAVINGS AND CREDIT CO-OPERATVE SOCIETY	7167
 AMMAR SAVINGS AND CREDIT CO-OPERATIVE SOCIETY	7167
 AMREF REGULATED NON WDT SACCO SOCIETY	7167
@@ -34,8 +35,10 @@ Action Sociale	10812
 Actualité Société Facebook X Pinterest WhatsApp	9620
 Acção Social	5296,2586,2872,18
 Acção Social Escolar Direcção Nacional de Educação	10766
+Adaptive Governance of Social-Ecological Systems	11006
 Adaptive Social Protection Adaptive Social Safety	10763
 Adaptive Social Protection System	10763,5
+Adequacy of Social Assistance	10985
 Administración Pública Sociedad Civil	1701
 Advanced Digital Society	5700
 Advocates for Social Change Kenya Data Processor	7167
@@ -47,6 +50,7 @@ Africa's Socio-Economic and Political Landscape The GCI	10848
 Africa. Social and Cultural Studies of Robots and AI	2816
 African Astronomical Society	1735
 African Development Bank's Civil Society	7784
+African Social Economy	10980
 African Space Policy and African Strategy for Social	1814
 African Union Commission The Information Society	10840
 Ag. Head of Information Society Division and Souhila	961
@@ -62,6 +66,8 @@ Airports Sacco Society Limited Data Controller	7167
 Airports Sacco Society Limited Data Processor	7167
 American Journal of Sociology	5349
 American Sociological Review	5349
+Analysis of Civil Society Typologies	11028
+Analyzing Civil Society Actors' Definitions of Digital	11028
 Angola Enhancing the Social Protection System for Human	10768
 Angola's President Signs Repressive Civil Society	9399
 Angola's Strengthening the National Social Protection System	424
@@ -93,6 +99,7 @@ Awa Baldé Societe	4960,62,2035
 Axel Voss and Bulgarian Socialist Kristian Vigenin	8014
 Ação Social Escolar Assistência Técnica Base	10766
 B Programa de Asistencia Social	4209
+B. Sectoral and Institutional Context Social Safety	10964
 BALLOT REGULATED NON WDT COOPERATIVE SOCIETY	7167
 BALOZI CO-OPERATIVE SAVINGS AND CREDIT SOCIETY	7167
 BARATON SAVINGS AND CREDIT CO-OPERATIVE SOCIETY	7167
@@ -111,16 +118,19 @@ BSG Société Security Services Constitution	10821
 BUNGE REGULATED NON-WDT SACCO SOCIETY Data	7167
 BUNISTA SACCO SOCIETY LTD Data Controller	7167
 BUNISTA SACCO SOCIETY LTD Data Processor	7167
+Bangladesh Affordability Social	11004
 Basic Social Protection	10765,10
 Behavioural Factors Viz. Socioeconomic	5349
 Benin Social Safety Nets Program	1197
 Benin Social Safety Nets Program. Finances	1197
 Beyond Future Society for Life	3760
 Bienestar Social	1701,154,2354
+Big Data and Society	11050
 Blocs de Nature de Sociétés Références	998
 Bots Sociais	3519
 Bremen International Graduate School of Social Science	2702
 Build Social Cohesion	6947
+Building Safe and Inclusive DPI for Societies	11006,1
 Building Societies Act	3714
 Building Society	3964
 Bureau RISA Rwanda Information Society Authority	718
@@ -131,6 +141,7 @@ Business While Creating Value for Society	42
 Business and Social Science	2093,5666
 Business and Social Sciences	5349,3780
 C. Environmental and Social	2989
+CALL VIDEO INSTANT SOCIAL MEDIA ONLINE	11004
 CAPITAL SAVINGS AND CREDIT CO-OPERATIVE SOCIETY	7167
 CARACTERISTIQUES SOCIO- DEMOGRAPHIQUES DE LA POPULATION	737
 CARACTERISTIQUES SOCIO-DEMOGRAPHIQUES DE LA POPULATION ET	737
@@ -150,6 +161,7 @@ CO-OPERATIVE SOCIETY LIMITED Data Processor INST-679683EA79D	7167
 COMHIGH SACCO SOCIETY LTD Data Processor	7167
 COMMUNICATION REGULATED NON-WDT SACCO SOCIETY LTD	7167
 CONSTAT D’IMPACT ENVIRONNEMENTAL ET SOCIAL	1005
+CONTEXTE SOCIO ECONOMIQUE	10965
 COOPERATIVE SOCIETY LIMITED Data Controller INST-477912D2F59	7167
 COSMOPOLITAN DEPOSIT TAKING SOCIETY LIMITED Data	7167
 COTIZACIONES SOCIALES	4209
@@ -167,14 +179,17 @@ Cadastro Social Unico	10775,4
 Cadastro Social Unico Gaspar Dos Santos	7882
 Cadastro Socio	10768
 Caisse Malienne de Sécurité Sociale	8103
-Caisse Nationale de Prévoyance Sociale	10087
-Caisse Nationale de Sécurité Sociale	4402,165,422,5823,64
+Caisse Nationale de Prévoyance Sociale	10087,876,1
+Caisse Nationale de Sécurité Sociale	4402,165,422,5823,64,191
 Caisse Nationale de Sécurité Sociale CNSS	737
 Cameroon Economics Society	4325
+Cameroon Estimated Appraisal Date Project Social	10963
+Cameroon's Unified Social Registry	10985
 Capital Social	1701
 Capital and Resilience Project Environmental and Social Risk	10768
 Capital for Social Enterprises Kenya Partners	2269,19,45,14,9,24,65,84,4,11,6,12,38,10,6,3,8,49,4,421,243,278,96,422,265,221,430,282,332,124,146,163,355,164,56,209,176,238,23
 Carousal Moya App SOCIAL MEDIA	8999
+Cases of Civil Society and Indigenous Groups	11028
 Catégorie Socio Professionnelle CSLP	737
 Centenary Sacco Society Limited Data Controller	7167
 Central African Republic SOCATEL	2211
@@ -200,7 +215,7 @@ Chinese Society of Astronautics	9816
 Civil Registration and Social Protection	444
 Civil Registration and Social Protection Systems	444
 Civil Societ	899
-Civil Society	789,110,59,12,30,630,1391,1105,2810,516,1970,395,120,882
+Civil Society	789,110,59,12,30,630,1391,1105,2810,516,1970,395,120,882,209
 Civil Society And Specialist Groups	5677
 Civil Society And Specialist Groups. Cybersecurity	5677
 Civil Society CSA	6936
@@ -210,17 +225,18 @@ Civil Society Demands Human Rights Centered	7552
 Civil Society Dialogue	6963
 Civil Society Engagement Action Plan	7784
 Civil Society Information	7784
+Civil Society Joint Brief	11028
 Civil Society Legislative Advocacy Centre	10093
 Civil Society Leveraging	899
 Civil Society Organisation.5.3. Participants	2626
-Civil Society Organisations	1630,919,2695,2213,2273
+Civil Society Organisations	1630,919,2695,2213,2273,1281
 Civil Society Organisations Civil Society Organisations	5244
 Civil Society Organization DHIS2	10776
 Civil Society Organization DPI Digital Public	7548
-Civil Society Organizations	1778,6155
+Civil Society Organizations	1778,6155,3074
 Civil Society Organizations Financing	7548
 Civil Society Self-coordinating Mechanism	5162
-Civil Society Space	10759,76,2,1
+Civil Society Space	10759,76,2,1,130
 Civil Society Submission	1016
 Civil Society Support	789
 Civil Society The Civil Society	1000
@@ -228,6 +244,8 @@ Civil Society and Community Involvement	3861
 Civil Society and Media Support Organisations	9660
 Civil Society and Non-Governmental Organizations	4528
 Civil Society and Public Interest Litigation	9817
+Civil Society and Who Represents	11028
+Civil Society's Role	11028
 Civil Society-general	970
 Ciências Sociais	414,10366
 Ciências Socias	414
@@ -251,10 +269,12 @@ Compulsory Social Security	2775
 Computer Emergency Response Team SOC Security	1000
 Computer Society of Zimbabwe	4528
 Computing and Sustainable Societies	4439
-Comunicação Social	167,372,653,146,957,70,66,150,32,116,92,316,769,240,1,101,2,1155,137,412,20,5,1,557,48,10,15,7,23,158,97,31,192,122,5,700,363,1,182,52,337,356,21,1,13,815,28,500,158
+Comunicacao Social	11045
+Comunicação Social	167,372,653,146,957,70,66,150,32,116,92,316,769,240,1,101,2,1155,137,412,20,5,1,557,48,10,15,7,23,158,97,31,192,122,5,700,363,1,182,52,337,356,21,1,13,815,28,500,158,273,27
 Comunicação Social Sublinhou	5974
 Comunicação Social. Disse	3906
 Concept Environment and Social Review Summary	1988
+Conceptual Review of Sociotechnical Imaginaries	11028
 Concertação Social	1265
 Concorde Co-operative Savings and Credit Society Limited	7167
 Congo. Société	1299
@@ -290,7 +310,7 @@ Culture and Society	1200
 Cyber SOC Project	4848
 Cyber Security SOC	10721
 Cybersecurity Culture and Society	1000
-D. Environmental and Social	969,295,603,1737,2935,4229
+D. Environmental and Social	969,295,603,1737,2935,4229,196
 D.G. BIENESTAR SOCIAL.- Concepto.-	4209
 D.G. DE ASUNTOS SOCIALES Y ARTESANIA	4209
 D.G. MONITOREO Y PROG. S. SOC.-Concepto	4209
@@ -305,7 +325,7 @@ DIMKES INVESTMENT CO-OPERATIVE SOCIETY LTD Data	7167
 DIRECTOR Director for Social Welfare Services Marcelia	10033
 DISclAIMERS United Nations Department of Economic and Social	10840
 DJOGBENOU Socco LAFIA Le MinisTre	10813
-DSP Digital Society Project V-DEM Varieties	10835,3
+DSP Digital Society Project V-DEM Varieties	10835,3,130
 DTSER Sociedade	3899
 Data Protection and Governance Society of Kenya	5363
 Decentralization and Social Cohesion	10828
@@ -319,9 +339,11 @@ Derechos Sociales	1701
 Desarrollo Sostenible INCLUSIÓN SOCIAL Y PAZ	1701
 Desarrollo Sostenible Sistema Socio-Cultural Eje	1701
 Description Universal Social Protection	1445
+Desenvolvimento Social	11108
 Desenvolvimento da Sociedade de Informação	1251,88,743,734,1596
 Designing Culturally Aligned AI Systems for Social	6948
 Development Health Education Social Protection	10837
+Development Résilience Socio-	10985
 Development and Social Services	1988
 Dg de Société	3988
 Dhamini Sacco Society Ltd Data Controller	7167
@@ -332,6 +354,7 @@ Digital Economy and Society. Research ICT	961
 Digital Geography and Society	8185,1047
 Digital Networks and Society	10764,80
 Digital Social Innovation Grants Enabel	256
+Digital Social Protection Platform	10991
 Digital Society	395,563,5988,2,1403
 Digital Society Industry Growth	958
 Digital Society and Economy	5182
@@ -347,8 +370,11 @@ Diálogo Social	6841
 Donors Support Civil Society	6948
 Dudu Regulated Non-WDT Sacco Society LIMITED	7167
 Dutch Ministry of Social Affairs and Employment	7966
+Dynamic Social Registry	10991
+Développement Rural MINAS Ministère des Affaires Sociales	10965
 Développement Social	8103
 Développement Socioéconomique	10826
+Développement du Social Affairs Cacao	10985
 E COMUNICAÇÃO E DA SOCIEDADE	15
 E&S Environmental and Social EA Environmental Assessment	1988
 E&S Environmental and Social EFA Economic and Financial	1867
@@ -374,17 +400,21 @@ ESMF Environmental and Social Commitment Plan ESPC	3604
 ESMF. The Satellite PMU Environmental and Social	1988
 ESMP Enviornmental and Social Management Plan FA	969
 ESMP Environmental and Social Management Plan ESS	10829
+ESS Environmental and Social Management Framework FM	10964
 EU Health Information and Management Systems Society	1009
 EU's AI Periphery. Digit. Soc	7810
 EU-funded UNESCO Social Media	7709
 EXECUTIVE SUMMARY The Environmental and Social Management	1988
+Early Childhood Development ESMF Environmental and Social	10964
 Ecobank Benin SA Société KTEPLUS IZIGROUP	10821
+Ecology and Society	11006
 Economic and Social Affairs UNESCO United Nations	10759,78
 Economic and Social Commission for Western Asia TRA	5951
 Economic and Social Development SCADD Strategy for Growth	10812
 Economic and Social Recovery Plan. Critics	4063
 Economic and Social Research and Training Centre for Islamic	6203
 Economics Society of Malawi	9341
+Economie Sociale	10964,1,20
 Economists Society of Kenya	7167
 EduGha Institute for Social Development	10067
 Education Social Protection	10759
@@ -394,6 +424,8 @@ Ekuro Aukot and Law Society of Kenya	9645
 El Diálogo Social	1701
 Electricity Consumers Society of Kenya	10313
 Electricity Tariffs Social Tariff	9409
+Electricité SONATREL Société Nationale de Transport	10975
+Electricité SONEL Société Nationale	10975
 Electronic Communications and Information Society Services	3722
 Electronic Governance and Open Society	2096
 Em Sociedade	8491
@@ -404,9 +436,9 @@ Empresa Pública Natureza Jurídica Sociedade Sociedade	10757
 Empresa Pública Sociedade	10757
 Empresa Pública Sociedade Sociedade	10757
 Energy Fund for Africa SEFCA Societe	10841
-Engaging Civil Society Organizations	10714
+Engaging Civil Society Organizations	10714,293
 Entertainment Internet Social Media Take Pics	582
-Environment and Social	969,898,1737,2935,4229,61
+Environment and Social	969,898,1737,2935,4229,61,135
 Environment and Social Commitment Plan	2889,3650,4229
 Environment and Social Framework	2889
 Environment and Social Review Summary	10768
@@ -417,29 +449,30 @@ Environmental And Social Risk Classification Moderate	2291
 Environmental And Social Risk Classification Substantial	1704,1752
 Environmental Social Governance	10043
 Environmental Specialist and Social Specialist	1988
-Environmental and Social	996,268,724,1001,467,7414
+Environmental and Social	996,268,724,1001,467,7414,93
 Environmental and Social Action Plan	1818
 Environmental and Social Assessment	3604
 Environmental and Social Assessment The Environmental Impact	1988
 Environmental and Social Audit	3604
 Environmental and Social Clauses	1988
 Environmental and Social Codes of Practice	1988
-Environmental and Social Commitment Plan	1264,514,89,121,901,100,615,1230,5995
+Environmental and Social Commitment Plan	1264,514,89,121,901,100,615,1230,5995,135
 Environmental and Social Commitment Plan ESF Environmental	1867
 Environmental and Social Commitment Plan These Regulations	1988
-Environmental and Social Framework	1264,724,1616,7164,61
+Environmental and Social Framework	1264,724,1616,7164,61,135
 Environmental and Social Impact Assessment	1988
 Environmental and Social Impact Assessment Regulations	1988
 Environmental and Social Impact Assessment Template	1988
 Environmental and Social Impact Assessments	1867,121,1616,3647
 Environmental and Social Management	1988
-Environmental and Social Management Framework	1867,1589,148,7225
+Environmental and Social Management Framework	1867,1589,148,7225,135
 Environmental and Social Management Plan	1988,901
 Environmental and Social Management Plans	1867,121,1616
 Environmental and Social Measures	10829
 Environmental and Social Policy	1818
 Environmental and Social Requirements	1988
 Environmental and Social Review Summary	1260,30,4330,1736
+Environmental and Social Review Summary FNE Environmental	10964
 Environmental and Social Risk	1988
 Environmental and Social Risk Classification	3562,42
 Environmental and Social Risk Management	1988,1468
@@ -461,25 +494,28 @@ Environmental and Social Specialist	1988
 Environmental and Social Specialists	1988
 Environmental and Social Specialists Part D	1988
 Environmental and Social Standard	1988
-Environmental and Social Standards	1988,1468,148,7225
+Environmental and Social Standards	1988,1468,148,7225,135
 Environmental and Social Standards EU European Union	10829
-Environmental and Social Standards Relevance Given	10829
+Environmental and Social Standards Relevance Given	10829,135
 Environmental and Social Systems DLI	10870
 Environnemental Société	8891
 Equal Civil Liberties Equal Socioeconomic Opportunity	10837
-Equal Socioeconomic Opportunity	10759,76,2,1
+Equal Socioeconomic Opportunity	10759,76,2,1,130
 Equal Socioeconomic Opportunity Sustainable Use of Land	10838
 Equatorial Guinea's Ministry of Health and Social Welfare	1018
 Equipamento Social	10754
 Equipment and Social Housing	1284
 Eskom Holdings SOC Ltd	2307
+Estonian Society for Laboratory Medicine	11006
+Estonian Society of Family Doctors	11006
 Ethiopian Socio-economic Survey Data. Journal of Business	8671
 Eurasia Proceedings of Educational and Social Sciences	6948
 Europe. European Societies	7886
 European AI and Society Fund	6487,392
 European Digital Identity Wallet Xcelerate and Socure	2521,659,249,939,974,1524,210,294
 European Economic and Social Committee	7821
-European Politics and Society	7886
+European Politics and Society	7886,3164
+Evaluating Civil Society's Role	11028
 Evaluation MASFAMU Ministry of Social Action	10768
 Expanding Social Protection	3005
 Expanding Social Protection Program	3005
@@ -495,12 +531,14 @@ FairPlanet Social Enterprise	8943
 Feb-2027 Environmental and Social Risk Classification	2473
 Federal Ministry of Health and Social Welfare	7454
 Fields Social Sciences	1154
+Figure A.1. Social	10985
 Filets Sociaux CI	2713
 Financiamento Ciências Socias	414
 Forum Social	9409
 Framework ESMF Environmental and Social Management Framework	10829
 Framework for Adaptive Social Protection	10763
 Framing Adaptive Social Safety Nets	10763
+Framing Social Protection and Labor Policies	10985
 Free Society	2096
 French Société Générale	10929
 Fund Society	7548
@@ -548,6 +586,7 @@ Health Soc Care Community	1219
 Health and Social	10865
 Health and Social Welfare	5141
 Health and Socio-	8604
+Hegemony and Socialist Strategy	11028
 Helton Chigamane Sociado Huo	2989
 High Environment and Social	4688,2240,949
 Honourable Minister of State for Health and Social Welfare	7895
@@ -625,6 +664,7 @@ Int J Sociotechnology Knowl Dev. Jul	10919
 Integrated Information System for Social Protection	10775
 Integrated Social Action Centers	10768,7
 Integrated Social Action Information and Management System	10775
+Integrated Social Protection Information System	10991
 Inter-sectoral Steering Committee for Social Action	10768
 Interbank Society of Mozambique	5258,557
 International Journal of Social Science and Human Research	7759
@@ -663,6 +703,7 @@ JURÍDICOS INNOVACIÓN SOCIAL BIOKO SUR ANNOBON	4209
 Jobs and Social Protection for Just Transitions	9873
 Journal of Business and Social Review	5349
 Journal of Historical Sociology	2096
+Journal of Social Policy	10985
 Journal of Social Research	7278
 Journalist Social	7581
 Jul-2022 Environmental and Social Risk Classification	4653
@@ -705,8 +746,11 @@ Law Society	4753,2525
 Law Society of Kenya	4801,1430,715,2699,398
 Law Society of South Africa	7278
 Le Registre Social Unique	10910
+Le Social Performance Task Force	10965
 Lead Social Protection Specialist	10763
 Lectures47 Commentaires Societe	4960,62
+Legal Identity and Social Cohesion Project	10989
+Leverage Social Safety Nets	10964
 Limpopo Department of Social Development	8018
 Livelihood Restoration Plan Satellite Social Specialist	1988
 Local Server Local Server Social Security	10775
@@ -723,6 +767,7 @@ MCE Social Capital	10464
 MDR and SOC	4084
 MEDICINA CRONICAS NO SOCIAL PATRIMONIO	4209
 MGDR-2016-01-02-03 Law Society of South Africa	7278
+MINAS Ministère des Affaires Sociales	10964
 MINIMUM REQUIREMENTS BY CLASS OF SOCIETIES	7845
 MINISTERE DE L’ACTION SOCIALE	2966
 MINISTERIO DE SANIDAD Y BIENESTAR SOCIAL	4209
@@ -758,6 +803,7 @@ Minister of Health and Social Services	4940
 Minister of Human Resources and Social Development Moatasim	8613
 Minister of Labour and Social Security	4192
 Minister of Social Action	10763
+Minister of Social Affairs	10971
 Minister of Social Affairs and High Committee	3073
 Minister of Social Development	2307,1295,1031,34,1555
 Minister of Social Development and Others	2307
@@ -775,22 +821,25 @@ Ministry of Gender and Social Welfare	3584
 Ministry of Health and Social Services	1188,3752,3309,1236,179,813
 Ministry of Health and Social Welfare	1018,243
 Ministry of Labor and Social Affairs	5172
+Ministry of Labor and Social Security	10964
 Ministry of Labour and Social	1988
 Ministry of Labour and Social Security	6273
 Ministry of Labour and Social Welfare for PWDs Regulatory	940
+Ministry of Protection Sociale des Public Health	10985
 Ministry of Social Action	10765,3,7,1
 Ministry of Social Action and National Solidarity	10812
-Ministry of Social Affairs	1828,9001,12
+Ministry of Social Affairs	1828,9001,12,122,1,6,15,21
 Ministry of Social Affairs and Inclusion	3500
 Ministry of Social Solidarity	2955
 Ministry of State for Social Action	10763
-Ministère des Affaires Sociales	3351,7470,48
+Ministère des Affaires Sociales	3351,7470,48,95
 Ministério da Acção Social	7882,2872,9,2,3,7
 Ministério da Comunicação Social	7527
 Mobile Network Operators Malawi National Social	10763
 Mobile-First Society	4528
 Moderate Environment and Social	10870
 Moderate. Social	10768
+Mondays Social	11083
 Monitoring of Environmental and Social Indicators	1988
 Moroccan Society for Electronic Services	4995
 Morocco Second Identity and Targeting for Social Protection	1571,421
@@ -808,6 +857,7 @@ N COOPERATIVE SAVINGS AND CREDIT SOCIETY	7167
 NCC Gender and Social	1777
 Nacional da Sociedade Civil	10750
 Namibia Chapter Internet Society	7628
+National Agency for Economic and Social Inclusion	10991
 National Building Society	3025
 National Center for Social Security	10812
 National Economic and Social Development Board	5096
@@ -821,11 +871,16 @@ National Plan for Economic and Social Development	10812
 National Security Service SOC	1200
 National Social Action Policy	10763,5
 National Social Insurance Authority	4944
+National Social Protection Policy	10963,1,7,14
 National Social Protection Policy Framework	3583
-National Social Protection Strategy	4427,6439
+National Social Protection Strategy	4427,6439,98
 National Social Protection Strategy II. Lesotho	5274
 National Social Protection System Project	973
 National Social Register	10093
+National Social Registry	10964
+National Social Registry MIS	10964
+National Social Registry. MIS	10964
+National Social Registry. Percentage	10964
 National Social Safety Nets Coordinating Office	4794
 National Social Safety Nets Project	10093
 National Social Security Authority	1154
@@ -857,6 +912,8 @@ O Observatório da Sociedade da Informação	15
 ONSA PUE SBG SGCGC SLA SOC	10157
 Objecto Social	10753
 Observatório da Sociedade da Informação	15
+Official Use Only Social Assistance Program	10985
+Official Use Only Social Protection	10985
 Open Data PRIVACY Social Media	9937
 Open Society	5700
 Open Society Foundation	8436
@@ -874,26 +931,35 @@ Oxford AI Societ	6410
 P176459 Environmental and Social Risk Classification	1228
 P180059 Financing Instrument Environmental and Social Risk	3604
 PAYTHEGRANTS Second Applicant and MINISTER OF SOCIAL	2307
+PFS The Projet Filets Sociaux	10985
 PIU Social Specialist Financial Finalized FY25	2989
 PIU's Environmental and Social	2989
 PMU Environmental Specialist and Social Specialist	1988
+PNPS and SND30. Social	10964
 POTENTIAL ENVIRONMENTAL AND SOCIAL RISKS	1988
 POV Pauvreté SFI Société	7655
+PPSD Politique Nationale de Protection Sociale	10964
 PROTECTION SOCIALE	5478
 PROVINCIAL KIE- PROVINCIAL PROVINCIAL ANÁLISIS SOCIO-	4209
 PS Social Protection Joseph Motari	2457
 PS for Social Protection Joseph Motari	2457
 PSK Pharmaceutical Society of Kenya QMS Quality	9855
 Pakistan Journal of Life and Social Sciences	7759
+Pakistan Literacy and Social	11004
 Partnership Framework CSU Single Social Registry	10768
+Pathways for Social Cohesion	10964
 Paz Social	1252,1,1,1,693,137,1,1,1,2327,1,1,1
 Peace and Security Social and Economic Inclusion	2775
 Per Environmental and Social Standard ESS10	1778
+Personnes Socialement	10985
 Pertussis E&S Environmental and Social ESCP Environmental	10829
 Pharmaceutical Society of Kenya	9855
 Plan ESF Environmental and Social Framework	1264
+Plan ESRS Environmental and Social Framework	10964
 Plano Estratégico da Sociedade de Informação	2816
 Platform Digital Infrastructure for Social Science	8436
+Platform Governance and Civil Society Organisations	11028
+Politique Nationale de Protection Sociale	10963,1
 Politique Politique Procès Khalifa Sall Société	9890
 Politique Santé Société Galeries	4895
 Politique Santé Société Galeries Photos Vidéos	4895
@@ -914,13 +980,14 @@ Programa de Garantías Sociales Públicas	4209
 Programa deFortalecimento da Protecção Social	7882
 Programas de Protecção Social	7882
 Programme Management for Digital Society and Economy	5182
+Programme Spécial Social Security	10985
 Programme The Internet Society	10244
 Programme de Filets de Protection Sociale Productifs	10869
 Project ID Financing Instrument Environmental and Social	10829
 Project SESA Strategic Environmental and Social Assessment	2889
 Project's Appraisal Environmental and Social Review Summary	3562
-Project’s Appraisal Environmental and Social Review Summary	1284,583,1737,2935,4229,61
-Projet Filets Sociaux	9744
+Project’s Appraisal Environmental and Social Review Summary	1284,583,1737,2935,4229,61,135
+Projet Filets Sociaux	9744,1219,1,21
 Promoting Justice and Social Equality	2958
 Promotion Social CSP	737
 Promotion Sociale	10812,69
@@ -933,15 +1000,19 @@ Protection Sociale Disponibilité	3396
 Protecção Social	4075,6693
 Proyecto de Sociedad Civil	4209
 Prévoyance Sociale	568
+Prévoyance Sociale Reforms	10985
+Public Disclosure Authorized SOCIAL PROTECTION	10985
+Public Disclosure Authorized Social Protection and Jobs	10964
 Public Perception of Education Provision Social Protection	10759
-Public Perception of Social Protection	10759,76,2,1
+Public Perception of Social Protection	10759,76,2,1,130
 Public Trust and Social Acceptance Trust Building	4528
 RAXIO DATA CENTRE SARL SOCIÉTÉ	1005
 REFORMA ADMINISTRATIVA Y SEGURIDAD SOCIAL	4209
 REFORMA ADMTIVA Y SEGURIDAD SOCIAL. Servicio	4209
 REGULAMENTO DO CADASTRO SOCIAL	10754
 Radical Earth Movement. Social Policy	2518
-Realizing the Full Potential of Social Safety Nets	10768
+Reach the Poor and Beyond. State of Social Protection	10985
+Realizing the Full Potential of Social Safety Nets	10768,196,21
 Rebeuss Societe	4960,62,2035
 Recurrent Awareness Campaigns. Society	1777
 Redes Sociais	2816
@@ -951,7 +1022,9 @@ Regime Geral de Segurança Social	167
 Regional Social Cohesion Project	7426
 Register of Societies	1988
 Registrar of Societies	1988
+Registre Social Unifie du Cameroun	10971
 Registre Social Unifié	2107
+Registre Social Unifié du Cameroun	10985
 Registre Social Unique	2713,787,7366,16,28,17,11
 Regulatory Authority TFS The Future Society	1204
 Reinserção Social S N	6530
@@ -971,6 +1044,7 @@ Responsible Use of Social Media	10134
 Review of Social Economy	7886
 Risk Category Socio-Ethical Risks Geopolitical	4528
 Robotics and Artificial Intelligence Society Bill	4734
+Role of Civil Society	11028
 Role of Civil Society Civil	4528
 Role of Nafeer and Social Networks	6947
 Rubavu Societe Petroliere Bugesera Standard Gas	718
@@ -982,9 +1056,11 @@ Rwanda Social Security Board	8838
 Rwandan Society Press	3256
 Rwandan Society Tshisekedi Accepts National Dialogue	3245
 Régimen de Seguridad Social	4209
+Réinsertion Socio- and Civic	10985
 SA Social Security Agency	6222
 SAFETY SOCIAL PROTECTION Rank	10838
 SANTE ET DU DEVELOPPEMENT SOCIAL Président	8237
+SBMG. Monitoring Social Performance Management Monitoring	10967
 SDGs Sustainable Development Goals SRHD Social	970
 SECTOR SOCIAL	4209
 SECURITE SOCIALE	3381
@@ -993,7 +1069,9 @@ SECÇÃO II PRESTAÇÕES SOCIAIS	752
 SECÇÃO II PRESTAÇÕES SOCIAIS Artigo	752
 SEIAS Social Economic Impact Assessment System	5533
 SERVIÇOS DA SOCIEDADE DA INFORMAÇÃO TÍTULO	15
+SMEs and Social Economy Actors	10980
 SMS Senior Management Service SOC Security	5533
+SND30. Social	10963
 SOC Ltd	3714
 SOC and CERT	1264
 SOC and CSIRT	1432,657,2321,9
@@ -1005,13 +1083,15 @@ SOC. Challenges	3840
 SOCAPOST	4874
 SOCATEL	173,1764,76,198,1389,424,850,2547,1857
 SOCATEL. Cette	7421
+SOCCA	10965
 SOCIAL CONTRACT AND INNOVATION ECONOMY	961
 SOCIAL Environmental	2473,2180
 SOCIAL IMPACTS Identify	1988
 SOCIAL MANAGEMENT FRAMEWORK	1988
 SOCIAL MEDIA INFLLUENCERS	8999
 SOCIAL MILITAR MILITAR MUTILADO NACIONAL MILITAR	4209
-SOCIAL PROTECTION	10759,76,2,1
+SOCIAL PROTECTION	10759,76,2,1,130
+SOCIAL PROTECTION SUSTAINABLE ENVIRONMENT	10968
 SOCIAL SCENE Chapter	2775
 SOCIAL SCREENING FORM FOR REHABILITATION	1988
 SOCIAL SCREENING FORM Filled	1988
@@ -1024,6 +1104,7 @@ SOCIEDAD PROCESOS CUENTAS GRAL. DE REG	4209
 SOCIEDADE CIVIL E ACADEMIA	2816
 SOCIEDADE DA INFORMAÇÃO CAPÍTULO I PRINCÍPIOS	15
 SOCIEDADES OPERADORAS DE SISTEMAS	10755
+SOCIETE	11123
 SOCIETE BURKINABE DES FIBRES TEXTILES	7670
 SOCIETE DE RECHERCHE MINIERE N	998
 SOCIETE DES MIN ES SMD	2342
@@ -1034,6 +1115,7 @@ SOCIETY	2096,6772,1,122
 SOCIETY LIMITED Data Controller INST-274553D7C0F EMBU	7167
 SOCIETY LIMITED Data Controller INST-522236DC30F NAIROBI	7167
 SOCIETY LIMITED Data Processor INST-522236DC30F NAIROBI	7167
+SOCIETY NMB PEOPLE'S OWN SAVINGS BANK	11002
 SOCIETY&volume	2096
 SOCIO-POLITICS AND ECONOMICS	1161
 SOCIO-POLITICS AND ECONOMICS OBJECTIVE	1161
@@ -1067,6 +1149,7 @@ SP Social Protection SSA Sub-Saharan Africa	10768
 STABILITE SOCIO-POLITIQUE	10906
 Sacco Societies Regulatory Authority	6938
 Sacco Societies Regulatory Authority SBR Statistical	2775
+Safety and Safety and Social	11004
 Sahel Adaptive Social Protection Program	10866
 Santé Assistance Afrique Société Teint Lumineux	10821
 Sasa Lifestyle Technology Entertainment Society Fashion	9646
@@ -1078,6 +1161,7 @@ School Institution University of Zimbabwe Internet Society	1154
 School for Social Service Technicians	10768
 School of Humanities and Social Sciences	10780
 Sector Social	4209
+Sectoral and Institutional Context Social Safety Nets	10963
 Security Public Perception of Social Protection	10837
 Segurança Social	167,3352,556,1646,5032,1
 Segurança Social Luanda	4075
@@ -1125,23 +1209,25 @@ Sochi	4127,165
 Soci-t- G-n-rale Paris	10718
 Socia Number	1644
 Sociais. O EIASS	6269
-Social	12,5,209,169,162,383,30,35,256,2,1,358,1,2,1,1,1,58,15,77,36,14,39,77,44,319,35,48,28,23,41,1,1,1,2,1,1,2,2,2,1,1,1,6,1,1,12,371,69,31,295,33,287,304,1,1,2,5,1,1,1,49,160,21,50,9,221,9,89,132,27,487,304,55,122,45,514,55,189,81,209,95,308,53,344,33,21,4,181,67,2,30,69,120,60,241,91,343,81,33,148,56,52,28,129,279,148,60,193,199,29,208,143,129,1,3,22,2,10,2,3,7,4,33,7,10,12,5,13,81
+Social	12,5,209,169,162,383,30,35,256,2,1,358,1,2,1,1,1,58,15,77,36,14,39,77,44,319,35,48,28,23,41,1,1,1,2,1,1,2,2,2,1,1,1,6,1,1,12,371,69,31,295,33,287,304,1,1,2,5,1,1,1,49,160,21,50,9,221,9,89,132,27,487,304,55,122,45,514,55,189,81,209,95,308,53,344,33,21,4,181,67,2,30,69,120,60,241,91,343,81,33,148,56,52,28,129,279,148,60,193,199,29,208,143,129,1,3,22,2,10,2,3,7,4,33,7,10,12,5,13,81,23,1,13,3,5,21,1
 Social Action	10763,5,7
 Social Action Fund	10775
 Social Action Grant for Elderly	2928
 Social Action Management Information System	10768
-Social Affairs Minister	3073
+Social Affairs Minister	3073,7898
 Social Agenda Guinea Ecuatorial	1701
 Social Alliances Gender Eradication of Recovery Well-being	970
 Social Analysis	1228
 Social And Demographic Statistics	1761,1383,3772
 Social Assessment	2473,2180
-Social Assistance	2307
+Social Assistance	2307,8678
 Social Assistance Act	2307,8032
 Social Assistance Act. SASSA	6222
+Social Assistance Expenditure	10985
 Social Assistance Grants for Empowerment	3005,567
 Social Assistance MIS and Linking Social Protection	10822
 Social Assistance Programme	3602
+Social Assistance Social Insurance Q5	10985
 Social Assistance. Patient Monitoring	10775
 Social Audit	1988
 Social Basic Health	970
@@ -1178,6 +1264,14 @@ Social Development. Once	2307
 Social Dimension	5676
 Social EAC East Africa Community EARDIP	1264
 Social Economic Transformation	1867
+Social Economy	10964,16
+Social Economy Organisations	10980
+Social Economy Organisations and Craftspeople	10980
+Social Economy and Crafts	10985
+Social Economy and Handicrafts	10963,22
+Social Economy and Handicrafts General	10980
+Social Economy and Handicrafts VSE National Development	10980
+Social Economy and SEO Handicrafts SE Social	10980
 Social Evaluation	1284
 Social Exclusion	1988,8738
 Social FCT	4302
@@ -1193,6 +1287,7 @@ Social Health Authority and Human Resources for Health	4153
 Social Health Insurance Act	8934
 Social Health Insurance Fund	3393
 Social Health Insurance Fund and Affordable Housing	5684
+Social Imaginaries of Data Activism	11028
 Social Impact	1988,2364,3196
 Social Impact Assessment	10829
 Social Impact Fund	9431
@@ -1203,15 +1298,19 @@ Social Information Number	10765,10
 Social Infrastructure	970
 Social Innovation Index	10421
 Social Insurance	10785
+Social Insurance Labor Market Social Assistance	10985
 Social Integration. Briefing the Secretary General	9469
 Social Justice News Reporter Special Investigative	7936
+Social Licence	11006,1
+Social License	11006
+Social License for Technology	11007
 Social Loan	2214
 Social Loan. Includes	3984
 Social Logic of Space	5700
 Social Management	2518
 Social Management Plan ESMS Environmental and Social	1988
 Social Management Plan ESO Entrepreneurship Support	1264
-Social Media	7420,38,1002,1533
+Social Media	7420,38,1002,1533,1035
 Social Media Charter	10341
 Social Media Fake Police Superintendent Accused	7312
 Social Media Join	7343
@@ -1230,21 +1329,31 @@ Social Outlook Trends	2775
 Social PEPP Plan	10876
 Social PNDES	737
 Social PNSAN Politique Nationale de Nutrition PPBA	643
+Social Performance Management	10967
+Social Performance Task Force	10965
 Social Policy	9349
 Social Policy Options	2307
-Social Protection	970,1578,227,787,42,3944,3211,4,2,3,7,60,2,1
+Social Protection	970,1578,227,787,42,3944,3211,4,2,3,7,60,2,1,126,4,17
 Social Protection Act	10775
+Social Protection Assessment Resource Kit for Systems	10991
 Social Protection Basic Social Protection Basic	10775
 Social Protection Consultant	10763
+Social Protection Discussion Paper Series	10985
+Social Protection Expenditure	10985
 Social Protection Law	2508
+Social Protection Reforms Unit. Rwanda	10991
 Social Protection Specialist	10763
+Social Protection Strategy	10963,1
 Social Protection Stress Test Tool United	10763
 Social Protection System PforR	742
 Social Protection System Program-for-Results	734,8
 Social Protection System for Human Capital and Resilience	10768
 Social Protection and Jobs	10763
 Social Protection and Jobs Global Practice Eastern	10768
+Social Protection and Jobs Policy and Technical Note	10985
 Social Protection and Jobs Responses	10763
+Social Protection and Labor	10964
+Social Protection and Labor Social Safety Net	10964
 Social R	10847
 Social Recovery and Human	970
 Social Recovery and Human Development	970
@@ -1256,24 +1365,27 @@ Social Registries for Social Assistance and Beyond	10819
 Social Registry	1992,840,8034
 Social Registry Information System	1687
 Social Registry Information System SRIS	1687
+Social Registry WBG World Bank Group	10964
+Social Regular	10964
 Social Relevance	1988
 Social Relief of Distress	2307,2486,2039,1078,1979,450
 Social Risk	1988
+Social Risk Classification P175363 Substantial Investment	10964
 Social Risk Classification Road Fund	1228
 Social Risk Rating	6539
 Social Risks Classification	1988
-Social Risks and Impacts Relevant Stakeholder Engagement	1284,9545
-Social Safeguards Specialist	1228
-Social Safety Net	10812,54
-Social Safety Net Project	10866
+Social Risks and Impacts Relevant Stakeholder Engagement	1284,9545,135
+Social Safeguards Specialist	1228,9869
+Social Safety Net	10812,54,119
+Social Safety Net Project	10866,97
 Social Safety Net The Social Safety	10812
-Social Safety Nets	3604,7155,76,2,1
+Social Safety Nets	3604,7155,76,2,1,130
 Social Safety Nets Poverty Reduction Policies	10837
 Social Safety Register	4794
 Social Science	2518
 Social Science Research Network	961
 Social Science and Humanities	9616
-Social Sciences	1554,6205,127,490,1733
+Social Sciences	1554,6205,127,490,1733,941
 Social Sciences and Humanities	8436
 Social Screening for Local	1988
 Social Security	2307,2303,1848,480,1831,2006,37
@@ -1290,9 +1402,12 @@ Social Simplificado	6269
 Social Social Protection	970
 Social Social Services Services	970
 Social Solidarity	9414,968
+Social Solidarity Economy	10980
 Social Solidarity Minister	4944
 Social Specialist	1284,704
 Social Specialists	1988
+Social Standards GBV Financial Management GDP	10964
+Social Studies of Science	11028
 Social Support Fund	973,9795
 Social Sustainability and Inclusion Extractives	1867
 Social Systems Ministry of Completion NA Economy	10870
@@ -1303,6 +1418,7 @@ Social Value of Shared Resources	5700
 Social Watch Bénin	6750,1413
 Social Web	8605
 Social Welfare	3583,718,1,1555
+Social Welfare Information System	10991
 Social Welfare Officers	5999,393
 Social Welfare and U.S. Government	4301
 Social Work	10826
@@ -1328,7 +1444,9 @@ Social and Labour Plans	6683
 Social and Manochi	9857
 Social and Meltwater. Time-varying	1622
 Social and Political Sectors	9707
+Social and Political Theory. Routledge	11028
 Social and Poverty	10779
+Social la Fonction Publique Public Service	10985
 Social-Startups Support Environment	2218
 Social-media	2499
 Social-spending-to-GDP	1828
@@ -1346,8 +1464,10 @@ Sociales ODD Objectifs de Développement Durable OHADA	10876
 Socialisation	5533
 Socialisme	8891
 Socialización ENDS	4209
+Socially Vulnerable Persons	10963,8
 Socialnetlink	7419,3281
 Sociaux	8891
+Sociaux Ministry	10985
 Sociedad	1701
 Sociedad Civil	1701
 Sociedad El Instituto Nacional de Administración Pública	9524
@@ -1383,14 +1503,16 @@ Sociedades Petroleras	4209
 Sociedades Pluri-pessoal	10753
 Sociedades Prestadoras de Serviços de Pagamento	10755
 Societ	10841
-Societal	1814,1134
+Societal	1814,1134,8058,22
+Societal Balance Second	11028
 Societal Change and Development. Paris	6832
 Societe	6838
 Societe Absolute	4960,62,2035
 Societe Petroliere Kanombe	718
 Societies and Education	6832
-Society	226,169,285,100,119,878,316,3,422,1264,471,423,548,125,15,1566,956,237,7,330,10,394,55,148,154,143,35,193,228,205,701,93
+Society	226,169,285,100,119,878,316,3,422,1264,471,423,548,125,15,1566,956,237,7,330,10,394,55,148,154,143,35,193,228,205,701,93,209,22
 Society Division and Ms. Souhila Amazouz	1243
+Society Yaounde	10971
 Society for Learning Analytics Research	9128
 Society for The Empowerment of People-STEP	9082
 Society for Worldwide Interbank Financial Telecommunication	10026,62
@@ -1401,25 +1523,27 @@ Socio Economic	1988
 Socio Economic Profile. M’mbelwa District Council	3791
 Socio-Demographic Conversion Factors	10726
 Socio-Economic Impact Main Article Content Abstract	8671
+Socio-Economic Inclusion of Youth	10963
 Socio-Economic Research and Development Centre	10270
-Socio-Economic Rights and Accountability Project	7458
+Socio-Economic Rights and Accountability Project	7458,3642
 Socio-Ethical Risks	4528
 Socio-Political Shifts	8629
+Socio-Technical Imaginaries of Digital Personal Data	11028
 Socio-demographic	1219,6667,2840,144
 Socio-economic	8629,42,945,446
 Socio-economic Environment	1988
 Socio-economic Unstable Emigration	1940
-Socio-technical	7278
+Socio-technical	7278,3772
 Sociocultural Transitions and Developmental Impacts	226
 Sociodemographic	3791
 Socioecon	5242
 Socioecon Challenges	5242
-Socioeconomic	1867,73,8872
-Socioeconomic Inequality Mitigation	10759,76,2,1
+Socioeconomic	1867,73,8872,157
+Socioeconomic Inequality Mitigation	10759,76,2,1,130
 Socioeconomic Inequality Mitigation Decent Housing Food	10837
 Socioeconomic Living Conditions of Refugees	10841
-Socioeconomic Opportunity for Women	10759,76,2,1
-Socioeconomic Opportunity for Women Anti-Corruption	10835,3
+Socioeconomic Opportunity for Women	10759,76,2,1,130
+Socioeconomic Opportunity for Women Anti-Corruption	10835,3,130
 Socioeconomic Profiling of Sundaneses	10841
 Socioeconomic Survey Report	1867
 Sociologia	414
@@ -1429,11 +1553,16 @@ Sociology	226
 Sociology&volume	2096
 Sociomaterial	7966
 Sociomateriality	7966
+Sociopolitical	11006
 Socios	1701
 Socios Económicos	1701
 Socios Téc	4209
-Sociotechnical	7790
-Société	643,544,112,277,766,57,115,341,336,150,15,39,1,248,16,17,311,414,165,148,291,485,207,61,118,701,381,198,26,91,125,271,7,316,6,270,52,15,337,45,37,53,70,322,87,55,326,180,62,801,110,54,28
+Sociotechnical	7790,3238,22
+Sociotechnical Imaginaries	11028
+Sociotechnical Imaginaries and Civil Society	11028
+Sociotechnical Imaginaries and Nuclear Power	11028
+Sociotechnical Imaginaries and Public Communication	11028
+Société	643,544,112,277,766,57,115,341,336,150,15,39,1,248,16,17,311,414,165,148,291,485,207,61,118,701,381,198,26,91,125,271,7,316,6,270,52,15,337,45,37,53,70,322,87,55,326,180,62,801,110,54,28,177,19,24
 Société AIAL	2300
 Société AIAL Group Limited	2300
 Société ASD Market Traitement	10821
@@ -1442,6 +1571,7 @@ Société Atral SA	10821
 Société Atral SA Traitement	10821
 Société Autres	10875
 Société B2GOLD MALI RESOURCES SARL	9287,55
+Société Berkeley Energy	10975
 Société Bénin Control Traitement	10821
 Société Béninoise	87,7125
 Société Béninoise de Boissons Rafraichissantes	7212
@@ -1450,6 +1580,7 @@ Société CGC	3868
 Société Civile	7168,3658,97
 Société Civile PAARIB Projet	10712
 Société Civile PAE Plan	10876
+Société Commerciale de Banque	10965
 Société Comores Informatique Service	3868
 Société Congolaise des Postes	6438
 Société Côte	7806
@@ -1462,6 +1593,7 @@ Société Guinée	9844
 Société Générale	2242,63,8162,191
 Société Générale Bank	10161
 Société Générale Bénin	3361,7460
+Société Générale Cameroun	10965,15
 Société Générale Côte	10344
 Société Générale Group	1828
 Société Générale Paris	10821
@@ -1474,6 +1606,7 @@ Société Générale des TIC Traitement	10821
 Société Générale des Télégraphes Sous-Marins	4676
 Société Impact Palmares R&D SAS	6119
 Société Islamique	2342
+Société Islamique de Développement Selon le CNEF	10965
 Société Ivoirienne	3380
 Société Ivoirienne Raffinage	2342
 Société Ivoirienne de Gestion du Patrimoine Ferroviaire	2342
@@ -1487,9 +1620,11 @@ Société Malienne de Transmission	7999
 Société Mauritanienne	1993
 Société Minière	2342
 Société Monétique Tunisie	6103
-Société Nationale	2732
+Société Nationale	2732,8233
 Société Nationale de Développement Informatique	2342,1262,51,34
+Société Nationale de Transport	10975
 Société Nationale des Eaux du Bénin	7212
+Société Nationale des Hydrocarbures	10997
 Société Nationale des Pétroles du Congo	1828,1363
 Société Nigérienne des Télécommunications	35,9531
 Société Non	10875
@@ -1504,7 +1639,9 @@ Société de Financement	10821
 Société de Garantie	7891
 Société de Garantie du Gabon	7268
 Société de Gestion	4887,5645
+Société de Recouvrement des Créances	10965
 Société des Huileries du Bénin	10821
+Société des Opérations Foncières Immobilières du Cameroun	10987
 Société des Textiles du Mali	8237
 Société des Transports Abidjanais	2342
 Société des Télécommunications du Tchad	556
@@ -1534,6 +1671,7 @@ Studies School of Technology and Social Sciences Dept	10123
 Subsector Social	4209
 Substantial Environment and Social	1284,1428,3867
 Sudan Social Development Organization	6947
+Summary of Assessment of Environmental and Social Risks	10963
 Supervisory Authority of Insurance and Social Welfare	5921
 Supporting Environment for Social Startups	3054
 Sustainable Cities and Society	8603
@@ -1547,10 +1685,12 @@ Sécurité Sociale	5103,5709
 Sécurité Sociale M. Dahoud Ouedraogo Direction	10812
 TBD Social Recovery and Human Development	970
 TECNOLOGIAS DE INFORMAÇÃO E COMUNICAÇÃO SOCIAL	3519
+TEG Société Camerounaise	10965
 TFS The Future Society UMaT University	4126
 TV Radio Social Media News Squeeze	8999
 Tanzania Social Action Fund	136
 Tanzania. Soc Sci Med	1219
+Taxes Grants Social	10997
 Technium Social Sciences Journal	9129
 Technological Forecasting and Social Change	226,4206,917,1929,1850,1590
 Technological and Socioeconomic Rationale	3861
@@ -1581,17 +1721,23 @@ Uganda Law Society President Isaac K	8470
 Uganda’s Ministry of Gender and Social Development	10822
 Under the Human and Social Capital Development	9959
 Under the Social Assistance Act	7581,886
+Understanding the Social Licence	11006
 Understanding the Socioeconomic Conditions of Refugees	10841
 Unified Social Register	10765,10
-Unified Social Registry	1571,421,1081,1354,6338,10
+Unified Social Registry	1571,421,1081,1354,6338,10,188,1,27
+Unified Social Registry Communal	10964
+Unified Social Registry US	971
+Unified Social Registry of Cameroon	10971,14
+Unified Social Registry. Algeria	10991
 Union Socialiste des Forces Populaires	8891
 Unique Social Register	1828
 Unique Social Register. Diário da República	10775
 Unique Social Registry	3500
-United Nations Department of Economic and Social Affairs	2510,8084,120,51,10,60,3,18
+United Nations Department of Economic and Social Affairs	2510,8084,120,51,10,60,3,18,112,36
 United Nations Economic and Social	10840
 United Nations Economic and Social Commission for Western	4492,2736
 Universal Social Protection	1445,3
+University of Social Sciences	11017
 Upper Middle Income Society	940
 Upper Middle-Income Society	1154,400
 Use of Borrower's Environmental and Social Framework	1988
@@ -1601,10 +1747,12 @@ Validé Acceptée Société de Recherche Minière SRM	998
 Valores Centrais Socialistas	2816
 Var Sociétés	2342
 Varios Asuntos Sociales	4209
+Visa Social Impact	10977
 Véhicules de Tourisme des Sociétés	6954
 WELFARE Social Safety Nets	10759,78
 WESTERN CAPE STANDING COMMITTEE ON SOCIAL	8999
-WOMEN'S EQUALITY Public Perception of Social Protection	10835,3
+WOMEN'S EQUALITY Public Perception of Social Protection	10835,3,130
+Wake-Up Call for Social Assistance	10985
 Water Biodiversity Protection Social Protection	10837
 Weekly Organic Posts Promoted Social Media	8999
 Wildlife Conservation Society	10276
@@ -1617,14 +1765,18 @@ World Bank Environmental and Social Standards	1988
 World Bank Environmental and Social Standards Description	1988
 World Bank Practice Manager for Social Sustainability	1778
 World Bank Senior Social Development Specialist	1901
+World Bank's Atlas of Social Protection Indicators	10985
 World Bank's Environment and Social Framework	1778
 World Bank's Environmental and Social Standards	1988
 World Bank's Environmental and Social Standards and Burkina	7251
+World Bank-financed Social Safety Net Project	10964
+World Bank-supported Social Safety Net Project	10963
 World Telecommunication and Information Society Day	6168,151
 World Telecommunications and Information Society Day	6152,168
 Wrong With Social Theory	5349
 Y SOCIAL	4209
 Y SOCIAL Cuentas CONCEPTO	4209
+Yearly Social Regular	10964
 Yildiz Social Science Review	2093
 Youth and Social Development	1371,1298,4026
 Youth and Social Development Pitso Lesaoana	6695

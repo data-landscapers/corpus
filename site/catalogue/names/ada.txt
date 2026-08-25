@@ -1,3 +1,4 @@
+A. Basic Project Data P175363 Adaptive	10963
 AC Adapter	34
 ADAM AFRIQUE	2342
 ADAM SMITH INTERNATIONAL AFRICA LIMITED Data	7167
@@ -7,6 +8,7 @@ ADAPT	6344,25,2052,1251
 ADAPT Country Implementation Forum	8421
 ADAPT IT SOLUTIONS LIMITED Data Processor	7167
 ADAPT Implementation Forums	6344
+ADAPTIVE SAFETY NETS AND ECONOMIC	10964
 ADAPTIVE SERVICES LIMITED Data Processor INST-4758823DE26	7167
 ADAPTIVE SYSTEMS	961
 ADAspace	9816
@@ -15,8 +17,10 @@ APPENDIX User Personas Adapting	1161
 ASA Angola Adaptive Social Safety Nets	10768
 Abdou Adamou. Pour	8808
 Abuja Declaration By Adanna Nnamani	7883
+Ada Business Resource Centre	11032
 Ada Lovelace	7320
-Ada Lovelace Institute	7038,282
+Ada Lovelace Institute	7038,282,3687
+Ada Lovelace Institute’s Participatory Data	11007
 Adaba	7886
 Adabraka-Accra. Mob	3386
 Adadevoh	6563
@@ -37,17 +41,20 @@ Adama Sy	9131
 Adama YEYE	8321
 Adama-Dian Barry	6082
 Adaman DRABO	3472
-Adamaoua	10841
-Adamawa	3412,313,1542,4609,965
+Adamaoua	10841,122,1,1,10,5,5
+Adamaoua Centre	10980
+Adamaoua Regional Council	10980
+Adamawa	3412,313,1542,4609,965,122,1
 Adamawa Region	10841
 Adamawa State	5267
+Adamaxa	10980
 Adamfo Loan	8732
 Adamon Mukasa	10718
 Adamou	8604
 Adamou A. Ben Malik	2801
 Adamou B	3791,7090
 Adamou Koupit	3090
-Adams	1243,5024,1011,481,524,504,450,804,317
+Adams	1243,5024,1011,481,524,504,450,804,317,692
 Adams NewsAfrica Ip	10358
 Adams Partner	10358
 Adamson C	9739
@@ -60,18 +67,20 @@ Adane	3791
 Adane Mamuye	1824
 Adanna Nnamani	10597
 Adanyin	7966
+AdapTogo	11103
 Adapa	8606
 Adapon	9129
 Adapt	1009,768,5159,11,1
 Adapt Rwanda	1204
 Adaptability	2948,703,1900,114
+Adaptabilité	10965
 Adaptable Program Loan	1264
 Adaptación	1701
 Adaptada	2816
 Adaptado	1701
 Adaptar	1701,1115,6742
 Adaptar la Administración Pública	1701
-Adaptation	970,28,156,674,1120,482,174,126,3172,3860,67
+Adaptation	970,28,156,674,1120,482,174,126,3172,3860,67,141,36
 Adaptation Findings In CAR Possible Options	10829
 Adaptation Governance	970
 Adaptation Institutional	10829
@@ -84,26 +93,38 @@ Adaptation and Governance	970
 Adaptation and Health	970
 Adaptation of Insolvency Bill	3714
 Adaptations	2709,8005,51,10
-Adaptations--If	10812
+Adaptations--If	10812,165
 Adaptação	10755
-Adapted	961,282,3419,2,1036,454,410,17,967,1055,1013,865,294
+Adapted	961,282,3419,2,1036,454,410,17,967,1055,1013,865,294,210,21
 Adapted PRISMA	8605
-Adapter	12,1281,145,458,6995,1821
+Adapter	12,1281,145,458,6995,1821,253
 Adapting	1243,853,4851,1,3770,44,1,78
 Adapting AI	10221
-Adaptive	432,1,7018,97,2068,271,876
+Adaptive	432,1,7018,97,2068,271,876,243
+Adaptive Comanagement for Building Resilience	11006
+Adaptive Governance	11006
+Adaptive Governance Good Practice	11006
 Adaptive Governance and Democratic Accountability	4528
+Adaptive Governance of Social-Ecological Systems	11006
+Adaptive Management	11006
 Adaptive Management Systematic	4528
 Adaptive Management and Continuous Improvement	4528
+Adaptive Management in SDC Challenges and Opportunities	11006
 Adaptive Milestone Options	3861
 Adaptive Milestone Options Recognizing	3861
+Adaptive Programmes. DFID	11006
+Adaptive Programmes. Multistakeholder Governance for DPI	11006
 Adaptive Recommendations	3861
 Adaptive Safety Net System	10763
+Adaptive Safety Nets	10963,1
+Adaptive Safety Nets US	971
+Adaptive Safety Nets and Economic Inclusion Project	10964,21
 Adaptive Social Protection Adaptive Social Safety	10763
 Adaptive Social Protection System	10763,5
 Adaptive User Interfaces	5349
 Adaptivity	7966
 Adapts	4528
+Adaptés	11109
 Adaramodu	7853
 Adata	972
 Adaverse	2826
@@ -112,6 +133,7 @@ Adawso-Ekye Amanfrom Bridge	7695
 Adoni Conrad Quenum Adapted	5940,1468
 Adoni Conrad Quenum. Adapted	6893,200
 Afrobarometer Working Papers References Adaba	7886
+Aligning Climate Change Adaptation Planning	11006
 Angola Adaptive Safety Nets Report	10768
 Arret Jatta President Adama Barrow	6941
 Aurelie Adam Soule Zoumarou	3197,25
@@ -122,6 +144,7 @@ Aurélie Adam Soulé ZOUMAROU. Ayant	6366
 Aurélie Adam Soulé Zoumarou	1957,736,40,379,570,355,40,12,850,1402,25
 Aurélie Adam Soulé Zoumarou. Ce	6341
 Ayushi Adarshini Balluck	10643
+Bank Adaptive Safety Nets and Economic Inclusion	10964
 Benjamin Adamafio Commey	8369
 Bobo-Dioulasso. Adaman DRABO	6457
 Burkina Faso Adama YAMEOGO Chef	10708
@@ -133,7 +156,7 @@ CONGO CLIMATE CHANGE AND ADAPTATION	1828
 CONTINUOUS ADAPTATION REQUIREMENT	3861
 COULIBALY Adama	2342
 Cambridge University Press. Adams	1243
-Cameroon Adaptive Safety Nets and Economic Inclusion	971
+Cameroon Adaptive Safety Nets and Economic Inclusion	971,9993
 Cameroon and Chad Ado Adamou Abba Ari	9616
 Civil Adaptation and US	970
 Climate Adaptation	1512
@@ -141,15 +164,18 @@ Climate Adaptation Plans	1867
 Climate Adaptation and Resilience	970
 Climate Change Adaptation and Mitigation	3604
 Climate Change and Adaptation Needs	1828
+Climate Change and Adaptive Safety Nets	10964
 Climate Climate Adaptation and Adaptation Resilience	970
 Communications Minister Mohamed Adan Moalim	3637
 Community Settlement Areas NAP National Adaptation	1867
+Components Adaptive Safety Nets Youth Economic	10963
 Continuous Adaptation Requirement ACKNOWLEDGING	3861
 DOSSO Adama	2342
 Data Science and Adaptive Analysis	5244
 Deputy Communications Minister Mohammed Adams Sukparu	4137
 Deputy Minister Hon. Mohammed Adam Sukparu	10584
 Deputy Minister Mohammed Adams Sukparu	8767,1969
+Design Matters. Adan	10997
 Disaster Risk Management and Adaptive Safety Nets	10763
 Dr. Adamafio Loop	3386
 Dr. Rachel Adams	3654
@@ -166,6 +192,7 @@ GCTs. Adapt	6947
 GDP and Inequality Adaptation	1828
 Gender Training Adaptation Note	9203
 General Mme. Aurelie I. ADAM SOULE	10819
+German Adaptation Policy	11028
 Ghana’s National Climate Change Adaptation Strategy	789
 Global National Adaptation Plan	5247
 H.E. Dr. Ali Haji Adam	10477
@@ -190,6 +217,7 @@ Investigating AI-Powered Tutoring Systems That Adapt	6948
 Iro Adamou	6223
 Isaac K. Kassouwi Adapted	4875,919,828
 Isaac K. Kassouwi. Adapted	5421,133,34
+Iterative Adaptation	11006
 Ivoire’s National Adaptation Plan	3604
 Jankey Ceesay President Adama Barrow	3061
 Jeconias ADANLE	5927
@@ -199,6 +227,7 @@ KRA Commissioner General Adan Mohammed	9436
 Kabelo Adamson. Published	7438
 Kemkil Adangran Benoît	4589
 Kenya Country Manager Adam Shirwa	9546
+Kevin Hernandez. Adaptive Management	11006
 Kodjo Adams	8950,1681
 Koèlè Adama Neya	7010
 LIST OF ACRONYMS ADAM AI ANC	4153
@@ -234,6 +263,7 @@ Musa Adamu Aliyu	10530
 Nana Adam Nanfamé	5407,676
 National Adaptation	5676
 National Adaptation Plan	1867,4672
+National Adaptation Plan for Climate Change	10963,1
 National Adaptation Plan for Zambia	1867
 Natural Disasters Adaptation	1828
 Near Nyamekye Hotel Adabraka	3386
@@ -265,16 +295,20 @@ Prof. Ebenezer Adaku	10123
 Prof. Tana Pistorious and Mr. Adam Mambi	28
 Professeur Adama Diawara. Fruit	10925
 Professor Sagir Adamu Abbas	2933
+Public Disclosure Authorized Adaptive Safety Nets	10963
 Rachel Adams	5598,669,619,325
 Recommendations Adaptive	10763
 Reference Adamu Habu and Henderson2023	8436
 References Adapa	8606
+Reflection and Learning for Community-Based Adaptation	11007
+Regional Adaptation Plans	11103
 Republic of Cabo Verde H. E. Adama	7452
 Resilience Through Adaptation Investments	1828
 Review Triggers and Adaptive Flexibility	3861
 Review Triggers and Adaptive Flexibility The NDGC	3861
 Robert Adam	10860
 Role of Smart and Adaptive Energy Systems	4906
+Région Adamaoua	10975
 Sahel Adaptive Social Protection Program	10866
 Salma Adam	10402
 Samira Njoya Adapted	4284,472,158,142,396,5,7,628,188,49,120,24,205,206,3,414,23
@@ -284,13 +318,18 @@ Says Former NASA Executive Jim Adams	8787
 Selorm Adadevoh	6563
 Senator Yemi Adaramodu	7853
 Station- Adabraka Accra Operational	3386
+Strategic Adaptation Planning	11006
+Support Adaptive Management	11007
 Support for Climate Change Adaptation and Mitigation	969,295
 T ADAMON A MO T NS	8891
 TECHNOLOGICAL ADAPTATION AND FUTURE-PROOFING MECHANISMS	3861
+Tax Reform Adan	10997
 Technological Adaptation and Future-Proofing Mechanisms	3861
+Termed Problem-Driven Adaptive Iteration	11006
 Under President Adama Barrow	5279
 University of Notre Dame Global Adaptation Initiative	3456
 Waziri Adamawa	9400
+World Bank Adaptive Safety Nets	10963,1
 Zahra Adam Oumar	7374
 Zainab Inuwa Adamu	9576
 Zakariyya Adaramola Thu	9878

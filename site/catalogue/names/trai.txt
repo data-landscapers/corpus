@@ -150,6 +150,7 @@ D’ORDRE REFERENCES RESPONSABLE DE TRAITEMENT	10821
 D’ORDRE REFERENCES RESPONSABLE DE TRAITEMENT AVIS	10821
 D’ORDRE REFERENCES RESPONSABLE DE TRAITEMENT OBJET	10821
 E&S Environmental and Social ENFOTSS National Training	10768
+E.g. Train	11004
 EDUCATION AND TRAINING ACT	6921
 ELDORET AVIATION TRAINING INSTITUTE LIMITED Data	7167
 ESBC-INNOPOWER MSME AI Master Trainer Programme	9117
@@ -192,6 +193,8 @@ GRM Committees Training	1778
 GRM Train the Focal Points	2989
 GRM Training the Focal Points	2989
 GSA Training	405
+GSMA Mobile Internet Skills Training Toolkit	11004,13
+GSMA Mobile Internet Skills Training Toolkit.45	11004
 Gbehon Services Traitement	10821
 Gemstone Processing and Lapidary Training Centre	3524
 Gender Training Adaptation Note	9203
@@ -229,6 +232,7 @@ Installation of Facilities Equipments and Training	8166
 Institutional Setup Training	3861
 Insurance Sector Education and Training Authority IoT	6832
 International Regional Training Centre	1988
+International Training Centre	11017
 Ivoire and UNDP Launch Digital Training Initiative	6329
 JENY SAS Traitement	10821
 JOmotola Akindipe Training	10776
@@ -236,6 +240,9 @@ Johannesburg. Train-the-trainer. Context	5583
 Journal of Technical and Vocational Education and Training	6948
 Journal of Vocational Education and Training	6832
 Judicial Training Institute	10563
+Judicial Training School	10990
+KICTANet Begins Training	11018
+KICTANet SheConnects Trainer of Trainers	11018
 KNQA Training	7548
 Kajo-Keji County Trains	2685,2,359,86,176,15,119,65,590,447,96,374,93,240
 Koibatek Agricultural Training Centre	7480
@@ -269,7 +276,10 @@ Minister of Technical and Vocational Education and Training	10951
 Minister of Vocational Training	2790
 Ministry for Vocational Training	10841
 Ministry of Education and Training	3331,4442
+Ministry of Employment and Vocational Training	10963,1
 Mission for Training Decision-Makers	10720
+Mobile Internet Skills Training Toolkit	11017
+Mobile Internet Skills Training Toolkit. Mobile	11017
 Mobile Training Units	7021
 Mont Sinaï Sarl Traitement	10821
 Mushagashe Vocational Training College	4528
@@ -290,12 +300,16 @@ OBLIGATIONS DU RESPONSABLE DE TRAITEMENT Article	10825
 OCTAVIC-BENIN Traitement	10821
 ONG FesProd Traitement	10821
 ONG Terre des Hommes Traitement	10821
+ONLINE COURSE Ecommerce Training Toolkit Mastercard	11017
 OVERVIEW OF TRAINING STRATEGY	2477
+Observatory of Employment and Professional Training	10963,1
 Opaque Training Data and Decision-Making	3651
 Orabank Benin Traitement	10821
 PHILIJUST GROUP Traitement	10821
 PSHPA Trains Private Health Facilities	10833
 PayPlus SA Sonibank Bénin SODECO Traitement	10821
+Personal Initiative Training	10963,1
+Personal Initiative Training Leads	10963,1
 Personnel Vetting and Training	3861
 Plainte de X RESPONSABLE DE TRAITEMENT OBJET	10821
 Plan International Bénin Traitement	10821
@@ -362,6 +376,7 @@ School Education and Training	9128
 Sector Education and Training Authorities	6832,790
 Sector Education and Training Authority	6832
 Security Training	1988,4958
+SheConnects EmpowerHer Digital Accelerator. Trainers	11018
 Si Initial Training Upskilling	1885
 Sierra Leone Aligns University Training	8610
 Sita-Department of Higher Education and Training	7096
@@ -388,6 +403,7 @@ Ste WGS SARL Traitement	10821
 System Training	10616
 TRAINING	1988
 TRAINING LIMITED Data Controller INST-3420092D39C NAIROBI	7167
+TRAINING PROGRAM	11017
 TRAIT CÔTIER DE LA BANDE LITTORALE	8891
 TRAITEMENT ET TRANSMISSION DES DONNEES	10876
 TRAITEMENTS DES INCIDENTS DE SECURITE	10906
@@ -415,17 +431,20 @@ Threats TVET Technical and Vocational Education and Training	4126
 Top Chrono Mail Express Traitement	10821
 Trailing	3986,1779,962,998,508,212,58
 Trailing Airtel	5802
-Train	958,42,988,471,1667,402,1055,849,504,12,3,231,262,583,2694,144
+Train	958,42,988,471,1667,402,1055,849,504,12,3,231,262,583,2694,144,99
+Train ENEO and ARSEL	10975
 Train ICT	1000
 Train Yourself	3790
 Train-the-Trainer	9633,1,966
 TrainDTrainer Ltd	8327,562
 Trained	1988,489,2279,1764,3760,496
 Trainee Finance Specialist Finance Specialist ANEP	2989
+Trainees	11033
 Trainer SunHo Sin	10219
+Trainer of Trainers	11018,68
 Trainer-of-Trainers	7990
 Trainers	4217,2615,716
-Training	336,563,41,18,12,30,131,88,10,55,270,43,180,1,40,49,73,48,486,3,123,74,101,214,40,575,4,88,94,1,70,265,76,326,125,222,411,247,50,402,63,7,177,26,174,107,44,249,47,15,9,45,203,31,269,97,241,522,59,233,25,16,22,173,289,11,64,637,207,2,28,80,294,104,163,3,47,8,53,12,7,8,9,57,24,2
+Training	336,563,41,18,12,30,131,88,10,55,270,43,180,1,40,49,73,48,486,3,123,74,101,214,40,575,4,88,94,1,70,265,76,326,125,222,411,247,50,402,63,7,177,26,174,107,44,249,47,15,9,45,203,31,269,97,241,522,59,233,25,16,22,173,289,11,64,637,207,2,28,80,294,104,163,3,47,8,53,12,7,8,9,57,24,2,69
 Training Accreditation	1877
 Training African	5302
 Training And Research In Kenya	899
@@ -487,7 +506,8 @@ Traininginitiativesfocusedonhelpinglecturers	8602
 Trainings	1362,416,210,4958,3822
 Trainings and Awareness Campaigns	10776
 Trains	4259
-Traitement	37,105,294,112,189,261,233,2234,860,1821,4565,1,105,4,4,11,39
+Traitement	37,105,294,112,189,261,233,2234,860,1821,4565,1,105,4,4,11,39,100
+Traitement SGBDPS	10975
 Traitement des DNA	3396
 Traitements	1187,2350,7284
 Traitements Intermédiaires de Données	10812
@@ -497,6 +517,7 @@ Traités	10826
 Trésor IV.2.4.1.3. Traitement	10876
 Tshokoma Training and Consulting. President Cyril Ramaphosa	8598
 UJ Connect Entrepreneurship Training and Mentorship	7652
+UNITES RECUS DOSSIERS ECARTS Pourcentage TRAITES	10975
 UVRE DES TRAITEMENTS DE DONNEES	10825
 United Nations Institute for Training and Research	9106
 Université de Parakou Traitement	10821
@@ -508,6 +529,7 @@ Vocational Education and Training	6948
 Vocational Training Colleges	7204
 Vu le Traité	10836
 WATRA-Cyber Regional Training Program	5677
+Workers Trained Figure	10976
 XI.2.2. Traitement	10876
 YELLO DISTRIBUTION Traitement	10821
 ZESA Launches Drone Pilot Training Programme	3003

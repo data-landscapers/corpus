@@ -16,9 +16,11 @@ HL7 HNSF Enterprise User Authentication European	1009
 HL7 Service Aware Interoperability Framework	21
 HL7 Version	1009
 HL7 and ASTM	7988
+HL7-FHIR	10970
 HL7FHIR	8606
 HL7standardsandDICOM	8606
 HL7v3 Abstract Data Type Specification	1009
+HLEG’s Ethical Guidelines	11050
 HLO-2	6539
 HLO1 Objective	6539
 Hl.7 FHIRstandard Release	1009
@@ -32,6 +34,7 @@ Hlengiwe Dube-University	10729
 Hlonelwa Lutuli	6727
 Hlongwane	9128
 Hlophe	8597
+Hlstt	10965
 Hlumelo Fungile	6186,80
 Identifier Cross-Reference HL7 Version	1009
 Inclusive Development HLO Grievance Redress Mechanism	3604

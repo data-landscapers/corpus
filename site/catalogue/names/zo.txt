@@ -58,6 +58,7 @@ Djibouti. Zouhour	3370
 Djogol Zone	6755
 Doba-Koumra-Sarh-Kyabé-Am Timan-Abéché-Am Zoer-Guéréda-Iriba	343,18
 Dr. Zolana Joao	5438,735
+ENEO Zone Titre Localités Observations DRY	10975
 EXCLUDED BY DESIGN MARKET DEVELOPMENT ZONE	418
 East Gojjam Zone	3791
 Economic Technology Zone	2945
@@ -182,7 +183,7 @@ Revision Of Zimbabwe's Agro-Ecological Zones. ISBN	520
 Revision of Agro-Ecological Zones Report Authors	520
 Revision of Zimbabwe's Agro-Ecological Zones	520
 Régine Toulcida ZOMBRA	8321
-SEZ Special Economic Zone FBB Fixed	3184,1,1340
+SEZ Special Economic Zone FBB Fixed	3184,1,1340,6470
 SEZ Special Economic Zone SEFA Sustainable	10841
 SEZ Special Economic Zone SSA Sub-Saharan	10781
 SO UROU ZON DOM A SA	10847
@@ -238,6 +239,7 @@ Yas Northern Zone Commercial Manager	9453
 Yas Southern Highlands Zonal Commercial Manager	9454
 Youssouf Zon	10881
 ZODGEKAR	6613
+ZOGO Willy Jan	10996
 ZOL CEO	1817
 ZONDOMA	10847
 ZONDOMA Femmes	10847
@@ -247,6 +249,10 @@ ZONDOMA Privé	10847
 ZONDOMA TX Prom	10847
 ZONDOMA Total Regions	10847
 ZONDOMA Total Région	10847
+ZONE METROPOLITAINE	10975
+ZONE ROUGE A SORTIR	10975
+ZONE RURALE	10975
+ZONE URBAINE	10975
 ZONGO Beb-zinda	737
 ZONGO KABORE	6613
 ZOOM OUT	5701,676
@@ -270,6 +276,7 @@ Zobel Behalal	4127
 Zodiak Broadcasting Station	9217
 Zoe Titus	1010
 Zoey Soh	1903
+Zofoa Njoya Sake	10988
 Zolana Joao	5106,332
 Zolana Joao and Christophe Lemercier	5438
 Zolana João	5405,1205,187
@@ -304,11 +311,13 @@ Zone UEMOA	1412
 Zone de Dénombrement	737
 Zone de Libre En	3396
 Zone of Possible Agreement	1243
+Zone4s60u	10965
 Zonebourse Feb	1143
 Zones	643,1039,943,1671,574,608,2391,434,2572
 Zones Franches	5993
 Zones Franches de Djibouti	1287
 Zones Frontalières du Niger	998
+Zones Premier Premier Gap Régularisation	10975
 Zones Sovereign	7548
 Zones Zone	643
 Zones de Bangui	10841

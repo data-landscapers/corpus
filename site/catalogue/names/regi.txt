@@ -27,7 +27,7 @@ AWS Region	1729,4108
 AWS Region Table. Pricing	7210
 AWS Regional Lead	10236
 AWS Regions	1729
-Abdoulaye Seck Regional Director	969,9860
+Abdoulaye Seck Regional Director	969,9860,135
 Absa Bank Botswana Regional Head for Physical	9466
 Absa Regional Head for Physical Channels Hazel	9466
 Accelerate Regional Industrial Transformation PPM	7020
@@ -38,6 +38,7 @@ Act. Registration	3714
 Acting Regional Integration Director for Africa	5395
 Acting Regional Manager for Infrastructure	6932,163
 Acting World Bank Regional Integration Director	5400
+Adamaoua Regional Council	10980
 Adamawa Region	10841
 Additional Regional No Institutions Appraisal	4653
 Adjunto Gobierno Delegado Gobierno Delegado Regional	4209
@@ -51,6 +52,8 @@ Africa Civil Registration and Vital Statistics	3426,7,1,4445,2712
 Africa Civil Registration and Vital Statistics Day	9765
 Africa Region	1264,20,1605,895,2755,407,3876
 Africa Region CURRENCY EQUIVALENTS	3562
+Africa Region Gender Action Plan	10964
+Africa Region Gender Practice Policy Brief	10964
 Africa Regional Express-1	382
 Africa Regional Hub	6133
 Africa Regional Hub The Kenya Kwanza	6133
@@ -100,7 +103,7 @@ Arab Region	8645
 Arid and Semi-Arid Lands and Regional Development	1245
 Arusha Regional Commissioner’s Office	7360
 Asbestos Register	1988
-Ashanti Region	582,2194
+Ashanti Region	582,2194,8256
 Ashanti Regional	9534
 Assento de Nascimento. O Registo	10753
 Assistant Data Commissioner for Registration	2668
@@ -137,7 +140,7 @@ Better Regional Migration Management	5172
 Beyond Registration	4763
 Bhutan Civil Registration System	10714
 Biometric Registration	9399
-Biometric Voter Registration	3758
+Biometric Voter Registration	3758,7357
 Biometric Voter Registration System	1816
 Biometrics Registration	1988,8851
 Birth Registered	10765,10
@@ -233,10 +236,13 @@ COORD. REGIONAL DERECHOS HUMAN.-Concepto	4209
 CR Civil Registry CSU Cadastro Social	10765,10
 CRVS Costed Plan and Civil Registry Rules	4257
 CRVS and Rwanda’s National Person Registry	977
+CTD Strategic Performance Framework EMPRETEC Regional	10980
 CUSTODY AND REGISTRAR SERVICES LIMITED Data	7167
 Cadastre and Land Registration Authority	888
 Cameroon Promotes the East Region	8610,233
 Cameroon's National Civil Status Registration Office	3814
+Cameroon's Unified Social Registry	10985
+Cameroonian Civil Status Registration Ordinance	10979
 Cameroon’s East Region	10841
 Canciller Secretario Delegado Regional Ministerio Embajador	4209
 Cape Gate Regional Centre	8999
@@ -269,6 +275,7 @@ Chief Registrar	8978
 Chief Registrar Supreme Court of Nigeria	1014
 Chief Registrar of Deeds	2660
 Chief Registration Officer	2922
+Chika Reginald Nwosu	11126
 China Household Registration	10714
 China National Biometric Population Register	10714
 China National Register	10714
@@ -276,7 +283,7 @@ Christian Brothers Ruben Centre Trust Registered	7167
 Citizenship and Immigration Control National ID Register	10822
 Civil Birth Registration Simplification Law	10775
 Civil Register	2072
-Civil Registration	471,1260,1026,676,1,955,4,1881,1390,197,2898,6,10,37,23,2,1,74
+Civil Registration	471,1260,1026,676,1,955,4,1881,1390,197,2898,6,10,37,23,2,1,74,56
 Civil Registration Bulletin	10765,10
 Civil Registration Capacity	10759,78
 Civil Registration Code	10765,10
@@ -292,6 +299,7 @@ Civil Registration Officer	3623
 Civil Registration Service	5299
 Civil Registration Services and Legal Affairs	9696
 Civil Registration Substantive	10775
+Civil Registration System	10991
 Civil Registration Systems Development	10822
 Civil Registration Units	10765,10
 Civil Registration and Civil Identification and Criminal	10775
@@ -324,8 +332,9 @@ Civil Registry and Unicef	3274
 Civil Registry. Requirements	10812
 Civil Service Agency and National Identification Registry	5244
 Civil Status Register	10714
-Civil Status Registration Ordinance	2319
+Civil Status Registration Ordinance	2319,8660
 Civil and National Registration	5634
+Civil registration	10979
 Client Information and Registration Tracking Systems	318
 Client Registry	5639
 Coast Region	4534,2194,3585
@@ -361,6 +370,7 @@ Component Regional IDA National UCF	1704
 Comprehensive Economic Partnership RECs Regional Economic	1243
 Conference of Arab Civil Status and Civil Registry	10521
 Conservatória de Registo Civil	10756
+Construction ERRA Energy Regulators Regional Association	10975
 Consumer Portal Mobile Application Regional WATRA	5676
 Continent and Regional Data Protection	962
 Continuous Registration Strategy	10775
@@ -386,6 +396,7 @@ Cyber Security Risk Register PART V	2727
 Cyber Security and SADC Regional Cyber Drill	318
 Cybersecurity Risk Register	587
 D Coordinador Regional Grupo D Delegado	4209
+D'INVENTAIRE REGION INVENTORIER INVENTORIEES INVENTORIEES	10975
 DARE Regional Submarine Cable Project Islamic	382
 DATA LIFECYCLE GOVERNANCE REGIME	3861
 DATA PROTECTION IMPACT ASSESSMENT REGIME	3861
@@ -504,6 +515,7 @@ Direcção de Registo de Ficheiros	167
 Direcção de Registo de Ficheiros de Dados	167
 Disability QoS Quality of Service REC Regional	6539
 Disability Registered Annually1	2775
+Disability Registry	10991
 Distribution Register ZRCP	1988
 District Registrar	3285
 District Registration Officer	3005
@@ -516,6 +528,7 @@ Documents Authentication and Registration Service	1784,668,749,3881,3627
 Dominica National Register of Natural Persons	10714
 Dot KE Subdomain Registrars	6946
 Draft Framework for Establishing the SADC Regional CIRT	318
+Dynamic Social Registry	10991
 EAC Region	7815
 EAC Regional AI Strategy	6792
 EAC Regional Framework for Trusted Cross Border	8426
@@ -535,7 +548,9 @@ ECOWAS Regional	1264,5158
 ECOWAS Regional Food	6422
 ECOWAS' Regional E-commerce Strategy	4359
 EDEN Information System for Birth Registration INSD	10812
+ELECAM Regional Delegate	10988
 ENFORCEMENT POWERS AND SANCTIONS REGIME	3861
+ES Region	10976
 ESCOTEL Regional	513
 ESTADO REGIONAL	4209
 EU Sub-Saharan Africa Regional Multi-Annual Indicative	1528
@@ -660,6 +675,7 @@ Ghana's National Registry	9393
 Ginaba Lino The Directorate of Civil Registry	8940
 Global Civil Registration and Vital Statistics. Scaling	10819
 Global Policies and Regional Policies	3503
+Global Practice Western and Central Africa Region	10964
 Global Region	4972
 Global and Regional ICT Data	9616
 Google Cloud Region	1363
@@ -759,6 +775,7 @@ Identity System Eswatini National Population Register	10714
 Imibereho Social Registry	8838
 Imibereho Social Registry System. Officials	8838
 Implications of SIM Card Registration ID-verified	4439
+Income Region Population	10969
 Increasing Birth Registration	61
 Indicator WARCIP West African Regional Communications	1000
 Infant Registration Bill	4534
@@ -848,6 +865,7 @@ Limited Western Regional Office	6946
 Linking Civil Registration and Vital Statistics	10765,10
 Lithuania Residents Register	10714
 Litigation Registrars	8978
+Littoral Region	10972,16
 Local Internet Registries	3503
 Local Internet Registry	585
 Location Registry	21
@@ -905,6 +923,7 @@ Michael Daniel. The Directorate of Civil Registry	7931
 Microsoft’s Advancing Regional Cybersecurity Initiative	10620
 Middle East. Regional	7815
 Migori County's Registrar of Persons Julia Otieno	8793
+Mining and Metallurgy Regions of EU	11007
 Ministerio Inspector Regional Ministerio Juez Distrito	4209
 Ministry of Agriculture's Digital Farmer Registry System	2872
 Ministry of Interior Ministry of ICT National Registration	10822
@@ -919,6 +938,7 @@ Mobile Registration Exercise	1920
 Mobile Registration Team	8820
 Mobilisation and Registration Division Manager	8838
 Modernisation of Civil Registration	10854
+Modernisation of Civil Registration and Vital Statistics	10972
 Modernising Ghana’s Tax Regime	7695
 Monetary Union WARCIP West Africa Regional	1264
 Monthly Expenditure SASSA Volumes and Distribution Regional	8999
@@ -973,6 +993,7 @@ National Civil Registration Agency	7289
 National Civil Registration Authority	1161,494,458,759,109,2104,363,2968,404,524,12,14,1210
 National Civil Registration Authority Statistics Sierra	1161
 National Civil Registration Office	2319,2275
+National Civil Registration Office of Cameroon	10972
 National Civil Status Register	557
 National Civil Status Registration Office	3814,5699
 National Civil Status Registry	7336
@@ -1045,9 +1066,14 @@ National Registry of Natural Persons	10714
 National Registry of Physical Persons	3852
 National Risk Register and Regulations	1000
 National Social Register	10093
+National Social Registry	10964
+National Social Registry MIS	10964
+National Social Registry. MIS	10964
+National Social Registry. Percentage	10964
 National Strategy for Birth Registration	10765,10
 National Strategy for Civil Registration	10812
 National Strategy of Civil Registration	10812
+National System of Information and Single Registry of State	10991
 National Trade Register Center	2542
 National Vulnerability Register and Framework	1000
 National and Regional AI Strategies	4528
@@ -1082,6 +1108,7 @@ Northern Regional Chairman	10142
 Northern and Savannah Regions	7695
 Norway National Population Register	10714
 Notification of Registration Centre Premises	1263
+Nov-2021 Region Estimated Board Date AFRICA	10963
 Number of Internet Subscribers Per Region	3862
 Number of Registered KCPE Candidates and KPSEA Learners	2775
 Number of Registered KCSE Special Needs Candidates	2775
@@ -1114,6 +1141,7 @@ Overview of Registration of Foreign Researchers	1554
 P7 Regional Integration	6937
 PAR PROVINCE REGIONS	10847
 PARQUE MOVIL CIVIL REGION CONTI.-Concepto	4209
+PART II LEGAL REGIME	10974
 PDPO. Registration	5113
 PONI Total Regions	10847
 PROFESIONAL REGIONAL	4209
@@ -1151,6 +1179,8 @@ Plateaux Region Land Restoration	3437,3942,47
 Plateaux Region Togo	3437,3942,47
 Platform Group Company Secretary and Registered	4896
 Poland Register of Identity Cards	10714
+Police Academy and Regional Police Commanders	11062
+Police Regional Command Conference	11062
 Policy and Institutional Assessment CR Civil Registration	969
 Population Register	7569
 Population Register and Secure Titles	2876
@@ -1192,7 +1222,7 @@ REGIME SANCIONATÓRIO	10755
 REGIMENTO DO CONSELHO NACIONAL DE CIBERSEGURANÇA	4147
 REGIMES ESPECIAIS DE APLICAÇÃO DA IA	3519
 REGIO NS BOUCLE DU M OUHOUN	10847
-REGION	582,10247
+REGION	582,10247,294
 REGION Nombre	737
 REGIONAL	6471,4381
 REGIONAL AGGREGATES21	10714
@@ -1232,6 +1262,7 @@ REGISTRO	4209
 REGISTRO DE PROPIEDAD DE LA REGION	4209
 REGISTROS REGISTROS REGISTROS REGISTROS REGISTROS Cuentas	4209
 RESTAURANTES CAPITALES DE REGIONES CAPITALES	4209
+RHV Added Value MVA Regional Handicrafts	10980
 RIR’s Service Region	3503
 Railways Golf Club. Regional Office	6946
 Rapid Response Register Self-Employed Women’s Association	10763
@@ -1277,7 +1308,7 @@ Regimento da Assembleia Nacional	539,2980
 Regina Gainames	8253
 Reginaldo Borico Okomo	3494,2
 Reginaldo Boricó	7703,1
-Region	92,37,20,37,10,17,1,22,14,48,47,3,1,15,99,2,59,58,44,4,48,48,2,105,8,128,94,1,4,2,1,1,1,86,47,1,1,56,180,1,1,1,1,19,90,608,76,534,55,774,258,1110,468,350,642,778,242,24,215,159,19,734,124,164,176,694,840,117,41,26,9,18,10,7,6,2,1,2,1,71
+Region	92,37,20,37,10,17,1,22,14,48,47,3,1,15,99,2,59,58,44,4,48,48,2,105,8,128,94,1,4,2,1,1,1,86,47,1,1,56,180,1,1,1,1,19,90,608,76,534,55,774,258,1110,468,350,642,778,242,24,215,159,19,734,124,164,176,694,840,117,41,26,9,18,10,7,6,2,1,2,1,71,52,4
 Region AFR	10785
 Region Action Plan For Reviews and Life	8999
 Region Barbados High EGDI M-OSI VH-HcI	10840
@@ -1301,12 +1332,13 @@ Region-level	3874
 Region. FMOH	1219
 Regionai Oo Report	3972
 Regionais	2816
-Regional	7,56,108,383,28,127,80,22,83,67,9,78,216,13,323,95,9,73,37,38,254,12,559,99,100,678,29,276,2,111,154,242,63,83,14,16,39,96,55,19,110,26,321,16,90,33,216,53,12,45,2,235,136,45,3,92,51,72,50,61,4,45,68,181,96,26,86,8,1,1,8,171,34,24,46,99,180,48,114,171,132,2,107,69,98,285,2,18,181,109,163,16,52,52,497,6,11,76,52,97,111,106,82,1,11,19,72,61,24,43,326,36,90,1,3,8,87
+Regional	7,56,108,383,28,127,80,22,83,67,9,78,216,13,323,95,9,73,37,38,254,12,559,99,100,678,29,276,2,111,154,242,63,83,14,16,39,96,55,19,110,26,321,16,90,33,216,53,12,45,2,235,136,45,3,92,51,72,50,61,4,45,68,181,96,26,86,8,1,1,8,171,34,24,46,99,180,48,114,171,132,2,107,69,98,285,2,18,181,109,163,16,52,52,497,6,11,76,52,97,111,106,82,1,11,19,72,61,24,43,326,36,90,1,3,8,87,37,28,2
 Regional AI	6948
 Regional AI Governance Framework	4738
 Regional AI Strategy	8995,187
 Regional AI Technologies Fund	6937
 Regional Ad- Chief Executive Officer	6938
+Regional Adaptation Plans	11103
 Regional Administration and Local Government	1261,4622
 Regional Advisor-Partnerships	9708
 Regional African School of Artificial Intelligence	7072
@@ -1318,6 +1350,7 @@ Regional Association of Regulators	961
 Regional Beneficiary Overview Current Beneficiaries	8999
 Regional Bodies	1914
 Regional Bond Sale	4769,394,334,86
+Regional Center for Rights and Liberties	11079
 Regional Center for Studies	5615
 Regional Center of Excellence	5677
 Regional Centre for Mapping of Resources for Development	5805
@@ -1326,6 +1359,7 @@ Regional Centre of Excellence	5677
 Regional Centres of Excellence	846,233,4598
 Regional Collaboration	1554,6367
 Regional Collaboration Lagging Indicators	4528
+Regional Commanders	11062
 Regional Committee	10776
 Regional Committee for Africa	10659,117
 Regional Communication Monitoring Standards	6946
@@ -1366,8 +1400,9 @@ Regional Data Center Hub	7425
 Regional Data Commons	6250
 Regional Data Hub	1956
 Regional Data Strategy for Marine and Coastal	961
+Regional Delegate of ELECAM	10988
 Regional Developme	339
-Regional Development	55,1,69,122,1846
+Regional Development	55,1,69,122,1846,8871,21
 Regional Development Forum for Africa	578
 Regional Development Plan	8645
 Regional Development Rebecca Miano and KenGen Chairman	1245
@@ -1399,7 +1434,7 @@ Regional Economic Communities and Commissions	1019
 Regional Economic Community	2291
 Regional Economic Community RPCC Regional Project	1264
 Regional Economic Impact Assessment	2677
-Regional Economic Outlook	2775
+Regional Economic Outlook	2775,8222
 Regional Education Director	10465
 Regional Efforts	6426
 Regional Efforts and International Conventions	10841
@@ -1421,6 +1456,7 @@ Regional Framework for Trusted Cross Border Data	8426
 Regional Governance and Cooperation Zimbabwe	4528
 Regional Governments	5655
 Regional Grid Strengthening Activity	87
+Regional Handicrafts Villages	10980
 Regional Harmonization of Remittance Policies	2661
 Regional Head de Yango	9028
 Regional Health Bureau	1824
@@ -1445,7 +1481,7 @@ Regional Insights and Forecast	10718
 Regional Institute for Population Studies	9312
 Regional Institutions	961
 Regional Insurance Supervisory Commission	6938
-Regional Integration	3604,510,1127,1696,218,547,3057,76,2,1,74
+Regional Integration	3604,510,1127,1696,218,547,3057,76,2,1,74,56
 Regional Integration And Inclusion	10909
 Regional Integration Division	10634
 Regional Integration Economic Diversification Business	10837
@@ -1552,7 +1588,7 @@ Regional Training Programme	5677
 Regional Trust Matters	6186
 Regional Unique Identification Project	6251
 Regional Value Chains	8754
-Regional Vice President	969,295,20,583,1022,673,42,2935,126,4103
+Regional Vice President	969,295,20,583,1022,673,42,2935,126,4103,196
 Regional Vice President for Eastern and Southern Africa	6539
 Regional Vice President of Sales	5528
 Regional West Africa Unique Identification for Regional	1769,552,1531
@@ -1562,6 +1598,7 @@ Regional Workshop	3476,7033
 Regional and African Union Data Policy Framework	5244
 Regional and Continental Institutions	9660
 Regional and Cross-border Interoperability Strategy	5579
+Regional and District	10970
 Regional and ECOWAS and African Union	1777
 Regional and Global Frameworks. Ministry of Justice Foreign	1777
 Regional and International Alignment	5244
@@ -1572,6 +1609,7 @@ Regional and International Engagements The Research Council	1554
 Regional and International Organisations The Authority	6946
 Regional and International Organizations	6946
 Regional and International Partnerships	5677
+Regional and Local Levels	10964
 Regional and National-Level Implementation Arrangements	1264
 Regional and Pan-African Organizations	1243,571
 Regional-Presence	690,1
@@ -1612,7 +1650,7 @@ Register of Voters The Elections Act	1630
 Register of Voters. Further	1630
 Register of Voters. IEBC	3936
 Register of Voters. The IEBC	3936
-Registered	582,3,151,1992,47,1217,881,23,642,351,1731,225,567,454,91,824,74,127,119,56,250,358,28,71
+Registered	582,3,151,1992,47,1217,881,23,642,351,1731,225,567,454,91,824,74,127,119,56,250,358,28,71,96,16,12
 Registered Agent	5687
 Registered Births	2775
 Registered Contact	9612
@@ -1633,6 +1671,7 @@ Registered Refugees and Asylum Seekers	2775
 Registered Registered	7869
 Registered SIMs	1681
 Registered Service Integrators	10157
+Registered Taxpayer Base	10984
 Registered Trustees Data Processor INST-89244198CC4 KAKAMEGA	7167
 Registered Voter	7869
 Registered Voters	2775,7274
@@ -1686,6 +1725,7 @@ Registrar General Wendy Pierre	2371
 Registrar General and CEO of URSB	2757
 Registrar General and CEO of URSB and NIRA's Rosemary	2757
 Registrar General of Zambia	7879
+Registrar General's Department	11032
 Registrar General's Office	2371
 Registrar General’s Department	170
 Registrar Samuel Adom Botchway	3287
@@ -1714,7 +1754,7 @@ Registrar. PART	3714
 Registrar. Registrar	3714
 Registrars	5399,134,3445,1726
 Registrars Year	4202
-Registration	1,2,584,149,26,458,3,1504,45,200,55,103,31,480,73,173,93,133,7,329,104,560,563,756,400,115,218,499,168,1,36,53,156,40,31,29,25,1190,88,189,185,3,165,134,435,171,2,10,37,2,8,1,5,36,56
+Registration	1,2,584,149,26,458,3,1504,45,200,55,103,31,480,73,173,93,133,7,329,104,560,563,756,400,115,218,499,168,1,36,53,156,40,31,29,25,1190,88,189,185,3,165,134,435,171,2,10,37,2,8,1,5,36,56,43,1,158
 Registration Area Centres	10054
 Registration Area Olobu	10049
 Registration Areas	10049
@@ -1738,6 +1778,7 @@ Registration Office	3714
 Registration Office and Register	3714
 Registration Office. Registrar	3714
 Registration Officer	10358
+Registration Ordinance	10979
 Registration Portal	2119
 Registration Regulations	9781
 Registration Service	3426
@@ -1785,7 +1826,7 @@ Registration of Telecommunication Service Subscribers	6946,2792
 Registration of Telecommunications Service Subscribers	2996
 Registration of Telecommunications Services. Registration	1583
 Registration of Voters	1630
-Registrations	1554
+Registrations	1554,9407
 Registrations Fig	1554
 Registre	555,180,443,577,648,220,460,226,282,397,563,388,1856,407,130,381,5,79,99,6,74,1,360,104,450,1122,48,4,647,163,1,6,28
 Registre Article	735
@@ -1796,12 +1837,15 @@ Registre National	557,627,47,6762,1644,1,30,879,274
 Registre National Unique	417,3783
 Registre National des Nationalités	7993,1675
 Registre National des Personnes Physiques	2623,135,551,78,217,1874,612,3547,1,1183,117
+Registre Social Unifie du Cameroun	10971
 Registre Social Unifié	2107
+Registre Social Unifié du Cameroun	10985
 Registre Social Unique	2713,787,7366,16,28,17,11
 Registre Sont	735
 Registre de Commerce	5478
 Registre des Bénéficiaires Effectifs. MINISTÈRE	4402
 Registre du Commerce	6942,404,3490,26,17
+Registre du Courrier Enregistrement	10975
 Registred	5687
 Registred Note	5687
 Registres	10821
@@ -1855,6 +1899,7 @@ Regiões	7666,2448
 Regulamentação Regional	2816
 Regulamento de Registo	2816
 Regulation Governing SIM Card Registration	1840
+Relatório Regional	11044
 Rep. Resident Register	10714
 Rep. Zambia Register VIZ Database	10714
 Representing the UNESCO Regional Office for Southern Africa	10601
@@ -1865,6 +1910,7 @@ Resilience. The Western and Central Africa Regional	10829
 Resource and Registered Members	585
 Results Report Eastern Africa Regional Digital	6928
 Results Repository Data Warehouse Provider Registry	21
+Reunião de Coordenação Regional	11044
 Risk Register	1154,6394
 Risk Register. Risks	1554
 Risk Registers	6432
@@ -1934,6 +1980,7 @@ Sierra Leone National Civil Registration System	10714
 Sim Card Registration	10822
 Simplification of Birth Registration	10765,10
 Simplified Birth Registration System	6807
+Single National Register	10991
 Single Registry	10822
 Single Social Registry	6251,4524
 Sistema Integrado de Registo Civil	10765,7,3
@@ -1949,6 +1996,7 @@ Social Registries for Social Assistance and Beyond	10819
 Social Registry	1992,840,8034
 Social Registry Information System	1687
 Social Registry Information System SRIS	1687
+Social Registry WBG World Bank Group	10964
 Social Safety Register	4794
 Sociale Stratégique RFU Registres Fonciers Urbains	10876
 Solomon Islands Civil Registry	10714
@@ -1956,11 +2004,12 @@ Solutions Strengthening Regional Cooperation for Returns-	10864
 Soma and Basse. Registration	9316
 Somalia National Identification and Registration Authority	2274
 Somalia's National Identification and Registration Authority	2114,1472
-Somalia’s National Identification and Registration Authority	2743,76
+Somalia’s National Identification and Registration Authority	2743,76,8305
 South Asia Region	10714
+South Region	10988
 South Sudan Business Registry	3583
 South Sudan's Directorate of Civil Registry	4635
-South West Region	9513
+South West Region	9513,1475
 South West Region of Cameroon	2319
 South West Region. Digitalization	4594
 South-West Region. Digitalisation	4603
@@ -1977,6 +2026,8 @@ Space Exploration Technologies Corp. Registration Statement	6467
 Srenphonee Regional Courier	9781
 St. Kitts and Nevis National Registration System	10714
 St. Lucia Voter Registration System	10714
+Steve Regire Tassembedo	11063
+Steve Regis Tassembedo	11063
 Strategic Sovereignty and Regional Leadership Global	7548
 Streamline Business Registration	2356
 Strengthen Regional Connectivity The Blue Raman	6554
@@ -2014,6 +2065,7 @@ Tillabery Region. Following	10951
 Timeline for SIM Card Registration Laws. Benin	10822
 Timely and Universal Registration Responses Score	10812
 Togo Launches Biometric ID Registration	3437
+Togo Reviews Civil Registration Law	11104
 Trade Register	4542
 Trade and Personal Property Credit Register	6473,4389
 Traffic Registration Number	6527
@@ -2042,7 +2094,11 @@ Unified Digital Civil Registration System	4639
 Unified Digital Credit Registry	8184
 Unified Registration and Identification System	10714
 Unified Social Register	10765,10
-Unified Social Registry	1571,421,1081,1354,6338,10
+Unified Social Registry	1571,421,1081,1354,6338,10,188,1,27
+Unified Social Registry Communal	10964
+Unified Social Registry US	971
+Unified Social Registry of Cameroon	10971,14
+Unified Social Registry. Algeria	10991
 Unified System for Civil Registration and Administrative	10714
 Unique Entity Registration Number	6121
 Unique Identification for Regional Integration and Inclusion	3834
@@ -2124,6 +2180,7 @@ Western and Central Africa Regional	1264
 Workflow of RCI Birth Registration Process	10765,10
 World Bank Africa Region	3763,14
 World Bank Digital and AI Regional	5400
+World Bank Western and Central Africa Region	10964
 World Bank-funded Regional West Africa Unique	4855
 World Bank-funded SADC Regional Statistics Project	3476
 World Bank’s Africa Regional Integration	10841

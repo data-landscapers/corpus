@@ -10,6 +10,7 @@ Aboukar Nacanabo	1298
 Acção Social Escolar Direcção Nacional de Educação	10766
 Administración Publica Múltiples Nacional	4209
 Administração Nacional de Estradas	1228
+Administração Nacional de Rádio	11045
 Adultos Direcção Nacional	10766
 Adultos Direcção Nacional da Educação Pré-Escolar	10766
 Agencia Nacional de Ciberseguridad	6992
@@ -39,7 +40,7 @@ Archivo Nacional	10438
 Arquivo Nacional de Identificação	10750
 Arquivo Nacional de Identificação Civil	7466,1805
 Arquivo de Identificação Direcção Nacional	10750
-Assembleia Nacional	14,1,152,372,10,643,2327,556,661,536,195,324,195,2,294,427,138,233,38,1191,210,639,1,640,948,2,3,3,1,30
+Assembleia Nacional	14,1,152,372,10,643,2327,556,661,536,195,324,195,2,294,427,138,233,38,1191,210,639,1,640,948,2,3,3,1,30,286
 Assembleia Nacional Lei	539
 Assembleia Nacional Publicação	14,535
 Assembleia Nacional. A Lei	9161
@@ -73,7 +74,7 @@ Banco Nacional de Bata Guinea Ecuatorial	4209
 Banco Nacional de Desarrollo	1701
 Banco Nacional de G.E	4209
 Banco Nacional de Guinea Ecuatorial	1701,3293
-Banda Larga Nacional	5272
+Banda Larga Nacional	5272,5800
 Bata Múltiples Nacional	4209
 Biblioteca Nacional	4209,6229
 Bilhete de Identidade Nacional	10750
@@ -108,6 +109,7 @@ Centrales Múltiples Nacional	4209
 Centro Nacional	2585,1624,5315
 Centro Nacional Enrique Matala Matomba de Ekuku	4209
 Centro Nacional de Cibersegurança	4146,1,71,5039
+Centro Nacional de Cibersegurança. Em	11072
 Centro Nacional de Cibersegurança. Por	5272
 Centro Nacional de Cibersegurança. Segundo	4736
 Centro Nacional de Dados	10754
@@ -125,7 +127,7 @@ Chamada A Assumir Papel Nacional Américo	8827
 China Eximbank-financed Rede Nacional de Banda Larga	4455
 Cibersegurança Nacional	1431,1
 Circulo Eleitoral Nacional	539
-Cloud Nacional	5272
+Cloud Nacional	5272,5800
 Cloud Nacional de Angola	1192
 Cofre Geral de Justiça. A Direcção Nacional	10752
 Cohesión Nacional	1701
@@ -210,10 +212,13 @@ Comité Nacional de Diversificación Económica	4209
 Comité Nacional de Inclusão Financeira	2138
 Comité Nacional de Luxofonía	4209
 Comité Nacional de Medidas Sanitarias	4209
+Comité Nacional de Política Económica da Costa	11044
 Comité Nacional de Seguridad	4209
 Comité Nacional de Transporte	4209
 Comité Nacional de Turismo	4209
 Comité de Iniciativa Nacional de IA	3519
+Comités Nacionais de Política Económica	11044
+Comitês Nacionais de Coordenação	11044
 Comunicação Instituto Nacional de Avaliação	10766
 Comunidad Nacional	1701
 Conferencia Económica Nacional CIC	1701
@@ -228,7 +233,7 @@ Consejo Nacional de Estadística	10487
 Consejo Nacional de Medio Ambiente	1701
 Consejo Nacional de Planificación	1701
 Conselho Nacional	4736
-Conselho Nacional de Cibersegurança	4146,1,71,4662,919
+Conselho Nacional de Cibersegurança	4146,1,71,4662,919,1273
 Conselho Nacional de Electricidade	9226
 Conselho Nacional de Estatística	6619
 Conselho Nacional de Inteligência Artificial	3519
@@ -271,7 +276,7 @@ DIRECÇÃO NACIONAL Houve	10752
 DNAICC Direcção Nacional	10765,10
 DNIRN Direcção Nacional de Identificação	10765,10
 DNRN Direcção Nacional	10765,10
-Data Center Nacional	5272,270
+Data Center Nacional	5272,270,5530
 Defesa Nacional	549,6421,3802,11
 Delegado Nacional Seguridad	4209
 Digital Economy NACOSTI National Commission for Science	7548
@@ -341,7 +346,7 @@ Estrategia Nacional de Desarrollo Sostenible V. EJES	1701
 Estrategia Nacional de Seguranca Cibernetica	10440
 Estrategia de Desarrollo Nacional	1701
 Estratégia Nacional	2125,691,742,7194
-Estratégia Nacional de Cibersegurança	3246,900,1,71,4662,919
+Estratégia Nacional de Cibersegurança	3246,900,1,71,4662,919,1273
 Estratégia Nacional de Ciência	2816
 Estratégia Nacional de Desenvolvimento	9694
 Estratégia Nacional de Desenvolvimento da Estatística	6619
@@ -350,7 +355,7 @@ Estratégia Nacional de IA	2816,2847,1263
 Estratégia Nacional de Inclusão Financeira	795,2179,1846,2346,3606
 Estratégia Nacional de Inclusão Financeira Luanda	7166
 Estratégia Nacional de Inteligência Artificial	2816,703,2144,1582,3306
-Estratégia Nacional de Segurança Cibernética	795,1989,32,4154,766,2704
+Estratégia Nacional de Segurança Cibernética	795,1989,32,4154,766,2704,632
 Estratégia Nacional de Transformação Digital	2816,3769
 Estratégias Nacionais de IA	2816
 Festival Nacional de Arte	4209
@@ -404,7 +409,7 @@ Infra-estruturas Críticas Nacionais	2784
 Infraestructuras de Agua Múltiples Nacional	4209
 Inquérito Nacional de Satisfação	6619
 Instituições Nacionais de Direitos Humanos	10750
-Instituto Nacional	1526,1340,1343,301,3226,1230,728,1059
+Instituto Nacional	1526,1340,1343,301,3226,1230,728,1059,358
 Instituto Nacional Superior de Telecomunicaciones	3494
 Instituto Nacional de Administración Pública IP	1701
 Instituto Nacional de Conservación	4209
@@ -488,8 +493,10 @@ Mº SEGURIDAD NACIONAL Cuentas CONCEPTO	4209
 Mº de SEGURIDAD NACIONAL Servicio	4209
 Múltiples Nacional	4209
 Múltiples Nacional Aeropuertos de Malabo	4209
+NAC Okays Framework To Build Nigeria	11126
 NACANABO	5304
 NACCA	4126
+NACHTIGAL	10975
 NACION. AUDITORÍAS PRESIDENTE MISIONES MALABO CONT	4209
 NACIONAL CIBERNÉTICOS Y DE SEGURIDAD LUCHA	4209
 NACIONAL DE ALIMENT. BACHILLER. POLITECNICO DISTRITAL	4209
@@ -503,13 +510,18 @@ NACOSTI National Commission for Science	2775
 NACSA	6355
 NaCCA	7492
 Nac. UNESCO Director General Jefe	4209
-Nacala	3533,6228
+Nacala	3533,6228,1350
 Nacala-Lobito	6775
 Nacanabo	2603,1780,1339
 Nacanabo. Au	1918
 Nachfrage	2219
+Nachiket Udupa	11006
 Nachinga	10705
 Nachiri	9399
+Nachtigal	10975
+Nachtigal Amont	10975
+Nachtigal Memve'ele	10975
+Nachtigal N	10975
 Nachu	10592
 Nacimiento	1701
 Nacionais	2816,7967
@@ -544,7 +556,7 @@ Nacionalno	10780
 Nacionalnog	10780
 Nacionalnom	10780
 Naciones Unidad	975
-Naciones Unidas	758,217,726,2508,3839,2439
+Naciones Unidas	758,217,726,2508,3839,2439,541
 Nación	1701,2508
 Nación Ecuatoguineana	1701
 Nación Ecuatoguineana. La Autoridad Tradicional	1701
@@ -556,7 +568,7 @@ Noviembre. Plan Nacional de Numeración Telefónica	9543
 Nuvem Nacional de Angola	5979,1
 O Banco Nacional de Angola	7115,225,3415
 O Bilhete de Identidade de Cidadão Nacional	10749,7
-O Centro Nacional de Cibersegurança	4218
+O Centro Nacional de Cibersegurança	4218,6854
 O Comando Provincial da Polícia Nacional	794
 O Conselho Nacional de Cibersegurança	4147
 O Conselho Nacional de Segurança Cibernética	6970
@@ -625,7 +637,7 @@ Plano Nacional de Desenvolvimento Sanitário	10760,17
 Plano Nacional de Digitalização Portuária	8729
 Plano Nacional de Frequências	15,2851
 Plano Nacional de Numeração	15
-Plano de Desenvolvimento Nacional	1215,2304,384,391,726,954,2334,952,1497,18,2,6
+Plano de Desenvolvimento Nacional	1215,2304,384,391,726,954,2334,952,1497,18,2,6,289
 Planos de Desenvolvimento Nacional	8309
 Plataforma Nacional de Gestión Minera	9303
 Plataforma Nacional de Identidade Digital	9909
@@ -649,6 +661,7 @@ Política Nacional de Saúde	7707
 Política Nacional de Segurança Cibernética	795,6941
 Política Nacional de Segurança Cibernética Moçambique	795
 Política Nacional de Vivienda	1701
+Port of Nacala	11089
 Prema Nacionalnoj	10780
 Prema Nacionalnom	10780
 Preparação da Realização da Conferência Nacional	2816
@@ -657,7 +670,7 @@ Presidente da Assembleia Nacional	539,2980
 Presidentes Parlamento Nacional	4209
 Primera Conferencia Económica Nacional	1701
 Procuradoria Geral da República. A Polícia Nacional	10751
-Programa Espacial Nacional	5405,1180,25,28,361,1544
+Programa Espacial Nacional	5405,1180,25,28,361,1544,2529
 Programa Nacional	4209
 Programa Nacional de Control de Epizootias	4209
 Programa Nacional de Controlo	10188
@@ -693,6 +706,7 @@ Red Nacional de Emisoras	4209
 Rede Nacional de Banda Larga	1088,61
 Rede Nacional de Banda Larga. São	2365
 Rede Nacional de CSIRTs	6970
+Rede Nacional de Fibra	11072
 Regimento da Assembleia Nacional	539,2980
 Registo Nacional	10769
 Regulamentação Nacional Em	2816

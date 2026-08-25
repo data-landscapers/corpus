@@ -62,6 +62,8 @@ Automated Processing Provides	10908
 Autorização Geral Provisória	2701
 Awale Connectivity Provider	10956
 A’ Internet Access Provider	7036
+BANK PREMIUM TRUST BANK PROVIDUS BANK	11002
+Bamenda Ecclesiastical Provincial Health Assistance	10970
 Bank of Ghana ISP Internet Service Provider	6936
 Basic Health Care Provision Fund	4301,493
 Basic Healthcare Provision Fund	4301
@@ -216,10 +218,11 @@ Duration of Provision of Data	4154
 Délimitation des Provinces	2625
 E ENS ArticleThird-party Payment Providers	6998
 E-CSP Electronic Certification Service Provider EMDE	6946
+E.g. Provide	11004
 EABL Provident Fund Data Controller INST-494930800CE	7167
 EFFECTIVE AND EFFICIENT WHO PROVIDING	10776
 EMPLOYMENT BY INTERNET ACCESS PROVIDERS	6000
-EQUALITY Public Perception of Education Provision	10835,3
+EQUALITY Public Perception of Education Provision	10835,3,130
 Eastern Cape Province	6832
 Eastern Cape Provincial Government	8018
 Eastern Province	4942,457,207,283,454,183,20,482,2732
@@ -301,7 +304,7 @@ Etat DONNÉES PROVISOIRES INFORMATIONS GÉNÉRALES	2342
 Every Province MCAZ Engages Influencers Over	7312
 Evidence Provided Compliance Status Identity	6432
 Evolving Role of Content Providers Content	2830
-Expenditures MSP Managed Service Provider CDN	3184,1,1340
+Expenditures MSP Managed Service Provider CDN	3184,1,1340,6470
 F Régions Provinces Garçons Filles G	10847
 FARMACIAS Y SIMILARES CAPITALES DE PROVINCIAS	4209
 FAS Provincial Director	10763
@@ -339,6 +342,7 @@ GENERAL PROVISIONS CHAPITRE PREMIER	1214
 GENERAL PROVISIONS Definitions General	3714
 GENERAL PROVISIONS FOR THIS SCHEDULE Penalties	3714
 GENERAL PROVISIONS Protection	3714
+GENERAL PROVISIONS. CHAPTER	10974
 GOBERNADOR PROVINCIAL	4209
 GOBIERNOS PROVINC.REG.CONT.-Concepto	4209
 GOBIERNOS PROVINC.REG.INS.-Concepto	4209
@@ -402,7 +406,7 @@ INTERNET SERVICE PROVIDER	3386,476
 INTERNET SERVICE PROVISION	718
 INTRODUCTORY PROVISIONS PART	3714
 IPA Província de Maputo	414
-ISP Internet Service Provider IPP Independent	3184,1,1340
+ISP Internet Service Provider IPP Independent	3184,1,1340,6470
 ISP Internet Service Provider LTE Long-Term	1818
 ISPs Internet Service Providers IT Information	2775
 Identity Provider	1846,8973
@@ -497,7 +501,7 @@ Member of Provincial Parliament	8999
 Mensual PROVINCIAS DISTRITOS Importe Mensual Importe	4209
 Micro Network and Service Provider	9335
 Midlands Province	362
-Miscellaneous Provisions	587,3300,3958,149
+Miscellaneous Provisions	587,3300,3958,149,3027
 Miscellaneous Provisions International	587
 Mobile Network Operators and Internet Service Providers	4661
 Moov Connectivity Provider	10956
@@ -655,15 +659,16 @@ Provedores de Serviços Digitais	6970
 Provedores de Serviços de Internet Rede Tecnológica Privada	6970
 Provedores de Serviços de Segurança Cibernética	6970
 Proveedores	1701
-Proven	962,415,2301,755,143,5533
+Proven	962,415,2301,755,143,5533,876
 Proven Playbook For Quitting	4554
 Proven SaaS	6432
 Proven Starlink	6876
 Provenance	24,90,325,153,366,230,75,90,15,322,111,22,3,58,212,14,198,216,84,55,291,113,159,269,356,2,259,36,98,195,2,1,231,167,2,1,1,22,39,62,90,92,72,6,1,1,3,2,1,2,308,56,19,4,87,11,26,32,5,18,53,104,61,1,62,20,83,21,20,154,28,14,14,43,286,215,113,83,7,26,13,143,84,95,58,409,651
 Provenance Staged	7850
 Provenir	10876
-Provide	170,225,341,26,137,41,18,42,131,573,74,36,14,160,471,18,232,66,214,594,389,154,359,43,82,251,384,288,132,11,1,3,7,106,360,37,242,362,142,12,1,33,284,282,998,271,306,314,166,1,251,302,250,143,164,7,42,56,90
+Provide	170,225,341,26,137,41,18,42,131,573,74,36,14,160,471,18,232,66,214,594,389,154,359,43,82,251,384,288,132,11,1,3,7,106,360,37,242,362,142,12,1,33,284,282,998,271,306,314,166,1,251,302,250,143,164,7,42,56,90,98,72
 Provide APIs	6423
+Provide Biometric Data Press Release	11079
 Provide Cloud	6432
 Provide Connectivity and Managed Network Services	2552
 Provide Connectivity and Managed Network Services Partner	2552
@@ -688,7 +693,7 @@ Provider US	736
 Provider Virtual Asset Tokenization Provider Token	10738
 Provider. Providers	9123
 Provider. SLOs	9123
-Providers	34,384,2059,638,667,344,93,306,85,598,1134,598,1275,409,495,4,450,584,267
+Providers	34,384,2059,638,667,344,93,306,85,598,1134,598,1275,409,495,4,450,584,267,626
 Providers CA Communications Authority of Kenya Dare	6671
 Providers That Become Part of Africa's Telecom	10588
 Providers Verify	9429
@@ -697,7 +702,7 @@ Providers of AI	7855
 Providers of Artificial Intelligence Systems	2958
 Provides	86,129,257,290,321,389,214,302,1507,1033,3020,242,1333,5,1635,5,140
 Provides ICT	907
-Providing	236,539,183,3,268,14,120,191,26,124,74,40,49,86,35,537,250,183,47,215,293,54,647,174,344,18,476,137,302,31,1244,8,481,119,297,177,353,61,110,40,254,165,198,433,66,34,229,337,68,393,78,15
+Providing	236,539,183,3,268,14,120,191,26,124,74,40,49,86,35,537,250,183,47,215,293,54,647,174,344,18,476,137,302,31,1244,8,481,119,297,177,353,61,110,40,254,165,198,433,66,34,229,337,68,393,78,15,117,12,92
 Providing CRAC	9123
 Providing Future Solutions Now	1263,1045
 Providing Holistic Care	10829
@@ -789,7 +794,7 @@ Provisional	2775,92,847,1104,2128
 Provisional Data for Telkom Kenya Limited Table	6671
 Provisional Register of Voters	10017
 Provisional. PAGE	2775
-Provisions	546,39,435,134,89,144,2327,95,1087,782,1,1269,600,28,31,670,2498
+Provisions	546,39,435,134,89,144,2327,95,1087,782,1,1269,600,28,31,670,2498,200
 Provisions Concerning Closely Held Companies	3714
 Provisions Indeed	5678
 Provisions National Regulatory Authorities	5679
@@ -829,9 +834,9 @@ Província da Lunda-Norte	539
 Províncias	10757,15
 Províncias de Nampula	1808
 Public Data Service Providers	958
-Public Perception of Education Provision	10759,76,2,1
+Public Perception of Education Provision	10759,76,2,1,130
 Public Perception of Education Provision Social Protection	10759
-Public Perception of Health Provision	10759,76,2,1
+Public Perception of Health Provision	10759,76,2,1,130
 Public Perception of Health Provision Education	10759
 Public Service Commission and Gauteng Provincial Government	4896
 Quality of Service. For Internet Service Providers	9110
@@ -842,7 +847,7 @@ REGIONAL PROVINCIAL Cuentas CONCEPTO	4209
 RELEVANT PROVISIONS OF THE MEMO	4896
 RESTAURANTES CAPITALES DE PROVINCIAS CAPITALES	4209
 RFP FOR PROVISION OF TRANSACTION ADVISORY	5793
-RIGHTS Public Perception of Health Provision	10835,3
+RIGHTS Public Perception of Health Provision	10835,3,130
 Recovery Plan Service Providers	10721
 Regional Network Provider MOD Ministry of Defense	1000
 Registration of Cloud Service Providers	6432
@@ -882,6 +887,7 @@ SNDECI. Provenance	10913
 SPFP Minoritaire DONNÉES PROVISOIRES INFORMATIONS GÉNÉRALES	2342
 SRI Provides	10768
 SUBSECÇÃO XII Provedor de Serviços de Segurança Cibernética	6970
+Safety Net Services Provided	10964
 Saharan Africa. Provides	1557
 Sandbox Hub. Manicaland Minister of State for Provincial	8705
 Satellite Backhaul Service Providers	10407
@@ -967,6 +973,7 @@ Systm Upgrades Provincial Courts Proceedings	2987,16,13,949,1438,159,1347
 TIENDAS ARTESANALES CAPITALES DE PROVINCIAS CAPITALES	4209
 TONGON DONNÉES PROVISOIRES	2342
 TRADICIÓN PROVINCIAL PROVINCIAL PROVINCIAL PROVINCIAL	4209
+TRANSITIONAL AND FINAL PROVISIONS SECTION	10974
 TRANSITIONAL AND MISCELLANEOUS PROVISIONS	3714
 TRANSITIONAL AND MISCELLANEOUS PROVISIONS Conversion	3714
 TRANSITIONAL PROVISIONS AND TEMPORAL APPLICATION	3861
@@ -974,6 +981,7 @@ Taita Providers	6946
 Tanzania Internet Service Providers Association	2580
 Tanzania. Provides	1152
 Technical Connectivity Provider	5201,54
+Technical Service Provider Guideline	11041
 Technology Service Providers of Kenya	6946
 Telecom Providers CAPEX	3862
 Telecommunications Entrance Room Provide	9123

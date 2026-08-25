@@ -32,6 +32,7 @@ CS Treasury. Kindiki	2666
 Cabinet Secretary Treasury	2666
 Cabinet Secretary for National Treasury and Economic	6231
 Cabinet Secretary for The National Treasury and Economic	10313
+Cameroon Government Revenue and Tax Composition Trends	10997
 Capital Mobility and Foreign Exchange Treatment Investors	10157
 Care and Treatment	1261
 Central Treasury Accounting Agency	969
@@ -94,11 +95,13 @@ Global Trends Global Overview	4972
 Global Trends Shaping Domestic Priorities	4848
 Global Trends Shaping Domestic Priorities Nigeria	4848
 Global Trends and International Lessons	8670
+Government Revenue and Tax Composition Trends	10997
 Government of Uganda1s Treasury Single Account	4217
 Grobler. Treasury	9127
 HIV Next-Generation Treatment Accelerating	4167
 Hand and Treleaven2025	8283
 Head of Treasury	7444
+Health and Sustainable Environment. Trend Bouncing Back	10968
 ICT Sector Budget Allocation Treasury	1746
 ICT Treasury	7548
 ICT. Treat	6832
@@ -163,7 +166,7 @@ National National AI and Public Service Treasury	7548
 National Public Treasuries	10853
 National Treasuries	10022
 National Treasuries and BEAC National Directorates. About	10022
-National Treasury	396,893,457,88,4,322,147,307,128,201,72,249,240,110,100,27,148,744,160,31,36,463,210,3,1,256,129,211,18,1,114,166,156,358,112,38,44,40,320,14,18,16,59,103,124,76,108,26,520,35,1,103,61,15,4,57,106,3,56,1,121,112,128,309,111,152,104,59,20,7,184,496
+National Treasury	396,893,457,88,4,322,147,307,128,201,72,249,240,110,100,27,148,744,160,31,36,463,210,3,1,256,129,211,18,1,114,166,156,358,112,38,44,40,320,14,18,16,59,103,124,76,108,26,520,35,1,103,61,15,4,57,106,3,56,1,121,112,128,309,111,152,104,59,20,7,184,496,197
 National Treasury AI	7548
 National Treasury Date	4633
 National Treasury Director-General	3741
@@ -196,7 +199,7 @@ Newgry Money Tree	8732
 Nigeria Launches Treasury Management System	2527
 Nigeria’s Fintech Landscape and Global Trends	4848
 Nigeria’s Fintech Landscape and Global Trends Financial	4848
-OVERALL GOVERNANCE TREND	10835,3
+OVERALL GOVERNANCE TREND	10835,3,130
 Office of Treaty Affairs	1234
 OlffPeerirnfgosrmance Trends	6051
 Olive Tree Media Limited	2742
@@ -213,6 +216,7 @@ Pandemic Treaty	7187
 Participation and Rights. Trend Measure Score	10835
 People On Antiretroviral Treatment	4153,49,15,132,1003
 Pesaflow Limited and Olive Tree Limited	2742
+Pew Global Attitudes and Trends	11004
 Pnet Job Market Trends Report	6832,1747
 Poppy Day Next Article Treasury	3933
 Post-COVID Trends and Emerging Opportunities	10718
@@ -279,9 +283,11 @@ TRENDS IN THE GOVERNANCE OF DATA	1243
 TRENDSNAFRICAAFRICAN NEWS PORTAL Sign	3768
 TRESCIENTOS CINCUENTA MIL	4209
 TRESCIENTOS MIL	4209
-TRESOR PAY	10532
+TRESOR PAY	10532,449
+TRESOR PAY. Article	10981
 TReDS	3391
 TSA Treasury Single Account WA Withdrawal	969
+Tea-Time Treat	11122
 Tech Trends	5712
 Technologies Infrastructure Readiness Budget Treasury	7548
 Togo's Treasury	7871
@@ -293,7 +299,7 @@ Treasur	6432
 Treasurer's REPORT	9437
 Treasurers Report	9437
 Treasuries	10922
-Treasury	648,104,217,185,118,12,121,149,22,207,1,5,1,1,1,3,2,13,18,6,473,121,244,70,187,86,186,7,2,117,256,31,100,86,327,401,105,9,13,138,67,334,14,195,130,260,76,53,487,476,197,3,4,1,47,153,258,605,330,102,118,76,61,165,234,128,92,86,359,115,103,96,575,16,20,16
+Treasury	648,104,217,185,118,12,121,149,22,207,1,5,1,1,1,3,2,13,18,6,473,121,244,70,187,86,186,7,2,117,256,31,100,86,327,401,105,9,13,138,67,334,14,195,130,260,76,53,487,476,197,3,4,1,47,153,258,605,330,102,118,76,61,165,234,128,92,86,359,115,103,96,575,16,20,16,137,3
 Treasury Annual	7548
 Treasury Bill	7695
 Treasury Bills	7695
@@ -329,7 +335,7 @@ Treasury the Head	6938
 Treasury-issued	4659
 Treasury.gov.za Closing	10809
 Treasury’s	10845
-Treat	573,693,89,617,24,579,33,250,219,1030,273,179,60,232,17,400,777,185,208,165,71,66,92,229,77,143,470,250,447,422,155,635
+Treat	573,693,89,617,24,579,33,250,219,1030,273,179,60,232,17,400,777,185,208,165,71,66,92,229,77,143,470,250,447,422,155,635,1346
 Treat AI	7751
 Treat Premature Ejaculation	5574,215
 Treated	124,419,3926,42,2638,1505,1043,912
@@ -339,8 +345,8 @@ Treaties and Frameworks	7548
 Treaties and Frameworks Implementation	7548
 Treaties and Other International Acts Series	1234,3013,55,6411
 Treaties and Protocols	1000
-Treating	2307,3244,2094,106,39,176,42,595,1115,832
-Treating DPI	4424
+Treating	2307,3244,2094,106,39,176,42,595,1115,832,483
+Treating DPI	4424,6582
 Treating.ng	4690
 Treatment	1988,2165,49,15,43,41,48,1003
 Treatment Adherence Using	10784
@@ -372,14 +378,14 @@ Trello	2674
 Tremblay-Cantin	5349
 Tremont. The U.S	5165
 Trencon Construction	2307
-Trend	236,482,2333,2196,533,628,538,1161,2652,4,72,3,18,56
-Trend Bouncing Back	10835,3
-Trend Bouncing Back Slowing Deterioration Increasing	10835,3
+Trend	236,482,2333,2196,533,628,538,1161,2652,4,72,3,18,56,56
+Trend Bouncing Back	10835,3,130
+Trend Bouncing Back Slowing Deterioration Increasing	10835,3,130
 Trend Central African Republic	10837
 Trend Characteristic	10837
-Trend Characteristic Scores	10835,3
+Trend Characteristic Scores	10835,3,130
 Trend Increasing Improvement Bouncing Back Overall	10835,3
-Trend Increasing Improvement Bouncing Back Slowing	10759,76,3
+Trend Increasing Improvement Bouncing Back Slowing	10759,76,3,130
 Trend Increasing Improvement Slowing Improvement Warning	10759
 Trend Micro	6446,979,2862
 Trend Overall Governance	10837
@@ -403,7 +409,8 @@ TrendMD	6997
 Trending News	5784,166,263
 Trending Now	7441,192,3011
 Trending Stories	8884
-Trends	718,1378,679,78,730,1093,1917,353,2,1182,475,2109,4,41,26,50,2,1
+Trending Stories Namibia	11122
+Trends	718,1378,679,78,730,1093,1917,353,2,1182,475,2109,4,41,26,50,2,1,130,36
 Trends Reshaping Africa’s Mobile Industry	6714
 Trends and Future Directions	9128
 Trends and Insights for Africa	7833

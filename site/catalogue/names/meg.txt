@@ -4,7 +4,7 @@ Billions of Megabytes	2776
 Chames-Dine Meguida	5260
 Chames-Dine Meguida. Au-delà	5260
 Channel for Megaport	2591
-Content Delivery Network MW Megawatts Colo	3184,1,1340
+Content Delivery Network MW Megawatts Colo	3184,1,1340,6470
 Este Mega Sistema	1701
 Este Mega-Clúster	1701
 Formerly Nipol Mega Empire Limited	3862
@@ -42,6 +42,7 @@ MegaEdu	899
 MegaEdu26	899
 MegaMore Wireless Broadband Ltd	3862
 Megabits	3456,1232,1312,1877
+Megabits-per-second	11085
 Megabyte Aprili	2868
 Megabyte Juni	2868
 Megabyte Mbps	6000

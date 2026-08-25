@@ -26,6 +26,7 @@ Acquisition of High-Occupancy Buses	7695
 Act Business Names	3714
 Act. Business	11
 Actualité Digital Business Africa	3658,2617,145
+Ada Business Resource Centre	11032
 Admissions Academics Academic Calendar Business School	10123
 Africa Business Club	1037
 Africa Business Fellows Program	42
@@ -56,6 +57,8 @@ Alupe University Data Processor INST-9238228DAB4 BUSIA	7167
 American Journal of Industrial and Business Management	7759
 Angop US-Africa Business Summit	3093
 Annual Business Performance Report	7819
+Appendix C. Mobile for Business Knowledge and Skills	11017
+Appendix Mobile for Business Knowledge and Skills Guide	11017
 Argentine Business Forum	5264
 Associates Inc. Business Day	8267
 B.1 Business	8840
@@ -76,10 +79,11 @@ BUSHRAA MEDICAL CENTRE LIMITED Data Controller	7167
 BUSIA DENTAL SOLUTIONS LIMITED Data Processor	7167
 BUSIA HEALTHCARE SERVICES LIMITED Data Controller	7167
 BUSIA Kenya	7167
-BUSINESS	10759,76,2,1
+BUSINESS	10759,76,2,1,130
 BUSINESS AND INTELLECTUAL PROPERTY AUTHORITY	3714
 BUSINESS CONTINUITY	1000
 BUSINESS DEVELOPMENT AND INNOVATION TRAINING COLLEGE	7167
+BUSINESS GENERATION MOBILE MONEY	11004
 BUSINESS INSTANCE IMPLEMENTATION PLAN	1009
 BUSINESS MODEL AND REVENUE SOURCES	4896
 BUSINESS OVERVIEW AND CORPORATE ACTIONS	4896
@@ -105,6 +109,7 @@ Botswana Business Forum	6117
 Botswana' Statistics Botswana and Business Botswana	2360
 Bottom-up Economic Transformation Agenda BPO Business	6946
 British Businesses	1243
+Building Habits That Protect the Business Gathii	11033
 Bungoma Busia Garissa Wajir Mandera Marsabit	7869
 Bus Drivers Demand Tougher Road Safety	6077
 Bus Rapid Transit	2342,4474,508
@@ -132,9 +137,10 @@ Busia District	3005
 Busia Road Not Operational	3386
 Busia Senator Okiya Omatah	9645
 Busia Senator Okiya Omtatah	8949
-Business	3,8,225,182,155,9,193,14,157,12,51,152,82,14,27,313,231,112,6,147,496,93,154,3,81,295,68,25,102,27,116,161,68,88,28,25,46,157,1,305,27,69,159,66,38,260,161,35,96,6,45,139,32,90,3,7,68,40,1,326,97,42,66,6,90,175,672,123,8,35,12,141,184,11,39,15,51,91,36,13,123,229,40,181,197,107,4,235,5,109,16,68,78,336,158,96,36,27,105,248,2,32,87,29,20,88,48,1,9,38,34,19,11,12,2,1,3,15,6,50
+Business	3,8,225,182,155,9,193,14,157,12,51,152,82,14,27,313,231,112,6,147,496,93,154,3,81,295,68,25,102,27,116,161,68,88,28,25,46,157,1,305,27,69,159,66,38,260,161,35,96,6,45,139,32,90,3,7,68,40,1,326,97,42,66,6,90,175,672,123,8,35,12,141,184,11,39,15,51,91,36,13,123,229,40,181,197,107,4,235,5,109,16,68,78,336,158,96,36,27,105,248,2,32,87,29,20,88,48,1,9,38,34,19,11,12,2,1,3,15,6,50,52,4,1,4,3,1,13,14,3,10,33,33
 Business Acumen	6432
 Business Administration	10,4886,419,1631
+Business Affairs	11005
 Business Against Crime South Africa	5533,58
 Business Amazon Web Services AWS	10236
 Business Angels	2429
@@ -197,6 +203,8 @@ Business Education	6946
 Business Email Compromise	1680,4746,4295
 Business Enabling Reforms	3456
 Business Entities Act	4896
+Business Environment Obstacles	10976
+Business Equipment John Gathii of Tatua’s Digital	11033
 Business Eswatini	3647,330,3637
 Business Eswatini CEO Nathi Dlamini. Minister	5015
 Business Eswatini Pivotal Power Meeting	5015
@@ -232,6 +240,7 @@ Business Intelligence System and Data Service Center	1793,1413,3881
 Business International Report	1243
 Business Ireland Kenya Association Data Controller	7167
 Business KRA	9940
+Business Knowledge and Skills Guide	11017
 Business Law	6946
 Business Laws	10313
 Business Licences	9437
@@ -254,6 +263,7 @@ Business Monthly	3957
 Business Nakalema	6576
 Business Names CHAPTER	3714
 Business News	4873,1448
+Business Number	10964
 Business Officer	4542,2387
 Business Operations	5538
 Business Operations Support ESIEID LGBTQIA	5533
@@ -261,6 +271,9 @@ Business Optical	5015
 Business Overview	4896
 Business Performance	3898
 Business Plan	3678
+Business Plan Competition	10963,1,21
+Business Plan Competition Youths	10964
+Business Plan Competition. Page	10964
 Business Plan and NSDS Report	9485
 Business Post	4848,3338
 Business Priority	5212,662
@@ -268,7 +281,9 @@ Business Process Flow	10765,10
 Business Process Management Journal	9129,108
 Business Process Modelling Business	9124
 Business Process Outsourcing	2428,4518
+Business Productivity Tools	11033
 Business Promotion and Industry	5001
+Business Pulse Survey	10963,1
 Business Reading Time	6821,222
 Business Ready	8704,187
 Business Recorder Several	2743
@@ -294,6 +309,7 @@ Business Reporter Zimbabwe	7880
 Business Reporter. Published	4932
 Business Rescue	3714
 Business Rescue Fund	3714
+Business Resource Centres	11032
 Business Review	3898,2202
 Business Rules	21
 Business School	9781
@@ -335,8 +351,9 @@ Business and Disability Networks	10290
 Business and Economic Research	4432
 Business and Economics	9237
 Business and Farmers	789
-Business and Human Rights	3005,578,3564,1935
+Business and Human Rights	3005,578,3564,1935,1925
 Business and Human Rights Centre	9399
+Business and Human Rights.66	11007
 Business and Innovation	6441
 Business and Intellectual Property Authority	3714,3051,565
 Business and Intellectual Property Authority Act	3714
@@ -346,6 +363,7 @@ Business and Intellectual Property Authority Legislation	3714
 Business and Management Research	5244
 Business and Management. SAGE Publications	5349
 Business and Other Services	789
+Business and Politics	11050
 Business and Public Administration	4432
 Business and Social Science	2093,5666
 Business and Social Sciences	5349,3780
@@ -377,7 +395,8 @@ Businessday	9112
 Businessday NG	6838
 Businessday NG L-R	9633
 Businessday.ng.m3u8	6290
-Businesses	1264,326,46,336,16,37,978,100,315,186,334,17,795,75,163,136,123,552,223,133,47,61,464,46,69,156,158,142,80,82,5,58,28,157,231,62,10,71,45,160,149,241,26,1,10,128,96,59,114,58,10,391,23,78,65,55,86,146,41,11,63,175,147,57,38,35,216,6,29
+Businesses	1264,326,46,336,16,37,978,100,315,186,334,17,795,75,163,136,123,552,223,133,47,61,464,46,69,156,158,142,80,82,5,58,28,157,231,62,10,71,45,160,149,241,26,1,10,128,96,59,114,58,10,391,23,78,65,55,86,146,41,11,63,175,147,57,38,35,216,6,29,135
+Businesses and Government Agencies	10994
 Businesses. Wholesale	6539
 Busiro East MP Medard Sseggona	1811
 Busisiwe Kamolane-Kgadima	9889
@@ -398,12 +417,14 @@ Busunu	7695
 C. Supporting Capital Access and Sustainable Busi-	4848
 CALTAX BUSINESS SERVICES Data Controller INST-6721195C167	7167
 CEO of Savanna Fibre Uganda. BusinessUganda Communications	6053
+CERC Business Plan Competition CISE Caisse	10964
 CERTIFICATE OF BUSINESS	2709
 CIO NA Business	5533
 CIRCUIT BUSINESS SYSTEMS LIMITED Data Controller	7167
 CIRCUIT BUSINESS SYSTEMS LIMITED Data Processor	7167
 COMESA Business Council	279,593
 CPVs Business	9893
+CROSS-CUTTING BUSINESS NEEDS	11017
 CYCO BUSINESS SOLUTIONS LIMITED Data Controller	7167
 CYCO BUSINESS SOLUTIONS LIMITED Data Processor	7167
 Cabinet Decisions Cabinet Business	7760
@@ -457,7 +478,7 @@ Customs Business Offices	10581
 DC BUSINESS INT NBO LIMITED Data	7167
 DE BUS	2342
 DEVELOPMENT AND APPROVAL OF BUSINESS RESCUE	3714
-DIGITAL Business Africa	2056,1602,217,1991,409,107,38,1445,199,920,1271,3,121,2,310,177
+DIGITAL Business Africa	2056,1602,217,1991,409,107,38,1445,199,920,1271,3,121,2,310,177,205
 DM Pro Expands Liquor Business	10274
 DYNASOFT BUSINESS SOLUTIONS LIMITED Data Controller	7167
 DYNASOFT BUSINESS SOLUTIONS LIMITED Data Processor	7167
@@ -478,7 +499,7 @@ Department of Business Information Systems	2093
 Department of Small Business Development	8458
 Dept. Management Science Dept. Business Management	10123
 Develop New Ease of Doing Business Portal	3907
-Digital Business	415,6417,1683
+Digital Business	415,6417,1683,2502
 Digital Business Africa	1648,2010,2208,39,370,107,38,3959,2,310
 Digital Business Africa Internet	3658
 Digital Business Africa Se	3658,2617,145
@@ -517,6 +538,7 @@ ECOWAS Business Council. Dr. Abdul Kamara	7452
 ECOWAS Small Business Coalition	9117
 EE Business Intelligence	4950
 ENTERPRISE SERVICE BUS	2709
+ENTERPRISE SURVEYS ENTERPRISE SURVEYS WHAT BUSINESSES	10976
 ESSEC Business School	6154
 EU Business Forum	6552,191,1503
 EU-Ethiopia Business Forum	5873
@@ -540,6 +562,7 @@ Empowering Rural Businesses	6051
 Endeavour Crescent Mount Pleasant Business Park	10764,80
 Eng. Joseph Busienei	3878
 Engineering Director James Bush	2537
+Ensuring Sustainable Business Growth and Job Creation	10964
 Entebbe Airport Smuggling Ring Busted	3955
 Enterprise Architecture DSUB Electronic Business	1009
 Enterprise Service Bus	1814,2795
@@ -555,6 +578,7 @@ Expand Trade Finance for African Businesses	7523
 F- Busy D C- Yes Tablet	582
 FSCA and NWU Business School's Unit for Corruption	8354
 Facilities Finance Business Unit Owner N	9124
+Faculty Nova Business School Africa	11032
 Fawry Business Tap N Pay	9533
 Female Business Only Personal Only	582
 Fixed Business Unit. The Plan International	9917
@@ -573,6 +597,7 @@ George W. Bush	5141
 German-Kenyan Business Day	8342
 Ghana Business News	9421
 Ghana Industries BPO Business Process Outsourcing	236
+Ghana Kweku Hammond Business News Aug	11032
 Global Africa Business Initiative	5985
 Global Africa Business Initiative France and Morocco	5985
 Global Blockchain Business Council	9147,23
@@ -625,11 +650,12 @@ IOSR Journal of Business and Management	7759
 ISACA ITCap Business	9237
 Identity Document BUSINESS	10759
 Identity Document Business	10759
-Identity Document Education Business	10835,3
+Identity Document Education Business	10835,3,130
 Identity Verification System Platform. Businesses	7369
 Implementation Outlines. A Business Instance	1009
 Implications for Business	5220
 Improve the Business Climate	7160
+Independent News Business Desk	11048
 Individuals and Businesses Across Africa Wayne Venter	7324
 Information and Communications Youths Business	1161
 Infrastructure Business John Tanui	9938
@@ -665,6 +691,7 @@ Journal of Chinese Economic and Business Studies	5302
 Journal of Comprehensive Business Administration Research	9129
 Journal of Small Business and Enterprise	9129
 Journalists for Business Advocacy	9840
+Joy Business	11038
 KEDGE Business School	6154
 KEDGE Business School MSc Finance	6154
 Kenya and US Business Community Deepen Cooperation	10805
@@ -673,6 +700,7 @@ Kenyan-German Business Day	8342
 Key Business Updates	6100
 Kigali Bus Services	718
 Know Your Business	5369,2150,82
+Knowledge and Skills Guide. Mobile for Business Knowledge	11017
 LIKE Legal Business Court of Appeal	9750
 Lagos Business School	8764
 Large Taxpayers and Businesses	8670
@@ -716,6 +744,7 @@ Marketing Standard Bank Business and Commercial Banking	5247
 Mascom Chief Consumer Business Officer Gaborone	2916
 Master of Business Administration	6946
 Master’s of Business Administration	6946
+Means for Women Running Businesses	11033
 Means for Your Business	8027
 Mecanismos de Buscas	2816
 Member for Busumbala	5273
@@ -723,6 +752,8 @@ Memorandum of Understanding. PIC. Business Botswana Business	2360
 Methodology Business Process Used	9124
 Micro and Small Businesses	8669
 Mini Buses	10405
+Mobile for Business	11017
+Mobile for Business Knowledge and Skills Guide	11017
 MobileMobile BusinessTelecomsSenegalARTPRegulationSIMRead	2301
 Moon Business SpaceX	9816
 Morocco. Vodafone Business and Maroc Telecom	2755
@@ -761,7 +792,7 @@ Orange Business Live	5163,2051
 Orange Business Services and Expresso	5033
 Oxford Business Group	168,1529,5851
 Oxford Business Law Blog	8629
-PUBLIC ADMINISTRATION BUSINESS	10835,3
+PUBLIC ADMINISTRATION BUSINESS	10835,3,130
 Par Digital Business Africa	3658,217,2400,145,2564
 Participation Business	10837
 Paystack Small Business Bundle	6848
@@ -789,12 +820,13 @@ Registration Business	10823
 Regulating Virtual Asset Business Rwanda Finance	6998
 Rejected Business Collaboration Business Interface	9124
 Related Articles Business MBABANE	3422,225,6,324,50,146,12,487,343
+Remarkable Growth of Women-Owned Small Businesses	10963,1
 Renewable Energy Business Conference	6743
 Research and Business Administration Development	236
 Research and Knowledge Business	1672,1
 Research and Knowledge Business P231	1671
 Result View All Result Home Business	5774,1047,222
-Rights Human Business	10835,3
+Rights Human Business	10835,3,130
 Rome Business School. Elle	7496
 Rwanda-Botswana Business Forum	6117
 SERVICE BUS FORM	2709
@@ -868,8 +900,10 @@ Tuso Business Dynamics	7384
 Type of Business	1877
 U.S.-Africa Business Summit	3097
 UCT’s Graduate School of Business	432
+UHC Business Intelligence System Nov	10970
 Uganda Business News	1150
 Uganda Business News and Reuters	1283
+Uganda Mobile for Business Knowledge and Skills Guide	11017
 Under the Orange Business	8125
 Understanding and Managing Business	226
 Unfinished Business	4258
@@ -877,7 +911,7 @@ Unified Platform for Business Services Designed	3907
 United Nations Development Business	1867,8962
 United States. Bus Law Rev	9739
 University of Cape Town’s Graduate School of Business	1647
-University of Ghana Business School	7154,452
+University of Ghana Business School	7154,452,3426
 University of Pennsylvania's Wharton African Business Forum	7233
 Use Case. Business Instances	1009
 Use Case. Several Business Instances	1009
@@ -896,8 +930,11 @@ Vodafone Business and Maroc Telecom	2755
 Vodafone's Africa Business Delivers Double-Digit Service	8037
 Warwick Business School	6948
 Wave's Regional Head of Business Development	2940
+WhatsApp Business	11033
 WhatsApp Business Platform. Désormais	10685
+WhatsApp for Business	11018,15
 Whether the Government Bus	8798
+Women Entrepreneurs Learn Safe Digital Business	11033
 World Bank Ease of Doing Business	10841
 World Bank Ease of Doing Business Index	4528
 World Bank's Ease of Doing Business Index	8440

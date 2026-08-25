@@ -1,5 +1,6 @@
 AI Poverty	10726
 Accelerating Gender Equality To End Poverty	1867
+Addressing Multiple Poverty Traps	10964
 Angola Poverty	10763
 Angola Poverty Assessment	10768
 Angola's Distribution of Poverty	10765
@@ -11,6 +12,8 @@ Annex V. POVERTY BY MUNICIPALITY Data	10763
 Background Poverty	10866
 Boost Growth and Reduce Poverty. Washington	10841
 CR's Livelihood Empowerment Against Poverty	10841
+Cameroon Macro Poverty Outlook	10964
+Cameroon Poverty Assessment	10985
 Climate and Poverty Hotspots	10763
 Confronting AI Poverty	10726
 Department of Poverty Alleviation	7859
@@ -24,9 +27,11 @@ Ghana. Poverty	789
 Household Living Conditions and Poverty	10841
 INE- Multidimensional Poverty	10765,10
 Innovations for Poverty Action	76,291,296,446,1,374,6808,1985
+Introduction Poverty	10985
 Kenya Poverty Report	9547
 LAWSON-EVI Povi	8620
-Lived Poverty	10759,76,2,1
+Labor Markets and Poverty	10964
+Lived Poverty	10759,76,2,1,130
 Lived Poverty Health	10837
 Lived Poverty Public Perception of Economic Opportunities	10759
 Lived Poverty Sustainable Environment	10759
@@ -41,16 +46,21 @@ Multidimensional Poverty Index	206,3342
 Multidimensional Poverty Peer Network	206
 NGO Ajuda de Desenvolvimento de Povo	10784
 National Food Poverty Line	2307
+National Poverty Line	10985
 National Poverty Rate. Survey	10768
 Nigeria Poverty Assessment	3456
 Oil and Gas Alone Won’t End Poverty	10465
 Oxford Poverty	206
 Oxford Poverty Human	206
 POV Pauvreté SFI Société	7655
-Poverty	969,735,124,112,1664,1146,44,1745,1105,242,390,1786,664,37,17,61
-Poverty Assessment	1867,8896
+Pivotal Moment for Poverty Reduction	10985
+Poverty	969,735,124,112,1664,1146,44,1745,1105,242,390,1786,664,37,17,61,122,1,16,5
+Poverty Assessment	1867,8896,222
+Poverty Gap	10985
 Poverty Global Practice	4214
-Poverty Reduction Policies	10759,76,2,1
+Poverty Rate	10985
+Poverty Reduction	10964
+Poverty Reduction Policies	10759,76,2,1,130
 Poverty Reduction Strategy GRA Ghana Revenue	236
 Poverty Targeting Index	3604
 Poverty Trends	10062
@@ -61,6 +71,7 @@ Poverty and Vulnerability	10763
 Povos	14,10736
 Povos. LEI DA PROTECÇÃO DE DADOS	14
 Republic of South Sudan South Sudan Poverty	3583
+Rethinking Poverty Reduction	10985
 Rule of Law Absence of Crime Poverty Reduction	10759
 Social Safety Nets Poverty Reduction Policies	10837
 Social and Poverty	10779

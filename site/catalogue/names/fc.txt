@@ -27,6 +27,7 @@ FC O Serviço de Migração	3899
 FC Talanta and Eldoret International Union	6946
 FC score	10940
 FC. Recettes	2561
+FCA-authorized Electronic Money Institution Bancom Europe	11119
 FCB Botswana	5261,2
 FCBO9780511597237&linkType	5700
 FCC Building	9680
@@ -62,6 +63,7 @@ FCDO. The Global Program for Resilient Housing	10763
 FCDS. Em	10753
 FCFA Agronomique	2342
 FCFA BEAC577	2889
+FCFA BT	10975
 FCFA Billions	1828
 FCFA CNI	6674
 FCFA Charges	2476
@@ -79,8 +81,9 @@ FCFA Financé	7837
 FCFA Franc	4459
 FCFA Free	10823
 FCFA GINEERING	2342
-FCFA HT	10876
+FCFA HT	10876,99
 FCFA ITY HOLDINGS SA	2342
+FCFA LA TRANSPARENCE POUR UN SECTEUR	10975
 FCFA LEU	2342
 FCFA Lire	1299
 FCFA L’ampleur	10507
@@ -96,7 +99,9 @@ FCFA SA	2342
 FCFA SEUS COTE D’IVOIRE Limited	2342
 FCFA SODEMI	2342
 FCFA TOCI	2342
-FCFA TTC	8577
+FCFA TTC	8577,2398
+FCFA TTC CTD Décision	10975
+FCFA Tarif	10975
 FCFA UNODC Artificial	9616
 FCFA Un	2439
 FCFA de Adm MMPE	2342
@@ -110,11 +115,12 @@ FCFA. Après	3396
 FCFA. Au	3396,2896
 FCFA. Au Nigeria	2280
 FCFA. Aussi	3396
+FCFA. Autant	10975
 FCFA. Ce	1594,150,598,1054,3867,3330
 FCFA. Cependant	2971
 FCFA. Ces	737,2659,373,2971,1589
 FCFA. Cet	3396,6124
-FCFA. Cette	2342,1054,842,4091
+FCFA. Cette	2342,1054,842,4091,2646
 FCFA. Chiffre	2342
 FCFA. Chose	3658
 FCFA. Dans	2765,201,7909
@@ -129,6 +135,7 @@ FCFA. Event	555
 FCFA. Exécution	998
 FCFA. FY2023	4930
 FCFA. Fatiyatou Inoussa	8584
+FCFA. Figure	10975
 FCFA. Gouvernement	2342
 FCFA. Graphique	2342,1054
 FCFA. Hormis la GIZ	2966
@@ -137,9 +144,11 @@ FCFA. Investissements	3396
 FCFA. L'acte	5959
 FCFA. L'opération Serengeti	3488
 FCFA. L'État	3668
+FCFA. LA TRANSPARENCE POUR UN SECTEUR	10975
 FCFA. La Direction Générale du Trésor	2971
 FCFA. Le MND	1270
 FCFA. Le PAA	2342
+FCFA. Le Régulateur	10975
 FCFA. Lefaso.net	4124
 FCFA. Lire	10044
 FCFA. L’Etat	2342
@@ -152,7 +161,7 @@ FCFA. PERFORMANCES FINANCIÈRES EN	2342
 FCFA. PERSPECTIVES	2342
 FCFA. Par	2342,7895
 FCFA. Parmi	2971
-FCFA. Pour	1298,1044,624
+FCFA. Pour	1298,1044,624,8009
 FCFA. Quant	3396
 FCFA. Quelques	10875
 FCFA. RESULTATS DEFINITIFS DU RGE	10875
@@ -172,7 +181,9 @@ FCFA. Une	3789
 FCFA.Selon	8518
 FCFA96.7bn	1584
 FCFAPublié	8673
+FCI and Digital Transformation	10977
 FCILT	10603
+FCMB Capital Markets and FCSL. BAS Capital	11127
 FCP AAL	1339,1,1,1,739,2,1,2327,2,1
 FCP CIE	2342
 FCP SODECI Maison	2342
@@ -192,6 +203,7 @@ Fc17b132a-0435-4b7d-b3f9-0f38ffadc3ad 514x346.png	8025
 Fc1caacaf-b7df-4093-9350-9033d51b62f7 1456x1048.png	5124
 Fc46d2c84-d669-437d-8df8-e58e6d3e6e09 921x808.png	6603
 Fc6993a77-a302-4d91-a39b-ad45d60f0d1e 770x1396.png	4150
+Fc6ineO9uuenm	10965
 Fc7af53cd-785e-4795-8e19-0d5c993f5a7d 1600x900.png	3391
 Fcajnewsafrica.com	5098
 Fcambridge-analytica-facebook-privacy-awakening	432,1
@@ -233,7 +245,9 @@ Maintains FCDO	2164
 Making Technology Work for Malawi UK FCDO	262
 Mds FCFA	3326
 Milliards FCFA	419,1923
+Milliards FCFA Compensation	10975
 Milliards FCFA Répartition	419
+Milliards FCFA. Figure	10975
 Milliards de FCFA	419
 Million de FCFA	7885
 Millions FCFA	419,1923
@@ -252,6 +266,7 @@ Only FC	10940
 Oracle FCDB	3279,85
 Organization FBS Food Balance Sheet FCM	2775
 Part of FCDO	128
+Payments of FCFA	10963
 Phases I and II UK FCDO	128
 Policy Reforms Could Unlock FCFA	6781
 Programme UK FCDO	2162
@@ -267,3 +282,5 @@ Technologies UK FCDO	1090
 UK FCDO	196,167,498,606,1,696,1,3007,4458,67
 UK FCDO National Development Plan	5172
 UK's FCDO	1123
+Valeur Millions FCFA Energie	10975
+Valeur Millions FCFA L’exercice	10975

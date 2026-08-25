@@ -2,10 +2,15 @@ ARCEP-090720 CODAN C-463 Antenne HF	998
 Bande HF HF	998
 Base HF HF	998
 CHINA CODAN TQJ350M Station Relais HF	998
+Consommation HFO	10975
+Electricité HFO Heavy Fuel Oil INS	10975
 Emetteur- HF	998
 HF CORPORATION Beijing Chengzhi	998
 HF CPE-COD-ENV- Conforme CODAN	998
 HF High Frequency ICANN Internet Corporation	6946
 HF PMR Fixed	6946
+HFO Figure	10975
 Hfntxob-Oljgi9ZipNecGJt7gDM J4y3	4563
 Mobile HF WOR-COD-ENV- Conforme World Vision	998
+Thermique HFO Thermique LFO GAZ Solaire	10975
+Volume de HFO	10975

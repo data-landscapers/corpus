@@ -18,7 +18,7 @@ Acabado	4209
 Acacia Economics	2199
 Acacia House	6488,3747
 Acacia Surgical	7167
-Academia	718,240,42,814,1002,1174,136,83,1035,725,967,612,338,457,602,477,308,51,1025
+Academia	718,240,42,814,1002,1174,136,83,1035,725,967,612,338,457,602,477,308,51,1025,222
 Academia A Academia	2816
 Academia Academia	1000,4244
 Academia CSIRTs	2989
@@ -55,6 +55,7 @@ Academic Lead	5598
 Academic Librarians	8022
 Academic Partnerships and Global Health	10776
 Academic Press	8130
+Academic Security Operation Center	11077
 Academic and Research Institutions	1261
 Academics	991,5841,3183
 Academy	1362,2024,311,2124,715,57,122,231,907,2018
@@ -76,6 +77,7 @@ Actic Academy. Ce	8877
 Admissions Academics Academic Calendar Business School	10123
 Africa Compliance Academy	7123
 African Academic Network	1161
+African Academic Security Operation Center	11077
 African Leadership Academy	8433
 Agricultural Research Council ASSAf Academy of Science	5246
 Anda Academy	10789,1
@@ -84,6 +86,7 @@ BAYINAH ACADEMY LIMITED Data Controller INST-31759001209	7167
 BAYINAH ACADEMY LIMITED Data Processor INST-31759001209	7167
 Bandari Maritime Academy Data Controller INST-313944219ED	7167
 Bandari Maritime Academy Data Processor INST-313944219ED	7167
+Bloomsbury Academic. Hao	11050
 Blossom Academy	4126
 Bridge Academies	10290
 CHRISTS GIFT ACADEMIES Data Controller INST-9898680D571	7167
@@ -188,6 +191,7 @@ Ostafrika Academic Center for Digital Innovation	178
 Oxford Academic. Amoretti	10841
 POTRAZ ZIMCHE Academia Parliament Service	958
 Paradigm Initiative’s Digital Rights Academy	7101
+Police Academy and Regional Police Commanders	11062
 Powers Africa Digital Academy	7687
 President of Academic City University	6936
 Public Sector AI Academies	4528
@@ -208,6 +212,7 @@ SADA Smart Africa Digital Academy SCMD	1264
 SEC Journalists’ Academy	3870
 SOCIEDADE CIVIL E ACADEMIA	2816
 Science Academy	4353
+SecOps. The Academic Security Operation Center	11077
 Sector Academia	7548
 Servicios Académicos	4209
 Simandou Academy	3900,130

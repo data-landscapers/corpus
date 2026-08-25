@@ -43,7 +43,8 @@ Amends the Electronic Payment Services Regulations	5687
 Angolan Mobile Payments Subsystem	10775
 Angolan Payment System	4876,5899
 Annual PAYE	4191
-Apple Pay	3957,25,342,4684
+Apple Pay	3957,25,342,4684,2111
+Apple Pay and Google Pay	11119
 Approve Payment System Vision	10767
 Approved Push Payment	7334
 Arif Pay	1677
@@ -100,6 +101,7 @@ COD22022-10116 Pays	8643
 COMESA Digital Retail Payments Platform	2201
 COMESA’s Regional Payment and Settlement System	10372
 CROSS-BORDER PAYMENT INTEROPERABILITY The Bank	2450
+Cameroon Mandates Digital Payment Platform for Non-Tax	10982
 Capital Pay	3583,4329,2568
 Capital Pay Client Trust Account	3583
 Capital Pay Ltd	3583
@@ -150,7 +152,10 @@ Digital Pay-As-You-Go Access	717
 Digital Payment Conference	5007
 Digital Payment Delivery Component World Bank	787
 Digital Payment Infrastructure Component World Bank	1197
+Digital Payment System	10963,1
+Digital Payment System Beneficiaries	10964
 Digital Payment System Component World Bank	409
+Digital Payment System US	971
 Digital Payment Systems Component World Bank	1003
 Digital Payment for Polio Campaigns Bill	2184
 Digital Payments	1828,87,1476,6886,488,10,66
@@ -219,6 +224,7 @@ Enhanced Payment Service Provider	6368
 Enhancing Retail Digital Cross-border Payments for Africa	2777
 Eswatini Payment Switch	2276,1219,469,13,3825
 Eswatini Payment Switch Fast Payments	2276
+Eswatini Payments Switch	11048
 Etat. B2G Payeurs Entreprise	10711
 Ethiopia Digital Payment Conference	8671
 Ethiopia's Digital Payments Performance	1657
@@ -255,6 +261,7 @@ Fast Payment	2276
 Fast Payment Module	3977
 Fast Payment Services	2276
 Fast Payments	2276
+Fast Payments Module	11048
 Fawry Business Tap N Pay	9533
 Fee Payments	10664
 File Payment	5977
@@ -284,7 +291,7 @@ Ghana’s Payment Systems and Services Act. MTN	8813
 Global Payments	6397
 Globe CEO Payment	2511
 Google Cheslyn Jacobs GOTyme Bank PayInc	5544
-Google Pay	7596,1412
+Google Pay	7596,1412,2111
 Government Electronic Payment Gateway ZamPortal and ZamPay	7191
 Government Payments Mapping	10901
 Government Service Payment System	3648
@@ -363,6 +370,7 @@ LEASE PAYMENTS AND CONTINGENT LIABILITIES	4896
 LEASE PAYMENTS AND CONTINGENT LIABILITIES the Directors	4896
 LIBERIA FACES PRESSURE OVER PAY	10581
 LISTE DES PAYS QUI ONT SIGNE	4867
+Labor Payments for Microprojects	10964
 Learning Mobile Payments	6051
 Les Pays-Bas	5899
 Lesotho National Payment Switch	1908
@@ -493,6 +501,7 @@ Organisation des Pays	3045
 Ozow's Pay	8432
 Ozow. The Payments Ecosystem Modernisation	5691
 PAPSS CHANGES THE PAYMENT Traditional	9593
+PAPSS Pan-African Payment	11002
 PAPSS Pan-African Payment and Settlement System RPA	10718
 PAYE Pay As You Earn	8590
 PAYMENT MEANS Dodoma	6922
@@ -504,6 +513,7 @@ PAYMENT SYSTEMS ACCESS DEVICES	4517,2461
 PAYMENT SYSTEMS ACCESS POINTS Mobile Banking	4517
 PAYMENT SYSTEMS ACCESS POINTS Mobile Money	6978
 PAYMENTS	4824
+PAYMENTS NETWORK COVERAGE	11002
 PAYS INITIATIVES EN COURS BÉNIN	10711
 PAYTHEGRANTS Second Applicant and MINISTER OF SOCIAL	2307
 PCU. Payment	3604
@@ -541,6 +551,7 @@ Pay TV Platforms	718
 Pay Television Subscription Information	582
 Pay Tv	2776
 Pay Tv Direct-To-	2776
+Pay Under Protest	11036
 Pay Utility	8231
 Pay X	2522
 Pay and Boxer	611
@@ -597,13 +608,13 @@ Payer	3170,854,2780,150
 Payeur	10836
 Payez	5959
 Payhippo	10284
-Paying	6796,1815
+Paying	6796,1815,2365
 Paying the Shared Services Fee	6153
 Paylinks	3260
-Payload	443,2415,4935,1640,4,18
+Payload	443,2415,4935,1640,4,18,1516
 Payload the Beninese	8713
 Paymaster General	6921,2571
-Payment	822,140,905,908,808,131,1110,300,316,190,61,172,534,16,259,266,176,40,8,11,48,1,473,313,11,6,122,1164,185,407,69,39,2,144,250,312,44,22,44
+Payment	822,140,905,908,808,131,1110,300,316,190,61,172,534,16,259,266,176,40,8,11,48,1,473,313,11,6,122,1164,185,407,69,39,2,144,250,312,44,22,44,135,13
 Payment Access Devices	4517,2461
 Payment Access Points	4517,2461
 Payment Aggregator	6684
@@ -689,6 +700,7 @@ Payments First	6998
 Payments Infrastructure	10901
 Payments Payments	6938
 Payments Platform	4095
+Payments References Spotlight	10977
 Payments Subject	2307
 Payments Sys-	6938
 Payments System Law	10779
@@ -705,6 +717,8 @@ Payments Work and How They Have	5124
 Payments and Clearing	10193
 Payments and Market Infrastructures. For Burundi	4915
 Payments for Africa From Africa’s Private Sector	6413
+Payments of CFAF	10964
+Payments of FCFA	10963
 PaymentsSystem	4848,1851
 Paynesville City	4261
 Paynesville City Hall	4554
@@ -729,7 +743,7 @@ Pays du Sahel	8891
 Pays-Bas	5718,181,714,2278
 Pays-Bas. La Convention Apostille	9086
 Pays. Il	10900
-Paysage	3242,4413
+Paysage	3242,4413,3310
 Payslip	7438
 Paysmart	5125
 Paystack	816,1494,1425,1389,248,1476,167,453,730,526,1030,530,289
@@ -745,7 +759,7 @@ Paystack. Over	6848
 Paythegrants	2307
 Paytm	5124,2472
 Payvantage Limited	3862
-Paywalled	1683,2291,2811,1494,1380,786
+Paywalled	1683,2291,2811,1494,1380,786,633,34
 Peach Payments	6215,1396
 Peach Payments and Stitch	5124
 Peach Payments' Mauritius	6215
@@ -760,6 +774,7 @@ Power the Future of Instant Payments	4972
 Prime Time for Real-Time Payments	4848
 Principles for Responsible Digital Payments	3673
 RBZ Payments Division	6105
+RECEIVED A DIGITAL PAYMENT	10977
 RETAIL PAYMENTS	4517,2461
 RTC and PayShap	5420
 Rapid Payments Programme	9183
@@ -848,7 +863,8 @@ TANQR Pay Number	6453
 TAT SYNOPTIQUE DE L'ACTIVITÉ PAR PAYS	4459
 TATS MEMBRES DE L’UEMOA PAYS INITIATIVES	10711
 TCIB Cross-Border Payment Scheme	5263
-TRESOR PAY	10532
+TRESOR PAY	10532,449
+TRESOR PAY. Article	10981
 TRUE for PAYG	939
 Take Or Pay	2342
 Take and Pay	2342
@@ -870,7 +886,7 @@ Through Visa Pay	8477
 Through the Pan-African Payment and Settlement System	9593
 Through the State of Instant and Inclusive Payment	10075
 Tresor Pay	2597
-Trésor Pay	4347,5646,944
+Trésor Pay	4347,5646,944,45
 Trésor Pay. En	10913
 Two-Sided Digital Payments RCT	10277
 U.S. Targets Brazil’s Payments Platform Pix	4970
@@ -896,6 +912,7 @@ Usage of Mobile Payment Appliations Over	4439
 VI.H Tax Payer Register	10812
 Vaccinator Surveys and Digital Payments Research Bill	1112
 Vendor Payments	9283
+Video Digital Subscription PayGate Terms and Conditions	11122
 Visa Pay	3535,1215,344,1889,3,1491
 Visa Pay and M-Pesa. Reference	5094
 Visa Pay's DRC	4750

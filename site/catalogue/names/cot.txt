@@ -43,7 +43,7 @@ Chu-Mel de Cotonou	7355
 Congo Ghana Cote	689
 Cote D'Ivoire	1013,9906
 Cote D'Ivoire Report.pdf	10920
-Cote D’Ivoire	1264,99
+Cote D’Ivoire	1264,99,9642
 Cote D’Ivoire and Senegal	3782
 Cote-	10861
 Cote- and Onix	10861
@@ -100,7 +100,7 @@ Coty Souleïmane Diakité. Cette	6144
 Cours Secondaire Notre Dame des Apôtres de Cotonou	10821
 Cours de Soutien de Cotonou	10821
 Dem. Rep. Mauritania Cote	10819
-Demande de Cotation	9339
+Demande de Cotation	9339,1636
 Diakité Coty Souleymane	6095,14
 Directeur Général du CHU-MEL de Cotonou Monsieur Sourou	10867
 Director General of La Poste de Cote	4686
@@ -119,6 +119,7 @@ Freetown’s Fallen Cotten Tree	5390,965,827
 GAPS Cote-d’Ivoire	10861
 GVA of Cote	10037
 Gambia Cote	418
+Ghana Cote Nigeria Bangladesh AFR	10985
 Government of Cote	246,92
 Guinea Cote	10856
 Hospital Beds and Cots Available	2775

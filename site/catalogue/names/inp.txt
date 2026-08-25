@@ -1,5 +1,6 @@
 Batch Input	7988
 Box Throwing Distance Input	34
+Cameroon Input	10969
 Committee Analysis of Inputs Received	5853
 Construction Input Price Index CMA Capital	2775
 Construction Input Price Indices	2775
@@ -17,6 +18,7 @@ INPHB	10948
 INPPLC	8891
 INPRODEGE	4209
 INPYDE	4209
+Innovation Input Sub-Index	10969
 Inp-HB	6235
 Inp-Hb	2453
 Inparticipants’accounts	8602
@@ -25,7 +27,7 @@ Inpor Quotas Unipessoal	10757
 Inpracticalterms	8602
 Inpractice	8602,4
 Inprinciple	8602
-Input	899,5524,2183,517
+Input	899,5524,2183,517,1846
 Input Distribution	9123
 Inputs	961,1792,4795,1575
 Inputs-financial	7548
@@ -44,4 +46,5 @@ Themes Input	8603
 UPS A Input	9123
 Video Input	34
 Working Group Dates and Time Deadline for Input	10235
+Year GII Position Innovation Inputs Innovation	10969
 Zambia's Farmer Input Support Programme	91

@@ -26,12 +26,13 @@ DE INSPECÇÃO	10751
 DE LA COOPERATION INTERNATIONALE Inspecteur	8237
 DOCUMENTS AVAILABLE FOR INSPECTION	4896
 DOCUMENTS AVAILABLE FOR INSPECTION Interest Interest	4896
-Deep Packet Inspection	9940
+Deep Packet Inspection	9940,1145
 Departamento de Inspecção	167
 Deputy Inspector-General of Police	10049
 Embaixador de Portugal. Inspirado	6018
 Estado Delegado Regional Inspector Regional Gobernador	4209
 Estatística Gabinete de Inspecção	10750
+Estonia’s Data Protection Inspectorate	11006
 F. Inspections	7845
 Factories Inspectorate	1988
 Fiscal Inspector General	4209
@@ -114,11 +115,12 @@ Inspection Generale	8651,1473
 Inspection Générale	557,8193,1374
 Inspection Générale des Finances	969,2635,374,3645,1127
 Inspection Générale des Finances- IGF	969
-Inspection Panel	1264,20,583,1022,715,2935,4229,61
+Inspection Panel	1264,20,583,1022,715,2935,4229,61,135
 Inspection and Evaluation	7538
 Inspection and Follow-Up Department	3310
 Inspection and Supervision	9855
 Inspection des Services	8237
+Inspection des Services des Impôts	10978
 Inspections	718,1270,3180,5608
 Inspections Site	1988
 Inspector General	4209,426,4667
@@ -150,9 +152,10 @@ Inspector Regional Ministerio Servicio	4209
 Inspector Regional Servicio	4209
 Inspector de Servicios	4209
 Inspector de Servicios Servicio	4209
-Inspector-General of Police	587,427,5773
+Inspector-General of Police	587,427,5773,4275
 Inspectorate	5533
 Inspectorate Compliance and Enforcement	7141
+Inspectorate General of Judicial Services	10990
 Inspectores	4209
 Inspectores de Hacienda Pública	4209
 Inspectors	9736
@@ -214,6 +217,6 @@ Tercera Brigada Jefe Inspector	4209
 Togo Koffi KOUGBLENOU Inspecteur Central du Tésor	10708
 USAID. USAID Office of Inspector General Follow-Up	3583
 Vehicle Inspection Department	8639,755,3
-World Bank Inspection Panel	10829
+World Bank Inspection Panel	10829,135
 XAF Inspector General Servicios Servicio	4209
 ZEMA Inspector	1988

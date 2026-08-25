@@ -35,15 +35,16 @@ Africans for Everyone. Ports	7329
 All Events	10235
 Andrew Rhys Davies and Evan J. Goldsholle	4127
 Antecedentes Evolução Recente	10783
-Anti-Corruption Rights Every IIAG	10835,3
+Anti-Corruption Rights Every IIAG	10835,3,130
 Applicants. E. Procedures for Evaluation of Applications	1638
 Appropriate Authorities’ Said Evidence	10034,231
 Assess and Use Results Evaluation	1824
 Assistance Evidence	2727
 B. Evaluation	822
-B. Results Monitoring and Evaluation Arrangements	969,295,603,1737,2935,4229,61
+B. Results Monitoring and Evaluation Arrangements	969,295,603,1737,2935,4229,61,135
 B2- Evidence	7548
 BOLETÍN RELAC. ESTUDIOS Y Y EVAL	4209
+Better Evaluation	11007
 Board Evaluation	1554,5392
 Board Performance Evaluation	6946
 Bonomelli EasyTranslate BoxStudio EvaSocialAI B.V. Bretema	8530
@@ -88,18 +89,21 @@ Convergence and Evaluation of Public Policies	5772,1152
 Cooperate Everyone	7538
 Criminal Procedure and Evidence Act	972,7892
 Cross- Country Evidence	1828
+Cross-Country Evidence	10997
 Curiosity. Everything	8550
 Current Representative Mr Graham Evans	3513
 Cybercrime Evaluate	1777
 Cybersecurity Inspection and Evaluation	7538
 D. Evas and L. Lombdaro	5700
 D. Every	7832
+DE SUIVI EVALUATION	10965
 DHIS2. Evidence	3935
 DPI Peer Learning Event	3735
 DPIs. Evaluating Nigeria’s DPI	3735
 Data As Evidence European Union Privacy	6632
 Data Protection Officer. Every	8146
 Data and Evidence Specialist Chea Sanford Wesseh	9861
+Date Evénements	10975
 Day Zero Events	10707
 Departments and Agencies M&E Monitoring and Evaluation MFD	1264
 Description Evaluation of Swedish	497
@@ -152,9 +156,12 @@ EVENTS AFTER REPORTING DATE	4896
 EVENTS Directors Legal Advisors Econet InfraCo	4896
 EVERY ONE OF THE THREE YEARS	4413
 EVIDENCE AND FINDINGS	10852
+EVIDENCE AND VALUE FOR GOVERNMENT COLLABORATION	11006
+EVIDENCE REFERENCE	11007
 EVIDENCE SYNTHESIS AND POLICY TRANSLATION	10852
 EVIDENCE-BASED POLICY IMPERATIVE	3861
 EVIDENTIARY SPINE FOR DIGITAL-BY-DEFAULT EXCLUSION	4793
+EVIDs	11115
 EVIEWS	236
 EVIEWS Equation	236
 EVINAYONG CIUDAD	4209
@@ -173,6 +180,7 @@ EVP Yann Haguet	1898
 EXPECTED TIMETABLE OF PRINCIPAL EVENTS	4896
 Eastern and Southern Africa IEG Independent Evaluation	6539
 Electric Paper Evaluationssysteme GmbH	10919
+Electricité Evolution	10975
 Electronic Evidence	26
 Electronic Evidence Admissibility	26
 Emergency Events Database	10763
@@ -207,10 +215,12 @@ Evaluate TCO	6432
 Evaluate Vulnerabilities	1000
 Evaluate for Health	95
 Evaluating	242,1851,1490,199,5,4343,473,2329
+Evaluating Civil Society's Role	11028
 Evaluating DPI	10852
 Evaluating Deepfake Defense Technologies Cyber Digital	2318,6,103,20,94,25,48,44,62,5,53,41,1,3,50,41,11,18,4,70,1,8,259,18,157,163,119,78,69,141,37,21,465,78,145,55,254,225,138,45,60,43,101,181,78,116,183,19,70,19,178,5,104,1,149,7,16
 Evaluating Europe's Package	6545
-Evaluation	10,1,225,160,341,11,41,211,264,385,129,89,121,354,352,195,69,31,407,730,134,523,882,816,887,180,42,200,447,64,135,166,804,63,29,395,828,42,66,47,5
+Evaluation	10,1,225,160,341,11,41,211,264,385,129,89,121,354,352,195,69,31,407,730,134,523,882,816,887,180,42,200,447,64,135,166,804,63,29,395,828,42,66,47,5,84,42
+Evaluation Arrangements	10964
 Evaluation Committee	962
 Evaluation Components	5245
 Evaluation Components Impact	5245
@@ -230,7 +240,7 @@ Evaluation Methods	5349
 Evaluation MoH Ministry of Health MoE Ministry	6539
 Evaluation Numbering Division Strategy	6946
 Evaluation Officer MoH	34
-Evaluation Plan	1284,583,8962
+Evaluation Plan	1284,583,8962,135
 Evaluation Report of Public Procurement	969
 Evaluation Results	10776
 Evaluation Roadmap An Annual Vendor Evaluation	6432
@@ -240,6 +250,7 @@ Evaluation Upper Panel	3360
 Evaluation and Learning	1814
 Evaluation and Review	10157
 Evaluation des Politiques Publiques	4599,1146
+Evaluation du Plan	10963,1
 Evaluation of Compliance	5665
 Evaluation of Swedish	497
 Evaluation of T	8606
@@ -259,7 +270,7 @@ Evangelidis Loannis Pavlos	3772
 Evangeline Iwenjiora	7172
 Evangil'IAtion	2732
 Evangélisation	10826
-Evans	2096,3604,3889
+Evans	2096,3604,3889,1396
 Evans Aggrey Darko	9730
 Evans Aggrey Darkoh	8950
 Evans Aggrey-Darkoh	8369,2
@@ -298,7 +309,7 @@ Evenin	8602
 Event	180,124,134,494,51,819,329,2,16,5,3,1,10,43,6,4,14,9,9,281,437,50,5,38,410,731,253,18,35,1,27,18,294,372,179,23,269,290,7,487,82,73,6,80,743,26,24,10,93,35,22,19,12,1,1,87,1,1,1,10,1,19,1,57,1,6,1,5,6,146,34,1,15,31,25,20,2,16,24,122,34,120,62,104,55,6,82,19,581,266,681,170,368
 Event Category	10235
 Event Data Project AfDB African Development	10759,78
-Event Data Project UNCTAD United Nations	10835,3
+Event Data Project UNCTAD United Nations	10835,3,130
 Event Details	10707
 Event Event Attendance Mode	10244
 Event Expansion Femtech Finance Fintech Forum	5322
@@ -332,12 +343,13 @@ EverseTech	5368,1349,2522
 EverseTech’s AI-as-a-Service	5368
 Everseen	4434
 Evert Bopp	7151
-Every	1,2,392,341,8,8,10,4,17,431,29,18,3,69,7,2,170,24,94,74,37,7,36,26,67,43,45,22,93,9,620,255,38,15,11,49,120,4,76,66,35,31,255,3,12,35,11,20,188,41,128,53,1,1,1,1,1,123,18,118,64,46,59,22,49,141,131,81,112,120,8,69,31,16,145,38,125,144,43,11,54,5,108,136,14,21,24,30,42,115,3,6,3,23,9,4,27,14,8,28,34,21,13,5,14,32,60,38,21,22,18,16,65,28,2,21,13,25,7,79,55,38,5,104,36,115,2,9,12,10,14,87,40,39,41,6,56,23,3,12,4,3,2,30,17,31,7,1,3,10,12,12,29,8,31,1,15,85,102,43,53,70,18,10,22,27,2,28,21,4,4,56,29,1,64,60,9,10,4,3,4,66,23,19,15,3,4,2,68,44,11,11,41,8,8,14,4,23,14,11,32,57,34,100,91,15,43,40,10,15,40,2,11,39,14,17,137,35,25,33,39,7,28,14,57,9,32,70,83,61,8,8,46,44,190,44,51,31,30,10,26,11,11,5
+Every	1,2,392,341,8,8,10,4,17,431,29,18,3,69,7,2,170,24,94,74,37,7,36,26,67,43,45,22,93,9,620,255,38,15,11,49,120,4,76,66,35,31,255,3,12,35,11,20,188,41,128,53,1,1,1,1,1,123,18,118,64,46,59,22,49,141,131,81,112,120,8,69,31,16,145,38,125,144,43,11,54,5,108,136,14,21,24,30,42,115,3,6,3,23,9,4,27,14,8,28,34,21,13,5,14,32,60,38,21,22,18,16,65,28,2,21,13,25,7,79,55,38,5,104,36,115,2,9,12,10,14,87,40,39,41,6,56,23,3,12,4,3,2,30,17,31,7,1,3,10,12,12,29,8,31,1,15,85,102,43,53,70,18,10,22,27,2,28,21,4,4,56,29,1,64,60,9,10,4,3,4,66,23,19,15,3,4,2,68,44,11,11,41,8,8,14,4,23,14,11,32,57,34,100,91,15,43,40,10,15,40,2,11,39,14,17,137,35,25,33,39,7,28,14,57,9,32,70,83,61,8,8,46,44,190,44,51,31,30,10,26,11,11,5,146,63,60,5,3
 Every AI	6214,306,1606,518
 Every AI-related	3175
 Every African	6997,924
 Every African Country's National Digital Health	7707
 Every CRMS	9939
+Every Cameroonian	10979
 Every Chief Justice	8978
 Every Child	3907
 Every Child’s Birth Right	10775
@@ -371,9 +383,10 @@ Everyday	9007
 Everyday Life. New York	8460
 Everyday People	5975
 Everyone	1750,557,743,1750,1803,345,37,379,107,11,295,248,13,427,85,1505,22,779
+Everyone Else’s Problem	11006,1
 Everyone's Biometric Data On Feb	4997
 Everyone’s Responsibility	10776
-Everything	14,885,385,365,66,746,1004,701,1347,20,167,486,285,422,553,331,299,45,5,14,61,348,421,134,51,339,100,53,141,289,73,23,278,350
+Everything	14,885,385,365,66,746,1004,701,1347,20,167,486,285,422,553,331,299,45,5,14,61,348,421,134,51,339,100,53,141,289,73,23,278,350,161,79
 Everything Technology	10160
 Everywhere	5678,793,2117,1565,648
 Everywhere Ventures	2212,1844,39
@@ -384,7 +397,7 @@ Evid Araka	2742
 Eviden	3700
 Eviden Information Technology	3700
 Evidenc	6432
-Evidence	26,402,471,915,14,265,3,81,500,50,278,334,265,523,436,1348,597,85,200,39,319,29,41,327,100,238,415,135,192,357,143,1,220,85,325,210,119,100,147,383,3,42,5,17,71,55
+Evidence	26,402,471,915,14,265,3,81,500,50,278,334,265,523,436,1348,597,85,200,39,319,29,41,327,100,238,415,135,192,357,143,1,220,85,325,210,119,100,147,383,3,42,5,17,71,55,52,1,21,22,64
 Evidence Act	587
 Evidence Action Plan	10911
 Evidence AfricaCERT Cyber Drill	10911
@@ -411,6 +424,7 @@ Evidence Sufficiency	8301
 Evidence Synthesis and Policy Translation	10852
 Evidence V. Protection Guidelines	10911
 Evidence Workshop	6946
+Evidence and Action	11095
 Evidence and CLOUD Act	10088
 Evidence and Select Practices	10768
 Evidence for Usercentric Design. Springer	2096
@@ -426,6 +440,7 @@ Evidence of Registration	2709
 Evidence of SIEM	10721
 Evidence of Safety and Performance	3651
 Evidence of Tax	8985
+Evidence-Based Analysis for Mobilizing Domestic Revenue. IMF	10997
 Evidence-Based Decision Making	5244
 Evidence-Based Policy Imperative FINDING	3861
 Evidence-Based and Consultative Process Delivering	8367
@@ -434,6 +449,7 @@ Evidence28	899
 Evidences the Baladna	5128
 Evident AI Index for Banks	9896
 Evidently	10718
+Evie Gilbert	11004
 Evinayong	4209
 Evinayong Evinayong	4209
 Evinayong-Akurenam-Mofub Múltiples	4209
@@ -444,7 +460,9 @@ Evoduru Aconibe	4209
 Evoluant	2342
 Evolucionar	1701
 Evolución	1701
-Evolution	419,318,261,820,10,514,1983,134,217,1064,1219,831,1101,1953,12,2
+Evolution	419,318,261,820,10,514,1983,134,217,1064,1219,831,1101,1953,12,2,107,10,10
+Evolution Base Tarifaire SONATREL	10975
+Evolution Base Tarifaire SONATREL Evolution	10975
 Evolution II Fund USD	513
 Evolution Of The Top	4972
 Evolution des Emplois	998
@@ -453,17 +471,19 @@ Evolution des Investissements	998
 Evolution du Parc	998
 Evolution du Parc Abonnés Internet Mobile	998
 Evolution du Parc Abonnés Internet Mobile L’augmentation	998
-Evolution du Taux	998
+Evolution du Taux	998,9977
 Evolution of Competitive Telecom Ecosystems	3292,1688,360,1433
 Evolution of Generative Artificial Intelligence	1814
 Evolution of Payment Systems	4856
 Evolution of RTGS Transaction Volumes	6938
 Evolution of Real GDP	10841
+Evolution of SMEs	10980
 Evolution of Strategic Reciprocity External	5141
 Evolution of Topical Directions. Paper	5349
 Evolution of Trade Finance Gap	10718
 Evolution-II-ESCOTEL Press-Release FINAL2.pdf	513
 Evolution-de-l-indice-de-confiance-	8891
+Evolutions	10975
 Evolução	2816
 Evolução da Inteligência Artificial	2816
 Evolução da Inteligência Artificial Abaixo	2816
@@ -509,6 +529,7 @@ Framework for Training Validation and Evaluation	3651
 Francophone Africa’s EV	6368
 Fuerte Evolución	1701
 Future for Everyone	10727
+G. Toledo. Interim Evaluation	11006
 GABORONE. Event	5166
 Gaborone Event	8165
 Gaborone. Event	2576,784,1890,78,121
@@ -532,6 +553,7 @@ Human Resource Capacity Monitoring and Evaluation	21
 IDs. Every	2930
 IM-managed Event Gateway	6423
 IMTT Affects Every Swipe and Transfer	3016,2546
+Impact Evaluation	10964
 Impact Evidence	6947
 Implementation and Evaluation. Washington	8376
 Implications for Kenya’s Evolving AI Ecosystem	10246
@@ -550,6 +572,7 @@ Institut National de Statistique EVS	737
 Institute for Health Metrics and Evaluation	6171,2720,1938
 Institutional and Policy Build-Up. Every	1000
 Interim Actuarial Evaluation	6539
+Interim Evaluation	11006
 International Centre for Evaluation and Development	5410
 Internet of Everything	226,7533
 Introduction Every	5863
@@ -629,13 +652,15 @@ Monitor and Evaluate Progress Monitoring and Evaluation	1000
 Monitor and Promote Evidence-Based Policy-Making	8817
 Monitoring And Evaluation	958
 Monitoring Vital Events Using Information Technology	10822
-Monitoring and Evaluation	396,12,159,222,169,3,300,3,560,2329,375,125,130,48,186,227,1,1,1186,107,2665,523,156,853,32,61
+Monitoring and Evaluating	11006
+Monitoring and Evaluation	396,12,159,222,169,3,300,3,560,2329,375,125,130,48,186,227,1,1,1186,107,2665,523,156,853,32,61,134,1,43
 Monitoring and Evaluation Challenges	940
 Monitoring and Evaluation Framework	940,60,4579
 Monitoring and Evaluation Framework Framework	1000
 Monitoring and Evaluation GRM	10768
 Monitoring and Evaluation Indicators	940,5996
 Monitoring and Evaluation MACs	5244
+Monitoring and Evaluation MINADER Ministère	10964
 Monitoring and Evaluation Monitoring and Evaluation	1154
 Monitoring and Evaluation Mr Paul Mumba	34
 Monitoring and Evaluation Officer	7990
@@ -651,6 +676,7 @@ Monitoring and Evaluation of Operational Performance Finally	5677
 Monitoring and Evaluation of Research Projects The Research	1554
 Monitoring of Vital Events	10822
 Multidecadal evolution	8891
+Multistakeholder Governance for DPI A Compendium of Evidence	11006,1
 MyT Everywhere	7367
 NCC EVC	7851
 NEJM Evid	7836
@@ -681,7 +707,9 @@ OFICIN. SEG. Y EVAL. PROGS. DESARRO.-Concepto	4209
 Official Use Only Key Events Planned	7877
 OfflineEventAttendanceMode Event	10244
 OlffQeroiSngCsomparison Stability and Throughput Evolution	6051
+Oluwaseyi Ayodeji Ever	11102
 Original Research Internet of Everything	7759
+Outcomes. Evidence	10985
 Oversee the Monitoring and Evaluation	4528
 PDPO. C. EVIDENCE	5113
 PERIODIC REVIEW MANDATES AND EVALUATION CRITERIA	3861
@@ -712,6 +740,7 @@ Public Enterprises Evaluation and Privatisation Agency	2576
 R624. Even	2307
 Race Everyone Is Running Walk	6603
 Rachel Magege and Tumwesige Evans Lushakuzi. Tanzania	9491
+Randomized Evaluation	10964
 Reach Every Corner	7130
 Realistic Evaluation	10881
 Records of Processing Evidence of Incident GC-SE	10721
@@ -720,8 +749,11 @@ Republic of Liberia Monitoring and Evaluation Monitoring	1777
 Research ICT Africa. Even	5321
 Review and Evaluation	1988
 Review of Events and Policy Responses	10718
+Reviewing the Evidence	11006
 Risk Procurement Monitoring and Evaluation	2989
 Rwanda Is Counting Everything	5889
+S1.1.4 Sub-Saharan Africa S1.1.5 Even	10977
+SALTIS AI Event	11087
 SAME EVENT	2322,4938
 SEG. Y EVAL.-Concepto	4209
 SEG. Y EVAL..-Concepto	4209
@@ -735,6 +767,7 @@ Self-Reporting Evidence Portal	2445
 Sensitisation And Awareness Event Abuja	10909
 Serious Adverse Events	8831
 Set of Principles for Conducting and Evaluating Interpretive	5349
+Show Me the Evidence	11006
 Significant Corporate Events	7198
 Singapore's IMDA Generative AI Evaluation Sandbox	7451
 Small and Medium Enterprises. Even	7710
@@ -764,6 +797,7 @@ Tech Evénements	2407,41,490,2760,1057
 Technical Assistance Report-Review and Evaluation	6938
 Technical Evaluation	962
 Technology Everywhere	10160
+Technology Is Giving Every Child	10989
 Telecommunication Union Monitoring and Evaluation Ministries	4653
 Term Evolution MoF Ministry of Finance NCA	236
 Termination Clauses Every	6432
@@ -791,6 +825,8 @@ West Africa. Every	6003
 WhatsApp. Even	7151
 Will Control Everything Anyone Sees	6343
 Work Everywhere Yet The National Identification	10396
+Working Paper. Evans	10985
 World Health Organization Every	10881
 XI. EVOLUTION COMPARATIVE DE QUELQUES INDICATEURS	10847
+Year Evidence From Uganda’s Youth Opportunities	10964
 Zulu. Every	8206

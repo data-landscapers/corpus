@@ -66,7 +66,7 @@ DNSAE	3868,1372
 DNSAN	10763
 DNSI and DPRI	6593
 DNSI-CPS	9553
-DNSSEC	1036,3160,14,9,2519,2771,1212,43
+DNSSEC	1036,3160,14,9,2519,2771,1212,43,230
 DNSSEC Roadshow	4196
 DNSSEC Validation Across National Internet	4219
 DNSSI	1185,253
@@ -92,7 +92,7 @@ Making DNA	3331,91,225,6,324,50,31,115,12,487,194,149,2015,234
 Ministères Montant Montant Montant DNA	3396
 Modèles-type DNCMP Plateforme SIGMaP	10876
 NGOs’ DNS	5822
-National DNS Forum	6738
+National DNS Forum	6738,4256
 News DNA	7264
 Novo DNA Profissional	7948
 Ouest CNT Conseil National de Transition DNAFLA	6959

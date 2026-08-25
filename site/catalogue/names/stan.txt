@@ -34,6 +34,7 @@ Assurance and Standards	899
 Attributes Standardisation Process	8606
 B- Standard	7548
 B. Where Does Congo Stand	1828
+BANKING CORPORATION CHANNELS KCB STANBIC BANK	11002
 BIOMETRIC SYSTEM STANDARDS AND GUIDELINES	34
 BIOMETRIC SYSTEM STANDARDS AND GUIDELINES Biometric	34
 Backup Standards and Guidelines	34
@@ -81,6 +82,7 @@ Chinese Standard Time	4880
 Chinhoyi EWZL Owned Vacant Shop Stand	4896
 Chuo Kikuu Stanford	5090
 Cloud Security Standard	9123
+CoST Infrastructure Data Standard	11007
 Code SOP Standard Operating Procedure UHC	9855
 Coding Standards and Conventions	5665
 Coefficients Unstandardised SE Standardised	9129
@@ -156,9 +158,9 @@ Enterprise Architecture Standards	9124
 Entlaq The Standard Chartered Women	10745
 Environment and Social Standards	10829
 Environmental and Social Standard	1988
-Environmental and Social Standards	1988,1468,148,7225
+Environmental and Social Standards	1988,1468,148,7225,135
 Environmental and Social Standards EU European Union	10829
-Environmental and Social Standards Relevance Given	10829
+Environmental and Social Standards Relevance Given	10829,135
 Era. Standard Bank Group	6875
 Establish Security Standard	1000
 Establish Security Standard Time Bound Measurable	1000
@@ -186,7 +188,7 @@ Ghana Living Standard Survey	236
 Ghana Living Standard Surveys	236
 Ghana Living Standards Survey	236
 Ghana Standard	4126
-Ghana Standards Authority	6936,3695
+Ghana Standards Authority	6936,3695,401
 Global Digital Standards	8610
 Global Governance and Standard-Setting	4528
 Global Industry Classification Standard Classifications	4972
@@ -265,6 +267,7 @@ International Organization for Standardization	3604,257,4212
 International Public Sector Accounting Standard	3051
 International Public Sector Accounting Standards	1554,1497,5953,1764
 International Public Sector Accounting Standards Board	3051
+International Public Sector Accouting Standards	10975
 International Standard	4896,5897
 International Standard Classification of Activities	236
 International Standard Industrial Classification	236
@@ -359,7 +362,8 @@ OASIS Standard OASIS Web Services Notification	1009
 OASIS Standard WS-Brokered Notification	1009
 OASIS Standard WS-Topics	1009
 OECD and EU Standards	9204
-OGP Participation and Co-Creation Standards	9022
+OGP Participation and Co-Creation Standards	9022,1984
+OMNIBSIC PRUDENTIAL BANK STANBIC BANK UBA	11002
 OWASP Application Security Verification Standard	5665
 Office of Health Standards Compliance	396
 Open Contracting Data Standard29	1984
@@ -380,6 +384,7 @@ Personal Information HNSF Health Normative Standards	396
 Physical Security Standards and Guidelines	34
 Preparation and Implementation Standard	1796,1413
 Presidency. Standing	5231
+Prevention and Resilience Allocation SEA Standard Bidding	10964
 Professional Standards and Continuous Improvement	3861
 Professora de IA da Universidade Stanford	2816
 Projectors Standards and Guidelines	34
@@ -396,6 +401,7 @@ RCZ Stand RCZ Staff Visitor	1154
 RCZ Stand Visitor	1154
 RCZ Stand Visitors	1154
 RCZ Standing Committees	1554
+RECEIVE UGANDA SALAAM BANK ACCESS STANBIC	11002
 REGULATORY OVERSIGHT AND ENFORCEMENT Standard Digital	9855
 Referenced Standards Mobile Cross- Mobile Cross-Enterprise	1009
 Regarding the Standard Bank and Liberty	5806
@@ -432,12 +438,14 @@ SPECIFICATIONS STANDARDS	2779
 STANBIC BANK AFRICA TRADE BAROMETER ISSUE	5247
 STANBIC BANK’S INITIATIVE Safeguarding National Productivity	5247
 STANBIC BANK’S OFFERINGS Africa China Trade	5247
+STANBIC IBTC STERLING BANK TAJBANK UBA	11002
 STANDALONE SURVEY PUBLICATION	4848
 STANDARD Framework	6792
 STANDARDS	3861
 STANDARDS AND GUIDELINES	34
 STANDARDS PILLAR GUIDANCE NOTES ARTIFACTS TIER	10721
 STANDARDS WIDELY USED IN SOUTH AFRICA	1939
+STANDING PAGE UNDER A CAPTURE DATE	10978
 STANFORD UNIVERSITY	2816
 STANFORD UNIVERSITY. Artificial Intelligence Index Report	2816
 STANLIB	2607,5233,58
@@ -455,6 +463,7 @@ Segmentation Encryption Standards	6432
 Senior Standards Expert Matano Ndaro	10336
 Service Delivery Standards	6786
 Shop Silundika Harare Stand Land Chinhoyi	4896
+Social Standards GBV Financial Management GDP	10964
 Solutions Stanbic Bank’s Africa China Trade	5247
 South Africa Standard Bank	498
 South Africa. Standard Bank	5806
@@ -495,12 +504,13 @@ Stand Sales	9437
 Stand Victoria	4896
 Stand da Mercury Beyond Connection	6617
 Stand da Mercury Beyond Connection Gaspar	7667
+Stand da UNITEL Nelson Malamba	11031
 Standalone	582,5083,10,4000
 Standalone AI	5463
 Standalone Estratégia Nacional de Saúde Digital	7707
 Standalone National Digital Health Strategic Plan	7707
 Standalone YTD Retail Volumes	7446
-Standard	21,13,12,1,35,297,630,114,31,484,288,58,4,267,311,102,220,32,354,52,452,83,237,577,240,84,132,1,23,57,10,122,1,65,70,60,18,450,43,35,13,6,74,26,35,4,1,179,242,116,1,102,7,54,1,67,32,101,160,51,64,1,125,15,323,100,19,13,283,112,149,308,253,6,516,294,92,69,57,138,18,348
+Standard	21,13,12,1,35,297,630,114,31,484,288,58,4,267,311,102,220,32,354,52,452,83,237,577,240,84,132,1,23,57,10,122,1,65,70,60,18,450,43,35,13,6,74,26,35,4,1,179,242,116,1,102,7,54,1,67,32,101,160,51,64,1,125,15,323,100,19,13,283,112,149,308,253,6,516,294,92,69,57,138,18,348,313,1,5,17
 Standard Bank	378,604,421,26,6,1621,379,10,596,12,120,288,363,260,163,286,58,215,1064,5,464,160,259,268,425,304,838,109,18,176,130,163,265,5,213,134
 Standard Bank ATMs	6996
 Standard Bank Africa Trade Barometer	6870,1156,2602
@@ -545,7 +555,7 @@ Standard British Plug for Systems Unit	34
 Standard Chart of Accounts. Systems	9939
 Standard Chartered	5910,3241,555
 Standard Chartered Bank	7567,3151
-Standard Chartered Bank Uganda	10202,79
+Standard Chartered Bank Uganda	10202,79,794
 Standard Chartered Egypt	10745
 Standard Chartered Foundation Launches Women	10745
 Standard Chartered Foundation and Village Capital	10745
@@ -574,6 +584,7 @@ Standard Operating Procedure	1000,9721
 Standard Operating Procedure CCMP.S6	10721
 Standard Operating Procedures	396,758,130,270,434,5416,3317
 Standard Procurement Documents	1867
+Standard Request for Proposals	10964
 Standard Room	9031
 Standard Scale	1333
 Standard Technical Committee TC	10313
@@ -700,10 +711,12 @@ Tsholotsho EWZL Owned Vacant Shop Stand	4896
 UNESCO International Standard Classification of Education	7845
 USD11M. Part of Stanbic-led USD55M	198
 Unification to standard gauge on May 31	4259
+Unified Standard of Truth Khaire	11105
 University of Pretoria and Standard Bank	7210
 Urban Councils. Standard	970
 Usability Standards Interoperability Standards	5665
 Use of Open Standards Contracts	6432
+VAT Productivity and Standard Rates	10997
 Vacant Hotel Pension Owned Vacant Stand	4896
 Vacant Stand Fintech Owned Vacant Office	4896
 Vodacom Lesotho and STANLIB	7898
@@ -716,6 +729,8 @@ World Bank Standard Procurement Documents	3604
 World Bank Standards and Key Gaps	1988
 World Bank's Environmental and Social Standards	1988
 World Bank's Environmental and Social Standards and Burkina	7251
+World Bank’s Standard Bidding Documents	10964
+World Bank’s Standard Request for Proposals	10964
 ZABS Standards	1988
 ZAM Act. Zambia Compulsory Standards Agency	1988
 ZIMBABWE GOVERNMENT ICT SPECIFICATIONS STANDARDS	2779

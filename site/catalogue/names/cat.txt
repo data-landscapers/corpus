@@ -21,7 +21,7 @@ Approval Risk Category Approval Package	4688
 Authority. A Category	2913
 Awasi Catholic Mission Health Centre Data	7167
 Ayang Macdonald Categories Access Control	3623
-Ayang Macdonald Categories Biometrics News	2318,6,103,20,94,25,48,44,120,42,105,22,70,1,8,259,18,126,31,282,78,69,141,37,21,280,185,78,145,55,511,151,60,43,101,181,78,116,183,19,89,178,5,104,1,149,7,16,253,294,2377,54,3,489,289
+Ayang Macdonald Categories Biometrics News	2318,6,103,20,94,25,48,44,120,42,105,22,70,1,8,259,18,126,31,282,78,69,141,37,21,280,185,78,145,55,511,151,60,43,101,181,78,116,183,19,89,178,5,104,1,149,7,16,253,294,2377,54,3,489,289,390,16
 B2B Communication CATÉGORIE	1297
 BANDE DE FREQUENCE CATEGORIE SIGNATURE CNPC	998
 BARICHO CATHOLIC HEALTH CENTRE Data Controller	7167
@@ -47,6 +47,7 @@ CATCH UP TO THE SCALE	10861
 CATD de Thierry Dogbo	3683
 CATEGORIA AYUNTAMIENTOS DE MALABO Y BATA	4209
 CATEGORIAS ADMINISTRATIVAS MEDICOS Y TECNICOS AUXIL	4209
+CATEGORIE	10975
 CATEGORIES	236,9017
 CATEGORIES AFFECTED	2709
 CATEGORIES OF AUTHORISED FM STATIONS	2776
@@ -84,6 +85,7 @@ CATHOLIC DISPENSARY MAKINDU Data Controller INST-932430E05A9	7167
 CATHOLIC HOSPITAL WAMBA Data Processor INST-503288E3328	7167
 CATTY MEDICAL CLINIC LIMITED Data Controller	7167
 CATÉGORIE DES	10087
+CATÉGORIES INSTITUTIONS RÔLES ET RESPONSABILITÉS ORGANES	10965
 CLOUD BASED ON DATA CATEGORIZATION	6432
 CLOUD BASED ON DATA CATEGORIZATION Technical	6432
 CONCEJALES AYUNTAMIENTOS Categoria Ayunt. Asignac. Mensual	4209
@@ -143,12 +145,13 @@ Categories Information Technology	9892
 Categories News	9936
 Categories Security	10759
 Categories Startups When Africa	10010
-Categories Sub-categories	10835,3
+Categories Sub-categories	10835,3,130
 Categories Tech and Innovation Every	10015
+Categories of Eligible Expenditures Category	10964
 Categories-	9399
 Categorised	8243
 Categorização	3519,2943
-Category	969,250,9,36,20,1189,1,301,1,137,1983,76,33,129,303,718,384,407,749,895,241,9,283,447,46,854,289,9,8,53,6,2,1,74
+Category	969,250,9,36,20,1189,1,301,1,137,1983,76,33,129,303,718,384,407,749,895,241,9,283,447,46,854,289,9,8,53,6,2,1,74,52,4
 Category B	7695
 Category C	5005,2690
 Category Classified Level	10157
@@ -187,6 +190,7 @@ Catherine Muthoni Boit Data Controller INST-7670773A3A3	7167
 Catherine Nakalembe	5367,1588
 Catherine Ndinda Sammy Data Processor INST-40040491D41	7167
 Catherine Nyagah	6946
+Catherine Otieno	11018
 Catherine Reine Mbengon	6131
 Catherine Savery	5807
 Catherine and Donatienne	3852
@@ -200,6 +204,7 @@ Catholic Relief Services	6903
 Catholic Relief Services Data Controller INST-565076B2C51	7167
 Catholic University of Eastern Africa	6946
 Cathy O’Neil	571
+Cathy and Adea Kryeziu	10964
 Catija Issumalgy Abdula	2816
 Cattle	3583,4262
 Catálogo	966
@@ -210,9 +215,10 @@ Catástrofes Naturales	4209
 Catâlogo	966
 Catégorie	737,9536,603
 Catégorie Dans	7385
+Catégorie Hommes Femmes Total Cadres	10975
 Catégorie Indicateur Publication	748
 Catégorie Socio Professionnelle CSLP	737
-Catégories	1231,9148,312,135,16,34
+Catégories	1231,9148,312,135,16,34,247
 Catégories Abdelmaksoud Rachdi Catégorie	8891
 Catégories Android Apple Applications Mobile Applications	9993
 Católica Global School of Law	6521
@@ -222,6 +228,7 @@ Challenge Categories and Coding Rules Nine	7151
 Changement de Catégorie SIGNATURE Airtel ARCEP	998
 China Category	8726
 Chris Burt Categories Biometrics News	2521,199,5,94,4,91,266,1905,1781
+Closing the Loop Catherine Otono	11033
 Collocation and Infrastructure Sharing Operator Category	3862
 Collège Catholique Cours de Soutien	10821
 Commercial Catalogue	1011
@@ -260,6 +267,7 @@ EDT Lu-Hai Liang Categories Biometric R&D	9713
 ENVIRONMENT Categorised B	1818
 Economic Category BeTA Bottom-up Economic Transformation	2775
 Editorial Team Category	5289
+Emma Catalfamo	11004
 Endeavor Catalyst	4457,2071,2616
 Enhanced Category	6074
 Enquiries Handled Category Total Received Resolved	6946
@@ -267,6 +275,7 @@ Event Category	10235
 Expenditure Category	2775
 Exterior Nº Categoría de Funcionario Público Monto	4209
 FY FY FY License Category Purpose	6946
+Financing Agreement Description Under Category	10964
 First Catalytic First Loss Guarantee Transactions	8938
 Fundo Catalítico de Inovação	2816
 G Details John Tanner Category	2405
@@ -280,6 +289,8 @@ Global Fund Data Science Catalytic Fund	392
 Global Ventures and Endeavor Catalyst	2310
 Huawei Safe City Angola. Cat	645
 ID4D Practitioner’s Guide. Category Benefits Administrative	10775
+IDA Description Disbursement Under Category	10964
+IDA Under Category	10964
 IFC Catalytic First Loss Guarantee	8937
 INSTITUTO GEOGRAF. Y CATASTRAL.- Concepto	4209
 INSULAR Y CONTINENTAL CATEGORIA ACTIVIDAD CUOTA	4209
@@ -312,6 +323,7 @@ Main Categories of Threats Identified	5677
 Major Consumer Category	2775
 Massango Cambundi Catembo Quipungo Belize Amboim	10765
 Mestre Catija Issumalgy Abdula	2816
+Minister of Posts and Telecommunications Category	11000
 MoU Categories	5966
 Mobile SMS Traffic Traffic Category Q3	6000
 Mobile Telephone Traffic Change Traffic Category	6000
@@ -320,6 +332,7 @@ Multinational Digital Transformation Catalyst	5700
 Mustapha Khlafa Catégorie	8891
 Mº de CATASTRO Y ORDENACION DE TIERRAS	4209
 NASA Harvest's Catherine Nakalembe	5367
+Nairobi. Facilitators Catherine Otieno and Egline Samoei	11018
 National AI Strategy Ecosystem Category	4528
 National Product Catalogue	3400
 No. Category Allocation Committed Allocation	2473
@@ -358,7 +371,7 @@ Revised Data Signal Distributors Category FY	6946
 Risk Category	9123
 Risk Category IV	9123
 Risk Category Latest ISR Rating Current	1284
-Risk Category Rating	969,898,1737,2935,4229,61
+Risk Category Rating	969,898,1737,2935,4229,61,135
 Risk Category Socio-Ethical Risks Geopolitical	4528
 Risk Category V	9123
 Rubaga Cathedral	4954
@@ -393,6 +406,7 @@ TM Forum Catalyst	7490
 Tariff Category	9409
 Thami Abderrahmani Ghorfi Catégorie	8891
 Thematic Categories Macroeconomic Stability Trade Openness	5247
+Uganda Catholic Medical Bureau	11022
 Universidade Federal de Santa Catarina	2816
 Upper Nile Catholic	3212,2216,578
 Use Service Category Description Deployment Model	6432

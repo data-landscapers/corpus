@@ -18,7 +18,10 @@ ADDIS ABABA	7538,2103
 ADDIS ABABA TELECOMMUNICATIONS LICENSING DIRECTIVE WHEREAS	762
 ADDIS ABEBA	4209
 ADDITIF-N1-AP-PKI-15-05-26.pdf	5983
+ADDITIONAL	10977
+ADDITIONAL CRITERIA ADDITIONAL CRITERIA	10976
 ADDITIONAL FINANCING	1284
+ADDITIONAL GDP	11004
 ADDITIONAL MATERIAL INFORMATION	4896
 ADDITIONAL MATERIAL INFORMATION Econet InfraCo	4896
 ADDITIONAL RESPONSIBILITIES OF THE PARTICIPANTS	4153
@@ -35,6 +38,7 @@ ADDRESSES	5773
 ASO Address Council	3503
 ASSETS MANAGEMENT Telegraphic Address	5793
 Abidjan District Addressing Project	10930
+Abuja The National Addressing Council	11126
 Academic City University. Sean Ofori Addo	6936
 Account VAT Value Added Tax TABLE	1284
 Accra Digital Address	3386
@@ -53,11 +57,11 @@ Add.1	3583
 Add.71	3583
 Addai	8766
 Addax Energy	3583
-Added	236,536,472,40,1491,206,2674,22,389,319
+Added	236,536,472,40,1491,206,2674,22,389,319,4595,20
 Added GWh Giga Watt Hours	2775
 Added Service	3862
 Added Services	3487,2532,665
-Added Tax	236,918,130,2023,1206,186,197,455,304,799,15,320,449,501,629,206,16,523,308,308,140,333,186,31
+Added Tax	236,918,130,2023,1206,186,197,455,304,799,15,320,449,501,629,206,16,523,308,308,140,333,186,31,619
 Added Tax Act	4896,2025,3102
 Added Tax Reforms Mr. Speaker	7695
 Added Tax VDIs Virtual Digital Infrastructure	2775
@@ -119,12 +123,12 @@ Addison-Wesley	3782
 Addit	4260
 Additif N	5983
 Addition	585,151,277,931,2788,2189
-Additional	25,141,210,395,128,62,1,7,51,141,51,7,45,20,371,159,4,10,160,281,126,109,1,172,212,495,199,131,68,79,57,1,1,223,117,89,85,149,313,191,64,93,2,454,456,55,200,12,96,409,297,323,211,31,113,246,53,398,28,43,21,291,140,6,154,82,260,63,21,30,479,129,367,45,4,2,3,7,5,4,30,15,6,2,1,14,4,3,2,1,2,2,15,31,30
+Additional	25,141,210,395,128,62,1,7,51,141,51,7,45,20,371,159,4,10,160,281,126,109,1,172,212,495,199,131,68,79,57,1,1,223,117,89,85,149,313,191,64,93,2,454,456,55,200,12,96,409,297,323,211,31,113,246,53,398,28,43,21,291,140,6,154,82,260,63,21,30,479,129,367,45,4,2,3,7,5,4,30,15,6,2,1,14,4,3,2,1,2,2,15,31,30,21,1,4,9,8,19
 Additional APS	4260
-Additional CapEx	3184,1,1340,6256
+Additional CapEx	3184,1,1340,6256,214
 Additional Confirmations	5903
 Additional Credit of SDR	2780
-Additional Financing	166,417,701,294,517,378,307,3743
+Additional Financing	166,417,701,294,517,378,307,3743,4440,1
 Additional Financing AM Accountability Mechanism ARCEP	2889
 Additional Financing African Development Bank	808
 Additional Financing CAB4 World Bank Group	162
@@ -156,7 +160,8 @@ Additional Testing Requirements Software	5665
 Additional Universities and TVETs	6928
 Additionality	10077
 Additions	1013,931
-Address	236,500,39,183,820,36,63,63,351,183,75,1013,21,543,308,94,368,349,288,132,13,1,1281,232,653,726,254,160,138,2,317,413,37,1,165,703,4,10,37,29
+Address	236,500,39,183,820,36,63,63,351,183,75,1013,21,543,308,94,368,349,288,132,13,1,1281,232,653,726,254,160,138,2,317,413,37,1,165,703,4,10,37,29,142,21,122
+Address Barriers	11017
 Address CERT-GH	775
 Address Digital Skills Shortage	6449
 Address Disinformation	6907
@@ -172,7 +177,7 @@ Address and Telephone Number of Person Authorized	7198
 Address of Principal Executive Office	8939
 Addressed	557,6855
 Addresses	736,2306
-Addressing	21,407,361,151,30,67,667,73,37,65,109,383,51,103,67,438,361,96,96,158,76,241,161,121,17,173,113,10,7,27,31,130,58,34,14,135,18,67,81,1,72,205,245,6,19,132,29,151,86,118,1,207,66,188,51,104,2,10,54,41,62,46,38,47,42,129,91,50,57,10,72,64,39,69,46,41,124,132,86,39,48,85,21,63,1,19,11,28,8,137,17,68,3,98,303,9,85,18,2,10,3,252,140,139,44,30,93,40,2,47,20,91,266,1,312,15,5,71
+Addressing	21,407,361,151,30,67,667,73,37,65,109,383,51,103,67,438,361,96,96,158,76,241,161,121,17,173,113,10,7,27,31,130,58,34,14,135,18,67,81,1,72,205,245,6,19,132,29,151,86,118,1,207,66,188,51,104,2,10,54,41,62,46,38,47,42,129,91,50,57,10,72,64,39,69,46,41,124,132,86,39,48,85,21,63,1,19,11,28,8,137,17,68,3,98,303,9,85,18,2,10,3,252,140,139,44,30,93,40,2,47,20,91,266,1,312,15,5,71,31,1,19,2,12,6,1,2,56,19
 Addressing AI	4528
 Addressing AI Safety and Security	1814
 Addressing Africa's Trade Finance Gap DFIs	10718
@@ -190,6 +195,8 @@ Addressing Gender-Based Violence	10776
 Addressing Illegal Mobile Lines	9472
 Addressing Liberia	1777
 Addressing MSME	9791
+Addressing Matters Despite	10983
+Addressing Multiple Poverty Traps	10964
 Addressing Musk	5611
 Addressing Non-Communicable Diseases	10776
 Addressing Peace	8015
@@ -253,6 +260,7 @@ Digital Cabo Verde Project Additional Financing.pdf	2780
 Digital ID Strategy Addressing Quantum	3279
 Digital Terrestrial Television Additional	2776
 Digital Terrestrial Television Additional Services	2776
+Digitised Modern Addressing System	11126
 Director General of ADD	2577
 Disaggregation of Gross Value Added	236
 Downloads Article Details References Addis Standard	8671
@@ -303,6 +311,7 @@ Industry and Commerce. Addressing	7436
 Intermediate Consumption and Value Added	2775
 Intermediate Gross Value Added Gross	236
 Invitation Documents Documents Add	10235
+J. Addison	11006
 Jennifer Onyeagoro Addressing	7436
 Johannesburg and Addis Ababa. Afriexim	562
 June. Add	6124
@@ -315,7 +324,8 @@ La Value Added Tax Act	7994
 Luba Lesolle Add	5808
 MESOB Headquarters Government Services Center Address	10709
 MNE Additional	573
-Manufacturing Value Added	9761
+Managing Director of Digital Addressing Platform	11126
+Manufacturing Value Added	9761,1219
 Mc Ethiopia Africa Eastern Africa Addis	10840
 Ministry of Digital and Communications. Additional	2473
 Mogadishu's Aden Adde	2273
@@ -338,6 +348,7 @@ Nation Annually Address	958
 National AI Agency Addressing	10152
 National Address Programme	3460
 National Address System	958
+National Addressing Policy	11126
 National Addressing System	1595,509
 National Addressing and Postcode System	2104
 National Digital Addressing	9369
@@ -362,8 +373,10 @@ OJ Koloti Add	6183
 ONG ADD-Fassali de Zinder	3356
 OSGF’s Email Address Can’t Receive Messages	10034,231
 Occupation Business Address Mr Mgqibelo Gasela	4896
+Official Use Only Additional	10985
 Open Data Startups ADD	2258
 Osu-Accra Digital Address	3386
+PFS. Additional	10985
 PHYSICAL ADDRESS	2709
 PROPOSED ADDITIONAL GRANT	1284,1605
 PUBLIC PUBLIC EBRD ADDITIONAL SUMMARY TERMS	1818
@@ -389,6 +402,7 @@ Proposed Additional Total Last Approved	2889
 Proposed Additional Total Proposed Current Financing	1284
 R Digital Address	3386
 RATIONALE FOR ADDITIONAL FINANCING	2889
+RHV Added Value MVA Regional Handicrafts	10980
 RI M Add	1009
 RIM Add	1009
 RS Add	1009
@@ -400,6 +414,7 @@ STAKEHOLDERS ADDS	10852
 STATE DEPARTMENT FOR MEDICAL SERVICES ADDENDUM	7987,1
 STUDY ADDS Over	10881
 Says Deputy PM Addis Ababa	8920
+Scale Digital Addressing Industry Published	10983
 Sean Ofori Addo	6936
 Service Value Added Tax Excise	5655
 Shareholders Equity Addition PPE Revenue Net	1944
@@ -424,6 +439,7 @@ United Nations Development Programme and Addis Ababa	7474
 Update Voter Address	7266
 Vice President Ndaba Gaolathe. Addressing	5449
 Victoria Addae	8724
+Village Manufacturing Value Added AfCFTA African	10980
 Vote of Confidence Adding	2757
 Welcome Address	10169
 West Africa Addressee	5677
