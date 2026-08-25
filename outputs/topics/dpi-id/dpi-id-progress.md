@@ -1,13 +1,13 @@
 ---
-title: Digital Identity and CRVS — progress report, 2025-08-01 to 2026-08-25
-compiled: 2026-08-25
-period: 2025-08-01 to 2026-08-25
+title: Digital Identity and CRVS — progress report, 2025-08-01 to 2026-08-26
+compiled: 2026-08-26
+period: 2025-08-01 to 2026-08-26
 subject: dpi.id
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF; XSA; XWA
-record: 13b4fa2ea97b
+record: c86ba59e8291
 ---
 
-# Digital Identity and CRVS: progress report, 2025-08-01 to 2026-08-25
+# Digital Identity and CRVS: progress report, 2025-08-01 to 2026-08-26
 
 *56 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -17,7 +17,7 @@ record: 13b4fa2ea97b
 
 ## Algeria
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | All-digital vehicle registration | Earlier phases live; local applications still manual | [In service, but named by the interior minister on 10 August 2026 among the ministry's digitisation projects that have stalled and are to be accelerated, alongside civil-status services; press accounts the following day describe citizens still made to attend in person for procedures presented as online, and an inspection of one Algiers biometric-documents office after complaints of overnight queues and a daily cap on files accepted](https://maghrebemergent.news/fr/numerisation-en-algerie-des-dysfonctionnements-persistent-sayoud-veut-rattraper-le-retard/) | Advanced |
 | DGSN-UK Home Office biometrics and digital-forensics MoU | Did not exist | [Fingerprint-analysis training and biometric verification exchange](https://www.biometricupdate.com/202511/algeria-to-get-uk-support-on-digital-forensics-biometrics-for-policing) | Advanced |
@@ -28,7 +28,7 @@ record: 13b4fa2ea97b
 
 ## Angola
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | At-home identity-card service | Did not exist | [Kz 250,000 for at-home processing and Kz 10,000 for at-home delivery alone, on a 48-hour issuance target, with requests through a web portal and a messaging number](https://angop.ao/noticias/politica/ministerio-da-justica-lanca-servico-de-tratamento-do-bi-ao-domicilio/) | Advanced |
 | Biometric electronic passport | Did not exist | [Issued across all 21 provinces by end-March 2026 and to the diaspora from May 2026](https://www.novojornal.co.ao/sociedade/detalhe/passaporte-electronico-comeca-a-ser-emitido-em-todo-o-pais-no-final-deste-mes-garante-sme-70406.html) | Advanced |
@@ -48,7 +48,7 @@ record: 13b4fa2ea97b
 
 ## Botswana
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Electronic Identification System | Prioritised for FY2025/26 as a partnership, not progressed | [Rescoped to integrate digital identity, a national wallet and e-government services; a biometric identity card itemised at P31,700,000 in FY2026/27](https://dailynews.gov.bw/news-detail/90334) | Stalled, rescoped |
 | Omang card production and replacement | Replacement operating without reported delay | [Delays running since the start of 2026; no backlog figure, no restoration date and no equipment-replacement commitment](https://dailynews.gov.bw/news-detail/92439) | Regressed |
@@ -58,14 +58,14 @@ record: 13b4fa2ea97b
 
 ## Burkina Faso
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Regional biometric identity card | Harmonised regional specifications validated by three security ministers in November 2024, with the older card still in issue | [A fifth-generation national card in mass production since January 2026, issuable from age five and required from thirteen, at FCFA 3,500 with ten-year validity, carrying both national and confederal marks and adopted by a second member state in March 2026](https://www.sidwaya.info/carte-didentite-biometrique-aes-au-burkina-faso-le-capitaine-ibrahim-traore-pour-commencer/) | Advanced |
 | Unique electronic identifier | A 2024 framework law in force with regional awareness workshops running, no vendor and no enrolment | [Vendor recruited and a decree organising mass registration through national, regional, provincial and communal committees run entirely by public structures so that fingerprint and iris data stay sovereign, with mass enrolment targeted before end-2026](https://www.sidwaya.info/burkina-faso-acceleration-de-la-digitalisation-de-lidentite-et-restructuration-de-la-formation-professionnelle/) | Advanced |
 
 ## Burundi
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Biometric national identity card | Confirmed not ready for the 2025 voter enrolment | [Technically ready, awaiting a legal instrument; piloted in about a dozen communes](https://www.burunditimes.com/burundi-unveils-biometric-national-id-system-awaits-law-before-full-rollout/) | Advanced |
 | Digital civil registry platform | Platform unveiled; every citizen to re-register afresh; family-code amendment required | [Biometric enrolment operating in 13 pilot communes, decentralised to zone level; the civil-registry to health-facility link for birth registration, piloted since 2023 and institutionalised in 2024, now runs in 123 health facilities and has recorded more than 52,000 births. A national unique identifier is planned with fingerprint and facial biometrics](https://abpinfo.bi/2026/08/13/le-burundi-veut-construire-un-etat-plus-proche-des-citoyens-plus-efficace-et-inclusif/) | Advanced |
@@ -74,20 +74,20 @@ record: 13b4fa2ea97b
 
 ## Cameroon
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | AILGLES biometric payroll system | Did not exist; payroll fraud via forged or duplicate birth certificates unchecked | [Operational since early 2025, actively flagging fraudulent payroll claims (53,000+ flagged by June 2026), now running alongside a separate Finance Ministry census of 950,000+ dependent-child birth certificates](https://www.biometricupdate.com/202608/cameroon-when-birth-certificates-represent-children-who-do-not-exist) | Advanced |
 | Biometric national identity card | In issuance from one production centre | [Two production centres, the second at about 2,000 cards a day, with a displacement-response enrolment track](https://www.biometricupdate.com/202508/new-biometric-id-card-center-opens-for-citizens-in-northern-cameroon) | Advanced |
+| Biometric voter register | In operation on third-generation kits | [A register of about 8.2 million voters under deduplication ahead of the 12 October 2025 presidential vote, with hundreds of thousands of biometric cards uncollected - more than 350,000 in the Littoral region, about 50,000 of 115,000 collected in the South, 31,861 of 66,515 distributed in the South West - some printed in 2018 or earlier, the elections board warning that a registered voter without a card cannot vote](https://www.biometricupdate.com/202509/cameroon-signals-urgency-on-biometric-voter-id-collection-as-presidential-vote-nears) | Advanced |
 | Secondary-school student digital identity | A unique student identification number only, assigned through a ministry portal since 2024 | [A digital identity card provided for, linked to academic, financial and disciplinary records and to school-fee payment; no issuance reported](https://www.biometricupdate.com/202606/cameroon-expands-education-digitalization-with-student-digital-id-program) | Advanced |
 | Yaoundé taxi and driver digital identity | Did not exist | [Compulsory registration on a city platform, with a QR code and a unique door number per driver; unregistered taxis barred after the deadline](https://www.biometricupdate.com/202607/cameroon-introduces-digital-id-system-for-taxi-owners-drivers) | Advanced |
-| Biometric voter register | In operation on third-generation kits | [In operation; the base carries no dated statement through the October 2025 presidential election](https://lejour.cm/listes-electorales-elecam-acquiert-1000-nouveaux-kits-denrolement/) | No change |
 | Décret n. 2025/059 on identity titles | In force, governing five identity-title classes | [In force, unamended](https://www.prc.cm/files/e7/0f/3b/6ccd45456387ac207b4797c196318209.pdf) | No change |
 | Civil-status registration digitisation pilot | Baseline not held | [Equipment out to tender by the United Nations development programme for three pilot centres digitising civil-status registration; the centres, their locations, the value and the timetable are not named in the notice](https://www.developmentaid.org/tenders/view/1696885/equipment-for-the-digitalisation-of-civil-status-registration-at-03-pilot-center) | ***Baseline not held*** |
 | Free identity-card delivery, Yaoundé 5 | ***Baseline not held*** | [4,000 free cards delivered, some to recipients blocked for over fifteen years by duplicate-identity records, cleared by seconding police officers on site](https://tribunedelinfo.com/de-la-promesse-a-la-cni-en-main-4000-beneficiaires-soulages-a-yaounde-5/) | ***Baseline not held*** |
 
 ## Cape Verde
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Birth registration coverage | About 91% civil-registration coverage before the linkage reforms, with fragmented systems and weak institutional coordination | [99% birth registration and 100% registration of deaths occurring in health facilities, reached within five years, with a unique identification number issued to every child at birth](https://www.biometricupdate.com/202605/cabo-verdes-crvs-id-reforms-drive-near-universal-birth-registration) | Advanced |
 | Domestic production of security documents | Production and personalisation of the identity card, electronic passport and foreigners' residence permit contracted to Portugal's Imprensa Nacional Casa da Moeda, with over CVE 176 million ratified after the services had been supplied | [Producing on national territory since 2026-05-18; over 1,000 identity cards, the first residence permit and about 50 passports produced by 2026-06-10, against installed capacity of 1,200 cards, 1,200 permits and 2,400 passports a day and annual demand of roughly 80,000, 5,000 and 60,000](https://inforpress.cv/pt/governo-autoriza-despesa-de-mais-de-176-mil-contos-para-documentos-de-identificacao) | Advanced |
@@ -106,7 +106,7 @@ record: 13b4fa2ea97b
 
 ## Chad
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Mass enrolment and subscriber-data interconnection with a mobile operator | Did not exist | [Signed: the operator is to run awareness campaigns, field deployment and message and call-centre document distribution, and the identity agency is to verify customer data and interconnect systems](https://tchadinfos.com/2026/05/09/securisation-des-donnees-lanats-et-airtel-tchad-signent-un-partenariat-strategique/) | Advanced |
 | Memorandum on secure identity for vulnerable populations | Did not exist | [Signed, with no budget, target population size or duration stated](https://lendjampost.com/tchad-lanats-et-loim-scellent-un-partenariat-pour-lidentite-securisee-et-la-protection-des-populations-vulnerables/) | Advanced |
@@ -114,7 +114,7 @@ record: 13b4fa2ea97b
 
 ## Comoros
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Agence Nationale de l'Etat Civil | Provided for by the law of 27 July 2023, with no implementing decree drafted on record | [Draft decree in island consultation; the agency is not recorded as created](https://lagazettedescomores.com/soci%C3%A9t%C3%A9/vers-un-d%C3%A9cret-d%E2%80%99application-pour-l%E2%80%99agence-nationale-de-l%E2%80%99%C3%A9tat-civil-.html) | Advanced |
 | Biometric passport and national identity card production concession | A build-operate-transfer contract running since 2007, with all Comorian biometric data stored in Belgium and one production machine, at Moroni | [A new supplier, data domiciled in the Comoros, production decentralised to the two other islands, and a polycarbonate laser-engraved data page with a compliant chip](https://alwatwan.net/societe/impression-des-documents-biom%C3%A9triques-i-genkey-remplacera-semlex-%C3%A0-partir-du-mois-d%E2%80%99avril-prochain.html) | Advanced |
@@ -124,18 +124,20 @@ record: 13b4fa2ea97b
 
 ## Congo
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Unique identification number biometric card | Production halted, with 10,506 identity cards and 25,549 number cards uncollected in one city alone, prompting a proximity distribution campaign | [Production relaunched, with the number now the authentication key for the public-revenue platform and for real-time invoice validation, and mandatory for eight economic and five administrative or social formalities](https://www.finances.gouv.cg/fr/articles/relance-des-operations-de-production-de-la-carte-niu) | Advanced |
 | Secure digital identity framework and wallet | Committed at a July 2025 workshop owned by the interior ministry, with a vendor cited and no legal or institutional framework adopted | [Named again as a foundation in the July 2026 roadmap, with still no legal instrument, no wallet and no pilot on file](https://www.adiac-congo.com/content/le-numerique-au-service-dun-congo-plus-performant-plus-souverain-et-plus-proche-de-ses) | No change |
 
 ## Cote d'Ivoire
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Digital post box | Did not exist | [Compulsory for all individuals and businesses with postal addresses and tied to the identification number, at annual fees from FCFA 2,000 for an individual to 50,000 for a large business](https://www.biometricupdate.com/202601/cote-divoire-digitizes-postal-services-with-mobile-app-launch) | Advanced |
 | MaPoste application | Did not exist | [Register-backed application for mail and parcel management, identity-card, birth-certificate and criminal-record applications, with card delivery through more than 200 post offices](https://www.biometricupdate.com/202601/cote-divoire-digitizes-postal-services-with-mobile-app-launch) | Advanced |
 | Register authentication service for banks | No commercial institution integrated | [One bank integrated for real-time identity checks against the national register](https://www.fratmat.info/article/2638209/economie/banque-societe-generale-cote-divoire-et-loneci-desormais-ensemble-pour-un-secteur-financier-securise-et-simplifie) | Advanced |
+| Biometric residence card for foreign nationals | Issued by the national identification office from 14 August 2017, storing fingerprints and facial images, with holders of non-biometric cards - foreign workers on work cards among them - required to exchange them | [Issued by the national identification office from 14 August 2017, storing fingerprints and facial images, with holders of non-biometric cards - foreign workers on work cards among them - required to exchange them](https://identityweek.net/ivory-coast-introduces-biometric-residence-cards-2/) | No change |
+| Decret n 2017-193 on subscriber identification | Requires identification of subscribers to public telecommunications and ICT services and of cybercafe users | [Requires identification of subscribers to public telecommunications and ICT services and of cybercafe users](https://anssi.gouv.ci/documents/43/DECRET3.PDF) | No change |
 | National biometric register and identification number | Biometric register issuing the national identification number, coverage not published | [Same, with historic duplicate identities inside the register now named publicly by the identification office's director general](https://digitalmag.ci/identite-numerique-la-cote-divoire-pays-connecte-mais-pas-encore-pleinement-identifie/) | No change |
 | Population identification appropriation | FCFA 8,791,576,615 for FY2025 | [FCFA 8,791,576,615 for FY2026, unchanged, up from FCFA 5,000,000,000 in FY2024](https://www.dgbf.ci/wp-content/uploads/2025/12/Loi-de-Finances-2026.pdf) | No change |
 | Border management system at the Kalamon post | ***Baseline not held*** | [In operation at the crossing with Burkina Faso, Japan-funded, reviewed with the territorial surveillance directorate and the cyber agency; replaces paper border processing](https://www.biometricupdate.com/202607/iom-digital-migration-platform-helps-cote-divoire-modernize-border-management) | ***Baseline not held*** |
@@ -143,14 +145,14 @@ record: 13b4fa2ea97b
 
 ## Djibouti
 
-| System or instrument | At 2025-08-01 | At 2026-08-21 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Biometric national identity card and Registre national des personnes physiques | No biometric national identity card on record | [Issued nationwide; fingerprints, iris, photograph and electronic signature enrolled against a national identification number (2026-07)](https://www.lanation.dj/carte-nationale-didentite-biometrique-dans-les-coulisses-de-la-nouvelle-identite-nationale/) | Advanced |
 | Mobile ID national digital identity platform | Did not exist | [In service; authentication and electronic signature, biometric data held only by the Interior Ministry (2026-02)](https://www.lanation.dj/identite-numerique-et-mobile-id-une-avancee-strategique-vers-ladministration-de-demain/) | Advanced |
 
 ## DR Congo
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Mbororo herder identification operation, Nord-Ubangi | Did not exist | [Forty agents trained on a digital collection tool and on a questionnaire validated by an interministerial commission recording herders' identity, ties to the country, weapons and cattle, with the province expecting the operation itself to begin within days](https://lepotentiel.cd/2026/08/18/nord-ubangi-la-formation-des-identificateurs-des-mbororo-sacheve-a-gbadolite/) | Advanced |
 | RDC-PASS national digital identity platform | A twenty-year exclusive electronic know-your-customer partnership signed June 2025, phased deployment under way, no platform live | [Platform launched 2026-06-13, valued at US$97.1m by the planning ministry, with US$2.6m raised by the concessionaire for initial rollout; no enrolment figure published](https://www.biometricupdate.com/202606/drc-launches-rdc-pass-digital-id-platform-under-20-year-ppp-with-trident) | Advanced |
@@ -160,9 +162,9 @@ record: 13b4fa2ea97b
 
 ## Egypt
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
-| Haweya national digital financial identity | Did not exist | [Mobile app registering face and fingerprint biometrics plus a digital signature, enabling remote bank-account opening at 37 banks, document verification and SIM purchase](https://www.biometricupdate.com/202511/egypt-rolls-out-digital-id-platform-to-scale-up-financial-inclusion) | Advanced |
+| Haweya national digital financial identity | Did not exist | [The central bank's board approved the rules governing the digital financial identity system for electronic identification and verification of bank customers, reported 23 August 2026: customers may open accounts and take banking products through digital channels without visiting a branch, with electronic acceptance of terms and conditions and electronic authentication in place of a handwritten signature, and the rules set out system governance, the roles of participating parties, technical and operational requirements and data-protection and cybersecurity controls](https://gate.ahram.org.eg/News/5893462.aspx) | Advanced |
 | MOIEG-PASS biometric authentication platform | Did not exist | [Android pilot in which users scan the national ID card and complete facial recognition to authenticate for a selected number of government services, with scaling to be decided on the pilot's outcome](https://english.ahram.org.eg/News/562383.aspx) | Advanced |
 | National digital identity app | A digital identity card enabling remote verification stated as under development | [App released and in its second version, integrated with e-signature and e-seal services, with the civil-registry-linked eKYC extension stated as approaching](https://gate.ahram.org.eg/News/5813424.aspx) | Advanced |
 | Private eKYC and e-signature licence for the non-bank financial sector | Not licensed; no authorisation for private eKYC or digital contracting in the non-bank financial sector is held | [Lending, investment and insurance companies under the financial regulator may create digital IDs, run biometric and non-biometric checks against national-ID and mobile-registry databases, and execute legally binding e-contracts; the licensee reports over 25m verifications a year](https://www.biometricupdate.com/202508/digified-licensed-to-offer-digital-kyc-e-signature-services-in-egypt) | Advanced |
@@ -172,14 +174,14 @@ record: 13b4fa2ea97b
 
 ## Equatorial Guinea
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Digital identity ecosystem | No digital ID; a 2018 digital civil-registry pilot only | [Unchanged; recommended and not built](https://www.worldbank.org/en/country/equatorialguinea/publication/equatorial-guinea-digital-economy-country-diagnostic-bridging-the-gaps-to-develop-a-safe-and-inclusive-digital-transform) | No change |
 | DIP biometric identity document | Issued by CNEDOGE, about 30 days for a DIP and 14 to 17 days for a passport | [Unchanged; the 2025 tour figures remain the most recent held](https://www.guineaecuatorialpress.com/noticias/el_gobierno_quiere_implementar_un_mecanismo_riguroso_de_control_para_la_adquisicion_del_certificado_literal) | No change |
 
 ## Eswatini
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Digital identity | Conceptualised only | [Planned under the Digital Eswatini Project; nothing issued](https://independentnews.co.sz/45098/business/ict-trains-change-agents-for-e1-2bn-digitization-project/) | Advanced |
 | National e-KYC registry | Did not exist | [Under construction, with a SADC cross-border dimension; the FinTech Strategy targets 500,000 users by 2028](https://www.times.co.sz/business/readmore.php?bhsadjgfoh=Eswatini+embarks+on+national+e-KYC+system&bvhdgsj=Business+and+Economy&yiphi=1080) | Advanced |
@@ -187,7 +189,7 @@ record: 13b4fa2ea97b
 
 ## Ethiopia
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Biometric enrolment kits for banks | Did not exist | [2,000 of 6,000 planned distributed, about US$17m, with 4,000 re-tendered](https://www.biometricupdate.com/202511/ethiopia-banks-receive-biometric-kits-to-expand-digital-id-enrollment) | Advanced |
 | Ethio Telecom as identity enrolment channel | Enrolling since 2024-04 | [About 32m citizens enrolled, 20.19m in FY2025/26; custody and consent terms not stated](https://www.ena.et/web/eng/w/eng_9268046) | Advanced |
@@ -199,7 +201,7 @@ record: 13b4fa2ea97b
 
 ## Gabon
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Carte Nationale d'Identite Electronique | Launched 2024-06-24 with no enrolment figure on the record and the World Bank indicator still at a zero baseline | [335,384 enrolled, 164,944 cards produced, 147,224 collected, 92,614 files in processing and 78,500 disputed (2026-06-02)](https://africacoeurnews.com/2026/06/03/gabon-17720-cartes-didentite-electroniques-toujours-non-retirees/) | Advanced |
 | Identity-card contract award | None published | [IN Groupe supplies the card and the digital-identity software and hardware; the DGDI enrols, personalises and issues at its own Oloumi facility, as it does for the passport and the residence permit](https://ingroupe.com/app/uploads/2024/01/ingroupe-insight-report-2023.24.pdf) | Advanced |
@@ -217,20 +219,23 @@ record: 13b4fa2ea97b
 
 ## Ghana
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Biometric SIM re-registration | SIM registration moved fully online from June 2025 | [A fresh nationwide biometric drive still not begun, with the 2021 to 2023 registration declared invalid and the 2022 biometrics confirmed never authenticated against the identity database](https://www.graphic.com.gh/news/general-news/banks-telcos-and-hospitals-have-until-november-2-to-stop-taking-ghana-card-photocopies.html) | Stalled |
 | Ghana Card | About 18m adults registered, with a printed-card backlog outstanding and applications moved online | [19.2m registered aged 15 and over, 262 institutions integrated, instant issuance nationwide and eleven overseas missions](https://www.myjoyonline.com/nia-clears-640000-card-backlog-expands-nationwide-and-diaspora-operations/) | Advanced |
 | Ghana Card enrolment for children aged 6 to 14 | A plan announced to capture 7m under-fifteens and 3m diaspora | [3.1m children targeted, phased at 21 days per region, run jointly with the health insurance authority](https://www.myjoyonline.com/nia-targets-3-1-million-children-as-ghana-card-registration-for-ages-6-14-resumes-may-5/) | Advanced |
+| Ghana Card fee schedule | Did not exist | [First-time registration free below the age of 25 and GH¢30 for those 25 and over, card replacement GH¢200 and record updates free, across 276 district offices, made under the Fees and Charges (Miscellaneous Provisions) (Amendment) Regulations, 2025 (L.I. 2512) pursuant to Act 1080 and in force from 2 February 2026](https://www.myjoyonline.com/revised-ghana-card-fees-approved-by-parliament-not-unilaterally-introduced-nia/) | Advanced |
 | Ghana Card photocopy ban and verification service | Did not exist | [A three-month transition from 27 July to 2 November 2026 for banks, telecoms operators, hospitals, schools, insurers and agencies, with a sanctions ladder to suspension of verification access and licence withdrawal](https://www.graphic.com.gh/news/general-news/banks-telcos-and-hospitals-have-until-november-2-to-stop-taking-ghana-card-photocopies.html) | Advanced |
+| National criminal automated biometric identification system | Did not exist | [The interior minister stated on 24 August 2026 that the national crime automated biometric identification system is to reach 751 centres by the end of 2026](https://www.graphic.com.gh/news/general-news/cameras-to-replace-police-mttd-personnel-in-checking-traffic-violations-from-september-2026-muntaka.html) | Advanced |
 | National Identity Register Amendment Regulations 2026 | Did not exist; the 2012 regulations as amended in 2018 were the standing rules | [Biometric-only verification is law, visual inspection and photocopying are barred, and penalties run to 2,000 penalty units for an organisation](https://nia.gov.gh/wp-content/uploads/LI-2523-national-identity-register-amendment-regulations-2026.pdf) | Advanced |
-| Paid 24-hour identity service centre | Did not exist | [A paid tier operating around the clock on three shifts at the Labone centre in Accra, all services attracting approved charges, presented as part of the government's wider 24-hour economy programme and the first of several planned nationwide](https://thehighstreetjournal.com/nia-adopts-three-shift-system-for-24-hour-ghana-card-registration/) | Advanced |
+| Paid 24-hour identity service centre | Did not exist | [A paid tier operating around the clock on three shifts at the Labone centre in Accra since 1 August 2026, which the identity agency states on 19 August 2026 is optional and does not replace its district offices, 276 of which remain fully operational for card registration and related services](https://www.myjoyonline.com/nia-says-labone-prestige-centre-is-optional-district-offices-remain-operational/) | Advanced |
+| Police digital enrolment stations | Did not exist | [The interior minister told the police regional command conference on 21 August 2026 that the police service will deploy more than 700 digital enrolment stations nationwide by the end of 2026, to support intelligence-led policing alongside the automated road-traffic enforcement system and the national criminal biometric identification system](https://www.graphic.com.gh/news/general-news/police-to-deploy-700-digital-stations-nationwide-to-strengthen-crime-fight.html) | Advanced |
 | Electronic number plate system (DVLA) | ***Baseline not held*** | [Pilot stated to begin in August 2026 with nationwide rollout from January 2027, Cabinet having approved it and the Legislative Instrument in force since 28 May 2026 after a court challenge and parliamentary recess delayed it; the plates raise aluminium content from about 30% to 70%. No pilot size, cost or data-retention rule published](https://www.myjoyonline.com/dvla-to-pilot-new-electronic-number-plate-system-this-month-ahead-of-2027-rollout/) | ***Baseline not held*** |
 | Ghana Card as sole banking identity | ***Baseline not held*** | [Primary and sole identity document for financial onboarding at all regulated institutions, with biometric and liveness checks](https://radiotamaleonline.com/blog/2026/01/11/ghana-card-mandatory-for-banking-and-digital-transactions-bog) | ***Baseline not held*** |
 
 ## Guinea
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Biometric civil registry and national ID (ONECI, MOSIP/TECH5) | No domestic issuance; WURI closed with ~8,000 unique IDs | [Biometric birth certificates and national-ID enrolment running in one commune](https://idtechwire.com/guinea-launches-biometric-birth-certificates-in-sanoyah-in-civil-registry-modernization-push) | Advanced |
 | Free issuance of biometric civil-registration documents | Decreed free (2025-02) | [Decreed free; fees alleged to be taken at enrolment centres, no ministerial response on file](https://www.infosbruts.com/etat-civil-biometrique-en-guinee-mgg-denonce-des-pratiques-de-racket-et-appelle-a-une-reaction-des-autorites/) | Regressed |
@@ -240,14 +245,14 @@ record: 13b4fa2ea97b
 
 ## Guinea-Bissau
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | ENBIC (ECOWAS biometric ID) - Guinea-Bissau deployment | Operationalized nationally (Guinea-Bissau one of six ECOWAS states to fully operationalize ENBIC); no field-level distribution reported (2025-06) | [Operationalized, plus a first reported field-issuance pilot - 262 ENBIC cards issued to women cross-border traders in Sao Domingos, March 2026, under a Guinea-Bissau-Senegal mobility project](https://www.biometricupdate.com/202506/guinea-bissau-deploys-efforts-to-digitize-birth-registration-national-id-systems) | Advanced |
 | Semlex biometric national-ID production network | Functional biometric national-ID card system in place nationally; decentralisation network not itemised (2025-06) | [18 production centres nationwide, including the newly opened Safim centre (Biombo, 100 cards/day, third in Biombo); further centres planned for Sao Domingos and Bolama (Bijagos) (2026-02)](https://www.biometricupdate.com/202506/guinea-bissau-deploys-efforts-to-digitize-birth-registration-national-id-systems) | Advanced |
 
 ## Kenya
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Automatic identity at 18 from the civil register | Reform direction announced, with vetting shifted to birth registration | [Statute mandates a civil-registration office in each of 290 sub-counties, with the unique personal identifier issued at birth feeding automatic identity at 18](https://www.biometricupdate.com/202602/kenya-streamlines-access-to-legal-and-digital-identity) | Advanced |
 | Maisha Namba national digital ID | KSh 15.13bn committed FY2024/25 for 7.5m cards and unique personal identifier rollout; first-time-ID fees scrapped March 2025 | [More than 42m identity records digitised in FY2025/26, with enrolment extended to dependants aged 7 to 17](https://www.biometricupdate.com/202606/kenya-moves-to-institutionalize-trust-as-digital-government-services-expands) | Advanced |
@@ -264,7 +269,7 @@ record: 13b4fa2ea97b
 
 ## Lesotho
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | MOSIP-based integrated national digital ID | Digital ID pilots begun under the India memorandum, with no platform named (2025-07) | [A 2026 work plan signed with UNICEF to build a MOSIP-based national ID ecosystem covering passport and ID renewal, biometric registration and proof-of-life verification](https://www.biometricupdate.com/202603/lesotho-unicef-partner-to-develop-mosip-based-integrated-national-id) | Advanced |
 | Digital birth registration under Ntlafatsa Bana | In operation, with 20,000 Child Grants Programme beneficiaries on digital grant payments | [In operation; no later enrolment figure is held](https://www.eeas.europa.eu/delegations/lesotho/ntlafatsa-bana-launch-digital-birth-registration) | No change |
@@ -273,7 +278,7 @@ record: 13b4fa2ea97b
 
 ## Liberia
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | National Biometric Identification System (NIR) | Mandatory under Executive Order 147, issuance running amid a procurement dispute over a rejected restricted-bid award (2025-08) | [Public-private concession with an Austrian firm to finance enrolment of all about 5.3m people in 18 months, operate and transfer; consultations on the draft agreement have concluded and it has gone to Parliament for approval, with selection and terms unpublished until legislative approval completes. Coverage stands below 15% of a population above five million, officials say issuance will be free for poor first-time applicants, and mass enrolment has been suspended since 23 June 2025](https://www.biometricupdate.com/202608/liberia-advances-ppp-backed-digital-id-rollout-with-osd) | Advanced, contested |
 | National identity enrolment | About 740,000 enrolled, under 15% of about 5.3m, at a US$5 card fee (2024-12) | [About 640,000 prior registrants locked out of the system and issuance halted; no updated enrolment figure published (2026-03)](https://fpa.news/liberia-national-id-card-rollout-continues-to-be-held-up-by-1-7-million-unpaid-government-debt/) | Regressed |
@@ -283,7 +288,7 @@ record: 13b4fa2ea97b
 
 ## Libya
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Civil-registry fraud enforcement | No enforcement action on file | [61 family records suspended and 225 national ID numbers and passports revoked (2026-01), 10 numbers cancelled at Al-Marj, forged-number trade reported continuing (2026-04)](https://libyaherald.com/2026/01/61-false-family-records-225-national-id-nos-and-libyan-passports-suspended-legal-proceedings-against-civil-registry-office-conspirators-initiated) | Advanced |
 | LY-DNID national digital identity | Did not exist | [Level 3 (biometric) tier in technical trials with the Central Bank of Libya and several banks, ahead of integration into banking eKYC; part of the Digital Identity Management System for Citizens under the National Digital Transformation Strategy](https://www.gia.gov.ly/en/2026/04/19/general-information-authority-central-bank-of-libya-national-authority-for-combating-money-laundering-with-the-relevant-authorities/) | Advanced |
@@ -293,14 +298,14 @@ record: 13b4fa2ea97b
 
 ## Madagascar
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Biometric enrolment kits and centres | Kits contracted, not deployed (2025-05) | [2,500 kits across 1,729 centres, six days a week; the January pilot enrolled about 130,000 across 116 centres in 26 communes (2026-04)](https://www.lexpress.mg/2026/03/etat-civil-lenrolement-biometrique.html) | Advanced |
 | PRODIGY biometric national identity enrolment | Vendors contracted, no enrolment under way (2025-05) | [More than six million adults enrolled in the April to June 2026 phase; a second phase in preparation (2026-07)](https://www.lexpress.mg/2026/07/recensement-lidentite-biometrique.html) | Advanced |
 
 ## Malawi
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Blockchain-enabled Digital ID Wallet | A digital ID wallet using artificial intelligence and blockchain cited as a plan by the registration bureau's principal secretary | [Built by UNDP Malawi with the UN International Computing Centre, in pilot before nationwide rollout, with credentials to extend to birth certificates, driving licences and marriage certificates; no pilot scale, rollout date or cost stated, and nothing on how the arrangement sits under the Data Protection Act 2024](https://www.biometricupdate.com/202505/malawi-nears-full-scale-digital-id-rollout-to-streamline-access-to-services) | Advanced |
 | Electoral management devices and the electronic voter register | The voter register held electronically; the electoral commission refused an observer coalition electronic access to the roll on 2025-06-05, citing the elections statute | [6,500 electoral management devices deployed for voter verification at the 2025-09-16 elections, with offline glitches reported at rural polling stations](https://africabrief.substack.com/p/mec-rejects-observer-coalitions-electronic) | Advanced, offline failures recorded |
@@ -312,7 +317,7 @@ record: 13b4fa2ea97b
 
 ## Mali
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Cahier de recensement village register | Governed by Loi n06-023 of 28 June 2006 | [Formalised in a draft ordinance replacing the 2006 statute, still a hand-kept village ledger](https://gouvernement.ml/communique-du-conseil-des-ministres-cm-n2026-29-sgg/) | Advanced |
 | CIB-AES biometric identity card | Did not exist | [Piloted on Malian soil for Burkinabe residents; no Malian enrolment figure published](https://afriktimes.info/2026/06/02/aes-diaspora-identification-successful-pilot-phase-in-bamako-for-the-instant-production-of-documents/) | Advanced |
@@ -322,7 +327,7 @@ record: 13b4fa2ea97b
 
 ## Mauritania
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Biometric SIM identification | Deactivation of non-biometric SIMs ordered in October 2023, with compliance not established | [Formal notices to Mattel, Mauritel and Chinguitel with a two-month deadline before sanctions of up to 3% of turnover; no compliance outcome is on record](https://www.ecofinagency.com/news-digital/1601-51999-mauritania-steps-up-pressure-on-telecom-operators-over-biometric-identification) | Advanced |
 | Houwiyeti digital identity application | Launched in 2024 on the TECH5 platform, carrying document extracts and passport requests | [In use by about 1.5 million citizens for 554,027 remote services, and the identity-verification backbone for the state services portal's fifteen-plus services and for private financial applications; a full day of scheduled maintenance on 8 August took all of it down at once](https://techrek.info/fr/houwiyeti-de-nouveau-operationnelle-de-la-maintenance-periodique-a-la-question-de-la-souverainete-numerique/) | Advanced |
@@ -331,7 +336,7 @@ record: 13b4fa2ea97b
 
 ## Mauritius
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Digital travel authorisation and digital permits | Did not exist | [Permits would become issuable in digital, card or paper form and a digital travel authorisation would be imposed on visa-exempt arrivals, applied for electronically and paid before travel; the bill was introduced and not enacted (2026-07)](https://maurice-info.mu/wp-content/uploads/2026/07/The-Economic-and-Financial-Measures-Miscellaneous-Provisions-Bill.pdf) | Advanced |
 | Mobile ID wallet | In service; no user or issuance figure published (2025-08) | [In service and hosted on the Rose-Belle facility; still no user or issuance figure published (2026-08)](https://www.biometricupdate.com/202409/mauritius-launches-digital-id-wallet-with-thales-tech-for-govt-service-access) | No change |
@@ -339,7 +344,7 @@ record: 13b4fa2ea97b
 
 ## Morocco
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Biometric passport decree 2.26.551 | The 2008 decree regime; address on the biodata page; temporary passports issued | [Four languages including Amazigh, an encrypted chip to international civil aviation standard, the address removed and temporary passports abolished; the current format continues during a transitional period](https://en.hespress.com/141646-morocco-to-introduce-new-biometric-passport-featuring-amazigh-english-starting-august.html) | Advanced |
 | Idarati X.0 national digital wallet | Did not exist | [Eight conventions signed and two vendors engaged on architecture; a six-month build stated; binds the social security fund, the road safety agency, the land registry, transport and youth and culture on a card-authenticated core](https://www.wearetech.africa/en/fils-uk/news/tech/morocco-strengthens-e-government-architecture-with-idarati-x-0) | Advanced |
@@ -350,18 +355,18 @@ record: 13b4fa2ea97b
 
 ## Mozambique
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Free first issuance of the national identity card | Free first-time identity card issuance nationwide, no end date on record (2025-08) | [Free identity card, birth certificate and personal certificate to 2027, for children and adults alike; 297,470 free cards issued in H1 2026](https://mznews.co.mz/en/governo-alarga-emissao-gratuita-de-bilhetes-de-identidade-ate-2027/) | Advanced |
 | National identity cards produced, first semester | 730,527 cards on 677,305 applications (H1 2025) | [856,101 cards on 813,307 applications (H1 2026), of which 297,470 issued free](https://clubofmozambique.com/news/mozambique-dnic-produces-over-800-thousand-national-identity-cards-in-the-first-semester/) | Advanced |
-| National mobile digital identity and electronic signature infrastructure | Did not exist | [Consultancy tender out, requiring integration with the interoperability platform and the population registry; no award, budget or timetable on record](https://clubofmozambique.com/news/mozambique-launches-tender-for-consultancy-on-mobile-digital-identity-and-signature-system/) | Advanced |
+| National mobile digital identity and electronic signature infrastructure | Did not exist | [The national information technologies institute has opened discussions with a local partner on a platform to modernise the country's advanced digital signature system, extending digital identity, advanced digital signatures and public key infrastructure into a national digital trust layer for public and private transactions; it follows a tender floated in May 2026 by the digital transformation agency for a national mobile digital identity and electronic signature infrastructure, and a February 2026 memorandum with Brazil's information technology institute covering credentialing, auditing, specialised training and technical assistance for operating a root certification authority under the electronic transactions law and the digital certification regulation](https://www.biometricupdate.com/202608/mozambique-picks-tablu-tech-for-digital-trust-infrastructure) | Advanced |
 | Regulations on Civil Identification and the National Identity Card | Regulations under Law 6/2022 of 20 June unrevised | [Updated regulations approved, governing collection, processing, management and retention of civil identification data and standardising issuance](https://clubofmozambique.com/news/mozambique-cabinet-approves-new-id-card-regulations-notes-gains-in-access-to-safe-water/) | Advanced |
 | Biometric passport and electronic pre-booking | ***Baseline not held*** | [Biometric passport in issue; applications may be submitted by electronic pre-booking](https://jornalnoticias.co.mz/destaque/senami-aposta-na-inovacao-tecnologica-para-flexibilizar-atendimento/) | ***Baseline not held*** |
 | Biometric register of humanitarian-aid recipients (INGD) | ***Baseline not held*** | [Validation of the beneficiary and humanitarian assistance management system completed, with national launch stated for October 2026; piloted in Beira, backed by the World Food Programme and built to interoperate with the national social-support database so responders can see who has and has not received aid and duplicate or fictitious registrations are curbed, at a costed investment of about 20 million meticais (US$350,000). No data-protection basis, retention rule or enrolment target is published](https://clubofmozambique.com/news/mozambique-aid-recipient-digital-register-to-be-launched-to-prevent-duplication/) | ***Baseline not held*** |
 
 ## Namibia
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Electronic identity fee schedule | None published | [Free at the point of issue for first-time applicants, renewals of expired cards, amendments and holders replacing cards carrying errors; a first duplicate costs N$150 and a second N$300](https://www.namibian.com.na/ministry-of-home-affairs-clarifies-e-id-costs/) | Advanced |
 | Electronic identity public awareness campaign | The campaign opened in Khomas; a conference on digital legal identity held in Windhoek 2025-06-26 | [Regional outreach by home affairs with a development agency and the regulator, with a brand ambassador running sessions in local languages](https://neweralive.na/e-ids-outreach-kicks-off-in-omaheke/) | Advanced |
@@ -375,7 +380,7 @@ record: 13b4fa2ea97b
 
 ## Niger
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | AES biometric national identity card | Did not exist | [Mandatory at 15 and over, valid five years at 4,500 FCFA, capturing fingerprint, face, voice and iris](https://www.lesahel.org/carte-nationale-didentite-biometrique-aes-lancement-de-lenrolement-de-masse-sous-le-signe-de-la-souverainete-numerique/) | Advanced |
 | AES biometric passport | Did not exist | [Five categories issued to ICAO specification, five years over 34 pages, produced by the Police DST with Al Itissal Al Jadeed](https://www.actuniger.com/politique/22202-passeport-biometrique-aes-le-president-de-la-republique-donne-le-coup-denvoi-de-la-phase-denrolement-du-nouveau-document-de-voyage.html) | Advanced |
@@ -386,7 +391,7 @@ record: 13b4fa2ea97b
 
 ## Nigeria
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | ICAO Public Key Directory integration | Did not exist | [Passport cryptographically verifiable at 111 member states' borders](https://www.biometricupdate.com/202607/nigeria-achieves-full-icao-pkd-integration-for-its-biometric-passport) | Advanced |
 | National Identification Number and the foundational identity register | About 120m registrations (2025-08) | [136m against a target of 180m by 2026-12-31; about 100m still uncaptured](https://guardian.ng/news/nimc-enrols-136-million-nigerians-as-coker-odusote-pushes-stronger-inter-ministerial-partnership/) | Advanced |
@@ -400,7 +405,7 @@ record: 13b4fa2ea97b
 
 ## Rwanda
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Digital identity enrolment | None enrolled; registration opened six days after the window's start | [More than 8 million registered of about 14 million and more than 7 million already photographed (August 2026), from 4.4m in June 2026, 2,373,854 in March 2026 and about 1.49m in February](https://www.newtimes.co.rw/article/38236/news/rwanda/enrollment-for-digital-id-surpasses-8-million---nida) | Advanced |
 | Imibereho social registry | ***Baseline not held*** | [In service since early 2024 with an appeals process running: 360,000 people challenged their category and 93% of disputed classifications were corrected, disputes tracing largely to stale asset records such as unrecorded land or vehicle sales](https://www.newtimes.co.rw/article/37878/news/rwanda/360000-claimsin-new-social-registryhandled-since-2024) | Advanced |
@@ -410,7 +415,7 @@ record: 13b4fa2ea97b
 
 ## Sao Tome and Principe
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | 'BI para Todos' free national-ID campaign | Did not exist | [Free-BI campaign covering remote localities (Ilheu das Rolas, Porto Alegre, via Starlink-linked mobile brigade) and diaspora collection in Portugal](https://www.telanon.info/sociedade/2026/01/22/51507/campanha-de-atribuicao-gratuita-do-bilhete-de-identidade-iniciou-se-no-ilheu-das-rolas-e-decorre-em-porto-alegre/) | Advanced |
 | Foundational digital ID (STP Digital/MOSIP, System Integrator Ooru) | Pilot ongoing since 2024, no fixed timeline | [Ooru contracted; live prototypes; roadmap Jan 2026 (ID+Portal) to May 2026 (e-Signature)](https://www.biometricupdate.com/202506/sao-tome-and-principe-pilots-mosip-based-national-digital-id-system) | Advanced |
@@ -418,7 +423,7 @@ record: 13b4fa2ea97b
 
 ## Senegal
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Civil-registration modernisation programme | Running, with two implementing agencies and the national agency as counterpart | [Closed on completion; outputs include 26 modern centres, 400 centres interconnected, 1,200 computers, a validated bill and a national civil-status strategy costed at FCFA 68bn](https://aps.sn/le-programme-nekkal-a-permis-dimportantes-avancees-dans-la-modernisation-de-letat-civil-selon-un-responsable/) | Closed |
 | Civil-status software deployment across centres | 235 of about 400 centres connected and operational, 383 installed (2025-08) | [74% of civil-status centres fully deployed, up from 70% reported five days earlier, with the citizen-facing request service live in 189 communes; the agency launched phase four of its remediation plan on 10 August 2026, extending to Kaffrine and Tambacounda](https://aps.sn/la-modernisation-de-letat-civil-une-veritable-politique-publique-et-strategique-selon-le-directeur-general-de-lanec/) | Advanced |
@@ -428,14 +433,14 @@ record: 13b4fa2ea97b
 
 ## Seychelles
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | CertExpress (online civil-status certificates) | Live, SCR 50 fee (as stated at launch) | [Unchanged; fee not re-verified since 2024-09](https://www.ics.gov.sc/about/media-centre/publications/launch-of-new-digital-solutions-for-public-services) | No change |
 | SeyID national digital-identity platform | Two-tier structure already in place (2025-08): virtual-only for new work-permit holders since 17 Sep 2024, physical option retained for citizens | [Unchanged; no enrolment or adoption figures ever reported](https://www.ics.gov.sc/about/media-centre/publications/launch-of-new-digital-solutions-for-public-services) | No change |
 
 ## Sierra Leone
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | MOSIP migration of the national identity system | Brownfield migration of enrolled records onto open-source MOSIP, piloted from early 2024 (2025-07) | [Pilot complete and full implementation unfunded, as stated by the Authority (2026-08)](https://www.biometricupdate.com/202602/brownfield-implementations-represent-mosips-next-wave-of-national-digital-ids) | Advanced, unfunded |
 | National digital identity platform (Bhutan NDI and SIGN Foundation) | A bilateral blockchain digital-identity memorandum with Sign and nothing built (2025-11) | [Tri-party memorandum signed June 2026, MOSIP-based register with W3C verifiable credentials specified, and consultations opened; no framework, legal instrument or timetable published (2026-08)](https://www.biometricupdate.com/202608/sierra-leone-consults-private-sector-on-trusted-digital-id-framework) | Advanced |
@@ -445,10 +450,10 @@ record: 13b4fa2ea97b
 
 ## Somalia
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Compulsory use of the national identity credential | Required for bank accounts from 29 July 2025, with a passport requirement due from 1 September (2025-08) | [Required for passports, bank accounts, driving licences, vehicle registration and domestic travel, and enforced for inter-state travel (2026-03)](https://www.biometricupdate.com/202603/somalia-makes-biometric-digital-id-mandatory-for-inter-state-travel) | Advanced, contested |
-| eAqoonsi mobile identity application | Launched alongside the HUBIYE verification platform and the certificate delivery system, all built in-house (2025-05) | [More than 50,000 downloads against about 2m registrations, with digital activation still requiring an in-person visit (2026-04)](https://www.hiiraan.com/news4/2026/Apr/204974/somalias_eaqoonsi_app_shows_progress_gaps_in_digital_public_infrastructure_dpi_push.aspx) | Advanced, marginal |
+| eAqoonsi mobile identity application | Launched alongside the HUBIYE verification platform and the certificate delivery system, all built in-house (2025-05) | [The identification and registration authority renewed its public call for citizens to adopt the digital identity application, restating that the app-held credential is legally equivalent to the physical national identity card; the app had passed 50,000 downloads by August 2026 against more than one million digital identities issued as of November 2025, a stated target of 15 million by 2029, and an estimated US$125m still needed to implement the donor-funded programme in full, with inclusion complaints over weak connectivity and low digital literacy reported in April 2026](https://www.biometricupdate.com/202608/somalia-pushes-for-stronger-adoption-of-eaqoonsi-digital-id-app) | Advanced, marginal |
 | National passport | 10m passports in circulation with no record of how many were lawfully issued (2025-09) | [Cleared in February 2026 to adopt and print the East African Community e-passport, and a third-generation plan approved by Cabinet; no issuance date published (2026-08)](https://shabellemedia.com/somali-cabinet-approves-third-generation-e-passport-plan-reviews-security-and-economic-developments/) | Advanced |
 | Somali National Identity credential (SNID) | Issued since September 2023 from a near-zero base, with mass registration not yet launched (2025-08) | [About 2m registered against a target of 15m by the end of 2029, with more than 24 services integrated (2026-04)](https://www.hiiraan.com/news4/2026/Apr/204974/somalias_eaqoonsi_app_shows_progress_gaps_in_digital_public_infrastructure_dpi_push.aspx) | Advanced |
 | HUBIYE consent-based verification platform | In service as the verification layer for the national identity credential (2025-08) | [In service; no verification volume or integrated-institution count published (2026-08)](https://www.biometricupdate.com/202505/somalia-unveils-dpi-tools-for-biometric-verification-id-issuance-and-service-access) | No change |
@@ -456,7 +461,7 @@ record: 13b4fa2ea97b
 
 ## South Africa
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Digital driving licence | Promised for 2026 | [Nearest dated milestone 2027-03](https://techpoint.africa/insight/techpoint-digest-1253/) | Stalled |
 | Draft Identification Regulations amendments | Did not exist | [Gazetted 2026-05-04 and the comment period closed on 2026-06-06. A research organisation's submission on the closing day asked the department to suspend the regulations pending a published Digital Identity Policy, an enacted National Identification and Registration Bill and demonstrated compliance with the data-protection Act, on the ground that they create a biometric enrolment, trusted-entity accreditation and real-time verification system with no formal role for the Information Regulator](https://www.biometricupdate.com/202605/south-africa-gazettes-digital-id-draft-regulation-seeks-comments) | Advanced |
@@ -465,7 +470,7 @@ record: 13b4fa2ea97b
 
 ## South Sudan
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Identity and passport production machines | Did not exist | [Five systems delivered (2026-05)](https://www.onecitizendaily.com/index.php/2026/05/08/government-procures-5-advanced-machine-systems-for-national-id-and-passport-production/) | Advanced |
 | National Identity Card issuance | 17,400 cards issued to returnees and people at risk of statelessness through the EU and UNHCR project (2024-11) | [Distribution running in Greater Yei; school-based registration for examination candidates launched in Juba, 4 August 2026, with expansion to more schools planned; no national coverage figure published (2026-08)](https://www.onecitizendaily.com/index.php/2026/07/13/thousand-begin-collecting-national-identity-cards-in-greater-yei/) | Advanced |
@@ -478,13 +483,13 @@ record: 13b4fa2ea97b
 
 ## Sudan
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
-| SUDAPASS (national digital identity) | Framed as imminent, with exclusion/surveillance-risk warnings | [Live, integrated with the banking sector for electronic know-your-customer checks so banks can verify customers and update account records without a branch visit, and now linked to the national trade platform so that import, export and registry procedures for exporters and importers run electronically against the credential](https://allafrica.com/stories/202608210135.html) | Advanced |
+| SUDAPASS (national digital identity) | Framed as imminent, with exclusion/surveillance-risk warnings | [The communications and digital transformation ministry began linking the national digital identity to the banking sector, announced on 19 August 2026 with the central bank, the banking sector and the cyber security authority, so banks can verify customers and update records electronically without a branch visit, rolled out bank by bank as each becomes technically ready. On 23 August 2026 the central bank denied that registering for the identity exempts customers from updating their account data, saying claims circulating on social media had no basis in truth, that registration establishes identity only, and that its February 2026 directive requiring banks to update customer data still stands](https://sudantribune.net/article/317788) | Advanced |
 
 ## Tanzania
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Certificate-dispensation window | Did not exist | [Open to October 2026, alongside a turnaround cut to a number in five days and a card in 21 days](https://www.mwananchi.co.tz/mw/habari/kitaifa/waliofukuzwa-kwa-vyeti-feki-kupata-nida-5279344) | Advanced |
 | Database integrations for electronic identity verification | 128 institutions integrated, 71 private and 57 public (2025-04) | [Over 138 public and private institutions integrated across banking, insurance and social security](https://ippmedia.co.tz/the-guardian/business/read/tanzanias-financial-inclusion-expands-but-usage-gap-is-becoming-the-next-challenge-2026-07-28-120905) | Advanced |
@@ -500,14 +505,14 @@ record: 13b4fa2ea97b
 
 ## Togo
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Numero d'identification unique and the biometric identity card | Enrolment rolling through Golfe and Greater Lome with the Agoe-Nyive phase opening 2025-08-20, and no cumulative national figure published | [More than 6,000,000 holders at 2025-12-31, about 62 per cent of the population and about 75 per cent of the eight-million target, with enrolment reaching the Maritime region in November 2025, Zio in January 2026 and Plateaux-Ouest in May 2026](https://www.togofirst.com/fr/services/2304-18802-togo-plus-de-6-millions-de-citoyens-disposent-d-un-niu-a-fin-2025) | Advanced |
 | Unique identification numbers held | No cumulative figure published, stated explicitly at 2025-11-19 | [More than 6,000,000, against a programme target of 8,000,000](https://www.togofirst.com/fr/services/2304-18802-togo-plus-de-6-millions-de-citoyens-disposent-d-un-niu-a-fin-2025) | Advanced |
 
 ## Tunisia
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | e-Houwiya mobile identity | Live and voluntary, at 200,000 subscribers as of March 2025, with no legal obligation to hold one (2025-08) | [Compulsory for investment-project declarations and for access to the business register from 1 July 2026; no subscriber figure has been published since March 2025 (2026-07)](https://techafricanews.com/2026/06/26/tunisia-makes-mobile-id-mandatory-for-investment-project-declarations/) | Advanced |
 | Identity and travel documents issued through digital services | No published issuance series | [Mobile electronic counters aboard two ferries issued several thousand passports at sea to the returning diaspora, and expatriate-support offices on national territory issued 10,609 official documents](https://www.lapresse.tn/2026/08/18/modernisation-administrative-les-services-numeriques-du-m-i-accelerent-la-delivrance-des-passeports-et-des-pieces-didentite/) | Advanced |
@@ -516,7 +521,7 @@ record: 13b4fa2ea97b
 
 ## Uganda
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Enhanced national ID card | 2014-15 cards expiring end-2025; 100,000 enhanced cards printed (2025-07-16) | [Laser-engraved cards with QR and barcode, ghost image and digital signature in all districts and diaspora issuance opened in Dubai in February 2026 — but the QR codes on newly issued cards do not work, which the registration authority acknowledged publicly on 9 February 2026 and which was raised in Parliament on 20 August: banks turning citizens away, telecoms unable to verify SIM applications, and a Shs5,000 charge for a workaround letter](https://www.parliament.go.ug/news/4571/new-id-system-faces-questions-over-digital-verification) | Advanced, regressed in verification |
 | First-time enrolment against target | 5.3m renewals against a 33m combined target; no first-time figure published (2025-07-16) | [6.4m of 17.2m first-time, 37.3%; 14.3m of 15.8m renewals, 90.5%](https://www.biometricupdate.com/202602/uganda-migrates-more-than-28m-records-to-new-national-id-system) | Advanced |
@@ -533,7 +538,7 @@ record: 13b4fa2ea97b
 
 ## Zambia
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Biometric National Registration Card issuance | Credential option still being evaluated under identity-for-development technical assistance; no printer or card procurement stated | [Smart-card printers and blank cards under procurement, cards to be interoperable within the national register, and issuance to begin only after the 2026-08-13 general election](https://documents1.worldbank.org/curated/en/099012025023033676/txt/P505094-630a5ef9-d23a-4221-b7c8-397c94a90b4d.txt) | Advanced, issuance deferred |
 | MOSIP-based national digital ID system | Design stage; state ICT institute developers had completed platform training by 2025-01-17 with a view to integrating it with the national electronic health record, and the credential type was still under evaluation at appraisal | [Implementation phase declared and an international system integrator being engaged for deployment, customisation and integration with civil registration, with the application layer to be built by Zambians on open standards; no integrator contract award is on file](https://idtechwire.com/zambia-advances-digital-id-system-with-mosip-training-for-healthcare-integration) | Advanced |
@@ -544,7 +549,7 @@ record: 13b4fa2ea97b
 
 ## Zimbabwe
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Cotton farmer biometric registry | Did not exist | [Biometric enrolment of cotton growers to enforce one farmer to one merchant; no enrolment count and no confirmation that field teams were dispatched](https://www.biometricupdate.com/202510/nigeria-zimbabwe-launch-new-farmer-digital-id-initiatives) | Advanced |
 | National digital identity | Issuance announced for July 2025; no official indication of a start date as of 2025-07-15 | [No launch, enrolment or coverage figure held; the home affairs minister restates a goal of online, real-time applications](https://www.biometricupdate.com/202507/zimbabwe-looks-forward-to-digital-id-rollout-after-population-registry-reform) | Stalled |
@@ -559,31 +564,25 @@ record: 13b4fa2ea97b
 
 ## Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-25 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
+| ADLI cohort on the AfCFTA Digital Identity Annex | Did not exist | [Six countries across three trade corridors working on compliance with the annex, on a test-and-learn basis; no assessment or mutual-recognition decision held](https://dial.global/adli-cohort-advances-integration/) | Advanced |
 | Adults holding official identification in Sub-Saharan Africa | None published on this basis | [81% of adults, 82% of men against 79% of women, a 3.56-point gender gap (2025)](https://id4d.worldbank.org/global-dataset) | ***Baseline not held*** |
 | APAI-CRVS (Africa Programme on Accelerated Improvement of Civil Registration and Vital Statistics) | ***Baseline not held*** | [The 2017-2026 decade is closing and a 2027-2036 phase is opening; the African eCRVS Shared Asset (ACSA) is named as the shared continental standard intended to cut fragmented digital procurement across country systems, and Equatorial Guinea's Justice Ministry timed a free registration campaign for children aged 0-5 (10-14 August 2026) to the decade's close. No AU statement of the new phase's content, financing or targets is held](https://www.graphic.com.gh/features/opinion/building-africas-architecture-of-visibility-the-next-crvs-decade.html) | ***Baseline not held*** |
 | Continental ID and data-protection law analyser | Baseline not held | [An open-source tool launched by a university research network comparing identity and data-protection laws across more than 50 African countries, built as a retrieval-augmented chatbot and stated as intended to help states harmonise their frameworks; no usage figure, governance arrangement or maintenance commitment is published](https://www.africa.engineering.cmu.edu/news/2026/08/11-demystifying-african-id.html) | ***Baseline not held*** |
-
-| Body, instrument or system | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| ADLI cohort on the AfCFTA Digital Identity Annex | Did not exist | [Six countries across three trade corridors working on compliance with the annex, on a test-and-learn basis; no assessment or mutual-recognition decision held](https://dial.global/adli-cohort-advances-integration/) | Advanced |
 | Smart Africa digital identity blueprint | ***Baseline not held*** | [The alliance secretariat's first-edition blueprint for mutually recognised digital identity across member states, setting out the trust alliance, levels of assurance and the case for interoperable identity, drawn up after a member-state workshop](https://smartafrica.org/wp-content/uploads/2020/12/BLUEPRINT-SMART-AFRICA-ALLIANCE-%E2%80%93-DIGITAL-IDENTITY-LayoutY.pdf) | ***Baseline not held*** |
 
 ## Southern Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-24 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | SADC cross-border digital-ID and eKYC framework | A South Africa-Lesotho verification pilot, no regional framework | [Federated framework announced for all 16 member states; no build, budget or launch date on record in the year since](https://www.biometricupdate.com/202508/regional-dpi-initiative-supports-kyc-digital-id-interoperability-across-16-countries) | Advanced |
 
 ## West Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-25 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | AES biometric passport | Launched in January 2025, with no state-by-state issuance on record | [Issuing in all three states, with Mali's supplied by China's Emptech in place of France's Idemia](https://idtechwire.com/mali-launches-e-aes-biometric-passport-taps-chinas-emptech-in-digital-sovereignty-move) | Advanced |
 | CIB-AES (AES biometric identity card) | Did not exist | [Issuing in Burkina Faso since December 2025 and in Niger since March 2026, with mass enrolment under way and cross-border enrolment tested in Mali](https://www.biometricupdate.com/202511/burkina-faso-introduces-new-biometric-id-system-in-major-digital-leap) | Advanced |
 | ENBIC (ECOWAS National Biometric Identity Card) | Operationalised by six member states, with no rollout held in the largest | [Rolled out by Nigeria in November 2025 and deployed in the field in Guinea-Bissau under a cross-border traders' project](https://thewhistler.ng/nigeria-unveils-ecowas-id-card-to-boost-regional-travel-security/) | Advanced |
-
-| Body, instrument or system | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
 | WURI (West Africa Unique Identification for Regional Integration and Inclusion) | Phase 2 running to a closing date of 30 July 2026, with no interoperability strategy validated | [A cross-border interoperability and mutual-recognition strategy validated and a 2026 work plan adopted; the phase's stated closing date has passed with no completion, extension or successor record held](https://www.biometricupdate.com/202508/stakeholders-validate-strategy-on-digital-id-interoperability-in-west-africa) | Advanced |

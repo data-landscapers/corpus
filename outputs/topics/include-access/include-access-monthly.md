@@ -1,10 +1,10 @@
 ---
 title: Access to services — monthly update, July 2026
-compiled: 2026-08-25
-period: 2026-07-01 to 2026-08-25
+compiled: 2026-08-26
+period: 2026-07-01 to 2026-08-26
 subject: include.access
 places: AGO; BFA; BDI; CIV; COD; EGY; SWZ; ETH; GAB; GHA; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 6402bd961e5a
+record: ec548f0ceae2
 ---
 
 # Access to services: monthly update, July 2026
@@ -109,8 +109,6 @@ What that looks like in one region was put to the parliamentary ICT committee on
 On 15 July the World Food Programme [inaugurated the Guidan Fasaha community digital centre at Tahoua](https://www.actuniger.com/societe/22196-tahoua-le-pam-inaugure-gidan-fasaha-un-espace-communautaire-pour-faire-du-numerique-un-nouveau-levier-de-resilience-dinnovation-et-dinclusion.html), the second such centre after Diffa, with 100 computers and 50 kW of solar power, funded by Luxembourg and aimed at young people, women and displaced people.
 
 ## Nigeria
-
-[An agent-network microfinance operator founded in 2018 was profiled during the month](https://www.wearetech.africa/fr/fils/tech-stars/rukayat-kolawole-bello-connecte-les-exclus-de-la-banque-au-credit), reaching microenterprises and the historically unbanked through trained local agents with naira-denominated formalisation and credit rather than dollar substitution; no user, loan-book or coverage figures are published.
 
 A [digital self-care platform went live for University of Lagos students](https://techafricanews.com/2026/08/10/gomed-and-unfpa-launch-digital-health-platform-for-university-of-lagos-students/), routing to free contraceptives through the state health ministry and UNFPA supply chain, with expansion to other Lagos campuses planned.
 

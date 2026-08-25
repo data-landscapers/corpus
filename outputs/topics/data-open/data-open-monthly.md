@@ -1,15 +1,15 @@
 ---
 title: Open data — monthly update, July 2026
-compiled: 2026-08-24
-period: 2026-07-01 to 2026-08-24
+compiled: 2026-08-26
+period: 2026-07-01 to 2026-08-26
 subject: data.open
-places: BEN; CMR; COG; DJI; COD; GNQ; GHA; KEN; LBR; LBY; MDG; MAR; NAM; TUN; ZMB; ZWE
-record: 2e1b46cc8d99
+places: BEN; CMR; COG; DJI; COD; GNQ; GAB; GHA; KEN; LBR; LBY; MDG; MAR; NAM; TUN; ZMB; ZWE
+record: 06cbf744f078
 ---
 
 # Open data: monthly update, July 2026
 
-*16 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*17 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -36,6 +36,10 @@ The month's one open-data movement came from the central bank rather than from t
 ## Equatorial Guinea
 
 [EITI data collection for the 2024 report](https://realequatorialguinea.com/sociedad/inicia-en-malabo-el-taller-para-la-recopilacion-de-datos-del-informe-eiti-guinea-ecuatorial-2024/) opened at Malabo on 30 July as the last outstanding measure before validation of the IMF Staff-Monitored Programme.
+
+## Gabon
+
+Gabon was assessed again as [not meeting the minimum fiscal transparency requirements in the 2026 review, published 11 August 2026 for the period to 31 December 2025, which presses governments to publish and regularly update information on state financial obligations including those of major state-owned enterprises](https://www.gabonreview.com/transparence-fiscale-le-gabon-de-nouveau-epingle-par-washington-sur-la-dette-de-ses-entreprises-publiques/). Of 139 governments and one entity reviewed, 73 met the requirements and 67 did not.
 
 ## Ghana
 

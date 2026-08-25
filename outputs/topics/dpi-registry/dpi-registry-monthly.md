@@ -1,15 +1,15 @@
 ---
 title: Registries (population, land, address, etc.) — monthly update, July 2026
-compiled: 2026-08-25
-period: 2026-07-01 to 2026-08-25
+compiled: 2026-08-26
+period: 2026-07-01 to 2026-08-26
 subject: dpi.registry
-places: AGO; BEN; BWA; BFA; CMR; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; SWZ; GMB; GHA; GIN; GNB; KEN; LBR; LBY; MDG; MWI; MRT; NAM; NER; NGA; RWA; STP; SEN; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: f48c365251cc
+places: AGO; BEN; BWA; BFA; CMR; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; SWZ; GMB; GHA; GIN; GNB; KEN; LBR; LBY; MDG; MWI; MLI; MRT; MAR; NAM; NER; NGA; RWA; STP; SEN; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 7964bf55fa82
 ---
 
 # Registries (population, land, address, etc.): monthly update, July 2026
 
-*40 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*42 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -122,9 +122,17 @@ The day after the biometric-registration review, the electoral commission [opene
 
 [About 8,000 landlords were registered for rental income tax](https://malawi24.com/2026/07/20/mras-eis-gains-momentum/).
 
+## Mali
+
+A [national digital directory of diaspora skills was launched at a ceremony in Washington on 22 August 2026, run by the Malian embassy to the United States and registering professional profiles across economic, administrative, academic, private-sector and emerging fields so that ministries can identify expertise against specific needs](https://www.maliweb.net/politique/diplomatie/washington-dc-lancement-du-repertoire-numerique-des-competences-de-la-diaspora-malienne-3119417.html). The minister described it as an accreting database whose usefulness depends on take-up and on profiles being kept current; questions at the ceremony went to registration terms and to how the recorded data would be used, and no data-protection basis is stated.
+
 ## Mauritania
 
 The consular-services platform launched 9 July 2026 [built a unified digital consular registry](https://www.wearetech.africa/en/fils-uk/news/public-management/mauritania-launches-digital-consular-services-platform-for-citizens-abroad), compiled by diaspora engineers after consultations in 22 countries.
+
+## Morocco
+
+The month's registry work is a membership audit rather than a build. The interior ministry [launched a wide screening and update of the membership rolls of collective land communities, with circulars sent to community delegates through local authority officials from 22 August 2026, beginning in two regions and open to extension nationwide](https://www.hespress.com/الداخلية-تطلق-عملية-واسعة-لـغربلة-لو-1794573.html). Each listed member is to be verified for actual affiliation, legal majority and residence under law 62.17 and its implementing decree, on a single methodology so that criteria stop varying from one community to another.
 
 ## Namibia
 

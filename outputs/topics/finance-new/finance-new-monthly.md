@@ -1,15 +1,15 @@
 ---
 title: New investments — monthly update, July 2026
-compiled: 2026-08-25
-period: 2026-07-01 to 2026-08-25
+compiled: 2026-08-26
+period: 2026-07-01 to 2026-08-26
 subject: finance.new
-places: AGO; BEN; BFA; TCD; COG; CIV; COD; EGY; SWZ; ETH; GHA; GIN; KEN; LBR; MWI; MLI; MAR; MOZ; NGA; RWA; STP; SEN; SLE; ZAF; TGO; UGA; ZMB; ZWE
-record: 82d242c4edee
+places: AGO; BEN; BFA; TCD; COG; CIV; COD; EGY; SWZ; ETH; GHA; GIN; KEN; LBR; MWI; MLI; MAR; MOZ; NGA; RWA; STP; SEN; SLE; ZAF; TZA; TGO; UGA; ZMB; ZWE
+record: f0ad6a2441b2
 ---
 
 # New investments: monthly update, July 2026
 
-*28 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*29 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -40,8 +40,6 @@ The month's one new financing commitment is large and thinly documented. The gov
 The African Development Bank's e-government programme is meanwhile the [route by which several of the ministry's digital projects reach the market, through open tenders and calls for expressions of interest](https://digitalmag.ci/services-publics-financements-bad-des-projets-numeriques-en-cote-divoire-appels-doffres-et-avis-a-manifestation-dinteret/), with the winners of the two 30-company support programmes among the intended bidders. No award, value or project list is published.
 
 ## DR Congo
-
-The concessional pipeline moved a step and stopped short of money. The Council of Ministers [adopted on 14 August the draft ordinance-law ratifying a US$200m IDA additional financing to extend the TRANSFORME enterprise project into the Lobito corridor, on a loan agreement concluded on 22 June](https://www.transforme.cd/activities/le-gouvernement-adopte-un-financement-additionnel-de-200-millions-usd-pour-l-extension-du-projet-transforme-dans-le-corridor-de-lobito), which is an adoption in draft: the ordinance-law is not promulgated and no disbursement is on record. The other financing in the window is already at work — the universal service fund's subsidy conventions with the four mobile operators — and it is counted under coverage rather than here.
 
 A development fund committed [US$32.8m into an upsized US$179m senior secured facility on 5 August](https://www.eaif.com/eaaif-accelerates-africas-digital-transformation-with-a-combined-usd-82-8-million-commitment-to-eastcastle-drc-and-liquid-intelligent-technologies/), funding 728 new passive towers to take the network to 1,800, 70% of them rural, with solar and battery upgrades. [The same lender committed US$30m to the same borrower in 2023, when the network stood at 1,072 active towers](https://www.eaif.com/eaaif-accelerates-africas-digital-transformation-with-a-combined-usd-82-8-million-commitment-to-eastcastle-drc-and-liquid-intelligent-technologies/).
 
@@ -98,12 +96,6 @@ The digital foundations programme runs to 2027 with the European Union delegatio
 
 ## Nigeria
 
-A Lagos fibre operator closed the [₦4.05bn first tranche](https://businesspost.ng/economy/dimension-data-raises-n4-05bn-for-local-broadband-infrastructure/) of a ₦20bn programme in the domestic bond market on 27 July. It is long-dated local capital in a market whose rates push savings to short maturities.
-
-[Domestic retail investors traded ₦2.86tn of equities between January and May, up 138.76% year on year](https://techcabal.com/2026/07/18/their-parents-lost-fortunes-theyre-buying-nigerian-stocks-anyway/) and 36.22% of activity, against ₦4.06tn institutional. [Participants name the registrar layer as the operational failure that matters](https://techcabal.com/2026/07/18/their-parents-lost-fortunes-theyre-buying-nigerian-stocks-anyway/): shareholder names are recorded inconsistently, and dividend payment is delayed behind it.
-
-A [credit-scoring business](https://www.wearetech.africa/en/fils-uk/brief/brief-simple/nigeria-s-mathesis-analytics-raises-funding-to-scale-ai-lending) scores people without bank accounts from their payment patterns and sells the output to banks, treating everyday transactional behaviour as the credit file — which extends access to people without bank accounts and makes payment data an underwriting input. Consent, purpose limitation and whether an automated refusal can be contested are not addressed in anything held.
-
 A [US$110m debt facility](https://www.legit.ng/business-economy/industry/1722221-fg-launches-110-million-debt-financing-tech-startups-opens-application-nigerians/) for technology startups opened for applications on 30 July.
 
 ## Rwanda
@@ -125,6 +117,10 @@ The same statement — [reporting the academic Digital Public Goods exhibition](
 ## South Africa
 
 One programme opened in the window, and it is not yet a commitment to anybody. On 11 August the United Kingdom [published an expression-of-interest call for a Southern Africa science and technology accelerator worth up to GBP2.5m over three years to March 2030, with up to GBP400,000 for 2026/27](https://www.gov.uk/international-development-funding/science-and-technology-accelerator-systems-sta-s-southern-africa-programme), covering artificial intelligence and emerging technologies and digital access alongside climate, energy, health and space. South Africa is the primary focus and Zimbabwe and Zambia the first year's. The fund is resourced and the delivery consortium is not chosen, so what the money buys is a matter for a contract expected later in the year.
+
+## Tanzania
+
+A Korean development cooperation fund [committed US$170m to build an AI and digital technology training institute, approved at its 159th management committee and announced on 23 August 2026](https://techafricanews.com/2026/08/25/south-korea-approves-170-million-loan-ai-digital-training-tanzania/) - the fund's first AI project, with the institute to offer four programmes. No site, start date or disbursement schedule is published.
 
 ## Togo
 

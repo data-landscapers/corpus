@@ -1,15 +1,15 @@
 ---
 title: Other GovTech and e-Gov — monthly update, July 2026
-compiled: 2026-08-25
-period: 2026-07-01 to 2026-08-25
+compiled: 2026-08-26
+period: 2026-07-01 to 2026-08-26
 subject: dpi.govtech
-places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: d2733e8cf01d
+places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: da8a8f066dbb
 ---
 
 # Other GovTech and e-Gov: monthly update, July 2026
 
-*50 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*51 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -50,6 +50,10 @@ The civil-service ministry [put a set of digitisation claims on the record on 31
 ## Cameroon
 
 The water utility [began rolling out a centralised commercial platform, WATERIS, with five days of internal training from 10 August](https://lecourrierducameroun.net/2026/08/16/camwater-met-le-cap-sur-la-modernisation-commerciale-et-lexcellence-operationnelle-a-travers-lecosysteme-integre-wateris/), replacing decentralised commercial management with automated meter reading and more electronic payment channels. The account is the director general's; no customer count, cost or completion date is stated.
+
+## Cape Verde
+
+A municipal council [presented a services platform it plans to put into public presentation in October 2026 and into operation by the end of that year, opening with 17 services - applications submitted, cases tracked in real time, payments made and official documents received in digital form with legal validity](https://expressodasilhas.cv/politica/2026/08/25/cmsv-prepara-lancamento-de-plataforma-digital-com-servicos-municipais/104273). It is funded by the UN joint office, whose resident coordinator asked the council to consider integrating further procedures in a second phase, while the minister for family, inclusion, social development and labour argued for keeping and improving traditional counter services for those still facing difficulties with digital access, and for replicating the model in the other municipalities if it succeeds.
 
 ## Central African Republic
 

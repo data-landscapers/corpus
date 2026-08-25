@@ -1,10 +1,10 @@
 ---
 title: US / hyperscaler activities — monthly update, July 2026
-compiled: 2026-08-25
-period: 2026-07-01 to 2026-08-25
+compiled: 2026-08-26
+period: 2026-07-01 to 2026-08-26
 subject: geopol.usa
 places: CMR; CAF; TCD; CIV; SWZ; LSO; MUS; MOZ; NGA; SEN; UGA; ZMB; ZWE
-record: 440d94441fef
+record: 94250a8e47a0
 ---
 
 # US / hyperscaler activities: monthly update, July 2026

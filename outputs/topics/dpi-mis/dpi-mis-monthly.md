@@ -1,15 +1,15 @@
 ---
 title: Sectoral management information systems (HMIS, EMIS, etc.) — monthly update, July 2026
-compiled: 2026-08-25
-period: 2026-07-01 to 2026-08-25
+compiled: 2026-08-26
+period: 2026-07-01 to 2026-08-26
 subject: dpi.mis
-places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COG; COD; EGY; ETH; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MWI; MLI; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TUN; ZMB; ZWE
-record: 9fac39eccc48
+places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COG; COD; EGY; ETH; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MWI; MLI; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; ZMB; ZWE
+record: 829fbe25101c
 ---
 
 # Sectoral management information systems (HMIS, EMIS, etc.): monthly update, July 2026
 
-*42 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*43 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -24,8 +24,6 @@ The education ministry and a domestic technology firm [expanded their work on th
 ## Benin
 
 The tax directorate's information-system modernisation surfaced in the window only because its funder republished the project sheet. The EUR 2m project [runs from 9 August 2023 to 31 December 2026](https://www.expertisefrance.fr/fr/projets/projet-dappui-la-modernisation-des-systemes-dinformation-pamsi-de-la-dgi-du-benin), which puts it four months from its stated end. What the sheet does not carry is any statement of what has been delivered — no module, no milestone, no completion status — so the base can date the project and price it, and cannot say whether it is finishing or merely ending.
-
-A [US$2.3m malaria programme combining artificial intelligence, drones and geospatial mapping reports incidence down 38% and mortality down 39% across 2022 to 2024](https://www.wearetech.africa/en/fils-uk/news/tech/benin-combines-ai-drones-and-geospatial-mapping-in-fight-against-malaria), on Japanese financing. The reductions are the programme's own account and no independent evaluation is held.
 
 ## Botswana
 
@@ -178,6 +176,10 @@ On 5 August the education ministry [launched an Education in Emergencies Managem
 At the same exhibition the agency described a farmer-records and permits system and a fertiliser monitoring system, with no user counts, spend or timeline given.
 
 The state's own asset record is being enforced rather than built. The finance ministry is [tightening enforcement of the central electronic system for recording and monitoring public assets, citing a hydropower project at about TSh6tn and a railway at about TSh10.6tn](https://businessinsider.co.tz/tanzania-pushes-digital-asset-tracking-to-protect-public-wealth/), with legal backing through amendments to the Public Finance Act and the Public Assets Management Regulations 2024. No count of assets recorded, entities complying or value reconciled is published, so the two named investments are cited as scale rather than as entries in the system.
+
+## Togo
+
+Togo put a [national platform online centralising climate-risk data for public decision-making across agriculture, forestry, water resources, tourism and energy](https://www.togofirst.com/en/itc/2408-19852-togo-launches-platform-to-improve-climate-risk-monitoring). Indicators on droughts and floods are entered by field agents, checked by sector focal points and regional officials before national consolidation, time-stamped to leave an audit trail, and viewable at regional, prefecture and municipal level; it was developed by the environment ministry with technical support from a UN agency and climate-fund financing, and follows the regional adaptation plans adopted by all five regions in 2025. The source gives no launch date.
 
 ## Tunisia
 

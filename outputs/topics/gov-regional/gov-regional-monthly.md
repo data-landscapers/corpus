@@ -1,15 +1,15 @@
 ---
 title: Regional collaboration — monthly update, July 2026
-compiled: 2026-08-25
-period: 2026-07-01 to 2026-08-25
+compiled: 2026-08-26
+period: 2026-07-01 to 2026-08-26
 subject: gov.regional
-places: DZA; BEN; BWA; BDI; CAF; COM; COG; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GNB; KEN; LBR; LBY; MDG; MWI; MLI; MUS; MAR; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; SSD; TGO; TUN; UGA; ZMB; ZWE
-record: f640e484e791
+places: DZA; AGO; BEN; BWA; BDI; CAF; COM; COG; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GNB; KEN; LBR; LBY; MDG; MWI; MLI; MUS; MAR; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; SSD; TGO; TUN; UGA; ZMB; ZWE
+record: 54dd502aeeb0
 ---
 
 # Regional collaboration: monthly update, July 2026
 
-*38 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*39 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -17,11 +17,13 @@ record: f640e484e791
 
 Algeria [signed as a founding member of a world artificial-intelligence organisation at Shanghai on 16 July](https://drive.google.com/file/d/1_UovYiTOhikpGJ7QiOUNQJsAoYu6xqw_/view), the digitalisation commissioner stating an intention to take an active role. The organisation is not named in anything held, and no accord text, ratification step or work programme is on file.
 
+## Angola
+
+The national satellite began earning its keep across the border. Mozambique's state operator [started proof-of-concept testing of the Angolan satellite for providing telecommunications services in Mozambique, announced by the Angolan telecommunications ministry as a step towards a commercial agreement to distribute communication and broadcasting signals over Angolan space infrastructure](https://www.itweb.africa/article/tmcel-begins-angosat-2-satellite-trials/JN1gPvOAwolMjL6m). It follows the Mozambican public broadcaster's own proof of concept, implements a bilateral memorandum signed in June 2026, and runs in parallel with a commercial pilot with a Namibian operator for satellite-driven backhaul. No commercial terms are published.
+
 ## Benin
 
 The customs administrations of Nigeria, Cameroon and Benin [adopted a joint communiqué on 27 July establishing a trilateral steering committee](https://theinsight.com.ng/nigeria-customs-benin-cameroon-deepen-regional-border-modernisation-at-beitbridge-benchmarking-mission/) to apply a southern African border-modernisation model to the Sèmè-Kraké and Mfum-Ekok corridors, after a benchmarking mission whose technical team included two named private suppliers alongside the three administrations. Separately, the cross-border digital identity work Benin does through Smart Africa moved from development into a running pilot: [an identity issued in one of Rwanda, Ghana or Benin is now being recognised in the other two](https://www.giz.de/en/newsroom/storys/interview-herken-kone-smart-africa-digital-sovereignty), with eighteen further countries said to be joining and no date given for any of them.
-
-Benin [co-leads a six-country francophone West African framework on artificial-intelligence governance](https://www.wearetech.africa/en/fils-uk/news/tech/six-francophone-west-african-countries-unite-on-ai-governance-framework), taken to the United Nations global dialogue on 9 July. The framework is in development and no text, timetable or commitment is held.
 
 ## Botswana
 
@@ -134,8 +136,6 @@ The regulator also took the chair of something. The southern African regulators'
 On 30 July a Nigerien technical mission led by the interior ministry's secretary-general was [received in Ouagadougou to study Burkina Faso's identification machinery](https://www.journalduniger.com/niger-burkina-cooperation-identite-numerique-biometrie/) — the civil-status modernisation directorate, the national identification office, the ICT agency and the WURI project. The delegation covered civil registration, migration, the digital agency, territorial surveillance, biometric-card production, the interior ministry's legal service and the ICT and finance ministries, and reported recommendations on issuing authentic documents and limiting document fraud.
 
 ## Nigeria
-
-[Nigeria, Kenya and Morocco are the first pilots](https://www.biometricupdate.com/202605/nigeria-kenya-morocco-selected-for-afcfta-digital-identity-and-dpi-rollout) for shared cross-border rails for identity, payments and trusted data exchange, and [the country implementation forum was inaugurated in Abuja on 29 July](https://www.thisdaylive.com/2026/07/30/fg-inaugurates-adapt-forum-to-cut-trade-costs-boost-digital-commerce-under-afcfta-2/).
 
 Ministers adopted an Abuja declaration on meaningful connectivity.
 

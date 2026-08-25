@@ -1,10 +1,10 @@
 ---
 title: Digitalisation of sub-national government — monthly update, July 2026
-compiled: 2026-08-25
-period: 2026-07-01 to 2026-08-25
+compiled: 2026-08-26
+period: 2026-07-01 to 2026-08-26
 subject: digital.localgov
 places: BFA; CMR; COD; EGY; SWZ; ETH; GAB; GHA; GIN; MWI; MLI; NAM; NGA; SOM; TZA; TGO; ZMB; ZWE
-record: 486221f5a74c
+record: 988258c29e9a
 ---
 
 # Digitalisation of sub-national government: monthly update, July 2026
@@ -71,8 +71,6 @@ Windhoek's council [adopted a ten-year smart-city strategy on 15 June, handed ov
 Enugu [opened free digital storefronts, company-registration support, digital-trade training and payment enablement to 1,000 state businesses](https://itpulse.com.ng/enugu-launches-tradex-programme-to-support-1000-smes-with-digital-trade/) with Afreximbank's trade platform; cost, funder and selection method are unstated.
 
 Anambra began the second phase of its own state strategy, [expanding its OneGov platform to digitise government services and formalise small and medium enterprises](https://punchng.com/anambra-deepens-digital-push-targets-sme-formalisation/); the platform [logged about 14,000 visits over three weeks in July](https://punchng.com/anambra-deepens-digital-push-targets-sme-formalisation/) despite limited publicity. Visits are not registrations or transactions, and no service count, formalisation figure or cost is stated. A development agency separately [reaffirmed its support for the state's youth digital-skills programmes](https://von.gov.ng/undp-reaffirms-partnership-with-anambra-digital-economy/).
-
-Cross River's executive council [approved phase one of a facial- and plate-recognition network](https://www.thisdaylive.com/2026/07/31/c-river-set-to-launch-smart-surveillance-infrastructure-to-bolster-security-climate-resilience/) specified with Huawei and implemented through its local partner, covering Calabar intersections and government precincts, coastal communities and waterways, the Ikang Expressway and Carnival routes, against a stated baseline of under 10% analogue coverage of the metropolis and nothing in five other named towns. The [claimed gains are emergency response falling from over 45 minutes to under twelve and 120 technician jobs](https://www.thisdaylive.com/2026/07/31/c-river-set-to-launch-smart-surveillance-infrastructure-to-bolster-security-climate-resilience/); no lawful basis, retention rule or oversight arrangement for the face and plate data appears anywhere in the announcement.
 
 ## Somalia
 

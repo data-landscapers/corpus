@@ -1,15 +1,15 @@
 ---
 title: Connectivity — monthly update, July 2026
-compiled: 2026-08-25
-period: 2026-07-01 to 2026-08-25
+compiled: 2026-08-26
+period: 2026-07-01 to 2026-08-26
 subject: infra.connect
-places: DZA; AGO; BWA; BFA; BDI; CMR; CPV; CAF; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 565c0359e281
+places: DZA; AGO; BWA; BFA; BDI; CMR; CPV; CAF; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: eff0d1deac0e
 ---
 
 # Connectivity: monthly update, July 2026
 
-*46 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*47 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -284,6 +284,10 @@ The regulator completed the second stage of its tariff exchange-rate adjustment 
 On 20 July the regulator closed a two-day inception workshop launching development of a [National Spectrum Management and 5G Strategy](https://techafricanews.com/2026/07/20/south-sudan-launches-national-spectrum-management-and-5g-strategy-development/) with the ICT ministry, the Eastern Africa Regional Digital Integration Project and an expert team. Its outputs were a methodology, a work plan and governance structures; no spectrum plan, band allocation or timetable is published.
 
 On 29 July, leaders of Kauto Administrative Area in Eastern Equatoria [stated that the area has mobile coverage only at Kuron and that four further sites have been requested for years without explanation for the delay](https://www.radiotamazuj.org/en/news/article/kauto-leaders-call-for-urgent-expansion-of-mobile-network-coverage). The chief administrator said information from three settlements can take one to two weeks to reach his office, arriving by road with travellers. Leaders reported that operators raised doubts about revenue from the area, and a coverage extension expected from February 2026 has not materialised.
+
+## Sudan
+
+Satellite connectivity moved from contested to locally severed. An armed group [ordered every public market in a West Kordofan locality closed and satellite internet services cut off indefinitely from 26 August 2026](https://sudantribune.net/article/317878), in a decision reported by a local emergency room which warned that severing satellite connectivity would cut displaced families off from relatives and from incoming remittances in a locality already under deteriorating security and living conditions. The order coincided with reinforcements arriving from Darfur.
 
 ## Tanzania
 

@@ -1,10 +1,10 @@
 ---
 title: AI — monthly update, July 2026
-compiled: 2026-08-25
-period: 2026-07-01 to 2026-08-25
+compiled: 2026-08-26
+period: 2026-07-01 to 2026-08-26
 subject: tech.ai
 places: DZA; AGO; BEN; BFA; BDI; CMR; CPV; COM; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GHA; GIN; KEN; LSO; LBR; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: fd9b0d09707a
+record: 0a3c2424553b
 ---
 
 # AI: monthly update, July 2026
@@ -90,8 +90,6 @@ A [regional health body and a private firm signed a memorandum in Eswatini on 4 
 ## Ethiopia
 
 AI service bundles from an Ethiopian firm went on sale inside the same app on 22 July, bought with mobile money and redeemed by SMS voucher.
-
-The state's artificial-intelligence capability claim rests on [the institute that built the unified service platform](https://birrmetrics.com/ethiopia-signs-up-to-new-global-artificial-intelligence-alliance/), established in 2020. Nothing held sets out its budget, headcount or research output.
 
 ## Ghana
 

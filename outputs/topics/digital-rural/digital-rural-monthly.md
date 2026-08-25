@@ -1,10 +1,10 @@
 ---
 title: Rural digital data capture — monthly update, July 2026
-compiled: 2026-08-25
-period: 2026-07-01 to 2026-08-25
+compiled: 2026-08-26
+period: 2026-07-01 to 2026-08-26
 subject: digital.rural
 places: EGY; SWZ; GIN; MWI; MLI; NER; NGA; SLE; TGO; ZMB; ZWE
-record: 22a8033b735b
+record: 9dbc229a8214
 ---
 
 # Rural digital data capture: monthly update, July 2026
@@ -40,8 +40,6 @@ On 10 July the digital agency's [Villages Intelligents programme opened a digita
 ## Nigeria
 
 The communications minister told the President on 4 August that [deployment of about 3,700 towers begins around October](https://www.vanguardngr.com/2026/08/fg-to-rollout-90000km-fibre-optic-network-tijani/), reaching more than 20 million people in communities with no telecoms service and with the capital stated as raised — no funding source, operator or contract is named. The baseline against which it is measured is [23% of rural communities connected to 57% urban](https://www.vanguardngr.com/2025/10/only-23-of-rural-communities-have-internet-access-in-nigeria-ncc/).
-
-[Talks on artificial intelligence for smallholder farmers are exploratory](https://itweb.africa/article/cisco-explores-ai-for-nigeria-farmers/nWJadMbNDjyMbjO1): no programme, funding, timeline or counterparty ministry is named.
 
 ## Sierra Leone
 

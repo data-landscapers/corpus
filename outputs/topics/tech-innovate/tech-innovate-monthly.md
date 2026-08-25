@@ -1,15 +1,15 @@
 ---
 title: Innovation ecosystem — monthly update, July 2026
-compiled: 2026-08-25
-period: 2026-07-01 to 2026-08-25
+compiled: 2026-08-26
+period: 2026-07-01 to 2026-08-26
 subject: tech.innovate
-places: DZA; BDI; CPV; CIV; DJI; COD; EGY; ERI; SWZ; GAB; GMB; GHA; KEN; LSO; LBR; NER; NGA; RWA; SEN; SOM; TUN; UGA; ZMB
-record: 68d960f405ef
+places: DZA; BDI; CPV; CIV; DJI; COD; EGY; ERI; SWZ; GAB; GMB; GHA; KEN; LSO; LBR; MLI; NER; NGA; RWA; SEN; SOM; TUN; UGA; ZMB
+record: 93aeab960cf9
 ---
 
 # Innovation ecosystem: monthly update, July 2026
 
-*23 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*24 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -79,6 +79,10 @@ Econet Telecom Lesotho and UNDP [signed a memorandum of understanding](https://l
 The technology summit closed on 22 July with [a Monrovia cybersecurity firm winning the national Startup World Cup on a domestic-data-custody pitch](https://www.liberianobserver.com/news/lantern-shines-brightest-as-2026-tech-summit-ends/article_14913b31-0736-4a07-bc38-29c6e5f79d54.html).
 
 UNDP set out its contributions at the summit, adding in its own account of 3 August that its innovation hub sits under its Africa innovation platform.
+
+## Mali
+
+A civil-society organisation [launched an application for reporting and checking online content, alongside the closing report of a digital campaign against viral falsehood which it says reached 68,885 people](https://www.maliweb.net/technologie/citoyens-20-women-tech-mali-lance-une-application-pour-lutter-contre-la-desinformation-3119410.html). It is aimed at young people and civil-society organisations, and funded through a Danish foreign-ministry facility with support from the ministry responsible for communication and the digital economy. No user or report-volume figure is published.
 
 ## Niger
 

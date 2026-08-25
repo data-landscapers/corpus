@@ -1,10 +1,10 @@
 ---
 title: Legislation and regulation — monthly update, July 2026
-compiled: 2026-08-25
-period: 2026-07-01 to 2026-08-25
+compiled: 2026-08-26
+period: 2026-07-01 to 2026-08-26
 subject: gov.legislate
 places: DZA; AGO; BWA; BFA; BDI; CMR; CPV; CAF; COG; CIV; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; SEN; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 5353b5b039b6
+record: 06d0a0532de5
 ---
 
 # Legislation and regulation: monthly update, July 2026
@@ -215,10 +215,6 @@ The civil-status regime rests on an [ordonnance of 22 April with its application
 
 ## Nigeria
 
-On 20 July the digital consumer-lending regulations suspended since April were upheld, with [enforcement resuming](https://techafricanews.com/2026/07/22/nigeria-strengthens-consumer-protection-as-fccpc-resumes-digital-lending-enforcement/) on 22 July. The court agreed with the challengers that a consumer-protection mandate does not extend to licensing telecommunications operators, and no joint framework for co-supervision is published.
-
-An [executive order on virtual assets](https://techafricanews.com/2026/07/20/nigeria-launches-coordinated-regulatory-framework-for-virtual-assets/) created a council and office over existing mandates without transferring powers, and a tax circular dated 31 July collected a [1.5% stamp duty withheld in the asset itself](https://techcabal.com/2026/08/03/nigeria-wants-to-collect-1-5-crypto-stamp-duty-in-bitcoin-usdt/) and remitted in the originating token, so the federal government now holds Bitcoin and USDT receipts.
-
 On 29 July a claimant won the [first damages award](https://saharareporters.com/2026/08/01/court-slams-stanbicibtc-over-data-privacy-breach-awards-ex-customers-n15million-orders) under the Act — ₦15m, ₦500,000 costs and 10% post-judgment interest — against a bank that kept marketing after consent was withdrawn. Liability rested on three instruments at once. The court also held that personal data must be erased on termination but refused wholesale deletion where statutory banking and anti-money-laundering retention applies.
 
 What the amended identity Act actually says reached the record on 11 August, in a law firm's reading rather than a gazetted text. On that reading the [identity commission becomes the root certification authority for a national public key infrastructure and the national biometric-data repository; use of the national identification number is mandatory across passports, banking, telecommunications and land dealings, while the Act states that proof of identity is not proof of eligibility or of citizenship; and unauthorised database access carries at least NGN10m or five years for an individual and NGN20m for a body corporate](https://www.mondaq.com/nigeria/constitutional-administrative-law/1829270/the-national-identity-management-commission-establishment-act-2026-key-new-provisions). The base does not hold the Act itself, and the commission's own platform capacity for compulsory use across fourteen sectors is separately recorded as not sized for it.
@@ -239,8 +235,6 @@ The regulator announced on 30 July that the [Subscribers Regulations 2025 will f
 Mobile-money fraud reached Parliament. A legal analysis of 23 July found the [National Communications Authority Act 2022 addresses its enforcement powers to licensees only, with no statutory reversal mechanism, no SIM-swap safeguards and no allocation of loss for authorised push payment fraud](https://owlpress-sl.com/dont-call-meeting-inside-whatsapp-scam-emptying-orange-money/); a former minister replied on 26 July that the [central bank's existing know-your-customer rules are adequate and only enforcement is missing](https://sierraloaded.sl/news/sylvia-blyden-kyc-mobile-money-fraud/), identifying no provision by instrument or section. The two accounts have not been reconciled.
 
 ## South Africa
-
-The Electronic Communications Amendment Bill was published, [exempting electronic communications network services provided on a not-for-profit basis from licensing](https://www.parliament.gov.za/storage/app/media/Bills/2026/B12-2026_Electronic_Communications_AB.pdf) and mandating spectrum sharing; the committee [extended written submissions on 20 August to 16:00 on 21 September](https://www.parliament.gov.za/press-releases/communications-committee-extends-deadline-public-input-electronic-communications-amendment-bill).
 
 The minister [backed the regulator](https://www.itweb.co.za/article/malatsi-backs-consumer-sentiment-on-data-expiry-debate/RgeVDMPRkPJvKJN3) in the review application brought by the two largest mobile operators against the data bundle roll-over rules. The Angolan kwanza became the [second settlement currency on the SADC real-time system](https://www.sadc.int/latest-news/angolan-kwanza-introduced-sadc-rtgs-system), the first addition since 2013.
 

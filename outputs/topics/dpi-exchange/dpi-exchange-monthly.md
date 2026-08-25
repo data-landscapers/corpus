@@ -1,10 +1,10 @@
 ---
 title: Data Exchange — monthly update, July 2026
-compiled: 2026-08-25
-period: 2026-07-01 to 2026-08-25
+compiled: 2026-08-26
+period: 2026-07-01 to 2026-08-26
 subject: dpi.exchange
 places: DZA; AGO; BEN; CMR; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LBY; MWI; MLI; MRT; MUS; MAR; MOZ; NGA; SEN; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; ZMB; ZWE
-record: e95f11934235
+record: e53ff4264b81
 ---
 
 # Data Exchange: monthly update, July 2026
@@ -137,8 +137,6 @@ A platform already carrying national data went under inspection instead. The hea
 The roads fund runs an [open-data portal publishing road, bridge and infrastructure project data under a Creative Commons licence and the open contracting standard for infrastructure](https://www.dadosinfra.co.mz/), validated as a publisher against that standard in 2026. It is the base's clearest instance of Mozambican government data published to an external standard rather than to a page.
 
 ## Nigeria
-
-The telecoms and electrification regulators signed a [data-sharing agreement](https://apanews.net/ncc-rea-sign-mou-to-drive-digital-infrastructure-expansion/) on 30 July overlaying electrification geodata with universal-service deployment data.
 
 Nine agencies took bilateral cover under the amended identity Act inside a fortnight, among them [Solid Minerals](https://www.thisdaylive.com/2026/07/20/alake-nimc-partner-to-deploy-digital-identity-against-illegal-mining/), [the Presidency](https://www.thisdaylive.com/2026/07/22/shettima-nigerias-digital-transformation-under-tinubu-unrivalled-hails-ongoing-reforms-by-nimc-management/) and [Women Affairs and the Bank of Industry](https://www.thisdaylive.com/2026/07/24/nimc-seals-strategic-partnerships-with-women-affairs-ministry-boi-to-deepen-digital-identity-financial-inclusion/); no account states a lawful basis, consent mechanism or retention rule for the sharing that follows. The [Nigeria Data Exchange now moves personal data between ministries in production](https://www.biometricupdate.com/202607/nigeria-unveils-digital-govt-platform-for-unified-access-to-public-services) behind the Government Service Portal, on the same silence. Against the single-source-of-truth framing, named practitioners [describe the arrangement as federated linkage on a shared identifier](https://www.vanguardngr.com/2026/07/nin-contradiction-high-cost-of-false-integration/), with banks still reconciling by hand. The [National Single Window](https://www.vanguardngr.com/2026/08/customs-agents-disagree-over-national-single-window-operations/), launched in March, is contested by licensed customs agents who say clearance paperwork has multiplied rather than consolidated.
 

@@ -1,15 +1,15 @@
 ---
 title: Standards — monthly update, July 2026
-compiled: 2026-08-25
-period: 2026-07-01 to 2026-08-25
+compiled: 2026-08-26
+period: 2026-07-01 to 2026-08-26
 subject: gov.standards
-places: DZA; BEN; CPV; CAF; CIV; COD; EGY; GNQ; SWZ; ETH; GHA; GIN; KEN; LBY; MWI; MUS; MOZ; NER; NGA; RWA; SEN; SLE; ZAF; TGO; UGA
-record: bc899ed03304
+places: DZA; BEN; CPV; CAF; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; GIN; KEN; LBY; MWI; MUS; MOZ; NER; NGA; RWA; SEN; SLE; ZAF; TGO; UGA
+record: 808e8f49a92f
 ---
 
 # Standards: monthly update, July 2026
 
-*25 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*26 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -55,6 +55,10 @@ Asked on 4 August how online publications comply with the data-protection law, t
 
 [National livestock data standards were endorsed and cascaded on 29 July](https://developmentgateway.org/blog/building-lasting-dpi-through-local-ownership-lessons-from-ethiopias-livestock-information-system/) on a training-of-trainers model, with more than 300 experts and data collectors trained. The national identity credential is separately [described as the flagship deployment of the open-source identity platform it is built on](https://www.youtube.com/watch?v=B_iGkxWXNbg) and the reference implementation others point to.
 
+## Gabon
+
+Service quality is the one obligation the base cannot show being enforced. Reporting of 25 August 2026 states that at a departmental capital, a commune since 1996 with a prefecture, town hall and schools, [the incumbent sells data bundles on a network whose coverage appears and disappears while prepaid credit and bundle validity run down normally, and puts the regulator's inaction to the president of its regulatory council](https://depeches241.com/?p=29909). No quality-of-service determination, decision or sanction is published, which is why the row stands here as ***Not held***.
+
 ## Ghana
 
 The central bank's [cyber and information security directive is in force](https://www.myjoyonline.com/ghana-strengthens-financial-sector-cyber-defences-with-new-security-directive-launch/) as the country's first comprehensive artificial-intelligence governance framework for financial institutions, carrying cloud-security rules, proportionality by size and risk, and mandatory board-level accountability. Against that, the communications minister [named a national data exchange hub again on 29 July](https://gna.org.gh/2026/07/govt-committed-to-building-ai-ecosystem-to-create-jobs-promote-economic-growth/) as something government plans to establish, with no design, cost or timetable, and without saying whether it revives the system launched in 2009 or replaces it.
@@ -92,8 +96,6 @@ On 27 July the regulator's verification campaign opened against the [mises en de
 
 ## Nigeria
 
-The technology agency approved a [software quality assurance framework](https://prnigeria.com/2026/07/30/nitda-launches-national/) on 30 July making independent third-party testing a mandatory condition of IT project clearance — full operation is set for Q2 2027 and no licensed testing organisation is yet on file.
-
 The standards move of the month is aimed at the innovation estate rather than at government systems. A draft [National Innovation Hub Standards Framework went to an Abuja validation exercise, giving hubs a self-assessment tool across seven dimensions and about 35 categories and a defined maturity pathway](https://von.gov.ng/nigeria-unveils-innovation-hub-framework-to-boost-digital-economy/), against a count of more than 339 hubs heavily concentrated in Lagos and Abuja — the stated purpose being to make a hub in a state outside those two legible enough to be funded without its founders relocating. At the same workshop the [EU delegation put Team Europe support for the country's digital sector at more than €820m between 2021 and 2027](https://punchng.com/fg-to-begin-90000km-fibre-rollout-in-october-minister/). It is a draft at validation, so what the framework will require of a hub, and who will assess it, is not yet settled.
 
 ## Rwanda
@@ -111,8 +113,6 @@ The [national open-source software policy for the public sector is in force](htt
 ## South Africa
 
 Parliament's communications committee [prefers strengthening the existing regulators through the ICT and media regulators forum to creating the four artificial-intelligence bodies the withdrawn draft policy proposed](https://www.timeslive.co.za/news/sci-tech/2026-07-31-parliament-against-creating-new-ai-watchdogs-for-sa-diko). The forum was launched in 2024 and no instrument establishing its powers is held.
-
-The Prudential Authority's 2025/26 report, reported on 16 July, [embeds AI, cloud, cyber and data-offshoring into bank supervision](https://www.itweb.co.za/article/banks-face-stricter-ai-scrutiny-as-regulator-sharpens-focus/xnklOqz14OzM4Ymz) and records a first nationwide AI-adoption survey naming regulatory uncertainty, AI skills and governance as the barriers. A dedicated framework is expected in 2026; none is published.
 
 ## Togo
 

@@ -1,21 +1,29 @@
 ---
 title: China activities — monthly update, July 2026
-compiled: 2026-08-25
-period: 2026-07-01 to 2026-08-25
+compiled: 2026-08-26
+period: 2026-07-01 to 2026-08-26
 subject: geopol.china
-places: DZA; CPV; TCD; COD; ETH; GAB; KEN; NAM; NER; SEN; ZMB
-record: 6720214ec655
+places: DZA; BWA; BFA; CPV; TCD; COD; ETH; GAB; KEN; NAM; NER; SEN; ZMB
+record: 001d945e36ea
 ---
 
 # China activities: monthly update, July 2026
 
-*11 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*13 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
 ## Algeria
 
 The country was named a [founding member, from 16 July, of a 29-country artificial-intelligence organisation headquartered in Shanghai](https://lavoiedalgerie.dz/transformation-numerique-lalgerie-passe-de-la-realisation-a-la-mise-en-service-des-projets-care/2026/10/00/). No instrument of accession, obligation, contribution or programme of work is on the record here.
+
+## Botswana
+
+China's ambassador [publicly offered AI cooperation in smart mining, digital government and talent training, pitching Chinese AI technology as a lever for economic diversification and pointing to a July 2026 pledge of 5,000 AI training places for developing countries and AI application cooperation centres for bodies including the African Union](https://www.itweb.africa/article/china-offers-botswana-ai-support/LPp6V7rBNw57DKQz). It is an offer rather than an instrument: no Botswanan response, memorandum or programme is on file.
+
+## Burkina Faso
+
+The month's only Chinese item is an approach rather than an agreement: the communications minister and a Burkinabe delegation were [received at a Chinese broadcaster's Beijing headquarters on 22 August 2026 to examine partnership in audiovisual and digital broadcasting, the exchanges going to the terms of collaboration with the national broadcaster and the national transmission company](https://www.sidwaya.info/pekin-le-ministre-de-la-communication-en-visite-chez-loperateur-de-diffusion-startimes/). No memorandum, commitment, value or timetable is stated.
 
 ## Cape Verde
 
@@ -36,8 +44,6 @@ Ethio Telecom and Huawei were reported on 15 and 17 July to be widening a networ
 A separate data-centre track with Inspur and Shandong was reported on 16 July.
 
 Nothing moved on the third-operator question, on satellite licensing, or on the fibre corridor whose binding agreement was February's news.
-
-Also in the month: founding membership of a Shanghai-headquartered intergovernmental AI body, signed on 20 July.
 
 ## Gabon
 

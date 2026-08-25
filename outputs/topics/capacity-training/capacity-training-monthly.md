@@ -1,25 +1,21 @@
 ---
 title: Training and skills — monthly update, July 2026
-compiled: 2026-08-25
-period: 2026-07-01 to 2026-08-25
+compiled: 2026-08-26
+period: 2026-07-01 to 2026-08-26
 subject: capacity.training
-places: BEN; BWA; BFA; BDI; CMR; COM; COG; CIV; COD; EGY; SWZ; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; TZA; UGA; ZMB; ZWE
-record: 39c19a735acf
+places: BEN; BWA; BFA; BDI; CMR; COM; COG; CIV; COD; EGY; SWZ; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; TZA; TUN; UGA; ZMB; ZWE
+record: 820ecd13e688
 ---
 
 # Training and skills: monthly update, July 2026
 
-*38 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*39 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
 ## Benin
 
 The [first national artificial-intelligence olympiad was held on 9 July](https://www.wearetech.africa/en/fils-uk/news/tech/six-francophone-west-african-countries-unite-on-ai-governance-framework). No entry numbers, institutions or results are published.
-
-The Council of Ministers authorised a national tele-teaching platform across four public universities for 2026–27, with virtual amphitheatres for students in the hinterland. Two skills programmes ran alongside it. The state's information-systems security officer certification [opened a cohort of 25 on 3 August, taking about 85 officers trained against a target of 100 qualified by end-2026, on CEH and ISO 27001 with practical work at the national cyber range, and widened intake beyond central government to local authorities, state enterprises and the private sector](https://lanation.bj/numerique/cybersecurite-lasin-renforce-les-capacites-de-25-rssi). The [Sème City hub network runs a francophone digital-skills programme and an annual digital week alongside a Sorbonne partnership](https://www.wearetech.africa/en/fils-uk/news/tech/benin-expands-higher-education-access-through-e-learning-strategy); no enrolment or completion figure is published for it.
-
-Benin held a first National AI Olympiad on 9 July. Nothing moved on the national strategy itself, on the generative-AI compliance regime published in June, or on the government super app the presidential programme lists among its existing foundations and which nothing establishes.
 
 ## Botswana
 
@@ -137,16 +133,6 @@ Skills work in the window travelled rather than sat still. The Niger Digital Day
 
 A [diaspora health-workforce registry is described as newly launched](https://fmino.gov.ng/fg-commends-nigerian-health-professionals-in-diaspora-for-strengthening-healthcare-delivery/), with no launch date, custodian agency, enrolment terms or data-protection basis stated in anything held — a register standing up ahead of its governance.
 
-On 3 August a private university announced [robotics, drone and virtual-reality teaching laboratories](https://itweb.africa/article/nigeria-expands-deep-tech-skills-pipeline/nWJadvbND1yvbjO1) to be built by a defence-technology firm that holds a joint venture with the state arms corporation. Lab count, cost, funding source, intake, research ownership and dual-use vetting are all unstated.
-
-[Seventy teachers from 40 Lagos public schools were trained in AI literacy](https://techcabal.com/2026/07/18/ness-2026-charts-new-course-for-leading-funding-and-equipping-nigerian-schools/).
-
-On 4 August the [fourth Mastercard Foundation EdTech Fellowship cohort](https://techcabal.com/2026/08/04/cchub-mastercard-foundation-select-12-startups-for-fourth-edtech-fellowship-cohort/) was selected: 12 startups, taking the programme to 72 companies supported since 2019, each offered up to US$100,000 in equity-free funding over 18 months with Co-creation HUB. The intake is allocated against named categories rather than an open call.
-
-The month's largest single commitment went to the universities rather than the schools: on 11 August [Google.org put US$1.1m into an Africa AI Upskilling Programme run by the FATE Foundation across ten Nigerian universities](https://businessday.ng/education/article/google-commits-1-1m-to-ai-training-at-10-nigerian-universities/), on a train-the-trainer model that equips lecturers to deliver a localised version of the funder's own curriculum. Nigeria is the first of four countries in [a programme stated at 30 institutions and more than 30,000 students](https://businessday.ng/education/article/google-commits-1-1m-to-ai-training-at-10-nigerian-universities/), neither of which carries its own date or funding line. The same week the Korean agency [backed a first training-of-trainers cohort in business management and artificial intelligence at the Abuja Centre for Entrepreneurship](https://www.linkedin.com/posts/koica-nigeria_koica-koicanigeria-ace-activity-7491490192424439808-ToJ3), aimed at the small-business sector and reported by the funder on its own channel, with no cohort size or cost stated. Both are trainer-pool programmes: what neither publishes is what the trainers then deliver, or to how many.
-
-Two smaller items closed the month. The communications regulator [leased its Enugu Digital Industrial Park and Learning Centre to the state government for fifteen years, to be run as a talent city and artificial-intelligence institute](https://techafricanews.com/2026/08/18/ncc-leases-digital-industrial-park-to-enugu-government-for-15-years/) for skills training, startup incubation, outsourcing and research — a federal facility handed to a state rather than a new build, with no lease consideration, capacity or opening date published. And a private accelerator [opened a 50-million-naira student aid programme, about US$37,000, offering tuition support, a monthly stipend and paid remote internships, closing on 31 August](https://www.wearetech.africa/fr/fils/breves/breves-une/startup-abuja-lance-un-programme-de-50-millions-de-nairas-pour-les-etudiants); no place count or selection criterion accompanies it.
-
 ## Rwanda
 
 The digital-ambassador programme that [trained 1,567,034 citizens](https://www.ktpress.rw/2026/05/koica-and-rwanda-successfully-conclude-project-to-boost-digital-literacy-through-the-digital-ambassador-program-dap/) concluded its financing phase in May 2026 and no successor financing is held.
@@ -191,6 +177,10 @@ On 30 July the Central Equatoria state ministry of information [announced a Digi
 The Zanzibar postgraduate technology campus graduated its second cohort on 5 July: [129 students, about half from East Africa and 30% women, with a stated aim of 100 startups](https://www.thecitizen.co.tz/tanzania/zanzibar/zanzibar-positions-itself-as-africa-s-technology-and-innovation-hub-5518692). The figures are institution-reported and unaudited.
 
 Training opened in Dar es Salaam on 27 July for [110 participants from public, private and non-governmental institutions, across AI, cybersecurity, personal data protection and emerging technologies](https://dailynews.co.tz/tanzania-builds-cyber-resilience/). No budget, duration, certification or repeat cadence was stated.
+
+## Tunisia
+
+The family and women's ministry, a national entrepreneurs' organisation and a UN regional commission [opened a training programme for 100 women entrepreneurs in e-commerce and artificial-intelligence applications, alongside a national platform for marketing women's products](https://www.assabahnews.tn/ar/%D9%85%D9%82%D8%A7%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%B5%D8%A8%D8%A7%D8%AD/152460). Both sit under a declaration on women, youth, digitalisation and African economic integration whose action plan targets training 100,000 women and young people in e-commerce, AI and cross-border digital payments by 2028, and a US$50m fund for inclusive markets by the same date. The training launch's own date is not established in the source.
 
 ## Uganda
 

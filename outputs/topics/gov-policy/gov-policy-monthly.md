@@ -1,23 +1,21 @@
 ---
 title: Strategies, plans and policies — monthly update, July 2026
-compiled: 2026-08-25
-period: 2026-07-01 to 2026-08-25
+compiled: 2026-08-26
+period: 2026-07-01 to 2026-08-26
 subject: gov.policy
-places: BEN; BWA; BFA; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NGA; RWA; STP; SEN; SYC; SLE; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 04746cfa36dd
+places: BEN; BWA; BFA; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; STP; SEN; SYC; SLE; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: a82bb7845f90
 ---
 
 # Strategies, plans and policies: monthly update, July 2026
 
-*43 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*44 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
 ## Benin
 
 The Cotonou cyber-hub programme now carries four parts: hosting the continental cyber forum, [a cybersecurity-only incubator at Abomey-Calavi](https://www.lanation.bj/numerique/cyber-incub-des-solutions-en-cybersecurite-en-maturation-a-abomey-calavi), a statewide risk-management framework with a crisis exercise for state information-security officers, and [300 police unit heads trained during 2026](https://www.lanation.bj/numerique/protection-des-donnees-sensibles-lasin-forme-300-policiers-a-la-cybersecurite).
-
-Two instruments moved in opposite directions on the same problem. A [joint circular of 24 July requires every state structure to move archive and procedure management onto digital tools](https://www.gouv.bj/article/3605/budget-fonction-publique-modernisation-administrative-levier-economies-budgetaires-transition-ecologique/), with the returns stated as fiscal and environmental rather than as service improvement, and with no implementation deadline, budget line, scope definition or compliance mechanism; the circular's own text is not published. Against that, a [national digital public infrastructure roadmap is in draft on a once-only principle](https://www.biometricupdate.com/202607/benins-dpi-roadmap-aims-to-end-siloed-digital-government) — the state ceasing to ask citizens for documents it issued itself — with the agency framing the hard part as governance and coherence across infrastructure already built rather than as further building.
 
 ## Botswana
 
@@ -136,6 +134,10 @@ On 15 July, at the UEMOA digital economy salon in Ouagadougou, Mali [spoke for t
 
 The same 1 August recommendations also included establishing [a Conseil national du Numerique](https://www.maliweb.net/technologie/4e-edition-de-la-semaine-du-numerique-des-recettes-variees-pour-la-souverainete-numerique-3118872.html).
 
+## Mauritania
+
+The road transport regulator [gave ride-hailing companies operating through digital applications 15 days to bring their authorisations into line with the law, warning that failure within the deadline could bring legal proceedings including suspension of the activity, with no further notice or warning required](https://lequotidien.mr/?p=40128&lang=fr). The communique sets the warning against growing use of digital platforms for transport services; no operator is named and no count of non-compliant authorisations is given.
+
 ## Mauritius
 
 At the summit on [16 July the ICT minister committed the government to a National Data Governance Strategy](https://mitci.govmu.org/mitci/mauritius-to-join-america-india-connect-subsea-cable-programme-announces-pm-ramgoolam/) covering cybersecurity, privacy and children's online safety, with no text or date stated.
@@ -155,8 +157,6 @@ On 22 July the communications minister told a banking and finance conference tha
 The ICT minister met a consultancy delegation in Windhoek on 3 August on trustworthy artificial intelligence, broadband access, cybersecurity, data centres, clean energy and women in technology, and stated that consultations on the strategy framework had already begun under the research council and that government has prioritised a strategy before introducing legislation ([ministerial account](https://itweb.africa/article/namibia-taps-deloitte-for-ai/KzQenMjyxWY7Zd2r)). No contract, terms of reference or procurement route involving the consultancy is established ([second account](https://techafricanews.com/2026/08/05/namibia-and-deloitte-discuss-ai-strategy-and-digital-infrastructure-development/)).
 
 ## Nigeria
-
-The central bank published [Payments System Vision 2028](https://techafricanews.com/2026/06/17/cbn-launches-payments-system-vision-2028-to-transform-nigerias-digital-financial-ecosystem/) on 17 June, a three-year horizon replacing a five-year one, from 2025 baselines of ₦1.2 quadrillion in electronic transactions and 69.5 million unique bank verification numbers. [Its 2028 targets are 95% financial inclusion, five million QR merchant outlets and a 70% reduction in fraud losses](https://www.cbn.gov.ng/Out/2026/CCD/Nigeria%20Payments%20System%20Vision%202028.pdf), and the 132-page text carries a stablecoin issuer-licensing regime no secondary account reported.
 
 An [Artificial Intelligence and Cyber Diplomacy Unit sits inside the foreign ministry](https://punchng.com/nigeria-now-west-africas-digital-powerhouse-says-tijani/), coordinating engagement on emerging technologies, established after the 2025 inaugural seminar.
 
@@ -200,8 +200,6 @@ The multi-agency answer to mobile-money fraud got a drafting session. A two-day 
 The state put two studies out to tender and conceded the gap they are meant to fill. The communications department's market-analysis tender [concedes a current policy vacuum and that the price benefits expected from the 2022 spectrum auction remain largely unmet](https://www.timeslive.co.za/news/business/2026-08-01-sas-data-price-puzzle/), naming market concentration, spectrum allocation and the burden on prepaid consumers as structural causes; its deliverables are a cost-to-communicate roadmap and an assessment of progress on the 2019 data-services market inquiry recommendations. A second tender [seeks an ICT-indicators and scenario-modelling system to steer the digital economy to 2050](https://www.itweb.co.za/article/top-ict-tenders-dcdt-eyes-2050-digital-economy-vision/KPNG878NLorq4mwD), with no award, value or delivery date. Against both, the reform programme's quarterly report [concedes progress has been uneven and in certain instances slower than initially anticipated](https://www.treasury.gov.za/comm_media/press/2026/Operation%20Vulindlela%20Progress%20Report%20Q1%20-%202026.pdf), against the 80% on-track figure that remains its dated prior.
 
 A third instrument is being fast-tracked rather than tendered. The Presidency and the planning and evaluation department [put a digital dashboard monitoring mega infrastructure projects before the parliamentary committee on the Presidency](https://www.parliament.gov.za/press-releases/media-alert-committee-presidency-assess-progress-implementing-sona-commitments-and-tracking-mega-infrastructure-projects), alongside a wider review of progress against the state-of-the-nation commitments. No delivery date, data source, custodian or statement of whether the dashboard will be public is given — which for a monitoring instrument is the whole of the question. The portfolio minister separately [set out persistent governance and liquidity problems across the department's eleven state-owned entities](https://www.itweb.co.za/article/malatsi-details-persistent-headaches-at-portfolio-depts/4r1ly7R9aK4vpmda), citing progress stabilising boards and the state IT agency's leadership, a completed public broadcaster funding model now with the Treasury, and ruling out a compulsory household levy.
-
-The Department of Communications and Digital Technologies stated on 29 July that the redrafted national AI policy [will issue guidelines rather than prescribe rules](https://techcentral.co.za/radical-rethink-for-south-africas-national-ai-policy/284284/), and that the seven institutions proposed in the withdrawn draft are being reconsidered; cabinet consideration is targeted for November 2026, with January 2027 as fallback. On 31 July the chair of Parliament's communications portfolio committee stated her [opposition to creating new AI regulators](https://www.timeslive.co.za/news/sci-tech/2026-07-31-parliament-against-creating-new-ai-watchdogs-for-sa-diko).
 
 ## Tanzania
 

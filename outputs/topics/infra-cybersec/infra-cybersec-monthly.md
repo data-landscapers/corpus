@@ -1,15 +1,15 @@
 ---
 title: Cybersecurity — monthly update, July 2026
-compiled: 2026-08-25
-period: 2026-07-01 to 2026-08-25
+compiled: 2026-08-26
+period: 2026-07-01 to 2026-08-26
 subject: infra.cybersec
-places: DZA; AGO; BEN; BFA; BDI; CMR; CPV; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MLI; MRT; MUS; MAR; MOZ; NAM; NGA; SEN; SYC; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: e85e68ab0542
+places: DZA; AGO; BEN; BFA; BDI; CMR; CPV; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NGA; SEN; SYC; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 6153c76b6987
 ---
 
 # Cybersecurity: monthly update, July 2026
 
-*41 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*42 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -127,6 +127,10 @@ The Cybercrime Act 2025 [had still not received presidential signature as of 1 J
 The central bank [isolated its systems in June and a sample of bank data was later published on a dark-web site](https://alwasat.ly/news/libya/520951). No attribution, forensic account, scope of loss or restoration statement is held.
 
 The interior ministry answered with an agreement rather than an instrument. It [signed a technical cooperation agreement with the national telecommunications company on 12 August](https://www.eanlibya.com/%d9%85%d9%86-%d8%a7%d9%84%d8%a3%d8%a8%d8%b1%d8%a7%d8%ac-%d8%a5%d9%84%d9%89-%d8%a7%d9%84%d8%a3%d9%85%d9%86-%d8%a7%d9%84%d8%b3%d9%8a%d8%a8%d8%b1%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84/) covering digital transformation, cybersecurity and telecommunications infrastructure, including shared platforms, installation of towers and equipment at ministry sites, and technical support. No value, duration or delivery date is published.
+
+## Malawi
+
+The month's cybersecurity item is a loss rather than a control. The state oil company [was defrauded of K700m after attackers hijacked email from its Mozambican fuel-handling contractor and supplied false banking details, instructing its bank on 29 April 2026 to wire US$403,605 to a fraudulent account](https://malawi24.com/2026/08/24/malawi-loses-k700m-in-nocma-cyber-heist/); the fraud surfaced two weeks later when the genuine contractor demanded payment, and was confirmed publicly on 24 August 2026. The company attributes the control weaknesses to the government-to-government fuel procurement model being introduced before operational and cybersecurity procedures were in place. No regulator finding, prosecution or recovery is on file.
 
 ## Mali
 

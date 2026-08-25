@@ -1,10 +1,10 @@
 ---
 title: Data protection — monthly update, July 2026
-compiled: 2026-08-25
-period: 2026-07-01 to 2026-08-25
+compiled: 2026-08-26
+period: 2026-07-01 to 2026-08-26
 subject: gov.protect
 places: DZA; AGO; BWA; BFA; BDI; CIV; DJI; COD; EGY; SWZ; ETH; GMB; GHA; GIN; KEN; LBR; MWI; MLI; MUS; MAR; MOZ; NAM; NGA; SEN; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: f6cb3df22979
+record: decb46e9af14
 ---
 
 # Data protection: monthly update, July 2026

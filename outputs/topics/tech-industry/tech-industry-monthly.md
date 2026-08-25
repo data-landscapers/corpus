@@ -1,15 +1,15 @@
 ---
 title: ICT Industry — monthly update, July 2026
-compiled: 2026-08-25
-period: 2026-07-01 to 2026-08-25
+compiled: 2026-08-26
+period: 2026-07-01 to 2026-08-26
 subject: tech.industry
-places: DZA; AGO; BEN; BWA; CPV; CIV; COD; EGY; GNQ; SWZ; ETH; GMB; GHA; LBR; MUS; NER; NGA; RWA; ZAF; TGO; ZMB; ZWE
-record: 23497fbb0dac
+places: DZA; AGO; BEN; BWA; CPV; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; LBR; MUS; NER; NGA; RWA; ZAF; TGO; ZMB; ZWE
+record: 4847dd16be2f
 ---
 
 # ICT Industry: monthly update, July 2026
 
-*22 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*23 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -61,6 +61,10 @@ Domestically, [Letshego Eswatini set out plans to expand digital banking to the 
 
 [The change of control over the second network operator's parent completed on 30 June](https://techcabal.com/2026/07/27/vodacom-processed-548-billion/), and the Ethiopian regulatory approval for it is not on the record. Separately an [Addis Ababa engineering services firm founded in 2021 was profiled](https://www.wearetech.africa/fr/fils/tech-stars/nebyu-zekariyas-zewde-met-l-ingenierie-tech-ethiopienne-au-service-du-monde), the base's only named domestic firm in this class.
 
+## Gabon
+
+A ride-hailing platform [began recruiting drivers at Libreville in partnership with a local transport operator, without announcing a launch date, the cities it will serve, its tariffs or its regulatory framework](https://www.gabonreview.com/transport-urbain-yango-debarque-a-libreville-sur-un-air-de-loiseau-rare-et-emma/). It works as a pure intermediary with no fleet or drivers of its own, entering a market where one competitor has operated since 2021 and electric taxis were deployed in late 2025 under a state-backed project.
+
 ## Gambia
 
 GAMTEL and YCELL [signed the Share Investment and Network Modernization Agreement on 9 July 2026](https://thepoint.gm/africa/gambia/headlines/gamtel-ycell-sign-landmark-share-investment-and-network-modernization-agreement), transferring an 80% equity stake in GAMCEL and committing GMD 6.1 billion to modernisation: nationwide 4G and 5G radio access, core upgrades, next-generation operations and billing systems, a new head office, hybrid tower power and revenue assurance. It closes a process the government [described to lawmakers in December 2025 as a D6.7 billion winning bid](https://standard.gm/govt-to-sell-80-percent-shares-at-gamcel-for-d6-billion/), about D800m of it a direct payment for the shares. The two figures are not reconciled in anything held.
@@ -84,11 +88,6 @@ Hardware assembly is the one industrial position with a date attached. A governm
 ## Nigeria
 
 [Mobile money revenue at the largest operator grew about 132% in the first half and active wallets rose 1.3 million to five million](https://techcabal.com/2026/07/31/mtns-airtime-lending-pause-drags-fintech-revenue/), while suspending a single airtime-lending product took second-quarter fintech revenue to ₦12.99bn, down 72.4% year on year — establishing that the book the market had read as a payments business was substantially an airtime-lending business.
-
-Two of five commercial developments this month, neither regulatory: an enterprise arm distributing a spreadsheet-analysis agent through universities and co-working spaces, and a venture-financed skilling company.
-
-
-The state's own return from the sector was put at [about US$41m from an operator dividend payout of US$406m](https://techcabal.com/2026/08/19/nigeria-to-earn-41-million-from-mtns-406-million-dividend-payout/), on a publication's calculation from the declared payout and the state's holding. No government confirmation of receipt is held.
 
 ## Rwanda
 
