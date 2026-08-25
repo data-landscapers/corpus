@@ -1,11 +1,11 @@
 ---
 title: Burkina Faso — monthly update, July – August 2026
-compiled: 2026-08-25
-period: 2026-07-01 to 2026-08-25
+compiled: 2026-08-26
+period: 2026-07-01 to 2026-08-26
 place: BFA
-ledger_rows: 51
+ledger_rows: 52
 not_held: 11
-record: 011dace5e48b
+record: fb4ead673047
 ---
 
 # Burkina Faso: monthly update, July – August 2026
@@ -151,4 +151,12 @@ An operator digital centre marked five years of operation at a ministerial visit
 
 <!-- narrative: inclusion--include-access -->
 A financial inclusion agency delivered training and consumer protection this month, not its regulator.
+<!-- /narrative -->
+
+## Geopolitics
+
+### China activities
+
+<!-- narrative: geopolitics--geopol-china -->
+The month's only Chinese item is an approach rather than an agreement: the communications minister and a Burkinabe delegation were [received at a Chinese broadcaster's Beijing headquarters on 22 August 2026 to examine partnership in audiovisual and digital broadcasting, the exchanges going to the terms of collaboration with the national broadcaster and the national transmission company](https://www.sidwaya.info/pekin-le-ministre-de-la-communication-en-visite-chez-loperateur-de-diffusion-startimes/). No memorandum, commitment, value or timetable is stated.
 <!-- /narrative -->

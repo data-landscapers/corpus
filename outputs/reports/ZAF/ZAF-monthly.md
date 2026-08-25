@@ -1,11 +1,11 @@
 ---
 title: South Africa — monthly update, July – August 2026
-compiled: 2026-08-25
-period: 2026-07-01 to 2026-08-25
+compiled: 2026-08-26
+period: 2026-07-01 to 2026-08-26
 place: ZAF
-ledger_rows: 102
+ledger_rows: 106
 not_held: 23
-record: 7adab95a902c
+record: 623a156867a0
 ---
 
 # South Africa: monthly update, July – August 2026
