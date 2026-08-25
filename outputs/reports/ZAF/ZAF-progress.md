@@ -5,7 +5,7 @@ period: 2025-08-01 to 2026-08-26
 place: ZAF
 ledger_rows: 153
 not_held: 23
-record: 246877ab0c5f
+record: 260ce1799392
 ---
 
 # South Africa: progress report, August 2025 – August 2026
@@ -289,7 +289,9 @@ Funding reversed within the period. South Africa raised [$335.9m across 42 ventu
 | Standing in digital-privacy research | Baseline not held | [18th worldwide and the only African country in the top 20 for digital-privacy research output, on a 4,760-article review of 2005-2025](https://sajim.co.za/index.php/sajim/article/view/2146) | ***Baseline not held*** |
 
 <!-- narrative: capacity -->
+The delivery programmes moved and the strategy did not. A skills fund [dropped its fixed application windows for year-round applications, having taken more than 1,800 young people across all nine provinces with 97% absorbed into employment and over 75% still employed after six months](https://www.itweb.co.za/article/collective-x-adopts-always-on-approach-to-skills-fund/KjlyrvwBrwVqk6am), and a vendor agreed to take [networking, cyber security and artificial-intelligence courses into 235 Northern Cape schools as extracurricular classes for grades 10 to 12 from February 2027](https://www.itweb.co.za/article/cisco-hanley-group-bring-digital-skills-training-to-northern-cape-schools/raYAyqorGPEMJ38N). The 2020 national strategy meanwhile is [under review with no replacement](https://pmg.org.za/committee-question/39587/).
 
+The measurement of the gap is now better than the response to it: employers report [about 7% of ICT and engineering posts unfilled, with software developers, network engineers and ICT security specialists hardest to fill, and attribute the gap 26% to shortfalls in basic-level training, 24% to graduate pipeline throughput and 21% to the pace of technological change](https://documents1.worldbank.org/curated/en/099653207022613768/pdf/IDU-eb3a6d23-36a4-413f-bc1e-458a577684b7.pdf). Research capacity is the one place the country ranks near the top: [18th worldwide and the only African country in the top 20 for digital-privacy research output, on a review of 4,760 articles from 2005 to 2025](https://sajim.co.za/index.php/sajim/article/view/2146).
 <!-- /narrative -->
 
 ## Inclusion

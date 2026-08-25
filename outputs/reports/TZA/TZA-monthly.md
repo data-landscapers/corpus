@@ -1,11 +1,11 @@
 ---
 title: Tanzania — monthly update, July – August 2026
-compiled: 2026-08-25
-period: 2026-07-01 to 2026-08-25
+compiled: 2026-08-26
+period: 2026-07-01 to 2026-08-26
 place: TZA
-ledger_rows: 73
+ledger_rows: 76
 not_held: 13
-record: 4ea81343065b
+record: fefc3d6c1d4e
 ---
 
 # Tanzania: monthly update, July – August 2026
@@ -55,6 +55,11 @@ The month's one finding about political speech came from outside the state. A ci
 
 <!-- narrative: finance--finance-mou -->
 Three external tracks opened in one week, none priced. On 17 July [cooperation frameworks were agreed with Brazil and Poland on AI strategy, digital government and cybersecurity research](https://dailynews.co.tz/brazil-poland-back-dars-push-for-digital-growth/), with memoranda proposed and none signed; [youth and technology-skills agreements with Russia were in drafting](https://www.thecitizen.co.tz/tanzania/news/national/samia-s-russia-visit-opens-new-tech-frontier-for-tanzania-s-digital-future-5532062). On 24 July the ministry's permanent secretary signed a [memorandum in Shanghai covering ICT infrastructure, AI, digital public service infrastructure, developing local professionals, and manufacture and assembly of digital equipment](https://www.mawasiliano.go.tz/news/tanzania-na-huawei-watia-saini-makubaliano-ya-kuimarisha-ushirikiano-katika-uchumi-wa-kidijitali-na-ubunifu). The ministry's own release states no commitment amount, term or financing structure.
+<!-- /narrative -->
+### New investments
+
+<!-- narrative: finance--finance-new -->
+A Korean development cooperation fund [committed US$170m to build an AI and digital technology training institute, approved at its 159th management committee and announced on 23 August 2026](https://techafricanews.com/2026/08/25/south-korea-approves-170-million-loan-ai-digital-training-tanzania/) - the fund's first AI project, with the institute to offer four programmes. No site, start date or disbursement schedule is published.
 <!-- /narrative -->
 
 ## ICT Infrastructure
@@ -175,6 +180,11 @@ The telecoms regulator's director general put the [digital clubs programme at 80
 The Zanzibar postgraduate technology campus graduated its second cohort on 5 July: [129 students, about half from East Africa and 30% women, with a stated aim of 100 startups](https://www.thecitizen.co.tz/tanzania/zanzibar/zanzibar-positions-itself-as-africa-s-technology-and-innovation-hub-5518692). The figures are institution-reported and unaudited.
 
 Training opened in Dar es Salaam on 27 July for [110 participants from public, private and non-governmental institutions, across AI, cybersecurity, personal data protection and emerging technologies](https://dailynews.co.tz/tanzania-builds-cyber-resilience/). No budget, duration, certification or repeat cadence was stated.
+<!-- /narrative -->
+### Research institutions
+
+<!-- narrative: capacity--capacity-research -->
+A national institution of science and technology was [selected as the country's only member of the global AI capacity development network, announced at its graduation ceremony on 22 August 2026](https://www.thecitizen.co.tz/tanzania/news/national/tanzania-enters-global-ai-network-to-drive-digital-transformation-5567548). The network is supported by the UN office for digital and emerging technologies, was itself launched in July 2026, and works across AI foundations, AI enablers, capacity development and open science.
 <!-- /narrative -->
 
 ## Inclusion

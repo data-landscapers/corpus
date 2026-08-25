@@ -1,11 +1,11 @@
 ---
 title: Angola — monthly update, July – August 2026
-compiled: 2026-08-25
-period: 2026-07-01 to 2026-08-25
+compiled: 2026-08-26
+period: 2026-07-01 to 2026-08-26
 place: AGO
-ledger_rows: 44
+ledger_rows: 46
 not_held: 7
-record: 12dc9f7cbf68
+record: 913e4def4b98
 ---
 
 # Angola: monthly update, July – August 2026
@@ -43,6 +43,11 @@ The national cybersecurity centre, whose statute was published in December 2025,
 The data protection law is in force and unamended, and its exemptions are wider than its penalties. [Fines run from USD 75,000 to 150,000, trebled for legal persons and cumulated across concurrent contraventions](https://www.hunton.com/privacy-and-cybersecurity-law-blog/angola-passes-personal-data-protection-law), but the [statute substitutes a law or decree for the regulator's authorisation in two places, and puts processing under state-secrecy, state-security and judicial-secrecy rules outside the law altogether](https://lex.ao/docs/assembleia-nacional/2011/lei-n-o-22-11-de-17-de-junho/). The state can therefore authorise itself, and the categories where it most often processes are excluded at the outset.
 
 A report published on 15 August by the South African organisation Intelwatch [found the intelligence service SINSE reaching biometric data without judicial supervision](https://executivedigest.sapo.pt/servicos-de-informacoes-angolanos-acedem-a-dados-biometricos-sem-controlo-judicial-relatorio/), and identified no rule stating when it may obtain identity, biometric or mobility data and no independent body to review such requests; the migration service confirmed at the Santa Clara border post that SINSE may request access under established protocols. The same report puts the [national biometric border-control system at US$112m, awarded in February 2025 to Dolinveste Lda with Poland's Technology for Business, reportedly by direct award rather than open tender](https://executivedigest.sapo.pt/servicos-de-informacoes-angolanos-acedem-a-dados-biometricos-sem-controlo-judicial-relatorio/), and adds a [EUR 130m passport and biometric identity contract with Hungary's ANY Security Printing, taking the total past US$250m without significant tender, parliamentary scrutiny or human-rights impact assessment](https://executivedigest.sapo.pt/servicos-de-informacoes-angolanos-acedem-a-dados-biometricos-sem-controlo-judicial-relatorio/). Against that spending it records [no biometric system operating at the border posts with the Democratic Republic of the Congo](https://executivedigest.sapo.pt/servicos-de-informacoes-angolanos-acedem-a-dados-biometricos-sem-controlo-judicial-relatorio/), crossings there regulated by a manually checked seven-day paper pass, and the one functional post reading passports against the migration database but with fingerprint and height capture discontinued on maintenance grounds. It also records that the electoral register is [derived from the civil identity database, with the voter card to be used for the last time in 2027 before the identity card becomes the sole registration credential](https://executivedigest.sapo.pt/servicos-de-informacoes-angolanos-acedem-a-dados-biometricos-sem-controlo-judicial-relatorio/) under the 2025 official-registration law, and that the register has never had a comprehensive independent technical audit. The figures and the characterisation of the awards are Intelwatch's; no procurement record is on file.
+<!-- /narrative -->
+### Regional collaboration
+
+<!-- narrative: governance--gov-regional -->
+The national satellite began earning its keep across the border. Mozambique's state operator [started proof-of-concept testing of the Angolan satellite for providing telecommunications services in Mozambique, announced by the Angolan telecommunications ministry as a step towards a commercial agreement to distribute communication and broadcasting signals over Angolan space infrastructure](https://www.itweb.africa/article/tmcel-begins-angosat-2-satellite-trials/JN1gPvOAwolMjL6m). It follows the Mozambican public broadcaster's own proof of concept, implements a bilateral memorandum signed in June 2026, and runs in parallel with a commercial pilot with a Namibian operator for satellite-driven backhaul. No commercial terms are published.
 <!-- /narrative -->
 
 ## Finance

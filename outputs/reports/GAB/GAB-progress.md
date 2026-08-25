@@ -1,18 +1,18 @@
 ---
 title: Gabon — progress report, August 2025 – August 2026
-compiled: 2026-08-25
-period: 2025-08-01 to 2026-08-25
+compiled: 2026-08-26
+period: 2025-08-01 to 2026-08-26
 place: GAB
-ledger_rows: 116
+ledger_rows: 120
 not_held: 27
-record: 711e325b5c62
+record: 61e19156e172
 ---
 
 # Gabon: progress report, August 2025 – August 2026
 
-*Of 116 systems and instruments on this place's ledger, 49 changed position between 2025-08-01 and 2026-08-25, 23 did not, 17 carry no stated baseline, and 27 are ***Not held*** at both ends.*
+*Of 120 systems and instruments on this place's ledger, 52 changed position between 2025-08-01 and 2026-08-26, 24 did not, 17 carry no stated baseline, and 27 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 95 sources for this place in the window — 24 in the earlier half (2025-08 to 2026-01), 71 in the later (2026-02 to 2026-08). The two halves are comparable, so the comparison is made over the whole window.*
+*Shape check, run before the comparison: 100 sources for this place in the window — 24 in the earlier half (2025-08 to 2026-01), 76 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -28,13 +28,13 @@ Against that, the electronic identity programme published its first coverage fig
 
 ### Strategies, plans and policies
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | National satellite and space strategy | Did not exist | [Eleven recommendations adopted and a hybrid fibre and satellite model confirmed, with an integrated national strategy recommended rather than drafted](https://agpgabon.ga/gabon-seminaire-sur-levolution-des-communications-spatiales-11-recommandations-adoptees/) | Advanced |
 
 ### Legislation and regulation
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Five implementing texts on the digitalisation of teaching | Did not exist | [Five drafts validated - two decrees on digitalised learning and on blended-learning platforms, two orders on assessment and on the steering committee, and a decree creating the basic computing certificate](https://agpgabon.ga/gabon-education-cloture-de-latelier-consacre-au-cadre-reglementaire-de-la-digitalisation-des-enseignements/) | Advanced |
 | Ordonnance n 0006/PR/2025 on digitalisation and electronic government | No comprehensive legal basis for electronic government | [In force, mandating digitisation of administrative services, compulsory interconnection between administrations, and a national-preference clause in digital public procurement](https://www.gabonreview.com/e-gouvernement-le-gabon-se-dote-dun-cadre-juridique-pour-accelerer-la-digitalisation-de-son-administration/) | Advanced |
@@ -46,7 +46,7 @@ Against that, the electronic identity programme published its first coverage fig
 
 ### Data protection
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Autorite de protection des donnees a caractere personnel | Created by article 7 of the 2023 statute, with no dated act of the authority held | [Two dated acts on record - supervised destruction of unsuccessful bidders' files on 2026-01-20 and pre-commissioning compliance for the data centre on 2026-06-09](https://www.gabonreview.com/marches-publics-les-donnees-personnelles-des-soumissionnaires-de-2022-officiellement-detruites/) | Advanced |
 | Biometric prohibition and its derogation route | Outright prohibition in force, with the derogation cross-reference defective | [Outright prohibition in force, with the derogation cross-reference defective](https://www.apdpvp.ga/wp-content/uploads/2025/01/Gabon-Loi-025-2023-du-12-juillet-2023-portant-modification-de-la-loi-001-2011-du-25-septembre-relative-a-la-protection-des-donnees-a-caractere-personnel.pdf) | No change |
@@ -55,19 +55,19 @@ Against that, the electronic identity programme published its first coverage fig
 
 ### Regional collaboration
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Candidacy for International Telecommunication Union governance bodies | No position held | [Candidacy under review, alongside participation in the African digital ministers' council](https://techafricanews.com/2026/07/31/gabon-reviews-digital-transformation-progress-sets-new-priorities/) | ***Baseline not held*** |
 
 ### Standards
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Standardised custody registers | Standardised model presented and digitalisation explored, with paper registers accepted as a first step | [Unchanged; nothing dated on this instrument since February 2025](https://www.apt.ch/news/gabon-moves-strengthen-judicial-safeguards-standardised-custody-registers) | No change |
 
 ### Public debate and participation in policymaking
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Haute Autorite de la Communication decision n 0002/HAC/2026 suspending social media | No social-media suspension on the record | [In force about five months; the Presidency calls it temporary and conservatory, and nine civil-society organisations call it unconstitutional and beyond the authority's remit and demand abrogation](https://www.gabonreview.com/gabon-cinq-mois-de-silence-numerique-quand-le-remede-devient-le-poison/) | Regressed |
 | Regulator tripartite dialogue forum | Did not exist | [A standing dialogue space established by the electronic communications and posts regulator, bringing consumers into telecommunications regulation alongside the regulator and operators](https://www.union.sonapresse.com/index.php/fr/telecommunications-larcep-instaure-un-dialogue-tripartite) | Advanced |
@@ -84,13 +84,13 @@ The position that regressed is speech. At the period's opening no social-media s
 
 ### Domestic budget appropriations and expenditure
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Ministry of Digital Economy annual appropriation | XAF 32bn for 2025, as recounted by the minister | [XAF 82bn proposed for 2026, up 156.2 per cent, across the digital entrepreneurial ecosystem, infrastructure deployment and digital literacy](https://www.wearetech.africa/en/fils-uk/news/public-management/gabon-s-2026-digital-budget-soars-by-156-to-fund-tech-overhaul) | Advanced |
 
 ### MoUs and other agreements
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Partnership with the United Nations Capital Development Fund | Did not exist | [Policy support on financial governance aligned to the 2026-2030 national plan and the regional financial inclusion strategy, covering provider competition, payment infrastructure and consumer protection](https://www.biometricupdate.com/202512/gabon-pens-deal-with-uncdf-to-accelerate-financial-inclusion) | Advanced |
 | Start-up credit-guarantee accord with the Societe gabonaise de garantie | Did not exist | [Guarantee mechanisms to reduce the risk borne by institutions lending to innovative young firms; no ceiling, coverage ratio, eligibility test, term, participating bank or envelope is published](https://www.wearetech.africa/fr/fils/actualites/tech/le-gabon-mobilise-la-garantie-publique-et-huawei-pour-soutenir-les-start-up-numeriques) | Advanced |
@@ -99,7 +99,7 @@ The position that regressed is speech. At the period's opening no social-media s
 
 ### New investments
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Digital Gabon Project | US$1.3m disbursed of US$68.5m, or 1.92 per cent, with all results indicators at baseline (2024-12-19) | [About US$13.4m disbursed, with the original closing date of 2026-06-30 passed and no closure or extension record on file](https://projects.worldbank.org/en/projects-operations/project-detail/P175987) | Advanced, slipped |
 | eGabon project | Operating | [Closure phase under review, with no closure date or outcome rating held](https://projects.worldbank.org/en/projects-operations/project-detail/P132824) | Advanced |
@@ -115,7 +115,7 @@ Two instruments were signed and have produced nothing since: a financial-inclusi
 
 ### Connectivity
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | ARCEP prohibition on Starlink sale, installation and use | No prohibition on the record | [In force - sale, installation and use illegal on penalty of fines, imprisonment and equipment seizure, while the operator's own map still listed Gabon as available from 2026 with no licence granted (2026-05-19)](https://www.gabonreview.com/commercialisation-illegale-de-starlink-larcep-met-en-garde-les-usagers/) | Advanced |
 | GABIX (Gabon Internet Exchange Point) | Two members, ANINF and CanalBox, with local traffic of about 80 Mbps, unchanged since 2019 | [Gabon Telecom and Airtel Gabon reconnected on 2026-05-13 and local traffic passed 250 Mbps; the national reboot workshop ran 3-8 August 2026 with the Internet Society and AFRINIC and closed with certificates presented after six days of peering, security and sovereignty training. AFRINIC called for a network of trained ambassadors to carry the skills into firms and administrations, and operator representatives named broader institutional buy-in as the remaining task](https://agpgabon.ga/numerique-latelier-gabix-reboot-propulse-linterconnexion-locale-au-gabon/) | Advanced |
@@ -127,7 +127,7 @@ Two instruments were signed and have produced nothing since: a financial-inclusi
 
 ### Data Storage
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | ANINF-ST Digital framework memorandum | Did not exist | [In force - covers secure digital infrastructure, cloud, cybersecurity, digital identity, e-government and local training; no workplan, value or deliverable published](https://leconomie.info/developpement-de-lia-le-minpostel-visite-le-datacenter-de-st-digital/) | Advanced |
 | Gabonese Tier III rack capacity | No Gabonese data centre in service | [92 racks and 1 MW in service from 2026-07-03, with a further 160 racks and over 1 MW due end-November to early-December 2026](https://www.wearetech.africa/en/fils-uk/news/tech/gabon-launches-14-million-tier-iii-data-center-in-digital-sovereignty-push) | Advanced |
@@ -138,13 +138,13 @@ Two instruments were signed and have produced nothing since: a financial-inclusi
 
 ### Energy
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Nkok data centre photovoltaic plant | Planned - partial solar supply, adiabatic cooling and rainwater recycling in the announced design | [In service, supplying about 22 per cent of site energy needs, with water-free cooling and a dual 15 kV feed with N+1 redundant units](https://www.gabonreview.com/gabon-a-la-zis-de-nkok-st-digital-annonce-le-projet-de-construction-dun-datacenter-ecoresponsable/) | Advanced |
 
 ### Cybersecurity
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | ANINF-CNAMGS information-systems audit memorandum | Did not exist | [The audit was carried out and its findings delivered on 2026-08-12, three months after signature, naming human resources, data and infrastructure as the three pillars of the fund’s technology roadmap; the findings themselves are not published, and no remediation plan, timetable or cost is stated](https://techreviewafrica.com/public/news/5373/cnamgs-and-aninf-partner-to-accelerate-digital-modernisation-of-public-services-in-gabon) | Advanced |
 | ANINF-MITRE national cybersecurity architecture | Not on the record | [Design phase, twelve priority sectors defined and a national inventory of strategic cyber assets being mapped; no completion date, cost or instrument published](https://techreviewafrica.com/news/6029/gabon-advances-cybersecurity-architecture-through-aninf-mitre-cooperation) | Advanced |
@@ -166,7 +166,7 @@ Two positions did not move, and the fact is the finding. The fixed-network autho
 
 ### Data Exchange
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | CEMAC interoperable QR-code standard | Did not exist | [In force across the six member states, routed and settled through the regional switch, with the Gabonese scheme as its pilot](https://www.gabonreview.com/cemac-moins-de-cash-plus-de-numerique-la-beac-deploie-le-qr-code-interoperable/) | Advanced |
 | Central African cross-border health-data sharing roadmap | Did not exist | [A roadmap for cross-border health-data sharing among the nine Central African member states, adopted at a continental public-health agency advocacy workshop at Libreville on 18-21 August 2026, setting a six-week deadline for drafting an inter-country convention on sharing health data and a four-week deadline for a formal sharing mechanism, to be put to the health ministers of the seven of the nine states that have yet to sign the protocol, after experts worked through the legal, institutional and technical obstacles around data protection, confidentiality and national sovereignty](https://union.sonapresse.com/index.php/fr/africa-cdc-une-feuille-de-route-ambitieuse-pour-le-partage-des-donnees-sanitaires) | Advanced |
@@ -176,7 +176,7 @@ Two positions did not move, and the fact is the finding. The fixed-network autho
 
 ### Digital Identity and CRVS
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Carte Nationale d'Identite Electronique | Launched 2024-06-24 with no enrolment figure on the record and the World Bank indicator still at a zero baseline | [335,384 enrolled, 164,944 cards produced, 147,224 collected, 92,614 files in processing and 78,500 disputed (2026-06-02)](https://africacoeurnews.com/2026/06/03/gabon-17720-cartes-didentite-electroniques-toujours-non-retirees/) | Advanced |
 | Identity-card contract award | None published | [IN Groupe supplies the card and the digital-identity software and hardware; the DGDI enrols, personalises and issues at its own Oloumi facility, as it does for the passport and the residence permit](https://ingroupe.com/app/uploads/2024/01/ingroupe-insight-report-2023.24.pdf) | Advanced |
@@ -187,7 +187,7 @@ Two positions did not move, and the fact is the finding. The fixed-network autho
 
 ### Digital Payments and Fintech
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | e-tax declaration and payment portal | The revenue platform live since April 2024, with no online declaration portal announced | [Online declaration and payment portal live](http://gouvernement.ga/2025/08/18/etax-direction-generale-des-impots) | Advanced |
 | GIMACPAY | 14.5m transactions worth about FCFA 710bn (2024) | [20.3m transactions worth FCFA 863bn across 153 participants (2025)](https://leconomie.info/article/paiements-numeriques-gimacpay-enregistre-203-millions-de-transactions-pour-863-milliards-de-fcfa-en-2025) | Advanced |
@@ -199,7 +199,7 @@ Two positions did not move, and the fact is the finding. The fixed-network autho
 
 ### Registries
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Cadastre digitalisation under the land-title programme | Not on the record | [Proposal received and drone purchases announced; no system, contract award or delivery date is held](http://gouvernement.ga/2025/11/24/foncier-et-numerique-le-gabon-engage-la-modernisation-de-son-cadastre-avec-lign-fi) | Advanced |
 | Fichier Unique de Participation | Did not exist | [Reported established, to centralise data on state participations](https://techafricanews.com/2026/01/14/gabon-accelerates-digital-transformation-with-new-public-finance-and-e-government-initiatives) | Advanced |
@@ -208,7 +208,7 @@ Two positions did not move, and the fact is the finding. The fixed-network autho
 
 ### Sectoral management information systems
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Systeme d'information et de gestion de l'education | Operating, with school-health indicators being integrated | [Operating, with 1,000 tablets delivered on 2026-07-30 for the 148 connected schools](https://gabonmediatime.com/gabon-integration-de-la-sante-scolaire-dans-le-systeme-de-gestion-educative) | Advanced |
 | eGabon health information system | Thirteen pilot facilities equipped | [Still thirteen pilot facilities; no facility count, interconnection figure or national rollout published](https://www.gabonreview.com/egabon-sis-un-don-dequipements-pour-accelerer-la-numerisation-des-structures-sanitaires/) | No change |
@@ -216,7 +216,7 @@ Two positions did not move, and the fact is the finding. The fixed-network autho
 
 ### Other GovTech and e-Gov
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | administration.ga | Did not exist | [Presented as an integrated suite for secure messaging, meeting management and the exchange of confidential documents between civil servants, built with the Gabonese start-up Zaghi Digital, with the state holding the source code at no cost; no contract, cost, timetable or hosting arrangement is stated](https://gabonmediatime.com/gabon-le-gouvernement-sassocie-au-cgi-pour-la-mise-en-place-de-la-plateforme-administration-ga/) | Advanced |
 | Gabon Connect single digital window | Did not exist | [Presented; no build stage, launch date, budget or procurement record is held](https://www.gabonreview.com/gabon-connect-le-futur-guichet-unique-numerique-de-letat-presente-a-oligui-nguema/) | Advanced |
@@ -235,7 +235,7 @@ Government systems moved from absent to launched without moving to measured. The
 
 ### Digitalisation of sub-national government
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | ANINF provincial office network | No office outside Libreville since the agency was created in 2011 | [One provincial office](https://techreviewafrica.com/news/6042/aninf-opens-first-provincial-office-in-franceville) | Advanced |
 | Libreville municipal revenue-digitalisation system | Not on the record | [Operating, and explicitly distinct from the national scheme, which will not replace it](https://union.sonapresse.com/fr/paiement-numerique-la-mairie-de-libreville-accompagne-le-deploiement-de-madigipaie) | ***Baseline not held*** |
@@ -248,18 +248,25 @@ Government systems moved from absent to launched without moving to measured. The
 
 ### AI
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Morocco-Gabon digital transformation and artificial intelligence protocol | Not held | [A protocol on exchange of artificial-intelligence expertise and on capacity-building for digital skills in Gabon, with no budget, term, workplan or named programme](https://techafricanews.com/2026/04/13/new-morocco-and-gabon-agreement-focuses-on-digital-skills-and-capacity-building/) | Advanced |
 
+### ICT Industry
+
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
+|---|---|---|---|
+| Ride-hailing platform entry at Libreville | Did not exist | [A ride-hailing platform began recruiting drivers at Libreville in partnership with a local transport operator, without announcing a launch date, the cities it will serve, its tariffs or its regulatory framework; it works as a pure intermediary with no fleet or drivers of its own, entering a market where one competitor has operated since 2021 and electric taxis were deployed in late 2025 under a state-backed project](https://www.gabonreview.com/transport-urbain-yango-debarque-a-libreville-sur-un-air-de-loiseau-rare-et-emma/) | Advanced |
+
 ### Innovation ecosystem
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Innovation centre and angel network financing partnership | Did not exist | [A partnership between the national innovation centre and a domestic angel investor network to ease startups access to financing](https://agpgabon.ga/gabon-innovation-le-cgi-et-gain-scellent-un-partenariat-pour-faciliter-lacces-des-startups-au-financement/) | Advanced |
 | Kimba Connect | Did not exist, the July 2026 launch being billed as the first edition | [Launched with the employers' federation, targeting an ecosystem the organisers put at 150 to 200 start-ups, and offering finance, technology, labelling and market access. The final set for 2026-08-04 was postponed on 2026-08-06 after participating start-ups objected to how the edition was organised; a revised agenda published on 2026-08-11 runs pitches to 24 August and moves the final to late September or early October. The accelerator reports 155 registered start-ups, 133 of which submitted against its 16 published challenges, and 66 shortlisted](https://agpgabon.ga/gabon-numerique-kimba-connect-le-bilan-de-la-premiere-preselection-dresse/) | Advanced, final postponed |
 | Start-up and Digital Enterprise Act | Not held | [Named as forthcoming, with no bill, gazetted text or timetable, and nothing further on file](https://www.brookings.edu/articles/why-africa-should-sequence-not-rush-into-ai/) | Advanced, announcement only |
 | Start-up hosting memorandum with the Nkok operator | Did not exist | [Ministry-supported start-ups to get professional hosting at preferential rates, with no rate, eligibility list or take-up figure published](https://techafricanews.com/2026/07/06/gabon-inaugurates-first-tier-iii-datacenter-to-boost-digital-sovereignty/) | Advanced |
+| State digital incubator | Operating as the state digital incubator created ten years earlier under a donor-financed digital project | [The director general was removed at a board meeting while he was abroad, the Libreville head office has been emptied with no new address announced, the interim has passed to a deputy of the state holding that owns 30% of the incubator's capital, and a merger into the national innovation centre is under study at the digital economy ministry; the claimed record since 2018 is 314 startups supported, about FCFA 550m mobilised and a 68% post-incubation survival rate](https://www.gabonreview.com/dg-limoge-locaux-vides-projet-de-fusion-vers-une-disparition-en-catimini-de-la-sing-sa/) | Regressed |
 
 <!-- narrative: technology -->
 Every instrument in this section was made inside the period, which is why the section reads as movement and states almost no delivery. The open-innovation programme did not exist and launched on 14 July 2026 ([launch](https://www.gabonreview.com/kimba-connect-le-gabon-lance-son-premier-defi-national-dopen-innovation-pour-accelerer-la-transformation-numerique/)); the supplier skills accord and the start-up hosting memorandum did not exist and were signed in July 2026; the transformation memorandum with the same supplier moved from an exploratory ministerial mission of 26 to 28 June 2025 to a signed instrument on 23 December 2025 ([account](https://www.wearetech.africa/fr/fils/actualites/tech/le-gabon-mobilise-la-garantie-publique-et-huawei-pour-soutenir-les-start-up-numeriques)); and the protocol with Morocco on artificial intelligence and digital skills did not exist and was signed in April 2026 ([account](https://techafricanews.com/2026/04/13/new-morocco-and-gabon-agreement-focuses-on-digital-skills-and-capacity-building/)).
@@ -271,19 +278,19 @@ What did not move is the measured position. No national artificial-intelligence 
 
 ### Literacy
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Basic computing and internet certificate for education | Not on the record | [A draft decree only, with no syllabus, awarding body, cohort target or start date published](https://agpgabon.ga/gabon-education-cloture-de-latelier-consacre-au-cadre-reglementaire-de-la-digitalisation-des-enseignements/) | ***Baseline not held*** |
 
 ### Training and skills
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Cybastion training commitment | Announced, with no cohort, curriculum, start date or delivery partner published | [Cisco Networking Academy CCST-certification training under way for participants at Libreville's American Corner under the Africa DigiEmpower programme; no cohort size or completion date published](https://www.union.sonapresse.com/fr/souverainete-numerique-le-gabon-se-dote-dun-data-center-national) | Advanced |
 
 ### Research institutions
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Gabon Statistical Development Project | Closed | [Closed, with no successor statistical-capacity operation on the base](https://projects.worldbank.org/en/projects-operations/project-detail/P157473) | No change |
 
@@ -295,7 +302,7 @@ What did not move is the measured position. No national artificial-intelligence 
 
 ### Access to services
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Registre social unifie du Gabon | Technical work finalised at a closing workshop on 2025-08-28, with nothing delivered | [First deliverable presented, alongside a commitment to full digitalisation of non-contributory social protection under the 2026-2030 development plan](http://gouvernement.ga/2025/08/28/registre-social-unique-gabon-modernisation-de-la-protection-sociale) | Advanced |
 
@@ -307,9 +314,16 @@ The social register is the clearest advance. Technical work closed at a workshop
 
 ### National statistics
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
+| Recensement general de la population et de l'habitat | Did not exist | [The Constitutional Court moved from hearing the government to verifying the census in the field, deploying teams across all nine provinces to test the reliability of the figures before deciding whether to certify them; it heard the planning minister on 12 August 2026, and in Estuaire province the governor reported enumeration coverage above 95% and asked for more river and sea transport so enumerators could reach remote populations](https://www.gabonreview.com/rgpl-la-cour-constitutionnelle-lance-la-verification-des-chiffres-dans-les-neuf-provinces/) | Advanced |
 | Second census of economically weak Gabonese | Did not exist | [Preparation through July and August 2026 and fieldwork from September 2026, drawing on the population census and health-insurance records](https://www.gabonreview.com/gabonais-economiquement-faibles-le-gouvernement-lance-un-nouveau-recensement-en-septembre/) | Advanced |
+
+### Open data
+
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
+|---|---|---|---|
+| External fiscal transparency assessment | Assessed in the previous review as publishing only limited information on debt obligations, excluding state-owned enterprise debt, with no timely publication of the executive budget proposal or end-of-year report and quarterly budget execution reports judged limited and unreliable | [Assessed again as not meeting the minimum fiscal transparency requirements in the 2026 report, published 11 August 2026 for the review period to 31 December 2025, which presses governments to publish and regularly update information on state financial obligations including those of major state-owned enterprises; of 139 governments and one entity reviewed, 73 met the requirements and 67 did not, 14 of the latter judged to have made significant progress](https://www.gabonreview.com/transparence-fiscale-le-gabon-de-nouveau-epingle-par-washington-sur-la-dette-de-ses-entreprises-publiques/) | No change |
 
 <!-- narrative: data -->
 
@@ -319,13 +333,13 @@ The social register is the clearest advance. Technical work closed at a workshop
 
 ### US / hyperscaler activities
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Amazon acquisition of Globalstar | Not held | [Advanced talks reported for the acquisition of an operator holding spectrum authorisations and partnerships in Gabon for enterprise connectivity and industrial monitoring](https://itweb.africa/article/amazons-9bn-satellite-deal-set-to-benefit-africa/kLgB17ezwwgM59N4) | ***Baseline not held*** |
 
 ### China activities
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Huawei digital transformation memorandum | An exploratory ministerial mission to the supplier's sites on 26-28 June 2025, with no agreement signed | [In force on three pillars - a joint project committee, integration of Gabonese start-ups, and skills transfer - with the connected-schools programme to expand from 2026](https://www.gabonreview.com/numerique-le-gabon-explore-un-partenariat-technologique-renforce-avec-huawei/) | Advanced |
 | Huawei skills accord under Kimba Connect | Did not exist | [The supplier is to create smart rooms, run training in networks, cybersecurity, artificial intelligence and software development, and give access to its certifying training kits; no room count, trainee target, cost or duration is published](https://www.wearetech.africa/fr/fils/actualites/tech/le-gabon-mobilise-la-garantie-publique-et-huawei-pour-soutenir-les-start-up-numeriques) | Advanced |
@@ -365,6 +379,7 @@ The social register is the clearest advance. Technical work closed at a workshop
 | Rural and urban internet access split | A regulator quarterly observatory with provincial coverage, or a census digital-access module; only the national urban population share is held | not yet probed |
 | Enacted digital appropriation for 2026 | The finance law for 2026 as gazetted, showing the ministry's voted line against the XAF 82bn presented in October 2025 | not yet probed |
 | Named national research funding for digital technology or artificial intelligence | A research council or higher-education ministry programme document or budget line; the only capacity finance the base holds closed in 2023 | not yet probed |
+| Enforcement of service-quality obligations | a regulator quality-of-service determination, decision or sanction would settle it; probed 2026-08-25, reporting of that date states that at a departmental capital the incumbent sells data bundles on a network whose coverage appears and disappears while prepaid credit and bundle validity run down normally, and puts the regulator inaction to the president of its regulatory council; no determination, decision or sanction is published | 2026-08-25 |
 
 <!-- narrative: gaps -->
 Twenty-eight rows are unheld at both ends of the period, so nothing in this document reports movement on them. Their distribution has not changed over the twelve months: the technology sector and the inclusion and capacity subjects carry most of them, and both were as empty at the opening as at the close.

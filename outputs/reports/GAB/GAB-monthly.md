@@ -1,11 +1,11 @@
 ---
 title: Gabon — monthly update, July – August 2026
-compiled: 2026-08-25
-period: 2026-07-01 to 2026-08-25
+compiled: 2026-08-26
+period: 2026-07-01 to 2026-08-26
 place: GAB
-ledger_rows: 40
+ledger_rows: 45
 not_held: 27
-record: 78a2ca831d79
+record: e990b629e616
 ---
 
 # Gabon: monthly update, July – August 2026
@@ -38,6 +38,11 @@ The month's other legislative movement is procedural rather than expressive. A j
 
 <!-- narrative: governance--gov-regional -->
 On 31 July the ministry's final technical committee of the administrative year named its next-cycle workstreams, among them a candidacy for International Telecommunication Union governance bodies, with no body, seat or election date named ([review](https://techafricanews.com/2026/07/31/gabon-reviews-digital-transformation-progress-sets-new-priorities/)).
+<!-- /narrative -->
+### Standards
+
+<!-- narrative: governance--gov-standards -->
+Service quality is the one obligation the base cannot show being enforced. Reporting of 25 August 2026 states that at a departmental capital, a commune since 1996 with a prefecture, town hall and schools, [the incumbent sells data bundles on a network whose coverage appears and disappears while prepaid credit and bundle validity run down normally, and puts the regulator's inaction to the president of its regulatory council](https://depeches241.com/?p=29909). No quality-of-service determination, decision or sanction is published, which is why the row stands here as ***Not held***.
 <!-- /narrative -->
 ### Public debate and participation in policymaking
 
@@ -117,6 +122,11 @@ Libreville's mayor stated the city [already operates its own revenue-digitalisat
 
 ## Technology
 
+### ICT Industry
+
+<!-- narrative: technology--tech-industry -->
+A ride-hailing platform [began recruiting drivers at Libreville in partnership with a local transport operator, without announcing a launch date, the cities it will serve, its tariffs or its regulatory framework](https://www.gabonreview.com/transport-urbain-yango-debarque-a-libreville-sur-un-air-de-loiseau-rare-et-emma/). It works as a pure intermediary with no fleet or drivers of its own, entering a market where one competitor has operated since 2021 and electric taxis were deployed in late 2025 under a state-backed project.
+<!-- /narrative -->
 ### Innovation ecosystem
 
 <!-- narrative: technology--tech-innovate -->
@@ -152,6 +162,11 @@ On 29 July the social affairs ministry presented the first deliverable of the un
 
 <!-- narrative: data--data-statistics -->
 On 21 July an interministerial committee fixed the terms of a second census of economically weak Gabonese, with preparation through July and August and fieldwork from September 2026, drawing on the population census and health-insurance records; its stated purpose is that the existing social file is not reliable enough to target protection ([terms](https://www.gabonreview.com/gabonais-economiquement-faibles-le-gouvernement-lance-un-nouveau-recensement-en-septembre/)).
+<!-- /narrative -->
+### Open data
+
+<!-- narrative: data--data-open -->
+Gabon was assessed again as [not meeting the minimum fiscal transparency requirements in the 2026 review, published 11 August 2026 for the period to 31 December 2025, which presses governments to publish and regularly update information on state financial obligations including those of major state-owned enterprises](https://www.gabonreview.com/transparence-fiscale-le-gabon-de-nouveau-epingle-par-washington-sur-la-dette-de-ses-entreprises-publiques/). Of 139 governments and one entity reviewed, 73 met the requirements and 67 did not.
 <!-- /narrative -->
 
 ## Geopolitics
