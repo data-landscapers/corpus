@@ -7,8 +7,8 @@ holds off correctly still overwrites a published citation if the name it picks i
 
     python scripts/test_render_gate.py
 
-A gate that has only ever passed is not evidence of anything (`test_leak_check.py` makes
-the same argument), and this one fails in two directions rather than one. Too eager and it
+A gate that has only ever passed is not evidence of anything (`test_mirror_freshness.py`
+makes the same argument), and this one fails in two directions rather than one. Too eager and it
 cuts 241 dated PDFs a day that nobody asked for, which is the bloat it was written to stop.
 Too keen to hold off and a document that has genuinely moved keeps a stale edition and is
 never rendered again — silently, because holding off is what success looks like from the

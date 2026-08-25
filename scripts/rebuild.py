@@ -193,8 +193,8 @@ def scope_lint():
     `C:\\OSINT` is read-only. What Corpus can do is notice, on the run that admits them,
     that something arrived carrying no account of its geography at all.
 
-    **It reports and never gates.** `BUILD.md` → *Only the leak gate stops a finished run*
-    is the rule and this is not the leak gate: an out-of-remit record is a work item for
+    **It reports and never gates.** `BUILD.md` → *No check stops a finished run*
+    is the rule and nothing in Job 1 is an exception: an out-of-remit record is a work item for
     OSINT, not a reason to withhold a build of the other ten thousand. A non-zero count
     goes in the run's log line and, where it is new, into a note for OSINT."""
     rc = subprocess.run([sys.executable, os.path.join("scripts", "lint-scope.py"), "--list", "5"],

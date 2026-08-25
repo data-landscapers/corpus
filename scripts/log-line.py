@@ -39,7 +39,7 @@ there; the duration sits after it, which is why it goes third rather than second
 
 Usage:  python scripts/log-line.py --start build
         python scripts/log-line.py build  "catalogue 9,407, 20 ledgers updated — ok"
-        python scripts/log-line.py render "241/241 rendered, leak gate clean — ok"
+        python scripts/log-line.py render "241/241 rendered, catalogue 10,731 — ok"
         python scripts/log-line.py render "..." --at "2026-08-16 13:00"
         python scripts/log-line.py build  "..." --since "2026-08-17 06:41"
         python scripts/log-line.py build  "..." --took 3h02m

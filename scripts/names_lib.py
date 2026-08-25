@@ -56,7 +56,7 @@ TABLE = re.compile(r"(?m)^\s*\|.*$")
 FMLINE = re.compile(r"(?m)^[a-z_]+:\s.*$")
 WORDKEY = re.compile(r"^[a-z]+$")
 
-MIN_NAME, MAX_NAME = 4, 60          # the extraction cap the leak gate checks against
+MIN_NAME, MAX_NAME = 4, 60          # the extraction cap on a name
 
 # Windows reserves these as device names, **with any extension** — `open("aux.txt", "w")`
 # opens the AUX device, succeeds, and writes nothing to disk. A shard keyed `aux` was

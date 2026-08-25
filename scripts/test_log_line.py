@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """test_log_line.py — prove the run line carries a duration, and the right one.
 
-Same principle as `test_leak_check.py` and `test_mirror_freshness.py`: this only ever
+Same principle as `test_mirror_freshness.py`: this only ever
 runs at the end of a job, where a wrong answer looks exactly like a right one — a line
 reading `47m` is not visibly different from a line that should have read `4h47m`.
 

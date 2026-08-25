@@ -16,7 +16,7 @@ last_reviewed: 2026-08-16
 
 **Where BUILD wants Bill's attention, it finishes the job and leaves a message.** `logs/messages-for-bill.md` is the channel: newest first, one block per run, inserted under the marker. Write what he would have been asked, what the run did instead, and what his options are. A run that needed nothing writes nothing there, which is the normal outcome.
 
-**Only the leak gate stops a finished run.** Every other check in Job 1 is a work list, not a gate — the tally at check L says so in as many words, and the log shows runs shipping with M outstanding. A failing check is BUILD's work to do, and where it cannot be done the true statement is ***Not held*** with a `gaps.csv` line, which is a completed outcome and not a blocked one.
+**No check stops a finished run** *(2026-08-25 — the leak gate was the one that did, and it is retired; `documentation/design.md` §8)*. Every check in Job 1 is a work list, not a gate — the tally at check L says so in as many words, and the log shows runs shipping with M outstanding. A failing check is BUILD's work to do, and where it cannot be done the true statement is ***Not held*** with a `gaps.csv` line, which is a completed outcome and not a blocked one.
 
 **An interrupted run is resumable and is not a failure to repair by hand.** Stage 4 reads a set difference over slugs, so a run that dies mid-stage leaves every unit it finished marked and every unit it did not untouched; the next run picks up exactly there. The danger is not the interruption, it is the interruption going unnoticed: a half-moved build typesets cleanly, resolves every link and passes every check, so nothing downstream can tell it from a finished one. That is what stage 0 is for.
 
@@ -48,7 +48,7 @@ python scripts/lint-osint-freshness.py    # 0 fresh · 1 stale or regressed · 2
 
 **Not a gate, deliberately.** A cycle is run by hand, so a quiet stretch is OSINT's schedule rather than a defect, and a build stopped by one would be stopped for no fault. The ceiling (`--max-age-hours`, default 72, the same floor `lint-mirror-freshness.py` puts under the backup) is where a quiet stretch stops being plausible; a `STALE` or `UNREADABLE` line goes in the run's message to Bill and the build continues. The repair is not Corpus's to run either way — it is `FreeFileSync.exe SyncSettings.ffs_batch` on OSINT's machine, and `C:\OSINT` is read-only from here.
 
-**It also catches the fault an age test cannot**: a mirror that has gone *backwards*, checked against the `done` watermark in `logs/.osint-cycle-seen`. A rollback is fresh by every clock and wrong by every record. `scripts/test_osint_freshness.py` proves both fault paths and the unreadable case fire, on the same principle as the leak-gate and mirror-freshness tests — this check will read `ok` for weeks, which is exactly when a broken one goes unnoticed.
+**It also catches the fault an age test cannot**: a mirror that has gone *backwards*, checked against the `done` watermark in `logs/.osint-cycle-seen`. A rollback is fresh by every clock and wrong by every record. `scripts/test_osint_freshness.py` proves both fault paths and the unreadable case fire, on the same principle as the mirror-freshness test — this check will read `ok` for weeks, which is exactly when a broken one goes unnoticed.
 
 **The second line is what puts a duration on the run's log line** *(Bill, 2026-08-17)*. It stamps the clock into the gitignored `logs/.run-start-build`, and the closing call in the ending sequence reads it back and clears it. Run it here, at the top, rather than deriving a start time later: a duration reconstructed at the end of a long session is a recollection, and the reason for logging it at all is to have a measurement. A run that skips this still logs — the line reads `unclocked`, which is the visible version of not knowing.
 
@@ -80,7 +80,7 @@ This writes `outputs/catalogue/`, `outputs/non-state-finance/`, `outputs/budgets
 
 **The unaccounted bucket is a review list and not a delete list, and that was learned from its first run.** It put Jumia's capital raise, Flutterwave's correspondent accounts and MTN Bayobab's management appointment in the same bucket as Thailand's passport — African stories whose `places` field is simply empty, where deleting the record would lose real material. A third group belongs in neither: the ITU Global Connectivity Report and the SubOptic cable programme should carry `XGL` and do not. So the bucket asks *has this record accounted for its geography*, and the answer is one of delete it, place it, or code it `XGL` — each of them OSINT's call.
 
-**It reports and never gates**, under *Only the leak gate stops a finished run* above. An out-of-remit record is a work item for OSINT, not a reason to withhold a build of the other ten thousand. Carry the counts in the run's log line; where the arrivals are new, write them into a note for OSINT rather than a message to Bill, because the repair is not Corpus's to make.
+**It reports and never gates**, under *No check stops a finished run* above. An out-of-remit record is a work item for OSINT, not a reason to withhold a build of the other ten thousand. Carry the counts in the run's log line; where the arrivals are new, write them into a note for OSINT rather than a message to Bill, because the repair is not Corpus's to make.
 
 **Clearing a deletion means checking every layer, and the first attempt checked two** *(OSINT's `notes-for-corpus.md` note 2, 2026-08-20)*. Before telling OSINT a set of records is safe to delete, Corpus says what it would cost here. Note 30's clearance read the **ledgers** and the **status baselines**, found nothing, and said so — correct as far as it went. But 18 of the 48 records were cited inside OSINT's own `wiki/`, which Corpus reads and reports from, and the 26 deletions left 19 dangling references across eight concept pages. OSINT found and repaired them itself. **The lesson is the method, not the incident**: a clearance that reads only the layers Corpus writes will keep missing the layers Corpus *reads*. Check `wiki/` alongside `outputs/reports/*/ledger.csv` and the baselines, and say which layers were searched rather than reporting a bare *nothing found* — a check that read two of three looks exactly like one that read all of them.
 
@@ -238,7 +238,7 @@ python scripts/bulletin.py --assemble
 
 **`--assemble` stops rather than publishing a gap.** An item in the window with no summary fails the command and names the slugs. That is the same rule as *Narrative integrity* above and it is mechanical: the repair is to write the summary, and there is no third option in which the item appears with nothing under it.
 
-**Everything in a summary is sourced by construction, and that is the only reason the register is satisfied cheaply here.** Each entry opens with the item's title linked to the publisher's own record, so a fact in the sentences beneath it carries its citation two lines up. What that does *not* license is a fact the item does not carry: the summary reports the source, and where the source states a figure the figure is the best thing to put in the sentence. It is Corpus's prose either way — a verbatim sentence lifted from the body is both a register failure and the thing the leak gate exists to catch.
+**Everything in a summary is sourced by construction, and that is the only reason the register is satisfied cheaply here.** Each entry opens with the item's title linked to the publisher's own record, so a fact in the sentences beneath it carries its citation two lines up. What that does *not* license is a fact the item does not carry: the summary reports the source, and where the source states a figure the figure is the best thing to put in the sentence. It is Corpus's prose either way — a verbatim sentence lifted from the body is a register failure, and since 2026-08-25 nothing downstream is looking for one — the check that was is retired, and this is where it is caught instead.
 
 **Detail sits in one place** *(Bill, 2026-08-17)*. An item carrying five topics is summarised once and cross-referenced from each of the other four. That is the script's doing, not the drafter's: one summary is written per item and `bulletin.py` decides where it lands.
 
@@ -255,29 +255,19 @@ python scripts/bulletin.py --assemble
 - **Report initialisation from the wiki** — for a place with no ledger. Reads the compiled wiki (`wiki/places/{ISO}.md`, `wiki/intersections/`) to distil a new ledger and write the first reports. `report-country-init.py` is the shell; the authoring is a session's model work. Bill's decision (2026-08-13): the current ledgers are the accepted baseline, so initialisation is not run now.
 - **Monthly narratives** — some monthly issues carry empty per-subject blocks; authoring them is tracked.
 
-## Leak gate — before any commit of outputs/
+## Source bodies — the rule outlives its gate
 
-`outputs/` must carry metadata and compiled prose only, never a verbatim source body. Before **any** commit that includes `outputs/` — the compile commits above and the final one below — run the gate:
+`outputs/` carries metadata and compiled prose only, never a verbatim source body. That commitment is unchanged, and it is `documentation/design.md` §8's rather than this runbook's.
 
-```bash
-python scripts/leak-check.py outputs      # exit 0 = clean; exit 1 = a body leaked
-```
+**What has gone is the check** *(Bill, 2026-08-25)*. `scripts/leak-check.py` and its test are deleted and nothing here calls them. His reasons, in his order: the system does not publish full documents; if it ever did it would be a trivial mistake; running the gate has never once discovered a leak; and it is expensive in both time and tokens. The first carries the rest — the gate was built for the pull model, where Corpus mirrored a tree it did not author, and every file in `outputs/` is now written by a compiler in this repo. §8 records the retirement in full.
 
-If it exits non-zero, **do not commit** — a compiler is wrong; stop and fix it. A leak into public history is permanent (`documentation/design.md` §8), so this is the one check that fails the build rather than warning.
+**So the rule is the drafter's, at the moment of writing.** *Narrative integrity* above and the register are where a lifted sentence is caught now, and both were always the better place for it.
 
-**It reuses what it has already read, and an edit to the gate throws that away** *(2026-08-23)*. `site/` holds 2,242 dated editions across 731 MB and the gate was text-extracting every one of them on every run — a quarter of an hour to re-derive a verdict that §9 guarantees cannot have changed, since a published file is never revised. It now keeps one content digest per clean PDF or HTML page in `logs/.leak-check-cache.json` (untracked) and skips a file whose bytes it has already found clean. Only identical bytes open an entry, so a file that moves is scanned again; the cache stores a digest of `leak-check.py` itself and discards every entry when that changes, so a raised cap or a fixed bug costs one cold pass rather than leaving two thousand files verdicted under rules that no longer exist. **`--no-cache` scans everything regardless** — reach for it when the question is whether the gate is right, not whether today's output is clean. `scripts/test_leak_check.py` proves the safety properties; the speed follows from them.
-
-## Ending the run — message, gate, log, commit, stand down
+## Ending the run — message, log, commit, stand down
 
 **1. Message Bill, if anything is owed him.** Insert a block under the marker in `logs/messages-for-bill.md`: what would have been asked, what the run did instead, what his options are. A run that needed nothing writes nothing there, which is the normal outcome.
 
-**2. Leak gate.** Nothing commits until this passes.
-
-```bash
-python scripts/leak-check.py outputs || exit 1
-```
-
-**3. Log one terse line**, in the form `YYYY-MM-DD HH:MM · build · took · what happened`.
+**2. Log one terse line**, in the form `YYYY-MM-DD HH:MM · build · took · what happened`.
 
 ```bash
 python scripts/log-line.py build "catalogue N, finance N places, scan N units, K ledgers updated — ok"
@@ -287,13 +277,13 @@ python scripts/log-line.py build "catalogue N, finance N places, scan N units, K
 
 **The log reads newest first** *(2026-08-16)*, so the line is inserted at the top, under the marker comment — `>> logs/log.md` is no longer the recipe. It would still write a correct line, in the wrong place, which is the version of this that nobody notices. `scripts/log-line.py` does the insert and takes the message as an argument, so `·`, em-dashes, slashes and backticks in it are content rather than syntax; it exits 1 rather than guessing if the marker is missing.
 
-**4. Commit everything**, so the build ends clean with nothing outstanding.
+**3. Commit everything**, so the build ends clean with nothing outstanding.
 
 ```bash
 git add -A && git diff --cached --quiet || git commit -m "Build run: outputs, log and messages"
 ```
 
-**5. Stand down** — remove the stage 0 sentinel, and only now, after the commit has landed.
+**4. Stand down** — remove the stage 0 sentinel, and only now, after the commit has landed.
 
 ```bash
 rm -f logs/.build-in-progress

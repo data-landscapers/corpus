@@ -44,7 +44,7 @@ The general shape is worth keeping: **a large asset that a small one depends on 
 
 ## The catalogue page is published by the bulletin top-up now
 
-`BULLETIN-TOPUP.md` opens with `rebuild.py --catalogue` and did not close with `catalogue.py`, on the reasoning that *the site catalogue lags a morning behind by design*. That was true while nothing pointed at the gap. It stopped being true the moment the page put a record count on itself: on 2026-08-24 the catalogue page said 10,731 while the bulletin published the same morning was built off 10,747, and the two are a morning apart every day the top-up runs. `scripts/catalogue.py` is now the last step of that run, after the leak gate. The names index is deliberately not rebuilt with it — the morning's new records are searchable by title and publisher but not yet by names inside them, which is a bounded lag rather than a wrong published number.
+`BULLETIN-TOPUP.md` opens with `rebuild.py --catalogue` and did not close with `catalogue.py`, on the reasoning that *the site catalogue lags a morning behind by design*. That was true while nothing pointed at the gap. It stopped being true the moment the page put a record count on itself: on 2026-08-24 the catalogue page said 10,731 while the bulletin published the same morning was built off 10,747, and the two are a morning apart every day the top-up runs. `scripts/catalogue.py` is now the last step of that run. The names index is deliberately not rebuilt with it — the morning's new records are searchable by title and publisher but not yet by names inside them, which is a bounded lag rather than a wrong published number.
 
 ## Checked
 

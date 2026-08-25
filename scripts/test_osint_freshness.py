@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """test_osint_freshness.py — prove the OSINT freshness check fires.
 
-Same principle as `test_mirror_freshness.py` and `test_leak_check.py`: this check reads `ok`
+Same principle as `test_mirror_freshness.py`: this check reads `ok`
 for weeks at a time in normal use, and a check that has only ever passed is not evidence of
 anything. What it guards is worse than a late backup — a stale mirror means Corpus compiles,
 reports and publishes from old evidence without saying so — so the fault paths are the part

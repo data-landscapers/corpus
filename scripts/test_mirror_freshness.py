@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """test_mirror_freshness.py — prove the mirror freshness check fires.
 
-Same principle as `test_leak_check.py`: a check that has only ever passed is not evidence
+The principle: a check that has only ever passed is not evidence
 of anything, and this one will sit at `ok` for weeks at a time in normal use, which is
 exactly the condition under which a broken check goes unnoticed.
 

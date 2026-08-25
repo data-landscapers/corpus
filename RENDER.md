@@ -11,13 +11,12 @@ last_reviewed: 2026-08-16
 ## What changed, and why this runbook exists
 
 Corpus now **authors** its report and compile layer itself, in `outputs/` (see `documentation/migration-report-layer.md`). It is no longer a mirror pulled from OSINT.
-So the build no longer starts with a pull. It starts from `outputs/`, which is already in the repo and committed. *(`scripts/pull.py` and its test were deleted on 2026-08-16; the leak gate they carried lives in `scripts/leak-check.py`, tested by `scripts/test_leak_check.py`.)*
+So the build no longer starts with a pull. It starts from `outputs/`, which is already in the repo and committed. *(`scripts/pull.py` and its test were deleted on 2026-08-16; the leak gate they carried moved to `scripts/leak-check.py`, and was retired with it on 2026-08-25 — `documentation/design.md` §8.)*
 The renderers read `outputs/` directly *(2026-08-16)*. They were written against `upstream/`, a mirror of `outputs/` that RENDER refreshed on every run; the repoint this file used to defer has been done and `upstream/` is deleted. There is no copy step and no second tree that can go stale.
 
 ## Prerequisites
 
 - Python 3 with WeasyPrint and its system libraries installed. On this machine (2026-08-13): MSYS2 at `C:\msys64` provides Pango/Cairo/HarfBuzz, and `C:\msys64\mingw64\bin` sits on the user PATH **after** the Python entries but **before** `C:\Program Files\Tesseract-OCR`. Both halves of that ordering matter: MSYS2 ships its own `python.exe`, so putting it earlier shadows the real interpreter, while Tesseract ships an older copy of the same Pango DLLs, so putting it later makes WeasyPrint fail with `cannot load library … error 0x7f`. If a render errors on a missing or unloadable shared library, check that ordering first.
-- `pypdf`, for the leak gate's PDF text scan (`pip install pypdf`). Without it the gate fails closed on the first PDF rather than skipping it.
 - Run every command from the repo root (`C:\CORPUS`).
 - Commit after each coherent step (repo convention).
 
@@ -25,7 +24,7 @@ The renderers read `outputs/` directly *(2026-08-16)*. They were written against
 
 **RENDER puts no question mid-stream** *(Bill, 2026-08-16)*. It is run straight after `BUILD.md` with nobody watching. A run ends two ways — it **finishes** or it **fails** — and a failure is an error it cannot get past, never a decision it would rather Bill made. Where it wants his attention, it finishes the job and writes a block under the marker in `logs/messages-for-bill.md`: what it would have asked, what it did instead, what his options are.
 
-This is easier to hold to here than in BUILD, because RENDER judges nothing about its input by design. Its two hard stops are named and both are mechanical: **Step 0**, a build that did not finish, and **Step 7**, the leak gate. Everything else is rendered, committed and deployed.
+This is easier to hold to here than in BUILD, because RENDER judges nothing about its input by design. Its one hard stop is named and mechanical: **Step 0**, a build that did not finish. Everything else is rendered, committed and deployed.
 
 ## Step 0 — a finished build behind you, then a clean tree
 
@@ -191,8 +190,6 @@ python scripts/build-names-index.py --stats           # size profile, writes not
 
 **The shards are exempt from §9, and deliberately so.** A published file is never revised because a citation rests on its bytes; nothing cites a shard, and a shard is not a finding but a derived lookup that must track the corpus or it is wrong. So shards are rewritten in place and stale ones are deleted, in both `outputs/names/` and `site/catalogue/names/` — the one place on the site where "never purged" does not apply. Two properties keep that disciplined rather than merely convenient. Document ids come from `outputs/catalogue/doc-ids.csv`, which is **append-only**, so a slug's id never changes and a shard's bytes move only when its own names move; and both writers compare before writing, so an unchanged shard is not touched and does not appear in the diff. Expect a handful of changed shards per cycle, not nineteen hundred — if a rebuild shows all of them, the id registry has been rewritten rather than appended to, and that is the bug to look for.
 
-**The leak gate admits them by shape.** `names/*.txt` is checked against `name<TAB>id,id,id` rather than the ordinary 1,000-character line cap, which the posting lists exceed legitimately. That check is *stricter* than the one it replaces — a line of digits and commas cannot be prose — and it is scoped to a `names/` directory, so a plain `.txt` anywhere else still meets the cap.
-
 ## Step 6 — build the non-state finance landing
 
 ```bash
@@ -252,7 +249,7 @@ python scripts/prune-editions.py --apply
 
 **A superseded edition is deleted unless somebody downloaded it** — `documentation/cloudflare.md`, switched on for PDFs and CSVs on 2026-08-18 and applying **forward only**. Retention exists for readers rather than for artefacts: a citation only exists if someone actually took the file, so an edition nobody ever fetched has nothing resting on it. The file never moves, so nothing this rule keeps ever changes address.
 
-**It runs here because it edits `site/`.** Before the leak gate, so the gate reads the tree as it will be published, and before Step 7's `git add site`, so the deletions are carried by the same commit as the render that superseded them.
+**It runs here because it edits `site/`.** Before Step 7's `git add site`, so the deletions are carried by the same commit as the render that superseded them.
 
 **A refusal is a normal outcome and never fails the run.** The script exits 0 whether it deleted or declined, and it declines — deleting nothing at all, not file by file — on a missing credential, an API error, an empty key listing or a download record that looks stale. It prints `PRUNE: declined` with the reason; if that persists across runs, the Worker or the token wants looking at, and until then the rule is simply not in effect. It needs a Cloudflare API token with KV **read** scope (`documentation/cloudflare.md` → *Credentials*); with no token on the machine every run declines, which is the correct behaviour rather than a fault.
 
@@ -263,8 +260,6 @@ python scripts/prune-editions.py --apply
 ## Step 7 — verify, commit, deploy
 
 ```bash
-# leak gate — no verbatim source body may reach the public site or outputs
-python scripts/leak-check.py site outputs || { echo "STOP: leak gate failed"; exit 1; }
 # every report links only to held sources — spot check a few if desired:
 #   python scripts/report-render.py --unit KEN --check   (needs the workroot; optional)
 git add site
@@ -275,15 +270,13 @@ git commit -m "Render site from Corpus-owned outputs: reports, home, country pag
 git push
 ```
 
-**The leak gate is the only STOP here, and that is deliberate** *(Bill, 2026-08-13)*. It guards a boundary RENDER alone can see — the moment artefacts enter a public repo — which is why it belongs at this step and fails the run.
-
-**It reuses what it has already read, and an edit to the gate throws that away** *(2026-08-23)*. `site/` holds 2,242 dated editions across 731 MB and the gate was text-extracting every one of them on every run — a quarter of an hour to re-derive a verdict that §9 guarantees cannot have changed, since a published file is never revised. It now keeps one content digest per clean PDF or HTML page in `logs/.leak-check-cache.json` (untracked) and skips a file whose bytes it has already found clean. Only identical bytes open an entry, so a file that moves is scanned again; the cache stores a digest of `leak-check.py` itself and discards every entry when that changes, so a raised cap or a fixed bug costs one cold pass rather than leaving two thousand files verdicted under rules that no longer exist. **`--no-cache` scans everything regardless** — reach for it when the question is whether the gate is right, not whether today's output is clean. `scripts/test_leak_check.py` proves the safety properties; the speed follows from them.
+**Step 0 is the only STOP here** *(2026-08-25)*. It used to be joined by the leak gate, on the reasoning that this step guards a boundary RENDER alone can see — the moment artefacts enter a public repo. The boundary is real and the commitment behind it is unchanged; the gate is what has gone, because nothing upstream can put a source body in the tree it was reading. `documentation/design.md` §8 carries the reasoning.
 
 RENDER does **not** judge whether a document is fit to publish. An earlier version of this step grepped `site/` for an unwritten-narrative marker and stopped the render on a hit; it has been removed. Fitness is BUILD's responsibility (BUILD.md § Narrative integrity), and a check here could only ever be a second, weaker copy of a judgement made better upstream — one that halted every render while narratives were still being authored, protecting nothing.
 
 Deploy is unchanged (`documentation/handover.md`): the GitHub Pages workflow publishes whatever is committed in `site/` on a push touching `site/**`. It does not build — the render above is the build. The push above is what triggers it.
 
-**The push is authorised by this runbook and is not a question to put** *(2026-08-16)*. It publishes to the open web, which is the kind of step that would ordinarily be worth confirming — but a render that stops to ask permission to deploy is a render that has done all of its work and shipped none of it, and running RENDER *is* the instruction to publish. It used to sit in this file as a bare sentence of prose rather than a command, which is how it came to look optional; the log shows every completed render pushing. The gate on publishing is the leak gate immediately above, and it has already run by this point.
+**The push is authorised by this runbook and is not a question to put** *(2026-08-16)*. It publishes to the open web, which is the kind of step that would ordinarily be worth confirming — but a render that stops to ask permission to deploy is a render that has done all of its work and shipped none of it, and running RENDER *is* the instruction to publish. It used to sit in this file as a bare sentence of prose rather than a command, which is how it came to look optional; the log shows every completed render pushing.
 
 ## The bulletin
 
@@ -367,7 +360,7 @@ python scripts/lint-mirror-freshness.py     # 0 clean · 1 stale or failed · 2 
 
 **It reports and never fixes**: `mirror.bat` mirrors *onto* the Dropbox copies, so a `/MIR` is a destructive write on the destination and a lint check does not get to fire one off the back of its own opinion that a backup is overdue. Run it before the mirror to see whether one is owed, and after it to confirm the line landed.
 
-**That is a rule about the check, not about the run** *(Bill, 2026-08-16, asked directly: "keep RENDER running the mirror")*. This paragraph used to end *"and firing a `/MIR` is Bill's"*, eight lines under a section that instructs the run to fire exactly one — read cold by an unattended session, a flat contradiction on the single destructive step in the job, and the likeliest place in either runbook for one to stop and ask. **RENDER runs the mirror**: it is the last step of the last job in the pipeline, the runbook is the authorisation, and the destination is a backup whose whole purpose is to be overwritten by the current state. What stays Bill's is firing one *outside* a run — which is what `lint-mirror-freshness.py` declines to do on its own. `scripts/test_mirror_freshness.py` proves all three fault paths fire, on the same principle as the leak-gate test: this check will read `ok` for weeks at a time, which is exactly when a broken one goes unnoticed.
+**That is a rule about the check, not about the run** *(Bill, 2026-08-16, asked directly: "keep RENDER running the mirror")*. This paragraph used to end *"and firing a `/MIR` is Bill's"*, eight lines under a section that instructs the run to fire exactly one — read cold by an unattended session, a flat contradiction on the single destructive step in the job, and the likeliest place in either runbook for one to stop and ask. **RENDER runs the mirror**: it is the last step of the last job in the pipeline, the runbook is the authorisation, and the destination is a backup whose whole purpose is to be overwritten by the current state. What stays Bill's is firing one *outside* a run — which is what `lint-mirror-freshness.py` declines to do on its own. `scripts/test_mirror_freshness.py` proves all three fault paths fire, on the same principle as `test_osint_freshness.py`: this check will read `ok` for weeks at a time, which is exactly when a broken one goes unnoticed.
 
 *(Why it reads a log rather than trusting `mirror.bat`'s exit code is the paragraph above: a bare or bash-mangled invocation exits 0 having backed up nothing. Only a run that reached the end writes a dated line. This is what replaces `LINT` #19, which retires with OSINT's own mirror — `documentation/archived/osint-migration.md` R8 — and it now covers both repos, since one mirror does.)*
 
@@ -375,5 +368,5 @@ python scripts/lint-mirror-freshness.py     # 0 clean · 1 stale or failed · 2 
 
 - A single report failing to render should not stop the loop, or the run — note it, continue, deploy the rest, and put the list in `logs/messages-for-bill.md`. Step 2 has the reasoning.
 - A WeasyPrint/system-library error is environmental, not a repo bug — surface it rather than working around it. If it takes down every document rather than one, that is the whole run failing: log it and stop, since a deploy of nothing is not worth committing.
-- **Nothing here is a question for Bill.** The two hard stops are Step 0 and the leak gate, and both are mechanical tests with a stated repair. Everything else finishes, logs, and leaves a message.
+- **Nothing here is a question for Bill.** The one hard stop is Step 0, a mechanical test with a stated repair. Everything else finishes, logs, and leaves a message.
 - Do not write anything to OSINT (`C:\OSINT`) under any circumstance; nothing in this runbook needs to.

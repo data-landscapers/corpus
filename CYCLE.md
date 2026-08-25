@@ -53,8 +53,6 @@ That is the whole of it. The cycle has no stage of its own.
 
 **The `logs/.build-in-progress` sentinel stays, and there is no cycle sentinel.** It is what makes step 1 above meaningful and what lets a later separate `BUILD.md` run resume an interrupted cycle. A second sentinel for the cycle would guard nothing: a cycle that dies during the render half has already committed and stood down its build, and the repair is to run the render — or another whole cycle, whose build half finds nothing unconsidered, prints `unchanged` across the tree and costs almost nothing. The render is idempotent by construction, so re-running it is never the wrong move.
 
-**The leak gate runs twice, over `outputs` in BUILD's ending sequence and over `site outputs` at Step 7.** The second is not redundant: it is the gate on the public boundary, it covers `site/`, which did not exist when the first one ran, and `RENDER.md` names it as the only STOP in that half. Both stand.
-
 **Commit discipline is unchanged.** One commit per coherent stage in both halves, per `CLAUDE.md`. The cycle adds no commit of its own and defers none.
 
 ## Running unattended — a cycle ends three ways

@@ -32,7 +32,6 @@ python scripts/rebuild.py --catalogue                        # stage 2, the only
 python scripts/bulletin.py --scan                            # the window, and what needs a summary
 python scripts/bulletin.py --write {slug} --text "…"         # one to three sentences, per item
 python scripts/bulletin.py --assemble
-python scripts/leak-check.py outputs || exit 1               # the gate, unchanged and not optional
 python scripts/render.py outputs/bulletins/corpus-bulletin.md
 python scripts/catalogue.py                                  # publish the catalogue the bulletin was built off
 python scripts/log-line.py build "bulletin top-up: window N, K new summaries, rendered — ok"

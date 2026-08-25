@@ -103,7 +103,7 @@ reports/KEN/KEN-status-2026-08-18.pdf     {"first":"2026-08-18","last":"2026-08-
 
 ## What Corpus does with the record
 
-**A superseded edition is deleted unless somebody downloaded it.** `scripts/prune-editions.py` is the rule; `RENDER.md` Step 6a runs it with `--apply`, after the site is written and before the leak gate and the commit — so the deletions are carried by the same commit as the render that superseded them, and the gate reads the tree as it will be published.
+**A superseded edition is deleted unless somebody downloaded it.** `scripts/prune-editions.py` is the rule; `RENDER.md` Step 6a runs it with `--apply`, after the site is written and before the commit — so the deletions are carried by the same commit as the render that superseded them.
 
 **Retention exists for readers rather than for artefacts.** A citation only exists if somebody actually took the file, so an edition nobody ever fetched has nothing resting on it. Storage then tracks demand rather than catalogue size, and the catalogue is the half that grows without limit.
 

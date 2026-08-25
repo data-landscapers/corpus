@@ -63,7 +63,7 @@ The file earns a second job immediately: **alias search**. A `display` of "Natio
 
 ## Stage 3 — the broader index, and the question only Bill can answer
 
-**"Or a broader index?" means searching the source bodies, and that runs straight into the metadata-only commitment.** `build-catalogue.py` carries no body text *deliberately* — "the bodies are other people's words held for the wiki's own use, and a catalogue is not a place to republish them" — and `scripts/leak-check.py` fails the build if one appears.
+**"Or a broader index?" means searching the source bodies, and that runs straight into the metadata-only commitment.** `build-catalogue.py` carries no body text *deliberately* — "the bodies are other people's words held for the wiki's own use, and a catalogue is not a place to republish them" — and until 2026-08-25 `scripts/leak-check.py` failed the build if one appeared (`design.md` §8 — the commitment outlived the check).
 
 > **Ruled, 2026-08-24 (Bill): "Publishing an index of names is not a licencing/copyright problem."** The question below is settled and stage 3 is admissible. What remains is engineering — the shard layout, the `RENDER.md` §9 exemption, and the lazy-fetch split — not permission. The argument is left standing because it is the reasoning the ruling was given on.
 
@@ -144,7 +144,7 @@ Verified by driving the built page under jsdom: first paint and a full redraw in
 
 ## Stage 3 — built 2026-08-24
 
-`scripts/build-names-index.py` extracts names from the source bodies and writes `outputs/names/`; `scripts/catalogue.py` packs the shard keys into the page and publishes the shards; `scripts/leak-check.py` admits them by shape. **201,284 names over 430,929 postings across all 10,731 documents, in 1,896 shards.** *(Re-measured 2026-08-24 after stage 2 moved the extraction into `names_lib.py`; the first stage-3 build read 207,911 names over 1,889 shards, and the difference is the shared stopword sets, not the corpus.)*
+`scripts/build-names-index.py` extracts names from the source bodies and writes `outputs/names/`; `scripts/catalogue.py` packs the shard keys into the page and publishes the shards. **201,284 names over 430,929 postings across all 10,731 documents, in 1,896 shards.** *(Re-measured 2026-08-24 after stage 2 moved the extraction into `names_lib.py`; the first stage-3 build read 207,911 names over 1,889 shards, and the difference is the shared stopword sets, not the corpus.)*
 
 **What a reader downloads, typing a whole query, measured by driving the built page:**
 

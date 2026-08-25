@@ -38,7 +38,7 @@ The reason is the direction of dependency. The site is a derived view of the wik
 
 **Two mechanisms come from OSINT, which was ahead on this.** A finding that **carries its own solution is a task, not a message** — do it and log it (OSINT's housekeeping bar, 2026-08-03). And **`logs/messages-for-bill.md` is capped at five open blocks**: at the cap a run does not write a sixth, it takes the conservative option and logs it, which is how OSINT's ten-note cap converts queue pressure into decisions rather than backlog. A rule nobody counts drifts — that file reached ten blocks and 102 lines with nothing measuring it.
 
-**None of this touches the boundaries.** OSINT stays read-only, the leak gate still stops a run, and a destructive or outward-facing step still gets confirmed. Being decisive is about not deferring judgements CC is competent to make; it is not licence to widen what CC is allowed to touch.
+**None of this touches the boundaries.** OSINT stays read-only, the metadata-only commitment on `outputs/` still holds, and a destructive or outward-facing step still gets confirmed. Being decisive is about not deferring judgements CC is competent to make; it is not licence to widen what CC is allowed to touch.
 
 **Everything CC produces goes in Corpus**, including anything about OSINT. If a change is needed *in* OSINT — a corrected path, a stale statement in a process file, a note for the queues — CC writes the finding as a numbered note in **`C:\corpus-osint-xfer
 otes-for-osint.md`** and tells Bill; it does not make the change. Bill actions it in an OSINT session and strikes the note. That file also holds the standing constraints the site depends on, which never clear.
