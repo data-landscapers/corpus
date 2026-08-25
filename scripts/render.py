@@ -58,7 +58,7 @@ COMPANY = "Registered in the UK · Co. No. 16040544"
 KIND_LABEL = {
     "status": "Status report",
     "monthly": "Monthly update",
-    "progress": "Twelve-month progress report",
+    "progress": "Progress report",
     "bulletin": "",
 }
 
@@ -321,7 +321,15 @@ def strip_leading_h1(html: str) -> tuple[str, str]:
 
 
 def promote_standfirst(html: str) -> str:
-    """The *Compiled …* opener is a standfirst, not body copy.
+    """A document that opens on a wholly italic paragraph opens on a standfirst, not body copy.
+
+    **Matched on shape and position rather than on its first word** *(2026-08-25)*. This used to
+    look for `<p><em>Compiled…`, which was the status report's opener and nobody else's: the
+    monthly has always begun "Developments…" and never got the treatment, and the country progress
+    report's *Compiled* sentence came off in the same edit that wrote this, so the rule would have
+    stopped matching anything but the fourteen ledger-rendered status reports. A leading paragraph
+    that is entirely emphasised is a standfirst whatever it says, which is the property the
+    styling was always keyed on.
 
     Only the container changes; the inline markup inside is left exactly as
     Markdown emitted it. An earlier version stripped the wrapping <em> in the
@@ -331,10 +339,38 @@ def promote_standfirst(html: str) -> str:
     italicised every remaining page.
     """
     return re.sub(
-        r"<p>(<em>Compiled.*?</em>)</p>",
+        r"\A\s*<p>(<em>.*?</em>)</p>",
         r'<div class="report-standfirst">\1</div>',
         html, count=1, flags=re.S,
     )
+
+
+# **The reports' contents bar, after the bulletin's** *(Bill, 2026-08-25: "add Level 1 TOC the same
+# as Bulletin")*. `.article-toc` is the site-wide treatment `main.css` carries — it went up there
+# on 2026-08-24 precisely because the bulletin's bar had become the house idiom for an in-page jump
+# nav — so this needs no CSS of its own, and the `bulletin-nav` class is deliberately not copied:
+# that one is `bulletin-filter.js`'s hook for pruning the bar to a selected country, which is that
+# page's behaviour alone.
+#
+# It is built here rather than in `report-render.py` for one reason worth stating: the STATUS-INIT
+# baseline is not rendered by `report-render.py` at all, so a bar written there would appear on
+# fourteen countries' status reports and not on the other forty. Every report passes through this
+# function, and by this point the `toc` extension has already put an id on every heading — so the
+# anchors are the document's own, and cannot be a second slugifier's guess at them.
+H2 = re.compile(r'<h2 id="([^"]+)">(.*?)</h2>', re.S)
+
+
+def contents_bar(html: str) -> str:
+    """A jump nav over the document's `<h2>`s, or nothing if it has fewer than two."""
+    found = H2.findall(html)
+    if len(found) < 2:
+        return ""
+    sep = '<span class="article-toc__sep" aria-hidden="true">&middot;</span>'
+    links = f"\n{sep}\n".join(
+        f'<a href="#{anchor}">{re.sub(r"<[^>]+>", "", text).strip()}</a>'
+        for anchor, text in found)
+    return ('<nav class="article-toc" aria-label="Sections in this report">\n'
+            f"{links}\n</nav>\n")
 
 
 def promote_key(html: str) -> str:
@@ -510,6 +546,19 @@ def build_document(md_path: Path, edition: str | None, absolute: bool,
     html_body = promote_key(html_body)
     html_body = style_tables(html_body)
 
+    # The bar sits *under* the standfirst, not above it: the opening italic line says what the
+    # document is and over what window, which is what a reader needs before a list of places to
+    # jump to. The bulletin has no standfirst and so puts its bar first — same element, same
+    # position relative to the prose. `bulletin` is excluded because it builds its own, pruned by
+    # a script to the categories an edition actually reaches.
+    if kind in ("status", "monthly", "progress"):
+        bar = contents_bar(html_body)
+        if bar:
+            lead = re.match(r'\A(\s*<div class="report-standfirst">.*?</div>\s*)',
+                            html_body, re.S)
+            html_body = (lead.group(1) + bar + html_body[lead.end():]) if lead \
+                else bar + html_body
+
     title = meta.get("title") or h1 or md_path.stem
     # The HTML permalink carries no period *(Bill, 2026-08-13)*: `AGO-monthly.html`,
     # not `AGO-monthly-2026-07.html`. The HTML is always the current document, so a
@@ -531,9 +580,22 @@ def build_document(md_path: Path, edition: str | None, absolute: bool,
     rows, not_held = meta.get("ledger_rows", ""), meta.get("not_held", "")
     # A document may state its own byline — the bulletin does, since the window is the one thing a
     # reader needs from the header and no ledger count describes it.
+    # **The byline says who compiled it and from what, and no longer counts what is missing**
+    # *(Bill, 2026-08-25)*. Two changes, both about what belongs above the first paragraph.
+    #
+    # The not-held count came off: it is a fact about the ledger's completeness, and the marked
+    # rows are visible and countable inside the document, where a reader can see what is not held
+    # rather than only how much. In the byline it read as a warning about a report nobody had yet
+    # opened. The same number came off the country page's report rows in the same edit.
+    #
+    # "Compiled by Claude Opus from the documents in the Corpus repository" replaces "compiled from
+    # the Data Landscapers source base", which named a thing a reader cannot inspect and said
+    # nothing about how the document came to exist. The new line is the disclosure: a model wrote
+    # it, over this repository's own holdings, and the catalogue beside it is the list of those
+    # holdings. `ledger_rows` still fills the count where a document carries one.
     subtitle = meta.get("subtitle") or (
-        f"{rows} systems and instruments tracked, {not_held} of them not held"
-        if rows and not_held else "compiled from the Data Landscapers source base"
+        f"{rows} systems and instruments tracked" if rows
+        else "compiled by Claude Opus from the documents in the Corpus repository"
     )
 
     # **The colophon names the file, and the byline names the clock** *(Bill, 2026-08-21, second

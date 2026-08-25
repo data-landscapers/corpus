@@ -22,12 +22,15 @@ whole paragraph as the label, and it reached the site — the sector row of thre
 countries' pivot tables, the catalogue's topic filter, and every published finance
 CSV. A CSV column cannot hold a paragraph of process notes and remain a column.
 
-**Labels here; ordering not yet.** The file also carries a sort order, and it is
-not the order `lookups/taxonomy.md` implies — this file opens on Governance, the
-markdown on ICT Infrastructure. Reports and topic pages still take both order and
-labels from `vault_lib.load_taxonomy()`, so switching them is a change of sequence
-on every report as well as of wording, and Bill is reviewing the pages first. When
-he says, `sort_key` is what they should use.
+**Labels and ordering both, since 2026-08-25.** The file carries a sort order that
+is not the one `lookups/taxonomy.md` implies — this file opens on Governance, the
+markdown on ICT Infrastructure — and switching to it was a change of sequence on
+every report as well as of wording, so it waited on Bill reading the pages. He
+asked for it on 2026-08-25 ("re-order as per lookups\taxonomy.csv"), and
+`report-render.py` now takes order, Level-2 labels *and* its Level-1 section
+scheme from here for every country report. Topic pages still read
+`vault_lib.load_taxonomy()`; they are a different surface and were not in that
+instruction.
 
 **Absolute path from this file, never relative, and the move into `lookups/`
 makes that load-bearing** *(2026-08-21; it lived at `site/metadata/taxonomy.csv`

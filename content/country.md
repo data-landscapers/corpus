@@ -16,7 +16,7 @@ Where the country stands across 37 questions, with a source for every claim
 
 ## report-monthly
 
-A summary of news reported in the last month
+A summary of sources published since the beginning of last month.
 
 ## report-progress
 
@@ -25,3 +25,11 @@ A breakdown of progress recorded over the past twelve months
 ## no-reports
 
 No reports are yet published for this place.
+
+## catalogue-intro
+
+The repository holds {sources} documents for {name}. The catalogue only contains the metadata — title, publisher, date, facets and the publisher’s own link. Every piece of evidence in the reports above resolves to one of these records.
+
+## budget-intro
+
+Work is ongoing to compile information on national budgets, expenditures and audits.

@@ -434,7 +434,12 @@ COUNTRIES_TEMPLATE = """<!DOCTYPE html>
     <div class="colophon">
       <strong>About this page</strong>
       <dl>
-        <dt>Built</dt><dd class="mono">{built}</dd>
+        <!-- **"Last updated", not "Built"** *(Bill, 2026-08-25)*. The date is the same date
+             either way, but the two words say different things to a reader: "built" describes
+             what the machine did, and reads as scaffolding leaking onto the page; "last updated"
+             answers the question the reader actually has, which is how current this is. The
+             country pages carry the same change, in the colophon and in the subtitle. -->
+        <dt>Last updated</dt><dd class="mono">{built}</dd>
         <dt>Licence</dt><dd><a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></dd>
       </dl>
     </div>

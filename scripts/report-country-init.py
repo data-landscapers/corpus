@@ -32,11 +32,11 @@ import re
 import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import taxonomy_lib  # noqa: E402
 import vault_lib  # noqa: E402
 
 ROOT = vault_lib.ROOT
 REPORTS = os.path.join(ROOT, "outputs", "reports")
-SECTIONS_CSV = os.path.join(ROOT, "lookups", "report-country-sections.csv")
 COUNTRIES_CSV = os.path.join(ROOT, "lookups", "countries.csv")
 
 LEDGER_COLUMNS = ["row_id", "place", "subject", "section", "kind", "name", "status", "published",
@@ -61,8 +61,14 @@ def places_from_csv():
 
 
 def section_map():
-    with open(SECTIONS_CSV, encoding="utf-8", newline="") as fh:
-        return {r["subject"]: r["section"] for r in csv.DictReader(fh)}
+    """`{subject: section}` — the taxonomy's Level-1 chapter for each subject.
+
+    **From `lookups/taxonomy.csv`, not `report-country-sections.csv`** *(2026-08-25)*. A country
+    report's sections became the taxonomy's ten Level-1 chapters on that date, and `report-render
+    .py` now derives each row's section from its subject rather than reading the column. Scaffolding
+    a ledger from the old six-section map would write a `section` value the renderer immediately
+    disagrees with, and the first normalise pass would rewrite every row of a brand-new file."""
+    return dict(taxonomy_lib.level1s())
 
 
 def base_shape(rows):

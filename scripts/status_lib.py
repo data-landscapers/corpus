@@ -29,6 +29,9 @@ import os
 import re
 import sys
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import taxonomy_lib  # noqa: E402
+
 REPO = os.path.dirname(os.path.dirname(os.path.realpath(__file__)))
 DPI_CSV = os.path.join(REPO, "prep", "africa-dpi-data.csv")
 FINANCE_CSV = os.path.join(REPO, "outputs", "non-state-finance", "all-nonstate.csv")
@@ -247,10 +250,21 @@ def held_urls():
 # --------------------------------------------------------------------------- #
 
 def outline():
-    """[(chapter, slug, label), ...] — the 37 live sub-sections, in outline order.
+    """[(chapter, slug, label), ...] — the 37 live sub-sections, in `lookups/taxonomy.csv` order.
 
-    Read from `documentation/status-outline.md` rather than hardcoded, so the outline stays the
-    one statement of what a status report contains and check E cannot fall behind it."""
+    **What is in the document and what order it appears in are two questions, answered by two
+    files** *(2026-08-25)*. `documentation/status-outline.md` says what a status report contains —
+    the 37 questions and the guidance under each — and stays the one statement of that, so check E
+    cannot fall behind it. It does not say what order the report prints in: `taxonomy.csv` does,
+    for every country document at once, which is what Bill asked for on 2026-08-25 and what stops
+    the status baseline opening on a different chapter from the monthly beside it.
+
+    The outline file is left in its own reading order deliberately. Reordering 650 lines of
+    guidance to encode a sequence that is now read from a four-column CSV would be storing the
+    same fact twice, and the copy nobody builds from is the copy that goes stale.
+
+    Chapter *labels* come from the outline, not from the taxonomy, because the two agree and the
+    outline's are the ones the drafting process names."""
     if "outline" not in _cache:
         text = open(OUTLINE, encoding="utf-8").read()
         stop = APPENDIX.search(text)
@@ -264,7 +278,7 @@ def outline():
                 chapter = h2.group(1).strip()
             elif h3 and h3.group(1) not in SUSPENDED:
                 out.append((chapter, h3.group(1), h3.group(2).strip()))
-        _cache["outline"] = out
+        _cache["outline"] = sorted(out, key=lambda row: taxonomy_lib.sort_key(row[1]))
     return _cache["outline"]
 
 

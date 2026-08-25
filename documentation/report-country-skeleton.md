@@ -28,20 +28,30 @@ not_held: N                   # script-emitted; the count a reader is owed
 
 ## Sections, in this order
 
+**The sections are the taxonomy's ten Level-1 chapters, in `lookups/taxonomy.csv`'s sort order** *(Bill, 2026-08-25: "re-order as per lookups\\taxonomy.csv")*. There is no section map to consult and none to maintain: a row's subject has exactly one Level-1 parent, and that parent is the chapter it prints under.
+
 | # | Heading | Holds |
 |---|---|---|
-| 1 | Summary of position / of the month / of the period | The three or four things a reader who stops here must have. Prose only, no table. |
-| 2 | Infrastructure | `infra.*` |
-| 3 | Digital public infrastructure | `dpi.*`, `data.statistics`, `data.satellite`, `digital.*` |
-| 4 | Governance and regulation | `gov.*`, `data.open`, `geopol.eu` |
-| 5 | Artificial intelligence and the technology sector | `tech.*`, `geopol.usa`, `geopol.china`, `geopol.india`, `geopol.gulf` |
-| 6 | Inclusion and capacity | `include.*`, `capacity.*` |
-| 7 | Finance | `finance.*` |
-| 8 | Gaps to fill / Where the record is thin | The ***Not held*** rows, with what would settle each. Status and progress only. |
+| — | Summary of position / of the month / of the period | The three or four things a reader who stops here must have. Prose only, no table. |
+| 1 | Governance | `gov.*` |
+| 2 | Finance | `finance.*` |
+| 3 | ICT Infrastructure | `infra.*` |
+| 4 | DPI | `dpi.*` |
+| 5 | Digitalisation | `digital.*` |
+| 6 | Technology | `tech.*` |
+| 7 | Capacity | `capacity.*` |
+| 8 | Inclusion | `include.*` |
+| 9 | Data | `data.*` |
+| 10 | Geopolitics | `geopol.*` |
+| — | Gaps to fill / Where the record is thin | The ***Not held*** rows, with what would settle each. Status and progress only. |
 
-The mapping is `lookups/report-country-sections.csv` and is what the renderer reads; this table is the readable copy. **The headings are identical across all three documents** so they read side by side, and an empty section in one of them is visible rather than hidden. **A section with no ledger rows is written as one sentence saying so** — never padded to parity with a thick one, and never silently dropped.
+**What this replaced, and why the replacement is not merely a re-sort.** Until 2026-08-25 the renderer read `lookups/report-country-sections.csv`, a second grouping of the same 38 subjects into six sections of its own. Two groupings of one vocabulary is one too many, and the cost was not only that a country's three reports opened on a different chapter from the `STATUS-INIT` baseline sitting beside them on the same page. The two maps **disagreed about where a subject belonged**: `gov.legislate` printed under *Infrastructure* and `dpi.govtech` under *Governance and regulation*, and a subject the map named twice printed its sub-heading twice in one document. Deriving the section from the subject makes both unrepresentable. The `section` column survives in `ledger.csv` and is kept in step by `normalise_ledger()`, but nothing renders from it.
 
-**Within a section, the renderer sub-groups by taxonomy Level-2 subject and prints a `###` sub-heading with that subject's `lookups/taxonomy.md` label, in the taxonomy's own order** *(added 2026-08-10)*. Status and progress get one small table per subject rather than one table for the whole section; monthly gets one narrative marker per subject, keyed `{section-key}--{subject-slug}` (dots replaced with hyphens). A subject the section maps but that has no rows, or no moved rows for that month, gets no sub-heading and no block — the drafter is never handed an empty box for a topic with no news. `ledger.csv` is kept sorted the same way (Level-1 then Level-2, then name) by the renderer on every load, so the file itself reads in taxonomy order.
+**The headings are identical across all three documents** so they read side by side, and an empty section in one of them is visible rather than hidden. **A section with no ledger rows is written as one sentence saying so** — never padded to parity with a thick one, and never silently dropped.
+
+**Within a section, the renderer sub-groups by taxonomy Level-2 subject and prints a `###` sub-heading with that subject's `lookups/taxonomy.csv` label, in the taxonomy's own order** *(added 2026-08-10; the labels and the order both moved from `taxonomy.md` to `taxonomy.csv` on 2026-08-25)*. Status and progress get one small table per subject rather than one table for the whole section; monthly gets one narrative marker per subject, keyed `{section-key}--{subject-slug}` (dots replaced with hyphens). A subject with no rows, or no moved rows for that month, gets no sub-heading and no block — the drafter is never handed an empty box for a topic with no news. `ledger.csv` is kept sorted the same way (Level-1 then Level-2, then name) by the renderer on every load, so the file itself reads in taxonomy order.
+
+**Four chapters arrived carrying no prose, and closing them is drafting work.** *Data*, *Digitalisation*, *Capacity* and *Geopolitics* had no section of their own under the six-section map — their subjects sat inside *Digital public infrastructure*, *Governance and regulation*, *Inclusion and capacity* and *AI and the technology sector*. The prose written under those headings crossed to the chapter it was written for (`report-render.py` → `LEGACY_SECTION_KEY`), which leaves **206 unwritten section blocks across 54 progress reports**, plus the equivalent on the fourteen ledger-rendered status reports. Check L counts them and BUILD closes them; nothing was lost, and splitting a paragraph between two chapters to pre-fill them would only have published the same sentences twice.
 
 ## What goes in each document, and what must not
 

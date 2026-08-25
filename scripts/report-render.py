@@ -68,6 +68,7 @@ import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import status_lib  # noqa: E402
+import taxonomy_lib  # noqa: E402
 import vault_lib  # noqa: E402
 from copy_lib import copy_md  # noqa: E402
 
@@ -82,10 +83,17 @@ COUNTRIES_CSV = os.path.join(ROOT, "lookups", "countries.csv")
 # than branched around by every caller, so `REPORT-MONTHLY.md` runs over every initialised unit
 # and a region yields its one document.
 PROFILES = {
-    "country": {"sections": "report-country-sections.csv",
+    # **A country progress report opens on its own numbers, with no preamble above them** *(Bill,
+    # 2026-08-25)*. The paragraph that used to sit here said three things a reader either already
+    # knew or could not use: that it was compiled from the base, that its sections follow the status
+    # report, and that its window runs to the date of issue rather than the month's close — the
+    # last of which is a note about how the window is cut, in the place where what the window
+    # *found* belongs. A region keeps an opener because its sections are not the taxonomy's and
+    # nothing else on the page says so.
+    "country": {"sections": None,
                 "object": "System or instrument", "objects": "systems and instruments",
                 "docs": ("status", "monthly", "progress"),
-                "sections_note": "Sections follow the status report."},
+                "sections_note": ""},
     "region": {"sections": "report-region-sections.csv",
                "object": "Body, instrument or system", "objects": "bodies, instruments and systems",
                "docs": ("progress",),
@@ -154,11 +162,50 @@ VOCAB = copy_md("document", "status-vocab")
 MOVE_VOCAB = copy_md("document", "movement-vocab")
 
 
+def anchor(label):
+    """A heading's id, the way `markdown`'s `toc` extension slugifies it.
+
+    Kept identical because these ids are what the reports' contents bar links to and what
+    `render.py` writes onto the `<h2>` — two slugifiers that agree today and drift tomorrow give a
+    nav bar of dead links, which is exactly the failure `bulletin.py` avoids by importing the
+    extension's own `slugify` rather than writing a second one. Here the labels are ten known
+    strings from `taxonomy.csv` rather than arbitrary prose, so a five-line rule is enough and it
+    costs the report layer no dependency on `markdown`; `test_report_sections.py` asserts the two
+    agree over the whole vocabulary."""
+    return re.sub(r"[^a-z0-9]+", "-", label.lower()).strip("-")
+
+
 def sections(unit):
-    """[(order, section, key)] in document order, and {subject: (section, key)}."""
+    """[(order, section, key)] in document order, and {subject: (section, key)}.
+
+    **A country report's sections are the taxonomy's ten Level-1 chapters, in `lookups/
+    taxonomy.csv`'s own sort order** *(Bill, 2026-08-25)*. `taxonomy_lib`'s docstring has been
+    holding this open since 2026-08-19 — *"Labels here; ordering not yet … when he says, `sort_key`
+    is what they should use"* — and he has now said, for all three documents at once.
+
+    What it replaces is `lookups/report-country-sections.csv`, a second grouping of the same 38
+    subjects into six sections of its own. Two groupings is one too many, and the cost was not
+    only that the reports opened on a different chapter from the status baseline beside them: the
+    two maps **disagreed about where a subject belonged**, so `gov.legislate` sat under
+    *Infrastructure* and `dpi.govtech` under *Governance and regulation*, and a subject mapped into
+    two sections printed its sub-heading twice in one document. Deriving the section from the row's
+    own subject makes that unrepresentable — a subject has exactly one Level-1 parent, so it can
+    reach exactly one chapter.
+
+    A region still reads `report-region-sections.csv`, and should: its sections run from the
+    region's institutions outwards to what funds them, which is a different document about
+    different objects and not a view of the taxonomy at all."""
+    spec = profile(unit)["sections"]
+    if spec is None:
+        by_key, subj = {}, {}
+        for key in taxonomy_lib.keys():
+            l1 = taxonomy_lib.level1(key)
+            if l1 not in by_key:
+                by_key[l1] = (len(by_key), anchor(l1))
+            subj[key] = (l1, by_key[l1][1])
+        return sorted((o, l1, k) for l1, (o, k) in by_key.items()), subj
     by_key, subj = {}, {}
-    path = os.path.join(ROOT, "lookups", profile(unit)["sections"])
-    with open(path, encoding="utf-8", newline="") as fh:
+    with open(os.path.join(ROOT, "lookups", spec), encoding="utf-8", newline="") as fh:
         for r in csv.DictReader(fh):
             by_key[r["section_key"]] = (int(r["section_order"]), r["section"])
             subj[r["subject"]] = (r["section"], r["section_key"])
@@ -166,54 +213,71 @@ def sections(unit):
     return sorted(ordered), subj
 
 
-_TAXONOMY = None
+def section_of(r, subj):
+    """The section a ledger row renders under — **derived from its subject, not read off the row**.
 
-
-def taxonomy():
-    """(order, label, l1_of), cached — `vault_lib.load_taxonomy()`, one parse per run."""
-    global _TAXONOMY
-    if _TAXONOMY is None:
-        _TAXONOMY = vault_lib.load_taxonomy()
-    return _TAXONOMY
+    `ledger.csv` still carries a `section` column and `normalise_ledger()` keeps it in step, but
+    nothing renders from it any more. A row's subject is its classification; its section is a view
+    of that classification, and a stored view is a copy that can disagree with what it is a view of.
+    It did: 2026-08-25 found rows whose `section` named a chapter their subject does not belong to,
+    which printed them under the wrong heading with no check able to see it."""
+    hit = subj.get((r.get("subject") or "").strip())
+    return hit[0] if hit else (r.get("section") or "").strip()
 
 
 def by_subject(rows):
-    """[(subject, [rows])], grouped and ordered by taxonomy Level-1/Level-2 (§1, §5).
+    """[(subject, [rows])], grouped and ordered by `taxonomy.csv`'s sort order (§1, §5).
 
     A subject with no rows is simply absent from the result — which is what keeps an
     empty subject from printing a sub-heading with nothing under it in either a table
     section (status, progress) or a narrative one (monthly)."""
-    order, _, _ = taxonomy()
     groups = collections.defaultdict(list)
     for r in rows:
         groups[(r.get("subject") or "").strip()].append(r)
-    return sorted(groups.items(), key=lambda kv: order.get(kv[0], (99, 99)))
+    return sorted(groups.items(), key=lambda kv: taxonomy_lib.sort_key(kv[0]))
 
 
-def resort_ledger(path):
-    """Reorders `ledger.csv` in place by taxonomy Level-1/Level-2, then name — item 1 of
-    the 2026-08-10 report-structure change. A row's position in the file should follow
-    the taxonomy, not the order a run happened to add it in. Content, `row_id`s and the
-    file's column order are untouched; only row order moves, and only when it would
-    actually change — a no-op ledger is not rewritten, so this never manufactures a diff
-    on a file that is already sorted."""
+def normalise_ledger(path, subj):
+    """Reorders `ledger.csv` in place by `taxonomy.csv` sort order, then name, and brings each
+    row's `section` into step with its subject.
+
+    The reorder is item 1 of the 2026-08-10 report-structure change: a row's position in the file
+    should follow the taxonomy, not the order a run happened to add it in.
+
+    **The `section` rewrite is new** *(2026-08-25)*, and it is a consequence of the column no longer
+    being read. `section_of()` derives the chapter from the subject, so the stored value renders
+    nothing — and a column that nothing reads is a column that quietly goes wrong, which is how
+    rows came to carry a section their subject does not belong to. Writing the derived value back
+    keeps the file readable on its own terms and makes the disagreement impossible rather than
+    merely unlikely. A row whose subject the taxonomy does not carry is left exactly as it is: the
+    fix there is the subject, and overwriting the section would hide it.
+
+    Content, `row_id`s and the file's column order are otherwise untouched, and the file is only
+    rewritten when something would actually change — a ledger already in order is not rewritten,
+    so this never manufactures a diff."""
     if not os.path.exists(path):
         return False
-    order, _, _ = taxonomy()
     with open(path, encoding="utf-8-sig", newline="") as fh:
         reader = csv.DictReader(fh)
         fieldnames = reader.fieldnames
         rows = [r for r in reader if not vault_lib.blank_csv_row(r)]
     if not rows:
         return False
-    key = lambda r: (order.get((r.get("subject") or "").strip(), (99, 99)), (r.get("name") or "").lower())
-    resorted = sorted(rows, key=key)
-    if resorted == rows:
+    before = [dict(r) for r in rows]
+    if "section" in (fieldnames or []):
+        for r in rows:
+            hit = subj.get((r.get("subject") or "").strip())
+            if hit:
+                r["section"] = hit[0]
+    key = lambda r: (taxonomy_lib.sort_key((r.get("subject") or "").strip()),
+                     (r.get("name") or "").lower())
+    rows = sorted(rows, key=key)
+    if rows == before:
         return False
     with open(path, "w", encoding="utf-8", newline="") as fh:
         w = csv.DictWriter(fh, fieldnames=fieldnames, lineterminator="\r\n")
         w.writeheader()
-        w.writerows(resorted)
+        w.writerows(rows)
     return True
 
 
@@ -453,6 +517,23 @@ def month_bounds(month, window=1, end=None):
     return datetime.date(sy, sm, 1).isoformat(), max(end or close, close)
 
 
+def month_span(start, end):
+    """"July – August 2026" for a window that crosses a month boundary, "July 2026" for one that
+    does not; the year is printed once where both months share it.
+
+    This is the monthly's title, and it is a description of the window rather than a name for an
+    issue — there are no issues (see below). It follows the window, so it changes of its own accord
+    at the turn of a month, and the change is a real change to the document rather than a rebuild
+    artefact: a report that now reaches into September is not the report that stopped in August."""
+    a = datetime.date.fromisoformat(start)
+    b = datetime.date.fromisoformat(end)
+    if (a.year, a.month) == (b.year, b.month):
+        return a.strftime("%B %Y")
+    if a.year == b.year:
+        return f"{a.strftime('%B')} – {b.strftime('%B %Y')}"
+    return f"{a.strftime('%B %Y')} – {b.strftime('%B %Y')}"
+
+
 """**There is no such thing as a July issue** *(Bill, 2026-08-14)*.
 
 There is one monthly report per unit and one progress report, each a living document whose window
@@ -583,7 +664,53 @@ def front(title, today, unit, ledger_rows, not_held, period=None):
     return fm
 
 
-def blocker(path):
+LEGACY_SECTION_KEY = {
+    "infrastructure": "ict-infrastructure",
+    "ai-tech": "technology",
+}
+"""The two section keys that changed name when country reports moved onto the taxonomy's Level-1
+chapters *(2026-08-25)*, so that the prose written under the old heading arrives under the new one.
+
+`dpi`, `governance`, `inclusion` and `finance` are not here because their keys did not move; they
+are the four chapters `report-country-sections.csv` and the taxonomy already agreed about.
+
+**The four genuinely new chapters — Data, Digitalisation, Capacity, Geopolitics — start empty, and
+that is right rather than a gap.** Their subjects used to be filed inside *Digital public
+infrastructure*, *Governance and regulation*, *Inclusion and capacity* and *AI and the technology
+sector*, so what was written about them is a paragraph *about a different chapter that mentions
+them*, and there is no honest way to cut such a paragraph in two. Carrying the whole of it into
+both places would publish the same prose twice under two headings; carrying it into neither would
+throw away writing. So it stays where it was written and the new chapters open unwritten, which is
+a state BUILD already knows how to close and check L already counts."""
+
+
+def migrate_keys(keep, subj):
+    """Existing narrative blocks, re-keyed onto the section scheme this render uses.
+
+    A subject-keyed block (`{section}--{subject}`, the monthly's) carries its subject in the key,
+    so its new home is computable and exact: the subject decides the chapter, and the chapter is
+    the only part of the key that moved. A section-level block (the status report's and the
+    progress report's) carries no subject and is re-keyed by the table above or not at all.
+
+    Migration is additive and never overwrites: a document that already holds a block under the new
+    key keeps it, so re-running this on an already-migrated file does nothing. It returns the
+    retired keys as well, so `dropped()` does not report a block that was carried across under a
+    different name as writing this build destroyed."""
+    out, retired = dict(keep), set()
+    for k, v in keep.items():
+        if "--" in k:
+            head, _, tail = k.partition("--")
+            hit = subj.get(tail.replace("-", ".", 1))
+            new = f"{hit[1]}--{tail}" if hit else k
+        else:
+            new = LEGACY_SECTION_KEY.get(k, k)
+        if new != k:
+            out.setdefault(new, v)
+            retired.add(k)
+    return out, retired
+
+
+def blocker(path, subj=None):
     """Carry every existing narrative block across by marker id; mint empty ones for the rest.
 
     **An unwritten block is emitted empty, never with placeholder text** *(Bill, 2026-08-14)*.
@@ -594,7 +721,10 @@ def blocker(path):
     release a document with an unwritten block (BUILD.md -> Narrative integrity), and `--check`
     counts them so BUILD can see what is left to write."""
     keep = existing_blocks(path)
-    used = set()
+    retired = set()
+    if subj is not None:
+        keep, retired = migrate_keys(keep, subj)
+    used = set(retired)
 
     def block(key):
         used.add(key)
@@ -626,7 +756,7 @@ def gaps_table(gaps, label="System or instrument"):
 def load(unit):
     folder = os.path.join(REPORTS, unit)
     ledger_path = os.path.join(folder, "ledger.csv")
-    resort_ledger(ledger_path)
+    normalise_ledger(ledger_path, sections(unit)[1])
     return (folder,
             read_csv(ledger_path),
             read_csv(os.path.join(folder, "gaps.csv")))
@@ -772,18 +902,19 @@ def render(unit, today):
     if not ledger:
         print(f"{unit}: ledger is empty — nothing to render")
         return 1
-    ordered, _ = sections(unit)
+    ordered, subj = sections(unit)
     # A measure moves but has no current state to inventory (§1), so the status report omits it.
     ledger = [r for r in ledger if (r.get("kind") or "instrument") != "measure"]
     path = os.path.join(folder, f"{unit}-status.md")
-    block, keep, dropped = blocker(path)
+    block, keep, dropped = blocker(path, subj)
     not_held = sum(1 for r in ledger if r["status"] == NOT_HELD)
     name = place_name(unit)
     out = front(f"{name} — digital transformation and data governance status report",
                 today, unit, len(ledger), not_held) + [
         f"# {name}: status report",
         "",
-        f"*Compiled {today} from the Data Landscapers source base, from `outputs/reports/{unit}/ledger.csv` "
+        f"*Compiled {today} by Claude Opus from the documents in the Corpus repository, from "
+        f"`outputs/reports/{unit}/ledger.csv` "
         f"({len(ledger)} systems and instruments, {not_held} of them ***Not held***). Each section opens with "
         f"its ledger; specific events are covered in the monthly updates. Figures are dated because most are "
         f"time-varying.*",
@@ -795,13 +926,12 @@ def render(unit, today):
         block("summary"),
     ]
     urls = slug_urls()
-    _, tax_label, _ = taxonomy()
     for _, section, key in ordered:
-        rows = [r for r in ledger if r["section"] == section]
+        rows = [r for r in ledger if section_of(r, subj) == section]
         out += ["", f"## {section}", ""]
         if rows:
             for subject, srows in by_subject(rows):
-                out += [f"### {tax_label.get(subject, subject)}", "", status_table(srows, urls), ""]
+                out += [f"### {taxonomy_lib.label(subject)}", "", status_table(srows, urls), ""]
         else:
             out += [f"_The base holds no {section.lower()} rows for {name}. A thin evidence base is a "
                     f"finding, not a gap in this document._", ""]
@@ -830,11 +960,16 @@ def render_monthly(unit, today, month, end=None):
     path = os.path.join(folder, f"{unit}-monthly.md")
     start, end = month_bounds(month, 1, end or today)
     changed = moved_in(ledger, start, end)
-    ordered, _ = sections(unit)
-    block, keep, dropped = blocker(path)
+    ordered, subj = sections(unit)
+    block, keep, dropped = blocker(path, subj)
     not_held = sum(1 for r in ledger if stem(r["status"]) == NOT_HELD)
     name = place_name(unit)
-    pretty = datetime.date.fromisoformat(start).strftime("%B %Y")
+    # **The title names both months the window covers** *(Bill, 2026-08-25)*. A monthly opens on
+    # the first of last month and runs to the day it is cut, so "July 2026" on a document issued on
+    # 25 August named the smaller half of its own window and read as an out-of-date page. Where the
+    # window has not yet crossed a month boundary — a report cut inside the month it opens in —
+    # `span()` prints the single month, because "July – July 2026" is a range of one.
+    pretty = month_span(start, end)
     if not changed:
         out = front(f"{name} — monthly update, {pretty}", today, unit, 0, not_held,
                     period=f"{start} to {CLOSE}") + [
@@ -855,17 +990,21 @@ def render_monthly(unit, today, month, end=None):
                 period=f"{start} to {CLOSE}") + [
         f"# {name}: monthly update, {pretty}",
         "",
-        f"*Developments recorded from artefacts published between {start} and {CLOSE} — {pretty} "
-        f"carried forward to the date of issue, so the report holds the nightly catch to the day "
-        f"it was cut. Sections follow the status report.*",
+        # **The window is described, not dated** *(Bill, 2026-08-25)*. The two ISO dates were the
+        # same window the line above and the `period:` field already state, printed a third time
+        # in the one place a reader arrives at first. What that reader needs from the opening
+        # sentence is what the document covers, and "since the beginning of last month" says it in
+        # the terms the country page's blurb uses, so the two agree without either citing a date
+        # that moves nightly.
+        "*Developments summarised from sources published between the beginning of last month and "
+        "today.*",
         "",
         "## Summary of the month",
         "",
         block("summary"),
     ]
-    _, tax_label, _ = taxonomy()
     for _, section, key in ordered:
-        srows = [r for r in changed if r["section"] == section]
+        srows = [r for r in changed if section_of(r, subj) == section]
         groups = by_subject(srows)
         # **A section with nothing in it is not printed at all** *(Bill, 2026-08-14)*. Only the
         # status report states an absence, because only there is "no rows on this subject" a
@@ -879,7 +1018,7 @@ def render_monthly(unit, today, month, end=None):
         # A subject the section maps but that had nothing move gets no sub-heading and no block.
         for subject, _srows in groups:
             subkey = f"{key}--{subject.replace('.', '-')}"
-            out += [f"### {tax_label.get(subject, subject)}", "", block(subkey)]
+            out += [f"### {taxonomy_lib.label(subject)}", "", block(subkey)]
     out.append("")
     return write(path, out, unit, f"{len(changed)} row(s) in {start} to {end}, "
                  f"{note_drop(dropped, unit)}", today, end)
@@ -894,12 +1033,12 @@ def render_progress(unit, today, month, window, end=None):
     if not ledger:
         print(f"{unit}: ledger is empty — nothing to render")
         return 1
-    ordered, _ = sections(unit)
+    ordered, subj = sections(unit)
     prof = profile(unit)
     urls = slug_urls()
     path = os.path.join(folder, f"{unit}-progress.md")
     start, end = month_bounds(month, window, end or today)
-    block, keep, dropped = blocker(path)
+    block, keep, dropped = blocker(path, subj)
     not_held = sum(1 for r in ledger if stem(r["status"]) == NOT_HELD)
     held = [r for r in ledger if stem(r["status"]) != NOT_HELD]
     name = place_name(unit)
@@ -932,14 +1071,22 @@ def render_progress(unit, today, month, window, end=None):
     movers = [r for r in held if mv(r) in ("Advanced", "Stalled", "Regressed", "Closed")]
     unbased = [r for r in held if mv(r) == BASELINE_NOT_HELD]
     steady = [r for r in held if mv(r) == NO_CHANGE]
-    out = front(f"{name} — progress report, {start} to {CLOSE}", today, unit, len(ledger), not_held,
+    # The title carries the window as months rather than as two ISO dates *(Bill, 2026-08-25)*:
+    # "August 2025 – August 2026" is the span a reader is being offered, and it needs no `CLOSE`
+    # sentinel because it only moves when the window crosses into a new month, which is a real
+    # change to the document. The movement tables below still print the exact close, where the
+    # exact date is the point.
+    span = month_span(start, end)
+    opener = ([f"*Compiled {today} by Claude Opus from the documents in the Corpus repository. "
+               f"{prof['sections_note']} Each opens with a movement ledger comparing the position "
+               f"at the start and end of the period, which runs to the date of issue rather than "
+               f"to the last month's close.*", ""]
+              if prof["sections_note"] else [])
+    out = front(f"{name} — progress report, {span}", today, unit, len(ledger), not_held,
                 period=f"{start} to {CLOSE}") + [
-        f"# {name}: progress report, {start} to {CLOSE}",
+        f"# {name}: progress report, {span}",
         "",
-        f"*Compiled {today} from the Data Landscapers source base. {prof['sections_note']} Each "
-        f"opens with a movement ledger comparing the position at the start and end of the period, "
-        f"which runs to the date of issue rather than to the last month's close.*",
-        "",
+    ] + opener + [
         f"*Of {len(ledger)} {prof['objects']} on this place's ledger, {len(movers)} changed "
         f"position between {start} and {CLOSE}, {len(steady)} did not, {len(unbased)} carry no "
         f"stated baseline, and {not_held} {'is' if not_held == 1 else 'are'} ***Not held*** at "
@@ -955,19 +1102,18 @@ def render_progress(unit, today, month, window, end=None):
         "",
         block("summary"),
     ]
-    _, tax_label, _ = taxonomy()
     # Movement first within a subject group: an unchanged row is reference matter, a moved
     # one is the report.
     rank = {NO_CHANGE: 2, BASELINE_NOT_HELD: 3}
     for _, section, key in ordered:
-        rows = [r for r in held if r["section"] == section]
+        rows = [r for r in held if section_of(r, subj) == section]
         # A section with no rows at either end of the window is not printed *(Bill, 2026-08-14)* —
         # see the note in render_monthly. Only the status report states an absence.
         if not rows:
             continue
         out += ["", f"## {section}", ""]
         for subject, srows in by_subject(rows):
-            out += [f"### {tax_label.get(subject, subject)}", "",
+            out += [f"### {taxonomy_lib.label(subject)}", "",
                     f"| {prof['object']} | At {start} | At {CLOSE} | Movement |",
                     "|---|---|---|---|"]
             for r in sorted(srows, key=lambda r: (rank.get(mv(r), 0), r["name"].lower())):
@@ -1062,14 +1208,19 @@ def check_vocab(unit):
     """Check I — the two vocabularies are closed, and every Not held row is in gaps.csv."""
     _, ledger, gaps = load(unit)
     bad = []
-    # A row whose `section` is not one this unit's map names renders nowhere at all — the section
-    # loop filters on equality, so a typo silently deletes the row from the document rather than
-    # failing. The region map made this reachable: two processes, two sets of section names.
-    known = {s for _, s, _ in sections(unit)[0]}
+    # A row whose subject this unit's map does not carry renders nowhere at all — the section loop
+    # filters on equality, so it silently drops out of the document rather than failing.
+    #
+    # **The test is on `subject`, not on `section`** *(2026-08-25)*. It used to check the stored
+    # section against the map, which could only catch a typo; the section is now derived from the
+    # subject, so the subject is the field a mistake can be made in and the only one worth
+    # checking. For a country that means the taxonomy — a subject outside `taxonomy.csv` has no
+    # Level-1 parent — and for a region, the region's own section map.
+    _, subj = sections(unit)
     for r in ledger:
-        if (r.get("section") or "").strip() not in known:
-            bad.append(f"{r['row_id']}: section {r.get('section')!r} is not in this unit's section "
-                       f"map — the row would render in no section")
+        if (r.get("subject") or "").strip() not in subj:
+            bad.append(f"{r['row_id']}: subject {r.get('subject')!r} is not in this unit's "
+                       f"vocabulary — the row would render in no section")
         if (r.get("kind") or "instrument") == "measure":
             continue
         if stem(r["status"]) not in STATUSES:

@@ -9,7 +9,7 @@ The Bulletin section is heading, this paragraph and nothing else *(Bill, 2026-08
 
 ## hero
 
-Corpus is a repository of public documents covering digital transformation, digital public infrastructures and data governance across Africa. It is updated daily. 
+Corpus is a repository of summaries and indices of public documents covering digital transformation, digital public infrastructures and data governance across Africa. It is updated daily. It is a free service for all working towards the digital transformation of Africa.
 
 ## bulletin-intro
 
@@ -17,7 +17,7 @@ The bulletin lists all new content published today and yesterday. The first buil
 
 ## countries-intro
 
-The repository covers all 54 countries. For each country four reports have been built and are modified whenever newly arrived content merits an update. The ***Status Report*** attempts to summarise the current state of all components of the digital transformation landscape, The ***Monthly Update*** reference all new content published since the beginning of the last calendar month. The ***Progress Report*** attempts to track whether the tracked components have advanced, stalled or regressed over the past 12 months. ***Non-state Finance*** list all known financial commitments made since 2015. A fifth report on state budgeting and expenditure is outstanding.
+The repository covers all 54 African countries. For each country four reports have been built and are modified whenever newly arrived content merits an update. The ***Status Report*** attempts to summarise the current state of all components of the digital transformation landscape, The ***Monthly Update*** reference all new content published since the beginning of the last calendar month. The ***Progress Report*** attempts to track whether the tracked components have advanced, stalled or regressed over the past 12 months. ***Non-state Finance*** list all known financial commitments made since 2015. A fifth report on state budgeting and expenditure is outstanding.
 
 
 ## regions-intro

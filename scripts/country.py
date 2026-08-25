@@ -44,8 +44,12 @@ because the build cannot read outside `outputs/` — the same duplication
 `scripts/home.py` already carries, and osint-corpus-exchange/notes-for-osint.md #9 flags it as a
 standing note rather than a pattern to repeat deliberately.
 
-Budget work is suspended, so `{ISO3}-summary.csv` is not read and no budget
-block appears.
+Budget work is suspended, so `{ISO3}-summary.csv` is not read and no budget figures appear. The
+page nevertheless carries a *Public budgeting and expenditure* heading saying the work is under
+way *(Bill, 2026-08-25)* — the same reasoning the wiki applies to a known vacuum: a reader who
+finds nothing about budgets cannot tell an absent subject from an absent finding, and the heading
+is what makes the difference visible. It states a horizon, not a placeholder, so it carries no
+"coming soon" and no date.
 """
 
 from __future__ import annotations
@@ -105,7 +109,11 @@ FULL_NAMES = {
 KIND = {
     "status": ("Status report", copy_inline("country", "report-status")),
     "monthly": ("Monthly update", copy_inline("country", "report-monthly")),
-    "progress": ("Twelve-month progress report", copy_inline("country", "report-progress")),
+    # "Progress report", not "Twelve-month progress report" *(Bill, 2026-08-25)*. The window is
+    # in the document's own title and in the row beneath this label, so the qualifier was saying
+    # twice what the reader was about to read once — and it was the only one of the three labels
+    # that did not read as a document type.
+    "progress": ("Progress report", copy_inline("country", "report-progress")),
 }
 
 # The status report changes shape when `STATUS-INIT` has run on a country: a table of ledger rows
@@ -215,19 +223,50 @@ def report_meta(iso: str, kind: str) -> dict:
     return {}
 
 
-def catalogue(iso: str) -> tuple[int, int, list[tuple[str, int]]]:
-    """Records held for the place, records held in all, and the commonest
-    publishers for the place."""
+def catalogue(iso: str) -> tuple[int, int, list[str], list[dict]]:
+    """Records held for the place, records held in all, the catalogue's column
+    spec, and the place's own rows.
+
+    **The rows come back because the page now publishes them** *(Bill, 2026-08-25,
+    item 9)*. The country cut is the published catalogue with rows removed and
+    nothing else — same columns, same order, cut by the same `places` test the
+    count above is made with, so the number in the paragraph and the number of
+    lines in the file cannot disagree.
+
+    The commonest-publishers tally went at the same time: it was a ranking of who
+    files the most press releases, which is a fact about the newswire rather than
+    about the country, and it sat on the page as though it were a finding."""
     n = total = 0
-    pubs: dict[str, int] = defaultdict(int)
-    with open(OUTPUTS / "catalogue" / "raw-catalogue.csv", encoding="utf-8-sig") as fh:
-        for row in csv.DictReader(fh):
+    rows: list[dict] = []
+    with open(OUTPUTS / "catalogue" / "raw-catalogue.csv", encoding="utf-8-sig", newline="") as fh:
+        reader = csv.DictReader(fh)
+        cols = list(reader.fieldnames or [])
+        for row in reader:
             total += 1
             if iso in (row.get("places") or ""):
                 n += 1
-                pubs[(row.get("publisher") or "").strip()] += 1
-    top = sorted(((p, c) for p, c in pubs.items() if p), key=lambda x: -x[1])[:6]
-    return n, total, top
+                rows.append(row)
+    return n, total, cols, rows
+
+
+def publish_catalogue_cut(iso: str, out_dir: Path, cols: list[str], rows: list[dict]) -> str:
+    """Write `{ISO3}-catalogue.csv` beside the page and return its filename.
+
+    **Not an edition, for the same reason the whole catalogue is not one** (`design.md` §9): it
+    is an index over other people's records rather than a compiled finding of ours, so it lives
+    at an undated URL and is republished wholesale on every build. That is the one place this
+    file differs from the non-state finance CSV beside it, which *is* an edition and is dated.
+
+    Written `utf-8-sig` with CRLF, which is `csv.DictWriter`'s own default and what
+    `build-catalogue.py` writes — a country cut that opened worse in Excel than the whole file it
+    came from would be the same mojibake `documentation/catalogue-filtered-download.md` records
+    against the large download on 2026-08-25, reintroduced one file down."""
+    path = out_dir / f"{iso}-catalogue.csv"
+    with open(path, "w", encoding="utf-8-sig", newline="") as fh:
+        w = csv.DictWriter(fh, fieldnames=cols, lineterminator="\r\n")
+        w.writeheader()
+        w.writerows(rows)
+    return path.name
 
 
 def finance(iso: str) -> list[dict]:
@@ -297,8 +336,13 @@ def pivot(rows: list[dict]) -> str:
         f'<td class="num">{num(sum(cell[s][c] for s in order))}</td>' for c in cols)
     grand = num(sum(v for s in order for v in cell[s].values()))
 
+    # **"Topic", not "Sector"** *(Bill, 2026-08-25)*. The underlying CSV column is still `sector`
+    # and is not renamed — it is the compiled field, and every published edition carries it — but
+    # the word on the page was doing a different job from the word in the schema: a reader arriving
+    # from the Topics tab reads these rows as topics, and "sector" collides with the economic sense
+    # the finance vocabulary uses elsewhere.
     return f"""<table class="pivot">
-        <thead><tr><th scope="col">Sector</th>{head}<th class="num total">Total</th></tr></thead>
+        <thead><tr><th scope="col">Topic</th>{head}<th class="num total">Total</th></tr></thead>
         <tbody>
 {chr(10).join(body)}
         </tbody>
@@ -314,21 +358,12 @@ def pivot(rows: list[dict]) -> str:
 # component, which applies them by column name rather than by position.
 
 
-MONTHS = ("January February March April May June July August September "
-          "October November December").split()
-
-
-def period_label(kind: str, period: str) -> str:
-    """`2026-07-01 to 2026-08-05` reads as a range on a progress report and as
-    noise on a monthly one, where the month is the point. Taken from the
-    frontmatter, not the filename: a progress report is named for the month it
-    was cut in but covers the twelve months before it."""
-    if not period:
-        return ""
-    if kind == "monthly":
-        y, m, _ = period.split(" ")[0].split("-")
-        return f"{MONTHS[int(m) - 1]} {y}"
-    return period.replace(" to ", " &ndash; ")
+# `period_label()` and its month names retired 2026-08-25 (Bill). The row printed the window a
+# second time — "Edition of 2026-08-25 · July 2026 · 102 tracked" against a document whose own
+# title is "monthly update, July 2026", and "2025-08-01 – 2026-08-25" against a progress report
+# that says the same in its heading. The blurb beside it now carries the window in words ("since
+# the beginning of last month"), which is what a reader choosing between four documents needs;
+# the exact dates belong in the document, not in the index to it.
 
 
 def tracked(iso: str) -> tuple[str, str]:
@@ -367,17 +402,17 @@ def report_rows(rows: list[dict], iso: str) -> str:
                          if meta.get("sources_cited") else ""))
             r = {**r, "blurb": BASELINE_BLURB}
         elif meta.get("ledger_rows"):
-            counts = (f'{meta["ledger_rows"]} tracked'
-                      + (f', <span class="nh">{meta["not_held"]} not held</span>'
-                         if meta.get("not_held") else ""))
-        label = period_label(r["kind"], meta.get("period", ""))
-        period = f' &nbsp;·&nbsp; {label}' if label else ""
+            # **The not-held count comes off the row** *(Bill, 2026-08-25)*. It is a fact about
+            # the ledger's own completeness, which belongs inside the document where the marked
+            # rows are visible and countable; on an index row it was a number with nothing to
+            # attach to and read as a defect notice on the report a reader had not yet opened.
+            counts = f'{meta["ledger_rows"]} sources tracked'
         out.append(f"""
       <div class="report-row">
         <div class="report-row__main">
           <div class="report-row__kind">{r['label']}</div>
           <div class="report-row__blurb">{r['blurb']}</div>
-          <div class="report-row__meta">Edition of <span class="mono">{r['edition']}</span>{period}
+          <div class="report-row__meta">Edition of <span class="mono">{r['edition']}</span>
             {' &nbsp;·&nbsp; ' + counts if counts else ''}</div>
         </div>
         <div class="report-row__acts">
@@ -423,7 +458,7 @@ COUNTRY = """<!DOCTYPE html>
 
     <div class="country-head">
       <h1>{name}</h1>
-      <div class="country-head__meta">{iso} &nbsp;·&nbsp; page built {built}</div>
+      <div class="country-head__meta">{iso} &nbsp;·&nbsp; last updated {built}</div>
     </div>
 
     <div class="stat-bar">
@@ -437,25 +472,23 @@ COUNTRY = """<!DOCTYPE html>
     <h2 class="section-heading">Reports</h2>
 {reports}
 
-    <h2 class="section-heading">Sources</h2>
-    <p>The base holds <strong>{sources} records</strong> for {name}, of {cat_total} in all. The catalogue is metadata &mdash; title, publisher, date, facets and the publisher&rsquo;s own link &mdash; never the source body. Every figure in the reports above resolves to one of these records.</p>
-    <p class="pubs">Most frequent publishers: {publishers}</p>
+    <h2 class="section-heading">Catalogue</h2>
+    <p>{catalogue_intro}</p>
     <div class="table-acts">
       <a class="btn" href="{base}/catalogue/#places={iso}">Browse {name} in the catalogue &rarr;</a>
-      <a class="btn" href="../../catalogue/raw-catalogue.csv" download>&darr; Catalogue CSV</a>
+      <a class="btn btn--accent" href="{cat_csv}" download>&darr; {name} catalogue CSV</a>
     </div>
 
     <h2 class="section-heading">Non-state finance</h2>
 {finance_section}
 
-    <div class="callout">
-      Vault access, source bodies included, is granted on request. <a href="{base}/method/">How this base is built &rarr;</a>
-    </div>
+    <h2 class="section-heading">Public budgeting and expenditure</h2>
+    <p>{budget_intro}</p>
 
     <div class="colophon">
       <strong>About this page</strong>
       <dl>
-        <dt>Built</dt><dd class="mono">{built}</dd>
+        <dt>Last updated</dt><dd class="mono">{built}</dd>
         <dt>Licence</dt><dd><a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></dd>
       </dl>
     </div>
@@ -470,10 +503,10 @@ COUNTRY = """<!DOCTYPE html>
 </html>
 """
 
-FINANCE_BLOCK = """    <p>Commitments to {name}&rsquo;s digital sector from financiers other than the state &mdash; development finance, foundations, vendors and operators. Figures are the amount announced, in the year announced, converted from the announcing party&rsquo;s own currency at a dated rate. They are commitments, not disbursements, and a multi-year commitment sits wholly in its start year.</p>
+FINANCE_BLOCK = """    <p>Commitments to {name}&rsquo;s digital sector from financiers other than the state &mdash; development finance, foundations, vendors and operators. Figures are in US Dollars, converted from the announcing party&rsquo;s own currency at a rate dated to the year of announcement. They are commitments, not disbursements, and a multi-year commitment sits wholly in its start year.</p>
 
 {pivot}
-    <p class="table-note">US$m committed, by sector and year of commitment. &lsquo;-{cutoff}&rsquo; aggregates every year before {cutoff}. An empty cell is a year with no commitment recorded, not a zero.</p>
+    <p class="table-note">US$m committed, by topic and year of commitment. &lsquo;-{cutoff}&rsquo; aggregates every year before {cutoff}. An empty cell is a year with no commitment recorded, not a zero.</p>
 
     <div class="table-acts">
       <a class="btn" href="finance.html">Full table &mdash; {fin_n} commitments, all {ncols} fields &rarr;</a>
@@ -573,11 +606,12 @@ def build(iso: str) -> list[Path]:
     meta = frontmatter((OUTPUTS / "reports" / iso / f"{iso}-status.md")
                        .read_text(encoding="utf-8"))
     fin = finance(iso)
-    n_place, n_all, pubs = catalogue(iso)
+    n_place, n_all, cat_cols, cat_rows = catalogue(iso)
     built = date.today().isoformat()
 
     out_dir = OUT / iso
     out_dir.mkdir(parents=True, exist_ok=True)
+    cat_csv = publish_catalogue_cut(iso, out_dir, cat_cols, cat_rows)
 
     common = dict(
         base=SITE_BASE, main_site=MAIN_SITE, iso=iso, name=name,
@@ -606,14 +640,16 @@ def build(iso: str) -> list[Path]:
 
     (out_dir / "index.html").write_text(COUNTRY.format(
         tracked=tracked(iso)[0],
-        sources=f"{n_place:,}", cat_total=f"{n_all:,}",
-        publishers=", ".join(f"<span>{e(p)} ({c})</span>" for p, c in pubs),
+        sources=f"{n_place:,}", cat_total=f"{n_all:,}", cat_csv=cat_csv,
+        catalogue_intro=copy_inline("country", "catalogue-intro",
+                                    sources=f"{n_place:,}", name=name),
+        budget_intro=copy_inline("country", "budget-intro"),
         reports=report_rows(report_editions(iso), iso),
         finance_section=finance_section,
         styles=styles(2, "home.css", "country.css"),
         **common), encoding="utf-8")
 
-    written = [out_dir / "index.html"]
+    written = [out_dir / "index.html", out_dir / cat_csv]
 
     if fin:
         (out_dir / "finance.html").write_text(FINANCE.format(
