@@ -1,18 +1,18 @@
 ---
 title: Ethiopia — progress report, August 2025 – August 2026
-compiled: 2026-08-25
-period: 2025-08-01 to 2026-08-25
+compiled: 2026-08-26
+period: 2025-08-01 to 2026-08-26
 place: ETH
-ledger_rows: 96
+ledger_rows: 97
 not_held: 5
-record: fa1d84db9ca5
+record: f384f19f8c35
 ---
 
 # Ethiopia: progress report, August 2025 – August 2026
 
-*Of 96 systems and instruments on this place's ledger, 67 changed position between 2025-08-01 and 2026-08-25, 12 did not, 12 carry no stated baseline, and 5 are ***Not held*** at both ends.*
+*Of 97 systems and instruments on this place's ledger, 68 changed position between 2025-08-01 and 2026-08-26, 12 did not, 12 carry no stated baseline, and 5 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 196 sources for this place in the window — 45 in the earlier half (2025-08 to 2026-01), 151 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+*Shape check, run before the comparison: 198 sources for this place in the window — 45 in the earlier half (2025-08 to 2026-01), 153 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -28,7 +28,7 @@ Ethiopia's foundational layers — the identity, the payments rails, the health 
 
 ### Strategies, plans and policies
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Digital Ethiopia 2030 | Did not exist | [Three pillars; targets of 128m subscriptions and an identity for every adult by 2030](https://www.ena.et/web/eng/digital-ethiopia-2030-launch) | Advanced |
 | National Data Governance Strategy | Did not exist | [In development; health the most fragmented sector, at 70+ siloed platforms](https://dial.global/ethiopias-approach-to-use-cases/) | Advanced |
@@ -40,7 +40,7 @@ Ethiopia's foundational layers — the identity, the payments rails, the health 
 
 ### Legislation and regulation
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Berne Convention accession | Did not exist | [Draft ratification proclamation submitted to the Council of Ministers; Ethiopia not yet a party](https://www.thereporterethiopia.com/52113/) | Advanced |
 | Copyright Proclamation 410/2004 online-infringement amendment | Did not exist | [Draft would add internet service provider duties, procedures for blocking infringing sites and a rights-holder take-down notice to the 2004 proclamation](https://www.thereporterethiopia.com/52113/) | Advanced |
@@ -52,7 +52,7 @@ Ethiopia's foundational layers — the identity, the payments rails, the health 
 
 ### Data protection
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Data request to diplomatic missions | Did not exist | [A foreign ministry note asking all accredited diplomatic missions and international and regional organisations to submit lists and addresses of every Ethiopian and foreign employee without diplomatic privileges, together with tenant and landlord details](https://birrmetrics.com/foreign-ministry-asks-diplomatic-missions-for-staff-and-property-records/) | Advanced |
 | Data sharing arrangement under the health memorandum | Did not exist | [The two governments intend to negotiate an arrangement for exchanging data on the memorandum's long-term performance and for accountability to the United States Congress, expected to run two years beyond the five-year term; a rights organisation's reading of the seven signed memoranda puts Ethiopia among five whose text requires unilateral sharing of specimens and pathogen-sequencing data, and all seven as requiring broad audit access. No text is published, and the State Department briefly posted a subset in March 2026, then removed access](https://www.hrw.org/news/2026/06/08/human-rights-assessment-of-the-2025-2026-us-bilateral-health-agreements) | Advanced |
@@ -61,7 +61,7 @@ Ethiopia's foundational layers — the identity, the payments rails, the health 
 
 ### Regional collaboration
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Digital identity cooperation with Zambia | Did not exist | [Identity cooperation agreed](https://www.biometricupdate.com/202603/zambia-looking-for-mosip-system-integrator-to-support-digital-id-project) | Advanced |
 | Digital public infrastructure export to Mozambique | Did not exist | [Digital-ID, DPI-pilot, interoperability and cybersecurity support to Mozambique, with a joint working group](https://clubofmozambique.com/news/mozambique-and-ethiopia-sign-mou-to-boost-digital-identity/) | Advanced |
@@ -69,11 +69,17 @@ Ethiopia's foundational layers — the identity, the payments rails, the health 
 
 ### Standards
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | National Livestock Data Standards | Did not exist | [Endorsed, with more than 300 experts and collectors trained](https://developmentgateway.org/blog/building-lasting-dpi-through-local-ownership-lessons-from-ethiopias-livestock-information-system/) | Advanced |
 | Ethiopian eGovernment Interoperability Framework | In development (2024-07) | [Still in development](https://www.capitalethiopia.com/2024/07/ethiopia-egovernment-interoperability) | No change |
 | MOSIP open-source identity platform | In use (2025-05) | [The reference implementation the wider ecosystem points to](https://www.youtube.com/watch?v=B_iGkxWXNbg) | No change |
+
+### Public debate and participation in policymaking
+
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
+|---|---|---|---|
+| Climate information integrity project | Did not exist | [A project on climate-change disinformation and information integrity in African digital ecosystems, focused on Uganda and Ethiopia and supported by a UNESCO-led global initiative, combining research mapping how climate disinformation spreads and who drives it with a fact-checking masterclass at the 2026 internet-freedom forum, online training for journalists and civil society, and tracking of African governments' communications ahead of the November 2026 climate conference](https://cipesa.org/2026/08/cipesa-and-unesco-partner-on-project-to-strengthen-climate-change-information-integrity-in-africa/) | Advanced |
 
 <!-- narrative: governance -->
 Nothing here changed maturity either.
@@ -89,14 +95,14 @@ In June 2026 a court struck down licence revocation without a court order, on re
 
 ### Domestic budget appropriations and expenditure
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Federal appropriation for digital transformation | ETB 3.75bn appropriated for FY2025/26 | [ETB 9.05bn for FY2026/27, dominated by the AI university line](https://www.fanamc.com/english/ethiopian-parliament-ratifies-2-34-trillion-birr-federal-budget-for-2026-27-fiscal-year/) | Advanced, mostly the birr float rather than real growth |
 | Published budget execution for FY2025/26 | None published | [H1 FY2025/26: ETB 704.7bn mobilised, 48.1% of the annual target, against ETB 798.2bn spent, 48.3% of the approved budget](https://www.mofed.gov.et/media/filer_public/ee/f5/eef50cc8-4871-425e-b738-33fe9ed649e0/mid_year_review_2025_26_final_2.pdf) | Advanced |
 
 ### New investments
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Digitally enabled pluralistic extension services programme (FAO) | Did not exist | [US$300,000 FAO grant (2026-2028) converting a catalytic start-up initiative into a long-term programme delivering agricultural extension services through digital channels](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=XM-DAC-41301-763888) | Advanced |
 | World Bank Digital ID for Inclusion Project | US$350m approved, with no disbursement or performance rating on file | [Rated Satisfactory on both development objective and implementation progress, 23% disbursed with US$46.4m disbursed since the start of the 2026 financial year, and about 190,000 refugee registrations against 170,000 identity issuances](https://documents1.worldbank.org/curated/en/099051826153515642/pdf/P179040-74a164c1-0bb2-49b6-8b5f-2da36395da02.pdf) | Advanced |
@@ -110,7 +116,7 @@ The federal digital appropriation held position as a system while its numbers mo
 
 ### Connectivity
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Ethio Telecom network | Nationwide incumbent network (2025-08) | [99.8% coverage (2026-04) on 90.1m subscribers; 215.8bn Birr revenue in FY2025/26 with data and internet 31.1% of it against mobile voice at 23.5%, operating profit 92.9bn Birr](https://techafricanews.com/2026/04/20/ethio-telecom-reaches-99-8-coverage-accelerates-smart-infrastructure-development/) | Advanced, in reach and revenue |
 | Network expansion contracts from MWC 2026 | Did not exist | [Ericsson 1,500 sites and 502 upgrades under the MWC contracts; separately, 879 sites completed under the ZTE programme (462 RAN modernisation, 237 microwave-link upgrades, 103 IP RAN sites), 92% 4G population coverage across ZTE's own network footprint, with 124 new sites, 272 U2100 refarming sites and 115 rural sites still to come](https://addisstandard.com/ethio-telecom-announces-strategic-network-expansion-agreements-with-ericsson-zte-huawei-nokia-at-barcelona/) | Advanced |
@@ -121,21 +127,21 @@ The federal digital appropriation held position as a system while its numbers mo
 
 ### Data Storage
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Wingu Cloud Exchange in-country cloud | Did not exist | [Compute, Kubernetes and storage priced in birr, hybrid with Azure and AWS](https://www.connectingafrica.com/cloud-networking/wingu-africa-debuts-cloud-exchange-platform-in-ethiopia) | Advanced |
 | Data-centre estate | ***Baseline not held*** | [Named among the markets diversifying Africa's estate, against South Africa's 60%+ share (2026-07)](https://businessday.ng/technology/article/investors-pour-into-africas-digital-backbone-as-data-centre-projects-near-900-mw/) | ***Baseline not held*** |
 
 ### Energy
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Bitdeer Oromia bitcoin-mining site | Did not exist | [40 MW operating with 20 MW in progress](https://www.bitdeer.com/news/oromia-ethiopia-update) | Advanced |
 | Ethio Telecom Green Operator renewable network programme | 27 MW installed solar at the FY2024/25 close, derived | [39.72 MW installed solar across 190 fully solar-powered sites, 867 hybrid solar-and-battery systems and 1,114 lithium-ion storage units, with diesel generator running time down by up to 40%](https://techafricanews.com/2026/08/04/ethio-telecom-combines-reforestation-with-renewable-telecom-infrastructure-expansion/) | Advanced |
 
 ### Cybersecurity
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | INSA cybersecurity and sovereign-cloud foundations | Did not exist | [Sovereign cloud and forensic laboratory stated in the strategy, not built](https://www.ena.et/web/eng/digital-ethiopia-2030-launch) | Advanced |
 
@@ -151,14 +157,14 @@ What arrived is foreign compute: a bitcoin-mining site on cheap power, an in-cou
 
 ### Data Exchange
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | National data exchange platform | Did not exist | [Approved and paired with a predictive model; not built](https://birrmetrics.com/mesob-meets-the-monster-it-was-built-to-kill/) | Advanced |
 | EthSwitch national switch | ***Baseline not held*** | [Links M-PESA to more than 30 banks and wallets; EthQR across 50,000+ merchants](https://itweb.africa/article/m-pesa-ethiopia-surges-258-as-ethswitch-fuels-growth/) | ***Baseline not held*** |
 
 ### Digital Identity and CRVS
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Biometric enrolment kits for banks | Did not exist | [2,000 of 6,000 planned distributed, about US$17m, with 4,000 re-tendered](https://www.biometricupdate.com/202511/ethiopia-banks-receive-biometric-kits-to-expand-digital-id-enrollment) | Advanced |
 | Ethio Telecom as identity enrolment channel | Enrolling since 2024-04 | [About 32m citizens enrolled, 20.19m in FY2025/26; custody and consent terms not stated](https://www.ena.et/web/eng/w/eng_9268046) | Advanced |
@@ -170,7 +176,7 @@ What arrived is foreign compute: a bitcoin-mining site on cheap power, an in-cou
 
 ### Digital Payments and Fintech
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Digital transactions at the dominant state bank | No transaction series held for the bank | [3.48 billion digital transactions worth more than 22 trillion birr in the 2025/26 fiscal year, put at about 70 per cent of the value of national digital financial transactions, with the bank moving its information-systems architecture to an AI-supported zero-trust model](https://capitalethiopia.com/2026/08/16/ai-driven-cyber-threats-raise-alarm-for-ethiopias-financial-sector/) | Advanced |
 | EthioPay national instant payment system | Did not exist | [Account-to-account and wallet-to-wallet across 32 banks and 12 microfinance institutions](https://www.bpcbt.com/ethiopia-instant-payments-smartvista) | Advanced |
@@ -186,7 +192,7 @@ What arrived is foreign compute: a bitcoin-mining site on cheap power, an in-cou
 
 ### Sectoral management information systems
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | America First Global Health Strategy memorandum of understanding | Did not exist | [Planned United States support of US$1,016,000,000 across 2026-2030 against Ethiopia's US$450,000,000, of which US$18,850,149 is for health data systems on a profile falling from US$6,283,383 in 2026 to US$1,256,677 in 2030, with Ethiopia to carry software licensing, cloud, hardware and maintenance costs for those systems; the United States reserves 6% of the top-line budget for its own management and operations, and Ethiopia signed through the Minister of Finance](https://www.citizen.org/wp-content/uploads/2026-0004QN-Ethiopia-Health-12.23.2025.pdf) | Advanced |
 | DHIS2 national health information system | National since 2018, 95%+ of facilities | [95%+ of facilities, maturity 2.81 of 5 with ICT infrastructure weakest at 2.14, and functionality for calculating reports received against reports expected available in 75.0% of data offices assessed](https://researchonline.lshtm.ac.uk/id/eprint/4679144/) | Advanced |
@@ -197,7 +203,7 @@ What arrived is foreign compute: a bitcoin-mining site on cheap power, an in-cou
 
 ### Other GovTech and e-Gov
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | MESOB unified public-service platform | 41 services across 12 federal agencies (2025-07) | [The platform's own public catalogue states 180+ government services from 23 named provider organisations, among them the public procurement authority, the transport ministry, the state commercial bank, the state telecommunications operator and the food and drug authority, each service listed with its required documents, processing time and fees. The far larger figure the base also holds is on a different basis and not a later one: a government communication of 20 April 2026 claims 2,260 services integrated into a single platform, two months before the 185 stated at the June 2026 launch, so the two counts run concurrently rather than showing a twelvefold rise. Services are onboarded ahead of the underlying systems, on two incompatible integration models](https://mesobcenter.et/) | Advanced |
 | Unmanned smart police station | Did not exist | [Round-the-clock kiosks for reports, fines and documents](https://www.ena.et/web/eng/smart-police-station) | Advanced |
@@ -216,7 +222,7 @@ Payments arrived in layers: an instant payment system, a telco-agnostic wallet, 
 
 ### Digitalisation of sub-national government
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Addis Ababa one-stop digital service centres | ***Baseline not held*** | [11 one-stop centres carrying more than 150 services from more than 25 integrated institutions; no volumes, cost or evaluation published](https://www.amn.gov.et/en/addis-ababas-digital-one-stop-platform-streamlines-government-services-bringing-over-150-services-under-one-digital-system-official/) | ***Baseline not held*** |
 
@@ -228,14 +234,14 @@ Payments arrived in layers: an instant payment system, a telco-agnostic wallet, 
 
 ### AI
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | AI service bundles in the mobile-money app | Did not exist | [Generative-AI bundles bought with M-PESA and redeemed by SMS voucher](https://techafricanews.com/2026/07/22/m-pesa-ethiopia-and-gebeya-partner-to-bring-ai-tools-to-mobile-users/) | Advanced |
 | Ethiopian Artificial Intelligence Institute | Operating (2020) | [Built MESOB and anchors the state's AI capability claim](https://birrmetrics.com/ethiopia-signs-up-to-new-global-artificial-intelligence-alliance/) | No change |
 
 ### ICT Industry
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Vodacom change of control over Safaricom | Did not exist | [Completed; the Ethiopian regulatory approval is not on the record](https://techcabal.com/2026/07/27/vodacom-processed-548-billion/) | Advanced |
 | Domestic engineering services firms | ***Baseline not held*** | [One named Addis Ababa engineering services firm, founded 2021 (2026-07)](https://www.wearetech.africa/fr/fils/tech-stars/nebyu-zekariyas-zewde-met-l-ingenierie-tech-ethiopienne-au-service-du-monde) | ***Baseline not held*** |
@@ -248,7 +254,7 @@ No maturity changed. The institutional base — an AI institute since 2020 and a
 
 ### Research institutions
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | AI University Innovation Pod | Did not exist | [Running with UNDP and Addis Ababa University](https://www.connectingafrica.com/ai/ethiopia-launches-ai-unipod-to-drive-innovation) | Advanced |
 | Artificial Intelligence University construction | Did not exist | [A single named capital project; no site or timetable published](https://www.mofed.gov.et/media/filer_public/c1/de/c1de6f52-b57e-4a94-91ff-cc22a2c751b8/2019_e_c_budget_year_goe_federal_budget_proclamation_part_two_updated.xlsx) | Advanced |
@@ -262,7 +268,7 @@ No maturity changed. The institutional base — an AI institute since 2020 and a
 
 ### Access to services
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Identity mandate for school enrolment and examinations | Did not exist | [Identity required for school enrolment and examinations](https://www.ena.et/web/eng/fayda-28-million) | Advanced |
 | Mobile connections and internet penetration | 85.4m connections at 63.8% of population (early 2025) | [93.2m connections at 68.4% (late 2025)](https://datareportal.com/reports/digital-2026-ethiopia) | Advanced |
@@ -271,7 +277,7 @@ No maturity changed. The institutional base — an AI institute since 2020 and a
 
 ### Digital divides
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Makatet refugee-inclusion framework | Did not exist | [Covers 1.1m refugees and 2m internally displaced people](https://www.biometricupdate.com/202607/fayda-digital-id-critical-for-ethiopias-five-year-refugee-inclusion-strategy) | Advanced |
 | Universal Access Fund levy | Did not exist | [About 2.5bn birr a year from Ethio Telecom and Safaricom](https://www.thereporterethiopia.com/49962/) | Advanced |
@@ -287,7 +293,7 @@ Neither headline measurement was re-taken inside the window: [mobile connections
 
 ### Use of satellite data
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Licensing framework for LEO satellite operators | In force (2021-07) | [Satellite services licensable as a GMPCS landing-right class authorisation; no LEO operator authorised on record](https://www.eca.et/wp-content/uploads/2022/10/2022-03-24T06-45-04.775ZTelecommunications-Licensing-Directive-No.-792-2021-English.pdf) | No change |
 
@@ -299,7 +305,7 @@ Neither headline measurement was re-taken inside the window: [mobile connections
 
 ### China activities
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Ethio Telecom and Huawei enterprise stack | Did not exist | [Scoping only; no value or term disclosed](https://www.biometricupdate.com/202607/ethio-telecom-huawei-partner-to-expand-ethiopias-digital-infrastructure) | Advanced |
 | Inspur and Shandong data-centre track | Did not exist | [Planned; no site or value stated](https://techafricanews.com/2026/07/16/ethio-telecom-eyes-strategic-partnership-with-inspur-to-accelerate-digital-transformation/) | Advanced |
@@ -308,7 +314,7 @@ Neither headline measurement was re-taken inside the window: [mobile connections
 
 ### India activities
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | RailTel data-centre build | Did not exist | [Planned](https://railtel.in/images/pdf/Press%20Release_RailTel%20to%20build%20Data%20Centre%20in%20Ethiopia.pdf) | Advanced |
 

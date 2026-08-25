@@ -1,11 +1,11 @@
 ---
 title: Morocco — monthly update, July – August 2026
-compiled: 2026-08-25
-period: 2026-07-01 to 2026-08-25
+compiled: 2026-08-26
+period: 2026-07-01 to 2026-08-26
 place: MAR
-ledger_rows: 39
+ledger_rows: 43
 not_held: 17
-record: b79e809b0004
+record: 432cc06a323b
 ---
 
 # Morocco: monthly update, July – August 2026
@@ -106,6 +106,11 @@ A platform already carrying national data went under inspection instead. The hea
 
 <!-- narrative: dpi--dpi-id -->
 The government council approved a draft decree on 9 July 2026 amending the 2008 biometric passport decree: four languages including Amazigh, an encrypted chip to international civil aviation standard, the holder's address removed from the biodata page and temporary passports abolished ([approval account](https://en.hespress.com/141646-morocco-to-introduce-new-biometric-passport-featuring-amazigh-english-starting-august.html)). Issuance is expected from August 2026, and the joint body that will set issuance procedures is not yet in place.
+<!-- /narrative -->
+### Registries
+
+<!-- narrative: dpi--dpi-registry -->
+The month's registry work is a membership audit rather than a build. The interior ministry [launched a wide screening and update of the membership rolls of collective land communities, with circulars sent to community delegates through local authority officials from 22 August 2026, beginning in two regions and open to extension nationwide](https://www.hespress.com/الداخلية-تطلق-عملية-واسعة-لـغربلة-لو-1794573.html). Each listed member is to be verified for actual affiliation, legal majority and residence under law 62.17 and its implementing decree, on a single methodology so that criteria stop varying from one community to another.
 <!-- /narrative -->
 ### Sectoral management information systems
 
