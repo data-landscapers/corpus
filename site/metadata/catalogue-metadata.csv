@@ -1,4 +1,6 @@
-﻿published,The date the document was published
+﻿Column,Definition
+published,The date the document was published
+date_precision,"Whether the published date is precise to day, month or year"
 ingested,The date the document was added to Corpus
 title,Title of the document
 publisher,Publisher
@@ -9,8 +11,7 @@ entities,Tag ids for organisations or people regularly referenced in documents
 words,The length of the document in word count
 finance,A flag indicating whether the document deals with financing
 url,The public url of the original document
-slug,The is of the metadata record in Corpus
-date_precision,"Whether the published date is precise to day, month or year"
+slug,The key of the metadata record in Corpus
 lens,
 body_completeness,
 artefact,
