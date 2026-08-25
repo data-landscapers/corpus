@@ -1,16 +1,16 @@
 ---
 title: Central African Republic — monthly update, July 2026
-compiled: 2026-08-23
-period: 2026-07-01 to 2026-08-23
+compiled: 2026-08-25
+period: 2026-07-01 to 2026-08-25
 place: CAF
-ledger_rows: 19
-not_held: 19
-record: 0df2d06d3ff3
+ledger_rows: 21
+not_held: 15
+record: 2b2eaaa81096
 ---
 
 # Central African Republic: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-23 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-25 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -109,4 +109,12 @@ The [privatisation memorandum's move to an operational phase](https://www.agence
 
 <!-- narrative: ai-tech--geopol-gulf -->
 The [digital finance and land-banking memorandum signed at Bangui on 30 July](https://www.journaldebangui.com/rca-bangui-renforce-son-partenariat-avec-les-emirats-arabes/) is the only Gulf-state item the base holds for the country at any date, and its counterparty is otherwise undocumented. It carries no commitment figure, disbursement schedule, timetable or governance arrangement, and registers as intent rather than finance.
+<!-- /narrative -->
+
+## Inclusion and capacity
+
+### Research institutions
+
+<!-- narrative: inclusion--capacity-research -->
+Nothing moved in the research base this period. What changed is the record: the base had carried no university, statistics-institute or donor research document for the country at all, and now holds the University of Bangui's [Institut superieur de technologie](https://www.univ-bangui.org/technologie/), which supplies most of the country's professional engineering graduates and runs a master's in engineering sciences. The page carries no date, enrolment or research-output figure, so the position it settles is one of existence rather than of scale.
 <!-- /narrative -->

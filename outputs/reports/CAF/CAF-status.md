@@ -1,6 +1,6 @@
 ---
 title: Central African Republic — digital transformation and data governance status report
-compiled: 2026-08-21
+compiled: 2026-08-25
 place: CAF
 region: XCA
 built_by: STATUS-INIT
@@ -8,7 +8,7 @@ hub_last_reviewed: 2026-07-26
 intersections_read: 6
 sources_cited: 95
 sections_written: 37
-not_established: 4
+not_established: 3
 acquire_lines: 27
 ---
 ## ICT Infrastructure
@@ -27,7 +27,7 @@ Government connectivity figures measure something else entirely: the [roughly 30
 ### Data Storage
 <!-- infra.store -->
 
-A government data centre for the Central African Republic is [still a project rather than a place](https://au-pida.org/prospectus/brochure-onepage.php?id=17), four years after the World Bank's [March 2022 appraisal recorded two of them under construction, one for public financial management and one at the ministry responsible for the digital economy](https://documents1.worldbank.org/curated/en/283361648600399938/pdf/Central-African-Republic-Public-Sector-Digital-Governance-Project.pdf). The ministry facility was [designed as a national platform able to host systems and data from any public or private institution, specified to Tier II with a phase 2 extension to Tier III, and still required co-financing when it was appraised](https://documents1.worldbank.org/curated/en/283361648600399938/pdf/Central-African-Republic-Public-Sector-Digital-Governance-Project.pdf).
+A government data centre for the Central African Republic is [still a project rather than a place](https://au-pida.org/prospectus/brochure-onepage.php?id=17), carried as one of [six new centres a continental programme plans across the community, alongside five existing centres to be reinforced, at a stated total of US$9.00m and a quarter of the way through](https://au-pida.org/prospectus/brochure-onepage.php?id=17), four years after the World Bank's [March 2022 appraisal recorded two of them under construction, one for public financial management and one at the ministry responsible for the digital economy](https://documents1.worldbank.org/curated/en/283361648600399938/pdf/Central-African-Republic-Public-Sector-Digital-Governance-Project.pdf). The ministry facility was [designed as a national platform able to host systems and data from any public or private institution, specified to Tier II with a phase 2 extension to Tier III, and still required co-financing when it was appraised](https://documents1.worldbank.org/curated/en/283361648600399938/pdf/Central-African-Republic-Public-Sector-Digital-Governance-Project.pdf).
 
 <!-- derived -->
 Three foreign-backed data centre projects for the country were announced in the eighteen months to July 2026: a memorandum of understanding with AIAL Group in January 2025, a Tier 3 build written into the SOCATEL privatisation memorandum in September 2025, and a Huawei proposal in May 2026. Each of them remains at memorandum or announcement stage, and an announcement is not a facility.
@@ -274,7 +274,7 @@ Formal qualifications run through [the University of Bangui's Institut Supérieu
 ### Research institutions
 <!-- capacity.research -->
 
-No Central African research institution was producing published work on the country's digital development as at August 2026.
+No Central African research institution was producing published work on the country's digital development as at August 2026. The teaching base exists: the University of Bangui's [Institut superieur de technologie supplies most of the country's professional engineering graduates in civil, industrial, computing, mining and geological engineering, and runs a master's in engineering sciences](https://www.univ-bangui.org/technologie/), on a page carrying no enrolment or output figure of its own.
 
 ## Digitalisation
 
