@@ -2,6 +2,30 @@
 
 *(**Addressed to Claude Code, not to Bill.** Every instruction in this file is an instruction to the session that runs the rebuild; nothing in it asks Bill for anything, and nothing in it needs his agreement. It exists because the work was done in Cowork, which cannot run the build — the workroot junctions to OSINT do not resolve in its sandbox, so `raw/` reads as absent and every renderer that checks the catalogue against the base refuses to start. The design reasoning is elsewhere: `design.md` → §3 and §9, `report-layer.md` → §1 and §5, `report-country-skeleton.md` → Sections. This file is only what to run, in what order, and what the run will find.)*
 
+## Run 2026-08-25 19:16-19:35, on Windows — done, and what it found
+
+*(Added by the session that ran it. This section is the outcome; everything from *What changed, in one list* onwards is the original instruction, left exactly as written so the two can be compared.)*
+
+The sequence ran as prescribed and nothing had to be forced. `build-catalogue.py` from `scripts/.workroot/` (10,959 sources, no diff — `raw/` had not moved since the 17:03 build), then `rebuild.py --reports all` over 57 units, then `--check`, then the render loop, `home.py`, `topic-page.py`, `country.py`, `finance.py`. **Checks G, I, J and M pass on all 57 units.** 242 of 242 documents rendered, none failed, none unlisted. Every country-page change verified in the output. Deployed and mirrored.
+
+**Six things the instruction did not predict, in the order they came up.**
+
+**Run `rebuild.py` from the repo root, not from the workroot.** It builds the workroot itself, so from inside one it tries to junction `.workroot/scripts/.workroot/scripts` and dies. `build-catalogue.py` is the opposite — it derives its base from `__file__`, so it wants `python scripts/build-catalogue.py` **from** `scripts/.workroot/`, where that path resolves through the junction. `build-finance-page.py` is the same. Worth knowing before the first traceback rather than after it.
+
+**229 unwritten blocks, not 206**, in exactly the four predicted chapters: capacity 67, data 62, geopolitics 54, digitalisation 46. The shape of the prediction was right and the count was low, because the monthlies carry these blocks too. **No reader-visible defect**: the sections carry their tables and sub-headings, and what is missing is the editorial paragraph. Check L fails on 54 units and gates nothing.
+
+**Check M failed once, on DZA**, which the instruction did not anticipate. `DZA-dpi.govtech-dzair-services` cited `2026-08-20-aps-hcn-six-energy-digital-services`, which the base does not hold — and holds no APS record of that story at all, one APS record in the whole base and it is from last December. The Algérie Eco record that does carry it, `2026-08-21-algerie-eco-hcn-six-energy-digital-services`, already sat **first** in the row's `sources`, so the claim's evidence was never in doubt and the dead slug was simply dropped.
+
+**The 76 topic documents and the bulletin held their editions off, and were repaged.** Their markdown had not moved, so §9's gate correctly left their PDFs alone — which would have left 77 report pages on the site without the contents bar their siblings had just gained. `render.py --repage` exists for exactly this: it rewrote the served pages under the held editions, no PDF and no new edition. Verified afterwards that the held PDFs' mtimes did not move.
+
+**The finance compile was run**, because the instruction anticipates the `gov.policy` relabel reaching the finance tables *once it reruns*. It did — 28 exports, `Strategies plans and policies` → `"Strategies, plans and policies"` — and it brought in one deal the base had gained since it last ran (CDC-CI Capital's seed grants, Côte d'Ivoire). `finance.py` then minted `all-nonstate-2026-08-25.csv`, a correctly-dated edition.
+
+**Two stale statements were found and fixed rather than reported.** `RENDER.md` Step 6 still described an `all.html` that `finance.py` has deleted on sight since 2026-08-19, in three places. `report-render.py`'s module docstring still said a country unit reads `report-country-sections.csv`, while its country profile has carried `"sections": None` since this change. Both are Corpus's own files.
+
+**And the two things the instruction left for whoever could reach them are done.** `scripts/test_bulletin.py`'s one-word fix is made and **all ten test files now pass** (`test_render_gate.py` included — it wanted WeasyPrint, which is present here; `test_catalogue_export.py` skips for want of `node`). The `[FYI]` is written to the share as **`notes-for-osint.md` note 43**, committed and pushed.
+
+`documentation/progress-report-scope.md` is untouched, as instructed. Its own recommendation — write the admission test, apply it to the view, reclassify only if the test needs types stated crisply — is Bill's to take.
+
 ## What changed, in one list
 
 Code, all in `scripts/`:
