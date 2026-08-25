@@ -5,7 +5,7 @@ period: 2025-08-01 to 2026-08-25
 place: ZAF
 ledger_rows: 150
 not_held: 23
-record: 7fb19e8500ae
+record: 87d2cbad0f82
 ---
 
 # South Africa: progress report, 2025-08-01 to 2026-08-25
@@ -14,7 +14,7 @@ record: 7fb19e8500ae
 
 *Of 150 systems and instruments on this place's ledger, 74 changed position between 2025-08-01 and 2026-08-25, 8 did not, 44 carry no stated baseline, and 23 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 607 sources for this place in the window — 60 in the earlier half (2025-08 to 2026-01), 547 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+*Shape check, run before the comparison: 608 sources for this place in the window — 60 in the earlier half (2025-08 to 2026-01), 548 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -74,7 +74,7 @@ Most stated delivery dates in the period moved.
 | System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | FSCA enforcement against online financial harm | 107 public warnings; R119.8m penalties (FY2024/25) | [140 public warnings; R2.89bn penalties on 76 persons (FY2025/26)](https://www.itweb.co.za/article/social-media-is-sas-biggest-financial-scam-vehicle/8OKdWMDXxQrMbznQ) | Advanced |
-| Lengau supercomputer security breach and remediation | Did not exist | [Cause attributed to vulnerabilities in the legacy high-performance computing system, with a remediation and resilience programme since run across access controls, privileged-access management, network segmentation, patch management and monitoring](https://www.itweb.co.za/article/cause-of-breach-on-sas-supercomputer-revealed/KPNG878NLeGq4mwD) | Advanced |
+| Lengau supercomputer security breach and remediation | Did not exist | [Cause attributed to vulnerabilities in the legacy high-performance computing system, with a remediation and resilience programme since run across access controls, privileged-access management, network segmentation, patch management and monitoring, and an internal accountability review still running](https://pmg.org.za/committee-question/39940/) | Advanced |
 | Ransomware attacker dwell time | 117 days (2024) | [18 days in 2025 on a digital-forensics firm's own incident statistics, with some intrusions running start to finish inside a day, attributed to ransomware-as-a-service, automated reconnaissance and AI-assisted attacks](https://www.itweb.co.za/article/ransomware-gangs-intensify-attacks-in-sa/lLn147mQzxP7J6Aa) | Advanced |
 | Departmental information security officer training programme | Not held | [The public service and administration department is tendering to build a training programme for departmental information security officers across the public sector, to implement the directive on public service information security](https://www.itweb.co.za/article/top-ict-tenders-dpsa-targets-info-security-officer-training/WnpNgM21Zx87VrGd) | ***Baseline not held*** |
 

@@ -3,16 +3,16 @@ title: Africa — progress report, 2025-08-01 to 2026-08-25
 compiled: 2026-08-25
 period: 2025-08-01 to 2026-08-25
 place: XAF
-ledger_rows: 103
+ledger_rows: 105
 not_held: 3
-record: fc709ac760af
+record: 3ace61943756
 ---
 
 # Africa: progress report, 2025-08-01 to 2026-08-25
 
 *Compiled 2026-08-25 from the Data Landscapers source base. Sections run from the region's institutions outwards to what funds them. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
 
-*Of 103 bodies, instruments and systems on this place's ledger, 50 changed position between 2025-08-01 and 2026-08-25, 10 did not, 40 carry no stated baseline, and 3 are ***Not held*** at both ends.*
+*Of 105 bodies, instruments and systems on this place's ledger, 50 changed position between 2025-08-01 and 2026-08-25, 10 did not, 42 carry no stated baseline, and 3 are ***Not held*** at both ends.*
 
 *Shape check, run before the comparison: 628 sources for this place in the window — 71 in the earlier half (2025-08 to 2026-01), 557 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
@@ -166,6 +166,7 @@ The Union's non-binding data instrument acquired a rough measure of its reach. A
 | Privileged access management for the African Union Commission's own networks | Did not exist | [A request for bids for the supply and installation of a privileged access management solution for the Commission's own networks (Ref. ET-AUC-560865-GO-RFB), amended on 21 August 2026 to push the bid deadline from 27 August to 10 September 2026 and to restate the licence requirement as 8 administrator, 40 enterprise privileged-user, 25 business-user and 5 external-vendor subscriptions on three-year terms, with training raised from six staff to eight](https://au.int/sites/default/files/Addendum%2001%20PAM.pdf) | Advanced, slipped |
 | Reported cybercrime losses across the continent | About US$192m reported (2024) | [About US$484m reported, more than double the 2024 figure, drawn from 36 member countries, with artificial intelligence involved in 55% of surveyed 2025 cybercrime cases and deepfake incidents up sevenfold between the second and fourth quarters of 2024; against that, only 8% of intelligence analysts are recorded as having advanced artificial-intelligence expertise and 94% of agencies as lacking digital forensics tools, and a single Ugandan deepfake investment scam is put at over US$2m of losses](https://www.linfodrome.com/international/124117-cybermenace-en-afrique-l-ia-impliquee-dans-plus-d-un-crime-sur-deux-interpol) | Regressed |
 | Vendor-measured attack volume across the continent | None published | [African organisations averaged 3,237 attacks a week in July 2026 against a global average of 2,336, behind Latin America at 3,561 and Asia-Pacific at 3,316; Angola was highest of the African markets broken out at 5,714, then Nigeria at 4,975, Kenya at 2,915 and South Africa at 2,195. Ransomware victims were up 87% year on year and the continent posted the world's highest phishing rate at 1 in 106 emails](https://techtrends.africa/ransomware-attacks-double-year-over-year/) | Advanced |
+| Standing in the global cybersecurity index | ***Baseline not held*** | [Mauritius, Rwanda, Kenya, Tanzania and Ghana in the top tier; Benin, Togo, Zambia and South Africa in the second; the majority of the continent below, scored across legal, technical and organisational measures, capacity building and international cooperation](https://fraudforensics.substack.com/p/africas-standing-in-the-global-cybersecurity) | ***Baseline not held*** |
 
 ### Data Exchange
 
@@ -237,6 +238,7 @@ The layer's own use figures were restated rather than measured afresh: an indust
 | Body, instrument or system | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | ADLI cohort on the AfCFTA Digital Identity Annex | Did not exist | [Six countries across three trade corridors working on compliance with the annex, on a test-and-learn basis; no assessment or mutual-recognition decision held](https://dial.global/adli-cohort-advances-integration/) | Advanced |
+| Smart Africa digital identity blueprint | ***Baseline not held*** | [The alliance secretariat's first-edition blueprint for mutually recognised digital identity across member states, setting out the trust alliance, levels of assurance and the case for interoperable identity, drawn up after a member-state workshop](https://smartafrica.org/wp-content/uploads/2020/12/BLUEPRINT-SMART-AFRICA-ALLIANCE-%E2%80%93-DIGITAL-IDENTITY-LayoutY.pdf) | ***Baseline not held*** |
 
 ### Strategies, plans and policies
 

@@ -1,16 +1,16 @@
 ---
 title: Uganda — monthly update, July 2026
-compiled: 2026-08-24
-period: 2026-07-01 to 2026-08-24
+compiled: 2026-08-25
+period: 2026-07-01 to 2026-08-25
 place: UGA
-ledger_rows: 70
+ledger_rows: 71
 not_held: 16
-record: d8a0556b3607
+record: b5991541d5a5
 ---
 
 # Uganda: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-24 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-25 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
