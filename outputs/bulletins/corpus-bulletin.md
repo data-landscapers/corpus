@@ -1,12 +1,12 @@
 ---
 type: bulletin
 title: Bulletin
-subtitle: Last updated 24-08-2026 at 23:06 — Covering sources published on 24 August 2026
+subtitle: Last updated 25-08-2026 at 07:30 — Covering sources published on 24 and 25 August 2026
 window_start: 2026-08-24
 window_end: 2026-08-25
-items: 31
-collected_to: 2026-08-24 23:06
-compiled: 2026-08-24 23:06
+items: 34
+collected_to: 2026-08-25 07:30
+compiled: 2026-08-25 07:30
 ---
 
 # Bulletin
@@ -38,6 +38,8 @@ compiled: 2026-08-24 23:06
 <select id="bulletin-country">
 <option value="">All countries</option>
 <option value="BWA">Botswana</option>
+<option value="BFA">Burkina Faso</option>
+<option value="CAF">CAR</option>
 <option value="CMR">Cameroon</option>
 <option value="CIV">Côte d'Ivoire</option>
 <option value="EGY">Egypt</option>
@@ -127,6 +129,14 @@ AWS is pitching a sovereign-by-design cloud to African enterprises as localisati
 </div>
 
 ### Regional collaboration
+
+<div class="bulletin-item" data-places="CAF" markdown="1">
+
+**[Development of Data Centre Infrastructures Underpinning the Digital Economy (PIDA project prospectus)](https://au-pida.org/prospectus/brochure-onepage.php?id=17)** — African Union / AUDA-NEPAD (PIDA), 25 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/CAF/" title="CAF">CAR</a>
+
+A continental infrastructure prospectus would put six new data centres in Burundi, the Central African Republic, Sao Tome and Principe, Chad, Equatorial Guinea and Gabon, and reinforce five existing centres in Angola, the Republic of Congo, Cameroon, Rwanda and the Democratic Republic of the Congo. It is costed at US$9m across the eleven countries, is a quarter of the way through, and is still at project-definition stage. <span class="bulletin-item__also">*Also under [Data Storage](#data-storage) and [Cybersecurity](#cybersecurity).*</span>
+
+</div>
 
 <div class="bulletin-item bulletin-item--xref" data-places="GHA MWI" markdown="1">
 
@@ -300,6 +310,14 @@ Summarised under [New investments](#new-investments).
 
 ### Data Storage
 
+<div class="bulletin-item bulletin-item--xref" data-places="CAF" markdown="1">
+
+**[Development of Data Centre Infrastructures Underpinning the Digital Economy (PIDA project prospectus)](https://au-pida.org/prospectus/brochure-onepage.php?id=17)** — African Union / AUDA-NEPAD (PIDA), 25 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/CAF/" title="CAF">CAR</a>
+
+Summarised under [Regional collaboration](#regional-collaboration).
+
+</div>
+
 <div class="bulletin-item bulletin-item--xref" data-places="NGA KEN ZAF" markdown="1">
 
 **[Africa's data sovereignty push is reshaping the AI race, and AWS wants in](https://techcabal.com/2026/08/24/africas-data-sovereignty-push-is-reshaping-ai-race-aws-wants-in/)** — TechCabal, 24 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/NGA/" title="NGA">Nigeria</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a><a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/ZAF/" title="ZAF">South Africa</a>
@@ -320,6 +338,14 @@ South Africa's science minister told the National Assembly that the late-May bre
 
 ### Cybersecurity
 
+<div class="bulletin-item bulletin-item--xref" data-places="CAF" markdown="1">
+
+**[Development of Data Centre Infrastructures Underpinning the Digital Economy (PIDA project prospectus)](https://au-pida.org/prospectus/brochure-onepage.php?id=17)** — African Union / AUDA-NEPAD (PIDA), 25 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/CAF/" title="CAF">CAR</a>
+
+Summarised under [Regional collaboration](#regional-collaboration).
+
+</div>
+
 <div class="bulletin-item bulletin-item--xref" data-places="KEN" markdown="1">
 
 **[Kenya Appoints Martin Koyabe as Inaugural Chair of National Cybersecurity Agency](https://techafricanews.com/2026/08/24/kenya-appoints-martin-koyabe-inaugural-chair-national-cybersecurity-agency/)** — Tech Africa News, 24 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/KEN/" title="KEN">Kenya</a>
@@ -339,6 +365,14 @@ Summarised under [Technical Capacity](#technical-capacity).
 ## DPI
 
 ### Digital Identity and CRVS
+
+<div class="bulletin-item" data-places="BFA" markdown="1">
+
+**[Police Nationale du Burkina Faso - CNIB](https://www.police.gov.bf/index.php/infos-utiles/cnib)** — Police Nationale du Burkina Faso, 25 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/BFA/" title="BFA">Burkina Faso</a>
+
+The national police's standing page for Burkina Faso's identity card sets out what the outgoing credential is and how it is checked: compulsory from the age of fifteen, valid for ten years, and matched at the identification office against demographic similarity and fingerprints, with facial biometrics added to that stack in 2009. The page carries no date of its own, and the card it describes is the one the regional biometric card has been replacing since December 2025. <span class="bulletin-item__also">*Also under [Access to services](#access-to-services).*</span>
+
+</div>
 
 <div class="bulletin-item" data-places="ETH" markdown="1">
 
@@ -602,6 +636,14 @@ Airtel Africa Foundation and the Dar Teknohama Business Incubator have opened an
 
 ### Training and skills
 
+<div class="bulletin-item" data-places="CAF" markdown="1">
+
+**[Institut superieur de technologie (Universite de Bangui)](https://www.univ-bangui.org/technologie/)** — Universite de Bangui, 25 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/CAF/" title="CAF">CAR</a>
+
+The University of Bangui's technology institute describes itself as the source of most of the Central African Republic's professional engineering graduates, across civil, industrial, computing, mining and geological engineering, and runs a master's in engineering sciences. It is the first university or research document the base holds for the country, and it publishes no enrolment or output figure of its own. <span class="bulletin-item__also">*Also under [Research institutions](#research-institutions).*</span>
+
+</div>
+
 <div class="bulletin-item bulletin-item--xref" data-places="EGY" markdown="1">
 
 **[Standard Chartered Foundation Launches Women in Tech Accelerator in Egypt](https://techafricanews.com/2026/08/24/standard-chartered-foundation-women-in-tech-accelerator-egypt/)** — Tech Africa News, 24 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/EGY/" title="EGY">Egypt</a>
@@ -626,7 +668,27 @@ Summarised under [Connectivity](#connectivity).
 
 </div>
 
+### Research institutions
+
+<div class="bulletin-item bulletin-item--xref" data-places="CAF" markdown="1">
+
+**[Institut superieur de technologie (Universite de Bangui)](https://www.univ-bangui.org/technologie/)** — Universite de Bangui, 25 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/CAF/" title="CAF">CAR</a>
+
+Summarised under [Training and skills](#training-and-skills).
+
+</div>
+
 ## Inclusion
+
+### Access to services
+
+<div class="bulletin-item bulletin-item--xref" data-places="BFA" markdown="1">
+
+**[Police Nationale du Burkina Faso - CNIB](https://www.police.gov.bf/index.php/infos-utiles/cnib)** — Police Nationale du Burkina Faso, 25 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/BFA/" title="BFA">Burkina Faso</a>
+
+Summarised under [Digital Identity and CRVS](#digital-identity-and-crvs).
+
+</div>
 
 ### Digital divides
 
