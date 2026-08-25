@@ -1,11 +1,11 @@
 ---
 title: Senegal — monthly update, July – August 2026
-compiled: 2026-08-25
-period: 2026-07-01 to 2026-08-25
+compiled: 2026-08-26
+period: 2026-07-01 to 2026-08-26
 place: SEN
-ledger_rows: 63
+ledger_rows: 65
 not_held: 14
-record: 32cc896a8f40
+record: d3b4aee31fdf
 ---
 
 # Senegal: monthly update, July – August 2026
