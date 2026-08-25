@@ -1,11 +1,11 @@
 ---
 title: Malawi — monthly update, July – August 2026
-compiled: 2026-08-25
-period: 2026-07-01 to 2026-08-25
+compiled: 2026-08-26
+period: 2026-07-01 to 2026-08-26
 place: MWI
-ledger_rows: 57
+ledger_rows: 60
 not_held: 57
-record: c7298efd25a1
+record: a5d34c260931
 ---
 
 # Malawi: monthly update, July – August 2026
@@ -82,6 +82,11 @@ The revenue authority's own resilience improved on donor money. Its [World Bank-
 
 <!-- narrative: ict-infrastructure--infra-energy -->
 The minister cited an 8% rise in electricity tariffs and a roughly 144% rise in fuel prices in the operators' cost case ([parliamentary account](https://www.nyasatimes.com/malawi-seeks-new-mobile-operators-to-boost-competition-after-tariff-backlash/)).
+<!-- /narrative -->
+### Cybersecurity
+
+<!-- narrative: ict-infrastructure--infra-cybersec -->
+The month's cybersecurity item is a loss rather than a control. The state oil company [was defrauded of K700m after attackers hijacked email from its Mozambican fuel-handling contractor and supplied false banking details, instructing its bank on 29 April 2026 to wire US$403,605 to a fraudulent account](https://malawi24.com/2026/08/24/malawi-loses-k700m-in-nocma-cyber-heist/); the fraud surfaced two weeks later when the genuine contractor demanded payment, and was confirmed publicly on 24 August 2026. The company attributes the control weaknesses to the government-to-government fuel procurement model being introduced before operational and cybersecurity procedures were in place. No regulator finding, prosecution or recovery is on file.
 <!-- /narrative -->
 
 ## DPI

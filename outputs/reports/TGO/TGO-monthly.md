@@ -1,11 +1,11 @@
 ---
 title: Togo — monthly update, July – August 2026
-compiled: 2026-08-25
-period: 2026-07-01 to 2026-08-25
+compiled: 2026-08-26
+period: 2026-07-01 to 2026-08-26
 place: TGO
-ledger_rows: 35
+ledger_rows: 38
 not_held: 39
-record: 3681d85c9cc9
+record: f2e5747ec77b
 ---
 
 # Togo: monthly update, July – August 2026
@@ -97,6 +97,11 @@ The month's other payments development is private and points outward. A domestic
 
 <!-- narrative: dpi--dpi-registry -->
 The [second national birth-registration catch-up campaign opened at Agbandi on 31 July](https://atop.tg/identite-juridique-la-deuxieme-campagne-nationale-de-rattrapage-des-enregistrements-de-naissances-lancee/), targeting a further 6,461 children across 25 communes and taking the two campaigns to 11,461. The same report [carries the funder's figure of nearly 7,400 for the same campaign](https://atop.tg/identite-juridique-la-deuxieme-campagne-nationale-de-rattrapage-des-enregistrements-de-naissances-lancee/), and the two are not reconciled.
+<!-- /narrative -->
+### Sectoral management information systems
+
+<!-- narrative: dpi--dpi-mis -->
+Togo put a [national platform online centralising climate-risk data for public decision-making across agriculture, forestry, water resources, tourism and energy](https://www.togofirst.com/en/itc/2408-19852-togo-launches-platform-to-improve-climate-risk-monitoring). Indicators on droughts and floods are entered by field agents, checked by sector focal points and regional officials before national consolidation, time-stamped to leave an audit trail, and viewable at regional, prefecture and municipal level; it was developed by the environment ministry with technical support from a UN agency and climate-fund financing, and follows the regional adaptation plans adopted by all five regions in 2025. The source gives no launch date.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 

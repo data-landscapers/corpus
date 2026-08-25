@@ -1,11 +1,11 @@
 ---
 title: Rwanda — monthly update, July – August 2026
-compiled: 2026-08-25
-period: 2026-07-01 to 2026-08-25
+compiled: 2026-08-26
+period: 2026-07-01 to 2026-08-26
 place: RWA
-ledger_rows: 50
+ledger_rows: 52
 not_held: 9
-record: 6d0b9acfcbce
+record: 11c6ed3e8645
 ---
 
 # Rwanda: monthly update, July – August 2026
@@ -151,6 +151,11 @@ As at 3 August the development bank is [the sole committed backer, at US$6m, of 
 The digital-ambassador programme that [trained 1,567,034 citizens](https://www.ktpress.rw/2026/05/koica-and-rwanda-successfully-conclude-project-to-boost-digital-literacy-through-the-digital-ambassador-program-dap/) concluded its financing phase in May 2026 and no successor financing is held.
 
 Where training did continue it went to the top of the system rather than the bottom. The United Nations development programme's quarterly account of 1 August records [artificial-intelligence trust-and-safety training delivered to senior officials, financial and telecommunications actors and the judiciary, funded by Canada](https://www.undp.org/sites/g/files/zskgke326/files/2026-08/intambwe_q2_26.pdf). Participant numbers, curriculum and cost are not stated, and the funder's own newsletter is the only account of it held.
+<!-- /narrative -->
+### Research institutions
+
+<!-- narrative: capacity--capacity-research -->
+An [academic security operation centre is running through a university network based in Rwanda, described as operating on multiple levels to meet cybersecurity monitoring needs and to build a cybersecurity workforce in Rwanda and beyond](https://www.africa.engineering.cmu.edu/news/2026/08/24-academic-security-operation-center.html). No monitored-estate, incident or staffing figure is published, so what the centre does at scale cannot be stated from the base.
 <!-- /narrative -->
 
 ## Inclusion

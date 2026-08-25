@@ -1,11 +1,11 @@
 ---
 title: Sudan — monthly update, July – August 2026
-compiled: 2026-08-25
-period: 2026-07-01 to 2026-08-25
+compiled: 2026-08-26
+period: 2026-07-01 to 2026-08-26
 place: SDN
-ledger_rows: 23
+ledger_rows: 24
 not_held: 13
-record: 75e068387d87
+record: f0600ef15fea
 ---
 
 # Sudan: monthly update, July – August 2026
@@ -41,6 +41,11 @@ Sudan's national payment switch launched with one bank connected, and a competin
 
 ## ICT Infrastructure
 
+### Connectivity
+
+<!-- narrative: ict-infrastructure--infra-connect -->
+Satellite connectivity moved from contested to locally severed. An armed group [ordered every public market in a West Kordofan locality closed and satellite internet services cut off indefinitely from 26 August 2026](https://sudantribune.net/article/317878), in a decision reported by a local emergency room which warned that severing satellite connectivity would cut displaced families off from relatives and from incoming remittances in a locality already under deteriorating security and living conditions. The order coincided with reinforcements arriving from Darfur.
+<!-- /narrative -->
 ### Cybersecurity
 
 <!-- narrative: ict-infrastructure--infra-cybersec -->
