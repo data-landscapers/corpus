@@ -1,11 +1,11 @@
 ---
 title: Cape Verde — monthly update, July – August 2026
-compiled: 2026-08-25
-period: 2026-07-01 to 2026-08-25
+compiled: 2026-08-26
+period: 2026-07-01 to 2026-08-26
 place: CPV
-ledger_rows: 17
+ledger_rows: 18
 not_held: 45
-record: 8ffffdc984d7
+record: 1073dba4e2a8
 ---
 
 # Cape Verde: monthly update, July – August 2026
@@ -70,6 +70,11 @@ The identity stack is unchanged and its next step is undated. The national ident
 
 <!-- narrative: dpi--dpi-mis -->
 The independent health regulator launched a pharmaceutical market monitoring system on 29 July 2026, tracking the national medicines circuit in real time, forecasting stock-outs and triggering replenishment or redistribution across the archipelago, and integrated with the customs system to detect illegal imports. The regulator states it will support development of electronic prescribing and feed its medicines-authorisation function. No cost, vendor, coverage figure or baseline stock-out rate was published, and the wiki holds no first-party document for it, only a wire report a week after launch.
+<!-- /narrative -->
+### Other GovTech and e-Gov
+
+<!-- narrative: dpi--dpi-govtech -->
+A municipal council [presented a services platform it plans to put into public presentation in October 2026 and into operation by the end of that year, opening with 17 services - applications submitted, cases tracked in real time, payments made and official documents received in digital form with legal validity](https://expressodasilhas.cv/politica/2026/08/25/cmsv-prepara-lancamento-de-plataforma-digital-com-servicos-municipais/104273). It is funded by the UN joint office, whose resident coordinator asked the council to consider integrating further procedures in a second phase, while the minister for family, inclusion, social development and labour argued for keeping and improving traditional counter services for those still facing difficulties with digital access, and for replicating the model in the other municipalities if it succeeds.
 <!-- /narrative -->
 
 ## Technology

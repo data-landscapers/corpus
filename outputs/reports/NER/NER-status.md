@@ -1,15 +1,15 @@
 ---
 title: Niger — digital transformation and data governance status report
-compiled: 2026-08-25
+compiled: 2026-08-26
 place: NER
-ledger_rows: 59
+ledger_rows: 60
 not_held: 3
-record: da5dfbdcf8ed
+record: f16548d6f05e
 ---
 
 # Niger: status report
 
-*Compiled 2026-08-25 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/NER/ledger.csv` (59 systems and instruments, 3 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-26 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/NER/ledger.csv` (60 systems and instruments, 3 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -241,6 +241,7 @@ Below the national identity stack, one municipal service is on record: Niamey's 
 |---|---|---|
 | Electronics assembly plant | [In development](https://www.agenceecofin.com/actualites-numerique/2108-140957-niger-une-usine-locale-d-assemblage-de-smartphones-attendue-d-ici-fin-octobre) | 63 per cent complete at a ministerial site inspection, 2026-08-20 |
 | Foreign supplier of national identity documents | [Implemented](https://www.lesahel.org/signature-de-deux-memorandums-dentente-entre-le-gouvernement-nigerien-et-la-societe-libyenne-al-itissal-al-jadeed-vers-une-numerisation-des-passeports-et-de-la-carte-didentite) | Two memoranda signed with Al Itissal Al Jadeed 2025-06-27 |
+| Local electronics assembly plant | [In development](https://techafricanews.com/2026/08/25/niger-advances-local-electronics-plant-smartphones-computers-tablets/) | More than 60% built at a ministerial inspection of 20 August 2026 |
 
 ### Innovation ecosystem
 

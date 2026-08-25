@@ -1,15 +1,15 @@
 ---
 title: Madagascar — digital transformation and data governance status report
-compiled: 2026-08-25
+compiled: 2026-08-26
 place: MDG
-ledger_rows: 64
+ledger_rows: 65
 not_held: 8
-record: 88ec5fcafdad
+record: 0f35041d5eb0
 ---
 
 # Madagascar: status report
 
-*Compiled 2026-08-25 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/MDG/ledger.csv` (64 systems and instruments, 8 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-26 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/MDG/ledger.csv` (65 systems and instruments, 8 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -38,6 +38,7 @@ Two things ran the other way. The same Council of Ministers [ordered providers t
 |---|---|---|
 | Cybercrime bill overhauling the 2014 law | [In development](https://2424.mg/cybercriminalite-madagascar-veut-renforcer-son-arsenal-juridique-face-a-la-montee-des-menaces-numeriques-boostees-par-lia/) | Revision reported alongside signature of the UN Convention against Cybercrime, 2026-08-15 |
 | Dedicated social-media law | [Planned](https://www.wearetech.africa/fr/fils/actualites/madagascar-annonce-le-blocage-des-sites-diffusant-des-contenus-obscenes) | Announced by the minister of communication, covering harassment, defamation and disinformation |
+| Digital bills before the extraordinary session | [In development](https://midi-madagasikara.mg/assemblee-nationale-sept-textes-au-menu-dune-session-extraordinaire-a-partir-du-25-aout/) | Extraordinary session opened 25 August 2026 |
 | Electronic signature and interoperability decree | [In development](https://newsmada.com/2025/09/13/signature-electronique-et-interoperabilite-madagascar-renforce-le-cadre-juridique/) | Draft regulatory framework validated at a ministry workshop |
 | Order to block pornographic sites at internet service provider level | [Implemented](https://www.wearetech.africa/fr/fils/actualites/madagascar-annonce-le-blocage-des-sites-diffusant-des-contenus-obscenes) | Decision of the Council of Ministers, 8 July 2026, on public-order grounds |
 

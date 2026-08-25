@@ -1,16 +1,16 @@
 ---
 title: Niger — progress report, August 2025 – August 2026
-compiled: 2026-08-25
-period: 2025-08-01 to 2026-08-25
+compiled: 2026-08-26
+period: 2025-08-01 to 2026-08-26
 place: NER
-ledger_rows: 67
+ledger_rows: 68
 not_held: 4
-record: 843f9658f9da
+record: e90fde6e3596
 ---
 
 # Niger: progress report, August 2025 – August 2026
 
-*Of 67 systems and instruments on this place's ledger, 44 changed position between 2025-08-01 and 2026-08-25, 15 did not, 4 carry no stated baseline, and 4 are ***Not held*** at both ends.*
+*Of 68 systems and instruments on this place's ledger, 45 changed position between 2025-08-01 and 2026-08-26, 15 did not, 4 carry no stated baseline, and 4 are ***Not held*** at both ends.*
 
 *Shape check, run before the comparison: 65 sources for this place in the window — 17 in the earlier half (2025-08 to 2026-02), 48 in the later (2026-03 to 2026-08). The two halves are comparable, so the comparison is made over the whole window.*
 
@@ -28,13 +28,13 @@ Over the same period the [public key infrastructure, cybersecurity centre and fo
 
 ### Strategies, plans and policies
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | National digital-development policy | Drafted and unadopted | [Redrafting committee installed 2025-07-18 with one month to update the draft; national validation workshop held 2026-03-11 on three strategic axes - governance/security of the digital sector, infrastructure/services, and skills/innovation - targeting 2035 and aiming to position Niger as a regional fibre-interconnection hub; not yet formally adopted](https://www.lesahel.org/entretien-accorde-a-la-rtn-par-le-ministre-de-la-communication-des-postes-et-de-leconomie-numerique-m-sidi-mohamed-raliou-nous-sommes-en-train-de-construire-un-data-center/) | Advanced |
 
 ### Legislation and regulation
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Civil-status regime | The previous civil-status regime | [Ordonnance n2026-21 of 2026-04-22 with its application decret in force](https://www.lesahel.org/wuri-niger-restructure-une-opportunite-pour-une-identification-universelle-de-la-population-au-service-de-linclusion-et-du-un-puissant-facteur-de-developpement-inclusif-et-une-dimension/) | Advanced |
 | Enforcement against unauthorised satellite resale | No enforcement action on file | [Formal notice against Wifi Zones with a 3 October 2025 deadline, carrying three months to a year and fines to 60m FCFA](https://www.actuniger.com/societe/21307-niger-larcep-declare-la-guerre-aux-wifi-zones-pirates-utilisant-starlink.html) | Advanced |
@@ -42,7 +42,7 @@ Over the same period the [public key infrastructure, cybersecurity centre and fo
 
 ### Data protection
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Haute Autorite de Protection des Donnees a caractere Personnel | Operating | [Operating; no caseload or sanction figures published](https://www.lesahel.org/entretien-avec-le-president-de-la-haute-autorite-de-protection-des-donnees-a-caractere-personnel-hapdp/) | No change |
 | Loi n2022-59 on personal data protection | In force | [In force](https://www.lesahel.org/entretien-avec-le-president-de-la-haute-autorite-de-protection-des-donnees-a-caractere-personnel-hapdp/) | No change |
@@ -50,20 +50,20 @@ Over the same period the [public key infrastructure, cybersecurity centre and fo
 
 ### Regional collaboration
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Algeria and Niger telecommunications cooperation | Did not exist | [Agreed; no programme document or value published](https://techreviewafrica.com/news/4637/algeria-and-niger-strengthen-cooperation-on-telecommunications-and-digital-development) | Advanced |
 | Identity-system cooperation with Burkina Faso | Did not exist | [Mission completed with recommendations on authentic documents and document fraud; no alignment for mutual recognition established](https://www.journalduniger.com/niger-burkina-cooperation-identite-numerique-biometrie/) | Advanced |
 
 ### Standards
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Regulatory action on mobile quality of service | No enforcement action on file | [Mises en demeure served on all four operators on 2026-06-10, with fines of 1 to 3% of prior-year turnover, licence suspension or withdrawal in prospect](https://www.lesahel.org/communications-electroniques-larcep-lance-une-campagne-de-controle-de-la-qualite-des-services-offerts-par-les-operateurs-de-telephonie-mobile-et-dinternet/) | Advanced |
 
 ### Public debate and participation in policymaking
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | PNDN 2026-2035 consultation and validation process | Did not exist | [A redrafting committee installed 2025-07-18 revised the draft policy; a national validation workshop held 2026-03-11 was described by the ministry as the product of broad consultation among public- and private-sector digital-ecosystem actors; no separate open public-comment or civil-society submission channel is named](https://anp.ne/niger-le-projet-de-document-de-politique-nationale-de-developpement-du-numerique-pndn-2026-2035-en-relecture/) | Advanced |
 
@@ -79,7 +79,7 @@ Externally, two bilateral relationships were opened where none was held: [teleco
 
 ### New investments
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Luxembourg-supported Sahel connectivity programme | Pledge announced (2025-01) | [Support package widened to Ericsson and Sweden; no commitment total published](https://itweb.africa/article/ericsson-luxembourg-sweden-support-boosts-sahel-digital-connectivity/Pero3MZ3ozJqQb6m) | Advanced |
 
@@ -91,7 +91,7 @@ The window's one financing movement is external. The Luxembourg-backed Sahel con
 
 ### Connectivity
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Continuous mobile-network monitoring platform | Did not exist | [In service, giving the regulator real-time visibility of operator networks](https://www.lesahel.org/regulation-des-telecommunications-larcep-inaugure-une-plateforme-de-controle-continu-des-reseaux-mobiles/) | Advanced |
 | Domestic national fibre backbone | Did not exist | [2,275 km of fibre across three domestic sections - Niamey-Tillabery, Zinder-Diffa, Agadez-Tahoua - built under an RMB 623.7m (about US$103.8m, constant 2023 dollars) China Eximbank concessional loan signed 2014-01-02, aimed at raising national broadband coverage from 54% to 72%](https://china.aiddata.org/projects/58683/) | Advanced |
@@ -103,13 +103,13 @@ The window's one financing movement is external. The Luxembourg-backed Sahel con
 
 ### Data Storage
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Tier III national data centre | Targeted for delivery by 30 September 2025 | [Provisionally accepted in Niamey on 14 November 2025, Tier III level, linked to the backbone by an 88 km urban fibre loop](https://www.lesahel.org/projet-de-la-dorsale-transsaharienne-a-fibre-optique-un-levier-essentiel-pour-le-desenclavement-numerique-du-niger/) | Advanced, slipped |
 
 ### Cybersecurity
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | National Cybersecurity Centre with a SOC and CERT | Planned | [Planned; nothing on record built](https://www.lesahel.org/installation-dun-comite-national-charge-de-loperationnalisation-et-du-deploiement-des-infrastructures-numeriques-critiques-poser-les-bases-de-la-resilience-et-la-securite-des/) | No change |
 | National Cybersecurity Strategy | In elaboration | [In elaboration; no text published](https://www.lesahel.org/13e-edition-du-symposium-africacert-handshake-2025-le-niger-au-coeur-de-la-strategie-numerique-africaine/) | No change |
@@ -130,13 +130,13 @@ The regulator gained instruments and used them. A [continuous monitoring platfor
 
 ### Data Exchange
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | West African foundational-ID interoperability strategy | Did not exist | [Validated; no implementation step published](https://www.biometricupdate.com/202508/stakeholders-validate-strategy-on-digital-id-interoperability-in-west-africa) | Advanced |
 
 ### Digital Identity and CRVS
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | AES biometric national identity card | Did not exist | [Mandatory at 15 and over, valid five years at 4,500 FCFA, capturing fingerprint, face, voice and iris](https://www.lesahel.org/carte-nationale-didentite-biometrique-aes-lancement-de-lenrolement-de-masse-sous-le-signe-de-la-souverainete-numerique/) | Advanced |
 | AES biometric passport | Did not exist | [Five categories issued to ICAO specification, five years over 34 pages, produced by the Police DST with Al Itissal Al Jadeed](https://www.actuniger.com/politique/22202-passeport-biometrique-aes-le-president-de-la-republique-donne-le-coup-denvoi-de-la-phase-denrolement-du-nouveau-document-de-voyage.html) | Advanced |
@@ -147,7 +147,7 @@ The regulator gained instruments and used them. A [continuous monitoring platfor
 
 ### Digital Payments and Fintech
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Bank-to-wallet interoperability | Did not exist | [Live between Banque Atlantique accounts and mobile wallets](https://www.lesahel.org/communique-de-presse-niger-banque-atlantique-et-nita-renforcent-linteroperabilite-entre-services-bancaires-et-paiement-mobile/) | Advanced |
 | Identity-fee payment kiosks | Did not exist | [Live at enrolment sites, issuing receipts for the enrolment file](https://www.actuniger.com/societe/21937-carte-nationale-didentite-biometrique-cnib-avec-nita-les-demarches-simplifiees-pour-regler-ses-frais-et-se-faire-enroler-en-toute-serenite.html) | Advanced |
@@ -155,7 +155,7 @@ The regulator gained instruments and used them. A [continuous monitoring platfor
 
 ### Registries
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Birth certificates issued in Diffa region | 56% timely declaration (2022) | [173,109 certificates issued July 2023 to July 2026, timely declaration at 88.04% (2025)](https://anp.ne/mise-en-oeuvre-du-programme-de-la-refondation-a-diffa-plus-de-173-000-actes-de-naissance-delivres-entre-juillet-2023-et-juillet-2026/) | Advanced |
 | Birth declaration rate | 53.48% of births registered (2022) | [79% of births registered against 53.48% in 2022 on the WURI-linked series; the interior ministry separately gave 80% in 2026 against 60% in 2023, and UNICEF put the Tahoua region alone at a rise from 69% to 75%](https://www.lesahel.org/dosso-lancement-de-la-tournee-nationale-de-sensibilisation-sur-letat-civil/) | Advanced |
@@ -168,14 +168,14 @@ The regulator gained instruments and used them. A [continuous monitoring platfor
 
 ### Sectoral management information systems
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Integrated state human resources and payroll system | Ageing separate systems on the Solde2Budget platform of 2021 | [16,500 files digitised and 23,000 updated against a scope of about 200,000 public agents](https://www.lesahel.org/conseil-consultatif-de-la-refondation-la-ministre-aissatou-abdoulaye-tondi-explique-aux-conseillers-le-sigrhep/) | Advanced |
 | National e-health master plan 2025-2029 | None published | [Validated and budgeted, covering health information, interoperability, surveillance and cybersecurity](https://www.lesahel.org/atelier-de-la-direction-de-la-e-sante-vers-une-transformation-numerique-du-systeme-de-sante/) | Advanced |
 
 ### Other GovTech and e-Gov
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Tax administration digitalisation | Core systems disrupted by sanctions | [Core systems back at full operation, with a 24/7 digital tax administration sought](https://www.lesahel.org/digitalisation-de-ladministration-fiscale-nigerienne-la-dgi-reunit-les-acteurs-pour-batir-une-trajectoire-de-modernisation-maitrisee-et-progressive/) | Advanced |
 
@@ -193,13 +193,13 @@ Payments interoperated for the first time: [bank-to-wallet transfers in June 202
 
 ### Digitalisation of sub-national government
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Naneye Yarda municipal tax platform | Did not exist | [Live at Niamey with 50 field agents, geolocation of more than 2,000 taxpayers, mobile-money payment via Al Izza and Nita, and automated transaction auditing](https://www.lesahel.org/lancement-du-projet-naneye-yarda-renforcer-la-modernisation-et-lefficacite-des-services-publics-municipaux/) | Advanced |
 
 ### Rural digital data capture
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Villages Intelligents rural inclusion programme | Did not exist | [One centre on record, with women's and girls' digital skills training](https://www.lesahel.org/projet-de-villages-intelligents-de-lansi-a-tabelot-le-numerique-au-service-de-linclusion-et-du-developpement-local/) | Advanced |
 
@@ -211,20 +211,21 @@ Payments interoperated for the first time: [bank-to-wallet transfers in June 202
 
 ### AI
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Illimi programme on AI applied to human security | Did not exist | [One training round completed, run by the UN coordination office with the statistics institute, ANSI and the interior ministry](https://www.lesahel.org/renforcement-de-capacites-en-intelligence-artificielle-appliquee-a-la-securite-humaine-le-bureau-de-la-coordination-des-nations-unies-au-niger-perfectionne-les-connaissances-de-140-cadres-des-s/) | Advanced |
 
 ### ICT Industry
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Electronics assembly plant | Did not exist | [A plant to assemble smartphones, computers and tablets at 63 per cent completion and due in service by the end of October 2026, inspected by a delegation of the ICT and technical-education ministers](https://www.agenceecofin.com/actualites-numerique/2108-140957-niger-une-usine-locale-d-assemblage-de-smartphones-attendue-d-ici-fin-octobre) | Advanced |
+| Local electronics assembly plant | Did not exist | [The communications and vocational-training ministers inspected an electronics assembly plant under construction in the Tillabery region on 20 August 2026, the authorities reporting the smartphone, computer and tablet facility more than 60% built after six months, against 57% of its overall timeline, and framing locally assembled devices for citizens and public institutions as a way to cut dependence on imported equipment](https://techafricanews.com/2026/08/25/niger-advances-local-electronics-plant-smartphones-computers-tablets/) | Advanced |
 | Foreign supplier of national identity documents | Contracted to a Libyan supplier | [Contracted to a Libyan supplier, now producing the card and the passport with a local partner](https://www.lesahel.org/signature-de-deux-memorandums-dentente-entre-le-gouvernement-nigerien-et-la-societe-libyenne-al-itissal-al-jadeed-vers-une-numerisation-des-passeports-et-de-la-carte-didentite) | No change |
 
 ### Innovation ecosystem
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | University innovation hub at Diffa | Did not exist | [A university selected through a competitive process to host an innovation hub under a development-bank and UN-backed youth agripreneurship programme, with the workshop validating its project document opened](https://anp.ne/diffa-luniversite-se-dote-dun-unipod-pour-stimuler-linnovation-et-lagripreneuriat-des-jeunes/) | Advanced |
 | Startup ecosystem support | Supported by the digital agency | [Supported by the digital agency; no funding or company count published](https://www.lesahel.org/agence-nationale-pour-la-societe-de-linformation-startups-nigeriennes-le-numerique-au-service-dune-economie-plus-resiliente/) | No change |
@@ -237,7 +238,7 @@ One position was created: the [training of 140 cadres in AI applied to human sec
 
 ### Training and skills
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | AfricaCERT Handshake symposium | Did not exist | [Hosted once, with the digital agency proposing an AES regional cyber-defence alliance](https://www.lesahel.org/13e-edition-du-symposium-africacert-handshake-2025-le-niger-au-coeur-de-la-strategie-numerique-africaine/) | Advanced |
 | Niger Digital Day skills caravan | Did not exist | [A two-day youth digital-skills programme running in stages, which the organisers say will cover all eight regions and reach more than 800 young people, with training including artificial intelligence](https://anp.ne/maradi-la-caravane-niger-digital-day-lancee-pour-renforcer-les-competences-numeriques-des-jeunes/) | Advanced |
@@ -250,13 +251,13 @@ One position was created: the [training of 140 cadres in AI applied to human sec
 
 ### Access to services
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Guidan Fasaha community digital centre | One centre at Diffa | [Two centres, the second with 100 computers and 50 kW of solar power](https://www.actuniger.com/societe/22196-tahoua-le-pam-inaugure-gidan-fasaha-un-espace-communautaire-pour-faire-du-numerique-un-nouveau-levier-de-resilience-dinnovation-et-dinclusion.html) | Advanced |
 
 ### Digital divides
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Rural access constraint on identity enrolment | ***Baseline not held*** | [An analyst warns of privacy breaches, state surveillance and systemic exclusion, with rural communities, migrants and those without foundational identity most exposed](https://www.connectingafrica.com/regulation/niger-s-rollout-of-biometric-ids-gets-a-thumbs-up) | ***Baseline not held*** |
 
@@ -268,20 +269,20 @@ Two access programmes advanced in the window. The World Food Programme [added a 
 
 ### National statistics
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Fifth general population and housing census | Did not exist | [Preparation under way; no enumeration date published](https://www.lesahel.org/diffa-les-chefs-traditionnels-en-formation-pour-une-sensibilisation-sur-le-5e-rgph/) | Advanced |
 | Niger's share of UEMOA electronic money | ***Baseline not held*** | [3.92% of accounts opened across the Union (2024)](https://www.bceao.int/sites/default/files/2026-03/Rapport%20annuel%20sur%20les%20services%20financiers%20num%C3%A9riques%20dans%20l%27UEMOA%20-%202024.pdf) | ***Baseline not held*** |
 
 ### Open data
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Multisectoral government and United Nations data platform | Did not exist | [In build with the statistics institute; no launch date published](https://www.lesahel.org/renforcement-de-capacites-en-intelligence-artificielle-appliquee-a-la-securite-humaine-le-bureau-de-la-coordination-des-nations-unies-au-niger-perfectionne-les-connaissances-de-140-cadres-des-s/) | Advanced |
 
 ### Use of satellite data
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | IGNN remote-sensing unit | Did not exist | [IGNN runs a teledetection et techniques spatiales unit producing Sentinel-based satellite imagery for forest, land-use and territorial monitoring, and describes itself as an exclusive satellite-imagery distributor in several countries; no programme name, partner or date is published](https://ignn.net/la-teledetection-et-technique-spacialestts.html) | Advanced |
 
@@ -293,19 +294,19 @@ Two access programmes advanced in the window. The World Food Programme [added a 
 
 ### China activities
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | China-Niger digital cooperation | Did not exist | [Huawei has operated in Niger since 1998; a 2014 China Eximbank loan (RMB 623.7m, about US$103.8m in constant 2023 dollars) built a 2,275 km domestic fibre backbone completed in 2017; China's newly arrived ambassador met Huawei's VP in September 2025 to discuss deepening cooperation, with no post-2017 Chinese financing or vendor contract on record](https://itweb.africa/article/huawei-approached-to-deepen-china-niger-digital-ties/kLgB17ez2mzM59N4) | Advanced |
 
 ### EU activities
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | EU multiannual indicative programme 2021-2027 | Ended, replaced by a EUR 238m complex-settings envelope inside the regional programme | [Ended, replaced by a EUR 238m complex-settings envelope inside the regional programme](https://international-partnerships.ec.europa.eu/document/download/10d4ba3f-ee66-426e-8c60-bcd89b09fd11_en?filename=ad-mip-2024-c2024-7502-sub-saharan-africa-annex_en.pdf) | No change |
 
 ### Gulf/UAE activities
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | e& Partner2Connect commitment | Did not exist | [e& (UAE) committed US$6bn (2024-2026) to ITU's Partner2Connect coalition across 16 markets including Niger and Mali, not divided by country; no Niger-specific project, disbursement or value published](https://www.thenationalnews.com/future/technology/2024/03/01/uaes-e-commits-6bn-to-advance-technology-infrastructure-in-16-countries/) | Advanced |
 

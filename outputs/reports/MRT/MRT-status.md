@@ -1,15 +1,15 @@
 ---
 title: Mauritania — digital transformation and data governance status report
-compiled: 2026-08-25
+compiled: 2026-08-26
 place: MRT
-ledger_rows: 60
+ledger_rows: 61
 not_held: 4
-record: 326d2e033fdf
+record: 3f8f2e366af4
 ---
 
 # Mauritania: status report
 
-*Compiled 2026-08-25 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/MRT/ledger.csv` (60 systems and instruments, 4 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-26 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/MRT/ledger.csv` (61 systems and instruments, 4 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -30,6 +30,7 @@ Delivery is measured where it is measured at all, and the most useful figure in 
 | System or instrument | Status | Milestone |
 |---|---|---|
 | National Digital Transformation Agenda 2022-2025 | [Implemented, period expired](https://businessfocus.org.uk/setting-the-agenda-for-digital-transformation/) | Four axes set out by the digital minister; the period has since ended |
+| Ride-hailing authorisation compliance deadline | [Implemented](https://lequotidien.mr/?p=40128&lang=fr) | Fifteen-day deadline set by communique of 21 August 2026 |
 
 ### Legislation and regulation
 

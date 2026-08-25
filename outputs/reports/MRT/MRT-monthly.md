@@ -1,11 +1,11 @@
 ---
 title: Mauritania — monthly update, July – August 2026
-compiled: 2026-08-25
-period: 2026-07-01 to 2026-08-25
+compiled: 2026-08-26
+period: 2026-07-01 to 2026-08-26
 place: MRT
-ledger_rows: 21
+ledger_rows: 22
 not_held: 4
-record: 58610dae740e
+record: 8c4bee2324ba
 ---
 
 # Mauritania: monthly update, July – August 2026
@@ -22,6 +22,11 @@ On governance, the Council of Ministers [replaced the decree governing the Unive
 
 ## Governance
 
+### Strategies, plans and policies
+
+<!-- narrative: governance--gov-policy -->
+The road transport regulator [gave ride-hailing companies operating through digital applications 15 days to bring their authorisations into line with the law, warning that failure within the deadline could bring legal proceedings including suspension of the activity, with no further notice or warning required](https://lequotidien.mr/?p=40128&lang=fr). The communique sets the warning against growing use of digital platforms for transport services; no operator is named and no count of non-compliant authorisations is given.
+<!-- /narrative -->
 ### Legislation and regulation
 
 <!-- narrative: governance--gov-legislate -->

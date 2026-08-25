@@ -1,18 +1,18 @@
 ---
 title: South Sudan — progress report, August 2025 – August 2026
-compiled: 2026-08-25
-period: 2025-08-01 to 2026-08-25
+compiled: 2026-08-26
+period: 2025-08-01 to 2026-08-26
 place: SSD
-ledger_rows: 72
+ledger_rows: 73
 not_held: 12
-record: 8ec9e9dc9d18
+record: c0918efb58a0
 ---
 
 # South Sudan: progress report, August 2025 – August 2026
 
-*Of 72 systems and instruments on this place's ledger, 40 changed position between 2025-08-01 and 2026-08-25, 15 did not, 5 carry no stated baseline, and 12 are ***Not held*** at both ends.*
+*Of 73 systems and instruments on this place's ledger, 41 changed position between 2025-08-01 and 2026-08-26, 15 did not, 5 carry no stated baseline, and 12 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 89 sources for this place in the window — 29 in the earlier half (2025-08 to 2026-01), 60 in the later (2026-02 to 2026-08). The two halves are comparable, so the comparison is made over the whole window.*
+*Shape check, run before the comparison: 90 sources for this place in the window — 29 in the earlier half (2025-08 to 2026-01), 61 in the later (2026-02 to 2026-08). The two halves are comparable, so the comparison is made over the whole window.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -30,14 +30,14 @@ The governance layer arrived in the wrong order. A [cybercrime statute entered f
 
 ### Strategies, plans and policies
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Full-digitisation decree (Electronic Services Council) | Did not exist | [In force; the January 2026 deadline passed with no compliance report published (2026-08)](https://www.ecofinagency.com/news-digital/1912-51559-south-sudan-orders-full-digitization-of-public-institutions) | Advanced, deadline passed without a compliance report |
 | National e-commerce strategy | None published (2025-08) | [None published, unchanged from the November 2022 baseline against an April 2028 target (2026-06)](https://documents1.worldbank.org/curated/en/099063026190082191/txt/P176181-84d9770b-853c-4bb8-8e5a-996eac681382.txt) | No change |
 
 ### Legislation and regulation
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Cyber Crimes and Computer Abuse Act 2026 | Did not exist | [In force; the full text was withheld from journalists at signing (2026-02)](https://www.radiotamazuj.org/en/news/article/minister-ateng-defends-cybercrime-law-amid-concerns) | Advanced |
 | ICT Authority | Did not exist | [Being established as a state entity under the ICT ministry while legislation is awaited (2026-08)](https://www.eyeradio.org/govt-set-to-establish-ict-authority-to-regulate-internet-service-providers-ateny/) | Advanced |
@@ -46,13 +46,13 @@ The governance layer arrived in the wrong order. A [cybercrime statute entered f
 
 ### Data protection
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Data Protection Bill | No draft on record | [Policy bill drafted with civil-society facilitation; no bill before the Assembly and no statute (2026-08)](https://www.radiotamazuj.org/en/news/article/south-sudan-to-get-data-protection-bill-in-2026-says-minister) | Advanced |
 
 ### Regional collaboration
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Kenya-South Sudan cross-border digital connectivity memorandum | Did not exist | [Signed as the regional project's first cross-border connectivity memorandum and offered as the template for the remaining bilaterals; no text, capacity or tariff terms published (2026-06)](https://documents1.worldbank.org/curated/en/099063026190082191/txt/P176181-84d9770b-853c-4bb8-8e5a-996eac681382.txt) | Advanced |
 | African Telecommunications Union collaboration | Not held | [Deeper collaboration on infrastructure, capacity building and standardisation pledged at the minister's visit to the union's Nairobi headquarters on 12 August 2026](https://techreviewafrica.com/news/6713/south-sudan-pledges-stronger-collaboration-with-atu-on-digital-infrastructure-and-capacity-building) | ***Baseline not held*** |
@@ -67,13 +67,13 @@ The [full-digitisation decree entered force in December 2025 with a January 2026
 
 ### MoUs and other agreements
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Air Traffic Management System loan (China Eximbank) | Committed | [Committed; no implementation record held](https://www.focac.org/eng/zfgx_4/zzjw/t1530557.htm) | No change |
 
 ### New investments
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Eastern Africa Regional Digital Integration Project | Under implementation, rated Moderately Unsatisfactory on the development objective and Unsatisfactory on implementation, overall risk High (2025-08) | [US$162m of IDA after a US$10m partial cancellation in Somalia in April 2026; development objective raised to Moderately Satisfactory and implementation to Moderately Unsatisfactory, overall risk lowered to Substantial, with fiduciary and environmental and social risk both staying High (2026-06)](https://documents1.worldbank.org/curated/en/099063026190082191/txt/P176181-84d9770b-853c-4bb8-8e5a-996eac681382.txt) | Advanced |
 | Private-sector investment mobilised under the regional digital project | US$0 against a US$20m target for South Sudan | [US$0 against a US$20m target for South Sudan (2026-06)](https://documents1.worldbank.org/curated/en/099063026190082191/txt/P176181-84d9770b-853c-4bb8-8e5a-996eac681382.txt) | No change |
@@ -86,12 +86,13 @@ External financing commitments were unchanged over the period: the [Chinese educ
 
 ### Connectivity
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Bayobab national and cross-border fibre network | No licensed national backbone operator | [15-year licence effective 16 October 2025; build in execution linking the eastern and western corridors through Juba (2026-03)](https://techafricanews.com/2025/11/25/mtn-digital-infrastructure-secures-15-year-license-to-expand-fibre-network-in-south-sudan/) | Advanced |
 | Mobile coverage extension in Kauto Administrative Area | One site, at Kuron | [One site, at Kuron; four further sites requested and an expected February 2026 extension not delivered (2026-07)](https://www.radiotamazuj.org/en/news/article/kauto-leaders-call-for-urgent-expansion-of-mobile-network-coverage) | Stalled |
 | National fibre backbone programme (2,400 km via Kenya) | US$9m design budget approved, no route announced (2025-06) | [2,400 km route announced and fibre tendering stated to start in the second half of 2026; no construction start or completion date published (2026-06)](https://techafricanews.com/2025/10/09/south-sudan-announces-2400-km-fiber-optic-network-to-strengthen-digital-infrastructure/) | Advanced |
 | National Spectrum Management and 5G Strategy | Did not exist | [Development launched; no strategy, band plan, auction design or timetable published (2026-07)](https://techafricanews.com/2026/07/20/south-sudan-launches-national-spectrum-management-and-5g-strategy-development/) | Advanced |
+| Regional communications satellite feasibility study | Did not exist | [Uganda, Kenya, Rwanda and South Sudan opened a joint bank account to fund a feasibility study for a regional communications satellite, taking partner-state contributions with a 30 September 2026 deadline to deposit and launch the study, under the roadmap settled at the April 2026 Nairobi meeting](https://chimpreports.com/east-african-states-open-bank-account-to-fund-joint-communications-satellite-study/) | Advanced |
 | Telecommunications tariff exchange-rate adjustment | Did not exist | [Three operators raised voice and data prices on 17 August 2026 following an earlier June increase, and the legislature has challenged the repeated rises and moved to summon the information minister](https://www.radiotamazuj.org/en/news/article/parliament-questions-unchecked-telecom-tariff-hikes) | Regressed |
 | MTN South Sudan mobile operator licence | Licensed | [Licensed](https://techafricanews.com/2025/04/14/mtn-secures-15-year-license-to-deepen-digital-footprint-in-south-sudan/) | No change |
 | Regulator's power to order platform blocking | Exercised January 2025; no authorising instrument published | [Exercised January 2025; no authorising instrument published](https://cpj.org/2025/01/south-sudan-blocks-social-media-access-amid-unrest/) | No change |
@@ -99,7 +100,7 @@ External financing commitments were unchanged over the period: the [Chinese educ
 
 ### Data Storage
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Gateway Services and Data Centre Oversight Committee | Did not exist | [Constituted, with a mandate over gateway revenue digitisation and the national data centre (2026-01)](https://www.eyeradio.org/nca-establishes-gateway-and-data-center-oversight-committee) | Advanced |
 | National data centre, Juba | Reported as nearing completion (2025-09) | [Reported as halfway complete (2026-04)](https://www.eyeradio.org/ateny-outlines-s-sudans-digital-transformation-plans-at-nairobi-summit/) | Advanced |
@@ -107,13 +108,13 @@ External financing commitments were unchanged over the period: the [Chinese educ
 
 ### Energy
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | CREI solar-hybrid telecom energy programme | US$5,000,000 committed (2024) | [US$10m committed in total; 490 of 499 MTN sites renovated and coverage reported to have risen from 69% to 80% of the population over three years (2026-02)](https://itweb.africa/article/south-sudan-green-network-gets-5m-boost/) | Advanced |
 
 ### Cybersecurity
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Digital Financial Services Security Lab | Did not exist | [Operating; security-testing mobile payment applications (2026-03)](https://www.eyeradio.org/south-sudan-boosts-mobile-payment-security-with-itu-dfs-lab-training/) | Advanced |
 | National computer security incident response team | Not established (2025-08) | [Not established, unchanged from the November 2022 baseline against an April 2028 target (2026-06)](https://documents1.worldbank.org/curated/en/099063026190082191/txt/P176181-84d9770b-853c-4bb8-8e5a-996eac681382.txt) | No change |
@@ -132,13 +133,13 @@ Rural coverage is the one infrastructure row that stalled outright: in Kauto, [a
 
 ### Data Exchange
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Real-time gross settlement component | Did not exist | [In use, with uptake reported but no figures published (2026-05)](https://cajnewsafrica.com/2026/05/20/south-sudan-platform-to-digitise-economy-pays-off/) | Advanced |
 
 ### Digital Identity and CRVS
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Identity and passport production machines | Did not exist | [Five systems delivered (2026-05)](https://www.onecitizendaily.com/index.php/2026/05/08/government-procures-5-advanced-machine-systems-for-national-id-and-passport-production/) | Advanced |
 | National Identity Card issuance | 17,400 cards issued to returnees and people at risk of statelessness through the EU and UNHCR project (2024-11) | [Distribution running in Greater Yei; school-based registration for examination candidates launched in Juba, 4 August 2026, with expansion to more schools planned; no national coverage figure published (2026-08)](https://www.onecitizendaily.com/index.php/2026/07/13/thousand-begin-collecting-national-identity-cards-in-greater-yei/) | Advanced |
@@ -151,7 +152,7 @@ Rural coverage is the one infrastructure row that stalled outright: in Kauto, [a
 
 ### Digital Payments and Fintech
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Cash payment of tax at revenue offices | Cash accepted at revenue offices and by revenue officers | [Barred; bank deposit and official slip required before a receipt is issued, while digital payment through Capital Pay continues (2026-07)](https://www.eyeradio.org/revenue-authority-changes-tax-payment-process/) | Advanced |
 | Cashless payment for passports and identity documents | Cash accepted | [Cash abolished; digital payment only (2026-01)](https://www.sudanspost.com/south-sudan-introduces-digital-payment-system-for-passports-after-supply-crisis/) | Advanced |
@@ -162,21 +163,21 @@ Rural coverage is the one infrastructure row that stalled outright: in Kauto, [a
 
 ### Registries
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Centralised civil registration and vital statistics system | Civil Registry Rules and a costed CRVS plan adopted; a birth-registration pilot at Juba Teaching Hospital (2025-12) | [Centralisation announced as intent; no law, budget, timetable, vendor or platform named (2026-07)](https://www.eyeradio.org/civil-registry-to-introduce-digital-system-for-birth-death-and-marriage-registration/) | Advanced |
 | Birth registration coverage | About 10% of births registered (2025-12) | [About 90% of births going unrecorded (2026-07)](https://www.worldbank.org/en/news/feature/2026/07/22/in-the-worlds-youngest-nation-how-do-you-prove-you-exist) | No change |
 
 ### Sectoral management information systems
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Biometric registration of public servants | Not on record before January 2026 | [US$15m programme in its third phase; data held on a Ministry of Finance server (2026-06)](https://www.onecitizendaily.com/index.php/2026/06/24/government-launches-biometric-registration-exercise-for-organised-forces/) | Advanced |
 | Education in Emergencies Management Information System | Did not exist | [Launched; 12 County Education Departments across six states equipped with solar power, computers and connectivity (2026-08)](https://www.unesco.org/en/articles/south-sudan-launches-new-education-emergencies-data-system-strengthen-crisis-education-response) | Advanced |
 
 ### Other GovTech and e-Gov
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Electronic cargo tracking | Did not exist | [In use, to curb diversion and smuggling (2026-05)](https://eastleighvoice.co.ke/south-sudan/350431/south-sudan-defends-crawford-capital-deal-as-digital-reforms-boost-revenue) | Advanced |
 | Electronic visa portal | Not on record | [In service; US$50 for citizens of Kenya, Uganda, Rwanda and DR Congo and US$100 for Somali, Burundian and Nigerian citizens (2026-07)](https://techcabal.com/2026/07/20/south-sudan-slaps-visa-kenya-rwanda-uganda/) | Advanced |
@@ -198,7 +199,7 @@ Revenue systems accumulated. An [e-Services Platform](https://www.onecitizendail
 
 ### ICT Industry
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | eSIM service | In service | [In service; no take-up figures published](https://www.telecomreviewafrica.com/articles/telecom-operators/4695-mtn-south-sudan-pioneers-esim-technology-redefining-connectivity/) | No change |
 
@@ -210,7 +211,7 @@ Nothing was built. What changed is external. [Huawei re-engaged after the post-2
 
 ### Training and skills
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Digital Innovation for Skills and Knowledge programme (Central Equatoria) | Did not exist | [A costed plan; no financier, signed commitment or start date named (2026-07)](https://www.eyeradio.org/central-equatoria-to-launch-digital-skills-programme-for-over-8000-people/) | Advanced |
 | Educational Technical Cooperation Project (China) | Committed across two phases | [Committed across two phases; no later implementation record held](http://nsd.mofcom.gov.cn/article/jmxw/201504/20150400929291.shtml) | No change |
@@ -224,7 +225,7 @@ Nothing was built. What changed is external. [Huawei re-engaged after the post-2
 
 ### Access to services
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Internet users and penetration | 1.3 million users, 12% penetration (2024) | [1.9 million users, 15.7% penetration (2025)](https://www.eyeradio.org/nca-reports-huge-internet-growth-in-south-sudan/) | Advanced |
 | Mobile data price | About US$23.70 per gigabyte (2025-11) | [Raised twice by exchange-rate adjustment with no revised rate published (2026-07)](https://www.onecitizendaily.com/index.php/2025/11/27/41522/) | Regressed, revised rates unpublished |
@@ -240,7 +241,7 @@ Skills provision produced one costed plan and no delivery: [Central Equatoria's 
 
 ### National statistics
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Published national population estimate | 13.2 million (2021) | [About 16.36 million projected to end-2026 and 19.99 million to 2030 (2026-07)](https://www.onecitizendaily.com/index.php/2026/07/23/south-sudans-population-is-projected-to-reach-20-million-by-2030/) | Advanced |
 
@@ -252,13 +253,13 @@ Skills provision produced one costed plan and no delivery: [Central Equatoria's 
 
 ### US / hyperscaler activities
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | United States sanctions on the e-Government contractor | Not sanctioned | [Sanctioned; the concession continues to operate (2026-06)](https://www.sudanspost.com/crawford-denies-75-govt-revenue-retention-amid-mounting-public-scrutiny/) | Advanced |
 
 ### China activities
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Huawei re-engagement | No engagement on record since 2014 | [Interest expressed in the national data hub and digital architecture; no agreement, contract or figure (2026-02)](https://itweb.africa/article/huawei-reconnects-with-south-sudan/) | Advanced |
 

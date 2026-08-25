@@ -1,11 +1,11 @@
 ---
 title: Botswana — monthly update, July – August 2026
-compiled: 2026-08-25
-period: 2026-07-01 to 2026-08-25
+compiled: 2026-08-26
+period: 2026-07-01 to 2026-08-26
 place: BWA
-ledger_rows: 32
+ledger_rows: 33
 not_held: 11
-record: a5ed966e0d30
+record: 0de718eada74
 ---
 
 # Botswana: monthly update, July – August 2026
@@ -135,6 +135,11 @@ The statistics office and the national university [launched a second Statistics 
 
 ## Geopolitics
 
+### China activities
+
+<!-- narrative: geopolitics--geopol-china -->
+China's ambassador [publicly offered AI cooperation in smart mining, digital government and talent training, pitching Chinese AI technology as a lever for economic diversification and pointing to a July 2026 pledge of 5,000 AI training places for developing countries and AI application cooperation centres for bodies including the African Union](https://www.itweb.africa/article/china-offers-botswana-ai-support/LPp6V7rBNw57DKQz). It is an offer rather than an instrument: no Botswanan response, memorandum or programme is on file.
+<!-- /narrative -->
 ### Gulf/UAE activities
 
 <!-- narrative: geopolitics--geopol-gulf -->

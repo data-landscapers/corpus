@@ -1,15 +1,15 @@
 ---
 title: Lesotho — digital transformation and data governance status report
-compiled: 2026-08-25
+compiled: 2026-08-26
 place: LSO
-ledger_rows: 64
+ledger_rows: 65
 not_held: 0
-record: 250f9adb3f82
+record: c8d339526410
 ---
 
 # Lesotho: status report
 
-*Compiled 2026-08-25 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/LSO/ledger.csv` (64 systems and instruments, 0 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-26 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/LSO/ledger.csv` (65 systems and instruments, 0 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -70,6 +70,7 @@ An interim national CSIRT [began operating on 29 July 2026](https://www.gov.ls/i
 
 | System or instrument | Status | Milestone |
 |---|---|---|
+| Allegation of interference in regulator appointments | [Implemented](https://lestimes.com/?p=91342) | Allegation made at a media briefing, August 2026 |
 | Public digital services experience survey | [Implemented](https://selibeng.com/invitation-to-participate-in-the-public-digital-services-experience-survey/) | Opened 2026-08-09 |
 
 <!-- narrative: governance -->

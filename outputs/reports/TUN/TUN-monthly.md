@@ -1,11 +1,11 @@
 ---
 title: Tunisia — monthly update, July – August 2026
-compiled: 2026-08-25
-period: 2026-07-01 to 2026-08-25
+compiled: 2026-08-26
+period: 2026-07-01 to 2026-08-26
 place: TUN
-ledger_rows: 36
+ledger_rows: 37
 not_held: 9
-record: 9d7b04096eec
+record: 9ba36a3fc283
 ---
 
 # Tunisia: monthly update, July – August 2026
@@ -124,6 +124,14 @@ The state's own document surfaced at the end of the window and settles a gap thi
 
 <!-- narrative: technology--tech-innovate -->
 Tunisia's own startup law, meanwhile, [became the curriculum of the Japanese-financed programme](https://www.lapresse.tn/2026/07/28/la-tunisie-et-le-japon-sallient-pour-renforcer-les-ecosystemes-de-startups-en-afrique/) — a statute circulated as a model for other states rather than administered as one country's law.
+<!-- /narrative -->
+
+## Capacity
+
+### Training and skills
+
+<!-- narrative: capacity--capacity-training -->
+The family and women's ministry, a national entrepreneurs' organisation and a UN regional commission [opened a training programme for 100 women entrepreneurs in e-commerce and artificial-intelligence applications, alongside a national platform for marketing women's products](https://www.assabahnews.tn/ar/%D9%85%D9%82%D8%A7%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%B5%D8%A8%D8%A7%D8%AD/152460). Both sit under a declaration on women, youth, digitalisation and African economic integration whose action plan targets training 100,000 women and young people in e-commerce, AI and cross-border digital payments by 2028, and a US$50m fund for inclusive markets by the same date. The training launch's own date is not established in the source.
 <!-- /narrative -->
 
 ## Inclusion

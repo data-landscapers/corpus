@@ -1,11 +1,11 @@
 ---
 title: Lesotho — monthly update, July – August 2026
-compiled: 2026-08-25
-period: 2026-07-01 to 2026-08-25
+compiled: 2026-08-26
+period: 2026-07-01 to 2026-08-26
 place: LSO
-ledger_rows: 22
+ledger_rows: 23
 not_held: 2
-record: d58012a1e626
+record: 2ee93b1517ae
 ---
 
 # Lesotho: monthly update, July – August 2026

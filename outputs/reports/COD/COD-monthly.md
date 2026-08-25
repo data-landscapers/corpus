@@ -1,11 +1,11 @@
 ---
 title: DR Congo — monthly update, July – August 2026
-compiled: 2026-08-25
-period: 2026-07-01 to 2026-08-25
+compiled: 2026-08-26
+period: 2026-07-01 to 2026-08-26
 place: COD
-ledger_rows: 53
+ledger_rows: 54
 not_held: 13
-record: 6b24afaaffc4
+record: 73c2a302cdb8
 ---
 
 # DR Congo: monthly update, July – August 2026
