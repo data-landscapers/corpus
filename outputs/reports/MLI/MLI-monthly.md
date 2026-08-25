@@ -1,11 +1,11 @@
 ---
 title: Mali — monthly update, July – August 2026
-compiled: 2026-08-25
-period: 2026-07-01 to 2026-08-25
+compiled: 2026-08-26
+period: 2026-07-01 to 2026-08-26
 place: MLI
-ledger_rows: 44
+ledger_rows: 46
 not_held: 4
-record: d168de32f5e0
+record: e281891ac2d7
 ---
 
 # Mali: monthly update, July – August 2026
@@ -107,6 +107,11 @@ On 24 July the Council of Ministers [adopted a draft ordinance formalising the c
 <!-- narrative: dpi--dpi-pay -->
 On 27 July a ministry field visit [recorded the social security fund's bank-payment pilot for pensions as complete](https://maliemergenceinfo.com/2026/07/28/%f0%9d%90%8ba-digitalisation-des-services-de-la-sante-et-du-developpement-social-l%f0%9d%90%9a-%f0%9d%90%aa%f0%9d%90%ae%f0%9d%90%9a%f0%9d%90%a5%f0%9d%90%a2%f0%9d%90%ad%f0%9d%90%9e-%f0%9d%90%9d/) and ready for phased rollout.
 <!-- /narrative -->
+### Registries
+
+<!-- narrative: dpi--dpi-registry -->
+A [national digital directory of diaspora skills was launched at a ceremony in Washington on 22 August 2026, run by the Malian embassy to the United States and registering professional profiles across economic, administrative, academic, private-sector and emerging fields so that ministries can identify expertise against specific needs](https://www.maliweb.net/politique/diplomatie/washington-dc-lancement-du-repertoire-numerique-des-competences-de-la-diaspora-malienne-3119417.html). The minister described it as an accreting database whose usefulness depends on take-up and on profiles being kept current; questions at the ceremony went to registration terms and to how the recorded data would be used, and no data-protection basis is stated.
+<!-- /narrative -->
 ### Sectoral management information systems
 
 <!-- narrative: dpi--dpi-mis -->
@@ -146,6 +151,11 @@ The same week [recommended an updated universal-access strategy with a white-zon
 On 1 August the Semaine du Numerique [recommended a national AI strategy](https://www.maliweb.net/technologie/4e-edition-de-la-semaine-du-numerique-des-recettes-variees-pour-la-souverainete-numerique-3118872.html), which Mali does not have, alongside an AES protocol on AI governance. The [Centre d'intelligence artificielle et de robotique closed the week with a demonstration of a locally built intrusion-detection technology](https://lessor.ml/posts/semaine-du-numerique-notre-pays-veut-accelerer-sa-transformation-digitale-6a6e52f6dcfc0).
 
 Mali joined a regional framework rather than making one. Six francophone West African states [adopted common artificial-intelligence governance guidelines on 9 July, led by an advocacy organisation and announced at the Global Dialogue on AI Governance](https://www.wearetech.africa/en/fils-uk/news/tech/six-francophone-west-african-countries-unite-on-ai-governance-framework). The guidelines are non-binding and no Malian implementing instrument follows from them on the record.
+<!-- /narrative -->
+### Innovation ecosystem
+
+<!-- narrative: technology--tech-innovate -->
+A civil-society organisation [launched an application for reporting and checking online content, alongside the closing report of a digital campaign against viral falsehood which it says reached 68,885 people](https://www.maliweb.net/technologie/citoyens-20-women-tech-mali-lance-une-application-pour-lutter-contre-la-desinformation-3119410.html). It is aimed at young people and civil-society organisations, and funded through a Danish foreign-ministry facility with support from the ministry responsible for communication and the digital economy. No user or report-volume figure is published.
 <!-- /narrative -->
 
 ## Capacity

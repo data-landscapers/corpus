@@ -1,15 +1,15 @@
 ---
 title: Mali — digital transformation and data governance status report
-compiled: 2026-08-25
+compiled: 2026-08-26
 place: MLI
-ledger_rows: 72
+ledger_rows: 74
 not_held: 3
-record: 07ec8698c65b
+record: b7b7a55c9bef
 ---
 
 # Mali: status report
 
-*Compiled 2026-08-25 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/MLI/ledger.csv` (72 systems and instruments, 3 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-26 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/MLI/ledger.csv` (74 systems and instruments, 3 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -167,6 +167,7 @@ Two positions are recommendations rather than systems: [a law making SMTD-SA the
 |---|---|---|
 | Birth registration | [Implemented](https://www.biometricupdate.com/202506/chad-mali-senegal-pursue-birth-registration-reforms-to-close-gaps) | 89.5% registration across 747 functional primary centres |
 | National Agency for the Security of Civil Status Documents | [Implemented](https://www.biometricupdate.com/202506/chad-mali-senegal-pursue-birth-registration-reforms-to-close-gaps) | Created in 2025 |
+| National diaspora skills directory | [Implemented](https://www.maliweb.net/politique/diplomatie/washington-dc-lancement-du-repertoire-numerique-des-competences-de-la-diaspora-malienne-3119417.html) | Launched at Washington 22 August 2026 |
 | SIF/GUF land information system and one-stop land office | [Implemented](https://www.wearetech.africa/en/fils-uk/news/tech/mali-unveils-digital-platforms-for-payments-land-management) | Launched 2025-03-18 |
 
 ### Sectoral management information systems
@@ -230,6 +231,12 @@ Government's own systems are being wired together: [13 services on the AGETIC in
 | System or instrument | Status | Milestone |
 |---|---|---|
 | State shareholding in SOTELMA | [Implemented](https://africa.businessinsider.com/local/lifestyle/17-years-after-privatization-mali-regains-control-of-a-strategic-telecom-asset/lkc81zm) | State stake raised from 49% to 56% for FCFA 160bn |
+
+### Innovation ecosystem
+
+| System or instrument | Status | Milestone |
+|---|---|---|
+| Citizen content reporting and checking application | [Implemented](https://www.maliweb.net/technologie/citoyens-20-women-tech-mali-lance-une-application-pour-lutter-contre-la-desinformation-3119410.html) | Launched alongside the closing report of a digital campaign |
 
 <!-- narrative: technology -->
 Mali has no national AI strategy. One was [recommended on 1 August 2026](https://www.maliweb.net/technologie/4e-edition-de-la-semaine-du-numerique-des-recettes-variees-pour-la-souverainete-numerique-3118872.html), and the only AI-governance instrument the country has joined is the [Francophone West African guidelines adopted with five other states in July 2026](https://www.wearetech.africa/en/fils-uk/news/tech/six-francophone-west-african-countries-unite-on-ai-governance-framework). The [Centre d'intelligence artificielle et de robotique](https://lessor.ml/posts/semaine-du-numerique-notre-pays-veut-accelerer-sa-transformation-digitale-6a6e52f6dcfc0) has one demonstration on record, of a locally built intrusion-detection technology; the other AI system on the ledger is an [operator's customer assistant launched in June 2026](https://www.ecofinagency.com/news-digital/1506-56460-moov-africa-upgrades-fiber-service-amid-rising-internet-use-in-mali).
