@@ -1,18 +1,18 @@
 ---
 title: Ghana — progress report, August 2025 – August 2026
-compiled: 2026-08-25
-period: 2025-08-01 to 2026-08-25
+compiled: 2026-08-26
+period: 2025-08-01 to 2026-08-26
 place: GHA
-ledger_rows: 164
+ledger_rows: 175
 not_held: 9
-record: 5652be90abcf
+record: 0ca58454cc35
 ---
 
 # Ghana: progress report, August 2025 – August 2026
 
-*Of 164 systems and instruments on this place's ledger, 78 changed position between 2025-08-01 and 2026-08-25, 24 did not, 53 carry no stated baseline, and 9 are ***Not held*** at both ends.*
+*Of 175 systems and instruments on this place's ledger, 89 changed position between 2025-08-01 and 2026-08-26, 24 did not, 53 carry no stated baseline, and 9 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 357 sources for this place in the window — 59 in the earlier half (2025-08 to 2026-01), 298 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+*Shape check, run before the comparison: 370 sources for this place in the window — 59 in the earlier half (2025-08 to 2026-01), 311 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -26,7 +26,7 @@ Over the twelve months Ghana went from a jurisdiction with a data-protection law
 
 ### Strategies, plans and policies
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | National AI health policy | Did not exist | [A health ministry draft anchored on Article 34(2) of the 1992 Constitution, covering approval, procurement, validation, human oversight, monitoring, evaluation and accountability across public and private facilities, and barring patient data from leaving the country without safeguards; not adopted, and no text published](https://www.myjoyonline.com/health-ministry-develops-ai-policy-to-guide-safe-use-of-artificial-intelligence-in-ghanas-healthcare-system/) | Advanced |
 | National AI implementation plan | Did not exist | [Being built with UN partners on measurable annual milestones over a decade, framed against the risk of a shelf document](https://thechronicle.com.gh/government-rolls-out-10-year-ai-implementation-roadmap-to-drive-jobs-economic-growth/) | Advanced |
@@ -37,7 +37,7 @@ Over the twelve months Ghana went from a jurisdiction with a data-protection law
 
 ### Legislation and regulation
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Data Exchange Act | None published | [Named by the ministry as a statute distinct from harmonisation, carrying interoperability and inter-agency sharing, with no draft or timetable](https://thechronicle.com.gh/government-rolls-out-10-year-ai-implementation-roadmap-to-drive-jobs-economic-growth/) | Advanced |
 | Data Harmonisation Bill | Named as a forthcoming Act the new board must support, with no draft | [Consulted on and still a bill, renamed an Act in the July 2026 AI plan, not laid before Parliament](https://www.graphic.com.gh/news/general-news/ghanas-data-harmonisation-bill-2025-to-be-opened-for-public-consultation-from-nov-19-to-27-2025.html) | Advanced |
@@ -55,7 +55,7 @@ Over the twelve months Ghana went from a jurisdiction with a data-protection law
 
 ### Data protection
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Data Protection Commission | Operating under the 2012 Act, with a new governing board sworn in that day and tasked with a national data-governance framework | [Operating from a single head office, with 2026 declared a year of enforcement, a size-banded fee schedule in force from 2026-02-02, two field-enforcement vehicles bought from internally generated funds, and regional offices intended in five regions by the end of 2026](https://gna.org.gh/2026/08/data-protection-commission-acquires-vehicles-to-boost-nationwide-enforcement/) | Advanced |
 | United States health data-sharing agreement | Did not exist | [Offered and refused: a five-year agreement that, on the data-protection regulator's account, covered not only health data sets but metadata, dashboards, reporting tools, data models and data dictionaries, gave ten United States entities access requiring no prior Ghanaian approval, required 25 years of citizens' health records, and settled disputes under United States law against US$109m subject to congressional appropriation](https://english.news.cn/20260730/b5516c3a8f034f38aae45823311057c6/c.html) | Closed, refused before signature |
@@ -67,25 +67,27 @@ Over the twelve months Ghana went from a jurisdiction with a data-protection law
 
 ### Regional collaboration
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | African health regulator data exchange | Did not exist | [Ghana's Medical and Dental Council is pressing African health regulators for a shared infrastructure to verify qualifications, licence status and disciplinary records of health workers moving across borders](https://ghanaiantimes.com.gh/ghana-pushes-stronger-cross-border-health-regulation/) | Advanced |
 | Anti-IFFs Policy Tracker (Ghana) | Did not exist | [Piloted in Ghana over eighteen months alongside Cote d'Ivoire, Liberia, Namibia, Uganda and Zambia, with UNECA support; Ghana's finance ministry reports the Tracker contributed to recovering millions of dollars in revenue; AU now endorses continental roll-out from diagnostic pilot to standing self-assessment instrument; no Ghana-specific score, findings or reform list published](https://www.taxjusticeafrica.net/resources/news/landmark-win-africa-au-member-states-endorse-continental-roll-out-anti-iffs-policy) | Advanced |
 | Digital Policy Alert / St Gallen Endowment partnership | Did not exist | [Partnership between the communications ministry (MoCDTI) and Digital Policy Alert, with the St Gallen Endowment for Prosperity through Trade, bringing DPA's digital-policy intelligence platform and AI-assisted regulatory-analysis tools to the National AI Strategy, data-governance work and the One Million Coders Programme, framed around Ghana's AfCFTA Digital Trade Protocol and WTO engagement; no funding, duration or deliverables stated](https://techafricanews.com/2026/08/10/ghana-ministry-and-digital-policy-alert-partner-to-strengthen-digital-governance/) | Advanced |
 | Host of the 15th Africa Internet Governance Forum | Did not exist | [Ghana hosts the fifteenth annual Africa Internet Governance Forum at the Labadi Beach Hotel, Accra, from 2 to 5 November 2026, running a main forum alongside youth, parliamentarian and Day Zero tracks and the African School on Internet Governance; session times, venues and speakers were not published when the schedule was read](https://igf.africa/about-us/event-schedule/) | Advanced |
+| Malawi digital-government cooperation | Did not exist | [A Malawian delegation travelled to Accra to structure a digital-government cooperation with the communications ministry, under which Ghana is to make more than a dozen technology companies available to help build digital systems and infrastructure, with the identity card cited as the reference implementation at more than 19 million holders](https://www.biometricupdate.com/202608/malawi-to-enhance-digital-government-with-ghanas-support) | Advanced |
+| United Kingdom cybersecurity cooperation | Did not exist | [The cyber security authority reports discussions with the British High Commission on tackling cyber-enabled crime and financial fraud, child online protection, cyber capacity building and international cyber governance](https://techafricanews.com/2026/08/25/ghana-uk-deepen-cybersecurity-cooperation-cybercrime-child-protection/) | Advanced |
 | Ghana-Rwanda fintech licence passporting memorandum | Signed and announced, text unpublished | [Still unpublished by either central bank as at 2026-07-30, so which licence categories are recognised and on what conditions is unestablished](https://www.bog.gov.gh/wp-content/uploads/2025/02/PRESS-RELEASE-GHANA-AND-RWANDA-SIGN-A-MEMORANDUM-OF-UNDERSTANDING-MOU.pdf) | No change |
 | Cross-border digital identity pilot | ***Baseline not held*** | [A pilot recognising a digital identity issued in one of Rwanda, Ghana and Benin in the other two, presented as the first step to a single African digital market by 2030, with eighteen further countries said to be joining](https://www.giz.de/en/newsroom/storys/interview-herken-kone-smart-africa-digital-sovereignty) | ***Baseline not held*** |
 
 ### Standards
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Cyber and Information Security Directive 2026 | An earlier directive in force, text and date not held | [In force as the country's first comprehensive AI-governance framework for financial institutions, with cloud-security rules, proportionality by size and risk and mandatory board-level accountability](https://www.myjoyonline.com/ghana-strengthens-financial-sector-cyber-defences-with-new-security-directive-launch/) | Advanced |
 | Government data exchange hub | Launched 2009 and stalled on funding and unclear mandates | [Named again by the communications minister as a National Data Exchange Hub government plans to establish for standardised and interoperable sharing between institutions, with no design, cost or timetable stated](https://dial.global/research/national-data-exchange-ghana-case-study/) | Advanced, re-announced |
 
 ### Public debate and participation in policymaking
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Citizens reporting demands for unofficial payments | 51% of citizens reporting demands (first half of 2025) | [69% of citizens reporting demands (second half of 2025); the statistical service names digitalisation, fee transparency and public education as its response, citing a marked fall in bribery at the passport office after digitisation, and says the Office of the Chief of Staff has directed the ten institutions its series flagged as high-risk to report back on remediation](https://asaaseradio.com/gss-calls-for-digitalisation-fee-transparency-to-curb-rising-bribe-demands/) | Regressed |
 
@@ -101,20 +103,20 @@ What merely accreted detail is the data-protection position itself. A year of aw
 
 ### Domestic budget appropriations and expenditure
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Domestic digital-transformation appropriation | ***Baseline not held*** | [GHS 729,947,850 for ICT Infrastructure, Regulation and Capacity Building, of which GHS 591,947,850 is domestically funded, and GHS 100,000,000 for ICT Capacity Development, under the communications ministry's 2026 vote; the domestic figure resolves to GHS 536,745,448 for the information technology agency, GHS 25,346,198 for the cyber-security authority, GHS 17,308,560 for the ICT capacity centre, GHS 9,720,400 for the data-protection regulator and GHS 2,827,244 for the domain registry](https://www.mofep.gov.gh/sites/default/files/budget-statements/Appropriation%20%28%20No.%202%29%20Act%2C%202025%20Act%201163_0.pdf) | ***Baseline not held*** |
 | Multi-year commitment for three revenue platforms | ***Baseline not held*** | [Approved with published benefit projections and no disclosed cost, contract duration or termination terms](https://ghanaiantimes.com.gh/parliament-approves-expenditure-for-electronic-revenue-generation-platform/) | ***Baseline not held*** |
 
 ### MoUs and other agreements
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | TradeMark Africa country programme memorandum | Not held | [Renewed to continue trade-facilitation and AfCFTA-readiness work, including digital customs systems at the Akanu-Noepe joint border post and support for more than 1,250 women and small-scale cross-border traders](https://thehighstreetjournal.com/ghana-trademark-africa-deal-targets-higher-exports-regional-market-access/) | ***Baseline not held*** |
 
 ### New investments
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Electronic road toll concession | Tolls suspended since November 2021; no PPP concession | [20-year PPP between the Ministry of Roads and Highways and an SPV to be established by Rock Africa Limited, for nationwide fully electronic toll collection; no concession value, revenue split, corridor count, build timetable or collection technology stated](https://ghstandard.com/business-news-in-ghana/ghana-economy-news/parliament-approves-20-year-electronic-road-toll-concession/) | Advanced |
 | Digital acceleration project | US$200m committed, with the services portal to add about 16,000 services in the fourth quarter of 2025 | [Still named as a pillar of the digital agenda; the portal target has no delivery statement on file, and US$18.3m had been disbursed](https://projects.worldbank.org/en/projects-operations/project-detail/P176126) | No change |
@@ -131,12 +133,12 @@ Two Chinese distance-learning loans signed in October 2020 passed their expected
 
 ### Connectivity
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | 5G population coverage target for 2028 | None published | [70 per cent 5G coverage projected by the end of 2028, alongside a stated review of spectrum policy to encourage investment](https://atlfmnews.com/government-projects-5g-internet-coverage-by-2028/) | Advanced |
 | 5G spectrum request for applications | Did not exist | [Eleven lots across 700 MHz, 2.3 GHz and 3 GHz on a US$230m aggregate reserve and 15-year licences, amended in seven places by a consolidated response of 2026-07-31; no award made](https://nca.org.gh/wp-content/uploads/2026/07/NCA-Consolidated-Response-5G-RFA-2026.pdf) | Advanced |
-| Annual fibre cuts | About 400 cuts a year in the early fibre-deployment years, undated | [Over 8,000 cuts a year, with one sabotage and roadworks episode disrupting 157 sites](https://www.graphic.com.gh/business/business-news/ghanas-digital-backbone-comes-under-strain.html) | Regressed |
-| Cell-site build for 2026 | 223 new sites a year on the ten-year average | [1,150 new sites planned for 2026 across two operators](https://www.myjoyonline.com/sam-george-unveils-massive-1150-cell-site-rollout-to-end-network-woes/) | Advanced |
+| Annual fibre cuts | About 3,900 cuts in 2021, at about US$7.5m in repairs | [More than 8,000 cuts in 2025 at about US$20m in repairs, against a 2022 peak of 10,034 cuts costing US$17.4m, with 4,289 cuts logged in the first half of 2026](https://www.myjoyonline.com/fibre-repairs-drain-millions-ghana-needs-for-digital-expansion/) | Regressed |
+| Cell-site build for 2026 | 223 new sites a year on the ten-year average | [1,150 new sites planned for 2026 across two operators, with the regulator putting more than 500 under construction in August 2026 to address dropped calls, slow speeds and coverage gaps](https://www.myjoyonline.com/nca-director-general-urges-journalists-to-protect-public-trust-in-digital-era/) | Advanced |
 | Ghana-Burkina Faso frequency coordination agreement | No agreement with Burkina Faso | [Coordination agreement finalised with agreed cross-border signal-strength thresholds, in response to consumer interference complaints](https://www.connectingafrica.com/connectivity/ghana-burkina-faso-tackle-cross-border-signal-interference) | Advanced |
 | MTN Ghana capital expenditure | ***Baseline not held*** | [GHS 2,100.4m combined capital expenditure, down 36.3% on a restated GHS 3,298.7m, with intensity falling from 29.1% to 14.0%](https://mtn.com.gh/wp-content/uploads/2026/08/Scancom-PLC-MTN-Ghana-H1-2026-Results.pdf) | Regressed |
 | MTN Ghana capital programme | US$1bn over five years | [US$1.1bn equivalent over 2026 to 2028, with a first tranche of US$380m for 2026](https://mtn.com.gh/newsabout/advancing-leading-digital-solutions-for-africas-progress-mtn-group-ceo-visits-ghana/) | Advanced |
@@ -156,7 +158,7 @@ Two Chinese distance-learning loans signed in October 2020 passed their expected
 
 ### Data Storage
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Digital Realty Accra data centre | Did not exist | [Commissioned at up to 1.7 MW IT load and 500 racks, carrier-neutral and connected to a subsea landing](https://www.ecofinagency.com/news-digital/0411-50093-digital-realty-expands-african-footprint-with-new-data-center-in-ghana) | Advanced |
 | National AI Compute Centre | Did not exist | [US$250m announced by the President at the 2026-04-24 strategy launch, the larger of two dollar commitments totalling US$270m made that day; no site, operator, procurement route or date](https://www.graphic.com.gh/news/general-news/ghana-news-president-unveils-270m-national-ai-strategy-250m-computing-centre-20m-implementation-fund-earmarked-to-create-africas-ai-hub.html) | Advanced |
@@ -167,13 +169,13 @@ Two Chinese distance-learning loans signed in October 2020 passed their expected
 
 ### Technical Capacity
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Submarine cable inventory | ***Baseline not held*** | [The regulator names five submarine cable providers - SAT-3, MainOne, WASC, Glo and ACE - on an undated page resting the licence on section 3(8) of the Electronic Communications Act 2008; an analyst brief counts six cables landing at Accra and about 2.5 Tbps of international capacity in use (2024 estimate)](https://nca.org.gh/submarine-cable-landing/) | ***Baseline not held*** |
 
 ### Cybersecurity
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Community media cyber capability project | Did not exist | [Czech-funded and implemented with the cyber-security authority and a digital-transformation centre, training about 60 media houses and more than 100 journalists in Accra through August 2026 and in Kumasi in September, and certifying those who complete every session and file a report into a proposed cyber-security press corps; a training session at Accra on 19 August put newsroom devices to journalists as deliberate targets rather than accidental victims, citing an Angolan journalist's 2024 spyware infection as the regional precedent](https://www.ghanabusinessnews.com/2026/08/19/journalists-facing-growing-digital-threats-cybersecurity-expert-warns/) | Advanced |
 | Critical information infrastructure designation | Did not exist | [The communications minister says all central-bank-licensed entities will soon be designated critical information infrastructure; no instrument, date or designation list published](https://www.myjoyonline.com/ghana-strengthens-financial-sector-cyber-defences-with-new-security-directive-launch/) | Advanced |
@@ -200,26 +202,30 @@ The rest is accretion on a network-quality problem the base already recognised: 
 
 ### Data Exchange
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Mobile money interoperability | Instant-pay value of GH¢120.1bn in 2023, with the interoperable share of the market not stated | [33.5m transactions worth GH¢6.2bn in June 2026, about 1.3% of total mobile-money value](https://www.myjoyonline.com/mobile-money-transactions-hit-gh%c2%a2492-9bn-in-june/) | Advanced |
+| National service record matching against the identity card | Did not exist | [Students whose national service records do not match their identity card must swear an affidavit or buy a Gazette publication before they can register, the service authority opening a final correction window on 24 August 2026 ahead of a 26 August deadline and directing affected students to its headquarters with original cards and supporting documents, working with the identity agency, the state publishing company and Commissioners for Oaths](https://www.graphic.com.gh/news/general-news/national-service-authority-opens-final-window-for-students-with-biodata-mismatch-issues-to-correct-them.html) | Advanced |
 
 ### Digital Identity and CRVS
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Biometric SIM re-registration | SIM registration moved fully online from June 2025 | [A fresh nationwide biometric drive still not begun, with the 2021 to 2023 registration declared invalid and the 2022 biometrics confirmed never authenticated against the identity database](https://www.graphic.com.gh/news/general-news/banks-telcos-and-hospitals-have-until-november-2-to-stop-taking-ghana-card-photocopies.html) | Stalled |
 | Ghana Card | About 18m adults registered, with a printed-card backlog outstanding and applications moved online | [19.2m registered aged 15 and over, 262 institutions integrated, instant issuance nationwide and eleven overseas missions](https://www.myjoyonline.com/nia-clears-640000-card-backlog-expands-nationwide-and-diaspora-operations/) | Advanced |
 | Ghana Card enrolment for children aged 6 to 14 | A plan announced to capture 7m under-fifteens and 3m diaspora | [3.1m children targeted, phased at 21 days per region, run jointly with the health insurance authority](https://www.myjoyonline.com/nia-targets-3-1-million-children-as-ghana-card-registration-for-ages-6-14-resumes-may-5/) | Advanced |
+| Ghana Card fee schedule | Did not exist | [First-time registration free below the age of 25 and GH¢30 for those 25 and over, card replacement GH¢200 and record updates free, across 276 district offices, made under the Fees and Charges (Miscellaneous Provisions) (Amendment) Regulations, 2025 (L.I. 2512) pursuant to Act 1080 and in force from 2 February 2026](https://www.myjoyonline.com/revised-ghana-card-fees-approved-by-parliament-not-unilaterally-introduced-nia/) | Advanced |
 | Ghana Card photocopy ban and verification service | Did not exist | [A three-month transition from 27 July to 2 November 2026 for banks, telecoms operators, hospitals, schools, insurers and agencies, with a sanctions ladder to suspension of verification access and licence withdrawal](https://www.graphic.com.gh/news/general-news/banks-telcos-and-hospitals-have-until-november-2-to-stop-taking-ghana-card-photocopies.html) | Advanced |
+| National criminal automated biometric identification system | Did not exist | [The interior minister stated on 24 August 2026 that the national crime automated biometric identification system is to reach 751 centres by the end of 2026](https://www.graphic.com.gh/news/general-news/cameras-to-replace-police-mttd-personnel-in-checking-traffic-violations-from-september-2026-muntaka.html) | Advanced |
 | National Identity Register Amendment Regulations 2026 | Did not exist; the 2012 regulations as amended in 2018 were the standing rules | [Biometric-only verification is law, visual inspection and photocopying are barred, and penalties run to 2,000 penalty units for an organisation](https://nia.gov.gh/wp-content/uploads/LI-2523-national-identity-register-amendment-regulations-2026.pdf) | Advanced |
-| Paid 24-hour identity service centre | Did not exist | [A paid tier operating around the clock on three shifts at the Labone centre in Accra, all services attracting approved charges, presented as part of the government's wider 24-hour economy programme and the first of several planned nationwide](https://thehighstreetjournal.com/nia-adopts-three-shift-system-for-24-hour-ghana-card-registration/) | Advanced |
+| Paid 24-hour identity service centre | Did not exist | [A paid tier operating around the clock on three shifts at the Labone centre in Accra since 1 August 2026, which the identity agency states on 19 August 2026 is optional and does not replace its district offices, 276 of which remain fully operational for card registration and related services](https://www.myjoyonline.com/nia-says-labone-prestige-centre-is-optional-district-offices-remain-operational/) | Advanced |
+| Police digital enrolment stations | Did not exist | [The interior minister told the police regional command conference on 21 August 2026 that the police service will deploy more than 700 digital enrolment stations nationwide by the end of 2026, to support intelligence-led policing alongside the automated road-traffic enforcement system and the national criminal biometric identification system](https://www.graphic.com.gh/news/general-news/police-to-deploy-700-digital-stations-nationwide-to-strengthen-crime-fight.html) | Advanced |
 | Electronic number plate system (DVLA) | ***Baseline not held*** | [Pilot stated to begin in August 2026 with nationwide rollout from January 2027, Cabinet having approved it and the Legislative Instrument in force since 28 May 2026 after a court challenge and parliamentary recess delayed it; the plates raise aluminium content from about 30% to 70%. No pilot size, cost or data-retention rule published](https://www.myjoyonline.com/dvla-to-pilot-new-electronic-number-plate-system-this-month-ahead-of-2027-rollout/) | ***Baseline not held*** |
 | Ghana Card as sole banking identity | ***Baseline not held*** | [Primary and sole identity document for financial onboarding at all regulated institutions, with biometric and liveness checks](https://radiotamaleonline.com/blog/2026/01/11/ghana-card-mandatory-for-banking-and-digital-transactions-bog) | ***Baseline not held*** |
 
 ### Digital Payments and Fintech
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Active mobile money users, dominant operator | ***Baseline not held*** | [19.3m at 31 December 2025 against 18.3m at 30 June 2026, with neither source stating the definition](https://mtn.com.gh/wp-content/uploads/2026/08/Scancom-PLC-MTN-Ghana-H1-2026-Results.pdf) | Regressed, basis not established |
 | Digital credit service provider regime | Did not exist | [A September 2025 directive in force from 1 November 2025, with applications from that month, the deadline elapsed and twenty unlicensed apps named on 2026-08-03](https://www.bog.gov.gh/wp-content/uploads/2026/07/Notice-No.22-BOG-SEC-GOV-2026-UNLICENSED-DIGITAL-CREDIT-SERVICES-PROVIDERS-1.pdf) | Advanced |
@@ -240,7 +246,7 @@ The rest is accretion on a network-quality problem the base already recognised: 
 
 ### Registries
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Births and deaths registry digitisation | Decentralised printing across 470 offices in 261 districts with electronically signed certificates, and 881,000 copies needed to clear the backlog | [Unchanged; nothing dated since](https://www.graphic.com.gh/news/general-news/ghana-news-births-and-deaths-registry-receives-security-papers-begins-clearing-backlog.html) | No change |
 | Land cadastre digitalisation | A fit-for-purpose cadastre programme expected to commence in 2023 | [Unchanged; no dated progress on file](https://lc.gov.gh/landconference/materials/NLC-Fit-for-purpose%20cadastral.pdf) | No change |
@@ -249,19 +255,21 @@ The rest is accretion on a network-quality problem the base already recognised: 
 
 ### Sectoral management information systems
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Meteorological agency digitalisation roadmap | Did not exist | [A donor-run gap assessment delivered, with an implementation roadmap yet to be written](https://techafricanews.com/2026/08/20/dmi-assessment-highlights-ict-cybersecurity-and-data-gaps-at-ghanas-gmet/) | Advanced |
 | Health management information system | ***Baseline not held*** | [Rollout directed and a vendor engaged; no completion, facility count or coverage figure held since](https://www.graphic.com.gh/news/general-news/health-ministry-rolls-out-new-digital-system-to-fix-hospital-service-disruptions.html) | ***Baseline not held*** |
 
 ### Other GovTech and e-Gov
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
+| Automated fire-safety compliance system | Did not exist | [The interior ministry stated on 24 August 2026 that it is rolling out an automated fire-safety compliance system from the end of that month](https://www.graphic.com.gh/news/general-news/cameras-to-replace-police-mttd-personnel-in-checking-traffic-violations-from-september-2026-muntaka.html) | Advanced |
 | Cross-border electronic commerce tax platform | Did not exist | [Piloted April 2026 with a named private operator and a first-full-year projection of GH¢3.2bn, which is a projection and not an outturn](https://ghanaiantimes.com.gh/parliament-approves-expenditure-for-electronic-revenue-generation-platform/) | Advanced |
 | Customs valuation AI system | Did not exist | [About 366,000 declarations analysed to 2026-07-17, 24% triggering more than one valuation risk indicator, with collections up 17.5% against a 6.3% rise in declared value](https://www.myjoyonline.com/publican-ai-system-generates-gh%c2%a2300m-additional-revenue-since-rollout-ato-forson/) | Advanced |
 | Ghana.gov services portal | About 1,500 to 2,000 services live against a 16,000 target, with a redesign due in the fourth quarter of 2025 | [The redesign still not launched, no service count published since July 2025, and tax payments initiated through the customs, tax-administration and tax-management systems intermittently failing since 2026-08-14 with no restoration date given](https://www.citinewsroom.com/2026/08/gra-moves-to-restore-normal-ghana-gov-tax-payment-processing/) | Stalled, payments degraded |
 | Integrated Tax Administration System | Did not exist | [In pilot at the Kaneshie Taxpayer Service Centre for selected Large Taxpayer Office filers, covering PAYE, VAT, VAT Withholding and Withholding VAT, replacing the domestic tax division's fragmented legacy systems](https://www.myjoyonline.com/understanding-ghanas-new-integrated-tax-administration-system-itas/) | Advanced |
+| Revenue authority data analytics programme | Did not exist | [The revenue authority is deepening its use of data analytics in tax administration, disclosing at its 2026 statistics and data analysts' seminar on 18 August 2026 that only about half of expected VAT revenue is being collected and that corporate income tax is also underperforming, and setting analysts to deliver practical data-driven revenue initiatives before the end of 2026](https://www.myjoyonline.com/gra-pushes-data-driven-tax-administration-to-boost-revenue-mobilisation/) | Advanced |
 | Second public sector reform strategy | Did not exist | [Draft on seven pillars, 27 programmes and 135 activities with the identity credential as the spine, expected at cabinet and Parliament by end-2026](https://www.graphic.com.gh/news/general-news/ghana-news-govt-targets-public-services-full-digitisation-under-npsrs-ii.html) | Advanced |
 | Electronic procurement system | ***Baseline not held*** | [Mandatory end-to-end electronic procurement with pre-disclosed evaluation criteria, integrated with the national payment system](https://www.myjoyonline.com/ghana-electronic-procurement-system-will-reduce-corruption-in-public-procurement-ppa/) | ***Baseline not held*** |
 | Fiscal electronic device policy | ***Baseline not held*** | [An advanced pilot under the 2018 fiscal-device Act, to be paired with a reward scheme, with a projection of GH¢7.2bn a year](https://www.mofep.gov.gh/sites/default/files/budget-statements/2026-Mid-Year-Fiscal-Policy-Review-Speech.pdf) | ***Baseline not held*** |
@@ -281,8 +289,9 @@ Three things went nowhere. The biometric SIM re-registration announced for the f
 
 ### AI
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
+| Automated road-traffic enforcement | Did not exist | [From September 2026 more than 47 traffic offences are to be enforced by face, mobile, in-vehicle and handheld cameras and radar, captured for review in a back-office control room before an electronic notice carrying the penalty and payment route is sent to the offender's phone; officers are to stop checking licences, seatbelts and insurance by hand](https://www.graphic.com.gh/news/general-news/cameras-to-replace-police-mttd-personnel-in-checking-traffic-violations-from-september-2026-muntaka.html) | Advanced |
 | Customs AI attributed revenue | Did not exist | [Monthly figures of GH¢73.44m, GH¢51.63m, GH¢72.5m, GH¢55.82m and GH¢35.17m to 17 July, the finance ministry's own and unaudited](https://www.myjoyonline.com/publican-ai-system-generates-gh%c2%a2300m-additional-revenue-since-rollout-ato-forson/) | Advanced |
 | Disaster management AI chatbot | Did not exist | [Owned by the national disaster management organisation, answering on floods, fires, storms, droughts, earthquakes, epidemics and localised hazards in several international and local languages and issuing automated responses during an emergency, with officers from ten regional offices trained online on 2026-06-04 and six regions still without an emergency operations centre](https://www.unesco.org/en/articles/ghanas-disaster-agency-turns-ai-reach-people-water-does) | Advanced |
 | Google Africa applied AI lab | Did not exist | [Described by its sponsor as Africa's first applied AI lab, sited at an Accra community centre with research and venture partners; the first cohort is not yet selected](https://www.googlecloudpresscorner.com/2026-07-01-Google-Cloud-Summit-in-Africa-Highlights-the-Continents-Digital-Transformation-and-Unveils-New-Agentic-AI-and-Infrastructure-Investments) | Advanced |
@@ -292,7 +301,7 @@ Three things went nowhere. The biometric SIM re-registration announced for the f
 
 ### ICT Industry
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Micro-enterprise tax platform | Did not exist | [Nationwide commercial deployment with the revenue authority, targeting about 530,000 small enterprises onboarded in the first twelve months](https://techafricanews.com/2026/05/25/trident-begins-commercial-rollout-of-ghana-revenue-authority-digital-msme-platform/) | Advanced |
 | Mobile money intellectual-property claim | Did not exist | [Live before the commercial division of the High Court, with the operator saying the claims are without merit and that it will contest fully; no monetary figure pleaded](https://www.connectingafrica.com/mobile-money/clydestone-sues-mtn-ghana-over-mobile-money-ip) | Advanced |
@@ -300,7 +309,7 @@ Three things went nowhere. The biometric SIM re-registration announced for the f
 
 ### Innovation ecosystem
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Assistive vision technology | A post-hackathon prototype from a 2024 competition | [Two devices in pilot, smart glasses and an ultrasonic obstacle detector, at a target price of about GH¢2,000 and a 1,500-user target within a year](https://techcabal.com/2026/08/04/assistive-technology-for-african-users/) | Advanced |
 | Startup equity funding | US$9,715,000 across seven startups in 2024 | [US$41,225,000 across eight startups in 2025, seventh in Africa and 2.5% of the continental total](https://disruptafrica.com/wp-content/uploads/2026/02/The-African-Tech-Startups-Funding-Report-2025.pdf) | Advanced |
@@ -318,14 +327,14 @@ Everything else accreted detail on a position already held. The oversight body h
 
 ### Literacy
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | National privacy awareness campaign | ***Baseline not held*** | [All sixteen regions, delivered in English plus five Ghanaian languages, scheduled to end September 2026](https://techafricanews.com/2025/09/16/ghana-launches-nationwide-privacy-awareness-campaign-to-safeguard-digital-rights/) | ***Baseline not held*** |
 | Revised basic-education curriculum | ***Baseline not held*** | [Announced not adopted, to go to the President, then cabinet, then Parliament](https://www.myjoyonline.com/haruna-iddrisu-announces-revised-basic-school-curriculum-with-artificial-intelligence-coding-and-tvet/) | ***Baseline not held*** |
 
 ### Training and skills
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Africa AI Upskilling Programme | Did not exist | [Two Ghanaian universities hold subgrants — US$45,864 to one and a three-year award to the other — giving them the Google DeepMind AI Research Foundations Curriculum under a train-the-trainer model](https://www.knust.edu.gh/index.php/news/news-items/knust-secures-grant-strengthen-ai-education) | Advanced |
 | Digital Parliaments Project Africa | Did not exist | [Launched by the POPVOX-DPP Foundation with the House Democracy Partnership; launch cohort of the parliaments of Ghana, Botswana and South Africa, the National Assemblies of the Gambia and Senegal, and the Pan-African Parliament; no funder, budget, duration or work programme stated](https://opemsuo.com/digital-parliaments-project-africa-launched-in-ghana-to-strengthen-legislative-processes/) | Advanced |
@@ -337,28 +346,32 @@ Everything else accreted detail on a position already held. The oversight body h
 
 ### Research institutions
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Innovation centre at a public university | ***Baseline not held*** | [An advanced technology innovation centre with a foreign development agency, recorded as active](https://old1.ug.edu.gh/news/ug-and-koica-sign-agreement-ict-based-start-ups-and-asian-studies-gk-impact-worth-9-million) | ***Baseline not held*** |
 
 <!-- narrative: capacity -->
+Training is where the year's supply of new programmes went, and the flagship finally published a number: the coders programme logged [more than 12,000 course completions in its second phase, the first throughput figure published, against a target of one million trained by 2030](https://techafricanews.com/2026/08/20/ghana-opens-2026-national-ict-week-ai-digital-skills/). Everything around it arrived from outside — [subgrants to two universities carrying a foreign lab's AI curriculum on a train-the-trainer model](https://www.knust.edu.gh/index.php/news/news-items/knust-secures-grant-strengthen-ai-education), [a memorandum placing technical and vocational teacher training under a UN skills academy](https://ghanaiantimes.com.gh/getfund-unesco-sign-mou-ai-programme/), [government-funded vendor-certified microdegrees taking 2,000 of 3,000 places allocated to Africa](https://www.myjoyonline.com/yea-partners-ghana-digital-centres-to-train-2000-youth-in-ai-cybersecurity-and-digital-skills/) — and the longest-running domestic programme grew by adding [an AI module, its largest curriculum expansion to date, with completers moving into the coders programme](https://africa.businessinsider.com/local/markets/ghana-strikes-ai-training-deal-with-chinese-multinational/).
 
+The school curriculum that would put any of this upstream of the training pipeline is [announced and not adopted, still to go to the President, then cabinet, then Parliament](https://www.myjoyonline.com/haruna-iddrisu-announces-revised-basic-school-curriculum-with-artificial-intelligence-coding-and-tvet/).
 <!-- /narrative -->
 
 ## Inclusion
 
 ### Access to services
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Unlimited fibre tariff | GH¢987 per month for an unlimited 100 Mbit/s package | [GH¢299 per month, with 300 Mbit/s at GH¢444 and 500 Mbit/s at GH¢999](https://www.myjoyonline.com/sam-george-announces-major-reduction-in-mtn-fibre-broadband-prices/) | Advanced |
+| Women's business mobile bundle | Launched April 2025 for women business owners | [More than 54,000 female subscribers by May 2026, against a target of 20,000 by 2028](https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-for-development/blog/empowering-women-micro-entrepreneurs-to-use-mobile-for-business-lessons-from-mtn-ghanas-adwumapa/) | Advanced |
 | Cash-grant programme on mobile-money rails | ***Baseline not held*** | [A full-year allocation of GH¢1.1bn, the highest since inception, with a recent cycle releasing about GH¢139m to roughly 350,580 households](https://www.mofep.gov.gh/sites/default/files/budget-statements/2026-Mid-Year-Fiscal-Policy-Review-Speech.pdf) | ***Baseline not held*** |
 
 ### Digital divides
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | American-funded digital inclusion and connectivity programming | In delivery | [Planned and running work slowed or stopped after the 2025 wind-down, with no replacement funder named](https://www.developingtelecoms.com/telecom-business/humanitarian-communications/20670-usaids-exit-leaves-a-gap-in-the-drive-for-meaningful-connectivity.html) | Regressed |
+| Women micro-entrepreneurs' use of mobile for business | Did not exist | [Women micro-entrepreneurs are 14% less likely than men to use a mobile phone for business and 17% less likely to use one across three or more business use cases, with affordability of data, low perceived value, weak digital skills and confidence, and limited access to internet-enabled handsets named as the binding barriers](https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-for-development/blog/empowering-women-micro-entrepreneurs-to-use-mobile-for-business-lessons-from-mtn-ghanas-adwumapa/) | Advanced |
 | Household survey of digital access | A 2019 regulator household survey, with a biennial repeat stated as intent | [No repeat round; 16.8% of households with internet access against 73.8% owning a television, 7.9% of people aged five and over owning a computer of any kind, and smartphone ownership at 58.4% urban against 28.1% rural](https://nca.org.gh/wp-content/uploads/2021/12/Household-Survey-on-ICT-in-Ghana-Abridged-NRF.pdf) | No change |
 | Fourth-generation coverage against usage | ***Baseline not held*** | [Fourth-generation networks reach more than 90% of the population while actual usage runs below 60%, with many users still on feature phones](https://africa.businessinsider.com/local/markets/ghana-strikes-ai-training-deal-with-chinese-multinational/) | ***Baseline not held*** |
 | Rural telephony and digital inclusion project | ***Baseline not held*** | [Continuing, with the fund restating it as top priority and taking an upgraded mast design](https://www.graphic.com.gh/news/general-news/ghana-news-improving-rural-telephony-project-remains-top-priority-gifec-ceo.html) | ***Baseline not held*** |
@@ -377,44 +390,46 @@ Affordability moved once, by ministerial pressure on a single operator rather th
 
 ### National statistics
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Quarterly employment statistics | None published | [Still none published, with a methodology requested in July 2026 and no timetable](https://www.myjoyonline.com/finance-minister-urges-gss-to-publish-quarterly-employment-rate-data/) | No change |
 | Governance Series survey | ***Baseline not held*** | [A six-monthly repeat panel run by the statistical service across all 16 regions, with its third wave published and its findings put by the Government Statistician to remedies that are digital ones, among them digitising public services and publishing official fees](https://www.graphic.com.gh/news/politics/ghana-news-governance-reforms-yielding-results-but-remain-fragile-government-statistician.html) | ***Baseline not held*** |
 
 ### Open data
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Fisheries Information System | Did not exist | [An online fisheries information system built by the fisheries ministry with the national multi-stakeholder group and launched in June 2026, with inadequate funding constraining the wider Fisheries Transparency Initiative commitment it sits under](https://gna.org.gh/2026/08/funding-constraints-threaten-ghanas-fisheries-transparency-agenda/) | Advanced |
 
 ### Use of satellite data
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Ghana Agricultural Information and Monitoring System | ***Baseline not held*** | [Live spatial/agricultural data platform named by BigData Ghana's co-founder as one of three live deployments; no coverage, user or funding figure published](https://www.myjoyonline.com/drowning-in-data-dying-from-bad-decisions-bigdata-ghana-ceo-charges-africa-to-act/) | ***Baseline not held*** |
 | National Forest Monitoring System and ForestTrace AI deforestation tracker | ***Baseline not held*** | [Live national forest monitoring system paired with the ForestTrace AI deforestation tracker, built toward EU Deforestation Regulation compliance for cocoa and gold supply chains; no coverage or accuracy figure published](https://www.myjoyonline.com/drowning-in-data-dying-from-bad-decisions-bigdata-ghana-ceo-charges-africa-to-act/) | ***Baseline not held*** |
 
 <!-- narrative: data -->
+What the state publishes about itself moved; what it publishes about the economy did not. The statistical service now runs [a six-monthly repeat governance panel across all 16 regions, whose third wave the Government Statistician put to remedies that are digital ones - digitising public services, publishing official fees](https://www.graphic.com.gh/news/politics/ghana-news-governance-reforms-yielding-results-but-remain-fragile-government-statistician.html), while quarterly employment data remains [unpublished, with a methodology requested in July 2026 and no timetable](https://www.myjoyonline.com/finance-minister-urges-gss-to-publish-quarterly-employment-rate-data/).
 
+The sectoral platforms are live and unmeasured. A [fisheries information system launched in June 2026 with inadequate funding constraining the transparency commitment it sits under](https://gna.org.gh/2026/08/funding-constraints-threaten-ghanas-fisheries-transparency-agenda/); the agricultural monitoring platform and the [forest monitoring system paired with an AI deforestation tracker, built toward EU deforestation-regulation compliance for cocoa and gold](https://www.myjoyonline.com/drowning-in-data-dying-from-bad-decisions-bigdata-ghana-ceo-charges-africa-to-act/) are both recorded as running with no coverage, accuracy or user figure published.
 <!-- /narrative -->
 
 ## Geopolitics
 
 ### US / hyperscaler activities
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Google AI research and community centre | Operating, with a US$37m cumulative investment figure disclosed by the company | [Unchanged; it hosts the new applied AI lab and no further Ghana investment figure has been published since](https://managingghana.com/2025/07/27/google-unveils-37m-investment-and-ai-hub-in-accra-to-boost-africas-ai-growth/) | No change |
 
 ### EU activities
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Ghana-EU digital instrument | A 2021 to 2027 programme with digital folded through three priority areas rather than given its own | [Unchanged in shape; the EUR 203m for 2021 to 2024 is followed by EUR 136m for 2025 to 2027 supplied at the mid-term review, split between green growth for jobs EUR 42m, smart and sustainable cities EUR 45m, good governance and security EUR 40m and support measures EUR 9m, with digital again given no priority area of its own](https://international-partnerships.ec.europa.eu/document/download/957bc807-a743-4aee-ae6d-b3b6e1a8f2f0_en?filename=mip-2021-c2021-9368-ghana-annex_en.pdf) | No change |
 
 <!-- narrative: geopolitics -->
-
+Neither external relationship in this chapter changed shape this year. The American presence is [unchanged, hosting the new applied AI lab with no further Ghana investment figure published since the US$37m cumulative disclosure](https://managingghana.com/2025/07/27/google-unveils-37m-investment-and-ai-hub-in-accra-to-boost-africas-ai-growth/), and the European programme took a mid-term top-up — [EUR 136m for 2025 to 2027 after EUR 203m for 2021 to 2024, split across green growth, cities, governance and support measures](https://international-partnerships.ec.europa.eu/document/download/957bc807-a743-4aee-ae6d-b3b6e1a8f2f0_en?filename=mip-2021-c2021-9368-ghana-annex_en.pdf) — with digital again given no priority area of its own. Gulf and Indian instruments are carried as ***Not held***.
 <!-- /narrative -->
 
 ## Where the record is thin
