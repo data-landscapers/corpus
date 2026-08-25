@@ -1,12 +1,12 @@
 ---
 title: Angola — digital transformation and data governance status report
-compiled: 2026-08-24
+compiled: 2026-08-25
 place: AGO
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-04
 intersections_read: 12
-sources_cited: 216
+sources_cited: 217
 sections_written: 37
 not_established: 0
 acquire_lines: 47
@@ -90,7 +90,7 @@ Holding is unevenly spread. [63% of urban residents held the card against 30.9% 
 
 The credential is [biometric, with ten fingerprints, photograph, signature and height captured at enrolment](https://greaterinternetfreedom.org/wp-content/uploads/2023/08/BDI_ANGOLA-FINAL-APPROVED-27.06.2023.pdf), but [its chip cannot be used for digital authentication, because no public key infrastructure has been established](https://openknowledge.worldbank.org/entities/publication/e3564630-9c7b-4ef5-b230-7f9247770b9f), and [there is no standalone digital identity law](https://openknowledge.worldbank.org/bitstreams/d1c06154-9015-4e69-9112-ccf5b7092b4a/download). [The one quantified digital-identity target, 10 million people with digitally verifiable identification by March 2030, had a baseline of zero and stood at zero in April 2025](https://documents1.worldbank.org/curated/en/099041125034559212/txt/P180693-f683d83b-a1c8-469e-bc4d-d13ca743108d.txt). Procurement of the missing layer opened in August 2026: [Despacho Presidencial 300/26 of 13 August authorised USD 28,000,000 and opened public tender for a National Digital Identity and Electronic Signatures Platform](https://pti.ao/pr-aprova-usd-28-milhoes-para-aquisicao-de-plataforma-de-identidade-digital-e-assinaturas-electronicas/), specified to carry up to 30 million digital identities and to support identification, authentication and legally valid electronic signature. No supplier or delivery date is stated.
 
-Underneath the card, the registration pipeline is thinner still. [Only 39.2% of children aged 0-4 had their birth registered in 2024, up from 24.8% in 2014](https://c2a.portais.gov.ao/uploads/Relatorio_Sintese_CENSO_2024_INE_Nov_2025_c5fba11d70.pdf) — the newest cohort is the least registered. [Most civil registration and identification records are still held in unindexed paper files](https://openknowledge.worldbank.org/bitstreams/d1c06154-9015-4e69-9112-ccf5b7092b4a/download). [Nascer com Registo, run by three ministries with EU and UNICEF support, places registry posts inside maternity wards so newborns leave registered and carrying a first card; it began in Zaire province in October 2025 and was formally launched in March 2026](https://angop.ao/noticias/politica/zaire-mbanza-kongo-inicia-registo-de-recem-nascidos-a-partir-da-maternidade/).
+Underneath the card, the registration pipeline is thinner still. [Only 39.2% of children aged 0-4 had their birth registered in 2024, up from 24.8% in 2014](https://c2a.portais.gov.ao/uploads/Relatorio_Sintese_CENSO_2024_INE_Nov_2025_c5fba11d70.pdf) — the newest cohort is the least registered. The 2023-24 demographic and health survey puts the same measure at [38% of children under five registered with the civil registry and 36% holding a birth certificate](https://dhsprogram.com/pubs/pdf/FR396/FR396.pdf), independently corroborating the census and separating the two things the census counts as one: registration and the document that proves it are two percentage points apart. [Most civil registration and identification records are still held in unindexed paper files](https://openknowledge.worldbank.org/bitstreams/d1c06154-9015-4e69-9112-ccf5b7092b4a/download). [Nascer com Registo, run by three ministries with EU and UNICEF support, places registry posts inside maternity wards so newborns leave registered and carrying a first card; it began in Zaire province in October 2025 and was formally launched in March 2026](https://angop.ao/noticias/politica/zaire-mbanza-kongo-inicia-registo-de-recem-nascidos-a-partir-da-maternidade/).
 
 ### Digital Payments and Fintech
 <!-- dpi.pay -->
