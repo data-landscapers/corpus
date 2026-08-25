@@ -1,18 +1,18 @@
 ---
 title: Cameroon — progress report, August 2025 – August 2026
-compiled: 2026-08-25
-period: 2025-08-01 to 2026-08-25
+compiled: 2026-08-26
+period: 2025-08-01 to 2026-08-26
 place: CMR
-ledger_rows: 112
+ledger_rows: 121
 not_held: 7
-record: 955dbb2d5230
+record: 97b6c4a024cd
 ---
 
 # Cameroon: progress report, August 2025 – August 2026
 
-*Of 112 systems and instruments on this place's ledger, 60 changed position between 2025-08-01 and 2026-08-25, 23 did not, 22 carry no stated baseline, and 7 are ***Not held*** at both ends.*
+*Of 121 systems and instruments on this place's ledger, 68 changed position between 2025-08-01 and 2026-08-26, 25 did not, 21 carry no stated baseline, and 7 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 161 sources for this place in the window — 53 in the earlier half (2025-08 to 2026-01), 108 in the later (2026-02 to 2026-08). The two halves are comparable, so the comparison is made over the whole window.*
+*Shape check, run before the comparison: 180 sources for this place in the window — 63 in the earlier half (2025-08 to 2026-01), 117 in the later (2026-02 to 2026-08). The two halves are comparable, so the comparison is made over the whole window.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -30,40 +30,42 @@ The data-protection authority did not move at either end: [created in law, not e
 
 ### Strategies, plans and policies
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Starlink Cameroon operating licence | Licence refused March 2025; the 2024 customs seizure circular operative | [A draft concession convention and specification finalised by the regulator, the file at the ministry undecided for more than two years, and the seizure circular still operative](https://newswatchcameroon.com/cameroon-starlink-licensing-stalls-over-security-sovereignty-concerns/) | Advanced, unresolved |
 
 ### Legislation and regulation
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Telecoms regulator public-establishment category | The regulator in the third category of public establishments | [Reclassified from the third to the second category of public establishments by a finance ministry order, set on the regulator average realised budget across the 2022, 2023 and 2024 financial years](https://art.cm/fr/article/lart-accede-a-la-2e-categorie-des-etablissements-publics-la-performance-institutionnelle) | Advanced |
+| E-government and access to public information bill | A preliminary draft on the right of access to and use of public information and the digital transformation of the administration | [A preliminary draft on the right of access to and use of public information and the digital transformation of the administration](https://www.minpostel.gov.cm/images/Documentation/patnuc/textes_preparation_pour_consultation_publique/e-Government/230519_Loi%20EadmOpendata%20FIN_CLEAN.pdf) | No change |
 | Loi n. 2010/012 on cybercrime and cybersecurity | In force and invoked to justify network restrictions | [In force and invoked to justify network restrictions; civil-society reform recommendations are pending and none is adopted on record](https://lejour.cm/cameroun-quand-les-lois-sur-la-cybercriminalite-menacent-les-libertes/) | No change |
 
 ### Data protection
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Loi n. 2024/017 on personal data protection | In force; no supervisory authority operating | [In force; no supervisory authority operating, the promulgated text acquired 2026-07-29](https://prc.cm/fr/multimedia/documents/10258-loi-n-2024-017-du-23-12-2024-web) | No change |
 | Personal data protection authority | Created in law, not established, unfunded | [Created in law, not established, unfunded](https://prc.cm/fr/multimedia/documents/10258-loi-n-2024-017-du-23-12-2024-web) | No change |
 
 ### Regional collaboration
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | CEMAC free roaming | Mandated for delivery by 2026-06-30 | [The deadline passed on 2026-06-30 and the base holds no record of implementation](https://techreviewafrica.com/news/4133) | Stalled |
 | Regional satellite data-residency framework | Did not exist | [Recommended: terrestrial gateways inside the region's jurisdiction, operator-equivalent financial obligations, and citizens' data stored on the continent](https://techreviewafrica.com/news/4133) | Advanced |
 
 ### Standards
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
+| Regional switch card-data security certification | Did not exist | [The sub-region's electronic-transaction processor renewed its PCI DSS v4.0.1 certification for the infrastructure on which it processes and transmits bank-card data, the certificate issued in March 2026 by an external assessor](https://gimac-afr.com/2026/04/10/securite-des-paiements-le-gimac-renouvelle-avec-succes-sa-certification-pci-dss-v4-0-1/) | Advanced |
 | Regulator quality-of-service monitoring platforms | Sanctions issued off manual inspections, with no dedicated monitoring platform on record | [Platforms in the regulator's hands, with field inspections of three operators at Douala on 13 and 14 April 2026](https://techafricanews.com/2026/01/07/cameroon-strengthens-telecom-oversight-as-trb-receives-qos-monitoring-platforms/) | Advanced |
 
 ### Public debate and participation in policymaking
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Election-period network restrictions | No restriction recorded in the base for the year to 2025-08 | [Four shutdowns recorded in Cameroon in 2025, including election-period restrictions on social platforms](https://www.accessnow.org/internet-shutdowns-2025/) | Regressed |
 | National Internet Governance Forum | Not held | [Held at Yaoundé from 18 to 20 August 2026 on the theme of moving from fragmentation to interoperability, positioning data as the foundation for interoperable digital public infrastructure; no national data-governance framework exists on the record for it to build on](https://www.237online.com/gouvernance-internet-forum-yaounde/) | ***Baseline not held*** |
@@ -80,7 +82,7 @@ Regulatory capability improved: the regulator went from issuing sanctions off ma
 
 ### Domestic budget appropriations and expenditure
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Lands ministry cadastre modernisation programme | FCFA 1,567,500,000 appropriated for FY2025, up from FCFA 1,203,574,000 in FY2024 | [FCFA 874,046,000 proposed for FY2026, a 44.2% cut on the FY2025 appropriation and below the FY2024 level](https://rfp.cm/wp-content/uploads/2025/11/PROJET-DE-LOI-FINANCES-2026_FR_26112025.pdf) | Regressed |
 | Telecommunications ministry digital-ecosystem programme | FCFA 10,330,875,000 plus FCFA 1,037,044,000 appropriated for FY2025, unchanged by the mid-year revising ordinance | [FCFA 19,494,457,000 proposed for FY2026, a 71.5% increase on the FY2025 combined appropriation, at proposed stage only](https://rfp.cm/wp-content/uploads/2025/11/PROJET-DE-LOI-FINANCES-2026_FR_26112025.pdf) | Advanced |
@@ -88,13 +90,13 @@ Regulatory capability improved: the regulator went from issuing sanctions off ma
 
 ### MoUs and other agreements
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Master service agreement with Ethio Telecom | Did not exist | [Four workstreams: fintech support, architecture and deployment of a sovereign government cloud, network expansion consultancy and institutional digital culture](https://www.telecomreviewafrica.com/articles/telecom-operators/13523-ethio-telecom-and-camtel-sign-deal-to-drive-cameroons-digital-transformation/) | Advanced |
 
 ### New investments
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Mobile network expansion syndicated financing | Did not exist | [FCFA 44.884bn for densification, desaturation and extension of the mobile network, framed as accelerating digital inclusion](https://techafricanews.com/2026/01/22/camtel-and-cbc-secure-44-884-billion-fcfa-financing-for-cameroon-mobile-network-expansion/) | Advanced |
 | Operator three-year network capital pledge | US$225m over three years pledged, particularly for the financial-services division | [The same pledge; no disbursement, drawdown or completion figure recorded in the window](https://itweb.africa/article/mtn-cameroon-works-with-camusat-to-expand-network/xnklOqz1wVYM4Ymz) | No change |
@@ -110,7 +112,7 @@ Private financing arrived and did not report against itself. A [syndicated FCFA 
 
 ### Connectivity
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Chad border fibre link | A cooperation agreement of May 2025 promised the section within fourteen days | [Not built; the April 2025 memorandum was suspended on digital-sovereignty grounds and the parties told to revise and re-sign](https://www.connectingafrica.com/fiber-networking/chad-tells-operators-to-fast-track-fiber-link-to-cameroon) | Regressed |
 | Fibre backbone Phase IV | Backbone about 12,000 km; no fourth-phase financing authorised | [CNY 1,350,963,161, about FCFA 108.4bn, authorised for a further 4,000 km, a national data centre and regional links to Chad, the Central African Republic and Nigeria](https://leconomie.info/extension-du-reseau-de-fibre-optique-le-cameroun-sendette-a-hauteur-de-108-milliards-de-fcfa-aupres-de-la-chine/) | Advanced |
@@ -119,32 +121,33 @@ Private financing arrived and did not report against itself. A [syndicated FCFA 
 
 ### Data Storage
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | National data-centre consolidation policy | Concentrate state resources on one or two national backup centres rather than multiplying public facilities | [The same position; no instrument, site or appropriation on record since](https://leconomie.info/high-tech-les-problemes-auxquels-font-face-les-datacenters/) | No change |
 | Zamengoe Data Centre | ***Baseline not held*** | [In operation, Tier III certified and tourable; the central bank inspected it with a view to hosting in December 2025 and a second prospective tenant was shown round on 2026-08-13](https://techreviewafrica.com/news/5885/camtel-highlights-digital-sovereignty-and-data-protection-at-government-action-fair-in-yaounde) | ***Baseline not held*** |
 
 ### Energy
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Douala meter-data centre | Did not exist | [Being built to centralise and secure smart-meter data](https://www.wearetech.africa/en/fils-uk/news/tech/cameroon-begins-rollout-of-20-000-smart-meters) | Advanced |
 | Smart-meter rollout | The electricity-reform programme financed in 2024, no meters deployed | [20,000 advanced meters deploying in phases after trials in January and February 2026](https://www.wearetech.africa/en/fils-uk/news/tech/cameroon-begins-rollout-of-20-000-smart-meters) | Advanced |
 
 ### Technical Capacity
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | IPv6 transition | ***Baseline not held*** | [Stated as essential; no target date, measured national adoption rate or instrument](https://techafricanews.com/2026/06/19/antic-drives-push-for-secure-and-sovereign-internet-at-national-dns-forum-in-cameroon/) | ***Baseline not held*** |
 
 ### Cybersecurity
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Device certification guidelines | Did not exist | [Certification guidelines for devices sold in Cameroon, issued under the regulator's digital-safety campaign](https://techafricanews.com/2025/11/10/cameroon-strengthens-digital-safety-campaign-with-device-certification-guidelines/) | Advanced |
 | Intelligent urban video surveillance extension | Three tranches authorised, about FCFA 111.5bn; the first phase delivered 1,500 cameras and 2,000 portable radios | [A fourth tranche of FCFA 39.2bn, bringing FCFA 150.8bn mobilised over eight years across three Chinese lenders](https://lejour.cm/un-emprunt-de-plus-de-39-milliards-fcfa-pour-la-videosurveillance-urbaine/) | Advanced |
 | National computer incident response team | Operating; 19m threats identified and blocked in 2024 | [Intrusion-detection and prevention hardware and software commissioned; the team ingests about 200GB a day and runs the national key infrastructure](https://techafricanews.com/2026/01/21/cameroon-strengthens-cybersecurity-with-advanced-systems-at-national-cirt/) | Advanced, capability hardened |
 | National DNSSEC validation rate | No figure published | [56.60% national average (2025-12-08), with one operator at 2.75% and most others at 0%; the target is restated as 100% by end-2026](https://leconomie.info/dnssec-et-rpki-lantic-muscle-la-defense-du-cyberespace-camerounais/) | Stalled |
+| Share of national domains secured domestically | Did not exist | [Operators including the state operator secure over 73% of the country's domains against a national target of 98% by 2026, stated at the state operator's cloud event of 10-12 December 2025, at which it also put revenue from its data-transport activities above FCFA 33.7bn in 2024, more than 17% up on 2023](https://lavoixdesentreprises.info/2025/12/11/digital-sovereignty-camtel-unveils-the-performance-of-its-zamengoe-datacenter-to-businesses-and-government-agencies/) | Advanced |
 | DNSSEC signing of the national domain | The national zone cryptographically signed | [Unchanged; the agency's own line is that signing the zone is only a step and the chain of trust depends on resolver-side validation](https://leconomie.info/dnssec-et-rpki-lantic-muscle-la-defense-du-cyberespace-camerounais/) | No change |
 | Average loss per online job scam | Not held | [An average of 132,000 FCFA per incident for Cameroonian victims, against 58,000 FCFA in Chad; 82% of the Cameroonian cases described are WhatsApp-based social engineering linked to Nigerian networks, where the Chadian pattern is more localised SMS and voice phishing](https://issafrica.org/research/books-and-other-publications/digital-deception-online-job-scams-amid-cybercrime-vulnerability-in-cameroon-and-chad) | ***Baseline not held*** |
 
@@ -160,55 +163,61 @@ Energy metering moved from financed to deployed: [20,000 advanced meters entered
 
 ### Data Exchange
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | National government interoperability layer | Not held | [The posts and telecommunications ministry has tasked the state operator CAMTEL with carrying national data and infrastructure interoperability; no design, timetable or budget published](https://www.digitalbusiness.africa/fgi-cameroun-camtel-mandatee-de-faciliter-linteroperabilite-nationale/) | Advanced |
 | Trilateral customs steering committee | Did not exist | [The committee established, with commitments to harmonised procedures, digital interoperability and coordinated risk management on two named corridors](https://von.gov.ng/nigeria-benin-cameroon-customs-deepen-regional-border-cooperation/) | Advanced |
+| Financial inclusion committee data platform | An IT platform of several databases which subject institutions feed irregularly, whose requests to rectify erroneous declared data are rare and whose public consultation service is little used | [An IT platform of several databases which subject institutions feed irregularly, whose requests to rectify erroneous declared data are rare and whose public consultation service is little used](https://policyaccelerator.uncdf.org/whats-new/cnef-cameroon-consumer-protection) | No change |
 | Trade single window (GUCE) | ***Baseline not held*** | [In operation as the reference platform for tracking trade-related financial flows; the audit chamber recorded discrepancies between revenues declared by the forestry, mining and customs administrations and the amounts registered in the platform, and no cross-checking mechanism between the two](https://www.economieducameroun.info/gestion-publique-forets-mines-douanes-et-guichet-unique-ne-se-parlent-pas/) | ***Baseline not held*** |
 
 ### Digital Identity and CRVS
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | AILGLES biometric payroll system | Did not exist; payroll fraud via forged or duplicate birth certificates unchecked | [Operational since early 2025, actively flagging fraudulent payroll claims (53,000+ flagged by June 2026), now running alongside a separate Finance Ministry census of 950,000+ dependent-child birth certificates](https://www.biometricupdate.com/202608/cameroon-when-birth-certificates-represent-children-who-do-not-exist) | Advanced |
 | Biometric national identity card | In issuance from one production centre | [Two production centres, the second at about 2,000 cards a day, with a displacement-response enrolment track](https://www.biometricupdate.com/202508/new-biometric-id-card-center-opens-for-citizens-in-northern-cameroon) | Advanced |
+| Biometric voter register | In operation on third-generation kits | [A register of about 8.2 million voters under deduplication ahead of the 12 October 2025 presidential vote, with hundreds of thousands of biometric cards uncollected - more than 350,000 in the Littoral region, about 50,000 of 115,000 collected in the South, 31,861 of 66,515 distributed in the South West - some printed in 2018 or earlier, the elections board warning that a registered voter without a card cannot vote](https://www.biometricupdate.com/202509/cameroon-signals-urgency-on-biometric-voter-id-collection-as-presidential-vote-nears) | Advanced |
 | Secondary-school student digital identity | A unique student identification number only, assigned through a ministry portal since 2024 | [A digital identity card provided for, linked to academic, financial and disciplinary records and to school-fee payment; no issuance reported](https://www.biometricupdate.com/202606/cameroon-expands-education-digitalization-with-student-digital-id-program) | Advanced |
 | Yaoundé taxi and driver digital identity | Did not exist | [Compulsory registration on a city platform, with a QR code and a unique door number per driver; unregistered taxis barred after the deadline](https://www.biometricupdate.com/202607/cameroon-introduces-digital-id-system-for-taxi-owners-drivers) | Advanced |
-| Biometric voter register | In operation on third-generation kits | [In operation; the base carries no dated statement through the October 2025 presidential election](https://lejour.cm/listes-electorales-elecam-acquiert-1000-nouveaux-kits-denrolement/) | No change |
 | Décret n. 2025/059 on identity titles | In force, governing five identity-title classes | [In force, unamended](https://www.prc.cm/files/e7/0f/3b/6ccd45456387ac207b4797c196318209.pdf) | No change |
 | Civil-status registration digitisation pilot | Baseline not held | [Equipment out to tender by the United Nations development programme for three pilot centres digitising civil-status registration; the centres, their locations, the value and the timetable are not named in the notice](https://www.developmentaid.org/tenders/view/1696885/equipment-for-the-digitalisation-of-civil-status-registration-at-03-pilot-center) | ***Baseline not held*** |
 | Free identity-card delivery, Yaoundé 5 | ***Baseline not held*** | [4,000 free cards delivered, some to recipients blocked for over fifteen years by duplicate-identity records, cleared by seconding police officers on site](https://tribunedelinfo.com/de-la-promesse-a-la-cni-en-main-4000-beneficiaires-soulages-a-yaounde-5/) | ***Baseline not held*** |
 
 ### Digital Payments and Fintech
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | CEMAC interoperable QR-code standard | Did not exist | [Any bank, microfinance or mobile-money application can scan any merchant code across the six member states, routed and settled through the regional switch](https://leconomie.info/article/paiement-numerique-le-gimac-officialise-la-norme-qr-code-interoperable-de-la-cemac) | Advanced |
 | Central bank membership of the pan-African settlement system | The regional central bank not a participant | [The system extended to all six member states and 72m people, taking the network to 28 countries and sixteen switches](https://techafricanews.com/2026/07/09/beac-joins-papss-to-strengthen-cross-border-payments-in-central-africa/) | Advanced |
 | Digital customs-duty payment card | Did not exist | [A business card announced for fully digital settlement of customs duties; no launch date or volume on file](https://leconomie.info/commerce-exterieur-le-cameroun-se-dote-dun-outil-de-paiement-douanier-digital/) | Advanced |
 | Regional switch annual traffic | About 14.5m transactions worth about FCFA 710bn (2024) | [20.3m transactions worth FCFA 863bn (2025), up 40% by volume, across 153 participants](https://leconomie.info/article/paiements-numeriques-gimacpay-enregistre-203-millions-de-transactions-pour-863-milliards-de-fcfa-en-2025) | Advanced |
 | Regional switch tariff grid revision | Did not exist | [Under consultation; the operator concedes current pricing penalises low-value transactions and drives artificial splitting of payments](https://leconomie.info/article/paiements-numeriques-gimacpay-enregistre-203-millions-de-transactions-pour-863-milliards-de-fcfa-en-2025) | Advanced |
+| Tresor Pay public revenue platform | Did not exist | [An order signed 28 May 2025 makes the Treasury's platform the only lawful channel for collecting non-tax revenue, giving named departments three months to use it exclusively; it accepts mobile money, bank cards and post-office counter payments, with receipt authentication and real-time tracking, against a 2025 non-tax revenue target of FCFA 361bn on an estimated potential of nearly FCFA 600bn](https://www.wearetech.africa/en/fils-uk/news/tech/cameroon-mandates-digital-payment-platform-for-non-tax-revenues) | Advanced |
 | CAMTEL Blue Money | In operation, no published metric | [In operation, no published metric](https://lejour.cm/mobile-money-le-lancement-de-blue-money-annonce/) | No change |
 | Interoperable merchant payment volume | ***Baseline not held*** | [48,605 transactions worth FCFA 9.7bn in the first quarter of 2026, under 1% of the switch's 2025 volume; an average ticket of FCFA 199,485 against FCFA 42,512 across all flows](https://leconomie.info/paiement-marchand-moins-de-1-des-transactions-interoperables-enregistrees-en-zone-cemac-au-premier-trimestre-2026/) | ***Baseline not held*** |
 
 ### Registries
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Device import-duty regime by handset identifier | Did not exist | [Importers must declare each device by its identifier through the customs platform and pay duties before network use, with an amnesty for devices connected before 2026-04-01](https://techcabal.com/2026/04/01/cameroon-imei-system-mobile-device-import-duties/) | Advanced |
 | Digital birth certificates | Provided for in the 2024 civil-registration law; none issued | [Routine issuance across ten municipalities in three regions, with the same legal worth as physical certificates](https://www.biometricupdate.com/202601/cameroon-councils-begin-issuance-of-digital-birth-certificates) | Advanced |
 | Digital civil-registration programme | No implementation partner named | [An implementation partner engaged, with a 2029 target, to integrate with the biometric identity card and the voter kits](https://www.biometricupdate.com/202510/cameroon-partners-with-liber-technologies-to-pursue-crvs-reforms) | Advanced |
+| Digital civil-status documents issued in the Far North | Did not exist | [More than 50,000 digital civil-status documents produced across 26 centres in the Far North, on infrastructure - desktops, multifunction printers, biometric kits and secure servers - installed from 2020 under a donor-funded legal-identity initiative; one council issued 343 birth, marriage and death certificates between January and March](https://www.undp.org/cameroon/stories/digitalizing-birth-certificates-where-technology-giving-every-child-name-and-future-0) | Advanced |
 | Douala digital cadastre and possession certificate | Did not exist | [About 200,000 land files to be digitised, with a digital possession certificate; no budget, timeline or start date published](https://leconomie.info/douala-la-mairie-de-ville-veut-digitaliser-son-cadastre-et-creer-un-certificat-de-possession-numerique/) | Advanced |
-| Network blocking of unregistered handsets | Did not exist | [Not implemented; two operators refused on unmet technical, operational and legal prerequisites, with the finance minister making them liable for the duties](https://www.connectingafrica.com/regulation/cameroon-warns-telcos-to-block-illicit-devices-or-face-tax-penalties) | Stalled |
+| FindMe certified digital addressing | About 15,000 addresses generated since the 2024 postal-operator agreement underpinning the national postal location plan | [A bank partnership reported 19 June 2025 requires every new customer to supply a geolocated postal address certified through the startup's postal-operator tie-up, reaching more than 700,000 clients of that bank; certification costs FCFA 2,000](https://launchbaseafrica.com/2025/06/19/from-15k-to-700k-cameroons-findme-rides-new-bank-deal-to-scale-digital-addressing/) | Advanced |
+| Network blocking of unregistered handsets | Did not exist | [Deactivation of handsets on which customs duty has not been paid begins 1 September 2026 under a communique signed by the finance minister on 20 August 2026, the three operators moving to enforcement after they, the regulator and Customs converged on the date; an earlier date of 25 May 2026 was abandoned when operators objected that no test phase had preceded a full-scale rollout and other sector actors said the tooling to block undeclared devices was not in place](https://www.digitalbusiness.africa/blocage-des-telephones-non-dedouanes-cameroun-enfin-le-consensus-entre-les-acteurs/) | Advanced |
 | Law 2024/016 on civil registration | In force | [In force, unamended](https://www.biometricupdate.com/202501/new-civil-registration-law-refocuses-cameroons-push-for-sdg-16-9-legal-id-target) | No change |
+| Unified social registry | Provided for under the adaptive safety nets and economic inclusion project, whose Component 3 on shock-responsive digital delivery systems - a social registry and a digital payments system - is appraised at US$5m equivalent; safety nets were estimated to reach 25% of the poor population | [Provided for under the adaptive safety nets and economic inclusion project, whose Component 3 on shock-responsive digital delivery systems - a social registry and a digital payments system - is appraised at US$5m equivalent; safety nets were estimated to reach 25% of the poor population](http://documents.worldbank.org/curated/en/116291646834371027/pdf/Cameroon-Adaptive-Safety-Nets-and-Economic-Inclusion-Project.pdf) | No change |
 | Birth-certificate cases processed | ***Baseline not held*** | [Over 49,000 cases processed under a World Bank-backed programme (2026-08)](https://kamerinfosplus.com/2026/08/10/etat-civil-la-cdhc-veut-un-systeme-moderne-digitalise-et-accessible-a-tous/) | ***Baseline not held*** |
 | National civil-status registry platform | ***Baseline not held*** | [Deployed in an unnamed set of pilot councils; no count and no national rollout date](https://techafricanews.com/2026/07/16/cameroon-urges-north-west-councils-to-accelerate-digital-transformation/) | ***Baseline not held*** |
 
 ### Sectoral management information systems
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Basic-education information system upgrade | Did not exist | [EUR 8m of technical assistance over 36 months covering the education management information system, the basic-education ministry's WebSIG platform, interconnection of the education databases and dynamic dashboards; nothing reported delivered](https://www.unesco.org/fr/articles/lunesco-et-le-cameroun-signent-un-accord-pour-la-mise-en-oeuvre-du-projet-dappui-leducation-de-base) | Advanced |
+| e-Justice-CM court management system | Did not exist | [Launched after plans to import a neighbouring country's court-management system were dropped, backed by US$10m from the African Development Bank, with 42 court registries on terminals linked to the secure judicial network against a target of 60 by the end of 2025](https://www.businessincameroon.com/public-management/3009-15103-cameroon-justice-system-makes-slow-progress-despite-reforms-since-2018) | Advanced |
 | National Digital Health Strategic Plan 2026-2030 | The 2020-2024 plan expired, system maturity scored 1.8 out of 5 at evaluation | [Eight strategic axes including governance, legal framework and health-information-system interoperability](https://leconomie.info/cameroun-un-plan-strategique-pour-developper-la-sante-numerique-entre-2026-et-2030/) | Advanced |
 | National examinations digitisation | Did not exist | [Three pillars agreed — site interconnection, examination data in the sovereign national cloud, and examination-management platforms; nothing reported live](https://techafricanews.com/2026/01/19/camtel-partners-with-cameroon-baccalaureate-office-to-digitize-national-exams/) | Advanced |
 | Pandemic Fund preparedness project | Did not exist | [Launched with FCFA 13.44bn from the fund inside an envelope of FCFA 91.5bn, about US$160m at the source's implied rate (2026-08-01), to digitise community surveillance in 42 municipalities, stand up seven regional emergency call centres and increase interoperability of the national health information systems](https://echosante.info/securite-sanitaire-le-cameroun-lance-le-projet-pandemic-fund/) | Advanced |
@@ -216,13 +225,13 @@ Energy metering moved from financed to deployed: [20,000 advanced meters entered
 
 ### Other GovTech and e-Gov
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Electronic visa and consular platform | Entry visas online only | [Visas plus second-generation consular cards and travel documents, across 46 consular posts and two international airports](https://lejour.cm/prestations-consulaires-plus-de-540-mille-visas-delivres-en-trois-ans/) | Advanced |
 | Local-government digitisation programme | Did not exist | [FCFA 92bn announced; no financier, no signed instrument and no start date](https://www.wearetech.africa/en/fils-uk/news/public-management/cameroon-launches-163-million-push-to-digitize-local-governments) | Advanced |
+| Tax administration system modernisation | A tax directorate information-systems modernisation programme running since 2018 with no integrated system contracted | [The Integrated Tax and Duty Management System was contracted on 10 April 2026 to a consortium of two Tunisian, one Canadian and one Cameroonian firm at EUR 5.997m excluding tax and EUR 7.15m including it - about FCFA 4.7bn - over 24 months, financed by KfW, after a restricted international tender opened 24 February 2025 and the lender's no-objection of 7 April 2026; the platform is specified to interoperate with customs, budget and treasury systems](https://www.businessincameroon.com/public-management/0705-16135-cameroon-awards-4-7-million-tax-digitalization-contract-to-international-consortium) | Advanced |
 | Electronic public-procurement platform | In operation on the grant-funded upgrade | [In operation; no dated update](https://www.biometricupdate.com/202506/cameroon-unveils-upgraded-digital-procurement-system-with-12m-korean-grant) | No change |
 | CAMWATER WATERIS commercial platform | ***Baseline not held*** | [Centralised platform replacing decentralised commercial management, with automated meter reading and expanded electronic payment channels; rollout not yet reported complete](https://lecourrierducameroun.net/2026/08/16/camwater-met-le-cap-sur-la-modernisation-commerciale-et-lexcellence-operationnelle-a-travers-lecosysteme-integre-wateris/) | ***Baseline not held*** |
-| Tax administration system modernisation | ***Baseline not held*** | [A modernisation project under way to interconnect tax services and automate procedures; no delivery date](https://leconomie.info/digitalisation-fiscale-au-cameroun-la-direction-generale-des-impots-opere-sa-mue/) | ***Baseline not held*** |
 
 <!-- narrative: dpi -->
 Identity issuance widened and its registry base began working. The biometric card went from [one production centre to two, the second at about 2,000 cards a day](https://www.biometricupdate.com/202508/new-biometric-id-card-center-opens-for-citizens-in-northern-cameroon). Digital birth certificates went from provided for in the 2024 law with none issued to [routine issuance across ten municipalities in three regions](https://www.biometricupdate.com/202601/cameroon-councils-begin-issuance-of-digital-birth-certificates), and the digitisation programme behind them went from no named implementation partner to [a partner engaged on a 2029 target](https://www.biometricupdate.com/202510/cameroon-partners-with-liber-technologies-to-pursue-crvs-reforms).
@@ -238,19 +247,19 @@ The largest statistical movement is the census: from a last enumeration in 2005 
 
 ### Digitalisation of sub-national government
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Council digitisation coverage | ***Baseline not held*** | [230 councils, about 64% nationally, supported by the ICT agency; 48.6% of North West councils operate functional websites; 335 municipal portals developed and 145 authorities equipped](https://techafricanews.com/2026/07/16/cameroon-urges-north-west-councils-to-accelerate-digital-transformation/) | ***Baseline not held*** |
 
 <!-- narrative: digitalisation -->
-
+The base carries one row here and no position for it a year ago, so the chapter records a level rather than a movement: [230 councils, about 64% nationally, supported by the ICT agency, with 335 municipal portals developed and 145 authorities equipped](https://techafricanews.com/2026/07/16/cameroon-urges-north-west-councils-to-accelerate-digital-transformation/).
 <!-- /narrative -->
 
 ## Technology
 
 ### AI
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | AI-generated simulations for secondary schools | Did not exist | [The secondary-education ministry has formally adopted AI-generated simulations for use in secondary schools, saying it produced more than 250 simulations in under a month at no cost, with teacher demonstrations in chemistry, biology, languages and industrial techniques](https://www.digitalbusiness.africa/e-education-cameroun-le-minesec-valide-la-simulation-ia-avantages-et-limites/) | Advanced |
 | Driver-behaviour monitoring system | Did not exist | [Presented; no deployment scale, contract, fleet count or data-protection regime published](https://techreviewafrica.com/news/5251) | Advanced |
@@ -267,7 +276,7 @@ The largest statistical movement is the census: from a last enumeration in 2005 
 
 ### ICT Industry
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Douala smart port digital platform | Did not exist | [A build-operate-transfer concession signed with the port authority on 2025-11-17, with pension-fund equity behind it from March 2026; no investment amount, share or schedule published](https://leconomie.info/douala-smart-port-la-cnps-entre-dans-le-tour-de-table-dinnovendi-data-technologies/) | Advanced |
 | Startup funding raised | ***Baseline not held*** | [Two funded startups raising US$300,000 in 2025, of which US$100,000 was AI, 0.2% of the African AI total](https://disruptafrica.com/wp-content/uploads/2026/02/The-African-Tech-Startups-Funding-Report-2025.pdf) | ***Baseline not held*** |
@@ -275,7 +284,7 @@ The largest statistical movement is the census: from a last enumeration in 2005 
 
 ### Innovation ecosystem
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Climate innovation hub | Did not exist | [An incubation and collaboration platform for renewable energy, sustainable agriculture, waste and urban resilience; no budget, cohort or funding figure published](https://www.wearetech.africa/en/fils-uk/news/cameroon-launches-climate-innovation-hub-to-advance-green-tech) | Advanced |
 | Pyramid local software suite | Did not exist | [A browser and mail service available, with a media service still being finalised; two years' build at a stated FCFA 20m and more, hosted on domestic infrastructure](https://leconomie.info/kmr-start-up-hub-lance-pyramid-un-ecosysteme-numerique-camerounais-a-stockage-local/) | Advanced |
@@ -291,14 +300,14 @@ Private technology moved where public technology did not. A [smart-port digital 
 
 ### Literacy
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Digital financial-literacy project | Running since June 2024 in Senegal and Cameroon | [Closed on 2026-07-15; a digital financial-services comparison platform left with no funded data-update mechanism, offered to both states and neither reported as having accepted](https://business221.com/2026/07/24/projet-finance-4-all-au-senegal-265-personnes-issues-de-la-societe-civile-formees-a-leducation-financiere-numerique/) | Closed |
 | Bank-fee comparison platform | A web and mobile application comparing bank charges and loan costs, commercial banks only | [The same scope; neither committed extension is recorded as landed](https://itweb.africa/article/cameroon-boosts-financial-literacy-with-new-digital-platform/Pero3qZ32EZvQb6m) | No change |
 
 ### Training and skills
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | AI workforce target of 60,000 specialists by 2040 | The target unveiled: 60,000 specialists by 2040 including 40% women, 12,000 direct jobs, and 0.8 to 1.2% of GDP | [The strategy still being developed a year on; AI modules in curricula named among ten priorities, with a roadmap tabled but no adoption, budget line or trainee count](https://cameroon-tribune.cm/articles/11573/en/artificial-intelligence-pm-instructs-completion-of-national-strategy) | Stalled |
 | Operator and higher-education skills partnership | Did not exist | [A memorandum signed 2026-06-03 and 115 internships recruited, in disciplines from telecommunications and cybersecurity to finance and law](https://techafricanews.com/2026/07/22/camtel-and-minesup-launch-115-internship-opportunities-to-boost-youth-employability/) | Advanced |
@@ -308,26 +317,26 @@ Private technology moved where public technology did not. A [smart-port digital 
 
 ### Research institutions
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Academic chair in digital governance | Did not exist | [A chair to structure research and training, fund doctoral study and advanced training for regulator staff, governed by a scientific steering committee](https://techafricanews.com/2026/02/11/cameroon-strengthens-digital-transformation-with-university-and-art-partnership/) | Advanced |
 | Sovereign scientific database and digitisation centre | ***Baseline not held*** | [A sovereign scientific database on a dedicated national platform and a centre for the digitisation of scientific and technical information](https://www.cameroon-tribune.cm/articles/11572/en/artificial-intelligence-govt-engages-on-harnessing) | ***Baseline not held*** |
 
 <!-- narrative: capacity -->
-
+Training capacity accreted while the framework meant to direct it did not. Three programmes advanced on their own terms - [115 internships recruited under a memorandum signed 2026-06-03](https://techafricanews.com/2026/07/22/camtel-and-minesup-launch-115-internship-opportunities-to-boost-youth-employability/), [a sixth digital centre with 481 trained and 50 international certifications issued](https://techreviewafrica.com/news/5372), [an academic chair funding doctoral study and advanced training for regulator staff](https://techafricanews.com/2026/02/11/cameroon-strengthens-digital-transformation-with-university-and-art-partnership/) - while the national workforce target sits behind [a strategy still in development a year on, with a roadmap tabled but no adoption, budget line or trainee count](https://cameroon-tribune.cm/articles/11573/en/artificial-intelligence-pm-instructs-completion-of-national-strategy). The year's one closure is the financial-literacy project, which [ended on 15 July 2026 leaving a comparison platform with no funded data-update mechanism, offered to both participating states and neither recorded as having accepted it](https://business221.com/2026/07/24/projet-finance-4-all-au-senegal-265-personnes-issues-de-la-societe-civile-formees-a-leducation-financiere-numerique/).
 <!-- /narrative -->
 
 ## Inclusion
 
 ### Access to services
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Internet subscriptions | ***Baseline not held*** | [Over 15m internet subscriptions, 99% of them mobile; data traffic up 26%; fixed teledensity described as extremely low; over 11m active mobile financial services subscribers](https://techafricanews.com/2025/12/09/cameroons-telecom-sector-grows-18-in-2024-driven-by-mobile-and-digital-services/) | ***Baseline not held*** |
 
 ### Digital divides
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Bridging the digital gender divide project | EUR 3m committed, active | [EUR 3m committed, active; no dated progress, output or Cameroon-side figure recorded in the window](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=DE-1-202321883) | No change |
 | Rural connectivity component of the national connectivity project | ***Baseline not held*** | [FCFA 55bn; 328 unserved localities targeted by 2028 in two phases of 120 sites plus an optional 208, with works expected by 2026-12-30](https://www.businessincameroon.com/public-management/0911-15315-digital-divide-cameroon-aims-to-connect-328-rural-communities-by-2028) | ***Baseline not held*** |
@@ -340,38 +349,38 @@ Skills moved in cohorts against a target that did not move at all. The [60,000-s
 
 ### National statistics
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Fourth population and agriculture census | The last census was in 2005; a pilot ran October to November 2025 | [Still in the field: a complementary period runs 2026-08-01 to 2026-09-15 to complete the identification of households, persons and agricultural holdings missed by the 2026-05-29 close; enumeration ran with 32,059 agents at a budget of FCFA 13.28bn against FCFA 64bn initially projected, and no results are published](https://leconomie.info/recensement-2026-le-cameroun-deploie-des-outils-numeriques-et-satellitaires-pour-la-collecte-des-donnees/) | Advanced, close slipped to 2026-09-15 |
 | Open SDG indicator platform | Built by the statistics institute in 2024, configuration work through the first half of 2025, not launched | [Launched, publishing development-goal indicator data for public access](https://leconomie.info/open-sdg-une-plateforme-pour-le-suivi-des-odd-au-cameroun/) | Advanced |
 
 ### Open data
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | National open-data policy | Provided for in the roadmap, nothing published | [Provided for in the roadmap, nothing published](https://techafricanews.com/2025/07/08/cameroon-unveils-2040-ai-roadmap-anchored-on-seven-strategic-pillars/) | No change |
 | Transparency and good governance code | In force; requires budget-information dissemination and civil-society involvement | [In force; the finance ministry was still running first-contact sensitisation with civil society in April 2026](https://leconomie.info/finances-publiques-la-societe-civile-de-lest-mobilisee-pour-mieux-surveiller-le-budget-citoyen-2026/) | No change |
 
 ### Use of satellite data
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Satellite-and-sampling census enumeration methodology | Did not exist | [Smartphone enumeration combined with satellite imagery and sample estimation, adopted for areas inaccessible through insecurity or isolation](https://leconomie.info/recensement-2026-le-cameroun-deploie-des-outils-numeriques-et-satellitaires-pour-la-collecte-des-donnees/) | Advanced |
 
 <!-- narrative: data -->
-
+The census is where the year's data work is, and it is not finished: enumeration [ran with 32,059 agents at FCFA 13.28bn against FCFA 64bn initially projected, with a complementary period to 15 September 2026 for households, persons and holdings missed by the May close, and no results published](https://leconomie.info/recensement-2026-le-cameroun-deploie-des-outils-numeriques-et-satellitaires-pour-la-collecte-des-donnees/) - the first since 2005, and enumerated by a method itself new, [smartphone collection combined with satellite imagery and sample estimation where insecurity or isolation bars access](https://leconomie.info/recensement-2026-le-cameroun-deploie-des-outils-numeriques-et-satellitaires-pour-la-collecte-des-donnees/). Publication moved once and policy not at all: the development-goal platform built in 2024 is now [launched and publishing indicator data](https://leconomie.info/open-sdg-une-plateforme-pour-le-suivi-des-odd-au-cameroun/), while the open-data policy remains [provided for in the roadmap with nothing published](https://techafricanews.com/2025/07/08/cameroon-unveils-2040-ai-roadmap-anchored-on-seven-strategic-pillars/).
 <!-- /narrative -->
 
 ## Geopolitics
 
 ### US / hyperscaler activities
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | CAMTEL and Amazon Web Services approach | Did not exist | [Talks only: no agreement, investment commitment, timeline, or answer on where Cameroonian data would sit](https://www.ecofinagency.com/news-digital/2407-57711-camtel-explores-cloud-ai-partnership-with-amazon-web-services) | Advanced |
 
 <!-- narrative: geopolitics -->
-
+The base holds one row in this chapter and it is a conversation rather than a commitment: the state operator's cloud approach to a US hyperscaler is [talks only, with no agreement, investment commitment, timeline, or answer on where Cameroonian data would sit](https://www.ecofinagency.com/news-digital/2407-57711-camtel-explores-cloud-ai-partnership-with-amazon-web-services). European, Gulf and Indian engagement are each carried as ***Not held***, so this chapter mainly records how little of the country's external technology relationships the base can show.
 <!-- /narrative -->
 
 ## Where the record is thin
