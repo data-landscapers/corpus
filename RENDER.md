@@ -193,18 +193,18 @@ python scripts/build-names-index.py --stats           # size profile, writes not
 ## Step 6 — build the non-state finance landing
 
 ```bash
-python scripts/finance.py         # -> site/finance/index.html + all.html + all-nonstate-{edition}.csv
+python scripts/finance.py         # -> site/finance/index.html + all-nonstate-{edition}.csv
 ```
 
 This is the page the site nav's **Finance** link points at; without this step that link 404s. Expect ~1,230 deals and a headline total near US$91,000m.
 
-**`all.html` is the all-Africa table** *(2026-08-19)* — every commitment in the base, all countries, all fields, on the same component as each country's `finance.html` (§ *The finance tables*). The landing links down to it. `recipient_country` is an ISO-3 code in the CSV and a country name in the table; `finance.py` passes the map as a `data-labels` attribute built from `outputs/vocab/countries.csv`, narrowed to the codes actually present.
+**The all-Africa table is on the landing page itself** *(Bill, 2026-08-19; this paragraph corrected 2026-08-25, having gone on describing the arrangement it replaced)*. Every commitment in the base, all countries, all fields, on the same component as each country's `finance.html` (§ *The finance tables*). It had its own URL at `all.html` for a few hours, and a landing page whose whole job was to link to the thing a reader came for is a click charged for nothing — so `finance.py` folded the table in and **deletes any `all.html` it finds**, printing a line when it does. `recipient_country` is an ISO-3 code in the CSV and a country name in the table; `finance.py` passes the map as a `data-labels` attribute built from `outputs/vocab/countries.csv`, narrowed to the codes actually present.
 
 The cross-country CSV is a dated edition on the same rule as the per-country ones in Step 4, and the undated `all-nonstate.csv` is deleted on the first run after 2026-08-18.
 
 Per-country finance is separate and already covered by Step 4: `scripts/country.py` writes a `finance.html` beside each country's `index.html` from `{ISO3}-nonstate.csv`.
 
-**The landing layout is still a shell, deliberately.** `finance.py`'s aggregation is real and its numbers are correct; the *landing's* presentation is a placeholder awaiting design — headline totals, by-sector and by-place tables, links down to each country's finance page. It is wired in because a plain page beats a 404, not because it is finished. `all.html` is not in that category: it is finished, and it is where a reader who wants the data itself should be sent.
+**The landing layout is still a shell, deliberately.** `finance.py`'s aggregation is real and its numbers are correct; the *landing's* presentation is a placeholder awaiting design — headline totals, by-sector and by-place tables, links down to each country's finance page. It is wired in because a plain page beats a 404, not because it is finished. **The table below it is not in that category**: it is finished, and it is what a reader who wants the data itself has come for.
 
 ## The prose
 
@@ -227,7 +227,7 @@ The move changed no rendered text. The generated HTML differs in two ways only, 
 
 ## The finance tables
 
-Both the per-country `finance.html` and the all-Africa `all.html` are drawn **in the browser**, by `site/assets/js/datatable.js` reading the published CSV the page already offers for download. Neither page contains a `<tr>` per commitment. This replaced the baked-in table on 2026-08-19; `site/assets/css/datatable.css` holds the styling, kept out of `main.css` because that file is a copy carrying its own provenance marker (`MAIN-CSS-FROM`).
+Both the per-country `finance.html` and the all-Africa table on `site/finance/index.html` are drawn **in the browser**, by `site/assets/js/datatable.js` reading the published CSV the page already offers for download. Neither page contains a `<tr>` per commitment. This replaced the baked-in table on 2026-08-19; `site/assets/css/datatable.css` holds the styling, kept out of `main.css` because that file is a copy carrying its own provenance marker (`MAIN-CSS-FROM`).
 
 The reason is arithmetic rather than taste. South Africa's 54 rows made a 74 KB page that offered a search box and nothing else; the same page is now 5.6 KB and sorts, filters and searches. The all-Africa table could not have been written into the page at all — 1,257 rows by 20 columns is several megabytes of HTML, against a 1.1 MB CSV the reader can also keep. **The cost is that neither table appears with JavaScript off**, which is why both carry a `<noscript>` block naming the CSV: the data is never behind the script, only the table is.
 

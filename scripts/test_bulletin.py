@@ -359,7 +359,7 @@ def case_the_nav_bar_holds_only_the_categories_present(tmp):
     b.stamp("2026-05-14 00:05")
     b.assemble()
     doc = b.document()
-    nav = doc[doc.index("<nav class=\"bulletin-nav\""):doc.index("</nav>")]
+    nav = doc[doc.index("<nav class=\"article-toc bulletin-nav\""):doc.index("</nav>")]
     assert nav.count("<a href=") == 2, nav
     assert ">Governance<" in nav and ">ICT Infrastructure<" in nav
     assert ">Finance<" not in nav, "a category with nothing under it must not be in the bar"

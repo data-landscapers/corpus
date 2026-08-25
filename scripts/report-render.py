@@ -23,8 +23,9 @@ scope — but a build that finds nothing new to say leaves the document, and the
 exactly where they were *(Bill, 2026-08-14)*. `period:` is therefore the window the document
 draws on, `compiled:` the day it last changed, and the two always agree.
 
-**One renderer, a profile per process.** A country unit reads `lookups/report-country-sections.csv`
-and issues all three documents; an `X__` region unit reads `lookups/report-region-sections.csv`,
+**One renderer, a profile per process.** A country unit takes its sections from the ten Level-1
+chapters of `lookups/taxonomy.csv`, in that file's own order, and issues all three documents;
+an `X__` region unit reads `lookups/report-region-sections.csv`,
 calls its objects bodies rather than systems, and issues **the progress report only**
 (`REPORT-REGION.md`). Everything else — the ledger, the markers, the windows, the checks — is the
 same code on the same schema.
