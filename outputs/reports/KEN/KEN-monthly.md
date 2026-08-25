@@ -1,11 +1,11 @@
 ---
 title: Kenya — monthly update, July – August 2026
-compiled: 2026-08-25
-period: 2026-07-01 to 2026-08-25
+compiled: 2026-08-26
+period: 2026-07-01 to 2026-08-26
 place: KEN
-ledger_rows: 139
+ledger_rows: 143
 not_held: 7
-record: f81064890ec5
+record: f0fc4105fd6d
 ---
 
 # Kenya: monthly update, July – August 2026
@@ -61,6 +61,11 @@ Two days after introducing the equipment distributor licence, the Communications
 
 
 Two sets of standards arrived, one binding and one draft. The revenue allocation commission [gazetted binding standards for county own-source revenue automation, covering the system lifecycle from procurement to audit and requiring data ownership and portability safeguards to cut vendor lock-in](https://cra.go.ke/2026/08/14/cra-gazettes-standards-and-guidelines-for-county-own-source-revenue-automation/); no compliance date, county baseline or enforcement mechanism accompanies them. The pharmacy regulator [published draft guidelines for digital pharmacy services covering telepharmacy, electronic prescribing and digital health records](https://web.pharmacyboardkenya.org/download/draft-guidelines-for-digital-pharmacy-services-in-kenya/), with no consultation close or adoption date stated. The text is [a second revision that widens the scope of regulation from internet pharmacy services to digital pharmacy services generally, reaching digital health platforms, pharmacy chains and third-party technology, hosting, payment and logistics providers, and carrying a 2026 effective date against a 2029 review](https://web.pharmacyboardkenya.org/download/draft-guidelines-for-digital-pharmacy-services-in-kenya/?wpdmdl=14068); its approval blocks are unsigned.
+<!-- /narrative -->
+### Public debate and participation in policymaking
+
+<!-- narrative: governance--gov-discourse -->
+One item moved in this window and it is a contested procurement rather than a policy debate: a former deputy president [told reporters on 24 August 2026 that the electoral commission's results-transmission contract specifications were tailor-made for a single South Korean bidder, that every other competitor has gone to the procurement appeals board, and that the firm has failed at every election it has taken part in](https://nation.africa/kenya/news/politics/gachagua-iebc-election-tech-deal-tailor-made-for-korean-firm-5569838). He says he is still documenting the claim; the report names neither the company nor the contract, and no commission or appeals-board response is on file.
 <!-- /narrative -->
 
 ## Finance
