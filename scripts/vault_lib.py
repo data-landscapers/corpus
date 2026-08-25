@@ -123,8 +123,33 @@ KEY_RE = re.compile(r"^([A-Za-z_][A-Za-z0-9_-]*):(.*)$")
 BLOCK_RE = re.compile(r"^[|>][-+]?$")
 DATE_PREFIX_RE = re.compile(r"^(\d{4})-(\d{2})-(\d{2})")
 WIKILINK_RE = re.compile(r"\[\[([^\[\]|]+?)(?:\|[^\[\]]*)?\]\]")
+# Same shape as WIKILINK_RE, but keeping the label so `dewiki` can prefer it.
+DEWIKI_RE = re.compile(r"\[\[([^\[\]|]+?)(?:\|([^\[\]]*))?\]\]")
 BRACKET_ITEM_RE = re.compile(r"\[+\s*([^\[\]]+?)\s*\]+")
 HEADING_RE = re.compile(r"^(#{1,6})\s+(.*)$")
+
+
+def dewiki(s, names=None):
+    """`[[target|label]]` -> `label`, `[[target]]` -> `target`, with `names` resolving
+    a bare target to its display name.
+
+    Wiki-link syntax is how the source records cross-reference each other, and it has
+    no business reaching a reader of a page or a download *(Bill, 2026-08-19, having
+    found `[[2025-03-06-microsoft-zaf-azure-...]]` in a finance description cell; again
+    2026-08-25, `[[bill]]` in the catalogue's author column)*. Written here rather than
+    in each compile because a second copy of it is how the two drift apart — the finance
+    pass had the only one, so the catalogue export shipped the brackets for six days.
+
+    A bare target falls back to itself, which is the right answer for a record slug and
+    the wrong one for a person: `[[bill]]` reads as an author called "bill" beside two
+    full names. Callers with a slug->name table pass it as `names`; callers without one
+    get the old behaviour unchanged."""
+    def one(m):
+        target, label = m.group(1), m.group(2)
+        if label is not None:
+            return label
+        return (names or {}).get(target.strip(), target)
+    return DEWIKI_RE.sub(one, s)
 
 
 # --------------------------------------------------------------------------- #

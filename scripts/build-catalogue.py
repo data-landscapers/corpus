@@ -42,6 +42,26 @@ CSV_PATH = os.path.join(OUT_DIR, "raw-catalogue.csv")
 # and a resolution table nobody can date is one that goes stale in silence.
 STAMP_PATH = os.path.join(OUT_DIR, "catalogue-stamp.json")
 
+# Display names for the entity slugs a wikilink can point at, so `[[bill]]` in an author
+# field publishes as "Bill Anderson" rather than as "bill". Corpus's own lookup, resolved
+# from this file rather than from the working root: under the workroot `lookups/` is
+# OSINT's, and a relative read would open the wrong file (`build-entity-names.py` carries
+# the same warning for the write). It is a checked-in table like `taxonomy.csv`, not a
+# build input — an absent or stale row costs the bare target and nothing else, which is
+# what `dewiki` does without it.
+# `realpath`, not `abspath`: `scripts/` is itself a junction in the workroot, so an
+# unresolved parent lands on `scripts/.workroot/lookups`, which is OSINT's.
+ENTITY_NAMES = os.path.join(os.path.dirname(os.path.dirname(os.path.realpath(__file__))),
+                            "lookups", "entity-names.csv")
+
+
+def entity_names():
+    if not os.path.exists(ENTITY_NAMES):
+        return {}
+    with open(ENTITY_NAMES, encoding="utf-8-sig", newline="") as fh:
+        return {r["slug"]: r["display"] for r in csv.DictReader(fh) if r.get("display")}
+
+
 CSV_COLS = ["slug", "title", "publisher", "author", "published", "date_precision",
             "places", "topics", "entities", "lens", "body_completeness", "finance",
             "artefact", "words", "ingested", "url"]
@@ -49,6 +69,12 @@ CSV_COLS = ["slug", "title", "publisher", "author", "published", "date_precision
 
 def items(rows):
     out = []
+    # Every free-text field a reader sees, de-wikilinked. Frontmatter is the wiki's own
+    # prose and carries its cross-reference syntax; the catalogue is a published view and
+    # must not (`vault_lib.dewiki`).
+    names = entity_names()
+    def txt(v):
+        return V.dewiki(v, names) if isinstance(v, str) else ""
     artefacts = {r["path"].rsplit("/", 1)[-1]
                  for r in rows if r["d"].get("kind") == "artefact"}
     for r in rows:
@@ -59,9 +85,9 @@ def items(rows):
         out.append({
             "slug": d["slug"],
             "path": r["path"],
-            "title": fm.get("title") if isinstance(fm.get("title"), str) else d["slug"],
-            "publisher": fm.get("publisher") or "",
-            "author": fm.get("author") if isinstance(fm.get("author"), str) else "",
+            "title": txt(fm.get("title")) or d["slug"],
+            "publisher": txt(fm.get("publisher")) or fm.get("publisher") or "",
+            "author": txt(fm.get("author")),
             "published": fm.get("published") or "",
             "date_precision": fm.get("date_precision") or "",
             "url": fm.get("url") if isinstance(fm.get("url"), str) else "",

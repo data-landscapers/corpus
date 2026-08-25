@@ -24,6 +24,7 @@ import os, re, sys, csv
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import taxonomy_lib                                                             # noqa: E402
+from vault_lib import dewiki                                                    # noqa: E402
 from finance_lib import (split_front, fm_get, section, deal_table, raw_sources,  # noqa: E402
                          load_fx, fx_rate, fin_name)                            # noqa: E402
 
@@ -110,21 +111,11 @@ def usd_millions(s):
         return v
     return v / 1e6                           # a bare number is DOLLARS, always
 
-def dewiki(s):
-    """`[[target|label]]` -> `label`, `[[target]]` -> `target`.
-
-    A CSV is not the wiki, and a reader who downloads one should not have to know
-    what the double brackets meant. Split out of `clean()` on 2026-08-19 (Bill,
-    who found `[[2025-03-06-microsoft-zaf-azure-…]]` rendered literally in a
-    description cell on the ZAF finance page) because `clean()` also turns `|`
-    into `/`, which is right for a one-line table cell and wrong for a paragraph
-    of prose. Five rows in 1,257 carry these; the records themselves are being
-    corrected upstream, and this stops the syntax reaching a reader meanwhile."""
-    s = re.sub(r'\[\[[^\]|]*\|([^\]]+)\]\]', r'\1', s)
-    return re.sub(r'\[\[([^\]]+)\]\]', r'\1', s)
-
-
 def clean(s):                                # de-wikilink and de-pipe for a table cell
+    # `dewiki` lives in `vault_lib` so the finance pass and the catalogue export share one
+    # definition (2026-08-25). It is separate from `clean` because `clean` also turns `|`
+    # into `/`, right for a one-line table cell and wrong for a paragraph of prose, which
+    # is why the CSV's description column calls `dewiki` directly (Bill, 2026-08-19).
     return dewiki(s).replace("|", "/").strip()
 
 def fy_display(fm):                          # never a blank cell / blank link text
