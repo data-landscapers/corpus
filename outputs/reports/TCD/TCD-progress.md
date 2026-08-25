@@ -1,18 +1,16 @@
 ---
-title: Chad — progress report, 2025-08-01 to 2026-08-24
-compiled: 2026-08-24
-period: 2025-08-01 to 2026-08-24
+title: Chad — progress report, August 2025 – August 2026
+compiled: 2026-08-25
+period: 2025-08-01 to 2026-08-25
 place: TCD
 ledger_rows: 132
 not_held: 42
-record: 6ea8484656d5
+record: 98d155eb2d66
 ---
 
-# Chad: progress report, 2025-08-01 to 2026-08-24
+# Chad: progress report, August 2025 – August 2026
 
-*Compiled 2026-08-24 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
-
-*Of 132 systems and instruments on this place's ledger, 39 changed position between 2025-08-01 and 2026-08-24, 21 did not, 30 carry no stated baseline, and 42 are ***Not held*** at both ends.*
+*Of 132 systems and instruments on this place's ledger, 39 changed position between 2025-08-01 and 2026-08-25, 21 did not, 30 carry no stated baseline, and 42 are ***Not held*** at both ends.*
 
 *Shape check, run before the comparison: 93 sources for this place in the window — 20 in the earlier half (2025-08 to 2026-01), 73 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
@@ -24,11 +22,86 @@ record: 6ea8484656d5
 Chad's year is a state announcing obligations faster than it can publish the instruments that carry them. The 2027 budget orientations [bar any ministry from building a system incompatible with the existing platforms and require nine state functions to interconnect on a single identifier](https://lendjampost.com/budget-2027-le-tchad-mise-sur-le-numerique-pour-verrouiller-les-finances-publiques/), with the electronic visa and online business creation to become exclusive channels — and the framing text is not held. Underneath, identity moved further than anything else: birth registration within the legal deadline is now measured at [48.33 per cent, with about 2.95m under-fives undeclared](https://www.alwihdainfo.com/tchad-une-campagne-pour-lidentite-des-enfants-afin-de-renforcer-lenregistrement-a-letat-civil/), against a last-known 25.7 per cent in 2019, and a [campaign targeting a million children is in the field](https://atpe.td/un-enfant-un-acte-de-naissance-une-operation-pour-enregistrer-un-million-denfants/). The [census closed its enumeration on 6 August only after an extension for sweeps](https://www.lepaystchad.com/45968-2/), with no results published. Forty-two rows are ***Not held***, and the largest single class is the state's own texts: the digital code, the data-protection statute, the frequency plan and the universal-service instrument are all unheld.
 <!-- /narrative -->
 
-## Infrastructure
+## Governance
+
+### Strategies, plans and policies
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| Economic and social council recommendations on the digital transition | Did not exist | [Recommendations adopted after a plenary session running 5 to 19 August on the public administration facing the digital transition, calling for an affirmed national digitalisation policy of wider scope, a durable national financing mechanism for the sector, adequate power supply, stronger public-agent skills and specialised digital training, and public-private partnerships](https://www.digitalbusiness.africa/tchad-lascese-pronee-par-la-cesce-pour-renforcer-la-connectivite/) | Advanced |
+| Tchad Connexion 2030 | No record at the window's opening | [In force as the umbrella strategy, targeting at least 80 per cent national internet coverage and about 80 per cent mobile penetration by 2030; its regulatory components - reform of the regulator, privatisation of the state operator, a third operator and number portability - have no dated delivery on record](https://techafricanews.com/2025/07/18/chad-launches-1-5b-digital-strategy-to-connect-citizens-by-2030/) | Advanced, baseline not held |
+| National data governance strategy | Did not exist | [Under development with regional-commission and donor support; terms of reference issued by the ministry in April 2026](https://www.uneca.org/eca-events/fr/node/2449) | ***Baseline not held*** |
+
+### Legislation and regulation
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| Code du numerique | No record at the window's opening; the code's development is dated from December 2025 | [No adopted text, number, promulgation date or gazette reference](https://www.ecofinagency.com/news-digital/1012-51293-chad-finalizes-digital-law-to-align-national-framework-with-global-standards) | Stalled |
+| Committee to overhaul the digital, electronic communications and postal legal framework | Did not exist | [Inaugurated with a forty-five-day deadline, and no draft, report or text on record](https://techafricanews.com/2026/04/29/chad-forms-committee-to-overhaul-digital-telecom-and-postal-legal-framework/) | Advanced, then no output on record |
+| Loi n 013/PR/2014 on electronic communications and postal regulation, as amended | In force unamended | [In force with article 18 amended; the amending ordinance's text is not held, so the article's current wording cannot be stated](https://www.africa-laws.org/Chad/Comercial%20law/Loi%20N%C2%B0%202014%20portant%20r%C3%A9gulation%20des%20communications%20%C3%A9lectroniques%20et%20des%20activit%C3%A9s%20postales.pdf) | Advanced |
+
+### Data protection
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| Law on biometric data in judicial procedures | Did not exist | [Adopted, its scope being the collection, processing, retention, use and destruction of biometric data exclusively within judicial and judicial-police procedures](https://tchadinfos.com/2026/04/11/tchad-les-deputes-adoptent-a-une-large-majorite-la-loi-encadrant-les-donnees-biometriques-judiciaires/) | Advanced |
+| Ordonnance n 001/PR/2026 reforming the security and electronic certification agency | A cybersecurity and electronic-certification agency, with no data-protection, artificial-intelligence, drone or video-surveillance remit on record | [A mandate covering cybersecurity, personal-data protection, electronic-transaction security, cybercrime, protection of the national information space, video-surveillance systems, drones, social media, digital services and artificial-intelligence systems, plus a classification of entities of vital digital importance and expanded investigative and enforcement powers](https://www.ecofinagency.com/news-digital/1603-53795-chad-approves-reform-strengthening-national-cybersecurity-agency) | Advanced |
+| General data-protection law and supervisory authority | None enacted and no authority; the base holds no Chadian data-protection statute at any date | [None enacted and no authority, with the security agency empowered to administer a regime that does not yet exist](https://www.ecofinagency.com/news-digital/1012-51293-chad-finalizes-digital-law-to-align-national-framework-with-global-standards) | No change, administering agency now named but no law |
+
+### Regional collaboration
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| Position under the African Union Convention on Cyber Security and Personal Data Protection | Signed 2015-06-14, not ratified and not deposited | [Signed 2015-06-14, not ratified and not deposited](https://au.int/sites/default/files/treaties/29560-sl-AFRICAN_UNION_CONVENTION_ON_CYBER_SECURITY_AND_PERSONAL_DATA_PROTECTION_0.pdf) | No change |
+
+### Standards
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| Strategic regulatory platforms | Did not exist | [Real-time monitoring of data traffic, network performance, infrastructure failures and spectrum use, with oversight of mobile operators, internet providers, satellite signals and very small aperture terminals](https://techafricanews.com/2026/06/19/chad-inaugurates-strategic-regulatory-platforms-to-strengthen-telecom-oversight/) | Advanced |
+| Regulator service-quality audit programme | The programme running, its last recorded enforcement being an August 2023 fine of FCFA 5bn on one operator for deteriorating network quality | [The fifteenth cycle found improved urban signal stability alongside faulty equipment, inadequate maintenance, unstable power supply and some sites entirely offline; operators were reprimanded again in December 2025 and June 2026, with no new fine recorded](https://www.ecofinagency.com/news-digital/1302-52879-chad-plans-50-telecom-sites-50-km-of-fiber-in-n-djamena) | No change |
+
+### Public debate and participation in policymaking
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| Suspension of applications to create online newspapers | Not held - the base carries no record of the media regulator before 2026-08-03 | [Examination suspended indefinitely, with no published criteria, no end date and no transitional treatment of applications already filed, so existing licensed online outlets are a closed list for the duration](https://www.lepaystchad.com/tchad-la-hama-suspend-lexamen-des-demandes-de-creation-des-journaux-en-ligne/) | Regressed, baseline not held |
+| Internet shutdown in Lac province | Offline since 2024-10-28, with no restoration recorded | [No restoration, extension or official justification on record, and the base carries nothing on it inside the window](https://lendjampost.com/coupure-dinternet-dans-le-lac-internet-society-tchad-tire-la-sonnette-dalarme/) | No change |
+| Media regulator's three-year strategic plan for 2026-2028 | Not held | [In application, with the plan itself, its axes in full and its publication date not held](https://www.lepaystchad.com/tchad-la-hama-suspend-lexamen-des-demandes-de-creation-des-journaux-en-ligne/) | ***Baseline not held*** |
+
+<!-- narrative: governance -->
+The governance layer went backwards in one specific way. The security and electronic certification agency was reformed by ordinance to take a wider mandate, while the [general data-protection law and supervisory authority remain unenacted — the base holds no Chadian data-protection statute at any date](https://www.ecofinagency.com/news-digital/1012-51293-chad-finalizes-digital-law-to-align-national-framework-with-global-standards), so the security agency is empowered to administer a regime that has no independent supervisor. Against that, a [law on biometric data in judicial procedures was adopted](https://tchadinfos.com/2026/04/11/tchad-les-deputes-adoptent-a-une-large-majorite-la-loi-encadrant-les-donnees-biometriques-judiciaires/), covering collection, processing, retention, use and destruction — but only inside judicial and judicial-police procedures. The [digital code has no adopted text, number, promulgation date or gazette reference](https://www.ecofinagency.com/news-digital/1012-51293-chad-finalizes-digital-law-to-align-national-framework-with-global-standards), and the committee inaugurated to overhaul the sector's legal framework passed its forty-five-day deadline with no draft, report or text on record. The [media regulator suspended examination of applications to create online newspapers indefinitely, with no published criteria and no end date](https://www.lepaystchad.com/tchad-la-hama-suspend-lexamen-des-demandes-de-creation-des-journaux-en-ligne/). Chad signed the continental cyber convention in 2015 and has still neither ratified nor deposited it.
+<!-- /narrative -->
+
+## Finance
+
+### MoUs and other agreements
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| Digital infrastructure partnership with a regional incumbent operator | Not held at the window's opening | [A technical delegation to Chad proposed to scope collaboration on backbone, fourth- and fifth-generation networks, cloud, digital financial services and device access; no memorandum and no value](https://techafricanews.com/2026/03/09/ethio-telecom-and-chad-explore-digital-infrastructure-partnership-at-mwc-barcelona/) | ***Baseline not held*** |
+
+### New investments
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| Microfinance development support for women and youth entrepreneurship | Special drawing rights of 10,173,150.53 committed across two transactions, with no disbursement on record | [Special drawing rights of 2,062,292.94 disbursed across fourteen transactions between 2025-09-15 and 2026-06-15, the first component being to develop digital finance](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=46002-P-TD-I00-012) | Advanced |
+| Programme to improve the business climate and modernise public administration | Did not exist in the base | [An African Development Fund grant of 9.52 million units of account, about FCFA 7.3bn, signed for the first phase of the 2026-2030 programme, whose scope reaches Customs, Taxes, the employment agency, the Court of Auditors, the national investment agency and the special-economic-zone bodies, and covers electronic tax, standardised electronic invoicing and customs system upgrades, tax teleservice centres, terminal deployment and one-stop-shop interconnection](https://tchadinfos.com/2026/08/20/economie-mobilisation-de-plus-de-30-milliards-fcfa-pour-renforcer-les-investissements/) | Advanced |
+| Projet d'appui a la transformation numerique | Committed only - a special drawing rights grant of 69.5m, about US$92.2m, inside a US$120m total, with no delivery on record | [US$12,220,932 disbursed on the project portal, retrieved 2026-06-24; three thousand terminals delivered, with digital and financial literacy programmes, public digital centres and rural connectivity announced as follow-on and about 500 unserved localities named as the outstanding challenge](https://documents.worldbank.org/curated/en/099090624105035738) | Advanced |
+| China Eximbank concessional loan for the state connectivity programme | RMB 1,316,000,000, about FCFA 111.4bn, at twenty-year maturity with a five-year grace period and 2 per cent interest, collateralised on an escrow account | [Unchanged; no new source in the window](https://tchadinfos.com/tchad/tchad-chine-un-partenariat-davantage-renforce/) | No change |
+| Chinese government grant for the connectivity programme | RMB 170,000,000 granted | [Unchanged; no new source in the window](https://tchadinfos.com/tchad/tchad-chine-un-partenariat-davantage-renforce/) | No change |
+| Digitalisation of revenue administrations project | US$35m committed and closed | [Unchanged](https://projects.worldbank.org/en/projects-operations/project-detail/P164529) | No change |
+| Statistical development project | US$12m committed and closed | [Unchanged](https://projects.worldbank.org/en/projects-operations/project-detail/P159434) | No change |
+
+<!-- narrative: finance -->
+External money is committed and slow. The digital transformation project moved from committed-only to [US$12,220,932 disbursed](https://documents.worldbank.org/curated/en/099090624105035738), and a microfinance programme from nothing disbursed to a first drawdown. Three other operations — revenue-administration digitalisation, statistical development and the Chinese grant for the connectivity programme — are recorded unchanged across the whole window. What is new is a [business-climate and public-administration programme at pipeline stage, 90 per cent externally committed against a closing date of 31 January 2029](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=46002-P-TD-K00-019). No domestic appropriation figure appears anywhere in the section.
+<!-- /narrative -->
+
+## ICT Infrastructure
 
 ### Connectivity
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | N'Djamena to Mbere fibre corridor memorandum | Memorandum signed in April 2025, with a neighbouring incumbent committing the following month to build the connecting section, and no work started | [Suspended by the regulator over clauses deemed contrary to national digital sovereignty; the ministry issued observations and guidelines and invited renegotiation, and work is still not started](https://www.connectingafrica.com/fiber-networking/chad-tells-operators-to-fast-track-fiber-link-to-cameroon) | Regressed |
 | Network investment programme of the larger mobile operator | The minister told the National Assembly on 2025-09-23 that the operator had promised FCFA 16bn in the short term and FCFA 10bn in the medium term, and that this had never been done | [FCFA 50bn announced through June 2026 for microwave reinforcement, new towers, fibre extension and core-network upgrade; the deadline passed and the ministry's verdict on operator investment in June 2026 was that nothing is felt](https://www.ecofinagency.com/news-digital/1302-52879-chad-plans-50-telecom-sites-50-km-of-fiber-in-n-djamena) | Stalled |
@@ -42,42 +115,42 @@ Chad's year is a state announcing obligations faster than it can publish the ins
 
 ### Data Storage
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | National Data Centre | Under construction and described as at an advanced stage, with inauguration called forthcoming at a ministerial site visit of 2025-01-07 | [Building and equipment complete, with a security audit and certification against critical-infrastructure standards outstanding; still not inaugurated](https://techafricanews.com/2026/02/06/adetic-ansice-and-techso-group-join-forces-to-protect-chads-digital-infrastructure) | Advanced, inauguration still not held |
 | One hundred government micro-data centres | No position held | [Provided for and to be interconnected with the national data centre, with no count deployed, site list, cost or schedule](https://techafricanews.com/2026/02/06/adetic-ansice-and-techso-group-join-forces-to-protect-chads-digital-infrastructure) | ***Baseline not held*** |
 
 ### Energy
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Instruction to migrate transmission sites to renewable power | Did not exist | [Instruction on record, with no deadline set, no compliance reported and no cost stated](https://www.connectingafrica.com/connectivity/chad-pushes-telcos-for-network-upgrades) | Advanced |
 | Solar mini-grids for five towns | No position held on the second phase; the first phase had already delivered 133,000 individual household solar kits and electrified sixty-one health centres and sixty-two schools in three provinces | [Equipment in manufacture for hybridisation of local grids at five towns, with twelve towns to have solar plants at project end; no delivery confirmation is held](https://lendjampost.com/tchad-des-mini-reseaux-solaires-seront-installes-dans-cinq-villes-dici-juillet-2026/) | ***Baseline not held*** |
 
 ### Technical Capacity
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Information technology equipment transfer to the national police | No position held | [Delivered: seventy-four desktop computers, fifty-nine laptops, 105 surveillance cameras, internet-protocol communication equipment, printers, scanners, copiers, videoconferencing and sound equipment, and everything needed to restore the force's public hotline](https://techgriot.co/english/africa/2026/07/chad-equips-its-national-police-with-new-tech-to-fight-cybercrime/) | ***Baseline not held*** |
 
 ### Cybersecurity
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Order on the conditions of use of satellite internet services | Did not exist | [In force: every user - individual, company or public institution - must be formally identified with the regulator or a licensed operator, giving full identity, residence or registered address, legal references and the serial numbers of modems, routers and antennas; the operator must retain internet addresses and connection history for at least twenty-four months; sanctions run to twelve-month suspension, permanent withdrawal, seizure of non-compliant equipment and administrative fines](https://tchadinfos.com/2025/08/28/tchad-le-gouvernement-fixe-les-conditions-dutilisation-des-services-starlink/) | Advanced |
 | Tripartite data-centre security audit and certification agreement | Did not exist | [In force, covering audit and certification of the national data centre against critical-infrastructure standards and the operation of one hundred micro-data centres; no completion date, cost or certification result is reported](https://techafricanews.com/2026/02/06/adetic-ansice-and-techso-group-join-forces-to-protect-chads-digital-infrastructure) | Advanced |
 | National cybersecurity strategy | Work under way since December 2022, with no text | [Work under way, with no text, no adoption record and no publication](https://www.ecofinagency.com/news-digital/1603-53795-chad-approves-reform-strengthening-national-cybersecurity-agency) | No change |
 | Average loss per online job scam | Not held | [An average of 58,000 FCFA per incident for Chadian victims, against 132,000 FCFA for Cameroonian victims; 70% of the Chadian cases described are localised SMS and voice phishing rather than the WhatsApp-based, Nigerian-network-linked social engineering that dominates in Cameroon](https://issafrica.org/research/books-and-other-publications/digital-deception-online-job-scams-amid-cybercrime-vulnerability-in-cameroon-and-chad) | ***Baseline not held*** |
 
-<!-- narrative: infrastructure -->
+<!-- narrative: ict-infrastructure -->
 Connectivity built and did not connect. The trans-Saharan backbone's Chadian section went from 32 to 60 per cent complete, the [exchange point passed a year of operation and constituted itself formally](https://www.digitalbusiness.africa/tchad-ladetic-celebre-un-an-du-point-dechange-internet-tchadix-bilan-et-perspectives/) with no traffic or membership figure published, and satellite service went from licensed-but-unsold to [on sale from July 2025 at FCFA 12,000 a month for 50 GB](https://portail.td/starlink-obtient-sa-licence-dexploitation-au-tchad-un-tournant-majeur-pour-lacces-a-internet/). Against that, the [order requiring both mobile operators to connect to the national fibre backbone passed its seven-day deadline with no recorded compliance](https://www.ecofinagency.com/news-digital/1302-52879-chad-plans-50-telecom-sites-50-km-of-fiber-in-n-djamena), and the minister was still encouraging one of them to connect eight months later. The national data centre completed its building and equipment and gained a [tripartite audit and certification agreement against critical-infrastructure standards](https://techafricanews.com/2026/02/06/adetic-ansice-and-techso-group-join-forces-to-protect-chads-digital-infrastructure). Satellite users are now [formally identified with the regulator or a licensed operator, giving full identity and residence](https://tchadinfos.com/2025/08/28/tchad-le-gouvernement-fixe-les-conditions-dutilisation-des-services-starlink/) — the year's clearest new obligation on the citizen. The national cybersecurity strategy has been under way since December 2022 and still has no text.
 <!-- /narrative -->
 
-## Digital public infrastructure
+## DPI
 
 ### Data Exchange
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Central bank accession to the Pan-African Payment and Settlement System | The central bank was not a member | [Acceded, with connection of member-state banks and financial institutions targeted for end-2026](https://www.agenceecofin.com/actualites-finance/1007-140077-les-banques-de-la-cemac-seront-integrees-au-systeme-de-paiement-papss-d-ici-fin-2026) | Advanced |
 | Accession to the regional digital integration programme | No position held | [Planned, with no accession date, financing share or named component](https://salaminfo.com/2026/06/02/le-gouvernement-tchadien-et-la-banque-mondiale-accelerent-le-deploiement-des-routes-virtuelles/) | ***Baseline not held*** |
@@ -85,7 +158,7 @@ Connectivity built and did not connect. The trans-Saharan backbone's Chadian sec
 
 ### Digital Identity and CRVS
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Mass enrolment and subscriber-data interconnection with a mobile operator | Did not exist | [Signed: the operator is to run awareness campaigns, field deployment and message and call-centre document distribution, and the identity agency is to verify customer data and interconnect systems](https://tchadinfos.com/2026/05/09/securisation-des-donnees-lanats-et-airtel-tchad-signent-un-partenariat-strategique/) | Advanced |
 | Memorandum on secure identity for vulnerable populations | Did not exist | [Signed, with no budget, target population size or duration stated](https://lendjampost.com/tchad-lanats-et-loim-scellent-un-partenariat-pour-lidentite-securisee-et-la-protection-des-populations-vulnerables/) | Advanced |
@@ -93,7 +166,7 @@ Connectivity built and did not connect. The trans-Saharan backbone's Chadian sec
 
 ### Digital Payments and Fintech
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Electronic payment terminals delivered | None delivered on record | [Three thousand delivered, with no deployment schedule, target sites or per-agency allocation stated](https://www.lepaystchad.com/tchad-3-000-terminaux-de-paiement-electronique-remis-au-ministere-des-finances-pour-moderniser-la-collecte-des-recettes-publiques/) | Advanced |
 | Exclusive electronic state-payment regime | Mandated for budget year 2026 - exclusively bank or mobile payments, with cash and cheques out | [The same commitment restated with a 2027 start date; nothing in the base shows the 2026 mandate operating](https://lendjampost.com/budget-2026-au-tchad-zero-cash-zero-papier-zero-facture-fantome/) | Stalled |
@@ -107,9 +180,9 @@ Connectivity built and did not connect. The trans-Saharan backbone's Chadian sec
 | Regional interoperable QR-code standard | Did not exist | [The standard is in force across all six member states including Chad, routed and settled through the regional switch and secured with a personal identification number](https://leconomie.info/article/paiement-numerique-le-gimac-officialise-la-norme-qr-code-interoperable-de-la-cemac) | ***Baseline not held*** |
 | Standardised electronic invoice | No position held | [Launched, Chad being among the first states in the monetary community to do so, with the exclusive-use regime starting 2027](https://lendjampost.com/budget-2026-au-tchad-zero-cash-zero-papier-zero-facture-fantome/) | ***Baseline not held*** |
 
-### Registries (population, land, address, etc.)
+### Registries
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Digital civil registration | Did not exist as a launched national programme | [Launched, with municipal interoperability work under way from April 2026; no coverage or throughput figure is published](https://lendjampost.com/tchad-letat-civil-numerique-un-pas-decisif-dans-lidentification-des-citoyens/) | Advanced |
 | Moratorium on court fees for supplementary birth judgments | Did not exist | [In force to 2030, the four-year legal suspension inside which the six-month registration campaign runs](https://atpe.td/un-enfant-un-acte-de-naissance-une-operation-pour-enregistrer-un-million-denfants/) | Advanced |
@@ -117,16 +190,16 @@ Connectivity built and did not connect. The trans-Saharan backbone's Chadian sec
 | Child birth-registration campaign | No position published | [Running, targeting at least a million children aged four months to seventeen years across twelve provinces by household enumeration plus a schools campaign, with community teams using smartphones feeding the biometric register; no enrolment achieved to date is reported](https://atpe.td/un-enfant-un-acte-de-naissance-une-operation-pour-enregistrer-un-million-denfants/) | ***Baseline not held*** |
 | TASDJIL civil-registration application | No position held | [Deployed since 2021 as part of civil-registration modernisation, with no coverage, site count or throughput figure published; new monthly paper collection forms were introduced with UNICEF support in August 2026 to improve transmission of birth, marriage and death data to the centre](https://tchadinfos.com/2026/08/08/sarh-un-atelier-pour-renforcer-la-collecte-et-la-transmission-des-donnees-detat-civil/) | ***Baseline not held*** |
 
-### Sectoral management information systems (HMIS, EMIS, etc.)
+### Sectoral management information systems
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Education management information system (StatEduc) | No position held | [In use in the higher-education, research and vocational training ministry, whose statistics and digitalisation staff were trained on questionnaire and database configuration, deployment and updating of data-entry masks, extraction, consistency checking and database validation; no coverage figure or published output is held, and nothing is on file for the basic-education ministry](https://www.unesco.org/fr/articles/le-mesrsfp-renforce-les-capacites-de-ses-agents-sur-lapplication-stateduc-pour-ameliorer-la) | ***Baseline not held*** |
 | Electronic medical records and health-facility interconnection | No position held | [Exploratory only - electronic medical records and interconnection of health facilities discussed, with no contract, pilot or system named](https://techafricanews.com/2026/07/01/chad-and-us-explore-partnerships-on-satellite-connectivity-and-cybersecurity/) | ***Baseline not held*** |
 
 ### Other GovTech and e-Gov
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Integrated transport-services platform | Planned, with nothing on record being built | [Planned, with nothing on record being built - eleven months with no dated advance](https://www.wearetech.africa/en/fils-uk/news/tech/chad-to-deploy-integrated-digital-platform-for-transport-services) | No change |
 | Electronic visa as the sole visa channel | No position held | [Planned as the exclusive channel for application, payment, processing and issue from 2027](https://lendjampost.com/budget-2027-le-tchad-mise-sur-le-numerique-pour-verrouiller-les-finances-publiques/) | ***Baseline not held*** |
@@ -135,104 +208,99 @@ Connectivity built and did not connect. The trans-Saharan backbone's Chadian sec
 | Guidam sovereign data platform | Not held | [In use as the government's sovereign digital data platform for tracking delivery of the president's twelve-project programme; the Prime Minister received the two-year delivery report drawn from it on 7 August 2026, ahead of a cabinet seminar to align implementation reporting](https://tchadinfos.com/2026/08/07/tchad-le-premier-ministre-recoit-le-rapport-biennal-dexecution-du-programme-du-chef-de-letat/) | ***Baseline not held*** |
 | Integrated public financial management system | No position held | [Operating as the mandated expenditure environment, with the 2027 orientations extending it to all institutions, local authorities, public establishments, projects and diplomatic and consular missions](https://lendjampost.com/budget-2026-au-tchad-zero-cash-zero-papier-zero-facture-fantome/) | ***Baseline not held*** |
 
-### Digitalisation of sub-national government
-
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
-|---|---|---|---|
-| Civil-registry interoperability with the capital municipality | A francophone civil-registration programme running in two provinces, with no municipal interoperability on record | [A commitment to support the capital's digital transition and extend the model to other institutions, with no completion date or scope](https://tribuneechos.com/tchad-lanats-et-loif-sunissent-pour-la-transformation-numerique-de-letat-civil/) | Advanced |
-
-### National statistics
-
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
-|---|---|---|---|
-| Third general population and housing census | No census in the field | [Main enumeration closed 2026-08-06 after an extension expressly for sweeps, coverage having been acknowledged incomplete at the original deadline; no results, preliminary or otherwise, are held](https://www.lepaystchad.com/45968-2/) | ***Baseline not held*** |
-
-### Use of satellite data
-
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
-|---|---|---|---|
-| Space cooperation protocol with a national space agency | Did not exist | [A memorandum only, covering spectrum and satellite-communications management and remote sensing for resource mapping, with no financing, hardware, date or deliverable; a follow-up delegation visited the digital agency in February 2026](https://tchad24.tv/numerique-le-tchad-et-azercosmos-signent-un-accord-spatial-historique/) | ***Baseline not held*** |
-
 <!-- narrative: dpi -->
 Payments and identity both advanced on a base that is still not measured. Chad joined the [regional switch's traffic of 20.3m transactions worth FCFA 863bn in 2025](https://leconomie.info/article/paiements-numeriques-gimacpay-enregistre-203-millions-de-transactions-pour-863-milliards-de-fcfa-en-2025), a regional QR standard came into force, a second operator took a full payment-institution licence, three thousand payment terminals were delivered with no deployment schedule, and the [standardised electronic invoice launched with exclusive use from 2027](https://lendjampost.com/budget-2026-au-tchad-zero-cash-zero-papier-zero-facture-fantome/). The 2026 mandate for exclusively electronic state payments was restated with a 2027 start, and nothing in the base shows the 2026 version operating. Identity moved from a register with no ministry interconnection to one framed as the intended single source of truth, with mass enrolment signed with an operator and [birth registration measured at 48.33 per cent within the legal deadline](https://www.alwihdainfo.com/tchad-une-campagne-pour-lidentite-des-enfants-afin-de-renforcer-lenregistrement-a-letat-civil/) against 25.7 per cent in 2019. Service delivery is mostly promises: the electronic visa, fully online business creation and the integrated transport platform are all planned, the last with eleven months and no dated advance.
 <!-- /narrative -->
 
-## Governance and regulation
+## Digitalisation
 
-### Legislation and regulation
+### Digitalisation of sub-national government
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
-| Code du numerique | No record at the window's opening; the code's development is dated from December 2025 | [No adopted text, number, promulgation date or gazette reference](https://www.ecofinagency.com/news-digital/1012-51293-chad-finalizes-digital-law-to-align-national-framework-with-global-standards) | Stalled |
-| Committee to overhaul the digital, electronic communications and postal legal framework | Did not exist | [Inaugurated with a forty-five-day deadline, and no draft, report or text on record](https://techafricanews.com/2026/04/29/chad-forms-committee-to-overhaul-digital-telecom-and-postal-legal-framework/) | Advanced, then no output on record |
-| Loi n 013/PR/2014 on electronic communications and postal regulation, as amended | In force unamended | [In force with article 18 amended; the amending ordinance's text is not held, so the article's current wording cannot be stated](https://www.africa-laws.org/Chad/Comercial%20law/Loi%20N%C2%B0%202014%20portant%20r%C3%A9gulation%20des%20communications%20%C3%A9lectroniques%20et%20des%20activit%C3%A9s%20postales.pdf) | Advanced |
+| Civil-registry interoperability with the capital municipality | A francophone civil-registration programme running in two provinces, with no municipal interoperability on record | [A commitment to support the capital's digital transition and extend the model to other institutions, with no completion date or scope](https://tribuneechos.com/tchad-lanats-et-loif-sunissent-pour-la-transformation-numerique-de-letat-civil/) | Advanced |
 
-### Strategies, plans and policies
+<!-- narrative: digitalisation -->
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
-|---|---|---|---|
-| Economic and social council recommendations on the digital transition | Did not exist | [Recommendations adopted after a plenary session running 5 to 19 August on the public administration facing the digital transition, calling for an affirmed national digitalisation policy of wider scope, a durable national financing mechanism for the sector, adequate power supply, stronger public-agent skills and specialised digital training, and public-private partnerships](https://www.digitalbusiness.africa/tchad-lascese-pronee-par-la-cesce-pour-renforcer-la-connectivite/) | Advanced |
-| Tchad Connexion 2030 | No record at the window's opening | [In force as the umbrella strategy, targeting at least 80 per cent national internet coverage and about 80 per cent mobile penetration by 2030; its regulatory components - reform of the regulator, privatisation of the state operator, a third operator and number portability - have no dated delivery on record](https://techafricanews.com/2025/07/18/chad-launches-1-5b-digital-strategy-to-connect-citizens-by-2030/) | Advanced, baseline not held |
-| National data governance strategy | Did not exist | [Under development with regional-commission and donor support; terms of reference issued by the ministry in April 2026](https://www.uneca.org/eca-events/fr/node/2449) | ***Baseline not held*** |
-
-### Regional collaboration
-
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
-|---|---|---|---|
-| Position under the African Union Convention on Cyber Security and Personal Data Protection | Signed 2015-06-14, not ratified and not deposited | [Signed 2015-06-14, not ratified and not deposited](https://au.int/sites/default/files/treaties/29560-sl-AFRICAN_UNION_CONVENTION_ON_CYBER_SECURITY_AND_PERSONAL_DATA_PROTECTION_0.pdf) | No change |
-
-### Standards
-
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
-|---|---|---|---|
-| Strategic regulatory platforms | Did not exist | [Real-time monitoring of data traffic, network performance, infrastructure failures and spectrum use, with oversight of mobile operators, internet providers, satellite signals and very small aperture terminals](https://techafricanews.com/2026/06/19/chad-inaugurates-strategic-regulatory-platforms-to-strengthen-telecom-oversight/) | Advanced |
-| Regulator service-quality audit programme | The programme running, its last recorded enforcement being an August 2023 fine of FCFA 5bn on one operator for deteriorating network quality | [The fifteenth cycle found improved urban signal stability alongside faulty equipment, inadequate maintenance, unstable power supply and some sites entirely offline; operators were reprimanded again in December 2025 and June 2026, with no new fine recorded](https://www.ecofinagency.com/news-digital/1302-52879-chad-plans-50-telecom-sites-50-km-of-fiber-in-n-djamena) | No change |
-
-### Data protection
-
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
-|---|---|---|---|
-| Law on biometric data in judicial procedures | Did not exist | [Adopted, its scope being the collection, processing, retention, use and destruction of biometric data exclusively within judicial and judicial-police procedures](https://tchadinfos.com/2026/04/11/tchad-les-deputes-adoptent-a-une-large-majorite-la-loi-encadrant-les-donnees-biometriques-judiciaires/) | Advanced |
-| Ordonnance n 001/PR/2026 reforming the security and electronic certification agency | A cybersecurity and electronic-certification agency, with no data-protection, artificial-intelligence, drone or video-surveillance remit on record | [A mandate covering cybersecurity, personal-data protection, electronic-transaction security, cybercrime, protection of the national information space, video-surveillance systems, drones, social media, digital services and artificial-intelligence systems, plus a classification of entities of vital digital importance and expanded investigative and enforcement powers](https://www.ecofinagency.com/news-digital/1603-53795-chad-approves-reform-strengthening-national-cybersecurity-agency) | Advanced |
-| General data-protection law and supervisory authority | None enacted and no authority; the base holds no Chadian data-protection statute at any date | [None enacted and no authority, with the security agency empowered to administer a regime that does not yet exist](https://www.ecofinagency.com/news-digital/1012-51293-chad-finalizes-digital-law-to-align-national-framework-with-global-standards) | No change, administering agency now named but no law |
-
-### Public debate and participation in policymaking
-
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
-|---|---|---|---|
-| Suspension of applications to create online newspapers | Not held - the base carries no record of the media regulator before 2026-08-03 | [Examination suspended indefinitely, with no published criteria, no end date and no transitional treatment of applications already filed, so existing licensed online outlets are a closed list for the duration](https://www.lepaystchad.com/tchad-la-hama-suspend-lexamen-des-demandes-de-creation-des-journaux-en-ligne/) | Regressed, baseline not held |
-| Internet shutdown in Lac province | Offline since 2024-10-28, with no restoration recorded | [No restoration, extension or official justification on record, and the base carries nothing on it inside the window](https://lendjampost.com/coupure-dinternet-dans-le-lac-internet-society-tchad-tire-la-sonnette-dalarme/) | No change |
-| Media regulator's three-year strategic plan for 2026-2028 | Not held | [In application, with the plan itself, its axes in full and its publication date not held](https://www.lepaystchad.com/tchad-la-hama-suspend-lexamen-des-demandes-de-creation-des-journaux-en-ligne/) | ***Baseline not held*** |
-
-<!-- narrative: governance -->
-The governance layer went backwards in one specific way. The security and electronic certification agency was reformed by ordinance to take a wider mandate, while the [general data-protection law and supervisory authority remain unenacted — the base holds no Chadian data-protection statute at any date](https://www.ecofinagency.com/news-digital/1012-51293-chad-finalizes-digital-law-to-align-national-framework-with-global-standards), so the security agency is empowered to administer a regime that has no independent supervisor. Against that, a [law on biometric data in judicial procedures was adopted](https://tchadinfos.com/2026/04/11/tchad-les-deputes-adoptent-a-une-large-majorite-la-loi-encadrant-les-donnees-biometriques-judiciaires/), covering collection, processing, retention, use and destruction — but only inside judicial and judicial-police procedures. The [digital code has no adopted text, number, promulgation date or gazette reference](https://www.ecofinagency.com/news-digital/1012-51293-chad-finalizes-digital-law-to-align-national-framework-with-global-standards), and the committee inaugurated to overhaul the sector's legal framework passed its forty-five-day deadline with no draft, report or text on record. The [media regulator suspended examination of applications to create online newspapers indefinitely, with no published criteria and no end date](https://www.lepaystchad.com/tchad-la-hama-suspend-lexamen-des-demandes-de-creation-des-journaux-en-ligne/). Chad signed the continental cyber convention in 2015 and has still neither ratified nor deposited it.
 <!-- /narrative -->
 
-## Artificial intelligence and the technology sector
+## Technology
 
 ### ICT Industry
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Third private mobile operator | Did not exist on file | [Planned only, with nothing on record being licensed](https://techafricanews.com/2025/07/18/chad-launches-1-5b-digital-strategy-to-connect-citizens-by-2030/) | Advanced |
 | Privatisation of the state telecommunications operator | Announced repeatedly since 2014, with the stake offer re-announced in February 2025 and no advisory bank appointed | [Still no advisory bank appointed; the national strategy re-provides for privatisation without changing the position](https://russellsouthwood.substack.com/p/waking-the-dead-slow-road-to-extinction) | No change |
 
 ### Innovation ecosystem
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Telemedan | More than 2,000 users and about 10,000 consultations reported | [Unchanged; no source in the window refreshes it](https://www.wearetech.africa/en/fils-uk/solutions/telemedan-delivers-healthcare-to-rural-chad-through-solar-powered-kiosks) | No change |
 
+<!-- narrative: technology -->
+Almost nothing moved here. The [privatisation of the state telecommunications operator still has no advisory bank appointed](https://russellsouthwood.substack.com/p/waking-the-dead-slow-road-to-extinction), announced repeatedly since 2014; a third private mobile operator remains planned with nothing licensed; the fifth-generation platform request of 2024 is unchanged; and the [Indian digital partnership is still talks with no memorandum or instrument on file](https://www.wearetech.africa/fr/fils/actualites/gestion-publique/le-tchad-explore-un-partenariat-avec-l-inde-dans-le-numerique). The one thing that did move is the United States work programme, which went from a single ministerial meeting to four agreed priority areas with nothing signed. The domestic telemedicine service is unchanged and no source in the window refreshes it.
+<!-- /narrative -->
+
+## Capacity
+
+### Training and skills
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| Refugee digital learning centre | One pilot centre for young refugees and the host community, with extension to other eastern towns stated as an intention | [Unchanged - no extension recorded](https://www.wearetech.africa/fr/fils/breves/breves-simple/tchad-un-centre-d-apprentissage-numerique-inaugure-a-abeche) | No change |
+| Youth digital and financial inclusion training | Nothing held at the window's opening | [One hundred and twenty young people trained in digital tools and financial inclusion, with girls and women prioritised](https://lendjampost.com/tchad-120-jeunes-a-la-maitrise-des-outils-numeriques-et-a-la-sensibilisation-a-linclusion-financiere/) | ***Baseline not held*** |
+| Youth digital innovation and employment training programme | Nothing held at the window's opening | [A first cohort of seventy-five in training against a target of 150, on tracks in digital craft and design and in embedded electronics and connected objects, with the funder supplying equipment and consumables](https://lendjampost.com/tchad-le-programme-d-clic-lance-une-nouvelle-generation-de-jeunes-innovateurs/) | ***Baseline not held*** |
+
+<!-- narrative: capacity -->
+
+<!-- /narrative -->
+
+## Inclusion
+
+### Access to services
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| Francophone civil registration project, Chadian component | Nothing held at the window's opening | [More than 53,000 children registered in two provinces, with a second phase in preparation](https://www.biometricupdate.com/202508/la-francophonie-supports-birth-registration-efforts-across-central-africa-madagascar) | Advanced |
+| Health-facility-integrated civil registration | More than 120,000 children registered through hospital-based registry offices since 2023, ninety-seven digitised hospital registration points, and more than 180,000 pupils registered in school campaigns | [Unchanged - no update in the window](https://www.biometricupdate.com/202506/chad-mali-senegal-pursue-birth-registration-reforms-to-close-gaps) | No change |
+| Refugee biometric identification | More than 4,000 issued against a pilot target of 7,000 for the capital and 25,000 across expanded phases | [Unchanged - no issuance figure after 2025-05-01, though the identity agency received further enrolment equipment reported in March 2026](https://www.biometricupdate.com/202505/chad-issues-biometric-ids-to-thousands-of-refugees-with-idemia-tech-unhcrs-help) | No change |
+
+<!-- narrative: inclusion -->
+Inclusion is where the smallest numbers do the most work. The francophone civil-registration project [registered more than 53,000 children in two provinces](https://www.biometricupdate.com/202508/la-francophonie-supports-birth-registration-efforts-across-central-africa-madagascar), and [hospital-based registration has reached more than 120,000 children since 2023 across ninety-seven digitised registration points](https://www.biometricupdate.com/202506/chad-mali-senegal-pursue-birth-registration-reforms-to-close-gaps). Against about 2.95m undeclared under-fives, those are the working channels. [Refugee biometric identification is unchanged at more than 4,000 issued against a pilot target of 7,000](https://www.biometricupdate.com/202505/chad-issues-biometric-ids-to-thousands-of-refugees-with-idemia-tech-unhcrs-help), with no issuance figure after May 2025, and the refugee digital learning centre records no extension. Training is small and dated: one hundred and twenty young people in digital and financial inclusion, and a first cohort of seventy-five against a target of 150.
+<!-- /narrative -->
+
+## Data
+
+### National statistics
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| Third general population and housing census | No census in the field | [Main enumeration closed 2026-08-06 after an extension expressly for sweeps, coverage having been acknowledged incomplete at the original deadline; no results, preliminary or otherwise, are held](https://www.lepaystchad.com/45968-2/) | ***Baseline not held*** |
+
+### Use of satellite data
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| Space cooperation protocol with a national space agency | Did not exist | [A memorandum only, covering spectrum and satellite-communications management and remote sensing for resource mapping, with no financing, hardware, date or deliverable; a follow-up delegation visited the digital agency in February 2026](https://tchad24.tv/numerique-le-tchad-et-azercosmos-signent-un-accord-spatial-historique/) | ***Baseline not held*** |
+
+<!-- narrative: data -->
+
+<!-- /narrative -->
+
+## Geopolitics
+
 ### US / hyperscaler activities
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | United States digital work programme | No work programme on file, United States contact being limited to a ministerial meeting with the charge d'affaires on 2025-11-26 | [Four priority areas agreed - digital infrastructure, satellite connectivity, cybersecurity and digital health - with no instrument signed; a supplier stated its willingness to audit and certify the national data centre, a mandate already held by the tripartite agreement of February 2026](https://techafricanews.com/2026/07/01/chad-and-us-explore-partnerships-on-satellite-connectivity-and-cybersecurity/) | Advanced |
 | Cybersecurity cooperation with the United States infrastructure security agency | Collaboration axes agreed on threat monitoring, engineer training and incident response, with nothing signed | [Unchanged; no source in the window reports any follow-up](https://lendjampost.com/securite-informatique-lansice-et-la-cisa-unissent-leurs-forces-pour-proteger-les-infrastructures-critiques-du-tchad/) | No change |
 
 ### China activities
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Chinese grant agreements of August 2026 | Did not exist | [Two grant agreements totalling 300 million yuan, in tranches of 100 million and 200 million described by the minister of state as immediately mobilisable, which the Chinese side says will finance infrastructure and social development while supporting digital technologies](https://www.horonyafinance.com/tchad-la-chine-fait-un-don-de-264-milliards-de-fcfa-pour-financer-des-projets-dinfrastructures-et-de-transformation-numerique/) | Advanced |
 | Chinese technology and AI scholarships | Did not exist | [A programme of 5,000 scholarships in technology and artificial intelligence announced by the Chinese ambassador to the telecommunications and digitalisation minister](https://camerpressagency.com/tchad-chine-lambition-numerique-se-concretise/) | Advanced |
@@ -241,58 +309,12 @@ The governance layer went backwards in one specific way. The security and electr
 
 ### India activities
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Indian digital partnership | Talks only, with no memorandum | [Still no memorandum or instrument on file](https://www.wearetech.africa/fr/fils/actualites/gestion-publique/le-tchad-explore-un-partenariat-avec-l-inde-dans-le-numerique) | No change |
 
-<!-- narrative: ai-tech -->
-Almost nothing moved here. The [privatisation of the state telecommunications operator still has no advisory bank appointed](https://russellsouthwood.substack.com/p/waking-the-dead-slow-road-to-extinction), announced repeatedly since 2014; a third private mobile operator remains planned with nothing licensed; the fifth-generation platform request of 2024 is unchanged; and the [Indian digital partnership is still talks with no memorandum or instrument on file](https://www.wearetech.africa/fr/fils/actualites/gestion-publique/le-tchad-explore-un-partenariat-avec-l-inde-dans-le-numerique). The one thing that did move is the United States work programme, which went from a single ministerial meeting to four agreed priority areas with nothing signed. The domestic telemedicine service is unchanged and no source in the window refreshes it.
-<!-- /narrative -->
+<!-- narrative: geopolitics -->
 
-## Inclusion and capacity
-
-### Access to services
-
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
-|---|---|---|---|
-| Francophone civil registration project, Chadian component | Nothing held at the window's opening | [More than 53,000 children registered in two provinces, with a second phase in preparation](https://www.biometricupdate.com/202508/la-francophonie-supports-birth-registration-efforts-across-central-africa-madagascar) | Advanced |
-| Health-facility-integrated civil registration | More than 120,000 children registered through hospital-based registry offices since 2023, ninety-seven digitised hospital registration points, and more than 180,000 pupils registered in school campaigns | [Unchanged - no update in the window](https://www.biometricupdate.com/202506/chad-mali-senegal-pursue-birth-registration-reforms-to-close-gaps) | No change |
-| Refugee biometric identification | More than 4,000 issued against a pilot target of 7,000 for the capital and 25,000 across expanded phases | [Unchanged - no issuance figure after 2025-05-01, though the identity agency received further enrolment equipment reported in March 2026](https://www.biometricupdate.com/202505/chad-issues-biometric-ids-to-thousands-of-refugees-with-idemia-tech-unhcrs-help) | No change |
-
-### Training and skills
-
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
-|---|---|---|---|
-| Refugee digital learning centre | One pilot centre for young refugees and the host community, with extension to other eastern towns stated as an intention | [Unchanged - no extension recorded](https://www.wearetech.africa/fr/fils/breves/breves-simple/tchad-un-centre-d-apprentissage-numerique-inaugure-a-abeche) | No change |
-| Youth digital and financial inclusion training | Nothing held at the window's opening | [One hundred and twenty young people trained in digital tools and financial inclusion, with girls and women prioritised](https://lendjampost.com/tchad-120-jeunes-a-la-maitrise-des-outils-numeriques-et-a-la-sensibilisation-a-linclusion-financiere/) | ***Baseline not held*** |
-| Youth digital innovation and employment training programme | Nothing held at the window's opening | [A first cohort of seventy-five in training against a target of 150, on tracks in digital craft and design and in embedded electronics and connected objects, with the funder supplying equipment and consumables](https://lendjampost.com/tchad-le-programme-d-clic-lance-une-nouvelle-generation-de-jeunes-innovateurs/) | ***Baseline not held*** |
-
-<!-- narrative: inclusion -->
-Inclusion is where the smallest numbers do the most work. The francophone civil-registration project [registered more than 53,000 children in two provinces](https://www.biometricupdate.com/202508/la-francophonie-supports-birth-registration-efforts-across-central-africa-madagascar), and [hospital-based registration has reached more than 120,000 children since 2023 across ninety-seven digitised registration points](https://www.biometricupdate.com/202506/chad-mali-senegal-pursue-birth-registration-reforms-to-close-gaps). Against about 2.95m undeclared under-fives, those are the working channels. [Refugee biometric identification is unchanged at more than 4,000 issued against a pilot target of 7,000](https://www.biometricupdate.com/202505/chad-issues-biometric-ids-to-thousands-of-refugees-with-idemia-tech-unhcrs-help), with no issuance figure after May 2025, and the refugee digital learning centre records no extension. Training is small and dated: one hundred and twenty young people in digital and financial inclusion, and a first cohort of seventy-five against a target of 150.
-<!-- /narrative -->
-
-## Finance
-
-### New investments
-
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
-|---|---|---|---|
-| Microfinance development support for women and youth entrepreneurship | Special drawing rights of 10,173,150.53 committed across two transactions, with no disbursement on record | [Special drawing rights of 2,062,292.94 disbursed across fourteen transactions between 2025-09-15 and 2026-06-15, the first component being to develop digital finance](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=46002-P-TD-I00-012) | Advanced |
-| Programme to improve the business climate and modernise public administration | Did not exist in the base | [An African Development Fund grant of 9.52 million units of account, about FCFA 7.3bn, signed for the first phase of the 2026-2030 programme, whose scope reaches Customs, Taxes, the employment agency, the Court of Auditors, the national investment agency and the special-economic-zone bodies, and covers electronic tax, standardised electronic invoicing and customs system upgrades, tax teleservice centres, terminal deployment and one-stop-shop interconnection](https://tchadinfos.com/2026/08/20/economie-mobilisation-de-plus-de-30-milliards-fcfa-pour-renforcer-les-investissements/) | Advanced |
-| Projet d'appui a la transformation numerique | Committed only - a special drawing rights grant of 69.5m, about US$92.2m, inside a US$120m total, with no delivery on record | [US$12,220,932 disbursed on the project portal, retrieved 2026-06-24; three thousand terminals delivered, with digital and financial literacy programmes, public digital centres and rural connectivity announced as follow-on and about 500 unserved localities named as the outstanding challenge](https://documents.worldbank.org/curated/en/099090624105035738) | Advanced |
-| China Eximbank concessional loan for the state connectivity programme | RMB 1,316,000,000, about FCFA 111.4bn, at twenty-year maturity with a five-year grace period and 2 per cent interest, collateralised on an escrow account | [Unchanged; no new source in the window](https://tchadinfos.com/tchad/tchad-chine-un-partenariat-davantage-renforce/) | No change |
-| Chinese government grant for the connectivity programme | RMB 170,000,000 granted | [Unchanged; no new source in the window](https://tchadinfos.com/tchad/tchad-chine-un-partenariat-davantage-renforce/) | No change |
-| Digitalisation of revenue administrations project | US$35m committed and closed | [Unchanged](https://projects.worldbank.org/en/projects-operations/project-detail/P164529) | No change |
-| Statistical development project | US$12m committed and closed | [Unchanged](https://projects.worldbank.org/en/projects-operations/project-detail/P159434) | No change |
-
-### MoUs and other agreements
-
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
-|---|---|---|---|
-| Digital infrastructure partnership with a regional incumbent operator | Not held at the window's opening | [A technical delegation to Chad proposed to scope collaboration on backbone, fourth- and fifth-generation networks, cloud, digital financial services and device access; no memorandum and no value](https://techafricanews.com/2026/03/09/ethio-telecom-and-chad-explore-digital-infrastructure-partnership-at-mwc-barcelona/) | ***Baseline not held*** |
-
-<!-- narrative: finance -->
-External money is committed and slow. The digital transformation project moved from committed-only to [US$12,220,932 disbursed](https://documents.worldbank.org/curated/en/099090624105035738), and a microfinance programme from nothing disbursed to a first drawdown. Three other operations — revenue-administration digitalisation, statistical development and the Chinese grant for the connectivity programme — are recorded unchanged across the whole window. What is new is a [business-climate and public-administration programme at pipeline stage, 90 per cent externally committed against a closing date of 31 January 2029](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=46002-P-TD-K00-019). No domestic appropriation figure appears anywhere in the section.
 <!-- /narrative -->
 
 ## Where the record is thin

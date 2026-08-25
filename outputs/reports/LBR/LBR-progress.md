@@ -1,16 +1,14 @@
 ---
-title: Liberia — progress report, 2025-08-01 to 2026-08-25
+title: Liberia — progress report, August 2025 – August 2026
 compiled: 2026-08-25
 period: 2025-08-01 to 2026-08-25
 place: LBR
 ledger_rows: 70
 not_held: 9
-record: 800f5b821978
+record: 15b4f809cfd9
 ---
 
-# Liberia: progress report, 2025-08-01 to 2026-08-25
-
-*Compiled 2026-08-25 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
+# Liberia: progress report, August 2025 – August 2026
 
 *Of 70 systems and instruments on this place's ledger, 38 changed position between 2025-08-01 and 2026-08-25, 8 did not, 15 carry no stated baseline, and 9 are ***Not held*** at both ends.*
 
@@ -24,7 +22,70 @@ record: 800f5b821978
 The clearest movement of the twelve months to 9 August 2026 was in payments, where an interoperable instant payment system went from not existing to running across both mobile-money networks with a published fee schedule. The clearest regression was in the system the state depends on most: national identity enrolment stopped, with [about 640,000 prior registrants locked out over a US$1.7m unpaid balance](https://fpa.news/liberia-national-id-card-rollout-continues-to-be-held-up-by-1-7-million-unpaid-government-debt/), and the remedy adopted was to concede the register to a foreign operator. Around both, the state built coordination machinery — a whole-of-government digital office, a five-year strategy, a reformed licensing regime — while the data-protection Bill stayed where it was a year ago.
 <!-- /narrative -->
 
-## Infrastructure
+## Governance
+
+### Strategies, plans and policies
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| African Development Bank Country Strategy Paper 2026-2031 | Bank strategy carrying four sectors, ICT among them (2025-08) | [Sectors cut from four to three - transport, energy and skills - with an indicative 2026-2028 programme of UA 129m (US$172.86m, February 2026 conversion), 36.3% unfunded, and no digital lending line (2026-07)](https://www.liberianobserver.com/business/afdb-endorses-gov-ts-reform-agenda-with-new-country-strategy-paper/article_713ea72a-6ef7-4ab6-bf7c-993df27147c9.html) | Regressed, for digital |
+| Digital Liberia national digital strategy 2025-2029 | National ICT Policy and Strategy 2019-2024, already past its stated period (2025-08) | [Eight priority areas across four pillars, including universal connectivity, digital addressing, cybersecurity and data sovereignty; no costing or delivery schedule published (2026-02)](https://techafricanews.com/2026/02/03/liberia-unveils-5-year-digital-liberia-strategy/) | Advanced |
+| National Data Governance Policy | Did not exist | [Final policy designating the Independent Information Commission as data regulator under the unenacted Personal Data Protection and Privacy Act 2024, prescribing signature and ratification of the Malabo Convention, and setting an adequacy-or-explicit-consent rule for personal data leaving the country (2026-03)](https://mopt.gov.lr/wp-content/uploads/2022/06/2026-Liberia-Data-Governance-Policy-REVISED-CIPESA-1.pdf) | Advanced |
+
+### Legislation and regulation
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| LTA licensing and spectrum reform package | Licensing under the Telecommunications Act 2007 unchanged, with no satellite or device rules (2025-08) | [Split of infrastructure and service licences, tower-sharing rules, first satellite regulations, an IMEI regime and repatriation of the .lr country domain announced; none published as instruments (2026-07)](https://fpa.news/liberia-lta-unveils-sweeping-telecom-reforms-revokes-star-cell-license-after-six-years-of-inactivity/) | Advanced |
+| Mobile Money Regulations (Central Bank of Liberia) | In force (2025-08) | [In force and unamended; the interoperable fee schedule of 2026 was approved under it (2026-08)](https://www.cbl.org.lr/sites/default/files/documents/MobileMoneyRegulations.pdf) | No change |
+| Satellite Communications Guidelines (LTA-GL-002-2026) | ***Baseline not held*** | [A licensing regime in force: five-year non-geostationary and ten-year geostationary landing rights, a US$250,000 direct-to-device service-provider licence fee with 9% of direct-to-device sales and a 0.5% universal-access contribution, mandatory data-protection and cybersecurity compliance plans, and a twelve-month transition for existing operators](https://lta.gov.lr/wp-content/uploads/2026/03/SATELLITE-COMMUNICATIONS-GUIDELINES.clean_.fv_.2.25.26-FINAL-VERSION.pdf) | ***Baseline not held*** |
+
+### Data protection
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| Personal Information Act (data protection bill) | Referred to a House committee in June 2025, unpassed, with no national data authority (2025-08) | [Signed into force on 2026-08-19; no data-protection authority yet exists to administer it](https://www.wearetech.africa/fr/fils/actualites/gestion-publique/le-liberia-adopte-les-lois-sur-la-cybercriminalite-et-la-protection-des-donnees) | Advanced |
+| Privacy enforcement against telecom operators | Did not exist; no privacy penalty on record (2025-08) | [LRD 4m fine (US$21,900 at the time, per the source) imposed by the telecoms regulator rather than under data-protection law (2026-06)](https://www.connectingafrica.com/regulation/liberia-strips-starcell-of-operating-license) | Advanced |
+| Data sharing arrangement under the health memorandum | ***Baseline not held*** | [A rights organisation's reading of the seven signed American health memoranda puts Liberia among three that commit to hand over any data requested for the American audit without explicit privacy safeguards, and among two whose data-sharing arrangement is deferred to an unpublished appendix; Liberia is outside the five whose text requires unilateral specimen and pathogen-sequencing sharing, and the signed memorandum carries no specimen clause](https://www.hrw.org/news/2026/06/08/human-rights-assessment-of-the-2025-2026-us-bilateral-health-agreements) | ***Baseline not held*** |
+
+### Regional collaboration
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| African Telecommunications Union membership | Voting rights withheld over arrears dating back to 1982 (2025-08) | [Arrears waived, current obligations arranged, ratification instrument deposited and voting rights restored (2026-07)](https://techafricanews.com/2026/08/03/liberia-secures-us361151-atu-debt-waiver-restores-voting-rights/) | Advanced |
+| Liberia-Gambia-Sierra Leone free roaming | In effect, home SIM at local rates across the three countries (2025-08) | [In effect; no traffic or price data published (2026-08)](https://www.telecomreviewafrica.com/articles/general-news/11208-west-african-nations-sign-roaming-agreement-to-cut-telecom-costs/) | No change |
+| West African banking supervision and cyber resilience cooperation | Baseline not held | [Proposed: shared cybersecurity standards, cross-border incident reporting and supervisory-technology adoption among West African regulators](https://www.liberianobserver.com/business/cbl-governor-calls-for-stronger-regional-banking-supervision-cyber-resilience/article_44277197-862f-4006-b315-bf940e33395c.html) | ***Baseline not held*** |
+
+### Public debate and participation in policymaking
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| Anti-Corruption Commission complaint against the LTA | Did not exist | [Under investigation, with no evidence publicly produced and no findings made (2026-07)](https://www.liberianobserver.com/news/lacc-weighs-investigation-into-lta/article_86dd65ff-724e-4440-a664-728654ea9668.html) | Advanced |
+| U-Report youth feedback platform | Not held | [Relaunched by UNICEF and UNFPA with support from the Irish embassy under a joint programme with the government, giving young people an encrypted SMS channel on one operator's network to answer polls on health, water and sanitation and other social issues, with responses analysable by county and a target of at least 8,000 reporters](https://www.thenewdawnliberia.com/unicef-unfpa-relaunch-u-report/) | ***Baseline not held*** |
+
+<!-- narrative: governance -->
+The data-protection position is identical at both ends of the window: the [Personal Information Act was before a House committee in June 2025 and remains before the legislature](https://www.liberianobserver.com/politics/house-reviews-privacy-data-protection-bill/article_6675211a-e8bc-43c6-8e04-e73cbf26278a.html), with no data-protection authority in existence, over a period in which the state contracted a foreign firm to hold the population's biometric records. What appeared instead was sectoral enforcement: the [first privacy penalty on record, LRD 4m against Orange Liberia in June 2026](https://www.connectingafrica.com/regulation/liberia-strips-starcell-of-operating-license), imposed under telecom regulation.
+
+Policy was made and, in one case, unmade. The ministry [published a five-year digital strategy in February 2026](https://techafricanews.com/2026/02/03/liberia-unveils-5-year-digital-liberia-strategy/) to replace a framework already past its period, and the regulator [announced a licensing overhaul in July 2026](https://fpa.news/liberia-lta-unveils-sweeping-telecom-reforms-revokes-star-cell-license-after-six-years-of-inactivity/) that is not yet published as instruments. In the other direction, the African Development Bank's new country strategy [cut its sectors from four to three and left no digital lending line](https://www.liberianobserver.com/business/afdb-endorses-gov-ts-reform-agenda-with-new-country-strategy-paper/article_713ea72a-6ef7-4ab6-bf7c-993df27147c9.html).
+
+Regional standing was recovered where domestic transparency was not. Liberia's [African Telecommunications Union vote was restored on a US$361,151.36 arrears waiver](https://techafricanews.com/2026/08/03/liberia-secures-us361151-atu-debt-waiver-restores-voting-rights/), while the regulator's own revenue went from unpublished to [expressly withheld](https://www.liberianobserver.com/news/lta-s-revenue-secrecy-raises-transparency-questions/article_74b3f662-6af5-4871-8ec9-656979942bd1.html).
+<!-- /narrative -->
+
+## Finance
+
+### New investments
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| America First Global Health Strategy health data systems funding | Did not exist | [US$26,133,684 planned over 2026-2030 for health data systems including electronic medical records, a laboratory information system, disease surveillance and DHIS2, non-binding and subject to the availability of funds; the signed text commits Liberia to an open-source EMR rolled out to 100% of public health facilities by 2030 and gives the United States audit access to up to 5% of health facilities, with a data-sharing arrangement still to be negotiated and expected to run ten years, but no specimen-sharing or personal-data clause; the memorandum's text was published in March 2026 and then withdrawn, and is the subject of a federal freedom-of-information suit filed 2 April 2026 (2026-04)](https://healthpolicy-watch.news/wp-content/uploads/2025/12/US-Liberia-MOU-2025.pdf) | Advanced |
+| WARDIP2 financing for Liberia | Did not exist | [US$50m committed for broadband, cybersecurity, digital governance and digital payments within a US$137m three-country operation (2026-06)](https://techafricanews.com/2026/06/08/liberia-secures-125-million-world-bank-support-for-energy-digital-and-infrastructure-projects/) | Advanced |
+| Youth Entrepreneurship Investment Bank | ***Baseline not held*** | [Almost US$18m targeting 30,000 youth-led businesses and about 100,000 jobs, with a board being constituted; no disbursement stated (2026-07)](https://www.liberianobserver.com/business/gov-t-targets-24-hour-digital-economy-to-boost-youth-creativity/article_29307cdc-ea0a-44aa-962a-2c66f40209ec.html) | ***Baseline not held*** |
+
+<!-- narrative: finance -->
+Two financing commitments entered the ledger without matching disbursement data. The World Bank's WARDIP2 operation [committed US$50m of a US$125m package signed in June 2026](https://techafricanews.com/2026/06/08/liberia-secures-125-million-world-bank-support-for-energy-digital-and-infrastructure-projects/) for broadband, cybersecurity, digital governance and payments, and the [Youth Entrepreneurship Investment Bank was stated at almost US$18m](https://www.liberianobserver.com/business/gov-t-targets-24-hour-digital-economy-to-boost-youth-creativity/article_29307cdc-ea0a-44aa-962a-2c66f40209ec.html) with nothing disbursed on the record.
+<!-- /narrative -->
+
+## ICT Infrastructure
 
 ### Connectivity
 
@@ -56,7 +117,7 @@ The clearest movement of the twelve months to 9 August 2026 was in payments, whe
 | National Cybersecurity Council | Scheduled for Q4 2024 by the strategy's action plan, not established (2025-08) | [No constituting instrument, membership or meeting record held (2026-08)](https://mopt.gov.lr/wp-content/uploads/2026/02/Liberia_National-Cyber-Security-Strategy-2025-2029.docx.pdf) | Stalled |
 | National Cybersecurity Strategy 2025-2029 | Published, with an action plan dating deliverables from Q4 2024 (2024-07) | [Published and unamended; the primary legislation its action plan scheduled for Q3 2025 is not held as delivered (2026-03)](https://mopt.gov.lr/wp-content/uploads/2026/02/Liberia_National-Cyber-Security-Strategy-2025-2029.docx.pdf) | No change |
 
-<!-- narrative: infrastructure -->
+<!-- narrative: ict-infrastructure -->
 Redundancy moved from absent to agreed but not built. At the start of the period international capacity rested solely on the Monrovia landing; by June 2026 there was a [regional agreement to commercialise spare fibre on the CLSG grid](https://techafricanews.com/2026/06/16/liberia-advances-regional-fiber-optic-expansion-strategy-through-transco-clsg-partnership/), and by July a stated second landing at Buchanan and a national data centre, [neither with a partner, cost or date](https://elbcnews.com/2026/07/23/commissioner-honnah-reaffirms-liberia-telecom-authoritys-commitment-to-expanding-digital-access/). 5G moved the same way, from nothing on record to [plans with investors still being engaged](https://www.liberianobserver.com/news/liberia-on-the-verge-of-5g-revolution/article_992b027e-4c8a-4578-bf70-baf2e2eabeeb.html).
 
 Two positions worsened. The [traffic-monitoring concession went from operating under a legislature-ratified agreement to suspended, under renegotiation and the subject of a corruption complaint](https://www.liberianobserver.com/news/lacc-weighs-investigation-into-lta/article_86dd65ff-724e-4440-a664-728654ea9668.html), leaving the state without its own read on operator traffic. And the market lost a licensee: [Starcell's licence and spectrum were revoked](https://www.connectingafrica.com/regulation/liberia-strips-starcell-of-operating-license) after six years without operating, which removes a dormant competitor rather than adding one.
@@ -64,7 +125,7 @@ Two positions worsened. The [traffic-monitoring concession went from operating u
 Cybersecurity gained an investigation and no strategy. The House [ordered a probe into an alleged breach of about 2m citizens' data in February 2026](https://www.liberianobserver.com/news/house-to-probe-data-breach-6-1m-foya-project/article_20b56386-12e0-4c66-b0d8-51bcbf475890.html); no findings have been published.
 <!-- /narrative -->
 
-## Digital public infrastructure
+## DPI
 
 ### Digital Identity and CRVS
 
@@ -84,7 +145,7 @@ Cybersecurity gained an investigation and no strategy. The House [ordered a prob
 | National Electronic Payment Switch | Did not exist | [Provided for as the follow-on to the instant payment pilot, alongside person-to-government payments; no go-live date or budget line published (2026-07)](https://www.liberianobserver.com/business/gov-t-targets-24-hour-digital-economy-to-boost-youth-creativity/article_29307cdc-ea0a-44aa-962a-2c66f40209ec.html) | Advanced |
 | Pay Na-Na inclusive instant payment system | Did not exist; mobile money split between two closed networks (2025-08) | [Interoperable between Lonestar Cell MTN Mobile Money and Orange Money Liberia, covering person-to-person and government-to-person payments (2025-12). The central bank's own account is that it was built to a business case rather than to a regulation and stood up in 73 days, sequencing government payments first - moving civil-servant salaries off cheques into wallets, which gave the integrated mobile-money operators access to float - against a national target of 50% of adults holding a bank or wallet account](https://www.linkedin.com/posts/africanenda_bringing-every-stakeholder-to-the-table-isnt-activity-7494679350248820736--7a1) | Advanced |
 
-### Registries (population, land, address, etc.)
+### Registries
 
 | System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
@@ -104,12 +165,6 @@ Cybersecurity gained an investigation and no strategy. The House [ordered a prob
 | Automated telecom licensing and renewal platform | Baseline not held | [Rolled out by the telecommunications regulator, letting applicants apply and renew online while in-person service is kept available, as part of a stated shift away from paper-based licensing; no licence count, processing time or fee schedule is published](https://www.connectingafrica.com/connectivity/liberia-launches-automated-telecom-licensing-renewal-system) | ***Baseline not held*** |
 | Private-school operating permit system | ***Baseline not held*** | [Operating permits for private schools are being taken online after schools were found submitting mismatched teacher-qualification records, alongside geographic mapping of schools completed in five counties with donor support to extend it to ten more](https://newspublictrust.com/education-ministry-advances-digital-school-permit-system-while-funding-provided-to-renovate-public-schools) | ***Baseline not held*** |
 
-### Use of satellite data
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| National Spatial Data Infrastructure | Not held | [Taken by the Land Authority to the United Nations' sixteenth global geospatial information management session in New York, where it sought international partnerships and technical support to build a coordinated geospatial framework for land administration, mapping and national planning](https://www.liberianobserver.com/news/lla-takes-liberia-s-land-modernization-drive-to-un-geospatial-forum/article_6395fd70-5dfc-496a-bc1c-944a19aff053.html) | ***Baseline not held*** |
-
 <!-- narrative: dpi -->
 Payments is the section that moved. The [instant payment system launched on 16 December 2025 in 73 business days](https://frontpageafricaonline.com/business/economy/liberia-cbl-launches-inclusive-instant-payment-system-ends-era-of-mobile-money-silos/), ending the separation of the two mobile-money networks, and its [fee schedule was published in August 2026](https://www.liberianobserver.com/business/africa-s-digital-payment-revolution-why-liberia-must-move-faster-on-inclusive-instant-payment-systems/article_78def9c4-1c3a-4997-80e5-76002c64d288.html). A national switch remains provided for and undated.
 
@@ -118,56 +173,7 @@ Identity moved backwards and then sideways. Enrolment stood at [about 740,000 pe
 Government systems gained a coordinator and two platforms. [Executive Order 163 created the whole-of-government digital office in April 2026](https://www.liberianobserver.com/news/boakai-s-executive-order-163-signals-digital-government-shift/article_7a31a87b-4fe2-4578-9ff7-b0224f3bf36a.html); the Civil Service Agency's [purchasing platform went live in December 2025](https://www.liberianobserver.com/business/csa-goes-live-with-automated-lpa-platform/article_f73f54f9-cac1-4fa6-b5e1-f0d33235505f.html); and e-procurement went from a February 2025 launch to [more than 1,200 registered vendors and an export to Sierra Leone](https://techafricanews.com/2026/08/05/liberia-registers-over-1200-vendors-on-electronic-government-procurement-platform/), still without award data.
 <!-- /narrative -->
 
-## Governance and regulation
-
-### Legislation and regulation
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| LTA licensing and spectrum reform package | Licensing under the Telecommunications Act 2007 unchanged, with no satellite or device rules (2025-08) | [Split of infrastructure and service licences, tower-sharing rules, first satellite regulations, an IMEI regime and repatriation of the .lr country domain announced; none published as instruments (2026-07)](https://fpa.news/liberia-lta-unveils-sweeping-telecom-reforms-revokes-star-cell-license-after-six-years-of-inactivity/) | Advanced |
-| Mobile Money Regulations (Central Bank of Liberia) | In force (2025-08) | [In force and unamended; the interoperable fee schedule of 2026 was approved under it (2026-08)](https://www.cbl.org.lr/sites/default/files/documents/MobileMoneyRegulations.pdf) | No change |
-| Satellite Communications Guidelines (LTA-GL-002-2026) | ***Baseline not held*** | [A licensing regime in force: five-year non-geostationary and ten-year geostationary landing rights, a US$250,000 direct-to-device service-provider licence fee with 9% of direct-to-device sales and a 0.5% universal-access contribution, mandatory data-protection and cybersecurity compliance plans, and a twelve-month transition for existing operators](https://lta.gov.lr/wp-content/uploads/2026/03/SATELLITE-COMMUNICATIONS-GUIDELINES.clean_.fv_.2.25.26-FINAL-VERSION.pdf) | ***Baseline not held*** |
-
-### Strategies, plans and policies
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| African Development Bank Country Strategy Paper 2026-2031 | Bank strategy carrying four sectors, ICT among them (2025-08) | [Sectors cut from four to three - transport, energy and skills - with an indicative 2026-2028 programme of UA 129m (US$172.86m, February 2026 conversion), 36.3% unfunded, and no digital lending line (2026-07)](https://www.liberianobserver.com/business/afdb-endorses-gov-ts-reform-agenda-with-new-country-strategy-paper/article_713ea72a-6ef7-4ab6-bf7c-993df27147c9.html) | Regressed, for digital |
-| Digital Liberia national digital strategy 2025-2029 | National ICT Policy and Strategy 2019-2024, already past its stated period (2025-08) | [Eight priority areas across four pillars, including universal connectivity, digital addressing, cybersecurity and data sovereignty; no costing or delivery schedule published (2026-02)](https://techafricanews.com/2026/02/03/liberia-unveils-5-year-digital-liberia-strategy/) | Advanced |
-| National Data Governance Policy | Did not exist | [Final policy designating the Independent Information Commission as data regulator under the unenacted Personal Data Protection and Privacy Act 2024, prescribing signature and ratification of the Malabo Convention, and setting an adequacy-or-explicit-consent rule for personal data leaving the country (2026-03)](https://mopt.gov.lr/wp-content/uploads/2022/06/2026-Liberia-Data-Governance-Policy-REVISED-CIPESA-1.pdf) | Advanced |
-
-### Regional collaboration
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| African Telecommunications Union membership | Voting rights withheld over arrears dating back to 1982 (2025-08) | [Arrears waived, current obligations arranged, ratification instrument deposited and voting rights restored (2026-07)](https://techafricanews.com/2026/08/03/liberia-secures-us361151-atu-debt-waiver-restores-voting-rights/) | Advanced |
-| Liberia-Gambia-Sierra Leone free roaming | In effect, home SIM at local rates across the three countries (2025-08) | [In effect; no traffic or price data published (2026-08)](https://www.telecomreviewafrica.com/articles/general-news/11208-west-african-nations-sign-roaming-agreement-to-cut-telecom-costs/) | No change |
-| West African banking supervision and cyber resilience cooperation | Baseline not held | [Proposed: shared cybersecurity standards, cross-border incident reporting and supervisory-technology adoption among West African regulators](https://www.liberianobserver.com/business/cbl-governor-calls-for-stronger-regional-banking-supervision-cyber-resilience/article_44277197-862f-4006-b315-bf940e33395c.html) | ***Baseline not held*** |
-
-### Data protection
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| Personal Information Act (data protection bill) | Referred to a House committee in June 2025, unpassed, with no national data authority (2025-08) | [Signed into force on 2026-08-19; no data-protection authority yet exists to administer it](https://www.wearetech.africa/fr/fils/actualites/gestion-publique/le-liberia-adopte-les-lois-sur-la-cybercriminalite-et-la-protection-des-donnees) | Advanced |
-| Privacy enforcement against telecom operators | Did not exist; no privacy penalty on record (2025-08) | [LRD 4m fine (US$21,900 at the time, per the source) imposed by the telecoms regulator rather than under data-protection law (2026-06)](https://www.connectingafrica.com/regulation/liberia-strips-starcell-of-operating-license) | Advanced |
-| Data sharing arrangement under the health memorandum | ***Baseline not held*** | [A rights organisation's reading of the seven signed American health memoranda puts Liberia among three that commit to hand over any data requested for the American audit without explicit privacy safeguards, and among two whose data-sharing arrangement is deferred to an unpublished appendix; Liberia is outside the five whose text requires unilateral specimen and pathogen-sequencing sharing, and the signed memorandum carries no specimen clause](https://www.hrw.org/news/2026/06/08/human-rights-assessment-of-the-2025-2026-us-bilateral-health-agreements) | ***Baseline not held*** |
-
-### Public debate and participation in policymaking
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| Anti-Corruption Commission complaint against the LTA | Did not exist | [Under investigation, with no evidence publicly produced and no findings made (2026-07)](https://www.liberianobserver.com/news/lacc-weighs-investigation-into-lta/article_86dd65ff-724e-4440-a664-728654ea9668.html) | Advanced |
-| U-Report youth feedback platform | Not held | [Relaunched by UNICEF and UNFPA with support from the Irish embassy under a joint programme with the government, giving young people an encrypted SMS channel on one operator's network to answer polls on health, water and sanitation and other social issues, with responses analysable by county and a target of at least 8,000 reporters](https://www.thenewdawnliberia.com/unicef-unfpa-relaunch-u-report/) | ***Baseline not held*** |
-
-<!-- narrative: governance -->
-The data-protection position is identical at both ends of the window: the [Personal Information Act was before a House committee in June 2025 and remains before the legislature](https://www.liberianobserver.com/politics/house-reviews-privacy-data-protection-bill/article_6675211a-e8bc-43c6-8e04-e73cbf26278a.html), with no data-protection authority in existence, over a period in which the state contracted a foreign firm to hold the population's biometric records. What appeared instead was sectoral enforcement: the [first privacy penalty on record, LRD 4m against Orange Liberia in June 2026](https://www.connectingafrica.com/regulation/liberia-strips-starcell-of-operating-license), imposed under telecom regulation.
-
-Policy was made and, in one case, unmade. The ministry [published a five-year digital strategy in February 2026](https://techafricanews.com/2026/02/03/liberia-unveils-5-year-digital-liberia-strategy/) to replace a framework already past its period, and the regulator [announced a licensing overhaul in July 2026](https://fpa.news/liberia-lta-unveils-sweeping-telecom-reforms-revokes-star-cell-license-after-six-years-of-inactivity/) that is not yet published as instruments. In the other direction, the African Development Bank's new country strategy [cut its sectors from four to three and left no digital lending line](https://www.liberianobserver.com/business/afdb-endorses-gov-ts-reform-agenda-with-new-country-strategy-paper/article_713ea72a-6ef7-4ab6-bf7c-993df27147c9.html).
-
-Regional standing was recovered where domestic transparency was not. Liberia's [African Telecommunications Union vote was restored on a US$361,151.36 arrears waiver](https://techafricanews.com/2026/08/03/liberia-secures-us361151-atu-debt-waiver-restores-voting-rights/), while the regulator's own revenue went from unpublished to [expressly withheld](https://www.liberianobserver.com/news/lta-s-revenue-secrecy-raises-transparency-questions/article_74b3f662-6af5-4871-8ec9-656979942bd1.html).
-<!-- /narrative -->
-
-## Artificial intelligence and the technology sector
+## Technology
 
 ### AI
 
@@ -189,25 +195,13 @@ Regional standing was recovered where domestic transparency was not. Liberia's [
 | Lantern GovTech and Cyber Arena platform | ***Baseline not held*** | [Operating and selected to represent Liberia at the global final, pitched on domestic data custody; the firm projects a US$20m return over five years and plans a domestic security operations centre (2026-07)](https://www.liberianobserver.com/news/lantern-shines-brightest-as-2026-tech-summit-ends/article_14913b31-0736-4a07-bc38-29c6e5f79d54.html) | ***Baseline not held*** |
 | UNIPOD innovation and digital hub | ***Baseline not held*** | [Operating under UNDP Africa's Timbuktoo platform; no commitment amount disclosed (2026-07)](https://fpa.news/undp-reaffirms-commitment-to-liberias-digital-transformation-at-tech-summit/) | ***Baseline not held*** |
 
-<!-- narrative: ai-tech -->
+<!-- narrative: technology -->
 Artificial intelligence went from absent to acknowledged. It was not a stated government agenda item at the start of the window; by July 2026 the President had [accepted a youth council proposal in principle with no instrument attached](https://fpa.news/young-liberians-challenge-boakai-on-artificial-intelligence-he-accepted-what-comes-next/), and the first working system had launched from the private sector rather than the state: [a legal chatbot over 165 years of Supreme Court opinions](https://fpa.news/liberia-launches-first-legal-learning-artificial-intelligence-cj-lewis-to-expand-public-access-to-the-law/).
 
 The technology sector's other movement was a memorandum: the port authority's [non-exclusive smart-ports agreement with HAROPA PORT](https://www.thenewdawnliberia.com/npa-french-port-giant-sign-smart-ports-deal/), which commits no money and names no system.
 <!-- /narrative -->
 
-## Inclusion and capacity
-
-### Digital divides
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| Internet penetration | 1.84m internet users, 32.4% of a 5.67m population, with about 3.8m offline (2025-01) | [No later national figure published (2026-08)](https://datareportal.com/reports/digital-2025-liberia) | No change |
-
-### Access to services
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| Account ownership and mobile wallets | 52% account ownership with more than 11m wallets (2024) | [No later figure published (2026-08)](https://www.thenewdawnliberia.com/liberia-expands-digital-finance/) | No change |
+## Capacity
 
 ### Literacy
 
@@ -222,22 +216,38 @@ The technology sector's other movement was a memorandum: the port authority's [n
 |---|---|---|---|
 | University of Liberia master's programme in artificial intelligence | Did not exist | [Announced as the country's first such programme; no start date, intake or funding amount disclosed (2026-08)](https://www.undp.org/liberia/blog/liberias-digital-future-will-be-defined-investments-we-make-people-today) | Advanced |
 
+<!-- narrative: capacity -->
+
+<!-- /narrative -->
+
+## Inclusion
+
+### Access to services
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| Account ownership and mobile wallets | 52% account ownership with more than 11m wallets (2024) | [No later figure published (2026-08)](https://www.thenewdawnliberia.com/liberia-expands-digital-finance/) | No change |
+
+### Digital divides
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| Internet penetration | 1.84m internet users, 32.4% of a 5.67m population, with about 3.8m offline (2025-01) | [No later national figure published (2026-08)](https://datareportal.com/reports/digital-2025-liberia) | No change |
+
 <!-- narrative: inclusion -->
 The one place inclusion moved was education: the Ministry of Education's [digital learning platform and radio service for Grades 1 to 3 launched in January 2026](https://techpoint.africa/insight/techpoint-digest-1253/) and did not exist a year earlier. Neither of the two measures on this ledger moved: [account ownership at 52% with more than 11m wallets](https://www.thenewdawnliberia.com/liberia-expands-digital-finance/) and [internet penetration at 32.4%](https://datareportal.com/reports/digital-2025-liberia) are the last figures published, both predating the window's close by more than a year.
 <!-- /narrative -->
 
-## Finance
+## Data
 
-### New investments
+### Use of satellite data
 
 | System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
-| America First Global Health Strategy health data systems funding | Did not exist | [US$26,133,684 planned over 2026-2030 for health data systems including electronic medical records, a laboratory information system, disease surveillance and DHIS2, non-binding and subject to the availability of funds; the signed text commits Liberia to an open-source EMR rolled out to 100% of public health facilities by 2030 and gives the United States audit access to up to 5% of health facilities, with a data-sharing arrangement still to be negotiated and expected to run ten years, but no specimen-sharing or personal-data clause; the memorandum's text was published in March 2026 and then withdrawn, and is the subject of a federal freedom-of-information suit filed 2 April 2026 (2026-04)](https://healthpolicy-watch.news/wp-content/uploads/2025/12/US-Liberia-MOU-2025.pdf) | Advanced |
-| WARDIP2 financing for Liberia | Did not exist | [US$50m committed for broadband, cybersecurity, digital governance and digital payments within a US$137m three-country operation (2026-06)](https://techafricanews.com/2026/06/08/liberia-secures-125-million-world-bank-support-for-energy-digital-and-infrastructure-projects/) | Advanced |
-| Youth Entrepreneurship Investment Bank | ***Baseline not held*** | [Almost US$18m targeting 30,000 youth-led businesses and about 100,000 jobs, with a board being constituted; no disbursement stated (2026-07)](https://www.liberianobserver.com/business/gov-t-targets-24-hour-digital-economy-to-boost-youth-creativity/article_29307cdc-ea0a-44aa-962a-2c66f40209ec.html) | ***Baseline not held*** |
+| National Spatial Data Infrastructure | Not held | [Taken by the Land Authority to the United Nations' sixteenth global geospatial information management session in New York, where it sought international partnerships and technical support to build a coordinated geospatial framework for land administration, mapping and national planning](https://www.liberianobserver.com/news/lla-takes-liberia-s-land-modernization-drive-to-un-geospatial-forum/article_6395fd70-5dfc-496a-bc1c-944a19aff053.html) | ***Baseline not held*** |
 
-<!-- narrative: finance -->
-Two financing commitments entered the ledger without matching disbursement data. The World Bank's WARDIP2 operation [committed US$50m of a US$125m package signed in June 2026](https://techafricanews.com/2026/06/08/liberia-secures-125-million-world-bank-support-for-energy-digital-and-infrastructure-projects/) for broadband, cybersecurity, digital governance and payments, and the [Youth Entrepreneurship Investment Bank was stated at almost US$18m](https://www.liberianobserver.com/business/gov-t-targets-24-hour-digital-economy-to-boost-youth-creativity/article_29307cdc-ea0a-44aa-962a-2c66f40209ec.html) with nothing disbursed on the record.
+<!-- narrative: data -->
+
 <!-- /narrative -->
 
 ## Where the record is thin

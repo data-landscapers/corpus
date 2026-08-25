@@ -1,16 +1,16 @@
 ---
-title: Libya — monthly update, July 2026
-compiled: 2026-08-23
-period: 2026-07-01 to 2026-08-23
+title: Libya — monthly update, July – August 2026
+compiled: 2026-08-25
+period: 2026-07-01 to 2026-08-25
 place: LBY
 ledger_rows: 32
 not_held: 7
-record: aa24ac281b02
+record: b3639cac7165
 ---
 
-# Libya: monthly update, July 2026
+# Libya: monthly update, July – August 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-23 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments summarised from sources published between the beginning of last month and today.*
 
 ## Summary of the month
 
@@ -24,24 +24,53 @@ August then produced three more platforms in nine days, one per ministry and non
 Externally, Libya [took the chair of an Arab working group on AI Data and Digital Infrastructure on 1 August](https://www.businesstec.news/23334), [canvassed for a seat on the ITU Council on 26 July](https://lana.gov.ly/post.php?id=362348&lang=en), and [signed a digital-systems and AI-governance roadmap with Tunisia's Court of Auditors on 15 August](https://libyaobserver.ly/news/libya-tunisia-agree-roadmap-strengthen-audit-cooperation).
 <!-- /narrative -->
 
-## Infrastructure
+## Governance
+
+### Strategies, plans and policies
+
+<!-- narrative: governance--gov-policy -->
+On 26 July the Ministry of Civil Service [discussed implementation of its digital transformation plan with Huawei Libya](https://lana.gov.ly/post.php?id=362365&lang=ar), covering the ministry's systems and electronic services. No agreement, scope or value was announced.
+
+On 4 August the same ministry [convened the General Information Authority, the Libyan Digital Company and its own IT office to prepare a national digital transformation plan](https://alwasat.ly/news/libya/526991) covering digitised administrative procedures, unified databases and integration between state institutions. No timetable, budget, lead agency or published document was stated, and the announcement was made on the ministry's Facebook page.
+<!-- /narrative -->
+### Legislation and regulation
+
+<!-- narrative: governance--gov-legislate -->
+On 16 July a House of Representatives committee [met the National Security Council in Benghazi to prepare a comprehensive cybersecurity law](https://alwasat.ly/news/libya/524932).
+<!-- /narrative -->
+### Regional collaboration
+
+<!-- narrative: governance--gov-regional -->
+On 26 July a delegation from the communications authority [attended the African Telecommunications Union's 7th Plenipotentiary Conference in Abuja](https://lana.gov.ly/post.php?id=362348&lang=en) and held bilateral meetings to seek support for Libya's candidacy for membership of the ITU Council.
+
+On 1 August the executive bureau of the Council of Arab Ministers of Communications and Information, meeting in Tunisia, [recorded Libya as chair of the Arab working group on AI Data and Digital Infrastructure](https://www.businesstec.news/23334), one of six groups under the Arab Permanent Committee on Artificial Intelligence and Emerging Technologies.
+
+On 15 August, on the margins of ARABOSAI's fiftieth-anniversary ceremony in Amman, Libya's Audit Bureau and Tunisia's Court of Auditors [signed a roadmap to activate an existing cooperation agreement](https://libyaobserver.ly/news/libya-tunisia-agree-roadmap-strengthen-audit-cooperation), covering exchange of expertise, capacity building, development of digital systems and solutions, and cooperation on artificial intelligence and its governance. No phase dates, budget or workplan is published.
+<!-- /narrative -->
+### Standards
+
+<!-- narrative: governance--gov-standards -->
+On 2 August the Municipal Guard's Investigation and Information Gathering Office, acting on Central Bank instructions and with the Ministry of Economy and Trade, [said any surcharge on card payment is prohibited](https://libyaherald.com/2026/08/municipal-guard-warns-against-imposing-surcharge-for-debit-card-payments/) and that the displayed price is the final price. [Complaints had reported spreads reaching 20% in some clinics and medical centres](https://libyaherald.com/2026/08/municipal-guard-warns-against-imposing-surcharge-for-debit-card-payments/).
+<!-- /narrative -->
+
+## ICT Infrastructure
 
 ### Connectivity
 
-<!-- narrative: infrastructure--infra-connect -->
+<!-- narrative: ict-infrastructure--infra-connect -->
 LPTIC [met Nokia's regional director on 15 July](https://alwasat.ly/news/libya/524936) to discuss network modernisation and 5G deployment; no agreement was announced.
 
 On 7 August LTT and ARABSAT [announced a Strategic Partnership Agreement](https://techafricanews.com/2026/08/07/arabsat-and-ltt-sign-strategic-partnership-to-strengthen-libyas-digital-infrastructure/) under which ARABSAT will supply High Throughput Satellite capacity on Arabsat-6A at 30.5 degrees east for LTT's existing and future requirements. ARABSAT's chief executive described the agreement as reflecting the institutional relationship with the Libyan International Telecommunications Company, one of ARABSAT's principal shareholders. No contract value, duration, throughput, coverage or service date was published.
 <!-- /narrative -->
 ### Cybersecurity
 
-<!-- narrative: infrastructure--infra-cybersec -->
+<!-- narrative: ict-infrastructure--infra-cybersec -->
 The central bank [isolated its systems in June and a sample of bank data was later published on a dark-web site](https://alwasat.ly/news/libya/520951). No attribution, forensic account, scope of loss or restoration statement is held.
 
 The interior ministry answered with an agreement rather than an instrument. It [signed a technical cooperation agreement with the national telecommunications company on 12 August](https://www.eanlibya.com/%d9%85%d9%86-%d8%a7%d9%84%d8%a3%d8%a8%d8%b1%d8%a7%d8%ac-%d8%a5%d9%84%d9%89-%d8%a7%d9%84%d8%a3%d9%85%d9%86-%d8%a7%d9%84%d8%b3%d9%8a%d8%a8%d8%b1%d8%a7%d9%86%d9%8a-%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84/) covering digital transformation, cybersecurity and telecommunications infrastructure, including shared platforms, installation of towers and equipment at ministry sites, and technical support. No value, duration or delivery date is published.
 <!-- /narrative -->
 
-## Digital public infrastructure
+## DPI
 
 ### Data Exchange
 
@@ -58,12 +87,12 @@ The national digital identity's [biometric tier is in technical trials with the 
 <!-- narrative: dpi--dpi-pay -->
 On 30 July the Central Bank said it had received July disbursement authorisations from the Ministry of Finance and referred them to the commercial banks for execution through Ratibak Lahzi, putting enrolment at [about 1.7 million public employees, 76%](https://www.lananews.com/ar/?p=498421), and said work continues with the ministry to automate complaint intake and the handling of unexecuted salaries.
 <!-- /narrative -->
-### Registries (population, land, address, etc.)
+### Registries
 
 <!-- narrative: dpi--dpi-registry -->
 On 3 August the interior and labour ministries [agreed in Benghazi to create a unified national database of expatriate workers](https://www.lananews.com/ar/?p=499082) and a dedicated electronic platform, citing Labour Relations Law No. 12 of 2010 and Law No. 24 of 2023, together with joint ministerial committees and joint inspection campaigns drawing in passport investigations.
 <!-- /narrative -->
-### Sectoral management information systems (HMIS, EMIS, etc.)
+### Sectoral management information systems
 
 <!-- narrative: dpi--dpi-mis -->
 The state importer of Libya's medicines opened its first digital supply system. On 17 August the Medical Supply Organisation [launched the pilot phase of a Sustainable Medical Supply Platform](https://libyaherald.com/2026/08/medical-supply-organisation-launches-pilot-sustainable-medical-supply-platform-to-transform-to-an-integrated-national-digital-system), developed with and implemented by NSR International for Information Technology, a subsidiary of the Libyan Foreign Investment Company, to manage pharmaceutical procurement, inventory and distribution toward a unified national medical-supply database. No cost, pilot scope or timetable is stated, and what the platform's artificial-intelligence component does is not described.
@@ -77,67 +106,44 @@ On 30 July the Libyan Export Development Authority reported [LD 79.5 million of 
 
 On 9 August the economy and trade minister [launched an Exhibitions and Conferences Platform in Tripoli](https://libyaherald.com/2026/08/minister-of-economy-launches-digital-platform-for-organising-exhibitions-and-conferences-in-libya), presented as the country's first official specialised system for the sector: electronic management of registration, participation and event logistics, and an integrated database of exhibitions, conferences, organisers, participants and visitors. As with the expert register and the export window, no supplier, cost, hosting arrangement or data-protection basis is stated.
 <!-- /narrative -->
-### National statistics
 
-<!-- narrative: dpi--data-statistics -->
-On 5 August the Central Bank put [electronic transactions at LD 643 billion for the first seven months of 2026](https://libyaherald.com/2026/08/central-bank-source-to-libya-herald-cash-liquidity-to-reach-branches-sunday-withdrawal-limits-start-at-ld-3000-and-subject-to-increase), and forecast that they would exceed LD 1 trillion by the year's end.
+## Capacity
+
+### Training and skills
+
+<!-- narrative: capacity--capacity-training -->
+The Islamic Development Bank Institute [announced on 2 August that it had run an executive programme for Central Bank of Libya officials](https://libyaherald.com/2026/08/isdb-conducts-training-for-cbl-officials-on-sukuk-treasury-operations-and-ai-risk-management/) covering Sukuk issuance, liquidity and portfolio management, treasury operations and settlements, and emerging AI-related security risks. The Libya Observer places the programme at IsDB headquarters in Jeddah from 27 to 30 July 2026. Participant numbers, curriculum and any standard behind the AI component are unstated.
 <!-- /narrative -->
-### Use of satellite data
+### Research institutions
 
-<!-- narrative: dpi--data-satellite -->
-On 4 August the Libyan Authority for Scientific Research [discussed launching a first Libyan satellite for climate and desertification monitoring](https://www.lananews.com/ar/?p=499199), at design stage with no budget, timetable, launch partner or procurement route stated.
-<!-- /narrative -->
-
-## Governance and regulation
-
-### Legislation and regulation
-
-<!-- narrative: governance--gov-legislate -->
-On 16 July a House of Representatives committee [met the National Security Council in Benghazi to prepare a comprehensive cybersecurity law](https://alwasat.ly/news/libya/524932).
-<!-- /narrative -->
-### Strategies, plans and policies
-
-<!-- narrative: governance--gov-policy -->
-On 26 July the Ministry of Civil Service [discussed implementation of its digital transformation plan with Huawei Libya](https://lana.gov.ly/post.php?id=362365&lang=ar), covering the ministry's systems and electronic services. No agreement, scope or value was announced.
-
-On 4 August the same ministry [convened the General Information Authority, the Libyan Digital Company and its own IT office to prepare a national digital transformation plan](https://alwasat.ly/news/libya/526991) covering digitised administrative procedures, unified databases and integration between state institutions. No timetable, budget, lead agency or published document was stated, and the announcement was made on the ministry's Facebook page.
-<!-- /narrative -->
-### Regional collaboration
-
-<!-- narrative: governance--gov-regional -->
-On 26 July a delegation from the communications authority [attended the African Telecommunications Union's 7th Plenipotentiary Conference in Abuja](https://lana.gov.ly/post.php?id=362348&lang=en) and held bilateral meetings to seek support for Libya's candidacy for membership of the ITU Council.
-
-On 1 August the executive bureau of the Council of Arab Ministers of Communications and Information, meeting in Tunisia, [recorded Libya as chair of the Arab working group on AI Data and Digital Infrastructure](https://www.businesstec.news/23334), one of six groups under the Arab Permanent Committee on Artificial Intelligence and Emerging Technologies.
-
-On 15 August, on the margins of ARABOSAI's fiftieth-anniversary ceremony in Amman, Libya's Audit Bureau and Tunisia's Court of Auditors [signed a roadmap to activate an existing cooperation agreement](https://libyaobserver.ly/news/libya-tunisia-agree-roadmap-strengthen-audit-cooperation), covering exchange of expertise, capacity building, development of digital systems and solutions, and cooperation on artificial intelligence and its governance. No phase dates, budget or workplan is published.
-<!-- /narrative -->
-### Standards
-
-<!-- narrative: governance--gov-standards -->
-On 2 August the Municipal Guard's Investigation and Information Gathering Office, acting on Central Bank instructions and with the Ministry of Economy and Trade, [said any surcharge on card payment is prohibited](https://libyaherald.com/2026/08/municipal-guard-warns-against-imposing-surcharge-for-debit-card-payments/) and that the displayed price is the final price. [Complaints had reported spreads reaching 20% in some clinics and medical centres](https://libyaherald.com/2026/08/municipal-guard-warns-against-imposing-surcharge-for-debit-card-payments/).
-<!-- /narrative -->
-### Open data
-
-<!-- narrative: governance--data-open -->
-On 20 July the [National Committee for the Information for All Programme held its first meeting](https://technology.ly/en/ltf-supports-ifap-initiative/), established under Decision No. (50) of 2026 and chaired by the General Information Authority, taking a proposed roadmap, coordination mechanisms between national entities, and a mandate to represent Libya in regional and international forums.
-
-The month's one dataset is a trial. On 12 August the acting industry and minerals minister [launched the trial version of a national digital mineral map](https://libyaherald.com/2026/08/minister-of-industry-and-minerals-launches-trial-version-of-digital-mineral-map-of-libya-contributing-to-attracting-investment), built on an SQL database covering roughly 1,200 ore and mineral indicators with digital geological maps at 1:250,000, framed as a national information base for exploration, resource management and investment. No access terms, licence or publication date is stated, so it is not yet open data in any sense a reader could test.
+<!-- narrative: capacity--capacity-research -->
+On 4 August the Libyan Authority for Scientific Research's scientific committee [approved an integrated cloud platform for higher education and scientific research](https://www.lananews.com/ar/?p=499199), described in the authority's own account as using Microsoft 365.
 <!-- /narrative -->
 
-## Inclusion and capacity
+## Inclusion
 
 ### Access to services
 
 <!-- narrative: inclusion--include-access -->
 On 5 August a Central Bank source told Libya Herald that cash distribution to commercial bank branches would begin on 9 August under an August operational plan, with [withdrawal limits starting at LD 3,000 per customer and LD 4,000 in the south](https://libyaherald.com/2026/08/central-bank-source-to-libya-herald-cash-liquidity-to-reach-branches-sunday-withdrawal-limits-start-at-ld-3000-and-subject-to-increase), subject to increase as liquidity allows.
 <!-- /narrative -->
-### Training and skills
 
-<!-- narrative: inclusion--capacity-training -->
-The Islamic Development Bank Institute [announced on 2 August that it had run an executive programme for Central Bank of Libya officials](https://libyaherald.com/2026/08/isdb-conducts-training-for-cbl-officials-on-sukuk-treasury-operations-and-ai-risk-management/) covering Sukuk issuance, liquidity and portfolio management, treasury operations and settlements, and emerging AI-related security risks. The Libya Observer places the programme at IsDB headquarters in Jeddah from 27 to 30 July 2026. Participant numbers, curriculum and any standard behind the AI component are unstated.
+## Data
+
+### National statistics
+
+<!-- narrative: data--data-statistics -->
+On 5 August the Central Bank put [electronic transactions at LD 643 billion for the first seven months of 2026](https://libyaherald.com/2026/08/central-bank-source-to-libya-herald-cash-liquidity-to-reach-branches-sunday-withdrawal-limits-start-at-ld-3000-and-subject-to-increase), and forecast that they would exceed LD 1 trillion by the year's end.
 <!-- /narrative -->
-### Research institutions
+### Open data
 
-<!-- narrative: inclusion--capacity-research -->
-On 4 August the Libyan Authority for Scientific Research's scientific committee [approved an integrated cloud platform for higher education and scientific research](https://www.lananews.com/ar/?p=499199), described in the authority's own account as using Microsoft 365.
+<!-- narrative: data--data-open -->
+On 20 July the [National Committee for the Information for All Programme held its first meeting](https://technology.ly/en/ltf-supports-ifap-initiative/), established under Decision No. (50) of 2026 and chaired by the General Information Authority, taking a proposed roadmap, coordination mechanisms between national entities, and a mandate to represent Libya in regional and international forums.
+
+The month's one dataset is a trial. On 12 August the acting industry and minerals minister [launched the trial version of a national digital mineral map](https://libyaherald.com/2026/08/minister-of-industry-and-minerals-launches-trial-version-of-digital-mineral-map-of-libya-contributing-to-attracting-investment), built on an SQL database covering roughly 1,200 ore and mineral indicators with digital geological maps at 1:250,000, framed as a national information base for exploration, resource management and investment. No access terms, licence or publication date is stated, so it is not yet open data in any sense a reader could test.
+<!-- /narrative -->
+### Use of satellite data
+
+<!-- narrative: data--data-satellite -->
+On 4 August the Libyan Authority for Scientific Research [discussed launching a first Libyan satellite for climate and desertification monitoring](https://www.lananews.com/ar/?p=499199), at design stage with no budget, timetable, launch partner or procurement route stated.
 <!-- /narrative -->

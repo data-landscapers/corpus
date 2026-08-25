@@ -1,16 +1,16 @@
 ---
-title: Malawi — monthly update, July 2026
-compiled: 2026-08-22
-period: 2026-07-01 to 2026-08-22
+title: Malawi — monthly update, July – August 2026
+compiled: 2026-08-25
+period: 2026-07-01 to 2026-08-25
 place: MWI
 ledger_rows: 57
 not_held: 57
-record: f8be44c8a52c
+record: c7298efd25a1
 ---
 
-# Malawi: monthly update, July 2026
+# Malawi: monthly update, July – August 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-22 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments summarised from sources published between the beginning of last month and today.*
 
 ## Summary of the month
 
@@ -20,11 +20,51 @@ Two things moved in Malawi between 1 July and 6 August 2026, in opposite directi
 The month also produced the clearest statement yet of what local-government digitisation has not achieved: councils receiving clean audit opinions fell to 18 in 2024/25 from 22, announced on the same day as a public real-time spending dashboard ([launch account](https://www.nyasatimes.com/ben-phiri-unveils-malawis-real-time-cdf-dashboard-as-minister-flags-erosion-of-trust-risk-in-councils/)).
 <!-- /narrative -->
 
-## Infrastructure
+## Governance
+
+### Strategies, plans and policies
+
+<!-- narrative: governance--gov-policy -->
+The draft national artificial intelligence strategy the UNESCO readiness assessment is intended to guide remains pre-adoption.
+<!-- /narrative -->
+### Legislation and regulation
+
+<!-- narrative: governance--gov-legislate -->
+A consultative meeting concluded in Lilongwe reviewing the National Registration Act and the marriage and family relations statute, with the registration bureau stating the aim is to support a modern and secure civil registration and identification system; no bill, draft or timetable was placed on record.
+
+The statutory copyright society's position on artificial intelligence became public on 23 July: it will not register works created entirely by artificial intelligence or distribute royalties on them. Its own statement is not held, the decision date is not established, and no test was published for how much assistance is admissible.
+<!-- /narrative -->
+### Data protection
+
+<!-- narrative: governance--gov-protect -->
+The communications regulator consulted stakeholders at Blantyre on 13 July 2026 on draft Data Protection Regulations and a registration fee schedule setting annual fees by turnover from MWK 50,000 for small and medium enterprises to MWK 7 million for the largest controllers and processors of significant importance ([consultation account](https://malawi24.com/2026/07/16/macra-targets-stronger-data-protection-compliance/)). The consultation follows the elapse in early June of the twenty-four-month exemption that had kept most controllers outside the Act's obligations since commencement ([the Act](https://www.mca.ac.mw/mca-siteup/uploads/Data%20Protection%20Act%202024.pdf)). No commencement date for the regulations was announced.
+
+The regulator's first published position on a specific harm followed on 18 August: a notice warning that [recording, publishing or sharing non-consensual intimate content breaches the Data Protection Act 2024, carrying fines to K20,000,000 and up to five years' imprisonment under section 49, with separate penalties under the Electronic Transactions and Cyber Security Act 2016](https://techafricanews.com/2026/08/19/malawi-regulator-warns-against-sharing-non-consensual-intimate-content/). It states the law rather than applying it: no case, complaint count or enforcement action accompanies it, and enforcement under the Act remains ***Not held***.
+<!-- /narrative -->
+### Regional collaboration
+
+<!-- narrative: governance--gov-regional -->
+The regulator and UNDP [named priorities in exploratory discussions — national identity integration with SIM verification, responsible artificial intelligence, stronger data protection and secondary-school digital skills drawing on the universal service fund](https://itweb.africa/article/malawi-explores-ai-digital-ids-collaboration/nWJadMbNlybMbjO1). No memorandum, funding figure or timetable is stated.
+<!-- /narrative -->
+### Standards
+
+<!-- narrative: governance--gov-standards -->
+On 3 August the copyright society's blank media levy distribution was reported to rest on records submitted by licensed disc-burning centres rather than on digital consumption, with a proposal to key distribution to digital consumption voted down at an annual general meeting.
+<!-- /narrative -->
+
+## Finance
+
+### New investments
+
+<!-- narrative: finance--finance-new -->
+The governance and service delivery project [closed on 30 June, its grant mechanism continuing under a successor](https://www.nyasatimes.com/govt-secures-k229bn-in-world-bank-grants-parliament-approves-two-financing-bills/). No closing disbursement figure or results statement is held.
+<!-- /narrative -->
+
+## ICT Infrastructure
 
 ### Connectivity
 
-<!-- narrative: infrastructure--infra-connect -->
+<!-- narrative: ict-infrastructure--infra-connect -->
 The communications regulator found both mobile operators in breach of the tariff-notice requirement on 17 July 2026, for failing to publish approved tariff changes in at least two daily newspapers seven days before they took effect. Both agreed to credit customers who bought affected products between 26 June and 2 July with bundles equal to the price difference, and to submit evidence of compliance by 31 July ([regulator order](https://techafricanews.com/2026/07/17/macra-orders-airtel-malawi-and-tnm-to-compensate-customers-over-tariff-notice-breach/)). The approved price increase itself stands.
 
 The ICT minister told Parliament on 17 July that additional mobile operator licences are under consideration, and on 24 July that the President had authorised the ministry to identify an investor able to roll out a network without delay; no bid timetable, licence terms or spectrum allocation was stated. The minister also told the House that spectrum licence fees had been reduced by 50%, against the 20% the regulator announced in June 2025 ([parliamentary account](https://www.nyasatimes.com/malawi-seeks-new-mobile-operators-to-boost-competition-after-tariff-backlash/)).
@@ -33,18 +73,18 @@ The gap the licensing round is meant to close acquired figures in August. An ind
 <!-- /narrative -->
 ### Data Storage
 
-<!-- narrative: infrastructure--infra-store -->
+<!-- narrative: ict-infrastructure--infra-store -->
 On 3 July the e-government department agreed integration of immigration e-services onto the national exchange platform ([e-government department](https://itweb.africa/article/malawi-integrates-immigration-e-services/Olx4z7kaxp3q56km)).
 
 The revenue authority's own resilience improved on donor money. Its [World Bank-funded secondary data centre and uninterruptible power supply upgrades are reported as improving service continuity, cutting queues and improving customs-duty accuracy at border posts and the international airport](https://www.nyasatimes.com/backup-data-centre-boosts-continuity-at-malawi-revenue-authority/), under a six-year, US$150m regional trade and connectivity project running to 2027. The specific financing commitment date is not stated in the record held, and no capacity, location or availability figure is given for the facility.
 <!-- /narrative -->
 ### Energy
 
-<!-- narrative: infrastructure--infra-energy -->
+<!-- narrative: ict-infrastructure--infra-energy -->
 The minister cited an 8% rise in electricity tariffs and a roughly 144% rise in fuel prices in the operators' cost case ([parliamentary account](https://www.nyasatimes.com/malawi-seeks-new-mobile-operators-to-boost-competition-after-tariff-backlash/)).
 <!-- /narrative -->
 
-## Digital public infrastructure
+## DPI
 
 ### Data Exchange
 
@@ -69,12 +109,12 @@ On 25 July the central bank's expected banknote replacement cost for 2026 was re
 
 Two things moved in the regional rails above it. The regional clearing house [published the scheme rulebook for instant low-cost cross-border retail payments, with a gender audit and strategy to 2030 drawn from research along the corridor with Zambia](https://www.linkedin.com/posts/comesa-clearing-house_comesaclearinghouse-drpp-regionalintegration-activity-7492550470780182528-vX_W), which gives the platform operational and governance rules it did not have. Separately a commercial bank and an international card scheme [opened online acceptance of that scheme's cards to participating merchants in nine African markets including Malawi on 19 August](https://techafricanews.com/2026/08/19/unionpay-and-standard-bank-expand-e-commerce-acceptance-across-nine-african-markets/), settling in local currency, US dollars or both; the merchant count is given for the nine markets together and not for Malawi.
 <!-- /narrative -->
-### Registries (population, land, address, etc.)
+### Registries
 
 <!-- narrative: dpi--dpi-registry -->
 [About 8,000 landlords were registered for rental income tax](https://malawi24.com/2026/07/20/mras-eis-gains-momentum/).
 <!-- /narrative -->
-### Sectoral management information systems (HMIS, EMIS, etc.)
+### Sectoral management information systems
 
 <!-- narrative: dpi--dpi-mis -->
 The Electronic Invoicing System [reached 8,552 registered taxpayers by 20 July](https://malawi24.com/2026/07/20/mras-eis-gains-momentum/).
@@ -87,88 +127,57 @@ Passport printing resumed at Mangochi, stated in Parliament on 20 July, where a 
 
 A second paper process is being scoped out of existence. The partnership commission and the e-government department [are specifying a web-based auctions platform carrying electronic bid submission, automated ranking, bidder anonymity and digital publication of results](https://itweb.africa/article/malawi-digitises-public-auction-platform/KPNG8v8NLm1M4mwD), with requirements gathered at Blantyre under a World Bank-funded project. No cost, go-live date or auction volume is stated.
 <!-- /narrative -->
-### Rural digital data capture
 
-<!-- narrative: dpi--digital-rural -->
-Applied deployments in the month were single facilities rather than national systems: a university commissioned an artificial-intelligence fertigation system at its Thyolo campus on 17 July, automating irrigation and fertiliser application from real-time crop data, with no cost or funding source stated.
-<!-- /narrative -->
+## Digitalisation
+
 ### Digitalisation of sub-national government
 
-<!-- narrative: dpi--digital-localgov -->
+<!-- narrative: digitalisation--digital-localgov -->
 Parliament ratified an SDR 58.2m grant for the successor local-government service delivery project on 29 July 2026, covering 32 councils with four entering for the first time, of which US$12.8m funds business-process re-engineering, system assessments and a performance dashboard ([parliamentary approval](https://www.nyasatimes.com/govt-secures-k229bn-in-world-bank-grants-parliament-approves-two-financing-bills/)). The predecessor closed on 30 June.
 
 The results announced on 31 July give the counterpoint. Councils receiving clean audit opinions fell to 18 in 2024/25 from 22 the year before, with one district council receiving an adverse opinion — disclosed at the same event that launched a public real-time dashboard for tracking constituency development spending ([launch account](https://www.nyasatimes.com/ben-phiri-unveils-malawis-real-time-cdf-dashboard-as-minister-flags-erosion-of-trust-risk-in-councils/)). No address for that dashboard is established in anything the wiki holds, so it cannot be inspected.
 <!-- /narrative -->
-### National statistics
+### Rural digital data capture
 
-<!-- narrative: dpi--data-statistics -->
-The statistical office and the communications regulator [put a Fourth National ICT Survey into the field from August to October across all districts, including the refugee camp at Dzaleka](https://malawidatanews.com/2026/08/14/national-ict-survey-on-the-cards/), covering mobile and computer ownership, internet access, digital financial services, e-commerce and cybersecurity awareness. No publication date for the results is stated, which is the part that decides whether it informs anything.
+<!-- narrative: digitalisation--digital-rural -->
+Applied deployments in the month were single facilities rather than national systems: a university commissioned an artificial-intelligence fertigation system at its Thyolo campus on 17 July, automating irrigation and fertiliser application from real-time crop data, with no cost or funding source stated.
 <!-- /narrative -->
 
-## Governance and regulation
-
-### Legislation and regulation
-
-<!-- narrative: governance--gov-legislate -->
-A consultative meeting concluded in Lilongwe reviewing the National Registration Act and the marriage and family relations statute, with the registration bureau stating the aim is to support a modern and secure civil registration and identification system; no bill, draft or timetable was placed on record.
-
-The statutory copyright society's position on artificial intelligence became public on 23 July: it will not register works created entirely by artificial intelligence or distribute royalties on them. Its own statement is not held, the decision date is not established, and no test was published for how much assistance is admissible.
-<!-- /narrative -->
-### Strategies, plans and policies
-
-<!-- narrative: governance--gov-policy -->
-The draft national artificial intelligence strategy the UNESCO readiness assessment is intended to guide remains pre-adoption.
-<!-- /narrative -->
-### Regional collaboration
-
-<!-- narrative: governance--gov-regional -->
-The regulator and UNDP [named priorities in exploratory discussions — national identity integration with SIM verification, responsible artificial intelligence, stronger data protection and secondary-school digital skills drawing on the universal service fund](https://itweb.africa/article/malawi-explores-ai-digital-ids-collaboration/nWJadMbNlybMbjO1). No memorandum, funding figure or timetable is stated.
-<!-- /narrative -->
-### Standards
-
-<!-- narrative: governance--gov-standards -->
-On 3 August the copyright society's blank media levy distribution was reported to rest on records submitted by licensed disc-burning centres rather than on digital consumption, with a proposal to key distribution to digital consumption voted down at an annual general meeting.
-<!-- /narrative -->
-### Data protection
-
-<!-- narrative: governance--gov-protect -->
-The communications regulator consulted stakeholders at Blantyre on 13 July 2026 on draft Data Protection Regulations and a registration fee schedule setting annual fees by turnover from MWK 50,000 for small and medium enterprises to MWK 7 million for the largest controllers and processors of significant importance ([consultation account](https://malawi24.com/2026/07/16/macra-targets-stronger-data-protection-compliance/)). The consultation follows the elapse in early June of the twenty-four-month exemption that had kept most controllers outside the Act's obligations since commencement ([the Act](https://www.mca.ac.mw/mca-siteup/uploads/Data%20Protection%20Act%202024.pdf)). No commencement date for the regulations was announced.
-
-The regulator's first published position on a specific harm followed on 18 August: a notice warning that [recording, publishing or sharing non-consensual intimate content breaches the Data Protection Act 2024, carrying fines to K20,000,000 and up to five years' imprisonment under section 49, with separate penalties under the Electronic Transactions and Cyber Security Act 2016](https://techafricanews.com/2026/08/19/malawi-regulator-warns-against-sharing-non-consensual-intimate-content/). It states the law rather than applying it: no case, complaint count or enforcement action accompanies it, and enforcement under the Act remains ***Not held***.
-<!-- /narrative -->
-
-## Artificial intelligence and the technology sector
+## Technology
 
 ### AI
 
-<!-- narrative: ai-tech--tech-ai -->
+<!-- narrative: technology--tech-ai -->
 A UNESCO artificial intelligence readiness assessment was validated in Lilongwe on 22 July 2026, run by the education ministry rather than by the ICT ministry that owns the draft national strategy. It reported gaps in policy, infrastructure, institutional capacity and education readiness, and put 27.7% of the population online with household computer ownership at 4.2% ([validation account](https://itweb.africa/article/malawi-moves-to-strengthen-ai-ecosystem/j5alr7QAwoV7pYQk)).
 
 On 24 July the Defence Minister stated that the Malawi Defence Force intends to adopt artificial intelligence in military operations and to learn it from the Chinese army, within a relationship he described as extending past exchanges into specialised training, equipment supply and institutional development. No Malawian doctrine, oversight body, budget line or civilian-control provision for military artificial intelligence is on file, and the draft national strategy as reported does not cover it.
 <!-- /narrative -->
 
-## Inclusion and capacity
+## Capacity
 
-### Digital divides
+### Training and skills
 
-<!-- narrative: inclusion--include-divides -->
-The universal service fund is in operation and funded from the regulator's annual budget allocation, and its [director general stated existing funding levels remain insufficient to meet the country's connectivity needs](https://itweb.africa/article/malawi-explores-ai-digital-ids-collaboration/nWJadMbNlybMbjO1). A school connectivity project runs under it and the secondary-school skills work above is stated to draw on it. No income, balance or disbursement figure is held for any year, and the base holds no regulator annual report or fund account at all.
+<!-- narrative: capacity--capacity-training -->
+An operator's school programme reports [36 schools connected with a further nine scheduled in 2026, laboratories equipped with smart televisions and tablets, 12 local e-learning sites zero-rated, and more than 32,000 learners and over 900 teachers benefiting directly](https://malawi24.com/2026/07/15/airtel-targets-more-malawi-schools-with-internet/). All the figures are the company's own; the [continental partnership behind it is worth US$57m and targets 5,000 schools across 13 countries by 2027](https://malawi24.com/2026/07/15/airtel-targets-more-malawi-schools-with-internet/). The same foundation's scholarship arm named its [first 25 beneficiaries on 18 August, drawn from 17 districts and taking eight programmes at the science and technology university, computer systems and cyber security among them](https://techafricanews.com/2026/08/18/airtel-malawi-awards-first-25-tech-scholarships-to-students-across-17-districts/) — the places announced at the January launch, filled seven months later. No continuation beyond the one cohort is stated.
 <!-- /narrative -->
+
+## Inclusion
+
 ### Access to services
 
 <!-- narrative: inclusion--include-access -->
 The first usable figure for how many Malawians are online came from the operators' own trade association rather than from the state. Its report [puts 80% of the population offline despite 87% 4G population coverage, and estimates MWK 1.1 trillion of economic value and 490,000 jobs by 2030 from closing the usage gap](https://techafricanews.com/2026/08/20/gsma-malawi-digital-transformation-policy-action/), setting out six policy priorities for the government and the regulator. The gap it identifies is usage and not coverage, which is a finding the base had no measurement for; the value estimate is modelled by an interested party, and among the six asks is cutting the mobile-service taxes its members pay. Against it stands [a presidential target of 80% internet usage by 2026](https://itweb.africa/article/malawi-president-orders-digital-revolution/kYbe9MXbob9vAWpG) that has never had a published baseline.
 <!-- /narrative -->
-### Training and skills
+### Digital divides
 
-<!-- narrative: inclusion--capacity-training -->
-An operator's school programme reports [36 schools connected with a further nine scheduled in 2026, laboratories equipped with smart televisions and tablets, 12 local e-learning sites zero-rated, and more than 32,000 learners and over 900 teachers benefiting directly](https://malawi24.com/2026/07/15/airtel-targets-more-malawi-schools-with-internet/). All the figures are the company's own; the [continental partnership behind it is worth US$57m and targets 5,000 schools across 13 countries by 2027](https://malawi24.com/2026/07/15/airtel-targets-more-malawi-schools-with-internet/). The same foundation's scholarship arm named its [first 25 beneficiaries on 18 August, drawn from 17 districts and taking eight programmes at the science and technology university, computer systems and cyber security among them](https://techafricanews.com/2026/08/18/airtel-malawi-awards-first-25-tech-scholarships-to-students-across-17-districts/) — the places announced at the January launch, filled seven months later. No continuation beyond the one cohort is stated.
+<!-- narrative: inclusion--include-divides -->
+The universal service fund is in operation and funded from the regulator's annual budget allocation, and its [director general stated existing funding levels remain insufficient to meet the country's connectivity needs](https://itweb.africa/article/malawi-explores-ai-digital-ids-collaboration/nWJadMbNlybMbjO1). A school connectivity project runs under it and the secondary-school skills work above is stated to draw on it. No income, balance or disbursement figure is held for any year, and the base holds no regulator annual report or fund account at all.
 <!-- /narrative -->
 
-## Finance
+## Data
 
-### New investments
+### National statistics
 
-<!-- narrative: finance--finance-new -->
-The governance and service delivery project [closed on 30 June, its grant mechanism continuing under a successor](https://www.nyasatimes.com/govt-secures-k229bn-in-world-bank-grants-parliament-approves-two-financing-bills/). No closing disbursement figure or results statement is held.
+<!-- narrative: data--data-statistics -->
+The statistical office and the communications regulator [put a Fourth National ICT Survey into the field from August to October across all districts, including the refugee camp at Dzaleka](https://malawidatanews.com/2026/08/14/national-ict-survey-on-the-cards/), covering mobile and computer ownership, internet access, digital financial services, e-commerce and cybersecurity awareness. No publication date for the results is stated, which is the part that decides whether it informs anything.
 <!-- /narrative -->

@@ -1,15 +1,15 @@
 ---
 title: Niger — digital transformation and data governance status report
-compiled: 2026-08-23
+compiled: 2026-08-25
 place: NER
 ledger_rows: 59
 not_held: 3
-record: a0ad760af6eb
+record: da5dfbdcf8ed
 ---
 
 # Niger: status report
 
-*Compiled 2026-08-23 from the Data Landscapers source base, from `outputs/reports/NER/ledger.csv` (59 systems and instruments, 3 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-25 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/NER/ledger.csv` (59 systems and instruments, 3 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -25,7 +25,77 @@ Physical infrastructure arrived late in 2025 — [1,031 km of Trans-Sahara fibre
 The telecommunications regulator is the most active institution on the record. It [served formal notices on all four mobile operators on 10 June 2026](https://www.lesahel.org/communications-electroniques-larcep-lance-une-campagne-de-controle-de-la-qualite-des-services-offerts-par-les-operateurs-de-telephonie-mobile-et-dinternet/) over voice and data quality, against thresholds this report cannot state because they are not published.
 <!-- /narrative -->
 
-## Infrastructure
+## Governance
+
+### Strategies, plans and policies
+
+| System or instrument | Status | Milestone |
+|---|---|---|
+| National digital-development policy | [In development](https://www.lesahel.org/entretien-accorde-a-la-rtn-par-le-ministre-de-la-communication-des-postes-et-de-leconomie-numerique-m-sidi-mohamed-raliou-nous-sommes-en-train-de-construire-un-data-center/) | National validation workshop for the PNDN 2026-2035 and its 2026-2030 sectoral action plan, 2026-03-11 |
+
+### Legislation and regulation
+
+| System or instrument | Status | Milestone |
+|---|---|---|
+| Civil-status regime | [Implemented](https://www.lesahel.org/wuri-niger-restructure-une-opportunite-pour-une-identification-universelle-de-la-population-au-service-de-linclusion-et-du-un-puissant-facteur-de-developpement-inclusif-et-une-dimension/) | Application decret n2026-277 of 2026-05-18 |
+| Loi 2018-45 prior-authorisation regime for electronic communications | [Implemented](https://www.actuniger.com/societe/21307-niger-larcep-declare-la-guerre-aux-wifi-zones-pirates-utilisant-starlink.html) | Invoked against unauthorised satellite resale |
+
+### Data protection
+
+| System or instrument | Status | Milestone |
+|---|---|---|
+| Haute Autorite de Protection des Donnees a caractere Personnel | [Implemented](https://www.lesahel.org/entretien-avec-le-president-de-la-haute-autorite-de-protection-des-donnees-a-caractere-personnel-hapdp/) | Operating under Loi n2022-59 |
+| Loi n2022-59 on personal data protection | [Implemented](https://www.lesahel.org/entretien-avec-le-president-de-la-haute-autorite-de-protection-des-donnees-a-caractere-personnel-hapdp/) | In force since 16 December 2022, replacing Loi 2017-28 |
+| Malabo Convention ratification | [Implemented](https://www.lesahel.org/entretien-avec-le-president-de-la-haute-autorite-de-protection-des-donnees-a-caractere-personnel-hapdp/) | Ratified 23 May 2022 |
+
+### Regional collaboration
+
+| System or instrument | Status | Milestone |
+|---|---|---|
+| Algeria and Niger telecommunications cooperation | [Implemented](https://techreviewafrica.com/news/4637/algeria-and-niger-strengthen-cooperation-on-telecommunications-and-digital-development) | Cooperation agreed 2026-03-30 |
+| Identity-system cooperation with Burkina Faso | [Implemented](https://www.journalduniger.com/niger-burkina-cooperation-identite-numerique-biometrie/) | Technical mission received in Ouagadougou 2026-07-30 |
+
+### Standards
+
+| System or instrument | Status | Milestone |
+|---|---|---|
+| Mobile quality-of-service thresholds | ***Not held, searched 2026-08-10 - ARCEP's 2021 annual report names decision n000012/ARCEP/CNRCEP/21 and its function but not its threshold values; ARCEP's own site does not surface the 2026 mises en demeure either*** | — |
+
+### Public debate and participation in policymaking
+
+| System or instrument | Status | Milestone |
+|---|---|---|
+| PNDN 2026-2035 consultation and validation process | [Implemented](https://anp.ne/niger-le-projet-de-document-de-politique-nationale-de-developpement-du-numerique-pndn-2026-2035-en-relecture/) | National validation workshop for the PNDN 2026-2035 and its 2026-2030 sectoral action plan, 2026-03-11 |
+
+<!-- narrative: governance -->
+The data-protection regime is formal and its output is invisible. [Loi n°2022-59 of 16 December 2022 replaced the 2017 statute](https://www.lesahel.org/entretien-avec-le-president-de-la-haute-autorite-de-protection-des-donnees-a-caractere-personnel-hapdp/), the Malabo Convention was ratified in May 2022, and the [High Authority operates under it](https://www.lesahel.org/la-haute-autorite-de-protection-des-donnees-a-caractere-personnel-hapdp) — but no caseload, decision or sanction figure is published, leaving the privacy backstop for biometric enrolment undescribed.
+
+Telecommunications regulation is where enforcement is visible. [Loi 2018-45's prior-authorisation regime](https://www.actuniger.com/societe/21307-niger-larcep-declare-la-guerre-aux-wifi-zones-pirates-utilisant-starlink.html) was invoked in September 2025 against unauthorised resale of satellite connectivity through Wifi Zones, with a 3 October deadline and penalties of three months to a year and fines to 60m FCFA; in [June 2026 formal notices went to all four mobile operators](https://www.lesahel.org/communications-electroniques-larcep-lance-une-campagne-de-controle-de-la-qualite-des-services-offerts-par-les-operateurs-de-telephonie-mobile-et-dinternet/), with fines of 1 to 3% of prior-year turnover, licence suspension or withdrawal in prospect. ARCEP's own 2021 annual report names the underlying [decision n°000012/ARCEP/CNRCEP/21 of 10 December 2021](https://arcep.ne/wp-content/uploads/2024/05/Rapportannuel2021ARCEPNIGER_11.08.2022.pdf) and its function — quality-of-service, coverage and network-control rules — but not the threshold values, which [ARCEP's own site](https://arcep.ne/) still does not surface as of August 2026.
+
+The [national digital-development policy (PNDN 2026-2035), drafted by March 2025](https://www.lesahel.org/entretien-accorde-a-la-rtn-par-le-ministre-de-la-communication-des-postes-et-de-leconomie-numerique-m-sidi-mohamed-raliou-nous-sommes-en-train-de-construire-un-data-center/), went through a redrafting committee installed 2025-07-18 and a [national validation workshop on 2026-03-11 for the policy and its 2026-2030 sectoral action plan](https://www.lesahel.org/atelier-sur-la-politique-nationale-de-developpement-du-numerique-2026-2035-pour-un-document-strategique-refletant-les-aspirations-et-les-priorites-du-niger/), on three axes (governance/security, infrastructure/services, skills/innovation) and targeting a 2035 fibre-hub goal; not yet formally adopted. The ministry called the workshop [the product of broad consultation among digital-sector actors](https://anp.ne/niger-le-projet-de-document-de-politique-nationale-de-developpement-du-numerique-pndn-2026-2035-en-relecture/), though no open public-comment channel is named.
+
+Externally the pattern is neighbour-to-neighbour. Niger [agreed telecommunications cooperation with Algeria in March 2026](https://techreviewafrica.com/news/4637/algeria-and-niger-strengthen-cooperation-on-telecommunications-and-digital-development) and [sent a technical mission to study Burkina Faso's identification stack in July 2026](https://www.journalduniger.com/niger-burkina-cooperation-identite-numerique-biometrie/). Its [EU country programme ended on 31 December 2024](https://international-partnerships.ec.europa.eu/document/download/10d4ba3f-ee66-426e-8c60-bcd89b09fd11_en?filename=ad-mip-2024-c2024-7502-sub-saharan-africa-annex_en.pdf), replaced by a EUR 238m complex-settings envelope held inside the regional programme.
+<!-- /narrative -->
+
+## Finance
+
+### Domestic budget appropriations and expenditure
+
+| System or instrument | Status | Milestone |
+|---|---|---|
+| Public budget allocation to digital government | ***Not held*** | — |
+
+### New investments
+
+| System or instrument | Status | Milestone |
+|---|---|---|
+| Luxembourg-supported Sahel connectivity programme | [Implemented](https://itweb.africa/article/ericsson-luxembourg-sweden-support-boosts-sahel-digital-connectivity/Pero3MZ3ozJqQb6m) | Ericsson and Sweden joined the support package 2026-06-15 |
+
+<!-- narrative: finance -->
+Donor commitments are what financing this report can state. Luxembourg [pledged support to close the Sahel's digital gap in January 2025](https://itweb.africa/article/luxembourg-pledges-to-reduce-sahels-digital-gap/KWEBbvyLJjxqmRjO), and the package [widened to Ericsson and Sweden in June 2026](https://itweb.africa/article/ericsson-luxembourg-sweden-support-boosts-sahel-digital-connectivity/Pero3MZ3ozJqQb6m), with no commitment total published. No public budget appropriation for digital government is held.
+<!-- /narrative -->
+
+## ICT Infrastructure
 
 ### Connectivity
 
@@ -65,7 +135,7 @@ The telecommunications regulator is the most active institution on the record. I
 | National digital forensics laboratory | [Planned](https://www.lesahel.org/installation-dun-comite-national-charge-de-loperationnalisation-et-du-deploiement-des-infrastructures-numeriques-critiques-poser-les-bases-de-la-resilience-et-la-securite-des/) | Enumerated by the critical-infrastructure committee 2025-07-23 |
 | National public key infrastructure | [Planned](https://www.lesahel.org/installation-dun-comite-national-charge-de-loperationnalisation-et-du-deploiement-des-infrastructures-numeriques-critiques-poser-les-bases-de-la-resilience-et-la-securite-des/) | Enumerated by the critical-infrastructure committee 2025-07-23 |
 
-<!-- narrative: infrastructure -->
+<!-- narrative: ict-infrastructure -->
 The physical layer arrived in two tranches. China Eximbank financed [a 2,275 km domestic backbone across three sections — Niamey-Tillabery, Zinder-Diffa and Agadez-Tahoua](https://china.aiddata.org/projects/58683/) under an RMB 623.7m loan signed January 2014, completed and handed over in Q1 2017. Niger then took [provisional acceptance, on 14 November 2025, of 1,031 km of Trans-Sahara fibre on five cross-border axes — to Algeria, Chad, Nigeria, Benin and Burkina Faso — and of a Tier III data centre at Niamey](https://www.afdb.org/fr/news-and-events/press-releases/le-niger-franchit-une-etape-majeure-vers-la-connectivite-haut-debit-avec-la-reception-de-plus-de-1-000-kilometres-de-fibre-optique-88765), under an AfDB-financed project (about EUR 43m) [launched under NEPAD in 2017, works from 2021](https://anp.ne/niger-reception-provisoire-des-troncons-du-projet-de-la-dorsale-transsaharienne-a-fibre-optique/). The data centre was [targeted for delivery by 30 September 2025](https://www.lesahel.org/entretien-accorde-a-la-rtn-par-le-ministre-de-la-communication-des-postes-et-de-leconomie-numerique-m-sidi-mohamed-raliou-nous-sommes-en-train-de-construire-un-data-center/); no capacity figure has been published for it. A [national internet exchange point opened at Niamey in August 2025](https://www.agenceecofin.com/actualites-numerique/2108-130856-le-niger-se-dote-d-un-nouveau-point-d-echange-internet).
 
 The cyber half of the same blueprint has not been built. The critical-infrastructure committee of [July 2025 enumerated a national public key infrastructure, a National Cybersecurity Centre (SOC and CERT), and a digital forensics laboratory](https://www.lesahel.org/installation-dun-comite-national-charge-de-loperationnalisation-et-du-deploiement-des-infrastructures-numeriques-critiques-poser-les-bases-de-la-resilience-et-la-securite-des/); all three remain planned, and the [National Cybersecurity Strategy is still in elaboration](https://www.lesahel.org/13e-edition-du-symposium-africacert-handshake-2025-le-niger-au-coeur-de-la-strategie-numerique-africaine/).
@@ -75,7 +145,7 @@ Satellite is the access story. [Starlink has been commercially available since 1
 The regulator has real-time visibility of the networks it supervises, through a [monitoring platform inaugurated in January 2026](https://www.lesahel.org/regulation-des-telecommunications-larcep-inaugure-une-plateforme-de-controle-continu-des-reseaux-mobiles/), and it found [voice and mobile-data quality deficient at all four operators in the April-May 2026 control](https://www.actuniger.com/societe/22189-telecommunications-apres-un-controle-des-reseaux-a-niamey-larcep-met-les-quatre-operateurs-en-demeure-de-corriger-les-insuffisances-constatees.html), with a verification campaign running to 28 August 2026.
 <!-- /narrative -->
 
-## Digital public infrastructure
+## DPI
 
 ### Data Exchange
 
@@ -102,7 +172,7 @@ The regulator has real-time visibility of the networks it supervises, through a 
 | Identity-fee payment kiosks | [Implemented](https://www.actuniger.com/societe/21937-carte-nationale-didentite-biometrique-cnib-avec-nita-les-demarches-simplifiees-pour-regler-ses-frais-et-se-faire-enroler-en-toute-serenite.html) | Deployed at enrolment sites 2026-04-27 |
 | Scholarship payment through the Treasury application | [Planned](https://anp.ne/niger-plusieurs-reformes-engagees-pour-ameliorer-le-secteur-de-lenseignement-superieur-et-les-performances-de-lanab/) | Announced as part of the grants agency reform 2026-07-29 |
 
-### Registries (population, land, address, etc.)
+### Registries
 
 | System or instrument | Status | Milestone |
 |---|---|---|
@@ -112,7 +182,7 @@ The regulator has real-time visibility of the networks it supervises, through a 
 | National Nationality Register | [In development](https://www.lesahel.org/wuri-niger-restructure-une-opportunite-pour-une-identification-universelle-de-la-population-au-service-de-linclusion-et-du-un-puissant-facteur-de-developpement-inclusif-et-une-dimension/) | Instituted by ordonnance n2026-21 of 2026-04-22 |
 | National Population Register | [In development](https://www.lesahel.org/tillaberi-reformes-de-letat-civil-et-de-lidentification-une-mission-de-sensibilisation-sillonne-la-region/) | Sensitisation tour reaches Tillaberi as its third stop (2026-08-19) |
 
-### Sectoral management information systems (HMIS, EMIS, etc.)
+### Sectoral management information systems
 
 | System or instrument | Status | Milestone |
 |---|---|---|
@@ -124,30 +194,6 @@ The regulator has real-time visibility of the networks it supervises, through a 
 | System or instrument | Status | Milestone |
 |---|---|---|
 | Tax administration digitalisation | [In development](https://www.lesahel.org/digitalisation-de-ladministration-fiscale-nigerienne-la-dgi-reunit-les-acteurs-pour-batir-une-trajectoire-de-modernisation-maitrisee-et-progressive/) | National seminar convened 2026-07-15 |
-
-### Rural digital data capture
-
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Villages Intelligents rural inclusion programme | [In development](https://www.lesahel.org/projet-de-villages-intelligents-de-lansi-a-tabelot-le-numerique-au-service-de-linclusion-et-du-developpement-local/) | Digital centre opened at Tabelot in Agadez |
-
-### Digitalisation of sub-national government
-
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Naneye Yarda municipal tax platform | [Implemented](https://www.lesahel.org/lancement-du-projet-naneye-yarda-renforcer-la-modernisation-et-lefficacite-des-services-publics-municipaux/) | Launched at Niamey, 2025-01-27 |
-
-### National statistics
-
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Fifth general population and housing census | [In development](https://www.lesahel.org/diffa-les-chefs-traditionnels-en-formation-pour-une-sensibilisation-sur-le-5e-rgph/) | Traditional chiefs trained as mobilisers in Diffa 2026-07-29 |
-
-### Use of satellite data
-
-| System or instrument | Status | Milestone |
-|---|---|---|
-| IGNN remote-sensing unit | [Implemented](https://ignn.net/la-teledetection-et-technique-spacialestts.html) | Described on IGNN's own site, retrieved 2026-08-10; no founding date published |
 
 <!-- narrative: dpi -->
 Identity runs on two tracks that have converged. The sovereignty track issues the [AES biometric national identity card — mandatory at 15 and over, valid five years at 4,500 FCFA, capturing fingerprint, face, voice and iris](https://www.lesahel.org/carte-nationale-didentite-biometrique-aes-lancement-de-lenrolement-de-masse-sous-le-signe-de-la-souverainete-numerique/) — and the [AES biometric passport in five categories to ICAO specification](https://www.lesahel.org/editorial-passeports-biometriques-aes/), both produced with a Libyan supplier. The donor track is the [restructured WURI programme](https://www.lesahel.org/wuri-niger-restructure-une-opportunite-pour-une-identification-universelle-de-la-population-au-service-de-linclusion-et-du-un-puissant-facteur-de-developpement-inclusif-et-une-dimension/), which now carries the statutory register stack rather than running alongside it.
@@ -163,71 +209,25 @@ Payments are thin and interoperating. [Bank-to-wallet transfers went live in Jun
 Below the national identity stack, one municipal service is on record: Niamey's [Naneye Yarda tax-collection platform, launched 27 January 2025](https://www.lesahel.org/lancement-du-projet-naneye-yarda-renforcer-la-modernisation-et-lefficacite-des-services-publics-municipaux/), runs 50 field agents who have geolocated more than 2,000 taxpayers, with mobile-money payment via Al Izza and Nita and automated transaction auditing.
 <!-- /narrative -->
 
-## Governance and regulation
+## Digitalisation
 
-### Legislation and regulation
-
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Civil-status regime | [Implemented](https://www.lesahel.org/wuri-niger-restructure-une-opportunite-pour-une-identification-universelle-de-la-population-au-service-de-linclusion-et-du-un-puissant-facteur-de-developpement-inclusif-et-une-dimension/) | Application decret n2026-277 of 2026-05-18 |
-| Loi 2018-45 prior-authorisation regime for electronic communications | [Implemented](https://www.actuniger.com/societe/21307-niger-larcep-declare-la-guerre-aux-wifi-zones-pirates-utilisant-starlink.html) | Invoked against unauthorised satellite resale |
-
-### Strategies, plans and policies
+### Digitalisation of sub-national government
 
 | System or instrument | Status | Milestone |
 |---|---|---|
-| National digital-development policy | [In development](https://www.lesahel.org/entretien-accorde-a-la-rtn-par-le-ministre-de-la-communication-des-postes-et-de-leconomie-numerique-m-sidi-mohamed-raliou-nous-sommes-en-train-de-construire-un-data-center/) | National validation workshop for the PNDN 2026-2035 and its 2026-2030 sectoral action plan, 2026-03-11 |
+| Naneye Yarda municipal tax platform | [Implemented](https://www.lesahel.org/lancement-du-projet-naneye-yarda-renforcer-la-modernisation-et-lefficacite-des-services-publics-municipaux/) | Launched at Niamey, 2025-01-27 |
 
-### Regional collaboration
-
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Algeria and Niger telecommunications cooperation | [Implemented](https://techreviewafrica.com/news/4637/algeria-and-niger-strengthen-cooperation-on-telecommunications-and-digital-development) | Cooperation agreed 2026-03-30 |
-| Identity-system cooperation with Burkina Faso | [Implemented](https://www.journalduniger.com/niger-burkina-cooperation-identite-numerique-biometrie/) | Technical mission received in Ouagadougou 2026-07-30 |
-
-### Standards
+### Rural digital data capture
 
 | System or instrument | Status | Milestone |
 |---|---|---|
-| Mobile quality-of-service thresholds | ***Not held, searched 2026-08-10 - ARCEP's 2021 annual report names decision n000012/ARCEP/CNRCEP/21 and its function but not its threshold values; ARCEP's own site does not surface the 2026 mises en demeure either*** | — |
+| Villages Intelligents rural inclusion programme | [In development](https://www.lesahel.org/projet-de-villages-intelligents-de-lansi-a-tabelot-le-numerique-au-service-de-linclusion-et-du-developpement-local/) | Digital centre opened at Tabelot in Agadez |
 
-### Data protection
+<!-- narrative: digitalisation -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Haute Autorite de Protection des Donnees a caractere Personnel | [Implemented](https://www.lesahel.org/entretien-avec-le-president-de-la-haute-autorite-de-protection-des-donnees-a-caractere-personnel-hapdp/) | Operating under Loi n2022-59 |
-| Loi n2022-59 on personal data protection | [Implemented](https://www.lesahel.org/entretien-avec-le-president-de-la-haute-autorite-de-protection-des-donnees-a-caractere-personnel-hapdp/) | In force since 16 December 2022, replacing Loi 2017-28 |
-| Malabo Convention ratification | [Implemented](https://www.lesahel.org/entretien-avec-le-president-de-la-haute-autorite-de-protection-des-donnees-a-caractere-personnel-hapdp/) | Ratified 23 May 2022 |
-
-### Public debate and participation in policymaking
-
-| System or instrument | Status | Milestone |
-|---|---|---|
-| PNDN 2026-2035 consultation and validation process | [Implemented](https://anp.ne/niger-le-projet-de-document-de-politique-nationale-de-developpement-du-numerique-pndn-2026-2035-en-relecture/) | National validation workshop for the PNDN 2026-2035 and its 2026-2030 sectoral action plan, 2026-03-11 |
-
-### EU activities
-
-| System or instrument | Status | Milestone |
-|---|---|---|
-| EU multiannual indicative programme 2021-2027 | [Discontinued](https://international-partnerships.ec.europa.eu/document/download/10d4ba3f-ee66-426e-8c60-bcd89b09fd11_en?filename=ad-mip-2024-c2024-7502-sub-saharan-africa-annex_en.pdf) | Ended 31 December 2024 under Commission Implementing Decision C(2024)7502 |
-
-### Open data
-
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Multisectoral government and United Nations data platform | [In development](https://www.lesahel.org/renforcement-de-capacites-en-intelligence-artificielle-appliquee-a-la-securite-humaine-le-bureau-de-la-coordination-des-nations-unies-au-niger-perfectionne-les-connaissances-de-140-cadres-des-s/) | In build alongside the Illimi training programme |
-
-<!-- narrative: governance -->
-The data-protection regime is formal and its output is invisible. [Loi n°2022-59 of 16 December 2022 replaced the 2017 statute](https://www.lesahel.org/entretien-avec-le-president-de-la-haute-autorite-de-protection-des-donnees-a-caractere-personnel-hapdp/), the Malabo Convention was ratified in May 2022, and the [High Authority operates under it](https://www.lesahel.org/la-haute-autorite-de-protection-des-donnees-a-caractere-personnel-hapdp) — but no caseload, decision or sanction figure is published, leaving the privacy backstop for biometric enrolment undescribed.
-
-Telecommunications regulation is where enforcement is visible. [Loi 2018-45's prior-authorisation regime](https://www.actuniger.com/societe/21307-niger-larcep-declare-la-guerre-aux-wifi-zones-pirates-utilisant-starlink.html) was invoked in September 2025 against unauthorised resale of satellite connectivity through Wifi Zones, with a 3 October deadline and penalties of three months to a year and fines to 60m FCFA; in [June 2026 formal notices went to all four mobile operators](https://www.lesahel.org/communications-electroniques-larcep-lance-une-campagne-de-controle-de-la-qualite-des-services-offerts-par-les-operateurs-de-telephonie-mobile-et-dinternet/), with fines of 1 to 3% of prior-year turnover, licence suspension or withdrawal in prospect. ARCEP's own 2021 annual report names the underlying [decision n°000012/ARCEP/CNRCEP/21 of 10 December 2021](https://arcep.ne/wp-content/uploads/2024/05/Rapportannuel2021ARCEPNIGER_11.08.2022.pdf) and its function — quality-of-service, coverage and network-control rules — but not the threshold values, which [ARCEP's own site](https://arcep.ne/) still does not surface as of August 2026.
-
-The [national digital-development policy (PNDN 2026-2035), drafted by March 2025](https://www.lesahel.org/entretien-accorde-a-la-rtn-par-le-ministre-de-la-communication-des-postes-et-de-leconomie-numerique-m-sidi-mohamed-raliou-nous-sommes-en-train-de-construire-un-data-center/), went through a redrafting committee installed 2025-07-18 and a [national validation workshop on 2026-03-11 for the policy and its 2026-2030 sectoral action plan](https://www.lesahel.org/atelier-sur-la-politique-nationale-de-developpement-du-numerique-2026-2035-pour-un-document-strategique-refletant-les-aspirations-et-les-priorites-du-niger/), on three axes (governance/security, infrastructure/services, skills/innovation) and targeting a 2035 fibre-hub goal; not yet formally adopted. The ministry called the workshop [the product of broad consultation among digital-sector actors](https://anp.ne/niger-le-projet-de-document-de-politique-nationale-de-developpement-du-numerique-pndn-2026-2035-en-relecture/), though no open public-comment channel is named.
-
-Externally the pattern is neighbour-to-neighbour. Niger [agreed telecommunications cooperation with Algeria in March 2026](https://techreviewafrica.com/news/4637/algeria-and-niger-strengthen-cooperation-on-telecommunications-and-digital-development) and [sent a technical mission to study Burkina Faso's identification stack in July 2026](https://www.journalduniger.com/niger-burkina-cooperation-identite-numerique-biometrie/). Its [EU country programme ended on 31 December 2024](https://international-partnerships.ec.europa.eu/document/download/10d4ba3f-ee66-426e-8c60-bcd89b09fd11_en?filename=ad-mip-2024-c2024-7502-sub-saharan-africa-annex_en.pdf), replaced by a EUR 238m complex-settings envelope held inside the regional programme.
 <!-- /narrative -->
 
-## Artificial intelligence and the technology sector
+## Technology
 
 ### AI
 
@@ -249,19 +249,7 @@ Externally the pattern is neighbour-to-neighbour. Niger [agreed telecommunicatio
 | Startup ecosystem support | [In development](https://www.lesahel.org/agence-nationale-pour-la-societe-de-linformation-startups-nigeriennes-le-numerique-au-service-dune-economie-plus-resiliente/) | Qwiper, E-Mobility Niger, CodeLoccol and Maria Server named by the digital agency |
 | University innovation hub at Diffa | [Planned](https://anp.ne/diffa-luniversite-se-dote-dun-unipod-pour-stimuler-linnovation-et-lagripreneuriat-des-jeunes/) | Project document validation workshop opened 2026-08-20 |
 
-### China activities
-
-| System or instrument | Status | Milestone |
-|---|---|---|
-| China-Niger digital cooperation | [Implemented](https://itweb.africa/article/huawei-approached-to-deepen-china-niger-digital-ties/kLgB17ez2mzM59N4) | China's newly arrived ambassador met Huawei's VP, 2025-09-08 |
-
-### Gulf/UAE activities
-
-| System or instrument | Status | Milestone |
-|---|---|---|
-| e& Partner2Connect commitment | [Implemented](https://www.thenationalnews.com/future/technology/2024/03/01/uaes-e-commits-6bn-to-advance-technology-infrastructure-in-16-countries/) | Pledged at Mobile World Congress Barcelona, 2024-03-01 |
-
-<!-- narrative: ai-tech -->
+<!-- narrative: technology -->
 Niger's artificial-intelligence position is one training programme. The United Nations coordination office [trained 140 cadres in AI applied to human security](https://www.lesahel.org/renforcement-de-capacites-en-intelligence-artificielle-appliquee-a-la-securite-humaine-le-bureau-de-la-coordination-des-nations-unies-au-niger-perfectionne-les-connaissances-de-140-cadres-des-s/) with the statistics institute, the digital agency and the interior ministry, and a multisectoral government and UN data platform is in build behind it. No national AI strategy or instrument is held.
 
 The technology sector is a short list the digital agency names — [Qwiper, E-Mobility Niger, CodeLoccol and Maria Server](https://www.lesahel.org/agence-nationale-pour-la-societe-de-linformation-startups-nigeriennes-le-numerique-au-service-dune-economie-plus-resiliente/) — with no funding or company count published. The one substantial industrial relationship is the supply of national identity documents, [contracted to a Libyan firm under two memoranda of June 2025](https://www.lesahel.org/signature-de-deux-memorandums-dentente-entre-le-gouvernement-nigerien-et-la-societe-libyenne-al-itissal-al-jadeed-vers-une-numerisation-des-passeports-et-de-la-carte-didentite) and cast by officials as technological independence.
@@ -269,13 +257,7 @@ The technology sector is a short list the digital agency names — [Qwiper, E-Mo
 Two external relationships are now on record. Huawei — present in Niger since 1998 — [met the country's newly arrived Chinese ambassador in September 2025 to discuss deepening digital cooperation](https://itweb.africa/article/huawei-approached-to-deepen-china-niger-digital-ties/kLgB17ez2mzM59N4); the relationship's only recorded financing is [a 2014-2017 China Eximbank backbone loan](https://china.aiddata.org/projects/58683/). On the Gulf side, [UAE operator e& pledged US$6bn (2024-2026) to the ITU's Partner2Connect coalition across 16 markets including Niger](https://www.thenationalnews.com/future/technology/2024/03/01/uaes-e-commits-6bn-to-advance-technology-infrastructure-in-16-countries/), undivided by country.
 <!-- /narrative -->
 
-## Inclusion and capacity
-
-### Access to services
-
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Guidan Fasaha community digital centre | [Implemented](https://www.actuniger.com/societe/22196-tahoua-le-pam-inaugure-gidan-fasaha-un-espace-communautaire-pour-faire-du-numerique-un-nouveau-levier-de-resilience-dinnovation-et-dinclusion.html) | Inaugurated at Tahoua 2026-07-15 |
+## Capacity
 
 ### Training and skills
 
@@ -283,6 +265,18 @@ Two external relationships are now on record. Huawei — present in Niger since 
 |---|---|---|
 | AfricaCERT Handshake symposium | [Implemented](https://www.lesahel.org/13e-edition-du-symposium-africacert-handshake-2025-le-niger-au-coeur-de-la-strategie-numerique-africaine/) | 13th edition hosted at Niamey July 2025 |
 | Niger Digital Day skills caravan | [Implemented](https://anp.ne/maradi-la-caravane-niger-digital-day-lancee-pour-renforcer-les-competences-numeriques-des-jeunes/) | Maradi stage opened 2026-08-18 |
+
+<!-- narrative: capacity -->
+
+<!-- /narrative -->
+
+## Inclusion
+
+### Access to services
+
+| System or instrument | Status | Milestone |
+|---|---|---|
+| Guidan Fasaha community digital centre | [Implemented](https://www.actuniger.com/societe/22196-tahoua-le-pam-inaugure-gidan-fasaha-un-espace-communautaire-pour-faire-du-numerique-un-nouveau-levier-de-resilience-dinnovation-et-dinclusion.html) | Inaugurated at Tahoua 2026-07-15 |
 
 <!-- narrative: inclusion -->
 Inclusion runs through community infrastructure. The World Food Programme [opened a second community digital centre at Tahoua in July 2026](https://www.actuniger.com/societe/22196-tahoua-le-pam-inaugure-gidan-fasaha-un-espace-communautaire-pour-faire-du-numerique-un-nouveau-levier-de-resilience-dinnovation-et-dinclusion.html), with 100 computers and 50 kW of solar power, after one at Diffa.
@@ -292,22 +286,52 @@ Capacity-building follows the same route: Niger [hosted the 13th AfricaCERT Hand
 Against the enrolment programme, an [analyst warns of privacy breaches, state surveillance and systemic exclusion](https://www.connectingafrica.com/regulation/niger-s-rollout-of-biometric-ids-gets-a-thumbs-up), with rural communities, migrants and those without foundational identity most exposed.
 <!-- /narrative -->
 
-## Finance
+## Data
 
-### New investments
-
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Luxembourg-supported Sahel connectivity programme | [Implemented](https://itweb.africa/article/ericsson-luxembourg-sweden-support-boosts-sahel-digital-connectivity/Pero3MZ3ozJqQb6m) | Ericsson and Sweden joined the support package 2026-06-15 |
-
-### Domestic budget appropriations and expenditure
+### National statistics
 
 | System or instrument | Status | Milestone |
 |---|---|---|
-| Public budget allocation to digital government | ***Not held*** | — |
+| Fifth general population and housing census | [In development](https://www.lesahel.org/diffa-les-chefs-traditionnels-en-formation-pour-une-sensibilisation-sur-le-5e-rgph/) | Traditional chiefs trained as mobilisers in Diffa 2026-07-29 |
 
-<!-- narrative: finance -->
-Donor commitments are what financing this report can state. Luxembourg [pledged support to close the Sahel's digital gap in January 2025](https://itweb.africa/article/luxembourg-pledges-to-reduce-sahels-digital-gap/KWEBbvyLJjxqmRjO), and the package [widened to Ericsson and Sweden in June 2026](https://itweb.africa/article/ericsson-luxembourg-sweden-support-boosts-sahel-digital-connectivity/Pero3MZ3ozJqQb6m), with no commitment total published. No public budget appropriation for digital government is held.
+### Open data
+
+| System or instrument | Status | Milestone |
+|---|---|---|
+| Multisectoral government and United Nations data platform | [In development](https://www.lesahel.org/renforcement-de-capacites-en-intelligence-artificielle-appliquee-a-la-securite-humaine-le-bureau-de-la-coordination-des-nations-unies-au-niger-perfectionne-les-connaissances-de-140-cadres-des-s/) | In build alongside the Illimi training programme |
+
+### Use of satellite data
+
+| System or instrument | Status | Milestone |
+|---|---|---|
+| IGNN remote-sensing unit | [Implemented](https://ignn.net/la-teledetection-et-technique-spacialestts.html) | Described on IGNN's own site, retrieved 2026-08-10; no founding date published |
+
+<!-- narrative: data -->
+
+<!-- /narrative -->
+
+## Geopolitics
+
+### China activities
+
+| System or instrument | Status | Milestone |
+|---|---|---|
+| China-Niger digital cooperation | [Implemented](https://itweb.africa/article/huawei-approached-to-deepen-china-niger-digital-ties/kLgB17ez2mzM59N4) | China's newly arrived ambassador met Huawei's VP, 2025-09-08 |
+
+### EU activities
+
+| System or instrument | Status | Milestone |
+|---|---|---|
+| EU multiannual indicative programme 2021-2027 | [Discontinued](https://international-partnerships.ec.europa.eu/document/download/10d4ba3f-ee66-426e-8c60-bcd89b09fd11_en?filename=ad-mip-2024-c2024-7502-sub-saharan-africa-annex_en.pdf) | Ended 31 December 2024 under Commission Implementing Decision C(2024)7502 |
+
+### Gulf/UAE activities
+
+| System or instrument | Status | Milestone |
+|---|---|---|
+| e& Partner2Connect commitment | [Implemented](https://www.thenationalnews.com/future/technology/2024/03/01/uaes-e-commits-6bn-to-advance-technology-infrastructure-in-16-countries/) | Pledged at Mobile World Congress Barcelona, 2024-03-01 |
+
+<!-- narrative: geopolitics -->
+
 <!-- /narrative -->
 
 ## Gaps to fill

@@ -1,20 +1,18 @@
 ---
-title: Cote d'Ivoire — progress report, 2025-08-01 to 2026-08-24
-compiled: 2026-08-24
-period: 2025-08-01 to 2026-08-24
+title: Cote d'Ivoire — progress report, August 2025 – August 2026
+compiled: 2026-08-25
+period: 2025-08-01 to 2026-08-25
 place: CIV
 ledger_rows: 145
 not_held: 10
-record: a7cd0e31ded8
+record: 09337aa47a4e
 ---
 
-# Cote d'Ivoire: progress report, 2025-08-01 to 2026-08-24
+# Cote d'Ivoire: progress report, August 2025 – August 2026
 
-*Compiled 2026-08-24 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
+*Of 145 systems and instruments on this place's ledger, 74 changed position between 2025-08-01 and 2026-08-25, 24 did not, 37 carry no stated baseline, and 10 are ***Not held*** at both ends.*
 
-*Of 145 systems and instruments on this place's ledger, 74 changed position between 2025-08-01 and 2026-08-24, 24 did not, 37 carry no stated baseline, and 10 are ***Not held*** at both ends.*
-
-*Shape check, run before the comparison: 277 sources for this place in the window — 87 in the earlier half (2025-08 to 2026-01), 190 in the later (2026-02 to 2026-08). The two halves are comparable, so the comparison is made over the whole window.*
+*Shape check, run before the comparison: 295 sources for this place in the window — 92 in the earlier half (2025-08 to 2026-01), 203 in the later (2026-02 to 2026-08). The two halves are comparable, so the comparison is made over the whole window.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -24,11 +22,95 @@ record: a7cd0e31ded8
 Over the twelve months Côte d'Ivoire moved from a legislative story to an operating one. At the window's opening the 2013 statutes were in force, the cyber mandate had just transferred from the telecommunications regulator to a new agency, and the artificial-intelligence and data-governance strategies had been handed to the Prime Minister and were sitting unadopted. A year on, a compliance platform is live, a national root of trust is in service, auditors are being certified, the interoperability platform is populating against numeric targets, and a new six-year regulatory council is seated. What did not move is the statutory layer itself, and what went backwards is publication.
 <!-- /narrative -->
 
-## Infrastructure
+## Governance
+
+### Strategies, plans and policies
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| Information system master plan of the economy ministry | Did not exist | [Adopted at FCFA 10.156bn across six programmes and 44 projects, after a diagnostic found weak IT governance, non-interconnected platforms, ageing infrastructure and insufficient security](https://www.wearetech.africa/en/fils-uk/news/tech/ivorian-economy-ministry-sets-2026-2030-roadmap-for-it-modernization) | Advanced |
+| National Cybersecurity Strategy 2021-2025 | In force, adopted December 2021 | [Expired and evaluated, and still the text formally in force because no successor has been adopted](https://www.aip.ci/cote-divoire-aip-cybersecurite-lanssi-prepare-une-nouvelle-strategie-nationale-face-a-la-montee-des-menaces-numeriques/) | Closed |
+| National Cybersecurity Strategy 2026-2030 | Did not exist | [Draft held as a PDF on five axes, extending scope to artificial intelligence, emerging technologies and cloud and adding results-based monitoring](https://www.aip.ci/cote-divoire-aip-cybersecurite-lanssi-prepare-une-nouvelle-strategie-nationale-face-a-la-montee-des-menaces-numeriques/) | Advanced |
+| ANSUT strategic plan 2026-2030 | Baseline not held | [Built on four pillars — universal connectivity, digital services and financial inclusion, digital usage and literacy, and operational excellence — across ten projects, four of them funded at FCFA 60.144bn through the national development plan and six from the agency’s own funds; the stated targets are 300 newly connected localities, smartphone penetration of 80% by 2028 against 40% now, and more than 15,000 km of new fibre by 2028, against a starting point of 70% of rural households with no internet access](https://digitalmag.ci/parlons-projet-gilles-thierry-beugre-devoile-le-plan-strategique-2026-2030-de-lansut/) | ***Baseline not held*** |
+
+### Legislation and regulation
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| National cyber-security agency | Agency launched and consolidating the cybercrime unit, the national computer emergency team and the alert line | [Operating agency running a national security operations centre, a public-administration security-officer network, the national public key infrastructure and auditor certification against the state security reference framework](https://www.aip.ci/cote-divoire-aip-lanssi-veut-former-1200-experts-certifies-en-trois-ans/) | Advanced |
+| Procedure for handling consumer complaints on electronic communications | Not held | [Validated at a two-day workshop with operators, internet service providers and consumer associations and now going to the regulator's regulatory council for adoption, implementing the 2024 electronic communications law](https://www.fratmat.info/article/2643946/economie/protection-des-consommateurs-lartci-harmonise-la-procedure-de-traitement-des-plaintes) | Advanced |
+| Regulatory Council of the telecoms authority | Outgoing council, whose mandate took more than a thousand sector decisions | [New six-year council installed, with a roadmap of priorities handed to the minister](https://www.linfodrome.com/societe/121291-artci-les-nouveaux-regulateurs-de-l-autorite-de-regulation-des-tic-de-cote-d-ivoire-officiellement-installes) | Advanced |
+| Loi n 2013-546 on electronic transactions | In force with article 50 repealed | [In force; its 2014 and 2016 implementing decrees on cryptology, electronic signature and digital archiving are the stated legal basis of the national public key infrastructure](https://fr.apanews.net/technologies/rci-lanssi-lance-la-pki-pour-une-souverainete-numerique/) | No change |
+| Ordonnance n 2024-950 transferring the cyber mandate | Ratified, moving network security, audit, certification and electronic-certificate issuance from the telecoms regulator to the cyber agency | [Unchanged in law; the transferred certificate mandate is now exercised through the national public key infrastructure](https://techreviewafrica.com/news/2427/ivory-coast-senate-unanimously-approves-cybersecurity-and-e-government-bill) | No change |
+| Loi n 2024-352 on electronic communications | ***Baseline not held*** | [In force, with 2025 operator compliance action plans evaluated, licence terms under revision and a common conformity framework being defined](https://www.linfodrome.com/economie/120778-regulation-numerique-l-artci-et-les-operateurs-renforcent-le-cadre-de-conformite-en-cote-d-ivoire) | ***Baseline not held*** |
+
+### Data protection
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| Register of data-protection officers | Did not exist | [Created and named by the minister alongside simplified norms as one of the country's data-protection advances](https://www.fratmat.info/article/2642003/economie/protection-des-donnees-personnelles-djibril-ouattara-presente-les-progres-realises-par-la-cote-divoire) | Advanced |
+| Loi n 2013-450 on personal data protection | In force, with the telecoms regulator designated the data-protection authority | [In force and unamended, with the regulator confirmed as the authority after the cyber agency's creation; no separable data-protection appropriation exists](https://www.autoritedeprotection.ci/artci/) | No change |
+| Compliance and authorisation caseload | ***Baseline not held*** | [About 100 physical data-protection compliance files handled per month immediately before the platform went live](https://www.fratmat.info/article/2642985/economie/ntic/protection-des-donnees-a-caractere-personnel-certinum-entre-en-service-pour-accelerer-la-conformite-numerique-en-cote-divoire) | ***Baseline not held*** |
+
+### Standards
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| State security reference framework auditor certification | ***Baseline not held*** | [Auditor certification running, with 88 certified and a further certification announced for experts bringing information systems into conformity](https://www.aip.ci/cote-divoire-aip-lanssi-veut-former-1200-experts-certifies-en-trois-ans/) | ***Baseline not held*** |
+
+### Public debate and participation in policymaking
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| Consumer grievance platform | Did not exist | [Live application and web platform at FCFA 150 per report, with eight stages from filing through mediation to published reports and sectoral dashboards](https://news.abidjan.net/articles/748737/cote-divoire-lunion-federale-des-consommateurs-lance-my-signal-une-plateforme-numerique-pour-renforcer-la-protection-des-consommateurs) | Advanced |
+| Online gendered violence against election candidates | Baseline not held | [Documented as cyclical across successive elections in a two-country civil-society study, with no state measurement held against it](https://pollicy.org/resource/the-cost-of-candidacy-cyclical-online-gendered-violence-across-elections-in-tanzania-and-cote-divoire/) | ***Baseline not held*** |
+
+<!-- narrative: governance -->
+The regulatory institutions moved and the statutes did not. A new six-year regulatory council took office in May 2026; the cyber agency consolidated a cybercrime unit, an emergency response team and an alert line into an operating apparatus; a register of data-protection officers was created; and a compliance platform replaced paper. Across the same year, the 2013 data-protection law and the 2013 electronic-transactions law were not amended, and the base is no closer to holding their texts or their decrees than it was a year ago.
+
+The clearest regression is in publication. The regulator's statutory annual activity report has now been absent for 2024 as well as 2023, and [the levy that funds it was cut 43.8% to FCFA 2.58bn for 2026](https://www.dgbf.ci/wp-content/uploads/2025/12/Loi-de-Finances-2026.pdf). A regulator that acquired new tooling and new leadership this year still has no published account of what its levy buys.
+
+The cyber-security strategy is in the unusual position of having advanced backwards on paper: the 2021 to 2025 text is expired but still the one in force, because the successor drafted in July 2026 has not reached the Council of Ministers. And there is still no Ivorian artificial-intelligence statute, bill or implementing decree of any kind — governance runs entirely through non-binding strategy instruments.
+<!-- /narrative -->
+
+## Finance
+
+### Domestic budget appropriations and expenditure
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| Digital ministry appropriation | FCFA 60,780,440,826 voted for FY2025, no outturn | [FCFA 83,275,503,595 voted for FY2026, up 37%, no outturn](https://www.dgbf.ci/wp-content/uploads/2025/12/Loi-de-Finances-2026.pdf) | Advanced |
+| FY2024 digital budget execution | None published, the settlement law not yet voted | [FCFA 69,673,862,396 voted, FCFA 54,129,746,061 revised and FCFA 54,052,436,801 spent, 77.6% against the vote and 99.9% against the revision](https://www.dgbf.ci/wp-content/uploads/2024/03/Loi-de-Finances-Portant-Budget-de-lEtat-pour-lannee-2024.pdf) | Advanced |
+| Levy share of the digital ministry vote | 65.6% of the ministry's section was earmarked operator levy in FY2025 | [42.7% for FY2026, as the ministry's own programme rises from FCFA 19.03bn to 45.99bn while both levy programmes shrink](https://www.dgbf.ci/wp-content/uploads/2025/12/Loi-de-Finances-2026.pdf) | Regressed |
+| Telecoms regulation levy programme | FCFA 4,590,000,000 appropriated for FY2025 | [FCFA 2,580,000,000 appropriated for FY2026, down 43.8%](https://www.dgbf.ci/wp-content/uploads/2025/12/Loi-de-Finances-2026.pdf) | Regressed |
+| Universal service levy programme | FCFA 35,300,000,000 appropriated for FY2025, no outturn published | [FCFA 33,000,000,000 appropriated for FY2026, the programme renamed, still no outturn](https://www.dgbf.ci/wp-content/uploads/2025/12/Loi-de-Finances-2026.pdf) | Regressed |
+| Whole-of-government digital appropriation | FCFA 82,227,745,121 across 20 lines for FY2025, no outturn | [FCFA 104,342,019,358 across 20 lines for FY2026](https://www.dgbf.ci/wp-content/uploads/2025/12/Loi-de-Finances-2026.pdf) | Advanced |
+
+### MoUs and other agreements
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| Five-year telecommunications and digital-infrastructure memorandum with an Indian technology company | Did not exist | [A five-year memorandum of agreement between an Indian technology company, a continental investment council and an Ivorian mobile operator to develop telecommunications and digital public infrastructure across the continent, dated 2026-08-07 and fully executed on 2026-08-19 per a regulatory filing. It covers national fibre backbones, 4G and 5G, submarine cable landing stations, internet exchange points, telecom towers, and digital identity, national interoperability, e-government and digital payment platforms. No financial commitment is disclosed](https://enterpriseai.economictimes.indiatimes.com/news/industry/blue-cloud-softech-signs-5-year-africa-pact-for-telecom-digital-infrastructure-projects/133366356) | ***Baseline not held*** |
+
+### New investments
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| Non-state digital finance stock | ***Baseline not held*** | [US$1.29bn across 24 deals from 2018 to 2026](https://techafricanews.com/2026/07/17/us-expands-cote-divoire-tech-footprint-with-starlink-approval-and-170m-data-centre-project/) | Advanced |
+| World Bank inclusive digitalisation programme | Procurement plan covering September 2023 to December 2024 across four components, with no financing agreement concluded | [Phase 1 financed by an IDA credit of FCFA 84,356,070,200 (EUR 128.6m) concluded 2025-10-17 and ratified 2026-02-04, inside a US$330m multiphase envelope running to 2035; Phase 1 is fenced to Abidjan, Yamoussoukro and twelve regions, and allocates US$45m to broadband for public institutions and US$50m to legal and institutional foundations](https://www.bilan.gouv.ci/actualite/19406) | Advanced |
+| Cybastion digital infrastructure programme | Not held | [The government has authorised a United States technology firm to carry out a set of projects strengthening national digital infrastructure, the whole estimated at US$170m, about FCFA 95bn](https://techs.tg/2026/08/10/cote-divoire-170-millions-us-pour-booster-la-strategie-numerique/) | ***Baseline not held*** |
+
+<!-- narrative: finance -->
+The single largest change here is not a programme but a load: the domestic fiscal layer arrived in the wiki during the window and now carries 61 budget line-years across three years. That produces the one finding no press account gives — [2024 delivery against the vote was 77.6%, not the near-perfect 99.9% the in-year revision suggests](https://www.dgbf.ci/wp-content/uploads/2024/03/Loi-de-Finances-Portant-Budget-de-lEtat-pour-lannee-2024.pdf), because the earmarked levy programme was written down by FCFA 8.79bn and then spent to the franc.
+
+The levies that fund rural coverage shrank across the same period, from FCFA 35.3bn to FCFA 33.0bn, with the only outturn on file [showing a 24.3% shortfall in 2024](https://digitalmag.ci/services-universels-telecoms-un-fonds-special-pour-reduire-la-fracture-numerique-en-afrique/).
+<!-- /narrative -->
+
+## ICT Infrastructure
 
 ### Connectivity
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | 5G commercial launch | Spectrum re-planned and financial terms settled after a missed 2023 target, with the regulator calling deployment imminent | [Announced for July 2026 in towns above 25,000 inhabitants with all operators said to be equipped; no launch, spectrum award terms or coverage obligation on file](https://techafricanews.com/2026/06/15/cote-divoire-accelerates-digital-push-with-starlink-licence-and-5g-launch/) | Stalled |
 | Deployed optical fibre | 30,303 km deployed nationally | [About 38,000 km, with connectivity reaching nearly one million homes; the state broadband backbone accounts for over 6,600 km](https://techreviewafrica.com/news/6286/cote-divoire-positions-digital-technology-as-key-driver-of-economic-transformation) | Advanced |
@@ -47,7 +129,7 @@ Over the twelve months Côte d'Ivoire moved from a legislative story to an opera
 
 ### Data Storage
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | GPU Cloud Africa | Announced February 2025 as the first sovereign GPU AI hosting platform in Abidjan and Douala, service from the second quarter of 2025 | [No launch, capacity, pricing or customer on file as at 2026-08-05](https://itweb.africa/content/mYZRXv9g4nEMOgA8) | Stalled |
 | National Data Centre | Sovereign data centre at the core of the digital city project, construction reported begun May 2025, no financing figure held | [US$170m US export-credit-financed project formally authorised, scope now a sovereign national data centre, a government digitisation platform and a smart-border surveillance system; no site, capacity or completion date stated](https://techafricanews.com/2026/07/17/us-expands-cote-divoire-tech-footprint-with-starlink-approval-and-170m-data-centre-project/) | Advanced |
@@ -56,24 +138,24 @@ Over the twelve months Côte d'Ivoire moved from a legislative story to an opera
 
 ### Cybersecurity
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Finance-ministry information-system security appropriations | FCFA 3.268bn for modernising and securing the treasury information system and FCFA 791.9m for the budget information system, FY2025 | [FCFA 1.618bn for the treasury system, roughly halved, against FCFA 841.9m for the budget system, FY2026](https://www.dgbf.ci/wp-content/uploads/2025/12/Loi-de-Finances-2026.pdf) | Regressed |
 | National public key infrastructure | The root certification centre was listed as one of the state agency's technical units, with no national root of trust in service | [Sovereign national root at the head of the internationally recognised certificate tree and trust anchor for every certification authority operating in the country, under the 2013 electronic transactions law and its 2014 and 2016 decrees](https://www.aip.ci/cote-divoire-aip-lanssi-met-en-service-linfrastructure-a-cles-publiques-nationale/) | Advanced |
 | Reseau national des RSSI | Did not exist | [Network of public-administration information-systems security officers launched with a roadmap, intended for shared watch, early warning and major-incident coordination; no membership figure, budget or reporting obligation stated](https://www.fratmat.info/article/2642473/economie/lutte-contre-la-cybercriminalite-le-ministre-djibril-ouattara-lance-le-reseau-national-des-rssi) | Advanced |
 | 3R Technologie security operations centre | ***Baseline not held*** | [Commercial monitoring centre presented as the first AI-integrated security operations centre in the country; no customer count, coverage or pricing stated](https://www.fratmat.info/article/2642034/societe/cybersecurite-en-cote-divoire-un-centre-intelligent-pour-traquer-les-cybermenaces-en-temps-reel) | ***Baseline not held*** |
 
-<!-- narrative: infrastructure -->
+<!-- narrative: ict-infrastructure -->
 Three positions changed band. Satellite went from nothing to a contested four-way market — two geostationary services in January and April 2026, a low-orbit operator live in July, and a state route through regional capacity opened on 1 August — turning a coverage problem into an appropriation choice. Cyber-security moved from an agency that had only just opened its doors to a working apparatus: a national root of trust in service, a public-administration security-officer network launched, a certified auditor cohort and two master's curricula validated. And data centres moved from two private facilities and an unfunded national project to a [US$170m authorised package whose scope now includes border surveillance](https://techafricanews.com/2026/07/17/us-expands-cote-divoire-tech-footprint-with-starlink-approval-and-170m-data-centre-project/).
 
 Everything else accreted detail on positions already held. The rural programme delivered 500 of a stated 575 localities and kept going, the fibre count rose from 30,303 km [to about 38,000](https://techreviewafrica.com/news/6286/cote-divoire-positions-digital-technology-as-key-driver-of-economic-transformation), and 5G collected a second missed launch date. The strategy that authorises the cyber apparatus expired during the window and its successor is still a draft, so the framework in force is a text whose term has run out.
 <!-- /narrative -->
 
-## Digital public infrastructure
+## DPI
 
 ### Data Exchange
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | e-Administration bank-loan interconnection | Did not exist | [Interconnection under development between the civil-service ministry's information systems and Ivorian banks, through the banking association APBEF-CI, to transfer loan-application supporting documents electronically with electronic-signature authentication in place of paper attestations; scoped to 314,310 civil servants and state agents; builds on SIGFAE, the civil-service management system; no go-live date, cost or contracting party stated](https://connectionivoirienne.net/2026/07/31/fonction-publique-vers-la-fin-des-longues-demarches-pour-obtenir-un-pret-bancaire-en-cote-divoire/) | Advanced |
 | Returning-migrant profiling tool | Did not exist; fourteen migration bodies collecting separately | [Single collection and profiling instrument being co-designed, with a roadmap for transferring the fourteen bodies' data into one directorate](https://www.aip.ci/cote-divoire-aip-des-acteurs-des-dispositifs-migratoires-plaident-pour-une-gouvernance-fondee-sur-des-donnees-fiables/) | Advanced |
@@ -87,7 +169,7 @@ Everything else accreted detail on positions already held. The rural programme d
 
 ### Digital Identity and CRVS
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Digital post box | Did not exist | [Compulsory for all individuals and businesses with postal addresses and tied to the identification number, at annual fees from FCFA 2,000 for an individual to 50,000 for a large business](https://www.biometricupdate.com/202601/cote-divoire-digitizes-postal-services-with-mobile-app-launch) | Advanced |
 | MaPoste application | Did not exist | [Register-backed application for mail and parcel management, identity-card, birth-certificate and criminal-record applications, with card delivery through more than 200 post offices](https://www.biometricupdate.com/202601/cote-divoire-digitizes-postal-services-with-mobile-app-launch) | Advanced |
@@ -99,7 +181,7 @@ Everything else accreted detail on positions already held. The rural programme d
 
 ### Digital Payments and Fintech
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Cross-network mobile-money transfer app | Did not exist | [Private app moving funds directly between mobile-money networks, live in six West African countries with instant cross-border transfers](https://www.wearetech.africa/fr/fils/tech-stars/avec-simocash-l-ivoirien-wilfried-kouame-interconnecte-les-reseaux-d-argent-mobile) | Advanced |
 | Fourth electronic-money licence | Three licensed electronic-money institutions | [Four, with a locally built wallet issued by the new licensee](https://www.fratmat.info/article/2637099/economie/inclusion-financieremonnaie-electronique-la-cote-divoire-enregistre-un-4e-etablissement) | Advanced |
@@ -110,24 +192,24 @@ Everything else accreted detail on positions already held. The rural programme d
 | Treasury payments platform | In operation for public-expenditure and government-to-person flows, with the expenditure module under optimisation | [Extended toward local authorities, with 75 collectivities and 4,500 distributors claimed](https://www.fratmat.info/article/2640916/societe/collectivites-territoriales-clotchor-secongo-developpe-un-systeme-pour-digitaliser-les-services) | Advanced |
 | Yango and AFG Holding financial-services agreement | Did not exist | [Signed intention between the ride-hailing platform's Ivorian arm and a fifteen-market banking group, with insurance as the first phase and fleet financing and further digital financial services named as later tracks, and Cote d'Ivoire stated by both parties as the pilot market before replication elsewhere](https://www.fratmat.info/article/2643704/economie/innovation-financiere-la-cote-divoire-choisie-pour-experimenter-de-nouveaux-services-financiers-numeriques) | Advanced |
 
-### Registries (population, land, address, etc.)
+### Registries
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Civil-registry software rollout | Partial rollout, with the interior ministry calling for deployment to be accelerated | [Installed with hardware in every municipal and sub-prefecture civil-status centre for digital recording of births, marriages and deaths, financed by the European Union; the national civil-status system now covers 699 centres and has digitised more than four million records, and on 11 August 2026 the identification office handed 283 digital birth-registration terminals to health workers in the Tonkpi region to link maternities directly to civil-registry offices under a zero-invisible-child programme](https://www.koaci.com/index.php/article/2026/08/12/cote-divoire/societe/cote-divoire-operation-zero-enfant-invisible-loneci-deploie-283-terminaux-numeriques-dans-le-tonkpi-pour-garantir-lidentite-des-la-naissance_199500.html) | Advanced |
 | Digital birth-registration terminals | Did not exist | [Terminals for systematic birth registration in service, on which a parent's national identity card populates the child's identity data directly, presented by the civil-registry office at the ninth African civil registration day](https://www.oneci.ci/actualites/1786857181) | Advanced |
 | e-mining cadastre portal | Did not exist | [Full mining-title cycle online, hosted on secure cloud, with more than 200 mining officials trained](https://www.wearetech.africa/en/fils-uk/news/tech/cote-d-ivoire-launches-e-mining-portal-to-improve-transparency-and-investment) | Advanced |
 | On-time birth registration rate | 55.4% for 2024, against 56.6% in 2023 and 66.8% in 2021 | [The same figure, still the latest published](https://www.fratmat.info/article/2635039/economie/annuaire-statistique-detat-civil-de-lannee-2024-le-taux-denregistrement-des-naissances-dans-les-delais-en-nette-regression) | No change |
 
-### Sectoral management information systems (HMIS, EMIS, etc.)
+### Sectoral management information systems
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Transport data platform | Did not exist | [Collects and analyses road, port, airport and rail flow data, with corridor and checkpoint mapping and decision dashboards](https://www.fratmat.info/article/2641293/economie/fluidite-des-transports-une-nouvelle-plateforme-pour-accompagner-les-acteurs) | Advanced |
 
 ### Other GovTech and e-Gov
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | CERTINUM data-protection compliance platform | Did not exist; compliance and authorisation files handled on paper at about a hundred a month | [Live, with online submission, real-time tracking and traceability for personal-data conformity, processing authorisations and video-surveillance authorisations; the regulator is running a sector-by-sector rollout, having covered banking and financial institutions and then presented the platform to insurers at their association's headquarters, and its communique of 3 August directs all data controllers, data-protection correspondents and advisory firms onto it](https://www.techreviewafrica.com/news/6794/artci-introduces-certinum-platform-to-cote-divoires-insurance-sector) | Advanced |
 | e-Justice platform | Ten first-instance tribunals connected | [All 39 first-instance tribunals connected, with nationality certificates and criminal-record extracts issued nationwide](https://www.fratmat.info/article/2642911/societe/e-justice-les-39-tribunaux-de-premiere-instance-desormais-connectes-au-reseau-numerique-ivoirien) | Advanced |
@@ -137,12 +219,6 @@ Everything else accreted detail on positions already held. The rural programme d
 | Government website reference template | ***Baseline not held*** | [Reference model for institutional websites developed by the government information and communication centre with technical support from the national development-informatics company, available in six languages and imposing a common graphic, technical and editorial frame on public sites; no adoption instrument, compliance obligation or count of sites using it is stated](https://news.abidjan.net/articles/748740/communication-numerique-des-directeurs-de-services-informatiques-et-de-communication-issus-dinstitutions-et-ministeres-outilles-aux-techniques-de-securisation-des-sites-web-institutionnels) | ***Baseline not held*** |
 | Ivoire GovTech Lab | Not held | [Launched on 29 July 2026 to publish government digitalisation projects for direct bidding by start-ups and small firms, alongside applications opening for two 30-company digital-sector support programmes and a 2026-2028 ministry roadmap naming artificial-intelligence adoption among seven strategic pillars](https://iafrica.com/cote-divoire-opens-applications-for-30-company-tech-support-programme-as-ai-adoption-becomes-a-ministry-pillar/) | ***Baseline not held*** |
 
-### Use of satellite data
-
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
-|---|---|---|---|
-| Grand Abidjan urban planning geoportal | ***Baseline not held*** | [Under build with Japanese cooperation on three axes including a governance arrangement for managing, sharing and opening the data; the portal itself is not yet built](https://www.fratmat.info/article/2642517/economie/ville-intelligente-le-projet-de-promotion-du-geoportail-du-grand-abidjan-lance) | ***Baseline not held*** |
-
 <!-- narrative: dpi -->
 The identity spine did not move; the disclosure about it did. The register issuing the national identification number carries the same position it carried a year ago, and what changed is that its own director general named the coverage shortfall and the historic duplicate identities inside it. On-time birth registration, the pipeline feeding that register, remains at [its 2024 reading of 55.4%, down from 66.8% in 2021](https://www.fratmat.info/article/2635039/economie/annuaire-statistique-detat-civil-de-lannee-2024-le-taux-denregistrement-des-naissances-dans-les-delais-en-nette-regression), because no 2025 yearbook has been published.
 
@@ -151,68 +227,11 @@ Two things genuinely changed band. The exchange layer went from a twenty-month b
 The service layer filled in around them: an identity-backed postal application and a compulsory digital post box in the first quarter of 2026, a government assistant in March, a compliance platform in July, and an e-mining cadastre and a transport data platform in between. Payments inverted: a year ago the movement was licensing and state-fund equity, and the two hardest-edged facts now are a regional interoperability mandate binding Ivorian rails from 30 June 2026 and an unauthorised flat surcharge sitting on every counter transaction that no institution owns.
 <!-- /narrative -->
 
-## Governance and regulation
-
-### Legislation and regulation
-
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
-|---|---|---|---|
-| National cyber-security agency | Agency launched and consolidating the cybercrime unit, the national computer emergency team and the alert line | [Operating agency running a national security operations centre, a public-administration security-officer network, the national public key infrastructure and auditor certification against the state security reference framework](https://www.aip.ci/cote-divoire-aip-lanssi-veut-former-1200-experts-certifies-en-trois-ans/) | Advanced |
-| Procedure for handling consumer complaints on electronic communications | Not held | [Validated at a two-day workshop with operators, internet service providers and consumer associations and now going to the regulator's regulatory council for adoption, implementing the 2024 electronic communications law](https://www.fratmat.info/article/2643946/economie/protection-des-consommateurs-lartci-harmonise-la-procedure-de-traitement-des-plaintes) | Advanced |
-| Regulatory Council of the telecoms authority | Outgoing council, whose mandate took more than a thousand sector decisions | [New six-year council installed, with a roadmap of priorities handed to the minister](https://www.linfodrome.com/societe/121291-artci-les-nouveaux-regulateurs-de-l-autorite-de-regulation-des-tic-de-cote-d-ivoire-officiellement-installes) | Advanced |
-| Loi n 2013-546 on electronic transactions | In force with article 50 repealed | [In force; its 2014 and 2016 implementing decrees on cryptology, electronic signature and digital archiving are the stated legal basis of the national public key infrastructure](https://fr.apanews.net/technologies/rci-lanssi-lance-la-pki-pour-une-souverainete-numerique/) | No change |
-| Ordonnance n 2024-950 transferring the cyber mandate | Ratified, moving network security, audit, certification and electronic-certificate issuance from the telecoms regulator to the cyber agency | [Unchanged in law; the transferred certificate mandate is now exercised through the national public key infrastructure](https://techreviewafrica.com/news/2427/ivory-coast-senate-unanimously-approves-cybersecurity-and-e-government-bill) | No change |
-| Loi n 2024-352 on electronic communications | ***Baseline not held*** | [In force, with 2025 operator compliance action plans evaluated, licence terms under revision and a common conformity framework being defined](https://www.linfodrome.com/economie/120778-regulation-numerique-l-artci-et-les-operateurs-renforcent-le-cadre-de-conformite-en-cote-d-ivoire) | ***Baseline not held*** |
-
-### Strategies, plans and policies
-
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
-|---|---|---|---|
-| Information system master plan of the economy ministry | Did not exist | [Adopted at FCFA 10.156bn across six programmes and 44 projects, after a diagnostic found weak IT governance, non-interconnected platforms, ageing infrastructure and insufficient security](https://www.wearetech.africa/en/fils-uk/news/tech/ivorian-economy-ministry-sets-2026-2030-roadmap-for-it-modernization) | Advanced |
-| National Cybersecurity Strategy 2021-2025 | In force, adopted December 2021 | [Expired and evaluated, and still the text formally in force because no successor has been adopted](https://www.aip.ci/cote-divoire-aip-cybersecurite-lanssi-prepare-une-nouvelle-strategie-nationale-face-a-la-montee-des-menaces-numeriques/) | Closed |
-| National Cybersecurity Strategy 2026-2030 | Did not exist | [Draft held as a PDF on five axes, extending scope to artificial intelligence, emerging technologies and cloud and adding results-based monitoring](https://www.aip.ci/cote-divoire-aip-cybersecurite-lanssi-prepare-une-nouvelle-strategie-nationale-face-a-la-montee-des-menaces-numeriques/) | Advanced |
-| ANSUT strategic plan 2026-2030 | Baseline not held | [Built on four pillars — universal connectivity, digital services and financial inclusion, digital usage and literacy, and operational excellence — across ten projects, four of them funded at FCFA 60.144bn through the national development plan and six from the agency’s own funds; the stated targets are 300 newly connected localities, smartphone penetration of 80% by 2028 against 40% now, and more than 15,000 km of new fibre by 2028, against a starting point of 70% of rural households with no internet access](https://digitalmag.ci/parlons-projet-gilles-thierry-beugre-devoile-le-plan-strategique-2026-2030-de-lansut/) | ***Baseline not held*** |
-
-### Standards
-
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
-|---|---|---|---|
-| State security reference framework auditor certification | ***Baseline not held*** | [Auditor certification running, with 88 certified and a further certification announced for experts bringing information systems into conformity](https://www.aip.ci/cote-divoire-aip-lanssi-veut-former-1200-experts-certifies-en-trois-ans/) | ***Baseline not held*** |
-
-### Data protection
-
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
-|---|---|---|---|
-| Register of data-protection officers | Did not exist | [Created and named by the minister alongside simplified norms as one of the country's data-protection advances](https://www.fratmat.info/article/2642003/economie/protection-des-donnees-personnelles-djibril-ouattara-presente-les-progres-realises-par-la-cote-divoire) | Advanced |
-| Loi n 2013-450 on personal data protection | In force, with the telecoms regulator designated the data-protection authority | [In force and unamended, with the regulator confirmed as the authority after the cyber agency's creation; no separable data-protection appropriation exists](https://www.autoritedeprotection.ci/artci/) | No change |
-| Compliance and authorisation caseload | ***Baseline not held*** | [About 100 physical data-protection compliance files handled per month immediately before the platform went live](https://www.fratmat.info/article/2642985/economie/ntic/protection-des-donnees-a-caractere-personnel-certinum-entre-en-service-pour-accelerer-la-conformite-numerique-en-cote-divoire) | ***Baseline not held*** |
-
-### Public debate and participation in policymaking
-
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
-|---|---|---|---|
-| Consumer grievance platform | Did not exist | [Live application and web platform at FCFA 150 per report, with eight stages from filing through mediation to published reports and sectoral dashboards](https://news.abidjan.net/articles/748737/cote-divoire-lunion-federale-des-consommateurs-lance-my-signal-une-plateforme-numerique-pour-renforcer-la-protection-des-consommateurs) | Advanced |
-| Online gendered violence against election candidates | Baseline not held | [Documented as cyclical across successive elections in a two-country civil-society study, with no state measurement held against it](https://pollicy.org/resource/the-cost-of-candidacy-cyclical-online-gendered-violence-across-elections-in-tanzania-and-cote-divoire/) | ***Baseline not held*** |
-
-### Open data
-
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
-|---|---|---|---|
-| Access to public-interest information programme | Presented as the operational refresh of the 2013 access-to-information law: a portal, a conformity audit tool, a helpline, a mobile application and a monitoring barometer | [Unchanged; no later source on file in the year since](https://www.fratmat.info/article/2635603/culture/access-caidp-un-tournant-pour-la-transparence-et-lacces-a-linformation-en-cote-divoire) | No change |
-
-<!-- narrative: governance -->
-The regulatory institutions moved and the statutes did not. A new six-year regulatory council took office in May 2026; the cyber agency consolidated a cybercrime unit, an emergency response team and an alert line into an operating apparatus; a register of data-protection officers was created; and a compliance platform replaced paper. Across the same year, the 2013 data-protection law and the 2013 electronic-transactions law were not amended, and the base is no closer to holding their texts or their decrees than it was a year ago.
-
-The clearest regression is in publication. The regulator's statutory annual activity report has now been absent for 2024 as well as 2023, and [the levy that funds it was cut 43.8% to FCFA 2.58bn for 2026](https://www.dgbf.ci/wp-content/uploads/2025/12/Loi-de-Finances-2026.pdf). A regulator that acquired new tooling and new leadership this year still has no published account of what its levy buys.
-
-The cyber-security strategy is in the unusual position of having advanced backwards on paper: the 2021 to 2025 text is expired but still the one in force, because the successor drafted in July 2026 has not reached the Council of Ministers. And there is still no Ivorian artificial-intelligence statute, bill or implementing decree of any kind — governance runs entirely through non-binding strategy instruments.
-<!-- /narrative -->
-
-## Artificial intelligence and the technology sector
+## Technology
 
 ### AI
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Francophone West African AI governance guidelines | Did not exist | [Common guidelines adopted by six states on transparent and inclusive AI, data protection, algorithmic-bias mitigation and digital sovereignty, complementing rather than replacing national strategies](https://www.wearetech.africa/en/fils-uk/news/tech/six-francophone-west-african-countries-unite-on-ai-governance-framework) | Advanced |
 | National AI Strategy | Handed to the Prime Minister for government adoption, costed at FCFA 912bn with 15 objectives and 109 projects over five years | [Counted among Africa's adopted national AI strategies, with six senior implementation posts advertised from 2026-05-26](https://www.wearetech.africa/en/fils-uk/news/tech/six-francophone-west-african-countries-unite-on-ai-governance-framework) | Advanced |
@@ -227,14 +246,14 @@ The cyber-security strategy is in the unusual position of having advanced backwa
 
 ### ICT Industry
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Electric ride-hailing fleet | No electric ride-hailing fleet | [100 fully electric vehicles handed to ride-hailing driver-partners, the first half of a 200-vehicle programme on drive-to-own repayment over three years](https://techcabal.com/2026/07/18/gocab-yango/) | Advanced |
 | National industry 4.0 strategy | Strategy handed to the commerce and industry minister, developed with UN industrial-development support on German funding | [Unchanged; no adoption, budget, implementing body or activity on file seventeen months later](https://www.fratmat.info/article/2631919/economie/industrie-40-la-strategie-nationale-remise-au-gouvernement) | No change |
 
 ### Innovation ecosystem
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Government technology procurement platform | Did not exist | [Platform on which the state's own digital-transformation projects are to be published for startups and small firms to bid directly; nothing establishes it is live or that any project has been published](https://www.wearetech.africa/fr/fils/actualites/tech/la-cote-divoire-lance-deux-accelerateurs-pour-faire-emerger-ses-champions-du-numerique) | Advanced |
 | Ministerial digital roadmap 2026-2028 | Did not exist; the 2021-2025 national digital development strategy was the instrument in force and expiring | [Ministerial roadmap in force on seven pillars and 40 priority projects, sitting under the national digital development strategy and the 2026-2030 development plan](https://techreviewafrica.com/news/5738/cote-divoire-targets-digital-economy-growth-at-african-digital-week-2026) | Advanced |
@@ -245,32 +264,7 @@ The cyber-security strategy is in the unusual position of having advanced backwa
 | Technological Innovation Fund | Announced at FCFA 100bn with nothing capitalised and a six-month mobilisation window running | [Unchanged; no capitalisation, manager, governance, first close or disbursement on file, and the window closed in January 2026](https://techafricanews.com/2025/07/04/ivory-coast-launches-fcfa-100-billion-technological-innovation-fund/) | No change |
 | E-tourism platform | ***Baseline not held*** | [One-stop gateway for discovery, itinerary planning and booking, built for the tourism ministry by the same US vendor as the national data centre; no cost, launch date or contract value](https://techafricanews.com/2026/06/15/cybastion-and-cote-divoire-collaborate-on-sublime-cote-divoire-e-tourism-platform/) | ***Baseline not held*** |
 
-### US / hyperscaler activities
-
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
-|---|---|---|---|
-| US export-credit digital package | A 2023 agreement for a national data centre and a digital administrative city inside a wider trade-agreement package announced May 2025, with no export-credit approval made | [Formally authorised US$170m project covering a sovereign national data centre, a government digitisation platform and smart-border surveillance](https://techafricanews.com/2026/07/17/us-expands-cote-divoire-tech-footprint-with-starlink-approval-and-170m-data-centre-project/) | Advanced |
-
-### China activities
-
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
-|---|---|---|---|
-| Network operations outsourcing | A Chinese vendor running the incumbent operator's network operations | [Ten-year mark stated, with the partnership covering more than 12 subsidiaries and over 100 million customers on the operator's own figures](https://techafricanews.com/2026/04/30/telecom-giant-orange-cote-divoire-highlights-10-years-of-network-partnership-with-huawei/) | No change |
-| Smart agriculture platform | ***Baseline not held*** | [Plot-mapping, crop-monitoring and input, yield and weather platform given preliminary approval, with the minister asking for closer cooperation on national rollout; no contract, cost, pilot or timetable](https://www.wearetech.africa/en/fils-uk/news/tech/ivory-coast-eyes-huawei-partnership-to-digitize-agriculture-sector) | ***Baseline not held*** |
-
-### India activities
-
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
-|---|---|---|---|
-| Technology park | Special economic zone operating since 2004 across more than 600 hectares, seeking US$311m for its plan to 2028, with an Indian export-credit bank the original infrastructure lender | [Same targets, with the raise not established as secured and no Indian commitment reported since; the state portfolio report puts the zone at a first 180-hectare tranche of earthworks, roads and utilities complete, a business hotel built and about ten firms housed, and records the operating company among the digital holdings whose results fell in 2023](https://www.wearetech.africa/en/fils-uk/news/tech/cote-d-ivoire-vitib-seeks-311-mln-to-accelerate-its-development) | No change |
-
-### Gulf/UAE activities
-
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
-|---|---|---|---|
-| Gulf AI memoranda | Two non-binding memoranda, one framework for public-administration reform and digitalisation and one for the next national digital strategy | [Unchanged; no work programme, deliverable, successor instrument or vendor presence on file as at 2026-08-05](https://www.wearetech.africa/en/fils-uk/news/tech/cote-d-ivoire-signs-ai-partnership-to-modernize-public-services) | No change |
-
-<!-- narrative: ai-tech -->
+<!-- narrative: technology -->
 At the window's opening this section was a strategy stack and little else: two documents handed to the Prime Minister five months earlier and not demonstrably adopted, a costing of FCFA 912bn with no appropriation behind it, a startup act from 2023 with no labelled companies, and an innovation fund three weeks old.
 
 Twelve months on, artificial intelligence has moved from paper into two operating things — a citizen assistant in March 2026 and a draft cyber-security strategy that for the first time puts the technology inside a binding-track national instrument, and does so under the cyber authority rather than the digital ministry. The United States relationship converted from announcement to authorisation. A Chinese layer became visible at all, where the base previously held none. And the ministry replaced its expiring strategy with a 2026 to 2028 roadmap, then added two accelerators and a state procurement channel in the last week of July.
@@ -278,31 +272,11 @@ Twelve months on, artificial intelligence has moved from paper into two operatin
 Everything else sits where it sat. The safe-artificial-intelligence label, the national committee, the promised agency, the acceleration programme, the FCFA 100bn fund and the industry strategy have not moved in a year, and several have gone a full year without a further mention. The fund's own six-month mobilisation window closed in January 2026 with nothing capitalised.
 <!-- /narrative -->
 
-## Inclusion and capacity
-
-### Digital divides
-
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
-|---|---|---|---|
-| Feature-phone service platform | Did not exist | [Unchanged; nothing on file establishes the launch happened, and the stated date passed](https://techcabal.com/2026/02/06/brastorne-expands-to-cote-divoire/) | Stalled |
-| Territorial mobile-network coverage | 82% of the territory covered, with about 500 localities being connected | [About 95% of the territory covered](https://www.fratmat.info/article/2642807/societe/forum-intech-sante-2026-lansut-presente-sa-feuille-de-route-pour-connecter-les-zones-rurales-et-moderniser-lacces-aux-soins) | Advanced |
-| Sex-disaggregated digital access and use | 81.38% of men against 47.19% of women owning a mobile phone, a 34-point gap, on 2017 fieldwork | [Unchanged; nothing sex-disaggregated has been published since, so the only measurement of the gap is nine years old](http://itu.int/en/ITU-D/Regional-Presence/Africa/Documents/ICT%20Indicators%202019/Presentations/session-4-cote-divoire-panorama-des-telecoms-tic-fr.pdf) | No change |
-| Smartphone penetration | ***Baseline not held*** | [41% of the population, against a stated ambition of 80% by 2030](https://techreviewafrica.com/news/6058/ansut-highlights-connectivity-as-foundation-for-digital-and-financial-inclusion-at-apide-2026) | ***Baseline not held*** |
-| Urban and rural internet penetration gap | ***Baseline not held*** | [52.7% urban against 24.6% rural, and household access 85.7% urban against 57.7% rural, on figures attributed to the ITU data hub](https://www.wearetech.africa/en/fils-uk/news/telecom/cote-d-ivoire-to-extend-broadband-to-30-rural-towns-by-end-september) | ***Baseline not held*** |
-
-### Access to services
-
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
-|---|---|---|---|
-| Civil-registry agency in a shopping centre | Did not exist | [A civil-registry and identification agency opened inside a Yopougon shopping centre in partnership with a private mobility company, presented as bringing identification services closer to citizens](https://www.oneci.ci/actualites/1787127124) | Advanced |
-| Portfolio guarantee for small enterprises | Did not exist | [Up to FCFA 17,000,000,000 mobilisable across two windows, with stated attention to women's entrepreneurship](https://www.aip.ci/aip-une-banque-digitale-et-la-sgpme-signent-deux-accords-pour-faciliter-lacces-des-pme-ivoiriennes-au-credit/) | Advanced |
-| Single social register | More than 200,000 households in the process of registration | [Unchanged; no enrolment figure published since](https://filetsociaux-ci.org/operationnalisation-du-registre-social-unique-rsu-des-menages-pauvres-et-vulnerables-plus-de-200-000-menages-en-cours-denregistrement) | No change |
-| West Africa unique identification project | Disbursement at 38% against a 70%-by-December-2025 target, health-insurance enrolment about 60% | [Same figures; a social evaluation across ten sub-prefectures was restituted in February 2026](https://documents.worldbank.org/curated/en/099050225110559061) | No change |
-| Financial-service rating system | ***Baseline not held*** | [Pilot at 2,234 evaluations, 60% satisfactory and 40% unsatisfactory, with rollout stated for May 2026 and a mobile application announced](https://techafricanews.com/2026/04/15/mobile-app-coming-soon-as-cote-divoire-rolls-out-nationwide-financial-service-rating-system/) | ***Baseline not held*** |
+## Capacity
 
 ### Literacy
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Education digitalisation baseline study | Did not exist; work began October 2025 | [Conceptual framework, sampling plan and collection tools technically validated, awaiting ministerial validation before national collection](https://www.fratmat.info/article/2638618/societe/digitalisation-de-leducation-en-cote-divoire-la-validation-technique-des-outils-de-letude-de-reference-bouclee) | Advanced |
 | National-language civil-registration relays | Did not exist | [National-language announcers trained as community relays on civil registration and the identification number, with community collection points to follow](https://www.linfodrome.com/societe/122249-etat-civil-identification-l-oneci-renforce-les-capacites-des-speakers-en-langues-locales-pour-un-relais-efficace) | Advanced |
@@ -312,7 +286,7 @@ Everything else sits where it sat. The safe-artificial-intelligence label, the n
 
 ### Training and skills
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Certified cyber-specialist programme | None published | [About 250 trained in the first half of 2026 plus 88 auditors certified, against 500 by year-end and 1,200 in three years](https://www.aip.ci/cote-divoire-aip-lanssi-veut-former-1200-experts-certifies-en-trois-ans/) | Advanced |
 | Digital skills programme with a US vendor | ***Baseline not held*** | [Second annual summer tech camp concluded under the Africa DigiEmpower programme, training hundreds of young people in AI, cybersecurity and digital awareness across 20 Ivorian cities; no cumulative headcount published](https://techafricanews.com/2025/09/19/cybastion-drives-cote-divoires-digital-transformation-with-ambitious-tech-initiatives/) | Advanced |
@@ -325,9 +299,35 @@ Everything else sits where it sat. The safe-artificial-intelligence label, the n
 
 ### Research institutions
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Cyber-security masters degrees | Did not exist | [Two degrees, in information-systems security and digital forensics, with enrolment stated for the September 2026 academic year](https://www.aip.ci/cote-divoire-aip-lanssi-et-lesatic-valident-les-maquettes-de-deux-masters-pour-renforcer-les-competences-nationales-en-cybersecurite/) | Advanced |
+
+<!-- narrative: capacity -->
+
+<!-- /narrative -->
+
+## Inclusion
+
+### Access to services
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| Civil-registry agency in a shopping centre | Did not exist | [A civil-registry and identification agency opened inside a Yopougon shopping centre in partnership with a private mobility company, presented as bringing identification services closer to citizens](https://www.oneci.ci/actualites/1787127124) | Advanced |
+| Portfolio guarantee for small enterprises | Did not exist | [Up to FCFA 17,000,000,000 mobilisable across two windows, with stated attention to women's entrepreneurship](https://www.aip.ci/aip-une-banque-digitale-et-la-sgpme-signent-deux-accords-pour-faciliter-lacces-des-pme-ivoiriennes-au-credit/) | Advanced |
+| Single social register | More than 200,000 households in the process of registration | [Unchanged; no enrolment figure published since](https://filetsociaux-ci.org/operationnalisation-du-registre-social-unique-rsu-des-menages-pauvres-et-vulnerables-plus-de-200-000-menages-en-cours-denregistrement) | No change |
+| West Africa unique identification project | Disbursement at 38% against a 70%-by-December-2025 target, health-insurance enrolment about 60% | [Same figures; a social evaluation across ten sub-prefectures was restituted in February 2026](https://documents.worldbank.org/curated/en/099050225110559061) | No change |
+| Financial-service rating system | ***Baseline not held*** | [Pilot at 2,234 evaluations, 60% satisfactory and 40% unsatisfactory, with rollout stated for May 2026 and a mobile application announced](https://techafricanews.com/2026/04/15/mobile-app-coming-soon-as-cote-divoire-rolls-out-nationwide-financial-service-rating-system/) | ***Baseline not held*** |
+
+### Digital divides
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| Feature-phone service platform | Did not exist | [Unchanged; nothing on file establishes the launch happened, and the stated date passed](https://techcabal.com/2026/02/06/brastorne-expands-to-cote-divoire/) | Stalled |
+| Territorial mobile-network coverage | 82% of the territory covered, with about 500 localities being connected | [About 95% of the territory covered](https://www.fratmat.info/article/2642807/societe/forum-intech-sante-2026-lansut-presente-sa-feuille-de-route-pour-connecter-les-zones-rurales-et-moderniser-lacces-aux-soins) | Advanced |
+| Sex-disaggregated digital access and use | 81.38% of men against 47.19% of women owning a mobile phone, a 34-point gap, on 2017 fieldwork | [Unchanged; nothing sex-disaggregated has been published since, so the only measurement of the gap is nine years old](http://itu.int/en/ITU-D/Regional-Presence/Africa/Documents/ICT%20Indicators%202019/Presentations/session-4-cote-divoire-panorama-des-telecoms-tic-fr.pdf) | No change |
+| Smartphone penetration | ***Baseline not held*** | [41% of the population, against a stated ambition of 80% by 2030](https://techreviewafrica.com/news/6058/ansut-highlights-connectivity-as-foundation-for-digital-and-financial-inclusion-at-apide-2026) | ***Baseline not held*** |
+| Urban and rural internet penetration gap | ***Baseline not held*** | [52.7% urban against 24.6% rural, and household access 85.7% urban against 57.7% rural, on figures attributed to the ITU data hub](https://www.wearetech.africa/en/fils-uk/news/telecom/cote-d-ivoire-to-extend-broadband-to-30-rural-towns-by-end-september) | ***Baseline not held*** |
 
 <!-- narrative: inclusion -->
 Three things changed band. Satellite for rural coverage went from nothing to three live services with published pricing. Cyber-security skills went from no stated target to a [costed 1,200-in-three-years programme](https://www.aip.ci/cote-divoire-aip-lanssi-veut-former-1200-experts-certifies-en-trois-ans/) with two master's degrees in validation. And an education management information system compact closed in August 2025 with no successor and no evaluation.
@@ -335,37 +335,53 @@ Three things changed band. Satellite for rural coverage went from nothing to thr
 What merely accreted detail: the rural programme delivered 500 of 575 and the shortfall passed unremarked; the social register and the identification project have published nothing new in sixteen months; and the innovation fund is in exactly the position it was in a year ago, except that its own deadline has now expired.
 <!-- /narrative -->
 
-## Finance
+## Data
 
-### New investments
+### Open data
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
-| Non-state digital finance stock | ***Baseline not held*** | [US$1.29bn across 24 deals from 2018 to 2026](https://techafricanews.com/2026/07/17/us-expands-cote-divoire-tech-footprint-with-starlink-approval-and-170m-data-centre-project/) | Advanced |
-| World Bank inclusive digitalisation programme | Procurement plan covering September 2023 to December 2024 across four components, with no financing agreement concluded | [Phase 1 financed by an IDA credit of FCFA 84,356,070,200 (EUR 128.6m) concluded 2025-10-17 and ratified 2026-02-04, inside a US$330m multiphase envelope running to 2035; Phase 1 is fenced to Abidjan, Yamoussoukro and twelve regions, and allocates US$45m to broadband for public institutions and US$50m to legal and institutional foundations](https://www.bilan.gouv.ci/actualite/19406) | Advanced |
-| Cybastion digital infrastructure programme | Not held | [The government has authorised a United States technology firm to carry out a set of projects strengthening national digital infrastructure, the whole estimated at US$170m, about FCFA 95bn](https://techs.tg/2026/08/10/cote-divoire-170-millions-us-pour-booster-la-strategie-numerique/) | ***Baseline not held*** |
+| Access to public-interest information programme | Presented as the operational refresh of the 2013 access-to-information law: a portal, a conformity audit tool, a helpline, a mobile application and a monitoring barometer | [Unchanged; no later source on file in the year since](https://www.fratmat.info/article/2635603/culture/access-caidp-un-tournant-pour-la-transparence-et-lacces-a-linformation-en-cote-divoire) | No change |
 
-### MoUs and other agreements
+### Use of satellite data
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
-| Five-year telecommunications and digital-infrastructure memorandum with an Indian technology company | Did not exist | [A five-year memorandum of agreement between an Indian technology company, a continental investment council and an Ivorian mobile operator to develop telecommunications and digital public infrastructure across the continent, dated 2026-08-07 and fully executed on 2026-08-19 per a regulatory filing. It covers national fibre backbones, 4G and 5G, submarine cable landing stations, internet exchange points, telecom towers, and digital identity, national interoperability, e-government and digital payment platforms. No financial commitment is disclosed](https://enterpriseai.economictimes.indiatimes.com/news/industry/blue-cloud-softech-signs-5-year-africa-pact-for-telecom-digital-infrastructure-projects/133366356) | ***Baseline not held*** |
+| Grand Abidjan urban planning geoportal | ***Baseline not held*** | [Under build with Japanese cooperation on three axes including a governance arrangement for managing, sharing and opening the data; the portal itself is not yet built](https://www.fratmat.info/article/2642517/economie/ville-intelligente-le-projet-de-promotion-du-geoportail-du-grand-abidjan-lance) | ***Baseline not held*** |
 
-### Domestic budget appropriations and expenditure
+<!-- narrative: data -->
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+<!-- /narrative -->
+
+## Geopolitics
+
+### US / hyperscaler activities
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
-| Digital ministry appropriation | FCFA 60,780,440,826 voted for FY2025, no outturn | [FCFA 83,275,503,595 voted for FY2026, up 37%, no outturn](https://www.dgbf.ci/wp-content/uploads/2025/12/Loi-de-Finances-2026.pdf) | Advanced |
-| FY2024 digital budget execution | None published, the settlement law not yet voted | [FCFA 69,673,862,396 voted, FCFA 54,129,746,061 revised and FCFA 54,052,436,801 spent, 77.6% against the vote and 99.9% against the revision](https://www.dgbf.ci/wp-content/uploads/2024/03/Loi-de-Finances-Portant-Budget-de-lEtat-pour-lannee-2024.pdf) | Advanced |
-| Levy share of the digital ministry vote | 65.6% of the ministry's section was earmarked operator levy in FY2025 | [42.7% for FY2026, as the ministry's own programme rises from FCFA 19.03bn to 45.99bn while both levy programmes shrink](https://www.dgbf.ci/wp-content/uploads/2025/12/Loi-de-Finances-2026.pdf) | Regressed |
-| Telecoms regulation levy programme | FCFA 4,590,000,000 appropriated for FY2025 | [FCFA 2,580,000,000 appropriated for FY2026, down 43.8%](https://www.dgbf.ci/wp-content/uploads/2025/12/Loi-de-Finances-2026.pdf) | Regressed |
-| Universal service levy programme | FCFA 35,300,000,000 appropriated for FY2025, no outturn published | [FCFA 33,000,000,000 appropriated for FY2026, the programme renamed, still no outturn](https://www.dgbf.ci/wp-content/uploads/2025/12/Loi-de-Finances-2026.pdf) | Regressed |
-| Whole-of-government digital appropriation | FCFA 82,227,745,121 across 20 lines for FY2025, no outturn | [FCFA 104,342,019,358 across 20 lines for FY2026](https://www.dgbf.ci/wp-content/uploads/2025/12/Loi-de-Finances-2026.pdf) | Advanced |
+| US export-credit digital package | A 2023 agreement for a national data centre and a digital administrative city inside a wider trade-agreement package announced May 2025, with no export-credit approval made | [Formally authorised US$170m project covering a sovereign national data centre, a government digitisation platform and smart-border surveillance](https://techafricanews.com/2026/07/17/us-expands-cote-divoire-tech-footprint-with-starlink-approval-and-170m-data-centre-project/) | Advanced |
 
-<!-- narrative: finance -->
-The single largest change here is not a programme but a load: the domestic fiscal layer arrived in the wiki during the window and now carries 61 budget line-years across three years. That produces the one finding no press account gives — [2024 delivery against the vote was 77.6%, not the near-perfect 99.9% the in-year revision suggests](https://www.dgbf.ci/wp-content/uploads/2024/03/Loi-de-Finances-Portant-Budget-de-lEtat-pour-lannee-2024.pdf), because the earmarked levy programme was written down by FCFA 8.79bn and then spent to the franc.
+### China activities
 
-The levies that fund rural coverage shrank across the same period, from FCFA 35.3bn to FCFA 33.0bn, with the only outturn on file [showing a 24.3% shortfall in 2024](https://digitalmag.ci/services-universels-telecoms-un-fonds-special-pour-reduire-la-fracture-numerique-en-afrique/).
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| Network operations outsourcing | A Chinese vendor running the incumbent operator's network operations | [Ten-year mark stated, with the partnership covering more than 12 subsidiaries and over 100 million customers on the operator's own figures](https://techafricanews.com/2026/04/30/telecom-giant-orange-cote-divoire-highlights-10-years-of-network-partnership-with-huawei/) | No change |
+| Smart agriculture platform | ***Baseline not held*** | [Plot-mapping, crop-monitoring and input, yield and weather platform given preliminary approval, with the minister asking for closer cooperation on national rollout; no contract, cost, pilot or timetable](https://www.wearetech.africa/en/fils-uk/news/tech/ivory-coast-eyes-huawei-partnership-to-digitize-agriculture-sector) | ***Baseline not held*** |
+
+### Gulf/UAE activities
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| Gulf AI memoranda | Two non-binding memoranda, one framework for public-administration reform and digitalisation and one for the next national digital strategy | [Unchanged; no work programme, deliverable, successor instrument or vendor presence on file as at 2026-08-05](https://www.wearetech.africa/en/fils-uk/news/tech/cote-d-ivoire-signs-ai-partnership-to-modernize-public-services) | No change |
+
+### India activities
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| Technology park | Special economic zone operating since 2004 across more than 600 hectares, seeking US$311m for its plan to 2028, with an Indian export-credit bank the original infrastructure lender | [Same targets, with the raise not established as secured and no Indian commitment reported since; the state portfolio report puts the zone at a first 180-hectare tranche of earthworks, roads and utilities complete, a business hotel built and about ten firms housed, and records the operating company among the digital holdings whose results fell in 2023](https://www.wearetech.africa/en/fils-uk/news/tech/cote-d-ivoire-vitib-seeks-311-mln-to-accelerate-its-development) | No change |
+
+<!-- narrative: geopolitics -->
+
 <!-- /narrative -->
 
 ## Where the record is thin

@@ -1,20 +1,18 @@
 ---
-title: Malawi — progress report, 2025-08-01 to 2026-08-24
-compiled: 2026-08-24
-period: 2025-08-01 to 2026-08-24
+title: Malawi — progress report, August 2025 – August 2026
+compiled: 2026-08-25
+period: 2025-08-01 to 2026-08-25
 place: MWI
 ledger_rows: 179
 not_held: 57
-record: 5276b62cf194
+record: cbcc4347aaf7
 ---
 
-# Malawi: progress report, 2025-08-01 to 2026-08-24
+# Malawi: progress report, August 2025 – August 2026
 
-*Compiled 2026-08-24 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
+*Of 179 systems and instruments on this place's ledger, 61 changed position between 2025-08-01 and 2026-08-25, 31 did not, 30 carry no stated baseline, and 57 are ***Not held*** at both ends.*
 
-*Of 179 systems and instruments on this place's ledger, 61 changed position between 2025-08-01 and 2026-08-24, 31 did not, 30 carry no stated baseline, and 57 are ***Not held*** at both ends.*
-
-*Shape check, run before the comparison: 119 sources for this place in the window — 21 in the earlier half (2025-09 to 2026-02), 98 in the later (2026-03 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+*Shape check, run before the comparison: 120 sources for this place in the window — 21 in the earlier half (2025-09 to 2026-02), 99 in the later (2026-03 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -26,11 +24,96 @@ Over the twelve months to 6 August 2026 Malawi's identity register advanced and 
 Against those, the Data Protection Act's twenty-four-month exemption elapsed in early June 2026 with no subsidiary instrument made and no enforcement action of any kind on record ([draft regulations](https://malawi24.com/2026/07/16/macra-targets-stronger-data-protection-compliance/)); the service bus did not enter service; and a national artificial intelligence strategy, a national digital transformation strategy, a local-authority ICT policy and a government data-sharing regulation all ended the period in draft.
 <!-- /narrative -->
 
-## Infrastructure
+## Governance
+
+### Strategies, plans and policies
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| Draft National Artificial Intelligence Strategy | Did not exist; regional consultative workshops to develop Malawi's first National AI Strategy were launched in September 2025, after the window opened | [A draft has been through a two-day validation workshop in Lilongwe and a citizen-feedback portal, and a UNESCO readiness assessment report was validated on 2026-07-22 to guide it; the strategy is pre-adoption, with no adoption date on record](https://itweb.africa/article/malawi-initiates-dialogue-on-ai-strategy/WnpNgq21aa2MVrGd) | Advanced |
+| Draft National Digital Transformation Strategy | Did not exist; regional consultative workshops to develop it began in September 2025 alongside the AI strategy | [A draft is in validation and pre-adoption, intended to align with the national development vision and the national digitisation policy; no adoption date is on record at 2026-08-06](https://itweb.africa/article/malawi-initiates-dialogue-on-ai-strategy/WnpNgq21aa2MVrGd) | Advanced |
+| Presidential directive on digitalisation of public services | Did not exist as a directive at 2025-08-01 | [The President directed all ministries, departments and agencies to digitalise passports, national ID cards, driver's licences and public procurement forthwith, against a target of 80% internet usage by 2026; no baseline is given against which that target could be assessed](https://itweb.africa/article/malawi-president-orders-digital-revolution/kYbe9MXbob9vAWpG) | Advanced |
+| Malawi Digitalisation Policy 2023-28 | Adopted and in force, with government services still siloed: the service bus intended to let ministries exchange data was not operational through 2025, leaving passport registration and driver's licence payments unavailable online | [Still in force and still the reference framework, with the e-government department under pressure to onboard all ministries, departments and agencies onto the service bus; an industry association set a mid-2026 expectation that driver's licence renewals and national ID applications would be fully online, and nothing on file records that being met](https://times.mw/the-year-ict-sector-grappled-with-implementation-woes/) | No change |
+| Relief on the internet surtax and smartphone value-added tax | Did not exist | [The ICT minister called for scrapping the 10% surtax on internet services and reviewing the 17.5% value-added tax on smartphones to make digital access affordable, setting a target of raising mobile internet usage from 12.5% to at least 30% by 2030. No budget measure, bill or instrument is on record](https://www.itweb.africa/article/malawi-targets-smartphone-tax-relief/mQwkoq6Y9DpM3r9A) | ***Baseline not held*** |
+
+### Legislation and regulation
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| AI Bill | Did not exist; no artificial-intelligence statute or bill appears in the base at 2025-08-01 | [Announced as the statutory backing for the National AI Strategy, to establish a regulatory framework promoting innovation while safeguarding citizen privacy and ensuring operational accountability; the ICT minister put the target for reaching parliament at before December 2026, with the strategy to ground the law, and restated the intention to legislate in August 2026. No draft text is stated and the strategy own text is not held](https://times.mw/government-eyes-ai-laws-amid-push-for-innovation/) | Advanced |
+| Data Protection Act 2024 | In force since 2024-06-03, with the regulator designated data protection authority; the statute exempted controllers and processors not of significant importance from compliance for 24 months from commencement, so most of the economy was outside the Act's obligations | [In force, with the general exemption elapsed in early June 2026 so that all controllers and processors are within scope; subsidiary instruments to operate registration and enforcement were still in draft at 2026-08-06](https://www.mca.ac.mw/mca-siteup/uploads/Data%20Protection%20Act%202024.pdf) | Advanced, grace period elapsed |
+| Financial Crimes (Amendment) Bill No. 19 of 2026 | Did not exist; the base carries no bill or amendment on cheques or bearer negotiable instruments at 2025-08-01 | [Passed by Parliament removing all references to cheques and bearer negotiable instruments from the principal Act, as one of four bills passed together: amendments to the Financial Crimes, Payment Systems and Deposit Insurance Corporation Acts following the Bills of Exchange (Amendment) Bill that effects the cheque phase-out. Assent, gazette date and commencement are not published, and the safeguarding regulations the finance minister promised are not drafted](https://malawi24.com/2026/08/07/mps-hailed-for-fast-tracking-digital-finance-reforms/) | Advanced |
+| Government Data Sharing Regulation | Did not exist; the national data-exchange platform operated without binding rules and ministries, departments and agencies shared citizen data by email, USB drive and paper | [A proposed regulation would route all data requests through the national data centre, require encryption in transit and at rest, set a common digital standard for system-to-system exchange, and require binding data sharing agreements with usage limits and audit trails; it is not made, and no draft text is held](https://itweb.africa/article/malawi-devises-operational-rules-for-national-data-exchange-platform/xnklOvz1R2bq4Ymz) | Advanced |
+| Review of the National Registration Act | The base carries no statement on the Act's status or on any review of it | [An acceleration-project consultative meeting has reviewed the National Registration Act and the marriage and family relations statute, with the registration bureau stating the aim is to support a modern and secure civil registration and identification system; no bill, draft or timetable is on record](https://cajnewsafrica.com/2026/07/13/malawi-outlines-plans-to-transition-to-digital-ids/) | ***Baseline not held*** |
+
+### Data protection
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| Data Protection Authority within the regulator | Designated under the Act but not stood up; the government was tendering advisory and technical consultancy to produce the unit's organogram and governance charter, staffing, operations manual, monitoring and enforcement framework, and a business plan targeting cost recovery within five years | [Operating as a unit inside the regulator with a named head of data protection and a stated implementation framework; no organogram, enforcement record or registration data is published](https://ppda.mw/storage/documents/opentenders/ToRs%20OPERATIONALIZATION_OF_THE_DATA_PROTECTION_Act.pdf) | Advanced |
+| Draft Data Protection Regulations, Guidelines and Registration Fees | No subsidiary data-protection instruments were made; drafting of regulations, codes of practice, guidelines, a priced service list and a scale of fines was still out to tender under an acceleration-project consultancy in October 2025 | [The regulator has published draft regulations, guidelines and a turnover-based registration fee schedule ranging from MWK 50,000 for small and medium enterprises to MWK 7 million for the largest controllers and processors of significant importance, and consulted stakeholders before finalisation; no commencement date is on record](https://itweb.africa/article/malawi-advances-data-protection-framework/xnklOvz14wkq4Ymz) | Advanced |
+| Separation of the data protection authority and the emergency response team from the regulator | Both bodies sat inside the regulator under the Data Protection Act; no separation plan is on record | [The regulator states it intends to establish both as independent institutions, with World Bank technical assistance and capacity building; no legislative vehicle, timetable or funding model is on record](https://techafricanews.com/2026/03/26/malawi-secures-world-bank-backing-to-strengthen-cybersecurity-and-data-protection-frameworks/) | Advanced |
+
+### Regional collaboration
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| Lilongwe Declaration on Collaborative Regulation | Did not exist | [Adopted; anchors to the international regulatory maturity framework, sets six shared principles and seven areas of collaborative action, and treats artificial intelligence, satellite, digital platforms and next-generation networks as one emerging-technology frontier](https://researchictafrica.net/2026/05/04/how-do-we-move-the-crasa-summits-commitment-to-collaborative-regulation-from-intent-to-evidence-led-action/) | Advanced |
+| COMESA regional AI investment priorities | Baseline not held | [Proposed: agriculture, healthcare, climate resilience, education, financial services and regional trade named as AI investment priorities for the bloc](https://itweb.africa/article/malawi-urges-comesa-to-target-ai-investments/Pero3MZ3JjeqQb6m) | ***Baseline not held*** |
+| Regulator collaboration with UNDP on AI, digital identity and data protection | The base carries no statement of a regulator position on artificial intelligence or digital identity | [Exploratory, with priorities named as national identity integration with SIM verification, responsible artificial intelligence, stronger data protection and secondary-school digital skills drawing on the universal service fund; no memorandum, funding figure or timetable is stated](https://itweb.africa/article/malawi-explores-ai-digital-ids-collaboration/nWJadMbNlybMbjO1) | ***Baseline not held*** |
+| SADC Regional AI Strategy and Regulatory Framework | The base carries no position on a regional AI framework at 2025-08-01 | [Under development, not adopted or published; no draft, adoption date or document title beyond the name](https://itweb.africa/article/southern-africa-advances-ai-governance/Gb3Bw7Wadmkq2k6V) | ***Baseline not held*** |
+
+### Standards
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| Copyright society rule on wholly AI-generated works | Did not exist; no rule on the registration of, or royalties for, AI-generated works is on record | [The statutory copyright body will not register works created entirely by artificial intelligence or distribute royalties on them; the rule is known only as reported, with no test stated for how much AI assistance is admissible](https://malawi24.com/2026/07/23/malawi-draws-the-line-on-ai-music/) | Advanced |
+| Blank media levy distribution methodology | No position held at 2025-08-01 | [Distribution rests entirely on records submitted by licensed disc-burning centres of songs customers ask to have copied, not on digital consumption; of roughly MWK 3bn collected in 2026, about MWK 1.44bn, some 48%, reaches rights holders, and tax reconciliation against a rights holder's taxpayer number is not automatic](https://malawi24.com/2026/08/04/ignoring-streaming-boom-cosoma-still-relies-on-cd-burning-data-for-royalty-payouts/) | ***Baseline not held*** |
+
+<!-- narrative: governance -->
+The governing position for personal data changed in scope without changing in enforcement. At the start of the period the Data Protection Act 2024 had been in force for fourteen months with its exemption still running and no subsidiary instrument made; in October 2025 the government was tendering consultancy to design the authority's structure and enforcement framework ([terms of reference](https://ppda.mw/storage/documents/opentenders/ToRs%20OPERATIONALIZATION_OF_THE_DATA_PROTECTION_Act.pdf)). By July 2026 the exemption had elapsed, a head of data protection had been named, and draft regulations with a turnover-based fee schedule were out to consultation ([consultation account](https://malawi24.com/2026/07/16/macra-targets-stronger-data-protection-compliance/)). No fine, order, breach notification, complaint or prosecution under the Act appears in the base at either end of the period.
+
+The rest of the section began the period as nothing and ended it as drafts. Both national strategies did not exist at the start; workshops began in September 2025 and both entered validation in February 2026, neither adopted. A government data-sharing regulation was proposed in June 2026 and not made ([ministry account](https://itweb.africa/article/malawi-devises-operational-rules-for-national-data-exchange-platform/xnklOvz1R2bq4Ymz)).
+
+Two positions did not move at all. The electoral commission's refusal of machine-readable access to the voter roll, made in June 2025, stands unchanged through the September 2025 elections and after. And the competition authority's July 2025 order requiring a mobile-money operator to open its exclusive e-ticketing platform to other providers within a year reached its deadline in July 2026 with nothing on file recording compliance.
+<!-- /narrative -->
+
+## Finance
+
+### Domestic budget appropriations and expenditure
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| Device assembly allocation to the science and technology university | The base carries no prior-year figure | [MWK 1.1bn allocated for assembling laptops and tablets at the Malawi University of Science and Technology - the nearest digital allocation to schools in that budget, and directed at higher education](https://malawi24.com/2026/04/17/malawi-schools-have-no-internet/) | ***Baseline not held*** |
+| National Birth Registration Campaign appropriation | The base carries no statement of the campaign's cost or funding before 2025-08-01 | [The campaign requires MWK 17.8bn in total to register about 4.6 million children across seven phases in 25 districts; MWK 5.4bn was allocated in the 2025/26 financial year for phases 1 and 2, leaving MWK 12.4bn unfunded](https://malawi24.com/2026/01/16/k17-8bn-push-to-register-4-6-million-children/) | ***Baseline not held*** |
+| School connectivity line in the 2026/27 national budget | The base carries no statement about school-connectivity appropriation before 2025-08-01 | [The 2026/27 budget policy statement contains no dedicated line for school internet connectivity or digital infrastructure in primary and secondary schools; education received MWK 1.28tn, 11.7% of the budget, directed at fee abolition, classrooms, teaching materials and university operations, and transport and ICT received MWK 664.4bn directed at roads, rail and aviation](https://malawi24.com/2026/04/17/malawi-schools-have-no-internet/) | ***Baseline not held*** |
+
+### MoUs and other agreements
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| Vendor investment memorandum | The base carries no proposal, negotiation or announcement before 2025-08-01 | [A proposed US$180m over four years, built round a one-stop digital government platform and a high-speed network linking all 28 districts with ring protection; funding structure, implementation timeline and any agreements reached have not been made public](https://malawi24.com/2026/06/09/malawi-eyes-wider-digital-access-in-180m-huawei-ict-deal/) | ***Baseline not held*** |
+
+### New investments
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| Governance to Enable Service Delivery Project | Operating, paying performance-based grants to participating district councils | [Closed on 2026-06-30; its grant mechanism continues under the successor project](https://www.nyasatimes.com/govt-secures-k229bn-in-world-bank-grants-parliament-approves-two-financing-bills/) | Closed |
+| Inclusive Digital Transformation for Malawi | Running 2024-2028 on a European Union commitment of EUR 2,000,000 and a UNDP commitment of US$5,608,640, covering inclusive digital identity, open-source public systems with human-rights safeguards, and youth digital literacy; the Union separately reported contributing over EUR 10m to the national registration system that underpins it | [Unchanged in commitment; within the window the programme's policy strand reached a validation workshop in Lilongwe for a draft national digital transformation strategy and a draft national AI strategy, both still pre-adoption](https://d-portal.org/ctrack.html#view=act&aid=XI-IATI-EC_INTPA-2024-PC-37646) | No change |
+| Malawi Fiscal Governance Program-for-Results | An approved grant of SDR 60.3m, about US$80m equivalent at appraisal, supporting revenue mobilisation, budget execution and procurement modernisation, including e-procurement digitalisation | [Unchanged; the base carries no implementation, disbursement or results reporting after the appraisal document](https://documents.worldbank.org/curated/en/099050624155539128) | No change |
+| Support for Digitalization, Financial Inclusion and Competitiveness | An active institutional-support grant of XDR 10,000,000, recorded as approximately US$14.4m on an unstated conversion, with US$5,591,335 disbursed as at the record's retrieval date | [Unchanged; no event in the window is on file for this project](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=46002-P-MW-KF0-007) | No change |
+
+<!-- narrative: finance -->
+Parliament ratified an SDR 58.2m grant for local-government service delivery on 29 July 2026, extending coverage to 32 councils from the predecessor's 28 and funding business-process re-engineering ahead of equipment purchase ([parliamentary approval](https://www.nyasatimes.com/govt-secures-k229bn-in-world-bank-grants-parliament-approves-two-financing-bills/)).
+
+The 2026/27 national budget carries no dedicated line for school connectivity ([landscape analysis](https://malawi24.com/2026/04/17/malawi-schools-have-no-internet/)).
+<!-- /narrative -->
+
+## ICT Infrastructure
 
 ### Connectivity
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Additional mobile operator licensing round | Did not exist; no proposal for a new licensing round appears in the base at 2025-08-01 | [The ICT minister told Parliament that additional operator licences were under consideration, and that the President had authorised the ministry to identify an investor able to roll out a network without delay; no bid timetable, licence terms or spectrum allocation is stated. The minister conceded that foreign-exchange shortages constrain incumbents' equipment imports and that earlier licensees who took spectrum without launching had licences revoked, ending in litigation](https://www.nyasatimes.com/malawi-seeks-new-mobile-operators-to-boost-competition-after-tariff-backlash/) | Advanced |
 | Airtel Malawi satellite connectivity plan | Did not exist; no operator satellite position appears in the base at 2025-08-01 | [Interest signalled in satellite connectivity to complement terrestrial networks in hard-to-reach areas and improve resilience; no partner, licence, capital allocation or timetable is stated](https://techafricanews.com/2026/05/22/airtel-malawi-eyes-satellite-connectivity-as-it-boosts-network-expansion-strategy/) | Advanced |
@@ -56,7 +139,7 @@ Against those, the Data Protection Act's twenty-four-month exemption elapsed in 
 
 ### Data Storage
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Boma Lathu National Data Exchange Platform | Delivered as a data-exchange platform under the foundations project alongside a new national data centre; government institutions still shared citizen data by email, USB and paper | [In use by the revenue authority and the registration bureau, hosted on locally managed servers, with 25 e-services being onboarded and the immigration department integrating while retaining data ownership](https://www.worldbank.org/en/results/2025/06/23/digitalizing-afe-malawi-to-improve-access-to-education-public-services-and-income-opportunities) | Advanced |
 | Commercial data centre, Lilongwe | Did not exist; commercial local hosting capacity is not recorded in the base at 2025-08-01 | [In operation offering commercial local hosting, positioned against the foreign-currency cost and data-ownership exposure of offshore hosting and welcomed by the e-government department; capacity, tier and pricing not stated](https://malawi24.com/2026/05/01/sparc-moves-to-end-malawis-reliance-on-offshore-data/) | Advanced |
@@ -67,27 +150,27 @@ Against those, the Data Protection Act's twenty-four-month exemption elapsed in 
 
 ### Energy
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Solar-powered coverage extension | Did not exist; no solar or off-grid network-power position appears in the base at 2025-08-01 | [The chief executive stated the operator covers 85% of the population and is working to reach the remaining 15% through cost-effective technologies including solar-powered infrastructure; no site count, capital allocation, target date or partner is stated, and foreign-exchange shortages were named as the operator's biggest challenge](https://times.mw/tnm-turns-30-sets-ambitious-plans/) | Advanced |
 | Electricity tariff increase cited in the 2026 operator tariff applications | No electricity price figure held at 2025-08-01 | [An 8% rise in electricity tariffs, alongside a roughly 144% rise in fuel prices, cited by both mobile operators in support of an average 55% tariff increase application; the regulator approved 22.2% for one and 26% for the other](https://www.nyasatimes.com/malawi-seeks-new-mobile-operators-to-boost-competition-after-tariff-backlash/) | ***Baseline not held*** |
 
 ### Technical Capacity
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Artificial intelligence laboratories and innovation hubs | Did not exist; no operator AI laboratory or innovation hub appears in the base at 2025-08-01 | [Announced by the chief executive for establishment in 2026, to let Malawians build AI-driven services; no site, budget, partner or opening date is stated, and nothing on record shows one has opened at 2026-08-06](https://times.mw/tnm-turns-30-sets-ambitious-plans/) | Advanced |
 | Malawi Research and Education Network | Over 83,000 students across 81 institutions gained cheaper connectivity through the network under the foundations project | [Unchanged; the base holds no institutional membership, bandwidth, governance or funding position after project close, and the acceleration project's school and office targets are not described as running through it](https://www.worldbank.org/en/results/2025/06/23/digitalizing-afe-malawi-to-improve-access-to-education-public-services-and-income-opportunities) | No change |
 
 ### Cybersecurity
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | World Bank cybersecurity and data-protection technical assistance | The foundations project's technical assistance ended with that project's closure in October 2024; no successor cybersecurity assistance appears in the base at 2025-08-01 | [A delegation team leader outlined technical assistance and capacity building covering critical-infrastructure security, legal and regulatory frameworks, data-protection systems and regional cybersecurity capability; no amount, financing instrument, duration or workplan is stated](https://techafricanews.com/2026/03/26/malawi-secures-world-bank-backing-to-strengthen-cybersecurity-and-data-protection-frameworks/) | Advanced |
 | Chinese safe-city surveillance package offer | Malawi is the only one of the five countries studied - with Nigeria, Ghana, Morocco and Zambia - to have rejected the safe-city surveillance package offered by Chinese companies | [Unchanged; the base holds no later statement, and no account of who rejected it, when, or on what grounds](https://www.ids.ac.uk/news/african-nations-spending-1bn-a-year-on-harmful-surveillance-of-citizens/) | No change |
 | Malawi Computer Emergency Response Team | The base carries no statement of the team's existence, mandate or activity at 2025-08-01 | [Operating within the regulator, which states an intention to establish it, alongside the data protection authority, as an independent institution with World Bank technical assistance; no establishing instrument, timetable, budget, staffing or incident statistics are held](https://techafricanews.com/2026/03/26/malawi-secures-world-bank-backing-to-strengthen-cybersecurity-and-data-protection-frameworks/) | ***Baseline not held*** |
 
-<!-- narrative: infrastructure -->
+<!-- narrative: ict-infrastructure -->
 The largest infrastructure movement of the period was procurement rather than construction. In March 2026 the regulator was advancing procurement for more than 90 towers, against a requirement of more than 1,000 cited at the same meeting, and its Director General stated that universal service fund resources remain insufficient ([procurement briefing](https://techafricanews.com/2026/03/26/malawi-moves-to-expand-rural-connectivity-with-90-new-telecom-towers/)). The tower line does not appear in the project's own appraisal document ([appraisal document](https://documents1.worldbank.org/curated/en/099050524041520240/txt/P5050951dae66d0e1bc631717e7e7a4e70.txt)) — a divergence between appraised design and delivered activity the base cannot document.
 
 Regulatory enforcement began where it had not existed. The tariff-notice requirement carried no record of enforcement at the start of the period; in July 2026 the regulator found both mobile operators in breach and ordered compensation ([regulator order](https://techafricanews.com/2026/07/17/macra-orders-airtel-malawi-and-tnm-to-compensate-customers-over-tariff-notice-breach/)). No proposal for a new operator licensing round existed a year ago, and by 24 July 2026 the President had authorised the ministry to identify an investor ([parliamentary account](https://www.nyasatimes.com/malawi-seeks-new-mobile-operators-to-boost-competition-after-tariff-backlash/)).
@@ -95,11 +178,11 @@ Regulatory enforcement began where it had not existed. The tariff-notice require
 Satellite connectivity went from an enabling capability to a deployment: at the start of the period the base recorded only that technical assistance had prepared the regulator to enable low-earth-orbit services, and by June 2026 30 rural schools were connected ([company announcement](https://technomag.co.zw/starlink-connects-100000-students-and-1500-teachers-in-rural-malawi/)).
 <!-- /narrative -->
 
-## Digital public infrastructure
+## DPI
 
 ### Data Exchange
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Customs IT connectivity arrangement with South Africa | Legal basis only: a customs mutual administrative assistance agreement negotiated in 2019 on a 2010 memorandum of cooperation, with customs information exchanged manually | [An arrangement signed establishing a secure electronic platform for real-time customs data exchange, aligned to the World Customs Organisation data model, with both authorities agreeing to fast-track implementation; no go-live date, purpose-limitation, retention or reciprocity terms published; the South African revenue service notified the updated arrangement for automatic exchange of customs information on 7 August 2026 and published a draft rule amendment with it](https://www.freightnews.co.za/article/international-treaties-agreements-maas-on-customs-update) | Advanced |
 | Enterprise Service Bus | Not operationalised through 2025; the e-government department's failure to bring it into service left ministries siloed and denied online passport registration and driver's licence payments | [Nothing on file establishes it operating; industry voices in January 2026 were still pressing for all ministries, departments and agencies to be onboarded](https://times.mw/the-year-ict-sector-grappled-with-implementation-woes/) | No change |
@@ -107,7 +190,7 @@ Satellite connectivity went from an enabling capability to a deployment: at the 
 
 ### Digital Identity and CRVS
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Blockchain-enabled Digital ID Wallet | A digital ID wallet using artificial intelligence and blockchain cited as a plan by the registration bureau's principal secretary | [Built by UNDP Malawi with the UN International Computing Centre, in pilot before nationwide rollout, with credentials to extend to birth certificates, driving licences and marriage certificates; no pilot scale, rollout date or cost stated, and nothing on how the arrangement sits under the Data Protection Act 2024](https://www.biometricupdate.com/202505/malawi-nears-full-scale-digital-id-rollout-to-streamline-access-to-services) | Advanced |
 | Electoral management devices and the electronic voter register | The voter register held electronically; the electoral commission refused an observer coalition electronic access to the roll on 2025-06-05, citing the elections statute | [6,500 electoral management devices deployed for voter verification at the 2025-09-16 elections, with offline glitches reported at rural polling stations](https://africabrief.substack.com/p/mec-rejects-observer-coalitions-electronic) | Advanced, offline failures recorded |
@@ -119,7 +202,7 @@ Satellite connectivity went from an enabling capability to a deployment: at the 
 
 ### Digital Payments and Fintech
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Central bank banknote replacement cost | MWK 50.6bn spent replacing worn banknotes (2025 actual) | [MWK 69.8bn expected in 2026, about 38% higher; an economists' association president named government levies on digital money transfers as a reason cash use persists](https://malawi24.com/2026/07/25/cash-habit-puts-pressure-on-malawis-currency-system/) | Regressed |
 | Mobile money integration with the agricultural marketing corporation | Did not exist at 2025-08-01 | [Mobile money integrated into the corporation's operations so farmers are paid directly into mobile wallets and customers pay electronically for commodities across its national market and depot network; no volume, value or farmer count is held](https://itweb.africa/article/airtel-digitises-malawian-farmer-payments/JN1gPvOAE4DMjL6m) | Advanced |
@@ -131,18 +214,18 @@ Satellite connectivity went from an enabling capability to a deployment: at the 
 | National Switch | Operating since 2015, linking banks, mobile money platforms and ATMs, with an instant bank transfer service live on the switch from 2025-06-17, real-time to any Malawian bank up to MWK 500m by short code | [Same rails; an aggregator added small-business tools including interfaces, e-commerce plugins and payment links](https://malawi24.com/2025/06/17/paychangu-centenary-bank-launch-instant-bank-transfer-to-transform-business-payments-in-malawi/) | No change |
 | National e-Payment Gateway | No position held at 2025-08-01 | [Designed as the single entry point for all government collections, supported by a financial inclusion project and the World Bank, and described as a breakthrough in 2025 despite integration hurdles; no live date, transaction figure or agency coverage stated](https://times.mw/the-year-ict-sector-grappled-with-implementation-woes/) | ***Baseline not held*** |
 
-### Registries (population, land, address, etc.)
+### Registries
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | National Birth Registration Campaign | Did not exist; birth registration ran under the National Registration Act with no dedicated campaign on record | [Seven phases across 25 districts using government primary schools as registration centres, targeting about 4.6m unregistered children; MWK 17.8bn required, MWK 5.4bn allocated in FY2025/26 for phases 1 and 2, MWK 12.4bn outstanding](https://malawi24.com/2026/01/16/k17-8bn-push-to-register-4-6-million-children/) | Advanced |
 | Rental income tax property registration drive | Did not exist; announced February 2026, starting in the three main cities with data collectors recruited | [About 8,000 landlords registered for rental income tax, with property-registration exercises running across low- and high-density areas](https://malawi24.com/2026/02/11/mra-clarifies-electronic-invoicing-system-rental-income-tax-amid-public-skepticism/) | Advanced |
 | Land Information Management System | A web-based system live since February 2024 linking lands, surveys and physical planning, allowing parcel viewing, document submission, notifications and payment of ground rent and application fees; the scope of remaining manual transactions is not published | [The ministry reviewing electronic workflows and designing digital procedures for transactions still on paper; which transactions remain manual, when revised workflows will be implemented and current processing times all remain unpublished](https://itweb.africa/article/malawi-reviews-digital-land-workflows/rW1xLv5ngAp7Rk6m) | No change |
 | National Addressing System Project | A regulator-coordinated multi-stakeholder programme to give every property a physical address, spanning a national postcode system, addressing standards, an address database, physical infrastructure and geographic information systems; no completion date, no delivery figure | [Same; nothing dated after 2024-02-12 is held, so the position is carried forward rather than re-established](https://macra.mw/national-addressing-project/) | No change |
 
-### Sectoral management information systems (HMIS, EMIS, etc.)
+### Sectoral management information systems
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Automated human resource and payroll management platform | Did not exist; no government human-resource or payroll system appears in the base at 2025-08-01 | [In pilot before rollout across all ministries, departments, agencies, Parliament, the Judiciary and local councils; no supplier, cost, pilot scale or rollout date is stated, and nothing is stated on how personnel and payroll data is handled under the Data Protection Act 2024](https://itweb.africa/article/malawi-drafts-ai-bill-to-govern-public-sector-tech/PmxVE7KEOnpqQY85) | Advanced |
 | Electronic Invoicing System | Established by the Commissioner General under the amended value added tax statute and announced by public notice on 2025-07-31, with migration off electronic fiscal devices required from 2025-08-02; no registered base published | [Regulations published 2026-01-09, the transition period ended 2026-01-31 after which prior-device invoices no longer support input tax claims, and full enforcement with penalties from 2026-05-01 after the authority rescheduled the rollout](https://www.mra.mw/admin/storage/download_files/1769007736_003%20TRANSITION%20FROM%20ELECTRONIC%20FISCAL%20DEVICES%20TO%20THE%20ELECTRONIC%20INVOICING%20SYSTEM.pdf) | Advanced, enforcement rescheduled |
@@ -154,37 +237,12 @@ Satellite connectivity went from an enabling capability to a deployment: at the 
 
 ### Other GovTech and e-Gov
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Malawi National Electronic Procurement System | Phase 1 of an e-procurement system built under the foundations project, with the procurement authority running electronic procurement under a results-based programme; use not mandatory | [Mandatory nationwide from 2026-04-01 under a March 2026 government directive covering all public entities, with remote submission and registration](https://www.ppda.mw/newsdetail/19) | Advanced |
 | New passport issuance system | A US$29.9m contract awarded in January 2025; transition troubled and a backlog of over 100,000 applications | [Printing resumed at Mangochi; a member told the House that applicants who filed nine months to a year earlier are being overtaken by same-day issuances, holding over 30 unfulfilled receipts](https://times.mw/the-year-ict-sector-grappled-with-implementation-woes/) | Advanced, printing capacity restored |
 | Passport queue transparency and tracking features | Did not exist; passport registration was not available online, with services siloed behind a non-operational service bus | [A sequence number assigned at application and payment accepted in principle by the homeland security minister and referred to the e-government programme, with SMS notification, an online portal and messaging integration stated to follow once the new passport system stabilises; no implementation date, cost or instrument stated](https://times.mw/the-year-ict-sector-grappled-with-implementation-woes/) | Advanced, announced only |
 | Electronic Auctions Platform | ***Baseline not held*** | [A web-based system being scoped to replace paper government auctions, carrying electronic bid submission, automated bid ranking, bidder anonymity and digital publication of results](https://itweb.africa/article/malawi-digitises-public-auction-platform/KPNG8v8NLm1M4mwD) | ***Baseline not held*** |
-
-### Rural digital data capture
-
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
-|---|---|---|---|
-| University AI fertigation facility, Thyolo | Did not exist at 2025-08-01 | [The Malawi University of Science and Technology commissioned an AI-powered fertigation system automating irrigation and fertiliser application from real-time crop-growth data at its Thyolo campus, with an AI-assisted smart tree nursery, under a continental agricultural-universities programme](https://itweb.africa/article/malawi-university-deploys-ai-fertigation-technology/dgp45vaB8W57X9l8) | Advanced |
-| National Agricultural Data Infrastructure | A multi-stakeholder dialogue on national data infrastructure for climate decision-making held in Malawi in September 2023, drawing conclusions on digitising paper records, standardising collection and embedding interoperability; nothing built | [Farmers across 14 districts still use non-interoperable platforms - the meteorological department's, an agricultural NGO's, the government farm input subsidy programme's and a commodity exchange's - logging into each separately; the harmonising framework remains a proposal and a farmer-ID layer on the national register remains an argument, not a system](https://developmentgateway.org/blog/unlocking-the-potential-of-digital-public-infrastructure-for-climate-data-and-agriculture-malawi/) | No change |
-
-### Digitalisation of sub-national government
-
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
-|---|---|---|---|
-| Blantyre City Council digital revenue collection | Did not exist at 2025-08-01 | [The council partnered a commercial bank to digitise revenue and tax collection and let residents pay for council services electronically, under the acceleration project; the council plans to introduce the systems, and no go-live date or collection figure is held](https://itweb.africa/article/malawis-second-city-digitises-tax-collection/GxwQDq1DYWeMlPVo) | Advanced |
-| Constituency Development Fund real-time dashboard | Did not exist at 2025-08-01 | [A public real-time platform for tracking constituency project implementation and fund spending nationally, launched by the local government ministry (Minister Ben Phiri, 2026-07-31), which states it carries project progress, budgets and locations for more than 2,000 development projects and asks citizens to raise concerns about council implementation through channels on the platform; the Minister of Lands told Parliament on 2026-08-03 that citizens would get real-time data on project status, spending patterns and contractor performance; the launching minister named the President, the Minister of Finance, the Minister of Information and the Office of the President and Cabinet as having real-time access; the same minister stated the platform's currency depends on councils uploading project information manually, warning there would be no excuse for late uploading; no platform address is established in anything held, so none of it can be inspected from the wiki](https://www.nyasatimes.com/ben-phiri-unveils-malawis-real-time-cdf-dashboard-as-minister-flags-erosion-of-trust-risk-in-councils/) | Advanced |
-| Councils receiving clean audit opinions | 22 councils in 2023/24 | [18 councils in 2024/25, with one district council receiving an adverse opinion](https://www.nyasatimes.com/ben-phiri-unveils-malawis-real-time-cdf-dashboard-as-minister-flags-erosion-of-trust-risk-in-councils/) | Regressed |
-| Governance to Enable Service Delivery Project 2.0 | The predecessor project running across 28 councils; no successor approved | [An SDR 58.2m grant, about US$80m equivalent, board-approved 2026-04-24, signed 2026-06-19 and ratified 2026-07-29, closing 2031-06-30, covering 32 councils with four entering for the first time; a US$12.8m subcomponent funds business-process re-engineering, software and hardware assessments and a performance dashboard](https://documents.worldbank.org/curated/en/099040626213814853/pdf/BOSIB-7cdb769f-9fbc-4059-9cfb-0c929fa07d24.pdf) | Advanced |
-| Local Authorities ICT Policy and ICT standards | Did not exist; councils operated with no framework beyond the 2023 national digitalisation policy, a 2022 situational analysis having found weak ICT support, absent council projects and ICT excluded from procurement | [The first dedicated local-authority ICT policy plus ICT standards validated, with the local government finance committee and the e-government department sensitising councils to prepare for implementation and adoption; no adoption date held](https://malawi24.com/2026/05/20/nlgfc-e-government-sensitizes-dowa-council-on-harmonized-ict-policy/) | Advanced |
-| Local Authority Performance Assessment | In use setting performance-based-grant eligibility for district councils | [2025/26 results announced, with improvement in the annual score a project development objective indicator under the successor project; 27 of 28 district councils qualified for performance-based grants](https://documents.worldbank.org/curated/en/099040626213814853/pdf/BOSIB-7cdb769f-9fbc-4059-9cfb-0c929fa07d24.pdf) | No change |
-
-### National statistics
-
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
-|---|---|---|---|
-| National Payments System Report series | Quarterly and annual series in publication, with the 2024 annual report reported 2025-04-16 | [Series continuing, with a Q2 2025 report reported 2025-11-18 and the 2025 annual report published 2026-03-30](https://times.mw/national-payment-system-registers-growth-in-2024-quarter-3) | No change |
-| Fourth National ICT Survey | ***Baseline not held*** | [In the field across all districts, including the refugee camp at Dzaleka, covering 12,000 households on mobile and computer ownership, internet access, digital financial services, e-commerce and cybersecurity awareness, with the recruitment of its field staff publicly questioned](https://malawi24.com/2026/08/19/nso-macra-face-questions-over-ict-survey-jobs/) | ***Baseline not held*** |
 
 <!-- narrative: dpi -->
 Identity coverage advanced steadily and its governing statute did not. Adult holdings rose from 12.5 million in May 2025 to more than 13.5 million ([registration bureau](https://www.biometricupdate.com/202607/malawi-reaches-13-5m-digital-ids-as-universal-coverage-comes-into-view)), and the mobile credential moved from a successfully piloted wallet with no name or launch month to a named product scheduled for September 2026 ([registration bureau](https://itweb.africa/article/malawi-to-unveil-digital-ids-in-september/P3gQ2MGAZaAvnRD1)). Birth registration went the other way: a dedicated campaign did not exist a year ago and now runs across seven phases in 25 districts, but of the MWK 17.8bn required only MWK 5.4bn was allocated ([ministerial figures](https://malawi24.com/2026/01/16/k17-8bn-push-to-register-4-6-million-children/)).
@@ -196,92 +254,55 @@ Data exchange advanced in use and not in rules. The exchange platform went from 
 Payments grew fast on one measure and not on the one that matters for displacing cash: transaction value rose 94% to MWK 37.9tn, while merchant payments moved only from 6.9% to 7.7% of transactions ([central bank report](https://times.mw/k38tn-transacted-via-mobile-money/)).
 <!-- /narrative -->
 
-## Governance and regulation
+## Digitalisation
 
-### Legislation and regulation
+### Digitalisation of sub-national government
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
-| AI Bill | Did not exist; no artificial-intelligence statute or bill appears in the base at 2025-08-01 | [Announced as the statutory backing for the National AI Strategy, to establish a regulatory framework promoting innovation while safeguarding citizen privacy and ensuring operational accountability; the ICT minister put the target for reaching parliament at before December 2026, with the strategy to ground the law, and restated the intention to legislate in August 2026. No draft text is stated and the strategy own text is not held](https://times.mw/government-eyes-ai-laws-amid-push-for-innovation/) | Advanced |
-| Data Protection Act 2024 | In force since 2024-06-03, with the regulator designated data protection authority; the statute exempted controllers and processors not of significant importance from compliance for 24 months from commencement, so most of the economy was outside the Act's obligations | [In force, with the general exemption elapsed in early June 2026 so that all controllers and processors are within scope; subsidiary instruments to operate registration and enforcement were still in draft at 2026-08-06](https://www.mca.ac.mw/mca-siteup/uploads/Data%20Protection%20Act%202024.pdf) | Advanced, grace period elapsed |
-| Financial Crimes (Amendment) Bill No. 19 of 2026 | Did not exist; the base carries no bill or amendment on cheques or bearer negotiable instruments at 2025-08-01 | [Passed by Parliament removing all references to cheques and bearer negotiable instruments from the principal Act, as one of four bills passed together: amendments to the Financial Crimes, Payment Systems and Deposit Insurance Corporation Acts following the Bills of Exchange (Amendment) Bill that effects the cheque phase-out. Assent, gazette date and commencement are not published, and the safeguarding regulations the finance minister promised are not drafted](https://malawi24.com/2026/08/07/mps-hailed-for-fast-tracking-digital-finance-reforms/) | Advanced |
-| Government Data Sharing Regulation | Did not exist; the national data-exchange platform operated without binding rules and ministries, departments and agencies shared citizen data by email, USB drive and paper | [A proposed regulation would route all data requests through the national data centre, require encryption in transit and at rest, set a common digital standard for system-to-system exchange, and require binding data sharing agreements with usage limits and audit trails; it is not made, and no draft text is held](https://itweb.africa/article/malawi-devises-operational-rules-for-national-data-exchange-platform/xnklOvz1R2bq4Ymz) | Advanced |
-| Review of the National Registration Act | The base carries no statement on the Act's status or on any review of it | [An acceleration-project consultative meeting has reviewed the National Registration Act and the marriage and family relations statute, with the registration bureau stating the aim is to support a modern and secure civil registration and identification system; no bill, draft or timetable is on record](https://cajnewsafrica.com/2026/07/13/malawi-outlines-plans-to-transition-to-digital-ids/) | ***Baseline not held*** |
+| Blantyre City Council digital revenue collection | Did not exist at 2025-08-01 | [The council partnered a commercial bank to digitise revenue and tax collection and let residents pay for council services electronically, under the acceleration project; the council plans to introduce the systems, and no go-live date or collection figure is held](https://itweb.africa/article/malawis-second-city-digitises-tax-collection/GxwQDq1DYWeMlPVo) | Advanced |
+| Constituency Development Fund real-time dashboard | Did not exist at 2025-08-01 | [A public real-time platform for tracking constituency project implementation and fund spending nationally, launched by the local government ministry (Minister Ben Phiri, 2026-07-31), which states it carries project progress, budgets and locations for more than 2,000 development projects and asks citizens to raise concerns about council implementation through channels on the platform; the Minister of Lands told Parliament on 2026-08-03 that citizens would get real-time data on project status, spending patterns and contractor performance; the launching minister named the President, the Minister of Finance, the Minister of Information and the Office of the President and Cabinet as having real-time access; the same minister stated the platform's currency depends on councils uploading project information manually, warning there would be no excuse for late uploading; no platform address is established in anything held, so none of it can be inspected from the wiki](https://www.nyasatimes.com/ben-phiri-unveils-malawis-real-time-cdf-dashboard-as-minister-flags-erosion-of-trust-risk-in-councils/) | Advanced |
+| Councils receiving clean audit opinions | 22 councils in 2023/24 | [18 councils in 2024/25, with one district council receiving an adverse opinion](https://www.nyasatimes.com/ben-phiri-unveils-malawis-real-time-cdf-dashboard-as-minister-flags-erosion-of-trust-risk-in-councils/) | Regressed |
+| Governance to Enable Service Delivery Project 2.0 | The predecessor project running across 28 councils; no successor approved | [An SDR 58.2m grant, about US$80m equivalent, board-approved 2026-04-24, signed 2026-06-19 and ratified 2026-07-29, closing 2031-06-30, covering 32 councils with four entering for the first time; a US$12.8m subcomponent funds business-process re-engineering, software and hardware assessments and a performance dashboard](https://documents.worldbank.org/curated/en/099040626213814853/pdf/BOSIB-7cdb769f-9fbc-4059-9cfb-0c929fa07d24.pdf) | Advanced |
+| Local Authorities ICT Policy and ICT standards | Did not exist; councils operated with no framework beyond the 2023 national digitalisation policy, a 2022 situational analysis having found weak ICT support, absent council projects and ICT excluded from procurement | [The first dedicated local-authority ICT policy plus ICT standards validated, with the local government finance committee and the e-government department sensitising councils to prepare for implementation and adoption; no adoption date held](https://malawi24.com/2026/05/20/nlgfc-e-government-sensitizes-dowa-council-on-harmonized-ict-policy/) | Advanced |
+| Local Authority Performance Assessment | In use setting performance-based-grant eligibility for district councils | [2025/26 results announced, with improvement in the annual score a project development objective indicator under the successor project; 27 of 28 district councils qualified for performance-based grants](https://documents.worldbank.org/curated/en/099040626213814853/pdf/BOSIB-7cdb769f-9fbc-4059-9cfb-0c929fa07d24.pdf) | No change |
 
-### Strategies, plans and policies
+### Rural digital data capture
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
-| Draft National Artificial Intelligence Strategy | Did not exist; regional consultative workshops to develop Malawi's first National AI Strategy were launched in September 2025, after the window opened | [A draft has been through a two-day validation workshop in Lilongwe and a citizen-feedback portal, and a UNESCO readiness assessment report was validated on 2026-07-22 to guide it; the strategy is pre-adoption, with no adoption date on record](https://itweb.africa/article/malawi-initiates-dialogue-on-ai-strategy/WnpNgq21aa2MVrGd) | Advanced |
-| Draft National Digital Transformation Strategy | Did not exist; regional consultative workshops to develop it began in September 2025 alongside the AI strategy | [A draft is in validation and pre-adoption, intended to align with the national development vision and the national digitisation policy; no adoption date is on record at 2026-08-06](https://itweb.africa/article/malawi-initiates-dialogue-on-ai-strategy/WnpNgq21aa2MVrGd) | Advanced |
-| Presidential directive on digitalisation of public services | Did not exist as a directive at 2025-08-01 | [The President directed all ministries, departments and agencies to digitalise passports, national ID cards, driver's licences and public procurement forthwith, against a target of 80% internet usage by 2026; no baseline is given against which that target could be assessed](https://itweb.africa/article/malawi-president-orders-digital-revolution/kYbe9MXbob9vAWpG) | Advanced |
-| Malawi Digitalisation Policy 2023-28 | Adopted and in force, with government services still siloed: the service bus intended to let ministries exchange data was not operational through 2025, leaving passport registration and driver's licence payments unavailable online | [Still in force and still the reference framework, with the e-government department under pressure to onboard all ministries, departments and agencies onto the service bus; an industry association set a mid-2026 expectation that driver's licence renewals and national ID applications would be fully online, and nothing on file records that being met](https://times.mw/the-year-ict-sector-grappled-with-implementation-woes/) | No change |
-| Relief on the internet surtax and smartphone value-added tax | Did not exist | [The ICT minister called for scrapping the 10% surtax on internet services and reviewing the 17.5% value-added tax on smartphones to make digital access affordable, setting a target of raising mobile internet usage from 12.5% to at least 30% by 2030. No budget measure, bill or instrument is on record](https://www.itweb.africa/article/malawi-targets-smartphone-tax-relief/mQwkoq6Y9DpM3r9A) | ***Baseline not held*** |
+| University AI fertigation facility, Thyolo | Did not exist at 2025-08-01 | [The Malawi University of Science and Technology commissioned an AI-powered fertigation system automating irrigation and fertiliser application from real-time crop-growth data at its Thyolo campus, with an AI-assisted smart tree nursery, under a continental agricultural-universities programme](https://itweb.africa/article/malawi-university-deploys-ai-fertigation-technology/dgp45vaB8W57X9l8) | Advanced |
+| National Agricultural Data Infrastructure | A multi-stakeholder dialogue on national data infrastructure for climate decision-making held in Malawi in September 2023, drawing conclusions on digitising paper records, standardising collection and embedding interoperability; nothing built | [Farmers across 14 districts still use non-interoperable platforms - the meteorological department's, an agricultural NGO's, the government farm input subsidy programme's and a commodity exchange's - logging into each separately; the harmonising framework remains a proposal and a farmer-ID layer on the national register remains an argument, not a system](https://developmentgateway.org/blog/unlocking-the-potential-of-digital-public-infrastructure-for-climate-data-and-agriculture-malawi/) | No change |
 
-### Regional collaboration
+<!-- narrative: digitalisation -->
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
-|---|---|---|---|
-| Lilongwe Declaration on Collaborative Regulation | Did not exist | [Adopted; anchors to the international regulatory maturity framework, sets six shared principles and seven areas of collaborative action, and treats artificial intelligence, satellite, digital platforms and next-generation networks as one emerging-technology frontier](https://researchictafrica.net/2026/05/04/how-do-we-move-the-crasa-summits-commitment-to-collaborative-regulation-from-intent-to-evidence-led-action/) | Advanced |
-| COMESA regional AI investment priorities | Baseline not held | [Proposed: agriculture, healthcare, climate resilience, education, financial services and regional trade named as AI investment priorities for the bloc](https://itweb.africa/article/malawi-urges-comesa-to-target-ai-investments/Pero3MZ3JjeqQb6m) | ***Baseline not held*** |
-| Regulator collaboration with UNDP on AI, digital identity and data protection | The base carries no statement of a regulator position on artificial intelligence or digital identity | [Exploratory, with priorities named as national identity integration with SIM verification, responsible artificial intelligence, stronger data protection and secondary-school digital skills drawing on the universal service fund; no memorandum, funding figure or timetable is stated](https://itweb.africa/article/malawi-explores-ai-digital-ids-collaboration/nWJadMbNlybMbjO1) | ***Baseline not held*** |
-| SADC Regional AI Strategy and Regulatory Framework | The base carries no position on a regional AI framework at 2025-08-01 | [Under development, not adopted or published; no draft, adoption date or document title beyond the name](https://itweb.africa/article/southern-africa-advances-ai-governance/Gb3Bw7Wadmkq2k6V) | ***Baseline not held*** |
-
-### Standards
-
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
-|---|---|---|---|
-| Copyright society rule on wholly AI-generated works | Did not exist; no rule on the registration of, or royalties for, AI-generated works is on record | [The statutory copyright body will not register works created entirely by artificial intelligence or distribute royalties on them; the rule is known only as reported, with no test stated for how much AI assistance is admissible](https://malawi24.com/2026/07/23/malawi-draws-the-line-on-ai-music/) | Advanced |
-| Blank media levy distribution methodology | No position held at 2025-08-01 | [Distribution rests entirely on records submitted by licensed disc-burning centres of songs customers ask to have copied, not on digital consumption; of roughly MWK 3bn collected in 2026, about MWK 1.44bn, some 48%, reaches rights holders, and tax reconciliation against a rights holder's taxpayer number is not automatic](https://malawi24.com/2026/08/04/ignoring-streaming-boom-cosoma-still-relies-on-cd-burning-data-for-royalty-payouts/) | ***Baseline not held*** |
-
-### Data protection
-
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
-|---|---|---|---|
-| Data Protection Authority within the regulator | Designated under the Act but not stood up; the government was tendering advisory and technical consultancy to produce the unit's organogram and governance charter, staffing, operations manual, monitoring and enforcement framework, and a business plan targeting cost recovery within five years | [Operating as a unit inside the regulator with a named head of data protection and a stated implementation framework; no organogram, enforcement record or registration data is published](https://ppda.mw/storage/documents/opentenders/ToRs%20OPERATIONALIZATION_OF_THE_DATA_PROTECTION_Act.pdf) | Advanced |
-| Draft Data Protection Regulations, Guidelines and Registration Fees | No subsidiary data-protection instruments were made; drafting of regulations, codes of practice, guidelines, a priced service list and a scale of fines was still out to tender under an acceleration-project consultancy in October 2025 | [The regulator has published draft regulations, guidelines and a turnover-based registration fee schedule ranging from MWK 50,000 for small and medium enterprises to MWK 7 million for the largest controllers and processors of significant importance, and consulted stakeholders before finalisation; no commencement date is on record](https://itweb.africa/article/malawi-advances-data-protection-framework/xnklOvz14wkq4Ymz) | Advanced |
-| Separation of the data protection authority and the emergency response team from the regulator | Both bodies sat inside the regulator under the Data Protection Act; no separation plan is on record | [The regulator states it intends to establish both as independent institutions, with World Bank technical assistance and capacity building; no legislative vehicle, timetable or funding model is on record](https://techafricanews.com/2026/03/26/malawi-secures-world-bank-backing-to-strengthen-cybersecurity-and-data-protection-frameworks/) | Advanced |
-
-### Open data
-
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
-|---|---|---|---|
-| Malawi Low Resource Language Data Trust | Did not exist; no Chichewa language dataset or data trust is on record | [A government initiative assembling licensed Chichewa language content as artificial-intelligence training data and developing core frameworks, supported by the World Bank and the Gates Foundation; no dataset, licence terms, governance structure or release is published](https://techafricanews.com/2026/06/24/malawi-launches-chichewa-ai-initiative-to-drive-digital-inclusion-and-innovation/) | Advanced |
-| Machine-readable access to the electronic voter register | The electoral commission had refused an observer coalition's request for analysable electronic copies of the 2025 and prior voter rolls, holding that the elections statute limits inspection to verification of entries at registration centres and regional offices | [The same position stands; nothing held records a later request, appeal or change of practice, including after the 2025-09-16 elections](https://africabrief.substack.com/p/mec-rejects-observer-coalitions-electronic) | No change |
-
-<!-- narrative: governance -->
-The governing position for personal data changed in scope without changing in enforcement. At the start of the period the Data Protection Act 2024 had been in force for fourteen months with its exemption still running and no subsidiary instrument made; in October 2025 the government was tendering consultancy to design the authority's structure and enforcement framework ([terms of reference](https://ppda.mw/storage/documents/opentenders/ToRs%20OPERATIONALIZATION_OF_THE_DATA_PROTECTION_Act.pdf)). By July 2026 the exemption had elapsed, a head of data protection had been named, and draft regulations with a turnover-based fee schedule were out to consultation ([consultation account](https://malawi24.com/2026/07/16/macra-targets-stronger-data-protection-compliance/)). No fine, order, breach notification, complaint or prosecution under the Act appears in the base at either end of the period.
-
-The rest of the section began the period as nothing and ended it as drafts. Both national strategies did not exist at the start; workshops began in September 2025 and both entered validation in February 2026, neither adopted. A government data-sharing regulation was proposed in June 2026 and not made ([ministry account](https://itweb.africa/article/malawi-devises-operational-rules-for-national-data-exchange-platform/xnklOvz1R2bq4Ymz)).
-
-Two positions did not move at all. The electoral commission's refusal of machine-readable access to the voter roll, made in June 2025, stands unchanged through the September 2025 elections and after. And the competition authority's July 2025 order requiring a mobile-money operator to open its exclusive e-ticketing platform to other providers within a year reached its deadline in July 2026 with nothing on file recording compliance.
 <!-- /narrative -->
 
-## Artificial intelligence and the technology sector
+## Technology
 
 ### AI
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | UNESCO AI Readiness Assessment report | Did not exist; the six-country regional pilot under which it was produced began in 2025 | [Assessment complete and validated, intended to guide the national AI strategy, with findings including gaps in policy, infrastructure, institutional capacity and education readiness, and 27.7% of the population online against household computer ownership of 4.2%](https://itweb.africa/article/malawi-moves-to-strengthen-ai-ecosystem/j5alr7QAwoV7pYQk) | Advanced |
 | Defence force cooperation with China on military AI and cybersecurity | The base carries no statement of a defence-force position on artificial intelligence or of the technology content of the China defence relationship | [The defence force intends to adopt artificial intelligence in military operations and to learn it from the Chinese army, in a relationship stated to extend past exchanges into specialised training, equipment supply and institutional development, with further equipment, capacity building and command-level training under discussion](https://times.mw/mdf-eyes-ai-warfare-as-china-expands-support/) | ***Baseline not held*** |
 
 ### ICT Industry
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | National Bank of Malawi and ICT Association Innovation Jam | An annual jam run under a six-year bank and association partnership, but no memorandum is on file before 2025-08-01 | [A three-year memorandum committing the bank to mentorship, incubation and technical support for innovators emerging from the annual event, with MWK 75,500,000 given to the 2025 edition held 19-22 November on an artificial-intelligence theme](https://malawi24.com/2025/11/19/k75-5-to-helpm-malawian-young-innovators-turn-ideas-into-thriving-solutions/) | Advanced |
 | ICT services exports | No figure held at 2025-08-01 | [Rose from about US$70m in 2020 to US$154m in 2023, cited by a private-sector managing director as evidence that ICT already earns foreign currency](https://malawi24.com/2026/06/06/malawis-ict-exports-soar-to-k270-billion-amid-forex-solutions/) | ***Baseline not held*** |
 
 ### Innovation ecosystem
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | PayChangu | Operating as a Lilongwe-based payment aggregator founded 2021, connecting mobile money, cards and bank transfers through a single integration | [Same position, with small-business tools stated as interfaces, e-commerce plugins, payment links, invoicing and analytics](https://www.wearetech.africa/en/fils-uk/solutions/malawian-fintech-paychangu-targets-sme-growth-with-unified-payment-infrastructure) | No change |
 | University innovation lab | An active UNDP grant of US$1,880,499 committed 2019 to equip the business and applied sciences university's innovation hub for ideation, prototyping, mentorship and incubation | [Same position; no dated update since the 2019 record, with the scheduled end year falling in 2026 and no closure or extension on file](https://open.undp.org/projects/00131461) | No change |
 | Unlocking Talent e-learning programme | Already closed; a grant of EUR 12,996,804 committed 2019 for tablet-based learning centres in primary schools and teacher training colleges | [Same position; no successor programme, evaluation or continuation is held](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=DE-1-201868173) | No change |
 
-<!-- narrative: ai-tech -->
+<!-- narrative: technology -->
 Malawi's artificial intelligence position was created inside this period and consists entirely of process. Nothing existed a year ago; consultative workshops began in September 2025, a draft strategy entered validation in February 2026, and a readiness assessment was validated on 22 July 2026 to guide it ([validation account](https://itweb.africa/article/malawi-moves-to-strengthen-ai-ecosystem/j5alr7QAwoV7pYQk)). No text has been adopted or published, and the assessment sits with the education ministry rather than the ICT ministry that owns the strategy.
 
 Two rules arrived ahead of the strategy that would frame them. A statutory copyright body decided it will not register wholly AI-generated works, on a date the base cannot establish. And the Defence Minister stated in July 2026 that the defence force intends to adopt artificial intelligence in military operations and learn it from the Chinese army, a subject on which no Malawian doctrine, oversight body or budget line exists.
@@ -289,30 +310,36 @@ Two rules arrived ahead of the strategy that would frame them. A statutory copyr
 The sector's financing position also moved from nothing to a proposal: a four-year US$180m roadmap presented in China in June 2026, with funding structure and timeline not made public ([ministry account](https://malawi24.com/2026/06/09/malawi-eyes-wider-digital-access-in-180m-huawei-ict-deal/)).
 <!-- /narrative -->
 
-## Inclusion and capacity
-
-### Digital divides
-
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
-|---|---|---|---|
-| School internet connectivity | No national school-connectivity measure before 2025-08-01; the nearest earlier statement is that over 83,000 students across 81 higher-education institutions gained cheaper connectivity through the research network | [85% of Malawi's 9,000 schools have limited or no internet access and about 900 have none at all, with lack of electricity and devices named as the main barriers; the World Bank is separately supporting connection of over 200 schools](https://malawi24.com/2026/04/17/malawi-schools-have-no-internet/) | ***Baseline not held*** |
-| Universal Service Fund | The base carries no statement of the fund's size, income, disbursement or projects before 2025-08-01 | [In operation and funded from the regulator's annual budget allocation, but the Director General stated that existing funding levels remain insufficient to meet the country's connectivity needs; a school connectivity project providing computer equipment runs under the fund, and secondary-school digital-skills work is stated to draw on it. No income, balance or disbursement figure is held for any year The regulator said on 2026-08-21 that it is evaluating Universal Service Fund mechanisms to subsidise consumer devices and to fund digital-literacy work, including a proposed one-tablet-one-student programme.](https://www.itweb.africa/article/malawi-targets-smartphone-tax-relief/mQwkoq6Y9DpM3r9A) | ***Baseline not held*** |
-
-### Access to services
-
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
-|---|---|---|---|
-| Internet penetration | Around 24 users per 100 inhabitants against an Eastern and Southern Africa regional average of 28 (appraisal, on a 2022 baseline); a separate 2024 account puts internet access at about 20% of citizens | [80% of Malawians offline despite 87% 4G population coverage, on an industry-association report (2026-08); no state measurement is held, against a presidential target of 80% internet usage by 2026](https://techafricanews.com/2026/08/20/gsma-malawi-digital-transformation-policy-action/) | ***Baseline not held*** |
+## Capacity
 
 ### Training and skills
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Airtel Nzeru Connect school programme | Running as Malawi's part of a corporate foundation and UNICEF partnership begun in 2021; the base holds no Malawi-specific school count before 2025-08-01 | [36 schools connected with a further nine scheduled in 2026, ICT laboratories equipped with smart televisions and tablets, 12 local e-learning sites zero-rated, and more than 32,000 learners and over 900 teachers benefiting directly](https://malawi24.com/2026/07/15/airtel-targets-more-malawi-schools-with-internet/) | Advanced |
 | Airtel Nzeru Fund STEM scholarships | Did not exist | [A corporate foundation funds 25 undergraduates from low-income households at the science and technology university, covering tuition, stipend, accommodation, data and a portable Wi-Fi device; the first 25 beneficiaries were named on 18 August 2026, drawn from 17 districts and taking eight programmes including computer systems, cyber security, sustainable energy engineering and metallurgy](https://techafricanews.com/2026/08/18/airtel-malawi-awards-first-25-tech-scholarships-to-students-across-17-districts/) | Advanced |
 | Data Protection Authority operationalisation consultancy | Did not exist; the base carries no tender, appointment or design work for the authority's structure before 2025-08-01 | [A World Bank-financed consultancy tendered under the acceleration project to design the authority's organisational structure, governance framework, roles and competencies; no award, consultant or completion date is on file at 2026-08-06](https://ppda.mw/storage/documents/opentenders/ToRs%20OPERATIONALIZATION_OF_THE_DATA_PROTECTION_Act.pdf) | Advanced |
 | Digital skills trained under the foundations project | Over 19,000 young people, 10,000 of them female, trained in digital skills through 10 technology hubs over 2017 to 2024 | [Unchanged; no successor training count is published, and the acceleration project's own training indicators are not reported in the base](https://www.worldbank.org/en/results/2025/06/23/digitalizing-afe-malawi-to-improve-access-to-education-public-services-and-income-opportunities) | No change |
 | AI and Digital Solutions Lab | Not held | [A second edition run in Mzuzu training 24 entrepreneurs from Nkhotakota, Rumphi, Karonga and Mzuzu in artificial-intelligence and digital tools for marketing, customer engagement and financial management, under German development cooperation and European Union programmes on young businesses and rural employment](https://techafricanews.com/2026/08/17/giz-malawi-trains-24-entrepreneurs-in-ai-and-digital-skills-in-mzuzu/) | ***Baseline not held*** |
+
+<!-- narrative: capacity -->
+
+<!-- /narrative -->
+
+## Inclusion
+
+### Access to services
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| Internet penetration | Around 24 users per 100 inhabitants against an Eastern and Southern Africa regional average of 28 (appraisal, on a 2022 baseline); a separate 2024 account puts internet access at about 20% of citizens | [80% of Malawians offline despite 87% 4G population coverage, on an industry-association report (2026-08); no state measurement is held, against a presidential target of 80% internet usage by 2026](https://techafricanews.com/2026/08/20/gsma-malawi-digital-transformation-policy-action/) | ***Baseline not held*** |
+
+### Digital divides
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| School internet connectivity | No national school-connectivity measure before 2025-08-01; the nearest earlier statement is that over 83,000 students across 81 higher-education institutions gained cheaper connectivity through the research network | [85% of Malawi's 9,000 schools have limited or no internet access and about 900 have none at all, with lack of electricity and devices named as the main barriers; the World Bank is separately supporting connection of over 200 schools](https://malawi24.com/2026/04/17/malawi-schools-have-no-internet/) | ***Baseline not held*** |
+| Universal Service Fund | The base carries no statement of the fund's size, income, disbursement or projects before 2025-08-01 | [In operation and funded from the regulator's annual budget allocation, but the Director General stated that existing funding levels remain insufficient to meet the country's connectivity needs; a school connectivity project providing computer equipment runs under the fund, and secondary-school digital-skills work is stated to draw on it. No income, balance or disbursement figure is held for any year The regulator said on 2026-08-21 that it is evaluating Universal Service Fund mechanisms to subsidise consumer devices and to fund digital-literacy work, including a proposed one-tablet-one-student programme.](https://www.itweb.africa/article/malawi-targets-smartphone-tax-relief/mQwkoq6Y9DpM3r9A) | ***Baseline not held*** |
 
 <!-- narrative: inclusion -->
 Measurement did not keep pace: no measured internet-penetration figure exists for any date in the period. The most recent value the wiki holds remains around 24 users per 100 inhabitants from a May 2024 appraisal ([appraisal document](https://documents1.worldbank.org/curated/en/099050524041520240/txt/P5050951dae66d0e1bc631717e7e7a4e70.txt)), while a presidential directive of February 2026 set a target of 80% internet usage by 2026 with no baseline attached.
@@ -322,35 +349,24 @@ School connectivity was measured for the first time: 85% of Malawi's 9,000 schoo
 Council performance moved backwards on the one audited measure available: clean audit opinions fell to 18 in 2024/25 from 22 the year before, announced alongside the launch of a public spending dashboard ([launch account](https://www.nyasatimes.com/ben-phiri-unveils-malawis-real-time-cdf-dashboard-as-minister-flags-erosion-of-trust-risk-in-councils/)).
 <!-- /narrative -->
 
-## Finance
+## Data
 
-### New investments
+### National statistics
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
-| Governance to Enable Service Delivery Project | Operating, paying performance-based grants to participating district councils | [Closed on 2026-06-30; its grant mechanism continues under the successor project](https://www.nyasatimes.com/govt-secures-k229bn-in-world-bank-grants-parliament-approves-two-financing-bills/) | Closed |
-| Inclusive Digital Transformation for Malawi | Running 2024-2028 on a European Union commitment of EUR 2,000,000 and a UNDP commitment of US$5,608,640, covering inclusive digital identity, open-source public systems with human-rights safeguards, and youth digital literacy; the Union separately reported contributing over EUR 10m to the national registration system that underpins it | [Unchanged in commitment; within the window the programme's policy strand reached a validation workshop in Lilongwe for a draft national digital transformation strategy and a draft national AI strategy, both still pre-adoption](https://d-portal.org/ctrack.html#view=act&aid=XI-IATI-EC_INTPA-2024-PC-37646) | No change |
-| Malawi Fiscal Governance Program-for-Results | An approved grant of SDR 60.3m, about US$80m equivalent at appraisal, supporting revenue mobilisation, budget execution and procurement modernisation, including e-procurement digitalisation | [Unchanged; the base carries no implementation, disbursement or results reporting after the appraisal document](https://documents.worldbank.org/curated/en/099050624155539128) | No change |
-| Support for Digitalization, Financial Inclusion and Competitiveness | An active institutional-support grant of XDR 10,000,000, recorded as approximately US$14.4m on an unstated conversion, with US$5,591,335 disbursed as at the record's retrieval date | [Unchanged; no event in the window is on file for this project](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=46002-P-MW-KF0-007) | No change |
+| National Payments System Report series | Quarterly and annual series in publication, with the 2024 annual report reported 2025-04-16 | [Series continuing, with a Q2 2025 report reported 2025-11-18 and the 2025 annual report published 2026-03-30](https://times.mw/national-payment-system-registers-growth-in-2024-quarter-3) | No change |
+| Fourth National ICT Survey | ***Baseline not held*** | [In the field across all districts, including the refugee camp at Dzaleka, covering 12,000 households on mobile and computer ownership, internet access, digital financial services, e-commerce and cybersecurity awareness, with the recruitment of its field staff publicly questioned](https://malawi24.com/2026/08/19/nso-macra-face-questions-over-ict-survey-jobs/) | ***Baseline not held*** |
 
-### MoUs and other agreements
+### Open data
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
-| Vendor investment memorandum | The base carries no proposal, negotiation or announcement before 2025-08-01 | [A proposed US$180m over four years, built round a one-stop digital government platform and a high-speed network linking all 28 districts with ring protection; funding structure, implementation timeline and any agreements reached have not been made public](https://malawi24.com/2026/06/09/malawi-eyes-wider-digital-access-in-180m-huawei-ict-deal/) | ***Baseline not held*** |
+| Malawi Low Resource Language Data Trust | Did not exist; no Chichewa language dataset or data trust is on record | [A government initiative assembling licensed Chichewa language content as artificial-intelligence training data and developing core frameworks, supported by the World Bank and the Gates Foundation; no dataset, licence terms, governance structure or release is published](https://techafricanews.com/2026/06/24/malawi-launches-chichewa-ai-initiative-to-drive-digital-inclusion-and-innovation/) | Advanced |
+| Machine-readable access to the electronic voter register | The electoral commission had refused an observer coalition's request for analysable electronic copies of the 2025 and prior voter rolls, holding that the elections statute limits inspection to verification of entries at registration centres and regional offices | [The same position stands; nothing held records a later request, appeal or change of practice, including after the 2025-09-16 elections](https://africabrief.substack.com/p/mec-rejects-observer-coalitions-electronic) | No change |
 
-### Domestic budget appropriations and expenditure
+<!-- narrative: data -->
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
-|---|---|---|---|
-| Device assembly allocation to the science and technology university | The base carries no prior-year figure | [MWK 1.1bn allocated for assembling laptops and tablets at the Malawi University of Science and Technology - the nearest digital allocation to schools in that budget, and directed at higher education](https://malawi24.com/2026/04/17/malawi-schools-have-no-internet/) | ***Baseline not held*** |
-| National Birth Registration Campaign appropriation | The base carries no statement of the campaign's cost or funding before 2025-08-01 | [The campaign requires MWK 17.8bn in total to register about 4.6 million children across seven phases in 25 districts; MWK 5.4bn was allocated in the 2025/26 financial year for phases 1 and 2, leaving MWK 12.4bn unfunded](https://malawi24.com/2026/01/16/k17-8bn-push-to-register-4-6-million-children/) | ***Baseline not held*** |
-| School connectivity line in the 2026/27 national budget | The base carries no statement about school-connectivity appropriation before 2025-08-01 | [The 2026/27 budget policy statement contains no dedicated line for school internet connectivity or digital infrastructure in primary and secondary schools; education received MWK 1.28tn, 11.7% of the budget, directed at fee abolition, classrooms, teaching materials and university operations, and transport and ICT received MWK 664.4bn directed at roads, rail and aviation](https://malawi24.com/2026/04/17/malawi-schools-have-no-internet/) | ***Baseline not held*** |
-
-<!-- narrative: finance -->
-Parliament ratified an SDR 58.2m grant for local-government service delivery on 29 July 2026, extending coverage to 32 councils from the predecessor's 28 and funding business-process re-engineering ahead of equipment purchase ([parliamentary approval](https://www.nyasatimes.com/govt-secures-k229bn-in-world-bank-grants-parliament-approves-two-financing-bills/)).
-
-The 2026/27 national budget carries no dedicated line for school connectivity ([landscape analysis](https://malawi24.com/2026/04/17/malawi-schools-have-no-internet/)).
 <!-- /narrative -->
 
 ## Where the record is thin

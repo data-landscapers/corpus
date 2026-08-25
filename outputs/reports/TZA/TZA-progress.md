@@ -1,20 +1,18 @@
 ---
-title: Tanzania — progress report, 2025-08-01 to 2026-08-25
+title: Tanzania — progress report, August 2025 – August 2026
 compiled: 2026-08-25
 period: 2025-08-01 to 2026-08-25
 place: TZA
 ledger_rows: 142
 not_held: 13
-record: 9a5d1c937d6e
+record: 6a837593c57c
 ---
 
-# Tanzania: progress report, 2025-08-01 to 2026-08-25
-
-*Compiled 2026-08-25 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
+# Tanzania: progress report, August 2025 – August 2026
 
 *Of 142 systems and instruments on this place's ledger, 68 changed position between 2025-08-01 and 2026-08-25, 18 did not, 43 carry no stated baseline, and 13 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 194 sources for this place in the window — 35 in the earlier half (2025-08 to 2026-02), 159 in the later (2026-03 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+*Shape check, run before the comparison: 195 sources for this place in the window — 35 in the earlier half (2025-08 to 2026-02), 160 in the later (2026-03 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -28,7 +26,83 @@ The identity register moved on counts rather than on coverage: [25.8m registered
 Two positions worsened on their own measures: [smartphone users fell from 29.8m to 28.5m](https://www.thecitizen.co.tz/tanzania/business/telecom-infrastructure-investment-drives-5g-expansion-despite-low-smartphone-uptake-5491080) while penetration rose, and [startups raising disclosed funding went from six raising US$41,250,000 in 2024 to three raising US$3,706,063 in 2025](https://disruptafrica.com/wp-content/uploads/2026/02/The-African-Tech-Startups-Funding-Report-2025.pdf).
 <!-- /narrative -->
 
-## Infrastructure
+## Governance
+
+### Strategies, plans and policies
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| Election-period internet shutdowns | No restriction in force at 2025-08-01 | [Eight shutdowns recorded across 2025, the highest count of any African state in the monitor's data, and Tanzania listed among three African states that issued satellite shutdown orders](https://www.accessnow.org/internet-shutdowns-2025/) | Closed, no restoration date on file |
+| Health-data localisation and approval conditions for AI | Did not exist | [Three stated requirements: health data stored inside Tanzania, healthcare AI systems approved by the relevant authorities, and local capacity to build them developed](https://www.thecitizen.co.tz/tanzania/news/national/tanzania-steps-up-ai-drive-in-healthcare-amid-data-privacy-push-5542208) | Advanced |
+| National Data Management Framework | Stakeholder drafting under way, targeted for January 2026 | [Unchanged; the base holds no record of completion, publication or slippage past the target](https://www.mwananchi.co.tz/mw/habari/kitaifa/tanzania-yajipanga-ukinara-ulinzi-wa-data-uchumi-wa-kidijitali-afrika-5173946) | No change |
+| Tanzania Digital Trust Initiative | Not held | [Launched as a multi-stakeholder body to coordinate cybersecurity, data privacy, artificial-intelligence governance and payment security across government, industry and academia, founded by a security firm with a privacy professionals' association and a fintech association, and naming the data protection commission, the ICT commission and the private sector federation among its partners; the same forum published a digital trust outlook report and inaugurated an East Africa to Gulf Cooperation Council corridor for cross-border regulatory dialogue, secure payments and artificial-intelligence governance](https://www.linkedin.com/posts/tanzania-privacy-proffessional-association_tanzaniadigitaltrust-digitaltrustforum2026-activity-7492254924857204736-2sNm) | ***Baseline not held*** |
+
+### Legislation and regulation
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| Finance Act 2026 amendment to the Electronic Transactions Act | No ministerial power to prescribe which payments must be made electronically | [The Minister for Finance may prescribe by Gazette order which payments must be made electronically — the power the mandatory electronic payments order of the same date was made under — and proof of electronic payment is required before a transfer of land, a building or a motor vehicle can be approved](https://oagmis.oag.go.tz/portal/acts/337/download) | Advanced |
+| Tax identifier display for online traders | Did not exist | [Businesses trading on social media platforms must display their tax registration number or tax compliance certificate on their profile pages, under a new sub-regulation 58(2) of the Tax Administration (General) Regulations, 2016, made under the Tax Administration Act](https://fbattorneys.co.tz/wp-content/uploads/2026/08/GN-158G-AMENDMENT-OF-THE-TAX-ADMINISTRATION-GENERAL-REGULATIONS-2026-TGPA-1.pdf) | Advanced |
+| Financial consumer protection amendment regulations | In force from 2025-05-23 | [Unchanged; providers must protect consumer financial and personal information in accordance with the data-protection Act](https://kemiadvocates.co.tz/2025/06/27/legal-update-key-highlights-of-the-bank-of-tanzania-financial-consumer-protection-amendment-regulations-gn-no-298-of-2025-date-23-may-2025) | No change |
+| Review of more than 1,000 laws for technology investment | Not held | [The government says it will review more than 1,000 laws, including the public-private partnership act, the companies act and financial legislation, to build a regulatory framework supporting artificial intelligence, digital commerce and technology investment under the 2050 development vision](https://dailynews.co.tz/govt-to-review-over-1000-laws-to-attract-tech/) | ***Baseline not held*** |
+
+### Data protection
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| Certified Data Protection Officer programme | Did not exist | [The university trains and assesses and the commission certifies, targeting government, finance, telecommunications, healthcare, education and technology](https://mediawireexpress.co.tz/out-pdpc-launch-national-data-protection-programme/) | Advanced |
+| Registration and data-protection-officer compliance regime | The registration deadline had expired on 2025-04-30 and commission activity was confined to risk training and awareness | [A fresh registration deadline of 2026-04-08 set by ministerial directive, nationwide compliance inspections announced from 2026-04-09, and a seven-day ultimatum to part-registered bodies, with health and education named as still processing unregistered](https://www.mwananchi.co.tz/mw/habari/kitaifa/wananchi-waonywa-kutoa-taarifa-binafsi-kwa-taasisi-zisizosajiliwa-5494426) | Advanced |
+| Personal Data Protection Act, 2022 | In force, with a supervisory commission, a registration duty, a mandatory officer requirement and a breach-notification duty | [Unchanged text; no amendment and no new regulations recorded in the window](https://www.clydeco.com/en/insights/2026/02/notification-obligations-arising-from-personal-dat) | No change |
+| Tax-credential display rule for social-media businesses | Baseline not held | [Businesses selling on social media must display tax credentials — a taxpayer identification number, tax clearance certificate or certificate of registration — on their public pages; digital creators and online traders have objected that publishing the credentials exposes them to impersonation and fraud, and no data-protection assessment or redress route is published](https://fbattorneys.co.tz/wp-content/uploads/2026/08/GN-158G-AMENDMENT-OF-THE-TAX-ADMINISTRATION-GENERAL-REGULATIONS-2026-TGPA-1.pdf) | ***Baseline not held*** |
+
+### Regional collaboration
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| EAC regional AI strategy | Not on file at 2025-08-01 | [Drafting under way, with ministers agreeing at a regional conference to pursue harmonised rules and retention of AI value in East Africa](https://itweb.africa/article/eac-moves-to-create-unified-ai-sovereignty-bloc/) | Advanced |
+
+### Public debate and participation in policymaking
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| Online gendered violence against election candidates | Baseline not held | [Documented as cyclical across successive elections in a two-country civil-society study, with no state measurement held against it](https://pollicy.org/resource/the-cost-of-candidacy-cyclical-online-gendered-violence-across-elections-in-tanzania-and-cote-divoire/) | ***Baseline not held*** |
+
+<!-- narrative: governance -->
+Data-protection enforcement moved from dormant to active without producing an outcome. At the start of the window the registration deadline had expired and commission activity was confined to training and awareness; by the end there was a [fresh deadline of 8 April 2026, nationwide inspections announced from the following day](https://www.thecitizen.co.tz/tanzania/news/national/tanzania-to-begin-data-protection-inspections-in-april-5356792) and a [seven-day ultimatum to part-registered bodies](https://www.mwananchi.co.tz/mw/habari/kitaifa/wananchi-waonywa-kutoa-taarifa-binafsi-kwa-taasisi-zisizosajiliwa-5494426). No count of registered controllers and no inspection outcome, fine or decision is held. The Act itself is unchanged, with no amendment or new regulations in the window.
+
+Access to the network was restricted and the record of it is entirely third-party. No restriction was in force at 1 August 2025; a monitoring organisation records [eight shutdowns across 2025, including a five-day nationwide blackout at the October election](https://www.accessnow.org/internet-shutdowns-2025/), with no restoration date, no gazetted instrument and no regulator order held for any of them.
+
+The National Data Management Framework did not move: stakeholder drafting was under way for a January 2026 target and the base holds no record of completion or slippage past it.
+<!-- /narrative -->
+
+## Finance
+
+### Domestic budget appropriations and expenditure
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| Domestic state appropriation for digital transformation | None established | [Vote 68 proposed at TZS 222,589,451,000 for 2026/27 against TZS 291,533,139,000 approved for 2025/26, split TZS 13.15bn recurrent and TZS 209.44bn development; domestic development finance is unchanged to the shilling at TZS 98.48bn while external development finance falls from TZS 178.57bn to TZS 110.96bn, taking the external share of development spending from 64% to 53%; TZS 147,768,795,247 of the 2025/26 vote had been released by March 2026, 50.6%](https://www.mawasiliano.go.tz/uploads/documents/sw-1777555794-HOTUBA%20YA%20BAJETI%20YA%20WIZARA%20YA%20MAWASILIANO%202026.pdf) | No change, domestic development finance unchanged |
+
+### MoUs and other agreements
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| Bilateral digital-cooperation tracks with Brazil, Poland and Russia | Did not exist | [Frameworks agreed with two states on AI strategy, digital government and cybersecurity research, and youth and technology-skills agreements in drafting with a third](https://dailynews.co.tz/brazil-poland-back-dars-push-for-digital-growth/) | Advanced |
+| Digital economy memorandum with Huawei | Did not exist | [Cooperation named across ICT infrastructure, AI, digital public service infrastructure, developing local professionals, and manufacture and assembly of digital equipment](https://www.mawasiliano.go.tz/news/tanzania-na-huawei-watia-saini-makubaliano-ya-kuimarisha-ushirikiano-katika-uchumi-wa-kidijitali-na-ubunifu) | Advanced |
+| Zanzibar broadband memorandum with a second operator | A memorandum signed with no value | [A memorandum signed with no value; no follow-through on file at 2026-08-06](https://techafricanews.com/2025/08/19/airtel-tanzania-and-zictia-partner-to-boost-broadband-and-digital-inclusion-in-zanzibar/) | No change |
+
+### New investments
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| Payment-rails credit facility | Did not exist | [US$25m secured and extendable to US$50m, for international remittance and stablecoin corridors](https://www.eabusinessworld.com/2026/05/29/nala-50m-mufg-payment-infrastructure/) | Advanced |
+| Digital Tanzania Project | US$150m committed for 2021 to 2026, active | [US$150m committed, active](https://projects.worldbank.org/en/projects-operations/project-detail/P160766) | No change |
+
+<!-- narrative: finance -->
+External financing commitments were opened rather than closed in the period. Four unpriced tracks entered the record — [frameworks with Brazil and Poland and agreements in drafting with Russia](https://dailynews.co.tz/brazil-poland-back-dars-push-for-digital-growth/), and a [vendor memorandum signed in Shanghai](https://www.mawasiliano.go.tz/news/tanzania-na-huawei-watia-saini-makubaliano-ya-kuimarisha-ushirikiano-katika-uchumi-wa-kidijitali-na-ubunifu) — none carrying an amount or a term. The one priced arrival is a [US$25m credit facility, extendable to US$50m, for remittance and stablecoin corridors](https://www.eabusinessworld.com/2026/05/29/nala-50m-mufg-payment-infrastructure/). The largest commitment in the base, the [US$150m Digital Tanzania Project](https://projects.worldbank.org/en/projects-operations/project-detail/P160766), did not move and is scheduled to close in 2026 with no closure recorded.
+<!-- /narrative -->
+
+## ICT Infrastructure
 
 ### Connectivity
 
@@ -80,7 +154,7 @@ Two positions worsened on their own measures: [smartphone users fell from 29.8m 
 | Cybercrime investigation centres | ***Baseline not held*** | [Centres at Dodoma and Zanzibar provided for in the ministry's 2026/27 budget; nothing is built, sited or staffed on the record](https://dailynews.co.tz/security-digital-identity-and-technology-set-to-spur-tanzanias-growth/) | ***Baseline not held*** |
 | SIM-registration fraud enforcement | ***Baseline not held*** | [39,117 fraud-linked phone numbers and 6,118 domains and applications blocked in the 2025/26 financial year, with 7,311 violating accounts removed and 56 security-incident reports submitted to the police; 7,334 mobile lines were linked to fraud between April and June 2026, down 25.3% from 9,817 in the preceding quarter, with two regions flagged as priorities and the regulator, operators and security agencies convening in August to coordinate further measures. An earlier single investigation had seized 198 SIM cards used in fraud, 88 of them registered by one agent under different names](https://dailynews.co.tz/tanzania-blocks-39000-numbers-linked-to-fraud-in-its-intensified-war-against-cybercrime/) | ***Baseline not held*** |
 
-<!-- narrative: infrastructure -->
+<!-- narrative: ict-infrastructure -->
 The backbone advanced and its uptake did not. Laid distance went from [13,820 km of a 16,280 km planned total across 109 of 139 districts at April 2025](https://www.mawasiliano.go.tz/uploads/documents/sw-1747383343-SUMMARY_HOTUBA_YA_BAJETI_2025-26_FINAL%5B1%5D.pdf) to [15,167 km across 122 of 139 districts at December 2025](https://www.tcra.go.tz/uploads/text-editor/files/MINISTERS%20STATEMENT%20WITSD%202026_1779118337.pdf), and the figure the ministry was given for one region was [942.5 km built against 65 citizens connected](https://www.mwananchi.co.tz/mw/habari/kitaifa/waziri-kairuki-watanzania-wengi-hawajanufaika-na-mkongo-wa-taifa-5536718). Alongside it, [758 towers and about 1,100 km of fibre were transferred to government](https://www.thecitizen.co.tz/tanzania/business/yas-tanzania-partners-hand-over-major-digital-infrastructure-to-government-5420804) in April 2026, having been under construction since May 2023.
 
 Commercial capacity moved further. [5G facilities went from 1,255 to 1,804 on 10,084 towers, and population coverage from 30.13% to 32.83%](https://www.thecitizen.co.tz/tanzania/business/telecom-infrastructure-investment-drives-5g-expansion-despite-low-smartphone-uptake-5491080). The state operator's fibre-to-the-home target [slipped from one million customers by 2027 to one million by 2028, with rollout begun across seven areas](https://www.ecofinagency.com/news-digital/0605-55286-tanzania-s-state-telecom-targets-1-million-fiber-subscribers-by-2028). Zanzibar's broadband partnership went from an unpriced memorandum to a [twenty-year agreement worth TZS 300bn targeting about 100,000 households](https://www.connectingafrica.com/partnerships/yas-zictia-to-expand-broadband-access-in-zanzibar), with nothing yet on record being built.
@@ -88,7 +162,7 @@ Commercial capacity moved further. [5G facilities went from 1,255 to 1,804 on 10
 Three positions did not move at all: the Mbezi data centre, unchanged since March 2025; a cyber-skills partnership with South Korea, with no trainee numbers reported in twelve months; and the national cybersecurity forum, which has recorded no fifth edition.
 <!-- /narrative -->
 
-## Digital public infrastructure
+## DPI
 
 ### Data Exchange
 
@@ -142,7 +216,7 @@ Three positions did not move at all: the Mbezi data centre, unchanged since Marc
 | Retail payment fee caps | ***Baseline not held*** | [Bank-to-wallet interoperability capped at TZS 5,000 above TZS 500,000, single instant transactions and retail bank-to-bank transfers capped at TZS 2,000, card payments at zero, intra-bank transfer charges removed and a Zanzibar card surcharge removed](https://www.mwananchi.co.tz/mw/habari/biashara/makato-kikwazo-kuelekea-malipo-ya-kidijitali-5542380) | ***Baseline not held*** |
 | TANQR national QR payment standard | ***Baseline not held*** | [27 participating financial service providers at end-2025 - 21 banks, half of all banks, five of six mobile network operators and one non-bank aggregator - carrying 86.34 million interoperable merchant transactions worth TZS 6,413.14 billion in 2025, on 11,803 point-of-sale terminals against 9,655 in 2024](https://www.bot.go.tz/Publications/Regular/Annual%20Report/en/2026060211494565.pdf) | ***Baseline not held*** |
 
-### Registries (population, land, address, etc.)
+### Registries
 
 | System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
@@ -153,7 +227,7 @@ Three positions did not move at all: the Mbezi data centre, unchanged since Marc
 | Cooperative management system | ***Baseline not held*** | [More than 6,000 cooperative societies registered](https://dailynews.co.tz/ega-drives-digital-farming/) | ***Baseline not held*** |
 | Electronic birth certificate issuance | ***Baseline not held*** | [Birth certificates issued within 48 hours](https://www.biometricupdate.com/202601/tanzania-working-on-legislative-framework-for-infant-id-registration) | ***Baseline not held*** |
 
-### Sectoral management information systems (HMIS, EMIS, etc.)
+### Sectoral management information systems
 
 | System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
@@ -171,18 +245,6 @@ Three positions did not move at all: the Mbezi data centre, unchanged since Marc
 | East African digital public infrastructure project pipeline | Baseline not held | [German-funded consultancy tendered to identify and prepare bankable digital public infrastructure projects across Tanzania, Kenya and Uganda, covering digital identity, data exchange, payments and e-government; value, duration and selected consultant not stated](https://www.gtai.de/de/trade/tansania/ausschreibungen-projekte/consulting-digitale-oeffentliche-infrastrukturprojekte-ostafrika--2018684) | ***Baseline not held*** |
 | Public institutions connected under the digital economy framework | ***Baseline not held*** | [660 public institutions connected against a target of 900, with 758 towers on and 304 upgraded](https://www.thecitizen.co.tz/tanzania/news/national/digital-economy-to-contribute-1bn-to-tanzania-s-gdp-by-2034--5334400) | ***Baseline not held*** |
 
-### Digitalisation of sub-national government
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| Make Kibamba Digital | Did not exist | [A constituency digitalisation strategy opening with the education department's administration, inter-departmental communication, examination coordination and service delivery, marked by 20 computers and two printers valued at TZS 100m donated by a consumer lender; secondary schools stated next and ward offices in phases over three to four years](https://ippmedia.co.tz/the-guardian/business/read/bayport-donates-100m-tech-facility-to-kibambas-education-department-2026-08-04-131047) | Advanced |
-
-### Use of satellite data
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| Educational cubesat | Did not exist | [A budget line, with no design, launch date, operator or cost broken out](https://www.mwananchi.co.tz/mw/habari/kitaifa/kairuki-aomba-222-5-bilioni-kamati-yaitaja-tcra-5442016) | Advanced |
-
 <!-- narrative: dpi -->
 Identity integration is the strongest movement in this section: institutions connected to the register's verification database went from [128 to more than 138](https://ippmedia.co.tz/the-guardian/business/read/tanzanias-financial-inclusion-expands-but-usage-gap-is-becoming-the-next-challenge-2026-07-28-120905) across banking, insurance and social security. The build behind it moved from a first phase already delivered to a [second phase tendered for iris and facial biometrics, a headquarters and offices in 31 districts on an external loan of about US$70m](https://www.biometricupdate.com/202604/tanzania-seeks-biometrics-contractors-for-phase-ii-of-national-digital-id-project). Registration from birth went from a three-district pilot with no enabling statute to an [announced amendment of the registration Act, with child registration from FY2026/27 and still no passage on file](https://habarileo.co.tz/nida-kuanza-kusajili-watoto/). The common identifier itself stalled: designated in March 2024 with an end-2025 conclusion target, it is [still not issued as a distinct number](https://www.thecitizen.co.tz/tanzania/news/national/tanzania-rolls-out-infant-registration-for-stronger-citizen-id-5316036).
 
@@ -191,56 +253,19 @@ In payments, the core mobile-money platform was replaced with one specified at [
 Two exchange-layer positions are unchanged and one is unmeasured. Jamii X-Change is [still under construction with no go-live date](https://www.mawasiliano.go.tz/news/mfumo-wa-jamii-x-change-kuunganisha-mifumo-ya-tehama-ya-kisekta); the health management information system's most recent held state is from October 2023; and the government service bus gained [external validation without any published count of institutions that joined by its July 2025 deadline](https://www.thecitizen.co.tz/tanzania/news/national/tanzania-joins-global-leaders-in-digital-government-5325056).
 <!-- /narrative -->
 
-## Governance and regulation
+## Digitalisation
 
-### Legislation and regulation
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| Finance Act 2026 amendment to the Electronic Transactions Act | No ministerial power to prescribe which payments must be made electronically | [The Minister for Finance may prescribe by Gazette order which payments must be made electronically — the power the mandatory electronic payments order of the same date was made under — and proof of electronic payment is required before a transfer of land, a building or a motor vehicle can be approved](https://oagmis.oag.go.tz/portal/acts/337/download) | Advanced |
-| Tax identifier display for online traders | Did not exist | [Businesses trading on social media platforms must display their tax registration number or tax compliance certificate on their profile pages, under a new sub-regulation 58(2) of the Tax Administration (General) Regulations, 2016, made under the Tax Administration Act](https://fbattorneys.co.tz/wp-content/uploads/2026/08/GN-158G-AMENDMENT-OF-THE-TAX-ADMINISTRATION-GENERAL-REGULATIONS-2026-TGPA-1.pdf) | Advanced |
-| Financial consumer protection amendment regulations | In force from 2025-05-23 | [Unchanged; providers must protect consumer financial and personal information in accordance with the data-protection Act](https://kemiadvocates.co.tz/2025/06/27/legal-update-key-highlights-of-the-bank-of-tanzania-financial-consumer-protection-amendment-regulations-gn-no-298-of-2025-date-23-may-2025) | No change |
-| Review of more than 1,000 laws for technology investment | Not held | [The government says it will review more than 1,000 laws, including the public-private partnership act, the companies act and financial legislation, to build a regulatory framework supporting artificial intelligence, digital commerce and technology investment under the 2050 development vision](https://dailynews.co.tz/govt-to-review-over-1000-laws-to-attract-tech/) | ***Baseline not held*** |
-
-### Strategies, plans and policies
+### Digitalisation of sub-national government
 
 | System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
-| Election-period internet shutdowns | No restriction in force at 2025-08-01 | [Eight shutdowns recorded across 2025, the highest count of any African state in the monitor's data, and Tanzania listed among three African states that issued satellite shutdown orders](https://www.accessnow.org/internet-shutdowns-2025/) | Closed, no restoration date on file |
-| Health-data localisation and approval conditions for AI | Did not exist | [Three stated requirements: health data stored inside Tanzania, healthcare AI systems approved by the relevant authorities, and local capacity to build them developed](https://www.thecitizen.co.tz/tanzania/news/national/tanzania-steps-up-ai-drive-in-healthcare-amid-data-privacy-push-5542208) | Advanced |
-| National Data Management Framework | Stakeholder drafting under way, targeted for January 2026 | [Unchanged; the base holds no record of completion, publication or slippage past the target](https://www.mwananchi.co.tz/mw/habari/kitaifa/tanzania-yajipanga-ukinara-ulinzi-wa-data-uchumi-wa-kidijitali-afrika-5173946) | No change |
-| Tanzania Digital Trust Initiative | Not held | [Launched as a multi-stakeholder body to coordinate cybersecurity, data privacy, artificial-intelligence governance and payment security across government, industry and academia, founded by a security firm with a privacy professionals' association and a fintech association, and naming the data protection commission, the ICT commission and the private sector federation among its partners; the same forum published a digital trust outlook report and inaugurated an East Africa to Gulf Cooperation Council corridor for cross-border regulatory dialogue, secure payments and artificial-intelligence governance](https://www.linkedin.com/posts/tanzania-privacy-proffessional-association_tanzaniadigitaltrust-digitaltrustforum2026-activity-7492254924857204736-2sNm) | ***Baseline not held*** |
+| Make Kibamba Digital | Did not exist | [A constituency digitalisation strategy opening with the education department's administration, inter-departmental communication, examination coordination and service delivery, marked by 20 computers and two printers valued at TZS 100m donated by a consumer lender; secondary schools stated next and ward offices in phases over three to four years](https://ippmedia.co.tz/the-guardian/business/read/bayport-donates-100m-tech-facility-to-kibambas-education-department-2026-08-04-131047) | Advanced |
 
-### Regional collaboration
+<!-- narrative: digitalisation -->
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| EAC regional AI strategy | Not on file at 2025-08-01 | [Drafting under way, with ministers agreeing at a regional conference to pursue harmonised rules and retention of AI value in East Africa](https://itweb.africa/article/eac-moves-to-create-unified-ai-sovereignty-bloc/) | Advanced |
-
-### Data protection
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| Certified Data Protection Officer programme | Did not exist | [The university trains and assesses and the commission certifies, targeting government, finance, telecommunications, healthcare, education and technology](https://mediawireexpress.co.tz/out-pdpc-launch-national-data-protection-programme/) | Advanced |
-| Registration and data-protection-officer compliance regime | The registration deadline had expired on 2025-04-30 and commission activity was confined to risk training and awareness | [A fresh registration deadline of 2026-04-08 set by ministerial directive, nationwide compliance inspections announced from 2026-04-09, and a seven-day ultimatum to part-registered bodies, with health and education named as still processing unregistered](https://www.mwananchi.co.tz/mw/habari/kitaifa/wananchi-waonywa-kutoa-taarifa-binafsi-kwa-taasisi-zisizosajiliwa-5494426) | Advanced |
-| Personal Data Protection Act, 2022 | In force, with a supervisory commission, a registration duty, a mandatory officer requirement and a breach-notification duty | [Unchanged text; no amendment and no new regulations recorded in the window](https://www.clydeco.com/en/insights/2026/02/notification-obligations-arising-from-personal-dat) | No change |
-| Tax-credential display rule for social-media businesses | Baseline not held | [Businesses selling on social media must display tax credentials — a taxpayer identification number, tax clearance certificate or certificate of registration — on their public pages; digital creators and online traders have objected that publishing the credentials exposes them to impersonation and fraud, and no data-protection assessment or redress route is published](https://fbattorneys.co.tz/wp-content/uploads/2026/08/GN-158G-AMENDMENT-OF-THE-TAX-ADMINISTRATION-GENERAL-REGULATIONS-2026-TGPA-1.pdf) | ***Baseline not held*** |
-
-### Public debate and participation in policymaking
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| Online gendered violence against election candidates | Baseline not held | [Documented as cyclical across successive elections in a two-country civil-society study, with no state measurement held against it](https://pollicy.org/resource/the-cost-of-candidacy-cyclical-online-gendered-violence-across-elections-in-tanzania-and-cote-divoire/) | ***Baseline not held*** |
-
-<!-- narrative: governance -->
-Data-protection enforcement moved from dormant to active without producing an outcome. At the start of the window the registration deadline had expired and commission activity was confined to training and awareness; by the end there was a [fresh deadline of 8 April 2026, nationwide inspections announced from the following day](https://www.thecitizen.co.tz/tanzania/news/national/tanzania-to-begin-data-protection-inspections-in-april-5356792) and a [seven-day ultimatum to part-registered bodies](https://www.mwananchi.co.tz/mw/habari/kitaifa/wananchi-waonywa-kutoa-taarifa-binafsi-kwa-taasisi-zisizosajiliwa-5494426). No count of registered controllers and no inspection outcome, fine or decision is held. The Act itself is unchanged, with no amendment or new regulations in the window.
-
-Access to the network was restricted and the record of it is entirely third-party. No restriction was in force at 1 August 2025; a monitoring organisation records [eight shutdowns across 2025, including a five-day nationwide blackout at the October election](https://www.accessnow.org/internet-shutdowns-2025/), with no restoration date, no gazetted instrument and no regulator order held for any of them.
-
-The National Data Management Framework did not move: stakeholder drafting was under way for a January 2026 target and the base holds no record of completion or slippage past it.
 <!-- /narrative -->
 
-## Artificial intelligence and the technology sector
+## Technology
 
 ### AI
 
@@ -268,7 +293,7 @@ The National Data Management Framework did not move: stakeholder drafting was un
 | Startups raising disclosed funding | 6 startups raising US$41,250,000 (2024), of which US$40m went to one company | [3 startups raising US$3,706,063 (2025)](https://disruptafrica.com/wp-content/uploads/2026/02/The-African-Tech-Startups-Funding-Report-2025.pdf) | Regressed |
 | Accelerator placement | ***Baseline not held*** | [Selection announced; no equity, grant value or programme outcome held](https://blog.google/intl/en-africa/company-news/meet-the-15-startups/) | ***Baseline not held*** |
 
-<!-- narrative: ai-tech -->
+<!-- narrative: technology -->
 The national AI instrument stalled. At the start of the window the commission had said a strategy was expected during 2025; at the end, [guidelines were still being drafted](https://www.mwananchi.co.tz/mw/habari/biashara/maeneo-manne-ya-kujizatiti-wataalamu-wa-tehama-tanzania-5541292) and no instrument had been adopted. What appeared in the window instead were assertions with no specification behind them: a [national AI data centre stated to be under construction and a Kiswahili large language model named in the 2050 vision](https://www.mawasiliano.go.tz/news/tanzania-yaonesha-mafanikio-ya-utekelezaji-wa-akili-unde-ai-katika-mkutano-wa-kimataifa-wa-waico-2026), neither with a site, budget, corpus or date.
 
 Three deployments entered the record from nothing: a [ports enquiry chatbot evaluated at 95.1% weighted task success](https://digitalcommons.kennesaw.edu/ajis/vol18/iss2/3), a [cardiac institute's patient tracking system](https://www.thecitizen.co.tz/tanzania/news/national/jkci-s-digital-patient-tracking-system-sets-new-standard-for-follow-up-healthcare-in-tanzania-5528476), and two university prototypes at development and testing stage.
@@ -276,23 +301,7 @@ Three deployments entered the record from nothing: a [ports enquiry chatbot eval
 The sector's own funding went the other way, from [six startups raising US$41,250,000 in 2024 — US$40m of it to one company — to three raising US$3,706,063 in 2025](https://disruptafrica.com/wp-content/uploads/2026/02/The-African-Tech-Startups-Funding-Report-2025.pdf) on a tracker of disclosed rounds. The ITU acceleration centre moved from a February 2024 host agreement to [board approval in April 2026](https://www.biometricupdate.com/202604/tanzania-itu-innovation-center-to-drive-digital-transformation-set-for-launch), with no launch date attached.
 <!-- /narrative -->
 
-## Inclusion and capacity
-
-### Digital divides
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| Digital transformation centre for rights and gender equity | EUR 3,000,000 committed, active | [EUR 3,000,000 committed, active](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=DE-1-202222214) | No change |
-
-### Access to services
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| Braille editions of central bank publications | Did not exist | [Braille editions of the central bank's publications on the economy, finance and financial services, covering personal financial management among other subjects, so that blind readers can read a service's terms, benefits and risks without an intermediary](https://www.mwananchi.co.tz/mw/habari/biashara/bot-yazindua-machapisho-ya-nukta-nundu-kwa-wasioona-5564948) | Advanced |
-| Financial access points | 1.69m access points (2024-12) | [2.27m access points, up 33.5%, of which about 2m are mobile-money agents](https://www.bot.go.tz/Publications/Regular/Annual%20Report/en/2026072316300213.pdf) | Advanced |
-| Financial inclusion index | 0.81 (2024), with access at 0.84 and usage at 0.78 | [0.83 (2025), with access at 0.87 and usage at 0.79](https://www.bot.go.tz/Publications/Regular/Annual%20Report/en/2026072316300213.pdf) | Advanced, marginal |
-| Third National Financial Inclusion Framework | ***Baseline not held*** | [The framework in implementation, with the inclusion index as its headline metric](https://www.bot.go.tz/Publications/Regular/Annual%20Report/en/2026072316300213.pdf) | ***Baseline not held*** |
-| Universal service fund rural site programme | ***Baseline not held*** | [133 sites completed, with about 45% of the operator's Tanzanian sites rural](https://techreviewafrica.com/news/4919/) | ***Baseline not held*** |
+## Capacity
 
 ### Literacy
 
@@ -318,37 +327,44 @@ The sector's own funding went the other way, from [six startups raising US$41,25
 |---|---|---|---|
 | University ICT college building | ***Baseline not held*** | [Under construction; no completion date, cost or capacity stated](https://www.mwananchi.co.tz/mw/habari/kitaifa/serikali-kuendelea-kupeleka-wanafunzi-nje-kusomea-ai-5392884) | ***Baseline not held*** |
 
+<!-- narrative: capacity -->
+
+<!-- /narrative -->
+
+## Inclusion
+
+### Access to services
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| Braille editions of central bank publications | Did not exist | [Braille editions of the central bank's publications on the economy, finance and financial services, covering personal financial management among other subjects, so that blind readers can read a service's terms, benefits and risks without an intermediary](https://www.mwananchi.co.tz/mw/habari/biashara/bot-yazindua-machapisho-ya-nukta-nundu-kwa-wasioona-5564948) | Advanced |
+| Financial access points | 1.69m access points (2024-12) | [2.27m access points, up 33.5%, of which about 2m are mobile-money agents](https://www.bot.go.tz/Publications/Regular/Annual%20Report/en/2026072316300213.pdf) | Advanced |
+| Financial inclusion index | 0.81 (2024), with access at 0.84 and usage at 0.78 | [0.83 (2025), with access at 0.87 and usage at 0.79](https://www.bot.go.tz/Publications/Regular/Annual%20Report/en/2026072316300213.pdf) | Advanced, marginal |
+| Third National Financial Inclusion Framework | ***Baseline not held*** | [The framework in implementation, with the inclusion index as its headline metric](https://www.bot.go.tz/Publications/Regular/Annual%20Report/en/2026072316300213.pdf) | ***Baseline not held*** |
+| Universal service fund rural site programme | ***Baseline not held*** | [133 sites completed, with about 45% of the operator's Tanzanian sites rural](https://techreviewafrica.com/news/4919/) | ***Baseline not held*** |
+
+### Digital divides
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| Digital transformation centre for rights and gender equity | EUR 3,000,000 committed, active | [EUR 3,000,000 committed, active](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=DE-1-202222214) | No change |
+
 <!-- narrative: inclusion -->
 Financial inclusion moved marginally on the index and substantially on the estate. The council's reading went from [0.81 for 2024 to 0.83 for 2025, access from 0.84 to 0.87 and usage from 0.78 to 0.79](https://www.bot.go.tz/Publications/Regular/Annual%20Report/en/2026072316300213.pdf), while [access points went from 1.69m to 2.27m, up 33.5%, about 2m of them mobile-money agents](https://www.bot.go.tz/Publications/Regular/Annual%20Report/en/2026072316300213.pdf). Access moved three points and usage one.
 
 Skills provision appeared where there had been nothing on file: [sixteen graduates studying AI and data science overseas with 34 expected](https://www.mwananchi.co.tz/mw/habari/kitaifa/serikali-kuendelea-kupeleka-wanafunzi-nje-kusomea-ai-5392884), and a [second graduating cohort of 129 at the Zanzibar postgraduate campus](https://www.thecitizen.co.tz/tanzania/zanzibar/zanzibar-positions-itself-as-africa-s-technology-and-innovation-hub-5518692).
 <!-- /narrative -->
 
-## Finance
+## Data
 
-### New investments
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| Payment-rails credit facility | Did not exist | [US$25m secured and extendable to US$50m, for international remittance and stablecoin corridors](https://www.eabusinessworld.com/2026/05/29/nala-50m-mufg-payment-infrastructure/) | Advanced |
-| Digital Tanzania Project | US$150m committed for 2021 to 2026, active | [US$150m committed, active](https://projects.worldbank.org/en/projects-operations/project-detail/P160766) | No change |
-
-### MoUs and other agreements
+### Use of satellite data
 
 | System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
-| Bilateral digital-cooperation tracks with Brazil, Poland and Russia | Did not exist | [Frameworks agreed with two states on AI strategy, digital government and cybersecurity research, and youth and technology-skills agreements in drafting with a third](https://dailynews.co.tz/brazil-poland-back-dars-push-for-digital-growth/) | Advanced |
-| Digital economy memorandum with Huawei | Did not exist | [Cooperation named across ICT infrastructure, AI, digital public service infrastructure, developing local professionals, and manufacture and assembly of digital equipment](https://www.mawasiliano.go.tz/news/tanzania-na-huawei-watia-saini-makubaliano-ya-kuimarisha-ushirikiano-katika-uchumi-wa-kidijitali-na-ubunifu) | Advanced |
-| Zanzibar broadband memorandum with a second operator | A memorandum signed with no value | [A memorandum signed with no value; no follow-through on file at 2026-08-06](https://techafricanews.com/2025/08/19/airtel-tanzania-and-zictia-partner-to-boost-broadband-and-digital-inclusion-in-zanzibar/) | No change |
+| Educational cubesat | Did not exist | [A budget line, with no design, launch date, operator or cost broken out](https://www.mwananchi.co.tz/mw/habari/kitaifa/kairuki-aomba-222-5-bilioni-kamati-yaitaja-tcra-5442016) | Advanced |
 
-### Domestic budget appropriations and expenditure
+<!-- narrative: data -->
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| Domestic state appropriation for digital transformation | None established | [Vote 68 proposed at TZS 222,589,451,000 for 2026/27 against TZS 291,533,139,000 approved for 2025/26, split TZS 13.15bn recurrent and TZS 209.44bn development; domestic development finance is unchanged to the shilling at TZS 98.48bn while external development finance falls from TZS 178.57bn to TZS 110.96bn, taking the external share of development spending from 64% to 53%; TZS 147,768,795,247 of the 2025/26 vote had been released by March 2026, 50.6%](https://www.mawasiliano.go.tz/uploads/documents/sw-1777555794-HOTUBA%20YA%20BAJETI%20YA%20WIZARA%20YA%20MAWASILIANO%202026.pdf) | No change, domestic development finance unchanged |
-
-<!-- narrative: finance -->
-External financing commitments were opened rather than closed in the period. Four unpriced tracks entered the record — [frameworks with Brazil and Poland and agreements in drafting with Russia](https://dailynews.co.tz/brazil-poland-back-dars-push-for-digital-growth/), and a [vendor memorandum signed in Shanghai](https://www.mawasiliano.go.tz/news/tanzania-na-huawei-watia-saini-makubaliano-ya-kuimarisha-ushirikiano-katika-uchumi-wa-kidijitali-na-ubunifu) — none carrying an amount or a term. The one priced arrival is a [US$25m credit facility, extendable to US$50m, for remittance and stablecoin corridors](https://www.eabusinessworld.com/2026/05/29/nala-50m-mufg-payment-infrastructure/). The largest commitment in the base, the [US$150m Digital Tanzania Project](https://projects.worldbank.org/en/projects-operations/project-detail/P160766), did not move and is scheduled to close in 2026 with no closure recorded.
 <!-- /narrative -->
 
 ## Where the record is thin

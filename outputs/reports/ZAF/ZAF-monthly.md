@@ -1,16 +1,16 @@
 ---
-title: South Africa — monthly update, July 2026
+title: South Africa — monthly update, July – August 2026
 compiled: 2026-08-25
 period: 2026-07-01 to 2026-08-25
 place: ZAF
 ledger_rows: 102
 not_held: 23
-record: 13d5e8eca046
+record: 7adab95a902c
 ---
 
-# South Africa: monthly update, July 2026
+# South Africa: monthly update, July – August 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-25 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments summarised from sources published between the beginning of last month and today.*
 
 ## Summary of the month
 
@@ -18,11 +18,55 @@ record: 13d5e8eca046
 Two spectrum instruments were gazetted, the national artificial-intelligence policy changed from a rule-making instrument to a guidance one, and the Western Cape High Court struck down part of the birth-registration regulations. On delivery, a Public Service Commission investigation found [more than R2bn in irregular expenditure](https://www.citizen.co.za/news/sita-investigation-flags-r2bn-irregular-spending-and-governance-weaknesses/) at the State Information Technology Agency, which was [given 30 days to produce a recovery plan](https://www.dailymaverick.co.za/article/2026-07-07-malatsi-gives-sita-30-days-to-come-up-with-a-recovery-plan/). Operation Vulindlela's quarterly report of 31 July recorded the single citizen application at [production-ready pilot](https://www.treasury.gov.za/comm_media/press/2026/Operation%20Vulindlela%20Progress%20Report%20Q1%20-%202026.pdf), dated the next milestones to September 2026 and stated that progress had been uneven.
 <!-- /narrative -->
 
-## Infrastructure
+## Governance
+
+### Strategies, plans and policies
+
+<!-- narrative: governance--gov-policy -->
+The state put two studies out to tender and conceded the gap they are meant to fill. The communications department's market-analysis tender [concedes a current policy vacuum and that the price benefits expected from the 2022 spectrum auction remain largely unmet](https://www.timeslive.co.za/news/business/2026-08-01-sas-data-price-puzzle/), naming market concentration, spectrum allocation and the burden on prepaid consumers as structural causes; its deliverables are a cost-to-communicate roadmap and an assessment of progress on the 2019 data-services market inquiry recommendations. A second tender [seeks an ICT-indicators and scenario-modelling system to steer the digital economy to 2050](https://www.itweb.co.za/article/top-ict-tenders-dcdt-eyes-2050-digital-economy-vision/KPNG878NLorq4mwD), with no award, value or delivery date. Against both, the reform programme's quarterly report [concedes progress has been uneven and in certain instances slower than initially anticipated](https://www.treasury.gov.za/comm_media/press/2026/Operation%20Vulindlela%20Progress%20Report%20Q1%20-%202026.pdf), against the 80% on-track figure that remains its dated prior.
+
+A third instrument is being fast-tracked rather than tendered. The Presidency and the planning and evaluation department [put a digital dashboard monitoring mega infrastructure projects before the parliamentary committee on the Presidency](https://www.parliament.gov.za/press-releases/media-alert-committee-presidency-assess-progress-implementing-sona-commitments-and-tracking-mega-infrastructure-projects), alongside a wider review of progress against the state-of-the-nation commitments. No delivery date, data source, custodian or statement of whether the dashboard will be public is given — which for a monitoring instrument is the whole of the question. The portfolio minister separately [set out persistent governance and liquidity problems across the department's eleven state-owned entities](https://www.itweb.co.za/article/malatsi-details-persistent-headaches-at-portfolio-depts/4r1ly7R9aK4vpmda), citing progress stabilising boards and the state IT agency's leadership, a completed public broadcaster funding model now with the Treasury, and ruling out a compulsory household levy.
+<!-- /narrative -->
+### Legislation and regulation
+
+<!-- narrative: governance--gov-legislate -->
+The minister [backed the regulator](https://www.itweb.co.za/article/malatsi-backs-consumer-sentiment-on-data-expiry-debate/RgeVDMPRkPJvKJN3) in the review application brought by the two largest mobile operators against the data bundle roll-over rules. The Angolan kwanza became the [second settlement currency on the SADC real-time system](https://www.sadc.int/latest-news/angolan-kwanza-introduced-sadc-rtgs-system), the first addition since 2013.
+
+
+Cross-border crypto acquired a draft rulebook. The Treasury and the central bank [published a draft manual for cross-border crypto activities for comment to 30 September, setting authorisation and reporting rules for crypto asset service providers and defining what counts as a cross-border crypto flow](https://cioafrica.co/south-africa-proposes-new-rules-for-cross-border-crypto-transactions/), alongside the capital-flow regulations already in draft.
+<!-- /narrative -->
+### Data protection
+
+<!-- narrative: governance--gov-protect -->
+The data-protection statute has been enforceable since 2021 and operates as an adequacy model rather than hard localisation: [cross-border transfers are permitted where equivalent protection, consent or contractual necessity applies, with the controller accountable](https://transformpublicrelations.com/2026/07/06/popia-five-years-later-why-is-nobody-being-held-accountable/). The [maximum fine is R10m against a measured average breach cost of R44.1m](https://transformpublicrelations.com/2026/07/06/popia-five-years-later-why-is-nobody-being-held-accountable/) — the penalty is a fraction of the harm it is meant to deter.
+
+
+The supervisor said plainly what it cannot do. At a webinar on 18 August the regulator [said it has no capability to test external systems for privacy compliance before launch, and is working with the justice department to amend the Act to cover artificial intelligence and privacy by design](https://www.timeslive.co.za/news/south-africa/2026-08-18-sahrc-sounds-alarm-over-misuse-of-personal-information-in-digital-age/), while the rights commission reframed misuse of personal information as a constitutional harm bearing on dignity, equality and access to services rather than a cybersecurity one. A peer-reviewed review published four days earlier [records South Africa among three of four countries studied that have not signed the continental data convention, and finds all four health-data governance frameworks fragmented](https://datascience.codata.org/articles/10.5334/dsj-2026-031).
+<!-- /narrative -->
+### Standards
+
+<!-- narrative: governance--gov-standards -->
+Parliament's communications committee [prefers strengthening the existing regulators through the ICT and media regulators forum to creating the four artificial-intelligence bodies the withdrawn draft policy proposed](https://www.timeslive.co.za/news/sci-tech/2026-07-31-parliament-against-creating-new-ai-watchdogs-for-sa-diko). The forum was launched in 2024 and no instrument establishing its powers is held.
+<!-- /narrative -->
+### Public debate and participation in policymaking
+
+<!-- narrative: governance--gov-discourse -->
+The rights commission put a position on the record about who should arbitrate what is true online. Launching its policy brief on information integrity, [a deputy justice minister said government should not become the custodian of truth on disinformation, while warning against leaving the information environment to private platforms' algorithms](https://www.justice.gov.za/m_speeches/2026/20260819-SAHRC-Online-Stakeholder-Engagement-DMin.html), grounding the balance in the constitutional rights to expression, political participation and access to information. It is a brief rather than an instrument, and no legislative proposal follows from it on the record.
+<!-- /narrative -->
+
+## Finance
+
+### New investments
+
+<!-- narrative: finance--finance-new -->
+One programme opened in the window, and it is not yet a commitment to anybody. On 11 August the United Kingdom [published an expression-of-interest call for a Southern Africa science and technology accelerator worth up to GBP2.5m over three years to March 2030, with up to GBP400,000 for 2026/27](https://www.gov.uk/international-development-funding/science-and-technology-accelerator-systems-sta-s-southern-africa-programme), covering artificial intelligence and emerging technologies and digital access alongside climate, energy, health and space. South Africa is the primary focus and Zimbabwe and Zambia the first year's. The fund is resourced and the delivery consortium is not chosen, so what the money buys is a matter for a contract expected later in the year.
+<!-- /narrative -->
+
+## ICT Infrastructure
 
 ### Connectivity
 
-<!-- narrative: infrastructure--infra-connect -->
+<!-- narrative: ict-infrastructure--infra-connect -->
 The [National Radio Frequency Plan 2026](https://www.icasa.org.za/legislation-and-regulations/national-radio-frequency-plan-2026), approved by the minister on 2 July, was gazetted on 24 July and realigns the allocation table from 8.3kHz to 3,000GHz to the ITU Radio Regulations and to the SADC and African Telecommunications Union plans. The [IMT Roadmap 2026](https://www.gov.za/documents/notices/electronic-communications-act-international-mobile-telecommunications-roadmap-2) was published for consultation the same day; its tables record 794MHz assigned to licensees and 18,831MHz still to be assigned. The regulator's [accompanying statement of an increase from 850MHz to at least 18,588MHz by 2030, and of a 215% rise in high-demand spectrum](https://www.icasa.org.za/news/2026/icasa-publishes-draft-imt-roadmap-and-implementation-plans), does not appear in the gazetted text; the two accounts have not been reconciled. Allocation of the 6GHz band was [deferred pending a feasibility study](https://www.citizen.co.za/news/malatsi-approves-2026-national-radio-frequency-plan/).
 
 Herotel, a domestic provider with more than 350,000 customers, was [named Amazon Leo's South African distributor](https://www.dailymaverick.co.za/article/2026-07-15-herotel-chosen-as-amazon-leo-distributor-in-maziv-race-for-satellite-internet/) for a 2027 launch. Starlink [began service in its 27th African country](https://mybroadband.co.za/news/broadband/658586-starlink-launches-in-27th-african-country-before-south-africa.html) and remains unlicensed in South Africa; the department told Parliament its draft satellite policy direction was ["of general application and not directed at any specific operator"](https://pmg.org.za/committee-question/39540/). The state-backed [BrainSAT](https://mybroadband.co.za/news/broadband/656335-state-backed-south-african-satellite-internet-and-phone-company-launched.html) venture launched on Emirati infrastructure. By 20 August the licensing question had produced three separate moves and no decision: the minister [told the International Space Summit Africa that low-earth-orbit services are part of the country's digital future while conceding that licensing is the regulator's call alone](https://www.itweb.co.za/article/malatsi-backs-leo-operators-as-icasa-calls-the-shots/Gb3BwMWaPAEv2k6V), which leaves his December directive on equity-equivalency schemes unresolved; Starlink's operator [asked the regulator for flat per-licence spectrum fees, blanket terminal licensing and a ten-year minimum licence term](https://techafricanews.com/2026/08/20/spacex-urges-south-africas-icasa-to-rethink-proposed-satellite-spectrum-fees/), and used the same submission to ask for consolidated guidance on the 30% equity threshold; and Amazon's Kenyan subsidiary [applied for a fifteen-year gateway licence next door](https://techafricanews.com/2026/08/20/who-will-control-africas-satellite-internet-layer-starlink-amazon-leo-or-the-carriers/), which is what building out around an unresolved market looks like.
@@ -35,7 +79,7 @@ One date the state does not have is the oldest. The communications department [t
 <!-- /narrative -->
 ### Data Storage
 
-<!-- narrative: infrastructure--infra-store -->
+<!-- narrative: ict-infrastructure--infra-store -->
 The commercial estate is expanding on the operator's own numbers rather than on a published plan. An international operator is [scaling its Johannesburg facility to 24MW and holds a ZAR7.5bn South African expansion budget covering that site plus banked land in Johannesburg and Cape Town](https://www.itweb.co.za/article/equinix-doubles-down-on-joburg-data-centre-expansion/PmxVE7KEObLqQY85), with further build-out held pending demand. No grid connection, water use or municipal approval detail is stated — and a civil-society coalition used the same week to call for deceleration, transparency and public participation in data-centre expansion, which is the argument the absent detail is about.
 
 
@@ -43,25 +87,20 @@ The expansion also drew its first organised objection. A civil-society coalition
 <!-- /narrative -->
 ### Technical Capacity
 
-<!-- narrative: infrastructure--infra-capacity -->
+<!-- narrative: ict-infrastructure--infra-capacity -->
 Parliament's science committee reported after an oversight visit that the [Centre for High Performance Computing has reached maximum capacity and that available infrastructure is insufficient for future growth](https://www.parliament.gov.za/press-releases/media-statement-committee-science-visits-national-integrated-cyber-infrastructure-system). The centre is one of three pillars of the national cyber infrastructure system, alongside the research network and the secure national data centre, and it supports the electronic vaccination data system.
 <!-- /narrative -->
 ### Cybersecurity
 
-<!-- narrative: infrastructure--infra-cybersec -->
+<!-- narrative: ict-infrastructure--infra-cybersec -->
 Two independent readings of the year both point at the same thing. The financial regulator's fourth regulatory actions report records [140 public warnings and R2.89bn in penalties on 76 persons for the year to March](https://www.itweb.co.za/article/social-media-is-sas-biggest-financial-scam-vehicle/8OKdWMDXxQrMbznQ), most warnings concerning unregistered providers promoting investment offerings on social media and about a fifth involving impersonation of licensed institutions, the regulator and its own staff among them. [Over R2bn of that total is a single deepfake-advertising matter](https://www.itweb.co.za/article/social-media-is-sas-biggest-financial-scam-vehicle/8OKdWMDXxQrMbznQ), whose debarment and penalty reconsiderations were still pending at the report date. Separately a forensics firm puts [attacker dwell time at 18 days in 2025, with some intrusions running start to finish inside a day](https://www.itweb.co.za/article/ransomware-gangs-intensify-attacks-in-sa/lLn147mQzxP7J6Aa), attributed to ransomware-as-a-service and automated reconnaissance. It is one firm's caseload rather than a national series, and a shorter dwell time is faster execution, not better defence.
 
 The state's answer to its own exposure is a training tender. The public service and administration department is [tendering to build a training programme for departmental information security officers across the public sector](https://www.itweb.co.za/article/top-ict-tenders-dpsa-targets-info-security-officer-training/WnpNgM21Zx87VrGd), to implement the directive on public service information security. No officer count, curriculum, budget or compliance deadline under that directive is stated.
 
 Its own research estate showed what the exposure costs. The science minister told the National Assembly on 24 August that the late-May breach of the national supercomputer was caused by [vulnerabilities associated with the legacy high-performance computing system](https://www.itweb.co.za/article/cause-of-breach-on-sas-supercomputer-revealed/KPNG878NLeGq4mwD), with unauthorised access to parts of the environment and crypto-currency mining malware deployed, and that [ageing components are technically constrained or no longer fully supported by their original vendors](https://www.itweb.co.za/article/cause-of-breach-on-sas-supercomputer-revealed/KPNG878NLeGq4mwD). A [remediation and resilience programme covering access controls, privileged-access management, network segmentation, patch management and monitoring has since run, with forensic support and independent assurance from the council's own specialists](https://www.itweb.co.za/article/cause-of-breach-on-sas-supercomputer-revealed/KPNG878NLeGq4mwD). No cost, data-loss finding or outage duration is stated, and the account is the department's own — against the same centre having reached maximum capacity earlier in the month.
 <!-- /narrative -->
-### Legislation and regulation
 
-<!-- narrative: infrastructure--gov-legislate -->
-The Electronic Communications Amendment Bill was published, [exempting electronic communications network services provided on a not-for-profit basis from licensing](https://www.parliament.gov.za/storage/app/media/Bills/2026/B12-2026_Electronic_Communications_AB.pdf) and mandating spectrum sharing; the committee [extended written submissions on 20 August to 16:00 on 21 September](https://www.parliament.gov.za/press-releases/communications-committee-extends-deadline-public-input-electronic-communications-amendment-bill).
-<!-- /narrative -->
-
-## Digital public infrastructure
+## DPI
 
 ### Data Exchange
 
@@ -92,12 +131,12 @@ The Reserve Bank gazetted a [national interoperable payment code standard](https
 
 What that migration costs the institutions running it surfaced in one bank's half-year results. [Technology spending reached R8.78bn in the first half of 2026, up 7%, against digitally active customers up 14%, with a further R200m software impairment after a R2.4bn write-down in 2025, and a cost-to-income ratio still rising](https://techcabal.com/2026/08/18/absas-digital-push-comes-with-a-540-million-price-tag/) across a 17-country, 13.4-million-customer footprint. It is one bank's own group figure, so it bounds the cost of digital migration at a single institution rather than for the sector.
 <!-- /narrative -->
-### Registries (population, land, address, etc.)
+### Registries
 
 <!-- narrative: dpi--dpi-registry -->
 Home Affairs reported [377,060 identity numbers still blocked](https://iol.co.za/news/politics/2026-07-17-home-affairs-struggles-to-unblock-identity-numbers-due-to-unserviceable-addresses/) and stated it could not trace approximately 400,000 of those affected, against a court deadline extended to March 2027.
 <!-- /narrative -->
-### Sectoral management information systems (HMIS, EMIS, etc.)
+### Sectoral management information systems
 
 <!-- narrative: dpi--dpi-mis -->
 The student funding scheme's administrator submitted a stabilisation plan stating that [ICT is the scheme's biggest operational risk, fragmented, manual and not fit for purpose](https://www.itweb.co.za/article/nsfas-says-ict-is-its-biggest-operational-risk/rW1xLv5ngJy7Rk6m). The same submission reports 66 major audit findings and a disclaimer audit opinion from the Auditor-General, 115 overdue internal audit findings and nine material irregularities, five of them data or systems defects. The scheme was placed under administration in May and its governance failures referred to the Special Investigating Unit.
@@ -121,57 +160,11 @@ Two services were told to integrate or to open. The Public Protector [found the 
 The month's longest departmental procurement went to the least connected population in the country. Correctional services [advertised a fifteen-year tender for an inmate communication system across 243 centres, replacing copper telephony that has deteriorated beyond support for about 166,000 inmates](https://www.itweb.co.za/article/top-ict-tenders-inmates-to-get-telecoms-upgrade/KzQenvjyx98qZd2r), the appointed supplier to design, install, integrate, operate and maintain it and to tie it to the inmate cash system so that airtime is bought from prisoners' own balances, with monitoring, recording, data storage, security and compliance in scope. No contract value is published and [bids close on 14 September](https://www.itweb.co.za/article/top-ict-tenders-inmates-to-get-telecoms-upgrade/KzQenvjyx98qZd2r), so nothing is awarded.
 <!-- /narrative -->
 
-## Governance and regulation
+## Technology
 
-### Legislation and regulation
-
-<!-- narrative: governance--gov-legislate -->
-The minister [backed the regulator](https://www.itweb.co.za/article/malatsi-backs-consumer-sentiment-on-data-expiry-debate/RgeVDMPRkPJvKJN3) in the review application brought by the two largest mobile operators against the data bundle roll-over rules. The Angolan kwanza became the [second settlement currency on the SADC real-time system](https://www.sadc.int/latest-news/angolan-kwanza-introduced-sadc-rtgs-system), the first addition since 2013.
-
-
-Cross-border crypto acquired a draft rulebook. The Treasury and the central bank [published a draft manual for cross-border crypto activities for comment to 30 September, setting authorisation and reporting rules for crypto asset service providers and defining what counts as a cross-border crypto flow](https://cioafrica.co/south-africa-proposes-new-rules-for-cross-border-crypto-transactions/), alongside the capital-flow regulations already in draft.
-<!-- /narrative -->
-### Strategies, plans and policies
-
-<!-- narrative: governance--gov-policy -->
-The state put two studies out to tender and conceded the gap they are meant to fill. The communications department's market-analysis tender [concedes a current policy vacuum and that the price benefits expected from the 2022 spectrum auction remain largely unmet](https://www.timeslive.co.za/news/business/2026-08-01-sas-data-price-puzzle/), naming market concentration, spectrum allocation and the burden on prepaid consumers as structural causes; its deliverables are a cost-to-communicate roadmap and an assessment of progress on the 2019 data-services market inquiry recommendations. A second tender [seeks an ICT-indicators and scenario-modelling system to steer the digital economy to 2050](https://www.itweb.co.za/article/top-ict-tenders-dcdt-eyes-2050-digital-economy-vision/KPNG878NLorq4mwD), with no award, value or delivery date. Against both, the reform programme's quarterly report [concedes progress has been uneven and in certain instances slower than initially anticipated](https://www.treasury.gov.za/comm_media/press/2026/Operation%20Vulindlela%20Progress%20Report%20Q1%20-%202026.pdf), against the 80% on-track figure that remains its dated prior.
-
-A third instrument is being fast-tracked rather than tendered. The Presidency and the planning and evaluation department [put a digital dashboard monitoring mega infrastructure projects before the parliamentary committee on the Presidency](https://www.parliament.gov.za/press-releases/media-alert-committee-presidency-assess-progress-implementing-sona-commitments-and-tracking-mega-infrastructure-projects), alongside a wider review of progress against the state-of-the-nation commitments. No delivery date, data source, custodian or statement of whether the dashboard will be public is given — which for a monitoring instrument is the whole of the question. The portfolio minister separately [set out persistent governance and liquidity problems across the department's eleven state-owned entities](https://www.itweb.co.za/article/malatsi-details-persistent-headaches-at-portfolio-depts/4r1ly7R9aK4vpmda), citing progress stabilising boards and the state IT agency's leadership, a completed public broadcaster funding model now with the Treasury, and ruling out a compulsory household levy.
-<!-- /narrative -->
-### Standards
-
-<!-- narrative: governance--gov-standards -->
-Parliament's communications committee [prefers strengthening the existing regulators through the ICT and media regulators forum to creating the four artificial-intelligence bodies the withdrawn draft policy proposed](https://www.timeslive.co.za/news/sci-tech/2026-07-31-parliament-against-creating-new-ai-watchdogs-for-sa-diko). The forum was launched in 2024 and no instrument establishing its powers is held.
-<!-- /narrative -->
-### Data protection
-
-<!-- narrative: governance--gov-protect -->
-The data-protection statute has been enforceable since 2021 and operates as an adequacy model rather than hard localisation: [cross-border transfers are permitted where equivalent protection, consent or contractual necessity applies, with the controller accountable](https://transformpublicrelations.com/2026/07/06/popia-five-years-later-why-is-nobody-being-held-accountable/). The [maximum fine is R10m against a measured average breach cost of R44.1m](https://transformpublicrelations.com/2026/07/06/popia-five-years-later-why-is-nobody-being-held-accountable/) — the penalty is a fraction of the harm it is meant to deter.
-
-
-The supervisor said plainly what it cannot do. At a webinar on 18 August the regulator [said it has no capability to test external systems for privacy compliance before launch, and is working with the justice department to amend the Act to cover artificial intelligence and privacy by design](https://www.timeslive.co.za/news/south-africa/2026-08-18-sahrc-sounds-alarm-over-misuse-of-personal-information-in-digital-age/), while the rights commission reframed misuse of personal information as a constitutional harm bearing on dignity, equality and access to services rather than a cybersecurity one. A peer-reviewed review published four days earlier [records South Africa among three of four countries studied that have not signed the continental data convention, and finds all four health-data governance frameworks fragmented](https://datascience.codata.org/articles/10.5334/dsj-2026-031).
-<!-- /narrative -->
-### Public debate and participation in policymaking
-
-<!-- narrative: governance--gov-discourse -->
-The rights commission put a position on the record about who should arbitrate what is true online. Launching its policy brief on information integrity, [a deputy justice minister said government should not become the custodian of truth on disinformation, while warning against leaving the information environment to private platforms' algorithms](https://www.justice.gov.za/m_speeches/2026/20260819-SAHRC-Online-Stakeholder-Engagement-DMin.html), grounding the balance in the constitutional rights to expression, political participation and access to information. It is a brief rather than an instrument, and no legislative proposal follows from it on the record.
-<!-- /narrative -->
-
-## Artificial intelligence and the technology sector
-
-### Strategies, plans and policies
-
-<!-- narrative: ai-tech--gov-policy -->
-The Department of Communications and Digital Technologies stated on 29 July that the redrafted national AI policy [will issue guidelines rather than prescribe rules](https://techcentral.co.za/radical-rethink-for-south-africas-national-ai-policy/284284/), and that the seven institutions proposed in the withdrawn draft are being reconsidered; cabinet consideration is targeted for November 2026, with January 2027 as fallback. On 31 July the chair of Parliament's communications portfolio committee stated her [opposition to creating new AI regulators](https://www.timeslive.co.za/news/sci-tech/2026-07-31-parliament-against-creating-new-ai-watchdogs-for-sa-diko).
-<!-- /narrative -->
-### Standards
-
-<!-- narrative: ai-tech--gov-standards -->
-The Prudential Authority's 2025/26 report, reported on 16 July, [embeds AI, cloud, cyber and data-offshoring into bank supervision](https://www.itweb.co.za/article/banks-face-stricter-ai-scrutiny-as-regulator-sharpens-focus/xnklOqz14OzM4Ymz) and records a first nationwide AI-adoption survey naming regulatory uncertainty, AI skills and governance as the barriers. A dedicated framework is expected in 2026; none is published.
-<!-- /narrative -->
 ### AI
 
-<!-- narrative: ai-tech--tech-ai -->
+<!-- narrative: technology--tech-ai -->
 The Labour Court [stayed disciplinary proceedings](https://www.itweb.co.za/article/ai-hallucinations-strike-again-at-sa-courts/Pero3qZ31oGvQb6m) against three municipal employees on prima facie evidence that a ruling relied on authorities that do not exist. SARS disclosed that [100% of verification cases and 88.41% of complex audits](https://techcabal.com/2026/07/27/ai-south-africas-taxman/) are selected by automated risk assessment. Huawei reported [1,400 local partners accounting for 94.7% of its local revenue](https://techafricanews.com/2026/07/27/huawei-calls-for-stronger-digital-infrastructure-to-scale-ai-in-south-africa/) at its Sandton partner event, where South Africa's founding membership of the China-led World AI Cooperation Organisation was noted; the figures are company-reported.
 
 The measured incidence of AI-enabled harm remains low and the reason is contested. An analysis of an incident database published on 14 August [links South Africa to 12 of more than 1,600 recorded global cases through April 2026](https://www.itweb.co.za/article/south-africans-street-smarts-blunt-ai-enabled-fraud/lwrKx73Y14kqmg1o), attributing the low count to public wariness rather than to strong defences, against deepfake, fabricated-citation and biometric-verification incidents already on record. It is a count of *recorded* cases, and no national reporting duty exists that would make the denominator meaningful.
@@ -184,25 +177,18 @@ Two smaller items sit at the other end of the same subject. A robotics firm [ope
 <!-- /narrative -->
 ### ICT Industry
 
-<!-- narrative: ai-tech--tech-industry -->
+<!-- narrative: technology--tech-industry -->
 The sector's transformation body lost its chair. The communications minister [replaced the B-BBEE ICT Sector Council's chairperson and appointed an interim chair for six months](https://www.itweb.co.za/article/ict-sector-council-chairperson-gets-the-boot/o1Jr5qxPazEqKdWL) on 14 August, after a departmental investigation found the council dysfunctional. The investigation report is not published, and no remedial plan, terms of reference for the interim period or date for a permanent appointment is stated.
 
 
 The informal economy became a data product. A listed payments company [began selling near-real-time item-level intelligence on informal retail, drawn from a point-of-sale network of over 90,000 spaza shops and taverns and 10,500 checkouts, to consumer-goods brands, wholesalers and financiers](https://www.itweb.co.za/article/lesaka-brings-data-science-to-sas-spaza-economy/KjlyrvwBrAAqk6am). The network figures are the company's own, and no consent basis or data-protection assessment for reselling merchant transaction data is stated.
 <!-- /narrative -->
 
-## Inclusion and capacity
+## Capacity
 
-### Access to services
-
-<!-- narrative: inclusion--include-access -->
-The South African Social Security Agency [set 350,000 grant reviews for 2026/27](https://www.sundaytimes.timeslive.co.za/news/2026-07-21-government-to-review-350000-social-grants-in-bid-to-save-r15bn-and-curb-fraud/) against a projected R1.5bn saving, while beneficiaries flagged from September 2025 [reported continued non-payment](https://www.timeslive.co.za/news/south-africa/2026-07-30-sassa-fraud-crackdown-delays-payments-for-thousands/). An account of the digitalised grants system published on 25 July set out the [bank-account means test applied across eight grants](https://www.dailymaverick.co.za/article/2026-07-25-a-peek-behind-south-africas-digitalised-grants-system/), which remains in operation under appeal, with the Supreme Court of Appeal hearing set for 25 August 2026. Gold Cards were confirmed to [cease functioning after 31 August](https://iol.co.za/thepost/news/2026-07-24-deadline-looms-your-sassa-gold-cards-will-no-longer-work-after-august-31/); the position of beneficiaries who miss the deadline was not stated.
-
-One cooperation arrangement addressed a group the grants system serves and the data rarely describes. South Africa and China [agreed a seven-point plan on disability-inclusive data, universal design and artificial-intelligence-enabled assistive technology](https://www.sanews.gov.za/south-africa/sa-china-deepen-cooperation-disability-inclusion), anchored in a proposed centre of excellence working with the national statistics office. No instrument, funding, timetable or data-sharing arrangement is published for cooperation that names the statistics office as a partner.
-<!-- /narrative -->
 ### Training and skills
 
-<!-- narrative: inclusion--capacity-training -->
+<!-- narrative: capacity--capacity-training -->
 The information technology sector education and training authority was [referred for a governance assessment](https://www.itweb.co.za/article/mict-seta-governance-concerns-referred-to-skills-authority/WnxpE74YZZdMV8XL).
 
 The pipeline that authority sits in was reviewed on 14 August. A development bank's report with the higher education department, philanthropically funded, finds [the route from school through universities and technical colleges into employment constrained at both ends — young people arriving without the foundational digital skills the workplace needs, and employers unable to fill digital vacancies alongside high unemployment](https://www.worldbank.org/en/news/feature/2026/08/14/from-demand-to-delivery-strengthening-south-africas-digital-skills). Its finding is that the mismatch is structural and will not correct itself. That is a verdict on the strategy already under review on this ledger rather than a new instrument.
@@ -211,14 +197,16 @@ One intervention was announced against that pipeline, at the far end of the coun
 <!-- /narrative -->
 ### Research institutions
 
-<!-- narrative: inclusion--capacity-research -->
+<!-- narrative: capacity--capacity-research -->
 The month's one research measure is about the literature rather than the country. A twenty-year bibliometric review [places South Africa 18th worldwide and the only African country among the twenty most productive sources of digital-privacy research, across 4,760 articles published between 2005 and 2025](https://sajim.co.za/index.php/sajim/article/view/2146). The same review finds refugees, people with disabilities, older people and racial and ethnic minorities notably underrepresented in that literature, so the ranking counts output and not coverage of the populations whose privacy is least protected.
 <!-- /narrative -->
 
-## Finance
+## Inclusion
 
-### New investments
+### Access to services
 
-<!-- narrative: finance--finance-new -->
-One programme opened in the window, and it is not yet a commitment to anybody. On 11 August the United Kingdom [published an expression-of-interest call for a Southern Africa science and technology accelerator worth up to GBP2.5m over three years to March 2030, with up to GBP400,000 for 2026/27](https://www.gov.uk/international-development-funding/science-and-technology-accelerator-systems-sta-s-southern-africa-programme), covering artificial intelligence and emerging technologies and digital access alongside climate, energy, health and space. South Africa is the primary focus and Zimbabwe and Zambia the first year's. The fund is resourced and the delivery consortium is not chosen, so what the money buys is a matter for a contract expected later in the year.
+<!-- narrative: inclusion--include-access -->
+The South African Social Security Agency [set 350,000 grant reviews for 2026/27](https://www.sundaytimes.timeslive.co.za/news/2026-07-21-government-to-review-350000-social-grants-in-bid-to-save-r15bn-and-curb-fraud/) against a projected R1.5bn saving, while beneficiaries flagged from September 2025 [reported continued non-payment](https://www.timeslive.co.za/news/south-africa/2026-07-30-sassa-fraud-crackdown-delays-payments-for-thousands/). An account of the digitalised grants system published on 25 July set out the [bank-account means test applied across eight grants](https://www.dailymaverick.co.za/article/2026-07-25-a-peek-behind-south-africas-digitalised-grants-system/), which remains in operation under appeal, with the Supreme Court of Appeal hearing set for 25 August 2026. Gold Cards were confirmed to [cease functioning after 31 August](https://iol.co.za/thepost/news/2026-07-24-deadline-looms-your-sassa-gold-cards-will-no-longer-work-after-august-31/); the position of beneficiaries who miss the deadline was not stated.
+
+One cooperation arrangement addressed a group the grants system serves and the data rarely describes. South Africa and China [agreed a seven-point plan on disability-inclusive data, universal design and artificial-intelligence-enabled assistive technology](https://www.sanews.gov.za/south-africa/sa-china-deepen-cooperation-disability-inclusion), anchored in a proposed centre of excellence working with the national statistics office. No instrument, funding, timetable or data-sharing arrangement is published for cooperation that names the statistics office as a partner.
 <!-- /narrative -->

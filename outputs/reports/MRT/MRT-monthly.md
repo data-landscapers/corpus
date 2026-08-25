@@ -1,16 +1,16 @@
 ---
-title: Mauritania — monthly update, July 2026
-compiled: 2026-08-23
-period: 2026-07-01 to 2026-08-23
+title: Mauritania — monthly update, July – August 2026
+compiled: 2026-08-25
+period: 2026-07-01 to 2026-08-25
 place: MRT
 ledger_rows: 21
 not_held: 4
-record: 53f20a568f57
+record: 58610dae740e
 ---
 
-# Mauritania: monthly update, July 2026
+# Mauritania: monthly update, July – August 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-23 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments summarised from sources published between the beginning of last month and today.*
 
 ## Summary of the month
 
@@ -20,29 +20,37 @@ The month's substantive change was in public administration rather than infrastr
 On governance, the Council of Ministers [replaced the decree governing the Universal Service Access Fund](https://lequotidien.mr/?p=39470) on grounds that amount to an admission the fund has run for six years without settled answers to its basic questions, and neither text is published.
 <!-- /narrative -->
 
-## Infrastructure
+## Governance
+
+### Legislation and regulation
+
+<!-- narrative: governance--gov-legislate -->
+The Council of Ministers of 29 July [approved a draft decree repealing and replacing Decree 2020-152 of 19 November 2020](https://lequotidien.mr/?p=39470) on the management and institutional organisation of the Universal Service Access Fund. The communiqué's stated grounds are that the 2020 arrangement no longer matched institutional reality and that its application had exposed shortcomings in defining the fund's object, in how its resources are mobilised, distributed and allocated, and in the absence of a clear framework for integrating it into the state's budgetary and accounting system. The replacement decree's terms are not reproduced and neither text is held.
+<!-- /narrative -->
+
+## ICT Infrastructure
 
 ### Connectivity
 
-<!-- narrative: infrastructure--infra-connect -->
+<!-- narrative: ict-infrastructure--infra-connect -->
 The regulator's provisional selection for satellite telecommunications licences was [reported on 7 July](https://www.agenceecofin.com/actualites-numerique/0707-139950-mauritanie-trois-entreprises-selectionnees-pour-fournir-des-services-telecoms-par-satellite). Thirteen firms took the dossier and nine bids were submitted across two lots. For mobile personal satellite communications, [BRAINSAT at US$800,000 and VDM at US$50,000 were retained](https://www.agenceecofin.com/actualites-numerique/0707-139950-mauritanie-trois-entreprises-selectionnees-pour-fournir-des-services-telecoms-par-satellite), VDM required to align its offer with BRAINSAT's; for the sale of satellite capacity, [BRAINSAT at US$3 million and Mattel at MRU 6.5 million](https://www.agenceecofin.com/actualites-numerique/0707-139950-mauritanie-trois-entreprises-selectionnees-pour-fournir-des-services-telecoms-par-satellite) were retained on the same condition. No launch date or licence issue is reported, and the operating conditions, licensee obligations and control mechanisms are still to be defined. The account is Agence Ecofin's reading of the regulator's communiqué, which is not held.
 
 The second operator [launched a commercial 5G network at Nouakchott on 10 August under the digital transformation minister](https://ghabess.net/23385); no coverage, tariff or subscriber figure accompanies it. The Ministry of Digital Transformation and Administrative Modernisation said on 24 July that [all electronic-communications operators have activated IPv6](https://www.alakhbar.info/6a62c5feac143500012ee215/) across their networks and services, and that the national committee monitoring the transition recorded tangible progress, with one unnamed operator past 15% of subscribers migrated against a 25% end-2026 target. The ministry's stated rationale is sovereignty and security rather than address exhaustion — IPv6 as the precondition for 5G, cloud, internet-of-things and AI services.
 <!-- /narrative -->
 ### Data Storage
 
-<!-- narrative: infrastructure--infra-store -->
+<!-- narrative: ict-infrastructure--infra-store -->
 
 
 The national government cloud is close enough to service to be shown off. On 11 August a visiting development-bank vice-president [was briefed at the national data centre on data-security testing and migration preparation ahead of go-live](https://alwiam.info/ar/51206). No go-live date, migration scope or capacity figure is stated.
 <!-- /narrative -->
 ### Cybersecurity
 
-<!-- narrative: infrastructure--infra-cybersec -->
+<!-- narrative: ict-infrastructure--infra-cybersec -->
 PAFIID reported on 8 July that the Central Bank's AI-supported reputation-protection platform had detected [more than 10,000 electronic threats in the first half of 2026](https://elvetach.info/archives/212723) — phishing, impersonation, application and site fraud — of which 470 were confirmed and removed, with 20 digital identities protected.
 <!-- /narrative -->
 
-## Digital public infrastructure
+## DPI
 
 ### Data Exchange
 
@@ -56,7 +64,7 @@ The digital ministry [opened a two-day workshop on 27 July](https://www.ami.mr/a
 
 The identity application is now load-bearing, and the month showed what that means. It [carries about 1.5 million citizens and 554,027 remote services, and underpins identity verification for the state services portal's fifteen-plus services and for private financial applications](https://techrek.info/fr/houwiyeti-de-nouveau-operationnelle-de-la-maintenance-periodique-a-la-question-de-la-souverainete-numerique/) — and a full day of scheduled maintenance on 8 August took all of it down at once. The usage figures are the reporting outlet's; no operator statement on the outage or on redundancy is held.
 <!-- /narrative -->
-### Registries (population, land, address, etc.)
+### Registries
 
 <!-- narrative: dpi--dpi-registry -->
 The consular-services platform launched 9 July 2026 [built a unified digital consular registry](https://www.wearetech.africa/en/fils-uk/news/public-management/mauritania-launches-digital-consular-services-platform-for-citizens-abroad), compiled by diaspora engineers after consultations in 22 countries.
@@ -74,32 +82,27 @@ Khdamati, the remote-transactions platform named as the third phase of the Ijraa
 
 Separately the state is preparing to [recruit 3,852 education-sector agents through a national competitive examination](https://ami.mr/fr/archives/300856), with ministries coordinating the digital mechanisms planned for the process. No platform is named.
 <!-- /narrative -->
-### National statistics
 
-<!-- narrative: dpi--data-statistics -->
-The Ministry of Youth Empowerment presented the reference document for a [first National Youth Empowerment Index](https://lequotidien.mr/?p=39456&lang=fr) on 29 July: five domains built from 43 secondary indicators, a preliminary 2026 score of 60.5 out of 100, education and training strongest at 69.5% and health and sport weakest at 46.1%, with disaggregation by wilaya, sex and age band held out as a later capability.
-<!-- /narrative -->
-
-## Governance and regulation
-
-### Legislation and regulation
-
-<!-- narrative: governance--gov-legislate -->
-The Council of Ministers of 29 July [approved a draft decree repealing and replacing Decree 2020-152 of 19 November 2020](https://lequotidien.mr/?p=39470) on the management and institutional organisation of the Universal Service Access Fund. The communiqué's stated grounds are that the 2020 arrangement no longer matched institutional reality and that its application had exposed shortcomings in defining the fund's object, in how its resources are mobilised, distributed and allocated, and in the absence of a clear framework for integrating it into the state's budgetary and accounting system. The replacement decree's terms are not reproduced and neither text is held.
-<!-- /narrative -->
-
-## Artificial intelligence and the technology sector
-
-### Gulf/UAE activities
-
-<!-- narrative: ai-tech--geopol-gulf -->
-The Mauritanian–Omani digitalisation forum closed at the Diplomatic Academy in Nouakchott on 30 July with [a cooperation and partnership agreement and several memoranda](https://lequotidien.mr/?p=39490) between public- and private-sector bodies of the two countries, presented as a move from exchanging experience to joint projects. The stated scope covers digital capacity-building and e-training, digital learning platforms, digital transformation, cybersecurity, artificial intelligence and data analytics, platform development, technical project management, and programmes for civil servants, students and jobseekers. It followed a working visit from 28 to 30 July by an Omani delegation led by the under-secretary of Oman's transport and communications ministry, briefed on Mauritania's digital strategy, institutional and legislative reforms and data-sovereignty work; the [Omani account](https://www.gccbusinessnews.com/oman-mauritania-5-mous-digital-economy/) says its delegation carried telecoms, data-centre, AI, fintech and govtech firms. No values were disclosed by either side.
-<!-- /narrative -->
-
-## Inclusion and capacity
+## Capacity
 
 ### Training and skills
 
-<!-- narrative: inclusion--capacity-training -->
+<!-- narrative: capacity--capacity-training -->
 The Ministry of Vocational Training [launched a digital-employability project on 23 July](https://www.ami.mr/archives/264918) financed by France's Fonds Équipe France and implemented by Simplon: 2,150 beneficiaries across six cities, about 2,000 of them young people, with a stated focus on women and people with disabilities. It succeeds a programme closed in 2025.
+<!-- /narrative -->
+
+## Data
+
+### National statistics
+
+<!-- narrative: data--data-statistics -->
+The Ministry of Youth Empowerment presented the reference document for a [first National Youth Empowerment Index](https://lequotidien.mr/?p=39456&lang=fr) on 29 July: five domains built from 43 secondary indicators, a preliminary 2026 score of 60.5 out of 100, education and training strongest at 69.5% and health and sport weakest at 46.1%, with disaggregation by wilaya, sex and age band held out as a later capability.
+<!-- /narrative -->
+
+## Geopolitics
+
+### Gulf/UAE activities
+
+<!-- narrative: geopolitics--geopol-gulf -->
+The Mauritanian–Omani digitalisation forum closed at the Diplomatic Academy in Nouakchott on 30 July with [a cooperation and partnership agreement and several memoranda](https://lequotidien.mr/?p=39490) between public- and private-sector bodies of the two countries, presented as a move from exchanging experience to joint projects. The stated scope covers digital capacity-building and e-training, digital learning platforms, digital transformation, cybersecurity, artificial intelligence and data analytics, platform development, technical project management, and programmes for civil servants, students and jobseekers. It followed a working visit from 28 to 30 July by an Omani delegation led by the under-secretary of Oman's transport and communications ministry, briefed on Mauritania's digital strategy, institutional and legislative reforms and data-sovereignty work; the [Omani account](https://www.gccbusinessnews.com/oman-mauritania-5-mous-digital-economy/) says its delegation carried telecoms, data-centre, AI, fintech and govtech firms. No values were disclosed by either side.
 <!-- /narrative -->

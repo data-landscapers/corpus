@@ -1,15 +1,15 @@
 ---
 title: Burundi — digital transformation and data governance status report
-compiled: 2026-08-23
+compiled: 2026-08-25
 place: BDI
 ledger_rows: 65
 not_held: 10
-record: ce92e1db1c0e
+record: 77cc6cd7d495
 ---
 
 # Burundi: status report
 
-*Compiled 2026-08-23 from the Data Landscapers source base, from `outputs/reports/BDI/ledger.csv` (65 systems and instruments, 10 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-25 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/BDI/ledger.csv` (65 systems and instruments, 10 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -21,7 +21,88 @@ Burundi built a great deal of digital public infrastructure in the twelve months
 Against that, [ARCT says internet quality is degraded and traces it mainly to the electricity supply](https://www.iwacu-burundi.org/telecommunications-un-casse-tete-pour-les-abonnes/). The identity card awaits a legal instrument, the data protection authority the January law creates is not on record as operating, and the [one attempt on file to enforce a consent obligation is reported to have changed nothing](https://www.iwacu-burundi.org/interview-avec-pierre-nduwayo-aucun-service-payant-ne-devrait-etre-active-sans-le-consentement-explicite-de-labonne/). The sequencing is the government's own: the law was adopted in order to make the card lawful.
 <!-- /narrative -->
 
-## Infrastructure
+## Governance
+
+### Strategies, plans and policies
+
+| System or instrument | Status | Milestone |
+|---|---|---|
+| National Data Governance Strategy | [Implemented](https://www.wearetech.africa/en/fils-uk/news/burundi-adopts-national-data-governance-strategy) | Validated with seven pillars, UNECA-supported and AU Data Policy Framework-aligned |
+| Proposed mobile-phone ban for civil servants | [Planned](https://www.connectingafrica.com/regulation/burundian-president-seeks-mobile-phone-ban-for-civil-servants) | Proposed by the president, office landlines to replace mobile phones |
+
+### Legislation and regulation
+
+| System or instrument | Status | Milestone |
+|---|---|---|
+| Access to information bill | [Planned](https://lerenouveau.bi/assemblee-nationale-ouverture-de-la-session-parlementaire-ordinaire-daout-2026/) | Listed on the National Assembly's order paper for the session opened 3 August 2026 |
+| Anti-money-laundering and counter-terrorist-financing regime | [Enacted](https://www.burunditimes.com/burundi-modernizes-financial-crime-defense-as-central-bank-issues-new-aml-cft-rules/) | Five central bank circulars issued, FATF-aligned |
+
+### Data protection
+
+| System or instrument | Status | Milestone |
+|---|---|---|
+| ARCT injunctions on value-added-service consent | [Enacted](https://www.iwacu-burundi.org/interview-avec-pierre-nduwayo-aucun-service-payant-ne-devrait-etre-active-sans-le-consentement-explicite-de-labonne/) | Injunctions issued to Lumitel requiring genuinely voluntary subscription and prior notification |
+| Data protection authority | [Planned](https://techafricanews.com/2026/01/16/burundi-adopts-landmark-personal-data-protection-law-to-safeguard-citizens-in-the-digital-era/) | Created by the January 2026 law; no appointment, budget or decision on file |
+| Personal data protection law | [Enacted](https://techafricanews.com/2026/01/16/burundi-adopts-landmark-personal-data-protection-law-to-safeguard-citizens-in-the-digital-era/) | Unanimously adopted by the National Assembly, 15 January 2026 |
+| Data-sharing agreement under the United States health-sector memorandum | ***Not held*** | — |
+
+### Regional collaboration
+
+| System or instrument | Status | Milestone |
+|---|---|---|
+| AfCFTA country implementation roadmap | [Planned](https://au-afcfta.org/2026/08/afcfta-secretary-general-begins-official-mission-to-burundi/) | Technical team agreed 3 August 2026, during the AfCFTA Secretary-General's mission to Bujumbura, to produce a country profile and implementation roadmap jointly owned by government and the private sector |
+| EAC One Network Area and Regional Digital Integration protocol | [Implemented](https://www.burunditimes.com/burundi-embraces-eac-digital-integration-for-ict-growth/) | Joined the One Network Area and ratified the protocol |
+| Vietnam-Burundi telecommunications-technology memorandum | [Enacted](https://www.vietnam.vn/viet-nam-burundi-thuc-day-hop-tac-chuyen-doi-so-va-phat-trien-ha-tang-cong-nghe) | Implementation meeting held 28 July 2026, party-to-party rather than ministry-to-ministry |
+
+### Standards
+
+| System or instrument | Status | Milestone |
+|---|---|---|
+| National technical standards or interoperability framework | ***Not held*** | No national framework on file; the standards work on record is regional |
+
+### Public debate and participation in policymaking
+
+| System or instrument | Status | Milestone |
+|---|---|---|
+| Etats generaux de la communication | [Planned](https://www.sosmediasburundi.org/2026/07/31/telecoms-en-crise-au-burundi-labuco-denonce-linaction-des-autorites-face-a-la-degradation-des-services/) | Proposed by the consumer association ABUCO; no convening date on file |
+
+<!-- narrative: governance -->
+Burundi's [first personal data protection law was adopted unanimously on 15 January 2026](https://techafricanews.com/2026/01/16/burundi-adopts-landmark-personal-data-protection-law-to-safeguard-citizens-in-the-digital-era/): eight chapters, an independent authority, criminal penalties, aligned to the Malabo Convention. The authority it creates is not on record as appointed, funded or having taken a decision.
+
+The one attempt on file to enforce something consent-shaped was made by a different regulator. ARCT [issued injunctions to Lumitel on 29 May 2026 requiring genuinely voluntary subscription and prior notification for value-added services](https://www.iwacu-burundi.org/interview-avec-pierre-nduwayo-aucun-service-payant-ne-devrait-etre-active-sans-le-consentement-explicite-de-labonne/), after the consumer association ABUCO complained that subscribers were enrolled without their knowledge. ABUCO reports no significant improvement two months on; Lumitel maintains that nothing activates without a customer's deliberate action; no sanction is on file.
+
+Two framework documents sit above the law. The [National Data Governance Strategy was validated in November 2025](https://www.wearetech.africa/en/fils-uk/news/burundi-adopts-national-data-governance-strategy) with seven pillars and UNECA support. An [access-to-information bill was listed on the National Assembly's order paper for the session opened on 3 August 2026](https://lerenouveau.bi/assemblee-nationale-ouverture-de-la-session-parlementaire-ordinaire-daout-2026/) — no text, tabling number, sponsoring ministry or timetable published, and no access-to-information statute on file to date.
+
+Burundi [joined the EAC One Network Area and ratified the Regional Digital Integration protocol](https://www.burunditimes.com/burundi-embraces-eac-digital-integration-for-ict-growth/). The [Vietnam memorandum's implementation meeting of 28 July 2026 ran through the ruling party rather than the ministry](https://www.vietnam.vn/viet-nam-burundi-thuc-day-hop-tac-chuyen-doi-so-va-phat-trien-ha-tang-cong-nghe), Vietnam's stated ask being that Burundi create conditions for Lumitel, the Viettel subsidiary already carrying the larger half of the rural build. The AfCFTA Secretary-General's [mission to Bujumbura on 3 August 2026](https://au-afcfta.org/2026/08/afcfta-secretary-general-begins-official-mission-to-burundi/) closed with agreement to produce a country profile and implementation roadmap jointly owned by government and the private sector, tied by the minister to Burundi's African Union Chairmanship. No national interoperability framework or technical standard is held; the standards work on record is regional.
+<!-- /narrative -->
+
+## Finance
+
+### Domestic budget appropriations and expenditure
+
+| System or instrument | Status | Milestone |
+|---|---|---|
+| Execution discipline of voted appropriations | [Under review](https://burundi-eco.com/budget-2024-2025-quand-les-urgences-bousculent-les-priorites/) | Mid-year work-plan report showed credits shifted between programmes with a 2.7% overrun |
+
+### MoUs and other agreements
+
+| System or instrument | Status | Milestone |
+|---|---|---|
+| United States health-sector memorandum | [Enacted](https://www.burunditimes.com/united-states-commits-156-million-to-burundi-health-sector-under-new-five-year-agreement/) | Five-year agreement signed, including health-data management |
+
+### New investments
+
+| System or instrument | Status | Milestone |
+|---|---|---|
+| PAFEN Digital Foundations Project | [Implemented](https://www.wearetech.africa/en/fils-uk/news/tech/world-bank-reviews-burundi-s-pafen-reform-program) | Mid-term review put commitment at 61% |
+
+<!-- narrative: finance -->
+One institution dominates the financing. Every non-state digital-transformation deal the base holds for Burundi is World Bank, across four operations running from 2021 to 2029; the amounts are set out in the published finance table for Burundi rather than here, because they are this base's own compilation of scattered records and not a figure any source states. The vehicle is [PAFEN, at 61% committed at mid-term](https://www.wearetech.africa/en/fils-uk/news/tech/world-bank-reviews-burundi-s-pafen-reform-program).
+
+Domestic money is unusually well documented for a country this size. The [communications and ICT ministry's vote tripled to BIF 131.7bn in FY2024/25 from BIF 43.1bn](https://lerenouveau.bi/assemblee-nationale-le-projet-de-loi-portant-reglement-et-compte-rendu-budgetaire-2024-2025-adopte-a-lunanimite/), and the [FY2026/27 general budget was adopted at expenditure above BIF 7,020bn against revenue of BIF 6,296.03bn, up 23.76%](https://burundi-eco.com/budget-general-de-letat-exercice-2026-2027-un-budget-de-plus-de-7000-milliards-de-bif-adopte-a-lunanimite/). But the same loi de règlement records revenue realised at BIF 3,234bn, 76.79% of the revised target, and a [mid-year work-plan report showed credits shifted between programmes with a 2.7% overrun](https://burundi-eco.com/budget-2024-2025-quand-les-urgences-bousculent-les-priorites/). A voted digital line is not a spent one.
+<!-- /narrative -->
+
+## ICT Infrastructure
 
 ### Connectivity
 
@@ -58,7 +139,7 @@ Against that, [ARCT says internet quality is degraded and traces it mainly to th
 |---|---|---|
 | Regional financial-system cybersecurity measures | [Planned](https://www.rtnb.bi/?mypost?id=529) | EAC central bank governors flagged the risk as requiring stronger common measures |
 
-<!-- narrative: infrastructure -->
+<!-- narrative: ict-infrastructure -->
 The regulator has published its own diagnosis of the network. ARCT [names six causes of degraded internet quality: power cuts forcing base stations onto generators, difficulty fuelling those generators, unstable supply from the utility REGIDESO, urban bandwidth saturation, ageing transmission equipment and absence of masts](https://www.iwacu-burundi.org/telecommunications-un-casse-tete-pour-les-abonnes/). Four of the six are electricity, directly or at one remove. An earlier account [attributed outages to power, fuel and foreign-exchange shortages](https://www.connectingafrica.com/connectivity/unreliable-connectivity-impacts-burundi-s-citizens), so the position at both ends of the window is the same.
 
 Three remedies are named and none is yet an instrument: a draft infrastructure-sharing law, a PAFEN-financed mast-deployment programme, and a planned study on powering mobile sites. The funded one addresses coverage; the cause the regulator puts first is at study stage.
@@ -68,7 +149,7 @@ The rural build is the substantial commitment: [ONATEL contracted for 92 hills c
 Satellite does not close the gap: [Starlink is licensed but effectively unavailable on cost, the kit alone at roughly US$500](https://www.connectingafrica.com/connectivity/unreliable-connectivity-impacts-burundi-s-citizens). A [national data centre is a stated PAFEN priority](https://www.wearetech.africa/en/fils-uk/news/tech/world-bank-reviews-burundi-s-pafen-reform-program) with no build, site or date on file.
 <!-- /narrative -->
 
-## Digital public infrastructure
+## DPI
 
 ### Data Exchange
 
@@ -93,14 +174,14 @@ Satellite does not close the gap: [Starlink is licensed but effectively unavaila
 | PAPSS accession | [Implemented](https://www.jimberemag.org/une-revolution-de-leconomie-digitale-au-burundi/) | BRB acceded to the Pan-African Payment and Settlement System; four Burundian banks authorised to participate (as at 4 August 2026) |
 | Payment switch migration to ISO 20022 | [Implemented](https://www.burunditimes.com/burundi-upgrades-payment-system-to-international-iso-20022-standard/) | Migration completed by the central bank |
 
-### Registries (population, land, address, etc.)
+### Registries
 
 | System or instrument | Status | Milestone |
 |---|---|---|
 | 2027 electoral register preparation | [In development](https://www.burunditimes.com/burundi-opposition-parties-challenge-cenis-2027-election-preparations-president-calls-for-parental-dialogue/) | Opposition parties demanded suspension of the electoral commission's preparations |
 | Electronic land-title register | [Implemented, fee contested](https://www.iwacu-burundi.org/titres-fonciers-securises-une-mesure-couteuse-et-precipitee/) | Mandatory electronic land-title fee ordinance drew objections on cost and deadline |
 
-### Sectoral management information systems (HMIS, EMIS, etc.)
+### Sectoral management information systems
 
 | System or instrument | Status | Milestone |
 |---|---|---|
@@ -119,31 +200,6 @@ Satellite does not close the gap: [Starlink is licensed but effectively unavaila
 | OBR electronic Guichet Unique (single window) | [Implemented](https://www.wearetech.africa/fr/fils/actualites/tech/le-burundi-digitalise-ses-procedures-d-importation-via-un-guichet-unique) | Put into production with the ABREMA pharmaceutical-import module |
 | Paperless Council of Ministers | [Implemented](https://burundi-eco.com/le-gouvernement-accelere-t-il-la-digitalisation-des-services-publics/) | Named in the finance and digital-economy minister's stock-take |
 
-### Rural digital data capture
-
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Villages Numeriques programme | [In development](https://www.iwacu-burundi.org/internet-haut-debit-le-pafen-veut-couvrir-plus-de-80-du-territoire/) | Named in the PAFEN broadband account targeting 80% territorial coverage |
-
-### Digitalisation of sub-national government
-
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Digitisation of communal administration | ***Not held*** | No source on file describing a commune-level system |
-
-### National statistics
-
-| System or instrument | Status | Milestone |
-|---|---|---|
-| EAC Statistics Bureau | [Enacted](https://www.burunditimes.com/eala-passes-eac-statistics-bureau-bill-paving-way-for-monetary-union/) | Bill endorsed by the East African Legislative Assembly with Burundian amendments |
-| Population census | [Enacted, preliminary results only](https://presidence.gov.bi/wp-content/uploads/2025/04/decret-RGPHAE-2024.pdf) | Décret n°100/032 (27 March 2025) publishes preliminary results 'pour tout usage, en attendant la publication des résultats définitifs'; definitive results not yet published |
-
-### Use of satellite data
-
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Earth-observation or satellite data programme | ***Not held*** | No source on file |
-
 <!-- narrative: dpi -->
 Payments moved furthest. [BurundiPay opened on 23 April 2026](https://www.wearetech.africa/en/fils-uk/news/tech/burundi-launches-real-time-payments-platform-backed-by-world-bank), making banks, microfinance institutions and mobile money interoperable on ISO 20022 and USSD at about 1,000 transactions per second; the minister later [named Lumicash, Ecocash, E-noti and Cashtel as the systems it links](https://burundi-eco.com/le-gouvernement-accelere-t-il-la-digitalisation-des-services-publics/). By 4 August 2026, [17 of 78 licensed institutions were live — five banks, ten microfinance institutions, two payment institutions — with about 224,000 users and BIF 4.29 billion cumulative volume](https://www.jimberemag.org/une-revolution-de-leconomie-digitale-au-burundi/); the rest have until 5 September 2026 to integrate, on pain of a BIF 1m-per-month fine. The central bank has also [acceded to PAPSS, the Pan-African Payment and Settlement System, with four banks authorised](https://www.jimberemag.org/une-revolution-de-leconomie-digitale-au-burundi/). What the rail sits on has not moved: [deposits and withdrawals were about 45% of digital-payment value in Q2 2025, and about 1.6m of 7.6m mobile wallets were active](https://www.burunditimes.com/burundi-digital-payments-see-growth-but-cash-still-dominates/). Cross-border within the EAC, governors meeting in Kampala in July 2026 [decided BurundiPay must interconnect with other member states' payment systems](https://www.jimberemag.org/une-revolution-de-leconomie-digitale-au-burundi/); the master plan's own first activities remain work plans, priorities and resource mobilisation.
 
@@ -156,74 +212,25 @@ Tax and trade administration is the most complete part of the stack. [e-KORI ope
 Registries are further along than the identity layer they will depend on. [Merankabandi runs on openIMIS with 1.25m beneficiaries](https://openimis.org/blog/burundis-growing-social-protection-system-now-runs-openimis); the health supply chain [reached 956 public and faith-based facilities and more than 2,000 users](https://www.wearetech.africa/en/fils-uk/news/tech/burundi-advances-health-digitalization-with-broader-elmis-medexis-rollout); land services are digitised, with a [mandatory electronic land-title fee ordinance objected to on cost and the shortness of its deadline](https://www.iwacu-burundi.org/titres-fonciers-securises-une-mesure-couteuse-et-precipitee/). The [integrated public finance management system is under a contested single-source award](https://www.digitalbusiness.africa/burundi-le-ministere-des-finances-cite-dans-une-affaire-de-gre-a-gre-pour-des-contrats-informatiques-evalues-a-30-millions-de-dollars/), envelope put at about US$30m; the allegations are reported, not established.
 <!-- /narrative -->
 
-## Governance and regulation
+## Digitalisation
 
-### Legislation and regulation
-
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Access to information bill | [Planned](https://lerenouveau.bi/assemblee-nationale-ouverture-de-la-session-parlementaire-ordinaire-daout-2026/) | Listed on the National Assembly's order paper for the session opened 3 August 2026 |
-| Anti-money-laundering and counter-terrorist-financing regime | [Enacted](https://www.burunditimes.com/burundi-modernizes-financial-crime-defense-as-central-bank-issues-new-aml-cft-rules/) | Five central bank circulars issued, FATF-aligned |
-
-### Strategies, plans and policies
+### Digitalisation of sub-national government
 
 | System or instrument | Status | Milestone |
 |---|---|---|
-| National Data Governance Strategy | [Implemented](https://www.wearetech.africa/en/fils-uk/news/burundi-adopts-national-data-governance-strategy) | Validated with seven pillars, UNECA-supported and AU Data Policy Framework-aligned |
-| Proposed mobile-phone ban for civil servants | [Planned](https://www.connectingafrica.com/regulation/burundian-president-seeks-mobile-phone-ban-for-civil-servants) | Proposed by the president, office landlines to replace mobile phones |
+| Digitisation of communal administration | ***Not held*** | No source on file describing a commune-level system |
 
-### Regional collaboration
-
-| System or instrument | Status | Milestone |
-|---|---|---|
-| AfCFTA country implementation roadmap | [Planned](https://au-afcfta.org/2026/08/afcfta-secretary-general-begins-official-mission-to-burundi/) | Technical team agreed 3 August 2026, during the AfCFTA Secretary-General's mission to Bujumbura, to produce a country profile and implementation roadmap jointly owned by government and the private sector |
-| EAC One Network Area and Regional Digital Integration protocol | [Implemented](https://www.burunditimes.com/burundi-embraces-eac-digital-integration-for-ict-growth/) | Joined the One Network Area and ratified the protocol |
-| Vietnam-Burundi telecommunications-technology memorandum | [Enacted](https://www.vietnam.vn/viet-nam-burundi-thuc-day-hop-tac-chuyen-doi-so-va-phat-trien-ha-tang-cong-nghe) | Implementation meeting held 28 July 2026, party-to-party rather than ministry-to-ministry |
-
-### Standards
+### Rural digital data capture
 
 | System or instrument | Status | Milestone |
 |---|---|---|
-| National technical standards or interoperability framework | ***Not held*** | No national framework on file; the standards work on record is regional |
+| Villages Numeriques programme | [In development](https://www.iwacu-burundi.org/internet-haut-debit-le-pafen-veut-couvrir-plus-de-80-du-territoire/) | Named in the PAFEN broadband account targeting 80% territorial coverage |
 
-### Data protection
+<!-- narrative: digitalisation -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| ARCT injunctions on value-added-service consent | [Enacted](https://www.iwacu-burundi.org/interview-avec-pierre-nduwayo-aucun-service-payant-ne-devrait-etre-active-sans-le-consentement-explicite-de-labonne/) | Injunctions issued to Lumitel requiring genuinely voluntary subscription and prior notification |
-| Data protection authority | [Planned](https://techafricanews.com/2026/01/16/burundi-adopts-landmark-personal-data-protection-law-to-safeguard-citizens-in-the-digital-era/) | Created by the January 2026 law; no appointment, budget or decision on file |
-| Personal data protection law | [Enacted](https://techafricanews.com/2026/01/16/burundi-adopts-landmark-personal-data-protection-law-to-safeguard-citizens-in-the-digital-era/) | Unanimously adopted by the National Assembly, 15 January 2026 |
-| Data-sharing agreement under the United States health-sector memorandum | ***Not held*** | — |
-
-### Public debate and participation in policymaking
-
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Etats generaux de la communication | [Planned](https://www.sosmediasburundi.org/2026/07/31/telecoms-en-crise-au-burundi-labuco-denonce-linaction-des-autorites-face-a-la-degradation-des-services/) | Proposed by the consumer association ABUCO; no convening date on file |
-
-### EU activities
-
-| System or instrument | Status | Milestone |
-|---|---|---|
-| European Union digital cooperation with Burundi | ***Not held*** | No source on file |
-
-### Open data
-
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Open government data portal | ***Not held*** | No portal or open-data policy on file; the access-to-information bill has no published text |
-
-<!-- narrative: governance -->
-Burundi's [first personal data protection law was adopted unanimously on 15 January 2026](https://techafricanews.com/2026/01/16/burundi-adopts-landmark-personal-data-protection-law-to-safeguard-citizens-in-the-digital-era/): eight chapters, an independent authority, criminal penalties, aligned to the Malabo Convention. The authority it creates is not on record as appointed, funded or having taken a decision.
-
-The one attempt on file to enforce something consent-shaped was made by a different regulator. ARCT [issued injunctions to Lumitel on 29 May 2026 requiring genuinely voluntary subscription and prior notification for value-added services](https://www.iwacu-burundi.org/interview-avec-pierre-nduwayo-aucun-service-payant-ne-devrait-etre-active-sans-le-consentement-explicite-de-labonne/), after the consumer association ABUCO complained that subscribers were enrolled without their knowledge. ABUCO reports no significant improvement two months on; Lumitel maintains that nothing activates without a customer's deliberate action; no sanction is on file.
-
-Two framework documents sit above the law. The [National Data Governance Strategy was validated in November 2025](https://www.wearetech.africa/en/fils-uk/news/burundi-adopts-national-data-governance-strategy) with seven pillars and UNECA support. An [access-to-information bill was listed on the National Assembly's order paper for the session opened on 3 August 2026](https://lerenouveau.bi/assemblee-nationale-ouverture-de-la-session-parlementaire-ordinaire-daout-2026/) — no text, tabling number, sponsoring ministry or timetable published, and no access-to-information statute on file to date.
-
-Burundi [joined the EAC One Network Area and ratified the Regional Digital Integration protocol](https://www.burunditimes.com/burundi-embraces-eac-digital-integration-for-ict-growth/). The [Vietnam memorandum's implementation meeting of 28 July 2026 ran through the ruling party rather than the ministry](https://www.vietnam.vn/viet-nam-burundi-thuc-day-hop-tac-chuyen-doi-so-va-phat-trien-ha-tang-cong-nghe), Vietnam's stated ask being that Burundi create conditions for Lumitel, the Viettel subsidiary already carrying the larger half of the rural build. The AfCFTA Secretary-General's [mission to Bujumbura on 3 August 2026](https://au-afcfta.org/2026/08/afcfta-secretary-general-begins-official-mission-to-burundi/) closed with agreement to produce a country profile and implementation roadmap jointly owned by government and the private sector, tied by the minister to Burundi's African Union Chairmanship. No national interoperability framework or technical standard is held; the standards work on record is regional.
 <!-- /narrative -->
 
-## Artificial intelligence and the technology sector
+## Technology
 
 ### AI
 
@@ -245,31 +252,7 @@ Burundi [joined the EAC One Network Area and ratified the Regional Digital Integ
 |---|---|---|
 | Local AI builds | [In development](https://en.irisnews.org/in-burundi-a-quiet-reckoning-with-the-age-of-ai/) | MineGuard and AfriPrompt named at the July 2026 governance workshop |
 
-### US / hyperscaler activities
-
-| System or instrument | Status | Milestone |
-|---|---|---|
-| United States health-sector agreement | [Enacted](https://www.burunditimes.com/united-states-commits-156-million-to-burundi-health-sector-under-new-five-year-agreement/) | Five-year memorandum signed, including health-data management |
-
-### China activities
-
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Chinese digital investment in Burundi | ***Not held*** | No source on file |
-
-### India activities
-
-| System or instrument | Status | Milestone |
-|---|---|---|
-| India Stack cooperation | [Planned](https://www.wearetech.africa/en/fils-uk/news/tech/burundi-studies-india-stack-for-digital-identity-and-payment-reforms) | Talks opened to adapt Aadhaar-style identity linked to instant payments |
-
-### Gulf/UAE activities
-
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Gulf-state digital investment in Burundi | ***Not held*** | No source on file |
-
-<!-- narrative: ai-tech -->
+<!-- narrative: technology -->
 The [National AI Strategy 2026-2030 was validated on 22 April 2026](https://www.wearetech.africa/en/fils-uk/news/tech/burundi-rolls-out-six-pillar-ai-strategy-to-accelerate-digital-economy) with six pillars, a target of training more than 1,000 officials and about 15 health and agriculture pilots. It was [preceded by an AI-readiness diagnostic in November 2025](https://www.iwacu-burundi.org/burundi-un-atelier-national-pour-evaluer-le-paysage-de-lintelligence-artificielle-et-tracer-une-feuille-de-route-strategique/).
 
 The first documented governance discussion of it happened outside government. A [two-day workshop in Bujumbura in July 2026, run by an association of German Academic Exchange Service alumni](https://en.irisnews.org/in-burundi-a-quiet-reckoning-with-the-age-of-ai/), put the load-bearing point on data rather than algorithms: Burundi has legislated on personal data but holds a great deal of information and little of it as structured, consented, usable data. MineGuard and AfriPrompt were named as local builds. Where the capacity sits is worth recording: an alumni association and university lecturers, not a regulator.
@@ -277,13 +260,7 @@ The first documented governance discussion of it happened outside government. A 
 External cooperation is where the sector's money is. Burundi [opened talks with India in June 2026 to adapt India Stack](https://www.wearetech.africa/en/fils-uk/news/tech/burundi-studies-india-stack-for-digital-identity-and-payment-reforms), Aadhaar-style identity linked to instant payments, as a cheaper and less vendor-dependent path than the one it is on. The [United States signed a five-year US$156m health-sector agreement in February 2026](https://www.burunditimes.com/united-states-commits-156-million-to-burundi-health-sector-under-new-five-year-agreement/) including health-data management. In the domestic market, [Lyca Mobile was licensed in October 2025 and has advanced telecom and e-health plans](https://www.wearetech.africa/en/fils-uk/news/telecom/lyca-mobile-advances-telecom-and-e-health-plans-in-burundi) without a service launch on file. No Chinese or Gulf-state digital investment is held.
 <!-- /narrative -->
 
-## Inclusion and capacity
-
-### Digital divides
-
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Rural coverage target | [In development](https://www.iwacu-burundi.org/internet-haut-debit-le-pafen-veut-couvrir-plus-de-80-du-territoire/) | PAFEN broadband programme targeting 80% of the territory |
+## Capacity
 
 ### Literacy
 
@@ -303,36 +280,83 @@ External cooperation is where the sector's money is. Burundi [opened talks with 
 |---|---|---|
 | University and professional research capacity in AI and data | [In development](https://en.irisnews.org/in-burundi-a-quiet-reckoning-with-the-age-of-ai/) | First documented workshop drew university lecturers, doctors, developers and students |
 
+<!-- narrative: capacity -->
+
+<!-- /narrative -->
+
+## Inclusion
+
+### Digital divides
+
+| System or instrument | Status | Milestone |
+|---|---|---|
+| Rural coverage target | [In development](https://www.iwacu-burundi.org/internet-haut-debit-le-pafen-veut-couvrir-plus-de-80-du-territoire/) | PAFEN broadband programme targeting 80% of the territory |
+
 <!-- narrative: inclusion -->
 Access moved the wrong way on price. The consumer association ABUCO [states that internet package tariffs have more than doubled since January 2025](https://www.sosmediasburundi.org/2026/07/31/telecoms-en-crise-au-burundi-labuco-denonce-linaction-des-autorites-face-a-la-degradation-des-services/), against an instruction to operators that year to improve quality and accessibility. It proposes états généraux of the sector; no response is on file.
 
 On capacity, [Vietnam reports having supplied 50 desktop computer sets and Master's scholarships in computer science](https://www.vietnam.vn/viet-nam-burundi-thuc-day-hop-tac-chuyen-doi-so-va-phat-trien-ha-tang-cong-nghe). No digital-literacy programme or measurement is held.
 <!-- /narrative -->
 
-## Finance
+## Data
 
-### New investments
-
-| System or instrument | Status | Milestone |
-|---|---|---|
-| PAFEN Digital Foundations Project | [Implemented](https://www.wearetech.africa/en/fils-uk/news/tech/world-bank-reviews-burundi-s-pafen-reform-program) | Mid-term review put commitment at 61% |
-
-### MoUs and other agreements
+### National statistics
 
 | System or instrument | Status | Milestone |
 |---|---|---|
-| United States health-sector memorandum | [Enacted](https://www.burunditimes.com/united-states-commits-156-million-to-burundi-health-sector-under-new-five-year-agreement/) | Five-year agreement signed, including health-data management |
+| EAC Statistics Bureau | [Enacted](https://www.burunditimes.com/eala-passes-eac-statistics-bureau-bill-paving-way-for-monetary-union/) | Bill endorsed by the East African Legislative Assembly with Burundian amendments |
+| Population census | [Enacted, preliminary results only](https://presidence.gov.bi/wp-content/uploads/2025/04/decret-RGPHAE-2024.pdf) | Décret n°100/032 (27 March 2025) publishes preliminary results 'pour tout usage, en attendant la publication des résultats définitifs'; definitive results not yet published |
 
-### Domestic budget appropriations and expenditure
+### Open data
 
 | System or instrument | Status | Milestone |
 |---|---|---|
-| Execution discipline of voted appropriations | [Under review](https://burundi-eco.com/budget-2024-2025-quand-les-urgences-bousculent-les-priorites/) | Mid-year work-plan report showed credits shifted between programmes with a 2.7% overrun |
+| Open government data portal | ***Not held*** | No portal or open-data policy on file; the access-to-information bill has no published text |
 
-<!-- narrative: finance -->
-One institution dominates the financing. Every non-state digital-transformation deal the base holds for Burundi is World Bank, across four operations running from 2021 to 2029; the amounts are set out in the published finance table for Burundi rather than here, because they are this base's own compilation of scattered records and not a figure any source states. The vehicle is [PAFEN, at 61% committed at mid-term](https://www.wearetech.africa/en/fils-uk/news/tech/world-bank-reviews-burundi-s-pafen-reform-program).
+### Use of satellite data
 
-Domestic money is unusually well documented for a country this size. The [communications and ICT ministry's vote tripled to BIF 131.7bn in FY2024/25 from BIF 43.1bn](https://lerenouveau.bi/assemblee-nationale-le-projet-de-loi-portant-reglement-et-compte-rendu-budgetaire-2024-2025-adopte-a-lunanimite/), and the [FY2026/27 general budget was adopted at expenditure above BIF 7,020bn against revenue of BIF 6,296.03bn, up 23.76%](https://burundi-eco.com/budget-general-de-letat-exercice-2026-2027-un-budget-de-plus-de-7000-milliards-de-bif-adopte-a-lunanimite/). But the same loi de règlement records revenue realised at BIF 3,234bn, 76.79% of the revised target, and a [mid-year work-plan report showed credits shifted between programmes with a 2.7% overrun](https://burundi-eco.com/budget-2024-2025-quand-les-urgences-bousculent-les-priorites/). A voted digital line is not a spent one.
+| System or instrument | Status | Milestone |
+|---|---|---|
+| Earth-observation or satellite data programme | ***Not held*** | No source on file |
+
+<!-- narrative: data -->
+
+<!-- /narrative -->
+
+## Geopolitics
+
+### US / hyperscaler activities
+
+| System or instrument | Status | Milestone |
+|---|---|---|
+| United States health-sector agreement | [Enacted](https://www.burunditimes.com/united-states-commits-156-million-to-burundi-health-sector-under-new-five-year-agreement/) | Five-year memorandum signed, including health-data management |
+
+### China activities
+
+| System or instrument | Status | Milestone |
+|---|---|---|
+| Chinese digital investment in Burundi | ***Not held*** | No source on file |
+
+### EU activities
+
+| System or instrument | Status | Milestone |
+|---|---|---|
+| European Union digital cooperation with Burundi | ***Not held*** | No source on file |
+
+### Gulf/UAE activities
+
+| System or instrument | Status | Milestone |
+|---|---|---|
+| Gulf-state digital investment in Burundi | ***Not held*** | No source on file |
+
+### India activities
+
+| System or instrument | Status | Milestone |
+|---|---|---|
+| India Stack cooperation | [Planned](https://www.wearetech.africa/en/fils-uk/news/tech/burundi-studies-india-stack-for-digital-identity-and-payment-reforms) | Talks opened to adapt Aadhaar-style identity linked to instant payments |
+
+<!-- narrative: geopolitics -->
+
 <!-- /narrative -->
 
 ## Gaps to fill

@@ -1,16 +1,16 @@
 ---
-title: Chad — monthly update, July 2026
-compiled: 2026-08-23
-period: 2026-07-01 to 2026-08-23
+title: Chad — monthly update, July – August 2026
+compiled: 2026-08-25
+period: 2026-07-01 to 2026-08-25
 place: TCD
 ledger_rows: 33
 not_held: 42
-record: dfd81ec0da14
+record: a842606530f9
 ---
 
-# Chad: monthly update, July 2026
+# Chad: monthly update, July – August 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-23 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments summarised from sources published between the beginning of last month and today.*
 
 ## Summary of the month
 
@@ -18,20 +18,41 @@ record: dfd81ec0da14
 Chad's month is a budget document and a birth-registration campaign. The 2027 orientations [bar any ministry from building a system incompatible with the existing platforms and require nine state functions to interconnect on a single identifier](https://lendjampost.com/budget-2027-le-tchad-mise-sur-le-numerique-pour-verrouiller-les-finances-publiques/), with the electronic visa and online business creation to become exclusive channels from 2027 — commitments whose framing text the base does not hold. Against that the state is trying to establish who its citizens are: [48.33 per cent of births are registered within the legal deadline and about 2.95m under-fives are undeclared](https://www.alwihdainfo.com/tchad-une-campagne-pour-lidentite-des-enfants-afin-de-renforcer-lenregistrement-a-letat-civil/), and the [census closed its enumeration on 6 August only after an extension for sweeps](https://www.lepaystchad.com/45968-2/), with no results published and no gazette in which to read the decrees that governed it.
 <!-- /narrative -->
 
-## Infrastructure
+## Governance
+
+### Strategies, plans and policies
+
+<!-- narrative: governance--gov-policy -->
+The policy movement of the window is advice rather than instrument. The economic, social, cultural and environmental council [closed a plenary session running 5 to 19 August on the public administration facing the digital transition, and adopted recommendations calling for an affirmed national digitalisation policy of wider scope, a durable national financing mechanism for the sector, adequate power supply, stronger public-agent skills and public-private partnerships](https://www.ndjamenaactu.com/2026/08/19/tchad-le-cesce-plaide-pour-une-transition-numerique-inclusive-et-securisee/). What the list describes is a stack the base can confirm is missing at almost every layer — which is why the recommendations read as a gap analysis. Nothing binds government to act on them and no response is on record.
+<!-- /narrative -->
+### Public debate and participation in policymaking
+
+<!-- narrative: governance--gov-discourse -->
+On 4 August the Haute autorité des médias et de l'audiovisuel [announced](https://www.lepaystchad.com/tchad-la-hama-suspend-lexamen-des-demandes-de-creation-des-journaux-en-ligne/) that it suspends, "jusqu'à nouvel ordre", examination of applications to create online newspapers. The regulator presented the freeze as implementation of its 2026–2028 three-year strategic plan, one axis of which is to clean up the profession and better address "information disorder", and said it would study new arrangements for governing online newspapers with all stakeholders. The communiqué carried no date of its own, set no end date, no published criteria and no transitional treatment for applications already filed, so the outlets already licensed become a closed list for the duration.
+<!-- /narrative -->
+
+## Finance
+
+### New investments
+
+<!-- narrative: finance--finance-new -->
+The digital transformation project [shows US$12,220,932 disbursed and three thousand electronic payment terminals handed to the finance ministry](https://www.lepaystchad.com/tchad-3-000-terminaux-de-paiement-electronique-remis-au-ministere-des-finances-pour-moderniser-la-collecte-des-recettes-publiques/), with about 500 unserved localities named as the outstanding challenge. Its envelope is [carried as FCFA 76.45bn in one source and US$92.2m in another](https://projects.worldbank.org/en/projects-operations/project-detail/P180000) — the first close to total project cost, the second to the grant alone — and no source reconciles them. A [further programme of about FCFA 8bn sits at pipeline stage](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=46002-P-TD-K00-019), 90 per cent externally committed with a closing date of 31 January 2029, covering electronic tax, standardised electronic invoicing, customs upgrades, tax teleservice centres and one-stop-shop interconnection. It is an aid-transparency record, not a signed instrument.
+<!-- /narrative -->
+
+## ICT Infrastructure
 
 ### Technical Capacity
 
-<!-- narrative: infrastructure--infra-capacity -->
+<!-- narrative: ict-infrastructure--infra-capacity -->
 The national police [received seventy-four desktop computers, fifty-nine laptops, 105 surveillance cameras, communication equipment and everything needed to restore the force's public hotline](https://techgriot.co/english/africa/2026/07/chad-equips-its-national-police-with-new-tech-to-fight-cybercrime/). Nothing is stated about training, about retention of the camera or hotline data, or about the legal basis for the surveillance capability the transfer creates.
 <!-- /narrative -->
 ### Cybersecurity
 
-<!-- narrative: infrastructure--infra-cybersec -->
+<!-- narrative: ict-infrastructure--infra-cybersec -->
 The window's one cyber measure is a loss figure, and it comes from research rather than from the state. A comparative study of online job scams [puts the average loss for a Chadian victim at 58,000 FCFA per incident, against 132,000 FCFA in Cameroon](https://issafrica.org/research/books-and-other-publications/digital-deception-online-job-scams-amid-cybercrime-vulnerability-in-cameroon-and-chad), and finds the Chadian cases to be predominantly localised SMS and voice phishing — 70% of respondents — where the Cameroonian pattern is WhatsApp-based social engineering linked to Nigerian networks. It is a survey of respondents rather than a reported-crime series, and neither a sample size nor a national loss total is carried in the record held. Chad has no computer emergency response team and no adopted cybersecurity strategy, so there is nothing on the state's side of this to compare it against.
 <!-- /narrative -->
 
-## Digital public infrastructure
+## DPI
 
 ### Data Exchange
 
@@ -47,12 +68,12 @@ The 2027 budget orientations, reported 4 August, [restate](https://lendjampost.c
 
 On 29 July, at Douala, the BEAC and GIMAC [launched the CEMAC's interoperable QR-code payment standard](https://leconomie.info/article/paiement-numerique-le-gimac-officialise-la-norme-qr-code-interoperable-de-la-cemac), in force under a monetary-union regulation of 8 April 2026 across all six member states including Chad and letting any bank, mobile-money or microfinance account settle a purchase at any merchant's code, routed and settled through the regional switch. No Chadian bank, wallet or merchant deployment is on record: Chad is covered by the regulation rather than shown live.
 <!-- /narrative -->
-### Registries (population, land, address, etc.)
+### Registries
 
 <!-- narrative: dpi--dpi-registry -->
 Civil registration is where Chad's month has both its clearest instrument and its largest gap. [48.33 per cent of new births are registered within the three-month legal deadline, with about 2.95m under-fives undeclared and 829,000 pupils in school with no document attesting their legal existence](https://www.alwihdainfo.com/tchad-une-campagne-pour-lidentite-des-enfants-afin-de-renforcer-lenregistrement-a-letat-civil/). Against that a [six-month campaign to December targets at least a million children from four months to seventeen years across twelve provinces](https://atpe.td/un-enfant-un-acte-de-naissance-une-operation-pour-enregistrer-un-million-denfants/), by household enumeration and a schools drive, with community teams using smartphones feeding the biometric register; no enrolment achieved so far is reported, and one account puts the household component in twelve provinces while another says every province. It runs inside a [moratorium signed on 2 February suspending court fees for supplementary birth judgments for that age range until 2030](https://atpe.td/un-enfant-un-acte-de-naissance-une-operation-pour-enregistrer-un-million-denfants/) — a four-year legal window around a six-month campaign — whose own text is not held. The civil-registration application has been [deployed since 2021 with no coverage, site count or throughput figure published](https://tchadinfos.com/2026/08/08/sarh-un-atelier-pour-renforcer-la-collecte-et-la-transmission-des-donnees-detat-civil/), and new monthly *paper* collection forms were introduced in August to improve transmission of birth, marriage and death data to the centre.
 <!-- /narrative -->
-### Sectoral management information systems (HMIS, EMIS, etc.)
+### Sectoral management information systems
 
 <!-- narrative: dpi--dpi-mis -->
 The education management information system is [in use in the higher-education ministry, whose statistics and digitalisation staff were trained between 20 and 25 July](https://www.unesco.org/fr/articles/le-mesrsfp-renforce-les-capacites-de-ses-agents-sur-lapplication-stateduc-pour-ameliorer-la) on questionnaire configuration, data-entry masks, extraction and database validation. No coverage figure or published output is held, and nothing at all is on file for the basic-education ministry. Electronic medical records and interconnection of health facilities remain [exploratory, discussed on a Washington mission with no contract, pilot or system named](https://techafricanews.com/2026/07/01/chad-and-us-explore-partnerships-on-satellite-connectivity-and-cybersecurity/).
@@ -64,42 +85,24 @@ The 2027 budget orientations carry three govtech commitments and one system alre
 
 The platform the state already uses to watch itself surfaced on 7 August, when the Prime Minister [received the two-year delivery report on the president's twelve-project programme, tracked through Guidam, the government's sovereign digital data platform](https://tchadinfos.com/2026/08/07/tchad-le-premier-ministre-recoit-le-rapport-biennal-dexecution-du-programme-du-chef-de-letat/), ahead of a cabinet seminar to align implementation reporting. Neither the report nor any description of the platform's custodian, supplier, hosting or public accessibility is held.
 <!-- /narrative -->
+
+## Data
+
 ### National statistics
 
-<!-- narrative: dpi--data-statistics -->
+<!-- narrative: data--data-statistics -->
 The third general population and housing census [closed its main enumeration on 6 August after a decree of 20 July extended it expressly for sweeps](https://www.lepaystchad.com/45968-2/), coverage having been acknowledged incomplete at the original deadline. Days from the close, [one nomadic district had still not seen an enumerator](https://lendjampost.com/rgph-3-dans-le-batha-une-mission-de-terrain-pour-ne-laisser-aucun-nomade-de-cote/). Neither census decree is held — Chad has no reachable online gazette — and no results, preliminary or otherwise, are published.
 <!-- /narrative -->
 
-## Governance and regulation
-
-### Strategies, plans and policies
-
-<!-- narrative: governance--gov-policy -->
-The policy movement of the window is advice rather than instrument. The economic, social, cultural and environmental council [closed a plenary session running 5 to 19 August on the public administration facing the digital transition, and adopted recommendations calling for an affirmed national digitalisation policy of wider scope, a durable national financing mechanism for the sector, adequate power supply, stronger public-agent skills and public-private partnerships](https://www.ndjamenaactu.com/2026/08/19/tchad-le-cesce-plaide-pour-une-transition-numerique-inclusive-et-securisee/). What the list describes is a stack the base can confirm is missing at almost every layer — which is why the recommendations read as a gap analysis. Nothing binds government to act on them and no response is on record.
-<!-- /narrative -->
-### Public debate and participation in policymaking
-
-<!-- narrative: governance--gov-discourse -->
-On 4 August the Haute autorité des médias et de l'audiovisuel [announced](https://www.lepaystchad.com/tchad-la-hama-suspend-lexamen-des-demandes-de-creation-des-journaux-en-ligne/) that it suspends, "jusqu'à nouvel ordre", examination of applications to create online newspapers. The regulator presented the freeze as implementation of its 2026–2028 three-year strategic plan, one axis of which is to clean up the profession and better address "information disorder", and said it would study new arrangements for governing online newspapers with all stakeholders. The communiqué carried no date of its own, set no end date, no published criteria and no transitional treatment for applications already filed, so the outlets already licensed become a closed list for the duration.
-<!-- /narrative -->
-
-## Artificial intelligence and the technology sector
+## Geopolitics
 
 ### US / hyperscaler activities
 
-<!-- narrative: ai-tech--geopol-usa -->
+<!-- narrative: geopolitics--geopol-usa -->
 Four priority areas were [agreed with the United States — digital infrastructure, satellite connectivity, cybersecurity and digital health — with no instrument signed](https://techafricanews.com/2026/07/01/chad-and-us-explore-partnerships-on-satellite-connectivity-and-cybersecurity/). A supplier stated its willingness to audit and certify the national data centre, a mandate already held under the tripartite agreement of February 2026. The two accounts give different mission dates, and the [minister flagged United States visa refusals for Chadian technical personnel as a delivery risk](https://www.digitalbusiness.africa/tchad-a-washington-ndjamena-multiplie-les-contacts-avec-starlink-intersystems-et-dautres-geants-technologiques/).
 <!-- /narrative -->
 ### China activities
 
-<!-- narrative: ai-tech--geopol-china -->
+<!-- narrative: geopolitics--geopol-china -->
 The financing that did arrive in the window came from one partner. Chad and China [signed two grant agreements totalling 300 million yuan, in tranches of 100 million and 200 million that the minister of state called immediately mobilisable](https://ecomatin.net/le-tchad-obtient-25-milliards-fcfa-de-la-chine-pour-booster-ses-infrastructures-le-numerique-et-la-formation), for infrastructure and social development with digital technologies supported alongside; and earlier in the week the Chinese ambassador [announced 5,000 scholarships in technology and artificial intelligence](https://camerpressagency.com/tchad-chine-lambition-numerique-se-concretise/). Neither carries a project list, a digital allocation or a timetable, and the local-currency equivalents in circulation differ between outlets on their own conversion dates.
-<!-- /narrative -->
-
-## Finance
-
-### New investments
-
-<!-- narrative: finance--finance-new -->
-The digital transformation project [shows US$12,220,932 disbursed and three thousand electronic payment terminals handed to the finance ministry](https://www.lepaystchad.com/tchad-3-000-terminaux-de-paiement-electronique-remis-au-ministere-des-finances-pour-moderniser-la-collecte-des-recettes-publiques/), with about 500 unserved localities named as the outstanding challenge. Its envelope is [carried as FCFA 76.45bn in one source and US$92.2m in another](https://projects.worldbank.org/en/projects-operations/project-detail/P180000) — the first close to total project cost, the second to the grant alone — and no source reconciles them. A [further programme of about FCFA 8bn sits at pipeline stage](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=46002-P-TD-K00-019), 90 per cent externally committed with a closing date of 31 January 2029, covering electronic tax, standardised electronic invoicing, customs upgrades, tax teleservice centres and one-stop-shop interconnection. It is an aid-transparency record, not a signed instrument.
 <!-- /narrative -->

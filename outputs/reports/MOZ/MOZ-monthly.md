@@ -1,16 +1,16 @@
 ---
-title: Mozambique — monthly update, July 2026
-compiled: 2026-08-24
-period: 2026-07-01 to 2026-08-24
+title: Mozambique — monthly update, July – August 2026
+compiled: 2026-08-25
+period: 2026-07-01 to 2026-08-25
 place: MOZ
 ledger_rows: 67
 not_held: 19
-record: 696142c8eaca
+record: 515539f77275
 ---
 
-# Mozambique: monthly update, July 2026
+# Mozambique: monthly update, July – August 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-24 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments summarised from sources published between the beginning of last month and today.*
 
 ## Summary of the month
 
@@ -20,11 +20,54 @@ The Constitutional Council struck down the Telecommunications Traffic Control Re
 Three systems entered or extended service in the same five weeks: the National Payments System Law took effect on 2 July, a university data centre was inaugurated on 3 August, and free issuance of identity documents was extended to 2027. The minister responsible told a Maputo conference on 28 July that current national compute, data centres included, cannot support more advanced artificial-intelligence models ([ministerial account](https://clubofmozambique.com/news/mozambique-digital-infrastructure-is-as-strategic-as-roads-and-ports-americo-muchanga/)).
 <!-- /narrative -->
 
-## Infrastructure
+## Governance
+
+### Strategies, plans and policies
+
+<!-- narrative: governance--gov-policy -->
+The National Cyber Security Strategy 2026-2030 is under revision, succeeding a policy whose own period ended in 2025 ([institute account](https://intic.gov.mz/seminario-sobre-seguranca-cibernetica-debate-solucoes-para-reforcar-a-proteccao-do-espaco-cibernetico-nacional-2/)).
+
+On 22 July the communications minister told a banking and finance conference that the country is consolidating its legal and institutional framework, naming a national data governance policy among the instruments in preparation, and warned that once approved it will place obligations on companies and not only on the state ([ministerial account](https://news.isocmedias.co.mz/2026/07/23/governo-prepara-lei-de-protecao-de-dados-pessoais/)).
+<!-- /narrative -->
+### Legislation and regulation
+
+<!-- narrative: governance--gov-legislate -->
+Beyond the Constitutional Council ruling, the month's governance record is the institute's own account of the two 2026 statutes, given at a police academy seminar on 23 July: the Cyber Security Law is Law 13/2026 and the Cybercrime Law is Law 14/2026 ([institute account](https://intic.gov.mz/seminario-sobre-seguranca-cibernetica-debate-solucoes-para-reforcar-a-proteccao-do-espaco-cibernetico-nacional-2/)).
+
+On 28 July the communications minister listed cloud-computing and radio-centre regulations alongside the two 2026 statutes as mandatory for operators of critical infrastructure ([ministerial account](https://clubofmozambique.com/news/mozambique-digital-infrastructure-is-as-strategic-as-roads-and-ports-americo-muchanga/)).
+
+In August the institute set out what is still missing and what is coming. Its board chairman [said the country has no dedicated artificial-intelligence legislation, and that an Online Copyright Protection Act is in drafting for next year](https://360mozambique.com/innovation/tech/intic-drafts-copyright-and-ai-legislation-to-protect-digital-creators/), naming authorship of artificial-intelligence output and liability for artificial-intelligence training as open questions no law here answers. The absence of an artificial-intelligence statute is now recorded as a gap; the copyright bill has no draft text, scope or introduction date behind it.
+<!-- /narrative -->
+### Data protection
+
+<!-- narrative: governance--gov-protect -->
+The same 22 July conference remarks named the personal data protection law as an instrument in preparation, under the same warning that once approved it will place obligations on companies and not only on the state ([ministerial account](https://news.isocmedias.co.mz/2026/07/23/governo-prepara-lei-de-protecao-de-dados-pessoais/)). Mozambique remained without a data protection law in force, with no tabling or adoption date stated.
+
+<!-- /narrative -->
+### Standards
+
+<!-- narrative: governance--gov-standards -->
+The regulator opened a free public device-identity lookup on 4 August, checked against a registry held by an industry association ([regulator notice](https://www.incm.gov.mz/2026/08/04/disponivel-plataforma-de-base-de-dados-para-consulta-de-imei/)). The notice sets out no type approval, import control, blocking regime or penalty.
+<!-- /narrative -->
+
+## Finance
+
+### Domestic budget appropriations and expenditure
+
+<!-- narrative: finance--finance-budget -->
+The cyber security fund is [provided for in statute from 1 July, with state appropriations named among its revenue lines alongside a flat 1% levy on licensed cybersecurity providers](https://www.incm.gov.mz/?sdm_process_download=1&download_id=5244). No line for it appears in the [FY2026 state budget final maps](https://www.mef.gov.mz/index.php/publicacoes/politicas/plano-economico-e-social-e-orcamento-do-estado-pesoe/pesoe-2026/mapas-pesoe-2026/mapas-finais), which were set before the law was published, and the regulator has no capital allocation at all this year. The first budget in which such a line could be expected is FY2027.
+<!-- /narrative -->
+### New investments
+
+<!-- narrative: finance--finance-new -->
+The digital foundations programme runs to 2027 with the European Union delegation funding and the telecommunications union implementing. It reports [a national digital skills assessment drawing on more than 30 interviews and a survey of about 400 young people, a Matola pilot training 50 young people and 5 teachers, 15 women trained under a govtech challenge, more than 100 participants in artificial-intelligence training for young women and more than 320 stakeholders reached by accessibility work](https://www.itu.int/en/ITU-D/Regional-Presence/Africa/Pages/projects/2023/mozambique-vamoz-digital.aspx). The project page is undated and rolling, so none of those outputs can be placed inside this window, and no disbursement update is held.
+<!-- /narrative -->
+
+## ICT Infrastructure
 
 ### Connectivity
 
-<!-- narrative: infrastructure--infra-connect -->
+<!-- narrative: ict-infrastructure--infra-connect -->
 The regulator opened a public geospatial broadband coverage portal on 22 July 2026, built with two commercial suppliers, letting the public check operator coverage and speeds by location and report gaps ([regulator communique](https://www.wearetech.africa/fr/fils/actualites/telecom/mozambique-un-portail-national-du-haut-debit-pour-etendre-la-couverture-telecoms)). No usage or gap-report figure has been published since. A [second account of the launch](https://www.oeconomico.com/mocambique-cria-mapa-nacional-da-banda-larga-para-orientar-investimento-e-reduzir-assimetrias-digitais/) names the two suppliers and sets the portal alongside World Bank project figures on affordability, recorded under inclusion below.
 
 The incumbent operator's ownership is in play. The government has [formed a technical team to negotiate the sale of part of the state's stake in the loss-making operator](https://aimnews.org/2026/08/12/technical-team-established-to-negotiate-sale-of-states-stake-in-tmcel/), which carried a US$400m debt in 2023. No buyer, share, valuation, timetable or treatment of the debt is stated.
@@ -34,7 +77,7 @@ The ministry put numbers on how far the connecting has got and how far it is mea
 <!-- /narrative -->
 ### Data Storage
 
-<!-- narrative: infrastructure--infra-store -->
+<!-- narrative: ict-infrastructure--infra-store -->
 The country's first university-operated data centre was inaugurated on 3 August with about 14 times the storage of the server room it replaces, precision cooling and redundant systems ([inauguration account](https://www.diarioeconomico.co.mz/2026/08/03/trends/inovacao/uem-inaugura-centro-de-dados-para-reforcar-transformacao-digital-e-investigacao-cientifica/)). It is World Bank financed with no amount, operation name or project number stated.
 
 A carrier-neutral operator announced on 23 July that a wholesale network will co-locate in its Mozambican and Angolan facilities, with no deployment date, capacity or value stated ([partnership announcement](https://techafricanews.com/2026/07/23/raxio-and-afr-ix-partner-to-boost-digital-connectivity-in-angola-and-mozambique/)).
@@ -44,21 +87,21 @@ It was formally inaugurated eight days later, on 11 August, [sited at the univer
 <!-- /narrative -->
 ### Energy
 
-<!-- narrative: infrastructure--infra-energy -->
+<!-- narrative: ict-infrastructure--infra-energy -->
 The same data centre draws on grid, photovoltaic and generator supply ([inauguration account](https://www.diarioeconomico.co.mz/2026/08/03/trends/inovacao/uem-inaugura-centro-de-dados-para-reforcar-transformacao-digital-e-investigacao-cientifica/)).
 <!-- /narrative -->
 ### Technical Capacity
 
-<!-- narrative: infrastructure--infra-capacity -->
+<!-- narrative: ict-infrastructure--infra-capacity -->
 At the same event the communications minister put the research and education network MoRENet at [60 Gbps, funded for a fifteen-year term](https://techafricanews.com/2026/08/06/mozambique-inaugurates-uem-data-center-to-advance-digital-transformation/) — a single account of the same remarks reported 100 Gbit/s and attributed it to the country rather than to the network, and that figure is not carried.
 <!-- /narrative -->
 ### Cybersecurity
 
-<!-- narrative: infrastructure--infra-cybersec -->
+<!-- narrative: ict-infrastructure--infra-cybersec -->
 The same institute account of 23 July states that the Cyber Security Law creates the national incident response team and seats its operation inside the institute ([institute account](https://intic.gov.mz/seminario-sobre-seguranca-cibernetica-debate-solucoes-para-reforcar-a-proteccao-do-espaco-cibernetico-nacional-2/)).
 <!-- /narrative -->
 
-## Digital public infrastructure
+## DPI
 
 ### Data Exchange
 
@@ -77,7 +120,7 @@ The humanitarian register moved from pilot to a dated launch. Validation of the 
 <!-- narrative: dpi--dpi-pay -->
 The National Payments System Law took effect on 2 July 2026, replacing the regime in force since 2008 and extending the central bank's inspection and supervision over electronic-money institutions and new payment service providers ([enactment account](https://clubofmozambique.com/news/mozambique-cybercrime-and-cybersecurity-laws-national-payments-system-law-signed-into-force/)). On 30 July the central bank reported the instant payment system carrying more than 11,000 transfers a day, a tripling since it entered production in March ([communique account](https://360mozambique.com/economy/banking/metix-instant-payment-system-surpasses-11000-daily-transfers/)).
 <!-- /narrative -->
-### Sectoral management information systems (HMIS, EMIS, etc.)
+### Sectoral management information systems
 
 <!-- narrative: dpi--dpi-mis -->
 A [ten-year digital health strategy is recorded as the operative national instrument](https://www.ictworks.org/updated-every-african-countrys-national-digital-health-strategy-in-2026/), the country's first dedicated one. It is known to the base only through a dated reference directory: the adoption date, the adopting instrument and the text itself are not held.
@@ -87,52 +130,12 @@ A [ten-year digital health strategy is recorded as the operative national instru
 <!-- narrative: dpi--dpi-govtech -->
 The tax authority made the fiscal clearance certificate available online from 3 August with a ten working-day issuance ceiling and a published complaints address ([authority account](https://mznews.co.mz/en/autoridade-tributaria-lanca-solicitacao-online-da-certidao-de-quitacao-fiscal-a-partir-de-3-de-agosto/)).
 <!-- /narrative -->
-### National statistics
 
-<!-- narrative: dpi--data-statistics -->
-The statistics institute opened enumerator training on 27 July for a census pilot running 1-15 August, testing procedures for a 2027 census it states will be the first run entirely in digital format ([training account](https://jornalnoticias.co.mz/destaque/mais-de-200-jovens-recebem-formacao-para-o-censo-piloto/)).
-<!-- /narrative -->
-### Use of satellite data
-
-<!-- narrative: dpi--data-satellite -->
-A development-bank and Korean-financed programme has left a standing national flood-mapping capability: [nine LiDAR-equipped drone systems, simulators, unmanned surface vessels and data platforms, with 30 specialists from the meteorology institute, the disaster management institute, the cartography and remote-sensing centre, the roads administration and the water directorate certified in July](https://www.afdb.org/en/success-stories/eyes-above-ricatla-how-african-development-bank-korea-partnership-helped-mozambiques-flood-zone-achieve-zero-fatalities-96237). The cohort was deployed half-trained into the January 2026 Marracuene floods, which the district recorded with no loss of life. The account is the financing bank's own, and it states no running cost, custodian institution or arrangement for sharing the mapping output.
-<!-- /narrative -->
-
-## Governance and regulation
-
-### Legislation and regulation
-
-<!-- narrative: governance--gov-legislate -->
-Beyond the Constitutional Council ruling, the month's governance record is the institute's own account of the two 2026 statutes, given at a police academy seminar on 23 July: the Cyber Security Law is Law 13/2026 and the Cybercrime Law is Law 14/2026 ([institute account](https://intic.gov.mz/seminario-sobre-seguranca-cibernetica-debate-solucoes-para-reforcar-a-proteccao-do-espaco-cibernetico-nacional-2/)).
-
-On 28 July the communications minister listed cloud-computing and radio-centre regulations alongside the two 2026 statutes as mandatory for operators of critical infrastructure ([ministerial account](https://clubofmozambique.com/news/mozambique-digital-infrastructure-is-as-strategic-as-roads-and-ports-americo-muchanga/)).
-
-In August the institute set out what is still missing and what is coming. Its board chairman [said the country has no dedicated artificial-intelligence legislation, and that an Online Copyright Protection Act is in drafting for next year](https://360mozambique.com/innovation/tech/intic-drafts-copyright-and-ai-legislation-to-protect-digital-creators/), naming authorship of artificial-intelligence output and liability for artificial-intelligence training as open questions no law here answers. The absence of an artificial-intelligence statute is now recorded as a gap; the copyright bill has no draft text, scope or introduction date behind it.
-<!-- /narrative -->
-### Strategies, plans and policies
-
-<!-- narrative: governance--gov-policy -->
-The National Cyber Security Strategy 2026-2030 is under revision, succeeding a policy whose own period ended in 2025 ([institute account](https://intic.gov.mz/seminario-sobre-seguranca-cibernetica-debate-solucoes-para-reforcar-a-proteccao-do-espaco-cibernetico-nacional-2/)).
-
-On 22 July the communications minister told a banking and finance conference that the country is consolidating its legal and institutional framework, naming a national data governance policy among the instruments in preparation, and warned that once approved it will place obligations on companies and not only on the state ([ministerial account](https://news.isocmedias.co.mz/2026/07/23/governo-prepara-lei-de-protecao-de-dados-pessoais/)).
-<!-- /narrative -->
-### Standards
-
-<!-- narrative: governance--gov-standards -->
-The regulator opened a free public device-identity lookup on 4 August, checked against a registry held by an industry association ([regulator notice](https://www.incm.gov.mz/2026/08/04/disponivel-plataforma-de-base-de-dados-para-consulta-de-imei/)). The notice sets out no type approval, import control, blocking regime or penalty.
-<!-- /narrative -->
-### Data protection
-
-<!-- narrative: governance--gov-protect -->
-The same 22 July conference remarks named the personal data protection law as an instrument in preparation, under the same warning that once approved it will place obligations on companies and not only on the state ([ministerial account](https://news.isocmedias.co.mz/2026/07/23/governo-prepara-lei-de-protecao-de-dados-pessoais/)). Mozambique remained without a data protection law in force, with no tabling or adoption date stated.
-
-<!-- /narrative -->
-
-## Artificial intelligence and the technology sector
+## Technology
 
 ### AI
 
-<!-- narrative: ai-tech--tech-ai -->
+<!-- narrative: technology--tech-ai -->
 Mozambique signed the agreement establishing the World Artificial Intelligence Cooperation Organization in Shanghai on 16 July 2026, as one of 29 founding member states and one of ten African ones ([signing account](https://clubofmozambique.com/news/mozambique-becomes-founding-member-of-world-ai-cooperation-organization-waico/)). No ratification step, entry-into-force date or contribution is stated in the held account.
 
 The Intellectual Property Policy and Strategy 2026-2035, approved by resolution on 30 June and reported on 22 July, mandates a study on the impact of the digital environment and artificial intelligence on the intellectual property framework, including the patentability of inventions made by artificial intelligence, and costs legal and institutional modernisation at 719.6m meticais ([approval account](https://360mozambique.com/development/mozambique-approves-ip-strategy-to-study-ai-patentability-and-digital-rights/)). The resolution and strategy text are not held, and every provision and figure is the reporting agency's reading of the document.
@@ -143,21 +146,27 @@ The national strategy behind all of this is still in drafting, and its consultat
 
 A body to watch it is named but not made. At a cultural-economy dialogue in Maputo on 14 August the institute's board president [named a National Artificial Intelligence Observatory as expected to support transparency, build trust and measure the impact of AI deployment](https://techafricanews.com/2026/08/18/mozambique-explores-ais-role-in-driving-cultural-and-creative-economy/). It exists as a remark: no establishing instrument, host, membership, funding or method is on the record.
 <!-- /narrative -->
-### US / hyperscaler activities
 
-<!-- narrative: ai-tech--geopol-usa -->
-The economy minister [met satellite operator representatives to discuss connectivity, digital infrastructure and participation by smaller firms](https://techafricanews.com/2026/07/06/mozambique-explores-strategic-partnership-with-spacex-to-advance-digital-economy/). No agreement, amount or timetable was announced. The operator's service already runs in Mozambique, so this is a government-level engagement rather than market entry.
+## Capacity
+
+### Literacy
+
+<!-- narrative: capacity--capacity-literacy -->
+The month's only movement on digital literacy was a demand for it. At the launch of a UNESCO-organised dialogue series in Maputo, an NGO [called for a national digital-literacy programme for young people, arguing digital skills are now a precondition for meaningful democratic participation](https://clubofmozambique.com/news/mozambique-create-national-digital-literacy-programme-for-young-people-ngo/). The base holds no such programme or strategy, and a civil-society call is evidence that none exists rather than a step towards one; the absence is now dated.
+<!-- /narrative -->
+### Training and skills
+
+<!-- narrative: capacity--capacity-training -->
+The institute reported on 23 July that under the World Bank-funded acceleration project 14 training actions had benefited 30 of its technicians and 2,032 professionals from public bodies, private firms and the media had received cyber-security training, with 14 national specialists holding an international incident-response certification ([institute account](https://intic.gov.mz/seminario-sobre-seguranca-cibernetica-debate-solucoes-para-reforcar-a-proteccao-do-espaco-cibernetico-nacional-2/)). The period those cumulative figures cover is not stated.
+<!-- /narrative -->
+### Research institutions
+
+<!-- narrative: capacity--capacity-research -->
+At the university data centre's inauguration the communications minister proposed transferring management of the research and education network from his own ministry to the universities, naming no date, instrument or governance model ([ministerial account](https://clubofmozambique.com/news/mozambique-govt-wants-universities-involved-in-protecting-against-cyberattacks/)).
 <!-- /narrative -->
 
-## Inclusion and capacity
+## Inclusion
 
-### Digital divides
-
-<!-- narrative: inclusion--include-divides -->
-The inclusion figures move in opposite directions depending on which one is read. The central bank's 2025 report puts the [financial inclusion index at 36.4 points, classified moderate, with Cabo Delgado rising from 23.3 to 25.8](https://clubofmozambique.com/news/atms-and-pos-terminals-lose-further-ground-to-mobile-money-in-mozambique/) — a national index that did not move while access points rose 36%. Underneath it the [gender gap in access to credit stands at 34% women against 66% men](https://clubofmozambique.com/news/atms-and-pos-terminals-lose-further-ground-to-mobile-money-in-mozambique/), and women's mobile money holding rose 24% over the same period. The account gap is narrowing while the credit gap widens.
-
-The funding aimed at those gaps shrank in the same window. An implementing partner's account of 12 August reports that [connectivity and digital-inclusion work in Mozambique slowed or stopped after the American aid wind-down of 2025, in which 83% of the agency's programmes were cut](https://www.developingtelecoms.com/telecom-business/humanitarian-communications/20670-usaids-exit-leaves-a-gap-in-the-drive-for-meaningful-connectivity.html), the multi-funder Women in the Digital Economy Fund losing its American component while the parts other funders backed continued. No replacement funder is named and no Mozambican figure is given.
-<!-- /narrative -->
 ### Access to services
 
 <!-- narrative: inclusion--include-access -->
@@ -167,31 +176,31 @@ August added the price side of the same picture. A standard data package [fell f
 
 What none of these measures reaches is what the money does. A study of 900 households published on 7 August finds that [mobile money improves household welfare through active use rather than account ownership, reducing reliance on own food production and strengthening resilience through remittances, with women gaining financial autonomy and young people using it to stabilise consumption](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0343349). It is a single academic study of a sample, not a national series, and it is the only evidence of outcome the base holds against the access counts above.
 <!-- /narrative -->
-### Literacy
+### Digital divides
 
-<!-- narrative: inclusion--capacity-literacy -->
-The month's only movement on digital literacy was a demand for it. At the launch of a UNESCO-organised dialogue series in Maputo, an NGO [called for a national digital-literacy programme for young people, arguing digital skills are now a precondition for meaningful democratic participation](https://clubofmozambique.com/news/mozambique-create-national-digital-literacy-programme-for-young-people-ngo/). The base holds no such programme or strategy, and a civil-society call is evidence that none exists rather than a step towards one; the absence is now dated.
-<!-- /narrative -->
-### Training and skills
+<!-- narrative: inclusion--include-divides -->
+The inclusion figures move in opposite directions depending on which one is read. The central bank's 2025 report puts the [financial inclusion index at 36.4 points, classified moderate, with Cabo Delgado rising from 23.3 to 25.8](https://clubofmozambique.com/news/atms-and-pos-terminals-lose-further-ground-to-mobile-money-in-mozambique/) — a national index that did not move while access points rose 36%. Underneath it the [gender gap in access to credit stands at 34% women against 66% men](https://clubofmozambique.com/news/atms-and-pos-terminals-lose-further-ground-to-mobile-money-in-mozambique/), and women's mobile money holding rose 24% over the same period. The account gap is narrowing while the credit gap widens.
 
-<!-- narrative: inclusion--capacity-training -->
-The institute reported on 23 July that under the World Bank-funded acceleration project 14 training actions had benefited 30 of its technicians and 2,032 professionals from public bodies, private firms and the media had received cyber-security training, with 14 national specialists holding an international incident-response certification ([institute account](https://intic.gov.mz/seminario-sobre-seguranca-cibernetica-debate-solucoes-para-reforcar-a-proteccao-do-espaco-cibernetico-nacional-2/)). The period those cumulative figures cover is not stated.
-<!-- /narrative -->
-### Research institutions
-
-<!-- narrative: inclusion--capacity-research -->
-At the university data centre's inauguration the communications minister proposed transferring management of the research and education network from his own ministry to the universities, naming no date, instrument or governance model ([ministerial account](https://clubofmozambique.com/news/mozambique-govt-wants-universities-involved-in-protecting-against-cyberattacks/)).
+The funding aimed at those gaps shrank in the same window. An implementing partner's account of 12 August reports that [connectivity and digital-inclusion work in Mozambique slowed or stopped after the American aid wind-down of 2025, in which 83% of the agency's programmes were cut](https://www.developingtelecoms.com/telecom-business/humanitarian-communications/20670-usaids-exit-leaves-a-gap-in-the-drive-for-meaningful-connectivity.html), the multi-funder Women in the Digital Economy Fund losing its American component while the parts other funders backed continued. No replacement funder is named and no Mozambican figure is given.
 <!-- /narrative -->
 
-## Finance
+## Data
 
-### New investments
+### National statistics
 
-<!-- narrative: finance--finance-new -->
-The digital foundations programme runs to 2027 with the European Union delegation funding and the telecommunications union implementing. It reports [a national digital skills assessment drawing on more than 30 interviews and a survey of about 400 young people, a Matola pilot training 50 young people and 5 teachers, 15 women trained under a govtech challenge, more than 100 participants in artificial-intelligence training for young women and more than 320 stakeholders reached by accessibility work](https://www.itu.int/en/ITU-D/Regional-Presence/Africa/Pages/projects/2023/mozambique-vamoz-digital.aspx). The project page is undated and rolling, so none of those outputs can be placed inside this window, and no disbursement update is held.
+<!-- narrative: data--data-statistics -->
+The statistics institute opened enumerator training on 27 July for a census pilot running 1-15 August, testing procedures for a 2027 census it states will be the first run entirely in digital format ([training account](https://jornalnoticias.co.mz/destaque/mais-de-200-jovens-recebem-formacao-para-o-censo-piloto/)).
 <!-- /narrative -->
-### Domestic budget appropriations and expenditure
+### Use of satellite data
 
-<!-- narrative: finance--finance-budget -->
-The cyber security fund is [provided for in statute from 1 July, with state appropriations named among its revenue lines alongside a flat 1% levy on licensed cybersecurity providers](https://www.incm.gov.mz/?sdm_process_download=1&download_id=5244). No line for it appears in the [FY2026 state budget final maps](https://www.mef.gov.mz/index.php/publicacoes/politicas/plano-economico-e-social-e-orcamento-do-estado-pesoe/pesoe-2026/mapas-pesoe-2026/mapas-finais), which were set before the law was published, and the regulator has no capital allocation at all this year. The first budget in which such a line could be expected is FY2027.
+<!-- narrative: data--data-satellite -->
+A development-bank and Korean-financed programme has left a standing national flood-mapping capability: [nine LiDAR-equipped drone systems, simulators, unmanned surface vessels and data platforms, with 30 specialists from the meteorology institute, the disaster management institute, the cartography and remote-sensing centre, the roads administration and the water directorate certified in July](https://www.afdb.org/en/success-stories/eyes-above-ricatla-how-african-development-bank-korea-partnership-helped-mozambiques-flood-zone-achieve-zero-fatalities-96237). The cohort was deployed half-trained into the January 2026 Marracuene floods, which the district recorded with no loss of life. The account is the financing bank's own, and it states no running cost, custodian institution or arrangement for sharing the mapping output.
+<!-- /narrative -->
+
+## Geopolitics
+
+### US / hyperscaler activities
+
+<!-- narrative: geopolitics--geopol-usa -->
+The economy minister [met satellite operator representatives to discuss connectivity, digital infrastructure and participation by smaller firms](https://techafricanews.com/2026/07/06/mozambique-explores-strategic-partnership-with-spacex-to-advance-digital-economy/). No agreement, amount or timetable was announced. The operator's service already runs in Mozambique, so this is a government-level engagement rather than market entry.
 <!-- /narrative -->

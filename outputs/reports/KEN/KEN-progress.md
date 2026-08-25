@@ -1,16 +1,14 @@
 ---
-title: Kenya — progress report, 2025-08-01 to 2026-08-25
+title: Kenya — progress report, August 2025 – August 2026
 compiled: 2026-08-25
 period: 2025-08-01 to 2026-08-25
 place: KEN
 ledger_rows: 215
 not_held: 7
-record: e3773362381c
+record: a832c34e5098
 ---
 
-# Kenya: progress report, 2025-08-01 to 2026-08-25
-
-*Compiled 2026-08-25 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
+# Kenya: progress report, August 2025 – August 2026
 
 *Of 215 systems and instruments on this place's ledger, 108 changed position between 2025-08-01 and 2026-08-25, 24 did not, 76 carry no stated baseline, and 7 are ***Not held*** at both ends.*
 
@@ -24,7 +22,125 @@ record: e3773362381c
 Over the twelve months, Kenya's regulatory layer went from empty to fully drafted in two areas that had no instrument at all — artificial intelligence and virtual assets — while the state's own digital spending fell for a second consecutive year. The shape check above records how uneven the base is; the comparison rests mostly on its later half, and rows whose only source is recent but which describe long-standing systems carry their position from earlier rather than as movement.
 <!-- /narrative -->
 
-## Infrastructure
+## Governance
+
+### Strategies, plans and policies
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| Draft National Data Governance Policy | Did not exist | [Draft of May 2026 schedules implementation from July 2026, with the personal and non-personal boundary undefined and the pricing method deferred](https://www.atlanticcouncil.org/blogs/econographics/kenya-wants-to-monetize-its-data-but-at-what-cost/) | Advanced |
+| Inter-Agency Digital Piracy Enforcement Framework | Did not exist | [Adopted, with the ICT ministry coordinating the copyright board, the regulator, the Media Council and the Copyright Tribunal](https://techafricanews.com/2026/07/31/kenya-unveils-national-framework-to-combat-kes-92-billion-digital-piracy-losses/) | Advanced |
+| Joint Framework for Digital Platform Governance | Did not exist | [In drafting, would replace safe-harbour immunity with earned protection and add a joint regulatory oversight committee](https://www.unesco.org/en/articles/kenya-charts-path-towards-coordinated-digital-platform-governance) | Advanced |
+| Kenya Cloud Policy (2025) Implementation Guidelines | Did not exist | [99 pages signed by the ICT Cabinet Secretary and cover-dated June 2026, grading providers into four accreditation classes with a register published on the ministry website and a supplier-and-buyer marketplace administered by a Cloud Adoption Committee, and giving state organs 24 months to migrate non-exempted systems](https://www.ict.go.ke/sites/default/files/2026-07/Final%20%20Kenya%20Cloud%20Policy%202025%20Implementation%20Guidelines.pdf) | Advanced |
+| National Policy on Digital Piracy | Did not exist | [Announced, to be drafted multi-stakeholder, with no draft, drafter or date](https://techafricanews.com/2026/07/31/kenya-unveils-national-framework-to-combat-kes-92-billion-digital-piracy-losses/) | Advanced |
+| Central bank pricing principles for mobile money | ***Baseline not held*** | [Operating through voluntary operator alignment, with no gazetted tariff rule or determination to cite, appeal or extend to a competitor](https://www.standardmedia.co.ke/business/article/2001554316/safaricom-halves-m-pesa-merchant-fees-in-cbk-led-move) | ***Baseline not held*** |
+| Harmonised county wayleave framework | ***Baseline not held*** | [Agreed to be developed and tabled at the intergovernmental sector forum, with no framework text, timetable, cost or wayleave figure published](https://techafricanews.com/2026/07/31/kenya-strengthens-ict-devolution-partnership-to-accelerate-digital-transformation/) | ***Baseline not held*** |
+| National BPO Policy | ***Baseline not held*** | [Claimed as delivered, with no text, adoption date or provisions on file](https://techafricanews.com/2026/07/30/kenya-advances-digital-superhighway-agenda-with-new-legislative-push/) | ***Baseline not held*** |
+| National Cloud Policy | ***Baseline not held*** | [Adopted, cited as anchoring domestic data-centre demand](https://techtrends.africa/africas-data-centre-boom/) | ***Baseline not held*** |
+| National Cybersecurity Policy | ***Baseline not held*** | [On the government's forward list with nothing drafted on record](https://techafricanews.com/2026/07/30/kenya-advances-digital-superhighway-agenda-with-new-legislative-push/) | ***Baseline not held*** |
+
+### Legislation and regulation
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| Access to Information (Amendment) Bill | Did not exist | [Would criminalise sharing classified information through personal messaging or email, on four classification tiers](https://nation.africa/kenya/news/new-bill-sharing-state-secrets-on-whatsapp-emails-could-land-you-in-jail-5516338) | Advanced |
+| AI Governance Act | Did not exist | [Named in the draft policy as the statutory backstop, with no text, sponsor or date](https://ict.go.ke/sites/default/files/AI%20Policy%20Doc/draft-kenya-ai-and-emerging-technologies-policy-2026.pdf) | Advanced |
+| Computer Misuse and Cybercrimes Act 2018 | In force with false-publication offences and a non-judicial website-shutdown power | [Narrowed by litigation, with the false-publication sections and the shutdown power struck and a conservatory order blocking a national internet shutdown](https://www.kictanet.or.ke/kensafespace-project-impact-digital-rights-kenya/) | Regressed |
+| Copyright and Related Rights Bill 2026 | Did not exist | [Out for comment, creating a Copyright Authority and a disputes tribunal, and carrying the 2001 computer-generated-work authorship rule forward unchanged](https://www.linkedin.com/pulse/kenyas-new-copyright-bill-good-start-ready-ai-age-zaccheaus-amenya-0zeuf/) | Advanced |
+| Kenya Information and Communications (Amendment) Bill 2025 | Gazetted 2025-03-07 as National Assembly Bill No. 9 of 2025 | [Before Parliament, proposing mandatory consumption-based internet billing: the Bill brings internet service providers inside the statutory definition of a telecommunication operator and would require each to run a meter billing system that assigns every customer a unique meter number, monitors usage, converts it into readable detail, invoices on consumption and lets the user verify the invoice, with meter numbers and billing-system information reported to the regulator at least once each financial year. It fixes no price, caps no tariff, sets no penalty and carries no data-minimisation clause. A second operator told the National Assembly Committee on Communication, Information and Innovation on 2026-08-20 that metered billing would raise costs, undermine fixed and unlimited packages, expose enterprises to bill shock from automated traffic they did not initiate, and raise data-protection and surveillance concerns through continuous granular usage tracking. No committee report, amendment schedule or enactment date is published](https://peopledaily.digital/business/internet-firm-warns-proposed-metered-billing-could-raise-costs-for-kenyans) | Advanced |
+| Kenya National Library Service Bill 2023 | Published 2023-06-14 to repeal the Kenya National Library Service Act 1965, with no digital provision on record | [At Senate committee hearing, with the ICT ministry asking that electronic legal deposit, a national digital knowledge repository, digital preservation of public records, AI-supported cataloguing and interoperability with government digital infrastructure be written into the Bill](https://parliament.go.ke/node/26196) | Advanced |
+| Sexual Offences Act amendment package | Did not exist | [Pre-parliamentary proposals on sextortion, stalking, voyeurism and AI-generated or altered intimate imagery, with an institutional duty to report](https://nation.africa/kenya/news/gender/from-online-abuse-to-sex-for-marks-kenya-moves-to-criminalise-deepfake-sexual-violence-and-sextortion-5545524) | Advanced |
+| Technopolis Act | Did not exist | [In force, giving innovation cities including Konza a standalone legal framework with a development authority and a disputes tribunal](https://itweb.africa/article/kenya-enacts-new-law-to-formalise-tech-zones/8OKdWqDXlp6qbznQ) | Advanced |
+| Technopolis Regulations | Did not exist | [Not finalised, with no draft on file](https://techafricanews.com/2026/07/30/kenya-advances-digital-superhighway-agenda-with-new-legislative-push/) | Advanced |
+| Virtual Asset Service Providers Act 2025 | Did not exist | [In force, with pre-existing operators given until 2026-11-04 to comply](https://new.kenyalaw.org/akn/ke/act/2025/20) | Advanced |
+| Virtual Asset Service Providers Regulations 2026 | Did not exist | [Gazetted as Legal Notice 134, with joint central bank and capital markets licensing across ten categories, capital by licence class from KES 300m for stablecoin issuance to nil for advisers, and a seizure and freezing framework; Binance, Luno, VALR, Yellow Card, Kotani Pay and Roqqu have said they intend to apply, and the regulators had not announced the application process as at 2026-08-07](https://techcabal.com/2026/08/24/kenya-virtual-asset-marke/) | Advanced |
+| Cyber cafe customer registration and session logging rules | ***Baseline not held*** | [Operators must capture each customer’s name and identity number, the terminal used and session times, and retain the records at least three years, on pain of fines of up to 0.2% of annual turnover with a minimum of about US$3,860. The regulator clarified on 2026-08-13 that the conditions do not require operators to track customers’ browsing history. The licence conditions were published by gazette notice on 2026-08-07 and take effect on 2026-09-07](https://itweb.africa/article/kenya-tightens-cyber-cafe-rules-to-close-identity-gap/6GxRKqYQ1aAqb3Wj) | ***Baseline not held*** |
+| ICT Authority Bill | ***Baseline not held*** | [On the forward legislative list with no text, sponsor or stage on file](https://techafricanews.com/2026/07/30/kenya-advances-digital-superhighway-agenda-with-new-legislative-push/) | ***Baseline not held*** |
+| Kenya Intellectual Property Bill | ***Baseline not held*** | [Would merge three agencies into a new authority with an intellectual-property tribunal; the draft would merge the industrial property institute, the copyright board and the anti-counterfeit authority into one regulator, replace the 2001 and 2008 statutes, and set rules distinguishing AI-assisted from AI-generated inventions, with Parliament inviting public submissions](https://www.pulse.co.ke/story/the-intellectual-property-bill-2026-what-kenyan-bloggers-and-tiktokers-need-to-know-2026081618295613444) | ***Baseline not held*** |
+| Persons with Disabilities Act 2025 | ***Baseline not held*** | [In force but setting no AI accessibility standards and no enforcement mechanism](https://cipit.strathmore.edu/strengthening-legal-and-policy-frameworks-for-ai-accessibility-for-persons-with-disabilities-in-kenya/) | ***Baseline not held*** |
+| Repeal of the IEBC duty to livestream polling-station results | ***Baseline not held*** | [Two bills would remove the commission's statutory duty to create a mechanism for livestreaming results from the polling station: the Elections (Amendment) Bill 2024, passed by the Senate in December 2024 and awaiting the National Assembly, and the Election Laws (Amendment) Bill 2026, sponsored jointly by the Senate majority and minority leaders. Neither is enacted](https://nation.africa/kenya/news/politics/50-million-cameras-the-election-kenya-did-not-have-in-1992-5552024) | ***Baseline not held*** |
+
+### Data protection
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| Communications Authority escalated consumer complaints | 362 complaints in October to December 2025 | [670 escalated complaints in April to June 2026, up from 563 in the prior quarter, with 548 or 82% resolved; data services drew 195 complaints against 44 for voice, data billing and charges was the largest single category at 75, and the Authority separately logged 19 data-breach complaints](https://techcabal.com/2026/08/06/data-billing-and-fraud-top-kenyas-telecom-consumer-complaints/) | Regressed |
+| Constitutional Petition E095 of 2026 | Did not exist | [Decided, awarding 11 petitioners KES 900,000 each for a sustained and systematic compromise of subscriber data](https://www.the-star.co.ke/news/2026-08-03-gra-probes-licensed-betting-firms-over-alleged-data-breach-claims) | Advanced |
+| Gambling regulator investigation into three licensed operators | Did not exist | [Open, with the criminal investigations directorate requesting the regulator's entire record on the licensees back to 2018](https://www.the-star.co.ke/news/2026-08-03-gra-probes-licensed-betting-firms-over-alleged-data-breach-claims) | Advanced |
+| ODPC Data Protection Services appropriation | No separately visible appropriation | [KSh 917.3m appropriated in the original estimates, projected to KSh 1,328m by 2028/29](https://www.treasury.go.ke/sites/default/files/Budget%20Books/Budget%20books%202026-2027/FY%202026%202027%20Programme%20Based%20Budget%20Book.pdf) | Advanced |
+| ODPC Guidance Note on Artificial Intelligence | Did not exist | [36-page draft reading Part VI of the Data Protection Act onto AI, requiring a lawful transfer basis and a documented adequacy assessment before any transfer to an offshore AI processor, registration with the Office of every entity deploying AI on Kenyan data subjects' data, a data protection impact assessment before any high-risk deployment, and obligations mapped across a seven-stage AI lifecycle that applies to procured systems as to built ones](https://www.odpc.go.ke/wp-content/uploads/2026/07/AI-Guidance-Note.July-2026.pdf) | Advanced |
+| ODPC Guidance Note on Emerging Technologies | Did not exist | [31-page draft covering the internet of things, cloud, blockchain, biometric recognition classified as one-to-one, one-to-many and many-to-many, extended reality and connected vehicles](https://www.odpc.go.ke/wp-content/uploads/2026/07/Emerging-Tech-Guidance-Note.-July-2026.pdf) | Advanced |
+| ODPC Guidance Note on Privacy-Enhancing Technologies | Did not exist | [38-page draft reading adoption of privacy-enhancing technologies as a statutory obligation under privacy by design](https://www.odpc.go.ke/wp-content/uploads/2026/07/PET-Guidance-Note.-July-2026.pdf) | Advanced |
+| Petition on asset-financier borrower data and vehicle tracking | Did not exist | [A riders' and owners' association petition, committed by the Speaker to the Public Petitions Committee, alleging that an asset financier breaches data-protection law in its collection, processing, storage and sharing of borrowers' personal data and in the tracking devices fitted to financed motorcycles](https://parliament.go.ke/sites/default/files/2026-08/The%20Hansard%20-%20Tuesday%2C%2018%20August%202026.pdf) | Advanced |
+| US-Kenya Health Cooperation Framework | Did not exist | [Signed 2025-12-04 for a five-year term, with US$1,631,470,000 of planned United States support across FY2026-FY2030 including US$175,000,000 for health data systems; frozen by injunction that month, the suspension of the data-transfer component reversed on appeal in May 2026, and a final ruling reported due at end-October 2026. The framework's US$2.5bn headline value, used in press and litigation coverage, is this same US$1,631,470,000 of planned US support plus Kenya's own pledged increase in domestic health expenditure (Framework paragraph 6.1.2, approximately US$850m to FY2029/30 per the US Department of State's own announcement of the signing) — not a competing figure](https://www.citizen.org/wp-content/uploads/2026-0007QN-Kenya-Health-12.4.2025.pdf) | Advanced |
+| Data Protection Act 2019 | In force, with the Office of the Data Protection Commissioner as statutory regulator | [In force, with the regulator now stretching its cross-border-transfer duties to reach offshore AI processing](https://www.businessdailyafrica.com/bd/corporate/technology/regulator-plans-tighter-data-shields-on-offshore-ai-platforms-5546966) | No change |
+| ODPC enforcement caseload and penalties | 7,128 complaints received and 215 determinations issued as of March 2025 | [Same statement; no later caseload, determination count or penalty total published](https://www.odpc.go.ke/wp-content/uploads/2025/04/ODPC-Data-Bulletin-12th-Edition.pdf) | No change, no later figure published |
+| ODPC five-year privacy plan | Launched at KES 12.6bn over five years | [Launched, with no spend, milestone or progress statement on file since](https://www.standardmedia.co.ke/central/article/2001523499/data-protection-office-launches-sh126-billion-privacy-plan) | No change |
+| Sector guidance on personal data in the electoral process | In force, setting out how the electoral commission, the registrar of political parties, political parties and governance organisations may process personal data for electoral purposes under the Data Protection Act 2019 | [In force, binding every organisation that touches voter data from the electoral commission down to civil-society registration groups, with the commission's own processing anchored in statutory mandate rather than consent and political parties' obligations turning on how they obtained the data](https://www.odpc.go.ke/wp-content/uploads/2024/02/ODPC-Guidance-Notes-for-Electoral-Purposes.pdf) | No change |
+| Audit access under the health memorandum | ***Baseline not held*** | [A rights organisation's reading of the seven signed American health memoranda records all seven as requiring broad audit access, and places Kenya outside both the three committing to hand over any data without explicit privacy safeguards and the five whose text requires unilateral specimen and pathogen-sequencing sharing](https://www.hrw.org/news/2026/06/08/human-rights-assessment-of-the-2025-2026-us-bilateral-health-agreements) | ***Baseline not held*** |
+| Betting and gaming firms registered with the ODPC | ***Baseline not held*** | [15 of 224 fully registered as both controller and processor, with 185 unregistered and given 40 days or licence cancellation](https://nation.africa/kenya/news/register-or-face-shutdown-kabogo-to-betting-firms-with-children-s-data-5458126) | ***Baseline not held*** |
+| Cybercrime losses, regulator estimate | ***Baseline not held*** | [At least KSh 29bn a year](https://www.standardmedia.co.ke/sci-tech/article/2001553485/data-protection-office-bets-on-global-quality-standards-amid-rising-cyber-threats) | ***Baseline not held*** |
+
+### Standards
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| Communications Equipment Vendor Class Licence guidelines | Did not exist | [Licence conditions for the category gazetted by the Communications Authority under the Kenya Information and Communications Act after public consultation, effective 30 days from the notice, and published for free download; the vendor rules carry a 12-month minimum warranty, returns, after-sales support and record-keeping duties](https://new.kenyalaw.org/akn/ke/officialGazette/2026-08-07/135/eng@2026-08-07/source.pdf) | Advanced |
+| Foundational digital-health governance documents | Did not exist | [Four foundational digital-health documents launched by the health ministry, together establishing the architecture for governing, connecting and using health data that three decades of collection had left without a shared framework](https://kenyahmis.org/from-data-collection-to-data-use-kenyas-foundation-for-digital-health/) | Advanced |
+| National FHIR implementation guides | Did not exist | [Two health-interoperability implementation guides published by the digital health agency — a core guide at version 1.0.0 and a patient summary guide at version 0.1.0 — both served as continuous builds rather than authorised publications](https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-core-FHIR-IG/) | Advanced |
+| ODPC quality management system | Did not exist | [Quality management system launched with World Bank support, with the external certification audit still to come](https://www.standardmedia.co.ke/sci-tech/article/2001553485/data-protection-office-bets-on-global-quality-standards-amid-rising-cyber-threats) | Advanced |
+| Public Communications Access Centre licence | Did not exist | [A licence category created under the revised telecommunications market structure, its conditions gazetted by the Communications Authority after public consultation, effective 30 days from the notice and published for free download on the regulator’s site](https://new.kenyalaw.org/akn/ke/officialGazette/2026-08-07/135/eng@2026-08-07/source.pdf) | Advanced |
+| ODPC draft guidance notes on biometric and children's data | Issued in draft, with mandatory registration of biometric processors and risk-based age assurance | [Still in draft as far as the base establishes](https://www.biometricupdate.com/202505/kenya-releases-draft-guidance-on-biometrics-age-assurance) | No change |
+| County own-source revenue automation standards | ***Baseline not held*** | [Binding standards gazetted for county own-source revenue automation, covering the system lifecycle from procurement through audit and requiring data ownership and portability safeguards to reduce vendor lock-in](https://cra.go.ke/2026/08/14/cra-gazettes-standards-and-guidelines-for-county-own-source-revenue-automation/) | ***Baseline not held*** |
+| Digital pharmacy services guidelines | ***Baseline not held*** | [Second revision of the regulator's guideline in draft, widening the scope of regulation from internet pharmacy services to digital pharmacy services generally - electronic prescription generation, transmission, validation and management, online dispensing, telepharmacy and digital consultation, and digital self-care support - and reaching licensed premises, online providers, telepharmacy providers, digital health platforms, pharmacy chains and third-party technology, hosting, payment and logistics providers; the text carries a 2026 effective date and a 2029 review date, and its approval blocks are unsigned](https://web.pharmacyboardkenya.org/download/draft-guidelines-for-digital-pharmacy-services-in-kenya/?wpdmdl=14068) | ***Baseline not held*** |
+| EU Global Gateway ICT standards engagement | ***Baseline not held*** | [Cooperation reaffirmed across AI, cybersecurity, digital identity, interoperability and digital governance](https://techafricanews.com/2026/07/27/kenya-and-eu-strengthen-digital-standards-partnership-to-support-digital-superhighway/) | ***Baseline not held*** |
+
+<!-- narrative: governance -->
+The clearest band change in this report is here. Virtual assets went from no statute at all to an Act commenced in November 2025, gazetted regulations in July 2026 with capital set by licence class, a seizure and freezing framework, and a hard compliance deadline of 4 November 2026. Artificial intelligence went from one strategy to four instruments — a 226-page draft policy, a Senate bill on a separate track, draft regulator guidance reaching offshore processing through transfer rules, and a costed-but-unfunded strategy — and not one of them is binding.
+
+Enforcement capacity became visible in the estimates for the first time: Data Protection Services received KSh 917.3m in the 2026/27 original estimates, where through 2025/26 the regulator had no separately visible line. What this base cannot yet show is what that capacity produced: the regulator's caseload bulletin and its statutory register of data handlers are both published and both unheld.
+
+The Data Protection Act itself was not amended. What accumulated on top of it is enforcement episodes, litigation and third-party analysis: a constitutional petition decided in May 2026 [awarding eleven petitioners KES 900,000 each for a sustained and systematic compromise of subscriber data](https://www.the-star.co.ke/news/2026-08-03-gra-probes-licensed-betting-firms-over-alleged-data-breach-claims), a 40-day registration ultimatum to 224 betting firms of which 15 were fully registered, and an investigation opened into three licensed operators. The one instrument that lost reach did so through the courts.
+<!-- /narrative -->
+
+## Finance
+
+### Domestic budget appropriations and expenditure
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| Digital economy and creative industry thematic allocation | KSh 12.7bn for FY2025/26 | [KSh 8.6bn for FY2026/27, a second consecutive cut from KSh 16.3bn in FY2024/25](https://www.businessdailyafrica.com/bd/economy/ict-allocation-drops-to-sh8-6-billion-in-budget-5493262) | Regressed |
+| Vote 1122, State Department for ICT and the Digital Economy | KSh 16,188.8m appropriated for FY2025/26 | [KSh 12,763.8m appropriated for FY2026/27, with FY2025/26 itself revised down to KSh 12,215.1m at the first supplementary](https://www.treasury.go.ke/sites/default/files/Budget%20Books/Budget%20books%202026-2027/FY%202026%202027%20Programme%20Based%20Budget%20Book.pdf) | Regressed |
+| Digital hubs establishment appropriation | ***Baseline not held*** | [KSh 400m appropriated for establishing digital hubs](https://www.businessdailyafrica.com/bd/economy/ict-allocation-drops-to-sh8-6-billion-in-budget-5493262) | ***Baseline not held*** |
+| FY2027/28 budget process | ***Baseline not held*** | [Digital Superhighway named a priority sector, with no ceiling, figure or timetable published](https://techafricanews.com/2026/07/24/kenya-launches-fy2027-28-budget-process-with-focus-on-digital-economy-and-growth/) | ***Baseline not held*** |
+| Last-mile county connectivity maintenance appropriation | ***Baseline not held*** | [KSh 528m appropriated for maintenance and rehabilitation](https://www.businessdailyafrica.com/bd/economy/ict-allocation-drops-to-sh8-6-billion-in-budget-5493262) | ***Baseline not held*** |
+
+### MoUs and other agreements
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| EU-Kenya Digital Partnership | ***Baseline not held*** | [KSh 15.3bn committed, including EUR 37m to the Blue Raman submarine cable](https://techafricanews.com/2026/06/09/kenya-secures-ksh-15-3-billion-eu-boost-to-accelerate-digital-transformation/) | ***Baseline not held*** |
+| Judiciary people-centred justice partnership | ***Baseline not held*** | [A memorandum signed between the judiciary and a Netherlands justice-innovation institute, with an intergovernmental development-law organisation and the Netherlands embassy participating, building on the country's access-to-justice blueprint](https://www.hiil.org/news/hiil-and-kenyas-judiciary-formalise-partnership/) | ***Baseline not held*** |
+
+### New investments
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| Atlas Tower Kenya debt facility (ATK Debt II) | Did not exist | [US$25m IFC debt inside a US$30m multi-currency debt package financing new macro towers and expanded mobile network capacity](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=XM-DAC-903-SII-52548) | Advanced |
+| EBRD-Axian Telecom (Yas) senior loan financing, Kenya tranche | Did not exist | [EUR270m total facility across 21 obligors in 8 jurisdictions; committed facility up to EUR170m includes a local-currency tranche of up to EUR20m equivalent in Kenyan shillings funding fibre-infrastructure modernisation in Kenya, plus an uncommitted EUR100m facility for future acquisitions and capex across EBRD's sub-Saharan African countries of operation](https://www.whitecase.com/news/press-release/white-case-advises-european-bank-reconstruction-and-development-landmark-eur270) | Advanced |
+| IFC Catalytic First Loss Guarantee transactions | Did not exist | [US$24.2m committed across three Kenyan lenders with US$11m of IDA Private Sector Window backing, expected to catalyse about US$144.4m in local-currency lending to micro-enterprises](https://www.ifc.org/en/pressroom/2026/ifc-supports-expansion-of-financing-for-kenya-s-small-businesses-through-the-first) | Advanced |
+| Kenya Digital Economy Acceleration Project | KSh 3.7bn in the FY2025/26 estimates on a US$390m commitment | [KSh 4.3bn appropriated for FY2026/27, half the entire digital thematic, equipping more than 10,000 junior secondary schools](https://www.businessdailyafrica.com/bd/economy/ict-allocation-drops-to-sh8-6-billion-in-budget-5493262) | Advanced |
+| Kenya Digital Economy Acceleration Project disbursement | ***Baseline not held*** | [US$33.93m disbursed of US$390m committed, in year three of an operation closing October 2028](https://projects.worldbank.org/en/projects-operations/project-detail/P170941) | ***Baseline not held*** |
+| Kenya investment plan of a Chinese digital-infrastructure group | Did not exist | [About KSh38.8 billion (US$300 million) stated as planned investment in telecommunications towers, smart cities, data centres, fibre-optic networks, cloud infrastructure and green digital technologies, described as supporting the Digital Superhighway programme. No agreement, timetable, site or financing instrument is stated](https://www.ecofinagency.com/news/2108-58239-china-s-guodong-plans-300-million-digital-infrastructure-investment-in-kenya) | ***Baseline not held*** |
+| MSME lending guarantee facility | ***Baseline not held*** | [A catalytic first-loss guarantee of US$24.2m across three Kenyan transactions, backed by US$11m of concessional private-sector-window financing, expected to catalyse about US$144.4m of local-currency lending to small and medium enterprises](https://www.4g-capital.com/post/4g-capital-partners-with-ifc-to-expand-financing-for-kenya-s-micro-and-small-businesses) | ***Baseline not held*** |
+
+<!-- narrative: finance -->
+State financing fell while the externally financed share rose. The digital thematic allocation went KSh 16.3bn, KSh 12.7bn, KSh 8.6bn across three years, and the World Bank acceleration project rose to KSh 4.3bn — half the entire thematic — [having disbursed US$33.93m of a US$390m commitment by June 2026](https://projects.worldbank.org/en/projects-operations/project-detail/P170941). The department's own vote fell from KSh 16,188.8m appropriated for 2025/26 [to KSh 12,763.8m for 2026/27, with the intervening year revised down to KSh 12,215.1m](https://www.treasury.go.ke/sites/default/files/Budget%20Books/Budget%20books%202026-2027/FY%202026%202027%20Programme%20Based%20Budget%20Book.pdf).
+
+State funding for the flagship lending fund fell from KSh 20bn at launch to KSh 300m in the year to June 2026.
+<!-- /narrative -->
+
+## ICT Infrastructure
 
 ### Connectivity
 
@@ -82,7 +198,7 @@ Over the twelve months, Kenya's regulatory layer went from empty to fully drafte
 | Cyber threat events recorded by the communications regulator | ***Baseline not held*** | [2.35 billion in the quarter to June 2026, chiefly web-application attacks; INTERPOL separately puts Kenya second on the continent for exploitable digital vulnerabilities detected in 2025 at 11.9%, behind South Africa at 43.6% and ahead of Nigeria at 9.1%](https://nation.africa/kenya/business/interpol-ranks-kenya-second-in-africa-for-cyberattacks-5546968) | ***Baseline not held*** |
 | UK-Kenya cyber partnership | Baseline not held | [Running, with a dedicated national cybersecurity agency and counter-disinformation AI tools named as the workstreams; no funding, deliverable or date is stated](https://itweb.africa/article/kenya-uk-strengthen-cybersecurity-ties/VgZeyvJlBxKMdjX9) | ***Baseline not held*** |
 
-<!-- narrative: infrastructure -->
+<!-- narrative: ict-infrastructure -->
 Three positions changed maturity band. Cyber-security acquired an institution: the National Cyber Security Agency Order was gazetted in May 2026 and announced approved in June, at a tabled establishment cost of about KSh 4bn, where cyber duties had previously been split across the regulator's incident team, a counter-terrorism centre, law enforcement and sector regulators. Satellite broadband flipped from decline to capacity exhaustion — from 17,425 subscribers and a shrinking share in mid-2025 [to 24,999 and top-ten fixed status by March 2026, then closed sign-ups in seven counties and speeds down 26%](https://techweez.com/2026/07/08/starlink-kenya-waitlist-capacity-counties/). And the hyperscale anchor moved from build to stall, with the Olkaria facility missing its May 2026 launch and power established on the record as the constraint that stopped it.
 
 Against that, the operational record moved the other way. The presidency's website went from no compromise on file to two defacements in twelve months, cause undisclosed both times. The Computer Misuse and Cybercrimes Act lost provisions to the courts rather than gaining reach. And the Konza data centre's appropriation disappeared from the estimates without explanation, having already fallen from KSh 5.2bn to KSh 3.1bn the year before.
@@ -90,7 +206,7 @@ Against that, the operational record moved the other way. The presidency's websi
 Everything else accreted detail: a cloud region confirmed its host but has no launch date, a data centre broke ground then slipped six months, and the 100,000km fibre target was restated without a delivered-kilometre figure.
 <!-- /narrative -->
 
-## Digital public infrastructure
+## DPI
 
 ### Data Exchange
 
@@ -136,7 +252,7 @@ Everything else accreted detail: a cloud region confirmed its host but has no la
 | Ziidi Trader (M-PESA equity-trading service) | Did not exist | [Reportedly accounted for 40% of trades by number and 5% of daily trading value on the Nairobi Securities Exchange in its first days of operation](https://www.telemediamagazine.com/vodacom-lesotho-brings-micro-investing-to-m-pesa-as-africas-mobile-wallets-move-into-wealth/) | Advanced |
 | CBK national switch and fast payment system | ***Baseline not held*** | [Central bank designing a fast payment system and national switch amid heavy lobbying, with no award](https://techcabal.com/2026/04/03/kenswitch-visa-deal-stakes-kenya-payments-overhaul/) | ***Baseline not held*** |
 
-### Registries (population, land, address, etc.)
+### Registries
 
 | System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
@@ -144,7 +260,7 @@ Everything else accreted detail: a cloud region confirmed its host but has no la
 | Online download of birth certificates | Application online through eCitizen, collection required a visit to a registry or Huduma centre | [Certificate downloadable and printable online after application](https://www.kenyans.co.ke/news/124508-kenyans-download-and-print-birth-certificates-online) | Advanced |
 | Ardhisasa land platform | Isiolo live, Mombasa Island blocks the prior week, Marsabit and Baringo named next | [No county-rollout update on file since July 2025; the EU has earmarked EUR 12m for land-registration digitisation tied to the digital identity](https://lands.go.ke/isiolo-county-onboarded-ardhisasa-more-counties-embrace-platform) | No change |
 
-### Sectoral management information systems (HMIS, EMIS, etc.)
+### Sectoral management information systems
 
 | System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
@@ -176,21 +292,6 @@ Everything else accreted detail: a cloud region confirmed its host but has no la
 | Export of the eCitizen platform and its registry systems | Not held | [The platform's operator holds registry deployments in Malawi and South Sudan and on 12 August 2026 pitched the Democratic Republic of the Congo's digital economy ministry on digital company registries, beneficial-ownership traceability and real-time state-revenue tracking, citing eCitizen's 40-plus digitised services; the minister asked officials to continue talks toward a partnership](https://acp.cd/economie/rdc-la-mise-en-place-de-registres-numeriques-recommandee-pour-moderniser-ladministration/) | ***Baseline not held*** |
 | Kenya Ports Authority digitalisation | ***Baseline not held*** | [Bilateral commitment to technology transfer and digital solutions for Mombasa; no instrument, value or timetable](https://itweb.africa/article/south-korea-backs-kenya-port-digitalisation/WnpNgM21Z1K7VrGd) | ***Baseline not held*** |
 
-### Digitalisation of sub-national government
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| County digital services register | None published | [All 47 counties scored out of 100 on citizen experience, revenue and back-office systems, data use and employment creation, from 98.3 for Murang'a to 28.8 for Wajir, with seven counties at Grade A and six at Grade D](https://vision2030.go.ke/wp-content/uploads/2026/02/ASSESSMENT-REPORT-AUTOMATION-EMPLOYMENT-IN-COUNTIES-23-02-2026.pdf) | Advanced |
-| Kirinyaga One Government Network fibre | ***Baseline not held*** | [102.4km of fibre connecting all five sub-counties, with nine public Wi-Fi hotspots live and 80 further sites surveyed](https://www.telecomreviewafrica.com/articles/general-news/28132-kenya-advances-digital-economy-with-fiber-wi-fi-and-youth-programs/) | ***Baseline not held*** |
-| Murang'a telemedicine network | ***Baseline not held*** | [170 public health facilities live and 302 more due before end-2026, with 15 doctors at a central hub handling 450 to 600 patients a day, from a 35-facility pilot at end-2025](https://www.itweb.co.za/article/muranga-county-expands-healthcare-access-with-paratus-essential-access-powered-by-starlink/PmxVE7KE98kqQY85) | ***Baseline not held*** |
-
-### National statistics
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| KNBS digital-indicator release | Economic Survey 2025, ICT chapter running to 2024 | [Unchanged; the ICT chapter puts mobile subscriptions at 71.4m and 136.1 per 100 inhabitants in 2024, fixed and wireless internet subscriptions at 57.8m and mobile-money subscriptions at 42.3m, and no 2026 edition or Statistical Abstract is held](https://www.knbs.or.ke/wp-content/uploads/2025/05/2025-Economic-Survey.pdf) | No change |
-| Safaricom and KNBS mobile-data partnership | ***Baseline not held*** | [Collaboration to explore anonymised aggregated mobile data for population, mobility and socio-economic insight, with no scope, governance terms or start date](https://techafricanews.com/2026/06/08/safaricom-and-knbs-partner-to-harness-mobile-data-for-national-planning/) | ***Baseline not held*** |
-
 <!-- narrative: dpi -->
 The identity and payments layers grew without changing band. Registered mobile-money accounts rose from 87.46 million [to 94.09 million and active agents from 451,157 to 564,330](https://www.centralbank.go.ke/national-payments-system/mobile-payments/); the dominant wallet went from 35.82 million to 40.99 million 30-day-active customers and moved KES 41.68tn in the year to March 2026. Identity records digitised passed 42 million. These are bigger numbers on the same systems.
 
@@ -201,100 +302,21 @@ Two rows regressed. Service migration onto the government platform halved [again
 Two systems stalled against their own stated dates: an education management information system promised a July 2025 pilot and a September 2025 go-live and has confirmed neither, and a police information system presented in July 2025 has no build or go-live status thirteen months later.
 <!-- /narrative -->
 
-## Governance and regulation
+## Digitalisation
 
-### Legislation and regulation
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| Access to Information (Amendment) Bill | Did not exist | [Would criminalise sharing classified information through personal messaging or email, on four classification tiers](https://nation.africa/kenya/news/new-bill-sharing-state-secrets-on-whatsapp-emails-could-land-you-in-jail-5516338) | Advanced |
-| AI Governance Act | Did not exist | [Named in the draft policy as the statutory backstop, with no text, sponsor or date](https://ict.go.ke/sites/default/files/AI%20Policy%20Doc/draft-kenya-ai-and-emerging-technologies-policy-2026.pdf) | Advanced |
-| Computer Misuse and Cybercrimes Act 2018 | In force with false-publication offences and a non-judicial website-shutdown power | [Narrowed by litigation, with the false-publication sections and the shutdown power struck and a conservatory order blocking a national internet shutdown](https://www.kictanet.or.ke/kensafespace-project-impact-digital-rights-kenya/) | Regressed |
-| Copyright and Related Rights Bill 2026 | Did not exist | [Out for comment, creating a Copyright Authority and a disputes tribunal, and carrying the 2001 computer-generated-work authorship rule forward unchanged](https://www.linkedin.com/pulse/kenyas-new-copyright-bill-good-start-ready-ai-age-zaccheaus-amenya-0zeuf/) | Advanced |
-| Kenya Information and Communications (Amendment) Bill 2025 | Gazetted 2025-03-07 as National Assembly Bill No. 9 of 2025 | [Before Parliament, proposing mandatory consumption-based internet billing: the Bill brings internet service providers inside the statutory definition of a telecommunication operator and would require each to run a meter billing system that assigns every customer a unique meter number, monitors usage, converts it into readable detail, invoices on consumption and lets the user verify the invoice, with meter numbers and billing-system information reported to the regulator at least once each financial year. It fixes no price, caps no tariff, sets no penalty and carries no data-minimisation clause. A second operator told the National Assembly Committee on Communication, Information and Innovation on 2026-08-20 that metered billing would raise costs, undermine fixed and unlimited packages, expose enterprises to bill shock from automated traffic they did not initiate, and raise data-protection and surveillance concerns through continuous granular usage tracking. No committee report, amendment schedule or enactment date is published](https://peopledaily.digital/business/internet-firm-warns-proposed-metered-billing-could-raise-costs-for-kenyans) | Advanced |
-| Kenya National Library Service Bill 2023 | Published 2023-06-14 to repeal the Kenya National Library Service Act 1965, with no digital provision on record | [At Senate committee hearing, with the ICT ministry asking that electronic legal deposit, a national digital knowledge repository, digital preservation of public records, AI-supported cataloguing and interoperability with government digital infrastructure be written into the Bill](https://parliament.go.ke/node/26196) | Advanced |
-| Sexual Offences Act amendment package | Did not exist | [Pre-parliamentary proposals on sextortion, stalking, voyeurism and AI-generated or altered intimate imagery, with an institutional duty to report](https://nation.africa/kenya/news/gender/from-online-abuse-to-sex-for-marks-kenya-moves-to-criminalise-deepfake-sexual-violence-and-sextortion-5545524) | Advanced |
-| Technopolis Act | Did not exist | [In force, giving innovation cities including Konza a standalone legal framework with a development authority and a disputes tribunal](https://itweb.africa/article/kenya-enacts-new-law-to-formalise-tech-zones/8OKdWqDXlp6qbznQ) | Advanced |
-| Technopolis Regulations | Did not exist | [Not finalised, with no draft on file](https://techafricanews.com/2026/07/30/kenya-advances-digital-superhighway-agenda-with-new-legislative-push/) | Advanced |
-| Virtual Asset Service Providers Act 2025 | Did not exist | [In force, with pre-existing operators given until 2026-11-04 to comply](https://new.kenyalaw.org/akn/ke/act/2025/20) | Advanced |
-| Virtual Asset Service Providers Regulations 2026 | Did not exist | [Gazetted as Legal Notice 134, with joint central bank and capital markets licensing across ten categories, capital by licence class from KES 300m for stablecoin issuance to nil for advisers, and a seizure and freezing framework; Binance, Luno, VALR, Yellow Card, Kotani Pay and Roqqu have said they intend to apply, and the regulators had not announced the application process as at 2026-08-07](https://techcabal.com/2026/08/24/kenya-virtual-asset-marke/) | Advanced |
-| Cyber cafe customer registration and session logging rules | ***Baseline not held*** | [Operators must capture each customer’s name and identity number, the terminal used and session times, and retain the records at least three years, on pain of fines of up to 0.2% of annual turnover with a minimum of about US$3,860. The regulator clarified on 2026-08-13 that the conditions do not require operators to track customers’ browsing history. The licence conditions were published by gazette notice on 2026-08-07 and take effect on 2026-09-07](https://itweb.africa/article/kenya-tightens-cyber-cafe-rules-to-close-identity-gap/6GxRKqYQ1aAqb3Wj) | ***Baseline not held*** |
-| ICT Authority Bill | ***Baseline not held*** | [On the forward legislative list with no text, sponsor or stage on file](https://techafricanews.com/2026/07/30/kenya-advances-digital-superhighway-agenda-with-new-legislative-push/) | ***Baseline not held*** |
-| Kenya Intellectual Property Bill | ***Baseline not held*** | [Would merge three agencies into a new authority with an intellectual-property tribunal; the draft would merge the industrial property institute, the copyright board and the anti-counterfeit authority into one regulator, replace the 2001 and 2008 statutes, and set rules distinguishing AI-assisted from AI-generated inventions, with Parliament inviting public submissions](https://www.pulse.co.ke/story/the-intellectual-property-bill-2026-what-kenyan-bloggers-and-tiktokers-need-to-know-2026081618295613444) | ***Baseline not held*** |
-| Persons with Disabilities Act 2025 | ***Baseline not held*** | [In force but setting no AI accessibility standards and no enforcement mechanism](https://cipit.strathmore.edu/strengthening-legal-and-policy-frameworks-for-ai-accessibility-for-persons-with-disabilities-in-kenya/) | ***Baseline not held*** |
-| Repeal of the IEBC duty to livestream polling-station results | ***Baseline not held*** | [Two bills would remove the commission's statutory duty to create a mechanism for livestreaming results from the polling station: the Elections (Amendment) Bill 2024, passed by the Senate in December 2024 and awaiting the National Assembly, and the Election Laws (Amendment) Bill 2026, sponsored jointly by the Senate majority and minority leaders. Neither is enacted](https://nation.africa/kenya/news/politics/50-million-cameras-the-election-kenya-did-not-have-in-1992-5552024) | ***Baseline not held*** |
-
-### Strategies, plans and policies
+### Digitalisation of sub-national government
 
 | System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
-| Draft National Data Governance Policy | Did not exist | [Draft of May 2026 schedules implementation from July 2026, with the personal and non-personal boundary undefined and the pricing method deferred](https://www.atlanticcouncil.org/blogs/econographics/kenya-wants-to-monetize-its-data-but-at-what-cost/) | Advanced |
-| Inter-Agency Digital Piracy Enforcement Framework | Did not exist | [Adopted, with the ICT ministry coordinating the copyright board, the regulator, the Media Council and the Copyright Tribunal](https://techafricanews.com/2026/07/31/kenya-unveils-national-framework-to-combat-kes-92-billion-digital-piracy-losses/) | Advanced |
-| Joint Framework for Digital Platform Governance | Did not exist | [In drafting, would replace safe-harbour immunity with earned protection and add a joint regulatory oversight committee](https://www.unesco.org/en/articles/kenya-charts-path-towards-coordinated-digital-platform-governance) | Advanced |
-| Kenya Cloud Policy (2025) Implementation Guidelines | Did not exist | [99 pages signed by the ICT Cabinet Secretary and cover-dated June 2026, grading providers into four accreditation classes with a register published on the ministry website and a supplier-and-buyer marketplace administered by a Cloud Adoption Committee, and giving state organs 24 months to migrate non-exempted systems](https://www.ict.go.ke/sites/default/files/2026-07/Final%20%20Kenya%20Cloud%20Policy%202025%20Implementation%20Guidelines.pdf) | Advanced |
-| National Policy on Digital Piracy | Did not exist | [Announced, to be drafted multi-stakeholder, with no draft, drafter or date](https://techafricanews.com/2026/07/31/kenya-unveils-national-framework-to-combat-kes-92-billion-digital-piracy-losses/) | Advanced |
-| Central bank pricing principles for mobile money | ***Baseline not held*** | [Operating through voluntary operator alignment, with no gazetted tariff rule or determination to cite, appeal or extend to a competitor](https://www.standardmedia.co.ke/business/article/2001554316/safaricom-halves-m-pesa-merchant-fees-in-cbk-led-move) | ***Baseline not held*** |
-| Harmonised county wayleave framework | ***Baseline not held*** | [Agreed to be developed and tabled at the intergovernmental sector forum, with no framework text, timetable, cost or wayleave figure published](https://techafricanews.com/2026/07/31/kenya-strengthens-ict-devolution-partnership-to-accelerate-digital-transformation/) | ***Baseline not held*** |
-| National BPO Policy | ***Baseline not held*** | [Claimed as delivered, with no text, adoption date or provisions on file](https://techafricanews.com/2026/07/30/kenya-advances-digital-superhighway-agenda-with-new-legislative-push/) | ***Baseline not held*** |
-| National Cloud Policy | ***Baseline not held*** | [Adopted, cited as anchoring domestic data-centre demand](https://techtrends.africa/africas-data-centre-boom/) | ***Baseline not held*** |
-| National Cybersecurity Policy | ***Baseline not held*** | [On the government's forward list with nothing drafted on record](https://techafricanews.com/2026/07/30/kenya-advances-digital-superhighway-agenda-with-new-legislative-push/) | ***Baseline not held*** |
+| County digital services register | None published | [All 47 counties scored out of 100 on citizen experience, revenue and back-office systems, data use and employment creation, from 98.3 for Murang'a to 28.8 for Wajir, with seven counties at Grade A and six at Grade D](https://vision2030.go.ke/wp-content/uploads/2026/02/ASSESSMENT-REPORT-AUTOMATION-EMPLOYMENT-IN-COUNTIES-23-02-2026.pdf) | Advanced |
+| Kirinyaga One Government Network fibre | ***Baseline not held*** | [102.4km of fibre connecting all five sub-counties, with nine public Wi-Fi hotspots live and 80 further sites surveyed](https://www.telecomreviewafrica.com/articles/general-news/28132-kenya-advances-digital-economy-with-fiber-wi-fi-and-youth-programs/) | ***Baseline not held*** |
+| Murang'a telemedicine network | ***Baseline not held*** | [170 public health facilities live and 302 more due before end-2026, with 15 doctors at a central hub handling 450 to 600 patients a day, from a 35-facility pilot at end-2025](https://www.itweb.co.za/article/muranga-county-expands-healthcare-access-with-paratus-essential-access-powered-by-starlink/PmxVE7KE98kqQY85) | ***Baseline not held*** |
 
-### Standards
+<!-- narrative: digitalisation -->
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| Communications Equipment Vendor Class Licence guidelines | Did not exist | [Licence conditions for the category gazetted by the Communications Authority under the Kenya Information and Communications Act after public consultation, effective 30 days from the notice, and published for free download; the vendor rules carry a 12-month minimum warranty, returns, after-sales support and record-keeping duties](https://new.kenyalaw.org/akn/ke/officialGazette/2026-08-07/135/eng@2026-08-07/source.pdf) | Advanced |
-| Foundational digital-health governance documents | Did not exist | [Four foundational digital-health documents launched by the health ministry, together establishing the architecture for governing, connecting and using health data that three decades of collection had left without a shared framework](https://kenyahmis.org/from-data-collection-to-data-use-kenyas-foundation-for-digital-health/) | Advanced |
-| National FHIR implementation guides | Did not exist | [Two health-interoperability implementation guides published by the digital health agency — a core guide at version 1.0.0 and a patient summary guide at version 0.1.0 — both served as continuous builds rather than authorised publications](https://build.fhir.org/ig/IntelliSOFT-Consulting/Kenya-core-FHIR-IG/) | Advanced |
-| ODPC quality management system | Did not exist | [Quality management system launched with World Bank support, with the external certification audit still to come](https://www.standardmedia.co.ke/sci-tech/article/2001553485/data-protection-office-bets-on-global-quality-standards-amid-rising-cyber-threats) | Advanced |
-| Public Communications Access Centre licence | Did not exist | [A licence category created under the revised telecommunications market structure, its conditions gazetted by the Communications Authority after public consultation, effective 30 days from the notice and published for free download on the regulator’s site](https://new.kenyalaw.org/akn/ke/officialGazette/2026-08-07/135/eng@2026-08-07/source.pdf) | Advanced |
-| ODPC draft guidance notes on biometric and children's data | Issued in draft, with mandatory registration of biometric processors and risk-based age assurance | [Still in draft as far as the base establishes](https://www.biometricupdate.com/202505/kenya-releases-draft-guidance-on-biometrics-age-assurance) | No change |
-| County own-source revenue automation standards | ***Baseline not held*** | [Binding standards gazetted for county own-source revenue automation, covering the system lifecycle from procurement through audit and requiring data ownership and portability safeguards to reduce vendor lock-in](https://cra.go.ke/2026/08/14/cra-gazettes-standards-and-guidelines-for-county-own-source-revenue-automation/) | ***Baseline not held*** |
-| Digital pharmacy services guidelines | ***Baseline not held*** | [Second revision of the regulator's guideline in draft, widening the scope of regulation from internet pharmacy services to digital pharmacy services generally - electronic prescription generation, transmission, validation and management, online dispensing, telepharmacy and digital consultation, and digital self-care support - and reaching licensed premises, online providers, telepharmacy providers, digital health platforms, pharmacy chains and third-party technology, hosting, payment and logistics providers; the text carries a 2026 effective date and a 2029 review date, and its approval blocks are unsigned](https://web.pharmacyboardkenya.org/download/draft-guidelines-for-digital-pharmacy-services-in-kenya/?wpdmdl=14068) | ***Baseline not held*** |
-| EU Global Gateway ICT standards engagement | ***Baseline not held*** | [Cooperation reaffirmed across AI, cybersecurity, digital identity, interoperability and digital governance](https://techafricanews.com/2026/07/27/kenya-and-eu-strengthen-digital-standards-partnership-to-support-digital-superhighway/) | ***Baseline not held*** |
-
-### Data protection
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| Communications Authority escalated consumer complaints | 362 complaints in October to December 2025 | [670 escalated complaints in April to June 2026, up from 563 in the prior quarter, with 548 or 82% resolved; data services drew 195 complaints against 44 for voice, data billing and charges was the largest single category at 75, and the Authority separately logged 19 data-breach complaints](https://techcabal.com/2026/08/06/data-billing-and-fraud-top-kenyas-telecom-consumer-complaints/) | Regressed |
-| Constitutional Petition E095 of 2026 | Did not exist | [Decided, awarding 11 petitioners KES 900,000 each for a sustained and systematic compromise of subscriber data](https://www.the-star.co.ke/news/2026-08-03-gra-probes-licensed-betting-firms-over-alleged-data-breach-claims) | Advanced |
-| Gambling regulator investigation into three licensed operators | Did not exist | [Open, with the criminal investigations directorate requesting the regulator's entire record on the licensees back to 2018](https://www.the-star.co.ke/news/2026-08-03-gra-probes-licensed-betting-firms-over-alleged-data-breach-claims) | Advanced |
-| ODPC Data Protection Services appropriation | No separately visible appropriation | [KSh 917.3m appropriated in the original estimates, projected to KSh 1,328m by 2028/29](https://www.treasury.go.ke/sites/default/files/Budget%20Books/Budget%20books%202026-2027/FY%202026%202027%20Programme%20Based%20Budget%20Book.pdf) | Advanced |
-| ODPC Guidance Note on Artificial Intelligence | Did not exist | [36-page draft reading Part VI of the Data Protection Act onto AI, requiring a lawful transfer basis and a documented adequacy assessment before any transfer to an offshore AI processor, registration with the Office of every entity deploying AI on Kenyan data subjects' data, a data protection impact assessment before any high-risk deployment, and obligations mapped across a seven-stage AI lifecycle that applies to procured systems as to built ones](https://www.odpc.go.ke/wp-content/uploads/2026/07/AI-Guidance-Note.July-2026.pdf) | Advanced |
-| ODPC Guidance Note on Emerging Technologies | Did not exist | [31-page draft covering the internet of things, cloud, blockchain, biometric recognition classified as one-to-one, one-to-many and many-to-many, extended reality and connected vehicles](https://www.odpc.go.ke/wp-content/uploads/2026/07/Emerging-Tech-Guidance-Note.-July-2026.pdf) | Advanced |
-| ODPC Guidance Note on Privacy-Enhancing Technologies | Did not exist | [38-page draft reading adoption of privacy-enhancing technologies as a statutory obligation under privacy by design](https://www.odpc.go.ke/wp-content/uploads/2026/07/PET-Guidance-Note.-July-2026.pdf) | Advanced |
-| Petition on asset-financier borrower data and vehicle tracking | Did not exist | [A riders' and owners' association petition, committed by the Speaker to the Public Petitions Committee, alleging that an asset financier breaches data-protection law in its collection, processing, storage and sharing of borrowers' personal data and in the tracking devices fitted to financed motorcycles](https://parliament.go.ke/sites/default/files/2026-08/The%20Hansard%20-%20Tuesday%2C%2018%20August%202026.pdf) | Advanced |
-| US-Kenya Health Cooperation Framework | Did not exist | [Signed 2025-12-04 for a five-year term, with US$1,631,470,000 of planned United States support across FY2026-FY2030 including US$175,000,000 for health data systems; frozen by injunction that month, the suspension of the data-transfer component reversed on appeal in May 2026, and a final ruling reported due at end-October 2026. The framework's US$2.5bn headline value, used in press and litigation coverage, is this same US$1,631,470,000 of planned US support plus Kenya's own pledged increase in domestic health expenditure (Framework paragraph 6.1.2, approximately US$850m to FY2029/30 per the US Department of State's own announcement of the signing) — not a competing figure](https://www.citizen.org/wp-content/uploads/2026-0007QN-Kenya-Health-12.4.2025.pdf) | Advanced |
-| Data Protection Act 2019 | In force, with the Office of the Data Protection Commissioner as statutory regulator | [In force, with the regulator now stretching its cross-border-transfer duties to reach offshore AI processing](https://www.businessdailyafrica.com/bd/corporate/technology/regulator-plans-tighter-data-shields-on-offshore-ai-platforms-5546966) | No change |
-| ODPC enforcement caseload and penalties | 7,128 complaints received and 215 determinations issued as of March 2025 | [Same statement; no later caseload, determination count or penalty total published](https://www.odpc.go.ke/wp-content/uploads/2025/04/ODPC-Data-Bulletin-12th-Edition.pdf) | No change, no later figure published |
-| ODPC five-year privacy plan | Launched at KES 12.6bn over five years | [Launched, with no spend, milestone or progress statement on file since](https://www.standardmedia.co.ke/central/article/2001523499/data-protection-office-launches-sh126-billion-privacy-plan) | No change |
-| Sector guidance on personal data in the electoral process | In force, setting out how the electoral commission, the registrar of political parties, political parties and governance organisations may process personal data for electoral purposes under the Data Protection Act 2019 | [In force, binding every organisation that touches voter data from the electoral commission down to civil-society registration groups, with the commission's own processing anchored in statutory mandate rather than consent and political parties' obligations turning on how they obtained the data](https://www.odpc.go.ke/wp-content/uploads/2024/02/ODPC-Guidance-Notes-for-Electoral-Purposes.pdf) | No change |
-| Audit access under the health memorandum | ***Baseline not held*** | [A rights organisation's reading of the seven signed American health memoranda records all seven as requiring broad audit access, and places Kenya outside both the three committing to hand over any data without explicit privacy safeguards and the five whose text requires unilateral specimen and pathogen-sequencing sharing](https://www.hrw.org/news/2026/06/08/human-rights-assessment-of-the-2025-2026-us-bilateral-health-agreements) | ***Baseline not held*** |
-| Betting and gaming firms registered with the ODPC | ***Baseline not held*** | [15 of 224 fully registered as both controller and processor, with 185 unregistered and given 40 days or licence cancellation](https://nation.africa/kenya/news/register-or-face-shutdown-kabogo-to-betting-firms-with-children-s-data-5458126) | ***Baseline not held*** |
-| Cybercrime losses, regulator estimate | ***Baseline not held*** | [At least KSh 29bn a year](https://www.standardmedia.co.ke/sci-tech/article/2001553485/data-protection-office-bets-on-global-quality-standards-amid-rising-cyber-threats) | ***Baseline not held*** |
-
-### EU activities
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| European data-adequacy decision | ***Baseline not held*** | [Described in a development agency interview as a prospective decision; no application, assessment stage or timetable is stated](https://www.giz.de/en/newsroom/storys/interview-herken-kone-smart-africa-digital-sovereignty) | ***Baseline not held*** |
-
-### Open data
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| National data marketplace | Did not exist | [Proposed state-run marketplace, more than 1,000 datasets over five years, KSh 396m to build and operate, overseen by a proposed national council](https://nation.africa/kenya/business/state-plans-ecitizen-data-sale-to-boost-revenue--5488496) | Advanced |
-
-<!-- narrative: governance -->
-The clearest band change in this report is here. Virtual assets went from no statute at all to an Act commenced in November 2025, gazetted regulations in July 2026 with capital set by licence class, a seizure and freezing framework, and a hard compliance deadline of 4 November 2026. Artificial intelligence went from one strategy to four instruments — a 226-page draft policy, a Senate bill on a separate track, draft regulator guidance reaching offshore processing through transfer rules, and a costed-but-unfunded strategy — and not one of them is binding.
-
-Enforcement capacity became visible in the estimates for the first time: Data Protection Services received KSh 917.3m in the 2026/27 original estimates, where through 2025/26 the regulator had no separately visible line. What this base cannot yet show is what that capacity produced: the regulator's caseload bulletin and its statutory register of data handlers are both published and both unheld.
-
-The Data Protection Act itself was not amended. What accumulated on top of it is enforcement episodes, litigation and third-party analysis: a constitutional petition decided in May 2026 [awarding eleven petitioners KES 900,000 each for a sustained and systematic compromise of subscriber data](https://www.the-star.co.ke/news/2026-08-03-gra-probes-licensed-betting-firms-over-alleged-data-breach-claims), a 40-day registration ultimatum to 224 betting firms of which 15 were fully registered, and an investigation opened into three licensed operators. The one instrument that lost reach did so through the courts.
 <!-- /narrative -->
 
-## Artificial intelligence and the technology sector
+## Technology
 
 ### AI
 
@@ -325,28 +347,7 @@ The Data Protection Act itself was not amended. What accumulated on top of it is
 | Vumah Labs | ***Baseline not held*** | [Two named products, one for detecting falsified content and verifying digital media and one for consent management](https://www.wearetech.africa/fr/fils/tech-stars/chepkemoi-chepkwony-concoit-des-solutions-pour-securiser-lia-en-afrique) | ***Baseline not held*** |
 | Zerobionics | ***Baseline not held*** | [Kenyan-built humanoid robots rendering speech into sign language in real time, with recycled-plastic casing cutting costs by over 60% and delivery working over 2G](https://techcabal.com/2026/07/17/the-young-kenyan-engineer-who-thinks-robots-belong-in-every-classroom/) | ***Baseline not held*** |
 
-### US / hyperscaler activities
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| OpenAI Academy Nairobi | Did not exist | [Proposal for East Africa's first OpenAI Academy, unsigned](https://techafricanews.com/2026/06/18/kenya-eyes-first-openai-academy-in-east-africa-following-ruto-sam-altman-talks/) | Advanced |
-| Safaricom and AWS generative AI collaboration | Collaboration for fraud detection, customer-service automation and engineer upskilling | [Unchanged, with no expansion, spend figure or workload detail published since](https://itweb.africa/article/safaricom-selects-aws-for-genai-use-cases/KjlyrvwBVnbqk6am) | No change |
-
-### China activities
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| FiberHome network partnership | None published | [Student training under way and an East Africa research and development centre planned, framed by the ministry around all-optical networks and 6G readiness](https://www.itweb.africa/article/fiberhome-tour-targets-kenyan-6g/GxwQD71DP96vlPVo) | ***Baseline not held*** |
-| Kenya-China e-commerce cooperation memorandum | ***Baseline not held*** | [Cited as the basis for a delegation to the Silk Road e-commerce matching activity, framed inside the Digital Master Plan](https://techafricanews.com/2026/07/17/kenya-dispatches-18-ict-officers-to-china-to-advance-digital-trade-and-e-commerce-cooperation/) | ***Baseline not held*** |
-| Talks with a Chinese network group on broadband and smart cities | Baseline not held | [Two delegations received in eight days to explore broadband, smart cities and ICT investment; no memorandum, commitment, value or project is stated from either](https://itweb.africa/article/kenya-targets-chinese-telecoms-investment/nWJad7bNDY57bjO1) | ***Baseline not held*** |
-
-### India activities
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| Kenya-India-Italy sovereign AI partnership | Did not exist | [Targets 100 AI-deployment programmes by 2030 on multilingual low-bandwidth voice AI](https://www.ecofinagency.com/kenya-india-and-italy-launch-trilateral-sovereign-ai-partnership/) | Advanced |
-
-<!-- narrative: ai-tech -->
+<!-- narrative: technology -->
 At the window's opening this section had infrastructure and no state instrument: a [US$1bn data-centre announcement already known to be slipping](https://www.businessdailyafrica.com/bd/corporate/technology/kenya-microsoft-rift-on-sh129bn-data-hub-5457238), one sovereign-cloud product, a cloud region that was a two-year-old announcement, and no Kenyan artificial-intelligence policy, bill, guidance or costing of any kind.
 
 The regulatory layer filled in across the year, as set out above. The domestic sovereign-cloud layer also moved from a single vendor announcement to a working stack on one campus — a second platform launched in March 2026, a third in May, and a research lab announced the same month — while the cloud region selected its host but did not launch.
@@ -354,33 +355,7 @@ The regulatory layer filled in across the year, as set out above. The domestic s
 The patron layer accreted announcements without delivery. Four bilateral channels opened or were restated across the year, and none has a delivery, budget or date attached. Funding regressed sharply, from first in Africa on US$1.04bn in 2025 [to third on US$126m in the first half of 2026](https://techcabal.com/2026/07/27/african-venture-capital-is-backing-fewer-founders-than-ever/). And the labour underside entered the record in both directions in the same year: [1,108 redundancies in April when a moderation contract ended](https://itweb.africa/article/meta-contract-end-sparks-1-100-sama-job-cuts/), and a draft policy in July that would regulate that same workforce.
 <!-- /narrative -->
 
-## Inclusion and capacity
-
-### Digital divides
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| American-funded digital inclusion and connectivity programming | In delivery, including work in remote counties | [Planned and running work slowed or stopped after the 2025 wind-down, with no replacement funder named](https://www.developingtelecoms.com/telecom-business/humanitarian-communications/20670-usaids-exit-leaves-a-gap-in-the-drive-for-meaningful-connectivity.html) | Regressed |
-| KenSafeSpace | Running on a EUR 1.3m EU grant | [Closed after 30 months, reporting 18,000 reached directly, 9.4m through campaigns and 133 defenders trained, with a 49-member coalition continuing unfunded](https://www.kictanet.or.ke/kensafespace-project-impact-digital-rights-kenya/) | Closed |
-| Smartphone against feature-phone connections | 48.7m smartphone and 29.6m feature-phone connections, December 2025 | [50.2m smartphone connections, above 50m for the first time, with feature phones down to 28.5m](https://nation.africa/kenya/business/smartphones-hit-50m-basic-handsets-ditched-5502650) | Advanced |
-| Universal Service Fund Digital Skilling Project | None published | [A Universal Service Fund project targeting 120,000 people in 19 counties over three years in unserved and underserved areas, framed by the regulator as the skills half of a connectivity programme and tied to the National Digital Master Plan 2022-2032](https://techafricanews.com/2026/08/19/kenya-targets-120000-people-for-digital-skills-training-across-19-counties/) | Advanced |
-| Enhancing Digital Access and Community Resilience | GBP 2.3m committed, activities starting late 2025 | [GBP 2.3m across eight arid-lands counties including refugee-hosting Garissa and Turkana, with no completion report held](https://devtracker.fcdo.gov.uk/projects/GB-GOV-1-300139/summary) | No change |
-| Universal Service Fund | 20 sub-locations connected in FY2024/25 and 155 cumulatively, reaching about 508,012 people, with construction started at 32 of 47 planned centres of excellence | [Unchanged; no FY2025/26 account published](https://www.ca.go.ke/sites/default/files/2026-07/Annual%20Report%20FY%202024-2025.pdf) | No change |
-| EmpowerHer | ***Baseline not held*** | [Targets 15,000 women across three counties on a trainer-of-trainers model, with no value or reach-to-date disclosed](https://www.kictanet.or.ke/kictanet-engages-tana-river-county-leadership-to-advance-womens-digital-empowerment/) | ***Baseline not held*** |
-
-### Access to services
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| Starlink school connectivity with GrowX and CEMASTEA | Did not exist | [30 schools across 30 districts reaching more than 32,000 students and about 1,000 teachers, with financial terms undisclosed](https://spaceinafrica.com/2026/06/10/starlink-connects-30-kenyan-schools-across-30-districts-in-initiative-originated-by-grow-x-education-and-cemastea/) | Advanced |
-| EU Last Mile Connectivity of Schools | EUR 9.8m committed | [Commitment unchanged, with no outturn published](https://d-portal.org/ctrack.html#view=act&aid=XI-IATI-EC_INTPA-2023-PC-25192) | No change |
-| EU-UNICEF school connectivity | EUR 9.8m committed to connect 1,000 schools | [Commitment unchanged, with no disbursement or schools-connected update published](https://www.the-star.co.ke/siasa/2023-10-06-369400-children-to-benefit-from-unicef-eu-digital-connectivity-project) | No change |
-| UK Digital Access Programme, Kenya | GBP 4.77m committed | [Commitment unchanged, with no outturn published](https://devtracker.fcdo.gov.uk/projects/GB-1-204963/summary) | No change |
-| Adult formal financial inclusion | ***Baseline not held*** | [83.7% of adults, against 26.7% in 2006](https://itweb.africa/article/safaricom-posts-record-dividend-payout/lwrKxq3Y1mX7mg1o) | ***Baseline not held*** |
-| Centres of Excellence digital hubs, 100-hub county plan | Did not exist | [A government plan for 100 Centre of Excellence digital hubs across all 47 counties, the first broken ground at Kikuyu in Kiambu County on 2026-08-21; the completed facility is to house music and film production studios, digital skills centres, work hubs, eCitizen service points, offices, a server room and public Wi-Fi zones. No budget, timetable or site list is stated](https://techafricanews.com/2026/08/21/kenya-breaks-ground-for-kikuyu-digital-hub-under-100-hub-plan/) | ***Baseline not held*** |
-| Fuliza overdraft disbursement | ***Baseline not held*** | [Record KSh 1.4tn disbursed, with the repayment-to-disbursement ratio flat year on year](https://nation.africa/kenya/business/kenyans-fuliza-record-sh1-4-trillion-loans-for-food-rent-and-fees-5452126) | ***Baseline not held*** |
-| Hustler Fund | ***Baseline not held*** | [Sh90 billion disbursed to 28 million registered borrowers by July 2026, with Sh76 billion repaid, Sh13.7 billion outstanding, Sh7 billion saved by borrowers and 10 million repeat borrowers, against state funding down from KSh 20bn at launch to KSh 300m in the year to June 2026](https://www.the-star.co.ke/news/2026-08-18-ruto-at-4-hustler-fund-has-it-built-businesses-or-mainly-provided-credit) | ***Baseline not held*** |
-| Hustler Fund default rate | ***Baseline not held*** | [15% default, about KSh 12.5bn; the Auditor-General found 104,631 loans worth KSh 116.5m issued to borrowers with no identity details on file](https://www.the-star.co.ke/news/2026-07-23-borrowers-can-now-repay-hustler-fund-loans-using-bonga-points) | ***Baseline not held*** |
+## Capacity
 
 ### Literacy
 
@@ -402,6 +377,38 @@ The patron layer accreted announcements without delivery. Four bilateral channel
 | Jitume Digital Enablement Programme | ***Baseline not held*** | [117 hubs commissioned on the ceremony series and about 350 on the installed-base series](https://techafricanews.com/2026/07/20/kenya-launches-117th-jitume-digital-hub-to-expand-digital-access-in-baringo-county/) | ***Baseline not held*** |
 | Jitume training throughput | ***Baseline not held*** | [More than 140,000 young people trained and more than 41,000 linked to economic opportunity since 2023](https://www.radio47.fm/news/technopolis-launches-ol-kalou-jitume-digital-hub-graduates-106-youths-33109/) | ***Baseline not held*** |
 
+<!-- narrative: capacity -->
+
+<!-- /narrative -->
+
+## Inclusion
+
+### Access to services
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| Starlink school connectivity with GrowX and CEMASTEA | Did not exist | [30 schools across 30 districts reaching more than 32,000 students and about 1,000 teachers, with financial terms undisclosed](https://spaceinafrica.com/2026/06/10/starlink-connects-30-kenyan-schools-across-30-districts-in-initiative-originated-by-grow-x-education-and-cemastea/) | Advanced |
+| EU Last Mile Connectivity of Schools | EUR 9.8m committed | [Commitment unchanged, with no outturn published](https://d-portal.org/ctrack.html#view=act&aid=XI-IATI-EC_INTPA-2023-PC-25192) | No change |
+| EU-UNICEF school connectivity | EUR 9.8m committed to connect 1,000 schools | [Commitment unchanged, with no disbursement or schools-connected update published](https://www.the-star.co.ke/siasa/2023-10-06-369400-children-to-benefit-from-unicef-eu-digital-connectivity-project) | No change |
+| UK Digital Access Programme, Kenya | GBP 4.77m committed | [Commitment unchanged, with no outturn published](https://devtracker.fcdo.gov.uk/projects/GB-1-204963/summary) | No change |
+| Adult formal financial inclusion | ***Baseline not held*** | [83.7% of adults, against 26.7% in 2006](https://itweb.africa/article/safaricom-posts-record-dividend-payout/lwrKxq3Y1mX7mg1o) | ***Baseline not held*** |
+| Centres of Excellence digital hubs, 100-hub county plan | Did not exist | [A government plan for 100 Centre of Excellence digital hubs across all 47 counties, the first broken ground at Kikuyu in Kiambu County on 2026-08-21; the completed facility is to house music and film production studios, digital skills centres, work hubs, eCitizen service points, offices, a server room and public Wi-Fi zones. No budget, timetable or site list is stated](https://techafricanews.com/2026/08/21/kenya-breaks-ground-for-kikuyu-digital-hub-under-100-hub-plan/) | ***Baseline not held*** |
+| Fuliza overdraft disbursement | ***Baseline not held*** | [Record KSh 1.4tn disbursed, with the repayment-to-disbursement ratio flat year on year](https://nation.africa/kenya/business/kenyans-fuliza-record-sh1-4-trillion-loans-for-food-rent-and-fees-5452126) | ***Baseline not held*** |
+| Hustler Fund | ***Baseline not held*** | [Sh90 billion disbursed to 28 million registered borrowers by July 2026, with Sh76 billion repaid, Sh13.7 billion outstanding, Sh7 billion saved by borrowers and 10 million repeat borrowers, against state funding down from KSh 20bn at launch to KSh 300m in the year to June 2026](https://www.the-star.co.ke/news/2026-08-18-ruto-at-4-hustler-fund-has-it-built-businesses-or-mainly-provided-credit) | ***Baseline not held*** |
+| Hustler Fund default rate | ***Baseline not held*** | [15% default, about KSh 12.5bn; the Auditor-General found 104,631 loans worth KSh 116.5m issued to borrowers with no identity details on file](https://www.the-star.co.ke/news/2026-07-23-borrowers-can-now-repay-hustler-fund-loans-using-bonga-points) | ***Baseline not held*** |
+
+### Digital divides
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| American-funded digital inclusion and connectivity programming | In delivery, including work in remote counties | [Planned and running work slowed or stopped after the 2025 wind-down, with no replacement funder named](https://www.developingtelecoms.com/telecom-business/humanitarian-communications/20670-usaids-exit-leaves-a-gap-in-the-drive-for-meaningful-connectivity.html) | Regressed |
+| KenSafeSpace | Running on a EUR 1.3m EU grant | [Closed after 30 months, reporting 18,000 reached directly, 9.4m through campaigns and 133 defenders trained, with a 49-member coalition continuing unfunded](https://www.kictanet.or.ke/kensafespace-project-impact-digital-rights-kenya/) | Closed |
+| Smartphone against feature-phone connections | 48.7m smartphone and 29.6m feature-phone connections, December 2025 | [50.2m smartphone connections, above 50m for the first time, with feature phones down to 28.5m](https://nation.africa/kenya/business/smartphones-hit-50m-basic-handsets-ditched-5502650) | Advanced |
+| Universal Service Fund Digital Skilling Project | None published | [A Universal Service Fund project targeting 120,000 people in 19 counties over three years in unserved and underserved areas, framed by the regulator as the skills half of a connectivity programme and tied to the National Digital Master Plan 2022-2032](https://techafricanews.com/2026/08/19/kenya-targets-120000-people-for-digital-skills-training-across-19-counties/) | Advanced |
+| Enhancing Digital Access and Community Resilience | GBP 2.3m committed, activities starting late 2025 | [GBP 2.3m across eight arid-lands counties including refugee-hosting Garissa and Turkana, with no completion report held](https://devtracker.fcdo.gov.uk/projects/GB-GOV-1-300139/summary) | No change |
+| Universal Service Fund | 20 sub-locations connected in FY2024/25 and 155 cumulatively, reaching about 508,012 people, with construction started at 32 of 47 planned centres of excellence | [Unchanged; no FY2025/26 account published](https://www.ca.go.ke/sites/default/files/2026-07/Annual%20Report%20FY%202024-2025.pdf) | No change |
+| EmpowerHer | ***Baseline not held*** | [Targets 15,000 women across three counties on a trainer-of-trainers model, with no value or reach-to-date disclosed](https://www.kictanet.or.ke/kictanet-engages-tana-river-county-leadership-to-advance-womens-digital-empowerment/) | ***Baseline not held*** |
+
 <!-- narrative: inclusion -->
 One programme closed and one opened. The digital-rights coalition ended in July 2026 after 30 months; a successor training programme began the same day. An arid-lands access programme passed its scheduled March 2026 completion with no completion report on file.
 
@@ -410,41 +417,56 @@ Six donor instruments held position all year at their original commitment values
 The measured positions moved modestly and in one direction. Smartphone connections passed 50 million in March 2026 from 48.7 million in December 2025, with feature phones falling to 28.5 million. The flagship lending fund's repayment is now accepted in a privately issued loyalty currency at a rate the issuer sets.
 <!-- /narrative -->
 
-## Finance
+## Data
 
-### New investments
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| Atlas Tower Kenya debt facility (ATK Debt II) | Did not exist | [US$25m IFC debt inside a US$30m multi-currency debt package financing new macro towers and expanded mobile network capacity](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=XM-DAC-903-SII-52548) | Advanced |
-| EBRD-Axian Telecom (Yas) senior loan financing, Kenya tranche | Did not exist | [EUR270m total facility across 21 obligors in 8 jurisdictions; committed facility up to EUR170m includes a local-currency tranche of up to EUR20m equivalent in Kenyan shillings funding fibre-infrastructure modernisation in Kenya, plus an uncommitted EUR100m facility for future acquisitions and capex across EBRD's sub-Saharan African countries of operation](https://www.whitecase.com/news/press-release/white-case-advises-european-bank-reconstruction-and-development-landmark-eur270) | Advanced |
-| IFC Catalytic First Loss Guarantee transactions | Did not exist | [US$24.2m committed across three Kenyan lenders with US$11m of IDA Private Sector Window backing, expected to catalyse about US$144.4m in local-currency lending to micro-enterprises](https://www.ifc.org/en/pressroom/2026/ifc-supports-expansion-of-financing-for-kenya-s-small-businesses-through-the-first) | Advanced |
-| Kenya Digital Economy Acceleration Project | KSh 3.7bn in the FY2025/26 estimates on a US$390m commitment | [KSh 4.3bn appropriated for FY2026/27, half the entire digital thematic, equipping more than 10,000 junior secondary schools](https://www.businessdailyafrica.com/bd/economy/ict-allocation-drops-to-sh8-6-billion-in-budget-5493262) | Advanced |
-| Kenya Digital Economy Acceleration Project disbursement | ***Baseline not held*** | [US$33.93m disbursed of US$390m committed, in year three of an operation closing October 2028](https://projects.worldbank.org/en/projects-operations/project-detail/P170941) | ***Baseline not held*** |
-| Kenya investment plan of a Chinese digital-infrastructure group | Did not exist | [About KSh38.8 billion (US$300 million) stated as planned investment in telecommunications towers, smart cities, data centres, fibre-optic networks, cloud infrastructure and green digital technologies, described as supporting the Digital Superhighway programme. No agreement, timetable, site or financing instrument is stated](https://www.ecofinagency.com/news/2108-58239-china-s-guodong-plans-300-million-digital-infrastructure-investment-in-kenya) | ***Baseline not held*** |
-| MSME lending guarantee facility | ***Baseline not held*** | [A catalytic first-loss guarantee of US$24.2m across three Kenyan transactions, backed by US$11m of concessional private-sector-window financing, expected to catalyse about US$144.4m of local-currency lending to small and medium enterprises](https://www.4g-capital.com/post/4g-capital-partners-with-ifc-to-expand-financing-for-kenya-s-micro-and-small-businesses) | ***Baseline not held*** |
-
-### MoUs and other agreements
+### National statistics
 
 | System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
-| EU-Kenya Digital Partnership | ***Baseline not held*** | [KSh 15.3bn committed, including EUR 37m to the Blue Raman submarine cable](https://techafricanews.com/2026/06/09/kenya-secures-ksh-15-3-billion-eu-boost-to-accelerate-digital-transformation/) | ***Baseline not held*** |
-| Judiciary people-centred justice partnership | ***Baseline not held*** | [A memorandum signed between the judiciary and a Netherlands justice-innovation institute, with an intergovernmental development-law organisation and the Netherlands embassy participating, building on the country's access-to-justice blueprint](https://www.hiil.org/news/hiil-and-kenyas-judiciary-formalise-partnership/) | ***Baseline not held*** |
+| KNBS digital-indicator release | Economic Survey 2025, ICT chapter running to 2024 | [Unchanged; the ICT chapter puts mobile subscriptions at 71.4m and 136.1 per 100 inhabitants in 2024, fixed and wireless internet subscriptions at 57.8m and mobile-money subscriptions at 42.3m, and no 2026 edition or Statistical Abstract is held](https://www.knbs.or.ke/wp-content/uploads/2025/05/2025-Economic-Survey.pdf) | No change |
+| Safaricom and KNBS mobile-data partnership | ***Baseline not held*** | [Collaboration to explore anonymised aggregated mobile data for population, mobility and socio-economic insight, with no scope, governance terms or start date](https://techafricanews.com/2026/06/08/safaricom-and-knbs-partner-to-harness-mobile-data-for-national-planning/) | ***Baseline not held*** |
 
-### Domestic budget appropriations and expenditure
+### Open data
 
 | System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
-| Digital economy and creative industry thematic allocation | KSh 12.7bn for FY2025/26 | [KSh 8.6bn for FY2026/27, a second consecutive cut from KSh 16.3bn in FY2024/25](https://www.businessdailyafrica.com/bd/economy/ict-allocation-drops-to-sh8-6-billion-in-budget-5493262) | Regressed |
-| Vote 1122, State Department for ICT and the Digital Economy | KSh 16,188.8m appropriated for FY2025/26 | [KSh 12,763.8m appropriated for FY2026/27, with FY2025/26 itself revised down to KSh 12,215.1m at the first supplementary](https://www.treasury.go.ke/sites/default/files/Budget%20Books/Budget%20books%202026-2027/FY%202026%202027%20Programme%20Based%20Budget%20Book.pdf) | Regressed |
-| Digital hubs establishment appropriation | ***Baseline not held*** | [KSh 400m appropriated for establishing digital hubs](https://www.businessdailyafrica.com/bd/economy/ict-allocation-drops-to-sh8-6-billion-in-budget-5493262) | ***Baseline not held*** |
-| FY2027/28 budget process | ***Baseline not held*** | [Digital Superhighway named a priority sector, with no ceiling, figure or timetable published](https://techafricanews.com/2026/07/24/kenya-launches-fy2027-28-budget-process-with-focus-on-digital-economy-and-growth/) | ***Baseline not held*** |
-| Last-mile county connectivity maintenance appropriation | ***Baseline not held*** | [KSh 528m appropriated for maintenance and rehabilitation](https://www.businessdailyafrica.com/bd/economy/ict-allocation-drops-to-sh8-6-billion-in-budget-5493262) | ***Baseline not held*** |
+| National data marketplace | Did not exist | [Proposed state-run marketplace, more than 1,000 datasets over five years, KSh 396m to build and operate, overseen by a proposed national council](https://nation.africa/kenya/business/state-plans-ecitizen-data-sale-to-boost-revenue--5488496) | Advanced |
 
-<!-- narrative: finance -->
-State financing fell while the externally financed share rose. The digital thematic allocation went KSh 16.3bn, KSh 12.7bn, KSh 8.6bn across three years, and the World Bank acceleration project rose to KSh 4.3bn — half the entire thematic — [having disbursed US$33.93m of a US$390m commitment by June 2026](https://projects.worldbank.org/en/projects-operations/project-detail/P170941). The department's own vote fell from KSh 16,188.8m appropriated for 2025/26 [to KSh 12,763.8m for 2026/27, with the intervening year revised down to KSh 12,215.1m](https://www.treasury.go.ke/sites/default/files/Budget%20Books/Budget%20books%202026-2027/FY%202026%202027%20Programme%20Based%20Budget%20Book.pdf).
+<!-- narrative: data -->
 
-State funding for the flagship lending fund fell from KSh 20bn at launch to KSh 300m in the year to June 2026.
+<!-- /narrative -->
+
+## Geopolitics
+
+### US / hyperscaler activities
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| OpenAI Academy Nairobi | Did not exist | [Proposal for East Africa's first OpenAI Academy, unsigned](https://techafricanews.com/2026/06/18/kenya-eyes-first-openai-academy-in-east-africa-following-ruto-sam-altman-talks/) | Advanced |
+| Safaricom and AWS generative AI collaboration | Collaboration for fraud detection, customer-service automation and engineer upskilling | [Unchanged, with no expansion, spend figure or workload detail published since](https://itweb.africa/article/safaricom-selects-aws-for-genai-use-cases/KjlyrvwBVnbqk6am) | No change |
+
+### China activities
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| FiberHome network partnership | None published | [Student training under way and an East Africa research and development centre planned, framed by the ministry around all-optical networks and 6G readiness](https://www.itweb.africa/article/fiberhome-tour-targets-kenyan-6g/GxwQD71DP96vlPVo) | ***Baseline not held*** |
+| Kenya-China e-commerce cooperation memorandum | ***Baseline not held*** | [Cited as the basis for a delegation to the Silk Road e-commerce matching activity, framed inside the Digital Master Plan](https://techafricanews.com/2026/07/17/kenya-dispatches-18-ict-officers-to-china-to-advance-digital-trade-and-e-commerce-cooperation/) | ***Baseline not held*** |
+| Talks with a Chinese network group on broadband and smart cities | Baseline not held | [Two delegations received in eight days to explore broadband, smart cities and ICT investment; no memorandum, commitment, value or project is stated from either](https://itweb.africa/article/kenya-targets-chinese-telecoms-investment/nWJad7bNDY57bjO1) | ***Baseline not held*** |
+
+### EU activities
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| European data-adequacy decision | ***Baseline not held*** | [Described in a development agency interview as a prospective decision; no application, assessment stage or timetable is stated](https://www.giz.de/en/newsroom/storys/interview-herken-kone-smart-africa-digital-sovereignty) | ***Baseline not held*** |
+
+### India activities
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| Kenya-India-Italy sovereign AI partnership | Did not exist | [Targets 100 AI-deployment programmes by 2030 on multilingual low-bandwidth voice AI](https://www.ecofinagency.com/kenya-india-and-italy-launch-trilateral-sovereign-ai-partnership/) | Advanced |
+
+<!-- narrative: geopolitics -->
+
 <!-- /narrative -->
 
 ## Where the record is thin

@@ -1,16 +1,16 @@
 ---
-title: Lesotho — monthly update, July 2026
-compiled: 2026-08-23
-period: 2026-07-01 to 2026-08-23
+title: Lesotho — monthly update, July – August 2026
+compiled: 2026-08-25
+period: 2026-07-01 to 2026-08-25
 place: LSO
 ledger_rows: 22
 not_held: 2
-record: 2b954e37fec6
+record: d58012a1e626
 ---
 
-# Lesotho: monthly update, July 2026
+# Lesotho: monthly update, July – August 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-23 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments summarised from sources published between the beginning of last month and today.*
 
 ## Summary of the month
 
@@ -20,22 +20,48 @@ Two things were approved and four institutions were stood up. Project Kobong was
 On the payments side, [Tsetela](https://lestimes.com/?p=91054) opened wallet-based investment on 22 July, and Econet Telecom Lesotho and UNDP [signed a memorandum on 28 July](https://lestimes.com/?p=91121) that names a National AI Academy. Drafting of a National Data Value Creation Blueprint [opened at a consultative workshop on 14–15 July](https://www.gov.ls/ict/lesotho-is-taking-a-leading-role-in-advancing-digital-transformation-to-enable-artificial-intelligence-applications-accessible-for-citizens/), and in the window's closing week a [six-ministry workshop in Maseru began drafting a national data-centre implementation roadmap](https://www.linkedin.com/posts/unodet_digitalcooperation-aigovernance-digitalcooperationday-activity-7494029420907724800-XWiB) with UN and World Bank support.
 <!-- /narrative -->
 
-## Infrastructure
+## Governance
+
+### Strategies, plans and policies
+
+<!-- narrative: governance--gov-policy -->
+The month's policy work is a strategy being drafted rather than one adopted. A [National AI Strategy is being written at the same five-day Maseru workshop as the data-centre blueprint, opened on 17 August by the communications ministry with the United Nations in Lesotho](https://techafricanews.com/2026/08/18/lesotho-begins-work-on-national-ai-strategy-and-data-centre-blueprint/), and is distinct from the National AI Policy signed in June. The deputy prime minister's keynote asked for Lesotho's existing capabilities, safeguards, infrastructure, policy and human capacity to be settled before AI investment is scaled. No publication date, custodian, scope or cost is stated, and nothing beyond the workshop is on the record.
+<!-- /narrative -->
+### Legislation and regulation
+
+<!-- narrative: governance--gov-legislate -->
+No instrument was made, gazetted or brought into force in this window. [Reporting of the CSIRT launch](https://itweb.africa/article/lesotho-steps-up-national-cyber-security/Pero3qZ3J4jvQb6m) discloses that the Computer Crime and Cybersecurity Bill has been split into a Cybercrime Bill and a Cybersecurity Bill, both awaiting National Assembly approval, and the ministerial reference to a national cybersecurity strategy that the wiki does not hold.
+<!-- /narrative -->
+### Public debate and participation in policymaking
+
+<!-- narrative: governance--gov-discourse -->
+The state opened a channel for hearing what its digital services are actually like to use: a [public survey opened on 9 August covering access, usability, trust and skills gaps across online applications, digital payments and health and education platforms](https://selibeng.com/invitation-to-participate-in-the-public-digital-services-experience-survey/), run with the United Nations development programme as part of a digital readiness assessment. No closing date, sample target or commitment to publish the results is stated, so what it will settle is not yet knowable.
+<!-- /narrative -->
+
+## Finance
+
+### MoUs and other agreements
+
+<!-- narrative: finance--finance-mou -->
+The development-partner support named at the Blueprint workshop carries no amount; no appropriation, disbursement or training figure was published in the window.
+<!-- /narrative -->
+
+## ICT Infrastructure
 
 ### Data Storage
 
-<!-- narrative: infrastructure--infra-store -->
+<!-- narrative: ict-infrastructure--infra-store -->
 The Kobong Project was approved and launched on 31 July 2026 at a ceremony hosted by the US Embassy in Maseru, attended by the ministers of energy and mining, of information and communications, and of environment and forestry. [Convalt Energy's chief executive stated capital investment of about US$6.2 billion](https://lesothotribune.co.ls/lesotho-signs-m98-billion-deal-for-1200mw-hydropower-plant-and-ai-data-centre-in-mokhotlong/); the government figure for the project was restated as M100 billion against the M98 billion [announced with the binding agreement of 4 June](https://lesothotribune.co.ls/lesotho-signs-m98-billion-deal-for-1200mw-hydropower-plant-and-ai-data-centre-in-mokhotlong/), with the dollar figure unchanged. The US Chargé d'Affaires described the investment as trade over aid. Construction remains targeted for 2029 and the agreement remains conditional on feasibility, financing, permitting and definitive agreements.
 
 Separately, and with no stated relationship to Kobong, the state began drafting a data-centre policy of its own. A [five-day, six-ministry workshop ran in Maseru from 17 to 21 August toward a draft data-centre implementation roadmap](https://www.linkedin.com/posts/unodet_digitalcooperation-aigovernance-digitalcooperationday-activity-7494029420907724800-XWiB), coordinated by the UN Office for Digital and Emerging Technologies with the Resident Coordinator's Office and joined by UNESCO, the ITU, UNICEF, the OECD, the World Bank Group and UNDP. It covers data governance, skills, compute, energy, cooling, financing and implementation choices, and builds on the artificial-intelligence, data-management and broadband policies the government validated in draft in January 2025. The workshop [opened on 17 August with the deputy prime minister's keynote, drafting a National AI Strategy alongside the blueprint](https://techafricanews.com/2026/08/18/lesotho-begins-work-on-national-ai-strategy-and-data-centre-blueprint/).
 <!-- /narrative -->
 ### Cybersecurity
 
-<!-- narrative: infrastructure--infra-cybersec -->
+<!-- narrative: ict-infrastructure--infra-cybersec -->
 The [interim Lesotho National Computer Security Incident Response Team](https://www.gov.ls/ict/ministry-of-information-communications-science-technology-and-innovation-launched-lescomcsirt-and-inaugural-national-cybersecurity-forum/) and the inaugural National Cybersecurity Forum were launched in Maseru on 29 July 2026. The forum is described by the Lesotho Communications Authority as a standing collaboration across government, industry, regulators, financial institutions and telecommunications providers. The response team is thus operating ahead of its enabling statute — the Cybercrime and Cybersecurity Bills it would sit under remain before the National Assembly — and on no published timetable. The ministry also reported a first Chief Information Security Officer appointed across government and a national Security Operations Centre being stood up.
 <!-- /narrative -->
 
-## Digital public infrastructure
+## DPI
 
 ### Digital Payments and Fintech
 
@@ -44,7 +70,7 @@ Vodacom Financial Services and STANLIB Lesotho launched [Tsetela](https://lestim
 
 Standard Bank's [extension of CIPS renminbi settlement](https://techafricanews.com/2026/07/27/standard-bank-surpasses-cny-8-billion-in-china-cross-border-payment-transactions/) beyond South Africa, reported on 27 July, names Lesotho as one of five added markets.
 <!-- /narrative -->
-### Sectoral management information systems (HMIS, EMIS, etc.)
+### Sectoral management information systems
 
 <!-- narrative: dpi--dpi-mis -->
 UNICEF and the Global Partnership for Education [announced support on 23 July](https://techafricanews.com/2026/07/23/unicef-and-gpe-launch-learning-data-dashboard-to-improve-education-in-lesotho/) for a Foundational Literacy and Numeracy Dashboard consolidating Grades 1–3 performance, with tablets for principals in 300 project schools and solar power in 25 cluster learning spaces.
@@ -57,29 +83,11 @@ MICSTI hosted the [first national stakeholder consultative workshop on a Nationa
 At the CSIRT launch the ministry also stated a plan to move ICT services out of the civil service into a separate agency, for which no enabling instrument or date was given.
 <!-- /narrative -->
 
-## Governance and regulation
-
-### Legislation and regulation
-
-<!-- narrative: governance--gov-legislate -->
-No instrument was made, gazetted or brought into force in this window. [Reporting of the CSIRT launch](https://itweb.africa/article/lesotho-steps-up-national-cyber-security/Pero3qZ3J4jvQb6m) discloses that the Computer Crime and Cybersecurity Bill has been split into a Cybercrime Bill and a Cybersecurity Bill, both awaiting National Assembly approval, and the ministerial reference to a national cybersecurity strategy that the wiki does not hold.
-<!-- /narrative -->
-### Strategies, plans and policies
-
-<!-- narrative: governance--gov-policy -->
-The month's policy work is a strategy being drafted rather than one adopted. A [National AI Strategy is being written at the same five-day Maseru workshop as the data-centre blueprint, opened on 17 August by the communications ministry with the United Nations in Lesotho](https://techafricanews.com/2026/08/18/lesotho-begins-work-on-national-ai-strategy-and-data-centre-blueprint/), and is distinct from the National AI Policy signed in June. The deputy prime minister's keynote asked for Lesotho's existing capabilities, safeguards, infrastructure, policy and human capacity to be settled before AI investment is scaled. No publication date, custodian, scope or cost is stated, and nothing beyond the workshop is on the record.
-<!-- /narrative -->
-### Public debate and participation in policymaking
-
-<!-- narrative: governance--gov-discourse -->
-The state opened a channel for hearing what its digital services are actually like to use: a [public survey opened on 9 August covering access, usability, trust and skills gaps across online applications, digital payments and health and education platforms](https://selibeng.com/invitation-to-participate-in-the-public-digital-services-experience-survey/), run with the United Nations development programme as part of a digital readiness assessment. No closing date, sample target or commitment to publish the results is stated, so what it will settle is not yet knowable.
-<!-- /narrative -->
-
-## Artificial intelligence and the technology sector
+## Technology
 
 ### AI
 
-<!-- narrative: ai-tech--tech-ai -->
+<!-- narrative: technology--tech-ai -->
 The same Econet-UNDP memorandum establishes a National AI Academy, with nothing naming a timetable, governance structure, curriculum or host institution for it. Econet Group separately states an agreement with NVIDIA for African AI compute capacity; nothing on file corroborates it and no capacity figure or siting is given.
 
 At the UN Global Dialogue on AI Governance in Geneva, MICSTI Principal Secretary Kanono Ramashamole [argued that developing nations must be co-creators rather than only consumers of AI](https://itweb.africa/article/lesotho-pushes-for-equitable-ai-future/VgZeyqJlW957djX9), naming fragmented data and weak governance as obstacles.
@@ -88,32 +96,30 @@ A [CIPIT paper published on 1 July](https://cipit.strathmore.edu/wp-content/uplo
 <!-- /narrative -->
 ### Innovation ecosystem
 
-<!-- narrative: ai-tech--tech-innovate -->
+<!-- narrative: technology--tech-innovate -->
 Econet Telecom Lesotho and UNDP [signed a memorandum of understanding](https://lestimes.com/?p=91121) at the Mpilo Boutique Hotel on Tuesday 28 July 2026, signed by ETL chief executive Dennis Plaatjies and UNDP deputy resident representative Dr Taye Amssalu, renewing a partnership first signed in 2020 and amended in 2022. It runs across digital transformation, connectivity and AI; innovation and skills, including a University Innovation Pod; and MSME digital entrepreneurship. No amount, term or deliverable is stated in any account held.
 <!-- /narrative -->
-### US / hyperscaler activities
 
-<!-- narrative: ai-tech--geopol-usa -->
-The [US Embassy stated](https://techafricanews.com/2026/08/03/lesotho-approves-us6-2-billion-kobong-hydropower-and-ai-data-centre-project/) at the Kobong ceremony that it has facilitated US$7.3bn of commercial partnerships in Lesotho over the previous eighteen months.
+## Capacity
+
+### Training and skills
+
+<!-- narrative: capacity--capacity-training -->
+MICSTI reported [digital-literacy training running across all ten districts](https://www.gov.ls/ict/ministry-of-information-communications-science-technology-and-innovation-launched-lescomcsirt-and-inaugural-national-cybersecurity-forum/) at the CSIRT launch on 29 July, with no participant numbers published.
 <!-- /narrative -->
 
-## Inclusion and capacity
+## Inclusion
 
 ### Access to services
 
 <!-- narrative: inclusion--include-access -->
 At Geneva on 9 July the ministry gave its own measure of the access problem — [100% broadband coverage against about 50% regular internet use](https://itweb.africa/article/lesotho-pushes-for-equitable-ai-future/VgZeyqJlW957djX9), which it attributed to affordability.
 <!-- /narrative -->
-### Training and skills
 
-<!-- narrative: inclusion--capacity-training -->
-MICSTI reported [digital-literacy training running across all ten districts](https://www.gov.ls/ict/ministry-of-information-communications-science-technology-and-innovation-launched-lescomcsirt-and-inaugural-national-cybersecurity-forum/) at the CSIRT launch on 29 July, with no participant numbers published.
-<!-- /narrative -->
+## Geopolitics
 
-## Finance
+### US / hyperscaler activities
 
-### MoUs and other agreements
-
-<!-- narrative: finance--finance-mou -->
-The development-partner support named at the Blueprint workshop carries no amount; no appropriation, disbursement or training figure was published in the window.
+<!-- narrative: geopolitics--geopol-usa -->
+The [US Embassy stated](https://techafricanews.com/2026/08/03/lesotho-approves-us6-2-billion-kobong-hydropower-and-ai-data-centre-project/) at the Kobong ceremony that it has facilitated US$7.3bn of commercial partnerships in Lesotho over the previous eighteen months.
 <!-- /narrative -->

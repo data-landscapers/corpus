@@ -1,16 +1,14 @@
 ---
-title: Benin — progress report, 2025-08-01 to 2026-08-25
+title: Benin — progress report, August 2025 – August 2026
 compiled: 2026-08-25
 period: 2025-08-01 to 2026-08-25
 place: BEN
 ledger_rows: 105
 not_held: 5
-record: a9815541145c
+record: 6a36b6037832
 ---
 
-# Benin: progress report, 2025-08-01 to 2026-08-25
-
-*Compiled 2026-08-25 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
+# Benin: progress report, August 2025 – August 2026
 
 *Of 105 systems and instruments on this place's ledger, 57 changed position between 2025-08-01 and 2026-08-25, 13 did not, 30 carry no stated baseline, and 5 are ***Not held*** at both ends.*
 
@@ -30,7 +28,112 @@ Benin's foundational layers were all in place and operating when the window open
 The national digital programme stood at [0.62% of credits ordonnancé at 30 April 2026](https://budgetbenin.bj/wp-content/uploads/2026/06/Note-de-presentation-du-PLFR-2026.pdf), and no full-year executed figure exists for any Benin digital programme in any year.
 <!-- /narrative -->
 
-## Infrastructure
+## Governance
+
+### Strategies, plans and policies
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| Cotonou cyber-hub programme | Programme running (2025-06) | [Incubator, statewide EBIOS framework, crisis exercise and 300 unit heads trained](https://www.lanation.bj/actualites/cyber-africa-forum-2026-cotonou-au-coeur-des-enjeux-de-cybersecurite-en-afrique) | Advanced |
+| Machinery of government for digital | Ministry as previously constituted | [Renamed Transformation Digitale et Innovation with an AI-strategy mandate; budget codes moved](https://beninwebtv.bj/benin-mahuna-akplogan-prend-les-commandes-du-nouveau-ministere-de-lia/) | Advanced |
+| Mandatory digitisation of paper records | Did not exist | [Every state structure required to move archives onto digital tools; no deadline, budget or compliance mechanism](https://www.gouv.bj/article/3605/budget-fonction-publique-modernisation-administrative-levier-economies-budgetaires-transition-ecologique/) | Advanced |
+| National DPI roadmap | Did not exist | [In draft on a once-only principle; the agency frames the hard part as governance](https://www.biometricupdate.com/202607/benins-dpi-roadmap-aims-to-end-siloed-digital-government) | Advanced |
+| Presidential programme 2026-2033 digital commitments | Did not exist | [Commits to a data-localisation law, supercomputers and a data-monetising platform; no budget or sequencing](https://pub-f2abea1e4da540aa9a3e39fedb257f21.r2.dev/PROGRAMME-WADAGNI-TALATA-2026.pdf) | Advanced |
+| Stratégie numérique 2031 | Did not exist | [In drafting with external facilitation](https://www.wearetech.africa/en/fils-uk/news/public-management/benin-sets-2031-horizon-for-new-digital-transformation-roadmap) | Advanced |
+| Vision Bénin 2060 digital pillar | Did not exist | [Digital pillar published](https://lanation.bj/actualites/vision-benin-2060-le-numerique-erige-en-moteur-strategique-de-transformation-nationale) | Advanced |
+| Single-agency identity governance | In place (2017) | [Identity, population, civil and electoral registers under one agency](https://www.biometricupdate.com/202605/building-digital-id-systems-that-last-african-countries-share-experiences-as-id4africa-2026-opens) | No change |
+
+### Legislation and regulation
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| Data-localisation law | Did not exist | [Committed only; no draft, scope or timetable on file](https://pub-f2abea1e4da540aa9a3e39fedb257f21.r2.dev/PROGRAMME-WADAGNI-TALATA-2026.pdf) | Advanced |
+| Extension of the biometric register to foreigners and Afro-descendants | Did not exist | [Residents file with distinct foreigner and Afro-descendant identifiers](https://www.lanation.bj/actualites/assemblee-nationale-larticle-6-de-la-loi-sur-lidentification-des-personnes-physiques-retouche) | Advanced |
+| Tax measures pushing merchants onto digital rails | In force (2025-01) | [Levy plus the 2026 rectifying finance law's digital taxes](https://fraternite.bj/transactions-financieres-au-benin-le-mobile-money-pour-contourner-la-taxe-sur-les-paiements-en-especes/) | Advanced |
+| Décret 2020-209 instituting the exchange | In force (2020-03-18) | [In force; the signed decree now on file](https://api.xroad.bj/media/617ac98a74baa_D%C3%A9cret%20n%C2%B02020-209%20du%2018%20mars%202020%20portant%20mise%20en%20place%20de%20la%20Plateforme%20d%27Interop%C3%A9rabilit%C3%A9%20XRoad%20BJ%20%281%29.pdf) | No change |
+| Identity-linked SIM registration | In force (2025-04) | [In force](https://www.agenceecofin.com/actualites-numerique/2202-126066-benin-les-cartes-sim-non-enregistrees-seront-desactivees-des-le-30-avril-2025) | No change |
+| Identification law of 2017 | ***Baseline not held*** | [The statutory base for the identification of natural persons, creating the identification agency and the unique personal identifier](https://sgg.gouv.bj/doc/loi-2017-08/) | ***Baseline not held*** |
+
+### Data protection
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| Data protection authority | Operating (2025-08) | [907 files, 64 control missions, 14 sanctioned cases; no algorithmic-audit tooling or budget](https://www.lanation.bj/numerique/protection-des-donnees-personnelles-en-2025-au-benin-lapdp-dresse-un-bilan-sous-le-signe-de-la-conformite) | Advanced, in caseload |
+| Data-protection authority activity reporting | ***Baseline not held*** | [One activity report covering 2015 to 2020, published under article 481 of the 2018 digital code, with no later report on file](https://archive.apdp.bj/wp-content/uploads/2020/12/Rapport-Bilan_2015-2020_Version-finale.pdf) | ***Baseline not held*** |
+| Enforcement against the electoral agency | ***Baseline not held*** | [Extraneous fields required to be stripped from the electoral roll before publication](https://www.biometricupdate.com/202605/world-bank-african-dpas-outline-formula) | ***Baseline not held*** |
+
+### Regional collaboration
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| 50-in-5 digital public infrastructure campaign membership | Did not exist | [16th African member](https://www.biometricupdate.com/202606/benin-joins-50-in-5-as-digital-identity-dpi-strategy-advances) | Advanced |
+| Cotonou Declaration on a single digital market | Did not exist | [Ministerial commitments to 90% affordable broadband by 2030 and interoperable identity and payments](https://lanation.bj/actualites/transformation-numerique-en-afrique-de-louest-et-du-centre-les-dirigeants-sengagent-a-oeuvrer-pour-des-progres-tangibles) | Advanced |
+| Data-protection cooperation conventions | Did not exist | [Conventions with Senegal and Mali](https://lanation.bj/numerique/protection-des-donnees-personnelles-le-benin-et-le-senegal-scellent-une-alliance-strategique-a-cotonou) | Advanced |
+| Free roaming with Senegal and Togo | Did not exist | [Free roaming with Senegal and Togo, free incoming calls for 30 days](https://lanation.bj/numerique/telecommunications-le-benin-le-senegal-et-le-togo-lancent-un-roaming-sans-frontieres) | Advanced |
+| Participation in regional cybercrime enforcement | Did not exist | [Participant in the regional takedown](https://fraternite.bj/vaste-coup-de-filet-contre-la-cybercriminalite-en-afrique-651-arrestations-le-benin-concerne/) | Advanced |
+| Six-country francophone AI-governance framework | Did not exist | [Six-country framework in development, Benin co-leading](https://www.wearetech.africa/en/fils-uk/news/tech/six-francophone-west-african-countries-unite-on-ai-governance-framework) | Advanced |
+| Smart Africa cross-border data exchange | Did not exist | [Cross-border digital identity pilot running with Rwanda and Ghana, eighteen more countries said to be joining](https://www.giz.de/en/newsroom/storys/interview-herken-kone-smart-africa-digital-sovereignty) | Advanced |
+| Trilateral border-modernisation steering committee | Did not exist | [Nigeria, Cameroon and Benin customs administrations committed to implement Beitbridge-model border modernisation on the Sèmè-Kraké and Mfum-Ekok corridors](https://theinsight.com.ng/nigeria-customs-benin-cameroon-deepen-regional-border-modernisation-at-beitbridge-benchmarking-mission/) | Advanced |
+| ECOWAS-standard biometric identity card | In issue (2020) | [In issue](https://lanation.bj/numerique/mise-en-oeuvre-de-la-carte-didentite-biometrique-de-la-cedeao-les-medias-appeles-a-jouer-un-role-cle-dans-la-sensibilisation) | No change |
+
+### Standards
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| Generative-AI compliance regime for public agents | Did not exist | [Census of users, a binding charter and no-training contract clauses; concedes the sovereignty risk remains](https://asin.bj/doc/137/download) | Advanced |
+| National Root Certification Authority and trust services | Established 2025-07-17, not yet operating | [National root authority and trust services operating](https://techafricanews.com/2025/07/17/benin-signs-landmark-agreements-to-expand-trust-services-and-accelerate-digital-transformation) | Advanced |
+| National vulnerability report | Did not exist | [878 vulnerabilities over 2021-2024, 23% critical; institutional compliance 6% to 87%](https://techafricanews.com/2025/07/03/benin-releases-first-national-cybersecurity-report-highlighting-rising-threats) | Advanced |
+| PASI and PDAIE interoperability referentials | Did not exist | [Under consultation](https://lanation.bj/actualites/transformation-numerique-de-letat-un-cadre-commun-pour-ses-systemes-dinformation-en-preparation) | Advanced |
+| Published conditions of access to the exchange | Did not exist | [A convention per exchange and authority authorisation before first connection; no fee schedule or processing time](https://lanation.bj/numerique/interoperabilite-au-benin-les-regles-dacces-a-xroad-bj) | Advanced |
+| Cadre d'interopérabilité | In force | [In force; its governance clause reports to the President](https://api.xroad.bj/documents/10/download) | No change |
+| GovTech Maturity Index standing | ***Baseline not held*** | [2025 top performer, alongside Algeria, South Africa and Nigeria](https://www.wearetech.africa/en/fils-uk/news/public-management/benin-sets-2031-horizon-for-new-digital-transformation-roadmap) | ***Baseline not held*** |
+
+### Public debate and participation in policymaking
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| Internet freedom ranking | ***Baseline not held*** | [4th in Africa on a 2026 internet-freedom assessment](https://fraternite.bj/liberte-internet-en-afrique-le-benin-dans-le-top-5-du-classement-2026/) | ***Baseline not held*** |
+
+<!-- narrative: governance -->
+No instrument here changed band.
+
+The data-protection authority held position as an operating regulator throughout the window. Its [2025 report](https://www.lanation.bj/numerique/protection-des-donnees-personnelles-en-2025-au-benin-lapdp-dresse-un-bilan-sous-le-signe-de-la-conformite), its AI policy and its cooperation conventions all entered the record inside the window as evidence of an institution already working, not as its arrival.
+
+The rest of the section is a policy stack being rebuilt around a new government. Vision 2060's digital pillar, the 2031 strategy, the presidential programme for 2026–2033 and a renamed ministry with an explicit AI mandate were all published between February and May, and a decree moved the budget programme codes so that any series keyed on ministry breaks at 24 May 2026.
+
+Two commitments are stated and unevidenced: a data-localisation law with no draft, scope or timetable, and a government AI super app listed among foundations the programme already claims.
+
+On disclosure, an [Open Budget Survey score reached 77/100](https://fraternite.bj/budget-ouvert-obs-2025-le-benin-se-hisse-parmi-les-references-mondiales-de-la-transparence-budgetaire/), fifth globally, from 1/100 in 2012.
+<!-- /narrative -->
+
+## Finance
+
+### Domestic budget appropriations and expenditure
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| Quarterly budget execution reports (RAPEX) | Published quarterly (2024-12) | [Published quarterly, with a citizen version; latest instalment held covers to 31 March 2025](https://budgetbenin.bj/storage/2025/06/RAPEX-au-31-mars-2025.pdf) | No change |
+| Budget standing of the digital institutions | ***Baseline not held*** | [The data-protection authority carries its own line (488.3m to 738.3m FCFA); the digital and identity agencies carry none](https://assemblee-nationale.bj/index.php/2025/12/04/assemblee-nationale-la-loi-de-finances-gestion-2026-adoptee-a-lunanimite-des-deputes/) | ***Baseline not held*** |
+| Execution of the national digital budget programme | ***Baseline not held*** | [Programme 111 Numérique at 0.62% of credits ordonnancé (2026-04-30), against 15.43% across all programmes](https://budgetbenin.bj/wp-content/uploads/2026/06/Note-de-presentation-du-PLFR-2026.pdf) | ***Baseline not held*** |
+
+### New investments
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| MEF digitalisation support project (BOAD) | Did not exist | [XOF 19.5bn (US$32.5m) BOAD loan modernising the finance ministry's data centre, La Poste du Benin's information system and the DGFD's SGIFD/SIRH systems, in implementation (2026-05)](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=XM-DAC-46021-2026008) | Advanced |
+| WARDIP second-phase regional digital financing | Did not exist | [US$137m for Benin, Liberia and Sierra Leone across three pillars](https://www.biometricupdate.com/202603/new-137m-initiative-to-enable-digital-service-access) | Advanced |
+| Canadian financing for the digital transformation of women-led businesses | Baseline not held | [CAD5m for the digital transformation of women-led businesses, one of seven projects in a package of about CAD17m for Benin and West Africa; no implementing partner, start date or duration is named](https://www.canada.ca/en/global-affairs/news/2026/08/minister-anand-concludes-trip-to-benin-and-cote-divoire-to-strengthen-canadas-partnerships-in-west-africa.html) | ***Baseline not held*** |
+| Economic governance for service delivery programme | ***Baseline not held*** | [A World Bank programme-for-results running since financial year 2023, whose results areas reach the tax directorate, public payments and public financial management systems](https://documents1.worldbank.org/curated/en/099092325063510323/pdf/P176763-2035557c-fe0f-4162-a072-04b417dfb137.pdf) | ***Baseline not held*** |
+
+<!-- narrative: finance -->
+The first per-programme execution figures Benin has ever published arrived inside the window, showing the [national digital programme at 0.62% of credits ordonnancé](https://budgetbenin.bj/wp-content/uploads/2026/06/Note-de-presentation-du-PLFR-2026.pdf) at 30 April 2026 against 15.43% across all programmes.
+
+The reading of the estimates volumes established a budget line for the data-protection authority, none for the agency running the CSIRT, the data centre and the PKI, none for the identity agency, and no appearance at all by the telecoms regulator.
+
+Two entries are ***Not held*** for the same reason — the performance reports the organic budget law requires have never been published, and no audited figure exists for any digital line — so nothing here can be checked against outturn.
+<!-- /narrative -->
+
+## ICT Infrastructure
 
 ### Connectivity
 
@@ -51,72 +154,25 @@ The national digital programme stood at [0.62% of credits ordonnancé at 30 Apri
 
 | System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
+| AFIS fingerprint system wired to the regional police exchange | Did not exist | [Connected to the ECOWAS SIPAO police data exchange](https://fraternite.bj/lutte-contre-la-criminalite-au-benin-un-systeme-automatise-didentification-par-empreintes-digitales-inaugure/) | Advanced |
 | National digital-security stack | In place (2020) | [Coordinated through ASIN and the CNIN, under the Malabo and Budapest conventions](https://fraternite.bj/5eme-edition-du-cyber-africa-forum-les-assises-de-cotonou-pour-le-renforcement-de-la-cybersecurite/) | No change |
 | Attack surface of the online service estate | ***Baseline not held*** | [More than 230 services delivered online, about 40 priority structures under oversight (2026-06)](https://www.lanation.bj/numerique/conference-des-rssi-les-experts-mobilises-pour-une-cybersecurite-plus-resiliente) | ***Baseline not held*** |
 | Ransomware threats detected | Baseline not held | [631 ransomware threats detected in Benin in 2024, on a security vendor's telemetry cited by Interpol](https://lanation.bj/numerique/francois-amour-bakpe-a-propos-des-cybermenaces-les-631-detections-doivent-nous-inciter-a-renforcer-la-prevention-et-la-reaction) | ***Baseline not held*** |
 
-### Data Exchange
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| SECUROUTE road-enforcement data platform | Did not exist | [Being extended for full interoperability with the national exchange](https://techafricanews.com/2026/01/27/cybastion-advances-digital-government-solutions-supports-benins-securoute-infrastructure-upgrade/) | Advanced |
-
-### Strategies, plans and policies
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| Cotonou cyber-hub programme | Programme running (2025-06) | [Incubator, statewide EBIOS framework, crisis exercise and 300 unit heads trained](https://www.lanation.bj/actualites/cyber-africa-forum-2026-cotonou-au-coeur-des-enjeux-de-cybersecurite-en-afrique) | Advanced |
-
-### Regional collaboration
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| Free roaming with Senegal and Togo | Did not exist | [Free roaming with Senegal and Togo, free incoming calls for 30 days](https://lanation.bj/numerique/telecommunications-le-benin-le-senegal-et-le-togo-lancent-un-roaming-sans-frontieres) | Advanced |
-| Participation in regional cybercrime enforcement | Did not exist | [Participant in the regional takedown](https://fraternite.bj/vaste-coup-de-filet-contre-la-cybercriminalite-en-afrique-651-arrestations-le-benin-concerne/) | Advanced |
-
-### Standards
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| National vulnerability report | Did not exist | [878 vulnerabilities over 2021-2024, 23% critical; institutional compliance 6% to 87%](https://techafricanews.com/2025/07/03/benin-releases-first-national-cybersecurity-report-highlighting-rising-threats) | Advanced |
-
-### Public debate and participation in policymaking
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| Internet freedom ranking | ***Baseline not held*** | [4th in Africa on a 2026 internet-freedom assessment](https://fraternite.bj/liberte-internet-en-afrique-le-benin-dans-le-top-5-du-classement-2026/) | ***Baseline not held*** |
-
-### Access to services
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| Mobile data pricing | ***Baseline not held*** | [995 FCFA a gigabyte (2023), from 4,000 in 2016](https://techafricanews.com/2026/04/28/benin-enters-the-5g-era-as-moov-africa-benin-launches-high-speed-network-at-novotel-orisha-cotonou/) | ***Baseline not held*** |
-
-### New investments
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| WARDIP second-phase regional digital financing | Did not exist | [US$137m for Benin, Liberia and Sierra Leone across three pillars](https://www.biometricupdate.com/202603/new-137m-initiative-to-enable-digital-service-access) | Advanced |
-
-<!-- narrative: infrastructure -->
+<!-- narrative: ict-infrastructure -->
 No position in this section changed maturity band. The security strategy, the fibre backbone and the data centre all held. What arrived was a second 5G operator, free roaming with Senegal and Togo, US$137m of regional broadband financing, the [first national vulnerability report](https://techafricanews.com/2025/07/03/benin-releases-first-national-cybersecurity-report-highlighting-rising-threats), and participation in a regional cybercrime takedown.
 
 The security of the online service estate was stated as a problem in June 2026 — more than 230 services, about 40 priority structures under oversight — and the sovereign cloud and national cyber authority urged to answer it entered as a recommendation and nothing more.
 <!-- /narrative -->
 
-## Digital public infrastructure
-
-### Cybersecurity
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| AFIS fingerprint system wired to the regional police exchange | Did not exist | [Connected to the ECOWAS SIPAO police data exchange](https://fraternite.bj/lutte-contre-la-criminalite-au-benin-un-systeme-automatise-didentification-par-empreintes-digitales-inaugure/) | Advanced |
+## DPI
 
 ### Data Exchange
 
 | System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Electronic international waybill | Did not exist | [Live at the Port of Cotonou](https://fraternite.bj/benin-la-lettre-de-voiture-internationale-electronique-au-depart-du-port-officiellement-lancee/) | Advanced |
+| SECUROUTE road-enforcement data platform | Did not exist | [Being extended for full interoperability with the national exchange](https://techafricanews.com/2026/01/27/cybastion-advances-digital-government-solutions-supports-benins-securoute-infrastructure-upgrade/) | Advanced |
 | Xroad-BJ national data exchange | Operating (2025-08) | [73 members, 176 information systems, 512 services; 138.17m requests cumulatively](https://statistiques.xroad.bj/) | Advanced, in traffic |
 | Customs system migration | Migrated (2025-02) | [44 of 49 offices, with more than 30bn CFA collected](https://itweb.africa/article/webb-fontaine-advances-benins-customs-digitisation-project/Pero37Z3aLRMQb6m) | No change |
 | BIC-UEMOA credit information bureau | Not held | [Operating across all eight UEMOA states with 321 data providers, about 48 million contracts and more than 20 million active borrowers; at its first Cotonou data forum on 23 July 2026 the finance ministry framed data quality as the route to cutting credit-approval turnaround to 48 hours](https://www.lanation.bj/economie/1er-cafe-des-donnees-du-bic-uemoa-a-cotonou-la-qualite-des-informations-au-coeur-des-travaux) | ***Baseline not held*** |
@@ -139,7 +195,7 @@ The security of the online service estate was stated as a problem in June 2026 �
 | GBESSOKE productive social safety net | ***Baseline not held*** | [20,621 beneficiaries, 85% of them women, paid a first monthly instalment of 208,272,100 FCFA across twelve pilot communes onto free secured SIM cards, ahead of an intended extension to all 77 communes](https://www.gouv.bj/article/3265/mise-oeuvre-programme-gbessoke-transferts-monetaires-demarre-plus-mille-menages-deja-touches-/) | ***Baseline not held*** |
 | Regional central bank digital currency | ***Baseline not held*** | [The regional e-CFA in pilot](https://lanation.bj/economie/crypto-actifs-le-debat-sur-les-opportunites-et-les-risques-ouvert) | ***Baseline not held*** |
 
-### Registries (population, land, address, etc.)
+### Registries
 
 | System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
@@ -151,11 +207,14 @@ The security of the online service estate was stated as a problem in June 2026 �
 | Registre Social Unique | ***Baseline not held*** | [An information system registering households and deciding eligibility across social-protection programmes, classifying them as non-poor, non-extreme poor and extreme poor and updated periodically, so that cash and in-kind transfers, health insurance, training, credit and pension schemes draw on one secured socio-economic database](https://lematinal.bj/registre-social-unique-au-benin-la-protection-des-plus-vulnerables-renforcee/) | ***Baseline not held*** |
 | TERRA land governance programme | ***Baseline not held*** | [A national land programme with a finalised operations manual, run by the land agency under the ministry of economy and finance with World Bank support](https://andf.bj/wp-content/uploads/2026/01/ANDF-TERRA-RF-006-V1.0_VERSION-FINALE-MOP-TERRA-BENIN-CONSULTANT-ADJIBI-17-OCTOBRE-2025.pdf) | ***Baseline not held*** |
 
-### Sectoral management information systems (HMIS, EMIS, etc.)
+### Sectoral management information systems
 
 | System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
+| AI, drone and geospatial malaria programme | Did not exist | [Incidence down 38% and mortality down 39% across 2022-2024](https://www.wearetech.africa/en/fils-uk/news/tech/benin-combines-ai-drones-and-geospatial-mapping-in-fight-against-malaria) | Advanced |
 | Tax directorate information system modernisation | Did not exist | [A EUR 2m donor-funded project for the digital transformation of the tax directorate's information systems, running from 9 August 2023 to 31 December 2026](https://www.expertisefrance.fr/fr/projets/projet-dappui-la-modernisation-des-systemes-dinformation-pamsi-de-la-dgi-du-benin) | Advanced |
+| Educmaster school management system | ***Baseline not held*** | [Three years in use across nursery and primary schools, with the minister requiring complete registration of intermediate classes by 23 February 2026 and heads of non-compliant schools barred from the primary certificate examination workforce](https://beninwebtv.com/benin-le-ministre-karimou-exige-la-mise-a-jour-complete-des-donnees-des-classes-intermediaires-sur-educmaster/) | ***Baseline not held*** |
+| Health management information system | ***Baseline not held*** | [DHIS2 carries ministry reporting, with private health facilities trained from 2023 to submit reproductive, maternal, newborn and child health data that had gone largely unreported](https://www.abtglobal.com/insights/impact-briefs/pshpa-trains-private-health-facilities-to-submit-rmnch-data-for-dhis2) | ***Baseline not held*** |
 
 ### Other GovTech and e-Gov
 
@@ -165,63 +224,6 @@ The security of the online service estate was stated as a problem in June 2026 �
 | e-Procurement platform | Previous system retired by décret 2025-169 (2025-04) | [Old platform retired, new one not built](https://lanation.bj/economie/marches-publics-au-benin-une-plateforme-unique-pour-plus-de-transparence) | Stalled, the first tender failed |
 | Justice-sector digitalisation plan 2026-2033 | Did not exist | [Citizen case-tracking portal and secure hosting committed; no budget, sequencing or implementing agency](https://lematinal.bj/justice-beninoise-de-2026-2033-un-secteur-connecte-et-accessible-pour-tous/) | Advanced |
 | Portail national des services publics | Live with fewer services (2025-06) | [More than 230 services delivered online on the national exchange](https://www.lanation.bj/numerique/conference-des-rssi-les-experts-mobilises-pour-une-cybersecurite-plus-resiliente) | Advanced |
-
-### Legislation and regulation
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| Extension of the biometric register to foreigners and Afro-descendants | Did not exist | [Residents file with distinct foreigner and Afro-descendant identifiers](https://www.lanation.bj/actualites/assemblee-nationale-larticle-6-de-la-loi-sur-lidentification-des-personnes-physiques-retouche) | Advanced |
-| Tax measures pushing merchants onto digital rails | In force (2025-01) | [Levy plus the 2026 rectifying finance law's digital taxes](https://fraternite.bj/transactions-financieres-au-benin-le-mobile-money-pour-contourner-la-taxe-sur-les-paiements-en-especes/) | Advanced |
-| Décret 2020-209 instituting the exchange | In force (2020-03-18) | [In force; the signed decree now on file](https://api.xroad.bj/media/617ac98a74baa_D%C3%A9cret%20n%C2%B02020-209%20du%2018%20mars%202020%20portant%20mise%20en%20place%20de%20la%20Plateforme%20d%27Interop%C3%A9rabilit%C3%A9%20XRoad%20BJ%20%281%29.pdf) | No change |
-| Identity-linked SIM registration | In force (2025-04) | [In force](https://www.agenceecofin.com/actualites-numerique/2202-126066-benin-les-cartes-sim-non-enregistrees-seront-desactivees-des-le-30-avril-2025) | No change |
-
-### Strategies, plans and policies
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| Mandatory digitisation of paper records | Did not exist | [Every state structure required to move archives onto digital tools; no deadline, budget or compliance mechanism](https://www.gouv.bj/article/3605/budget-fonction-publique-modernisation-administrative-levier-economies-budgetaires-transition-ecologique/) | Advanced |
-| National DPI roadmap | Did not exist | [In draft on a once-only principle; the agency frames the hard part as governance](https://www.biometricupdate.com/202607/benins-dpi-roadmap-aims-to-end-siloed-digital-government) | Advanced |
-| Single-agency identity governance | In place (2017) | [Identity, population, civil and electoral registers under one agency](https://www.biometricupdate.com/202605/building-digital-id-systems-that-last-african-countries-share-experiences-as-id4africa-2026-opens) | No change |
-
-### Regional collaboration
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| 50-in-5 digital public infrastructure campaign membership | Did not exist | [16th African member](https://www.biometricupdate.com/202606/benin-joins-50-in-5-as-digital-identity-dpi-strategy-advances) | Advanced |
-| Smart Africa cross-border data exchange | Did not exist | [Cross-border digital identity pilot running with Rwanda and Ghana, eighteen more countries said to be joining](https://www.giz.de/en/newsroom/storys/interview-herken-kone-smart-africa-digital-sovereignty) | Advanced |
-| Trilateral border-modernisation steering committee | Did not exist | [Nigeria, Cameroon and Benin customs administrations committed to implement Beitbridge-model border modernisation on the Sèmè-Kraké and Mfum-Ekok corridors](https://theinsight.com.ng/nigeria-customs-benin-cameroon-deepen-regional-border-modernisation-at-beitbridge-benchmarking-mission/) | Advanced |
-| ECOWAS-standard biometric identity card | In issue (2020) | [In issue](https://lanation.bj/numerique/mise-en-oeuvre-de-la-carte-didentite-biometrique-de-la-cedeao-les-medias-appeles-a-jouer-un-role-cle-dans-la-sensibilisation) | No change |
-
-### Standards
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| National Root Certification Authority and trust services | Established 2025-07-17, not yet operating | [National root authority and trust services operating](https://techafricanews.com/2025/07/17/benin-signs-landmark-agreements-to-expand-trust-services-and-accelerate-digital-transformation) | Advanced |
-| PASI and PDAIE interoperability referentials | Did not exist | [Under consultation](https://lanation.bj/actualites/transformation-numerique-de-letat-un-cadre-commun-pour-ses-systemes-dinformation-en-preparation) | Advanced |
-| Published conditions of access to the exchange | Did not exist | [A convention per exchange and authority authorisation before first connection; no fee schedule or processing time](https://lanation.bj/numerique/interoperabilite-au-benin-les-regles-dacces-a-xroad-bj) | Advanced |
-| Cadre d'interopérabilité | In force | [In force; its governance clause reports to the President](https://api.xroad.bj/documents/10/download) | No change |
-| GovTech Maturity Index standing | ***Baseline not held*** | [2025 top performer, alongside Algeria, South Africa and Nigeria](https://www.wearetech.africa/en/fils-uk/news/public-management/benin-sets-2031-horizon-for-new-digital-transformation-roadmap) | ***Baseline not held*** |
-
-### Access to services
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| Consumer redress for failed mobile-money transactions | Did not exist | [A financial-sector redress body stood up; complaints about failed transactions unresolved](https://fraternite.bj/guichets-automatiques-bancaires-et-mobile-money-enquete-sur-le-calvaire-des-usagers-face-aux-transactions-echouees/) | Advanced |
-| Free identity-card distribution by civil society | Did not exist | [130,000+ free cards in eight months, exposing failed fingerprints and dead enrolment numbers](https://fraternite.bj/octroi-des-pieces-didentite-long-je-suis-citoyen-beninois-sort-certains-beninois-de-lanonymat/) | Advanced |
-| ARCH social protection scheme | ***Baseline not held*** | [The health-insurance strand moved out of its seven pilot communes into a generalisation phase covering fourteen more, enrolling against the national identification register](https://www.gouv.bj/article/1145/projet-arch-gouvernement-generalise-volet-assurance-maladie-dans-communes-benin/) | ***Baseline not held*** |
-
-### Innovation ecosystem
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| Domestic payment aggregator | Did not exist | [A home-grown rail with more than 13,000 merchants](https://www.lanation.bj/numerique/communications-electroniques-lessor-des-usages-numeriques-transforme-le-marche-beninois) | Advanced |
-
-### National statistics
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| Public reporting of exchange usage | Did not exist | [Request volumes, members, systems and services published](https://statistiques.xroad.bj/) | Advanced |
-| National statistics office as data custodian | ***Baseline not held*** | [Named among four offices being displaced as primary data producers (2026-03)](https://researchictafrica.net/research/the-evolving-role-of-national-statistics-offices-nsos-as-data-custodians-in-the-digital-age/) | ***Baseline not held*** |
 
 <!-- narrative: dpi -->
 The identity system did not change band — implemented on 2025-08-01 and implemented now, at [about 98–99% biometric coverage](https://www.worldbank.org/en/news/feature/2026/05/20/transforming-lives-in-benin-a-unique-identification-system) throughout — while issuance kept climbing beneath it. The exchange, instituted in 2020, likewise held its band while usage grew past 138 million requests.
@@ -233,96 +235,13 @@ What entered the record inside the window is almost entirely governance and reac
 Payments run on a regional rail. Banks and mobile money were fully interconnected in May 2026.
 <!-- /narrative -->
 
-## Governance and regulation
-
-### Legislation and regulation
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| Data-localisation law | Did not exist | [Committed only; no draft, scope or timetable on file](https://pub-f2abea1e4da540aa9a3e39fedb257f21.r2.dev/PROGRAMME-WADAGNI-TALATA-2026.pdf) | Advanced |
-| Identification law of 2017 | ***Baseline not held*** | [The statutory base for the identification of natural persons, creating the identification agency and the unique personal identifier](https://sgg.gouv.bj/doc/loi-2017-08/) | ***Baseline not held*** |
-
-### Strategies, plans and policies
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| Machinery of government for digital | Ministry as previously constituted | [Renamed Transformation Digitale et Innovation with an AI-strategy mandate; budget codes moved](https://beninwebtv.bj/benin-mahuna-akplogan-prend-les-commandes-du-nouveau-ministere-de-lia/) | Advanced |
-| Presidential programme 2026-2033 digital commitments | Did not exist | [Commits to a data-localisation law, supercomputers and a data-monetising platform; no budget or sequencing](https://pub-f2abea1e4da540aa9a3e39fedb257f21.r2.dev/PROGRAMME-WADAGNI-TALATA-2026.pdf) | Advanced |
-| Stratégie numérique 2031 | Did not exist | [In drafting with external facilitation](https://www.wearetech.africa/en/fils-uk/news/public-management/benin-sets-2031-horizon-for-new-digital-transformation-roadmap) | Advanced |
-| Vision Bénin 2060 digital pillar | Did not exist | [Digital pillar published](https://lanation.bj/actualites/vision-benin-2060-le-numerique-erige-en-moteur-strategique-de-transformation-nationale) | Advanced |
-
-### Regional collaboration
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| Cotonou Declaration on a single digital market | Did not exist | [Ministerial commitments to 90% affordable broadband by 2030 and interoperable identity and payments](https://lanation.bj/actualites/transformation-numerique-en-afrique-de-louest-et-du-centre-les-dirigeants-sengagent-a-oeuvrer-pour-des-progres-tangibles) | Advanced |
-| Data-protection cooperation conventions | Did not exist | [Conventions with Senegal and Mali](https://lanation.bj/numerique/protection-des-donnees-personnelles-le-benin-et-le-senegal-scellent-une-alliance-strategique-a-cotonou) | Advanced |
-
-### Data protection
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| Data protection authority | Operating (2025-08) | [907 files, 64 control missions, 14 sanctioned cases; no algorithmic-audit tooling or budget](https://www.lanation.bj/numerique/protection-des-donnees-personnelles-en-2025-au-benin-lapdp-dresse-un-bilan-sous-le-signe-de-la-conformite) | Advanced, in caseload |
-| Data-protection authority activity reporting | ***Baseline not held*** | [One activity report covering 2015 to 2020, published under article 481 of the 2018 digital code, with no later report on file](https://archive.apdp.bj/wp-content/uploads/2020/12/Rapport-Bilan_2015-2020_Version-finale.pdf) | ***Baseline not held*** |
-| Enforcement against the electoral agency | ***Baseline not held*** | [Extraneous fields required to be stripped from the electoral roll before publication](https://www.biometricupdate.com/202605/world-bank-african-dpas-outline-formula) | ***Baseline not held*** |
+## Technology
 
 ### AI
 
 | System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Data-protection authority AI policy | Did not exist | [A dedicated AI policy with strict purpose limitation](https://www.biometricupdate.com/202605/world-bank-african-dpas-outline-formula) | Advanced |
-
-### Open data
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| Open Government Partnership national action plan | Did not exist | [Co-creation opened eighteen months after joining, with commune-level consultation](https://www.lanation.bj/societe/partenariat-pour-un-gouvernement-ouvert-les-communes-entrent-en-action) | Advanced |
-| Budget transparency | ***Baseline not held*** | [Open Budget Survey 2025: 77/100 transparency, 52 participation, 72 oversight](https://fraternite.bj/budget-ouvert-obs-2025-le-benin-se-hisse-parmi-les-references-mondiales-de-la-transparence-budgetaire/) | ***Baseline not held*** |
-
-<!-- narrative: governance -->
-No instrument here changed band.
-
-The data-protection authority held position as an operating regulator throughout the window. Its [2025 report](https://www.lanation.bj/numerique/protection-des-donnees-personnelles-en-2025-au-benin-lapdp-dresse-un-bilan-sous-le-signe-de-la-conformite), its AI policy and its cooperation conventions all entered the record inside the window as evidence of an institution already working, not as its arrival.
-
-The rest of the section is a policy stack being rebuilt around a new government. Vision 2060's digital pillar, the 2031 strategy, the presidential programme for 2026–2033 and a renamed ministry with an explicit AI mandate were all published between February and May, and a decree moved the budget programme codes so that any series keyed on ministry breaks at 24 May 2026.
-
-Two commitments are stated and unevidenced: a data-localisation law with no draft, scope or timetable, and a government AI super app listed among foundations the programme already claims.
-
-On disclosure, an [Open Budget Survey score reached 77/100](https://fraternite.bj/budget-ouvert-obs-2025-le-benin-se-hisse-parmi-les-references-mondiales-de-la-transparence-budgetaire/), fifth globally, from 1/100 in 2012.
-<!-- /narrative -->
-
-## Artificial intelligence and the technology sector
-
-### Sectoral management information systems (HMIS, EMIS, etc.)
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| AI, drone and geospatial malaria programme | Did not exist | [Incidence down 38% and mortality down 39% across 2022-2024](https://www.wearetech.africa/en/fils-uk/news/tech/benin-combines-ai-drones-and-geospatial-mapping-in-fight-against-malaria) | Advanced |
-| Educmaster school management system | ***Baseline not held*** | [Three years in use across nursery and primary schools, with the minister requiring complete registration of intermediate classes by 23 February 2026 and heads of non-compliant schools barred from the primary certificate examination workforce](https://beninwebtv.com/benin-le-ministre-karimou-exige-la-mise-a-jour-complete-des-donnees-des-classes-intermediaires-sur-educmaster/) | ***Baseline not held*** |
-| Health management information system | ***Baseline not held*** | [DHIS2 carries ministry reporting, with private health facilities trained from 2023 to submit reproductive, maternal, newborn and child health data that had gone largely unreported](https://www.abtglobal.com/insights/impact-briefs/pshpa-trains-private-health-facilities-to-submit-rmnch-data-for-dhis2) | ***Baseline not held*** |
-
-### Regional collaboration
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| Six-country francophone AI-governance framework | Did not exist | [Six-country framework in development, Benin co-leading](https://www.wearetech.africa/en/fils-uk/news/tech/six-francophone-west-african-countries-unite-on-ai-governance-framework) | Advanced |
-
-### Standards
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| Generative-AI compliance regime for public agents | Did not exist | [Census of users, a binding charter and no-training contract clauses; concedes the sovereignty risk remains](https://asin.bj/doc/137/download) | Advanced |
-
-### Access to services
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| Fon-language voice AI | Did not exist | [The first voice-to-voice AI in Fon, across Benin, Senegal and Côte d'Ivoire](https://techafricanews.com/2025/06/30/benin-launches-first-local-language-voice-ai-to-bridge-digital-divide) | Advanced |
-
-### AI
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
 | National AI and big-data strategy | In force (2023) | [In force](https://techafricanews.com/2025/06/30/benin-launches-first-local-language-voice-ai-to-bridge-digital-divide) | No change |
 
 ### ICT Industry
@@ -330,6 +249,24 @@ On disclosure, an [Open Budget Survey score reached 77/100](https://fraternite.b
 | System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Domestic content-verification platform | ***Baseline not held*** | [Checks text, images, audio and video, including AI-generated content](https://www.wearetech.africa/fr/fils/tech-stars/le-beninois-rene-fadonougbo-lutte-contre-la-desinformation-en-ligne) | ***Baseline not held*** |
+
+### Innovation ecosystem
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| Domestic payment aggregator | Did not exist | [A home-grown rail with more than 13,000 merchants](https://www.lanation.bj/numerique/communications-electroniques-lessor-des-usages-numeriques-transforme-le-marche-beninois) | Advanced |
+
+<!-- narrative: technology -->
+No maturity changed. The national AI strategy has run since 2023 and held position throughout; everything else in the section arrived.
+
+Mother-tongue voice AI in Fon in June 2025, built for service access rather than for demonstration. A [compliance regime for generative AI in the public service](https://asin.bj/doc/137/download) in June 2026 that begins by admitting officials already use these tools outside any framework, and that concedes contractual terms cannot close the sovereignty risk. A malaria programme with published outcome figures. A first national olympiad.
+
+Two rows carry no baseline: the content-verification platform, founded in 2025, and the domestic authorship and frugal-AI argument that closed the window.
+
+One entry in this section is ***Not held***. A government AI super app is counted among the presidential programme's existing foundations and nothing on file establishes that it exists.
+<!-- /narrative -->
+
+## Capacity
 
 ### Literacy
 
@@ -341,37 +278,8 @@ On disclosure, an [Open Budget Survey score reached 77/100](https://fraternite.b
 
 | System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
-| National AI Olympiad | Did not exist | [First edition held](https://www.wearetech.africa/en/fils-uk/news/tech/six-francophone-west-african-countries-unite-on-ai-governance-framework) | Advanced |
-
-<!-- narrative: ai-tech -->
-No maturity changed. The national AI strategy has run since 2023 and held position throughout; everything else in the section arrived.
-
-Mother-tongue voice AI in Fon in June 2025, built for service access rather than for demonstration. A [compliance regime for generative AI in the public service](https://asin.bj/doc/137/download) in June 2026 that begins by admitting officials already use these tools outside any framework, and that concedes contractual terms cannot close the sovereignty risk. A malaria programme with published outcome figures. A first national olympiad.
-
-Two rows carry no baseline: the content-verification platform, founded in 2025, and the domestic authorship and frugal-AI argument that closed the window.
-
-One entry in this section is ***Not held***. A government AI super app is counted among the presidential programme's existing foundations and nothing on file establishes that it exists.
-<!-- /narrative -->
-
-## Inclusion and capacity
-
-### Digital divides
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| Digital usage growth | ***Baseline not held*** | [Rising usage in the regulator's 2025 report, with no disaggregation by gender or rurality](https://www.lanation.bj/numerique/communications-electroniques-lessor-des-usages-numeriques-transforme-le-marche-beninois) | ***Baseline not held*** |
-
-### Access to services
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| Digital access to public services | ***Baseline not held*** | [At least 75% of identification services accessed digitally (2025)](https://www.biometricupdate.com/202602/benin-reports-75-of-identification-services-accessed-through-digital-platforms) | ***Baseline not held*** |
-
-### Training and skills
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
 | Cotonou AI academy | Did not exist | [A city-government track in artificial intelligence, robotics and digital fabrication for pupils of the city's public secondary schools, opened as a ten-day campus for a first cohort of 60 pupils and the first stage of a four-year programme](https://lanation.bj/numerique/cotonou-ai-academy-former-60-collegiens-en-ia-pour-repondre-aux-defis-urbains) | Advanced |
+| National AI Olympiad | Did not exist | [First edition held](https://www.wearetech.africa/en/fils-uk/news/tech/six-francophone-west-african-countries-unite-on-ai-governance-framework) | Advanced |
 | National tele-teaching platform | Did not exist | [Authorised, not built](https://www.wearetech.africa/en/fils-uk/news/tech/benin-expands-higher-education-access-through-e-learning-strategy) | Advanced |
 | Sèmè City skills hub network | Operating (2025-10) | [Hub network plus a francophone digital-skills programme and an annual digital week](https://www.wearetech.africa/en/fils-uk/news/tech/benin-expands-higher-education-access-through-e-learning-strategy) | No change |
 | State RSSI certification programme | ***Baseline not held*** | [About 85 officers trained (2026-08) against a target of 100 qualified RSSI by end-2026, on CEH and ISO 27001 with practical work at the national Cyber Range; intake opened beyond central government to local authorities, state enterprises and the private sector](https://lanation.bj/numerique/cybersecurite-lasin-renforce-les-capacites-de-25-rssi) | ***Baseline not held*** |
@@ -382,36 +290,53 @@ One entry in this section is ***Not held***. A government AI super app is counte
 |---|---|---|---|
 | National science and technology university | ***Baseline not held*** | [UNSTIM at Abomey trains in science, technology, engineering and mathematics across more than nine constituent entities](https://www.unstim.bj/d%C3%A9couverte-et-pr%C3%A9sentation) | ***Baseline not held*** |
 
+<!-- narrative: capacity -->
+
+<!-- /narrative -->
+
+## Inclusion
+
+### Access to services
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| Consumer redress for failed mobile-money transactions | Did not exist | [A financial-sector redress body stood up; complaints about failed transactions unresolved](https://fraternite.bj/guichets-automatiques-bancaires-et-mobile-money-enquete-sur-le-calvaire-des-usagers-face-aux-transactions-echouees/) | Advanced |
+| Fon-language voice AI | Did not exist | [The first voice-to-voice AI in Fon, across Benin, Senegal and Côte d'Ivoire](https://techafricanews.com/2025/06/30/benin-launches-first-local-language-voice-ai-to-bridge-digital-divide) | Advanced |
+| Free identity-card distribution by civil society | Did not exist | [130,000+ free cards in eight months, exposing failed fingerprints and dead enrolment numbers](https://fraternite.bj/octroi-des-pieces-didentite-long-je-suis-citoyen-beninois-sort-certains-beninois-de-lanonymat/) | Advanced |
+| ARCH social protection scheme | ***Baseline not held*** | [The health-insurance strand moved out of its seven pilot communes into a generalisation phase covering fourteen more, enrolling against the national identification register](https://www.gouv.bj/article/1145/projet-arch-gouvernement-generalise-volet-assurance-maladie-dans-communes-benin/) | ***Baseline not held*** |
+| Digital access to public services | ***Baseline not held*** | [At least 75% of identification services accessed digitally (2025)](https://www.biometricupdate.com/202602/benin-reports-75-of-identification-services-accessed-through-digital-platforms) | ***Baseline not held*** |
+| Mobile data pricing | ***Baseline not held*** | [995 FCFA a gigabyte (2023), from 4,000 in 2016](https://techafricanews.com/2026/04/28/benin-enters-the-5g-era-as-moov-africa-benin-launches-high-speed-network-at-novotel-orisha-cotonou/) | ***Baseline not held*** |
+
+### Digital divides
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| Digital usage growth | ***Baseline not held*** | [Rising usage in the regulator's 2025 report, with no disaggregation by gender or rurality](https://www.lanation.bj/numerique/communications-electroniques-lessor-des-usages-numeriques-transforme-le-marche-beninois) | ***Baseline not held*** |
+
 <!-- narrative: inclusion -->
 No position changed band.
 
 The delivery rows are all arrivals: a national tele-teaching platform authorised for 2026–27, the skills hub network and a francophone training programme.
 <!-- /narrative -->
 
-## Finance
+## Data
 
-### New investments
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| MEF digitalisation support project (BOAD) | Did not exist | [XOF 19.5bn (US$32.5m) BOAD loan modernising the finance ministry's data centre, La Poste du Benin's information system and the DGFD's SGIFD/SIRH systems, in implementation (2026-05)](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=XM-DAC-46021-2026008) | Advanced |
-| Canadian financing for the digital transformation of women-led businesses | Baseline not held | [CAD5m for the digital transformation of women-led businesses, one of seven projects in a package of about CAD17m for Benin and West Africa; no implementing partner, start date or duration is named](https://www.canada.ca/en/global-affairs/news/2026/08/minister-anand-concludes-trip-to-benin-and-cote-divoire-to-strengthen-canadas-partnerships-in-west-africa.html) | ***Baseline not held*** |
-| Economic governance for service delivery programme | ***Baseline not held*** | [A World Bank programme-for-results running since financial year 2023, whose results areas reach the tax directorate, public payments and public financial management systems](https://documents1.worldbank.org/curated/en/099092325063510323/pdf/P176763-2035557c-fe0f-4162-a072-04b417dfb137.pdf) | ***Baseline not held*** |
-
-### Domestic budget appropriations and expenditure
+### National statistics
 
 | System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
-| Quarterly budget execution reports (RAPEX) | Published quarterly (2024-12) | [Published quarterly, with a citizen version; latest instalment held covers to 31 March 2025](https://budgetbenin.bj/storage/2025/06/RAPEX-au-31-mars-2025.pdf) | No change |
-| Budget standing of the digital institutions | ***Baseline not held*** | [The data-protection authority carries its own line (488.3m to 738.3m FCFA); the digital and identity agencies carry none](https://assemblee-nationale.bj/index.php/2025/12/04/assemblee-nationale-la-loi-de-finances-gestion-2026-adoptee-a-lunanimite-des-deputes/) | ***Baseline not held*** |
-| Execution of the national digital budget programme | ***Baseline not held*** | [Programme 111 Numérique at 0.62% of credits ordonnancé (2026-04-30), against 15.43% across all programmes](https://budgetbenin.bj/wp-content/uploads/2026/06/Note-de-presentation-du-PLFR-2026.pdf) | ***Baseline not held*** |
+| Public reporting of exchange usage | Did not exist | [Request volumes, members, systems and services published](https://statistiques.xroad.bj/) | Advanced |
+| National statistics office as data custodian | ***Baseline not held*** | [Named among four offices being displaced as primary data producers (2026-03)](https://researchictafrica.net/research/the-evolving-role-of-national-statistics-offices-nsos-as-data-custodians-in-the-digital-age/) | ***Baseline not held*** |
 
-<!-- narrative: finance -->
-The first per-programme execution figures Benin has ever published arrived inside the window, showing the [national digital programme at 0.62% of credits ordonnancé](https://budgetbenin.bj/wp-content/uploads/2026/06/Note-de-presentation-du-PLFR-2026.pdf) at 30 April 2026 against 15.43% across all programmes.
+### Open data
 
-The reading of the estimates volumes established a budget line for the data-protection authority, none for the agency running the CSIRT, the data centre and the PKI, none for the identity agency, and no appearance at all by the telecoms regulator.
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| Open Government Partnership national action plan | Did not exist | [Co-creation opened eighteen months after joining, with commune-level consultation](https://www.lanation.bj/societe/partenariat-pour-un-gouvernement-ouvert-les-communes-entrent-en-action) | Advanced |
+| Budget transparency | ***Baseline not held*** | [Open Budget Survey 2025: 77/100 transparency, 52 participation, 72 oversight](https://fraternite.bj/budget-ouvert-obs-2025-le-benin-se-hisse-parmi-les-references-mondiales-de-la-transparence-budgetaire/) | ***Baseline not held*** |
 
-Two entries are ***Not held*** for the same reason — the performance reports the organic budget law requires have never been published, and no audited figure exists for any digital line — so nothing here can be checked against outturn.
+<!-- narrative: data -->
+
 <!-- /narrative -->
 
 ## Where the record is thin

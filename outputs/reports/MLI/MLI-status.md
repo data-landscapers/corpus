@@ -1,15 +1,15 @@
 ---
 title: Mali — digital transformation and data governance status report
-compiled: 2026-08-23
+compiled: 2026-08-25
 place: MLI
 ledger_rows: 72
 not_held: 3
-record: 4672c8bfa325
+record: 07ec8698c65b
 ---
 
 # Mali: status report
 
-*Compiled 2026-08-23 from the Data Landscapers source base, from `outputs/reports/MLI/ledger.csv` (72 systems and instruments, 3 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-25 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/MLI/ledger.csv` (72 systems and instruments, 3 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -25,7 +25,63 @@ What is thin is money reaching users. The universal access fund [cut its 2026 bu
 A national AI strategy, a data-management law and a national public key infrastructure exist only as [recommendations made at the end of July 2026](https://www.maliweb.net/technologie/4e-edition-de-la-semaine-du-numerique-des-recettes-variees-pour-la-souverainete-numerique-3118872.html).
 <!-- /narrative -->
 
-## Infrastructure
+## Governance
+
+### Strategies, plans and policies
+
+| System or instrument | Status | Milestone |
+|---|---|---|
+| Conseil national du Numerique | [Planned](https://www.maliweb.net/technologie/4e-edition-de-la-semaine-du-numerique-des-recettes-variees-pour-la-souverainete-numerique-3118872.html) | Recommended at the Semaine du Numerique 2026-08-01 |
+| Declaration de Ouagadougou on the digital economy | [Implemented](https://fasomali.com/communique-du-conseil-des-ministres-du-vendredi-7-aout-2026-cm-n2026-31-sgg/) | Adopted at the UEMOA digital economy salon 14-15 July 2026 |
+
+### Legislation and regulation
+
+| System or instrument | Status | Milestone |
+|---|---|---|
+| Data-management law | [Planned](https://www.maliweb.net/technologie/4e-edition-de-la-semaine-du-numerique-des-recettes-variees-pour-la-souverainete-numerique-3118872.html) | Recommended at the Semaine du Numerique 2026-08-01 |
+| Platform-content enforcement instruction | [Implemented](https://bamada.net/communique-officiel-tolerance-zero-contre-les-reseaux-de-depravation-de-pedopornographie-et-de-traite-de-mineurs) | Ministerial instruction to prosecutors 2026-07-29 |
+| Startups law | [Planned](https://www.maliweb.net/technologie/4e-edition-de-la-semaine-du-numerique-des-recettes-variees-pour-la-souverainete-numerique-3118872.html) | Recommended at the Semaine du Numerique 2026-08-01 |
+
+### Data protection
+
+| System or instrument | Status | Milestone |
+|---|---|---|
+| Autorite de Protection des Donnees a caractere Personnel | [Implemented](https://orbiteinfo.com/mali-lapdp-ouvre-sa-2e-session-2026-avec-1-000-dossiers-au-programme/) | Second 2026 session opened 2026-08-03 with more than 1,000 files |
+| Benin and Mali data-protection cooperation | [Implemented](https://www.wearetech.africa/en/fils-uk/news/public-management/benin-and-mali-enhance-data-protection-cooperation) | Cooperation agreed 2025-04-16 |
+| Data-protection authorisation for DDR beneficiary data | [Implemented](https://gouvernement.ml/protection-des-donnees-personnelles-la-cnddr-et-la-cni-se-forment-aux-enjeux-du-ddr-i/) | Three-day training on the authorised processing, 17-19 August 2026 |
+| Loi n2013-015 on personal data protection | [Implemented](https://orbiteinfo.com/mali-lapdp-ouvre-sa-2e-session-2026-avec-1-000-dossiers-au-programme/) | In force since 21 May 2013 as amended |
+| Mandatory lease-declaration decree | [In development](https://fr.apanews.net/community/mali-lapdp-examine-2-000-dossiers-et-un-projet-darrete/) | Draft decree before the authority October 2025 |
+
+### Regional collaboration
+
+| System or instrument | Status | Milestone |
+|---|---|---|
+| AES protocol on AI governance | [Planned](https://www.maliweb.net/technologie/4e-edition-de-la-semaine-du-numerique-des-recettes-variees-pour-la-souverainete-numerique-3118872.html) | Recommended at the Semaine du Numerique 2026-08-01 |
+| Membership of the African Telecommunications Union board | [Implemented](https://gouvernement.ml/communique-du-conseil-des-ministres-cm-n2026-30-sgg/) | Re-elected for 2027-2031 at the Abuja plenipotentiary |
+| Smart Africa cooperation | [Implemented](https://techafricanews.com/2026/03/10/mwc-2026-mali-strengthens-digital-cooperation-with-smart-africa/) | Ministerial meeting at MWC 2026 |
+
+<!-- narrative: governance -->
+The authority here is older than the systems it regulates. Loi n2013-015 has been in force since May 2013 and the APDP enforces under it: [about 2,000 declaratory files reviewed in 2025, with one 5m FCFA fine and more than 100 formal notices](https://fr.apanews.net/community/mali-lapdp-examine-2-000-dossiers-et-un-projet-darrete/), a [regional antenna at Segou](https://lessor.ml/posts/autorite-de-protection-des-donnees-a-caractere-personnel-la-region-de-segou-a-son-antenne-6932a107b56bd), and [more than 1,000 files before a ten-day session opened on 3 August 2026](https://orbiteinfo.com/mali-lapdp-ouvre-sa-2e-session-2026-avec-1-000-dossiers-au-programme/). No figures for sanctions issued or files cleared are published, so the docket is a workload count.
+
+Platform regulation took the opposite route. On [29 July 2026 the justice minister instructed prosecutors](https://bamada.net/communique-officiel-tolerance-zero-contre-les-reseaux-de-depravation-de-pedopornographie-et-de-traite-de-mineurs) to act against content networks using penal and cybercrime provisions already on the books — no new statute, no notification to platforms, and enforcement duties pushed onto parents, landlords and hotel keepers. Five days later the cybercrime pole [sentenced Chahana Takiou, publication director of 22 septembre, to 12 months with six suspended](https://lessor.ml/posts/mali-le-journaliste-chahana-takiou-ecope-dune-peine-de-12-mois-dont-6-avec-sursis-6a70f92a500ac) for arguing that journalists should be tried under press-offence law rather than cybercrime law. Neither the judgment nor the charging instrument is held.
+
+Three instruments exist only as [recommendations from the Semaine du Numerique of 1 August 2026](https://www.maliweb.net/technologie/4e-edition-de-la-semaine-du-numerique-des-recettes-variees-pour-la-souverainete-numerique-3118872.html): a data-management law, a startups law and a Conseil national du Numerique. Externally, Mali was [re-elected to the African Telecommunications Union board for 2027-2031](https://gouvernement.ml/communique-du-conseil-des-ministres-cm-n2026-30-sgg/) and [spoke for the three AES states at the UEMOA digital economy salon](https://fasomali.com/communique-du-conseil-des-ministres-du-vendredi-7-aout-2026-cm-n2026-31-sgg/). The European Commission states [the EUR 151m committed for 2021-2024 has no 2025-2027 successor](https://international-partnerships.ec.europa.eu/countries/mali_en), funding running instead through a shared central-Sahel allocation with no digital activity named. An academic evaluation [finds no single access-to-information law](https://www.revue-irs.com/index.php/home/article/view/1637), the right split across Loi 98-012, Loi 2013-015 and Loi 2017-062.
+<!-- /narrative -->
+
+## Finance
+
+### New investments
+
+| System or instrument | Status | Milestone |
+|---|---|---|
+| AGEFAU conventions with the education and employment ministries | [Implemented](https://primature.ml/signature-a-la-primature-de-convention-entre-agefau-et-ministeres-charges-de-leducation-et-de-lemploi/) | Two four-year renewable conventions signed 2026-07-22 |
+| Agence de Gestion du Fonds d'Acces Universel | [Implemented](https://primature.ml/11e-session-ordinaire-du-conseil-dadministration-de-lagence-de-gestion-du-fonds-dacces-universel/) | New director-general named 2026-07-23 |
+
+<!-- narrative: finance -->
+The universal access fund is where Mali's inclusion money sits and where the record is sharpest. AGEFAU [cut its 2026 budget by 32%, from FCFA 41,151,471,000 to FCFA 27,886,688,000, on 23 July 2026](https://primature.ml/11e-session-ordinaire-du-conseil-dadministration-de-lagence-de-gestion-du-fonds-dacces-universel/), after spending 8% of the annual budget in the first half against receipts at 56% of forecast. In the same week it [signed two four-year conventions with the education and employment ministries](https://primature.ml/signature-a-la-primature-de-convention-entre-agefau-et-ministeres-charges-de-leducation-et-de-lemploi/), committing cumulative education spend under the conventions to above FCFA 17bn.
+<!-- /narrative -->
+
+## ICT Infrastructure
 
 ### Connectivity
 
@@ -66,7 +122,7 @@ A national AI strategy, a data-management law and a national public key infrastr
 | Criminal chamber of the national cybercrime pole | [Implemented](https://www.lessor.ml/posts/pole-de-lutte-contre-la-cybercriminalite-le-ministre-kassogue-salue-loperationnalisation-de-la-chambre-criminelle-6a0efcf332029) | Began hearing cases 2026-05-21, four cases and eight accused |
 | National Cybersecurity Strategy 2026-2030 | [Implemented](https://www.wearetech.africa/fr/fils/actualites/gestion-publique/cybersecurite-le-mali-prepare-un-cadre-national-coordonne-pour-2026-2030) | Adopted by the Council of Ministers 2025-12-09 |
 
-<!-- narrative: infrastructure -->
+<!-- narrative: ict-infrastructure -->
 The [Tier III National Data Centre, inaugurated on 31 January 2026 with a stated availability of 99.982%](https://www.datacenterdynamics.com/en/news/government-of-mali-launches-data-center-in-bamako), is the centrepiece, and no rack, floor or power capacity figure has been published for it. The institutional cyber stack was assembled around it in the same twelve months: a [National Cybersecurity Strategy 2026-2030 adopted in December 2025](https://www.wearetech.africa/fr/fils/actualites/gestion-publique/cybersecurite-le-mali-prepare-un-cadre-national-coordonne-pour-2026-2030), [ANSSI created in June 2026](https://maliactuel.com/cybersecurite-le-mali-se-dote-dune-agence-nationale-pour-proteger-ses-systemes-dinformation/), and the cybercrime pole's [criminal chamber hearing its first four cases in May 2026](https://www.lessor.ml/posts/pole-de-lutte-contre-la-cybercriminalite-le-ministre-kassogue-salue-loperationnalisation-de-la-chambre-criminelle-6a0efcf332029).
 
 Access is carried by two operators. Orange Mali is building [300 4G towers, half of them rural, and fibre to about 300,000 households under a EUR 80m IFC-led loan](https://www.ifc.org/en/pressroom/2025/ifc-invests-in-orange-mali-to-expand-digital-connectivity-and-support-women-s-digi), with diesel-to-solar site conversion in scope; Moov Africa Malitel [doubled fibre speeds to up to 100 Mbps across six cities in June 2026](https://www.ecofinagency.com/news-digital/1506-56460-moov-africa-upgrades-fiber-service-amid-rising-internet-use-in-mali) and [announced ADSL retirement for end-2026](https://www.maliweb.net/communique-391/moov-africa-malitel-tourne-la-page-de-ladsl-la-migration-vers-la-fibre-optique-ftth-lancee-dici-fin-2026-3118639.html). [Satellite 3G and 4G reaches about 360,000 remote residents](https://techafricanews.com/2025/05/07/orange-mali-and-intelsat-bring-4g-connectivity-to-malis-hard-to-reach-regions/).
@@ -76,7 +132,7 @@ International routing improved without any Malian asset changing hands: [CSquare
 Two positions are recommendations rather than systems: [a law making SMTD-SA the sole national operator of transport infrastructure](https://www.maliweb.net/technologie/4e-edition-de-la-semaine-du-numerique-des-recettes-variees-pour-la-souverainete-numerique-3118872.html), and [universal connectivity by 2030](https://malijet.com/a_la_une_du_mali/310877-semaine-du-numerique-2026-jour-1-panel-1.html). A named-analyst investigation carried by Maliweb reports [AFRIBONE as the sole surviving independent provider](https://www.maliweb.net/contributions/deviations-institutionnelles-et-oligopole-du-numerique-en-afrique-de-louest-la-manne-sequestree-aux-origines-de-la-captation-du-fonds-dacces-universel-au-mali-3118719.html), buying wholesale IP transit at near-retail prices. Starlink kit imports remain restricted: after an October 2024 lifting, AMRTP [restated the ban on unauthorised equipment in March 2026](https://lepays.ml/starlink-wifi-zone-non-homologues-lamrtp-rappelle-linterdiction/) and [announced seizure and dismantling operations in June 2026](https://libreinfos.com/2026/07/02/telecommunications-letat-declare-la-guerre-aux-exploitants-illegaux-de-wifi-zone-starlink-et-talkie-walkie/).
 <!-- /narrative -->
 
-## Digital public infrastructure
+## DPI
 
 ### Data Exchange
 
@@ -105,7 +161,7 @@ Two positions are recommendations rather than systems: [a law making SMTD-SA the
 | Orange Money prepaid Mastercard | [Implemented](https://www.maliweb.net/economie/cooperation/monnaie-numerique-moderniser-les-paiements-3105976.html) | Launched with Orabank Mali 2025-06-05 |
 | TresorPay | [Implemented](https://www.wearetech.africa/en/fils-uk/news/tech/mali-unveils-digital-platforms-for-payments-land-management) | Launched 2025-03-18 for identity fees and fines |
 
-### Registries (population, land, address, etc.)
+### Registries
 
 | System or instrument | Status | Milestone |
 |---|---|---|
@@ -113,7 +169,7 @@ Two positions are recommendations rather than systems: [a law making SMTD-SA the
 | National Agency for the Security of Civil Status Documents | [Implemented](https://www.biometricupdate.com/202506/chad-mali-senegal-pursue-birth-registration-reforms-to-close-gaps) | Created in 2025 |
 | SIF/GUF land information system and one-stop land office | [Implemented](https://www.wearetech.africa/en/fils-uk/news/tech/mali-unveils-digital-platforms-for-payments-land-management) | Launched 2025-03-18 |
 
-### Sectoral management information systems (HMIS, EMIS, etc.)
+### Sectoral management information systems
 
 | System or instrument | Status | Milestone |
 |---|---|---|
@@ -134,18 +190,6 @@ Two positions are recommendations rather than systems: [a law making SMTD-SA the
 | SIGIP territorial administration data management | [In development](https://www.ecofinagency.com/news-digital/1709-48777-mali-rolls-out-new-digital-tools-to-modernize-public-administration) | Presented 2025-09-16 |
 | Sigui-Dolo driving licence and vehicle registration | [Implemented](https://www.ecofinagency.com/news-digital/1709-48777-mali-rolls-out-new-digital-tools-to-modernize-public-administration) | Presented 2025-09-16 |
 
-### Digitalisation of sub-national government
-
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Koutiala commune fiscal census and financial management digitisation | [In development](https://www.idsahel.com/2026/08/13/koutiala-un-projet-de-recensement-fiscal-et-de-digitalisation-pour-renforcer-la-gestion-des-ressources-communales/) | Presented to the commune 2026-03-06 |
-
-### National statistics
-
-| System or instrument | Status | Milestone |
-|---|---|---|
-| INSTAT microdata catalogue | [Implemented](https://microdata.instat.ml/index.php/catalog/) | 107 studies held in INSTAT's own NADA archive as of capture 2026-08-10 |
-
 <!-- narrative: dpi -->
 Identity runs through the confederation. The [E-AES passport is issued in five categories to ICAO specification](https://www.lesahel.org/editorial-passeports-biometriques-aes/), supplied by Emptech since October 2025; the [CIB-AES card was piloted in Bamako in June 2026 for Burkinabe residents](https://afriktimes.info/2026/06/02/aes-diaspora-identification-successful-pilot-phase-in-bamako-for-the-instant-production-of-documents/), on [specifications the three AES security ministers validated in November 2024](https://bamada.net/libre-circulation-dans-laes-validation-des-passeports-et-cartes-didentite-harmonises-par-les-ministres-de-la-securite). Domestically the [NINA number authenticates service applications](https://www.maliweb.net/societe/le-ministere-de-la-justice-a-lere-du-numerique-voici-le-casier-et-la-nationalite-en-ligne-3113977.html), while [birth registration stands at 89.5% across 747 functional centres and death registration at about 20%](https://www.biometricupdate.com/202506/chad-mali-senegal-pursue-birth-registration-reforms-to-close-gaps).
 
@@ -158,62 +202,19 @@ Payments have two state flows and one market. Pension payment has a completed ba
 Government's own systems are being wired together: [13 services on the AGETIC intranet and 13,441 domain names under .ml](https://lessor.ml/posts/cyber-espace-le-mali-renforce-sa-viabilite-avec-le-point-ml-69538f175e535), an integrated human-resources system in build, and a monitoring system that [published a completion rate of 43.43% for the second half of 2025](https://gouvernement.ml/communique-du-conseil-des-ministres-cm-n2026-30-sgg/). A national public key infrastructure is recommended and not built. INSTAT runs [its own microdata catalogue — a NADA archive of 107 studies led by the 2022 census (August 2026)](https://microdata.instat.ml/index.php/catalog/).
 <!-- /narrative -->
 
-## Governance and regulation
+## Digitalisation
 
-### Legislation and regulation
-
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Data-management law | [Planned](https://www.maliweb.net/technologie/4e-edition-de-la-semaine-du-numerique-des-recettes-variees-pour-la-souverainete-numerique-3118872.html) | Recommended at the Semaine du Numerique 2026-08-01 |
-| Platform-content enforcement instruction | [Implemented](https://bamada.net/communique-officiel-tolerance-zero-contre-les-reseaux-de-depravation-de-pedopornographie-et-de-traite-de-mineurs) | Ministerial instruction to prosecutors 2026-07-29 |
-| Startups law | [Planned](https://www.maliweb.net/technologie/4e-edition-de-la-semaine-du-numerique-des-recettes-variees-pour-la-souverainete-numerique-3118872.html) | Recommended at the Semaine du Numerique 2026-08-01 |
-
-### Strategies, plans and policies
+### Digitalisation of sub-national government
 
 | System or instrument | Status | Milestone |
 |---|---|---|
-| Conseil national du Numerique | [Planned](https://www.maliweb.net/technologie/4e-edition-de-la-semaine-du-numerique-des-recettes-variees-pour-la-souverainete-numerique-3118872.html) | Recommended at the Semaine du Numerique 2026-08-01 |
-| Declaration de Ouagadougou on the digital economy | [Implemented](https://fasomali.com/communique-du-conseil-des-ministres-du-vendredi-7-aout-2026-cm-n2026-31-sgg/) | Adopted at the UEMOA digital economy salon 14-15 July 2026 |
+| Koutiala commune fiscal census and financial management digitisation | [In development](https://www.idsahel.com/2026/08/13/koutiala-un-projet-de-recensement-fiscal-et-de-digitalisation-pour-renforcer-la-gestion-des-ressources-communales/) | Presented to the commune 2026-03-06 |
 
-### Regional collaboration
+<!-- narrative: digitalisation -->
 
-| System or instrument | Status | Milestone |
-|---|---|---|
-| AES protocol on AI governance | [Planned](https://www.maliweb.net/technologie/4e-edition-de-la-semaine-du-numerique-des-recettes-variees-pour-la-souverainete-numerique-3118872.html) | Recommended at the Semaine du Numerique 2026-08-01 |
-| Membership of the African Telecommunications Union board | [Implemented](https://gouvernement.ml/communique-du-conseil-des-ministres-cm-n2026-30-sgg/) | Re-elected for 2027-2031 at the Abuja plenipotentiary |
-| Smart Africa cooperation | [Implemented](https://techafricanews.com/2026/03/10/mwc-2026-mali-strengthens-digital-cooperation-with-smart-africa/) | Ministerial meeting at MWC 2026 |
-
-### Data protection
-
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Autorite de Protection des Donnees a caractere Personnel | [Implemented](https://orbiteinfo.com/mali-lapdp-ouvre-sa-2e-session-2026-avec-1-000-dossiers-au-programme/) | Second 2026 session opened 2026-08-03 with more than 1,000 files |
-| Benin and Mali data-protection cooperation | [Implemented](https://www.wearetech.africa/en/fils-uk/news/public-management/benin-and-mali-enhance-data-protection-cooperation) | Cooperation agreed 2025-04-16 |
-| Data-protection authorisation for DDR beneficiary data | [Implemented](https://gouvernement.ml/protection-des-donnees-personnelles-la-cnddr-et-la-cni-se-forment-aux-enjeux-du-ddr-i/) | Three-day training on the authorised processing, 17-19 August 2026 |
-| Loi n2013-015 on personal data protection | [Implemented](https://orbiteinfo.com/mali-lapdp-ouvre-sa-2e-session-2026-avec-1-000-dossiers-au-programme/) | In force since 21 May 2013 as amended |
-| Mandatory lease-declaration decree | [In development](https://fr.apanews.net/community/mali-lapdp-examine-2-000-dossiers-et-un-projet-darrete/) | Draft decree before the authority October 2025 |
-
-### EU activities
-
-| System or instrument | Status | Milestone |
-|---|---|---|
-| EU multiannual indicative programme 2021-2027 | [Discontinued](https://international-partnerships.ec.europa.eu/countries/mali_en) | European Commission country page states Mali is funded from the central-Sahel complex-settings allocation for 2025-2027 rather than a dedicated country programme |
-
-### Open data
-
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Open-data portal or policy | ***Not held, searched 2026-08-10 — no single access-to-information law found; the right is split across Loi 98-012, Loi 2013-015 and Loi 2017-062*** | — |
-
-<!-- narrative: governance -->
-The authority here is older than the systems it regulates. Loi n2013-015 has been in force since May 2013 and the APDP enforces under it: [about 2,000 declaratory files reviewed in 2025, with one 5m FCFA fine and more than 100 formal notices](https://fr.apanews.net/community/mali-lapdp-examine-2-000-dossiers-et-un-projet-darrete/), a [regional antenna at Segou](https://lessor.ml/posts/autorite-de-protection-des-donnees-a-caractere-personnel-la-region-de-segou-a-son-antenne-6932a107b56bd), and [more than 1,000 files before a ten-day session opened on 3 August 2026](https://orbiteinfo.com/mali-lapdp-ouvre-sa-2e-session-2026-avec-1-000-dossiers-au-programme/). No figures for sanctions issued or files cleared are published, so the docket is a workload count.
-
-Platform regulation took the opposite route. On [29 July 2026 the justice minister instructed prosecutors](https://bamada.net/communique-officiel-tolerance-zero-contre-les-reseaux-de-depravation-de-pedopornographie-et-de-traite-de-mineurs) to act against content networks using penal and cybercrime provisions already on the books — no new statute, no notification to platforms, and enforcement duties pushed onto parents, landlords and hotel keepers. Five days later the cybercrime pole [sentenced Chahana Takiou, publication director of 22 septembre, to 12 months with six suspended](https://lessor.ml/posts/mali-le-journaliste-chahana-takiou-ecope-dune-peine-de-12-mois-dont-6-avec-sursis-6a70f92a500ac) for arguing that journalists should be tried under press-offence law rather than cybercrime law. Neither the judgment nor the charging instrument is held.
-
-Three instruments exist only as [recommendations from the Semaine du Numerique of 1 August 2026](https://www.maliweb.net/technologie/4e-edition-de-la-semaine-du-numerique-des-recettes-variees-pour-la-souverainete-numerique-3118872.html): a data-management law, a startups law and a Conseil national du Numerique. Externally, Mali was [re-elected to the African Telecommunications Union board for 2027-2031](https://gouvernement.ml/communique-du-conseil-des-ministres-cm-n2026-30-sgg/) and [spoke for the three AES states at the UEMOA digital economy salon](https://fasomali.com/communique-du-conseil-des-ministres-du-vendredi-7-aout-2026-cm-n2026-31-sgg/). The European Commission states [the EUR 151m committed for 2021-2024 has no 2025-2027 successor](https://international-partnerships.ec.europa.eu/countries/mali_en), funding running instead through a shared central-Sahel allocation with no digital activity named. An academic evaluation [finds no single access-to-information law](https://www.revue-irs.com/index.php/home/article/view/1637), the right split across Loi 98-012, Loi 2013-015 and Loi 2017-062.
 <!-- /narrative -->
 
-## Artificial intelligence and the technology sector
+## Technology
 
 ### AI
 
@@ -230,43 +231,13 @@ Three instruments exist only as [recommendations from the Semaine du Numerique o
 |---|---|---|
 | State shareholding in SOTELMA | [Implemented](https://africa.businessinsider.com/local/lifestyle/17-years-after-privatization-mali-regains-control-of-a-strategic-telecom-asset/lkc81zm) | State stake raised from 49% to 56% for FCFA 160bn |
 
-### US / hyperscaler activities
-
-| System or instrument | Status | Milestone |
-|---|---|---|
-| United States bilateral digital cooperation | ***Not held*** | — |
-
-### China activities
-
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Foreign supplier of national identity documents | [Implemented](https://idtechwire.com/mali-launches-e-aes-biometric-passport-taps-chinas-emptech-in-digital-sovereignty-move) | Emptech replaced Idemia as passport supplier October 2025 |
-
-### India activities
-
-| System or instrument | Status | Milestone |
-|---|---|---|
-| India bilateral digital cooperation | ***Not held*** | — |
-
-### Gulf/UAE activities
-
-| System or instrument | Status | Milestone |
-|---|---|---|
-| e& Partner2Connect digital-infrastructure pledge | [Implemented, undivided among 16 markets](https://www.thenationalnews.com/future/technology/2024/03/01/uaes-e-commits-6bn-to-advance-technology-infrastructure-in-16-countries/) | $6bn pledged to ITU's Partner2Connect coalition across 16 markets 2024-03-01 |
-
-<!-- narrative: ai-tech -->
+<!-- narrative: technology -->
 Mali has no national AI strategy. One was [recommended on 1 August 2026](https://www.maliweb.net/technologie/4e-edition-de-la-semaine-du-numerique-des-recettes-variees-pour-la-souverainete-numerique-3118872.html), and the only AI-governance instrument the country has joined is the [Francophone West African guidelines adopted with five other states in July 2026](https://www.wearetech.africa/en/fils-uk/news/tech/six-francophone-west-african-countries-unite-on-ai-governance-framework). The [Centre d'intelligence artificielle et de robotique](https://lessor.ml/posts/semaine-du-numerique-notre-pays-veut-accelerer-sa-transformation-digitale-6a6e52f6dcfc0) has one demonstration on record, of a locally built intrusion-detection technology; the other AI system on the ledger is an [operator's customer assistant launched in June 2026](https://www.ecofinagency.com/news-digital/1506-56460-moov-africa-upgrades-fiber-service-amid-rising-internet-use-in-mali).
 
 The sector's largest movement was ownership rather than technology. The state [raised its stake in SOTELMA from 49% to 56% for FCFA 160bn in June 2026](https://africa.businessinsider.com/local/lifestyle/17-years-after-privatization-mali-regains-control-of-a-strategic-telecom-asset/lkc81zm), cutting Maroc Telecom to a minority 17 years after privatisation, and the [passport supplier changed from Idemia of France to Emptech of China in October 2025](https://idtechwire.com/mali-launches-e-aes-biometric-passport-taps-chinas-emptech-in-digital-sovereignty-move), which officials described as regained sovereignty and local data management. No United States or India bilateral digital instrument is held. UAE operator e& [committed $6bn to the ITU's Partner2Connect coalition across 16 markets including Mali and Niger, in March 2024](https://www.thenationalnews.com/future/technology/2024/03/01/uaes-e-commits-6bn-to-advance-technology-infrastructure-in-16-countries/), undivided, with no Mali-specific figure.
 <!-- /narrative -->
 
-## Inclusion and capacity
-
-### Digital divides
-
-| System or instrument | Status | Milestone |
-|---|---|---|
-| Women's digital-training target | [Planned](https://www.ifc.org/en/pressroom/2025/ifc-invests-in-orange-mali-to-expand-digital-connectivity-and-support-women-s-digi) | 70% by 2032 target set in the IFC-led loan |
+## Capacity
 
 ### Training and skills
 
@@ -281,23 +252,76 @@ The sector's largest movement was ownership rather than technology. The state [r
 |---|---|---|
 | Higher-education and research digital capacity | [In development](https://dg-enseignementsup.ml/wp-content/uploads/2024/10/Document-de-Politique-Nationale-de-ES.pdf) | Universite Numerique du Mali strategic framework and action plan validated 2024-05-07 |
 
+<!-- narrative: capacity -->
+
+<!-- /narrative -->
+
+## Inclusion
+
+### Digital divides
+
+| System or instrument | Status | Milestone |
+|---|---|---|
+| Women's digital-training target | [Planned](https://www.ifc.org/en/pressroom/2025/ifc-invests-in-orange-mali-to-expand-digital-connectivity-and-support-women-s-digi) | 70% by 2032 target set in the IFC-led loan |
+
 <!-- narrative: inclusion -->
 AGEFAU, the universal access fund, [signed two four-year conventions with the education and employment ministries](https://primature.ml/signature-a-la-primature-de-convention-entre-agefau-et-ministeres-charges-de-leducation-et-de-lemploi/), committing it to connect every secondary, technical and vocational school by end-2027. The fund sits under direct Primature tutelle, an arrangement a [named-analyst investigation dates to 2012](https://www.maliweb.net/contributions/deviations-institutionnelles-et-oligopole-du-numerique-en-afrique-de-louest-la-manne-sequestree-aux-origines-de-la-captation-du-fonds-dacces-universel-au-mali-3118719.html) and contrasts with the regulator-attached funds of neighbouring states.
 
 Skills programmes are being opened faster than they are being measured. Recruitment for the first cohort of a [15,000-youth programme with the Association Kabakoo opened on 1 August 2026](https://lessor.ml/posts/semaine-du-numerique-notre-pays-veut-accelerer-sa-transformation-digitale-6a6e52f6dcfc0); an operator reports [350 graduates placed](https://www.maliweb.net/formation-professionnelle/metiers-au-numerique-orange-met-350-jeunes-talents-sur-le-marche-du-travail-3118599.html); and eight teacher-training institutes received [FCFA 88,740,927 of Japan-funded equipment](https://www.unesco.org/fr/articles/lunesco-remet-des-equipements-et-materiels-informatiques-au-ministere-de-leducation-nationale-au) with no maintenance, connectivity or software provision stated. The IFC-led loan carries a [70%-by-2032 women's digital-training target](https://www.ifc.org/en/pressroom/2025/ifc-invests-in-orange-mali-to-expand-digital-connectivity-and-support-women-s-digi) with no interim figure. A [2009 ministry policy document recorded no long-term national research strategic plan](https://dg-enseignementsup.ml/wp-content/uploads/2024/10/Document-de-Politique-Nationale-de-ES.pdf), against a 1:100 teacher-student ratio at Bamako. [UNESCO backed validation of a strategic framework for the planned Université Numérique du Mali in May 2024](https://www.unesco.org/fr/articles/lunesco-soutient-loperationnalisation-de-luniversite-numerique-du-mali), citing 132,186 students across 16 institutions and an 81:1 ratio against its own 25:1 norm; no creation decree has followed.
 <!-- /narrative -->
 
-## Finance
+## Data
 
-### New investments
+### National statistics
 
 | System or instrument | Status | Milestone |
 |---|---|---|
-| AGEFAU conventions with the education and employment ministries | [Implemented](https://primature.ml/signature-a-la-primature-de-convention-entre-agefau-et-ministeres-charges-de-leducation-et-de-lemploi/) | Two four-year renewable conventions signed 2026-07-22 |
-| Agence de Gestion du Fonds d'Acces Universel | [Implemented](https://primature.ml/11e-session-ordinaire-du-conseil-dadministration-de-lagence-de-gestion-du-fonds-dacces-universel/) | New director-general named 2026-07-23 |
+| INSTAT microdata catalogue | [Implemented](https://microdata.instat.ml/index.php/catalog/) | 107 studies held in INSTAT's own NADA archive as of capture 2026-08-10 |
 
-<!-- narrative: finance -->
-The universal access fund is where Mali's inclusion money sits and where the record is sharpest. AGEFAU [cut its 2026 budget by 32%, from FCFA 41,151,471,000 to FCFA 27,886,688,000, on 23 July 2026](https://primature.ml/11e-session-ordinaire-du-conseil-dadministration-de-lagence-de-gestion-du-fonds-dacces-universel/), after spending 8% of the annual budget in the first half against receipts at 56% of forecast. In the same week it [signed two four-year conventions with the education and employment ministries](https://primature.ml/signature-a-la-primature-de-convention-entre-agefau-et-ministeres-charges-de-leducation-et-de-lemploi/), committing cumulative education spend under the conventions to above FCFA 17bn.
+### Open data
+
+| System or instrument | Status | Milestone |
+|---|---|---|
+| Open-data portal or policy | ***Not held, searched 2026-08-10 — no single access-to-information law found; the right is split across Loi 98-012, Loi 2013-015 and Loi 2017-062*** | — |
+
+<!-- narrative: data -->
+
+<!-- /narrative -->
+
+## Geopolitics
+
+### US / hyperscaler activities
+
+| System or instrument | Status | Milestone |
+|---|---|---|
+| United States bilateral digital cooperation | ***Not held*** | — |
+
+### China activities
+
+| System or instrument | Status | Milestone |
+|---|---|---|
+| Foreign supplier of national identity documents | [Implemented](https://idtechwire.com/mali-launches-e-aes-biometric-passport-taps-chinas-emptech-in-digital-sovereignty-move) | Emptech replaced Idemia as passport supplier October 2025 |
+
+### EU activities
+
+| System or instrument | Status | Milestone |
+|---|---|---|
+| EU multiannual indicative programme 2021-2027 | [Discontinued](https://international-partnerships.ec.europa.eu/countries/mali_en) | European Commission country page states Mali is funded from the central-Sahel complex-settings allocation for 2025-2027 rather than a dedicated country programme |
+
+### Gulf/UAE activities
+
+| System or instrument | Status | Milestone |
+|---|---|---|
+| e& Partner2Connect digital-infrastructure pledge | [Implemented, undivided among 16 markets](https://www.thenationalnews.com/future/technology/2024/03/01/uaes-e-commits-6bn-to-advance-technology-infrastructure-in-16-countries/) | $6bn pledged to ITU's Partner2Connect coalition across 16 markets 2024-03-01 |
+
+### India activities
+
+| System or instrument | Status | Milestone |
+|---|---|---|
+| India bilateral digital cooperation | ***Not held*** | — |
+
+<!-- narrative: geopolitics -->
+
 <!-- /narrative -->
 
 ## Gaps to fill

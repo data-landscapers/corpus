@@ -1,16 +1,14 @@
 ---
-title: Tunisia — progress report, 2025-08-01 to 2026-08-25
+title: Tunisia — progress report, August 2025 – August 2026
 compiled: 2026-08-25
 period: 2025-08-01 to 2026-08-25
 place: TUN
 ledger_rows: 76
 not_held: 9
-record: 8f538286915e
+record: 8d4634d924e1
 ---
 
-# Tunisia: progress report, 2025-08-01 to 2026-08-25
-
-*Compiled 2026-08-25 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
+# Tunisia: progress report, August 2025 – August 2026
 
 *Of 76 systems and instruments on this place's ledger, 44 changed position between 2025-08-01 and 2026-08-25, 8 did not, 15 carry no stated baseline, and 9 are ***Not held*** at both ends.*
 
@@ -28,7 +26,70 @@ The instrument that would govern all of it did not change. The [2004 organic law
 Physical capacity moved once and decisively: the [Medusa cable's Bizerte landing went into service on 3 June 2026](https://www.connectingafrica.com/connectivity/medusa-s-viatunisa-subsea-cable-now-live). Hosting did not move at all — the data centres named in the plan and the memoranda are at the same prospective stage at both ends of the window.
 <!-- /narrative -->
 
-## Infrastructure
+## Governance
+
+### Strategies, plans and policies
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| Digital content of the development plan annex | Not held; the plan's digital content was known only from official statements about it (2025-08) | [Held in full: the sectoral volume mentions digital or digitalisation 414 times, artificial intelligence 119, data 72 and cybersecurity 9, makes the digital economy a pillar of human-capital development, and commits to integration into the global digital landscape while preserving digital sovereignty (2026-06)](https://www.arp.tn/loi/project/4315) | Advanced |
+| Digital Tunisia 2020-2025 | In force in its final year (2025-08) | [Lapsed; no extension, repeal or outcomes report is held, so what it delivered against its own objectives is unestablished (2026-08)](https://pm.gov.tn/fr/decision-gouvernementale/zenzri-lors-dun-conseil-ministeriel-2026-annee-du-demarrage-effectif-de-la) | Closed |
+| Ministerial council on digitalisation | Did not exist | [A ministerial council devoted to digitalisation, chaired by the head of government, who stated that digitalisation is a necessity rather than a choice](https://pm.gov.tn/fr/decision-gouvernementale/zenzri-lors-dun-conseil-ministeriel-la-digitalisation-nest-pas-un-choix) | Advanced |
+| National digital transformation vision | Did not exist; the sectoral strategy that preceded it was in its final year (2025-08) | [A chapter of the five-year development plan coordinated by the economy and planning ministry rather than a sectoral strategy owned by the communication technologies ministry, with 192 digital-transformation projects under cabinet follow-up (2026-02)](https://pm.gov.tn/fr/decision-gouvernementale/zenzri-lors-dun-conseil-ministeriel-2026-annee-du-demarrage-effectif-de-la) | Advanced |
+
+### Legislation and regulation
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| Compulsory e-invoicing (Article 53) | Legislated to take effect 1 January 2026 for all service providers regardless of invoice value or firm size (2025-08) | [Under amendment: parliament's memo records that no unified national e-invoicing system yet exists and that mass e-invoicing raises serious personal- and professional-data protection issues, and the amendment mandates a 30-day joint ministerial report on readiness and data-protection compliance before a phased timeline (2026-02)](https://www.assabahnews.tn/ar/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D9%88-%D8%A7%D8%B9%D9%85%D8%A7%D9%84/139940-%D9%81%D9%8A-%D8%AC%D9%84%D8%B3%D8%A9-%D9%85%D8%B4%D8%AA%D8%B1%D9%83%D8%A9-%D9%84%D8%AC%D9%86%D8%AA%D8%A7%D9%86-%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%AA%D8%A7%D9%86-%D8%AA%D9%86%D8%A7%D9%82%D8%B4%D8%A7%D9%86-%D9%85%D9%82%D8%AA%D8%B1%D8%AD%D8%A7-%D9%84%D8%AA%D9%86%D9%82%D9%8A%D8%AD-%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%A7%D9%84%D9%81%D9%88%D8%AA%D8%B1%D8%A9-%D8%A7%D9%84%D8%A7%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A9) | Advanced |
+| Development Plan 2026-2030 (loi n 2026-16) | Did not exist as an adopted instrument | [Promulgated as the binding reference for public policy to 2030 under articles 75 and 77 of the Constitution, adopted by the Assembly on 10 July and the Council of Regions on 17 July (2026-07)](https://www.9anoun.tn/fr/kb/jorts/jort-2026-073-5e980/loi-ndeg-2026-16-du-20-juillet-2026-portant-approbation-du-plan-de-developpement-2026-2030-4) | Advanced |
+| Organic Laws 22 and 23 of 2024 on biometric identity | In force; use was targeted for the first half of 2025 and unconfirmed (2025-08) | [In force; nothing held confirms issuance has begun, and an amendment to prohibit a centralised biometric database held by the interior ministry was introduced the day before the vote and dismissed (2026-08)](https://www.accessnow.org/press-release/tunisia-biometric-id-passport-bills-passed) | No change |
+
+### Data protection
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| Draft organic law on personal data protection | Did not exist | [132 articles across six titles as deposited on 2025-07-14, introducing a data protection officer role, obliging public institutions to obtain authorisation for any processing, shifting enforcement to financial penalties through a sanctions department, and naming the press, surveillance cameras, algorithms and cross-border transfers as the uncovered domains; under committee review and not passed (2026-02)](https://www.arp.tn/loi/project/4237) | Advanced |
+| National authority for personal data protection | Constituted under the 2004 law, with no enforcement action, decision or annual report held (2025-08) | [Unchanged; the sponsors of the replacement bill cite its limited role as the institutional gap the bill exists to close, and it is named in none of the year's new data-concentrating systems (2026-08)](https://en.africanmanager.com/personal-data-protection-tunisian-parliament-moves-to-curb-ai-and-algorithm-risks/) | No change |
+| Organic Law 2004-63 on personal data protection | In force and described by civil society as unfit for the processing the state now does (2025-08) | [Still the governing instrument; a 123-article replacement is in committee and has not passed (2026-08)](https://en.africanmanager.com/personal-data-protection-tunisian-parliament-moves-to-curb-ai-and-algorithm-risks/) | No change |
+
+### Regional collaboration
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| African Telecommunications Union council seat | Did not exist | [A 2027-2030 seat on the administrative council, giving a vote on continental direction across digital transformation, artificial intelligence, cybersecurity and capacity building; no statement of what Tunisia intends to press for is reported (2026-07)](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/151071) | Advanced |
+| AI Innovation and Technological Solutions Working Group chair (Arab League) | Did not exist | [Chairs the Arab Permanent Committee on Artificial Intelligence and Emerging Technologies' AI Innovation and Technological Solutions Working Group, one of six working-group chairs allocated across five Arab states at the committee's second inaugural meeting in Tunis in July 2026; no published statement of Tunisia's agenda for the seat (2026-08)](https://www.businesstec.news/23334) | Advanced |
+| Algeria-Tunisia telecommunications cooperation | Did not exist | [Expanded cooperation announced across telecommunications and information technology; no instrument, amount or workplan published (2026-06)](https://techafricanews.com/2026/06/09/algeria-and-tunisia-expand-cooperation-in-telecommunications-and-ict-sector/) | Advanced |
+| Triangular startup ecosystem programme with Japan | Did not exist | [A 2026-2028 programme convening African participants in Tunis on building startup ecosystems, with Tunisia's own Startup Act as the curriculum and the first session in December 2026 taking representatives of eight countries; the signing date is given only as recent and no amount or cost share is disclosed (2026-07)](https://www.lapresse.tn/2026/07/28/la-tunisie-et-le-japon-sallient-pour-renforcer-les-ecosystemes-de-startups-en-afrique/) | Advanced |
+| Arab Conference of Directors of Nationality and Civil Status Departments | Did not exist | [The ninth conference closed in Tunis with recommendations that member states expand reliance on digital identity, strengthen the legal frameworks protecting personal data in civil-status registers and share defences against cyber threats aimed at those registers; the General Secretariat of the Council of Arab Interior Ministers was asked to circulate its model framework for personal-data protection and information security in such registers and to draft a guidance manual, and Iraq's proposal for a unified Arab identity was referred to member states for study](https://gate.ahram.org.eg/News/5891986.aspx) | ***Baseline not held*** |
+
+<!-- narrative: governance -->
+The framing instrument was replaced and the protective one was not. [Digital Tunisia 2020-2025 lapsed at term](https://pm.gov.tn/fr/decision-gouvernementale/zenzri-lors-dun-conseil-ministeriel-2026-annee-du-demarrage-effectif-de-la) with no outcomes report, and the [Development Plan 2026-2030 was promulgated on 20 July 2026](https://www.9anoun.tn/fr/kb/jorts/jort-2026-073-5e980/loi-ndeg-2026-16-du-20-juillet-2026-portant-approbation-du-plan-de-developpement-2026-2030-4), carrying the digital programme as a chapter of a whole-of-government plan rather than as a sectoral strategy. Its [annex went from unheld to held in full](https://www.arp.tn/loi/project/4315) inside the window, which is a change in what can be said about Tunisian digital policy rather than in the policy.
+
+Against that, the [2004 data-protection law is in force at both ends of the period](https://en.africanmanager.com/personal-data-protection-tunisian-parliament-moves-to-curb-ai-and-algorithm-risks/) and its 123-article replacement is in committee at the end as it was in February. So is the supervisory authority's position: unchanged, and named in none of the systems built during the year.
+
+The one instance of the guardrail arriving first is [the e-invoicing amendment](https://www.assabahnews.tn/ar/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D9%88-%D8%A7%D8%B9%D9%85%D8%A7%D9%84/139940-%D9%81%D9%8A-%D8%AC%D9%84%D8%B3%D8%A9-%D9%85%D8%B4%D8%AA%D8%B1%D9%83%D8%A9-%D9%84%D8%AC%D9%86%D8%AA%D8%A7%D9%86-%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%AA%D8%A7%D9%86-%D8%AA%D9%86%D8%A7%D9%82%D8%B4%D8%A7%D9%86-%D9%85%D9%82%D8%AA%D8%B1%D8%AD%D8%A7-%D9%84%D8%AA%D9%86%D9%82%D9%8A%D8%AD-%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%A7%D9%84%D9%81%D9%88%D8%AA%D8%B1%D8%A9-%D8%A7%D9%84%D8%A7%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A9), which halted a blanket mandate pending a readiness and data-protection report. The mandate it halted had been legislated to take effect on 1 January 2026.
+
+Regionally the period added two positions that did not exist: a [seat on the continental telecommunications council](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/151071) and [cooperation with Algeria](https://techafricanews.com/2026/06/09/algeria-and-tunisia-expand-cooperation-in-telecommunications-and-ict-sector/), neither yet carrying a stated agenda or workplan.
+<!-- /narrative -->
+
+## Finance
+
+### New investments
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| EBRD loan to Tunisie Telecom | Approved by the board and not announced; no drawdown on record (2025-08) | [Announced at up to EUR 190m in four tranches with a first committed tranche of EUR 50m, funding a 4G-to-5G upgrade, fibre to 200,000 households, backbone and core modernisation, energy investment and the operator's connection to the submarine cable, with a complementary EUR 11m European Union grant and a first-loss guarantee (2026-01)](https://www.ebrd.com/home/news-and-events/news/2025/eur-190-million-to-tunisie-telecom.html) | Advanced |
+| EU CEF Digital grant for the Tunisian cable segment | In implementation (2025-08) | [Closed; EUR 9.6m against a EUR 32m project budget, exactly 30%, buying the Bizerte landing station and the roughly 1,050 km Tunisian segment that Orange owns (2025-08)](https://digital-strategy.ec.europa.eu/en/news/viatunisia) | Advanced |
+| AfDB economic and social reforms grant | Closed (2025-08) | [Closed; no evaluation or successor operation is held (2026-08)](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=46002-G-TN-I00-ZZZ-002) | No change |
+
+<!-- narrative: finance -->
+The period's financing movement is disclosure rather than money. The [EBRD facility of up to EUR 190m](https://www.ebrd.com/home/news-and-events/news/2025/eur-190-million-to-tunisie-telecom.html) had been board-approved in July 2024 and unannounced at the start of the window; its announcement in January 2026 is what made [its four tranches, its components and its EUR 11m companion grant](https://www.ebrd.com/home/news-and-events/news/2025/eur-190-million-to-tunisie-telecom.html) citable. The [European grant that built the cable landing closed in August 2025](https://digital-strategy.ec.europa.eu/en/news/viatunisia) at EUR 9.6m of a EUR 32m project.
+
+Domestic financing did not move, because there is nothing to move: no appropriation line for the digital programme exists at either end of the period, and the [2027 budget orientations name the digital transition without attaching a figure](https://www.lapresse.tn/2026/08/04/sara-zaafrani-zenzri-devoile-les-grandes-orientations-du-projet-de-loi-de-finances-2027/).
+<!-- /narrative -->
+
+## ICT Infrastructure
 
 ### Connectivity
 
@@ -61,7 +122,7 @@ Physical capacity moved once and decisively: the [Medusa cable's Bizerte landing
 | National cybersecurity agency advisory function | ***Baseline not held*** | [Issuing public advisories against a live campaign harvesting banking and personal data; its offered verification test is that Tunisian government sites use only the .tn domain, and no takedown power, enforcement action or role for the data-protection authority is on record (2026-07)](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/151319-%D8%A7%D9%84%D9%88%D9%83%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A%D8%A9-%D9%84%D9%84%D8%B3%D9%84%D8%A7%D9%85%D8%A9-%D8%A7%D9%84%D8%B3%D9%8A%D8%A8%D8%B1%D9%86%D9%8A%D8%A9-%D8%AA%D8%AD%D8%B0%D8%B1-%D9%85%D9%86-%D8%B1%D8%B3%D8%A7%D8%A6%D9%84-%D8%A7%D8%AD%D8%AA%D9%8A%D8%A7%D9%84%D9%8A%D8%A9-%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%A7%D9%84%D9%85%D8%B9%D8%B7%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%A8%D9%86%D9%83%D9%8A%D8%A9-%D9%84%D9%84%D9%85%D8%B3%D8%AA%D8%AE%D8%AF%D9%85%D9%8A%D9%86) | ***Baseline not held*** |
 | Recorded cyberattacks and ransomware cases | Not held | [57,430 cyberattacks recorded in the first half of 2025, and ransomware cases up 140% to 37,076 in 2024, on interior ministry and national security agency figures, as the government finalised a National Cybersecurity Strategy 2026-2030 aimed at critical-infrastructure resilience and skills](https://www.leconomistemaghrebin.com/2026/08/07/cyberattaques-tunisie-explosion-ransomwares/) | ***Baseline not held*** |
 
-<!-- narrative: infrastructure -->
+<!-- narrative: ict-infrastructure -->
 International capacity is the period's real gain. A year ago the Medusa cable had a signed hosting agreement and no landing; it [made its first African landing at Bizerte on 31 October 2025](https://medusascs.com/news/medusa-submarine-cable-system-lands-in-bizerte/) and [entered service on 3 June 2026](https://www.connectingafrica.com/connectivity/medusa-s-viatunisa-subsea-cable-now-live), with the landing station and the roughly 1,050 km Tunisian segment owned by Orange Tunisia at up to 24 Tbps, and Tunisie Telecom's [contracted 20 Tbps pair](https://medusascs.com/news/tunisie_telecom_joins_medusa/) live with it. One party gained an asset; the other gained capacity on someone else's.
 
 Mobile went the other way on the measure that matters to users. 5G was already running at both ends of the window; what the period added is the first independent measurement, and it is [not flattering](https://www.ookla.com/articles/5g-north-africa-2026) — the 5G median down 30% by month six and the combined 4G and 5G median below the pre-launch baseline, against fixed-wireless lines up from 9,425 to 319,554. Reach advanced; measured experience did not. The measurement is cited, not absorbed.
@@ -69,7 +130,7 @@ Mobile went the other way on the measure that matters to users. 5G was already r
 Hosting is where a year produced no capacity. Data centres went from an [investment-council priority in October 2025](https://trendsnafrica.com/tunisia-targets-data-centers-as-key-pillar-in-investment-strategy/) to a [named line in a statutory plan in June 2026](https://www.arp.tn/loi/project/4315) — a change of instrument, not of concrete. The flagship is still a [non-binding memorandum](https://www.datacenterdynamics.com/en/news/solecrypt-plans-20mw-solar-powered-data-center-in-bizerte-tunisia/) and the health cloud still an intention. That matters against the investment authority's own list, which put modernising data-protection law among the preconditions for attracting exactly this investment.
 <!-- /narrative -->
 
-## Digital public infrastructure
+## DPI
 
 ### Data Exchange
 
@@ -97,7 +158,7 @@ Hosting is where a year produced no capacity. Data centres went from an [investm
 | walletii (Ooredoo Fintech) | Did not exist | [Licensed with a Gulf banking group and the national payments operator, targeting the underbanked over an agent network; no launch date or user figure published (2026-03)](https://menastartupdigest.com/ooredoo-fintech-secures-license-to-launch-digital-wallet-in-tunisia/) | Advanced |
 | Mobile payment transactions | Not separately published for 2024 | [8.4m transactions worth TND 1,769m in 2025, up 81% year on year, with peer-to-peer transfers 50.7% of operations and merchant payments 17.8% (2025)](https://trendsnafrica.com/central-bank-of-tunisia-reports-81-surge-in-mobile-payments-as-tunisia-accelerates-its-digital-transformation-in-2025/) | ***Baseline not held*** |
 
-### Registries (population, land, address, etc.)
+### Registries
 
 | System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
@@ -106,7 +167,7 @@ Hosting is where a year produced no capacity. Data centres went from an [investm
 | Social housing digital application platform | Did not exist | [A single platform for rent-to-own and instalment-sale applications for social housing; the ministry set a completion timetable and called for regional officials to be trained before rollout, with beneficiary-database interconnection - led with the national computing centre - still facing technical and administrative obstacles; no launch date, budget or application volume published (2026-08)](https://www.webmanagercenter.com/2026/08/04/570984/logements-sociaux-en-tunisie-une-plateforme-numerique-pour-accelerer-les-demandes-daccession-a-la-propriete/) | Advanced |
 | AMEN social registry | Over 333,000 poor households on monthly cash transfers and over 620,000 low-income households on free or subsidised healthcare, with 44.4% of cash transfers digitalised (2023-12) | [Unchanged; no coverage or digitalisation update has been published since (2026-08)](https://www.worldbank.org/en/news/feature/2024/11/14/tunisians-share-how-their-life-changed-through-the-amen-program) | No change |
 
-### Sectoral management information systems (HMIS, EMIS, etc.)
+### Sectoral management information systems
 
 | System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
@@ -127,13 +188,6 @@ Hosting is where a year produced no capacity. Data centres went from an [investm
 | Khadamet mobile application | Baseline not held | [More than 40 administrative services announced for a mobile application reached through the national digital identity, with electronic payment by bank or postal card or virtual wallet; no launch date is given](https://africanmanager.com/transformation-numerique-114-projets-en-cours-et-lancement-imminent-de-lapplication-khadamet/) | ***Baseline not held*** |
 | Single administrative services portal | ***Baseline not held*** | [Reported delivered among a portfolio of 192 tracked projects, alongside remote vehicle-tax payment, the electronic fiscal stamp, a building-permit platform and a citizenship system; no usage figure is published for any of them (2026-02)](https://pm.gov.tn/fr/decision-gouvernementale/zenzri-lors-dun-conseil-ministeriel-2026-annee-du-demarrage-effectif-de-la) | ***Baseline not held*** |
 
-### National statistics
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| Internet use | Not measured on this series | [85.9% of respondents using the internet, 95.4% holding a mobile line, 84.3% a smartphone and 41% a computer, with 70.4% of internet users connecting principally over mobile. Among internet users, 41.3% use an e-service, 36.9% e-commerce, 26.5% e-government and 47.9% artificial intelligence (2026)](https://www.intt.tn/upload/files/Synth%C3%A8se%20des%20r%C3%A9sultats%20Enqu%C3%AAte%202026.pdf) | ***Baseline not held*** |
-| Use of online public administration | Not measured on this series | [26.5% of internet users, last of the four uses measured, behind artificial-intelligence applications at 47.9%, e-services at 41.3% and online shopping at 36.9% (2026)](https://www.lapresse.tn/2026/07/27/express-la-tunisie-accelere-sa-transition-numerique-le-smartphone-et-lia-gagnent-du-terrain/) | ***Baseline not held*** |
-
 <!-- narrative: dpi -->
 The identity layer changed in kind, not in size. A year ago the mobile identity was voluntary, at [200,000 subscribers as of March 2025](https://idtechwire.com/e-houwiya-a-milestone-in-tunisias-digital-transformation-roadmap-2025), and the minister who built it noted there was no obligation to hold one. It is now a condition of [declaring an investment](https://techafricanews.com/2026/06/26/tunisia-makes-mobile-id-mandatory-for-investment-project-declarations/) and of [reaching the business register](https://en.africanmanager.com/tunisia-national-business-register-accelerates-digitalization-of-its-services/), which discontinued paper filing on the same date. No subscriber figure has been published across the whole window, so the take-up effect of compulsion cannot be measured.
 
@@ -144,62 +198,7 @@ Registers advanced and their governance did not. Three went live or online insid
 Payments standardised without measurable growth on file. The [national label](https://www.wearetech.africa/en/fils-uk/news/tech/tunisia-launches-tunpay-label-to-accelerate-mobile-payment-adoption) did not exist a year ago and now binds banks, payment institutions and the postal service; licensed payment providers rose from 368 to 435. The transaction series behind that — [8.4m mobile payments worth TND 1,769m in 2025](https://trendsnafrica.com/central-bank-of-tunisia-reports-81-surge-in-mobile-payments-as-tunisia-accelerates-its-digital-transformation-in-2025/) — has no comparable earlier figure on file, and the wallet count is carried in two irreconcilable versions.
 <!-- /narrative -->
 
-## Governance and regulation
-
-### Legislation and regulation
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| Compulsory e-invoicing (Article 53) | Legislated to take effect 1 January 2026 for all service providers regardless of invoice value or firm size (2025-08) | [Under amendment: parliament's memo records that no unified national e-invoicing system yet exists and that mass e-invoicing raises serious personal- and professional-data protection issues, and the amendment mandates a 30-day joint ministerial report on readiness and data-protection compliance before a phased timeline (2026-02)](https://www.assabahnews.tn/ar/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D9%88-%D8%A7%D8%B9%D9%85%D8%A7%D9%84/139940-%D9%81%D9%8A-%D8%AC%D9%84%D8%B3%D8%A9-%D9%85%D8%B4%D8%AA%D8%B1%D9%83%D8%A9-%D9%84%D8%AC%D9%86%D8%AA%D8%A7%D9%86-%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%AA%D8%A7%D9%86-%D8%AA%D9%86%D8%A7%D9%82%D8%B4%D8%A7%D9%86-%D9%85%D9%82%D8%AA%D8%B1%D8%AD%D8%A7-%D9%84%D8%AA%D9%86%D9%82%D9%8A%D8%AD-%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%A7%D9%84%D9%81%D9%88%D8%AA%D8%B1%D8%A9-%D8%A7%D9%84%D8%A7%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A9) | Advanced |
-| Development Plan 2026-2030 (loi n 2026-16) | Did not exist as an adopted instrument | [Promulgated as the binding reference for public policy to 2030 under articles 75 and 77 of the Constitution, adopted by the Assembly on 10 July and the Council of Regions on 17 July (2026-07)](https://www.9anoun.tn/fr/kb/jorts/jort-2026-073-5e980/loi-ndeg-2026-16-du-20-juillet-2026-portant-approbation-du-plan-de-developpement-2026-2030-4) | Advanced |
-| Organic Laws 22 and 23 of 2024 on biometric identity | In force; use was targeted for the first half of 2025 and unconfirmed (2025-08) | [In force; nothing held confirms issuance has begun, and an amendment to prohibit a centralised biometric database held by the interior ministry was introduced the day before the vote and dismissed (2026-08)](https://www.accessnow.org/press-release/tunisia-biometric-id-passport-bills-passed) | No change |
-
-### Strategies, plans and policies
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| Digital content of the development plan annex | Not held; the plan's digital content was known only from official statements about it (2025-08) | [Held in full: the sectoral volume mentions digital or digitalisation 414 times, artificial intelligence 119, data 72 and cybersecurity 9, makes the digital economy a pillar of human-capital development, and commits to integration into the global digital landscape while preserving digital sovereignty (2026-06)](https://www.arp.tn/loi/project/4315) | Advanced |
-| Digital Tunisia 2020-2025 | In force in its final year (2025-08) | [Lapsed; no extension, repeal or outcomes report is held, so what it delivered against its own objectives is unestablished (2026-08)](https://pm.gov.tn/fr/decision-gouvernementale/zenzri-lors-dun-conseil-ministeriel-2026-annee-du-demarrage-effectif-de-la) | Closed |
-| Ministerial council on digitalisation | Did not exist | [A ministerial council devoted to digitalisation, chaired by the head of government, who stated that digitalisation is a necessity rather than a choice](https://pm.gov.tn/fr/decision-gouvernementale/zenzri-lors-dun-conseil-ministeriel-la-digitalisation-nest-pas-un-choix) | Advanced |
-| National digital transformation vision | Did not exist; the sectoral strategy that preceded it was in its final year (2025-08) | [A chapter of the five-year development plan coordinated by the economy and planning ministry rather than a sectoral strategy owned by the communication technologies ministry, with 192 digital-transformation projects under cabinet follow-up (2026-02)](https://pm.gov.tn/fr/decision-gouvernementale/zenzri-lors-dun-conseil-ministeriel-2026-annee-du-demarrage-effectif-de-la) | Advanced |
-
-### Regional collaboration
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| African Telecommunications Union council seat | Did not exist | [A 2027-2030 seat on the administrative council, giving a vote on continental direction across digital transformation, artificial intelligence, cybersecurity and capacity building; no statement of what Tunisia intends to press for is reported (2026-07)](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/151071) | Advanced |
-| AI Innovation and Technological Solutions Working Group chair (Arab League) | Did not exist | [Chairs the Arab Permanent Committee on Artificial Intelligence and Emerging Technologies' AI Innovation and Technological Solutions Working Group, one of six working-group chairs allocated across five Arab states at the committee's second inaugural meeting in Tunis in July 2026; no published statement of Tunisia's agenda for the seat (2026-08)](https://www.businesstec.news/23334) | Advanced |
-| Algeria-Tunisia telecommunications cooperation | Did not exist | [Expanded cooperation announced across telecommunications and information technology; no instrument, amount or workplan published (2026-06)](https://techafricanews.com/2026/06/09/algeria-and-tunisia-expand-cooperation-in-telecommunications-and-ict-sector/) | Advanced |
-| Triangular startup ecosystem programme with Japan | Did not exist | [A 2026-2028 programme convening African participants in Tunis on building startup ecosystems, with Tunisia's own Startup Act as the curriculum and the first session in December 2026 taking representatives of eight countries; the signing date is given only as recent and no amount or cost share is disclosed (2026-07)](https://www.lapresse.tn/2026/07/28/la-tunisie-et-le-japon-sallient-pour-renforcer-les-ecosystemes-de-startups-en-afrique/) | Advanced |
-| Arab Conference of Directors of Nationality and Civil Status Departments | Did not exist | [The ninth conference closed in Tunis with recommendations that member states expand reliance on digital identity, strengthen the legal frameworks protecting personal data in civil-status registers and share defences against cyber threats aimed at those registers; the General Secretariat of the Council of Arab Interior Ministers was asked to circulate its model framework for personal-data protection and information security in such registers and to draft a guidance manual, and Iraq's proposal for a unified Arab identity was referred to member states for study](https://gate.ahram.org.eg/News/5891986.aspx) | ***Baseline not held*** |
-
-### Data protection
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| Draft organic law on personal data protection | Did not exist | [132 articles across six titles as deposited on 2025-07-14, introducing a data protection officer role, obliging public institutions to obtain authorisation for any processing, shifting enforcement to financial penalties through a sanctions department, and naming the press, surveillance cameras, algorithms and cross-border transfers as the uncovered domains; under committee review and not passed (2026-02)](https://www.arp.tn/loi/project/4237) | Advanced |
-| National authority for personal data protection | Constituted under the 2004 law, with no enforcement action, decision or annual report held (2025-08) | [Unchanged; the sponsors of the replacement bill cite its limited role as the institutional gap the bill exists to close, and it is named in none of the year's new data-concentrating systems (2026-08)](https://en.africanmanager.com/personal-data-protection-tunisian-parliament-moves-to-curb-ai-and-algorithm-risks/) | No change |
-| Organic Law 2004-63 on personal data protection | In force and described by civil society as unfit for the processing the state now does (2025-08) | [Still the governing instrument; a 123-article replacement is in committee and has not passed (2026-08)](https://en.africanmanager.com/personal-data-protection-tunisian-parliament-moves-to-curb-ai-and-algorithm-risks/) | No change |
-
-### Open data
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| Agrifood sector data portal | Did not exist | [Live and free after registration, centralising regulatory monitoring, market movement, export opportunity and sector-trend data under three public bodies; built inside a German- and EU-financed project with no amount disclosed and no statement of what happens when the project ends (2026-07)](https://www.lapresse.tn/2026/07/26/agroalimentaire-la-tunisie-lance-un-nouveau-portail-pour-aider-les-entreprises-a-mieux-decider/) | Advanced |
-| Aswat Nissa femicide data platform | Did not exist | [A civil-society platform to centralise Tunisia's femicide data, opening the 109 cases documented since January 2018 (30 in 2025, 26 in 2024, 25 in 2023, 23 in 2022) to researchers, media and civil-society organisations; launch set for 12 August 2026, with no state role or public-data reconciliation stated (2026-08)](https://www.wearetech.africa/fr/fils/actualites/tech/tunisie-aswat-nissa-lancera-mercredi-une-plateforme-pour-recenser-les-feminicides) | Advanced |
-| National public data registry (registre.data.gov.tn) | Did not exist | [Launched by the E-Government Unit, letting citizens view and request inventoried government data; named among the only commitments of Tunisia's 2023-2025 open-government action plan to produce results citizens can see, against a National Open Data Strategy that still awaits formal government endorsement (2026-08)](https://www.opengovpartnership.org/documents/tunisia-results-report-2023-2025/) | Advanced |
-
-<!-- narrative: governance -->
-The framing instrument was replaced and the protective one was not. [Digital Tunisia 2020-2025 lapsed at term](https://pm.gov.tn/fr/decision-gouvernementale/zenzri-lors-dun-conseil-ministeriel-2026-annee-du-demarrage-effectif-de-la) with no outcomes report, and the [Development Plan 2026-2030 was promulgated on 20 July 2026](https://www.9anoun.tn/fr/kb/jorts/jort-2026-073-5e980/loi-ndeg-2026-16-du-20-juillet-2026-portant-approbation-du-plan-de-developpement-2026-2030-4), carrying the digital programme as a chapter of a whole-of-government plan rather than as a sectoral strategy. Its [annex went from unheld to held in full](https://www.arp.tn/loi/project/4315) inside the window, which is a change in what can be said about Tunisian digital policy rather than in the policy.
-
-Against that, the [2004 data-protection law is in force at both ends of the period](https://en.africanmanager.com/personal-data-protection-tunisian-parliament-moves-to-curb-ai-and-algorithm-risks/) and its 123-article replacement is in committee at the end as it was in February. So is the supervisory authority's position: unchanged, and named in none of the systems built during the year.
-
-The one instance of the guardrail arriving first is [the e-invoicing amendment](https://www.assabahnews.tn/ar/%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D9%88-%D8%A7%D8%B9%D9%85%D8%A7%D9%84/139940-%D9%81%D9%8A-%D8%AC%D9%84%D8%B3%D8%A9-%D9%85%D8%B4%D8%AA%D8%B1%D9%83%D8%A9-%D9%84%D8%AC%D9%86%D8%AA%D8%A7%D9%86-%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%AA%D8%A7%D9%86-%D8%AA%D9%86%D8%A7%D9%82%D8%B4%D8%A7%D9%86-%D9%85%D9%82%D8%AA%D8%B1%D8%AD%D8%A7-%D9%84%D8%AA%D9%86%D9%82%D9%8A%D8%AD-%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%A7%D9%84%D9%81%D9%88%D8%AA%D8%B1%D8%A9-%D8%A7%D9%84%D8%A7%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A9), which halted a blanket mandate pending a readiness and data-protection report. The mandate it halted had been legislated to take effect on 1 January 2026.
-
-Regionally the period added two positions that did not exist: a [seat on the continental telecommunications council](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/151071) and [cooperation with Algeria](https://techafricanews.com/2026/06/09/algeria-and-tunisia-expand-cooperation-in-telecommunications-and-ict-sector/), neither yet carrying a stated agenda or workplan.
-<!-- /narrative -->
-
-## Artificial intelligence and the technology sector
+## Technology
 
 ### AI
 
@@ -221,7 +220,7 @@ Regionally the period added two positions that did not exist: a [seat on the con
 | Startup Act and Startup Tunisia | In force, with over 40 firms reported as having expanded into Europe, the Middle East and sub-Saharan Africa (2025-08) | [In force and being circulated as a replicable model rather than as one country's statute, through a triangular programme with Japan (2026-07)](https://www.lapresse.tn/2026/07/28/la-tunisie-et-le-japon-sallient-pour-renforcer-les-ecosystemes-de-startups-en-afrique/) | Advanced |
 | Tunisia Digital Summit | ***Baseline not held*** | [Tenth edition held with about 2,000 participants and 80 exhibitors, the minister setting a goal of a regional digital hub and pledging continued legal and regulatory development on artificial intelligence and data protection (2026-04)](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/144861-%D9%82%D9%85%D8%A9-%D8%AA%D9%88%D9%86%D8%B3-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D9%88%D8%B2%D9%8A%D8%B1-%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84-%D8%A7%D9%84%D8%AA%D8%AD%D9%88%D9%84-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A-%D9%84%D9%85-%D9%8A%D8%B9%D8%AF-%D8%AE%D9%8A%D8%A7%D8%B1%D8%A7-%D8%A8%D9%84-%D8%B6%D8%B1%D9%88%D8%B1%D8%A9-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%8A%D8%A9-%D8%AA%D9%81%D8%B1%D8%B6%D9%87%D8%A7-%D9%85%D8%AA%D8%B7%D9%84%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D9%86%D9%85%D9%8A%D8%A9) | ***Baseline not held*** |
 
-<!-- narrative: ai-tech -->
+<!-- narrative: technology -->
 Tunisia began the period with an artificial-intelligence strategy scheduled and ended it with one published by somebody else. The [Livre Blanc of August 2026](https://www.lapresse.tn/2026/08/05/intelligence-artificielle-latuge-devoile-son-livre-blanc-pour-la-tunisie/) is the most specific AI roadmap on the record for the country, and a diaspora association wrote it. No state strategy appears at either end of the window.
 
 The startup law moved in status without changing in text. It was [adopted as the curriculum of a Japanese-financed programme for other African states](https://www.lapresse.tn/2026/07/28/la-tunisie-et-le-japon-sallient-pour-renforcer-les-ecosystemes-de-startups-en-afrique/) in July 2026 — an export of a statute rather than of a service, and a use it did not have twelve months ago.
@@ -229,13 +228,7 @@ The startup law moved in status without changing in text. It was [adopted as the
 The telecommunications market's structure is unchanged: three operators, mobile broadband dominant, and a state incumbent whose modernisation is externally financed.
 <!-- /narrative -->
 
-## Inclusion and capacity
-
-### Access to services
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| Affordability of digital services | ***Baseline not held*** | [A digital basket at 1.53% of gross national income per head, about US$5.31 a month, second in the Maghreb and under the two-percent international threshold; the figures are the international union's, reported by the regulator (2026-07)](https://www.lapresse.tn/2026/07/18/internet-et-mobile-la-tunisie-parmi-les-pays-arabes-ou-les-services-numeriques-coutent-le-moins-cher/) | ***Baseline not held*** |
+## Capacity
 
 ### Training and skills
 
@@ -243,24 +236,41 @@ The telecommunications market's structure is unchanged: three operators, mobile 
 |---|---|---|---|
 | Digital skills in the development plan | Did not exist as a statutory commitment | [Artificial intelligence, data analysis, programming and cybersecurity named as the skills base of a digital economy made a pillar of human-capital development; no programme, budget, target or delivery agency is stated (2026-06)](https://www.arp.tn/loi/project/4315) | Advanced |
 
+<!-- narrative: capacity -->
+
+<!-- /narrative -->
+
+## Inclusion
+
+### Access to services
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| Affordability of digital services | ***Baseline not held*** | [A digital basket at 1.53% of gross national income per head, about US$5.31 a month, second in the Maghreb and under the two-percent international threshold; the figures are the international union's, reported by the regulator (2026-07)](https://www.lapresse.tn/2026/07/18/internet-et-mobile-la-tunisie-parmi-les-pays-arabes-ou-les-services-numeriques-coutent-le-moins-cher/) | ***Baseline not held*** |
+
 <!-- narrative: inclusion -->
 Skills acquired a statutory home. Artificial intelligence, data analysis, programming and cybersecurity are [named in the plan annex](https://www.arp.tn/loi/project/4315) as the skills base of a digital economy made a pillar of human-capital development — a commitment that did not exist a year ago and that still has no budget or delivery agency behind it.
 <!-- /narrative -->
 
-## Finance
+## Data
 
-### New investments
+### National statistics
 
 | System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
-| EBRD loan to Tunisie Telecom | Approved by the board and not announced; no drawdown on record (2025-08) | [Announced at up to EUR 190m in four tranches with a first committed tranche of EUR 50m, funding a 4G-to-5G upgrade, fibre to 200,000 households, backbone and core modernisation, energy investment and the operator's connection to the submarine cable, with a complementary EUR 11m European Union grant and a first-loss guarantee (2026-01)](https://www.ebrd.com/home/news-and-events/news/2025/eur-190-million-to-tunisie-telecom.html) | Advanced |
-| EU CEF Digital grant for the Tunisian cable segment | In implementation (2025-08) | [Closed; EUR 9.6m against a EUR 32m project budget, exactly 30%, buying the Bizerte landing station and the roughly 1,050 km Tunisian segment that Orange owns (2025-08)](https://digital-strategy.ec.europa.eu/en/news/viatunisia) | Advanced |
-| AfDB economic and social reforms grant | Closed (2025-08) | [Closed; no evaluation or successor operation is held (2026-08)](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=46002-G-TN-I00-ZZZ-002) | No change |
+| Internet use | Not measured on this series | [85.9% of respondents using the internet, 95.4% holding a mobile line, 84.3% a smartphone and 41% a computer, with 70.4% of internet users connecting principally over mobile. Among internet users, 41.3% use an e-service, 36.9% e-commerce, 26.5% e-government and 47.9% artificial intelligence (2026)](https://www.intt.tn/upload/files/Synth%C3%A8se%20des%20r%C3%A9sultats%20Enqu%C3%AAte%202026.pdf) | ***Baseline not held*** |
+| Use of online public administration | Not measured on this series | [26.5% of internet users, last of the four uses measured, behind artificial-intelligence applications at 47.9%, e-services at 41.3% and online shopping at 36.9% (2026)](https://www.lapresse.tn/2026/07/27/express-la-tunisie-accelere-sa-transition-numerique-le-smartphone-et-lia-gagnent-du-terrain/) | ***Baseline not held*** |
 
-<!-- narrative: finance -->
-The period's financing movement is disclosure rather than money. The [EBRD facility of up to EUR 190m](https://www.ebrd.com/home/news-and-events/news/2025/eur-190-million-to-tunisie-telecom.html) had been board-approved in July 2024 and unannounced at the start of the window; its announcement in January 2026 is what made [its four tranches, its components and its EUR 11m companion grant](https://www.ebrd.com/home/news-and-events/news/2025/eur-190-million-to-tunisie-telecom.html) citable. The [European grant that built the cable landing closed in August 2025](https://digital-strategy.ec.europa.eu/en/news/viatunisia) at EUR 9.6m of a EUR 32m project.
+### Open data
 
-Domestic financing did not move, because there is nothing to move: no appropriation line for the digital programme exists at either end of the period, and the [2027 budget orientations name the digital transition without attaching a figure](https://www.lapresse.tn/2026/08/04/sara-zaafrani-zenzri-devoile-les-grandes-orientations-du-projet-de-loi-de-finances-2027/).
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| Agrifood sector data portal | Did not exist | [Live and free after registration, centralising regulatory monitoring, market movement, export opportunity and sector-trend data under three public bodies; built inside a German- and EU-financed project with no amount disclosed and no statement of what happens when the project ends (2026-07)](https://www.lapresse.tn/2026/07/26/agroalimentaire-la-tunisie-lance-un-nouveau-portail-pour-aider-les-entreprises-a-mieux-decider/) | Advanced |
+| Aswat Nissa femicide data platform | Did not exist | [A civil-society platform to centralise Tunisia's femicide data, opening the 109 cases documented since January 2018 (30 in 2025, 26 in 2024, 25 in 2023, 23 in 2022) to researchers, media and civil-society organisations; launch set for 12 August 2026, with no state role or public-data reconciliation stated (2026-08)](https://www.wearetech.africa/fr/fils/actualites/tech/tunisie-aswat-nissa-lancera-mercredi-une-plateforme-pour-recenser-les-feminicides) | Advanced |
+| National public data registry (registre.data.gov.tn) | Did not exist | [Launched by the E-Government Unit, letting citizens view and request inventoried government data; named among the only commitments of Tunisia's 2023-2025 open-government action plan to produce results citizens can see, against a National Open Data Strategy that still awaits formal government endorsement (2026-08)](https://www.opengovpartnership.org/documents/tunisia-results-report-2023-2025/) | Advanced |
+
+<!-- narrative: data -->
+
 <!-- /narrative -->
 
 ## Where the record is thin
