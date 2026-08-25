@@ -1,5 +1,5 @@
 A- Institutional AI	7548
-A. Institutional and Implementation Arrangements	969,295,603,1737,2935,4229
+A. Institutional and Implementation Arrangements	969,295,603,1737,2935,4229,61
 A. Institutionalising Multi-Stakeholder Dialogue Building	4848
 AAU Institutional Repository	8671
 ABOUT THE TONY BLAIR INSTITUTE	4046
@@ -8,6 +8,7 @@ AC.KE Lower and Middle Level Institutions	6671
 ACK BISHOP HANNINGTON INSTITUTE OF THEOLOGY	7167
 ADMINISTRAÇÃO E DE COMUNICAÇÃO INSTITUCIONAL	8052
 AFIADATA INSTITUTE LIMITED Data Controller INST-234564748A5	7167
+AFIDEP African Institute for Development Policy UNDESA	10835,3
 AFRICAN INSTITUTE FOR HEALTH	7167
 AI Institute	5297
 AI Institute Africa	5411
@@ -31,6 +32,7 @@ Academia and Research Institutions	1261,3267
 Academic and Research Institutions	1261
 Acquisition of Assets and Infrastructure Institution	1131
 Ada Lovelace Institute	7038,282
+Adaptation Institutional	10829
 Addis Ababa University Institutional Repository	8671
 Additional Regional No Institutions Appraisal	4653
 Administration Institut Technologique	10708
@@ -53,7 +55,7 @@ African Plant Nutrition Institute Data Controller	7167
 African Plant Nutrition Institute Data Processor	7167
 Afrobarometer Working Papers Introduction Institutional	7886
 Agencies and Institutions	961
-Agricultural Development IHME Institute for Health Metrics	10759
+Agricultural Development IHME Institute for Health Metrics	10759,78
 Agronomia. O Instituto de Ciências	1265
 Al-Jazari Institute of Industry X.0	5360
 Alan Turing Institute	1246,5762
@@ -86,7 +88,7 @@ Association of Microfinance Institutions of Zambia	9371
 Auditor General for ECOWAS Institutions	7452
 Aurum Institute Ghana	7187
 B Programa de Reforzamiento Institucional	4209
-B. Sectoral and Institutional Context	969,295,603,1737,2935,4229
+B. Sectoral and Institutional Context	969,295,603,1737,2935,4229,61
 B. Sectoral and Institutional Context Public Financial	969
 BETA CARE TRAINING INSTITUTE LTD Data	7167
 BORABU TECHNICAL TRAINING INSTITUTE Data Controller	7167
@@ -95,7 +97,7 @@ BUMBE TECHNICAL TRAINING INSTITUTE Data Controller	7167
 BURUBURU INSTITUTE OF FINE ARTS Data	7167
 BUTERE TECHNICAL TRAINING INSTITUTE Data Controller	7167
 Banca Instituições	6970
-Bank AFIDEP African Institute for Development Policy	10759
+Bank AFIDEP African Institute for Development Policy	10759,78
 Banking Institutions Act	3714
 Banking and Financial Institutions Act	6921
 Banks and Specialised Deposit-Taking Institutions Act	7114
@@ -107,7 +109,7 @@ Bility Urge Stronger Institutional Accountability	4261
 Biometrics Institute Concepts and Solutions Report Synthetic	2318,6,103,20,94,25,48,44,62,5,53,41,1,3,50,41,11,18,4,70,1,8,259,18,157,163,119,78,69,141,37,21,465,78,145,55,254,225,138,45,60,43,101,181,78,116,183,19,70,19,178,5,104,1,149,7,16
 Botswana Institute for Technology Research and Innovation	2576,2868
 Brazil. For the Tech Diplomacy Global Institute	5454
-Brookings Institute	9128
+Brookings Institute	9128,1691
 Brookings Institution	2518,2452,470,260,685,26,2377,669,202,542,243
 Brookings Institution Global China Report	2518
 Brookings Institution Press	2096
@@ -184,6 +186,7 @@ Data Protection... Institutional Interconnectivity	853
 Decentralised Digital Financial Institution	5151
 Decentralized Digital Financial Institution	5151
 Deep Institutional Roots Advans Ghana	5985,909
+Democracy Institute ENACT ENACT Africa WB	10835,3
 Deposit-Taking Institutions	8732
 Des Institution	3396
 Des Instituts	3396
@@ -195,17 +198,22 @@ Development Institutions Associations Networks	940
 Digital Bridge Institute	8973,1184
 Digital Bridge Institute Economic Community of West	10157
 Digital Frontiers Institute	128,144,215,3090
+Digital Identity Institutional Lack	10819
 Diligence DFI Development Finance Institutions EBITDA	1818
 Director. O Gabinete de Comunicação Institucional	167
 Direitos da Criança O Instituto Nacional de Estudos	10750
+Division for Public Institutions and Digital Government	10840
 Domestic Retail Domestic Institutional N'Trillion N'Trillion	6408
 Don Bosco Technical Institute Marsabit Data	7167
 Dutch Institute Of Management Studies Data	7167
+Décaissement INF Institut National	10876
+Démographie IGN Institut Géographique National MAEP	10876
 E Programa de Reforzamiento Institucional	4209
 EBL Institute of Business and Technology	8579
 EBL Institute of Business and Technology and G-CITI Campus	8579
 ECOWAS COMMISSION STRENGTHENS INSTITUTIONAL CAPACITY	9194
 ELDORET AVIATION TRAINING INSTITUTE LIMITED Data	7167
+Earth Institute	10835,3
 East and Southern African Management Institute	6946
 Economie Rurale INR Instituts Nationaux de Recherche	12
 Edição Instituto Nacional de Estatística Avenida	4044
@@ -237,6 +245,7 @@ Ethiopian AI Institute	3595,1478
 Ethiopian Artificial Intelligence Institute	3595,1478,1683,241,95,382,204
 Ethiopian Public Health Institute	1219,605
 European Space Policy Institute	9816
+European Telecommunications Standards Institute	10819
 European University Institute	6468
 Exchequer Institute	7548
 Extension Institute Act	7845
@@ -247,6 +256,7 @@ FAS Local Development Institute	10768
 FAS-IDL and MASFAMU. Institutional	10768
 FAS38 Local Development Institute	10768
 Federal Public Institutions	10157
+Femme INSTaD Institut National	10876
 Finance Institutions DG ECHO Directorate General	970
 Financial Institution	5152
 Financial Institutional Law	10779
@@ -272,7 +282,7 @@ Free Tech Institute	9989,6
 Free Tech Institute Explore Pathways	9989
 Free Tech Institute and SADI	9989
 Free Tech Institute of Burundi and SADI	9989
-Freedom House HEI Health Effects Institute	10759
+Freedom House HEI Health Effects Institute	10759,78
 Future of Life Institute	8014
 Félix Houphouët- Boigny National Polytechnic Institute	3604
 Félix Houphouët-Boigny National Polytechnic Institute	3604,1152
@@ -285,9 +295,11 @@ GOVERNANCE AND INSTITUTIONAL MEASURES Clear	5244
 Gabinete de Comunicação Institucional	167,10586
 Gabinete de Comunicação NESTA EDIÇÃO Institucional	10750
 Gambian Institutions	1000
+General Directorate National Office for National Institute	10812
 General Government Public Sector Institutional Table	2775
 Geological Exploration Technology Institute	191
 German Credit Institute for Reconstruction	3604
+German Institute of Development and Sustainability. RDB	10841
 Getty Images About the ISS The Institute	9616
 Ghana AI Institute	5227
 Ghana Institute of Management and Public Administration	8950,1173
@@ -306,10 +318,13 @@ Graduate Institute	7320,537
 Green Data Center and AI Institute	4032
 Gross Domestic Product Harare Institute of Technology	4528
 Guideline. Government Institutions	5665
+HEI Health Effects Institute WRI World	10835,3
 Harare Institute of Technology	4528,3955
 Harbin Institute of Technology	8277
+Harvard Business Review. McKinsey Global Institute	10819
 Head of IT INSTITUTION MCTD MCTD MCTD	2989
 Heads of Institutions	7452
+Health Institute and National Health Information Systems	10865
 Heritage Institute for Policy Studies	4091
 Higher Education Institution	6832
 Higher Education Institution ICASA	6832
@@ -322,7 +337,15 @@ Human Rights and Disinformation Institutions	10729
 Huíla Institutional	10775
 IER Institut	12
 IFI International Financial Institution IMF International	970
+IGN. III.2.7 Institut National	10876
 II. Institutional	3058
+III. CADRE INSTITUTIONNEL ET GOUVERNANCE	10876
+III. CADRE INSTITUTIONNEL ET GOUVERNANCE III.1	10876
+III.2.2 Institut National	10876
+III.2.6 Institut Géographique National	10876
+III.2.7 Institut National	10876
+III.B Institutional and Administrative Framework	10812
+III.C Institutional and Administrative Framework	10812
 IIPGH Institute of ICT Professionals Ghana	6936
 IMA Instituto de Modernização Administrativa	10765,10
 IMPRESSÃO Instituto	10757
@@ -334,13 +357,14 @@ INRSP Institut National de Recherche	12
 INS Instituto Nacional de Saúde INTIC National	4214
 INSTI. GOB IMAGEN KIE-NTEM BIOKO SUR	4209
 INSTITUIÇÕES	2816
+INSTITUT NATIONAL DE LA STATISTIQUE ET	10874,1
 INSTITUTE FOR ECONOMIC JUSTICE First Applicant	2307
 INSTITUTION	3868
 INSTITUTIONAL AFFILIATION	2709
 INSTITUTIONAL ARRANGEMENTS FOR REGULATION OF COMPLEX	961
 INSTITUTIONAL CAPACITY	6946
 INSTITUTIONAL CAPACITY REQUIREMENTS	3861
-INSTITUTIONAL DATA Practice Area	969,315
+INSTITUTIONAL DATA Practice Area	969,315,9545
 INSTITUTIONAL FRAMEWORK	1000
 INSTITUTIONAL FRAMEWORK FOR CYBERSECURITY GOVERNANCE	1000
 INSTITUTIONAL FRAMEWORKS	1161
@@ -381,7 +405,7 @@ Instituciones Bata	4209
 Instituciones Financieras	4209
 Instituciones Penitenciarias	4209,2632
 Instituciones Públicas	975
-Instituer	1005,7886
+Instituer	1005,7886,1967
 Instituicoes de Administracao Publica	570
 Instituição	4218
 Instituição Financeira Bancária	10755
@@ -398,11 +422,13 @@ Instituições Sem Fins Lucrativos	9441
 Instituições da Justiça	2816
 Instituições de Crédito	5169,1293
 Instituições de Moeda Electrónica	5169
-Institut	737,10,1,2218,645,791,198,214,9,534,491,166,221,155,827,279,35,24,115,346,305,244,1,11,318,391,431,319,34,156,177,33,77
+Institut	737,10,1,2218,645,791,198,214,9,534,491,166,221,155,827,279,35,24,115,346,305,244,1,11,318,391,431,319,34,156,177,33,77,334,27,1,18
 Institut Africain	8906
 Institut Centrafricain des Statistiques	7675
+Institut Centrafricaine des Etudes Economiques	10826
 Institut Cerco International	8162
 Institut DEEN KANU	7670
+Institut Géographique National	10876
 Institut Géographique National France Internationale	4064
 Institut JAZARI	3857
 Institut JFN	3157
@@ -410,20 +436,26 @@ Institut Jazari	7488
 Institut Malgache des Techniques de Planification	7725
 Institut Marocain de Normalisation	9406
 Institut Monétaire Ouest-Africain	8556
-Institut National	737,1091,154,643,1700,77,2176,381,766,503,1058,195,72,732
+Institut National	737,1091,154,643,1700,77,2176,381,766,503,1058,195,72,732,527,35,22,5
 Institut National Polytechnique Félix Houphouët-Boigny	3604
 Institut National de Statistique EVS	737
+Institut National des Informatiques	10812
 Institut Nationale	3024
 Institut Pedagogique National	10282
 Institut Siantou	2513
 Institut Supérieur	86
 Institut Supérieur de Management Public	10524
+Institut Supérieur des Sciences	10881
 Institut Télécom SudParis	1183
 Institut Universitaire des Technologies	5370
 Institut Uptime	1244
+Institut de Formation	10874
 Institut des Finances Publiques du Burkina	3396
 Institut des Sciences	3604
 Institut for Inclusive Digital Africa	3100
+Institut. Cette	10874
+Institut. Elle	10874
+Institut. Il	10874
 Institut. Tout	9277
 Institute	1000,777,97,1,598,1630,23,614,743,17,27,344,561,324,336,42,414,1425,164,15,237,919,471
 Institute Baseline Develop and Institute the Baseline Update	1777
@@ -433,7 +465,7 @@ Institute Kenya AI Safety Institute	7548
 Institute Of Bankers	9491
 Institute SANSA South African National Space	5246
 Institute Tier III	5793
-Institute WB World Bank WEF World	10759
+Institute WB World Bank WEF World	10759,78
 Institute for AI Policy and Strategy	5216
 Institute for Administrative Modernization	1770,942,3867
 Institute for Agriculture and Trade Policy	6231
@@ -446,7 +478,7 @@ Institute for Fiscal Studies	1123
 Institute for Futures Studies	7112
 Institute for Gender Equality	4181
 Institute for Global Change and Ghana-India Kofi Annan	4126
-Institute for Health Metrics and Evaluation	6171,2720
+Institute for Health Metrics and Evaluation	6171,2720,1938
 Institute for Inclusive Digital Africa	1477,23,1599,51,49,100,215,740
 Institute for Innovation and Knowledge	5726
 Institute for Innovation and Public Purpose	4429
@@ -493,9 +525,12 @@ Institute1	10711
 Instituted	3800
 Institutes Equipment	2989
 Institutes of Health. References Alsmadi	8604
+Instituteur Adjoint Certifié IC	10847
+Instituteur Certifié IEPD	10847
+Instituteur Principal MEBAPLN	10847
 Instituti1o2n	10157
 Instituting	1988
-Institution	0,1154,1962,479,372,1566,1350,1301,488,223,1816
+Institution	0,1154,1962,479,372,1566,1350,1301,488,223,1816,106,4,15,38,1
 Institution BuildingEstablishment	5871
 Institution Gazette Notice Gazette Notice Within	7548
 Institution Jordan Eng. Luma Arabiyat Director	2958
@@ -510,13 +545,16 @@ Institution of Affiliation Fig	1554
 Institution of Affiliation Figure	1154
 Institution of Higher Learning	21
 Institution-centric	8605
-Institutional	324,465,169,285,21,20,242,71,105,126,39,22,213,679,108,5,164,372,153,21,24,314,272,822,202,4,39,499,195,412,152,293,54,52,9,1,90,113,44,26,1,76,39,109,5,97,25,75,211,27,80,55,581,26,339,11,150,379,106,3,19,131,203,93,286,207,174,36,3,7
+Institution. Des	10821
+Institution. Etienne Marie FIFATIN	10821
+Institutional	324,465,169,285,21,20,242,71,105,126,39,22,213,679,108,5,164,372,153,21,24,314,272,822,202,4,39,499,195,412,152,293,54,52,9,1,90,113,44,26,1,76,39,109,5,97,25,75,211,27,80,55,581,26,339,11,150,379,106,3,19,131,203,93,286,207,174,36,3,7,37,7,3,7,32,9,16
 Institutional AI Governance and Responsible Use Policy	10343
+Institutional Accoun-	10819
 Institutional Alignment	4535
 Institutional Arrangement	395
 Institutional Arrangement No Risks No Implementation	2473
 Institutional Arrangement The Ministry of ICT	395
-Institutional Arrangements	1228,8929
+Institutional Arrangements	1228,8929,672
 Institutional Arrangements. Responsibility	4653
 Institutional Barriers and Solutions Many AI	7151
 Institutional Books	7313
@@ -526,8 +564,8 @@ Institutional Capacity Development	6442
 Institutional Capacity Development Programs	3861
 Institutional Capacity Requirements DETERMINING	3861
 Institutional Capacity and Coordination	7548
-Institutional Capacity for Implementation and Sustainability	969,898,1737,2935,389,3840
-Institutional Checks	10759
+Institutional Capacity for Implementation and Sustainability	969,898,1737,2935,389,3840,61
+Institutional Checks	10759,76,2,1
 Institutional Cooperation Framework	5676
 Institutional Cooperation Framework NRAs	5676
 Institutional Coordination	940,344,1705,1664
@@ -544,6 +582,8 @@ Institutional Figure	6408
 Institutional Framework	958,6590
 Institutional Framework Kenya	7548
 Institutional Framework Reinforce	10765
+Institutional Framework and Processes	10819
+Institutional Framework and Processes Page	10819
 Institutional Frameworks	1161
 Institutional Frameworks Related	958
 Institutional Governance	5244
@@ -568,6 +608,7 @@ Institutional Responsibilities Monitoring	7548
 Institutional Review Board	1219,1490
 Institutional Review Boards	1212
 Institutional Roles and Governance for Sovereign Data	10157
+Institutional Setup	10829
 Institutional Setup Training	3861
 Institutional Setup and Coordination	3861
 Institutional Strengthening	1158,299,3947,2472
@@ -603,11 +644,14 @@ Institutionelle Ebene	2219
 Institutionen	823,710,687
 Institutionnaliser	8891
 Institutionnel	8009
-Institutions	1,33,540,69,318,9,185,553,69,151,754,93,33,588,95,92,69,209,187,55,23,40,362,54,170,213,546,464,113,264,31,39,181,298,35,10,2,11,197,391,1,48,290,95,215,31,42,111,248,76,186,1,396,10,9,36,11,62,22,269,22,2,20,140,680
+Institutions	1,33,540,69,318,9,185,553,69,151,754,93,33,588,95,92,69,209,187,55,23,40,362,54,170,213,546,464,113,264,31,39,181,298,35,10,2,11,197,391,1,48,290,95,215,31,42,111,248,76,186,1,396,10,9,36,11,62,22,269,22,2,20,140,680,305,4
 Institutions Constitutionnelles	548,683
+Institutions DIF Digital Investment Facility DRC	10861
 Institutions Financières Nationales	6901
+Institutions Institution	10817
 Institutions Mobilize	7548
 Institutions Multilatérales Africaines Ministère	10708
+Institutions Nationales des Droits	10826
 Institutions Public	7548
 Institutions Push for Smarter	8472
 Institutions Receive Data Controllers Licences	2987
@@ -709,7 +753,7 @@ Instituto. Para	9524
 Institutos	539,255
 Institutos Nacionais de Estatística	8051
 Institutos Nacionais de Segurança de IA	2816
-Instituts	8072,884,1517
+Instituts	8072,884,1517,401
 Instituts Al Jazari. Cette	4600
 Instituts Jazari	4833
 Instituts Nationaux de Statistique	9615
@@ -747,7 +791,7 @@ Jornal de Angola and AFRO Health Observatory. Institutional	10776
 Journal of Institutional Economics	7886
 Judicial Training Institute	10563
 July. The Future Investment Initiative Institute	6368
-Justice Project WRI World Resources Institute	10759
+Justice Project WRI World Resources Institute	10759,78
 Justice and Strong Institutions	3583,162,4541
 KAIST Kenya Advanced Institute of Science and Technology	2775
 KENYA Kenya Institute for Curriculum Development	899
@@ -808,12 +852,12 @@ Machakos Institute of Technology	7435
 Mahatma Gandhi Institute	9948
 Manhattan Institute	5364
 Massa Corporal Instituto Nacional de Estatística Instituto	10777
-Massachusetts Institute of Technology	3378,5885,705
+Massachusetts Institute of Technology	3378,5885,705,866
 Mature Institutional Cyber Governance and Sectoral Readiness	6936
 Mauritius Institute of Training	7845
 Mauritius Institute of Training and Development Act	7845
 Max Planck Institute for Innovation and Competition	6521,24
-McKinsey Global Institute	2347,5201
+McKinsey Global Institute	2347,5201,3271
 Mckinsey Global Institute	10711
 Means For Accountable Institutions South Africa	6998
 Media Diversity Institute	9082
@@ -833,6 +877,7 @@ Million Institute Pledge Telkom	2302
 Ministries and Other Extra- Budgetary Institutions	2775
 Ministries and Other Extra-Budgetary Institutions	2775
 Model The Institute for Inclusive Digital Africa	3198
+Moderate Institutional Capacity for Implementation	10870
 Montreal AI Ethics Institute	10246
 Morocco. The Jazari Smart City Institute	10004
 Mozambique INE National Statistics Institute INGD	4214
@@ -870,6 +915,7 @@ National Institute for Science	9582
 National Institute for Social Action	9484,263
 National Institute for Standards and Technology	9747,54,3,23
 National Institute for Statistics	1828
+National Institute for Statistics and Demography	10812
 National Institute of Building Sciences Page	1264
 National Institute of Communications of Mozambique	5841,1015
 National Institute of Electronic Government	2989
@@ -887,13 +933,15 @@ National Institute of Standards	9747,54,3,23
 National Institute of Standards and Technology	3279,337,2923,739,3065
 National Institute of Statistics	237,5652,1813,1706,1355,13,4
 National Institute of Statistics Rwanda	1903,1912
+National Institute of Statistics and Demography	10812
+National Institute of Statistics and Demography IUCEC Unique	10812
 National Institute of Statistics of Cameroon	8427
 National Institute of Statistics of Rwanda	718,259,5111,1409,495,2666
 National Institute of Statistics of Rwanda OECD Organization	1204
 National Institute of Statistics of Rwanda. Only	3013
 National Institutes of Health	8604,1365
 National Judicial Institute	10211
-National Public Health Institute	1554
+National Public Health Institute	1554,9275
 National Public Health Institute of Liberia	4202
 National Public Health Institutes	3583
 National Refinancing Fund for Microfinance Institutions	8184
@@ -909,7 +957,7 @@ Negotiating Across Institutions AfCFTA	10555
 Nelson Mandela African Institution of Science	2816
 Nelson Mandela African Institution of Science and Technology	2816
 Netherlands Institute for Multiparty Democracy	8860,352,1133
-Network Earth Institute	10759
+Network Earth Institute	10759,78
 NewClimate Institute	8891
 Nigeria and South Korea. Oxford Internet Institute	9739
 Nigeria's Public Institutions	6442
@@ -943,12 +991,13 @@ Occupational Health and Safety Institute	1988
 Occupational Health and Safety Institute Health and Safety	1988
 Okavango Research Institute	10794
 Olavo Correia. Instituída	5329
-Open Data Institute	747,1,213,1023,3045
+Open Data Institute	747,1,213,1023,3045,5788
 Open Society Institute Sofia	8891
 Orientation Agricole. Institué	2342
 Oxford Internet Institute	10319
 PAR MINISTÈRE OU INSTITUTION	3396
 POLICY OPTIONS AND INSTITUTIONAL PATHWAYS Policy	4848
+PORTANT INSTITUTION D'UNE CARTE NATIONALE	10812
 PREFÁCIO O Instituto Nacional de Estatística	10757
 PROGRAMAS Y PROYECTOS INSTITUCIONALES	4209
 Partos Institucionais	10777
@@ -980,6 +1029,7 @@ Proyecto de Fortalecimiento Institucional	4209
 Proyecto de Reforzamiento Institucional	4209
 Proyectos Institucionales	4209
 Public Health Informatics Institute	4782
+Public Health Institute of Bangui	10829
 Public Relations Institute of Southern Africa	7227
 Public Sector Institutional Table	2775
 Quadro Institucional	5663
@@ -1002,6 +1052,7 @@ Research Institutions	6936
 Research Institutions Research	958
 Research Institutions. Core Functions The Committee	7548
 Research and Training Institute WPP Water Purification	2775
+Resources Institute IBP International Budget Partnership	10835,3
 Responsible Institution	1000
 Retail Institutional	6408
 Retail Institutional Figure	6408
@@ -1063,8 +1114,8 @@ South Africa’s Artificial Intelligence Institute	4970
 Space Science and Geospatial Institute	1796,1413
 Standards Institute API Application Programming Interface	10765
 State Annual Safety Institute	7548
-State Institutions	10759
-State Institutions Absence of Corruption	10759
+State Institutions	10759,76,2,1
+State Institutions Absence of Corruption	10759,78
 State Institutions Rural Representation	10759
 Strategy NIST U.S. National Institute of Standards	1777
 Strengthening Institutional Capacity The Agency	1131
@@ -1081,7 +1132,7 @@ Supreme Audit Institution. Without	9439
 Supreme Audit Institutions	9439
 Swiss Re Institute	7789
 T. Nhiwatiwa Institution of Affiliation Harare Institute	1154
-TRANSPARENCY Institutional Checks	10759
+TRANSPARENCY Institutional Checks	10759,78
 TVET Institutions	2775
 Tanzania Agricultural Research Institute	9290
 Tanzania Institute of Arbitrators	2806
@@ -1109,12 +1160,14 @@ Tier III da Uptime Institute	5974,6
 Timbuktu Institute	5207
 Tony Blair Global Institute	6369
 Tony Blair Institute	4046,1279,495,447,10,264
+Tony Blair Institute for Global	10840
 Tony Blair Institute for Global Change	1965,2081,80,412,787,942,77,2077,863
 Tony Blair Institute’s Ghana AI Policy	4126
 Tony Commission Blair Institute	4126
 Training Institutes AI	7548
 Training Institution Information System	1261
 Transnational Institute	5224
+Trust Alliance SATA Institutional Framework TRUST	10819
 Tunisia's National Telecommunications Institute	6629
 Turing Institute	7008
 Type Institutions	6832
@@ -1160,7 +1213,9 @@ West African Monetary Institute	7,992,47
 Wits MIND Institute	3344
 World Bank Institute	10726
 World Business Law Institute	6946
-World Institute for Development Economics Research UPU	10759
+World Institute for Development Economics Research Columbia	10835,3
+World Institute for Development Economics Research UPU	10759,78
+XI.1.1. Institutions	10876
 Xhosa. Ethiopia’s Artificial Intelligence Institute	3622
 Xylem Lab and Xylem Institute	6955
 Zambia National Public Health Institute	10374

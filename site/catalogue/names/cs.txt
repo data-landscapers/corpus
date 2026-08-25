@@ -65,6 +65,8 @@ CSD Conseil National de Secours	643
 CSD International Statistical Classification of Diseases	1009
 CSD Minimum Interoperability Standard MHD Multi-Patient	1009
 CSD- R1.2	643
+CSD-GE	10858
+CSD-GE DPSR CAT DPSR DPSR DPSR	10858
 CSD-JDH	643
 CSD-TEPS	3396
 CSD2O	1009
@@ -76,6 +78,7 @@ CSF Cybersecurity Framework	6936
 CSHUB-CSIRT	8897
 CSI Description	3604
 CSI. People	3604
+CSIR Defence and Security	10889
 CSIR Infographic	1938,1
 CSIR Information and Cybersecurity Centre	1940
 CSIR South Africa	5598
@@ -148,6 +151,9 @@ CSP Ministry	6432
 CSP du CM Cadre	737
 CSP. Cette	7892
 CSP. Le Groupe	1679
+CSPEF	10870
+CSPS and High Courts	10812
+CSPSs	10881
 CSPro	6048,3229,1500
 CSPs CAC	6432
 CSPs Content Services Providers CT-OVC Cash	2775
@@ -197,6 +203,7 @@ CoK City of Kigali CSI Cybersecurity Strategic	718
 Communication and Technology and Digital Economy CS	1236
 Comunidad de Países de Lengua Portuguesa CSU	1701
 Conferência CSA	2816
+Conseiller Pédagogique Itinérant CSAP	10847
 Consistent Time CSIR Digital Imaging and Communications	1009
 Continuous Professional Development CSL	6832
 Contractor CSM Tech Limited	10411
@@ -207,6 +214,7 @@ Czechia’s Transformation Cooperation Programme. CSA	8947
 DPC. CSA	6936
 Data CSIR Council for Scientific and Industrial Research	5246
 Data Localization. CSIS. Zillner	1243
+Dublin Core JSON Multiline CSV Simple	10878
 Durée Moyenne de Scolarisation CSPS	737
 EU CSO Roadmap	970
 EU CSP	9123
@@ -230,6 +238,7 @@ European CSPs	6477
 Evidence of CSIRT	10721
 Expert CSIRTs	5241
 FINALISED ANNUAL REPORT CSD.pdf	1377
+Family CR Civil Registration CSPS Local	10812
 Francophonie BAD Banque Africaine de Développement CSCRP	12
 GCSPS Entities CAC Entities and CSPs	6432
 GIEC CSA	6936
@@ -273,6 +282,7 @@ Kenya News Agency. ICT CS	899
 Kenya Treasury CS John Mbadi and China	2160
 Kwok CS	10780
 L'atelier du CSC	10546
+La CSCP	10876
 Leverage CSP	6432
 Liberia CSP	4840
 MEST CSIR-	4126
@@ -291,6 +301,7 @@ NCC- CSIRT	10721
 NCC- Updated Subscription CSIRT	10721
 NCC’s CSIRT	9117
 NIST CSF	5677,103,643
+NW4457E REPLY The CSIR	10889
 National and MICDE MCDAs CSPs Ministry	6432
 ODPC. GOK Entities CSPs	6432
 OPERATING WITHOUT A LICENSE The CSA	9728
@@ -323,6 +334,7 @@ Service Provider CSV Comma-Separated Values CTO	6432
 Service Providers CSR Corporate Social Responsibility	6946
 South Africa. The CSIR	1009
 South African National CSIRT	8897
+Statistique CS	10874
 Strengthening CSOs	7784
 Study of CSR Engagement	2518
 TECH5 CSO Rob Haslam	1836

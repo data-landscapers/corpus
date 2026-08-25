@@ -34,6 +34,8 @@ African Union's Child Online Safety and Empowerment	1597
 Afrique du Nord Safa Korti	5159
 Airtel Money and Safaricom M-Pesa	6409
 Airtel Networks Kenya Limited and Safaricom PLC	6946
+Airtel and Safaricom	10822
+Airtel and Safaricom. The Communications Authority of Kenya	10822
 Alfred Opare Saforo	2407,41,490,2760,1057
 Amilca Safeca	5106
 Amr Farouk Safwat and May Ragab Abdelhamid	961
@@ -85,7 +87,7 @@ Child Online Safety and Empowerment Policy	8050
 Child Safety and Digital Platforms	6946
 Child-facing AI and Safeguards	7548
 Clinical Safety Framework	9855
-Community Health and Safety	1264,724,1468
+Community Health and Safety	1264,724,1468,7373
 Community Health and Safety Relevant ESS	1867,1737,2935,4229
 Computer Capacity Data Strategy Safeguard Trustworthy	1204
 Connecting Africa. Safo	6351
@@ -238,6 +240,7 @@ Maritime Security and Safety and Development	8192
 Material Safety	1988
 Mauritius Telecom Safe City Proje Crosswalk	259
 Maziv and Safaricom	8035,1
+Mehnaz Safavian	10841
 Mehnaz Safavian Anne-Elisabeth Sarah Victoire Emmanuel	4653
 Mehnaz Safavian Task Team Leaders	6539
 Meta Selects Safaricom	3839
@@ -295,6 +298,7 @@ PROCESSORS Safe	1333
 Patient Safety and Risk Management	3651
 Performance Indicator Responsible Person Safety	1988
 Portability and Interoperability Safeguards	10157
+Present Value OHS Occupational Health and Safety	10829
 Procedural Safeguards	2307,1554
 Procurement and Safeguards	1228
 Productive Safety Net Programme	7819
@@ -311,12 +315,13 @@ RSF Rapid Support Forces SAF Sudanese	6947
 RSF and SAF	1887
 RTSA Environmental Safety and Health Guidelines PPE	1988
 Realizing the Full Potential of Social Safety Nets	10768
-Relevant Community Health and Safety Relevant Land	1284
+Relevant Community Health and Safety Relevant Land	1284,9545
 Reshaping of Safety	8629
 Residual and Catch-All Safeguards	3861
 Road Safety	6035
 Road Safety Policy	1988
 Road Safety ZRCP TBA	1988
+Road Safety and Compliance	10852
 Road Traffic and Safety Agency	1988
 Road Traffic and Safety Mitigation	1988
 Road Transport and Safety Agency	10347
@@ -328,10 +333,14 @@ SAFARICOM PLC RESULTS BOOKLET UNAUDITED RESULTS	3898
 SAFE CITY SPLIT	645
 SAFE and PBOC	5863
 SAFE. During the Agentic AI Summit	9027
-SAFETY	10759
-SAFETY Absence of Armed Conflict	10759
+SAFETY	10759,76,2,1
+SAFETY ACCOUNTABILITY	10837
+SAFETY Absence of Armed Conflict	10759,78
 SAFETY Absence of Armed Conflict Absence of Violence	10759
-SAFETY Rank	10759
+SAFETY FOUNDATIONS FOR ECONOMIC OPPORTUNITY Absence	10835,3
+SAFETY Rank	10759,78
+SAFETY SOCIAL PROTECTION Rank	10838
+SAFETY WOMEN’S EQUALITY	10835
 SAFIG2	8557
 SAF’s HAC	6947
 SH Health and Safety	1988
@@ -339,6 +348,7 @@ SH Risk Management Occupational Health and Safety	1988
 STANBIC BANK’S INITIATIVE Safeguarding National Productivity	5247
 Safa Korti	5159
 Safaeinili	8606
+Safané	10875
 Safar	4403,255
 Safari	3974,4947,55
 Safari Lodge	4896
@@ -346,7 +356,8 @@ Safari New Project	8571
 Safari Tiketi	5883
 Safari.com and The Capital	8857
 SafariCom Telecommunications Ethiopia Private Limited	815
-Safaricom	18,553,162,156,350,617,141,251,54,134,21,58,2,333,134,582,55,4,214,20,39,189,63,2,291,111,1,246,177,55,77,14,208,9,133,107,102,110,27,103,158,19,14,14,97,6,10,168,97,32,42,13,76,45,19,12,18,62,5,34,107,38,120,11,64,56,5,133,101,68,1,57,85,232,29,18,44,2,1,1,94,51,269,132,41,90,14,25,29,60,1,9,20,125,87,126,29,306,323,101,520,85,201
+Safaricom	18,553,162,156,350,617,141,251,54,134,21,58,2,333,134,582,55,4,214,20,39,189,63,2,291,111,1,246,177,55,77,14,208,9,133,107,102,110,27,103,158,19,14,14,97,6,10,168,97,32,42,13,76,45,19,12,18,62,5,34,107,38,120,11,64,56,5,133,101,68,1,57,85,232,29,18,44,2,1,1,94,51,269,132,41,90,14,25,29,60,1,9,20,125,87,126,29,306,323,101,520,85,201,66
+Safaricom Airtel	10822
 Safaricom App	7568
 Safaricom Bonga Points	7710
 Safaricom Business	3898
@@ -427,7 +438,7 @@ Safaricom. Pepkor Holdings	10799
 Safaricom’s AI	5923
 Safaricom’s Ethiopian Unit Delivers Rapid Growth	8843
 Safaricom’s Head of Customer Privacy	6538
-Safaricom’s M-PESA	3463,5265
+Safaricom’s M-PESA	3463,5265,2094
 Safaricom’s Mali	8624
 Safaricom’s Pochi la Biashara	8728
 Safaricom’s Zuri	5820
@@ -444,7 +455,9 @@ Safe Digital Boost for Africa	1452
 Safe Innovation Open Data Rights	1243
 Safe Online	3716
 Safe Online Time Bound Measurable Target	1000
+Safe Space Club Mentors	10829
 Safe Space for Bold Ideas	4528
+Safe Spaces	10829
 Safe Use Of Digital Services	958
 Safe Use of Digital Services Telecommunication	958
 Safe Zanzibar Project	104
@@ -471,7 +484,8 @@ Safeguards and Compliance	8546
 Safer Births Bundle of Care	7895
 Safer Internet Day	5551
 SaferAI	8014
-Safety	1554,434,689,1906,1082,928,200,245,509,1,424,171,570,410,78,245,409,24,880,4
+Safety	1554,434,689,1906,1082,928,200,245,509,1,424,171,570,410,78,245,409,24,880,4,72,2,1
+Safety Accountability	10837
 Safety Act	1988
 Safety Act No	1988
 Safety Advisory Council	9201
@@ -487,10 +501,11 @@ Safety LLM Benchmark	8204
 Safety LLM Challenge	6593,1611
 Safety Lab	8551
 Safety Metrics	4528
+Safety Net Measures	10822
 Safety Nets	10763
 Safety RULE OF LAW	10759
 Safety Re-imagination Programme	7060
-Safety Rule of Law	10759
+Safety Rule of Law	10759,78
 Safety Women's Equality Rural Economy	10759
 Safety YE Year-end EUR	1818
 Safety and Guidelines	1988
@@ -502,6 +517,7 @@ Safety and Security Sector Education and Training	9130
 Safety and Security The Council	7548
 Safety of Services Traffic and Road Safety	1988
 Safety-Critical	5665
+Safety-certified	10829
 SafetyWeb	10809
 Safi. Ces	8891
 Safia Ali Mohamed Gadileh	6304
@@ -522,7 +538,11 @@ Site Fund Bickmayer Safaris Vacant	4896
 Site Safety Officer	1988
 Smart and Safe Kenya Transport	1001
 Social Safeguards Specialist	1228
-Social Safety Nets	3604,7155
+Social Safety Net	10812,54
+Social Safety Net Project	10866
+Social Safety Net The Social Safety	10812
+Social Safety Nets	3604,7155,76,2,1
+Social Safety Nets Poverty Reduction Policies	10837
 Social Safety Register	4794
 State Annual Safety Institute	7548
 Streamlinefeed. Safaricom	8107
@@ -550,9 +570,10 @@ Unitel CEO Amílcar Safeca and Angola Telecom	6624
 Unitel Chief Executive Officer Amílcar Safeca	6624
 Universal DPI Safeguards	1879
 Universal DPI Safeguards Framework	2930,1706
+VI.D Social Safety Net	10812
 Vodacom Secures Majority Control of Safaricom	2302
 Vodafone for Safaricom	6938
-WELFARE Social Safety Nets	10759
+WELFARE Social Safety Nets	10759,78
 Wali Khalid Safir	557
 Women and Girls Safe Spaces	9766
 World Bank Environmental Health and Safety Guidelines	1988

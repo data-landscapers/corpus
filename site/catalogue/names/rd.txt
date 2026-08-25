@@ -28,6 +28,7 @@ Ecobank RDC SA	4695
 En RDC	5415
 Est. La RDC	2880
 FirstBank RDC	4815
+German Institute of Development and Sustainability. RDB	10841
 Helios Towers RDC	5604,512,727
 ITU RDF Africa	690,1
 Internet Society Chapter RDC	2415
@@ -45,6 +46,8 @@ MW for RDH	1956
 Main Rd	8999
 Main Street Cnr Sandkraal Rd and Ngcakani	8999
 Managing Director de Helios Towers RDC	6843
+Metadata Data Cite XML RDF	10878
+N-Triples OPENAIRE RDF	10878
 NUMERICO.CD You Might Also Like RDC	10163
 O XIX Governo Constitucional da RDSTP	2688
 OGEFREM RDC	10401
@@ -61,6 +64,7 @@ RD Congo	1648,2010,2617,145
 RD Gauld	766
 RD PARK HOSPITAL LIMITED Data Controller	7167
 RD Street	3386
+RD YA TENGA BAM CENTRE-NORD	10847
 RD- BMS	8604
 RD-Connect	10188
 RD-Connect Genome-Phenome Analysis Platform	10188
@@ -116,6 +120,9 @@ RISA RDB	1204
 Rd Sibongile Sigenu	8999
 Research Data Alliance RDA	5246
 Rwanda RDB	1204
+Récepissé RD	10821
+Récépissé RD	10821
+Span RDF	10878
 Starlink RDC	9925
 Starlink RDC. Selon	9925
 Talents RDC	3526,841

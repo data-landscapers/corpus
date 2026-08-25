@@ -6,6 +6,7 @@ ACTUAL Ficha	4209
 ANUAL CUOTA ANUAL COMERCIO Ficha	4209
 ANUAL CUOTA ANUAL Ficha	4209
 ANUAL Ficha	4209
+Absence de Fiches	10874
 Advocate Stefanie Fick	7755
 Automatisation des Fichiers	4924,36
 B2 Ficha	4209
@@ -43,19 +44,24 @@ Ficha	1526,612,90,556,1425,6574
 Ficha Técnica Título	2816
 Ficha de Análise Custo	10783
 Ficha de Identificação	10783
-Fiche	765,1219
+Fiche	765,1219,8892
 Ficheiro	14,9385
 Ficheiro Informático de Cidadãos Maiores	5791
 Ficheiro de Cidadãos Maiores	10428
 Ficheiro de Unidades de Empresas GTREMPE	10757
 Fichero	163
-Fichier	436,311,484,2078,72,373,1363,6,822,437,3826,324
+Fiches	10876
+Fiches C	10876
+Fiches DG	10876
+Fiches Prépare	10876
+Fichier	436,311,484,2078,72,373,1363,6,822,437,3826,324,293
 Fichier Général	6620
 Fichier TES	10714
 Fichier Unique	4420
 Fichtner	4676
 Financial Intelligence Centre Act the FIC	3714
 I.i. FICHA DE ANÁLISE-CUSTO BENEFÍCIO	10783
+IV.1.3.1.2.1 Fiche	10876
 Nathaniel Fick	5257
 Silva Coordenador Técnico Adão Fernando FICHA	10757
 TITULO IV FICHEROS DE DATOS PERSONALES	163

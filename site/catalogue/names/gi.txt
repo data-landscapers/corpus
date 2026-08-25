@@ -36,6 +36,8 @@ Amplify Girls Africa Data Processor INST-288256B6952	7167
 Angola. Given	10763
 Angola’s Gini	10765,3,7
 Anne Gitonga	8764
+Arc GIS	10874
+Aristide OUEDRAOGO Ansonibe PODA Gildas Gnigassilaga	10875
 Arthur Gichuki Data Processor INST-79588171BFC NYERI	7167
 Ashetu Gichuro of Ethiopia	10675
 Atouts GIM-délégataire	10711
@@ -70,9 +72,11 @@ COUNTRY-LEVEL REGULATORY FRAMEWORKS Given	1243
 COUNTY GIRLS HIGH SCHOOL NAIROBI Data	7167
 Cabinet Secretary William Gitau	10635
 Cabinet Secretary William Kabogo Gitau	5586,1964
-Cairo Alexandria Desert Road Giza Governorate	10764
+Cairo Alexandria Desert Road Giza Governorate	10764,80
 Camarade Pingdwendé Gilbert OUEDRAOGO	8454
 Camila Mejia Giraldo	1751
+Capital and Women and Girls' Empowerment	10829
+Carleton University. Giles-Vernick	10841
 Caryn Gilmour	9902
 Centre Gidan Fasaha de Tahoua	7374
 Chad Gibbs	2797,1645
@@ -116,6 +120,7 @@ Director General de Gitge	8372
 Discrimination Against Women and Girls CRS Creditor	970
 Doctor Gift Kalisto Machengete	3003
 Domestic Product GIPE Government Investment	6946
+Domestic Product GIZ German Development Agency	10841
 Dr. Gideon Boako	8545
 Dr. Gift Kalisto Machengete	2987
 Dr. Gikonyo	10662
@@ -144,7 +149,9 @@ Elisa Giryang	3323
 Elizabeth Gibney	4253
 Elon Musk’s Starlink Won’t Make Giant	2677
 Emergency Give	9429
+Employment Given	10841
 Enabling Girls	10662
+Environmental and Social Standards Relevance Given	10829
 Equiano Cable. Given	3782
 Eshetu Kebede Gichoro	10196
 Estatística Avenida Comandante Gika	10766
@@ -156,6 +163,7 @@ FCFA GINEERING	2342
 FCFA. Hormis la GIZ	2966
 FOTA and Project Giga	10742
 FUOYE Gives Lecturer Raphael Larayetan’s Sexual	10034,231
+Facility GII Gender Inequality Index GPN	10829
 Fairer Gig Economy	226
 File Transfer Protocol GB Gigabyte GHz	34
 Finalize TORs for Coding Camp for Girls Finalize	2989
@@ -207,7 +215,7 @@ GIIPs. Identification	1988
 GILL GRAY PHILANTHROPY RWANDA Data Controller	7167
 GIM Acquisition	10711
 GIM-UE- MOA	10711
-GIM-UEMOA	4,745,6078,456,588,1854,986
+GIM-UEMOA	4,745,6078,456,588,1854,986,134
 GIM-UEMOA Avec	10711
 GIM-UEMOA Choix	10711
 GIM-UEMOA Disponibilité	10711
@@ -215,6 +223,7 @@ GIM-UEMOA Définition	10711
 GIM-UEMOA L’acquisition	10711
 GIM-UEMOA Public	10711
 GIM-UEMOA Publics	10711
+GIM-UEMOA SA and WADB	10853
 GIM-UEMOA Signature	10711
 GIM-UEMOA Solution Objectifs Avantages	10711
 GIM-UEMOA Un	10711
@@ -293,6 +302,7 @@ GIZ FAIR Forward	1204,2922,1575
 GIZ German Corporation for International Cooperation GmbH	1204
 GIZ Ghana Digital Transformation Center	1779
 GIZ Kenya	6725
+GIZ MARKETS AND DIGITAL INVESTMENT FACILITY	10861
 GIZ Malawi	10113
 GIZ Management Board	9632
 GIZ Managing Director	9632
@@ -304,11 +314,12 @@ GIZ Representation Office	9632
 GIZ Rwanda	3697
 GIZ Tanzania	9265
 GIZ and Digital Investment Facility	2774
+GIZ and Digital Investment Facility Partners WEST	10861
 GIZ and GFA Consulting	4126
 GIZ and HAUS	4428
 GIZ and Human Sciences Research Council	4126
 GIZ and KfW	789
-GIZ and World Bank	1264
+GIZ and World Bank	1264,9577
 GIZ's Data Governance	6858
 GIZ-PFUA	5402
 GIZ-implemented	178,1,157,120,2,156,1,1,1,206,1,1,1,1,1,223,1,1,368,1,1,1,1,1,1,715,2318,5247
@@ -334,6 +345,7 @@ Giaki-Kaguma-Kariene Road	10313
 Gialeris	4432
 Gialifications	7832
 Gian Marcon	2626
+Gianluca Misuraca	10840
 Gianluca Storchi	5232
 Gianmaria Pozzoli	6455
 Giannakos	8602
@@ -373,6 +385,7 @@ Gifra Wireless Network Ltd	3862
 Gift Machengete	1683,134
 Gifted Students’ Perceptions of Course Quality	961
 Gifting	7954
+GiftsConfig	10848
 Gifty	6948
 Gig Economy	226,10318
 Giga Annual Results	953
@@ -435,7 +448,7 @@ Gillespie	7790,176
 Gillian Rose	8185
 Gillian Rosenberg	7138,13
 Gilliana Anacoura	7761
-Gillwald	322,106,4,1,111,417,1156,2927
+Gillwald	322,106,4,1,111,417,1156,2927,5812
 Gimac	3032,1,756,1482,1606,1480,443
 Gimac. Commode	6877
 GimacPay	6877
@@ -455,6 +468,7 @@ Ginsburg	1219
 Ginsburg&author	1219
 Gioia	7966
 Giorgia	10763
+Giovanni	10878
 Giporoso	718
 Girafe	1806
 Giraffe AI	8550
@@ -496,6 +510,7 @@ Gitex Africa	5772,4127
 Gitex Africa Morocco STARTUPS Vision Develop	1885
 Gitex Kenya	6258
 Githinji Gitahi	7187
+Githinji S	10881
 Github	990,948
 Github Copilot	2816
 Githurai	6133
@@ -518,7 +533,7 @@ Give Us Back Negro Art	8610,233
 Give the Authority	762
 Give the Presidential Task Team	6832
 GiveDirectly	5233
-Given	10,226,159,23,153,2,6,192,18,110,41,21,9,30,243,5,9,27,363,54,3,73,33,18,22,17,121,108,211,152,2,54,34,42,77,138,83,59,41,81,91,15,209,71,127,15,6,10,37,131,345,87,39,179,221,23,56,116,35,45,42,2,70,215,25,395,5,18,132,9,309,46,59,88,80,45,114,44,88,118,2,113,1,155,9,110,22,261,83,90,11,22,176,96,39,180,174,60,97,137,22,333,92,6,372,39,82,19,126,118,373,250,25,187,4,3,42,1,1,3,7,4,1
+Given	10,226,159,23,153,2,6,192,18,110,41,21,9,30,243,5,9,27,363,54,3,73,33,18,22,17,121,108,211,152,2,54,34,42,77,138,83,59,41,81,91,15,209,71,127,15,6,10,37,131,345,87,39,179,221,23,56,116,35,45,42,2,70,215,25,395,5,18,132,9,309,46,59,88,80,45,114,44,88,118,2,113,1,155,9,110,22,261,83,90,11,22,176,96,39,180,174,60,97,137,22,333,92,6,372,39,82,19,126,118,373,250,25,187,4,3,42,1,1,3,7,4,1,42,7,12,3,7,1,29
 Given Africa	415
 Given Angola	10768
 Given CAR	5973
@@ -526,6 +541,8 @@ Given Weibo	8460
 Given Yekhanurov	7493
 Given Zambia	1867
 Given and Assessment	899
+Given the REC-Maternity	10881
+Given the Substantial	10829
 Givenathreshold T	8606
 Gives	1014,2692
 Giving	1,10,2584,4410,3713
@@ -574,6 +591,7 @@ Ipsos Kenya Gig Economy Report	10319
 Italian Prime Minister Giorgia Meloni	2367
 J. R. Gil-Garcia	5349
 JAMES GICHIGI Share Audio By Vocalize	9646
+Jacques de Ginestel	10864
 Jeremy Gisemba	3583
 John Giusti	7402
 Jojobet GirişCasibom Girişjojobet	3245,11,2350,283,637
@@ -598,6 +616,7 @@ LEGAM LEGAM Giacomo Assenza Team Member	1284
 Le GIM-UEMOA	10711
 Le Gimac	3032,757
 Le360 Afrique. At GITEX Africa	5760
+Lorenzo Giovanni	10878
 Luanda GILBERTO LUTHER ALVES BAPTISTA	10751
 Luís Giquira	1808
 L’académie de GIM-UEMOA	7283
@@ -624,7 +643,9 @@ Ms Ginnie Lucas	6831
 Murray Girls High School	10313
 Mwaani Girls High School	10313
 NDMA GICTA	1000
+NIRA.123 Given	10822
 Naivasha Girls’ Secondary School	10313
+Nationwide Human Capital and Women and Girls’ Empowerment	10829
 Naye Gibson Peter	2718
 Nazrawi Gidey	10001
 Never Give Up	36
@@ -648,6 +669,7 @@ POTRAZ Director-General Dr Gift Kalisto Machengete	10168
 POTRAZ Director-General Dr Gift Machengete	8705
 PROCESSED Give	2709
 PROPOSÉES PAR LE GIM-UEMOA POUR	10711
+Pan African Trust Framework. Given	10819
 Par Gilbert Nkurunziza	6112,493
 Par Gisèle MOLOMA	10253
 Para Giquira	1808
@@ -690,6 +712,7 @@ Reconstructing the Giant	1248
 Rector of GIMPA	8950
 Reference Giannopoulou	8436
 Reference Giest	7731
+Regulation GW Gigawatt ICT Information	10861
 Remote Gig Economy Workers	226
 Reneilwe Given Mashaba	8604
 Representing the GIA	5027
@@ -710,6 +733,7 @@ Sampling Zones Classification County Uasin Gishu	7869
 Samson Girmay	10001
 Sauli Giliard and Hilda MhagamaApril	5855
 Scope Subsystem Type Nominal Given	7221
+Secteur Sous- Entreprise SAe SARL GIE	10875
 Security and Resilience Framework Given	4528
 Selected AI Gigafactories	8346
 Selon GI-TOC	4334

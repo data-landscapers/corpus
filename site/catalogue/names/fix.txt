@@ -22,7 +22,7 @@ Domestic Product GFCF Gross Fixed Capital	2775
 E. No Fixed Cap	5773
 Enhanced Mobile Broadband and Fixed Wireless Access	2528
 Excise and Preventive Service CFC Consumption of Fixed	236
-FBB Fixed Broadband FDI Foreign Direct	10781
+FBB Fixed Broadband FDI Foreign Direct	10781,80
 FIXED	3862
 FIXED INTERNET	6000
 FIXED NETWORK	2776
@@ -47,7 +47,7 @@ Fix Leadership Before Chasing	4942,664,283,454,183
 Fixant	9080
 Fixate	7751
 Fixe Taux	998
-Fixed	173,409,136,18,277,271,534,126,44,373,350,65,1086,36,223,86,352,129,1312,100,144,427,66,95,114,164,767,160,1607,1149
+Fixed	173,409,136,18,277,271,534,126,44,373,350,65,1086,36,223,86,352,129,1312,100,144,427,66,95,114,164,767,160,1607,1149,51,12
 Fixed Asset Management Units	9004
 Fixed Asset Register	9004
 Fixed Broadband	2776
@@ -159,15 +159,20 @@ Fixed and Mobile Network Services	2775
 Fixed and Mobile Tariffs	6946
 Fixed and Mobile Telephony Charges	2775
 Fixed and Random Effects	1828
+Fixed-	10844
 Fixed-Fixed	6671
 Fixed-Mobile Convergence	1272
 Fixed-Wireless-Internet-Works.jpg	7110
-Fixed-broadband	6648,298
+Fixed-broad	10844
+Fixed-broadband	6648,298,3898
+Fixed-effect	10881
+Fixed-effects	10852
 Fixed-line	1013,1763,1783
-Fixed-telephone	718,6228
+Fixed-tele	10844
+Fixed-telephone	718,6228,3898
 Fixed-term	10776
 Fixed-wireless	1818,5080
-Fixer	7920,971
+Fixer	7920,971,1985
 Fixes	998
 Fixes L’évolution	998
 Fixing	9683,26
@@ -202,8 +207,10 @@ Internet Fixe Taux	998
 IoT Fixed Service	3898
 IoT Fixed Services and IoT	6100
 KSh Gross Fixed Capital Formation	2775
+Kyrgyzstan. Fixed	10844
 Land Disputes Ease As Govt Fixes	5070,1633
 Land Mobile Networks Fixed Networks	6946
+Landlocked Developing Countries Fixed	10844
 M-PESA and Fixed Services	6100
 M. Mobile and Fixed Operators	1872
 MTN’s Fixed Data	2776
@@ -251,6 +258,7 @@ Telecel’s Fixed Broadband	2776
 There’s No Fix for Weeks After FIJ	10034,231
 Thousand Fixed Line Subscriptions Devices and Terminals	9781
 TradeSmart Fixed Income EMS Cyber Heroines	7156
+Uzbekistan. Fixed-broadband	10844
 VDSL and Fixed Wireless Access	1818
 VHF PMR Fixed	6946
 VOICE SUBSCRIPTINS- FIXED WIRED	3862

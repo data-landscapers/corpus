@@ -2,6 +2,7 @@ ABC Attribute-Based Credential ANSI American National	10765
 AI Ate the World	7174
 AI Attorney General	4126
 AI CAPEX. Attach	4150
+AMADE and ATT	10854
 APC Chieftain Urges Atiku	2355,176,4,1,56,3,339,96,901,1006,1761,673
 ASP Application Service Providers ATU African	6946
 AT&T Global Solutions	6946
@@ -36,7 +37,9 @@ ATC Uganda Chief Executive Officer Dorothy	8730,311
 ATCON	6536,1671,840
 ATD Kafui Ekouhoho	1749
 ATDE220322 Wang	8604
+ATELIER	10821
 ATENÇÃO	3530,2027,15,247
+ATFPEN	10821
 ATHI-RIVER MODERN HOSPITAL Data Controller INST-6689191C417	7167
 ATHICHEM MODERN MEDICAL CENTRE LTD Data	7167
 ATHLéTISME	10688
@@ -96,7 +99,9 @@ ATTF du Luxembourg. L’équipe	10237
 ATTIC REALTORS LTD Data Processor INST-158919714A4	7167
 ATTORNEY GENERAL	3005
 ATTOUNGBRE Yves Konan	2342
+ATTRACTIVENESS TO DATA CENTER BUILD	10861
 ATTRIBUTION	28
+ATTRIBUTION AND DPI	10852
 ATTRIBUTION DE PERMIS	2342
 ATTRIBUTION DE PERMIS DE RECHERCHE	2342
 ATTRIBUTION DE PERMIS Le Conseil des Ministres	2342
@@ -105,6 +110,7 @@ ATTRIBUTION D’UN PERMIS JANVIER DE RECHERCHE	2342
 ATTRIBUTION RESERVATION ET ABROGATION D’ATTRIBUTION	998
 ATTRIBUTION Section	28
 ATTRIBUTIONS	1214
+ATTRIBUTIONS Article	10825
 ATTRIBUTIONS DU Z’UMUGENERWABIKORWA	1214
 ATU Administrative Council	6488,1395,1,54
 ATU CPL-2026	7825
@@ -257,7 +263,7 @@ Atlantic. Azure	411
 Atlantic. Cape Verde	3564
 Atlantic.58	5247
 Atlantica Ventures	10464
-Atlantique	5478,5234
+Atlantique	5478,5234,109,3
 Atlantique Assurance Vie	6883
 Atlantique Assurances	6883
 Atlantique Banque	3361
@@ -265,7 +271,7 @@ Atlantique Finance	6883
 Atlantique RAPPORT ANNUEL	998
 Atlantis Press	4432,5307
 Atlantis Technologies	10640
-Atlas	226,3396,2619,3752
+Atlas	226,3396,2619,3752,863
 Atlas AI	942,901
 Atlas Cloud Services	3859
 Atlas Countries Support	287
@@ -305,7 +311,7 @@ Atribuições Específicas	10754
 Atribuído	10754
 Atsimondrano	4741,668
 Atta-Kakra Essien	3674
-Attach	22,300,222,27,15,150,4,27,595,740,173,434,682,281,51,151,292,92,187,92,17,38,12,1,18,43,34,5,19,1,43,4,11,13,28,29,1,2,5,43,1,6,122,8,1,82,157,20,25,24,453,19,41,178,173,17,1,286,85,32,300,92,108,39,2,2,3
+Attach	22,300,222,27,15,150,4,27,595,740,173,434,682,281,51,151,292,92,187,92,17,38,12,1,18,43,34,5,19,1,43,4,11,13,28,29,1,2,5,43,1,6,122,8,1,82,157,20,25,24,453,19,41,178,173,17,1,286,85,32,300,92,108,39,2,2,3,3638
 Attach Company Certificate of Incorporation	736
 Attached	2989,4621,972
 Attached Files	9854
@@ -326,15 +332,17 @@ Attain	7538
 Attainment of EU	3787
 Attaque	1231
 Attaques	6959
+Atteignables	10858
 Atteindre	1702,8679
 Attempts	961,2346,676,1550,1146,3736
 Attend	2119,5665
 Attend Toolbox	1988
 Attend-il	4729
-Attendance	1009,545,434,7518
+Attendance	1009,545,434,7518,1350,14
 Attendance Register	1988
 Attendance Register Conduct	1988
 Attendance Register Number	1988
+Attendant	10822
 Attended	5283,2937
 Attendee List	8764
 Attendees	1554,314,1540,1688,4664,664
@@ -391,20 +399,21 @@ Attract	958,927
 Attract FDI	10274
 Attract ICT	958
 Attract Investment	10157
-Attracting	1885,7098
+Attracting	1885,7098,1858
 Attraction	1885
 Attractivity Reskilling	1885
 Attractivité	1247
 Attributable	10793
-Attributaire	3321
+Attributaire	3321,7555
+Attributaire Signe	10876
 Attributaires Provisoires	3321
-Attribute	2336,242,801,5227,1204
+Attribute	2336,242,801,5227,1204,1009
 Attribute Based Access Control	6423
 Attribute and Orchestration Service Providers	2318,6,103,20,94,25,48,44,62,5,53,41,1,3,50,41,11,18,4,70,1,8,259,18,157,163,119,78,69,141,37,21,465,78,145,55,254,225,138,45,60,43,101,181,78,116,183,19,70,19,178,5,104,1,149,7,16
 Attribute-based	10775
 AttributeSelection Require	8606
 Attributed	10729
-Attributes	8606,518
+Attributes	8606,518,1695
 Attributes Foreachpairofattributes	8606
 Attributes Standardisation Process	8606
 Attributes Symbol Example Application Name N	9124
@@ -412,7 +421,7 @@ Attributestandardisationprocess	8606
 Attributeswith	8606
 Attributeweighting	8606
 Attributeweights Namedominant	8606
-Attribution	28,9,698,263,1627,536,1406,794,3767,1087,499,51,10
+Attribution	28,9,698,263,1627,536,1406,794,3767,1087,499,51,10,44,57,2
 Attribution ATLANTIQUE TELECOMS C	998
 Attribution BADL-RIS Décision	998
 Attribution CELTEL NIGER SA	998
@@ -429,8 +438,10 @@ Attribution UIT Colonne	5361
 Attribution WELT HUNGER HILF Décision	998
 Attribution de Marché	5983
 Attribution de Marché Client	10400
+Attribution de NUP	10876
 Attribution des Fréquences	5361
 Attribution du Marché	9339
+Attribution--Please	10812
 Attribution-Noncommercial	2775
 Attributions	1214,1411,2736
 Attributions Ingingo	1214
@@ -453,6 +464,7 @@ Atuheire	7772
 Atuheire Abraham	7772
 Até Abril	2816
 Authorised Representatives and Power of Attorneys	8866
+BANQUE ATLANTIQUE BENIN Traitement	10821
 BANQUE ATLANTIQUE ET NITA RENFORCENT L’INTEROPÉRABILITÉ	6883
 Babylas ATINKPAHOUN	5436,556
 Balcão de Atendimento	4214
@@ -505,10 +517,12 @@ Comunidade. Através	2688
 Confidential Attributes Symbol Example Process Name	9124
 Connect Expo Series Atlanta	2521,659,249,939,974,1524,210,294
 Controllers ATOS Approved Training Organizations ATPL	2775
-Creative Commons Attribution	1212,6519,28,262,1,108,153,153,1303,975,51,10
+Creative Commons Attribution	1212,6519,28,262,1,108,153,153,1303,975,51,10,37,2
 Creative Commons Attribution CC	9025,1689
 Creative Commons Attribution License	8376
 Creative Commons Attribution NonCommercial ShareAlike	2709
+Creative Commons Attribution-Non- Commercial-Share Alike	10844
+Creative Commons Attribution-Non-Commercial	10841
 Creative Commons Attribution-NonCommercial-NoDerivatives	5656,5128
 Creative Commons Attribution-NonCommercial-Share Alike	10764
 Creative Commons Attrlbution-ShareAlike Ucense	1009
@@ -553,6 +567,7 @@ Eko Atlantic City	2134,1280,1786
 Eko Atlantic and Open Access Data Centres	8045
 El Attar	3451
 El Attoti	4432
+EndNote BibTeX Reference Manager Refer Atom	10878
 Estação de Aterragem	4250
 European Atomic Energy Community	1243
 European Union. Creative Commons Attribution	6436
@@ -568,6 +583,7 @@ FB Attorneys	8888
 FNB ATM	6996
 FREQUENCY OF THE ATTACK	1938
 Fayda. Attendees	2452
+Finance Attraction	10841
 Finance Minister Dr Cassiel Ato Forson	7739
 Finanças Attn	8166
 Former Attorney General and National Assembly Speaker	10042
@@ -612,7 +628,7 @@ James Atem Kuir	7933
 Jean Ateba Onguene	5065
 John OMO Secretary General Attachment	6488,586
 Jonas Atingdui	8479
-Joseph Atick	7111
+Joseph Atick	7111,3701
 Juba ATMS	261
 Julius Ihonvbere. The Attorney General and Minister	6871
 Jun’22 Nov’22 Sep’23 Aug’24 Oct’25 ATB	5247
@@ -647,6 +663,7 @@ Manuel Attelé Motorisé Ensemble	737
 Marguerite Fonkwen Atanga	4143
 Mario Atak Deng	4042
 Marius Atayi Guèdègbé	3682
+Mc Greece Europe Southern Europe Athens	10840
 Member Attendance Dr. Eng. L. Kunaka	1554
 Member Attendance Mr. E. Dhenhere	1554
 Member Attendance Mrs. M. Marongwe	1554
@@ -676,6 +693,7 @@ Ms. Elsie Attafuah	10160
 Módulo de Balcão de Atendimento Multicanal	9403
 N- ATLAS	6232
 NATO North Atlantic Treaty Organization CSA	6936
+NM ATEN GA YA GHA PASSO	10847
 National Digital Transformation Strategy. Attacks	8700
 NetOne Remains Idle O-Mari’s CABS ATM	6996
 Network Attached Storage	9123
@@ -730,6 +748,9 @@ Q2 TOTAL Athlone	8999
 Q4 POS ATMS INTERNET MOBILE MONEY	4517
 QUELQUES PHOTOS DES ATELIERS TECHNIQUES Atelier	10712
 R Atacora-Donga	3452
+RAPDP Atelier	10821
+RAPDP Atelier1	10821
+RAPID TECHNOLOGY ATTRIBUTION AND CHANGES CAUSALITY	10852
 RESULTATS ATTENDUS	10712
 RESULTATS ATTENDUS Amélioration	10712
 RESULTATS ATTENDUS Construction	10712
@@ -783,6 +804,8 @@ SharePoint Attacks	3364
 Situação Atual	9289
 Skilled Birth Attendants	4301
 So Policymakers Should Pay Close Attention	1243
+Société Atral SA	10821
+Société Atral SA Traitement	10821
 South Africa Atlantic	6502
 South Africa Attention Editors and Reporters	6305
 South Atlantic	2677,398,1373,1233,899
@@ -820,11 +843,13 @@ UCC Unveils the Atakulaaba Heritage Music Initiative	9781
 UK’s Office for Digital Identities and Attributes	10293
 UN ATOUT RÉGIONAL MAJEUR DANS	10711
 Um Aumento da Atenção	2816
-Under the Creative Commons Attribution	10714,51,10
+Under the Creative Commons Attribution	10714,51,10,37
 Unkept Promises Atical Foyoh Extends Olive	7182
 Vacant Athlone Harare	4896
 Victor Attah International Airport	10229
 Voltar Canais de Atendimento Fale	1192
+WEST AFRICA COUNTRY ATTRACTIVENESS	10861
+WEST AFRICA COUNTRY ATTRACTIVENESS TO DATA	10861
 Web Application Attacks	6671,275
 Web Application Attacks System Attacks Mobile	6671
 Web of Science Google Scholar Atari M	8460

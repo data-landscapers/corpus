@@ -37,7 +37,7 @@ NPHIL-16 and MoA-24	4202
 NPHRL	4202
 NPISH	2775
 NPISH1	2775
-NPJ Digit Med	8376
+NPJ Digit Med	8376,2505
 NPL Ratio	1828
 NPP National Women’s Organiser	10523
 NPPA Chief Executive Officer Fodie Konneh	9338
@@ -56,9 +56,10 @@ NPSRS II Lydia Lamisi Akanvariba	8371
 NPSRS II Oversight Committee	9730
 NPV Net Present Value ONECI National	3604
 NPV and IRR	3604,2935
-NPV of US	1867,8901
+NPV of US	1867,8901,61
 NPV-of-debt	4801
 NPVs and IRRs	3604,2935
+National Health Development Plan NPV Net	10829
 Npj Urban Sustainability	2096
 Número NPS	10757
 Opening the NPS	5420

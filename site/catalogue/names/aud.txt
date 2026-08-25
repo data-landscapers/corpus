@@ -1,4 +1,5 @@
 A-SEAT Audit Management Information System	9680
+ABBREVIATIONS AND ACRONYMS ACVs Contracting and Auditing	10829
 ACTING AUDITOR-GENERAL	3051
 ACTING AUDITOR-GENERAL. HARARE	3025
 AFRINIC's Three-Year Audit Still Needs	9508
@@ -95,8 +96,8 @@ Audiovisual	9067
 Audiovisual and Digital Media Industry Support	5198
 Audiovisual and Digital Media Industry Support and Services	5188
 Audiovisuales	4209
-Audiovisuel	4237,3703,832,281,1384
-Audit	3,31,201,308,611,1,646,541,134,36,539,59,104,500,147,265,41,35,15,43,89,1003,18,163,132,722,36,9,171,675,5,265,241,210,59,440,27,590,8,385,327,2,18,84,470,216,96
+Audiovisuel	4237,3703,832,281,1384,438
+Audit	3,31,201,308,611,1,646,541,134,36,539,59,104,500,147,265,41,35,15,43,89,1003,18,163,132,722,36,9,171,675,5,265,241,210,59,440,27,590,8,385,327,2,18,84,470,216,96,91,17
 Audit Act	9439
 Audit All	4217
 Audit Bill	9439
@@ -139,12 +140,13 @@ Audit and Inspection	5665
 Audit and Risk Management	10550
 Audit and Risk Management Committee	9781
 Audit and VAPT	10721
+Audit du SIF	10876
 Audit of Fawry	5869
 Audit of USAID	3583
 Audit. An RIR	3503
 Auditability	2958,3484,1106
 Auditable	10721
-Audited	1607,1,1,1,1,1,3284,637,1779
+Audited	1607,1,1,1,1,1,3284,637,1779,3507
 Audited Closing	10793
 Audited Financial Statements	3410,1486
 Audited Financial Statements for Econet	4896
@@ -158,7 +160,7 @@ Audited Rm Net	10793
 Audited Rm Raised Repaid	10793
 Audited-stage	1613
 Auditer	8515
-Auditing	236,547,1944,324,553,283,1009,3092
+Auditing	236,547,1944,324,553,283,1009,3092,2841
 Auditing Cybersecurity	1940
 Auditing Research Vol	9237
 Auditing. Accordingly	10793
@@ -204,7 +206,7 @@ Auditors	585,4311,4754
 Auditors Advisor	4896
 Auditors Control Advisor Date	4896
 Auditorías	4209
-Audits	2775,386,341,102,550,6584,37
+Audits	2775,386,341,102,550,6584,37,101
 Audits Lack	1000
 Audits and Assessments	6432
 Audits of DST	573
@@ -232,7 +234,8 @@ Broad Audience	1777
 C. Regular Audits	4610
 CESE Audition de Monsieur Hassan Tariq	8891
 Capacity Audit Checklist	3861
-Certified Information Systems Auditor	1940
+Certification Department and External Auditor Pass Pass	10819
+Certified Information Systems Auditor	1940,8925
 Certified Internal Auditor	3632
 Certified SIM3 Auditor Training	9470
 Chengeto Moyo Reporting Accountants and Auditors	4896
@@ -270,6 +273,7 @@ Deloitte Audit	7620
 Departamento de Auditoria	167
 Deputy Auditor General	9680
 Deputy Auditor General Mr. Morie Lansana	9680
+Description Audit du SIF	10876
 Desenvolvimento Inclusivo O Projecto de Audiências Virtuais	10782
 Detailed Audit Trails	5665
 Digital Platform Audit	5536
@@ -285,10 +289,13 @@ Environmental Audits	2775
 Environmental and Social Audit	3604
 Eswatini's Auditor-General	10108
 Expanded Implementation Support IAD Internal Audit	1264
+Expertise des Auditeurs Associés	10821
 External Audit Program	3604
 External Audit The Audit Committee	1154
 External Audit The Auditor-General of Zimbabwe	1554
 External Auditors	7204
+External Audits	10819
+External Audits Application Process for Potential Trust	10819
 FINANCE AND AUDIT COMMITTEE This Committee	718
 FISCALES ADJUNTOS DE LA AUDIENCIA PROVINCIAL	4209
 FISCALES JEFES DE LA AUDIENCIA PROVINCIAL	4209
@@ -301,8 +308,10 @@ Finance and Audit Committees	9506
 Financial Audit Report. RCZ	1154
 Financial Audit ToR	2094
 Financial Reporting The Audit Committee	1154
+Findings of Forensic Audit	10822
 Fiscal Audiencia Provincial	4209
 Fiscal Audiencia Provincial Fiscal de Instrucción Fiscal	4209
+Forensic Audit	10822
 Former Controller and Auditor General Ludovic Utouh	3632
 Functional Audit Committee The GAC	9650
 Gender Audit and Gender Strategy	9516
@@ -331,7 +340,7 @@ Internal Audit Function The Internal Audit	1554
 Internal Audit Lead Institutions	6936
 Internal Audit Plan	1554
 Internal Audit Report	408
-Internal Audit Unit	587,967
+Internal Audit Unit	587,967,9275
 Internal Audit Unit Financial Provisions	587
 Internal Auditor	587,677,290
 Internal Quality Audits	9855
@@ -346,6 +355,7 @@ LEGAL AUDIT AND COMPLIANCE DIRECTIVE	3861
 La Comunicación Audiovisual	9303
 Legal Audit and Compliance Directive	3861
 Legal Basis Audit Tool	7409
+Level of Assurance Approve Periodic Audit	10819
 Liberia's General Auditing Commission	9650
 Libya's Audit Bureau	10002
 Libya's Audit Bureau and Tunisia's Court of Auditors	10002
@@ -413,6 +423,7 @@ Public Audience Create	4126
 Public Audit Act	6946,1988,1379
 Public Audit Act No	741
 Quarterly Audience Measurement and Media Consumption Trends	6946
+Quarterly Audit	10829
 RECOMMENDED EXTENSIBLE AUDITABLE	6423
 RECOMMENDED REPLACEABLE AUDITABLE	6423
 REQUIRED EXTENSIBLE AUDITABLE	6423
@@ -474,6 +485,9 @@ Tweet Head of Libya’s Audit Bureau Khaled	10409
 Télécommunications Start-Up Audiences Publications	3675
 Uganda's Auditor General	3583
 Union Commission AUDA-NEPAD African Union Development	1814
+User Auditor Department	10819
+VI.8.3. Audits	10876
 WEIRD Audits	4253
 Waste Audit	1988
 Work-Integrated Audit	6832
+XI. AUDIT EXTERNE DU PROGRAMME	10876

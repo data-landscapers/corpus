@@ -11,6 +11,7 @@ ABYCARE CLINIC Data Controller INST-4925189B135 KERICHO	7167
 ACH Automated Clearing Houses AfCFTA African	1264
 ACK ST CLEMENT CHILD DEVELOPMENT CDC	7167
 ACTIONPHYSIO CLINIC Data Controller INST-153064874DF NAIROBI	7167
+ADJIBI Claude Edgard Octobre	10876
 AFC LEOPARDS SPORTS CLUB Data Controller	7167
 AFREEDATA CLOUD VAULT DATA CENTERS LIMITED	7167
 AFRICA CLOUD SPACE LIMITED Data Controller	7167
@@ -158,6 +159,7 @@ Aurelia Women's Clinic Data Controller INST-413102941D7	7167
 Automated Clearing House	2358,1299,22,26
 Automated Clearing House Related Indicator	7221
 Automated Clearing House of Angola	6938
+Automated Interbank Clearing System	10845
 Automating for End-to-End Claims Processing Whitepaper	9237
 Avec Clea	10803
 Azure and Google Cloud	7173
@@ -349,6 +351,7 @@ CLEOPHAMOR MEDICARE CLINIC Data Controller INST-9301059329A	7167
 CLEOPHAS MWANDIKI MIRITI Data Processor INST-563886EA3E8	7167
 CLERK MASTER ENTERPRISE LTD Data Controller	7167
 CLERK MASTER ENTERPRISE LTD Data Processor	7167
+CLES Indicateurs	10847
 CLEVELAND OLOSERIAN MEDICAL SERVICES Data Controller	7167
 CLEVELAND OLOSERIAN MEDICAL SERVICES Data Processor	7167
 CLICK HERE TO START	5574,215
@@ -358,11 +361,13 @@ CLICK N TELL LIMITED Data Controller	7167
 CLICK N TELL LIMITED Data Processor	7167
 CLICKBANX LIMITED Data Controller INST-793492B9777 NAIROBI	7167
 CLICKD	7629
+CLIENT CONNECTION	10876
 CLIENT SATISFACTION SURVEY	5679
 CLIII	6477
 CLIKNET SCOPES LIMITED Data Controller INST-78578115E29	7167
 CLIKNET SCOPES LIMITED Data Processor INST-78578115E29	7167
 CLIMATE CHANGE AND ADAPTATION NEEDS	1828
+CLIMATE CHANGE RISK AND VULNERABILITIES	10829
 CLIMATE Climate Change and Disaster Screening	3604
 CLIMATE FOCUS US	4972
 CLINIC Data Processor INST-1398694F487 KAJIADO Kenya	7167
@@ -384,7 +389,7 @@ CLOSELY HELD COMPANIES Memorandum of Incorporation	3714
 CLOSER LOOK AT THE CONGO’S	1828
 CLOSES IN LAGOS WITH EIGHT CALLS	7039
 CLOSING THE GAP	10714
-CLOUD	6477,3611
+CLOUD	6477,3611,786
 CLOUD Act	4676,416,210,948,171,50,46,4,59,891,1433
 CLOUD Act-bound	5302
 CLOUD Act-bound AI	5302
@@ -537,7 +542,7 @@ Clarification	3675,451,3861,559,1691,534
 Clarification of Applications	1638
 Clarification of Prequalification Documents	1638
 Clarifications	3675,2178
-Clarifier	8891
+Clarifier	8891,1985
 Clarifies	7972
 Clarify	4126,88,634,2700,3217,10
 Clarify Ecosystem Expectations	3503
@@ -612,7 +617,7 @@ Class0wasperfectlypredicted	8606
 Class1	8606
 Class1precisionof98	8606
 Class1withonlyeightfalsepos-	8606
-Classe	737,3830,6199
+Classe	737,3830,6199,81,28,1
 Classe Alunos Angola	10766
 Classe Alunos Angola Bengo Benguela Bié	10766
 Classe C	2866
@@ -634,9 +639,11 @@ Classe Professores Alunos	10766
 Classe Professores Alunos Angola	10766
 Classe Professores Alunos Angola Bengo Benguela	10766
 Classe de Iniciação	10766
-Classement	1247,1095,6549
+Classement	1247,1095,6549,1985
 Classes	9123,1643
 Classes C and D	3651
+Classes Simples Classes Classes Double-flux Double-flux	10847
+Classes Simples Classes Classes Nb	10847
 Classic	4964,4682
 Classic Talents Optimization Limited Data Processor	7167
 Classical	826,7140,317
@@ -659,6 +666,8 @@ Classification Expiration Date	1284
 Classification Framework Sovereign	10157
 Classification Framework Technologies	7548
 Classification Guidelines	7548
+Classification Internationale Type	10874
+Classification Internationale des Marchés CITE	10874
 Classification Investment Project Substantial Financing	3604
 Classification and Measurement Issues	5700
 Classification and Measurement of Financial Instruments	10793
@@ -675,13 +684,16 @@ Classificou	6709
 Classified	598,26,236,1393,1608,1505,1581
 Classified Data	3861
 Classified Must	5244
+Classified Warning Signs No Change	10835,3
+Classified Warning Signs No Change Best	10835,3
 Classified. The NDGC	3861
 Classify	34,4092,3155
+Classique Satellite Bilingue Franco arabe Passerelle	10847
 Classée	6479
 Claud John Kumalija	771
 Claude	1636,777,403,176,473,580,984,228,29,1,131,95,541,511,283,289,14,286,352,417,13,291,249,849,313
 Claude AI	8596,1325
-Claude Borna	6514
+Claude Borna	6514,4373
 Claude Code	5286,132,1564,2626
 Claude Cowork and Claude Tag	9608
 Claude Mythos	6468,3733
@@ -756,6 +768,7 @@ Clearly	961,816,47,164,1017,1121,757,114,247,144,277,35,269,499,468,815,550,1554
 Clearly Defined Financial Inclusion Outcomes	940
 Clearview AI	2521,659,249,939,974,1524,210,294,2923
 Cleaver	2096
+Clelia Rontoyanni	10841
 Clement	1828
 Clement Delangue	8014
 Clement Domingo	4997
@@ -783,18 +796,18 @@ Clever Menji Mbuyi	2880
 Clever Mwale	8279
 CleverCloud	5846
 CleverCloud and OVHcloud	5846
-Click	2504,1,161,2,42,8,24,55,265,23,1,305,56,62,249,160,1,1,63,78,38,265,23,62,64,41,536,20,137,169,158,42,95,78,11,123,92,99,46,156,93,107,1,14,71,23,138,24,9,204,250,15,46,32,220,1546,721,130,416,386
+Click	2504,1,161,2,42,8,24,55,265,23,1,305,56,62,249,160,1,1,63,78,38,265,23,62,64,41,536,20,137,169,158,42,95,78,11,123,92,99,46,156,93,107,1,14,71,23,138,24,9,204,250,15,46,32,220,1546,721,130,416,386,57,40
 Click HERE To Apply	9960
 Click Here Now To Discover	5574,215
 ClicknPay	2987
-Client	736,1082,1638,222,1987,758,1554,377,695,80,726,863
+Client	736,1082,1638,222,1987,758,1554,377,695,80,726,863,111,47
 Client Alert	8027
 Client Charter	6786
 Client Charter and Chairman	1282
 Client Communication	8999
 Client Connect Zone	10639
 Client Connect Zones	10639
-Client Connection	1867
+Client Connection	1867,9009
 Client Information	736
 Client Information Applicant Name	1877
 Client Information Name	736
@@ -810,6 +823,8 @@ Client Registry	5639
 Client Satisfaction Impact	10718
 Client Tunisie Telecom	1818
 Client UI Platform N	9124
+Client-Connection	10876
+Client-Connection. IV.2.4.1.3.1. Règles	10876
 Cliente	2816
 Cliente ENDE Entre	9040
 Cliente ENDE Gratuito Saber	9040
@@ -817,12 +832,13 @@ Cliente. Para	5319
 Clientes	2952,2217
 Clients	2461,2786,286,489,329,2648,456,400
 Clients No Appraisal Summary No Components	2473
+Clientèle	10858
 Cliff Effect	4844
 Clifton	8301
 Clima	1701,1115,232,1663,36,1071,200
 Clima de Trabalho Esta	2816
-Climat	1005,9606,101
-Climate	395,125,152,117,151,30,294,20,270,150,110,53,121,1468,127,278,1385,1,1058,139,95,863,146,467,365,687,494,200,587,57,15,203,140,5
+Climat	1005,9606,101,162
+Climate	395,125,152,117,151,30,294,20,270,150,110,53,121,1468,127,278,1385,1,1058,139,95,863,146,467,365,687,494,200,587,57,15,203,140,5,61,37,4
 Climate Action	1131,6271
 Climate Action Network	8891
 Climate Action Network International	8891
@@ -841,8 +857,10 @@ Climate Change Management Bill	8681
 Climate Change Performance Index	8891
 Climate Change Related Natural Disasters	1828
 Climate Change Related Natural Disasters Congo	1828
+Climate Change Risks and Vulnerabilities	10829
 Climate Change and AI	4126
 Climate Change and Adaptation Needs	1828
+Climate Change and Climate	10870
 Climate Change and Development Report	10763
 Climate Change and Disaster Screening	1284
 Climate Change and Future Crop Suitability	10763
@@ -853,6 +871,7 @@ Climate Climate Adaptation and Adaptation Resilience	970
 Climate Co-Benefits Assessment	5620
 Climate Crisis	3583
 Climate Disaster Response	10763
+Climate Expenditure	10870
 Climate Finance	7548
 Climate Forest Service	7548
 Climate Fund Energy	7548
@@ -951,7 +970,7 @@ Clinically	8301
 Clinician	771
 Clinicians	3651,3536
 Clinics	4535,4070
-Clinique	737
+Clinique	737,10084
 Cliniques	9296
 Cliniton Health Access Initiative	3651
 Clinton Brown	10602
@@ -973,7 +992,7 @@ Clnactivlled	4301
 Clo Chief Information Officer MDA Ministries	6936
 Clock Tower K’la Uganda	3021
 Cloete	8970
-Close	1264,829,1293,576,204,527,155,48,2039,13,12,2469,77,314
+Close	1264,829,1293,576,204,527,155,48,2039,13,12,2469,77,314,1009,15,34
 Close Close	3954,1817,84,268,178,26,401
 Close Corporations Act	3714
 Close Hi	3364
@@ -990,7 +1009,7 @@ Closed-ended Likert-scale	2948
 Closed. D400601-02	176
 Closed. Disbursed-usd	176
 Closedended	10764
-Closely	9877,92,301
+Closely	9877,92,301,549
 Closely Held	3714
 Closely Held Companies	3714
 Closely Held Companies SCHEDULE	3714
@@ -1021,7 +1040,9 @@ Closing Period Result Date Result Date	4653
 Closing Period Result Month	4653
 Closing Period Revise People	4653
 Closing Period Strengthening the Enabling Environment Number	1867
+Closing Period Value Month	10870
 Closing Rev. Closing	6928
+Closing Rev. Closing IDA-73570 Effective	10870
 Closing Rev. Closing IDA-79260 Effective	7877
 Closing Rev. Closing Not IBRD-96930	2712
 Closing Rev. Closing Not IDA-79260	4688
@@ -1044,7 +1065,7 @@ Closure	1988
 Closure Elections	4608
 Closure Tier	10721
 Clotchor Secongo	5555
-Cloud	168,790,3,44,199,11,16,33,99,376,1,26,39,9,71,53,2,163,296,1,25,152,24,2,199,129,444,112,67,82,151,50,20,2,202,58,7,24,109,178,91,55,152,44,54,15,242,110,44,53,129,102,446,6,170,85,184,2,11,13,32,103,111,43,98,114,58,136,68,36,34,193,77,86,39,58,291,108,58,28,28,251,96,14,235,283,6,27,340,15,160,322,67,97,32,532,54
+Cloud	168,790,3,44,199,11,16,33,99,376,1,26,39,9,71,53,2,163,296,1,25,152,24,2,199,129,444,112,67,82,151,50,20,2,202,58,7,24,109,178,91,55,152,44,54,15,242,110,44,53,129,102,446,6,170,85,184,2,11,13,32,103,111,43,98,114,58,136,68,36,34,193,77,86,39,58,291,108,58,28,28,251,96,14,235,283,6,27,340,15,160,322,67,97,32,532,54,69,17
 Cloud Access	3861
 Cloud Act	6415,72,906
 Cloud Ad7o. CptloioundinAdGoopvteiornnmineGntovernment	10157
@@ -1185,6 +1206,7 @@ Clouds2Africa	1011,3133,849
 Cloudthat	8130
 Cloudwards	7215,78
 Clovis Pilla	3335
+Clowes	10819
 Club Dsi	5260
 Club Dsi Bénin	5260
 Club Dsi. La CoP	5260
@@ -1205,6 +1227,7 @@ ClustalW	9475
 Cluster	351,1370,24,2,30,5,18,33,3,10,254,534,179,70,578,114,10,61,25,173,147,867,38,13,100,504,231,126,553,1272,911,393,773
 Cluster Biometric	9772
 Cluster Four	7695
+Cluster Randomized Trial. PLoS One	10881
 Cluster Solaire	1232
 Cluster des Télécommunications	7374
 Clustering	8606
@@ -1233,7 +1256,8 @@ Clínicas de Porto Alegre	10188
 Clínicas de Ribeirão Preto	10188
 Clóvis Silva	9271
 Clôturant	9468
-Clôture	1187,2209,6414
+Clôture	1187,2209,6414,1066
+Clôture du Programme Terra Bénin	10876
 Clúster	1701
 Clúster Alimentación	1701
 Clúster Alimentación Las	1701
@@ -1297,9 +1321,16 @@ DANTEZ MEDICAL CLINIC Data Processor INST-1284273EE02	7167
 DASONET CLEANING COMPANY LIMITED Data Controller	7167
 DATHIWA MEDICAL CLINIC LTD Data Processor	7167
 DAWAFRONT PHARMACEUTICALS AND CLINIC LIMITED Data	7167
+DE CLASSE VI.4.1 NATURE ET ETAT	10847
+DE CLASSE VI.4.2 NATURE ET ETAT	10847
+DE CLASSES VI.4.3 Origine	10847
+DE CLASSES VI.4.4 Origine	10847
 DE LA CLASSIFICATION ET	113
+DE SALLES DE CLASSE	10847
 DEBTS OF CLOSELY HELD COMPANIES Joint	3714
 DEBTS OF CLOSELY HELD COMPANY	3714
+DEFINITION DES TERMES CLES	10876
+DEFINITION DES TERMES CLES1 Aliénation Transmission	10876
 DELIVERANCE CHURCH KASARANI MEDICAL CLINIC Data	7167
 DEMAS MODERN MEDICAL CLINIC Data Controller	7167
 DENCARE MEDICAL CLINIC Data Controller INST-8203459541E	7167
@@ -1345,6 +1376,7 @@ Data Capturer Ward Clerk Administration Manager	8603
 Data Center IA Cloud	6375
 Data Center and Cloud	5987
 Data Center and Cloud Services Directives	9123
+Data Centers Cloud	10861
 Data Classification	3861,1383,219,969
 Data Classification Data Classification Define	6432
 Data Classification Policy	4214
@@ -1360,6 +1392,7 @@ Data and Cloud Strategy	1912
 Date Closing Period Month	6579,349
 Dec-2020 Closing Date	10779
 Dec-2021 Closing Date	10779
+Dec-2026 Operation Closing	10870
 Dec-2027 Operation Closing	2712
 Dedicated Cloud Budget Lines	10157
 Dedicated Cloud Interconnect	1363
@@ -1368,10 +1401,12 @@ Deliver Subsidised Sovereign Cloud Services for Nigerian	6058
 Democratic Climate Financial	970
 Dentosense Dental Clinic Data Controller INST-201770D3C82	7167
 Deployment Type Class	736
+Deterioration Bouncing Back Not Classified	10837
 Deterioration Increasing Deterioration Not Classified	10759
 Deterioration Increasing Deterioration Not Classified Best	10759
-Deterioration No Change Not Classified	10759
+Deterioration No Change Not Classified	10759,76,3
 Deterioration No Change Not Classified FOUNDATIONS	10759
+Deterioration No Change Not Classified SECURITY	10837
 Dh100m Maroc Numeric Fund. Cloud	168
 Diagnostic Reports Privacy Controls Clinical	2477
 Digibank and Fintech Cluster	4150
@@ -1396,6 +1431,7 @@ EAGLE HEALTH AND CLINIC SERVICES Data	7167
 EASTEND MEDICAL CLINIC Data Controller INST-2220984631A	7167
 EAZZY DENTAL CLINIC LIMITED Data Controller	7167
 EBTISAMA DENTAL CLINIC LIMITED Data Controller	7167
+ECOLES ET SALLES DE CLASSES PUBLIQUES	10847
 EHA Clinics	4972
 EL CAMBIO CLIMA	4209
 ELANDFAMILY MEDICAL CLINIC LIMITED Data Controller	7167
@@ -1410,6 +1446,7 @@ EU's Cloud and AI Development Act	10088
 EU-US CLOUD Act	10088
 EUR Climate Health	970
 EU’s Cloud Service Restrictions	6582
+EVOLUTION COMPARATIVEDE QUELQUES INDICATEURS CLES XII	10847
 EX CL Dec 1143-1167 XL E.pdf African Union	1243
 EXECUTIVE SUMMARY Kenya’s Cloud Policy	6432
 EXTERNAL RELATIONS FOR CLOSELY HELD COMPANIES	3714
@@ -1417,6 +1454,7 @@ East Africa Cloud Region	1720,2,4749,2768
 East Africa. Clear	8449
 East African Maltings LTD Clinic Data	7167
 Eco-friendly Cloud Market Study	1264
+Ecoles Latrines Jardins Cantines Terrain de Clôtures	10847
 Econet InfraCo Mr Roy Chimanikire Cleopas	4896
 Economic Classification	2775
 Economic Cluster	3583
@@ -1430,6 +1468,7 @@ Education Cluster. Education	1777
 Effectiveness Closing	2989
 Egypt. CloudFront	1719
 Electrical Class Ratings	9123
+Electricité Terrain de Clôtures	10847
 Else Is Building Kasi Cloud	5200
 Emergency Telecommunications Cluster	2271,4378,725
 Emerging A1- Classification	7548
@@ -1444,6 +1483,8 @@ Entities GCSPs Clearly	6432
 Entrance Rooms Class	9123
 Environment and Climate Change	7167
 Environment and Climate Change Space	1131
+Environment and Climate Change Statistics	10870
+Environment and Climate Comments	10870
 Environmental And Social Risk Classification Moderate	2291
 Environmental And Social Risk Classification Substantial	1704,1752
 Environmental and Social Clauses	1988
@@ -1469,7 +1510,8 @@ Exit Clause All	6432
 Exit Strategy Data Classificatio	6432
 Expanding AI Adoption for Climate Change Adaptation	1814
 Expanding Climate-Resilient Broadband Connectivity	3604
-Expected Approval Date Expected Closing Date	1867,1737,7164
+Expected Approval Date Expected Closing Date	1867,1737,7164,61
+Expected Closing Date	10832
 Expected Program Closing Date	3604
 Expenditure CLMS Converged Licensing Management System	718
 Extend Google Cloud	4434
@@ -1575,6 +1617,7 @@ Google’s African Cloud Summit	8598
 Google’s Inaugural Africa Cloud Summit	3003
 Google’s Inaugural Africa Cloud Summit Government	3965,1438,1506
 Gov-Cloud Government Cloud HR Human Resource	6432
+Governance Climate Change and Disaster Screening	10829
 Government Cloud	3557,2423,452,2176,2177
 Government Cloud Adoption	10157
 Government Cloud I-1	10785
@@ -1618,7 +1661,7 @@ Hospitals Clinics Laboratories Other Major	8605
 Hospitals and Clinics	8677
 House Approves Close	1798
 House of Commons Library. Clark	5675
-Huawei Cloud	376,2440,805,238,2794,1326,2819
+Huawei Cloud	376,2440,805,238,2794,1326,2819,63
 Huawei Cloud FinTech Summit	6653
 Huawei Cloud SSA	376
 Huawei Cloud South Africa	376
@@ -1636,8 +1679,10 @@ IKA Cloud	8502,546
 IMPLEMENTATION AND GOVERNANCE Policy Clause Implementation	6432
 INTERNAL RELATIONS FOR CLOSELY HELD COMPANIES	3714
 INVESTIGACION ALIMENTOS SEGURIDAD BOSQUES CLIMATICO PESCA	4209
+INVESTMENT CLOUD AND DATA CENTER CAPITAL	10861
 ISP Service Classifications. No. ISP Service	3386
 IT. Cloud	9455
+IV.1.1.7.3 Clôture	10876
 Impact of Climate and Health Shocks	1828
 Implement Cloud Policy	6432
 Improve the Business Climate	7160
@@ -1695,7 +1740,7 @@ KONZA CLOUD EXPANSION	5793
 KONZA Cloud	6432
 Kamukunji cluster.pdf	7573
 Kasese Deputy Town Clerk Zedekiah Kambasu	8661,134
-Kasi Cloud	3477,77,1356,290,1176,204,486,263,3176
+Kasi Cloud	3477,77,1356,290,1176,204,486,263,3176,356
 Kasi Cloud Datacenters	6376
 Kasi Cloud Datacenters Flags Off West	6376
 Kasi Cloud Datacenters Lagos State Affirms	6376
@@ -1768,6 +1813,7 @@ MCS Cloud	3859
 MEDICAL CLINIC LTD Data Controller INST-57255188A6C	7167
 MEDICAL CLINIC LTD Data Processor INST-57255188A6C	7167
 MEMBERSHIP OF CLOSELY HELD COMPANIES Number	3714
+MICS Multiple Indicator Cluster Survey MOH	10829
 MIGRATION TIMELINE Comprehensive Guide for Kenya Cloud	6432
 MINED CLAIM IS REFUTED	3745
 MINICT's ICT4GOV Cluster Strategy	9124
@@ -1775,6 +1821,7 @@ MINIMUM REQUIREMENTS BY CLASS OF SOCIETIES	7845
 MINISTRE CHIFFRES CLÉS FAITS MARQUANTS	2342
 MTN Moves Closer	9117
 MUDANÇAS CLIMÁTICAS	2816
+MW Kasi Cloud Lagos	10861
 Malangu Kabedi. Clément MUAMBA	7783
 Manage Climate Risks and Bolster Resilience	10420
 Manage Security Terms In The Cloud	34
@@ -1803,6 +1850,7 @@ Microsoft Cloud	411
 Microsoft’s Climate Innovation Fund and Mirova	10464
 Middle East. Huawei Cloud	8495
 Mike Clare	2677
+Minonkpo Clinic	10833
 Model Contractual Clauses	1243
 Modi’s New Zealand Visit Closed	2857,3026,94
 Monsieur Djeket Clément-Pascal OGA Chef du Service	10237
@@ -1816,6 +1864,7 @@ Mudanças Climáticas	414,2402,1458,1389
 Mudanças Climáticas A IA	2816
 Multi-Cloud Support Strategy Cloud	6432
 Multiple Cluster	970
+Multiple Indicator Cluster Survey	10829
 Multiple Indicator Cluster Surveys	10714
 Muthaiga Golf Club. CA Chairperson Ms	6946
 NASS Clerk Said	10034,231
@@ -1833,6 +1882,7 @@ NVIDIA Cloud Partner	2607,2704,128,1141
 Namibe NGANETA CLAUDERINHA FIGUEIREDO DOS SANTOS	10751
 Namibia. HPC Cluster Specifications	9475
 Namibians. Cloete	8970
+Naomi Clare Lee Patient	10881
 National AI Research Cloud	5413
 National Cancer Clinical Trials Programme	7845
 National Clean Cooking Energy Strategy	10460
@@ -1867,10 +1917,13 @@ National Framework for Climate Transparency for Senegal	3430
 National Government Expenditure Classification	2775
 National Interoperability Use Cli	1009
 National Partner Cloud	10798
+National SEXE Classique Satellite Bilingue	10847
 National Sovereign Cloud	5297,14,1356,3086,200
 National Sovereign Cloud Initiative	8986,132,455,98,753,257
+Neil Clowes	10819
 NetOne Joins Govt’s Mega Clean-Up	3003
 NetOne Takes Clean-Up Drive Nationwide	8639
+Network IXPs Hosting Cloud	10861
 Network. Cloud	9123
 Networking Cloud	6832
 News Agriculture A Closer Look	5407,676
@@ -1893,6 +1946,7 @@ Nouvel Engagement Client ERANOVE	2342
 Nov-2023 Google Cloud MoU	1636
 Number of Classrooms	1988
 OBLIGATION OF THE CLIENT	3678
+OCRC Classé	10821
 OFFICE USE ONLY Fee Class	1877
 OVERVIEW OF CLOUD COMPUTING	6432
 OVERVIEW OF CLOUD COMPUTING Policy	6432
@@ -1921,7 +1975,9 @@ P176459 Environmental and Social Risk Classification	1228
 PADMPME. Clôturé	10204
 PART FOUR CLASS LICENSES	762
 PART OF THE CLIMATE CONVERSATION	10261
+PBC Name Baseline Closing Period	10870
 PDG de Cloudflare	7010
+PINAUD Clara Statut	10880
 POLICY STATEMENT Policy Clauses Implementation Guidelines	6432
 POLL CLOSED Don't	5551
 PUBLIC CLINICAL TRIAL UNIT AND NATIONAL	7845
@@ -1971,6 +2027,8 @@ Pretoria Close Menu Get	6898
 Private Cloud VPN Virtual Private Network	6432
 Private Networks and Closed User Group	762
 Private Sector Data Closure	3810
+Privé Classique Satellite Bilingue Franco arabe Passerelle	10847
+Privé Privé Commun Classiqu Satellite Bilingue	10847
 Programme CLE	2966
 Programmes Climate	970
 Project Clearance	5665,2774
@@ -1981,6 +2039,7 @@ Project Geographical Identifier Mozambique Current Closing	4653
 Project Project Closure	1778
 Promotion of Climate Smart Agriculture Specialists Promotion	1988
 Proposed Deadline Closing	1284
+Protection Cluster	10854
 Provide Cloud	6432
 Provider Class A US	736
 Provisions Concerning Closely Held Companies	3714
@@ -1998,6 +2057,7 @@ REPUBLIC OF MOZAMBIQUE Claimant	1829
 RFP. Closing	9676
 RMB Clearing Bank	6870
 Railways Golf Club. Regional Office	6946
+Rating Class EGDI Rank LOSI Rank	10840
 Rationale The Kenya Cloud Policy	6432
 Real-Time Clearing	5420
 Registration and Emission Class Certification	736
@@ -2011,6 +2071,7 @@ Responsable Open Data. Cliquez	9406
 Resume CLOUD Act	10088
 Rethinking the Far Right and Climate Governance	7857
 Revised Closing	6833
+Risk Classification P177003 Investment Project Financing	10829
 Risk Closely	6947
 Rodney Cloete	8970
 Rohit Amritlal Devani Clinic Data	7167
@@ -2040,6 +2101,7 @@ SUNSET CLAUSES AND REVIEW TRIGGERS	3861
 SUPREMACY CLAUSE APPLICATION	3861
 SYSTAC- Automated Clearing System	969
 Safaricom Cloud	3859
+Safe Space Club Mentors	10829
 Said To Be Biggest Client for FDLR’s	3245
 Sampling Zones Classification County Uasin Gishu	7869
 Samson Wanjala Clinic Data Controller	7167
@@ -2072,6 +2134,7 @@ Sistema de Clasificación	4209
 Sistema de Classificadores	10783
 Sistema de Pagamentos Instantâneos Segmento Clientes	5169
 Skill&Tell Club	10687
+Slowing Improvement Slowing Deterioration Not Classified	10835,3
 Small Claims Courts	9546
 Small and Medium-Sized Enterprises and Clients	10718
 Smart Click Africa	3658,2617,145,3959,2,310
@@ -2212,12 +2275,16 @@ Use of Accredited Cloud Service Providers Contract	6432
 Utilities Climate	970
 V. Clarke	5349
 VERS L’ATTEINTE DES OBJECTIFS CLÉS	2342
+VI.1 REPARTITION DES SALLES DE CLASSES	10847
+VI.3 SURFACE DES SALLES DE CLASSE	10847
+VI.8.5. Classement	10876
 VIDEOS CLUBS Y SIMILARES	4209
 VIDEOS CLUBS Y SIMILARES CARPINTERIAS EN	4209
 VII. Classification	6612
 Virtual Private Cloud	6432
 Vision A Clientele	1282
 WABORE MEDICAL CLINIC Data Controller	7167
+WAEMU Automated Interbank Clearing System	10853
 WBG Climate Change Action Plan	3604
 WBG’s Climate Change Action Plan	1867
 WHO's International Classification of Diseases	9370
@@ -2234,8 +2301,11 @@ Workload Classification Framework A2- Framework	7548
 World Bank Angola Country Climate Development	10763
 World Bank Client Connection. Figure	10768
 World Bank Climate Change Knowledge Portal	10763
-World Bank’s Client Connection	3604
+World Bank Income Group Classification	10846
+World Bank’s Client Connection	3604,7225
 XAfrica Data Centres and Baobab Cloud Services	6299
+XVI. PROCÉDURE DE CLÔTURE DU PROGRAMME	10876
+Year Closed The World Bank	10857
 Year of Final Close	4972
 York City. Click	3720
 Zadara AI Cloud	3300

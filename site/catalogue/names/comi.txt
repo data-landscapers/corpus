@@ -11,11 +11,15 @@ COMIGEM COMIGEM	4127
 COMIGEM Minerals and Gems Trading Office	4127
 COMISARIA LOGÍSTICA E NARCÓTICOS Y LABORATORIO	4209
 COMISION INFANTIL	4209
+COMITE DE PILOTAGE Direction Générale ANDF	10876
+COMITE MEF D	10876
 COMITÉS D’AUDIT ET DE GESTION DES	2342
+CONSEIL DES MINISTRES COMITE D’OCROIEM NTITAETION	10876
 CROSS-BORDER DATA FLOWS AND INTERNATIONAL COMITY	3861
 Cables Are Coming	2677
 Celador Comisario Grupo D Coordinador Grupo	4209
 Comienza	9303
+Comin	10856
 Coming	434,3213,785,1390,2188,2052
 Coming AI Tsunami	6948
 Coming Soon	1154,400
@@ -102,14 +106,16 @@ Comissões Provinciais Eleitorais	539
 Comissões de Trabalho Especializadas	539,5252,3089
 Comissões de Trabalho Especializadas da Assembleia Nacional	8880
 Comite Nacional de Inclusao Financeira	2138
+Comite de Pilotage Unique	10829
 Comite de Satélite	1215
-Comité	545,98,104,500,432,23,53,213,374,233,129,104,237,10,207,43,268,636,211,131,56,513,289,97,124,186,75,102,50,696,88,469,235,90,162,5,25,30,49,64,21,22,60,38,427,60,216,34,185,3,178,225,195,308,209,136,214,37,81,42,130,18
+Comité	545,98,104,500,432,23,53,213,374,233,129,104,237,10,207,43,268,636,211,131,56,513,289,97,124,186,75,102,50,696,88,469,235,90,162,5,25,30,49,64,21,22,60,38,427,60,216,34,185,3,178,225,195,308,209,136,214,37,81,42,130,18,26,4,1,15,8,25,2
 Comité Científico	10487
 Comité Consultatif Communautaire	2342
 Comité Directivo da SADC	9799
 Comité Director	7945
 Comité Director.O	7945
 Comité Especial	1701
+Comité Inter-États de Lutte	10874
 Comité Ministériel	8328
 Comité Nacional	9065
 Comité Nacional Derechos	4209
@@ -123,12 +129,16 @@ Comité Nacional de Seguridad	4209
 Comité Nacional de Transporte	4209
 Comité Nacional de Turismo	4209
 Comité National	2625
+Comité National de Suivi du RGE	10875
 Comité Régional de Normalisation Financière	9177
 Comité Stratégique	822
+Comité Stratégique DAF	10874
 Comité Technique	3396,1739,2029
 Comité Technique Consultatif	1005
+Comité Technique National du RGE	10875
 Comité Technique de Coordination	10712
-Comité Technique de Supervision	5531
+Comité Technique de Suivi	10829,51
+Comité Technique de Supervision	5531,5345
 Comité Técnico	5721
 Comité Técnico de Avaliação Científica da IEEE	2816
 Comité Técnico de Cibersegurança	4147
@@ -136,12 +146,14 @@ Comité de Balanza de Pagos Trabajos de Seguimiento Coyuntura	4209
 Comité de Datos Fiscales	4209
 Comité de Direcção	8594
 Comité de Facilitation	5993
+Comité de Gestion des Etablissements Scolaires CE1	10847
 Comité de Iniciativa Nacional de IA	3519
 Comité de Liaison	4276
-Comité de Pilotage	235,6929,561,1681,994,312
+Comité de Pilotage	235,6929,561,1681,994,312,117
 Comité de Pilotage Open Data	747,1,8658
 Comité de Pilotage Open Data. Il	747,1
 Comité de Pilotage Open Data. Un	748
+Comité de Pilotage Unique	10829
 Comité de Pilotage. Le Comité Technique de Coordination	10712
 Comité de Pilotaje	5111,183
 Comité de Politique	2623
@@ -150,6 +162,7 @@ Comité de Preços	1215
 Comité de Restructuration	2342
 Comité de Stabilité Financière	8316
 Comité des Affaires Monétaires	7956
+Comité des Droits	10826
 Comité des Statistiques des Finances Publiques	9425
 Comité des Statistiques des Finances Publiques. Cette	9425
 Comité du Pilotage	822
@@ -171,12 +184,15 @@ D.C. Comité National Economique	1828
 Dados Comissão de Acompanhamento	10766
 Escritório Coordenadora da Comissão de Protecção	10750
 Events Happening Now No Events Coming	10707
+Ex Comité Technique de Supervision	10876
 Finances MEMBRES DU COMITÉ TECHNIQUE Président	10712
 Fiscalía General Secretario General Comisión Nac	4209
 Funcionamento da Comissão Técnica	10755
 Gestion du Comité	8269
+III.1.1.3 Comité	10876
+Interfaces Service Comité	10876
 La Comisión	4209
-Le Comité	735,2320,4837,64
+Le Comité	735,2320,4837,64,2870,48,2
 Le Comité Technique de Coordination	10712
 Le Comité de Pilotage	9406,1306
 Le Comité de Pilotage Open Data	9406
@@ -194,6 +210,7 @@ Nomination des Membres du Comité National	2625
 Objectifs CP Comité de Pilotage CSC Cellule	10712
 Open Data. Ce Comité	9406
 Open Data. Elargissement du Comité de Pilotage	9406
+Organisme Nombre de Comités Villages	10876
 POSAF. Le Comité de Pilotage	10712
 Parlamento Letrado Mayor Vice Presidente Comisión	4209
 Pour le Comité	6739

@@ -116,6 +116,7 @@ Chesongoch Vocational Training Centre Data Processor	7167
 Chief Executive Officer of Vodacom Congo	5714
 Chuka Technical and Vocational College Data Controller	7167
 Chuka Technical and Vocational College Data Processor	7167
+Chèvre Mouton Volaille	10841
 Civic and Voter	10016
 Cnr Voortrekker And Main Road	8999
 Cnr Voortrekker Rd and Jan Van Riebeeck	8999
@@ -189,6 +190,7 @@ Electronic Vocational Training Information Management System	2989
 Electronic Voters' Register	1681
 Electronic Voting Machines	6782
 Electronic Voting Technologies	2541
+Elevage des Volailles	10830
 Emerging B2- Volume of FDI	7548
 Enriching Voyage	2367
 Ethiopia. Voice and Messaging Voice	3898
@@ -237,6 +239,7 @@ GPU Technologies Accelerator Educational B1- Volume	7548
 GSM Active Voice Subscriptions	3862
 Gates Foundation-backed African Next Voices	8552,1392
 Ghana Vocational Education and Training Upgrade Project	258
+Glo Vodafone and Airtel Tigo Prepaid	10822
 Global Privacy Law Review Vol	6026
 Global Voice Group	5033,3802
 Global Voices	1851,7231,317
@@ -321,6 +324,7 @@ Long Term Mean LVSR Low Volume	2775
 Long Voyage	2367
 Low Voltage	9409
 Lyn Voegele	5882
+L’Association des Volontaires	10826
 L’équipe du Journal Le Soleil Votre	2353,47,39,1,1,1,1,35,104,165,81,292,300,1479,308,258,41,255,18,1345,145
 M Vodacom Tanzania	4521
 M-Pesa. Vodacom Tanzania	8624
@@ -349,6 +353,7 @@ Ministro Vocal de Mesa Secretario de Mesa	4209
 Ministro de Estado Ministro Vocal de Mesa Secretario	4209
 Ministro de Estado Vocal de Mesa Magistrado Tribunal	4209
 Ministro de Estado Vocales Mesa Parlamento	4209
+Ministry for Vocational Training	10841
 Ministère. Vous	2514
 Minutes International Voice In Minutes	9781
 Mn Voice	3898
@@ -404,6 +409,7 @@ Omdia. Vodacom Tanzania	6102
 On-Net Domestic Mobile Voice Traffic	2776
 On-Net Voice Traffic	2776,3895
 Orange and Vodacom	2278,1697,175,2006,437
+Orange and Vodafone	10861
 Otto and Voss	5700
 Out International Voice Out Minutes Sessions	9781
 Out-bound Roaming Outgoing Voice Traffic	6671
@@ -417,6 +423,7 @@ PROPOSED VOLUNTARY DELISTING	4263
 PROPOSED VOLUNTARY DELISTING OF ECONET WIRELESS	4896
 PSTN VOICE TRAFFIC	6000
 PSTN Voice Traffic	6000
+PUBLIC Health Service Tax Benefits Voting	10819
 Parlamento Consejo Sup. PJ Constitucional Vocales	4209
 Partner States C2- Volume	7548
 Permanent Voter Card	8551
@@ -483,12 +490,14 @@ Saving Voices Project	5682
 Second Voluntary National Review Report	6474
 Section II Vote	17
 Short Message Service VoIP	6000
+Siemens PAIX Vodafone Vodafone RKD Raxio	10861
 Sierra Leone Gazette Vol. CXLX	410
 Soroush Vosoughi	8891
 Sous la Haute Impulsion de Votre Majesté	8891
 South Africa Vote	1601,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1272,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2272,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
 South Africa’s Vodacom Group	4801
 South Sudan Vodacom South Africa	5908,442
+Southern Voice	10831
 Space X and Vodacom	5087
 Special Votes	7266
 St. Lucia Voter Registration System	10714
@@ -609,8 +618,8 @@ Vocales	4209
 Vocales Consejo	4209
 Vocales Consejo Superior	4209
 Vocales Magistrado Tribunal Magistrado	4209
-Vocation	2756,25
-Vocational	1814,973,6829
+Vocation	2756,25,8040,1
+Vocational	1814,973,6829,1225
 Vocational Cap	6921
 Vocational Centre	6946
 Vocational College TVET Technical Vocational Educational	2775
@@ -620,7 +629,7 @@ Vocational Training Colleges	7204
 Vocational and Tertiary	958
 VodaCash. Al Americani	5714
 VodaPay	6563,1474
-Vodacom	733,224,167,402,722,30,350,3,3,121,61,52,915,79,113,80,95,2,90,200,79,211,40,43,81,94,3,57,2,35,42,80,187,319,29,275,64,19,54,69,6,10,98,29,99,96,30,121,102,82,32,75,4,195,99,79,49,173,22,149,118,5,135,2,1,1,105,309,173,44,85,29,59,167,141,468,6,52,81,141,100,2,33,8,59,68,45,29,2,35,23,56,79,152,7,27,51,124
+Vodacom	733,224,167,402,722,30,350,3,3,121,61,52,915,79,113,80,95,2,90,200,79,211,40,43,81,94,3,57,2,35,42,80,187,319,29,275,64,19,54,69,6,10,98,29,99,96,30,121,102,82,32,75,4,195,99,79,49,173,22,149,118,5,135,2,1,1,105,309,173,44,85,29,59,167,141,468,6,52,81,141,100,2,33,8,59,68,45,29,2,35,23,56,79,152,7,27,51,124,59
 Vodacom Bolster DRC Rural Network Coverage	2278
 Vodacom Business	2572,814,473,2734,1444
 Vodacom Business Africa Limited	3862
@@ -722,6 +731,8 @@ Vodafone Kenya	7204,1578
 Vodafone Kenya Limited	7204
 Vodafone Kenya Limited. Following	7204
 Vodafone Mozambique	8037
+Vodafone and Airtel Tigo	10822
+Vodafone and Airtel Tigo. The National Communications	10822
 Vodafone and AirtelTigo	582
 Vodafone and Maroc Telecom	2755
 Vodafone and Orange Group	8113
@@ -796,9 +807,9 @@ Volet Benin'. Provides	357
 Volet du PSE Montant Réalisations Prévisions	2966
 Volker T	3583
 Volo Volo	2881
-Volontaires	5304,2366,651,857
+Volontaires	5304,2366,651,857,1697
 Volontariat	8028
-Volonté	1679,9033
+Volonté	1679,9033,162
 Volovolo	2881
 Volta	236,2540,4681,238,675
 Volta Region	789,1987,1350,3828,1466,10,106
@@ -862,7 +873,7 @@ Vote Total ZiG16	4390
 Vote Total ZiG763	4391,1
 Vote Will Be Fought	7445
 Vote of Confidence Adding	2757
-Voter	1630,51,42,258,3286,501,1498,656,636,832,255,404,665
+Voter	1630,51,42,258,3286,501,1498,656,636,832,255,404,665,98
 Voter Education	7266
 Voter ID	1367,9398,10
 Voter ID Card No N	10714
@@ -879,11 +890,11 @@ VoterPortal. Once	7266
 Voters	1630,219,1960,5038,1202,13
 Voters and Members	1630
 Votes	585,7884,397
-Voting	585,2745,384,3484,1668,73,1079,696
+Voting	585,2745,384,3484,1668,73,1079,696,116
 Voting Card Mozambique Myanmar Civil Registry	10714
 Voting and Election Stakeholders False	10725
 Voting and Support Agreement	7198
-Votre	747,1855,990,66,8,1388,962,259,145,154,253,127,431,954,2062
+Votre	747,1855,990,66,8,1388,962,259,145,154,253,127,431,954,2062,425
 Votre Majesté	8891
 Vouchers	7897
 Vouloir Exécuter Une Commande Politique Politique	4960,62,2035
@@ -898,6 +909,8 @@ VoxDev	4964
 VoxDevTalk	4964
 VoxDevTalk Published	4964
 VoxDevTalks	2516
+Voyage	10821
+Voyages	10875
 Voyons	2476
 Voz Múltiples Nacional	4209
 Voz de América	2444

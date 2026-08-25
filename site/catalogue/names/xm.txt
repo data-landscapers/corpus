@@ -1,13 +1,16 @@
 Basic RFC1738 RFC2616 XML V1.0	1009
+Core EP3 XML HTML Citation Export	10878
 Create XML	8606
 Cross- XDS XML V1	1009
 Customised XML Pivot	8606
 Données XML	1984
 MARKING. The PDF's XMP	5598
 MS Cross-Enterprise Document Sharing XML XPID	1009
+Metadata Data Cite XML RDF	10878
 Normalise structure XML Require	8606
 Normalised XML	8606
 Normalised XML3Normalised XML2Normalised XML1 Extraction	8606
+OpenURL ContextObject RIOXX2 XML METS Dublin	10878
 Patient Patient Administration XML V1	1009
 Pre-Treatment Heterogeneous XML Input	8606
 RFC2616 W3C XML	1009
@@ -78,6 +81,7 @@ XML Display	1009
 XML Enterprise User Authentication EMR European	1009
 XML Extensible Markup Language XPID XAD-PI	1009
 XML HTTP	1009
+XML MARC	10878
 XML Mapping	8606
 XML Messaging Document Reliable	1009
 XML Messaging Services Soecifications	1009

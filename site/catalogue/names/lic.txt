@@ -24,6 +24,7 @@ Authors. Licensee	7759,263,108
 B. Private Wealth Management Licence Notwithstanding	7845
 B. Smart Licensing and Supervisory Gateway	4848
 BYOL Bring Your Own License CAC	6432
+Benefits of Technology Neutral Spectrum Licences	10856
 Blanket Licence	6891
 Broadcasting Licensees Mobile Money Penetration	6946
 Broadcasting Licenses Revoked	6946
@@ -132,6 +133,7 @@ Global License	6467
 Hazardous Waste Management Licence	1988
 Hosting Service Provider License	762
 ICASA Spells Out Satellite Licensing Rules	6906
+ID Card Licences Passport Bank	10819
 ID. In LICs	10714
 ID4D Identification for Development LIC Low-income	10714
 II Licensing	7607
@@ -139,6 +141,9 @@ IMPLEMENT A LICENCE PASSPORTING FRAMEWORK	2450
 IP. Licence Ces	9480
 ISP License. Table	3862
 ITU Radio Regulations. Licence	736
+IV.1.1.7.2 Licenciement	10876
+IV.1.1.7.2 Licenciement Même	10876
+Incompétence Licenciement	10876
 Individual License	762
 Individual License APPENDIX B LIST	762
 Individual Licensee	762
@@ -149,9 +154,11 @@ Initial Licence	10738
 Institutional Research Licenses Granted	2775
 Institutions Receive Data Controllers Licences	2987
 Interepretation. PART II Public Licences	736
+International Computer Driving License	10865
 International Courier License	718
 International Gateway License	762
 International License	5656,4083,1045
+International Public License. Any	10841
 Internet Service Provider License	762
 Investment License	1988
 Issue Licenses for More Satellite Operators	3773
@@ -177,7 +184,7 @@ LICs and LMICs	771,9943
 LMD Licence-Master-Doctorat MEN Ministère	12
 LTA License	10407
 LTA-issued Satellite Communications License. Stakeholders	10406
-Licence	11,1,10,67,217,427,3,451,36,649,5,1444,575,26,641,1102,1703,986,110,118,527,1629
+Licence	11,1,10,67,217,427,3,451,36,649,5,1444,575,26,641,1102,1703,986,110,118,527,1629,117
 Licence Appeals By Rihab Ben Moussa	6784
 Licence Application Forms	736
 Licence Category	10738
@@ -203,6 +210,7 @@ Licence.pdf	2677
 Licenced	8180,2473
 Licencees	8841,1897
 Licences	11,725,234,628,279,3656,2598
+Licences Professionnelles	10893
 Licences. A.K. DRAMÉ	7999
 Licences. SpaceX	6891
 Licencia	9441
@@ -214,10 +222,11 @@ Licencias	1701,2508
 Licenciatura	2816
 Licenciatura MF M F Angola	10766
 Licenciatura MF M F N.º	10766
+Licenciement	10876
 Licencing	8180
 Licensable	3887
 Licensable the Authority	3887
-License	586,132,18,26,1226,721,963,51,1130,1,50,137,309,315,1281,602,1055,1,1,321,99,207,1175,314
+License	586,132,18,26,1226,721,963,51,1130,1,50,137,309,315,1281,602,1055,1,1,321,99,207,1175,314,118
 License Agreement	5665
 License Annual Universal Fee Fee Regulatory	10407
 License Application Conditions and Requirements	762
@@ -261,7 +270,7 @@ Licensees	11,751,3100,870,933,120,87,1074,2163,8
 Licensees Interference	736
 Licensees Telecom Namibia Powercom MTC Paratus	1944
 Licensees Telecom Namibia Telecom Namibia	1944
-Licenses	762,1150,765,2743,4435,761
+Licenses	762,1150,765,2743,4435,761,240
 Licenses and Permits	6792
 Licenses for Liquefied Petroleum Gas	718
 LicenseÉƧƨ SACJisapublicationof SAICSIT. ISSN1015-7999	8602,4
@@ -526,7 +535,7 @@ Waste Licensing Regulations	1988
 Waste Management Licence	1988
 Wholesale Electronic Communications Infrastructure License	5277
 World Bank Group. License	10714
-World Bank License	10765,10
+World Bank License	10765,10,37
 World Bank. License	10714
 Year License	2716,1353
 ZEMA Licence	1988

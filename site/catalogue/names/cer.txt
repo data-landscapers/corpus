@@ -51,7 +51,7 @@ B1 Certificado de Actualizacion PE	4209
 B2 COMERCIO Certificado de Comercio	4209
 B3 COMERCIO Certificado de Comercio	4209
 Back Ratio I Certify	736
-Birth Certificate	6392,3642,231,500,10
+Birth Certificate	6392,3642,231,500,10,37
 Birth Certificate Online	6783
 Birth Certificates	445,3812,6518
 Birth Registration and Certificates Figure	10765
@@ -73,10 +73,12 @@ CATEGORÍA Certificado de Actualización PE ACTUAL Certificado	4209
 CATEGORÍA Certificado de Comercio ACTUAL Libreta	4209
 CCDR CERC CHIRPS CNAS CNPC COVID-19	10763
 CCDR Country Climate and Development Report CERC	10768
+CCES Certificat de Conformité Environnementale	10876
 CEH Certified	9858
 CERBA LANCET KENYA LIMITED Data Controller	7167
 CERBA LANCET KENYA LIMITED Data Processor	7167
 CERC Component	1228
+CERC Contingent Emergency Response Component CHW	10829
 CERC Coordinating Authority. The CERC	1228
 CERC E&S Risks Finalize TORs for MCTES	2989
 CERC SC	1228
@@ -105,16 +107,19 @@ CERT.ao	4146,72
 CERT.tg	3866,4396,1208,1105
 CERTIFICATE OF BUSINESS	2709
 CERTIFICATE OF ORIGIN	7020
+CERTIFICATION DEPARTMENT Request	10819
+CERTIFICATION DEPARTMENT Request PTSP	10819
 CERTIFICATIONS AND INVESTMENT	1940
 CERTIFIED COPY Baker Birikujja	5113
 CERTIFIED TRUE COPY	2465
 CERTINUM	6810,209,1727,1452
 CERTMU	4850
 CERTS	5677
-CERTs	1000,228,36,1552,2716,145,749,3190,347,213,588
+CERTs	1000,228,36,1552,2716,145,749,3190,347,213,588,84
 CERTs and Cybersecurity Operations Centres	9964
 CERVANNA CARE LIMITED Data Controller INST-66209110F70	7167
 CERVIDA	2966
+CFR Certificat Foncier	10876
 CGI. Certains	1984
 COA Certificate of Airworthiness COHO Community Oral	2775
 COMERCIO Certificado de Comercio	4209
@@ -146,12 +151,12 @@ CertExpress CertExpress	1882
 Certain	10,561,172,218,282,409,3244,351,286,835,570,260,688
 Certain Effects	7198
 Certain Financial Forecasts	7198
-Certaines	748,439,635,162,85,331,2913,60,864,722,396,48,310,117,268,257,286,250,389,444,542,21,102,90,232
-Certains	643,104,1,483,753,277,152,352,700,343,430,918,743,616,100,344,138,558,58,989,35,79,75,627,480,241,48,102,126,196
+Certaines	748,439,635,162,85,331,2913,60,864,722,396,48,310,117,268,257,286,250,389,444,542,21,102,90,232,110,5,49
+Certains	643,104,1,483,753,277,152,352,700,343,430,918,743,616,100,344,138,558,58,989,35,79,75,627,480,241,48,102,126,196,110,5,49
 Certains Camerounais	3808
 Certainty	5487
 Certamen Miss Guinea	4209
-Certes	8891,1604
+Certes	8891,1604,326
 Certi	4896
 Certidão	10772,5
 Certidão Narrativa Completa	10749,7
@@ -182,15 +187,17 @@ Certificados	10752
 Certificados Digitais	1431,715,2317
 Certificados de Encriptação	794
 Certificados de Registo Criminal	10750
-Certificat	1706,1339,407,968,1111,686,4,1567,949
+Certificat	1706,1339,407,968,1111,686,4,1567,949,2139
+Certificat Foncier Rural CI Consultant Individuel	10876
 Certificat NPI	1769,2083
+Certificat Supérieur	10847
 Certificat de Nationalité	3045
 Certificat de Nationalité Numérique	3045
 Certificat de Nationalité. Il	3045
 Certificat de Nationalité. Par	3045
 Certificat du NPI	1706
 Certificat du Numéro Personnel	5738
-Certificate	1,127,608,513,739,1726,377,805,1536,400,1013,2578,298
+Certificate	1,127,608,513,739,1726,377,805,1536,400,1013,2578,298,91
 Certificate Authority	5533,58
 Certificate Authority CARA Criminal Assets Recovery	5533
 Certificate Delivery System	2819,1272
@@ -221,17 +228,20 @@ Certificates of Incorporation	1988
 Certificates of Origin	7142
 Certificates of Recognition and Merit	7702
 Certificates of Registration	9646,511
-Certification	587,149,264,9,222,13,1098,1519,1690,114,71,57,639,504,119,493,1451,617,697
+Certification	587,149,264,9,222,13,1098,1519,1690,114,71,57,639,504,119,493,1451,617,697,499,29,28
 Certification Authorities	9880
 Certification Authority	1009
 Certification Authority and Digital Trust Centre	2692
 Certification Authority and Digital Trust Centre. GPW	2681
 Certification CM-NSCI.S8 Infrastructure	10721
+Certification Department	10819
+Certification Department and External Auditor Pass Pass	10819
 Certification Electronique	2314
 Certification Procedure	3861
 Certification Process	5665
 Certification Programme	7548
 Certification Programs	6946
+Certification Relying Party Subject	10819
 Certification Requirements	5665
 Certification Scheme	7548
 Certification Standard	2889
@@ -241,7 +251,7 @@ Certification. PCI-DSS	2350
 Certifications	6432
 Certifications Internationales	6163
 Certifications Issued	4528
-Certificats	5899
+Certificats	5899,4977
 Certificats Internationaux de Transhumance Nombre	3396
 Certificats de Nationalité	3045
 Certificação	2816,703,2943
@@ -259,7 +269,7 @@ Certified Information Privacy Professional	1940
 Certified Information Security Manager	1940
 Certified Information System Security	1939,1
 Certified Information System Security Professional	1940
-Certified Information Systems Auditor	1940
+Certified Information Systems Auditor	1940,8925
 Certified Institution	1638
 Certified Internal Auditor	3632
 Certified National Government Data Centres All	6432
@@ -306,17 +316,20 @@ D3 COMERCIO Certificado de Comercio	4209
 D3 D3 Certificado de Actualización PE ACTUAL	4209
 DHS CERTIFICATION OF COMPLIANCE NO	2709
 DISCLOSURE OF CERTAIN MATTERS IN FINANCIAL	3714
+DISPOSITIONS PARTICULIERES A CERTAINS TRAITEMENTS Article	10825
 DPG Awareness and Certification Programme. Partner	7921
 Data Center Certification	1264
 Des Certificats Nationaux de Transhumance	3396
 Device Certification Guidelines	3934
 Digify Solutions KShs. Digital Certificate Management	6946
 Digital Certificate	10714
+Digital Identity AUTHORISATION REGULATED Brith Certificate	10819
 Director Cereals and Other Produce Regulatory Authority	5883
 Director of CERT-MU	783
 Distribution List for Notifications CERT-GH	775
 Dominican Certificate Administration System	10714
 Downs Shoprite Ceres Shoprite Fish Hoek	8999
+Délivrer des Certificats	10876
 E-CSP Electronic Certification Service Provider EMDE	6946
 E-Life Certification	8999
 EDGE Data Center Certification	1264
@@ -358,12 +371,16 @@ Holders of Certificates of Registration	8831
 I Certify	736
 ID Certification Authority System	1379
 INDUSTRIA Certificado de Comercio Certificado de Comercio A3	4209
+INSD. Certaines	10874
 INSPECCION ANUAL INDUSTRIA Certificado de Actualización PE	4209
+IX. RESULTATS DU CERTIFICAT D'ETUDES PRIMAIRES	10847
 Inhambane and Zambezia. The CERC Manual and Emergency	1228
 Institut Cerco International	8162
 Institute of Certified Accountants	1964
 Institute of Certified Public Accountants of Kenya	6946,3097
 Institute of Certified Secretaries of Kenya	6946
+Instituteur Adjoint Certifié IC	10847
+Instituteur Certifié IEPD	10847
 Integrated Modern Agricultural Morcellement Certificate	7845
 International Standards Certificates	6432
 International Standards Certificates. All	6432
@@ -376,6 +393,7 @@ Kinshasa Achieves ISO and PCI DSS Certifications	2350
 LTA CERT	4610
 Le CERT.tg	10575
 Le CERT.tgmission	10575
+Le Cercle de Recherche	10826
 Liberia National CERT	5244
 Life Certification	7581,2387
 MACF. Certains	8891
@@ -410,6 +428,7 @@ O Pedido de Certidão de Nascimento	2688
 Odoo Gold Certified Partner	9533
 Offsec Certified Professional	1940
 Online IT Certification System	5466
+Opération Certificat	10876
 PARCOURS CERTIFIANT EN FINANCE DIGITALE	10237
 POTRAZ. Certification	8437
 PROVISION OF E-HEALTH AND CERTIFICATION	2709
@@ -426,6 +445,7 @@ Public Keys and Encryption Information CERT	775
 Public Register of Testing Entities and Certified Software	5665
 R1egistration and Certification	736
 RCZ-NCRST MoU Signing Ceremony	1554
+RESULTATS AU CERTIFICAT D'ETUDE PRIMAIRE SESSION	10847
 Radio Amateur Examination Certificate	736
 Radio Amateur Operator’s Certificate	736
 Receiver I Certify	736
@@ -449,12 +469,15 @@ SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS	7198
 SEQE1. Certains	8891
 SIM3 Auditor Certification	9470
 SOC and CERT	1264
+SSN. Certaines	10874
 Security Certifications	6432
 Security Emerging C- Certified	7548
 Security of Data Centres Certifications	6432
 SeyID and CertExpress	1882
 Sistema de Certificação Digital de Moçambique	795
+Smart Africa CERT	10819
 Sobre Ejercicios Cerrados	4209
+Sociale CD Cadre de Dépense CEC Certificat	10876
 South Africa. View the Certificate	7210
 Special Certification Requirements	9123
 Standards and Certifications	6432
@@ -477,6 +500,9 @@ Telephone Number CERT-GH	775
 Tier III Certification of Constructed Facility	4083
 Time Zone CERT-GH	775
 Trade Certificate of Licence Incorporation	5687
+Trust Certification	10819
+Trust Framework Provision of Trust Certificate Trust	10819
+Trust Service Provider CERTIFICATION DEPARTMENT Request	10819
 UK CERSI-AI	3651
 Unused CERC	2473
 Uptime Institute Certified Tier III	7066
@@ -488,6 +514,7 @@ Verification and Certification of Imported ICT Systems	6936
 Vint Cerf	7010
 West African Senior School Certificate Examination	7171
 WhatsApp. Certaines	10389
+Willing CERTIFICATION DEPARTMENT Determines	10819
 Withholding Tax Certificates	10064
 Y INSTALACIONES Y FRONTERAS CIUDADANA CEREMONIAS	4209
 York-based Cerberus Capital Management	4676

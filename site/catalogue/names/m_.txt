@@ -21,6 +21,7 @@ Article Google Scholar Cazzaniga M	9739
 Article Google Scholar Veal M	9739
 B. M	8603
 BABIRYE M. BABALANDA	8352
+BFA 2024 WBES v01 M Title World Bank Enterprise Survey	10862
 Bacharelato MF M F	10766
 Bacharelato MF M F Angola	10766
 Bacharelato MF M F MF M	10766
@@ -44,6 +45,7 @@ Chaudoury M	1219
 Chelangat M	7187
 Choudhury M	9739
 Cidadania I M I J Instituto	6530
+Civil M. Somé Alex Directeur Services	10812
 Civil. M. Abdoul Kader Moussa Garba	10547
 Claeson M	10780
 Classe M	10766
@@ -58,6 +60,7 @@ Classe MF M F Bacharelato MF	10766
 Classe MF M F MF M	10766
 Classe MF M F N.º	10766
 Classe MF M F Novos	10766
+Coordonnatrice Projets Filets Sociaux M. André	10812
 D'après M. Bitasimwa	7357
 D'après M. Fall	5552
 D'après M. Kadiat	2415
@@ -77,6 +80,7 @@ Douet M	9739
 Dr. Ermias M Terefe Legal National	9855
 Dugas M. Success	771
 Dugeri M	9739
+Démographiques M. Moussa Traoré Directeur Centre	10812
 E. M	4676,673,3322
 ELIAS M. MAGOSI SADC EXECUTIVE SECRETARY	9761
 EU CSP EK M	9123
@@ -106,6 +110,7 @@ Ensino Secundário MF M F Angola	10766
 Ensino Secundário Província MF M	10766
 Ensino Secundário Província Total MF M	10766
 Ensino Secundário Técnico Profissional MF M	10766
+Entreprises M. Patrice Kiemde Directeur	10812
 Excellence M. Bruno Daniel Jean-Michel FOUCHER	1955
 Excellency Mr Elias M. Magosi	10321
 Existing M	4260
@@ -139,6 +144,9 @@ IDA FM M Entity	3604
 IFRs M	3604
 INFQ INFQE INIDE LBSEE M MED	10766
 Ibnou M. Abdou	1943,1998
+Identification M. Parbignalé Arsène Yoda Directeur	10812
+Impôts Prévisions M. Mamadou Boulouma Directeur	10812
+Information Sociale M. Samuel Michel Yameogo	10812
 Information. M. Adji Ali Salatou	3337
 J. M	1248,6638,718
 J. M. Cavanillas	1243
@@ -226,6 +234,7 @@ M Finnfund	929
 M Foya Project By Leroy M	4998
 M Fund	3131
 M Fund-of-Funds Mastercard Foundation	909
+M GDP	10822
 M GNF	142
 M Government Environment	7548
 M Growth Investment	1054
@@ -250,6 +259,7 @@ M Jan	623,290
 M Jul	610
 M Jun	610
 M KES	1137
+M Kenyans	10822
 M Korean	3135
 M Liquid Bank Deposits EGP	5869
 M Loan	3067
@@ -262,9 +272,11 @@ M MUFG-backed	6397
 M MULTI-STAGE VENTURE FUND TO POWER	5879
 M MZN	5841
 M Madagascar. Signed Dec	1464
+M Major MNOs MTN	10822
 M Member Sex	582
 M Metrics	3972
 M Minority Stake	1537
+M Mobile	10822
 M Mobile Money Active Subscriptions	9781
 M NAME	582
 M NOK	513
@@ -282,6 +294,7 @@ M Pan-African Fund	912
 M Partnership Google	675
 M Pays	10519
 M Phase	5879
+M Pre-paid	10822
 M Programa	4209
 M Proparco	519,633,264,104
 M Proparco. BII	1521
@@ -291,6 +304,7 @@ M RMB	1520
 M Randriambelonoro	1824
 M Reduction	4349
 M Reforzamiento	4209
+M Role	10822
 M Round Participant Google	1515
 M S Inherent Risks	3604
 M SA	618
@@ -319,6 +333,7 @@ M Telecom Ltd	3862
 M Telkom Kenya. Crosswalk	254
 M The PEFA	3604
 M The RAPID-CI PCU	3604
+M Total Cost	10892
 M Total Passive Income EGP	5869
 M Transmission Backbone Project	1539
 M U.S. Backing for Digital Sovereignty	2869
@@ -327,6 +342,7 @@ M UNECA	289
 M USD	474,173,154,321,420,2919
 M USG	1167
 M Ugandans	3285
+M Unique	10822
 M VC	913,221
 M VaMoz Digital	1129
 M Vodacom Tanzania	4521
@@ -384,6 +400,7 @@ M. Abdourazak	3941
 M. Abdul-Rahman	6948
 M. Activity	1168
 M. Adama Kodio	8403
+M. Adama Sawadogo Co-fondateur Maritimes A.Sawadogo	10812
 M. Adji Ali Salatou	2327,1010,630,22,1385
 M. Adoum Djimet Saboun	6125
 M. Agbetse	3109
@@ -605,6 +622,8 @@ M. K	2518,2158,3928
 M. K. Désiré Yaméogo	3181
 M. KE	725
 M. KONE Aboubacar Sidiki	2342
+M. Kaboré	10827
+M. Kaboré Amadou Directeur de Direction Générale	10812
 M. Kabura	6742
 M. Kalonji	8901,1574
 M. Kalonji. Privilégier	8901
@@ -712,6 +731,7 @@ M. Note	47,288
 M. Nouhou Aboubacar	5170
 M. Nsengiyumva. Il	9270
 M. N’GUISSAN	2966
+M. O	10865
 M. OKOCHI Akihiro	8344
 M. Ondele	1876
 M. Othman	5349
@@ -842,6 +862,7 @@ M. Zamani	7278
 M. Zambrano Vizuete	7886
 M. Zongo	4211
 M. and Medková	8193
+M. and Verbeke	10865
 M. and Waga	899
 M. le Haut- Commissaire	8891
 M. le Haut-Commissaire	8891
@@ -869,6 +890,7 @@ Magdi M. Abdalla Taha	4898,77
 Mahlatse M. Shekgola	8021
 Mahlatse M. Shekgola Department of Information Science	8021
 Mahlatse M. Shekgola. Disclaimer	8021
+Mail M. Jean Armand Yanogo Directeur	10812
 Makoutodé M	766
 Mapunda M. Tanzania	1261
 Marschollek M	10780
@@ -896,6 +918,12 @@ Ms. Irene. M. Doroh	1554
 Ms. M. Marongwe	1554
 Mulaku M	10780
 Mzyece M	5242
+N M Accounting	10829
+N M Control	10829
+N M Financial	10829
+N M Fund	10829
+N M Internal	10829
+N M The World Bank CAR	10829
 N. A. M	961
 N. M	961,1557
 N. M. F	8603
@@ -908,9 +936,12 @@ NAM NSA 2003 NHIES v01 M	9485
 NAME M ID OF PERSON	582
 NCFI Chairperson Emmanuel M. Tutuba	8135
 NM M W Figure	1154
+NORD NOU M BIEL CENTRE	10847
 Nathan M. Belete Practice Manager	1867,1695
 Nations Unies M. José Barahona	8344
 Nyssen M	766
+Néonatale Santé M. Bassirou Nignan Directeur	10812
+OUB RITEN GA GOUR M	10847
 Officer Magdi M. Abdalla Taha	4898
 Olanrewaju M. Lassise-Phillips	5574
 Ou M	8460
@@ -946,6 +977,7 @@ Pós-licenciatura MF M F N.º	10766
 Público M	10766
 Público-Privado MF M	10766
 Qobo M	5242
+REGIO NS BOUCLE DU M OUHOUN	10847
 RI M Add	1009
 Ramirez M	1219
 Reprovados M	10766
@@ -956,6 +988,7 @@ Roche M	10784
 Romedenne M	1219
 Routledge Google Scholar Hiller M	9739
 S IR C M A N	10775
+S M Budgeting	10829
 S. M	2096,1686,4823
 S.E M. Duke Buchan III	5745
 S.E. M. Abdel Aziz Dahi	765
@@ -985,6 +1018,8 @@ Steele M	1219
 Strategic Framework M	3604
 Strive Masiyiwa DR M Opening Remarks	38
 Susan M. Atengo Wegoye	9781
+Sécurité M. Kafando Directeur de Production Office	10812
+Sécurité Sociale M. Dahoud Ouedraogo Direction	10812
 T Katehwe Ms. I. M	1554
 T. M	2518
 Table M	7
@@ -1001,6 +1036,7 @@ US NM M W E MZ	1154
 Uwase M	10784
 V M Secu	9123
 Vodacom M	6350
+Wally M. ZOUMAROU Conseiller Onésime MADODE	10821
 Web of Science Google Scholar Atari M	8460
 WilmetDramaix M. Factors	766
 Yankolina M. Tingaena	9974

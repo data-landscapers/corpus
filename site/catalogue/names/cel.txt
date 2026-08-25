@@ -24,7 +24,7 @@ CELANI PHYSIOTHERAPY AND SPORTS INJURIES CLINIC	7167
 CELCOM AFRICA LIMITED Data Processor INST-57229878129	7167
 CELESTIAL DENTAL CENTRE LIMITED Data Controller	7167
 CELESTINA SORAIA TUNGUNO CACULO CASSANGE	10751
-CELEX	6476,1,1208,848,2242
+CELEX	6476,1,1208,848,2242,44
 CELIK HEALTH LIMITED Data Controller INST-1045219F640	7167
 CELITE LIMITED Data Processor INST-363608A2D51 NAIROBI	7167
 CELLCOM	7032
@@ -82,8 +82,9 @@ Cell ID	10747
 Cell Office. Children	4969
 Cell Phone Repairs	1810
 Cell-C	4150
-Celle	2342,2437,427,306,723,654,1012,540
-Celle-ci	2342,353,424,598,703,147,127,1014,426,265,206,727,384,393,782,242,144,736,22,50,388
+Celle	2342,2437,427,306,723,654,1012,540,2386,20
+Celle de Bobo-Dioulasso	10875
+Celle-ci	2342,353,424,598,703,147,127,1014,426,265,206,727,384,393,782,242,144,736,22,50,388,340,61
 Celle-là	8219
 Celles	12,725,1253,6901
 Celles-ci	5891,33,317,1955,488,207,650
@@ -101,15 +102,25 @@ Cellular Mobile Network Infrastructure and Services Project	6946
 Cellular Network Infrastructure and Services	6946
 Cellular Quality of Service	718
 Cellular Telecommunications	736
-Cellule	1984,1412,47,726,2409,545,1385,785,1419
+Cellule	1984,1412,47,726,2409,545,1385,785,1419,146,18
 Cellule Nationale de Traitement des Informations Financières	2623
+Cellule Respect	10876
 Cellule Suivi-Evaluation	10712
+Cellule Technique	10876
+Cellule Technique Nationale des Projets	10829
+Cellule Technique Nationale du Financement Basé	10829
+Cellule Vérifie	10876
 Cellule de Communication	5471
+Cellule de Contrôle Interne CILSS	10874
 Cellule de Coordination	1284
 Cellule de Gestion	10712
 Cellule de Planification	9553
 Cellule de Suivi des Réformes Economiques	969
 Cellule des Affaires	8269
+Cellules	10876
+Cellules Mi- BA	10876
+Cellules Septembre	10876
+Cellules du PPMP	10876
 Celo Core	9285
 Celsius	2775
 Celso Soares	6837
@@ -119,14 +130,14 @@ Celtel Niger	998
 Celtel Niger S.A	998
 Celtel Niger SA	998
 Celtel. GRAPHIQUE N	998
-Celtiis	2694,406
+Celtiis	2694,406,7756
 Celtiis Cash	6234
 Celtiis Cash. Malgré	2261
 Celtis	3150
 CeltixConnect-2	1766
 Celui	436,4309,34,292,435,245,2468,109,1507
 Celui du Commerce	9819
-Celui-ci	735,451,45,56,1113,164,956,2053,112,539,446,723,320,1178,404,32,183
+Celui-ci	735,451,45,56,1113,164,956,2053,112,539,446,723,320,1178,404,32,183,1315,51
 Celyntis	9968
 Championing Kenyans Celebrating	7204
 DE SERVICES CELTEL NIGER SA Mobile	998
@@ -163,9 +174,10 @@ Kora Cell Office	4941
 Kudenga House Cell	4896
 LEI DA IDENTIFICAÇÃO OU LOCALIZAÇÃO CELULAR	549
 LOCALIZAÇÃO CELULAR E DA VIGILÂNCIA ELECTRÓNICA	549
-La Cellule	6901
+La Cellule	6901,3973
 La Cellule de Communication du Ministère	1297
 La Cellule de Communication du Ministère des Finances	4135,34,172,655,475,1204,336,252,33
+La Cellule de Suivi	10876
 Le Service Système La Cellule de Sous-direction	2342
 Liberia. Star Cell	7410
 Localização Celular	549
@@ -192,6 +204,7 @@ Mobile Cellular Transceivers	6946
 Mobile Cellular Transceivers Transceivers	6946
 Moov Africa Benin and Celtiis	1970
 Moçambique Celular	9748
+National Technical Unit for Health Projects Cellule	10829
 NetOne Cellular	2987,5988
 Niger. Cela	2801
 Nombre Cellule	3396
@@ -221,6 +234,7 @@ TPME. Cela	8891
 Teixeira-McKinon. Cellphone	9675
 Telkom and Cell C	8668
 TikTok. Cela	10437
+UAE. Celtiis	10856
 UNDP Resident Representative Blerta Cela	6303,42
 USF CelaSaúde	10780
 Via Celular	549

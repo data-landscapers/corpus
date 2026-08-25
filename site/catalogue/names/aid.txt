@@ -11,7 +11,7 @@ AIDS HELPLINE	1009
 AIDS Response	10776
 AIDS Response HIV	10776
 AIDS Trust Fund	6921
-AIDS UNCTAD United Nations Conference	10759
+AIDS UNCTAD United Nations Conference	10759,78
 AIDS and COVID-19	9969
 AIDS and TB	771
 AIDS and Tuberculosis	10060
@@ -30,8 +30,9 @@ AidData RMB	124
 AidData Record ID	105
 Aida Mbodji	7106
 Aidant	2413
-Aide Memoire	2989
+Aide Memoire	2989,7897
 Aide Memoire I. Introduction	2989
+Aide-Mémoire	10880
 Aide-mémoire	9276
 Aidec Digital	6936
 Aider	10643
@@ -55,7 +56,7 @@ EU and Irish Aid	1711
 EU and Irish Aid. Sambo	2930
 Eastern Deanery AIDS Relief Program Data	7167
 Economics of Localizing Aid	6947
-European Civil Protection and Humanitarian Aid Operations	970
+European Civil Protection and Humanitarian Aid Operations	970,9871
 Explore AidData	7590
 Fight AIDS	392,545
 Fight Against AIDS and Major Endemic Diseases	10776
@@ -91,6 +92,7 @@ Mapping Methodology Framework for Mutual Aid Groups	6947
 Mawasiliano. Aidha	6019
 Mheshimiwa Rais. Aidha	2868
 Mutual Aid and Diaspora Alliances	6947
+NGO Direct Aid	10864
 Naibu Katibu Mkuu. Aidha	2868
 National AIDS	4153
 National AIDS Control Council	4260

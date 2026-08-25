@@ -1,7 +1,11 @@
 ACCÉLÉRATEUR III- GESTION DU PORTEFEUILLE IV-	2342
+ANDF. IV.1.1.12.2 Application S’applique	10876
+ANDF. IV.1.1.7.4 Horaires	10876
+ANDF. IV.2.4. Utilisation	10876
 ANNEX IV	7548
 APDPVP. Chapitre IV	1231
 APPENDIX IV	6432
+AVI IV.2.4.1.2	10876
 Abidjan Sofitel Hotel Ivoire	3281
 Administrativos. CAPITULO IV GOVERNAÇÃO ELECTRÓNICA SECÇÃO	15
 Agence Ivoirienne de Gestion des Fréquences	3604
@@ -11,7 +15,7 @@ Amancio Ubisse Ivone Muocha João Caribo	2989
 Americans and Ivoirians	7430
 Americans and Ivoirians. American	7430
 Anexo IV	4209,6574
-Annex IV	10763
+Annex IV	10763,66
 Annexure IV	10721
 Annexure IV. Providers	5132
 Appel. TITRE IV	37
@@ -20,9 +24,10 @@ Appendix IV-Framework	6432
 Article IV	1828,2,2297,1687,725,140
 Article IV Consultation	3583,70
 Article IV Consultation and Review Under the Flexible	8891
+Article IV Mission	10841
 Articles III and IV	3583
 Artificial Intelligence AM Ivorian Agency for Radio	3604
-BURKINA FASO IVE REPUBLIQUE	113,672,1016
+BURKINA FASO IVE REPUBLIQUE	113,672,1016,9024
 Bilhetes de Identidade. IV. OBJECTIVOS GERAIS	10772
 Book IV	3193
 CAPÍTULO IV	576,1861,1082,699,6537
@@ -43,10 +48,20 @@ CAPÍTULO IV TRATAMENTO DE DADOS RECOLHIDOS	794
 CAPÍTULO IV TUTELA ADMINISTRATIVA E JURISDICIONAL	14
 CAPÍTULO IV Tutela Administrativa	14
 CFA. Phase IV	4473
-CHAPITRE IV	436,2029
+CHAPITRE IV	436,2029,8371
+CHAPITRE IV DE L'ETABLISSEMENT	10813
 CLOUD POLICY PART IV	10157
 COMPAGNIE IVOIRIENNE DE PRODUCTION D’ÉLECTRICITÉ Gestion	2342
 COMPAGNIE IVOIRIENNE POUR LE DÉVELOPPEMENT	2342
+CORPS ET FONCTION IV.1.1 Public I.P	10847
+CORPS ET FONCTION IV.1.1 Public Sexe	10847
+CORPS ET FONCTION IV.1.2 Privé I.P	10847
+CORPS ET FONCTION IV.1.2 Privé Sexe	10847
+CORPS ET FONCTION IV.1.3 Public	10847
+CORPS ET FONCTION IV.1.4 Urbain I.P	10847
+CORPS ET FONCTION IV.1.4 Urbain Sexe	10847
+CORPS ET FONCTION IV.1.5 Rural I.P	10847
+CORPS ET FONCTION IV.1.5 Rural Sexe	10847
 CRP.3 Annex IV	3583
 CRP.5 IV. Government	3583
 CSP CSP CSP IV S	9123
@@ -59,9 +74,14 @@ Chapitre IV Procédure	308
 Chapter IV	3583,3249
 Chapters IV and V	6832
 Chapters IV and VI	6832
+Client-Connection. IV.2.4.1.3.1. Règles	10876
+Commission Bancaire. TITRE IV	10836
 Commune IV	7728
 Compagnie Ivoirienne	1005
 CrlnoaundcGeoCvoemrnmanitcteeeCommittee PART IV	10157
+DAF. IV.1.4.3.2 Cas	10876
+DAF. IV.1.4.3.3 Suivi	10876
+DAF. IV.1.4.3.5 Rapport	10876
 Devoluciones IVA Sportado	4209
 Devolución IVA Soportado	4209
 Digital Ivory Coast	4096
@@ -73,6 +93,7 @@ Doutor Ivan Collinson	2816
 DÉMARCHE MÉTHODOLOGIQUE IV POUR LA DIGITALISATION	10711
 ECP Africa Fund IV	292
 ECP Africa Fund IV A LLC	292
+EDSBF-MICS IV	10881
 EJE ESTRATÉGICO IV	1701
 ELIGIBLE CHAPITRE IV	1214
 ENTREPRISE IVOIRIENNE D'ACTIVITES MINIERES SARL	3045
@@ -85,21 +106,26 @@ Eje Estratégico IV	1701
 Electronic Commerce Part IV PART IV	28
 Environnemental IV Vers	8891
 Estado Eje IV	1701
+Etat. IV.1.1.8.5 Cas	10876
 Fault Tolerant Tier IV	9123
+Finances. IV.1.1.6.4 Grille	10876
 Fund IV	10165
 GAHUNDA CHAPTER IV	1214
 GESTIÓN ESTRATÉGICA DE DESARROLLO SOSTENIBLE IV	1701
 Geneva. The Ivorian	7189
+Governance REDISSE IV Regional Disease Surveillance	10829
 Group III and IV Hazardous Substances	3651
 Helios IV	499
 Helios Investors IV L.P	499
 Hiondi Nkam IV	4356
 Hub Ivoire Tech	6235
+I'inlérieur CHAPITRE IV DE LA RADIATION	10813
 I. II. III. IV. V. Implementation	4260
 I. II. Ill. IV. Implementation Plan	4217
 I. II. Ill. IV. V. Implementation	4217
 I. II. Ill. IV. V. VI	4217
 ICE IV Project Propels Intra Asia	2677
+IDA. IV.2.2. Mobilisation	10876
 III. Benchmark-Objectifs-Impacts IV. Critères	1247
 ITWeb China EXIMBANK Phase IV	4207
 IV Conselho Consultivo	5542
@@ -108,6 +134,7 @@ IV II- DGPE	2342
 IV Implementation Plan	5132
 IV Inquérito	3589,2836,1456
 IV LIST OF FIGURES Figure	1243
+IV Liste	10874
 IV Malabo	4209
 IV Mozambique	9441
 IV Moçambique	2816
@@ -132,6 +159,7 @@ IV. DETAILED CHANGE	1228,1245,2180
 IV. Delineation	3058
 IV. Equipement PNB	1776
 IV. Funding	4217
+IV. GRIEVANCE REDRESS SERVICES	10829
 IV. Gouvernance	235
 IV. Government	3583
 IV. ITU PP-26 Finally	6488
@@ -139,10 +167,15 @@ IV. Implementation Risks	6735,200
 IV. Increase	4260
 IV. NRA TECHNICAL AND INSTITUTIONAL PARTNER	5679
 IV. Occupational	6612
+IV. PERSONNEL ENSEIGNANT IV.1 REPARTITION DES	10847
+IV. PERSONNEL ENSEIGNANT IV.2 REPARTITION DES	10847
 IV. PRINCÍPIOS	4146
+IV. PROCEDURES ADMINISTRATIVES ET FINANCIÈRES	10876
+IV. PROCEDURES ADMINISTRATIVES ET FINANCIÈRES IV.1	10876
 IV. PROJECT APPRAISAL SUMMARY	969,295,603,1737,2935,4229
 IV. PROJECT APPRAISAL SUMMARY A. Technical	1264,2340,2935,4229
 IV. PROJECT APPRAISAL SUMMARY Page	1867
+IV. PROJECTIONS FINANCIÈRES Présenter	10836
 IV. Participants	4217
 IV. Policy Goals	1597
 IV. Principales	2476
@@ -160,10 +193,159 @@ IV. The Government of Mozambique	4260
 IV. The Government of Uganda	4217
 IV. The IMF's Role The IMF	9331
 IV. The U.S. Government	4260
+IV.1 PROCEDURES ADMINISTRATIVES	10876
 IV.1- Quelles	10711
+IV.1.1 Gestion	10876
+IV.1.1 Public	10847
+IV.1.1.1 Cadre	10876
+IV.1.1.10 Gestion	10876
+IV.1.1.10.1 Missions	10876
+IV.1.1.10.1 Missions Toute	10876
+IV.1.1.10.1.1 Procédure	10876
+IV.1.1.10.1.2 Missions	10876
+IV.1.1.10.2 Règles	10876
+IV.1.1.11 Obligations	10876
+IV.1.1.12 Procédure	10876
+IV.1.1.12.1 Objet	10876
+IV.1.1.12.1 Objet Définir	10876
+IV.1.1.12.2 Application	10876
+IV.1.1.12.3 Règles	10876
+IV.1.1.12.4 Liste	10876
+IV.1.1.12.5 Description	10876
+IV.1.1.2 Personnel	10876
+IV.1.1.3 Personnel	10876
+IV.1.1.4 Consultants	10876
+IV.1.1.5 Recrutement	10876
+IV.1.1.5 Recrutement IV.1.1.5.1 Objet	10876
+IV.1.1.5.1 Objet	10876
+IV.1.1.5.2 Application	10876
+IV.1.1.5.3 Règles	10876
+IV.1.1.5.4 Description	10876
+IV.1.1.5.5 Processus	10876
+IV.1.1.5.6 Processus	10876
+IV.1.1.5.6.1 Choix	10876
+IV.1.1.6	10876
+IV.1.1.6.1	10876
+IV.1.1.6.2 Critères	10876
+IV.1.1.6.3 Procédure	10876
+IV.1.1.6.4 Grille	10876
+IV.1.1.6.5 Formation	10876
+IV.1.1.6.6 Procédure	10876
+IV.1.1.7 Fin	10876
+IV.1.1.7.1 Démission	10876
+IV.1.1.7.1 Démission En	10876
+IV.1.1.7.2 Licenciement	10876
+IV.1.1.7.2 Licenciement Même	10876
+IV.1.1.7.3 Clôture	10876
+IV.1.1.7.4 Horaires	10876
+IV.1.1.7.4.1 Horaires	10876
+IV.1.1.7.4.2 Absences	10876
+IV.1.1.7.4.3 Registre	10876
+IV.1.1.8 Congés	10876
+IV.1.1.8 Gestion	10876
+IV.1.1.8.1 Congés	10876
+IV.1.1.8.2 Permissions	10876
+IV.1.1.8.2 Procédure	10876
+IV.1.1.8.2.1 Objectifs	10876
+IV.1.1.8.2.2 Règles	10876
+IV.1.1.8.3 Congés	10876
+IV.1.1.8.3 Règles	10876
+IV.1.1.8.4 Couverture	10876
+IV.1.1.9 Discipline	10876
+IV.1.1.9 Discipline IV.1.1.9.1 Actes	10876
+IV.1.1.9.1 Actes	10876
+IV.1.1.9.2 Procédure	10876
+IV.1.2 GESTION DU COURRIER	10876
+IV.1.2 Privé	10847
+IV.1.2.1 Courrier	10876
+IV.1.2.1.1 Objet	10876
+IV.1.2.1.1 Objet Définir	10876
+IV.1.2.1.2 Application	10876
+IV.1.2.1.3 Règles	10876
+IV.1.2.2 Courrier	10876
+IV.1.2.2.1 Objet	10876
+IV.1.2.2.1 Objet Définir	10876
+IV.1.2.2.2 Application	10876
+IV.1.2.2.2 Application S’applique	10876
+IV.1.2.2.3 Règles	10876
+IV.1.3 GESTION DES IMMOBILISATIONS ET DES	10876
+IV.1.3 Public	10847
+IV.1.3.1 Prise	10876
+IV.1.3.1.1 Objet	10876
+IV.1.3.1.1 Objet Définir	10876
+IV.1.3.1.2 Règles	10876
+IV.1.3.1.2.1 Fiche	10876
+IV.1.3.1.2.2 Identification	10876
+IV.1.3.1.2.3 Suivi	10876
+IV.1.3.2 Mise	10876
+IV.1.3.3 Suivi	10876
+IV.1.3.3.1 Objet	10876
+IV.1.3.3.1 Objet Assurer	10876
+IV.1.3.3.2 Application	10876
+IV.1.3.3.2 Application S’applique	10876
+IV.1.3.3.3 Règles	10876
+IV.1.3.4 Principes	10876
+IV.1.3.5 Entretien	10876
+IV.1.3.5.1 Objet	10876
+IV.1.3.5.1 Objet Garantir	10876
+IV.1.3.5.2 Application	10876
+IV.1.3.5.2 Application S’applique	10876
+IV.1.3.5.3 Règles	10876
+IV.1.3.5.4 Liste	10876
+IV.1.3.5.5 Description	10876
+IV.1.3.6 Mise	10876
+IV.1.3.6.1	10876
+IV.1.4 Gestion	10876
+IV.1.4.1 Objet	10876
+IV.1.4.1 Objet Assurer	10876
+IV.1.4.2 Application	10876
+IV.1.4.3 Règles	10876
+IV.1.4.3.1 Processus	10876
+IV.1.4.3.2 Cas	10876
+IV.1.4.3.3 Suivi	10876
+IV.1.4.3.4	10876
+IV.1.4.3.5 Rapport	10876
+IV.1.4.4 Gestion	10876
+IV.1.4.4.1 Objet	10876
+IV.1.4.4.1 Objet Assurer	10876
+IV.1.4.4.2 Application	10876
+IV.1.4.4.2 Application S’applique	10876
+IV.1.4.4.3 Règles	10876
+IV.1.4.4.3.1 Entrées	10876
+IV.1.4.4.3.2 Demande	10876
+IV.1.4.4.3.3 Livraison	10876
+IV.1.4.4.3.4 Mise	10876
+IV.1.4.4.3.5 Rapport	10876
+IV.1.5 Rural	10847
+IV.2 PROCEDURES FINANCIÈRES	10876
+IV.2 PROCEDURES FINANCIÈRES Le Programme Terra	10876
+IV.2.1 Organisation	10876
+IV.2.1 Public	10847
+IV.2.1.1 Organisation	10876
+IV.2.1.1.1	10876
+IV.2.1.1.2	10876
+IV.2.2 Privé	10847
+IV.2.2. Mobilisation	10876
+IV.2.2.1. Règles	10876
+IV.2.2.2	10876
+IV.2.3 Urbain	10847
+IV.2.3. Mobilisation	10876
+IV.2.4 Rural	10847
+IV.2.4. Utilisation	10876
+IV.2.4.1. Suivi	10876
+IV.2.4.1.1. Règles	10876
+IV.2.4.1.2	10876
+IV.2.4.1.3. Traitement	10876
+IV.2.4.1.3.1. Règles	10876
+IV.2.4.1.3.2	10876
+IV.2.4.2. Procédures	10876
+IV.2.5 Urbain	10847
 IV.3.1	10711
 IV.3.1.2 Automatisation	10711
 IV.3.2	10711
+IV.A Administration	10812
+IV.B ICT	10812
+IV.C Identity Token	10812
 IVANILDA PATRICIA NUNES SEMEDO PRATA CACUALI	10750
 IVCDC	643
 IVCDCI	643
@@ -191,10 +373,11 @@ Iversen MM	1219
 Iversen&author	1219
 Ivo Santos	10757
 Ivoeinretre	4459
-Ivoire	7,203,26,8,1,1,64,2,4,1,21,64,17,1,1,94,36,2,44,26,4,16,5,4,56,1,3,35,42,22,9,16,20,8,29,4,32,4,5,9,18,40,8,31,17,4,76,1,5,5,65,26,21,2,11,24,30,32,34,18,4,22,24,65,7,13,2,24,22,37,12,1,1,48,30,85,2,59,8,16,77,72,95,14,2,1,57,97,30,7,25,2,3,8,1,11,19,24,6,5,1,26,54,23,2,23,26,22,52,31,40,5,1,1,15,6,27,14,34,13,6,12,24,20,7,71,10,18,8,7,47,1,12,19,8,11,7,1,17,10,2,10,1,20,18,13,10,2,7,4,8,1,23,7,3,3,18,3,2,19,2,15,26,2,23,9,5,2,6,13,8,1,11,4,2,38,3,13,27,35,4,18,5,13,6,8,2,1,14,8,6,1,4,4,57,7,18,2,4,73,16,1,53,23,21,13,2,76,7,22,3,15,32,6,1,20,6,7,6,36,15,47,5,5,57,13,59,19,14,13,77,34,7,37,37,10,12,5,16,9,5,18,17,58,66,9,6,33,3,41,52,30,28,13,50,18,2,79,80,11,42,4,55,1,20,1,1,5,8,83,6,44,70,5,1,11,47,12,25,8,23,2,7,1,5,23,22,32,32,5,1,18,48,2,9,3,17,61,14,17,4,14,1,2,2,5,5,10,8,16,7,13,10,1,5,6,2,4,10,24,5,23,5,21,7,4,5,3,3,12,11,21,8,17,27,2,22,32,55,3,13,6,11,9,13,21,11,1,14,2,20,4,2,16,6,20,25,18,18,19,7,9,8,1,16,12,20,1,20,34,14,7,30,28,2,2,27,1,23,29,18,3,48,19,25,1,26,18,10,11,3,3,7,21,1,19,10,79,7,9,1,12,57,22,40,60,47,3,1,25,86,12,1,1,29,35,18,1,18,9,22,11,8,41,72,1,1,25,33,19,1,11,14,1,4,84,56,16,1,15,148,14,1,1,1,92,39,106,88,50,1,1,55,3,61,14,8,18,1,13,65,22,1,6,24,89,16,28,11,153,35,1,1,21,32,47,1,11,3,37,43,2,83,19,50,1,53,52,60,2,19,19,16,23,7,61,8,8,5,56,23,12,21,29,14,21,2,8,82,29,8,11,69,23,22,10,17,31,20,3,4,22,19,26,8
+Ivoire	7,203,26,8,1,1,64,2,4,1,21,64,17,1,1,94,36,2,44,26,4,16,5,4,56,1,3,35,42,22,9,16,20,8,29,4,32,4,5,9,18,40,8,31,17,4,76,1,5,5,65,26,21,2,11,24,30,32,34,18,4,22,24,65,7,13,2,24,22,37,12,1,1,48,30,85,2,59,8,16,77,72,95,14,2,1,57,97,30,7,25,2,3,8,1,11,19,24,6,5,1,26,54,23,2,23,26,22,52,31,40,5,1,1,15,6,27,14,34,13,6,12,24,20,7,71,10,18,8,7,47,1,12,19,8,11,7,1,17,10,2,10,1,20,18,13,10,2,7,4,8,1,23,7,3,3,18,3,2,19,2,15,26,2,23,9,5,2,6,13,8,1,11,4,2,38,3,13,27,35,4,18,5,13,6,8,2,1,14,8,6,1,4,4,57,7,18,2,4,73,16,1,53,23,21,13,2,76,7,22,3,15,32,6,1,20,6,7,6,36,15,47,5,5,57,13,59,19,14,13,77,34,7,37,37,10,12,5,16,9,5,18,17,58,66,9,6,33,3,41,52,30,28,13,50,18,2,79,80,11,42,4,55,1,20,1,1,5,8,83,6,44,70,5,1,11,47,12,25,8,23,2,7,1,5,23,22,32,32,5,1,18,48,2,9,3,17,61,14,17,4,14,1,2,2,5,5,10,8,16,7,13,10,1,5,6,2,4,10,24,5,23,5,21,7,4,5,3,3,12,11,21,8,17,27,2,22,32,55,3,13,6,11,9,13,21,11,1,14,2,20,4,2,16,6,20,25,18,18,19,7,9,8,1,16,12,20,1,20,34,14,7,30,28,2,2,27,1,23,29,18,3,48,19,25,1,26,18,10,11,3,3,7,21,1,19,10,79,7,9,1,12,57,22,40,60,47,3,1,25,86,12,1,1,29,35,18,1,18,9,22,11,8,41,72,1,1,25,33,19,1,11,14,1,4,84,56,16,1,15,148,14,1,1,1,92,39,106,88,50,1,1,55,3,61,14,8,18,1,13,65,22,1,6,24,89,16,28,11,153,35,1,1,21,32,47,1,11,3,37,43,2,83,19,50,1,53,52,60,2,19,19,16,23,7,61,8,8,5,56,23,12,21,29,14,21,2,8,82,29,8,11,69,23,22,10,17,31,20,3,4,22,19,26,8,26,3,13,3,2,8,8,5,3,8,3,9
 Ivoire Abidjan	419
 Ivoire Accelerates Digital Push	6662
 Ivoire Advances Digital Tourism Strategy	5931
+Ivoire Africa Western Africa Praha High	10840
 Ivoire Appoints Djibril Ouattara	4756
 Ivoire Approves FCFA	4071
 Ivoire Approves New Digital Security Framework	2759
@@ -205,6 +388,7 @@ Ivoire CCDR	3604
 Ivoire CEO Mamadou Bamba	6345
 Ivoire Calls	3131
 Ivoire Cameroon	4972
+Ivoire Cameroon Zimbabwe Liberia Djibouti Swaziland	10819
 Ivoire Capital	2342
 Ivoire Capitaux	2342
 Ivoire Chief Executive Officer Mamadou Bamba	6303
@@ -212,6 +396,7 @@ Ivoire Civil Registry System	10714
 Ivoire Collaborate	6646
 Ivoire Coltan	2342
 Ivoire Compact	210
+Ivoire Compliance	10856
 Ivoire Conception	4895
 Ivoire Country Climate Development Report	3604
 Ivoire Cyber Africa Forum	3526,841
@@ -247,6 +432,7 @@ Ivoire GovTech Lab	9291
 Ivoire Group	2522
 Ivoire Gulf of Guinea Northern Regions Social	3604
 Ivoire H.E. Kashim Shettima	7452
+Ivoire H1	10840
 Ivoire Health	3604
 Ivoire Highlights	6017
 Ivoire Internet Exchange	6660
@@ -256,6 +442,7 @@ Ivoire L'année	747
 Ivoire La Côte	5054
 Ivoire Launches EMY	5464,8
 Ivoire Li-	2342
+Ivoire Liberia Benin Tanzania Mali Guinea-Bissau	10856
 Ivoire Manganèse	2342
 Ivoire Manganèse Mines SA	2342
 Ivoire Ministry of Commerce and Industry	2157
@@ -263,6 +450,7 @@ Ivoire National	3604
 Ivoire Numérique	3131
 Ivoire Other Francophone Africa Bayobab Head	10793
 Ivoire Other WECA Bayobab Head	10793
+Ivoire Overall	10861
 Ivoire Participation	4549,78
 Ivoire Participations	1543
 Ivoire Partner	7315
@@ -283,8 +471,11 @@ Ivoire SARL	2342
 Ivoire Second Investment for Growth Development Policy	3604
 Ivoire Secures	2869
 Ivoire Seeks	6678,209,414,23
+Ivoire Senegal	10861
+Ivoire Sierra Leone Nigeria Burkina Faso	10856
 Ivoire Sign MoU	4093
 Ivoire Signs AI Partnership	3280
+Ivoire Sources	10861
 Ivoire Starlink	3658,2617,145,290,799,2870
 Ivoire Targets Internet Expansion and Cybersecurity	5457
 Ivoire Tech	3249,19
@@ -306,6 +497,7 @@ Ivoire Unveils New Self-Service App	5561
 Ivoire Youth	3604
 Ivoire Youth Employment and Skills Development Phase	959
 Ivoire Youth Employment and Skills Development Project	959,2645
+Ivoire Zambia Algeria Malawi Gambia Lesotho	10837
 Ivoire and ARTCI Sign MoU	3139
 Ivoire and Angola	6736,523,29
 Ivoire and Benin	8046
@@ -428,10 +620,12 @@ Ivoire... Dernières	3658,2617,145
 Ivoire... Faure Essozimna Gnassingbé	3658,2617,145
 Ivoire... PUBLICITE Articles	10379
 Ivoire... Rejoignez	3658,2617,145
+Ivoire.30 Benin	10856
 Ivoire.Dans	7807
 Ivoire.JB	8518
 Ivoire.La	7891
 Ivoire19	3604
+Ivoire’s	10861
 Ivoire’s Aid Management Platform	244,1,1,70,1,21,82,1,130,2
 Ivoire’s ICT	3604
 Ivoire’s Jeko	7283
@@ -444,7 +638,7 @@ Ivoire’s National Energy Compact	3604
 Ivoirian	3604,868,2958
 Ivoirians	7430
 Ivoirien	2332,4226,3874
-Ivoiriens	2418,212,123,55,48,75,831,1262,1880,1434,2051
+Ivoiriens	2418,212,123,55,48,75,831,1262,1880,1434,2051,496
 IvorTech	3175
 Ivorian	938,365,4,5,3,712,4,5,3,310,25,80,415,262,44,105,1,33,3,119,168,4,82,11,79,369,71,84,4,5,3,156,155,256,89,492,353,309,67,87,23,26,16,58,46,185,96,154,133,327,165,298,110,41,114,1219,830
 Ivorian Agency for Radio Frequency Management	3604
@@ -499,6 +693,11 @@ Model Law Part IV HIPSSA	28
 Moyennes Entreprises Ivoiriennes	7891
 NDICE EJE ESTRATÉGICO IV	1701
 NDP IV	6786,3,1680,1740
+NOMBRE D'ANNEE D'EXPERIENCE IV.2.1 Public Sexe	10847
+NOMBRE D'ANNEE D'EXPERIENCE IV.2.2 Privé Sexe	10847
+NOMBRE D'ANNEE D'EXPERIENCE IV.2.3 Urbain Sexe	10847
+NOMBRE D'ANNEE D'EXPERIENCE IV.2.4 Rural Sexe	10847
+NOMBRE D'ANNEE D'EXPERIENCE IV.2.5 Urbain	10847
 National Development Plan IV	6311,3898
 National Development Plan IV and Uganda's Vision	4217
 National Development Plan IV and Vision	4217
@@ -519,20 +718,31 @@ PART IV Private Network Licences	736
 PART IV Private Network Licences Considerations	736
 PART IVA	7845
 POLICY FOR ICT Section IV IMPLEMENTATION	958
+PROCEDURES ADMINISTRATIVES IV.1.1 Gestion	10876
+PSM and IV	10852
 PT. Perkebunan Nusantara IV Regional III	4432
-Part IV	1,2,23,757,550,260,395,721,874,4262,931
+Part IV	1,2,23,757,550,260,395,721,874,4262,931,2036
 Part IV HIPSSA	27,1
 Part IV and Part VI	2727
+Part IV--Use and Management of Technology	10812
 Pension PART IV	1220
+PforR IV.2.4.1.1. Règles	10876
 Phase IV	1089,61,3323,864,339
 Phase IV Bill	1497
 Phase IV Export-Import Bank of China	4473
 Plenary IV	8713
 Política de Energía Eje IV	1701
+Privé IV.1.4 Urbain	10847
 Problème IV	6383
+Programme Terra Bénin. IV.1.2.1.2 Application S’applique	10876
+Programme Terra Bénin. IV.1.3.1 Prise	10876
+Programme Terra Bénin. IV.1.3.5.3 Règles	10876
+Programme Terra Bénin. IV.1.4.2 Application S’applique	10876
 Projecto ANEXO IV	10783
 Projecto. CAPÍTULO IV EXECUÇÃO E CONTROLO	10783
 Projectos REDISSE IV	10777
+REDISSE IV	10829
+REDISSE IV and COVID-19	10829
 Regulamento. CAPÍTULO IV DISPOSIÇÕES FINAIS	744
 Regulations. Part IV	1988
 Rep Ivar Jones	3645
@@ -551,6 +761,8 @@ SECÇÃO IV PROGRAMA PLURIANUAL DE INVESTIMENTO	10783
 SECÇÃO IV Prestação de Informações	15
 SECÇÃO IV SECRETARIADO EXECUTIVO	13
 SECÇÃO IV SECRETARIADO EXECUTIVO Artigo	13
+SENI and REDISSE IV	10829
+SENI-REDISSE IV- COVID-19 PIU The World	10829
 SOCIÉTÉ IVOIRE MANGANÈSE MINES SA Gestion	2342
 SOCIÉTÉ IVOIRIENNE	2342
 SOCIÉTÉ IVOIRIENNE DE TECHNOLOGIE TROPICALE Structures	2342
@@ -581,10 +793,11 @@ Sofitel Hôtel Ivoire	10182
 Sofitel Hôtel Ivoire de Cotonou. L'événement	2915
 TATS MEMBRES DE L’UEMOA IV.2	10711
 TATS MEMBRES DE L’UEMOA IV.3	10711
-TITRE IV	785,401,825,2556
+TITRE IV	785,401,825,2556,6258
 TITRE IV DISPOSITIONS DIVERSES	4420
 TITULO IV DE LA GESTIÓN PRESUPUESTARIA	4209
 TITULO IV FICHEROS DE DATOS PERSONALES	163
+TIÏRE IV DE L'ADMINISTRATION ET	10813
 Table IV	5634
 Term Plan MTP IV Fourth Medium	2775
 Tier III and Tier IV	3292,2717,2112,2036
@@ -597,8 +810,10 @@ Tier IV Data Centre	1722
 Tier IV-certified	7244
 Tier IV-standard	4528
 Tier IV. Elle	8685
+Titre IV	10836
 Titre IV-des	4420
 Togo and Ivory Coast	2374
+Trésor IV.2.4.1.3. Traitement	10876
 Type IV	9123
 TÍTULO IV	4209
 TÍTULO IV DISPOSIÇÕES FINAIS E TRANSITÓRIAS	15
@@ -609,4 +824,5 @@ Uganda’s National Development Plan IV	9389
 Uptime Institute Certified Tier IV	7066
 Uptime Institute Tier IV-certified	3554
 Ventures Platform Fund IV	816
+Working Group IV	10819
 World Bank. IVA	6539

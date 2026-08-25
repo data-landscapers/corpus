@@ -2,6 +2,7 @@ Code QR	5471
 Código QR	4820
 D.R. Le QR Code	8357
 Datasonic QR-code	4275
+IDs' QR	10890
 IDs’ QR	10672
 India's QR-code	3363
 Le QR	8170
@@ -15,8 +16,9 @@ NIBSS QR	2378
 Nakanoshima Qross International Institute of Future Medicine	3760
 PayShap QR	7253
 Physical Smart ID Cards and QR-Based Credentials	5533,58
-QR Code	3033,1426,977,304,1354,408,826,1,28,298,218,300,4,1078,259,174,23,39,6
+QR Code	3033,1426,977,304,1354,408,826,1,28,298,218,300,4,1078,259,174,23,39,6,60
 QR Code GIMACPAY	4208
+QR Code Security	10823
 QR Code VDS	2465
 QR Code. Avec	9177
 QR Code. Ce	9177
@@ -27,7 +29,7 @@ QR Codes. C'est	10515
 QR Enhancing	9237
 QR Gimacpay	3032
 QR-based	2612,1756,1508,4
-QR-code	1343,426,810,2297,109,755,56,3004
+QR-code	1343,426,810,2297,109,755,56,3004,2090
 QR-code-enabled	3852
 QR-coded	3101,2934,2486
 QRJ-08-2022-0116 Freijat	7278

@@ -10,12 +10,14 @@ Amended ICT Sector Code	6183
 American Standard Code for Information Interchange	1984
 Angola. While the Code	10765,10
 Angolan Criminal Code	3722
+Au Code	10876
 Avr. Code	8673
 B-BBEE Code	2937
 B-BBEE ICT Sector Code	2946,2114,4875
 BCP Requirements Code of Conduct for Public Entities	6432
 BILLING CODE	5773
 Baltic Code	5700
+Benin Digital Code	10822
 Benin's DIGITAL CODE	1728
 Benin's Electoral Code	5782
 Board’s Health Safety Code	9855
@@ -51,7 +53,10 @@ CODM EBITDA South Africa Nigeria Ghana	10793
 CODM EBITDA. CODM EBITDA	10793
 CODM. The Group	10793
 CODO INVESTMENTS LIMITED Data Controller INST-4709614A25D	7167
+CONFORME AU CODE DES MARCHÉS PUBLICS	10876
 Capital Markets Authority Code of Corporate Governance	7204
+Card Production Centers CPF Code of Persons	10812
+Chad's Labor Code	10841
 Chairman Code of Conduct Bureau	1014
 Chairman Code of Conduct Tribunal	1014
 Challenge CODAN MCA-COD-ENV- Conforme Account	998
@@ -66,6 +71,8 @@ Claude and Claude Code. Along	5048
 Climate Change Funds CDMA Code Division	2775
 CoD-dominant	8076
 CoDevelop	4431
+CoDir	10876
+CoDir Septembre N	10876
 Codafis	4209
 Codage	4742
 Codar	7395
@@ -101,9 +108,13 @@ Code des Hydrocarbures	3191
 Code des Hydrocarbures. Dans	3191
 Code des Investissements	4567
 Code des Marchés	5907
-Code des Marchés Publics	4567
+Code des Marchés Publics	4567,6309
+Code des Marchés Publics du Bénin	10876
+Code des Personnes	10812
 Code du Numérique	7470,2352
+Code du Numérique du Bénin	10822
 Code du Travail	4567
+Code du Travail du Bénin	10876
 Code du Travail. Sous-section	1231
 Code for Africa	6055
 Code for AfricaFollow6	6055
@@ -118,6 +129,7 @@ Code of GBV	1988
 Code of Good Practice	5533
 Code of Governance for Corporations Act	6946
 Code of Internet Practice	6748
+Code of Persons and Family	10812
 Code of Practice	8529,1,1078,313
 Code of Practice for Information Security Controls Detailed	3861
 Code of Practice for Interactive Computer Service Platforms	5215
@@ -145,7 +157,7 @@ Codevelop and AFR	8449
 Codex	5967,531
 Codezone	5869
 Codificación	4209
-Codification	4583,3383
+Codification	4583,3383,2909
 Codification and Reform	958,14,5979
 Codification and ReformAct	972
 Codification andReform	972
@@ -170,18 +182,23 @@ Complétant le Code de Commerce	4567
 Consumer Code	11
 Consumer Code of Practice Regulations	9110
 Content Services Using Short Code Numbers	3862
+Contenu Code des Marchés Publics du Bénin Référence	10876
 Criminal Code	27,931,14
 Criminal Law Code	972,8279
 Criminal Law Codification and Reform Amendment Act	6951
 D.R. Le QR Code	8357
+DGI Codes A1.1.2.2 A1.1.2.3 A1.1.2.4 A1.1.2.6	10858
+DGI Codes Action	10858
+DGI Codes Axes	10858
 Data Sharing Code	2998,1585
 Definition and Coding Digital ID	10714
 Departmental Disciplinary Code and Procedures	5533
+Description Code des Marchés Publics	10876
 Destination Codes MNO Mobile Network Operator	6946
 Develop Code of Conduct	1988
 Development of Code of Conduct	1988
 Digit Short Codes	6946
-Digital Code	1839,1314,40,411,281,68,251,125,254,511,313,18,475,4174
+Digital Code	1839,1314,40,411,281,68,251,125,254,511,313,18,475,4174,782
 Digital Code Act	2679
 Disinformation Code	6907
 Djibouti Code Campus Association	5720
@@ -210,9 +227,10 @@ FIRST-ROUND CODING	8605
 FY2025 Code	1913,177,3169
 FY2026 Code	3756,785
 False Codling Moth FDI Foreign Direct	2775
-Family Code	10765,10
+Family Code	10765,10,39
 Feldspar of HS Code	6921
 Finalize TORs for Coding Camp for Girls Finalize	2989
+Forestry Code	10841
 General Code of Conduct	8354
 General-Purpose AI Code of Practice Template	8529
 Ghana ISIC Codes Activity ICT	236
@@ -256,7 +274,9 @@ King Codes	4896
 L'adoption du Code	3267
 LANGUAGE CODES	582
 LINKS TO SECTORAL DAC CODES	970
-Le Code	3267,5054
+Labor Code	10841
+Labour Code	10841
+Le Code	3267,5054,2553,1,1
 Le Code Electoral	2808
 Life Safety and Fire Safety Codes	1988
 Lusaka. ZIP Code	9603,1
@@ -279,12 +299,14 @@ Model Law Part XII Code of HIPSSA	27
 Muse Code	8797
 Mwongozo Code	6946
 Mwongozo Code of Governance for State Corporations	6946
+Méthodes de Sélection Le Code	10876
 NAMFULL2 ID ENTITY CODBRANCH Notably	3364
 NITDA Code of Practice	5215
 National Building Codes	1988
 National Code of Corporate Governance for Mauritius	8866
 National Signalling Point Codes	6946
 National Unique Code	10765,10
+Nationality Code	10841
 NetHope Humanitarian AI Code of Conduct	7147
 Network Colour Codes	6946
 Network Subnetwork Code Artificial Intelligence Centralised	8605
@@ -300,6 +322,7 @@ PIU Code	1988
 Penal Code	3583,1060,475,304,1548,303,2943,317
 Penal Code Act	1535,3887
 Penal Code Chapter	1988
+Petroleum Code	10841
 Plus Code	4118
 Press Code of Ethics and Conduct	8917
 Previous AI Coding Tools Promise Speed	3279
@@ -307,8 +330,9 @@ Programming Code	6946
 Promo Code	9031
 Proyecto Comisión Nacional de Codificación	4209
 Purpose and Scope This Code of Conduct	6432
-QR Code	3033,1426,977,304,1354,408,826,1,28,298,218,300,4,1078,259,174,23,39,6
+QR Code	3033,1426,977,304,1354,408,826,1,28,298,218,300,4,1078,259,174,23,39,6,60
 QR Code GIMACPAY	4208
+QR Code Security	10823
 QR Code VDS	2465
 QR Code. Avec	9177
 QR Code. Ce	9177
@@ -325,6 +349,7 @@ Responsibility and Ethics CODATA ISC Committee	5246
 Rwanda Coding Academy	697,73,6727,409,933
 Rwanda Coding Academy Capacity Development	770
 Rwanda’s Coding Academy	2702
+Références Juridiques Contenu Code des Marchés Publics	10876
 Révision du Code Pénal	2625
 SECOND-ROUND CODING	8605
 STP COD BDI MRT ETH BFA	6593

@@ -15,9 +15,11 @@ ALLOYKI AUTO LOGISTICS LIMITED Data Processor	7167
 AMENDMENT OF THE LOCAL GOVERNMENT AUTHORITIES	6921
 ANGEO-1. Authorities	5421
 ARMP Procurement Regulation Authority	969
+ARMP Public Procurement Regulatory Authority	10829
 ARPT Guinea The National Communications Authority	3986
 ASYCUDA Automated System for Customs Data AWP	969
 AUTHENTIC COSMOPLASTIC ESSENTIALS PLASTIC SURGERY LIMITED	7167
+AUTHENTICATION Blueprint	10819
 AUTHENTICATION OF DOCUMENTS	585,8281
 AUTHENTICATION OF DOCUMENTS AFRINIC Bylaws	585
 AUTHENTICATION SERVICES	10765
@@ -35,6 +37,7 @@ AUTO EDIT SOM ABO&did	5550
 AUTO EXTREME Data Processor INST-856495288C0 KISUMU	7167
 AUTO PARKING SYSTEMS LIMITED Data Controller	7167
 AUTO PARKING SYSTEMS LIMITED Data Processor	7167
+AUTO SAISINES	10876
 AUTO SPRINGS EAST AFRICA PLC Data	7167
 AUTOCHEK LIMITED Data Controller INST-778965A0586 NAIROBI	7167
 AUTOCHEK LIMITED Data Processor INST-778965A0586 NAIROBI	7167
@@ -48,6 +51,8 @@ AUTORATES AFRICA LIMITED Data Processor INST-5580625BFCE	7167
 AUTORISATION DE CESSION	2342
 AUTORISATIONS REFERENCE MANGA SECURITE N	998
 AUTORISATIONS RÉSEAUX INDÉPENDANTS	998
+AUTORITE DE CONTROLE CHAPITRE	10825
+AUTORITE DE PROTECTION DES DONNEES	10821
 AUTORIZAÇÃO	794
 AUTORIZAÇÃO DE OPERAÇÕES DE PAGAMENTO	10755
 AUTORIZAÇÃO E REGISTO DE SOCIEDADES PRESTADORAS	10755
@@ -88,11 +93,13 @@ Adultes Jeunes Jeunes de Français Langues Autres	737
 Advertising Standards Authority of South Africa	5872
 Africa Happily Authenticated	3470
 African Advanced Level The Authority	6946
+African Continental Trust Scheme Authority	10819
 African Healthcare Regulatory Authorities Data Exchange	10523
 African Network of Authorities	961
 African Network of Cybersecurity Authorities	10073
 African Network of Data Protection Authorities	961
 African Network of Personal Data Protection Authorities	2734
+African Trust Scheme Authority. A Trust	10819
 Agency ZPPA Zambia Public Procurement Authority	1988
 Agenda CA Communications Authority of Kenya CAJ	7548
 Agricultural Marketing Authority	3742
@@ -100,6 +107,7 @@ Agriculture Food Authority	10313
 Agriculture and Food Authority	10313
 Agriculture and Food Authority of Ksh1	10313
 Airports Authority of Nigeria	7914
+Airtel and Safaricom. The Communications Authority of Kenya	10822
 Al Akhawayn University. Authorities	5360
 Amendment The Authority	762
 Angola and Mozambique Author	7752
@@ -131,7 +139,7 @@ Auteur	4960,62,1932,103,513,1,69,218,71,341,48,384,23,1807
 Auteurs	765
 Authen	8603
 Authenticated	6423
-Authentication	1009,930,410,1512,749,253,381,1143,36,855,2151,309,983,54
+Authentication	1009,930,410,1512,749,253,381,1143,36,855,2151,309,983,54,37,7
 Authentication Mechanism	10721
 Authentication Mechanism Information	10721
 Authentication Refer	10617
@@ -141,10 +149,10 @@ Authentication of Health Care Information	1009
 Authenticator	9902
 Authenticity	5665,1613,3447
 AuthenticityAuthenticity	7278
-Authentification	735,2646
+Authentification	735,2646,7455
 Authentification Authentification Perspectives Validation	3381
 Authentique	10387
-Author	10,756,5,250,198,24,18,386,176,115,158,238,25,13,155,36,13,17,70,45,3,5,19,19,22,51,37,45,9,4,1,10,2,119,13,13,8,8,6,6,31,11,43,21,4,10,7,3,25,18,18,1,6,7,1,31,52,12,7,20,5,17,22,2,3,6,32,1,4,8,6,22,14,15,6,13,1,13,14,8,13,1,1,6,10,17,6,26,1,11,3,1,7,12,1,6,16,2,2,1,6,8,32,44,10,37,4,2,19,8,95,13,1,1,5,6,11,3,49,21,28,13,12,6,9,5,4,29,23,1,30,18,1,197,4,16,13,2,45,5,5,11,7,20,12,11,19,1,15,2,25,25,18,5,95,2,1,2,14,46,1,17,10,46,29,1,8,13,20,4,26,13,16,96,5,20,1,3,16,31,30,13,46,9,7,9,5,2,6,6,23,22,4,13,2,12,12,1,46,7,1,57,2,58,23,2,1,59,7,10,47,4,12,4,1,7,8,1,13,6,21,15,3,5,3,18,4,4,7,9,3,21,8,46,61,4,1,8,9,14,28,7,10,45,8,21,12,4,12,28,4,8,26,4,41,7,18,5,18,31,11,5,3,89,7,9,22,16,11,2,12,13,13,1,29,5,3,24,18,14,10,10,7,1,30,3,33,49,57,5,45,21,14,3,17,37,16,4,26,18,64,46,17,6,2,3,5,4,2,5,6,16,2,1,2,4,7,22,2,13,9,5,9,1,4,8,1,17,1,2,3,10,12,6,5,2,110,46,79,51,51,19,1,1,17,7,22,6,12,1,3,9,11,5,9,2,23,9,25,17,1,12,6,79,74,18,29,46,7,53,469,73,13,662,67,19,44,7,6,7,8,9,13,1,3,2,4,6,2,3,17,11,15,2,13,5,3,4,6,27,1,6,13,4,222,120,92,171,4,74,1,2,1,2,93,22
+Author	10,756,5,250,198,24,18,386,176,115,158,238,25,13,155,36,13,17,70,45,3,5,19,19,22,51,37,45,9,4,1,10,2,119,13,13,8,8,6,6,31,11,43,21,4,10,7,3,25,18,18,1,6,7,1,31,52,12,7,20,5,17,22,2,3,6,32,1,4,8,6,22,14,15,6,13,1,13,14,8,13,1,1,6,10,17,6,26,1,11,3,1,7,12,1,6,16,2,2,1,6,8,32,44,10,37,4,2,19,8,95,13,1,1,5,6,11,3,49,21,28,13,12,6,9,5,4,29,23,1,30,18,1,197,4,16,13,2,45,5,5,11,7,20,12,11,19,1,15,2,25,25,18,5,95,2,1,2,14,46,1,17,10,46,29,1,8,13,20,4,26,13,16,96,5,20,1,3,16,31,30,13,46,9,7,9,5,2,6,6,23,22,4,13,2,12,12,1,46,7,1,57,2,58,23,2,1,59,7,10,47,4,12,4,1,7,8,1,13,6,21,15,3,5,3,18,4,4,7,9,3,21,8,46,61,4,1,8,9,14,28,7,10,45,8,21,12,4,12,28,4,8,26,4,41,7,18,5,18,31,11,5,3,89,7,9,22,16,11,2,12,13,13,1,29,5,3,24,18,14,10,10,7,1,30,3,33,49,57,5,45,21,14,3,17,37,16,4,26,18,64,46,17,6,2,3,5,4,2,5,6,16,2,1,2,4,7,22,2,13,9,5,9,1,4,8,1,17,1,2,3,10,12,6,5,2,110,46,79,51,51,19,1,1,17,7,22,6,12,1,3,9,11,5,9,2,23,9,25,17,1,12,6,79,74,18,29,46,7,53,469,73,13,662,67,19,44,7,6,7,8,9,13,1,3,2,4,6,2,3,17,11,15,2,13,5,3,4,6,27,1,6,13,4,222,120,92,171,4,74,1,2,1,2,93,22,37
 Author Adebowale Jeremy Adetayo	9256
 Author CIPESA Posted	6294,3643
 Author Directorate-General for Digital Services	5846
@@ -155,7 +163,7 @@ Author-	11
 Author. Licensee	8021
 Authored	765,8011
 Authorisa	3386
-Authorisation	11,116,622,223,830,186,1726,2709,921,351,2462,148
+Authorisation	11,116,622,223,830,186,1726,2709,921,351,2462,148,514
 Authorisation ITU Mobile Alert Communication Management	1009
 Authorisation and Ratification	8400
 Authorisations	6946,3211
@@ -192,7 +200,7 @@ Authorities No Insurance Regulation and Control Agency	6938
 Authorities SSETA Services Sector Education and Training	6832
 Authorities Social	970
 Authorities and Agencies	3025
-Authority	11,11,5,209,70,90,12,174,5,131,18,26,21,116,73,28,214,2,7,210,80,41,188,8,27,33,1,33,26,7,23,75,5,8,125,195,5,217,138,21,31,7,49,137,24,7,2,21,58,191,69,179,7,22,90,21,19,28,63,32,41,100,82,119,38,78,47,241,37,8,7,15,51,82,40,117,136,90,21,45,25,2,78,182,70,31,14,19,30,54,9,10,5,9,68,46,61,1,17,26,6,95,1,133,59,89,21,8,156,155,6,44,113,2,34,6,6,59,15,32,1,7,213,6,105,24,74,1,25,6,1,9,3,39,96,3,71,24,1,53,24,53,51,4,13,112,23,97,38,168,2,38,43,14,13,23,39,2,87,38,34,132,42,30,106,29,123,31,12,2,7,59,140,6,21,30,93,157,92,37,74,2,1,8,6,4,75,84,21,228,12,25,8,63,21,8,1,4,9,103,59,5,38,7
+Authority	11,11,5,209,70,90,12,174,5,131,18,26,21,116,73,28,214,2,7,210,80,41,188,8,27,33,1,33,26,7,23,75,5,8,125,195,5,217,138,21,31,7,49,137,24,7,2,21,58,191,69,179,7,22,90,21,19,28,63,32,41,100,82,119,38,78,47,241,37,8,7,15,51,82,40,117,136,90,21,45,25,2,78,182,70,31,14,19,30,54,9,10,5,9,68,46,61,1,17,26,6,95,1,133,59,89,21,8,156,155,6,44,113,2,34,6,6,59,15,32,1,7,213,6,105,24,74,1,25,6,1,9,3,39,96,3,71,24,1,53,24,53,51,4,13,112,23,97,38,168,2,38,43,14,13,23,39,2,87,38,34,132,42,30,106,29,123,31,12,2,7,59,140,6,21,30,93,157,92,37,74,2,1,8,6,4,75,84,21,228,12,25,8,63,21,8,1,4,9,103,59,5,38,7,191,30
 Authority Accreditation and Certification	587
 Authority Act	7845
 Authority AfDB African Development Bank AG	2775
@@ -202,6 +210,7 @@ Authority CEO Capital Markets Authority CEO	6938
 Authority CEO Financial Intelligence Authority Zambia	6938
 Authority CEO Uganda Retirement Benefits Regulatory	6938
 Authority CERT-GH	775
+Authority CNIB National Burkinabe Identity Card	10812
 Authority Centre	6946
 Authority Certification	7548
 Authority Contributors	6936
@@ -248,6 +257,7 @@ Authority of Heads of State and Government	7,7445
 Authority of Kenya	6946,602
 Authority of Kenya CEO Chief Executive Officer	6946
 Authority of Namibia	9692
+Authority of Regulation of Public Procurement	10870
 Authority of Zimbabwe	395
 Authority's Experts Office	7923
 Authority's Inquiry	6891
@@ -332,7 +342,7 @@ Authorized Use and Accountability	3861
 Authorized User	3972
 Authorized User Access	3972
 Authorized Users	3972
-Authors	427,339,3,2,190,269,19,12,567,1898,65,1649,260,723,456,272,62,673,68,989,185,1,92,11,5,379,271,831,47,10
+Authors	427,339,3,2,190,269,19,12,567,1898,65,1649,260,723,456,272,62,673,68,989,185,1,92,11,5,379,271,831,47,10,81
 Authors Alison Gillwald	5044
 Authors ArticleDraft Guidance Note	6998
 Authors ArticleID Like To Know	6632
@@ -361,6 +371,7 @@ Auto de Notícias	4274
 Auto-	6432
 Auto-Allocation	3943,752
 Auto-Allocation. Kuzamba Mbuangu	4695
+Auto-Saisine	10821
 Auto-Saisines Dans	8891
 Auto-allocation Mardi	3943
 Auto-assessment	8670
@@ -381,7 +392,7 @@ Autofinanciación	1701
 Autogirl	7798
 Automate	8817,1904
 Automate Spectrum	5245
-Automated	28,543,649,876,578,977,210,1508,1063,10,496,852,340,306,360,711,274,1,107,381,69,211
+Automated	28,543,649,876,578,977,210,1508,1063,10,496,852,340,306,360,711,274,1,107,381,69,211,295
 Automated Biometric Identification System	2073,1342,2118
 Automated Biometric Identification System ACSA Airports	5533
 Automated Clearing House	2358,1299,22,26
@@ -393,7 +404,9 @@ Automated Decision Making	8436
 Automated Decision-Making	7548
 Automated Diagnosis Google	1363
 Automated Digital Devices	1988
+Automated Fingerprint Identification System	10812
 Automated Indicator Reporting	4153
+Automated Interbank Clearing System	10845
 Automated LPA Platform By David A	4283
 Automated Payment System Plus	3679
 Automated Platform	4283
@@ -406,6 +419,7 @@ Automated Teller Machine Coronavirus Disease Digital	940
 Automated Teller Machines	6774,3387
 Automated Trading System	10
 Automated Transfer System	4915,1231
+Automated Transfer and Settlement System	10845
 Automated Vehicle Tracking	3862
 Automatic	1243,2471,1018,944,756,2385,306
 Automatic Data Processing	972
@@ -443,19 +457,21 @@ Automne	7655
 Automotive	736,3588
 AutomotiveRamaphosa	7253
 Automóvel de São Vicente	5476
+Autonome de Gestion des Dettes CCE	10876
 Autonomia	167
 Autonomia Administrativa	10752
 Autonomia Administrativa E DOS DIREITOS HUMANOS	10752
 Autonomia Tecnológica Após	6530
-Autonomie	37
+Autonomie	37,10837
 Autonomie Section	37
 Autonomisation	822,4808,2596,1430
-Autonomous	5700,2680,718,247
+Autonomous	5700,2680,718,247,1467
 Autonomous Credit Lending	5482
 Autonomous District of Greater Lome	4293
 Autonomous FIGURE	9616
 Autonomous Fund for Amortization of Public Debt	57
 Autonomous Network Power	5226
+Autonomous Port	10856
 Autonomous Port of Cotonou	9043,232
 Autonomous System	7548
 Autonomous System Numbers	3503
@@ -518,16 +534,17 @@ Autoridades Tradicionales	1701
 Autoridades de Polícia Criminal	539
 Autoridades de Proteção de Dados Pessoais	3079
 Autoridades de Proteção de Dados de Angola	3079
-Autorisation	37,3344,4940
+Autorisation	37,3344,4940,2500,15,40
 Autorisation Exclusive	2342
 Autorisation Exclusive Ce	2342
-Autorisations	3356,40,155
+Autorisations	3356,40,155,7270
 Autorisations Réseaux Indépendants	998
-Autoriser	747
+Autoriser	747,10129
 Autoriteit Persoonsgegevens	8436
-Autorité	37,76,122,330,200,204,14,25,206,17,53,366,340,77,194,29,224,142,74,62,1,87,58,12,70,49,180,13,88,155,15,31,119,142,30,33,19,165,63,9,74,6,65,4,259,28,116,61,70,60,49,34,120,14,65,14,200,11,34,338,13,125,16,9,33,6,140,139,7,16,22,222,69,90,10,26,43,218,30,23,87,25,27,88,26,29,101,227,48,69,70,110,180,91,125,131,79,2,208,153,5,68,83,17,105,13,150,191,213,216,26,151,35,16,83,29,81,19,2,58,46,1,50,34,69,46
+Autorité	37,76,122,330,200,204,14,25,206,17,53,366,340,77,194,29,224,142,74,62,1,87,58,12,70,49,180,13,88,155,15,31,119,142,30,33,19,165,63,9,74,6,65,4,259,28,116,61,70,60,49,34,120,14,65,14,200,11,34,338,13,125,16,9,33,6,140,139,7,16,22,222,69,90,10,26,43,218,30,23,87,25,27,88,26,29,101,227,48,69,70,110,180,91,125,131,79,2,208,153,5,68,83,17,105,13,150,191,213,216,26,151,35,16,83,29,81,19,2,58,46,1,50,34,69,46,128,4,11,40
 Autorité Administrative	9565
 Autorité Camerounaise	3233
+Autorité Harcèlement	10821
 Autorité Malienne de Régulation des Télécommunications	7999
 Autorité Nationale	1231,517,618,2036
 Autorité Nationale de Cybersécurité	4255,2894
@@ -535,12 +552,13 @@ Autorité Nationale de Cybersécurité. L'ANC	7149
 Autorité Nationale de Sécurité des Systèmes	7668
 Autorité Nationale des Elections	2366
 Autorité Rwandaise	1214
+Autorité Signe	10876
 Autorité Statistique Nationale	2625
 Autorité Supérieure de Contrôle	3396
 Autorité de Contrôle des Assurances	568
 Autorité de Gestion des Réparations	8237
 Autorité de Protection	1231
-Autorité de Protection des Données	232,1093,690,2140,818,1106,757,1445,678,83,1198,29
+Autorité de Protection des Données	232,1093,690,2140,818,1106,757,1445,678,83,1198,29,552
 Autorité de Protection des Données Personnelles	1231,759,2807,749,277,916,2007
 Autorité de Protection. Article	1231
 Autorité de RégulatiDn des Communications Electroniques	37
@@ -548,9 +566,9 @@ Autorité de Régulation	998,1788,2967,10,144,1769,135,188,446,720,760
 Autorité de Régulation Multisectorielle de Djibouti	4402
 Autorité de Régulation de Communication Electronique	1935,76,2005
 Autorité de Régulation des Communications	969,1585,335,430,37,115,1331,20,96,252,620,467,354,141,485,1304,1357
-Autorité de Régulation des Communications Electroniques	37,961,5243
+Autorité de Régulation des Communications Electroniques	37,961,5243,4581
 Autorité de Régulation des Communications Eléctroniques	969
-Autorité de Régulation des Marchés Publics	969
+Autorité de Régulation des Marchés Publics	969,9860,47
 Autorité de Régulation des Postes	3104,4980
 Autorité de Régulation des TIC de Côte	5605,539
 Autorité de Régulation des Télécommunications	2418,958,500,1804,15,414,35,97,628,148,2,1112
@@ -560,15 +578,18 @@ Autorité des Ports	1287,4706
 Autorité des Postes	10691
 Autorité. Article	113,1118
 Autorité. Ce	1214
+Autorité. C’est	10821
 Autorité. En	1231
 Autorité. Le Président	113
 Autorité. Section	1231
 Autorité. Sous-section	1231
-Autorités	1214,2045,97,675,771,1880,1161,394,1050,55,1369,1
+Autorités	1214,2045,97,675,771,1880,1161,394,1050,55,1369,1,109,55
 Autorités Administratives Indépendantes	1231
+Autorités de Protection	10821
 Autorités de Protection des Données	6252
-Autorités de Protection des Données Personnelles	5842
+Autorités de Protection des Données Personnelles	5842,4979
 Autorités de Régulation	7999
+Autorités du Bénin	10821
 Autorités du Mali	12
 Autorités. Modalités	10711
 Autoriza	3607,950
@@ -577,20 +598,28 @@ Autorizar	4218
 Autorização	539,255,9961
 Autorização Geral Provisória	2701
 Autorização de Abertura de Crédito Adicional Suplementar	3607
+Autosaisine Défavorable	10821
 Autotech Solutions Limited Data Controller INST-4246770FB7A	7167
 Autour	4334,2834
 Autovía Bata-Mongomo Continental	4209
 Autovía Malabo-Luba Malabo	4209
-Autre	737,450,1190,101,280,762,197,348,357,251,21,176,595,792,620,340,157,527,412,386,313,265,80,68,631,339,136,45,2,110
+Autre	737,450,1190,101,280,762,197,348,357,251,21,176,595,792,620,340,157,527,412,386,313,265,80,68,631,339,136,45,2,110,153
+Autre Nb	10847
+Autre P.C.E P.E Dt	10847
 Autrefois	5712
-Autrement	737,2511,390,1255,129,1478,1217,176,34,428,822,54,47,241,196,106,209,160,498
-Autres	643,94,261,249,1095,134,490,571,299,584,475,2368,392,1166,70,158,841,347,163
+Autrement	737,2511,390,1255,129,1478,1217,176,34,428,822,54,47,241,196,106,209,160,498,139,15
+Autres	643,94,261,249,1095,134,490,571,299,584,475,2368,392,1166,70,158,841,347,163,441,33,1
 Autres Autres	7917
+Autres BOUCLE DU MOUHOUN BANWA	10847
+Autres COGES ONG	10847
 Autres Comm Resta	737
 Autres Dépenses67	1682
+Autres Employé Retraité	10847
+Autres Employé Retraité Total Région	10847
 Autres Grenier Autre Magasin	737
 Autres Infrastructures	2342
 Autres Infrastructures AGEF ANAH LBTP SEMGB	2342
+Autres KOMONDJARI	10847
 Autres Ministères	5022
 Autres Parents du CM	737
 Autres Poste	2342
@@ -741,6 +770,8 @@ Combined Auto Services Ltd Data Controller	7167
 Commercial Law Wilmari Strachan Your Author	6683
 Commercial Registry Authority	5096,2063
 Commercial Representation Authority	8770
+Commission Electorale Nationale Autonome	10821
+Commission Electorale Nationale Autonome Traitement	10821
 Commissioner General of The Gambia Revenue Authority	7694
 Common Seal and Authentication of Documents Rationale	8866
 Communauté Financière Africaine GAB Guichet Automatique	4459
@@ -750,13 +781,13 @@ Communication Regulatory Authority of Namibia	2588,5039,623
 Communication Technologies Authority Document Ref	2913
 Communication Technology Authority	6946
 Communication and Authentication	775
-Communications Authority	1856,674,1368,903,1430,501,1,213,185,417,409,93,81,12,180,244,305,144,529,2,333
+Communications Authority	1856,674,1368,903,1430,501,1,213,185,417,409,93,81,12,180,244,305,144,529,2,333,942
 Communications Authority Data	7548
 Communications Authority Expands Digital Access	7394
 Communications Authority Kenya	6946
 Communications Authority Sector	7548
 Communications Authority of Ghana	5164
-Communications Authority of Kenya	2677,948,249,109,621,737,582,210,494,44,62,12,18,24,38,5,34,82,158,100,190,154,3,56,26,76,233,15,93,517,1,2,272,29,1,212,105,21,125,1,307,93,2,112,800
+Communications Authority of Kenya	2677,948,249,109,621,737,582,210,494,44,62,12,18,24,38,5,34,82,158,100,190,154,3,56,26,76,233,15,93,517,1,2,272,29,1,212,105,21,125,1,307,93,2,112,800,172
 Communications Authority of Kenya Figure	6946
 Communications Authority of Kenya Financial Statements	6946
 Communications Authority of Kenya Identity Module	6946
@@ -781,7 +812,7 @@ Company South Africa AFIS Automated Fingerprint	5533
 Compensation and Reparation Authority	3583
 Compensation and Reparation Authority. The Truth Commission	3583
 Competition Authority Responsible AI	7548
-Competition Authority of Kenya	5923,1015,3375
+Competition Authority of Kenya	5923,1015,3375,509
 Competition Regulatory Authority	7381,3398
 Competition and Markets Authority	3942
 Competências da Autoridade Reguladora	4274
@@ -811,6 +842,7 @@ Corresponding Author Abdallah Abdul-Salam	5349
 Corresponding AuthorAbdallah Abdul-Salam	5349
 Cotonou. Autour	3591
 Couffo. Autorités	5823
+Country Investment Authorities	10861
 Country Signing Certificate Authorities	7370,191
 Courier Services. The Authority	9335
 Coverage UFAA Unclaimed Financial Assets Authority	2775
@@ -842,6 +874,7 @@ DEE EM AUTO GARAGE LIMITED Data	7167
 DETAILS OF THE COMPANY SECRETARY Authorized	4896
 DHA and ICT Authority	9855
 DIGITAL CLEARANCE PROCESS Authors	1249
+DNCMP Autorise	10876
 DONE BY THE LIBERIA TELECOMMUNICATIONS AUTHORITY	4610
 DPA Data Protection Authority DPEC Directorate	4214
 DPC Authority	4126
@@ -856,10 +889,11 @@ Data Boom and Airtel Money Surge Author	7663
 Data Centre The Authority	6946
 Data Protection Authorities	961,1,2639,17,60,905,2056,155
 Data Protection Authorities. The African Union	5084
-Data Protection Authority	27,485,446,3,1,10,189,123,288,21,36,75,38,11,86,38,1195,532,74,183,311,356,55,225,2,553,62,123,14,619,285,326,159,1185,1009,842,181,242,371,4
+Data Protection Authority	27,485,446,3,1,10,189,123,288,21,36,75,38,11,86,38,1195,532,74,183,311,356,55,225,2,553,62,123,14,619,285,326,159,1185,1009,842,181,242,371,4,27
 Data Protection Authority I-39	10785
 Data Protection Authority Protection Authority Authority	1284
 Data Protection Authority The Postal and Telecommunications	972
+Data Protection Authority and Orange	10864
 Data Protection Authority. CYBER AND DATA	972
 Data Protection Authority. Initial	3058
 Data Protection Authority. National Governance Framework	4528
@@ -891,6 +925,7 @@ Development Technologies Authority	7548
 Development Technologies Authority Partners Council	7548
 Digital Autonomy and Ownership	4430
 Digital Health Authority	10662
+Digital Identity AUTHORISATION REGULATED Brith Certificate	10819
 Digital Identity and Authentication Systems	5244
 Digital Identity and Authentication Systems The National	5244
 Digital Services Authority	5444
@@ -920,15 +955,19 @@ Driver and Vehicle Licensing Authority. Industry	6177
 Drug and Food Control Authority	3583
 Dutch Supervisory Authority	8436
 Dynah Solani State-owned Local Enterprise Authority	5998
+Défavorable AUTORISATIONS	10821
+Délai Autorité Signe	10876
 Développement Autonome	7283
 E-Government and Automation of Services Companion	5134
 E. The Authority	7832
 E.pdf. The Authority	6671
 ECA. While the Authority	4732
+ECCAS ICT National Authorities	10892
 ECOWAS AUTHORITY OF HEADS	4114,3338
 ECOWAS Authority of Heads of State and Government	7452
 ECOWAS Authority of Heads of State and Government and H.E	7452
 EIGHTY EIGHT AUTO TELECOMS LIMITED Data	7167
+ETAT DU PARC AUTOMOBILE DE L’APDP	10821
 ETHIOPIA'S DATA PROTECTION AUTHORITY	1797,1413,3880
 EXECUTIVE AUTHORITY STATEMENT	5533
 EXECUTIVE AUTHORITY STATEMENT DEPARTMENT OF HOME	5533
@@ -974,6 +1013,7 @@ Energy and Petroleum Regulatory Authority	4513,3035,2765
 Energy and Petroleum Regulatory Authority EPZ Export	2775
 Environment Management Authority NEMIS National Education	2775
 Environment Management Authority RIB Rwanda Investigation	718
+Epargne Emprunt Subvention Autre Technical Report	10841
 Establishment of National Cybersecurity Authority	3887
 Estrategia de Desarrollo Autónomo	1701
 Eswatini Data Protection Authority	4583,302,1935,1316,1492
@@ -1047,6 +1087,7 @@ GENERAL AUTHORITY	4896
 GENERAL AUTHORITY NOTICE IS HEREBY GIVEN	4896
 GHANA’S RESPONSIBLE AI AUTHORITY	4126
 GHz INDEPENDENT COMMUNICATIONS AUTHORITY OF SOUTH	7850
+GLOSSARY AI Artificial Intelligence ASN Autonomous	10861
 GOVERNMENT AUTHORITIES	6921
 GSA Ghana Standards Authority SME Small	6936
 GTI. The Authority	3464
@@ -1059,12 +1100,14 @@ General Authority for Exhibitions and Conferences	8770,709
 General Authority for Investment and Free Zones	8770,1058
 General Authority for Telecommunications and Informatics	2958,506
 General Authorization	718,4527
+General Directorate for Local Authorities	10812
 General Information Authority	1229,1624,335,122,516,15,257,394,535,748,145,1239,565
 Gestão Autárquica	9403
 Ghana Cards. The Authority	7165
 Ghana Free Zones Authority	10630
 Ghana Hydrological Authority	8370
 Ghana Ministry of Finance and Ghana Revenue Authority	9729
+Ghana National Identity Authority	10822
 Ghana Revenue Authority	236,351,2127,3221,242,158,601,804,628,177,876,308,606,7,77,103,102
 Ghana Revenue Authority Commissioner-General Anthony Sarpong	9729
 Ghana Standards Authority	6936,3695
@@ -1081,6 +1124,8 @@ Global Network of AI Supervisory Authorities	6997
 Glossary AI Artificial Intelligence ASN Autonomous	10781
 Gobanim Traditional Authority	8253
 Government Authorities	6921
+Government Authorities Managing Displacement	10841
+Government Authorities Managing Displacement In CAR	10841
 Government Authority	798,846,1601,387,980
 Government Authority Environment	7548
 Government Authority. The Bank	4752
@@ -1088,6 +1133,7 @@ Government Energy and Resources Authority	7548
 Government Systems Automation	958
 Government of Cameroon's Caisse Autonome	303,36,7250
 Governmental Electronic Certification Authority	2406
+Grammaire Autre Nb	10847
 Green Ministry of Authority	7548
 Greg Autry	6897
 Guichet Automatique de Banque GIM-UEMOA	10711
@@ -1096,7 +1142,7 @@ HL7 HNSF Enterprise User Authentication European	1009
 HNSF BACKWARDS COMPATIBILITY Authenticate	1009
 Happily Authenticated	2277,16,36,88,121,224,64,180,5,1,53,46,22,18,62,165,202,41,104,2,10,227,360,99,138,41,199,33,221,29,288,91,11,232,163,11,34,225,389,55,265,123,135,177,1
 Haute Autorite	4237
-Haute Autorité	3348,3230,545,332,464,417,555
+Haute Autorité	3348,3230,545,332,464,417,555,1935
 Haute Autorité de Protection des Données	2514,842
 Haute Autorité des Médias	8772,281
 Hautes Autorités	9668
@@ -1106,9 +1152,15 @@ Health Professions Authority	3025
 Health Professions Authority of Zimbabwe	10071
 High Authority	1891
 High-Level Summary of Authority	6946
+Histoire Géographie Sciences Grammaire Autre Nb	10847
 Hotspot Authorisation	8247
 Human Resource Establishment The Authority	6946
 I INSTRUÇÃO DO PROCESSO DE AUTORIZAÇÃO	794
+I.A. Autre P.C.E P.E Dt	10847
+I.C. I.A.C. I.A. Autre P.C.E	10847
+I.C. I.A.C. I.A. Autre P.C.E P.E	10847
+I.P. I.C. I.A.C. I.A. Autre P.C.E	10847
+I.P. Total I.C. I.A.C. I.A. Autre	10847
 ICT Authority	899,1843,171,1624,1469,127,145,3,151,74,121,814,39,68,2,1214,314,777,25
 ICT Authority Bill	8382
 ICT Authority CEO	5108
@@ -1122,6 +1174,8 @@ ICT Regulatory Authority	2759
 ICT Regulatory Authority of Côte	7189,2734
 ID Authority	7222
 ID Certification Authority System	1379
+ID. The National Identification Authority	10822
+III.2.4 Caisse Autonome de Gestion des Dettes	10876
 INCM The Communications Regulatory Authority	6822
 INDEPENDENT COMMUNICATIONS AUTHORITY OF SOUTH	7828
 INDEPENDENT COMMUNICATIONS AUTHORITY OF SOUTH AFRICA	4732
@@ -1133,6 +1187,7 @@ ITU Council. The Authority	7923
 IV.3.1.2 Automatisation	10711
 Identification and Registration Authority	10521
 Identity Authentication	10721
+Identity Authentication and Verification Fees	10822
 Implement Multi-Factor Authentication	6432
 Implementation of Electronic Travel Authorisation	5533
 Imposto Predial Autarquico	574
@@ -1202,10 +1257,12 @@ Kenya Ports Authority	8274,1162
 Kenya Ports Authority CEO Captain William	8274
 Kenya Revenue Auth	33
 Kenya Revenue Authority	33,1605,2875,288,883,822,1101,1342,487,628,249
+Kenya Revenue Authority Act	10822
 Kenya Revenue Authority. The Committee	10313
 Kenya Rural Roads Authority	10313
 Kenya Rural Roads Authority KETRACO Kenya	2775
 Kenya Urban Roads Authority	9647
+Kenya Verbal Autopsy Standards	10822
 Kenya's Communications Authority	3413,1170,2268,3546
 Kenya's ICT Authority	8214
 Kenya's Information and Communication Technology Authority	4918,1128
@@ -1213,7 +1270,7 @@ Kenya. Kenya’s Konza Technopolis Development Authority	10236
 Kenya. The Authority	7957
 Kenyan Communications Authority	4604
 Kenya’s Capital Markets Authority	10653
-Kenya’s Communications Authority	6225,1870,1761
+Kenya’s Communications Authority	6225,1870,1761,966
 Kenya’s Technopolis Development Authority	10283
 Kerberos Network Authentication Service	1009
 Kericho and Nandi. The Authority	6946
@@ -1229,6 +1286,8 @@ LEGAL AUTHORITY	3861
 LICENSING The Regulatory Authority	718
 LIST OF AUTHORS AND CONTRIBUTORS	9855
 LIST OF AUTHORS AND CONTRIBUTORS LIST	9855
+LSHTM Author	10878
+LT Authors	10856
 LTA Landing Rights Authorization	10406
 La Caisse Autonome de Retraite des Fonctionnaires	7800
 La Décision des Autorités	10711
@@ -1248,6 +1307,7 @@ Last Authorisa	3386
 Last Authorised	4896
 Last Not Operational Authorisa	3386
 Le Mauritius Revenue Authority Act	7994
+Le Réseau Africain des Autorités de Protection des Données	10821
 Legal Authority	3861
 Legal Personality and Autonomy	3861
 Legal Personality and Autonomy The NDGC	3861
@@ -1345,6 +1405,7 @@ Ministries and Regulatory Authorities	3476
 Ministro Autoridad Judicial Militar Autoridad Judicial	4209
 Ministry of Fisheries and Blue Economy. Author	4762
 Model PURA Public Utility and Regulatory Authority	1000
+Moderate Public Disclosure Authorized	10870
 Modernization and Automation	10550
 Moniepoint Happily Authenticated	2310
 Moroccan Capital Market Authority	6938
@@ -1374,6 +1435,7 @@ NIMC Launches NIN Authentication Service	4861
 NIMC the Root Certification Authority	9880
 NIN Authentication	2805,2479
 NIN Authentication Service	4861
+NIST Electronic Authentication Guidelines NIST.SP.800-63	10819
 NITDA Authority	5665
 NITDA Happily Authenticated	3942
 NO. COMMERCIAL COMMUNITY AUTHORISED Figure	2776
@@ -1433,14 +1495,14 @@ National Environment Management Authority NFP Network	6946
 National Forensic Science Authority	1988
 National Health Insurance Authority	1654,2089,89,1,468,27,1671,178
 National Housing Finance Authority	8087
-National Identification Authority	84,1179,381,475,189,30,351,235,23,546,74,185,422,55,210,95,19,124,289,507,19,32,173,50,108,38,106,124,54,125,8,490,16,111,172,66,129,23,35,17,331,435,231,3,2,1470,574,4,41,131
+National Identification Authority	84,1179,381,475,189,30,351,235,23,546,74,185,422,55,210,95,19,124,289,507,19,32,173,50,108,38,106,124,54,125,8,490,16,111,172,66,129,23,35,17,331,435,231,3,2,1470,574,4,41,131,231
 National Identification Authority Act	1263
 National Identification Authority Digital Address	1263,1045
 National Identification Authority and Margins ID Group	6177
 National Identification Authority of Ghana	2829,739,2824
 National Identification Authority. All Rights Reserved	1263,1045
 National Identification Registrations Authority	1781
-National Identification and Registration Authority	315,895,528,73,105,4,359,396,45,37,63,108,98,584,207,138,136,187,110,420,146,356,84,547,494,58,1279,302,515,134,663,310,868,108
+National Identification and Registration Authority	315,895,528,73,105,4,359,396,45,37,63,108,98,584,207,138,136,187,110,420,146,356,84,547,494,58,1279,302,515,134,663,310,868,108,150,68
 National Identification and Registration Authority Act	3615
 National Identification and Registration Authority of Uganda	1015
 National Identification and Registration Authority. Without	9600
@@ -1482,6 +1544,7 @@ National Telecommunications and Communications Authority	6355
 National Transit Authority	10405
 National Transport and Safety Authority	3983,5452,211
 National Youth Authority	4126
+Nationale Autonome	10821
 Nets Automated Teller Machines Integrated Social	10763
 Network Authority	8670
 Network Authority. C1	8670
@@ -1510,10 +1573,13 @@ OG Authorized User Access	3972
 ONGs AUTISMO GE	4209
 OP Operational Technology PABX Private Automatic	6946
 OPERATIONALISE the Data Protection Authority	1839
+OPÉRATIONS AUTORISÉES Article	10836
+OPÉRATIONS AUTORISÉES ET INTERDITES AUX PRESTATAIRES	10836
 ORC. The Authority	9839
 ORDINARY SESSION OF THE ECOWAS AUTHORITY	7452
 OS Operating System PABX Private Automated	34
 Objectives of Authority	3887
+Offre Restreint ARMP Autorité de Régulation des Marchés	10876
 Ola Auto	226
 Once the Authority	762
 Operational Last Operational Authorisa Operational	3386
@@ -1534,6 +1600,7 @@ PREAMBLE The Liberia Telecommunications Authority	10407
 PRESS RELEASE CYBER SECURITY AUTHORITY SANCTIONS	9728
 PRIMARY CONSTITUTIONAL AUTHORITY	3861
 PROGRAMMES AUTRES	10712
+PROJECT DEVELOPMENT OBJECTIVE Public Disclosure Authorized	10870
 PROPOSED CREDIT Public Disclosure Authorized	3604
 PROTECTION AUTHORITY NOT APPOINTED. Fact	4785
 PRÉ-REQUIS POUR UNE AUTONOMISATION	10711
@@ -1578,6 +1645,7 @@ Prescription Authentication and Validation	9855
 Presence of Automated Decision Making	8436
 Primary Constitutional Authority	3861
 Privé I L I S Authentification	3381
+Privé I.P. I.C. I.A.C. I.A. Autre	10847
 Process Autonomy	8283
 Process Autonomy. Stage	8283
 Procurement Regulation Authority	969
@@ -1607,18 +1675,19 @@ Prudential Authority and Financial Sector Conduct Authority	4633
 Public Authorities	3
 Public Authority	3
 Public Disclosure Authorized	4047
+Public Disclosure Authorized Benin Economic Governance	10870
 Public Disclosure Authorized FOR OFFICIAL USE	3604
 Public Disclosure Authorized FROM THE SCALE-UP	3604
 Public Disclosure Authorized Project Information Document	3456
-Public Disclosure Authorized Public Disclosure Authorized	1228,1761,1664,3002,3059,49,16
+Public Disclosure Authorized Public Disclosure Authorized	1228,1761,1664,3002,3059,49,16,50
 Public Disclosure Authorized REPUBLIC OF ZAMBIA	1988
-Public Disclosure Authorized The World Bank	3456
+Public Disclosure Authorized The World Bank	3456,7414
 Public Health Authority	7761
 Public Privé Privé Privé Communautaire Autre	737
 Public Procurement Appeals Authority	8616
 Public Procurement Authority	4126,48,2762,521,2271,111,3,577
 Public Procurement Authority's GHANEPS	10305
-Public Procurement Regulatory Authority	1284,354,3811,184,4871
+Public Procurement Regulatory Authority	1284,354,3811,184,4871,325
 Public Procurement Regulatory Authority Promote	7548
 Public Procurement Regulatory Authority. Adoni Conrad	4181
 Public Procurement Specialized Oversight Authority Inclusive	7548
@@ -1650,6 +1719,7 @@ Regional and International Organisations The Authority	6946
 Registo Automóvel	10751
 Registos Autárquicos	9403
 Registration Authority	2555,2530,5311
+Registration Authority Registration	10822
 Regulation Authority of Mail and Electronic Communications	3764
 Regulatory Authorities	21,3455,2200
 Regulatory Authority	718,254,242,3495,970,132,460,999
@@ -1744,6 +1814,7 @@ Sanitary Authority	7845
 Santé Authentification	3381
 Saudi Data and AI Authority	2958
 Saudi Data and Artificial Intelligence Authority	2958
+Scheme Authority	10819
 Seal of Authority	3887
 Sector Autónimo de Bissau	10114
 Sector Education and Training Authorities	6832,790
@@ -1773,6 +1844,7 @@ Social Health Authori	4153
 Social Health Authority	2512,3,260,618,7,765,677,1389,420,1566,166,551,15,1364,16,2,330,1
 Social Health Authority SHI Social Health	2775
 Social Health Authority and Human Resources for Health	4153
+Société Autres	10875
 Solution Automatisée de Marquage	8719
 Somalia Data Protection Authority	1742
 Somalia Data Protection Authority Enforces Nationwide	6466
@@ -1900,6 +1972,7 @@ Training Authority CHIETA	6832
 Transnet National Ports Authority	8599
 Travel Authorisation	6867,1
 Tripoli General Information Authority	3826
+Trust Scheme Authority	10819
 Trust and Authentication	10775
 Truth Commission. The Reparation Authority	3583
 Tunisia Investment Authority	3768,2407,697
@@ -1926,7 +1999,10 @@ Use Regulatory Authority	1777
 VALUES The Authority	718
 VAR Autorégression	7655
 Variações Auto	2816
+Ventilation Autres	10876
 Volta River Authority	2342
+WAEMU Automated Interbank Clearing System	10853
+WAEMU Automated Transfer and Settlement System	10853
 WRA Water Resources Authority XR Extended	7548
 Water Resources Management Authority. Ministry of Labour	1988
 Wh Kilowatt Hour ASN Autonomous System	3184,1,1340
@@ -1936,6 +2012,7 @@ Whilst the Authority	6000
 XML Enterprise User Authentication EMR European	1009
 Xinjiang Uyghur Autonomous Region	2518
 Y Y Feature Authoritative Public DPI	10719
+Year the National Identiﬁcation Authority	10822
 Yes. Authorized	10617
 Youth Authority	4126
 ZA Domain Name Authority	9700,429

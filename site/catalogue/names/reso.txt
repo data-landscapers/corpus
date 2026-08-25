@@ -94,9 +94,12 @@ Developing Country Facing Resource Depletion	1828
 Development Dispute Resolution TOTAL Scheduled Board	1154
 Diagnostic of Human Resources Management	969
 Diani Sea Resort Data Controller	7167
+Digital Human Resource Management	10870
 Director General of Human Resource Management	4640
 Director for Human Resource Management	4640
 Directorate of Human Resource and Administration	34
+Directorate of Human Resources CHWs	10829
+Directorate of Human Resources Number	10829
 Disconnection Complaint Resolution Time... Order Completion	5168
 Dispute Resolution	3502,1108
 Dispute Resolution A. Any	4610
@@ -152,6 +155,7 @@ HUMAN RESOURCE CAPACITY	5665
 HUMAN RESOURCE INFORMATION SYSTEM STANDARDS	34
 Head of Resources	4690
 Health Products Regulatory HRIS Human Resource	396
+Health Resources Availability Mapping System	10829
 Health Systems Governance and Human Resources	396
 Health Systems Governance and Human Resources Branch	396
 Health. Human Resource Capacity Though	21
@@ -172,8 +176,10 @@ Human Resource Information System	396,3953
 Human Resource Internal Audit Compliance Management	6946
 Human Resource Management	395,6551,1027,1151
 Human Resource Management Information System	127
+Human Resource Management Information System Human	10870
 Human Resource Management Information Systems	10785
 Human Resource Management Office	7182
+Human Resource Management The PSDG	10829
 Human Resource Management and Signature Development	5533
 Human Resource Plan	4217
 Human Resource Policies and Procedures	6946
@@ -182,7 +188,7 @@ Human Resource and Administration	1778,210
 Human Resource and Administration Mrs Christine Mshanga	34
 Human Resource and Administration Nalituba Mwale	10510
 Human Resource for Health Information System	1261
-Human Resources	34,1906,3917,3266,1636,17
+Human Resources	34,1906,3917,3266,1636,17,59,2,1
 Human Resources Cabinet	10775
 Human Resources Committee	1154,400,5650
 Human Resources Committee The Finance	1554
@@ -199,13 +205,13 @@ Human Resources Overview	408
 Human Resources Support	5533
 Human Resources and Administration	34
 Human Resources and Technical Expertise	5677
-Human Resources for Health	21,1198,2998,43,89
+Human Resources for Health	21,1198,2998,43,89,6480
 Human Resources for Health Conference	7321
 Human Resources for Health SAHPRA South African	396
 Human Rights Council Resolution	6949
 Huíla. Resolução	539
 ICT Resources All the MoH Information and Communication	34
-IDA Resources	1264,20,583,1022,673
+IDA Resources	1264,20,583,1022,673,7267
 IPPIS Human Resource Modules	7973
 Illicit Financial Flows and Domestic Resource Mobilisation	9162
 Inadequate Resources for Implementing the Strategy	940
@@ -218,6 +224,7 @@ Institute of Human Resource Management	6946,3097
 Insufficient Resources	4439
 Integrated Government Resource Planning	1348
 Integrated Resources Centre	7751
+Integrated System for Human Resources Management of Civil	10812
 Intellectual Property Intricom Resources S.L	8530
 International Exhibition of Agriculture and Animal Resources	6280
 Internet Number Resource	3503
@@ -233,7 +240,7 @@ Journal of Resources Development and Management	4432
 JoÃão MANUEL GONÇALVES LOURENÇO. Resolução	539
 Jurisprudential Hierarchy and Conflict Resolution	3861
 Jurídicos. Resolução	539
-Justice Project WRI World Resources Institute	10759
+Justice Project WRI World Resources Institute	10759,78
 KRA Enterprise Resource Planning	1835
 Kalomo-Mukwela and Luwingu Youth Resource Centres	9137
 LACGOLD RESOURCES SARLU	2342
@@ -245,6 +252,7 @@ Legal Resource Centre	7343
 Legal Resources Centre	6486,1787,642
 Living Natural Resources ESS	1988
 MANAGEMENT OF ICT RESOURCES	6946
+MEDIATION ET APPUI A LA RESOLUTION	10876
 MILLENIUM RESOURCES CI	2342
 MILLENIUM RESOURCES CI POUR LA COLOMBO	2342
 MUBS Disability Resource and Learning Centre	4028
@@ -254,6 +262,7 @@ Management of Public Resources	9437
 Managing Director of Soft Alliance and Resources Limited	7973
 Mandate Resolution AGM22	5677
 Manna Resort	1154
+Mechanism HeRAMS Health Resources Availability Mapping	10829
 Meetings and Resolutions	9915,77
 Mineral and Petroleum Resources Development Act	6683
 Mines and Mineral Resources	2667
@@ -321,9 +330,11 @@ Orion Resource Partners	4447
 Os Mecanismos de Resolução	10753
 Outbreak Resoonse Funding	4349
 PATIENT DATA HUMAN RESOURCE DATA ADMINISTRATIVE	2709
+PIU. Resource	10829
 POLICY RESPONSE AND OPTIONS IN RESOLUTION	10
 PROGRAMME RESOURCE CONSIDERATIONS	5533
 PUBLICITY AND RESOURCE MOBILISATION COMMITTEE Resource	1154,400
+Pastoral Water and Resource Management Project	10841
 Peduase Valley Resort	6277
 Petroleum and Mineral Resources	9414
 Points WRA Water Resources Authority	2775
@@ -390,18 +401,19 @@ Resonating	10
 Resort Estate	2841
 Resort and Spa	7512
 Resour	1219
-Resource	789,172,9,66,125,58,547,48,1769,862,1088,1401,213,4,61,336,242,393,420,525,378,107,489
+Resource	789,172,9,66,125,58,547,48,1769,862,1088,1401,213,4,61,336,242,393,420,525,378,107,489,768
 Resource Allocation and Sustainable Funding Sustaining	1777
 Resource Committee	718
 Resource Dependence and Fiscal Effort	1828
-Resource Directorate	969
-Resource Efficiency and Pollution Prevention and Management	1264,724
+Resource Directorate	969,9860
+Resource Efficiency and Pollution Prevention and Management	1264,724,8841
 Resource Governance Index	10779
 Resource Guide	2816
 Resource Holder	3503
 Resource Holder Support	3503
 Resource Holders	3503
 Resource Management	6422
+Resource Management Information	10870
 Resource Member	585,8281,746
 Resource Member and Associate Member	585
 Resource Member of AFRINIC	585
@@ -428,12 +440,14 @@ Resource and Registered Members	585
 Resource-rich Greater Equatoria	3583
 Resourced	5533
 Resourcera	6232
-Resources	762,457,45,559,270,581,101,114,496,219,828,2,149,7,63,593,666,307,204,525,626,448,875,226,114,376,575,538
+Resources	762,457,45,559,270,581,101,114,496,219,828,2,149,7,63,593,666,307,204,525,626,448,875,226,114,376,575,538,97,14
 Resources Access	7972
 Resources Authority	7548
 Resources ID IHE Health Information and Management	1009
 Resources Information System	34
+Resources Institute IBP International Budget Partnership	10835,3
 Resources Management Authority	1988
+Resources Management of Civil Servants SIGEC Integrated	10812
 Resources Resources Access	9067
 Resources and Associate	585,8281
 Resources and Responsibilities	1778

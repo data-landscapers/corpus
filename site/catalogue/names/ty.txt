@@ -6,7 +6,7 @@ Algorithm Type Approach	8604
 Angola. Typically	10763
 Application Type Date	1877
 Asset Type	7662
-Association. Type Financing	969
+Association. Type Financing	969,9860
 BAD. Type	1993
 Bank Ownership Type	10718
 Bank Ownership Type.............................20 Figure	10718
@@ -20,11 +20,12 @@ COMPONENTS DEFINED SN Type	7845
 Cabling Types	9123
 Central Africa. Event Type	10244
 Centre Broadcasting Monitoring Centre Type Approval	9109
+Classification Internationale Type	10874
 Closing Type	4972
 Colonne Type Description Exemple	747
 Combining Degree and Type	10726
 Conditions Type Citation Description Financing	1264,603,1737,2935,4229
-Conditions Type Financing	1284
+Conditions Type Financing	1284,9545
 Consulting Service Type	8726
 Contender Typology and Electoral Dynamics	10062
 DES Scope Subsystem Type Categorical	7221
@@ -40,6 +41,7 @@ Director of Tymstar Motors Limited	6946
 Distribution of Types of TV Services	2776
 Document Feeder Type Autoload Cables Included	34
 Document Type	4342
+ESCP. Type Financing	10829
 Equipment Type Approval	10407
 Equipment Type-Approval	10407
 FADES. Type	1993
@@ -66,6 +68,8 @@ Identité du Marque Model Type Bande de Statut	998
 Information Type Commentary Information Data	7731,552
 Information Type Research Article Information Data	8436
 Investor Type	4972
+Item Type	10878
+Item Type Article Elements ID	10878
 Joint Typology	10726
 KSh Million Type of Asset	2775
 Kuni Tyessi	8421
@@ -73,6 +77,7 @@ Licence Type	736
 License Type	10407
 Licensing and Type Approval	6946
 Loyiso Tyira	9935
+MARQUES ET TYPES TOYOTA RAV4	10821
 Massive Machine Type Communications	5675
 Media Type	1009
 Mitigation Measures Responsible Party Type	1988
@@ -97,12 +102,14 @@ Operator Type Compliance	6432
 Output Type LaserJet Enterprise	34
 Ownership Type	10718
 PHASE CHARACTERISTICS TYPICAL STRATEGIES Phase	6432
+PROVIDER TYPE	10861
 PSPs Scope System Type Binary Indicates	7221
 Percentage Contribution Type of Asset	2775
 Polarization Deployment Type Front	736
 Project ESMF Type Responsible Party Development	1988
 REMARKS TYPE OF CYBER BREACH Low	1938
 Radio Tygerberg	8999
+Rappel CMP Bénin Type	10876
 Receive- Type	998
 Region and Type	8891
 Remote Earth Station Details Type of Earth	736
@@ -148,6 +155,11 @@ TATS MEMBRES DE L’UEMOA TYPE	10711
 TBC Frontline Healthcare Worker Type	4167
 TY8X-F4FE	1981
 TYPE AND OBJECTS OF COMPANY	585,8281
+TYPE D'ECOLE ET SEXE III.4.1 Public	10847
+TYPE D'ECOLE ET SEXE III.4.2 Privé	10847
+TYPE D'ECOLE ET SEXE III.4.3 Public	10847
+TYPE D'ECOLE ET SEXE III.4.4 Urbain	10847
+TYPE D'ECOLE ET SEXE III.4.5 Rural	10847
 TYPE OF APPLICATION	2709
 TYPE OF INFORMATION INVOLVED	2709
 TYPE OF SOFTWARE SHOULD	34
@@ -183,6 +195,7 @@ Type Approval	718,6228
 Type Approval and Distribution	8916
 Type Approval and Equipment Clearance	6946
 Type Billion Birr	5655
+Type Financing	10829
 Type II	8376
 Type II Card	34
 Type IV	9123
@@ -219,15 +232,19 @@ Type-2	196,66,102,498,605,698
 Type-Approved-Equipment-List.php	8916
 Type-Approved-Equipment-List.php Buying	8916
 TypeScript	5513
-Types	582,136,529,691,686,4597,569,1616,682
+Types	582,136,529,691,686,4597,569,1616,682,788
+Types Effectif Pourcentage	10875
 Types of AI Machine Learning	4528
 Types of Incidents and Level of Support All	775
 Typical	5238,3885
-Typically	1248,493,1172,451,1918,1597,343,2853
+Typically	1248,493,1172,451,1918,1597,343,2853,744
 Typographic	8604
 Typologie	5740,3151
 Typologie des Ser-	10237
 Tyree	8604
 Tyrell Sykes	2626
+Union Européenne Type	10880
+X. TYPOLOGIE ET ANALYSE DES RISQUES	10876
+X.2. Typologie	10876
 Zimbabwe Health Facility Type Code System	6666
 Zimbabwe Health Facility Type Value Set	6666

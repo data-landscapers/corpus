@@ -22,7 +22,7 @@ Alleged Unfair Practices	9117
 Ama Pratt	10695
 Ama Pratt Africa	10695
 Analysis of Data Dissemination and Use Practices	1261
-Andhra Pradesh	1219,4463
+Andhra Pradesh	1219,4463,5199
 Ann Anthropol Pract	1219
 Approval Date Practice Area	1704
 Association of Media Practitioners Seychelles	2844
@@ -33,13 +33,16 @@ Bairros Periféricos da Cidade da Praia. Desenvolvimento	1265
 Best Environmental Management Practice	3604,2935
 Best Practice	6832
 Best Practices	4528,1172
+Best Practices for Public Health Policy Research	10881
 Borrowing Practices	1828
+Breeding Practices Among Nigerian Refugees Within	10841
 CC Practice Area	1284
 CEO Pravin Swami	6402
 COMMISSION’S PRACTICES	5245
 Cartórios Notariais da Cidade da Praia. Os	9271
 Certified Digital Finance Practitioner	128
 Chairman Independent Corrupt Practices	1014
+Charter of Good Practice	10841
 Cheick Fantamady Kante Practice Managers	2889
 Christine Qiang Practice Manager	1284
 Christine Zhenwei Qiang Acting Practice Manager	1264
@@ -64,6 +67,7 @@ Contributing Practice Areas Agriculture and Food	1867
 Contributing Practice Areas Digital Development Finance	1264
 Contributing Practice Areas Digital Development Governance	3604
 Contributing Practice Areas Governance Digital Development	969
+Contributing Practice Areas Health	10829
 Contributing Practice Areas Social Protection	10768
 Conveyancing Practitioner	7278
 Court and Practitioner	3714
@@ -80,6 +84,7 @@ DR. JITENDRA PRABHUDAS NATHWANI Data Controller	7167
 Data Center Design and Implementation Best Practices	9123
 Data Practices The Data Commissioner Immaculate	2668
 Demetrios Papathanasiou Regional Practice Director	2889
+Dena Ringold Practice Manager	10829
 Des Pratiques Anticoncurrentielles	37
 Des Pratiques Anticoncurrentielles Article	37
 Development PRAMS Procurement Risk Assessment and Management	1264
@@ -101,6 +106,7 @@ Draft Code of Practice for Lifts Inside Wind	1009
 EDDIE'S DENTAL PRACTICE LIMITED Data Controller	7167
 EFu Twifo Praso	3386
 EU's AI Code of Practice	8348
+EU’s DPA and Fair Information Practices	10819
 Effective Practice and Organisation of Care	8376
 Egito Praia	10298
 Egito Praia Durante	10298
@@ -142,22 +148,23 @@ Good Pharmacy Practices	10776
 Good Practices for Subsea Cables Policy	2677
 Good Regulatory Practices and Confidence Criteria	10776
 Good Storage and Distribution Practices	4301
-Governance Global Practice	5620,1134
+Governance Global Practice	5620,1134,4116
 Governance Global Practice Western and Central Africa	969
 Governance Global Practice. Additional	4214
 Gradual Practitioners	3859
 Guidance and Practice	3583
 Guide Defines Best Practices for Electronic	3907
+Harmful Practices	10829
 Hospital da Praia	1265
 Housing Policy and Practice	6946
-Human Rights Practices	9399
+Human Rights Practices	9399,1442
 ICT Practitioners Bill	7609
 ICT4D Research and Practice	10726
 ID4D Practitioner’s Guide	10714,51,10
 ID4D Practitioner’s Guide. Box	10765
 ID4D Practitioner’s Guide. Category Benefits Administrative	10775
 ID4D Practitioner’s Guide.8 Table	10765
-INSTITUTIONAL DATA Practice Area	969,315
+INSTITUTIONAL DATA Practice Area	969,315,9545
 INTERNATIONAL BEST PRACTICE INTEGRATION	3861
 IVANILDA PATRICIA NUNES SEMEDO PRATA CACUALI	10750
 Ida S Mboob Approved By Practice	3456
@@ -172,8 +179,10 @@ International Best Practices	6432,504
 International Industry Practice	1988
 Internet Code of Practice	3945,638
 Issues and Practice	9237
+Ivoire Africa Western Africa Praha High	10840
 J Public Heal Manag Pract	8376
 JCO Oncol Pract	8376
+Jaideep Prabhu	10852
 James Stewart and Praise Olutuase	6277
 Jana Kunicova Practice Manager	3604
 Jitin Prasada	8210
@@ -194,6 +203,7 @@ L’INSTAURATION CONTINUE DES MEILLEURES PRATIQUES	2342
 Machine Learning for Sustainable Mining Practices	1554
 Madhya Pradesh	5224
 Madzima Chidyausiku Museta Legal Practitioners	3352,2381
+Malawi. Glob Health Sci Pract	10881
 Management Practices	3604
 Manish Pravinkumar	8727,1762
 Manual of Best Practice. UNCTAD	1243
@@ -220,9 +230,12 @@ Open Science Practice	5246
 Open Science Practice Using	5246
 Operation ID P166564 Practice Area	10779
 Ousmane Diagana Regional Practice Director	3604
+Overview of Current Practices	10822
+Overview of Current Practices. Benin	10822
 PRA-SIVAC. PERFORMANCES FINANCIÈRES EN	2342
 PRACTICE AREA	1264,603,1695,42,7164
 PRACTICE Data Controller INST-379836BB0F8 NAIROBI Kenya	7167
+PRACTICE OR POLICY REC-Maternity	10881
 PRACTICES BY MOGO AUTO LIMITED Hon	10313
 PRACTITIONER’S FUNCTIONS AND TERMS OF APPOINTMENT	3714
 PRAIA	2807
@@ -242,6 +255,7 @@ Phone and MoMo Sharing Practices	4439
 Policies and Practices	6948
 Policy and Practice	215
 Polish. Journal of Pragmatics	8460
+Population Global Practice Western and Central Africa	10829
 Pour Pratic	9714
 Poverty Global Practice	4214
 Prabashni Naidoo	8142
@@ -249,7 +263,7 @@ Prabhakaran	1004
 Prabhavathi	7278
 Prabhu Rajagopal	7034
 Pracas Digitais	1526
-Pract	3791
+Pract	3791,7090
 Pract&title	771,448
 Practicable Date	4896
 Practical	2093,2339,193,236,90,600,341,111,199,734,11,1,330,506,290,1,15,23,170,316,265,1324
@@ -267,7 +281,7 @@ Practical and Enabling Cooperation H.E. Dr Thani	5086
 Practical. Grounded	7790
 Practicality	6948
 Practically	961,3016,3782,1370
-Practice	718,181,1089,108,852,830,750,713,459,270,497,766,315,1165
+Practice	718,181,1089,108,852,830,750,713,459,270,497,766,315,1165,2128
 Practice Area	1264,603,1695,42,7164,11
 Practice Directions	8978
 Practice Directions. Under	8978
@@ -276,7 +290,8 @@ Practice Director	5400
 Practice Eastern And Southern Africa Regional	2473
 Practice Guide	1243
 Practice Lags Africa	4424
-Practice Manager	1228,3425,6110,2,10
+Practice Manager	1228,3425,6110,2,10,66
+Practice Manager Maria Isabel A. S	10832
 Practice Manager for Digital for East and Southern Africa	2989
 Practice Manager for Social Sustainability	1778,210
 Practice The National Artificial Intelligence	8609
@@ -296,6 +311,7 @@ Practise360	3400
 Practising School	6211
 Practitioner	1009,2705,6386
 Practitioners	4301,4117,1653,17
+Practitioners Guide. Retrieved	10819
 Practitioner’s Guide	10775
 Practitioner’s Guide Page	3604
 Practitioner’s Guide. Retrieved	1243
@@ -333,7 +349,7 @@ Prasser	8606
 Prata N	10780
 Pratic	6033,422,3259
 Praticados	10747
-Pratique	737,5498
+Pratique	737,5498,4606
 Pravda	4399
 Pravda Burkina	3469
 Pravda RCA	2971
@@ -390,6 +406,7 @@ UK's Code of Practice for Statistics	8283
 Uganda Medical and Dental Practitioners Council	9784
 United States' Foreign Corrupt Practices Act	3583
 Uttar Pradesh	3791
+Verde Africa Western Africa Praia High	10840
 Verification System ILPD Institute of Legal Practice	718
 Vice President Neeraj Pradhan	10654
 WBG's Digital Development Global Practice	4214

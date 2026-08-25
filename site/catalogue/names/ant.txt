@@ -13,9 +13,12 @@ ANTARA HEALTH LIMITED Data Processor INST-198582479BC	7167
 ANTARC LIMITED Data Processor INST-20455608284 NAIROBI	7167
 ANTHONY	6613
 ANTHONY WANJOHI NDAMBIRI Data Processor INST-1152252C025	7167
-ANTI-CORRUPTION	10759
-ANTI-CORRUPTION Anti-Corruption Mechanisms	10759
-ANTI-CORRUPTION Rank	10759
+ANTI-CORRUPTION	10759,76,2,1
+ANTI-CORRUPTION Anti-Corruption Mechanisms	10759,78
+ANTI-CORRUPTION HEALTH	10838
+ANTI-CORRUPTION HEALTH Rank	10838
+ANTI-CORRUPTION Rank	10759,78
+ANTI-CORRUPTION Shipping	10835,3
 ANTI-MONEY LAUNDERING AND COMBATING TERRORISM FINANCING	4633
 ANTIC	1592,1103,963,327,225,9,304,170,10,61,1511,145,318,598,2280,754
 ANTIC Director General Prof. Ebot Ebot	4693,2045
@@ -67,6 +70,8 @@ Antarctica	4426
 Antecedentes Evolução Recente	10783
 Antecedents	10,1238
 Antena	5557,5220
+Antenal Care	10829
+Antenatal	10881
 Antenatal Care	2775
 Anteneh	3791,4096
 Anteneh HA	3791
@@ -142,16 +147,19 @@ Anti- Increased	970
 Anti- Money Laundering and Counter Terrorist Financing	3583
 Anti-Apartheid	2626
 Anti-Bias National Datasets	4528
-Anti-Corruption	1638,9121
+Anti-Corruption	1638,9121,76,2,1
 Anti-Corruption Act	3583,131,3492,1307
 Anti-Corruption Commission	121,3462,4667,263,1668,329
 Anti-Corruption Commission Zimbabwe Agricultural	1154
 Anti-Corruption Commission of Namibia	3445
 Anti-Corruption Commission. Separately	3583
 Anti-Corruption Fight	5910,491
+Anti-Corruption Guidelines	10829
 Anti-Corruption Index CMF	5951
 Anti-Corruption Index Foreign Trade	5101,850
-Anti-Corruption Mechanisms	10759
+Anti-Corruption Mechanisms	10759,76,2,1
+Anti-Corruption Mechanisms Absence of Corruption	10837
+Anti-Corruption Rights Every IIAG	10835,3
 Anti-Corruption and Economic Crimes Act	8180
 Anti-Counterfeit Act	10041
 Anti-Counterfeit Authority	10041,272
@@ -186,6 +194,7 @@ Anti-foreigner	5533
 Anti-immigrant	6997
 Anti-money	4127,1003
 Anti-smuggling	8681
+Antibiotic	10829
 Antibioticos Avaliação	966
 Antibiotics	7759
 Anticipat Risk Impact Mitigation Impact	1988
@@ -215,6 +224,7 @@ Antigénio de Superfície da Hepatite B Haemophilus Influenzae	10777
 Antigénios	10760
 Antigüedad de Empleados Centro Nacional de Derechos Humanos	4209
 Antigüedad de Empleados de ENPIGE	4209
+Antimalarial	10829
 Antimicrobial	4301
 Antimicrobial Resistance ART	10776
 Antiretroviral	4301
@@ -330,6 +340,8 @@ Dr. Albano Carige António	1808
 Dr. Albert Antwi-Boasiako	7114
 Dr. António Agostinho Neto International Airport	4275
 E.g. Anti-Corruption Commission	970
+EDUCATION ANTI-CORRUPTION	10835
+EGDI M-OSI H-HcI VH-TII Europe Antigua	10840
 ET ANTERIEURS AU	3396
 ET ANTÉRIEURS	3396
 East African Community EACC Ethics and Anti-Corruption	2775
@@ -339,6 +351,7 @@ Eng. Antony Lenaiyara	10662
 Ethics and Anti- Total Corruption Commission	6946
 Ethics and Anti-Corruption Commission	2775
 Europe. Anthropic	9608
+Ex Ante Cost-Benefit Analysis	10829
 FISCAL ADJUNTO DE ANTIDROGAS	4209
 FISCAL TITULAR DE ANTIDROGAS	4209
 FISCALIA ANTIDROGAS	4209
@@ -378,6 +391,7 @@ International Anti-Corruption Research Conference	9397
 James Antwi	771
 Jose Carlos Almeida and Antonio	9399
 José António Lopes Semedo	539
+Justice and Anti-Corruption. Trend Measure Score	10838
 KECOBO. The Anti-Counterfeit Act	10041
 Kakamega Forest and Roan Antelope	3898
 Kenya Copyright Board and Anti-Counterfeit Authority	10041
@@ -402,6 +416,7 @@ Main Route Antenna Details Make Model	736
 Maio ADÃO ANTONIO FRANCISCO	10751
 Make Model Antenna Power	736
 Mangaral Koudjal Antoinette	10364,17
+Mc Antigua and Barbuda Americas	10840
 Mestre Valinho António	2816
 Middle Powers Digital Antitrust Efforts	5044
 Mind AG Anthropic	8530
@@ -422,6 +437,7 @@ OpenAI and Anthropic	8014,496,86,95,336,142,899
 OpenAI and Anthropic. CafeOne	7396
 OpenAI and Anthropic. Ernest Mwebaze	9263
 Orçamento da União Europeia António Freitas de Sousa	4938
+PARTICIPATION RIGHTS ANTI-CORRUPTION SUSTAINABLE Rank	10835
 Pea Yoka Antoine	3552
 People On Antiretroviral Treatment	4153,49,15,132,1003
 Peter Agoro and Antony Manyara	9645
@@ -429,6 +445,7 @@ Port of Antwerp	10592
 President Felix Antoine Tshisekedi Tshilombo	5900
 President of Anthropic	1636
 Private Sector Public Perception of Anti-Corruption	10759
+Private Sector Public Perception of Anti-Corruption Rule	10837
 Proceeds of Crime and Anti-Money Laundering Act	8180
 Prof. Antwi Baafi	9534
 Prof. Joseph Antwi Baafi	9534
@@ -436,7 +453,7 @@ Professor Sir Anthony Finkelstein	1246
 Prossy Mukisa and Anthony Odur	3005
 Prove Rani Group and Others Anti-Competitive Practices	10465
 Public Perception of Accountability Anti-Corruption	10759
-Public Perception of Anti-Corruption	10759
+Public Perception of Anti-Corruption	10759,76,2,1
 Public Perception of Anti-Corruption PARTICIPATION	10759
 Questionário de Remedição de Dados Antropométricos	10777
 RAS PETROLEUM Envoy X1 Antenne	998
@@ -444,6 +461,7 @@ REPRESENTACION ANTE LA FAO	4209
 REPRESENTACION ANTE LA OACI	4209
 REPRESENTACION ANTE LA UNESCO	4209
 ROUTE Altitude Antenna	736
+Records Public Perception of Accountability Anti-Corruption	10837
 Reprodutiva Antes	10777
 Rule of Law and Anti-Corruption	8194
 Rwanda and Anthropic	5418,3397
@@ -463,6 +481,7 @@ Secretário-Geral António Guterres	2816
 Security Anti-DDOS	6432
 Selon Antoine Ngom	10795
 Sié Antoine-Marie Tioyé	1715
+Socioeconomic Opportunity for Women Anti-Corruption	10835,3
 Sofia Alexandra Da Silva Antunes	2989
 Son Excellence Félix Antoine Tshisekedi Tshilombo	6460
 South Sudan's Anti-Corruption Commission	3583
@@ -471,11 +490,13 @@ Standard Bank Anti-Financial Crime Conference	3439
 Station Name Latitude Longitude Altitude Antenna	736
 Strengthen Anti-Corruption Strategies	9397
 Système de Management Anti-Cor-	2342
+TRANSPARENCY ANTI-CORRUPTION RIGHTS INCLUSION	10837
 Tech Anti-Monopoly and Accountability Agenda for Canada	5044
 Tech Industry Anthropic	9629
 Threads Whatsapp Anthropic	9608
 Tourism and Antiquities	9414
 TradeMark Africa and Port of Antwerp-Bruges International	10592
+Transparency Anti-Corruption Participation	10837
 Transparency Anti-Corruption Participation Rights Inclusion	10759
 Tratamento Antirretroviral	10777
 Treatment Antiretroviral Biosafety Cabinet Biosafety Level	4153
@@ -497,6 +518,8 @@ Wingu Group CEO Anthony Voscarides. Wingu	2988
 Women Anti-Corruption Mechanisms Absence of Corruption	10759
 World Bank PATNUC. ANTIC	4703
 World Bank’s Anti-Corruption Guidelines	1867,1737
+World Bank’s Anticorruption Guidelines	10829
+World Bank’s Anticorruption Guidelines.56	10829
 Xavier António Alafo Technical Director Cybersecurity	2989
 Zaire Ant	9399
 Zimbabwe Anti-Corruption Commission	970,184,400,6865,220,336,422

@@ -58,7 +58,7 @@ AUXILIARY CREDIT LIMITED Data Processor INST-97628431A29	7167
 AXIO CREDITERS LIMITED Data Controller INST-283746C362B	7167
 Abrangência da IA Crítica	3519
 Abrogation CRISTAL Décision	998
-Absence of Crime	10759
+Absence of Crime	10759,76,2,1
 Academic Center' Crosswalk	178
 Accelerated Improvement of CRVS	171
 Acceptance Criteria	5665
@@ -101,6 +101,7 @@ Airtel’s Extra Credit	10807
 Airtime Credit Services	8587,76
 Albania Austria Croatia Czech Republic Georgia	10764
 All Cross Cutting	6423
+Alliance Membership Criteria and Review Process User-centric	10819
 Alta Incidência Criminal	549
 AmLight-SACS and Cross-Regional Partnerships Victor GUAMBE	3840
 Amada Aida. Créé	7202
@@ -170,10 +171,12 @@ BRR Barbuda Civil and Criminal Identification	10714
 BUNEC CRVS	1399
 BURKINA ChatGPT Cloud Creation Cryptocurrency Culture	9993
 Bachelor of Creative Technologies	6832
+Bangladesh LOCAL IMPLEMENTATION PARTNER Photo Credits	10852
 Bani Walid's Crisis Committee	5775
 Banking Association of South Africa and Credit Bureau	5487
 Basic RFC3798. Cross-Enterprise	1009
 Bayport Financial Services Tanzania Chief Credit	8884
+Benin LOCAL IMPLEMENTATION PARTNER Photo Credits	10852
 Better Facilitate Cross-Border Data Transfer	1243
 Billion and Create	6815
 Biological and Toxin Weapons Crimes Bill	8681
@@ -200,6 +203,7 @@ CAPITAL SAVINGS AND CREDIT CO-OPERATIVE SOCIETY	7167
 CAPS AND CROWN DENTAL STUDIO LIMITED	7167
 CAR’s Special Criminal Court. Minster of State	4127
 CBZ Bank Crowned Zimbabwe’s Best	3003
+CCA Crédit Communautaire	10841
 CCTV Crosswalk	619
 CEFACT Cross-Industry Invoice	8670
 CEO of CRAN	1975
@@ -222,15 +226,21 @@ COMPROMISE WITH CREDITORS	3714
 COMPROMISE WITH CREDITORS Compromise	3714
 CONDIÇÕES DE VIDA DAS CRIANÇAS	10777
 CONSOLIDER LA CROISSANCE	7655
+CR Adm	10812
 CR Civil Registry CSU Cadastro Social	10765,10
+CR Tech	10812
 CR and ID	969,9796,10
 CR and ID Expand CR	10765
 CR and ID Process and Procedures Rationalize CR	10765
 CR and ID Working Group	10775
 CR and ID. MT	10775
+CR&CI	10812
+CR&VS	10812
 CR&author	5242
+CR's Livelihood Empowerment Against Poverty	10841
 CR-related	10765,10
 CR. Only Angolan	10775
+CR5 UNECA	10819
 CRA Gazettes Standards and Guidelines for County Own-source	9939
 CRA URL	9939
 CRAFIC AUTO ASSESSORS	7167
@@ -283,6 +293,7 @@ CREATE AN ENABLING ENVIRONMENT FOR DIGITAL	899
 CREATING	961
 CREATING LEGITIMATE AND TRUSTWORTHY DATA SYSTEMS	961
 CREATING PUBLIC VALUE Defining	961
+CREATION ET COMPOSITION Article	10825
 CREATIVE DIGITAL LAB LIMITED Data Processor	7167
 CREATIVE EDGE LIMITED Data Controller INST-3043836A9A6	7167
 CREATIVE EDGE LIMITED Data Processor INST-3043836A9A6	7167
@@ -331,6 +342,7 @@ CRF Tunisia	3907
 CRF- NCS	10721
 CRF-NCS	5132,176,369,3440,237
 CRFs. Transactions	8604
+CRHAM	10826
 CRI Comments	6928
 CRI Date Actual	6928
 CRI Disaggregated	10768
@@ -338,7 +350,8 @@ CRI Jul	3604
 CRI Jun	3604,2975,349
 CRI New People	4653
 CRI Number	10768
-CRI People	2712,1976,1891,349
+CRI People	2712,1976,1891,349,3942
+CRI Recipients	10870
 CRI Result Month	4653
 CRI Revise People	4653
 CRIADO	4209
@@ -582,7 +595,7 @@ Cracking	1988
 Cracks	6211
 Craft	8546
 Crafted	5419
-Crafting	9129
+Crafting	9129,1723
 Craglia	5700
 Craglia and Shanley	5700
 Craig Hammer	4214
@@ -617,7 +630,7 @@ Creación de Consejos Regionales	1701
 Creación de Organismos Reguladores	1701
 Crear	163,1538
 Crear Unidades de Negocio	1701
-Create	110,285,1,22,481,41,18,3,39,9,152,43,39,534,37,71,103,471,18,191,471,461,168,93,13,252,76,12,314,320,378,18,433,75,671,409,104,12,1,380,14,205,48,588,416,6,1286,1,635,193,44,10
+Create	110,285,1,22,481,41,18,3,39,9,152,43,39,534,37,71,103,471,18,191,471,461,168,93,13,252,76,12,314,320,378,18,433,75,671,409,104,12,1,380,14,205,48,588,416,6,1286,1,635,193,44,10,44,4,6
 Create AI Act	2816
 Create Date	9854
 Create Meaningful Opportunities for Youth	7719
@@ -628,14 +641,14 @@ Create Registries	6423
 Create XML	8606
 Create-Thon	9641
 Create-thon	9641
-Created	395,941,244,2,497,2368
+Created	395,941,244,2,497,2368,6423
 Creates	3495
-Creating	54,364,522,21,9,191,43,53,106,451,282,596,134,277,771,252,838,44,236,119,170,912,458,45,926,237,316,178,1297,483
+Creating	54,364,522,21,9,191,43,53,106,451,282,596,134,277,771,252,838,44,236,119,170,912,458,45,926,237,316,178,1297,483,438,18
 Creating Conducive Digital Economy Environment	1795,1413,3881
 Creating Digital Skills	1953
 Creating Financial Happiness	8001
 Creating GhanaChat	4126
-Creating Markets	10768
+Creating Markets	10768,73
 Creating Opportunities Across Ghana's Digital Ecosystem	10585
 Creating Opportunities Across Ghana’s Digital Ecosystem	8988
 Creating Pathways	9873
@@ -647,7 +660,7 @@ Creating Some Order	5700
 Creating the Ghana Global AI Summit	4126
 Creating the National Picture	4528
 CreatingOneAfricanMarket	9034
-Creation	7,21,367,371,133,41,191,857,489,960,277,1635,328,181,1521,47,122,2445,105,664,6,7,1
+Creation	7,21,367,371,133,41,191,857,489,960,277,1635,328,181,1521,47,122,2445,105,664,6,7,1,65,15
 Creation Latest	10151
 Creation With New Financial Product Business	10151
 Creation of Additional Polling Units The Commission	10049
@@ -656,14 +669,16 @@ Creation of Sectoral Focal Points	1000
 CreationDate	1364,74,265,160,33,3272,430,146,1695
 Creativa Innovation Hub	3429,6400
 Creativa Innovation Hubs	1902
-Creative	507,2011,6611,108
+Creative	507,2011,6611,108,1609
 Creative Africa Nexus	8149,1492
 Creative Book Publisher	8022
-Creative Commons	432,948,2481,2193,1677,552,153,692,304,307,991,34,20
-Creative Commons Attribution	1212,6519,28,262,1,108,153,153,1303,975,51,10
+Creative Commons	432,948,2481,2193,1677,552,153,692,304,307,991,34,20,60,34
+Creative Commons Attribution	1212,6519,28,262,1,108,153,153,1303,975,51,10,37,2
 Creative Commons Attribution CC	9025,1689
 Creative Commons Attribution License	8376
 Creative Commons Attribution NonCommercial ShareAlike	2709
+Creative Commons Attribution-Non- Commercial-Share Alike	10844
+Creative Commons Attribution-Non-Commercial	10841
 Creative Commons Attribution-NonCommercial-NoDerivatives	5656,5128
 Creative Commons Attribution-NonCommercial-Share Alike	10764
 Creative Commons Attrlbution-ShareAlike Ucense	1009
@@ -689,7 +704,7 @@ Creda Communications ISBN	5872
 Crede	9123
 Credence ID	5900
 Credenciais de Segurança Personalizadas	10755
-Credential	10714
+Credential	10714,105
 Credential14 ID	10714
 Credentialing	3861
 Credentials	4091,3131,1682,1861,10
@@ -698,9 +713,9 @@ CredibilityCredibility	7278
 Credible	8987
 Credible Elections	5390
 Credisure	3922
-Credit	940,238,106,544,125,520,239,63,688,389,176,231,129,209,91,160,74,32,293,35,200,732,221,141,3,349,12,412,171,322,16,16,44,362,1499,120,368
+Credit	940,238,106,544,125,520,239,63,688,389,176,231,129,209,91,160,74,32,293,35,200,732,221,141,3,349,12,412,171,322,16,16,44,362,1499,120,368,575,25
 Credit Allocated	4653
-Credit Amount Grant Amount Guarantee	969
+Credit Amount Grant Amount Guarantee	969,9860
 Credit Amount Grant Amount SML	3604
 Credit Bank Plc Data Controller INST-5006303240E	7167
 Credit Bank Plc Data Processor INST-5006303240E	7167
@@ -856,10 +871,11 @@ Criou	2816
 Criptografia HTTPS	794
 Crisantos Obama Ondo	2432
 Criscuolo	2816
-Crise	6959,1838
-Crisis	1000,1093,2337,2517,2803
+Crise	6959,1838,2078
+Crisis	1000,1093,2337,2517,2803,1091
 Crisis Cognition	7151
 Crisis Communications Plan	6946
+Crisis Conflict	10819
 Crisis Coordination Unit	6947
 Crisis Group	4127
 Crisis Group Africa Briefing No	4127
@@ -881,7 +897,7 @@ Cristina Paula Baptista	4938
 Cristina Swartz	8960
 Cristine Hoepers	10764
 Cristóbal Ambrosio Nze Nfumu	6841
-Criteria	3503,358,6296,608,10
+Criteria	3503,358,6296,608,10,44
 Criteria Assurance	10775
 Criteria PPRA	7548
 Criteria for Fuzé	6155
@@ -944,7 +960,7 @@ Critiquez	4960,62,2035
 Critère	748,439,5767,3754
 Critère Avant ATS Après ATS Délai	6146
 Critère Données	1187
-Critères	1247,3320,1416
+Critères	1247,3320,1416,4892
 CrlnoaundcGeoCvoemrnmanitcteeeCommittee PART IV	10157
 Croacia MUSIĆ OREŠKOVIĆ	6613
 Croatia	5734,879,1197,536,2368,71
@@ -968,13 +984,15 @@ Cronyism	6562
 Crooked	6196
 Crops	1988,787
 Crosby Mkhwanazi	4041,12
-Cross	1243,3818,4067,331
+Cross	1243,3818,4067,331,1360,10
 Cross Border Data Flows	1243
 Cross Border Data Flows Mechanism	961
 Cross Border Data Flows and Trade Facilitation	10157
 Cross Border Frequency Coordination	6946
 Cross Border Initiative	9082
+Cross Border Mobile TSP	10819
 Cross Border Processing	10157
+Cross Border Sale of Handicraft Rwanda	10819
 Cross Border Taxation Technical Committee	573
 Cross Borders	9903
 Cross Connection	7329
@@ -990,7 +1008,7 @@ Cross River State	3688
 Cross River State Government	8520
 Cross River State Planning Commission	8520
 Cross River State Resilience Agenda	8520
-Cross-	10721
+Cross-	10721,140
 Cross- Country Evidence	1828
 Cross- Sectoral Plans Regarding	3487
 Cross- XDS XML V1	1009
@@ -1051,7 +1069,7 @@ Cross-Section of Officials	7142
 Cross-Sector Collaboration for Research and Advocacy	6936
 Cross-Sectoral Coordination Forums	4528
 Cross-Svstem I. The Government of Mozambique	4260
-Cross-border	718,243,200,82,21,69,141,817,486,29,324,340,148,11,232,507,187,293,134,131,117,14,176,20,139,98,236,500,19,288,74,48,96,101,117,309,71,52,377,43,139,3,646,44,491,285,102,305,52,82,31,136
+Cross-border	718,243,200,82,21,69,141,817,486,29,324,340,148,11,232,507,187,293,134,131,117,14,176,20,139,98,236,500,19,288,74,48,96,101,117,309,71,52,377,43,139,3,646,44,491,285,102,305,52,82,31,136,495
 Cross-border Based	961
 Cross-border Data Flows	3618
 Cross-border Data Transfers	5487
@@ -1062,7 +1080,7 @@ Cross-case	7451
 Cross-check	5158,828
 Cross-checked	4105
 Cross-countries	771
-Cross-country	5265
+Cross-country	5265,5591
 Cross-cultural Study of Sharing Digital Devices	4439
 Cross-cutting	1752,3155,2231
 Cross-cutting Recommendations	5676
@@ -1084,6 +1102,7 @@ Cross-referencing for HL7v3	1009
 Cross-regional	3840
 Cross-registry	6423
 Cross-regulatory	7966
+Cross-sectional	10865
 Cross-sector	6387,1161
 Cross-sector ENTD.GW	7707
 Cross-sectoral	7221
@@ -1137,6 +1156,7 @@ Crossref Web of Science Google Scholar Sundar	8460
 Crossref Web of Science Google Scholar Tang	8460
 Crossref and OpenAlex	8242
 Crossroads	6947,266,3505
+Crossroads The Global Cybersecurity Index	10848
 Crosswalk	43,1,1,1,1,1,1,1,1,1,1,1,1,1,5,1,1,1,3,1,1,3,3,4,1,1,1,1,1,1,1,1,3,2,1,1,1,1,1,1,1,1,1,1,2,1,2,2,3,5,1,1,1,1,2,5,1,1,1,1,2,1,1,2,1,4,1,1,1,1,2,1,1,1,1,1,1,1,1,3,2,4,8,1,1,1,2,2,2,1,1,1,3,5,1,1,1,2,1,1,4,3,1,1,2,1,1,1,1,1,1,1,2,1,1,1,3,3,7,7,1,1,1,1,1,1,1,2,2,1,4,2,2,2,1,2,1,1,2,2,1,1,1,1,3,1,1,1,1,1,3,1,1,1,1,1,1,2,1,8,3,2,2,7,10,1,1,1,2,2,1,6,1,2,1,2,1,1,1,1,1,1,2,3,1,1,4,1,1,1,1,4,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,1,1,1,1,2,1,1,1,1,2,3,4,9,1,21,1,2,1,1,1,3,1,1,3,1,1,2,1,1,2,1,2,1,1,1,1,2,1,1,1,1,1,1,1,5,2,3,4,1,1,1,1,1,1,1,1,2,1,1,2,2,2,2,3,1,1,1,2,2,2,2,1,1,1,7,9,14,11,6,11,1,1,1,1,1,1,1,1,1,1,2,1,2,1,1,1,2,3,3,1,2,1,1,1,2,2,1,1,1,1,2,1,1,1,1,1,1,3,1,2,1,1,1,1,1,2,1,1,1,1,1,2,5,1,3,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,2,1,1,1,1,1,1,1,2,1,1,1,1,1,17,4,2,1,6,1,8,1,11,3,3,11,1,1,1,1,1,1,1,1,6,1,2,3,2,1,1,1,1,1,1,1,1,1,1,1,1,3,1,1,1,2,1,1,1,1,2,1,2,3,1,1,1,1,1,1,1,2,1,1,1,1,1,1,2,2,3,1,1,1,1,1,1,2,1,3,1,1,1,1,1,1,1,1,1,2,1,1,1,1,2,1,2,2,2,1,1,1,1,1,1,1,1,1,1,4,1,1,2,2,1,1,2,1,1,5,1,2,1,1,1,1,2,1,1,1,1,2,12,3,5,2,6,5,1,3,1,6,20,1,19,1,1,1,4,1,1,1,1,1,1,1,1,2,1,2,1,4,1,1,1,1,1,6,2,2,1,1,3,1,1,2,1,1,1,1,2,2,3,1,1,2,1,1,1,1,3,1,1,1,1,1,1,1,1,2,1,1,1,2,1,2,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,3,1,1,1,1,2,2,1,2,1,1,1,1,2,1,16,7,4,15,61,3,10,113,1,1,1,1,1,1,1,1,1,4,1,1,1,1,1,2,1,1,1,1,1,1,5,2,1,2,1,2,1,1,1,1,1,1,3,1,1,1,1,4,5,2,1,1,1,1,1,2,2,1,1,3,1,1,3,5,5,1,1,3,1,1,1,2,1,1,1,1,1,1,6,1,1,1,1,2,1,3,1,1,1,1,1,1,1,3,1,1,1,1,1,1,4,1,1,1,1,1,1,3,1,3,2,1,3,1,1,1,9,6,186,1,128,148,79,1,1,1,10,1,2,1,7,1,4,4,1,2,1,1,1,2,2,2,2,1,1,1,1,1,1,1,2,1,1,1,2,2,2,2,2,2,4,1,2,1,1,1,2,5,1,1,2,1,1,2,1,1,1,1,6,1,1,2,5,2,2,2,2,2202,2,7,1,12,27,4,11,1,5,841,1303
 Crossword Puzzle	10001
 Crouching Tiger	5700
@@ -1161,7 +1181,7 @@ CrowneDPMarloweD	8376
 Crowned Eagle Safaris Limited Data Controller	7167
 Crowned Zimbabwe’s Best	5403
 Crucial	571,5610,4308
-Crucially	3002,4,1121,297,6,17,136,389,275,103,13,502,331,789,202,180,1231,13,13,5,208,622,211,245,755
+Crucially	3002,4,1121,297,6,17,136,389,275,103,13,502,331,789,202,180,1231,13,13,5,208,622,211,245,755,149,22
 Crucible	3760
 Crude	10780
 Crude Accreditation Permit	3583
@@ -1208,15 +1228,17 @@ Crystal Palace Bowl	9876
 Crystal Pay	7540
 Crystal Technologies Limited Data Processor INST-688226E930F	7167
 Crystallisation of Digital Asset and Crypto Frame- MAS	4848
-Création	1005,891,157,512,60,4,103,234,433,367,55,45,701,166,580,142,234,14,2,102,70,47,210,371,62,194,83,263,16,2,157,373,870,366,515,1287
+Création	1005,891,157,512,60,4,103,234,433,367,55,45,701,166,580,142,234,14,2,102,70,47,210,371,62,194,83,263,16,2,157,373,870,366,515,1287,128,2
 Création L’Autorité de Régulation des Télécommunications	7917
 Création de Startup	4567
 Création de Tableau	747
 Création du Collège des Startups	4567
 Création du Crowdfunding	4567
 Créations	8891
-Crédit	735,509,56,702,1,1,1,1,1,1,1,1,1,1,1,1111,1947,669,1202,1855,1440
-Crédit Mobilier	5478,1868
+Crédibilité	10874
+Crédit	735,509,56,702,1,1,1,1,1,1,1,1,1,1,1,1111,1947,669,1202,1855,1440,584
+Crédit Communautaire	10841
+Crédit Mobilier	5478,1868,3490,26,17
 Crédit Mutuel du Sénégal	7106
 Crédit N	7977
 Crédit Rural de Guinée	9325
@@ -1235,7 +1257,7 @@ Crédits Votés	1285,1
 Crédits des MESPTA	2966
 Crédoc	8355
 Créent-elles	10190
-Créer	12,735,1,1053,95,2111,767,119,2066,1932,34,481,75,60,452
+Créer	12,735,1,1053,95,2111,767,119,2066,1932,34,481,75,60,452,830,52,1
 Créez	747
 Créée	2342,450,603,48,1272,1444,947,798,598,147,1066,16
 Crítica	6970
@@ -1342,7 +1364,9 @@ Digital Credit and Financial Behavior	10609
 Digital Credit and Financial Behavior Last	10609
 Digital Credit and Financial Behavior. Prior	10609
 Digital Economy Crosswalk	615
+Digital IDs Empower Women Cross	10819
 Digital Identity Issued Credentials Strongly	1939
+Digital Identity Roadmap Guide. Creative Commons	10819
 Digital Ownership Creating	7337
 Digital Superhighway and Creative Economy	5793
 Digital Symmetric Core Currency Cryptography	3830
@@ -1373,6 +1397,8 @@ Discrimination Against Women. CRC	3583
 Divulgação de Riscos de Segurança da IA Crítica	3519
 Document Media Interchange XDS Cross-Enterprise Document	1009
 Doenças Crónicas	10777
+Does CR	10812
+Does the CR	10812
 Dollar Liquidity Creates	9903
 Domestic Production of High-Security Credentials Margins	4791
 Domiciled Canada. Crosswalk	943
@@ -1412,6 +1438,7 @@ Ecosystem and Cross	10721
 Ecosystem and Cross Sector Cooperation	10721
 Eddie Cross	9459
 Education Statistical Yearbook After Rwanda’s Crackdown	5606
+Effectif Pourcentage Création	10875
 El Obeid Criminal Court	10192
 Elecoral Number MAT Central CR and ID	10775
 Elevated Cross Cutting Requirements	6423
@@ -1420,7 +1447,7 @@ Eliminação de Fezes de Criança	10777
 Emerging Tech Crosswalk	1422
 Emma Theofelus and CRAN	5617
 Employment Creation	5134
-Endeavour Crescent Mount Pleasant Business Park	10764
+Endeavour Crescent Mount Pleasant Business Park	10764,80
 Enfermedades Crónicas	4209
 Enhanced Credit Facility	8358
 Enhancing Credibility and Accountability	2518
@@ -1465,6 +1492,7 @@ Facilitate Promote Cross-Sectoral	1777
 Facilité Elargie de Crédit	1300
 Facilité de Crédit du Fonds Monétaire International	2071
 Factores Críticos de Sucesso	795
+Family CR Civil Registration CSPS Local	10812
 Fanta Sombié. Créée	8635
 Fast Content Creation E-Government Desktop Only	6051
 Feature Image Credits	4772
@@ -1487,7 +1515,7 @@ Fintech Credit Guarantee Window	4928
 First Capacity Crisis for Starlink	4601
 Fiscalização Especial da IA Crítica	3519
 Food Crops and Related Items	2775
-Forced Labour Absence of Crime Public Perception	10759
+Forced Labour Absence of Crime Public Perception	10759,78
 Forfeiture of Proceeds of Crimes Act	2726,1
 Francisco José da Cruz	8630
 Francisco José da Cruz DR Luanda	8630
@@ -1498,6 +1526,7 @@ Fund. Critical Information Infrastructure Designation	587
 Funding Flows Favour Adoption Over Creation	7921
 G- Creating	582
 G20 Members’ Regulations of Cross-Border Data Flows	1243
+GDN’s ITERATION ARE CRUCIAL	10852
 GDP. The Global Crypto Adoption Index	9709
 GEPE Irene Cristina Agostinho Neto Cardoso	10766
 GLOBAL Crosswalk	65,1,8,59,70,1,70,91,8,113,3,2,3,160,7,3,5,1,201,226,9,372,1,4,5,1,15,682,2,2,2,4
@@ -1541,6 +1570,7 @@ HIGH Create the Regional Platform for Sharing Information	5677
 HQ cropped.png	6714
 HUMANITARIAN CRISES DEEPEN IN THE CAR	4127
 Haitian Creole	10047
+Has the CRC	10812
 Hasty Credit	8732
 Have Committed Crimes	2775
 Hawks and Crime Intelligence	5323
@@ -1556,12 +1586,14 @@ Hold Middle East Crisis Summit	3437,3942,47
 Home Affairs. Creating	2681
 Hospitalized After Rwanda’s Crackdown	5889
 Human Rights Crisis	3584
+Humanitarian Crisis Analysis	10841
 Hyatt Regency Dubai Creek Heights	4954
+I.5.1 Création	10876
 I100801. Crosswalk	243
 IA CRÍTICA ARTIGO	3519
 IA Crítica	3519
 IATI. Crosswalk	518,541,1082
-IBRD Loans and IDA Credits and Grants	3604,2299,4865
+IBRD Loans and IDA Credits and Grants	3604,2299,4865,61
 ICT Minister Emma Theofelus and CRAN Chairperson	6825
 ICT and Cyber Crimes	2658
 ID Credentials Strategy	3427
@@ -1595,6 +1627,7 @@ ITU Creating	10764
 ITU Critical	10764
 IV. Critical	3058
 IV. Critères	1247
+IV.1.1.6.2 Critères	10876
 Icc Credentials Production	10775
 Identifier Cross-Reference HL7 Version	1009
 Identify Critical Infrastructure	7538
@@ -1674,11 +1707,13 @@ L'organisation Création des Opportunités	9270
 L.G. Cross-pressured	7886
 LCD Liquid Crystal Display LMGH Levy	34
 LE CRITÈRE CARE	8637
+LOCAL IMPLEMENTATION PARTNER Ethiopia Photo Credits	10852
 LONG TERM Create the Regional Centre of Excellence	5677
 LOS CRÉDITOS PRESUPUESTARIOS CAPÍTULO	4209
 La CRAN	6241
 Laboratorio Criminalístico	4209
 Land Cruiser FJ Opinion By Andrew	6244,1
+Landlocked Developing Countries Creating	10844
 Launch Africa Ventures. Créée	7586
 Le Guichet Unique de Création	8065
 Legal Crosshairs	8352
@@ -1761,6 +1796,7 @@ Merchants ATMs POS Debit Cards Credit	6978
 Merchants Acquiring and Cross-border	6453
 Mercury CRT	1988
 Mines Commerce Crafts	10763
+Mobile Connect for Cross-Border Digital Services Lessons	10819
 Mobile Teams Delivering CRP Services Directly	8999
 Modeling Crow’s Foot Notation Data	9124
 Moneyweb DATA SIGN IN SUBSCRIBE Create	7343
@@ -1816,6 +1852,7 @@ O Operador de Rede de Infra-estruturas Críticas	6970
 OCEANIA Crosswalk	487,178
 OECD's Crypto-Asset Reporting Framework	10138
 OECD-DAC CRS	6982
+Occurrence Incidence Criticité	10874
 Official Creditors Committee	6001
 Open CRVS	6985
 Open CRVS. Uh	6985
@@ -1846,6 +1883,7 @@ PROPOSED CREDIT	996
 PROPOSED CREDIT Public Disclosure Authorized	3604
 PUBLIC INPUT CRUCIAL	3445
 Pagamento Digital Pode Criar O Primeiro	8003
+Pantaleo Creti	10841
 Paper-Based Credentials	2291,1271
 Par Ambéternifa Crépin SOMDA	3706
 Para Cristina Paulo Baptista	4938
@@ -1862,8 +1900,10 @@ PayShap Crosses R100 Billion	5691
 Perimeter CRAC	9123
 Periodic Review Mandates and Evaluation Criteria	3861
 Personal Credential Verification Reports	6727
+Phase Action Responsable Constitution Création	10876
 Physical Smart ID Cards and QR-Based Credentials	5533,58
 Pilot Cross-Border Data Exchange Platform	4326
+Pilot and Way Forward Photo Credits	10852
 Police Electronic Crash Records	1001
 Police Electronic Crash Records and Analytics	1001
 Policy and Institutional Assessment CR Civil Registration	969
@@ -1878,6 +1918,7 @@ Preferential Export Buyer's Credit. Previous Madagascar	480
 Presidency CREDICORP	3030
 President Herminie Receives Credentials	8992
 Prevention and Combating of ICT-Related Crimes	4755
+Prevention of Genocide and Other Crimes Against Humanity	10841
 Prevention of Organised Crime Act	8840
 Private Credit Information Centers	9105
 Private Credit Information Centres Confirms Angola	3722
@@ -1929,13 +1970,15 @@ Rationalize CR and ID	10775
 Real Data Crisis	8013
 Real- Credit Electronic Time Gross Information	6938
 Reconceptualising Critical Digital Literacy	6948
-Red Cross	3782,1060,2305
+Red Cross	3782,1060,2305,3682
+Red Cross’ Chad	10841
 Red Tape Cripples FG Free Business	10274
 Reduce Cross-Border Trade Risks Nairobi Startup	2269,19,45,14,9,24,65,84,4,11,6,12,38,10,6,3,8,49,4,421,243,278,96,422,265,221,430,282,332,124,146,163,355,164,56,209,176,238,23
 Reference Coglianese and Crum2025	8283
 Reference Crawford and Calo2016	8283
 Referenced Standards Mobile Cross- Mobile Cross-Enterprise	1009
 References and Cross-References	3861
+Refugee Crisis. Technical Report	10841
 Regional Community Network of African Data Cross-border	961
 Regional Framework for Trusted Cross Border Data	8426
 Regional Patterns of Content Creation	226
@@ -1957,6 +2000,7 @@ Response Team CII Critical Information Infrastructure	1264
 Result Cross-countries	771
 Retail Cross-border	6938
 Rethinking Ownership Authorship and Value Creation	5858
+Revenue Mobilisation Absence of Crime	10835,3
 Richard Hall Cravath	7198
 Risk Assessment CRM-RA.S1	10721
 Risk CRM-RA.S5	10721
@@ -2036,6 +2080,7 @@ Stablecoin Use for Cross-Border Transactions	6679
 Standard Bank Anti-Financial Crime Conference	3439
 State Periodic Report CRC	1211
 State Private Technological Netwo Crosswalk	182
+Strategic Importance Critical	10892
 Strategies for Cryptography New Attacks. Skyrocketing Costs	3279
 Strategy for Creating	4970
 Strategy for Cross-Border Retail	6938
@@ -2082,7 +2127,7 @@ Towards Crowding-in Private Sector Investment Companion	941
 Towards Crowding-in Private Sector Investment Copyright	941
 Towards Crowding-in Private Sector Investment Regulatory	941
 Toyota Land Cruisers Prado Sport Utility	6242
-Trade and Personal Property Credit Register	6473
+Trade and Personal Property Credit Register	6473,4389
 Training and Job Creation	455
 Training and Job Creation Crosswalk	455
 Transferencia de Créditos El Ministro de Hacienda	4209
@@ -2090,6 +2135,7 @@ Transnational Organised Crime Unit	9077
 Transnational Organised Crime. Simultaneously	4583
 Transnational Organized Crime	3583
 Trust Crisis	7114,40,8,444,1469
+Trusted Cross- Border GSM Providers	10819
 Trusted Cross-border	1243
 UCC Suspends Crackdown	4608
 UEMOA Créée	3395
@@ -2104,7 +2150,7 @@ USDJSE ALSIGOLDBrent Crude	7343
 Uganda Faces Critical Shortage of Professors	6077
 Uganda Police Crime Report	4235,597
 Um Crescimento da Consciência	2816
-Under the Creative Commons Attribution	10714,51,10
+Under the Creative Commons Attribution	10714,51,10,37
 Under the Cyber Security and Crime Act	7777
 Understanding Zim’s Criminal Procedure and Evidence	2888,32,354,504,1444,877,6,100,680,129,293,115
 Unified Credit Information Platform	6107
@@ -2136,6 +2182,7 @@ Warns Public Against Crypto Transactions	7754
 Watu Credit	6593,3720
 We’ll Link Citizens’ Credit Scores	3030
 World Bank's ID Credit Program	2252,352
+World Bank’s COVID-19 Crisis Response	10829
 X. CRONOGRAMA DE EXECUÇÃO	10772
 XCPD Cross-Community Patient Discovery XDM Cross-Enterprise	1009
 YES. Crosswalk	854

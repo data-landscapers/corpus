@@ -2,16 +2,21 @@ ACESSO AO ENSINO SUPERIORNext Termos	6837
 AI-ready. Ensure	4126
 Accelerate Open Banking Implementation Ensure	4848
 Act Ensure	1630
+Action Description Ensure	10870
 Africa Finance E ENS	6998
 Africa Finance E ENS ArticleNot E-money	6998
 Africa Finance E ENS ArticleRCR Season	6998
 Africa Finance E ENS ArticleThe Protection	6998
 Awali Boubacar. Ensemble	6252
 Basket Fund. Ensuite	4280
+Boucle du Mouhoun Garçons Filles Ensemble Garçons	10847
 Burkina Faso Ensemble Urbain Rural	737
 Burkina Faso. Ensuite	6827
+CNSS Boucle du Mouhoun Urbain Rural Ensem	10875
 Cases Numériques. Ensuite	7925
 Centros de Enseñanza Superior	4209
+Construction Enseignement	10875
+Construction Enseignement Hébergement	10875
 Cost of Ensuring Privacy	1243
 Culturel ESR Enseignement Supérieur	12
 Cívica Ensino Primário Ensino Secundário Ensino	10766
@@ -34,6 +39,8 @@ EMS Expedited Mail Service ENSO El-Nino	2775
 ENSAE	10548
 ENSAN II	10776
 ENSCS	6437
+ENSEIGNANTS PAR SEXE	10847
+ENSEIGNANTS SEXE ET AGE	10847
 ENSEÑANZA PROFESIONAL Y DEPORTES	4209
 ENSEÑANZA PROFESIONAL Y DEPORTES Servicio	4209
 ENSEÑANZA Y PROFESIONAL Y DEPORTES	4209
@@ -55,26 +62,34 @@ ENSURiNG QUALiTY AND RELEVANCE OF PUBLiC	961
 Emergency Operations Center ENSAN II	10776
 Enable Interoperability and Open Standards Ensure	10157
 Encargada de Enseñanza Reglada	6841
+Enregistrement Ensemble	10876
+Enseignant	10847
 Enseignant Chercheur	2966
 Enseignant-chercheur	5826,2495,400
 Enseignant-chercheur. Au	8321
 Enseignants	8321
 Enseignants-chercheurs	8321
-Enseignement	643,94,28,532,297,85,3,26,251,1007,430,358,71,10,257,782,297,500,23,541,202,77,593,13,65,485,14,294,259,32,52,15,118,112,107,218,65,124,164,26,386,157,121,642,32,3
+Enseignement	643,94,28,532,297,85,3,26,251,1007,430,358,71,10,257,782,297,500,23,541,202,77,593,13,65,485,14,294,259,32,52,15,118,112,107,218,65,124,164,26,386,157,121,642,32,3,236,16,12
+Enseignement Général de Zogbo	10821
 Enseignement National	1005
 Enseignement Professionnel	86
 Enseignement Préscolaire	5103
+Enseignement Restauration	10841
 Enseignement Secondaire	3396
-Enseignement Supérieur	12,1171,525,188,800,21,258,221,200,5024,471
+Enseignement Supérieur	12,1171,525,188,800,21,258,221,200,5024,471,1930
 Enseignement Supérieur Monsieur Ali Mohamed Ali	2960
 Enseignement Technique	8895,160,1227
+Enseignement de Base	10847
+Enseignement du Premier	10847
 Enseignement. L’initiative	10611
-Enseignements	1679,294,993,4689,2724
+Enseignements	1679,294,993,4689,2724,504
 Enseignent	8237
-Ensemble	737,494,1111,45,215,22,459,215,30,13,145,286,885,238,196,1868,135,636,128,136,897,240,351,1042
+Ensemble	737,494,1111,45,215,22,459,215,30,13,145,286,885,238,196,1868,135,636,128,136,897,240,351,1042,302,48,1,1
 Ensemble Aucun Primaire Post	737
+Ensemble Industrie	10875
 Ensemble Masculin Féminin Ensemble Milieu	737
 Ensemble Milieu	737
+Ensemble PTF	10874
 Ensemble Urbain Rural	737
 Ensembles	9482
 Enseñanza	4209
@@ -199,8 +214,8 @@ Ensino. TURMA	10766
 Ensoft	3733
 Ensoleillement	1005
 Ensuing	3583
-Ensuite	737,10,1,257,182,797,423,5,31,518,1024,80,828,1382,181,316,55,132,324,936,50,630,94,1212,82,228,293
-Ensure	34,136,225,504,59,3,39,9,122,30,43,39,14,27,346,74,73,37,14,160,1151,444,21,74,183,265,88,314,82,238,396,1,1,287,132,10,1,5,509,242,36,275,89,104,4,9,599,998,59,1,388,88,41,537,195,82,220,250,143,171,44,10
+Ensuite	737,10,1,257,182,797,423,5,31,518,1024,80,828,1382,181,316,55,132,324,936,50,630,94,1212,82,228,293,67,1
+Ensure	34,136,225,504,59,3,39,9,122,30,43,39,14,27,346,74,73,37,14,160,1151,444,21,74,183,265,88,314,82,238,396,1,1,287,132,10,1,5,509,242,36,275,89,104,4,9,599,998,59,1,388,88,41,537,195,82,220,250,143,171,44,10,41,13
 Ensure AI	1814,2714
 Ensure AU Member States	1814
 Ensure Access	4528
@@ -223,7 +238,7 @@ Ensure Vulnerable Groups	1000
 Ensure the Alignment	1777
 Ensured	10776
 Ensures	236,2822,2187,908,2975,727
-Ensuring	396,544,18,3,9,191,82,18,517,36,4,540,101,243,256,656,37,90,46,102,88,283,394,286,192,113,329,101,2,23,220,496,123,407,456,146,328,307,298,205,366,151,234,98,87,20
+Ensuring	396,544,18,3,9,191,82,18,517,36,4,540,101,243,256,656,37,90,46,102,88,283,394,286,192,113,329,101,2,23,220,496,123,407,456,146,328,307,298,205,366,151,234,98,87,20,1198,1
 Ensuring Justice and Equality The Charter	2958
 Ensuring No One Is Left Behind	8861
 Ensuring Open Data	5246
@@ -236,16 +251,21 @@ Etudes Bancaires Direction des Enseignements	10237
 Experts Ensure	4126
 F. Ensuite	9165
 Fairness and Ensure	5244
+Filles Ensemble Garçons Filles Ensemble Banwa	10847
+Filles Ensemble Garçons Filles Ensemble Houet	10847
 Finance E ENS ArticleDraft Guidance Note	6998
 Finance E ENS ArticleThird-party Payment Providers	6998
 Finance E ENS ArticleTwo Upgrades	6998
 Fonio Niébé Voandzou Arachide Gombo Ensemble	737
 GRM Ensure	1988
+Hauts Bassins Garçons Filles Ensemble Garçons	10847
 House ENS	6683
 Houédako K. Tokandji. Ensemble	6221
 I. Ensure	4260
 II Ciclo Ensino Secundário	10766
 II. Ensure	4260
+IV. PERSONNEL ENSEIGNANT IV.1 REPARTITION DES	10847
+IV. PERSONNEL ENSEIGNANT IV.2 REPARTITION DES	10847
 Infrastructure Over A Retail CBDC ENS	6998
 Ingénieurs-Abderrahmane Baba TOURE ENSUP Ecole Normale	12
 Instituto Nacional de Enseñanzas Social	4209
@@ -269,11 +289,14 @@ Níveis de Ensino	10766
 O Ensino Secundário	10766
 OWNERSHIP A Assess Continental Ensure	961
 Operation and Maintenance Phase Ensure	1988
+PERSONNEL ENSEIGNANT	10847
+PFM. Ensure	10829
 PP Substantial Ensure	10768
 PPE Ensure	1988
 PPPs. Ensure	4126
 PROTOCOLO GENDARMERIA LOGISTICA ENSEÑANZA INSPEC.GRAL. GRAL	4209
 Paridade de Género3 ENSINO PRIMÁRIO	10777
+Pourcentage Boucle du Mouhoun Urbain Rural Ensemble	10875
 Privacy E ENS ArticleThe New DPO	6632
 Privacy E ENS ArticleVisitor Data	6632
 Proceso de Enseñanza-Aprendizaje	4209
@@ -292,16 +315,20 @@ Specialist Ensure	1988
 Stacking Ensemble Regres-	8604
 Subsistemas de Ensino. FORMAÇÃO PROFISSIONAL BÁSICA	10766
 Substantial Ensure	10768
+Sud-Ouest Ensemble	10875
+Système Statistique National Ensemble	10874
 Tracking System Ensuring	4260
 Uganda Finance E ENS ArticleSettlement	6998
 Un Enseignement Supérieur	12
 Underfloor Cable Trays Ensure	9123
 Urbain Ensemble	737
 Urbain Rural Ensemble	737
+Urbain Rural Ensemble Cascades Centre	10875
 Urbain Rural Ensemble Célibataire	737
 Urbain Rural Ensemble Maison	737
 Urbain Rural Ensemble Région	737
 Urbain Rural Ensemble Sexe du CM Masculin	737
+Urbain Rural Ensemble Urbain Rural Ensemble	10875
 VERITAS MAKES EVERY EFFORT TO ENSURE	972
 Vice President of Ensoft	3733
 Vision Ensure	1000

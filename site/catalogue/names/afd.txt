@@ -17,6 +17,7 @@ AFDB.ORG. Trade Finance Supply	10718
 AFDIL Data Processor INST-500522D5211 NAIROBI US	7167
 Abbreviations and Acronyms AfDB African Development Bank	10718
 AfDB African Development Bank AFW World	969
+AfDB African Development Bank AFWRI Country	10841
 AfDB African Development Bank Group ADE	4214
 AfDB African Economic Outlook	6338
 AfDB Annual Meetings	6764
@@ -42,11 +43,12 @@ AfDB USD	4466
 AfDB West Africa	1044
 AfDB Youth Entrepreneurship Investment Bank	8101
 AfDB and Afreximbank	10718
+AfDB and ITU	10819
 AfDB and IsDB	1406
 AfDB and MCDF	9988
 AfDB and Standard Bank	9702
 AfDB and WBG	4214
-AfDB&AUC	10759
+AfDB&AUC	10759,76,2,1
 AfDB's Data Innovation Lab	4214
 AfDB's Governance and Economic Reform Department	4181
 AfDB's Statistics Department	4214
@@ -61,6 +63,7 @@ AfDB-funded Project	2852
 AfDB-side	9905
 AfDB-specific USD	1413
 AfDB-supported	10572
+AfDB’s Sustainable Energy Fund for Africa	10841
 AfDevSat	8275
 Afdera	3388
 African DPG Fund. The AfDB	7921
@@ -77,7 +80,7 @@ EUR45.5m AfDB	803
 EUR7m AfDB and EUR3.5m European Union	9463
 Enabel and AFD. Senegal	641
 Ethiopia and Burkina Faso. The AFD	2303
-Event Data Project AfDB African Development	10759
+Event Data Project AfDB African Development	10759,78
 FR-3 AFD	1405
 First AFD Sovereign Digital Loan	1043
 Free Trade Area AfDB African Development	7548
@@ -92,6 +95,8 @@ SMEs. The AfDB	10718
 SSA. REG. No AFD	1551
 Sole AFD	450
 Sovereign AFD	789
+Trade Area AFD French Development Agency	10841
+Trade and Development AfDB African Development Bank	10835,3
 UNECA and AfDB	9469
 WATAF LAUNCHES AFDB-FINANCED US	10581
 WB IDEA and AFD	4841

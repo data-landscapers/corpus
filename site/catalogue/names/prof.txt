@@ -25,7 +25,9 @@ Associate Professor Racheal Mindra	4028
 Associate Professor and Development Economist	3005
 Associate Professor of Law	8697
 Associate Professor of Wireless Communication Networks	10383
-Association Professionnelle	8355
+Association Nationale des Professionnels	10821
+Association Professionnelle	8355,2481
+Association Professionnelle des Banques	10821
 Association of Professional Societies	7167
 Associação Moçambicana de Profissionais	2816
 Audio By Carbonatix Economist and Professor of Finance	7697
@@ -44,9 +46,11 @@ CAPITALISATION OF PROFIT COMPANIES	3714
 CAPITALISATION OF PROFIT COMPANIES Legal	3714
 CORE VALUES Excellence Professionalism Integrity	1131
 CPD Continuous Professional Development CSP Content	6946
+Cameroon Country Profile	10841
 Capacitação Profissional	2816
 Catálogo de Cualificaciones Profesionales	4209
 Catégorie Socio Professionnelle CSLP	737
+Central African Republic Country Profile	10841
 Centro Profesional Politécnico Modesto Bata Añisok	4209
 Centro Profesional de Añisok	4209
 Centro de Formación Profesional	4209
@@ -56,6 +60,7 @@ Centros de Formación Profesional	1701,2508
 Certificate of Proficiency	1554
 Certified Information Privacy Professional	1940
 Certified Information System Security Professional	1940
+Chad Country Profile	10841
 Chairperson Prof. I. D.T. Mpof Prof.PZro.fM	1154
 Charter of Professional Ethics	2958
 Chartered Human Resource Professional	6946
@@ -92,6 +97,7 @@ D.G. DE FORMACION PROFESIONAL OCUP.- Concepto.-66111	4209
 D.G. ORDENAC. ACADEMICA Y PROFESORADO.- Concepto.-	4209
 DATA STEWARDSHIP NETWORK AND PROFESSIONAL STANDARDS	3861
 DE LA FORMATION PROFESSIONNELLE ET	2966
+DES ELEVES SELON LA PROFESSION DES	10847
 DIRECTOR PROFILES	4896
 DPrroRf..TW. M. Masaegkwesaa Air Cdre ProfP.rWof	1154
 DU PRINCIPE D’INDEPENDANCE PROFESSIONNELLE Article	785
@@ -100,6 +106,10 @@ Data Stewardship Network and Professional Standards	3861
 Delve Country Profile	2889
 Develop Cybersecurity Education and Profession Training	1000
 Dever de Sigilo Profissional	167
+Digital Identity Country Profile	10822
+Digital for Healthcare Professionals Together	10865
+Displacement Context and Refugee Profiles	10841
+Displacement Context and Refugee Profiles Equatorial Guinea	10841
 Domestic Economy Professional	2775
 Dr. Zeynep Engin and Professor Jon Crowcroft	1246
 EDUCACION ENSEÑANZA FORMACION PROFESIONAL	4209
@@ -126,6 +136,7 @@ Ensino Secundário de Formação de Professores Província	10766
 Equity Profit Margin Return	1013
 Eritrea Profile	10001
 Escola de Formação de Professores Ensino Geral Avaliação	10766
+Etablissement Supérieur Professionnel	10893
 Ethiopia. Profitability	6100
 Executive Secretary Professor Abdullahi Yusufu Ribadu	8710
 Expo View Profile	6357
@@ -173,6 +184,7 @@ ICT Professionals	2288
 IHE Profile IHE Profile Descriotion Referenced	1009
 IHE Profile IHE Profile Description	1009
 IHE Profiles	1009
+IIAG Profile	10835
 IIPGH Institute of ICT Professionals Ghana	6936
 INVESTOR PROFILE	4972
 ITU Country Profile	173
@@ -198,6 +210,7 @@ Khalifa Al Abdulsalam Assistant Professor	2958
 Le Professeur Enaw Ebot Ebot	3985
 Learning Digital Content Professional Life Consumption	582
 Ley Orgánica de Formación Profesional	4209
+Licences Professionnelles	10893
 MANAGEMENT PROFILES	4896
 MANAGEMENT PROFILES Douglas	4896
 MCom Economics Profiles	4896
@@ -282,6 +295,8 @@ Professional Certificate	10133
 Professional Development	6946
 Professional Etiquette	6946
 Professional Experience	962
+Professional ID	10823
+Professional ID Registration	10823
 Professional Integration and Civic Service	6730
 Professional Nursing Today	8603
 Professional Responsibilities and Ethics	9855
@@ -296,10 +311,12 @@ Professionalize	3583
 Professionals	4126,88,4625,364
 Professionnalisation	643,7660
 Professionnaliser	8891
+Professionnalisme	10874,2
 Professionnel	10282
 Professionnelle	643
+Professionnelle des Jeunes	10826
 Professionnels	9287,55,1269
-Professor	2816,518,1562,996,77,1203,1532,1679,367,16
+Professor	2816,518,1562,996,77,1203,1532,1679,367,16,86
 Professor A. Murwira	413
 Professor Abate	8529
 Professor Abdalla Omar Mansur	10451
@@ -315,6 +332,7 @@ Professor Ben Kiregyera and Dr Norah Madaya	1188
 Professor Benjamin Rosman	6152,1605
 Professor Chiratidzo Ellen Ndhlovu	1554
 Professor Chul-In Lee of Seoul National University	9729
+Professor David Eaves	10852
 Professor David Hand	1246
 Professor Eddie Mwenje of Bindura University of Science	520
 Professor Emmanuel Kofi Akowuah	8748
@@ -390,9 +408,9 @@ Professores. Anuário Estatístico da Educação	10766
 Professores. Em	10766
 Professores. Gráfico	10766
 Proficiency Testing Quality Assurance I Quality	4153
-Profil	7655,3057,2
+Profil	7655,3057,2,161
 Profilage	1231
-Profile	775,234,27,855,1057,565,915,363
+Profile	775,234,27,855,1057,565,915,363,6050
 Profile CERT-GH Home RFC	775
 Profile CERT-GH RFC	775
 Profile of DIAL's Digital ID Assessment	1582
@@ -434,11 +452,14 @@ Quadro de Professores	10766
 RCCC Chairman Professor W. Magwa	1554
 REALIZED PROFIT	4602
 REGIONAL PROFILE	4972
-RESULTS PROFILE	10759
+RESULTS PROFILE	10759,76,3
 Reagents for Mineral Froth Flotation Professor Tawanda	1154
 Recouvrement BEPS Base Erosion Profit Shifting	10712
 Redes Neurais Convolucionais Profundas	2816
 Reforma Profunda	10750
+Refugee Profiles	10841
+Refugee Profiles Chad	10841
+Refugee Profiles The Central African Republic	10841
 Republic of Kenya. GO-SPIN Country Profiles	7548
 Research Professional News	5246
 Resource Profiles	6666
@@ -465,6 +486,7 @@ Shareholder’s Equity Profit Margin USD	1013
 Shortage of Skilled Cybersecurity Professionals	6936
 Shortage of Skilled Cybersecurity Professionals Challenge	6936
 Socio Economic Profile. M’mbelwa District Council	3791
+Socioeconomic Profiling of Sundaneses	10841
 Son Excellence le Professeur Alpha Condé	746
 Staff Profile	3862
 Staff Profile Nigerian Expatriate S	3862
@@ -482,6 +504,7 @@ Teacher and Health Professionals	1988
 Technical Description Example Profile Framework	1009
 Tuberculosis Angola Profiles Claudia Robbiati View	10784
 UNESCO GO-SPIN Kenya Profile	7548
+UNHCR Socioeconomic Profiling	10841
 UPS Preinstalled Genuine Microsoft Office Professional	34
 USAID Climate Risk Profile	10768
 Uganda Faces Critical Shortage of Professors	6077

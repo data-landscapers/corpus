@@ -12,6 +12,8 @@ ARTCI. Pour	7890
 Abdou Adamou. Pour	8808
 Affaires Coutumières Shabani Lukoo Pour	5123
 Afrique. Pour	4029,2545,2944
+Agence Nationale Pour	10821
+Agglomération Effectif Pourcentage Ville de Ouagadougou	10875
 Algérie. Pour M. Ahmat Mbodou Mahamat	8851
 Alliance des Etats du Sahel. Pour	3592
 Anaden. Pour	2815
@@ -23,20 +25,30 @@ BOAD Pourquoi le FTD	10708
 BOT. Pour le Port Autonome de Douala	5291
 Bande Passante Internationale Pour	998
 Boucle du Mouhoun. Pour	737
-Burkina Faso. Pour	8721
+Branche Effectif Pourcentage	10875
+Branche Effectif Pourcentage Moyenn Effectif	10875
+Branches Effectif Pourcentage Activités	10875
+Burkina Faso Pour	10860
+Burkina Faso. Pour	8721,2154
 Bénin. Pour	3361,3492,3859
 Bénin. Pour Emmanuel Gansé	7168
 CAF. Pour Aurélie Adam Soulé Zoumarou	3105
+CANEVAS POUR LA PRÉSENTATION DU DOSSIER	10836
 CEO de ST Digital. Pour	3683
-CFA. Pour	10576
+CEP. Pourtant	10883
+CFA. Pour	10576,298
 CLIQUEZ ICI POUR SUIVRE	10291
 CM Pourcentage Aucun	737
+CNSS. Pour	10875
+CNT PORTANT LOI DE FINANCES POUR	10812
 COMPAGNIE IVOIRIENNE POUR LE DÉVELOPPEMENT	2342
 CONOMIQUE ET FINANCIÈRE OPTIMISÉ POUR L’ATTEINTE	2342
 Camayenne. Pour la Directrice	4719
 Cameroun. Pour Joseph Tedou	3611
 Centrafrique. Pour SOS Télécoms	3319
 Centrafrique. Pour le Ministre des Finances	2071
+Chevaux Camp Minawao Hors Camp Pourcentage	10841
+Commune Effectif Pourcentage Ouagadougou Bobo-Dioulasso	10875
 Congo. Pour	9998
 Congo. Pour le Congo	3792
 Conseil POUR LE NICKEL COBALT LATÉRITIQUE	2342
@@ -46,10 +58,13 @@ Cotonou. Pour	2765
 Cotonou. Pour Jean-Claude Kassi Brou	3719
 DE LA SOMELEC POUR L'EXERCICE	1993
 DES NOMINATIONS Pour	3191
-DGI Pour	3396
+DESCRIPTION DE LA PROCEDURE Pour	10876
+DGI Pour	3396,7462
+DGI. Pour	10858
 DT. Pour Camrail	4065
 DU FONDS POUR L'OPÉRATIONNALISATION	1336
 Daniel Gélase Ndabirabe. Pour	6742
+Datacenter. Pour	10858
 Des Pouvoirs Spécifiques Section	37
 Digitalisation. Pour	4037,2940
 Djibril Ouattara. Pour	6600
@@ -59,7 +74,12 @@ Déclaration Annuelle Pour	6954
 Dénis Kadima Kazadi. Pour	5078
 ECONOMIQUE ET FINANCIER PEF POUR	2342
 EHCVM Pour	737
+ENTRAIDE POUR LA PROTECTION DES PERSONNES	10825
 ERP Pourcentage	7655
+Effectif Pourcentage	10875
+Effectif Pourcentage Création	10875
+Effectif Pourcentage Entreprise	10875
+Effectif Pourcentage Moins	10875
 Efficience Pour	1679
 Electricité Pour Tous	3045
 Environnemental Pour	8891
@@ -94,7 +114,10 @@ Hjort and Poulsen	6539
 I. Poursuite	5928
 IA. Pour	2387
 IA. Pourquoi	7715
+III.8 Pourcentage	10847
 INCITATIONS POUR LES INVESTISSEURS	4567
+INSD Pour	10874
+INSD. Pour	10874
 IV. STRATEGIES ET ACTIONS Pour	12
 IVOIRE Plan d Actions National pour l	3604
 Illimi Niger Pour	6578
@@ -114,6 +137,7 @@ Kaspersky. Pour	2393
 LE POUVOIR ADJUDICATEUR	8643
 LETTRE DE CADRAGE BUDGETAIRE POUR L'EXERCICE	1866
 LIGIBLES POUR LE FINANCEMENT ET N’IBIGENDERWAHO	1214
+Léraba Poura	10875
 M. Bambara. Pour	2665
 MAI DE RECHERCHE POUR L’OR	2342
 MANDAT POUR LA COLLECTE DES DONNEES	785
@@ -157,13 +181,16 @@ PRÉ-REQUIS POUR UNE AUTONOMISATION	10711
 PVVIH Pourcentage	3396
 Pas de Poursuite	6959
 Pay. Pour	4673
+Pays Effectif Pourcentage Burkina Faso	10875
 Police Nationale. Pour	7959
 Pouchers	10434
 Poudre	259
 Poules	737
+Poulet	10841
 Poultry	7845
 Poulus Shampapi	10148
 Pound Sterling	8443
+Pouni	10875
 Poupança Bankita	10775
 Pour Abdoul Karim Bangoura	7730
 Pour Aboudou	7113
@@ -210,6 +237,7 @@ Pour Ibrahim Moussa Béchir	2384
 Pour Ibrahima Diallo	9845
 Pour Ibrahima Kamagaté	9620
 Pour Idrissa Nassa	7280
+Pour Ies	10813
 Pour Internet	10226
 Pour Interpol	9132
 Pour Iro Adamou	6223
@@ -336,27 +364,41 @@ Pour le Premier	5506
 Pour le Président	5842,4773
 Pour le Recteur	10492
 Pour le Responsable	3989
+Pour le SSN	10874
 Pour le Secrétaire	8956,77
 Pour le Sénégal	2353,5106
 Pour le Togo	7582
 Pour... Lire	3526,841
-Pourcentage	643,94,2229,430,4259,3057
+Pourcentage	643,94,2229,430,4259,3057,129,6,11,16
+Pourcentage Boucle du Mouhoun Urbain Rural Ensemble	10875
+Pourcentage EST	10847
+Pourcentage HAUTS-BASSINS	10847
+Pourcentage Moyenne Employés	10875
+Pourcentage NORD	10847
+Pourcentage PLATEAU CENTRAL	10847
+Pourcentage SAHEL	10847
+Pourcentage SUD-OUEST	10847
 Pourcentage des DMEG	3396
-Pourquoi	747,2245,124,1906,32,105,514,370,340,494,778,20,218,326,459,41,2,1309,229,383
-Poursuite	2342,6549,1821
-Poursuivant	2738,453,135,2530,211,1149,1065
-Poursuivre	2342,35,589,390,2904,694,1666,271,1102,718,1
-Pourtant	2366,995,165,132,722,1738,99,24,16,343,1076,212,41,30,40,68,288,170,116,37,138,75,159,4,553,939,65,106
+Pourquoi	747,2245,124,1906,32,105,514,370,340,494,778,20,218,326,459,41,2,1309,229,383,175,9
+Poursuite	2342,6549,1821,146
+Poursuivant	2738,453,135,2530,211,1149,1065,2598
+Poursuivre	2342,35,589,390,2904,694,1666,271,1102,718,1,146
+Pourtant	2366,995,165,132,722,1738,99,24,16,343,1076,212,41,30,40,68,288,170,116,37,138,75,159,4,553,939,65,106,159
 Pouvez-vous	2732,4095,1973,16
 Pouvoir Central	7470
 Pouvoir Exécutif	7953
-Pouvoirs	9616
+Pouvoirs	9616,1205,21,34
 Pouwels	8436
+Pouytenga	10875
+Pouytenga Tensobentenga	10875
 Prischina Dorlicka Poushquine Bianiephe	4135
+Privé Pourcentage	10847
 Programme Electricité Pour Tous	2342
 Projet Pour	7263
 Projet. Pour	9668
 Projets IITA Pour	10708
+Public Pourcentage	10847
+Période Effectif Pourcentage	10875
 Qu'est-ce Que J'ai Fait Pour	4960,62,2035
 RCA. Pour ENERCA	9279
 RCA. Pour le Ministre des Finances	1955
@@ -364,7 +406,17 @@ RDC. Pour	10475
 Ramatoulaye Camara. Pour	10610
 Ranérou. Pour	8269
 Représentante Résidente Pour	6959
+Rural Pourcentage	10847
 RÉGISSANT LE FONDS POUR GISHINZWE GUTERA	1214
+Région Effectif Pourcentage Centre	10875
+Région Effectif Pourcentage Urbain Rural	10875
+Région Pourcentage	10847
+Région Province Commune Effectif Pourcentage Boucle	10875
+Région Province Commune Effectif Pourcentage Centre-Est	10875
+Région Province Commune Effectif Pourcentage Centre-Sud	10875
+Région Province Commune Effectif Pourcentage Est	10875
+Région Province Commune Effectif Pourcentage Nord	10875
+Région Province Commune Effectif Pourcentage Sahel	10875
 République du Congo. Pour	1973
 République. Pour	2854
 Révolution Progressiste Populaire. Pour	8454
@@ -376,10 +428,13 @@ S5Q05A Pourquoi	6959
 S5Q05B Pourquoi	6959
 SOCIÉTÉ POUR LE DÉVELOPPEMENT DES FORÊTS	2342
 SOCIÉTÉ POUR LE DÉVELOPPEMENT MINIER	2342
+SSN Pour	10874
 ST Digital. Pour	2399
 STRATEGIE NATIONALE POUR LA CONNECTIVITÉ UNIVERSELLE	9824
 Sabine Mensah. Pour	10266
+Secteur Sous- Homme Effectif Total Pourcentage	10875
 Services GBP Great British Pound GDP	1243
+Sexe Nationalité Effectif Pourcentage Homme Nationaux	10875
 Sid Ali Zerrouki. Pour le Secrétaire	4226
 Sikasso. Pour	7843
 Solidarités. Poursuivant	10137
@@ -387,6 +442,7 @@ South Sudan Pound	3583
 South Sudan Pounds	3583
 South Sudanese Pound	7933
 South Sudanese Pounds	3583,2609,1057,663
+Statut Effectif Pourcentage Rural Etablissement	10875
 Statut. Pour	6954
 Sterling Pound	2775
 Sudanese Pounds	1851
@@ -395,6 +451,7 @@ TATS MEMBRES DE L’UEMOA GUIDE POUR	10711
 Togo First. Pour Jean Sylvestre Nango	3766
 Togo. Pour	1679,5603
 Tombola Nkita Nayo. Pour	4893
+Types Effectif Pourcentage	10875
 Télécharger le Guide Pour	2975
 Télécommunications. Pour	3230
 UEMOA Pour	5054
@@ -407,7 +464,11 @@ UN CADRE ORGANISATIONNEL OPTIMISÉ POUR L’ATTEINTE	2342
 UNE ENQUETE STRATEGIQUE POUR LE DEVELOPPEMENT	10273
 UNE PRIORITE PRESIDENTIELLE POUR L'EMERGENCE	2695
 Uemoa. Pour	3577
+Urbain Pourcentage	10847
+V. INFRASTRUCTURES SCOLAIRES V.5 POURCENTAGE DES	10847
+V.5 Pourcentage	10847
 VI. SUIVI- EVALUATION Pour	12
+Villes Effectif Pourcentage Ville de Ouagadougou Affilié	10875
 Visa. Pour	3616
 Wang Xining. Pour	10593
 X. Pour	3808

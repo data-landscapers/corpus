@@ -8,7 +8,8 @@ AFIC Executive Director Gilbert Sengugwa	3969
 AFIC12	6127
 AFICTA	7172
 AFIDBA	331
-AFIDEP	10759
+AFIDEP	10759,76,2,1
+AFIDEP African Institute for Development Policy UNDESA	10835,3
 AFINHAB	8905
 AFIS and ABIS	1879
 AFISMA	6422
@@ -23,7 +24,7 @@ Afirmación	1701
 Afirmou	8729,594
 Afisa Mkuu Mtendaji	2797
 Ahmed Afif	8453
-Bank AFIDEP African Institute for Development Policy	10759
+Bank AFIDEP African Institute for Development Policy	10759,78
 Company South Africa AFIS Automated Fingerprint	5533
 Description UnbutuNet Alliance Afica Connect-2	77
 Emeka Afigbo	8299

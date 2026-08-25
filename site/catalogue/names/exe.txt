@@ -53,7 +53,7 @@ BoFiNet Chief Executive Officer Dr Geoffrey	10050
 BoFiNet Chief Executive Officer Dr. Geoffrey	10151
 Boakai's Executive Order	5994
 Board Chairperson Mr. Richard Byarugaba and Executive	8969
-Board of Executive Directors	10714,51,10,10
+Board of Executive Directors	10714,51,10,10,27,29
 Board. Chief Executive Officer.Chief Financial Officer	585
 Boitumelo Semete-Makokotlela Chief Executive Officer	3651
 Brazzaville. Congo Telecom Chief Executive Officer	6764
@@ -222,6 +222,8 @@ Deputy Executive Secretaries of SADC	9761
 Deputy Executive Secretary	1032,5115
 DigiCivic Initiative Executive Director	10211
 Digital Health Agency Chief Executive Anthony	10329
+Digital Identity EXECUTIVE SUMMARY	10819
+Digital Identity EXECUTIVE SUMMARY Smart Africa	10819
 Diplomatic Data Exemption	3861
 Diplomatic Data Exemption This Policy	3861
 Director Executivo	8000
@@ -249,6 +251,8 @@ EXEC SUMMARY	5618
 EXECUTION	2561
 EXECUTION BUDGETAIRE	2561
 EXECUTION DU BUDGET	998
+EXECUTION ET SUIVI DES MARCHÉS	10876
+EXECUTION ET SUIVI DES MARCHÉS VI.1	10876
 EXECUTIVE AUTHORITY STATEMENT	5533
 EXECUTIVE AUTHORITY STATEMENT DEPARTMENT OF HOME	5533
 EXECUTIVE DIRECTOR	1154
@@ -289,7 +293,7 @@ Executed	26,1,1,1728,7,2
 Executing Agencies	10348
 Executing Agency	603
 Execution	3,937,332,400,1,1153,298,691,1307,137,198,1091,1000,496,502,83,208,162,351,1371
-Executive	396,31,158,2,202,110,59,880,102,367,470,1005,79,353,682,722,59,288,195,282,151,239,54,195,200,374,588,65,183,375,89,636,25,255,217,128,30,67,103,377
+Executive	396,31,158,2,202,110,59,880,102,367,470,1005,79,353,682,722,59,288,195,282,151,239,54,195,200,374,588,65,183,375,89,636,25,255,217,128,30,67,103,377,19
 Executive Authority	2662,2871
 Executive Authority Signature OFFICIAL SIGN OFF	5533
 Executive Board	1830,5865
@@ -307,7 +311,7 @@ Executive Commissioner	3945,3906,405
 Executive Commissioner for Technical Services	8417
 Executive Committee	3513,1645,282,2298,3037
 Executive Committees CEMAC Economic and Monetary Community	2775
-Executive Compliance	10759
+Executive Compliance	10759,76,2,1
 Executive Council	961,282,4798,642
 Executive Council of ASCON	7329
 Executive Council. H.E. Simeón Oyono Esono	8192
@@ -380,7 +384,7 @@ Executive Roadmap	6174
 Executive Search AdeptID	8530
 Executive Secretariat	2889,1317
 Executive Secretariat for ICT	2840
-Executive Secretary	1474,80,754,1444,1189,28,382,122,19,297,28,182,311,82,546,356,29,553,684,194,64,626,397,328,475,72
+Executive Secretary	1474,80,754,1444,1189,28,382,122,19,297,28,182,311,82,546,356,29,553,684,194,64,626,397,328,475,72,106
 Executive Secretary Albert Nsengiyumva	10359
 Executive Secretary Gatete	8754
 Executive Secretary Prof. Kenneth Agyemang Attafuah	2772
@@ -396,12 +400,14 @@ Executive Secretary of SETIC and Coordinator	6044
 Executive Secretary of WAPCO	10509
 Executive Secretary of WATAF	5351
 Executive Secretary of WATRA	5790
-Executive Summary	395,184,3,317,358,106,234,633,828,799,2,669,55,389,160,112,2,1,533,271,375,16,448,57,18,186,2877,690,45,12,1
+Executive Services Traitement	10821
+Executive Summary	395,184,3,317,358,106,234,633,828,799,2,669,55,389,160,112,2,1,533,271,375,16,448,57,18,186,2877,690,45,12,1,65,15
 Executive Summary Africa	3859
 Executive Summary Angola	10763
 Executive Summary Artificial	1814
 Executive Summary Artiﬁcial Intelligence	1204
 Executive Summary Executive	23
+Executive Summary I. Introduction	10841
 Executive Summary Scientific	5246
 Executive Summary Spectrum	5245
 Executive Summary The African Union	1257
@@ -440,22 +446,24 @@ Execução Incorrecta	10755
 Execução Tardia	10755
 Execução de Actos Jurídicos Internacionais	9799
 Exemp7t.i2onEsxemptions	10157
+Exempl	10826
 Exemplares PREÇO Kz	10757
 Exemplares Reprodução	10766
 Exemplary	4126
 Exemple	747,1,1236,429
+Exemples	10876
 Exemplo	2816,605,4527,1228,1601
 Exemplos	2816
 Exempted	736
-Exemption	1220,657,238,594,1178,2545,3725
+Exemption	1220,657,238,594,1178,2545,3725,662
 Exemption Notice	5420
 Exemption Notice for Payment Activities	5420
 Exemption for On- Premise Hosting	6432
-Exemptions	3,759,571,18,391,86,899,987,173,2545,3725,153
+Exemptions	3,759,571,18,391,86,899,987,173,2545,3725,153,504
 Exemptions Exemptions	10157
 Exemptions PART II	1333
 Exercer	13,154,4051,6537
-Exercice	822,1171,349,6549
+Exercice	822,1171,349,6549,1930
 Exercise	11,1833,4950
 Exercise Over Technical Challenges Gambiaj.com	10110
 Exercise and Health	5349,3256
@@ -526,7 +534,7 @@ Italia Matlala Executive Group Head	5247
 Ivoire Chief Executive Officer Mamadou Bamba	6303
 JKCI Executive Director Dr Peter Kisenge	7360
 JTL Chief Executive Officer Dr C.K	9940
-JUSTICE Executive Compliance	10759
+JUSTICE Executive Compliance	10759,78
 James Chona and Executive Director Webby Mate	9371
 Joint Executive Decree	10775
 KUPPET Nyamira Executive Secretary George Ayieko	8383
@@ -619,6 +627,7 @@ Nov-2025 Executive Regulations	3525
 Number Resource Organization Executive Council	8047
 O Executivo	1215,2678,685,524,2016,937,2040,656
 O Secretário Executivo	2866
+Obtain Executive Compliance	10835,3
 Open Hub Chief Executive Officer David	5939
 Operating Expenditure Execution	718
 Operating Expenditure Execution Description Budgeted	718
@@ -683,9 +692,11 @@ Representing the Executive Director	7874
 Republic of Liberia Executive Summary The National	1777
 Rosemary Ajayi Executive Director About DigiAfricaLab	10725
 Rwandan President Paul Kagame. NCC Executive	8552
-RÉSUMÉ EXECUTIF	5740
+RÉSUMÉ EXECUTIF	5740,5135
+RÉSUMÉ EXECUTIF L’Institut	10875
 SADC Executive Secretary	9761,560
 SADC RIDMP Executive Summary.pdf	23
+SANEM’s Executive Director	10852
 SASSA Chief Executive Officer	3602
 SASSA Gold Cards Execution	8999
 SECTION ET PROGRAMME DES EXERCICES	3396

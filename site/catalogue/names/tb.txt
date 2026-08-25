@@ -6,7 +6,7 @@ Bill of Quantities TBA	1988
 CIDRZ Hosts Uganda’s R2D2 TB Network	10374
 Commodity TB Commodities ARVs and PrEP Opportunistic	4217
 Completed Planned July August On-going TBC	8999
-Components RESULT FRAME TBL IO Indicator Name PBC	1284
+Components RESULT FRAME TBL IO Indicator Name PBC	1284,9545
 Components RESULT FRAME TBL IO Indicator Name PBC Baseline	1228
 Curing TB	4260
 Data Storage TBA TBA	1988
@@ -26,11 +26,15 @@ Heart of Health Management TBI	7764
 I Can End TB	2626
 I TBnodRed	4301
 II. TB	4260
+Ic Georgia Asia Western Asia Tbilisi	10840
 Improving TB	10784
+Indicators RESULT FRAME TBL PD O Indicator Name	10829
 KoN and TB	771
 Label of ZRCP TBA	1988
 Laboratory Commodity TB Lab Commodities HIV	4217
 Le TBFS	737
+MW Equinix TBD Abidjan In Construction	10861
+MW TBD Abidjan	10861
 Material Specifications ZRCP TBA and Cost	1988
 Mid-range Printers TBA TBA	1988
 Mozambique. HIV and TB	771
@@ -46,8 +50,9 @@ Planification Economique ADD FIN TBL1	1284
 Policy Areas EVOBJ TBL Page	10779
 QC QMS RTCQI SHA STI TB	4153
 Quantity of ZRCP TBA	1988
-RESULT FRAME TBL IO Indicator Name PBC Baseline	1284
+RESULT FRAME TBL IO Indicator Name PBC Baseline	1284,9545
 RESULT FRAME TBL IO Indicator Name PBC Baseline Intermediate	1228
+RESULT FRAME TBL PD O Indicator Name PBC	10829
 RGPH SEN SFP SIGE SPE TBA	10766
 RT Mupita7 TBL Molefe7	10793
 RV SIDA SRO TBF TBN TCA	10777

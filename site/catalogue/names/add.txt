@@ -62,14 +62,14 @@ Added Tax Reforms Mr. Speaker	7695
 Added Tax VDIs Virtual Digital Infrastructure	2775
 Added Tax VHF Very High	236
 Addenda	1465,173
-Addendum	1638,8979,163
+Addendum	1638,8979,163,60
 Addendum II	5793
 Adderley Street	8999
 Addi-	10780
 Adding	2869,79,264,2311,297,542,472,1112,42,1135
 Adding PayPal	6368
 Addis	1219,585,1175,1219,133,1635,4693
-Addis Ababa	26,1,1,83,266,252,104,228,70,132,56,18,6,354,117,100,446,257,359,2,5,23,16,258,36,22,249,108,64,36,93,335,226,227,190,16,5,19,267,1,18,110,100,179,344,48,88,5,894,650,28,152,104,25,1,67,22,165,14,104,135,22,322,248,112,275,1,1,493,30,7,658,87,76,50
+Addis Ababa	26,1,1,83,266,252,104,228,70,132,56,18,6,354,117,100,446,257,359,2,5,23,16,258,36,22,249,108,64,36,93,335,226,227,190,16,5,19,267,1,18,110,100,179,344,48,88,5,894,650,28,152,104,25,1,67,22,165,14,104,135,22,322,248,112,275,1,1,493,30,7,658,87,76,50,177
 Addis Ababa Action Agenda	970,2613,6752
 Addis Ababa Agreement	3583
 Addis Ababa City Administration	7463
@@ -78,6 +78,7 @@ Addis Ababa City Government Revenues Bureau	10496
 Addis Ababa Either Participant	4349
 Addis Ababa Ethiopia Cameroon Union	10764
 Addis Ababa Ethiopia Tel	8754,1962
+Addis Ababa Ethiopia Union	10844
 Addis Ababa For the Government	4349
 Addis Ababa Othow	8572,1615
 Addis Ababa Peace and Security Bureau	7909
@@ -96,6 +97,7 @@ Addis Ababa. CIO Africa	10025
 Addis Ababa. Establishes	505
 Addis Ababa. Ethiopian	5073
 Addis Ababa. Limuru	2517
+Addis Ababa. Printed	10819
 Addis Ababa. The Republic of Equatorial Guinea	8192
 Addis Ababa. Vodacom and Vodafone	8843
 Addis AbabaOctober	2947
@@ -116,7 +118,7 @@ Addison-Wesley	3782
 Addit	4260
 Additif N	5983
 Addition	585,151,277,931,2788,2189
-Additional	25,141,210,395,128,62,1,7,51,141,51,7,45,20,371,159,4,10,160,281,126,109,1,172,212,495,199,131,68,79,57,1,1,223,117,89,85,149,313,191,64,93,2,454,456,55,200,12,96,409,297,323,211,31,113,246,53,398,28,43,21,291,140,6,154,82,260,63,21,30,479,129,367,45,4,2,3,7,5,4
+Additional	25,141,210,395,128,62,1,7,51,141,51,7,45,20,371,159,4,10,160,281,126,109,1,172,212,495,199,131,68,79,57,1,1,223,117,89,85,149,313,191,64,93,2,454,456,55,200,12,96,409,297,323,211,31,113,246,53,398,28,43,21,291,140,6,154,82,260,63,21,30,479,129,367,45,4,2,3,7,5,4,30,15,6,2,1,14,4,3,2,1,2,2,15
 Additional APS	4260
 Additional CapEx	3184,1,1340,6256
 Additional Confirmations	5903
@@ -134,6 +136,7 @@ Additional Information	736,6462
 Additional Information I Certify	736
 Additional Information Regulation M-A Item	7198
 Additional Information and Documents Sought	762
+Additional Maternal	10829
 Additional NPV	1867
 Additional Protocol II	3583
 Additional Protocols	3583
@@ -152,7 +155,7 @@ Additional Testing Requirements Software	5665
 Additional Universities and TVETs	6928
 Additionality	10077
 Additions	1013,931
-Address	236,500,39,183,820,36,63,63,351,183,75,1013,21,543,308,94,368,349,288,132,13,1,1281,232,653,726,254,160,138,2,317,413,37,1,165,703,4,10
+Address	236,500,39,183,820,36,63,63,351,183,75,1013,21,543,308,94,368,349,288,132,13,1,1281,232,653,726,254,160,138,2,317,413,37,1,165,703,4,10,37,29
 Address CERT-GH	775
 Address Digital Skills Shortage	6449
 Address Disinformation	6907
@@ -168,15 +171,17 @@ Address and Telephone Number of Person Authorized	7198
 Address of Principal Executive Office	8939
 Addressed	557,6855
 Addresses	736,2306
-Addressing	21,407,361,151,30,67,667,73,37,65,109,383,51,103,67,438,361,96,96,158,76,241,161,121,17,173,113,10,7,27,31,130,58,34,14,135,18,67,81,1,72,205,245,6,19,132,29,151,86,118,1,207,66,188,51,104,2,10,54,41,62,46,38,47,42,129,91,50,57,10,72,64,39,69,46,41,124,132,86,39,48,85,21,63,1,19,11,28,8,137,17,68,3,98,303,9,85,18,2,10,3,252,140,139,44,30,93,40,2,47,20,91,266,1
+Addressing	21,407,361,151,30,67,667,73,37,65,109,383,51,103,67,438,361,96,96,158,76,241,161,121,17,173,113,10,7,27,31,130,58,34,14,135,18,67,81,1,72,205,245,6,19,132,29,151,86,118,1,207,66,188,51,104,2,10,54,41,62,46,38,47,42,129,91,50,57,10,72,64,39,69,46,41,124,132,86,39,48,85,21,63,1,19,11,28,8,137,17,68,3,98,303,9,85,18,2,10,3,252,140,139,44,30,93,40,2,47,20,91,266,1,312,15,5
 Addressing AI	4528
 Addressing AI Safety and Security	1814
 Addressing Africa's Trade Finance Gap DFIs	10718
 Addressing Africa's Trade Finance Gap...........29	10718
 Addressing Antimicrobial Resistance	10776
+Addressing Chad	10841
 Addressing Critical Connectivity Gaps	4352
 Addressing DRC's Rural Divide Deploying	2278
 Addressing ECZ	9986
+Addressing GBV	10829
 Addressing Gender Gaps	1264
 Addressing Gender-Based Occupational Segregation	3604
 Addressing Gender-Based Violence	10776
@@ -236,6 +241,7 @@ DWELLING VACANT OR ADDRESS	582
 David Nana Addai	8580,186
 Description Additional	162,145,450,821
 Determinants of Health Addressed	10776
+Development of National Digital Address System	10861
 Digital Address	1263,2123
 Digital Addressing System and Address Verification System	8825
 Digital Cabo Verde Project Additional Financing.md	583
@@ -306,6 +312,7 @@ Luba Lesolle Add	5808
 MESOB Headquarters Government Services Center Address	10709
 MNE Additional	573
 Manufacturing Value Added	9761
+Mc Ethiopia Africa Eastern Africa Addis	10840
 Ministry of Digital and Communications. Additional	2473
 Mogadishu's Aden Adde	2273
 Mogadishu's Aden Adde International Airport. ABIS	2273
@@ -345,6 +352,7 @@ Net Additions	2776
 Net Additions Growth	2776
 Network Address Translation	7010
 Neural Networks Address	4528
+Nigeria and Senegal. Additional	10861
 Norvisi Addo	2824
 OJ Koloti Add	6183
 ONG ADD-Fassali de Zinder	3356
@@ -364,12 +372,15 @@ Policy Pathways for Inclusive AI Governance Addressing	8747
 Postal Address	1735,142,431,2588
 Postal Address P. O. Box M-680	1263
 Postal Address Physical Address Fax No	736
+Postdoctoral Fellow. Additional	10840
+Potential Trust Service Provider Added	10819
 Presidency. Add	7079
 Prime Minister’s Year-End Address	4535
 Prime Minister’s Year-End Address No Result	4535
 Private Sector Paratus Shareholders Equity Addition	1944
 Profit Assets Liabilities Shareholder Equity Addition PPE	1944
 Program NDTS RAPID-CI Sources of Additional Funds	3604
+Project Year Additional Children	10829
 Proposed Additional Total Last Approved	2889
 Proposed Additional Total Proposed Current Financing	1284
 R Digital Address	3386
@@ -381,7 +392,9 @@ Registration Value Added	736
 Republic of Ghana. Address	6936
 Roosevelt Street Addis Ababa	7951
 SECTION6 Additional Terms	4301,48
+STAKEHOLDERS ADDS	10852
 STATE DEPARTMENT FOR MEDICAL SERVICES ADDENDUM	7987,1
+STUDY ADDS Over	10881
 Says Deputy PM Addis Ababa	8920
 Sean Ofori Addo	6936
 Service Value Added Tax Excise	5655

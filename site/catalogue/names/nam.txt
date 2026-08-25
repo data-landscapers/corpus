@@ -30,6 +30,7 @@ Arab Member States Country Expert Name	2958
 Argentina and Namibia	444
 Argues Kenya's Maisha Namba ID	2024
 Article Name Eitzel	1248
+Asia Namibia High EGDI M-OSI H-HcI	10840
 Asset Name and Link	7662
 Assigned Names and Numbers ICPAK Institute of Certified	6946
 Attributes Symbol Example Application Name N	9124
@@ -37,6 +38,7 @@ Attributeweights Namedominant	8606
 Authority of Namibia	9692
 Authority. Licence Name Application Initial	736
 Autoridade Reguladora de Comunicações da Namíbia	6798
+BAM NAMENTENGA	10847
 Bank of Namibia	1030,203,689,1792,730,592,218,1511,173,50,1017,243,3,1,161
 Bank of Namibia Deputy Governor Leonie Dunn	8251
 Bank of Namibia Governor Ebson Uanguta	6988
@@ -49,6 +51,7 @@ Beira and Nampula	1808
 Biometric Update Namibia	3017,163
 BoN and Namibia Statistics Agency	8248
 Boma Lathu. Shadric Namalomba	6592
+Botswana Namibia Ghana Morocco Tunisia Kenya	10837
 Botswana and Namibia	5382,3789,391,73
 Botswana and Namibia. The MoU	5315
 Brand Name	6946
@@ -73,11 +76,13 @@ Cabinda Luanda Namibe Bengo Zaire Moxico	10775
 Capacity Base Station Name	736
 Capacity Project ID Project Name Additional	1284
 Capital Name of Director	4896
+Central African Republic. Components Component Name	10829
 Certificate of Origin Name	1988
 Challenges Despite Namibia	5036
 Charles Gichira. Hon. John Namoit	10313
 City Data Centre Name Data Centre	6432
 CityMender Namibia	9952
+Civil Name	10812
 Client Information Applicant Name	1877
 Client Information Name	736
 Client Information Name of Applicant Postal Address	736
@@ -91,13 +96,14 @@ Communication Regulatory Authority of Namibia	2588,5039,623
 Communications Regulatory Authority of Namibia	1750,150,75,1,1,2,1,6,36,547,19,429,442,2039,9,22,14,21,48,5,850,298,19,1,41,447,150,318,513,1,159,1,245,606,1199
 Component Name	3604
 Components Component Name Cost	1867,8901
-Components RESULT FRAME TBL IO Indicator Name PBC	1284
+Components RESULT FRAME TBL IO Indicator Name PBC	1284,9545
 Components RESULT FRAME TBL IO Indicator Name PBC Baseline	1228
 Computable Name	6666
 Confidential Attributes Symbol Example Process Name	9124
 Congo and Namibia	9399
 Conselho Municipal da Cidade de Nampula	1808
 Contact Information Name	9892,1
+Contacts List Name Position Ministry	10812
 Contingent Emergency Response Component Indicator Name	4653
 Cubango Namibe Huíla Cunene Sul	10760
 Cunene and Namibe	10763
@@ -153,6 +159,7 @@ Full Name	4602,294,791
 Funding NAME	5352
 Fundo Nacional de Investigação Av. da Namaacha	414
 GHANA BASIC DETAILS Name	236
+GLANCE Name	10823
 GPS the DRC and Namibia	9399
 GRIEVANCE RECORDING FORM Project Reference Name	1778
 General News The Namibia Chamber of Commerce	8414
@@ -170,11 +177,12 @@ High Court of Namibia	3714,5392
 Hon. Dr. Shadric Namalomba	9820
 Hon. John Namoit	10313
 House. Hon. John Namoit	10313
-Huduma Namba	767,1257,78,464,1293,584,538,340,1282,2796,457,291
+Huduma Namba	767,1257,78,464,1293,584,538,340,1282,2796,457,291,675
 Huduma Namba Identity System	9399
 Huduma Namba Integration	10415
 Huduma Namba and Maisha Number	3391
 Huduma Namba. The European Union	9600
+Huduma Namba.92 Through	10822
 Huíla Namibe ROSA ELSA ERNESTO BAPTISTA	10751
 ICT Sector Telecom Namibia Mobile Telecommunications	1013
 ID for All The Namibian	3017
@@ -193,7 +201,9 @@ IPN and NamClear	6988
 IPN and NamClear Sign Pact	6988
 Impact of M-Pesa and Huduma Namba	9399
 India and Namibia	9749
+Indicator Name Baseline Actual	10870
 Indicator Name Jun	6928
+Indicators RESULT FRAME TBL PD O Indicator Name	10829
 Industrial Revolution Namibia	5036
 Information Minister Shadric Namalomba	9217
 Instant Payment Namibia	10306
@@ -201,8 +211,9 @@ Instant Payments Namibia	3180,3808
 Instant Payments Namibia COO Marsorry Ickua	5254
 Institution Name Institution Identifier C319 SCHEDULE	5687
 Instruments Namibia Namibia Nigeria Nigeria Rwanda	6938
+Intermediate Results Indicators Indicator Name Definition	10829
 International Non-proprietary Name	9855
-Internet Corporation for Assigned Names and Numbers	3503,3743
+Internet Corporation for Assigned Names and Numbers	3503,3743,3573
 Internet Society of Namibia	1928
 Investments Named DPI	3859
 Israel Nambi	10765,10
@@ -224,6 +235,7 @@ LIST OF CONTRIBUTORS S. Name Expertise	9855
 La Namibie	6241
 Lagos. Named	3187
 Laldemira Nambala	5405,1392
+Last Name	10812
 Launching Namibia	3539
 Legal Assistance Centre and NamibLII	1025
 Leo and Telecom Namibia Limited	1847
@@ -326,6 +338,15 @@ NAME OWNER RENTED TYPE LAND USE	4896
 NAME OWNER RENTED TYPE Residential ADDRESS	4896
 NAME REGISTRATION	3714
 NAME REGISTRATION Names	3714
+NAMENTENGA	10847
+NAMENTENGA BOULSA SANMATENGA KAYA CENTRE-OUEST KOUDOUGOU	10847
+NAMENTENGA Femmes	10847
+NAMENTENGA Filles	10847
+NAMENTENGA Garçons	10847
+NAMENTENGA SANMATENGA	10847
+NAMENTENGA TX Prom	10847
+NAMENTENGA Total SANMATENGA Public	10847
+NAMENTENGA Urbain	10847
 NAMES	3714
 NAMFISA	3714
 NAMFULL2 ID ENTITY CODBRANCH Notably	3364
@@ -389,6 +410,7 @@ Name Rationale	8866
 Name Signature Mr Godfrey Gomwe	4896
 Name Site TX Rx Altitude Longitude	736
 Name Time Since Last Update	3861
+Name Title Sector Unit Samia Melhem	10812
 Name and Address. IHS Holding Limited	7198
 Name and Address. The Company	7198
 Name and Registration Details	5538
@@ -396,6 +418,7 @@ Name and ZRCP	1988
 Name of Camp ZRCP	1988
 Name of Committee Secretariat Financial Inclusion Unit	940
 Name of Designated DPO	1877
+Name of IMSA	10812
 Name of Implementing Agency	9603,1
 Name of Indiscriminate	1988
 Name of Name	1988
@@ -431,8 +454,10 @@ Named-scholarship	740
 Named-specialist	5281
 Named-user	10617
 Named. Accountable. Contactable	6041
-Namely	1596,3376,2261
-Names	736,1257,1721,1297,119,323,947,32,705,691,776,2110
+Namely	1596,3376,2261,3586
+Namentenga	10847,28
+Namentenga Bittou	10875
+Names	736,1257,1721,1297,119,323,947,32,705,691,776,2110,98
 Names ARTCI	6340
 Names Impilo	3385
 Names SmartBots	4186
@@ -460,7 +485,7 @@ Namibe Uíge Zaire MF	10766
 Namibe Uíge Zaire N.º	10766
 Namibe Uíge Zaire Professores	10766
 Namibe. O Conecta Angola	6585
-Namibia	159,10,67,69,13,7,77,1,109,77,55,132,186,51,3,14,1,115,87,9,1,36,154,32,89,36,6,63,188,24,51,6,16,31,1,1,2,1,1,5,1,10,2,23,50,158,5,105,124,26,98,89,5,79,14,56,104,60,7,15,163,73,99,17,41,29,6,14,16,9,48,7,48,33,14,80,45,23,38,39,8,110,77,19,77,26,49,157,50,1,62,88,7,50,169,7,46,78,19,13,8,30,26,45,5,161,7,74,79,7,74,10,4,5,22,14,21,48,5,64,99,14,132,64,65,28,143,22,2,11,78,29,58,37,76,18,75,4,2,25,1,5,7,5,2,25,2,52,3,19,8,33,1,50,22,40,50,8,2,100,11,17,62,85,57,93,17,188,50,29,34,2,50,32,80,45,55,1,14,70,23,1,134,3,1,3,158,1,1,137,58,50,16,46,118,3,127,136,1,1,54,9,182,46,76,10,77,104,16,67,123,1,79,1,120,73,1,22,137,54,94,5,75,25,32,35,25,63,45,5,21
+Namibia	159,10,67,69,13,7,77,1,109,77,55,132,186,51,3,14,1,115,87,9,1,36,154,32,89,36,6,63,188,24,51,6,16,31,1,1,2,1,1,5,1,10,2,23,50,158,5,105,124,26,98,89,5,79,14,56,104,60,7,15,163,73,99,17,41,29,6,14,16,9,48,7,48,33,14,80,45,23,38,39,8,110,77,19,77,26,49,157,50,1,62,88,7,50,169,7,46,78,19,13,8,30,26,45,5,161,7,74,79,7,74,10,4,5,22,14,21,48,5,64,99,14,132,64,65,28,143,22,2,11,78,29,58,37,76,18,75,4,2,25,1,5,7,5,2,25,2,52,3,19,8,33,1,50,22,40,50,8,2,100,11,17,62,85,57,93,17,188,50,29,34,2,50,32,80,45,55,1,14,70,23,1,134,3,1,3,158,1,1,137,58,50,16,46,118,3,127,136,1,1,54,9,182,46,76,10,77,104,16,67,123,1,79,1,120,73,1,22,137,54,94,5,75,25,32,35,25,63,45,5,21,34,16,3,2,6
 Namibia AI Readiness Assessment Methodology	5036
 Namibia Access	1025
 Namibia African	1944
@@ -488,6 +513,7 @@ Namibia Financial Institutions Supervisory Authority	3714
 Namibia Financial Institutions Supervisory Authority Act	3714
 Namibia GG	1750,97,53
 Namibia Geo Portal	9485
+Namibia H2	10840
 Namibia Household Income and Expenditure Survey	9485
 Namibia ICT Sector Market Report	1944
 Namibia Institute of Public Administration and Management	6557
@@ -682,7 +708,7 @@ Note Named-analyst	6952,1
 Nov-2024 Namibian	1981
 ORGANIZATION NAME	2709
 OVERALL RATINGS Name Current Progress	4688
-OVERALL RATINGS Name Previous Current Progress	2712,3867,349,949
+OVERALL RATINGS Name Previous Current Progress	2712,3867,349,949,2993
 Officer Table of Contents INTERPRETATION NAME TYPE	585
 Omaheke and Namibia	8250
 Operation Name Angola DPF L	10779
@@ -693,6 +719,8 @@ Oshana Oshikoto Otjozondjupa Zambezi Namibia MTC	1013
 Outcomes RESULT FRAME TBL PD O Indicator Name	1284
 Outcomes RESULT FRAME TBL PDO Indicator Name PBC Baseline	1228
 P505094 Operation Name	2291
+PBC Name Baseline Closing Period	10870
+PDO Indicators Indicator Name Definition	10829
 PII. IDCUST DAT CUST OPEN NAM FIRST NAM LAST NAM MID	3364
 PM Namibia	1977
 PM UTC Namibia	6785
@@ -718,14 +746,17 @@ Practical Tools for Sustainable Growth Namibia’s Central	3016
 President of Namibia	2626
 Project Background Name	1988
 Project Implementating Team Name and Surname Desmond	520
+Project Name Central African Republic CAR	10829
 Proposed Component Name Component	4653
 Proposed Project Location Name	1988
 Províncias de Nampula	1808
 Q-Kon Telecom Namibia	5502
 Qe7FtjalG The Namibia Cyber Security Incident	5794
 RAN Sites Telecom Namibia	1013
-RESULT FRAME TBL IO Indicator Name PBC Baseline	1284
+RE NAM ENT ENGA BOUCLE	10847
+RESULT FRAME TBL IO Indicator Name PBC Baseline	1284,9545
 RESULT FRAME TBL IO Indicator Name PBC Baseline Intermediate	1228
+RESULT FRAME TBL PD O Indicator Name PBC	10829
 ROSA NAMUTO	10751
 ROUTE Name Bearer1	736
 ROUTE Station Name Latitude Longitude	736
@@ -739,6 +770,7 @@ Region Operation ID Operation Name EASTERN	1704
 Region Operation ID Operation Name P508383	3456
 Registered Domain Names	6671
 Registered Name	4896
+Rep. Namibia Ghana Benin Kenya Togo	10819
 Republic of Namibia	318,7,700,974,1588,127,1322,1628
 Responsibility for Data Indicator Name Definition	1284
 Revised Indicator Name Baseline Actual	4653
@@ -822,8 +854,9 @@ University of Namibe	6482
 University of Namibia	5036,4837
 VAT. Telecom Namibia	1944
 VRR Namibia Nauru State Register	10714
-Viet Nam	7655,3059,50
+Viet Nam	7655,3059,50,82
 Viet Nam Tier	10764
+Viet Nam and Morocco	10846
 Việt Nam	8062
 West Kunene Omaheke Namibia	1944
 Western Cape Site Locations Site Name	8999

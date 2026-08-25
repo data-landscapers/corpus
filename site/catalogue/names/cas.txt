@@ -12,6 +12,8 @@ Abbreviations ADECOS ASP ASSN ATM CASI	10763
 Access Waje Casino Safely	3383
 Accounting System CBS Case-based Surveillance NHISSA	396
 Active. Cassava	242
+Administration CASEM	10874
+Administration du Secteur Ministériel CAST	10874
 Africa’s Space Industry Makes Its Case	8275
 Alessandra Casazza	2322
 Alexandre Castel	8816
@@ -22,6 +24,7 @@ Andy Castle and Nilesh Nawale	2677
 Angola opens graft case into would be ruling party	9399
 Anticipatory Cash Transfers	10763
 Apenas Agressão Castigo	10760
+Aratek USE CASE AND CONTEXT	10852
 Arco Cash	8732
 Ato Forson Finance Minister Dr Cassiel	7740
 Authorised CASP	8840
@@ -36,8 +39,9 @@ Better Than Cash Alliance	99,1578,1996,3923
 Better Than Cash Alliance. SSA	99
 Bn. Operating Free Cash Flow	6100
 Booklet of AI Use Cases	4126
-Boucle du Mouhoun Cascades	737
+Boucle du Mouhoun Cascades	737,10138
 Bruno Castro	2952,3598
+Budget CAST	10847
 Building Open Digital States Country Case	4675
 Building the Economic Case	5675
 Burkina CASEM Plan de Travail Annuel	2074
@@ -47,10 +51,19 @@ Business Case	235
 Business Case Strengthens When Money	9903
 Business Case for Edge Computing	6773
 CALLS CASE A POLITICAL WITCH-HUNT	10581
+CAS D’UTILISATION	10819
 CASA HERA DIANI Data Controller INST-3348788AF17	7167
 CASABLANCA	2258
 CASCADE COMPANY LIMITED Data Controller INST-748738288FD	7167
 CASCADE COMPANY LIMITED Data Processor INST-748738288FD	7167
+CASCADES	10847
+CASCADES COMOE	10847
+CASCADES COMOE Filles	10847
+CASCADES COMOE Garçons	10847
+CASCADES Filles	10847
+CASCADES Garçons	10847
+CASCADES TX Prom	10847
+CASCADES Total COMOE Public	10847
 CASCARE ANNEX MEDICAL CENTRE Data Controller	7167
 CASE STUDIES GUIDANCE	5618
 CASE STUDIES GUIDANCE AICDI	5618
@@ -59,9 +72,11 @@ CASE STUDIES GUIDANCE Disclosures	5618
 CASE STUDIES GUIDANCE Executive	5618
 CASE STUDIES GUIDANCE Governance	5618
 CASE STUDIES GUIDANCE Introduction REUTERS	5618
+CASE STUDY	10823
 CASE STUDY BANXSO	8354
 CASE YOU MISSED	2359,13,87,68,36,30,118,5,38,73,95,11,121,34,20,130,25,37,6,91,61,22,11,33,54,34,36,14,40,26,12,3,1,53,40,95,124,13,13,112,45,4,29,54,220,29,47,10,98,73,98,92,74,21,20,30,170,31,30,91,61,13,2,12,12,47,7,58,2,58,102,75,67,26,56,46,65,1,8,8,1,14,28,62,8,33,16,28,4,8,71,7,18,54,11,5,3,96,47,11,2,12,27,34,3,24,18,34,7,1,30,3,82,57,50,35,3,70,4,171,6,45,2470
-CASEM	2074,501,821,59,14,930,1092,103,4531
+CASEM	2074,501,821,59,14,930,1092,103,4531,749
+CASEM du Ministère	10874
 CASH FLOWS USED IN FINANCING ACTIVITIES	10793
 CASH Plus	2669
 CASHCOM LIMITED Data Processor INST-12696263915 NAIROBI	7167
@@ -81,6 +96,8 @@ CELESTINA SORAIA TUNGUNO CACULO CASSANGE	10751
 CEO of Cascador	9919
 CEO of Cassava Technologies	5737,1730
 CEO of Cassava Technologies SA and Botswana	6164
+CM2 Filles Garçons Total CASCADES	10847
+COMOE SUD-OUEST CAS CADE S CEN	10847
 CONTENTS FOREWORDS EXEC SUMMARY FINDINGS CASE	5618
 COVID-19 Urban Cash Intervention	10763
 CSPs Content Services Providers CT-OVC Cash	2775
@@ -96,7 +113,7 @@ Casa Parroquial	4209
 Casa da Moeda	6571
 Casa da Moeda de Portugal	4415,1,1,1
 CasaTech	6037
-Casablanca	627,1584,47,84,233,98,149,179,112,262,225,259,225,1139,45,139,339,26,311,103,323,912,308,1162,592,653
+Casablanca	627,1584,47,84,233,98,149,179,112,262,225,259,225,1139,45,139,339,26,311,103,323,912,308,1162,592,653,685
 Casablanca Commuter Rail Line	4769,394,334,86
 Casablanca Investors Roundtable	5268
 Casablanca LBC	5592
@@ -112,8 +129,11 @@ Casamance	5207,572
 Casamance. Une	4899
 Casanearshore	168,2945
 Cascade	6423
-Cascades	737,6090
+Cascades	737,6090,4031,6,11
+Cascades Boromo Centre Mouhoun Fara	10875
 Cascades Centre	737
+Cascades Comoé	10847
+Cascades Urbain	10875
 Cascading	10147
 Cascading Style Sheet CST Communication Service	236
 Cascador	6368,647,2904
@@ -136,9 +156,9 @@ Case Management System New Digital Platform	6806
 Case Management System PSC Project Steering	1867
 Case Of Kikuyu Constituency	899
 Case Selection Logic and Scope Cases	7966
-Case Studies	1250,3313,2384,1,203
+Case Studies	1250,3313,2384,1,203,3701
 Case Studies and Precedents	3861
-Case Study	797,230,1084,312,962,1463,396,899,1564,1149
+Case Study	797,230,1084,312,962,1463,396,899,1564,1149,1963
 Case Study Analysis Report	7151
 Case Study Companion	2858
 Case Study Financial	10719
@@ -146,6 +166,7 @@ Case Study of Fiji	5349
 Case Study of Hwange Power Plant Power	1154
 Case Study of Langata and Westlands Constituencies	899
 Case Study of Mozambique	2816
+Case Study of Orange Senegal and Uganda	10822
 Case Study of South Africa	6948
 Case Vignette	7966
 Case des Tout-Petits	8269,862
@@ -293,6 +314,7 @@ Cassava’s GPUs and Kasi’s AI	6580
 Casseques	5721
 Cassidy	3782
 Cassius Lubisi	5533
+Cassou	10875
 Castanou	6764
 Casteel	9129
 Castek Cloud Limited	3862
@@ -332,11 +354,12 @@ Co-Founder and Executive Chairman of Cassava Technologies	1636
 Commissioner Carlos Castresana Fernández	3584
 Country Case Studies	4430,245
 Country Cases Show	4430
-Cour de Cassation	1231,2165
+Cour de Cassation	1231,2165,7429
 Court Cases	9992
 Court of Cassation	39,10035
 Curious Case of Media Opposing Government	7471
 Curious Case of Media Opposing Government&nbsp	7471
+DAF. IV.1.4.3.2 Cas	10876
 DATA USE CASE FOR VALUE CREATiON	961
 DFC and Cassava. IFC	1429
 DFC and Google. Cassava	1469
@@ -349,6 +372,7 @@ Description Cassava Technologies	2607
 Description UNCDF Better Than Cash Alliance	213
 Digital Cash Transfer Delivery World Bank	971
 Digital Cash Transfers	2177
+Digital Identity. Use Case Discussion. Presented	10819
 Digital Transformation Case Study World	1278
 Digital Transformation Case Study.pdf	1278
 Digital Use Cases	723,137,608
@@ -357,6 +381,7 @@ Dr. Cassiel Ato Forson	7302
 EN SIIPS Casestudy Pesalink.pdf	797
 East Castle	3862
 Ebola Cases	10025
+Ecoles NB Salles Total CASCADES	10847
 Electronic Case Management System	958,5848
 Electronic Case Management System EMF	958
 Emergency Response Room GCT Group Cash	6947
@@ -364,6 +389,7 @@ Entout Cas	5022
 Erik De Castro	5618
 Establish AI Use Case	7548
 Estudo de Caso	10775
+Etat. IV.1.1.8.5 Cas	10876
 Extraction and Coding Process Case	7151
 FCFA du CAS	3396
 Farming and Justice Use Cases Twenty-six	9944
@@ -378,6 +404,7 @@ GCTs. Group Cash Transfers	6947
 Geegpay and Chipper Cash	2777
 Ghana.gov. Cashless	10419
 GovTech Case Studies	994
+Government’s Investment Case	10829
 Government’s Social Cash Transfer	8513
 Group CEO of Cassava	1820
 Group CEO of Cassava Technologies	3947
@@ -398,6 +425,7 @@ IFC. Cassava	1429
 IMPLEMENTATION OF NATIONAL INTEROPERABILITY USE CASES	1009
 IRR. Cash	3604
 IRR. Cashflows	6539
+IV.1.4.3.2 Cas	10876
 Implementation Outline and Technical Use Cases	1009
 Implementation of Cash Transfers	10768
 Implementation of National Interoperability Use Cases	1009
@@ -413,6 +441,9 @@ Integrated Legal Case Management System	6946
 Interoperability Emerging Technologies and Special Use Cases	5665
 Interoperability Use Cases	1009
 Interpretive Case Studies	5349
+Investment Case	10829
+Investment Case and NHDP III. Core	10829
+Investment Case. Analytical	10829
 Iran Cash and Interestcash	10793
 Italian Case	5349,351
 Javier Diaz Cassou	7655
@@ -497,6 +528,7 @@ Priority Use Cases	3150
 Prosecution of Murder Cases	2775
 Quarterly Case-by-case	6432
 REMEDIES IN CASE OF UNAUTHORISED DONATIONS	3714
+RIB A LERAB A CASCADES	10847
 RWA. Cassava-Nvidia	6603
 Rabat-Salé-Kénitra and Casablanca-Settat	557
 Rashad Cassim	6672,1992
@@ -511,7 +543,11 @@ Responsibility for Data Collection FAS-IDL Cash	10768
 Responsibility for Data FAS-IDL Collection Cash	10768
 Revenue Utility Billing and Accounts Receivable Cashiering	9437
 Rm Restatement Rm Restated Rm CASH	10793
+Rodrigue Castro Gbedomon	10852
 Rogers Capital Les Cascades Data Center	3292
+Région CASCADES	10847
+SMART AFRICA USE CASE	10819
+SOUROU TOUGAN CASCADES BANFORA COMOE BANFORA	10847
 ST Digital and Cassava	6580
 Sectoral Adoption and Use Cases	4528
 Smart4U’ Bundle Integrated Electronic Case Management	2987,16,13,949,1438,159,1347
@@ -543,9 +579,12 @@ Transfer GCT TWG Group Cash Transfer	6947
 UMTS. Caso	15,10732
 UNCDF Better Than Cash Alliance	213
 UPPER CASE	7850
+USE CASE AND CONTEXT	10852
+USE CASE AND CONTEXT The Ethiopian	10852
 USE CASE CONSTRAINT BASED ON NATIONAL	1009
 Uma Revisão Sistemática da Literatura de Estudos de Caso	2816
 Under the National Case Management System	8978
+Urbain Rural Ensemble Cascades Centre	10875
 Use Case	7548
 Use Case Incubator	4126
 Use Case Prioritization Framework	3731
@@ -553,7 +592,8 @@ Use Case Workshop	3969
 Use Case for African Counterparts	3796
 Use Case. Business Instances	1009
 Use Case. Several Business Instances	1009
-Use Cases	3859,4343
+Use Cases	3859,4343,2617
+Use Cases Proposed Use Cases for Pilot	10819
 Use Cases S	10617
 Use Cases of PeaceTech	8201,1
 Uses Cassava	6667

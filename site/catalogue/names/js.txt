@@ -1,4 +1,5 @@
 COO of Lesaka’s Merchant Division. JSE-listed	10393
+Dublin Core JSON Multiline CSV Simple	10878
 Infrastructure Library JSON JavaScript Object Notation	6432
 Internet Service Providers JSI Joint Statement	1243
 Investment. JSIS University of Washington	4676
@@ -25,6 +26,7 @@ JSON Schema	6423
 JSON and CSV	9480
 JSON-LD	6261,1791
 JSON. Choose	3972
+JSON.parse	10848
 JSONdata	8606
 JSONstructure	8606
 JSR Launch Log	6467

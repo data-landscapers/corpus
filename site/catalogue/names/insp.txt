@@ -38,6 +38,7 @@ Fiscal Inspector General	4209
 Fiscal Inspector General Servicio	4209
 G Inspector Grupo G Jefe Servicio	4209
 GRAL GRAL INSPEC.GRAL. INSPEC.GRAL. INSPEC.GRAL	4209
+General Health Inspection	10829
 General Inspectorate	4260
 General Inspectorate of Finance	969,2635
 Gisagara Districts. Inspections	718
@@ -103,17 +104,17 @@ Inspección	163
 Inspecctor General Servicios Servicio	4209
 Inspect	6423,2257
 Inspected Studios	6946
-Inspecteur	2966,78,1545,1318,982,781,564,3,32,52,1544,536
+Inspecteur	2966,78,1545,1318,982,781,564,3,32,52,1544,536,446
 Inspecteur Général des Services	3191
 Inspecteur des Affaires	8269
 Inspecteur des Finances	8269
 Inspecteur des Impôts	8269
-Inspection	3,733,2978,455,791,118,39,6,784,483,967,880,32,1586,269,277
+Inspection	3,733,2978,455,791,118,39,6,784,483,967,880,32,1586,269,277,475
 Inspection Generale	8651,1473
 Inspection Générale	557,8193,1374
 Inspection Générale des Finances	969,2635,374,3645,1127
 Inspection Générale des Finances- IGF	969
-Inspection Panel	1264,20,583,1022,715,2935,4229
+Inspection Panel	1264,20,583,1022,715,2935,4229,61
 Inspection and Evaluation	7538
 Inspection and Follow-Up Department	3310
 Inspection and Supervision	9855
@@ -161,7 +162,7 @@ Inspecção de Dados	167
 Inspecções	3519
 Inspeção Judicial	2054
 Inspirado	8760
-Inspired	3006,1077,277,1210,3794
+Inspired	3006,1077,277,1210,3794,1477
 Inspired Evolution Evolution II Fund	704,1
 Inspiring50	5551
 Inspiré	2951,2478
@@ -184,6 +185,7 @@ MARINA E INSPECCIONES TERESTRE REGIONAL	4209
 Metro Inspection Services	6683
 Ministerio Inspector Regional Ministerio Juez Distrito	4209
 Modern Security and Food Inspection	2837,989,15,690,99,50,66,65,38,415,53,275,183,129,44,409,340
+NIC. Inspired	10822
 Number of Radio Communication Installations Inspected	6946
 PART VIII INSPECTORATE	2727
 PE INDUSTRIA INSPECCION ANUAL INDUSTRIA INFORMACIÓN	4209
@@ -212,5 +214,6 @@ Tercera Brigada Jefe Inspector	4209
 Togo Koffi KOUGBLENOU Inspecteur Central du Tésor	10708
 USAID. USAID Office of Inspector General Follow-Up	3583
 Vehicle Inspection Department	8639,755,3
+World Bank Inspection Panel	10829
 XAF Inspector General Servicios Servicio	4209
 ZEMA Inspector	1988

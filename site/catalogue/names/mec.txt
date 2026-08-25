@@ -1,6 +1,6 @@
 ACHPR Administrative and Technical Special Mechanisms	8485
 ANSUT Accountability Mechanism National Cybersecurity Agency	3604
-ANTI-CORRUPTION Anti-Corruption Mechanisms	10759
+ANTI-CORRUPTION Anti-Corruption Mechanisms	10759,78
 APPLICABILITY OF DISPUTE SETTLEMENT MECHANISM	1243
 Access Mechanisms	3972
 Accountability Mechanism	1264,20,583,1022,715,2935,4229
@@ -14,7 +14,8 @@ African Pooled Procurement Mechanism. Backfill	5141
 African Union Mechanism for Police Cooperation	961
 African-Led Financing Mechanisms	7921
 Alternative Transfer Mechanisms	3861
-Anti-Corruption Mechanisms	10759
+Anti-Corruption Mechanisms	10759,76,2,1
+Anti-Corruption Mechanisms Absence of Corruption	10837
 Appeals and Review Mechanisms	9855
 Authentication Mechanism	10721
 Authentication Mechanism Information	10721
@@ -115,13 +116,14 @@ Mechanics Econet Global Limited	4896
 Mechanics of Trading	4896
 Mechanisation Drive Boosts Agricultural Production	8639
 Mechanisation and Irrigation Development	940
-Mechanism	3583,3345,1094
+Mechanism	3583,3345,1094,2797
 Mechanism APL Adaptable Program Loan AReg4DT	1264
 Mechanism Agriculture	7020
 Mechanism DTS Digital Transformation Strategy E-Commerce	1243
+Mechanism HeRAMS Health Resources Availability Mapping	10829
 Mechanism Seychelles National Launch	7020
 Mechanism USAID	404
-Mechanisms	961,303,550,1059,85,625,278,1488,328,755,1116,2307
+Mechanisms	961,303,550,1059,85,625,278,1488,328,755,1116,2307,986,3
 Mechanisms Absence of Corruption	10759
 Mechanisms Zimbabwe’s AI	4528
 Mechanized	3583

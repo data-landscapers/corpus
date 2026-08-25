@@ -1,5 +1,6 @@
 Ahmed MH	3791
 Ahmed MH. Utilisation	3791
+America Tegucigalpa Middle EGDI MH	10840
 Antenne MHz	998
 CSD Minimum Interoperability Standard MHD Multi-Patient	1009
 Channel Spacing MHz Bandwidth	736
@@ -25,6 +26,7 @@ MHE Computerisation	2653
 MHPSS	10782
 MHRA guidan	3651
 MHTEISTD	1154
+MHUAT	10858
 MHz Access Networks	736
 MHz Aids	736
 MHz Band	6946
@@ -118,6 +120,7 @@ Mhona	9394,1108
 Mhosisi Masocha	520
 Mhoudini Yahaya Mode	1996,2390
 Mhubhe High School	3331
+Middle EGDI MH	10840
 Muzi Mhlongo	4743
 Ninampongeza Mheshimiwa Dkt. Philip Isdor Mpango	2868
 Niwapongeze Mheshimiwa Kassim Majaliwa Majaliwa	2868
@@ -135,3 +138,4 @@ Tx MHz Base Station Tx MHz	736
 UK MHRA	3651
 Ulaya Mhe. Jestas Nyamanga	7935
 Um Mhm	7065
+Zagreb Middle EGDI MH	10840

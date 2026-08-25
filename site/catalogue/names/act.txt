@@ -1,6 +1,19 @@
 A.219 CYBERSECURITY ACT	3887
+A1.2.1.1 A1.2.1.2 Action	10858
+A1.2.4.1 A1.2.4.2 A1.2.4.3 Action	10858
 A2 Certificado de Actualización PE Libreta	4209
+A2.1.1.2 A2.1.1.3 A2.1.1.4 A2.1.1.5 Action	10858
+A2.1.2.1 A2.1.2.3 A2.1.2.5 Action	10858
+A2.2.1.2 A2.2.1.3 Action	10858
+A2.2.2.3 A2.2.2.4 A2.2.2.5 A2.2.2.6 Action	10858
+A2.2.3.1 A2.2.3.2 A2.2.3.3 OS2.3 Action	10858
+A2.3.1.9.NA Action	10858
 A3 Certificado de Actualización PE	4209
+A3.1.2.16.N A Action	10858
+A3.2.4.23.N A Action	10858
+A3.3.1.1 A3.3.1.2 A3.3.1.3 Action	10858
+A3.4.1.2 A3.4.1.3 Action	10858
+A3.4.2.1 A3.4.2.2 A3.4.2.3.N A Action	10858
 ACENTRIA ACTUARIAL	7167
 ACESSO E CONDIÇÕES GERAIS DA ACTIVIDADE	10755
 ACT FOR THE PROTECTION	1333
@@ -12,6 +25,8 @@ ACT SUPPLEMENT To The Special Gazette	6921
 ACT Supplementary Submission	4732
 ACT of Parliament	7832
 ACTED ENGINEERING LIMITED Data Processor INST-47669101004	7167
+ACTEURS IMPLIQUES DANS LA COLLECTE DES	10876
+ACTEURS PRMP	10876
 ACTIA	9044
 ACTIA Par	9044
 ACTIC	743,1200,651
@@ -44,6 +59,7 @@ ACTIONPHYSIO CLINIC Data Controller INST-153064874DF NAIROBI	7167
 ACTIONS	1000,1966
 ACTIS KENYA LIMITED Data Controller INST-77663774D71	7167
 ACTIVIDADES DESENVOLVIDAS NOS SECTORES PRIVADO	2816
+ACTIVITES DES UNITES ECONOMIQUES	10875
 ACTIVITES PHARES REALISEES EN	998
 ACTIVITES REALISEES	998
 ACTIVITIES	8840
@@ -86,6 +102,7 @@ ACTUALITÉ.CD Malgré	6390
 ACTUALITÉS	4886,549
 ACTUALITé SOUS-CATÉGORIE	1297
 ACTUARIAL SERVICES EAST AFRICA LIMITED Data	7167
+ACTUEL BON BON BON II-	10821
 ACTUSEN	2056
 ACTUSEN and Digital Business Africa	1555
 ACTiONS	961
@@ -139,7 +156,7 @@ Act CAP	1988
 Act Cap	3005
 Act EPRA Energy and Petroleum Regulatory Authority	7548
 Act Ensure	1630
-Act No	22,761,185,4,37,16,449,119,307,88,84,565,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,72,1,924,63,386,289,1,1,1,1,333,807,70,269,640,379,16,371,52,426,72,22,990
+Act No	22,761,185,4,37,16,449,119,307,88,84,565,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,72,1,924,63,386,289,1,1,1,1,333,807,70,269,640,379,16,371,52,426,72,22,990,2001
 Act No. Short Title Page	1220
 Act No.1	3714
 Act No.2	3714
@@ -246,15 +263,27 @@ Actas Pleno Parlamento Administrador Grupo	4209
 Acte Additionnel	10712
 Actes	3590,1222,2901,87,209,1717
 Acteur	1272,5123
-Acteur Rôle	8525
+Acteur Centrale	10876
+Acteur PRMP	10876
+Acteur Rôle	8525,2351
+Acteur Rôle PRMP Pilote	10876
 Acteur Stratégie	1984
-Acteurs	1187,4959,813,1040,2486
+Acteurs	1187,4959,813,1040,2486,351,38,2
+Acteurs Rôle PRMP Coordonne	10876
+Acteurs Tâches Délai	10876
+Acteurs Tâches Délai Commission	10876
+Acteurs Tâches Délai PRMP Lance	10876
+Acteurs Tâches Délai PRMP Notifie	10876
+Acteurs Tâches Délai PRMP Transmet la DP	10876
+Acteurs Tâches Délai Service	10876
+Acteurs Tâches Délai Service Suit	10876
+Acteurs de République de Centrafrique	10880
 Actic	5669,3208
 Actic Academy. Ce	8877
 Actifs	737,3683,2463
 Actifs Financiers	4420
 Actifs Non Financiers	4420
-Acting	1554,275,2522,177,1297,1082,914,985,1675,282
+Acting	1554,275,2522,177,1297,1082,914,985,1675,282,102
 Acting Accountant General	8723
 Acting Airtel Money Kenya	8728
 Acting Assistant Director for Projects and Quality Assurance	9152
@@ -311,18 +340,23 @@ Acting Undersecretary	8923,665
 Acting Undersecretary of Finance	9588
 Acting World Bank Country Representative Oyewole	2604
 Acting World Bank Regional Integration Director	5400
-Action	252,215,176,146,49,7,125,30,131,87,10,217,3,3,1,2,3,97,76,148,24,186,160,584,157,77,415,15,187,204,4,19,317,34,235,155,615,114,1184,328,144,102,1,103,454,45,29,31,17,140,646,495,23,226,151,1315
+Action	252,215,176,146,49,7,125,30,131,87,10,217,3,3,1,2,3,97,76,148,24,186,160,584,157,77,415,15,187,204,4,19,317,34,235,155,615,114,1184,328,144,102,1,103,454,45,29,31,17,140,646,495,23,226,151,1315,115,29,11,5,2
 Action Accountability	6936
 Action Activité Article Paragraphe Ces	3396
 Action Africa	7334
 Action Africa-Europe Digital Regulators Partnership	1456
 Action Agricultural	789
 Action Aid Togo	1679
+Action Amélioration	10858
 Action Canada Fellow	4429
 Action Center	10763
 Action Contre le Blanchiment	4127
+Action Description Develop	10870
+Action Description Ensure	10870
+Action Description Establish	10870
 Action Develop	958
 Action Documents	970
+Action Environnemental PARC Plan	10876
 Action Gouvernementale	8237
 Action Gouvernementale du Secrétariat Général	10712
 Action Group Against Money Laundering	4127
@@ -336,7 +370,7 @@ Action Needed Responsi	6432
 Action OVERVIEW OF KEY THEMATIC FOCUS	6936
 Action Party Timeline	395
 Action Party Timeline Page	395
-Action Plan	789,172,39,228,36,513,1,36,174,638,1500,457,621,41,29,1695,2053,1754
+Action Plan	789,172,39,228,36,513,1,36,174,638,1500,457,621,41,29,1695,2053,1754,80,5
 Action Plan ESMS Environmental and Social Management	1818
 Action Plan NCPB National Cereals and Produce	2775
 Action Plan Review	9022
@@ -344,9 +378,11 @@ Action Plan for Rare Diseases	10188
 Action Plan for Spectrum Management	5245
 Action Points for Policy Implementation References	4848
 Action Prioritaire ONG	737
+Action Program	10856
 Action Proportion	789
 Action Proposed Component Name No Change	1228
 Action Proposed Component Proposed Cost	1284
+Action Renforcement	10858
 Action Required	4896
 Action Revised Revised Revised No Change	4653
 Action SA	7532
@@ -356,12 +392,14 @@ Action Sectoriel	5374
 Action Securing Trust In Ghana	6936
 Action Securing Trust In Ghanda	6936
 Action Seidu	9419
+Action Sociale	10812
 Action Taken	1778,997
 Action Task Force FTTH Fibre	1818
 Action The Secretariat	7039
 Action US	395
 Action White Paper Synthesis Team	6936
-Action du Gouvernement	8237
+Action de Réinstallation	10821,55
+Action du Gouvernement	8237,2618,1,20
 Action du Système National	1281
 Action for Development	9450
 Action for Sustainability Initiative	7167
@@ -372,8 +410,9 @@ ActionAid Zambia	8513
 Actionable Frameworks for Regulation and Innovation	4848
 Actionable Steps Forward	5042
 Actionnariat	2342
-Actions	789,211,218,220,27,312,37,14,160,1001,362,45,465,266,79,361,2379,13,2447,366
+Actions	789,211,218,220,27,312,37,14,160,1001,362,45,465,266,79,361,2379,13,2447,366,1086,16
 Actions Connected	3604
+Actions Le PS	10874
 Actions National	3604
 Actions Required	4896
 Actions Short-Term	1777
@@ -430,9 +469,10 @@ Actividades de UNICEF	4209
 Activist Kananelo Boloetse	3183
 Activists	2518,339,3026,94,1661,1277
 Activists Flag Security Concerns By Tetee	6166
-Activities	10,144,131,118,15,126,38,207,172,9,202,92,20,96,413,3,28,43,31,90,177,126,484,114,100,217,3,395,563,35,15,43,41,48,304,120,474,793,499,408,140,73,3604
+Activities	10,144,131,118,15,126,38,207,172,9,202,92,20,96,413,3,28,43,31,90,177,126,484,114,100,217,3,395,563,35,15,43,41,48,304,120,474,793,499,408,140,73,3604,65
 Activities Conducted	10776
 Activities Development	1131
+Activities MSF Doctors	10829
 Activities Undertaken	7548
 Activity	85,151,13,268,1,196,11,172,162,68,1,17,2,137,170,73,11,1,677,512,47,829,53,335,980,1707,1370,473,68,1182
 Activity Brief	8546
@@ -449,11 +489,11 @@ Activity Risk	1988
 Activity Target Audi- Focus Areas	6946
 Activity1	2775
 ActivityPreview.do	246,92
-Activité	2342,3804,2745
+Activité	2342,3804,2745,1984,1
 Activité de Raffinage	3045
 Activité du CESE	8891
-Activités	765,418,2492,432
-Activités Génératrices de Revenus	1005,5822
+Activités	765,418,2492,432,6749,19,1
+Activités Génératrices de Revenus	1005,5822,4042
 Activités Membres	9890
 Activités Pas	1005
 Activités Phares	998
@@ -476,14 +516,16 @@ Actor and Jurisdictional Scope	7548
 Actor and Transaction	1009
 Actor-network	7966
 Actores	1701,3962
-Actors	6423,9,2202,982,865,248
+Actors	6423,9,2202,982,865,248,90
 Actos	167
 Actos Complementares	4274
 Actos Jurídicos	4209
 Acts COMMENCEMENT	1233
 Acts PART II	3887
+Acts Year Year URL	10812
+Acts Year Year URL Civil	10812
 Acts and Frameworks. The Authority	7452
-Acts of Parliament	4597
+Acts of Parliament	4597,6225
 Actto BIPA	3714
 Actu Cameroun	4269
 Actu Nation Cyber-menaces	9925
@@ -494,7 +536,7 @@ ActuNiger Dans	5959
 ActuNiger L’Autorité	3551
 ActuNiger L’hôtel Radisson Blu de Niamey	4657
 ActuNon	9925
-Actual	34,173,266,681,834,369,355,63,41,1837,486,516,924,349,949,253,869,438,1281,59,2,14
+Actual	34,173,266,681,834,369,355,63,41,1837,486,516,924,349,949,253,869,438,1281,59,2,14,77
 Actual Actual Prior	10793
 Actual Approval	7877
 Actual Committee Meetings Held	1154
@@ -503,12 +545,15 @@ Actual Current Year Approved Actual Exec	6422
 Actual Current Year Sub-total	6422
 Actual Estimate Estimate Estimate DESCRIPTION Actual	6422
 Actual Estimate Var	6422
-Actual Expenditure	1672,1,964,1,1,1,1,1,1,1,1,1,1,1,4,1,1
+Actual Expenditure	1672,1,964,1,1,1,1,1,1,1,1,1,1,1,4,1,1,8216
 Actual Forecast	236
 Actual Meetings Held	1154
 Actual PBA	579
+Actual Total Personnel Expenditure	10870
 Actual-stage	1732,2
 Actualisation	10712
+Actualisation des Données Cadastrales	10876
+Actualisation des Données Cadastrales MTGES Manuel Technique	10876
 Actualiser	3356,5535
 Actualite.cd	6390,2294
 Actualité	1287,4758,914,1428,331,902,95,563,101
@@ -542,7 +587,7 @@ Actualité Société Facebook X Pinterest WhatsApp	9620
 Actualité Tchad	9620
 ActualitéDernières	6420
 ActualitéPolitique	8718
-Actualités	2534,183,479,479,925,295,1184,2218,16,405,607,240,708
+Actualités	2534,183,479,479,925,295,1184,2218,16,405,607,240,708,607
 Actualités Culture Locarno	8755
 Actualités Le Sénégal	8755
 Actualités Numérique L'IA	8755
@@ -586,7 +631,7 @@ Africa Act	1009
 Africa Actually Stands	6410
 African Action Congress	8849
 African Actors of Data Center Association	10077
-African Growth and Opportunity Act	2775
+African Growth and Opportunity Act	2775,8066
 Africa’s Data Actually Being	6186
 Agency Act No	2727
 Agency Implementing Agency Action No Change	1228
@@ -682,6 +727,7 @@ Basic Education Act No	899
 Belém Gender Action Plan	8891
 Benchmarking SMEs Banking Activity	1828
 Benchmarking SMEs Banking Activity1 In the Republic	1828
+Benin Government Action Plan	10856
 Benin's National Development Plan and Government Action	2334
 Beyond the Payment Systems Act	3964
 Big Beautiful Bill Act	4447
@@ -689,7 +735,8 @@ Big Information Act	9128
 Bill and Act	1474,71,1
 Birth Registration Simplification Act	10765,10
 Birth and Death Registration Act CAP	1867
-Births and Deaths Registration Act	1,1008,4290,234
+Birth and Deaths Registration Act CAP	10822
+Births and Deaths Registration Act	1,1008,4290,234,5289
 Births and Deaths Registration Act. Regulations	8280
 Blind Act	8022
 Blueprint Action Plan	635
@@ -699,6 +746,7 @@ Border Management Authority Act	5533
 Borrowers and Lenders Act	6940
 Botswana's Data Protection Act	7438
 Botswana's Data Protection Act No	2265
+Branches Effectif Pourcentage Activités	10875
 Broad-Based Black Economic Empowerment Act	4242,2649
 Broadcasting Act	8130
 Broadcasting Services Act	10072
@@ -734,6 +782,7 @@ CLOUD Act	4676,416,210,948,171,50,46,4,59,891,1433
 CLOUD Act-bound	5302
 CLOUD Act-bound AI	5302
 CMCA Computer Misuse and Cybercrimes Act COTS	6432
+CNSS Activités	10875
 COBE Act	4896
 COMMISSION FOR AIDS ACT	6921
 COMPETITION ACT	6921
@@ -744,8 +793,10 @@ CONSERVATION ACT	6921
 CONTROL ACT	6921
 COORDINATE AND REGULATE SPACE-RELATED ACTIVITIES	1131
 COVID-19. Activities	6003
+CPA Complementary Package of Activities CPF Country	10829
 CRI Date Actual	6928
 CRVS Act	1357
+CT. Action	10858
 CUOTA A1 ACTIVIDAD	4209
 CUOTA ANUAL ACTUAL	4209
 CUOTA ANUAL ACTUAL CUOTA ANUAL	4209
@@ -962,6 +1013,9 @@ DES ACTIVITES POSTALES	37
 DETAILED DESCRIPTION OF ANY ACTION	2709
 DETAILED PRESCRIPTION OF ANY ACTIONS	2709
 DGAENF Horaires Activités Présentateurs Jour	2966
+DGI Action	10858
+DGI Codes Action	10858
+DGI la DGI Action Renforcement	10858
 DIRECTION DES ACTIVITES POSTALES	998
 DPDP Act	7981
 DPDP Act Jul	6499,44,465
@@ -976,10 +1030,10 @@ Data Harmonisation Act	8363,185
 Data Harmonization Act	3384
 Data Markets Act	8436
 Data Privacy and Protection Act	10202
-Data Protection Act	3,24,560,5,207,43,116,38,80,124,133,18,25,254,12,10,85,5,74,293,254,305,41,18,146,311,108,68,222,96,32,48,129,43,34,63,45,82,18,51,159,146,55,7,2,61,104,6,10,17,10,10,75,102,213,15,4,102,42,93,7,24,63,76,167,148,65,154,21,52,33,12,3,151,34,54,19,53,16,184,28,13,103,4,11,23,247,31,112,1,182,1,35,50,78,121,195,51,30,10,18,42,83,515,18,123,32,21,11,223,424,8,10,209,85,29,64,124,11,112,58,113,15,51,54,23,3,32
+Data Protection Act	3,24,560,5,207,43,116,38,80,124,133,18,25,254,12,10,85,5,74,293,254,305,41,18,146,311,108,68,222,96,32,48,129,43,34,63,45,82,18,51,159,146,55,7,2,61,104,6,10,17,10,10,75,102,213,15,4,102,42,93,7,24,63,76,167,148,65,154,21,52,33,12,3,151,34,54,19,53,16,184,28,13,103,4,11,23,247,31,112,1,182,1,35,50,78,121,195,51,30,10,18,42,83,515,18,123,32,21,11,223,424,8,10,209,85,29,64,124,11,112,58,113,15,51,54,23,3,32,193,39
 Data Protection Act DSM Dispute Settlement	1243
 Data Protection Act Entities CAC GSCPs	6432
-Data Protection Act No	1630,635,4555,618,670,405,1091
+Data Protection Act No	1630,635,4555,618,670,405,1091,1218
 Data Protection Act and Digital Health Act	5550
 Data Protection Act. All	8479
 Data Protection Act. B. Right	1630
@@ -993,7 +1047,7 @@ Data Protection Act. PART II	3887
 Data Protection Act. The Act	1630
 Data Protection Acts	7221
 Data Protection Authority. The Act	958
-Data Protection and Privacy Act	3087,220,316,612,348,530,107,24,359,452,479,415,3467
+Data Protection and Privacy Act	3087,220,316,612,348,530,107,24,359,452,479,415,3467,406
 Data Protection and Privacy Act CAP	4167,50
 Data Protection and Privacy Act Cap	3312
 Data Protection and Privacy Act. Counsel	3005
@@ -1005,6 +1059,7 @@ Data Use and Access Act	5363
 Date Actual	6579,349
 Date Consultatio Action	1988
 Deal Activity Deal Value Shows Early	4972
+Decade of Action for Sustainable Development	10840
 December. The Act	1737
 Declaration and Denarau Action Plan	940
 Decrease of Port-Out Activities	3862
@@ -1071,7 +1126,7 @@ EAC Competition Act	961
 EACC and Action Taken	2775
 ECOWAS Act	1243,1213
 ECOWAS Data Protection Act	2456
-ECOWAS Supplementary Act	961,200,82,1765,2236,1693,515
+ECOWAS Supplementary Act	961,200,82,1765,2236,1693,515,3367
 ECOWAS Supplementary Data Protection Act	4583
 ECT Act	34
 EDUCATION AND TRAINING ACT	6921
@@ -1226,9 +1281,11 @@ FAITS MARQUANTS Actionnariat	2342
 FAITS MARQUANTS REPARTITION DU CAPITAL Actionnariat	2342
 FCCP Act	7181
 FIC Act	4633,3721,486
+FM Action Plan	10829
 FM Action Plan G. Procurement	2889
-FM Action Plan Issue Remedial Action	3604
+FM Action Plan Issue Remedial Action	3604,7225
 FM Activity Table A1.2	3604
+FM Implementation Support Plan FM Activity	10829
 FOI Act	5244
 FOSA Front Office Service Activity FP	2775
 FSCA REGULATORY ACTIONS REPORT	8354
@@ -1240,6 +1297,7 @@ Fact-checking TousVérification Actualité Côte	9620
 Factories Act	1988
 Fair Administrative Action Act	2709
 Fair Administrative Actions Act	2709
+Fayda System. Procurement Activities	10839
 Fecundidade Actual	10777
 Federal Competition and Consumer Protection Act	3538,3643,288,91,216,872
 Films and Publications Amendment Act	2117
@@ -1344,6 +1402,7 @@ Governance Act ODPC	7548
 Government Act	798,6750
 Government Action Fair	6606
 Government Action Plan	10775
+Government Action Programme	10856
 Government Affirmative Action Fund	2775
 Government Affirmative Action Fund NFM	2775
 Government Finance Act	6921
@@ -1354,6 +1413,7 @@ Grandes Actos da Academia de Ciências Policiais	7736
 Great American AI Act	8788
 Green Economy and Climate Change Act	5247,4146
 Gross Domestic Product Financial and Insurance Activities	2775
+Growth and Opportunity Act ANATS Chad National	10841
 Guidelines Actor Requirements	6432
 HACIENDA CMF A2 HACIENDA CMF ACTUAL	4209
 HACIENDA CMF ACTUAL B2 HACIENDA CMF	4209
@@ -1362,6 +1422,7 @@ HACIENDA CMF HACIENDA CMF ACTUAL ACTUAL	4209
 HCP. Activité	8891
 HEALTH INSURANCE ACT	6921
 HOL Acting Somali	6788
+Handicap Action Solidaire de Centrafrique	10826
 Harare ACT An Act	972
 Hazardous Substances Act	3651
 Health Act	5456,4399
@@ -1371,6 +1432,7 @@ Health Research for Action	1261
 Higher Education Act	7845
 Higher Education Bursaries and Scholarships Act	1867
 Home Affairs Act	5533
+Homme Femme Homme Femme Activités	10875
 Honors Actor... German Electronics Giant DELTEC	7322
 Honour the Acting President	1222
 Horaires Activités Présentateurs Jour	2966
@@ -1398,6 +1460,7 @@ INCLUSIVE REGISTRATION REGIME The Act	9670
 INCREMENTO DE ACTIVOS FINANCIEROS	4209
 INDUSTRIA ACTUAL INDUSTRIA	4209
 INDUSTRIA INSPECCION ANUAL ACTUAL	4209
+INSD Action	10874
 INSPECCION ANUAL INDUSTRIA Certificado de Actualización PE	4209
 INSULAR Y CONTINENTAL CATEGORIA ACTIVIDAD CUOTA	4209
 INTER Actualité	9620
@@ -1407,6 +1470,8 @@ ISA Investments and Securities Act	8590
 ISIC Codes Activity	236
 IV- STRATEGIES ET ACTIONS	12
 IV. STRATEGIES ET ACTIONS Pour	12
+IV.1.1.9 Discipline IV.1.1.9.1 Actes	10876
+IV.1.1.9.1 Actes	10876
 IVOIRE Plan d Actions National pour l	3604
 Icasa Act	2937
 Identification Act	1939,3594,539,52,263,125
@@ -1421,14 +1486,16 @@ Immigration and Deportation Act	1867,121
 Immigration and Deportation Act No	1988
 Implementation Action Plan	3678
 Implementation National Action Plan Implementation Framework	21
+Implementing Acts	10819
 Import Control Act	6921
 Income Tax Act	573,2452,3127,1693,2178,41
 Income Tax Act. Tanzania	10388
 Income Tax Act. This Suggested Approach	3161
 Independent Communications Authority of South Africa Act	5872,1956
-Independent Electoral and Boundaries Commission Act	1630
+Independent Electoral and Boundaries Commission Act	1630,9192
 India AI Action Summit	5044
 India Actually Got Right	8206
+Indicator Name Baseline Actual	10870
 Indicators Activities Corrective Action Deviation	5245
 Industrial Development Corporation Act	7785
 Industrial Policy Action Plan	7785
@@ -1486,7 +1553,7 @@ Jur River Activist	3212,2216,578
 KDF Act	6432
 KECOBO. The Anti-Counterfeit Act	10041
 KENYA INFORMATION AND COMMUNICATIONS ACT	9335
-KEY DATES Key Events Planned Actual	2712,1976
+KEY DATES Key Events Planned Actual	2712,1976,6182
 KICA Act	6946
 KICA Kenya Information and Communications Act KNBS	6946
 KICA and Children Act	6946
@@ -1497,6 +1564,7 @@ KSG Act No	4592
 KSG Act No.9	4592
 Kalumbila Town Council. The Act	1988
 Kasi Cloud Is Actually Building	5200
+Kenya Citizenship and Immigration Act	10822
 Kenya Climate Change Act	7548
 Kenya DIGITAL HEALTH ACT THE DIGITAL	2709
 Kenya Data Protection Act	5550
@@ -1515,6 +1583,7 @@ Kenya National Qualifications Framework Act	7832
 Kenya National Qualifications Framework Act. Clause	7832,2448
 Kenya National Qualifications Framework Act. ENACTED	7832
 Kenya Registration of Persons Act	4439
+Kenya Revenue Authority Act	10822
 Kenya's Data Protection Act	4223,5515
 Kenya's Data Protection Act No	1742
 Kenya's Digital Health Act	7707
@@ -1615,6 +1684,7 @@ MON COMPTE S'ABONNER LE KIOSQUE Actualités	2353,47,39,1,1,1,1,35,104,165,81,292
 MULTI REGION DEAL ACTIVITY	4972
 MUNICIPAL ELECTORAL ACT The Electoral Commission	6907
 Main Activities	10776
+Main Activities Protection UNHCR	10864
 Mainstreaming Activities and Environmental Sustainability	6946
 Making Training Actually Work	5551
 Malawi Data Protection Act	1753,1129
@@ -1637,6 +1707,7 @@ Mauritius Companies Act	9507,1,407
 Mauritius Insolvency Act	9508
 Mauritius Institute of Training and Development Act	7845
 Mauritius Qualifications Authority Act	7845
+Maïngo Project. Activities	10829
 Medical Council Act	7845
 Medical Services Amendment Act	10071
 Medicines and Related Substances Act	3651
@@ -1654,10 +1725,13 @@ Microfinance Act	6938
 Middle Ground Actually Looks Like	6410
 Mineral and Petroleum Resources Development Act	6683
 Mines and Minerals Development Act	1988
+Minister of Humanitarian Action	10864
 Minister of Social Action	10763
 Minister of State for Social Action	10763
 Ministro Do Interior Preside Acto	9399
+Ministry of Humanitarian Action	10841
 Ministry of Social Action	10765,3,7,1
+Ministry of Social Action and National Solidarity	10812
 Ministry of State for Social Action	10763
 Miscellaneous Fees and Levies Act	7548
 Mobile Data for Humanitarian Action	6024
@@ -1674,6 +1748,8 @@ Municipal Systems Act	5872
 Municipalization of Social Action	10775
 Mutual Legal Assistance Act	587
 MÉtHODOLOGIE D’ENQUÊtE ACtUALIsÉE	7655
+NA OS2.2 Action	10858
+NA OS3.4 Action	10858
 NATIONAL CYBERSECURITY STRATEGY AND ACTION	1000
 NATIONAL HEALTH ACT	1009
 NC Act	10721
@@ -1746,13 +1822,14 @@ National Health Services Act	1988
 National Heritage Act No	1988
 National Heritage Conservation Commission Act	1988
 National Heritage The Act	1988
+National Hospital Insurance Fund Act	10822
 National ICT Development Strategy. Activities	691
 National Identification Authority Act	1263
 National Identification and Registration Authority Act	3615
 National Identity Card Act	1379
 National Identity Management Act	7172
 National Identity Management Commission Act	6689,1751,1230
-National Identity Register Act	1263,6106
+National Identity Register Act	1263,6106,3453
 National Information Technology Development Act	5665
 National Information Technology Development Agency Act	10157
 National Infrastructure Fund Act	10313
@@ -1769,6 +1846,7 @@ National Registration Act. The NRB	10130
 National Revenue Authority Act	3583
 National Security Act	5083
 National Social Action Policy	10763,5
+National Social Security Fund Act	10822
 National Statistics Act	799
 National Statistics and Geo-Information Act	5244
 National Transactions Act	439
@@ -1783,7 +1861,7 @@ Next Expected Nb Activity Budget	2989
 Next Post Activist	3212
 Next Steps and Outlook Planned Actions	3840
 Nigeria Baseline Actual	4688,3189
-Nigeria Data Protection Act	1220,1239,127,183,457,254,1329,52,177,94,5,144,82,369,555,155,79,23,145,81,371,32,3,233,444,61,164,10,30,60,470,204,70,59,3,326,186,174,208,76,15,188,113,235,92
+Nigeria Data Protection Act	1220,1239,127,183,457,254,1329,52,177,94,5,144,82,369,555,155,79,23,145,81,371,32,3,233,444,61,164,10,30,60,470,204,70,59,3,326,186,174,208,76,15,188,113,235,92,264
 Nigeria Data Protection Act. Citizens	8440
 Nigeria Data Protection Act. Stakeholders	7409
 Nigeria Data Protection Act. Ya'u	9443
@@ -1818,8 +1896,12 @@ Number Porting Activities	3862
 Number of Act	439
 O Acto	10750
 OBJECTIVE PROPOSAL FOR PRIORITY ACTIONS TIMELINE	10765,10
+OHADA Acte Uniforme	10841
 OMS Amissi G Actualité Liée	10625
 ONG ACTED	998
+OS2.1 Action	10858
+OS3.1 Action	10858
+OS3.3 Action	10858
 OVERVIEW The Data Protection Act	1630
 Objectives The Forest Conservation and Management Act	1988
 Obligations des Acteurs	746
@@ -1867,6 +1949,7 @@ PROGRAMMES OBJECTIFS RESULTATS ATTENDUS ACTIONS	10712
 PROTECTION ACT	972
 PROTECTION AND PRIVACY ACT	5113
 PROVINCIAS CATEGORÍA MINISTERIO CONCEPTO ACTUAL CATEGORÍA	4209
+PS Action	10874
 PTA Act	958
 PWDs. Activities	1264
 Pacific Railroad Act	4259
@@ -1902,6 +1985,7 @@ Petroleum Management Act	3583
 Petroleum Revenue Act	3583
 Petroleum Revenue Management Act	3583
 Pharmacy and Poisons Act	2709,7145,1
+Phase Action Responsable Constitution Création	10876
 Phased Implementation Action Plan	3678
 Pillar Strategic Activities	940
 Plan... Actualités Cameroun Facebook Twitter Pinterest	9916
@@ -1955,6 +2039,8 @@ Proceeds of Crime and Anti-Money Laundering Act	8180
 Processo Actualmente	10772
 Procurement Risk Assessment and Mitigation Action Plan	10768
 Procurement and Disposal of Public Assets Act	3700
+Program Action Plan Action Description Appointment	10870
+Program of Action.5	10856
 Programme of Action’s ICT	5015
 Programming and Broadcasting Activities	236
 Prohibited Activities Contract	6432
@@ -2027,6 +2113,7 @@ REPARTITION DU CAPITAL FAITS MARQUANTS Actionnariat	2342
 RESEARCH ACT	413
 REVENUE APPEALS ACT	6921
 REVENUE AUTHORITY ACT	6921
+RH. Action	10858
 RSL Acting CG Obed	4983
 RSL Acting Commissioner General Obed	4983
 RTI Act	9074
@@ -2044,13 +2131,14 @@ Refining the Philippine AI Regulation Act	8991
 Reform. Tax for Micro-Economic Activity	10762
 Refuge Act No	1988
 Refugee Act	1867,121,118
-Refugees Act	1867,121,2854,691
+Refugees Act	1867,121,2854,691,5289
 Refugees Act No.1	1867
 Region Action Plan For Reviews and Life	8999
 Regional Grid Strengthening Activity	87
 Register of Voters The Elections Act	1630
 Registration and Identification of Persons Act	6123
-Registration of Persons Act	1844,72,4,837,248,567,51,2870,456
+Registration of Births and Deaths Act	10822
+Registration of Persons Act	1844,72,4,837,248,567,51,2870,456,3873
 Registration of Persons Act Cap	3005
 Regularization of Status Act	2831
 Regulated Economic Activity	1802
@@ -2080,6 +2168,7 @@ Resettlement Action Plan and Resettlement Policy Framework	3456
 Resettlement Action Plans	3604
 Resilience Action Network Africa	4674,3805
 Resilience Strategy and Action Plan	6539
+Ressetlement Action Plan	10829
 Restitution of Land Rights Act	1009
 Restricted Application of Act	3714
 Result Date Actual	4653
@@ -2109,11 +2198,13 @@ Réseau des Acteurs du Numérique	9293,2
 SADC Digital Transformation Strategy and Action	1007
 SADC Digital Transformation Strategy and Action Plan	1007
 SALIENT FEATURES OF THE CORPORATE ACTIONS	4896
+SASPP Activities SASPP	10866
 SECURITIES EXCHANGE ACT	8939
 SEVEN HUNDRED AND SEVENTY-FIFTH ACT	11
 SH Action	1988
 SH Action Plan Discrimination	1988
 SH Action Plan Implementation	1988
+SH Action Plans	10829
 SITA Act	4845,688
 SNEDD Mauritania’s National Strategy and Action Plan	1264
 SPECIAL ECONOMIC ZONES ACT	6921
@@ -2123,6 +2214,7 @@ SPECIFIC ACTION Public	1161
 SPECIFIC ACTION Recruit	1161
 SPECIFIC ACTION Sensitise	1161
 SPECIFIC OBJECIVES AND ACTIONS	1000
+SSN Action	10874
 STEP. Activities Substantial Ensure	10768
 STP Horaires Activités Présentateurs Jour	2966
 Safety Act	1988
@@ -2139,6 +2231,7 @@ Sector Activities	10721
 Secure Networks Act	9629
 Securities Act	7198
 Securities Exchange Act	7198,1741
+Security Actors	10819
 Security Audit. Acts	783
 Sedgefield Current Communication Activities	8999
 Senate Concurrence Clears Path for Cybercrime Act	4651
@@ -2227,6 +2320,7 @@ State. Acts	783
 Statement and Act	4392
 Statistics Act	976,33,1351,415,6710
 Statistics Act No	9485
+Statut Branche Formel Informel Total Activités	10875
 Stock Exchanges Control Act	3714
 Stored Communications Act	10088
 Strategic Action Plan	1000
@@ -2241,6 +2335,7 @@ Strategic Roadmap and Action Plan	4725,3699
 Strategies Personal Data Protection and Privacy Act	5244
 Strategy and Action Plan	1000,3180,6077
 Strategy and Action Plan. Bottom-up Research Methodology	4126
+Stratégie Activités	10874
 Streamlining and Prioritization of Activities	4653
 Subproject Description and Activities	1988
 Subscribers Actually Sit	6749
@@ -2254,6 +2349,7 @@ Supplies Practitioners Management Act	10043
 Suspicious Activity Reports	5369
 Swaziland Communications Act	1816
 Swaziland Communications Commission Act No	1642
+Système Statistique PSN National Action	10874
 TANZANIA ACT	6921
 TAX ACT	6921
 TESORO PÚBLICO ACTUAL CATEGORÍA MINISTERIO	4209
@@ -2342,6 +2438,7 @@ US Cloud Act. Claim	5821
 US Foreign Intelligence Surveillance Act	6477
 US Stored Communications Act and GDPR	10088
 USAID Kenya Digital Health Ecosystem Activity	725
+USAID-funded Private Sector Health Partnership Activity	10833
 USTDA Digital Infrastructure Activities Under Digital	1172
 Uganda Act	1283
 Uganda Citizenship and Immigration Control Act	6493
@@ -2367,6 +2464,7 @@ Under the National Identification Act	2829
 Under the National Identity Management Commission Act	5574
 Under the Nigeria Tax Act	9972,347
 Under the Personal Data Protection Act	5385
+Under the Registration of Persons Act	10890
 Under the Social Assistance Act	7581,886
 Under the Stamp Duty Act No	10676
 Under the VAT Act No	10676
@@ -2398,6 +2496,7 @@ Venture Debt Deal Activity	4972
 Venture Debt Deal Activity By Sector	4972
 Veterinary Council Act	7845
 Vienna Declaration and Programme of Action	3583
+Vienna Programme of Action for LLDCs	10844
 Violating NDP Act The Nigeria Data	3226
 Virginia. The Act	7471
 Virtual Asset Act	3270,19
@@ -2425,6 +2524,7 @@ Wits University School of Statistics and Actuarial Science	5969
 Workers Compensation This Act	1988
 Workers' Rights Act	7845
 YTD YTD Budget YTD Actual Estimate	6422
+Year Registration of Births and Deaths Act	10822
 Year Value Official Use Only Actual	6928
 Year of Act	439
 Yes. The Data Protection Act	10132

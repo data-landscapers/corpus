@@ -4,7 +4,10 @@ AFD Agence Française de Développement AMR Avis	10712
 AFRICATEL AVS C	998
 AFROJET AVIATION SOLUTIONS LIMITED Data Controller	7167
 AI. From Availability	4528
+ANDF AVI L'ANDF	10876
+ANDF AVI Page	10876
 ANSSI Avant	6600
+APPEL D’OFFRES AVEC CONCOURS Conformément	10876
 ARPU Average Revenue Per User B2B	1818
 AVADA GROUP LIMITED Data Controller INST-6229969CEC4	7167
 AVADA GROUP LIMITED Data Processor INST-6229969CEC4	7167
@@ -19,7 +22,7 @@ AVANE HEALTH LIMITED Data Controller INST-70737201700	7167
 AVANE HEALTH LIMITED Data Processor INST-70737201700	7167
 AVANI HEALTHCARE Data Processor INST-1772561357F MACHAKOS	7167
 AVANI Maseru	3149
-AVANT-PROPOS	10712
+AVANT-PROPOS	10712,163
 AVANT-PROPOS L’Institut	737
 AVANTE	7703,1,1820
 AVANZAR SOLUTIONS LIMITED Data Controller INST-65136199CF2	7167
@@ -43,6 +46,7 @@ AVCA and Disrupt Africa	4972
 AVCA. Users	4972
 AVCA’s African Private Capital Activity Report	4972
 AVCA’s Venture Capital	4972
+AVDSEC	10826
 AVE AFRICA VIRTUAL ENTERPRISES LIMITED Data	7167
 AVE Sampling	9129
 AVEC LA BAISSE DU RÉSULTAT NET	2342
@@ -58,6 +62,11 @@ AVENUE RESCUE SERVICES LIMITED Data Processor	7167
 AVENUE VALUERS LTD Data Controller INST-169286FFBC4	7167
 AVERAGE Develop	5677
 AVERAGE EARNINGS	2775
+AVI IV.2.4.1.2	10876
+AVI Procédure	10876
+AVI Procédure L'ANDF	10876
+AVI Procédure L'AVI	10876
+AVI Procédure L’ANDF	10876
 AVIACION CIVIL E INFRAESTRUCTURAS AEROPORTUARIAS	4209
 AVIAN COURT LIMITED Data Controller INST-53751652AF4	7167
 AVIAN COURT LIMITED Data Processor INST-53751652AF4	7167
@@ -73,13 +82,14 @@ AVIS GENERAL DE PASSATION DES MARCHES	5370
 AVITECH SOLUTIONS LTD Data Processor INST-901096A2B1B	7167
 AVL CAPITAL LIMITED Data Controller INST-2137467856D	7167
 AVOYA MEDICAL CENTER LIMITED Data Controller	7167
-AVRIL	749,1989
+AVRIL	749,1989,8074
 AVUNJA MOBILE LTD Data Controller INST-456024D384E	7167
 AVUNJA MOBILE LTD Data Processor INST-456024D384E	7167
 AVs. We're	9098
 AVs. We’re	9346
 Abril. Aviso	6462
 Acceptation Avis	10708
+Adolescent Health and Nutrition SARA Service Availability	10829
 Africa Is Punching Above the Global Average	6714
 Africa. AVCA	4972
 Africa. Available	8442
@@ -89,6 +99,7 @@ African Average Banking ROA	6938
 African Average Inflation Rate	6938
 African Development Bank Group Avenue Joseph	10718
 Afrique Avec	2880
+Afrique de Formation des Avocats Francophones	10821
 Afrique. Avec	7293
 Ahmed Avant-première	7032
 Air Afrik Aviation Limited	3583
@@ -97,6 +108,7 @@ Airtel Niger. Avec Starlink	4657
 Al Avery and Jay Adelson	3782
 Amadou Coulibaly. Avec	2376
 Amadou Oury Bah. Avec	3241
+Andre Averbug	10841
 Angola Avante	7882
 Annual Ave	1944
 Annual Aver	1944
@@ -115,7 +127,7 @@ Austria. Available	10775
 Autoregressive Moving Average	236
 AvXpJWp2Rn9pm1Bx2cVNxFpump	4127
 Avail	958
-Availability	21,745,5,169,18,1030,240,249,201,835,274,562,261,637,418,1128,755,753,822,1034
+Availability	21,745,5,169,18,1030,240,249,201,835,274,562,261,637,418,1128,755,753,822,1034,672
 Availability All	9123
 Availability Problem Nobody Talks About	5874
 Availability Ranking Level	9123
@@ -126,7 +138,7 @@ Availability of Documents	7198
 Availability of E-waste	1988
 Availability of Financial Sector Infrastructure	6938
 Availability of Funds	2307
-Available	396,503,59,170,26,110,290,141,401,616,236,508,148,47,159,866,210,329,31,1,188,265,673,172,34,246,113,8,813,207,21,39,350,84,456,207,5,488,336,774,39,10,5,4
+Available	396,503,59,170,26,110,290,141,401,616,236,508,148,47,159,866,210,329,31,1,188,265,673,172,34,246,113,8,813,207,21,39,350,84,456,207,5,488,336,774,39,10,5,4,35,10,52
 Available Bandwidth Capacity	6946
 Available International Bandwidth	6671
 Available and Aﬀordable	958
@@ -143,10 +155,10 @@ Avaliação da Preparação	5663
 Avaliação de Riscos de Segurança	3519
 Avaliação de Riscos de Segurança da IA Crítica	3519
 Avaliações	3519,7228
-Avance	10711
+Avance	10711,165
 Avani Hotel	10151
 Avani Lesotho Hotel	5741
-Avant	113,323,310,1,38,401,3,42,56,697,393,76,61,349,235,584,259,221,671,221,206,20,236,551,28,14,37,89,6,142,444,127,23,136,7,149,105,88,34,74,84,1,20,38,12,86,255,1,103,263,732,12,93,7,568,385,36,19,182,48,31,60,85
+Avant	113,323,310,1,38,401,3,42,56,697,393,76,61,349,235,584,259,221,671,221,206,20,236,551,28,14,37,89,6,142,444,127,23,136,7,149,105,88,34,74,84,1,20,38,12,86,255,1,103,263,732,12,93,7,568,385,36,19,182,48,31,60,85,134,11,33,6,1
 Avant Komor Switch	6146
 Avant La Finale Face	4960,62,2035
 Avant Mali Ya Wakazi	6146
@@ -154,8 +166,10 @@ Avant Semoa	5054
 Avant la BEAC	7186
 Avant-projet	3396
 Avant-projets	8321
+Avant-propos	10874
 Avant-propos Depuis	6959
-Avantages	2323,8388
+Avantage	10842
+Avantages	2323,8388,165
 Avanti	5158
 Avanti Communications	899,6902,2605
 Avanz Capital Egypt	10264,347
@@ -172,6 +186,7 @@ Avec DG	2342
 Avec Dûnîa	5223
 Avec E-Gov’A	3658,2617,145
 Avec Ethio Telecom	4355
+Avec GBESSOKÉ	10869
 Avec Guidan Fusaha	7374
 Avec Idarati X.0	8993
 Avec Ijeni	2407,41,490,2760,1057
@@ -224,10 +239,11 @@ Avenue Colonel Ebeya Tél	10400
 Avenue Fairland	10793
 Avenue Fairland Gauteng	10793
 Avenue Mob	3386
+Avenue Pascal ZAGRÉ	10874,1
 Avenue Prosper Gandzion	7668
 Avenue Roodepoort	7198
-Avenues	1161
-Average	418,164,240,118,30,858,39,73,835,1,634,386,102,630,336,108,273,431,324,100,238,75,258,161,114,25,456,121,267,451,170,90,20,61,236,773,366,263,473,45,1,1,10,5,13
+Avenues	1161,9680
+Average	418,164,240,118,30,858,39,73,835,1,634,386,102,630,336,108,273,431,324,100,238,75,258,161,114,25,456,121,267,451,170,90,20,61,236,773,366,263,473,45,1,1,10,5,13,36,15,12,5,9
 Average Area	10765,10
 Average BWA	2776
 Average Complaint Resolution Time	5676
@@ -281,15 +297,21 @@ Average User Profile Average Monthly Service	9781
 Average Value of Funded and Unfunded Trade Finance	10718
 Average Value of Total Bank Assets and Trade	10718
 Average Wage Earnings	2775
+Average of PBF	10829
 Average1 Retail Prices of Selected Petroleum Fuels	2775
 Averaged	3583
 Averagely	771
+Averages	10844
 Averbug D	10780
 Averiguar	167
 Averroès Africa	1428
-Avertissement	765
+Avertissement	765,10077
+Avertissement Absence	10876
+Avertissement Infraction	10876
+Avertissement Malfaçon	10876
+Avertissement Mauvaise	10876
 Avetium Consult Limited	3862
-Avez-vous	747,2718,1589,1221,145,686,724,2551
+Avez-vous	747,2718,1589,1221,145,686,724,2551,445
 Avg GTMI	10785
 Aviación Civil	4209,2632,259,603,1,379,70,401,764
 Aviación Civil. En	7100
@@ -304,11 +326,14 @@ Avicultura Tradicional Familiar	4209
 Avinash Naidoo	10193
 Avinash Ramtohul	2700,217,639,866,428,936,613,116,385,465,741,134,152,826,1403
 Avinash Ramtohul. En	4850
+Avis APDP	10821
+Avis DNCMP J	10876
 Avis Momeni	7946
 Avis de DécèsEl Hadji Mody DieneDate de Deces	4960
 Avis de Non-Objection	9277
 Avis de Souvenir	5022,2035
 Avis du CESE	8891
+Avis du MEF	10876
 Avis-CNP-VA-final-BO.pdf	8891
 Avis-MACF.pdf	8891
 Avis-PGA-VF-bo.pdf	8891
@@ -319,6 +344,7 @@ Avis-littoral-VF.pdf	8891
 Aviso	6,5163,1293,532,3761
 Avital	2096
 Avith Nsengiyumva	9270
+Aviv Very High EGDI V3	10840
 Avoa Olivier	3698
 Avocat	2792
 Avocate	2546
@@ -332,18 +358,20 @@ Avoidance of Proprietary Lock-ins Contracts	6432
 Avoiding	1988,7135
 Avoiding the Shift	7337
 Avoids	6153
-Avoir	737,2853,1,751,938,586,1093,1018
+Avoir	737,2853,1,751,938,586,1093,1018,2899
 Avoirs	737
 Avolio	4432
 Avomotion	8713
 Avon Rise Avenue	4896
 Avon Rise Avenue Date Daily	4896
 Avons-nous	747
+Avotrou	10833
 Avr. Code	8673
 Avr. Loi	8673
 Avr. Loi de Finances	8673
 Avr. Nouveau	8673
-Avril	747,1,457,779,164,548,36,845,843,1334,76,65,34,1691,35,1522
+Avril	747,1,457,779,164,548,36,845,843,1334,76,65,34,1691,35,1522,1698
+Avril Kaplan The World Bank CAR	10829
 Avril du CICES. Cette	7858
 Avuglah	8022
 Avuya Shibambu	1686
@@ -357,6 +385,7 @@ Benjamin Avornyotse	8767
 Biermann Avenue Rosebank	10793
 Bryan Avelar	4127
 Bulawayo House Avenue	4896
+Burkina Faso Avenue Pascal ZAGRÉ	10874,1
 Burkina Faso. Avant	10259
 C1- Average	7548
 CAPÍTULO VII Avaliação	6462
@@ -398,6 +427,7 @@ DCA Directorate of Civil Aviation DDOS Distributed	6946
 DCEI Avg GTEI	10785
 DECISIONS ET AVIS MINISTERE DES AFFAIRES	4658
 DEFINITION OF TERMS Average SMS	2776
+DGEFC AVI L'ANDF	10876
 DISCLAIMER AVCA	4972
 DISPUTE AVOIDANCE AND DISPUTE SETTLEMENT	1243
 DOCUMENTS AVAILABLE FOR INSPECTION	4896
@@ -406,6 +436,7 @@ Daily Average Population of Prisoners	2775
 Data Availability	940,321,6529,20,156,375,1008
 Data Availability Score	4528
 Data Availability Statement	766,5,448,42,2530,4645
+Data Availability Statement Data	10881
 Data Availability Statement Research	5349
 Data Center High Availability Introduction	9123
 Departamento de Avaliação de Desempenho	167
@@ -417,8 +448,10 @@ Dodoma Tanzania. Available	1261
 Douglas Carpenter. Avant	1189
 Dpi. Avec	7392
 Découvrir le FTD Avec le Fonds de Transformation Digitale	10708
+D’ORDRE REFERENCES RESPONSABLE DE TRAITEMENT AVIS	10821
 E.P. AVISO	6970
 ELDORET AVIATION TRAINING INSTITUTE LIMITED Data	7167
+East Africa. Available	10819
 Edição Instituto Nacional de Estatística Avenida	4044
 Elections. Avant	2817
 Elgin Avenue George Town	7198
@@ -438,6 +471,7 @@ Exits AVCA’s Venture Capital Exit	4972
 Expand Telecom Network Availability	4140
 Expand Telecom Network Availability Orange Sierra	4140
 FONCTIONNALITES ET AVANTAGES DU LGEC Aliou	3381
+FR256-DHS-Final-Reports.cfm Available	10881
 Fase de Avaliação Global da Reforma Educativa Formação	10766
 Feliciano Obiang AVA	7703
 Finance Avenida	2474
@@ -461,6 +495,7 @@ GovTech Maturity Index Average GTMI	10785
 GovTech TECH STARS Avec Inveep	9961
 Grand Bassam Avis	1005
 HAS Excellent B Satisfactory C Average	5679
+Health Resources Availability Mapping System	10829
 Heuwel Avenue	6907
 Honourable Dr Avinash Ramtohul	9658
 Hospital Beds and Cots Available	2775
@@ -469,6 +504,7 @@ IA Avez-vous	7283
 IA O Relatório de Avaliação de Prontidão	2816
 IAPs Average Revenue Per User	6000
 ICASEES. Avant	7675
+II. PS4R Avenues for Economic Inclusion Along	10841
 INTRODUCTION Avec	6146
 IX. MONITORIZAÇÃO E AVALIAÇÃO	10772
 InStock Availability Starts	10244
@@ -494,6 +530,7 @@ Kur Mohammed Ave	5903
 LA PERFORMANCE UN CADRE ORGANISATIONNEL AVEC	2342
 LETTRES DE MISSIONS AVEC LES ENTREPRISES	2342
 LHT-02-2020-0038 Avuglah	8022
+LLDCs Averages	10844
 Lagos Avenue Not Limited Operational	3386
 Les Aventures de Yennenga	3395
 Les Discussions Avancées	4960,62,2035
@@ -515,9 +552,11 @@ Market Average Voice SMS	6671
 Markets Economy Real Estate Agriculture Aviation	9750,247
 Maroc-Maroc Avril	7655
 Matriz de Avaliação de Riscos Cibernéticos	2784
+Mechanism HeRAMS Health Resources Availability Mapping	10829
 Member State. AVERAGE Organize	5677
 Membership Availability	3513
 Merveille Manuella Ngoufack Tsafack. Avant	2513
+Method Availability	10881
 Metodologia de Avaliação da Prontidão RAM	2816
 Metodologia de Avaliação de Prontidão	6926
 Metodologia de Avaliação de Prontidão de IA da UNESCO	2816
@@ -545,9 +584,12 @@ Open data manuel ROD Avril	747,1237
 Opportunities Available Applications	9198
 Orange Liberia. Avoids	704
 Ordre des Avocats	1231
+Ordre des Avocats Ordre des Avocats Ordre des Avocats	10821
+Ouest Avenue Abdoulaye FADIGA BP	10888
 Oui S4Q05 Avez-vous	6959
 Outbound Average Maximum Average Maximum Average	718
 P2P Average Value of Mobile Money	9781
+PBF National Technical Unit Average	10829
 PII S030859612600145X. Available	8172
 PII S2666378326000309. Available	8185
 PSC Avaliacao Laboratorial HIV Contem	966
@@ -560,10 +602,15 @@ Plateau. Avec	6180
 Police Warn Against Aviator Gambling	8639
 Pour Avinash Meetoo	5712
 Prensa de Guinea Ecuatorial Aviso	975,5323,1785,289,182,511
+Procédure AVI L'ANDF	10876
 Production and Average	2775
 Programmes de Formation Avenue Abdoulaye FADIGA	10237
+Project. Availability	10829
+Publics AVI Agent de Vérification Indépendant BAD	10876
+Published Version Available	10878
 QR Code. Avec	9177
 Quality Controls AVCA Research	4972
+REFERENCES Avis	10821
 RELATÓRIO DA AVALIAÇÃO NACIONAL DE RISCOS	2784
 REVENU ET AVOIRS DES MÉNAGES BURKINABÉ	737
 Recognise. Avoid. Respond. Recognise	10725
@@ -589,6 +636,7 @@ SAR Avg CGSI Avg PSDI Avg	10785
 SG Avaliar	10114
 SIGNATURE DES LETTRES DE MISSIONS AVEC	2342
 SOMMAIRE AVANT-PROPOS	737,9975
+SP.DYN.IMRT.IN Available	10881
 STAR-UEMOA Avec	10711
 Samba Diouf. Avec	10258
 Samora Machel Avenue	4528
@@ -600,6 +648,7 @@ Selected Aviation Industry Indicators	2775
 Selected Aviation Industry Indicators Postal Services	2775
 Service Availability Perception	5676
 Service Availability Readiness Assessment	766
+Service Availability and Readiness Assessment	10829
 Service Level Availability	6432
 Shapes the Future Aviation Hub	2511
 Sommaire Avant-propos	6959
@@ -614,6 +663,8 @@ Système de Comptage Avancé	1993
 Systèmes de Comptage Avancé	1993
 Sénégal. Avec	4924
 Só Depois Avançar O Banco Mundial	9558
+TABLE DES MATIERES AVANT-PROPOS	10875
+TABLE DES MATIERES Avant	10847
 TEL AVIV	4209
 Tanzania Civil Aviation Authority	5883
 Tech Diplomacy and Avenues for Digital Development	5239

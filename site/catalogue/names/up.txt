@@ -17,7 +17,7 @@ B. Updates	2626
 Back Up	2613
 Bill Upon	4633
 Bimonthly Update	6792
-Biometric Update	993,458,65,125,58,17,14,1,14,4,33,27,24,13,112,142,68,53,23,7,3,6,57,1,1,5,33,41,10,16,3,3,17,5,67,2,20,25,48,44,62,5,41,12,41,1,3,50,5,5,23,6,2,11,14,4,4,6,26,2,1,32,3,1,8,64,4,23,63,70,35,18,12,35,23,53,3,31,24,9,24,33,18,17,1,37,4,28,87,10,5,63,14,49,6,55,13,73,22,15,21,28,55,121,76,177,8,7,71,21,124,55,116,10,128,183,6,32,4,32,41,34,31,25,20,1,59,43,19,82,17,15,114,35,22,53,3,69,10,37,59,105,19,19,2,68,2,17,8,10,11,149,2,3,57,47,1,149,1,6,16,5,32,6,199,11,53,68,35,46,73,19,148,126,114,89,42,69,217,433,462,329,894
+Biometric Update	993,458,65,125,58,17,14,1,14,4,33,27,24,13,112,142,68,53,23,7,3,6,57,1,1,5,33,41,10,16,3,3,17,5,67,2,20,25,48,44,62,5,41,12,41,1,3,50,5,5,23,6,2,11,14,4,4,6,26,2,1,32,3,1,8,64,4,23,63,70,35,18,12,35,23,53,3,31,24,9,24,33,18,17,1,37,4,28,87,10,5,63,14,49,6,55,13,73,22,15,21,28,55,121,76,177,8,7,71,21,124,55,116,10,128,183,6,32,4,32,41,34,31,25,20,1,59,43,19,82,17,15,114,35,22,53,3,69,10,37,59,105,19,19,2,68,2,17,8,10,11,149,2,3,57,47,1,149,1,6,16,5,32,6,199,11,53,68,35,46,73,19,148,126,114,89,42,69,217,433,462,329,894,529
 Biometric Update AU Protocol	5878
 Biometric Update Advocates	2566
 Biometric Update BioEnable	2427
@@ -65,6 +65,7 @@ Browser Update Recommended	8571
 Building Intelligence From the Ground Up	7367
 C1- Update	7548
 CAR Economic Update	969
+CATCH UP TO THE SCALE	10861
 CBE. Updates	5290
 COURT UPHOLDS JALLOH’S POLICE STATEMENT	10581
 Cape Verde Ramps Up Digital Start-up	3377
@@ -74,6 +75,8 @@ Central African Republic Economic Update	969
 Chad Steps Up Rollout	4381
 China Updates Copyright	8376
 Collaboration Updates	1154
+Columbia University UPU Universal Postal Union	10835,3
+Complaint Rejected Complaint Upheld Appeal Process	10819
 Complete Up	3874
 Congo. Up	291
 Connecting Africa Insights NewsletterSign Me Up	2285,9,26,249,245,725,1420,15,4,352,360,114,242,17,15,24,145,11,245,323,24,7
@@ -166,7 +169,7 @@ Kyambogo Vice Chancellor Warns UPDF Urges	6077
 LIVE UPDATE	9669,84
 LOMSHA Upgrade	10060
 Large File Uploads Failures Common Successful	6051
-Last Updated	5363,462,356,2029,1644
+Last Updated	5363,462,356,2029,1644,1012
 Latest Headlines WASPAN Appeals Judgement Upholding	7776
 Latest Update Navy	9876
 Launch Upskilling	4528
@@ -221,6 +224,7 @@ Regional RTGS Upgrade Nears	9926
 Regulation Is Catching Up	9112
 Regulator Upholds Local Ownership Rules	6785
 Regulatory Update	6792
+Reject Amended Upheld Page	10819
 Remove Update	899
 Replacement Update	8999
 Republic of Congo Economic Update	1828
@@ -264,13 +268,13 @@ Transport Network Upgrades Project	2884
 Trillion Birr Budget for Upcoming Ethiopian Fiscal	1798
 Trusted Source for Accurate and Timely Updates	9989
 U.S. RTP and India’s UPI	4848
-UCDP Uppsala Conflict Data Program UN	10759
+UCDP Uppsala Conflict Data Program UN	10759,76,2,1
 UP T P TER V	2776
 UP-Maputo	2816
 UP4DMDA	805
 UPAP Abidjan	998
 UPC Renewables North Africa and CIO	5951
-UPDATE	4738,45,2426
+UPDATE	4738,45,2426,3610
 UPDATE NEWS	5800,4078,220
 UPDATE OF MASS ENROLMENT EXERCISE	1920
 UPDATE ON THE IHS TRANSACTION Following	10793
@@ -327,6 +331,7 @@ UPSA Law School Roundtable	8697
 UPSNJP	1645
 UPSTREAM	6306
 UPT. Nous	2966
+UPTAKE	10852
 UPTAKE OF INNOVATIVE	3604
 UPTIME Institute	4066
 UPU African Postal Leaders Forum	6946
@@ -350,7 +355,7 @@ Upatikanaji	2868
 Upcoming	2572,2628,2506,2710
 Upcoming Data Center Portfolio	2572
 Upcoming Events	8203
-Update	236,663,59,51,195,496,77,211,689,1039,410,76,1042,212,805,162,9,400,116,129,63,887,579,440,699,5,24,991,3,7,1,9,8
+Update	236,663,59,51,195,496,77,211,689,1039,410,76,1042,212,805,162,9,400,116,129,63,887,579,440,699,5,24,991,3,7,1,9,8,19
 Update SIM	4439
 Update Voter Address	7266
 Update of Concepts	10768
@@ -372,7 +377,7 @@ Updated Whitepaper	3930
 Updated World	8114
 Updates	1365,2218,2849,501,18,2679,228
 Updates Get	9769
-Updating	1154,74,5720,3827
+Updating	1154,74,5720,3827,54
 Updating the Project Operations Manual	2989
 Updating the WTO Reference Paper	1243
 Upender Singh Rawat	6799,56,44
@@ -391,17 +396,19 @@ Upgraded	1867,2050
 Upgraded Government	1284
 Upgraded Kwenda MIS	10768
 Upgraded of RTGS and BI-Switch	1284
-Upgrades	10768
-Upgrading	1824,1165,91
+Upgrades	10768,73
+Upgrading	1824,1165,91,7742,7,12
+Upgrading Hospitals	10829
 Upgrading OGMS	1554
 Upgrading of Border Posts	4101,289
 Upgrading the GPP	3969
+Upheld Appeal Process Reject Amended Reject	10819
 Uphold	9082,578
 Upholding	9969
 Upimaji	6019
 Upington Kruiper Kwa-Zulu Natal Ethekwini	6832
 Uplink	5502
-Upload	2668,6,3264,352,347,255
+Upload	2668,6,3264,352,347,255,3956
 Upload Speed	4130
 Uploading	4699,3904
 Uploads	4794
@@ -451,7 +458,7 @@ Upskill National Talent	4849
 Upskilling	1885,5866
 Upskilling Africa's Workforce for AI	10015
 Upstream	805,4039
-Uptake	418,522,7844
+Uptake	418,522,7844,2068
 Uptake of ICT Services	6946
 Uptake of Modern Contraceptives	2775
 Uptime	1956,4476
@@ -468,16 +475,18 @@ Uptime Institute-certified	2750
 Uptime Institute. Ce	6419
 Uptime The KNDC	5793
 Uptime-certified	5793
+Upwards	10861
 Veridos and UPPC	320
 Vodacom Lesotho Upgrades Network	3483
 W UPS	9123
 W Uptime-certified	5793
 Warranty Smart UPS	34
+Water and Electricity Upgrading Project	10857
 Weekly Health Update	965,3924,206
 White Nile. Upon	6947
 World Bank's Zimbabwe Economic Update	3385
 World Bank’s Economic Update	4535
-World Institute for Development Economics Research UPU	10759
+World Institute for Development Economics Research UPU	10759,78
 X X Up	789
 Year Mark Zuckerberg Announces Groundbreaking Update	5390,965,827
 Year Upskill	4126

@@ -42,12 +42,13 @@ Energy Intensity of Fiber Optic Cables	3604
 Enters Active Deployment of Africa-Middle East Fibre	10583
 Espinha Dorsal Nacional de Fibra	4436
 Expand Fibre Network	4069
-Fiber	718,2769,117,294,787,3,318,1077,17,33,471,1273,1246,18,640
+Fiber	718,2769,117,294,787,3,318,1077,17,33,471,1273,1246,18,640,1080
 Fiber Backbone Deployment	1264
 Fiber Backbone Energy Efficiency Improvements	1264
 Fiber Game	4879
 Fiber Gamers	4879
 Fiber Infracos The Data Center Specialists	4525
+Fiber Infrastructure	10861
 Fiber Market Economy	3185
 Fiber Markets Investment Incentives	10781
 Fiber Optic	6832
@@ -120,6 +121,7 @@ Horizon Fiber	3788,1104,6,20,1,56,2713,2895
 Horizon Fiber Initiative	4918,17,5648
 Huawei for Fibre-to-the-Home	6864
 Hypa Fibre	10735
+INCREASINGLY LIBERALIZED FIBER	10861
 ISP Savanna Fibre	6604
 Infrastructure BoFiNet Completes P43m Fibre Project	9912
 Initiative Horizon Fiber	4919

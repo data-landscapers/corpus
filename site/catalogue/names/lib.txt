@@ -30,6 +30,7 @@ Border Crossings Libyan Agricultural Officials Detained	2837,989,15,690,99,50,66
 Botswana National Library Services	5250
 Build Liberia	6194
 Build Liberia's Capacity	9652
+Burkina Faso Liberia Rwanda	10856
 Burkina Faso and Liberia	6329
 Burundi Comoros Djibouti Eswatini Kenya Libya	6938
 C1 Libreta	4209
@@ -59,7 +60,7 @@ Certificado de Comercio Certificado de Comercio Libreta	4209
 Chimkwita Her Liberty	5851,660,853
 China's People's Liberation Army	7870
 Civil Liberties	2518
-Civil Liberties for Women	10759
+Civil Liberties for Women	10759,76,2,1
 Civil Liberties for Women Absence of Violence	10759
 Combat Cyber Crime Liberia	1777
 Combat Cybercrime. Liberia National	1777
@@ -104,7 +105,9 @@ ESCWA Libya	3841
 EU. The Liberian	31
 Egypt and Cyprus. Making Libya	2837
 Embassy Libreville	1560
-Equal Civil Liberties	10759
+Equal Civil Liberties	10759,76,2,1
+Equal Civil Liberties Accountability	10835,3
+Equal Civil Liberties Equal Socioeconomic Opportunity	10837
 Equatorial Guinea Gabon Lesotho Liberia Madagascar	10764
 Escotel Liberia	704
 Escotel Liberia Inc	704
@@ -140,6 +143,7 @@ Governance Model Addressing Liberia	1777
 Government of Liberia	31,1746,2425,1042,950,329,445,723,410,292,181,1077,210,266,219,204
 Government of Liberia's Electronic Government Procurement	9088
 Grand Libreville	8641,1395
+Guinea-Bissau Congo Republic Libya Chad	10837
 HEC Montreal Library	8671
 Hafter for Libya	4680
 Hatif Libya	2837
@@ -153,11 +157,13 @@ IATI. Liberia	153
 IATI. Liberia HIS. Large	97
 ID for All Liberia	10293
 IIPS. The Central Bank of Liberia	4261
+INCREASINGLY LIBERALIZED FIBER	10861
 INTERIOR LOCALES LIBRE MUNICIPALES URBANOS SERVICIOS	4209
 IPv6 Libyan Indian	5592
 Impetus for Cybersecurity Liberia	1777
 Improve National Cybersecurity Education Liberia	1777
 Inclusive. Instant. Liberia	4282,3
+Informatics and Liberty	10812
 Information Technology Infrastructure Library	5533
 Infrastructure Library JSON JavaScript Object Notation	6432
 Initiative Liberian Observer	3239
@@ -167,6 +173,8 @@ International Bank Liberia Limited	4283
 International Journal of Librarianship	8022
 International Journal of Nepal Library Association	8022
 International Liberia	7616
+Ivoire Cameroon Zimbabwe Liberia Djibouti Swaziland	10819
+Ivoire Liberia Benin Tanzania Mali Guinea-Bissau	10856
 J Librariansh Inf Sci	9653
 Jackson County Library Services	8022
 Journal of Library Resource Sharing	8022
@@ -195,11 +203,13 @@ Le Liberia	10604
 Legal and Regulatory Environment Liberia	1777
 Legislation On Data The Constitution of Liberia	5244
 Legislature of Liberia	700
+Les Libertés	10841
 Lesotho Djibouti Liberia Liechtenstein Madagascar Mali	10764
 Lib Law Administrator	4610
 LibLaw	4610
 Liban	5022
 Libe Mohale	9304
+Libellé	10876
 Libellée	2561
 Liber	3814
 Liber Technologies	4594
@@ -210,7 +220,7 @@ Liberalização	15
 Liberalized	4525
 Liberation	2518,6881
 Liberation of Angola	9399
-Liberia	31,77,128,163,114,187,4,117,112,80,32,1,95,1,122,92,16,93,72,3,3,104,130,133,342,204,29,63,21,108,5,84,4,176,51,11,81,6,142,48,153,32,167,8,76,265,131,59,26,10,13,36,11,10,3,141,128,29,27,9,12,20,23,64,71,8,23,38,34,34,52,62,169,15,107,11,33,5,33,42,19,35,51,101,11,74,43,194,21,31,8,103,28,8,30,9,130,10,142,11,60,43,51,22,82,34,66,76,219,28,15,63,117,42,33,24,106,1,1,74,16,13,1,1,28,76,275,49,1,44,198,181,181,48,1,31,25,1,94,81,52,74,49,1,126,210,88,13,1,1,1,90,62,56,1,82,103,81,95,44,27,52,1,59,1,1,1,38,38,66,31,13,10,7,33,74,41,5,21
+Liberia	31,77,128,163,114,187,4,117,112,80,32,1,95,1,122,92,16,93,72,3,3,104,130,133,342,204,29,63,21,108,5,84,4,176,51,11,81,6,142,48,153,32,167,8,76,265,131,59,26,10,13,36,11,10,3,141,128,29,27,9,12,20,23,64,71,8,23,38,34,34,52,62,169,15,107,11,33,5,33,42,19,35,51,101,11,74,43,194,21,31,8,103,28,8,30,9,130,10,142,11,60,43,51,22,82,34,66,76,219,28,15,63,117,42,33,24,106,1,1,74,16,13,1,1,28,76,275,49,1,44,198,181,181,48,1,31,25,1,94,81,52,74,49,1,126,210,88,13,1,1,1,90,62,56,1,82,103,81,95,44,27,52,1,59,1,1,1,38,38,66,31,13,10,7,33,74,41,5,21,50,3,18,28
 Liberia Advances Regional Fiber Optic Expansion	6688
 Liberia Agriculture Commercialization Fund	9650
 Liberia Anti-Corruption Commission	8393,442,120
@@ -281,6 +291,7 @@ Liberia The Freedom of Information	5244
 Liberia Through Digital Inclusion	5244
 Liberia Turns	6166
 Liberia USAID	97,857
+Liberia Uganda Mozambique Ethiopia Niger Zimbabwe	10837
 Liberia Water and Sewer Corporation	9088
 Liberia Youth Digital Transformation Initiative	5244
 Liberia Youth Digital Transformation Initiative M&E	5244
@@ -376,6 +387,7 @@ Liberia’s Public Procurement and Concessions Commission	9742
 Libertad	1701
 Libertad de Evinayong	4209
 Libertad de Prensa	9303
+Libertes	10841
 Liberty	3035,253,61,689,520,84,1026,138,226,224,297,859,3394
 Liberty Group	3264,2542
 Liberty Group Ltd ZAGPJHC	961
@@ -383,7 +395,7 @@ Liberty Latin America. TDB	398
 Liberté	1231,1735
 Liberté Internet	7215
 Liberté. Après	8269
-Libertés	1296,766,387,667,280,979,3395,1121
+Libertés	1296,766,387,667,280,979,3395,1121,1921,9,1
 Libia ELGADI	6613
 Liblaw	8804
 Liblaw’s Managing Director	8804
@@ -412,15 +424,16 @@ Libre	6475,1762
 Libre Blanc	7649
 LibreSSL	991
 Libreta	4209
-Libreville	24,524,79,604,549,545,18,690,278,732,21,144,536,2133,217,149,212,86,247,131,21,34,178,150,19,7,367,66,657,197,6,10,297,108,449,1,160,1,130
+Libreville	24,524,79,604,549,545,18,690,278,732,21,144,536,2133,217,149,212,86,247,131,21,34,178,150,19,7,367,66,657,197,6,10,297,108,449,1,160,1,130,64
 Libreville Special Economic Zone. ST Digital	7093
 Libreville. Présidée	3033
 Libreville. Selon Laïka Mba	3298
+Libreville. Survey	10841
 LibrevilleDéveloppement	3173
 Libro LPGE	4209
 Libros	1701
 Libtelco	7616
-Libya	236,198,420,159,181,35,145,16,286,214,792,93,62,2,4,10,105,65,165,122,47,68,39,273,74,15,15,12,19,105,121,90,244,60,62,29,47,50,66,63,2,38,178,6,231,53,19,256,183,129,37,7,409,76,132,48,84,95,146,504,265,17,199,208,514,161,22,116,108,38,1,122,49,217,383,1,163,102,250,31,140,165,45,5,21
+Libya	236,198,420,159,181,35,145,16,286,214,792,93,62,2,4,10,105,65,165,122,47,68,39,273,74,15,15,12,19,105,121,90,244,60,62,29,47,50,66,63,2,38,178,6,231,53,19,256,183,129,37,7,409,76,132,48,84,95,146,504,265,17,199,208,514,161,22,116,108,38,1,122,49,217,383,1,163,102,250,31,140,165,45,5,21,50,3
 Libya Activates LY GOVREP Platform for Government Monitoring	5775
 Libya Advertisement Promote	4811
 Libya Branch	3464
@@ -462,6 +475,7 @@ Libya Policy The LIBIGPT	3826
 Libya Post	2101
 Libya Presents Digital Economy Vision	5592
 Libya Symposium	5948
+Libya Tanzania Guinea Bissau Uganda Equatorial	10819
 Libya Telecom	4531,23
 Libya Telecom and Technology	9262
 Libya Trade Network	7159
@@ -602,7 +616,8 @@ PBoC-Central Bank of Libya	10026
 PREAMBLE The Liberia Telecommunications Authority	10407
 People’s Liberation Army	8510,1934
 Performs First Penile Prosthesis Surgery Libya	2837,989,15,690,99,50,66,65,38,415,53,275,183,129,44,409,340
-Personal Liberties	10759
+Personal Liberties	10759,76,2,1
+Personal Liberties Freedom of Expression	10837
 Physician Assistants Year U.S. Government Liberia	4202
 Policy Prescriptions The Government of Liberia	5244
 Policy Priorities Liberia	5244
@@ -615,7 +630,7 @@ Press Union of Liberia	5244,3616,351,1
 Press Union of Liberia SADM	5244
 Protect Liberia’s Historical Heritage	10405
 Proyecto de Estudio Zona Libre Comercio	4209
-RIGHTS Personal Liberties	10759
+RIGHTS Personal Liberties	10759,78
 RIGHTS Personal Liberties Freedom of Expression	10759
 Reach Libya-focused	3841
 Recognising Liberia	5244

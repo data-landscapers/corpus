@@ -20,9 +20,10 @@ Congo IFC	7356
 Cooperation IFR Interim Financial Report IPF	1264
 DFC and Cassava. IFC	1429
 DPEs and IFPs	2989
+DSF EA FCFA GAR IFU MEFP	10858
 Description IFC	80,1,1,1,201,95,120,1,181,1,1,1,1,1,1,202,1,1,1,1,1,1,229,1,1,391,1,1,1,1,2,1,690,1
 Description IFU	84,59,237,121,395
-Displacement Monitoring Centre IFAD International Fund	10759
+Displacement Monitoring Centre IFAD International Fund	10759,78
 EU IFIs	970
 Economic Development Partner. IFC	2577
 Electoral and Boundaries Commission IFAD International Fund	2775
@@ -37,7 +38,10 @@ Gambia. Supports IFMIS	166
 Group IFC International Finance Corporation IPF	6539
 Huit IFM	8577
 ICT Grievance Redress Service IFC Higher-Level	3604
+IDP Internally Displaced Person IFR Interim	10829
 IFA2017yearinreview	226
+IFAD International Fund for Agricultural Development IHME	10835,3
+IFAD International Fund for Agricultural Development ILO	10841
 IFAD and World Bank	9650
 IFADÉlevage de Barkoissi	8303
 IFB Goods	8166
@@ -55,7 +59,7 @@ IFC Catalytic First Loss Guarantee	8937
 IFC Collaboration	3562,42
 IFC Collaboration Disbursement	1284
 IFC Collaboration No Expected Approval Date	1284
-IFC Collaboration No Proposed Development Objective	1867,8901
+IFC Collaboration No Proposed Development Objective	1867,8901,61
 IFC Country Manager for Comoros	3067
 IFC Debt Facility	893,1322
 IFC Disruptive Technologies and Funds	1264
@@ -71,6 +75,7 @@ IFC LP	379,303
 IFC LP Commitment IFC	82,417,182,214
 IFC LP Investment IFC	685
 IFC Loan	284,403
+IFC Mobile	10865
 IFC PDF	2215
 IFC Provides	7095
 IFC Real Sector Emergency COVID Facility	687
@@ -137,6 +142,7 @@ IFMIS Integrated Financial Management Information System	1284
 IFMIS Oracle	1834
 IFMIS STANDARDS AND GUIDELINES	34
 IFMIS STANDARDS AND GUIDELINES The Integrated	34
+IFORD	10874
 IFP MP Busaphi Machi	7404,3215
 IFPRI	8683,2085
 IFPs and Núcleos Pedagógicos Complete	2989
@@ -144,16 +150,20 @@ IFR Interim Financial Report INRIS Integrated	1867
 IFR Interim Financial Report IPF Investment	10768
 IFR-based	10768
 IFR. Accounting and Reporting Arrangements	3604
+IFR. The PIU	10829
 IFRS Accounting Standards	7204,2707,882
 IFRS S1	9103
 IFRS S1 and S2	9103
 IFRSs	1154,1897
 IFRSs and IPSASs	3051
 IFRs M	3604
+IFRs PIU	10829
 IFRs and Annual Financial Statements	10768
 IFRs. Withdrawal	10768
 IFT The National Instant Payment System	2358
+IFU ID	10812
 IFU Investment Committee	84
+IFU Taux	10858
 IFU and IFU	380
 IFU and Symbiotics	896
 IFU-only	896
@@ -176,6 +186,7 @@ Ifeoma Ilechukwu	8301
 Ifetedo	10049
 Ifrah F Ahmed	5947
 Ifthisoverallscoreexceedsasetthreshold	8606
+Ify Ogo	10819
 Inclusion IFU	896
 Information and Communication Technology IFMIS	5244
 Interim Unaudited IFR	3604
@@ -205,11 +216,13 @@ Part of IFC	1126
 Person IFR Interim Financial Report IGF	969
 Production IFU	84
 Proparco and IFC	1551
+Quarterly IFRs	10829
 REG. IFC	597,822
 SIGFP BI IFMIS	5866
 SSA. IFC	623
 Sierra Leone. IFC	1521
 South Africa IFC	1126
+Statistique IFORD	10874
 Supports IFMIS	536
 Survey and IFMIS	7548
 Through IFC	6932,163
@@ -221,3 +234,4 @@ World Bank and IFAD-supported	9650
 World Bank and IFC	3255,946
 World Bank's IFC Invests	9733
 World Bank’s IFC	4425
+ZAAD. IFC	10841

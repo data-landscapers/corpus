@@ -1,11 +1,12 @@
 A. Underdevelopment	3583
 ABOUT UNDP UNDP	4046
+AFIDEP African Institute for Development Policy UNDESA	10835,3
 AFRICA Undertaking	961
 AI for Middle Powers. Under the US	5044
 AI. A Framework for Understanding AI Risk	4528
 AKILI UNDE KATIKA MAGEUZI YA KIDIJITALI	7218
 ARPCE. Underscoring	2764
-Absence of Undue Influence	10759
+Absence of Undue Influence	10759,76,2,1
 Accelerating Home Under	10793
 Access Flooring System Underfloor	9123
 Act Understand	1630
@@ -33,7 +34,7 @@ Arrangement Under the Extended Credit Facility for Burundi	1284
 Article IV Consultation and Review Under the Flexible	8891
 Ayang Macdonald UNDP	9170
 Babu Owino Other Undecided NR	7869
-Balances Absence of Undue Influence Civic Checks	10759
+Balances Absence of Undue Influence Civic Checks	10759,78
 Banking Services Absence of Undue Influence Freedom	10759
 Beijing. Under	10444
 Belgium. Under	5335
@@ -63,6 +64,7 @@ Commerce Undersecretary	7209
 Conclusion Undersea	2677
 Convention Against Corruption UNDP United Nations	970
 Could Undermine Nat'l Security	3092
+Coverage UNDB United Nations Development Business	10829
 Cross-Border Data Exchange Guidelines. Under	4583
 Cyber and Data Protection Act. Under Statutory	8437
 Cybersecurity Implications of Chinese Undersea Cable	4676
@@ -79,6 +81,7 @@ Developing Under Uncertainty	8301
 Digital Advisor for UNDP Malawi	7232
 Digital Economy and UNDP	8094
 Digital Government Expertise Under	4769,394,334,86
+Digital Identity Under	10819
 Disbursed Undisbursed	6579
 Disbursed Undisbursed IDA-71820	1228
 Document. Under	3503
@@ -125,8 +128,10 @@ ICT Ministry and UNDP Launch Digital Readiness	1953
 ICTA KISE Private Sector Understanding ICT	899
 ICTs. Under the National Development Strategy	958
 ID Mauritania. UNDP	1833
+INFRASTRUCTURE Absence of Undue Influence	10835,3
 IPv6. Under	1702
 ITB and CNRC. Under	4542
+ITU and UNDESA	10844
 Identity Management Systems II. Under	6177
 Identity Underpinning	767
 Importance of Undersea Cables	2677
@@ -142,6 +147,7 @@ Jennifer Onyeagoro Under	3648,894
 Joyce Onyeagoro Under	7405
 Kagame Says... Under New Regulations	3256
 Kenya and UNDP Deepen Partnership	8094
+Kenya. Under	10822
 Kigali Genocide Memorial Site Under	718
 KoboToolbox. Under the National Social Protection Strategy	4427
 L.10 Undecies	3537,2277
@@ -235,6 +241,7 @@ Satellite Memorandum of Understanding	2913
 Save Billions Under New UK Version	1243
 Scheme. The Memorandum of Understanding	3760
 Scope Under Article	10370
+Score Rank Absence of Undue Influence	10835
 SecDev Under the World Bank	1777
 Service Fund UN United Nations UNDP	6539
 Service Under	6946
@@ -252,6 +259,7 @@ SpaceX. Under	6248
 Starlink. Under	4581
 Strategic Emerging Industries Business Headquarters. Under	6485
 Strengthen AI Skills Under Digital	7488
+Sub- Saharan African Historically Underserved Traditional	10829
 Sub-Saharan African Historically Underserved Not Currently	1867
 Substantial Undertake	10768
 Sudan. Under	4665
@@ -268,7 +276,7 @@ Tenders Awarded Under AGPO	2775
 Third Review Under the Staff-Monitored Program	3583
 Timely and Understandable Climate Information Lusaka City	10347
 Tom Bernstein Undaunted	225
-Trade and Development UNDESA United Nations Department	10759
+Trade and Development UNDESA United Nations Department	10759,78
 Trade and Development UNDG United Nations Development	1243
 Trade and Development UNDP United Nations Development	1264,5682,602
 Transforming Rural and Underserved Schools	6948
@@ -281,7 +289,7 @@ UNDER THE MULTI-PHASE PROGRAMMATIC APPROACH RESULTS	3604
 UNDERCOVER	10034
 UNDERSTANDING	762,1688
 UNDERSTANDING PEOPLE’S LIVES	418
-UNDESA	2510,8204,45,6,10
+UNDESA	2510,8204,45,6,10,60,2,1
 UNDP AI Sprint	7060
 UNDP Accelerator Labs	402
 UNDP Accelerator Labs Network Africa UNDP	402
@@ -342,6 +350,7 @@ UNDP Rwanda	8674
 UNDP Rwanda and Access	8449
 UNDP Senegal	5834
 UNDP Sub-Regional Hub for West and Central Africa	9134
+UNDP Supports Young Cameroonian Entrepreneurs	10841
 UNDP The Gambia	9170
 UNDP UNESCO USA USSD UZ VC	4528
 UNDP Under	6336
@@ -391,6 +400,7 @@ UNDP. Pre-adoption	5098
 UNDP. Together	6336
 UNDP... Eligible	9134
 UNDPLesotho	8100
+UNDP’s Chief Digital Office	10852
 UNDP’s Ghana Representative	7068
 UNDRR	10763
 UNICEF and UNDP	10210
@@ -399,7 +409,7 @@ UNU-EGOV and UNDP Bissau	2351
 USTDA Digital Infrastructure Activities Under Digital	1172
 Uganda Under the Uganda Communications Act	9041
 Uganda. Under	4581
-Undated	42,923,72,245,824,60,2270,5,1234,1545,2235
+Undated	42,923,72,245,824,60,2270,5,1234,1545,2235,1384
 Undated AWS Africa	7210
 Undated CMS	9437
 Undated DPI Map	7221,1
@@ -407,7 +417,7 @@ Undecided	7869
 Undecided NR	7869
 Undecided NR Base	7869
 Undenatured	6921
-Under	11,16,162,47,124,402,170,8,13,5,14,37,80,60,5,7,51,31,7,34,58,212,127,21,75,18,49,23,121,88,137,35,352,80,51,110,48,116,7,25,14,16,50,44,15,32,10,125,111,2,46,36,45,21,11,33,85,49,89,71,106,1,59,19,25,16,69,5,19,79,45,16,5,20,82,16,2,1,31,1,38,11,11,2,5,6,21,15,6,3,13,6,1,33,22,8,18,56,22,5,28,72,41,60,23,55,1,22,2,45,8,7,19,1,1,4,1,4,27,4,1,11,10,4,9,11,4,4,12,11,9,31,17,109,4,17,69,39,20,65,29,56,41,11,82,8,28,3,60,42,3,15,45,9,1,5,5,6,4,29,22,1,15,70,2,6,29,11,24,13,17,36,58,6,9,120,34,8,2,126,12,4,19,15,51,1,2,2,60,30,5,31,23,10,52,22,14,8,39,19,17,33,11,17,33,8,33,6,5,10,27,15,39,16,28,24,37,83,5,8,77,49,23,18,11,22,4,67,38,4,23,25,100,41,5,1,28,1,46,5,54,49,18,7,15,1,17,3,10,9,50,2,18,53,19,8,41,33,5,6,29,45,8,152,86,2,28,7,42,4,6,13,33,2,12,56,43,24,48,9,4,13,19,8,20,58,1,37,47,12,11,7,102,34,25,20,10,59,6,18,2,5,50,25,8,8,15,45,14,16,9,19,15,12,5,36,18,21,39,6,22,13,3,30,4,17,11,33,13,65,5,38,2,20,9,28,26,2,17,2,51,1,8,14,28,3,31,26,1,3,7,21,4
+Under	11,16,162,47,124,402,170,8,13,5,14,37,80,60,5,7,51,31,7,34,58,212,127,21,75,18,49,23,121,88,137,35,352,80,51,110,48,116,7,25,14,16,50,44,15,32,10,125,111,2,46,36,45,21,11,33,85,49,89,71,106,1,59,19,25,16,69,5,19,79,45,16,5,20,82,16,2,1,31,1,38,11,11,2,5,6,21,15,6,3,13,6,1,33,22,8,18,56,22,5,28,72,41,60,23,55,1,22,2,45,8,7,19,1,1,4,1,4,27,4,1,11,10,4,9,11,4,4,12,11,9,31,17,109,4,17,69,39,20,65,29,56,41,11,82,8,28,3,60,42,3,15,45,9,1,5,5,6,4,29,22,1,15,70,2,6,29,11,24,13,17,36,58,6,9,120,34,8,2,126,12,4,19,15,51,1,2,2,60,30,5,31,23,10,52,22,14,8,39,19,17,33,11,17,33,8,33,6,5,10,27,15,39,16,28,24,37,83,5,8,77,49,23,18,11,22,4,67,38,4,23,25,100,41,5,1,28,1,46,5,54,49,18,7,15,1,17,3,10,9,50,2,18,53,19,8,41,33,5,6,29,45,8,152,86,2,28,7,42,4,6,13,33,2,12,56,43,24,48,9,4,13,19,8,20,58,1,37,47,12,11,7,102,34,25,20,10,59,6,18,2,5,50,25,8,8,15,45,14,16,9,19,15,12,5,36,18,21,39,6,22,13,3,30,4,17,11,33,13,65,5,38,2,20,9,28,26,2,17,2,51,1,8,14,28,3,31,26,1,3,7,21,4,22,7,15,9,3,5,23,3
 Under Administrative Circular No	5731
 Under Article	1742,3502,4670
 Under Articles	4763
@@ -417,7 +427,7 @@ Under CAR	1907
 Under Canada’s Africa	10120
 Under Chairman Brendan Carr	10444
 Under Commitments	9022
-Under Component	1264,20,583,121,901,3650
+Under Component	1264,20,583,121,901,3650,4290
 Under DMAP	1704
 Under Digital Malawi	1704
 Under Digital Malawi Phase	1704
@@ -451,6 +461,7 @@ Under Phase II	6946
 Under President Adama Barrow	5279
 Under President Xi Jinping the Chinese	2518
 Under Pressure From Nigerians	7176
+Under SENI	10829
 Under SHA	2515
 Under SMART Zambia Initiative	6104
 Under Sec	2806
@@ -465,7 +476,7 @@ Under Siege	9397
 Under South Africa	5498,2775
 Under Sub-component	4359
 Under Sub-section	573
-Under Subcomponent	3604
+Under Subcomponent	3604,7225
 Under Washington	8479
 Under Water and Sanitation Sector	718
 Under the Act	6820
@@ -475,7 +486,7 @@ Under the Bilateral Agreement	4260
 Under the Buy Kenya Build	6946
 Under the City	8915
 Under the Commonwealth’s Nagdi	4172
-Under the Creative Commons Attribution	10714,51,10
+Under the Creative Commons Attribution	10714,51,10,37
 Under the Cyber Security and Crime Act	7777
 Under the Cyber and Data Protection Act	4529
 Under the DSR	4676
@@ -489,6 +500,7 @@ Under the FAIR	5914
 Under the Finance Act	10676
 Under the First Schedule	10738
 Under the GDPR	7081,1355,1551
+Under the General Agreement	10844
 Under the High Patronage of His Majesty King	2577
 Under the Human and Social Capital Development	9959
 Under the ICT Act	34,8995
@@ -511,8 +523,10 @@ Under the National Skills Building Program	1204
 Under the Nigeria Revenue Service	9570
 Under the Nigeria Tax Act	9972,347
 Under the Orange Business	8125
+Under the PAIF-PME	10845
 Under the Participation Agreement	4261
 Under the Personal Data Protection Act	5385
+Under the Registration of Persons Act	10890
 Under the Regulations	6512,1668
 Under the Reserve Bank	5544
 Under the STARTOCODE Program	6087
@@ -529,6 +543,7 @@ Under the World Bank ID4D	4291
 Under the World Bank's EDGE	4214
 Under the World Economic Forum’s Network Readiness	236
 Under-5 BRR	10714
+Under-five	10829
 Under-floor	9123
 Under-resourced	6832
 Under-resourced Institutions	4528
@@ -547,7 +562,8 @@ Underlying Stack Different	767
 Undermining	3572
 Underneath	7955,1157
 Underpinned	557,1130,4003
-Underpinning	2845,763
+Underpinning	2845,763,7244
+Underpinning the Digital Economy	10892
 Underpins Ethiopia	1804
 Underprivileged Communities	6948
 Underreporting	9616
@@ -582,7 +598,7 @@ Underserved Traditional Local Communities	1988
 Understand	236,182,839,373,358,1291,871,2282,1345,1701,56,1187
 Understand The Security Requirements	34
 Understandably	10
-Understanding	990,258,845,3,852,416,427,885,149,81,341,286,167,514,17,156,281,123,155,2,330,215,55,211,127,60,75,1,68,40,4,326,143,68,220,237,1,108,230,44,105,2,1100,43,4,10
+Understanding	990,258,845,3,852,416,427,885,149,81,341,286,167,514,17,156,281,123,155,2,330,215,55,211,127,60,75,1,68,40,4,326,143,68,220,237,1,108,230,44,105,2,1100,43,4,10,44
 Understanding AI	6948
 Understanding Africa’s AI Governance Landscape	6603
 Understanding China	2518
@@ -612,6 +628,7 @@ Understanding the Impact of Artificial Intelligence	6948
 Understanding the Relationship	10765,10
 Understanding the Risks of Algorithmic Bias	8747
 Understanding the Shift	10245
+Understanding the Socioeconomic Conditions of Refugees	10841
 Understanding-MOSIP-Biometric-Update-report.pdf	6025,263,83,172
 Understandlnfl User Needs	1009
 Understood	7320
@@ -626,7 +643,7 @@ Underway FinScope	418
 Underway FinScope Eswatini	418
 Undesirable	3714
 Undeterred	4127
-Undisbursed	2712,1941,35
+Undisbursed	2712,1941,35,6182
 Undisbursed Historical Disbursed	6928,949
 Undisbursed IDA	2989
 Undoubtedly	2307

@@ -39,6 +39,7 @@ CASE STUDIES GUIDANCE Disclosures	5618
 CASE STUDIES GUIDANCE Executive	5618
 CASE STUDIES GUIDANCE Governance	5618
 CASE STUDIES GUIDANCE Introduction REUTERS	5618
+CASE STUDY	10823
 CASE STUDY BANXSO	8354
 COST STUDIO LIMITED Data Controller INST-99606065B31	7167
 COST STUDIO LIMITED Data Processor INST-99606065B31	7167
@@ -46,9 +47,9 @@ CRASA Study.pdf	544
 Cabinet for Studies	10748
 Cabinet of Studies	10775
 Cameroon Unveils Key Study	2918
-Case Studies	1250,3313,2384,1,203
+Case Studies	1250,3313,2384,1,203,3701
 Case Studies and Precedents	3861
-Case Study	797,230,1084,312,962,1463,396,899,1564,1149
+Case Study	797,230,1084,312,962,1463,396,899,1564,1149,1963
 Case Study Analysis Report	7151
 Case Study Companion	2858
 Case Study Financial	10719
@@ -56,6 +57,7 @@ Case Study of Fiji	5349
 Case Study of Hwange Power Plant Power	1154
 Case Study of Langata and Westlands Constituencies	899
 Case Study of Mozambique	2816
+Case Study of Orange Senegal and Uganda	10822
 Case Study of South Africa	6948
 Center for Doctoral Studies	2422
 Center for Entrepreneurial Studies	1037
@@ -73,8 +75,10 @@ Comparative Political Studies	7886
 Comprehensive Draft Study	2117
 Computer Studies	2308
 Computer Studies and Technology	7564
+Consumer and Market Study	10841
 Contemporary French and Francophone Studies	3782
 Country Case Studies	4430,245
+Country Contexts. Stud Fam Plann	10881
 Cross-cultural Study of Sharing Digital Devices	4439
 Crypto Asset Market Study	9677
 DAWN AI STUDY	8327
@@ -84,11 +88,13 @@ DELTA40 VENTURE STUDIO LIMITED Data Controller	7167
 DESIGN MASTERS STUDIO LIMITED Data Controller	7167
 DESIGN MASTERS STUDIO LIMITED Data Processor	7167
 DEVELOPMENT STUDIES Data Processor INST-86521012D9D	7167
+DPT3 Vaccine Stunting	10829
 Dala Studio	8149,1492
 Demographic Studies	3437
 Development Student Industrial Work Experience Scheme	10721
 Development and Policy Studies Dept. Public Management	10123
 Diaspora Studio	2577
+Difference Studies	10881
 Digital Infrastructure Investment Study	6152
 Digital Outreach Studio	6623
 Digital Transformation Case Study World	1278
@@ -101,6 +107,7 @@ Eco-friendly Cloud Market Study	1264
 Economic Impact Study	1207,1
 Economic and Demographic Studies	4035
 Economic and Political Studies	4676
+Economy Study	10862
 Ecosystem Mapping Study	9309
 Education Platforms for Students	6748
 Empirical Study Factors	226
@@ -111,6 +118,7 @@ Expansion Feasibility Study	731
 Exploratory Study	10143
 FL Studio	9739
 FM Studios	6946
+Finds New GSMA Study. Press Release	10822
 Foundation for Studies and Research	6773
 Frequency Assignments for Broadcast Studio	6946
 Gebeya Dala Studio Mini App	7625
@@ -119,6 +127,7 @@ Gemini Study Notebooks	10525
 Generation Study and Screen4Care	10188
 Ghana The University of Professional Studies	8697
 Gifted Students’ Perceptions of Course Quality	961
+Global Acute Malnutrition and Stunting	10841
 Google AI Studio	3366
 Google Developer Student Club	3157
 GovTech Case Studies	994
@@ -223,6 +232,7 @@ Qualitative Study	1824
 RTC Studios	4242
 RUN Studios. Original	1038
 Recommended Case Study	8301
+Reduce Stunting	10829
 Regional Center for Studies	5615
 Regional Institute for Population Studies	9312
 Renewed Hope Students Leaders Engagement	8824
@@ -234,6 +244,8 @@ S.r.l StoryTailors Ltd StratIA Global Studio	8530
 STUDIES GUIDANCE INTRODUCTION	5618
 STUDIES LIMITED Data Controller INST-245210F2E08 UASIN	7167
 STUDIES LIMITED Data Processor INST-245210F2E08 UASIN	7167
+STUDY ADDS Over	10881
+STUDY MIGHT AFFECT RESEARCH	10881
 STUDY ON CONTRIBUTION OF ICT	236
 Saharan Africa. Stud Health Technol Inform	8376
 School of Graduate Studies	9534
@@ -264,24 +276,26 @@ Student Pilot License SSA Sub-Saharan Africa	2775
 Student Satisfaction	2518
 Student Success	9128
 Student Voices	6948
-Students	899,329,639,1644,586,29,93,400,16,18,327,822,173,380,246,232,113,2,343,104,173,387,324,560,281,8,237,175,333,86,99,336,131,75,126,49
+Students	899,329,639,1644,586,29,93,400,16,18,327,822,173,380,246,232,113,2,343,104,173,387,324,560,281,8,237,175,333,86,99,336,131,75,126,49,90
 Students Engagement	2318,6506
 Studentsuccess Categories	8602
 Studia Inc	6120
 Studia Informacyjne	8022
 Studie	9739
-Studies	1212,7,29,580,160,108,581,271,212,444,523,548,674,1599,410,432,96,80,55,1,108,246,752,1,108,248,262,142,500,376,15
+Studies	1212,7,29,580,160,108,581,271,212,444,523,548,674,1599,410,432,96,80,55,1,108,246,752,1,108,248,262,142,500,376,15,39,10
 Studies MoU	1154
 Studies Research	6832
 Studies School of Technology and Social Sciences Dept	10123
 Studies and Evaluations	7313
+Studies and Planning Number	10829
+Studies and Planning The World Bank CAR	10829
 Studies and Surveys	6946
 Studies&volume	2096
 Studies. Available	2518
 Studieshaveexploredsimilarity-basedjoins	8606
 Studiesindicatethatwhenanalyticstoolsarepoorlyalignedwith	8602
 Studs	9123
-Study	299,600,63,245,5,7,42,553,1790,187,534,1024,253,937,293,1062,128,108,246,60,49,956,298,1025
+Study	299,600,63,245,5,7,42,553,1790,187,534,1024,253,937,293,1062,128,108,246,60,49,956,298,1025,77,29,11
 Study AI Patentability and Digital Rights	7624
 Study Awareness of Health Effects Due	1154
 Study Calls for More Cybersecurity Opportunities for African	7156
@@ -298,10 +312,14 @@ Study and Nationality	2775
 Study and Sex	2775
 Study of CSR Engagement	2518
 Study of Journalism	5090
+Study of Options for Mutual Recognition of National IDs	10819
+Study of Options for Mutual Recognition of National Ids	10819
 Study of Violence and Reconciliation and Others	2307
 Study-Groups	689
 Studying	3263,7373
 Studying Information Technology	5349
+Stulz Nokia OVH Royal Globeleq TI	10861
+Stunting	10829
 Stupid AI	8460
 Stupidity	5022
 Stupidity Dans	5022

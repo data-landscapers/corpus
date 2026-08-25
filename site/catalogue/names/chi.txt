@@ -42,6 +42,8 @@ Africa CDC Chief Digital Advisor Nsengimana	5378
 Africa Children IGF	9858
 Africa Gender and Child Statistics Forum	8427
 Africa Growth Initiative Chido Munyati Chido	5440
+Africa UNICEF United Nations Children's Fund	10838
+Africa UNICEF United Nations Children’s Fund	10835
 Africa and China	3056,985,1822,1007,1156
 Africa-China Trade China-Africa	5863
 Africa. China’s BRI	2518
@@ -68,6 +70,7 @@ Amazon’s China	6471
 Ambassador A.R. Chimbindi	5148
 Ambassador of China	9090
 American and Chinese	8014,481,768
+Americas Brazil Barbados Chile Honduras União	10844
 Amortización de Crédito Chino	4209
 Analysis By Pamellah Musimwa and Chinga Govhati	8864
 Anambra Digital Economy By Chinwe Onuigbo	10160
@@ -159,6 +162,7 @@ CHIEF EXECUTIVE OFFICER	585,8281
 CHIEF EXECUTIVE OFFICER PHARMACY AND POISONS	9855
 CHIEKO MEDICAL CENTRE LIMITED Data Controller	7167
 CHIFFRE	998
+CHIFFRE D’AFFAIRES	10875
 CHIFFRES CLES DES SERVICES FINANCIERS NUMÉRIQUES	4459
 CHIFFRES CLÉS	2342
 CHIFFRES CLÉS DES SERVICES FINANCIERS NUMÉRIQUES	4459
@@ -421,7 +425,7 @@ Chief Information Security Officer	4755,3808,137,654,1367
 Chief Information Security Officer MoE Ministry	6936
 Chief Information Security Officers	3214,6149,1326
 Chief Information Technology Officer	5825
-Chief Innovation Officer	4528
+Chief Innovation Officer	4528,6359
 Chief Innovation Officer Gabrie Gouws	1590
 Chief Integration	7948
 Chief Intergovernmental Fiscal Relations Officer and Chief	6946
@@ -498,7 +502,7 @@ Chieftaincy and Religious Affairs	1514,2976
 Chieftainess Mat'senolo Bereng	309
 Chiel Timmermans	4127
 Chiew	7759
-Chiffre	419,329,250,249,1095,2000,1524
+Chiffre	419,329,250,249,1095,2000,1524,5009
 Chiffre Chiffre Analyse	748
 Chiffre Chiffre Chiffre Chiffre Chiffre Analyse	748
 Chiffre Chiffre Chiffre Chiffre Chiffre Exploitation	748
@@ -525,13 +529,14 @@ Chikamata Permanent Secretary MINISTRY OF HEALTH	34
 Chike Onwuegbuchi	8288
 Chikomba EWZL Owned Vacant Shop Stand	4896
 Chikondi Banda	10358
+Chikumba PA	10881
 Chikumbutso Godfrey Mtuwa	10412
 Chikunga	9767
 Chikwamanga Daniel	4736
 Chilakalaka	7880
 Chilanga	5522
 Chilaule Angela da Silva Luis Rego Zauria	2989
-Child	21,5,1,555,189,201,239,386,41,350,1595,1000,1809,554,201,836,112,281,228,1162,28,16,949,6,10
+Child	21,5,1,555,189,201,239,386,41,350,1595,1000,1809,554,201,836,112,281,228,1162,28,16,949,6,10,44,10,6,2,1,43
 Child Act	3583
 Child Care	9429
 Child Care Midlands State University National	1554
@@ -546,6 +551,7 @@ Child Health Services	10776
 Child Health Services Recent	10776
 Child Labour	1988
 Child Labour and Minimum Age Sections	1988
+Child Marriage	10829
 Child Online Access Protection Bill	4583
 Child Online Protection	4544,2402,1104
 Child Online Protection Department	4583
@@ -591,7 +597,7 @@ Childline Kenya	8050
 Childline Kenya Data Controller INST-176101095E1 NAIROBI	7167
 Childline Kenya Facebook	8050
 Childline Zimbabwe	9794
-Children	1,581,418,220,594,282,422,30,227,932,594,147,188,306,40,243,1118,177,272,154,221,381,502,525,75,214,379,543,8,547,64,299
+Children	1,581,418,220,594,282,422,30,227,932,594,147,188,306,40,243,1118,177,272,154,221,381,502,525,75,214,379,543,8,547,64,299,125,25
 Children Act	8948
 Children Forum Network	9765
 Children Fund	3583
@@ -613,12 +619,12 @@ Children's IGF	9648
 Children's Right	1211
 Children's Rights	8050
 Children's Services	7548
-Children’s Fund UNU-WIDER United Nations University	10759
+Children’s Fund UNU-WIDER United Nations University	10759,78
 Children’s Investment Fund Foundation	1824
 Children’s Literacy Whilst	1363
 Child’s Fingerprints Collection	10765,10
 Child’s Fingerprints Collection Figure	10775
-Chile	444,799,1820,719,1393,849,825,1277,503,41,1069,975,71
+Chile	444,799,1820,719,1393,849,825,1277,503,41,1069,975,71,61
 Chile BUSTOS	6613
 Chile Global Cybersecurity Index	10764
 Chile NA NA NA NA	10714
@@ -661,7 +667,7 @@ Chimwemwe Mangazi	3933,676,166
 Chimène Anani Dègla	5899
 Chimène Lougbegnon Bossa	6475
 Chin J Int Polit	5242
-China	51,1,8,62,58,3,2,35,6,10,140,83,16,6,47,33,10,147,73,67,103,9,68,112,93,7,304,147,27,86,12,1,68,198,24,194,24,30,153,31,77,51,98,29,12,20,193,27,141,201,64,49,8,27,37,15,1,93,258,31,60,12,2,71,127,5,1,167,13,8,1,47,19,103,49,8,2,71,7,5,121,27,63,40,19,4,11,78,2,23,92,3,5,5,5,31,5,9,62,76,93,65,2,58,22,2,34,17,22,47,61,9,34,79,6,12,10,6,83,11,83,59,12,35,24,5,24,6,7,25,14,3,1,66,45,14,5,12,12,3,12,2,10,98,69,31,18,17,9,33,1,2,5,18,1,52,2,2,70,78,11,3,14,48,35,11,24,11,80,72,64,3,74,21,142,48,98,3,3,7,92,17,35,12,20,4,76,11,35,93,66,16,16,97,35,15,10,96,22,32,34,36,48,1,101,2,29,7,8,31,3,44,1,3,178,42,12,13,19,2,8,52,35,8,5,7,32,30,132,15,21,3,13,14,108,2,47,35,44,89,10,31,1,12,9,11,10,10,10,26,43,16,28,14,3,24,28,25,55,1,22,57,11,2,1,7,50,26,96,7,2,17,65,13,2,23,10,23,11
+China	51,1,8,62,58,3,2,35,6,10,140,83,16,6,47,33,10,147,73,67,103,9,68,112,93,7,304,147,27,86,12,1,68,198,24,194,24,30,153,31,77,51,98,29,12,20,193,27,141,201,64,49,8,27,37,15,1,93,258,31,60,12,2,71,127,5,1,167,13,8,1,47,19,103,49,8,2,71,7,5,121,27,63,40,19,4,11,78,2,23,92,3,5,5,5,31,5,9,62,76,93,65,2,58,22,2,34,17,22,47,61,9,34,79,6,12,10,6,83,11,83,59,12,35,24,5,24,6,7,25,14,3,1,66,45,14,5,12,12,3,12,2,10,98,69,31,18,17,9,33,1,2,5,18,1,52,2,2,70,78,11,3,14,48,35,11,24,11,80,72,64,3,74,21,142,48,98,3,3,7,92,17,35,12,20,4,76,11,35,93,66,16,16,97,35,15,10,96,22,32,34,36,48,1,101,2,29,7,8,31,3,44,1,3,178,42,12,13,19,2,8,52,35,8,5,7,32,30,132,15,21,3,13,14,108,2,47,35,44,89,10,31,1,12,9,11,10,10,10,26,43,16,28,14,3,24,28,25,55,1,22,57,11,2,1,7,50,26,96,7,2,17,65,13,2,23,10,23,11,50
 China Academy of Information and Communications Technology	7174
 China Aerospace Science and Technology Corporation	9816
 China Builds Underlying Infrastructure	10350
@@ -765,8 +771,10 @@ China and Canada	562
 China and Dubai	4055
 China and ECOWAS	6003
 China and ECOWAS. Exchanges	6003
+China and Hong Kong	10846
 China and India	2775,1664,533,2270
 China and Lusophone	6361
+China and Malaysia	10846
 China and Mercado Pago	6971
 China and Niger	3546
 China and Portuguese-speaking	6361
@@ -850,6 +858,7 @@ China. Beneficiaries	8560
 China. Bulletin	2518
 China. But China	5863
 China. CIPS	8928
+China. Cambridge	10846
 China. China	2518,4064
 China. European	6582
 China. Given	10527
@@ -909,9 +918,10 @@ China’s Pursuit of Digital Sovereignty	1243
 China’s Strategic Aims	2518
 China’s Swift	10026
 China’s Xinjiang	2518
+China’s Yuemei Group	10841
 China’s Zhongji Innolight	8921
 Chinbuah	8343
-Chine	556,9,1114,591,13,231,417,189,71,274,314,789,270,184,1213,119,5,254,164,182,165,335,608,152,296,158,218,659,70,48,196,58,39,233,313,86,18,4,18,65,2
+Chine	556,9,1114,591,13,231,417,189,71,274,314,789,270,184,1213,119,5,254,164,182,165,335,608,152,296,158,218,659,70,48,196,58,39,233,313,86,18,4,18,65,2,121
 Chine Dans	5358
 Chine Moundou	2314
 Chine Parlant	2266
@@ -932,7 +942,7 @@ Chinedu Okafor	3413
 Chinemenma Igbokwe and Adedola Adetokunbo-Ajayi	9750
 Chinenye Ifebirinachi	6423
 Chines	5242
-Chinese	18,20,13,5,1,2,66,55,1,1,1,1,1,4,1,30,26,69,23,2,2,17,17,98,5,2,79,21,38,28,144,459,33,271,65,109,98,1,290,27,135,239,109,189,213,34,268,91,28,12,20,64,37,15,49,6,6,52,48,64,44,110,4,46,31,69,46,12,293,17,68,13,54,42,4,4,186,41,108,109,114,4,5,10,31,14,15,20,27,144,150,24,34,104,27,16,128,12,99,56,173,26,53,131,24,15,112,85,13,1,159,80,96,1,47,35,55,79,7,48,58,15,118,161,107,13,144,120,197,16,113,35,15,166,112,102,31,7,8,7,27,45,12,41,22,29,118,1,25,19,2,95,20,32,156,42,30,61,112,19,87,46,42,12,9,21,133,14,135,1,18,61,11,2,1,7,50,4,22,91,12,2,164
+Chinese	18,20,13,5,1,2,66,55,1,1,1,1,1,4,1,30,26,69,23,2,2,17,17,98,5,2,79,21,38,28,144,459,33,271,65,109,98,1,290,27,135,239,109,189,213,34,268,91,28,12,20,64,37,15,49,6,6,52,48,64,44,110,4,46,31,69,46,12,293,17,68,13,54,42,4,4,186,41,108,109,114,4,5,10,31,14,15,20,27,144,150,24,34,104,27,16,128,12,99,56,173,26,53,131,24,15,112,85,13,1,159,80,96,1,47,35,55,79,7,48,58,15,118,161,107,13,144,120,197,16,113,35,15,166,112,102,31,7,8,7,27,45,12,41,22,29,118,1,25,19,2,95,20,32,156,42,30,61,112,19,87,46,42,12,9,21,133,14,135,1,18,61,11,2,1,7,50,4,22,91,12,2,164,45
 Chinese AI	1965,374,2899,19,107,1426,1482,188,35,15,237,41,102,373,21,754,177,215,97
 Chinese AI Published	9659
 Chinese Ambassador	35,147,7,39,1,31,1,39,43,18,430,5200,12,1867,1220,289,187,1057
@@ -1011,7 +1021,7 @@ Chinsali District	6104
 Chinsali Special School	6713
 Chintholo	1526
 Chintu	8480,2072
-Chintu N	766,10014
+Chintu N	766,10014,101
 Chintu&author	766
 Chinwe Uzoho	3304
 Chinyama	3695,670,173,188,14,760,1,21,5,457,1146,254,1995,13,401,422
@@ -1151,6 +1161,7 @@ Director-General and Chief Executive Officer of NITDA	8439
 Directorate General and Area Chiefs	1382
 Directorate of Children Services	9083
 Disabilities Sindisiwe Chikunga	9767
+Diseases Child	10837
 Divyajeet Chief Executive	4896
 Djibouti Telecom Chief Executive Officer Mohamed	4898
 Djibouti Telecom Sudatel Group Chief Executive	4898
@@ -1207,6 +1218,7 @@ Elderly and Children. National Guidelines for Health Data	1261
 Ending Violence Against Children	10776
 Equipment Maternal and Child Health Infrastructure	4217
 Ericsson and China Mobile	5772
+Estimated Numbers of Maternal and Children’s Deaths Adverted	10829
 Etat Réponse Déclaration SAVE THE CHILDREN	998
 Ethio Telecom Chief Executive Officer Frehiwot	7690
 Ethio Telecom and Chinese	8245,1284
@@ -1265,7 +1277,7 @@ Google DeepMind Chief AGI Scientist Shane	9592
 Google Google China Telecom Google Google	6477
 Government Chief Technical Officer Kasali Musenge	7384
 Government Chief Technology Officer Kasali Musenge	5984
-Government Chief Whip	10672
+Government Chief Whip	10672,218
 Government Chief Whip Hon. Dr Jane	10672
 Government of China	342
 Government of Malawi and China Eximbank	483
@@ -1310,14 +1322,21 @@ Hotel Anda China	7704
 House That China Built	5302
 Huawei’s Global Academy. Zambia and China	10215
 Hustler Fund Chief Executive Officer Henry	7710
+I. LES PRINCIPAUX CHIFFRES I.1 NOMBRE	10847
+I. LES PRINCIPAUX CHIFFRES I.3 TAUX	10847
+I. LES PRINCIPAUX CHIFFRES I.4 TAUX	10847
+I. LES PRINCIPAUX CHIFFRES I.5 TAUX	10847
+I. LESPRINCIPAUX CHIFFRES I	10847
+I.LES PRINCIPAUX CHIFFRES I.2. NOMBRE D'ELEVES	10847
 ICT Manager Dr. Bwalya Chiteba	34
 ICT Officer Mr. Rutendo Chitembure	34
 ID for All The United Nations Children	6807
 IEC Chief Electoral Officer	9375
 IEC Chief Electoral Officer Sy Mamabolo	9375
 IEC Chief Executive Officer Sambujang Njie	9315
-IGME United Nations Inter-agency Group for Child	10759
+IGME United Nations Inter-agency Group for Child	10759,76,2,1
 IHS Towers Chairman and Chief Executive Officer	9639
+II. LES PRINCIPAUX CHIFFRES II.6. TAUX	10847
 ILX Fund Chief Investment Officer Kirstine	7229
 IMF Chief of Mission	3653
 IMF Mission Chief for Eswatini	3653
@@ -1339,8 +1358,9 @@ Influence of China	2518
 Infrastructure and Chinese	4676
 Innovating for Children and Youth	7171
 Institute for China-America Studies	10444
-Integrated Management of Childhood Illness	10776
+Integrated Management of Childhood Illness	10776,105
 Integrated Management of Childhood Illness IPC	10776
+Integrated Management of Childhood Illnesses	10881
 Interim Chief Executive Officer	8866,1126
 International Children’s Emergency Fund	10777
 Interswitch's Chief Information Officer	10010
@@ -1384,6 +1404,7 @@ Kitwe Teaching Hospital and Arthur Davison Children	7383,1
 Konza Technopolis Development Authority Chief Executive	9853
 Korea Poland Brazil Croatia Chile India	7655
 LE CHIFFRE DE LA SEMAINE	8637
+LES PRINCIPAUX CHIFFRES	10847
 LSE Kenya's Child Protection Information Management	9083
 La Chine	3465,3312,3476,380
 Laptops for Non-Technical Chief Directors	2779
@@ -1429,8 +1450,10 @@ MW Chisamba Solar Plant	5247
 MW Chisamba and Kabwe	5247
 MW. Chiffre	2342
 Madzima Chidyausiku Museta Legal Practitioners	3352,2381
+Maika Chiquier	10841
 Malawi Chinese	2511
 Malawi Launches Chichewa AI Initiative	6813
+Management of Childhood Illnesses	10881
 Managing Director and Chief Executive Officer	4690,1075,611,1013,479,549,1635
 Managing Director and Chief Executive Officer of Ambosit	7928
 Managing Director and Chief Executive Officer of Galaxy	8121
@@ -1442,6 +1465,7 @@ Mapping China	2518
 Mapping Chinese AI Surveillance	5508
 Marie-Reine Chirezi Fabry	8302,139
 Martin Chimombe	9395
+Marzia Chiesi Foundation Dept of Infectious Disease	10878
 Mascom Chief Consumer Business Officer Gaborone	2916
 Maseru. Chief Maseribane	309
 Masvingo Chinhoyi Victoria Falls Marondera Rusape	9429
@@ -1467,6 +1491,7 @@ Minister of Lands and Urban Development Chimwemwe Chipungu	8575
 Minister of State and Chief of Staff	1767
 Minister of Technology and Science Felix Chipota Mutati	6187
 Ministries of Health and Child Welfare and Local Government	21
+Ministry for Child Protection	10841
 Ministry of Child Welfare and Basic Education	1664,977,2996,1926
 Ministry of Gender Equality and Child Welfare	1188
 Ministry of Gender and Children Protection	5244
@@ -1538,6 +1563,7 @@ Number of Beneficiaries Number of Children Estimated	8999
 Nurturing Care For Early Childhood Development	10768
 Nyanyadzi and Chimanimani	1154
 OPÉRATEUR Chiffre	998
+ORS and Zinc Children	10829
 Officer Accountant Taona Jakachira Chief Technical	4896
 Okey Chigbu	6876,910,302,19
 Okey Chigbu for TechTrends Africa. Counter-narrative	7798
@@ -1583,6 +1609,7 @@ Port of Salalah China West Airport Group	2511
 Postbank Chief Commercial Officer Thamsanqa Cele	7856
 Pour le Chief Executive Officer de Mauritius Telecom	7224
 Powered By China	3598
+Pregnant Women Children	10829
 President and Chief Executive Officer of TeKnowledge	7234
 President and Chief Financial Officer	8939
 President and Group Chief Executive Officer of Cassava	4896
@@ -1598,6 +1625,7 @@ Professor Percy Chimwamurombe	5036
 Progression of CHIRPS	10763
 Project Export-Import Bank of China	127,134,97,1801,1
 Project Manager Mr. Brain Chibale	34
+Project Year Additional Children	10829
 Project. The Chinese Crosswalk	261
 Projecto China-FAO	6571
 Projet Smart Burkina Faso. The Chinese	475
@@ -1614,8 +1642,10 @@ RCZ Executive Director Dr P. Chikudza	1554
 RCZ Executive Director Dr Partson Chikudza	1554
 RCZ Executive Director Dr. P. Chikudza	1554
 RCZ Executive Director Dr. Partson Chikudza	1554
+Rapid Reduction of Maternal and Child Mortality32	10829
 Reading China	2518
 Real Story of China	2518
+Refugee Children	10841
 Refugees UNICEF United Nations Children's Fund	10765
 Refugees UNICEF United Nations Children’s Fund	10775
 Regional Ad- Chief Executive Officer	6938
@@ -1625,11 +1655,13 @@ Regulators Chief Executive Officer	6938
 Relevant Chinese	3546
 Remote Moomba Chiefdom	3662
 Reproductive Maternal Newborn Child Health	4349
+Reproductive and Child Health	10878
 Republic of China	8918
 Republic of Guinea and Export-Import Bank of China. RMB	2159
 Republic of Liberia Child	1777
 República Popular da China	3519,1235,3884,1356
 República da China	3519
+Responsibility for Data Collection Children	10829
 Role-modelling Bhutan China Brunei Darussalam Philippines	10764
 Roy Chimanikire	4622,274
 Russia and China	4676
@@ -1695,11 +1727,13 @@ Stand Land Chinhoyi	4896
 Stand Land Chivhu New Wireless Town	4896
 Standard Bank Group Chief Executive of Corporate	9702
 Startup Tunisia Global Program. Tunisia and China	2475
+Statistical System Child	10838
 Strategic China	5755
 Strengthen China-Africa	10441
 Strengthening Gender and Child Data Across Africa	8427
 Sunday. As China	10038
 Supervisor Responsibility Chief Data Officers	3861
+Supporting Essential Health Service Delivery Children	10829
 Survey of Chinese	5242
 Systems Analyst Mr. Chipopa Kazuma	34
 Sébastian Chi Elvido	8737
@@ -1742,9 +1776,11 @@ UBOS Executive Director and Chief Statistician	9322
 UN Children’s Fund	4545
 UN ECA's Deputy Executive Secretary and Chief	8472
 UNDP's Chief Digital Office	1953
+UNDP’s Chief Digital Office	10852
 UNICEF Child Protection Officer Patrick Halton	9765
 UNICEF Child Protection Specialist	10704
 UNICEF Lesotho’s Chief of Social Policy	4636
+UNICEF United Nations Children’s Fund	10829
 UNICEF United Nations Children’s Fund USAID	10768
 UNICEF Zimbabwe Chief of Child Protection	9461
 UNICEF's For Every Child	8050
@@ -1767,11 +1803,11 @@ Under President Xi Jinping the Chinese	2518
 Understanding China	2518
 Unified... China	8967
 United Nations Children's Fund	2239,937,407,1517,4361,400,11
-United Nations Children’s Fund	969,292,4541,4232,231,358,91,54
+United Nations Children’s Fund	969,292,4541,4232,231,358,91,54,61
 United Nations Children’s Fund Vertical Expansion	10763
 United Nations International Children’s Emergency Fund	1824,8952
 United Nations International Children’s Fund	1261
-United States and China	2117,3085,1401,548,580,1438,899
+United States and China	2117,3085,1401,548,580,1438,899,778
 United States and China. EU	10710
 United States and China. Mario Draghi	9832
 United States and China. Section	7151
@@ -1802,8 +1838,10 @@ William Kabogo and China	10539
 World Bank Group Chief Economist	5598
 World Bank. Chinen	6832
 World Bank. World Bank. Chinen	6832
+World Bank’s Reproductive Maternal and Child Health	10822
 World Business Chicago	8512
 World US China	6477
+World's Children	10812
 Would China	3874
 YAS Chief Executive Officer Mr Pierre	7026
 YEA Chief Executive Officer Malik Basintale	7285
@@ -1816,4 +1854,5 @@ Zhongguancun Science Park. China	9816
 ZimSwitch Chief Executive Officer Zabron Chilakalaka	7781
 Zimbabwe Dr. Chirume	10073
 Zimbabwe National Child Online Protection Policy	9794
+Zimbabwe and China	10822
 Zimbabwean Children Face Violent Discipline	2987,16,962,1438,1506

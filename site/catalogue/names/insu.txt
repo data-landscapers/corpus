@@ -20,6 +20,7 @@ AMSSURITY INSURANCE AGENCY LIMITED Data Controller	7167
 AMSSURITY INSURANCE AGENCY LIMITED Data Processor	7167
 APA Insurance Limtied Data Controller INST-187637344F0	7167
 APA Insurance Limtied Data Processor INST-187637344F0	7167
+ARC Insurance Company Ltd	10819
 ARCADIA INSURANCE BROKERS LIMITED Data Controller	7167
 ARCADIA INSURANCE BROKERS LIMITED Data Processor	7167
 ASHANTI PENSION INSURANCE AGENCY LIMITED Data	7167
@@ -44,6 +45,7 @@ BRAINSTORM INSURANCE BROKERS LIMITED Data Processor	7167
 BROOKS INSURANCE AGENCIES LIMITED Data Controller	7167
 BUPA GLOBAL INSURANCE LIMITED Data Controller	7167
 Banks and Insurance	4972
+Benin’s Insurance for Human Capital Strengthening	10822
 Breach Triage And The Insurer’s First	6632
 Britam General Insurance	7167
 C09 Insufficient RPA	9237
@@ -113,6 +115,7 @@ Health Insurance Fraud	2627,1513
 Health Insurance Fund	186,647
 Health Insurance Fund Care Pay Mobile	186
 Health Insurance Information System	629
+Health Insurance Units	10865
 Hollard Insurance	2151
 INDEMNITY AND INSURANCE	585,8281
 INSPECC. GRAL. DISCIPLINA. R. INSULAR.- Concepto	4209
@@ -131,18 +134,22 @@ Insuchcases	8602
 Insufficient	396,370,195,1346,1123,361,335,313,409,685,144,1052,103,716,203,625,752,532,374,15,216,453,45
 Insufficient Resources	4439
 Insufficiently	766
-Insuffisance	737,2229,4689,3057
+Insuffisance	737,2229,4689,3057,162
+Insuffisances	10858
+Insuffisant Non-renouvellement	10876
 Insuficiente	1701
 Insuficiência	10772
+Insufﬁcient	10844
 Insularización	1701
 Insulate the Panel	7112
 Insulation	1988
 Insult	26
+Insulte	10876
 Insumos	1701
 Insur	6019
 InsurTech	4848,1021,52
 InsurTech-related	10793
-Insurance	418,349,173,1769,66,2121,304,465,547,27,759,791,236,110,1102,1556
+Insurance	418,349,173,1769,66,2121,304,465,547,27,759,791,236,110,1102,1556,72
 Insurance Act	6938
 Insurance Activity Supervisory Body	6938
 Insurance Control Department	6938
@@ -198,7 +205,8 @@ National Health Insurance Levy	7695,44
 National Health Insurance NDoH Non-patient File	1009
 National Health Insurance Scheme	2714,854,2431,1696
 National Health Insurance and Social Guarantee Fund	9837
-National Hospital Insurance Fund	2515,7798,16,2
+National Hospital Insurance Fund	2515,7798,16,2,491
+National Hospital Insurance Fund Act	10822
 National Insurance	4602
 National Insurance Commission	6938
 National Social Insurance Authority	4944

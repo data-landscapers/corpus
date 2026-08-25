@@ -26,6 +26,7 @@ Cadre de Mesure de Rendement CO Contrats	10712
 Card Replacement Message	8999
 Chapitre III Mesures	308
 Chpter Mesongo Sibuti	10464
+Citizen SMS Short Message Service UIN	10812
 Communiquer Implémenter Mesurer Ajuster Etat Final	748
 Condolence Message	4619
 Constitucional Ministro Secretario de Mesa	4209
@@ -74,7 +75,9 @@ MESA DEL SENADO	4209
 MESCTI	6174,4602
 MESD Computerisation	1664
 MESFPT	3396
+MESGPR	10813,8
 MESIP	978
+MESO FINANCE Favorable	10821
 MESOB	3265,933,568,2094,960,67,1914,908
 MESOB Center	10709
 MESOB Center Inauguration	10709
@@ -91,7 +94,7 @@ MESR Coordination	2966
 MESR D	2966
 MESR Suivi	2966
 MESRI	2717
-MESRS	235,3369,3292
+MESRS	235,3369,3292,3925
 MESRSFP	8387
 MESRSI	2975,421,5495
 MESSAGE FROM THE CHAIRMAN Stewarding Safaricom	7204
@@ -99,6 +102,7 @@ MEST Africa. Cette	10353
 MEST CSIR-	4126
 MEST’s Strategic Technology	4126
 MESURE INDIVIDUELLE Au	2808
+MESURES ADMINISTRATIVES ET SANCTIONS Article	10836
 MESURES DE PROTECTION DE L’ENVIRONNEMENT	1005
 MESURES DE RATIONALISATION DES ENGAGEMENTS Article	4420
 MESURES D’APPUI	643
@@ -107,6 +111,7 @@ MESURES INDIVIDUELLES Au	3045
 Mass Drug Administration MESCTI	10776
 Mbaabu and Mesongo Sibuti	10464
 Meraki Mesh Response Kits and Cisco	7479
+Mes Données Personnelles	10821
 Mes Services	8878
 Mesa Redonda	10750
 Mesa Redonda Anual	7166
@@ -151,7 +156,8 @@ Messageries	10389
 Messages	21,1015,8580,178
 Messaging	3898,1623,579,2899,617,1177
 Messamena	8737
-Messenger	582,1922,1,1413,1,1,1544,8,4144,773
+Messenger	582,1922,1,1413,1,1,1544,8,4144,773,470
+Messenger Services	10819
 Messer	8460
 Messier M	10775
 Messieurs	2695,6942,1
@@ -172,10 +178,11 @@ Mestre Nilza Collinson. Na	2816
 Mestre Valinho António	2816
 Mesud G. Reta	8351
 Mesupres	8914
+Mesurables	10858
 Mesure	643,105,3672,5969
 Mesure Individuelle	2808
 Mesure Valeur	748
-Mesures	643,604,456,1693,731,2832
+Mesures	643,604,456,1693,731,2832,3877,6,32
 Mesures Générales	2808,237
 Mesures Individuelles	3045
 Ministro Secretario Mesa Magistrado CSJ	4209
@@ -214,7 +221,7 @@ Secretarios de Mesa	4209
 Secure and Monetise International A2P Messaging	7315
 Sending False Messages	3383
 Sending Offensive Messages	3383
-Short Message Service	34,10050
+Short Message Service	34,10050,728
 Short Message Service VoIP	6000
 Short Message Services	2776
 Short Message Tangaza University. Services	2775

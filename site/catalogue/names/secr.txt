@@ -8,6 +8,7 @@ ACP Secretariat	26,1,1
 AFRINIC Secretariat	10079
 AFSC Secretariat	6938
 AI Secretariat	5371
+APDP Imourane LEKOYO Secrétaire du Bureau Amouda	10821
 APEC Privacy Framework. APEC Secretariat. Retrieved	1243
 ARCEP Executive Secretary Wendlassida Patrice Compaore	6939
 ATAF Executive Secretary Mary Baine	7692
@@ -42,6 +43,7 @@ AfCFTA Secretariat and Smart Africa	6250,417
 AfCFTA Secretariat and UABA	8298
 AfCFTA Secretariat's Chief of Staff	8298
 AfCFTA Secretariat. Launched	7460
+AfCFTA Secretariat. Retrieved	10819
 AfCFTA Secretariat. Under the Concession Agreement	9255
 AfCFTA Secretary General	7064
 AfCFTA Secretary-General	7142,381,1953
@@ -56,6 +58,7 @@ Afreximbank and AfCFTA Secretariat	7523
 Africa Summit Secretariat	6097
 Africa. AfCFTA Secretary-General	9154
 Africa. Kenya's Cabinet Secretary for Information	5586
+African Continental Free Trade Area Secretariat	10819
 African Telecommunications Union Secretariat	7562
 African Union and AfCFTA Secretariat	5201
 Agreement. The AfCFTA Secretariat	7039
@@ -76,6 +79,7 @@ Assistant Secretary-General	5825,3589
 Audio By Vocalize Health Cabinet Secretary	8934
 Authority Executive Secretary	6938
 B1 Primer Secretario A1 Segundo Secretario	4209
+BCDF LES MAIRIES Secrétariat Exécutif DADE	10876
 BEAC Task Force Secretariat	6938
 Bank Secretary Representative	6938
 Bank of Mauritius AFSC Secretariat Hosted	6938
@@ -86,6 +90,7 @@ Bosun Tijani and US Deputy Secretary of State	2284
 Burundi's Executive Secretary for ICT	2408
 CABINET SECRETARY FOR FOREIGN	4153
 CBS Principal Secretary State Department for ICT	6432
+CIL. Le Secrétaire	10825
 COHESION NATIONALE Secrétaire	8237
 COMESA Secretariat	7020,241,702,372,660,521,1037
 COMESA Secretary General	7963,372
@@ -205,6 +210,7 @@ EAC Secretariat. The Committee	7967
 EAC Secretary General	9707
 EACO Secretariat	8753
 EC Secretary Ronald Kamugisha	4175
+ECCAS Secretariat Partners	10892
 ECOWAS Technical Secretariat	7
 EGH Cabinet Secretary Ministry of Information	6432
 EGH PRIME CABINET SECRETARY	4153
@@ -218,10 +224,12 @@ Ensino Primário Província Secretárias	10766
 Ensino Secundário Província Secretárias	10766
 Environnemental Membres Secrétaire Général Younès Benakki	8891
 Establish Policy Secretariat	7548
+Etat Chargé du Secrétariat	10821
+Etat Secrétaire Général	10821
 European Commission and ACP Secretariat	26,1,1
 Executive Secretariat	2889,1317
 Executive Secretariat for ICT	2840
-Executive Secretary	1474,80,754,1444,1189,28,382,122,19,297,28,182,311,82,546,356,29,553,684,194,64,626,397,328,475,72
+Executive Secretary	1474,80,754,1444,1189,28,382,122,19,297,28,182,311,82,546,356,29,553,684,194,64,626,397,328,475,72,106
 Executive Secretary Albert Nsengiyumva	10359
 Executive Secretary Gatete	8754
 Executive Secretary Prof. Kenneth Agyemang Attafuah	2772
@@ -254,6 +262,7 @@ Fiscalía Tribunal Constitucional Secretario General	4209
 Fiscalía Tribunal Constitucional Secretario Particular S.E	4209
 Foreword From the Permanent Secretary	4528
 Free Trade Area Secretariat	9154
+Frontières Secretariat Général du Gouvernement Conditions	10821
 G. CONTACT DETAILS First Transfer Secretaries	4896
 GPU Secretary General	7650
 Gaming Permanent Secretary	6938
@@ -301,6 +310,7 @@ IDs. NRB Principal Secretary Patrick Machika	7041
 IFM de Ségou. Le Secrétaire	8577
 IGAD Secretariat	9207
 IGAD Secretariat Immigration Expert Mujib Jemal	10317
+III.1.3.1.1 Le Secrétariat Exécutif	10876
 INCM Secretariat	3489
 INTERPOL General Secretariat	6426
 ITU Deputy Secretary-General Tomas Lamanauskas and ICPC	7199
@@ -359,6 +369,7 @@ Le Secrétaire Général	7470
 Le Secrétaire Général Adjoint du Ministère	9668
 Le Secrétaire Général du Gouvernement	9287
 Le Secrétariat	7658,1092,1726
+Le Secrétariat Exécutif	10876
 Le Secrétariat Général du Gouvernement	3121
 Lesotho The Principal Secretary	5523
 Let the Cabinet Secretary	10313
@@ -533,7 +544,7 @@ SECRETARIA GENERAL FRANCOFON.- Concepto	4209
 SECRETARIA GENERAL-Concepto	4209
 SECRETARIA TOTAL DIRECTIVO GENERAL	4209
 SECRETARIA TOTAL GENERAL	4209
-SECRETARIAT GENERAL	12
+SECRETARIAT GENERAL	12,10846
 SECRETARIAT GENERAL DU GOUVERNEMENT	234
 SECRETARIAT TECHNIQUE PERMANENT DU PLAN SECTORIEL	2966
 SECRETARIO AUDIENCIA PROVINCIAL	4209
@@ -579,13 +590,14 @@ SEGUIMTO. Y DERECHOS GABINETE SECRETDO. ASUNTOS	4209
 SEGUNDO SECRETARIO	4209
 SETIC Executive Secretary and PAFEN	6061
 SGCB-UMOA Secrétariat Général	4459
+SMART AFRICA SECRETARIAT FOREWORD	10819
 SMEs. The Secretariat	6127
 SPIVTEN Permanent Secretary Dr. Yaya Traoré	7361
 Saúde Secretário de Estado da Saúde	5020
 Second Draft and Secretariat	962
 Secre- Services Stability	6938
 Secrecy	10017
-Secret	1187,2674,2571
+Secret	1187,2674,2571,4404
 Secret Data	6432
 Secret GCSP	6432
 Secret Mystery	5574,215
@@ -635,11 +647,12 @@ Secretarias Fiscalías de Salas	4209
 Secretarias Fiscalías de Salas Servicio	4209
 Secretarias Municipais	10766
 Secretarias Municipais Virtuais	1808
-Secretariat	21,5,1,1,290,269,184,169,22,20,172,89,21,290,1922,107,278,242,425,1173,426,217,297,221,177,222,191,70,1,25,215,535,69,102,58,212,296,118,15,39,48,106,221,348,29,198,12,17,1,73,53,4,4,24,131
+Secretariat	21,5,1,1,290,269,184,169,22,20,172,89,21,290,1922,107,278,242,425,1173,426,217,297,221,177,222,191,70,1,25,215,535,69,102,58,212,296,118,15,39,48,106,221,348,29,198,12,17,1,73,53,4,4,24,131,364,24
 Secretariat African Financial Stablity Committee	6938
 Secretariat General	7548
 Secretariat Géneral	2051,2596
 Secretariat Général du Gouvernement	3396
+Secretariat Processes	10822
 Secretariat and ADI Foundation	7522
 Secretariat and Community	10694
 Secretariat and Quest Ghana Limited	7039
@@ -730,7 +743,7 @@ Secretarios de Mesa	4209
 Secretary	11,576,149,47,231,206,334,224,221,382,1,8,162,115,253,5,9,579,374,744,441,1272,136,302,156,8,96,140,282,315,66,93,650,393,329,644,109,16,150
 Secretary Dickson Matembo	8480
 Secretary Dr. Aminah Zawedde	6247
-Secretary General	25,2581,1034,985,1150,1171,847,91,66,1419,100,1307
+Secretary General	25,2581,1034,985,1150,1171,847,91,66,1419,100,1307,43,54
 Secretary General Aline Sylvie Minko-Mi-Etoua. Discussions	8541
 Secretary General Dr Sifundo Chief Moyo	4953
 Secretary General John Omo	9236
@@ -771,7 +784,7 @@ Secretary of State for Planning María Ebiaca Moete	3038,1265
 Secretary of State for Secondary Education Soraya Kalongela	10359
 Secretary of State for Telecommunications Ibango Manga Ma	6752
 Secretary of USPF	10386
-Secretary-General	1996,1164,677,150,43,1197,1038,223,124,427,20,53,116,228,66,361,40,123,171,280,538,118,102,403,818,225
+Secretary-General	1996,1164,677,150,43,1197,1038,223,124,427,20,53,116,228,66,361,40,123,171,280,538,118,102,403,818,225,139
 Secretary-General António Guterres	8143
 Secretary-General Dr. Borlli Michel	5917
 Secretary-General Dr. Borlli Michel Jonas	6707
@@ -781,6 +794,7 @@ Secretary-General STIs	10776
 Secretary-General of Nigerian National Commission for UNESCO	9755
 Secretary-General's and Director-General	5814
 Secretary-General-elect	7883
+Secretary-General’s Envoy	10856
 Secretary-General’s Youth Advisory Board	9786
 Secretary. Multisectoral	3887
 Secretaría Técnica	163
@@ -798,18 +812,20 @@ Secretário da Força Aérea	2816
 Secretário de Estado	4075,4234,541,1900,2,1
 Secretário de Estado da Saúde	5020
 Secretário-Geral António Guterres	2816
-Secrétaire	324,1384,40,694,473,16,557,178,133,168,313,494,949,184,558,217,19,158,4,26,444,337,46,83,38,141,185,74,32,44,8,23,377,29,72,69,65,325,144,806,282
-Secrétaire Exécutif	3045,316
+Secréloire Générol	10813
+Secrétaire	324,1384,40,694,473,16,557,178,133,168,313,494,949,184,558,217,19,158,4,26,444,337,46,83,38,141,185,74,32,44,8,23,377,29,72,69,65,325,144,806,282,372
+Secrétaire Exécutif	3045,316,7515
+Secrétaire Exécutif SIG Système	10876
 Secrétaire Exécutif. L'OQSF	3361
-Secrétaire Général	548,683,4583,540,4138
+Secrétaire Général	548,683,4583,540,4138,344
 Secrétaire Général Adjoint	548,683,5069,3267
 Secrétaire Général Adjoint du Ministère	9567
 Secrétaire Général du Gouvernement	8750
 Secrétaire Général du Ministère	10712
 Secrétaire de Direction	6827
 Secrétaires Généraux	4420,6072
-Secrétariat	737,942,1020,267,571,409,1880,79,19,390,992,792,171,52,203,226,141,102,288,6,635,609
-Secrétariat Exécutif	3045
+Secrétariat	737,942,1020,267,571,409,1880,79,19,390,992,792,171,52,203,226,141,102,288,6,635,609,316,27,1,1
+Secrétariat Exécutif	3045,7831
 Secrétariat Exécutif des TIC Burundi	5958
 Secrétariat Exécutif des Technologies	1284
 Secrétariat Exécutif du Portefeuille	8750
@@ -822,6 +838,7 @@ Secrétariat Juridique	2342
 Secrétariat Permanent	4020
 Secrétariat Permanent du Conseil National de Secours	643
 Secrétariat des Systèmes	6942
+Secrétariat du DG	10876
 Segundo Secretario	4209
 Segundo Secretario A1	4209
 Segundo Secretario A2	4209
@@ -831,10 +848,11 @@ Selon le Secrétariat	7729
 Shri Pabitra Margherita. Principal Secretary Kanono	3363
 Sid Ali Zerrouki. Pour le Secrétaire	4226
 Silica Technology Under Secretary for Economic Affairs	6849
-Smart Africa Secretariat	603,358,303,2610,4371,1647,1,180
+Smart Africa Secretariat	603,358,303,2610,4371,1647,1,180,746
 Smart Africa Secretariat RFP	4050
 Smart Africa Secretariat Terms of Reference	4050
 Smart Africa Secretariat. Mare	10073
+Smart African Secretariat	10819
 Social Integration. Briefing the Secretary General	9469
 Southern African Development Community Secretariat	962
 Spokesperson and Press Secretary	10695
@@ -855,7 +873,7 @@ Tanzania Cooperative Permanent Secretary	6938
 Tanzania’s Private Secretaries	5822
 Tatenda Alice Ngowe Group Company Secretary	4896
 Tatenda Alice Ngowe Transfer Secretaries	4896
-Technical Secretariat	8645
+Technical Secretariat	8645,2196
 Telecommunications Secretariat	1264
 Tercer Secretario	4209
 Tercer Secretario A1	4209
@@ -887,6 +905,7 @@ UN Secretary-General	7242
 UN Secretary-General António Guterres	2526,7260
 UN Secretary-General Doreen Bogdan-Martin	7174
 UN Secretary-General Kofi Annan	8961
+UN Secretary-General’s Envoy	10844
 UN Secretary-General’s Special Representative and Head	10409
 UNICEF. Le Secrétaire	9448
 UNSGSA Secretariat Inclusive Finance for Development Bill	1486
@@ -901,6 +920,7 @@ Under Secretary of Commerce for International Trade	5773
 Under Secretary of State	5235
 Under Secretary of State for Economic Affairs Jacob	4447
 United Nations IGF Secretariat	9658
+United Nations Secretariat	10840
 United Nations Secretary-General António Guterres	7059,415
 United Nations Secretary-General. Building	8610
 Vaincrons SECRETARIAT GENERAL	3396
@@ -914,6 +934,7 @@ WATAF Secretariat. For Liberia	10644
 WATRA Executive Secretariat and Member States	5677
 WATRA Secretariat	5680
 WATRA Secretariat-led	5680
+Yaoundé Secretariat	10841
 Zambia’s Secretary	194
 Zimbabwe's Permanent Secretary for ICT	10073
 Zimbabwe. Transfer Secretary	5538

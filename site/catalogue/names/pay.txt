@@ -150,7 +150,7 @@ Digital Payment Infrastructure Component World Bank	1197
 Digital Payment System Component World Bank	409
 Digital Payment Systems Component World Bank	1003
 Digital Payment for Polio Campaigns Bill	2184
-Digital Payments	1828,87,1476,6886,488,10
+Digital Payments	1828,87,1476,6886,488,10,66
 Digital Payments Advocacy	213
 Digital Payments Angola	10775
 Digital Payments Component World Bank Group	416
@@ -164,6 +164,7 @@ Digital Tax Stamps and Payment Registration Numbers	3572
 Digital Terrestrial Pay	2776
 Digital Terrestrial Pay Television	236,2540
 Digitalizing G2P Payments	5700
+Digitalizing Government Payments	10856
 Digitize Agricultural Payments	2562
 Digitize Public Payments Public Management	7871
 Direct Pay Online	94
@@ -263,6 +264,7 @@ Flowcart Commerce. Paystack	6848
 Flutterwave and Paystack	5281,793,3528
 Fusepay Launches Payments Platform	4095
 G-MAT Pay	4994
+G2P Payments	10870
 GAP-UGA-00x. Payload	1718
 GIMAC Pay	10075
 GOV.UK Pay	3922
@@ -565,6 +567,7 @@ PayPal and M	6350
 PayPal and Standard Bank	10010
 PayPal-to-M	6350
 PayPal. Quel	5567
+PayPlus SA Sonibank Bénin SODECO Traitement	10821
 PayServices	4669
 PayShap	5124,296,124,147,231,364,386,326,255,31,1148,232,519
 PayShap Accelerate Acceptance Conference	6286
@@ -586,6 +589,7 @@ Paybill	6946,1768
 Paycode Fintech Congo	5835
 Paydunya	2828
 Payer	3170,854,2780,150
+Payeur	10836
 Payez	5959
 Payhippo	10284
 Paying	6796,1815
@@ -594,7 +598,7 @@ Paylinks	3260
 Payload	443,2415,4935,1640,4,18
 Payload the Beninese	8713
 Paymaster General	6921,2571
-Payment	822,140,905,908,808,131,1110,300,316,190,61,172,534,16,259,266,176,40,8,11,48,1,473,313,11,6,122,1164,185,407,69,39,2,144,250,312,44,22
+Payment	822,140,905,908,808,131,1110,300,316,190,61,172,534,16,259,266,176,40,8,11,48,1,473,313,11,6,122,1164,185,407,69,39,2,144,250,312,44,22,44
 Payment Access Devices	4517,2461
 Payment Access Points	4517,2461
 Payment Aggregator	6684
@@ -646,6 +650,7 @@ Payment Systems Digital Financial Strategy	958
 Payment Systems Directive for Africa	4103
 Payment Systems Integration	4103
 Payment Systems Integration Payment Systems Integration	6938
+Payment Systems Management	10853
 Payment Systems Operators	7909
 Payment Systems Oversight Annual Report	1384,2881,2897
 Payment Systems Oversight Report	7154
@@ -663,7 +668,7 @@ PaymentSecurity	9452,39
 PaymentSystems	9516
 Paymentology	5795
 Paymentology Enters the Middle East’s Digital Payments	7156
-Payments	573,581,37,52,209,501,377,605,147,79,157,73,192,131,452,211,346,125,48,25,67,136,131,42,92,144,146,12,172,505,567,3,218,65,170,186,24,88,208,31,179,21,1,123,345,130,866,23,287,107,145,537
+Payments	573,581,37,52,209,501,377,605,147,79,157,73,192,131,452,211,346,125,48,25,67,136,131,42,92,144,146,12,172,505,567,3,218,65,170,186,24,88,208,31,179,21,1,123,345,130,866,23,287,107,145,537,137,24
 Payments Across Eastern Africa	3238
 Payments Africa	47,332
 Payments Association	8252
@@ -702,14 +707,16 @@ Payout	6371,3376
 Paypal	1859
 Paypay	5309
 Paypay Africa	5309
-Payroll	7648,3137
+Payroll	7648,3137,27
 Payroll Ghosts and Duplicated Salaries Mr Mabiala	9517
 Payroll Investments Asset Management and Insurance	9437
 Payroll Section	9437
 Payroll System	6432,4353
 Payroll System I-10	10785
+Payroll and Pension Data	10829
 Payrolls	3
 Pays Banques	4459
+Pays Effectif Pourcentage Burkina Faso	10875
 Pays When Electronic Payments Fail	9494
 Pays du Sahel	8891
 Pays-Bas	5718,181,714,2278
@@ -740,6 +747,7 @@ Peya Pay	3650
 PhonePe and Google Pay	7468
 Pisi Payment Solutions	9955,204
 Positioning the South African Reserve's Bank Payments	4824
+Possible Options for Adaptation Payment	10829
 Power the Future of Instant Payments	4972
 Prime Time for Real-Time Payments	4848
 Principles for Responsible Digital Payments	3673
@@ -876,6 +884,7 @@ United Payments Interface	3253
 Universal Electronic Payment System	2939
 Universal Payments Interface	6899
 Usage of Mobile Payment Appliations Over	4439
+VI.H Tax Payer Register	10812
 Vaccinator Surveys and Digital Payments Research Bill	1112
 Vendor Payments	9283
 Visa Pay	3535,1215,344,1889,3,1491

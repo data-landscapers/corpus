@@ -1,8 +1,18 @@
+Abus Sexuels EI	10876
 Actividade Sexual Recente	10777
+Adolescent and Youth Sexual	10865
 Age and Sex	2775
 Alteration of Sex Description and Sex Status Act	5533
 Arch Sex Behav	1219
 Autodeclaração de Infecções de Transmissão Sexual	10777
+BRUT D'ADMISSION PAR SEXE	10847
+BRUT DE SCOLARISATION PAR SEXE Nombre	10847
+CE2 CM1 CM2 Total Sexe	10847
+CM1 CM2 Total Sexe	10847
+CORPS ET FONCTION IV.1.1 Public Sexe	10847
+CORPS ET FONCTION IV.1.2 Privé Sexe	10847
+CORPS ET FONCTION IV.1.4 Urbain Sexe	10847
+CORPS ET FONCTION IV.1.5 Rural Sexe	10847
 Category and Sex	2775
 Category and Sex1	2775
 Child Sexual Exploitation	1597
@@ -12,9 +22,12 @@ Comportamento Sexual	10777
 Comportamentos de Saúde Sexual	10777
 County and Sex	2775
 Course and Sex	2775
+DES ELEVES PAR AGE ET SEXE	10847
 Digital Sextortion	6426
 Drawing Rights SEA Sexual Exploitation and Abuse	1264
 Drawing Rights Sexual Exploitation	1228
+ENSEIGNANTS PAR SEXE	10847
+ENSEIGNANTS SEXE ET AGE	10847
 Experiência de Violência Sexual	10777
 FUOYE Gives Lecturer Raphael Larayetan’s Sexual	10034,231
 Gender Based Violence and Sexual Exploitation and Abuse	1988
@@ -29,6 +42,18 @@ La Sextorsion	9133
 Lagos State Domestic and Sexual Violence	2445
 M Member Sex	582
 Múltiplos Parceiros Sexuais	10777
+NET DE SCOLARISATION PAR SEXE Nombre	10847
+NIVEAU D'ETUDE ET SEXE III.3.1 Public	10847
+NIVEAU D'ETUDE ET SEXE III.3.2 Privé	10847
+NIVEAU D'ETUDE ET SEXE III.3.3 Public	10847
+NIVEAU D'ETUDE ET SEXE III.3.4 Urbain	10847
+NIVEAU D'ETUDE ET SEXE III.3.5 Rural	10847
+NOMBRE D'ANNEE D'EXPERIENCE IV.2.1 Public Sexe	10847
+NOMBRE D'ANNEE D'EXPERIENCE IV.2.2 Privé Sexe	10847
+NOMBRE D'ANNEE D'EXPERIENCE IV.2.3 Urbain Sexe	10847
+NOMBRE D'ANNEE D'EXPERIENCE IV.2.4 Rural Sexe	10847
+National SEXE Classique Satellite Bilingue	10847
+National Sexe I.P. I.C. I.A.C	10847
 Negociação de Relações Sexuais	10777
 Number of Sexual Exploitation	1778
 Online Child Sexual Exploitation and Abuse	9843
@@ -36,12 +61,15 @@ Online Child Sexual Exploitation and Abuse. UNICEF	7548
 Online Sexual Offences	587
 Online Sexual Offences Non-consensual	587
 Perpetradores de Violência Sexual	10777
+Phases Multiples MST Maladie Sexuellement Transmissible	10876
 Policy Framework SEA Sexual Exploitation and Abuse	1988
 Politics Spice Special Features Education Sex	9669,84
 Portal de Denúncias de Imagens de Abuso Sexual	10750
 Prevalência da Violência Sexual	10777
 Primeira Experiência de Violência Sexual	10777
 Primeira Relação Sexual	10777
+Privé Sexe I.P. Total Travaillant	10847
+Procurement STI Sexually Transmitted Infection TFP	10829
 Programme and Sex	2775
 Prévention des Violences Sexuelles	10475
 Recovery and Human Development SRHR Sexual and Reproductive	970
@@ -49,9 +77,17 @@ Relações Sexuais Pré-Conjugais	10777
 Research Category and Sex	2775
 Review of Sexual and Gender-Based Violence Laws. Christine	8948
 Rights Sexual Exploitation and Abuse	4653
+Rural Sexe Age Total Nombre	10847
+SDR Special Drawing Rights SEA Sexual	10829
 SEP Stakeholder Engagement Plan SH Sexual	1988
+SEXE ET NIVEAU III.5.1 Urbain	10847
+SEXE ET NIVEAU III.5.2 Rural	10847
+SEXE ET NIVEAU III.5.3 Urbain	10847
+SEXE ET NIVEAU III.5.4 Public	10847
+SEXE ET NIVEAU III.5.5 Privé	10847
 SH Sexual Exploitation and Abuse	1867,1737,7164
 SH Sexual Harassment SME Small and Medium	1264
+SH Sexual Harassment STEP Systematic Tracking	10829
 Satellite PMU and Contractor Sexual	1988
 Saúde Sexual	10777
 Sex Femme	737
@@ -65,6 +101,8 @@ Sex-disaggregated	4688,3189
 Sexact	8606
 Sexe Femme	737
 Sexe Masculin	737
+Sexe Nationalité Effectif Pourcentage Homme Nationaux	10875
+Sexe Nombre	10847
 Sexe du CM	737
 Sexe du CM Homme	737
 Sexe du CM Masculin	737
@@ -75,7 +113,7 @@ Sexo Urbana Rural Homens Mulheres	4044
 Sexta	3906,2835,1853,665,1,1518
 Sexta Edição	10752
 Sexta-feira	14,781,2071
-Sexual	587,10163,26
+Sexual	587,10163,26,53
 Sexual Exploitation	9766,1010
 Sexual Exploitation and Abuse	1264,514,89,4036
 Sexual Exploitation and Abuse Mitigation Plan	2889
@@ -98,6 +136,11 @@ Sintomas de Infecções Transmissíveis Sexualmente	10777
 Study and Sex	2775
 Sud-Ouest Sexe	737
 Sud-Ouest Sexe du CM	737
+TYPE D'ECOLE ET SEXE III.4.1 Public	10847
+TYPE D'ECOLE ET SEXE III.4.2 Privé	10847
+TYPE D'ECOLE ET SEXE III.4.3 Public	10847
+TYPE D'ECOLE ET SEXE III.4.4 Urbain	10847
+TYPE D'ECOLE ET SEXE III.4.5 Rural	10847
 Tackle Online Child Sexual Exploitation and Abuse	8050
 Transmissão Sexual Lista	10777
 Type of Disability and Sex	2775

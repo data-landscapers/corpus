@@ -33,7 +33,10 @@ Homes SLBC Staff Accused of Assaulting Open	8271
 Humanitarian Operations SLA Sudan Liberation Army	6947
 ICOM SLR	998
 ICT Sector Budget Slashed	2428
-Improvement Slowing Deterioration Warning Signs Increasing	10759
+Improvement Bouncing Back Increasing Deterioration Slowing	10837
+Improvement Increasing Deterioration Slowing Improvement	10835,3
+Improvement No Change Increasing Deterioration Slowing	10837
+Improvement Slowing Deterioration Warning Signs Increasing	10759,76,3
 Internet Prices Slashed	4070
 Janngo Capital Startup Fund SLP	1061
 Keeps Slipping	6629
@@ -66,6 +69,7 @@ Pit Latrine Fecal Sludge Management Plan	1988
 Provider. SLOs	9123
 Quarterly SLA	6432
 RWA STP SLE SOM SSD ZMB	4912
+Ramussen SL. Management	10881
 Repeated SLA	6432
 Romania Slovakia Switzerland T1 Role-modelling Belgium	10764
 Rural District Councils. Urban SLB	970
@@ -96,6 +100,7 @@ SLIIF	8610
 SLRSA Unveil Tough Measures	4619
 SLSFIP	2112
 SLSSEC	6938
+Score Slowing Improvement Warning Signs	10835,3
 Signs Bouncing Back Slowing Deterioration Increasing	10759
 Signs No Change Bouncing Back Slowing	10759
 Sistema de Gestão de Inteligência Artificial SLM	2816
@@ -109,6 +114,7 @@ Slalom	4434
 Slaughter	8533,240
 Slaughter Dear Commissioner McGrath	8533
 Slava Ivashkin	2749
+Slava Jankin	10840
 Slave	736
 Sleep	8999
 Sleiman Kwidini	10623
@@ -121,7 +127,7 @@ Slideshow	3615
 SlideshowApril	5975
 Sliding	9123
 Slight	4616
-Slightly	418,1410,3851
+Slightly	418,1410,3851,5182
 Sloan and Boeree	9969
 Sloane Lab	8605
 Sloane Lab and Towards	8605
@@ -143,6 +149,11 @@ Slow BVAS	10049
 Slow Death Of Scaling	5029
 Slow Pros Down Next	3279
 Slower-moving	4653
+Slowing Deterioration Score	10837
+Slowing Improvement Score	10837
+Slowing Improvement Slowing Deterioration Not Classified	10835,3
+Slowing Improvement Slowing Deterioration Warning Signs	10835,3
+Slowing Score	10835,3
 Slowly	4201,4911,966
 Sluggish	10
 Slugs	1238
@@ -150,9 +161,12 @@ Slums	10763
 Slutsker	8604
 Subscriber Identity Module Card SLA Service	34
 TREND Increasing Improvement Slowing Improvement Warning	10759
+TREND Increasing Improvement Warning Signs Slowing	10837
 Technology Agency SLA Service Level Agreement	5533
-Trend Increasing Improvement Bouncing Back Slowing	10759
+Trend Bouncing Back Slowing Deterioration Increasing	10835,3
+Trend Increasing Improvement Bouncing Back Slowing	10759,76,3
 Trend Increasing Improvement Slowing Improvement Warning	10759
 Trend Trend Increasing Improvement Slowing Improvement	10759
+Trend Warning Signs Slowing Improvement Increasing	10837
 Videos Religious Service Sleeping	582
 Warning Signs Bouncing Back Slowing Deterioration	10759

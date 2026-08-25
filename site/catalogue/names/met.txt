@@ -1,11 +1,18 @@
+A1.1.1.12.NA Mettre	10858
+A1.1.1.13.NA Mettre	10858
+A3.2.3.4 Mettre	10858
+A3.4.1.1 Mettre	10858
+A3.4.3.1 A3.4.3.2 Mettre	10858
 AI Readiness Assessment Methodology	4126,402
 AI-ASSISTED METHODOLOGY	5599
+APERÇU METHODOLOGIQUE Le Ministère	10847
 APPROACH AND METHODOLOGY	236
 ASPECTOS ORGANIZACIONAIS E METODOLÓGICOS	10757
 Access Method and Physical Layer Specifications. Amendment	3604
 Advanced Metering Infrastructure	1413,157,423,4407,2028
+Africa. METHODS	10878
 Afrobarometer Working Papers Methodology Data	7886
-Agricultural Development IHME Institute for Health Metrics	10759
+Agricultural Development IHME Institute for Health Metrics	10759,78
 Alexis METON	3452
 Anna Metz	10714,61
 Annex D. Estimation Method	10714
@@ -18,6 +25,7 @@ Audit Committee. Method	9888
 Automatic Meter Reading	8428
 B de Meta	8096
 BMC Medical Research Methodology	8671
+Benin METHODS	10852
 Birr Metrics	7474
 Black Meteors Loop	3386
 Bulawayo Metropolitan Province	1248
@@ -26,6 +34,7 @@ C. Methodology Standards	3583
 C2- Methodology	7548
 CLASSIFICATION DECISION MATRIX Calculation Method	5665
 CPN. Metade	10760
+Cadastre Mettre	10858
 Cape Metropolitan Council	6683
 Cartão de Eleitor. VI. METODOLOGIA	10772
 Catedral Metropolitana	4209
@@ -41,6 +50,7 @@ Curadoria de Metadados	8000
 Currently Metrics	899
 DATA QUALITY AND METADATA STANDARDS	3861
 DDU Strategy Methodology. J Health Inf	1261
+DGI Mettre	10858
 DIFFERENT METRICS	1803
 Danish Meteorological Institute	2714,7870
 Data Collection Methods	7548
@@ -87,10 +97,11 @@ Google and Meta. Kepios	3918,1,1
 Google’s Equiano and Meta	3782,2404
 Govt Tells Meta To Align Policies	9640
 Harare Metropolitan Province	1191
-Health Metrics Network	766,1058
+Health Metrics Network	766,1058,8998
 Health Metrics Network. Framework	771
 Health Services and Outcomes Research Methodology	8605
 Hendrick Metsileng	396
+ICT METHODS	10852
 ID4D GLOBAL COVERAGE ESTIMATES AND METHODOLOGY	10714
 ID4D Global Coverage Estimates and Methodology	10714
 INTRODUÇÃO E METODOLOGIA DO INQUÉRITO	10777
@@ -101,7 +112,7 @@ Ikoyi Metro EDGE	4565
 India Meteorological Department	4300
 Industrial and Legal Metrology	1988
 Infectious Disease Outbreak Response Metrics	4153,14,35,15,43,41,48,1003
-Institute for Health Metrics and Evaluation	6171,2720
+Institute for Health Metrics and Evaluation	6171,2720,1938
 Instituto Nacional de Meteorologia	13,10755
 Instituto Nacional de Meteorología	1701
 Int J Qual Methods	9739
@@ -109,6 +120,7 @@ Integrated METHODOLOGY Public Security Centre	9399
 Interference Metrics	5245
 Intermediate Results Indicators Mapped Methodology for Data	1284
 International Journal of Qualitative Methods	7278,852
+Intervenants Tâches Délai PRMP Met	10876
 Investment Metric	7003
 Items for Systematic Reviews and Meta-Analyses	9129
 Japan Organisation for Metals and Energy Security	2626
@@ -149,7 +161,8 @@ METHODOLOGY Ghana’s National AI Strategy	4126
 METHODOLOGY Review	1988
 METHODOLOGY The African Tech Startups Funding	4883
 METHODOLOGY Vears	8605
-METHODS	1212
+METHODS	1212,9640
+METHODS AND FRAMEWORKS	10852
 METISS	3292
 METIX	5406,409,2188
 METIX Instant Payment System	5406
@@ -163,6 +176,7 @@ Mapa de Angola INTRODUÇÃO E METODOLOGIA	10777
 Mapping Methodology Framework for Mutual Aid Groups	6947
 March-2026 Methodology Report	6937
 March. With METIX	5815
+Mbps A1.1.1.2 Mettre	10858
 Medicine CT Document Metadata Subscription DICOM	1009
 Medicine EMR Document Metadata Subscription EUA	1009
 Meridiam's Mete Saracoglu	7288
@@ -211,6 +225,7 @@ MetaBelgica	7313
 Metabite Communications Ltd	3386
 Metabolism and Genetics Screening Unit	10188
 Metadata	1009,2852,353,920,110,2304
+Metadata Data Cite XML RDF	10878
 Metadata Fields	3861
 Metadata Guide	4098
 Metade	10777
@@ -252,6 +267,7 @@ Metering Equipment	9409
 Methnani	8283
 Method	418,540,820,210,105,330,525,1484,702,895,857,174,218,198,283,262,1,108,998,1,108,1086
 Method API Application Program Interface ATNA	1009
+Method Availability	10881
 Method Data	8460
 Method of Warfare	8485
 Methodological	1155,1363,6086
@@ -259,9 +275,9 @@ Methodological Approach	7548
 Methodological Discussion	2518,4430
 Methodological Guide	8532
 Methodological Soundness	2775
-Methodologically	7759,207
+Methodologically	7759,207,2886
 MethodologicalstudiesonXML-baseddatabasemodelling	8606
-Methodology	236,663,362,102,522,103,105,581,274,110,1072,229,73,7,89,35,1115,1,729,55,473,1,214,70,1,56,270,321,85,67,1,279,75,60,176,516,1,108,162,217,353,795,1,10
+Methodology	236,663,362,102,522,103,105,581,274,110,1072,229,73,7,89,35,1115,1,729,55,473,1,214,70,1,56,270,321,85,67,1,279,75,60,176,516,1,108,162,217,353,795,1,10,47
 Methodology Business Process Used	9124
 Methodology Data	6565
 Methodology Data Collection	899
@@ -296,10 +312,12 @@ Methodology-Equal	8436
 Methodology-Lead	8436
 Methodology-Supporting	8436
 Methodology. Tortoise Media	2816
-Methods	585,181,446,7,42,425,92,46,4,160,108,1695,641,917,1585,14,1073,650,195,873,982,63
+Methods	585,181,446,7,42,425,92,46,4,160,108,1695,641,917,1585,14,1073,650,195,873,982,63,97
+Methods First	10881
 Methods Five LIC and LMICs	771
 Methods In Cambodia	771
 Methods Phenomenological	1219
+Methods and Frameworks	10852
 Methods for Issuing	762
 Methods of Computing Core Inflation Measures	2775
 Methods of Radio Frequency Spectrum Licensing	762
@@ -353,7 +371,7 @@ Mettant	7623
 Mettent	1187
 Mettez	743,6363,177
 Mettez-les	747
-Mettre	643,104,251,7,182,31,97,123,264,194,143,526,831,610,20,81,209,905,257,1790,652,57,579,122,213,650
+Mettre	643,104,251,7,182,31,97,123,264,194,143,526,831,610,20,81,209,905,257,1790,652,57,579,122,213,650,1285,32,16,1,1
 Mettus	6107
 Mettus.Johannesburg	6107
 Metzger	7174
@@ -391,8 +409,10 @@ O METIX	8003
 OUTCOMES METRICS PARTNERS FUNDING SOURCE Co-design	899
 OVERVIEW Methodology	418
 Offices Metro	8999
+Online Service Methodology	10840
 Open Methods	5246
 OpenAI and Meta	8092,124
+OpenURL ContextObject RIOXX2 XML METS Dublin	10878
 Organización Mundial de Meteorología	1701
 Osaka Metropolitan University Hospital	3760
 Outcome Metric Definition	4301
@@ -404,6 +424,7 @@ PDO Indicators Mapped Methodology for Data Responsibility	1284
 PERFORMANCE METRICS AND GOVERNANCE MATURITY INDICATORS	3861
 PI Methodology for Data Collection	10768
 PROPOSED METHOD FOR STANDARDISING AND INTEGRATING	8606
+PS4R Assessment Methodological Framework	10841
 Performance Metncs	3972
 Performance Metrics	3972,2460
 Performance Metrics Inciuded	3972
@@ -449,6 +470,7 @@ Research Methodology	4972,1975
 Research Methodology and Scope	4863
 Riter Metiayim	3779
 Role of Meta Platforms	5113
+SAMPLE KEY PROJECTS Provider Facility Metro	10861
 SANA Metropolitan Hotel	7298
 STAKEHOLDER ENGAGEMENT PROCESS AND METHODOLOGY	7548
 Safety Metrics	4528

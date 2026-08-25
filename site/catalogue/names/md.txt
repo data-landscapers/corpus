@@ -77,7 +77,7 @@ MDAP PIU	2989
 MDAP-financed	2989
 MDAs Annual	7548
 MDAs Distribute	9123
-MDAs MDAs	10157
+MDAs MDAs	10157,713
 MDAs Methodology for Data Collection Data	3604
 MDAs Ministries	970,1805
 MDAs My	1161
@@ -150,6 +150,7 @@ PM.21. The Minister of MDEPT	969
 Paratus Namibia MD	3539
 Providers and MDAs	10310
 Redundant MDAs	9123
+SASPP MDTF	10866
 SDN MDG SOM COM Low	6593
 Salome Chapeyama Mdala	9516
 Sector MDAs	7548

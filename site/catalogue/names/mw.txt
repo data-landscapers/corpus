@@ -6,6 +6,7 @@ Admissible. MWI	7070
 AfDB Country Manager Rees Mwasambili	8574
 Afrika. Tunaomba Mwenyezi Mungu	2868
 Ahmed Shahame Mwidani Technical and Vocational College	7167
+Alstyne MWV and Choudary SP	10819
 Angela Mwanza Data Controller INST-57636712844 KILIFI	7167
 Arusha and Mwanza. Airtel Tanzania	9149
 Authority. Mwapwele	6832
@@ -119,11 +120,15 @@ MD-10227 MWK-DDM-packshot Bundle-	753
 MDG MWI MUS MOZ NER NGA	4912
 MLI MWI TGO GNBLBR DJI GAB	6593
 MNO Mobile Network Operator MW Megawatt	718
+MW ACC-1 Accra	10861
 MW AI	7456
 MW AI-ready	10261
 MW Abeokuta Technology Zone Data Centre	7960
+MW Africa Data ACC-1 Accra Pipeline	10861
+MW Airtel NXTRA LGS2 Lagos	10861
 MW Angola	10781
 MW By Royal Ibeh	8045
+MW CAPACITY PER MILLION POPULATION	10861
 MW Capacity	10781
 MW Cape Town	1404
 MW Chisamba	5247
@@ -131,16 +136,22 @@ MW Chisamba Solar Plant	5247
 MW Chisamba and Kabwe	5247
 MW DC	1227
 MW DC Campus	1639
+MW Dakar Dakar Pipeline	10861
 MW Econet Willowvale	306
+MW Equinix LG-2 Lagos Expansion	10861
+MW Equinix TBD Abidjan In Construction	10861
 MW Función Publica	4209
 MW GBB	10157
-MW Ghana	3184
+MW Ghana	3184,7677
 MW Godavery Farm	6492
 MW Hyperscale Expansion	1404
 MW IT Power	9446
 MW JB7	1402
 MW Kabwe Solar Project	5247
 MW Karuma Hydro Power Plant	3561
+MW Kasi Cloud Lagos	10861
+MW LAG-1 Lagos	10861
+MW LOS	10861
 MW LOS1	4191
 MW Live	10781
 MW Mansa	5247
@@ -151,8 +162,10 @@ MW Nxtra	8045
 MW Oromia	4591
 MW PV	10180
 MW Potential	10781
+MW Rack Centre LG3 Lagos	10861
 MW Schweppes Zimbabwe	6492
 MW Siavonga	5247
+MW TBD Abidjan	10861
 MW Tier III	5200
 MW Tier-III	4191,2875
 MW UPS	5793
@@ -183,6 +196,7 @@ MW. NBO2	594
 MW. Phase	3186
 MW. RMB	1404
 MW. SAME	5627
+MW. Sources	10861
 MW. The MW	1244
 MW. Version	1005
 MW2063	3108
@@ -193,7 +207,7 @@ MWC Confirmed Mupita	5752
 MWC Kigali	3796,179,650,1968,121,1750,1435
 MWC Shanghai	9820
 MWC Takeaways	5752
-MWC and M360	6593,1232
+MWC and M360	6593,1232,3031
 MWC. Previously	5752
 MWC25 Kigali. Visit Huawei Booth	3797
 MWEA Data Processor INST-59724551F3D EMBU Kenya	7167
@@ -202,8 +216,11 @@ MWI. FAWE	1540
 MWI. REG	1434
 MWUm1SvRXJka3oDK8bQBJBWCzg uughu	1580
 MWa.gMwaagwa Air CAdirreCdre	1154
+MWh BESS	10857
 MWh Megawatt-hour NCSA National Cyber Security	718
 MWh. Domestic	718
+MWp Danzi	10857
+MWp Danzi Solar Power Plant	10857
 Makamu Mwenyekiti	2868,3151
 Managed Service Provider MW Megawatts NDC	10781
 Margaret Ireri and Michael Mwarange. SSRN	2423
@@ -332,6 +349,7 @@ Philomena Mwilu and Justices Lenaola	9645
 Professor Eddie Mwenje of Bindura University of Science	520
 Promise Mwakale	10732
 Prossy Mwanjuzi Yesterday	8352
+Provider MW Megawatts OEM Original Equipment	10861
 Ramson Ismail Journalist Mwananchi Communications	9779
 Relations Officer Mwala Kalaluka	4378
 Research Paper Gwamaka Mwalemba	1248

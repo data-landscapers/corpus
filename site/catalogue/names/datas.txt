@@ -3,6 +3,7 @@ CONTENTS DATASHEET	969,295,603
 Consulta Pública Datas	3118
 DATASET	6470,95
 DATASHEET	3562
+DATASHEET BASIC INFORMATION BASIC INFO TABLE Country	10829
 DATASHEET BASIC INFORMATION Project Operation Name	1867,1737,7164
 DATASHEET The Project Development	969
 DataScientia	2816
@@ -11,12 +12,12 @@ Datascientest.com	3724
 Datasec Limited Data Controller INST-9632430615D NAIROBI	7167
 Datasec Limited Data Processor INST-9632430615D NAIROBI	7167
 Dataserv	10140
-Dataset	1232,582,444,2631,2659,41,201,511,2413
+Dataset	1232,582,444,2631,2659,41,201,511,2413,156
 Dataset Completion	4528
 Datasets	2816,1045,3929,1832,1108
 Datasets and Computing Platforms for AI Development	1814
 Datasharing Categories	8606
-Datasheet	541
+Datasheet	541,10291
 Datasonic QR-code	4275
 Datasphere Initiative	7298,2324
 Datasphere Initiative and GPSDD	8341
@@ -25,6 +26,7 @@ Datasphere Initiative’s Africa Sandboxes Forum	6946
 Datastruct Technologies Ltd	3862
 Description Frequency Datasource Collection Collection	1284
 Fidelity TABLE OF CONTENTS DATASHEET	6539
+Global Dataset	10819
 IATI Datastore	91,57,1007,1084,1
 IATI Datastore API	6982
 ID4D GLOBAL DATASET	10714
@@ -34,7 +36,7 @@ National Foundational Datasets	4528
 Paul Ndungutse DATASHEET BASIC INFORMATION Project	3562
 Records Dataset	4528
 Standard for Government Datasets	3861
-TABLE OF CONTENTS DATASHEET	3604,7164
+TABLE OF CONTENTS DATASHEET	3604,7164,61
 Testing Dataset	4528
 Training Dataset	4528
 World Bank's Identification for Development Dataset	4807

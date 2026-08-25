@@ -14,6 +14,7 @@ Actor Requirements	6432
 Additional Software Requirements Such	5665
 Additional Testing Requirements Software	5665
 Administrative Requirements	573,2588
+Afrique OBJET DE LA REQUETE Traitement	10821
 Agreements Actually Require Each MOU	5456
 Amendment Procedures and Constitutional Requirements	3861
 Annual PA12b S Revenue Requirements	10779
@@ -35,14 +36,20 @@ Botswana Request. State	5692
 Burundi Request	5692
 Burundi Request. State	5692
 Business Change Request	9124
+CAPITAL REQUIREMENTS	10861
+CAPITAL REQUIREMENTS AND GOVERNMENT INITIATIVES	10861
 CAPÍTULO IV OBRIGAÇÕES E REQUISITOS	3519
 CBN Requires All POS Machines	3491
+CENTER CAPACITY REQUIREMENTS	10861
+CERTIFICATION DEPARTMENT Request	10819
+CERTIFICATION DEPARTMENT Request PTSP	10819
 CIRCULAR IS IMPORTANT AND REQUIRES	4896
 COMMUNICATION TECHNOLOGY UNIT SOFTWARE INSTALLATION REQUEST	34
 CONTINUOUS ADAPTATION REQUIREMENT	3861
 Certification Requirements	5665
 Checklist of Requirements	6946
 Citing Security and Equipment Traceability Requirements	5973
+Civil Registry. Requirements	10812
 Civilian and Non-Civilian Uses Require Clear Boundaries	7548
 Cloud Service Provider Requirements	6432
 Co-Investment Requirements	4167,35,15,43,41,48,1003
@@ -59,6 +66,9 @@ Cross-Cutting Requirements	6423
 Cross-Cutting Requirements Significant	6423
 Customer Requests Service Business Business Service	9124
 Cybersecurity Coordination Requirements	3861
+DE LA REQUETE	10821
+DE LA REQUETE DECISION FINALE	10821
+DE LA REQUETE DECISION FINALE Particulier	10821
 DESCRIPTION OF THE DATA BEING REQUESTED	2709
 DETAILS OF THE REQUESTER	2709
 DIGITAL SYSTEM AND TECHNOLOGY REQUIREMENTS	9855
@@ -71,6 +81,8 @@ Digital Sovereignty Requires More Than Just	6879
 Digital System and Technology Requirements	9855
 Directive Training Requirements	3861
 Directive Training Requirements All	3861
+Dévéloppement OBJET DE LA REQUETE Traitement	10821
+E-Solutech Sarl OBJET DE LA REQUETE	10821
 E. Request	7845
 ESS and Requirements National Laws and Requirements Gaps	1988
 EVALUATION MATRIX. Compliance Area Requirement	6432
@@ -88,6 +100,8 @@ Fit and Proper Requirements	8354
 Functional Performance Requirements	10616
 Functional Requirements	5665,758
 GEF-8 Request for MSP	3430
+GSM OBJET DE LA REQUETE Connexion	10821
+General Policy Requirements for Trust Service Providers	10819
 General Regulatory Requirements	9855
 GoK Require AI	7548
 Guidelines Actor Requirements	6432
@@ -111,6 +125,8 @@ Ivoire Request	5692
 Ivoire Request. State	5692
 Kenya Request	5692
 Kenya Request. State	5692
+LA REQUETE DECISION FINALE Novotel	10821
+LA REQUETE Traitement	10821
 LEGACY SYSTEM MIGRATION AND COMPATIBILITY REQUIREMENTS	3861
 LEGAL PUBLICATION AND OFFICIAL GAZETTE REQUIREMENTS	3861
 LICENSING REQUIREMENTS FOR EARTH SEGMENT SATELLITE	10407
@@ -151,6 +167,10 @@ Normalise structure XML Require	8606
 Notificação de Incidentes SECÇÃO I Requisitos	6970
 November. Requirements	10775
 Now Requires Government ID From Users	3016
+OBJET DE LA REQUETE Base	10821
+OBJET DE LA REQUETE DECISION FINALE	10821
+OBJET DE LA REQUETE Enregistrement	10821
+OBJET DE LA REQUETE Traitement	10821
 OBRIGAÇÕES E REQUISITOS A OBSERVAR PELOS	3519
 ONGOING REQUIREMENTS	6432
 OUTROS REQUISITOS	10755
@@ -191,10 +211,16 @@ REQUEST FOR PROPOSALS	5793
 REQUEST FOR QUOTATION	3405
 REQUEST XDR	2473
 REQUESTS FOR STATEMENTS Hon. Speaker	10313
+REQUETE DECISION FINALE Agence Nationale de Traitement	10821
+REQUETE DECISION FINALE Bénin Control Traitement	10821
+REQUETE DECISION FINALE Isocel Télécom-Bénin Traitement	10821
+REQUETE DECISION FINALE Traitement	10821
+REQUETE DECISION FINALE WEBCOOM BUSINESS S.A.R.L	10821
+REQUETE Traitement	10821
 REQUIRED	6423
 REQUIRED EXTENSIBLE AUDITABLE	6423
 REQUIRED REPLACEABLE AUDITABLE	6423
-REQUIREMENTS	28
+REQUIREMENTS	28,10833
 REQUIREMENTS FOR CYBER INFRASTRUCTURE PROTECTION	1000
 REQUIREMENTS FOR CYBER INFRASTRUCTURE PROTECTION Given	1000
 REQUIREMENTS FOR KNOW YOU CUSTOMER	5687
@@ -227,15 +253,18 @@ Request for Proposal	2743,3050,2158
 Request for Proposals	1371,2233,4347
 Request for Quotations	2989
 Request the National Audit Chamber	3583
+RequestLevel	10848
 Requested	9123
 Requested Federal	5773
 Requested the AACB Secretariat	4103
 Requested the African Union Commission	4103
 Requesting	6432
 Requesting Officer	34
+Requesting Unit	10870
 Requestors and Providers	3815
-Requests	1474,304,2037,46,2011,69,1006,265,1628,283,937
+Requests	1474,304,2037,46,2011,69,1006,265,1628,283,937,756
 Requests the AU Commission	5825
+Requiert	10876
 Require	1988,2138,1118,432,1,744,21,390,104,13,2,597,2389
 Require AI	7548
 Require SSHv2	10721
@@ -250,7 +279,7 @@ Requirement	11,725,1741,1237
 Requirement Analysis	5665
 Requirement Requirement Level	5244
 Requirement Service Description Tariffs and Charges Contract	5676
-Requirements	28,708,478,29,534,47,850,930,47,34,29,147,184,2010,159,209,9,107,999,10,1575,507,527,213,246,93,56
+Requirements	28,708,478,29,534,47,850,930,47,34,29,147,184,2010,159,209,9,107,999,10,1575,507,527,213,246,93,56,49,27
 Requirements All	5665
 Requirements Concerning Offering of Securities	3714
 Requirements Definition	9237
@@ -263,7 +292,7 @@ Requirements for Issuance	762
 Requirements for Startup Survival	226
 Requirements for Type Approval	736
 Requirementsforlocalclinicalval-	8301
-Requires	961,2900,1804,767,1810,882
+Requires	961,2900,1804,767,1810,882,1732
 Requiring	961,282,3285,835,2108,3304
 Requiring RIRs	3502
 Requisite Regulatory Approvals	7198
@@ -277,12 +306,14 @@ Requisitos de Admissão	6462
 Requisitos de Informação	10755
 Requisitos de Segurança	6970
 Requisição de Serviço Técnico Especializado	549
+Requête	10821
 Residency Requirements Mandatory	6432
 Residency and Control Requirements	10157
 Risk-Based Application of Requirements	5665
 SECÇÃO II REQUISITOS PARA O TRATAMENTO	14
 SERVICE DELIVERY REQUIREMENTS	9855
 SERVICE DELIVERY REQUIREMENTS Standard Digital	9855
+SODINEX OBJET DE LA REQUETE Traitement	10821
 SOFTWARE INSTALLATION REQUEST STANDARDS AND GUIDELINES	34
 SPECTRUM OUTLOOK AND CAPACITY REQUIREMENTS	5245
 STATEMENTS AND FURTHER REQUIREMENTS	3714
@@ -313,6 +344,7 @@ Technical Specific Performance Requirements	6432
 Testing Requirements	5665
 Third-Party Testing Providers Pre- Deployment Requirement	5665
 Time Required	762
+Trust Service Provider CERTIFICATION DEPARTMENT Request	10819
 Understand The Security Requirements	34
 Upgrade Required From Mention	4528
 VFEX Listing Requirements	4896
@@ -321,6 +353,7 @@ VFEX Listings Requirements. Dr Zienzile Dillon	4896
 Visit Request Media Interview Request RTI	9109
 Voltage Required AC	34
 Vote Required	7198
+WEST AFRICA DATA CENTER CAPACITY REQUIREMENTS	10861
 Web Request	3364
 Workloads Requirements	10616
 ZSE Listings Requirements	4263,633

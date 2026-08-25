@@ -1,10 +1,13 @@
 AC and DC	9123
 AVIS DE CONSULTATION OUVERTE DCOT N	9339
+Administration des Finances DCSFR	10874
 Africa DC	4906,1549,804
+African DC	10861
 African and DCO Member States	3837
 All DC	9123
 Aphelion DC3	3292
 Asia Infrastructure Fund. Operates DCs	7259
+BCMS CAT CGI CT DADF DC	10858
 Bayobab DC	6232
 Brazzaville National DC	1643
 Burkina Faso. DCRP	3469
@@ -12,6 +15,7 @@ CENTRO PROM. DCHOS. HUMAN. Y DEMOC.-Concepto	4209
 Chief Technology Officer DC Data Centre	6432
 Colo Colocation DC Data Center DIF	10781
 Colocation NDC National Data Center DC	3184,1,1340
+DADF DADF DLC DLC DLC DC	10858
 DBK Development Bank of Kenya DCS Depository	2775
 DBS DCNT DHS DIU DMPA-SC DP	10777
 DC Auto-íris	794
@@ -19,14 +23,25 @@ DC BUSINESS INT NBO LIMITED Data	7167
 DC Bar No	5692
 DC Byte	8263
 DC Byte Global Index Report	8263
+DC Construction	10861
+DC DC DC	10858
+DC DC DC DADF DI DC	10858
+DC DLC DC DC BCMS BCMS	10858
+DC Data Center DFI Development Finance	10861
 DC EDIC	6468
 DC Luanda	1227
 DC Uptime Tier III TCCD	6432
+DC X X X X X	10858
 DC and AC	9123
+DC and Geneva. WBG	10841
 DC-based	2158,1324,3052,2589
 DC-powered ITE	9123
+DC. Bahar	10841
+DC. ILO	10841
 DC. Public Citizen	5692
-DC. World Bank	3456
+DC. Technical Report	10841
+DC. U.S. Department of State	10841
+DC. World Bank	3456,7385
 DC0179	10775
 DCA Directorate of Civil Aviation DDOS Distributed	6946
 DCAF Legal Databases	0
@@ -53,6 +68,8 @@ DCEF Ministère	10708
 DCEI Avg GTEI	10785
 DCEI Indicator-Level Responses	10785
 DCF Analysis	4896
+DCF DADF DC Programmation	10858
+DCF DGE DGI DGD DGSI DGTCP	10858
 DCI DG Amin Mohamed	10398
 DCI Director Mohammed I. Amin	10398
 DCO General Assembly	7169
@@ -65,6 +82,7 @@ DCP. Such	7869
 DCPMIs	8078,100
 DCRNPI	1963,2294,579,2808,217,70
 DCRNPI Director General Simon Majur	1963
+DCSFR	10874
 DCSP Notice	6940
 DCSPs	6940,524,95,1173
 DCSSI	5907
@@ -86,6 +104,8 @@ DCrouching	5700
 DCs. Verify	5364
 DCultivating	5349
 DCzw9IkVxR0	6251
+DOS DCF DCF DCF DOS DCF	10858
+DPSR DSF DADF DOS DC DC	10858
 Dabengwa Sifiso Lagos DC	6410
 Dansoman Operational PMB DC	3386
 DcdDisseminateFinalDMZ&df	6982
@@ -100,7 +120,7 @@ Emerging DCDT DHET	6832
 Every DCSP	6940
 GTMI CGSI PSDI DCEI GTEI	10785
 Green DC	4833
-H Street NW Washington DC	4214,6571
+H Street NW Washington DC	4214,6571,56
 ICASA and DCoG	5872
 Indian Association and DCIC	10564
 Johannesburg DC	857
@@ -120,6 +140,9 @@ No. A DCSP	6940
 OADC Texaf DC	6238
 ODM UDA DCP Jubilee Wiper	7869
 ODM and DCP	7869
+Onix DC	10861
+Orange Orange AMS-IX Orange Bluesun DC	10861
+Others Global DC	10861
 PACTDIGITAL. DCD URL	4748
 PDUs Rectifiers DC-UPS	9123
 Portugal and Angola Cables' AngoNAP Fortaleza DC	3075
@@ -129,6 +152,7 @@ Publishes the Xalam DC	4428
 Riyadh. Through the DCO	3837
 Rodríguez DC	3791
 SA DCDT	6353
+SCRP SCRP SCRP DOS DCF DCF	10858
 SSA-prorated. DCMS	649
 Solly Malatsi. The DCDT	10129
 South Africa. DCD	2021
@@ -139,5 +163,8 @@ Tier III DC	3959,77
 Tier IV DC	1227,662
 UDA ODM Wiper Jubilee DCP	7869
 Wahington DC	5242
-Washington DC	445,577,16,688,588,118,153,11,212,2434,198,822,4452,49
+Washington DC	445,577,16,688,588,118,153,11,212,2434,198,822,4452,49,102
 Washington DC16	748
+X DC X X X DC	10858
+X X X DC X X	10858
+X X X X X DC	10858

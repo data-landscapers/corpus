@@ -10,6 +10,7 @@ Arusha. Wakati Serikali	3086
 Aug Pilot Project for Electronic Reporting of Serious	8831
 Average Series B	4972
 B Series B	4972
+Bandar Seri Begawan Very High EGDI	10840
 Bandar Seri Iskandar	8022
 Briefs Series	5700
 CBN Fintech Report Policy Insight Series	4848
@@ -110,7 +111,7 @@ Serial No	22
 Serial Number of MOH Equipment Model	34
 Serials Librarian	8022
 Serianu	6426
-Series	264,1,28,98,119,19,44,32,77,31,200,17,4,200,6,11,92,120,184,55,1,1,1,1,9,1,694,726,115,8,1165,133,1,96,294,35,89,216,1,1,1,1,10,12,714,227,373,65,144,278,263,200,4,457,247,512,159,182,58,39,238,901,4,37,148,39,293,5
+Series	264,1,28,98,119,19,44,32,77,31,200,17,4,200,6,11,92,120,184,55,1,1,1,1,9,1,694,726,115,8,1165,133,1,96,294,35,89,216,1,1,1,1,10,12,714,227,373,65,144,278,263,200,4,457,247,512,159,182,58,39,238,901,4,37,148,39,293,5,21
 Series A	4883,5918
 Series A E-Commerce Jun	934
 Series A Series	4972
@@ -123,7 +124,7 @@ Series A for OmniRetail. Nigerian	2232
 Series A-and-up VCs	7482
 Series A-grade	7482
 Series A.5	1047
-Series B	264,29,98,420,119,5,122,83,995,16,159,726,869,372,606,89,4036,1456
+Series B	264,29,98,420,119,5,122,83,995,16,159,726,869,372,606,89,4036,1456,423
 Series B for South African	4972
 Series B for Tugende	935
 Series B. Companies	4972
@@ -135,7 +136,8 @@ Series C	606,105,99,8,112,210,288,11,105,679,24,63,772,1242,398,250,718,189,2819
 Series D	895
 Series Editor	7886
 Series F	4972
-Series of Projects	1175,2,1,1,1,1,1,95,7,583,1022,673,42,1758,1566,3840
+Series Information	10862
+Series of Projects	1175,2,1,1,1,1,1,95,7,583,1022,673,42,1758,1566,3840,61
 Series of Projects SSA Sub-Saharan Africa SPV	1264
 Serigne Abdou Aziz Mbacké Majalis	8031
 Serigne Abdou Aziz Mbacké Majalis. Selon	8031

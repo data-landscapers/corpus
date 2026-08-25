@@ -1,3 +1,4 @@
+AGRÉMENT ET ENREGISTREMENT Section	10836
 Anip. Enregistrant	4812
 Antsimondrano. Enrolment	4789
 Bangui. Enrolment	1258
@@ -8,12 +9,20 @@ Biometric Enrolment Frequently Asked Questions	6222
 COE Enrolment	4528
 COMMUNES ENREGISTRER LES FAITS D'ETAT CIVIL	3381
 Centro Nacional Enrique Matala Matomba de Ekuku	4209
+DGI PRMP Enregistre	10876
 Déploiement du Desk ENR	1993
 ENR Sector	29
-Education Enrolment	10759
-Enregistrement	7993,1675,486,393
+Education Education Enrolment Education Completion Human	10837
+Education Enrolment	10759,76,2,1
+Enregistre	10876
+Enregistrement	7993,1675,486,393,329
+Enregistrement Cadastral	10876
+Enregistrement Cadastral CEDEAO Communauté	10876
+Enregistrement Communal	10876
+Enregistrement Droit	10876
+Enregistrement Ensemble	10876
 Enregistrement des Faits	9637,1
-Enregistrer	747,258,5949,963
+Enregistrer	747,258,5949,963,2959
 Enregistrez	747
 Enriched	160,152,240,14,17,171,19,220,197,9,2,15,61,301
 Enriches	4429,2636
@@ -26,10 +35,10 @@ Enrico Bagnasco	3342
 Enrique	4209
 Enroll	2604,8161,10
 Enrolling	571,4877
-Enrollment	2775,1260,931,2163,467
+Enrollment	2775,1260,931,2163,467,3216,27
 Enrollment for Digital ID	10153
-Enrollments	4291
-Enrolment	1525,1250,2191,608,1648,1906
+Enrollments	4291,6521
+Enrolment	1525,1250,2191,608,1648,1906,1691
 Enrolment of Female Learners	2775
 Enrolment of Learners	2775
 Enrolment of Male Learners	2775
@@ -45,6 +54,7 @@ NDPA. Enrolment	9670
 NIMC Enrols	7141
 NIMC Intensifies Ward-Level NIN Enrolment Nationwide	5284
 Nigerian Government Intensifies National Identity Enrolment	7141,3
+OBJET DE LA REQUETE Enregistrement	10821
 Platform Enrolment	4528
 Pre-enrollment and Enrollment	6343
 Primary and Junior School Enrolment	2775

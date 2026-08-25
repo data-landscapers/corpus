@@ -74,7 +74,7 @@ FISCAL TITULAR DE INVESTIGACIONES ADMVAS	4209
 FISCAL TITULAR DE JURIDICCION MILITAR	4209
 FISCAL TITULAR DE MEDIO AMBIENTE	4209
 FISCAL TITULAR DEL TRIBUNAL DE CUENTAS	4209
-FISCAL YEAR	969,315,583,549,473,673,42,2935,4229
+FISCAL YEAR	969,315,583,549,473,673,42,2935,4229,61
 FISCALE	10712
 FISCALES ADJUNTOS DE LA AUDIENCIA PROVINCIAL	4209
 FISCALES DE GUARDIA GENDARMERIA	4209
@@ -140,6 +140,7 @@ Fiscal Register	10765,10
 Fiscal Responsibility Act	789
 Fiscal Stewardship	4528
 Fiscal Titular	4209
+Fiscal Unique	10821
 Fiscal Year	126,65,168,4251,1045
 Fiscal Year Addis Ababa	7091
 Fiscal Year Delivered	2416
@@ -203,6 +204,7 @@ Fishing and Food	1940
 Fishtown	4209
 Fishtown Baney	4209
 Fisre.2.1.1&linkType	5349
+Fisseha	10878
 Flexibilidad Fiscal Condicional Se	4209
 Forestry and Fishing	2775
 Funções de Fiscalização	167
@@ -212,6 +214,8 @@ Grupo A Abogado Fiscal Administrador Grupo	4209
 IMF Fiscal Policies	6593
 IMPLEMENTATION OF FISCAL POLICY MEASURES	7695
 INCITATIONS FISCALES ET SUBVENTIONS AUX STARTUPS	4567
+Identifiant Fiscal Unique	10823
+Identification Fiscal Unique	10821
 Identificação Fiscal	10765,10
 Impact of Key Fiscal Measures Introduced	1830
 Impôt BIC IRVM Total Recettes Fiscales	2342
@@ -331,6 +335,6 @@ VETERINARY SERVICES AND FISHERIES-COUNTY GOVERNMENT	7167
 Vice-Presidente Vice-Presidente Fiscal General Defensor	4209
 Vice-Primer Ministro Tercero Fiscal Corte Suprema	4209
 WB Fiscal	3604
-WB Fiscal Year	969,295,603,8901
+WB Fiscal Year	969,295,603,8901,61
 Waters Interiors and Fisheries	4214
 World Bank's State Fiscal Transparency	2364
