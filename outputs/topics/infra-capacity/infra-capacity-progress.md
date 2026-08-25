@@ -4,7 +4,7 @@ compiled: 2026-08-25
 period: 2025-08-01 to 2026-08-25
 subject: infra.capacity
 places: BWA; CMR; TCD; COG; GNQ; GHA; GIN; KEN; LSO; MWI; MAR; MOZ; NAM; NGA; RWA; SEN; SOM; ZAF; TZA; ZWE; XSA
-record: 19e75f55d70a
+record: 63c6f93bd8f5
 ---
 
 # Technical Capacity: progress report, 2025-08-01 to 2026-08-25
@@ -130,7 +130,7 @@ record: 19e75f55d70a
 
 ## Tanzania
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Cyber-skills partnership with South Korea | A partnership announced for digital forensics and misinformation-detection training | [Unchanged; no trainee numbers, cohorts or completion reported since](https://www.mwananchi.co.tz/mw/habari/kitaifa/tanzania-kuongeza-wataalamu-kupambana-na-wadukuzi-mtandaoni-5158368) | No change |
 | Practical backbone training with a technical institute | ***Baseline not held*** | [Students given hands-on training at the operator's headquarters on backbone technologies and operational systems](https://techafricanews.com/2026/07/23/ttcl-equips-dit-students-with-practical-broadband-infrastructure-skills/) | ***Baseline not held*** |

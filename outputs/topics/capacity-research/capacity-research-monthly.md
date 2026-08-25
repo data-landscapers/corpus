@@ -3,13 +3,13 @@ title: Research institutions — monthly update, July 2026
 compiled: 2026-08-25
 period: 2026-07-01 to 2026-08-25
 subject: capacity.research
-places: BDI; CMR; CIV; GNQ; ETH; LBY; MOZ; SEN; SOM; ZAF; ZMB
-record: aa2e2d373c83
+places: BDI; CMR; CAF; CIV; GNQ; ETH; LBY; MOZ; SEN; SOM; ZAF; ZMB
+record: f1e658ec4c34
 ---
 
 # Research institutions: monthly update, July 2026
 
-*11 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*12 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -20,6 +20,10 @@ The research capacity the AI strategy assumes showed itself once this month, [ou
 ## Cameroon
 
 Two research builds were tabled in the same cabinet review list — a [sovereign scientific database on a dedicated national platform and a centre for the digitisation of scientific and technical information](https://www.cameroon-tribune.cm/articles/11572/en/artificial-intelligence-govt-engages-on-harnessing) — with no cost, site or timeline for either.
+
+## Central African Republic
+
+Nothing moved in the research base this period. What changed is the record: the base had carried no university, statistics-institute or donor research document for the country at all, and now holds the University of Bangui's [Institut superieur de technologie](https://www.univ-bangui.org/technologie/), which supplies most of the country's professional engineering graduates and runs a master's in engineering sciences. The page carries no date, enrolment or research-output figure, so the position it settles is one of existence rather than of scale.
 
 ## Cote d'Ivoire
 

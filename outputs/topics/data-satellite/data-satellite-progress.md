@@ -4,7 +4,7 @@ compiled: 2026-08-25
 period: 2025-08-01 to 2026-08-25
 subject: data.satellite
 places: DZA; AGO; BWA; BFA; CMR; TCD; COM; COG; CIV; EGY; SWZ; ETH; GHA; LBR; LBY; MAR; MOZ; NAM; NER; NGA; RWA; SYC; SLE; TZA; ZMB; ZWE
-record: 94a84d31e5a5
+record: abb69adaeaff
 ---
 
 # Use of satellite data: progress report, 2025-08-01 to 2026-08-25
@@ -36,9 +36,10 @@ record: 94a84d31e5a5
 
 ## Burkina Faso
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Satellite verification of land development | Did not exist; development of a plot had to be verified by a field commission on site | [The tax administration verifies development from satellite imagery without a site visit, instructing a file in a day, and the development period is extended from five to eight years](https://www.sidwaya.info/reorganisation-agraire-et-fonciere-la-nouvelle-loi-un-rempart-contre-les-derives/) | Advanced |
+| Locality information system | ***Baseline not held*** | [A geospatial locality information system built by the statistics institute, its geospatial analysis report in validation](https://www.insd.bf/fr/node/2229) | ***Baseline not held*** |
 
 ## Cameroon
 
@@ -99,7 +100,7 @@ record: 94a84d31e5a5
 
 ## Liberia
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | National Spatial Data Infrastructure | Not held | [Taken by the Land Authority to the United Nations' sixteenth global geospatial information management session in New York, where it sought international partnerships and technical support to build a coordinated geospatial framework for land administration, mapping and national planning](https://www.liberianobserver.com/news/lla-takes-liberia-s-land-modernization-drive-to-un-geospatial-forum/article_6395fd70-5dfc-496a-bc1c-944a19aff053.html) | ***Baseline not held*** |
 
@@ -166,7 +167,7 @@ record: 94a84d31e5a5
 
 ## Tanzania
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Educational cubesat | Did not exist | [A budget line, with no design, launch date, operator or cost broken out](https://www.mwananchi.co.tz/mw/habari/kitaifa/kairuki-aomba-222-5-bilioni-kamati-yaitaja-tcra-5442016) | Advanced |
 

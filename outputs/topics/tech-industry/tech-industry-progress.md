@@ -4,7 +4,7 @@ compiled: 2026-08-25
 period: 2025-08-01 to 2026-08-25
 subject: tech.industry
 places: DZA; AGO; BEN; BWA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GMB; GHA; GIN; LSO; LBR; LBY; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF
-record: ff561a04194e
+record: 0b98dd3df299
 ---
 
 # ICT Industry: progress report, 2025-08-01 to 2026-08-25
@@ -30,7 +30,7 @@ record: ff561a04194e
 
 ## Benin
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Domestic content-verification platform | ***Baseline not held*** | [Checks text, images, audio and video, including AI-generated content](https://www.wearetech.africa/fr/fils/tech-stars/le-beninois-rene-fadonougbo-lutte-contre-la-desinformation-en-ligne) | ***Baseline not held*** |
 
@@ -68,7 +68,7 @@ record: ff561a04194e
 
 ## Central African Republic
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Bitcoin as legal tender | Legal-tender status revoked and acceptance made optional | [Unchanged; no restoration or replacement instrument recorded](https://globalinitiative.net/wp-content/uploads/2025/12/Behind-the-blockchain-Cryptocurrency-and-criminal-capture-in-the-Central-African-Republic-Central-Africa-Observatory-on-Organized-Crime-and-Violence-December-2025.pdf) | No change |
 
@@ -148,7 +148,7 @@ record: ff561a04194e
 
 ## Gambia
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | GAMCEL 80% share sale and network modernisation | Sale of 80% of GAMCEL announced to lawmakers at a winning bid of D6.7bn, no agreement signed (2025-12) | [Agreement signed transferring an 80% equity stake to YCELL against a GMD 6.1bn modernisation programme covering 4G and 5G radio access, core, operations and billing systems, hybrid tower power and revenue assurance (2026-07)](https://thepoint.gm/africa/gambia/headlines/gamtel-ycell-sign-landmark-share-investment-and-network-modernization-agreement) | Advanced |
 
@@ -174,7 +174,7 @@ record: ff561a04194e
 
 ## Liberia
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Smart ports memorandum with HAROPA PORT | Did not exist | [Non-exclusive memorandum covering all four seaports across five areas including automated terminal operations; no commitment amount, implementation date or named system (2026-07)](https://www.thenewdawnliberia.com/npa-french-port-giant-sign-smart-ports-deal/) | Advanced |
 
@@ -293,7 +293,7 @@ record: ff561a04194e
 
 ## Tanzania
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Digital Economy Strategic Framework 2024-2034 | ***Baseline not held*** | [Targets: the ICT share of GDP doubled to 3% by 2029, broadband and internet user penetration at 80% by 2029, digital literacy at 90% by 2029, 80,000 teachers trained by 2028, mobile-money penetration above 70%, at least 1,000 new startups in five years and innovation hubs in all regions](https://www.thecitizen.co.tz/tanzania/news/national/digital-economy-to-contribute-1bn-to-tanzania-s-gdp-by-2034--5334400) | ***Baseline not held*** |
 | ICT sector contribution to GDP | ***Baseline not held*** | [About 1.5% for 2022/23, against a target of 3% by 2029; no intervening annual figure is held](https://www.thecitizen.co.tz/tanzania/news/national/digital-economy-to-contribute-1bn-to-tanzania-s-gdp-by-2034--5334400) | ***Baseline not held*** |
@@ -307,13 +307,13 @@ record: ff561a04194e
 
 ## Tunisia
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Telecommunications market structure | Three mobile operators, mobile internet and subscriptions rising and voice plateauing under displacement by internet services (2025-04) | [Unchanged in structure; the state operator is being modernised under a European development loan and the market's two private operators are foreign groups (2026-08)](https://techafricanews.com/2025/04/11/tunisias-telecom-sector-sees-strong-data-driven-growth/) | No change |
 
 ## Uganda
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | YAS acquisition of Wananchi Group | Wananchi Group independent | [99.63% held by YAS for about US$63m](https://www.independent.co.ug/yas-completes-63m-acquisition-of-parent-company-of-zuku-and-simbanet) | Advanced |
 

@@ -4,7 +4,7 @@ compiled: 2026-08-25
 period: 2025-08-01 to 2026-08-25
 subject: gov.discourse
 places: BEN; BFA; BDI; CMR; CAF; TCD; COM; CIV; COD; EGY; SWZ; GAB; GHA; LSO; LBR; MLI; MUS; MAR; NAM; NER; RWA; STP; SEN; SYC; ZAF; TZA; TGO; UGA; ZMB; ZWE; XWA
-record: d134a3ce498e
+record: 737121bc71dc
 ---
 
 # Public debate and participation in policymaking: progress report, 2025-08-01 to 2026-08-25
@@ -17,13 +17,13 @@ record: d134a3ce498e
 
 ## Benin
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Internet freedom ranking | ***Baseline not held*** | [4th in Africa on a 2026 internet-freedom assessment](https://fraternite.bj/liberte-internet-en-afrique-le-benin-dans-le-top-5-du-classement-2026/) | ***Baseline not held*** |
 
 ## Burkina Faso
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Broadcasting regulator | A standalone regulator of public communication exercising new social-media powers over users with 5,000 or more followers | [Its regulation of public communication passes to the merged authority, putting broadcast-content regulation and data-protection supervision under one college](https://www.sidwaya.info/surete-aerienne-et-protection-des-donnees-a-caractere-personnel-lassemblee-legislative-du-peuple-adopte-les-projets-de-lois/) | Closed, subject to promulgation |
 | Organic law on social-media regulation | Extends regulatory powers to social-media users with at least 5,000 followers, with operationalisation started in 2024 | [Same; no held source records any change, and the enforcing body is folded into the merged authority](https://burkina24.com/2025/02/11/droits-numeriques-au-burkina-faso-le-centre-national-de-presse-norbert-zongo-presente-son-rapport-2024/) | No change |
@@ -43,7 +43,7 @@ record: d134a3ce498e
 
 ## Central African Republic
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Regulator request for tighter identification and platform account closures | Did not exist | [Requests for better control of subscriber identification to limit anonymous accounts, activation of international judicial cooperation against content produced abroad, and cooperation with international platforms on reporting and closing accounts; no instrument adopted](https://centranews.org/centrafrique-le-hcc-denonce-lusage-abusif-de-lintelligence-artificielle-pour-la-desinformation/) | Advanced |
 
@@ -108,7 +108,7 @@ record: d134a3ce498e
 
 ## Liberia
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Anti-Corruption Commission complaint against the LTA | Did not exist | [Under investigation, with no evidence publicly produced and no findings made (2026-07)](https://www.liberianobserver.com/news/lacc-weighs-investigation-into-lta/article_86dd65ff-724e-4440-a664-728654ea9668.html) | Advanced |
 | U-Report youth feedback platform | Not held | [Relaunched by UNICEF and UNFPA with support from the Irish embassy under a joint programme with the government, giving young people an encrypted SMS channel on one operator's network to answer polls on health, water and sanitation and other social issues, with responses analysable by county and a target of at least 8,000 reporters](https://www.thenewdawnliberia.com/unicef-unfpa-relaunch-u-report/) | ***Baseline not held*** |
@@ -178,7 +178,7 @@ record: d134a3ce498e
 
 ## Tanzania
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Online gendered violence against election candidates | Baseline not held | [Documented as cyclical across successive elections in a two-country civil-society study, with no state measurement held against it](https://pollicy.org/resource/the-cost-of-candidacy-cyclical-online-gendered-violence-across-elections-in-tanzania-and-cote-divoire/) | ***Baseline not held*** |
 
@@ -190,7 +190,7 @@ record: d134a3ce498e
 
 ## Uganda
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Fourth-cycle Universal Periodic Review | Third-cycle review concluded January 2022 with 273 recommendations, 139 supported and 134 noted; no fourth-cycle submission on file (2025-08) | [Joint submission by CIPESA, APC and WOUGNET filed, seeking repeal of the Computer Misuse Act speech offences, a statutory bar on network disruption, removal of the 12% excise duty on internet data, and statutory independence and fining powers for the Personal Data Protection Office; the review had not been held as at 2026-08-07](https://cipesa.org/wp-content/files/Uganda_UPR_Review.pdf) | Advanced |
 | Judiciary media guidelines issued through ECCMIS | Did not exist (2025-08) | [Prior accreditation required, devices barred from the courtroom, live broadcasting granted case by case; the Law Society asked for the restrictions to be lifted](https://mulengeranews.com/uls-slams-court-restrictions-after-besigye-collapsed-during-treason-trial/) | Advanced |
@@ -213,6 +213,6 @@ record: d134a3ce498e
 
 ## West Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-24 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Regional Feminist Data Agenda 2026-2028 | Did not exist | [Ratified with three priorities for 2026-2028, each carrying a named owner, alongside eight thematic policy briefs and a cross-border encrypted data collective with rapid-response protocols; no text is published](https://rflgd.org/2026/08/02/thanks-to-sida-l-west-africa-feminist-data-summit-2026-%c2%b7-one-hundred-delegates-%c2%b7-twenty-one-countries/) | Advanced |

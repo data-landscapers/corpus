@@ -1,13 +1,13 @@
 ---
-title: Gulf/UAE activities — progress report, 2025-08-01 to 2026-08-24
-compiled: 2026-08-24
-period: 2025-08-01 to 2026-08-24
+title: Gulf/UAE activities — progress report, 2025-08-01 to 2026-08-25
+compiled: 2026-08-25
+period: 2025-08-01 to 2026-08-25
 subject: geopol.gulf
 places: AGO; BWA; BFA; CAF; CIV; COD; SWZ; MLI; MRT; NAM; NER; SDN; UGA; ZWE
-record: b4ab2070b9a3
+record: 96cd084adb75
 ---
 
-# Gulf/UAE activities: progress report, 2025-08-01 to 2026-08-24
+# Gulf/UAE activities: progress report, 2025-08-01 to 2026-08-25
 
 *14 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -29,13 +29,13 @@ record: b4ab2070b9a3
 
 ## Burkina Faso
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Gulf digital memorandum | Did not exist | [A memorandum covering AI skills, digital infrastructure, electronic-government consolidation and cybersecurity, with no project, value, timetable or delivery reported since signature](https://www.connectingafrica.com/digital-inclusion/burkina-faso-uae-s-presight-partner-to-accelerate-digital-transformation) | Advanced |
 
 ## Central African Republic
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Digital finance and land-banking memorandum | Did not exist | [Signed, with no commitment figure, disbursement schedule, timetable or governance arrangement stated](https://www.journaldebangui.com/rca-bangui-renforce-son-partenariat-avec-les-emirats-arabes/) | Advanced |
 
@@ -89,7 +89,7 @@ record: b4ab2070b9a3
 
 ## Uganda
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Tahaluf national ID system contract | ***Baseline not held*** | [A UAE-based supplier is service provider for the new national ID system, with five modules in service](https://www.biometricupdate.com/202602/uganda-migrates-more-than-28m-records-to-new-national-id-system) | ***Baseline not held*** |
 

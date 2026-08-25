@@ -4,7 +4,7 @@ compiled: 2026-08-25
 period: 2025-08-01 to 2026-08-25
 subject: geopol.usa
 places: AGO; BWA; BFA; BDI; CMR; CPV; CAF; TCD; CIV; COD; EGY; SWZ; GAB; GHA; GIN; KEN; LSO; MUS; MAR; MOZ; NAM; NGA; SEN; SSD; UGA; ZMB; ZWE; XAF
-record: f4a10af5dd9a
+record: 45bcf1658348
 ---
 
 # US / hyperscaler activities: progress report, 2025-08-01 to 2026-08-25
@@ -31,7 +31,7 @@ record: f4a10af5dd9a
 
 ## Burkina Faso
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | US AI training initiative | Digital-cooperation talks at a preliminary stage, no agreement signed | [A major training initiative on digitalisation and artificial intelligence announced for 2026 in US-run spaces in three cities, with no delivery, cohort size or start date reported](https://itweb.africa/article/us-burkina-faso-alliance-to-offer-ai-training-to-youths/rW1xL75n8o9MRk6m) | Advanced |
 
@@ -55,7 +55,7 @@ record: f4a10af5dd9a
 
 ## Central African Republic
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Incumbent-operator privatisation and recapitalisation | Did not exist at the window's start; the memorandum was signed 2025-09-18 at a development round table | [An operational phase declared, with US$150m announced for network modernisation, a data centre and a connectivity ecosystem; definitive agreements, a steering committee and a schedule unfinalised](https://www.agenceecofin.com/actualites-numerique/1707-140264-centrafrique-une-nouvelle-tentative-de-relance-de-socatel-chiffree-a-150-millions-usd) | Advanced |
 
@@ -175,7 +175,7 @@ record: f4a10af5dd9a
 
 ## Uganda
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | United States health-data access agreement | Did not exist | [The signed memorandum caps the data-sharing arrangement at seven years from execution, places it under joint steering-committee governance with the Government of Uganda as data owner, requires prior written authorisation through a Data Sharing Agreement approved by both, binds all data activities to the Data Protection and Privacy Act Cap 97 and the National Data Governance Framework, and has Uganda approve the national health information architecture before any United States-financed investment; planned United States support is US$1,719,960,000 against Uganda's US$577,001,796, including US$113,102,289 for data systems. The MOU only provides for a future Data Sharing Agreement (§2.5.2); ProPublica reported 2026-07-23 that it reviewed that agreement directly and that it grants direct, real-time login access to nine of Uganda's health data systems for seven years, a term matching the MOU's own cap. The agreement's text is unpublished and not held, and no Ugandan or US primary has confirmed or denied ProPublica's account (reconciled 2026-08-10) Eight United States senators wrote to the Secretary of State in the week to 2026-08-19 challenging the arrangement, noting that the Uganda agreement provides up to US$1.7bn in aid for HIV, tuberculosis and malaria among other diseases against direct access to the government's own health data systems, and requesting a briefing and a written answer by the end of August 2026.](https://www.propublica.org/article/senators-letter-health-data-africa-humanitarian-aid) | Advanced |
 

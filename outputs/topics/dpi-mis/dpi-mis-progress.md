@@ -4,7 +4,7 @@ compiled: 2026-08-25
 period: 2025-08-01 to 2026-08-25
 subject: dpi.mis
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBY; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF; XWA
-record: 80c989624c31
+record: bf5e2d63bd41
 ---
 
 # Sectoral management information systems (HMIS, EMIS, etc.): progress report, 2025-08-01 to 2026-08-25
@@ -41,13 +41,15 @@ record: 80c989624c31
 
 ## Benin
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Tax directorate information system modernisation | Did not exist | [A EUR 2m donor-funded project for the digital transformation of the tax directorate's information systems, running from 9 August 2023 to 31 December 2026](https://www.expertisefrance.fr/fr/projets/projet-dappui-la-modernisation-des-systemes-dinformation-pamsi-de-la-dgi-du-benin) | Advanced |
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | AI, drone and geospatial malaria programme | Did not exist | [Incidence down 38% and mortality down 39% across 2022-2024](https://www.wearetech.africa/en/fils-uk/news/tech/benin-combines-ai-drones-and-geospatial-mapping-in-fight-against-malaria) | Advanced |
+| Educmaster school management system | ***Baseline not held*** | [Three years in use across nursery and primary schools, with the minister requiring complete registration of intermediate classes by 23 February 2026 and heads of non-compliant schools barred from the primary certificate examination workforce](https://beninwebtv.com/benin-le-ministre-karimou-exige-la-mise-a-jour-complete-des-donnees-des-classes-intermediaires-sur-educmaster/) | ***Baseline not held*** |
+| Health management information system | ***Baseline not held*** | [DHIS2 carries ministry reporting, with private health facilities trained from 2023 to submit reproductive, maternal, newborn and child health data that had gone largely unreported](https://www.abtglobal.com/insights/impact-briefs/pshpa-trains-private-health-facilities-to-submit-rmnch-data-for-dhis2) | ***Baseline not held*** |
 
 ## Botswana
 
@@ -59,11 +61,15 @@ record: 80c989624c31
 
 ## Burkina Faso
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Customs system | Procurement of an intelligent customs solution authorised at FCFA 3.313bn, entirely state-budget financed, nothing built | [The system in advanced testing with production imminent](https://www.sidwaya.info/transformation-numerique-inclusion-financiere-et-financement-des-pme-le-bilan-dun-projet-structurant-au-burkina-faso/) | Advanced |
 | Pension acts platform | Did not exist | [Announced as the platform that will join the pension fund, the civil-service directorate and the budget directorate on a single pension file](https://www.laborpresse.net/retraite-des-agents-publics-du-burkina-faso-une-plateforme-ecarfo-dediee-aux-formalites/) | Advanced |
 | Solidarity platform | Did not exist; vulnerability alerts were reported late and information dispersed across actors | [Assistance requests and tracking, complaint handling, solidarity appeals, financial contributions and statistical monitoring for social policy](https://www.sidwaya.info/solidarite-nationale-la-plateforme-digitale-deme-sira-officiellement-lancee/) | Advanced |
+| District health information system | ***Baseline not held*** | [Rural clinics keep paper consultation registers which health workers summarise monthly onto paper forms for district teams to key into DHIS2, with tablet-based tools running in pilot districts alongside the paper registers rather than replacing them](https://doi.org/10.1136/bmjgh-2025-019312) | ***Baseline not held*** |
+| Employment agency job-seeker platform | ***Baseline not held*** | [Online recruitment for the public employment agency, ending the drawing of lots at pre-selection, and connected to neither a government data exchange nor any labour-market information system](https://www.latribunedufaso.net/?p=3358) | ***Baseline not held*** |
+| National student registry | ***Baseline not held*** | [FIUE-BF enrols pupils and issues school identity cards, with national generalisation and interoperability set out in a strategy supported by the regional identity programme](https://www.latribunedufaso.net/?p=21538) | ***Baseline not held*** |
+| Tax administration system | ***Baseline not held*** | [Tax administration sites interconnected over the state network around a single taxpayer identifier, with the 2025-2027 operational plan setting an action to upgrade the interface with the national statistics institute](https://dgi.bf/wp-content/uploads/2025/06/Plan-daction-operationnel-2025_2027-du-PS-2023_2027-de-la-DGI.pdf) | ***Baseline not held*** |
 
 ## Burundi
 
@@ -94,9 +100,10 @@ record: 80c989624c31
 
 ## Central African Republic
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Hospital telemedicine link | Did not exist | [A remote hospital using telemedicine to reach a global network of healthcare professionals, run by an international medical organisation](https://www.doctorswithoutborders.ca/central-african-republic-using-telemedicine-to-tap-into-a-global-network-of-healthcare-professionals/) | Advanced |
+| Sector management information systems | No sector management information system on file | [The health ministry runs DHIS2 as its routine health information system, a four-country study finding it offers users in the Central African Republic fewer functionalities than in the three comparators, with a US$70m World Bank and Global Financing Facility project supporting health service delivery and system strengthening since 2022](https://researchonline.lshtm.ac.uk/id/eprint/4679144/) | Advanced |
 | Civil-service payroll and human-resources system | A payroll clean-up removing more than 2,000 ghost workers, built by the national informatics office | [Unchanged; no later headcount, payroll-value or coverage figure held](https://documents1.worldbank.org/curated/en/099052925135520222/pdf/BOSIB-50d33b34-4918-409e-92f7-070a1773ac56.pdf) | No change |
 
 ## Chad
@@ -171,9 +178,9 @@ record: 80c989624c31
 | System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | America First Global Health Strategy memorandum of understanding | Did not exist | [Planned United States support of US$1,016,000,000 across 2026-2030 against Ethiopia's US$450,000,000, of which US$18,850,149 is for health data systems on a profile falling from US$6,283,383 in 2026 to US$1,256,677 in 2030, with Ethiopia to carry software licensing, cloud, hardware and maintenance costs for those systems; the United States reserves 6% of the top-line budget for its own management and operations, and Ethiopia signed through the Minister of Finance](https://www.citizen.org/wp-content/uploads/2026-0004QN-Ethiopia-Health-12.23.2025.pdf) | Advanced |
+| DHIS2 national health information system | National since 2018, 95%+ of facilities | [95%+ of facilities, maturity 2.81 of 5 with ICT infrastructure weakest at 2.14, and functionality for calculating reports received against reports expected available in 75.0% of data offices assessed](https://researchonline.lshtm.ac.uk/id/eprint/4679144/) | Advanced |
 | Donor-funded health and surveillance data systems | Donor-funded surveillance operating | [Livestock and zoonotic surveillance suspended; the national health system stayed online on local staffing](https://developmentgateway.org/blog/a-year-after-usaid-reclaiming-control-of-data-systems/) | Regressed |
 | Livestock Information System | Did not exist | [Five priority databases repositioned as a national asset register — the implementer's own account](https://developmentgateway.org/blog/building-lasting-dpi-through-local-ownership-lessons-from-ethiopias-livestock-information-system/) | Advanced |
-| DHIS2 national health information system | National since 2018, 95%+ of facilities | [95%+ of facilities; maturity 2.81 of 5, ICT infrastructure weakest at 2.14](https://medinform.jmir.org/2024/1/e50375) | No change |
 | eCHIS community health information system | In use (2023-06) | [Offline-first, constrained by 9% rural electricity and 4% 4G coverage](https://pmc.ncbi.nlm.nih.gov/articles/PMC10282640/) | No change |
 | Unified Data System for HIV case management | ***Baseline not held*** | [In use by 950 community health workers, with data-access time reported down from a month to a day, 92% of mobile and 94% of web accounts actively used and data completeness near 100%](https://www.ghspjournal.org/content/14/1/e2400353) | ***Baseline not held*** |
 
@@ -187,7 +194,7 @@ record: 80c989624c31
 
 ## Gambia
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | DHIS2 for Education | ***Baseline not held*** | [Individual learner tracking and school report cards being built on DHIS2 by the basic and secondary education ministry; no coverage figure or go-live date published (2026-05)](https://education.dhis2.org/gambia-data-driven-education) | ***Baseline not held*** |
 | Smart Paper Technology for community health data | ***Baseline not held*** | [In use for community health data capture; no district count or record volume published (2025-12)](https://articles.nigeriahealthwatch.com/smart-paper-technology-is-transforming-community-health-data-capture-in-the-gambia) | ***Baseline not held*** |
@@ -371,9 +378,9 @@ record: 80c989624c31
 
 ## Tanzania
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
-| Health management information system | A fragmented ecosystem of eighteen systems, with the platform in all district councils since 2013 carrying over 90% of flows | [Unchanged; no dated update inside the progress window](https://pmc.ncbi.nlm.nih.gov/articles/PMC10617168/) | No change |
+| Health management information system | A fragmented ecosystem of eighteen systems, with the platform in all district councils since 2013 carrying over 90% of flows | [The platform still carries over 90% of flows across a fragmented ecosystem, with functionality for generating facility annual summary reports available in every data office assessed](https://researchonline.lshtm.ac.uk/id/eprint/4679144/) | Advanced |
 | Agriculture and fertiliser information systems | ***Baseline not held*** | [One system holds farmer records, manages ministry institutions and issues agricultural permits; the other monitors manufacturers, importers and distributors against indicative prices](https://dailynews.co.tz/ega-drives-digital-farming/) | ***Baseline not held*** |
 | Government asset management information system | Not held | [In use as the central electronic system for recording and monitoring public assets, with the finance ministry tightening enforcement and citing major investments including a hydropower project at about TSh6tn and a railway at about TSh10.6tn; legal backing comes through amendments to the Public Finance Act and the Public Assets Management Regulations 2024](https://businessinsider.co.tz/tanzania-pushes-digital-asset-tracking-to-protect-public-wealth/) | ***Baseline not held*** |
 
@@ -387,7 +394,7 @@ record: 80c989624c31
 
 ## Tunisia
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Sahetna.tn health portal | Did not exist | [Cleared its technical gate and not launched; it is to expose medical records, appointments and treatment tracking against the health identifier, and no legal basis, retention rule or data-protection authority is named for the linked dataset (2026-07)](https://tmo-mag.com.tn/tunisia-finalizes-sahetna-tn-digital-health-portal-as-national-id-rollout-gains-steam/) | Advanced |
 | School life platform (viescolaire.education.tn) | ***Baseline not held*** | [A single platform consolidating every stage of schooling, with parents asked to create accounts ahead of registration opening; no data-protection basis, retention rule or pupil-record scope published](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/151762-%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D9%8A%D8%A9-%D8%AA%D8%B7%D9%84%D9%82-%D9%85%D9%86%D8%B8%D9%88%D9%85%D8%A9-%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%88%D8%B4%D8%A7%D9%85%D9%84%D8%A9) | Advanced |
@@ -395,9 +402,10 @@ record: 80c989624c31
 
 ## Uganda
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | National Laboratory Data Repository | Did not exist | [A one-stop platform linking laboratory information systems to the National Health Data Warehouse for real-time surveillance and planning](https://www.newvision.co.ug/category/health/ugandas-new-lab-data-repository-to-boost-heal-NV_227554_032026) | Advanced |
+| Health management information system | ***Baseline not held*** | [DHIS2 is the routine electronic health information system, with functionality for generating facility annual summary reports available in every data office assessed](https://researchonline.lshtm.ac.uk/id/eprint/4679144/) | ***Baseline not held*** |
 
 ## Zambia
 
@@ -425,6 +433,6 @@ record: 80c989624c31
 
 ## West Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-24 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | ASRII Digital Platform | ***Baseline not held*** | [Twenty core participants trained across the Commission's directorates with the Directorate of Research and Statistics named as single focal point; the platform is to replace manual collection with submission, validation, automated computation of integration scores and dissemination, and is to be used to evaluate member states' policy implementation and track commitments across sectors. No integration score has been published (2026-08)](https://www.ecowas.int/ecowas-commission-and-african-union-conclude-asrii-digital-platform-training-with-high-level-engagement-with-the-secretary-general/) | ***Baseline not held*** |

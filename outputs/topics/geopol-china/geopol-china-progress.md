@@ -4,7 +4,7 @@ compiled: 2026-08-25
 period: 2025-08-01 to 2026-08-25
 subject: geopol.china
 places: DZA; AGO; BWA; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; KEN; MLI; MRT; MOZ; NAM; NER; NGA; SEN; SYC; SSD; UGA; ZMB; ZWE; XAF; XWA
-record: 8458ab1b6061
+record: 072ee90acd14
 ---
 
 # China activities: progress report, 2025-08-01 to 2026-08-25
@@ -42,7 +42,7 @@ record: 8458ab1b6061
 
 ## Central African Republic
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Vendor four-axis e-government programme | Did not exist | [A programme announced with no contract, amount or timetable, and documented in no appropriation](https://www.agenceecofin.com/actualites-numerique/2705-138800-la-centrafrique-modernise-l-infrastructure-numerique-de-son-administration-avec-huawei) | Advanced |
 
@@ -189,7 +189,7 @@ record: 8458ab1b6061
 
 ## Uganda
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Centenary Group and Huawei banking partnership | Did not exist | [AI-powered banking, cloud, cybersecurity, data management, data-centre development, staff training and joint research](https://www.newvision.co.ug/category/business/huawei-partnership-pushes-centenary-into-digi-NV_234176_062026) | Advanced |
 | ICT ministry AI-skills memorandum with China exchange | Did not exist | [In place for AI labs, youth skills and a China exchange on smart agriculture; no lab, cohort or disbursement recorded](https://www.newvision.co.ug/category/business/ministry-of-ict-signs-partnership-to-boost-yo-NV_231014_062026) | Advanced |
@@ -216,6 +216,6 @@ record: 8458ab1b6061
 
 ## West Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-24 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | China-aid ECOWAS Headquarters Building | ***Baseline not held*** | [Handed over to the Commission, the second international-organisation office complex China has built in Africa; China describes cooperation extending into the digital economy and names no digital programme, figure or instrument, and the Commission's own release names no digital component](https://www.fmprc.gov.cn/mfa_eng/xw/zwbd/202605/t20260506_11905147.html) | ***Baseline not held*** |

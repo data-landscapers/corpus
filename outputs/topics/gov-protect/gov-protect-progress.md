@@ -4,7 +4,7 @@ compiled: 2026-08-25
 period: 2025-08-01 to 2026-08-25
 subject: gov.protect
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF; XSA; XWA
-record: 111f1aa56643
+record: 5310b830ed9d
 ---
 
 # Data protection: progress report, 2025-08-01 to 2026-08-25
@@ -38,9 +38,10 @@ record: 111f1aa56643
 
 ## Benin
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Data protection authority | Operating (2025-08) | [907 files, 64 control missions, 14 sanctioned cases; no algorithmic-audit tooling or budget](https://www.lanation.bj/numerique/protection-des-donnees-personnelles-en-2025-au-benin-lapdp-dresse-un-bilan-sous-le-signe-de-la-conformite) | Advanced, in caseload |
+| Data-protection authority activity reporting | ***Baseline not held*** | [One activity report covering 2015 to 2020, published under article 481 of the 2018 digital code, with no later report on file](https://archive.apdp.bj/wp-content/uploads/2020/12/Rapport-Bilan_2015-2020_Version-finale.pdf) | ***Baseline not held*** |
 | Enforcement against the electoral agency | ***Baseline not held*** | [Extraneous fields required to be stripped from the electoral roll before publication](https://www.biometricupdate.com/202605/world-bank-african-dpas-outline-formula) | ***Baseline not held*** |
 
 ## Botswana
@@ -53,7 +54,7 @@ record: 111f1aa56643
 
 ## Burkina Faso
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Data protection commission | An operating authority with no repressive powers, its standing borrowed from a prime-ministerial compliance campaign | [Superseded as data-protection supervisor on the face of the August 2026 votes, never having received the enforcement decrees it asked for in March 2025](https://www.sidwaya.info/surete-aerienne-et-protection-des-donnees-a-caractere-personnel-lassemblee-legislative-du-peuple-adopte-les-projets-de-lois/) | Closed, subject to promulgation |
 | Data protection law of 2026 | Did not exist | [Voted with processing without consent prohibited and sanctioned, administrative fines indexed to turnover and scaled by gravity, transfer of sensitive data abroad prohibited, use of personal data for commercial prospecting prohibited without prior consent and enforced by administrative sanctions of the regulator without prejudice to court action, and private video-surveillance devices left lawful but framed where they face the public highway](https://www.sidwaya.info/surete-aerienne-et-protection-des-donnees-a-caractere-personnel-lassemblee-legislative-du-peuple-adopte-les-projets-de-lois/) | Advanced |
@@ -87,7 +88,7 @@ record: 111f1aa56643
 
 ## Central African Republic
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Data protection authority | Not established, with the statute vesting its functions in the supervising ministry meanwhile | [Not established, eighteen months past the statutory deadline](https://dataprotection.africa/central-african-republic) | No change |
 | Loi n. 24.001 on personal data protection | In force since January 2024, a comprehensive regime with no supervisory authority and no implementing decree | [Unchanged; the law in force and still no implementing decree on file](https://dataprotection.africa/central-african-republic) | No change |
@@ -189,7 +190,7 @@ record: 111f1aa56643
 
 ## Gambia
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Personal Data Protection and Privacy Act 2025 | No comprehensive data-protection law; the Bill was before the National Assembly (2025-08) | [Enacted, with extraterritorial scope, seven lawful bases, a sensitive-data regime covering genetic, biometric and health data, and rights of access, rectification, erasure and protection from solely automated decisions (2025-12)](https://www.techhiveadvisory.africa/insights/review-of-gambias-personal-data-protection-and-privacy-act-2025) | Advanced |
 | Information Commission | Not held | [Operating as the body responsible for the Access to Information Act 2021 and the Personal Data Protection and Privacy Act 2025, and receiving UNFPA-funded support under the Peacebuilding Fund's Public Accountability Project to build a communication strategy raising public awareness of both statutes](https://gambia.unfpa.org/en/vacancies/development-communication-strategy-information-commission-gambia) | ***Baseline not held*** |
@@ -251,7 +252,7 @@ record: 111f1aa56643
 
 ## Liberia
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Personal Information Act (data protection bill) | Referred to a House committee in June 2025, unpassed, with no national data authority (2025-08) | [Signed into force on 2026-08-19; no data-protection authority yet exists to administer it](https://www.wearetech.africa/fr/fils/actualites/gestion-publique/le-liberia-adopte-les-lois-sur-la-cybercriminalite-et-la-protection-des-donnees) | Advanced |
 | Privacy enforcement against telecom operators | Did not exist; no privacy penalty on record (2025-08) | [LRD 4m fine (US$21,900 at the time, per the source) imposed by the telecoms regulator rather than under data-protection law (2026-06)](https://www.connectingafrica.com/regulation/liberia-strips-starcell-of-operating-license) | Advanced |
@@ -437,7 +438,7 @@ record: 111f1aa56643
 
 ## Tanzania
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Certified Data Protection Officer programme | Did not exist | [The university trains and assesses and the commission certifies, targeting government, finance, telecommunications, healthcare, education and technology](https://mediawireexpress.co.tz/out-pdpc-launch-national-data-protection-programme/) | Advanced |
 | Registration and data-protection-officer compliance regime | The registration deadline had expired on 2025-04-30 and commission activity was confined to risk training and awareness | [A fresh registration deadline of 2026-04-08 set by ministerial directive, nationwide compliance inspections announced from 2026-04-09, and a seven-day ultimatum to part-registered bodies, with health and education named as still processing unregistered](https://www.mwananchi.co.tz/mw/habari/kitaifa/wananchi-waonywa-kutoa-taarifa-binafsi-kwa-taasisi-zisizosajiliwa-5494426) | Advanced |
@@ -462,7 +463,7 @@ record: 111f1aa56643
 
 ## Uganda
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Beera Ku Guard awareness campaign | Did not exist (2025-08) | [Campaign run; no outcome published against either target as at 2026-08-06](https://www.newvision.co.ug/category/news/kampala-data-collection-company-prosecuted-ov-NV_224311_032026) | Advanced |
 | Data Protection and Privacy Act, Cap 97 | One extraterritorial ruling issued, compliance untested (2025-07-18) | [Five corrective orders implemented by a foreign controller with the appeal window expired unused and no fine, against a registration base in which only 14,697 data controllers and processors are compliant out of an estimated 50,000 entities that collect or process personal data — more than 35,000 unregistered — with the office pursuing defaulters through the courts, the criminal investigations directorate and the prosecutions directorate](https://www.monitor.co.ug/uganda/news/national/over-35-000-entities-unregistered-as-regulator-cracks-down-on-data-privacy-violations-5563326) | Advanced |
@@ -512,6 +513,6 @@ record: 111f1aa56643
 
 ## West Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-24 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | ECOWAS Supplementary Act on the Protection of Personal Data | The Supplementary Act of February 2010, the regional benchmark national bills were still being drafted against | [A revised Act adopted; its text is not published with the communique, so what changed against 2010 is not establishable from the base](https://www.ecowas.int/wp-content/uploads/2026/07/Final-Communique_-ENG.pdf) | Advanced |

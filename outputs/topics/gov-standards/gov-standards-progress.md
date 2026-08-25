@@ -4,7 +4,7 @@ compiled: 2026-08-25
 period: 2025-08-01 to 2026-08-25
 subject: gov.standards
 places: DZA; AGO; BEN; BWA; BFA; CMR; CPV; CAF; TCD; COM; COG; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBY; MDG; MWI; MRT; MUS; MAR; MOZ; NER; NGA; RWA; SEN; SLE; ZAF; TGO; UGA; ZMB; ZWE; XAF; XSA; XWA
-record: beb87676f5bc
+record: 61e64a0aed17
 ---
 
 # Standards: progress report, 2025-08-01 to 2026-08-25
@@ -30,11 +30,11 @@ record: beb87676f5bc
 
 ## Benin
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | National vulnerability report | Did not exist | [878 vulnerabilities over 2021-2024, 23% critical; institutional compliance 6% to 87%](https://techafricanews.com/2025/07/03/benin-releases-first-national-cybersecurity-report-highlighting-rising-threats) | Advanced |
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | National Root Certification Authority and trust services | Established 2025-07-17, not yet operating | [National root authority and trust services operating](https://techafricanews.com/2025/07/17/benin-signs-landmark-agreements-to-expand-trust-services-and-accelerate-digital-transformation) | Advanced |
 | PASI and PDAIE interoperability referentials | Did not exist | [Under consultation](https://lanation.bj/actualites/transformation-numerique-de-letat-un-cadre-commun-pour-ses-systemes-dinformation-en-preparation) | Advanced |
@@ -42,7 +42,7 @@ record: beb87676f5bc
 | Cadre d'interopérabilité | In force | [In force; its governance clause reports to the President](https://api.xroad.bj/documents/10/download) | No change |
 | GovTech Maturity Index standing | ***Baseline not held*** | [2025 top performer, alongside Algeria, South Africa and Nigeria](https://www.wearetech.africa/en/fils-uk/news/public-management/benin-sets-2031-horizon-for-new-digital-transformation-roadmap) | ***Baseline not held*** |
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Generative-AI compliance regime for public agents | Did not exist | [Census of users, a binding charter and no-training contract clauses; concedes the sovereignty risk remains](https://asin.bj/doc/137/download) | Advanced |
 
@@ -54,7 +54,7 @@ record: beb87676f5bc
 
 ## Burkina Faso
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Information-systems management procedures manual | A regulatory duty on every public service for more than twenty years, with no manual in existence | [Validated as a harmonised reference framework for ministerial information-systems directorates, with formal approval by joint ministerial order not recorded as signed](https://www.sidwaya.info/communication-electronique-au-sein-des-ministeres-et-institutions-un-manuel-de-procedures-de-gestion-des-systemes-dinformation-valide/) | Advanced |
 | Public digital platforms decree | In force, requiring a prior favourable technical opinion before development or acquisition and a security non-objection before go-live | [The same regime, with three sequential consents and an obligation on the supplier or in-house team to assign the full source code and current documentation before a platform goes into service](https://lefaso.net/IMG/pdf/decret_portant_modalite_de_mise_en_exploitation_des_plateformes_numeriques_de_l_administration_publique.pdf) | No change |
@@ -73,7 +73,7 @@ record: beb87676f5bc
 
 ## Central African Republic
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Suspension of non-homologated satellite kits | Did not exist: the service had not launched commercially and the wiki held no rule on satellite access | [Roaming deactivated on kits acquired abroad that had not met homologation conditions, and from 12 August 2026 an ARCEP control operation across Bangui neighbourhoods - Damala, Benz-Vi, Miskine and the Don Bosco and Marabena roundabouts - identifying unregistered internet-access points; the ministry estimates about 3,000 Starlink users in the country against 200 registered with the regulator, and says the operation will extend progressively to provincial cities](https://www.radiondekeluka.org/104273-telecom-le-ministere-des-telecommunications-et-larcep-lancent-la-chasse-aux-fournisseurs-illegaux-dinternet) | Advanced |
 | Regulator spectrum-monitoring and quality-of-service systems | The spectrum system delivered June 2025 and the second package under contract | [Unchanged at the February 2026 revision of the procurement plan](https://documents1.worldbank.org/curated/en/099022326062517094/txt/P174620-44b07ebc-4ee2-437f-bb52-4677f8ba9fda.txt) | No change |
@@ -297,7 +297,7 @@ record: beb87676f5bc
 
 ## Uganda
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Government Enterprise Architecture and e-GIF | The 2021 architecture and framework at their five-year mark, renewal not begun (2025-08) | [Renewed documents delivered with the e-Governance Academy and World Bank support; rollout not reported](https://ega.ee/uganda-renewed-digital-government-frameworks/) | Advanced |
 | National Monitoring and Evaluation System reporting quality | ***Baseline not held*** | [Gaps and inconsistencies across agency submissions; the remedy is a working-group meeting and a request for consolidated annual performance reports; no error rate, vote count or remediation date](https://www.publicservice.go.ug/public-sector-transformation-programme-pstp-secretariat-intensifies-efforts-to-improve-the-quality-and-consistency-of-performance-reporting-across-ministries-departments-and-agencies/) | ***Baseline not held*** |
@@ -335,11 +335,11 @@ record: beb87676f5bc
 
 ## West Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-24 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | ECOWAS free-roaming regulation C/REG.21/12/17 | In force since December 2017, implemented between Liberia, The Gambia and Sierra Leone (2025-02), with full implementation by all mobile operators due by end-2025 | [A second three-state arrangement live, giving free incoming calls for up to 30 days and local rates on outgoing traffic; the end-2025 deadline passed with six of fifteen member states covered](https://techreviewafrica.com/news/5159/senegal-togo-and-benin-launch-free-roaming-initiative) | Advanced, against a missed end-2025 deadline |
 | AES harmonised specifications for travel and identity documents | Validated and referred to the heads of state; no approval, gazetted text or reference number | [Unchanged, while both credentials built on them are issued; no published text located](https://bamada.net/libre-circulation-dans-laes-validation-des-passeports-et-cartes-didentite-harmonises-par-les-ministres-de-la-securite) | No change |
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-24 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Alliance ouest-africaine des noms de domaine (AOAN) | Did not exist | [Announced as an initiative to coordinate country-code domain policy across the region; no charter, membership or founding act held](https://lefaso.net/spip.php?article148370) | Advanced |

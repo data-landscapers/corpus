@@ -4,7 +4,7 @@ compiled: 2026-08-25
 period: 2025-08-01 to 2026-08-25
 subject: digital.rural
 places: BDI; CAF; COG; EGY; SWZ; GIN; LSO; MWI; MLI; MAR; NAM; NER; NGA; RWA; SLE; TGO; ZMB; ZWE
-record: c6bb019080bb
+record: b7a6d559aa9e
 ---
 
 # Rural digital data capture: progress report, 2025-08-01 to 2026-08-25
@@ -23,7 +23,7 @@ record: c6bb019080bb
 
 ## Central African Republic
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | First free public Wi-Fi point | Did not exist | [One site, presented as the country's first free public internet access point, with technical support from Russian cooperation](https://ndjonisango.com/2026/04/24/rca-bocaranga-entre-dans-lere-numerique-avec-le-premier-wi-fi-public-gratuit-du-pays/) | Advanced |
 | Universal service fund school and community connectivity | The fund created by a 2018 law with a 2019 implementing decree and never operational; its supervising committee's activities launched July 2025 | [Effective implementation stated for 2026, financed by a 2% levy on operators' previous-year turnover, with scope covering broadband in schools, health centres, town halls, libraries and post offices](https://www.agenceecofin.com/actualites-numerique/2104-137723-centrafrique-la-mise-en-uvre-effective-du-fonds-du-service-universel-prevue-pour-2026) | Advanced |

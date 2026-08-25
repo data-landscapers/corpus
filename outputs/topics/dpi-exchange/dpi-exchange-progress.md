@@ -4,7 +4,7 @@ compiled: 2026-08-25
 period: 2025-08-01 to 2026-08-25
 subject: dpi.exchange
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF; XSA; XWA
-record: a65bddc6eca9
+record: a83d1a9a8bd6
 ---
 
 # Data Exchange: progress report, 2025-08-01 to 2026-08-25
@@ -32,11 +32,11 @@ record: a65bddc6eca9
 
 ## Benin
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | SECUROUTE road-enforcement data platform | Did not exist | [Being extended for full interoperability with the national exchange](https://techafricanews.com/2026/01/27/cybastion-advances-digital-government-solutions-supports-benins-securoute-infrastructure-upgrade/) | Advanced |
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Electronic international waybill | Did not exist | [Live at the Port of Cotonou](https://fraternite.bj/benin-la-lettre-de-voiture-internationale-electronique-au-depart-du-port-officiellement-lancee/) | Advanced |
 | Xroad-BJ national data exchange | Operating (2025-08) | [73 members, 176 information systems, 512 services; 138.17m requests cumulatively](https://statistiques.xroad.bj/) | Advanced, in traffic |
@@ -52,7 +52,7 @@ record: a65bddc6eca9
 
 ## Burkina Faso
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Electronic travel form | Did not exist; airport embarkation and disembarkation forms were completed on paper | [Forms filled online, with the border-police director stating that centralised data opens intelligence uses including movement analysis, anomaly detection and risk profiling](https://www.sidwaya.info/formalites-a-laeroport-la-fiche-de-police-se-remplit-desormais-en-ligne/) | Advanced |
 
@@ -171,7 +171,7 @@ record: a65bddc6eca9
 
 ## Gambia
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Gambia-Senegal customs data exchange roadmap | Did not exist | [Agreed to install the GAINDE customs system at Karang, Keur Ayib and Selety within three months, deploy SIGMAT transit tracking, exchange customs data by interface once GAINDE is live, replace transit agents with a Single Administrative Document and reactivate the EnCen intelligence platform (2026-07)](https://thepoint.gm/africa/gambia/headlines/gra-senegalese-customs-agree-to-eliminate-transit-impediments-through-ict) | Advanced |
 | National Enterprise Architecture | Did not exist | [Validated as the interoperability blueprint for citizen-centric services; not adopted, funded or implemented on the record (2026-05)](https://techreviewafrica.com/news/5564/the-gambia-validates-national-enterprise-architecture-framework-under-govstack-initiative) | Advanced |
@@ -371,7 +371,7 @@ record: a65bddc6eca9
 
 ## Tanzania
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Appeals module integration with the judiciary | Did not exist | [Announced, with no date attached](https://www.thecitizen.co.tz/tanzania/news/national/ppaa-pushes-online-appeals-to-boost-transparency-in-public-tenders-5542668) | Advanced |
 | Government enterprise service bus | A prime-ministerial joining deadline of 2025-07-30 just passed, with no compliance count held | [External validation as the basis of the top-tier classification; still no compliance count held](https://www.monitor.co.ug/uganda/news/national/tanzania-s-govtech-success) | Advanced |
@@ -389,14 +389,14 @@ record: a65bddc6eca9
 
 ## Tunisia
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Electronic rules-of-origin system | Did not exist | [An integrated electronic rules-of-origin system for the customs administration, financed by a bilateral partner, with its execution phase opened and technical preparation running to 18 September 2026](https://www.lapresse.tn/2026/08/18/douane-ce-nouveau-systeme-electronique-tuniso-coreen-va-changer-la-gestion-des-regles-dorigine/) | Advanced |
 | National interoperability platform (UXP) | Phase 1 live as a proof of concept across five ministries, with a central governing authority established (2025-08) | [Phase 2 contracted, extending the platform to the business register, the investment authority, the industry and export promotion agencies, the finance ministry and the central bank; completion 2027 (2026-05)](https://cyber.ee/resources/news/phase-2-tunisia-interoperability/) | Advanced |
 
 ## Uganda
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | UGHub | Used by more than 100 agencies and private entities including banks, insurers and fintechs (2024-06) | [Agency integration 37%, target 73% by FY2029/30; no operational or adoption reporting held since 2024-06](https://techafricanews.com/2026/06/22/nita-u-launches-five-year-digital-strategy-to-increase-e-government-use-in-uganda/) | No change |
 | UGPass | Authentication and e-signature platform; no user or transaction figures at any date | [Unchanged; nothing on file since the deck](https://id4africa.com/2024/ps4/PS4-S2-Uganda-NITA-NIRA-Final.pdf) | No change |
@@ -445,6 +445,6 @@ record: a65bddc6eca9
 
 ## West Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-24 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | SIGMAT (ECOWAS interconnected transit management system) | Operating on major corridors since 2019 | [A forward roadmap presented to the World Customs Organization and deployment agreed at three further border posts; the e-Hub and the regional guarantee system remain roadmap items](https://www.ecowas.int/ecowas-presents-sigmat-at-the-world-customs-organization-2026-technology-conference-in-abu-dhabi/) | Advanced, marginal |

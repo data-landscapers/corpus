@@ -4,7 +4,7 @@ compiled: 2026-08-25
 period: 2025-08-01 to 2026-08-25
 subject: finance.budget
 places: AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; COM; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GMB; GHA; KEN; LSO; MWI; MLI; MRT; MUS; MAR; MOZ; RWA; SEN; SDN; TZA; ZMB; ZWE; XAF; XWA
-record: a71fcd0c7845
+record: 5ebfb46d107d
 ---
 
 # Domestic budget appropriations and expenditure: progress report, 2025-08-01 to 2026-08-25
@@ -26,7 +26,7 @@ record: a71fcd0c7845
 
 ## Benin
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Quarterly budget execution reports (RAPEX) | Published quarterly (2024-12) | [Published quarterly, with a citizen version; latest instalment held covers to 31 March 2025](https://budgetbenin.bj/storage/2025/06/RAPEX-au-31-mars-2025.pdf) | No change |
 | Budget standing of the digital institutions | ***Baseline not held*** | [The data-protection authority carries its own line (488.3m to 738.3m FCFA); the digital and identity agencies carry none](https://assemblee-nationale.bj/index.php/2025/12/04/assemblee-nationale-la-loi-de-finances-gestion-2026-adoptee-a-lunanimite-des-deputes/) | ***Baseline not held*** |
@@ -45,7 +45,7 @@ record: a71fcd0c7845
 
 ## Burkina Faso
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Data-protection authority appropriation | FCFA 499m appropriated for 2025, of which FCFA 480.3m committed and liquidated at 30 June 2025 | [FCFA 490m for 2026, down from FCFA 857m in 2024, a 43% fall over two years while the authority's remit expands](https://budgetouvert.wordpress.com/wp-content/uploads/2026/01/loi-de-finances-pour-lexecution-du-budget-de-letat-exercice-2026.pdf) | Regressed |
 | Digital transformation and ecosystem programme appropriation | FCFA 5,846m appropriated for 2025, of which FCFA 4,087m in a single chapter named after a foreign software vendor | [FCFA 1,916,611,000 for 2026, with the vendor chapter gone and the ministry's whole domestic capital falling 72.7%](https://budgetouvert.wordpress.com/wp-content/uploads/2026/01/loi-de-finances-pour-lexecution-du-budget-de-letat-exercice-2026.pdf) | Regressed |
@@ -88,7 +88,7 @@ record: a71fcd0c7845
 
 ## Central African Republic
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Customs system deployment | Two lines together worth FCFA 245,000,000 in 2025 | [FCFA 420,000,000 for 2026 in a single deployment line](http://www.finances.gouv.cf/sites/default/files/2026-03/Cadre%20des%20D%C3%A9penses%20%C3%A0%20Moyen%20Terme%202026.pdf) | Advanced |
 | Digital development agency transfer | FCFA 200,000,000 proposed in 2025 and raised to FCFA 300,000,000 in the mid-year revision, from FCFA 50,000,000 in 2024 | [FCFA 300,000,000 for urban optical loops plus FCFA 118,000,000 to clear six months of unpaid 2024 salaries, FCFA 418,000,000 in total](http://www.finances.gouv.cf/sites/default/files/2026-03/Cadre%20des%20D%C3%A9penses%20%C3%A0%20Moyen%20Terme%202026.pdf) | Advanced |
@@ -175,7 +175,7 @@ record: a71fcd0c7845
 
 ## Gambia
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Tax-to-GDP ratio | 9% (2022) | [13% (2025)](https://www.gra.gm/news/74649367-8629-11f1-b086-029254d29bb1) | Advanced |
 | Total tax collected | D11bn (2022) | [D25bn (2025), against a D27.5bn target for 2026](https://thepoint.gm/africa/gambia/headlines/digital-reform-doubles-gambias-tax-revenue-to-d25b-finance-minister) | Advanced |
@@ -264,7 +264,7 @@ record: a71fcd0c7845
 
 ## Tanzania
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Domestic state appropriation for digital transformation | None established | [Vote 68 proposed at TZS 222,589,451,000 for 2026/27 against TZS 291,533,139,000 approved for 2025/26, split TZS 13.15bn recurrent and TZS 209.44bn development; domestic development finance is unchanged to the shilling at TZS 98.48bn while external development finance falls from TZS 178.57bn to TZS 110.96bn, taking the external share of development spending from 64% to 53%; TZS 147,768,795,247 of the 2025/26 vote had been released by March 2026, 50.6%](https://www.mawasiliano.go.tz/uploads/documents/sw-1777555794-HOTUBA%20YA%20BAJETI%20YA%20WIZARA%20YA%20MAWASILIANO%202026.pdf) | No change, domestic development finance unchanged |
 
@@ -290,6 +290,6 @@ record: a71fcd0c7845
 
 ## West Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-24 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | ECOWAS Community Budget provision for digital programmes | No disaggregated digital or ICT line, and nil actual on the Youth Entrepreneurship in ICT line since 2023 | [The 2026-2028 MTEF carries no disaggregated digital or ICT line; Youth Entrepreneurship in ICT is nil from 2024 through the 2028 estimates, against UA 543,953 approved and UA 407,965 actual in 2022](https://www.ecowas.int/wp-content/uploads/2026/06/ECOWAS-COMMUNITY-BUDGET-2026-2028.pdf) | No change |

@@ -3,13 +3,13 @@ title: Training and skills — progress report, 2025-08-01 to 2026-08-25
 compiled: 2026-08-25
 period: 2025-08-01 to 2026-08-25
 subject: capacity.training
-places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XWA
-record: 6f536df70ca9
+places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XWA
+record: 4c15935fe8cc
 ---
 
 # Training and skills: progress report, 2025-08-01 to 2026-08-25
 
-*51 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
+*52 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -32,11 +32,11 @@ record: 6f536df70ca9
 
 ## Benin
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | National AI Olympiad | Did not exist | [First edition held](https://www.wearetech.africa/en/fils-uk/news/tech/six-francophone-west-african-countries-unite-on-ai-governance-framework) | Advanced |
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Cotonou AI academy | Did not exist | [A city-government track in artificial intelligence, robotics and digital fabrication for pupils of the city's public secondary schools, opened as a ten-day campus for a first cohort of 60 pupils and the first stage of a four-year programme](https://lanation.bj/numerique/cotonou-ai-academy-former-60-collegiens-en-ia-pour-repondre-aux-defis-urbains) | Advanced |
 | National tele-teaching platform | Did not exist | [Authorised, not built](https://www.wearetech.africa/en/fils-uk/news/tech/benin-expands-higher-education-access-through-e-learning-strategy) | Advanced |
@@ -52,7 +52,7 @@ record: 6f536df70ca9
 
 ## Burkina Faso
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Digital skilling output for 2025 | ***Baseline not held*** | [169 young women trained in digital trades and 214 information-technology staff recruited into ministry directorates](https://www.sidwaya.info/ministere-en-charge-de-la-transition-digitale-7805-du-taux-dexecution-physique-global-des-activites-realisees/) | ***Baseline not held*** |
 | Lawmaker AI training | ***Baseline not held*** | [About thirty lawmakers trained on artificial-intelligence fundamentals, applications and policy, to prepare review of future legislation](https://techafricanews.com/2026/07/16/burkina-faso-trains-lawmakers-on-artificial-intelligence-to-support-digital-governance/) | ***Baseline not held*** |
@@ -84,6 +84,12 @@ record: 6f536df70ca9
 | BOOST.CV | Launched on 2025-07-28 to back 150 young digital entrepreneurs with training, mentoring and project incubation, three days before the window opened | [Unchanged; the base carries no participant, completion, funding or outcome figure after launch](https://www.wearetech.africa/en/fils-uk/news/public-management/cape-verde-ramps-up-digital-start-up-ecosystem-to-boost-economy) | No change |
 | National strategy of skills and digital readiness | Under preparation inside the World Bank-financed Digital Cabo Verde project, informed by a digital-readiness study covering more than a thousand people across several islands; not adopted | [Still not adopted. The base holds no adoption instrument, no publication and no target date a year after the workshop](https://techafricanews.com/2025/08/08/cape-verde-eyes-gdp-boost-through-stronger-digital-skills/) | No change |
 | NOSi Akademia | The base carries no position on NOSi Akademia at 2025-08-01 | [Reported by the government at about 3,000 applications and more than 600 internships since 2016; the first Alumni Talk was held inside Semana do Digital, opened by the Finance and Digital Economy Minister](https://www.governo.cv/governo-dispoe-de-cerca-de-10-milhoes-de-contos-para-investir-no-digital-nos-proximos-anos/) | ***Baseline not held*** |
+
+## Central African Republic
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| Digital skills or training programme | No named digital-skills or training programme on file | [A government digital training centre and start-up incubator at the University of Bangui, financed jointly by the European Union and the African Development Bank as a component of the national fibre backbone project and opened alongside the launch of broadband service](https://www.wearetech.africa/fr/fils/actualites/gestion-publique/centrafrique-le-gouvernement-a-lance-un-centre-de-formation-digital-et-incubateur-start-up-a-luniversite-de-bangui) | Advanced |
 
 ## Chad
 
@@ -171,7 +177,7 @@ record: 6f536df70ca9
 
 ## Gambia
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | National Labour Digital Skill programme | Did not exist | [Methodology validated against a target of 280 certified, funded at US$3.35m through the regional digital integration programme; no completion figure published (2025-12)](https://thepoint.gm/africa/gambia/national-news/stakeholders-validate-methodology-labour-digital-skill-dev-report) | Advanced |
 
@@ -222,7 +228,7 @@ record: 6f536df70ca9
 
 ## Liberia
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | University of Liberia master's programme in artificial intelligence | Did not exist | [Announced as the country's first such programme; no start date, intake or funding amount disclosed (2026-08)](https://www.undp.org/liberia/blog/liberias-digital-future-will-be-defined-investments-we-make-people-today) | Advanced |
 
@@ -391,7 +397,7 @@ record: 6f536df70ca9
 
 ## Tanzania
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | ICT workforce training with European partners | Did not exist | [110 participants from public, private and non-governmental institutions, across AI, cybersecurity, personal data protection and emerging technologies](https://www.mwananchi.co.tz/mw/habari/biashara/maeneo-manne-ya-kujizatiti-wataalamu-wa-tehama-tanzania-5541292) | Advanced |
 | Overseas AI and data-science scholarship placements | Did not exist in the base | [Sixteen graduates studying in one country and 34 expected in another](https://www.mwananchi.co.tz/mw/habari/kitaifa/serikali-kuendelea-kupeleka-wanafunzi-nje-kusomea-ai-5392884) | Advanced |
@@ -407,13 +413,13 @@ record: 6f536df70ca9
 
 ## Tunisia
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Digital skills in the development plan | Did not exist as a statutory commitment | [Artificial intelligence, data analysis, programming and cybersecurity named as the skills base of a digital economy made a pillar of human-capital development; no programme, budget, target or delivery agency is stated (2026-06)](https://www.arp.tn/loi/project/4315) | Advanced |
 
 ## Uganda
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Judicial training on digital crime and evidence | Did not exist | [A three-day course for judges and magistrates on cybercrime, digital evidence and deepfakes, run with the communications regulator](https://nilepost.co.ug/news/365182/judiciary-steps-up-fight-against-digital-crime-as-judges-magistrates-undergo-ict-training) | Advanced |
 | Young Africa Works in Uganda | US$200m commitment; a target of 4.3m young Ugandans in dignified work by 2030 | [Unchanged; no progress, disbursement or beneficiary figure published in the window](https://mastercardfdn.org/en/news/mastercard-foundation-launches-10-year-plan-to-enable-3-million-young-people-in-uganda-to-access-dignified-work/) | No change |
@@ -440,7 +446,7 @@ record: 6f536df70ca9
 
 ## West Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-24 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | BCEAO/COFEB certifying programme in digital finance | Baseline not held | [In its fourth edition, run by the monetary union's central bank training centre with Luxembourg's House of Training-ATTF: four modules over about nine months and 84 hours, aimed at senior staff of credit institutions, e-money issuers and microfinance institutions, one candidate per institution, participation fees of FCFA 1.2m, an 80% pass mark per module and a final project defended before a jury at Dakar](https://cofeb.bceao.int/sites/default/files/2026-08/Brochure_Parcours_Finance_Digitale-Edition_2026_V180826_web.pdf) | Advanced |
 | Cybersecurity professionals certified as SIM3 auditors | Did not exist | [38 professionals from member states and partner institutions trained at Lomé, 4 to 6 August 2026, to assess the maturity of national computer security incident response teams (2026-08)](https://www.ecowas.int/ecowas-advances-regional-cybersecurity-cooperation-through-sim3-auditor-capacity-building-programme/) | Advanced |

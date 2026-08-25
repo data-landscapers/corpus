@@ -3,13 +3,13 @@ title: Research institutions — progress report, 2025-08-01 to 2026-08-25
 compiled: 2026-08-25
 period: 2025-08-01 to 2026-08-25
 subject: capacity.research
-places: DZA; AGO; BWA; BDI; CMR; COG; CIV; GNQ; ETH; GAB; GHA; LSO; LBY; MDG; MLI; MRT; MAR; MOZ; NGA; RWA; SEN; SOM; ZAF; TZA; TGO; UGA; ZMB; ZWE; XSA
-record: 5201af0a285b
+places: DZA; AGO; BEN; BWA; BDI; CMR; CAF; COG; CIV; GNQ; ETH; GAB; GHA; LSO; LBY; MDG; MLI; MRT; MAR; MOZ; NGA; RWA; SEN; SOM; ZAF; TZA; TGO; UGA; ZMB; ZWE; XSA
+record: 5c32c8ae80b3
 ---
 
 # Research institutions: progress report, 2025-08-01 to 2026-08-25
 
-*29 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
+*31 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -28,6 +28,12 @@ record: 5201af0a285b
 |---|---|---|---|
 | Statistical capacity project | A US$60m loan, active from 2022 to 2027, supporting statistics-office modernisation, household surveys and dissemination | [Unchanged; no disbursement, restructuring or results figure on file](https://projects.worldbank.org/en/projects-operations/project-detail/P178043) | No change |
 | Science and technology park | ***Baseline not held*** | [Inaugurated under a US$100m development-bank science and technology project, intended to link academia, research, companies and young entrepreneurs](https://itweb.africa/article/angola-launches-luanda-technology-park/8OKdWqDX2nRqbznQ) | ***Baseline not held*** |
+
+## Benin
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| National science and technology university | ***Baseline not held*** | [UNSTIM at Abomey trains in science, technology, engineering and mathematics across more than nine constituent entities](https://www.unstim.bj/d%C3%A9couverte-et-pr%C3%A9sentation) | ***Baseline not held*** |
 
 ## Botswana
 
@@ -48,6 +54,12 @@ record: 5201af0a285b
 |---|---|---|---|
 | Academic chair in digital governance | Did not exist | [A chair to structure research and training, fund doctoral study and advanced training for regulator staff, governed by a scientific steering committee](https://techafricanews.com/2026/02/11/cameroon-strengthens-digital-transformation-with-university-and-art-partnership/) | Advanced |
 | Sovereign scientific database and digitisation centre | ***Baseline not held*** | [A sovereign scientific database on a dedicated national platform and a centre for the digitisation of scientific and technical information](https://www.cameroon-tribune.cm/articles/11572/en/artificial-intelligence-govt-engages-on-harnessing) | ***Baseline not held*** |
+
+## Central African Republic
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| Research capacity | No university, statistics-institute or donor research document on file | [The University of Bangui's Institut supérieur de technologie supplies most of the country's professional engineering graduates in civil, industrial, computing, mining and geological engineering, and runs a master's in engineering sciences](https://www.univ-bangui.org/technologie/) | Advanced |
 
 ## Congo
 
@@ -165,7 +177,7 @@ record: 5201af0a285b
 
 ## Tanzania
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | University ICT college building | ***Baseline not held*** | [Under construction; no completion date, cost or capacity stated](https://www.mwananchi.co.tz/mw/habari/kitaifa/serikali-kuendelea-kupeleka-wanafunzi-nje-kusomea-ai-5392884) | ***Baseline not held*** |
 
@@ -177,7 +189,7 @@ record: 5201af0a285b
 
 ## Uganda
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | KOICA distance-education project, Makerere University | Commitment recorded; US$12.2m, 2025-2030 | [Unchanged; no progress or delivery figure published](https://softpower.ug/muyingo-launches-12-2m-koica-project-to-revolutionise-digital-learning-at-makerere/) | No change |
 

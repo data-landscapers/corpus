@@ -4,7 +4,7 @@ compiled: 2026-08-25
 period: 2025-08-01 to 2026-08-25
 subject: include.divides
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CAF; COM; COG; CIV; COD; EGY; ERI; SWZ; ETH; GHA; GIN; GNB; KEN; LBR; MWI; MLI; MUS; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; TZA; TGO; UGA; ZWE; XAF; XSA
-record: f032ea16294d
+record: aaa6206802a8
 ---
 
 # Digital divides: progress report, 2025-08-01 to 2026-08-25
@@ -31,7 +31,7 @@ record: f032ea16294d
 
 ## Benin
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Digital usage growth | ***Baseline not held*** | [Rising usage in the regulator's 2025 report, with no disaggregation by gender or rurality](https://www.lanation.bj/numerique/communications-electroniques-lessor-des-usages-numeriques-transforme-le-marche-beninois) | ***Baseline not held*** |
 
@@ -44,7 +44,7 @@ record: f032ea16294d
 
 ## Burkina Faso
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Sahel connectivity project | Running, serving more than 3,650 users across two countries including host communities and refugees | [The project report published, with US$1.2m contributed by one European state, a vendor supplying access points and another agency training local teams](https://itweb.africa/article/ericsson-luxembourg-sweden-support-boosts-sahel-digital-connectivity/Pero3MZ3ozJqQb6m) | Closed |
 | Digital programme for girls and women | ***Baseline not held*** | [A EUR 2.25m grant from 2021 to 2025, recorded closed, with no evaluation, outturn or beneficiary count in the base](https://open.enabel.be/en/evaluation/23/download/96) | ***Baseline not held*** |
@@ -66,7 +66,7 @@ record: f032ea16294d
 
 ## Central African Republic
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Satellite retail service affordability | Did not exist: no licence and no service | [Commercial service since 2026-03-16 at FCFA 33,000 a month plus tax, with a standard kit at FCFA 240,000; the monthly price is about 136% of monthly income per head against an international affordability threshold of 2%](https://www.agenceecofin.com/actualites-numerique/1703-136713-starlink-en-centrafrique-entre-couverture-nationale-et-defis-d-accessibilite) | Advanced |
 
@@ -168,7 +168,7 @@ record: f032ea16294d
 
 ## Liberia
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Internet penetration | 1.84m internet users, 32.4% of a 5.67m population, with about 3.8m offline (2025-01) | [No later national figure published (2026-08)](https://datareportal.com/reports/digital-2025-liberia) | No change |
 
@@ -250,7 +250,7 @@ record: f032ea16294d
 
 ## Tanzania
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Digital transformation centre for rights and gender equity | EUR 3,000,000 committed, active | [EUR 3,000,000 committed, active](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=DE-1-202222214) | No change |
 
@@ -262,7 +262,7 @@ record: f032ea16294d
 
 ## Uganda
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | American-funded digital inclusion and connectivity programming | In delivery | [Planned and running work slowed or stopped after the 2025 wind-down, with no replacement funder named](https://www.developingtelecoms.com/telecom-business/humanitarian-communications/20670-usaids-exit-leaves-a-gap-in-the-drive-for-meaningful-connectivity.html) | Regressed |
 | Digital for Girls and Women Uganda | Active; EUR 2.25m, 2021-2025 | [The record still reads active; the stated period has elapsed with no closure, extension or results record held](https://open.enabel.be/en/UGA/2662/p/digital-for-girls-and-women-uga.html) | No change |

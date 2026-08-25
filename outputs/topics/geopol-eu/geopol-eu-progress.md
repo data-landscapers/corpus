@@ -4,7 +4,7 @@ compiled: 2026-08-25
 period: 2025-08-01 to 2026-08-25
 subject: geopol.eu
 places: DZA; BWA; BFA; CPV; CAF; COM; COG; EGY; GHA; GIN; KEN; MLI; MAR; NAM; NER; NGA; UGA; XAF
-record: 01317e00f3fa
+record: 01f207a7c9d0
 ---
 
 # EU activities: progress report, 2025-08-01 to 2026-08-25
@@ -29,7 +29,7 @@ record: 01317e00f3fa
 
 ## Burkina Faso
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | European digital cooperation instrument | In force, with digitalisation a cross-cutting theme carrying no allocation of its own | [Ended on 31 December 2024, the Commission recording that conditions for a medium-to-long-term cooperation framework are no longer met, and replaced by a EUR 238m Actions in countries in complex settings envelope held inside the regional programme and shared with three other states](https://international-partnerships.ec.europa.eu/document/download/10d4ba3f-ee66-426e-8c60-bcd89b09fd11_en?filename=ad-mip-2024-c2024-7502-sub-saharan-africa-annex_en.pdf) | Closed |
 
@@ -41,7 +41,7 @@ record: 01317e00f3fa
 
 ## Central African Republic
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Digital collection of administrative fees | Did not exist | [Externally financed at EUR 17.5m over four years, of which EUR 8.5m to one justice component; it targets the small revenues of about twenty ministries and covers issuance of the nationality certificate](https://ndjonisango.com/2026/04/18/rca-une-formation-sur-la-digitalisation-du-systeme-de-paiement-pata-polele-dans-trois-ministeres-cles/) | Advanced |
 | Civil-status modernisation programme | ***Baseline not held*** | [Externally funded and implemented with the territorial administration ministry, extending from a capital-and-corridor pilot to new communes, with a target of 400,000 birth certificates by 2028 and 2025 activities put at 90% complete](https://oubanguimedias.com/2026/02/23/centrafrique-le-comite-technique-dappui-et-de-suivi-du-projet-dappui-a-la-modernisation-de-letat-civil-valide-les-activites-du-projet-modero/) | ***Baseline not held*** |
@@ -121,7 +121,7 @@ record: 01317e00f3fa
 
 ## Uganda
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | EU Delegation funding for a sovereign DPI loan package | Did not exist (2025-08) | [Work with the Ministry of ICT and National Guidance; no amount, instrument or date stated](https://www.service.bund.de/IMPORTE/Ausschreibungen/vmp-giz/2026/08/51947.html) | Advanced |
 | EU-EAC DPI Acceleration Mechanism technical assistance | The DEEP programme running since June 2025, no technical-assistance contract let (2025-08) | [Estimated EUR 938,170 over 30 months from 2026-09-15, performed from the EAC office in Arusha; designs tested against the Universal DPI Safeguards Framework and local data-protection and localisation law](https://www.service.bund.de/IMPORTE/Ausschreibungen/vmp-giz/2026/08/51947.html) | Advanced |

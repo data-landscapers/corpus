@@ -4,7 +4,7 @@ compiled: 2026-08-25
 period: 2025-08-01 to 2026-08-25
 subject: gov.policy
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF; XSA; XWA
-record: 23efa6f3403d
+record: 16eaf61461cc
 ---
 
 # Strategies, plans and policies: progress report, 2025-08-01 to 2026-08-25
@@ -32,17 +32,17 @@ record: 23efa6f3403d
 
 ## Benin
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Cotonou cyber-hub programme | Programme running (2025-06) | [Incubator, statewide EBIOS framework, crisis exercise and 300 unit heads trained](https://www.lanation.bj/actualites/cyber-africa-forum-2026-cotonou-au-coeur-des-enjeux-de-cybersecurite-en-afrique) | Advanced |
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Mandatory digitisation of paper records | Did not exist | [Every state structure required to move archives onto digital tools; no deadline, budget or compliance mechanism](https://www.gouv.bj/article/3605/budget-fonction-publique-modernisation-administrative-levier-economies-budgetaires-transition-ecologique/) | Advanced |
 | National DPI roadmap | Did not exist | [In draft on a once-only principle; the agency frames the hard part as governance](https://www.biometricupdate.com/202607/benins-dpi-roadmap-aims-to-end-siloed-digital-government) | Advanced |
 | Single-agency identity governance | In place (2017) | [Identity, population, civil and electoral registers under one agency](https://www.biometricupdate.com/202605/building-digital-id-systems-that-last-african-countries-share-experiences-as-id4africa-2026-opens) | No change |
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Machinery of government for digital | Ministry as previously constituted | [Renamed Transformation Digitale et Innovation with an AI-strategy mandate; budget codes moved](https://beninwebtv.bj/benin-mahuna-akplogan-prend-les-commandes-du-nouveau-ministere-de-lia/) | Advanced |
 | Presidential programme 2026-2033 digital commitments | Did not exist | [Commits to a data-localisation law, supercomputers and a data-monetising platform; no budget or sequencing](https://pub-f2abea1e4da540aa9a3e39fedb257f21.r2.dev/PROGRAMME-WADAGNI-TALATA-2026.pdf) | Advanced |
@@ -59,7 +59,7 @@ record: 23efa6f3403d
 
 ## Burkina Faso
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Digital contribution to the RELANCE 2026-2030 plan | Baseline not held | [Under formulation: the digital transition ministry working out what it contributes to the national plan](https://lefaso.net/spip.php?article148658) | ***Baseline not held*** |
 
@@ -93,7 +93,7 @@ record: 23efa6f3403d
 
 ## Central African Republic
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | National development plan 2024-2028 | In force as the frame for the digital agenda | [Unchanged; cited as the frame for a ministry platform launch in February 2026](https://mepci-rca.org/2026/02/11/la-digitalisation-des-services-publics-et-la-gouvernance-numerique-du-pnd-2024-2028/) | No change |
 | Public finances digitalisation plan 2025-2027 | Presented naming an electronic tax platform, a treasury system, procurement and payroll systems, a Tier IV data centre and a data governance policy, none of them priced | [The costed operational plan is still unpublished; the World Bank's public finance review of 2 July 2026 estimates that digitising the tax administration could raise up to two points of GDP in additional revenue in the short term, and recommends electronic public procurement and a digital cadastre over the longer term, against domestic revenue of about FCFA 187bn or 10.1% of GDP in a 2025 budget of about FCFA 385bn](https://www.radiondekeluka.org/103981-finances-publiques-en-centrafrique-ce-que-revele-la-revue-de-la-banque-mondiale) | No change |
@@ -204,7 +204,7 @@ record: 23efa6f3403d
 
 ## Gambia
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | National Cybersecurity Strategy and Action Plan 2022-2026 | In force, on a period running to 2026 (2025-08) | [Unchanged; no successor, mid-term review or implementation report is held, and the plan runs out at the end of 2026 (2026-08)](https://mocde.gov.gm/wp-content/uploads/2024/02/National-Cybersecurity-Strategy-2022-2026-Final-.pdf) | No change |
 | National Data Policy 2025 | Draft, not adopted (2025-08) | [Still a draft; no adoption, gazetting or implementation instrument is held (2026-08)](https://mocde.gov.gm/wp-content/uploads/2025/06/National-Data-Policy-2025-The-Gambia-draft.docx) | No change |
@@ -266,7 +266,7 @@ record: 23efa6f3403d
 
 ## Liberia
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | African Development Bank Country Strategy Paper 2026-2031 | Bank strategy carrying four sectors, ICT among them (2025-08) | [Sectors cut from four to three - transport, energy and skills - with an indicative 2026-2028 programme of UA 129m (US$172.86m, February 2026 conversion), 36.3% unfunded, and no digital lending line (2026-07)](https://www.liberianobserver.com/business/afdb-endorses-gov-ts-reform-agenda-with-new-country-strategy-paper/article_713ea72a-6ef7-4ab6-bf7c-993df27147c9.html) | Regressed, for digital |
 | Digital Liberia national digital strategy 2025-2029 | National ICT Policy and Strategy 2019-2024, already past its stated period (2025-08) | [Eight priority areas across four pillars, including universal connectivity, digital addressing, cybersecurity and data sovereignty; no costing or delivery schedule published (2026-02)](https://techafricanews.com/2026/02/03/liberia-unveils-5-year-digital-liberia-strategy/) | Advanced |
@@ -455,7 +455,7 @@ record: 23efa6f3403d
 
 ## Tanzania
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Election-period internet shutdowns | No restriction in force at 2025-08-01 | [Eight shutdowns recorded across 2025, the highest count of any African state in the monitor's data, and Tanzania listed among three African states that issued satellite shutdown orders](https://www.accessnow.org/internet-shutdowns-2025/) | Closed, no restoration date on file |
 | Health-data localisation and approval conditions for AI | Did not exist | [Three stated requirements: health data stored inside Tanzania, healthcare AI systems approved by the relevant authorities, and local capacity to build them developed](https://www.thecitizen.co.tz/tanzania/news/national/tanzania-steps-up-ai-drive-in-healthcare-amid-data-privacy-push-5542208) | Advanced |
@@ -472,7 +472,7 @@ record: 23efa6f3403d
 
 ## Tunisia
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Digital content of the development plan annex | Not held; the plan's digital content was known only from official statements about it (2025-08) | [Held in full: the sectoral volume mentions digital or digitalisation 414 times, artificial intelligence 119, data 72 and cybersecurity 9, makes the digital economy a pillar of human-capital development, and commits to integration into the global digital landscape while preserving digital sovereignty (2026-06)](https://www.arp.tn/loi/project/4315) | Advanced |
 | Digital Tunisia 2020-2025 | In force in its final year (2025-08) | [Lapsed; no extension, repeal or outcomes report is held, so what it delivered against its own objectives is unestablished (2026-08)](https://pm.gov.tn/fr/decision-gouvernementale/zenzri-lors-dun-conseil-ministeriel-2026-annee-du-demarrage-effectif-de-la) | Closed |
@@ -481,7 +481,7 @@ record: 23efa6f3403d
 
 ## Uganda
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | NITA-U Strategic Plan FY2025/26 to FY2029/30 | Did not exist (2025-08) | [Six objectives with targets: e-government use 9.2% to 40%, UGHub coverage of agencies 37% to 73%, national data-centre utilisation 70% to 83%, IT-law compliance 67% to 81% by FY2029/30](https://techafricanews.com/2026/06/22/nita-u-launches-five-year-digital-strategy-to-increase-e-government-use-in-uganda/) | Advanced |
 | UCC telecom taxation reform proposals | Did not exist (2025-08) | [Excise duty on data and airtime 12% to 5%, VAT on mobile data 18% to 14%, duty relief on entry-level 4G and 5G handsets; the ICT ministry states a device-tax-cut paper is ready for cabinet before the end of the quarter, and no measure is adopted](https://www.newvision.co.ug/category/business/ict-ministry-communication-stakeholders-call-NV_238288_082026) | Advanced |
@@ -528,7 +528,7 @@ record: 23efa6f3403d
 
 ## West Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-24 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | ECOWAS Regional Digital Single Market roadmap | Did not exist | [Adopted as a commitment to harmonise policy across interoperable fintech, unified digital ID and rural broadband; no work programme, timetable or budget held](https://prnigeria.com/2026/01/24/ecowas-adopts-digital-roadmap/) | Advanced |
 | WATRA technical reports on 5G, submarine-cable resilience, cybersecurity, consumer protection and NGSO | None published | [Seven documents published: the cybersecurity working group's final report, the infrastructure working group's 2023-2025 report covering 5G, NGSO, cable resilience and WRC-27, the 5G deployment and policy framework, the submarine-cable resilience recommendations, the consumer access and experience regulatory synthesis and two of its seven constituent guidelines](https://watra.org/wp-content/uploads/2026/05/EN_WG_CS_Rapport_Final_GT_Cybersecurity_WATRA-vf-rev1.2.pdf) | Advanced |

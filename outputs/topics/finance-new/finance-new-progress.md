@@ -4,7 +4,7 @@ compiled: 2026-08-25
 period: 2025-08-01 to 2026-08-25
 subject: finance.new
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LBR; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF; XSA; XWA
-record: aa3ecd9a2247
+record: d9f703bcc38e
 ---
 
 # New investments: progress report, 2025-08-01 to 2026-08-25
@@ -34,14 +34,15 @@ record: aa3ecd9a2247
 
 ## Benin
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | WARDIP second-phase regional digital financing | Did not exist | [US$137m for Benin, Liberia and Sierra Leone across three pillars](https://www.biometricupdate.com/202603/new-137m-initiative-to-enable-digital-service-access) | Advanced |
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | MEF digitalisation support project (BOAD) | Did not exist | [XOF 19.5bn (US$32.5m) BOAD loan modernising the finance ministry's data centre, La Poste du Benin's information system and the DGFD's SGIFD/SIRH systems, in implementation (2026-05)](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=XM-DAC-46021-2026008) | Advanced |
 | Canadian financing for the digital transformation of women-led businesses | Baseline not held | [CAD5m for the digital transformation of women-led businesses, one of seven projects in a package of about CAD17m for Benin and West Africa; no implementing partner, start date or duration is named](https://www.canada.ca/en/global-affairs/news/2026/08/minister-anand-concludes-trip-to-benin-and-cote-divoire-to-strengthen-canadas-partnerships-in-west-africa.html) | ***Baseline not held*** |
+| Economic governance for service delivery programme | ***Baseline not held*** | [A World Bank programme-for-results running since financial year 2023, whose results areas reach the tax directorate, public payments and public financial management systems](https://documents1.worldbank.org/curated/en/099092325063510323/pdf/P176763-2035557c-fe0f-4162-a072-04b417dfb137.pdf) | ***Baseline not held*** |
 
 ## Botswana
 
@@ -52,7 +53,7 @@ record: aa3ecd9a2247
 
 ## Burkina Faso
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Digital Transformation Fund country workshop | Did not exist | [A joint development-bank fund of 71 billion FCFA for digital modernisation of public administrations across the eight monetary-union states, presented to Burkinabe public administrations at a two-day Ouagadougou workshop run with the digital transition ministry, and since documented on the fund's own site with a six-step instruction and validation process, a named national focal point, and eligibility terms of a maximum 24-month project, a budget ceiling of 2,500 million FCFA, an interest rate the fund states at 2.2% and obligatory partial state co-financing](https://ftd.boad.org/) | Advanced |
 | Financial inclusion and enterprise finance project | Running, with a digital-payments component of US$28.3m | [Closed, with 81% of indicators met or exceeded, 280,000 people given digital financial education against a 275,000 target and 17,858 transaction-account users against 9,300](https://www.sidwaya.info/transformation-numerique-inclusion-financiere-et-financement-des-pme-le-bilan-dun-projet-structurant-au-burkina-faso/) | Closed |
@@ -86,7 +87,7 @@ record: aa3ecd9a2247
 
 ## Central African Republic
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Regional digital integration programme | ***Baseline not held*** | [Talks reported on joining the six-country regional programme covering broadband, cross-border interconnection, secure public platforms and digital skills; no figure, signature or follow-up since](https://africabusinessinsight.com/central-african-republic-explores-world/) | ***Baseline not held*** |
 
@@ -193,7 +194,7 @@ record: aa3ecd9a2247
 | System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Digitally enabled pluralistic extension services programme (FAO) | Did not exist | [US$300,000 FAO grant (2026-2028) converting a catalytic start-up initiative into a long-term programme delivering agricultural extension services through digital channels](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=XM-DAC-41301-763888) | Advanced |
-| World Bank Digital ID for Inclusion Project | Running (2023-12) | [US$350m backing registration of refugees and displaced people](https://projects.worldbank.org/en/projects-operations/project-detail/P179040) | No change |
+| World Bank Digital ID for Inclusion Project | US$350m approved, with no disbursement or performance rating on file | [Rated Satisfactory on both development objective and implementation progress, 23% disbursed with US$46.4m disbursed since the start of the 2026 financial year, and about 190,000 refugee registrations against 170,000 identity issuances](https://documents1.worldbank.org/curated/en/099051826153515642/pdf/P179040-74a164c1-0bb2-49b6-8b5f-2da36395da02.pdf) | Advanced |
 
 ## Gabon
 
@@ -205,7 +206,7 @@ record: aa3ecd9a2247
 
 ## Gambia
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | AfDB digital government project | Pipeline (2025-08) | [Still pipeline; no approval, signature or first disbursement is held (2026-08)](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=46002-P-GM-GB0-002) | No change |
 | Gates Foundation payment system pilot | Closed (2025-08) | [Closed; no evaluation or successor operation is held (2026-08)](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=DAC-1601-INV-064577) | No change |
@@ -249,7 +250,7 @@ record: aa3ecd9a2247
 
 ## Liberia
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | America First Global Health Strategy health data systems funding | Did not exist | [US$26,133,684 planned over 2026-2030 for health data systems including electronic medical records, a laboratory information system, disease surveillance and DHIS2, non-binding and subject to the availability of funds; the signed text commits Liberia to an open-source EMR rolled out to 100% of public health facilities by 2030 and gives the United States audit access to up to 5% of health facilities, with a data-sharing arrangement still to be negotiated and expected to run ten years, but no specimen-sharing or personal-data clause; the memorandum's text was published in March 2026 and then withdrawn, and is the subject of a federal freedom-of-information suit filed 2 April 2026 (2026-04)](https://healthpolicy-watch.news/wp-content/uploads/2025/12/US-Liberia-MOU-2025.pdf) | Advanced |
 | WARDIP2 financing for Liberia | Did not exist | [US$50m committed for broadband, cybersecurity, digital governance and digital payments within a US$137m three-country operation (2026-06)](https://techafricanews.com/2026/06/08/liberia-secures-125-million-world-bank-support-for-energy-digital-and-infrastructure-projects/) | Advanced |
@@ -432,7 +433,7 @@ record: aa3ecd9a2247
 
 ## Tanzania
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Payment-rails credit facility | Did not exist | [US$25m secured and extendable to US$50m, for international remittance and stablecoin corridors](https://www.eabusinessworld.com/2026/05/29/nala-50m-mufg-payment-infrastructure/) | Advanced |
 | Digital Tanzania Project | US$150m committed for 2021 to 2026, active | [US$150m committed, active](https://projects.worldbank.org/en/projects-operations/project-detail/P160766) | No change |
@@ -452,7 +453,7 @@ record: aa3ecd9a2247
 
 ## Tunisia
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | EBRD loan to Tunisie Telecom | Approved by the board and not announced; no drawdown on record (2025-08) | [Announced at up to EUR 190m in four tranches with a first committed tranche of EUR 50m, funding a 4G-to-5G upgrade, fibre to 200,000 households, backbone and core modernisation, energy investment and the operator's connection to the submarine cable, with a complementary EUR 11m European Union grant and a first-loss guarantee (2026-01)](https://www.ebrd.com/home/news-and-events/news/2025/eur-190-million-to-tunisie-telecom.html) | Advanced |
 | EU CEF Digital grant for the Tunisian cable segment | In implementation (2025-08) | [Closed; EUR 9.6m against a EUR 32m project budget, exactly 30%, buying the Bizerte landing station and the roughly 1,050 km Tunisian segment that Orange owns (2025-08)](https://digital-strategy.ec.europa.eu/en/news/viatunisia) | Advanced |
@@ -460,7 +461,7 @@ record: aa3ecd9a2247
 
 ## Uganda
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Uganda Digital Acceleration Project | Active; free public Wi-Fi launched under it at the DRC border (2025-07-13) | [Active; funding the Tororo, Mbarara and Gulu pilots, and named as the affordable-connectivity vehicle](https://nilepost.co.ug/news/359509/tororo-one-stop-service-uganda-centre-undergoes-inspection-ahead-of-full-operations) | No change |
 
@@ -526,7 +527,7 @@ record: aa3ecd9a2247
 
 ## West Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-24 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Digital Transformation Fund (BOAD/KfW) | Did not exist | [A joint fund of the West African Development Bank and the German development bank carrying an envelope of 71 billion FCFA for digital modernisation of public administrations across the eight monetary-union states, with a published six-step instruction and validation process, a named focal point in each member state, and eligibility terms of a maximum 24-month project, a budget ceiling of 2,500 million FCFA, an interest rate the fund states at 2.2% and obligatory partial state co-financing; no date of signature or entry into force, no country allocation and no committed or disbursed total is published](https://ftd.boad.org/) | Advanced |
 | WARDIP (Western Africa Regional Digital Integration Program) | The first series alone: US$293.00m across four states, ECOWAS, the African Union and Smart Africa | [A second series approved on 2026-03-11 for Benin, Liberia and Sierra Leone, with Liberia's US$50m share signed in June](https://documents1.worldbank.org/curated/en/099110923155592015/pdf/BOSIB00f52bbfa0b60b39402a346c5434ee.pdf) | Advanced |

@@ -4,7 +4,7 @@ compiled: 2026-08-25
 period: 2025-08-01 to 2026-08-25
 subject: dpi.pay
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF; XSA; XWA
-record: 029597806f3a
+record: 0f6f23e7d91b
 ---
 
 # Digital Payments and Fintech: progress report, 2025-08-01 to 2026-08-25
@@ -39,11 +39,12 @@ record: 029597806f3a
 
 ## Benin
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Cashless motorway tolls | Did not exist | [Cashless tolling live](https://fraternite.bj/siratpay-le-paiement-numerique-simplifie-les-peages-au-benin/) | Advanced |
 | Mobile money | Operating (2024) | [11.65m active accounts; one operator holds about 51% of accounts and 83% of revenue](https://www.lanation.bj/numerique/communications-electroniques-lessor-des-usages-numeriques-transforme-le-marche-beninois) | Advanced, in accounts; concentration unchanged |
 | Regional instant payment rail | Rail launched across all eight member states (2025-09-30) | [Fully interconnected and free domestically](https://lanation.bj/economie/lancement-du-systeme-de-paiement-instantane-interoperable-la-pi-spi-une-solution-rapide-et-inclusive-au-profit-des-citoyens-uemoa) | Advanced |
+| GBESSOKE productive social safety net | ***Baseline not held*** | [20,621 beneficiaries, 85% of them women, paid a first monthly instalment of 208,272,100 FCFA across twelve pilot communes onto free secured SIM cards, ahead of an intended extension to all 77 communes](https://www.gouv.bj/article/3265/mise-oeuvre-programme-gbessoke-transferts-monetaires-demarre-plus-mille-menages-deja-touches-/) | ***Baseline not held*** |
 | Regional central bank digital currency | ***Baseline not held*** | [The regional e-CFA in pilot](https://lanation.bj/economie/crypto-actifs-le-debat-sur-les-opportunites-et-les-risques-ouvert) | ***Baseline not held*** |
 
 ## Botswana
@@ -60,7 +61,7 @@ record: 029597806f3a
 
 ## Burkina Faso
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Certified electronic invoice | A 2017 paper standard was the traceability instrument; no electronic certified invoice existed | [A certified electronic invoice in operation, with control modules for firms already running invoicing software and invoicing units for those that do not](https://www.sidwaya.info/modernisation-de-ladministration-fiscale-la-facture-electronique-certifiee-officiellement-lancee/) | Advanced |
 | National payments platform | Government payments by application, web and short code, covering stamp duty, taxes and duties | [The same, plus payment links for automated traffic fines, with vehicle immobilisation for non-payment within a month](https://lefaso.net/spip.php?article148326) | Advanced |
@@ -93,7 +94,7 @@ record: 029597806f3a
 
 ## Central African Republic
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Electricity bill payment over mobile money | Did not exist | [State electricity bills payable over one operator's mobile-money service, launched officially on 2026-08-04 for subscribers including those in Bambari, Berberati, Sibut, Bouar and Beloko; no tariff, transaction fee, volume, revenue share or exclusivity term disclosed](https://oubanguimedias.com/2026/08/07/centrafrique-telecel-et-enerca-signent-un-partenariat-pour-digitaliser-le-paiement-des-factures-delectricite/) | Advanced |
 | Gulf-state digital finance and land-banking memorandum | Did not exist | [Covering digital finance and land banking, presented as mobilising investment for infrastructure while modernising land administration; no commitment figure, disbursement schedule or governance arrangement stated](https://www.journaldebangui.com/rca-bangui-renforce-son-partenariat-avec-les-emirats-arabes/) | Advanced |
@@ -241,7 +242,7 @@ record: 029597806f3a
 
 ## Gambia
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | BANTABA 2.0 instant payment system | Did not exist | [First inclusive instant payment system in service, built on Mojaloop and operated by GamSwitch across banks, mobile money, microfinance institutions and fintechs; no transaction volume published (2025-12)](https://thepoint.gm/africa/gambia/headlines/gambia-launches-bantaba-2-0-first-real-time-interoperable-payment-system) | Advanced |
 | SUTURA government revenue collection integration | Did not exist | [Memorandum signed to wire a domestically built platform, distributed through GAMPOST, into government revenue collection; no go-live date, volume, fee structure or list of connected banks published, and no text of the memorandum is held (2026-07)](https://thepoint.gm/africa/gambia/headlines/accountant-general-seals-pact-with-sutura-to-strengthen-digital-revenue-collection) | Advanced |
@@ -321,7 +322,7 @@ record: 029597806f3a
 
 ## Liberia
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Interoperable payment fee regime | Did not exist | [A single charge of no more than 1.0% of value from US$1.00 to US$2,000.00 and a flat fee of no more than US$25.00 above it, available 24 hours a day (2026-08)](https://www.liberianobserver.com/business/africa-s-digital-payment-revolution-why-liberia-must-move-faster-on-inclusive-instant-payment-systems/article_78def9c4-1c3a-4997-80e5-76002c64d288.html) | Advanced |
 | National Electronic Payment Switch | Did not exist | [Provided for as the follow-on to the instant payment pilot, alongside person-to-government payments; no go-live date or budget line published (2026-07)](https://www.liberianobserver.com/business/gov-t-targets-24-hour-digital-economy-to-boost-youth-creativity/article_29307cdc-ea0a-44aa-962a-2c66f40209ec.html) | Advanced |
@@ -558,7 +559,7 @@ record: 029597806f3a
 
 ## Tanzania
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Active mobile-money accounts | 63.2m active wallets on the regulator's basis (2024-12) | [75.8m active accounts, up 6.7%, on 6.31bn transactions](https://ippmedia.co.tz/the-guardian/business/read/tanzanias-financial-inclusion-expands-but-usage-gap-is-becoming-the-next-challenge-2026-07-28-120905) | Advanced |
 | Cross-border instant-payment corridor with Rwanda | Did not exist: an inaugural meeting had been held in November 2025 | [Frameworks advanced for the first regional cross-border instant-payment corridor; no launch date](https://www.thecitizen.co.tz/tanzania/business/eac-advances-tanzania-rwanda-cross-border-digital-payments-integration-5523374) | Advanced |
@@ -598,7 +599,7 @@ record: 029597806f3a
 
 ## Tunisia
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Kashy wallet (Tunisie Telecom) | Did not exist | [Launched with a licensed payment partner, offering transfers, collections, top-up and cash withdrawal by phone (2026-03)](https://www.assabahnews.tn/ar/%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D9%85%D8%A4%D8%B3%D8%B3%D8%A7%D8%AA/142463-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D8%AA%D9%88%D9%86%D8%B3-%D8%AA%D8%B7%D9%84%D9%82-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D9%87%D8%A7-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF-%D9%84%D9%84%D8%AF%D9%81%D8%B9-%D8%B9%D8%A8%D8%B1-%D8%A7%D9%84%D9%87%D8%A7%D8%AA%D9%81-%D8%A7%D9%84%D8%AC%D9%88%D8%A7%D9%84-%D9%83%D8%A7%D8%B4%D9%8A) | Advanced |
 | Licensed payment service providers | 368 (2024) | [435 (2025)](https://trendsnafrica.com/central-bank-of-tunisia-reports-81-surge-in-mobile-payments-as-tunisia-accelerates-its-digital-transformation-in-2025/) | Advanced |
@@ -608,7 +609,7 @@ record: 029597806f3a
 
 ## Uganda
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Airtel Money and Britam insurance distribution | Did not exist | [Motor third-party insurance sold by USSD with a digital sticker issued online; framed by the insurance regulator as narrowing the protection gap](https://techafricanews.com/2026/07/22/airtel-money-uganda-and-britam-partner-to-expand-digital-insurance-and-financial-services/) | Advanced |
 | AKIBA tokenised-asset exchange | Did not exist | [A regulated tokenised-asset exchange to run under the central-bank and capital-markets sandboxes; no licence, launch date or volume published](https://techcabal.com/2026/04/08/global-settlement-holdings-to-acquire-majority-stake-in-akiba/) | Advanced |
@@ -697,12 +698,12 @@ record: 029597806f3a
 
 ## West Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-24 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | BCEAO connection obligation for instant-payment participants | Interoperability announced as mandatory from 30 June 2026 | [Banks, e-money issuers and payment institutions have until 30 September 2026 and microfinance institutions until 30 June 2027](https://www.fratmat.info/article/2641755/economie/uemoa-linteroperabilite-des-paiements-devient-obligatoire-des-le-30-juin-2026) | Advanced, slipped |
 | BCEAO guide to digitalising member-state payments | In force | [In force, unrevised on the record](https://www.bceao.int/sites/default/files/2021-03/Guide%20pour%20la%20digitalisation%20des%20paiements%20des%20Etats%20membres%20de%20l%27UEMOA.pdf) | No change |
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-24 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Institutions connected to PI-SPI | 45 at launch (2025-09-30) | [104 authorised at 31 July 2026, against 80 connected at 24 June 2026 and 74 at the end of December 2025, with Senegal (24) and Cote d'Ivoire (23) holding nearly half, ahead of Mali (14), Burkina Faso (13), Benin (11), Togo (9) and Guinea-Bissau and Niger (5 each)](https://financesao.com/uemoa-pi-spi-atteint-104-etablissements-autorises/) | Advanced |
 | PI-SPI (UEMOA interoperable instant-payment platform) | In live testing from August 2025, ahead of a launch set for 30 September 2025 | [In service across the eight member states, free for person-to-person transfers, with banks and mobile money interconnected since May 2026](https://lefaso.net/spip.php?article139887) | Advanced |
@@ -710,3 +711,4 @@ record: 029597806f3a
 | BCEAO accession to the Pan-African Payment and Settlement System | ***Baseline not held*** | [A six-month pilot with more than 80 commercial banks is planned before any decision, to test conformity with the union's external-financial-relations rules](https://www.financialafrik.com/2026/07/28/cedeao-la-bceao-prepare-levolution-des-paiements-transfrontaliers/) | ***Baseline not held*** |
 | EPSS (ECOWAS Payment and Settlement System) | ***Baseline not held*** | [Work is on where the platform's components will be hosted and on evaluating the central banks bidding to host them; no build, cost, timetable or legal instrument held](https://www.financialafrik.com/2026/07/28/cedeao-la-bceao-prepare-levolution-des-paiements-transfrontaliers/) | ***Baseline not held*** |
 | GIM-UEMOA interbank switch | ***Baseline not held*** | [The regional interbank electronic-payments switch is running under an interim chief executive, its previous director-general having left the post he held from March 2020](https://www.financialafrik.com/2026/08/12/gim-uemoa-ahmed-al-moustapha-cisse-directeur-general-par-interim/) | ***Baseline not held*** |
+| Union instruction on payment services | ***Baseline not held*** | [The union-wide regulatory instrument for payment services, made under the monetary union treaty and the uniform banking, microfinance and anti-money-laundering laws](https://www.bceao.int/sites/default/files/inline-files/Instruction-No001-01-2024_relative_aux_services_de_paiement_dans_l-UMOA.pdf) | ***Baseline not held*** |

@@ -4,7 +4,7 @@ compiled: 2026-08-25
 period: 2025-08-01 to 2026-08-25
 subject: include.access
 places: AGO; BEN; BWA; BFA; BDI; CMR; CPV; TCD; COM; COG; CIV; COD; EGY; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE; XSA; XWA
-record: 5ffcb6834323
+record: 95240dc66c7b
 ---
 
 # Access to services: progress report, 2025-08-01 to 2026-08-25
@@ -26,20 +26,21 @@ record: 5ffcb6834323
 
 ## Benin
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Mobile data pricing | ***Baseline not held*** | [995 FCFA a gigabyte (2023), from 4,000 in 2016](https://techafricanews.com/2026/04/28/benin-enters-the-5g-era-as-moov-africa-benin-launches-high-speed-network-at-novotel-orisha-cotonou/) | ***Baseline not held*** |
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Consumer redress for failed mobile-money transactions | Did not exist | [A financial-sector redress body stood up; complaints about failed transactions unresolved](https://fraternite.bj/guichets-automatiques-bancaires-et-mobile-money-enquete-sur-le-calvaire-des-usagers-face-aux-transactions-echouees/) | Advanced |
 | Free identity-card distribution by civil society | Did not exist | [130,000+ free cards in eight months, exposing failed fingerprints and dead enrolment numbers](https://fraternite.bj/octroi-des-pieces-didentite-long-je-suis-citoyen-beninois-sort-certains-beninois-de-lanonymat/) | Advanced |
+| ARCH social protection scheme | ***Baseline not held*** | [The health-insurance strand moved out of its seven pilot communes into a generalisation phase covering fourteen more, enrolling against the national identification register](https://www.gouv.bj/article/1145/projet-arch-gouvernement-generalise-volet-assurance-maladie-dans-communes-benin/) | ***Baseline not held*** |
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Fon-language voice AI | Did not exist | [The first voice-to-voice AI in Fon, across Benin, Senegal and Côte d'Ivoire](https://techafricanews.com/2025/06/30/benin-launches-first-local-language-voice-ai-to-bridge-digital-divide) | Advanced |
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Digital access to public services | ***Baseline not held*** | [At least 75% of identification services accessed digitally (2025)](https://www.biometricupdate.com/202602/benin-reports-75-of-identification-services-accessed-through-digital-platforms) | ***Baseline not held*** |
 
@@ -52,7 +53,7 @@ record: 5ffcb6834323
 
 ## Burkina Faso
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Consumer-protection rules | Adopted in 2023 but suspended and unenforceable | [In force, with main-balance validity extended from 90 to 180 days, promotional credit usable across networks and minimum one-month validity on data bundles; the regulator reports standard mobile-internet prices down 28 to 45%](https://www.wearetech.africa/en/fils-uk/news/telecom/burkina-faso-tightens-telecom-regulations-but-affordability-concerns-persist) | Advanced |
 | Financial inclusion promotion agency | ***Baseline not held*** | [Operating and explicitly not a regulator, with its director general arguing account counts conceal absent savings, credit and insurance](https://lefaso.net/spip.php?article148215) | ***Baseline not held*** |
@@ -188,7 +189,7 @@ record: 5ffcb6834323
 
 ## Liberia
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Account ownership and mobile wallets | 52% account ownership with more than 11m wallets (2024) | [No later figure published (2026-08)](https://www.thenewdawnliberia.com/liberia-expands-digital-finance/) | No change |
 
@@ -326,7 +327,7 @@ record: 5ffcb6834323
 
 ## Tanzania
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Braille editions of central bank publications | Did not exist | [Braille editions of the central bank's publications on the economy, finance and financial services, covering personal financial management among other subjects, so that blind readers can read a service's terms, benefits and risks without an intermediary](https://www.mwananchi.co.tz/mw/habari/biashara/bot-yazindua-machapisho-ya-nukta-nundu-kwa-wasioona-5564948) | Advanced |
 | Financial access points | 1.69m access points (2024-12) | [2.27m access points, up 33.5%, of which about 2m are mobile-money agents](https://www.bot.go.tz/Publications/Regular/Annual%20Report/en/2026072316300213.pdf) | Advanced |
@@ -344,13 +345,13 @@ record: 5ffcb6834323
 
 ## Tunisia
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Affordability of digital services | ***Baseline not held*** | [A digital basket at 1.53% of gross national income per head, about US$5.31 a month, second in the Maghreb and under the two-percent international threshold; the figures are the international union's, reported by the regulator (2026-07)](https://www.lapresse.tn/2026/07/18/internet-et-mobile-la-tunisie-parmi-les-pays-arabes-ou-les-services-numeriques-coutent-le-moins-cher/) | ***Baseline not held*** |
 
 ## Uganda
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Average monthly consumer data spend | UGX 10,392 for 5.1GB a month (June 2025) | [UGX 10,841 a month, 71 per cent of a UGX 15,349 total telecom bill and the first quarter in which data was the dominant line item, on average consumption of 3.7GB a month, up from 3.0GB in Q1 2026](https://www.ceo.co.ug/ugandans-spend-on-data-telecom-budget-shift/) | Advanced |
 | Gulu Service Uganda Centre | Did not exist | [Under construction with more than 40 workstations; stated completion June 2026, nothing on record as delivered at 2026-08-06](https://www.newvision.co.ug/category/business/construction-of-sh4b-service-uganda-centre-be-NV_229820_062026) | Advanced, slipped |
@@ -388,6 +389,6 @@ record: 5ffcb6834323
 
 ## West Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-24 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Open e-money accounts in the UEMOA | 209,025,380 accounts (2023) | [248,710,918 accounts (2024-12-31), of which 76,863,533 active, an activity rate of 30.9%](https://www.bceao.int/sites/default/files/2026-03/Rapport%20annuel%20sur%20les%20services%20financiers%20num%C3%A9riques%20dans%20l%27UEMOA%20-%202024.pdf) | Advanced |

@@ -4,7 +4,7 @@ compiled: 2026-08-25
 period: 2025-08-01 to 2026-08-25
 subject: tech.innovate
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; ERI; SWZ; GAB; GMB; GHA; KEN; LSO; LBR; LBY; MDG; MWI; MAR; NAM; NER; NGA; RWA; SEN; SOM; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF; XWA
-record: e8999dc4c2b5
+record: 19eb3baab28e
 ---
 
 # Innovation ecosystem: progress report, 2025-08-01 to 2026-08-25
@@ -36,7 +36,7 @@ record: e8999dc4c2b5
 
 ## Benin
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Domestic payment aggregator | Did not exist | [A home-grown rail with more than 13,000 merchants](https://www.lanation.bj/numerique/communications-electroniques-lessor-des-usages-numeriques-transforme-le-marche-beninois) | Advanced |
 
@@ -48,7 +48,7 @@ record: e8999dc4c2b5
 
 ## Burkina Faso
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Innovation platform | Did not exist | [A platform for inventors and diaspora innovators to register projects toward local manufacture, routed to an incubator described as under construction, with no operational statement or user count since](https://www.ecofinagency.com/news-digital/2410-49818-burkina-faso-launches-faso-andube-platform-to-promote-local-innovation) | Advanced |
 | Innovation ranking | 129th of 133 economies and 23rd of 27 in sub-Saharan Africa | [The same, with the base holding no 2025 or 2026 profile](https://www.wipo.int/edocs/gii-ranking/2024/bf.pdf) | No change |
@@ -81,7 +81,7 @@ record: e8999dc4c2b5
 
 ## Central African Republic
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Tokenised land concessions | Opened 2025-06-21 under presidential decree over 1,700 hectares, with no sales figure held | [122 plots sold for about US$38,308 by November 2025; a flagged expansion to mineral rights is not recorded as happening](https://globalinitiative.net/wp-content/uploads/2025/12/Behind-the-blockchain-Cryptocurrency-and-criminal-capture-in-the-Central-African-Republic-Central-Africa-Observatory-on-Organized-Crime-and-Violence-December-2025.pdf) | Advanced |
 | Presidential meme coin | Traded and collapsed, with its dedicated account suspended almost immediately | [Still the payment rail for the tokenised land concessions; no evidence that its revenues were declared as public income or entered the national budget](https://globalinitiative.net/wp-content/uploads/2025/12/Behind-the-blockchain-Cryptocurrency-and-criminal-capture-in-the-Central-African-Republic-Central-Africa-Observatory-on-Organized-Crime-and-Violence-December-2025.pdf) | No change |
@@ -169,7 +169,7 @@ record: e8999dc4c2b5
 
 ## Gambia
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Kalp Foundation Gambia One blockchain platform | Memorandum signed; nothing on record being built (2025-08) | [Unchanged; no build, pilot, funding or withdrawal reported in the nineteen months since (2026-08)](https://itweb.africa/article/the-gambia-signs-blockchain-pact-to-boost-digital-economy/8OKdWqDXbnYqbznQ) | No change |
 | Gambia Digital Innovation Sprint | ***Baseline not held*** | [Held with the National Youth Council, the communications ministry and UNICEF; no follow-on funding or incubation route published (2026-07)](https://thepoint.gm/africa/gambia/national-news/young-gambians-unveil-digital-innovations-to-transform-childrens-lives) | ***Baseline not held*** |
@@ -200,7 +200,7 @@ record: e8999dc4c2b5
 
 ## Liberia
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Lantern GovTech and Cyber Arena platform | ***Baseline not held*** | [Operating and selected to represent Liberia at the global final, pitched on domestic data custody; the firm projects a US$20m return over five years and plans a domestic security operations centre (2026-07)](https://www.liberianobserver.com/news/lantern-shines-brightest-as-2026-tech-summit-ends/article_14913b31-0736-4a07-bc38-29c6e5f79d54.html) | ***Baseline not held*** |
 | UNIPOD innovation and digital hub | ***Baseline not held*** | [Operating under UNDP Africa's Timbuktoo platform; no commitment amount disclosed (2026-07)](https://fpa.news/undp-reaffirms-commitment-to-liberias-digital-transformation-at-tech-summit/) | ***Baseline not held*** |
@@ -283,7 +283,7 @@ record: e8999dc4c2b5
 
 ## Tanzania
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | ITU acceleration centre | A host agreement signed February 2024, Tanzania one of seventeen centres selected worldwide | [Approved and awaiting launch; no launch date, budget or premises on file at 2026-08-06](https://www.biometricupdate.com/202604/tanzania-itu-innovation-center-to-drive-digital-transformation-set-for-launch) | Advanced |
 | Startups raising disclosed funding | 6 startups raising US$41,250,000 (2024), of which US$40m went to one company | [3 startups raising US$3,706,063 (2025)](https://disruptafrica.com/wp-content/uploads/2026/02/The-African-Tech-Startups-Funding-Report-2025.pdf) | Regressed |
@@ -297,14 +297,14 @@ record: e8999dc4c2b5
 
 ## Tunisia
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Startup Act and Startup Tunisia | In force, with over 40 firms reported as having expanded into Europe, the Middle East and sub-Saharan Africa (2025-08) | [In force and being circulated as a replicable model rather than as one country's statute, through a triangular programme with Japan (2026-07)](https://www.lapresse.tn/2026/07/28/la-tunisie-et-le-japon-sallient-pour-renforcer-les-ecosystemes-de-startups-en-afrique/) | Advanced |
 | Tunisia Digital Summit | ***Baseline not held*** | [Tenth edition held with about 2,000 participants and 80 exhibitors, the minister setting a goal of a regional digital hub and pledging continued legal and regulatory development on artificial intelligence and data protection (2026-04)](https://www.assabahnews.tn/ar/%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D9%88%D8%B7%D9%86%D9%8A%D8%A9/144861-%D9%82%D9%85%D8%A9-%D8%AA%D9%88%D9%86%D8%B3-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D9%88%D8%B2%D9%8A%D8%B1-%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84-%D8%A7%D9%84%D8%AA%D8%AD%D9%88%D9%84-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A-%D9%84%D9%85-%D9%8A%D8%B9%D8%AF-%D8%AE%D9%8A%D8%A7%D8%B1%D8%A7-%D8%A8%D9%84-%D8%B6%D8%B1%D9%88%D8%B1%D8%A9-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%8A%D8%A9-%D8%AA%D9%81%D8%B1%D8%B6%D9%87%D8%A7-%D9%85%D8%AA%D8%B7%D9%84%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%AA%D9%86%D9%85%D9%8A%D8%A9) | ***Baseline not held*** |
 
 ## Uganda
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Fintech Fridays Uganda Edition | Did not exist | [A recurring convening platform; no funding, cohort or target attached](https://www.newvision.co.ug/category/business/makerere-innovation-incubation-center-afriven-NV_236970_072026) | Advanced |
 | Mbale ICT Hub | Did not exist | [A UGX 3bn hub for young women's ICT and entrepreneurship careers; no opening date held](https://www.newvision.co.ug/category/education/mbale-ict-hub-to-boost-employable-skills-acqu-NV_228434_062026) | Advanced |
@@ -340,6 +340,6 @@ record: e8999dc4c2b5
 
 ## West Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-24 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | ECOWAS Startup Awards | Baseline not held | [A second edition launched by the Commission's private sector and industry directorate, offering scaling technology-led businesses managerial training, venture funding and cross-border expansion support within the continental free trade area; no prize fund, entry deadline, cohort size or outcome from the first edition is published](https://dailytrust.com/ecowas-unveils-2nd-regional-startup-awards-to-drive-innovation-youth-employment/) | Advanced |

@@ -4,7 +4,7 @@ compiled: 2026-08-25
 period: 2025-08-01 to 2026-08-25
 subject: finance.mou
 places: DZA; BWA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; COD; EGY; SWZ; GAB; GHA; GIN; KEN; LSO; MWI; MRT; MAR; RWA; SEN; SYC; SSD; TZA; TGO; UGA; ZMB; ZWE; XAF
-record: c553d58e0d5d
+record: 195eda0c809b
 ---
 
 # MoUs and other agreements: progress report, 2025-08-01 to 2026-08-25
@@ -50,9 +50,10 @@ record: c553d58e0d5d
 
 ## Central African Republic
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Dormant data-centre memorandum | A memorandum signed with no contract | [Unchanged at 2026-07-20: still no contract, site or financing](https://oubanguimedias.com/2025/01/22/centrafrique-le-gouvernement-signe-un-memorandum-dentente-avec-la-societe-aial-pour-la-construction-dun-centre-de-donnees-numeriques/) | No change |
+| IFC digital financial services accords | ***Baseline not held*** | [An institutional accord with the finance ministry aligned to the IFC's 2030 strategy and the national development plan, one with a commercial bank on its participation in digital services, and one with the incumbent mobile operator on building the capacity of its distributor network](https://oubanguimedias.com/2025/11/10/centrafrique-la-societe-financiere-internationale-signe-trois-accords-de-collaboration-avec-le-gouvernement-orange-et-ecobank/) | ***Baseline not held*** |
 
 ## Chad
 
@@ -181,7 +182,7 @@ record: c553d58e0d5d
 
 ## Tanzania
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Bilateral digital-cooperation tracks with Brazil, Poland and Russia | Did not exist | [Frameworks agreed with two states on AI strategy, digital government and cybersecurity research, and youth and technology-skills agreements in drafting with a third](https://dailynews.co.tz/brazil-poland-back-dars-push-for-digital-growth/) | Advanced |
 | Digital economy memorandum with Huawei | Did not exist | [Cooperation named across ICT infrastructure, AI, digital public service infrastructure, developing local professionals, and manufacture and assembly of digital equipment](https://www.mawasiliano.go.tz/news/tanzania-na-huawei-watia-saini-makubaliano-ya-kuimarisha-ushirikiano-katika-uchumi-wa-kidijitali-na-ubunifu) | Advanced |
@@ -196,7 +197,7 @@ record: c553d58e0d5d
 
 ## Uganda
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Ethio Telecom cooperation talks | Not held | [Preliminary: a ministerial delegation visited the Ethiopian incumbent's headquarters to explore cooperation on telecommunications infrastructure, digital payments, skills training and technology transfer in support of the national vision and the 2023-2027 digital roadmap; no agreement was signed](https://www.ecofinagency.com/news-digital/1308-48043-uganda-explores-digital-partnership-with-ethiopia-s-ethio-telecom) | ***Baseline not held*** |
 

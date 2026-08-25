@@ -3,13 +3,13 @@ title: National statistics — progress report, 2025-08-01 to 2026-08-25
 compiled: 2026-08-25
 period: 2025-08-01 to 2026-08-25
 subject: data.statistics
-places: DZA; AGO; BEN; BWA; BDI; CMR; CPV; CAF; TCD; COM; COG; DJI; COD; EGY; GNQ; ERI; SWZ; GAB; GMB; GHA; GIN; GNB; KEN; LBY; MDG; MWI; MLI; MRT; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SSD; TUN; UGA; ZWE; XSA; XWA
-record: 08561f233d41
+places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; DJI; COD; EGY; GNQ; ERI; SWZ; GAB; GMB; GHA; GIN; GNB; KEN; LBY; MDG; MWI; MLI; MRT; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SSD; TUN; UGA; ZWE; XSA; XWA
+record: 87034740b425
 ---
 
 # National statistics: progress report, 2025-08-01 to 2026-08-25
 
-*41 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
+*42 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -30,7 +30,7 @@ record: 08561f233d41
 
 ## Benin
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Public reporting of exchange usage | Did not exist | [Request volumes, members, systems and services published](https://statistiques.xroad.bj/) | Advanced |
 | National statistics office as data custodian | ***Baseline not held*** | [Named among four offices being displaced as primary data producers (2026-03)](https://researchictafrica.net/research/the-evolving-role-of-national-statistics-offices-nsos-as-data-custodians-in-the-digital-age/) | ***Baseline not held*** |
@@ -42,6 +42,13 @@ record: 08561f233d41
 | Statistician General | The post held in an acting capacity | [A substantive statistician general in post; data quality described by a named analyst as worryingly uneven](https://www.sundaystandard.info/a-letter-to-dr-khaufelo-lekobane-statistician-general/) | Advanced |
 | Africa Broadband Maps training | ***Baseline not held*** | [Training under way with Malawi, Zambia and Zimbabwe; no Botswana broadband map published](https://techreviewafrica.com/news/5719/itu-bdt-drives-africa-broadband-maps-project-with-subregional-gis-training-in-southern-africa) | ***Baseline not held*** |
 | Second Statistics Development Strategy (2026-2030) | ***Baseline not held*** | [Launched, aligned to National Development Plan 12](https://www.ub.bw/news/ub-joins-statistics-botswana-launch-second-bsds-2026-2030-strategy) | ***Baseline not held*** |
+
+## Burkina Faso
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| National statistics instrument | No statistics law and no national statistical development strategy on file | [An organic statistics law of December 2021 in force, requiring a statistical visa from the minister before any collection of individual data, with the statistics institute's 2026-2030 strategic plan formulated to integrate census and administrative data for territorial planning](https://www.insd.bf/sites/default/files/2026-04/Plan%20strat%C3%A9gique_2026-2030%20de%20l%27INSD_0.pdf) | Advanced |
+| Economic units enumerated | ***Baseline not held*** | [389,172 economic units counted in the 2024 general business census, 96.5% of them operating informally](https://www.actualite.bf/recensement-general-des-entreprises-au-burkina-faso-389-172-unites-economiques-dominees-par-des-nationaux-selon-une-etude-de-linsd/) | ***Baseline not held*** |
 
 ## Burundi
 
@@ -67,7 +74,7 @@ record: 08561f233d41
 
 ## Central African Republic
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Fourth general population and housing census (RGPH-4) | Did not exist | [The country's first digital census, in data cleaning since May 2026, with the third phase presented at ICASEES on 6 August 2026 as a step toward definitive results; financed by the World Bank through the HISWACA-SOP2 project with UNFPA as technical partner](https://www.icasees.org/index.php/actualites/398-icasees-la-troisieme-phase-dapurement-du-rgph-4-franchit-une-nouvelle-etape-vers-la-finalisation-des-resultats-du-recensement) | Advanced |
 | Harmonised household living-conditions survey | Did not exist | [About 7,000 households nationwide in three two-month waves, entirely by tablet, with a public commitment to statistical secrecy and aggregates only](https://www.icasees.org/index.php/actualites/387-icasees-enquete-harmonisee-sur-les-conditions-de-vie-des-menages-ehcvm-2026-mieux-connaitre-les-realites-des-menages-centrafricains-pour-mieux-orienter-les-politiques-publiques) | Advanced |
@@ -141,7 +148,7 @@ record: 08561f233d41
 
 ## Gambia
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Coordination of official statistics production | No convened process on record | [Producers and users convened by the Central Bank with the International Monetary Fund and the Bureau of Statistics, naming data gaps, inconsistency and inaccessibility as the constraints; no framework or workplan published (2026-07)](https://thepoint.gm/africa/gambia/headlines/cbg-hosts-stakeholders-engagement-on-statistical-data) | Advanced |
 | Gambia Labour Force Survey series | Four rounds published, with no cross-round comparison volume (2025-08) | [Fifth round published with the first systematic comparison across the 2023, 2025 and 2026 rounds, and a sixth round confirmed for later in 2026 (2026-07)](https://www.gbosdata.org/downloads-file/627-the-gambia-labour-force-survey-findings-report) | Advanced |
@@ -272,14 +279,14 @@ record: 08561f233d41
 
 ## Tunisia
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Internet use | Not measured on this series | [85.9% of respondents using the internet, 95.4% holding a mobile line, 84.3% a smartphone and 41% a computer, with 70.4% of internet users connecting principally over mobile. Among internet users, 41.3% use an e-service, 36.9% e-commerce, 26.5% e-government and 47.9% artificial intelligence (2026)](https://www.intt.tn/upload/files/Synth%C3%A8se%20des%20r%C3%A9sultats%20Enqu%C3%AAte%202026.pdf) | ***Baseline not held*** |
 | Use of online public administration | Not measured on this series | [26.5% of internet users, last of the four uses measured, behind artificial-intelligence applications at 47.9%, e-services at 41.3% and online shopping at 36.9% (2026)](https://www.lapresse.tn/2026/07/27/express-la-tunisie-accelere-sa-transition-numerique-le-smartphone-et-lia-gagnent-du-terrain/) | ***Baseline not held*** |
 
 ## Uganda
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | 9th Uganda National Household Survey | 8th round findings released May 2025; 9th round not in field | [16 language-matched field teams after fifteen days' training](https://nilepost.co.ug/news/361056/ubos-commissions-80-data-collectors-for-9th-uganda-national-household-survey) | Advanced |
 | Labour, Employment, Productivity and Reporting Programme | Did not exist | [An integrated administrative labour-data ecosystem under the Employment Act, against official figures of 12.3% unemployment, 42% labour underutilisation and 88% informality](https://www.newvision.co.ug/category/news/gender-ministry-unveils-initiative-to-address-NV_235563_062026) | Advanced |
@@ -301,7 +308,7 @@ record: 08561f233d41
 
 ## West Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-24 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | ECOWAS regional statistical methodological guides | The Regional Statistical Programme 2023-2027 under implementation, with no adopted methodological guide held | [Regional methodological guides in use, with a second Abidjan workshop training national coordination and economic policy committee members to operationalise the common regional frameworks for compiling and publishing macroeconomic statistics, reviewing the two regional databases and the harmonisation of member states' 2000-2025 national statistics for multilateral surveillance](https://www.ecowas.int/ecowas-strengthens-the-harmonization-of-migration-data-and-macroeconomic-convergence-in-west-africa/) | Advanced |
 | ECOMAC (ECOWAS Multilateral Surveillance Mechanism database) | Baseline not held | [The database of the bloc's multilateral surveillance mechanism, constituted by a statistical and computer protocol adopted by the Council of Ministers in December 2007: thirteen Excel tables on a quarterly update cadence with stated deadlines, and supervision divided between the monetary union's commission and central bank, the West African Monetary Agency and the West African Monetary Institute; no later amendment and no operational report is held](https://africanlii.org/akn/aa-ecowas/act/reg/2007/12-30/eng@2007-12-15/source) | ***Baseline not held*** |

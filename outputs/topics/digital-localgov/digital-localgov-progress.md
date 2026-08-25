@@ -4,7 +4,7 @@ compiled: 2026-08-25
 period: 2025-08-01 to 2026-08-25
 subject: digital.localgov
 places: DZA; AGO; BFA; CMR; TCD; COG; COD; EGY; SWZ; ETH; GAB; GMB; GIN; KEN; LSO; LBY; MWI; MLI; MOZ; NAM; NER; NGA; RWA; SOM; TZA; TGO; ZMB; ZWE
-record: e01dc2497981
+record: 0facb39a969b
 ---
 
 # Digitalisation of sub-national government: progress report, 2025-08-01 to 2026-08-25
@@ -29,7 +29,7 @@ record: e01dc2497981
 
 ## Burkina Faso
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Citizen service centres | A plan being drafted, with no site under construction | [Two pilots under construction, the first of them named Zama Tchey and intended to bring postal, financial and digital services closer to the population, with architectural studies under way for a further city, eight regional capitals and fifty rural communes, against a state and postal-service contract for twenty spaces over five years; physical execution across this site and the digital infrastructure supervision centre together stood at about 20% on 2026-08-05](https://www.moussonews.com/contrats-dobjectifs-2026-467-de-taux-dexecution-a-mis-parcours-pour-dr-aminata-zerbo-sabane/) | Advanced |
 | Regional portals | Did not exist | [One portal per region covering all seventeen regions, built jointly by the territorial-administration and digital ministries, with an electronic document-archiving system](https://www.sidwaya.info/portails-des-regions-du-burkina-faso-un-pas-decisif-vers-une-administration-numerique-de-proximite/) | Advanced |
@@ -88,7 +88,7 @@ record: e01dc2497981
 
 ## Gambia
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Kanifing municipal digital addressing | ***Baseline not held*** | [36,000 properties georeferenced, feeding property-tax billing and waste management in Kanifing Municipality (2025-12)](https://logri.org/publication/implementing-a-comprehensive-digital-addressing-system-a-step-by-step-guide-inspired-by-the-experience-of-kanifing-municipality-the-gambia) | ***Baseline not held*** |
 
@@ -187,7 +187,7 @@ record: e01dc2497981
 
 ## Tanzania
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Make Kibamba Digital | Did not exist | [A constituency digitalisation strategy opening with the education department's administration, inter-departmental communication, examination coordination and service delivery, marked by 20 computers and two printers valued at TZS 100m donated by a consumer lender; secondary schools stated next and ward offices in phases over three to four years](https://ippmedia.co.tz/the-guardian/business/read/bayport-donates-100m-tech-facility-to-kibambas-education-department-2026-08-04-131047) | Advanced |
 

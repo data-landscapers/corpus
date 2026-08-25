@@ -4,7 +4,7 @@ compiled: 2026-08-25
 period: 2025-08-01 to 2026-08-25
 subject: capacity.literacy
 places: AGO; BEN; BWA; BFA; CMR; CIV; COD; EGY; SWZ; GAB; GMB; GHA; KEN; LBR; NAM; RWA; STP; SEN; TZA; TGO; UGA; ZMB
-record: 8579c9a5f3b5
+record: 8722b2c9bb27
 ---
 
 # Literacy: progress report, 2025-08-01 to 2026-08-25
@@ -23,7 +23,7 @@ record: 8579c9a5f3b5
 
 ## Benin
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Domestic AI authorship and frugal-AI argument | ***Baseline not held*** | [A strategy co-author's frugal-AI argument, published 2026-07](https://www.wearetech.africa/fr/fils/tech-stars/kevin-degila-les-jeunes-africains-doivent-comprendre-que-l-ia-reste-une-technologie-et-pas-de-la-magie) | ***Baseline not held*** |
 
@@ -35,7 +35,7 @@ record: 8579c9a5f3b5
 
 ## Burkina Faso
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Financial-education campaign with an operator | ***Baseline not held*** | [A partnership running since 2025 and extended in 2026 to four cities, with 72-hour sessions on budgeting, savings, credit and consumer protection and participants acting as community relays](https://www.aib.media/guiriko-lanpfi-et-wave-burkina-lancent-une-campagne-de-formation-au-profit-des-consommateurs-des-services-financiers/) | ***Baseline not held*** |
 
@@ -84,7 +84,7 @@ record: 8579c9a5f3b5
 
 ## Gambia
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Rural women and girls digital rights programme | Did not exist | [400 women and girls trained across four regions, with 40 community broadcasters and 80 peer mentors; the implementer names unreliable internet, high data costs and unreliable electricity as the obstacles to continued practice (2026-07)](https://www.apc.org/en/blog/seeding-change-strengthening-digital-rights-rural-women-and-girls-gambia) | Advanced |
 
@@ -105,7 +105,7 @@ record: 8579c9a5f3b5
 
 ## Liberia
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Media and information literacy training for elections | Did not exist | [19 young leaders trained in the first of three sessions, run by UNDP with the elections commission and press union on Canadian funding; no budget disclosed (2026-07)](https://www.undp.org/liberia/press-releases/young-liberians-strengthen-digital-citizenship-and-information-integrity-safeguard-democracy) | Advanced |
 | MOE Digital Learning Platform and Liberia Learns | Did not exist | [In service for Grades 1 to 3 through curriculum-aligned video, audio and radio in local languages, with sign-language interpretation on video lessons (2026-01)](https://techpoint.africa/insight/techpoint-digest-1253/) | Advanced |
@@ -139,7 +139,7 @@ record: 8579c9a5f3b5
 
 ## Tanzania
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Science and ICT education grant | About US$10m committed, active | [About US$10m committed, active](https://medhospafrica.com/2025/08/07/the-revolutionary-role-that-korea-has-played-in-improving-tanzanias-health-and-educational-systems/) | No change |
 | Certified financial educators | ***Baseline not held*** | [1,167 certified financial educators trained and about 155,730 individuals reached](https://www.bot.go.tz/Publications/Regular/Annual%20Report/en/2026072316300213.pdf) | ***Baseline not held*** |
@@ -154,7 +154,7 @@ record: 8579c9a5f3b5
 
 ## Uganda
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Beera Ku Digital skilling programme | 3,000 riders onboarded, Q3 2025 | [Unchanged; no output figure published since Q3 2025](https://www.ucc.co.ug/wp-content/uploads/2025/11/UCC-Market-Report-for-Q3-2025-Sep-2025.pdf) | No change |
 

@@ -4,7 +4,7 @@ compiled: 2026-08-25
 period: 2025-08-01 to 2026-08-25
 subject: data.open
 places: BEN; CMR; CPV; COG; CIV; DJI; COD; EGY; GNQ; GHA; KEN; LBY; MDG; MWI; MRT; MUS; MAR; NAM; NER; TUN; UGA; ZMB; ZWE
-record: 7d6c441b7418
+record: ae87afe89958
 ---
 
 # Open data: progress report, 2025-08-01 to 2026-08-25
@@ -17,7 +17,7 @@ record: 7d6c441b7418
 
 ## Benin
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Open Government Partnership national action plan | Did not exist | [Co-creation opened eighteen months after joining, with commune-level consultation](https://www.lanation.bj/societe/partenariat-pour-un-gouvernement-ouvert-les-communes-entrent-en-action) | Advanced |
 | Budget transparency | ***Baseline not held*** | [Open Budget Survey 2025: 77/100 transparency, 52 participation, 72 oversight](https://fraternite.bj/budget-ouvert-obs-2025-le-benin-se-hisse-parmi-les-references-mondiales-de-la-transparence-budgetaire/) | ***Baseline not held*** |
@@ -148,7 +148,7 @@ record: 7d6c441b7418
 
 ## Tunisia
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Agrifood sector data portal | Did not exist | [Live and free after registration, centralising regulatory monitoring, market movement, export opportunity and sector-trend data under three public bodies; built inside a German- and EU-financed project with no amount disclosed and no statement of what happens when the project ends (2026-07)](https://www.lapresse.tn/2026/07/26/agroalimentaire-la-tunisie-lance-un-nouveau-portail-pour-aider-les-entreprises-a-mieux-decider/) | Advanced |
 | Aswat Nissa femicide data platform | Did not exist | [A civil-society platform to centralise Tunisia's femicide data, opening the 109 cases documented since January 2018 (30 in 2025, 26 in 2024, 25 in 2023, 23 in 2022) to researchers, media and civil-society organisations; launch set for 12 August 2026, with no state role or public-data reconciliation stated (2026-08)](https://www.wearetech.africa/fr/fils/actualites/tech/tunisie-aswat-nissa-lancera-mercredi-une-plateforme-pour-recenser-les-feminicides) | Advanced |
@@ -156,7 +156,7 @@ record: 7d6c441b7418
 
 ## Uganda
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Procurement portal conformance with the infrastructure data standard | ***Baseline not held*** | [26 of 148 data elements published, 17.6%, and 4.2% of required project-level disclosure paths (2025-11)](https://www.newvision.co.ug/category/business/why-govt-is-moving-to-upgrade-procurement-por-NV_222664_022026) | ***Baseline not held*** |
 

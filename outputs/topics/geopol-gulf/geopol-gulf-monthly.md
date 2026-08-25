@@ -1,10 +1,10 @@
 ---
 title: Gulf/UAE activities — monthly update, July 2026
-compiled: 2026-08-24
-period: 2026-07-01 to 2026-08-24
+compiled: 2026-08-25
+period: 2026-07-01 to 2026-08-25
 subject: geopol.gulf
 places: BWA; CAF; SWZ; MRT
-record: 311419afc55c
+record: a30893c17d10
 ---
 
 # Gulf/UAE activities: monthly update, July 2026

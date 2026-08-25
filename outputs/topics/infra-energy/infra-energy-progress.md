@@ -3,13 +3,13 @@ title: Energy — progress report, 2025-08-01 to 2026-08-25
 compiled: 2026-08-25
 period: 2025-08-01 to 2026-08-25
 subject: infra.energy
-places: AGO; BWA; BDI; CMR; CPV; CAF; TCD; COG; DJI; EGY; GNQ; SWZ; ETH; GAB; KEN; LSO; MWI; MLI; MRT; MUS; MAR; MOZ; NGA; SLE; SSD; TUN; UGA; ZMB; ZWE
-record: 43359926a511
+places: AGO; BWA; BDI; CMR; CPV; CAF; TCD; COG; DJI; EGY; GNQ; SWZ; ETH; GAB; GMB; KEN; LSO; MWI; MLI; MRT; MUS; MAR; MOZ; NGA; SLE; SSD; TUN; UGA; ZMB; ZWE
+record: 74b5208b6692
 ---
 
 # Energy: progress report, 2025-08-01 to 2026-08-25
 
-*29 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
+*30 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -52,8 +52,9 @@ record: 43359926a511
 
 ## Central African Republic
 
-| System or instrument | At 2025-08-01 | At 2026-08-23 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
+| Electricity supply for digital infrastructure | No utility report, tariff schedule or commissioning record on file | [A 25 MWp solar plant with 30 MWh of battery storage cutting dependence on diesel generation by 90% and raising domestic generation capacity by 40%, with prepaid metering installed for all non-essential public facilities and the national utility’s commercial systems revamped](https://www.worldbank.org/en/results/2025/02/10/renewables-boost-sustainable-development-in-the-central-african-republic-and-the-gambia) | Advanced |
 | Electricity access rate | 14.3% in 2022, about 35% in the capital and about 0.4% rural | [17% in 2023; nothing later held](https://africabusinessinsight.com/central-african-republic-explores-world/) | No change |
 
 ## Chad
@@ -105,6 +106,12 @@ record: 43359926a511
 | System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
 |---|---|---|---|
 | Nkok data centre photovoltaic plant | Planned - partial solar supply, adiabatic cooling and rainwater recycling in the announced design | [In service, supplying about 22 per cent of site energy needs, with water-free cooling and a dual 15 kV feed with N+1 redundant units](https://www.gabonreview.com/gabon-a-la-zis-de-nkok-st-digital-annonce-le-projet-de-construction-dun-datacenter-ecoresponsable/) | Advanced |
+
+## Gambia
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| Grid generation capacity added | ***Baseline not held*** | [23 MWp of solar with 8 MWh of battery storage, one of two parks totalling 48 MWp built under a combined US$149m investment providing new or improved electricity to 500,000 people across two countries](https://www.worldbank.org/en/results/2025/02/10/renewables-boost-sustainable-development-in-the-central-african-republic-and-the-gambia) | ***Baseline not held*** |
 
 ## Kenya
 
@@ -177,13 +184,13 @@ record: 43359926a511
 
 ## Tunisia
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Renewable power for data-centre capacity | Did not exist | [A 60 MW solar site is to power the planned Bizerte facility, its base camp operational from November 2025; no grid connection or power purchase arrangement is published (2026-02)](https://www.datacenterdynamics.com/en/news/solecrypt-plans-20mw-solar-powered-data-center-in-bizerte-tunisia/) | Advanced |
 
 ## Uganda
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Karuma surplus power for compute | ***Baseline not held*** | [100MW of surplus pre-transmission power from the 600MW plant, with Nile-water cooling, claimed in the project design](https://www.ecofinagency.com/news-digital/1509-48701-synectics-schneider-to-build-ai-center-in-uganda-starting-2026) | ***Baseline not held*** |
 | MTN Uganda network sites on solar or hydro | ***Baseline not held*** | [45% of network sites on solar or hydro; a 490 kWh solar plant commissioned at headquarters](https://www.mtn.co.ug/wp-content/uploads/sites/7/2026/08/MTN-Uganda-Sustainability-Report-2025-Digital-1.pdf) | ***Baseline not held*** |
