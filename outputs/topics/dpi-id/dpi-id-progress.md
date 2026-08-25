@@ -1,13 +1,13 @@
 ---
-title: Digital Identity and CRVS — progress report, 2025-08-01 to 2026-08-24
-compiled: 2026-08-24
-period: 2025-08-01 to 2026-08-24
+title: Digital Identity and CRVS — progress report, 2025-08-01 to 2026-08-25
+compiled: 2026-08-25
+period: 2025-08-01 to 2026-08-25
 subject: dpi.id
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF; XSA; XWA
-record: aa90744560d2
+record: ebe076631732
 ---
 
-# Digital Identity and CRVS: progress report, 2025-08-01 to 2026-08-24
+# Digital Identity and CRVS: progress report, 2025-08-01 to 2026-08-25
 
 *56 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -160,7 +160,7 @@ record: aa90744560d2
 
 ## Egypt
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Haweya national digital financial identity | Did not exist | [Mobile app registering face and fingerprint biometrics plus a digital signature, enabling remote bank-account opening at 37 banks, document verification and SIM purchase](https://www.biometricupdate.com/202511/egypt-rolls-out-digital-id-platform-to-scale-up-financial-inclusion) | Advanced |
 | MOIEG-PASS biometric authentication platform | Did not exist | [Android pilot in which users scan the national ID card and complete facial recognition to authenticate for a selected number of government services, with scaling to be decided on the pilot's outcome](https://english.ahram.org.eg/News/562383.aspx) | Advanced |
@@ -187,11 +187,11 @@ record: aa90744560d2
 
 ## Ethiopia
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Biometric enrolment kits for banks | Did not exist | [2,000 of 6,000 planned distributed, about US$17m, with 4,000 re-tendered](https://www.biometricupdate.com/202511/ethiopia-banks-receive-biometric-kits-to-expand-digital-id-enrollment) | Advanced |
 | Ethio Telecom as identity enrolment channel | Enrolling since 2024-04 | [About 32m citizens enrolled, 20.19m in FY2025/26; custody and consent terms not stated](https://www.ena.et/web/eng/w/eng_9268046) | Advanced |
-| Fayda national digital identity | 16.4m registrations (2025-06) | [46.5m registrations and 47.8m identities; up to 4m authentications a day across 150+ agencies](https://www.youtube.com/watch?v=B_iGkxWXNbg) | Advanced |
+| Fayda national digital identity | 16.4m registrations (2025-06) | [49.1m enrolments on 12,000 registration kits deployed; 194m eKYC verifications to date across 150 integrated agencies](https://www.biometricupdate.com/202608/fayda-digital-id-nears-50m-enrollments-as-adoption-reshapes-ethiopias-economy) | Advanced |
 | Faydaverse digital public infrastructure enterprise | Did not exist | [State-owned enterprise under Ethiopian Investment Holdings, with over 190m authentications performed and 150 enterprises integrated for biometric checks](https://www.biometricupdate.com/202603/ethiopias-digital-id-joins-sovereign-wealth-fund-as-weekly-enrollments-reach-1m) | Advanced |
 | Safaricom and Africom identity registration joint venture | Did not exist | [Covering Afar, Amhara, Tigray, Sidama and three southern regions](https://techreviewafrica.com/news/6190/safaricom-ethiopia-partners-national-id-program-to-expand-digital-identity-registration) | Advanced |
 | Faydaverse digital identity wallet | Not held | [Planned to carry academic transcripts, professional licences, healthcare records, property titles and financial-compliance and know-your-customer data beyond the core government credentials it holds today; the enterprise says it is also exporting digital-identity services as an implementation partner in Mozambique and Zambia](https://capitalethiopia.com/2026/08/08/national-id-program-to-expand-digital-wallet-and-credential-verification/) | ***Baseline not held*** |
@@ -246,7 +246,7 @@ record: aa90744560d2
 
 ## Kenya
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Automatic identity at 18 from the civil register | Reform direction announced, with vetting shifted to birth registration | [Statute mandates a civil-registration office in each of 290 sub-counties, with the unique personal identifier issued at birth feeding automatic identity at 18](https://www.biometricupdate.com/202602/kenya-streamlines-access-to-legal-and-digital-identity) | Advanced |
 | Maisha Namba national digital ID | KSh 15.13bn committed FY2024/25 for 7.5m cards and unique personal identifier rollout; first-time-ID fees scrapped March 2025 | [More than 42m identity records digitised in FY2025/26, with enrolment extended to dependants aged 7 to 17](https://www.biometricupdate.com/202606/kenya-moves-to-institutionalize-trust-as-digital-government-services-expands) | Advanced |
@@ -385,7 +385,7 @@ record: aa90744560d2
 
 ## Nigeria
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | ICAO Public Key Directory integration | Did not exist | [Passport cryptographically verifiable at 111 member states' borders](https://www.biometricupdate.com/202607/nigeria-achieves-full-icao-pkd-integration-for-its-biometric-passport) | Advanced |
 | National Identification Number and the foundational identity register | About 120m registrations (2025-08) | [136m against a target of 180m by 2026-12-31; about 100m still uncaptured](https://guardian.ng/news/nimc-enrols-136-million-nigerians-as-coker-odusote-pushes-stronger-inter-ministerial-partnership/) | Advanced |
@@ -417,7 +417,7 @@ record: aa90744560d2
 
 ## Senegal
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Civil-registration modernisation programme | Running, with two implementing agencies and the national agency as counterpart | [Closed on completion; outputs include 26 modern centres, 400 centres interconnected, 1,200 computers, a validated bill and a national civil-status strategy costed at FCFA 68bn](https://aps.sn/le-programme-nekkal-a-permis-dimportantes-avancees-dans-la-modernisation-de-letat-civil-selon-un-responsable/) | Closed |
 | Civil-status software deployment across centres | 235 of about 400 centres connected and operational, 383 installed (2025-08) | [74% of civil-status centres fully deployed, up from 70% reported five days earlier, with the citizen-facing request service live in 189 communes; the agency launched phase four of its remediation plan on 10 August 2026, extending to Kaffrine and Tambacounda](https://aps.sn/la-modernisation-de-letat-civil-une-veritable-politique-publique-et-strategique-selon-le-directeur-general-de-lanec/) | Advanced |
@@ -455,7 +455,7 @@ record: aa90744560d2
 
 ## South Africa
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Digital driving licence | Promised for 2026 | [Nearest dated milestone 2027-03](https://techpoint.africa/insight/techpoint-digest-1253/) | Stalled |
 | Draft Identification Regulations amendments | Did not exist | [Gazetted 2026-05-04 and the comment period closed on 2026-06-06. A research organisation's submission on the closing day asked the department to suspend the regulations pending a published Digital Identity Policy, an enacted National Identification and Registration Bill and demonstrated compliance with the data-protection Act, on the ground that they create a biometric enrolment, trusted-entity accreditation and real-time verification system with no formal role for the Information Regulator](https://www.biometricupdate.com/202605/south-africa-gazettes-digital-id-draft-regulation-seeks-comments) | Advanced |
@@ -557,13 +557,13 @@ record: aa90744560d2
 
 ## Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-24 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Adults holding official identification in Sub-Saharan Africa | None published on this basis | [81% of adults, 82% of men against 79% of women, a 3.56-point gender gap (2025)](https://id4d.worldbank.org/global-dataset) | ***Baseline not held*** |
 | APAI-CRVS (Africa Programme on Accelerated Improvement of Civil Registration and Vital Statistics) | ***Baseline not held*** | [The 2017-2026 decade is closing and a 2027-2036 phase is opening; the African eCRVS Shared Asset (ACSA) is named as the shared continental standard intended to cut fragmented digital procurement across country systems, and Equatorial Guinea's Justice Ministry timed a free registration campaign for children aged 0-5 (10-14 August 2026) to the decade's close. No AU statement of the new phase's content, financing or targets is held](https://www.graphic.com.gh/features/opinion/building-africas-architecture-of-visibility-the-next-crvs-decade.html) | ***Baseline not held*** |
 | Continental ID and data-protection law analyser | Baseline not held | [An open-source tool launched by a university research network comparing identity and data-protection laws across more than 50 African countries, built as a retrieval-augmented chatbot and stated as intended to help states harmonise their frameworks; no usage figure, governance arrangement or maintenance commitment is published](https://www.africa.engineering.cmu.edu/news/2026/08/11-demystifying-african-id.html) | ***Baseline not held*** |
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-24 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | ADLI cohort on the AfCFTA Digital Identity Annex | Did not exist | [Six countries across three trade corridors working on compliance with the annex, on a test-and-learn basis; no assessment or mutual-recognition decision held](https://dial.global/adli-cohort-advances-integration/) | Advanced |
 

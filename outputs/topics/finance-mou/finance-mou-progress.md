@@ -1,13 +1,13 @@
 ---
-title: MoUs and other agreements — progress report, 2025-08-01 to 2026-08-24
-compiled: 2026-08-24
-period: 2025-08-01 to 2026-08-24
+title: MoUs and other agreements — progress report, 2025-08-01 to 2026-08-25
+compiled: 2026-08-25
+period: 2025-08-01 to 2026-08-25
 subject: finance.mou
 places: DZA; BWA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; COD; EGY; SWZ; GAB; GHA; GIN; KEN; LSO; MWI; MRT; MAR; RWA; SEN; SYC; SSD; TZA; TGO; UGA; ZMB; ZWE; XAF
-record: a5165141484f
+record: c553d58e0d5d
 ---
 
-# MoUs and other agreements: progress report, 2025-08-01 to 2026-08-24
+# MoUs and other agreements: progress report, 2025-08-01 to 2026-08-25
 
 *31 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -88,7 +88,7 @@ record: a5165141484f
 
 ## Egypt
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Central bank memorandum with Afreximbank on a pan-African Gold Bank | Did not exist | [At feasibility-study stage, to assess technical, commercial and regulatory requirements for a Gold Bank sited in a designated free zone in Egypt, scoped to include an internationally accredited refinery, secure vaulting and associated financial and trading services](https://www.cbe.org.eg/en/news-publications/news/2025/12/30/08/37/gold-bank-programme-in-egypt) | Advanced |
 | Fawry point-of-sale integration partnership | Did not exist | [An integration connecting the payments company's acceptance terminals with a point-of-sale software provider's system, targeting hospitality, retail chains and hypermarkets](https://techafricanews.com/2026/07/21/fawry-partners-with-crystal-mind-to-integrate-pos-and-digital-payments/) | Advanced |
@@ -124,7 +124,7 @@ record: a5165141484f
 
 ## Kenya
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | EU-Kenya Digital Partnership | ***Baseline not held*** | [KSh 15.3bn committed, including EUR 37m to the Blue Raman submarine cable](https://techafricanews.com/2026/06/09/kenya-secures-ksh-15-3-billion-eu-boost-to-accelerate-digital-transformation/) | ***Baseline not held*** |
 | Judiciary people-centred justice partnership | ***Baseline not held*** | [A memorandum signed between the judiciary and a Netherlands justice-innovation institute, with an intergovernmental development-law organisation and the Netherlands embassy participating, building on the country's access-to-justice blueprint](https://www.hiil.org/news/hiil-and-kenyas-judiciary-formalise-partnership/) | ***Baseline not held*** |
@@ -163,7 +163,7 @@ record: a5165141484f
 
 ## Senegal
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | UN development programme memorandum | Did not exist | [Signed on four stated focus areas: digital governance, digital inclusion, AI and innovation](https://techafricanews.com/2026/04/16/undp-and-senegal-government-strengthen-ties-on-digital-development-agenda/) | Advanced |
 
@@ -217,7 +217,7 @@ record: a5165141484f
 
 ## Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-24 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | AUC-Google memorandum on AI | Did not exist | [Signed on AI and cloud infrastructure, skills, research and AI policy, with a pledge to train three million students and teachers by 2030](https://cioafrica.co/auc-signs-partnership-with-google-to-advance-africas-ai-digital-capacity/) | Advanced |
 | AUC-ITU cooperation memorandum | Did not exist | [Signed across AI, digital public infrastructure, skills, connectivity, cybersecurity, space technology and standards, naming the Commission the continental coordinating partner for the 55 member states](https://techreviewafrica.com/news/6310/african-union-commission-itu-sign-cooperation-agreement) | Advanced |

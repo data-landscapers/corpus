@@ -1,13 +1,13 @@
 ---
-title: National statistics — progress report, 2025-08-01 to 2026-08-24
-compiled: 2026-08-24
-period: 2025-08-01 to 2026-08-24
+title: National statistics — progress report, 2025-08-01 to 2026-08-25
+compiled: 2026-08-25
+period: 2025-08-01 to 2026-08-25
 subject: data.statistics
 places: DZA; AGO; BEN; BWA; BDI; CMR; CPV; CAF; TCD; COM; COG; DJI; COD; EGY; GNQ; ERI; SWZ; GAB; GMB; GHA; GIN; GNB; KEN; LBY; MDG; MWI; MLI; MRT; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SSD; TUN; UGA; ZWE; XSA; XWA
-record: 618a72827dcc
+record: 08561f233d41
 ---
 
-# National statistics: progress report, 2025-08-01 to 2026-08-24
+# National statistics: progress report, 2025-08-01 to 2026-08-25
 
 *41 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -109,7 +109,7 @@ record: 618a72827dcc
 
 ## Egypt
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | 2027 Population, Housing and Establishments Census | The base carries no position at 2025-08-01 | [Designed as a register-based exercise building central statistical registers of buildings, households, individuals and establishments by matching electronic field enumeration against digital registers and state databases, keyed on the unified national property number; the property-wealth map and secure electronic data exchange are to be finalised before a presidential decree authorises the count](https://www.youm7.com/story/2026/7/20/رئيس-الوزراء-يتابع-موقف-تنفيذ-التعداد-العام-للسكان-والإسكان-والمنشآت/7487323) | ***Baseline not held*** |
 | National labour-market data platform | The base carries no position at 2025-08-01 | [A Senate proposal for a national platform integrating databases and forecasting future skills demand, welcomed by the minister, who pointed to the ministry's own forthcoming digital labour platform; no launch date, budget, governing instrument or lead body is established for either, and the two are not stated to be the same thing](https://www.masrawy.com/news/news_egypt/details/2026/7/28/3024561/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%B9%D9%85%D9%84-%D9%8A%D8%A8%D8%AD%D8%AB-%D8%A5%D9%86%D8%B4%D8%A7%D8%A1-%D9%85%D9%86%D8%B5%D8%A9-%D9%88%D8%B7%D9%86%D9%8A%D8%A9-%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D8%A7%D9%84%D8%B3%D9%88%D9%82) | ***Baseline not held*** |
@@ -170,7 +170,7 @@ record: 618a72827dcc
 
 ## Kenya
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | KNBS digital-indicator release | Economic Survey 2025, ICT chapter running to 2024 | [Unchanged; the ICT chapter puts mobile subscriptions at 71.4m and 136.1 per 100 inhabitants in 2024, fixed and wireless internet subscriptions at 57.8m and mobile-money subscriptions at 42.3m, and no 2026 edition or Statistical Abstract is held](https://www.knbs.or.ke/wp-content/uploads/2025/05/2025-Economic-Survey.pdf) | No change |
 | Safaricom and KNBS mobile-data partnership | ***Baseline not held*** | [Collaboration to explore anonymised aggregated mobile data for population, mobility and socio-economic insight, with no scope, governance terms or start date](https://techafricanews.com/2026/06/08/safaricom-and-knbs-partner-to-harness-mobile-data-for-national-planning/) | ***Baseline not held*** |
@@ -240,7 +240,7 @@ record: 618a72827dcc
 
 ## Nigeria
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Make Inclusive Data the Norm initiative | Did not exist | [Widened from three countries to five](https://www.data4sdgs.org/news/five-countries-one-shared-push-make-inclusive-data-norm) | Advanced |
 | Telecoms contribution to GDP | 8.93% of GDP (Q2 2024) | [9.19% of GDP (Q1 2026) for telecommunications and information services, within information and communication at 11.31% of GDP (Q1 2026)](https://www.thisdaylive.com/2026/07/30/telecoms-contribution-to-gdp-grows-from-7-67-to-9-19-in-q1-2026/) | Advanced |
@@ -254,7 +254,7 @@ record: 618a72827dcc
 
 ## Senegal
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Inclusive-data initiative second phase | Did not exist | [The second phase opened, widening from three countries to five](https://www.data4sdgs.org/news/five-countries-one-shared-push-make-inclusive-data-norm) | Advanced |
 

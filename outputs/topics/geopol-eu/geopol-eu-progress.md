@@ -1,13 +1,13 @@
 ---
-title: EU activities — progress report, 2025-08-01 to 2026-08-24
-compiled: 2026-08-24
-period: 2025-08-01 to 2026-08-24
+title: EU activities — progress report, 2025-08-01 to 2026-08-25
+compiled: 2026-08-25
+period: 2025-08-01 to 2026-08-25
 subject: geopol.eu
 places: DZA; BWA; BFA; CPV; CAF; COM; COG; EGY; GHA; GIN; KEN; MLI; MAR; NAM; NER; NGA; UGA; XAF
-record: 12f2929a0b27
+record: 01317e00f3fa
 ---
 
-# EU activities: progress report, 2025-08-01 to 2026-08-24
+# EU activities: progress report, 2025-08-01 to 2026-08-25
 
 *18 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -61,7 +61,7 @@ record: 12f2929a0b27
 
 ## Egypt
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Cloud sovereignty cooperation with SAP | The base carries no statement of Egypt's position on sovereignty over data hosted on European vendor platforms | [The ICT minister met the vendor's regional president to discuss expanding outsourcing operations and investment, cooperation on cloud computing to support Egypt's push for greater sovereignty over data and applications hosted on those platforms, AI rollout, and a joint study of labour-market demand; no agreement, value or timetable is stated](https://techafricanews.com/2026/03/31/egypt-and-sap-deepen-ties-to-boost-ai-cloud-and-outsourcing-growth/) | ***Baseline not held*** |
 
@@ -79,7 +79,7 @@ record: 12f2929a0b27
 
 ## Kenya
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | European data-adequacy decision | ***Baseline not held*** | [Described in a development agency interview as a prospective decision; no application, assessment stage or timetable is stated](https://www.giz.de/en/newsroom/storys/interview-herken-kone-smart-africa-digital-sovereignty) | ***Baseline not held*** |
 
@@ -110,12 +110,12 @@ record: 12f2929a0b27
 
 ## Nigeria
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | EU-Nigeria Digital Economy Package | Did not exist | [€45m](https://techafricanews.com/2025/12/12/eu-announces-e45m-investment-to-boost-nigerias-connectivity-and-digital-services/) | Advanced |
 | Finland-Nigeria cyber and digitalisation MoU | Did not exist | [MoU signed](https://itweb.africa/article/finland-nigeria-seal-cyber-pact/KzQenvjywBOqZd2r) | Advanced |
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | cBrain F2 case-management platform | Did not exist | [Deployed on an assurance that sovereign data stays in Nigeria](https://www.wearetech.africa/en/fils-uk/news/public-management/nigeria-taps-denmark-s-cbrain-to-accelerate-e-government-reforms) | Advanced |
 
@@ -128,6 +128,6 @@ record: 12f2929a0b27
 
 ## Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-24 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | AU-Germany strategic dialogue | No dated session held in the base | [Reviewed the partnership and named AI governance and cybersecurity among the areas for cooperation, within a dialogue that is principally about peace and security](https://au.int/en/pressrelease/strategic-dialogue-foreign-and-security-policy-between-african-union-commission-and) | Advanced, marginal |

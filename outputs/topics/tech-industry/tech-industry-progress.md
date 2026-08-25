@@ -1,13 +1,13 @@
 ---
-title: ICT Industry — progress report, 2025-08-01 to 2026-08-24
-compiled: 2026-08-24
-period: 2025-08-01 to 2026-08-24
+title: ICT Industry — progress report, 2025-08-01 to 2026-08-25
+compiled: 2026-08-25
+period: 2025-08-01 to 2026-08-25
 subject: tech.industry
 places: DZA; AGO; BEN; BWA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GMB; GHA; GIN; LSO; LBR; LBY; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF
-record: bd7962130577
+record: ff561a04194e
 ---
 
-# ICT Industry: progress report, 2025-08-01 to 2026-08-24
+# ICT Industry: progress report, 2025-08-01 to 2026-08-25
 
 *46 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -113,7 +113,7 @@ record: bd7962130577
 
 ## Egypt
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Electronics and handset localisation programme | 3 million handsets produced in 2024 | [10 million handsets produced by end-2025, with ministerial targets of more than 15 million during 2026, a 30 million capacity by 2028 and local content of about 45%](https://gate.ahram.org.eg/News/5814629.aspx) | Advanced |
 | ICT sector growth and share of GDP | Sector growth of 15.2% in FY2022/23 contributing 5.1% of GDP, up from 4.4% in FY2019/20, with US$4.2bn of investment (reported 2025-11-21) | [Growth of 20.3% in the third quarter of the last fiscal year, described as the sector's highest rate, and a GDP contribution of about 6%, targeted at 8% by 2030](https://www.trade.gov/country-commercial-guides/egypt-information-and-communications-technology-and-digital-economy) | Advanced |
@@ -141,7 +141,7 @@ record: bd7962130577
 
 ## Ethiopia
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Vodacom change of control over Safaricom | Did not exist | [Completed; the Ethiopian regulatory approval is not on the record](https://techcabal.com/2026/07/27/vodacom-processed-548-billion/) | Advanced |
 | Domestic engineering services firms | ***Baseline not held*** | [One named Addis Ababa engineering services firm, founded 2021 (2026-07)](https://www.wearetech.africa/fr/fils/tech-stars/nebyu-zekariyas-zewde-met-l-ingenierie-tech-ethiopienne-au-service-du-monde) | ***Baseline not held*** |
@@ -239,11 +239,11 @@ record: bd7962130577
 
 ## Nigeria
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Telco mobile money | ***Baseline not held*** | [Revenue up about 132% in H1 2026, with one airtime-lending product suspended](https://techcabal.com/2026/07/31/mtns-airtime-lending-pause-drags-fintech-revenue/) | ***Baseline not held*** |
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Embedded insurance infrastructure | Did not exist | [Open to banks, fintechs, employers and merchants](https://techcabal.com/2026/07/17/meet-the-team-behind-skydd/) | Advanced |
 | Enterprise AI distribution through institutions | Did not exist | [Distributed through universities and professional communities](https://techcabal.com/2026/07/17/decide-targets-workplaces-with-enterprise-ai-rollout-through-cafeone/) | Advanced |
@@ -272,7 +272,7 @@ record: bd7962130577
 
 ## South Africa
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Cell C financial turnaround | Listed on the exchange November 2025 | [ZAR 12.64bn revenue and ZAR 4.16bn profit after tax; prepaid base past 8 million and the wholesale MVNO base at 5.71 million](https://techafricanews.com/2026/08/24/cell-c-reports-zar-4-16-billion-profit-turnaround-fy26/) | Advanced |
 | Mobile virtual network operator subscriptions | Baseline not held | [About 4.4 million active MVNO SIMs at end-2025 on an analyst count, up about 43% year on year and forecast to reach 14.4 million by 2030; the fourth-largest of the five mobile operators reported 5.7 million MVNO subscribers carried on its own wholesale platform for the 12 months to 2026-05-31, which it put at an estimated 80-85% share of the market](https://www.connectingafrica.com/investment/cell-c-gains-1-3m-subscribers-reduces-debt) | Advanced |
@@ -334,6 +334,6 @@ record: bd7962130577
 
 ## Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-24 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Charging for business messages on a dominant messenger | Service messages on the business platform free of charge | [Free service messages to end from 1 October 2026, with businesses charged for every delivered message at rates varying by country and by message type, a cost increase for African companies that rely heavily on the messenger for customer service](https://www.wearetech.africa/fr/fils/breves/breves-simple/whatsapp-va-faire-payer-l-envoi-de-messages-aux-entreprises-des-octobre) | Regressed |

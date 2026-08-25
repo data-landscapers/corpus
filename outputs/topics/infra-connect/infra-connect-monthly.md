@@ -1,10 +1,10 @@
 ---
 title: Connectivity — monthly update, July 2026
-compiled: 2026-08-24
-period: 2026-07-01 to 2026-08-24
+compiled: 2026-08-25
+period: 2026-07-01 to 2026-08-25
 subject: infra.connect
 places: DZA; AGO; BWA; BFA; BDI; CMR; CPV; CAF; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 07705646f466
+record: 565c0359e281
 ---
 
 # Connectivity: monthly update, July 2026
@@ -237,6 +237,8 @@ On the tower estate, shareholders of the tower company [approved the acquirer's 
 
 
 Two build programmes put dates on themselves. The government says resource mobilisation and contracting are complete for [about 3,700 towers to be deployed from October for more than 20 million people in unserved and underserved communities, with the first being installed in Delta State and riverine communities targeted before mid-2027](https://guardian.ng/business-services/fg-to-expand-internet-access-for-20m-nigerians-in-new-3700-tower-deployment/); no contract value or supplier is stated. Where fibre does not reach at all, an operator [now runs nearly a dozen light-beam links across Lagos serving banks, hotels, internet providers and a utility, and plans to extend to Abuja, Ibadan and Kano](https://datacentresafrica.com/taara-and-liquid-use-light-beam-technology-to-expand-data-centre-capacity-to-large-enterprises-in-lagos-nigeria/). A state airport also [activated a multi-gigabit backbone on 8 August over a commercial submarine-fibre network, to carry passenger processing, operations and real-time security monitoring](https://africanpilot.africa/akwa-ibom-victor-attah-internet/).
+
+The state also went back to orbit, and changed suppliers doing it. The Federal Executive Council [approved the acquisition and deployment of two high-throughput communications satellites, NIGCOMSAT-2A and 2B, to be built by Thales Alenia Space and Israel Aerospace Industries](https://saharareporters.com/2026/08/22/nigerian-government-approves-nigcomsat-2a-2b-satellites-expand-broadband-strengthen) on 22 August, with [NIGCOMSAT-2A due by the end of 2028 and 2B in 2029 or 2030 on the operator's own timetable](https://www.wearetech.africa/fr/fils/actualites/telecom/internet-le-nigeria-choisit-iai-et-thales-alenia-space-pour-acquerir-deux-nouveaux-satellites). The award [breaks with the Chinese partnership that built NigComSat-1, which failed in November 2008, and NigComSat-1R, launched in 2011 and approaching the end of its fifteen-year design life](https://www.wearetech.africa/fr/fils/actualites/telecom/internet-le-nigeria-choisit-iai-et-thales-alenia-space-pour-acquerir-deux-nouveaux-satellites), and sits alongside a January 2025 partnership with Eutelsat for low-earth-orbit services. No contract value is published and negotiation with the two manufacturers precedes manufacture.
 
 ## Rwanda
 

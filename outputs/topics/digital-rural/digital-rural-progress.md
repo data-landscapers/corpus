@@ -1,13 +1,13 @@
 ---
-title: Rural digital data capture — progress report, 2025-08-01 to 2026-08-24
-compiled: 2026-08-24
-period: 2025-08-01 to 2026-08-24
+title: Rural digital data capture — progress report, 2025-08-01 to 2026-08-25
+compiled: 2026-08-25
+period: 2025-08-01 to 2026-08-25
 subject: digital.rural
 places: BDI; CAF; COG; EGY; SWZ; GIN; LSO; MWI; MLI; MAR; NAM; NER; NGA; RWA; SLE; TGO; ZMB; ZWE
-record: 1ffb73e30938
+record: c6bb019080bb
 ---
 
-# Rural digital data capture: progress report, 2025-08-01 to 2026-08-24
+# Rural digital data capture: progress report, 2025-08-01 to 2026-08-25
 
 *18 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -36,7 +36,7 @@ record: 1ffb73e30938
 
 ## Egypt
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Decent Life rural fibre programme | 856 of 1,450 phase-one villages connected at end-2024, up from 267 at end-2023 | [More than 1,250 of 1,450 phase-one villages across 52 markazes in 20 governorates, about 5 million fibre lines, 75% of village service complexes connected](https://www.youm7.com/story/2026/6/30/%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9-%D9%84%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D8%AA%D9%88%D8%B5%D9%8A%D9%84-%D8%A7%D9%84%D8%A3%D9%84%D9%8A%D8%A7%D9%81-%D8%A7%D9%84%D8%B6%D9%88%D8%A6%D9%8A%D8%A9-%D9%84%D9%805-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%AE%D8%B7-%D9%81%D9%89-1250/7465834) | Advanced |
 
@@ -93,11 +93,11 @@ record: 1ffb73e30938
 
 ## Nigeria
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Rural connectivity programmes | ***Baseline not held*** | [About 3,700 towers to start deploying around October 2026 against 23% of rural communities connected (2025-10)](https://www.vanguardngr.com/2025/10/only-23-of-rural-communities-have-internet-access-in-nigeria-ncc/) | Advanced |
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Cisco AI for smallholder farmers | Did not exist | [Exploratory; no programme, funding, timeline or counterparty ministry named](https://itweb.africa/article/cisco-explores-ai-for-nigeria-farmers/nWJadMbNDjyMbjO1) | Advanced |
 

@@ -1,13 +1,13 @@
 ---
-title: Sectoral management information systems (HMIS, EMIS, etc.) — progress report, 2025-08-01 to 2026-08-24
-compiled: 2026-08-24
-period: 2025-08-01 to 2026-08-24
+title: Sectoral management information systems (HMIS, EMIS, etc.) — progress report, 2025-08-01 to 2026-08-25
+compiled: 2026-08-25
+period: 2025-08-01 to 2026-08-25
 subject: dpi.mis
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBY; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF; XWA
-record: b23a28ce23f0
+record: 80c989624c31
 ---
 
-# Sectoral management information systems (HMIS, EMIS, etc.): progress report, 2025-08-01 to 2026-08-24
+# Sectoral management information systems (HMIS, EMIS, etc.): progress report, 2025-08-01 to 2026-08-25
 
 *52 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -145,7 +145,7 @@ record: b23a28ce23f0
 
 ## Egypt
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | DHIS2 national health information system | Did not exist | [Open-source platform live under the national digital health priorities 2025-2029, with first-year use covering over 180,000 consultations for emergency evacuees across 189 sites, nutrition screening for about 20,000 refugee children, school-health screening for over 100,000 children and tuberculosis follow-up for 7,500 cases at 57 centres](https://dhis2.org/egypt-launches-dhis2-in-health-information-system) | Advanced |
 | Social insurance 95-service online catalogue | 95 electronic services undertaken within six months from 2026-02-08, opening with a first phase of 40 | [The 40-service first tranche restated as forthcoming at the point the six-month window falls due; against roughly 170 insurance services in all, only three concern pension entitlement and payment and the rest still require an office visit](https://gate.ahram.org.eg/News/5882131.aspx) | Stalled |
@@ -168,7 +168,7 @@ record: b23a28ce23f0
 
 ## Ethiopia
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | America First Global Health Strategy memorandum of understanding | Did not exist | [Planned United States support of US$1,016,000,000 across 2026-2030 against Ethiopia's US$450,000,000, of which US$18,850,149 is for health data systems on a profile falling from US$6,283,383 in 2026 to US$1,256,677 in 2030, with Ethiopia to carry software licensing, cloud, hardware and maintenance costs for those systems; the United States reserves 6% of the top-line budget for its own management and operations, and Ethiopia signed through the Minister of Finance](https://www.citizen.org/wp-content/uploads/2026-0004QN-Ethiopia-Health-12.23.2025.pdf) | Advanced |
 | Donor-funded health and surveillance data systems | Donor-funded surveillance operating | [Livestock and zoonotic surveillance suspended; the national health system stayed online on local staffing](https://developmentgateway.org/blog/a-year-after-usaid-reclaiming-control-of-data-systems/) | Regressed |
@@ -209,7 +209,7 @@ record: b23a28ce23f0
 
 ## Kenya
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Biometric Health Identification | Launched at Kenyatta University hospital 2025-08-04 with 29 biometric devices, operational in all level 4 to 6 public facilities | [Extended to biometric enrolment of dependants aged 7 to 17, each issued a Maisha Namba linked to their health record](https://www.biometricupdate.com/202606/kenya-expands-digital-id-program-to-minors-through-health-sector-rollout) | Advanced |
 | Kenya Education Management Information System | Pilot due July 2025 and full go-live promised by September 2025, with a unique identifier for every child | [No confirmation of go-live, coverage or learner count on file as at 2026-08-05](https://www.biometricupdate.com/202505/kenya-to-harmonize-education-sector-data-through-maisha-namba-id-integration) | Stalled |
@@ -299,7 +299,7 @@ record: b23a28ce23f0
 
 ## Nigeria
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Customs Electronic Cargo Tracking System | Did not exist | [GPS tracking replacing physical escort at a second command](https://www.thisdaylive.com/2026/07/29/ncs-deploys-electronic-cargo-tracking-system-at-ptml/) | Advanced |
 | IPPIS human-resource modules | Did not exist | [Biometric onboarding, payroll and workforce analytics across 508+ agencies](https://fmino.gov.ng/fg-launches-ippis-human-resource-modules-deepens-digital-transformation-of-civil-service/) | Advanced |
@@ -323,7 +323,7 @@ record: b23a28ce23f0
 
 ## Senegal
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Mortality and cause-of-death analysis tool | Did not exist | [Training delivered; the tool assesses mortality data coded to international classifications and disaggregates by age, sex, territory and cause](https://lesoleil.sn/actualites/sante/renforcement-informations-sanitaires-anacod3-lance-afin-dameliorer-la-qualite-des-donnees-de-mortalite/) | Advanced |
 | Digital-health bill | ***Baseline not held*** | [Unadopted; status, sponsor and text not stated](https://lesoleil.sn/actualites/sante/coeur-rose-de-diourbel-plaide-ladoption-de-la-loi-sur-la-sante-digitale/) | ***Baseline not held*** |
@@ -350,7 +350,7 @@ record: b23a28ce23f0
 
 ## South Africa
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | NSFAS student funding system | Board dissolved 2024 over IT-system failures | [Under administration; ICT named the largest operational risk](https://www.itweb.co.za/article/nsfas-says-ict-is-its-biggest-operational-risk/rW1xLv5ngJy7Rk6m) | Regressed |
 | National Digital Health Strategy 2019-2024 | Term already expired | [No successor strategy held](https://knowledgehub.health.gov.za/system/files/elibdownloads/2023-04/national-digital-strategy-for-south-africa-2019-2024-b.pdf) | No change |
@@ -418,7 +418,7 @@ record: b23a28ce23f0
 
 ## Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-24 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Africa CDC Central Data Repository | Did not exist | [A federated repository integrating national surveillance, laboratory and programme data in which member states retain ownership of their data](https://africacdc.org/news-item/africa-cdc-establishes-central-data-repository-to-strengthen-public-health-surveillance/) | Advanced |
 | African Regional Integration Synthesized Index (ASRII) platform | ***Baseline not held*** | [The African Union Commission's platform for submission, validation, automated computation and dissemination of regional integration scores across political, economic, infrastructure, and human and social pillars, developed with the regional economic communities, the Economic Commission for Africa and the African Development Bank to replace manual data collection. Deployment to the regional economic communities began with a four-day training of 20 core participants at the ECOWAS Commission in Abuja on 4-7 August 2026, at which its Secretary General said the Commission holds no centralised database of the status, amendments and implications of regional legal protocols](https://www.ecowas.int/ecowas-commission-and-african-union-conclude-asrii-digital-platform-training-with-high-level-engagement-with-the-secretary-general/) | ***Baseline not held*** |

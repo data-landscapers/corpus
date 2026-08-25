@@ -1,13 +1,13 @@
 ---
-title: Other GovTech and e-Gov — progress report, 2025-08-01 to 2026-08-24
-compiled: 2026-08-24
-period: 2025-08-01 to 2026-08-24
+title: Other GovTech and e-Gov — progress report, 2025-08-01 to 2026-08-25
+compiled: 2026-08-25
+period: 2025-08-01 to 2026-08-25
 subject: dpi.govtech
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XWA
-record: cdb6f20be36d
+record: 29c4f7a091a2
 ---
 
-# Other GovTech and e-Gov: progress report, 2025-08-01 to 2026-08-24
+# Other GovTech and e-Gov: progress report, 2025-08-01 to 2026-08-25
 
 *53 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -169,7 +169,7 @@ record: cdb6f20be36d
 
 ## Egypt
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | African Financial Stability Committee digital portal | Did not exist; the committee had no public platform of its own | [A platform carrying the committee's objectives, mandate and organisational structure, its member central banks, its meeting calendar and its two working groups, and the publication channel for the African Financial Stability Report, working-group reports, studies and technical papers; content maintained by the committee secretariat](https://english.ahram.org.eg/NewsContent/3/1239/573958/Business/Tech/CBE,-African-central-banks-association-launch-digi.aspx) | Advanced |
 | Digital Egypt platform | About 170 services (2024), 8.1m registered users, 7.8m transactions and enquiries in 2024 | [242 services and about 20m transactions since the start of 2026, with 73 services exclusive to the platform and other digital channels](https://gate.ahram.org.eg/News/5813424.aspx) | Advanced |
@@ -209,7 +209,7 @@ record: cdb6f20be36d
 
 ## Ethiopia
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | MESOB unified public-service platform | 41 services across 12 federal agencies (2025-07) | [The platform's own public catalogue states 180+ government services from 23 named provider organisations, among them the public procurement authority, the transport ministry, the state commercial bank, the state telecommunications operator and the food and drug authority, each service listed with its required documents, processing time and fees. The far larger figure the base also holds is on a different basis and not a later one: a government communication of 20 April 2026 claims 2,260 services integrated into a single platform, two months before the 185 stated at the June 2026 launch, so the two counts run concurrently rather than showing a twelvefold rise. Services are onboarded ahead of the underlying systems, on two incompatible integration models](https://mesobcenter.et/) | Advanced |
 | Unmanned smart police station | Did not exist | [Round-the-clock kiosks for reports, fines and documents](https://www.ena.et/web/eng/smart-police-station) | Advanced |
@@ -271,7 +271,7 @@ record: cdb6f20be36d
 
 ## Kenya
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | 2027 election technology appropriation | Sh41.3bn allocated by the Treasury | [Sh74.8bn after Parliament approved Sh33.5bn in additional funding for 2027 election technology](https://nation.africa/kenya/news/politics/50-million-cameras-the-election-kenya-did-not-have-in-1992-5552024) | Advanced |
 | Digital Hubs Programme | 285 of 1,450 ward hubs completed | [Reported at 588 committed Digital Hub sites nationwide against a target of one hub in every ward, with 46 Centres of Excellence and 40 Standard Digital Hubs under construction; procurement of 10,000 locally assembled desktops is complete for the first 100 pilot hubs, a further 10,000 under the Kenya Digital Economy Acceleration Project is in final stages and 2,222 Exchequer-funded machines are being acquired](https://techafricanews.com/2026/08/06/kenya-advances-digital-hubs-programme-with-588-sites-nationwide/) | Advanced |
@@ -423,7 +423,7 @@ record: cdb6f20be36d
 
 ## Nigeria
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Ekiti State digital policy and regulatory reform project | Did not exist | [UK FCDO project to produce a digital-economy strategy, a DPI roadmap, a civic-technology strategy and a connectivity-reform framework for the state; value and duration not stated](https://tribuneonlineng.com/uk-ekiti-govt-move-to-accelerate-digital-transformation/) | Advanced |
 | Government Service Portal | In build (2025) | [Piloting on a four-year KOICA project reported at US$13m](https://www.biometricupdate.com/202607/nigeria-unveils-digital-govt-platform-for-unified-access-to-public-services) | Advanced |
@@ -453,7 +453,7 @@ record: cdb6f20be36d
 
 ## Senegal
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Citizen single window | Did not exist | [Operational for passport applications, business creation, police-clearance and nationality certificates, with online tracking](https://www.biometricupdate.com/202603/senegal-launches-digital-government-portal-to-ease-access-to-public-services) | Advanced |
 | Digital fiscal stamp | Did not exist | [The sole recognised channel nationwide, with QR-coded stamps bought and received remotely and a second access route through a super-app](https://www.wearetech.africa/fr/fils/actualites/tech/le-senegal-supprime-le-timbre-fiscal-physique-au-profit-dune-version-numerique) | Advanced |
@@ -494,11 +494,12 @@ record: cdb6f20be36d
 
 ## South Africa
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Batho Pele AI chatbot | Did not exist | [DPSA-Meta-Juicetel partnership built on Meta's Llama models, providing policy, circular and legislation lookups to citizens and public servants; nine official languages targeted; explicitly decision-support only, with no decision-making authority](https://www.dpsa.gov.za/thepublicservant/2026/08/01/innovation-meets-impact-as-minister-buthelezi-launches-batho-pele-ai-chatbot/) | Advanced |
 | Home Affairs system downtime | 35,426 hours of nationwide system downtime (2024/25) | [13,867 hours in 2025/26, a 61% reduction, with provincial gains ranging from 79% in the Free State to 41% in North West; the population register's own downtime fell from 14,720 to 11,479 hours, a 22% improvement. The department attributes it to the state IT agency moving from a bronze to a silver service level, 226 links migrated to fibre, 182 offices moved to a web service manager and 439 offices running on the identification system](https://pmg.org.za/committee-question/39871/) | Advanced |
 | IEC digital voter registration (WhatsApp and online portal) | Online portal only | [1.7m registration transactions over the final weekend; 291,016 first-time registrations](https://techcabal.com/2026/08/07/south-africa-whatsapp-voter-registration/) | Advanced |
+| Inmate communication system, 243 correctional centres | Did not exist | [A fifteen-year tender advertised for design, supply, installation, integration, operation and maintenance across 243 correctional centres, replacing copper telephony that has deteriorated beyond support](https://www.itweb.co.za/article/top-ict-tenders-inmates-to-get-telecoms-upgrade/KzQenvjyx98qZd2r) | Advanced |
 | MyMzansi single citizen application | Prototype; public access H1 2026 | [Production-ready pilot; stable platform 2026-09](https://www.itweb.co.za/article/govt-targets-production-ready-mymzansi-platform/GxwQD71DPpgvlPVo) | Advanced, slipped |
 | National payment code standard (QR+) | Did not exist | [v1.2, eight-bank test cohort](https://www.bizcommunity.com/article/massive-payment-change-sarbs-qr-could-simplify-checkout-nationwide-620801a) | Advanced |
 | PayInc and the SARB stake | 50% acquired 2025-10 | [Bank-owned utility; non-bank shareholding ruled out (2026-07-31)](https://www.businessday.co.za/business-times/2026-08-01-no-plans-to-add-non-banks-to-payinc-shareholding-kganyago/) | Advanced |
@@ -516,7 +517,7 @@ record: cdb6f20be36d
 | Student-aid scheme systems integration | ***Baseline not held*** | [The Public Protector found the scheme's systems insufficiently integrated with the home affairs, social security and revenue data sources it needs to verify students, and directed a digital modernisation and systems-integration plan within 30 days covering institutional integration, verification interfaces, fraud controls and cyber security, elimination of duplicate applications and manual workarounds, student-facing case tracking and costed milestones](https://www.itweb.co.za/article/nsfas-gets-30-days-to-shake-off-ict-limitations/KA3Ww7dzpAPqrydZ) | ***Baseline not held*** |
 | Western Cape funding-matching platform for small business | ***Baseline not held*** | [Free access for micro, small and medium enterprises in the province to a matching platform covering over 300 funders and 600 finance products](https://startupmag.co.za/2026/08/western-cape-launches-free-digital-funding-platform-for-small-businesses/) | ***Baseline not held*** |
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Digital Transformation of Government Roadmap | ***Baseline not held*** | Implemented (2025-04-03) | ***Baseline not held*** |
 

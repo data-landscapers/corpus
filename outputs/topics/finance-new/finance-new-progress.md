@@ -1,13 +1,13 @@
 ---
-title: New investments — progress report, 2025-08-01 to 2026-08-24
-compiled: 2026-08-24
-period: 2025-08-01 to 2026-08-24
+title: New investments — progress report, 2025-08-01 to 2026-08-25
+compiled: 2026-08-25
+period: 2025-08-01 to 2026-08-25
 subject: finance.new
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LBR; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF; XSA; XWA
-record: f60005e04a8c
+record: aa3ecd9a2247
 ---
 
-# New investments: progress report, 2025-08-01 to 2026-08-24
+# New investments: progress report, 2025-08-01 to 2026-08-25
 
 *55 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -154,7 +154,7 @@ record: f60005e04a8c
 
 ## Egypt
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Blnk consumer lending facility | Did not exist | [US$12.5m Series A equity led by a domestic venture fund with three development and regional investors, plus US$24.6m in local-currency debt from three Egyptian banks, against a point-of-sale lending network of more than 3,000 merchants](https://techcabal.com/2026/06/08/egypts-blnk-raises-37-million-to-expand-lending/) | Advanced |
 | Egypt Startup Charter and unified financing initiative | A government framework in preparation, with a stated unified financing initiative of EGP 50bn to support 5,000 startups and help 500 of them attract more than US$1m each, against targets of US$5bn in investment over five years and 500,000 jobs; no launch, appropriation, disbursement or governing instrument on file (2025-12-19) | [The Startup Label certification is issuing under the Charter: UMAMI E-Learning Solutions named as one of the first Egyptian companies awarded the Startup Label Certificate, assessed on innovation, technological reliance, scalability and investment readiness; no cumulative certification count, and no appropriation or disbursement figure for the stated EGP 50bn financing initiative, is held](https://techcabal.com/2025/12/19/how-egypts-startup-ecosystem-fared-in-2025/) | Advanced |
@@ -186,11 +186,11 @@ record: f60005e04a8c
 
 ## Ethiopia
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Ethio Telecom public share offer | Offer closed (2025-02) | [10% distributed through Telebirr](https://www.thereporterethiopia.com/43299/) | No change |
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Digitally enabled pluralistic extension services programme (FAO) | Did not exist | [US$300,000 FAO grant (2026-2028) converting a catalytic start-up initiative into a long-term programme delivering agricultural extension services through digital channels](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=XM-DAC-41301-763888) | Advanced |
 | World Bank Digital ID for Inclusion Project | Running (2023-12) | [US$350m backing registration of refugees and displaced people](https://projects.worldbank.org/en/projects-operations/project-detail/P179040) | No change |
@@ -237,7 +237,7 @@ record: f60005e04a8c
 
 ## Kenya
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Atlas Tower Kenya debt facility (ATK Debt II) | Did not exist | [US$25m IFC debt inside a US$30m multi-currency debt package financing new macro towers and expanded mobile network capacity](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=XM-DAC-903-SII-52548) | Advanced |
 | EBRD-Axian Telecom (Yas) senior loan financing, Kenya tranche | Did not exist | [EUR270m total facility across 21 obligors in 8 jurisdictions; committed facility up to EUR170m includes a local-currency tranche of up to EUR20m equivalent in Kenyan shillings funding fibre-infrastructure modernisation in Kenya, plus an uncommitted EUR100m facility for future acquisitions and capex across EBRD's sub-Saharan African countries of operation](https://www.whitecase.com/news/press-release/white-case-advises-european-bank-reconstruction-and-development-landmark-eur270) | Advanced |
@@ -342,20 +342,20 @@ record: f60005e04a8c
 
 ## Nigeria
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Domestic bond financing of a fibre build | Did not exist | [₦4.05bn of a ₦20bn programme; trivial against the donor and DFI lines](https://tech.africa/dimension-data-nigeria-fibre-bond/) | Advanced |
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | World Bank ID4D financing | Running (2024-12) | [US$430m; target raised from 148m to 180m](https://documents.worldbank.org/curated/en/099122424123515222/pdf/P167183-7da88040-b609-473f-bc3c-7667ef8f9f33) | No change |
 | App-based retail securities trading | ***Baseline not held*** | [₦2.86tn of retail equity trading January-May 2026, up 138.76%, at 36.22% of activity](https://techcabal.com/2026/07/18/their-parents-lost-fortunes-theyre-buying-nigerian-stocks-anyway/) | ***Baseline not held*** |
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Credit scoring from payment traces | Did not exist | [Scores people without bank accounts from payment traces and sells the output to banks](https://www.wearetech.africa/en/fils-uk/brief/brief-simple/nigeria-s-mathesis-analytics-raises-funding-to-scale-ai-lending) | Advanced |
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | iDICE debt financing for technology startups | Did not exist | [US$110m of debt financing open](https://www.legit.ng/business-economy/industry/1722221-fg-launches-110-million-debt-financing-tech-startups-opens-application-nigerians/) | Advanced |
 | Telecoms foreign direct investment | US$107.46m (2021 low) | [US$392.91m in the first nine months of 2025, the strongest since 2019](https://techcabal.com/2026/02/17/telecoms-foreign-investment-rebounds-to-its-highest-level-since-2019/) | Advanced |
@@ -378,7 +378,7 @@ record: f60005e04a8c
 
 ## Senegal
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | BOAD digital transformation of public services loan | Did not exist | [XOF 30.9bn (US$51.5m) BOAD loan to accelerate digital transformation of Senegal's public services, 2026-2028; no named agency or specific systems stated](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=XM-DAC-46021-2026028) | Advanced |
 | Digital economy acceleration project | US$150m committed at board approval, scope as approved | [FCFA 95.05bn stated as committed to connectivity, digital public services and regulatory reform, with scope now adding integrated public financial management, cybersecurity capability, a sovereign government cloud and AI use cases](https://www.wearetech.africa/en/fils-uk/news/tech/senegal-maps-2026-digital-drive-with-world-bank-backing) | Advanced |
@@ -412,7 +412,7 @@ record: f60005e04a8c
 
 ## South Africa
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Recapitalisation of the Vivica fibre and telecoms group | None published | [New shares subscribed across Frogfoot, Vox and Hypa at a combined after-debt equity value of R8.4bn, with the rollout to reach 360,000 connected homes a year within 12 months](https://www.itweb.co.za/article/new-capital-quadruples-frogfoots-fibre-rollout/mYZRXv9gVp5MOgA8) | ***Baseline not held*** |
 | Science and Technology Accelerator-Systems, Southern Africa | Baseline not held | [Up to GBP2.5m over three years to March 2030, of which up to GBP400,000 for 2026/27, covering artificial intelligence and emerging technologies and digital access alongside climate, energy, health and space; South Africa the primary focus, Zimbabwe and Zambia the first year's](https://www.gov.uk/international-development-funding/science-and-technology-accelerator-systems-sta-s-southern-africa-programme) | ***Baseline not held*** |
@@ -492,7 +492,7 @@ record: f60005e04a8c
 
 ## Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-24 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Digital Africa Seed Fund | Did not exist | [A closed-end seed-stage fund with a ten-year horizon, sized at EUR 30m with a hard cap of EUR 50m, targeting 30 startups across 20 priority African countries at an average first ticket of EUR 300,000, and positioned as the seed step between the sponsor's pre-seed vehicle and institutional Series A investors](https://www.digital-africa.co/en/blog/digital-africa-launches-the-seed-fund) | Advanced |
 | Foundation call for AI in family planning | Did not exist | [A private foundation opened a call for proposals using artificial intelligence to widen access to digital contraception information across sub-Saharan Africa, offering up to US$500,000 a project, with applications closing on 25 August 2026](https://www.wearetech.africa/fr/fils/breves/breves-une/la-fondation-gates-offre-jusqu-a-500-000-pour-l-utilisation-de-l-ia-dans-le-planning-familial) | Advanced |
@@ -502,6 +502,7 @@ record: f60005e04a8c
 | Hewlett Foundation grant to Data4Change (Data Hub: Africa) | Did not exist | [US$400,000 committed (US$200,000 disbursed) to Data4Change's Africa Hub, building community-generated evidence for policy and practice in East and West Africa](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=US-EIN-941655673-2026-06796-GRA) | Advanced |
 | Hewlett Foundation grant to ICED (AI-enabled evidence generation) | Did not exist | [US$100,000 committed and fully disbursed for the International Centre for Evaluation and Development to adopt AI-enabled evidence generation institution-wide](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=US-EIN-941655673-2026-07006-GRA) | Advanced |
 | IFC equity investment in Jumia | Did not exist | [US$25m of IFC equity inside a wider US$50m raise](https://www.ifc.org/en/pressroom/2026/world-bank-group-invests-in-africa-s-digital-commerce-infrastructure-to-support-jobs-and-small-businesses) | Advanced |
+| Mergers and acquisitions in the digital economy | 68 deals across the whole of 2025 | [84 deals worth an estimated US$11.4bn in disclosed value between 1 January and 17 August 2026](https://techcabal.com/2026/08/24/84-ma-deals-worth-11-4-billion-in-disclosed-value-recorded-so-far-in-2026/) | Advanced |
 | Share of funded African tech startups led by a female chief executive | 17 of 178 funded ventures, 9.6%, taking 7.9% of the capital (2025) | [5 of 60, 8.3%, taking 2.8% of the capital (2026 to May)](https://disruptafrica.com/2026/08/05/worrying-trend-for-funding-for-female-founded-startups-in-african-tech/) | Regressed |
 | TaxDev III (IFS tax and social-protection policy data programme) | Did not exist | [Institute for Fiscal Studies programme, funded by the UK's FCDO, building tax and social-protection policy data resources and tools with finance ministries and revenue authorities in Ethiopia, Ghana, Kenya, Nigeria, Rwanda and Uganda; about US$6.36m disbursed 2023-2026](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=GB-COH-954616-TaxDevIII) | Advanced |
 | EU Multiannual Indicative Programme for Sub-Saharan Africa 2021-2027 | EUR 490m for priority area 4, Digital and Science, Technology and Innovation, of which EUR 240m for digital transformation, within a regional envelope of EUR 12,000m | [Unchanged; the mid-term review cut priority area 4 from EUR 1,240m to EUR 490m and its digital transformation component from EUR 940m to EUR 240m, or 2.0 per cent of an envelope enlarged from EUR 10,242m to EUR 12,000m, and no later amendment is held](https://international-partnerships.ec.europa.eu/document/download/10d4ba3f-ee66-426e-8c60-bcd89b09fd11_en?filename=ad-mip-2024-c2024-7502-sub-saharan-africa-annex_en.pdf) | No change |

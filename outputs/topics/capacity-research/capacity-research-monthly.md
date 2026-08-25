@@ -1,10 +1,10 @@
 ---
 title: Research institutions — monthly update, July 2026
-compiled: 2026-08-24
-period: 2026-07-01 to 2026-08-24
+compiled: 2026-08-25
+period: 2026-07-01 to 2026-08-25
 subject: capacity.research
 places: BDI; CMR; CIV; GNQ; ETH; LBY; MOZ; SEN; SOM; ZAF; ZMB
-record: cbbb5427e68f
+record: aa2e2d373c83
 ---
 
 # Research institutions: monthly update, July 2026

@@ -1,13 +1,13 @@
 ---
-title: Data Exchange — progress report, 2025-08-01 to 2026-08-24
-compiled: 2026-08-24
-period: 2025-08-01 to 2026-08-24
+title: Data Exchange — progress report, 2025-08-01 to 2026-08-25
+compiled: 2026-08-25
+period: 2025-08-01 to 2026-08-25
 subject: dpi.exchange
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF; XSA; XWA
-record: 288cdb828570
+record: a65bddc6eca9
 ---
 
-# Data Exchange: progress report, 2025-08-01 to 2026-08-24
+# Data Exchange: progress report, 2025-08-01 to 2026-08-25
 
 *53 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -126,7 +126,7 @@ record: 288cdb828570
 
 ## Egypt
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Digital treasury of reusable verified documents | The base carries no position at 2025-08-01 | [An operating model set and applied to a number of government services for gradual expansion, its first output the registration certificate as a verified reusable digital document consumed by the shop-licensing service, implementing the once-only principle](https://gate.ahram.org.eg/News/5813424.aspx) | Advanced |
 | Stock exchange and commercial registry data integration | Did not exist | [A cooperation protocol between the stock exchange and the internal trade development authority to integrate the commercial registry and exchange databases, giving the exchange direct access to commercial registry data for listed companies, with a joint executive committee to oversee implementation and data confidentiality](https://www.businessmen-eg.com/en/6166/egyptian-exchange-itda-sign-data-integration-agreement) | Advanced |
@@ -154,7 +154,7 @@ record: 288cdb828570
 
 ## Ethiopia
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | National data exchange platform | Did not exist | [Approved and paired with a predictive model; not built](https://birrmetrics.com/mesob-meets-the-monster-it-was-built-to-kill/) | Advanced |
 | EthSwitch national switch | ***Baseline not held*** | [Links M-PESA to more than 30 banks and wallets; EthQR across 50,000+ merchants](https://itweb.africa/article/m-pesa-ethiopia-surges-258-as-ethswitch-fuels-growth/) | ***Baseline not held*** |
@@ -198,7 +198,7 @@ record: 288cdb828570
 
 ## Kenya
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Advanced Cargo Declaration system | Did not exist | [In service, moving document lodgement and verification to before loading at the port of export; more than 1,000 applications in the first five days](https://citizen.digital/article/kra-kpa-roll-out-smart-gate-pilot-cargo-system-at-mombasa-port-to-reduce-delays) | Advanced |
 | AfCFTA ADAPT cross-border DPI pilot | Did not exist | [One of the first three countries selected to implement shared cross-border rails for identity, payments and trusted data exchange, chosen on a two-stage assessment of political commitment, regulatory alignment, technical capacity, private-sector engagement and the maturity of national digital systems](https://www.biometricupdate.com/202605/nigeria-kenya-morocco-selected-for-afcfta-digital-identity-and-dpi-rollout) | Advanced |
@@ -292,11 +292,11 @@ record: 288cdb828570
 
 ## Nigeria
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | NCC and Rural Electrification Agency data-sharing MoU | Did not exist | [Electrification and universal-service deployment data overlaid](https://apanews.net/ncc-rea-sign-mou-to-drive-digital-infrastructure-expansion/) | Advanced |
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Bilateral MDA integration agreements under the NIMC Act | Did not exist | [Nine agencies took bilateral cover under the new Act](https://www.thisdaylive.com/2026/07/20/alake-nimc-partner-to-deploy-digital-identity-against-illegal-mining/) | Advanced |
 | CBN-NCC telecom identity risk management feed | Did not exist | [Banks can check SIM-swap and recycled numbers; fraud fell 51% to ₦25.85bn in 2025](https://techcabal.com/2026/04/21/new-cbn-ncc-opens-telecom-data-to-banks/) | Advanced |
@@ -315,7 +315,7 @@ record: 288cdb828570
 
 ## Senegal
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Digital agency and health-cover platform interconnection | Did not exist | [The convention signed, with training of service-point managers, joint communication and a monitoring mechanism committed](https://www.seneweb.com/fr/news/Video/sante-et-numerique-senum-sa-et-la-sen-csu-sunissent-pour-faciliter-lacces-a-la-couverture-maladie_n_499241.html) | Advanced |
 | Government enterprise architecture | Did not exist | [A framework being built across policies, processes, data, applications and infrastructure; the diagnostic phase's interim results have been presented, a target architecture proposed, and the inventory of state information systems launched](https://www.biometricupdate.com/202608/senegal-seeks-to-fully-align-sovereignty-vision-with-dpi-strategy) | Advanced |
@@ -346,7 +346,7 @@ record: 288cdb828570
 
 ## South Africa
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | MzansiXchange data exchange | One-year pilot launched 2025-10-09 | [Nine months in; extra capacity onboarding](https://www.sanews.gov.za/south-africa/government-launches-mzansixchange-improve-evidence-based-policy) | Advanced, stalling |
 | SAHPRA VigiFlow serious-adverse-event e-reporting pilot | Did not exist | [Pilot open by invitation; no duration or mandatory date published](https://www.sahpra.org.za/document/pilot-project-for-electronic-reporting-of-serious-adverse-events-e-reporting-for-industry-vigiflow-module/) | Advanced |
@@ -421,14 +421,14 @@ record: 288cdb828570
 
 ## Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-24 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | AU Data Policy Framework | In force since February 2022 as the continental reference for data governance, with none of its operative texts drafted | [Unchanged in text; the three operative frameworks it provides for went to validation in December 2025 and none is adopted or published](https://au.int/sites/default/files/documents/42078-doc-DATA-POLICY-FRAMEWORKS-2024-ENG-V2.pdf) | No change |
 | AU Guidelines for Integrating Data Provisions in Protocols on Digital Trade | Issued September 2023 as a reference guide for negotiators integrating data provisions into the AfCFTA Protocol on Digital Trade | [Unchanged; no record is held of its provisions being carried into the Protocol or its annexes](https://au.int/sites/default/files/documents/44807-doc-Guidelines-Integrating-Data-Digital-Trade-ENG-V3_161.pdf) | No change |
 | Smart Africa cross-border data exchange guidelines | Drafted by eleven member states under the Council of African IT Agencies | [No adopted text, signatory list or implementation record held in the year since the drafting session](https://smartafrica.org/smart-africa-mobilises-11-member-states-in-the-kingdom-of-morocco-to-co-create-africas-first-cross-border-data-exchange-guidelines) | No change |
 | Continental data governance frameworks | ***Baseline not held*** | [Three drafts - data categorisation and data sharing, cross-border data flows, and a continental open data strategy - validated with member states and regional economic communities; none submitted to AU policy organs and none published](https://au.int/sites/default/files/pressreleases/45730-pr-PR-_Validation_Workshop_Data_Governance_Rev.pdf) | ***Baseline not held*** |
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-24 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | ADAPT (Africa Digital Access and Public Infrastructure for Trade) | Did not exist | [In pilot in Nigeria, Kenya and Morocco on the Secretary-General's statement to the second Digital Trade Forum; no live exchange, governing instrument or assessment held](https://data-landscapers.com/2026/05/28/building-same-road-twice/) | Advanced |
 | AU Digital Agriculture Strategy implementation | Adopted for 2024-2030 with an average agricultural growth target of 6 per cent and an estimated US$165 million continental implementation cost, prioritising national e-agriculture strategies over a uniform regional approach after a 2021 situation analysis covering all 55 member states | [A continental workshop convened regional economic communities, union organs and participating countries to harmonise implementation, seeking interoperable agricultural data platforms, common data governance and alignment of national and regional systems with the continental digital transformation strategy and agriculture reporting](https://au.int/en/pressreleases/20260811/african-union-advances-digital-agriculture-strategy-implementation-across) | Advanced |

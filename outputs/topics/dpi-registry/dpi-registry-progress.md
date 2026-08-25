@@ -1,13 +1,13 @@
 ---
-title: Registries (population, land, address, etc.) — progress report, 2025-08-01 to 2026-08-24
-compiled: 2026-08-24
-period: 2025-08-01 to 2026-08-24
+title: Registries (population, land, address, etc.) — progress report, 2025-08-01 to 2026-08-25
+compiled: 2026-08-25
+period: 2025-08-01 to 2026-08-25
 subject: dpi.registry
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 507281e5b05d
+record: c90992c424f4
 ---
 
-# Registries (population, land, address, etc.): progress report, 2025-08-01 to 2026-08-24
+# Registries (population, land, address, etc.): progress report, 2025-08-01 to 2026-08-25
 
 *52 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -154,7 +154,7 @@ record: 507281e5b05d
 
 ## Egypt
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | National Platform for Regularising State Lands | The base carries no position at 2025-08-01, and the commencement date of the 2025 law that introduced the platform is not established | [More than 302,000 applications received against about 1,700 contracts drawn up, 350 plots recovered and compensation collected on about 300 applications, with governorate committees still doing inspection, survey and measurement](https://www.youm7.com/story/2026/8/4/%D8%A7%D9%84%D9%85%D9%86%D8%B5%D8%A9-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A%D8%A9-%D8%AA%D8%AA%D9%84%D9%82%D9%89-302-%D8%A3%D9%84%D9%81-%D8%B7%D9%84%D8%A8-%D8%AA%D9%82%D9%86%D9%8A%D9%86-%D9%84%D8%A3%D8%B1%D8%A7%D8%B6%D9%89-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9/7503179) | ***Baseline not held*** |
 | Rashid state-owned companies platform | The base carries no position at 2025-08-01 | [A national platform to enumerate and classify every company the state owns or holds a stake in, with hosting, secure storage and compute for its AI applications supplied under protocol; the applications analyse and monitor the financial and operating performance of the state's corporate portfolio](https://gate.ahram.org.eg/News/5849412.aspx) | ***Baseline not held*** |
@@ -222,7 +222,7 @@ record: 507281e5b05d
 
 ## Kenya
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | National database of qualifications | Did not exist | [A bill proposing a national database of qualifications established, maintained and published by the qualifications authority, extending to foreign qualifications harmonised and recognised domestically, with awarding institutions required to notify the authority within 90 days of issuing a qualification](https://www.parliament.go.ke/sites/default/files/2026-08/THE%20KENYA%20NATIONAL%20QUALIFICATIONS%20FRAMEWORK%28AMENDMENT%29%20BILL%2C2026.pdf) | Advanced |
 | Online download of birth certificates | Application online through eCitizen, collection required a visit to a registry or Huduma centre | [Certificate downloadable and printable online after application](https://www.kenyans.co.ke/news/124508-kenyans-download-and-print-birth-certificates-online) | Advanced |
@@ -332,7 +332,7 @@ record: 507281e5b05d
 
 ## Nigeria
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Electronic civil registration and vital statistics | Platform in rollout (2025-11) | [Nationwide on the VitalReg platform with paper discontinued from 1 July 2026, but stalled at the health-facility layer: none of 371 targeted facilities live despite completed training, zero birth notifications recorded in the reporting year, 120,469 certificates issued against 443,162 registrations, and an estimated 3.5 million children across seven southern states holding no certificate; the platform also displayed charges of US$30 to US$80 for documents the commission says are free, and carried a Lagos man's record with a wife and a son unknown to him until the commission corrected it](https://www.vanguardngr.com/2026/08/3-5m-missing-births-how-hospitals-can-close-nigerias-registration-gap/) | Advanced, regressed at the health-facility layer |
 | National alphanumeric digital postcode system | An intention with no date | [A launch date of 2026-10-01 for a unique address per building, with integration to existing government identity databases to follow](https://www.vanguardngr.com/2026/08/fg-to-rollout-90000km-fibre-optic-network-tijani/) | Advanced |
@@ -361,7 +361,7 @@ record: 507281e5b05d
 
 ## Senegal
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Audit of civil registration in 74 communes | Did not exist | [The mission live across 74 communes, 59 already audited and their findings re-examined, fifteen selected on risk analysis for document and field checks](https://www.seneweb.com/fr/news/Societe/gestion-de-letat-civil-74-communes-du-senegal-dans-le-viseur-de-la-cour-des-comptes_n_499794.html) | Advanced |
 | Biometric audit of the public-service headcount | Did not exist | [More than 35 auditor teams deployed nationally with ten more to be added; the object is a reliable payroll database for wage-bill control](https://lesoleil.sn/actualites/societe-fait-divers/audit-agents-fonction-publique-le-ministre-diante-visite-les-centres-denrolement-de-rufisque-et-thies/) | Advanced |
@@ -395,7 +395,7 @@ record: 507281e5b05d
 
 ## South Africa
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Blocked identity numbers | 384,189 (2025-12) | [377,060](https://iol.co.za/news/politics/2026-07-17-home-affairs-struggles-to-unblock-identity-numbers-due-to-unserviceable-addresses/) | Stalled |
 | Intelligent Population Register | ***Baseline not held*** | In development (2026-07-07) | ***Baseline not held*** |

@@ -1,13 +1,13 @@
 ---
-title: Regional collaboration — progress report, 2025-08-01 to 2026-08-24
-compiled: 2026-08-24
-period: 2025-08-01 to 2026-08-24
+title: Regional collaboration — progress report, 2025-08-01 to 2026-08-25
+compiled: 2026-08-25
+period: 2025-08-01 to 2026-08-25
 subject: gov.regional
 places: DZA; AGO; BEN; BWA; BDI; CMR; CPV; CAF; TCD; COM; COG; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF; XSA; XWA
-record: e4b2091f4f6c
+record: 09d3cfb13ded
 ---
 
-# Regional collaboration: progress report, 2025-08-01 to 2026-08-24
+# Regional collaboration: progress report, 2025-08-01 to 2026-08-25
 
 *51 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -128,7 +128,7 @@ record: e4b2091f4f6c
 
 ## Egypt
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Chairmanship of the Arab AI governance and quantum working groups | Did not exist. The Arab Permanent Committee for AI and Emerging Technologies was created by a ministerial resolution at a session Egypt hosted in January 2026 and held its first founding meeting in May 2026 | [Egypt chairs the AI Governance Working Group, whose remit is a guidance framework for AI governance, technical tools and mechanisms for activating the Arab Charter for AI Ethics, and the Quantum Computing Working Group, whose remit is an Arab quantum strategy and quantum-cybersecurity deployment](https://sis.gov.eg/en/media-center/news/egypt-wins-chairmanship-of-ai-governance-quantum-computing-working-groups-at-arab-ai-committee/) | Advanced |
 | UN E-Government Development Index position | 95th of 193 with a score of 0.6699 on the 2024 index, inside the global top 100 but below Egypt's 2010 peak of 86th | [The same 2024 figure; no later reading is held at 2026-08-06](https://www.ecofinagency.com/telecom/2309-45916-south-africa-mauritius-and-tunisia-lead-e-government-progress-in-africa) | No change |
@@ -148,11 +148,11 @@ record: e4b2091f4f6c
 
 ## Ethiopia
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Horizon Fiber terrestrial corridor | Memorandum of intent (2024-12) | [In active deployment: end-to-end solution architecture finalised and site-material procurement complete on a multi-terabit terrestrial corridor linking Djibouti, Ethiopia, Sudan and Jeddah](https://techafricanews.com/2026/08/20/ethio-telecom-active-deployment-africa-middle-east-fibre-corridor/) | Advanced |
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Digital identity cooperation with Zambia | Did not exist | [Identity cooperation agreed](https://www.biometricupdate.com/202603/zambia-looking-for-mosip-system-integrator-to-support-digital-id-project) | Advanced |
 | Digital public infrastructure export to Mozambique | Did not exist | [Digital-ID, DPI-pilot, interoperability and cybersecurity support to Mozambique, with a joint working group](https://clubofmozambique.com/news/mozambique-and-ethiopia-sign-mou-to-boost-digital-identity/) | Advanced |
@@ -295,14 +295,14 @@ record: e4b2091f4f6c
 
 ## Nigeria
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | AfCFTA ADAPT cross-border DPI pilot | Pilot named (2025-11) | [Nigeria, Kenya and Morocco the first pilots](https://www.biometricupdate.com/202605/nigeria-kenya-morocco-selected-for-afcfta-digital-identity-and-dpi-rollout) | Advanced |
 | ECOWAS biometric identity card | Did not exist | [In issue](https://thewhistler.ng/nigeria-unveils-ecowas-id-card-to-boost-regional-travel-security/) | Advanced |
 | Onafriq and PAPSS wallet-based naira-to-Ghana payments | Did not exist | [Wallet-based naira-to-Ghana payments in pilot](https://techafricanews.com/2026/02/04/onafriq-and-papss-launch-africas-first-instant-naira-wallet-payments-from-nigeria-to-ghana/) | Advanced |
 | PAPSS participation | ***Baseline not held*** | [About US$3.7m for a half-year, on 3,246 transactions](https://www.vanguardngr.com/2026/01/nigerias-papss-cross-border-payments-falls-53-to-n5-6bn/) | ***Baseline not held*** |
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Abuja Declaration on Meaningful Connectivity | Did not exist | [Adopted with machinery to argue the position at the ITU](https://www.techwithafrica.com/2026/07/29/meaningful-connectivity-africa-atu-pushes-digital-inclusion/) | Advanced |
 | Digital Trade Regulators' Working Group | Did not exist | [Nigeria-led group harmonising market entry, licensing and regulatory cooperation; no output published](https://mediatalkafrica.com/296653/nigerias-oduwole-afcftas-mene-urge-acceleration-of-digital-services-trade-to-unlock-africas-180bn-economy/) | Advanced |
@@ -326,7 +326,7 @@ record: e4b2091f4f6c
 
 ## Senegal
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | ECOWAS regional statistical methodological guides | Did not exist | [Three guides adopted, for the industrial production index, the statistical business register and public-debt statistics; two further guides returned for finalisation](https://www.ecowas.int/ecowas-concludes-meeting-of-directors-general-of-national-statistical-institutes-by-adopting-new-guidelines-for-regional-statistical-harmonization/) | Advanced |
 | Founding membership of a global AI cooperation body | Did not exist | [One of 29 founding states of an intergovernmental AI-governance body](https://www.seneweb.com/fr/news/Technologie/intelligence-artificielle-le-senegal-parmi-les-29-etats-fondateurs-de-la-waico_n_498704.html) | Advanced |
@@ -406,7 +406,7 @@ record: e4b2091f4f6c
 
 ## Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-24 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | AfCFTA Secretariat | Council bureau chaired by Egypt; the digital trade protocol adopted but no forum convened on it | [Nigeria in the chair with digital trade among four stated priorities, a second digital trade forum held and a data-exchange system of the Secretariat's own launched](https://www.africannewspage.net/2026/07/nigeria-takes-afcfta-council-chair/) | Advanced |
 | Africa Internet Governance Forum | Baseline not held | [The fifteenth annual forum is scheduled for the Labadi Beach Hotel, Accra, from 2 to 5 November 2026, running a main forum alongside youth, parliamentarian and Day Zero tracks and the African School on Internet Governance; session times, venues and speakers were not published when the schedule was read](https://igf.africa/about-us/event-schedule/) | Advanced |
@@ -418,14 +418,14 @@ record: e4b2091f4f6c
 | African Financial Stability Report | ***Baseline not held*** | [Inaugural 2024-2025 edition endorsed for publication by the Association of African Central Banks' 47th Assembly of Governors at Yaounde on 2025-11-28 and released in July 2026, covering 46 countries on data as at December 2024 with analysis through 2025. Its payments chapter, built from 26 central banks' published data, records that about 67 per cent of the continent's payment infrastructures are national systems run by central banks and 56 per cent of established systems handle retail, and finds the landscape fragmented, interoperability still limited and the operationalisation of regional and pan-African systems facing continuing challenges](https://aacb.org/sites/default/files/afsc_pub_files/African%20Financial%20Stability%20Report-2025.pdf) | ***Baseline not held*** |
 | ATU Strategic Plan 2027-2031 | ***Baseline not held*** | [A draft Strategic Plan for 2027-2031 was circulated to member states for comment ahead of CPL-26; the draft is not published, and no adopted plan, budget or final acts of the conference are held](https://atuuat.africa/wp-content/uploads/2026/06/EN_Invitation-to-CPL-26-Related-Meetings.docx-REV-June-18-2.pdf) | ***Baseline not held*** |
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-24 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | AfCFTA Protocol on Digital Trade | State parties committed to expedite ratification and domestication under eight calls to action; no ratification count is published with them; the calls carry no enforcement mechanism, no ratification deadline and no named financing | [Eight annexes to the protocol were approved in February 2025 and the intellectual-property annexes adopted in February 2026, and all of them still await national ratification and incorporation; the July 2026 calls to action to expedite ratification carry no enforcement mechanism, no deadline and no named financing, and no ratification count is published](https://srnnews.com/the-media-line-africa-has-a-free-trade-deal-now-comes-the-hard-part/) | Advanced, unratified |
 | AFRINIC governance and receivership | Under an appeal-court order of 15 October 2024 directing the Official Receiver to complete the board election within two months, in substitution for the six months ordered in September 2023; no reconstituted board at the window's start, six months past that deadline | [The regional internet registry named a person to all eight board seats on 12 September 2025 while withholding every candidate vote tally its own election guidelines promised; the purported board and the undischarged receiver announced close collaboration from 13 October 2025 without publishing which office could sign, pay or veto, and no court order, delegation, bank mandate or responsibility matrix has been located behind it; the receiver appointed an audit firm on 13 October 2025 to audit three overdue financial years without an annual meeting, with no published appointment date, executed instrument, statutory route, remuneration decision or independence review; ordinary resolutions on US$3.29m of disputed legal spending, put to the June 2026 annual meeting, were still unresolved on the public record 46 days later; six regional members were named to a bylaws review committee without disclosing which constituents each represents; a member's challenge to the board's ratification of a policy draft remains open with an interim application declined and no reasoned merits decision; the appeal court set aside the registry's 2023 appeal for want of corporate authority without ruling on the receiver's permission or on statutory leave; and a governance committee of three elected and two board-appointed voting members was constituted on 17 August 2026 on terms running to the ends of 2027, 2028 and 2029](https://afrinic.net/constitution-of-the-afrinic-governance-committee.html) | Advanced, authority chain unresolved |
 | Algiers Declaration on African Telecommunications Sovereignty and Integrated Connectivity 2026-2030 | Did not exist | [Adopted as a continental position on integrated terrestrial, submarine and satellite infrastructure, local data centres, exchange points and cybersecurity; no work programme or text held](https://techreviewafrica.com/news/4639/african-ministers-adopt-algiers-declaration-on-telecommunications-sovereignty-and-connectivity) | Advanced |
 | State parties to the AfCFTA | Baseline not held | [49 of 54 signatories had deposited instruments of ratification as at July 2026, and Somalia is to become the 50th state party on depositing its instrument in September 2026, having agreed with the Secretariat a sequence running from ratification through domesticating the electronic tariff book and configuring preferential tariffs in its customs administration to a first shipment (2026-08)](https://au-afcfta.org/2026/08/from-ratification-to-the-first-shipment-the-afcfta-secretary-general-in-mogadishu/) | Advanced |
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-24 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Korea-Africa Economic Cooperation ministerial framework | Baseline not held | [Eighth ministerial set for Seoul under the theme of artificial intelligence and digital infrastructure, convened by the continental development bank with new co-financing expected](https://allafrica.com/stories/202608140360.html) | ***Baseline not held*** |
 

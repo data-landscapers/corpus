@@ -1,13 +1,13 @@
 ---
-title: Access to services — progress report, 2025-08-01 to 2026-08-24
-compiled: 2026-08-24
-period: 2025-08-01 to 2026-08-24
+title: Access to services — progress report, 2025-08-01 to 2026-08-25
+compiled: 2026-08-25
+period: 2025-08-01 to 2026-08-25
 subject: include.access
 places: AGO; BEN; BWA; BFA; BDI; CMR; CPV; TCD; COM; COG; CIV; COD; EGY; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE; XSA; XWA
-record: 9d35c5510394
+record: 5ffcb6834323
 ---
 
-# Access to services: progress report, 2025-08-01 to 2026-08-24
+# Access to services: progress report, 2025-08-01 to 2026-08-25
 
 *44 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -117,7 +117,7 @@ record: 9d35c5510394
 
 ## Egypt
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Financial inclusion rate, adults 15 and over | 76.3% of adults at June 2025, against 27.4% in 2016 | [79% at end-June 2026, 56.4 million active accounts of a 71.4 million eligible population, counting bank accounts, postal accounts, mobile wallets and prepaid cards; women 72.5% against 19.1% in 2016 and ages 15-35 58% against 36.3% in 2020, with a Second National Financial Inclusion Strategy for 2026-2030 in development](https://techafricanews.com/2026/08/11/egypts-financial-inclusion-rate-reaches-79-as-active-accounts-hit-56-4-million/) | Advanced |
 | Ration-card grievance data update at post offices | Did not exist; appeals against the 2026 eligibility criteria ran through the Digital Egypt platform only | [Data-update forms accepted at 500 post offices on Friday afternoons and Saturday mornings alongside the online route, with a daily adjudication committee, results notified by SMS, and every case checked against the state's official databases](https://www.elwatannews.com/news/details/8325610) | Advanced |
@@ -133,16 +133,16 @@ record: 9d35c5510394
 
 ## Ethiopia
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Smartphone affordability financing | Did not exist | [Up to two million handsets a year on long-term instalments](https://www.biometricupdate.com/202607/ethio-telecom-huawei-partner-to-expand-ethiopias-digital-infrastructure) | Advanced |
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Identity mandate for school enrolment and examinations | Did not exist | [Identity required for school enrolment and examinations](https://www.ena.et/web/eng/fayda-28-million) | Advanced |
 | Remote account opening on the digital identity | Did not exist | [Account opening on the digital identity alone](https://www.biometricupdate.com/202604/dashen-bank-launches-ethiopias-first-digital-id-based-accounts) | Advanced |
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Mobile connections and internet penetration | 85.4m connections at 63.8% of population (early 2025) | [93.2m connections at 68.4% (late 2025)](https://datareportal.com/reports/digital-2026-ethiopia) | Advanced |
 
@@ -167,7 +167,7 @@ record: 9d35c5510394
 
 ## Kenya
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Starlink school connectivity with GrowX and CEMASTEA | Did not exist | [30 schools across 30 districts reaching more than 32,000 students and about 1,000 teachers, with financial terms undisclosed](https://spaceinafrica.com/2026/06/10/starlink-connects-30-kenyan-schools-across-30-districts-in-initiative-originated-by-grow-x-education-and-cemastea/) | Advanced |
 | EU Last Mile Connectivity of Schools | EUR 9.8m committed | [Commitment unchanged, with no outturn published](https://d-portal.org/ctrack.html#view=act&aid=XI-IATI-EC_INTPA-2023-PC-25192) | No change |
@@ -254,18 +254,18 @@ record: 9d35c5510394
 
 ## Nigeria
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Ward-level enrolment drive | Did not exist | [Free enrolment in every ward, targeting under-enrolled groups](https://www.biometricupdate.com/202602/nigeria-launches-nationwide-drive-to-boost-digital-id-coverage-improve-inclusion) | Advanced |
 | Diaspora Non-Resident BVN | Live (2025-05) | [Remote diaspora onboarding](https://www.vanguardngr.com/2025/05/cbn-launches-diaspora-bvn-platform/) | No change |
 | NIN-keyed consumer credit scoring | Proposed (2025-06) | [Planned; consequences would extend to passport and licence renewal](https://www.thisdaylive.com/2025/06/17/credicorp-well-link-citizens-credit-scores-to-nin-for-a-centralised-credit-bureau/) | No change |
 | Correction of errors in the identity register | ***Baseline not held*** | [Excludes the about 72% of adults without smartphones](https://www.thisdaylive.com/2026/03/07/nigerians-groan-under-digital-identity-regime/) | ***Baseline not held*** |
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Agent-network microfinance | ***Baseline not held*** | [Agent-network microfinance for microenterprises and the unbanked](https://www.wearetech.africa/fr/fils/tech-stars/rukayat-kolawole-bello-connecte-les-exclus-de-la-banque-au-credit) | ***Baseline not held*** |
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | GoMed-UNFPA digital self-care platform (University of Lagos) | Did not exist | [Live for UoL students; routes to free contraceptives via Lagos State Ministry of Health/UNFPA supply chain, discreet delivery, SoftLife 247/U-Plan and GoMed pharmacists; expansion to other Lagos campuses planned](https://techafricanews.com/2026/08/10/gomed-and-unfpa-launch-digital-health-platform-for-university-of-lagos-students/) | Advanced |
 | Zero-rated access to education platforms | Did not exist | [Every option consulted on requires registration to control access](https://www.ncc.gov.ng/sites/default/files/2026-06/Consultation-Paper-on-Zero-Rated-Access-to-Educational-Platforms.pdf) | Advanced |
@@ -281,7 +281,7 @@ record: 9d35c5510394
 
 ## Senegal
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Un étudiant, un ordinateur student-computer programme | Running since 2017 | [Under a parliamentary commission of inquiry covering about 48 billion FCFA of commitments since 2017](https://www.seneweb.com/fr/news/Politique/un-etudiant-un-ordinateur-lassemblee-ouvre-une-enquete-sur-pres-de-48-milliards-de-fcfa_n_501999.html) | Regressed |
 | Digital training for blind and partially sighted people | ***Baseline not held*** | [700 blind and partially sighted people and twenty trainers trained since the programme's launch, with an advanced tier now running](https://www.seneweb.com/fr/news/Technologie/informatique-et-intelligence-artificielle-un-programme-pour-renforcer-lemployabilite-des-non-voyants_n_497443.html) | ***Baseline not held*** |
@@ -303,7 +303,7 @@ record: 9d35c5510394
 
 ## South Africa
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Bank-account means test across eight grants | Appeal opposed 2026-01-28 | [Undecided; SCA hearing 2026-08-25](https://www.dailymaverick.co.za/article/2026-07-25-a-peek-behind-south-africas-digitalised-grants-system/) | Stalled |
 | MICT SETA | ***Baseline not held*** | [Referred for assessment 2026-07-21](https://www.itweb.co.za/article/mict-seta-governance-concerns-referred-to-skills-authority/WnxpE74YZZdMV8XL) | Regressed |

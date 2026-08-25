@@ -1,13 +1,13 @@
 ---
-title: Digitalisation of sub-national government — progress report, 2025-08-01 to 2026-08-24
-compiled: 2026-08-24
-period: 2025-08-01 to 2026-08-24
+title: Digitalisation of sub-national government — progress report, 2025-08-01 to 2026-08-25
+compiled: 2026-08-25
+period: 2025-08-01 to 2026-08-25
 subject: digital.localgov
 places: DZA; AGO; BFA; CMR; TCD; COG; COD; EGY; SWZ; ETH; GAB; GMB; GIN; KEN; LSO; LBY; MWI; MLI; MOZ; NAM; NER; NGA; RWA; SOM; TZA; TGO; ZMB; ZWE
-record: b2a8c0799796
+record: e01dc2497981
 ---
 
-# Digitalisation of sub-national government: progress report, 2025-08-01 to 2026-08-24
+# Digitalisation of sub-national government: progress report, 2025-08-01 to 2026-08-25
 
 *28 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -63,7 +63,7 @@ record: b2a8c0799796
 
 ## Egypt
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Public shop licensing on Digital Egypt | Did not exist as a digital service | [A single national platform for the whole licensing process, with standardised procedures, real-time tracking, a maximum three-month approval time, immediate temporary operating permits, electronic licence issuance and deemed approval where an authority fails to respond; fees unified across participating agencies with the interior ministry cutting its own by 50%](https://techafricanews.com/2026/07/29/egypt-launches-digital-public-shop-licensing-system-on-digital-egypt-platform/) | Advanced |
 
@@ -75,7 +75,7 @@ record: b2a8c0799796
 
 ## Ethiopia
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Addis Ababa one-stop digital service centres | ***Baseline not held*** | [11 one-stop centres carrying more than 150 services from more than 25 integrated institutions; no volumes, cost or evaluation published](https://www.amn.gov.et/en/addis-ababas-digital-one-stop-platform-streamlines-government-services-bringing-over-150-services-under-one-digital-system-official/) | ***Baseline not held*** |
 
@@ -100,7 +100,7 @@ record: b2a8c0799796
 
 ## Kenya
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | County digital services register | None published | [All 47 counties scored out of 100 on citizen experience, revenue and back-office systems, data use and employment creation, from 98.3 for Murang'a to 28.8 for Wajir, with seven counties at Grade A and six at Grade D](https://vision2030.go.ke/wp-content/uploads/2026/02/ASSESSMENT-REPORT-AUTOMATION-EMPLOYMENT-IN-COUNTIES-23-02-2026.pdf) | Advanced |
 | Kirinyaga One Government Network fibre | ***Baseline not held*** | [102.4km of fibre connecting all five sub-counties, with nine public Wi-Fi hotspots live and 80 further sites surveyed](https://www.telecomreviewafrica.com/articles/general-news/28132-kenya-advances-digital-economy-with-fiber-wi-fi-and-youth-programs/) | ***Baseline not held*** |
@@ -157,7 +157,7 @@ record: b2a8c0799796
 
 ## Nigeria
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Enugu smart green schools | 260 schools announced (2024-02) | [Still 260 schools announced, at about ₦1.3-1.5bn each](https://www.thecable.ng/investigation-in-enugu-smart-schools-get-all-attention-but-concerns-remain-over-work-quality-part-ii/) | Stalled |
 | Enugu TradEX Programme | Did not exist | [Free digital storefronts, CAC registration support, digital-trade training and payment enablement open to 1,000 Enugu SMEs; cost, funder and selection method unstated](https://itpulse.com.ng/enugu-launches-tradex-programme-to-support-1000-smes-with-digital-trade/) | Advanced |
@@ -166,7 +166,7 @@ record: b2a8c0799796
 | Lagos digital house-numbering and addressing | Piloting (2025-06) | [Piloting](https://www.wearetech.africa/en/fils-uk/news/nigeria-lagos-unveils-digital-house-numbering-system-to-power-smart-city-vision) | No change |
 | Anambra OneGov state services platform | Not held | [In its second phase, expanding to digitise state government services and formalise small and medium enterprises; the platform logged about 14,000 visits over three weeks in July despite limited publicity](https://punchng.com/anambra-deepens-digital-push-targets-sme-formalisation/) | ***Baseline not held*** |
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Cross River Smart Surveillance Infrastructure Project | Did not exist | [Phase One approved for a Huawei-specified facial-recognition and plate-recognition network feeding a command centre in the Office of the State Security Adviser](https://www.thisdaylive.com/2026/07/31/c-river-set-to-launch-smart-surveillance-infrastructure-to-bolster-security-climate-resilience/) | Advanced |
 | AI open-contracting platform in three states | Live (2025-02) | [Running in three states](https://www.vanguardngr.com/2025/02/ai-integrated-platform-to-simplify-public-procurement-data-in-plateau-edo-ekiti) | No change |

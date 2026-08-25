@@ -1,13 +1,13 @@
 ---
-title: Strategies, plans and policies — progress report, 2025-08-01 to 2026-08-24
-compiled: 2026-08-24
-period: 2025-08-01 to 2026-08-24
+title: Strategies, plans and policies — progress report, 2025-08-01 to 2026-08-25
+compiled: 2026-08-25
+period: 2025-08-01 to 2026-08-25
 subject: gov.policy
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF; XSA; XWA
-record: 2a6bda084a49
+record: 23efa6f3403d
 ---
 
-# Strategies, plans and policies: progress report, 2025-08-01 to 2026-08-24
+# Strategies, plans and policies: progress report, 2025-08-01 to 2026-08-25
 
 *56 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -155,7 +155,7 @@ record: 2a6bda084a49
 
 ## Egypt
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Digital Egypt service-coverage targets | The platform was in operation; the base's last count before the window is more than 170 e-government services (2024-09-30), and no target series is on record | [The minister set out 242 services at 2026-07-21, a target of over 270 by end-2026 and about 450 by 2030, under a legislation and governance pillar alongside digital transformation, technology localisation, digital infrastructure and capacity building](https://www.undp.org/egypt/stories/5-facts-you-need-know-about-digital-public-infrastructure) | Advanced |
 | National data-centre strategy | Did not exist | [Under preparation, framed around data localisation, a regional storage and processing hub, digital sovereignty and digital-services exports, and reaffirmed by Cabinet on 2026-07-05 and by the minister on 2026-07-21; no publication date, draft text or governing instrument is held](https://gate.ahram.org.eg/News/5722522.aspx) | Advanced |
@@ -180,16 +180,16 @@ record: 2a6bda084a49
 
 ## Ethiopia
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Telecom liberalisation | Two operators (2025-08) | [Two operators; the argument has moved to whether the state is provider or regulator](https://www.thereporterethiopia.com/48528/) | No change |
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | National Digital Payments Strategy 2026-2030 | Did not exist | [Proposes the first outbound cross-border transfers, against 18.5tn birr a year](https://www.ena.et/web/eng/ethiopia-ndps-2026-2030) | Advanced |
 | Digital Government Strategy and Enterprise Architecture 2024-2029 | In force (2024-07) | [In force](https://www.ena.et/web/eng/digital-government-strategy-2024-2029) | No change |
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Digital Ethiopia 2030 | Did not exist | [Three pillars; targets of 128m subscriptions and an identity for every adult by 2030](https://www.ena.et/web/eng/digital-ethiopia-2030-launch) | Advanced |
 | National Data Governance Strategy | Did not exist | [In development; health the most fragmented sector, at 70+ siloed platforms](https://dial.global/ethiopias-approach-to-use-cases/) | Advanced |
@@ -240,7 +240,7 @@ record: 2a6bda084a49
 
 ## Kenya
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Draft National Data Governance Policy | Did not exist | [Draft of May 2026 schedules implementation from July 2026, with the personal and non-personal boundary undefined and the pricing method deferred](https://www.atlanticcouncil.org/blogs/econographics/kenya-wants-to-monetize-its-data-but-at-what-cost/) | Advanced |
 | Inter-Agency Digital Piracy Enforcement Framework | Did not exist | [Adopted, with the ICT ministry coordinating the copyright board, the regulator, the Media Council and the Copyright Tribunal](https://techafricanews.com/2026/07/31/kenya-unveils-national-framework-to-combat-kes-92-billion-digital-piracy-losses/) | Advanced |
@@ -352,17 +352,17 @@ record: 2a6bda084a49
 
 ## Nigeria
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | National Telecommunications Policy rewrite | Did not exist | [First rewrite since 2000, in drafting](https://businessday.ng/technology/article/why-global-hyperscalers-are-avoiding-nigeria/) | Advanced |
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Payments System Vision 2028 | Did not exist | [A three-year horizon from 2025 baselines of ₦1.2 quadrillion in electronic transactions, carrying 2028 targets of 95% financial inclusion, 5m QR merchant outlets and a 70% cut in fraud losses](https://www.cbn.gov.ng/PaymentsSystem/PSV2028.html) | Advanced |
 | National DPI framework and the 2027 services target | In development (2025-03) | [Still in development against a 2027 target](https://www.wearetech.africa/en/fils-uk/news/public-management/nigeria-unveils-plan-for-unified-digital-services-by-2027) | No change |
 | Presidential Committee on DPI Implementation | Constituted (2025-05) | [Operating](https://www.thisdaylive.com/2025/05/28/fg-inaugurates-presidential-committee-on-implementation-of-digital-public-infrastructure/) | No change |
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | National Digital Cloud Policy | Did not exist | [In force on publication apart from its sovereignty provisions, which await presidential approval. It makes cloud the default for new federal systems, with time-bound exemptions assessed by the IT development agency against published criteria and kept in a register; pools ministry demand through the government infrastructure company under framework agreements bought on a National Digital Marketplace, with the procurement bureau overseeing compliance; and sorts government and regulated data into four levels, Level 4 national-security data hosted only in Nigeria, Level 3 financial, health, biometric and identity data stored at rest in Nigeria, Level 2 hybrid by prior authorisation and Level 1 unrestricted. It imposes no general localisation on commercial data, and a regulator must apply to have a category designated sovereign. A US50m private cloud and data-centre investment target is set for 24 months](https://fmcide.gov.ng/federal-government-unveils-national-digital-cloud-policy-to-drive-investment-digital-sovereignty-and-government-transformation/) | Advanced |
 | Draft National Policy on Data and Cloud | In draft (2021) | [Five years a draft, while the localisation question was settled by circular instead](https://techcabal.com/2026/06/17/why-nigerias-ai-future-depends-on-breaking-government-data-silos/) | No change |
@@ -391,7 +391,7 @@ record: 2a6bda084a49
 
 ## Senegal
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Blueprint for value creation through data | Did not exist | [Under development, with working groups naming health, agriculture, transport, education, taxation, territorial administration, security and public services, and a secure inter-administration data-sharing governance framework planned](https://www.wearetech.africa/en/fils-uk/news/tech/senegal-elevates-data-and-ai-as-core-pillars-of-public-governance-reform) | Advanced |
 | Digital governance steering committee | Did not exist | [Created but not yet running; named as the body overseeing all digital-transformation initiatives](https://www.biometricupdate.com/202608/senegal-seeks-to-fully-align-sovereignty-vision-with-dpi-strategy) | Advanced |
@@ -425,18 +425,18 @@ record: 2a6bda084a49
 
 ## South Africa
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Draft National Policy on Data and Cloud | Draft | [Draft; date of instrument disputed](https://www.cambridge.org/core/books/digital-sovereignty-in-the-brics-countries/south-african-digital-sovereignty-at-the-crossroad-of-securitization-and-development/08C1119DE09286B84626FA49F6AD0586) | No change |
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Cost to Communicate Roadmap | Did not exist; no successor instrument after the 2019 Data Services Market Inquiry | [Study out to tender; no roadmap published](https://www.timeslive.co.za/news/business/2026-08-01-sas-data-price-puzzle/) | Advanced |
 | ICT indicators and scenario-modelling system to 2050 | ***Baseline not held*** | [Tendered by the communications department to steer the digital economy to 2050, framed against the National Digital Transformation Roadmap, the Presidential Commission on the Fourth Industrial Revolution and the Digital Economy Masterplan; no award, value or delivery date published](https://www.itweb.co.za/article/top-ict-tenders-dcdt-eyes-2050-digital-economy-vision/KPNG878NLorq4mwD) | ***Baseline not held*** |
 | Mega infrastructure project monitoring dashboard | Not held | [A joint push by the Presidency and the planning and evaluation department to fast-track a digital dashboard monitoring mega infrastructure projects, put before the parliamentary committee on the Presidency alongside a wider review of progress against the state-of-the-nation commitments](https://www.parliament.gov.za/press-releases/media-alert-committee-presidency-assess-progress-implementing-sona-commitments-and-tracking-mega-infrastructure-projects) | ***Baseline not held*** |
 | Operation Vulindlela Phase II | ***Baseline not held*** | Implemented (2026-07-31) | ***Baseline not held*** |
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | National AI policy | Cabinet March 2026, finalise FY2026/27 (as at 2026-02) | [No gazetted policy; cabinet Nov 2026 or Jan 2027](https://techcentral.co.za/radical-rethink-for-south-africas-national-ai-policy/284284/) | Regressed |
 
@@ -511,12 +511,12 @@ record: 2a6bda084a49
 
 ## Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-24 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Anti-IFFs Policy Tracker | Piloted eighteen months in Cote d'Ivoire, Ghana, Liberia, Namibia, Uganda and Zambia, built by Tax Justice Network Africa with the AU Commission's ETTIM department and the African Tax Administration Forum | [Endorsed for continental roll-out as a standing self-assessment instrument scoring anti-IFF policy, legal, institutional and data-sharing frameworks; no roll-out timetable, country list or governance body named](https://www.taxjusticeafrica.net/resources/news/landmark-win-africa-au-member-states-endorse-continental-roll-out-anti-iffs-policy) | Advanced |
 | Africa Technology Policy Tracker | ***Baseline not held*** | [A continental register built by the Carnegie Endowment with the African Telecommunications Union, consolidating national digital-economy laws, policies and regulations across infrastructure, platforms, skills and innovation; it indexes adopted documents only, weights nothing and assesses neither implementation nor rights compatibility. The counts reported on 2026-07-30 are 60 documents for Nigeria, 59 for Rwanda and 19 for Zambia](https://eastafricanpolicyobserver.org/commentary/new-africa-tech-policy-insights-on-nigeria-rwanda-and-zambia-ictworks/) | ***Baseline not held*** |
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-24 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | AUDA-NEPAD island economies programme | Did not exist | [A country-owned framework for seven island states built around industrialisation, digitalisation, corridors and AI, in partnership with the Republic of Korea; the ministerial communique adopting it is not published](https://www.nepad.org/news/auda-nepad-launches-first-continental-programme-dedicated-africas-island-economies) | Advanced |
 

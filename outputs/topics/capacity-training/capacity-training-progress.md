@@ -1,13 +1,13 @@
 ---
-title: Training and skills — progress report, 2025-08-01 to 2026-08-24
-compiled: 2026-08-24
-period: 2025-08-01 to 2026-08-24
+title: Training and skills — progress report, 2025-08-01 to 2026-08-25
+compiled: 2026-08-25
+period: 2025-08-01 to 2026-08-25
 subject: capacity.training
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XWA
-record: 6bb57220cac2
+record: 6f536df70ca9
 ---
 
-# Training and skills: progress report, 2025-08-01 to 2026-08-24
+# Training and skills: progress report, 2025-08-01 to 2026-08-25
 
 *51 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -140,7 +140,7 @@ record: 6bb57220cac2
 
 ## Egypt
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | AI Capacity Building Initiative for Universities | Running since 2022 under a ministry agreement with a technology vendor, with three rounds completed and no cumulative figure published at 2025-08-01 | [Fourth round trained 1,090 students from 10 public, national and private universities producing 445 projects, plus a renewable-energy hackathon of 105 students in 21 teams; cumulative since 2022 reported as 2,710 students and 763 projects](https://gate.ahram.org.eg/News/5882834.aspx) | Advanced |
 | Cybersecurity SuperHero Academy | Two editions delivered, whose combined intake the national telecommunications institute states the third edition's target roughly matches; the base carries no dates or intake figures for them | [Third edition targeting more than 6,000 trainees across 17 governorates in three age-banded stages from age 8 upward, delivered through institute premises and innovation centres, with the national emergency readiness centre, the regulator and two technology partners](https://gate.ahram.org.eg/News/5725761.aspx) | Advanced |
@@ -202,7 +202,7 @@ record: 6bb57220cac2
 
 ## Kenya
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | HerSpace | Did not exist | [Training 150 justice-sector officials on digital evidence, with no value disclosed](https://www.kictanet.or.ke/kensafespace-project-impact-digital-rights-kenya/) | Advanced |
 | Mastercard Foundation EdTech Fellowship | Eight-month cohorts for growth-stage companies | [Cohort 4 runs 18 months for early-stage companies, offering each up to US$100,000 in equity-free funding and scoped to learners with disabilities, refugee and rural communities, and girls and young women; 36 Kenyan companies since the 2023 launch, on iHUB's figures](https://techafricanews.com/2026/07/29/ihub-selects-12-kenyan-edtech-startups-for-mastercard-foundation-fellowship/) | Advanced |
@@ -303,17 +303,17 @@ record: 6bb57220cac2
 
 ## Nigeria
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Diaspora health-workforce registry | Did not exist | [A register standing on no stated legal basis](https://fmino.gov.ng/fg-commends-nigerian-health-professionals-in-diaspora-for-strengthening-healthcare-delivery/) | Advanced |
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Deep-technology teaching laboratories in a private university | Did not exist | [Planned; lab count, cost and funding not stated](https://itweb.africa/article/nigeria-expands-deep-tech-skills-pipeline/nWJadvbND1yvbjO1) | Advanced |
 | Microsoft AI training commitment | Committed (2025-02) | [US$1 a trainee, which drew feasibility scepticism](https://techcabal.com/2025/02/19/microsoft-pledges-1m) | No change |
 | Talent-export platform partnership | Running (2025-04) | [Running](https://www.wearetech.africa/en/fils-uk/news/public-management/nitda-partners-with-doballi-to-boost-employment-for-nigerian-tech-talents) | No change |
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Abuja Centre for Entrepreneurship training-of-trainers programme | Did not exist | [First KOICA-backed cohort of trainers in business management and artificial intelligence, building a trainer pool for the MSME sector; cohort size and cost not stated](https://www.linkedin.com/posts/koica-nigeria_koica-koicanigeria-ace-activity-7491490192424439808-ToJ3) | Advanced |
 | Africa AI Upskilling Programme | Did not exist | [US$1.1m from Google.org to FATE Foundation for a train-the-trainer AI curriculum at 10 Nigerian universities, with the African Institute for Mathematical Sciences](https://businessday.ng/education/article/google-commits-1-1m-to-ai-training-at-10-nigerian-universities/) | Advanced |
@@ -338,7 +338,7 @@ record: 6bb57220cac2
 
 ## Senegal
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Sovereign-cloud engineer training | Did not exist | [About 100 engineers to be trained in advanced cloud technologies, with infrastructure in testing and training not begun](https://africabusinessinsight.com/senegal-partners-alibaba-to-build/) | Advanced |
 | Young Africa Works Senegal | US$200m committed, the programme running to 2030 | [US$200m committed; no disbursement, beneficiary or mid-term figure is held](https://mastercardfdn.org/en/news/mastercard-foundation-to-enable-three-million-youth-to-access-employment-opportunities-in-senegal/) | No change |
@@ -368,7 +368,7 @@ record: 6bb57220cac2
 
 ## South Africa
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | National Digital and Future Skills Strategy 2020 | 2020 strategy in force | [Under review; no replacement](https://pmg.org.za/committee-question/39587/) | Stalled |
 | Vendor digital-skills programme in Northern Cape schools | Did not exist | [A networking vendor's academy and a private group agreed with the provincial education department to take networking, cyber security and artificial-intelligence courses into 235 schools, as extracurricular classes for grades 10 to 12 beginning February 2027, inside a global skills-to-jobs programme the vendor states has trained more than 600,000 South Africans](https://www.itweb.co.za/article/cisco-hanley-group-bring-digital-skills-training-to-northern-cape-schools/raYAyqorGPEMJ38N) | Advanced |

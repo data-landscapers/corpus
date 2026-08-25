@@ -1,13 +1,13 @@
 ---
-title: Legislation and regulation — progress report, 2025-08-01 to 2026-08-24
-compiled: 2026-08-24
-period: 2025-08-01 to 2026-08-24
+title: Legislation and regulation — progress report, 2025-08-01 to 2026-08-25
+compiled: 2026-08-25
+period: 2025-08-01 to 2026-08-25
 subject: gov.legislate
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XSA; XWA
-record: f28e189c684d
+record: 3bd53e629b48
 ---
 
-# Legislation and regulation: progress report, 2025-08-01 to 2026-08-24
+# Legislation and regulation: progress report, 2025-08-01 to 2026-08-25
 
 *56 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -161,7 +161,7 @@ record: f28e189c684d
 
 ## Egypt
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Child national ID card proposal | Not on record | [A member's proposal for a national identity card for children carrying a photograph from age five, requiring amendment of the Child Law, discussed at two workshops; recommendations included a unified national child-data platform, a full biometric identification system for children, and linkage between health, education and other government databases. No bill has been tabled](https://www.youm7.com/story/2026/4/19/%D8%A7%D9%84%D8%AA%D9%86%D8%B3%D9%8A%D9%82%D9%8A%D8%A9-%D8%AA%D8%B9%D9%82%D8%AF-%D9%88%D8%B1%D8%B4%D8%AA%D9%8A-%D8%B9%D9%85%D9%84-%D9%84%D9%85%D9%86%D8%A7%D9%82%D8%B4%D8%A9-%D9%85%D9%82%D8%AA%D8%B1%D8%AD-%D8%A5%D8%B5%D8%AF%D8%A7%D8%B1-%D8%A8%D8%B7%D8%A7%D9%82%D8%A9-%D8%B1%D9%82%D9%85-%D9%82%D9%88%D9%85%D9%8A/7382985) | Advanced, a member's proposal only |
 | Electronic service of judicial notices | Not on record | [The postal service's digital postbox becomes the official platform for electronic delivery of judicial notices to individuals, companies and institutions, bound to the user's national identification number and carrying identity verification, electronic signatures and seals, encryption, delivery timestamps and correspondence tracking, so that a registered electronic message has the same legal validity as registered paper mail](https://techafricanews.com/2026/08/05/egypt-post-and-supreme-judicial-council-digitise-judicial-notices-with-bareedi/) | Advanced |
@@ -199,11 +199,11 @@ record: f28e189c684d
 
 ## Ethiopia
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Telecommunications Licensing Directive 792/2021 | In force (2021-07) | [In force; unified operator licences awarded by competitive bidding and valid fifteen years](https://www.eca.et/wp-content/uploads/2022/10/2022-03-24T06-45-04.775ZTelecommunications-Licensing-Directive-No.-792-2021-English.pdf) | No change |
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Berne Convention accession | Did not exist | [Draft ratification proclamation submitted to the Council of Ministers; Ethiopia not yet a party](https://www.thereporterethiopia.com/52113/) | Advanced |
 | Copyright Proclamation 410/2004 online-infringement amendment | Did not exist | [Draft would add internet service provider duties, procedures for blocking infringing sites and a rights-holder take-down notice to the 2004 proclamation](https://www.thereporterethiopia.com/52113/) | Advanced |
@@ -273,7 +273,7 @@ record: f28e189c684d
 
 ## Kenya
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Access to Information (Amendment) Bill | Did not exist | [Would criminalise sharing classified information through personal messaging or email, on four classification tiers](https://nation.africa/kenya/news/new-bill-sharing-state-secrets-on-whatsapp-emails-could-land-you-in-jail-5516338) | Advanced |
 | AI Governance Act | Did not exist | [Named in the draft policy as the statutory backstop, with no text, sponsor or date](https://ict.go.ke/sites/default/files/AI%20Policy%20Doc/draft-kenya-ai-and-emerging-technologies-policy-2026.pdf) | Advanced |
@@ -408,11 +408,11 @@ record: f28e189c684d
 
 ## Nigeria
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Cybercrimes (Amendment) Act 2024 | In force (2024) | [In force; lawyers argue it is misapplied against dissent](https://www.vanguardngr.com/2025/08/how-misuse-of-cybercrime-act-cost-nigeria-n1-1trn-in-7-yrs/) | No change |
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | 7.5% VAT on electronic banking fees | Did not exist | [7.5% VAT on electronic banking fees](https://www.vanguardngr.com/2026/01/fg-directs-banks-fintechs-to-collect-7-5-vat-on-electronic-banking-fees/) | Advanced |
 | CBN payments data-localisation directive | Did not exist | [Binding from 2027-01-01; no power sequencing published](https://complyan.com/nigerias-cbn-data-localisation-directive-what-banks-and-fintechs-must-do-before-2027/) | Advanced |
@@ -426,7 +426,7 @@ record: f28e189c684d
 | Investments and Securities Act 2025 treatment of crypto | In force (2025-05) | [Crypto inside the securities perimeter](https://techcabal.com/2025/05/09/investments-and-securities-act-nigeria-2025/) | No change |
 | Judicial communique on digital evidence and artificial intelligence | ***Baseline not held*** | [Fifty-four judicial officers called for stricter authentication standards for AI-generated evidence and a review of the digital-evidence, cybercrime and privacy statutes, named genuine evidence dismissed as AI-fabricated as an emerging problem, questioned whether clicking agreement constitutes meaningful consent, and asked for electronic case management, virtual hearings and privacy-protected judicial platforms](https://www.vanguardngr.com/2026/08/digicivic-trains-judicial-officers-on-digital-rights/) | ***Baseline not held*** |
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | FCCPC competition probe of platforms and AI firms | Did not exist | [Competition law used against uncompensated AI training on Nigerian journalism](https://techmoonshot.com/2026/07/10/why-nigeria-is-investigating-meta-google-x-and-ai-firms/) | Advanced |
 | Framework for Compensation of Consumers | Did not exist | [Automatic airtime credit in listed local government areas, with the qualifying thresholds unpublished](https://www.ncc.gov.ng/frequently-asked-questions/framework-compensation-consumers) | Advanced |
@@ -439,7 +439,7 @@ record: f28e189c684d
 | Nigeria Tax Act 2025 and Tax Administration Act 2025 | In force (2025) | [The statutory base for the virtual-asset tax circular](https://techcabal.com/2026/01/12/nigeria-crypto-tax-tin-nin/) | No change |
 | NIMC Act 2026 substantive provisions | Not held | [On a law firm's reading of the Act: the identity commission becomes the root certification authority for a national public key infrastructure and the national biometric-data repository; use of the national identification number is made mandatory across passports, banking, telecommunications and land dealings, while the Act states that proof of identity is not proof of eligibility or of citizenship; and unauthorised database access carries penalties of at least NGN10m or five years for an individual and NGN20m for a body corporate](https://www.mondaq.com/nigeria/constitutional-administrative-law/1829270/the-national-identity-management-commission-establishment-act-2026-key-new-provisions) | ***Baseline not held*** |
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Risk-based AI regime in the digital-economy bill | Did not exist | [High-risk systems would face annual impact assessments; the bill is not passed](https://itweb.africa/article/nigeria-plans-to-introduce-ai-regulations/DZQ587V8lQDqzXy2) | Advanced |
 
@@ -462,7 +462,7 @@ record: f28e189c684d
 
 ## Senegal
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Critical information infrastructure bill | Did not exist | [Debated in plenary, with deputies pressing government on the offshore hosting of citizens' personal data — one objecting that records as sensitive as blood groups are entrusted to foreign firms and that national identity cards are managed by foreigners, another warning of the risk a cyberattack would pose to continuity of care — and the telecommunications minister arguing that protecting the digital estate is a duty of the state rather than an option](https://aps.sn/lhebergement-des-donnees-personnelles-au-coeur-de-la-pleniere-sur-la-securite-numerique-au-senegal/) | Advanced |
 | Critical-infrastructure protection legal framework | None held | [Law n° 25/2026 on the protection of critical information infrastructure and digital security was adopted unanimously by the National Assembly on 2026-08-20, seven days after reaching its intercommission. On the ministry's account it grades obligations by risk - ordinary networks and systems on standard requirements, critical infrastructure on enhanced ones covering monitoring, data backup, encryption of sensitive information, business continuity and disaster recovery, and regular resilience testing - establishes a National Cybersecurity Authority, a national computer emergency response team, sectoral teams and cybersecurity operations services, mandates in-country storage of state-sensitive data, and folds in technology-neutral standards for the AI era and the child-online-protection plan PAPEL. No promulgation date, gazette reference or text is published](https://www.seneweb.com/fr/news/Politique/securite-numerique-lassemblee-nationale-adopte-a-lunanimite-le-projet-de-loi-sur-les-infrastructures-critiques_n_501981.html) | Advanced |
@@ -494,15 +494,15 @@ record: f28e189c684d
 
 ## South Africa
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Electronic Communications Amendment Bill | ***Baseline not held*** | [Tabled by the Minister of Communications and Digital Technologies on 2026-04-20; it would empower the local-government minister to make a national standard by-law on rapid deployment of electronic communications networks, introduce a use-it-or-share-it principle for spectrum, regulate roaming and mobile virtual network operator services, improve the facilities-leasing framework, provide for wholesale pricing rules and strengthen competition regulation. The Bill was published with its explanatory summary and prior notice of introduction in Government Gazette No. 54548 of 20 April 2026, and introduced and referred to the Portfolio Committee on Communications and Digital Technologies on 22 April 2026. Written submissions were extended by one month on 2026-08-20, to 16:00 on 2026-09-21, superseding the 2026-08-21 deadline](https://www.parliament.gov.za/press-releases/communications-committee-extends-deadline-public-input-electronic-communications-amendment-bill) | Advanced |
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | National Identification and Registration Bill | ***Baseline not held*** | [Still before Parliament](https://www.polity.org.za/article/opinion-south-africas-digital-identity-regulations-a-governance-crossroads-2026-05-29) | ***Baseline not held*** |
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Capital Flow Management Regulations and Crypto Asset Manual | Did not exist | [Both in draft; manual comments to end-September 2026; the Treasury and the central bank published a draft crypto asset manual for cross-border activities for comment to 30 September 2026, setting authorisation and reporting rules for crypto asset service providers and defining cross-border crypto flows](https://cioafrica.co/south-africa-proposes-new-rules-for-cross-border-crypto-transactions/) | Advanced |
 | Copyright Amendment Bill | ***Baseline not held*** | [Constitutional Court ruling 2026-06](https://sajim.co.za/index.php/sajim/article/view/2112) | Advanced |
@@ -514,7 +514,7 @@ record: f28e189c684d
 | Breach notification rate | ~284 per month (Apr–Nov 2025) | [~263 per month (Q1 2026)](https://www.itweb.co.za/article/inforeg-raises-alarm-as-data-breaches-hit-788-in-q1/Pero3MZ3wzoqQb6m) | No change |
 | National Open Science Policy | ***Baseline not held*** | Implemented (undated) | ***Baseline not held*** |
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Conduct of Financial Institutions Bill | ***Baseline not held*** | In development (2026-01-30) | ***Baseline not held*** |
 

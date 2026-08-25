@@ -1,13 +1,13 @@
 ---
-title: Data protection — progress report, 2025-08-01 to 2026-08-24
-compiled: 2026-08-24
-period: 2025-08-01 to 2026-08-24
+title: Data protection — progress report, 2025-08-01 to 2026-08-25
+compiled: 2026-08-25
+period: 2025-08-01 to 2026-08-25
 subject: gov.protect
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF; XSA; XWA
-record: cf8f607177b5
+record: 94eb2a6c1a7c
 ---
 
-# Data protection: progress report, 2025-08-01 to 2026-08-24
+# Data protection: progress report, 2025-08-01 to 2026-08-25
 
 *56 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -141,7 +141,7 @@ record: cf8f607177b5
 
 ## Egypt
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Data-protection compliance guidelines and templates | Did not exist; no regulator guidance is recorded in the base before 2026 | [Ten guidelines published, covering consent, lawful bases of processing, electronic direct marketing, the data protection officer, officer categories, data users, principles, records of processing activities, licences and permits, and privacy notices, together with breach-notification and records templates](https://www.techhiveadvisory.africa/insights/bimonthly-update-on-privacy-in-africa-january-february-2026) | Advanced |
 | Face-print collection for mobile line registration | Identity verification for a mobile line without published biometric collection | [Compulsory face-print collection by private operators for mobile line registration, objected to by a member of the Senate's constitutional and legislative affairs committee on the ground that identity can be verified by less intrusive means and that the 2020 personal data protection law classes biometrics as sensitive data](https://www.parlgate.com/95550) | Regressed |
@@ -171,7 +171,7 @@ record: cf8f607177b5
 
 ## Ethiopia
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Data request to diplomatic missions | Did not exist | [A foreign ministry note asking all accredited diplomatic missions and international and regional organisations to submit lists and addresses of every Ethiopian and foreign employee without diplomatic privileges, together with tenant and landlord details](https://birrmetrics.com/foreign-ministry-asks-diplomatic-missions-for-staff-and-property-records/) | Advanced |
 | Data sharing arrangement under the health memorandum | Did not exist | [The two governments intend to negotiate an arrangement for exchanging data on the memorandum's long-term performance and for accountability to the United States Congress, expected to run two years beyond the five-year term; a rights organisation's reading of the seven signed memoranda puts Ethiopia among five whose text requires unilateral sharing of specimens and pathogen-sequencing data, and all seven as requiring broad audit access. No text is published, and the State Department briefly posted a subset in March 2026, then removed access](https://www.hrw.org/news/2026/06/08/human-rights-assessment-of-the-2025-2026-us-bilateral-health-agreements) | Advanced |
@@ -222,7 +222,7 @@ record: cf8f607177b5
 
 ## Kenya
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Communications Authority escalated consumer complaints | 362 complaints in October to December 2025 | [670 escalated complaints in April to June 2026, up from 563 in the prior quarter, with 548 or 82% resolved; data services drew 195 complaints against 44 for voice, data billing and charges was the largest single category at 75, and the Authority separately logged 19 data-breach complaints](https://techcabal.com/2026/08/06/data-billing-and-fraud-top-kenyas-telecom-consumer-complaints/) | Regressed |
 | Constitutional Petition E095 of 2026 | Did not exist | [Decided, awarding 11 petitioners KES 900,000 each for a sustained and systematic compromise of subscriber data](https://www.the-star.co.ke/news/2026-08-03-gra-probes-licensed-betting-firms-over-alleged-data-breach-claims) | Advanced |
@@ -345,7 +345,7 @@ record: cf8f607177b5
 
 ## Nigeria
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | AI-enabled online gender-based violence tracker | Did not exist | [Live, with more than 20,000 verified cases already documented at launch](https://www.thisdaylive.com/2026/08/01/pan-african-womens-day-nigeria-gets-first-ai-enabled-ogbv-tracker-documents-20000-cases/) | Advanced |
 | America First Global Health Strategy MOU | Did not exist | [Signed 2025-12-19; US$1,953,530,560 planned United States support against Nigeria's US$2,975,634,499. A rights organisation's reading of the seven signed memoranda puts Nigeria among five whose text requires unilateral sharing of specimens and pathogen-sequencing data, and among two whose data-sharing arrangement is deferred to an unpublished Appendix 5, with all seven requiring broad audit access](https://www.hrw.org/news/2026/06/08/human-rights-assessment-of-the-2025-2026-us-bilateral-health-agreements) | Advanced |
@@ -384,7 +384,7 @@ record: cf8f607177b5
 
 ## Senegal
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Bill revising the personal data law | Reform reported as in the circuit, awaiting a parliamentary vote, with no text and no timetable | [The bill and implementing decree in a finalisation workshop, rewritten against the data and AI strategies; still no adoption date or published text](https://lequotidien.sn/mbour-gouvernance-des-donnees-et-intelligence-artificielle-vers-un-nouveau-dispositif-normatif/) | Advanced |
 | Cooperation convention with Benin's protection authority | Did not exist | [In force on five pillars: technical and legal capacity, shared regulatory practice, user awareness, cross-border data-flow cooperation and a concerted African position](https://lanation.bj/numerique/protection-des-donnees-personnelles-le-benin-et-le-senegal-scellent-une-alliance-strategique-a-cotonou) | Advanced |
@@ -416,7 +416,7 @@ record: cf8f607177b5
 
 ## South Africa
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Protection of Personal Information Act and Information Regulator | ***Baseline not held*** | [The regulator has taken its challenge to newspaper publication of school-leaving results to the Supreme Court of Appeal after losing three bids in the high court, arguing the education department is obliged to release results directly to learners and has no contract or legal basis for press publication; it also told a webinar on 18 August that it has no capability to test external systems for privacy compliance before launch and is working with the justice department to amend the Act to cover artificial intelligence and privacy by design](https://www.businessday.co.za/news/law/2026-08-17-information-regulator-goes-to-the-sca-in-new-bid-to-stop-publication-of-matric-results/) | Advanced |
 | Consumer Protection Act direct-marketing opt-out registry | ***Baseline not held*** | In development (2026-04-20) | ***Baseline not held*** |
@@ -498,7 +498,7 @@ record: cf8f607177b5
 
 ## Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-24 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Signatures and ratifications of the Malabo Convention | 21 of 55 signed, 20 ratified or acceded and 20 deposited (2026-02-02, the depositary's register) | [Equatorial Guinea, where the Convention was adopted and after whose then-capital it is named, signed on 2026-07-28 and has not deposited an instrument of ratification](https://au.int/sites/default/files/treaties/29560-sl-AFRICAN_UNION_CONVENTION_ON_CYBER_SECURITY_AND_PERSONAL_DATA_PROTECTION_0.pdf) | Advanced, marginal |
 | Malabo Convention | In force, and the continental benchmark against which national data-protection regimes are measured | [Unchanged in text; a majority of the Union's 55 members remain outside it twelve years after adoption](https://au.int/sites/default/files/treaties/29560-sl-AFRICAN_UNION_CONVENTION_ON_CYBER_SECURITY_AND_PERSONAL_DATA_PROTECTION_0.pdf) | No change |

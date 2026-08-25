@@ -1,13 +1,13 @@
 ---
-title: Technical Capacity — progress report, 2025-08-01 to 2026-08-24
-compiled: 2026-08-24
-period: 2025-08-01 to 2026-08-24
+title: Technical Capacity — progress report, 2025-08-01 to 2026-08-25
+compiled: 2026-08-25
+period: 2025-08-01 to 2026-08-25
 subject: infra.capacity
 places: BWA; CMR; TCD; COG; GNQ; GHA; GIN; KEN; LSO; MWI; MAR; MOZ; NAM; NGA; RWA; SEN; SOM; ZAF; TZA; ZWE; XSA
-record: 7e3fb8062154
+record: 19e75f55d70a
 ---
 
-# Technical Capacity: progress report, 2025-08-01 to 2026-08-24
+# Technical Capacity: progress report, 2025-08-01 to 2026-08-25
 
 *21 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -59,7 +59,7 @@ record: 7e3fb8062154
 
 ## Kenya
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Kenya Advanced Institute of Science and Technology | KSh 2.3bn appropriated in FY2025/26 for continued construction at Konza | [Charter issued and operationalisation under review with Korea Exim Bank; no FY2026/27 allocation disclosed and no commitment amount stated](https://techafricanews.com/2026/08/03/kenya-advances-korea-partnership-to-boost-ai-research-and-digital-infrastructure/) | Stalled |
 | Broadcast Logger and CA Broadcast Monitoring Room | ***Baseline not held*** | [Nationwide deployment complete with a Broadcast Monitoring Room at the CA Centre](https://techafricanews.com/2026/07/27/communications-authority-of-kenya-and-kfcb-complete-joint-broadcast-monitoring-training/) | ***Baseline not held*** |
@@ -100,7 +100,7 @@ record: 7e3fb8062154
 
 ## Nigeria
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | NIMC platform capacity for compulsory NIN use | ***Baseline not held*** | [Servers, databases and networks not sized for compulsory NIN use across 14 sectors](https://punchng.com/pros-cons-of-amended-nimc-act/) | ***Baseline not held*** |
 
@@ -112,7 +112,7 @@ record: 7e3fb8062154
 
 ## Senegal
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Data centres operating in Senegal | ***Baseline not held*** | [Seven at mid-2025, level with Ghana, against South Africa's 56, Kenya's 19 and Nigeria's 17](https://www.seneweb.com/fr/news/16/du-gabon-au-senegal-comment-lafrique-accelere-sur-les-data-centers-pour-ne-plus-brader-ses-donnees_n_500226.html) | ***Baseline not held*** |
 
@@ -124,7 +124,7 @@ record: 7e3fb8062154
 
 ## South Africa
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | National Integrated Cyber Infrastructure System | ***Baseline not held*** | [Operating; CHPC at maximum capacity, expansion required](https://www.parliament.gov.za/press-releases/media-statement-committee-science-visits-national-integrated-cyber-infrastructure-system) | ***Baseline not held*** |
 

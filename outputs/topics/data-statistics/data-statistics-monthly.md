@@ -1,10 +1,10 @@
 ---
 title: National statistics — monthly update, July 2026
-compiled: 2026-08-24
-period: 2026-07-01 to 2026-08-24
+compiled: 2026-08-25
+period: 2026-07-01 to 2026-08-25
 subject: data.statistics
 places: AGO; BEN; BWA; CMR; CPV; CAF; TCD; COM; COG; COD; EGY; GNQ; SWZ; GAB; GMB; GHA; GNB; LBY; MDG; MWI; MLI; MRT; MOZ; NAM; NER; NGA; SEN; SYC; SSD; TUN; UGA; ZWE
-record: a32ea80b8e68
+record: a66f65fbff02
 ---
 
 # National statistics: monthly update, July 2026

@@ -1,13 +1,13 @@
 ---
-title: Public debate and participation in policymaking — progress report, 2025-08-01 to 2026-08-24
-compiled: 2026-08-24
-period: 2025-08-01 to 2026-08-24
+title: Public debate and participation in policymaking — progress report, 2025-08-01 to 2026-08-25
+compiled: 2026-08-25
+period: 2025-08-01 to 2026-08-25
 subject: gov.discourse
 places: BEN; BFA; BDI; CMR; CAF; TCD; COM; CIV; COD; EGY; SWZ; GAB; GHA; LSO; LBR; MLI; MUS; MAR; NAM; NER; RWA; STP; SEN; SYC; ZAF; TZA; TGO; UGA; ZMB; ZWE; XWA
-record: 953de29926ae
+record: d134a3ce498e
 ---
 
-# Public debate and participation in policymaking: progress report, 2025-08-01 to 2026-08-24
+# Public debate and participation in policymaking: progress report, 2025-08-01 to 2026-08-25
 
 *31 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -76,7 +76,7 @@ record: 953de29926ae
 
 ## Egypt
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Council of State digital transformation plan | The base carries no record that the administrative-justice branch had a digitisation programme | [The head of the Council of State told a meeting of administrative-court circuit presidents that the Council continues to implement an integrated digital transformation plan, developing its information infrastructure and adopting current technology to speed litigation; no named system, date, figure or deliverable is stated](https://www.youm7.com/story/2026/8/3/%D8%B1%D8%A6%D9%8A%D8%B3-%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9-%D9%8A%D8%AA%D8%A7%D8%A8%D8%B9-%D8%A7%D9%84%D9%82%D8%B6%D8%A7%D8%A1-%D8%A7%D9%84%D8%A5%D8%AF%D8%A7%D8%B1%D9%8A-%D9%88%D9%8A%D8%A4%D9%83%D8%AF-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%86%D8%A9-%D8%A3%D8%B3%D8%A7%D8%B3-%D8%A7%D9%84%D8%B9%D8%AF%D8%A7%D9%84%D8%A9/7501770) | ***Baseline not held*** |
 | VAT credit-refund period reduction | The base carries no earlier statement of the refund period or of the proposal | [A proposed cut of the credit-refund period to four months for taxpayers and three for small and medium enterprises is still awaiting its legislative steps; a tax association board member added that the reduction will not meet its objects unless the operational problems obstructing proof of balances are resolved first](https://www.alborsaanews.com/2026/07/29/1982823) | ***Baseline not held*** |
@@ -159,7 +159,7 @@ record: 953de29926ae
 
 ## Senegal
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Social-media regulation workstream | ***Baseline not held*** | [Under way since 2024; no bill, decree or timetable named, and an observatory is a proposal](https://lesoleil.sn/actualites/technologie/reseaux-sociaux-et-intelligence-artificielle-luniversite-cheikh-ahmadoul-khadim-ucak-au-chevet-des-defis-communautaires-lies-au-numerique/) | ***Baseline not held*** |
 
@@ -172,7 +172,7 @@ record: 953de29926ae
 
 ## South Africa
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Policy brief on information integrity and human rights | ***Baseline not held*** | [Published by the rights commission, and launched with a deputy justice minister's statement that government should not become the custodian of truth on disinformation while the information environment should not be left to private platforms' algorithms, grounded in sections 16, 19 and 32 of the Constitution](https://www.justice.gov.za/m_speeches/2026/20260819-SAHRC-Online-Stakeholder-Engagement-DMin.html) | ***Baseline not held*** |
 

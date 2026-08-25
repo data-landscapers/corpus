@@ -1,13 +1,13 @@
 ---
-title: Research institutions — progress report, 2025-08-01 to 2026-08-24
-compiled: 2026-08-24
-period: 2025-08-01 to 2026-08-24
+title: Research institutions — progress report, 2025-08-01 to 2026-08-25
+compiled: 2026-08-25
+period: 2025-08-01 to 2026-08-25
 subject: capacity.research
 places: DZA; AGO; BWA; BDI; CMR; COG; CIV; GNQ; ETH; GAB; GHA; LSO; LBY; MDG; MLI; MRT; MAR; MOZ; NGA; RWA; SEN; SOM; ZAF; TZA; TGO; UGA; ZMB; ZWE; XSA
-record: b83e968fa710
+record: 5201af0a285b
 ---
 
-# Research institutions: progress report, 2025-08-01 to 2026-08-24
+# Research institutions: progress report, 2025-08-01 to 2026-08-25
 
 *29 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -69,11 +69,11 @@ record: b83e968fa710
 
 ## Ethiopia
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Digital ID Assessment as official monitoring | First run (2025-01) | [Adopted as the programme's official monitoring instrument and re-run](https://dial.global/research/digital-id-second-assessment-continuous-learning-ethiopia/) | Advanced |
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | AI University Innovation Pod | Did not exist | [Running with UNDP and Addis Ababa University](https://www.connectingafrica.com/ai/ethiopia-launches-ai-unipod-to-drive-innovation) | Advanced |
 | Artificial Intelligence University construction | Did not exist | [A single named capital project; no site or timetable published](https://www.mofed.gov.et/media/filer_public/c1/de/c1de6f52-b57e-4a94-91ff-cc22a2c751b8/2019_e_c_budget_year_goe_federal_budget_proclamation_part_two_updated.xlsx) | Advanced |
@@ -134,7 +134,7 @@ record: b83e968fa710
 
 ## Nigeria
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | National Cybersecurity Centre, Bayero University Kano | Operating (2025-05) | [Operating](https://techafricanews.com/2025/05/28/nigeria-takes-bold-step-in-cybersecurity-with-new-national-centre-in-kano/) | No change |
 
@@ -146,7 +146,7 @@ record: b83e968fa710
 
 ## Senegal
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | National research and innovation fund | Did not exist | [Proposed; no budget, statute or date, with a companion council still at reflection stage](https://primature.sn/publications/actualites/conseil-des-ministres-du-29-juillet-2026) | Advanced |
 | Two AI research laboratories | Two laboratories launched, targeting agriculture, education and industry | [Unchanged; no publication, budget, headcount or research output is held](https://techreviewafrica.com/news/1997/senegal-bolsters-ai-development-with-launch-of-alive-and-dicentre4ai-laboratories) | No change |
@@ -159,7 +159,7 @@ record: b83e968fa710
 
 ## South Africa
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Standing in digital-privacy research | Baseline not held | [18th worldwide and the only African country in the top 20 for digital-privacy research output, on a 4,760-article review of 2005-2025](https://sajim.co.za/index.php/sajim/article/view/2146) | ***Baseline not held*** |
 

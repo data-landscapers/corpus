@@ -1,13 +1,13 @@
 ---
-title: Literacy — progress report, 2025-08-01 to 2026-08-24
-compiled: 2026-08-24
-period: 2025-08-01 to 2026-08-24
+title: Literacy — progress report, 2025-08-01 to 2026-08-25
+compiled: 2026-08-25
+period: 2025-08-01 to 2026-08-25
 subject: capacity.literacy
 places: AGO; BEN; BWA; BFA; CMR; CIV; COD; EGY; SWZ; GAB; GMB; GHA; KEN; LBR; NAM; RWA; STP; SEN; TZA; TGO; UGA; ZMB
-record: 82d88cb79eb2
+record: 8579c9a5f3b5
 ---
 
-# Literacy: progress report, 2025-08-01 to 2026-08-24
+# Literacy: progress report, 2025-08-01 to 2026-08-25
 
 *22 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -66,7 +66,7 @@ record: 82d88cb79eb2
 
 ## Egypt
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Digital financial literacy barrier to mobile money | No Egyptian digital-literacy measure is on file at 2025-08-01 | [Among Egyptians aware of mobile money but holding no account, not knowing how to use the service affects 21% of women and 15% of men](https://www.ecofinagency.com/news-digital/3103-54286-mobile-money-in-africa-strong-growth-but-adoption-still-falls-short) | ***Baseline not held*** |
 
@@ -97,7 +97,7 @@ record: 82d88cb79eb2
 
 ## Kenya
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Digital Literacy Programme | 1,170,846 digital devices installed in 22,891 public primary schools and 216 schools connected to the internet, on the 2022 review's milestone table | [Unchanged; no device, school or learning-outcome figure published since 2022](https://edu-design.co/wp-content/uploads/2019/09/Digital-Literacy-Programme.pdf) | No change |
 | Regulator school computer donations | ***Baseline not held*** | [23 educational institutions supported recently, with no quantity, value or connectivity provision disclosed](https://techafricanews.com/2026/07/30/ca-kenya-expands-digital-inclusion-with-computer-donation-to-turkana-school/) | ***Baseline not held*** |
@@ -132,7 +132,7 @@ record: 82d88cb79eb2
 
 ## Senegal
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Digital financial-education project | Running since June 2024 in Senegal and Cameroon | [Closed, with 265 civil-society trainers trained across twelve organisations in two cities, and a comparison platform left unmaintained because no implementer can compel tariff data from financial institutions](https://business221.com/2026/07/24/projet-finance-4-all-au-senegal-265-personnes-issues-de-la-societe-civile-formees-a-leducation-financiere-numerique/) | Closed |
 | Digital Schools programme | The memorandum signed: 120 schools and 500 women targeted | [Unchanged; no schools-equipped or women-trained count is held at any date](https://www.wearetech.africa/en/fils-uk/news/tech/senegal-launches-digital-schools-program-with-sonatel-s-support) | No change |

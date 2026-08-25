@@ -1,13 +1,13 @@
 ---
-title: India activities — progress report, 2025-08-01 to 2026-08-24
-compiled: 2026-08-24
-period: 2025-08-01 to 2026-08-24
+title: India activities — progress report, 2025-08-01 to 2026-08-25
+compiled: 2026-08-25
+period: 2025-08-01 to 2026-08-25
 subject: geopol.india
 places: AGO; BDI; TCD; CIV; EGY; ETH; KEN; LSO; LBY; MOZ; NAM; RWA; ZMB
-record: a6138e5d3fec
+record: b76a77de6700
 ---
 
-# India activities: progress report, 2025-08-01 to 2026-08-24
+# India activities: progress report, 2025-08-01 to 2026-08-25
 
 *13 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -41,19 +41,19 @@ record: a6138e5d3fec
 
 ## Egypt
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | India-Egypt technology cooperation | The base held no source at all on India-Egypt technology cooperation at 2025-08-01 | [The two industry ministers agreed a joint study of priority sectors for industrial and investment integration, to be prepared by Egyptian authorities with Invest India and covering market needs, value chains, joint manufacturing, incentives and tariff and non-tariff barriers, with financial technology among the named priority sectors; they discussed linking the two countries' payment systems and settling bilateral trade in local currencies, and Egypt proposed an Egyptian-Indian industrial integration platform matching companies on joint production, component exchange and supplier development](https://sis.gov.eg/en/media-center/news/industry-minister-announces-egypt-s-plans-to-launch-egyptian-indian-industrial-integration-platform/) | ***Baseline not held*** |
 
 ## Ethiopia
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | RailTel data-centre build | Did not exist | [Planned](https://railtel.in/images/pdf/Press%20Release_RailTel%20to%20build%20Data%20Centre%20in%20Ethiopia.pdf) | Advanced |
 
 ## Kenya
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Kenya-India-Italy sovereign AI partnership | Did not exist | [Targets 100 AI-deployment programmes by 2030 on multilingual low-bandwidth voice AI](https://www.ecofinagency.com/kenya-india-and-italy-launch-trilateral-sovereign-ai-partnership/) | Advanced |
 

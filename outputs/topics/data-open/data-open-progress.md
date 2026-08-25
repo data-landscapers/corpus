@@ -1,13 +1,13 @@
 ---
-title: Open data — progress report, 2025-08-01 to 2026-08-24
-compiled: 2026-08-24
-period: 2025-08-01 to 2026-08-24
+title: Open data — progress report, 2025-08-01 to 2026-08-25
+compiled: 2026-08-25
+period: 2025-08-01 to 2026-08-25
 subject: data.open
 places: BEN; CMR; CPV; COG; CIV; DJI; COD; EGY; GNQ; GHA; KEN; LBY; MDG; MWI; MRT; MUS; MAR; NAM; NER; TUN; UGA; ZMB; ZWE
-record: 3e90eef758e4
+record: 7d6c441b7418
 ---
 
-# Open data: progress report, 2025-08-01 to 2026-08-24
+# Open data: progress report, 2025-08-01 to 2026-08-25
 
 *23 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -66,7 +66,7 @@ record: 3e90eef758e4
 
 ## Egypt
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | World Bank GovTech Maturity Index position | 69th globally with a maturity score of 0.751 on the 2022 index; Group B at 0.649 in 2020 | [22nd globally with a score of 0.911 in the top band on the 2025 index, a rise of 47 places, with core government systems 0.916, digital service delivery 0.962, citizen engagement 0.896 and enablers 0.869](https://gate.ahram.org.eg/News/5356100.aspx) | Advanced |
 | National Open Data Policy | The base carries no statement of the policy's existence or content at 2025-08-01 | [The minister named the launch of the open data policy among the policies and legislation supporting digital transformation; no date of adoption, text, issuing instrument, dataset inventory or national portal is established](https://gate.ahram.org.eg/News/5356100.aspx) | ***Baseline not held*** |
@@ -85,7 +85,7 @@ record: 3e90eef758e4
 
 ## Kenya
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | National data marketplace | Did not exist | [Proposed state-run marketplace, more than 1,000 datasets over five years, KSh 396m to build and operate, overseen by a proposed national council](https://nation.africa/kenya/business/state-plans-ecitizen-data-sale-to-boost-revenue--5488496) | Advanced |
 

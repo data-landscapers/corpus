@@ -1,10 +1,10 @@
 ---
 title: Domestic budget appropriations and expenditure — monthly update, July 2026
-compiled: 2026-08-24
-period: 2026-07-01 to 2026-08-24
+compiled: 2026-08-25
+period: 2026-07-01 to 2026-08-25
 subject: finance.budget
 places: BFA; CPV; COG; EGY; ETH; GMB; GHA; KEN; MLI; MUS; MOZ; SEN; SDN; TUN
-record: 731a1b3c85b1
+record: f6a74843940a
 ---
 
 # Domestic budget appropriations and expenditure: monthly update, July 2026

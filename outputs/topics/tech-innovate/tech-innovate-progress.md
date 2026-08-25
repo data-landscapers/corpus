@@ -1,13 +1,13 @@
 ---
-title: Innovation ecosystem — progress report, 2025-08-01 to 2026-08-24
-compiled: 2026-08-24
-period: 2025-08-01 to 2026-08-24
+title: Innovation ecosystem — progress report, 2025-08-01 to 2026-08-25
+compiled: 2026-08-25
+period: 2025-08-01 to 2026-08-25
 subject: tech.innovate
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; ERI; SWZ; GAB; GMB; GHA; KEN; LSO; LBR; LBY; MDG; MWI; MAR; NAM; NER; NGA; RWA; SEN; SOM; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF; XWA
-record: 1f890bfd8ddc
+record: e8999dc4c2b5
 ---
 
-# Innovation ecosystem: progress report, 2025-08-01 to 2026-08-24
+# Innovation ecosystem: progress report, 2025-08-01 to 2026-08-25
 
 *42 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -139,7 +139,7 @@ record: 1f890bfd8ddc
 
 ## Egypt
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Egyptian startup venture funding | 51 Egyptian startups funded in 2024, the highest count in Africa | [US$378.95m across 43 funded startups in 2025 on one tracker's count, 23.2% of the African total and second to Nigeria for a second year, with the number of funded ventures falling 15.7% and average raise rising to US$8.81m from US$6.12m; Egypt then led the continent in H1 2026 with US$327m raised, US$183m of it equity](https://disruptafrica.com/wp-content/uploads/2026/02/The-African-Tech-Startups-Funding-Report-2025.pdf) | Advanced, deal count falling |
 | InfiniLink | Independent Cairo deep-tech semiconductor startup in a state venture portfolio | [Acquired, delivering a reported 400% return to the state venture investor; no consideration, retained-operations or headcount detail is held](https://techcabal.com/2025/12/19/how-egypts-startup-ecosystem-fared-in-2025/) | Closed, acquired |
@@ -184,7 +184,7 @@ record: 1f890bfd8ddc
 
 ## Kenya
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Qubit Hub | Did not exist | [African AI research and development lab to be hosted at iXAfrica NBOX1 on sovereign compute](https://techafricanews.com/2026/05/25/qhala-amini-ai-angani-and-ixafrica-unite-to-launch-ai-infrastructure-hub-in-kenya/) | Advanced |
 | Startup funding raised | US$1.04bn raised in 2025, first in Africa and up 72% year on year | [US$126m total and US$46m equity in the first half of 2026, third in Africa and the weakest half since early 2021](https://techcabal.com/2026/07/27/african-venture-capital-is-backing-fewer-founders-than-ever/) | Regressed |
@@ -248,7 +248,7 @@ record: 1f890bfd8ddc
 
 ## Nigeria
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Bango food-market price data platform | Did not exist (founded, launched November 2025) | [Crowdsourced food-market price platform with about 2,500 users; extended into direct farmer-to-consumer sales via Shopr by Bango in Abuja; a group-buying feature (Bango Market Day) planned next](https://www.wearetech.africa/en/fils-uk/solutions/nigeria-s-bango-uses-price-data-to-bring-transparency-to-food-markets) | Advanced |
 | Katsina state technology hub | Did not exist | [Planned](https://www.wearetech.africa/en/fils-uk/news/public-management/nigeria-plans-10bln-tech-hub-in-katsina-to-anchor-national-digital-push) | Advanced |
@@ -269,7 +269,7 @@ record: 1f890bfd8ddc
 
 ## Senegal
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Corporate mobility platform | Did not exist | [A centralised platform for companies to manage employee travel, set spending limits, automate billing and track rides in real time](https://www.wearetech.africa/en/fils-uk/brief/brief-simple/senegal-yango-expands-into-corporate-mobility) | Advanced |
 | Max it super-app on the Dakar rapid-transit network | Ticketing available through the operator's money service since commercial launch in May 2024, with the super-app not integrated | [An agreement signed for progressive integration of ticketing, subscription top-ups and further services, with transport-card top-ups, bank financing, station Wi-Fi and passenger-flow analytics planned](https://www.wearetech.africa/en/fils-uk/news/tech/senegal-sonatel-connects-max-it-app-to-dakar-bus-rapid-transit-network) | Advanced |
@@ -334,7 +334,7 @@ record: 1f890bfd8ddc
 
 ## Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-24 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Multi-country mapping of innovation-support organisations | ***Baseline not held*** | [A EUR120,000 procurement opened by a European development agency for a multi-country mapping of African entrepreneurship- and innovation-support organisations under a Europe-Africa digital innovation programme](https://opportunitiesforyouth.org/2026/08/07/advanced-entrepreneurship-and-innovation-support-organisations-ecosystem-mapping-2026-estdev-invites-bids-for-e120000-africa-europe-digital-innovation-bridge-procurement/) | ***Baseline not held*** |
 

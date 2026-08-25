@@ -1,13 +1,13 @@
 ---
-title: Energy — progress report, 2025-08-01 to 2026-08-24
-compiled: 2026-08-24
-period: 2025-08-01 to 2026-08-24
+title: Energy — progress report, 2025-08-01 to 2026-08-25
+compiled: 2026-08-25
+period: 2025-08-01 to 2026-08-25
 subject: infra.energy
 places: AGO; BWA; BDI; CMR; CPV; CAF; TCD; COG; DJI; EGY; GNQ; SWZ; ETH; GAB; KEN; LSO; MWI; MLI; MRT; MUS; MAR; MOZ; NGA; SLE; SSD; TUN; UGA; ZMB; ZWE
-record: 2955136eba56
+record: 43359926a511
 ---
 
-# Energy: progress report, 2025-08-01 to 2026-08-24
+# Energy: progress report, 2025-08-01 to 2026-08-25
 
 *29 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -77,7 +77,7 @@ record: 2955136eba56
 
 ## Egypt
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Renergy green hydrogen and solar project, El-Tor | Did not exist | [About 127 sq km with 4 km of Red Sea frontage, EUR 5m of technical studies completed over two years, two phases targeting 160,000 then 400,000 tonnes a year of liquid green hydrogen wholly for export to Europe; put forward as the power source for the proposed Sinai data centre](https://gate.ahram.org.eg/News/5579894.aspx) | Advanced |
 
@@ -95,7 +95,7 @@ record: 2955136eba56
 
 ## Ethiopia
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Bitdeer Oromia bitcoin-mining site | Did not exist | [40 MW operating with 20 MW in progress](https://www.bitdeer.com/news/oromia-ethiopia-update) | Advanced |
 | Ethio Telecom Green Operator renewable network programme | 27 MW installed solar at the FY2024/25 close, derived | [39.72 MW installed solar across 190 fully solar-powered sites, 867 hybrid solar-and-battery systems and 1,114 lithium-ion storage units, with diesel generator running time down by up to 40%](https://techafricanews.com/2026/08/04/ethio-telecom-combines-reforestation-with-renewable-telecom-infrastructure-expansion/) | Advanced |
@@ -108,7 +108,7 @@ record: 2955136eba56
 
 ## Kenya
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Grid capacity against data-centre demand | ***Baseline not held*** | [About 3GW installed supply against a 10GW-by-2030 target; a single 1GW data centre would take a third of supply](https://www.datacenterdynamics.com/en/news/microsoft-and-g42-data-center-in-kenya-stalled-due-to-lack-of-power-capacity/) | ***Baseline not held*** |
 
@@ -159,7 +159,7 @@ record: 2955136eba56
 
 ## Nigeria
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Grid supply to the data-centre estate | ***Baseline not held*** | [The grid has never reliably exceeded 6 GW for about 230m people, roughly 41% availability](https://techmoonshot.com/2026/05/21/africas-data-center-boom/) | ***Baseline not held*** |
 

@@ -1,10 +1,10 @@
 ---
 title: Training and skills — monthly update, July 2026
-compiled: 2026-08-24
-period: 2026-07-01 to 2026-08-24
+compiled: 2026-08-25
+period: 2026-07-01 to 2026-08-25
 subject: capacity.training
 places: BEN; BWA; BFA; BDI; CMR; COM; COG; CIV; COD; EGY; SWZ; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; TZA; UGA; ZMB; ZWE
-record: 55397a894929
+record: 39c19a735acf
 ---
 
 # Training and skills: monthly update, July 2026

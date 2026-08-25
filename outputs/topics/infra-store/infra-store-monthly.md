@@ -1,10 +1,10 @@
 ---
 title: Data Storage — monthly update, July 2026
-compiled: 2026-08-24
-period: 2026-07-01 to 2026-08-24
+compiled: 2026-08-25
+period: 2026-07-01 to 2026-08-25
 subject: infra.store
 places: DZA; AGO; BWA; BFA; CMR; CAF; COG; CIV; DJI; COD; EGY; ETH; GAB; GMB; GHA; KEN; LSO; LBR; MWI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; SLE; SOM; ZAF; TZA; UGA; ZWE
-record: e5aeb4830e69
+record: 235116924569
 ---
 
 # Data Storage: monthly update, July 2026

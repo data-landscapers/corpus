@@ -1,13 +1,13 @@
 ---
-title: Use of satellite data — progress report, 2025-08-01 to 2026-08-24
-compiled: 2026-08-24
-period: 2025-08-01 to 2026-08-24
+title: Use of satellite data — progress report, 2025-08-01 to 2026-08-25
+compiled: 2026-08-25
+period: 2025-08-01 to 2026-08-25
 subject: data.satellite
 places: DZA; AGO; BWA; BFA; CMR; TCD; COM; COG; CIV; EGY; SWZ; ETH; GHA; LBR; LBY; MAR; MOZ; NAM; NER; NGA; RWA; SYC; SLE; TZA; ZMB; ZWE
-record: 555f7ccfb11c
+record: 94a84d31e5a5
 ---
 
-# Use of satellite data: progress report, 2025-08-01 to 2026-08-24
+# Use of satellite data: progress report, 2025-08-01 to 2026-08-25
 
 *26 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -73,7 +73,7 @@ record: 555f7ccfb11c
 
 ## Egypt
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Egypt-Japan water, artificial intelligence and satellite-data cooperation | The base carries no position at 2025-08-01 | [Memorandum with Japan's land and agriculture ministries covering technical missions, joint research and the application of AI and digital models to monitoring water structures and reducing flood risk; Egypt intends to use Japan's satellite rainfall product to monitor rainfall across Nile basin states and improve hydrological forecasting](https://www.youm7.com/story/2026/8/2/%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%88%D8%A7%D9%84%D8%A3%D9%82%D9%85%D8%A7%D8%B1-%D8%A7%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D9%8A%D8%A9-%D9%85%D8%B5%D8%B1-%D8%AA%D8%B3%D8%AA%D8%B9%D9%8A%D9%86-%D8%A8%D8%A7%D9%84%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7-%D8%A7%D9%84%D9%8A%D8%A7%D8%A8%D8%A7%D9%86%D9%8A%D8%A9-%D9%84%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D8%A7%D9%84%D8%AC%D9%8A%D9%84/7499442) | ***Baseline not held*** |
 
@@ -86,7 +86,7 @@ record: 555f7ccfb11c
 
 ## Ethiopia
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Licensing framework for LEO satellite operators | In force (2021-07) | [Satellite services licensable as a GMPCS landing-right class authorisation; no LEO operator authorised on record](https://www.eca.et/wp-content/uploads/2022/10/2022-03-24T06-45-04.775ZTelecommunications-Licensing-Directive-No.-792-2021-English.pdf) | No change |
 
@@ -138,7 +138,7 @@ record: 555f7ccfb11c
 
 ## Nigeria
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Amazon Kuiper landing permit | Did not exist | [Permit granted; no service](https://techafricanews.com/2026/01/15/ncc-grants-landing-permit-to-amazons-project-kuiper-for-satellite-operations-in-nigeria/) | Advanced |
 | Starlink Nigeria service | Second-largest ISP by subscribers | [Orders paused over congestion, later reopened](https://techcabal.com/2025/03/10/starlink-now-nigerias-second) | Regressed |

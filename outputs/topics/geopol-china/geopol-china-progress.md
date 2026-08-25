@@ -1,13 +1,13 @@
 ---
-title: China activities — progress report, 2025-08-01 to 2026-08-24
-compiled: 2026-08-24
-period: 2025-08-01 to 2026-08-24
+title: China activities — progress report, 2025-08-01 to 2026-08-25
+compiled: 2026-08-25
+period: 2025-08-01 to 2026-08-25
 subject: geopol.china
 places: DZA; AGO; BWA; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; KEN; MLI; MRT; MOZ; NAM; NER; NGA; SEN; SYC; SSD; UGA; ZMB; ZWE; XAF; XWA
-record: 86ab2d4b1a62
+record: 8458ab1b6061
 ---
 
-# China activities: progress report, 2025-08-01 to 2026-08-24
+# China activities: progress report, 2025-08-01 to 2026-08-25
 
 *29 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -85,7 +85,7 @@ record: 86ab2d4b1a62
 
 ## Egypt
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Fibre-to-the-room service with Telecom Egypt | Did not exist; the source presents the service as a first for Egypt | [Commercial launch of in-home fibre-to-the-room with the incumbent's consumer brand; no coverage, subscriber, tariff or contract-value figure is stated](https://gate.ahram.org.eg/News/5660818.aspx) | Advanced |
 | Chinese-supplied smart-city surveillance in Egypt | A United States firm's safe-city package recorded as adopted in Egypt (2023-09-27); Chinese supply into Egypt was not separately established | [Egypt is one of eleven countries where Chinese firms were found to supply smart-city surveillance equipment, and one of the states where Chinese banks financed such systems; Cairo's New Administrative Capital is listed with multiple named vendors. No Egyptian contract, value, camera count or command-centre detail is held](https://www.ids.ac.uk/news/african-nations-spending-1bn-a-year-on-harmful-surveillance-of-citizens/) | No change, new mapping evidence only |
@@ -99,16 +99,16 @@ record: 86ab2d4b1a62
 
 ## Ethiopia
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Ethio Telecom and Huawei enterprise stack | Did not exist | [Scoping only; no value or term disclosed](https://www.biometricupdate.com/202607/ethio-telecom-huawei-partner-to-expand-ethiopias-digital-infrastructure) | Advanced |
 | Inspur and Shandong data-centre track | Did not exist | [Planned; no site or value stated](https://techafricanews.com/2026/07/16/ethio-telecom-eyes-strategic-partnership-with-inspur-to-accelerate-digital-transformation/) | Advanced |
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | World Artificial Intelligence Cooperation Organization membership | Did not exist | [One of 29 founding states; constitutive text, powers and binding force all unestablished](https://birrmetrics.com/ethiopia-signs-up-to-new-global-artificial-intelligence-alliance/) | Advanced |
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Chinese AI model adoption | ***Baseline not held*** | [DeepSeek about 20% of chatbot use, the top of its 11-14% Africa range (2026-03)](https://africa.businessinsider.com/local/markets/chinas-deepseek-gives-us-tech-giants-a-run-for-their-money/) | ***Baseline not held*** |
 
@@ -121,7 +121,7 @@ record: 86ab2d4b1a62
 
 ## Kenya
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | FiberHome network partnership | None published | [Student training under way and an East Africa research and development centre planned, framed by the ministry around all-optical networks and 6G readiness](https://www.itweb.africa/article/fiberhome-tour-targets-kenyan-6g/GxwQD71DP96vlPVo) | ***Baseline not held*** |
 | Kenya-China e-commerce cooperation memorandum | ***Baseline not held*** | [Cited as the basis for a delegation to the Silk Road e-commerce matching activity, framed inside the Digital Master Plan](https://techafricanews.com/2026/07/17/kenya-dispatches-18-ict-officers-to-china-to-advance-digital-trade-and-e-commerce-cooperation/) | ***Baseline not held*** |
@@ -159,18 +159,18 @@ record: 86ab2d4b1a62
 
 ## Nigeria
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | 21st Century and China Mobile sovereign cloud | Did not exist | [A sovereignty push riding partly on a Chinese stack](https://itweb.africa/article/china-mobile-pact-puts-nigeria-step-closer-to-data-sovereignty/KA3Ww7dzwO1qrydZ) | Advanced |
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Huawei Lagos innovation centre | Open (2025-05) | [Framed by the minister as a catalyst for tech sovereignty](https://itweb.africa/article/huawei-nigeria-opens-innovation-centre-in-lagos/mYZRXM9g6gWvOgA8) | No change |
 | AI surveillance estate | ***Baseline not held*** | [Above US$470m on facial recognition and number-plate tracking, the continent's largest (2026-03)](https://itweb.africa/article/nigeria-leads-africa-in-470m-ai-surveillance-spend/RgeVDvPRePyMKJN3) | ***Baseline not held*** |
 
 ## Senegal
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Strategic partnership with Huawei | An agreement signed covering data-centre modernisation, an equipment assembly plant on Senegalese territory, and high-level training | [Unchanged; no site, cost, timetable, groundbreaking or training cohort reported since](https://lesoleil.sn/actualites/technologie/senegal-huawei-un-accord-strategique-pour-accelerer-la-souverainete-numerique/) | No change |
 | Sovereign cloud built with Alibaba | ***Baseline not held*** | [Data-centre infrastructure deployed and tested for redundancy and reliability, to host sensitive national data on Senegalese territory, accelerated ahead of an international sporting event](https://africabusinessinsight.com/senegal-partners-alibaba-to-build/) | ***Baseline not held*** |
@@ -209,7 +209,7 @@ record: 86ab2d4b1a62
 
 ## Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-24 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | China-Africa Digital Cooperation Development Action Plan | Issued 2024-07-29 by China and 26 African states across six cooperation actions, with a three-year target of ten joint digital transformation demonstration projects and 1,000 personnel trained | [Unchanged; no progress report, no accession beyond the original 26 states and no delivery against the three-year targets is held](https://www.secrss.com/articles/68595) | No change |
 | Chinese artificial-intelligence cooperation centres with the African Union | ***Baseline not held*** | [China says it will establish artificial-intelligence application cooperation centres with the African Union and offer developing countries 5,000 training places over five years; no site, budget, term or agreement text is stated](https://www.globaltimes.cn/page/202608/1368309.shtml) | ***Baseline not held*** |

@@ -1,10 +1,10 @@
 ---
 title: Other GovTech and e-Gov — monthly update, July 2026
-compiled: 2026-08-24
-period: 2026-07-01 to 2026-08-24
+compiled: 2026-08-25
+period: 2026-07-01 to 2026-08-25
 subject: dpi.govtech
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 3deecc9a9438
+record: d2733e8cf01d
 ---
 
 # Other GovTech and e-Gov: monthly update, July 2026
@@ -273,6 +273,8 @@ The courts project went the other way. On 13 August the justice minister [referr
 
 
 Two services were told to integrate or to open. The Public Protector [found the student-aid scheme's systems insufficiently integrated with the home affairs, social security and revenue data it needs to verify students, and gave the board 30 days to produce a digital modernisation and systems-integration plan](https://www.itweb.co.za/article/nsfas-gets-30-days-to-shake-off-ict-limitations/KA3Ww7dzpAPqrydZ) covering verification interfaces, fraud controls, the elimination of duplicate applications and manual workarounds, case tracking and costed milestones; the [report records that the scheme cannot resolve 80% of contact-centre queries without internal escalation](https://www.itweb.co.za/article/nsfas-gets-30-days-to-shake-off-ict-limitations/KA3Ww7dzpAPqrydZ). In the Western Cape the province [opened free access for small businesses to a private funding-matching platform covering over 300 funders and 600 finance products](https://startupmag.co.za/2026/08/western-cape-launches-free-digital-funding-platform-for-small-businesses/), against the platform's own finding that 65.3% of provincial applicants cannot supply their latest financial statements.
+
+The month's longest departmental procurement went to the least connected population in the country. Correctional services [advertised a fifteen-year tender for an inmate communication system across 243 centres, replacing copper telephony that has deteriorated beyond support for about 166,000 inmates](https://www.itweb.co.za/article/top-ict-tenders-inmates-to-get-telecoms-upgrade/KzQenvjyx98qZd2r), the appointed supplier to design, install, integrate, operate and maintain it and to tie it to the inmate cash system so that airtime is bought from prisoners' own balances, with monitoring, recording, data storage, security and compliance in scope. No contract value is published and [bids close on 14 September](https://www.itweb.co.za/article/top-ict-tenders-inmates-to-get-telecoms-upgrade/KzQenvjyx98qZd2r), so nothing is awarded.
 
 ## South Sudan
 

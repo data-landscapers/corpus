@@ -1,13 +1,13 @@
 ---
-title: AI — progress report, 2025-08-01 to 2026-08-24
-compiled: 2026-08-24
-period: 2025-08-01 to 2026-08-24
+title: AI — progress report, 2025-08-01 to 2026-08-25
+compiled: 2026-08-25
+period: 2025-08-01 to 2026-08-25
 subject: tech.ai
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF; XSA; XWA
-record: 7e545e8911a0
+record: 9083f2319305
 ---
 
-# AI: progress report, 2025-08-01 to 2026-08-24
+# AI: progress report, 2025-08-01 to 2026-08-25
 
 *51 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -150,7 +150,7 @@ record: 7e545e8911a0
 
 ## Egypt
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Egyptian Center for Responsible AI | Did not exist | [Established inside the ICT ministry to support safe AI use within government bodies and to develop regulatory models; no mandate document, budget, staffing or output is held](https://gate.ahram.org.eg/News/5670246.aspx) | Advanced |
 | National Council for AI, Quantum Computing and Emerging Technologies | The National Council for Artificial Intelligence, created 2019, with an AI remit; the base records no quantum or emerging-technology mandate | [Remit widened to AI, quantum computing and emerging technologies, and the council is stated to be preparing a national quantum-computing strategy; no decree, membership list or date for the rename is held](https://gate.ahram.org.eg/News/5670246.aspx) | Advanced, rename date not stated |
@@ -183,11 +183,11 @@ record: 7e545e8911a0
 
 ## Ethiopia
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | AI service bundles in the mobile-money app | Did not exist | [Generative-AI bundles bought with M-PESA and redeemed by SMS voucher](https://techafricanews.com/2026/07/22/m-pesa-ethiopia-and-gebeya-partner-to-bring-ai-tools-to-mobile-users/) | Advanced |
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Ethiopian Artificial Intelligence Institute | Operating (2020) | [Built MESOB and anchors the state's AI capability claim](https://birrmetrics.com/ethiopia-signs-up-to-new-global-artificial-intelligence-alliance/) | No change |
 
@@ -218,7 +218,7 @@ record: 7e545e8911a0
 
 ## Kenya
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | ATLAS Umoja AI | Did not exist | [Kenya one of five governments pooling datasets and research to scale an open-source African-language template](https://iafrica.com/gsma-and-five-african-governments-launch-atlas-umoja-ai-to-scale-nigerias-language-model-template-across-the-continent/) | Advanced |
 | Kenya AI and Other Emerging Technologies Policy 2026 | None published, no national AI policy instrument | [226-page draft out for consultation, with a risk-based lifecycle model, effects-based extraterritorial reach, binding AI-worker standards and a disclosure duty; high risk undefined and penalties unstated. A civil-society submission of 2026-08-14 urges institutional independence for the proposed AI council and mandatory human-rights impact assessments, and a separate account puts the draft as nearing Cabinet consideration](https://ict.go.ke/sites/default/files/AI%20Policy%20Doc/draft-kenya-ai-and-emerging-technologies-policy-2026.pdf) | Advanced |
@@ -335,13 +335,13 @@ record: 7e545e8911a0
 
 ## Nigeria
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | GovGuide public-services chatbot | Did not exist | [On Meta's Llama in English, Hausa, Igbo and Yoruba](https://techcabal.com/2026/05/22/nigeria-taps-meta-ai-to-help-citizens-access-government-services/) | Advanced |
 | Mandated AI and machine-learning fraud detection | Did not exist | [AI and machine-learning fraud detection made mandatory](https://techafricanews.com/2026/06/09/nigerias-central-bank-launches-ai-driven-system-to-detect-financial-fraud-in-real-time/) | Advanced |
 | Service-Wise GPT for the federal civil service | Live (2025-02) | [In service across the federal civil service](https://www.wearetech.africa/en/fils-uk/news/public-management/nigeria-launches-ai-powered-tool-to-revolutionize-public-service-efficiency) | No change |
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | AI governance framework for tertiary institutions | Did not exist | [NUC framework written and the three tertiary regulators committed to harmonise; the text is not held](https://www.vanguardngr.com/2026/08/naaip-symposium-urges-unified-ai-guardrails-for-nigerian-tertiary-institutions/) | Advanced |
 | Anambra state AI operations automation | Did not exist | [The state ICT agency reports having modified and trained an open-source model to automate its own operations end to end, and says it is exploring replication across state government for productivity, revenue leakage and governance](https://thenationonlineng.net/anambra-automates-operations-revenue-with-local-ai/) | Advanced |
@@ -369,7 +369,7 @@ record: 7e545e8911a0
 
 ## Senegal
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Wolof and French AI tutor by phone call | Did not exist | [A tutor reachable by ordinary phone call with no internet, curriculum written by teachers and validated by school inspectors, hosted on servers in Senegal](https://aps.sn/allo-goor-gi-une-ia-avec-des-contenues-pedagogiques-certifies/) | Advanced |
 | National AI ethics committee | ***Baseline not held*** | [Planned; no statute, membership, chair or date](https://www.seneweb.com/fr/news/Technologie/intelligence-artificielle-en-afrique-le-senegal-encore-a-la-traine_n_499460.html) | ***Baseline not held*** |
@@ -399,7 +399,7 @@ record: 7e545e8911a0
 
 ## South Africa
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Appeal on algorithmic eligibility verification for the SRD grant | None published | [The state is appealing a Pretoria High Court judgment of 23 January 2025 that held several regulations governing the Social Relief of Distress grant unconstitutional and invalid, on a scheme administered online only and screened by an algorithmic verification system that excluded applicants it read as earning above R624.00; the court found the automation unfairly excluded otherwise eligible applicants. An artificial-intelligence governance organisation, represented by a university legal centre, was admitted as a friend of the court in the appeal, which is set down for hearing on 25 August 2026](https://www.globalcenter.ai/news/human-rights-implications-of-using-algorithms-for-social-grants) | Advanced |
 | Automated selection at SARS | ***Baseline not held*** | [100% of verifications, 88.41% of complex audits](https://techcabal.com/2026/07/27/ai-south-africas-taxman/) | Advanced |
@@ -484,11 +484,11 @@ record: 7e545e8911a0
 
 ## Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-24 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Africa AI Council | Did not exist | [Established under a board of 42 heads of state with the AU Commissioner for Energy and Infrastructure and the ITU Secretary-General; no work programme or output held in the nine months since](https://smartafrica.org/the-smart-africas-board-unveils-the-inaugural-africa-ai-council-to-lead-the-continents-ai-transformation/) | Advanced |
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-24 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Africa AI Fund | Announced in April 2025 at US$60bn, alongside the Africa AI Declaration, with nothing capitalised | [Still cited as one pillar of the continental AI architecture; no capitalisation, governance structure or disbursement held](https://restofworld.org/2026/africa-ai-sovereignty-big-tech/) | No change |
 | AU Continental AI Strategy | Adopted 2024-07-19 as the continental reference for national AI policy, on an implementation timeframe running 2025 to 2030 | [Unchanged in text, and the reference the Commission carried into global forums; ministers meeting at the ECA called for its translation into national frameworks. The instrument's own timetable runs Phase I across 2025-2026, a midterm review in 2027 and Phase II from 2028](https://au.int/sites/default/files/documents/44004-doc-EN-_Continental_AI_Strategy_July_2024.pdf) | No change |

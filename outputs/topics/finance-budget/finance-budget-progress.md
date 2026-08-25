@@ -1,13 +1,13 @@
 ---
-title: Domestic budget appropriations and expenditure — progress report, 2025-08-01 to 2026-08-24
-compiled: 2026-08-24
-period: 2025-08-01 to 2026-08-24
+title: Domestic budget appropriations and expenditure — progress report, 2025-08-01 to 2026-08-25
+compiled: 2026-08-25
+period: 2025-08-01 to 2026-08-25
 subject: finance.budget
 places: AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; COM; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GMB; GHA; KEN; LSO; MWI; MLI; MRT; MUS; MAR; MOZ; RWA; SEN; SDN; TZA; ZMB; ZWE; XAF; XWA
-record: 3f4ef4d8099b
+record: a71fcd0c7845
 ---
 
-# Domestic budget appropriations and expenditure: progress report, 2025-08-01 to 2026-08-24
+# Domestic budget appropriations and expenditure: progress report, 2025-08-01 to 2026-08-25
 
 *35 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -149,7 +149,7 @@ record: 3f4ef4d8099b
 
 ## Egypt
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Budget allocation for data centres and state AI | None published | [An intended allocation of up to US$860 million a year from the general budget, from FY2026/27 to the end of 2030, for data centres, computing infrastructure, data security and privacy, and artificial-intelligence use inside state-owned companies, on a stated target of 0.10-0.15 per cent of GDP](https://www.egypttelegraph.com/article/272026/%D9%85%D8%B5%D8%B1-%D8%AA%D8%AE%D8%B5%D8%B5-860-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D8%B3%D9%86%D9%88%D9%8A%D8%A7-%D9%84%D9%85%D8%B1%D8%A7%D9%83%D8%B2) | Advanced |
 | ICT sector public investment | Not held | [EGP 13bn of public investment allocated to the communications and information technology sector in the 2025/26 plan, against plan targets of US$8.5bn in annual digital exports of which US$6bn from outsourcing](https://moic.gov.eg/news/2134) | ***Baseline not held*** |
@@ -162,7 +162,7 @@ record: 3f4ef4d8099b
 
 ## Ethiopia
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Federal appropriation for digital transformation | ETB 3.75bn appropriated for FY2025/26 | [ETB 9.05bn for FY2026/27, dominated by the AI university line](https://www.fanamc.com/english/ethiopian-parliament-ratifies-2-34-trillion-birr-federal-budget-for-2026-27-fiscal-year/) | Advanced, mostly the birr float rather than real growth |
 | Published budget execution for FY2025/26 | None published | [H1 FY2025/26: ETB 704.7bn mobilised, 48.1% of the annual target, against ETB 798.2bn spent, 48.3% of the approved budget](https://www.mofed.gov.et/media/filer_public/ee/f5/eef50cc8-4871-425e-b738-33fe9ed649e0/mid_year_review_2025_26_final_2.pdf) | Advanced |
@@ -189,7 +189,7 @@ record: 3f4ef4d8099b
 
 ## Kenya
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Digital economy and creative industry thematic allocation | KSh 12.7bn for FY2025/26 | [KSh 8.6bn for FY2026/27, a second consecutive cut from KSh 16.3bn in FY2024/25](https://www.businessdailyafrica.com/bd/economy/ict-allocation-drops-to-sh8-6-billion-in-budget-5493262) | Regressed |
 | Vote 1122, State Department for ICT and the Digital Economy | KSh 16,188.8m appropriated for FY2025/26 | [KSh 12,763.8m appropriated for FY2026/27, with FY2025/26 itself revised down to KSh 12,215.1m at the first supplementary](https://www.treasury.go.ke/sites/default/files/Budget%20Books/Budget%20books%202026-2027/FY%202026%202027%20Programme%20Based%20Budget%20Book.pdf) | Regressed |
@@ -251,7 +251,7 @@ record: 3f4ef4d8099b
 
 ## Senegal
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Digital-sector appropriation | FCFA 16.1bn appropriated for FY2024 under the finance law | [FCFA 31.1bn for FY2025, up 93.2%, within a FCFA 58.4bn ministry envelope](https://www.digitalbusiness.africa/senegal-le-ministere-charge-du-numerique-a-un-budget-de-584-milliards-fcfa-en-2025-contre-427-milliards-fcfa-en-2024/) | Advanced, FY2025 only |
 | Ministry vote and investment allocation for 2026 | A FCFA 58.4bn ministry envelope for FY2025, adopted in committee | [A FCFA 81.06bn ministry vote for FY2026 with FCFA 58.2bn to investment, and stated priorities of universal coverage, free connectivity, a sovereign cloud, biometric digital identity, administrative interoperability and a citizen one-stop shop](https://www.ecofinagency.com/news-digital/0912-51246-senegal-allocates-60-of-2026-digital-ministry-budget-to-investment) | Advanced |
@@ -284,7 +284,7 @@ record: 3f4ef4d8099b
 
 ## Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-24 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Share of the African Union's budget financed by its own members | About 22 to 25 per cent, a decade after the 2016 Kigali Decision | [Unchanged on the newest figure held; the Union's 2025 programme budget was 77.5 per cent externally funded](https://www.theafricareport.com/419860/afdb-says-africa-must-fund-its-own-growth-as-aid-model-frays/) | No change |
 

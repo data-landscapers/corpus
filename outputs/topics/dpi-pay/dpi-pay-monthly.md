@@ -1,10 +1,10 @@
 ---
 title: Digital Payments and Fintech — monthly update, July 2026
-compiled: 2026-08-24
-period: 2026-07-01 to 2026-08-24
+compiled: 2026-08-25
+period: 2026-07-01 to 2026-08-25
 subject: dpi.pay
 places: DZA; AGO; BWA; BFA; BDI; CMR; CAF; TCD; COG; CIV; COD; EGY; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 73380cb350e6
+record: 4e6d2aad52bf
 ---
 
 # Digital Payments and Fintech: monthly update, July 2026
@@ -183,6 +183,8 @@ The virtual-asset track kept admitting. Three further firms were [named as admit
 
 
 The rail underneath all of it began to change. The clearing operator [reports 26.55 million transactions worth 1.4 trillion naira across 48 institutions in the early phase of the ISO 20022-compliant stack that replaces the instant-payments system](https://theeagleonline.com.ng/nibss-rolls-out-nps-as-nip-successor/), on a multi-currency platform carrying payments, identity and data together. The figures are the operator's own.
+
+The withdrawn credit product came back on 24 August. The dominant operator [resumed airtime lending on four vendors after the April suspension that followed new consumer-watchdog licensing and consumer-protection requirements, with its lending base cut to about a quarter of its first-quarter run rate and a stated cost of about 50 billion naira (US$37.1m) to first-half revenue](https://techcabal.com/2026/08/24/mtn-sees-nigeria-rebound-as-airtime-lending-returns/). The group [expects the whitelisted customer base to rebuild through the third and fourth quarters](https://techcabal.com/2026/08/24/mtn-sees-nigeria-rebound-as-airtime-lending-returns/) — its own forecast, and no regulator statement on the resumption is held. The jurisdictional question the suspension turned on is unresolved and before the Court of Appeal.
 
 ## Rwanda
 

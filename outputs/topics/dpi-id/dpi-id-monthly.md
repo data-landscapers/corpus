@@ -1,10 +1,10 @@
 ---
 title: Digital Identity and CRVS — monthly update, July 2026
-compiled: 2026-08-24
-period: 2026-07-01 to 2026-08-24
+compiled: 2026-08-25
+period: 2026-07-01 to 2026-08-25
 subject: dpi.id
 places: DZA; AGO; BWA; BFA; BDI; CMR; CPV; COG; CIV; DJI; COD; EGY; ETH; GMB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TUN; UGA; ZMB; ZWE
-record: bc6c81077e87
+record: ffd5ae583895
 ---
 
 # Digital Identity and CRVS: monthly update, July 2026
@@ -77,7 +77,9 @@ At the same 24 July launch of a three-year strategic plan, its deputy director i
 
 Four days later that enterprise set out where the credential goes next. Its wallet is [to carry academic transcripts, professional licences, healthcare records, property titles and financial-compliance and know-your-customer data beyond the core government credentials it holds today](https://capitalethiopia.com/2026/08/08/national-id-program-to-expand-digital-wallet-and-credential-verification/), and the enterprise says it is exporting identity services as an implementation partner in Mozambique and Zambia. The plan and the export claims are its own; no timetable, consent model, data-controller arrangement or regulatory approval for the additional credential types is stated.
 
-What is not on the record is the counterweight. A published critique argues the system [risks becoming an instrument of mass profiling in the absence of independent data-protection impact assessments, meaningful citizen rights and legal limits on state access](https://www.linkedin.com/posts/ewnetudebela_fayda-ethiopia-digitalid-activity-7492312232127586304-yqel), against 46.5m registrations by July 2026, up from 16.4m in June 2025, and a 90m target. The base holds no such assessment, no redress mechanism and no statutory access limit, and that absence is now recorded as a gap.
+Enrolment passed a further mark at the close of the period. The programme [put registrations at 49.1m on 24 August, on 12,000 biometric registration kits deployed and 150 agencies integrated, with more than 194m eKYC verifications performed against the register](https://www.biometricupdate.com/202608/fayda-digital-id-nears-50m-enrollments-as-adoption-reshapes-ethiopias-economy). The counts are the programme's own and unaudited, and the [prime-ministerial expectation that the credential will contribute 7% of GDP by 2030](https://www.biometricupdate.com/202608/fayda-digital-id-nears-50m-enrollments-as-adoption-reshapes-ethiopias-economy) is stated alongside them as a projection rather than a measurement. The reporting outlet's "90 million by 2027" is its own framing: the programme's target is 90m by 2028.
+
+What is not on the record is the counterweight. A published critique argues the system [risks becoming an instrument of mass profiling in the absence of independent data-protection impact assessments, meaningful citizen rights and legal limits on state access](https://www.linkedin.com/posts/ewnetudebela_fayda-ethiopia-digitalid-activity-7492312232127586304-yqel), against the registrations above, up from 16.4m in June 2025, and a 90m target. The base holds no such assessment, no redress mechanism and no statutory access limit, and that absence is now recorded as a gap.
 
 ## Gambia
 

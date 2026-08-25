@@ -1,13 +1,13 @@
 ---
-title: Data Storage — progress report, 2025-08-01 to 2026-08-24
-compiled: 2026-08-24
-period: 2025-08-01 to 2026-08-24
+title: Data Storage — progress report, 2025-08-01 to 2026-08-25
+compiled: 2026-08-25
+period: 2025-08-01 to 2026-08-25
 subject: infra.store
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF
-record: 3a331a36d12a
+record: 13e398a457be
 ---
 
-# Data Storage: progress report, 2025-08-01 to 2026-08-24
+# Data Storage: progress report, 2025-08-01 to 2026-08-25
 
 *52 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -140,7 +140,7 @@ record: 3a331a36d12a
 
 ## Egypt
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Telecom Egypt Regional Data Hub 2 | Tier III design-certified, estimated IT load 4.6 MW against the first hub's 2.5 MW, completion expected end-2025 | [Unchanged in the base; no held source states it entered service, and the stated end-2025 completion date has passed](https://ir.te.eg/en/CorporateNews/PressRelease/211/Telecom-Egypt-s-Regional-Data-Hub-2-Awarded-Tier-III-Design-Certification) | Stalled, entry into service not confirmed |
 | East Cairo Logistics Park data-centre campus IT load | No prior reading is held | [25 MW operating with plans to expand to 45 MW](https://businessday.ng/technology/article/investors-pour-into-africas-digital-backbone-as-data-centre-projects-near-900-mw/) | ***Baseline not held*** |
@@ -162,7 +162,7 @@ record: 3a331a36d12a
 
 ## Ethiopia
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Wingu Cloud Exchange in-country cloud | Did not exist | [Compute, Kubernetes and storage priced in birr, hybrid with Azure and AWS](https://www.connectingafrica.com/cloud-networking/wingu-africa-debuts-cloud-exchange-platform-in-ethiopia) | Advanced |
 | Data-centre estate | ***Baseline not held*** | [Named among the markets diversifying Africa's estate, against South Africa's 60%+ share (2026-07)](https://businessday.ng/technology/article/investors-pour-into-africas-digital-backbone-as-data-centre-projects-near-900-mw/) | ***Baseline not held*** |
@@ -205,7 +205,7 @@ record: 3a331a36d12a
 
 ## Kenya
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Airtel Nxtra data centre, Tatu City | Announced 44MW at Tatu City, ground not yet broken | [44MW in two phases, US$150m, dedicated 135 MVA substation in the Tatu City special economic zone with on-site solar](https://techtrendske.co.ke/2026/08/04/airtels-nxtra-data-centre-in-kenya-on-track-for-july-2027/) | Advanced, slipped |
 | Baobab Cloud sovereign public cloud | Did not exist | [Shilling billing, zero egress, 99.9% service level and in-country data residency, hosted at iXAfrica NBOX1](https://techafricanews.com/2026/05/22/ixafrica-data-centres-and-baobab-cloud-services-launch-sovereign-public-cloud-platform-in-kenya/) | Advanced |
@@ -317,7 +317,7 @@ record: 3a331a36d12a
 
 ## Nigeria
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | 1Government sovereign cloud | Did not exist | [GovDrive, GovMail, GovECMS and GovE-Sign across ministries](https://itweb.africa/article/nigerias-1gov-cloud-helps-reduce-reliance-on-foreign-digital-systems/WnpNgq21aogMVrGd) | Advanced |
 | AFRICLOUD Lagos cloud region | Did not exist | [Full compute region in a carrier-neutral Lagos data centre, the third region alongside Lisbon and Johannesburg](https://tech.africa/africloud-opens-its-lagos-region-nigeria-joins-lisbon-and-johannesburg/) | Advanced |
@@ -354,7 +354,7 @@ record: 3a331a36d12a
 
 ## Senegal
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Cloud residency zones in operator data centres | Operating: data-residency zones inside in-country operator data centres | [Operating; no expansion, region upgrade or usage figure reported](https://www.mobileeurope.co.uk/orange-and-aws-partner-to-deliver-cloud-services-in-morocco-and-senegal/) | No change |
 | Diamniadio national data centre | In operation, with a server-localisation requirement in force | [In operation; no capacity, utilisation or migration-completion figure held](https://africachinainitiative.georgetown.edu/research-working-group/blog-posts/huawei-helping-or-hindering-african-countries-secure-their-data-sovereignty-2/) | No change |
@@ -386,7 +386,7 @@ record: 3a331a36d12a
 
 ## South Africa
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Human rights commission inquiry into data centres | Did not exist | [A stakeholder engagement process opened by the national human rights commission under section 184 of the Constitution and sections 13 and 18 of its own Act, to assess whether the legal, regulatory, environmental, governance and industry frameworks around data centre development meet constitutional obligations and international human rights standards. Written submissions were invited on eleven themes including electricity demand and tariffs, water use and cooling, environmental and climate impact, electronic waste, land use and community participation, data protection and privacy, transparency and accountability, business and human rights due diligence, and equitable access to digital infrastructure, closing 30 July 2026](https://acbio.org.za/corporate-expansion/data-centres-digital-infrastructure-and-human-rights-in-south-africa/) | Advanced |
 | Rights commission inquiry into data-centre expansion | Did not exist | [The national human rights commission is scrutinising the country's data-centre expansion, with environmental groups warning that the infrastructure required to power the state's artificial-intelligence ambitions carries costs that have not been accounted for](https://www.businessday.co.za/business-times/2026-08-22-the-hidden-cost-of-sas-ai-boom/) | Advanced |
@@ -466,7 +466,7 @@ record: 3a331a36d12a
 
 ## Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-24 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Sovereign AI cloud on edge data centres | Did not exist | [Announced: AI processing units hosted inside an African edge data-centre network, sold as locally-hosted enterprise AI](https://techeconomy.ng/ai-analytics-intelligence-partners-with-oadc-to-advance-cloud-solutions) | Advanced |
 | Data centres the AfCFTA Secretariat states digital trade requires | ***Baseline not held*** | [More than 700, against about 220 on the continent, on the Secretary General's statement at Marrakech](https://isds.bilaterals.org/africa-s-digital-trade-push) | ***Baseline not held*** |
