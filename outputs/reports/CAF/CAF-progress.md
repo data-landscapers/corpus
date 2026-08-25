@@ -5,7 +5,7 @@ period: 2025-08-01 to 2026-08-25
 place: CAF
 ledger_rows: 92
 not_held: 15
-record: 6c1a3c9fc4d1
+record: 5601d2e9e043
 ---
 
 # Central African Republic: progress report, 2025-08-01 to 2026-08-25
@@ -110,7 +110,7 @@ The one clear regression is at the edge: a northern town went from service in op
 | System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Hospital telemedicine link | Did not exist | [A remote hospital using telemedicine to reach a global network of healthcare professionals, run by an international medical organisation](https://www.doctorswithoutborders.ca/central-african-republic-using-telemedicine-to-tap-into-a-global-network-of-healthcare-professionals/) | Advanced |
-| Sector management information systems | No sector management information system on file | [The health ministry runs DHIS2 as its routine health information system, its newborn-data functionality assessed in a four-country study, with a US$70m World Bank and Global Financing Facility project supporting health service delivery and system strengthening since 2022](https://researchonline.lshtm.ac.uk/id/eprint/4679144/) | Advanced |
+| Sector management information systems | No sector management information system on file | [The health ministry runs DHIS2 as its routine health information system, a four-country study finding it offers users in the Central African Republic fewer functionalities than in the three comparators, with a US$70m World Bank and Global Financing Facility project supporting health service delivery and system strengthening since 2022](https://researchonline.lshtm.ac.uk/id/eprint/4679144/) | Advanced |
 | Civil-service payroll and human-resources system | A payroll clean-up removing more than 2,000 ghost workers, built by the national informatics office | [Unchanged; no later headcount, payroll-value or coverage figure held](https://documents1.worldbank.org/curated/en/099052925135520222/pdf/BOSIB-50d33b34-4918-409e-92f7-070a1773ac56.pdf) | No change |
 
 ### Other GovTech and e-Gov

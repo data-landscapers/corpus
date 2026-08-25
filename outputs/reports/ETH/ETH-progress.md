@@ -3,18 +3,18 @@ title: Ethiopia — progress report, 2025-08-01 to 2026-08-25
 compiled: 2026-08-25
 period: 2025-08-01 to 2026-08-25
 place: ETH
-ledger_rows: 95
+ledger_rows: 96
 not_held: 5
-record: 42ce068392b7
+record: 3955d23618b7
 ---
 
 # Ethiopia: progress report, 2025-08-01 to 2026-08-25
 
 *Compiled 2026-08-25 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
 
-*Of 95 systems and instruments on this place's ledger, 65 changed position between 2025-08-01 and 2026-08-25, 14 did not, 11 carry no stated baseline, and 5 are ***Not held*** at both ends.*
+*Of 96 systems and instruments on this place's ledger, 67 changed position between 2025-08-01 and 2026-08-25, 12 did not, 12 carry no stated baseline, and 5 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 194 sources for this place in the window — 44 in the earlier half (2025-08 to 2026-01), 150 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+*Shape check, run before the comparison: 196 sources for this place in the window — 45 in the earlier half (2025-08 to 2026-01), 151 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -135,6 +135,7 @@ What arrived is foreign compute: a bitcoin-mining site on cheap power, an in-cou
 | Faydaverse digital public infrastructure enterprise | Did not exist | [State-owned enterprise under Ethiopian Investment Holdings, with over 190m authentications performed and 150 enterprises integrated for biometric checks](https://www.biometricupdate.com/202603/ethiopias-digital-id-joins-sovereign-wealth-fund-as-weekly-enrollments-reach-1m) | Advanced |
 | Safaricom and Africom identity registration joint venture | Did not exist | [Covering Afar, Amhara, Tigray, Sidama and three southern regions](https://techreviewafrica.com/news/6190/safaricom-ethiopia-partners-national-id-program-to-expand-digital-identity-registration) | Advanced |
 | Faydaverse digital identity wallet | Not held | [Planned to carry academic transcripts, professional licences, healthcare records, property titles and financial-compliance and know-your-customer data beyond the core government credentials it holds today; the enterprise says it is also exporting digital-identity services as an implementation partner in Mozambique and Zambia](https://capitalethiopia.com/2026/08/08/national-id-program-to-expand-digital-wallet-and-credential-verification/) | ***Baseline not held*** |
+| Super Agent registration procurement | ***Baseline not held*** | [A four-lot procurement of about US$54m for registration super agents, with evaluation complete and the award awaiting the lender’s no-objection](https://documents1.worldbank.org/curated/en/099051826153515642/pdf/P179040-74a164c1-0bb2-49b6-8b5f-2da36395da02.pdf) | ***Baseline not held*** |
 
 ### Digital Payments and Fintech
 
@@ -157,9 +158,9 @@ What arrived is foreign compute: a bitcoin-mining site on cheap power, an in-cou
 | System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | America First Global Health Strategy memorandum of understanding | Did not exist | [Planned United States support of US$1,016,000,000 across 2026-2030 against Ethiopia's US$450,000,000, of which US$18,850,149 is for health data systems on a profile falling from US$6,283,383 in 2026 to US$1,256,677 in 2030, with Ethiopia to carry software licensing, cloud, hardware and maintenance costs for those systems; the United States reserves 6% of the top-line budget for its own management and operations, and Ethiopia signed through the Minister of Finance](https://www.citizen.org/wp-content/uploads/2026-0004QN-Ethiopia-Health-12.23.2025.pdf) | Advanced |
+| DHIS2 national health information system | National since 2018, 95%+ of facilities | [95%+ of facilities, maturity 2.81 of 5 with ICT infrastructure weakest at 2.14, and functionality for calculating reports received against reports expected available in 75.0% of data offices assessed](https://researchonline.lshtm.ac.uk/id/eprint/4679144/) | Advanced |
 | Donor-funded health and surveillance data systems | Donor-funded surveillance operating | [Livestock and zoonotic surveillance suspended; the national health system stayed online on local staffing](https://developmentgateway.org/blog/a-year-after-usaid-reclaiming-control-of-data-systems/) | Regressed |
 | Livestock Information System | Did not exist | [Five priority databases repositioned as a national asset register — the implementer's own account](https://developmentgateway.org/blog/building-lasting-dpi-through-local-ownership-lessons-from-ethiopias-livestock-information-system/) | Advanced |
-| DHIS2 national health information system | National since 2018, 95%+ of facilities | [95%+ of facilities; maturity 2.81 of 5, ICT infrastructure weakest at 2.14](https://medinform.jmir.org/2024/1/e50375) | No change |
 | eCHIS community health information system | In use (2023-06) | [Offline-first, constrained by 9% rural electricity and 4% 4G coverage](https://pmc.ncbi.nlm.nih.gov/articles/PMC10282640/) | No change |
 | Unified Data System for HIV case management | ***Baseline not held*** | [In use by 950 community health workers, with data-access time reported down from a month to a day, 92% of mobile and 94% of web accounts actively used and data completeness near 100%](https://www.ghspjournal.org/content/14/1/e2400353) | ***Baseline not held*** |
 
@@ -345,7 +346,7 @@ Neither headline measurement was re-taken inside the window: [mobile connections
 | System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Digitally enabled pluralistic extension services programme (FAO) | Did not exist | [US$300,000 FAO grant (2026-2028) converting a catalytic start-up initiative into a long-term programme delivering agricultural extension services through digital channels](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=XM-DAC-41301-763888) | Advanced |
-| World Bank Digital ID for Inclusion Project | Running (2023-12) | [US$350m backing registration of refugees and displaced people](https://projects.worldbank.org/en/projects-operations/project-detail/P179040) | No change |
+| World Bank Digital ID for Inclusion Project | US$350m approved, with no disbursement or performance rating on file | [Rated Satisfactory on both development objective and implementation progress, 23% disbursed with US$46.4m disbursed since the start of the 2026 financial year, and about 190,000 refugee registrations against 170,000 identity issuances](https://documents1.worldbank.org/curated/en/099051826153515642/pdf/P179040-74a164c1-0bb2-49b6-8b5f-2da36395da02.pdf) | Advanced |
 
 ### Domestic budget appropriations and expenditure
 
