@@ -1,20 +1,20 @@
 ---
-title: Burkina Faso — progress report, 2025-08-01 to 2026-08-24
-compiled: 2026-08-24
-period: 2025-08-01 to 2026-08-24
+title: Burkina Faso — progress report, 2025-08-01 to 2026-08-25
+compiled: 2026-08-25
+period: 2025-08-01 to 2026-08-25
 place: BFA
-ledger_rows: 120
+ledger_rows: 130
 not_held: 11
-record: 0e6c811bc11b
+record: 1dcdfe9664af
 ---
 
-# Burkina Faso: progress report, 2025-08-01 to 2026-08-24
+# Burkina Faso: progress report, 2025-08-01 to 2026-08-25
 
-*Compiled 2026-08-24 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
+*Compiled 2026-08-25 from the Data Landscapers source base. Sections follow the status report. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
 
-*Of 120 systems and instruments on this place's ledger, 71 changed position between 2025-08-01 and 2026-08-24, 12 did not, 26 carry no stated baseline, and 11 are ***Not held*** at both ends.*
+*Of 130 systems and instruments on this place's ledger, 72 changed position between 2025-08-01 and 2026-08-25, 12 did not, 35 carry no stated baseline, and 11 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 215 sources for this place in the window — 79 in the earlier half (2025-08 to 2026-01), 136 in the later (2026-02 to 2026-08). The two halves are comparable, so the comparison is made over the whole window.*
+*Shape check, run before the comparison: 224 sources for this place in the window — 86 in the earlier half (2025-08 to 2026-01), 138 in the later (2026-02 to 2026-08). The two halves are comparable, so the comparison is made over the whole window.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -28,7 +28,7 @@ Twelve months ago Burkina Faso's governance of data rested on a 2021 statute who
 
 ### Connectivity
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Digital planning observatory | Recommended by a 2019 master plan, with ministry work to make it operational since 2023 | [A live geospatial platform on eight functional objectives covering network mapping, infrastructure sharing and duplicate-investment reduction, built to international mapping recommendations](https://www.sidwaya.info/ministere-en-charge-de-la-transition-digitale-lobservatoire-de-lamenagement-numerique-lance/) | Advanced |
 | Domain-name security extensions | Not deployed | [Cryptographic signing live on the country-code domain's records](https://www.ecofinagency.com/news-digital/0912-51242-burkina-faso-targets-online-trust-with-new-internet-security-measures) | Advanced |
@@ -48,7 +48,7 @@ Twelve months ago Burkina Faso's governance of data rested on a 2021 statute who
 
 ### Data Storage
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Data repatriation programme | Not announced; the twelve programmes including this one were unveiled in August 2025 | [A localisation doctrine in force with 120 platforms inventoried, migration into the two national data centres begun and completion targeted before end-2026, the inventory expressly still incomplete](https://www.queenmafa.net/2026/07/26/chantier-zero-donnee-a-lexterieur-120-plateformes-deja-repertoriees/) | Advanced |
 | Domestic commercial hosting provider | Did not exist; no wholly domestic commercial hosting provider on record | [Operating with more than 600 domain names, more than 196 web hostings and 98% availability at launch, offering services from domain registration through virtual and dedicated servers to colocation](https://www.aib.media/burkina-souverainete-numerique-ika-cloud-le-premier-hebergeur-100-local-des-donnees/) | Advanced |
@@ -59,7 +59,7 @@ Twelve months ago Burkina Faso's governance of data rested on a 2021 statute who
 
 ### Cybersecurity
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Critical-infrastructure classification decree | The 2024 information-systems security law in force with no identification, classification or mapping machinery | [Decree adopted, defining critical-infrastructure bodies as any entity housing installations indispensable to society's vital functions, expressly spanning energy, water, health, telecommunications and finance](https://burkina24.com/wp-content/uploads/2026/07/CONSEIL-DES-MINISTRES-N%C2%B025-DU-30-JUILLET-2026.pdf) | Advanced |
 | Cyber agency appropriation | FCFA 498,036,000 appropriated for 2025 | [FCFA 489,236,000 appropriated for 2026, against 444,200,000 in 2024](https://budgetouvert.wordpress.com/wp-content/uploads/2026/01/loi-de-finances-pour-lexecution-du-budget-de-letat-exercice-2026.pdf) | Regressed |
@@ -79,20 +79,20 @@ Connectivity accreted detail. The white-zone programme moved from tender to serv
 
 ### Data Exchange
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Electronic travel form | Did not exist; airport embarkation and disembarkation forms were completed on paper | [Forms filled online, with the border-police director stating that centralised data opens intelligence uses including movement analysis, anomaly detection and risk profiling](https://www.sidwaya.info/formalites-a-laeroport-la-fiche-de-police-se-remplit-desormais-en-ligne/) | Advanced |
 
 ### Digital Identity and CRVS
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Regional biometric identity card | Harmonised regional specifications validated by three security ministers in November 2024, with the older card still in issue | [A fifth-generation national card in mass production since January 2026, issuable from age five and required from thirteen, at FCFA 3,500 with ten-year validity, carrying both national and confederal marks and adopted by a second member state in March 2026](https://www.sidwaya.info/carte-didentite-biometrique-aes-au-burkina-faso-le-capitaine-ibrahim-traore-pour-commencer/) | Advanced |
 | Unique electronic identifier | A 2024 framework law in force with regional awareness workshops running, no vendor and no enrolment | [Vendor recruited and a decree organising mass registration through national, regional, provincial and communal committees run entirely by public structures so that fingerprint and iris data stay sovereign, with mass enrolment targeted before end-2026](https://www.sidwaya.info/burkina-faso-acceleration-de-la-digitalisation-de-lidentite-et-restructuration-de-la-formation-professionnelle/) | Advanced |
 
 ### Digital Payments and Fintech
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Certified electronic invoice | A 2017 paper standard was the traceability instrument; no electronic certified invoice existed | [A certified electronic invoice in operation, with control modules for firms already running invoicing software and invoicing units for those that do not](https://www.sidwaya.info/modernisation-de-ladministration-fiscale-la-facture-electronique-certifiee-officiellement-lancee/) | Advanced |
 | National payments platform | Government payments by application, web and short code, covering stamp duty, taxes and duties | [The same, plus payment links for automated traffic fines, with vehicle immobilisation for non-payment within a month](https://lefaso.net/spip.php?article148326) | Advanced |
@@ -101,24 +101,30 @@ Connectivity accreted detail. The white-zone programme moved from tender to serv
 
 ### Registries (population, land, address, etc.)
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Civil-registration platform | 3,391,907 civil-status acts digitised across 54 communes and 145,655 birth certificates issued in 2024 | [Thirty communes hold fully digitised registers, and 121,000 civil-status acts were issued to internally displaced people in 2025 against a 65,000 target](https://lefaso.net/spip.php?article144154) | Advanced |
 | Estate-agency register | Did not exist; brokering private residential leases required no licence and no register | [A compulsory national card applied for and tracked wholly online, with a legally recognised virtual card issued on validation and a register the public can query, and commissions capped](https://digitalmagazine.bf/2026/07/23/burkina-faso-lancement-officiel-de-la-plateforme-de-delivrance-de-la-carte-nationale-de-demarcheur-pour-le-bail-dhabitation-prive/) | Advanced |
 | Land and cadastre platform | Online issue of land-occupation titles since March 2025, with a cadastral extract in one day and a definitive title in sixty | [The same service, now the operating layer of a reformed land regime, with physical files no longer circulating between administrations and falsified titles rejected by the system](https://www.sidwaya.info/reorganisation-agraire-et-fonciere-la-nouvelle-loi-un-rempart-contre-les-derives/) | Advanced |
+| Births registered within the legal deadline | ***Baseline not held*** | [60.65% of births registered within the two-month legal deadline (2024), leaving nearly four in ten births undeclared in time](https://www.amade.org/en/missions/protection/civil-status-for-all/civil-registration-for-children-in-burkina-faso-oe-phase-ii.html) | ***Baseline not held*** |
+| Mining cadastre system | ***Baseline not held*** | [The computerised mining cadastre eMC+ under modernisation and expansion by its supplier on a World Bank-financed land and mining governance project](https://www.gaf.de/gaf-ag-to-upgrade-burkina-fasos-mining-cadastre-system-emc-under-the-world-bank-funded-pargfm-project/) | ***Baseline not held*** |
 | Single social register | ***Baseline not held*** | [362,698 households and 2,217,518 people, of whom 1,191,859 women, across 99 communes in ten regions, with about fifty further communes prepared for 2026](https://www.sidwaya.info/registre-social-unique-le-burkina-faso-renforce-la-protection-sociale/) | ***Baseline not held*** |
 
 ### Sectoral management information systems (HMIS, EMIS, etc.)
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Customs system | Procurement of an intelligent customs solution authorised at FCFA 3.313bn, entirely state-budget financed, nothing built | [The system in advanced testing with production imminent](https://www.sidwaya.info/transformation-numerique-inclusion-financiere-et-financement-des-pme-le-bilan-dun-projet-structurant-au-burkina-faso/) | Advanced |
 | Pension acts platform | Did not exist | [Announced as the platform that will join the pension fund, the civil-service directorate and the budget directorate on a single pension file](https://www.laborpresse.net/retraite-des-agents-publics-du-burkina-faso-une-plateforme-ecarfo-dediee-aux-formalites/) | Advanced |
 | Solidarity platform | Did not exist; vulnerability alerts were reported late and information dispersed across actors | [Assistance requests and tracking, complaint handling, solidarity appeals, financial contributions and statistical monitoring for social policy](https://www.sidwaya.info/solidarite-nationale-la-plateforme-digitale-deme-sira-officiellement-lancee/) | Advanced |
+| District health information system | ***Baseline not held*** | [Rural clinics keep paper consultation registers which health workers summarise monthly onto paper forms for district teams to key into DHIS2, with tablet-based tools running in pilot districts alongside the paper registers rather than replacing them](https://doi.org/10.1136/bmjgh-2025-019312) | ***Baseline not held*** |
+| Employment agency job-seeker platform | ***Baseline not held*** | [Online recruitment for the public employment agency, ending the drawing of lots at pre-selection, and connected to neither a government data exchange nor any labour-market information system](https://www.latribunedufaso.net/?p=3358) | ***Baseline not held*** |
+| National student registry | ***Baseline not held*** | [FIUE-BF enrols pupils and issues school identity cards, with national generalisation and interoperability set out in a strategy supported by the regional identity programme](https://www.latribunedufaso.net/?p=21538) | ***Baseline not held*** |
+| Tax administration system | ***Baseline not held*** | [Tax administration sites interconnected over the state network around a single taxpayer identifier, with the 2025-2027 operational plan setting an action to upgrade the interface with the national statistics institute](https://dgi.bf/wp-content/uploads/2025/06/Plan-daction-operationnel-2025_2027-du-PS-2023_2027-de-la-DGI.pdf) | ***Baseline not held*** |
 
 ### Other GovTech and e-Gov
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Automated traffic enforcement | Did not exist; a 2023 system allowed digital payment of fines an officer had written | [Live in the capital for four offences, with automated plate reading, interconnection to the vehicle database and the payments rail, a national supervision centre, and vehicle immobilisation for non-payment within a month](https://lefaso.net/spip.php?article148326) | Advanced |
 | Central electronic-services portal | Did not exist; procedures sat on separate ministry platforms with no authoritative index | [1,672 information sheets, 95 dematerialised procedures and 183 public institutions on a single gateway, launched partly to counter fraudulent administrative websites, with a parallel citizen-petition platform](https://www.wearetech.africa/en/fils-uk/news/tech/burkina-faso-launches-central-portal-to-streamline-e-services) | Advanced |
@@ -130,21 +136,30 @@ Connectivity accreted detail. The white-zone programme moved from tender to serv
 | Treasury platforms | Did not exist; the treasury deposit bank had operated since August 2024 with no online channel | [One platform carries treasury teleprocedures and the other is the treasury bank's round-the-clock online banking, both built in-house and financed under a World Bank project](https://www.sidwaya.info/tresor-public-lanaya-et-e-bdt-pour-simplifier-les-demarches-administratives/) | Advanced |
 | Administrative procedures live online | ***Baseline not held*** | [146 procedures operational out of 272 platforms initiated since the 2023 assises, with 69 new platforms built or started in 2025 and more than 270 procedures still in digitisation](https://lefaso.net/spip.php?article144175) | ***Baseline not held*** |
 | Certificates issued online | ***Baseline not held*** | [Over 600,000 criminal-record certificates and nearly 70,000 nationality certificates issued through justice-ministry platforms, plus about 2,000 documents from a trade-register service opened in February 2026](https://www.wearetech.africa/en/fils-uk/news/tech/burkina-faso-issues-600-000-criminal-records-online-but-rural-connectivity-gap-persists) | ***Baseline not held*** |
+| Justice online services | ***Baseline not held*** | [Online criminal complaint and case tracking, a prison visit permit service and an online commercial register service, launched under a World Bank-financed 2025-2027 programme run jointly by the justice and digital transition ministries](https://burkina24.com/2025/12/15/justice-et-transformation-numerique-le-burkina-faso-passe-a-la-vitesse-superieure-avec-un-triple-lancement/) | ***Baseline not held*** |
 | Public platforms hosted abroad | ***Baseline not held*** | [120 platforms inventoried, migration into the two national data centres begun and repatriation to finish before end-2026, with the minister stating investigations continue to find platforms not yet listed](https://www.queenmafa.net/2026/07/26/chantier-zero-donnee-a-lexterieur-120-plateformes-deja-repertoriees/) | ***Baseline not held*** |
 
 ### Digitalisation of sub-national government
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Citizen service centres | A plan being drafted, with no site under construction | [Two pilots under construction, the first of them named Zama Tchey and intended to bring postal, financial and digital services closer to the population, with architectural studies under way for a further city, eight regional capitals and fifty rural communes, against a state and postal-service contract for twenty spaces over five years; physical execution across this site and the digital infrastructure supervision centre together stood at about 20% on 2026-08-05](https://www.moussonews.com/contrats-dobjectifs-2026-467-de-taux-dexecution-a-mis-parcours-pour-dr-aminata-zerbo-sabane/) | Advanced |
 | Regional portals | Did not exist | [One portal per region covering all seventeen regions, built jointly by the territorial-administration and digital ministries, with an electronic document-archiving system](https://www.sidwaya.info/portails-des-regions-du-burkina-faso-un-pas-decisif-vers-une-administration-numerique-de-proximite/) | Advanced |
 | Maison du citoyen (first site) | Not held | [The first Maison du citoyen is 20% complete on a ministerial inspection of 7 August 2026, one of twelve structuring digitalisation projects the ministry names; the same visit inspected the national fibre backbone's network operations centre](https://digitalmagazine.bf/2026/08/07/burkina-faso-rapprocher-letat-du-citoyen-deux-infrastructures-numeriques-en-cours-de-construction/) | ***Baseline not held*** |
 
+### National statistics
+
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+|---|---|---|---|
+| National statistics instrument | No statistics law and no national statistical development strategy on file | [An organic statistics law of December 2021 in force, requiring a statistical visa from the minister before any collection of individual data, with the statistics institute's 2026-2030 strategic plan formulated to integrate census and administrative data for territorial planning](https://www.insd.bf/sites/default/files/2026-04/Plan%20strat%C3%A9gique_2026-2030%20de%20l%27INSD_0.pdf) | Advanced |
+| Economic units enumerated | ***Baseline not held*** | [389,172 economic units counted in the 2024 general business census, 96.5% of them operating informally](https://www.actualite.bf/recensement-general-des-entreprises-au-burkina-faso-389-172-unites-economiques-dominees-par-des-nationaux-selon-une-etude-de-linsd/) | ***Baseline not held*** |
+
 ### Use of satellite data
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Satellite verification of land development | Did not exist; development of a plot had to be verified by a field commission on site | [The tax administration verifies development from satellite imagery without a site visit, instructing a file in a day, and the development period is extended from five to eight years](https://www.sidwaya.info/reorganisation-agraire-et-fonciere-la-nouvelle-loi-un-rempart-contre-les-derives/) | Advanced |
+| Locality information system | ***Baseline not held*** | [A geospatial locality information system built by the statistics institute, its geospatial analysis report in validation](https://www.insd.bf/fr/node/2229) | ***Baseline not held*** |
 
 <!-- narrative: dpi -->
 The service layer was built inside the window, and that is this section's band change. At its opening there were two working assets — a payments platform from January 2025 and a land platform from March 2025 — and procedures sat on separate ministry platforms with no authoritative index. Everything that now constitutes the service layer was launched since: a central portal in May 2026, seventeen regional portals in June, and six further services between March and July.
@@ -160,7 +175,7 @@ The genuinely new kind of object is the one the state built last: an automated e
 
 ### Legislation and regulation
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Fast-track procurement decree | A fast-track procurement route with loose conditions of recourse | [Recourse restricted to national sovereignty, strategic character, grave threat to public order, security or service continuity, and humanitarian consequences of insecurity](https://www.rtb.bf/2026/07/24/compte-rendu-du-conseil-des-ministres-du-jeudi-23-juillet-2026/) | Advanced |
 | Headquarters-localisation decree | Did not exist | [Firms above a revenue threshold must build headquarters in-country, with building standards set by revenue band](https://www.ecofinagency.com/news-digital/1302-52867-burkina-faso-orders-large-firms-to-build-local-headquarters) | Advanced |
@@ -169,20 +184,20 @@ The genuinely new kind of object is the one the state built last: an automated e
 
 ### Strategies, plans and policies
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Digital contribution to the RELANCE 2026-2030 plan | Baseline not held | [Under formulation: the digital transition ministry working out what it contributes to the national plan](https://lefaso.net/spip.php?article148658) | ***Baseline not held*** |
 
 ### Standards
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Information-systems management procedures manual | A regulatory duty on every public service for more than twenty years, with no manual in existence | [Validated as a harmonised reference framework for ministerial information-systems directorates, with formal approval by joint ministerial order not recorded as signed](https://www.sidwaya.info/communication-electronique-au-sein-des-ministeres-et-institutions-un-manuel-de-procedures-de-gestion-des-systemes-dinformation-valide/) | Advanced |
 | Public digital platforms decree | In force, requiring a prior favourable technical opinion before development or acquisition and a security non-objection before go-live | [The same regime, with three sequential consents and an obligation on the supplier or in-house team to assign the full source code and current documentation before a platform goes into service](https://lefaso.net/IMG/pdf/decret_portant_modalite_de_mise_en_exploitation_des_plateformes_numeriques_de_l_administration_publique.pdf) | No change |
 
 ### Data protection
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Data protection commission | An operating authority with no repressive powers, its standing borrowed from a prime-ministerial compliance campaign | [Superseded as data-protection supervisor on the face of the August 2026 votes, never having received the enforcement decrees it asked for in March 2025](https://www.sidwaya.info/surete-aerienne-et-protection-des-donnees-a-caractere-personnel-lassemblee-legislative-du-peuple-adopte-les-projets-de-lois/) | Closed, subject to promulgation |
 | Data protection law of 2026 | Did not exist | [Voted with processing without consent prohibited and sanctioned, administrative fines indexed to turnover and scaled by gravity, transfer of sensitive data abroad prohibited, use of personal data for commercial prospecting prohibited without prior consent and enforced by administrative sanctions of the regulator without prejudice to court action, and private video-surveillance devices left lawful but framed where they face the public highway](https://www.sidwaya.info/surete-aerienne-et-protection-des-donnees-a-caractere-personnel-lassemblee-legislative-du-peuple-adopte-les-projets-de-lois/) | Advanced |
@@ -192,14 +207,14 @@ The genuinely new kind of object is the one the state built last: an automated e
 
 ### Public debate and participation in policymaking
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Broadcasting regulator | A standalone regulator of public communication exercising new social-media powers over users with 5,000 or more followers | [Its regulation of public communication passes to the merged authority, putting broadcast-content regulation and data-protection supervision under one college](https://www.sidwaya.info/surete-aerienne-et-protection-des-donnees-a-caractere-personnel-lassemblee-legislative-du-peuple-adopte-les-projets-de-lois/) | Closed, subject to promulgation |
 | Organic law on social-media regulation | Extends regulatory powers to social-media users with at least 5,000 followers, with operationalisation started in 2024 | [Same; no held source records any change, and the enforcing body is folded into the merged authority](https://burkina24.com/2025/02/11/droits-numeriques-au-burkina-faso-le-centre-national-de-presse-norbert-zongo-presente-son-rapport-2024/) | No change |
 
 ### EU activities
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | European digital cooperation instrument | In force, with digitalisation a cross-cutting theme carrying no allocation of its own | [Ended on 31 December 2024, the Commission recording that conditions for a medium-to-long-term cooperation framework are no longer met, and replaced by a EUR 238m Actions in countries in complex settings envelope held inside the regional programme and shared with three other states](https://international-partnerships.ec.europa.eu/document/download/10d4ba3f-ee66-426e-8c60-bcd89b09fd11_en?filename=ad-mip-2024-c2024-7502-sub-saharan-africa-annex_en.pdf) | Closed |
 
@@ -215,7 +230,7 @@ What did not move is the accountability side. The enforcement decrees under the 
 
 ### AI
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Dedicated AI regulation | None published | [No dedicated instrument; the justice minister told deputies the new data-protection law covers artificial intelligence notably through the prohibition on transferring sensitive data abroad, with the roadmap intended to become dedicated regulation later](https://www.sidwaya.info/surete-aerienne-et-protection-des-donnees-a-caractere-personnel-lassemblee-legislative-du-peuple-adopte-les-projets-de-lois/) | Advanced |
 | Francophone AI governance guidelines | Did not exist | [Common guidelines adopted by six states, led by an advocacy organisation, non-binding and complementary to national strategies](https://www.wearetech.africa/en/fils-uk/news/tech/six-francophone-west-african-countries-unite-on-ai-governance-framework) | Advanced |
@@ -228,7 +243,7 @@ What did not move is the accountability side. The enforcement decrees under the 
 
 ### Innovation ecosystem
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Innovation platform | Did not exist | [A platform for inventors and diaspora innovators to register projects toward local manufacture, routed to an incubator described as under construction, with no operational statement or user count since](https://www.ecofinagency.com/news-digital/2410-49818-burkina-faso-launches-faso-andube-platform-to-promote-local-innovation) | Advanced |
 | Innovation ranking | 129th of 133 economies and 23rd of 27 in sub-Saharan Africa | [The same, with the base holding no 2025 or 2026 profile](https://www.wipo.int/edocs/gii-ranking/2024/bf.pdf) | No change |
@@ -236,13 +251,13 @@ What did not move is the accountability side. The enforcement decrees under the 
 
 ### US / hyperscaler activities
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | US AI training initiative | Digital-cooperation talks at a preliminary stage, no agreement signed | [A major training initiative on digitalisation and artificial intelligence announced for 2026 in US-run spaces in three cities, with no delivery, cohort size or start date reported](https://itweb.africa/article/us-burkina-faso-alliance-to-offer-ai-training-to-youths/rW1xL75n8o9MRk6m) | Advanced |
 
 ### Gulf/UAE activities
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Gulf digital memorandum | Did not exist | [A memorandum covering AI skills, digital infrastructure, electronic-government consolidation and cybersecurity, with no project, value, timetable or delivery reported since signature](https://www.connectingafrica.com/digital-inclusion/burkina-faso-uae-s-presight-partner-to-accelerate-digital-transformation) | Advanced |
 
@@ -258,7 +273,7 @@ What merely accreted detail is the capacity story: training lawmakers, training 
 
 ### Digital divides
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Sahel connectivity project | Running, serving more than 3,650 users across two countries including host communities and refugees | [The project report published, with US$1.2m contributed by one European state, a vendor supplying access points and another agency training local teams](https://itweb.africa/article/ericsson-luxembourg-sweden-support-boosts-sahel-digital-connectivity/Pero3MZ3ozJqQb6m) | Closed |
 | Digital programme for girls and women | ***Baseline not held*** | [A EUR 2.25m grant from 2021 to 2025, recorded closed, with no evaluation, outturn or beneficiary count in the base](https://open.enabel.be/en/evaluation/23/download/96) | ***Baseline not held*** |
@@ -267,20 +282,20 @@ What merely accreted detail is the capacity story: training lawmakers, training 
 
 ### Access to services
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Consumer-protection rules | Adopted in 2023 but suspended and unenforceable | [In force, with main-balance validity extended from 90 to 180 days, promotional credit usable across networks and minimum one-month validity on data bundles; the regulator reports standard mobile-internet prices down 28 to 45%](https://www.wearetech.africa/en/fils-uk/news/telecom/burkina-faso-tightens-telecom-regulations-but-affordability-concerns-persist) | Advanced |
 | Financial inclusion promotion agency | ***Baseline not held*** | [Operating and explicitly not a regulator, with its director general arguing account counts conceal absent savings, credit and insurance](https://lefaso.net/spip.php?article148215) | ***Baseline not held*** |
 
 ### Literacy
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Financial-education campaign with an operator | ***Baseline not held*** | [A partnership running since 2025 and extended in 2026 to four cities, with 72-hour sessions on budgeting, savings, credit and consumer protection and participants acting as community relays](https://www.aib.media/guiriko-lanpfi-et-wave-burkina-lancent-une-campagne-de-formation-au-profit-des-consommateurs-des-services-financiers/) | ***Baseline not held*** |
 
 ### Training and skills
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Digital skilling output for 2025 | ***Baseline not held*** | [169 young women trained in digital trades and 214 information-technology staff recruited into ministry directorates](https://www.sidwaya.info/ministere-en-charge-de-la-transition-digitale-7805-du-taux-dexecution-physique-global-des-activites-realisees/) | ***Baseline not held*** |
 | Lawmaker AI training | ***Baseline not held*** | [About thirty lawmakers trained on artificial-intelligence fundamentals, applications and policy, to prepare review of future legislation](https://techafricanews.com/2026/07/16/burkina-faso-trains-lawmakers-on-artificial-intelligence-to-support-digital-governance/) | ***Baseline not held*** |
@@ -298,7 +313,7 @@ Two substantial operations closed inside the window and neither has a successor:
 
 ### New investments
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Digital Transformation Fund country workshop | Did not exist | [A joint development-bank fund of 71 billion FCFA for digital modernisation of public administrations across the eight monetary-union states, presented to Burkinabe public administrations at a two-day Ouagadougou workshop run with the digital transition ministry, and since documented on the fund's own site with a six-step instruction and validation process, a named national focal point, and eligibility terms of a maximum 24-month project, a budget ceiling of 2,500 million FCFA, an interest rate the fund states at 2.2% and obligatory partial state co-financing](https://ftd.boad.org/) | Advanced |
 | Financial inclusion and enterprise finance project | Running, with a digital-payments component of US$28.3m | [Closed, with 81% of indicators met or exceeded, 280,000 people given digital financial education against a 275,000 target and 17,858 transaction-account users against 9,300](https://www.sidwaya.info/transformation-numerique-inclusion-financiere-et-financement-des-pme-le-bilan-dun-projet-structurant-au-burkina-faso/) | Closed |
@@ -307,7 +322,7 @@ Two substantial operations closed inside the window and neither has a successor:
 
 ### Domestic budget appropriations and expenditure
 
-| System or instrument | At 2025-08-01 | At 2026-08-24 | Movement |
+| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Data-protection authority appropriation | FCFA 499m appropriated for 2025, of which FCFA 480.3m committed and liquidated at 30 June 2025 | [FCFA 490m for 2026, down from FCFA 857m in 2024, a 43% fall over two years while the authority's remit expands](https://budgetouvert.wordpress.com/wp-content/uploads/2026/01/loi-de-finances-pour-lexecution-du-budget-de-letat-exercice-2026.pdf) | Regressed |
 | Digital transformation and ecosystem programme appropriation | FCFA 5,846m appropriated for 2025, of which FCFA 4,087m in a single chapter named after a foreign software vendor | [FCFA 1,916,611,000 for 2026, with the vendor chapter gone and the ministry's whole domestic capital falling 72.7%](https://budgetouvert.wordpress.com/wp-content/uploads/2026/01/loi-de-finances-pour-lexecution-du-budget-de-letat-exercice-2026.pdf) | Regressed |
@@ -330,13 +345,13 @@ Domestic money moved the other way across the whole period. [The six tracked app
 | National computer emergency response team | a decree creating a national team, or an agency line naming one, would settle it; probed 2026-08-05, a live government site identifies the national team; the creating decree text was not located and the 2024 law names no decree | 2026-08-05 |
 | Energy supply for rural telecom sites | a fund or project document specifying site powering would settle it; probed 2026-08-05, no project document specifies site powering for the white-zone programme; the only powering detail anywhere is a reported solar pilot | 2026-08-05 |
 | National interoperability framework | a prime-ministerial order adopting it would settle it, and this is the central missing object of the exchange layer; probed 2026-08-05, the framework itself is unpublished; the 2024 platform decree refers to it as an existing reference and leaves its adoption to a prime-ministerial order without annexing it | 2026-08-05 |
-| National statistics instrument | a statistics law or a strategy document would settle it; probed 2026-08-05, the 2021 statistics law is on the statistics office's own site; its three implementing decrees were adopted only in July 2025 | 2026-08-05 |
 | Enforcement decrees under the 2021 law | publication of any implementing decree, or its express abrogation, would settle it; probed 2026-08-05, a June 2022 council of ministers communique records adoption of the decree organising the data-protection commission, but the decree text is unpublished and the gazette route is dead | 2026-08-05 |
 | Data-protection authority annual report | publication on the authority's site would settle it; probed 2026-08-05, the authority's own annual reports page carries a heading and nothing behind it, so the statutory publication duty is not met on its site | 2026-08-05 |
 | Access to public information law | probed 2026-08-05, the 2015 access to information law located in the broadcasting regulator's text library; the access authority it creates was never stood up for want of an implementing decree | 2026-08-05 |
 | National open-data portal | probed 2026-08-05, the national portal hostname now serves a data-engineering console rather than a public dataset catalogue; a donor-supported mirror still serves datasets; acquisition attempted 2026-08-05 and failed, absence now stated dated on the place hub | 2026-08-05 |
 | Adult digital-literacy rate | the one financial-education output figure in the base comes from a project that has now closed; probed 2026-08-05, no published rate exists; digital literacy is a stated government priority with no measured baseline attached | 2026-08-05 |
 | Repeated household access survey | probed 2026-08-05, the harmonised household living conditions survey is the repeated instrument, carrying household ICT access by region and setting across two rounds | 2026-08-05 |
+| National digital address register | a national addressing instrument, or an address register covering more than one commune, would settle it; the only addressing work on file is an EU-financed municipal programme covering three of Ouagadougou's twelve arrondissements as at April 2025 | 2026-08-25 |
 
 <!-- narrative: gaps -->
 The absences below did not close during the period and several deepened. The two laws voted on 3 August have no held text; the universal-access fund published no account of its levy in either direction across the whole window; and the 2025 execution annexe dropped the exclusion that made programme-grain outturn comparable, so the one year of visible delivery data cannot be set against the next. They are the first briefs for the country-deep sweep.
