@@ -1,11 +1,11 @@
 ---
 title: Nigeria — monthly update, July – August 2026
-compiled: 2026-08-25
-period: 2026-07-01 to 2026-08-25
+compiled: 2026-08-26
+period: 2026-07-01 to 2026-08-26
 place: NGA
-ledger_rows: 147
+ledger_rows: 152
 not_held: 9
-record: d29578ef2e9d
+record: 9f23dad7de18
 ---
 
 # Nigeria: monthly update, July – August 2026
@@ -65,6 +65,11 @@ The continental data convention still has no Nigerian signature behind it: a pee
 
 <!-- narrative: governance--gov-standards -->
 The standards move of the month is aimed at the innovation estate rather than at government systems. A draft [National Innovation Hub Standards Framework went to an Abuja validation exercise, giving hubs a self-assessment tool across seven dimensions and about 35 categories and a defined maturity pathway](https://von.gov.ng/nigeria-unveils-innovation-hub-framework-to-boost-digital-economy/), against a count of more than 339 hubs heavily concentrated in Lagos and Abuja — the stated purpose being to make a hub in a state outside those two legible enough to be funded without its founders relocating. At the same workshop the [EU delegation put Team Europe support for the country's digital sector at more than €820m between 2021 and 2027](https://punchng.com/fg-to-begin-90000km-fibre-rollout-in-october-minister/). It is a draft at validation, so what the framework will require of a hub, and who will assess it, is not yet settled.
+<!-- /narrative -->
+### Public debate and participation in policymaking
+
+<!-- narrative: governance--gov-discourse -->
+The month's one item is a formal demand rather than a policy change: a rights organisation and the Guild of Editors [jointly called on 24 August 2026 for enforcement of the Cybercrimes Act to be suspended pending repeal or revision, arguing that the 2024 amendment failed to cure the defect the ECOWAS Court of Justice identified in 2022 when it ruled the original section 24 vague, arbitrary and in breach of the African Charter](https://blueprint.ng/cybercrimes-serap-nge-seek-reform-media-freedom-cites-ecowas-court-verdicts/). No government or prosecutorial response is on file.
 <!-- /narrative -->
 
 ## Finance
