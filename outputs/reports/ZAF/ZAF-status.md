@@ -1,12 +1,12 @@
 ---
 title: South Africa — digital transformation and data governance status report
-compiled: 2026-08-24
+compiled: 2026-08-25
 place: ZAF
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-08-05
 intersections_read: 12
-sources_cited: 216
+sources_cited: 217
 sections_written: 37
 not_established: 1
 acquire_lines: 49
@@ -302,7 +302,7 @@ Much of the money behind the training is not the state's. [Germany funds a secon
 ### Research institutions
 <!-- capacity.research -->
 
-The country's national research computing centre has run out of room: [the Centre for High Performance Computing has reached maximum capacity and cannot accommodate future growth](https://www.parliament.gov.za/press-releases/media-statement-committee-science-visits-national-integrated-cyber-infrastructure-system), as parliament's science committee recorded on an oversight visit in August 2026 while [attaching no budget, timeline or capacity target to the sustained investment it called for](https://www.parliament.gov.za/press-releases/media-statement-committee-science-visits-national-integrated-cyber-infrastructure-system). It sits inside the state's own [National Integrated Cyber Infrastructure System, run by the CSIR for the science department](https://www.parliament.gov.za/press-releases/media-statement-committee-science-visits-national-integrated-cyber-infrastructure-system). Where research capacity is protected, it is protected by spectrum rather than money — [the National Radio Frequency Plan 2026 shields the radio-astronomy reserve around the Square Kilometre Array](https://www.icasa.org.za/legislation-and-regulations/national-radio-frequency-plan-2026).
+The country's national research computing centre has run out of room: [the Centre for High Performance Computing has reached maximum capacity and cannot accommodate future growth](https://www.parliament.gov.za/press-releases/media-statement-committee-science-visits-national-integrated-cyber-infrastructure-system), as parliament's science committee recorded on an oversight visit in August 2026 while [attaching no budget, timeline or capacity target to the sustained investment it called for](https://www.parliament.gov.za/press-releases/media-statement-committee-science-visits-national-integrated-cyber-infrastructure-system). It sits inside the state's own [National Integrated Cyber Infrastructure System, run by the CSIR for the science department](https://www.parliament.gov.za/press-releases/media-statement-committee-science-visits-national-integrated-cyber-infrastructure-system). Age is the other half of the problem, and it has already been exploited: the science minister told the National Assembly that the late-May 2026 breach of the Lengau supercomputer was caused by [vulnerabilities associated with the legacy high-performance computing system](https://www.itweb.co.za/article/cause-of-breach-on-sas-supercomputer-revealed/KPNG878NLeGq4mwD), that the intrusion reached parts of the environment and deployed crypto-currency mining malware, and that ageing components are technically constrained or no longer fully supported by their original vendors. [A remediation programme covering access controls, privileged-access management, network segmentation, patch management and monitoring has since been run](https://www.itweb.co.za/article/cause-of-breach-on-sas-supercomputer-revealed/KPNG878NLeGq4mwD), with no cost, data-loss finding or outage duration stated. Where research capacity is protected, it is protected by spectrum rather than money — [the National Radio Frequency Plan 2026 shields the radio-astronomy reserve around the Square Kilometre Array](https://www.icasa.org.za/legislation-and-regulations/national-radio-frequency-plan-2026).
 
 [The University of Cape Town and the Global Center on AI Governance launched the African Hub on AI Safety, Peace and Security on 28 September 2025](https://ai.uct.ac.za/events/launch-african-hub-ai-safety-peace-and-security), under the AI4D programme and financed by the UK's FCDO and Canada's IDRC, to carry African priorities into a global AI-safety debate set elsewhere.
 

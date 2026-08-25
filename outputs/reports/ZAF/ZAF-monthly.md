@@ -1,16 +1,16 @@
 ---
 title: South Africa — monthly update, July 2026
-compiled: 2026-08-24
-period: 2026-07-01 to 2026-08-24
+compiled: 2026-08-25
+period: 2026-07-01 to 2026-08-25
 place: ZAF
-ledger_rows: 100
+ledger_rows: 102
 not_held: 23
-record: 5fa78d856052
+record: 13d5e8eca046
 ---
 
 # South Africa: monthly update, July 2026
 
-*Developments recorded from artefacts published between 2026-07-01 and 2026-08-24 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
+*Developments recorded from artefacts published between 2026-07-01 and 2026-08-25 — July 2026 carried forward to the date of issue, so the report holds the nightly catch to the day it was cut. Sections follow the status report.*
 
 ## Summary of the month
 
@@ -52,6 +52,8 @@ Parliament's science committee reported after an oversight visit that the [Centr
 Two independent readings of the year both point at the same thing. The financial regulator's fourth regulatory actions report records [140 public warnings and R2.89bn in penalties on 76 persons for the year to March](https://www.itweb.co.za/article/social-media-is-sas-biggest-financial-scam-vehicle/8OKdWMDXxQrMbznQ), most warnings concerning unregistered providers promoting investment offerings on social media and about a fifth involving impersonation of licensed institutions, the regulator and its own staff among them. [Over R2bn of that total is a single deepfake-advertising matter](https://www.itweb.co.za/article/social-media-is-sas-biggest-financial-scam-vehicle/8OKdWMDXxQrMbznQ), whose debarment and penalty reconsiderations were still pending at the report date. Separately a forensics firm puts [attacker dwell time at 18 days in 2025, with some intrusions running start to finish inside a day](https://www.itweb.co.za/article/ransomware-gangs-intensify-attacks-in-sa/lLn147mQzxP7J6Aa), attributed to ransomware-as-a-service and automated reconnaissance. It is one firm's caseload rather than a national series, and a shorter dwell time is faster execution, not better defence.
 
 The state's answer to its own exposure is a training tender. The public service and administration department is [tendering to build a training programme for departmental information security officers across the public sector](https://www.itweb.co.za/article/top-ict-tenders-dpsa-targets-info-security-officer-training/WnpNgM21Zx87VrGd), to implement the directive on public service information security. No officer count, curriculum, budget or compliance deadline under that directive is stated.
+
+Its own research estate showed what the exposure costs. The science minister told the National Assembly on 24 August that the late-May breach of the national supercomputer was caused by [vulnerabilities associated with the legacy high-performance computing system](https://www.itweb.co.za/article/cause-of-breach-on-sas-supercomputer-revealed/KPNG878NLeGq4mwD), with unauthorised access to parts of the environment and crypto-currency mining malware deployed, and that [ageing components are technically constrained or no longer fully supported by their original vendors](https://www.itweb.co.za/article/cause-of-breach-on-sas-supercomputer-revealed/KPNG878NLeGq4mwD). A [remediation and resilience programme covering access controls, privileged-access management, network segmentation, patch management and monitoring has since run, with forensic support and independent assurance from the council's own specialists](https://www.itweb.co.za/article/cause-of-breach-on-sas-supercomputer-revealed/KPNG878NLeGq4mwD). No cost, data-loss finding or outage duration is stated, and the account is the department's own — against the same centre having reached maximum capacity earlier in the month.
 <!-- /narrative -->
 ### Legislation and regulation
 
@@ -115,6 +117,8 @@ The courts project went the other way. On 13 August the justice minister [referr
 
 
 Two services were told to integrate or to open. The Public Protector [found the student-aid scheme's systems insufficiently integrated with the home affairs, social security and revenue data it needs to verify students, and gave the board 30 days to produce a digital modernisation and systems-integration plan](https://www.itweb.co.za/article/nsfas-gets-30-days-to-shake-off-ict-limitations/KA3Ww7dzpAPqrydZ) covering verification interfaces, fraud controls, the elimination of duplicate applications and manual workarounds, case tracking and costed milestones; the [report records that the scheme cannot resolve 80% of contact-centre queries without internal escalation](https://www.itweb.co.za/article/nsfas-gets-30-days-to-shake-off-ict-limitations/KA3Ww7dzpAPqrydZ). In the Western Cape the province [opened free access for small businesses to a private funding-matching platform covering over 300 funders and 600 finance products](https://startupmag.co.za/2026/08/western-cape-launches-free-digital-funding-platform-for-small-businesses/), against the platform's own finding that 65.3% of provincial applicants cannot supply their latest financial statements.
+
+The month's longest departmental procurement went to the least connected population in the country. Correctional services [advertised a fifteen-year tender for an inmate communication system across 243 centres, replacing copper telephony that has deteriorated beyond support for about 166,000 inmates](https://www.itweb.co.za/article/top-ict-tenders-inmates-to-get-telecoms-upgrade/KzQenvjyx98qZd2r), the appointed supplier to design, install, integrate, operate and maintain it and to tie it to the inmate cash system so that airtime is bought from prisoners' own balances, with monitoring, recording, data storage, security and compliance in scope. No contract value is published and [bids close on 14 September](https://www.itweb.co.za/article/top-ict-tenders-inmates-to-get-telecoms-upgrade/KzQenvjyx98qZd2r), so nothing is awarded.
 <!-- /narrative -->
 
 ## Governance and regulation
