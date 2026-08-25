@@ -79,6 +79,7 @@ Authority SEC Securities and Exchange Commission	6936
 B Establishment of Cyber Security Committee	972
 BAOFANG UV-9RPlus GSP-BAO-UV5-ARCEP- Conforme VITAL SECURITE	998
 BASEIN SECURITY SERVICES LIMITED Data Processor	7167
+BASELINE CYBER SECURITY INDICATORS	10911
 BIG FIVE SECURITY LIMITED Data Controller	7167
 BLAZE SECURITY LIMITED Data Controller INST-7875191AB4E	7167
 BLUE SHIELD SECURICOR LIMITED Data Processor	7167
@@ -251,7 +252,7 @@ Cyber Security Agency	8480
 Cyber Security And Personal Data	1243
 Cyber Security Appeals Search	2727
 Cyber Security Assessment Report	2709
-Cyber Security Authority	587,188,1114,935,867,435,360,97,1352,1001,178,492,1142,17,2,1,128,51,781,114,1,226,179,56,1,71,7,1
+Cyber Security Authority	587,188,1114,935,867,435,360,97,1352,1001,178,492,1142,17,2,1,128,51,781,114,1,226,179,56,1,71,7,1,565
 Cyber Security Authority Annual	6936
 Cyber Security Authority CSA	6936
 Cyber Security Authority Establishment	587
@@ -324,6 +325,7 @@ DATA PRIVACY AND SECURITY BASELINES	3861
 DATA SECURITY	1220
 DATA SECURITY Defining	961
 DATA SECURITY Robust	1243
+DE SECURITE DES SYSTEMES D'INFORMATION	10906
 DE SECURITE DES SYSTEMES D’INFORMATION Approuvés	1186
 DES REGLES DE SECURISATION DES SYSTEMES	1801
 DETECTOR SECURITY GROUP LIMITED Data Controller	7167
@@ -380,6 +382,7 @@ ENSINO SECUNDÁRIO	10777
 ENSINO SECUNDÁRIO GERAL	10766
 ENSINO SECUNDÁRIO PEDAGÓGICO	10766
 ESWATINI SECURES E1 BILLION DIGITAL FUNDING	7453
+EVALUATION DE LA SECURITE DU SYSTEME	10906
 East Africa Information Security Conference	10416
 East African Securities Exchanges Association	6938
 Electronic Transactions and Cyber Security Act	799,9611
@@ -461,6 +464,7 @@ European Security	3782
 European Union Cyber Security Agency	10764
 European Union’s Foreign and Security Policy	970
 Evaluate Security Controls On Physical Infrastructure	34
+Evidence National Cyber Security Strategy	10911
 Expo Benghazi Security Directorate	4630
 F21 Social Security and Tax Number	10714
 FOOD SECURITY BY PROVINCE Data	10763
@@ -483,15 +487,17 @@ Forcepoint Web Security	10102
 Foreign and Security Policy	7794
 Foreign and Security Policy Between the African Union	7794
 Forum for Incident Response and Security Teams	5780
-Forum of Incident Response and Security Teams	1264,513,3900,5087
+Forum of Incident Response and Security Teams	1264,513,3900,5087,147
 Functions of Cyber Security and Monitoring of Interceptions	972
 G Frameworks and Cyber Security Capacity	721
+GENERAL CYBER SECURITY INDICATORS	10911
 Gambia Computer Security Incident Response	1000
 Gambia Computer Security Response Units Supporting	1000
 Gender Eradication of Economic Security	970
 General Delegation for National Security	303,36,2018,73,89,5070
 General Directorate for National Security	6147
 General Directorate of National Security	619,1449,720,2207,1317,140,741,102
+General Information Systems Security Reference Framework	10911
 Germany Consortium Veridos. Uganda Security Printing	1282
 Ghana Takes Major Step Towards Secure	3384
 Ghana. Securing	9007
@@ -577,7 +583,10 @@ Information Security Policy	10721
 Information Security Policy for Access Security	1686
 Information Security Researcher	3279
 Information Security and Cybersecurity for Cloud ISO	6432
+Information Security and Web Technologies	10911
+Information System Security Assessment	10911
 Information Systems Security Agency	2838,1917,515
+Infrastructures and Security	10911
 Institute for Security Studies	4127,2260,563,1900,549,217,446
 Institute for Security Studies and African Futures	7233
 Institute for Security Studies. All	9616
@@ -637,6 +646,7 @@ Livelihoods and Food Security	10841
 Local Markets and Securities Au- Government	6938
 Local Server Local Server Social Security	10775
 Lusaka Securities Exchange	6011,176,809
+MAINTENIR LA SECURITE ECONOMIQUE ET	10906
 MAN-MOT-GM3- Conforme SECURITE AH-710 Base	998
 MANAGEMENT OF CYBER SECURITY	6946
 MANGA SECURITE Validé Acceptée Welthunger Hilfe	998
@@ -753,7 +763,7 @@ National Cyber Security Incident Response Team	1535
 National Cyber Security Index	5780
 National Cyber Security Operations Centre	6803
 National Cyber Security Policy and Strategy	1889
-National Cyber Security Strategy	318,6460
+National Cyber Security Strategy	318,6460,4133
 National Cybersecurity Strategy NSCA National Security	6432
 National Directorate of Food and Nutrition Security	10763
 National Food Security Index	4528
@@ -912,7 +922,9 @@ Quality Security Use	1243
 REGULATION OF CORPORATE FINANCE AND SECURITIES	3714
 RULE OF LAW SECURITY	10759,76,2,1
 RULE OF LAW Security	10759,78
+Raxio Secures	10956
 Real National Security Concerns	1243
+Referentiel General de Securite des Systemes	10906
 Regarding Cyber Security Audit and Cyber Sec	7538
 Regional Energy Security	5765
 Regular Security Audits and Penetration Testing	10721
@@ -940,6 +952,7 @@ SECURIPORT	9928
 SECURITE ALIMENTAIRE	737
 SECURITE ALIMENTAIRE Au Burkina Faso	737
 SECURITE DE LECTURE DE TA PUCE	10813
+SECURITE DES SYSTEMES D'INFORMATION ET	10906
 SECURITE Installation	998
 SECURITE SOCIALE	3381
 SECURITIES EXCHANGE ACT	8939
@@ -981,7 +994,7 @@ Secundário Ensino	10777
 Secundário Taxas Líquidas de Frequência Escolar	10777
 Secur	5242,3881
 Secur1it1y.8anSdeAccucrietyssanCdoAnctrcoel	10157
-Secure	21,13,361,504,110,152,43,39,282,415,48,620,69,706,743,94,308,180,99,726,58,86,113,280,85,115,162,172,603,71,35,1,234,48,495,514,530,311,1205,56,14,171
+Secure	21,13,361,504,110,152,43,39,282,415,48,620,69,706,743,94,308,180,99,726,58,86,113,280,85,115,162,172,603,71,35,1,234,48,495,514,530,311,1205,56,14,171,64
 Secure Archival and Integrity Protection	3861
 Secure BGP	3840
 Secure Cloud and AI Innovations	6653
@@ -997,6 +1010,7 @@ Secure Digital Services ACCOUNTABILITY WITHIN DIGITAL	6936
 Secure Domain Controllers	10721
 Secure Employment Opportunities	10759,76,2,1
 Secure Employment Opportunities ACCOUNTABILITY	10835,3
+Secure Enjoy	10956
 Secure Environment	1000
 Secure Eswatini	3716
 Secure Future	10415
@@ -1047,6 +1061,7 @@ Securing and Facilitating Trade	4827
 Securing and Scaling Digital Process	8386
 Securing the Future	6310
 Securing the Future Through Digital Trust	10416
+Securing the Procedure for Issuing the ACD	10930
 Securite Sécurité	4960
 Securite des Systemes	6969
 Securities	3714,2354,870,260
@@ -1065,7 +1080,7 @@ Securities and Exchange Commission. Legal	8788
 Securities-related	9230
 Securitisation	5242
 Securitization Agenda	2117
-Security	21,6,7,548,201,6,172,9,2,28,9,211,113,127,14,156,56,56,86,49,63,48,129,219,141,197,35,349,72,156,149,169,110,147,241,426,35,47,51,99,101,354,29,12,107,59,207,36,108,19,33,491,100,6,1,9,10,323,126,328,259,70,2,25,446,1,383,117,148,397,1,55,6,317,9,400,47,37,44,66,5,19,84,31,33,113,21,105,258,3,4,34,5,1,54,10,6,2,1
+Security	21,6,7,548,201,6,172,9,2,28,9,211,113,127,14,156,56,56,86,49,63,48,129,219,141,197,35,349,72,156,149,169,110,147,241,426,35,47,51,99,101,354,29,12,107,59,207,36,108,19,33,491,100,6,1,9,10,323,126,328,259,70,2,25,446,1,383,117,148,397,1,55,6,317,9,400,47,37,44,66,5,19,84,31,33,113,21,105,258,3,4,34,5,1,54,10,6,2,1,71,3,1,43
 Security A Licensee	762
 Security Actors	10819
 Security Admin	10721
@@ -1125,6 +1140,7 @@ Security Incident Management Maturity Model	7736,1734
 Security Information and Event Management	5793,639,4289
 Security Initiative	9416
 Security Journal	9616
+Security Layers	10956
 Security Layers Colocation Cross Connect	9446
 Security Load	6432
 Security Management Plan	2889,567,148,7225
@@ -1136,7 +1152,7 @@ Security Obligations and IoT Vulnerabilities Section	8776
 Security Operation Center	6237
 Security Operations Center	1777,2066,2989,888,3001
 Security Operations Centers	3604,2073,3630,868,546
-Security Operations Centre	2662,47,628,747,1449,260,1153,1529,225,1028,111,409,57,416
+Security Operations Centre	2662,47,628,747,1449,260,1153,1529,225,1028,111,409,57,416,235
 Security Operations Centre SQL Structured Query	6432
 Security Operations Centres	3787
 Security Operations and Management Incident	9123
@@ -1218,6 +1234,7 @@ Senior Lecturer Information Systems and Cyber Security	3654
 Service Level Agreement Security Operations Centre	10157
 Serving Households NSE Nairobi Securities Exchange	2775
 Sierra Leone Securities and Exchange Commission	6938
+Simplification and Security of Acts	10937
 Site Security	9123
 Social Security	2307,2303,1848,480,1831,2006,37
 Social Security Fund NTSA National Transport	2775
@@ -1261,6 +1278,7 @@ T Security Auditors	6832
 TECHNICAL AND SECURITY STANDARDS APPLICABLE	6432
 TENURE SECURITY	3861
 TOPPAN SECURITY LIMITED	9399
+TRAITEMENTS DES INCIDENTS DE SECURITE	10906
 TRANSPARENCY Secure Employment Opportunities	10835,3
 Technical Feasibility Studies and Security Risk Management	6928
 Telecom Network Security	718

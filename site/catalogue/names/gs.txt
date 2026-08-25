@@ -83,7 +83,7 @@ GSMA Handset Affordability Coalition	6593
 GSMA Handset Ethiopia	6593
 GSMA Head Office	6593
 GSMA Head Office One Angel Lane	10856
-GSMA Intelligence	1623,858,1,4,4,1,1,1,1,1,2,1,5,1,1,1,1402,3,1,1,4,1,1,1,1755,918,239,54,461,226,452,2047,750,34,3
+GSMA Intelligence	1623,858,1,4,4,1,1,1,1,1,2,1,5,1,1,1,1402,3,1,1,4,1,1,1,1755,918,239,54,461,226,452,2047,750,34,3,73
 GSMA Intelligence Connectivity	6593
 GSMA Intelligence Enterprise	6593
 GSMA Intelligence Figure	10856
@@ -91,6 +91,8 @@ GSMA Intelligence Operators	6593
 GSMA Intelligence Policies	6593
 GSMA Intelligence and GoYo Analytics	10856
 GSMA Intelligence and Kepios	2483,1,1,4,7,1413
+GSMA Intelligence. Authors	10932
+GSMA Intelligence. Copyright	10932
 GSMA Intelligence. The Mobile Economy Africa	6467
 GSMA M4H	6024
 GSMA ME SSA 2024 Web.pdf	7548
@@ -125,6 +127,7 @@ GSMA Republic of Congo	7347
 GSMA SSA	1923
 GSMA Satellite Regulatory Playbook	7825
 GSMA State	5497,2677
+GSMA Tax Database. Côte	10932
 GSMA The GSMA Digital Identity Programme	10822
 GSMA Through Line Advisors Through Line	10856
 GSMA USAID	1169

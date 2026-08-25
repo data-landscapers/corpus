@@ -94,6 +94,7 @@ ASHITIVA ADVOCATES LLP Data Processor INST-106386DB3D0	7167
 ASHLINK GENERAL SUPPLIES LTD Data Controller	7167
 ASHLINK GENERAL SUPPLIES LTD Data Processor	7167
 ASHNIL HOTELS LIMITED Data Controller INST-668069DF4C8	7167
+ASHRAE TC9.9	10956
 ASHRAE TC9.9 Connectivity Carrier Neutral Carrier	9446
 ASHRAE Thermal Guidelines	9123
 ASHRAE-derived	9123
@@ -319,7 +320,7 @@ African Financial Institution Assets of GDP	6938
 African IXP Association	9795
 African Non-Banking Assets of GDP	6938
 African Private Capital Association	5957
-African Private Equity and Venture Capital Association	4972
+African Private Equity and Venture Capital Association	4972,5970
 African Securities Exchanges Association	6938
 African Telecommunications Union Spectrum Assignment	7827,262
 African Telecommunications Union Spectrum Assignment Plan	7850,323
@@ -609,12 +610,12 @@ Asoyon Renal and Outpatient Clinic Data Controller	7167
 Aspect	10821
 Aspect Impact Mitigatio Frequenc Time Performance	1988
 Aspectos	10783
-Aspects	748,210,856,5145
+Aspects	748,210,856,5145,3960
 Aspects Coordinator Strategy	1777
 Aspects The Joint Committee	6748
 Aspiraciones	1701
 Aspirante	10750
-Aspirated	9446
+Aspirated	9446,1510
 Aspirational	1564,3174,2487,3631
 Aspirations	737,1077,8381
 Aspire	5700,5152
@@ -627,12 +628,13 @@ Assad	5011
 Assad Arabi	9681
 Assainir	8891
 Assainis- En	2342
-Assainissement	643,94,1605,1054,1499,2009,1074,291,609,13,396,55,1370
+Assainissement	643,94,1605,1054,1499,2009,1074,291,609,13,396,55,1370,188,2
 Assainissement Des	3396
 Assainissement Direction	2342
 Assainissement Nombre	3396
 Assainissement VERSUS BANK ONAD TRANSPORTS ONEP	2342
 Assainissement du Accroître	10712
+Assainissement. Au	10902
 Assainissment	3396
 Assal	10611
 Assam	3791
@@ -685,7 +687,7 @@ Assembly. Best	10837
 Assembly. He’s Very Wrong	10034,231
 Assembly. So	7932
 Assemblé Nationale	2342
-Assemblée	113,323,120,630,83,1,27,1,1,1,30,254,4,3,1,152,57,116,1,101,44,498,192,89,13,116,105,113,161,31,15,310,63,30,25,12,6,104,47,134,30,2,71,1,7,11,20,72,22,17,3,3,34,274,157,19,126,25,135,1,147,248,229,96,72,146,64,3,113,17,98,9,79,23,119,119,11,22,117,233,2,139,43,118,237,9,10,87,329,225,15,1,178,218,2,15,71,65,1,4,41,548,19,206,93,163,13,4,107,90,83,237,17,65,2,216,26,4,11,14,18
+Assemblée	113,323,120,630,83,1,27,1,1,1,30,254,4,3,1,152,57,116,1,101,44,498,192,89,13,116,105,113,161,31,15,310,63,30,25,12,6,104,47,134,30,2,71,1,7,11,20,72,22,17,3,3,34,274,157,19,126,25,135,1,147,248,229,96,72,146,64,3,113,17,98,9,79,23,119,119,11,22,117,233,2,139,43,118,237,9,10,87,329,225,15,1,178,218,2,15,71,65,1,4,41,548,19,206,93,163,13,4,107,90,83,237,17,65,2,216,26,4,11,14,18,68
 Assemblée Administration	9480
 Assemblée Générale	10821
 Assemblée Générale des Nations Unies	10826
@@ -820,7 +822,7 @@ Assinatura Do Protocolo De Coopera	9399
 Assinatura Qualificada	7948
 Assinaturas	1144
 Assinaturas Electrónicas	9909
-Assinie	10035
+Assinie	10035,902
 Assis	2261
 Assise	7355
 Assises	4600,2888,2879
@@ -830,7 +832,7 @@ Assist Employees’ Productivity	2816
 Assist SMEs	1885
 Assist the Poor	100,8647
 Assist the SADC Secretariat	962
-Assistance	26,1258,499,6,1,1,1,3,931,1,481,329,891,1531,235,891,4,1148,2489,37,113
+Assistance	26,1258,499,6,1,1,1,3,931,1,481,329,891,1531,235,891,4,1148,2489,37,113,44
 Assistance Evidence	2727
 Assistance Human-in-the-loop	10726
 Assistance NGO Non-Governmental Organization NNGO National	6947
@@ -1696,6 +1698,7 @@ Governor Johnson Pandit Asiama	4905,3
 Governor’s Special Assistant	3133
 Grace Ashiru	1696
 Graduate Assistant	9104
+Greater Abidjan and Assinie	10937
 Group A. The Europe and Central Asia	10785
 Grâce Assani	5710
 Gyandoh Asmah and Co	7696
@@ -1812,6 +1815,7 @@ Indian Association and DCIC	10564
 Information Assurance	1785,1,1416,1,3880,1
 Information Industry Association	7209
 Information Infrastructure Assets CM-NSCI	10721
+Information System Security Assessment	10911
 Information Systems Audit and Control Association	9237,1179,13
 Information Systems for Health Maturity Assessment Toolkit	1824
 Information Technology Association	1000
@@ -2168,6 +2172,7 @@ Nigerian Internet Registration Association	6536
 Nigerian Medical Association Germany	7895
 Nigerian Nurses Charitable Association UK	7895
 Nigeria’s National Assembly	3942
+Nigeria’s Wholesale Fixed Broadband Market Assessment	10958
 Nine Months The National Assembly's FY	6588
 No. of Frequency Assignments	6946
 No. of Land Mobile Frequency Assignments	6946
@@ -2546,7 +2551,7 @@ South Sudan’s Transitional National Legislative Assembly	10657
 South and Asia	4528
 South and Southeast Asia	1162
 South and Southeast Asia. SSA African	1162
-South-East Asia	4676
+South-East Asia	4676,6278
 South-East Asia-Middle East-Western Europe	4676
 Southeast Asia	415,2262,372,1425,568,182,28,5,606,162,201,2403,802,278,95
 Southeast Asia-Japan Cable	1766,2910
@@ -2599,6 +2604,7 @@ Subvención de Equilibrio ASECNA	4209
 Sudan Digital Economy Assessment	986
 Sudan. Refugees and Asylum Seekers	6493
 Sudeste Asiático	2816
+Supervision. ASD	10940
 Suppliers Association	5675
 Supplies Authority KEMSA Quality Assurance Laboratory	4153
 Sustainability Assurance	2518
@@ -2745,6 +2751,7 @@ VOLUNTARY DELISTING Assisted	4896
 Valuable Assets	3279
 Varios Asuntos Sociales	4209
 Vendor Lock-in Portability Assurance GCSPs	6432
+Very Different Intensity Africa and South-East Asia	10954
 Village Assessment Survey County Profiles	1867
 Village Savings and Loan Associations	10299,542
 Virtual Asset Act	3270,19

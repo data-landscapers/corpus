@@ -82,7 +82,7 @@ Coloniality of Chinese Surveillance Technologies	2518
 Communication VPG Sur	7541
 Community Based Surveillance	4349
 Community-Based Surveillance CCS	10776
-Conseil de Surveillance	7805
+Conseil de Surveillance	7805,3116
 Consultas Pré-natais Census and Survey Processing System	10777
 Consumer Pulse Survey	8482
 Consumer Survey	7802
@@ -91,7 +91,12 @@ Continous Multipurpose Household Survey Sweden	30
 Contracting and Disposal of Surplus	10008
 Coopération Internationale. Sur	5223
 Corporations Survey PAGE	2775
+Cost of Payments Survey	10901
 Credit Conditions Survey	7907
+Cross-Sectional Survey Among Users	10919
+Cross-Sectional Survey Among Users Authors	10919
+Cross-Sectional Survey Among Users Skip	10919
+Cross-Sectional Survey Among Users URL	10919
 Customer Satisfaction Survey	6946
 Customer Satisfaction Survey The Authority	6946
 Cybersecurity Skills Gap Survey	1940
@@ -266,6 +271,9 @@ International Journal of Surgery	1248
 International Scene Economic Survey	2775
 International Survey	1828
 Investment Economic Survey	2775
+JMIR Public Health Surveill	10919
+JMIR Public Health Surveill. Dec	10919
+JMIR Public Health and Surveillance	10919
 JURÍDICOS INNOVACIÓN SOCIAL BIOKO SUR ANNOBON	4209
 Jean Edouard SURGOU. E. MINISTERE	7670
 Jobs Survey. Asian Development Bank Brief	10718
@@ -296,6 +304,7 @@ Location and Electronic Surveillance	3722
 L’ÉTAT ACTIONNAIRE UN IMPACT REAFFIRMÉ SUR	2342
 MACROECONOMIC STABILITY Surveyed Zambian	5247
 MDAs. Surveys	1284
+MENACES ET VULNERABILITES PESANT SUR	10906
 MICS Multiple Indicator Cluster Survey MOH	10829
 MICT SETA Tracer Study Survey	6832
 MONDIALE SUR LE MAROC Rapport	7655
@@ -388,6 +397,8 @@ RAPPORT ANNUEL SUR L	4459
 RAPPORT ANNUEL SUR L'ÉVOLUTION DES SERVICES	4459
 RAPPORT ANNUEL SUR LA GESTION	2342
 RAPPORT ANNUEL SUR L’ÉVOLUTION DES SERVICES	4459
+RAPPORT SUR LES IMF	10922
+RAPPORT SUR LES INFRASTRUCTURES DE MARCHÉS	10922
 REGLEMENTAIRES Sur	7843,394,1105
 REPUBLIC OF GHANA Appendix SURVEY	582
 RGPH-4. CAP SUR LA QUATRIEME PHASE	9277
@@ -518,6 +529,7 @@ Surveillance By Evin McMullen Age Verification	9328
 Surveillance Footprint	2549
 Surveillance Law	1250
 Surveillance Malaria	4167
+Surveillance Systems	10919
 Surveillance Threats	3021
 Surveillance and Integrate HAI	4202
 Surveillance and Laboratory Testing	10776
@@ -580,6 +592,7 @@ Telecel. Sur	5071
 Telegram. Sur	10389
 Through the Evidence-Based FinScope Survey	418
 Timing Survey	10714
+Tout Savoir Sur	10907
 Tracer Study Survey	6832
 Traducteur-Interprète. AU CHAPITRE DES COMMUNICATIONS Sur	7843
 Transport Economic Survey	2775
@@ -619,6 +632,8 @@ Voz de Centro Sur	4209
 WB Enterprise Surveys Benin	1400
 WELE-NZAS NTEM BIOKO SUR BIOKO NORTE	4209
 WELE-NZAS NTEM CENTRO SUR BIOKO SUR	4209
+Web-Based Survey	10919
+Web-Based Survey Data	10919
 World Bank Enterprise Survey	1828
 World Bank Enterprise Survey Implementation Report	10862
 World Bank Enterprise Surveys	1400,9462

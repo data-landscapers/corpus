@@ -38,7 +38,7 @@ Actualización PE C2 INDUSTRIA INSPECCION ANUAL	4209
 Additional Indicators	1818
 Adetikope Industrial Platform	2861
 Administração Indirecta	4146,6637
-Adobe InDesign	1940,837,3151,508,1918
+Adobe InDesign	1940,837,3151,508,1918,2568
 Africa AI Governance Index	6937,274,3409
 Africa Commerce and Industry Summit	9333
 Africa Customer Satisfaction Index	8677
@@ -119,6 +119,7 @@ B3 INDUSTRIA Libreta	4209
 BAD. Indice	8891
 BANK OF INDIA Data Controller INST-2062751BC30	7167
 BANK OF INDIA Data Processor INST-2062751BC30	7167
+BASELINE CYBER SECURITY INDICATORS	10911
 BOBMIL INDUSTRIES LIMITED Data Processor INST-3565385B2EE	7167
 BRICS India	2117
 BRICS Industry Ministers’ Meeting	9332
@@ -499,6 +500,7 @@ G and Industrial IoT	3796,1205
 GCI Global Cybersecurity Index GDP Gross	6946
 GDP Industry	2775
 GDP. The Global Crypto Adoption Index	9709
+GENERAL CYBER SECURITY INDICATORS	10911
 GHANA EXTRACTIVE INDUSTRY TRANSPARENCY INITIAVE	170
 GHz INDEPENDENT COMMUNICATIONS AUTHORITY OF SOUTH	7850
 GOVTECH MATURITY INDEX	10785
@@ -640,6 +642,7 @@ IMF Financial Soundness Indicators	6938
 IMF International Monetary Fund IPP Independent	10861
 IMF's AI Preparedness Index	7637
 IMPÔTS INDIRECTS	10712
+INCIDENT AND CRISIS MANAGEMENT INDICATORS	10911
 IND KENKORPOL GEO VNMHRV GHA MAR	7655
 INDDL	7555,170
 INDEFOR-AP	4209
@@ -728,7 +731,7 @@ Inde. En	4657
 Inde. Il	3100
 Indecent	587
 Indecisive	10841
-Indeed	27,209,530,23,210,162,51,151,449,213,908,72,432,167,178,138,207,312,108,301,35,87,393,370,159,497,88,357,104,12,429,43,4,45,207,208,52,347,437,256,9,344,321,661,189,212,4,45,1,67,10,15,3,22
+Indeed	27,209,530,23,210,162,51,151,449,213,908,72,432,167,178,138,207,312,108,301,35,87,393,370,159,497,88,357,104,12,429,43,4,45,207,208,52,347,437,256,9,344,321,661,189,212,4,45,1,67,10,15,3,22,59,15
 Indefeasible Right of Use	7014
 Indefeasible Rights of Use	4676
 Indeje David	8764
@@ -851,6 +854,7 @@ India Asia Xpress	4676
 India Blueprint for Growth	4444
 India Brand Equity Foundation	7548
 India By Alfred Shilongo	3253
+India CHWs	10940
 India CIS Europe Russian Federation Switzerland	10844
 India CIS Russian Federation International Telecommunication	10764
 India Company	2511
@@ -886,6 +890,7 @@ India and Brazil India and Brazil	3391
 India and Canada	4132
 India and China	226,5307
 India and Europe	411,1403
+India and Indonesia	10940
 India and Italy	5095
 India and Italy Launch Trilateral Sovereign AI	5095
 India and Kazakhstan	10846
@@ -1058,7 +1063,7 @@ Indicative Timeline	5853
 Indicative Triggers	10779
 Indicative. Crosswalk	1544
 Indicatively	970,8582
-Indicator	958,246,24,639,909,3763,132,257,18,276,326,3211,9,12,55,2,1
+Indicator	958,246,24,639,909,3763,132,257,18,276,326,3211,9,12,55,2,1,74
 Indicator Baseline	940
 Indicator FY	6946
 Indicator Guaranteed Intervention Time	5676
@@ -1177,7 +1182,7 @@ Indivíduos	10777
 Indo-Aid	7982,1358
 Indo-Pacific	3398,1278,5675
 Indoingso	8602
-Indonesia	226,423,441,734,293,288,370,98,929,457,173,172,543,219,316,704,856,160,146,183,28,203,20,148,365,743,408,63,118,30,670,187,71,61
+Indonesia	226,423,441,734,293,288,370,98,929,457,173,172,543,219,316,704,856,160,146,183,28,203,20,148,365,743,408,63,118,30,670,187,71,61,55
 Indonesia Global Cybersecurity Index	10764
 Indonesia India International Telecommunication Union	10764
 Indonesia International Telecommunication Union	10844
@@ -1189,6 +1194,7 @@ Indonesia and Mexico. Between	6868
 Indonesia and Mexico. Tourist	6867,1
 Indonesia and Papua New Guinea	6451
 Indonesia and South Africa	6386
+Indonesia and Zambia	10901
 Indonesian	2093,5889
 Indonesian Cable Express IV	2677
 Indonésie	6613,1369,533,825
@@ -1262,7 +1268,7 @@ Industrias	1701,2508
 Industrias Creativas	1701
 Industrias Creativas Ejes Estratégicos Sistemas de Gestión	1701
 Industrias Extractivas	8378
-Industrie	1280,402,194,281,296,592,351,90,916,30,166,1551,628,86,792,15,60,38,169,41,259,84,487,83,63,642,223,195,861
+Industrie	1280,402,194,281,296,592,351,90,916,30,166,1551,628,86,792,15,60,38,169,41,259,84,487,83,63,642,223,195,861,25
 Industrie CNS	10874
 Industrie Redevabilité	2514,842
 Industrie de Côte	2418
@@ -1279,7 +1285,7 @@ Industries	737,2038,1351,960,447,965,2354,1847,176
 Industries Extractives	4169,4355
 Industries Minières	1682
 Industries and Real Estate	2775
-Industry	11,576,202,169,42,131,857,276,65,76,172,90,108,1,77,93,11,146,118,70,62,225,284,71,188,47,27,64,100,73,151,18,8,23,143,43,30,132,230,31,4,1,1,2,117,215,14,32,145,2,26,2,20,58,142,48,162,58,75,48,27,119,105,25,44,2,13,25,1,58,10,31,11,10,41,1,10,2,72,41,5,93,45,44,8,22,124,136,10,12,54,262,33,113,108,77,1,13,19,1,48,72,1,2,50,1,44,53,75,17,184,47,36,84,88,83,3,24,84,74,111,142,223,33,32,104,102,151,104,150,125,268
+Industry	11,576,202,169,42,131,857,276,65,76,172,90,108,1,77,93,11,146,118,70,62,225,284,71,188,47,27,64,100,73,151,18,8,23,143,43,30,132,230,31,4,1,1,2,117,215,14,32,145,2,26,2,20,58,142,48,162,58,75,48,27,119,105,25,44,2,13,25,1,58,10,31,11,10,41,1,10,2,72,41,5,93,45,44,8,22,124,136,10,12,54,262,33,113,108,77,1,13,19,1,48,72,1,2,50,1,44,53,75,17,184,47,36,84,88,83,3,24,84,74,111,142,223,33,32,104,102,151,104,150,125,268,92
 Industry Analysis	10718
 Industry Applications	6924
 Industry Based Learning	1000
@@ -1650,6 +1656,7 @@ National Mortgage Industry Policy	8087
 National Payments Corporation of India	6894,2048
 National Payments Trust Index	8292
 National Qualifications Framework. Industry	6832
+National Register of Individuals	10915
 Nationale Indépendante	10812
 Networked Readiness Index. Global Information Technology	961
 News Industry Namibia	5407,676
@@ -1703,7 +1710,7 @@ Outcomes RESULT FRAME TBL PD O Indicator Name	1284
 Outcomes RESULT FRAME TBL PDO Indicator Name PBC Baseline	1228
 Oxford Government AI Readiness Index	7588,422,1564
 Oxford Insights AI Readiness Index	3902
-Oxford Insights Government AI Readiness Index	3344,4204
+Oxford Insights Government AI Readiness Index	3344,4204,3366
 Oxford Insight’s Global AI Index	1814
 PART THREE INDIVIDUAL LICENSES	762
 PDO Indicator	3604
@@ -1902,7 +1909,7 @@ SA Journal of Industrial Psychology	4432
 SADC Industrialisation Week	9959
 SADC Industrialisation Week and Exhibition	9761
 SADC Regional Indicative Strategic Development Plan	970
-SDG Index	10759,76,2,1
+SDG Index	10759,76,2,1,74
 SIEC Standard Industrial Energy Product Classification	2775
 SME Confidence Index	9881
 STANFORD UNIVERSITY. Artificial Intelligence Index Report	2816

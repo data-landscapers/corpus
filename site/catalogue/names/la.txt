@@ -566,6 +566,7 @@ DFS Lab	493,177,829
 DFS Security Lab	5428
 DHANJI LAXMANBHAI RAGHWANI FAMILY TRUST Data	7167
 DIGITAL IDENTITY LANDSCAPE	1939
+DIGITAL PAYMENT LANDSCAPE IN CÔTE D'IVOIRE	10901
 DISCOVERY LABS LIMITED Data Controller INST-325385C0594	7167
 DJOGBENOU Socco LAFIA Le MinisTre	10813
 DOSSO Lanciné PMI	2342
@@ -639,6 +640,7 @@ Digital Economy and Digital Labour Terminology	226
 Digital Fabrication Laboratory Fondazione Aurora. Retrieved	10834
 Digital Forensic Lab	5244
 Digital Forensic Lab The Digital	5244
+Digital Forensic Laboratory Slides	10911
 Digital Forensic Research Lab	10088
 Digital Identity Innovation VP Mohadi Launches	3965,1438,1506
 Digital Identity Institutional Lack	10819
@@ -684,6 +686,7 @@ Djibouti Officially Launches Mobile ID Digital	4977
 Dk Lawi. Mtaalamu	4364
 Dk Yohana Lawi	4364
 Dock Labs	6499,44,465,56,47,32
+Domestic Law Privacy	10908
 Double Biometric Layer	9390
 Dr. Dayo Lajide	9444
 Dr. Lado Wani Kenyi	2685
@@ -773,7 +776,9 @@ European Law Journal	5349
 European Review of Labour and Research	226
 Europe’s Tough New Data Law	1243
 Evaluation ILO International Labour Organization IMF	10759,78
+Evidence Laboratoire de Criminalistique Numérique	10911
 Evidence Law	1000
+Evidence Law N	10911
 Ex-maternité Lagune	7355
 Excellency Paul Biya. Launched	4562
 Executive Governor of Lagos State	2563,3813
@@ -1045,7 +1050,7 @@ Innovation Laboratory for Public Finance	5587,1
 Institutional Layer	6442
 Integrated Labour Market Information System	10658
 Integrated National Laboratory Network	4260
-Integrated Urban Land Management System	4064
+Integrated Urban Land Management System	4064,6866,7
 Integration of International Law Article	3861
 Interaction Between Privacy and Competition Law	961
 Interbank Large-value	6938
@@ -1078,12 +1083,14 @@ Intérieur Lambert Noël MATHA Le Ministre	548,683
 Inveep. Lancée	8565
 Investment Stage Focus Late Stage	4972
 IoT Lab	3604
+Italian Funding Firm Launches Novagria Ventures	10931
 Items Rates Land	1154
 Ivoire Gov Tech Lab	8516
 Ivoire GovTech Lab	9291
 Ivoire Jamaica Kiribati Kuwait Kyrgyzstan Latvia	10764
 Ivoire Launches EMY	5464,8
 Ivoire and UNDP Launch Digital Training Initiative	6329
+Ivoire’s Agricultural Landscape Agriculture	10931
 Ivory Coast Launches FCFA	3218
 Ivory Coast Launches Interoperability Platform	3661
 J Intellect Prop Inf Technol Law	9739
@@ -1094,6 +1101,7 @@ JSR Launch Log	6467
 JUDICIAL Y TERRO LABO. NACIONAL PERSONAL	4209
 January. Launched	4880
 Jason Lamb	10856
+Jean-Philippe Lasme	10942
 Jesse Lastunen	10856
 Jitume Digital Lab	1236
 Jitume Lab	1236
@@ -1421,7 +1429,7 @@ Labour Migration Strategy	10463
 Labour Officer	1988
 Labour Organisation IMF International Monetary Fund	2775
 Labour Organization IMF International Monetary Fund	10835,3
-Labour Relations	10759,76,2,1
+Labour Relations	10759,76,2,1,74
 Labour Shares	10829
 Labour and Energy	7481
 Labour and Public Service Minister Faya François	4142
@@ -1486,7 +1494,7 @@ Lago Dilolo	6595
 Lago Dilolo Moxico-Leste	6595
 Lagodinsky	8014
 Lagoon	8610,233
-Lagos	388,59,124,68,217,143,39,69,29,84,143,201,117,124,7,8,201,113,21,122,52,26,26,36,45,69,4,1,27,27,2,3,10,72,148,2,107,72,5,1,18,7,28,36,10,22,18,4,2,29,1,26,165,36,30,26,7,50,21,6,26,16,25,67,37,2,5,5,45,15,1,61,14,56,2,171,48,41,100,132,91,11,38,2,157,3,13,118,54,27,53,64,20,10,61,55,12,3,23,14,29,21,19,248,1,146,49,35,63,11,83,79,5,10,135,26,2,36,16,24,6,56,16,8,34,61,27,68,14,118,51,41,1,17,43,25,16,63,48,36,25,2,35,5,31,5,31,6,2,27,26,1,21,27,3,28,15,42,73,16,9,104,6,21,186,12,56,41,13,6,7,124,5,57,42,8,25,16,8,1,81,4,7,28,81,56,51,95,30,2,23,187,156,8,19,12,21,30,6,8,5,24,14,51,40,75,24,1,98,13,29,10,15,4,34,22,8,14,9,30,1,54,52,137,96,21,22,19,3,118,2,46,49,32,6,29,115,71,50,18,131,27,11,56,1,2,55,5
+Lagos	388,59,124,68,217,143,39,69,29,84,143,201,117,124,7,8,201,113,21,122,52,26,26,36,45,69,4,1,27,27,2,3,10,72,148,2,107,72,5,1,18,7,28,36,10,22,18,4,2,29,1,26,165,36,30,26,7,50,21,6,26,16,25,67,37,2,5,5,45,15,1,61,14,56,2,171,48,41,100,132,91,11,38,2,157,3,13,118,54,27,53,64,20,10,61,55,12,3,23,14,29,21,19,248,1,146,49,35,63,11,83,79,5,10,135,26,2,36,16,24,6,56,16,8,34,61,27,68,14,118,51,41,1,17,43,25,16,63,48,36,25,2,35,5,31,5,31,6,2,27,26,1,21,27,3,28,15,42,73,16,9,104,6,21,186,12,56,41,13,6,7,124,5,57,42,8,25,16,8,1,81,4,7,28,81,56,51,95,30,2,23,187,156,8,19,12,21,30,6,8,5,24,14,51,40,75,24,1,98,13,29,10,15,4,34,22,8,14,9,30,1,54,52,137,96,21,22,19,3,118,2,46,49,32,6,29,115,71,50,18,131,27,11,56,1,2,55,5,78
 Lagos Avenue Not Limited Operational	3386
 Lagos Based Doctor Uncovers The Hidden	5574,215
 Lagos Business School	8764
@@ -1619,6 +1627,7 @@ Lalitah	8327
 Lalla Nouzha Alaoui	8891
 Lallmahamood	2518
 Lam Yik Fei	9629
+Lama Karamoko	10940
 Lamba	983
 Lambach	2117
 Lambanyi	9542
@@ -1647,7 +1656,7 @@ Lamwo	1363
 Lanas	2093
 Lanaya	5722,370,735
 Lance	10876
-Lancement	1287,609,446,214,140,105,116,43,617,366,950,1201,733,230,128,435,149,31,716,40,335,777,325,280,12,591
+Lancement	1287,609,446,214,140,105,116,43,617,366,950,1201,733,230,128,435,149,31,716,40,335,777,325,280,12,591,46
 Lancement PRMP	10876
 Lancement du Projet	2960
 Lancement du Système	3719
@@ -1693,9 +1702,11 @@ Land Mobile Networks Fixed Networks	6946
 Land Mobile Radio	762
 Land Mobile Radio Service	762
 Land Mutoko CBD	4896
+Land One-Stop Shop Information System	10937
 Land O’Lakes	7007
 Land Policy	9727
 Land Reform and Rural Development	1009
+Land Registry	10937
 Land Regulations	1988
 Land Rights Action Collaborative	5035
 Land Settlement Fund	10313
@@ -1766,7 +1777,7 @@ Landlocked Developing Countries and Small Island Developing	10844
 Landlocked President Blaise Compaoré	10838
 Landlocked REC Membership	10837
 Landlocked SSA Connectivity	837
-Landmark	8564
+Landmark	8564,2392
 Landmark Chatrie Ruling	5044,322,52,1069,392,295
 Landmark Data Center	3418
 Landmark Industry Regulation Bill	3364
@@ -1873,6 +1884,7 @@ Lara Simone Beirão Guadalupe. William Salvaterra	2974
 Larbi Belarbi	8891
 Larceny Act	7777
 Large	737,233,677,2193,923,606,181,1623,350,25,198,44,55,289,246,56,114,55,65,273,176,4,864,10,80,59,250,343,9,91
+Large AI	10954
 Large Bande	10378
 Large File Uploads Failures Common Successful	6051
 Large Language Model	2871,780,877,1704,750,882,285,70
@@ -1951,6 +1963,7 @@ Last Not Operational Authorisa	3386
 Last Practicable Date	4896
 Last Release	7662
 Last Resort	5528
+Last Update	10930
 Last Updated	5363,462,356,2029,1644,1012
 Last Whistle	7814
 Last Word	10104
@@ -1958,7 +1971,7 @@ Last-Mile Access	4993
 Last-Modified	2777,1984,1702,2640,1134,451
 Last-minute	9986
 Lasting	8892,1873,10
-Lastly	28,290,78,371,132,349,306,264,120,155,24,772,715,154,33,641,244,296,272,1277,67,291,990,261,474,233,1381,95,405,50,44,29,11
+Lastly	28,290,78,371,132,349,306,264,120,155,24,772,715,154,33,641,244,296,272,1277,67,291,990,261,474,233,1381,95,405,50,44,29,11,49
 Lastmile Connectivity	6019
 Lastoursville	9200
 Lastourville. L'année	2325
@@ -1984,7 +1997,7 @@ Later	302,13,450,966,2,118,1059,1282,591,442,249,788,272,1432,584,35,25,168,249,
 Later AFRINIC	9506
 Later India	8206
 Later-stage	4883
-Latest	0,129,303,4932,769,599,372,173,1160,1192,118,54,3,23,780,205,29
+Latest	0,129,303,4932,769,599,372,173,1160,1192,118,54,3,23,780,205,29,72,43
 Latest Biometrics News	2390,1902,563,470,255,313,73,322,83,128,44,465,56,47,32
 Latest Biometrics News Foundational ID	9801,26
 Latest Biometrics News OfDIA	10293
@@ -2071,7 +2084,7 @@ Launch of SmartCare Pro	2477
 Launch of TELEMO Platform Guinea	6349
 Launch the Ghanaian Global AI Summit	4126
 LaunchBase Africa Dec	1404
-Launched	973,561,333,469,119,64,761,108,21,61,59,145,85,130,69,169,211,12,121,133,97,220,57,98,71,100,16,198,34,220,14,184,220,10,201,446,345,69,179,13,123,188,113,862,102,105,51,117,181,137,64,6,68,56,386,83,119,28,619,8,36
+Launched	973,561,333,469,119,64,761,108,21,61,59,145,85,130,69,169,211,12,121,133,97,220,57,98,71,100,16,198,34,220,14,184,220,10,201,446,345,69,179,13,123,188,113,862,102,105,51,117,181,137,64,6,68,56,386,83,119,28,619,8,36,81
 Launched Dec	909
 Launched Feb	2222
 Launched Jan	2612
@@ -2149,8 +2162,8 @@ Law Governing Radiation Protection	718
 Law Inclusion	10835,3
 Law Law Enforcement Property Rights Public	10759,78
 Law Ministry of Justice MOPT	1777
-Law N	718,10108
-Law No	440,819,370,244,13,5,91,337,14,289,137,84,215,406,151,14,232,230,86,382,154,42,227,114,367,1011,406,56,391,746,1421,429,447,395,10,4,35,27
+Law N	718,10108,85
+Law No	440,819,370,244,13,5,91,337,14,289,137,84,215,406,151,14,232,230,86,382,154,42,227,114,367,1011,406,56,391,746,1421,429,447,395,10,4,35,27,67,22
 Law No.10	1259
 Law Nº	718
 Law Officers Act	7845
@@ -2237,7 +2250,7 @@ Layering	10497
 Layering Human Capital and PI Interventions	10768
 Layers	5773
 Layibi	9382
-Laying	1264,1625,2091,247,4207
+Laying	1264,1625,2091,247,4207,1524
 Laying the Foundation	4528
 Laying the Foundation for Digital Citizenship	3313
 Laying the Foundation for VaMoz Digital	1129
@@ -2684,6 +2697,7 @@ PM Barre Launches NIRA Conference and Calls	10521
 POM Launch	2989
 POPIA Five Years Later	7055
 PRINCIPLES AND LAWFUL BASIS GOVERNING PROCESSING	1220
+PROTECTION LAW IN PLACE DATA PROTECTION	10908
 PS Lamin Camara	1714
 PSC Avaliacao Laboratorial HIV Contem	966
 PYMES Las PYMES	1701
@@ -2787,6 +2801,7 @@ Protection Law	9399,1462
 Protection of Personal Data Law	3325
 Proyecto de Laboratorios	4209
 Práticas de Alimentação de Lactentes	10777
+Président Laurent GBAGBO	10923
 PubMed Google Scholar Neusa Lazary View	10784
 Public Administration and Labor	6087
 Public Data Protection Law	4575,354
@@ -2832,6 +2847,7 @@ Rack Centre Lagos	7329
 Ransomware Landscape Shifts	9815
 Ransomware Last Week	3364
 Ratebk Lahzi	3425
+Raxio Opens Angola’s Largest Data Centre	10956
 Reading Comprehension and Language Structures	899
 Reality Layers and Symbolic Power	9914,1,77
 Realizing Africa’s Potential Landry Signé	5440
@@ -2881,7 +2897,7 @@ Rights Lawyer	2626
 Risk Category Latest ISR Rating Current	1284
 Robert Mugabe Owned Land	4896
 Robotics and Automation Laboratory	9225
-Rule of Law	1828,1563,735,156,962,2441,3074,76,2,1
+Rule of Law	1828,1563,735,156,962,2441,3074,76,2,1,74
 Rule of Law ACCOUNTABILITY	10759
 Rule of Law Absence of Crime Poverty Reduction	10759
 Rule of Law Accountability	10759
@@ -3009,6 +3025,7 @@ Secretary of State for Land and Environment Gustavo Dgedge	10470
 Secure National Data Center Ahead of Launch	4926
 Secure and Phased Launch Recognizing	3679
 Securing Land Tenure	161
+Security Layers	10956
 Security Layers Colocation Cross Connect	9446
 Security Uganda Launches	9981
 Secção Lançada	10750
@@ -3048,6 +3065,7 @@ Silver Lake	9769
 Simple Language High Contrast Large Text	9429
 Singapore’s Cybersecurity Labelling Scheme	6936
 Single Digital Identification Law	5399
+Single Land Window	10937
 Sissala West and Lambussie Districts	7165
 Sistema Judicial Las	1701
 Sistema Territorial Las	1701
@@ -3264,7 +3282,7 @@ Ultra High Pressure Lamp Roof Mounting	34
 Ultra-Low Latency	5675
 Umoja AI for African Language AI	8060
 Under Law	7903
-Under Law No	3713
+Under Law No	3713,7195
 Under the Single Digital Identification Law	5399
 Understanding Africa’s AI Governance Landscape	6603
 Uneven Enforcement of Data Protection Laws Puts	5603
@@ -3272,6 +3290,7 @@ Uneven Enforcement of Data Protection Laws Ugandas	5603
 Uneven Resource Distribution and Infrastructure Gaps Launch	6936
 Unfinished N288m Lagos School Project. Guess	7176
 Uniform Law Review	961
+Unique Land Identifier of Ivory Coast	10937
 United Nations H.E. Dr. Lansana Kouyaté	7452
 United States. Bus Law Rev	9739
 United States’ Clarifying Lawful Overseas	6471
@@ -3285,7 +3304,9 @@ University of Nairobi Language	9679
 Université Laval	10237
 Unwanted Witness Launches Groundbreaking Report	3021
 Upper East Upper East Laptop Desktop	582
+Urban Land Simplification and Digital Transformation	10937
 Urban Land and Property Registration and Information Agency	5655
+Urban Planning and Urban Land Code	10930
 Utilizing the LAMP	10761
 VACANT LAND SIZE BUILDING DEED DETAILS	4896
 VG El Hadj Mohamed Lamine Conté	4330
@@ -3304,6 +3325,7 @@ Vital Strategies Latest Biometrics News Foundational	9804
 Vodacom Lesotho Launches Tsetela Investment Service	7840
 Vodacom Tanzania Launches USD	5715
 Vumah Labs	7530
+WAEMU's Instant Payment System Launches	10929
 WATAF LAUNCHES AFDB-FINANCED US	10581
 WGI Rule of Law	1828
 WOfS Landsat	10794

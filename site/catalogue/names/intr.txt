@@ -1,6 +1,7 @@
 A. INTRODUCTION	3862,1251
 A. Introduction	1828,9028
 A. Introduction The African Union Agenda	10856
+Abstract Introduction	10940
 Abstract Introduction Literature	8021,1,108
 Abstract Introduction Research	7759
 Afrobarometer Working Papers Introduction Institutional	7886
@@ -60,7 +61,7 @@ INTRA-CITY	1223
 INTRODUCCIÓN	1701
 INTRODUCCIÓN Fue	1701
 INTRODUCCIÓN I. INTRODUCCIÓN	1701
-INTRODUCTION	10,386,23,299,47,175,58,2,161,82,5,562,178,530,258,3,382,235,255,63,73,75,265,233,99,389,35,13,348,1,293,117,777,766,350,806,250,795,1376,44,39,17
+INTRODUCTION	10,386,23,299,47,175,58,2,161,82,5,562,178,530,258,3,382,235,255,63,73,75,265,233,99,389,35,13,348,1,293,117,777,766,350,806,250,795,1376,44,39,17,38,1,8
 INTRODUCTION AND BACKGROUND	34
 INTRODUCTION AND LEGAL FRAMEWORK	9855
 INTRODUCTION AND MISSION	10819
@@ -127,7 +128,7 @@ Introducao	2228
 Introducción	1701
 Introduce	396,604,257,571,160,1653,485,1407,903,396,104,559,1105,2165,10
 Introduce R&D	4126
-Introduced	2948,766,2635,1003,358,2982
+Introduced	2948,766,2635,1003,358,2982,254
 Introduced Project Guardian	9103
 Introduced the CHASE Framework	9103
 Introduces	2656,2575,3374
@@ -139,9 +140,10 @@ Introducing Project Loon	3782
 Introducing the Children's Climate Risk Index	3583
 Introducing the Fairwork Foundation	226
 Introducir	1701
-Introduction	25,211,160,23,8,146,9,165,1,17,9,125,59,47,8,174,31,61,84,70,5,159,105,35,41,36,10,160,4,105,3,134,46,66,474,132,10,203,230,250,146,53,19,3,265,87,218,96,35,20,149,2,106,56,228,8,110,4,1,102,14,77,93,41,24,77,5,20,80,629,14,3,16,348,2,1,39,59,45,12,1,2,8,122,70,397,183,20,38,97,244,330,380,51,212,26,48,222,339,1,42,74,114,59,34,126,49,9,104,33,343,3,33,1,1,11,66,1,2,12
+Introduction	25,211,160,23,8,146,9,165,1,17,9,125,59,47,8,174,31,61,84,70,5,159,105,35,41,36,10,160,4,105,3,134,46,66,474,132,10,203,230,250,146,53,19,3,265,87,218,96,35,20,149,2,106,56,228,8,110,4,1,102,14,77,93,41,24,77,5,20,80,629,14,3,16,348,2,1,39,59,45,12,1,2,8,122,70,397,183,20,38,97,244,330,380,51,212,26,48,222,339,1,42,74,114,59,34,126,49,9,104,33,343,3,33,1,1,11,66,1,2,12,45,18,18,19
 Introduction A. Contexte	1218
 Introduction AI	7451
+Introduction Accurate	10919
 Introduction Across	7966
 Introduction Adaptive	10763
 Introduction African Consumer Fintechs	767
@@ -169,6 +171,7 @@ Introduction Following	3840
 Introduction Good	8376
 Introduction Governments	2096
 Introduction H	5242
+Introduction Health	10940
 Introduction In Burkina Faso	10881
 Introduction Infrastructure for Transformation	9446
 Introduction Like	2117
@@ -213,6 +216,7 @@ Introdução de Alimentos Complementares	10777
 Introl	6735,200
 Introl. Edge	8852
 Intron Health	4253
+Intruder Detection Systems	10956
 Intruder Detection Systems Continuous CCTV	9446
 Intrusion	9123
 Intrusion Detection	1000

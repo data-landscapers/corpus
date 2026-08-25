@@ -183,7 +183,7 @@ Communications and Postal Regulatory Authority	5006
 Communications and Postal Regulatory Authority. Guided	5441
 Commutations Regulatory Authority	7741
 Comparative Constitutional and Regulatory Analysis	10270
-Competition Regulations	10759,76,2,1
+Competition Regulations	10759,76,2,1,74
 Competition Regulations Access	10759,78
 Competition Regulatory Authority	7381,3398
 Competition and Consumer Protection Regulations	4583
@@ -461,7 +461,7 @@ ICT Infrastructure and Regulation	4484,7
 ICT Policy and Regulation	1457,3947,2472
 ICT Regulation	215,6731
 ICT Regulation Impact the Global Economy	3604
-ICT Regulatory Authority	2759
+ICT Regulatory Authority	2759,8152
 ICT Regulatory Authority of Côte	7189,2734
 ICT Regulatory Sandbox	6946
 ICT Regulatory Tracker	10844
@@ -544,6 +544,7 @@ Legal and Regulatory Environment Liberia	1777
 Legal and Regulatory Framework	718,240,42,6548,2307
 Legal and Regulatory Framework Digital	9855
 Legal and Regulatory Framework Kenya	7548
+Legal and Regulatory Framework The Ivorian	10930
 Legal and Regulatory Framework Within	718
 Legal and Regulatory Frameworks	958,242,6347,1
 Legal and Regulatory Frameworks Policy Objective	7548
@@ -591,6 +592,7 @@ Ministry of Labour and Social Welfare for PWDs Regulatory	940
 Mobile Financial Services and Regulation	10822
 Model PURA Public Utility and Regulatory Authority	1000
 Model Policy Guidelines and Model Regulatory Frameworks	8995
+Monday. The Malawi Communications Regulatory Authority	10950
 Monetary Union WASREB Water Services Regulatory	2775
 Money Regulation	3308
 Morocco's National Telecommunications Regulatory Agency	2673,2301
@@ -761,6 +763,7 @@ REGULAMENTO DAS TAXAS A COBRAR PELA	744
 REGULAMENTO DO CADASTRO SOCIAL	10754
 REGULATED SOMETHING YOU KNOW Password Answers	10819
 REGULATION	1807,1500,4514,34,1544,1420
+REGULATION A RESPONSABILITE PARTAGEE DES ACTEURS	10906
 REGULATION FOSTERING LOCAL	10861
 REGULATION OF CORPORATE FINANCE AND SECURITIES	3714
 REGULATION OF THE EUROPEAN PARLIAMENT	6476,1
@@ -994,7 +997,7 @@ Regulators AI	7548
 Regulators Algeria Financial Stability Committee Angola	6938
 Regulators Chief Executive Officer	6938
 Regulators Seychelles	6938
-Regulatory	236,159,1,60,179,83,222,18,3,9,30,814,115,10,352,168,318,235,14,39,118,123,2,102,77,164,210,26,239,56,346,31,4,18,2,21,15,70,43,92,24,122,64,98,68,41,38,271,24,40,51,10,156,81,354,39,56,40,9,3,19,107,54,106,247,210,48,74,40,95,38,9,88,58,360,164,153,8,63,32,78,31,134,34,177,283,5,301,187,6,87,111,35,92,40,115,53,2,156,27,83,113,34,148,1,57,68,12,5
+Regulatory	236,159,1,60,179,83,222,18,3,9,30,814,115,10,352,168,318,235,14,39,118,123,2,102,77,164,210,26,239,56,346,31,4,18,2,21,15,70,43,92,24,122,64,98,68,41,38,271,24,40,51,10,156,81,354,39,56,40,9,3,19,107,54,106,247,210,48,74,40,95,38,9,88,58,360,164,153,8,63,32,78,31,134,34,177,283,5,301,187,6,87,111,35,92,40,115,53,2,156,27,83,113,34,148,1,57,68,12,5,78
 Regulatory Actions Report	8354,570
 Regulatory Administration	236
 Regulatory Administration Division	8247

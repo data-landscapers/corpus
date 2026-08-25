@@ -120,14 +120,17 @@ Comoros Deploys Digital Payment Switch	2421
 Comoros' National Payment Switch	3473
 Conforme Pays-Bas	998
 Consultants Pays Membres	5370
+Cost of Payments Survey	10901
 Cross-Border Interbank Payment System	7220
 Cross-Border Payment Infrastructure Fintech West Africa	4515
 Cross-Border Payments Africa	1415
 Cross-border Payments	5061
 Cross-border Payments Scheme	5263
 Crystal Pay	7540
+Cédric Mangaud and Leslie Ossete. Ecole Pay	10942
 D D F- Pay	582
 D. Payment	7845
+DIGITAL PAYMENT LANDSCAPE IN CÔTE D'IVOIRE	10901
 DIRECT PAY LIMITED Data Controller INST-5567087BE9F	7167
 DIRECT PAY LIMITED Data Processor INST-5567087BE9F	7167
 DLOCAL PAYMENTS KENYA LIMITED Data Controller	7167
@@ -195,6 +198,7 @@ EUR34.3M. Care Pay	186
 East African Community Cross Border Payment	5372
 East African Payment System	3705,3233,877,152,41,518,1734,202,256
 East African Payment System SYGMA Central	6938
+Ecole Pay	10942,1
 Econet’s Fintech Comeback Pays Off	3016
 Economia Aplicativo PayPay	5309
 Electronic Payment Forum and Exhibition	4680
@@ -264,7 +268,7 @@ Flowcart Commerce. Paystack	6848
 Flutterwave and Paystack	5281,793,3528
 Fusepay Launches Payments Platform	4095
 G-MAT Pay	4994
-G2P Payments	10870
+G2P Payments	10870,31
 GAP-UGA-00x. Payload	1718
 GIMAC Pay	10075
 GOV.UK Pay	3922
@@ -282,6 +286,7 @@ Globe CEO Payment	2511
 Google Cheslyn Jacobs GOTyme Bank PayInc	5544
 Google Pay	7596,1412
 Government Electronic Payment Gateway ZamPortal and ZamPay	7191
+Government Payments Mapping	10901
 Government Service Payment System	3648
 Green Bond for Off-Grid Solar PAYG	939
 Group COO of Peach Payments	6215
@@ -338,7 +343,7 @@ Interbank Electronic Payment Center	6938
 Interbank Payment and Settlement System	3736
 International Trade and Balance of Payments	2775
 Interoperability of Retail Payment Systems	3288
-Interoperable Instant Payment Platform	10203
+Interoperable Instant Payment Platform	10203,726
 Interoperable Instant Payment System Platform	5054
 Jamii Pay	2868
 July. Payments	1191
@@ -607,6 +612,7 @@ Payment Agregation Monopoly Threatens Cameroon's Digital	2461
 Payment Card Industry	434
 Payment Card Industry Data Security Standard	2312,38,4588
 Payment Ecosystem Modernisation	8571
+Payment Establishment	10942
 Payment Gateway	4609,1930
 Payment Gateway Operators	7909
 Payment IBRD	10768
@@ -668,7 +674,7 @@ PaymentSecurity	9452,39
 PaymentSystems	9516
 Paymentology	5795
 Paymentology Enters the Middle East’s Digital Payments	7156
-Payments	573,581,37,52,209,501,377,605,147,79,157,73,192,131,452,211,346,125,48,25,67,136,131,42,92,144,146,12,172,505,567,3,218,65,170,186,24,88,208,31,179,21,1,123,345,130,866,23,287,107,145,537,137,24
+Payments	573,581,37,52,209,501,377,605,147,79,157,73,192,131,452,211,346,125,48,25,67,136,131,42,92,144,146,12,172,505,567,3,218,65,170,186,24,88,208,31,179,21,1,123,345,130,866,23,287,107,145,537,137,24,48
 Payments Across Eastern Africa	3238
 Payments Africa	47,332
 Payments Association	8252
@@ -680,6 +686,7 @@ Payments Ecosystem	6413
 Payments Ecosystem Modernisation	4824,584,1264,581,1347
 Payments End Game	5863
 Payments First	6998
+Payments Infrastructure	10901
 Payments Payments	6938
 Payments Platform	4095
 Payments Subject	2307
@@ -721,6 +728,7 @@ Pays When Electronic Payments Fail	9494
 Pays du Sahel	8891
 Pays-Bas	5718,181,714,2278
 Pays-Bas. La Convention Apostille	9086
+Pays. Il	10900
 Paysage	3242,4413
 Payslip	7438
 Paysmart	5125
@@ -862,7 +870,8 @@ Through Visa Pay	8477
 Through the Pan-African Payment and Settlement System	9593
 Through the State of Instant and Inclusive Payment	10075
 Tresor Pay	2597
-Trésor Pay	4347,5646
+Trésor Pay	4347,5646,944
+Trésor Pay. En	10913
 Two-Sided Digital Payments RCT	10277
 U.S. Targets Brazil’s Payments Platform Pix	4970
 UEMOA Payé	10711
@@ -895,6 +904,7 @@ Volume of Mobile Payment Accounts	6938
 Vult Pay	2749
 Vult Pay Point	2749
 WAEMU Regional Payment System	118
+WAEMU's Instant Payment System Launches	10929
 Wage Payments	2775
 Wage Payments1	2775
 Walmart-owned PhonePe and Alphabet’s Google Pay	8942

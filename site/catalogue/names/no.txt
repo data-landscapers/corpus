@@ -187,6 +187,7 @@ CBE. Note	4401
 CBZ Nominees	4896
 CEMAC. Nous	8800
 CENTRE NORD TX Prom	10847
+CEO of Collective X. Non-profit	10946
 CEO of Medusa Norman Albi	3872
 CEO of Norebase	7579
 CEO of Notto	9222
@@ -277,7 +278,7 @@ Concept Note	1154,4444,5221
 Concept Note for Zimbabwe's National Research Policy	1554
 Concept Note. Page	10819
 Confidentiality and Non-Disclosure Agreement	9211
-Conflicts of Interest None	1824
+Conflicts of Interest None	1824,9095
 Congo. Nous	8067
 Conselho de Administração da NOSi	5424
 Constitution. Nomination Committee	8866
@@ -688,6 +689,7 @@ II.2 Privé Nombre de Groupes Nombre de Groupes	10847
 II.4 Urbain Nombre de Groupes Nombre de Groupes	10847
 II.5 Rural Nombre de Groupes Nombre de Groupes	10847
 III. DIAGNÓSTICO DA SITUAÇÃO ACTUAL Nos	10772
+III. IDENTIFICATION ET NOTIFICATION DES EXPLOITANTS	10906
 III. NOMINATIONS PP-G N	8321
 III. The Line-Up Now	7777
 III.1. NOMINATIONS DANS LES FONCTIONS INDIVIDUELLES	8321
@@ -747,7 +749,9 @@ Intérieur Lambert Noël MATHA Le Ministre	548,683
 Irlande du Nord	6613
 Ismail Nour	7599
 Issa Tchiroma Bakary. Yvan Noël Kenne	3724
+Italian Funding Firm Launches Novagria Ventures	10931
 Ivoire Gulf of Guinea Northern Regions Social	3604
+Ivoire. BMC Public Health. Nov	10919
 Ivoire. Notre	3045
 Ivoire. Nous	4193
 J- Non	582
@@ -1188,7 +1192,7 @@ Nomapha.Mfunda	7514
 Nomba	391,3664
 Nomba's Congo	4055
 Nombo	10196
-Nombre	17,402,224,94,10,1,250,189,1155,282,342,430,1063,3196,3192,11,16,2
+Nombre	17,402,224,94,10,1,250,189,1155,282,342,430,1063,3196,3192,11,16,2,47,4
 Nombre Cellule	3396
 Nombre Cible	643
 Nombre Entier	747
@@ -1575,6 +1579,7 @@ Normalised XML3Normalised XML2Normalised XML1 Extraction	8606
 NormalisedXMLfiles	8606
 Normaliser	4018
 Normalized Difference Vegetation Index	10763
+Normalized Market	10954
 Normally	6211,4493
 Normalmente	1701,1115
 Norman Albi	1213,1162
@@ -1626,7 +1631,7 @@ Norte Lunda Sul	10766
 Norte Lunda Sul Malanje Moxico	10766
 Norte Lunda Sul Malanje Moxico Namibe	10766
 Nortey Street	3386
-North	627,162,54,421,1302,820,26,318,61,19,49,15,574,524,275,1315,375,23,37,485,196,208,1853,1073,29,23,2
+North	627,162,54,421,1302,820,26,318,61,19,49,15,574,524,275,1315,375,23,37,485,196,208,1853,1073,29,23,2,54
 North Africa	285,46,179,138,412,27,547,180,338,110,213,483,49,106,240,4,83,419,1,12,323,129,326,13,309,264,1,41,24,38,258,106,399,164,59,177,62,226,146,1,23,491,341,128,29,15,111,419,244,89,668,207,648,341,22,4,67,6
 North Africa By Lina Kacyem	5159
 North Africa West Africa Central Africa	4972
@@ -1764,6 +1769,7 @@ Northern Uganda	9382
 Northern Uganda Film Awards	9781
 Northern Virginia	6186
 Northern Zone	10211
+Northern and Central Switzerland	10919
 Northern and Savannah Regions	7695
 Northern and Western	585,9568
 Northern and Western Province	10153
@@ -1806,6 +1812,7 @@ Norwegian Centre for Tax Research	10335
 Norwegian Investment Fund for Developing Countries	211,178,1,123,194,1,1,1,218,1,208,1095,1,1
 Norwegian Refugee Council	2778,1479,2690,872,3022
 Norwegian-origin	7921
+Nos Forces	10934
 Nos Ilha	5154
 Nosakhare Ayejimiwo	10573
 Nosheen	9129
@@ -1822,9 +1829,9 @@ Nota de Esclarecimento Público	5462
 Nota de Esclarecimento. Através	7527
 Notable	1348,509,728,190,2197,270,121,926,166,835,732,570,11,1158,1003,12,9,76
 Notable Sierra Leonean Personalities Who Died	5390,965,827
-Notably	165,989,41,527,6,25,191,152,284,48,347,114,59,39,2,62,313,219,68,131,9,107,228,4,302,10,141,93,94,78,124,64,208,3,116,20,167,235,215,85,252,49,1,9,71,204,102,17,1,34,121,1,804,39,232,194,125,35,60,24,145,142,30,352,108,162,271,299,276,78,92,135,11,157,57,5,61,11
+Notably	165,989,41,527,6,25,191,152,284,48,347,114,59,39,2,62,313,219,68,131,9,107,228,4,302,10,141,93,94,78,124,64,208,3,116,20,167,235,215,85,252,49,1,9,71,204,102,17,1,34,121,1,804,39,232,194,125,35,60,24,145,142,30,352,108,162,271,299,276,78,92,135,11,157,57,5,61,11,102
 Notaires	10858
-Notamment	3248,20,568,2620,3799
+Notamment	3248,20,568,2620,3799,652
 Notariado	2688,265,577,1181,1349,470,2741,1479,1,1,1,12,10
 Notariado RUBRICADO CONTRATO PARA A MELHORIA	10753
 Notariado de Identificação	5476
@@ -1906,7 +1913,7 @@ Notices of Intent	6946
 Notifiable	1020
 Notifiable Diseases	10780
 Notificacao	966
-Notification	22,998,313,141,263,2235,182,147,1364,108,210,3140,216,516,545,3,433,40
+Notification	22,998,313,141,263,2235,182,147,1364,108,210,3140,216,516,545,3,433,40,32
 Notification Show More Font ResizerAa Reading	9868
 Notification of Authority	7832
 Notification of Changes	3972,182
@@ -1935,7 +1942,7 @@ NotionTech-Logo.jpeg	7139
 Notional Digital Health Strategy for South Africa	1009
 Notiﬁcation	2709
 Notons	2332,34,1400,223,146,1223,331,118,1938,928,894
-Notre	12,735,540,589,387,37,12,15,115,11,422,51,52,14,127,38,1,15,146,331,16,32,110,13,4,208,59,101,153,349,228,106,25,11,94,101,20,427,336,24,13,143,14,223,37,81,381,51,154,52,8,44,12,26,26,21,21,18,11,273,38,144,41,95,71,2,4,431,16,282,16,86,91,87,1,50,46,104,44,256,34,5,17,1,55,24,14,87,27,3,50,36,305,20,144,70,19,40,176,147
+Notre	12,735,540,589,387,37,12,15,115,11,422,51,52,14,127,38,1,15,146,331,16,32,110,13,4,208,59,101,153,349,228,106,25,11,94,101,20,427,336,24,13,143,14,223,37,81,381,51,154,52,8,44,12,26,26,21,21,18,11,273,38,144,41,95,71,2,4,431,16,282,16,86,91,87,1,50,46,104,44,256,34,5,17,1,55,24,14,87,27,3,50,36,305,20,144,70,19,40,176,147,68,21
 Notre Dame Environmental Change	2889
 Notre Dame Environmental Change Initiative	969
 Notre Dame Global Adaptation	3604
@@ -2061,7 +2068,7 @@ November-2023	1154
 November-2024	1955
 November-2025	3883
 November-December	2775
-Novembre	1957,409,1491,563,3235,1100
+Novembre	1957,409,1491,563,3235,1100,2167
 Novembro	13,425,101,676,1259,255,87,5,45,653,380,7,134,35,11,60,1,113,2710,3777,3,1,4,1,16
 Novembro. CONSELHO DE MINISTROS Decreto	2866
 Noviembre. Plan Nacional de Numeración Telefónica	9543
@@ -2133,6 +2140,7 @@ Overall Risk M M Note	3604
 P. Norris	7886
 P2 CNAFGE Notas UIT	9543
 P6 CNAFGE Notas de Organismos Internacionales	9543
+PDF. Note	10901
 PDFs. Nothing	6477
 PDI Nombre de PI	3396
 PDPO's Notice	5113
@@ -2406,6 +2414,7 @@ Togo Non-participant Utilisation	10711
 Togo’s Novissi	5700
 Transform Africa Summit Nov	4030
 Translating Norms	7966
+Transparency Notification	10908
 Trend of Non-Revenue Water	718
 Trending Now	7441,192,3011
 True North	1988

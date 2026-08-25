@@ -234,7 +234,7 @@ Central Agency for Public Mobilization and Statistics	9624
 Central Bank for Central African States. Flutterwave	3082
 Central Bank of Central African States	4970
 Central Bank of Central African States. Martins	4970
-Central Bank of West African States	7,2768,485,731,3159,481,165,75,202,9,1993,128
+Central Bank of West African States	7,2768,485,731,3159,481,165,75,202,9,1993,128,726
 Central Banks of Member States	7452
 Central Bureau of Statistics	9485
 Central Equatoria State	3046,5284
@@ -295,7 +295,7 @@ Community Radio Stations	5244
 Community Radio Stations Syndication Nationwide	8999
 Community Radion Stations Community Radio Presence	8999
 Community of Latin American and Caribbean States	10038
-Community of Sahel-Saharan States	10835,2,1
+Community of Sahel-Saharan States	10835,2,1,74
 Compilation and Publication of Macroeconomic Statistics	10508
 Conditions for Private Radio Transceiver Station	736
 Confederate States	4859
@@ -310,7 +310,7 @@ Contributions and Statements	7697,1,1,667
 Control Statu	6432
 Coordination Statistique	10874
 Coordination of State House Functions	6588
-Council of State	11,1880
+Council of State	11,1880,9046
 Council. The Financial Statements	1154
 Courtesy. The Central Equatoria State Ministry	8330
 Coverage United States Government Wild Poliovirus	4153
@@ -454,7 +454,7 @@ Economic Community of African States	10841
 Economic Community of Central African States	26,1,1,2633,201,3471,4426,78
 Economic Community of Central African States ESO	10841
 Economic Community of Central African States European	9616
-Economic Community of West African States	7,19,1,1,933,282,21,513,1017,9,36,632,133,20,135,824,118,444,218,32,5,179,1,382,101,289,586,134,380,144,936,662,275,163,4,36,259,16,315,247,17,267,26,3,13
+Economic Community of West African States	7,19,1,1,933,282,21,513,1017,9,36,632,133,20,135,824,118,444,218,32,5,179,1,382,101,289,586,134,380,144,936,662,275,163,4,36,259,16,315,247,17,267,26,3,13,74,3
 Economic Community of West African States EMIS	5244
 Economic Community of West African States President	10838
 Economic Community of West African States Published	7
@@ -518,6 +518,7 @@ FINANCIAL STATEMENTS	3714,184,2202,1104
 FINANCIAL STATEMENTS Duties	3714
 FINANCIAL STATEMENTS TABLES 26-27.pdf	2636
 FM Stations In Operation Ashanti	2776
+FONDEMENTS STATUTAIRES DE LA RÉGULATION DES	10922
 FORECAST INCOME STATEMENT FOR THE YEAR	4896
 FREE STATE	1940
 FSSES Fixed Satellite Service Earth Stations	6946
@@ -707,6 +708,7 @@ Islamic State	5141
 Islamic State West Africa Province	7561,397
 Island States	9761
 Ivoire Request. State	5692
+Ivorian State	10937
 J Base Stations Tx Channel S	736
 JB CHARLESTON SOUTH CAROLINA UNITED STATES	4434
 Jean-Baptiste ONDAYE STATUTS DE L’AGENCE NATIONALE	1186
@@ -754,6 +756,7 @@ Kenya’s State Department for Agriculture	9609
 Kenya’s State Department for ICT and Digital Economy	9209
 Key Statistics	226
 Kogi State	7110
+Korvek SJ. Health Information Technology. StatPearls	10919
 Ksh.4.45 Billion Through the Back Door State	6588
 Kusile Power Station	2626
 Kwara State University	7496,2683
@@ -844,11 +847,11 @@ Measuring the State of Civil Registration and Legal Identity	10822
 Media Statement	8999
 Medium-Term Budget Policy Statement	4667
 Megawatt State-Owned Power Plant Mr. Speaker	7695
-Member State	7,20,943,273,564,1776,2094,800,11,964,341,91,66,242,154,1415,198,210,607,43
+Member State	7,20,943,273,564,1776,2094,800,11,964,341,91,66,242,154,1415,198,210,607,43,90
 Member State of SADC	958
 Member State. AVERAGE Organize	5677
 Member State. Section	28
-Member States	7,20,1,290,326,145,152,20,1,8,273,14,7,333,210,7,303,841,204,110,311,254,150,136,659,45,536,216,96,1,1,3,1,144,597,46,3,6,11,124,321,87,54,38,87,253,96,4,126,46,69,62,28,1,66,13,9,269,105,183,218,415,20,25,48,37,106,71,1,139,152,71,127,210,41,25,86,99,56,33,63,29,119,44,12,43,21,16
+Member States	7,20,1,290,326,145,152,20,1,8,273,14,7,333,210,7,303,841,204,110,311,254,150,136,659,45,536,216,96,1,1,3,1,144,597,46,3,6,11,124,321,87,54,38,87,253,96,4,126,46,69,62,28,1,66,13,9,269,105,183,218,415,20,25,48,37,106,71,1,139,152,71,127,210,41,25,86,99,56,33,63,29,119,44,12,43,21,16,53
 Member States Agriculture	6422
 Member States Approved	10819
 Member States Questionnaire	10840
@@ -1384,9 +1387,10 @@ Special Statutory Mandate None	10738
 Specify State Party	1243
 Square Shopp Cntr Cape Town Station	8999
 StatEduc	1017,930,12,1007,3082,2339
-Stata	1212,9669
+Stata	1212,9669,38
+StataCorp	10919
 Statcounter	1363,2419
-State	27,369,33,6,1,1,150,157,39,6,143,26,3,8,1,2,18,23,81,111,9,29,21,24,288,115,123,4,10,63,198,2,5,17,4,28,114,48,188,23,23,34,39,2,110,1,15,2,15,16,40,37,96,57,15,41,92,10,21,1,4,188,32,27,25,122,21,61,49,58,19,70,26,25,215,50,10,19,64,134,16,59,9,25,12,151,66,52,29,37,36,21,59,32,9,11,4,200,12,70,30,44,98,11,33,3,41,13,39,31,1,7,4,23,19,62,59,9,37,83,26,72,180,44,33,7,109,84,3,12,57,38,57,87,17,9,36,2,109,57,64,46,97,122,73,39,11,96,4,22,59,22,9,31,150,64,12,135,14,70,67,39,38,85,7,229,34,80,11,12,1,10,23,68,47,43,270,35,12,148,9,144,108,1,87,135,11,46,20,89,21,2,85,59,97,16,116,216,103,1,10,6,11,27,12,9,16,5
+State	27,369,33,6,1,1,150,157,39,6,143,26,3,8,1,2,18,23,81,111,9,29,21,24,288,115,123,4,10,63,198,2,5,17,4,28,114,48,188,23,23,34,39,2,110,1,15,2,15,16,40,37,96,57,15,41,92,10,21,1,4,188,32,27,25,122,21,61,49,58,19,70,26,25,215,50,10,19,64,134,16,59,9,25,12,151,66,52,29,37,36,21,59,32,9,11,4,200,12,70,30,44,98,11,33,3,41,13,39,31,1,7,4,23,19,62,59,9,37,83,26,72,180,44,33,7,109,84,3,12,57,38,57,87,17,9,36,2,109,57,64,46,97,122,73,39,11,96,4,22,59,22,9,31,150,64,12,135,14,70,67,39,38,85,7,229,34,80,11,12,1,10,23,68,47,43,270,35,12,148,9,144,108,1,87,135,11,46,20,89,21,2,85,59,97,16,116,216,103,1,10,6,11,27,12,9,16,5,87
 State Action	3456
 State Administration and Public Service	1228
 State Administration and Public Service Ministry of Science	1228
@@ -1572,6 +1576,7 @@ State of Côte	5817
 State of DPI	4429
 State of DPI Report	4863
 State of DPI Report Launch	4863
+State of Data Centres	10956
 State of Digital Public Infrastructure	4429
 State of Digital Transformation	4429,1271
 State of Digital Wellness	9045
@@ -1626,7 +1631,7 @@ State-media	7196
 State-of-ICT-Sector-Report-March-2022.pdf	1013
 State-of-the-Art Headquarters	4900
 State-of-the-art European	5846
-State-owned	18,1800,437,929,421,109,155,114,1050,25,1331,103,24,102,257,10,960,126,1004,264,327
+State-owned	18,1800,437,929,421,109,155,114,1050,25,1331,103,24,102,257,10,960,126,1004,264,327,1393
 State-owned Commercial Banks	7589
 State-owned Distribution	4301
 State-owned Enterprise Governance and Investment Management	5187
@@ -1650,7 +1655,7 @@ StateCoercion	4676
 StateOwned Enterprises	7695
 StateProto	4861,929,900
 Statecraft	2096
-Stated	961,742,262,942,53,450,580,2896,4,1776,87,370
+Stated	961,742,262,942,53,450,580,2896,4,1776,87,370,1791
 Stateless	4439
 Stateless Persons	2106
 Statelessness	1963
@@ -1677,14 +1682,14 @@ Statement of Yao Agbetse	3109
 Statement's Table	4390
 Statement. Is the Chair	10313
 Statement.pdf	6133
-Statements	571,983,2429,182,2222,45,2004,1745,132
+Statements	571,983,2429,182,2222,45,2004,1745,132,627
 Statements Data	8376
 Statements and Questions. Consequently	10313
 Statements and Reports	3714
 Statements of Expenditures	1264
 StateofPrey TheSentry-Oct2020.pdf	4127
 StateofPrey-TheSentry Oct2020.pdf	4127
-States	25,2,739,17,178,1,272,3,6,292,62,217,282,21,414,18,584,323,92,35,279,385,54,1,374,62,504,121,955,92,229,169,138,602,4,86,21,72,476,875,578,101,261,71,64,556,51,55,21,1,3
+States	25,2,739,17,178,1,272,3,6,292,62,217,282,21,414,18,584,323,92,35,279,385,54,1,374,62,504,121,955,92,229,169,138,602,4,86,21,72,476,875,578,101,261,71,64,556,51,55,21,1,3,114
 States DHIS2	1959
 States Embassy Monrovia	4202
 States Members	3583,7257
@@ -1702,7 +1707,7 @@ States. Since Eswatini’s EPS	3977
 States. The Federal Republic ofNigeria	4301
 Statesman	226
 State’s	4794
-Static	8283
+Static	8283,2623
 Static Supply	6051
 Stating	236
 Station	535,201,10027
@@ -1735,14 +1740,14 @@ Statistical Capacity	1176
 Statistical Code Card	10645
 Statistical Coordination and Innovation	6963
 Statistical Data	3861
-Statistical Data and Metadata Exchange	9207
+Statistical Data and Metadata Exchange	9207,1737
 Statistical Package	7759
 Statistical Package for Social Sciences SSN	10874
 Statistical Performance Indicators	4214
 Statistical Purposes	4583
 Statistical Report	3862,4598
 Statistical Service	582,3544
-Statistical System	10759,76,2,1
+Statistical System	10759,76,2,1,74
 Statistical System Absence of Forced Migration	10835,3
 Statistical System Child	10838
 Statistical System Effective Administration Tax	10759,78
@@ -1813,7 +1818,7 @@ Statistique du Ministère	9553
 Statistique du Secteur Développement Rural	9553
 Statistique-CNS	10874
 Statistiquement	6959
-Statistiques	419,1655,950,4193,438,417,1493,72,1,765,70,27,312,35,27
+Statistiques	419,1655,950,4193,438,417,1493,72,1,765,70,27,312,35,27,47
 Statistiques F	7655
 Statistiques Sectorielles DPEPPNF	10847
 Statistiques Statistiques	7917,801
@@ -1973,7 +1978,7 @@ Under Secretary of State for Economic Affairs Jacob	4447
 Unified Modelling UML State Diagrams	9124
 United Mexican States	1243
 United Nations Statistics Division	10819
-United States	10,561,196,194,4,73,185,11,9,120,191,168,92,183,99,21,40,1,121,6,233,159,1,91,6,94,55,151,157,173,36,21,20,72,29,43,25,135,188,75,78,5,21,1,11,2,35,13,2,30,11,2,1,40,1,43,4,3,74,21,1,66,24,45,86,5,82,31,174,11,57,13,2,104,15,2,48,3,26,15,30,15,50,14,5,66,19,27,67,66,84,16,57,90,138,196,1,1,28,37,2,60,60,24,61,6,43,1,13,8,40,51,39,7,11,9,77,14,12,4,2,41,30,18,32,17,1,50,154,23,3,32,33,2,12,88,102,5,97,29,35,26,57,25,30,30,9,78,72,103,7,1,45,31,5,84,133,112,19,33,21,81,30,26,10,30,78,1,63,10,42,17,55,39,10,42,29,25,8,59,33,8,34,21,106,203,29,84,3,106,253,20,67,22,11,13,22,47,80,80,13,1,1,154,3,99,12,1,79,12,14,22,5,2
+United States	10,561,196,194,4,73,185,11,9,120,191,168,92,183,99,21,40,1,121,6,233,159,1,91,6,94,55,151,157,173,36,21,20,72,29,43,25,135,188,75,78,5,21,1,11,2,35,13,2,30,11,2,1,40,1,43,4,3,74,21,1,66,24,45,86,5,82,31,174,11,57,13,2,104,15,2,48,3,26,15,30,15,50,14,5,66,19,27,67,66,84,16,57,90,138,196,1,1,28,37,2,60,60,24,61,6,43,1,13,8,40,51,39,7,11,9,77,14,12,4,2,41,30,18,32,17,1,50,154,23,3,32,33,2,12,88,102,5,97,29,35,26,57,25,30,30,9,78,72,103,7,1,45,31,5,84,133,112,19,33,21,81,30,26,10,30,78,1,63,10,42,17,55,39,10,42,29,25,8,59,33,8,34,21,106,203,29,84,3,106,253,20,67,22,11,13,22,47,80,80,13,1,1,154,3,99,12,1,79,12,14,22,5,2,92
 United States Agency for International Development	396,370,453,42,563,8944,9
 United States Agency for International Development Angola	10780
 United States Agency for International Development VfM	10768
@@ -2093,6 +2098,7 @@ Warrap State Ministerial Management Committee for Dura	3583
 Warrap State-Kuajok State Ministerial Management Committee	3583
 Weaponisation of AI Against the State. Analysis	4528
 Welfare State	2096
+West African States	10901
 West African States Central Bank	3671
 West African States ESATIC Excellence	3604
 West Kordofan State	4245

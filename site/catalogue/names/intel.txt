@@ -52,7 +52,7 @@ Arab National Strategies for Artificial Intelligence	2958
 Arab Scientific Research and Artificial Intelligence Ethics	2958
 Artificial E-Commerce Intelligence	4972
 Artificial General Intelligence	6955
-Artificial Intelligence	396,36,1,138,390,282,201,370,126,202,20,96,45,35,21,29,6,22,110,51,18,31,56,3,105,17,4,5,23,11,18,90,26,66,132,18,28,138,174,59,33,19,3,106,34,156,95,27,37,14,3,109,118,29,146,55,7,2,29,55,148,24,18,104,59,4,3,8,30,36,17,89,28,32,90,3,17,25,29,68,3,90,75,51,98,46,4,6,51,3,34,31,5,30,6,9,16,75,90,1,145,25,8,16,51,3,7,19,20,23,74,72,95,42,47,14,43,10,2,2,10,37,18,86,11,24,11,95,2,93,24,1,82,66,36,2,16,123,53,17,68,35,4,10,32,8,52,77,45,2,2,21,17,110,18,18,25,79,103,12,10,15,9,19,38,23,19,1,75,61,2,27,45,22,39,7,10,44,2,10,57,96,76,44,174,3,7,106,39,1,69,62,32,16,2,21,6,184,25,3,70,130,50,24,25,48,12,15,20,140,36,32,2,121,5,59,55
+Artificial Intelligence	396,36,1,138,390,282,201,370,126,202,20,96,45,35,21,29,6,22,110,51,18,31,56,3,105,17,4,5,23,11,18,90,26,66,132,18,28,138,174,59,33,19,3,106,34,156,95,27,37,14,3,109,118,29,146,55,7,2,29,55,148,24,18,104,59,4,3,8,30,36,17,89,28,32,90,3,17,25,29,68,3,90,75,51,98,46,4,6,51,3,34,31,5,30,6,9,16,75,90,1,145,25,8,16,51,3,7,19,20,23,74,72,95,42,47,14,43,10,2,2,10,37,18,86,11,24,11,95,2,93,24,1,82,66,36,2,16,123,53,17,68,35,4,10,32,8,52,77,45,2,2,21,17,110,18,18,25,79,103,12,10,15,9,19,38,23,19,1,75,61,2,27,45,22,39,7,10,44,2,10,57,96,76,44,174,3,7,106,39,1,69,62,32,16,2,21,6,184,25,3,70,130,50,24,25,48,12,15,20,140,36,32,2,121,5,59,55,79
 Artificial Intelligence AM Ivorian Agency for Radio	3604
 Artificial Intelligence APPETD	6832
 Artificial Intelligence ARPU	6000
@@ -354,7 +354,7 @@ Fórum Nacional de Inteligência Artificial	7245
 G20 Presidency. The Artificial Intelligence	2526
 GHANA NATIONAL ARTIFICIAL INTELLIGENCE STRATEGY	4126
 GLOSSARY AI Artificial Intelligence ASN Autonomous	10861
-GSMA Intelligence	1623,858,1,4,4,1,1,1,1,1,2,1,5,1,1,1,1402,3,1,1,4,1,1,1,1755,918,239,54,461,226,452,2047,750,34,3
+GSMA Intelligence	1623,858,1,4,4,1,1,1,1,1,2,1,5,1,1,1,1402,3,1,1,4,1,1,1,1755,918,239,54,461,226,452,2047,750,34,3,73
 GSMA Intelligence Connectivity	6593
 GSMA Intelligence Enterprise	6593
 GSMA Intelligence Figure	10856
@@ -362,6 +362,8 @@ GSMA Intelligence Operators	6593
 GSMA Intelligence Policies	6593
 GSMA Intelligence and GoYo Analytics	10856
 GSMA Intelligence and Kepios	2483,1,1,4,7,1413
+GSMA Intelligence. Authors	10932
+GSMA Intelligence. Copyright	10932
 GSMA Intelligence. The Mobile Economy Africa	6467
 General Directorate for Artificial Intelligence. Malawi	4583
 General Intelligence Service	10213,121
@@ -489,7 +491,7 @@ Intelligence Age	8692
 Intelligence Agencies and Revenue Agencies	789
 Intelligence Antenatal Care Antiretroviral Therapy	4153
 Intelligence Artificiel	7634
-Intelligence Artificielle	1231,665,252,270,277,37,76,183,205,37,7,88,529,208,1604,1770,1369,273,276,464
+Intelligence Artificielle	1231,665,252,270,277,37,76,183,205,37,7,88,529,208,1604,1770,1369,273,276,464,1093
 Intelligence Association of Ghana	4126
 Intelligence Brief	6397
 Intelligence Database	1000
@@ -512,7 +514,7 @@ Intelligence for Health	8301
 Intelligence. Available	2518
 Intelligence. Besides South Africa	5628
 Intelligence. Dans	7032
-Intelligent	395,3502,161,470,35,3459,1101
+Intelligent	395,3502,161,470,35,3459,1101,1822
 Intelligent Card Production Systems	84,2637,1956,114,6031
 Intelligent Collaboration	3511
 Intelligent Command System	259

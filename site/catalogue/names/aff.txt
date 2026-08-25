@@ -28,7 +28,7 @@ Affaire	10860
 Affaire Bachar	1943
 Affaire Dangnivo	7392,1
 Affaire Martinez Zogo	10379,2,310
-Affaires	998,596,88,662,63,154,790,45,15,567,349,665,86,39,6,566,177,33,566,90,251,21,56,13,63,226,220,25,111,41,88,152,156,21,73,80,85,2,22,8,67,105,143,134,15,30,58,70,151,2,243,55,106,102,106,319,202,54,173,96,19,26,47,234,34
+Affaires	998,596,88,662,63,154,790,45,15,567,349,665,86,39,6,566,177,33,566,90,251,21,56,13,63,226,220,25,111,41,88,152,156,21,73,80,85,2,22,8,67,105,143,134,15,30,58,70,151,2,243,55,106,102,106,319,202,54,173,96,19,26,47,234,34,42
 Affaires Coutumières	6354
 Affaires Coutumières Shabani Lukoo Pour	5123
 Affaires David Sproule and Trade Commissioner Delane	10120
@@ -83,7 +83,7 @@ Affiliates	9111
 Affiliates Rule	10444
 Affiliation	10875
 Affiliation CERT-GH	775
-Affiliations	520,8608,1,108
+Affiliations	520,8608,1,108,1703
 Affilié Non Non	10875
 Affinity	6146,1879
 Affinity Domain Patient ID XCA Cross-Community	1009
@@ -95,7 +95,7 @@ Affirmative Repositioning	1981
 Affirming	8496,1164
 Affluent	4563
 Afflux	10688
-Affordability	395,1,544,1000,1516,148,591,157,2241,115,2019,280,96,42,4,307,468,565,355
+Affordability	395,1,544,1000,1516,148,591,157,2241,115,2019,280,96,42,4,307,468,565,355,88
 Affordability Concerns Persist	4182
 Affordability Gains Across Regions	6318
 Affordability of Financial Services	940
@@ -173,7 +173,7 @@ Civil Registration Services and Legal Affairs	9696
 Claire Morrison Minister of Home Affairs	10173
 Co-CEO of Business and Commercial Affairs	10800
 Comité des Affaires Monétaires	7956
-Commission des Affaires	1266,332
+Commission des Affaires	1266,332,9338
 Commission for Refugee Affairs	2106
 Commission's Head of Public Affairs	9563
 Commissioner for Economic Affairs and Agriculture	8532,1976

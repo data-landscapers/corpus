@@ -99,6 +99,7 @@ AccLabs	402
 Acca Newtown Near Silence- SC	3386
 Accademia and Research	1261
 Accede	1777
+Acceded Council of Europe Convention	10908
 Acceded To The African Union Convention	1243
 Accelera Cloud Program	4144
 Accelerat-	8606
@@ -167,7 +168,7 @@ Accelerating Industrial Intelligence	2825
 Accelerating Progress	5246
 Accelerating Responsible AI Adoption	1204
 Accelerating Rwanda	5048
-Accelerating Smartphone Adoption	3975,3205
+Accelerating Smartphone Adoption	3975,3205,3752
 Accelerating Start-ups for Resilient Growth	2677
 Accelerating Sustainable and Clean Energy Access	2391
 Accelerating the Digital Transition	1818
@@ -193,28 +194,29 @@ Accept Policy	2311,24,2424,534,491,122,44,63,100,100,180,14,352,339,157,80
 Accept Powered	3907
 Accept Privacy	5715
 Accept Read More Forgot	9253
-Acceptability	1219,6540
+Acceptability	1219,6540,3181
 Acceptability of Intervention Measure	8376
-Acceptable	34,5645,552,2070
+Acceptable	34,5645,552,2070,2639
 Acceptance	3,2945,766,5523
 Acceptance Criteria	5665
 Acceptance and Use of Technology	9129
 Acceptation	4459
 Acceptation Avis	10708
 Acceptation des Paiements Offre	10711
-Accepted	2518,5241,51,211,1,108,246,226,2,1,1,522,109,112,304,86,1041,4
+Accepted	2518,5241,51,211,1,108,246,226,2,1,1,522,109,112,304,86,1041,4,127
 Accepted.pdf Deloitte	961
 Accepter	3577,4340,1133
 Acceptez	6954
 Accepting	6001,431,4384
 Accepting the American	8479
 Accepté	737
+Acceptée	10900,2,19
 Acceptée DECLA-0004	998
 Acceptée DECLA-0006	998
 Acceptée DECLA-0012	998
 Accesibilidad	1701
 Acceso	1701,2508
-Access	11,10,5,1,7,288,96,126,27,16,6,125,51,14,6,10,100,41,18,3,8,31,9,42,93,17,43,15,24,14,7,69,79,62,123,89,51,77,4,10,39,82,39,11,111,70,99,28,83,278,41,66,114,27,86,3,8,43,284,20,18,13,54,14,16,38,59,11,21,68,42,7,2,35,103,61,8,17,22,14,58,12,74,39,93,165,184,45,47,52,96,5,1,50,69,35,31,2,40,35,26,83,19,1,2,74,35,114,81,23,43,13,46,1,2,21,103,69,180,335,36,54,21,36,149,110,39,2,112,54,26,125,29,45,109,68,69,22,4,24,27,54,122,37,2,69,54,68,12,9,13,19,11,4,3,57,44,4,162,55,26,3,22,38,110,54,3,2,23,394,9,41,40,8,3,5,18,104,11,136,2,47,32,68,1,173,16,23,162,38,113,37,48,13,1,45,29,35,4,29,258,30,16,92,5,7,5,3,2,28,4,2,10,47,7,6,2,1,3,3,12,9
+Access	11,10,5,1,7,288,96,126,27,16,6,125,51,14,6,10,100,41,18,3,8,31,9,42,93,17,43,15,24,14,7,69,79,62,123,89,51,77,4,10,39,82,39,11,111,70,99,28,83,278,41,66,114,27,86,3,8,43,284,20,18,13,54,14,16,38,59,11,21,68,42,7,2,35,103,61,8,17,22,14,58,12,74,39,93,165,184,45,47,52,96,5,1,50,69,35,31,2,40,35,26,83,19,1,2,74,35,114,81,23,43,13,46,1,2,21,103,69,180,335,36,54,21,36,149,110,39,2,112,54,26,125,29,45,109,68,69,22,4,24,27,54,122,37,2,69,54,68,12,9,13,19,11,4,3,57,44,4,162,55,26,3,22,38,110,54,3,2,23,394,9,41,40,8,3,5,18,104,11,136,2,47,32,68,1,173,16,23,162,38,113,37,48,13,1,45,29,35,4,29,258,30,16,92,5,7,5,3,2,28,4,2,10,47,7,6,2,1,3,3,12,9,47,27,17
 Access API	10721
 Access Advertised Speed	3862
 Access Africans’ Data Raise Privacy	10446
@@ -305,7 +307,7 @@ Access the Legis1	10351
 Access the Virtual Results Operations Centre	7266
 Access-point	5928
 AccessTrade	3779
-Accessed	697,261,303,1257,1608,550,566,4,454,1247,1429,84,143,2,794,340,979,57,44
+Accessed	697,261,303,1257,1608,550,566,4,454,1247,1429,84,143,2,794,340,979,57,44,100
 Accesses	9739
 Accessibility	958,3,200,96,1518,1753,718,419,14,532,537,200,600,1451,204,226
 Accessibility Advocacy	4126
@@ -313,7 +315,7 @@ Accessibility Display	9429
 Accessibility and Standards	7548
 Accessibility and Universality	10775
 Accessibility of Digital Services	5676
-Accessibility of Public Records	10759,76,2,1
+Accessibility of Public Records	10759,76,2,1,74
 Accessibilité	1187,5030,4491,139
 Accessibilité du Système	5135
 Accessible	940,637,735,671,2263,481,871,87,203,50,51,235,324,189,291,102,303,791,44,348,123,326,36,87
@@ -375,7 +377,7 @@ Accord-Cadre	2808
 Accord-cadre	2808
 Accorder	7917,974,1985
 Accordingly	236,482,436,65,24,695,951,24,45,93,7,249,276,21,187,423,518,164,217,420,23,297,279,566,209,31,8,1,37,384,96,84,242,37,191,18,51,2,191,160,142,284,119,160,531,52,150,279,31,557,48,26
-Accords	2465,2896,1536,3929,50
+Accords	2465,2896,1536,3929,50,47
 Accordées	10876
 Accouchement	10876
 Account	940,280,64,544,39,1716,638,1466,1590,1846,43
@@ -393,7 +395,7 @@ Account VAT Value Added Tax TABLE	1284
 Account-to-Account and Wallet-to-Wallet	8708
 Account-to-Wallet	8708
 Account-to-account	8432
-Accountability	27,762,183,259,102,297,466,268,185,227,182,903,667,235,462,19,105,107,29,48,41,91,249,140,333,55,350,2,38,104,119,167,326,418,317,346,94,24,1404,6,227,39,198,138,6,10,44,16,2,1,43,8
+Accountability	27,762,183,259,102,297,466,268,185,227,182,903,667,235,462,19,105,107,29,48,41,91,249,140,333,55,350,2,38,104,119,167,326,418,317,346,94,24,1404,6,227,39,198,138,6,10,44,16,2,1,43,8,23
 Accountability Accountability	4563
 Accountability Configuration	8283
 Accountability Configuration. Stage	8283
@@ -525,7 +527,7 @@ Accreditation Permit	3583
 Accreditation and Certification Accreditation	587
 Accreditation and Oversight	7008
 Accreditation and Voting	10049
-Accredited	6432,316
+Accredited	6432,316,4163
 Accredited Hotels	2775
 Accrediting	5574
 Accreditoken and InvestReady	5743
@@ -548,9 +550,10 @@ Accuracy	1554,76,1145,1086,1815,538,2392,1249,910
 Accuracy Matters	10015
 Accuracy Personal	10775
 Accuracy and Reliability	5244
-Accurate	1131,4965,783,1726,342,704,537,421,152,58
+Accurate	1131,4965,783,1726,342,704,537,421,152,58,100
 Accurate Valuers Limited Data Processor INST-5706553B01B	7167
 Accurately	5533,4083
+Accusations	10955
 Accused	8639
 Accès	142,166,111,224,94,85,176,189,27,71,127,1213,69,272,374,56,272,1403,316,70,173,516,576,105,900,357,2728,14,10,38,2
 Accès Gutera Inkunga Serivisi	1214
@@ -798,6 +801,7 @@ Current Account	2775
 Current Account Balance	2775
 Customer Acceptance Form Tabulated	9124
 Cyber Accelerated Maturity Program	6936
+Cybercrime. Accepted	10911
 D The Network Access Support Project	182
 D'IVOIRE FOR A RESULTS ACCELERATION PROGRAM	3604
 D.G. DE SANIDAD MILITAR Y ACCION	4209
@@ -1022,12 +1026,13 @@ Firewalls and Access Controls	10721
 First Let’s Talk About Boardroom Accountability	8629
 Fixed Broadband Networks Access	718
 Fixed Fixed Application Fixed Wireless Access	736
-Fixed Wireless Access	2528,2808,339,325,4793
+Fixed Wireless Access	2528,2808,339,325,4793,165
 Fixed Wireless Access GB	6000
 Fixed Wireless Access Subscriptions	6000
 Fixed Wireless Access System	736
 Fixed Wireless and Fiber Access Network Expansion	956
 Follow-on Digital Malawi Acceleration Project	3072
+Footer Accessibility	10919
 Foreign Account Tax Compliance Act	6524,1
 Foreign Trade Access	5247
 Formal Financial Access	2775
@@ -1205,6 +1210,7 @@ Internet Access US	736
 Internet Access and Rights	149
 Internet Exchanges Points Accra-IX	10037
 Interoperability Standards and Access Protocols	3861
+Introduction Accurate	10919
 Introduction The Universal Access and Service Fund	718
 Investment and Access	10841
 Ivoire Accelerates Digital Push	6662
@@ -1679,7 +1685,7 @@ Tchad. Accessible	5698
 Tech Accelerator	10745
 Tech Anti-Monopoly and Accountability Agenda for Canada	5044
 Tech Talent Accelerator	8894
-Technology Acceptance Model	5349,2672,109
+Technology Acceptance Model	5349,2672,109,2810
 Technology Acceptance Model and Diffusion of Innovation	8671
 Tel-One Backbone and Broadband Access Phase	60
 Telecommunications Institute AGPO Access	6946
@@ -1741,8 +1747,9 @@ Uganda Communications Universal Service and Access Fund	3990,4557,75,108,311,740
 Uganda Digital Acceleration Project	756,527,6097,494,158,1751
 Uganda National Accreditation Service	4217
 Uganda's Digital Acceleration Project	3275
+Unclear Accountability Explicit	10908
 Unified Access	5226
-Unified Theory of Acceptance and Use of Technology	5349
+Unified Theory of Acceptance and Use of Technology	5349,5570
 Unit of Account	6422
 United Nations Innovation Technology Accelerator for Cities	8676
 Units of Accoun	600

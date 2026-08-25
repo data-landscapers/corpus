@@ -56,7 +56,7 @@ AUTHENTIC COSMOPLASTIC ESSENTIALS PLASTIC SURGERY LIMITED	7167
 AUTO SPRINGS EAST AFRICA PLC Data	7167
 AWPB Annual Work Plan and Budget BIF	1284
 AWPB Annual Work Plan and Budget CAR	10829
-Abidjan Plateau	1044,7132,1343
+Abidjan Plateau	1044,7132,1343,1416
 Abidjan's Plateau	3175
 Abidjan-Cocody. Placée	6863
 About Scancom PLC MTN Ghana	5136
@@ -277,6 +277,7 @@ China’s National Economic and Social Development Plan	5242
 China’s Platform Economy	226
 Choice of Communication Platforms	8999
 Citizen Platform	10313
+City Planning	10930
 Civil Society Engagement Action Plan	7784
 Claude Platform	9608
 Claude Urbain PLAGBETO	2354,905,3629
@@ -295,6 +296,7 @@ Commissioner for Labour and Manpower Planning	9115
 Communication Plan	958
 Communication Platforms	10793
 Communities Mobile Teams Plan	8999
+Community Health Strategic Plan	10940
 Community-Based Health Planning and Services	771
 Comoros Launches E-Learning and EdTech Platforms	3059
 Company PLC of Hungary	9399
@@ -342,7 +344,7 @@ County Investment Plans	10346
 Credit Bank Plc Data Controller INST-5006303240E	7167
 Credit Bank Plc Data Processor INST-5006303240E	7167
 Crisis Communications Plan	6946
-Critical Infrastructure Protection Plan	3604
+Critical Infrastructure Protection Plan	3604,7307
 Cross River State Planning Commission	8520
 Cross- Sectoral Plans Regarding	3487
 Crown Paints Kenya PLC	6946
@@ -423,6 +425,7 @@ Description Plan International Digital Skills for Youth	1160
 Description Rural Transformation Centres Digital Platform	584
 Description Vodacom Tanzania PLC	4521
 Detailed Implementation Plan	4349
+Detailed Urban Planning Plans	10930
 Determined Contribution NDP National Development Plan	10768
 Develop and Implement Disaster Recovery Plan	1000
 Develop and Implement the Electronic Waste Management Plan	1988
@@ -625,6 +628,8 @@ European Fund for Sustainable Development Plus	4475,175,13,436
 European Fund for Sustainable Development Plus EIB	970
 European Union's Digital Education Action Plan	6936
 Evaluation Plan	1284,583,8962
+Evidence Action Plan	10911
+Evidence Platform	10911
 Examining Platform Governance and User Behavior	5349
 Examining Platform Governance and User Behaviours	5349
 Exhibitions and Conferences Platform	9479
@@ -759,6 +764,7 @@ Google Play Store and Apple App Store	2885
 Google Play Store. NIMC	5284
 Google Play Works	1363
 Google Play and Apple App	4292
+Google Play. L'application	10941
 Google’s Play Store	1363
 Gov Platform for Citizen Feedback I-31	10785
 Gov-1Citizen Platform Upgrade TechAfrica News	5444
@@ -782,6 +788,7 @@ Greenlight Planet	389,550,198,8011
 Group CEO Pledges Continued Investment	3483
 Groupe Planète	998
 Guide for Planning RiskBased Inspections	10776
+Gulf of Guinea Joint Response Plan	10920
 HDA. Outside Plant Cabling Infrastructure	9123
 HEREBY ISSUES THE NATIONAL RADIOFREQUENCY PLAN	7850
 HIGH Create the Regional Platform for Sharing Information	5677
@@ -816,6 +823,7 @@ Hormuud’s EVC Plus	3463,4434
 Hotel Amid Sex-for-Grade Plot. He Got	10034,231
 Housing and Country Planning	8903
 Housing and Territorial Planning	4945
+Housing and Urban Planning	10937
 Hub Plan	10668
 Human Resource Plan	4217
 Humanitarian Needs and Response Plan	3583
@@ -924,7 +932,7 @@ International Year of Planet Earth	6997
 Internet. Plus	9518
 Interoperability Platform	3612
 Interoperability Platforms. Since GTMI	10785
-Interoperable Instant Payment Platform	10203
+Interoperable Instant Payment Platform	10203,726
 Interoperable Instant Payment System Platform	5054
 Introduction Planning	3791
 Introduction The Asbestos Management Plan	1988
@@ -1121,6 +1129,10 @@ Master Plan. Ministry of Education	899
 Master Plan. The Smart Zimbabwe	395,563
 Master Plans	7785
 Master Skills Plan. Collectively	6832
+Master Urban Planning Plans and Detailed	10930
+Master Urban Planning Plans and Detailed Urban	10930
+Master Urban Planning Scheme of Greater	10930
+Master Urban Planning Scheme of Greater Abidjan	10930
 Mattei Plan	9971
 Mattei Plan for Africa	10592
 Mauritania’s National Strategy and Action Plan	1264
@@ -1421,6 +1433,7 @@ Online Platforms	573
 Ontario Power Generation Pension Plan	9098,46
 Open Data Platform	3310,1717
 Open Government Data Platform	4098
+Open Smart Register Platform	10919
 Operador de Plataformas Digitais	6970
 Operador de Plataformas de Computação	6970
 Operadores de Plataformas Digitais	2816,4154
@@ -1448,6 +1461,7 @@ PLA and OpenAI	8510
 PLACE LTD Data Processor INST-9941250204F	7167
 PLAGED	4598
 PLAN D'ORIENTATION STRATÉGIQUE DE L'ADMINISTRATION FISCALE	10712
+PLAN DE PROTECTION DES INFRASTRUCTURES CRITIQUES	10906
 PLAN D’ACTION OPERATIONNEL	10858
 PLAN D’ACTIONS DU POSAF	10712
 PLAN FOR CHANGE	2477
@@ -1537,6 +1551,7 @@ PPSD and Procurement Plan	3604
 PPSD. The Procurement Plan	6539
 PRINCIPAIS ACTIVIDADES PLANIFICADAS	2816
 PROCUREMENT PLAN	1818
+PROTECTION LAW IN PLACE DATA PROTECTION	10908
 PS4R Platform	10841
 PT9 Please	736
 PTA Le Plan de Travail Annuel	10876
@@ -1563,7 +1578,7 @@ Pilot Cross-Border Data Exchange Platform	4326
 Pit Latrine Fecal Sludge Management Plan	1988
 Plaatjies	8531
 Placa de Publicidade	2866
-Place	8,11,9,2,9,38,41,47,13,123,283,32,11,63,55,4,78,131,88,366,239,337,154,95,105,2000,173,405,36,43,156,190,65,70,60,136,3,242,62,257,354,130,426,121,85,408,122,341,319,15,1,81,31,125,95,44,42,5,54,23,10,7,4,32,8,11,15,48,1,5,62,9,1,34,12,39,39,63,1,129,13,3,2,1,19,3,1,26,11,36,22,5,1,53,17,1,67,11,21,24,15,41,3,38,41,52,1,3,40,7,45,5,55,7,8,57,4,18,77,23,72,59,18,157,39
+Place	8,11,9,2,9,38,41,47,13,123,283,32,11,63,55,4,78,131,88,366,239,337,154,95,105,2000,173,405,36,43,156,190,65,70,60,136,3,242,62,257,354,130,426,121,85,408,122,341,319,15,1,81,31,125,95,44,42,5,54,23,10,7,4,32,8,11,15,48,1,5,62,9,1,34,12,39,39,63,1,129,13,3,2,1,19,3,1,26,11,36,22,5,1,53,17,1,67,11,21,24,15,41,3,38,41,52,1,3,40,7,45,5,55,7,8,57,4,18,77,23,72,59,18,157,39,87,21
 Place An Advert	9253
 Place An ICT	958
 Place At Any Table	8644
@@ -1668,6 +1683,7 @@ Plan Sénégal	2400
 Plan Tecnológico	4209
 Plan Tier	10721
 Plan de Acción	9302
+Plan de Continuité	10906
 Plan de Desarrollo	4209
 Plan de Décentralisation	10712
 Plan de Développement Stratégique	10847
@@ -1679,6 +1695,7 @@ Plan de Passation de Marchés Publics	10876
 Plan de Passation des Marchés	10876
 Plan de Passation des Marchés Publics	10876
 Plan de Passation des Marchés du Programme	10876
+Plan de Protection des Infrastructures	10906
 Plan de Soutien Eco-	2342
 Plan de Suivi	748
 Plan de Suivi-Évaluation	10876
@@ -1750,6 +1767,7 @@ Planning Detail	9123
 Planning Director General of Capital Market Authority	6938
 Planning M	1777
 Planning Phase	148
+Planning Plans	10930
 Planning Survey and Issues Report	1867
 Planning Your Raise	9198
 Planning and Administration Prudence Kaoma. Ms Kaoma	10510
@@ -1868,7 +1886,7 @@ Plataformas Estatísticos	9323
 Plataformas de Computação	6970
 Plataformas de Streaming	2816
 Plataformização. Revista Fronteiras	10775
-Plateau	737,1627,89,403,393,395,710,224,900,702,55,365,1205,268,93,2305
+Plateau	737,1627,89,403,393,395,710,224,900,702,55,365,1205,268,93,2305,455,4,7
 Plateau Central	737,6090,4020,17
 Plateau State	8424
 Plateau State CALL FOR DIRECT TENDER	8985
@@ -1894,7 +1912,7 @@ Plateaux Region Togo	3437,3942,47
 Plateaux-Est. Placée	9898
 Plateaux-Ouest	6134
 Plateaux-Ouest. Dans	6134
-Plateforme	235,311,685,1145,36,499,470,338,879,391,7,25,202,90,158,613,314,490,187,208,394,996,82,136,158,975,41,201,78,477,2,4,61
+Plateforme	235,311,685,1145,36,499,470,338,879,391,7,25,202,90,158,613,314,490,187,208,394,996,82,136,158,975,41,201,78,477,2,4,61,46
 Plateforme E-Administration	235
 Plateforme E-solde	5471
 Plateforme Interopérable du Système	10888
@@ -1905,6 +1923,7 @@ Plateforme Officielle	4895
 Plateforme Open Data de Djibouti	3024
 Plateforme de Correspondance	8643
 Plateforme de Données Nationales	3857
+Plateforme de Lutte Contre la Cybercriminalité	10911
 Plateforme de Retraite Informatisée	7800
 Plateforme de Téléphonie IP	9049
 Plateforme. Au	3719
@@ -1913,7 +1932,7 @@ Plateformes CORUS BURKINA FASO SERVICE PUBLIC	9049
 Plateformes X du Groupe SONATEL	7634
 Platfonn	4301
 PlatforMuse	9739
-Platform	34,146,267,146,365,1519,45,187,239,500,183,605,24,1089,351,15,43,35,684,170,101,44,939,215,20,209,261,37,255,395,780,290,424,97,15,112,7
+Platform	34,146,267,146,365,1519,45,187,239,500,183,605,24,1089,351,15,43,35,684,170,101,44,939,215,20,209,261,37,255,395,780,290,424,97,15,112,7,108
 Platform APC Article Processing Charge ARC	5246
 Platform Accountability Fellowship	10571
 Platform Africa	7367
@@ -1967,6 +1986,7 @@ Plattform Westafrikas	823
 Plausibly	4434
 Play Meets Purpose	10374
 Play Store. Technologies	6946
+Play Video Partner Network	10956
 PlayStation	7125
 PlayStation SANS BESOIN DE CARTES BANCAIRE	5567
 PlayVideo	10848
@@ -1982,6 +2002,9 @@ Playwright	6542
 Plaza	6946
 Pleadings	8978
 Please	3,23,1,1,208,324,18,158,53,173,242,482,302,419,41,56,1,124,259,50,64,316,81,46,14,16,38,253,55,41,4,52,1,1,206,475,131,1,292,56,67,60,39,66,142,162,62,10,9,5,2,88,14,46,24,47,210,17,257,80,17,62,188,39,40,10,153,30,47,30,3,10,6,2,19,138,469,26,426,681,13,88,46,45,6,46,75,32,2,621,103,40,475,118,23,97,50,1,3,7,10,27,7,4,16,5,15
+Please Call Me	10955
+Please Call Me-initiated	10955
+Please Call Me. Yet	10955
 Please Login	4990
 Please Provide Route Plan	736
 Please RSVP	3654
@@ -2210,7 +2233,7 @@ SADC Digital Transformation Strategy and Action Plan	1007
 SADC Frequency Allocation Plan	7850,239,84
 SADC Frequency Allocation Plan. ICASA	7827
 SADC Regional Indicative Strategic Development Plan	970
-SADC Regional Infrastructure Development Master Plan	23
+SADC Regional Infrastructure Development Master Plan	23,10936
 SADC's Regional Infrastructure Development Master Plan	10324
 SAFARICOM PLC Associates	7204
 SAFARICOM PLC RESULTS BOOKLET AUDITED RESULTS	6100
@@ -2336,6 +2359,7 @@ State Planning Commission	8520
 State of Play	3391
 State of Play Luckily	3391
 Strategic Action Plan	1000
+Strategic Economic and Local Development Plans	10930
 Strategic Investment Plan for Development	648
 Strategic Organisation Structure Plan	6946
 Strategic Plan	789,211,131,767,1753,10,159,436,334,288,367,288,303,652,24,274,160,761,53,333,1346,46,622,1,668,4
@@ -2420,6 +2444,7 @@ Town and Country Planning Department	11
 Transaction and Plans	7198
 Transition Strategy Plan Tier	10721
 Transitional National Development Plan	2647
+Travail PLAN DE PROTECTION DES INFRASTRUCTURES	10906
 Treasury and Economic Planning	10313
 Trees Planted	6946
 Trees Planted Number of Trees Planted Staff	6946
@@ -2433,6 +2458,7 @@ U-Learn Platform	9783
 U.S. President’s Emergency Plan for AIDS Relief	10641
 U.S. Targets Brazil’s Payments Platform Pix	4970
 UAE Investments Platform	9098,248
+UG1 Please	10956
 UK FCDO National Development Plan	5172
 UK Plusieurs	2966
 UL President Unveils Bold Plan	10405
@@ -2453,8 +2479,11 @@ Unique Administrative and Payroll Management Platform	4142
 United States President’s Emergency Plan for AIDS	5165
 Unity Bank Plc. Last	4771
 University's Integrated Strategic Plan	10343
-Urban Planning	789,5016
+Updating the Master Urban Planning Plans	10930
+Urban Planning	789,5016,5132
+Urban Planning Plans	10930
 Urban Planning and Environmental Science	718
+Urban Planning and Urban Land Code	10930
 Urban and Regional Planning Act	1988
 Us Plus	1062
 Us Plus Ltd.' Digital	1062

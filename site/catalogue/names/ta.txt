@@ -517,6 +517,7 @@ ERS TaxPal	2885
 ERS TaxPal App	3215
 ES NOTE TABLE III. SUMMARY	1228
 ET TAXES Cette	6954
+ET1Raxio Mozambique MZ1Raxio Tanzania TZ1Raxio Uganda	10956
 ETAT DETAILLE DES TAXES DEDUCTIBLES Cette	6954
 ETC de Tahoua	7374
 EU Tanzania	10592
@@ -694,6 +695,7 @@ GROUP REVENUE BY COUNTRY Table	10793
 GROUP REVENUE BY SEGMENT Table	10793
 GROUP SERVICE REVENUE BY COUNTRY Table	10793
 GS1 Tanzania Chief Executive Officer	5883
+GSMA Tax Database. Côte	10932
 GUIDELINES ON THE TAXATION OF VIRTUAL	8590
 Gabon Taps State Guarantee and Huawei	6678,209,414,23
 Gambia Takes Major Step Toward	3751
@@ -708,6 +710,7 @@ General Government Public Sector Institutional Table	2775
 General Tariff	9409
 General Tax Administration	778,10014
 General Tax Administration Angola	6042
+General Tax Directorate	10937
 General Taxpayer Register	10775
 General Taxpayer Register Ex Officio	10775
 General Taxpayers Registry	10775
@@ -835,6 +838,7 @@ ITU DataHub. Table A2.1	10844
 ITU. Table A2.2	10844
 ITWeb Africa and Taarifa	7349
 IWG. Tasks	2112
+Ibrahim Tahirou Aissata	10951
 Ibrahim Talba Malla	2221,914
 Ic Estonia Europe Northern Europe Tallinn	10840
 Idris Nfongang Tabi	7603
@@ -895,6 +899,7 @@ Ivoire Ghana Angola Tanzania MW	10781
 Ivoire Liberia Benin Tanzania Mali Guinea-Bissau	10856
 Ivoire Targets Internet Expansion and Cybersecurity	5457
 Ivoire's Digital Sovereignty Takes Shape	3314
+Ivoire. TAM	10940
 JOINT VENTURES AFTER TAX	10793
 JOINT VENTURES AFTER TAX Six	10793
 Jacob Tapé	6844
@@ -1011,6 +1016,7 @@ List of Tables	236,2540,4170
 List of Tables Chapter	10763
 List of Tables List of Figures	2775
 List of Tables Table	1814,961,2880,345
+Long Tail Markets Outside	10954
 Lower Taxes and More Affordable Devices	8241
 Ltd Telkom Kenya Ltd Target	6946
 Luanda Namibe TATIANA ULICA DA SILVA	10751
@@ -1194,6 +1200,7 @@ National Cyber-Security Task Force	7447
 National Examination Council of Tanzania	10196
 National Examinations Council of Tanzania	10196,479
 National Identity Management Commission. Tags	7144
+National Sovereign Cloud Initiative Implementation Taskforce	10952,1
 National Talent Export Programme	3006
 National Tallying Centre	9645
 National Tanzania	9779
@@ -1302,6 +1309,8 @@ Paratus Tanzania	6394
 Paratus Uganda and Paratus Tanzania	10312
 Pato la Taifa	2868,3151
 Patrice Talon	2915,3426,2502
+Patrice Tano VP Technical Operations	10956
+Patrice Tano VP Technical Operations Raxio	10956
 Patriotisme Tahoua	3337,4,1472,2351
 Paul Viet-Minh Nguyen Task Team Leaders	3604
 Payment Tax	3016,2546
@@ -1310,7 +1319,9 @@ Performance Indicators for Deposit Taking SACCOs	2775
 Performance of Foreign Trade Taxes	5655
 Permit LIST OF TABLES List of Tables	5533
 Personal Income Tax	1828,1651
+Perspective Taking	10954
 Pesa Tanzania	6350
+Peter Takaendesa	10955
 Phased Roadmap Tables	3861
 Physical Energy Supply Table	2775
 Physical Energy Use Table	2775
@@ -1620,7 +1631,7 @@ TABASAMU DENTAL SURGEONS LIMITED Data Controller	7167
 TABELAS E FIGURAS Tabelas Tabela	2816
 TABLE	1009,152,667,265,855,1484,221,1824,1282,262,1107,1,108
 TABLE B	3714
-TABLE DES MATIERES	737,10138
+TABLE DES MATIERES	737,10138,31
 TABLE DES MATIERES AVANT-PROPOS	10875
 TABLE DES MATIERES Avant	10847
 TABLE DES MATIERES TABLE DES MATIERES	10876
@@ -1677,6 +1688,7 @@ TALENTS ET FORMATION	5478
 TALLERES	4209
 TALLERES Y TIENDAS ARTESANALES	4209
 TALON Le Ministre	10813
+TAM and Louart S	10940
 TAM. Al-Suqri	5349
 TAM. Researchers	8130
 TAM. Technology	8130
@@ -1824,7 +1836,7 @@ Tabeli	10780
 Tabelot	7183
 Tabioucom	1842,2700
 Tabitha Karanja	1245
-Table	7,3,16,1,1,6,202,160,322,47,1,5,169,18,51,4,148,27,24,6,1,9,15,18,3,20,242,28,47,1,1,2,1,7,119,1,1,43,1,36,4,6,4,39,77,44,105,3,195,132,138,64,150,1,113,1,9,1,48,18,638,74,36,68,9,71,239,113,3,18,197,7,52,26,11,125,23,220,236,50,3,4,2,1,53,2,286,115,1,6,45,24,20,256,477,62,132,49,70,42,58,31,25,1,31,173,127,90,53,30,122,186,31,60,36,80,17,38,333,22,60,24,84,38,21,1,1,286,232,5,1,108,1076,112,125,162,2,5,7,1,32,4,1,1,3,7,4,1,4,35,10,6,2,1,2,1,3,2,1,5,4
+Table	7,3,16,1,1,6,202,160,322,47,1,5,169,18,51,4,148,27,24,6,1,9,15,18,3,20,242,28,47,1,1,2,1,7,119,1,1,43,1,36,4,6,4,39,77,44,105,3,195,132,138,64,150,1,113,1,9,1,48,18,638,74,36,68,9,71,239,113,3,18,197,7,52,26,11,125,23,220,236,50,3,4,2,1,53,2,286,115,1,6,45,24,20,256,477,62,132,49,70,42,58,31,25,1,31,173,127,90,53,30,122,186,31,60,36,80,17,38,333,22,60,24,84,38,21,1,1,286,232,5,1,108,1076,112,125,162,2,5,7,1,32,4,1,1,3,7,4,1,4,35,10,6,2,1,2,1,3,2,1,5,4,50,6,7,21
 Table A	4214
 Table A of Schedule	3714
 Table A. Recommendations	4214
@@ -1904,7 +1916,7 @@ TablePress	9458
 Tableau	643,94,261,207,13,766,358,134,85,64,341,158,981,57,297,1855,27,82,125,224,124,759,1236,534,1286,1,144,18,1,1
 Tableau Armoire Table Meuble	10847
 Tableau des Ressources	9276
-Tableaux	1325,1,1,1,1,1,685,1,1,1,1,1,266,1869,1,1,1,1,1,237,533,700
+Tableaux	1325,1,1,1,1,1,685,1,1,1,1,1,266,1869,1,1,1,1,1,237,533,700,5291
 Tableaux de Bord de Suivi des Indicateurs	10712
 Tabled	2662
 Tables	236,773,4,1612,150,1617,776,77,1701,882,22
@@ -2061,7 +2073,7 @@ Takeaway	4439
 Takeaway Messages	4439
 Takeaways	2783,3588
 Takedown	8490
-Taken	3583,544,721,367,203,200,204,67,81,115,111,54,102,115,323,160,302,216,111,180,31,176,335,135,24,4,402,26,123,601,19,242,59,152,50,19,28,3,55,70,147,181,88,128
+Taken	3583,544,721,367,203,200,204,67,81,115,111,54,102,115,323,160,302,216,111,180,31,176,335,135,24,4,402,26,123,601,19,242,59,152,50,19,28,3,55,70,147,181,88,128,97
 Takeover	3714
 Takeover Regulation	3714
 Takeover Regulation Panel	3714
@@ -2071,7 +2083,7 @@ Takeovers	3714
 Takes	3279,2486,1986
 Takes Root	8609
 Takes Stringent Steps	3768
-Taking	27,1216,354,231,479,466,14,1652,418,389,287,167,125,442,1092,1147,98,1708,544
+Taking	27,1216,354,231,479,466,14,1652,418,389,287,167,125,442,1092,1147,98,1708,544,98
 Taking Fundamental Rights Seriously	5349
 Taking IDs	4439
 Taking the AI Office	8692
@@ -2246,6 +2258,8 @@ Tanimoto S	9739
 Tanimu Hassan	10603
 Tanimu Yakubu	10681
 Tanit. L’administration	10289
+Tanja Barth-Jaeggi	10919
+Tanja Barth-Jaeggi1	10919
 Tanjina Tamanna	4439
 Tankari Ibrahim	2606
 Tankele Sports Ground	2669
@@ -2278,7 +2292,7 @@ Tanyi George Orang and Dr. Lidwina Gabsa	1599
 TanzTech	2868
 Tanzan	1261
 Tanzan Health Res Bull	1261
-Tanzania	62,2,13,4,12,1,38,4,12,6,52,30,6,7,14,14,17,88,7,13,1,57,54,2,105,16,1,18,12,11,22,13,3,1,3,3,42,5,11,16,16,3,4,8,61,17,24,5,11,1,14,51,35,61,103,4,45,102,52,2,2,15,28,3,62,13,7,7,90,159,11,45,62,100,81,15,2,17,1,2,11,3,21,32,1,8,9,2,10,2,12,25,21,284,83,14,5,21,5,2,65,8,14,9,10,41,1,9,1,56,23,39,2,74,24,17,135,7,121,81,3,10,24,25,12,2,10,65,34,106,21,32,68,8,19,53,15,107,15,23,13,38,2,212,68,7,3,3,76,26,6,30,25,3,1,56,46,38,1,115,15,35,33,2,19,21,9,43,71,120,11,54,34,50,31,95,90,28,68,18,50,6,12,5,1,13,18,2,53,8,10,32,52,38,4,1,1,1,24,37,19,5,40,21,44,54,65,19,18,9,94,40,1,30,12,8,15,16,78,40,9,8,8,10,45,1,7,8,9,105,6,11,8,63,17,8,71,40,10,23,40,32,8,1,29,23,10,39,68,13,65,9,118,15,59,39,13,6,33,18,20,27,1,57,14,4,7,21,50,4,12,2,1,1,13,85,79,51,3,8,58,77,52,14,50,1,18,15,53,1,1,137,104,26,1,4,20,103,3,48,20,2,62,3,7,80,29,84,1,26,1,75,1,38,1,97,21,1,5,19,53,1,18,71,1,2,22,1,2,63,28,27,20,26,62,8,24,11,24,56,40,17,5,1,10,49,38,54,8,11,27,39,5,1,4,16,24,30,22,34,1,1,72,11,3,36,2,2,14,14,13,5,4,17,9,5,23,13,3,10,8,22,3
+Tanzania	62,2,13,4,12,1,38,4,12,6,52,30,6,7,14,14,17,88,7,13,1,57,54,2,105,16,1,18,12,11,22,13,3,1,3,3,42,5,11,16,16,3,4,8,61,17,24,5,11,1,14,51,35,61,103,4,45,102,52,2,2,15,28,3,62,13,7,7,90,159,11,45,62,100,81,15,2,17,1,2,11,3,21,32,1,8,9,2,10,2,12,25,21,284,83,14,5,21,5,2,65,8,14,9,10,41,1,9,1,56,23,39,2,74,24,17,135,7,121,81,3,10,24,25,12,2,10,65,34,106,21,32,68,8,19,53,15,107,15,23,13,38,2,212,68,7,3,3,76,26,6,30,25,3,1,56,46,38,1,115,15,35,33,2,19,21,9,43,71,120,11,54,34,50,31,95,90,28,68,18,50,6,12,5,1,13,18,2,53,8,10,32,52,38,4,1,1,1,24,37,19,5,40,21,44,54,65,19,18,9,94,40,1,30,12,8,15,16,78,40,9,8,8,10,45,1,7,8,9,105,6,11,8,63,17,8,71,40,10,23,40,32,8,1,29,23,10,39,68,13,65,9,118,15,59,39,13,6,33,18,20,27,1,57,14,4,7,21,50,4,12,2,1,1,13,85,79,51,3,8,58,77,52,14,50,1,18,15,53,1,1,137,104,26,1,4,20,103,3,48,20,2,62,3,7,80,29,84,1,26,1,75,1,38,1,97,21,1,5,19,53,1,18,71,1,2,22,1,2,63,28,27,20,26,62,8,24,11,24,56,40,17,5,1,10,49,38,54,8,11,27,39,5,1,4,16,24,30,22,34,1,1,72,11,3,36,2,2,14,14,13,5,4,17,9,5,23,13,3,10,8,22,3,76
 Tanzania Accountants Association President Godvictor Lyimo	8888
 Tanzania Act	6921
 Tanzania Agricultural Research Institute	9290
@@ -2477,13 +2491,14 @@ Tanzania. Sekta	6019
 Tanzania. Soc Sci Med	1219
 Tanzania. Subject	934
 Tanzania. The KIIs	1261
+Tanzania. The Ministry of Finance and Economy	10957
 Tanzania. Together	9452
 Tanzania. UbuntuNet Alliance	2816
 Tanzania. Want	5715
 TanzaniaDigitalTrust	9491
 TanzaniaDigitalTrustInitiative	9452,39
 TanzaniaInvest Vodacom Tanzania Launches USD	5715
-Tanzanian	148,58,608,447,1,541,316,160,424,94,9,51,10,57,442,94,172,307,500,64,23,86,102,39,249,114,269,126,272,100,42,52,45,8,53,19,351,124,230,9,34,77,99,8,71,50,37,129,39,18,128,9,518,181,62,189,149,400,142,134,680,105,185,109,222,1
+Tanzanian	148,58,608,447,1,541,316,160,424,94,9,51,10,57,442,94,172,307,500,64,23,86,102,39,249,114,269,126,272,100,42,52,45,8,53,19,351,124,230,9,34,77,99,8,71,50,37,129,39,18,128,9,518,181,62,189,149,400,142,134,680,105,185,109,222,1,365
 Tanzanian Fintech NALA Receives Uganda Payment	4405
 Tanzanian M-PESA	6368
 Tanzanian NGO Ubongo	6948
@@ -2676,7 +2691,7 @@ Task-force	9190
 Task-force. Il	9190
 Task-force. Section	9190
 Tasked	5147
-Taskforce	961,7089
+Taskforce	961,7089,2902
 Taskforce Coordinator	1243
 Taskforce Members	1243
 Tasks	1333,3195,1000
@@ -2911,6 +2926,7 @@ Taylor CM	771
 Taylor CO. Obtaining	10780
 Taylor J	9739
 Taylor L	7187
+Taylor S	10919
 Taylor&title	7187
 Taylor&volume	771
 Tayo Osiyemi	7444

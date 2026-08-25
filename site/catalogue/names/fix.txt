@@ -23,6 +23,9 @@ E. No Fixed Cap	5773
 Enhanced Mobile Broadband and Fixed Wireless Access	2528
 Excise and Preventive Service CFC Consumption of Fixed	236
 FBB Fixed Broadband FDI Foreign Direct	10781,80
+FIXANT LES CONDITIONS D'ETABLISSEMENT ET	10896,10
+FIXANT LES MODALITÉS DE MISE EN	10897,9
+FIXATION DES PRIORITES DE PROTECTION	10906
 FIXED	3862
 FIXED INTERNET	6000
 FIXED NETWORK	2776
@@ -147,7 +150,7 @@ Fixed Wired	3862
 Fixed Wired Internet Market Lags	7110
 Fixed Wired Internet Subscriptions	3862
 Fixed Wireless	3862,2809
-Fixed Wireless Access	2528,2808,339,325,4793
+Fixed Wireless Access	2528,2808,339,325,4793,165
 Fixed Wireless Access GB	6000
 Fixed Wireless Access Subscriptions	6000
 Fixed Wireless Access System	736
@@ -229,6 +232,7 @@ NIGER TELECOMS S.A. Fixe	998
 National Fixed Asset Management Policy	9004
 National Fixed Asset Register. Consolidated	9004
 Network Operator Fixed Network Operator Q3	2776
+Nigeria’s Wholesale Fixed Broadband Market Assessment	10958
 Non-Protected Fixed Links	6946
 OPERATORS The Fixed	3862
 Offices Operational Service Points Fix Service	8999

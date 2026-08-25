@@ -79,7 +79,7 @@ DetailFreeIncluded	10848
 DetailFreeIncludedOrderOfMagnitude	10848
 DetailFreeSubscriberCount	10848
 DetailOrderOfMagnitude	10848
-Detailed	236,500,476,45,7,20,540,43,121,721,969,220,74,242,87,48,17,310,437,552,470,697,242,464,763,596,226,75,990,59,467,7,130,5
+Detailed	236,500,476,45,7,20,540,43,121,721,969,220,74,242,87,48,17,310,437,552,470,697,242,464,763,596,226,75,990,59,467,7,130,5,74
 Detailed Analysis	236
 Detailed Audit Trails	5665
 Detailed Data Storage Location Inventory	6432
@@ -89,6 +89,7 @@ Detailed Implementation Plan	4349
 Detailed Risk Analysis and Mitigation Strategies. National	4528
 Detailed Roles and Responsibilities for AISIO Leadership	4528
 Detailed Sector Analyses	2957
+Detailed Urban Planning Plans	10930
 Detailing	10388
 Details	22,560,154,273,236,28,1,1,270,1,232,89,451,65,12,439,844,36,834,21,1,1,1,1,1,86,101,123,361,104,248,68,758,116,14,1883,1447,125,326,495,33
 Details Application	8726
@@ -180,6 +181,7 @@ Factor Determinante	10772
 Financing Details	2889
 Fine Determination and Ranges	3861
 Fire Detection System	593
+Fire Detection and Suppression	10956
 Fire Detection and Suppression Analogue	9446
 Floods Detecting Flood Events Angola	10763
 Former Detainees	3583
@@ -213,6 +215,7 @@ Injection Attack Detection	9747,54,3,23
 Institutional Capacity Requirements DETERMINING	3861
 Integration Will Determine Whether Stablecoins Become	9903
 Internet Protocol Detail Record	4274,899
+Intruder Detection Systems	10956
 Intruder Detection Systems Continuous CCTV	9446
 Intrusion Detection	1000
 JUBILADO Y REG. CONT. RECLUTAMIENTO DETALL	4209
@@ -233,6 +236,8 @@ MS DETELINA SUBEVA	1829
 Mahdi Lyoubi Detained Ahead	5407,676
 Main Route Antenna Details Make Model	736
 Managed Detection and Response	4084
+Master Urban Planning Plans and Detailed	10930
+Master Urban Planning Plans and Detailed Urban	10930
 Meta’s Detectron2	5367
 Ministry of Health and Childcare NDC Nationally Determined	970
 Mobile Satellite Station Details Type	736

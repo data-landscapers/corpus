@@ -129,7 +129,7 @@ MSc Electrical Power	4896
 MTC Powercom Telecom Namibia	1013
 MTC Telecom Namibia Company Powercom Paratus	1944
 MUC GmbH PixAi PixelFactory Policy-Insider.AI PowerQuant	8530
-MW IT Power	9446
+MW IT Power	9446,1510
 MW Karuma Hydro Power Plant	3561
 MW Undersea Power Link	965,3924,206
 MWp Danzi Solar Power Plant	10857
@@ -211,7 +211,7 @@ Power Operations Division	4896
 Power Packs	10742
 Power Platform	2524,4210
 Power Platform Fundamentals	6353
-Power Power Supply	9446
+Power Power Supply	9446,1510
 Power Problem Nobody Budgets	7208
 Power Producer IRR Internal Rate of Return	10861
 Power Producer IT Information Technology DATA	4525

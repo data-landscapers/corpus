@@ -28,13 +28,13 @@ COVID	550,18,5,13,57,75,178,62,12,3,2,23,40,227,459,224,359,170,489,583,34,466,3
 COVID Data Tracker	5700
 COVID Relief	687
 COVID-	10718
-COVID-19	443,17,5,2,3,30,47,10,3,2,8,3,5,11,42,12,75,29,23,19,58,52,41,29,1,5,2,28,13,16,127,51,7,24,5,16,81,356,3,20,90,14,4,35,87,34,105,3,21,174,51,71,105,17,87,45,11,97,173,635,21,68,377,43,334,1,3,402,188,226,287,167,211,339,136,72,374,114,332,280,35,62,95,1,8,86,41,455,174,59,62,447,21,25,175,140,294,221,10,234,508,1,2,4,8,37,5,9,2,5,35,2,1,1,6,2,10,3,2,6,13,1,9,6
+COVID-19	443,17,5,2,3,30,47,10,3,2,8,3,5,11,42,12,75,29,23,19,58,52,41,29,1,5,2,28,13,16,127,51,7,24,5,16,81,356,3,20,90,14,4,35,87,34,105,3,21,174,51,71,105,17,87,45,11,97,173,635,21,68,377,43,334,1,3,402,188,226,287,167,211,339,136,72,374,114,332,280,35,62,95,1,8,86,41,455,174,59,62,447,21,25,175,140,294,221,10,234,508,1,2,4,8,37,5,9,2,5,35,2,1,1,6,2,10,3,2,6,13,1,9,6,32,6
 COVID-19 Africa Watch	560
 COVID-19 Coronavirus Disease	10829
 COVID-19 Dampens Kenya’s Economic Outlook	10822
 COVID-19 Effects	10718
 COVID-19 Health Recovery Levy	7695,44
-COVID-19 Pandemic	718,222,308,9470
+COVID-19 Pandemic	718,222,308,9470,183
 COVID-19 Pandemic Joint	10718
 COVID-19 Private Laboratories	3583
 COVID-19 Project P173832	10829
@@ -46,6 +46,7 @@ COVID-19 Survey	10829
 COVID-19 Tracing Database	9969
 COVID-19 Urban Cash Intervention	10763
 COVID-19 and HIV	9969
+COVID-19-Outbreak Response	10919
 COVID-19-Pandemie	692,1
 COVID-19-and-Data-Rights-in-Uganda-Report-.pdf	2549
 COVID-19-related	9969,853,7,52
@@ -58,6 +59,7 @@ COVID-19. Dans	643
 COVID-19. Des	4325
 COVID-19. Desarrollar	975
 COVID-19. Five	3549
+COVID-19. Ideally	10919
 COVID-19. In Eswatini	1642
 COVID-19. Performance	1212
 COVID-19. State of Digital Transformation	5700
@@ -76,7 +78,7 @@ Covcifip	5829
 Covenant	3583
 Covenant University and Harvard University	10170
 Covenant University. Peter	10170
-Cover	961,39,6,10,581,180,205,6,573,398,1484,529,162,110,374,4,41,752,17,508,2676,191,958,10,37
+Cover	961,39,6,10,581,180,205,6,573,398,1484,529,162,110,374,4,41,752,17,508,2676,191,958,10,37,89,19
 Cover Crops and Mulches	1988
 Cover Page Design Desmond Manatsa	520
 Cover-Up	4261
@@ -149,6 +151,7 @@ Data Covered	5244
 Data Covered This Policy	5244
 Diagnostico de COVID-19	2816
 Digital Health for COVID-19 European Commission	631
+Digital Solutions for COVID-19 Response	10919
 Digital Terrestrial Television Population Coverage	6946
 Digitalization and Trade Finance The COVID-19	10718
 Drives the Performance of COVID-19 Tracing Apps	5700
@@ -238,6 +241,7 @@ Population Coverage Digital Terrestrial Television	6946
 Population Coverage Rural Urban	6000
 Postbank Spatial Coverage Analysis Western Cape	8999
 Projects Covering	9944
+Public Hygiene and Universal Health Coverage of Côte	10928
 Public-Sector Innovation Cover	6442
 R350 Covid-19 SRD	7910
 RDF2023. Covers	285
@@ -275,7 +279,7 @@ Uganda. ESTIMATING THE GLOBAL ID COVERAGE	10714
 United Nations International Covenant	3583
 Universal Access Cove Crosswalk	193
 Universal Coverage Scheme	9804
-Universal Health Coverage	396,508,357,2343,561,136,2093,1060,377,386,717,270,651,474,312,135,89
+Universal Health Coverage	396,508,357,2343,561,136,2093,1060,377,386,717,270,651,474,312,135,89,55
 Universal Health Coverage Day	10776
 Universal Health Coverage Roadmap	9204
 Universal Health Coverage UKB	10776

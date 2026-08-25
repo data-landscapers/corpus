@@ -116,7 +116,7 @@ Energie Macronutriments	737
 Energie Traitement	10821
 Energies	7759,510,486,482,1375
 Energizing Africa	10077
-Energy	718,71,181,226,3,44,21,20,493,37,4,49,121,440,45,153,149,829,257,122,143,321,436,13,10,66,561,240,139,110,164,80,144,12,211,371,147,16,86,188,88,19,241,176,53,594,541,376,27,580,21,156,107,339,76,2,1
+Energy	718,71,181,226,3,44,21,20,493,37,4,49,121,440,45,153,149,829,257,122,143,321,436,13,10,66,561,240,139,110,164,80,144,12,211,371,147,16,86,188,88,19,241,176,53,594,541,376,27,580,21,156,107,339,76,2,1,74,44
 Energy Access	10157
 Energy Access Diagnostic Report Based	423
 Energy Across Energy Systems	9635
@@ -132,7 +132,7 @@ Energy Conservation	1988
 Energy Conservation Day We Are Hiring	4800
 Energy Data	3861
 Energy Disclosure of Public Records	10835,3
-Energy Efficiency	3487
+Energy Efficiency	3487,7469
 Energy Efficiency Act	7845
 Energy Efficiency Energy	9446
 Energy Efficiency Improvements	1818

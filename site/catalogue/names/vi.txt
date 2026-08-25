@@ -1,5 +1,6 @@
 A-1180 Vienna	1735
 A. Interpretation of Part VIA	7845
+A. Vision	10914
 A1 Tercer Secretario A2 Vice Cónsul	4209
 A1 Vice Cónsul B1	4209
 A3 Vice Cónsul B1 Vice Cónsul	4209
@@ -198,7 +199,7 @@ CRP.5 VIII. Conclusions	3583
 CSIRT Nacional. SUBSECÇÃO VIII Provedor de Serviços	6970
 Cabinet No Result View All Result	5774
 Cabinet of Vital Statistics	10775
-Cadre de Vie	3045,1824,1431
+Cadre de Vie	3045,1824,1431,4614
 Cadre de Vie Culture	4895
 California and Virginia	1243
 Call Centre Customer Support. Virtual Machines	9455
@@ -576,6 +577,7 @@ IEC Defends Integrity of Process IEC Vice	9315
 IEEE Visualization and Visual Analytics	8022
 IFC Vice President Sergio Pimenta	579
 II. VISÃO Ser	4146
+II. Vision	10914
 IMT Vision	5675
 INEC Result Viewing Portal	8987
 INFORMATION SUPPLIED. PART VI Data Subject	972
@@ -910,6 +912,7 @@ Photos Vidéos Audios Agenda	3675
 Photos Vidéos Autres	4895
 Phía Việt Nam	8062
 Pitsane Village	6780
+Play Video Partner Network	10956
 Pleno Senador Ministerio Delegado Diputado Vice-Ministro	4209
 Pleno Senador Ministro Delegado Diputado Vice-Ministro	4209
 Point Configuration. PART VI Private Radio	736
@@ -1063,6 +1066,7 @@ Sao Vicente	2865
 Satellite DVB-T2 Digital Video Broadcasting	6946
 Says Liberia’s Vice President By Pan	9989
 Score Rank Absence of Violence	10837
+Second Vice Minister Huh Chang	10957
 Secretaria Virtual Municipal	1808
 Secretarias Municipais Virtuais	1808
 Section IV. D. VII. RESULTS FRAMEWORK	1264
@@ -1261,6 +1265,7 @@ VI. IMPLEMENTACIÓN	1701
 VI. KEY RISKS	969,295,603,1737,2935,4229
 VI. PROCEDURE DE PASSATION	10876
 VI. PROPOSED CHANGES	2889
+VI. Pilier	10914
 VI. Promotion	6612
 VI. Proposal Contents and Formatting All	5773
 VI. RECOMMENDATIONS	10765
@@ -1481,12 +1486,13 @@ VISIT OUR OTHER WEBSITES	4738
 VISITS RESULT CODES	582
 VITAL	10819
 VITAL SECURITE N	998
-VITIB	1005,593,299,445,418,379,297,247,15,3,5819
+VITIB	1005,593,299,445,418,379,297,247,15,3,5819,1436
 VITIB Académie	1005
 VITIB II	3694
 VITIB SA	2342
 VITIB SMI SM Lafigué Finance SM	2342
 VITIB Seeks	2760
+VITIB de Grand-Bassam	10933
 VIV000400&an	55
 VIVIENDAS Y URBANISMO Cuentas CONCEPTO	4209
 VIVIENDAS Y URBANISMO Servicio	4209
@@ -1662,6 +1668,7 @@ Vice-chairperson	7845
 Vice-chancellor Professor Nana Aba Appiah Amfo	8287
 Vice-ministre	4029
 Vice-premier	4402
+Vice-premier Ouattara	10942
 Vice-president Dr Mohamed Juldeh Jalloh	4619
 Vice-presidente	2816
 Vice-primeiro-ministro	4081
@@ -1777,7 +1784,7 @@ Vidhyasahar Thiyagarajan and Francesco Rocchi	4095
 Vidiasova	2096
 Vidya Gappy	7023,3398
 Vidya ShankarNarayan	10819
-Vidéo	1984,494,1180,2617,145
+Vidéo	1984,494,1180,2617,145,4514
 Vidéo-protection	6740
 Vidéoprotection	1231
 Vidéos	2966,5752
@@ -1900,7 +1907,7 @@ Village Savings and Loan Associations	10299,542
 Village Telco	985
 Village de Vitré	1005
 Village des Technologies	1598,820
-Village of Innovation and Technology	1897
+Village of Innovation and Technology	1897,9059
 Villageoises	10876
 Villages	1228,410,1932,1083
 Villages Numeriques	3163
@@ -1909,7 +1916,7 @@ Villano	9128
 Villas	2342,1867
 Villa’s Front-of-Shirt Sponsor	3256
 Villbo Group	8132
-Ville	1232,1095,4264,2300
+Ville	1232,1095,4264,2300,2009
 Ville de Bobo-Dioulasso	10875
 Ville de Bobo-Dioulasso TIC	10875
 Ville de Koudougou	10875
@@ -1926,6 +1933,7 @@ Vinatsella	8602
 Vinaye Armoogum	9948
 Vincent Arthur Floreani	3255
 Vincent Chow	10443
+Vincent Gnangui	10940
 Vincent Lin of Partners	7750
 Vincent Mangwenya	9235
 Vincent Maposa	10605
@@ -1979,6 +1987,7 @@ Viongozi	2868,3151,1845
 Viongozi Wakuu	6019
 Vioxx	4426
 Vipaumbele	2868
+Vipnet Connectivity Provider	10956
 Vipps21	10819
 Viraj	4439
 Viraj Thakur	4439
@@ -2047,7 +2056,7 @@ Virtual University of Burkina Faso	6707
 Virtual VSAT Network	736
 Virtual-assets-red	4127
 Virtualbo	557
-Virtualised Services	9446
+Virtualised Services	9446,1510
 Virtualization	958
 Virtualized	9123
 Virus	1701
@@ -2113,7 +2122,7 @@ Visibility DigiAfricaLab	10725
 Visibility and Trust	10062
 Visible	3604,2607,621,816
 Visible Electronic Seal	3604
-Vision	21,215,159,1,144,400,18,3,9,28,156,50,14,13,26,5,176,116,148,112,71,17,194,207,140,252,62,18,4,172,47,15,37,1,7,44,143,153,67,10,12,26,174,63,67,2,1,19,59,40,15,1,1,10,4,59,98,26,15,30,5,15,18,25,4,31,6,48,2,77,92,4,4,27,105,27,65,14,1,49,27,29,31,12,7,54,9,18,40,66,1,131,1,2,1,1,97,9,19,15,8,19,7,145,1,59,33,73,52,54,82,138,43,21,41,3,74,52,25,1,99,19,58,49,20,31,59,38,9,112,91,25,10,9,63,27,69,99,17,1,26,178,10,85,26,1,167,85,128,77,28,2,1,36,112,33,59,14,53,70,5,65,131,4,55,32,50,136,6,133,13,137,157,51,6,66,56,179,83,6,116,8,51,198,55,94,18,91,85,10,202,110,36,16
+Vision	21,215,159,1,144,400,18,3,9,28,156,50,14,13,26,5,176,116,148,112,71,17,194,207,140,252,62,18,4,172,47,15,37,1,7,44,143,153,67,10,12,26,174,63,67,2,1,19,59,40,15,1,1,10,4,59,98,26,15,30,5,15,18,25,4,31,6,48,2,77,92,4,4,27,105,27,65,14,1,49,27,29,31,12,7,54,9,18,40,66,1,131,1,2,1,1,97,9,19,15,8,19,7,145,1,59,33,73,52,54,82,138,43,21,41,3,74,52,25,1,99,19,58,49,20,31,59,38,9,112,91,25,10,9,63,27,69,99,17,1,26,178,10,85,26,1,167,85,128,77,28,2,1,36,112,33,59,14,53,70,5,65,131,4,55,32,50,136,6,133,13,137,157,51,6,66,56,179,83,6,116,8,51,198,55,94,18,91,85,10,202,110,36,16,39,1,43
 Vision 2050	2998,400
 Vision A Clientele	1282
 Vision Accelerate	1885
@@ -2195,7 +2204,7 @@ Visualise	6729
 Visualiser	6954
 Visualising	9246
 Visualising Fawry’s Pivot	5869
-Visualization	7981,395
+Visualization	7981,395,2564
 Visualization Node	9475
 Visualization-Equal	8436
 Visualização	794

@@ -15,7 +15,7 @@ Additional Terms	3972,77,105,13,35,15,30,13,42,1050,5361
 Administración Territorial	6841
 Administration Territoire	9567
 Administration Territoriale	557,86,649,765,675,664,974,6442
-Administration du Territoire	1967,377,412,553,1826,959,484,1324,91,624,950,70,31,486,227,166
+Administration du Territoire	1967,377,412,553,1826,959,484,1324,91,624,950,70,31,486,227,166,374
 Administration du Territoire Nombre	3396
 Administration du Territoire du Niger	1967
 Administrativo A3 Tercer Secretario A3 Vice	4209
@@ -104,6 +104,7 @@ Different Terms	7198
 Digital Economy and Digital Labour Terminology	226
 Digital Realty-owned Teraco	5161
 Digital Realty’s Teraco	6565
+Digital Terrain Model	10937
 Digital Terrestrial Digital	1944
 Digital Terrestrial Free-To-Air	2776
 Digital Terrestrial Free-To-Air Television Programme Channel	236
@@ -175,6 +176,7 @@ Gilead John Teri	10040
 Global South. Terra Industries	10199
 Glossary of Key AI Terms Purpose	4528
 Glossary of Key Data Governance Terms Access	3861
+Glossary of Key Terms	10901
 Glossary of Terms	8670
 GovStack General Terminology	6423
 Grant Gordon. Terra	10199
@@ -405,6 +407,7 @@ TERN BO H NO ER	2776
 TERRA BENIN	10876
 TERRA Bénin	10876
 TERRESTRES AÉREAS MONUMENTO DE ADUANAS	4209
+TERRITOIRE NATIONAL	10934
 TERRITORIAL AND PERSONAL JURISDICTION	3861
 TERRITORIAL APPLICATION AND EXTRATERRITORIAL REACH	3861
 TERRORISTS WITH NIMC DATABASE	6871
@@ -533,7 +536,7 @@ Terms of Use	2264,1669,239,89,348,166,820,1446,2931
 Terms of Use All	6408
 TermsLastAcceptedAt	10848
 Termuma and Crossword Puzzle	10001
-Terra	2125,3417,1075,2163,70,1312,37,1,577
+Terra	2125,3417,1075,2163,70,1312,37,1,577,117
 Terra Bénin	2354,8522
 Terra Bénin. Ces	10876
 Terra Bénin. Elle	10876

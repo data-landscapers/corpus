@@ -30,6 +30,7 @@ AU Specialized Institutions	1243,571
 About Us The Institute Policies Management	10123
 Academia and Research Institutions	1261,3267
 Academic and Research Institutions	1261
+Achieve Uptime Institute Tier III Facility	10956
 Acquisition of Assets and Infrastructure Institution	1131
 Ada Lovelace Institute	7038,282
 Adaptation Institutional	10829
@@ -356,6 +357,8 @@ INGD Mozambique's National Institute for Disaster Risk	9484
 INRSP Institut National de Recherche	12
 INS Instituto Nacional de Saúde INTIC National	4214
 INSTI. GOB IMAGEN KIE-NTEM BIOKO SUR	4209
+INSTITUANT DSI AU SEIN DES MINISTÈRES	10906
+INSTITUANT UN DEPARTEMENT EN CHARGE DES	10905
 INSTITUIÇÕES	2816
 INSTITUT NATIONAL DE LA STATISTIQUE ET	10874,1
 INSTITUTE FOR ECONOMIC JUSTICE First Applicant	2307
@@ -436,14 +439,16 @@ Institut Jazari	7488
 Institut Malgache des Techniques de Planification	7725
 Institut Marocain de Normalisation	9406
 Institut Monétaire Ouest-Africain	8556
-Institut National	737,1091,154,643,1700,77,2176,381,766,503,1058,195,72,732,527,35,22,5
+Institut National	737,1091,154,643,1700,77,2176,381,766,503,1058,195,72,732,527,35,22,5,45
 Institut National Polytechnique Félix Houphouët-Boigny	3604
+Institut National de Sante Publique	10940
 Institut National de Statistique EVS	737
 Institut National des Informatiques	10812
 Institut Nationale	3024
 Institut Pedagogique National	10282
 Institut Siantou	2513
 Institut Supérieur	86
+Institut Supérieur Africain des Postes	10948
 Institut Supérieur de Management Public	10524
 Institut Supérieur des Sciences	10881
 Institut Télécom SudParis	1183
@@ -644,7 +649,7 @@ Institutionelle Ebene	2219
 Institutionen	823,710,687
 Institutionnaliser	8891
 Institutionnel	8009
-Institutions	1,33,540,69,318,9,185,553,69,151,754,93,33,588,95,92,69,209,187,55,23,40,362,54,170,213,546,464,113,264,31,39,181,298,35,10,2,11,197,391,1,48,290,95,215,31,42,111,248,76,186,1,396,10,9,36,11,62,22,269,22,2,20,140,680,305,4
+Institutions	1,33,540,69,318,9,185,553,69,151,754,93,33,588,95,92,69,209,187,55,23,40,362,54,170,213,546,464,113,264,31,39,181,298,35,10,2,11,197,391,1,48,290,95,215,31,42,111,248,76,186,1,396,10,9,36,11,62,22,269,22,2,20,140,680,305,4,44
 Institutions Constitutionnelles	548,683
 Institutions DIF Digital Investment Facility DRC	10861
 Institutions Financières Nationales	6901
@@ -927,6 +932,7 @@ National Institute of Meteorology	10219
 National Institute of Meteorology and Geophysics	10763,5
 National Institute of Public Administration	2435
 National Institute of Public Health	10188
+National Institute of Public Hygiene	10919
 National Institute of Science	4353
 National Institute of Social Security	10775
 National Institute of Standards	9747,54,3,23
@@ -941,7 +947,7 @@ National Institute of Statistics of Rwanda OECD Organization	1204
 National Institute of Statistics of Rwanda. Only	3013
 National Institutes of Health	8604,1365
 National Judicial Institute	10211
-National Public Health Institute	1554,9275
+National Public Health Institute	1554,9275,111
 National Public Health Institute of Liberia	4202
 National Public Health Institutes	3583
 National Refinancing Fund for Microfinance Institutions	8184
@@ -1035,6 +1041,7 @@ Public Sector Institutional Table	2775
 Quadro Institucional	5663
 RECs and Regional Institutions	961
 RESULTATS Institut	737
+Raxio Group Achieves Uptime Institute Tier	10956
 Recommendations for WATRA and Regional Institutions	5676
 Recommendations for WATRA and Regional Institutions WATRA	5676
 Recurrent Awareness Activities. Institutions	1777
@@ -1131,6 +1138,7 @@ Supreme Audit Institution Performance Measurement Framework	9439
 Supreme Audit Institution. Without	9439
 Supreme Audit Institutions	9439
 Swiss Re Institute	7789
+Swiss Tropical and Public Health Institute	10919
 T. Nhiwatiwa Institution of Affiliation Harare Institute	1154
 TRANSPARENCY Institutional Checks	10759,78
 TVET Institutions	2775
@@ -1195,7 +1203,7 @@ Unspecified Chinese Government Institution	52
 Uptime Institute	1244,614,750,205,648,73,149,167,233,1710,678,560,285,1807
 Uptime Institute Certified Tier III	7066
 Uptime Institute Certified Tier IV	7066
-Uptime Institute Tier III	1858,233,7355
+Uptime Institute Tier III	1858,233,7355,1510
 Uptime Institute Tier III Design Certification	1956
 Uptime Institute Tier III Design and Construction	5793
 Uptime Institute Tier IV-certified	3554

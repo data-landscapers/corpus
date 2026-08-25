@@ -379,6 +379,7 @@ Hora O Ministério da Justiça	8054
 Human Rights and Administrative Justice	3384,4985,2
 I- CONTEXTE ET JUSTIFICATION	12
 I. CONTEXTE ET JUSTIFICATION L'Enseignement Supérieur	12
+I. Justification	10914
 IA Jurisdicional	3519
 IA. Em Julho	2816
 ID Card Jun	10714
@@ -400,6 +401,7 @@ Implement National Cybercrime Ministry of Justice	1777
 Improve Technical Infrastructure Ministry of Justice	1777
 India’s Judiciary	8978
 Indicator Name Jun	6928
+Inf Syst Res. Jun	10919
 Informações Jurídicas	10753
 Inovação da Justiça	3192,1223,1,1,1,1,1005
 Inovação da Justiça Notícias Legislação Sobre FAQS	6530
@@ -414,6 +416,7 @@ Instituto de Práctica Judicial	4209
 Instituto de Prácticas Judiciales	4209
 Instrucción Juez Primera Instancia Secretario Regional	4209
 Instrumento Jurídico Regulador	163
+Int J Sociotechnology Knowl Dev. Jul	10919
 Integrated Justice System	5533
 Integrity and Justice Ensure	5244
 Internal Passport F25 Jul	10714
@@ -531,9 +534,11 @@ Jude Mathurine	10729
 Jude Nwauzor	8291
 Judge	3,780,1136,388,1407,2094,375,1269,393,1964
 Judge Allen-Yaman	7587
+Judge Brian Spilg	10955
 Judge K Allen-Yaman	7587
 Judge Leonard Twala	7910
 Judge Matthew Francis	8280
+Judge Phillip Coppin	10955
 Judge Potterill	5323
 Judge President	3714
 Judge Sulet Potterill	5323
@@ -550,7 +555,7 @@ Judicael Elidje	9766
 Judicaël Gbaguidi	7355
 Judiciais Estrutura	6568
 Judiciais. ARTIGO	539
-Judicial	477,62,3322,348,2178,2449,1296,620
+Judicial	477,62,3322,348,2178,2449,1296,620,156
 Judicial Authority	27,485
 Judicial Authority Recourse	27
 Judicial Branches	3861
@@ -648,10 +653,11 @@ Jul-22 Oct-22 Jan-23 Apr-23 Jul-23 Oct-23	3583
 Jul-26	8999
 Jul-Dec	3336
 Jul-Sep	1944
+Jul.2024	10919
 Jul24-Jun25	5910
 Julai	2868,217,1279,1655,1292,538,15,599,152
 Julai Mosi	7311
-Julaya	515
+Julaya	515,10427,1
 Jules Hervé Yimeumi	2459
 Jules Tapsoba	5351,4871,350
 Julgamento	9399
@@ -904,7 +910,7 @@ Justella	6877
 Justella O. Elle	6877
 Justement	2443,4384,2021
 Justi-	539
-Justice	11,223,353,56,94,52,172,39,214,42,61,1,142,145,1,76,95,1,210,53,1,85,205,17,212,65,182,86,1,63,87,7,24,43,233,29,15,161,26,21,83,3,24,147,119,53,92,13,24,19,137,1,784,76,1,100,69,128,1,322,45,11,11,40,88,297,319,252,8,33,55,226,363,122,15,112,181,87,122,49,33,76,57,25,106,84,116,1,1,1,37,113,5,87,89,113,117,40,69,140,4,118,58,68,180,31,248,134,163,209,16,1,37,8,5,9,2,1,30,11,1
+Justice	11,223,353,56,94,52,172,39,214,42,61,1,142,145,1,76,95,1,210,53,1,85,205,17,212,65,182,86,1,63,87,7,24,43,233,29,15,161,26,21,83,3,24,147,119,53,92,13,24,19,137,1,784,76,1,100,69,128,1,322,45,11,11,40,88,297,319,252,8,33,55,226,363,122,15,112,181,87,122,49,33,76,57,25,106,84,116,1,1,1,37,113,5,87,89,113,117,40,69,140,4,118,58,68,180,31,248,134,163,209,16,1,37,8,5,9,2,1,30,11,1,18,25
 Justice A-Regulatory Sandbox A1-Legal	7548
 Justice A. Alagoa	7600
 Justice Abodo	5731
@@ -978,6 +984,7 @@ Justice for Health	4674
 Justice. Ce	8993
 Justice. Ces	8321
 Justice. Cette	6904
+Justice. En	10921
 Justice. Il	4138
 Justice. L'organisation	10005
 Justice. Pour Jean-Marc Pisani	1755
@@ -996,7 +1003,7 @@ Justicia Subsector Administración de Justicia	4209
 Justificación	1701
 Justificación Un	1701
 Justificatifs	5753,5123
-Justification	643,146,181,217,801,901,4070,3752,165
+Justification	643,146,181,217,801,901,4070,3752,165,32
 Justification Contexte	3381
 Justification PDO	2889
 Justification for Biometrics	9399
@@ -1308,6 +1315,7 @@ President Julius Maada Bio	2872,1052,190,3068,752,1162
 Presidente Corte Suprema de Justicia	4209
 Presidente Cámara de Dip. Suprema de Justicia	4209
 Presidente da Ministro da Justiça	10752
+Pretoria High Court Judge Narandran Kollapen	10955
 Primary and Junior Education	2775
 Primary and Junior School Enrolment	2775
 Prime Minister Moustafa Madbouly and Minister of Justice	10103

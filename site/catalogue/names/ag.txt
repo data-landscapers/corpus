@@ -368,7 +368,7 @@ Age-Appropriate Design Code	7983
 Age-verification	9328
 Ageing	2096
 Ageing Society	2096
-Agence	324,112,207,4,88,2,28,93,129,202,58,44,290,10,58,31,10,284,87,17,276,22,11,16,26,47,38,50,91,42,35,83,96,165,7,16,1,4,2,19,48,75,50,40,24,19,71,34,40,64,1,126,2,88,5,44,10,30,147,82,10,3,32,99,98,7,28,205,64,5,41,12,4,41,38,26,36,83,3,36,25,3,39,16,24,157,78,74,104,36,52,90,34,40,58,51,5,42,3,28,78,57,67,100,180,27,50,60,17,79,52,39,44,12,23,13,29,87,7,1,129,108,60,58,14,9,38,31,107,23,16,12,17,41,1,19,10,62,36,20,11,59,8,23,12,24,12,3,34,8,9,2,68,3,8,24,2,41,13,24,12,31,18,32,33,16,3,15,24,60,24,54,27,92,3,14,9,35,15,2,26,40,1,46,14,31,2,22,8,1,5,10,158,27,45,43,4,53,109,38,6,34,91,1,71,50,25,59,65,32,24,31,49,6,6,86,30,17,26,87,8,105,102,89,7,1,33,13,16,17,28,49,37,12,20,102,4,3,1,1,5,16,15,16,1,1
+Agence	324,112,207,4,88,2,28,93,129,202,58,44,290,10,58,31,10,284,87,17,276,22,11,16,26,47,38,50,91,42,35,83,96,165,7,16,1,4,2,19,48,75,50,40,24,19,71,34,40,64,1,126,2,88,5,44,10,30,147,82,10,3,32,99,98,7,28,205,64,5,41,12,4,41,38,26,36,83,3,36,25,3,39,16,24,157,78,74,104,36,52,90,34,40,58,51,5,42,3,28,78,57,67,100,180,27,50,60,17,79,52,39,44,12,23,13,29,87,7,1,129,108,60,58,14,9,38,31,107,23,16,12,17,41,1,19,10,62,36,20,11,59,8,23,12,24,12,3,34,8,9,2,68,3,8,24,2,41,13,24,12,31,18,32,33,16,3,15,24,60,24,54,27,92,3,14,9,35,15,2,26,40,1,46,14,31,2,22,8,1,5,10,158,27,45,43,4,53,109,38,6,34,91,1,71,50,25,59,65,32,24,31,49,6,6,86,30,17,26,87,8,105,102,89,7,1,33,13,16,17,28,49,37,12,20,102,4,3,1,1,5,16,15,16,1,1,45,3
 Agence Afrique	4127
 Agence Article	735
 Agence Burkinabé	643
@@ -382,8 +382,10 @@ Agence Djiboutienne des Routes	4402
 Agence Ecofin	1690,580,423,37,532,115,370,479,1208,1,331,125,171,271,26,738,30,59,235,508,826,702,166,468,84,51,258,127
 Agence Ecofin Oct	1440
 Agence Ecofin. Cette	3361
+Agence Emploi Jeunes	10942,1
 Agence Faso Vêenem	8321
 Agence Faso Vêenem. PP-G N	8321
+Agence Foncière Rurale	10921,15
 Agence Francaise de Developpement	10275
 Agence Française de Développement	331,106,364,1,167,74,362,1,1,496,1812,627,751,721,1292,785,459,1925,437,51
 Agence Française de Développement. Une	4342
@@ -394,7 +396,7 @@ Agence Maghreb Arabe Presse Chapitre	308
 Agence Marocaine de Développement des Investissement	5745,1
 Agence Marocaine de Développement des Investissements	5745
 Agence Mauritanienne	2154,1179,22,2692
-Agence Nationale	1005,555,954,109,7,711,15,248,798,165,357,282,340,1032,22,583,29,593,169,19,35,392,137,1111,486,346,32,15,274,3
+Agence Nationale	1005,555,954,109,7,711,15,248,798,165,357,282,340,1032,22,583,29,593,169,19,35,392,137,1111,486,346,32,15,274,3,90
 Agence Nationale Pour	10821
 Agence Nationale de Digitalisation	4036,6496
 Agence Nationale de Développement du Numérique	5370
@@ -422,7 +424,7 @@ Agence Togo Digital	1749,2072
 Agence Togolaise de Presse	8718
 Agence Togolaise de Presse. Tous	8718
 Agence de Contractualisation	10829
-Agence de Développement	643,6463,555
+Agence de Développement	643,6463,555,3281,1
 Agence de Développement Numérique	4092
 Agence de Développement des Petites	2733
 Agence de Développement des Technologies	6125,150
@@ -462,7 +464,7 @@ Agencia de Cooperación	1701
 Agencia de Normalización	4209
 Agencia de Promoción de Inversiones	4209
 Agencias	4209
-Agencies	940,60,872,415,244,248,210,872,265,1118,200,349,484,155,107,247,10,35,107,543,67,921,200,335,70,1239,516,12
+Agencies	940,60,872,415,244,248,210,872,265,1118,200,349,484,155,107,247,10,35,107,543,67,921,200,335,70,1239,516,12,68
 Agencies ANDE	3549
 Agencies C- Supply	7548
 Agencies County Focal Civil Society Points	7548
@@ -649,7 +651,8 @@ Agness Masaiti	9779
 Agnès Kabore	10817
 Agnéby-Tiassa	2342
 Ago Christian Koda	3031
-Ago Christian Kodia	2758,1230,698,1461,12,399,1779,1380
+Ago Christian Kodia	2758,1230,698,1461,12,399,1779,1380,1198,20
+Ago Christian Kodia. Il	10935
 Ago Christian Kodia. L'objectif	2758
 Agoe-Nyive	4035,232,12
 Agogbua	7066
@@ -807,7 +810,7 @@ Agricultural and Critical Minerals Transformation	10321
 Agricultural and Environmental	1988
 Agricultural and Environmental Soil	1988
 Agriculturalists	6948
-Agriculture	278,117,23,102,123,94,52,151,30,161,30,393,40,88,5,91,36,24,102,48,343,3,8,131,88,63,1,150,33,124,25,108,178,340,21,138,117,2,165,51,49,75,81,246,97,32,238,85,97,167,3,120,913,142,12,514,72,131,5,3,8,116,255,7,3,76,38,8,61,145,102,94,197,34,18,15,142,181,56,3,100,468,39,81,69,6,45,27,115,93,198,16,228,17,211,69,92,171,5,73,15,19,1
+Agriculture	278,117,23,102,123,94,52,151,30,161,30,393,40,88,5,91,36,24,102,48,343,3,8,131,88,63,1,150,33,124,25,108,178,340,21,138,117,2,165,51,49,75,81,246,97,32,238,85,97,167,3,120,913,142,12,514,72,131,5,3,8,116,255,7,3,76,38,8,61,145,102,94,197,34,18,15,142,181,56,3,100,468,39,81,69,6,45,27,115,93,198,16,228,17,211,69,92,171,5,73,15,19,1,24,21,15
 Agriculture AI	4528
 Agriculture Agricultural	5245
 Agriculture Agricultural Precision	10856
@@ -1134,6 +1137,7 @@ Columns The Absent Agenda	4535
 Comercial A2 Agregado Comercial A3 Cónsul	4209
 Comercial A3 Agregado Militar A3 Consejero	4209
 Commerce Agriculture	10763
+Commercial Pilot Agreement	10959
 Commerzbank AG	9796
 Commission Zimbabwe Agricultural	1554
 Commissioner for Agriculture	8192
@@ -1536,6 +1540,7 @@ Food and Agriculture Organization	3583,3058,389,3811
 Food and Agriculture Organization FBO Faith Based	2775
 Forces Agreement	3583
 Foreign Investment Protection Agreement	10120
+Foundation for Sustainable and Inclusive Agriculture	10931
 Foundations and Research Agenda	226
 Frame Supply Agreement	78,1
 Framework Agreement	6921
@@ -1698,7 +1703,7 @@ India Agri Stack	5267
 India the Community Design Agency	10846
 Individual Merchants Retail Large Customer Agent	5687
 Individuals Merchants Retail Agents and Category Lite	5687
-Information Age	6008
+Information Age	6008,4938
 Information Age Imperialism	2518
 Information Age SETA	6832
 Information Came of Age	2096
@@ -1719,6 +1724,7 @@ Infrastructure Agency	2626,4224
 Infrastructure Finance and Implementation Support Agency	8599
 Infrastructure Financing and Implementation Support Agency	8564
 Infrastructure of Essential Facilities Demand Aggregation	3604
+Ingénieur Agronome	10914
 Initiative US Trade and Development Agency	1172
 Innov Aging	8376
 Insolvency and Trusteeship Agency	4553,6038
@@ -1755,6 +1761,9 @@ Investment and Network Modernization Agreement	4527,2668
 Isidore Agbokou	9468
 Italian Agency for Development Cooperation	9434,1029,321
 It’s Been Abandoned Again	7176
+Ivoire’s Agricultural Landscape Agriculture	10931
+Ivoire’s Agricultural Supply Chain	10931
+Ivoire’s Ministry of Agriculture	10931
 Ivoire’s National Agency for Information System Security	8073
 Ivorian Agency for Radio Frequency Management	3604
 Ivorian Press Agency	7344
@@ -1764,7 +1773,7 @@ JSON CSV JSON CSV Séances Agenda	9480
 Jan AGM van Dijk	6948
 Jan AGM. The Deepening Divide	6948
 Japan Credit Rating Agency	7785
-Japan International Cooperation Agency	207,691,232,399,688,1,408,99,329,414,1032,1837,1315,1251,1865,8
+Japan International Cooperation Agency	207,691,232,399,688,1,408,99,329,414,1032,1837,1315,1251,1865,8,155
 Japan International Cooperation Agency LNME	10776
 Japan International Cooperation Agency TA Networking	10780
 Japan International Cooperation Agency. Data	10780
@@ -1931,7 +1940,7 @@ Ministries Department and Agencies	3862
 Ministries and Agencies	5444
 Ministries of Agriculture	1257,4270
 Ministry of Agencies	1000
-Ministry of Agriculture	940,221,361,165,180,121,574,310,711,945,719,982,44,673,273,600,364,725,577,41,124,820,293,5
+Ministry of Agriculture	940,221,361,165,180,121,574,310,711,945,719,982,44,673,273,600,364,725,577,41,124,820,293,5,163
 Ministry of Agriculture Methodology for Data Biannual	1867
 Ministry of Agriculture MoHAIS Ministry of Home Affairs	1867
 Ministry of Agriculture and Fisheries	10763
@@ -2065,7 +2074,7 @@ National Identification Agency	1880,1163,200,172,22,598,32,874,1,457,140,57,360,
 National Information Systems Development Agency	6130
 National Information Systems Security Agency	3228
 National Information Technology Agency	587,202,1888,552,21,134,418,324,1809,121,221,70,59,966,1,1615,1397,200,237,39
-National Information Technology Development Agency	2218,176,68,218,45,208,1,120,79,489,122,198,641,38,69,35,940,60,333,478,153,308,113,451,69,116,2,675,1,15,547,131,1,245,210,2,96,82,127,77,1,57,142,113,40,117,146,107,1
+National Information Technology Development Agency	2218,176,68,218,45,208,1,120,79,489,122,198,641,38,69,35,940,60,333,478,153,308,113,451,69,116,2,675,1,15,547,131,1,245,210,2,96,82,127,77,1,57,142,113,40,117,146,107,1,271,1
 National Information Technology Development Agency Act	10157
 National Information Technology Development Agency Nigeria	8764
 National Information Technology Development Agency. Nigeria	4621
@@ -2362,6 +2371,7 @@ Satellite GoTDA Government’s Digital Transformation Agenda	6946
 Satellite Launching and Tracking Base Agency	1131
 Saúde Agregados Familiares Alimentação de Lactentes	10777
 Saúde Coronavírus da Síndrome Respiratória Aguda Grave	10777
+Scale AgriFood Supply Chain Agricultural	10931
 Scale Precision Agriculture AI Tunisian	9385
 Scaling Agriculture Investment	1468
 Scheme of Reconstruction Agreement	4360
@@ -2650,6 +2660,7 @@ Warns Against Media Intimidation Cummings Alleges	4261
 Warns Public Against Crypto Transactions	7754
 Weaponisation of AI Against the State. Analysis	4528
 Wendel Support Agreement	7198
+West African Economic and Monetary Union. Agritech	10939
 West African Monetary Agency	7,738,6707
 West African Nations Sign Roaming Agreement	2362
 Western Cape Minister of Agriculture	9791
@@ -2672,7 +2683,7 @@ Yasser El Gammal and Aghassi Mkrtchyan	579
 Year Quar- Agriculture Mining	2775
 Year of Agility	4583
 Years Long Term Agreement Basis ITB	2743
-Youth Employment Agency	7285,410
+Youth Employment Agency	7285,410,3247,1
 Youth and Women Agro	10841
 ZAM Act. Zambia Compulsory Standards Agency	1988
 Zambia Advances Digital Identity Agenda Through	6229

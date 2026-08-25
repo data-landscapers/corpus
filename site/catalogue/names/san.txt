@@ -55,6 +55,7 @@ Basic Sanitation	970
 Bassoumarifou Sanogo	1044,8475
 Benguela Lunda-Norte ELIZAMA QUEILA DOS SANTOS	10751
 Bharatiya Nyaya Sanhita	9208
+Bouaké and San Pédro	10930
 Boubacar Sanné	5022
 Burkina Faso's Security Minister Mahamadou Sana	6448
 Bénéwendé Sankara	5759
@@ -210,11 +211,12 @@ Identity Card San Marino No N	10714
 Ilha de Santiago C.P.nº	8166
 Ilha de Santiago. Projeto de Abastecimento	1265
 Información Sanitaria	6841
-Information Sanitaire	4090
+Information Sanitaire	4090,6829,21
 Information de Santé	3362
 Informatique de Santé II	7707
 Infraestructuras Sanitarias	4209,2632
 Infraestruturas Sanitárias	10777
+Institut National de Sante Publique	10940
 Institute SANSA South African National Space	5246
 Interim President Paul-Henri Sandaogo Damiba	10838
 Interior Min Abdoulie Sanyang	4708
@@ -458,7 +460,7 @@ San Juan Alcaide	4209
 San Marco	1131
 San Marino	10764,21
 San Marino BECCARI	6613
-San Pedro	420,1,1921,777,485,2241
+San Pedro	420,1,1921,777,485,2241,5080
 San Pedro Region	420,1
 San Pedro. Toutefois	2342
 San Valentín	4209
@@ -640,8 +642,11 @@ Santaniello	5242
 Santaniello M	5242
 Santas X	771
 Santas&author	771
-Sante	737,9654
+Sante	737,9654,549
 Sante CIV	3604
+Sante Communautaire	10940
+Sante Digitale	10940
+Sante du Poro	10940
 Santiago	1265,1582
 Santiago Declaration	1814
 Santiago Declaration. Africa	5302
@@ -669,12 +674,14 @@ Santos. Promulgada	539,10,10198,2,6,1
 Santos. Publicado	14,1
 Santos. Resolução	539
 Santoso	8606
-Santé	643,94,29,465,66,297,88,194,97,588,371,113,317,19,15,732,292,450,209,24,103,1753,205,38,130,102,236,37,25,72,1,33,5,15,15,105,125,134,204,11,165,56,45,173,377,5,5,9,55,59,5,68,8,75,39,121,107,21,89,59,43,142,213,128,127,62,3,101,9,8,46,5
+Santé	643,94,29,465,66,297,88,194,97,588,371,113,317,19,15,732,292,450,209,24,103,1753,205,38,130,102,236,37,25,72,1,33,5,15,15,105,125,134,204,11,165,56,45,173,377,5,5,9,55,59,5,68,8,75,39,121,107,21,89,59,43,142,213,128,127,62,3,101,9,8,46,5,39,21
 Santé Assistance Afrique Société Teint Lumineux	10821
 Santé Authentification	3381
 Santé CIV	3604
+Santé Communautaire	10940
 Santé Consultez	9482
-Santé Digitale	7805
+Santé Côte	10940
+Santé Digitale	7805,3135
 Santé EHCVM	10874
 Santé Ebola	10278
 Santé En	10519

@@ -6,6 +6,7 @@ ACCORD MANAGED CARE LTD Data Controller	7167
 ACEDENTAL CARE NAIROBI Data Controller INST-195846877C7	7167
 ACEDENTAL CARE NAIROBI Data Processor INST-195846877C7	7167
 ADFAAL KIDS CARE MEDICAL CENTRE LIMITED	7167
+ADU Caravan	10937
 AES Biometric Identity Card	6448
 AES Identity Card	3925
 AFP. CARDIP	5316
@@ -210,6 +211,7 @@ CARACTERÍSTICAS BÁSICAS DOS ENTREVISTADOS No IIMS	10777
 CARACTERÍSTICAS BÁSICAS DOS INQUIRIDOS	10777
 CARACTERÍSTICAS DA HABITAÇÃO	10777
 CARACTERÍSTICAS DA HABITAÇÃO O Quadro	10777
+CARACTÈRE PERSONNEL L'ASSEMBLÉE NATIONALE	10894
 CARACTÈRE PERSONNEL Loi	10812
 CARATERIZAÇÃO FÍSICA DA ESCOLA	10766
 CARBACID	7167
@@ -562,7 +564,7 @@ Carretera	4209
 Carreteras	4209
 Carreteras Baney	4209
 Carried	267,1024,1,1,1,1,1,29,1,1,1,1,1,330,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,255,1,1,1,1,1,1,1,15,50,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,37,1,1,1,1,1,369,87,118,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,728,79,533,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,20,109,1,1,1,1,1,210,1,1,1,1,1,272,984,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,192,706,2161
-Carrier	5226,646,3251,323
+Carrier	5226,646,3251,323,1510
 Carrier Benchmarking How Infrastructure Choices Overcome	6051
 Carrier Grade NAT	7010
 Carrier Hotel	8542
@@ -575,7 +577,7 @@ Carrier-Neutral Green Centre	10404
 Carrier-neutral	3184,1341,613,62,1176,4485
 Carrier-neutral Data	3184,1,1340
 Carrier-neutral Facilities	10781,80
-Carriers	3300,5823,1465
+Carriers	3300,5823,1465,368
 Carries	1270,28,33,548,111,302,11,237,266,144,16,729,410,1087,61,1039,140,58,651,206,678
 Carries Chris Yelland	4950
 Carries IDEMIA	2352
@@ -638,7 +640,7 @@ Cartografo Edmundo Raimundo	10757
 Cartografo Horácio Pascoal	10757
 Cartografía	4209
 Cartograma	4044
-Cartographie	235,952,3138,1523,591,2452,1200,785
+Cartographie	235,952,3138,1523,591,2452,1200,785,26
 Cartographier	1187,7338,2351
 Cartographiques	3396
 Cartographiques Nombre	3396
@@ -715,6 +717,7 @@ Companion Card	10418
 Compassionate Family Carers Data Controller INST-7316470123B	7167
 Comprehensive Emergency Obstetric Newborn Care	4301
 Configuração da Carteira de Projectos	10783
+Connectivity Carrier Neutral	10956
 Consejo de Cargadores	8554
 Consejo de Cargadores de Guinea Ecuatorial	8554
 Continua... Características	10777
@@ -799,7 +802,7 @@ Dylan Carver	7752
 E-ID Card	10714
 E. Carter	6305
 ECOWAS ID Card	1655
-ECOWAS National Biometric Identity Card	4102
+ECOWAS National Biometric Identity Card	4102,6807
 EDEN CARE PROACTIVE LIMITED Data Controller	7167
 EDEN CARE PROACTIVE LIMITED Data Processor	7167
 EDSON ARI CARDOSO SIMÕES	10751
@@ -953,7 +956,7 @@ Identity Card Yes F25 Jun	10714
 Identity Card Yes NIA ID	10714
 Identity Card. At the Central Post of SME	10775
 Identity Card16 Bhutan Digital Identity Service	10714
-Identity Cards	5121,2558,486
+Identity Cards	5121,2558,486,2734
 Identity Cards. All	5609
 Identity Cards. Presently	10775
 Identity Yes Electronic ID Card	10714
@@ -1071,6 +1074,7 @@ NCS Deploys Electronic Cargo Tracking System	8278
 NIDA Card	2119
 NINA Card No N	10714
 Naing Ngan Thar Sisityay Card	10714
+National ADU Caravan	10937
 National Burkinabe Identity Card	10812
 National Carbon Registry	9424
 National Citizen Identity Card for Civil Identification	10775

@@ -61,6 +61,7 @@ Food Import Real GDP	1828
 Food Inclusive	970
 Food Insecurity Domestic Food Production	1828
 Food Processing Industry Investigation of Water Tube	1154
+Food Production of Côte	10931
 Food Security	1828,1516,1184,5348,89,192,602,9,67,2,1
 Food Security Programme	7845
 Food Security Project	10841
@@ -101,7 +102,8 @@ Football	1876,3203,3805,1109,43
 Football Congo	5079
 Football Shalulile	9779
 Footer	2674
-Footnote	1243,1670,1763,1024,4039,1046
+Footer Accessibility	10919
+Footnote	1243,1670,1763,1024,4039,1046,129
 Footnotes	766,5,490,856,1674,648,75,456,1564,547,106,1249
 Footnotes Funding	10881
 Footwear	1988

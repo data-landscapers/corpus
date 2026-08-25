@@ -416,7 +416,8 @@ ES T CENTRE	10847
 ES United States Embassy Eswatini	4247
 ESAAMLG	5034,96,1
 ESAMI	6946
-ESATIC	1598,51,1282,673,4078,389,105,5
+ESATIC	1598,51,1282,673,4078,389,105,5,2730,37
+ESATIC IN FIGURES	10948
 ESATIC Methodology for Data Collection Data	3604
 ESATIC and EMSP	3604
 ESATIC. L'État	2931
@@ -838,6 +839,7 @@ Esq. The Group	10049
 Esquema Nacional	10777
 Esquerda.net	2816
 Esri LAMP	10761
+Esri South Africa College. Building	10950
 Essam Ahmed	2824
 Essas	2816,703
 Essau	5486
@@ -959,7 +961,7 @@ Establish the National CSIRT	1000
 Establish the National Cybersecurity Council	1777
 Establish the PKI	7890
 Establish the South African	396
-Established	40,167,699,340,102,379,261,1364,231,1067,13,27,860,688,152,78,256,160,62,253,247,475,252,28,1,49,76,32,113,363,294,294,193,814,267,4,33
+Established	40,167,699,340,102,379,261,1364,231,1067,13,27,860,688,152,78,256,160,62,253,247,475,252,28,1,49,76,32,113,363,294,294,193,814,267,4,33,174
 Established Herotel	8134
 Established Institutional Framework	1000
 Established Policy Priorities The National Digital	1161
@@ -1874,6 +1876,7 @@ National Framework ESS and Requirements National Laws	1988
 National Intelligence Estimates	1000
 National List of Essential Medicines	10776
 National List of Essential Medicines LQAS	10776
+National Public Establishment	10948
 Necessidades Educativas Especiais	10766
 Nedbank Eswatini	3964
 Negócios Estrangeiro	2688
@@ -1972,6 +1975,7 @@ Parlamento. Este	8179
 Parliamentary Establish	7548
 Parloa GmbH Estianews.gr PixAi ETHIQAIS PolaVuo	8530
 Pattern of Escalating Enforcement	7181
+Payment Establishment	10942
 Paz Sostenible. Eje Estratégico III	1701
 Pelumi Esho	10155
 Per Environmental and Social Standard ESS10	1778

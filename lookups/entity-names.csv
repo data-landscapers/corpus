@@ -57,7 +57,7 @@ acv-auctions,ACV Auctions. Son,full,1
 ada-lovelace-institute,Ada Lovelace Institute,full,1
 adapt,ADAPT,full,2
 adct-burkina-faso,ADCT. Par,full,1
-add-morocco,L’ADD,full,1
+add-morocco,ADD-ENABEL,full,1
 addis-ababa-city-administration,Addis Ababa City Administration,full,1
 addis-ababa-city-government-revenues-bureau,Addis Ababa City Government Revenues Bureau,full,1
 addis-ababa-othow,Dr. Addis Ababa Othow,full,1
@@ -89,6 +89,7 @@ afg-holding,AFG Holding,full,1
 aficta,AFICTA,full,1
 afjoc,AFJOC,full,2
 afnic,AFNIC,full,1
+afor,L'AFOR,full,1
 afpif,AfPIF,full,3
 afpub-2020-gen-006-draft03,AFPUB-2020-GEN-006-DRAFT03,full,1
 afr-ix-telecom,AFR-IX Telecom,full,3
@@ -159,7 +160,7 @@ african-startup-conference,African Startup Conference,full,1
 african-tax-administration-forum,African Tax Administration Forum,full,8
 african-tech-startups-funding-report,African Tech Startups Funding Report,full,2
 african-telecommunications-union,African Telecommunications Union,full,8
-african-union,African Union,full,5
+african-union,African Union,full,4
 african-union-commission,African Union Commission,full,1
 africanenda,AfricaNenda,full,9
 africell,Africell,full,9
@@ -206,7 +207,7 @@ ahavaplan,Ahavaplan,full,1
 ai-africa-xprize,AI Africa XPrize,full,1
 ai-analytics-intelligence,Analytics Intelligence,acronym,1
 ai-tech-drc,AI.Tech,full,1
-ai-unipod-ethiopia,AI Unipod,full,1
+ai-unipod-ethiopia,AI UniPod,full,1
 ai-unit-mauritius,AI Unit,full,1
 ai4d-africa,AI4D Africa,full,1
 aial-group-limited,AIAL. Il,full,1
@@ -298,7 +299,7 @@ amcham-kenya,AmCham,full,1
 amcoa,AMCOA,full,1
 amcon,AMCON,full,2
 amdie,AMDIE,full,1
-amen-program-tunisia,Amen Program,full,1
+amen-program-tunisia,AMEN Program,full,1
 america-first-global-health-strategy,America First Global Health Strategy,full,4
 american-chamber-of-commerce-zimbabwe,American Chamber of Commerce,full,1
 american-tower-corporation,American Tower Corporation,full,2
@@ -324,7 +325,7 @@ ancic-gnq,ANCIC,full,1
 anda-angola,Anda Angola,full,2
 andakia,Andakia,full,1
 andela,Andela,full,1
-andf-benin,ANDF. Elle,full,1
+andf-benin,ANDF. ANDF,full,1
 andge-gnq,Agencia Nacional de Desarrollo de Guinea Ecuatorial,acronym,1
 andis,African Network for Digital and Innovation Summit,acronym,1
 andre-biyong,Andre Biyong,full,1
@@ -344,10 +345,10 @@ angoren,AngoREN,full,1
 angosat-2,ANGOSAT-2,full,8
 angotic,ANGOTIC,full,9
 aniad-gnq,ANIAD,full,1
-anid-togo,INSEED and ANID,full,1
+anid-togo,WURI. ANID,full,1
 animf-rdc,ANIMF,full,1
 aninf,ANINF,full,1
-anip-benin,L'Anip,full,1
+anip-benin,Anip. Des,full,1
 anpdcp,ANPDCP,full,1
 anpe-burkina-faso,ANPE du Centre,full,1
 anpfi-burkina-faso,ANPFI,full,2
@@ -357,7 +358,7 @@ anrpts-mauritania,ANRPTS,full,4
 anrt-morocco,L'ANRT,full,2
 anrtic,ANRTIC,full,6
 ansaec-mali,ANSAEC,full,1
-ansd,L'ANSD,full,1
+ansd,Tags ANSD,full,1
 ansi-niger,L’ANSI,full,2
 ansice,ANSICE,full,4
 ansice-chad,ANSICE,full,2
@@ -422,7 +423,7 @@ arcgis,ArcGIS,full,1
 arch-benin,Projet ARCH,full,2
 arcod-burkina-faso,ARCOD,full,4
 arcop-senegal,ARCOP,full,3
-arct-burundi,ARCT. Nous,full,1
+arct-burundi,L’ARCT,full,1
 ardhi-university,Ardhi University,full,1
 ardhisasa,Ardhisasa,full,1
 arewa-professional-forum,Arewa Professional Forum,full,1
@@ -492,7 +493,7 @@ avante,AVANTE,full,2
 avanti-communications,CEO of Avanti Communications,full,1
 avanz-capital-egypt,Avanz Capital Egypt,full,1
 avatar-technologies,Avatar Technologies,full,1
-avca,Africa. AVCA,full,1
+avca,AVCA Technology,full,1
 awarri,Awarri,full,1
 aws,Amazon Web Services,acronym,2
 axian-telecom,AXIAN Telecom,full,4
@@ -621,6 +622,7 @@ bmi-wfs,Bmi-Wfs,full,1
 bmz,BMZ-funded,full,2
 bn-gpb-burkina-faso,BN-GPB,full,1
 bna-angola,Banco Nacional de Angola,acronym,7
+bnetd,BNETD,full,1
 boad,La BOAD,full,1
 board-of-healthcare-funders,Board of Healthcare Funders,full,1
 bocra,BOCRA,full,11
@@ -773,7 +775,7 @@ cci-bf,CCI-BF,full,2
 ccma,Nconco. The CCMA,full,1
 ccmg-zambia,Christian Churches Monitoring Group,acronym,1
 ccpac,Ccpac,full,1
-cdc-ci,CDC-CI,full,2
+cdc-ci,CDC-CI,full,3
 cdd,Centre for Democracy and Development,acronym,1
 cdhc-cameroon,La CDHC,full,1
 cdp-senegal,La Cdp,full,1
@@ -884,19 +886,18 @@ christophe-baziemo,Christophe Baziemo,full,1
 christophe-bitasimwa,Christophe Bitasimwa,full,1
 christopher-hild,Christopher Hild,full,1
 chu-renaissance-kinshasa,CHU Renaissance,partial,1
-ci-cert,CI-Cert,full,2
 ciaaf,CiAAF,full,1
 cib-aes,CIB-AES,full,4
 cidrz,CIDRZ,full,1
 cigi,CIGI PB232,full,1
-cil-burkina-faso,CIL Ouagadougou,full,1
+cil-burkina-faso,CIL. Cette,full,1
 cina-lawson,Cina Lawson,full,7
 cinetpay,CinetPay,full,1
 cipa-botswana,Companies and Intellectual Property Agency,acronym,1
 cipc,Companies and Intellectual Property Commission,acronym,1
 cipesa,CIPESA,full,11
 cipit,CIPIT,full,5
-cips,CIPS. Ghana,full,1
+cips,China. CIPS,full,1
 circle,Circle,full,1
 circuit-notion,Circuit Notion,full,1
 cirt-madagascar,Computer Incident Response Team,acronym,1
@@ -908,7 +909,7 @@ cititrust-savings-and-loans,CitiTrust Savings and Loans,full,1
 citizen-wallet-botswana,Citizen Wallet,full,1
 city-of-cape-town,City of Cape Town,full,3
 city-of-johannesburg,City of Johannesburg,full,2
-citymender-namibia,CityMender Namibia,full,1
+citymender-namibia,Namibia. CityMender,full,1
 ciuem,CIUEM,full,2
 civ-data-governance-strategy,National Data Governance Strategy,full,1
 civic-watch-cameroon,Civic Watch Cameroon,full,1
@@ -950,7 +951,7 @@ cndpc-gabon,CNDPC,full,1
 cnedoge,CNEDOGE,full,4
 cniapge-gnq,CNIAPGE,full,2
 cnie-gabon,Nguema. The CNIE,full,1
-cnom-morocco,CNOM. Initiée,full,1
+cnom-morocco,CNOM. Cette,full,1
 cnpd,Comissão Nacional de Protecção de Dados,acronym,1
 cnps-cameroon,La CNPS,full,1
 cnrps-tunisia,CNRPS,full,1
@@ -969,6 +970,7 @@ codinorm,CODINORM,full,1
 cofina,Cofina,full,1
 coherent,Coherent,full,1
 coleps,COLEPS,full,1
+collective-x,Collective X,full,1
 columbia-university-ciesin-worldpop-national,Columbia University CIESIN,partial,1
 comesa,COMESA,full,10
 comesa-business-council,COMESA Business Council,full,2
@@ -1004,19 +1006,19 @@ conecta-angola,Conecta Angola,full,3
 congo-digital-strategy-2030,Congo Digital Strategy,partial,3
 congo-telecom,Congo Telecom,full,4
 conia,CONIA,full,4
-conia-cameroon,Conia,full,1
+conia-cameroon,CONIA,full,1
 connected-africa-summit,Connected Africa Summit,full,1
 conseil-consultatif-de-la-refondation,Conseil Consultatif,partial,1
-conseil-des-ministres-mali,Conseil des Ministres,full,2
+conseil-des-ministres-mali,Le Conseil des Ministres,full,2
 conseil-national-de-la-transition-burkina-faso,CONSEIL NATIONAL DE LA TRANSITION Vu,full,1
 conselho-constitucional-mocambique,Conselho Constitucional,partial,3
-conselho-de-ministros-angola,O Conselho de Ministros,full,1
+conselho-de-ministros-angola,Conselho de Ministros,full,1
 conselho-nacional-de-ciberseguranca-angola,Conselho Nacional de Cibersegurança,partial,2
 conservatoria-do-registo-predial-angola,Registo Predial,partial,2
 consortium-of-ethiopian-human-rights-organisations,Consortium of Ethiopian Human Rights Organisations,full,1
 constituency-development-fund-zambia,Constituency Development Fund,full,1
 constitutional-council-mozambique,Constitutional Council,full,1
-constitutional-court-south-africa,Constitutional Court,full,1
+constitutional-court-south-africa,Constitutional Court,full,2
 consumer-federation-of-kenya,Consumer Federation of Kenya,full,1
 consumer-protection-commission-zimbabwe,Consumer Protection Commission,full,1
 consumers-international,Consumers International,full,2
@@ -1036,7 +1038,7 @@ cosase-uganda,COSASE,full,2
 cosmas-data-cities,Cosmas Data Cities,full,1
 cosmas-zavazava,Dr. Cosmas Zavazava,full,1
 cosob,COSOB,full,1
-cosoma,COSOMA,full,1
+cosoma,Monday.COSOMA,full,1
 cosoma-malawi,COSOMA,full,1
 costech-tanzania,COSTECH,full,1
 cosumaf,COSUMAF,full,1
@@ -1085,14 +1087,14 @@ cyber-africa-forum,Cyber Africa Forum,full,11
 cyber-defense-africa,Cyber Defense Africa,full,2
 cyber-incub,Cyber Incub,full,2
 cybernetica,Cybernetica,full,10
-cybersecurity-and-cybercrime-act-2021-mauritius,Cybersecurity and Cybercrime Act,partial,1
+cybersecurity-and-cybercrime-act-2021-mauritius,Le Cybersecurity and Cybercrime Act,partial,1
 cybersecurity-hub-south-africa,Cybersecurity Hub,full,1
 cyberspace-administration-of-china,Cyberspace Administration of China,full,3
 cyril-collon,Cyril Collon,full,1
 cyril-ramaphosa,President Cyril Ramaphosa,full,7
 cyrille-ganou-badolo,Cyrille Ganou Badolo,full,1
 d-light-brighter-life-kenya,Brighter Life Kenya,partial,2
-d-money-djibouti,D-MONEY,full,1
+d-money-djibouti,D-Money,full,1
 d4d-hub,D4D Hub,full,1
 d4sd-hub,D4SD Hub,full,1
 daf-senegal,La DAF,full,1
@@ -1182,6 +1184,7 @@ dgttm-burkina-faso,DGTTM,full,1
 dhet-south-africa,Department of Higher Education and Training,acronym,2
 dhis2,DHIS2,full,12
 dhl,MTN and DHL,full,1
+dhy-technologie,DHY Technologie,full,1
 diacente-group,Diacente,full,1
 diama-djigui,Diama Djigui,full,2
 diaspora-health-registry-nigeria,Diaspora Health Registry,full,1
@@ -1227,7 +1230,7 @@ digital-realty,Digital Realty,full,4
 digital-rights-lawyers-initiative,Digital Rights Lawyers Initiative,full,2
 digital-services-act-botswana,Digital Services,partial,1
 digital-services-authority-botswana,Digital Services Authority,full,1
-digital-services-unit-presidency-sa,Presidency’s Digital Services Unit,full,1
+digital-services-unit-presidency-sa,Presidency's Digital Services Unit,full,1
 digital-skills-ambassadors-programme,Digital Skills Ambassadors,partial,1
 digital-superhighway,Digital Superhighway,full,3
 digital-superhighway-kenya,Digital Superhighway,full,1
@@ -1300,7 +1303,7 @@ dynatech-solutions,Dynatech Solutions,full,1
 dz-mob-pay,DZ Mob Pay,full,1
 dzair-services,Dzair Services,full,2
 dzap,Digital Zambia Acceleration Project,acronym,8
-e-and,Pakistan and Togo,full,1
+e-and,Mali and Niger,full,1
 e-ariary,Ariary,full,3
 e-commune-benin,Commune,full,1
 e-contravention-burkina-faso,Contravention,full,1
@@ -1314,7 +1317,7 @@ e-government-technology-unit-zimbabwe,Government Technology Unit,full,2
 e-houwiya,E-Houwiya,full,3
 e-id-togo,ID Togo,full,2
 e-justice-ci,Justice.ci,full,1
-e-justice-cote-divoire,E-Justice,full,1
+e-justice-cote-divoire,Justice,full,1
 e-mark-innovation-hub,E-MARK Innovation Hub,full,1
 e-social-security-mauritius,Social Security,full,1
 e-space-togo,E-Space Togo,full,1
@@ -1366,7 +1369,7 @@ edahabia,Edahabia,full,2
 edem-kossi,Edem Kossi,full,1
 eden-tiiit,EDEN TiiiT,full,1
 edesec,EDESEC,full,1
-edf,DPA and EDF,full,1
+edf,EDF. Under,full,1
 edo-state-universal-basic-education-board,Edo State Universal Basic Education,partial,1
 edrs-south-africa,Electronic Deeds Registration System,acronym,1
 edsa-sierra-leone,Electricity Distribution and Supply Authority,acronym,1
@@ -1385,7 +1388,7 @@ egypt-digital-platform,Egypt Digital Platform,full,1
 egypt-ministry-of-communications-and-information-technology,Communications and Information Technology,partial,1
 egypt-ministry-of-health-and-population,Ministry of Health and Population,full,1
 egypt-pdpl,Personal Data Protection Law,acronym,1
-egypt-post,Egypt Post,full,1
+egypt-post,October. Egypt Post,full,1
 egypt-property-id-law,Property ID Law,full,1
 egypt-startup-charter,Egypt Startup Charter,full,1
 egypt-unified-government-complaints-system,Unified Government Complaints System,full,1
@@ -1408,7 +1411,7 @@ emergency-telecommunications-cluster,Emergency Telecommunications Cluster,full,2
 emerging-markets-telecommunications-services-limited,Emerging Markets Telecommunications Services,full,1
 emerson-education-institute,Emerson Education Institute,full,1
 emery-assogba,Emery Assogba,full,1
-emile-parfait-simb,Emile Parfait Simb,full,1
+emile-parfait-simb,Emile-Parfait-Simb-de-la,full,1
 emma-theofelus,Emma Theofelus,full,9
 empowering-districts-and-schools-with-data,Empowering Districts and Schools,partial,1
 emptech,Emptech,full,1
@@ -1441,7 +1444,7 @@ ericsson,Ericsson,full,9
 eritel,EriTel,full,2
 eritrea-national-statistics-office,National Statistics Office,full,1
 esaamlg,Eastern and Southern Africa Anti-Money Laundering Group,acronym,3
-esatic,ESATIC,full,7
+esatic,ESATIC,full,9
 esccom,ESCCOM,full,12
 escola-superior-jornalismo-mozambique,Escola Superior de Jornalismo,full,1
 escotel,ESCOTEL,full,1
@@ -1471,7 +1474,7 @@ ethica,Ethica,full,1
 ethio-telecom,Ethio Telecom,full,8
 ethiopia-digital-id-inclusion-project,Ethiopia Digital ID for Inclusion and Services Project,full,3
 ethiopia-moh,MOH of Ethiopia,full,1
-ethiopia-ndps,National Digital Payment Strategy,acronym,1
+ethiopia-ndps,National Digital Payments Strategy,acronym,1
 ethiopia-pdpp,Personal Data Protection Proclamation,acronym,1
 ethiopian-communications-authority,Ethiopian Communications Authority,full,8
 ethiopian-communications-authority-eca-safaricom,Ethiopian Communications Authority,acronym,1
@@ -1495,7 +1498,7 @@ eutelsat-konnect,EUTELSAT KONNECT,full,1
 eutelsat-oneweb,Eutelsat OneWeb,full,1
 eventify,EVENTIFY,full,2
 ewade-eswatini,Eswatini Water and Agricultural Development Enterprise,acronym,1
-exim-bank-usa,EXIM Bank,full,3
+exim-bank-usa,EXIM Bank USA,full,1
 exits-mena,Exits MENA,full,1
 expertise-france,Expertise France,full,9
 export-import-bank-of-india,Export-Import Bank of India,full,1
@@ -1674,7 +1677,7 @@ gaolapelwe-ketlogetswe,Gaolapelwe Ketlogetswe,full,1
 gaone-seleka,Dr. Gaone Seleka,full,1
 garang-majak-bol,Majak Bol,partial,1
 garsu-pasaulis,Garsu Pasaulis,full,1
-gates-anthropic-partnership,Gates Foundation-Anthropic,partial,1
+gates-anthropic-partnership,Gates Foundation and Anthropic,partial,1
 gates-foundation,Gates Foundation,full,10
 gauteng-department-of-education,Gauteng Department of Education,full,2
 gauteng-department-of-health,Department of Health,partial,1
@@ -1762,7 +1765,7 @@ global-financing-facility,Global Financing Facility,full,1
 global-financing-facility-who-unicef,Global Financing Facility,partial,1
 global-findex-database,Global Findex Database,full,1
 global-forum-on-cyber-expertise,Cyber Expertise Foundation,partial,1
-global-fund,Global Fund,full,2
+global-fund,Global Fund,full,3
 global-gateway,Global Gateway,full,8
 global-green-growth-institute,Global Green Growth Institute,full,2
 global-impact,Global Impact,full,4
@@ -1779,7 +1782,7 @@ gltn,Global Land Tool Network,acronym,1
 gocab,GoCab,full,1
 godfred-bokpin,Professor Godfred Bokpin,full,1
 gold-rock-venture,Gold Rock Venture,full,1
-golemon,GoLemon,full,1
+golemon,Wednesday. GoLemon,full,1
 gomed,GoMed,full,1
 goodlife-pharmacy-africa,Goodlife Pharmacy Africa,full,1
 google,Google,full,10
@@ -1798,7 +1801,6 @@ government-of-burkina-faso,Government of Burkina Faso,full,3
 government-of-cabo-verde,Government of Cabo Verde,full,1
 government-of-cameroon,Government of Cameroon,full,2
 government-of-comoros,Government of Comoros,full,1
-government-of-cote-divoire,Government of Cote,full,1
 government-of-djibouti,Government of Djibouti,full,1
 government-of-drc,Government,full,1
 government-of-equatorial-guinea,Government of Equatorial Guinea,full,2
@@ -1882,7 +1884,7 @@ harare-institute-of-technology,Harare Institute of Technology,full,1
 haropa-port,HAROPA PORT,full,1
 hassan-allam,Hassan Allam,full,1
 hassan-attie,Hassan Attie,full,1
-hassan-jarar-oulidi,Pr Hassan Jarar Oulidi,full,1
+hassan-jarar-oulidi,Le Pr Hassan Jarar Oulidi,full,1
 hatem-ibrahim-elsoly,Hatem Ibrahim Elsoly,full,1
 haweya,Haweya,full,2
 hawks-south-africa,Hawks,full,1
@@ -1905,7 +1907,7 @@ helios-towers-drc-infraco-sprl,Helios Towers DRC Infraco SPRL,full,1
 helios-towers-plc-hta-group,Helios Towers,partial,2
 helios-towers-plc-towerco-of,Helios Towers,partial,1
 henri-eyebe-ayissi,Henri Eyebe Ayissi,full,1
-henrik-franklin,Henrik Franklin,full,1
+henrik-franklin,Mr. Henrik Franklin,full,1
 herotel,Herotel,full,3
 heslb,Higher Education Students’ Loans Board,acronym,1
 hewlett-foundation,Hewlett Foundation,full,5
@@ -1954,7 +1956,7 @@ hustle-academy,Hustle Academy,full,3
 hustle-fund,Hustle Fund,full,1
 hustler-fund,Hustler Fund,full,2
 hytera,Hytera,full,1
-i-cemac,I-CEMAC,full,1
+i-cemac,CEMAC,full,1
 ia-for-africa-initiatives,IA For Africa Initiatives,full,1
 iai-cameroun,IAI-Cameroun,full,1
 iata,International Air Transport Association,acronym,2
@@ -1996,7 +1998,7 @@ iec-gambia,Independent Electoral Commission,acronym,4
 iec-south-africa,Independent Electoral Commission,acronym,1
 ifc,International Finance Corporation,acronym,6
 ifu,Description IFU,full,5
-igad,IGAD-ILO,full,1
+igad,IGAD Protocol,full,1
 igf-drc,L’IGF,full,2
 ign-fi,IGN FI,full,1
 ihrda,IHRDA,full,1
@@ -2016,7 +2018,7 @@ ika-solution,IKA Solution,full,2
 ika-technology,IKA Technology,full,1
 ikea-egypt,IKEA Egypt,full,1
 ikoue,Ikoue,full,1
-ilo,International Labour Organization,acronym,3
+ilo,International Labour Organization,acronym,2
 ilumina-angola,Ilumina Angola,full,1
 ilx-fund,ILX Fund,full,1
 ilyas-moussa-dawaleh,Ilyas Moussa Dawaleh,full,1
@@ -2034,7 +2036,7 @@ inacom,INACOM,full,3
 inacom-angola,INACOM,full,4
 inage,INAGE,full,3
 inage-mozambique,INAGE,full,1
-inatel,Djezzy and INATEL,full,1
+inatel,INATEL EPE,full,1
 inclusive-data-charter,Inclusive Data Charter,full,1
 incm-mozambique,O INCM,full,2
 incv-cabo-verde,Imprensa Nacional de Cabo Verde,acronym,1
@@ -2134,7 +2136,7 @@ intosai-development-initiative,INTOSAI Development Initiative,full,1
 intouch,InTouch,full,2
 intrahealth-international-inc,IntraHealth International Inc,full,1
 inua-jamii,Inua Jamii,full,1
-inveep,Inveep,full,1
+inveep,INVEEP,full,1
 invest-india,Invest India,full,1
 inviis-lab,InViis Lab,full,1
 inwi,Maroc Telecom and Inwi,full,2
@@ -2146,7 +2148,7 @@ ippis-nigeria,Integrated Personnel and Payroll Information System,acronym,1
 ipt-powertech-group-sal,IPT Powertech Group SAL,full,1
 irema-se,IREMA-SE,full,1
 irembo,Irembo,full,7
-irex,Gebeya and IREX,full,1
+irex,IREX-led,full,1
 iritech,IriTech,full,1
 iro-adamou,Iro Adamou,full,1
 ironone-technologies,IronOne Technologies LLC,full,1
@@ -2176,7 +2178,7 @@ ivoire-gov-tech-lab,Ivoire Gov Tech Lab,full,1
 ivoire-govtech-lab,Ivoire GovTech Lab,full,1
 ivoire-tech-forum,Ivoire Tech Forum,full,7
 ivoire-tech-next-15,Ivoire Tech Next,partial,1
-ivoire-tech-scale-up,Ivoire Tech Scale UP,full,1
+ivoire-tech-scale-up,Ivoire Tech Scale Up,full,1
 ivortech,IvorTech,full,1
 ixafrica-data-centre-limited,IXAfrica Data Centre,full,1
 ixafrica-data-centres,Data Centres,partial,1
@@ -2265,7 +2267,7 @@ karim-medjani,Karim Medjani,full,1
 kartapay,Kartapay,full,1
 karuma-hydropower-plant,Karuma Hydropower Plant,full,1
 kasali-musenge,Kasali Musenge,full,2
-kashifu-inuwa,DG Kashifu Inuwa,full,1
+kashifu-inuwa,Kashifu Inuwa CCIE,full,1
 kasi-cloud,Kasi Cloud,full,3
 kasi-insight,Kasi Insight,full,1
 kaspersky,Kaspersky,full,5
@@ -2305,14 +2307,14 @@ kenya-ports-authority,Kenya Ports Authority,full,2
 kenya-public-service-commission,Public Service Commission,full,1
 kenya-revenue-authority,Kenya Revenue Authority,full,4
 kenya-school-of-government,Kenya School of Government,full,1
-kenya-space-agency,KENYA SPACE AGENCY,full,1
+kenya-space-agency,Kenya Space Agency,full,1
 kenya-urban-roads-authority,Kenya Urban Roads Authority,full,1
 kepaletswe-somolekae,Kepaletswe Somolekae,full,1
 kepios,Kepios,full,9
 kevin-mukendi,Kevin Mukendi,full,1
 kfw,KfW Banque,full,2
 khadematy,Khadematy,full,1
-khaufelo-lekobane,Khaufelo Lekobane,full,1
+khaufelo-lekobane,Dr. Khaufelo Lekobane,full,1
 khazna-data-center,Khazna Data Center,full,1
 kictanet,KICTANet,full,6
 kigali-innovation-city-company-rwanda,Kigali Innovation City,full,1
@@ -2451,7 +2453,7 @@ linkedin,LinkedIn,full,5
 linkwise-group,LinkWise,full,1
 lipa-later,Lipa Later,full,1
 liquid-c2,Liquid C2,full,8
-liquid-c2-google-cloud-mou,Liquid C2 and Google Cloud,partial,1
+liquid-c2-google-cloud-mou,Google Cloud and Liquid C2,partial,1
 liquid-ecg-infraco-pty-ltd,Liquid ECG Infraco,full,1
 liquid-intelligent-technologies,Liquid Intelligent Technologies,full,11
 liquid-telecom,Liquid Telecom,full,1
@@ -2500,7 +2502,7 @@ m2m-group,M2M Group,full,1
 ma-box,Ma Box,full,1
 machrou3i,Machrou3i,full,1
 macquarie-asset-management,Macquarie Asset Management,full,1
-macra,MACRA,full,3
+macra,MACRA,full,4
 madica,Madica,full,2
 madigipaie-gabon,Madigipaie,full,3
 madlanga-commission,Madlanga Commission,full,1
@@ -2535,7 +2537,7 @@ mali-national-cybersecurity-strategy-2026-2030,National Cybersecurity Strategy,p
 mamadi-doumbouya,Mamadi Doumbouya,full,6
 mamadou-bamba,Mamadou Bamba,full,1
 maneps,MANePS,full,1
-manuel-homem,SME. Manuel Homem,full,1
+manuel-homem,Conforme Manuel Homem,full,1
 manuel-tiago-dias,Manuel Tiago Dias,full,2
 mapafrica,MapAfrica,full,1
 maposte,MaPoste,full,1
@@ -2627,7 +2629,7 @@ meristem-securities,Meristem Securities,full,1
 merry-toi-milonon,Merry Toi-Milonon,full,1
 merveille-hountondji,Pour Merveille Hountondji,full,1
 mescti-angola,MESCTI,full,1
-mesob-ethiopia,MESOB Service,full,1
+mesob-ethiopia,Addis MESOB,full,1
 mesupres-madagascar,Mesupres,full,1
 meta,Technecultura Meta,full,1
 meteorological-services-department-zimbabwe,Meteorological Services Department,full,1
@@ -2652,7 +2654,7 @@ microsoft-skills-for-jobs,Microsoft's Skills for Jobs,full,1
 mics-eagle,MICS-EAGLE,full,1
 micsti-lesotho,MICSTI,full,6
 mict-namibia,Ministry of Information and Communication Technology,acronym,4
-mida,Mida Collect,full,1
+mida,Mida Before Mida,full,1
 midas,Migration Information and Data Analysis System,acronym,1
 miga,Multilateral Investment Guarantee Agency,acronym,12
 migret,MIGRET,full,1
@@ -2670,6 +2672,7 @@ minirena-rwanda,MINIRENA,full,1
 ministere-de-la-fonction-publique-niger,Fonction Publique,partial,2
 ministere-des-finances-rdc,Le Ministre des Finances,partial,1
 ministere-enseignement-de-base-burkina-faso,Enseignement de Base,partial,1
+ministere-fonction-publique-civ,Fonction Publique,partial,2
 ministere-transition-digitale-burkina-faso,Transition Digitale,partial,1
 ministries-of-education,Ministries of Education,full,1
 ministries-of-education-and-ict,Ministries of Education and ICT,full,1
@@ -2705,7 +2708,7 @@ ministry-of-digital-economy-car,Ministry of Digital Economy,partial,1
 ministry-of-digital-economy-cote-divoire,Ivorian Ministry of Digital Economy,full,1
 ministry-of-digital-transformation-and-communications-sudan,Ministry of Digital Transformation and Communications,full,1
 ministry-of-digital-transition-and-administrative-reform-morocco,Ministry of Digital Transition and Administrative Reform,full,1
-ministry-of-digital-transition-cote-divoire,Ministry of Digital Transition and Digitalisation,full,1
+ministry-of-digital-transition-cote-divoire,Ministry of Digital Transition and Digitization,full,1
 ministry-of-digital-transition-morocco,Ministry of Digital Transition and Reform,full,1
 ministry-of-economy-and-finance,Ministry of Economy and Finance,full,1
 ministry-of-education-and-training-eswatini,Ministry of Education and Training,full,1
@@ -2728,7 +2731,7 @@ ministry-of-finance-and-planning-tanzania,Ministry of Finance and Planning,full,
 ministry-of-finance-angola,Ministry of Finance,full,2
 ministry-of-finance-botswana,Ministry of Finance,full,12
 ministry-of-finance-budget-and-digital-economy-burundi,Budget and Digital Economy,partial,3
-ministry-of-finance-cameroon,Ministry of Finance,full,1
+ministry-of-finance-cameroon,Finance Ministry,full,1
 ministry-of-finance-comoros,Ministry of Finance,full,1
 ministry-of-finance-economic-development-and-investment-promotion-zimbabwe,Economic Development and Investment Promotion,partial,2
 ministry-of-finance-economic-planning-and-decentralisation-malawi,Ministry of Finance and Economic Planning,partial,1
@@ -3132,7 +3135,7 @@ ndasc-gambia,National Digital Addressing Steering Committee,acronym,1
 ndpc,Nigeria Data Protection Commission,acronym,11
 ndubueze-mbah,Ndubueze Mbah,full,1
 neal-jetton,Neal Jetton,full,1
-nec,NEC Corporation,full,1
+nec,NEC Corporation,full,2
 necta-tanzania,NECTA,full,2
 nedbank,Nedbank,full,5
 nelfund,NELFUND,full,1
@@ -3159,7 +3162,7 @@ nfiu,Nigerian Financial Intelligence Unit,acronym,3
 ng-tech-innovation,NG Tech Innovation,full,2
 ngdx,NIBSS. NGDX,full,1
 ngea,Nigeria Government Enterprise Architecture,acronym,1
-ngola-digital,O Projeto Ngola Digital,full,1
+ngola-digital,Programa Ngola Digital,full,1
 ngx-domestic-foreign-portfolio-investment-report,Domestic and Foreign Portfolio Investment Report,partial,1
 ngx-regulation,NGX Regulation Limited,full,1
 nhia,National Health Insurance Authority,acronym,1
@@ -3225,7 +3228,7 @@ nita-uganda,National Information Technology Authority,acronym,3
 nitda,National Information Technology Development Agency,acronym,9
 nitda-act-2007,National Information Technology Development Act,acronym,1
 nitt,Nigerian Institute of Transport Technology,acronym,1
-niu-congo,Renseignez le NIU,full,1
+niu-congo,Saisissez le NIU,full,1
 niyel,Niyel,full,1
 nizar-ben-neji,Dr. Nizar Ben Neji,full,2
 nlgfc-malawi,National Local Government Finance Committee,acronym,3
@@ -3318,7 +3321,7 @@ omang-digital-id-botswana,Digital ID,partial,1
 omantel,Omantel,full,2
 omdia,Omdia,full,3
 omidyar-network,Omidyar Network,full,2
-omni-software,Omni Software JV,full,1
+omni-software,Omni Software Ltd,full,1
 omniretail-africa,OmniRetail Africa,full,1
 omobio,Omobio,full,1
 onafriq,Onafriq,full,9
@@ -3342,7 +3345,7 @@ onip-drc,ONIP. Lors,full,1
 online-telecom-egypt,Online Telecom,full,1
 onsfag,ONSFAG,full,1
 onudi,Onudi,full,1
-ookla,Ookla,full,6
+ookla,Ookla,full,7
 ooredoo-algeria,Ooredoo Algeria,full,10
 ooredoo-fintech,Ooredoo Fintech,full,1
 ooredoo-tunisia,Ooredoo Tunisia,full,2
@@ -3473,7 +3476,7 @@ partech-africa-fund-ii,Partech Africa Fund II,full,2
 partech-africa-fund-ii-paf,Partech Africa Fund II,partial,1
 partech-africa-tech-vc-report,PARTECH AFRICA TECH VC REPORT,full,1
 partner2connect,Partner2Connect,full,3
-pasec,PASEC,full,1
+pasec,Le PASEC,full,1
 pasga-nigeria,Personnel Audit and Skills Gap Analysis,acronym,1
 patente-tributaria-unica-gnq,Patente Tributaria,partial,1
 paterne-kadiat,Paterne Kadiat,full,1
@@ -3563,7 +3566,7 @@ potraz,POTRAZ,full,8
 pouchers,Pouchers,full,1
 powertel-communications,Powertel Communications,full,1
 ppcc-liberia,Public Procurement and Concessions Commission,acronym,2
-ppda-uganda,PPDA and AFIC,full,1
+ppda-uganda,PPDA Towers,full,1
 ppmec,PPMEC,full,1
 ppmec-benin,Ppmec,full,1
 pppc-malawi,Public Private Partnership Commission,acronym,3
@@ -3603,7 +3606,7 @@ project-pangolin,Project Pangolin,full,1
 project-sprint,Project Sprint,full,1
 projecto-de-aceleracao-digital-de-angola-pada,Projecto de Aceleração Digital de Angola,acronym,2
 projecto-nacional-de-banda-larga-angola,Projecto Nacional de Banda Larga,full,1
-projet-transforme,Le Projet TRANSFORME,full,1
+projet-transforme,Projet TRANSFORME,full,1
 projet-transforme-rdc,Projet Transforme,full,1
 projet-wuri,Projet WURI,full,1
 prometheus-institute-for-democracy-and-human-rights,Prometheus Institute for Democracy and Human Rights,full,1
@@ -3665,7 +3668,7 @@ rain-nigeria,Robotics and Artificial Intelligence Nigeria,acronym,1
 ralph-mupita,Ralph Mupita,full,5
 ramzi-houidi,Ramzi Houidi,full,1
 rand-merchant-bank,Rand Merchant Bank,full,2
-rank,Rank Perks,full,1
+rank,Rank. Rank,full,1
 rank-microfinance-bank,Rank Microfinance Bank,full,1
 rapdp,RAPDP,full,4
 rapid-support-forces,Rapid Support Forces,full,4
@@ -3695,7 +3698,7 @@ regnology-ireland-ltd,Regnology Ireland Ltd,full,1
 regxta,Regxta,full,1
 reja-ds,REJA-DS,full,1
 remote-service-vat-act-botswana,Remote Service VAT Act,full,1
-rempe-angola,REMPE,full,1
+rempe-angola,O REMPE,full,1
 renmoney,Renmoney,full,1
 renu,Research and Education Network for Uganda,acronym,1
 research-council-of-zimbabwe,Research Council of Zimbabwe,full,2
@@ -3722,7 +3725,7 @@ rida-zimbabwe,Road Infrastructure Development Agency,acronym,1
 right-to-access-information-commission,Access Information Commission,partial,1
 right-to-information-commission-ghana,Information Commission,partial,1
 rimatel,Rimatel,full,1
-ripoti,Ripoti Platform,full,1
+ripoti,Through Ripoti,full,1
 rmb,Rand Merchant Bank,acronym,1
 rn-rssi,RN-RSSI,full,1
 rnu-senegal,Registre National Unique,acronym,2
@@ -3742,7 +3745,7 @@ rosemary-kisembo,Rosemary Kisembo,full,2
 royal-air-maroc,Royal Air Maroc,full,1
 rpbnip-benin,RPBNIP,full,1
 rstp,Royal Science and Technology Park,acronym,6
-rsu-cote-divoire,Registre Social Unique,acronym,1
+rsu-cote-divoire,Registre Social Unique,acronym,4
 rsu-guinea,Registre Social Unifié,acronym,1
 rswitch-rwanda,Rwanda. RSwitch,full,1
 rtcom-defense,RTCom Defense,full,1
@@ -3779,7 +3782,7 @@ sa-digital-transformation-roadmap,Digital Transformation Roadmap,full,1
 sa-national-data-and-cloud-policy,National Data and Cloud Policy,full,1
 sa-social-assistance-act,Social Assistance Act. SASSA,full,1
 sabc,South African Broadcasting Corporation,acronym,2
-sabi,Sabi'. Subject,full,1
+sabi,M. Sabi,full,1
 sadc,Southern African Development Community,acronym,5
 sadc-banking-association,SADC Banking Association,full,1
 sadc-digital-transformation-strategy,SADC Digital Transformation Strategy,full,1
@@ -3950,7 +3953,7 @@ simplon-africa,Simplon Africa,full,1
 sinohydro,Sinohydro,full,1
 sinse,SINSE,full,1
 sinse-angola,SINSE,full,1
-sipao,SIPAO,full,1
+sipao,SIPAO,full,2
 sipen-uemoa,SIPEN-UEMOA,full,6
 sipodi,SIPODI,full,1
 siratpay,SIRATPay,full,1
@@ -3967,7 +3970,7 @@ skye-africa-intelligence,Skye Africa Intelligence,full,1
 slb-africa-performance-center,Africa Performance Center,partial,1
 smart-africa,Smart Africa,full,7
 smart-africa-data-exchange,Smart Africa Data Exchange,full,1
-smart-africa-trust-alliance,SMART AFRICA TRUST ALLIANCE,full,1
+smart-africa-trust-alliance,Smart Africa Trust Alliance,full,1
 smart-anambra,Smart Anambra,full,1
 smart-applications-international,Smart Applications International,full,1
 smart-city-surveillance-in-africa-2026,Smart City Surveillance,partial,1
@@ -3984,10 +3987,10 @@ smega-pay,SMEGA Pay,full,1
 smile-id,Smile ID,full,3
 smtd-sa,SMTD-SA,full,2
 sn-den,Samira Njoya,acronym,1
-sndeci,SNDECI,full,1
+sndeci,SNDECI,full,2
 sndi-cote-divoire,La Sndi,full,1
-sneci,Sneci,full,1
-snedai,SNEDAI,full,1
+sneci,SNECI,full,1
+snedai,Snedai,full,1
 sniam,SNIAM,full,1
 sniam-benin,SNIAM,full,2
 snis-guinea,SNIS. Recommendations,full,1
@@ -4004,7 +4007,7 @@ sofiene-hemissi,Mr. Sofiene Hemissi,full,1
 sogeb,SOGEB,full,1
 sogesy,SOGESY,full,1
 solcon-capital,Solcon Capital,full,1
-solecrypt,SoleCrypt,full,1
+solecrypt,Solecrypt,full,1
 solly-malatsi,Solly Malatsi,full,9
 solution-innovation-district-anambra,Solution Innovation District,partial,1
 solvinity,Solvinity,full,1
@@ -4039,7 +4042,7 @@ sotumag-tunisia,La SOTUMAG,full,1
 souleymane-diarrassouba,Souleymane Diarrassouba,full,1
 south-africa-eta,Electronic Travel Authorisation,acronym,7
 south-african-human-rights-commission,South African Human Rights Commission,full,5
-south-korea,South Korea,full,1
+south-korea,South Korea,full,2
 south-sudan-data-protection-bill,Data Protection Bill,full,2
 south-sudan-ict-authority,ICT Authority,full,1
 south-sudan-ministry-of-interior,Ministry of Interior,full,1
@@ -4062,7 +4065,7 @@ ss-tracking,SS Tracking,full,1
 ssips-south-sudan,SSIPS,full,1
 st-engineering-idirect,ST Engineering,partial,1
 st-gallen-endowment-for-prosperity-through-trade,St. Gallen Endowment for Prosperity,partial,1
-stackit,STACKIT,full,1
+stackit,StackIT,full,1
 stakpak,Stakpak,full,1
 stanbic-bank-ghana,Stanbic Bank Ghana,full,1
 stanbic-ibtc,Stanbic IBTC,full,2
@@ -4221,7 +4224,7 @@ techcabal-insights,TechCabal Insights,full,3
 techno-brain,Techno Brain,full,2
 technology-prosperity-deal,Technology Prosperity Deal,full,1
 technopolis-development-authority,Technopolis Development Authority,full,2
-techscholars,Through TechScholars,full,1
+techscholars,CEO of TechScholars,full,1
 techso-group,Techso Group,full,1
 techstars,TechStars,full,1
 teg-wende-idriss-tinto,Teg-Wendé Idriss Tinto,partial,1
@@ -4290,7 +4293,7 @@ tlcom-capital,TLcom Capital,full,3
 tlcom-tide-africa-fund,TLCom TIDE Africa Fund,full,1
 tlou-energy,Tlou Energy,full,2
 tm-forum,TM Forum,full,1
-tmcel,Tmcel,full,3
+tmcel,Tmcel,full,4
 tmras-nigeria,Treasury Management and Revenue Assurance System’for,acronym,1
 tnm-malawi,Telekom Networks Malawi,acronym,1
 to7-network,TO7 Network,full,2
@@ -4546,7 +4549,7 @@ visionware,VisionWare,full,2
 vital-strategies,Vital Strategies,full,1
 vitalreg,VitalReg,full,2
 vitel-wireless,Vitel Wireless,full,1
-vitib,VITIB,full,6
+vitib,VITIB,full,7
 vivatech,VivaTech,full,3
 vivica-group,Vivica Group,full,1
 voatz,Voatz,full,1
@@ -4580,8 +4583,8 @@ waspan,Wireless Application Service Provider Association of Nigeria,acronym,1
 wataf,West African Tax Administration Forum,acronym,2
 watra,West Africa Telecommunications Regulators Assembly,acronym,5
 wave-burkina-faso,Wave Burkina,full,1
-wave-mobile-money,Wave Mobile Money,full,2
-wave-money,Wave Money Group,full,1
+wave-mobile-money,Wave Mobile Money,full,1
+wave-money,Wave Money for Digital,full,1
 waxal,WAXAL,full,2
 waymo,Waymo,full,2
 wcs-mozambique,Wildlife Conservation Society,acronym,1
@@ -4633,7 +4636,7 @@ x-road,X-Road,full,2
 xalam-analytics,Xalam Analytics,full,6
 xava-technologies,Xava Technologies,full,1
 xi-jinping,Chinese President Xi Jinping,full,2
-xroad-bj,XROAD BJ,full,1
+xroad-bj,Xroad-BJ,full,1
 yad-sierra-leone,YAD and YRA,full,1
 yango,Yango,full,5
 yas,Yas for Kenya,full,2

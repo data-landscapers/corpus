@@ -76,6 +76,7 @@ Angola and Rockville	10765,10
 Ann Rogers	1212
 Annual Training and Competency Certification Roster Annex	3861
 Anse Etoile. Hon. Romain	6379
+Appoints Robert Skjødt	10956
 Artificial Intelligence and Robotics	9739
 Artificial Intelligence and Robotics Education	8560
 Artificial Intelligence and Robotics Room	9225
@@ -107,6 +108,7 @@ Beyon Romain NEBIE Didier OUEDRAOGO	4211
 Biermann Avenue Rosebank	10793
 Bigger Role	5407,676
 Blaauwberg Road	8999
+Black Rock	10955
 BlogThe Role of Mojaloop	2537
 Bolgatanga Road	3386
 Bonjean Rodrigue Mbanza	2263
@@ -330,6 +332,8 @@ Emmanuel Rono	8383,1557
 Emmanuel Rono Parliament	9940
 Eng. MsC. José Rodrigues Cabo Verde	7948
 Engine Room	4528,5219
+English-speaking RoA	10954
+Englishspeaking RoA	10954
 Entrance Room	9123
 Entrance Rooms Access	9123
 Entrance Rooms Class	9123
@@ -363,6 +367,7 @@ Firm Ronald Coase	8380
 Fonds Routier	10087
 Foreign and Roadmap	7548
 Fourth Round Eritrea Population and Health Survey	6106
+Francophone RoA	10954
 François Rodriguez	5821
 Free Roaming	4059,217,3344
 French Robin Reecht	6231
@@ -447,7 +452,8 @@ Imaling Rose	3005
 Immaculada Roca	9838
 Implem13e.ntIamtipolnemRoenadtamtiaopn Roadmap	10157
 Implement the Roadmap	1777
-Implementation Roadmap	4528,1147,1,766,390,3325
+Implementation Design and Roadmap	10901
+Implementation Roadmap	4528,1147,1,766,390,3325,744
 Implementation Roadmap and Milestones Phase	4528
 Implementation Roadmap and Strategy	3861
 Implementation Roadmap. Conclusions	6832
@@ -491,6 +497,7 @@ Jana Kunicova and Robert Schlotterer Task Team	2889
 Jane Rotich	8323
 Jazari Root	4833
 Jean le Roux	10729
+Jean-Noël Roffiaen	10929
 Jean-Pierrick Robert	1996,2390
 Jinja Road	315
 Joana Rosa	2054,3370,743
@@ -590,7 +597,7 @@ McGowan Road	6463
 Md Romael Haque	4439
 Mechanical Room Outside	9123
 Medium-Term Revenue Roadmap	8669
-Meet Me Rooms	9446
+Meet Me Rooms	9446,1510
 Mensa Saba Road	3386
 Mer Rouge	2342
 Meridiam and Roha	7259
@@ -645,6 +652,7 @@ NAMIBIA NEWS ROOM	9485
 NCC Advances Nationwide Rollout	7110
 NCC MOPT Adopted Roadmap Q3	1777
 NCC Pushes for Nationwide Fiber Rollout	3796,1205
+NEC Rolls Out	10931
 NIMC the Root Certification Authority	9880
 NIMC's Root CA	10423
 NIRA ED Rosemary Kisembo	1738,3247
@@ -732,6 +740,7 @@ Palais Royal du Chef de Canton de Tahoua	9567
 Pan-African Colocation Data Centre Rollout	1152
 Pan-African Green AI and Robotics Data Centre	3954
 Par Alfred Ronys Yemetchipa Bangui	5856
+Par Rodrigue Cofye Une	10936
 Par Rominique Makaya	6455
 Par Roméo TOSSOU	9167
 Para Joana Rosa	5424
@@ -985,7 +994,7 @@ Robert Annor	3353,928
 Robert Appelbaum	7051
 Robert Belong Morbe	4640
 Robert Benvenuti	9032
-Robert Beugré Mambé	2557,711,13,1614
+Robert Beugré Mambé	2557,711,13,1614,6049
 Robert Beugré Mambé. Il	3268
 Robert Beugré Mambé. Ivoire Tech Forum	3268
 Robert Bosch Stiftung	4842
@@ -1014,6 +1023,7 @@ Robert Kyagulanyi	4753
 Robert L. Bernstein Institute for Human Rights	225
 Robert Lisinge of UNECA	8472
 Robert Lucien Jean-Claude Kargougou	9401
+Robert MAMBE BEUGRE	10914
 Robert Maate and Roza Mamuye Bora	4214
 Robert Mattes Afrobarometer	7886
 Robert Migadde	1150
@@ -1037,6 +1047,7 @@ Robert Souffrance Gango	4135
 Robert Staiger	3658,2617,145
 Robert Tama Lisinge	7529
 Robert West	899
+Robert Zucclini	10935
 Robert-Nicoud	10822
 Roberta Malee Bassett and Paul Seaden	6832
 Roberto	10841
@@ -1132,6 +1143,7 @@ Rodrigue	2765
 Rodrigue Castro Gbedomon	10852
 Rodrigue Chaou	6772
 Rodrigue Charles Malanda Samba	7217
+Rodrigue Cofye	10936
 Rodrigue Effectif	2342
 Rodrigue Kafando	9993
 Rodrigue S. Chaou	3638
@@ -1148,6 +1160,7 @@ Rodrik	10856
 Rodríguez DC	3791
 Roehrs	8606
 Roehrsetal	8606
+Roffiaen	10929
 Rofiotou MONROU	10813
 Rogan Ward	5401
 Rogelio Ntamanel	7703,1

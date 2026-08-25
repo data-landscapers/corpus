@@ -547,7 +547,7 @@ Habilitado-Pagador	4209
 Habilitation	8914
 Habilitations	6954
 Habitacao	9441
-Habitat	235,502,1251,636,1,599,172,239,429,61,13,187,3600,53,410,503,63,599,43,689,541
+Habitat	235,502,1251,636,1,599,172,239,429,61,13,187,3600,53,410,503,63,599,43,689,541,74
 Habitat Nombre	3396
 Habitat and Banque Postale Congo	1828
 Habitat and Youth	3635
@@ -719,7 +719,8 @@ Hambol	3317,287
 Hambol La Société	8694
 Hambol. Placée	8694
 Hamburg	2702
-Hamdallaye	2801,3293,484,605,3428
+Hamdallaye	2801,3293,484,605,3428,340
+Hamdallaye. The DHY Technologie	10951
 Hamdi Ould Abdallah	10402
 Hamed Nanéma Hanifa Koussoubé Dominique Ouédraogo	5280
 Hamed Nanéma Lefaso.net	5324,2774,2448
@@ -1210,7 +1211,7 @@ Haut Sassandra	3604
 Haut-Commissaire	3520,2919
 Haut-Commissariat	4585,1,2,890,941,765,1453,254,515
 Haut-Commissariat Na	10826
-Haut-Commissariat des Nations Unies	8891,1983
+Haut-Commissariat des Nations Unies	8891,1983,39
 Haut-Katanga	1867,8057
 Haut-Lomami	8834
 Haut-Nyong	8737
@@ -1293,6 +1294,7 @@ Hayat Karima	7537
 Haydn Street	9475
 Hayes	3782
 Haykin	2816
+Haynes Boone	10956
 Hayo Expands	5521
 Haytham Eissa	8905
 Haytham Elmaayergi	8472

@@ -66,6 +66,7 @@ CIDADÃO RESPEITADO Assim	10770
 COMPUTER EMERGENCY RESPONSE TEAM OF MAURITIUS	783
 COVID-19 Response Facility	500
 COVID-19 Strategic Preparedness and Response	10829
+COVID-19-Outbreak Response	10919
 CSIRT Computer Security Incident Response Team	6936
 CYBERSECURITY INCIDENT RESPONSE	10721
 Called the Zambia Emergency Bridge for Response Application	10374
@@ -95,7 +96,7 @@ Computer Emergency Response Team	587,2750,1273,240,394,1692,2534,1349
 Computer Emergency Response Team D4WEE	5244
 Computer Emergency Response Team SOC Security	1000
 Computer Emergency Response Team of Mauritius	783
-Computer Emergency Response Teams	395,5137,145,5087
+Computer Emergency Response Teams	395,5137,145,5087,147
 Computer Incidence Response Team	958
 Computer Incident Response Team	4693,10,61,2081,2588
 Computer Security Incident Response Team	1200,28,549,1817,249,44,766,1886
@@ -142,6 +143,7 @@ Detailed Roles and Responsibilities for AISIO Leadership	4528
 Detection and Response	6657
 Digital Identity Responsibility	10819
 Digital Response Connecting Citizens	641
+Digital Solutions for COVID-19 Response	10919
 Director of Responsible Business	5618
 Disclaimer Thematic Categories Question Responses Please	5247
 Divulgação Responsável de Vulnerabilidades	6970
@@ -200,7 +202,7 @@ First and Second Respondents	2307
 Fiscal Responsibility Act	789
 Flood Response and Mitigation Measures Mr. Speaker	7695
 Forum for Incident Response and Security Teams	5780
-Forum of Incident Response and Security Teams	1264,513,3900,5087
+Forum of Incident Response and Security Teams	1264,513,3900,5087,147
 Framework de Governação de IA Responsável da Organização	2816
 Freque Responsibili Paramet Methodolog Responsibili Impacts	1988
 Full Professor of Responsible Artificial Intelligence	7112
@@ -222,6 +224,7 @@ Government Response and Next Steps Stats SA	5597
 Government and Academic Computer Security Incident Response	2989
 Guinea Respective Part	1264
 Guinea-Bissau Respective Part	1264
+Gulf of Guinea Joint Response Plan	10920
 HELD RESPONSIBLE FOR ANY ERRORS	1009
 Harnessing Responsible AI Toolkit	4126
 Health Emergencies Rapidly Detected And Responded	10776
@@ -280,6 +283,7 @@ Integrity and Responsibility	10621
 Interactive Voice Response	1257
 Interfaces Tous Responsables Formulent	10876
 Intermediaries FIRST Forum of Incident Response and Security	1264
+Ivoire Computer Emergency Response Team	10911
 Joint Offices Responsible for SIC and SINSE	9399
 Jul-2028 Organizations Borrower Responsible Agency Republic	4653
 Jul-2028 Responsible Agency Road Fund	1228
@@ -443,6 +447,7 @@ Promoting Responsible Innovation The Charter	2958
 Protecting First Responders	6947
 Quick Response	8588
 REGIME DE RESPONSABILIDADE DA IA SECÇÃO	3519
+REGULATION A RESPONSABILITE PARTAGEE DES ACTEURS	10906
 REPORTING ACCOUNTANT'S RESPONSIBILITY	4896
 RESPECT THE CONSTITUTION	4619
 RESPITE	6523,3657
@@ -561,7 +566,7 @@ Responsables Open Data Manuel Open Data	747
 Responsables Open Data14	1984
 Responsables Open Data8	748
 Responsables Open Data9	747
-Response	1597,343,1562,81,208,510,1376,226,1094,990,2326,133,275,55
+Response	1597,343,1562,81,208,510,1376,226,1094,990,2326,133,275,55,143
 Response AI	7987
 Response All	7987
 Response Component EDGE Digital Governance and Economy	2473

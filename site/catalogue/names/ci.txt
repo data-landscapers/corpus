@@ -44,6 +44,7 @@ Addis Ababa City Administration	7463
 Addis Ababa City CRRSA	2878
 Addis Ababa City Government Revenues Bureau	10496
 Addis Ababa. CIO Africa	10025
+Addressing Project for Interior Cities	10930
 Administración Civil	4209
 Administración Pública Sociedad Civil	1701
 Advisory Board de CIBEROBS	8678
@@ -207,6 +208,7 @@ CI-101	2342
 CI-101et CI-	2342
 CI-11	2342
 CI-802	2342
+CI-CERT	10906,5
 CI-Cert	2376,535
 CI-EN-	2342
 CI-ENERGIES	2342
@@ -245,6 +247,7 @@ CICA-ENSD	7707
 CICAD	5514
 CICAM	10841
 CICES	7641
+CICG-Côte	10918
 CICPDVP	10821
 CICPVP	10821
 CICTE	4209
@@ -619,6 +622,10 @@ CIV-1032	2808
 CIV-based. No AFD	1151
 CIV. No IFC	856
 CIV. The National Energy Efficiency Plan	3604
+CIV1 Key Facts	10956
+CIV1 Management Team	10956
+CIV1 Site Tech Specs	10956
+CIV1 Site Tech Specs Raxio CIV1	10956
 CIVICUS	7510
 CIVICUS Monitor	9679
 CIVIL	4209,5428,1182
@@ -679,6 +686,7 @@ Centro de Coordenação Cibernética	6970
 Century City	8999,1812
 Certificat Foncier Rural CI Consultant Individuel	10876
 Certificate of Acquired Citizenship	5999,393
+Certification Center for Cisco	10948
 Chairman Federal Civil Service Commission	1014
 Chef de Circonscription	10847
 Chefe da Casa Civil	2581,1566,2390,103
@@ -785,7 +793,7 @@ Circuit Notion	10152,19
 Circuit-Switched Networks	10721
 Circuits	9123
 Circulaire	557,628,253
-Circular	3787,1109,642,385,191,295,53,26,28,15,232,33,150,319,1575,730,180,127,893,1,22
+Circular	3787,1109,642,385,191,295,53,26,28,15,232,33,150,319,1575,730,180,127,893,1,22,144
 Circular ANNEXURE D1	4896
 Circular C&Ku ARCEP-111021	998
 Circular Directors Transfer Secretaries First Transfer	4896
@@ -820,7 +828,7 @@ Circunstâncias	3519
 Circunstâncias Agravantes Penais	3519
 Cirera	7655,3201
 Cirilo Ndong Oyana	9302
-Cisco	2157,1,151,560,244,119,209,21,146,18,71,14,95,53,575,38,1203,888,227,263,426,109,585,339,1164,508,37,26
+Cisco	2157,1,151,560,244,119,209,21,146,18,71,14,95,53,575,38,1203,888,227,263,426,109,585,339,1164,508,37,26,686
 Cisco Certified Support Technician	9621
 Cisco Explores AI for Nigeria Farmers Brian	8512
 Cisco Foundation	8512
@@ -944,7 +952,7 @@ Citing the African Development Bank	7692
 Citing the SIIPS	4285
 Citing the State of Inclusive Instant Payment Systems	4282
 Citiweb	8339
-Citizen	395,889,420,22,4,17,120,229,4,2,148,207,209,76,10,81,34,95,498,123,49,135,94,122,545,25,10,151,38,293,27,62,26,184,189,3,1,21,102,51,97,133,28,53,161,204,129,2,1,12,8,38,26,180,13,27,9,96,227,20,266,107,159,179,455,124,163,255,200,41,81,34,196,323,21,416,118,337,18,46,54,17,27,17
+Citizen	395,889,420,22,4,17,120,229,4,2,148,207,209,76,10,81,34,95,498,123,49,135,94,122,545,25,10,151,38,293,27,62,26,184,189,3,1,21,102,51,97,133,28,53,161,204,129,2,1,12,8,38,26,180,13,27,9,96,227,20,266,107,159,179,455,124,163,255,200,41,81,34,196,323,21,416,118,337,18,46,54,17,27,17,72
 Citizen Affairs	1616,2,1286,2292,337
 Citizen Applies for ID	9124
 Citizen Arusha	2703
@@ -1072,6 +1080,7 @@ City Councils	1988
 City County NCCAP National Climate Change	2775
 City Data Centre Name Data Centre	6432
 City Institute	10004
+City Planning	10930
 City Resilience Program	789
 City University	6946
 City of Barcelona	5700
@@ -1146,7 +1155,7 @@ Civic-public	1161
 CivicTech	10785
 Civics Services	5533
 Civicus	9022
-Civil	163,394,212,130,59,11,1,30,161,67,36,20,485,8,100,5,166,58,212,6,66,28,29,28,46,45,92,4,58,36,1,1,20,3,39,3,66,36,22,25,45,1,23,244,9,9,134,1,22,97,24,2,21,19,67,52,11,9,41,17,41,206,21,38,83,48,26,270,10,68,13,9,25,148,5,30,85,139,50,7,73,95,15,36,57,38,19,25,80,16,13,88,170,26,63,210,89,19,149,76,47,93,43,118,7,16,10,33,70,166,9,32,29,49,1,67,31,50,9,47,100,22,6,90,65,193,44,128,439,35,288,107,63,16,98,11,259,158,4,85,1,118,9,39,143,114,155,77,47,30,62,65,217,36,2,1,12,10,37,2,5,9,26
+Civil	163,394,212,130,59,11,1,30,161,67,36,20,485,8,100,5,166,58,212,6,66,28,29,28,46,45,92,4,58,36,1,1,20,3,39,3,66,36,22,25,45,1,23,244,9,9,134,1,22,97,24,2,21,19,67,52,11,9,41,17,41,206,21,38,83,48,26,270,10,68,13,9,25,148,5,30,85,139,50,7,73,95,15,36,57,38,19,25,80,16,13,88,170,26,63,210,89,19,149,76,47,93,43,118,7,16,10,33,70,166,9,32,29,49,1,67,31,50,9,47,100,22,6,90,65,193,44,128,439,35,288,107,63,16,98,11,259,158,4,85,1,118,9,39,143,114,155,77,47,30,62,65,217,36,2,1,12,10,37,2,5,9,26,84
 Civil Abogado	4209
 Civil Action No	5692
 Civil Adaptation and US	970
@@ -1180,7 +1189,7 @@ Civil Protection	10763
 Civil Protection System	10763
 Civil Protection and Humanitarian Aid Operations ERR	6947
 Civil Register	2072
-Civil Registration	471,1260,1026,676,1,955,4,1881,1390,197,2898,6,10,37,23,2,1
+Civil Registration	471,1260,1026,676,1,955,4,1881,1390,197,2898,6,10,37,23,2,1,74
 Civil Registration Bulletin	10765,10
 Civil Registration Capacity	10759,78
 Civil Registration Code	10765,10
@@ -1456,6 +1465,7 @@ Digital Media City Project	10667
 Digital Response Connecting Citizens	641
 Digital Transformation Agenda The Head of Civil	10156
 Digitisation of Civic Records	3200
+Digitizing Civil Status Records	10915
 Diotali Citoyen. L’entreprise	8229
 Direction de L'Etat Civil	2048,2596
 Direction des Affaires Civile	7993
@@ -1485,6 +1495,7 @@ Djibouti City. Flag	3627
 Documented National CII	1000
 Does the CI	10812
 Donors Support Civil Society	6948
+Download CIV1 Site Tech Specs Download	10956
 Dr. Belio Kipsang of Immigration and Citizen Services	5536
 Draft Framework for Establishing the SADC Regional CIRT	318
 Droits Civils	10826
@@ -1542,7 +1553,7 @@ Estratégia Nacional de Segurança Cibernética	795,1989,32,4154,766,2704
 Estratégia da Segurança Cibernética	2816
 Estratégia de Ciência	2816
 Estratégias Sólidas de Segurança Cibernética	2816
-Etat Civil	5135,2858,1675,1144
+Etat Civil	5135,2858,1675,1144,108,18
 Etat Civil Résultat	3396
 Etat Civil. Selon	9567
 Ethiopia's Immigration and Citizenship Service	6801
@@ -1749,6 +1760,7 @@ International Civil Aviation Organization’s Public Key	9417
 Internet Civil Rights Framework	5366
 Investment Bo City	4114
 Investment Funds CIF Cost	2775
+Ivoire CI1Raxio DR Congo DRC1Raxio Ethiopia	10956
 Ivoire Civil Registry System	10714
 Ivoire. CIVIX	3402
 Ivoire. Citizens	5464
@@ -1964,13 +1976,14 @@ National Civil Status Register	557
 National Civil Status Registration Office	3814,5699
 National Civil Status Registry	7336
 National Civil Status and Identification Office	4686
+National Civil Status and Identification Strategy	10915
 National Department of Health Civitas Building Cnr	396
 National Directorate of Civil	2972
 National Directorate of Civil Identification	1782,4552,1345,325
 National Emergency Operations Center CGD Citizen-generated	4214
 National Labour AI Competency Framework for Civil	4126
 National Office of Civil	3661
-National Office of Civil Status and Identification	3604,1060
+National Office of Civil Status and Identification	3604,1060,6251
 National Policy for Economic Empowerment of Citizens	5883
 National Qualifications Framework. Citation. Amendmeat	7832
 National Register of Civil Status Events	1927
@@ -2056,6 +2069,7 @@ Patience Makwele The City of Windhoek	6676
 Patient Citizenship	6666
 Paynesville City	4261
 Paynesville City Hall	4554
+Pearson Vue and Cisco	10948
 Pelouro de Ciência	2816
 People-Centred Smart City Strategy	6676,2000,46
 Performance Key Indicators for National CIRTs	318
@@ -2128,6 +2142,9 @@ RESPONSABILIDADE CIVIL ARTIGO	3519
 RW-SAA-552414-CS-QCBS City	9892
 RW-SAA-556292-CS-QCBS City	9893
 Rapartiçoes de Identificação Civil	10753
+Raxio CIV1 Data Centre	10956
+Raxio CIV1 Data Centre Download CIV1	10956
+Raxio CIV1. Get	10956
 Recentering the Civic Internet	1071
 Reclaiming Data for Improved City Governance	5700
 Red Urbana Ciudades Muy	1701
@@ -2261,6 +2278,7 @@ Sistema Nacional de Segurança Cibernética Artigo	6970
 Sistema de Ciencia	1701
 Sistema de Registo Civil	10775
 Sistemas de Registro Civil	9539
+Site Tech Specs Download CIV1 Site	10956
 Smart Cities	395,563,606,532,481,910,1862,1306
 Smart Cities A Smart City	395
 Smart Cities Strategic Interventions Project Activities	395
@@ -2281,7 +2299,7 @@ Snapshot of Civil Registration and Vital Statistics Systems	327,1
 Sociedad Civil	1701
 Sociedade Civil	15,2801,7936
 Sociedade Civil. Artigo	15
-Société Civile	7168,3658
+Société Civile	7168,3658,97
 Société Civile PAARIB Projet	10712
 Société Civile PAE Plan	10876
 Solomon Islands Civil Registry	10714

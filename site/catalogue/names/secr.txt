@@ -367,8 +367,8 @@ Le Secrétaire	2966,207,3716,465,489,394,340,765
 Le Secrétaire Exécutif	9164
 Le Secrétaire Général	7470
 Le Secrétaire Général Adjoint du Ministère	9668
-Le Secrétaire Général du Gouvernement	9287
-Le Secrétariat	7658,1092,1726
+Le Secrétaire Général du Gouvernement	9287,1618
+Le Secrétariat	7658,1092,1726,426
 Le Secrétariat Exécutif	10876
 Le Secrétariat Général du Gouvernement	3121
 Lesotho The Principal Secretary	5523
@@ -824,7 +824,7 @@ Secrétaire Général du Gouvernement	8750
 Secrétaire Général du Ministère	10712
 Secrétaire de Direction	6827
 Secrétaires Généraux	4420,6072
-Secrétariat	737,942,1020,267,571,409,1880,79,19,390,992,792,171,52,203,226,141,102,288,6,635,609,316,27,1,1
+Secrétariat	737,942,1020,267,571,409,1880,79,19,390,992,792,171,52,203,226,141,102,288,6,635,609,316,27,1,1,26
 Secrétariat Exécutif	3045,7831
 Secrétariat Exécutif des TIC Burundi	5958
 Secrétariat Exécutif des Technologies	1284

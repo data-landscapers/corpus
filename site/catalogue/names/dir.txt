@@ -553,7 +553,7 @@ Direct-to-cell	7299
 Direct-to-device	6593,305
 Direct-to-phone	10032
 Directed	1950,5328
-Directeur	737,28,1041,268,187,180,297,1,29,33,114,16,35,211,4,117,21,7,50,5,23,45,141,21,57,98,13,188,168,48,28,116,93,237,62,83,91,20,6,4,37,36,25,42,40,14,89,562,58,9,72,86,23,64,9,27,238,102,4,54,86,75,226,58,30,22,321,42,260,7,14,5,1,9,6,54,69,14,45,44,201,74,60,32,12,31,1,8,16,170,126,45,43,79,8,13,192,15,240,11,46,184,32,176,148,489,78,4,32,32,143,69,115,20,20,4,3,1,1
+Directeur	737,28,1041,268,187,180,297,1,29,33,114,16,35,211,4,117,21,7,50,5,23,45,141,21,57,98,13,188,168,48,28,116,93,237,62,83,91,20,6,4,37,36,25,42,40,14,89,562,58,9,72,86,23,64,9,27,238,102,4,54,86,75,226,58,30,22,321,42,260,7,14,5,1,9,6,54,69,14,45,44,201,74,60,32,12,31,1,8,16,170,126,45,43,79,8,13,192,15,240,11,46,184,32,176,148,489,78,4,32,32,143,69,115,20,20,4,3,1,1,48
 Directeur Approvisionnement	8269
 Directeur Central de Supervision des Régies Financières	10712
 Directeur Créatif	8891
@@ -604,6 +604,7 @@ Directeur des Relations	8269
 Directeur des Ressources	8269
 Directeur des Statistiques Démographiques	9277
 Directeur des Systèmes	748,3421,104,3904,2060,308
+Directeur des Technologies	10925
 Directeur du Contrôle	8269
 Directeur du Département des Infrastructures	10371
 Directeur du Développement des Infrastructures Numériques	7661,516
@@ -619,10 +620,10 @@ Directeurs des Académies	8956
 Directeurs des Systèmes	4881,1
 Directinfosgabon.com	3488
 Directing	2958
-Direction	17,97,635,438,97,633,88,1,42,238,37,153,38,89,356,2,83,72,273,14,134,102,5,16,17,10,17,325,105,1,27,7,80,6,37,62,29,13,1,1,22,130,94,39,130,20,80,11,6,30,32,30,449,84,199,241,443,110,279,62,7,5,206,57,38,131,307,30,43,1,15,39,32,5,33,47,11,5,36,128,122,47,23,64,1,16,49,10,57,122,102,17,55,58,14,69,301,78,26,129,243,197,96,74,140,3,223,118,57,3,68,65,100,15,31,16,2
+Direction	17,97,635,438,97,633,88,1,42,238,37,153,38,89,356,2,83,72,273,14,134,102,5,16,17,10,17,325,105,1,27,7,80,6,37,62,29,13,1,1,22,130,94,39,130,20,80,11,6,30,32,30,449,84,199,241,443,110,279,62,7,5,206,57,38,131,307,30,43,1,15,39,32,5,33,47,11,5,36,128,122,47,23,64,1,16,49,10,57,122,102,17,55,58,14,69,301,78,26,129,243,197,96,74,140,3,223,118,57,3,68,65,100,15,31,16,2,31,4,8,1,6,8,3,3
 Direction Départementale	1005
 Direction Général	10847
-Direction Générale	547,96,326,29,1051,1555,651,740,835,608,140,1339,76,234,664,515,262,356,684,3,3,98,9,53,2
+Direction Générale	547,96,326,29,1051,1555,651,740,835,608,140,1339,76,234,664,515,262,356,684,3,3,98,9,53,2,34
 Direction Générale Budget	643
 Direction Générale de Djibouti Télécom	3795
 Direction Générale de NITA	6883
@@ -634,7 +635,7 @@ Direction Générale des Douanes DGEP	10874
 Direction Générale des Etudes	10847
 Direction Générale des Examens	10847
 Direction Générale des Finances Publiques	10532
-Direction Générale des Impôts	2611,360,425,57,262,1087,122,406,484,1140,258,136,1209,251,182,1721
+Direction Générale des Impôts	2611,360,425,57,262,1087,122,406,484,1140,258,136,1209,251,182,1721,226
 Direction Générale des Impôts. L'enjeu	7348
 Direction Générale des Marchés Publics	969,9860
 Direction Générale des Opérations	749
@@ -650,7 +651,9 @@ Direction Nationale	12,737,6210,966,1628,1283
 Direction Nationale des Affaires Politiques	2756
 Direction Nationale du Trésor	10711
 Direction Provinciale	10847
+Direction Regionale	10940
 Direction Régionale	2342,8505
+Direction de Coordination du Programme Elargi de Vaccination	10919
 Direction de L'Etat Civil	2048,2596
 Direction des Affaires	9448
 Direction des Affaires Administratives DGEC	10847
@@ -709,7 +712,7 @@ Directives and Decisions	2913
 Directivos	4209
 Directly	513,1315,982,3272,366,976,445
 Directoire	7620
-Director	13,9,4,1,1,6,537,14,2,149,478,321,19,396,602,224,40,60,82,257,151,172,176,273,132,4,95,56,254,195,113,60,118,1,12,145,44,103,37,48,129,240,64,83,136,370,61,81,44,115,70,40,42,42,14,3,8,103,110,39,30,80,261,90,186,78,10,88,128,60,74,44,150,86,23,111,12,39,19,1,98,23,56,5,30,45,58,22,57,150,11,99,2,16,52,44,2,25,106,25,58,3,134,26,77,71,35,204,95,19,8,81,65,148,34,13,10,65
+Director	13,9,4,1,1,6,537,14,2,149,478,321,19,396,602,224,40,60,82,257,151,172,176,273,132,4,95,56,254,195,113,60,118,1,12,145,44,103,37,48,129,240,64,83,136,370,61,81,44,115,70,40,42,42,14,3,8,103,110,39,30,80,261,90,186,78,10,88,128,60,74,44,150,86,23,111,12,39,19,1,98,23,56,5,30,45,58,22,57,150,11,99,2,16,52,44,2,25,106,25,58,3,134,26,77,71,35,204,95,19,8,81,65,148,34,13,10,65,92
 Director AI Skills Microsoft ELEVATE	5551
 Director Adjunto Ministerio	4209
 Director Adjunto Oscar Ondo Ngomo	3179
@@ -1018,6 +1021,7 @@ Director-General of NIMC	6871,348,294,395
 Director-General of NITA	3802,3571
 Director-General of NITDA	9117
 Director-General of Na-	6938
+Director-General of ONECI	10915
 Director-General of South Sudan's Directorate of Nationality	2023
 Director-General's Secretariat	7368
 Director-General. The Director-General	6512
@@ -1066,6 +1070,7 @@ Directorate of Civil Identification	4214
 Directorate of Civil Registration and Immigration	9122
 Directorate of Civil Registry	1963,2294,579,1279,1391,355,208,1053,464
 Directorate of Civil Registry and Immigration	7931
+Directorate of Community Health and Health Promotion	10940
 Directorate of Corruption and Economic Crime	3887
 Directorate of Criminal Investigations	3983,3565
 Directorate of Customs	4827
@@ -1076,6 +1081,7 @@ Directorate of Digital Economy	5095
 Directorate of Digital Economy and Posts	1264
 Directorate of File Automation	4967,30,333
 Directorate of Finance	1264
+Directorate of Free Movement of Persons and Migration	10909
 Directorate of Human Resource and Administration	34
 Directorate of Human Resources CHWs	10829
 Directorate of Human Resources Number	10829
@@ -1090,6 +1096,7 @@ Directorate of Land Titles and National Cadastre	3042
 Directorate of Large Enterprises	9037
 Directorate of Learning and Teaching	9128
 Directorate of Liquor Control and Licensing Data Processor	7167
+Directorate of Modernization	10937
 Directorate of National Justice Policy	10765,10
 Directorate of Nationality	7249
 Directorate of Organ for Politics	962
@@ -1339,6 +1346,7 @@ European Data Protection Directive	1387,9378,10
 European Union Data Protection Directive	8436
 European Union FDI Foreign Direct Investment	7548
 Every Director	585,8281
+Evidence Cybersecurity Directorate	10911
 Evolution of Topical Directions. Paper	5349
 Ex- Diretor-geral da ANG	10114
 Exec Director Yodahe Zemichael	3757,1626
@@ -1478,6 +1486,7 @@ General Directorate of Public Procurement	10829
 General Directorate of Research	10829
 General Directorate of Taxes	477,1365,1819,2290,3086
 General Insurance Committee The Director General	6938
+General Tax Directorate	10937
 Gestão D G P J Direção	6530
 Ginaba Lino The Directorate of Civil Registry	8940
 Give Directions and Issue Guidelines	7845
@@ -1505,6 +1514,7 @@ HISP Centre Deputy Director	7027
 HUMANOS Direitos Humanos	10752
 Hassan Zaman Country Director	2473
 Hautes Directives Royales	8891
+Health Information Directorate	10928
 Health Information Technology Director	1824
 Healthcare Provider Directory	1009
 Helios Towers’ Managing Director for Tanzania	5788
@@ -1555,6 +1565,7 @@ Indemnification of Directors	3714
 Independent Director of Chemelil Sugar Company	6946
 Independent Directors Mr. Eric Langat	6946
 Independent Police Investigative Directorate	7096
+Informatics and Technological Traces Directorate	10911
 Information System DHRA Directorate of Human Resources	34
 Information and Communication Directorate	4123
 Informativo Delegado Grupo E Director Grupo	4209
@@ -1635,6 +1646,7 @@ L’Entente Directe	10876
 M. Full DIRECCT	641
 M. Kaboré Amadou Directeur de Direction Générale	10812
 MACRA Director General Daud Suleman	3102,2432
+MACRA's Acting Director of Telecoms	10950
 MACRA’s Director General and Board	7412
 MASO Awards Executive Director Augustus Mukisi	7726
 MEA Managing Director Santhosh Rao	9359
@@ -2112,7 +2124,7 @@ Selon la Directrice	5945,944
 Selon le Directeur	3687,2329,1358,3446
 Senior Deputy Country Director Mr Baik	8121
 Senior Deputy Director of Public Prosecutions Vincent	9188
-Senior Director	6714,67,1044,1995,1002,34
+Senior Director	6714,67,1044,1995,1002,34,76
 Senior Director Public Policy	10528
 Senior Director and Head of Government Affairs	3987
 Senior Director for Market Access Ryan Goodnight	6247
@@ -2219,6 +2231,7 @@ Union's Director for Radiocommunications	7793,157
 Union's Director of Radiocommunications	7884
 Urban Roads Director-General	8896
 Usage of Active Directory	10721
+V. DIRECTIVES DE PROTECTION	10906
 VALEURS PRINCIPES DIRECTEURS FONDAMENTALES	10712
 Vertiv Africa Managing Director Wojtek Piorko	8245
 Vertiv’s Regional Director for Northwest Africa	8244

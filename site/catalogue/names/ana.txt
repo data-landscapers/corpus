@@ -33,6 +33,7 @@ ANAIP. Il	113
 ANALABS LIMITED Data Controller INST-938334AA128 NAIROBI	7167
 ANALABS LIMITED Data Processor INST-938334AA128 NAIROBI	7167
 ANALYSE CARE LA TRANSFORMATION NUMÉRIQUE DOIT	8637
+ANALYSE DES RISQUES ET CONNAISSANCE DES	10906
 ANALYSE DES RÉSULTATS DE L’ÉVALUATION	10712
 ANALYSIS	2744,1118,2805,566,565,227,101,1842
 ANALYSIS AND RESUL TS	8605
@@ -108,12 +109,12 @@ Analiza	10780
 Analizar	1701
 Analog	4528
 Analogous	3791
-Analogue	2899
+Analogue	2899,8057
 Analogue Digital Back Haul	736
 Analogue Terrestrial Television	236
 Analysability	5665
 Analysant	4383
-Analyse	588,149,10,1,456,27,12,460,639,1235,882,2934,1153,345,964,382,475,109,20,33,2
+Analyse	588,149,10,1,456,27,12,460,639,1235,882,2934,1153,345,964,382,475,109,20,33,2,37
 Analyse Stratégique Economique	6578
 Analyse des Marchés	998
 Analyse. Une	6257
@@ -122,7 +123,7 @@ Analyser	747
 Analyses Alimentaires	4402
 Analysing	4866,3156,1106,309,1289
 Analysing the Italian	5700
-Analysis	446,353,462,23,48,267,60,83,11,229,6,108,12,154,101,93,164,963,35,244,265,23,282,96,271,165,69,9,2,180,28,97,17,52,115,44,114,131,230,180,255,347,45,56,3,236,139,235,141,6,64,127,97,189,204,228,524,1,378,1,286,629,295,45,78,15
+Analysis	446,353,462,23,48,267,60,83,11,229,6,108,12,154,101,93,164,963,35,244,265,23,282,96,271,165,69,9,2,180,28,97,17,52,115,44,114,131,230,180,255,347,45,56,3,236,139,235,141,6,64,127,97,189,204,228,524,1,378,1,286,629,295,45,78,15,64,20
 Analysis By Allen Mangava	6099
 Analysis By Pamellah Musimwa and Chinga Govhati	8864
 Analysis By VERITAS THE Cyber and Data	9251
@@ -154,7 +155,7 @@ Analyst	1347,1338,2,359,86,176,15,119,65,122,468,285,162,96,374,93,240,768,308,3
 Analyst Functions	6423
 Analyste	747,8868
 Analystes	1187
-Analysts	899,2679,2,45,32,887,124,22,520,5,248,308,170,1,43,76,187,63,22,90,409,1376,379,803,9,747,135,163
+Analysts	899,2679,2,45,32,887,124,22,520,5,248,308,170,1,43,76,187,63,22,90,409,1376,379,803,9,747,135,163,485
 Analysts-say-that-the-invalidation-of-Higino-Carneiro's-	9399
 Analysys Mason	5704,4884
 Analysys Mason's MEA	8828
@@ -207,6 +208,7 @@ Anapi	5604,6
 Anapproachto	8602
 Anaqua	8967
 Anasema	4364,726,2160
+Anast	10924
 Anastasia Beltyukova	10861
 Anastasia Ndegi Njogu Data Controller INST-4984361AFD1	7167
 Anatananarivo	9480
@@ -214,6 +216,7 @@ Anatel	10764,80
 Anatel's Resolution	5366
 Anatole Collinet MAKOSSO	1186,8004
 Anatole Collinet Makosso	4169
+Anatole Mian	10940
 Anatomical	1988
 Anatomie	4127
 Anatomy	2834
@@ -241,6 +244,7 @@ Biometric Market Analysis and Buyer's Guides Ethio	2318,6,103,20,94,25,48,44,62,
 Biometric Market Analysis and Buyer's Guides Fourthline	2521,659,249,939,974,1524,210,294
 Bié ESTEFÂNIA ANA MANUEL CAQUENDA	10751
 Blu Analytics DMCC Data Processor INST-90753643274	7167
+Brackets Analysis	10954
 Budget Variance Analysis	9437
 Building Block for Analysts	6423
 Business Impact Analysis Tier	10721
@@ -304,6 +308,7 @@ DFS EAEF2 Anais Chanelle Mwizero Team	1284
 DNCMP Analyse	10876
 Data Aggregation and Analysis	4528
 Data Analysis	4439
+Data Analysis Data	10919
 Data Analysis and Integration Stakeholder	7548
 Data Analyst	4528,2304,106
 Data Analysts	6832
@@ -405,6 +410,7 @@ ICT Investment Analysis	219
 IEA Energy and AI Analysis Report	7548
 IEEE Visualization and Visual Analytics	8022
 II. Analyse	1247,4681
+II.2 Analyse	10922
 IMF Debt Sustainability Analysis	7695
 INTERNAL ENVIRONMENT ANALYSIS	5533
 INTERNAL ENVIRONMENT ANALYSIS The DHA	5533
@@ -432,6 +438,7 @@ Intervenants Tâches Délai Rapporteur Analyse	10876
 Intervention of Educational Big Data Analytics	1248
 Investment Analysis	1244
 Investment Case. Analytical	10829
+Ivory Coast. Analysis	10937
 Journal of Comparative Policy Analysis	2096
 Journal of Learning Analytics	8602
 Journal of Policy Analysis and Reform	5700
@@ -533,6 +540,7 @@ Security Analysts	6832
 Security Services Services Analytics Integration Registries	396
 Selon Anavaï Marianne Doulaye	3194
 Senior Advisor for Communication and Analysis	10451
+Senior Analyst	10932
 Senior Data Protection Analyst World Press	4800
 Senior Research Analyst	8683
 Senior Research Analyst Artificial Intelligence	7334

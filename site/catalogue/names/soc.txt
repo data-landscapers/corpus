@@ -124,6 +124,8 @@ Build Social Cohesion	6947
 Building Societies Act	3714
 Building Society	3964
 Bureau RISA Rwanda Information Society Authority	718
+Bureau de Coordination des Programmes Filets Sociaux	10927
+Bureau de Coordination du Programme Filets Sociaux	10938
 Bureau of Political and Social Reorientation	7664
 Business While Creating Value for Society	42
 Business and Social Science	2093,5666
@@ -484,6 +486,7 @@ Expanding Social Protection Program	3005
 Ezulwini Social	8916
 F21 Social Security and Tax Number	10714
 FDJ. MINISTERE DES AFFAIRES SOCIALES ET	4402
+FHWs. Social	10940
 FILETS SOCIAUX DE SÉCURITÉ ET INDICATEURS	737
 FM Environmental and Social Standards GCP European	3604
 Facebook Social Plugin	5784,4,162,263
@@ -499,6 +502,7 @@ Framework ESMF Environmental and Social Management Framework	10829
 Framework for Adaptive Social Protection	10763
 Framing Adaptive Social Safety Nets	10763
 Free Society	2096
+French Société Générale	10929
 Fund Society	7548
 Fundo da Acção Social	10775
 Fundo de Apoio Social	10768
@@ -597,7 +601,7 @@ Information Society Strategic Plan	10300
 Information Society Vol	1243
 Information Society. Sage Publications	6948
 Information System and Social Action Management	10763
-Information Technologies and Social Communication	3136,419,131,181,11,1560,329,220,495,114,32,36,133,465
+Information Technologies and Social Communication	3136,419,131,181,11,1560,329,220,495,114,32,36,133,465,3697
 Information Technology and Social Communication	2411
 Infrastructures and Social Complexity	5700
 Initiative SACCO Savings and Credit Cooperative Societies	2775
@@ -616,6 +620,8 @@ Insurance and Social Security Supervisory Authority	6938
 Int J Arts Humanit Soc Sci	9739
 Int J Phys Social Sci	1261
 Int J Recent Res Soc Sci	9739
+Int J Sociotechnol Knowl Dev. Apr	10919
+Int J Sociotechnology Knowl Dev. Jul	10919
 Integrated Information System for Social Protection	10775
 Integrated Social Action Centers	10768,7
 Integrated Social Action Information and Management System	10775
@@ -698,6 +704,7 @@ Lamu County. Social Responsibility and Investment	6946
 Law Society	4753,2525
 Law Society of Kenya	4801,1430,715,2699,398
 Law Society of South Africa	7278
+Le Registre Social Unique	10910
 Lead Social Protection Specialist	10763
 Lectures47 Commentaires Societe	4960,62
 Limpopo Department of Social Development	8018
@@ -945,7 +952,7 @@ Regional Social Cohesion Project	7426
 Register of Societies	1988
 Registrar of Societies	1988
 Registre Social Unifié	2107
-Registre Social Unique	2713,787,7366,16
+Registre Social Unique	2713,787,7366,16,28,17,11
 Regulatory Authority TFS The Future Society	1204
 Reinserção Social S N	6530
 Relance de SOCATEL	7421
@@ -1057,6 +1064,7 @@ SOCOPRIM	2342
 SOCOPRIM SIR SODEXAM VIVO ENERGY SOTRA	2342
 SOCRadar	6426
 SP Social Protection SSA Sub-Saharan Africa	10768
+STABILITE SOCIO-POLITIQUE	10906
 Sacco Societies Regulatory Authority	6938
 Sacco Societies Regulatory Authority SBR Statistical	2775
 Sahel Adaptive Social Protection Program	10866
@@ -1091,6 +1099,7 @@ Serviços da Sociedade de Informação	8309
 Sexual Harassment SIGAS Social Action Management	10768
 Seychelles Social Protection System PforR	734
 Shanghai Planning Office of Philosophy and Social Science	8460
+Si le Registre Social Unique	10910
 Sierra Leon’s Shock Responsive Social Protection	10763
 Significant Social Media Intermediaries	9208
 Silent Disease Killing Ugandan Society	8352
@@ -1116,7 +1125,7 @@ Sochi	4127,165
 Soci-t- G-n-rale Paris	10718
 Socia Number	1644
 Sociais. O EIASS	6269
-Social	12,5,209,169,162,383,30,35,256,2,1,358,1,2,1,1,1,58,15,77,36,14,39,77,44,319,35,48,28,23,41,1,1,1,2,1,1,2,2,2,1,1,1,6,1,1,12,371,69,31,295,33,287,304,1,1,2,5,1,1,1,49,160,21,50,9,221,9,89,132,27,487,304,55,122,45,514,55,189,81,209,95,308,53,344,33,21,4,181,67,2,30,69,120,60,241,91,343,81,33,148,56,52,28,129,279,148,60,193,199,29,208,143,129,1,3,22,2,10,2,3,7,4,33,7,10,12,5,13
+Social	12,5,209,169,162,383,30,35,256,2,1,358,1,2,1,1,1,58,15,77,36,14,39,77,44,319,35,48,28,23,41,1,1,1,2,1,1,2,2,2,1,1,1,6,1,1,12,371,69,31,295,33,287,304,1,1,2,5,1,1,1,49,160,21,50,9,221,9,89,132,27,487,304,55,122,45,514,55,189,81,209,95,308,53,344,33,21,4,181,67,2,30,69,120,60,241,91,343,81,33,148,56,52,28,129,279,148,60,193,199,29,208,143,129,1,3,22,2,10,2,3,7,4,33,7,10,12,5,13,81
 Social Action	10763,5,7
 Social Action Fund	10775
 Social Action Grant for Elderly	2928
@@ -1424,7 +1433,7 @@ Socios	1701
 Socios Económicos	1701
 Socios Téc	4209
 Sociotechnical	7790
-Société	643,544,112,277,766,57,115,341,336,150,15,39,1,248,16,17,311,414,165,148,291,485,207,61,118,701,381,198,26,91,125,271,7,316,6,270,52,15,337,45,37,53,70,322,87,55,326,180,62,801,110,54
+Société	643,544,112,277,766,57,115,341,336,150,15,39,1,248,16,17,311,414,165,148,291,485,207,61,118,701,381,198,26,91,125,271,7,316,6,270,52,15,337,45,37,53,70,322,87,55,326,180,62,801,110,54,28
 Société AIAL	2300
 Société AIAL Group Limited	2300
 Société ASD Market Traitement	10821
@@ -1438,7 +1447,7 @@ Société Béninoise	87,7125
 Société Béninoise de Boissons Rafraichissantes	7212
 Société Béninoise de Brasseries	10821
 Société CGC	3868
-Société Civile	7168,3658
+Société Civile	7168,3658,97
 Société Civile PAARIB Projet	10712
 Société Civile PAE Plan	10876
 Société Comores Informatique Service	3868
@@ -1456,6 +1465,7 @@ Société Générale Bénin	3361,7460
 Société Générale Côte	10344
 Société Générale Group	1828
 Société Générale Paris	10821
+Société Générale Senegal	10929
 Société Générale Sénégal	5324
 Société Générale Sénégal Favorable	10821
 Société Générale de Banques	5176
@@ -1502,6 +1512,7 @@ SociétéSportTechnologie Actualité Mozambique	9620
 Sociétés	2342,4612,1367,2554
 Sociétés LM Lettre de Mission PLAN D'ORIENTATION	10712
 Sociétés Régionales Multiservices	8891
+Sociétés de Gestion	10922
 Socket Layer Protocol USB Universal Serial	34
 Socle	2950,4404
 Socpen	7910,1089

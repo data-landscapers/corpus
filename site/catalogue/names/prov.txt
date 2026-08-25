@@ -58,7 +58,9 @@ Audiencia Provincial de Wele Nzas	4209
 Aug-26 Province Western Cape Western Cape	8999
 Authorised Crypto Asset Service Provider	8840
 Authorised Crypto Asset Service Providers	8840
+Automated Processing Provides	10908
 Autorização Geral Provisória	2701
+Awale Connectivity Provider	10956
 A’ Internet Access Provider	7036
 Bank of Ghana ISP Internet Service Provider	6936
 Basic Health Care Provision Fund	4301,493
@@ -94,6 +96,7 @@ Cloud Service Provider	9123
 Cloud Service Provider GoK Government of Kenya	6432
 Cloud Service Provider Requirements	6432
 Cloud Service Providers	6432
+Cloud Service Providers and Internet Exchange Points	10956
 Cloud Services Providers	6432
 Cloud Services Providers Entities	6432
 Cloud Services Providers. GOK Entities CSPs	6432
@@ -105,7 +108,8 @@ Communications and Technology ISP Internet Service Provider	10781
 Community Engagement Contractors and Service Providers	1867
 Community Network Service Provider	6946
 Conflict of Laws and Supremacy Provisions	3861
-Connectivity Providing	9446
+Connectivity Providers Raxio Côte	10956
+Connectivity Providing	9446,1510
 Consejero A3 Gobernador Provincial Jefe Militar	4209
 Conselho Executivo Provincial Tete	5129
 Conselho Executivo Provincial Tete Zambia and Mozambique	5129
@@ -472,6 +476,7 @@ Lusaka Provincial Administration	5247
 MAGISTRADO AUDIENCIA PROVINCIAL	4209
 MAITRES PAR STATUT Provinces Statut Nombre	10847
 MISCELLANEOUS PROVISIONS	7845
+MTN Connectivity Provider	10956
 Magistrado Audiencia Provincial	4209
 Magistrado Audiencia Provincial Oficial Mayor	4209
 Managed GDC Providers	4434
@@ -495,6 +500,7 @@ Midlands Province	362
 Miscellaneous Provisions	587,3300,3958,149
 Miscellaneous Provisions International	587
 Mobile Network Operators and Internet Service Providers	4661
+Moov Connectivity Provider	10956
 Muchinga Province	6104
 Muchinga Province Deputy Permanent Secretary Brian	6104
 NDVI ANOMALIES BY PROVINCE Data	10763
@@ -540,6 +546,7 @@ Obligations of Telecommunications Service Providers and LTA	4610
 October. Provisional	8784
 Operator Service Provider	6671
 Operators and Service Providers Department	3696
+Orange Connectivity Provider	10956
 Os Provedores Intermediários de Serviços	6970
 Os Provedores Intermediários de Serviços Acessíveis	6970
 Os Provedores Intermediários de Serviços Digitais	6970
@@ -655,7 +662,7 @@ Proven Starlink	6876
 Provenance	24,90,325,153,366,230,75,90,15,322,111,22,3,58,212,14,198,216,84,55,291,113,159,269,356,2,259,36,98,195,2,1,231,167,2,1,1,22,39,62,90,92,72,6,1,1,3,2,1,2,308,56,19,4,87,11,26,32,5,18,53,104,61,1,62,20,83,21,20,154,28,14,14,43,286,215,113,83,7,26,13,143,84,95,58,409,651
 Provenance Staged	7850
 Provenir	10876
-Provide	170,225,341,26,137,41,18,42,131,573,74,36,14,160,471,18,232,66,214,594,389,154,359,43,82,251,384,288,132,11,1,3,7,106,360,37,242,362,142,12,1,33,284,282,998,271,306,314,166,1,251,302,250,143,164,7,42,56
+Provide	170,225,341,26,137,41,18,42,131,573,74,36,14,160,471,18,232,66,214,594,389,154,359,43,82,251,384,288,132,11,1,3,7,106,360,37,242,362,142,12,1,33,284,282,998,271,306,314,166,1,251,302,250,143,164,7,42,56,90
 Provide APIs	6423
 Provide Cloud	6432
 Provide Connectivity and Managed Network Services	2552
@@ -688,7 +695,7 @@ Providers Verify	9429
 Providers and MDAs	10310
 Providers of AI	7855
 Providers of Artificial Intelligence Systems	2958
-Provides	86,129,257,290,321,389,214,302,1507,1033,3020,242,1333,5,1635,5
+Provides	86,129,257,290,321,389,214,302,1507,1033,3020,242,1333,5,1635,5,140
 Provides ICT	907
 Providing	236,539,183,3,268,14,120,191,26,124,74,40,49,86,35,537,250,183,47,215,293,54,647,174,344,18,476,137,302,31,1244,8,481,119,297,177,353,61,110,40,254,165,198,433,66,34,229,337,68,393,78,15
 Providing CRAC	9123
@@ -871,6 +878,7 @@ SEVERABILITY AND SAVINGS PROVISIONS	3861
 SHARING PROVIDERS	3862
 SIMs. Providers	7576
 SMART Zambia Southern Provincial ICT Unit	7503
+SNDECI. Provenance	10913
 SPFP Minoritaire DONNÉES PROVISOIRES INFORMATIONS GÉNÉRALES	2342
 SRI Provides	10768
 SUBSECÇÃO XII Provedor de Serviços de Segurança Cibernética	6970
@@ -1008,6 +1016,7 @@ Use of Accredited Cloud Service Providers Contract	6432
 Uíge Province	10765,10
 VASP Virtual Asset Service Provider	8590
 VSAT Service Provider	10407
+Vipnet Connectivity Provider	10956
 Virtual Asset Service Provider	9311,223,220,121
 Virtual Asset Service Provider Association	9956
 Virtual Asset Service Providers	3289,581,732,303,226,2210,493,346,410,113,120,3,404

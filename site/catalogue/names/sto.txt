@@ -8,7 +8,7 @@ African Stock Market Robust	6938
 Algiers Stock Exchange	4887
 Amazon Elastic Block Store	1729
 Amazon Simple Storage Service	9123,1671
-App Store	2805,461,4005,2819
+App Store	2805,461,4005,2819,851
 Apple App Store	7266
 Apple App Store and Google Play Store	9952
 Authors Chris Stokel-Walker	7174
@@ -243,7 +243,7 @@ Stop TB Partnership	2816
 Stop. Think. Verify	9764
 Stopa	10780
 Stopblablacam	2336
-Storage	395,371,1062,160,1020,1252,1533,630,9,1590,583,235,283,323,9,20
+Storage	395,371,1062,160,1020,1252,1533,630,9,1590,583,235,283,323,9,20,1481
 Storage Area Networks	9123
 Storage Authority NWHSA National Water Harvesting	2775
 Storage Authority NYS National Youth Service	2775
@@ -269,6 +269,7 @@ Storytelling	7609
 Stout	6921
 Stowell	3782
 Stoyan	7886
+Substation Fuel Backup Storage	10956
 Supply Storage	2775
 Supply Trade Storage	2775
 TB SATA Drive Storage	9475

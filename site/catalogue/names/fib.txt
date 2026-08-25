@@ -28,7 +28,7 @@ Cross-Border Fiber Network Ethio	4975
 Crosslake Fibre	4676
 DRC FIBRE PHASE	253,598
 DRC Fibre Link	5715
-Dark Fibre	9446
+Dark Fibre	9446,1510
 Dark Fibre Africa	731
 Dark Fibre Africa Peri-Urban and Rural Fiber	731
 Data Centres and Fibre	892
@@ -53,7 +53,7 @@ Fiber Market Economy	3185
 Fiber Markets Investment Incentives	10781
 Fiber Optic	6832
 Fiber Optic Implementation Committee	3132
-Fiber Optics	3862
+Fiber Optics	3862,7086
 Fiber Sonic Limited	5212
 Fiber To The Home	1885,4399,1444
 Fiber-Optic Agreement	5001
@@ -83,7 +83,7 @@ Fibertime Group	1092
 Fibertime Group Proprietary Limited	1092
 Fibertime Group South Africa Fibre Internet	1092
 Fibra	3179
-Fibre	998,15,130,504,225,221,820,557,489,1157,445,119,174,365,25,152,23,330,102,516,658,182,435,200,205,102,411,109,18,390,182,329,205
+Fibre	998,15,130,504,225,221,820,557,489,1157,445,119,174,365,25,152,23,330,102,516,658,182,435,200,205,102,411,109,18,390,182,329,205,163,2
 Fibre Broadband	5112
 Fibre Fund	2359
 Fibre Network	3740
@@ -103,7 +103,8 @@ Fibre-To-The-Home	4150,883
 Fibre-To-The-Home FTTO Fibre-To-The-Office FY Financial Year	6671
 Fibre-To-The-Home. Even	6834
 Fibre-related	8785
-Fibre-to-the-Home	1944,78,6185,1321
+Fibre-to-the-Home	1944,78,6185,1321,1430
+Fibre-to-the-Premises	10958
 Fibre-to-the-Room	9528
 FibreCo and AI-enabled	10243
 FibreOne Broadband Ltd	3862

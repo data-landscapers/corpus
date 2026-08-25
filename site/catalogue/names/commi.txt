@@ -185,7 +185,7 @@ Board of Commissioners	8393,562,1390
 Borders Committee	2571
 Botswana European Commission	838
 Brazilian Internet Steering Committee	5366
-British High Commission	3895,231,1101,2934,1197,499,683
+British High Commission	3895,231,1101,2934,1197,499,683,409
 British High Commission Nairobi	899
 British High Commission. Stephen Isaboke	10540
 British High Commissioner	3895,1214
@@ -288,7 +288,7 @@ Commissaires	2342,5278,3201,15
 Commissariat	2513,5478,278,91,2531
 Commissariat Général	2594,2135
 Commissariats	10891
-Commission	7,18,88,195,159,77,4,95,1,93,52,110,41,21,7,2,2,60,186,2,21,2,38,15,3,34,18,107,16,80,43,33,16,36,55,7,57,6,7,95,16,1,38,24,2,72,1,46,209,59,2,157,47,19,63,88,52,1,3,17,167,25,98,65,40,5,62,52,14,7,23,12,7,8,17,37,16,101,1,1,27,55,37,11,11,62,11,20,6,38,79,4,33,12,112,1,23,4,32,87,117,9,48,65,1,39,53,2,77,1,15,11,26,17,8,19,16,27,27,23,20,17,50,14,45,6,19,57,35,4,15,5,8,99,1,35,4,18,41,10,10,189,22,126,32,93,1,20,19,7,35,144,15,20,102,7,12,34,24,27,4,9,64,53,46,7,1,1,35,70,38,128,7,17,4,16,79,36,26,3,2,4,4,54,75,35,23,3,5,3,19,4,39,74,29,36,9,17,53,14,11,2,1,20,29,28,19,12,1,39,30,31,3,21,63,12,10,24,27,4,20,6,4,2,11,79,25,42,58,6,18,12,5,5,18,42,14,2,29,46,49,3,25,1,22,2,22,48,44,30,14,1,2,26,38,38,29,23,5,1,17,4,6,14,21,1,4,14,3,84,26,5,23,42,25,3,83,7,8,5,1,22,7,6,39,32,18,78,24,1,23,59,2,70,43,51,1,32,19,55,76,35,2,95,12,49,15,1,20,43,18,13,5,55,46,107,3,4,22,3,47,3,1,108,20,27,9,21,31,68,92,8,46,37,1,6,2,4,16,1,32,2
+Commission	7,18,88,195,159,77,4,95,1,93,52,110,41,21,7,2,2,60,186,2,21,2,38,15,3,34,18,107,16,80,43,33,16,36,55,7,57,6,7,95,16,1,38,24,2,72,1,46,209,59,2,157,47,19,63,88,52,1,3,17,167,25,98,65,40,5,62,52,14,7,23,12,7,8,17,37,16,101,1,1,27,55,37,11,11,62,11,20,6,38,79,4,33,12,112,1,23,4,32,87,117,9,48,65,1,39,53,2,77,1,15,11,26,17,8,19,16,27,27,23,20,17,50,14,45,6,19,57,35,4,15,5,8,99,1,35,4,18,41,10,10,189,22,126,32,93,1,20,19,7,35,144,15,20,102,7,12,34,24,27,4,9,64,53,46,7,1,1,35,70,38,128,7,17,4,16,79,36,26,3,2,4,4,54,75,35,23,3,5,3,19,4,39,74,29,36,9,17,53,14,11,2,1,20,29,28,19,12,1,39,30,31,3,21,63,12,10,24,27,4,20,6,4,2,11,79,25,42,58,6,18,12,5,5,18,42,14,2,29,46,49,3,25,1,22,2,22,48,44,30,14,1,2,26,38,38,29,23,5,1,17,4,6,14,21,1,4,14,3,84,26,5,23,42,25,3,83,7,8,5,1,22,7,6,39,32,18,78,24,1,23,59,2,70,43,51,1,32,19,55,76,35,2,95,12,49,15,1,20,43,18,13,5,55,46,107,3,4,22,3,47,3,1,108,20,27,9,21,31,68,92,8,46,37,1,6,2,4,16,1,32,2,33,14
 Commission BS Bertelsmann Stiftung UN-Habitat United	10835,3
 Commission Bancaire	4459,6377,52
 Commission Bancaire Sont	10836
@@ -296,6 +296,8 @@ Commission Bancaire. TITRE IV	10836
 Commission COBAC Central African Banking Commission	10841
 Commission COE	10876
 Commission Calcule	10876
+Commission Centrale	10923
+Commission Centrale. Je	10923
 Commission Consultative	3396
 Commission Consultative du Travail	3396
 Commission Digital Malawi Acceleration Project	3678
@@ -320,8 +322,10 @@ Commission Nationale Indépendante	6902,1848
 Commission Nationale de Contrôle de Protection des Données	8891
 Commission Nationale de Développement Numérique	3857
 Commission Nationale de Protection des Données	1799,1468
+Commission Nationale de Recrutement	10948
 Commission Nationale des Droits	8750,2076,15
 Commission Nationale des Droits Humains	3396
+Commission Nationale du Développement	10903
 Commission Nationale. Emet	547,3,18,20
 Commission PART VI	1474
 Commission PDFs	7472
@@ -344,7 +348,7 @@ Commission de Préqualification	10876
 Commission de Règlement des Différends	10876
 Commission de Soumission	10876
 Commission de Statistique des Nations Unies	10874
-Commission des Affaires	1266,332
+Commission des Affaires	1266,332,9338
 Commission des Droits	10826
 Commission des Finances	4363,2409
 Commission des Lois	9890
@@ -729,13 +733,15 @@ EAC Secretariat. The Committee	7967
 EALA Committee	3738
 ECOWAS COMMISSION AND AFRICAN UNION CONCLUDE	9469
 ECOWAS COMMISSION STRENGTHENS INSTITUTIONAL CAPACITY	9194
-ECOWAS Commission	7,305,905,47,505,140,2193,636,89,417,158,177,412,12,1449,1080,662,275,1,792,246,1,63,72
+ECOWAS Commission	7,305,905,47,505,140,2193,636,89,417,158,177,412,12,1449,1080,662,275,1,792,246,1,63,72,265
 ECOWAS Commission Legend	6422
 ECOWAS Commission. Mr. Talery	10572
 ECOWAS Commission. National-level PIUs	1264
+ECOWAS Commission. The WURI	10909
 ECOWAS Commission’s Directorate of Research and Statistics	10508
 ECOWAS Infrastructure Commission	1264
 ED of Liberia’s Independent Information Commission	6202
+EDCF Management Committee	10957
 ELECTION COMMITTEE	585,8281
 ELECTORAL COMMISSION NOTICE	6907
 ELECTORAL COMMISSION PUBLICATION OF THE ELECTORAL	6907
@@ -1089,6 +1095,7 @@ Internal Controls and Risk Management The Committee	1154
 International Cable Protection Committee	2677,836,1163,2523,36
 International Commission	736,222
 International Commission of Jurists	1642,9008
+International Commitments ICCPR	10908
 International Committee	7147,3694
 International Data Policy Committee CODATA	5246
 International Electronical Commission	1988
@@ -1349,6 +1356,7 @@ National Economic and Financial Committee	3078
 National Elections Commission	3092,145,2,2236,3385,103,249,915,218
 National Electoral Commission	2571,6828,1376
 National Electoral Commission.17	9399
+National Ethics Committee of Life Sciences and Health	10919
 National Financial Inclusion Steering Committee	940
 National Financial Inclusion Technical Committee	940
 National Financial Inclusion Technical Committee. Page	940

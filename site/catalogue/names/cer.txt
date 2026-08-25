@@ -191,6 +191,7 @@ Certificat	1706,1339,407,968,1111,686,4,1567,949,2139
 Certificat Foncier Rural CI Consultant Individuel	10876
 Certificat NPI	1769,2083
 Certificat Supérieur	10847
+Certificat de Mutation de Propriété Foncière	10937
 Certificat de Nationalité	3045
 Certificat de Nationalité Numérique	3045
 Certificat de Nationalité. Il	3045
@@ -228,12 +229,13 @@ Certificates of Incorporation	1988
 Certificates of Origin	7142
 Certificates of Recognition and Merit	7702
 Certificates of Registration	9646,511
-Certification	587,149,264,9,222,13,1098,1519,1690,114,71,57,639,504,119,493,1451,617,697,499,29,28
+Certification	587,149,264,9,222,13,1098,1519,1690,114,71,57,639,504,119,493,1451,617,697,499,29,28,87
 Certification Authorities	9880
 Certification Authority	1009
 Certification Authority and Digital Trust Centre	2692
 Certification Authority and Digital Trust Centre. GPW	2681
 Certification CM-NSCI.S8 Infrastructure	10721
+Certification Center for Cisco	10948
 Certification Department	10819
 Certification Department and External Auditor Pass Pass	10819
 Certification Electronique	2314
@@ -278,6 +280,7 @@ Certified SIM3 Auditor Training	9470
 Certified Secretary	6946
 Certified Threat Intelligence Managers	10689
 Certified Tier	3534
+Certifier	10906
 Certifié	6456
 Certifié IFDD	7999
 Certifié Ministère	3396
@@ -307,6 +310,7 @@ Constituency Sectorial CERTS	775
 Contingent Emergency Response Component CERC Steering	1228
 Country Climate and Development Report CERC Contingent	1264
 Country Signing Certificate Authorities	7370,191
+Customary Right of Use Certificate	10930
 Cybersecurity Education and Certification Pathways	6936
 D.G. DE PROTOCOLO Y CEREMONIAS.- Concepto	4209
 D1 COMERCIO Certificado de Comercio	4209
@@ -314,6 +318,7 @@ D1 Certificado de Comercio	4209
 D2 COMERCIO Certificado de Comercio	4209
 D3 COMERCIO Certificado de Comercio	4209
 D3 D3 Certificado de Actualización PE ACTUAL	4209
+DE CONTROLE ET DE CERTIFICATION DES	10904
 DHS CERTIFICATION OF COMPLIANCE NO	2709
 DISCLOSURE OF CERTAIN MATTERS IN FINANCIAL	3714
 DISPOSITIONS PARTICULIERES A CERTAINS TRAITEMENTS Article	10825
@@ -370,6 +375,7 @@ Historic Unity Wall Signing Ceremony	5390,965,827
 Holders of Certificates of Registration	8831
 I Certify	736
 ID Certification Authority System	1379
+III Certification for Data Centre	10956
 INDUSTRIA Certificado de Comercio Certificado de Comercio A3	4209
 INSD. Certaines	10874
 INSPECCION ANUAL INDUSTRIA Certificado de Actualización PE	4209
@@ -431,6 +437,7 @@ Online IT Certification System	5466
 Opération Certificat	10876
 PARCOURS CERTIFIANT EN FINANCE DIGITALE	10237
 POTRAZ. Certification	8437
+PROCÉDURES D'AUDIT CONTROLE ET CERTIFICATION SYSTÈME	10906
 PROVISION OF E-HEALTH AND CERTIFICATION	2709
 Phytosanitary Certificate	1988
 Postgraduate Certificate	4896,2050
@@ -439,6 +446,7 @@ Proactive Activities CERT-GH	775
 Professional Certificate	10133
 Profile CERT-GH Home RFC	775
 Profile CERT-GH RFC	775
+Property Transfer Certificate	10930
 Provide Warranty Certificate	7988
 Provider Certification	7548
 Public Keys and Encryption Information CERT	775
@@ -498,6 +506,7 @@ Technical Certification	5466
 Telecommunications Sector. B. The CERT	4610
 Telephone Number CERT-GH	775
 Tier III Certification of Constructed Facility	4083
+Tier III Certified	10956
 Time Zone CERT-GH	775
 Trade Certificate of Licence Incorporation	5687
 Trust Certification	10819

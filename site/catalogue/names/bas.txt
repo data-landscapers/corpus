@@ -36,6 +36,7 @@ BASEL II	10
 BASEL II Accord	10
 BASELAYER X1X LIMITED Data Processor INST-973801F7AB0	7167
 BASELINE	3604,2458
+BASELINE CYBER SECURITY INDICATORS	10911
 BASF East Africa Limited Data Controller	7167
 BASHA RUKUNGA HALAL COMPANY LIMITED Data	7167
 BASHEY NURSING HOME LIMITED Data Controller	7167
@@ -103,7 +104,7 @@ Basedoncalculated	8606
 Basedonstatisticalandmachinelearningprinciples	8606
 BasedontheiravailabilityintheheterogeneousXMLfiles	8606
 Basedonthis	8606
-Basel	10,4093,157,2678,598,2203
+Basel	10,4093,157,2678,598,2203,1180
 Basel Convention	1988
 Basel II	1155
 Basel II and III	10408
@@ -379,7 +380,7 @@ Government Data Governance Framework Based	5349
 Government Standards Adoption Based	5349
 Grand Bassa	10346
 Grand Bassa County	8101,1549
-Grand Bassam	318,687,1337,266,531
+Grand Bassam	318,687,1337,266,531,7817
 Grand Bassam Avis	1005
 Grand Bassam Ce	1005
 Grand Bassam Contexte	1005
@@ -614,7 +615,7 @@ Type of Service Indicator Baseline Forecast	236
 UN Basic Principles and Guidelines	3583
 USE CASE CONSTRAINT BASED ON NATIONAL	1009
 Undecided NR Base	7869
-University of Basel	7418
+University of Basel	7418,3501
 Uwamahoro and Basingize	9969
 Vandenberg Space Force Base	6897
 VfM. Based	10768

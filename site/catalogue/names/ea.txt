@@ -73,6 +73,7 @@ Asia United Gateway East	1766
 Association of East Asian Nations	1814
 Atakunmosa East and Atakunmosa West. Team Five	10049
 Atlantic and East African	3840
+Attécoubé East	10930
 Aura and Earth	8787
 Average Wage Earnings	2775
 Azure East Africa and West Africa	6266
@@ -435,9 +436,9 @@ Earlier MIS	1371
 Earliest	2432,108,500,898,716
 Earliest of CAR	2611
 Earliest-dated	5513
-Early	587,202,110,365,99,360,55,50,561,131,486,5,1,53,46,22,18,6,56,48,25,92,82,10,113,21,17,121,98,47,287,175,765,249,170,18,19,130,122,349,122,51,154,41,33,57,171,197,325,252,30,44,142,191,569,54,66,45,81,211,15,81,25,10,32,67,97,384,11,37,170,33,219,227,378,36,15
+Early	587,202,110,365,99,360,55,50,561,131,486,5,1,53,46,22,18,6,56,48,25,92,82,10,113,21,17,121,98,47,287,175,765,249,170,18,19,130,122,349,122,51,154,41,33,57,171,197,325,252,30,44,142,191,569,54,66,45,81,211,15,81,25,10,32,67,97,384,11,37,170,33,219,227,378,36,15,110
 Early Access	8698
-Early Bird	6971,95,5,213,98,1507,118,10,622,24,91,9,34,72,11,16,23,36,1,16,12,216,502,36,2,58,3,6
+Early Bird	6971,95,5,213,98,1507,118,10,622,24,91,9,34,72,11,16,23,36,1,16,12,216,502,36,2,58,3,6,151
 Early Childhood Care and Education	7845
 Early Childhood Care and Education Authority	7845
 Early Childhood Care and Education Authority Act	7845
@@ -463,7 +464,7 @@ Early-2025	2493
 Early-Feb	1629
 Early-Pilot and High-Priority Sectors Go-Live	3861
 Early-Stage Innovation	1580
-Early-stage	9495,624
+Early-stage	9495,624,835
 Early-stage African	9495
 Earn Certificates Under New Training Plan	10280
 Earnings	2775,2121,2308,829,1939,185,582,54
@@ -959,7 +960,7 @@ Member for Wuli East	5273
 Microsoft Excel Ease	9124
 Microsoft Middle East and Africa	5327
 Middle East	344,3,273,416,676,7,22,228,56,350,143,159,1,131,21,55,17,147,64,285,238,91,41,86,18,249,115,165,275,209,5,44,38,149,105,21,5,5,341,9,14,80,98,340,169,30,30,42,183,128,152,142,141,72,189,102,15,219,106,190,27,47,1,1,96,187,22,96,57,307,195,402,222,26,34,161,54,63,156,58,81,9,111,93,28,109,22,4,67,8,53
-Middle East and Africa	1741,569,427,876,1052,56,251,392,164,272,671,261,1488,1,1,255,114,237,266,802,446,350
+Middle East and Africa	1741,569,427,876,1052,56,251,392,164,272,671,261,1488,1,1,255,114,237,266,802,446,350,266
 Middle East and Africa. Singapore	10342
 Middle East and Africa. Under	10342
 Middle East and Asia	3342,6919
@@ -1065,7 +1066,7 @@ Project East	4069
 Project East2West	1048
 Project East2West. Bayobab	2814
 Province Eastern Cape Free State Gauteng	8999
-Public Perception of Easiness	10759,76,2,1
+Public Perception of Easiness	10759,76,2,1,74
 Purpose COMESA Common Market for Eastern and Southern	2775
 RFID and EAS	736
 RISA EA	9124
@@ -1097,7 +1098,7 @@ STATE OF THE EAST AFRICAN	10861
 Satellite Earth Stations	9329
 Saudi Arabia EACO and Smart Africa	2511
 Savannah and Upper East Regions	10142
-Scalable Easily	9446
+Scalable Easily	9446,1510
 Second Generation Terrestrial EAC East African	6946
 Seed and Early Stage	4972
 Senior VP Africa and Middle East	1196

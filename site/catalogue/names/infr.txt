@@ -222,7 +222,7 @@ Critical Infrastructure Organizations	6845
 Critical Infrastructure Owner	7538
 Critical Infrastructure Protection	4755
 Critical Infrastructure Protection Act	2677
-Critical Infrastructure Protection Plan	3604
+Critical Infrastructure Protection Plan	3604,7307
 Critical National Assets and Infrastructure Protection	9669
 Critical National Information Infrastructure	700,3025,1407,176,1979,1001,759,622,1020,32
 Critical National Infrastructure	5244,610,2353,770,385
@@ -523,6 +523,7 @@ IHEIT Infrastructure Technical Framework Supplement	1009
 IHEIT Infrastructure Technical Framework Supplement2O	1009
 IHS Kenya Tower Infrastructure	1518
 IHS Strategic Rationale and Digital Infrastructure	5752
+III. FONCTIONNEMENT DES INFRASTRUCTURES DE MARCHÉS	10922
 INFORMATION ON ECONET INFRACO	4896
 INFRA-ESTRUTURAS	2816
 INFRA-ESTRUTURAS DO MERCADO FINANCEIRO	10755
@@ -544,10 +545,12 @@ INFRASTRUCTURE PROJECTS	5533
 INFRASTRUCTURE Rank	10759,78,1
 INFRASTRUCTURE SHARING	3862
 INFRASTRUCTURE Transport Network	10759,78
+INFRASTRUCTURES CRITIQUES	10906
 INFRASTRUCTURES NATIONALES	5478
 INFRASTRUCTURES SCOLAIRES V.1 Répartition	10847
 INFRATEL	3859
 IOSCO Principles for Financial Market Infrastructures	4103
+IV. PRINCIPES DE PROTECTION DES INFRASTRUCTURES	10906
 Identify Critical Infrastructure	7538
 Identify and Manage the Critical Information Infrastructure	1000
 Identity Document Infrastructure	10837
@@ -613,7 +616,7 @@ Infraestruturas Sanitárias	10777
 Infrasat. First	778
 Infrastructural	4676,2272,3217
 Infrastructural State Capacity	5700
-Infrastructure	21,374,1,183,14,50,105,14,3,134,63,8,191,103,20,494,89,12,30,79,5,423,359,382,40,21,74,86,78,98,29,13,139,126,1,125,139,41,74,287,112,200,8,48,34,34,16,28,7,226,5,1,29,13,51,24,6,70,73,20,18,51,73,25,43,50,118,35,29,8,47,40,180,136,46,35,92,34,143,37,16,43,2,103,10,1,118,7,78,5,125,6,50,6,16,51,42,1,18,72,3,2,45,3,155,85,53,1,3,58,14,1,42,19,2,45,109,58,60,198,26,39,10,54,126,10,214,145,5,78,138,125,105,42,68,23,11,102,4,135,11,25,14,38,23,82,19,17,22,11,159,85,58,140,58,38,22,54,2,1,3,3,17,1
+Infrastructure	21,374,1,183,14,50,105,14,3,134,63,8,191,103,20,494,89,12,30,79,5,423,359,382,40,21,74,86,78,98,29,13,139,126,1,125,139,41,74,287,112,200,8,48,34,34,16,28,7,226,5,1,29,13,51,24,6,70,73,20,18,51,73,25,43,50,118,35,29,8,47,40,180,136,46,35,92,34,143,37,16,43,2,103,10,1,118,7,78,5,125,6,50,6,16,51,42,1,18,72,3,2,45,3,155,85,53,1,3,58,14,1,42,19,2,45,109,58,60,198,26,39,10,54,126,10,214,145,5,78,138,125,105,42,68,23,11,102,4,135,11,25,14,38,23,82,19,17,22,11,159,85,58,140,58,38,22,54,2,1,3,3,17,1,50,1,35
 Infrastructure Act	1777
 Infrastructure Agency	2626,4224
 Infrastructure All ICTs	395
@@ -719,6 +722,7 @@ Infrastructure and Services Section	7529
 Infrastructure and Utilities	970
 Infrastructure for Cybercrime	1777
 Infrastructure for Growth	3456,4421
+Infrastructure for Transformation	10956
 Infrastructure of Essential Facilities Demand Aggregation	3604
 Infrastructure-	6593
 Infrastructure-as-a-Service	4259,2218
@@ -731,12 +735,13 @@ InfrastructureICT and GovernanceCloudCyber	3557
 InfrastructureSouth SudanHuaweiEthiopiaRead	3659
 InfrastructureTelecomsBusinessParatus GroupRead	3371
 InfrastructureZambiaSmart Zambia InstituteDigital	7383
-Infrastructures	643,362,796,541,466,261,88,141,98,10,153,107,152,469,608,28,777,177,867,194,454,675,170,32,256,283,378,704,71,434,137
+Infrastructures	643,362,796,541,466,261,88,141,98,10,153,107,152,469,608,28,777,177,867,194,454,675,170,32,256,283,378,704,71,434,137,404
 Infrastructures Actualité Nathalie Roy	3658,2617,145
 Infrastructures Critiques	1801
 Infrastructures Média	2342
 Infrastructures Numériques	1247,5199,766
 Infrastructures and Frequencies	3291
+Infrastructures and Security	10911
 Infrastructures and Social Complexity	5700
 Infrastructures de Communication	743
 Infrastructures3	2342
@@ -924,6 +929,7 @@ Overview The Development of Data Centre Infrastructures	10892
 Owner of Critical Infrastructure Any	7538
 P3 Infrastructure	6937
 PART TWO IDENTIFYING CRITICAL INFRASTRUCTURE	7538
+PLAN DE PROTECTION DES INFRASTRUCTURES CRITIQUES	10906
 PROPOSED LISTING OF ECONET INFRACO	4263
 PROSPECTS FOR ECONET INFRACO	4896
 PROT. INFRAEST. INFRAESTURAS Y SERVICIOS SERVICIOS	4209
@@ -937,6 +943,7 @@ Passport Infrastructure	9399
 Past Infrastructure Crises	6421
 Patriarchy Meets Broken Infrastructure	4794
 Payment Infrastructure	9903
+Payments Infrastructure	10901
 Payments and Market Infrastructures. For Burundi	4915
 Peering Infrastructure Grant Program	7246
 Pembani Remgro Infrastructure Fund	3477
@@ -945,6 +952,7 @@ Phygital Public Infrastructure’ Bridges DPI Theory	5700
 Physical Infrastructure	34,8631
 Physical Infrastructure Support	471
 Physical Security Network and Infrastructure Security	9123
+Plan de Protection des Infrastructures	10906
 Plan for Infrastructure Development	301
 Plano de Infra-Estruturas de Telecomunicações	4218
 Platform Digital Infrastructure for Social Science	8436
@@ -989,11 +997,12 @@ Public Key Infrastructure	24,277,17,682,1725,518,271,90,1160,769,58,1355,684,118
 Public Key Infrastructure NDP National Development	1000
 Public Key Infrastructure. Founding	8073
 Public Perception of Economic Opportunities Infrastructure	10759
-Public Perception of Infrastructure	10759,76,2,1
+Public Perception of Infrastructure	10759,76,2,1,74
 Public Perception of Infrastructure Rural Economy	10759
 Public-Private Partnerships for Infrastructure Expansion	6936
 QUADRO DE PROFESSORES E INFRAESTRUTURAS	10766
 Quality Infrastructure Investment	2112
+RAPPORT SUR LES INFRASTRUCTURES DE MARCHÉS	10922
 REQUIREMENTS FOR CYBER INFRASTRUCTURE PROTECTION	1000
 REQUIREMENTS FOR CYBER INFRASTRUCTURE PROTECTION Given	1000
 RESUMO EXECUTIVO Infraestrutura	10766
@@ -1033,7 +1042,7 @@ Rwanda's Centre of Digital Public Infrastructure	5356
 Rwanda’s Centre of Digital Public Infrastructure	5470
 SADC Director of Infrastructure	318
 SADC Directorate of Infrastructure	962
-SADC Regional Infrastructure Development Master Plan	23
+SADC Regional Infrastructure Development Master Plan	23,10936
 SADC's Regional Infrastructure Development Master Plan	10324
 SECÇÃO II MODERNIZAÇÃO DE INFRA-ESTRUTURAS	15
 SECÇÃO II Modernização de Infra-Estruturas	15
@@ -1146,6 +1155,7 @@ Traffic Network Infrastructure Broadband Speeds	1013
 Traffic Trends Network Infrastructure Broadband Speeds	1944
 Transnational Infrastructures	4676
 Transport and Infrastructure	10313
+Travail PLAN DE PROTECTION DES INFRASTRUCTURES	10906
 Treasury Infrastructure Guidelines	7548
 Trust Infrastructure	6539
 Trust and Digital Governance Infrastructure	9876
@@ -1195,6 +1205,7 @@ Western Cape Infrastructure Virtual Platform	8564
 Western Cape Minister of Infrastructure Tertuis Simmers	8564
 Western Cape Provincial Minister of Infrastructure Tertuis	8564
 Wholesale Electronic Communications Infrastructure License	5277
+Wins Digital Infrastructure Deal	10956
 Within Digital Infrastructure	10793
 Works and Infrastructure	6008
 Year for Infrastructure	7523

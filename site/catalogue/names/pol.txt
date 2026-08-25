@@ -449,6 +449,7 @@ Draft Policies	3678
 Draft Policy	2117
 Duration and Continuity This Policy	3861
 Déclaration de Politique Générale du Premier Ministre	12
+E-Health Policy and Health Systems Innovation	10919
 EAC Data Governance Policy Framework	7548
 EC Open Science Policy Platform	5246
 ECA African Trade Policy Centre's Digital	1031,132
@@ -564,6 +565,7 @@ First National Data Policy Workshop	6013
 Fiscal Policies. Comparators	6463
 Fiscal Policy and Development	1828
 Fiscal Policy and Tax Reforms	10319
+Fiscal and Economic Policy	10932
 Following the Monetary Policy Committee	5247
 Forces de Police	7940
 Foreign Policy	4429,813,2229,318
@@ -1278,7 +1280,7 @@ Polarity	9123
 Polarization Deployment Type Front	736
 Polarization Gain	736
 Polatin-Reuben	961
-Police	259,56,272,998,34,158,61,546,134,257,92,516,200,5,99,200,446,55,180,119,38,14,221,48,166,149,408,28,85,63,102,80,563,201,13,93,217,157,108,192,37,564,52,111,19,21,686,82,233,112,214,30,3,79,299,78,222,48,289,63
+Police	259,56,272,998,34,158,61,546,134,257,92,516,200,5,99,200,446,55,180,119,38,14,221,48,166,149,408,28,85,63,102,80,563,201,13,93,217,157,108,192,37,564,52,111,19,21,686,82,233,112,214,30,3,79,299,78,222,48,289,63,59
 Police Amendment Bill	3746
 Police College	5174
 Police Commissioner Dinah Marathe	5174
@@ -1298,6 +1300,7 @@ Police Nationale. Pour	7959
 Police Officer	7845
 Police Officer Sanitary Authority	7845
 Police Public Complaints Commission. The Ministry	1988
+Police Recours	10934
 Police Reforms	1838
 Police Reporting Channel	1777
 Police Républicaine	10821
@@ -1327,7 +1330,7 @@ Policies and Operational Guidelines	3678
 Policies and Practices	6948
 Policies and Procedures GC-PP	10721
 Policing	10764
-Policy	11,162,63,159,1,191,131,48,23,110,59,3,48,152,43,15,27,11,27,101,128,84,180,1,24,8,8,10,39,22,34,65,108,10,11,217,182,2,259,281,7,307,1,5,13,124,263,13,19,49,2,265,76,12,43,175,96,55,107,85,141,57,35,234,2,3,74,28,26,158,18,503,79,123,176,10,70,6,75,30,56,14,101,38,106,8,2,162,2,39,5,65,1,56,269,1,1,60,87,35,155,60,8,18,244,2,65,153,47,62,164,55,24,48,30,25,66,38,113,20,203,68,29,78,203,148,20,60,91,65,9,55,1,30,58,67,213,195,38,26,37,7,8,4,5,6,4
+Policy	11,162,63,159,1,191,131,48,23,110,59,3,48,152,43,15,27,11,27,101,128,84,180,1,24,8,8,10,39,22,34,65,108,10,11,217,182,2,259,281,7,307,1,5,13,124,263,13,19,49,2,265,76,12,43,175,96,55,107,85,141,57,35,234,2,3,74,28,26,158,18,503,79,123,176,10,70,6,75,30,56,14,101,38,106,8,2,162,2,39,5,65,1,56,269,1,1,60,87,35,155,60,8,18,244,2,65,153,47,62,164,55,24,48,30,25,66,38,113,20,203,68,29,78,203,148,20,60,91,65,9,55,1,30,58,67,213,195,38,26,37,7,8,4,5,6,4,63,33
 Policy Actions	958
 Policy Actions On Infrastructure And Services	958
 Policy Advisor	5321
@@ -1614,9 +1617,9 @@ Politics of Survival	9399
 PoliticsDigest.ng	4738
 Politicsweb	10058
 Politik-	615
-Politique	737,448,53,61,1440,367,2467,1088,316,180,655,260,244,420,149,6,11,278,147,10,69,74,140,373,507,19,189,166,1,7
+Politique	737,448,53,61,1440,367,2467,1088,316,180,655,260,244,420,149,6,11,278,147,10,69,74,140,373,507,19,189,166,1,7,40
 Politique Economique	6163,1492
-Politique Nationale	9567
+Politique Nationale	9567,1346
 Politique Nationale Sécurité Alimentaire	643
 Politique Nationale de Développement du Numérique	3305,2069
 Politique Nationale de Genre PNUD	10874
@@ -1676,6 +1679,7 @@ Polytechnic	9104
 Polytechnic Institute	9237
 Polytechnics	258,990
 Polytechnics Mauritius Ltd	7845
+Polytechnique	10948
 Polytechnique de Bruxelles	8621
 Polytechnique de Ouagadougou. Il	10642
 Polytechnique. Abou Laraki	8484

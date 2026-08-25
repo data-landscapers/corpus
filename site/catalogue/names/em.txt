@@ -52,6 +52,7 @@ African Network of Data Regulators Empowering DPAs	961
 African Union and Germany Embassy	7362
 African Union's Child Online Safety and Empowerment	1597
 Agbenonwossi Elolo Emmanuel	6505
+Agence Emploi Jeunes	10942,1
 Agriculture Within and Outside Minawao Camp Employment	10841
 Air Emissions	1988
 Akwa Ibom Employment Portal	9115
@@ -211,7 +212,7 @@ Computer Emergency Response Team	587,2750,1273,240,394,1692,2534,1349
 Computer Emergency Response Team D4WEE	5244
 Computer Emergency Response Team SOC Security	1000
 Computer Emergency Response Team of Mauritius	783
-Computer Emergency Response Teams	395,5137,145,5087
+Computer Emergency Response Teams	395,5137,145,5087,147
 Concluding Strategies for FDP Economic Empowerment	10841
 Connexion Email Mot	9481
 Conselho Empresarial	2816
@@ -1108,7 +1109,7 @@ Empirically	1828,5931,30,177
 Emplacement	1187
 Empleados	4209
 Empleo	1701,2508
-Emploi	12,300,425,547,424,806,294,548,40,637,369,411,408,1755,241,417,36,57,42,22,135,52,31,217,1,42,246,70,58,248,765,817,137,81,130,2,51
+Emploi	12,300,425,547,424,806,294,548,40,637,369,411,408,1755,241,417,36,57,42,22,135,52,31,217,1,42,246,70,58,248,765,817,137,81,130,2,51,70
 Emploi AUF Agence Universitaire	12
 Emploi ENESI	10874
 Emploi Inclusion	4895
@@ -1119,8 +1120,8 @@ Emploi. Technical Report	10841
 Emplois	737,261,249,8029
 Emplois OPÉRATEUR	998
 Employ	899,7705,2215
-Employability	6832
-Employabilité	8269,622
+Employability	6832,4116
+Employabilité	8269,622,2034
 Employabilité des Jeunes du Mali Comme	7634
 Employed	1988,5210
 Employee	582,572,532,254,156,679,7721,225
@@ -1479,6 +1480,7 @@ Investing for Employment	789
 Iranian Embassy	9968
 Isaque Chande. Em	8745
 Isha Qarsoon Email	3615
+Ivoire Computer Emergency Response Team	10911
 Ivoire Launches EMY	5464,8
 Ivoire Youth Employment and Skills Development Phase	959
 Ivoire Youth Employment and Skills Development Project	959,2645
@@ -1610,6 +1612,7 @@ National Emergency Telecommunications Network	103
 National Emergency Telecommunications Plan	3604,2564
 National Emerging Technologies Centre of Excellence	1965
 National Employment Service Center	5172
+National Employment and Recruitment Fair	10942,1
 National Institute of Employment and Professional Training	10768
 National Office for Employment Protection	10841
 National Policy for Economic Empowerment of Citizens	5883
@@ -1678,6 +1681,7 @@ Parto Em Angola	10760
 Per Emma Mercedes Monsalve Montiel	973
 Percentage Changes of Wage Employment and Average Earnings1	2775
 Perfil da Empresa. Disponível	2816
+Personal Emotion	10940
 Physical Annual Emerging Technologies Technologies	7548
 Pierre Emmanuel Nkoa Ayissi	3078,1203
 Plan Comores Emergent	1996
@@ -1715,6 +1719,7 @@ Prof. Ojo Emmanuel Ademola	6690
 Professor Emmanuel Kofi Akowuah	8748
 Professores. Em	10766
 Programa de Reconversão Em	10758
+Programme Emploi Jeunes	10944
 Project Cyber Management Licensing Empowerment Development	6946
 Projet Emploi Jeune	10821
 Promoción de Empresas	1855,2354
@@ -2017,7 +2022,7 @@ Yahclick Empower	6980
 York. Facebook Twitter Print Email	9786
 Youth Emerging	7548
 Youth Employment	5276
-Youth Employment Agency	7285,410
+Youth Employment Agency	7285,410,3247,1
 Youth Employment Project	5488
 Youth Empowerment Activities	6946
 Youth Empowerment Program	8101

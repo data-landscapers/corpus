@@ -89,6 +89,7 @@ Accountable Governance for Basic Service Delivery	2112
 Accueil Accueil Services Disponibilité	9049
 Acteurs Tâches Délai Service	10876
 Acteurs Tâches Délai Service Suit	10876
+Acts Control and Production Service	10937
 Actualités Services NSIA Banque CI	8755
 Actualités Services Point Santé	8755
 Acumen EA Advisory Services Limited Data	7167
@@ -481,6 +482,8 @@ Cloud Service Provider	9123
 Cloud Service Provider GoK Government of Kenya	6432
 Cloud Service Provider Requirements	6432
 Cloud Service Providers	6432
+Cloud Service Providers and Internet Exchange Points	10956
+Cloud Services	10956
 Cloud Services Access	9446
 Cloud Services Business Services	9455
 Cloud Services Description TelOne	9455
@@ -1306,6 +1309,7 @@ Infrastructure and Services	958,5969
 Infrastructure and Services Promote	958
 Infrastructure and Services Section	7529
 Iniciativa de Políticas de Serviços Financeiros	7166
+Innovation du Service	10900
 Innovative Digital Services	3193
 Inside the South African Revenue Service	8023
 Inspecctor General Servicios Servicio	4209
@@ -1441,6 +1445,7 @@ Korean University Council for Social Service	8384
 L'UTILISATION DE SERVICES DE PAIEMENT Section	10836
 L. Kembo Acting Corporate Services	1554
 LE PORTAIL NATIONAL DU SERVICE PUBLIC	10819
+LES MOYENS ET LES SERVICES	10922
 LTA A. Any Telecommunications Service Provider	4610
 LTA Quality of Service Regulations	10407
 La Matinale du Service Universel des Tic	3404
@@ -1595,8 +1600,8 @@ Ministry of Information and Postal Services	10657
 Ministry of Justice and Correctional Services	1674,977,2999
 Ministry of Labor Source and Civil Service Fiduciary	10870
 Ministry of Postal Services	1264
-Ministry of Public Service	431,2326,1460,737,440,2638,2078,702
-Ministry of Public Service and Administrative Modernization	3604
+Ministry of Public Service	431,2326,1460,737,440,2638,2078,702,125
+Ministry of Public Service and Administrative Modernization	3604,7333
 Ministry of Public Service and Employment	10841
 Ministry of Public Service and Human Resource Development	4640,2171
 Ministry of Public Service and Modernization	3281
@@ -1860,6 +1865,7 @@ PIU of Service	1284
 PKF Financial Consulting Services Zambia. Compliance	10628
 PLANIFICACIÓN Y DESARROLLO ECONÓMICO Servicio	4209
 PODER JUDICIAL Servicio	4209
+PORTANT IDENTIFICATION DES ABONNES DES SERVICES	10898,8
 POSTAL AND COURIER SERVICES	6671
 POSTAL AND COURIER SERVICES LICENCE FEES	1223
 POSTAL AND COURIER SERVICES Table of Contents	395
@@ -2250,6 +2256,7 @@ SOCIAL SERVICES Data Controller INST-73499012D02 BOMET	7167
 SONATEL Mobile Telecom Services	287
 SONDU MEDICAL SERVICES LTD Data Controller	7167
 SONDU MEDICAL SERVICES LTD Data Processor	7167
+SOUS-SECTEURS ET SERVICES CRITIQUES	10906
 STARLINK INTERNET SERVICES MOROCCO	5830
 STATE DEPARTMENT FOR MEDICAL SERVICES ADDENDUM	7987,1
 SUBSCRIBER AND SERVICES DATA	3862
@@ -2326,7 +2333,7 @@ Senior Executive Service Program	9211
 Sereno B3 Servicio	4209
 Servers Regular Restoration Tests of Servers and Services	9123
 Servi	9399
-Service	21,1,214,200,151,6,144,25,4,5,187,11,14,15,2,161,70,585,158,14,9,96,3,369,126,184,1,32,243,55,184,31,65,18,200,11,99,143,5,128,136,223,56,29,329,35,275,40,19,288,161,95,2,1,114,207,14,86,39,89,195,9,45,62,128,24,25,119,111,258,8,155,181,107,571,66,116,182,13,4,4,32,27,91,22,2,37,1,145,37,62,56,4,2,147,78,75,47,180,125,87,104,91,93,251,302,3,9,58,14,16,3,9,8,7,20,2,18
+Service	21,1,214,200,151,6,144,25,4,5,187,11,14,15,2,161,70,585,158,14,9,96,3,369,126,184,1,32,243,55,184,31,65,18,200,11,99,143,5,128,136,223,56,29,329,35,275,40,19,288,161,95,2,1,114,207,14,86,39,89,195,9,45,62,128,24,25,119,111,258,8,155,181,107,571,66,116,182,13,4,4,32,27,91,22,2,37,1,145,37,62,56,4,2,147,78,75,47,180,125,87,104,91,93,251,302,3,9,58,14,16,3,9,8,7,20,2,18,68
 Service AI	7548
 Service APIs	6423
 Service APIs The APIs	6423
@@ -2475,6 +2482,7 @@ Service des Aire	10876
 Service des Etudes	10847
 Service des Ressources Humaines	10876
 Service des Ressources Transmission	10876
+Service du Contrôle	10937
 Service du Numérique	7634
 Service of Government Action and Cameroon's Emergence	6606
 Service of Road Safety	6035
@@ -2486,7 +2494,7 @@ ServiceFactor	736
 ServiceNow	4434
 ServiceNow Government	6432
 ServicePublic	3604
-Services	11,10,312,240,20,50,93,1,38,139,26,18,3,4,5,244,29,567,102,62,122,130,65,27,6,6,24,73,20,29,53,12,25,48,33,11,45,17,5,50,3,41,1,3,50,41,11,18,4,70,1,8,135,124,18,120,12,25,27,75,21,40,47,30,15,27,78,69,141,37,21,38,134,39,254,72,4,2,102,43,55,58,7,131,58,10,24,2,123,3,13,50,135,3,45,40,3,17,43,50,33,1,17,3,44,22,112,70,8,116,183,18,1,51,19,19,178,5,104,1,123,26,7,16,123,221,586,126,51,137,269,4,119,66,79,33,53,94,113,152,74,114,172,159,35,1,12,208,7,24,35,180,55,282,302,2,1,2,26,25,10,1,31,5,7,17,8,12,19,1
+Services	11,10,312,240,20,50,93,1,38,139,26,18,3,4,5,244,29,567,102,62,122,130,65,27,6,6,24,73,20,29,53,12,25,48,33,11,45,17,5,50,3,41,1,3,50,41,11,18,4,70,1,8,135,124,18,120,12,25,27,75,21,40,47,30,15,27,78,69,141,37,21,38,134,39,254,72,4,2,102,43,55,58,7,131,58,10,24,2,123,3,13,50,135,3,45,40,3,17,43,50,33,1,17,3,44,22,112,70,8,116,183,18,1,51,19,19,178,5,104,1,123,26,7,16,123,221,586,126,51,137,269,4,119,66,79,33,53,94,113,152,74,114,172,159,35,1,12,208,7,24,35,180,55,282,302,2,1,2,26,25,10,1,31,5,7,17,8,12,19,1,58
 Services Act	7845
 Services Act Chapter	736
 Services Act SADA Smart Africa Digital	4126
@@ -2513,6 +2521,7 @@ Services Exempted	736
 Services Fees	736
 Services Financiers Numériques	10877
 Services Financiers des Saisons Vulnérables	1412
+Services Fiscaux	10907
 Services Food	4972
 Services Frontière	7655
 Services GBP Great British Pound GDP	1243
@@ -3047,13 +3056,13 @@ Virtual Asset and Initial Token Offering Services	7845
 Virtual Assets Services Coordination Forum	7607
 Virtual Internet Service Provider License	762
 Virtual Internet Service Providers	762
-Virtualised Services	9446
+Virtualised Services	9446,1510
 Vodacom Financial Services	7898
 Vodacom Lesotho Launches Tsetela Investment Service	7840
 Vodafone's Africa Business Delivers Double-Digit Service	8037
 Voice Service	3487
 Voice Subscription Services	3862
-Voice and Mobile Services Diversity	9446
+Voice and Mobile Services Diversity	9446,1510
 WB Ethiopia Digital ID for Inclusion and Services	1260,30,2539,7003,54
 WB-financed Gambia Essential Health Services Strengthening	1654
 Water Quality Monitoring Service	10794

@@ -288,6 +288,8 @@ Amadou Ba	8821,1069
 Amadou Ba de Pastef	5022
 Amadou Coulibaly	2376,432,237,1850
 Amadou Coulibaly. Avec	2376
+Amadou Coulibaly. C'était	10918
+Amadou Coulibaly. Il	10918
 Amadou Daffe	9641
 Amadou Datte	3066
 Amadou Diongue	3687
@@ -360,6 +362,7 @@ Amaro Figueiredo	6709,1334
 Amaro João	5405
 Amaro Santos Figueiredo	430,8675
 Amartya Sen	5700,5026
+Amaryllis Mavragani	10919
 Amasha	7759
 Amateur	736,4943
 Amateur Radio	6946
@@ -521,8 +524,10 @@ Ambassadors and Consuls General	10814
 Ambassadors and High Commissioners	10169
 Ambassadors and High Commissioners Staff	9761
 Ambassadors of Ireland and Norway	4888
-Ambassadrice	3486
+Ambassadrice	3486,7439
+Ambassadrice Jessica Davis Ba	10925
 Ambassadrice de France	6514
+Ambassadrice des Usa	10925
 Ambata Platform Trust Data Controller INST-66786452C5E	7167
 Ambata Platform Trust Data Processor INST-66786452C5E	7167
 Ambazonia	2319
@@ -557,6 +562,7 @@ Ambos	3903,551,2,6321
 Ambriz	539,3505
 Ambriz Caculama Ecunha Mucaba Gambos Nancova	10765
 Ambriz Responsáveis	10751
+Ambroise Boni	10956
 Ambrose	5215
 Ambrose Ekaju	6121
 Ambrose Mulandi	9645
@@ -657,7 +663,7 @@ America-First	4447
 America-First-Global-Health-Strategy-Report.pdf	4426,2508
 America-India Connect	5122,2243,1,1333
 America. Yet Nigeria	6266
-American	571,420,47,985,73,271,159,214,129,132,74,38,21,98,376,18,180,68,175,83,21,12,2,35,15,41,1,86,7,74,21,25,197,77,58,157,74,7,32,10,40,24,14,54,8,18,15,45,9,41,14,199,180,27,1,64,63,101,230,19,12,64,84,61,6,13,27,34,31,22,63,65,58,89,29,21,245,35,47,87,1,86,41,108,171,1,106,269,8,72,141,1,45,25,61,16,15,170,12,198,14,17,55,31,8,12,92,50,60,34,21,203,9,97,66,80,308,21,20,58,31,24,229,3,13,5,38,16,22,32,234,12
+American	571,420,47,985,73,271,159,214,129,132,74,38,21,98,376,18,180,68,175,83,21,12,2,35,15,41,1,86,7,74,21,25,197,77,58,157,74,7,32,10,40,24,14,54,8,18,15,45,9,41,14,199,180,27,1,64,63,101,230,19,12,64,84,61,6,13,27,34,31,22,63,65,58,89,29,21,245,35,47,87,1,86,41,108,171,1,106,269,8,72,141,1,45,25,61,16,15,170,12,198,14,17,55,31,8,12,92,50,60,34,21,203,9,97,66,80,308,21,20,58,31,24,229,3,13,5,38,16,22,32,234,12,124
 American AI	5216,41,516,1017,277,142,805,333,148,15,505,248,366,801,97
 American AI Exports Program	5216,41,516,1017,277,142,1286,2032
 American AI Exports Program. Applicants	7067
@@ -866,7 +872,7 @@ Amofia Nara	6211
 Amon Magunje	10418
 Amonai Medical Clinic Data Controller INST-432992369F9	7167
 Amonestación	163
-Among	418,164,136,243,8,274,18,293,132,128,11,3,75,37,48,276,18,37,128,54,56,20,91,92,15,7,143,126,57,72,52,67,24,21,137,12,64,26,18,3,98,11,38,101,9,67,139,11,7,35,7,23,194,201,16,33,82,24,131,17,167,21,89,19,100,2,1,65,9,42,148,53,19,383,71,35,75,54,11,19,42,1,60,59,118,272,6,11,6,17,32,91,126,121,56,90,45,45,18,29,36,49,63,67,50,44,17,31,36,15,2,36,17,23,21,9,29,1,3,110,155,11,57,9,32,59,2,10,7,5,39,29,24,89,5,9,10,17,97,142,2,3,12,3,15,29,15,116,18,84,210,9,28,5,124,8,24,2,57,194,34,24,21,21,46,8,21,92,13,124,41,37,1,22,54,109,149,11,34,2,10,5,21,28,11,1,3,20,2,15
+Among	418,164,136,243,8,274,18,293,132,128,11,3,75,37,48,276,18,37,128,54,56,20,91,92,15,7,143,126,57,72,52,67,24,21,137,12,64,26,18,3,98,11,38,101,9,67,139,11,7,35,7,23,194,201,16,33,82,24,131,17,167,21,89,19,100,2,1,65,9,42,148,53,19,383,71,35,75,54,11,19,42,1,60,59,118,272,6,11,6,17,32,91,126,121,56,90,45,45,18,29,36,49,63,67,50,44,17,31,36,15,2,36,17,23,21,9,29,1,3,110,155,11,57,9,32,59,2,10,7,5,39,29,24,89,5,9,10,17,97,142,2,3,12,3,15,29,15,116,18,84,210,9,28,5,124,8,24,2,57,194,34,24,21,21,46,8,21,92,13,124,41,37,1,22,54,109,149,11,34,2,10,5,21,28,11,1,3,20,2,15,38,20,19
 Among CQC	9698
 Among Chadians	10841
 Among Cheapest Currencies In The World	5390,965,827
@@ -1132,7 +1138,7 @@ Charter Amendment Regulations	4732
 Cheickna Amala Diallo	9865
 Chief Guest Ambassador Rosa Malango	9781
 China’s Ambassador	6541,2851
-Chinese Ambassador	35,147,7,39,1,31,1,39,43,18,430,5200,12,1867,1220,289,187,1057
+Chinese Ambassador	35,147,7,39,1,31,1,39,43,18,430,5200,12,1867,1220,289,187,1057,322
 Chinese Ambassador Han Jing	10215
 Chinese Ambassador Rao Hongwei and Minister of Finance	791
 Citizen Science. Among	5246
@@ -1165,6 +1171,10 @@ Copyright Amendment Bill	8494
 Corp Fetes Ambassador Michael C.Gonzalez	9989
 Criminal Law Codification and Reform Amendment Act	6951
 Cristóbal Ambrosio Nze Nfumu	6841
+Cross-Sectional Survey Among Users	10919
+Cross-Sectional Survey Among Users Authors	10919
+Cross-Sectional Survey Among Users Skip	10919
+Cross-Sectional Survey Among Users URL	10919
 Customs Act. Amiwero	9361
 Cybersecurity Ambassador for Liberia	1777
 Cybersecurity and Personal Data Protection. Ambassador Wang	3029
@@ -1579,6 +1589,7 @@ Mohamed Amer	6653
 Mohamed Amine Charar	1241
 Mohamed Amine Riahla	6437
 Mojaloop. Amount-quality	514
+Momani AM	10919
 Monsieur ANO Amoa Antoine	2342
 Monsieur Amadou Oury BAH	9637
 Monsurat Amasa-Oyelude	9972

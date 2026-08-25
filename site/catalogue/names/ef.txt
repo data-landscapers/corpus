@@ -138,7 +138,7 @@ Efeitos	10755
 Effacement	1231
 Effacer Tout	747
 Effec-	6946
-Effect	3714,4172,785
+Effect	3714,4172,785,2269
 Effect Tunisia	1818
 Effect of Derecognition	3503
 Effect of Failure	4167,35,15,43,41,48,1003
@@ -155,7 +155,7 @@ Effectifs Fréquence	737
 Effective	396,544,21,39,131,88,29,34,69,419,218,724,165,71,783,130,188,210,173,103,88,65,94,462,3,35,383,11,1,2,421,102,230,161,113,152,88,2,215,114,1,61,209,203,256,10,58,208,58,188,163,32,399,6,108,162,93,42,82,58,143,21,39,62,30,82,266,23,215,46,163,16,13
 Effective AI	6948,600,2389,410
 Effective AML	2193
-Effective Administration	10759,76,2,1
+Effective Administration	10759,76,2,1,74
 Effective Altruism	5302
 Effective Date	762,502,20,583,1695,42,1292,1643,4229,61
 Effective Date This Procl	7538
@@ -192,7 +192,7 @@ Effects of Changes	1154,1897,1845
 Effects of ICT Use	5349
 Effects of Website Quality	5349
 Effectue	10876
-Effectuer	1005,309,724,2277,105,2534,1023,2849,16,16,18
+Effectuer	1005,309,724,2277,105,2534,1023,2849,16,16,18,30
 Effet	10858
 Effets	737,5003,3427,1222,323
 Effets RS.1	10858
@@ -209,7 +209,7 @@ Efficiency	718,71,1039,1667,1411,102,861,3713,575,611
 Efficiency Measures Adopted	10864
 Efficiency Metric Spectranet	6749
 Efficiency and Access	10768
-Efficient	34,361,493,300,94,1195,1649,1407,3810
+Efficient	34,361,493,300,94,1195,1649,1407,3810,1597
 Efficient Government	395
 Efficient ICT	10764
 Efficient Markets May Not Do	5700
@@ -234,7 +234,7 @@ Efulan	4209
 Efulu	4209
 Elon Musk's Department of Government Efficiency	7750
 Emerging Organisational Efficiency and Areas	6946
-Energy Efficiency	3487
+Energy Efficiency	3487,7469
 Energy Efficiency Act	7845
 Energy Efficiency Energy	9446
 Energy Efficiency Improvements	1818

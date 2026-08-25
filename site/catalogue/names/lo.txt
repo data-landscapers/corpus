@@ -237,6 +237,7 @@ Closer Look	1828,3579,676,1505
 Coast Lower Eastern Lower Eastern Lower	7869
 Coast South Rift Nairobi Lower Eastern	7869
 Coast and Lower Eastern	7869
+Cognitive Load Theory	10940
 Col. Lokiko	7249
 Col. Moses Paul Lokiko	7249
 Colectividades Locales	4209
@@ -678,7 +679,7 @@ LOGIVOIRE	2342
 LOH-DJIBOUA	2342
 LOI ADOPTE	9480
 LOI ADOPTE GET	9480
-LOI N	1272,9540,13
+LOI N	1272,9540,13,69
 LOI-DE-FINANCES-RECTIFICATIVES-2024.pdf	1272
 LOINC	8606,1425
 LOIS ET DECRETS ARRETES	4658
@@ -964,7 +965,7 @@ Locarno Film Festival	8610,233
 Located	3049,171,466,3689,948,1243,1210
 Locates	6542
 Locating	1988,1162,4254,47,1672
-Location	22,12,737,227,11,234,745,320,467,226,160,422,131,68,5,741,148,296,377,351,676,562,533,214,800,241,99,14,160,124,288,35,1429
+Location	22,12,737,227,11,234,745,320,467,226,160,422,131,68,5,741,148,296,377,351,676,562,533,214,800,241,99,14,160,124,288,35,1429,81
 Location Data Residency Compliance	6432
 Location Description	1988
 Location Name	1988
@@ -1020,7 +1021,7 @@ Logarithme	7655
 Logbook	9646
 Logbook. Justice Patricia Mande	9646
 Logbooks	3791,5855
-Logement	3045,351,729,13,2453,2300
+Logement	3045,351,729,13,2453,2300,2009,2
 Logements	4899,4055
 Logements Sociaux	1284
 Logged	1778
@@ -1039,7 +1040,9 @@ Logiciels	8637,594
 Logiciels de Base	6235
 Login	3212,2216,130,448,255,126,2866,1461,134,30
 Login.gov	10714
+Logique	10913
 Logique Résultats Indicateurs Sources	10874
+Logistic	10901
 Logistics	34,1794,2339,716,1029,107,927,2183
 Logistics Clean Energy Access	4972
 Logistics Corridors Map	5912
@@ -1124,7 +1127,7 @@ Lomuro	3583
 Lomé Charter	8192
 Lomé Data Centre	6446
 Lomé Declaration	8275
-Lomé Dialogue	10864
+Lomé Dialogue	10864,56
 Lomé ECOWAS Logistics Depot	6422
 Lomé Forum	8275
 Lomé Reference	5679
@@ -1185,6 +1188,7 @@ Long Rains	2775
 Long Rains Season Assessment Report. Nairobi	7548
 Long Range Planning	2093
 Long St	8999
+Long Tail Markets Outside	10954
 Long Term	1161
 Long Term Climate Change Strategy of The Gambia Final.pdf	1264
 Long Term Development Strategy	10781
@@ -1207,6 +1211,7 @@ Long-Term Model	9582
 Long-Term National Development Plan	789
 Long-Term Observers	9986
 Long-Term Strategy	2411,8357
+Long-distance	10958
 Long-haul	7897
 Long-run	168,1660
 Long-standing	8025
@@ -1286,7 +1291,7 @@ Lors du Global AI Dialogue	7124
 Lorsqu'elles	9278
 Lorsqu'il	17,20,1194,2130,2856
 Lorsqu'on	8678
-Lorsqu'un	17,20,1194,3452,2672,1160,616,147
+Lorsqu'un	17,20,1194,3452,2672,1160,616,147,1622
 Lorsqu'une	17,730,484,7222,827,262,745
 Lorsque	17,20,76,323,112,199,38,446,570,36,556,72,235,1720,473,488,526,773,274,5,373,14,9,200,15,85,58,17,269,64,4,152,284,350,415,57,139,78,114,235,233,132,3,132,155,171,96,12,2,9,6,34
 Lorsque Kantigui	5504
@@ -1329,6 +1334,7 @@ Lotus Bank School	7444
 Lotus Bank and Hackerbella Ltd	9878
 Lotus Bank's Edupartner	7444
 Lou Compernolle	10865
+Louart S	10940
 Loubna Tricha	8891
 Loud Colors ApS Lrytas M1-AUB	8530
 Loudima	3770,31
@@ -1373,6 +1379,7 @@ Lourino Chemane and Eugénio Alberto Macumbe	4214
 Loutété and Nkayi	3801
 Louvakou	2738
 Lovable	5513,974,392
+LovePDF	10914
 Lovedale	1009
 Loveira	3407
 Lover’s Walk	3654
@@ -1395,6 +1402,7 @@ Low Noise Block	6482
 Low Organizations Borrower Responsible Agency Instituto	2473
 Low Overall	2712,3867
 Low Page	1867
+Low Point of Sale	10901
 Low Priority	899
 Low Reporting Culture and Weak Public Confidence	6936
 Low Risk	5665
@@ -1428,7 +1436,7 @@ Low-risk AI	7548
 Low-value	6938,598
 Low. Crosswalk	297,233
 Lowell. Chris	10794
-Lower	582,2526,1661,203,90,101,334,86,849,161,79,851,612,707,489,653,734,20,25,5,25,63
+Lower	582,2526,1661,203,90,101,334,86,849,161,79,851,612,707,489,653,734,20,25,5,25,63,83
 Lower Casamance. Project	5056
 Lower Cost	582
 Lower Costs	6318
@@ -1869,6 +1877,7 @@ Station N47ame Latitude Longitude	736
 Station Name Latitude Longitude Altitude Antenna	736
 Statistique LOPM Loi	6959
 Ste Lord of David Traitement	10821
+Strategic Economic and Local Development Plans	10930
 Strategic Location and Connectivity Strength Mauritius	3292
 Strategic Outlook for Mining Technology Governance Looking	10069
 Strategic Plan for Pharmaceutical Logistics	4260
@@ -1885,6 +1894,7 @@ Synthesis. Louis-Philip	5256
 System LIC Low Income Countries LMIC	771
 Système Statistique National. UNE CONTINUITE LOGIQUE	9277
 Sérgio Lopes	7245
+TAM and Louart S	10940
 TECHNO LOGY	958
 TERMS OF THE LOCAL GOVERNMENT	6907
 TRCI INIE INS-SODE MINES LONACI Exploitation	2342

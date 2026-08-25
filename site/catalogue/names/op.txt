@@ -364,6 +364,7 @@ ELECTION MATERIALS AND OPENING OF POLLS	10049
 EMPLOYMENT BY MOBILE NETWORK OPERATORS	6000
 EPTC Options Assessment	6539
 EVOLUTION DES INVESTISSEMENTS DES OPERATEURS RAPPORT	998
+EXECUTION OPPORTUNITY IN AFRICA	10954
 EXECUÇÃO DE OPERAÇÕES DE PAGAMENTO	10755
 Eastern Business Kenya Markets Commentary Opinion	9646
 Economic Opportunities and Legal Challenges. Police Paper	2816
@@ -424,7 +425,7 @@ FCDO Programme Operating Framework	9630
 FIXED OPERATORS-	3862
 FM Manual for World Bank-Financed Investment Operations	2889
 FM Stations In Operation Ashanti	2776
-FOUNDATIONS FOR ECONOMIC OPPORTUNITY	10835,2,1
+FOUNDATIONS FOR ECONOMIC OPPORTUNITY	10835,2,1,74
 FOUNDATIONS FOR ECONOMIC OPPORTUNITY FOUNDATIONS	10759
 FOUNDATIONS FOR ECONOMIC OPPORTUNITY HUMAN DEVELOPMENT	10835,3
 FOUNDATIONS FOR ECONOMIC OPPORTUNITY PUBLIC ADMINISTRATION	10759
@@ -437,7 +438,7 @@ Feb-2026 Operation Closing	4688
 Fiabilidade Operacional	10755
 Fiber Optic	6832
 Fiber Optic Implementation Committee	3132
-Fiber Optics	3862
+Fiber Optics	3862,7086
 Fibre Optic	6671
 Fibre Optic Cable and Landing Stations	2677
 Fibre Optic Rollout	9362
@@ -1053,7 +1054,7 @@ Open Data Initiative. Retrieved	1243
 Open Data Initiatives	3810
 Open Data Institute	747,1,213,1023,3045,5788
 Open Data Inventory	769,8508
-Open Data Kit	1219,2488
+Open Data Kit	1219,2488,7212
 Open Data Le ROD	748
 Open Data Licensing and Publication Procedures Sectoral	3861
 Open Data L’objectif	1984
@@ -1186,6 +1187,7 @@ Open Sectors	8726,408,140
 Open Service	6985
 Open Sites	8999
 Open Sky	6891
+Open Smart Register Platform	10919
 Open Society	5700
 Open Society Foundation	8436
 Open Society Foundation11	10819
@@ -1243,7 +1245,7 @@ OpenAI Chief Scientist Jakub Pachocki	9592
 OpenAI Horizon	4781
 OpenAI and AWS	5967
 OpenAI and Advanced Micro Devices	7209
-OpenAI and Anthropic	8014,496,86,95,336,142,899
+OpenAI and Anthropic	8014,496,86,95,336,142,899,886
 OpenAI and Anthropic. CafeOne	7396
 OpenAI and Anthropic. Ernest Mwebaze	9263
 OpenAI and Claude	8405
@@ -1268,6 +1270,7 @@ OpenAI’s ChatGPT	6948,1653
 OpenAI’s GPT	8216
 OpenAI’s GPT-3.5	8510
 OpenAI’s Project Stargate	5161
+OpenAI’s US	10954
 OpenAN	2511
 OpenAPI	6423,1125
 OpenAPI Version	6423
@@ -1318,8 +1321,8 @@ OpenUp’s Data Pipeline for Narrative Storytelling	6729
 OpenUrl	7187
 Opendata	747,1,439
 Opendefinition.org	5246
-Opened	3313,1561
-Opening	1244,221,523,1348,993,92,255,38,288,239,179,143,355,95,84,641,10,179,44,167,17,274,188,33,52,79,93,89,87,293,547,192,14,111,131,31,24,29,116,385,711,142,17
+Opened	3313,1561,6082
+Opening	1244,221,523,1348,993,92,255,38,288,239,179,143,355,95,84,641,10,179,44,167,17,274,188,33,52,79,93,89,87,293,547,192,14,111,131,31,24,29,116,385,711,142,17,157
 Opening Date	4896
 Opening Doors for Zimbabwe’s Gold Producers	8639
 Opening Keynote	6936
@@ -1448,7 +1451,7 @@ Operation and Maintenance Phase Ensure	1988
 Operation and Maintenance Phase of Agrobusiness Activities	1988
 Operation of Data Center	9123
 Operation the Information Regulator	10729
-Operational	1554,167,81,16,61,212,1295,1048,354,745,144,199,270,296,29,197,270,235,105,124,146,100,103,414,176,436,346,114,221,155,3,486,666,25,19,7,22,3
+Operational	1554,167,81,16,61,212,1295,1048,354,745,144,199,270,296,29,197,270,235,105,124,146,100,103,414,176,436,346,114,221,155,3,486,666,25,19,7,22,3,76,17
 Operational Acceptance	7987
 Operational Account	3604
 Operational Accra	3386
@@ -1532,7 +1535,7 @@ Operationalized	7707
 Operationalizing	7561
 Operationalizing Data Free Flow	1243
 Operationally	4347,878,3058,1779,126,575
-Operations	236,384,97,337,564,370,299,2014,476,756,260,86,1872,379,999,108,719,823
+Operations	236,384,97,337,564,370,299,2014,476,756,260,86,1872,379,999,108,719,823,158
 Operations Analysts	6832
 Operations Centre SONA State	5533
 Operations Centres	2709
@@ -1579,7 +1582,7 @@ Operator Telesol	2776
 Operator Type Compliance	6432
 Operator and Market	2776
 Operator. Hence	3862
-Operators	718,18,1565,153,257,65,695,44,33,93,160,61,42,519,136,49,29,438,41,84,44,261,23,257,15,11,97,92,266,73,220,34,78,37,40,142,56,120,221,115,146,361,218,80,59,132,270,160,282,2,9,2,385,15,120,93,114,5,1,299,382,51,268
+Operators	718,18,1565,153,257,65,695,44,33,93,160,61,42,519,136,49,29,438,41,84,44,261,23,257,15,11,97,92,266,73,220,34,78,37,40,142,56,120,221,115,146,361,218,80,59,132,270,160,282,2,9,2,385,15,120,93,114,5,1,299,382,51,268,102
 Operators Are Expanding Beyond Connectivity Africa	6714
 Operators Increased International Capacity	718
 Operators Increased International Capacity Operators	718
@@ -1801,6 +1804,8 @@ Pascal Oparada	5212,3138
 Past Decade and Opportunities Ahead. Abidjan	10718
 Patient Operational Allergies and National	2477
 Patrice Operational	3386
+Patrice Tano VP Technical Operations	10956
+Patrice Tano VP Technical Operations Raxio	10956
 Pay TV Operators	6890
 Payment Gateway Operators	7909
 Payment Security Operations Centre	7928
@@ -1881,6 +1886,7 @@ RURA’S OPERATIONAL FRAMEWORK RURA	718
 Radio Amateur Operator’s Certificate	736
 Rakiya Opemi Yusuf	10424
 Rapid Response Options	3861
+Raxio Opens Angola’s Largest Data Centre	10956
 Ra’eesa Pather and Cheriese Dilrajh for Open Secrets	7910
 Real-Time Data Access for Operations	8817
 Real-time Manufacturing Operations	4434
@@ -1903,6 +1909,7 @@ Relatório de Operação de Infra-estrutura	2866
 Remote Job Opportunities	9203
 Remote Jobs Opportunities	9203
 Republic of Zimbabwe. Opening Date	4896
+Requirements Criteria Operators	10911
 Reshaping Opportunities and Deepening Vulnerabilities	10718
 Residence Visa TTOS Trusted Tour Operator	5533
 Resource Optimization	3487
@@ -1972,7 +1979,7 @@ Security Considerations Operational	9123
 Security Operation Center	6237
 Security Operations Center	1777,2066,2989,888,3001
 Security Operations Centers	3604,2073,3630,868,546
-Security Operations Centre	2662,47,628,747,1449,260,1153,1529,225,1028,111,409,57,416
+Security Operations Centre	2662,47,628,747,1449,260,1153,1529,225,1028,111,409,57,416,235
 Security Operations Centre SQL Structured Query	6432
 Security Operations Centres	3787
 Security Operations and Management Incident	9123

@@ -285,7 +285,7 @@ Ivoire Plans AI University	6449
 Jamhuriya University	6622
 Jiage Qian Johns Hopkins University	1212
 Jimma University	1219
-Johns Hopkins University	10881
+Johns Hopkins University	10881,38
 Johns Hopkins University School of Advanced International	7358
 Jomo Kenyatta University of Agriculture and Technology	6946,2390,1017
 Joseph the Ki-Zerbo University of Ouagadougou	10864
@@ -456,6 +456,7 @@ Programas de Acesso Universal	2866
 Prossy Kuteesa of Ndejje University	8710
 Proyecto de Máster Universitarios	4209
 Présidente de Sorbonne Université Cette	6514
+Public Hygiene and Universal Health Coverage of Côte	10928
 Public Universities Higher	6832
 Public and Private Universities	2775
 Pune University	4896
@@ -650,7 +651,7 @@ Universal Electronic Communications Service	3699
 Universal Electronic Payment System	2939
 Universal Financial Access	10775
 Universal Guidelines for AI	7678
-Universal Health Coverage	396,508,357,2343,561,136,2093,1060,377,386,717,270,651,474,312,135,89
+Universal Health Coverage	396,508,357,2343,561,136,2093,1060,377,386,717,270,651,474,312,135,89,55
 Universal Health Coverage Day	10776
 Universal Health Coverage Roadmap	9204
 Universal Health Coverage UKB	10776
@@ -764,7 +765,7 @@ Universities South Africa	6832
 Universities South Africa WFH	6832
 Universities and Gambian Secondary Schools	1000
 Universities and Number of Students Funded	2775
-University	582,317,101,1093,682,212,399,740,322,543,674,389,314,315,149,319,323,74,474,108,473,257,155,113,1,83,486,157,488,198,59
+University	582,317,101,1093,682,212,399,740,322,543,674,389,314,315,149,319,323,74,474,108,473,257,155,113,1,83,486,157,488,198,59,340
 University B	8022
 University College Dublin	10335
 University College London	899,3530,990
@@ -793,7 +794,7 @@ University of Algiers	4151
 University of Amsterdam	6487,392,1557
 University of Aveiro	3004
 University of Bangui	1189,1718,2546
-University of Basel	7418
+University of Basel	7418,3501
 University of Bath	6948
 University of Batna	8606
 University of Belgrade	10780
@@ -946,6 +947,7 @@ Universitário. Fiscalização	10750
 Université	12,939,296,3155,205,1161,573,618,42,885,246,189,245,478,1150,65,93,140,1,83,245
 Université Abdelmalek Essaâdi de Tétouan	8876
 Université Al Akhawayn	8891
+Université Alassane Ouattara	10919
 Université Alassane Ouattara de Bouaké	6084
 Université Alger	9244
 Université Aube Nouvelle	10259

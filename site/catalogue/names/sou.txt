@@ -213,6 +213,7 @@ Code for South Africa	961
 Collège Catholique Cours de Soutien	10821
 Colonel Soumana Boubacar Garanké	2327
 Colonel-Major Souleymane Amadou Moussa	7374,2193,101
+Comité Sous-préfectoral de Gestion Foncière Rurale	10936
 Commission de Soumission	10876
 Commission of South Africa	10729
 Common Market for Eastern and Southern Africa	26,1,1,2263,1457,12,778,2001,481,576,367,76,255,41,818,29,834,1,296,59
@@ -361,6 +362,7 @@ Ericsson South Africa	8077,1119
 Ericsson South Africa. Multinational	9196
 Ericsson West and Southern Africa Ericsson and MTN	10666
 Ericsson West and Southern Africa. Júlio Gonçalves	2543
+Esri South Africa College. Building	10950
 Establish the South African	396
 Establishment of NREN South Sudan	6928
 Eswatini Africa Southern Africa Mbabane High	10840
@@ -812,6 +814,7 @@ Occupé Sous-emploi Sous-emploi	737
 Open Science for South Africa	5246
 Orçamento da União Europeia António Freitas de Sousa	4938
 Otherwise South Africa	432,1
+Ousmane Soumahoro	10942
 Outlook Report. South Africa	6266
 Outside South Africa	8036
 PIB Delhi India and South Africa	6480
@@ -928,6 +931,8 @@ SAPS South African Police Service SARB	5533
 SCC1 Secondary Sources De Hert P	8776
 SEA Uganda Rwanda Zambia South Sudan	10793
 SENO SOUM	10847
+SIGNATURE SOUS FORME ELECTRONIQUE	10906
+SIGNATURE SOUS FORME ELECTRONIQUE LE PRESIDENT	10896
 SMART Zambia Southern Provincial ICT Unit	7503
 SOUBER HASSAN	4919
 SOUBRE. Néanmoins	2342
@@ -952,6 +957,7 @@ SOUROU TX Prom	10847
 SOUROU Total Région	10847
 SOUROU Urbain	10847
 SOUS-SECTEUR POSTAL	3396
+SOUS-SECTEURS ET SERVICES CRITIQUES	10906
 SOUSCRIPTION DE L’ETAT IVOIRIEN Le Conseil	2342
 SOUTENU PAR EISA	9480
 SOUTENUE PAR L’AUGMENTATION DES CAPACITÉS	2342
@@ -984,6 +990,7 @@ Secteur Sous- Entreprise SAe SARL GIE	10875
 Secteur Sous- Homme Effectif Total Pourcentage	10875
 Secteur Sous-secteur Affilié Non	10875
 Secteur Sous-secteur Moyenne Effectif Primaire Secondaire	10875
+Sekou Soumahoro	10940
 Selection Approach Sources	8301
 Senator Karen Nyamu. South Africa	5463
 Senegal South Sudan	5985
@@ -1031,6 +1038,7 @@ Souley de Paris	10389
 Souleymane Diallo	2582
 Souleymane Diarrassouba	2453,3996
 Souleymane KABORE	8321
+Souleymane Yeo	10940
 Souleymane Zan Santé	10812
 Soulignant	8553
 Soum le TBS	737
@@ -1071,7 +1079,7 @@ Source-stated	4466
 SourceID	55
 SourceModified	5598
 Sourced	3422,345,470,812,1885,415,2215
-Sources	11,518,58,56,94,477,614,116,37,164,237,317,76,58,351,1,158,88,4,142,246,391,31,186,80,14,94,169,352,143,102,270,370,129,87,73,63,113,82,31,30,102,136,50,14,216,305,92,578,45,49,216,244,110,25,76,84,148,281,101,2,1,105,83,14,204,1,77,70,15,80,31,344,186,41,4,18,48,6,2,1,23
+Sources	11,518,58,56,94,477,614,116,37,164,237,317,76,58,351,1,158,88,4,142,246,391,31,186,80,14,94,169,352,143,102,270,370,129,87,73,63,113,82,31,30,102,136,50,14,216,305,92,578,45,49,216,244,110,25,76,84,148,281,101,2,1,105,83,14,204,1,77,70,15,80,31,344,186,41,4,18,48,6,2,1,23,51
 Sources A1- Disclosure	7548
 Sources AFS AFS CRAN Portal	1944
 Sources AFS AFS CRAN Portal Table	1944
@@ -1109,6 +1117,7 @@ Sous la Présidence de Son Excellence	4402
 Sous le Haut Patronage du Président	4989
 Sous-Comité	3857
 Sous-Secrétaire	8895,160
+Sous-Sectorielles	10913
 Sous-axe	10876
 Sous-direction Sous-direction	2342
 Sous-direction du Sous-direction	2342
@@ -1132,7 +1141,7 @@ Soutenir	643,1403,2277,4568,1939
 Soutenu	1984,2108,1067,837,72,291
 Soutenue	5694,3818,302
 South	40,587,139,23,454,21,422,165,1732,98,490,273,231,567,360,359,425,135,72,198,41,96,32,733,433,1003,108,162,153,187,990,132
-South Africa	52,38,4,11,78,36,17,6,7,69,4,54,20,6,1,8,7,10,4,1,27,2,48,5,29,16,11,15,9,1,15,1,8,1,2,1,25,24,2,8,1,2,28,39,13,1,52,1,1,14,22,4,1,51,13,21,1,9,1,3,29,19,4,3,20,2,16,1,2,1,4,64,8,1,1,3,1,32,2,22,10,2,33,2,1,118,1,41,14,16,31,55,4,13,13,2,2,36,15,42,39,9,42,3,1,69,2,2,6,32,17,21,3,19,26,1,1,4,7,9,12,13,12,96,9,13,1,1,93,36,31,16,1,13,3,19,23,65,6,36,33,26,3,2,1,1,1,6,6,1,2,11,17,3,23,6,6,7,7,5,34,2,15,5,10,10,22,38,13,43,4,4,68,41,2,6,1,2,2,9,16,25,3,5,5,1,9,16,16,12,38,8,22,18,34,28,9,42,26,54,8,26,13,14,30,4,24,7,8,6,37,1,11,21,22,4,15,1,2,21,2,1,14,15,2,35,37,2,10,23,22,58,14,5,14,16,8,25,7,3,5,5,12,8,2,66,15,40,41,1,23,2,39,14,27,10,2,12,3,65,99,2,7,10,1,2,3,21,35,7,9,5,29,7,22,7,12,31,34,22,33,8,2,2,38,11,3,15,15,8,7,3,11,3,35,13,15,17,22,2,10,2,6,2,16,2,18,9,8,7,3,9,6,4,1,5,24,26,12,2,14,3,6,14,14,23,2,2,6,6,4,13,11,4,1,5,4,5,2,60,3,2,22,13,1,2,6,29,7,12,19,1,4,19,11,24,4,5,22,4,11,7,13,5,14,14,1,2,2,10,5,4,1,5,1,56,7,10,1,4,18,11,2,6,42,16,7,2,17,13,7,18,4,3,3,1,2,2,34,8,8,3,24,8,3,1,3,13,5,64,1,17,5,47,15,8,3,1,1,13,4,14,3,10,1,18,11,22,7,6,5,1,19,3,16,3,29,2,26,3,18,1,23,16,37,4,4,9,6,4,2,20,9,6,1,11,3,9,8,6,7,8,3,10,10,10,3,16,1,34,2,3,11,7,1,17,2,4,6,1,8,5,1,1,26,3,8,17,1,1,16,17,1,6,2,14,19,1,8,10,5,1,2,4,8,24,3,2,2,1,8,2,13,10,9,16,1,1,11,5,22,15,4,1,2,6,2,5,5,3,14,3,10,20,1,8,2,1,7,6,5,17,7,1,6,11,7,3,2,10,13,9,11,13,12,3,2,1,19,6,9,16,5,4,16,18,5,24,17,8,9,12,15,11,11,9,7,5,26,3,5,1,3,21,5,2,1,4,7,14,16,4,4,5,4,2,1,1,9,30,1,28,24,12,3,5,5,1,1,1,15,8,3,8,34,1,8,9,5,3,33,24,11,18,23,13,4,1,9,17,7,2,3,1,2,1,1,2,1,3,4,2,1,1,7,1,32,11,1,22,15,2,1,1,1,3,3,5,1,18,12,9,26,27,26,4,2,5,1,28,53,21,11,12,11,22,4,8,7,8,9,27,1,5,21,50,8,4,8,7,1,2,2,1,1,11,2,26,8,8,4,4,2,10,67,34,2,1,56,1,5,1,5,5,35,5,18,2,7,15,7,59,3,9,8,7,3,10,16,15,8,1,7,1,3,1,22,2,5,1,1,1,1,16,37,39,12,1,8,7,61,19,1,18,18,5,3,84,37,66,12,10,9,23,1,5,8,3,1,11,31,1,1,4,1,8,6,1,4,4,53,2,2,4,1,1,46,65,7,2,6,1,7,27,23,6,8,1,1,16,30,17,5,21,18,1,41,18,2,27,4,4,12,17,7,5,1,2,1,23,2,18,14,41,3,2,2,1,2,9,4,54,31,17,12,28,8,8,5,3,16,13,1,1,1,1,50,1,6,6,21,14,17,20,17,24,8,7,6,3,2,4,15,4,1,21,8,1,3,1,1,2,5,5,24,3,2,6,10,5,20,6,2
+South Africa	52,38,4,11,78,36,17,6,7,69,4,54,20,6,1,8,7,10,4,1,27,2,48,5,29,16,11,15,9,1,15,1,8,1,2,1,25,24,2,8,1,2,28,39,13,1,52,1,1,14,22,4,1,51,13,21,1,9,1,3,29,19,4,3,20,2,16,1,2,1,4,64,8,1,1,3,1,32,2,22,10,2,33,2,1,118,1,41,14,16,31,55,4,13,13,2,2,36,15,42,39,9,42,3,1,69,2,2,6,32,17,21,3,19,26,1,1,4,7,9,12,13,12,96,9,13,1,1,93,36,31,16,1,13,3,19,23,65,6,36,33,26,3,2,1,1,1,6,6,1,2,11,17,3,23,6,6,7,7,5,34,2,15,5,10,10,22,38,13,43,4,4,68,41,2,6,1,2,2,9,16,25,3,5,5,1,9,16,16,12,38,8,22,18,34,28,9,42,26,54,8,26,13,14,30,4,24,7,8,6,37,1,11,21,22,4,15,1,2,21,2,1,14,15,2,35,37,2,10,23,22,58,14,5,14,16,8,25,7,3,5,5,12,8,2,66,15,40,41,1,23,2,39,14,27,10,2,12,3,65,99,2,7,10,1,2,3,21,35,7,9,5,29,7,22,7,12,31,34,22,33,8,2,2,38,11,3,15,15,8,7,3,11,3,35,13,15,17,22,2,10,2,6,2,16,2,18,9,8,7,3,9,6,4,1,5,24,26,12,2,14,3,6,14,14,23,2,2,6,6,4,13,11,4,1,5,4,5,2,60,3,2,22,13,1,2,6,29,7,12,19,1,4,19,11,24,4,5,22,4,11,7,13,5,14,14,1,2,2,10,5,4,1,5,1,56,7,10,1,4,18,11,2,6,42,16,7,2,17,13,7,18,4,3,3,1,2,2,34,8,8,3,24,8,3,1,3,13,5,64,1,17,5,47,15,8,3,1,1,13,4,14,3,10,1,18,11,22,7,6,5,1,19,3,16,3,29,2,26,3,18,1,23,16,37,4,4,9,6,4,2,20,9,6,1,11,3,9,8,6,7,8,3,10,10,10,3,16,1,34,2,3,11,7,1,17,2,4,6,1,8,5,1,1,26,3,8,17,1,1,16,17,1,6,2,14,19,1,8,10,5,1,2,4,8,24,3,2,2,1,8,2,13,10,9,16,1,1,11,5,22,15,4,1,2,6,2,5,5,3,14,3,10,20,1,8,2,1,7,6,5,17,7,1,6,11,7,3,2,10,13,9,11,13,12,3,2,1,19,6,9,16,5,4,16,18,5,24,17,8,9,12,15,11,11,9,7,5,26,3,5,1,3,21,5,2,1,4,7,14,16,4,4,5,4,2,1,1,9,30,1,28,24,12,3,5,5,1,1,1,15,8,3,8,34,1,8,9,5,3,33,24,11,18,23,13,4,1,9,17,7,2,3,1,2,1,1,2,1,3,4,2,1,1,7,1,32,11,1,22,15,2,1,1,1,3,3,5,1,18,12,9,26,27,26,4,2,5,1,28,53,21,11,12,11,22,4,8,7,8,9,27,1,5,21,50,8,4,8,7,1,2,2,1,1,11,2,26,8,8,4,4,2,10,67,34,2,1,56,1,5,1,5,5,35,5,18,2,7,15,7,59,3,9,8,7,3,10,16,15,8,1,7,1,3,1,22,2,5,1,1,1,1,16,37,39,12,1,8,7,61,19,1,18,18,5,3,84,37,66,12,10,9,23,1,5,8,3,1,11,31,1,1,4,1,8,6,1,4,4,53,2,2,4,1,1,46,65,7,2,6,1,7,27,23,6,8,1,1,16,30,17,5,21,18,1,41,18,2,27,4,4,12,17,7,5,1,2,1,23,2,18,14,41,3,2,2,1,2,9,4,54,31,17,12,28,8,8,5,3,16,13,1,1,1,1,50,1,6,6,21,14,17,20,17,24,8,7,6,3,2,4,15,4,1,21,8,1,3,1,1,2,5,5,24,3,2,6,10,5,20,6,2,43,14,6,2
 South Africa ABSTRACT	8604,1
 South Africa AI	6886
 South Africa AI Artificial Intelligence API	5533
@@ -1246,7 +1255,7 @@ South Africa and Botswana	1815,1368,2080,474,1730
 South Africa and Brazil	3840
 South Africa and Cape Verde	1463
 South Africa and China	9767
-South Africa and Egypt	6845,1172,16,819,1225,198,298
+South Africa and Egypt	6845,1172,16,819,1225,198,298,369
 South Africa and Europe	2773
 South Africa and Ghana	1805,8797
 South Africa and Guinea	403
@@ -1399,6 +1408,7 @@ South Africa. MoRENet	3840
 South Africa. NDB	927
 South Africa. Nedbank	411
 South Africa. Nicholas Ma	8208
+South Africa. Nigeria	10954
 South Africa. Office	411
 South Africa. On-chain	9367
 South Africa. Organisationally	8021
@@ -1731,7 +1741,7 @@ South IUA Africa	1009
 South India	771
 South Indian SMEs	9129
 South Kivu	1867,8230
-South Korea	444,799,660,199,222,123,167,44,62,100,105,319,41,803,171,188,114,56,214,532,190,519,183,47,487,1,207,41,38,91,279,25,131,109,20,395,137,11,121,397,1035,330,44,177,66,223
+South Korea	444,799,660,199,222,123,167,44,62,100,105,319,41,803,171,188,114,56,214,532,190,519,183,47,487,1,207,41,38,91,279,25,131,109,20,395,137,11,121,397,1035,330,44,177,66,223,290
 South Korea NIRS Daejeon	7471
 South Korea and Australia	10038
 South Korea and Cape Verde	3244
@@ -1913,7 +1923,7 @@ South- South	4848
 South-Africa2019.pdf. Al-Badi	9128
 South-African	5060
 South-East	3862
-South-East Asia	4676
+South-East Asia	4676,6278
 South-East Asia-Middle East-Western Europe	4676
 South-East Territorial Zone	6499
 South-East and North-west	3862
@@ -2004,7 +2014,7 @@ Southern African Climate Outlook Forum	8006
 Southern African Community	10169
 Southern African Customs Union	3653,4516
 Southern African Development Commu-	2775
-Southern African Development Community	26,1,1,107,826,1,281,108,362,404,656,2,227,474,283,102,93,23,1270,16,71,59,38,102,184,155,58,422,11,241,37,23,128,70,117,126,902,12,1,19,75,14,1,18,121,109,597,155,270,293,16,178,131,58,94,152,3,90,7,167,135,36,8
+Southern African Development Community	26,1,1,107,826,1,281,108,362,404,656,2,227,474,283,102,93,23,1270,16,71,59,38,102,184,155,58,422,11,241,37,23,128,70,117,126,902,12,1,19,75,14,1,18,121,109,597,155,270,293,16,178,131,58,94,152,3,90,7,167,135,36,8,192
 Southern African Development Community SDG Sustainable	1243
 Southern African Development Community SGIA	2816
 Southern African Development Community Secretariat	962
@@ -2178,6 +2188,7 @@ VC Fund Managers South Africa P1	4972
 VIII. Conclusion South Africa	6832
 VP and CEO of Cassava Technologies South Africa	6353
 Vera Daves de Sousa	4557
+Very Different Intensity Africa and South-East Asia	10954
 Vice President and Head of Ericsson South	786
 Vice President of South Sudan	3583,1
 Vieux Abdoul Rachid SOULAMA	10885

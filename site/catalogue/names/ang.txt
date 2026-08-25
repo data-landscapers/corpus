@@ -45,7 +45,7 @@ ANGORA Stéphane	2342
 ANGOSAT	1215,4327
 ANGOSAT II	6585
 ANGOSAT-1	4350
-ANGOSAT-2	4350,1417,220,55,440,31,284,202,263,1619,115
+ANGOSAT-2	4350,1417,220,55,440,31,284,202,263,1619,115,1963
 ANGOSAT-2 Moxico	6999
 ANGOTIC	3966,138,916,86,1479,11,14,7,2,5,4,8,45
 ANGOTIC Angola ICT Forum	6628
@@ -323,12 +323,12 @@ Angola's Law	16
 Angola's MPLA	9399
 Angola's Minister of Telecommunications	3555,312,11,1560,1158,32,36,133
 Angola's Ministry	9399
-Angola's Ministry of Telecommunications	6482
+Angola's Ministry of Telecommunications	6482,4477
 Angola's National Broadband Network	1088
 Angola's National Development Plan	6881
 Angola's National Institute	2573
 Angola's National Space Program Management Office	6797
-Angola's National Space Programme Management Office	6618
+Angola's National Space Programme Management Office	6618,4341
 Angola's OGE	4848
 Angola's Political Earthquake	9399
 Angola's President Signs Repressive Civil Society	9399
@@ -403,7 +403,7 @@ Angola.Segundo	7667
 Angola.Subsidiária	7667
 Angola.md	1770
 AngolaOms	10776
-Angolan	561,217,310,88,691,375,301,30,218,13,332,470,1,104,269,64,231,107,1039,168,991,87,130,84,227,26,829,56,1,102,6,1,296,50,565,65,144,150,984,287,78,6,7,1,1,2,3,7,1,3,1,1,3,6
+Angolan	561,217,310,88,691,375,301,30,218,13,332,470,1,104,269,64,231,107,1039,168,991,87,130,84,227,26,829,56,1,102,6,1,296,50,565,65,144,150,984,287,78,6,7,1,1,2,3,7,1,3,1,1,3,6,169
 Angolan Bank of Investments	10775
 Angolan Banks Association	10775
 Angolan Communications Institute	10771
@@ -672,6 +672,7 @@ GSMA Head Office One Angel Lane	10856
 Gabon Angel Investor Network	10486
 Gabon Nigeria Madagascar Eswatini Angola Mali	10837
 Garantia da Cidadania Angolana	6995
+General EnquiryRaxio Angola AO1Raxio Côte	10956
 General Manager of Angola	5438
 General Manager of Angola Space Program	6173
 General Tax Administration Angola	6042
@@ -880,7 +881,8 @@ REPUBLIC OF ANGOLA and INTERNATIONAL BANK	1914
 REPÚBLICA DE ANGOLA MINISTÉRIO DA EDUCAÇÃO	10766
 REPÚBLICA DE ANGOLA PROPOSTA DE LEI	3519
 RGÃO OFICIAL DA REPÚBLICA DE ANGOLA	539
-Raxio Angola	3686
+Raxio Angola	3686,7270
+Raxio Opens Angola’s Largest Data Centre	10956
 Recent Angola	10781
 Reference Angwin	8436
 Regulators Algeria Financial Stability Committee Angola	6938

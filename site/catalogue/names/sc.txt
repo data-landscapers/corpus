@@ -34,6 +34,7 @@ ATLANTIS LIFE SCIENCE LIMITED Data Controller	7167
 ATLANTIS LIFE SCIENCE LIMITED Data Processor	7167
 AU Chief AI Scientist	4528
 AU Science	1814
+AU score	10940
 About Scancom PLC MTN Ghana	5136
 Absa-UPSA Law School Quarterly Banking Roundtable	8697
 Academia and Scientific Networks	3861
@@ -255,6 +256,8 @@ Cell C’s Net Promoter Score	10733
 Center for International Earth Science Information Network	10835,3
 Central African Regional Doctoral School	766
 Central Europe. Scale	5081
+Centre National de Matériels Scientifiques	10925
+Centre Suisse de Recherches Scientifiques	10919
 Centre for Applied Data Science	8142
 Centre for National Distance Learning and Open Schooling	580
 Centre for Nuclear Science and Technology	5328
@@ -571,6 +574,7 @@ Eric Schmidt	2816
 Ericsson and Schneider Electric	10527
 Espérance de Vie Scolaire ERI-ESI	737
 Ethical and Scientific Committee for Research	7313
+Ethique des Science	10919
 Eurasia Proceedings of Educational and Social Sciences	6948
 Europe. Schneider	4933
 European Open Science Cloud	3861,3452
@@ -581,6 +585,7 @@ Exhibitions and Tourism Scheme	5533
 Exhibitions and Tourism Scheme. Through MEETS	5533
 Expanded Scope of Application	7391
 Express Penalty Scheme	3572
+FC score	10940
 FIFTEENTH SCHEDULE	7845
 FIFTH SCHEDULE	7845
 FIRST SCHEDULE	587,2122,5136
@@ -633,6 +638,7 @@ Fourth Schedule. Preservation	736
 Fourth of Fourth Schedule	6921
 Fr. Kemper Sisokhe Secondary Schools	6946
 France's Scaleway	6879
+Freedom House Score	10908
 Freemuse Google Scholar Simmert T	9739
 Frequency Usage Fees. Fifth Schedule	736
 Future of Science and Science	5246
@@ -644,7 +650,7 @@ GEAR APPROACH TO SCALE-UP Drawing	10852
 GENERAL PROVISIONS FOR THIS SCHEDULE Penalties	3714
 GIGA Project School Connectivity Dashboard	899
 GIZ and Human Sciences Research Council	4126
-Garde des Sceaux	1214,1594,237,74,1006,1352,390,1037,1074,87,122,49,166,1434,169
+Garde des Sceaux	1214,1594,237,74,1006,1352,390,1037,1074,87,122,49,166,1434,169,893
 Gear Scale Approach	10852
 Generation Study and Screen4Care	10188
 Geographic Scope	7662
@@ -757,6 +763,7 @@ INCLUSION SCORE	10759,76,3
 INFRASTRUCTURES SCOLAIRES V.1 Répartition	10847
 INTERNATIONAL SCENE	2775
 ISMG Schwartz	3279
+ITU score	10940
 Identification Scheme	10819
 Ilbissil Girls Secondary School	10313
 Ilesa Grammar School PU	10049
@@ -985,6 +992,8 @@ Martin Schaaper	10840
 Martin Schindler	7545,59
 Martin Schindler and Andrew Tiffin	6965,580
 Masinde Muliro University of Science and Technology	6946
+Master Urban Planning Scheme of Greater	10930
+Master Urban Planning Scheme of Greater Abidjan	10930
 Master of Science	1154,3882,279,1517,114
 Mastercard Foundation Scholar	432
 Mastercard Foundation Scholars Program	146,240,317,207
@@ -1028,7 +1037,7 @@ Minister of Scientific Research and Innovation	8506
 Minister of Technology and Science	7950
 Minister of Technology and Science Felix Chipota Mutati	6187
 Minister of Technology and Science of Zambia	7793,157
-Ministry of Higher Education and Scientific Research	4762,1985,146
+Ministry of Higher Education and Scientific Research	4762,1985,146,4055
 Ministry of Higher Education and Scientific Research Iraq	2958
 Ministry of Higher and Tertiary Education Innovation Science	4528
 Ministry of Science	2473,4007,4300
@@ -1077,6 +1086,7 @@ National Commission for Science and Technology	1554,2885
 National Commission of Science and Technology	1154
 National Credit Score	10330
 National Deep Science Institute	4126
+National Ethics Committee of Life Sciences and Health	10919
 National Forensic Science Authority	1988
 National Health Insurance Scheme	2714,854,2431,1696
 National Higher School of Artificial Intelligence	9703
@@ -1172,10 +1182,13 @@ Overall Connectivity Score	2552
 Owo Smart Green School	6211
 Oyo School Pupils	2355,176,4,1,56,3,339,96,901,1006,1761,673
 Oyo Schoolchildren Regain Freedom	7176
+PA score	10940
 PAGE-IMAGE SCAN	2561
 PAYMENT SCHEDULE	3678
 PBF Scheme	10829
 PDI2T. Scope	715
+PE score	10940
+PEOU score	10940
 PHASED IMPLEMENTATION SCHEDULE AND MILESTONES	3861
 PIU. Sections and Description Schedule	10829
 POM. Schedule	10829
@@ -1183,9 +1196,11 @@ PORTFOLIO COMMITTEE ON SCIENCE	9126
 PPCC Chief Executive Officer Bodger Scott	9088
 PPCC Executive Director Bodger Scott Johnson	9338
 PR Activity Schedule Media Elements	8999
+PR score	10940
 PRINTERS AND SCANNERS STANDARDS AND GUIDELINES	34
 PROSPECTUS SCHEDULE	3714
 PSPs Scope System Type Binary Indicates	7221
+PU score	10940
 PURPOSE AND SCOPE	6907
 Pakistan Journal of Life and Social Sciences	7759
 Paragraphs of Schedule	3714
@@ -1274,6 +1289,7 @@ RCZ Call for Scholarships	1154
 REGIONAL SCHOOL OF JOURNALISM BEGINS CIRCLE	10581
 REHABILITATION AND EXPANSION OF SCHOOLS Date	1988
 RELATED Tech and Science	3962
+RGSSI btnqMo7.pdf Scanned PDF	10906
 RMRS-D RS SAD SCIMR SCRP SDSI	10858
 RPCC. Guinea-Bissau. Section I.B.1 of Schedule	1264
 RPCC. Guinea. Section I.B.1 of Schedule	1264
@@ -1286,7 +1302,7 @@ Rapid Roll-Out Scenario	10812
 Rapid Roll-Out Scenario Recommendations	10812
 Rapid Scan	899
 Rapid Scan. Creative Commons Attribution	1248
-Recherche Scientifique	12,725,446,525,188,800,21,258,221,5695,1930
+Recherche Scientifique	12,725,446,525,188,800,21,258,221,5695,1930,104
 Recherche Scientifique CNRST Centre National	12
 Recherche Scientifique FAST Faculté des Sciences	12
 Recipient’s Ministry of Science	2473
@@ -1354,6 +1370,7 @@ SCANFORM	9273
 SCANFORM. Bien	9273
 SCB Bank	3279,85
 SCC1 Secondary Sources De Hert P	8776
+SCCARTO	10936
 SCD Systematic Country Diagnostic SIAC Serviços	10765,10
 SCDEs	899
 SCEE-AES	7670
@@ -1414,6 +1431,7 @@ SIXTH SCHEDULE	7845
 SIXTH SCHEDULE Fine	7845
 SMB Scanner	3336
 SN Computer Science	8604
+SN score	10940
 SOCIAL SCENE Chapter	2775
 SOCIAL SCREENING FORM FOR REHABILITATION	1988
 SOCIAL SCREENING FORM Filled	1988
@@ -1435,8 +1453,8 @@ ScPahlaesaen3d	10157
 Sca'ifltooJJt	1009
 Scalability	5551,881,1050,2373
 Scalability Testing	5665
-Scalable	3604,3087,313,984,617,841
-Scalable Easily	9446
+Scalable	3604,3087,313,984,617,841,1510
+Scalable Easily	9446,1510
 Scalable Information Systems	8022
 Scalabrini Centre of Cape Town	5533
 Scalar	5393,53
@@ -1449,6 +1467,7 @@ Scale	899,357,35,1,1,1,1,1,136,228,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,149,4,57,172,1,
 Scale AI	4972,3007
 Scale Accelerators	2957
 Scale Africa's Digital and AI Economy	7596
+Scale AgriFood Supply Chain Agricultural	10931
 Scale B. TWALA M L Judge	2307
 Scale C. Order	2307
 Scale Centers	2420
@@ -1524,6 +1543,7 @@ Scandium	9594
 Scanjet Pro	34
 Scanlon	5257
 Scanneador	794
+Scanned PDF	10895,1,1,1,5,1,1
 Scanner	3389
 Scanner Features Ultrasonic Multi Feed Detection	34
 Scanner Specifications DATE QUANTITY	34
@@ -1557,7 +1577,7 @@ Schalkwyk	1243
 Scharpf	7451
 Schauer	7451
 Schaumburg	9237
-Schedule	3,19,4,387,323,236,237,14,41,486,97,67,74,11,627,83,18,987,675,1,1,1,340,801,154,185,560,475,14,1,276,350,297,745,13,237,597,1331,61,27
+Schedule	3,19,4,387,323,236,237,14,41,486,97,67,74,11,627,83,18,987,675,1,1,1,340,801,154,185,560,475,14,1,276,350,297,745,13,237,597,1331,61,27,100
 Schedule III.B.1	10829
 Schedule IV	9855
 Schedule Incentive Schedule	7548
@@ -1586,7 +1606,7 @@ Schema Examples	6423
 Schema ID	6423
 Schema Introspection	6423
 Schematic	8604,2215
-Scheme	736,4160,1517,533,602,3271
+Scheme	736,4160,1517,533,602,3271,82
 Scheme A Scheme	10819
 Scheme Act	7845
 Scheme Authority	10819
@@ -1615,6 +1635,8 @@ Schimmelfennig	8460
 Schindler	4676
 Schindler and Tiffin	7545
 Schipper and Araujo2024	8436
+Schippers and Fayeeza Kathree-Setiloane	10955
+Schippers and Kathree-Setiloane	10955
 Schlegel	9237
 Schleswig-Holstein	7966
 Schlozman	2096
@@ -1710,7 +1732,7 @@ Schuppan	2096
 Schutz JA	2307
 Schutzgebiete	1132
 Schwab	6832,446
-Schwartz	3279
+Schwartz	3279,7661
 Schwarz	236
 Schwarz EUR	6946
 Schwarz GmbH ContentLens.ai Barcelona Provincial Council	8530
@@ -1784,7 +1806,7 @@ Science359	8891
 ScienceBlog	5224,28
 ScienceDirect	7759,413,13,57,363,627,5
 ScienceDirect and Wiley	8605
-Sciences	1154,29,713,200,1299,4874,607,1904,67,8,38
+Sciences	1154,29,713,200,1299,4874,607,1904,67,8,38,47
 Sciences. The Malawian	7841
 Scientific	789,181,1018,970,903,4519,149,599,1718
 Scientific Advisor	10852
@@ -1838,7 +1860,7 @@ Scission	10875
 Scolarisation	737,10110
 Scolarisation TIC Technologies	12
 Scombined	8606
-Scope	25,3,208,526,97,150,176,24,5,9,20,94,14,163,72,1,5,13,132,5,43,9,83,36,75,102,5,64,1,48,217,40,314,423,5,389,32,1,22,27,78,105,24,159,56,13,16,173,64,16,11,97,1,27,22,1,193,162,236,59,1,6,61,406,199,39,529,133,189,78,59,46,1,122,23,2,3,133,181,49,97,183,59,101,258,53,344,44,163,11,297,2,39,21,186,294,1,484,69,31,576,98
+Scope	25,3,208,526,97,150,176,24,5,9,20,94,14,163,72,1,5,13,132,5,43,9,83,36,75,102,5,64,1,48,217,40,314,423,5,389,32,1,22,27,78,105,24,159,56,13,16,173,64,16,11,97,1,27,22,1,193,162,236,59,1,6,61,406,199,39,529,133,189,78,59,46,1,122,23,2,3,133,181,49,97,183,59,101,258,53,344,44,163,11,297,2,39,21,186,294,1,484,69,31,576,98,70
 Scope Conditions and Limitations	7966
 Scope Implementation Guidelines Education	2958
 Scope Implementation Guidelines Education AI	2958
@@ -1883,6 +1905,7 @@ Scope and Application	5244
 Scope and Application Parts I and IV	10157
 Scope and Methodology	8301,1098
 Scope of Application	27,1611,1320,1652,5245
+Scope of Application Applies	10908
 Scope of Application This Charter	2958
 Scope of Application This Directive	762
 Scope of Application This Proclamation	7538
@@ -1898,7 +1921,7 @@ Scopus	766,482,6542,881,566
 Scopus and PubMed	766
 Scopus and Web of Science	10323
 Scopus. Among	766
-Score	643,256,288,631,1578,391,1878,5094,76,2,1,36
+Score	643,256,288,631,1578,391,1878,5094,76,2,1,36,38
 Score Angola	5247
 Score Angola Ghana Kenya Mozambique	5247
 Score Angola’s Overall Governance	10759
@@ -1918,6 +1941,7 @@ Score Rural Economy	10837,1
 Score Security	10835
 Score Service Level Requirements	5665
 Score Slowing Improvement Warning Signs	10835,3
+Scorecard	10912
 Scorecard.pdf	6133
 Scored	6214,306,115
 Scorefam	2826
@@ -2096,6 +2120,7 @@ Strathmore University Business School	8728
 Strengthen Science and ICT Education	907
 Strengthening Africa's Science Granting Councils Phase	862
 Strengthening the National System of Science	3861
+Structure and Scope	10931
 Structure of Scientific Revolutions	8380
 Struggling Schools	10465
 Studies School of Technology and Social Sciences Dept	10123
@@ -2288,3 +2313,4 @@ Zhongguancun Science Park. China	9816
 Zimbabwe National Diversity Score	970
 Zimbabwe's Science	1554
 Zimbabwe. European Journal of Social Sciences Studies	1248
+score	10940

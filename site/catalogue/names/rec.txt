@@ -28,7 +28,7 @@ AVALIAÇÃO DO RECÉM-NASCIDO Examinou	10760
 About Mobile Vital Records System	10822
 Accelerated Recovery Framework	7760
 Access and Receipt of Information Bill	769
-Accessibility of Public Records	10759,76,2,1
+Accessibility of Public Records	10759,76,2,1,74
 Act. Record	736
 Actividade Sexual Recente	10777
 Ad Recent	6401
@@ -118,6 +118,7 @@ Call Detail Records	9969
 Capital Reconfigures Fundraising	4972
 Care Record CDA Clinical Document Architecture	1009
 Centralise Records Pressed	9517
+Centre Suisse de Recherches Scientifiques	10919
 Centre de Recherche	3855,4031,69,2314
 Centre de Recherches	2148,584
 Certificate Authority CARA Criminal Assets Recovery	5533
@@ -134,6 +135,7 @@ Clúster de Recursos Minerales Para	1701
 Coastal REC Membership	10759
 Code Detail Record	5173
 Comités des Utilisateurs de Recherches	12
+Commission Nationale de Recrutement	10948
 Committee Analysis of Inputs Received	5853
 Complaint Stage Recommended Timeline Acknowledgement	5676
 Componente de Gestao da Receita	574
@@ -213,6 +215,7 @@ Digital Infrastructure Hit New Record	1518
 Digital Investment for Recovery	607
 Digital Platform Operators Theme Specific Recommendations	4214
 Digitisation of Civic Records	3200
+Digitizing Civil Status Records	10915
 Dino Rech	7151
 Director. O Gabinete de Recursos Humanos	167
 Direito de Reclamação	3519
@@ -237,7 +240,7 @@ Disaster Recovery Site	688,2119,4
 Disaster Recovery Test Tier	10721
 Disaster Recovery and Business Continuity Plans	4610
 Disaster Reduction and Recovery Government of Angola	10763
-Disclosure of Public Records	10759,76,2,1
+Disclosure of Public Records	10759,76,2,1,74
 Discussion and Recommendations	4439
 Disponibilidad de Recursos Humanos	4209
 Dividend Record Date	4896
@@ -346,6 +349,7 @@ HMIS Ecosystem Challenges and Recommendations	1261
 HPs. Records	2108
 Harmonization and Mutual Recognition	3861
 Health Records System	6432
+Health. Recommendations	10928
 High-Level Recommendations	1814
 High-Level Recommendations for AI Governance and Regulation	1814
 High-Level Recommendations for Building AI Skills and Talent	1814
@@ -393,7 +397,7 @@ Instituto de Recursos Hídricos	1701
 Int J Recent Res Soc Sci	9739
 Integrated Electronic Medical Record System	4260
 International Bank for Reconstitution and Development	10812
-International Bank for Reconstruction and Development	131,72,77,1,1,204,2,173,8,206,226,382,4,689,713,4564,3261,51,10,5,5,56
+International Bank for Reconstruction and Development	131,72,77,1,1,204,2,173,8,206,226,382,4,689,713,4564,3261,51,10,5,5,56,60
 International Business Commons Recommended Citation Sere-	10
 International Journal of Recent Technology and Engineering	9128
 Internet Protocol Detail Record	4274,899
@@ -476,6 +480,7 @@ National Archives and Records Services Act	9525
 National Archives and Records Services of South Africa	8021
 National Development Plan. Recommendations	1809
 National Disaster Recovery and Business Continuity Plan	1000
+National Employment and Recruitment Fair	10942,1
 National Government Gross Receipts	2775
 National Land Transport Authority Recovery Act	7845
 National Peace and Reconciliation Commission	970
@@ -543,6 +548,7 @@ Perspectives de Recouv	3396
 Platforms and Records	395
 Police Electronic Crash Records	1001
 Police Electronic Crash Records and Analytics	1001
+Police Recours	10934
 Policy Recommendations	6442,1053,3033,328
 Policy Recommendations Digitalisation	10856
 Policy Recommendations for Accelerating Growth	2334
@@ -727,7 +733,7 @@ Recenseamento Geral da População	4040,4,42,1064,329,1512,3769,17
 Recenseamento da População	4040,4
 Recenseamento de Empresas	10757,1
 Recenseamento de Empresas. O Recenseamento de Empresas	10757
-Recensement	17,720,2019,640,105,1856,491,712,656,267,58,687,510,153,240,62,1320,334,24,4,10
+Recensement	17,720,2019,640,105,1856,491,712,656,267,58,687,510,153,240,62,1320,334,24,4,10,39
 Recensement Administratif	2781,8040,1
 Recensement Général	737,1887,1,1700,4063,503,395,999,562,27
 Recensement Général des Entreprises	10875
@@ -789,7 +795,7 @@ Recherche DD	10874
 Recherche Démographiques IHPC	10874
 Recherche ESRS Enseignement Supérieur	12
 Recherche Pilotage	2966
-Recherche Scientifique	12,725,446,525,188,800,21,258,221,5695,1930
+Recherche Scientifique	12,725,446,525,188,800,21,258,221,5695,1930,104
 Recherche Scientifique CNRST Centre National	12
 Recherche Scientifique FAST Faculté des Sciences	12
 Recherche de Djibouti	4402
@@ -983,7 +989,7 @@ Recorda	9160
 Recordable	3893
 Recordamos	10753
 Recorde-se	3603,2617,1661,1083
-Recorded	673,2,1,93,285,87,65,32,54,1,42,1,83,253,1,90,21,1,2,7,3,213,47,1,19,1,1,73,83,412,381,173,1,2,3,3,644,516,1,36,1,1,80,67,50,528,113,351,26,10,7,1,98,280,1,10,351,26,178,496,1,2,3,2,247,211,479,122,71,64,207,534,78,6,1671
+Recorded	673,2,1,93,285,87,65,32,54,1,42,1,83,253,1,90,21,1,2,7,3,213,47,1,19,1,1,73,83,412,381,173,1,2,3,3,644,516,1,36,1,1,80,67,50,528,113,351,26,10,7,1,98,280,1,10,351,26,178,496,1,2,3,2,247,211,479,122,71,64,207,534,78,6,1671,132,2,40
 Recorded Consumption	9409
 Recorded DVD	6921
 Recorded Employment1	2775
@@ -992,7 +998,7 @@ Recorded Marketed Agricultural Production	2775
 Recorded Media	4583
 Recorded Sale of Government Forest Products	2775
 Recorded Sale of Produce	2775
-Recording	771,201,367,1,338,403,2,383,183,1,1514,405,3561
+Recording	771,201,367,1,338,403,2,383,183,1,1514,405,3561,2813
 Recording Law	8852
 Recording the PHC	771
 Recordings	34
@@ -1056,7 +1062,7 @@ Recreación	4209
 Recruit	4126,4873,1830
 Recruit GBV	1988
 Recruiting	1940,7591
-Recruitment	969,162,809,156,2432,355,650,4359,884,36,17
+Recruitment	969,162,809,156,2432,355,650,4359,884,36,17,119
 Recruitment of PIU	10829
 Recrutamento Em	10772
 Recrutamentos	1265

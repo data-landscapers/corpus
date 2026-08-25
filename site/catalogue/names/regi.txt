@@ -276,7 +276,7 @@ Christian Brothers Ruben Centre Trust Registered	7167
 Citizenship and Immigration Control National ID Register	10822
 Civil Birth Registration Simplification Law	10775
 Civil Register	2072
-Civil Registration	471,1260,1026,676,1,955,4,1881,1390,197,2898,6,10,37,23,2,1
+Civil Registration	471,1260,1026,676,1,955,4,1881,1390,197,2898,6,10,37,23,2,1,74
 Civil Registration Bulletin	10765,10
 Civil Registration Capacity	10759,78
 Civil Registration Code	10765,10
@@ -489,6 +489,7 @@ Digital Single Window Business Registration System	9020
 Digital Tax Stamps and Payment Registration Numbers	3572
 Digital and AI Regional Practice Director	5395
 Direct Marketer Registration Form	5865
+Direction Regionale	10940
 Directive and Regional Postal Master Plan	10509
 Director General and Chief Registrar of Land Titles	6703
 Director General of Civil Registry	7861,70,138,871
@@ -830,6 +831,7 @@ LISBOA PróximoABERTURA DO REGIME ESPECIAL	6837
 LONG TERM Create the Regional Centre of Excellence	5677
 Lagos Man Visited Birth Registration Website	10034,231
 Lagos Region	4130
+Land Registry	10937
 Lands and Deeds Registry	1249
 Late Registrations of Birth	3200
 Latvia Register of Natural Persons	10714
@@ -837,6 +839,7 @@ Launch Collateral Registry By Maximilian K	9943
 Launch New Nationwide SIM Registration	4174
 Launches Fully Digital Business Registry System	3907
 Le Registre	735,4436,5711
+Le Registre Social Unique	10910
 Lead Civil Registry and Immigration By Sasuk	9122
 Legal Framework for Birth Registration	10822
 Legal Regime of Taxpayer Number	10775
@@ -873,6 +876,7 @@ MT KENYA REGION LIMITED Data Controller	7167
 MULTI REGION DEAL ACTIVITY	4972
 MULTILATERAL AND REGIONAL TRADE AGREEMENTS	1243
 Magistrat.ADMINISTRATEUR REPRESENTANT LE CONSEIL REGIONAL	7670
+Maiden Regional Sensitisation and Awareness Event	10909
 Malaysia National Registration and Identification System	10714
 Malta National Registration Identity Card	10714
 Man-Made River Eastern Region	2837
@@ -1019,7 +1023,9 @@ National Register Agency	1571,421
 National Register of Civil Status Events	1927
 National Register of Enterprises	6175
 National Register of Identification Numbers	10714
-National Register of Natural Persons	1927,394,2343,22,276,5894
+National Register of Individuals	10915
+National Register of Natural Persons	1927,394,2343,22,276,5894,55
+National Register of Physical Persons	10920
 National Registration	1988,3262,2915,1965
 National Registration Act	799,1080,2763,2589
 National Registration Act. The NRB	10130
@@ -1093,6 +1099,7 @@ One. Regional	3001
 Online Birth Registration	3200
 Online Birth Registration System	3200
 Online Registration System	5883
+Open Smart Register Platform	10919
 Opérationnalisation du Registre	7976,1
 Oracle's Regional R&D Office	6924
 Oracle's Regional Research and Development Office	6924
@@ -1148,6 +1155,7 @@ Policy and Institutional Assessment CR Civil Registration	969
 Population Register	7569
 Population Register and Secure Titles	2876
 Population Registry	10812
+Poro Health Region	10940
 Poro Region	420,1
 Power of Registrar	3714
 Practice Eastern And Southern Africa Regional	2473
@@ -1158,6 +1166,7 @@ Principal Programme Officer for Tariffs and Customs Regimes	4827
 Processo de Registo de Nascimento	10772
 Professional ID Registration	10823
 Programa Regional de Integração Digital	6269
+Programme To Hold Its Maiden Regional	10909
 Proibição de Registos Não Autorizados	6462
 Project Key Interventions Geographic Regions	10829
 Project Management Unit ProGres UNHCR’s Registration	1867
@@ -1268,7 +1277,7 @@ Regimento da Assembleia Nacional	539,2980
 Regina Gainames	8253
 Reginaldo Borico Okomo	3494,2
 Reginaldo Boricó	7703,1
-Region	92,37,20,37,10,17,1,22,14,48,47,3,1,15,99,2,59,58,44,4,48,48,2,105,8,128,94,1,4,2,1,1,1,86,47,1,1,56,180,1,1,1,1,19,90,608,76,534,55,774,258,1110,468,350,642,778,242,24,215,159,19,734,124,164,176,694,840,117,41,26,9,18,10,7,6,2,1,2,1
+Region	92,37,20,37,10,17,1,22,14,48,47,3,1,15,99,2,59,58,44,4,48,48,2,105,8,128,94,1,4,2,1,1,1,86,47,1,1,56,180,1,1,1,1,19,90,608,76,534,55,774,258,1110,468,350,642,778,242,24,215,159,19,734,124,164,176,694,840,117,41,26,9,18,10,7,6,2,1,2,1,71
 Region AFR	10785
 Region Action Plan For Reviews and Life	8999
 Region Barbados High EGDI M-OSI VH-HcI	10840
@@ -1292,7 +1301,7 @@ Region-level	3874
 Region. FMOH	1219
 Regionai Oo Report	3972
 Regionais	2816
-Regional	7,56,108,383,28,127,80,22,83,67,9,78,216,13,323,95,9,73,37,38,254,12,559,99,100,678,29,276,2,111,154,242,63,83,14,16,39,96,55,19,110,26,321,16,90,33,216,53,12,45,2,235,136,45,3,92,51,72,50,61,4,45,68,181,96,26,86,8,1,1,8,171,34,24,46,99,180,48,114,171,132,2,107,69,98,285,2,18,181,109,163,16,52,52,497,6,11,76,52,97,111,106,82,1,11,19,72,61,24,43,326,36,90,1,3,8
+Regional	7,56,108,383,28,127,80,22,83,67,9,78,216,13,323,95,9,73,37,38,254,12,559,99,100,678,29,276,2,111,154,242,63,83,14,16,39,96,55,19,110,26,321,16,90,33,216,53,12,45,2,235,136,45,3,92,51,72,50,61,4,45,68,181,96,26,86,8,1,1,8,171,34,24,46,99,180,48,114,171,132,2,107,69,98,285,2,18,181,109,163,16,52,52,497,6,11,76,52,97,111,106,82,1,11,19,72,61,24,43,326,36,90,1,3,8,87
 Regional AI	6948
 Regional AI Governance Framework	4738
 Regional AI Strategy	8995,187
@@ -1436,7 +1445,8 @@ Regional Insights and Forecast	10718
 Regional Institute for Population Studies	9312
 Regional Institutions	961
 Regional Insurance Supervisory Commission	6938
-Regional Integration	3604,510,1127,1696,218,547,3057,76,2,1
+Regional Integration	3604,510,1127,1696,218,547,3057,76,2,1,74
+Regional Integration And Inclusion	10909
 Regional Integration Division	10634
 Regional Integration Economic Diversification Business	10837
 Regional Integration and Development	10321
@@ -1586,7 +1596,7 @@ Registadas	10758
 Registar	167
 Registar Empresa	10753
 Registar-se	10753
-Register	3,19,5,560,617,673,33,758,41,18,896,91,725,10,320,221,346,1032,103,795,249,33,236,711,352,406,526,925,3,7,7
+Register	3,19,5,560,617,673,33,758,41,18,896,91,725,10,320,221,346,1032,103,795,249,33,236,711,352,406,526,925,3,7,7,187
 Register Conduct	1988
 Register Online	4449
 Register Sign In Menu Menu South	6281
@@ -1704,7 +1714,7 @@ Registrar. PART	3714
 Registrar. Registrar	3714
 Registrars	5399,134,3445,1726
 Registrars Year	4202
-Registration	1,2,584,149,26,458,3,1504,45,200,55,103,31,480,73,173,93,133,7,329,104,560,563,756,400,115,218,499,168,1,36,53,156,40,31,29,25,1190,88,189,185,3,165,134,435,171,2,10,37,2,8,1,5,36
+Registration	1,2,584,149,26,458,3,1504,45,200,55,103,31,480,73,173,93,133,7,329,104,560,563,756,400,115,218,499,168,1,36,53,156,40,31,29,25,1190,88,189,185,3,165,134,435,171,2,10,37,2,8,1,5,36,56
 Registration Area Centres	10054
 Registration Area Olobu	10049
 Registration Areas	10049
@@ -1777,7 +1787,7 @@ Registration of Telecommunications Services. Registration	1583
 Registration of Voters	1630
 Registrations	1554
 Registrations Fig	1554
-Registre	555,180,443,577,648,220,460,226,282,397,563,388,1856,407,130,381,5,79,99,6,74,1,360,104,450,1122,48,4,647,163,1,6
+Registre	555,180,443,577,648,220,460,226,282,397,563,388,1856,407,130,381,5,79,99,6,74,1,360,104,450,1122,48,4,647,163,1,6,28
 Registre Article	735
 Registre Electronique de Consultations-Maternite	10881
 Registre Electronique de Consultations-Maternity	10881
@@ -1785,9 +1795,9 @@ Registre Fait	735
 Registre National	557,627,47,6762,1644,1,30,879,274
 Registre National Unique	417,3783
 Registre National des Nationalités	7993,1675
-Registre National des Personnes Physiques	2623,135,551,78,217,1874,612,3547,1,1183
+Registre National des Personnes Physiques	2623,135,551,78,217,1874,612,3547,1,1183,117
 Registre Social Unifié	2107
-Registre Social Unique	2713,787,7366,16
+Registre Social Unique	2713,787,7366,16,28,17,11
 Registre Sont	735
 Registre de Commerce	5478
 Registre des Bénéficiaires Effectifs. MINISTÈRE	4402
@@ -1875,7 +1885,7 @@ SADC Regional Data Strategy	10073
 SADC Regional Development Fund	9959
 SADC Regional ICT Facts and Figures Report	3476
 SADC Regional Indicative Strategic Development Plan	970
-SADC Regional Infrastructure Development Master Plan	23
+SADC Regional Infrastructure Development Master Plan	23,10936
 SADC Regional Statistics Project	3476
 SADC Regional Workshop	9886
 SADC Regional and Settlement System Operator	5263
@@ -1919,6 +1929,7 @@ Serviços de Registo Civil	10751
 Serviços de Registos	10765,7,3
 Seychelles Regions	9679
 Shiselweni Region	9157
+Si le Registre Social Unique	10910
 Sierra Leone National Civil Registration System	10714
 Sim Card Registration	10822
 Simplification of Birth Registration	10765,10
@@ -1998,6 +2009,8 @@ Thereupon the Registrar	1
 Third Schedule FORM PR2 REGISTRATION	1223
 Through the National Registration Bureau	3820
 Tichaona Kurewa VISITING Registrars General	7879
+Tillabery Region	10951
+Tillabery Region. Following	10951
 Timeline for SIM Card Registration Laws. Benin	10822
 Timely and Universal Registration Responses Score	10812
 Togo Launches Biometric ID Registration	3437
@@ -2096,7 +2109,7 @@ West Africa Regional Communications Infrastructure Project	221,86,957
 West Africa Regional Digital Integration Program	5750,1160
 West Africa Regional Digital Integration Project	10884
 West Africa Regional Electricity Market	7426
-West Africa Unique Identification for Regional Integration	312,240,665,47,67,596,390,110,354,646,10,415,13,659,1055,512,1335,3396,34
+West Africa Unique Identification for Regional Integration	312,240,665,47,67,596,390,110,354,646,10,415,13,659,1055,512,1335,3396,34,53
 West Africa. On Regional Trade	7452
 West African Region	4840
 West African Regional Communications Infrastructure Program	3461

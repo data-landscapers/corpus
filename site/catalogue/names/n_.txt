@@ -1,5 +1,6 @@
 AFD N	3715
 AM BURKINA FASO DÉCRET N	1837
+ANNEXE II AU DECRET N	10906
 ANNUAL REPORT Commissioner N. Matshe	1554
 ANRTIC Décision N	3297
 APPEL A MANIFESTATION D'INTERET N	9744
@@ -41,6 +42,7 @@ Bulawayo EWZL Owned Offices N	4896
 Burkina Faso LOI N	10812
 Burkina Faso. PP-G N	8321
 Business User N	9124
+BÂTIR N	10937
 Bédiani Béléi. Le N	2629
 C I O N Mensual Mensual	4209
 C TI O M N	582
@@ -50,6 +52,8 @@ C. N. Olien	6948
 CARE N CURE HEALTH SERVICE LIMITED	7167
 CEO de N	8002
 CEO of N	8244,232
+CHW N	10940
+CHWs N	10940
 CITIBANK N A Data Controller INST-86717473C7A	7167
 CITIBANK N A Data Processor INST-86717473C7A	7167
 CLICK N TELL LIMITED Data Controller	7167
@@ -72,7 +76,7 @@ D Yes N	10714
 D'IDENTITÉ BURKINABE LOI N	10812
 D. N	7886
 D9510-ZR N	10400
-DECRET N	2625
+DECRET N	2625,8281
 DEMOCRATIQUE ET POPULAIRE N	4658
 DGI ORIENTATION STRATEGIQUE N	10712
 DR. N. RAMGOOLAM	7845
@@ -114,10 +118,14 @@ Electronic Identity Card No N	10714
 Electronic No N	10714
 Etat. PP-G N	8321
 Eugenia Moche Namibia's N	8970
+Evidence Decree N	10911
+Evidence Law N	10911
 Ezeanochie N	1219
 F- BBH N M- Internet	582
 F. N. H	8993
 F25 No N	10714
+FHW N	10940
+FHWs N	10940
 Facilities Finance Business Unit Owner N	9124
 Fawry Business Tap N Pay	9533
 Fetene N	3791
@@ -185,10 +193,10 @@ LISTE DES EQUIPEMENTS HOMOLOGUES N	998
 LLDCs Africa N	10844
 LLDCs Asia N	10844
 LLDCs N	10844
-LOI N	1272,9540,13
+LOI N	1272,9540,13,69
 LS N U US B T	1154
 Lao PDR National ID No N	10714
-Law N	718,10108
+Law N	718,10108,85
 Le Cabinet du Ministre N	7470
 Lesh N	766
 Lesotho N	10714
@@ -197,8 +205,10 @@ Lithuania N	10714
 Livingstone EWPL Owned Offices N	4896
 Loi N	37,3762,621,2036,1014,3342,14,50
 M. N	8604,67
+MCLU Newsletter N	10937
 ML4 NASCOP N L M	4153
 MP K A UTSA N B	1154
+Magazine BÂTIR N	10937
 Malta N	10714
 Marondera EWZL Owned Shop N	4896
 Marongwe N. Marongwe Dr R.TD.rMRa.Ts.eMkeassPaerokfe. Wsa	1154
@@ -209,7 +219,7 @@ Mathiyalagan N	1261
 Mbewu N	1219
 Medasys and N	3001
 Microsoft Application Development N	9124
-Minimum N	9446
+Minimum N	9446,1510
 Minrex. L’Avenant N	4193
 Mistry N	771
 Moldova N	10714
@@ -331,6 +341,7 @@ Oman Omani ID Card Yes N	10714
 Orden Cantidad F U N C	4209
 Ordonnance N	548,3251,1171,2500
 Ordonnance-Loi N	7470
+Overall N	10940
 P. N	5700
 PAGE N	6432
 PALEA N	4209
@@ -392,11 +403,15 @@ Tapoa. PP-G N	8321
 Technologies Mary N. Kerema	9333
 Timor-Leste National Identity Card No N	10714
 Tonga National Identity Card No N	10714
+Travail ANNEXE I AU DECRET N	10906
+Travail ANNEXE II AU DECRET N	10906
+Travail DECRET N	10896,1,1,6,1
 Turkmenistan N	10844
 Tuvalu No N	10714
 U N C I O N	4209
 UBOS Executive Director Dr. Chris N	9024
 Umar N	771,10110
+Union-Discipline-Travail DECRET N	10895
 Unique National Identity No N	10714
 Usage N	9124
 VITAL SECURITE N	998

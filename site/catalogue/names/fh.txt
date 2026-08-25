@@ -1,4 +1,6 @@
 Biosecurity Laboratory Systems Commodities HRH FHWs	4301
+CHWs and FHWs	10940
+CHWs and FHWs. CHWs	10940
 Digital Health Architecture Blueprint and FHIR	3385
 EU Enterprise Architecture FHIR HIMSS Electronic	1009
 FHIR Cross-reference for Mobile	1009
@@ -12,10 +14,14 @@ FHIR RFC2616 RFC4627 RFC6585 RFC5424 RFC3339	1009
 FHIR-compliant	730
 FHIR8	1009
 FHIRChan0e Man	1009
+FHW N	10940
+FHWs N	10940
+FHWs and CHWs	10940
+FHWs. Social	10940
 Fhigherlifefoundation.com	42
 Fhow-foreign-domains-compromise-digital-identity	4690
 Fhululani Peter Netshipale	2626
-HL7 FHIR	1009,2376,5218,1428,157
+HL7 FHIR	1009,2376,5218,1428,157,740
 HL7 FHIR Basic Patient Privacy Consent	1009
 HL7 FHIR R4 Tracking	1009
 HL7 FHJR	1009

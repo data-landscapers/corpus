@@ -21,6 +21,8 @@ CADIS	3250
 CADNAC	4132
 CADP-22	10769
 CADP-22 O Governo de Angola	10769
+CADRAGE STRATEGIQUE	10913
+CADRE GENERAL	10913
 CADRE INSTITUTIONNEL DE LA PROTECTION DES	436
 CADRE JURIDIQUE DES TÉLÉPROCÉDURES FISCALES	5814
 CADRE LOGIQUE DU POSAF	10712
@@ -38,13 +40,14 @@ Cada Fase	9432
 Cadaster	427
 Cadastral	4596
 Cadastramento	10754
-Cadastre	4138,458,1077,3339,1749,115
+Cadastre	4138,458,1077,3339,1749,115,26,34,1
 Cadastre Document	10876
 Cadastre Mettre	10858
 Cadastre National	4079
 Cadastre PMPP Plan de Mobilisation des Parties Prenantes	10876
 Cadastre and Cartography	5004
 Cadastre and Land Registration Authority	888
+Cadastre. Au	10902
 Cadastro	427,1675,8677
 Cadastro Social	3594,4288,867,2005,9,12
 Cadastro Social Unico	10775,4
@@ -63,7 +66,7 @@ Cadi Ayyad University	1735,5560
 Cadjèhoun-Aupiais	2697
 Cadmium	1988
 Cadmium Cadmium	1988
-Cadre	545,98,94,268,213,461,305,30,861,441,10,614,54,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,191,124,478,50,599,23,1100,672,462,544,256,31,953,315,888,114,48,1,1
+Cadre	545,98,94,268,213,461,305,30,861,441,10,614,54,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,191,124,478,50,599,23,1100,672,462,544,256,31,953,315,888,114,48,1,1,37
 Cadre Général	1984
 Cadre Harmonisé	10866
 Cadre Institutionnel L’EHCVM	737
@@ -78,7 +81,7 @@ Cadre Stratégique	12
 Cadre de Dépense	10876
 Cadre de Mesure de Rendement	10712
 Cadre de Mesure de Rendement CO Contrats	10712
-Cadre de Vie	3045,1824,1431
+Cadre de Vie	3045,1824,1431,4614
 Cadre de Vie Culture	4895
 Cadre des Dépenses	1990
 Cadre-strategique	8891

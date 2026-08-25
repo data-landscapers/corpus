@@ -23,6 +23,7 @@ ATC Uganda Chief Executive Officer Dorothy	8730,311
 AUTHENTICATION OF DOCUMENTS	585,8281
 AUTHENTICATION OF DOCUMENTS AFRINIC Bylaws	585
 AUTHORISATION REQUIRED FOR DONATIONS OR EXPENDITURE	3714
+AUTHORITY APPOINTED DOWNLOAD THE ACT Fast	10908
 AUTORITE DE PROTECTION DES DONNEES	10821
 Abdoul Moumouni Mahamane ONEP Dosso	10154
 About The Domestic and Foreign Portfolio Investment	6408
@@ -96,6 +97,7 @@ BOT. Pour le Port Autonome de Douala	5291
 BRILLIAN DOCTORS PLAZA HOSPITAL Data Controller	7167
 Bahamas and Dominica	9786
 Bamenda. Hon Donald Malomba Esembe	2319
+Belmonde Dogo	10917
 Benvinda Levi. Documento	2866
 Bidding Document	8166
 Billion US Dollars	5903
@@ -248,6 +250,7 @@ DEVELOPMENT PROJECT APPRAISAL DOCUMENT	10768
 DIB-U-EEGISTA DEEQAHA DOWLADDA EE	9583
 DLI Domaine	10876
 DNCMP Donne	10876
+DOBCONNECT	10913
 DOCGREENE	7167
 DOCILIO JOAQUIM SEBASTIÃO FRANCISCO BENTO	10751
 DOCTOR FACE KENYA LIMITED Data Controller	7167
@@ -281,7 +284,7 @@ DOCUMENTS D'IDENTIFICATION Article	10813
 DOCUMENTS FORM	34
 DOCUMENTS PEDAGOGIQUES MIS A LA DISPOSITION	10847
 DOCUMENTS RÉCENTS	9565
-DOCX File	1824
+DOCX File	1824,9095
 DODOMA	2924,3403,2581,382,680,534
 DOESHA ENTERPRISES LIMITED Data Processor INST-328087504FA	7167
 DOI Digital Object Identifier DORA San	5246
@@ -450,7 +453,7 @@ Docker Swarm	6985
 Docket No	5773
 Docking	7038
 Doclor Nurwe Pharmaollt Pa1110lotlst Clerk	1009
-Docteur	3045,3350,1259
+Docteur	3045,3350,1259,3260
 Docteur El Hadji Séga GUÈYE	7641
 Docteur Venant Célestin QUENUM	10824
 Docteur YEO Nahoua	4273
@@ -466,7 +469,7 @@ Doctor of Philosophy	5315,1517
 Doctor of Technology	6832
 Doctor&volume	766
 Doctor-Patent Relationship. Council of Europe. Retrieved	1243
-Doctoral	2093,4855,1074,649
+Doctoral	2093,4855,1074,649,2277
 Doctorant	10826
 Doctorants	1183
 Doctorants-Moniteurs	4833
@@ -489,7 +492,7 @@ Doctrine	5970
 Doctrouvé Koï	10253
 Doctype	1264,603,606,416,567,148,1049,1886,4229
 Docum Nombre	3396
-Document	970,39,24,304,177,72,1,51,47,228,177,118,48,35,812,399,1,59,21,173,344,29,264,97,1,49,1,307,48,236,66,61,9,102,163,132,10,1,2,1,13,740,107,573,154,12,55,215,72,28,7,166,226,844,845,8,1019,81,32
+Document	970,39,24,304,177,72,1,51,47,228,177,118,48,35,812,399,1,59,21,173,344,29,264,97,1,49,1,307,48,236,66,61,9,102,163,132,10,1,2,1,13,740,107,573,154,12,55,215,72,28,7,166,226,844,845,8,1019,81,32,37
 Document Approval History Version	2779
 Document Author Reports and Financial	236
 Document Changes	8604
@@ -561,7 +564,7 @@ Documento de Identidad Personal	2672,1537
 Documento de Proyecto	8048
 Documentos	549
 Documentos Electrónicos	3519
-Documents	34,54,83,65,453,1,1,267,3,48,182,52,18,31,71,537,157,611,41,107,767,21,738,28,526,342,1232,174,27,116,776,347,70,310,313,2,57,229,58,37,81,332,166,179,365,126,485,92,7,17,8,3,29
+Documents	34,54,83,65,453,1,1,267,3,48,182,52,18,31,71,537,157,611,41,107,767,21,738,28,526,342,1232,174,27,116,776,347,70,310,313,2,57,229,58,37,81,332,166,179,365,126,485,92,7,17,8,3,29,45
 Documents Administratifs	10812
 Documents Authentication and Registration Service	1784,668,749,3881,3627
 Documents Biométriques Semlex	2048,2596
@@ -607,6 +610,7 @@ Does Mauritius	7252
 Does NAME	582
 Does Nigeria	4045
 Does POPIA Apply	2724
+Does SIGFU	10937
 Does The Evidence Say	10768
 Does USAID	6982
 Does the CI	10812
@@ -659,7 +663,7 @@ Dolliveste	9399
 Dolly Menas and Chris Kaukema	10148
 Dolphin Telecom	7329
 Dolphine	7329
-Domain	1284,2320,2654,165,116,407,3902
+Domain	1284,2320,2654,165,116,407,3902,92
 Domain Compromise	3364
 Domain Controller	34,10687
 Domain Controllers	10721
@@ -674,13 +678,13 @@ Domain Name System Security Extensions	1036,3174,6554
 Domain Name Systems	2117
 Domain Server	4924
 Domain-Wise Implementation Status and Improvement Road Map	1824
-Domaine	643,588,1245,1662,2751,3987
+Domaine	643,588,1245,1662,2751,3987,26
 Domaine Procédure	10876
 Domaines	643,604,1351,13,140,220,1953,406,1624,5,1310,743,556,669,580,41,18
 Domains	3713,977
 Domest. F U N C	4209
 Domest. Respons. Repres. Annual Bruto	4209
-Domestic	3,233,482,243,52,230,42,56,436,51,80,154,713,86,722,230,177,270,125,547,270,45,40,368,216,41,1,87,21,6,28,266,87,538,500,249,185,1012,231,586,187,654,213,30,63
+Domestic	3,233,482,243,52,230,42,56,436,51,80,154,713,86,722,230,177,270,125,547,270,45,40,368,216,41,1,87,21,6,28,266,87,538,500,249,185,1012,231,586,187,654,213,30,63,52
 Domestic Capital	7446
 Domestic Consumption Sources	1828
 Domestic Debt Exchange Programme	7695
@@ -719,6 +723,7 @@ Domestic Highlights	3990,5791
 Domestic Indirect	5655
 Domestic Investment	3862
 Domestic Investors	6408
+Domestic Law Privacy	10908
 Domestic Letters	6671
 Domestic Manufacturing Support The U.S. Government	4349
 Domestic Mobile Mobile	2776
@@ -890,6 +895,7 @@ Dorine Tabu Shali Data Processor INST-941923B5BC2	7167
 Dormant	940,2175
 Dormant and Unclaimed Funds	7391
 Doroh Mr. E. Dhenhere Dr	1554
+Doropo	10913
 Dorossiamasso	983
 Dorothe Singer	10841
 Dorothea Kleine	10726
@@ -961,9 +967,9 @@ Douar	8891
 Douba Nabie	10881
 Douban	8460
 Doubasso	2342
-Double	2342,5206,1467,1713,148
+Double	2342,5206,1467,1713,148,61
 Double Biometric Layer	9390
-Double Floor	9446
+Double Floor	9446,1510
 Double Meurtre D'aziz Dabala Et Waly	4960,62,2035
 Double Monetisation of Existing Customers	6362
 Double Standard	4258
@@ -1003,6 +1009,7 @@ Doulicha	8797
 Doulougou	10875
 Doumba	3579,1480,3481,2
 Doumbia Siaka	9716
+Doumbia Tiékoro	10924
 Doumbouya	9327,945,260,78
 Douna	10875
 Doust	8283
@@ -1030,6 +1037,7 @@ Downey J	9739
 Downlink	5502
 Download	439,134,13,189,235,202,1095,143,380,683,915,814,558,112,26,217,95,127,46,469,93,237,1609,236,362,48,262,1045,30
 Download Agreement	1234
+Download CIV1 Site Tech Specs Download	10956
 Download Cancel Report Ad Violent Disturbing	4790
 Download Download	10878
 Download Free Overview Get the Full Guide	5715
@@ -1257,7 +1265,7 @@ INTERVIEWED Does NAME	582
 ISBN and DOI	6483
 ITU SG Doreen Bogdan-Martin	7197
 ITU Secretary-General Doreen Bogdan-Martin	1883,5256,60
-Identity Document	8250,2509,9,67,2,1
+Identity Document	8250,2509,9,67,2,1,74
 Identity Document BUSINESS	10759
 Identity Document Business	10759
 Identity Document Education Business	10835,3
@@ -1339,6 +1347,7 @@ L'Autorité de Protection des Données Personnelles	5916
 L'administration des Douanes	4269
 L'atelier de Douala	9615
 LA LOI DONT LA TENEUR SUIT	4420,147
+LA PROTECTION DES DONNÉES	10894
 LISTE DES DOCUMENTS ET INFORMATIONS CONSTITUTIFS	10836
 LRA Commissioner General James Dorbor Jallah	10581
 La Direction des Affaires Domaniales	10876
@@ -1466,6 +1475,7 @@ Muriel Dominique Ouédraogo Lefaso.net	5707
 Musk and US President Donald Trump	6183
 Must Be Done	9390
 My Dough	10605
+Myss Belmonde Dogo	10917
 N. Does	7886
 NAME Does	582
 NAME Does NAME	582
@@ -1643,6 +1653,7 @@ RIR. RIR Governance Document	3503
 RS Cross-Community Cross-Community Document Reliable	1009
 Ransomware Attacks Double	10672
 Ransomware Attacks Double Year	9830
+Raxio CIV1 Data Centre Download CIV1	10956
 Reasons Document for The End-User and Subscriber Services	4732
 Recettes Non Fiscales Domaines	4420
 Recognition of Donors UNHCR	10864
@@ -1728,6 +1739,7 @@ Sistema de Emissão de Documentos	2688
 Sistema de Gestão de Domínios	1736
 Sistema de Informação de Gestão de Domínios. CV	1736
 Sistema de Nomes de Domínio	6970
+Site Tech Specs Download CIV1 Site	10956
 Six Dollars Charge Imposed	3583
 Slow Pros Down Next	3279
 Social Tenure Domain Model	1391

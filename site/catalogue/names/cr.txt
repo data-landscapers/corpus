@@ -361,6 +361,7 @@ CRIMINAL REFERRAL MECHANISMS AND PROSECUTORIAL COORDINATION	3861
 CRIMSON COMPUTER SERVICES LIMITED Data Controller	7167
 CRIMSON COMPUTER SERVICES LIMITED Data Processor	7167
 CRISIS MANAGEMENT	1000
+CRISPER	10919
 CRITERIA FOR OCCUPATION PERMIT	7845
 CRITERIA FOR OPEN GOVERNMENT DATA	1243
 CRITICAL ACCOUNTING JUDGEMENTS AND ESTIMATES	10793
@@ -630,7 +631,7 @@ Creación de Consejos Regionales	1701
 Creación de Organismos Reguladores	1701
 Crear	163,1538
 Crear Unidades de Negocio	1701
-Create	110,285,1,22,481,41,18,3,39,9,152,43,39,534,37,71,103,471,18,191,471,461,168,93,13,252,76,12,314,320,378,18,433,75,671,409,104,12,1,380,14,205,48,588,416,6,1286,1,635,193,44,10,44,4,6
+Create	110,285,1,22,481,41,18,3,39,9,152,43,39,534,37,71,103,471,18,191,471,461,168,93,13,252,76,12,314,320,378,18,433,75,671,409,104,12,1,380,14,205,48,588,416,6,1286,1,635,193,44,10,44,4,6,80
 Create AI Act	2816
 Create Date	9854
 Create Meaningful Opportunities for Youth	7719
@@ -675,7 +676,7 @@ Creative Book Publisher	8022
 Creative Commons	432,948,2481,2193,1677,552,153,692,304,307,991,34,20,60,34
 Creative Commons Attribution	1212,6519,28,262,1,108,153,153,1303,975,51,10,37,2
 Creative Commons Attribution CC	9025,1689
-Creative Commons Attribution License	8376
+Creative Commons Attribution License	8376,2543
 Creative Commons Attribution NonCommercial ShareAlike	2709
 Creative Commons Attribution-Non- Commercial-Share Alike	10844
 Creative Commons Attribution-Non-Commercial	10841
@@ -713,7 +714,7 @@ CredibilityCredibility	7278
 Credible	8987
 Credible Elections	5390
 Credisure	3922
-Credit	940,238,106,544,125,520,239,63,688,389,176,231,129,209,91,160,74,32,293,35,200,732,221,141,3,349,12,412,171,322,16,16,44,362,1499,120,368,575,25
+Credit	940,238,106,544,125,520,239,63,688,389,176,231,129,209,91,160,74,32,293,35,200,732,221,141,3,349,12,412,171,322,16,16,44,362,1499,120,368,575,25,61
 Credit Allocated	4653
 Credit Amount Grant Amount Guarantee	969,9860
 Credit Amount Grant Amount SML	3604
@@ -931,7 +932,7 @@ Critical Infrastructure Organizations	6845
 Critical Infrastructure Owner	7538
 Critical Infrastructure Protection	4755
 Critical Infrastructure Protection Act	2677
-Critical Infrastructure Protection Plan	3604
+Critical Infrastructure Protection Plan	3604,7307
 Critical Justice Health	1777
 Critical Liberia	5244
 Critical National Assets and Infrastructure Protection	9669
@@ -982,6 +983,7 @@ Cronograma	10783
 Cronograma de Actividades	10772
 Cronyism	6562
 Crooked	6196
+CropScope	10931
 Crops	1988,787
 Crosby Mkhwanazi	4041,12
 Cross	1243,3818,4067,331,1360,10
@@ -995,6 +997,7 @@ Cross Border Processing	10157
 Cross Border Sale of Handicraft Rwanda	10819
 Cross Border Taxation Technical Committee	573
 Cross Borders	9903
+Cross Connect	10956
 Cross Connection	7329
 Cross Cutting Requirements	6423
 Cross Departmental Public Private	7548
@@ -1066,6 +1069,10 @@ Cross-Pillar Synergies The AI	4528
 Cross-Reference	1009
 Cross-Regional Learning Session	5485
 Cross-Section of Officials	7142
+Cross-Sectional Survey Among Users	10919
+Cross-Sectional Survey Among Users Authors	10919
+Cross-Sectional Survey Among Users Skip	10919
+Cross-Sectional Survey Among Users URL	10919
 Cross-Sector Collaboration for Research and Advocacy	6936
 Cross-Sectoral Coordination Forums	4528
 Cross-Svstem I. The Government of Mozambique	4260
@@ -1076,6 +1083,7 @@ Cross-border Data Transfers	5487
 Cross-border Payments	5061
 Cross-border Payments Scheme	5263
 Cross-border Personal Data Flows	1243
+Cross-border Transfer Transfer	10908
 Cross-case	7451
 Cross-check	5158,828
 Cross-checked	4105
@@ -1116,7 +1124,7 @@ Cross1B1.o5rdCerroPsrsoBcoesrdseinrgProcessing	10157
 CrossBorderPayments	7854
 CrossBoundary Energy	9148
 CrossCurrents	9739
-CrossRef	2096
+CrossRef	2096,8823
 Crossexcel Technologies Ltd Data Processor INST-5269420F1FE	7167
 Crossing	8283
 Crossings	9399
@@ -1187,7 +1195,7 @@ Crude	10780
 Crude Accreditation Permit	3583
 Crude Oil Off-takers	3583
 Crude Oil for Infrastructure Initiative	3583
-Crunchbase	4972
+Crunchbase	4972,5982
 Crunchbase Global Funding Report. Accordingly	4972
 Crunchbase Jonathan Lewis	10464
 Cruz Rivera	8301
@@ -1257,7 +1265,7 @@ Crédits Votés	1285,1
 Crédits des MESPTA	2966
 Crédoc	8355
 Créent-elles	10190
-Créer	12,735,1,1053,95,2111,767,119,2066,1932,34,481,75,60,452,830,52,1
+Créer	12,735,1,1053,95,2111,767,119,2066,1932,34,481,75,60,452,830,52,1,38
 Créez	747
 Créée	2342,450,603,48,1272,1444,947,798,598,147,1066,16
 Crítica	6970
@@ -1292,6 +1300,8 @@ Cybersecurity and Crime Act	10674
 Cybersecurity and Cyber Crimes Act	1161
 Cybersecurity of Critical Infrastructure	9306
 D Change Management XUA Cross-Enterprise User	1009
+D'INFORMATION CRITIQUES	10906
+D'INFRASTRUCTURES D'INFORMATION CRITIQUES	10906
 D.G. POLITICA FINANCIERA Y CREDITOS- Concepto	4209
 DAHAWI CREDIT LIMITED Data Controller INST-386070073CE	7167
 DATA USE CASE FOR VALUE CREATiON	961
@@ -1300,6 +1310,8 @@ DE LA DISTRIBUCIÓN DE LOS CRÉDITOS	4209
 DEFENCE SAVINGS AND CREDIT CO-OPERATIVE SOCIETY	7167
 DELTAP CREDIT LIMITED Data Controller INST-638440016A6	7167
 DELTAP CREDIT LIMITED Data Processor INST-638440016A6	7167
+DES PRESTATIONS DE CRYPTOLOGIE	10906
+DES PRESTATIONS DE CRYPTOLOGIE LE PRESIDENT	10895
 DESENVOLVIMENTO INTEGRAL DA CRIANÇA	10777
 DF CRS&df	6982
 DFI. Crosswalk	946
@@ -1468,6 +1480,7 @@ European Union. Creative Commons Attribution	6436
 Evaluation Criteria	3861
 Evaluation Methodology and Criteria	3700
 Every CRMS	9939
+Evidence Laboratoire de Criminalistique Numérique	10911
 Examining the Job Creation and Workforce Potential of AI	7588
 Excellen Crosswalk	124
 Except for CR	10765,10
@@ -1529,6 +1542,7 @@ G20 Members’ Regulations of Cross-Border Data Flows	1243
 GDN’s ITERATION ARE CRUCIAL	10852
 GDP. The Global Crypto Adoption Index	9709
 GEPE Irene Cristina Agostinho Neto Cardoso	10766
+GESTION DES CRISES	10906
 GLOBAL Crosswalk	65,1,8,59,70,1,70,91,8,113,3,2,3,160,7,3,5,1,201,226,9,372,1,4,5,1,15,682,2,2,2,4
 GOVERNANCE OF CROSS-BORDER DATA FLOW	1243
 Gambia's Critical Information Infrastructure Support	1000
@@ -1617,6 +1631,8 @@ III. MISSÃO Criar	4146
 ILLUSTRATOR CEO CREATURES ANIMATION ANIMATOR	9781
 IMF Extended Credit Facility	5247
 IMF’s Extended Credit Facility	5247
+INCIDENT AND CRISIS MANAGEMENT INDICATORS	10911
+INFRASTRUCTURES CRITIQUES	10906
 INNOVATIVE CRUCIBLE Regulatory	4528
 INSPECC. GRAL. SERV. NARCOTICOS Y CRIMIN.-	4209
 INSPECC. GRAL. SERV. NARCOTICOS Y CRIMIN..-	4209
@@ -1642,6 +1658,7 @@ Industrial Relations and Employment Creation	1188
 Industrias Creativas	1701
 Industrias Creativas Ejes Estratégicos Sistemas de Gestión	1701
 Indício de Actividade Criminosa	549
+Information Critiques	10906
 Information Technology Equipment CRAC	9123
 Informação Crítica	795
 Infra-Estruturas Críticas	10747
@@ -1879,6 +1896,8 @@ PC2D Programme de Croissance	10712
 PDF CreationDate	994,724
 PERIODIC REVIEW MANDATES AND EVALUATION CRITERIA	3861
 PHC Patient Identifier Cross-reference for Mobile PIX	1009
+PLAN DE PROTECTION DES INFRASTRUCTURES CRITIQUES	10906
+PRESENTATION Created	10948
 PROPOSED CREDIT	996
 PROPOSED CREDIT Public Disclosure Authorized	3604
 PUBLIC INPUT CRUCIAL	3445
@@ -1995,6 +2014,17 @@ Removal of Critical Infrastructure	7538
 Replatform Critical	6432
 Report Created	1353
 Representatives of Crawford	3583
+Requirements Criteria	10911
+Requirements Criteria Cybercrimes	10911
+Requirements Criteria Digital	10911
+Requirements Criteria E-signature	10911
+Requirements Criteria Electronic	10911
+Requirements Criteria Military	10911
+Requirements Criteria Operators	10911
+Requirements Criteria Primary	10911
+Requirements Criteria Public	10911
+Requirements Criteria Requirements	10911
+Requirements Criteria Timestamping	10911
 Research Team Harry Cross	6947
 Response Team CII Critical Information Infrastructure	1264
 Result Cross-countries	771
@@ -2029,6 +2059,7 @@ SECÇÃO III CRIMES	14
 SECÇÃO III CRIMES Artigo	14
 SEGURIDAD EXTRANJERÍA Y INFORMAC. CRIMINALISTIC INSULAR	4209
 SITUATION D'EXÉCUTION DES CRÉDITS DÉLÉGUÉS PAR	3396
+SOUS-SECTEURS ET SERVICES CRITIQUES	10906
 SPECIFIC ACTION Create	1161
 SSA and MENA. Crosswalk	344
 SSA. Crosswalk	347,472,68
@@ -2176,6 +2207,7 @@ Verified Credit Decision	5482
 Victimes des Crises	8237
 Victoria Falls CBZ Bank Crowned Zimbabwe	6909
 VoIP. Crucially	3089
+Voucher and CropScope Systems	10931
 W3C Verifiable Credentials	9713
 WORLD VISION Création	998
 Warns Public Against Crypto Transactions	7754
