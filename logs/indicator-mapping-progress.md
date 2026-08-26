@@ -17,19 +17,19 @@ document (`progress-report-redesign.md` §1) and are not in scope.
 ## Done
 
 ERI and ZAF were the pilots. This pass has since added, in order: **GNB, AGO, BDI, BEN, BFA, BWA,
-CAF, CIV, CMR, COD, COG, COM** — 14 of 54, one commit each, all pushed.
+CAF, CIV, CMR, COD, COG, COM, CPV** — 15 of 54, one commit each, all pushed.
 
 Yields so far, as a sense of shape: 21 indicators from GNB's 25 ledger rows, 43 from BDI's 74, 52
 from BWA's 107, 57 from BEN's 105, 64 from BFA's 131, 66 from AGO's 122, 43 from CAF's 92, 92 from
-CIV's 167, 73 from CMR's 121, 67 from COD's 123, 52 from COG's 103, 45 from COM's 117. Between three quarters and nine tenths of ledger rows map; the rest are placeholders with
+CIV's 167, 73 from CMR's 121, 67 from COD's 123, 52 from COG's 103, 45 from COM's 117, 49 from CPV's 140. Between three quarters and nine tenths of ledger rows map; the rest are placeholders with
 no source, or real instruments the frame has no question for (a telecoms statute, a broadcasting
 transition), and those correctly stay on the ledger and out of the report.
 
 ## Remaining
 
-40 country units: CPV, DJI, DZA, EGY, ETH, GAB, GHA, GIN, GMB, GNQ, KEN, LBR, LBY, LSO, MAR, MDG,
-MLI, MOZ, MRT, MUS, MWI, NAM, NER, NGA, RWA, SDN, SEN, SLE, SOM, SSD, STP, SWZ, SYC, TCD, TGO, TUN,
-TZA, UGA, ZMB, ZWE.
+39 country units: DJI, DZA, EGY, ETH, GAB, GHA, GIN, GMB, GNQ, KEN, LBR, LBY, LSO, MAR, MDG, MLI,
+MOZ, MRT, MUS, MWI, NAM, NER, NGA, RWA, SDN, SEN, SLE, SOM, SSD, STP, SWZ, SYC, TCD, TGO, TUN, TZA,
+UGA, ZMB, ZWE.
 
 ## The loop, per unit
 
@@ -152,3 +152,16 @@ which is the same finding read from the other end.
 about how much work a unit is. One line — rows whose status is *Not held* with an empty `sources`
 field — gives the real size, and on the eight units mapped since CIV it has ranged from zero to
 thirty-five out of a hundred-odd.
+
+## What CPV added, 2026-08-27
+
+**On a unit with many placeholders, read the sourced rows out first and work only from that.** CPV's
+ledger is 140 rows of which 45 carry no source. Filtering the dump to sourced rows before reading cut
+the drafting input by a third and made the coverage check trivial — every sourced row mapped, which
+is the target on any unit and is easy to verify when the two counts are the same number.
+
+**A figure lifted out of a link label to make a point still needs a citation.** Four of this unit's
+five pre-lint failures were the same shape: a percentage quoted in a following sentence to draw a
+comparison, its source sitting in the sentence before. Either pull the figure back inside the cited
+clause or write the comparison without the number — both read better than a second citation on the
+same source two sentences apart.
