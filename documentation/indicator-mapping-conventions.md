@@ -84,3 +84,30 @@ Two texts per mapped indicator, both cited on the claim, both register-checked
 check M refuses a raw URL. This base's slugs are record titles, so most carry spaces and 364 of
 them carry a bracketed qualifier — `2025-11-08 Digital 2026 Eritrea (DataReportal)`. Both are
 handled; write the slug exactly as the ledger's `sources` field carries it.
+
+## What ZAF added, 2026-08-26
+
+The thick-ledger pass (153 rows, 77 indicators mapped) settled three more calls.
+
+**A first measurement is *No change*, with the clause saying so.** The vocabulary has no value
+for a figure the base has never held before — 360,000 uncollected identity documents, an 18th
+place in a research ranking. *Advanced* would assert a direction the evidence cannot support and
+*No evidence* is false. Write *No change, a first count with no earlier figure behind it*: the
+level is stated, the direction is withheld, and the reader can see which is which.
+
+**Mixed is common in a thick ledger and rare in a thin one.** Ten of ZAF's 77 are Mixed and none
+of ERI's thirteen. That is the expected shape: Mixed needs two instruments under one indicator
+moving opposite ways, which only happens where the base holds several rows per indicator. Do not
+reach for it to express uncertainty — an indicator whose single row is ambiguous is a stem plus a
+qualifier, not Mixed.
+
+**The unmapped placeholders are not lost — they surface in the gaps section.** The renderer still
+prints *Where the record is thin* from the ledger's Not-held rows, so a `-none` row that the
+mapping pass declines to map appears there with what would settle it. That is the second half of
+the argument for not mapping them: the reader sees the absence twice, once as No evidence in the
+frame and once as a probe target, and neither states a position on a citation that does not exist.
+
+**Two mechanical traps, both now fixed in the renderer and both worth knowing while drafting.**
+Citations carry the slug verbatim: some slugs hold double spaces and 364 hold parentheses, and
+both used to break silently. And check H reads sentence by sentence — a figure in a sentence
+whose citation sits in the *previous* sentence fails it. Put the figure inside the cited clause.
