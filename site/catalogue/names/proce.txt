@@ -766,6 +766,7 @@ Bumula Guest House Data Processor INST-66290362FBC	7167
 Bungoma County Data Processor INST-718851D3EBE BUNGOMA	7167
 Bungoma County Data Processor INST-8146561DA86 BUNGOMA	7167
 Bungoma West Hospital Data Processor INST-8497939EDCF	7167
+Business Information Processing	11156
 Business Process Flow	10765,10
 Business Process Management Journal	9129,108
 Business Process Modelling Business	9124
@@ -1411,7 +1412,7 @@ Data Controllers and Processors of Major Importance. Quoting	8118
 Data Controllers and Processors of Significant Importance	4583
 Data Integrated Limited Data Processor INST-9352264489B	7167
 Data Labelers Association Data Processor INST-9143850AC00	7167
-Data Processing	3861,1383,1188,1319
+Data Processing	3861,1383,1188,1319,3378
 Data Processing The WBES	10862
 Data Processing and Protection	961
 Data Processor	972,658,479,1752
@@ -1553,6 +1554,7 @@ Digital Green Foundation Data Processor INST-8837942E222	7167
 Digital Health Agency Data Processor INST-74526950625	7167
 Digital Media Non-WDT Sacco Data Processor	7167
 Digital Readiness Process	1953
+Digitised Declaration Process	11134
 Diocese of Kitui Data Processor INST-9374307992B KITUI	7167
 Diploma. CAPÍTULO III PROCESSO DE PROGRAMAÇÃO	10783
 Directorate of Liquor Control and Licensing Data Processor	7167
@@ -1737,7 +1739,7 @@ Healthcare Data Processor INST-6029251E5C0 SIAYA Kenya	7167
 High Pressure Processing IAEA International Atomic	718
 High-Level Data Sharing Process Overview	3815
 High-Performance Computing and Data Processing Centre	2117
-Hiroshima AI Process	8821
+Hiroshima AI Process	8821,2333
 Homabay County Data Processor INST-47343146BD3 HOMABAY	7167
 Human Resource Policies and Procedures	6946
 I INSTRUÇÃO DO PROCESSO DE AUTORIZAÇÃO	794
@@ -1763,6 +1765,7 @@ Implementation Procedures	3502,1
 Implementation Procedures. An Emergency Continuity	3503
 Implementation Process	3840
 Implementation Process Phases	3840
+Implementation Process of Street Addressing Guidelines	11129
 Improvement of Land Administration Procedures	8
 Inc Data Processor INST-37935184A1A NAIROBI Kenya	7167
 Inc. Data Processor INST-3262907F861 NAIROBI US	7167
@@ -1774,6 +1777,7 @@ Institutional Framework and Processes Page	10819
 Integrated Ghana Gas Processing Facility	7695
 Intermediary Data Processing Centers	10812
 Internal Business Process	3487
+Internal Capital Adequacy Assessment Process	11131,3
 JAMES ASSOCIATES ADVOCATES LLP Data Processor	7167
 JAMLICK MICHENI MUTHUURI Data Processor	7167
 JOSPHAT KYALO SAMMY Data Processor	7167
@@ -1940,6 +1944,7 @@ PROCEDURE D’ENCHERE ELECTRONIQUE Conforme	10876
 PROCEDURE FOR LODGING	2709
 PROCEDURE PROCESS FLOW TIMELINES Incident Escalation	6432
 PROCEDURES ADMINISTRATIVES IV.1.1 Gestion	10876
+PROCEDURES AND GUIDELINES ON HOUSE	11129
 PROCEDURES AND IMPLEMENTATION ARRANGEMENTS	1988
 PROCEEDINGS AT ANNUAL GENERAL MEMBERS' MEETINGS	8866
 PROCEEDINGS AT ANNUAL GENERAL MEMBERS’ MEETINGS	585
@@ -2000,7 +2005,7 @@ Procedural Law	26
 Procedural Law Assistance	26
 Procedural Legitimacy	10062
 Procedural Safeguards	2307,1554
-Procedure	11,1977,178,141,118,1289,7265
+Procedure	11,1977,178,141,118,1289,7265,150
 Procedure Make	9109
 Procedure Periodically	1988
 Procedure and House Rules Committee	10313
@@ -2011,6 +2016,7 @@ Procedures Manual. The FM	10829
 Procedures N	6946
 Procedures Performed	4896
 Procedures and Criteria for Determining Refugee	5533
+Procedures and Guidelines	11129
 Procedures for Asbestos Removal	1988
 Procedures for New Connections	9409
 Procedures for Planning and Carrying Out Inspections	10776
@@ -2019,18 +2025,18 @@ Procedures for Voting	7198
 Procedência	10777
 Proceed	9960,150
 Proceeding	6950
-Proceedings	3,223,359,658,850,3,1618,718,7,590,320,1572,27,811,371,330,144,2,260,262,1,108,502,1041,226,44
+Proceedings	3,223,359,658,850,3,1618,718,7,590,320,1572,27,811,371,330,144,2,260,262,1,108,502,1041,226,44,85,5,16
 Proceedings of Directors Rationale This Article	8866
 Proceedings of Khatri	9237
 Proceedings of Machine Learning Research	8301
-Proceeds	83,22,355,58,103,192,17,227,227,231,35,586,15,2745,5897
+Proceeds	83,22,355,58,103,192,17,227,227,231,35,586,15,2745,5897,338,3
 Proceeds None Investment	1818
 Proceeds of Crime and Anti-Money Laundering Act	8180
 Procenat	10780
 Proceso de Enseñanza-Aprendizaje	4209
 Proceso de Recopilación de Datos	8378
 Procesos	4209
-Process	1161,827,127,4,870,725,399,415,105,716,351,73,116,534,1595,265,93,230,517,114,1528,10,9,30,5,187
+Process	1161,827,127,4,870,725,399,415,105,716,351,73,116,534,1595,265,93,230,517,114,1528,10,9,30,5,187,125
 Process A Well	9123
 Process Autonomy	8283
 Process Autonomy. Stage	8283
@@ -2040,12 +2046,16 @@ Process Flow Analysis	3005
 Process Growth	958
 Process Guidelines	5903
 Process Indicators	4153
+Process Management Dispute	11153
 Process Metric Audit	4153,14,35,15,43,41,48,1003
 Process Metric Update for Q2	3972
 Process Metrics	4153,14,35,15,43,89,1003
 Process National Rwanda Is Counting Everything	5889
 Process Outcomes	7548
+Process Re-engineering Programme	11131
 Process Refer for Approval Page	9124
+Process Reporting Critical Factors	11131
+Process Reporting Monetary Policy Economic Review	11131
 Process Service Order Connection Uses	9124
 Process Theory View	11006
 Process Visa Application	9124
@@ -2340,8 +2350,11 @@ Standard Operating Procedure	1000,9721
 Standard Operating Procedure CCMP.S6	10721
 Standard Operating Procedures	396,758,130,270,434,5416,3317
 Standard of Procedures	1554
+Strengthening Complaints Handling Processes	11134
+Supervisory Review and Evaluation Process	11134
 Suppliers Data Processor INST-829020C3D9D NAIROBI Kenya	7167
 Switches and Processing Operators	9690
+Switching and Processing Licence Granted	11138
 System Processor	34
 System Processor Minimum Intel Quad Core	34
 Systems Limited Data Processor INST-5919342C364 NAIROBI	7167

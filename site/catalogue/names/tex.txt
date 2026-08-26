@@ -41,6 +41,7 @@ TEXT LAYER	6477
 TEXTES GENERAUX Dahir	308,427
 TEXTES PARTICULIERS	6589
 TEXTILE Gestion Patrimoniale	2342
+TechCabal. Text-to-speech	11163
 Tex Law Rev	5242
 Texaf	2350,687
 Texas	1977,2,4432,1227,1311,538,158,1041
@@ -51,7 +52,7 @@ Text Table	1828,2
 Text-and-Data Mining	7548
 Text-to-Speech	8876
 Textbooks	899
-Texte	3189,2957,2505,2249,2,19
+Texte	3189,2957,2505,2249,2,19,218
 Texte Données	1984
 Texte TXT	1984
 Textes	7439,1554,487

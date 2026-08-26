@@ -72,6 +72,7 @@ Braman Oumar Koné	10389
 Brazil Croatia Korea Chile Poland Vietnam	7655
 Bruno N Kone	6280
 Bruno Nabagné Koné	10936
+Bryan Bonsuk Koo	11136
 Burkina Faso KOUSSOUBE	6613
 C08458 Lalla Aicha Youssouf Koné	1183
 CENTRE-EST TENKODOGO BOULGOU TENKODOGO KOULPELOGO OUARGAYE	10847
@@ -112,6 +113,7 @@ Coulibaly Nibé Kolo Issa	6109,1013
 Coulibaly Nibé Kolo Issa. Leur	6095
 Country Director of KOICA Nigeria Office	9360
 Country Director of KOICA Rwanda Office	770
+Country Korea	11135
 Crossref Google Scholar Kowalski RM	8460
 Cuartel Koete Mongomo Mongomo	4209
 Cyberport de Hong Kong	6568
@@ -152,6 +154,7 @@ Ehimoni Kolawole	7632
 El Kope	10622
 Elias Koffi	2261
 Elie Konan	8071
+Elvis Korku Avenyo	11149
 Elvis Ulrich Kodja.Trois	8353
 Emerging Konza Technopolis	7548
 Emmanuel BICABA Roxanne KOALA	3455
@@ -170,7 +173,7 @@ Ex-President Koroma Share Cordial Moment	5390,965,827
 Exact KOICA	907
 Executive Director of Koneta	3776
 Executive Director of SADI. Henri Kouam	9989
-Export-Import Bank of Korea	5893,4012
+Export-Import Bank of Korea	5893,4012,1260
 F KOMPIENGA	10847
 F KOMPIENGA Garçons Filles G	10847
 FADA N'GOURMA KOMANDJARI DIAPAGA KOMPIENGA BOBO-DIOULASSO	10847
@@ -223,6 +226,7 @@ HBOMax and Hong Kong-based Viu	8946
 Hamed Nanéma Hanifa Koussoubé Dominique Ouédraogo	5280
 Hanifa Koussoubé Lefaso.net	2983
 Hawa Koomson	10523
+Hay'adda Korontada Qaranka	11136
 Henri Konan Bédié	10923
 Henri Kouam	9989,6
 High Commissioner of Koulpélogo	4296
@@ -311,7 +315,7 @@ KOICA Youth Leaders Programme	10123
 KOICA and Hallym University	10123
 KOICA-funded African	10123
 KOICA-reported	9360
-KOICA-supported	8423,1306
+KOICA-supported	8423,1306,1411
 KOICANigeria	9360
 KOKIALO	2342
 KOKO Networks	10464
@@ -416,7 +420,7 @@ Kenya Appoints Martin Koyabe	10737
 Kenya Konza Digital Media City Development	1082
 Kenya National Bureau of Statistics KoTDA Konza	6946
 Kenya and Korea	10667
-Kenya and South Korea	8274
+Kenya and South Korea	8274,2891
 Kenya's Konza Technopolis	8206
 Kenya. Kenya’s Konza Technopolis Development Authority	10236
 Kenya. Konza	1746
@@ -440,6 +444,8 @@ Koafec	9905
 Koalabata	5744
 Koang Pal Chang	3679
 Koatla	2849
+Kobaca	11136
+Kobaca Awoodda	11136
 Kobazi	8101
 Kobe Thamage	5295
 KoboCollect	10291
@@ -501,9 +507,12 @@ Kokora N’Zi	9620
 Kokoro	10253
 Kokou Edem Tengue	8755
 Koku's X	3493
+Kola Aina	11175
 Kola Ijasan	5008,4751
+Kola Ijasan Authors	9759
 Kola Ijasan and Pria Chetty of Research ICT	6052
 Kolahun	10406
+Kolawole	11129
 Kolawole Oluwadare	11100
 Kolda	58,5703,18,1775,2336
 Kolda New Deal Technologique	5779
@@ -523,6 +532,7 @@ Kololo Independence Grounds. UCC E.D Nyombi	9781
 Koloma	2887
 Koltay	8022
 Kolwezi	5710
+Kolyang	11140
 Kom Esambira	4209
 Komadougou	10492
 Komakech	6121
@@ -628,18 +638,20 @@ Konza National Data Centre. Expansion	6506
 Konza National Data Centre. Oracle	7989
 Konza Smart City	359
 Konza Technology City	359
-Konza Technopolis	359,877,9,393,1030,34,73,1786,1232,340,28,426,359,602,726,108,410,291,250,518,2,85,3,342,168,88,128
+Konza Technopolis	359,877,9,393,1030,34,73,1786,1232,340,28,426,359,602,726,108,410,291,250,518,2,85,3,342,168,88,128,498
 Konza Technopolis Authority	6946
 Konza Technopolis Development	5793,1153
-Konza Technopolis Development Authority	1722,4439,785,2903
+Konza Technopolis Development Authority	1722,4439,785,2903,1316
 Konza Technopolis Development Authority Address	1638
 Konza Technopolis Development Authority CEO	5108
 Konza Technopolis Development Authority Chief Executive	9853
 Konza Technopolis Email	1638
+Konza Technopolis. Discussions	11165
 Konza Technopolis. Includes	1082
 Konza Technopolis. Kampala’s Safe City CCTV	4563
 Konza Technopolis. Last	1236
 Konza Technopolis. Principal Secretary	10667
+Konza Technopolis. Technical	11165
 Konzéné	3927
 Koné Aboubacar Siriki	10936
 Koné Kipeya	10917
@@ -663,12 +675,13 @@ Kordahi	4676
 Kordek	11117
 Kordié	6889,3986
 Kore Kore	8681
-Korea	354,435,2346,592,1304,93,601,294,1666,989,276,117,354,798,495,71,187,89
+Korea	354,435,2346,592,1304,93,601,294,1666,989,276,117,354,798,495,71,187,89,74,19,11
 Korea Communications Commission and Mr. Jeong Hyun-cheol	9067
 Korea DPA	9067
+Korea Development Institute	11165
 Korea EDCF	11061
 Korea Exim Bank	8792
-Korea Eximbank	354,1,281,1,1,212,232,9387
+Korea Eximbank	354,1,281,1,1,212,232,9387,696
 Korea Import-Export Bank	10667
 Korea Institute of Public Finance	9421,308
 Korea International Cooperation Agency	208,298,264,136,1315,914,2425,165,932,1464,150,113,39,238,134,155,30,380,61,29,279,394,849
@@ -679,6 +692,7 @@ Korea Poland Brazil Croatia Chile India	7655
 Korea Sharing Programme	9729
 Korea Telecom Rwanda Networks	1903
 Korea Telecom Rwanda Networks LPG Liquefied	718
+Korea and China	11135
 Korea and Nigeria	8121
 Korea's Deputy Prime Minister and Minister of Finance	9905
 Korea's ICT	905
@@ -693,9 +707,11 @@ Korean AI	10957,104
 Korean Ambassador	9729
 Korean Ministry of Economy and Finance	11064
 Korean Ministry of Food and Drug Safety. Guidelines	3651
+Korean Ministry of Science	11135
 Korean ODA	10469
 Korean University Council for Social Service	8384
 Korean War	8950
+Korea’s Knowledge Sharing Programme	11165
 Korhogo	420,1,1921,777,485,2241,5085,4,6
 Korhogo le Projet	10096
 Korhogo. Ainsi	10934
@@ -707,6 +723,8 @@ Korley Klote Septembe P.O. Box TF	3386
 Korman	10763
 Kornick	10538
 Koro-Burkina Faso	319
+Korom	11140
+Kororka	11136
 Korotoumou Fofana	5739
 Korpilo	2096
 Korruption	900,631,1
@@ -717,6 +735,7 @@ Korti	5159
 Korvek SJ. Health Information Technology. StatPearls	10919
 Kory Webster	7385
 Kosgei R	10780
+Koshiyama	11135
 Kosmosdal	4950
 Kosofe Local Government Area	10742
 Kosova	10714,277
@@ -741,6 +760,7 @@ Kota Samarahan	7759
 Kotani Pay	9311
 Kotarski	8605
 Kotey	8927
+Kotolo	11160
 Kotopounga	3452
 Kotronoulas	7759
 Kotru	8604
@@ -799,6 +819,7 @@ Kousseri and Amchidé. Huawei Technologies Co	303,7286
 Koutiala	9866
 Kouto. Ces	2342
 Koutouclou	2342
+Koutroumpis	9759
 Kouyaté Mohamed	8353
 Kouyaté Mohamed D	5816
 Kouèpleu	2342
@@ -921,12 +942,14 @@ Mpho Johannes Koko	2626
 Mpho Koolese	2735
 Mr. Albert Kouamé	7021
 Mr. Ali Koné	10828
+Mr. Bukwa Kola	11129
 Mr. Dong Wan Koo	10123
 Mr. Konate Zana Gaston Autorité de Régulation	5680
 Mr. Koné	10828
 Mr. Koranteng	3848
 Mr. Kouldjim Djimrangar	6938
 Mr. Mpho Koolese	2735
+Mr. Wole Kolawole	11129
 Mrs. Aissata Yameogo Koffi	4827
 Ms Kotele	11053
 Ms. Lily Cherono Koech	6946
@@ -1037,7 +1060,7 @@ Registo da Comarca de Mbanza Kongo	5296
 Renovation of Kondengui	10990
 Rep. Dem. People’s Rep. of Korea Eritrea	10764
 Rep. of Korea Maldives Marshall Islands Micronesia	10764
-Republic of Korea	770,473,978,914,1482,943,1053,236,836,110,326,829,117,354,484,859,82,18
+Republic of Korea	770,473,978,914,1482,943,1053,236,836,110,326,829,117,354,484,859,82,18,271,19
 Republic of Korea English	9067
 Republic of Korea The African Development Bank	9905
 Republic of Korea. ABIDJAN	7795
@@ -1057,6 +1080,7 @@ Rwanda Trading Company. Melchior Koba	10352
 Région de Koutiala	8237
 SA Rugby Awards.1.5. Springbok Cheslin Kolbe	2626
 SERVICES FOR THE KONZA CLOUD EXPANSION	5793
+SOO KOOBID FULINTA Dhaqaalaha Soomaaliya	11136
 Safa Korti	5159
 Salim Komakech	6121
 Samuel Kofi Woods	5475
@@ -1084,10 +1108,14 @@ Smart Africa DG Lacina Koné	3959,3238
 Solomane Koné	2510
 Solutions and Konecta	8220
 Solutions and Konecta Non-Executive Vice Chairman	8222
+Soo Koobid Fulinta	11136
+Soo Koobid Fulinta Aragti	11136
+Soo Koobid Fulinta Horumarinta	11136
+Soomaaliya. Kobaca	11136
 Sophia Kousiakis	7027
 Souako KOHOUN	7674
 Souako KOHOUN Directeur Général	7674
-South Korea	444,799,660,199,222,123,167,44,62,100,105,319,41,803,171,188,114,56,214,532,190,519,183,47,487,1,207,41,38,91,279,25,131,109,20,395,137,11,121,397,1035,330,44,177,66,223,290,49,79
+South Korea	444,799,660,199,222,123,167,44,62,100,105,319,41,803,171,188,114,56,214,532,190,519,183,47,487,1,207,41,38,91,279,25,131,109,20,395,137,11,121,397,1035,330,44,177,66,223,290,49,79,50,30
 South Korea NIRS Daejeon	7471
 South Korea and Australia	10038
 South Korea and Cape Verde	3244
@@ -1098,6 +1126,7 @@ South Korea's Naver Cloud	10136
 South Korean	3651,796,2096,1142,1107,2292
 South Korea’s Daedeok Innopolis	6161
 South Korea’s National Information Resources Service	7471
+South Korea’s National Strategy for Artificial Intelligence	11135
 Standard Lesotho Bank's Samuel Koatla	2849
 Standard Lesotho Bank's Samuel Koetle	2877
 Steven Nbienou Kouadjo	3194,135
@@ -1107,6 +1136,7 @@ Stéphane Kounadi	2453
 Sudan’s Kordofan Region	10025
 Syscomedia. Melchior Koba	8565
 System and Taxpayer Relationship Management System Korea	286
+T. Kolawole	11140
 TII Asia Democratic People's Republic of Korea	10840
 TRAORE Koko Carine	2342
 TX Aban KOSSI TX Prom	10847
@@ -1156,6 +1186,7 @@ Wilfried Kouame	8162
 Wisdom Yayra Koku Deku	7352
 Wêndpagnagdé Alfred KOLA	7670
 XML and Kotlin	3851
+Xeerka Korontada	11136
 Yawa Kouigan	10698
 Yayra Koku	3493,259,3542,58
 Years of Inactivity By Gerald C. Koinyeneh	7410

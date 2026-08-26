@@ -27,7 +27,7 @@ Route Server Inbound	718
 SQL Server	6432
 Sequel Server	9124
 Serve	2757,1104,667
-Served	1984,2958,664,283,454,183,4452
+Served	1984,2958,664,283,454,183,4452,152
 Server	593,626,5213,2691,1
 Server Backup	34
 Server Local Server Local Server	10775
@@ -42,6 +42,7 @@ Serves	4130,525,1010
 Serves Citizens Opening	8367
 Servest	10279
 Serveurs	9049
+Type Server	11133
 US Servers	6487,392
 Virtual Servers	3859
 Web Content Management Server OS N	9124

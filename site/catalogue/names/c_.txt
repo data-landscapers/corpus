@@ -8,6 +8,8 @@ AFRICATEL AVS C	998
 AI and Other Emerging Technologies C	7549
 ANNEX C	3861,3337
 ANNEXURE C	5533
+APPENDIX C	11129
+APPENDIX C BUILDING IDENTIFICATION AND BUILDING	11129
 ATLAS INTERACTIV C	998
 Aarthy C	9128
 AbouZahr C	766,5,10110
@@ -27,7 +29,7 @@ Amoroso C	766,10014,101
 Amy McDonough and Daniela C. Rodríguez	6948
 Annex C	7198
 Any Cell C	10673
-Appendix C	236,3626,666,2623,115,524,3227
+Appendix C	236,3626,666,2623,115,524,3227,112
 Appendix C Authorisation	34
 Appendix C Table	7790
 Appendix C. Mobile for Business Knowledge and Skills	11017
@@ -46,7 +48,7 @@ B Significant GovTech Maturity C Medium	10785
 B and C	3583
 B- Tablet C- Place of Education	582
 B- WhatsApp C- Instagram C- Cost	582
-B. C	10726
+B. C	10726,409
 BAI10 Managed ITGov C	9237
 BANCE C EPICENTRE NIGER ARCEP	998
 BOARRDCZMBEOMABREDRSMEMBERS Prof. Z. Muranda Prof. C	1154
@@ -59,6 +61,7 @@ Barkman C	1219
 Base C	9123
 Baynes C	766,10014
 Bessat C	10881
+Beyond Cell C Blu Label	11159
 Block C	2776
 Bloco C Edificio da ONU CP	10776
 Bodart C	771
@@ -79,6 +82,7 @@ C Lovis	1824
 C Months	4972
 C NOE-ARA-IDI-ARCEP- Conforme	998
 C News	9736
+C O U N T R	11157
 C Obligations	972
 C Organización	4209
 C Perrin	1824
@@ -91,6 +95,7 @@ C Programas	4209
 C Programas de Promoción	4209
 C Published	6922
 C Report	3972
+C Roads	11129
 C SA Vodacom SA Tmcel Mozambique	1013
 C Sistema Nacional de Identificação	6530
 C Squared InvestCo	610
@@ -144,7 +149,7 @@ C- Transparence	10975
 C- Withdraw	582
 C- Yes Tablet N	582
 C- Zakat	5864
-C. A	7886
+C. A	7886,3268
 C. AI Model Ownership and Control	5773
 C. AU TITRE DU MINISTERE	7670,651
 C. Administration	7977
@@ -172,12 +177,15 @@ C. D	1248,7423
 C. Decision Timing The Department	5773
 C. Denizer	1264
 C. Dependencies	3583
+C. Developing Human Capital	11140
 C. Di Ciccio	9237
 C. Di Francescomarino	9237
+C. Digital Infrastructure and Affordability AI	11140
 C. Draude	9237
 C. E	2816,5787
 C. E. Ndhlovu Prof. I. D.T	1154
 C. ELECTION SHAREHOLDER ENTITLEMENTS UNDER	4896
+C. Emezue	11140
 C. Enhancing	10768
 C. Environmental and Social	2989
 C. F	10780
@@ -194,13 +202,17 @@ C. George	3782
 C. Ghidini	9237
 C. Homburg	9129
 C. INDUSTRY INFRASTRUCTURAL DEVELOPMENT	3862
+C. Instant Payments	11138
 C. Institutional	4214
 C. International	5872
+C. Ithuli	11140
+C. J	11140
 C. Jensen	5700
 C. K. Corruption	7886
 C. Karagueuzian	10718
 C. Katzenbach	11028
 C. L'inclusion	5630
+C. Lagging Preparedness Sub-Saharan Africa	11140
 C. Lang	9128
 C. Lawson	5700
 C. Legal Operational Policies	969,295,603,1737,2935,4229,61,135
@@ -220,12 +232,15 @@ C. N. Olien	6948
 C. Newton	4432
 C. O	961
 C. On-budget	3583
+C. Onyefuluchi	11140
 C. Open Finance Lab	4848
 C. P	8603
 C. POLICIAL S ECONOMICOS DISCIPLINA DISCIPLINA	4209
 C. Padovani	11028
 C. Participation	822,4808
 C. Payment	7845
+C. Peter McColough	11154
+C. Pizzinelli	11140
 C. Policy Implications	1828
 C. Policy Recommendations	1828
 C. Preparation of Applications	1638
@@ -240,15 +255,24 @@ C. Sdralevich	1828
 C. Sectoral Context Key PFM Processes1	1284
 C. Supporting Capital Access and Sustainable Busi-	4848
 C. Sustainability	969,295,603,1737,2935,4229,196
+C. TEEVAN	11155
+C. TEEVAN European Commission	11155
+C. TEEVAN Open Access	11155
+C. TEEVAN Teething Problems	11155
 C. Tax Revenue Performance and Challenges Tax	10997
+C. Teevan	11155
 C. Term	7845
 C. The Challenge	1828
+C. Types of Exposed Sectors	11140
 C. Utility	7845
 C. Vogeli	5700
 C. Wang	5700,2905
 C. What Can Be Done Next	1828
+C. Wu	11140
 C. Z-W	1264
+C. and Satyajit	11133
 C. and Shanahan	11004
+C. and Stein-Kaempfe	11156
 C. the Borrower	1914
 CELTEL NIGER SA C	998
 CELTOUCH CI C	998
@@ -263,7 +287,7 @@ Can Cell C	4732
 Cat C	5005
 Catalani C	1219
 Category C	5005,2690
-Cell C	78,1,4653,318,2006,2855,626,85,51,60,60,4
+Cell C	78,1,4653,318,2006,2855,626,85,51,60,60,4,362
 Cell C CEO Jorge Mendes	10622
 Cell C CFO El Kope	10622
 Cell C Group	10622
@@ -311,6 +335,7 @@ Directive C	1264
 Director Grupo C	4209
 Domest. F U N C	4209
 Dores Jesus C. Pinto	10770
+Douglass C. Institutions	11138
 Dr. C. E. F. Matewa	1554
 Dr. C. G. D. N. Chiwenga	1554
 Dr. F C Sitati Data Controller	7167
@@ -337,6 +362,7 @@ Foster C	5242
 Freedom C Onuoha	9616
 G A B C D	236
 G Cell C	10673
+G. C	11135
 G. C. Bowker	5700
 GDP. C. Conclusion and Policy Recommendations	1828
 GSIE TECHNOLOGIE C	998
@@ -352,6 +378,7 @@ Governments C- Readiness	7548
 Grade C	5134
 Group C	2626,8159
 Gustavo C	10763
+H E A LT H C	11157
 H. C	10763
 HAS Excellent B Satisfactory C Average	5679
 HAS Telecommunications B Job C State	5679
@@ -374,7 +401,7 @@ Inspector Grupo C	4209
 Inspector Grupo C Interventor Grupo C	4209
 Interfaces Service C	10876
 Internet Series C Equity Investment Africa50	810
-J. C	2816,2533,5648
+J. C	2816,2533,4410,1238
 J. C. Magalhães	11028
 Jee Servicio Grupo C	4209
 Jefe Servicio Grupo C	4209
@@ -384,6 +411,7 @@ Joachim C. Data	3791
 Jonathan C. Space Activities	6467
 Joël C. TOKPONOU	3682,3040,73,206,167
 Joël C. Tokponou	5516
+K. C	11135
 Kamusoko Deputy Chairperson Prof. C. E	1554
 Kenya C- Uptake	7548
 Kishamawe C. Assessment	3791
@@ -464,18 +492,20 @@ Q4. While Series C	4972
 R C- Modem Bande C IRC-CHA-NOR-ARCEP-	998
 R EFE R E N C	396
 R. C. W	8604
+R4.9bn Cell C	11159
 Rambaud-Althaus C	10881
 Ref. C	10769
 Regulation C	7
 Republic. Part C Insert	3714
 Revenue and Fiscal Space 4 C. Tax Revenue	10997
 Robbiati C	10784
+Royal C	11156
 Réservation AL IZZA C	998
 Réservation CELTEL NIGER SA C	998
 Réservation COMMISSION NATIONALE C	998
 Réservation WAYA C	998
 S IR C M A N	10775
-S. C	2518
+S. C	2518,8617
 S. C. P	10763
 SECTION C	582,2193
 SOSTENIBLE C	1701
@@ -521,6 +551,7 @@ W. C. Sawyer	1828
 Walsh C	9739
 Ward C	3791
 Wing C	10881
+Y C O L L	11157
 Y O P C ER H	582
 Years of Inactivity By Gerald C. Koinyeneh	7410
 Z. Muranda Prof. C. E. Ndhlovu	1154

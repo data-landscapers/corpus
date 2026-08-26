@@ -40,6 +40,7 @@ BEAC Joins PAPSS	7150
 BEAC's PAPSS	5379
 BIS Papers	5700
 BIS Papers No	6938
+BIS Working Papers No	11140
 BUNA and PAPSS	982
 Background Paper	1264
 Best Paper Awards	10642
@@ -71,23 +72,42 @@ Contenu du PAP	10876
 Country Dialogues and Country Strategy Paper	7784
 Country Strategy Paper	8574,2267
 Court Papers Reveal How VID Officials	8639
+DEEP CHALLENGE FUND WORKING PAPER	11133
+DEEP Challenge Fund Working Paper	11133
 DHA. The Draft Revised White Paper	5533
 DIODE Working Papers	226
 DRAFT WHITE PAPER	4256
 Demetrios Papathanasiou Regional Practice Director	2889
 Departmental Paper No	10997
+Departmental Papers	11140
 Deputy CEO John Bosco Sebabi. PAPSS	1854
 Description PAP	3164,1,1,1,1,1,1,1
+Design Paper Swaziland Lilangeni Transaction	11130
 Designated Account DPI Development Committee Paper	3604
 Development Committee Paper	3604
 Developmental State DIODE Paper Final	226
 Digital Economy Policy DIODE Paper	226
+Digital Lilangeni Design Paper	11130,1,3
+Digital Lilangeni Design Paper Anytime	11130
+Digital Lilangeni Design Paper Cross-border	11130
+Digital Lilangeni Design Paper Executive Summary	11130
+Digital Lilangeni Design Paper FIGURE	11130
+Digital Lilangeni Design Paper FSP Financial	11130
+Digital Lilangeni Design Paper Financial Service	11130
+Digital Lilangeni Design Paper Further	11130
+Digital Lilangeni Design Paper Glossary Token-Based	11130
+Digital Lilangeni Design Paper Key CBDC	11130
+Digital Lilangeni Design Paper Learnings	11130
+Digital Lilangeni Design Paper List of Abbreviations	11130
+Digital Lilangeni Design Paper Phasing-out	11130
+Digital Lilangeni Design Paper SWIPSS SWIPSS	11130
+Digital Lilangeni Design Paper The Digital	11130
 Digital Paper	10151
 Digital Platforms DIODE Paper	226
 Digital Transformation White Paper	10714
 Disabilities and South Africa's White Paper	9767
 Disclosable Restructuring Paper	772,1298
-Discussion Paper	10768
+Discussion Paper	10768,370
 Discussion Paper No	5700
 Ditch Its Paper Trail	10718
 Draft Revised White Paper	5533
@@ -105,6 +125,7 @@ Evolution of Topical Directions. Paper	5349
 FIGUEIREDO SAMBOLO ZAI PAPELO	10751
 Fellows Paper	10028
 FinScope Employment Strategy Paper	10965
+FinScope Survey. The Concept Paper	11134
 Final Policy Paper	1354
 Financial Paper	2736
 Fusepay Ushers Out Paper Cheques	4056
@@ -120,17 +141,21 @@ ICT White Paper. In the Summary Report	2117
 ICTD Working Paper	1589
 IDA Project Paper	2780
 IIPP Working Paper Series	5700
-IMF Departmental Paper	6965
+IMF Departmental Paper	6965,4175
+IMF Departmental Paper DP	11140
+IMF Departmental Paper No	11140
 IMF Policy Paper	1828
 IMF Selected Issues Paper African Department	10997
 IMF Selected Issues Paper No	10997
 IMF Selected Issues Papers	10997
-IMF Working Paper	1828,849
+IMF Working Paper	1828,849,8463
 IMF Working Paper No. WP	1828
-IMF Working Paper WP	1828,9028,141
+IMF Working Paper WP	1828,9028,141,143
 IMF Working Papers	1828
 INTERNAL QUESTION PAPER	10889
 Indonesia and Papua New Guinea	6451
+Initial Design Paper	11130
+Initial Digital Lilangeni Design Paper	11130
 International Arbitration and Kluwer's White Paper	2806
 Jobs Discussion Paper Series Titles FY	10985
 Jobs Discussion Papers	10985
@@ -139,6 +164,7 @@ KEY TAKEAWAYS CONCLUSION ACKNOWLEDGEMENT WHITE PAPER	6936
 Kenya. Pesalink CEO Gituku Kirika. PAPSS	5201
 LABOR Public Disclosure Authorized DISCUSSION PAPER	10985
 LASER Synthesis Paper	11006
+Labor Discussion Paper No.1704	11133
 Le PAPEL	7839
 Le Pape Léon XIV	6575
 Les Confidences De Pape Cheikh Diallo	4960,62,2035
@@ -152,11 +178,14 @@ Monsieur Papa Ibrahima SENGHOR	8269
 Monsieur Papa Samba BA	8269
 Moor Insights Strategy Paper	4434
 Myanmar Papua New Guinea Paraguay Peru	10764
+NBER Working Paper	11140
 NG PAPSS	4771
 National Integrated ICT Policy White Paper	396,1721,4715
 Natl Cent Res Methods Rev Pap	1219
 Nuance PaperPort	34
 O PAPEL DA INTELIGÊNCIA ARTIFICIAL NA	2816
+OECD Artificial Intelligence Papers	11140
+OECD Trade Policy Paper	11154
 OECD Working Papers	11007
 OHCHR B-Tech Foundational Paper	11007
 Objectifs du PAP	10876
@@ -174,10 +203,11 @@ PAP-VLF-MISP	4396
 PAP-VLF-MISP-2026.pdf	4161,235
 PAPE Projet D’appui	10841
 PAPEC	1748,618,1914
-PAPEL	7839,2739
+PAPEL	7839,2739,573
 PAPER	7836,3053
+PAPER ZANZIBAR. UNICEF	11133
 PAPS Parallèlement	8066
-PAPSS	797,185,17,385,470,61,7,1152,366,413,6,244,227,260,133,48,120,10,4,3,293,29,25,185,583,74,39,265,11,526,101,25,78,8,28,8,274,22,53,1,81,168,69,74,2,35,43,11,20,5,37,1,65,295,114,98,175,324,26,414,79,1,257,546,79,163,284
+PAPSS	797,185,17,385,470,61,7,1152,366,413,6,244,227,260,133,48,120,10,4,3,293,29,25,185,583,74,39,265,11,526,101,25,78,8,28,8,274,22,53,1,81,168,69,74,2,35,43,11,20,5,37,1,65,295,114,98,175,324,26,414,79,1,257,546,79,163,284,136
 PAPSS CANNOT FIX Weak	9593
 PAPSS CEO	3440
 PAPSS CEO Mike Ogbalu	999
@@ -213,6 +243,7 @@ Papa Ousmane Diop of InTouch	8140
 Papa Simon Kimbangu	6460
 Papadopoulou	8376
 Papageorgiou	7759
+Papagiannidis	11156
 Papakonstantinou V	8776
 Papamitsiou	8602
 Pape Cheikh Diallo	4960,62,2035
@@ -221,7 +252,7 @@ Pape Moussa Mbaye Wade	7804
 Pape Ngor Thiaw	6882
 Papel	1701
 Papelão	10777
-Paper	970,39,252,567,160,379,2982,133,51,66,273,673,699,8,321,1032,279,94,145,130,146,914,499,29,122,16,18
+Paper	970,39,252,567,160,379,2982,133,51,66,273,673,699,8,321,1032,279,94,145,130,146,914,499,29,122,16,18,162
 Paper Handling	34
 Paper Model Name Comments Al-Sharhan	8603
 Paper No	961
@@ -242,6 +273,7 @@ Participants of PAPSS	11002
 Paul De Hert and Vagelis Papakonstantinou	8776
 Pesalink and PAPSS	5255
 Policy Paper	586
+Policy Paper No	9759
 Policy Paper PP-38	3681
 Policy Paper Series No	961
 Policy Research Working Paper	1264,9592,141
@@ -262,6 +294,7 @@ RES00782 RESTRUCTURING PAPER ON A PROPOSED	2473
 RES01377 RESTRUCTURING PAPER ON A PROPOSED	4653
 RESTRUCTURING PAPER ON A PROPOSED PROJECT	1228
 RIA Zero-Rating Policy Paper - Much ado about nothing.pdf	544
+RegulAIte Working Paper No	11135
 Research Paper Gwamaka Mwalemba	1248
 Restitution PAPIQ	2966
 Restructuring Paper	2473
@@ -274,6 +307,7 @@ SAIIA Occasional Paper	1006
 SARS CONSULTATION PAPER ON VAT MODERNISATION	8670
 SELECTED ISSUES PAPERS	10997
 SSRN Scholarly Paper ID	961
+SSRN Working Paper	11140
 Sa Divinité Papa Simon Kimbangu Kiangani	6460
 Salvatore Eugenio Pappalardo	11006
 Secure Identity Alliance Discussion Paper. GSMA	10819
@@ -291,6 +325,7 @@ Si le Pape	6575
 Small Arms Survey Briefing Paper	3583
 Smart Paper Technology	4338
 Social Protection Discussion Paper Series	10985
+Social Protection Policy Paper No	11133
 South Africa. This White Paper	5533
 Sreelakshmi Papineni	10963,1
 Strategic Imperative. Community Paper. Retrieved	10819
@@ -298,6 +333,7 @@ Sub-Saharan Africa. IMF Departmental Paper. International	10997
 Supplementary Order Paper	10313
 Systematic Literature Review Papers Author Name	1248
 TII Africa Papua New Guinea Middle	10840
+Table of Contents Digital Lilangeni Design Paper	11130
 Tax Administration Reforms. IMF Working Paper	10997
 Thai Digital Economy Policy DIODE Paper	226
 UCL IIPP Working Paper Series	2123
@@ -320,7 +356,7 @@ Working Paper Series. UCL Institute for Innovation	11006
 Working Paper. Evans	10985
 Working Papers	1248,7989
 World Bank HNP Discussion Paper	10829
-World Bank Policy Research Working Paper	10963,1
+World Bank Policy Research Working Paper	10963,1,176
 World Bank Project Paper	2780
 X Papua New Guinea X Samoa	11005
 Youth Position Paper	9648

@@ -3,11 +3,13 @@ AGREGADOS FAMILIARES E DA POPULAÇÃO	10777
 ARTICLES POPULAIRES Plaies	11123
 ATM Population Merchants and POS	6978
 ATM Population Page	4517
+Access of Population	11136
 Adolescent-Responsive Action and Population Data	9766
 Adult Population	940
 Africa and PoPs	10861
-African Population and Health Research Center	6948
+African Population and Health Research Center	6948,4195
 African Population and Health Research Center Data	7167
+African Population and Health Research Centre	11143
 Alice Sesay Pope Delegated	2521,659,249,939,974,1524,210,294
 Ambassador Popp	6262
 Amendment of Identification Regulations POPIA	6512
@@ -140,10 +142,11 @@ National Biometric Population Register	2823
 National Census of Households and Population	10812
 National Identity Card and Population	2658
 National Population	1920,5744
-National Population Commission	2535,1168,417,3544,423,501,1446,670
+National Population Commission	2535,1168,417,3544,423,501,1446,670,425
 National Population Commission Chief	7664
 National Population Commission Made Me	10034
 National Population Commission and Central Bank of Nigeria	3862
+National Population Commission for Census	11129
 National Population Commission. The Federal Commissioner	8588
 National Population Commission. The NIMC	4120
 National Population Register	116,2498,48,538,25,307,724,516,554,207,1006,180,685,2280,1030
@@ -209,7 +212,7 @@ Popular Movie Gender Breakdown Michael	9781
 Popular Posts	9253
 Popular de Liberta	9399
 Populating Shared Value Sets	1009
-Population	21,716,10,223,28,15,350,191,68,1,1,1,1,1,1,54,63,2,41,156,29,82,422,4,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,2,118,1,150,1,252,177,138,261,304,1,1,1,1,5,1,60,66,83,198,107,671,142,457,328,313,277,62,146,100,31,127,192,377,58,1,279,308,87,503,386,35,173,68,115,486,131,262,165,2,49,2,3,7,5,32,9,1,4,3,6,3,3,3,3,9,2,16,7,31,8,44,4,1,16
+Population	21,716,10,223,28,15,350,191,68,1,1,1,1,1,1,54,63,2,41,156,29,82,422,4,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,2,118,1,150,1,252,177,138,261,304,1,1,1,1,5,1,60,66,83,198,107,671,142,457,328,313,277,62,146,100,31,127,192,377,58,1,279,308,87,503,386,35,173,68,115,486,131,262,165,2,49,2,3,7,5,32,9,1,4,3,6,3,3,3,3,9,2,16,7,31,8,44,4,1,16,153
 Population Administration Information System	10714
 Population Affected	1828
 Population Bas-Sassandra	747
@@ -250,7 +253,7 @@ Population Was Power	7337
 Population and Civil Service Public Services	1953
 Population and Development	7749
 Population and Housing	10765,10
-Population and Housing Census	940,36,827,1121,4444,637,243,6,159,1027
+Population and Housing Census	940,36,827,1121,4444,637,243,6,159,1027,1693
 Population and Housing Census. About	9111
 Population du Burundi	2624
 Population of Burkina Faso	10859

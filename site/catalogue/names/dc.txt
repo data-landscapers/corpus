@@ -1,4 +1,5 @@
 AC and DC	9123
+ACRONYMS ACRONYMS AI AIA API DCI	11156
 AVIS DE CONSULTATION OUVERTE DCOT N	9339
 Administration des Finances DCSFR	10874
 Africa DC	4906,1549,804
@@ -12,6 +13,7 @@ Bayobab DC	6232
 Brazzaville National DC	1643
 Burkina Faso. DCRP	3469
 CENTRO PROM. DCHOS. HUMAN. Y DEMOC.-Concepto	4209
+CRVS Civil Registration and Vital Statistics DCI	11133
 Chief Technology Officer DC Data Centre	6432
 Colo Colocation DC Data Center DIF	10781
 Colocation NDC National Data Center DC	3184,1,1340,6470
@@ -37,20 +39,25 @@ DC and AC	9123
 DC and Geneva. WBG	10841
 DC-based	2158,1324,3052,2589
 DC-powered ITE	9123
+DC. Antonio	11133
+DC. Available	11133
 DC. Awasthi	10997
 DC. Bahar	10841
 DC. Elgin	10997
 DC. ILO	10841
 DC. IMF	10997
-DC. License	10977
+DC. License	10977,172
 DC. Nov	10963
 DC. Page	10964
 DC. Public Citizen	5692
+DC. Shortlisted	11134
 DC. Technical Report	10841
 DC. U.S. Department of State	10841
-DC. World Bank	3456,7385,156
+DC. World Bank	3456,7385,156,152
+DC. World Bank and United Nations Development	11133
 DC. World Bank. IDA17 Scale-Up Facility	10997
 DC0179	10775
+DC0192 European Commission	11154
 DCA Directorate of Civil Aviation DDOS Distributed	6946
 DCAF Legal Databases	0
 DCBR BMSA LEB SITARAIL SM Lafigué	2342
@@ -66,6 +73,7 @@ DCDT APP	5968
 DCDT AR	2902
 DCDT Annual Report	1607,1,1,1,1,1,1
 DCDT and DHET	6832
+DCDT and ICASA	9759
 DCDT and SAPO	7514
 DCDT for FY2026	5198
 DCDT. Retrieved	6832
@@ -79,8 +87,15 @@ DCF Analysis	4896
 DCF DADF DC Programmation	10858
 DCF DGE DGI DGD DGSI DGTCP	10858
 DCGEM	10980
+DCI AI Hub	11156
+DCI AI Hub for Social Protection	11156
+DCI AI Hub’s AI	11156
+DCI AI Hub’s Global Evidence Review	11156
+DCI AI Tracker	11156
 DCI DG Amin Mohamed	10398
 DCI Director Mohammed I. Amin	10398
+DCI-endorsed	11156
+DCI-endorsed Implementation Guide	11156
 DCO General Assembly	7169
 DCO Secretary-General Deemah AlYahya	7169
 DCO and WEF	3837
@@ -135,6 +150,7 @@ Gachagua’s DCP	11084
 Green DC	4833
 H Street NW Washington DC	4214,6571,56,135
 ICASA and DCoG	5872
+Implement DCI	11133
 Indian Association and DCIC	10564
 Ivoire. DCPEV	10919
 Johannesburg DC	857
@@ -166,6 +182,7 @@ Power Systems DC	9123
 Presidential Task DCDT	6832
 Publishes the Xalam DC	4428
 RAS Cf la DCP	10975
+REQUIRED CITATION DCI AI Hub for Social	11156
 Riyadh. Through the DCO	3837
 Rodríguez DC	3791
 Root Certification Authority. The DCS	11120
@@ -176,12 +193,13 @@ Solly Malatsi. The DCDT	10129
 South Africa. DCD	2021
 Standards DC PUE	6432
 TASAS Y DCHOS. ADMINISTRATIVOS	4209
+TV. The DCDT	11170
 Team DCDT	1810
 Tier III DC	3959,77
 Tier IV DC	1227,662
 UDA ODM Wiper Jubilee DCP	7869
 Wahington DC	5242
-Washington DC	445,577,16,688,588,118,153,11,212,2434,198,822,4452,49,102,36,63,21
+Washington DC	445,577,16,688,588,118,153,11,212,2434,198,822,4452,49,102,36,63,21,164
 Washington DC16	748
 X DC X X X DC	10858
 X X X DC X X	10858

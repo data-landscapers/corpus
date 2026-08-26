@@ -47,6 +47,8 @@ Air Cdre. Dr. Eng. E. Kamusoko	1554
 Air Cdre. Dr. Eng. E. M	1554
 Air Cdre. Dr. Eng. Edgar Munyarari	1554
 Air Commodore Dr Eng. Edgar Kamusoko	1554
+Air Conditioning	11134
+Air Conditioning International Financial Reporting Standards	11134
 Air Cote	2342
 Air Côte	2342,3095
 Air Emissions	1988
@@ -199,7 +201,7 @@ Airtel Mobile Money Rwanda	921
 Airtel Mobile Money Tanzania	2226
 Airtel Mobile Money Uganda	922
 Airtel Mobile Money Zambia	923
-Airtel Money	914,1,1,1,1,1,1,1,1,1,782,154,577,575,24,586,322,858,250,423,441,894,137,440,1,1,36,167,72,279,66,41,133,41,312,88,104,1,25,89,30,328,345,193,161,313,629
+Airtel Money	914,1,1,1,1,1,1,1,1,1,782,154,577,575,24,586,322,858,250,423,441,894,137,440,1,1,36,167,72,279,66,41,133,41,312,88,104,1,25,89,30,328,345,193,21,140,313,629
 Airtel Money Africa	7387
 Airtel Money Business Wallet	8728
 Airtel Money Commerce Uganda Limited	9899
@@ -419,7 +421,7 @@ MTN Rwanda Ltd and AIRTEL Rwanda Ltd	718
 MTN Rwanda Ltd and Airtel Rwanda Ltd	718
 MTN Uganda and Airtel Uganda	4753,4000,724
 MTN Vodafone AirtelTigo Figure	2776
-MTN and Airtel	1903,569,871,458,4,948,1067,54,834,168,1390,1943,652
+MTN and Airtel	1903,569,871,458,4,948,1067,54,834,168,1390,1493,450,652
 MTN and Airtel Africa	4150
 MTN and Airtel Tigo	10822
 MW Airtel NXTRA LGS2 Lagos	10861
@@ -436,6 +438,7 @@ Medical Air Dec	4896
 Medical Air Gokwe	4896
 Mfuwe International Airport	5247
 Min Read Airtel Malawi Plc and TNM	7525
+Misrata Air Force Base	11131,3
 Mobile Subscriptions Airtel Networks Kenya Limited	6946
 Modibo Keïta International Airport. Health	3585
 Mogadishu's Aden Adde International Airport. ABIS	2273
@@ -457,6 +460,7 @@ ORTIA Oliver Tambo International Airport OSBP	5533
 Omnia and Airtel	10510
 Operator Airtel Networks TKL Finserve JTL	6671
 Orange and Airtel	1199,2848,4706
+Orange and Airtel DRC	9759
 Ouagadougou International Airport	5758
 Ouagadougou International Airport. Beyond	5792
 Oversee Jomo Kenyatta Airport Modernization Kenya	5407,676
@@ -493,7 +497,7 @@ Service des Aire	10876
 Seychelles. Airtel	786
 Sierra Leone. Airtel Sierra Leone	4189
 Simon Mwansa Kapwepwe International Airport	5247
-Single African Air Transport Market	961,2201,2750,4448
+Single African Air Transport Market	961,2201,2750,4448,789
 Solwezi Airport	5247
 Sonangol and TAAG Angola PA2b S Airlines	10779
 Sotel Tchad and Airtel	5033

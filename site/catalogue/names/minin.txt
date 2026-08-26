@@ -8,6 +8,7 @@ DEAVOUR MINING	2342
 Data Mining	2816
 Data Mining Company	2536
 Data Mining Sign MoU	2536
+Data Mining and Knowledge Discovery	11156
 Deploy Digital Identity Against Illegal Mining	7513
 Directorate-General of Mining Cadastre	10873
 ENDEAVOUR MINING	2342
@@ -43,7 +44,7 @@ MINSOLID MININFR A ICT	1284
 Machine Learning for Sustainable Mining Practices	1554
 Managing Director of Data Mining Company	2536
 Mimosa Mining Company	1554
-Mining	697,857,1221,114,742,496,717,403,764,354,581,50,577,178,2,697,124,1814,453,104,61
+Mining	697,857,1221,114,742,496,717,403,764,354,581,50,577,178,2,697,124,1814,453,104,61,143,3
 Mining AI	4528
 Mining CEOs	7751
 Mining Cadastre	10873
@@ -68,7 +69,8 @@ Mining World	7253
 Mining and Agriculture	4528
 Mining and Manufacturing	4528
 Mining and Metallurgy Regions of EU	11007
-Mining and Quarrying	1940,835
+Mining and Quarrying	1940,835,8377
+Mining and Quarrying NPPI	11152
 Mining of Mineral Deposits	7759
 MiningEntrepreneurshipESG	7253
 MiningTech	4528

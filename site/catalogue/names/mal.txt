@@ -501,7 +501,7 @@ Malauli	9376
 Malava	6192
 Malava MP Malulu Injendi	2515
 Malavu Data Controller INST-4423414DDF0 NAIROBI Kenya	7167
-Malawi	62,36,56,76,6,13,13,56,22,61,1,1,43,37,118,9,91,23,42,33,26,94,43,51,22,3,10,106,18,71,5,2,82,20,11,1,12,13,45,17,14,75,14,8,11,20,39,24,37,2,9,7,117,4,56,26,63,3,128,156,54,6,103,20,94,25,3,45,44,24,38,5,3,47,3,38,3,1,3,50,3,6,1,31,8,3,5,13,3,1,70,1,3,5,9,56,11,6,177,18,46,111,24,139,20,35,59,5,6,43,29,69,22,22,97,8,29,21,84,4,49,140,188,5,25,26,22,11,133,1,14,41,57,24,116,32,25,13,120,23,6,63,10,62,51,15,13,32,36,5,9,5,5,42,1,72,24,5,105,29,20,27,28,34,16,29,47,20,20,169,7,7,1,18,17,53,19,64,36,6,42,30,1,4,7,39,6,52,1,59,10,6,28,38,6,2,7,2,4,10,2,1,36,14,62,8,95,29,81,36,14,30,1,14,24,21,73,6,41,1,1,1,29,43,1,22,16,14,17,21,130,19,115,1,28,16,14,62,1,316,7,113,35,116,44,73,290,135,1,43,11,23,44,1,1,4,121,8,202,84,1,8,10,67,24,13,62,126,86,41,38,2,18,96,68,116,43,5,69,70,50,70,18,23,4,1,21,50,3,6,37,69,18,9,14,98,7,22
+Malawi	62,36,56,76,6,13,13,56,22,61,1,1,43,37,118,9,91,23,42,33,26,94,43,51,22,3,10,106,18,71,5,2,82,20,11,1,12,13,45,17,14,75,14,8,11,20,39,24,37,2,9,7,117,4,56,26,63,3,128,156,54,6,103,20,94,25,3,45,44,24,38,5,3,47,3,38,3,1,3,50,3,6,1,31,8,3,5,13,3,1,70,1,3,5,9,56,11,6,177,18,46,111,24,139,20,35,59,5,6,43,29,69,22,22,97,8,29,21,84,4,49,140,188,5,25,26,22,11,133,1,14,41,57,24,116,32,25,13,120,23,6,63,10,62,51,15,13,32,36,5,9,5,5,42,1,72,24,5,105,29,20,27,28,34,16,29,47,20,20,169,7,7,1,18,17,53,19,64,36,6,42,30,1,4,7,39,6,52,1,59,10,6,28,38,6,2,7,2,4,10,2,1,36,14,62,8,95,29,81,36,14,30,1,14,24,21,73,6,41,1,1,1,29,43,1,22,16,14,17,21,130,19,115,1,28,16,14,62,1,316,7,113,35,116,44,73,290,135,1,43,11,23,44,1,1,4,121,8,202,84,1,8,10,67,24,13,1,61,126,86,41,38,2,18,96,68,116,43,5,69,70,50,70,18,23,4,1,21,50,3,6,37,69,18,9,14,98,7,22,15,16
 Malawi Acceleration Project	10411
 Malawi Agriculture and Industrial Investment Corporation	8399
 Malawi Airtel Madagascar	5908,442
@@ -571,7 +571,8 @@ Malawi University of Science and Technology	2816,1742,1293,1563
 Malawi Vision	1376,3652,803
 Malawi Voice Data Commons	7313
 Malawi and Angola	7963
-Malawi and Mozambique	9959
+Malawi and Mozambique	9959,1196
+Malawi and Rwanda	11133
 Malawi and Tanzania	6539,3
 Malawi and Zambia	1250,2487,11,1750
 Malawi and Zimbabwe Dr Casper Kamutando University	1154
@@ -635,7 +636,7 @@ Malawi’s Parliament	340
 Malawi’s Payment Systems	3288
 Malawi’s President Lazarus Chakwera	483
 Malay-	2775
-Malaysia	236,1466,1018,148,715,484,380,363,157,371,332,12,817,44,70,380,15,56,47,32,405,198,13,203,301,232,743,1104,422,21,61,131,28
+Malaysia	236,1466,1018,148,715,484,380,363,157,371,332,12,817,44,70,380,15,56,47,32,405,198,13,203,301,232,743,1104,422,21,61,131,28,149
 Malaysia Mali	10714
 Malaysia National Registration and Identification System	10714
 Malaysia's Immigration Department	4275
@@ -675,7 +676,7 @@ Maleche	4674
 Malecki	3782,894
 Malecki and Wei	3782
 Malehloa Molato	9440
-Males	958,8527
+Males	958,8527,1646
 Malette	10400
 Malettes	10847
 Malgache	9482
@@ -836,7 +837,7 @@ Mandela Day Malatsi	5808
 Marina Mall P. O. Box KS	2776
 Marvel Shibambu and Malunghelo Mathonsi	3264
 Marvel and Malunghelo	3264
-Maryla Maliszewska	6948,3893
+Maryla Maliszewska	6948,3893,308
 Matters Malawi	9820
 Mayamiko Nkoloma. The Malawi Communications Regulatory	7413
 Mbedumu Malabo	4209
@@ -941,6 +942,7 @@ Phase I of Malawi National Fibre Backbone	127
 Phases Multiples MST Maladie Sexuellement Transmissible	10876
 Philippines and Malaysia	4275
 Politécnicos de Malabo	4209
+Post Street Mall	11152
 Potabilizadora de Agua de Buena Malabo	4209
 Presidencial de Malabo	4209
 Presidency. Malatsi	7058
@@ -958,6 +960,7 @@ RDC. Malgré	3069,749
 RECEIVE MALAWI NATIONAL BANK OF MALAWI	11002
 Radio Amani FM Malinde	10097
 Radio Malabo	4209
+Ransomware Malware	11153
 Ratifying the Malabo	969
 Raïssa Malu	4092,2569
 Raïssa Malu Aux	4092
@@ -1010,6 +1013,7 @@ Shoprite Gugulethu Shoprite Malmesbury Shoprite Milnerton	8999
 Sibahle Malinga	7339,263,350,77,234,187,141,1177,153,161,557
 Signals Mali	5348
 Simwaka. Malawi	5831
+Smartphone-Supported Malaria Diagnosis Based	11140
 Smile Mall	6011,985
 Société B2GOLD MALI RESOURCES SARL	9287,55
 Société Malienne de Transmission	7999
@@ -1022,6 +1026,7 @@ Solly Malatsi. Malatsi	2937
 Solly Malatsi. Tackling	8398
 Solly Malatsi. The CNSA	8161
 Solly Malatsi. The DCDT	10129
+Somalia Acute Food Insecurity and Malnutrition Snapshot	11136
 Son Exellence Augustin Kibassa Maliba	7812
 Sotelma for Mali	1440
 South Africa and Malawi	1554
@@ -1098,6 +1103,7 @@ X Libya X Madagascar X Malawi	11005
 X Maldives X Mali X Marshall	11005
 YEA Chief Executive Officer Malik Basintale	7285
 ZB Bank Launches Smile Mall	6011,985
+Zambia and Malawi	9759
 Zero Malaria Starts	10776
 Zimbabwe and Malawi Mr Tatenda Crispen Madzokere	1154
 Zona Presidencial de Malabo	4209

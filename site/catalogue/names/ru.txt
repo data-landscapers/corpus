@@ -69,7 +69,8 @@ Centres Ruraux de Développement	5240
 Centres de Santé Ruraux	2342
 Certificat Foncier Rural CI Consultant Individuel	10876
 Challenge Categories and Coding Rules Nine	7151
-Chatham House Rule	8074,2014
+Chatham House Rule	8074,2014,1050
+Chatham House Rule. Participants	11138
 China and Russia	6950
 Christian Brothers Ruben Centre Trust Registered	7167
 Civil Procedure Rules	11
@@ -161,7 +162,10 @@ Eraste Rurangwa	8343,2421
 Ernest Rurangwa	4666
 Escola Superior de Desenvolvimento Rural	2816
 Estatística Rua Ho-Chin-Minh	10757
+Example of Rural Addresses	11129
+Example of Rural Addressing	11129
 Excellency President William Samoei Ruto	10313
+Excellency the Prime Minister Russel Dlamini	11131
 Expand Digital Inclusion Across Rural Zambia	6713
 Expand Rural Broadband	5244
 Expand Rural Connectivity	5534
@@ -195,6 +199,7 @@ Ghana Rural Telephony and Digital Inclusion Project	478,1,7546
 Global Cross-Border Privacy Rules	2769,2594
 Global Cross-Border Privacy Rules Forum	4583,783
 Global Data Privacy Rules	4583
+Global Digital Rulebook	11154,1
 Gorilla Tracking Rules	6077
 Government and Rural Development	8667
 Grey and Ruby Care	8438
@@ -299,6 +304,7 @@ Milieu Urbain Milieu Rural Nb	10847
 Min ReadKenyan President William Ruto	4978
 Minister Savannah Maziya and Prime Minister Russell	5799
 Minister of Local Government and Rural Development Ben	8575
+Ministry for Rural Development	11129
 Ministry of Agriculture and Rural Development	10964,21
 Ministry of Local Government and Rural Development	1988,3632,771,2407
 Ministry of Urban and Rural Development	3634
@@ -550,7 +556,7 @@ Rukwa	2868,3147,713,88,434
 Rukwa Basin	10592
 Rukwa and Morogoro	9689
 Rule Class	5665
-Rule of Law	1828,1563,735,156,962,2441,3074,76,2,1,74,56
+Rule of Law	1828,1563,735,156,962,2441,3074,76,2,1,74,56,167,19
 Rule of Law ACCOUNTABILITY	10759
 Rule of Law Absence of Crime Poverty Reduction	10759
 Rule of Law Accountability	10759
@@ -567,7 +573,7 @@ Rule of Law and Consumer Protection European Commission	8533
 Rule of Law and Consumer Protection Michael McGrath	8773
 Rule of Law29	1814
 Rule-Based Systems	8283
-Rules	11,958,3,237,34,575,489,367,28,303,498,367,740,234,52,272,576,679,1543,6,238,998,414,233,924
+Rules	11,958,3,237,34,575,489,367,28,303,498,367,740,234,52,272,576,679,1543,6,238,998,414,233,924,370
 Rules Engine	6423
 Rules of Court	2307
 Rules of Origin	9242
@@ -614,8 +620,13 @@ Ruptura Materice	10780
 Rupturas de Stock	8324
 Rupture	10882
 Rupture’ No Comments	2367
-Rural	11,112,113,182,225,93,1,34,169,30,43,186,16,4,9,56,420,163,77,44,105,363,492,41,170,227,19,17,126,21,103,189,62,124,83,523,54,87,414,792,51,82,254,206,239,116,399,416,106,17,249,706,295,480,799,333,9,3,3,14,35,35,28
+Rural	11,112,113,182,225,93,1,34,169,30,43,186,16,4,9,56,420,163,77,44,105,363,492,41,170,227,19,17,126,21,103,189,62,124,83,523,54,87,414,792,51,82,254,206,239,116,399,416,106,17,249,706,295,480,799,333,9,3,3,14,35,35,28,254
+Rural Addresses Figure	11129
+Rural Addressing Structure	11129
+Rural Addressing Structure Mr	11129
+Rural Africa	11140
 Rural Agent Project	8539
+Rural Area	11129
 Rural Areas	6422,3689,853
 Rural Areas Figure	10763
 Rural Areas Table	10763
@@ -634,6 +645,7 @@ Rural Connectivity Initiative	3798
 Rural Connectivity Project	3489,294
 Rural Connectivity Summit	3798
 Rural Connectivity and Digital Inclusion	5245
+Rural Delivery	11129
 Rural Development	1257,521,210,6204,1417,1322
 Rural Development Council	3593
 Rural Development Support Programme	10841
@@ -723,18 +735,19 @@ Rushwaya	8419
 Rusizi II	718
 Rusizi Societe Petroliere Ntarama	718
 Rusororo	718
+Russel Hillberry	11149
 Russell	2816,1310,2706,1451,2147
 Russell Mmiso Dlamini	7030
 Russell Sage Foundation	2096
 Russell Southwood	8025
-Russia	434,506,21,9,294,853,560,98,560,792,86,79,156,653,780,32,178,734,55,70,270,221,30,44,118,329,1120,511,239,897,51,61,136,27,46
+Russia	434,506,21,9,294,853,560,98,560,792,86,79,156,653,780,32,178,734,55,70,270,221,30,44,118,329,1120,511,239,897,51,61,136,27,46,81,23
 Russia Cameroon	5985,909
 Russia Today	3855
 Russia and China	4676
 Russia and Iran	9015
 Russia and Ukraine	10980
 Russia and Venezuela	7962
-Russia-Ukraine	2775,7943,45,222
+Russia-Ukraine	2775,7943,45,222,146
 Russia-Ukraine War	8437
 Russia-led	2117
 Russia. Daily Maverick	1695
@@ -832,6 +845,7 @@ Slovakia and Russia	8687
 South Sudan Targets Rural Connectivity	4544
 Star and Ruhleder	5700
 Starlink Has Run Into Walls	6825
+State Council of Traditional Rulers	11129
 State Institutions Rural Representation	10759
 Statistique du Secteur Développement Rural	9553
 Statut Effectif Pourcentage Rural Etablissement	10875
@@ -859,6 +873,8 @@ TechTalkThursday Why Connecting Rural Congo Costs	2359,13,87,68,36,30,118,5,38,7
 Technology Urban Rural Unit	6051
 Tender for Electronic Equipment for Rural Job Centers	8985
 Tobias Ruettershoff	5546
+Traditional Ruler	11129
+Traditional Rulers and Community Leaders	11129
 Training and Development RURA	718
 Transforming Rural and Underserved Schools	6948
 Transport Development Agency RURA Rwanda Utilities	718

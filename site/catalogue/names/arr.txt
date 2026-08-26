@@ -59,7 +59,7 @@ Arribas	8604
 Arrimage	10712
 Arrimaha	9583
 Arrival	8306
-Arrival of Fast Internet and Employment	1264
+Arrival of Fast Internet and Employment	1264,9876
 Arrival of Indentured Labourers	7845
 Arrived	10570
 Arrives	5390
@@ -116,6 +116,7 @@ IFR. Accounting and Reporting Arrangements	3604
 III. IMPLEMENTATION ARRANGEMENTS	969,295,603,4672,4229,61
 IMPLEMENTATION ARRANGEMENT AND SUPPORT PLAN	10829
 IMPLEMENTATION ARRANGEMENT AND SUPPORT PLAN Overall	10829
+INSTITUTIONAL ARRANGEMENT	11129
 INSTITUTIONAL ARRANGEMENTS FOR REGULATION OF COMPLEX	961
 INTERIM GOVERNANCE ARRANGEMENTS	3861
 Implementation Arrangements	1988
@@ -125,10 +126,11 @@ Implementation Arrangements and Support Plan	969,295,603,8901
 Implementation Modalities No Disbursements Arrangements	2473
 Industry and Market Context Anchor Tenant Arrangements	4896
 Initial Mandated Lead Arranger	1404
-Institutional Arrangement	395
+Institutional Arrangement	395,10734
 Institutional Arrangement No Risks No Implementation	2473
 Institutional Arrangement The Ministry of ICT	395
-Institutional Arrangements	1228,8929,672
+Institutional Arrangements	1228,8929,672,300
+Institutional Arrangements for Fintech Regulation	11140
 Institutional Arrangements. Responsibility	4653
 Institutional and Implementation Arrangements	1284
 Interim Governance Arrangements	3861

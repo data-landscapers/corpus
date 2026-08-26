@@ -32,10 +32,12 @@ DATABIT LIMITED Data Processor INST-5766979ABB3 NAIROBI	7167
 DCAF Legal Databases	0
 DataBank	10714
 DataBreachToday	3279
-Database	7,963,543,3163,989,758,9,1556,1682,1044
+Database	7,963,543,3163,989,758,9,1556,1682,1044,415
 Database Administration	9437
 Database Administrators	6832
 Database ID	6423
+Database Maintenance	11129
+Database Management	11129
 Database Management Department	7159
 Database MySQL	2674
 Database Schema	6423
@@ -57,22 +59,29 @@ External Data Sources DIMAMO Operational Database	8604
 Family Database	8891
 Findex Database	10977
 Full Contents of The Global Findex Database	10977
+GIS Addressing Database. At the Local Government	11129
 GSMA Tax Database. Côte	10932
-Global Findex Database	940,4625,974,4175,108,19,136
+Global Findex Database	940,4625,974,4175,108,19,136,161
 Global Innovation Index Database	10846
-ICT Indicators Database	1248
+ICT Indicators Database	1248,8511
 ID for All The National Database and Registration	3623
 ID4D Global Database	10714
 ID4D Global Database Volume	10714
 ID4D- Global Findex Database	10714
 ID4D-Global Findex Database	10714
 Incident Database	9968
+Indonesia’s Unified Database of Beneficiaries	11133
 Industrial Statistics Database	10969
+Infrastructure and Database	11129
 Intelligence Database	1000
 Investments AVCA’s Venture Capital Database	4972
 Libyan Legal Database	0
+Local Addressing Database	11129
+Mongolia's Integrated Household Information Database	11133
 Multilateral Surveillance Mechanism Database	7
 Multiple Databases	6423
+National Address Database	11129
+National Addressing Database	11129
 National Database	5920,4360
 National Identity Database	4602,972,1567,3,1970,556
 National Identity Database. Under DG Abisoye	3703

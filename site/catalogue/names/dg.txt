@@ -37,13 +37,15 @@ DG Ansat	10924
 DG Aristide Guy Adjinacou Gnahoui	3387
 DG Arzouma Parfait Louré	3925
 DG Attia Byll	6446
+DG Connect	11155
 DG Connect European Commission	10819
+DG Development	11155
 DG Functional	5533
 DG GANADERÍA	4209
-DG INTPA	970
+DG INTPA	970,10185
 DG INTPA Directorate General for International Partnerships	970
 DG Impuestos	4209
-DG International Partnerships	6552,191
+DG International Partnerships	6552,191,4412
 DG Jordan-Dyani	2902
 DG Justine Adebiyi	6446
 DG Kashifu Inuwa	4725
@@ -59,6 +61,7 @@ DG Semestriel PTA	10876
 DG Solomane Koné	1717
 DG Solomane Koné and Minister Léon Juste	1717
 DG Territorial Admin	3294
+DG Trade and DG Just	11155
 DG Trésor	648
 DG Zongo	3668
 DG de BFS	10259
@@ -234,6 +237,8 @@ DGovStack	5700
 DGovernance	5700
 DGoverning	3782
 DGovernment	5349,351
+DGs INTPA MENA and ENEST. DG Trade	11155
+DGs MENA and DG ENEST	11155
 DI DGI	10858
 DSS05 Managed Security DGov	9237
 Datacenter de La DGI	10858
@@ -253,6 +258,7 @@ Direction des Affaires Administratives DGEC	10847
 Diretor Geral da DGRN	2688
 Droits Indirects DGTCP Direction Générale du Trésor	10876
 Démographie DG	10874
+EEAS and DG Connect	11155
 EIB and DGT	1405
 EN COURS DGAENF LA SNAENF	2966
 EN COURS DGAENF Un	2966
@@ -329,6 +335,7 @@ RECETTES BRUTES DGI	10712
 Rapport Rapport DGB	643
 Représentant la DGDI	8695
 Réunion des DG	8072
+SDGs. DG INTPA	11155
 SMQ DGI	10712
 SONATREL du DGCC	10975
 SUGF Banque INStaD DGB CAGeD DGFD	10876

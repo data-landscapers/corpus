@@ -6,6 +6,7 @@ AWPB Annual Work Plan and Budget BIF	1284
 AWPB Annual Work Plan and Budget CAR	10829
 Actions Budgétisées	10913
 Acueil Tchad Budget	4739
+Adequate Annual Budgetary	11129
 Adjusted Budget	750,540,494,1,2,7,3
 Agencies MFB Ministry of Finance and Budget MFD	3604
 Allocated Budget	1289
@@ -45,6 +46,7 @@ Billion Birr Additional Budget Addis Ababa	1971
 Billion Birr Supplementary Budget Addis Ababa	1964
 Billion Budget for Digital Transition	4071
 Birr Budget for Upcoming	3211
+Budach	11156
 Budalangi	10313
 Budalang’i	10313
 Budapest	1000,2105
@@ -56,7 +58,7 @@ BuddeComm	6244
 Budding	1037
 Buddy Buruku	10977
 BudgIT	5155,190
-Budget	86,123,191,1,162,80,5,50,1,19,4,1,25,17,24,117,45,1,17,186,33,22,41,1,1,1,1,17,1,1,1,6,3,1,1,3,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,4,1,1,2,1,1,1,90,2,79,1,21,2,9,1,9,6,1,2,12,18,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,42,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,4,2,46,1,1,1,1,22,1,1,1,1,1,1,1,1,1,11,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,9,4,12,6,6,1,31,52,12,1,1,1,1,1,1,1,5,10,3,6,27,5,3,6,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,4,1,1,1,1,1,1,1,1,1,10,1,1,1,1,1,1,1,1,1,1,1,1,44,13,1,16,124,180,1,1,1,1,1,5,84,65,11,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,85,69,32,50,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,54,3,1,1,1,1,5,18,56,19,17,42,1,16,1,1,1,1,1,1,1,1,15,1,1,1,1,1,1,1,1,1,29,1,1,1,1,1,1,1,1,1,46,126,14,10,177,21,2,32,27,11,1,29,9,4,97,20,10,1,14,106,27,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,42,11,1,21,4,30,20,1,1,1,1,1,1,8,61,1,18,55,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,18,1,21,7,1,1,1,1,1,1,4,4,1,4,1,1,1,4,1,1,8,1,1,1,1,1,1,1,1,1,1,1,1,2,34,1,1,7,17,1,1,1,1,1,1,1,1,1,16,1,1,1,1,1,8,12,26,13,1,1,1,1,1,10,1,1,1,19,38,1,1,1,1,1,4,49,8,17,12,131,60,66,25,25,5,12,16,24,74,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,4,39,12,139,59,14,62,98,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,1,152,1,15,27,10,41,113,1,112,127,56,106,6,1,1,1,25,57,11,24,38,1,18,70,19,48,8,7,15,60,64,5,11,1,1,1,1,1,1,1,1,23,68,71,1,1,1,1,1,1,1,1,70,62,22,19,33,69,176,7,122,10,15,105,37,48,16,52,25,16,33,37,99,33,503,24,76,92,271,136,127,12,485,350,228,8,9,76,40,75,4,9,91,58,4,2,1,23,2,14,5,16,28,10,10,20,12
+Budget	86,123,191,1,162,80,5,50,1,19,4,1,25,17,24,117,45,1,17,186,33,22,41,1,1,1,1,17,1,1,1,6,3,1,1,3,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,4,1,1,2,1,1,1,90,2,79,1,21,2,9,1,9,6,1,2,12,18,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,42,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,4,2,46,1,1,1,1,22,1,1,1,1,1,1,1,1,1,11,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,9,4,12,6,6,1,31,52,12,1,1,1,1,1,1,1,5,10,3,6,27,5,3,6,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,4,1,1,1,1,1,1,1,1,1,10,1,1,1,1,1,1,1,1,1,1,1,1,44,13,1,16,124,180,1,1,1,1,1,5,84,65,11,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,85,69,32,50,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,54,3,1,1,1,1,5,18,56,19,17,42,1,16,1,1,1,1,1,1,1,1,15,1,1,1,1,1,1,1,1,1,29,1,1,1,1,1,1,1,1,1,46,126,14,10,177,21,2,32,27,11,1,29,9,4,97,20,10,1,14,106,27,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,42,11,1,21,4,30,20,1,1,1,1,1,1,8,61,1,18,55,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,18,1,21,7,1,1,1,1,1,1,4,4,1,4,1,1,1,4,1,1,8,1,1,1,1,1,1,1,1,1,1,1,1,2,34,1,1,7,17,1,1,1,1,1,1,1,1,1,16,1,1,1,1,1,8,12,26,13,1,1,1,1,1,10,1,1,1,19,38,1,1,1,1,1,4,49,8,17,12,131,60,66,25,25,5,12,16,24,74,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,4,39,12,139,59,14,62,98,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,1,152,1,15,27,10,41,113,1,112,127,56,106,6,1,1,1,25,57,11,24,38,1,18,70,19,48,8,7,15,60,64,5,11,1,1,1,1,1,1,1,1,23,68,71,1,1,1,1,1,1,1,1,70,62,22,19,33,69,176,7,122,10,15,105,37,48,16,52,25,16,33,37,99,33,503,24,76,92,271,136,127,12,485,350,228,8,9,76,40,75,4,9,91,58,4,2,1,23,2,14,5,16,28,10,10,20,12,114,3,2,10
 Budget Allocation Reported Expenditure	3583
 Budget Allocation Reported Expenditure Legal	3583
 Budget Allocation Reported Expenditure Regional	3583
@@ -158,6 +160,7 @@ Budžet	10780
 Business Budget Business	9067
 CABO VERDEAN BUDGET	4410
 CEDEAO COMMUNITY MTEF COMMUNITY BUDGET	6422
+Capital Budget	11136
 Central African Republic Ministry of Finance and Budget	4127
 Commissioner for Budget and Planning Mr Kingsley Anosike	5072
 Community Budget	6422
@@ -183,6 +186,7 @@ Direct Budget Support The Federal Government	5655
 Direction Générale Budget	643
 Direction Générale du Budget	1306,724,531,1746
 Direction du Budget	1536
+Director of Budget and Economic Affairs	11131,3
 Directorate-General for Budget	10856
 Discipline Budgétaire	8750
 Distribution and Access Project. Budget	1538
@@ -205,6 +209,7 @@ Enhance Revenue and Budget Efficiency	2527
 Environnementales DGB Direction Générale du Budget DG	10876
 Equatorial Guinea’s Ministry of Finance and Budget	57,284
 Estimated Budget	1988
+Eswatini Budget	11131
 Executive Budget Proposal EFY	1783,1,1,1,1,1,1,1,1,1,1,1,1,1,1
 Executive's Budget Proposal	6463
 Exécution Budgétaire	4420
@@ -231,7 +236,8 @@ HCP. Budget	8891
 Haseeb Budhani	5439
 Home Affairs Budget Vote Debate	3200,2996
 Home Affairs Dept Budget Vote	6196
-Household Budget Survey	9252
+Honourable Minister of Budget and National Planning	11129
+Household Budget Survey	9252,1884
 Housing Budget Shrinks	2428
 Hydrocarbures50 Le Budget	1594
 IBP International Budget Partnership IDMC Internal	10759,78
@@ -243,7 +249,9 @@ III.2.3 Direction Générale du Budget	10876
 Implementation Shall Define Budget Outcomes	8723
 Indicator Responsibility Budget Design Measures Purchase	1988
 Indicator for Monitoring Budget Air Pollution	1988
+Infrastructure Budget	11133
 Integrated Budget Operations Management System	3604
+Integrated Household Budget Survey	11136
 Intergovernmental Budget and Economic Council	10122
 Intergovernmental Budget and Economic Council. Supporting	9939
 International Budget Partnership	6500,250,1263,1446
@@ -287,18 +295,20 @@ Ministries and Other Extra- Budgetary Institutions	2775
 Ministries of Finance and Budget	3604
 Ministry of Budget	7143
 Ministry of Budget and Economic Planning	7143
+Ministry of Budget and National Planning	11129
 Ministry of Budget and Planning	5072
 Ministry of Finance and Budget	969,12,2623
 Ministry of Finance's Programme-Based Budget	4491
 Ministère du Budget	3024,1133,241,22
 N TRAINING MODE OF ASSUMPTION BUDGET	1988
 NCOP Plenary. The Budget	3200
-National Budget	940,344,2817,1146
+National Budget	940,344,2817,1146,5884,3
 National Budget Policy Statement	5851
 National Budget Speech	4100
 National Budget Speech and Statement	4100,293
 National Budget Statement	4101,288,1,2
 National Budget Treasury	7548
+National Budget. Reserve Bank of Zimbabwe Benchmarking	11131
 National Budget2	1284
 National Economy and National Budget	10299
 National Government Budget Implementation Review	6588
@@ -318,8 +328,13 @@ PROGRAMMATION BUDGETAIRE Accélération	10858
 PROPORTION DU STRATEGIQUES BUDGET PAR AXE	10965
 Parallel Budget Across	6588
 Parliamentary Budget Office	6463
+Penn Wharton Budget Model	11140
+Post Budget Seminar	11131
+Post Budget Seminar Hosted the Post Budget	11131
+Post Budget Seminar. CBE	11134
 Pour la Directrice du Pôle Budget	8196
 Power Problem Nobody Budgets	7208
+Pro-Growth National Budget	11131
 Programme-Based Budget	1514,694,2282,1
 Programme-Based Budget Estimates	1512,1,1,2969,7,1
 Project Activities Budget Funding US	395
@@ -342,6 +357,8 @@ SEP Budget Table Budget Category	1778
 SITUATION D'EXÉCUTION DU BUDGET DE L'ETAT	3396
 SITUATION D'EXÉCUTION DU BUDGET PAR PROGRAMME	6548
 SITUATION DE MOBILISATION DES RECETTES BUDGETAIRES	3396
+SNBS Integrated Household Budget Survey	11136
+SOCIAL PROTECTION AND WELFARE BUDGET ISSUE	11133
 SSA. Budget EUR	1085
 STAKEHOLDER ENGAGEMENT BUDGET	1778
 Sample Budget and Capacity Audit Templates Category	3861

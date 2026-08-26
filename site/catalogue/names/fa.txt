@@ -103,6 +103,7 @@ Analysis of Factors	226
 Angaza Holy Family Community	7167
 Angel Networks Family	4972
 Angola Procura de Planeamento Familiar	10760
+Annual Eswatini Careers Fair	11134
 Anoumbuandem Benvolio Lekunze Faculty of Laws and Political	10979
 Anssi. Face	2911
 Anthony Fakiyesi	8640
@@ -114,7 +115,7 @@ Anthropic’s Fable and OpenAI’s ChatGPT	9027
 Applications Mobile Burkina Faso	9993
 Appointment of Mr Fayaz King	5538
 Arrangement Under the Extended Credit Facility for Burundi	1284
-Arrival of Fast Internet and Employment	1264
+Arrival of Fast Internet and Employment	1264,9876
 Artci. Représentant Fatim Cissé	4287
 Article Facebook Twitter Copy Link Print	2264,1669,239,437,166,820,1446
 Assessment of Indicators Using Health Facility Data	10881
@@ -156,7 +157,10 @@ BURKINA FASO REPUBLIQUE DU MALI REPUBLIQUE	1967
 Background Burkina Faso	10812
 Bank TymeBank WhatsApp YouTube Share. Facebook	5544
 Bank WhatsApp YouTube Share. Facebook Twitter	6286
+Bank-Fintech Fault Line	11138
 Banks Face Hefty Fines	3256
+Bank’s Facebook	11134
+Baqaee and Farhi	11140
 Barreau du Bénin. Favorable	10821
 Bassirou Diomaye Diakhar FAYE	5907
 Bassirou Diomaye Diakhar Faye	7477
@@ -167,6 +171,7 @@ Bassirou Diomaye Faye-Macky Sall	4899
 Bassirou Diomaye Faye. Toutefois	8401
 Bceao. Faire	3259
 Bceao. Faut-il	3719
+Beatrice Berman and Fan Yang	11149
 Behavioural Factors Viz. Socioeconomic	5349
 Belay DT. Factors	1219
 Benin Africa West Africa Burkina Faso	10856
@@ -180,7 +185,8 @@ Birame Faye	7613
 Blended Finance Facility	3470
 Bloomwit Africa. Fabricated	7445
 Boiler Failure and Water Chemistry	1154
-Bolsa Família	10028
+Bolsa Família	10028,1105
+Bolsa Família. Over	11133
 Bosque Fang	4209
 Brazil's Bolsa Familia	10985
 Btopic facet	2816
@@ -189,7 +195,7 @@ Bulawayo and Victoria Falls	1585
 Bulawayo-Victoria Falls Highway	8296
 Bundung and Fajikunda	4338
 Bureau du Médiateur du Burkina Faso	10817
-Burkina Faso	7,23,83,44,42,37,71,5,19,6,55,10,3,11,58,1,77,88,2,1,1,8,60,10,15,48,51,1,56,36,4,80,52,76,1,47,28,26,21,13,14,1,1,3,2,33,14,3,47,46,24,119,37,13,1,6,6,3,94,57,11,25,80,1,32,107,1,3,1,12,67,7,155,14,60,7,138,38,8,7,107,24,19,7,43,194,14,72,71,106,40,44,25,4,9,42,31,17,11,10,4,2,1,13,5,9,18,19,38,14,36,16,28,2,14,27,101,11,1,1,54,12,34,2,19,21,19,7,36,4,6,20,75,48,14,37,63,37,37,1,3,1,8,16,1,59,91,1,17,37,57,20,19,26,1,9,2,9,10,6,13,2,25,47,7,1,11,1,29,9,5,3,1,13,32,9,33,66,209,24,47,105,10,18,11,20,2,18,32,13,100,1,42,35,1,31,2,15,19,18,42,13,18,172,2,1,2,132,15,10,67,30,47,51,11,16,176,36,16,6,24,20,41,31,4,7,49,6,44,5,1,11,9,51,14,24,122,76,5,25,3,7,20,47,1,7,64,27,33,185,4,4,29,86,7,86,29,35,49,62,12,25,52,1,11,75,84,82,51,47,1,132,1,43,43,12,1,1,1,86,64,150,12,1,227,73,160,32,79,40,1,139,47,27,86,1,32,98,112,19,37,38,30,17,27,18,156,3,19,5,43,18,11,16,54,45,5,21,27,5,2,2,1,3,3,1,1,4,1,3,4,2,1,5,4,2,2,1,3,1,1,2,2,4,1,1,1,4,2,3,1,6,18,11,20,8,17,3,15,22,94,24
+Burkina Faso	7,23,83,44,42,37,71,5,19,6,55,10,3,11,58,1,77,88,2,1,1,8,60,10,15,48,51,1,56,36,4,80,52,76,1,47,28,26,21,13,14,1,1,3,2,33,14,3,47,46,24,119,37,13,1,6,6,3,94,57,11,25,80,1,32,107,1,3,1,12,67,7,155,14,60,7,138,38,8,7,107,24,19,7,43,194,14,72,71,106,40,44,25,4,9,42,31,17,11,10,4,2,1,13,5,9,18,19,38,14,36,16,28,2,14,27,101,11,1,1,54,12,34,2,19,21,19,7,36,4,6,20,75,48,14,37,63,37,37,1,3,1,8,16,1,59,91,1,17,37,57,20,19,26,1,9,2,9,10,6,13,2,25,47,7,1,11,1,29,9,5,3,1,13,32,9,33,66,209,24,47,105,10,18,11,20,2,18,32,13,100,1,42,35,1,31,2,15,19,18,42,13,18,172,2,1,2,132,15,10,67,30,47,51,11,16,176,36,16,6,24,20,41,31,4,7,49,6,44,5,1,11,9,51,14,24,122,76,5,25,3,7,20,47,1,7,64,27,33,185,4,4,29,86,7,86,29,35,49,62,12,25,52,1,11,75,84,82,51,47,1,132,1,43,43,12,1,1,1,86,64,150,12,1,227,73,160,32,79,40,1,139,47,27,86,1,32,98,112,19,37,38,30,17,27,18,156,3,19,5,43,18,11,16,54,45,5,21,27,5,2,2,1,3,3,1,1,4,1,3,4,2,1,5,4,2,2,1,3,1,1,2,2,4,1,1,1,4,2,3,1,6,18,11,20,8,17,3,15,22,94,24,14
 Burkina Faso AXE	10858
 Burkina Faso Adama YAMEOGO Chef	10708
 Burkina Faso Adopts Harmonized Framework	3640
@@ -399,6 +405,7 @@ CAMFED and FAWE. CAMFED	1540
 CAMP NDUNDA FALLS LIMITED Data Controller	7167
 CAR President Faustin-Archange Touadéra	4340,5
 CAR President Mr Faustin-Archange Touadéra	4352
+CBE. Critical Factors Key Performance Targets	11131
 CCI JOY FAMILY CHILD DEVELOPMENT CENTRE	7167
 CCTV. Face	10698
 CCTV. Facial	4563
@@ -436,6 +443,7 @@ Carrier-neutral Facilities	10781,80
 Cascades Boromo Centre Mouhoun Fara	10875
 Cassava AI Factory	5439,388
 Cassava’s AI Factory	5311
+Catherine Farvacque-Vitkovic	11129
 Central African Republic Facebook	2504,1414
 Central Facility Block	3386
 Central Fase III Oyala	4209
@@ -452,6 +460,7 @@ Cheick Fantamady Kante Practice Managers	2889
 Cheikh Faye	9541
 Chepsaiti Farmers Co-operative Society Limited Data	7167
 Chief Executive Sam Hou Fai. Under	6361
+Chief Financial Officer Sikhumbuzo Fakudze Head	11131
 Childline Kenya Facebook	8050
 Chimwamurombe Fannuel	2518
 China Contact Us Newsletter Facebook Twitter	10068
@@ -513,6 +522,7 @@ DE L'ETAT CIVIL AU BURKINA FASO	10812
 DE LA FAMILLE ET	7670
 DE LA PRESIDENCE DU FASO	7670
 DECISION FINALE Favorable	10821
+DESIGN OF PARKING FACILILTIES Built-in Garage	11129
 DFF Direct Facility Financing DGMP General	10829
 DG de FAGACE Ngueto Tiraïna Yambaye	2915
 DG de Farmacia	4209
@@ -556,7 +566,7 @@ Digital Fabrication Laboratory Fondazione Aurora. Retrieved	10834
 Digital Factory	4199,6881
 Digital Fast Track	2149,944,4,37,3512
 Digital Green Farmer.Chat Bill	2181
-Digital Investment Facility	3184,1,1243,97,1707,4549,80,134
+Digital Investment Facility	3184,1,1243,97,1707,4549,80,134,160
 Digital Investment Facility EAC East African	10781
 Digital Sovereignty and Fair Data Compensation Bill	8088
 Digital Trade Facilitation	3861
@@ -582,6 +592,7 @@ Déthié Faye	4899
 D’Ivoire Faso Bissau	10856
 E- Facility	582
 E-PFMRP Fase II	2127
+E. Farhi	11140
 E. Farries	11028
 E.g. Facebook	11004
 ECOWAS Renewable Energy Facility	6422
@@ -590,6 +601,7 @@ EGX Vice Chairperson Mohamed Sabry. Farid	8770
 EHILE Amoi FAITS MARQUANTS Adm MMPE	2342
 ELECTRONIC COMMUNICATIONS FACILITIES LEASING AND WHOLESALE	5872
 EMBAJADAS Y CONSULADOS Materiales de Fax	4209
+EMBEDDING SAFETY IN FAST-PAYMENT DESIGN	11138
 EN Factsheet IDGC Horn	886
 ENA English FaydaVerse Ushers	8920
 ENACT ENACT Africa FAO Food and Agriculture	10759,78
@@ -613,6 +625,7 @@ EXIGEZ VOTRE FACTURE ELECTRONIQUE CERTIFIEE	7346
 EXPANSION OF HEALTH FACILITIES Date	1988
 East Far North Coastline North Northwest	10980
 Ebrahim Fakir	6387
+Economic Development Facilitate	11131
 Economic Interest Group of Pharmacists of Burkina Faso	2985
 Economics Fayda	10852
 Economy Entrepreneurship Facebook Faso CEO FESPACO	9993
@@ -648,7 +661,11 @@ Equinix Fabric	3929,1271
 Equipment and Facility	9123
 Estados Unidos da América FACIM	2816
 Estonian Society of Family Doctors	11006
+Eswatini International Trade Fair	11134
+Eswatini International Trade Fair Description	11131
+Eswatini International Trade Fair The Bank	11134
 Eswatini Payment Switch Fast Payments	2276
+Eswatini Payments Switch Fast Payments Module	11131
 Eswatini and Burkina Faso	10976
 Etat Faustin Archange Touadéra	1591
 Etat Pr. Faustin Archange Touadéra. Raison	1955
@@ -675,6 +692,7 @@ Exploitation Familiale	10830
 Extended Credit Facility	1828,1755,544
 Extended Fund Facility	10779
 F- Facebook	582
+F. Faruqe	11140
 FA AU	1264
 FA DESIGN	9357
 FA Guinea-Bissau	1264
@@ -795,6 +813,7 @@ FATCA	6524,1
 FATE Foundation	4109,1310,4214,1,907,59
 FATE Foundation and AIMS	10600
 FATE Foundation and Foluso Ebun Afolabi Lesi	9633
+FATF Grey List. Paris	11138
 FATF Mutual Evaluation Report for South Africa	4633
 FATF Mutual Evaluation Round Five	8354
 FATF Mutual Evaluation for South Africa	4633
@@ -811,7 +830,7 @@ FAX NO	5793
 FAY SAMA IMPÔT	7502
 FAYDA	1582,3700
 FAYDA. Ethiopia’s National ID Program	1582
-FAccT	740
+FAccT	740,10395,5
 FCFA. Fatiyatou Inoussa	8584
 FETCH FAILURE	6540
 FINANCIAL INSTRUMENTS MEASURED AT FAIR	10793
@@ -846,6 +865,7 @@ Fabian	4432
 Fabian Eltges	6539
 Fabian Kasi	6311
 Fabian Valencia	1830
+Fabian.delcros	11154
 Fabiana Hitalukua	8057
 Fabio Cerone	2984
 Fabián Iñiguez Matute	10764
@@ -873,12 +893,13 @@ Face of Multiple Crises	3176
 Face-to-Face	6832
 Face-to-Face HAI	6832
 Face-to-face	1778,3755,2336,2993,86
-Facebook	40,2,276,77,116,49,11,11,171,208,37,10,146,110,290,31,37,68,88,315,220,54,34,4,99,1,28,53,91,18,19,49,12,136,14,96,191,106,65,82,159,93,7,58,60,65,11,1,1,42,11,167,10,25,51,22,5,295,210,11,13,7,57,110,37,32,65,23,59,43,65,4,28,51,8,17,40,6,245,44,87,12,189,140,83,151,159,15,80,29,159,7,114,11,51,190,50,44,75,5,46,18,33,52,38,41,11,244,4,51,19,1,1,1,82,9,44,15,11,20,88,84,43,106,24,98,114,33,8,17,80,1,53,27,41,26,26,98,29,63,101,5,47,70,46,32,140,1,85,63,30,23,42,48,61,11,14,24,16,81,102,14,1,158,23,27,40,5,62,8,21,6,146,4,45,43,2,38,48,68,29,11,2,2,14,50
+Facebook	40,2,276,77,116,49,11,11,171,208,37,10,146,110,290,31,37,68,88,315,220,54,34,4,99,1,28,53,91,18,19,49,12,136,14,96,191,106,65,82,159,93,7,58,60,65,11,1,1,42,11,167,10,25,51,22,5,295,210,11,13,7,57,110,37,32,65,23,59,43,65,4,28,51,8,17,40,6,245,44,87,12,189,140,83,151,159,15,80,29,159,7,114,11,51,190,50,44,75,5,46,18,33,52,38,41,11,244,4,51,19,1,1,1,82,9,44,15,11,20,88,84,43,106,24,98,114,33,8,17,80,1,53,27,41,26,26,98,29,63,101,5,47,70,46,32,140,1,85,63,30,23,42,48,61,11,14,24,16,81,102,14,1,158,23,27,40,5,62,8,21,6,146,4,45,43,2,38,48,68,29,11,2,2,14,50,57
 Facebook CommentsFollow Us	6385
 Facebook Connectivity Lab and Center for International Earth	1013
 Facebook Graph APIs	592
 Facebook Instagram Linkedin Mail Paypal Pinterest	9916
 Facebook Instagram Youtube Linkedin Mais Lidas	9799
+Facebook Ireland and Maximillian Schrems	11154
 Facebook Mail RSS X Youtube IMF	5101,850
 Facebook Marketplace	4825,6179
 Facebook Messenger	5679,567,722,1923,1106
@@ -946,7 +967,7 @@ FacebookTwitterWhatsapp	9655
 FacebookXPinterestWhatsApp	3658,2617,145
 FacebookXPinterestWhatsApp NewZimbabwe.com	5733
 FacebookXPinterestWhatsAppLinkedinTelegram	3768
-Faced	766,3966,945,54,2138,567,24,1842,187
+Faced	766,3966,945,54,2138,567,24,1842,187,665
 Facephi	5420
 Faces December Reauthorization Deadline	10351
 Faces of African AI	5074
@@ -967,22 +988,23 @@ Facile	1984,1735
 Facilidade de Acesso	10755
 Facilit8 Namibia	7628
 Facilitar	3519,699
-Facilitate	940,18,3,1,38,161,616,37,1864,183,265,402,716,3,428,1,1,3,1,751,362,144,8,602,2307,910,10,66
+Facilitate	940,18,3,1,38,161,616,37,1864,183,265,402,716,3,428,1,1,3,1,751,362,144,8,602,2307,910,10,66,292
 Facilitate Access	10358
 Facilitate Cybersecurity Awareness Activities. Promote	1777
 Facilitate Cybersecurity NCC Ministries	1777
 Facilitate Cybersecurity Promote	1777
 Facilitate Data Access	4126
+Facilitate Global Cross-Learning	11138
 Facilitate Media and Information Literacy	1814
 Facilitate PPPs	4126
 Facilitate Promote Cross-Sectoral	1777
 Facilitate Public-Private Partnerships	958
 Facilitate SADC Member States	962
 Facilitate the Market-Driven Exchange of Data. China	10350
-Facilitated	395,1185,5968,409,1824
-Facilitates	3058,2187
+Facilitated	395,1185,5968,409,1824,1357
+Facilitates	3058,2187,5884
 Facilitateur	8269,733
-Facilitating	718,57,165,21,200,82,282,463,901,624,613,1552,592,677,1893,553,44,751,653,24,100
+Facilitating	718,57,165,21,200,82,282,463,901,624,613,1552,592,677,1893,553,44,751,653,24,100,164
 Facilitating Conditions and Performance Expectancy	5349
 Facilitating Open Access	5246
 Facilitating Open Methods	5246
@@ -1041,7 +1063,7 @@ Factional	3583
 Factional Chairman	10098
 Factiveview	4861,929,900
 Facto Ilícito	10755
-Factor	736,3696,3116,479,644
+Factor	736,3696,3116,479,644,2465
 Factor Determinante	10772
 Factor Grant	789
 Factor Literature M SD	9129
@@ -1056,7 +1078,7 @@ Factors	766,203,250,29,692,4,363,470,171,656,187,648,806,2514,262,109,541,169,28
 Factors Considered	7198
 Factors Influencing The Integration Of ICT	899
 Factory Facilities and Equipment	3760
-Facts	428,116,1326,5134
+Facts	428,116,1326,5134,2755,1396
 Facts First	10661
 Facts Population	10908
 Facts and Africa	6946
@@ -1115,6 +1137,7 @@ Fada N'Gourma	3396
 Fada N’Gourma	10875
 Fadel Bouargoub	3826
 Fadeso	10829
+Fadhel	11156
 Fadi Salem	10840
 Fadilou Keïta	9001
 Fadvancing-africas-ai-and-digital-economy-exhibit-3.png	7596
@@ -1122,6 +1145,7 @@ Fadvancing-africas-ai-and-digital-economy.png	7596
 Faecal Sludge Management	718
 Faecal Sludge Management FY Financial Year	718
 Faejborruitayryo	1154
+Fafalios	11156
 Fafreximbank-flags-africas-digital-trade-gap-at-davos	4723
 Fafrica-digital-payments-tax-collection-pressure	6385
 Fafricabriefing.com	4723
@@ -1150,8 +1174,9 @@ Failing the Hustlers	10330
 Failover	8605
 Failover Design	10721
 Fails	8,11,1,9,1,1,1,1,44,129,171,120,391,796,5256,598,469,333
-Failure	1,25,8,702,26,21,178,426,920,1000,265,11,131,546,350,89,197,106,111,28,388,136,557,312,5,188,93,164,282,185,81,6,342,142,96,60,2,174,83,680,6,493,193,325,688,283
-Failures	1903,1680,945
+Failure	1,25,8,702,26,21,178,426,920,1000,265,11,131,546,350,89,197,106,111,28,388,136,557,312,5,188,93,164,282,185,81,6,342,142,96,60,2,174,83,680,6,493,193,325,688,283,28
+Failure Mode Institutional Implication Transaction	11138
+Failures	1903,1680,945,6610,18
 Fair Administrative Action Act	2709
 Fair Administrative Actions Act	2709
 Fair Cap	6921
@@ -1196,7 +1221,7 @@ Fairer Sharing Economy	226
 Fairland Lead	10793
 Fairly	7886
 Fairmile School	6946
-Fairness	718,243,1997,903,1035,1018,528,756,350,1199,1874,429
+Fairness	718,243,1997,903,1035,1018,528,756,350,1199,1874,429,85,5,16
 Fairness and Ensure	5244
 Fairness and Housing	7147
 Fairness and Reasonableness	4896
@@ -1229,6 +1254,7 @@ Faizatou Abdoulaye	9357
 Faizel Patel	8173
 Fajikunda	4338
 Fake Accounts Badawy	9472
+Fake Deep Anti	11153
 Fakuade	10053
 Fakultet	10780
 Fakulteta	10780
@@ -1258,6 +1284,7 @@ False Information Regarding Starlink License	3216
 False News	7117
 False Rejection Rate	10812
 False Signals and Impersonation	736
+False-positive	11156
 Falsehoods	8650,2079
 Falsenegatives	8606
 Falsidade	6970
@@ -1278,12 +1305,14 @@ Familiarise	10419
 Familiarising	8130
 Families	1887,865,1998,1973,750,2321,910,137
 Families Left Offline	4619
-Famille	7403,238,29,31,12,1,4,140,120,343,24,546,492,754,675,14,15,123
+Famille	7403,238,29,31,12,1,4,140,120,343,24,546,492,754,675,14,15,123,187
 Famille MPME Micro	10965
 Family	418,2339,2215,2170,201,3420,13,188,13,8
 Family CR Civil Registration CSPS Local	10812
 Family Code	10765,10,39
 Family Database	8891
+Family Fun Day	11134
+Family Fun Day Currency	11134
 Family Health	6770
 Family Health Bureau	2678
 Family Medicine	2948
@@ -1348,6 +1377,7 @@ Far North.According	7958
 Far and Did It Work	1828
 Far-North	4579
 Faraba Complex	10070
+Faraci	11156
 Faradh Mahomed	8999
 Faragha	2868,3151
 Farah	6723
@@ -1358,6 +1388,7 @@ Farah. Ultimately	6723
 Farahani	4676
 Farai Mudzingwa	306
 Faraimose Kutadzaushe	7618,1
+FarajaMH	11143
 Faraji Hassan Emily	9452,39
 Faramade	7446
 Faramana	10875
@@ -1382,12 +1413,14 @@ Farm Du Plessis	9666
 Farm Fund	4896
 Farm Input Subsidy Programme	4172
 Farm Pass	8374
+Farm Registry	11133
 Farm-to-Fork	789
 Farm-to-Market Compact	5247
 Farm.io	4931
 Farm2Fork	643
 FarmBeats	411
 FarmDrive	7334
+FarmSpeak	11140
 Farmacias	4209
 Farmer	970,2891,4822
 Farmer Aggregation Companies	5765
@@ -1395,9 +1428,10 @@ Farmer Registry	2872,3551
 Farmer Service Centres	7695
 Farmer Service Centres Mr. Speaker	7695
 Farmer Visibility Project	8374
-FarmerChat	5367,1784
-Farmerline	4126
+FarmerChat	5367,1784,3989
+Farmerline	4126,7014
 Farmerline and Esoko. Innovative	961
+Farmerline’s Darli AI	11140
 Farmers	584,205,181,897,121,787,821,131,15,558,325,1489,785,49,783,308,496,15,133,32,739,136,42,150,1195
 Farmers Association	736
 Farmers Can Harvest More Without Using	6526
@@ -1412,6 +1446,7 @@ Farming Communities	7964
 Farming Tariff	9409
 Farming and Justice Use Cases Twenty-six	9944
 Farmland	3379,6840
+Farmspeak	11140
 Farmácias	539
 Faro. Ces	3680
 Faroe Islands	1243,7824
@@ -1424,15 +1459,17 @@ Farouk Mollah Banna. Le Pays Tchad	1899
 Farouk Mollah Banna. Mis	7837
 Farouk Rabiu-Mudi	3742
 Farouk Ramji	5218
+Farquhar	11156
 Farrand	11050
 Farrar	3782,4598
-Farrell	4676
+Farrell	4676,6459
 Farrell and Newman	7731
 Farsi A	6483
 Fartaag	3408,1637
 Farticle	1903,5273
 Farticles	5440
 Faruk Liriano	10977
+Faruqe	11140
 Faruque	7759
 Farzam Ehsani	9127
 Fas-we-embark-on-nst-2-out-work-is-clearly-cut-out&psig	1903
@@ -1477,11 +1514,14 @@ Fast Digital Center	6852
 Fast Ethernet	34
 Fast Healthcare Interoperability Resources	1009,8435,744,782
 Fast Interceptor Boat Umbelozi	2667
-Fast Payment	2276
-Fast Payment Module	3977
+Fast Payment	2276,8858
+Fast Payment Module	3977,7154
 Fast Payment Services	2276
-Fast Payments	2276
-Fast Payments Module	11048
+Fast Payments	2276,8855,3
+Fast Payments Module	11048,83,3
+Fast Payments Module Conclude	11134
+Fast Payments Module. All	11134
+Fast Payments Module. Open Banking	11131
 Fast Track Clinical Trials Committee	7845
 Fast Track Ethics Committee	7845
 Fast Track Initiative	978
@@ -1498,7 +1538,7 @@ Fast-tracks	2788
 FastFeet Ltd	3862
 FastRes	34
 FastText	8606
-Faster	582,2506,347,244,1567,1,1432,215,54,525,22,633,1,2690
+Faster	582,2506,347,244,1567,1,1432,215,54,525,22,633,1,2690,321
 Fastest	6432
 Fastfeet Ltd	3862
 Fastiugsisoeuentrd	10969
@@ -1515,7 +1555,7 @@ Father	10775,39
 Father Francis Mukosa	9986
 Fathom	10964
 Fatick	58,7231,265,1577,450
-Fatima	10989
+Fatima	10989,146
 Fatima Ahamada	4823
 Fatima Ahamada. Adoption	4386
 Fatima Bello The National Information	9576
@@ -1582,6 +1622,7 @@ Fautes	10876
 Faux. L'IA	2992
 Fauzi	7759,845
 Favaron	2816
+Faveri	11135
 Favilli Raffaele. Project	427
 Favorable	1005,880,8936,174
 Favorable Investment Environment Tax	3113
@@ -1592,6 +1633,7 @@ Favoriser	12,631,604,1719,2930,965,2030,1986,37,51
 Favoritisme	6959
 Favour Odunowo	9670
 Favour247	10274
+Favourable	11131,3
 Fawole	9969
 Fawry	5869,1671,1993
 Fawry Business Tap N Pay	9533
@@ -1652,6 +1694,7 @@ Fazer	2816,7937,2,22
 Fazer Parte	9559
 Fazil	8460
 Fazil AW	8460
+Fazio	11156
 Façade Est	10841
 Façonner	766
 Faîtière	9693
@@ -1688,6 +1731,7 @@ GIZ FAIR Forward	1204,2922,1575
 GIZ MARKETS AND DIGITAL INVESTMENT FACILITY	10861
 GIZ and Digital Investment Facility	2774
 GIZ and Digital Investment Facility Partners WEST	10861
+GOVERNANCE Mr. Sikhumbuzo Fakudze Board Secretary	11131
 GRM. Responsibility for Data Collection FAS-IDL Enhanced	10768
 GSMA Urges Faster Renewable Energy Rollout	7402
 GUA E SANEAMENTO NO AGREGADO FAMILIAR	10777
@@ -1714,6 +1758,7 @@ Global Environmental Facility	2889
 Global Facility for Disaster Reduction and Recovery	10763
 Global Financing Facility	63,512,6397,3857
 Global Financing Facility for Women	10829
+Global Money Week Fair	11131
 Global Risk Financing Facility	1828
 Global South Faces	8091
 GoMyCode and Complete Farmer	10801
@@ -1726,6 +1771,7 @@ Google and Facebook	2679,1103
 Google's Moonshot Factory	9687
 Google’s Moonshot Factory	9141
 Gouvernement du Burkina Faso	10875
+Governance and Shared Features and Fast Payments	11134
 Government Action Fair	6606
 Government Facilities Primarily	3184
 Government of Burkina Fa Crosswalk	337
@@ -1854,6 +1900,7 @@ Internet Falsehoods and Manipulations	5215
 Internet Governance Forum Burkina Faso. Dans	10642
 Internet. Face	9518
 Internews Regional Manager Fatuma Sanbur	8095
+Internship Students. Facilitating	11131
 Interpretative Favour	3861
 Interruptions Number Portability Cooling-off Period Fair	5676
 Intra-African Trade Fair	3440,2687
@@ -1987,6 +2034,7 @@ Madame Oumou Fadima TRAORÉ Chef du Service	10237
 Madani Fanta Kaba	9920
 Mafweni Fataki	10625
 Mais Energia Grant Facility	2989
+Maize Farmers Boost Yields	11140
 Maj. Gen. Elia Kosta Faustino	6115
 Major Challenges Faced	7151
 Malabo Fase	4209
@@ -2015,7 +2063,10 @@ Maximum Service Interruption Fault Notification Compensation	5676
 Mbps. Face	6157
 Measures After Spate of Fatal Crashes Big	6077
 Measuring Digital Development Facts and Figures	961
+Meeting Waterford KaMhlaba Career Fair Governor	11131
+Meeting. Global Money Week Fair Hosted	11131
 Mehita Fanny	3067
+Member Mr. Sikhumbuzo G. Fakudze Board	11134
 Member of Parliament Fadiel Adams. Take	10263
 Mensagens de Planeamento Familiar	10777
 Mercado Farmacêutico	8324
@@ -2074,6 +2125,7 @@ Morocco Nexus AI Factory	5746
 Moussa Faki	2379
 Moyenne Faible	737
 Mr. Elikplim Sabblah of GIZ's FAIR Forward	5227
+Mr. Fakudze	11131,3
 Mr. Farah Abdinur Ahmed	2800
 Mr. Oladele Fapohunda	8586
 Mrs. Amal El Fallah Seghrouchni	6140
@@ -2083,6 +2135,8 @@ Ms. Fatoumata Sacko	6938
 Ms. Fauzia Hashim	9066
 Multi Factor Authentication	10721
 Multi-Billion Birr Accounting Failure	7909
+Multilateral Fora Fabian Delcros Introduction	11154
+Multiple Family Housing	11129
 Mungo Fall	10975
 Muqdisho. Shirkadda Favori	9583
 Mutanda Falls	1988
@@ -2233,6 +2287,10 @@ Portail Open Data du Burkina Faso3	10874
 Portails des Régions du Burkina Faso	6685
 Portails des Régions du Burkina Faso. Il	6685
 Postal Address Physical Address Fax No	736
+Postal Facility	11129
+Postal Facility Addresses	11129
+Postal Facility Delivery	11129
+Postal Facility Delivery Point	11129
 Postal and Electronic Communications of Burkina Faso	4234,683,46
 Poste Burkina Faso	5491
 Poste-Burkina Faso	5510
@@ -2267,6 +2325,7 @@ Private and Faith-Based Providers	4217
 Proactive Identification of High-Risk Traffic Factors Zambia	10347
 Procedural Fairness	11006
 Process Failures	5550
+Process Reporting Critical Factors	11131
 Processo de Falência	10755
 Procura de Planeamento Familiar	10777
 Procureur du Faso	785
@@ -2299,6 +2358,7 @@ REPARTITION DU CAPITAL Gouvernement du Burkina Faso	2342
 REPRESENTACION ANTE LA FAO	4209
 REPRESENTACION FAO	4209
 RESERVES AND AI Facing	8526
+RESPONSIBLE NON-ADOPTION IS NOT A FAILURE	11156
 REST BORROWED FROM FAMILY BORROWED	10977
 RF-Etrust Face	2704
 RMB ZAR2bn Facility	1404
@@ -2306,6 +2366,7 @@ RTCOM Defense Falcon Eye	9068
 Rachid El Fatimy	2422
 Rack Centre’s New Data Facility Will	2595
 Rapid Credit Facility	3583
+Rapport Fait	11151
 Real Sector Emergency COVID Facility	687
 Receitas Familiares	3589,2836,1456
 Recent AI Factories and Gigafactories	6879
@@ -2358,6 +2419,7 @@ Risks of Falling Behind Certainly	7596
 Routine Family Planning Data	10881
 Rural Communities and Smallholder Farmers	940
 RÉSEAUX Facebook X LinkedIn WhatsApp Telegram	2439,389,2071,880
+République Bassirou Diomayè Diakhar FAŸE	11139
 République Faure Essozimna GNASSINGBE Le Premier	436
 République Pr Faustin-Archange Touadéra	4327
 République de Djibouti. Fait	4567
@@ -2429,11 +2491,13 @@ Siapera and Farries	11028
 Sierra Leone First Lady Fatima Bio	5390
 Sierra Leone NatCA Boss Urges Fair	5390
 Signs Burkina Faso	10838
+Sikhumbuzo Fakudze	11134
 Sistema de Farmacovigilancia Integral de Medicamentos	4209
 Small Farmers Welfare Fund Act	7845
 Smallholder Farmer Input Support Program	5765
+Smallholder Farmers	11140
 Smallholder Farmers Fertiliser Revolving Fund	4172
-Smart Africa and GIZ FAIR Forward	4126
+Smart Africa and GIZ FAIR Forward	4126,7009
 Smart Burkina Faso	8322
 Smart Burkina Faso Project Export-Import Bank	475
 Smart Burkina Faso Project. The GCL	475
@@ -2464,6 +2528,7 @@ State-owned Facilities	4301
 State-owned Facilities for Warehousing	4301
 Statelessness and Climate Change Factsheet	1867
 Stay Connected Facebook Like Twitter	9925,238
+Stellenbosch University Sikhumbuzo Fakudze Head Legal	11134
 Strengthening Fayda Ethiopia	6143
 Submarine Cable Faults	5681
 Subscribers Subscribe Coach Fazili	2264,1669,239,437,166,820,1446
@@ -2485,6 +2550,8 @@ Système de Facturation	6456
 Sèdami Mèdégan Fagla	6514
 Sèdami Médégan Fagla	6893
 Sécurité du Burkina Faso	1967,1
+T. Fagbohungbe	11140
+T. Fasubaa	11140
 T2 Advancing Botswana Burkina Faso Cameroon	10764
 T5-AirSnap Face	1846
 TA Facility	1284
@@ -2526,6 +2593,8 @@ Torbjorn Fredriksson and Pilar Fajarnes Garces	961
 Tour du Faso	7670
 ToutBéninBurkina FasoCap	3658,2617,145
 Trade Facilitation Agreement	9343,588
+Trade Fair	11134
+Trade Fair The Governor	11134
 Trade Finance Seminar and Factoring Workshop	1922
 Transforming the Livelihoods of Smallholder Farmers	9624
 Transition Support Facility	332,460,1114,2934,511,4871
@@ -2605,6 +2674,7 @@ WIOCC Corporate Finance Facility	517
 WIOCC Group Sustainability-Linked Debt Facility	1520
 WTO Trade Facilitation Agreement	9343,1693
 Water Quality and Fauna	1988
+Waterford Career Fair Description The Bank	11134
 Web Favorable	10821
 WhatsApp Facebook Cameroon Chad TikTok Instagram	9616
 WhatsApp Facebook Messenger Facetime	582
@@ -2614,6 +2684,8 @@ WhatsApp and Facebook	9616
 White Face	6231
 Wild Fauna and Flora Act	7760
 WilmetDramaix M. Factors	766
+Workplace Fairness Act	11135
+Workplace Fairness Bill	11135
 World Bank Backs Burkina Faso's Nationwide	4963
 World Bank FAO Food and Agriculture Organization	10835,3,130
 World Bank Grant Facility	6539
@@ -2630,6 +2702,7 @@ YouTube Share. Facebook Twitter LinkedIn WhatsApp	6721,177
 Yours Faithfully	4896
 Youssef Farhat. TECHNOLOGY AND HUMAN RIGHTS	1823
 Youtube Facebook Mail RSS X Youtube	5101,850
+ZDSR. Factors	11133
 Zaki Sabit Fawzi	9812
 Zambia Facebook	3920
 Zambia International Trade Fair	7191

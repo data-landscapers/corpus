@@ -50,6 +50,7 @@ B1 COMERCIO Certificado de Comercio	4209
 B1 Certificado de Actualizacion PE	4209
 B2 COMERCIO Certificado de Comercio	4209
 B3 COMERCIO Certificado de Comercio	4209
+Bachelors' Degree Diploma Certificate Total Graduated	11134
 Back Ratio I Certify	736
 Birth Certificate	6392,3642,231,500,10,37
 Birth Certificate Online	6783
@@ -76,6 +77,7 @@ CCDR CERC CHIRPS CNAS CNPC COVID-19	10763
 CCDR Country Climate and Development Report CERC	10768
 CCES Certificat de Conformité Environnementale	10876
 CEH Certified	9858
+CERAE	11136
 CERBA LANCET KENYA LIMITED Data Controller	7167
 CERBA LANCET KENYA LIMITED Data Processor	7167
 CERC Business Plan Competition CISE Caisse	10964
@@ -139,6 +141,7 @@ CONFORME CERTIFIED TRUE COPY SECTION	10974
 COPIE CERTIFIEE CONFORME CERTIFIED TRUE COPY	10974
 COPIE CERTIFIEE JONFORME CERTIFIED TRYE COPY	10974
 COPIE CERTIFIÉE CONFORME	10981
+CSI Handover Ceremony	11131
 Cameroun. Certains	10965
 Carolina Cerqueira. Promulgada	3519
 Center for Media Studies and Peacebuilding CERT	5244
@@ -161,7 +164,8 @@ Cerraduras Electrónicas	4209
 Cerrillas	4209
 CertExpress	1012,872
 CertExpress CertExpress	1882
-Certain	10,561,172,218,282,409,3244,351,286,835,570,260,688,3091
+Certain	10,561,172,218,282,409,3244,351,286,835,570,260,688,3091,172
+Certain AI	11135
 Certain Effects	7198
 Certain Financial Forecasts	7198
 Certaines	748,439,635,162,85,331,2913,60,864,722,396,48,310,117,268,257,286,250,389,444,542,21,102,90,232,110,5,49,100
@@ -211,21 +215,25 @@ Certificat de Nationalité. Il	3045
 Certificat de Nationalité. Par	3045
 Certificat du NPI	1706
 Certificat du Numéro Personnel	5738
-Certificate	1,127,608,513,739,1726,377,805,1536,400,1013,2578,298,91
+Certificate	1,127,608,513,739,1726,377,805,1536,400,1013,2578,298,91,319,3,19
+Certificate Authorities	11130
 Certificate Authority	5533,58
 Certificate Authority CARA Criminal Assets Recovery	5533
+Certificate DFI	11153
 Certificate Delivery System	2819,1272
 Certificate Final.pdf	7210
 Certificate Management System	5983,963
 Certificate Master	1940
 Certificate Page	10721
 Certificate Spillage	1988
+Certificate of Acceptability	11172
 Certificate of Acquired Citizenship	5999,393
 Certificate of Competency	736,7903
 Certificate of Incorporation	736,1252,3550,365,1465
 Certificate of Incorporation Number	1877
 Certificate of Incorporation and CR	736
 Certificate of Independent Tender Determination	1638
+Certificate of Occupancy	11129
 Certificate of Origin Name	1988
 Certificate of Proficiency	1554
 Certificate of Registration	9779,378
@@ -242,7 +250,7 @@ Certificates of Incorporation	1988
 Certificates of Origin	7142
 Certificates of Recognition and Merit	7702
 Certificates of Registration	9646,511
-Certification	587,149,264,9,222,13,1098,1519,1690,114,71,57,639,504,119,493,1451,617,697,499,29,28,87,18
+Certification	587,149,264,9,222,13,1098,1519,1690,114,71,57,639,504,119,493,1451,617,697,499,29,28,87,18,165
 Certification Authorities	9880
 Certification Authority	1009
 Certification Authority and Digital Trust Centre	2692
@@ -307,6 +315,7 @@ Certiﬁcate of Incorporation	2709
 Certiﬁcation	2709
 Certiﬁcation A Digital Health Solution Vendor	2709
 Certiﬁcation Framework	2709
+Cerutti	11140
 Cervical Cancer	1363
 Cervigni	10963,1
 Chamber Registration Certificates	10645
@@ -333,6 +342,7 @@ D2 COMERCIO Certificado de Comercio	4209
 D3 COMERCIO Certificado de Comercio	4209
 D3 D3 Certificado de Actualización PE ACTUAL	4209
 DE CONTROLE ET DE CERTIFICATION DES	10904
+DFI Certificate	11153
 DHS CERTIFICATION OF COMPLIANCE NO	2709
 DISCLOSURE OF CERTAIN MATTERS IN FINANCIAL	3714
 DISPOSITIONS PARTICULIERES A CERTAINS TRAITEMENTS Article	10825
@@ -413,6 +423,7 @@ Kenya Certificate of Secondary Education	2775
 Kenya Commercial Bank KCPE Kenya Certificate	2775
 Kinshasa Achieves ISO and PCI DSS Certifications	2350
 LTA CERT	4610
+Le CERT	11139,12
 Le CERT.tg	10575
 Le CERT.tgmission	10575
 Le Cercle de Recherche	10826
@@ -426,6 +437,7 @@ Microsoft CERT-GH	775
 Microsoft Certified	2525
 Ministry of Communications and Digitalisation CERT-GH	775
 Mission Statement CERT-GH	775
+Missions du CERT	11139
 Mozambique's Digital Certification System	11120
 Myth and Ceremony	5349
 NDPR Certified	5665
@@ -448,6 +460,7 @@ Nigeria’s Root Certification Authority	9880
 Nokia and Cerillion	2235
 O Certificado	10750,1
 O Pedido de Certidão de Nascimento	2688
+Objectifs du CERT	11139
 Odoo Gold Certified Partner	9533
 Offsec Certified Professional	1940
 Online IT Certification System	5466
@@ -462,6 +475,7 @@ Postgraduate Certificate	4896,2050
 Primary Education KCSE Kenya Certificate of Secondary	2775
 Proactive Activities CERT-GH	775
 Professional Certificate	10133
+Professional Evaluation and Certification Board	11131
 Profile CERT-GH Home RFC	775
 Profile CERT-GH RFC	775
 Property Transfer Certificate	10930
@@ -469,6 +483,7 @@ Provide Warranty Certificate	7988
 Provider Certification	7548
 Public Keys and Encryption Information CERT	775
 Public Register of Testing Entities and Certified Software	5665
+Quality Assessor Certificate Programme	11134
 R1egistration and Certification	736
 RCZ-NCRST MoU Signing Ceremony	1554
 RESULTATS AU CERTIFICAT D'ETUDE PRIMAIRE SESSION	10847

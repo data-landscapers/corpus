@@ -42,6 +42,7 @@ D. BANKING DETAILS Name of Bank	4896
 D.G. DE PERSONAL Y DETALL.- Concepto	4209
 D.G. DETALL REG	4209
 DELIVERY DETAILS	4896
+DESIGN OF BUILDING Single Detached Housing	11129
 DETAIL OF TC ARRANGEMENTS	1818
 DETAIL OF TC ARRANGEMENTS ANNEX	1818
 DETAILED DESCRIPTION OF ANY ACTION	2709
@@ -72,14 +73,14 @@ DIGITAL HEALTH SOLUTION DETAILS	2709
 Data Classification and Residency Details System	6432
 Detaded	3972
 Detaiked	3972
-Detail	5665,758,4396,29
+Detail	5665,758,4396,29,285
 Detail.php	9399
 DetailByLanguage	10848
 DetailFreeIncluded	10848
 DetailFreeIncludedOrderOfMagnitude	10848
 DetailFreeSubscriberCount	10848
 DetailOrderOfMagnitude	10848
-Detailed	236,500,476,45,7,20,540,43,121,721,969,220,74,242,87,48,17,310,437,552,470,697,242,464,763,596,226,75,990,59,467,7,130,5,74,87
+Detailed	236,500,476,45,7,20,540,43,121,721,969,220,74,242,87,48,17,310,437,552,470,697,242,464,763,596,226,75,990,59,467,7,130,5,74,87,113
 Detailed Analysis	236
 Detailed Audit Trails	5665
 Detailed Data Storage Location Inventory	6432
@@ -90,7 +91,7 @@ Detailed Risk Analysis and Mitigation Strategies. National	4528
 Detailed Roles and Responsibilities for AISIO Leadership	4528
 Detailed Sector Analyses	2957
 Detailed Urban Planning Plans	10930
-Detailing	10388
+Detailing	10388,757
 Details	22,560,154,273,236,28,1,1,270,1,232,89,451,65,12,439,844,36,834,21,1,1,1,1,1,86,101,123,361,104,248,68,758,116,14,1883,1447,125,326,495,33
 Details Application	8726
 Details Baseline Target Due	1818
@@ -149,12 +150,14 @@ Determination Officer SA South Africa	5533
 Determination of Dominant Position	1847
 Determinations	10157
 Determinations Meets Minimum Requirements	11005
-Determine	573,427,630,463,1068,1053,3807,1102,1034
+Determine	573,427,630,463,1068,1053,3807,1102,1034,972
 Determine the MNE Group	573
+Determined	11169
 Determined Contribution NDP National Development Plan	10768
 Determines	10822
 Determining	236,337,202,1321,4850,2772
 Determining Fairness	7198
+Determining Themes for Addressing Zones	11129
 Determining the Contribution	236
 Deterministic	1828
 Deterministic Frontier Using Data Envelopment Analysis	1828
@@ -177,6 +180,7 @@ ETAT DETAILLE DES TAXES DEDUCTIBLES Cette	6954
 Enhance Cybercrime Detection	1000
 Equity and Inclusion Imperative DETERMINING	3861
 Estimated Number of Activity Activity Details Direct	1867
+Eswatini’s Nationally Determined Contribution	11134
 Event Details	10707
 Expertise Contact Details	6432
 Extended Deterrence Theory Approach	226
@@ -256,6 +260,7 @@ Name and Registration Details	5538
 National Determined Contribution	970
 Nationally Determined Contribution	5247,1292
 Nationally Determined Contribution NDE New Digital	2775
+Nationally Determined Contribution Net Interest Income	11134
 Nationally Determined Contributions	970,294,2340,5789,1436
 Network Intrusion Detection Systems	1000
 News Details	9884
@@ -293,6 +298,7 @@ S. Determinants	7886
 SECÇÃO III FACTURAÇÃO DETALHADA E IDENTIFICAÇÃO	15
 SECÇÃO III Facturação Detalhada	15
 SFA Of Tax Efficiency and Its Determinants	1828
+STRATEGY Detailed	11131
 Satellite PMU and Determine	1988
 Scanner Features Ultrasonic Multi Feed Detection	34
 Scanner Speed Details	34

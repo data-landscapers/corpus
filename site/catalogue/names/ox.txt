@@ -14,7 +14,7 @@ OXFORD INSIGHTS	2816
 Oxfam	6947
 Oxfam International	8891
 Oxfam Malawi	446
-Oxford	5242,440,18,710,180,1296,1812,41,1102,5
+Oxford	5242,440,18,710,180,1296,1812,41,1102,5,296
 Oxford AI Societ	6410
 Oxford Academic. Amoretti	10841
 Oxford Analytica	2518
@@ -36,14 +36,20 @@ Oxford Insight’s Global AI Index	1814
 Oxford Internet Institute	10319
 Oxford Martin AI Governance Initiative	4253
 Oxford Open Digital Health	1824
+Oxford Policy Management	11133,9,14
+Oxford Policy Management. Available	11133,9
+Oxford Policy Management. Copyright	11142
 Oxford Poverty	206
 Oxford Poverty Human	206
 Oxford Public International Law	1243
 Oxford Review of Economic Policy	10841
 Oxford University Press	2096,422,2724,107,351,3699,1364
-Oxford University Press. Bradford	11050
+Oxford University Press. Bradford	11050,104
 Oxford University Press. Calcara	11050
+Oxford University Press. Casalini	11154
+Oxford University Press. Concord	11155
 Oxford University Press. Isbell	7886
+Oxford University Press. World Bank	11149
 Oxford University. Africa	5682
 Oxford and New York	5700
 Oxford-trained AI	9511
@@ -53,6 +59,6 @@ OxyContin	4426
 OxygenX	7907
 Regulate Technology. Oxford University Press	5242
 Rwanda Oxygene Ndera	718
-University of Oxford	206,20,974,2398,831,4262,541
+University of Oxford	206,20,974,2398,831,4262,541,1903
 University of Oxford Serres J	9739
 University of Oxford's Department of Computer Science	8529

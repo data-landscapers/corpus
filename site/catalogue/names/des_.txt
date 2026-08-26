@@ -41,6 +41,7 @@ Actualisation des Données Cadastrales	10876
 Actualisation des Données Cadastrales MTGES Manuel Technique	10876
 Administrateur Général des Données	9406
 Administration des Affaires Marketing	8269
+Administration des Douanes	11139
 Administration des Entreprises	9357
 Administration des Finances DCSFR	10874
 Administration des Hydrocarbures. En	3191
@@ -141,7 +142,7 @@ Autorité de Régulation des Communications Eléctroniques	969
 Autorité de Régulation des Marchés Publics	969,9860,47
 Autorité de Régulation des Postes	3104,4980
 Autorité de Régulation des TIC de Côte	5605,539
-Autorité de Régulation des Télécommunications	2418,958,500,1804,15,414,35,97,628,148,2,1112,2764,1,1,1,8,5
+Autorité de Régulation des Télécommunications	2418,958,500,1804,15,414,35,97,628,148,2,1112,2764,1,1,1,8,5,240
 Autorité de Régulation des Télécommunications de CBA Côte	3604
 Autorité de Régulation des Télécommunications de Côte	3139,310,155,489,18
 Autorité des Ports	1287,4706
@@ -295,13 +296,14 @@ Commission Nationale des Droits Humains	3396
 Commission Permanente Indépendante des Droits	3045
 Commission de Contrôle des Marchés	5907
 Commission de Passation des Marchés Publics	5983
-Commission de Protection des Données Personnelles	7327,3494
+Commission de Protection des Données Personnelles	7327,3494,330
 Commission de Règlement des Différends	10876
 Commission de Statistique des Nations Unies	10874
 Commission des Affaires	1266,332,9338
+Commission des Données	11139
 Commission des Droits	10826
 Commission des Finances	4363,2409
-Commission des Lois	9890
+Commission des Lois	9890,1261
 Commission des TIC	10089
 Communauté Economique des Etats	37
 Communauté des Etats	8515
@@ -324,7 +326,7 @@ Confédération Générale des Entreprises du Maroc	8891
 Confédération des Etats du Sahel	1967,1,1427,739,2567,182,76,594,117,1138,479,55
 Confédération des Etats du Sahel. Au	1968
 Confédération des Etats du Sahel. Il	7670
-Conférence Interafricaine des Marchés	10965
+Conférence Interafricaine des Marchés	10965,174
 Conférence Internationale des Commissaires	10821
 Conférence des Administrateurs	8269
 Conférence des Chefs	8269
@@ -365,6 +367,7 @@ Convention des Nations-Unies	10841
 Convention-cadre des Nations Unies	7640,1251
 Coopération des Médias Sino-Africains	10615
 Coopération des Médias Sino-Africains. Devant	10615
+Coordination des Activités de Détection	11139
 Correction des Dates	747
 Cour de Répression des Infractions	5478
 Cour des Comptes	1284,398,1714,7316
@@ -672,6 +675,7 @@ EVOLUTION DES INVESTISSEMENTS DES OPERATEURS RAPPORT	998
 EXECUTION ET SUIVI DES MARCHÉS	10876
 EXECUTION ET SUIVI DES MARCHÉS VI.1	10876
 EXPLOITATION DES GISEMENTS PÉTROLIERS Le Conseil	2342
+EXPOSE DES MOTIFS	11139
 EXPÉRIENCES RÉCENTES DE III DIGITALISATION DES	10711
 Ecole Multinationale Supérieure des Postes	3604
 Ecole Nationale Supérieure des Postes	10948
@@ -823,6 +827,7 @@ ICASEES L'Institut Centrafricain des Statistiques	9277
 IDE. Des	8891
 II. LISTE DES SECTEURS	10906
 II. RAPPEL DES OBJECTIFS ET RESULTATS	2966
+IIC L'Ensemble des IIC	11139
 III. DEROULEMENT DES TRAVAUX	2966
 III. DESCRIPTION DES ASPECTS TECHNIQUES	10836
 III. EFFECTIFS DES ELEVES III.1 EFFECTIFS	10847
@@ -861,6 +866,7 @@ Indice Harmonisé des Prix	10874
 Indice de Développement des TIC	1323,742,2015
 Indice des Prix des Services Bancaires	5928
 Industrie des Comores	5996
+Information des Infrastructures	11139
 Information des Ressources Humaines	6240
 Insertion des Personnes Handicapées	10826
 Inspecteur Général des Services	3191
@@ -1023,6 +1029,7 @@ Les Contributions Foncière des Propriétés Non Bâties	6954
 Les Contributions Foncière des Propriétés Rurales Non	6954
 Les Portails des Régions	6685
 Les Résultats Des Tests Adn Sont	4960,62,2035
+Les Services des Opérations de Cybersécurité	11139
 Licence CCCE Comité Consultatif des Consommateurs	10975
 Ligue des Champions	8321
 Ligue des Champions UEFA	8797
@@ -1126,7 +1133,7 @@ Ministre des Relations	1231
 Ministre des Serviteurs du Peuple	5304,2496
 Ministre des Sports	3045,4933,2936
 Ministre des Transports	7978
-Ministre des Télécommunications	2554,1245,3842,2453
+Ministre des Télécommunications	2554,1245,3842,2453,1045,12
 Ministry of Protection Sociale des Public Health	10985
 Ministère des Affaires	2366,2769,2198,1558
 Ministère des Affaires Etrangères	1302,1506,237,351,1707,5718
@@ -1288,7 +1295,7 @@ Plateforme Nationale de Contrôle des Réseaux Mobiles	4802
 Poids des IPP	10975
 Police des Nations	10475
 Politique de Gouvernance des Données	3064
-Politique de Sécurité des Systèmes	10874
+Politique de Sécurité des Systèmes	10874,265
 Pool des Transports Publics de Voyageurs	6901
 Portail National des Collectivités Territoriales	557
 Portail des Startups	4567
@@ -1328,6 +1335,7 @@ Protection des Données	234,314,636,47,2036,89,766,2714,1445,2540,21
 Protection des Données Personnel	3356
 Protection des Données Personnelles	548,683,2125,6456,1009
 Protection des Droits	10841
+Protection des Infrastructures	11151
 Président du Faso. Des	4029
 Présidente du Conseil National des Droits	3045
 Prévention des Conflits	643
@@ -1472,13 +1480,14 @@ Service des Analyses	10975
 Service des Analyses des Conditions Economiques DAAFRH	10975
 Service des Energies Renouvelables	10975
 Service des Etudes	10847
+Service des Opérations de Cybersécurité	11139
 Service des Relations Publiques Technologique SE	10975
 Service des Ressources Humaines	10876
 Service des Ressources Transmission	10876
 Service du Suivi des Engagements Contractuels SAMF	10975
 Services Financiers des Saisons Vulnérables	1412
 Services des Etudes	10847
-Services des Opérations de Cybersécurité	10493
+Services des Opérations de Cybersécurité	10493,646
 Session du Conseil des Ministres des Affaires Etrangères	3045
 Shegun Adjadi Bakary des Affaires	4162
 Sociologue des Organisations	8269
@@ -1546,8 +1555,9 @@ Système des Nations-Unies	5530
 SÉCURISATION DES PERSONNES ET DES BIENS	10934
 Sécurisation des Actes	10902,35
 Sécurisation des Données	2625
-Sécurité des Systèmes	547,638,253,399,793,974,651,1575,770,839,366,253,278,928,142,1126,289
+Sécurité des Systèmes	547,638,253,399,793,974,651,1575,770,839,366,253,278,928,142,1126,289,318,12
 Sécurité des Usagers	10975
+Sécurités des Systèmes	11151
 Sélection des Commission	10876
 Sénégal Automatisation des Consolidation	10711
 Sénégal Fonds National des Rétraites du Bénin	10821

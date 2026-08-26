@@ -10,9 +10,10 @@ Audit Interne Numérique CCDA	10975
 Autonome de Gestion des Dettes CCE	10876
 Bakary Makanguilé. CCRP	7925
 CAGR Compound Annual Growth Rate CCG	1818
+CBDC CCBG CFT CMA CPI CSI	11131
 CC Attribution	10323
-CC BY-NC	2775,4773,1132
-CC BY-NC-ND	7750,1482
+CC BY-NC	2775,4773,1132,2456
+CC BY-NC-ND	7750,1482,1923
 CC BY-NC-SA	1225,1,1483,4239,3816,80,162,1
 CC BY-NCSA	2709
 CC BY-SA	4676
@@ -65,6 +66,8 @@ CCB-CTA.S1	10721
 CCB-CTA.S2	10721
 CCB-CTA.S2 Cybersecurity Tier	10721
 CCB-CTA.S3 Training	10721
+CCBG CFT CMA COE CPI CPS	11134
+CCBG Meeting	11131
 CCBG Strategy	8377
 CCC COMESA	4583
 CCCC COMESA	4583
@@ -83,6 +86,7 @@ CCDR Tendances	7655
 CCEIBANK GE	5176
 CCENIF	4820,56
 CCES Certificat de Conformité Environnementale	10876
+CCGB-	11134
 CCI BETHSAIDA Data Controller INST-489235C6D62 KIAMBU	7167
 CCI GITARAKA Data Processor INST-631408F1407 EMBU	7167
 CCI JOY FAMILY CHILD DEVELOPMENT CENTRE	7167
@@ -127,6 +131,10 @@ CCTV. Facial	4563
 CCTV. Kwet	571
 CCTVs	9647,1074
 CCeerrttiiffiiccaattiioonn	736
+CChart	11152
+CChhaarrtt	11152
+CChhaarrtt11	11152
+CChhaarrtt33	11152
 CIRMR- CCMP.S11	10721
 CIRMR- CCMP.S2	10721
 CIRMR- CCMP.S3	10721
@@ -145,7 +153,7 @@ Cctld.km	2815
 Cellule CCDA Amélioration	10975
 Community-Based Surveillance CCS	10776
 Continuous CCTV	10956
-Creative Commons Attribution CC	9025,1689,249,1,13
+Creative Commons Attribution CC	9025,1689,249,1,13,159,13
 Cybersecurity CCB-CTA.S3	10721
 Cybersecurity Ecosystem and Cross-Sector CCB-CECC.S1	10721
 Cybersecurity Skill Development CCB-CSD.S1	10721
@@ -159,6 +167,8 @@ Full CCB-CRD.S1	10721
 Full CCB-CSD.S1 GC-RRA	10721
 Future of Learning Ends. About CcHUB Co-creation	8327
 G5 Sahel CCDR	1264
+Governor SADC CCBG Meetings AFI Working	11131
+Governor. Hosted SADC CCBG	11131
 Hub and Nigeria’s CcHUB	2677
 IAAS PAAS SAAS CCC-	9123
 ID Financing Instrument Resp CC Req	1284
@@ -192,7 +202,7 @@ Reach CCFM	8999
 Registration and CCeerrttiiffiiccaattiioonn	736
 Republic of Zambia CC	9082
 Réalisation des Contrats de Partenariat CCCL Contrat Cadre	10975
-SADC CCBG	6720
+SADC CCBG	6720,4411,3
 SD. La CCMP-CPP	5907
 Security. A CCTV	315
 Service CCMP.S7 Providers	10721

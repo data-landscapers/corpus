@@ -7,6 +7,7 @@ All CSPs	6432
 Attorney-General’s Office. The CSA	10248
 B Y O D CSP CSP	9123
 BNC CAAZ CSIC FAHRC FRC GEII	1554
+CBDC CCBG CFT CMA CPI CSI	11131
 CDC CNBS COVID CPN CSPro DAM	10777
 CIDP County Integrated Development Plan CSO	7548
 CPD Continuous Professional Development CSP Content	6946
@@ -67,6 +68,7 @@ CSD Central Supplier Database CSIR Council	5533
 CSD Conseil National de Secours	643
 CSD International Statistical Classification of Diseases	1009
 CSD Minimum Interoperability Standard MHD Multi-Patient	1009
+CSD Poverty	11136
 CSD- R1.2	643
 CSD-GE	10858
 CSD-GE DPSR CAT DPSR DPSR DPSR	10858
@@ -79,7 +81,12 @@ CSEA South Africa Data Governance Snapshot	5724
 CSEIT251115 Li	8606
 CSF Cybersecurity Framework	6936
 CSHUB-CSIRT	8897
+CSI CSOC DPF DTX ECGS EGFT	11134
+CSI Committee	11131
 CSI Description	3604
+CSI Donations	11134
+CSI Donations Organisation	11134
+CSI Handover Ceremony	11131
 CSI. People	3604
 CSIR Defence and Security	10889
 CSIR Infographic	1938,1
@@ -105,6 +112,7 @@ CSIRT da Administração Pública	6970
 CSIRT for The Gambia	1000
 CSIRT-MZ	2816
 CSIRT-improvement	996
+CSIRT. Article	11139
 CSIRT. New Regulations	4653
 CSIRT. Projecto	3838
 CSIRT.MZ	6970
@@ -124,6 +132,7 @@ CSM TECH LIMITED Data Processor INST-966462BF204	7167
 CSM Tech Limited. Key	10411
 CSM.S1	10721
 CSM.S2	10721
+CSO CSOC DPF ECGS ERM EXCO	11131
 CSO Civil Society Organization DNIC National	4214
 CSO Civil Society Organizations DPI Digital	10714
 CSO Open Days	7784

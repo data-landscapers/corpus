@@ -33,6 +33,7 @@ Africa for ICT	2475,1603
 Africa's ICT	9802
 Africa-focused ICT	623
 Africa. Covers ICT	534
+Africa. Research ICT Africa. Cramton	9759
 Africa. Would ICANN	3874
 Africa50 IC	810,2,235,1
 African ICT	1469,2167,394,2661
@@ -134,6 +135,7 @@ County Governments Public Private ICTA Transparent	7548
 County ICT Directorate	9939
 Cybersecurity Bill. INTIC Oversees ICT	3058
 DBI ECOWAS FEC FMCIDE GBB ICT	10157
+DCDT and ICASA	9759
 DEPARTMENT FOR ICT AND THE DIGITAL	6432
 DHA ICT Strategy	5533
 DHA and ICT Authority	9855
@@ -202,6 +204,7 @@ Estimates of Contribution of ICT	236
 Estonian ICT	2257
 Eswatini ICT	5799
 Eswatini Ministry of ICT Unveils Post Office-Based	3648
+Eswatini National ICT	11131,3
 Eswatini-based ICT	4743
 Eswatini’s ICT	6539
 Eswatini’s Minister of ICT	3397
@@ -283,6 +286,7 @@ Gwaske. The ICT Service-Wide Department	10063
 HCI and ICT4D	4439
 HF High Frequency ICANN Internet Corporation	6946
 HIc Iceland Europe Northern Europe Reykjavik	10840
+HOTL ICRC LMIC MLOp OCHA OCR	11156
 HOUSEHOLD ACCESS TO ICT PRODUCTS	582
 HOUSEHOLD SURVEY ON ICT IN GHANA	582
 HOUSEHOLDS OWNERSHIP AND USAGE OF ICT	582
@@ -311,12 +315,14 @@ Hungary Iceland	10714
 Hypertext Preprocessor PS Principal Secretary for ICT	6432
 I. Entrench ICT	899
 IASP International Association of Science Parks ICAO	2775
+IC Development Consultants	11134
 IC Infrastructure	1660,1,1,1,1,1,1,1,1,1,5,1
 IC NICKEL LIMITED	2342
 IC NICKEL Limited. La CMB	2342
 IC-F5000 Conforme UV-5R UV-9RPlus IC-F5062 VHF	998
 IC-KC	4682
 ICA and NIRA Launch Training	10521
+ICAAP	11131,3
 ICAIH	9204
 ICANN	2815,20,667,1,371,322,14,48,2988,547,157,97,296,1166,1310
 ICANN Address Supporting Organization	3503
@@ -341,7 +347,7 @@ ICAO's Policies	10723
 ICAO-compliant	320,3483,20,545
 ICAO-standard	2796
 ICAR-ADE	1368
-ICASA	926,31,446,206,201,2,757,375,2,318,980,488,328,115,6,11,406,126,61,23,64,180,100,31,284,358,7,74,145,267,105,333,68,3,1,22,130,109,41,1,30,12,62,163,37,482,775,844,53,140,15,67,45
+ICASA	926,31,446,206,201,2,757,375,2,318,980,488,328,115,6,11,406,126,61,23,64,180,100,31,284,358,7,74,145,267,105,333,68,3,1,22,130,109,41,1,30,12,62,163,37,482,775,67,777,53,140,15,67,45
 ICASA Act	4732,1140,1952
 ICASA Auction MTN Group	926
 ICASA Auction Vodacom	957
@@ -443,7 +449,7 @@ ICT Accessibility Standard	6946
 ICT Act	1988,925,643,6474
 ICT Africa	10729
 ICT Africa Summit	3658,2617,145
-ICT Agency	1714,9098
+ICT Agency	1714,9098,317
 ICT Agency. The National Agency for ICT	10812
 ICT Aminah Zawedde Uganda	6263
 ICT Applications and Cyber	26
@@ -464,6 +470,7 @@ ICT Awards	2320,1219,1420,19,1100,180
 ICT Based	7548
 ICT Bill	6030
 ICT Board	2913,4635
+ICT Business Resilience Subcommittee	11134
 ICT CFT	899
 ICT CHAMBER	1204
 ICT Cabinet Secretary Eliud Owalo	3983
@@ -524,7 +531,7 @@ ICT IMF IoT IP IT ITU	4528
 ICT Implementation Regulation	961
 ICT Imports	236
 ICT Indicators	582,3059,3305
-ICT Indicators Database	1248
+ICT Indicators Database	1248,8511
 ICT Industry Awareness and Promotion	958
 ICT Industry Stimuli	958
 ICT Information Society and Capacity Development	1612,1289
@@ -567,6 +574,7 @@ ICT Media STRATEGIES	3658,217,2400,145
 ICT Media Strategies	3658,2617,145
 ICT Medias Strategies	3658,2617,145
 ICT Minister	1150,2498,641,246,1192,1662
+ICT Minister Alongside	11135
 ICT Minister Benin	10819
 ICT Minister Emma Theofelus	3152
 ICT Minister Emma Theofelus and CRAN Chairperson	6825
@@ -709,6 +717,7 @@ ICT and Digital Economy John Kipchumba Tanui	9851
 ICT and Digital Economy Principal Secretary John	6717
 ICT and Digitalization Adopts the ECOWAS Digital Sector	1909
 ICT and Digitization	1909
+ICT and Future Planning Updates	11135
 ICT and Governance Raafat Hendy MCIT	9722
 ICT and GovernanceESwatiniCyber	3716
 ICT and GovernanceICT and GovernanceRegulationNigeriaRead	2462
@@ -717,6 +726,7 @@ ICT and GovernanceNamibiaWindhoekRead	5414
 ICT and GovernanceNational Registration BureauMobile	6598
 ICT and GovernanceWilliam Kabogo GitauMinistry of ICT	10635
 ICT and Innovation	5384
+ICT and Innovation Kenya Ministry of Information	11135
 ICT and Management Consultancy	4485
 ICT and Media	1962
 ICT and National	3050
@@ -759,7 +769,7 @@ ICT-professional	1248
 ICT-provider-neutral	9455
 ICT-regulator	3162
 ICT-related	236,1580,2,126,173,1633,1578,1504,1532,650
-ICT-sector	975,1453,6870
+ICT-sector	975,1453,6870,1864
 ICT-specialised	1902
 ICT-specific	1248
 ICT. AI	6832
@@ -1058,9 +1068,11 @@ Ministry of ICT and Postal Services	3583,76,2523
 Ministry of ICT and Postal Services of South Sudan	7508
 Ministry of ICT and Potraz	10071
 Ministry of ICT and RISA	4166
+Ministry of ICT and RSTP	11131
 Ministry of ICT's First Quarter Performance Report	7453
 Ministry of ICTPCS	4528
 Ministry of Interior Ministry of ICT National Registration	10822
+Ministry of Science and ICT CIFAR	11135
 Ministry's ICT	34,8149
 Ministry. The ICT Standards and Guidelines	34
 Mitigate ICT Challenges	958
@@ -1218,6 +1230,7 @@ Provision of ICT Services	6946
 Provision of ICT Services The Authority	6946
 Public Finance ICT Service	5588
 Public Value Perspective for ICT Enabled	5700
+Publisher Research ICT Africa Workshop	9759
 Quality of ICR Rationale The ICR	10779
 REDA Advisory ICT	1818
 REG. Africa50 IC	811
@@ -1247,9 +1260,11 @@ Research ICT Africa After Access	544
 Research ICT Africa Just AI Framework	7103
 Research ICT Africa Submission	6512
 Research ICT Africa's Just AI Framework	8836
+Research ICT Africa. Aker	9759
 Research ICT Africa. Comments	961
 Research ICT Africa. Even	5321
 Research ICT Africa. October	6512
+Research ICT Africa. Röller	9759
 Research ICT Africa’s Research Director	5008
 Research ICT Solutions	1944
 Research ICT Solutions and Baker Botts	1364
@@ -1285,7 +1300,7 @@ SADC Frequency Allocation Plan. ICASA	7827
 SADC ICT	26,1,1
 SADC ICT Implementing Agencies Communication Regulators	962
 SADC ICT Ministers	26,2,934
-SADC ICT Observatory	318,3158
+SADC ICT Observatory	318,3158,6283
 SADC ICT Observatory. Key	3476
 SADC ICT Sector	962
 SADC RIDMP ICT	1007
@@ -1294,6 +1309,7 @@ SCAN ICT	9485
 SDICT State Department for ICT SDICT&DE State	6432
 SMART ICT	395
 SMART ZIMBABWE MINISTRY OF ICT	395
+SMART Zambia Deploys ICT Equipment Sinazongwe	11171
 SMART Zambia Southern Provincial ICT Unit	7503
 SMS Conclusion Namibia’s ICT	1013
 SS IC Syllabus Gr12 Final February 2019.pdf	288
@@ -1335,6 +1351,7 @@ South Sudan ICT	4949
 South Sudan's Minister of ICT and Postal Services	6046
 South Sudanese ICT	4949
 South Sudan’s ICT Ministry Commends MTN	4243
+Southern Province Principal ICT Officer Joyce	11171
 SpaceX Urges South Africa's ICASA	10589
 SpaceX. ICASA	2946
 SpaceX’s Starlink. ICASA	6906
@@ -1342,8 +1359,8 @@ Standard Bank and ICBC	6870
 Standardising ICT	2920
 Starlink ICT Minister Tatenda Mavetera	6205
 State Department ICT State Department African	7548
-State Department for ICT	2965,3185,280,977,140,1,60,484,1846,601
-State Department for ICT and Digital Economy	3845,22,1669,2846,952
+State Department for ICT	2965,3185,280,977,140,1,60,484,1846,601,627
+State Department for ICT and Digital Economy	3845,22,1669,2846,952,1831
 State Department of ICT and Digital Economy	3878,2847,344,411,1089,223,1607,268
 State Dept of ICT	7069
 State Minister for ICT Godfrey Kabbyanga	3275
@@ -1382,8 +1399,10 @@ Tanzania's ICT	9149
 Tanzania. ICT Authority	899
 Tanzanian and European ICT	8276
 Tanzania’s National ICT Broadband Backbone	3954
+Tapiwa Chinembiri Research ICT Africa	9759
 Targeted ICT	958
 Teacher ICT Competency17 Competency TSC CEMASTEA	899
+Technologies Bangladesh ICT Division India Ministry	11135
 Technologies-capable ICTA	7548
 Technology Analyst ICT Burkina Office Pierre	10812
 Telecom and ICT	3604

@@ -1,4 +1,5 @@
 A- Lifecycle Cost Assessment Guidelines A1-	7548
+A. Forward-Looking Assumptions Backward-looking	11140
 A1.2.3.1 A1.2.3.2 A1.2.3.3 A1.2.3.4 Assurer	10858
 A2- Assessment	7548
 A3.2.3.5 Assurer	10858
@@ -8,13 +9,18 @@ AACB Assembly of Governors AACB Bureau AACB	6938
 ABDALLAH AND ASSOCIATES DENTAL AND IMPLANT	7167
 ABSA ASSET MANAGEMENT LIMITED Data Controller	7167
 ABSA LIFE ASSURANCE KENYA LIMITED Data	7167
+ACI Financial Markets Association	11131,3
 ACIOE Associates Limited	880
 ADSL Asymmetric Digital Subscriber Line AML	1818
 AFRICA ASIA HEALTH DYNAMICS LIMITED Data	7167
 AFRICAN ALLIANCE KENYA ASSET MANAGEMENT LIMITED	7167
 AI Assurance	7548
 AI Citizen Service Assistant for Smart Local	10347
-AI Impact Assessment	7548
+AI HUB RISK ASSESSMENT FRAMEWORK	11156
+AI Hub Risk Assessment Framework	11156
+AI Hub Risk Assessment Framework for Social	11156
+AI Impact Assessment	7548,3608
+AI Impact Assessments	11156
 AI Projects Assistant	5036
 AI Readiness Assessment	3378
 AI Readiness Assessment Methodology	4126,402
@@ -40,6 +46,7 @@ ASA CAPITAL LTD Data Controller INST-89081637A22	7167
 ASA INTERNATIONAL	7167
 ASA-CI	10198
 ASA-CI Executive Director Gérard Ballo and Désiré	10198
+ASAAMLG Mutual Evaluation Report	11131
 ASAC Nombre	10965
 ASAC Promotion	10965
 ASAHI CE	7167
@@ -68,7 +75,7 @@ ASCOMA BENIN Traitement	10821
 ASCON	7329
 ASCP-	4301
 ASE. L’adoption	8321
-ASEAN	1243,571,1002,582,476,494,109,752,2733,1469
+ASEAN	1243,571,1002,582,476,494,109,752,2733,1469,1704
 ASEAN Advantage and Hurdles	9431
 ASEAN Association of South Eastern Asia Nations	2775
 ASEAN DMF	1243
@@ -171,6 +178,7 @@ ASSA Kouassi Georges	2342
 ASSAINISSEMENT En	2342
 ASSAf	5246
 ASSEK	7548
+ASSEMBLEE	11139
 ASSEMBLEE GENERALE Ankara	998
 ASSEMBLEE LEGISLATIVE DE TRANSITION TEXTE ISSU	1801
 ASSEMBLEE NATIONALE LOI N	785,10040
@@ -181,9 +189,11 @@ ASSEMBLY PRESS	11,576
 ASSEMBLY THE HANSARD	10313
 ASSENICE MEDICAL COMPLEX KERUGOYA Data Controller	7167
 ASSEP	7106
+ASSESS	11156
 ASSESSMENT	6426
 ASSESSMENT OF SOVEREIGNTY EFFECTIVENESS The Contracting	3787
 ASSETS	4360,536,3694
+ASSETS Cash	11131,3
 ASSETS IN CHAOS	9696
 ASSETS MANAGEMENT Telegraphic Address	5793
 ASSETS P.O. Box	4896
@@ -361,6 +371,7 @@ America Middle East Asia Africa Pacific	10977
 America and Asia	10631
 American Association of Geographers	226
 American Bar Association	2546
+American Economic Association	9759
 American Library Association	8022
 American Medical Informatics Association	1824,6782
 Americas and Asia	6851,156
@@ -371,6 +382,7 @@ Angola Poverty Assessment	10768
 Angolan Banks Association	10775
 Anne Asmyr Thorseng	7027
 Apollo Asset Management Company Limited Data	7167
+Arab Rep. South and Central Asia	11135
 Arab States Asia-Pacific Egypt Thailand Indonesia	10844
 Armée Assimi GOITA	1967,5876,394,32,1018,55
 Armée Assimi GOÏTA	1968
@@ -424,7 +436,7 @@ Asaresult	8602
 Asasi	6019
 Asasi- Mocomo	4209
 Asaye Senay	1824
-Asbestos	1988
+Asbestos	1988,9141
 Asbestos Cement Flat Sheets	1988
 Asbestos Cement Insulating Board and ZS006	1988
 Asbestos Containing Any	1988
@@ -487,7 +499,9 @@ Ashcell	3386
 Ashenafi Endale	7909
 Ashesi Centre	4126
 Ashesi University	4126
+Ashesi University Foundation	11175
 Ashetu Gichuro of Ethiopia	10675
+Ashigbey	11132
 Ashish Kumar Rathore	226
 Ashish Malhotra	7942,1074
 Ashitei Trebi-Ollennu	7317
@@ -514,6 +528,7 @@ Asia Pacific	3874,1098,2175,1798,2072
 Asia Pacific Computer Emergency Response Team	10764
 Asia Pacific Gateway	1766,2910
 Asia Pacific Journal of Management	9129
+Asia Pacific and Middle East	11140
 Asia Russell	5162
 Asia Saint Kitts and Nevis High EGDI	10840
 Asia Society	225
@@ -521,14 +536,15 @@ Asia South-Eastern Asia Phnom Penh High	10840
 Asia Southern Asia Tehran High EGDI	10840
 Asia Sub-Saharan Africa	10977
 Asia Times	5863
+Asia Türkiye Ministry of Industry and Technology Presidency	11135
 Asia United Gateway East	1766
 Asia Western Asia la Habana Very High	10840
 Asia and Africa	10844
 Asia and Europe	3636,1336,252,1467,3727
-Asia and Latin America	6960,4044
+Asia and Latin America	6960,4044,151
 Asia and North America. Across	4972
 Asia and Pacific	11004
-Asia and South America	1123
+Asia and South America	1123,10012
 Asia-Africa	7365,1
 Asia-Africa-Europe	5252
 Asia-Africa-Europe-2	3342,3431
@@ -539,6 +555,7 @@ Asia-Pacific Economic Cooperation. Retrieved	1243
 Asia-Pacific and African	10342
 Asia-Pacific. Instead	8263
 Asia-Pacific’s VC	4972
+Asia-Paciﬁc	11155
 Asia. BIO	821
 Asia. Channel VAS	347
 Asia. Intra-African	10718
@@ -552,10 +569,11 @@ Asia. So	1038
 Asia21	11004
 Asia31	11004
 AsiaPac	7147
+AsiaPaciﬁc	11154
 Asiama	5519,802,1020
-Asian	2461,130,239,283,761,802,398,1796,1156,100,222,255,67,536,503,1137,114,10
+Asian	2461,130,239,283,761,802,398,1796,1156,100,222,255,67,536,503,1137,114,10,161,18
 Asian Association of Open Universities Journal	1248,7880
-Asian Development Bank	396,6743,3579
+Asian Development Bank	396,6743,3579,438
 Asian Development Bank AIDS Acquired Immune	396
 Asian Development Bank Report No	10718
 Asian Infrastructure Investment Bank	607,3460,1351,3308
@@ -614,7 +632,7 @@ Asker	2816
 Asking	775,8063,629,846
 Askya	6289,50,4462
 Askya Investment Partners	10801
-Aslett	10997
+Aslett	10997,143
 Asli Demirguc-Kunt and Ross Levine	1828
 Aslib Journal of Information Management	5349
 Aslıhan Güreşcier	3929
@@ -641,6 +659,7 @@ Aspectos	10783
 Aspects	748,210,856,5145,3960
 Aspects Coordinator Strategy	1777
 Aspects The Joint Committee	6748
+Aspen Institute Financial Security Program	11138
 Aspiraciones	1701
 Aspirante	10750
 Aspirated	9446,1510
@@ -717,7 +736,7 @@ Assembly. Best	10837
 Assembly. He’s Very Wrong	10034,231
 Assembly. So	7932
 Assemblé Nationale	2342
-Assemblée	113,323,120,630,83,1,27,1,1,1,30,254,4,3,1,152,57,116,1,101,44,498,192,89,13,116,105,113,161,31,15,310,63,30,25,12,6,104,47,134,30,2,71,1,7,11,20,72,22,17,3,3,34,274,157,19,126,25,135,1,147,248,229,96,72,146,64,3,113,17,98,9,79,23,119,119,11,22,117,233,2,139,43,118,237,9,10,87,329,225,15,1,178,218,2,15,71,65,1,4,41,548,19,206,93,163,13,4,107,90,83,237,17,65,2,216,26,4,11,14,18,68,152
+Assemblée	113,323,120,630,83,1,27,1,1,1,30,254,4,3,1,152,57,116,1,101,44,498,192,89,13,116,105,113,161,31,15,310,63,30,25,12,6,104,47,134,30,2,71,1,7,11,20,72,22,17,3,3,34,274,157,19,126,25,135,1,147,248,229,96,72,146,64,3,113,17,98,9,79,23,119,119,11,22,117,233,2,139,43,118,237,9,10,87,329,225,15,1,178,218,2,15,71,65,1,4,41,548,19,206,93,163,13,4,107,90,83,237,17,65,2,216,26,4,11,14,18,68,152,51,12
 Assemblée Administration	9480
 Assemblée Générale	10821,154
 Assemblée Générale des Nations Unies	10826
@@ -745,18 +764,20 @@ Asserter	6423
 Assertion	1009,4233
 Assertion V	1009
 Assertions	8862,114,253,1876
-Assess	236,482,181,344,571,174,489,512,872,265,1539,767,400,106,610,1930,272
+Assess	236,482,181,344,571,174,489,512,872,265,1539,767,400,106,610,1930,272,1381,2,23
 Assess AI	1814
 Assess Compliance	10721
+Assess Enrol EXAMPLE AI-enabled	11156
 Assess Ghana	4126
 Assess The Security Provisions For Cloud	34
 Assess and Use Results	396
 Assess and Use Results Evaluation	1824
-Assessed	4432,2031,4542
+Assessed	4432,2031,4542,151
 Assesses	1381,335
-Assessing	1219,1597,132,315,864,49,672,15,2075,340,481,1370,74,34,379,1147,17,76,25,104
+Assessing	1219,1597,132,315,864,49,672,15,2075,340,481,1370,74,34,379,143,1004,17,76,25,104
 Assessing AI's Implications for Development	5598
 Assessing China	4676,566
+Assessing Digital Inequality	9759
 Assessing Digital Maturity of Hospitals	1824
 Assessing the Antecedents	5349
 Assessing the Effectiveness of Cybersecurity Programs	4610
@@ -764,14 +785,17 @@ Assessing the Effectiveness of Cybersecurity Programs A	4610
 Assessing the Impact of Digital Government	226
 Assessing the Impact of ICT Integration Policy	899
 Assessing the Levels of Assurance	10775
-Assessment	584,315,71,191,42,9,52,603,121,6,579,1031,187,70,26,239,88,580,871,155,612,80,27,1009,470,584,1555,564,42,5,44,29,165
+Assessing the Macroeconomic Productivity Gains	11140
+Assessment	584,315,71,191,42,9,52,603,121,6,579,1031,187,70,26,239,88,580,871,155,612,80,27,1009,470,584,1555,564,42,5,44,29,165,147,3
 Assessment Area Network Performance Service Quality	5676
 Assessment Basic Knowledge	899
 Assessment Committee	970
 Assessment Criteria The Department	11005
 Assessment DGFP General Directorate of Civil Service	969
+Assessment European Union Forecast-based Financing	11156
 Assessment Framework	1161,6387
 Assessment Framework Technologies	7548
+Assessment Impact Privacy	11153
 Assessment Procedure	1824
 Assessment Regulations	1988
 Assessment Report	962,199,9560
@@ -779,7 +803,9 @@ Assessment Report Tier	10721
 Assessment Reports	10721
 Assessment Results	1953
 Assessment Setting	1824
+Assessment Tool	11133
 Assessment Tool’. WB ID4D	10819
+Assessment Vulnerability	11153
 Assessment and Management of E&S Risks and Impacts	1264
 Assessment and Planning	6432
 Assessment and Recommendations. Paris	6832
@@ -795,8 +821,9 @@ Assessment of Teacher	899
 Assessmentofdecision-	8606
 Assessments	573,216,475,290,1607,1267,3025,3436
 Assessments of DHIS2	10881
+Assessments. Washington	11136
 Assessorar	167,4051
-Asset	767,1221,4950,600,213,1372,583,1015,17
+Asset	767,1221,4950,600,213,1372,583,1015,17,393,3
 Asset Class. Geneva	1243
 Asset Declaration Forms	1554
 Asset Disposal Act	6432,514,602
@@ -806,6 +833,7 @@ Asset Management Corporation of Nigeria	8157,134
 Asset Managers	4896
 Asset Name and Link	7662
 Asset Payment Processor Virtual Asset Investment	10738
+Asset Quality Asset Quality	11134
 Asset R	9123
 Asset Recovery	3583
 Asset Recovery Act	783
@@ -818,7 +846,7 @@ Asset and Risk Management Tier	10721
 Asset and Tier	10721
 AssetCo	10993
 Assetou Zongo	10881
-Assets	1944,831,1753,368,453,564,1285,296,168,1830,214,1012
+Assets	1944,831,1753,368,453,564,1285,296,168,1830,214,1012,413
 Assets Africa	9119
 Assets NAD	1013,931
 Assets USD	1013
@@ -829,13 +857,13 @@ Asshownin Figure8	8606
 Assia Benchabla-Queiroz	10515
 Assiduidade	6462
 Assiette	10712
-Assign	1000,5832,816,958
+Assign	1000,5832,816,958,2550
 Assignation	37,961,4363
 Assignation PERMISSIONNAIRE REFERENCE DECISION DATE	998
 Assigned	9123,878
 Assigned Microwave Links for Deployment	6671
 Assigned Names and Numbers ICPAK Institute of Certified	6946
-Assigning	961,200,5432
+Assigning	961,200,5432,4536,2
 Assignment	427,3251,4150,718,577
 Assignment Title	9603,1
 Assignment of Numbering Resources	6946
@@ -866,6 +894,7 @@ Assist Employees’ Productivity	2816
 Assist SMEs	1885
 Assist the Poor	100,8647,2230
 Assist the SADC Secretariat	962
+Assist-Advise	11156
 Assistance	26,1258,499,6,1,1,1,3,931,1,481,329,891,1531,235,891,4,1148,2489,37,113,44,55,10
 Assistance Evidence	2727
 Assistance Human-in-the-loop	10726
@@ -882,7 +911,7 @@ Assistant Commissioner Health and Information Management	3005
 Assistant Commissioner for Electronic Services	10066
 Assistant Commissioner for Health Information	4922
 Assistant Data Commissioner for Registration	2668
-Assistant Director	10,24,7929
+Assistant Director	10,24,7929,3168,3
 Assistant Director for Administration	3088
 Assistant Director for Digital Technologies	7432
 Assistant Director of Digital Skills and Capabilities	9137
@@ -892,6 +921,7 @@ Assistant Editor	7928
 Assistant Editor for Economy and Markets	10093
 Assistant Engineer	6946
 Assistant Finance Minister for Tax Policies Rami	10448
+Assistant Governor	11131,3
 Assistant Guylaine Laiyra	9612
 Assistant IP Registrar	10358
 Assistant Inspector General of Police	8471
@@ -974,6 +1004,7 @@ Association Burundaise	7955
 Association Chabiba	8891
 Association Dakouna Espoir	9180,157
 Association Droit	8891
+Association Electronic Clearing House Eswatini Financial	11130
 Association Fintech de Côte	7283
 Association Fonci	7845
 Association IARDT Incendie	10965
@@ -1005,19 +1036,20 @@ Association des Tunisies	7649
 Association des Usagers des Services Publics	2328
 Association du Réseau des E-marchands	2261
 Association for African Economic Development	2626
-Association for Computational Linguistics	7548,1058
-Association for Computing Machinery	2093,6671,364,109,502,951
+Association for Computational Linguistics	7548,1058,2534
+Association for Computing Machinery	2093,6671,364,109,502,951,445
 Association for Computing Machinery. Crossref Google Scholar	8460
 Association for Education	10143
 Association for Educational Assessment	10196
 Association for Information	9128
-Association for Information Systems	2948,1484,1268
+Association for Information Systems	2948,1484,1268,5456
 Association for Progressive Communications	522,514,201,422,212,6075,301,898,1950
 Association for Progressive Communications and Rhizomatica	9261
 Association of African Central Banks	4103,2835,1209,592,297
 Association of Ambulance Doctors. Legislative	11006
 Association of American Geographers	3782,894
 Association of Banks and Financial Institutions	1343
+Association of Capital Market Registrars	11129
 Association of Children	10776
 Association of Comms	5785
 Association of Comms and Technology	2946
@@ -1039,21 +1071,26 @@ Association of Licenced Telecom Operators of Nigeria	5055
 Association of Licensed Telecoms Operators of Nigeria	8466,780
 Association of Local Government of Nigeria	7664
 Association of Local Governments of Nigeria	10704
+Association of Market Women	11129
 Association of Media Practitioners Seychelles	2844
 Association of Medical Councils of Africa	10523
 Association of Microfinance Institutions of Zambia	9371
 Association of National Registrars	961
+Association of Nigerian Courier Operator	11129
+Association of Nigerian Courier Operators	11129
 Association of Nigerian Physicians	7895
 Association of Parliamentary Librarians	8090
 Association of Private Health Facilities	1261
 Association of Private Providers of Education	6832
 Association of Private Sector Sanitation Actors Data	7167
+Association of Private Security Companies	11129
 Association of Professional Societies	7167
 Association of Southeast Asian	2775
 Association of Southeast Asian Nations	1243,1532,5187,2076
 Association of Southern Africa	962,9375
 Association of Submarine Cable Operators of Nigeria	7329
-Association of Telecommunications Companies of Nigeria	6536,1671,840
+Association of Telecommunication Companies of Nigeria	11129
+Association of Telecommunications Companies of Nigeria	6536,1671,840,2121
 Association of Women	7167
 Association. Article	10836
 Association. ECOWAS. Section I.A.2	1264
@@ -1105,7 +1142,7 @@ Assuch	8602
 Assume	958,8155,1608
 Assume-se	10777
 Assumed	80,1,1,1,201,95,120,1,181,1,1,1,1,1,1,202,1,1,1,1,1,1,229,1,1,237,154,1,1,1,1,2,1,691,7772
-Assuming	1828,7219,1213,556
+Assuming	1828,7219,1213,556,324
 Assuming the Council’s Chairpersonship	7142
 Assumir	4218
 Assumption	7845,14
@@ -1122,12 +1159,15 @@ Assuntos Parlamentares	4435,1583,3253
 Assuntos Políticos	10750
 Assuntos R	539
 Assuntos Religiosos	539
-Assurance	737,1605,1445,741,1694,982,344,1343,212,1733,39,7,83,10
+Assurance	737,1605,1445,741,1694,982,344,1343,212,1733,39,7,83,10,156,3,5
 Assurance AI	7548
 Assurance Body	7548
 Assurance Body Accelerated	7548
 Assurance CIP Centrale	10965
 Assurance Engagements	4896
+Assurance Graduate Trainee Programme The Bank	11131
+Assurance Internal Audit	11134
+Assurance Internal Audit Activities	11134
 Assurance Islamique	4402
 Assurance Lab National Blood	4153
 Assurance Levels	7008
@@ -1142,7 +1182,7 @@ Assurance Technologies	7548
 Assurance Training	10123
 Assurance and Standards	899
 Assurance-maladie	10824
-Assurances	235,6648,4082
+Assurances	235,6648,4082,174
 Assurant	4871
 Assurent	1187
 Assurer	12,130,856,294,765,909,205,1,209,15,6,601,17,350,851,2756,410,169,335,746,1,1074,114,32,16,2,89,1
@@ -1177,6 +1217,7 @@ Asycuda	9945
 Asylum	1988,8853,23
 Asylum Seekers and Special Permit	4667
 Asymmetric Digital Subscriber Line AI	6000
+Asymmetric Perception Dynamics	11138
 Asymmetry	4258,3187
 Asynchronous	6832
 Asystematicliteraturereview. Brit-	8602
@@ -1205,8 +1246,10 @@ B. Assistance	613,5017
 B. The South Asia	10785
 BAI09 Managed Assets	9237
 BAMBA FINANCIAL SERVICES ASSOCIATION C.B.O Data	7167
+BCM Maturity Assessment	11131
 BETA MOTOR VALUERS AND ASSESSORS LIMITED	7167
 BFA Asset Management	5589
+BIG-IP ASM	11153
 BM Assainissement	643
 BMA Deputy Assistant Commissioner	9076
 BOAD Raymond ASSOUKROU Analyste	10708
@@ -1223,6 +1266,7 @@ Bankers' Association	940,6174
 Banking Association South Africa	6886
 Banking Association of South Africa	5533,58
 Banking Association of South Africa and Credit Bureau	5487
+Banking Sector Indicators Capital Adequecy Asset	11131
 Bar Association	2343
 Bare and Associates Advocates LLP Data Controller	7167
 Baseline Assumptions All	10157
@@ -1306,9 +1350,10 @@ Cash Equivalents Harare Total Current Assets	4896
 Cash-for- Assets	970
 Cashless Economy Cameroon’s Lekel Asonganyi Builds	7301
 Catherine Ingato Aseka Data Processor INST-215443ABBFF	7167
-Central Asia	8449,2528,27
+Central Asia	8449,2528,27,151
 Central Asian	10068
 Central Assessment Unit	10550
+Central Bank Staff Association	11131,3
 Central Bank of Kenya Assets and Liabilities	2775
 Central and Southern Asia	10846
 Centre for Radio Astronomy Techniques and Technologies	10076
@@ -1323,10 +1368,13 @@ Chamada A Assumir Papel Nacional Américo	8827
 Chatterjee SC. Assessment	3791
 Chicago Business Press. Ashton	6832
 Chief Economist for Asia Pacific	8890
+Chief Executive Officer of Eswatini Sugar Association	11131,3
 China and Asia	5863
 Chinedu Asadu	4127
+Chinese Assistant Minister of Foreign Affairs	11154
 Chinese Enterprise Contracting Engineering Association	3546
 Chinese Society of Astronautics	9816
+Christian Fellowship. Employee Assistance Services	11131
 Christian Health Association of Kenya Data Controller	7167
 Christian Health Association of Kenya Data Processor	7167
 ChronoVerify Antinews.gr Claibe ApS Asociación ADEPSI	8530
@@ -1340,6 +1388,12 @@ Coal Fly Ash-Derived Filter Media for Water	1554
 Code Aster Impact Z88	9475
 Colegio Patricio Ngabo de Bata Asonga Bata	4209
 Colmer Wapa Wireless Access Providers Association	6365
+Combined Assurance	11131
+Combined Assurance Forum	11131
+Combined Assurance Oversight Committee	11131
+Combined Assurance Plan	11134
+Combined Assurance The ERM	11134
+Combined Assurance and Integrated Oversight	11134
 Comissão de Assuntos Constitucionais	539
 Comissões de Trabalho Especializadas da Assembleia Nacional	8880
 Commercial Banks Assets and Liabilities	2775
@@ -1370,6 +1424,7 @@ Confiscated Property and Asset Management	2652,2999
 Conformance Assessment and Conformance Certification	1009
 Conformity Assessment	7548
 Construction ERRA Energy Regulators Regional Association	10975
+Construction of Asphalt Access Road	11134
 Consumer Associations Partnership	5676
 Consumer Associations Partnership Effective	5676
 Contingent Liabilities and Contingent Assets	1154
@@ -1457,15 +1512,17 @@ Data Protection Impact Assessment	1630,112,2119,722,278,252,1302,17,1006,110,560
 Data Protection Impact Assessment NIB National	6936
 Data Protection Impact Assessment Regime	3861
 Data Protection Impact Assessment Report	2709
-Data Protection Impact Assessments	1630,5306,2942,843
+Data Protection Impact Assessments	1630,5306,2942,843,435
 Data Protection Impact Assessments and Human Rights	6949
 Data Protection Impact Assessments. The DPA	1652
 Data Protection Impact Assessments. Training	5385
 Data Quality Assessment Standards	2709
 Data Quality Assessments	4202
 Date of Assent	2726,1,1160
+David Ashley	11174
 Day Was Astroturfing	7437
 Day Was AstroturfingBen RobertsFollow7	7437
+Debt Pension Assets Ratio	11134
 Declaration of Interests and Assets	1554
 Defence and Security Asia	2318,6,103,20,94,25,48,44,62,5,53,41,1,3,50,41,11,18,4,70,1,8,259,18,157,163,119,78,69,141,37,21,465,78,145,55,254,225,138,45,60,43,101,181,78,116,183,19,70,19,178,5,104,1,149,7,16
 Definitions Asbestos Asbestos	1988
@@ -1486,6 +1543,7 @@ Description ISC Assessment of ZamStats	2240
 Description Pros Cons Assumptions	961
 Description USAID Digital Ecosystem Country Assessment	1166
 Desenvolvedor de Assistentes Virtuais. Segundo Xavier	2816
+Development Assistance Committee	11155
 Development Association	1704,163,424,1271,7267
 Development Association IDB Industrial Development Bank	2775
 Development Institutions Associations Networks	940
@@ -1540,9 +1598,11 @@ Dr. Johnson Asiama	2450,3803,2211
 Dr. Owiso Owiso and Ashioya Biko	9645
 Dra. Zalha Assoumana	7702
 Draft Radio Frequency Spectrum Assignment Plans	7980,109
+E Assemblée	11139
 E&S Environmental and Social EA Environmental Assessment	1988
 E. P. ASSEMBLEIA NACIONAL Lei	539
 E. SIFUNA AND ASSOCIATES ADVOCATES Data	7167
+EAP and Europe and Central Asia	11149
 EAST AFRICA MARKET DEVELOPMENT ASSOCIATES LIMITED	7167
 EASY ASSET MANAGEMENT LIMITED Data Controller	7167
 EASY ASSET MANAGEMENT LIMITED Data Processor	7167
@@ -1561,25 +1621,29 @@ EPTC Options Assessment	6539
 ESIA Environmental Social Impact Assessment ESMF	1988
 ESIA Environmental and Social Impact Assessment ESMF	1264
 ESIA Environmental and Social Impact Assessment EU	7548
+EU-Central Asia Digital Bridge	11155
 EXCHANGE AND THE ASSOCIATED EXIT OFFER	4896
+EYEP Fintech Association of Central Bank Governors	11134
 East Africa Device Assembly Kenya Ltd	3975
 East African Asian	6231
 East African Legislative Assembly	3738
 East African Securities Exchanges Association	6938
-East Asia	6997,3849,158
+East Asia	6997,3849,158,131,14
 East Asia Europe Latin Middle South	10977
 East Asia Pacific	10714,71
 East Asia and Europe and Latin America Middle	10977
 East Asia and Oceania	10846
-East Asia and Pacific	10785,192
+East Asia and Pacific	10785,192,163,9
 East Asia and Pacific and Latin	11004
 East Asia and Pacific. Senegal	10977
-East Asian	4053,6924
+East Asian	4053,6924,172
+East Asian Miracle	11149
 East South Asia Sub-Saharan Africa Pacific	10977
 East and South East Asia	4676
 Eastern Asia Pyongyang	10840
 Ebenezer Asante	5136,2975,2477
 Economia Assinatura	3093
+Economic Assessment of Somalia’s Accession	11136
 Economic Statistics Division Asuo Afram	236
 Economic and Social Commission for Western Asia TRA	5951
 Economics Association	10852
@@ -1601,6 +1665,7 @@ Emery Assogba. Dans	4684
 Emery Assogba. Il	4684
 Emmanuel ASSILAMEHOO	2623
 Employee Assistance	6946
+Employee Assistance Service	11131
 Employees and Corporate Assets	7198
 Engagement Local Aspects of Local	1988
 Enhanced Risk Assessment	2991
@@ -1608,8 +1673,9 @@ Enterprise Design Quality Assurance and Results Division	10550
 Entrevista Assistida	10757
 Entrevista Pessoal Assistida	4044,6733
 Environment Impact Assessments	2775
+Environmental Assessment	11134
 Environmental Assistant	2889
-Environmental Impact Assessment	1988,3867
+Environmental Impact Assessment	1988,3867,5276
 Environmental Impact Assessment EIB European Investment	2775
 Environmental Impact Assessment Regulations	1988
 Environmental Impact Assessment Regulations SI	1988
@@ -1631,6 +1697,7 @@ Esports Association Ghana	11052
 Establish Information Security Assurance	1000
 Estado ASSEMBLEIA DA REPÚBLICA Lei	6970
 Estonian Citizens’ Assembly. Paper	7886
+Eswatini Bankers' Association	11130
 Eswatini Digital Economy Assessment	796
 Eswatini Digital Economy Assessment Companion	796
 Eswatini Digital Readiness Assessment	6539
@@ -1643,9 +1710,10 @@ Etude Assistant N	10975
 Europe Asia Oceania	4972
 Europe and Asia	1903,1733,889,323,1830,13,99,438,2892
 Europe and Asia. While Africa	4121
-Europe and Central Asia	226,5372,5187,192,27
+Europe and Central Asia	226,5372,5187,192,27,136,9
 Europe and Central Asia and East Europe and Central	11004
 Europe-East Asia and Europe-Sub-Saharan Africa	2830
+European Investment Bank. Connecting Europe and Asia	11155
 European Union SAAO South African Astronomical	5246
 European Union. Assessing	1219
 European and Asian	2702,5978
@@ -1664,6 +1732,7 @@ FM Risk Assessment and Mitigation Measures Risk	3604
 FM Sound Broadcasting Frequencies Assigned	6671
 FM Stations In Operation Ashanti	2776
 FOUR KEY ELEMENTS FOR ASSESSMENT Data	1161
+FRAMEWORK The AI Hub Risk Assessment	11156
 FY2026 Assembly	4419
 Faculty Assistant	6936
 Far East Asia	523
@@ -1678,12 +1747,14 @@ Finalize GBV Assessment and Action Plan Develop	2989
 Finalize GBV Assessment and Action Plan Update	2989
 Finance Assets	10718
 Financial Services Assess	4848
+Financial Stability Assessment Aggregate Financial Stability	11131
 Financing International Development Association	1284
 Fintech Association of Botswana	2773
 Fintech Association of Kenya	6603
 Fintech Association of Nigeria	11126
 Fintech and Digital Asset Lead	9706
 Fiona Asonga	9507
+Fire Risk Assessment	11134
 Fixed Asset Management Units	9004
 Fixed Asset Register	9004
 Foreign Assistance Office Ministerio	10713
@@ -1692,6 +1763,7 @@ Foreign Ministry Asks Diplomatic Missions for Staff	10496
 Former Attorney General and National Assembly Speaker	10042
 Forms of Articles of Association TABLE	3714
 Fortifying Institutional Digital Assets	10069
+Forward-Looking Assessments This Report	11131,3
 Fourth Estate. Gerard Asagi	3691
 Francis Asanyo	9188
 Francophone Association of Data Protection Authorities	6363
@@ -1739,9 +1811,11 @@ Ghana Internet Service Providers Association	8247
 Ghana Journalists Association	3691,6451,897
 Ghana List of Acronyms and Abbreviations AGI Association	236
 Ghana Virtual Asset Service Providers Act	4847
+Ghana. Dr Ashigbey	11132
 Ghana’s AI Readiness Assessment	5701,2662
 Giacomo Assenza	10765,10
 Given and Assessment	899
+Global Asia	11135
 Global Assembly	7038
 Global Assessment	11006
 Global Assessment. Multistakeholder Governance for DPI	11006
@@ -1753,6 +1827,7 @@ Global South. At the UN General Assembly	6001
 Global System for Mobile Communications Association	1264,2340,3576,1761,25,1449
 Glossary AI Artificial Intelligence ASN Autonomous	10781
 GmbH Human Asset Clouds&Training Inetum España	8530
+Go Assessed	11156
 Gobierno Administrador General de Palacio Asesor S.E	4209
 Gobierno. Asimismo	8378
 God Assist Him	1885,692
@@ -1775,6 +1850,7 @@ Greater Abidjan and Assinie	10937
 Grievance Mechanism Assessment	11007
 Group A. The Europe and Central Asia	10785
 Grâce Assani	5710
+Guidance Note and Assessment Tool	11133
 Gyandoh Asmah and Co	7696
 Général de Division Assoumane Abdou Harouna	3341,1461,1292
 H-TII Asia Vanuatu High EGDI M-OSI	10840
@@ -1793,6 +1869,7 @@ Harmonized Health Facility Assessment	4202
 Harvard Kennedy School Ash Center for Democratic	5700
 Harvard Kennedy School’s Ash Center Policy	5700
 Head of Assets and Investment Management	718
+Head of Economic Assessment and Public Policy Department	11149
 Head of Fraud and Revenue Assurance	10580
 Health Care Associations Consumers	21
 Health Community of West Africa Association	10630
@@ -1857,6 +1934,7 @@ IPv6 and ASN	9506
 IRMA Asia	10342
 IRMA Asia Pte. Ltd	10342
 IRMA Engine Asia	10342
+ISASS Integrated Social Assistance Services System	11133
 ISC Assessment of ZamStats	2240
 ITU CIRT Assessment	318
 ITU Radiocommunication Assembly	7980,109
@@ -1910,6 +1988,7 @@ Intelwatch. Partilhar Edição Impressa Assinar Newsletter	9990
 Interface ASEAN Association of Southeast Asian Nations	1243
 Interior Minister Mohamed Ahamada Assoumani	5026
 Interior Mohamed Ahamed Assoumani	5335
+Internal Capital Adequacy Assessment Process	11131,3
 International Air Transport Association	9895,465,363
 International Association for Public Participation	11006
 International Association of Privacy Professionals. Bryant	1243
@@ -1924,6 +2003,7 @@ International Development Association ISR Implementation	2889
 International Journal of Nepal Library Association	8022
 International Lawyers Assisting Workers Network	8764
 International Scene Association of Southeast Asian Nations	2775
+International Social Security Association	11156
 International Trade and Forfaiting Association	10718
 International Trade and Forfaiting Association. Mabuza	10718
 Internet Corporation for Assigned Names and Numbers	3503,3743,3573
@@ -1932,6 +2012,7 @@ Internet Service Providers’ Association	10690
 Internetwork System Specialisation Assurance	6832
 Interpol’s African Cyberthreat Assessment Report	9797,228
 Intra-group Data Protection Impact Assessment WhatsApp	5113
+Intrinsic Risk Assessment Worksheet Tool	11156
 Introduction The Asbestos Management Plan	1988
 Investigating the Cybersecurity Aspects	5244
 Iraq’s Asiacell	2405
@@ -1959,10 +2040,12 @@ Junho Assembleia Nacional Artigo	15
 Junho Assembleia Nacional Sumário Das Comunicações	15
 Just Pension Assets	7523
 KESSHA Kenya Secondary Schools Heads Association	6946
+KEY SECURITY ASPECTS IN A DIGITAL	11130
 KPMG-led True Value Assessment	9102
 KSh Million Type of Asset	2775
 Kadjebi District Assembly	7457
 Kajsa Osterberg Astrom. FCG Swedish Development	427
+Kenneth Ashigbey	11132
 Kenya ASAL Counties UK FCDO	2163
 Kenya Artificial Intelligence Readiness Assessment Report	10246
 Kenya Association of Manufacturers CEO	9930
@@ -1979,10 +2062,12 @@ Kenya Primary School Heads Association	899
 Kevin Ashton	8776
 Khalifa Al Abdulsalam Assistant Professor	2958
 Kikuyu MP and National Assembly Majority Leader	10668
+Kingdom Eastern Europe East Asia Moldova	11135
 Kishamawe C. Assessment	3791
 Kisubi Associated Writers Agency	11022
 Kofi Asmah	7696
 Korley Klote Asylum Down-Accra	3386
+Kunle Asekun	11163
 Kwamina Asomaning	8928
 L'appel du DG ASIN	3248
 L1 ASON	3797
@@ -2054,6 +2139,7 @@ Madame Antoinette Ashley NGUESSO AMBENDET	3326
 Malagasy National Assembly	9480
 Malawi's Digital Readiness Assessment	1376
 Mali Digital Ecosystem Country Assessment	1166
+Management Approach Material Matters Assurance Finance	11131
 Management Association Science Granting Councils Initiative	1554
 Management Information System for Social Assistance	1371
 Management of State Assets and Participations	7134,3645
@@ -2095,7 +2181,7 @@ Mheshimiwa Abubakari Damian Asenga	6019
 Micro-Finance Banks Assets and Liabilities	2775
 Middle East and Asia	3342,6919
 Middle East and Asia-Pacific	3357
-Middle East and Central Asia	2775,4171
+Middle East and Central Asia	2775,4171,4194
 Middle East and Europe. Mohamed Assoweh Bouh	2679
 Migration Assessment	6432
 Migration and Asylum	789
@@ -2249,6 +2335,7 @@ Nigeria Poverty Assessment	3456
 Nigeria's National Assembly	9642
 Nigerian Australian Medical Doctors Association	7895
 Nigerian Bar Association	8978,1071
+Nigerian Insurers Association	11129
 Nigerian Internet Registration Association	6536
 Nigerian Medical Association Germany	7895
 Nigerian Nurses Charitable Association UK	7895
@@ -2327,11 +2414,13 @@ PS4R Country Assessment Diagnostic Framework. Washington	10841
 PUBLIC BANK OF GHANA FREQUENTLY ASKED	6940
 PUBLIC INVESTMENTS AND ASSETS	5793
 Pacific Asia Conference	9128
+Pakistan and Caucasus and Central Asia	11140
 Palakiyem Assih	8262,2502
 Palakiyem Assih Named Chairman of Cyber Defense	8262
 Par Ndeye Astou Konaté	5022
 Parent-Teacher Associations	8588
 Part VI--Quick Assessment of Administrative	10812
+Participant Assessment	11138
 Partner and Global Co-Head of Digital Assets	7577,2129
 Partners ASALs	7548
 Partners Associazione ScuolaNuova.EU AI AZ DATA	8530
@@ -2348,6 +2437,7 @@ Per Second MCA Member of County Assembly	2775
 Percentage Contribution Type of Asset	2775
 Performance Assessment Report. Warwick	10997
 Personal Assistant	1554,5392
+Peru- and Asia	11135
 Physician Assistants Year U.S. Government Liberia	4202
 Planning Assumptions The Electoral Commission	7266
 Platform Assessment Framework	5700
@@ -2361,6 +2451,7 @@ Poverty Assessment	1867,8896,222
 Poverty and Gender Assessment	10062
 Power Installation Assessments	1988
 Practical Assessment Research and Evaluation	2093
+Practice The Overall Trust Assessment	11138
 Pre Assessment Tool	414
 Preliminary Readiness Assessment	8301
 President Azali Assoumani	5556
@@ -2421,10 +2512,14 @@ Public Servants Association	2943
 Publique-se. O Presidente da Assembleia Nacional	539
 QUALITY ASSURANCE	9855
 QUALITY ASSURANCE Standard Digital	9855
+QUESTIONS TO ASK TO IDENTIFY RISK	11156
 Quality Assessment	1261
+Quality Assessor Certificate Programme	11134
 Quality Assurance	899,6367,63
 Quality Assurance Framework	9855
+Quality Assurance Manual. Audit Transformation	11134
 Quality Assurance Office	8957
+Quality Assurance Peer Review	11134
 Quality Assurance Support	899
 Quality Assurance Testing	8670
 Quality Assurance and Continuous Improvement	9855
@@ -2434,12 +2529,14 @@ Quality Assurance and Quality Control. The Federal	4301
 Quality Assurance and Quality Management Systems	718
 Quality Assurance and Standards Collaboration	4528
 Quality Assurance and Standards National AI	4528
+Quality Percentage Percentage Assets	11131
 Question That We Must Now Ask	5302
 RAM Readiness Assessment Methodology REC Regional	1814
 REPORT OF THE NIGERIAN BAR ASSOCIATION	10049
 RESULTS OF ASSOCIATES	10793
 RF-EMF Exposure Assess-	6946
 RH A3.2.3.2 Assurer	10858
+RISK ASSESSMENT AND SCORING METHOD	11156
 RISKS AND CHALLENGES ASSOCIATED WITH DIGITAL	10819
 RISKS Assumptions	962
 Radio Frequency Assignment Plans	8235
@@ -2499,10 +2596,11 @@ Revitalized Transitional National Legislative Assembly	2023,7562
 Rice Farmers Association of Nigeria	5267
 Right of Asylum and Refugee	10841
 Risk Asses	9123
-Risk Assessment	10721
+Risk Assessment	10721,435
 Risk Assessment And Due Diligence South	6998
 Risk Assessment CRM-RA.S1	10721
 Risk Assessment Ethio	3487
+Risk Assessment Framework	11156
 Risk Assessment Report CIRMR-RM.S2 CIRMR-RM	10721
 Risk Assessment and Management	9123
 Risk Assessment and Mitigation Risk Risk Rating	10829
@@ -2518,6 +2616,7 @@ Rwanda Bankers' Association	7277
 Rwanda FinTech Association	5384
 République Sénat Assemblée	1297
 S. Asghar	6948
+S. Aston	11140
 SADC Banking Association	135,6585
 SADC Harmonised Data Protection Framework Assessment	962
 SAFARICOM PLC Associates	7204
@@ -2538,6 +2637,7 @@ SUEDE Assainissement	643
 SUMÁRIO Assembleia da República	6970
 SUNU Assurances Vie Bénin SUNU Assurances	10821
 SUNU Assurances Vie Bénin Traitement	10821
+SWIFT Infrastructure Strengthened and Independently Assured	11134
 Sadiya Assouma du Commerce. Selon	4162
 Saharan Africa and South Asia	9653
 Sample AI Governance Assessment Template	6442
@@ -2552,6 +2652,7 @@ Score Rank Freedom of Association	10837
 Sebastian Ashong-Katai	3895
 Second ASSAf Report	5246
 Second Deputy Governor Matilda Asante-Asiedu	4905,3,6124
+Sectoral Stability Assessment Households Household	11134
 Security Risk Assessment	783,10046
 Security Risk Assessment and Security Management Plan	10829
 Security Risks Assessment	10829
@@ -2569,6 +2670,7 @@ Senior Associate for Digital Policy and Advisory	7857
 Senior Associate for Policy and Outreach Rohit Ranjan	8175
 Senior Economic Assistant	3895
 Senior Official for Foreign Assistance	4154,11,2
+Senior Program Assistant	11136
 Senior Sectional Engineer and Assistant Manager Engineering	6946
 Senior Special Assistant	2318,6506,576
 Senior Special Assistants	1014
@@ -2576,6 +2678,7 @@ Sentinel Data for Flood Mapping and Damage Assessment	2816
 Service Availability Readiness Assessment	766
 Service Availability and Readiness Assessment	10829
 Services Assimilés	1649
+Settlement Combined Assurance Forum Central Bank	11131
 Seventy-First World Health Assembly	396
 Sexually Transmitted Infections TA Technical Assistance	1988
 Shared Digital Assets	7921
@@ -2584,6 +2687,7 @@ Should Kenya Be Asking	8091
 Sidney Assinonvo	9811
 Sierra Leone Extractive Industries Technical Assistance	2889
 Siglas AEE ASE AT BD CAARE	10766
+Significantly Higher Assuming	11140
 Sistema Integrado de Gestão de Assentos	2688
 Situations of Urgent Need of Assistance	10829
 Six Asian and African Countries	226
@@ -2605,7 +2709,7 @@ Social Impact Assessment	10829
 Social Impact Local Assessment	1988
 Social Insurance Labor Market Social Assistance	10985
 Social Protection Assessment Resource Kit for Systems	10991
-Social Registries for Social Assistance and Beyond	10819
+Social Registries for Social Assistance and Beyond	10819,314
 Social Security and National Solidarity Ashok Subron	6458
 Social and Economic Impact Assessments	4732
 Société ASD Market Traitement	10821
@@ -2631,7 +2735,7 @@ South African Graduate Employers Association SFIA	6832
 South African Local Government Association	2093,3779,1883
 South African Medical Association's AI Task	8301
 South America and South Asia	10199
-South Asia	379,3742,1103,273,101,1107,292,640,992,1159,926,71,192,26,1
+South Asia	379,3742,1103,273,101,1107,292,640,992,1159,926,71,192,26,1,131,5,16
 South Asia Region	10714
 South Asia Sub-Saharan East Asia and Europe	10977
 South Asia and Africa	5367
@@ -2652,7 +2756,7 @@ South and Southeast Asia	1162
 South and Southeast Asia. SSA African	1162
 South-East Asia	4676,6278
 South-East Asia-Middle East-Western Europe	4676
-Southeast Asia	415,2262,372,1425,568,182,28,5,606,162,201,2403,802,278,95
+Southeast Asia	415,2262,372,1425,568,182,28,5,606,162,201,2403,802,278,95,1331
 Southeast Asia-Japan Cable	1766,2910
 Southeast Asia. Cape Town	7208
 Southeast Asia. Reaping the Low-Hanging Fruits for Africa	10848
@@ -2668,6 +2772,7 @@ Sovereignty Effectiveness Assurance Level	3787
 Sovereignty Effectiveness Assurance Levels	3787,2059
 Special Assistant	5235,5891
 Specific Aspects of Refugee Problems	5533
+Specific Assessments	11145,1,1
 Spectrum Assignments	5245
 Square Associates	9098,46
 Stablecoin Issuer Virtual Asset Wallet Provider	10738
@@ -2682,10 +2787,12 @@ Starlink's Sustained Ascent	6749
 Startup Compliance Readiness Assessment	7519
 State Houses of Assembly	9876
 State of Passwordless Identity Assurance	9902
+Statement of Combined Assurance	11131
 Statistics Unit Assistant Research Officer No	10980
 Steward Vision Assistant	9007
 Strategic Assessment	970
 Strategic Asset	4528,1022
+Strategic Asset Allocation	11131,3
 Strategic Asset Management	5244
 Strategic Assistance	4167,50,132
 Strategic Assumptions Ethio	3487
@@ -2706,6 +2813,7 @@ Subvención de Equilibrio ASECNA	4209
 Sudan Digital Economy Assessment	986
 Sudan. Refugees and Asylum Seekers	6493
 Sudeste Asiático	2816
+Summary Statement of Financial Position Assets External	11131
 Summary of Assessment of Environmental and Social Risks	10963
 Supervision. ASD	10940
 Suppliers Association	5675
@@ -2735,12 +2843,13 @@ Taxation of Virtual Assets	8826
 Taxi Association	5666
 Taxpayers. ASYCUDA	10550
 Teaching Assistants	10541,59
-Team Assistant	2989,7774,2,10
+Team Assistant	2989,7774,2,10,361
 Tech Africa. Aside	2970
 Technical Assessment Mission	5950
-Technical Assistance	629,160,18,431,590,39,121,2214,1150,1187,1009,998,2230,3,214
+Technical Assistance	629,160,18,431,590,39,121,2214,1150,1187,1009,998,2230,3,214,138
 Technical Assistance Facility	1204
 Technical Assistance Facility for Youth	10841
+Technical Assistance Mission	11134
 Technical Assistance Project for Economic Growth	10774
 Technical Assistance Report	969
 Technical Assistance Report-Review and Evaluation	6938
@@ -2756,8 +2865,11 @@ Telecom NCC Asks Telcos	9117
 Telecom Review Asia	8945
 Telecommunication Regulators’ Association of Central Africa	26,1,1
 Telecommunications Industry Association	3604
+Television Authority National Assembly Senator National	11129
 Tenancy and Asset Utilisation	4896
 Testing WHA World Health Assembly WBPHCOT	396
+Tewodros Asmamaw Dessie	11136
+The. Risk Function Assessment	11134
 Third-Party Benefits Assessment Accountability Collaborators	1243
 Threat Assessment	1000
 Théodore Mathurin Assogba	2950
@@ -2774,6 +2886,8 @@ Trade Impact Assessments. Retrieved	1243
 Trade Readiness Assessment	226,1038,3709,6059
 Trade Readiness Assessments of African Least Developed	226
 Trade Readiness Assessments of Least Developed Countries	226
+Traders’ Association	11129
+Traffic Impact Assessment	11131
 Training Needs Assessment	6946
 Trans Europe Asia System	1741
 Transitional Legislative Assembly	2560,8,2159
@@ -2783,6 +2897,8 @@ Transparent Economies... Visit Rwanda Becomes Aston	3256
 Transportation of Asbestos	1988
 Treasury Management and Revenue Assurance System’for	2527
 True Value Assessment	9103
+Turkey's Integrated Social Assistance Services System	11133
+Turkey's Integrated Social Assistance System’. World	11133
 Twitter Assurer	4568
 Type of Asset	2775
 Téla Nón O Presidente da Assembleia Nacional	5818
@@ -2838,7 +2954,7 @@ United Assurance	6946
 United Energy and Petroleum Association	4513
 United General Insurance Assistant Manager Colleta	7364
 United Nations Assistant High Commissioner	1963
-United Nations General Assembly	1909,71,137,1466,39,98,1556,501,1892,18,3132
+United Nations General Assembly	1909,71,137,1466,39,98,1556,501,1892,18,3132,319
 United Nations General Assembly and Nigeria	8552
 United States and Asia	7577
 University of Oslo Associate Professor Terje Aksel	6048
@@ -2865,7 +2981,7 @@ Virtual Asset Exchange Virtual Asset Manager	10738
 Virtual Asset Office	7448,46,1736
 Virtual Asset Service Provider	9311,223,220,121
 Virtual Asset Service Provider Association	9956
-Virtual Asset Service Providers	3289,581,732,303,226,2210,493,346,410,113,120,3,404
+Virtual Asset Service Providers	3289,581,732,303,226,2210,493,346,410,113,120,3,404,1901
 Virtual Asset Service Providers Act	3793,1115,2699,227,863,6,608,223
 Virtual Asset Service Providers Regulations	7607
 Virtual Asset Service Providers Regulations. Select	10738
@@ -2875,8 +2991,10 @@ Virtual Asset and Initial Token Offering Services	7845
 Virtual Assets	5674,1667,413,836,233
 Virtual Assets Coordination	7448,46,1736
 Virtual Assets Department	8697
+Virtual Assets Developments The CBE	11134
 Virtual Assets Services Coordination Forum	7607
 Virtual Assets White Paper	7494,1736
+Virtual Assets and Virtual Assets Service Providers	11134
 Virtual Assistants	8022
 Vitiligo Association Uganda	9781
 Vitiligo Association Uganda UCC	9781
@@ -2904,6 +3022,7 @@ Wilfried Assandé	6237
 Wireless Access Providers’ Association	6365
 Wireless Application Service Provider Association of Nigeria	7600
 Women Economic Assembly	2626,7333
+World Bank Assessment	11133
 World Bank Poverty Assessment	10763
 World Bank Procurement Risk Assessment and Management	3604
 World Bank's ASPIRE	10985
@@ -2916,6 +3035,7 @@ World Broadband Association Forum	3954
 World Health Assembly	396,5196,4596,588
 World Health Assembly Relatório Anual da OMS	10776
 World Health Assembly Resolution	1824
+Worsening E’000 E’000 Assets External Investments	11134
 X Tanzania Fintech Association	9452
 Yara Asad	10841
 Year U.S. Government Technical Assistance Funding	5352
@@ -2923,6 +3043,7 @@ Yellow Light Taxi Association	9466
 Yellow Light Taxi Association Chairperson Kebaeletse	9466
 Yorùbá ASR	9739
 Youth Connekt Africa and Ascend Digital Solutions	4030
+ZAR Association of Central Bank Governors Anti-Money	11131
 ZICTA Assesses UASF ICT Projects	6713
 ZIMRA Fictitious ASYCUDA Updates	9397
 ZIMRA's ASYCUDA	9397

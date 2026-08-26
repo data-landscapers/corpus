@@ -21,7 +21,7 @@ AI and Emerging Technologies IP AI	7548
 AI and Emerging Technologies Policy	7549,783
 AI and Emerging Technologies Technical Committee	6792
 AI and Other Emerging Technologies	7549
-AI and Other Emerging Technologies Act	10246
+AI and Other Emerging Technologies Act	10246,889
 AI and Other Emerging Technologies C	7549
 AI and Other Emerging Technologies Policy	7547
 AI for Emerging Economies	1965,2563
@@ -79,7 +79,7 @@ Arab Permanent Committee for AI and Emerging Technologies	2958,202,5374
 Arms Embargo and Act	7845
 Arms Embargo and Travel Ban	7845
 Arquivo Em	8425
-Arrival of Fast Internet and Employment	1264
+Arrival of Fast Internet and Employment	1264,9876
 Artificial Intelligence and Emerging Technologies	5276,1721,1648,1601
 Artificial Intelligence and Emerging Technologies Policy	9169
 Asaolu Emmanuel	7395
@@ -103,7 +103,9 @@ Badejo-Okusanya Emerges NBA’s New National President	2355,176,4,1,56,3,339,96,
 Balanço Da Pequena Empresa Para	8003
 Bandwidth of Emission	736
 Bank EMDE Emerging Market and Developing Economies	2775
+Bank. Employee Engagement	11131
 Banking Services Labour Relations Secure Employment	10759,78
+Bank’s Employee Value Proposition	11131
 Bar Hostess Empowerment and Support Programme Data	7167
 Basic Emergency Obstetric and Newborn Care	9766
 Beauty Emefa Narteh	7457
@@ -133,6 +135,7 @@ Bénin. Pour Emmanuel Gansé	7168
 Bénin’s Emerging Position	10887
 C. Consumer Empowerment and Redress	5676
 C. Consumer Empowerment and Redress Consumers	5676
+C. Emezue	11140
 C11 Employee	9237
 CAMPANHA DE EMISSÃO DE BI PARA	10752
 CAP YOUTH EMPOWERMENT INSTITUTE KENYA Data	7167
@@ -151,6 +154,7 @@ CDM EMMANUEL HEALTH CENTRE	7167
 CEO Email	7795
 CERC Contingent Emergency Response Component CHW	10829
 CERC Manual and Emergency Page	10964
+CFT CBS CIF EA EAC EMDEs	11136
 CHAPTER FIVE CONSUMER EMPOWERMENT AND PROTECTION	6946
 CHEMUTAI EMACULATE Data Controller INST-259815B6CF8 KERICHO	7167
 CIAPOL Emission	1005
@@ -197,6 +201,7 @@ Chad Livelihoods Program Sector of Employment Agriculture	10841
 Charge of Emergency Management	8674
 Child Online Safety and Empowerment Policy	8050
 Chinese Embassy	5991,15
+Christian Fellowship. Employee Assistance Services	11131
 Cidadão Partilhar Tweetar Partilhar Email Comentários	5572
 Cloud Network Limited Email	3386
 Co-Head of Emerging Market Alternative Credit	9061
@@ -270,6 +275,7 @@ Covid-19 Temporary Employer	7936
 Criado A2 Criado B2 Embajador A1	4209
 Cuentas CONCEPTO PROM. EMPRES. EXTERIOR PROVINCIAL	4209
 Cultivateur Eleveur Artisan Employé de Employé	10847
+Culture Drivers Employee Voice Personal Development	11131
 Cybersecurity Education and Employer Organizations Continued	1777
 Cybersecurity Education and Employer Organizations. Promote	1777
 Czech Embassy	8947
@@ -320,7 +326,7 @@ Development for Youth Employment	8985
 Development of Employability Skills	6948
 Digital Embassy Village	10404
 Digital Emerging Technologies Dr Yaya Traoré	3517
-Digital Empires	5242,5808
+Digital Empires	5242,5808,104
 Digital Empowerment Foundation	11028
 Digital Empowerment for Women Project	7990
 Digital IDs Empower Women Cross	10819
@@ -343,6 +349,7 @@ Disaster Risk Management Emergency Events Database	10763
 Discussion EMRs	10784
 Divert EMS and Dispatch Dataﬂow Informa	8603
 Divert EMS and Dispatch Repository Applica	8603
+Djibouti Emploi	11161
 Dk Emmanuel Mkilia	3086,3539
 DocFlow By Emma Ujah	2287
 Domestic Economy Employment	2775
@@ -361,6 +368,7 @@ Dutch Ministry of Social Affairs and Employment	7966
 E-CSP Electronic Certification Service Provider EMDE	6946
 E-Mail Electronic Mail EMR Electronic Medical	34
 E-commerce Emerging Technologies	1161
+E. Embedding AI	11140
 EM MOÇAMBIQUE	2816
 EM MOÇAMBIQUE Este	2816
 EM Rs	4217
@@ -383,6 +391,7 @@ EMBAJADOR	4209
 EMBASSY	10975
 EMBASSY OF FINLAND PRETORIA	573
 EMBEDDED FINANCE	4824
+EMBEDDING SAFETY IN FAST-PAYMENT DESIGN	11138
 EMBI Emerging Market Bond Index EMO	7655
 EMBOSS	9475
 EMBU Kenya	7167
@@ -390,7 +399,8 @@ EMBU Kenya Renewed	7167
 EMC EP ES ESG ESTP	10766
 EMC ISIS	34
 EMC-2014	737
-EMDEs	2775,4171
+EMDEs	2775,4171,4188
+EMDEs EPC EPS ERM ESEPARC EXCO	11134
 EME Etablissement de Monnaie	4459
 EME IMF TPN TOTAL FinTech Bénin	4459
 EME QUESTION	6902
@@ -399,8 +409,11 @@ EMEA Growth	3929
 EMEA. Maroc Telecom	3049
 EMERGENCY	775
 EMERGING ISSUES Chapter	2775
+EMERGING RISKS	11156
+EMERGING RISKS Fraud-detection	11156
 EMERGING TECHNOLOGIES Mikumi Hall	2275
 EMERGING TECHNOLOGIES POLICY	7548
+EMERGING TRUST EQUATION	11138
 EMF APECCAM	10965
 EMF APME	10965
 EMF Association	10965
@@ -419,7 +432,7 @@ EMISSÃO E CARÁCTER REEMBOLSÁVEL DA MOEDA	10755
 EMIs M-Pesa	3479
 EMMANUEL J. PAYEGAR PATRICK R. HONNAH	10407
 EMNF2	10841
-EMNLP	4253
+EMNLP	4253,6887
 EMO du T1	7655
 EMPHASIZING	3861
 EMPIRICAL FOUNDATIONS AND RATIONAL BASIS	3861
@@ -466,6 +479,7 @@ ET Emerging Ministry	7548
 ETA and EMCS	9895
 Ebenezzer Zvidza and Emmanuel Mushonga	8639
 Economia Em	1265
+Economic Affairs and Employment Enterprises France	11135
 Economic Community of West African States EMIS	5244
 Economic Empowerment	1824,951
 Economic Empowerment BMA Border Management Authority	5533
@@ -536,9 +550,12 @@ Emaisha Pay	5875
 Emalahleni	6832
 Emalangeni	1,1641,2893
 Emanuel Mkilia	5002
-Emaswati	2276,2259,331,19,565,5152,446
+Emaswati	2276,2259,331,19,565,5152,446,83,3
 Emaswati. Consider	4535
 Emaswati. Dlamini	5450
+Emaswati. Dr Phil Mnisi Governor AnnAunanl	11134
+Emaswati. Dr. Phil Mnisi	11131
+Emaswati. The EPS	11134
 Emata	834
 Emata Ltd	834
 Embaixada	3093,3744,3915
@@ -592,8 +609,8 @@ Embassy of Sierra Leone	3950
 Embassy of Sweden	377,2870
 Embassy of Zambia	4365
 Embassy's Economic Section	10177
-Embed	899,59,1519,1649,722,1946,38,115,204,445,3410
-Embed AI	4126,402,2304,116,190,13,397,203
+Embed	899,59,1519,1649,722,1946,38,115,204,445,3410,130,4,9,7
+Embed AI	4126,402,2304,116,190,13,397,203,3405
 Embed Ubuntu	4528
 Embed Video	6387
 Embedded	2477,2371,3191,565
@@ -616,6 +633,7 @@ Embora	2816,518,559,10,1199,2633,758,2273,11
 Emboîtant	1748
 Embrace	5244
 Embrace Gender Diversity	2668
+Embrace Good Governance	11131
 Embrace Innovation and Modern Technology Parliament	6077
 Embrace LC I Elections Campaigning LC	4175
 Embracing	1777,4805,696
@@ -646,7 +664,7 @@ Emergencias	4209
 Emergencies	3583,5556
 Emergencies Management Information System	9139
 Emergencies Relatório Anual da OMS	10776
-Emergency	11,567,1410,485,516,1138,526,1779,515,1656,520,595,1,47,89,520,401,68,120,21
+Emergency	11,567,1410,485,516,1138,526,1779,515,1656,520,595,1,47,89,520,401,68,120,21,151
 Emergency Action	6947
 Emergency Amendments	3861
 Emergency Care Find Learn Get	9429
@@ -678,8 +696,10 @@ Emergency Response Plan	1988
 Emergency Response Plans	1988
 Emergency Response Room GCT Group Cash	6947
 Emergency Response Rooms	6947
+Emergency Response Services	11129
 Emergency Response Team	587,10277
 Emergency Response Teams	318
+Emergency Services Eswatini Royal Police Services	11131
 Emergency Severity Index	8376
 Emergency Telecommunications Cluster	2271,4378,725
 Emergency Transport Vehicle	1988
@@ -689,7 +709,7 @@ Emergency Use Authorizations	4153
 EmergencyDigest.com	4738
 Emergent	4259,180
 Emergentes	2816
-Emerging	21,937,3,200,87,529,47,269,3,238,441,1948,183,226,92,17,1,991,599,106,8,92,260,250,242,156,20,56,179,1,258,145,440,645,19,120,323,19,290,503,42,44
+Emerging	21,937,3,200,87,529,47,269,3,238,441,1948,183,226,92,17,1,991,599,106,8,92,260,250,242,156,20,56,179,1,258,145,440,645,19,120,323,19,290,503,42,44,84,1,5,15
 Emerging A1- Classification	7548
 Emerging A1- Framework	7548
 Emerging A1- Guidelines	7548
@@ -792,7 +812,9 @@ Emerging MICDE	7548
 Emerging Market and Developing Econ-	2775
 Emerging Market and Developing Economies	2775
 Emerging Market and Developing Economies ERM Enterprise	6946
+Emerging Market and Developing Economies Electricity Supply	11136
 Emerging Markets	226,3703,3227,597
+Emerging Markets . Redmond	11140
 Emerging Markets Economies	1828
 Emerging Markets Telecommunications Services	330
 Emerging Markets Telecommunications Services Limited	330
@@ -1123,13 +1145,16 @@ Emmerik HV	10780
 Emmett Moradi	10343
 Emmy Okwir Ogule	7946
 Emnatrekretat	10969
+Emoekpere	11168
 Emomotimi Agama	2826,7128,789
 Emotion	6214
+Emotional Intelligence for Security Presentation	11131
+Emotional Wellness	11131
 EmpLoi ECG Electricity Company of Ghana EP	10975
 Emperor Technology Co	3823
 Emperors Palace	422
-Emphasis	789,1025,1134,10,47,4746,1976,1237
-Emphasise	1243
+Emphasis	789,1025,1134,10,47,4746,1976,1237,170,20
+Emphasise	1243,9890
 Emphasises	3892
 Emphasising	7365,608,1602,595
 Emphasize	10841
@@ -1140,7 +1165,7 @@ Empire	9739,1289
 Empire of AI	11050
 Empire of AI’. Indeed	11050
 Empires	5242
-Empirical	10,930,888,112,156,2336,2706,652,96,550,555,137,109
+Empirical	10,930,888,112,156,2336,2706,652,96,550,555,137,109,522,1374,16
 Empirical Evidence	5349
 Empirical Study Factors	226
 Empirically	1828,5931,30,177,3062
@@ -1167,16 +1192,24 @@ Employabilité des Jeunes du Mali Comme	7634
 Employed	1988,5210,3806
 Employed Self-Employed Men Employed	11004
 Employed Women Employed	11004
-Employee	582,572,532,254,156,679,7721,225
+Employee	582,572,532,254,156,679,7721,225,410,3
 Employee Acquisition and Mobility Policy	5533
 Employee Assistance	6946
-Employee Engagement	5533
+Employee Assistance Service	11131
+Employee Development The Bank	11131
+Employee Engagement	5533,5598
+Employee Engagement The Bank	11134
 Employee GHS	582
+Employee Overall Engagement Fully Engaged	11131
 Employee Productivity	7548
+Employee Relations Harmony	11131
 Employee Relief Scheme	7936
+Employee Value Proposition	11131
+Employee Wellness Employee	11134
+Employee Wellness Programme The Employee Wellness	11131
 Employee Wellness and Welfare	6946
 Employee1	2775
-Employees	34,2,546,1406,1726,371,811,137,806,477,1650,1540,1215,255
+Employees	34,2,546,1406,1726,371,811,137,806,477,1650,1540,1215,255,155
 Employees Capital	236
 Employees Suppliers	7204
 Employees and Corporate Assets	7198
@@ -1188,9 +1221,10 @@ Employer-of-record	10319
 Employer-reported	6832
 Employers	5172,379,424,857,2052,222,909,964
 Employers Have Skin	10015
+Employer’s Representative	11134
 Employeu	737
 Employeurs	10711
-Employing	4432
+Employing	4432,6701
 Employingawell-definedsetofrelevantattributesoffersa	8606
 Employment	236,222,124,207,181,161,23,130,656,48,787,276,1401,76,368,238,670,196,593,59,180,18,698,297,614,608,1506,190,78,15,107,1,15,1
 Employment Act	5616,223,813,3661
@@ -1209,6 +1243,7 @@ Employment Map	10841
 Employment Operating	10841
 Employment Policy NPF Nongovernmental Organization PANEJ2	10964
 Employment Potential	10841
+Employment Relations Management The Bank	11134
 Employment Restriction	7845
 Employment Sectors for Nigerian Refugees	10841
 Employment Sectors for Refugees	10841
@@ -1221,6 +1256,7 @@ Employment and Innovation Hub	9157
 Employment and Labour	1009,3117
 Employment and Labour Relations	4126
 Employment and Skills	3604
+Employment and Social Development Canada	11156
 Employment and Society	226
 Employment for Nigerian Refugees	10841
 Employment of Nigerian Refugees Nigerian	10841
@@ -1231,7 +1267,7 @@ Employés	10875,1
 Empoderamento	10760
 Empoderando Comunidades	5020
 Empoderar	1701
-Empower	395,504,41,510,1689,987,40,1078,1192,3425
+Empower	395,504,41,510,1689,987,40,1078,1192,3425,1279
 Empower Africa	1717,603,1219,1420,19,1100,180
 Empower African SMEs	10151
 Empower Africans	1243
@@ -1278,12 +1314,14 @@ Empowering Women	9201
 Empowering the Consumer	6946
 Empowering the Consumer The Authority’s Consumer Education	6946
 Empowering the Next Generation of Trainers	9360
+Empowering the SIngle	11154
 Empoweringlearnerswithpersonalisedlearn-	8602
 Empowerment	940,308,2239,1041,2418,2504
 Empowerment Against Poverty NDS30 National Development	10841
 Empowerment Policy	1597
 Empowerment Policy African Union Commission	1597
 Empowerment Programme	11017
+Empowerment Programme Financial Technology FX GDP	11134
 Empowerment and Fostering Competitive ICT Enhancement of Key	6946
 Empowerment for Women	6946
 Empowers SMEs	1534
@@ -1356,7 +1394,7 @@ Equipment and Emerging Costs	6993
 Establishment of LTA Computer Emergency Response Team	4610
 Estado. Em	6307
 Eswatini Youth Employment Opportunities Project	2832
-Eswatini Youth Empowerment Programme	9197,108
+Eswatini Youth Empowerment Programme	9197,108,1829
 Ethiopian Embassy	10516
 European Union-funded Liberia Media Empowerment Project	3008
 Evarilde Ceita Partilhar Tweetar Partilhar Email	5557
@@ -1430,6 +1468,7 @@ Gestion des Emplois	8125
 Ghana National Computer Emergency Response Team	775
 Global AI Talent Empowerment	8877
 Global Initiative for Digital Empowerment	11028
+Global Relevance What Nigeria Reveals for Emerging	11138
 GoK Emerging A- National AI	7548
 Godwin Emefiele	999
 Google Cloud EMEA	5735,2,62
@@ -1441,6 +1480,8 @@ Government Enterprise and Empowerment Programme	5267
 Government of Uganda National EMR	4217
 Governo Em	2816
 Graduate Employability Ecosystem	6948
+Green Finance Taxonomy Emerging Markets and Developing	11134
+Growth Department. Emissions	11136
 Guiché Unico de Empresas Online	10753
 H.E. Ambassador Deweh Emily Gray	10509
 HEALTH EMERGENCIES	10776
@@ -1619,6 +1660,7 @@ Metier Capital Growth Fund III. EM-Three	10735
 Mheshimiwa Balozi Dkt. Emmanuel John Nchimbi	6019
 Military Embassy	9123
 Minister Emma Theofelus	4770,3236
+Minister of Economic Affairs and Employment	11135
 Minister of State Emile ZERBO	3824
 Ministry of Employment and Vocational Training	10963,1
 Ministry of Health Emmanuel Tayari	8614
@@ -1690,9 +1732,11 @@ National Treasury Emerging Emerging Technologies A2-Private	7548
 National Treasury Emerging Tech Market Emerging	7548
 National and Sectoral Computer Emergency Response Teams	587
 Nationwide Human Capital and Women and Girls’ Empowerment	10829
+Nature of Incidents Employees	11131
 Nações Unidas Em Março	2816
 Nduwimana Emmanuel	6389
 Netherlands Embassy	9546
+Netherlands. Email	11149
 Nigeria Men Employed	11004
 Nigeria U.S. Embassy Abuja Federal Ministry	4302
 Nigerian Computer Emergency Response Team	5677
@@ -1700,6 +1744,8 @@ Nkemdirim Emovuon	10120
 Nkindi. The National Economic Empowerment Council	5883
 Nova Empresa	10753
 Num EMBAJADAS Y CONSULADOS Materiales de Fax	4209
+Number of Contractor’s Employees	11134
+Number of Sub-Contractors’ Employees	11134
 Não Em Substituí-lo Uma	9558
 Número de Empresas	10757
 O Em	582
@@ -1723,6 +1769,7 @@ Oluwatosin Emmanuel-Olubake	7579
 OmniRetail Digital B2B Commerce and Embedded Finance	2232
 Online Content Classification and Emergency Regulation	2117
 OpenAI's Vice President and Head of EMEA Policy	8692
+Operating Environment and Emerging Risks	11134
 Operator Emerging Technologies	7548
 Organismos Autónomos Empresariales	4209
 Orçamento Retificativo. Em	8179
@@ -1793,6 +1840,7 @@ Programme Emploi Jeunes	10944
 Project Cyber Management Licensing Empowerment Development	6946
 Projet Emploi Jeune	10821
 Promoción de Empresas	1855,2354
+Promotes Egyptian Women Empowerment and Human Capital	11133
 Proportio Privé Etat Etat Employeu Autre	737
 Prosperous and Empowered Upper Middle Income Society	940
 Prosperous and Empowered Upper-Middle-Income Society	1154
@@ -1847,6 +1895,7 @@ René Emmanuel Sadi	4220
 Representing the German Embassy	6013
 Republic of Burundi Mr. Emmanuel M. Tutuba	7815
 Republic of Zambia HEPRR Health Emergency Preparedness	1867
+Rescue and Emergency Services	11134
 Research and Development Emmanuel Larbi Offei Over	236
 Research and Emerging Technologies	6946
 Response Emergency Response	1284
@@ -1866,6 +1915,7 @@ Russian Federation Email	10764
 Rwanda's Director General of Immigration and Emigration	8295
 Rwanda’s Teachers Embrace Digital Shift	5606
 Réhabilitation EM Collectivités	643
+S. Emmanuel	11140
 SADC Humanitarian Emergency Operations Centre	9761
 SADC Humanitarian and Emergency Operations Centre	9959
 SADC. Em	2816
@@ -1996,6 +2046,7 @@ Through EmpowerHer	9547
 Through the EMPRETEC	9873
 Tipo de Entidade Empresa	6970
 Tony Emoekpere	9047
+Tony Izuagbe Emoekpere	11168
 TradeSmart Fixed Income EMS Cyber Heroines	7156
 Traductor Consulado B3 Intérprete Traductor Embajada	4209
 Traductor Embajada A2 Jefe Económico Admón	4209
@@ -2051,7 +2102,7 @@ Undersea Optical Transmission System Employing Low	4676
 Unemployed Employed	11004
 Unemployed Ghana Men Employed	11004
 Unemployed Women Employed	11004
-United Arab Emirates	1639,1285,34,323,776,158,232,136,28,216,127,119,13,161,844,211,109,110,92,177,9,50,97,34,17,154,388,148,129,37,196,77,139,2,228,150,297,457,61,397,361,567,61,225
+United Arab Emirates	1639,1285,34,323,776,158,232,136,28,216,127,119,13,161,844,211,109,110,92,177,9,50,97,34,17,154,388,148,129,37,196,77,139,2,228,150,297,457,61,397,361,567,61,225,60,3,1,1,4
 United Arab Emirates Global Cybersecurity Index	10764
 United Arab Emirates UHC Universal Health	2775
 United Arab Emirates and Singapore	6689,3020
@@ -2084,7 +2135,7 @@ Wage Employment	2775
 WhatsApp Telegram Email	2442
 WhatsApp Telegram Email Copy Link Previous	6365,194
 WhatsApp and Messenger. EMY	5464
-Williams Ampomah Emmanuel Darlas	7317,52,997
+Williams Ampomah Emmanuel Darlas	7317,52,997,2775
 Within EMDEs	6946
 Women Emergency Response Rooms	6947
 Women Employed	11004

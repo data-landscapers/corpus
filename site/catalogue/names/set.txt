@@ -12,7 +12,9 @@ Assessment Setting	1824
 Authority. MICT SETA	6832
 Automated Transfer and Settlement System	10845
 Badejo-Okusanya Set	2355,176,4,1,56,3,339,96,901,1006,1761,673
-Bank for International Settlements	6938,2393,180,198
+Bank for International Settlement Capital Adequacy Ratio	11134
+Bank for International Settlements	6938,2393,180,198,1421,8,2
+Bank for International Settlements Committee	11130
 Benin Sets	4962
 Bima Claims Settling Agents Data Controller	7167
 Burundi SETIC	3172
@@ -64,6 +66,7 @@ Gender Value Set Administrative Gender MaritalStatus	6666
 Ghana Interbank Payment and Settlement Systems	6075,22
 Ghana Interbank Payment and Settlement Systems Limited	982
 Global Settlement Network	5743,1835
+Gross Settlement Southern African Customs Union	11134
 Guidelines for Setting	318
 High Resolution Settlement Layer	1013
 Housing and Human Settlements Development	6123
@@ -136,9 +139,9 @@ National Indicator Data Set Systems DTPS	396
 National Minister of Human Settlements	8564
 Nations Human Settlements Programme Cable Cable.co.uk	10835,3,130
 Newsfeed Global Settlement Holdings	5743
-Nigeria Inter-Bank Settlement System	2841,894,196,917,8,116,734,1360,942,703,1041,967
+Nigeria Inter-Bank Settlement System	2841,894,196,917,8,116,734,1360,942,703,1041,967,419
 Nigeria Inter-Bank Settlement System Instant Payment	7928
-Nigeria Inter-Bank Settlement System Plc	8292
+Nigeria Inter-Bank Settlement System Plc	8292,2846
 Nigeria Inter-Bank Settlement System. Nigerian	3498
 Nigeria Inter-bank Settlement System	2318
 Nigeria Interbank Settlement System	7179
@@ -149,7 +152,7 @@ Operational SETIC	1284
 PAPSS Local Currency Settlement System	8081
 PAPSS Pan-African Payment and Settlement System RPA	10718
 Pan African Payment and Settlement System	8442
-Pan-African Payment and Settlement System	999,855,68,1152,366,663,487,133,48,120,10,4,3,347,185,657,39,265,299,238,101,25,86,310,76,81,168,143,2,78,11,5,15,5,22,15,1,65,682,324,26,1297,79,163
+Pan-African Payment and Settlement System	999,855,68,1152,366,663,487,133,48,120,10,4,3,347,185,657,39,265,299,238,101,25,86,310,76,81,168,143,2,78,11,5,15,5,22,15,1,65,682,324,26,1297,79,163,420
 Pan-African Payment and Settlement System MTN Ghana	5908,442
 Pan-African Payment and Settlement System. Further	6679
 Pan-African Payment and Settlement System. Separate	7880
@@ -167,6 +170,7 @@ RTGS Real-Time Gross Settlement SDM Single	1264
 Real Time Gross Settlement	2857,3863
 Real Time Gross Settlement System	4517,2461
 Real-Time Gross Settlement	2358,1321,26,1542,1012,2456,2138
+Real-Time Gross Settlement Software Development Kit	11130
 Real-Time Gross Settlement System	8492
 Real-Time Gross Settlement System of Morocco	6938
 Refugee Settlements	1988
@@ -252,6 +256,7 @@ Settled Object	8380
 Settlement	395,1472,121,2908,359,608
 Settlement Agreement	3962
 Settlement Clinic	10776
+Settlement Combined Assurance Forum Central Bank	11131
 Settlement Community	1988
 Settlement Date	4896
 Settlement Fund Trust	10313
@@ -259,7 +264,7 @@ Settlement Fund Trustee	10313
 Settlement Law	969
 Settlement System	9673,1045,284
 Settlement System.............................13 Box	10718
-Settlements	4103
+Settlements	4103,7026
 Settlements System Pilot Bill	881
 Settles	2902,277,1989
 Settles LSO-finance.budget-digital	2416
@@ -280,6 +285,8 @@ Study Design and Setting	10919
 Study Setting	8604
 Survey Responses Real-Time Gross Settlement	6938
 Swaziland Interbank Payment and Settlement System	6938
+Swaziland Interbank and Settlement System	11130
+Swaziland Payment Settlement System	11131
 Swedish Employment Setvices	148
 Syria Settlement	10793
 Tebogo Sethibe	4432

@@ -32,6 +32,8 @@ CLEAR POINT COUNSELLING AND PSYCHO-THERAPEUTIC CENTER	7167
 CONTACT POINT World Bank Erkin Mamadaliev	10963
 CONTACT POINT World Bank Natalija Gelvanovska-Garcia	3456
 CROWN POINT DENTAL CARE Data Controller	7167
+Cardbased Point of Sale	11134
+Cardbased Point of Sale and Card-based Automated Teller	11131
 Cardinal Points	5202
 Cash Point	8816
 Category Points Qualification and Skills	962
@@ -82,7 +84,7 @@ GMT Key Points Rwanda’s ICT	8266
 GRM Train the Focal Points	2989
 GRM Training the Focal Points	2989
 Green Point	8999
-HIPC Completion Point	1155
+HIPC Completion Point	1155,9981
 Harare Internet Exchange Point	578
 Harare Regional Internet Exchange Point EXPECTED	578
 High Court of Pointe-Noire	3961
@@ -140,16 +142,18 @@ PMS Premium Motor Spirit PoS Point	718
 POINT APPLICATION FORM	736
 POINT DE PRESSE RELATIF A L'ARRET	10923
 POINT TO POINT APPLICATION FORM	736
+POINTS Arial	11129
+POINTS Courier	11129
 Partners Exchange Point C- Connectivity Resilience	7548
 Payment Access Points	4517,2461
 Payment Systems Access Points and Devices	4517,2461
 Pharmacy and Poisons	9855
 Pharmacy and Poisons Act	2709,7145,1
-Pharmacy and Poisons Board	2709,1444,5701,1
+Pharmacy and Poisons Board	2709,1444,5701,1,1309
 Poids	2342,624
 Poids des IPP	10975
 Poikela	8606
-Point	736,3332,459,1699,206,1043,721,567,128,434,988,126,382,90
+Point	736,3332,459,1699,206,1043,721,567,128,434,988,126,382,90,218
 Point Application	21
 Point Configuration	736
 Point Configuration. PART VI Private Radio	736
@@ -170,7 +174,7 @@ Point of Sales	4630,50,637
 Point of Sales Persons With Disabilities	10763
 Point-	736
 Point-in-time	10985
-Point-of-Sale	7689,114,125,250,1983,602,356
+Point-of-Sale	7689,114,125,250,1983,602,356,15
 Point-of-care	10188
 Point-of-sale	5513
 Point-to	736
@@ -193,11 +197,15 @@ Points Weight I-27 UN E-Participation Index	10785
 Points of Customer Contact E-mail	775
 Points of Presence	1289,2573,2887
 Points ofEntry	4260
+Points-Based Valuation System for Property Taxation	11133
 Points. Government of Cybersecurity	1777
 Poirier	2093
 Poisons	9855
 Poisons Board	9855
+Postal Facility Delivery Point	11129
 Posts and Points and Customs	10762
+Promoter Score Point of Sale Quarterly Gross	11134
+Public Key Infrastructure Proof-of-Concept Point of Sale	11130
 Radware Point of Presence	5793
 Rationale for Revision The Pharmacy and Poisons Board	9855
 Recommended Universal Contact Points	5676
@@ -232,6 +240,7 @@ Tax Authority Access Point	8670
 Telecommunications Union IXP Internet Exchange Point	1264
 Tipping Point	1828,4584
 Transit Point	4993
+Trust Breakdown Points	11138
 Uganda Internet Exchange Point	9477
 Universal Contact Points	5676
 Vult Pay Point	2749

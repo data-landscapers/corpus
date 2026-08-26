@@ -89,7 +89,7 @@ Enseignement du Premier	10847
 Enseignement. L’initiative	10611
 Enseignements	1679,294,993,4689,2724,504
 Enseignent	8237
-Ensemble	737,494,1111,45,215,22,459,215,30,13,145,286,885,238,196,1868,135,636,128,136,897,240,351,1042,302,48,1,1
+Ensemble	737,494,1111,45,215,22,459,215,30,13,145,286,885,238,196,1868,135,636,128,136,897,240,351,1042,302,48,1,1,280
 Ensemble Aucun Primaire Post	737
 Ensemble Industrie	10875
 Ensemble Masculin Féminin Ensemble Milieu	737
@@ -220,7 +220,7 @@ Ensoft	3733
 Ensoleillement	1005
 Ensuing	3583
 Ensuite	737,10,1,257,182,797,423,5,31,518,1024,80,828,1382,181,316,55,132,324,936,50,630,94,1212,82,228,293,67,1,187
-Ensure	34,136,225,504,59,3,39,9,122,30,43,39,14,27,346,74,73,37,14,160,1151,444,21,74,183,265,88,314,82,238,396,1,1,287,132,10,1,5,509,242,36,275,89,104,4,9,599,998,59,1,388,88,41,537,195,82,220,250,143,171,44,10,41,13,131,25,19,3
+Ensure	34,136,225,504,59,3,39,9,122,30,43,39,14,27,346,74,73,37,14,160,1151,444,21,74,183,265,88,314,82,238,396,1,1,287,132,10,1,5,509,242,36,275,89,104,4,9,599,998,59,1,388,88,41,537,195,82,220,250,143,171,44,10,41,13,131,25,19,3,122,2,2,7,16
 Ensure AI	1814,2714
 Ensure AU Member States	1814
 Ensure Access	4528
@@ -233,18 +233,21 @@ Ensure Government	395
 Ensure ICT Systems	4610
 Ensure Inclusivity CBZ Bank Crowned Zimbabwe	2987
 Ensure Intellectual Property	958
+Ensure Long	11131,3
 Ensure O&M EHS Plan	1988
 Ensure Proper Protection of Data and Information Security	34
 Ensure Security and Resilience of Infrastructure	958
+Ensure Socio-Economic Development	11134
+Ensure Socio-economic	11131
 Ensure Strategic Align	1777
 Ensure Strategic Alignment of NCC	1777
 Ensure Their Growth	10718
 Ensure Vulnerable Groups	1000
 Ensure the Alignment	1777
 Ensured	10776
-Ensures	236,2822,2187,908,2975,727
+Ensures	236,2822,2187,908,2975,727,1274
 Ensurethatcommunitiesarefullyinvolvedinlandmanagement Land	10960
-Ensuring	396,544,18,3,9,191,82,18,517,36,4,540,101,243,256,656,37,90,46,102,88,283,394,286,192,113,329,101,2,23,220,496,123,407,456,146,328,307,298,205,366,151,234,98,87,20,1198,1,119,13,7
+Ensuring	396,544,18,3,9,191,82,18,517,36,4,540,101,243,256,656,37,90,46,102,88,283,394,286,192,113,329,101,2,23,220,496,123,407,456,146,328,307,298,205,366,151,234,98,87,20,117,1081,1,119,13,7,151,12,2,1,10
 Ensuring Justice and Equality The Charter	2958
 Ensuring No One Is Left Behind	8861
 Ensuring Open Data	5246
@@ -263,8 +266,10 @@ Filles Ensemble Garçons Filles Ensemble Houet	10847
 Finance E ENS ArticleDraft Guidance Note	6998
 Finance E ENS ArticleThird-party Payment Providers	6998
 Finance E ENS ArticleTwo Upgrades	6998
+Financial Sustainability Ensure	11131
 Fonio Niébé Voandzou Arachide Gombo Ensemble	737
 GRM Ensure	1988
+Good Practices For Ensuring Data Protection	11156
 Hauts Bassins Garçons Filles Ensemble Garçons	10847
 House ENS	6683
 Houédako K. Tokandji. Ensemble	6221

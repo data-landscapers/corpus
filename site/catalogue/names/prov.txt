@@ -117,6 +117,7 @@ Conselho Executivo Provincial Tete	5129
 Conselho Executivo Provincial Tete Zambia and Mozambique	5129
 Consortium Profile Provide	5903
 Construction Phase Party Provide	1988
+Consultancy Service Providers	11131,3
 Conta Provisória	1339,750,1578,1345,1179
 Conta Provisória I Trimestre	4411,2,1
 Content Development and Provision of Devices for Learners	6946
@@ -180,6 +181,7 @@ DELEGACION PROVINCIAL CENTRO SUR	4209
 DELEGACION PROVINCIAL KIE NTEM	4209
 DELEGACION PROVINCIAL WELE NZAS	4209
 DELEGADO PROVINCIAL MINISTERIO	4209
+DELIVERY CHAIN PHASE Provide Manage EXAMPLE	11156
 DENTAL HEALTH PROVIDERS LIMITED Data Controller	7167
 DEVELOPMENT Barcelona Provincial Council AI25.Studio BB23	8530
 DPA. Transitional Provisions	1652
@@ -322,6 +324,8 @@ Faith-Based and Private Sector Providers	4165
 FinTech Companies and Payment Service Providers RMAFC	9750
 Finance E ENS ArticleThird-party Payment Providers	6998
 Financial Provisions	3887
+Financial Service Provider	11130
+Financial Service Providers	11130
 Fiscal Audiencia Provincial	4209
 Fiscal Audiencia Provincial Fiscal de Instrucción Fiscal	4209
 Fixed Service Providers	3862,3084
@@ -346,6 +350,7 @@ GENERAL PROVISIONS. CHAPTER	10974
 GOBERNADOR PROVINCIAL	4209
 GOBIERNOS PROVINC.REG.CONT.-Concepto	4209
 GOBIERNOS PROVINC.REG.INS.-Concepto	4209
+GOVERNANCE Our Board Providing	11131
 GRAL. DE POLÍTICA DELEGACION PROV. REG	4209
 GRAL. REGIONAL PROVINC. PROVINC	4209
 GRM Committees Provision	1778
@@ -416,6 +421,7 @@ Impact of Chinese Tech Provision	2518
 Impilo EMR. PROVISIONAL URL	6666
 Incident Management Service Provider	10721
 Incident Management Service Providers	10721
+Industry Electricity Service Provider Federal Government	11136
 Information Infrastructure Provider CIM Chartered Institute	6946
 Information PMO Provincial Medical Office PMTCT	34
 Information Provided Date	22
@@ -438,7 +444,7 @@ Internet Service Provider Association	10506
 Internet Service Provider Core Network	2913
 Internet Service Provider ITU	958
 Internet Service Provider License	762
-Internet Service Providers	718,65,506,562,36,206,257,563,198,392,359,1350,469,112,445,33,268,351,345,166,729,77,502,338,1360
+Internet Service Providers	718,65,506,562,36,206,257,563,198,392,359,1350,469,112,445,33,268,351,345,166,729,77,502,338,1360,761
 Internet Service Providers JSI Joint Statement	1243
 Internet Service Providers’ Association	10690
 Internet Services Provider	1872
@@ -575,6 +581,7 @@ PROVENANCE	4848,750
 PROVENANCE CORRECTION	5032
 PROVENANCE FLAG	2350,348,419,1169,672,772,1023
 PROVENANCE. Fetched	9025
+PROVIDE AND MANAGE DELIVERY CHAIN PHASE	11156
 PROVIDE THEIR IDENTITY AND CONTACT DETAILS	2709
 PROVIDER DESIGNATION	22
 PROVIDER SHARE OF LIVE CAPACITY	10861
@@ -606,13 +613,14 @@ PROVISIONS APPLICABLE TO CYBER SECURITY COMMITTEE	972
 PROVISIONS FOR UNAFFILIATED SHAREHOLDERS	7198
 PROVISIONS Short	6921
 PROVÍNCIA Bengo	10751
+PSP Payment Service Provider	11130
 PUBLIC DATA SERVICE PROVIDERS IN GHANA	3386
 PUBLIC ENTITIES AND TO PROVIDE	1333
 Party Cloud Service Providers	6432
 Payment Service Provider	4095,1979,1147
 Payment Service Provider Licence	6074
 Payment Service Provider and Payment System Operator	4405
-Payment Service Providers	2857,4078,825,972
+Payment Service Providers	2857,4078,825,972,2399
 Payment Solution Service Providers	3491,3207,237,2755
 Payment Terminal Service Providers	3491,3207,237
 Pbps. Global Content Provider Bandwidth	1766
@@ -622,6 +630,7 @@ Potential Trust Service Provider	10819
 Potential Trust Service Provider Added	10819
 Potential Trust Service Providers	10819
 Potential Trust Service Providers. Conduct	10819
+Practice Note for Mobile Money Service Providers	11134
 Preservação de Provas	6970,3777
 Presidencial Delegado Adjunto Gobierno Delegado Provincial	4209
 Presidente Audiencia Provincial	4209
@@ -661,12 +670,13 @@ Provedores de Serviços de Segurança Cibernética	6970
 Proveedores	1701
 Proven	962,415,2301,755,143,5533,876
 Proven Playbook For Quitting	4554
+Proven Precedents for Shared Infrastructure Nigeria	11138
 Proven SaaS	6432
 Proven Starlink	6876
-Provenance	24,90,325,153,366,230,75,90,15,322,111,22,3,58,212,14,198,216,84,55,291,113,159,269,356,2,259,36,98,195,2,1,231,167,2,1,1,22,39,62,90,92,72,6,1,1,3,2,1,2,308,56,19,4,87,11,26,32,5,18,53,104,61,1,62,20,83,21,20,154,28,14,14,43,286,215,113,83,7,26,13,143,84,95,58,409,651
+Provenance	24,90,325,153,366,230,75,90,15,322,111,22,3,58,212,14,198,216,84,55,291,113,159,269,356,2,259,36,98,195,2,1,231,167,2,1,1,22,39,62,90,92,72,6,1,1,3,2,1,2,308,56,19,4,87,11,26,32,5,18,53,104,61,1,62,20,83,21,20,154,28,14,14,43,286,215,113,83,7,26,13,143,84,95,58,409,651,2476
 Provenance Staged	7850
 Provenir	10876
-Provide	170,225,341,26,137,41,18,42,131,573,74,36,14,160,471,18,232,66,214,594,389,154,359,43,82,251,384,288,132,11,1,3,7,106,360,37,242,362,142,12,1,33,284,282,998,271,306,314,166,1,251,302,250,143,164,7,42,56,90,98,72
+Provide	170,225,341,26,137,41,18,42,131,573,74,36,14,160,471,18,232,66,214,594,389,154,359,43,82,251,384,288,132,11,1,3,7,106,360,37,242,362,142,12,1,33,284,282,998,271,306,314,166,1,251,302,250,143,164,7,42,56,90,98,72,52,25
 Provide APIs	6423
 Provide Biometric Data Press Release	11079
 Provide Cloud	6432
@@ -695,6 +705,7 @@ Provider. Providers	9123
 Provider. SLOs	9123
 Providers	34,384,2059,638,667,344,93,306,85,598,1134,598,1275,409,495,4,450,584,267,626
 Providers CA Communications Authority of Kenya Dare	6671
+Providers FSPs	11130
 Providers That Become Part of Africa's Telecom	10588
 Providers Verify	9429
 Providers and MDAs	10310
@@ -702,7 +713,7 @@ Providers of AI	7855
 Providers of Artificial Intelligence Systems	2958
 Provides	86,129,257,290,321,389,214,302,1507,1033,3020,242,1333,5,1635,5,140
 Provides ICT	907
-Providing	236,539,183,3,268,14,120,191,26,124,74,40,49,86,35,537,250,183,47,215,293,54,647,174,344,18,476,137,302,31,1244,8,481,119,297,177,353,61,110,40,254,165,198,433,66,34,229,337,68,393,78,15,117,12,92
+Providing	236,539,183,3,268,14,120,191,26,124,74,40,49,86,35,537,250,183,47,215,293,54,647,174,344,18,476,137,302,31,1244,8,481,119,297,177,353,61,110,40,254,165,198,433,66,34,229,337,68,393,78,15,117,12,92,52,1,3
 Providing CRAC	9123
 Providing Future Solutions Now	1263,1045
 Providing Holistic Care	10829
@@ -777,7 +788,7 @@ Provinciales	10847
 Provincially	8846
 Provincias	1701,2508
 Provis. Reprov. Sec. Abandonos Aprovados Comparticipada	10766
-Provision	940,191,23,7,59,373,274,121,319,166,688,517,294,182,48,694,769,1167,114,592,10,297,509,543,212,535,763,368,54
+Provision	940,191,23,7,59,373,274,121,319,166,688,517,294,182,48,694,769,1167,114,592,10,297,509,543,212,535,763,368,54,300
 Provision Mechanisms	4154
 Provision Sustainable Environment	10837
 Provision for Spectrum Management and Mon- CA	6946
@@ -794,7 +805,8 @@ Provisional	2775,92,847,1104,2128
 Provisional Data for Telkom Kenya Limited Table	6671
 Provisional Register of Voters	10017
 Provisional. PAGE	2775
-Provisions	546,39,435,134,89,144,2327,95,1087,782,1,1269,600,28,31,670,2498,200
+Provisions	546,39,435,134,89,144,2327,95,1087,782,1,1269,600,28,31,670,2498,200,154
+Provisions Amounts	11131,3
 Provisions Concerning Closely Held Companies	3714
 Provisions Indeed	5678
 Provisions National Regulatory Authorities	5679
@@ -878,6 +890,7 @@ SECURITY SERVICE PROVIDERS	2727
 SECÇÃO II NÍVEL PROVINCIAL	10754
 SERVICE PROVIDERS	28,2699,1135
 SERVICE PROVIDERS CHAPTER	28
+SERVICE PROVIDERS Eswatini Electricity Company Eswatini	11131
 SERVICE PROVIDERS The CSA	9728
 SEVERABILITY AND SAVINGS PROVISIONS	3861
 SHARING PROVIDERS	3862
@@ -922,7 +935,7 @@ Service Provider Global Money Week Insurance	940
 Service Provider IT Information Technology KNUST	4126
 Service Provider Jamii Telecommuni-	6946
 Service Provider PayLogic	2276
-Service Providers	4610,2336,3775,98
+Service Providers	4610,2336,3775,98,311,4
 Service Providers CSR Corporate Social Responsibility	6946
 Service Providers Data	9123
 Service Providers Data Centre	9123
@@ -958,6 +971,7 @@ South African Internet Service Provider	10811
 South African National and Provincial Government	7759
 Southeast Sulawesi Province	7759
 Southern Province	4941,2562,2289,361
+Southern Province Principal ICT Officer Joyce	11171
 Southern Province of Rwanda. The DOC	1903
 Southern Province. Initial	4942
 Stablecoin Issuer Virtual Asset Wallet Provider	10738
@@ -982,6 +996,7 @@ Tanzania Internet Service Providers Association	2580
 Tanzania. Provides	1152
 Technical Connectivity Provider	5201,54
 Technical Service Provider Guideline	11041
+Technology Provider	11130
 Technology Service Providers of Kenya	6946
 Telecom Providers CAPEX	3862
 Telecommunications Entrance Room Provide	9123
@@ -1027,10 +1042,11 @@ VSAT Service Provider	10407
 Vipnet Connectivity Provider	10956
 Virtual Asset Service Provider	9311,223,220,121
 Virtual Asset Service Provider Association	9956
-Virtual Asset Service Providers	3289,581,732,303,226,2210,493,346,410,113,120,3,404
+Virtual Asset Service Providers	3289,581,732,303,226,2210,493,346,410,113,120,3,404,1901
 Virtual Asset Service Providers Act	3793,1115,2699,227,863,6,608,223
 Virtual Asset Service Providers Regulations	7607
 Virtual Asset Service Providers Regulations. Select	10738
+Virtual Assets and Virtual Assets Service Providers	11134
 Virtual Internet Service Provider License	762
 Virtual Internet Service Providers	762
 Volet Benin'. Provides	357
@@ -1050,5 +1066,6 @@ Yomi Arowosafe. Nigeria’s Universal Service Provision	2590
 Zaire Province	3980,5419
 Zambezia Province	1228
 Zambia’s North-Western Province	7130
+Zambia’s Southern Province	11171
 Zimbabwe Province Code System	6666
 Zimbabwe Province Value Set	6666

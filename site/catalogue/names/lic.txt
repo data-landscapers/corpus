@@ -24,6 +24,7 @@ Authors. Licensee	7759,263,108
 B. Private Wealth Management Licence Notwithstanding	7845
 B. Smart Licensing and Supervisory Gateway	4848
 BYOL Bring Your Own License CAC	6432
+Bank Licencing. Improve	11134
 Benefits of Technology Neutral Spectrum Licences	10856
 Blanket Licence	6891
 Broadcasting Licensees Mobile Money Penetration	6946
@@ -79,7 +80,7 @@ Creative Commons Attribution License	8376,2543
 Cumulative Broadcasting Licensees	6946
 Cumulative Broadcasting Licensees FY	6946
 Cumulative Number of Telecommunications Licensees	6946
-DC. License	10977
+DC. License	10977,172
 DSB Licence	6946
 Data Center Service Provider License	762
 Data Controller Licence	5562,4606
@@ -162,7 +163,7 @@ Interepretation. PART II Public Licences	736
 International Computer Driving License	10865
 International Courier License	718
 International Gateway License	762
-International License	5656,4083,1045,222,1
+International License	5656,4083,1045,222,1,147,1
 International Public License. Any	10841
 Internet Service Provider License	762
 Investment License	1988
@@ -174,6 +175,7 @@ L Licença de Classe	2866
 LEO Low Earth Orbit LMS Licensing	6946
 LIC and LMICs	10714
 LIC-DSF	3604
+LIC-YEM-001	11156
 LICENCE CONDITIONS FOR THE REVISED TELECOMMUNICATIONS	9335
 LICENCE FEES Fees	736
 LICENCES OTHER THAN PRIVATE RADIO	736
@@ -189,7 +191,7 @@ LICs and LMICs	771,9943
 LMD Licence-Master-Doctorat MEN Ministère	12
 LTA License	10407
 LTA-issued Satellite Communications License. Stakeholders	10406
-Licence	11,1,10,67,217,427,3,451,36,649,5,1444,575,26,641,1102,1703,986,110,118,527,1629,117,120
+Licence	11,1,10,67,217,427,3,451,36,649,5,1444,575,26,641,1102,1703,986,110,118,527,1629,117,120,156,3
 Licence Appeals By Rihab Ben Moussa	6784
 Licence Application Forms	736
 Licence CCCE Comité Consultatif des Consommateurs	10975
@@ -232,7 +234,7 @@ Licenciement	10876
 Licencing	8180
 Licensable	3887
 Licensable the Authority	3887
-License	586,132,18,26,1226,721,963,51,1130,1,50,137,309,315,1281,602,1055,1,1,321,99,207,1175,314,118,124,1
+License	586,132,18,26,1226,721,963,51,1130,1,50,137,309,315,1281,602,1055,1,1,321,99,207,1175,314,118,124,1,172
 License Agreement	5665
 License Annual Universal Fee Fee Regulatory	10407
 License Application Conditions and Requirements	762
@@ -280,7 +282,7 @@ Licenses	762,1150,765,2743,4435,761,240
 Licenses and Permits	6792
 Licenses for Liquefied Petroleum Gas	718
 LicenseÉƧƨ SACJisapublicationof SAICSIT. ISSN1015-7999	8602,4
-Licensing	22,386,179,131,18,26,1015,100,111,689,1210,158,803,166,304,244,103,207,541,19,161,345,8,3,255,344,97,1863,347,313,448,1,113,46,241
+Licensing	22,386,179,131,18,26,1015,100,111,689,1210,158,803,166,304,244,103,207,541,19,161,345,8,3,255,344,97,1863,251,96,313,448,1,113,46,241
 Licensing Board	7845
 Licensing Categories This Guideline	5665
 Licensing Considerations	6432
@@ -485,6 +487,7 @@ Student Pilot License SSA Sub-Saharan Africa	2775
 Submarine Cable Licences	9109
 Surrender of Individual License	762
 Suspension of License	5665,1873
+Switching and Processing Licence Granted	11138
 System LIC Low Income Countries LMIC	771
 System Licence	736
 System Licences	736
@@ -547,12 +550,13 @@ Waste Management Licence	1988
 Wholesale Electronic Communications Infrastructure License	5277
 World Bank Group. License	10714
 World Bank License	10765,10,37
-World Bank. License	10714
+World Bank. License	10714,422
 Year License	2716,1353
 ZEMA Licence	1988
 ZEMA Licence Obtain	1988
 ZEMA Licence ZRCP TBA	1988
 ZEMA ZEMA Licence ZRCP	1988
 ZWE. Licensing	6339
+Zanzibar. Licensing	11133
 Zimbabwe License. How the Incumbents Have	1872
 Zimbabwe Pending Licensing By Godfrey Marawanyika	1683

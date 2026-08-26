@@ -2,6 +2,7 @@ A- Biannual National AI	7548
 A- Biannual National AI Percentage	7548
 A- Bilateral Recognition Agreement A1- Register	7548
 A- Bilateral Recognition Number	7548
+AACB AML BCM BIS CAF CBE	11131
 ABBREVIATIONS BRR Birth	10714
 ACCIÓN CARTOGRAFÍA SEGUIMIENTO BIOKO SUR PROVINCIAL	4209
 ACK BISHOP HANNINGTON INSTITUTE OF THEOLOGY	7167
@@ -20,6 +21,7 @@ AI and Big Data	3604
 AI and Bigdata Strategy	1814
 AI. The Bill	10041
 AMENDMENT BILL	4633,1239
+AML ATM BIS CPMI BIS CBDC	11130
 ANGAZA BIBLE AND TRAINING INSTITUTE Data	7167
 ANNUAL REPORT ACRONYMS ACTS BDIH BIUST	1554
 ANTROPOMETRIA E OUTROS BIOMARCADORES MEDIDOS	10777
@@ -92,7 +94,7 @@ Appropriation Bill	1273,1,1,237,1,32,1,61,1,1,1,1,1,1,1,1282,1,1,1,1,1,1,1667,1,
 Approved DHA Bill	5533
 Approved National Identification and Registration Bill	5533
 Article Google Scholar Birhane	9739
-Artificial Intelligence Bill	10246
+Artificial Intelligence Bill	10246,918
 Asia. BIO	821
 Au BIP	10876
 Audiencia Provincial de Bioko Norte	4209
@@ -164,6 +166,7 @@ BIG FOOT ADVENTURES LIMITED Data Processor	7167
 BIG HOST AFRICA LIMITED Data Processor	7167
 BIG PICTURE TOTAL MTN	3862
 BIG VENTURES LIMITED Data Controller INST-113425D0E0B	7167
+BIG-IP ASM	11153
 BIGBRAINZ SOLUTIONS LIMITED Data Processor INST-74993487EC3	7167
 BIGIRWA	6613
 BIGMAN TRAVEL AND HOLIDAYS LIMITED Data	7167
@@ -272,6 +275,7 @@ BIS Papers	5700
 BIS Papers No	6938
 BIS Review	2276
 BIS Review PUBLISHED	2276
+BIS Working Papers No	11140
 BIS. About	6672
 BIS. Values RTGS	7221
 BISHARO NURSING HOME LIMITED Data Controller	7167
@@ -381,6 +385,7 @@ Baker Birikujja AG. NATIONAL PERSONAL DATA	3307
 Banco Millennium BIM	2816
 Banco Millennium BIM. Fonte	2816
 Baraza la Biashara Dar	2718
+Barr. Bisi Adegbuyi POSTMASTER-GENERAL	11129
 Base Bilan Comptable	10975
 Basketball Botswana Bets Big	10151
 Bayer's Cutter Biological	4426
@@ -497,7 +502,9 @@ Bible	38,8456
 Bible Faith Church Medical Services Data	7167
 Biblical Book of Lamentations	10313
 Bibliographic	766
-Bibliography	899,3315,6598
+Bibliography	899,3315,6598,317
+Bibliography AMGEN	11154
+Bibliography Arnold	11155
 Bibliography Burkina Faso DHS	10812
 Bibliography Reports	899
 Bibliometrix	10323
@@ -530,6 +537,7 @@ Biden Information Technology Beijing Co Ltd	8285
 Biden-era Minerals Security Partnership	4447
 Bidhaa	6019
 Bidirectional	8460
+Bidi’a Wa’ikamatus Sunnah Hon. NYSC Vill	11129
 Bidjongo	8737
 Bidra Innovation Ventures	8717
 Bidvest	10279
@@ -566,13 +574,14 @@ Bienvenue	3157,6463
 Biermann Avenue Rosebank	10793
 Bietouo	2342
 Bifee Efac Ebibeyín	4209
+Biffl	11156
 Bifrost	1766
-Big AI	11050
+Big AI	11050,106
 Big Beautiful Bill Act	4447
 Big Brother	9399
 Big Cabal Media	4027
 Big Cat Alliance and Global Biofuels Alliance	2787
-Big Data	571,109,281,254,3,25,853,167,82,169,302,465,206,117,1620,318,432,858,158,511,154,48,1,11,212,533,668,327,239,543,599,38,154,22
+Big Data	571,109,281,254,3,25,853,167,82,169,302,465,206,117,1620,318,432,858,158,511,154,48,1,11,212,533,668,327,239,543,599,38,154,22,106
 Big Data Analytics	961,5871
 Big Data Analytics CATHSSETA	6832
 Big Data Analytics DNS	958
@@ -583,7 +592,7 @@ Big Data and Artificial Intelligence	4762
 Big Data and Big Data	9128
 Big Data and Big Data Analytics	958
 Big Data and Cloud	10948
-Big Data and Cognitive Computing	9128
+Big Data and Cognitive Computing	9128,2028
 Big Data and Global Trade Law	1243
 Big Data and Global Trade Law. Cambridge	1243
 Big Data and Open Data	1243
@@ -617,6 +626,7 @@ Big Tech Accountability	8712
 Big Tech Accountability Summit	9817
 Big Tech Elon Musk	9629
 Big Techs	2816
+Big Thinking	11131
 BigCabal Media CEO Tomiwa Aladekomo	7579
 BigData Ghana	9561
 BigData Ghana the Digital Earth Africa Innovation	9561
@@ -628,6 +638,8 @@ Bigger Picture	3625
 Bigger Role	5407,676
 Biggest	7205
 Biggest Baseline Changes	9772
+Biggest Braai	11134
+Biggest Braai The Currency	11134
 Biggest Corruption Stories	9736
 Biggest Obstacle	10976
 Biggest Threat	11102
@@ -645,7 +657,7 @@ Bikini Atoll	10627
 Bikketi	6948
 Bikuan Ndong Mongomo	4209
 Bikurga	4209
-Bilal	6948
+Bilal	6948,4207
 Bilal Al-Daw Al-Qaja	7809
 Bilal Baig	9681
 Bilal H	3791
@@ -654,7 +666,7 @@ Bilan	737,2659,279,1220,225,3771,1628,356,90,10
 Bilan Mi-	10876
 Bilanga	10875
 Bilans	10975
-Bilateral	961,1706,886,308,348,217,21,48,4,3,1048,127,991,52,277,2752,586,529,106
+Bilateral	961,1706,886,308,348,217,21,48,4,3,1048,127,991,52,277,2752,586,529,106,166,13
 Bilateral AI	7548
 Bilateral Agreement	4260
 Bilateral Air Services Agreement	8006
@@ -721,7 +733,7 @@ Bill Blackie	9720,734,5
 Bill Digest	10246
 Bill Gates	1038,223,907,648,840,1125,2785,31
 Bill ID	8102
-Bill No	127,5493,11,1123,1646,820
+Bill No	127,5493,11,1123,1646,820,1915
 Bill Number	8400
 Bill Proposes	7832
 Bill The Government of Kenya	899
@@ -795,7 +807,7 @@ Billions Volumes	4517,2461
 Billions of Megabytes	2776
 Billions of Minutes	2776
 Billiwiri	9945
-Bills	1474,336,1936,1617,170,339,289,1599,921,280,380,539,433
+Bills	1474,336,1936,1617,170,339,289,1599,921,280,380,539,433,818
 Bills Being Considered	8681
 Bills The Central Bank of Liberia	5244
 Bills Were Passed	10034,231
@@ -832,6 +844,7 @@ Binarypredictionmatrix	8606
 Bincluding	3782
 Bincreased	3782
 Binding	1593,4897,1811,1418
+Binding Constraint	11140
 Binding Effect and Legal Hierarchy	3861
 Binding Memorandum of Agreement	6490
 Binds	4016,6
@@ -911,7 +924,7 @@ Biomedical	10829
 Biomedical Engineering Systems and Technologies	10780
 Biometix Pty Ltd	2190
 Biometria	9990
-Biometric	34,1742,40,51,72,61,282,36,6,103,20,74,14,6,25,48,44,62,5,27,14,12,41,1,3,50,41,11,18,4,70,1,8,102,52,105,18,95,31,31,142,3,18,72,47,10,68,69,141,37,21,280,185,78,145,12,37,6,254,159,66,32,57,49,45,60,6,37,7,62,32,181,8,70,116,183,19,70,19,24,5,120,8,21,5,104,1,149,7,4,12,43,210,218,58,18,96,556,5,944,428,201,84,365,13,353,8,291,98,10,257
+Biometric	34,1742,40,51,72,61,282,36,6,103,20,74,14,6,25,48,44,62,5,27,14,12,41,1,3,50,41,11,18,4,70,1,8,102,52,105,18,95,31,31,142,3,18,72,47,10,68,69,141,37,21,280,185,78,145,12,37,6,254,159,66,32,57,49,45,60,6,37,7,62,32,181,8,70,116,183,19,70,19,24,5,120,8,21,5,104,1,149,7,4,12,43,210,218,58,18,96,556,5,944,428,201,84,365,13,353,8,291,98,10,257,77
 Biometric Data	3861,722
 Biometric Data and Irreversible Vulnerability	6793
 Biometric Digital ID in Africa.pdf	4117
@@ -1033,6 +1046,7 @@ Birhane	571,169,264,4298,929,3508,1311
 Birikujja	3312,7104
 Birindabagabo P	10784
 Birkmann	10964
+Birkstedt	11156
 Birni	4997
 Birni N’Gaouré	2801,1188,2105,484,605
 Birr Budget for Upcoming	3211
@@ -1067,6 +1081,7 @@ Birth and Deaths Registration Act CAP	10822
 Birthday	6553
 Birthday Charity Run of Chief of Defence Forces	9781
 Births	1,539,2232,2761,5289
+Births and Deaths Office	11133
 Births and Deaths Registrar	3287
 Births and Deaths Registration	5142,5680
 Births and Deaths Registration Act	1,1008,4290,234,5289
@@ -1084,6 +1099,7 @@ Bis L’APDPVP	1231
 Bisabat de Nsang	4209
 Bisabwe	1214
 Biscuiterie	7057
+Bishakha Barman	11149
 Bisher	615
 Bishi	7759
 Bishop	9547
@@ -1105,7 +1121,7 @@ Bissau-Guinean	3506,2763,38
 Bisunu Dispensary Data Controller INST-231659A8759 BUNGOMA	7167
 Bisvigou	766
 Bit Rate	736
-BitKE	4848
+BitKE	4848,6282
 Bita Kiamehr	10764
 Bitam	2325
 Bitarakwate	2757,2637
@@ -1133,6 +1149,7 @@ Biwott and Okoth	10464
 BixeLab	6543,3204,54,3,23
 BixeLab. The IriShield	5253
 Bixil	7065
+Bixinta	11136
 Biyendeme-	4209
 Biz All	7253
 Biz Press OfficeAgricultureAutomotiveConstruction	7253
@@ -1178,9 +1195,12 @@ Bénoît AZODJILANDE Conseiller Ismath BIO-TCHANE Conseillère	10821
 C.A. Bisschoff	4432
 C1- Biannual	7548
 CAMPANHA DE EMISSÃO DE BI PARA	10752
+CBE Bills CBE	11134
 CENTRE FOR MOLECULAR BIOSCIENCES AND GENOMICS	7167
+CEO Barr. Bisi Adegbuyi	11129
 CEO of Biometix and Chair	7065
 CERTIFIED COPY Baker Birikujja	5113
+CFT BCM BIS CAR CBE CBDC	11134
 CFT Bill	2193
 CGAP Bill	486
 CHAPITRE III DE I.'IDENTIFICATION BIOMETRIQUE	10813
@@ -1201,9 +1221,11 @@ Cabinda Bié BERTA JAMBA LUSSINGA MATJIATA	10751
 California Senate Bills	6231
 Campaign Bill	1116
 Campanha Nacional de Emissão de BI	10753
+Can Language Models Be Too Big	11140
 Cardinal Emile Biayenda	1297
 Catherine Bitarakwate Musingwiire	2757,2637
 Catherine Bitarakwate Musingwiire Permanent Secretary	8032
+Central Bank Bill	11131,3
 Central Billing Systems	3735
 Centro de Produção de Bilhete de Identidade	10772
 Chains Project Bill	8399
@@ -1333,6 +1355,7 @@ Description BII	45,1,1,1,194,1,92,274,1,205,1,2,1,231,365,1,1,1,722,1
 Description Third BII	2139
 Dette Publique Ministère des Finances Guinée Bissau	10708
 Deuda Exterior Bilateral	4209
+Develop and Implement BI	11131
 Digital Agriculture Roadmaps Bill	1101
 Digital Birth Registration	2669
 Digital Economy Bill	9880
@@ -1369,6 +1392,7 @@ Dépenses de Biens	1682
 D’Ivoire Faso Bissau	10856
 E BIOKO SUR ANNOBÓN CENTRO SUR	4209
 E-Governance Bill	9880
+E. van Biljon	11140
 E2.8 Billion Question	4535
 ECA Bill	8161
 ECOWAS National Biometric Identity Card	4102,6807
@@ -1383,7 +1407,7 @@ ELECTRONIC TRANSACTION BILL	410
 ESTDEV Invites Bids	9309
 ESWATINI SECURES E1 BILLION DIGITAL FUNDING	7453
 EU and Big Tech	11050
-Early Bird	6971,95,5,213,98,1507,118,10,622,24,91,9,34,72,11,16,23,36,1,16,12,216,502,36,2,58,3,6,151
+Early Bird	6971,95,5,213,98,1507,118,10,622,24,91,9,34,72,11,16,23,36,1,16,12,216,502,36,2,58,3,6,151,205,4,2,6
 Early Registration of Birth	3200
 East Africa Community Bill	374
 East African Carbon and Biodiverity Ltd Data	7167
@@ -1426,6 +1450,7 @@ Establish Bilateral and Develop	1777
 Establish Bilateral and Multilateral NCC	1777
 Establish Bilateral and Multilateral Partnerships. Develop	1777
 Eswatini Communications Infrastructure Corporation Bill	6539
+Eswatini Government Bonds and Treasury Bills	11131
 Eswatini Telecommunications Corporation Bill	6539
 Ethiopia Advances WTO Membership Bid	5583
 Ethiopia Bill	662
@@ -1455,6 +1480,10 @@ Finance Bill	1732,1,1,12,92,4295,276,354,1231,1317,821
 Finance Minister Bihi Egeh	8024
 Financial Bid Form	7368
 Financial Inclusion Bill	2199
+Financial Institutions Bill	11131
+Financial Institutions Bill. While the Bank	11134
+Financial Stability Bill	11131,3
+Financial Stability Bill and Financial Institutions Bill	11134
 Financing Platform Bill	883
 Findings Bivariate	8075
 Fintech BII and Africa50 Strengthen Partnership	9803
@@ -1510,6 +1539,7 @@ Governing Big Tech	3782
 Government Makes Biometric Verification Mandatory for Ghana	7369
 Government’s Big Push Infrastructure Programme	7695
 Governor Biodun Oyebanji	10053
+Grants Bilateral Multilateral Expenditure Compensation	11136
 Green Bio Energy	10846
 Guay and Birch	11028
 Guinea Bissau	7,1409,1261,98,2620,2057
@@ -1693,6 +1723,7 @@ Marseille and Bizerte	6503
 Mc Guinea-Bissau Africa Western Africa Bissau	10840
 Md BIF	3163,1,5,1,2,3771
 Measures After Spate of Fatal Crashes Big	6077
+Meetings Bi-monthly Progress Reports Bi-monthly MPCC	11131
 Mercy Bianca-Ioana Marcu Managing Director	5363
 Merges Biometric Update	1906,483,415,1010,111
 Merging IFC-based BIM	8604
@@ -1781,6 +1812,7 @@ National Identification and Registration Bill NDP National	5533
 National Information Technology Authority Draft Bill	6347
 National Integrated Big Data Center Collaborative	5242
 National Payment System Bill	9585
+National Payments System Bill	11134
 National Rail Bill	8599
 National SEXE Classique Satellite Bilingue	10847
 National Strategy for Birth Registration	10765,10
@@ -1803,6 +1835,7 @@ Nine Hundred Billion	3862
 Normand Bigendako	5942
 Norte BILALI	6613
 Note the BI	438
+Ntfonjeni and Big Bend. CBE Trains ESRIC	11134
 O Bilhete de Identidade	5988,4784
 O Bilhete de Identidade de Cidadão Nacional	10749,7
 O MEUPRIMEIRO BI RUMO	10752
@@ -1815,6 +1848,7 @@ Observatory SAIAB South African Institute for Biodiversity	5246
 Occupational Safety and Health Bill	8681
 One-Envelope Bidding Process	8166
 One-Stop Border Post Bill	5533
+Oneness and Big	11131
 Online Birth Registration	3200
 Online Birth Registration System	3200
 Open Big Data	5246
@@ -1830,6 +1864,7 @@ Ouest BIT	10874
 Outros Biomarcadores Medidos	10777
 PARA A UNIVERSALIZAÇÃO DO BILHETE	10772
 PDF. Related BII	1985
+PDPO National Director Baker Birikujja	11173
 PIU BID	1988
 PIU BID and SEA	1988
 PROV. WELE- PROV. PROV. PROV. BIOKO	4209
@@ -1873,7 +1908,7 @@ Pour M. Roger Bini	10432
 Power BI	6432,4444,99
 Power BI and Excel. Trainings	8183
 Power BI. Ce	10975
-President Biden	1038
+President Biden	1038,10097,19
 President Bio	4114,75,1660,1333,752
 President Biya	2519
 President Joe Biden	7750
@@ -2019,6 +2054,7 @@ Spokesperson François Bizimana	2859
 Stage and Kept Big Tech	6487
 Startup Bill	7579
 State Information Technology Agency Bids	7514
+Statements Bi-weekly Executive Reports Reports	11131
 Steve Biko	4258
 Strategic Bill Bill	6409
 Stratégie. Bien	10965
@@ -2128,6 +2164,7 @@ Women Bite-size	11017
 Women Enterprise Development Fund Bill	3583
 Women's Nutrition and Health Bill	2177
 Workflow of RCI Birth Registration Process	10765,10
+Workplace Fairness Bill	11135
 World Bank’s Standard Bidding Documents	10964
 World’s Next Big Growth Market	415
 Y PAGINA WEB BIBLIOTECAS E NACIONAL	4209

@@ -222,6 +222,10 @@ ECHNOLOGIEs DANs LEs ENtREPRIsEs MAROCAINEs	7655
 ENTAIL	4154
 ENTD.GW	1381,864,77,29,5356
 ENTEMRHNIENAPTIRSENITSRDÈECRRPSIAEEC	10980
+ENTERPRISE RISK MANAGEMENT	11131
+ENTERPRISE RISK MANAGEMENT Business Continuity Management	11131
+ENTERPRISE RISK MANAGEMENT Material Matters	11131
+ENTERPRISE RISK MANAGEMENT The CBE Risk	11131
 ENTERPRISE SERVICE BUS	2709
 ENTERPRISE SURVEYS ENTERPRISE SURVEYS WHAT BUSINESSES	10976
 ENTIRE HOUSEHOLD ABSENT FOR EXTENDED PERIOD	582
@@ -251,6 +255,7 @@ ERISC Entreprises ERISC Ménages	9481
 ERP Enterprise Resource Planning GCSP Government	6432
 ET DES TRANSACTIONS PAR PAYS ENTRE	4459
 EU Enterprise Architecture FHIR HIMSS Electronic	1009
+Economic Affairs and Employment Enterprises France	11135
 Economic Entities Platform	8770
 Economic Growth Decelerated Without Entering	11105
 Economy Entrepreneurship Facebook Faso CEO FESPACO	9993
@@ -283,7 +288,7 @@ Enter the Africa Data Leadership Initiative	6352
 Entered	1234,3013,55,6411
 Entering	2726,1,8057
 Entering After Telebirr Safaricom	8843
-Enterprise	448,408,68,360,667,307,451,778,24,387,824,478,666,190,44,493,1815,195,238,127,156,31,82,636,743,1,176,161,22
+Enterprise	448,408,68,360,667,307,451,778,24,387,824,478,666,190,44,493,1815,195,238,127,156,31,82,636,743,1,176,161,22,158
 Enterprise AI	7005
 Enterprise AI Strategy	10343
 Enterprise Analysis Unit	10976
@@ -314,11 +319,15 @@ Enterprise Opportunity Survey	6593
 Enterprise Privileged User	10617
 Enterprise Privileged Users	10616,1
 Enterprise Resource Planning	3051,491,4445,683,1249
-Enterprise Risk	6946
+Enterprise Risk	6946,4188
+Enterprise Risk Management	11131,3
+Enterprise Risk Management The Bank	11134
+Enterprise Risk Management The Enterprise Risk	11134
 Enterprise SNCC Guinea’s National Climate Change	1264
 Enterprise Service Bus	1814,2795
 Enterprise Services	3487
 Enterprise Software Solutions	2258
+Enterprise Somali National Bureau of Statistics Somali	11136
 Enterprise Sparx Enterprise	9124
 Enterprise Strategy Group	4434
 Enterprise Support C-AI	7548
@@ -429,6 +438,7 @@ Entrance Pathways	9123
 Entrance Room	9123
 Entrance Rooms Access	9123
 Entrance Rooms Class	9123
+Entrants	11131,3
 Entrants Shake Up Competition	3625
 Entrave	142,10734
 Entraînement	1231
@@ -505,9 +515,10 @@ Entrons	3157
 Entropy	8606
 Entrust	2390,913,727,746,717,385,88,3936
 Entrust and Hyf	4985
-Entry	11,558,645,29,21,543,2054,44,705,9,3236,1268,772,946,78
+Entry	11,558,645,29,21,543,2054,44,705,9,3236,1268,772,946,78,256
 Entry Distribution Price	1828
 Entry Exit System	1525
+Entry Patio	11134
 Entry Point for U.S.-Africa AI Partnerships	6790
 Entry-level	6593,1518
 Entry-level Printers TBA	1988
@@ -547,6 +558,7 @@ Finance for Small and Medium Enterprises	10845
 Flexibility and Supplementary Options Entities	3861
 Forum des Entreprises Publiques	2342
 Founders. Investors. Policymakers. Enterprise	6368,4363
+Fund Export Credit Guarantee Scheme Enterprise	11131
 Fédération des Entreprises du Congo	7812
 Fédération des Entreprises du Gabon	4208
 G01 Enterprise	9237
@@ -565,6 +577,7 @@ GQ. Entre	8554
 GSMA Intelligence Enterprise	6593
 Game Graphics and Multimedia Entertainment	6832
 Gemini Enterprise	5256,479,1,1
+General Public Neighbouring Entities Public	11131
 Ghana Enterprise	4126
 Ghana Enterprise AI	4126
 Ghana Enterprises Agency	11032
@@ -626,7 +639,7 @@ Implied Enterprise	4896
 Inclusive and Diverse AI Start-up and Enterprise Ecosystem	1814
 Industry Enthusiasts	7645
 Industry and Private Sector Entities	4528
-Innovation and Entrepreneurship	4484,760
+Innovation and Entrepreneurship	4484,760,5887
 Innovation and Entrepreneurship Centre	6946
 Innovations and Entrepreneurship	4028
 Integrating the Health Enterprise	1009
@@ -691,11 +704,14 @@ Managing Director of Belitra Enterprises Limited	6946
 Managing Urban Enterprises	7992
 Marriage SMEs Small and Medium Enterprises SMS	2775
 Maurice. Entre	5122
+Median Enterprises. The EPS	11134
 Medium Enterprise Development and Infrastructure	1988
 Medium Enterprise TSC Teachers Service Commission	7548
 Medium Enterprises	940,30,4274,489,150,452,2079,1438,1128
 Medium Enterprises NDPV Midterm Review NEP	10964
 Medium Enterprises NIR	5244
+Medium Enterprises Small Scale Enterprise Loan	11131
+Medium Enterprises Stakeholder Perception Index Small	11134
 Medium Enterprises Standard Operating Procedures Science	4528
 Medium and Micro Enterprise Support	5190
 Medium-Sized Enterprises	10718
@@ -760,6 +776,7 @@ OECD Guidelines for Multinational Enterprises	9082
 Obanua’s Entertainment’s Kumi Bora	9739
 Obligations of Extraterritorial Entities	3861
 Obligations of Extraterritorial Entities Foreign	3861
+Ombudsman Enterprise Risk Management Our Risk	11131
 Organisme ANDF Entité	10876
 Organisme Entité	10876
 Ouagadougou. Entre	8098
@@ -775,6 +792,7 @@ PUBLIC ENTITIES AND TO PROVIDE	1333
 PWC’s Global Media and Entertainment Outline	1363
 Palais du Peuple. Entreprises	10531
 Paymentology Enters the Middle East’s Digital Payments	7156
+Performance Enterprise	11134
 Performance des Entreprises Publiques	2342
 Personal Computers Entities	6432
 Petite Entreprise	8891
@@ -783,6 +801,7 @@ Powering the Future of Enterprise Innovation	6056
 President Global Gov. and Enterprise Key Account	7979
 Previous Experience of Enterprise	1988
 Primer Ministro. Entre	9065
+Private Sector Entities	11154
 Procura de Ajuda Entre	10777
 Procuring Entities	1638,9191
 Procuring Entity	1638,6349
@@ -833,6 +852,7 @@ Responsabilité Sociétale des Entreprises	839
 Responsibilities of Government Entities Participating	3815
 Responsibilities of Licensed Entities	5665
 Responsibilities of Public Entities	6432
+Reviewed the Export Credit and Small-Scale Enterprise Loan	11134
 Rural Enterprises Programme	11032
 Rwanda Enterprise	9124
 Rwanda. Entre	10352
@@ -847,6 +867,7 @@ SND Small and Medium Enterprises SORT Strategie	10964
 SOE State-Owned Enterprise STEP Systematic Tracking	6539
 SUBSECÇÃO IV Entidades	6970
 Sasa Lifestyle Technology Entertainment Society Fashion	9646
+Scale Enterprise Loan Guarantee Scheme Strategic	11134
 Scale Enterprise Platform South African	11128
 Scale Women-Led Enterprises Across Africa Jordan	5322
 Screen Talent and Global Entertainment Scheme	5533,3717
@@ -863,12 +884,14 @@ Skills Development and Enterprise Development	5808
 Small Enterprise Development Finance Agency	8458
 Small Enterprises	10980
 Small Enterprises Development Company	9157,40,108,118
+Small Scale Enterprise	11134
 Small and Medium Enterprise	2775,5683
 Small and Medium Enterprise Development and Infrastructure	1778,210
-Small and Medium Enterprises	940,30,161,117,16,724,1772,768,1355,1063,157,445,1122,447,12,294,1433,194
+Small and Medium Enterprises	940,30,161,117,16,724,1772,768,1355,1063,157,445,1122,447,12,294,1433,194,81
 Small and Medium Enterprises Development	940,6496,825
 Small and Medium Enterprises MTEF Medium Term	1988
 Small and Medium Enterprises National Development Strategy	940
+Small and Medium Enterprises Nonbank Financial Institutions	11134
 Small and Medium Enterprises. Even	7710
 Small and Medium Scale Enterprises	8973
 Small and Medium-Sized Enterprises	1828,9152
@@ -878,6 +901,7 @@ Small and Medium-sized Enterprises Programme	10510
 Small and Micro Enterprises	3238
 Small-Scale Enterprises	1774
 Social Management Plan ESO Entrepreneurship Support	1264
+Social Security Information and Technology Enterprise	11156
 Software Developers Enterprise Architects Systems	21
 South Sudanese Entrepreneurs With Digital Finance	10741
 Sparx Enterprise Architect	9124
@@ -898,7 +922,8 @@ State Owned Enterprise	1282,8875
 State Owned Enterprise Sub-Saharan Africa	10157
 State Owned Enterprises	789
 State-Owned Enterprise	1228,2145,5598,99,1081
-State-Owned Enterprises	6071,1624,2374,82,475
+State-Owned Enterprise Reform Task Team	11131,3
+State-Owned Enterprises	6071,1624,2374,82,475,505,3
 State-Owned Enterprises Commission	4543
 State-Owned Enterprises and Parastatals	3025,836
 State-owned Enterprise Governance and Investment Management	5187
@@ -936,6 +961,7 @@ University Entrepreneurship VC Women Women Entrepreneurship	5322
 University of Botswana Enters VR Space	5852
 Unlocking the Promise of Entrepreneurship	7548
 Urbana Rural Total Entrevistas	10777
+Use of Entity Resolution	11156
 V- PRÉSENTATIONS SECTORIELLES ET FICHES ENTREPRISES	2342
 Valorisation des Initiatives Entrepreneuriales	7106
 Very Small Enterprises	10980
@@ -949,8 +975,10 @@ Women Entrepreneurs Learn Safe Digital Business	11033
 World Bank Enterprise Survey	1828
 World Bank Enterprise Survey Implementation Report	10862
 World Bank Enterprise Surveys	1400,9462,107
+World Bank Enterprise Surveys. Washington	11140
 World Bank Survey of Enterprises	1828
 World Bank. The Enterprise Surveys	10976
+World Bank’s Enterprise Surveys	11140
 XI Le Recensement Général des Entreprises	3396
 XML Enterprise User Authentication EMR European	1009
 YOUTHCRED for Entrepreneurs	8350

@@ -91,7 +91,7 @@ EMPRESTITOS EXTERIORES E INTERIORES	4209
 ENTIRE HOUSEHOLD ABSENT FOR EXTENDED PERIOD	582
 ESTADO EXTERIOR PRIMERA CEREMONIAS Y SEGURIDAD	4209
 ETHIOPIA EXTENDED NETWORK	11002
-EU External Action Service	3461
+EU External Action Service	3461,7694
 EXTENSION DU POSTE D'INTERCONNEXION	10975
 EXTERIOR	4209
 EXTERNAL COMPANIES PART	3714
@@ -110,9 +110,10 @@ Equipamiento Servicio Exterior	4209
 Ethio Telecom Extends Digital Access	8539
 Europe Extreme	9608,208
 European External Action Service	4127,2820
+European Union External Action Service	11155
 Evaton Ext	1009
 Evolution of Strategic Reciprocity External	5141
-Extend	1828,2298,2706,716
+Extend	1828,2298,2706,716,3585,16
 Extend Google Cloud	4434
 Extend Its Super-App Ecosystem	5397
 Extend NSFAS	6832
@@ -128,7 +129,7 @@ Extended Reality	6832,716
 Extended Term Consultant for Poverty	10763
 Extended UTAUT Model	5349
 Extender	1701
-Extending	547,1338,2847,742,3398,277,1673
+Extending	547,1338,2847,742,3398,277,1673,320
 Extending Broadband Connectivity	5245
 Extending Prior	3583
 Extending the Autopilot	5482
@@ -143,7 +144,7 @@ Extends the ST Digital	1881
 Extensibility Guidelines	5665
 Extensible	7988
 Extensible Project Management Sparx Enterprise	9124
-Extension	938,184,112,50,583,359,943,692,147,1350,1533,1594,40,158,1474,780,38
+Extension	938,184,112,50,583,359,943,692,147,1350,1533,1594,40,158,1474,780,38,165
 Extension Africa	5267
 Extension Couverture	3537
 Extension Definitions	6666
@@ -163,7 +164,7 @@ Exterior	4209
 Exterior Nº Categoría de Funcionario Público Monto	4209
 Exteriores	4209
 Externa	10757
-External	1,427,5,334,202,315,43,2,355,60,70,53,152,74,1298,213,110,160,285,7,87,5,42,824,123,55,211,61,81,208,49,97,18,14,369,13,64,11,20,2,83,32,100,73,127,269,1097,565,70,192,109,240,175,964,1,104,44,3,7,18,36,11,24
+External	1,427,5,334,202,315,43,2,355,60,70,53,152,74,1298,213,110,160,285,7,87,5,42,824,123,55,211,61,81,208,49,97,18,14,369,13,64,11,20,2,83,32,100,73,127,269,1097,565,70,192,109,240,175,964,1,104,44,3,7,18,36,11,24,267,3,2,13,7
 External Affairs Minister	2667
 External Affairs Minister Dr. S. Jaishankar	2667
 External Audit Program	3604
@@ -187,17 +188,20 @@ External Networks	34
 External Relations	8408
 External Relations Department	3870
 External Relations Minister	4220
+External Reserves Eswatini	11131
 External Resources Management Division	1264
 External Sector	1155
+External Sector Developments Eswatini	11134
+External Sector Developments Preliminary	11131
 External Sources	940
 External System Integration	3861
 External Systems	10765,10
 External Systems ID	10775
 External Vendor	10616,1
-Externalisation	10836
+Externalisation	10836,303
 Externalisation Article	10836
 Externalized	8460
-Externally	3255,2278,144,1932,412
+Externally	3255,2278,144,1932,412,3110
 Externally-financed	1756,1,4,1,2,1376,4,1,2,3765,4,1,2
 Externallymaintained	8606
 Externo	4507,1
@@ -214,11 +218,11 @@ Extra News	10105
 Extra News Channel	9522
 Extra-Ministerial Departments and Agencies	7973,949,59,1175
 Extra-territorial	1243
-Extract	737,29,1576,433,2816,1576,1437
+Extract	737,29,1576,433,2816,1576,1437,2525
 Extract-	8604
 Extracted	966,360,1,2,1,686,1,2,1,2136,1,2,1,1503,750,2427
 Extracting	961,1855,4166
-Extraction	235,530,1,243,178,18,13,775,1866,254,1420,16,999,1280,778,2215
+Extraction	235,530,1,243,178,18,13,775,1866,254,1420,16,999,1280,778,2215,331
 Extraction Has	10078
 Extraction Is Immediate	4258
 Extraction Preserved	4258
@@ -248,7 +252,11 @@ Extraterritorial	7547,60
 Extraterritorial Reach	3861
 Extraterritorial Reach This Policy	3861
 Extreme	2096,1487,2849,107,2351,2073,1
+Extreme Non Conformance	11134
 Extreme Nord	10985
+Extreme Poverty	11133,9
+Extreme Poverty DEEP	11142
+Extreme Poverty ESR Enhanced Single	11133
 Extreme Right	1245
 Extremely	1940,3307
 Extrême Nord	10965
@@ -264,6 +272,7 @@ Exturi Integrated Solutions Limited	3862
 Extérieur	2808,588,1024,2913,510,741,703,55,1748
 Extérieur Nombre	3396
 FINANCIAMIENTO EXTERNO NETO	4209
+Figure O.3 Africa’s Extra- and Intraregional Exports	11149
 Finance's Extraordinary General Meeting	9825,1
 Financement Extérieur	3396
 Financements Extérieurs	3396
@@ -274,6 +283,7 @@ Fourth Review Under the Extended Credit Facility	11105
 Fund EEAS European External Action Service	970
 GABON EXTENDED NETWORK	11002
 GBF Ext GBF Int SBF Ext	7655
+GDP Developments Price Developments External Sector	11131
 GHANA EXTRACTIVE INDUSTRY TRANSPARENCY INITIAVE	170
 GTMI Group A Extensive GovTech Maturity	10785
 GUINEA-BISSAU EXTENDED NETWORK	11002
@@ -301,6 +311,7 @@ Industries Extractives	4169,4355
 Industry Implications for Ghana’s Extractive Economy	10069
 Indústrias Extractivas	10757
 Indústrias Extractivas Indústrias	10757
+Insurance Postal Agency Counter Extension Post	11129
 Internal and External Communication	10776
 Internal and External Trade	10841
 Intrants Programmes Extrants Effets	10712
@@ -324,6 +335,7 @@ MINJUSDH External Services	10775
 MOROCCO Amending and Extending the Agreement	1234
 MPA. Extending	1704
 Machine M3 Extended Broad Money Supply	2775
+Macro-Financial Environment External Environment Global	11134
 Maternity Clinic External	10775
 Ministerio de Asuntos Exteriores	6841
 Ministries and Other Extra- Budgetary Institutions	2775
@@ -342,6 +354,7 @@ National External Quality Assurance Laboratory	4301
 Normalised XML3Normalised XML2Normalised XML1 Extraction	8606
 Notice of Extraordinary General Meeting	4896
 Notice of Extraordinary General Meeting of Shareholders	7198
+O.3 Africa’s Extra- and Intraregional Exports	11149
 OCRC Extorsion	10821
 ORGÃOS EXTERNOS	4419
 OUTRAS DESP. CORRENTES-ORGÃOS EXTERNOS	1338,4,738
@@ -365,6 +378,8 @@ Pluralistic Extension Services	8562
 Policy. Extensions	3861
 Power Device External	34
 Pre-Series A Extension Round	1151
+Private Sector External Debt	11134
+Progress Reports EXTERNAL Construction Industry Council	11131
 Project Implementation and External Engagement	1988
 Project Implementation and External Reporting Reporting ZEMA	1988
 Projection Lens Extended Graphics Array Resolutions	34
@@ -374,6 +389,7 @@ Proyecto de Extensión de CNEDOGE	4209
 Proyecto de Extensión de Controladores Financieros	4209
 Proyecto de Extensión de SYDONIA	4209
 Préstamos Externos	4209
+Public Sector External Debt and Credit Guarantee	11134
 Pyrethrum Flowers and Extract Production	2775
 QUESTIONS AND ANSWERS ABOUT THE EXTRAORDINARY	7198
 RECEIVE TANZANIA UBA ACCESS CHANNELS EXTENDED	11002
@@ -381,6 +397,7 @@ RECOMMENDED EXTENSIBLE AUDITABLE	6423
 REQUIRED EXTENSIBLE AUDITABLE	6423
 RESOLUÇÃO EXTRAJUDICIAL DE LITÍGIOS E PROCEDIMENTO	10755
 Receitas Extraordinárias	10750
+Recent Economic Developments and Outlook External	11136
 Recursos Externos	4209
 Registrar External	10765
 Regulação Externa	10366
@@ -394,11 +411,13 @@ Results of Extraordinary General Shareholder Meeting	8939
 Reunião Extraordinária da Assembleia Nacional DR Luanda	9705
 Reunião Plenária Extraordinária	6847,1462,1490
 Rise of Extractive Practices	3810
+Role of Research and Extension	11140
 S S Registrar External	10775
 SEGURIDAD EXTRANJERÍA Y INFORMAC. CRIMINALISTIC INSULAR	4209
 SOUTH AFRICA EXTENDED NETWORK	11002
 STATE AND GOVERNMENT AT THE EXTRAORDINARY	4114
 Sectoral and External Audit	3861
+Senior Communications and External Affairs Officer	11136
 Servicio Exterior	4209
 Servicios de Extensión Agraria	4209
 Serviço de Inteligência Externa	4147
@@ -406,6 +425,7 @@ Sierra Leone Extractive Industries Technical Assistance	2889
 Sistema de Extensión Agraria	4209
 Social Sustainability and Inclusion Extractives	1867
 Stand Extension	4896
+Summary Statement of Financial Position Assets External	11131
 TERRITORIAL APPLICATION AND EXTRATERRITORIAL REACH	3861
 TOGO EXTENDED NETWORK	11002
 Tarif Extérieur Commun	10712
@@ -421,6 +441,7 @@ Unkept Promises Atical Foyoh Extends Olive	7182
 Verbeke F. Extraction	766
 WRA Water Resources Authority XR Extended	7548
 Women Extractive Transport	10763
+Worsening E’000 E’000 Assets External Investments	11134
 XI. AUDIT EXTERNE DU PROGRAMME	10876
 XML Extensible Markup Language XPID XAD-PI	1009
 Yahclick Extra Premium	6980

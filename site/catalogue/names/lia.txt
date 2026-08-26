@@ -31,6 +31,7 @@ EPTC’s Legacy Pension Liabilities	6539
 EQUITY AND LIABILITIES	4896
 EXPENDITURE Liability	3714
 Electricité Liaison	10975
+FINANCE REPORT Liabilities Currency	11131
 FINANCIAL ASSETS AND FINANCIAL LIABILITIES	10793
 Government Liaise	1131
 Hungary Xunru Liang	8376
@@ -43,8 +44,9 @@ LIABILITY OF MEMBERS AND OTHERS	3714
 LIABILITY RESULTING FROM INSIDER TRADING	3714
 LIABILITY TO TAX ON A SIGNIFICANT	3161
 Liabilities	1154,790,8849
+Liabilities Currency	11131,3
 Liabilities NAD	1013,931
-Liability	3,23,2,1305,1828,553,1182,1995,657,2366,1,77,113
+Liability	3,23,2,1305,1828,553,1182,1995,657,2366,1,77,113,1033
 Liability No Monitoring	26
 Liability for Digital Services Tax	573
 Liaise	170,3956,402
@@ -52,7 +54,7 @@ Liaison	1131,2382
 Liaison Committee	10313
 Liaisons	998
 Lian Aldrich	6765
-Liang	7759
+Liang	7759,3376
 Liang Wenfeng	2816
 Liao W	8460
 Liapeca Village	10765,10
@@ -74,6 +76,7 @@ PPE Revenue Net Profit Assets Liabilities	1944
 Parliamentary Liaison Office	10313
 Pending Litigations and Contingent Liabilities	5903
 Profit Assets Liabilities Shareholder Equity Addition PPE	1944
+Public Liability Company LGA P.O Ins	11129
 Revenue Net Profit Assets Liabilities	1944
 Revenue Net Profit Assets Liabilities Finance	1013
 Revenue Net Profit Assets Liabilities Shareholder	1013,931
@@ -81,4 +84,5 @@ Revenues Net Profit Assets Liabilities Shareholders	1944
 SSRA Kampala Liaison Office	10599
 Siaw-Teng Liaw	1824
 Startups and MSME Liaison	4528
+Worsening Commentary Liabilities Currency	11134
 Xue Liang	2518

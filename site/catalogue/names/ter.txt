@@ -34,6 +34,7 @@ Ansible and Terraform	10617
 Anti- Money Laundering and Counter Terrorist Financing	3583
 Anti-Money Laundering and Combating Terrorism Financing	4633
 Anti-Money Laundering and Counter Financing of Terrorism	5131
+Anti-Money Laundering and Terrorist Financing Unit	11153
 Appropriation Medium Term Expenditure Framework Rand	5533
 Assistance ToC Theory of Change ToR Terms	3604
 Atualmente Terra	2125
@@ -55,6 +56,7 @@ CONTROLE DE TERRAIN PAR	10876
 CTD Collectivité Territoriale Décentralisée CVECA Caisse	10965
 Call Termination	1810
 Carlos Sena. Terceira	9994
+Central Bank Governors Combating the Financing of Terrorism	11131
 Centre Medium Term	1161
 Civil Registry MATD Ministry of Territorial Administration	10812
 Classificador Territorial	10783
@@ -72,10 +74,11 @@ Contract Terms Selecting of Cloud Service Providers	6432
 Coordenação Teresa Spínola Anália Silva Directoras-Gerais	4044
 Coordonnateur du Programme Terra Bénin	10876
 Copy Link News Alerts WhatsApp Teraco	9769
+Counter Financing of Terrorism	11134
 Counter Terrorism Fusion Centre Director	8768
 Counter Terrorism Unit	2367
-Countering Financing of Terrorism	789
-Countering the Financing of Terrorism	789
+Countering Financing of Terrorism	789,10341
+Countering the Financing of Terrorism	789,10347
 Covid-19 TERS-related	7936
 Credit Terms Extended	5247
 Cuando Cubango Luanda TERESA DE FÁTIMA	10751
@@ -155,7 +158,7 @@ Extended Term Consultant for Poverty	10763
 Extension Definitions Terminology	6666
 FT. Teraco	9769
 FTA Free-to-Air FTR Fixed Termination Rate	6946
-Federal Capital Territory	2284,71,176,4,1,56,3,339,96,901,794,212,347,1414,673,836,143,298,335,503,671,266,180
+Federal Capital Territory	2284,71,176,4,1,56,3,339,96,901,794,212,347,1414,673,836,143,298,335,503,671,266,180,565
 Federal Capital Territory Administration	4301
 Federal Capital Territory H.E. Dr. Mariya	5991
 Federal Capital Territory Nyesom Wike	7176
@@ -166,6 +169,7 @@ Fight Against Terrorism	7452
 Filho Terapia de Reidratação Oral United Nations	10777
 Financial Credit Terms Advanced	5247
 Financing of Terrorism	10775
+Financing of Terrorism Common Monetary Area Centre	11134
 Fixed Termination Rates	6946
 Fizi Territory	10097
 Fondo de Desarrollo Territorial	1701
@@ -247,13 +251,14 @@ L’ADMINISTRATION TERRITORIALE ET DE LA MOBILITELe	7670
 MARINA E INSPECCIONES TERESTRE REGIONAL	4209
 MAT Ministry of Territorial Administration	10768
 MOP Manuel des Opérations du Programme Terra MTFP	10876
+MPCC Terms of Reference The MPCC	11131,3
 MSS Terminal	736
 Mali. TerraPay	2940
 Manage Security Terms In The Cloud	34
 Maroc Telecom Transafrican Terrestrial Fibre Cable	837
 Material Terms	7198
 Mauritius Satellite Terminal	2913
-Medium Term	1161,5785
+Medium Term	1161,5785,4190
 Medium Term Development Plan	5032,501
 Medium Term Development Plan MTEF Medium	5533
 Medium Term Development Plan Reduction	5533
@@ -262,6 +267,7 @@ Medium Term National Development Plan	5276
 Medium-scale Enterprise GTEC Ghana Tertiary Education	6936
 Mega Sistema Motores Niveles de Territorio Influencia	1701
 Memorandum of Understanding and Commercial Terms Agreement	6664
+Mid Term	11133
 Mid Term Review	4653
 Mines. La Direction du Portefeuille des Secteurs Tertiaire	2342
 Minister of Higher and Tertiary Education	413,4115
@@ -370,6 +376,7 @@ RBZ Financial Inclusion Committee Terms of Reference	940
 Raya Nassar and Terrence Naidoo	7116,685
 Reconciliation and Healing. Terms Cost	3583
 Remplacement des Terminé	10975
+Royal Commission for Reviewing the Terms and Conditions	11131,3
 SECTION6 Additional Terms	4301,48
 SOSTENIBILIDAD MEDIOAMBIENTAL Y DESARROLLO TERRITORIAL	1701
 STARLINK User Terminals	1872
@@ -390,6 +397,7 @@ Segundo Vice-Primer Ministro Tercero Fiscal General	4209
 Segundo Vice-Primer Ministro Tercero Ministro de Estado	4209
 Services DTT Digital Terrestrial Television ECG	4126
 Sets Terminology	6666
+Short Term	11136
 Sistema Nacional de Planificación Territorial	1701
 Sistema Territorial	1701
 Sistema Territorial Las	1701
@@ -431,6 +439,7 @@ TISEZA Director General Gilead Teri	9897
 TOC Theory of Change TOR Terms of Reference	10768
 TOR Terms of Reference UNDP United Nations	1867
 TOUADÉRA ANNOUNCES BID FOR THIRD TERM	4127
+Talent Metrics Term Retention	11131
 TeKnowledge’s Territory Director for Africa	7234
 Telecommunication Companies TOR Terms of Reference TRIPS	236
 Televisão Digital Terrestre	2821
@@ -441,6 +450,7 @@ Terabites	4250
 Terabits	965,845
 Terabyte	3862,1819
 Terabytes	3862
+Teracnosnmdisqsuioanrteanr	11152
 Teraco	447,955,549,9,579,33,401,21,694,171,14,59,1018,75,775,432,18,16,255,59,211,101,746,625,10,318,53,973,152
 Teraco Brackenfell	9617
 Teraco CEO Jan Hnizdo. JB7	1951
@@ -486,6 +496,7 @@ Teresa Isabel Nnang Avomo	8372
 Terhadap Manajemen Sumber Daya Manusia	7759
 Term Evolution MoF Ministry of Finance NCA	236
 Term Expenditure Framework MTSF Medium Term	5533
+Term Financial Sustainability Output Measure Target	11134
 Term Meaning Act	8866
 Term Plan MTP III Third Medium	2775
 Term Plan MTP IV Fourth Medium	2775
@@ -570,6 +581,7 @@ TerraPay	1415,4,1521,2869
 TerraPay Holdings	1419
 TerraPay Payment Services	1419
 TerraPay's VP Sub-Sahara Africa	2940
+Terrace	11129
 Terraform	10617
 Terraform. Actual	10617
 Terragon	515
@@ -595,9 +607,10 @@ Terrestrial Spectrum	5245
 Terrestrial Television DVB-C	6946
 Terrestrial Wireless	6671,275
 Terrible Consequences	226
-Territoire	419,5693,1633
+Territoire	419,5693,1633,3406
 Territoire Douanier Unique. L'usage	5077
 Territoire National	547,3,18,20
+Territoire. Ils	11151
 Territorial	1701,1105,1055,4025
 Territorial Administration	2427,1158
 Territorial Administration Ministry	10775
@@ -634,8 +647,8 @@ Tertiaire	10875
 Tertiaire Construction	10875
 Tertiaire Construction Industrie	10875
 Tertiaire Industrie	10875
-Tertiary	1261,3267,2220,1121,2906,37,157,11
-Tertiary Education	4126,402
+Tertiary	1261,3267,2220,1121,2906,37,157,11,149
+Tertiary Education	4126,402,6606
 Tertiary Education The Institute	4126
 Tertiary Education Trust Fund	8560
 Tertiary Education. IST-Africa	1248

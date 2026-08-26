@@ -2,6 +2,13 @@
   "retention_days": 7,
   "editions": [
     {
+      "edition": "2026-08-26-2",
+      "file": "corpus-bulletin-2026-08-26-2.pdf",
+      "compiled": "2026-08-26 12:20",
+      "items": 58,
+      "bytes": 384181
+    },
+    {
       "edition": "2026-08-26",
       "file": "corpus-bulletin-2026-08-26.pdf",
       "compiled": "2026-08-25 22:18",

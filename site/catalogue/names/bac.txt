@@ -1,3 +1,4 @@
+A. Forward-Looking Assumptions Backward-looking	11140
 AI Bachelor	5036
 Abdeldjalil Bachar Bong	9812
 About Galaxy Backbone Galaxy Backbone Limited	8980
@@ -22,7 +23,7 @@ BACE Group	4126
 BACHELOR’S DIARY	9646
 BACKDOORS LIMITED Data Controller INST-801820A4964 MOMBASA	7167
 BACKFILL	1706,18,4,2019
-BACKGROUND	1248,1270,1842,2846,3754
+BACKGROUND	1248,1270,1842,2846,3754,169
 BACKGROUND AND CURRENT REGULATORY FRAMEWORK	5872
 BACKGROUND AND HISTORY	4896
 BACKGROUND FACTS	3307
@@ -46,7 +47,7 @@ BAccessed	4676,1024
 BAccountability	5349
 BAckah	5349
 Bacara	5783
-Bacary SARR	11051
+Bacary SARR	11051,100
 Bacary Sarr	2478,7412,688
 Baccalauréat	8420
 Baccelerating	3782
@@ -59,14 +60,16 @@ Bacharelato MF M F Angola	10766
 Bacharelato MF M F MF M	10766
 Bacharelato MF M F N.º	10766
 Bacharelato N.º	10766
-Bachelor	582,418,940,5006,2291,1674
+Bachelor	582,418,940,5006,2291,1674,220
 Bachelor of Accountancy	4896
 Bachelor of Accounting Science	4896
-Bachelor of Arts	5315,1517,114
-Bachelor of Arts Degree	6946
+Bachelor of Arts	5315,1517,114,4185,3
+Bachelor of Arts Degree	6946,4185,3
 Bachelor of Arts Honours	6832
+Bachelor of Arts Social Science Degree	11131,3
 Bachelor of Business Administration	6946
 Bachelor of Commerce	6832,114,1677
+Bachelor of Commerce Degree	11131,3
 Bachelor of Computer and Information Sciences	6832
 Bachelor of Creative Technologies	6832
 Bachelor of Education Honours	6832
@@ -75,13 +78,17 @@ Bachelor of Information Technology	6832
 Bachelor of Information and Communications Technology	6832
 Bachelor of Law	6946
 Bachelor of Laws	6946
+Bachelor of Laws Degree	11131,3
 Bachelor of Political Science	6946
 Bachelor of Science	6832,114,1893,44
 Bachelor of Science Honours	6832
+Bachelor of Social Science Degree	11131,3
 Bachelor of Technology	6832
 Bachelor's Degree	3678
 Bachelor's of Engineering	4896
 Bachelors	1204
+Bachelors' Degree Diploma Certificate Total Graduated	11134
+Bachelor’s Degree	11131,3
 Bachi	9277
 Bachrach	8283
 Bacias Hidrográficas de S. João Batista	1265
@@ -112,12 +119,12 @@ Backbone of Broadband	4130
 Backdoor	1231
 Backdoor Diplomacy	5242
 Backdrop	1646
-Backed	2000,847,13,338,586,343,109,50,161,863,647,487,144,190,806,637,228,2534
+Backed	2000,847,13,338,586,343,109,50,161,863,647,487,144,190,806,637,228,2534,183
 Backend PHP	2674
 Backers	4056
 Backfill	965,17,17,268,95,1,273,11,79,3,10,30,158,98,1594,500,307,248,232,5,149,153,2,51,19,1,25,10,118
 Backg	9123
-Background	236,159,183,188,5,187,261,42,336,109,122,91,174,41,77,65,114,558,110,444,30,52,130,21,56,335,88,218,7,29,59,422,297,239,705,242,504,262,8,111,231,499,307,160,614,1,108,162,204,1,123,128,468,123,274,64,28,17,188
+Background	236,159,183,188,5,187,261,42,336,109,122,91,174,41,77,65,114,558,110,444,30,52,130,21,56,335,88,218,7,29,59,422,297,239,705,242,504,262,8,111,231,499,307,160,614,1,108,162,204,1,123,32,96,468,123,274,64,28,17,188,125
 Background Burkina Faso	10812
 Background David	4429
 Background Health	1824
@@ -135,6 +142,7 @@ Background Recording	771
 Background Strengthening	1261
 Background The Kenyan	6432
 Background The National ID Program	10839
+Background Trust	11138
 Background Uganda Security Printing Company	1282
 Background Well-functioning	1212
 Background and Context	10028
@@ -152,7 +160,7 @@ Backlog	3287
 Backoffice	3857
 Backs Zimbabwe’s Environmental Agenda	8639
 Backstopping	962
-Backup	34,5166,593,639,3337
+Backup	34,5166,593,639,3337,1360
 Backup Data Centre	6481
 Backup Frequenc	6432
 Backup Node	9475
@@ -171,6 +179,7 @@ Bacross	3782
 Baction	2998
 Billion-Person Challenge Background Paper	10985
 Boakai Backs IG Coleman Amid Calls	10405
+Board Secretariat Bachelor of Laws	11134
 Bouncing Back	10912
 Bouncing Back Score	10837
 Bring Your Skills Back Home	1037
@@ -235,20 +244,23 @@ Fuel Backup Storage On-site	9446
 G20 Background Note	10997
 GDN’s Coordination and Technical Backstopping	10852
 GDN’s Coordination and Technical Backstopping Throughout	10852
-Galaxy Backbone	3557,302,1866,746,109,486,1055,302,557,593,98
+Galaxy Backbone	3557,302,1866,746,109,486,1055,302,557,593,98,1458
 Galaxy Backbone Building	5903
 Galaxy Backbone Limited	3557,385,1618,165,333,3515,98,486,153
 Galaxy Backbone Ltd	3862
 Galaxy Backbone National Shared Services Centre	8980
 Galaxy Backbone Plc	3859
+Galaxy Backbone and NIPOST. Backup	11129
 Galaxy Backbone's Shared Services Centre	3554
 Galaxy BackboneNigeriaData	3557
 Give Back	36
 Give Us Back Negro Art	8610,233
 Google Backs AI Innovation Across Africa	8698
+Government Backs Offshoring Expansion Egyptian Prime	11162
 Guinean Backbone Management Society	3089
 Général de Brigade Ibroh Amadou Bacharou	7333
 HNSF BACKWARDS COMPATIBILITY Authenticate	1009
+Head Internal Audit. The BAC	11131
 Health and Sustainable Environment. Trend Bouncing Back	10968
 Holding Back Ghana's Digital Economy	7606,1469
 I. BACKGROUND AND RATIONALE FOR ADDITIONAL	1284,1605

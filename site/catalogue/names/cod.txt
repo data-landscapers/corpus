@@ -22,6 +22,7 @@ Benin's DIGITAL CODE	1728
 Benin's Electoral Code	5782
 Board’s Health Safety Code	9855
 Burundi's Electoral Code	2859
+CBE Code of Conduct	11134
 CHINA CODAN TQJ350M Station Relais HF	998
 CMR CAF TCD COG COD GNQ	690
 COD FY2026	6390
@@ -99,7 +100,7 @@ Code Owner N	9124
 Code Pénal	743,488
 Code Pénal. Article	1231
 Code Pénal. Cette	743
-Code QR	5471
+Code QR	5471,5682
 Code SOP Standard Operating Procedure UHC	9855
 Code Structure Overview	5665
 Code System Countries	6666
@@ -126,9 +127,10 @@ Code for AfricaFollow6	6055
 Code for Africa’s DataLab	6055
 Code for South Africa	961
 Code of Code of Conduct for PIU SPMU	1988
-Code of Conduct	27,945,1016,1468,57,3415,509,766,1569,681,597
+Code of Conduct	27,945,1016,1468,57,3415,509,766,1569,681,597,81,23
 Code of Conduct for Workers	1988
 Code of Corporate Governance for Issuers of Securities	7204
+Code of Ethics	11131,3
 Code of Ethics for Print	10735
 Code of GBV	1988
 Code of Good Practice	5533
@@ -142,6 +144,7 @@ Code of USAC Committee Meetings Ethics and Conduct	6946
 Code the Future	3527,26
 Code-Division Multiple Access FWA	6000
 Code-SA	10729
+Code-switching	11163
 Code. Although the Authority	6946
 Code. Article	4420
 Code. Désormais	3267
@@ -149,6 +152,7 @@ Code.ai	3527
 CodeForAfrica	6055
 CodeLoccol	3395
 Codebook	7221,1215
+Coded	11156
 Coders Eswatini	4866,2821
 Coders and AI Practioners	4866
 Codes	961,11,1109,1806,567,1,1,676,1562,252,332
@@ -162,13 +166,14 @@ Codevelop and AFR	8449
 Codex	5967,531
 Codezone	5869
 Codificación	4209
-Codification	4583,3383,2909
+Codification	4583,3383,2909,254
 Codification and Reform	958,14,5979
 Codification and ReformAct	972
 Codification andReform	972
 Codificação	10769,14
 Codified Exit Protocols	5141
 Codifies	4366
+Codify	11136,13
 Codifying	3503
 Coding	1261,6017,511,1,497,318,286
 Coding Academy	8016
@@ -230,6 +235,8 @@ Employment Code Act	1988
 Environmental Codes of Practice	1988
 Environmental and Social Codes of Practice	1988
 Ethical Code	3861
+Ethics Code	11131,3
+Ethics Code and Ethics Policies	11131,3
 European Code of Conduct for Energy Efficiency	7489
 Extraction and Coding Process Case	7151
 FIRST-ROUND CODING	8605
@@ -316,6 +323,7 @@ Mwongozo Code of Governance for State Corporations	6946
 Méthodes de Sélection Le Code	10876
 NAMFULL2 ID ENTITY CODBRANCH Notably	3364
 NITDA Code of Practice	5215
+National AI Code of Ethics	11135
 National Building Codes	1988
 National Code of Corporate Governance for Mauritius	8866
 National Signalling Point Codes	6946
@@ -344,7 +352,7 @@ Programming Code	6946
 Promo Code	9031
 Proyecto Comisión Nacional de Codificación	4209
 Purpose and Scope This Code of Conduct	6432
-QR Code	3033,1426,977,304,1354,408,826,1,28,298,218,300,4,1078,259,174,23,39,6,60
+QR Code	3033,1426,977,304,1354,408,826,1,28,298,218,300,4,1078,259,174,23,39,6,60,318
 QR Code GIMACPAY	4208
 QR Code Security	10823
 QR Code VDS	2465

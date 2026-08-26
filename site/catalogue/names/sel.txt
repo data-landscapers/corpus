@@ -89,6 +89,7 @@ Estimation Methodology Data Selection Model	10714
 Etat Civil. Selon	9567
 Evaluate Select Control Baseline Effectivenes Control	1000
 Evidence and Select Practices	10768
+Exploring the Adoption of Selected Digital Technologies	11140
 F CFA. Selon	4341
 F Selon	6959
 FCFA. Selon	1918
@@ -97,6 +98,7 @@ FOGEC. Selon Laurent Munzemba	4893
 Facebook. Selon	9979
 Female Selecting	5679
 G. Selon	7010
+GIZ Editing Susan Sellars Layout EYES-OPEN	11156
 Gabon. Selon	11080
 Gemalto Selected	24
 Geoffrey Seleka	6071
@@ -105,6 +107,7 @@ Gets Selected	6947
 Google's AI Technology Selected	8698
 Google. Selon Thomas Lefort	7403
 Greenline Technologies. Selon	7421
+H. Selim	11140
 HPE. Selon	10933
 Home Insights Seychelles Selects NRD Companies	3907
 Homme Femme S3Q08 Selon	6959
@@ -118,6 +121,7 @@ IMF Selected Issues Paper African Department	10997
 IMF Selected Issues Paper No	10997
 IMF Selected Issues Papers	10997
 Idemia and SELP. IN Groupe	2864
+Impact of Self-Generation	11140
 Import Dependency and Self-Sufficiency Ratios	2775
 India Self-Employed	11004
 Inflation Rate and Current Account Balances for Selected	2775
@@ -236,14 +240,14 @@ Selcom	10799
 Selec	3972
 Seleccionar	2816,6625
 Seleccione	10753
-Select	578,785,625,680,1304,477,798,432,753,1590,584,517,586,1103,29,5,110,61
+Select	578,785,625,680,1304,477,798,432,753,1590,584,517,586,1103,29,5,110,61,116
 Select College	8671
 Select Financial Period FY	8727
 Select MDAs	6539
 Select Service	6783
 Select Social Sectors Health	3604
 Select the Regional Initiative	578
-Selected	7,27,975,275,704,108,2031,986,334,86,236,599,424,40,1143,631,1470,43,69,64,95,497,119,1
+Selected	7,27,975,275,704,108,2031,986,334,86,236,599,424,40,1143,631,1470,43,69,64,95,497,119,1,169
 Selected AI	1814
 Selected AI Gigafactories	8346
 Selected African Countries Performance	236
@@ -275,7 +279,7 @@ Selected Zimbabwe Listed Property Companies	4896
 Selected of Schools	1988
 Selecting	6946
 Selecting the Right Technology Partner Laos PDR	3907
-Selection	766,23,644,434,121,787,829,4186,87,89,410,60,110,1057,516,710
+Selection	766,23,644,434,121,787,829,4186,87,89,410,60,110,1057,516,710,300,23
 Selection Approach Sources	8301
 Selection Committee	1999
 Selection Criteria	5903
@@ -332,6 +336,7 @@ Self-investment	2229
 Self-published	4743
 Self-published NGO	5229
 Self-referral	1241
+Self-register	11133
 Self-reliance	11114
 Self-reliance Kagame	11114
 Self-selection	10963,1
@@ -354,7 +359,7 @@ Selly Ouane	4177
 SelmAI	2816
 Selma Inocência	2816
 Selom Komi KLASSOU	436
-Selon	565,78,94,271,223,13,435,1,4,6,116,112,39,39,67,6,192,9,30,12,30,2,32,75,2,81,41,19,9,91,1,52,18,21,6,25,58,36,98,22,24,9,35,22,103,25,19,48,45,50,44,19,14,2,61,41,24,14,8,6,14,2,17,5,1,4,11,55,1,8,10,7,13,7,17,19,31,13,64,24,11,55,35,24,30,3,58,22,26,56,56,3,10,11,55,57,70,122,12,11,45,5,1,57,10,7,51,23,1,1,29,15,16,66,70,12,20,86,144,20,4,35,65,33,6,29,49,10,53,10,43,8,4,17,12,8,2,5,20,80,33,6,22,22,82,37,16,5,1,4,18,7,30,10,4,17,36,1,7,10,3,23,15,4,13,83,7,17,25,31,9,11,3,22,15,43,20,13,9,5,6,9,40,71,11,8,18,72,19,2,2,19,77,17,11,23,22,65,67,22,29,1,90,27,12,9,1,37,7,4,14,17,15,6,7,79,13,17,28,22,37,19,4,2,18,12,2,3,7,2,3,3,4,33,13,16,5,2,1,6,13,4,9,13,6,7,24,7,23,80,31,1,30,2,21,13,1,8,32,2,23,13,20,23,5,2,6,49,32,4,12,8,1,1,14,3,46,42,8,49,1,1,1,11,3,5,43,10,1,57,15,23,23,4,20,1,5,8,4,14,21,25,37,17,2,23,15,10,1,12,18,1,21,58,1,6,9,20,6,5,73,1,9,23,8,1,1,94,1,7,1,16,1,1,82,23,24,13,10,9,26,16,11,31,1,25,10,3,1,15,11,7,42,12,25,28,4,12,73,11,24,73,14,43,18,5,13,3,30,12,29,6,84,15,36,40,21,67,3,22,10,43,15,25,1,12,7,1,14,24,1,14,1,1,28,17,11,7,14,8,23,37,5,119,9,49,1,9,51,8,21,21,10,14,57,13
+Selon	565,78,94,271,223,13,435,1,4,6,116,112,39,39,67,6,192,9,30,12,30,2,32,75,2,81,41,19,9,91,1,52,18,21,6,25,58,36,98,22,24,9,35,22,103,25,19,48,45,50,44,19,14,2,61,41,24,14,8,6,14,2,17,5,1,4,11,55,1,8,10,7,13,7,17,19,31,13,64,24,11,55,35,24,30,3,58,22,26,56,56,3,10,11,55,57,70,122,12,11,45,5,1,57,10,7,51,23,1,1,29,15,16,66,70,12,20,86,144,20,4,35,65,33,6,29,49,10,53,10,43,8,4,17,12,8,2,5,20,80,33,6,22,22,82,37,16,5,1,4,18,7,30,10,4,17,36,1,7,10,3,23,15,4,13,83,7,17,25,31,9,11,3,22,15,43,20,13,9,5,6,9,40,71,11,8,18,72,19,2,2,19,77,17,11,23,22,65,67,22,29,1,90,27,12,9,1,37,7,4,14,17,15,6,7,79,13,17,28,22,37,19,4,2,18,12,2,3,7,2,3,3,4,33,13,16,5,2,1,6,13,4,9,13,6,7,24,7,23,80,31,1,30,2,21,13,1,8,32,2,23,13,20,23,5,2,6,49,32,4,12,8,1,1,14,3,46,42,8,49,1,1,1,11,3,5,43,10,1,57,15,23,23,4,20,1,5,8,4,14,21,25,37,17,2,23,15,10,1,12,18,1,21,58,1,6,9,20,6,5,73,1,9,23,8,1,1,94,1,7,1,16,1,1,82,23,24,13,10,9,26,16,11,31,1,25,10,3,1,15,11,7,42,12,25,28,4,12,73,11,24,73,14,43,18,5,13,3,30,12,29,6,84,15,36,40,21,67,3,22,10,43,15,25,1,12,7,1,14,24,1,14,1,1,28,17,11,7,14,8,23,37,5,119,9,49,1,9,51,8,21,21,10,14,57,13,71,10
 Selon Aboubakar Nacanabo	4550
 Selon Agnès Kabore	10817
 Selon Albert Ndinabé	5856
@@ -413,6 +418,7 @@ Selon Mauritius Telecom	7224
 Selon Minette Libom Li Likeng	3138
 Selon Mme Aissatou Abdoulaye Tondi	8009
 Selon Mohamed Ali Abdallah	5530
+Selon Monsieur le Ministre	11151
 Selon Moov Africa Malitel	7728
 Selon Moov Money	3361
 Selon Nduwimana Libère	9173
@@ -498,6 +504,7 @@ Speaker Selection	9399
 Starlink RDC. Selon	9925
 Starlink. Selon	6241
 Summary of Select Recommendations	10841
+Susan Sellars	11156
 TAYE ATSKE SELASSIE PRESIDENT	7538
 TaRMS Self-Service Portal	4449
 Tasa Selectiva	4209

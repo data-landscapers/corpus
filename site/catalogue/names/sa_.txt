@@ -144,11 +144,12 @@ Retrieve SA NHIS Sharing Value Sets	1009
 Réservation CELTEL NIGER SA C	998
 Réservation CELTEL NIGER SA Décision	998
 SA CompComm	7181
-SA Connect	544,745,324,197,307,785,362,350,1580,5,9,394,1119,111,996,152,109,752
+SA Connect	544,745,324,197,307,785,362,350,1580,5,9,394,1119,111,996,152,109,752,918
 SA Connect Broadband Policy	8089
 SA Connect Broadband Policy. The Authority	7980
 SA Connect Phase	1289,324,197,1092,712,1594
 SA Connect R710m MTEF	3264
+SA Connect. Government of South Africa	9759
 SA DCDT	6353
 SA DT JR Ens ES	163
 SA Dept of Higher Education	5583
@@ -187,6 +188,7 @@ SA Rugby Awards.1.5. Springbok Cheslin Kolbe	2626
 SA Rugby Men's Player	2626
 SA Rugby Women's Player	2626
 SA SA	8924
+SA SA SA SA SA SA	11149
 SA Sita	7058
 SA Social Security Agency	6222
 SA South Africa	9968
@@ -248,6 +250,7 @@ Telkom SA	10622
 Telkom SA Movitel Mozambique TN Mobile	1013
 Telkom SA SOC	498
 Telkom SA SOC Limited	378,120
+Telkom SA SOC Ltd. Vodacom Group	9759
 Through SA Connect	3264
 Through the MTN SA Foundation	5621
 Timeline for SA	5175

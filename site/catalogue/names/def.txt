@@ -22,6 +22,7 @@ BUDGET DEFICIT	5655
 BUSINESS RESCUE PROCEEDINGS Application and Definitions	3714
 Baseline Cybersecurity Measures. Define	1777
 Birthday Charity Run of Chief of Defence Forces	9781
+Board Governance Deficit	11138
 Botswana Defence Force	3887
 Box A. Key Concepts and Definitions Data	4214
 Burkina Faso. RESULTATS DEFINITIFS DU RGE	10875
@@ -49,6 +50,7 @@ Classification Definition Examples Residency Security Level	5244
 Clear Role Definitions and Mandates	6936
 Clearly Defined Financial Inclusion Outcomes	940
 Coker-Odusote. The Defence	8120
+Collective Defence Primary	11138
 Comissão de Defesa	9258
 Commerce and Defence	10445
 Consejo Nacional Fiscalía Defensor	4209
@@ -94,6 +96,7 @@ DEFINITION DES TERMES CLES1 Aliénation Transmission	10876
 DEFINITION OF FINANCIAL INCLUSION	940
 DEFINITION OF TERMS	2776,4772
 DEFINITION OF TERMS Average SMS	2776
+DEFINITION OF TRUST ARCHITECTURE Trust Architecture	11138
 DEFINITIONS	34,4698,512,1663,3500
 DEFINITIONS AND INTERPRETATION	28
 DEFINITIONS AND INTERPRETATION Section	28
@@ -180,6 +183,7 @@ Defenses	6202
 Defensive	10088
 Defensive Driving	6946
 Defensor	4209
+Defer	11156
 Deferred	4896,2325,3572
 Deferred Drawdown	1284,583,1695,42,7164,61,135
 Defesa	539,255,1643,347,32,3170,3413,1351
@@ -195,7 +199,7 @@ Deficit	5655
 Deficits	961
 Deficiência	10754,23
 Defin-	8602
-Define	1000,777,1742,159,294,154,1118,421,12,1,745,9,400,104,404,208,1558,749,781,129,10,185,57,55
+Define	1000,777,1742,159,294,154,1118,421,12,1,745,9,400,104,404,208,1558,749,781,129,10,185,57,55,84
 Define KPIs	4528
 Define and Implement Innovative Financing Mechanisms	958
 Define the Define the Cybersecurity Implement	1777
@@ -204,9 +208,10 @@ Defines	396,2662,7850
 Defines the Year	7445
 Definiciones	163
 Definición	1701
-Defining	226,170,565,282,534,1874,2026,23,839,432,2266,1740
+Defining	226,170,565,282,534,1874,2026,23,839,432,2266,522,1218,156,23
 Defining AI and Automated Systems	6442
 Defining Artificial Intelligence	3651
+Defining Capabilities and Application Areas	11156
 Defining Choice for Africa’s Future	6690
 Defining Digital Transformation	5349,351
 Defining Era	4856
@@ -214,30 +219,37 @@ Defining Matters	5700
 Defining Moment	8978
 Defining Objectives and Areas of Application	2958
 Defining Use Cases	1009
+Defining and Measuring Artificial Intelligence	11140
 Definir	167,1534,1115,703,699,6536,29
 Definite-match	8,11,11,5,4,4,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,2,2,1,2,3,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,2,4,8,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,3,10,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,2,6,3,4,7,9,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,2,3,13,1,21,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,2,2,3,1,1,1,1,1,1,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,2,1,2,1,1,1,1,1,1,1,1,1,1,1,1,30,18,10,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,12,5,4,2,1,16,3,8,3,1,2,11,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,15,23,6,16,3,1,1,17,1,1,2,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,2,1,2,1,1,1,1,1,1,1,1,1,1,1,4,1,3,1,1,2,1,1,1,1,1,2,2,1,1,1,1,1,1,1,2,1,16,7,4,6,73,123,2,1,1,1,2,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,6,1,1,1,1,2,1,3,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,3,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,2,1,1,1,109,93,357,1,7,3,1,1,1,1,7,1,4,4,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,6,1,3,1,2,1,1,1,1,6,1,1,2,3,1,1,2,2,4,275,1640,286,1,2,7,1,5,8,3,23,4,11,1,5,2073,2044,299,102,24,256,144,41,95,12,86,109,123,233,154,745
-Definition	545,221,1058,1337,924,1580,35,1048,143,995,890,348,113,1484
+Definition	545,221,1058,1337,924,1580,35,1048,143,995,890,348,113,1484,431
 Definition Digital-Inclusion.pdf WEF	1243
 Definition PKI Public Key Infrastructure PMDS	5533
 Definition Reform	7451
 Definition Section	3161
 Definition Section This Section	3161
+Definition The Namibia Producer Price Index	11152
 Definition Workstreams Possible Actors Goal Build	899
 Definition Workstreams Possible Actors Goal Transform	899
 Definition and Analytical Framework	7966
 Definition and Coding Digital ID	10714
 Definition and Interpretation Rationale This Article	8866
 Definition du DLI Modulable	10876
+Definition of Access Way	11129
 Definition of Customer Categories Individual	5687
 Definition of GOS	236
 Definition of ICT	236
 Definition of Income and Financial Support	2307
 Definition of Key Terms	4610
+Definition of MTF	11136
+Definition of Postcode	11129
+Definition of Postcode Postcode	11129
 Definition of Roles and Competencies	3678
 Definition of SEP	3161
 Definition of SEP Section	3161
 Definitions	7,18,1,1,1,734,1545,854,342,211,258,1062,210,421,1167,706,3343,93,30
 Definitions Asbestos Asbestos	1988
+Definitions Central Bank Digital Currency	11130
 Definitions FEATURE PHONE OWNER	11004
 Definitions Implementers Organisations	11017
 Definitions PART	3714
@@ -253,6 +265,7 @@ Definição	2816,1331,71
 Definições	14,1,524,37,218,1643,1,428,653,755,2188,508,3777,7,1,28
 Definições Os	5169
 Definições Para	6462
+Deforestation Regulation	11149
 Democratic Deficit	7147
 Department of Defense	5216,71
 Description Digital Defenders Partnership	523,1034
@@ -317,6 +330,7 @@ Kenya Defence Forces	7548
 Kenya Defence Forces AI and Emerging Technologies	7548
 Kenya Defence Forces Act	9239
 Kenya Defense	7548
+Key CBDC Definitions	11130
 Key Definitions	4972
 Key Terms and Definitions	3651
 LA GUERRE ET DE LA DEFENSE	8321
@@ -337,7 +351,7 @@ Minister of National Defense	5270
 Ministerio de Defensa Nacional	6841
 Ministro da Defesa Nacional	4147
 Ministry Of Defense Unveils Information Systems	5270
-Ministry of Defence	1200,5449,1198
+Ministry of Defence	1200,5449,1198,3284,3
 Ministry of Defence and Security	2736
 Ministry of Defense	1000,2604
 Ministry of National Defence	1886,3421
@@ -407,6 +421,7 @@ STARTUPS VC AI DefenseTech OPINIONS EVENTS	10068
 Saudi Arabia. The Ministry of Defence	10701
 Saudi Ministry of Defence	10701
 Secretario de Estado de Defensa Nacional	1855
+Secretary Ministry for Defence Mr. Ephraem V	11134
 Sector da Defesa	2816
 Sectores de Defesa	794
 Segundo Jefe Cuerpo Ministerio Defensa Sub-Director	4209

@@ -254,7 +254,7 @@ Pagamentos	576,218
 Pagamentos Digitais	10325
 Pagamentos Eletrónicos	7948
 Pagamentos Para	7948
-Pagano	3791
+Pagano	3791,7365
 Pagano M	3791
 Pagas Extraordinarias	4209
 Page ADDENDUM	5793
@@ -276,7 +276,7 @@ Page3 Para	4732
 Page4 Para	4732
 Page8 Para	4732
 PageSuite	11122
-Pages	285,37,639,381,186,286,14,797,52,139,2008,539,318,92,1366,35,146,150,643,267,153,70,130,158,725,1235
+Pages	285,37,639,381,186,286,14,797,52,139,2008,539,318,92,1366,35,146,150,643,267,153,70,130,158,725,1235,289,14
 Pages Foreword	26,1,1
 Paginacao	1526
 Pagos	4209
@@ -397,5 +397,6 @@ World Bank Page	6539
 World Bank. Page	437,10331
 World Bank.2024. Page	6539
 Y PAGINA WEB BIBLIOTECAS E NACIONAL	4209
+Year Page	11152
 Year Value Page	6928
 Zimbabwe Digital Health Case Study Page	3385
