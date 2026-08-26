@@ -17,19 +17,19 @@ document (`progress-report-redesign.md` §1) and are not in scope.
 ## Done
 
 ERI and ZAF were the pilots. This pass has since added, in order: **GNB, AGO, BDI, BEN, BFA, BWA,
-CAF, CIV** — 10 of 54, one commit each, all pushed.
+CAF, CIV, CMR** — 11 of 54, one commit each, all pushed.
 
 Yields so far, as a sense of shape: 21 indicators from GNB's 25 ledger rows, 43 from BDI's 74, 52
 from BWA's 107, 57 from BEN's 105, 64 from BFA's 131, 66 from AGO's 122, 43 from CAF's 92, 92 from
-CIV's 167. Between three quarters and nine tenths of ledger rows map; the rest are placeholders with
+CIV's 167, 73 from CMR's 121. Between three quarters and nine tenths of ledger rows map; the rest are placeholders with
 no source, or real instruments the frame has no question for (a telecoms statute, a broadcasting
 transition), and those correctly stay on the ledger and out of the report.
 
 ## Remaining
 
-44 country units: CMR, COD, COG, COM, CPV, DJI, DZA, EGY, ETH, GAB, GHA, GIN, GMB, GNQ, KEN, LBR,
-LBY, LSO, MAR, MDG, MLI, MOZ, MRT, MUS, MWI, NAM, NER, NGA, RWA, SDN, SEN, SLE, SOM, SSD, STP, SWZ,
-SYC, TCD, TGO, TUN, TZA, UGA, ZMB, ZWE.
+43 country units: COD, COG, COM, CPV, DJI, DZA, EGY, ETH, GAB, GHA, GIN, GMB, GNQ, KEN, LBR, LBY,
+LSO, MAR, MDG, MLI, MOZ, MRT, MUS, MWI, NAM, NER, NGA, RWA, SDN, SEN, SLE, SOM, SSD, STP, SWZ, SYC,
+TCD, TGO, TUN, TZA, UGA, ZMB, ZWE.
 
 ## The loop, per unit
 
@@ -105,3 +105,18 @@ mandate opening two different indicators with the same sentence. The test is not
 reading — if the second cell's opening clause could be pasted into the first, that indicator has no
 evidence of its own and should say so. Counting uses mechanically is still worth doing, as the prompt
 to go and reread them.
+
+## What CMR added, 2026-08-26
+
+**Some units carry unsourced *Not held* placeholders and some do not, and the difference is large.**
+Every one of CIV's ten Not-held rows carried a source and all ten were mapped; seven of CMR's carried
+none and none could be. Those seven are the whole of CMR's unmapped residue — there is no ledger row
+here that the frame simply has no question for. Check the placeholders first: it tells you in one
+pass how much of a ledger is mappable, and `lint-indicators-draft.py` refuses the mapping outright
+rather than letting it reach check I.
+
+**The register's first-person test fires on place names.** `Limbe I` is a real council and reads to
+the check as the first-person pronoun, because the pattern is case-sensitive and unanchored to
+context. It is not a bug worth changing — the same case-sensitivity is what stops `US$40m` firing —
+so the drafting move is to name the place another way. Expect the same on any `Region I`, `Phase II`
+or `Zone I` a source uses.
