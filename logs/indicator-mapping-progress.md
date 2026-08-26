@@ -17,19 +17,19 @@ document (`progress-report-redesign.md` §1) and are not in scope.
 ## Done
 
 ERI and ZAF were the pilots. This pass has since added, in order: **GNB, AGO, BDI, BEN, BFA, BWA,
-CAF, CIV, CMR, COD, COG** — 13 of 54, one commit each, all pushed.
+CAF, CIV, CMR, COD, COG, COM** — 14 of 54, one commit each, all pushed.
 
 Yields so far, as a sense of shape: 21 indicators from GNB's 25 ledger rows, 43 from BDI's 74, 52
 from BWA's 107, 57 from BEN's 105, 64 from BFA's 131, 66 from AGO's 122, 43 from CAF's 92, 92 from
-CIV's 167, 73 from CMR's 121, 67 from COD's 123, 52 from COG's 103. Between three quarters and nine tenths of ledger rows map; the rest are placeholders with
+CIV's 167, 73 from CMR's 121, 67 from COD's 123, 52 from COG's 103, 45 from COM's 117. Between three quarters and nine tenths of ledger rows map; the rest are placeholders with
 no source, or real instruments the frame has no question for (a telecoms statute, a broadcasting
 transition), and those correctly stay on the ledger and out of the report.
 
 ## Remaining
 
-41 country units: COM, CPV, DJI, DZA, EGY, ETH, GAB, GHA, GIN, GMB, GNQ, KEN, LBR, LBY, LSO, MAR,
-MDG, MLI, MOZ, MRT, MUS, MWI, NAM, NER, NGA, RWA, SDN, SEN, SLE, SOM, SSD, STP, SWZ, SYC, TCD, TGO,
-TUN, TZA, UGA, ZMB, ZWE.
+40 country units: CPV, DJI, DZA, EGY, ETH, GAB, GHA, GIN, GMB, GNQ, KEN, LBR, LBY, LSO, MAR, MDG,
+MLI, MOZ, MRT, MUS, MWI, NAM, NER, NGA, RWA, SDN, SEN, SLE, SOM, SSD, STP, SWZ, SYC, TCD, TGO, TUN,
+TZA, UGA, ZMB, ZWE.
 
 ## The loop, per unit
 
@@ -137,3 +137,18 @@ the pre-lint refused it against the frame, and the row belongs in
 `dpi.id--registration-of-entire-population` as a second development. **The frame is not extended by a
 mapping pass** — an indicator is added by editing `lookups/indicators.csv`, which is a decision about
 all fifty-four countries and not about one row.
+
+## What COM added, 2026-08-27
+
+**Ledger size does not predict indicator count; the placeholder share does.** COM's ledger is 117
+rows, larger than COG's 103, and yields fewer indicators — 45 against 52 — because thirty-five of its
+rows are unsourced *Not held* placeholders and only twelve of COG's are. On a base this thin the
+placeholders are the country's own record of what it has said it would build and never has: an
+observatory designed in 2018, a data-protection authority provided for in 2021, a start-up statute,
+a universal service fund. They are correctly unmapped, and the frame prints them as No evidence,
+which is the same finding read from the other end.
+
+**Count the sourced rows before drafting, not the ledger rows.** `ls` on the ledger tells you nothing
+about how much work a unit is. One line — rows whose status is *Not held* with an empty `sources`
+field — gives the real size, and on the eight units mapped since CIV it has ranged from zero to
+thirty-five out of a hundred-odd.
