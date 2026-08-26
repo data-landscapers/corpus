@@ -48,7 +48,7 @@ Flat to `new-queue\YYYY-MM-DD-slug.md`, best-effort frontmatter per the daily sw
 
 ## 6. Delegation
 
-One country per run. **The parent applies §0's skip first** — one cheap read of the prior run CSVs — writes the `skipped-prior-nil` rows itself, and slices only the **live** gaps, so batches are sized on work rather than part-filled with no-ops. Then **~10–12 live gaps per sub-agent, grouped by Level-1** so related briefs are screened and deduped side by side; the parent owns every spawn, no sub-agent spawns another, and each is labelled with its slice (`filler ZAF 2/4 dpi+digital`). Each sub-agent returns a terse tally only — per indicator, the §7 row fields (`outcome`, counts, `subject_rows_at_probe`) — never bodies.
+One country per run. **The parent applies §0's skip first** — one cheap read of the prior run CSVs — writes the `skipped-prior-nil` rows itself, and slices only the **live** gaps, so batches are sized on work rather than part-filled with no-ops. Then **~10–12 live gaps per sub-agent, grouped by Level-1** so related briefs are screened and deduped side by side — **merging adjacent small chapters to fill a batch**, which the label example below already shows, because the chapters are not the right size on their own: ZAF's 44 gaps sit across ten Level-1 chapters and only DPI (11) reaches the band, seven holding five or fewer and two holding one. Strict grouping would spawn ten mostly-empty sub-agents; merged, ZAF is four. The parent owns every spawn, no sub-agent spawns another, and each is labelled with its slice (`filler ZAF 2/4 dpi+digital`). Each sub-agent returns a terse tally only — per indicator, the §7 row fields (`outcome`, counts, `subject_rows_at_probe`) — never bodies.
 
 ## 7. Cost accounting — the actual deliverable
 
