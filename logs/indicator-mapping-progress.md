@@ -17,19 +17,18 @@ document (`progress-report-redesign.md` §1) and are not in scope.
 ## Done
 
 ERI and ZAF were the pilots. This pass has since added, in order: **GNB, AGO, BDI, BEN, BFA, BWA,
-CAF, CIV, CMR, COD, COG, COM, CPV, DJI, DZA** — 17 of 54, one commit each, all pushed.
+CAF, CIV, CMR, COD, COG, COM, CPV, DJI, DZA, EGY** — 18 of 54, one commit each, all pushed.
 
 Yields so far, as a sense of shape: 21 indicators from GNB's 25 ledger rows, 43 from BDI's 74, 52
 from BWA's 107, 57 from BEN's 105, 64 from BFA's 131, 66 from AGO's 122, 43 from CAF's 92, 92 from
-CIV's 167, 73 from CMR's 121, 67 from COD's 123, 52 from COG's 103, 45 from COM's 117, 49 from CPV's 140, 43 from DJI's 70, 58 from DZA's 111. Between three quarters and nine tenths of ledger rows map; the rest are placeholders with
+CIV's 167, 73 from CMR's 121, 67 from COD's 123, 52 from COG's 103, 45 from COM's 117, 49 from CPV's 140, 43 from DJI's 70, 58 from DZA's 111, 66 from EGY's 199. Between three quarters and nine tenths of ledger rows map; the rest are placeholders with
 no source, or real instruments the frame has no question for (a telecoms statute, a broadcasting
 transition), and those correctly stay on the ledger and out of the report.
 
 ## Remaining
 
-37 country units: EGY, ETH, GAB, GHA, GIN, GMB, GNQ, KEN, LBR, LBY, LSO, MAR, MDG, MLI, MOZ, MRT,
-MUS, MWI, NAM, NER, NGA, RWA, SDN, SEN, SLE, SOM, SSD, STP, SWZ, SYC, TCD, TGO, TUN, TZA, UGA, ZMB,
-ZWE.
+36 country units: ETH, GAB, GHA, GIN, GMB, GNQ, KEN, LBR, LBY, LSO, MAR, MDG, MLI, MOZ, MRT, MUS,
+MWI, NAM, NER, NGA, RWA, SDN, SEN, SLE, SOM, SSD, STP, SWZ, SYC, TCD, TGO, TUN, TZA, UGA, ZMB, ZWE.
 
 ## The loop, per unit
 
@@ -168,3 +167,17 @@ five pre-lint failures were the same shape: a percentage quoted in a following s
 comparison, its source sitting in the sentence before. Either pull the figure back inside the cited
 clause or write the comparison without the number — both read better than a second citation on the
 same source two sentences apart.
+
+## What EGY added, 2026-08-27
+
+**The thickest unit so far, and the word band is what bites on it.** 145 sourced rows produced 66
+indicators, several of them carrying four or five ledger rows, and two developments cells came back
+over the 200-word band on the pre-lint's second pass. On a unit this size the band, not the register,
+is the binding constraint: budget about three dated paragraphs per cell and cut the qualifying
+clauses first, since they are the part a reader can infer from the citation.
+
+**Ten units in, the pattern in the residue is settled.** Every unit since CIV has left unmapped only
+two kinds of row: unsourced *Not held* placeholders, which the conventions and the pre-lint both
+refuse, and a handful of instruments the frame has no question for - a telecoms statute, a regulatory
+council. Where a sourced row looks unmappable, it almost always belongs in an existing cell as a
+second or third development rather than in an indicator of its own.
