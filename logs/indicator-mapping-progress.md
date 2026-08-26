@@ -17,19 +17,19 @@ document (`progress-report-redesign.md` §1) and are not in scope.
 ## Done
 
 ERI and ZAF were the pilots. This pass has since added, in order: **GNB, AGO, BDI, BEN, BFA, BWA,
-CAF** — 9 of 54, one commit each, all pushed.
+CAF, CIV** — 10 of 54, one commit each, all pushed.
 
 Yields so far, as a sense of shape: 21 indicators from GNB's 25 ledger rows, 43 from BDI's 74, 52
-from BWA's 107, 57 from BEN's 105, 64 from BFA's 131, 66 from AGO's 122, 43 from CAF's 92. Between
-three quarters and nine tenths of ledger rows map; the rest are placeholders with no source, or real
-instruments the frame has no question for (a telecoms statute, a broadcasting transition), and those
-correctly stay on the ledger and out of the report.
+from BWA's 107, 57 from BEN's 105, 64 from BFA's 131, 66 from AGO's 122, 43 from CAF's 92, 92 from
+CIV's 167. Between three quarters and nine tenths of ledger rows map; the rest are placeholders with
+no source, or real instruments the frame has no question for (a telecoms statute, a broadcasting
+transition), and those correctly stay on the ledger and out of the report.
 
 ## Remaining
 
-45 country units: CIV, CMR, COD, COG, COM, CPV, DJI, DZA, EGY, ETH, GAB, GHA, GIN, GMB, GNQ, KEN,
-LBR, LBY, LSO, MAR, MDG, MLI, MOZ, MRT, MUS, MWI, NAM, NER, NGA, RWA, SDN, SEN, SLE, SOM, SSD, STP,
-SWZ, SYC, TCD, TGO, TUN, TZA, UGA, ZMB, ZWE.
+44 country units: CMR, COD, COG, COM, CPV, DJI, DZA, EGY, ETH, GAB, GHA, GIN, GMB, GNQ, KEN, LBR,
+LBY, LSO, MAR, MDG, MLI, MOZ, MRT, MUS, MWI, NAM, NER, NGA, RWA, SDN, SEN, SLE, SOM, SSD, STP, SWZ,
+SYC, TCD, TGO, TUN, TZA, UGA, ZMB, ZWE.
 
 ## The loop, per unit
 
@@ -83,3 +83,25 @@ oblige under use, its cost under financing.
 **A *Not held* row with no source is a placeholder and is not mapped**; one that carries a source is
 a dated, cited statement that a thing is absent, and it is mapped. Most units carry a handful of the
 first kind and they are the reason the mapped-row counts above are not higher.
+
+## What CIV added, 2026-08-26
+
+The thickest ledger mapped so far — 167 rows, 92 indicators — settled two things.
+
+**The pre-lint the section above asks for now exists: `scripts/lint-indicators-draft.py`.** It reads
+a draft and the unit's ledger and applies every rule in that list plus the vocabulary, the frame
+membership and the placeholder rule, in about a second and without a render. Run it on the draft
+before the file goes into `outputs/`. On this unit it caught the semicolon-inside-a-link-label trap
+on its first run and a bare figure on its second, and the two real checks then passed first time —
+which is the point of it, because on a 92-indicator unit a failing round trip through the renderer
+costs several minutes. It does not replace the real checks: it cannot see the catalogue, so check M
+still has work to do.
+
+**Three uses of one ledger row is the ceiling, and each use must be a different fact.** One row here
+reaches three, the monetary union's digital financial services report, read once for account uptake,
+once for what the central bank supervises and once for the country's share of union transaction
+value. Two cells were rewritten to get there: the first draft had the regional instant-payment
+mandate opening two different indicators with the same sentence. The test is not a count but a
+reading — if the second cell's opening clause could be pasted into the first, that indicator has no
+evidence of its own and should say so. Counting uses mechanically is still worth doing, as the prompt
+to go and reread them.
