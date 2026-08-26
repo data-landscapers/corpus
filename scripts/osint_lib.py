@@ -75,7 +75,7 @@ def ingest_started() -> dt.datetime | None:
 
     **This is the bulletin's *Last updated*, because it is the moment collection stopped**
     *(Bill, 2026-08-23)*. What a reader is being told is *how recent is the material here*, and
-    the honest answer is the point after which nothing more could have been caught - the end of
+    the defensible answer is the point after which nothing more could have been caught - the end of
     the last sweep, `SWEEP-COUNTRY-DEEP` on a nightly cycle. Ingest is the step that follows
     collection and reads what it staged, so **the start of ingest is the proxy for the end of
     collection**, and the two are minutes apart: on 2026-08-22 the last country-deep batch closed

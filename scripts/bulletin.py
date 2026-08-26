@@ -54,7 +54,7 @@ as the other.
 
 **And the moment it names is when collection stopped, which is the start of ingest and not the
 end of it** *(Bill, 2026-08-23)*. What the reader is being told is how recent the material is,
-and the honest bound on that is the point after which nothing more could have been caught — the
+and the defensible bound on that is the point after which nothing more could have been caught — the
 end of the last sweep, `SWEEP-COUNTRY-DEEP` on a nightly cycle. Ingest is the step that reads
 what collection staged, so its **start** is the proxy, minutes after the sweep it follows: on
 2026-08-22 the last country-deep batch closed at 23:29 and the first slice ingested at 23:55.
@@ -73,12 +73,41 @@ reconcile and an acquire drain into the 21:12 nightly sweep, with no gap wider t
 that stopped moving at 22:57 — the documented failure mode, *merging two runs reports an earlier
 start*, understating the page's freshness by five and a half hours on a day the sweep had run.
 
-The proxy stays as the fallback, and the choice is guarded both ways. A close **older** than the
-start of the newest ingest run is a stale rotation table, not a later fact, and is refused — a
-mirror synced before the closing row was written would otherwise date the byline to yesterday's
-cycle while today's catch sat on the page. A close in the future beyond `osint_lib.SKEW` is
-refused on the same terms `_newest_stamp` refuses one, being a claim about work that has not
-happened. In both cases the run falls back to `ingest_started()` and names which clock it used.
+**Three things update this document and only one of them closes a cycle** *(Bill, 2026-08-26)*.
+A nightly `SWEEP-CYCLE` writes a rotation row whose `End` is a true artefact of collection
+stopping. `@UPDATE-WIKI` and `SWEEP-BULLETIN` write no row at all — deliberately, since a run at
+11:00 must not shorten tonight's cycle window — so all either leaves is a `## {timestamp} (ingest
+…)` heading, which is an artefact of **admission** and not of collection. There is no artefact
+anywhere on the mirror recording when those two finished sweeping or when their ingest began, and
+the batch labels in the headings cannot stand in for one: they are hand-written free text, and on
+2026-08-25 a single night's cycle slices went in as *sweep cycle day 1*, *slice 13/17* and
+*newspapers/thinktanks 2026-08-25*.
+
+**So the close is preferred only while nothing has been admitted since it, and the newest ingest
+is the reading once something has** *(2026-08-26, second pass)*. The run-walk cannot be the
+fallback here, and the top-up of 2026-08-26 is why: the cycle closed at 22:57 on the 25th, two
+`@UPDATE-WIKI` ingests followed at 08:04 and 09:16, and `SWEEP-BULLETIN`'s own ingest landed at
+12:20 — one gap of 3h04 inside a four-hour window, so the walk merged all three and answered
+08:04, which is the moment neither collection event stopped. It understated a page built on
+material collected until 12:20 by more than four hours, on the one document whose whole purpose
+is to say *today*. The close was refused correctly, being yesterday's; the proxy behind it was
+wrong.
+
+The newest heading is an **upper** bound — collection for it stopped at or before it — so this is
+the one reading in this module that can overstate, by however long the ingest behind it ran. On a
+top-up that is minutes: OSINT's ingest heading said 12:20 and Bill put the sweep's completion at
+12:23. On a night's catch it would be hours, which is why the close outranks it whenever the close
+is the later fact. **The bound disappears the moment OSINT records a sweep's finish**, which is
+`notes-for-osint.md` note 45; until then it is the tightest statement the mirror supports.
+
+A close in the future beyond `osint_lib.SKEW` is refused on the same terms `_newest_stamp`
+refuses one, being a claim about work that has not happened, and the run then falls back to
+`ingest_started()` and names which clock it used. The other old guard — refusing a close older
+than the ingest run's start as a stale rotation table — has gone, because *older than the newest
+ingest* is now the ordinary top-up case rather than a symptom. What it was protecting against, a
+nightly build reading a table synced before the closing row was written, is already excluded a
+step earlier: `osint-cycle-ready.py` gates that build on `max(End)` moving, so a cycle whose close
+has not reached the mirror does not trigger a build at all.
 
 **The two stamps in the frontmatter answer two questions and are both kept.** `collected_to:` is
 the byline's — when the material stopped moving. `compiled:` stays what it was, the newest ingest
@@ -661,18 +690,20 @@ def stamps_for(now: datetime | None = None) -> tuple[str, str, str]:
     """`(collected_to, compiled, where they came from)`, each `YYYY-MM-DD HH:MM`.
 
     `compiled` is the newest ingest stamp. `collected_to` is when collection stopped: the sweep
-    cycle's own close where the mirror carries a usable one, the start of the newest ingest run
-    as the fallback where it does not — see the module docstring for why that order, and for the
-    two ways a close is refused. The build clock stands in for both where the mirror cannot be
-    read at all. The source is returned rather than logged here so that `--assemble` can print
-    it: a fallback nobody is told about is a fallback that becomes the normal case without
-    anyone noticing."""
+    cycle's own close where the mirror carries a usable one and nothing has been admitted since
+    it, the newest ingest where something has, and the start of the newest ingest run only where
+    no close can be read at all — see the module docstring for why that order and what each
+    reading costs. The build clock stands in for both where the mirror cannot be read. The source
+    is returned rather than logged here so that `--assemble` can print it: a fallback nobody is
+    told about is a fallback that becomes the normal case without anyone noticing."""
     started, newest = osint_lib.ingest_started(), osint_lib.last_ingest()
     if started is None or newest is None:
         return ((now or datetime.now()).strftime(osint_lib.TS),) * 2 + (BUILD_CLOCK,)
 
     closed = osint_lib.last_cycle_close()
-    if closed is not None and started < closed <= (now or datetime.now()) + osint_lib.SKEW:
+    if closed is not None and closed <= (now or datetime.now()) + osint_lib.SKEW:
+        if newest > closed:
+            return newest.strftime(osint_lib.TS), newest.strftime(osint_lib.TS), "OSINT ingest since the cycle close"
         return closed.strftime(osint_lib.TS), newest.strftime(osint_lib.TS), "OSINT sweep cycle close"
     return started.strftime(osint_lib.TS), newest.strftime(osint_lib.TS), "OSINT ingest start"
 
