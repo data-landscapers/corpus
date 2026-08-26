@@ -17,22 +17,25 @@ document (`progress-report-redesign.md` §1) and are not in scope.
 ## Done
 
 ERI and ZAF were the pilots. This pass has since added, in order: **GNB, AGO, BDI, BEN, BFA, BWA,
-CAF, CIV, CMR, COD, COG, COM, CPV** — 15 of 54, one commit each, all pushed.
+CAF, CIV, CMR, COD, COG, COM, CPV, DJI** — 16 of 54, one commit each, all pushed.
 
 Yields so far, as a sense of shape: 21 indicators from GNB's 25 ledger rows, 43 from BDI's 74, 52
 from BWA's 107, 57 from BEN's 105, 64 from BFA's 131, 66 from AGO's 122, 43 from CAF's 92, 92 from
-CIV's 167, 73 from CMR's 121, 67 from COD's 123, 52 from COG's 103, 45 from COM's 117, 49 from CPV's 140. Between three quarters and nine tenths of ledger rows map; the rest are placeholders with
+CIV's 167, 73 from CMR's 121, 67 from COD's 123, 52 from COG's 103, 45 from COM's 117, 49 from CPV's 140, 43 from DJI's 70. Between three quarters and nine tenths of ledger rows map; the rest are placeholders with
 no source, or real instruments the frame has no question for (a telecoms statute, a broadcasting
 transition), and those correctly stay on the ledger and out of the report.
 
 ## Remaining
 
-39 country units: DJI, DZA, EGY, ETH, GAB, GHA, GIN, GMB, GNQ, KEN, LBR, LBY, LSO, MAR, MDG, MLI,
-MOZ, MRT, MUS, MWI, NAM, NER, NGA, RWA, SDN, SEN, SLE, SOM, SSD, STP, SWZ, SYC, TCD, TGO, TUN, TZA,
-UGA, ZMB, ZWE.
+38 country units: DZA, EGY, ETH, GAB, GHA, GIN, GMB, GNQ, KEN, LBR, LBY, LSO, MAR, MDG, MLI, MOZ,
+MRT, MUS, MWI, NAM, NER, NGA, RWA, SDN, SEN, SLE, SOM, SSD, STP, SWZ, SYC, TCD, TGO, TUN, TZA, UGA,
+ZMB, ZWE.
 
 ## The loop, per unit
 
+0. Dump **only the sourced rows** and read those. A one-line filter on `sources` being non-empty is
+   the whole of it, and it both sizes the unit honestly and makes the coverage check at the end a
+   comparison of two numbers (see *What COM added* and *What CPV added* below).
 1. Read the ledger. Every field earns its place: `subject` says where the row was filed and **not**
    which indicator it answers, `movement` is the ledger's vocabulary and not this one, and `note`
    usually carries the qualification the prose needs.
