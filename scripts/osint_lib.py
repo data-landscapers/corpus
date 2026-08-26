@@ -110,10 +110,19 @@ def ingest_started() -> dt.datetime | None:
 def last_cycle_close() -> dt.datetime | None:
     """When a sweep cycle last closed, from the rotation table's `End` column.
 
-    A few minutes after the ingest that ran inside it — 00:05 against 00:14 on 2026-08-21 — so
-    it is the cruder of the two and is here as a second opinion rather than a fallback. Nothing
-    calls it yet; `osint-cycle-ready.py` reads the same table for its own purposes and needs the
-    whole row, not just the stamp.
+    A few minutes after the ingest that ran inside it — 00:05 against 00:14 on 2026-08-21 — and
+    that is not crudeness, it is the fact `ingest_started()` approximates. **It is the bulletin's
+    *Last updated* where it can be read** *(2026-08-26)*, because Bill's 2026-08-23 ruling named
+    the end of the last sweep and this is that, where the start of ingest was only the proxy
+    available at the time. `bulletin.stamps_for()` carries the guards; `lint-osint-freshness.py`
+    reads it as one of three clocks; `osint-cycle-ready.py` reads the same table for its own
+    purposes and needs the whole row, not just the stamp.
+
+    Unguarded in two ways its callers must handle, both of which follow from this being a mirror.
+    A table synced before the closing row was written returns an **older** close than the ingest
+    inside the same cycle, and a mistyped `End` is not checked against the clock here the way
+    `_newest_stamp` checks an ingest stamp — there is one row to be wrong, so a maximum over the
+    column is no protection.
     """
     if not os.path.exists(CYCLE_LOG):
         return None

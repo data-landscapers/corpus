@@ -63,6 +63,23 @@ catch runs on for hours after collection has stopped — on 2026-08-23 it read 0
 that stopped moving at 23:55 the previous evening. Nothing was collected in those five and a
 half hours; they were spent writing up what already had been. `osint_lib.ingest_started()`.
 
+**The sweep cycle's own close is preferred over that proxy where the mirror carries it**
+*(2026-08-26)*. Bill's ruling named the end of the last sweep; the start of ingest was only ever
+the stand-in for a fact Corpus could not then read. `osint_lib.last_cycle_close()` reads it
+directly, from the rotation table's `End` column, and the proxy has now been seen to fail: on
+2026-08-25 ingest ran unbroken from a 15:30 bulletin top-up through a CMR status-acquire, a
+reconcile and an acquire drain into the 21:12 nightly sweep, with no gap wider than 1h52m in it.
+`INGEST_RUN_GAP` is four hours, so the run-walk found no boundary and reported 15:30 for material
+that stopped moving at 22:57 — the documented failure mode, *merging two runs reports an earlier
+start*, understating the page's freshness by five and a half hours on a day the sweep had run.
+
+The proxy stays as the fallback, and the choice is guarded both ways. A close **older** than the
+start of the newest ingest run is a stale rotation table, not a later fact, and is refused — a
+mirror synced before the closing row was written would otherwise date the byline to yesterday's
+cycle while today's catch sat on the page. A close in the future beyond `osint_lib.SKEW` is
+refused on the same terms `_newest_stamp` refuses one, being a claim about work that has not
+happened. In both cases the run falls back to `ingest_started()` and names which clock it used.
+
 **The two stamps in the frontmatter answer two questions and are both kept.** `collected_to:` is
 the byline's — when the material stopped moving. `compiled:` stays what it was, the newest ingest
 stamp, and is what the edition picker shows against a dated PDF: not *when did we stop looking*
@@ -631,17 +648,33 @@ def held_stamps(path: Path) -> tuple[str, str] | None:
     return None
 
 
+# The one source string that means *the mirror could not be read*, named rather than repeated
+# because the check for it used to be a literal at each end and the two drifted the moment the
+# readable sources gained names *(2026-08-26)*. Splitting "OSINT ingest" into "OSINT ingest
+# start" and "OSINT sweep cycle close" left `source != "OSINT ingest"` true on a mirror that had
+# just been read perfectly well, so a run reading three clocks announced it could read none —
+# a false alarm on the one line whose whole job is to be believed.
+BUILD_CLOCK = "build clock (mirror unreadable)"
+
+
 def stamps_for(now: datetime | None = None) -> tuple[str, str, str]:
     """`(collected_to, compiled, where they came from)`, each `YYYY-MM-DD HH:MM`.
 
-    The start and the end of OSINT's most recent ingest run where the mirror can be read, the
-    build clock for both where it cannot. The source is returned rather than logged here so that
-    `--assemble` can print it: a fallback nobody is told about is a fallback that becomes the
-    normal case without anyone noticing."""
+    `compiled` is the newest ingest stamp. `collected_to` is when collection stopped: the sweep
+    cycle's own close where the mirror carries a usable one, the start of the newest ingest run
+    as the fallback where it does not — see the module docstring for why that order, and for the
+    two ways a close is refused. The build clock stands in for both where the mirror cannot be
+    read at all. The source is returned rather than logged here so that `--assemble` can print
+    it: a fallback nobody is told about is a fallback that becomes the normal case without
+    anyone noticing."""
     started, newest = osint_lib.ingest_started(), osint_lib.last_ingest()
-    if started is not None and newest is not None:
-        return started.strftime(osint_lib.TS), newest.strftime(osint_lib.TS), "OSINT ingest"
-    return ((now or datetime.now()).strftime(osint_lib.TS),) * 2 + ("build clock (mirror unreadable)",)
+    if started is None or newest is None:
+        return ((now or datetime.now()).strftime(osint_lib.TS),) * 2 + (BUILD_CLOCK,)
+
+    closed = osint_lib.last_cycle_close()
+    if closed is not None and started < closed <= (now or datetime.now()) + osint_lib.SKEW:
+        return closed.strftime(osint_lib.TS), newest.strftime(osint_lib.TS), "OSINT sweep cycle close"
+    return started.strftime(osint_lib.TS), newest.strftime(osint_lib.TS), "OSINT ingest start"
 
 
 def assemble(run_date: date, now: datetime | None = None) -> int:
@@ -702,7 +735,7 @@ def assemble(run_date: date, now: datetime | None = None) -> int:
     # unchanged document prints a single line, and that line is where nobody would look. This
     # module's whole reason for returning `None` rather than guessing is that the caller says
     # which it got, and a caller that says so only when it happens to be writing does not.
-    if source != "OSINT ingest":
+    if source == BUILD_CLOCK:
         print(f"mirror     {osint_lib.MIRROR} unreadable — no ingest stamp available this run")
 
     if excluded:
