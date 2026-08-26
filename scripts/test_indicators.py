@@ -117,6 +117,14 @@ check("a raw URL is left alone — check M refuses it rather than the renderer r
       "[x](https://example.com/raw)")
 check("and is not counted unresolved", un3, [])
 
+DOUBLE = "2026-07-10 SOLLY MALATSI  Removing smartphone tax means access to opportunity"
+un5 = []
+check("a slug with a double space inside it survives the cell's own flattening",
+      rr.developments_cell({"summary": f"the excise was [removed]({DOUBLE})."},
+                           {DOUBLE: "https://example.com/excise"}, un5),
+      "the excise was [removed](https://example.com/excise).")
+check("and nothing was reported unresolved", un5, [])
+
 print("\nthe developments cell")
 row = {"summary": "terse.", "developments": "one.\n\ntwo."}
 check("the summary leads and the full record follows in an expander",

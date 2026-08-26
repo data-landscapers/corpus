@@ -572,12 +572,19 @@ def developments_cell(row, urls, unresolved):
     set includes `md_in_html`, and links inside the element are converted like any others. The
     PDF prints it expanded, because a PDF has no expander and the full text is the document (§7).
     """
-    summary = cite_prose(cell(row.get("summary")), urls, unresolved)
+    # **Citations resolve before the cell is flattened, and the order is not cosmetic.**
+    # `cell()` collapses runs of whitespace, and 21 slugs in this base carry a double space
+    # inside them — a record's own title, kept verbatim. Flattening first rewrites the slug,
+    # `slug_urls()` then fails to match it, and the citation prints as plain text with the run
+    # counted only as an unresolved warning. Resolving first turns the slug into a URL, which
+    # has no whitespace left to collapse. Found on a ZAF row whose slug runs two spaces after
+    # a byline.
+    summary = cell(cite_prose(row.get("summary"), urls, unresolved))
     # A blank line in the drafted `developments` separates one dated development from the next.
     # It cannot survive as a blank line — a table cell is one line — so it becomes the break the
-    # reader would have seen anyway, before `cell()` flattens what is left.
+    # reader would have seen anyway, and each paragraph is flattened after its own citations go.
     paras = [p.strip() for p in re.split(r"\n\s*\n", row.get("developments") or "") if p.strip()]
-    full = cite_prose("<br><br>".join(cell(p) for p in paras), urls, unresolved)
+    full = "<br><br>".join(cell(cite_prose(p, urls, unresolved)) for p in paras)
     if not full:
         return summary
     return (f"{summary} <details><summary>Full record</summary>{full}</details>"
