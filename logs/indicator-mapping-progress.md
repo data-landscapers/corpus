@@ -17,19 +17,19 @@ document (`progress-report-redesign.md` §1) and are not in scope.
 ## Done
 
 ERI and ZAF were the pilots. This pass has since added, in order: **GNB, AGO, BDI, BEN, BFA, BWA,
-CAF, CIV, CMR** — 11 of 54, one commit each, all pushed.
+CAF, CIV, CMR, COD** — 12 of 54, one commit each, all pushed.
 
 Yields so far, as a sense of shape: 21 indicators from GNB's 25 ledger rows, 43 from BDI's 74, 52
 from BWA's 107, 57 from BEN's 105, 64 from BFA's 131, 66 from AGO's 122, 43 from CAF's 92, 92 from
-CIV's 167, 73 from CMR's 121. Between three quarters and nine tenths of ledger rows map; the rest are placeholders with
+CIV's 167, 73 from CMR's 121, 67 from COD's 123. Between three quarters and nine tenths of ledger rows map; the rest are placeholders with
 no source, or real instruments the frame has no question for (a telecoms statute, a broadcasting
 transition), and those correctly stay on the ledger and out of the report.
 
 ## Remaining
 
-43 country units: COD, COG, COM, CPV, DJI, DZA, EGY, ETH, GAB, GHA, GIN, GMB, GNQ, KEN, LBR, LBY,
-LSO, MAR, MDG, MLI, MOZ, MRT, MUS, MWI, NAM, NER, NGA, RWA, SDN, SEN, SLE, SOM, SSD, STP, SWZ, SYC,
-TCD, TGO, TUN, TZA, UGA, ZMB, ZWE.
+42 country units: COG, COM, CPV, DJI, DZA, EGY, ETH, GAB, GHA, GIN, GMB, GNQ, KEN, LBR, LBY, LSO,
+MAR, MDG, MLI, MOZ, MRT, MUS, MWI, NAM, NER, NGA, RWA, SDN, SEN, SLE, SOM, SSD, STP, SWZ, SYC, TCD,
+TGO, TUN, TZA, UGA, ZMB, ZWE.
 
 ## The loop, per unit
 
@@ -120,3 +120,20 @@ the check as the first-person pronoun, because the pattern is case-sensitive and
 context. It is not a bug worth changing — the same case-sensitivity is what stops `US$40m` firing —
 so the drafting move is to name the place another way. Expect the same on any `Region I`, `Phase II`
 or `Zone I` a source uses.
+
+## What COD added, 2026-08-27
+
+**Check L can fail on the old progress document and still gate nothing.** COD's `COD-progress.md`
+carries four unwritten narrative blocks, so `--check` reports `check L: FAIL` on a unit whose three
+indicator checks all pass. That document is replaced the next time the renderer runs and the mapping
+pass does not touch it. Read the indicator halves — `check I/L/M (indicators)` — and treat a check-L
+failure naming only `{ISO}-progress.md` or `{ISO}-status.md` as noise, which the loop above already
+says and which this is the first unit to actually demonstrate.
+
+**Fold a stray row into an existing indicator rather than minting one for it.** COD's Mbororo herder
+identification is a provincial operation on a named population and the frame has no question shaped
+like that. Writing `dpi.id--registration-of-a-named-population` would have been the natural mistake;
+the pre-lint refused it against the frame, and the row belongs in
+`dpi.id--registration-of-entire-population` as a second development. **The frame is not extended by a
+mapping pass** — an indicator is added by editing `lookups/indicators.csv`, which is a decision about
+all fifty-four countries and not about one row.
