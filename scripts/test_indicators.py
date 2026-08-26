@@ -103,6 +103,14 @@ un2 = []
 check("a target with spaces is matched too, so an ill-formed citation cannot print raw",
       rr.cite_prose("[x](not a slug at all)", URLS, un2), "x")
 check("and is reported", un2, ["not a slug at all"])
+un4 = []
+SLUG_PARENS = "2025-11-08 Digital 2026 Eritrea (DataReportal)"
+check("a slug carrying a bracketed qualifier resolves whole — 364 of the base's do",
+      rr.cite_prose(f"penetration [rose]({SLUG_PARENS}) year on year",
+                    {SLUG_PARENS: "https://example.com/dr"}, un4),
+      "penetration [rose](https://example.com/dr) year on year")
+check("and nothing was left over to print as text", un4, [])
+
 un3 = []
 check("a raw URL is left alone — check M refuses it rather than the renderer resolving it",
       rr.cite_prose("[x](https://example.com/raw)", URLS, un3),
@@ -285,6 +293,16 @@ check("and the developments column",
       sorted({lab for _, _, lab, _ in hits}), ["flash verb", "jargon"])
 check("a hit names the indicator and the field it is in",
       hits[0][1], IID + "/developments")
+
+# **A slug citation is not the drafter's prose.** This base cites by record title, so a target
+# runs to eight or ten words and 364 of them carry a bracketed qualifier. Counted, they blow an
+# 8-40 word band; read, they charge a source's own headline to the writer's register.
+LONG_SLUG = "2025-11-08 Digital 2026 Eritrea (DataReportal)"
+hits, band, _ = reg([dict(CLEAN,
+    summary=f"Connections [rose 8.2% year on year]({LONG_SLUG}) to 859,000, "
+            f"among Africa's lowest.")])
+check("a slug target with spaces and parens is not counted into the word budget", band, [])
+check("nor read as prose the register can charge to the drafter", hits, [])
 
 _, band, _ = reg([dict(CLEAN, summary="Too short.")])
 check("the budget catches a summary under band",

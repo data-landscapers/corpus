@@ -1,116 +1,205 @@
 ---
 title: Eritrea — progress report, August 2025 – August 2026
-compiled: 2026-08-25
-period: 2025-08-01 to 2026-08-25
+compiled: 2026-08-26
+period: 2025-08-01 to 2026-08-26
 place: ERI
 ledger_rows: 13
 not_held: 5
-record: d9626e2f0850
+indicators: 121
+record: cc5f5951dee4
 ---
 
 # Eritrea: progress report, August 2025 – August 2026
 
-*Of 13 systems and instruments on this place's ledger, 3 changed position between 2025-08-01 and 2026-08-25, 2 did not, 3 carry no stated baseline, and 5 are ***Not held*** at both ends.*
+This report asks the same set of questions of every country. The rows below are a fixed frame of indicators, one row each, chosen in advance and covering all thirty-eight subjects the base tracks — so what appears here is decided by the frame and not by whichever records happened to accumulate. Each row says what happened on that indicator during the period, with every claim linked to the source it rests on.
 
-*Shape check, run before the comparison: 11 sources for this place in the window — 4 in the earlier half (2025-11 to 2026-04), 7 in the later (2026-05 to 2026-08). The two halves are comparable, so the comparison is made over the whole window.*
+Where a row reads ***No evidence***, the base holds nothing on that indicator. **That is a statement about this base, not about the country** — it does not mean nothing exists, only that nothing has been collected here yet. The rows that carry evidence say what it is; the rows that do not are left to speak for themselves.
 
-**Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
+*The period is 2025-08-01 to 2026-08-26.*
 
-## Summary of the period
+**Progress values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Mixed* — the indicator's instruments moved in different directions in the period; the clause after the comma names which moved which way. *No change* — the base holds a standing position and nothing in the period touched it. ***No evidence*** — the base holds nothing on this indicator at all. A value may carry a qualifying clause after a comma, as in *Advanced, regulations still pending*.
 
-<!-- narrative: summary -->
-Two systems entered the record for the first time in this period, with no prior position held: [ASYCUDA World](https://shabait.com/2026/01/08/eritrea-launches-landmark-digital-customs-system), the customs platform inaugurated in January 2026 with a full transfer of source code to the Eritrean government, and the [Fourth Round Population and Health Survey (EPHS 2025)](https://www.undp.org/eritrea/news/driving-data-digital-technology-eritrea-strengthens-data-systems-landmark-survey), the country's first digitally-collected national survey in more than a decade. A [Bank of Eritrea legal notice](https://awate.com/deposit-your-money-or-else-eritreas-banking-ultimatum/) ordering all cash deposited into banks by 31 July 2026 also entered the record with no prior position held. Mobile connectivity advanced only marginally, from 22.2% [to 23.7% of the population](https://datareportal.com/reports/digital-2025-eritrea). Two positions were unchanged across the window: EriTel's own reported network-expansion figures, for which the base holds only a single May 2026 snapshot with nothing to compare it against, and the UNDP grant funding Eritrea's national statistics office, active since 2019 with no new development reported. [Eri-Chat](https://shabait.com/2025/11/01/eri-chat-offline-ai-app/), the offline AI app launched in April 2025 before the window opened, was already live at the period's start and remains so.
-<!-- /narrative -->
 
 ## Governance
 
-### Legislation and regulation
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| Topic | Indicator | Developments | Progress |
 |---|---|---|---|
-| Bank of Eritrea cash-deposit legal notice | ***Baseline not held*** | [In force; no definition given of an 'excessive amount' held outside banks, and no enforcement mechanism specified; deposit deadline 31 Jul 2026](https://awate.com/deposit-your-money-or-else-eritreas-banking-ultimatum/) | ***Baseline not held*** |
+| Strategies, plans and policies | Digital transformation strategy |  | ***No evidence*** |
+| Strategies, plans and policies | ICT strategy |  | ***No evidence*** |
+| Strategies, plans and policies | Broadband strategy |  | ***No evidence*** |
+| Strategies, plans and policies | Data storage / cloud strategy |  | ***No evidence*** |
+| Strategies, plans and policies | Data interoperability framework / roadmap |  | ***No evidence*** |
+| Strategies, plans and policies | AI strategy |  | ***No evidence*** |
+| Strategies, plans and policies | Data localisation policies |  | ***No evidence*** |
+| Strategies, plans and policies | Data governance policy |  | ***No evidence*** |
+| Strategies, plans and policies | Open data policy |  | ***No evidence*** |
+| Legislation and regulation | Data protection legislation |  | ***No evidence*** |
+| Legislation and regulation | Cybersecurity legislation |  | ***No evidence*** |
+| Legislation and regulation | Legislation covering digital id |  | ***No evidence*** |
+| Legislation and regulation | Digital payments legislation |  | ***No evidence*** |
+| Legislation and regulation | Legislation enabling data interoperability |  | ***No evidence*** |
+| Legislation and regulation | AI legislation / regulations |  | ***No evidence*** |
+| Legislation and regulation | E-commerce legislation |  | ***No evidence*** |
+| Legislation and regulation | Statistics legislation |  | ***No evidence*** |
+| Legislation and regulation | Access to information legislation |  | ***No evidence*** |
+| Data protection | Data protection authority |  | ***No evidence*** |
+| Data protection | National data protection readiness |  | ***No evidence*** |
+| Regional collaboration | Regional policy collaboration |  | ***No evidence*** |
+| Regional collaboration | Regional legal harmonisation |  | ***No evidence*** |
+| Regional collaboration | Shared regional infrastructure |  | ***No evidence*** |
+| Regional collaboration | Cross-border data transfers |  | ***No evidence*** |
+| Standards | National interoperability standards |  | ***No evidence*** |
+| Standards | National quality standards |  | ***No evidence*** |
+| Standards | Adoption of international standards |  | ***No evidence*** |
+| Public debate and participation in policymaking | Non-governmental contribution to national policy |  | ***No evidence*** |
+| Public debate and participation in policymaking | Open discussion of government policy |  | ***No evidence*** |
 
-<!-- narrative: governance -->
-The Bank of Eritrea's cash-deposit legal notice entered the record in this window with no prior position held; the base carries no data-protection instrument at either end.
-<!-- /narrative -->
 
 ## Finance
 
-### New investments
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| Topic | Indicator | Developments | Progress |
 |---|---|---|---|
-| UNDP 'Economic & Social Data Development Eritrea' grant (IATI 00099544) | ***Baseline not held*** | [Committed 2019, end year 2026 per IATI record; funds NSO statistical-capacity building, including the EPHS 2025 survey under the same D4D programme (see data.statistics)](https://open.undp.org/projects/00099544) | No change |
+| Domestic budget appropriations and expenditure | Sustainable domestic financing of digital transformation |  | ***No evidence*** |
+| MoUs and other agreements | Strategic relationships |  | ***No evidence*** |
+| New investments | Mobilisation of non-state finance |  | ***No evidence*** |
+| New investments | Development-partner project financing | UNDP's [statistical-capacity grant to the National Statistics Office](https://open.undp.org/projects/00099544) runs to 2026 and is the only development-partner financing on the ledger. <details><summary>Full record</summary>The standing position is a US$1,676,837 UNDP grant to the Government of Eritrea and the National Statistics Office, [committed in 2019 with an end year of 2026](https://open.undp.org/projects/00099544). Nothing in the twelve months to 2026-08-26 records a disbursement, an extension or a successor, and no second development partner appears anywhere on this ledger. The grant funds the statistical work reported under Censuses and surveys, so what movement there is shows up there rather than here.</details> | No change |
 
-<!-- narrative: finance -->
-The UNDP grant funding the National Statistics Office's data-development work is unchanged: committed in 2019 with an end year of 2026, it funded the capacity-building underlying EPHS 2025, and no new disbursement or milestone was reported in this window.
-<!-- /narrative -->
 
 ## ICT Infrastructure
 
-### Connectivity
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| Topic | Indicator | Developments | Progress |
 |---|---|---|---|
-| EriTel national network expansion programme | ***Baseline not held*** | [184 towers and accessories installed; landline renovation in six named towns plus the Naval Force Base; ~73km new cable laid; internet bandwidth risen to ~1,536 Mbps over the past decade; 35bn+ Nakfa cumulative investment claimed](https://shabait.com/2026/05/19/substantial-investment-in-expansion-of-communication-service/) | ***Baseline not held*** |
+| Connectivity | Mobile penetration | Active connections [reached 859,000, or 23.7% of the population, up 8.2% year on year](https://datareportal.com/reports/digital-2026-eritrea), among the lowest rates in Africa. <details><summary>Full record</summary>2025-11-08 — DataReportal's Digital 2026 report for Eritrea [puts active mobile connections at 859,000, 23.7% of the population, 49.3% of them broadband, and up 8.2% on the year](https://datareportal.com/reports/digital-2026-eritrea). [The previous edition](https://datareportal.com/reports/digital-2025-eritrea) is the comparison.<br><br>The direction is upward and the level is among the lowest in Africa. Both statements are true, and the second governs what sits downstream of it: a foundational digital ID, mobile money and any service assumed to reach a citizen through a handset all rest on this figure. No operator or regulator return on the ledger tests it.</details> | Advanced |
+| Connectivity | Internet usage |  | ***No evidence*** |
+| Connectivity | Mobile affordability |  | ***No evidence*** |
+| Connectivity | National fibre backbone | The ministry reports [about 73km of new cable laid and landline plant renovated in six towns](https://shabait.com/2026/05/19/substantial-investment-in-expansion-of-communication-service/); no independent measure of the backbone exists. <details><summary>Full record</summary>2026-05-19 — the minister responsible for communications [reported 184 towers installed, about 73km of new cable laid, and landline plant renovated in six named towns and at the Naval Force Base](https://shabait.com/2026/05/19/substantial-investment-in-expansion-of-communication-service/), against a claimed cumulative investment above 35 billion Nakfa.<br><br>The figures are the ministry's own, carried by state media, and nothing on the ledger tests them: no operator disclosure, no regulator return and no third-party measurement of the network appears for Eritrea in the window. EriTel remains the sole operator.</details> | Advanced, on the ministry's own figures |
+| Connectivity | International internet bandwidth | Bandwidth is [reported at about 1,536 Mbps after a decade of growth](https://shabait.com/2026/05/19/substantial-investment-in-expansion-of-communication-service/), and it is carried by satellite: [no submarine cable lands in Eritrea](https://russellsouthwood.substack.com/p/the-long-view-what-ict4d-did-for). <details><summary>Full record</summary>2026-05-19 — the ministry [put international bandwidth at about 1,536 Mbps, risen over the past decade](https://shabait.com/2026/05/19/substantial-investment-in-expansion-of-communication-service/).<br><br>2026-04-16 — the industry position is unchanged: Eritrea [is still the only one of Africa's coastal states with no cable landing](https://russellsouthwood.substack.com/p/the-long-view-what-ict4d-did-for), and cable firms describe a country that does not answer landing requests. [An earlier account of the same position](https://www.middleeasteye.net/news/cable-firms-eye-eritrea-yemen-houthi-attacks-threaten-internet-traffic) dates it to June 2024.<br><br>EriTel's international transit therefore runs on geostationary satellite, which is what a bandwidth figure of this size describes. The growth is real and the ceiling is the technology carrying it.</details> | Advanced, on a ministry figure, with no cable landing behind it |
+| Connectivity | Internet Exchange Points |  | ***No evidence*** |
+| Connectivity | Satellite broadband licensing and availability | Starlink [lists Eritrea with no planned launch date](https://mybroadband.co.za/news/broadband/658586-starlink-launches-in-27th-african-country-before-south-africa.html), one of seven African states without a timetable; the base holds no licence application or refusal. <details><summary>Full record</summary>2026-07-17 — Starlink's own availability map [still lists Eritrea as having no planned launch date](https://mybroadband.co.za/news/broadband/658586-starlink-launches-in-27th-african-country-before-south-africa.html), leaving it one of seven African states with no announced timetable, all of them in North Africa and the Horn. The position is the one the base carried at the start of the window.<br><br>What is not on the ledger is any Eritrean decision: no application, no refusal and no regulatory statement about satellite broadband appears, so the absence is recorded from the operator's side only.</details> | No change |
+| Data Storage | Local data centre capacity (all providers) |  | ***No evidence*** |
+| Data Storage | Local data centre capacity (national providers) |  | ***No evidence*** |
+| Data Storage | Off-site backup capacity |  | ***No evidence*** |
+| Energy | Sufficient energy and water for data centres |  | ***No evidence*** |
+| Energy | Grid reliability |  | ***No evidence*** |
+| Energy | Rural electrification |  | ***No evidence*** |
+| Technical Capacity | Robustness of government hardware and software |  | ***No evidence*** |
+| Technical Capacity | Local capacity to maintain, manage and develop government systems |  | ***No evidence*** |
+| Cybersecurity | National cybersecurity readiness |  | ***No evidence*** |
 
-<!-- narrative: ict-infrastructure -->
-The base holds a single dated snapshot of EriTel's own reported network-expansion figures — [184 towers, roughly 90% geographic mobile coverage and international bandwidth risen to about 1,536 Mbps over the preceding decade, as stated by the Minister of Transportation and Communications in May 2026](https://shabait.com/2026/05/19/substantial-investment-in-expansion-of-communication-service/) — with no earlier figure on record to compare it against, so no movement can be stated for the programme itself. Eritrea's international-connectivity position is unchanged at both ends of the window: no submarine cable landing, and, as of July 2026, no Starlink launch date.
-<!-- /narrative -->
 
 ## DPI
 
-### Data Exchange
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| Topic | Indicator | Developments | Progress |
 |---|---|---|---|
-| ASYCUDA World customs platform | 2007-era paper-based customs software (no ASYCUDA) | [ASYCUDA World implemented with UNDP support, full source-code transfer to the Eritrean government for national ownership](https://shabait.com/2026/01/08/eritrea-launches-landmark-digital-customs-system) | Advanced |
+| Data Exchange | National data exchange system |  | ***No evidence*** |
+| Data Exchange | Use of digital id in other systems |  | ***No evidence*** |
+| Data Exchange | Interoperability of health systems |  | ***No evidence*** |
+| Data Exchange | Interoperability of education systems |  | ***No evidence*** |
+| Data Exchange | Interoperability of social protection systems |  | ***No evidence*** |
+| Digital Identity and CRVS | Robustness of system | The base holds [no operational foundational digital ID](https://globaldigitalidentityindex.com/eritrea-population-digital-identity), a position profiled in July 2025 and untouched since. <details><summary>Full record</summary>2025-07-26 — a digital identity index profile [found no operational foundational identity system](https://globaldigitalidentityindex.com/eritrea-population-digital-identity) and set out what one would face: low connectivity and mobile penetration, thin digital infrastructure, a telecom monopoly and weak civil registration.<br><br>Nothing in the twelve months to 2026-08-26 changes that. No enrolment programme, procurement, pilot or legal instrument on digital identity appears on the ledger, so the standing position is carried forward on a single profile written just before the window opened.</details> | No change |
+| Digital Identity and CRVS | Registration of entire population | With [no foundational system in service](https://globaldigitalidentityindex.com/eritrea-population-digital-identity), no share of the population is registered into one, and nothing in the window changes that. <details><summary>Full record</summary>The same 2025-07-26 profile that finds [no operational foundational identity system](https://globaldigitalidentityindex.com/eritrea-population-digital-identity) names weak civil registration among the barriers a future one would face, which is the nearest the base comes to a statement about coverage.<br><br>No enrolment figure exists to report, because there is nothing to enrol into. The population counting the base does hold is the survey work reported under Censuses and surveys, which is a statistical exercise and not a register.</details> | No change |
+| Digital Identity and CRVS | National maintenance of id and credentials systems |  | ***No evidence*** |
+| Digital Identity and CRVS | Authentication |  | ***No evidence*** |
+| Digital Identity and CRVS | Digital id from birth |  | ***No evidence*** |
+| Digital Identity and CRVS | Interoperability of birth registration and digital id |  | ***No evidence*** |
+| Digital Identity and CRVS | Use by other systems |  | ***No evidence*** |
+| Digital Payments and Fintech | Governance role of central bank | The Bank of Eritrea [gave holders of cash outside the banking system until 31 July 2026 to deposit it](https://awate.com/deposit-your-money-or-else-eritreas-banking-ultimatum/), on pain of legal action. <details><summary>Full record</summary>2026-07-02 — a legal notice from the Bank of Eritrea [ordered cash held outside banks deposited by 31 July 2026](https://awate.com/deposit-your-money-or-else-eritreas-banking-ultimatum/), with legal action threatened against holders who do not comply. The notice defines no threshold for the excessive holding it names and states no enforcement mechanism.<br><br>It is the only central-bank action on this ledger, and it addresses the cash economy rather than any payment system: no named mobile-money or digital-payments service appears anywhere on the base for Eritrea.</details> | Advanced, an instrument aimed at the cash economy rather than at payment |
+| Digital Payments and Fintech | G2P functionality |  | ***No evidence*** |
+| Digital Payments and Fintech | Revenue collection |  | ***No evidence*** |
+| Digital Payments and Fintech | B2B and B2G functionality |  | ***No evidence*** |
+| Digital Payments and Fintech | P2P, P2G and P2B functionality |  | ***No evidence*** |
+| Digital Payments and Fintech | Population uptake |  | ***No evidence*** |
+| Digital Payments and Fintech | Cross-border functionality |  | ***No evidence*** |
+| Digital Payments and Fintech | Consumer protection |  | ***No evidence*** |
+| Registries | Population register |  | ***No evidence*** |
+| Registries | Civil register |  | ***No evidence*** |
+| Registries | Address register |  | ***No evidence*** |
+| Registries | Business register |  | ***No evidence*** |
+| Registries | Social protection register |  | ***No evidence*** |
+| Registries | Electoral register |  | ***No evidence*** |
+| Registries | Tax register |  | ***No evidence*** |
+| Registries | Land register |  | ***No evidence*** |
+| Sectoral management information systems | Health |  | ***No evidence*** |
+| Sectoral management information systems | Education |  | ***No evidence*** |
+| Sectoral management information systems | Social protection |  | ***No evidence*** |
+| Sectoral management information systems | Justice |  | ***No evidence*** |
+| Sectoral management information systems | Tax |  | ***No evidence*** |
+| Sectoral management information systems | Customs | ASYCUDA World [was inaugurated on 8 January 2026](https://shabait.com/2026/01/08/eritrea-launches-landmark-digital-customs-system), replacing customs software dating from 2007, with the source code transferred to the government. <details><summary>Full record</summary>2026-01-08 — [ASYCUDA World entered service](https://shabait.com/2026/01/08/eritrea-launches-landmark-digital-customs-system), replacing customs software in use since 2007. UNDP supported the implementation and the source code was transferred in full to the Eritrean government, which is the part worth recording: the system is nationally held rather than run on the country's behalf.<br><br>It is the only sectoral management information system on this ledger, and nothing states what it connects to — no revenue system, no business register and no trade single window appears for Eritrea.</details> | Advanced |
+| Sectoral management information systems | Land |  | ***No evidence*** |
+| Other GovTech and e-Gov | e-government services |  | ***No evidence*** |
 
-<!-- narrative: dpi -->
-ASYCUDA World advanced from a 2007-era paper-based customs system to a fully deployed digital platform, inaugurated in January 2026 with a complete transfer of source code to the Eritrean government. The Fourth Round Population and Health Survey (EPHS 2025) entered the record with no prior round held in the base for comparison: it completed in 2025 across all six regions using tablet-based interviewing, with the full report due in 2026. Neither a foundational digital-ID system nor a mobile-money or digital-payments service is held at either end of the window.
-<!-- /narrative -->
+
+## Digitalisation
+
+| Topic | Indicator | Developments | Progress |
+|---|---|---|---|
+| Digitalisation of sub-national government | ICT infrastructure for local government |  | ***No evidence*** |
+| Digitalisation of sub-national government | Digitalisation of local government records |  | ***No evidence*** |
+| Rural digital data capture | Digitalisation of rural health clinics |  | ***No evidence*** |
+| Rural digital data capture | Digitalisation of rural primary schools |  | ***No evidence*** |
+| Rural digital data capture | Digitalisation of rural registry offices |  | ***No evidence*** |
+| Rural digital data capture | Digitalisation of rural police stations |  | ***No evidence*** |
+
 
 ## Technology
 
-### AI
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| Topic | Indicator | Developments | Progress |
 |---|---|---|---|
-| Eri-Chat offline AI app | Live since April 2025 (pre-window launch), offline open-source-AI app storing conversation data locally on-device | [Live; showcased at Asmara UN Day event (24 Oct 2025) to ambassadors, UN officials and diplomats; English-only, local-language support pending (insufficient training data)](https://shabait.com/2025/11/01/eri-chat-offline-ai-app/) | No change |
+| AI | Use of AI in government administration |  | ***No evidence*** |
+| AI | Use of AI in sectoral management information systems |  | ***No evidence*** |
+| AI | Development of national / regional AI systems | [Eri-Chat, an offline AI application built by a ministry developer](https://shabait.com/2025/11/01/eri-chat-offline-ai-app/), launched in April 2025 and was shown at an Asmara diplomatic event in October. <details><summary>Full record</summary>2025-11-01 — a profile of the developer Naod Goitom Isaac [describes Eri-Chat, an offline AI application launched in April 2025](https://shabait.com/2025/11/01/eri-chat-offline-ai-app/) and shown to ambassadors and UN officials at an Asmara UN Day event on 24 October 2025. It works in English only; local-language support waits on training data the developer says does not exist in sufficient quantity.<br><br>It is one application written by a single software developer at the Ministry of Information rather than a national programme, and it is the only AI system of any kind on this ledger.</details> | Advanced |
+| AI | Control of AI abuse |  | ***No evidence*** |
+| ICT Industry | National capacity in DT-related production |  | ***No evidence*** |
+| Innovation ecosystem | Technology hubs |  | ***No evidence*** |
+| Innovation ecosystem | Tech startup ecosystem | A self-organised collective [released five Tigrinya-language education applications](https://shabait.com/2026/08/15/technology-as-a-bridge-between-generations-a-conversation-with-shambko-apps-group/) built to the national curriculum, with no stated funding or distribution channel. <details><summary>Full record</summary>2026-08-15 — an interview carried by the state information ministry [describes five applications from the Shambko Apps Group](https://shabait.com/2026/08/15/technology-as-a-bridge-between-generations-a-conversation-with-shambko-apps-group/): literacy, puzzle, cultural-heritage and arithmetic tools written against the national curriculum, with a stated plan to extend them to Eritrea's eight other national languages.<br><br>The group is a private collective rather than a state programme. Nothing is stated about download counts, distribution channel or funding, and no hub, incubator, investor or company registration appears elsewhere on the ledger — so this is one collective on the record, not evidence of a startup base.</details> | Advanced |
 
-### Innovation ecosystem
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+## Capacity
+
+| Topic | Indicator | Developments | Progress |
 |---|---|---|---|
-| Shambko Apps Group Tigrinya-language applications | Did not exist | [Five Tigrinya-language mobile applications released by a self-organised software collective - literacy, puzzle, cultural-heritage and arithmetic tools built to the national curriculum - with a stated plan to extend to Eritrea's eight other national languages; no download count, distribution channel or funding source is stated](https://shabait.com/2026/08/15/technology-as-a-bridge-between-generations-a-conversation-with-shambko-apps-group/) | Advanced |
+| Literacy | Digital literacy (civil service) |  | ***No evidence*** |
+| Literacy | Digital literacy (general population) |  | ***No evidence*** |
+| Training and skills | DT-related training in secondary education |  | ***No evidence*** |
+| Training and skills | DT-related university facilities and qualifications |  | ***No evidence*** |
+| Training and skills | Graduates entering DT ecosystem |  | ***No evidence*** |
+| Research institutions | Think tanks and academic departments contributing to DT policy |  | ***No evidence*** |
 
-<!-- narrative: technology -->
-Eri-Chat, the offline AI app built by a Ministry of Information developer, was already live in April 2025, before the window opened, and its position is unchanged: it remains available, English-only, and was showcased to ambassadors and UN officials at Asmara's UN Day event in October 2025. The one thing to enter this section within the window is not a state programme: [Shambko Apps Group, a self-organised software collective, released five Tigrinya-language mobile applications](https://shabait.com/2026/08/15/technology-as-a-bridge-between-generations-a-conversation-with-shambko-apps-group/) — literacy, puzzle, cultural-heritage and arithmetic tools built to the national curriculum — with a stated intention to cover Eritrea's eight other national languages. No download count, distribution channel or funding source is stated, and the account is the state information ministry's own.
-<!-- /narrative -->
 
 ## Inclusion
 
-### Digital divides
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| Topic | Indicator | Developments | Progress |
 |---|---|---|---|
-| Active mobile connections (DataReportal) | 793,000 connections, 22.2% of population, 48.0% broadband (early 2025) | [859,000 connections, 23.7% of population, 49.3% broadband (late 2025), +8.2% year on year](https://datareportal.com/reports/digital-2025-eritrea) | Advanced, marginal |
+| Access to services | Citizen feedback portals |  | ***No evidence*** |
+| Access to services | Citizen participation in policy |  | ***No evidence*** |
+| Access to services | Gender equity |  | ***No evidence*** |
+| Access to services | Inclusion of persons with disabilities |  | ***No evidence*** |
+| Access to services | Inclusion of refugees and IDPs |  | ***No evidence*** |
+| Digital divides | Bridging of digital divides |  | ***No evidence*** |
 
-<!-- narrative: inclusion -->
-Active mobile connections advanced only marginally across the window, [from 793,000 (22.2% of the population) in early 2025 to 859,000 (23.7%) in late 2025 — an 8.2% year-on-year rise](https://datareportal.com/reports/digital-2025-eritrea) that leaves Eritrea among the lowest mobile-penetration rates recorded in Africa.
-<!-- /narrative -->
 
 ## Data
 
-### National statistics
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| Topic | Indicator | Developments | Progress |
 |---|---|---|---|
-| Fourth Round Eritrea Population and Health Survey (EPHS 2025) | ***Baseline not held*** | [Completed across all six regions using Computer-Assisted Personal Interviewing; ~400 tables across 20 chapters drafted; report writing, printing and dissemination scheduled for 2026; NSO also compiled 2023 national accounts and began 2024 national-accounts data collection](https://www.undp.org/eritrea/news/driving-data-digital-technology-eritrea-strengthens-data-systems-landmark-survey) | ***Baseline not held*** |
+| National statistics | National strategy for development of statistics |  | ***No evidence*** |
+| National statistics | Censuses and surveys | The fourth [Eritrea Population and Health Survey completed fieldwork in 9,794 households](https://www.undp.org/eritrea/news/driving-data-digital-technology-eritrea-strengthens-data-systems-landmark-survey) across all six regions, with the report due in 2026. <details><summary>Full record</summary>2026-05-08 — the National Statistics Office [reported the fourth Eritrea Population and Health Survey complete: 9,794 households across 405 enumeration areas, a 98.4% household completion rate, and collection by computer-assisted personal interview](https://www.undp.org/eritrea/news/driving-data-digital-technology-eritrea-strengthens-data-systems-landmark-survey).<br><br>Around 400 tables over 20 chapters are drafted, with writing, printing and dissemination scheduled through 2026, so the fieldwork is finished and the published output is not. Technical support came from UNECA and an Oslo consultancy under the UNDP-led Joint Programme on Data for Development. It is the most substantial statistical work the base holds for Eritrea.</details> | Advanced |
+| National statistics | Statistics from administrative data | The statistics office [compiled national accounts for 2023 and began collection for 2024](https://www.undp.org/eritrea/news/driving-data-digital-technology-eritrea-strengthens-data-systems-landmark-survey), the only administrative statistical production the base records. <details><summary>Full record</summary>2026-05-08 — alongside the household survey, the National Statistics Office [is reported to have compiled the 2023 national accounts and started data collection for 2024](https://www.undp.org/eritrea/news/driving-data-digital-technology-eritrea-strengthens-data-systems-landmark-survey).<br><br>That is the whole of the ledger's evidence on statistics drawn from administrative sources, and it is second-hand: the accounts themselves are not on the base, and no statement of which administrative systems feed them appears either. No statistics law and no national strategy for the development of statistics is on record for Eritrea, so this production rests on the office's own practice.</details> | Advanced |
+| Open data | Use of open data |  | ***No evidence*** |
+| Use of satellite data | Agricultural use of satellite data |  | ***No evidence*** |
+| Use of satellite data | Meteorological use of satellite data |  | ***No evidence*** |
 
-<!-- narrative: data -->
 
-<!-- /narrative -->
+## Geopolitics
+
+| Topic | Indicator | Developments | Progress |
+|---|---|---|---|
+| US / hyperscaler activities | USA / hyperscaler MoUs, engagements and commitments |  | ***No evidence*** |
+| China activities | Chinese MoUs, engagements and commitments |  | ***No evidence*** |
+| EU activities | EU MoUs, engagements and commitments |  | ***No evidence*** |
+| Gulf/UAE activities | Gulf MoUs, engagements and commitments |  | ***No evidence*** |
+| India activities | India MoUs, engagements and commitments |  | ***No evidence*** |
+
 
 ## Where the record is thin
 
@@ -122,6 +211,3 @@ Active mobile connections advanced only marginally across the window, [from 793,
 | Mobile money / digital payments service | A named mobile-money operator, licence or pilot, or a central-bank statement on digital payments distinct from the cash-deposit ultimatum. | not yet probed |
 | Data-protection law | A published data-protection bill, statute or regulator designation. | not yet probed |
 
-<!-- narrative: gaps -->
-The table above sets out what would settle each of the five absences carried through this period: a named digital-ID programme, a cable-landing decision, a Starlink licensing outcome, a named mobile-money service, and a published data-protection instrument. None was probed in this pass.
-<!-- /narrative -->

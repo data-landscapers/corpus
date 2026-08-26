@@ -513,11 +513,15 @@ def cite(value, r, urls):
     return f"[{text}]({url})" if url else text
 
 
-SLUG_CITE = re.compile(r"\[([^\]]+)\]\(([^)]*)\)")
+SLUG_CITE = re.compile(r"\[([^\]]+)\]\(((?:[^()]|\([^()]*\))*)\)")
 """A citation in drafted prose: a label, and a target that should be a catalogue slug.
 
-**The target deliberately admits spaces, which no slug has.** A tighter pattern would simply
-fail to match an ill-formed citation, and an unmatched one is not caught — it passes through
+**The target deliberately admits spaces, and balanced parentheses, because this base's slugs
+carry both.** A slug is a record's own title — `2025-11-08 Digital 2026 Eritrea (DataReportal)`
+is one of 364 in the catalogue holding a bracketed qualifier — so a pattern stopping at the
+first `)` would cite half of one and leave `)` printing as text. Admitting spaces has a second
+purpose: a tighter pattern would simply fail to match an ill-formed
+citation, and an unmatched one is not caught — it passes through
 untouched and prints in the document as literal `[label](not a slug)`, which is markdown's own
 behaviour for a target with a space in it. Matching it is what lets `cite_prose()` drop the dead
 link and report it, and what lets check M name it. Found on a ZAF row whose `sources` field

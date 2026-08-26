@@ -56,7 +56,12 @@ SKELETONS = {"country": os.path.join(ROOT, "documentation", "report-country-skel
              "region": os.path.join(ROOT, "documentation", "report-region-skeleton.md")}
 
 MARKER = re.compile(r"<!-- narrative: ([a-z0-9-]+) -->\n(.*?)\n<!-- /narrative -->", re.S)
-LINK = re.compile(r"\]\([^)\s]+\)")
+LINK = re.compile(r"\]\((?:[^()]|\([^()]*\))*\)")
+"""A link target to blank. **It admits spaces and balanced parentheses**, because the
+indicator prose cites the base by catalogue slug and this base's slugs are record titles —
+`2025-11-08 Digital 2026 Eritrea (DataReportal)` and 363 others carry a bracketed qualifier.
+A pattern refusing spaces leaves the slug's own words in the masked block, where the register
+then reads a source's title as the drafter's prose and charges its clichés to the writer."""
 
 # §10, grouped so the report tells a writer which rule they are against rather than which
 # word they used. Each entry is (label, [regex, ...], ignore_case).
@@ -106,7 +111,10 @@ def mask_urls(text):
     return LINK.sub(lambda m: " " * len(m.group(0)), text)
 
 
-ANCHOR = re.compile(r"\[([^\]]*)\]\([^)\s]+\)")
+ANCHOR = re.compile(r"\[([^\]]*)\]\((?:[^()]|\([^()]*\))*\)")
+"""`[label](target)` reduced to its label for the word count, on `LINK`'s pattern and for its
+reason. A slug citation left unmatched would charge the drafter every word of a source's title
+— eight or ten of them on the 8–40 band an indicator summary is held to."""
 
 
 def prose_spans(text):
