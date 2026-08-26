@@ -14,8 +14,10 @@ about the country"* — this run is the first measurement of how often that cave
 work, and for ZAF the answer is every single time.
 
 **The money is not the constraint.** 88 `agent_run` calls at $0.10 came to **$8.80**, against a
-haul of 536 staged documents. The constraint is what those 536 documents cost *downstream* —
-fetching, screening, and then OSINT's ingest adjudicating every one of them.
+haul of 536 fetched documents. The constraint is what those documents cost *downstream* — and on
+Bill's ruling of 2026-08-26 the batch handed on was capped at one baseline and two progress items
+per indicator, **126 documents rather than 536**. §4a is that rule; the section below on what the
+cap removed is the evidence for it.
 
 ## What it cost and what it returned
 
@@ -30,16 +32,51 @@ fetching, screening, and then OSINT's ingest adjudicating every one of them.
 | Fetched | 647 |
 | Staged by sub-agents | 584 |
 | Removed by parent as cross-agent duplicates | 48 |
-| **Staged, final** | **536** files, 536 distinct URLs |
+| Staged before the cap | 536 files, 536 distinct URLs |
+| Excluded by §4a's cap | 410 |
+| **Handed to OSINT** | **126** — 44 baselines, 82 progress |
 | Dropped at screening | 397 |
 | `nil` indicators | **0** |
 
-**Yield: 12.2 staged documents per gap, 61 per dollar of Agent spend.** Per-indicator range 2 to
-20; the thinnest was `gov.legislate--statistics-legislation` at 2, and it was thin because both
-of its key gazettes refused the fetcher, not because nothing exists.
+**Yield after the cap: 2.9 staged documents per gap, 14 per dollar of Agent spend.** Before the cap it was 12.2 and 61 — the raw yield is what the search bought, the capped yield is what OSINT is asked to read, and the second is the number that matters. Every one of the 44 indicators kept a
+baseline; 38 kept the full two progress items and 6 kept one, so the shape is 44 × (1+2) less six.
+No indicator was capped to nothing, and none had to be trimmed by the parent for exceeding it.
 
-**Capture quality**, which is what ingest inherits: 367 `full` bodies, 169 `excerpt`. Dates from
-the page itself in 349 cases, `proxy` in 187 (35%), each naming its proxy basis in `note`.
+**Capture quality across the 536 fetched**, which is what a widened cap would inherit: 367 `full`
+bodies, 169 `excerpt`; dates from the page itself in 349 cases, `proxy` in 187 (35%), each naming
+its basis in `note`.
+
+## What the cap removed, and what that says about the search
+
+410 of 536. The rejections are not a story about bad searching — they are overwhelmingly **one
+event, staged many times**:
+
+- Five separate records of the 19 May 2026 police budget vote, under one indicator.
+- Three files covering a single Mashatile visit to India — the keynote, the SAnews write-up and
+  the outcomes piece — which the selector had to read to confirm were one trip.
+- Eight CIPC e-service automation notices of the same kind under `dpi.registry--business-register`.
+- Three Eskom releases three months apart, all reading the same EAF series.
+- An AMSAF kick-off beside its own inauguration; a Cabinet approval beside its own gazette; a
+  tender beside its own final version and its own Q&A addendum.
+
+**That is the cap's real finding: the search returns events, and the frame asks about positions.**
+An indicator moves once when a thing happens, and the Agent returns every account of that
+happening. Nothing upstream distinguishes the fifth report of the police budget vote from the
+first, because at search time they are equally good hits. Only a reader holding the frame can say
+*we already have this event* — which is why §4a sits where it sits.
+
+**The second-largest class is the wrong-object reject**, and it points back at the brief rather
+than at the cap: general-government MoUs staged under a *finance* MoU indicator, Earth-observation
+posts under a *meteorological* satellite indicator, load-reduction under *rural electrification*,
+health-facility standards under *data* standards. §2's `{topic_l1} — {topic}: {indicator}` fix
+addresses exactly this class, and it is the one lever that would reduce fetch volume rather than
+just staging volume.
+
+**A third class is capture defects the cap incidentally caught**: two statutes taken as gov.za
+record pages rather than the statute text (2.4k and 877 characters, PDF attachment unfollowed), a
+1,038-character download landing page, and a DPME evaluation whose body is dated December 2015
+carrying a `published: 2026-08-26` capture proxy. A "statute" under 3k characters is a landing
+page, and that is worth a check at fetch time rather than a rejection at selection time.
 
 **Drop codes**, by how many of the 44 indicators used each: `duplicate-in-run` 37 ·
 `headline-only-stub` 27 · `already-seen` 20 · `fetch-blocked` 12 · `off-topic` 11 · `url-dead` 5 ·
@@ -64,17 +101,31 @@ exist, the mean is 76 gaps.
 | Gaps per country | 44 | 76 |
 | `agent_run` calls, 54 countries | 4,752 | 8,208 |
 | Agent spend | $475 | **~$820** |
-| Documents to fetch, stage and ingest | ~58,000 | **~100,000** |
+| Documents fetched | ~58,000 | ~100,000 |
+| **Documents into ingest, uncapped** | ~58,000 | **~100,000** |
+| **Documents into ingest, capped at 1+2** | ~7,000 | **~12,000** |
 
-The Agent spend is affordable either way. **The document volume is not.** A hundred thousand
-candidates through OSINT's ingest is not a cost line, it is a different project — and the base
-currently holds around 10,000 sources in `raw/` in total. A full-frame filler across 54 countries
-would multiply the corpus by an order of magnitude with material the frame asked for but nobody
-has read.
+The Agent spend was always affordable. **Uncapped, the document volume was not**: a hundred
+thousand candidates through OSINT's ingest is not a cost line, it is a different project, against
+a base that holds around 10,000 sources in `raw/` in total. A full-frame filler would have
+multiplied the corpus by an order of magnitude with material the frame asked for but nobody had
+read.
 
-**That is the decision this pilot exists to inform, and it is Bill's.** The run itself is a
-success by every measure it set; the question it answers is whether the design should be pointed
-at all 54 countries, and the evidence says not in this shape.
+**§4a's cap is what makes the scale-out arguable at all, and it moves the answer.** At 2.9
+documents per gap, a 54-country pass hands ingest something on the order of **12,000 documents for
+~$820** — roughly doubling `raw/` rather than multiplying it by ten, and every one of those
+documents answers a question the frame actually asked. That is a defensible programme; the
+uncapped version was not.
+
+**What the cap does not fix is the fetch volume.** All ~100,000 documents still have to be
+retrieved and read to select 12,000 from them, and that is Corpus's cost in time and tokens rather
+than OSINT's in ingest. §2's ranked-shortlist briefs are the only lever that touches it, and the
+first run cannot say how much they would save because it did not use them.
+
+**So the decision is Bill's and the evidence now supports a staged answer**: the design is sound,
+the cap makes its output proportionate, and what remains untested is whether the fetch side scales.
+A second country — ideally a thin one like ERI, where 108 gaps is nearer the real average — would
+settle that at about $20.
 
 ## The levers, tested against what actually happened
 
