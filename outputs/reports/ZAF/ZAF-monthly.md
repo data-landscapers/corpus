@@ -3,9 +3,9 @@ title: South Africa — monthly update, July – August 2026
 compiled: 2026-08-26
 period: 2026-07-01 to 2026-08-26
 place: ZAF
-ledger_rows: 106
+ledger_rows: 109
 not_held: 23
-record: 623a156867a0
+record: 8006f1a81348
 ---
 
 # South Africa: monthly update, July – August 2026
@@ -85,6 +85,13 @@ The commercial estate is expanding on the operator's own numbers rather than on 
 
 The expansion also drew its first organised objection. A civil-society coalition [submitted concerns to the human rights commission on 10 August calling for a halt on data-centre developments pending transparent public participation, citing strain on scarce water, land and electricity](https://climatejusticecoalition.org/cjc-public-participation-in-south-africas-data-centre-expansion/). No participation process, commission response or moratorium is on record, which is what makes the objection the only thing here that can be dated.
 <!-- /narrative -->
+### Energy
+
+<!-- narrative: ict-infrastructure--infra-energy -->
+The grid had its best month on the utility's own reporting in six years. Eskom [put the energy availability factor at 67.55%, its highest in six years, with unplanned outages down 44.5% year on year, about 1.2 million customers removed from load reduction and 505,607 smart meters installed](https://www.eskom.co.za/energy-availability-factor-at-highest-level-in-six-years-reaching-67-55-unplanned-outages-nearly-halved-year-on-year-and-customers-impacted-by-load-reduction-reduced-to-6-8-and-the-eastern-cape-beco/), the Eastern Cape becoming the seventh province removed from load reduction. These are the utility's figures and no regulator or system-operator confirmation accompanies them.
+
+It closes a build programme rather than opening one: the last unit of the two flagship stations [entered commercial operation in September 2025, adding 800 MW](https://www.eskom.co.za/kusile-unit-6-achieves-commercial-operation-unlocking-full-9600mw-capacity-across-eskoms-flagship-stations/). What the month does not settle is adequacy after 2029, which the system operator's own assessment identifies as the risk and which is carried in the progress report rather than here.
+<!-- /narrative -->
 ### Technical Capacity
 
 <!-- narrative: ict-infrastructure--infra-capacity -->
@@ -160,6 +167,16 @@ Two services were told to integrate or to open. The Public Protector [found the 
 The month's longest departmental procurement went to the least connected population in the country. Correctional services [advertised a fifteen-year tender for an inmate communication system across 243 centres, replacing copper telephony that has deteriorated beyond support for about 166,000 inmates](https://www.itweb.co.za/article/top-ict-tenders-inmates-to-get-telecoms-upgrade/KzQenvjyx98qZd2r), the appointed supplier to design, install, integrate, operate and maintain it and to tie it to the inmate cash system so that airtime is bought from prisoners' own balances, with monitoring, recording, data storage, security and compliance in scope. No contract value is published and [bids close on 14 September](https://www.itweb.co.za/article/top-ict-tenders-inmates-to-get-telecoms-upgrade/KzQenvjyx98qZd2r), so nothing is awarded.
 <!-- /narrative -->
 
+## Digitalisation
+
+### Digitalisation of sub-national government
+
+<!-- narrative: digitalisation--digital-localgov -->
+Nothing moved at a municipality this month. What the record gained is the rule the municipal programmes are obliged to work to: the national archives' [standing guidance on managing electronic records](https://www.nationalarchives.gov.za/node/1225) is now held, having been cited by none of the digitisation programmes this ledger tracks.
+
+That is an addition to the record rather than a development. No compliance assessment against the guidance appears for any municipality, and the two metro programmes on this ledger — a records digitisation rollout reported to the National Council of Provinces and an electronic records system awarded on a three-year term — both predate this window and are carried in the progress report.
+<!-- /narrative -->
+
 ## Technology
 
 ### AI
@@ -182,6 +199,13 @@ The sector's transformation body lost its chair. The communications minister [re
 
 
 The informal economy became a data product. A listed payments company [began selling near-real-time item-level intelligence on informal retail, drawn from a point-of-sale network of over 90,000 spaza shops and taverns and 10,500 checkouts, to consumer-goods brands, wholesalers and financiers](https://www.itweb.co.za/article/lesaka-brings-data-science-to-sas-spaza-economy/KjlyrvwBrAAqk6am). The network figures are the company's own, and no consent basis or data-protection assessment for reselling merchant transaction data is stated.
+<!-- /narrative -->
+### Innovation ecosystem
+
+<!-- narrative: technology--tech-innovate -->
+The month's addition is a standing one. The small business department's [network of incubation and digital hubs](http://www.dsbd.gov.za/article/incubation-and-digital-hubs) is now on the record, which matters because the two centres opened earlier in the year — a continental digital transformation centre established with the International Telecommunication Union, and an industry and technology centre hosted by a university — both sit on top of an existing state hub estate that the base had never described.
+
+No hub count, spend or enterprise figure is published for any of the three, so the estate is established and its output is not. Both openings fall outside this month and are carried in the progress report.
 <!-- /narrative -->
 
 ## Capacity
@@ -209,4 +233,14 @@ The month's one research measure is about the literature rather than the country
 The South African Social Security Agency [set 350,000 grant reviews for 2026/27](https://www.sundaytimes.timeslive.co.za/news/2026-07-21-government-to-review-350000-social-grants-in-bid-to-save-r15bn-and-curb-fraud/) against a projected R1.5bn saving, while beneficiaries flagged from September 2025 [reported continued non-payment](https://www.timeslive.co.za/news/south-africa/2026-07-30-sassa-fraud-crackdown-delays-payments-for-thousands/). An account of the digitalised grants system published on 25 July set out the [bank-account means test applied across eight grants](https://www.dailymaverick.co.za/article/2026-07-25-a-peek-behind-south-africas-digitalised-grants-system/), which remains in operation under appeal, with the Supreme Court of Appeal hearing set for 25 August 2026. Gold Cards were confirmed to [cease functioning after 31 August](https://iol.co.za/thepost/news/2026-07-24-deadline-looms-your-sassa-gold-cards-will-no-longer-work-after-august-31/); the position of beneficiaries who miss the deadline was not stated.
 
 One cooperation arrangement addressed a group the grants system serves and the data rarely describes. South Africa and China [agreed a seven-point plan on disability-inclusive data, universal design and artificial-intelligence-enabled assistive technology](https://www.sanews.gov.za/south-africa/sa-china-deepen-cooperation-disability-inclusion), anchored in a proposed centre of excellence working with the national statistics office. No instrument, funding, timetable or data-sharing arrangement is published for cooperation that names the statistics office as a partner.
+<!-- /narrative -->
+
+## Data
+
+### National statistics
+
+<!-- narrative: data--data-statistics -->
+A statistical series came back after five years. Statistics South Africa [restored its monthly insolvencies series, interrupted since the 2021 cyber incident at the Department of Justice cut off the administrative supply, with a first release on 21 July covering June 2026 and a time series back to January 2023](https://www.statssa.gov.za/?p=19751). It is the clearest cost of a security failure this ledger holds: an official series lost because another department's systems went down, and recovered only now.
+
+The office also published [a frame update for the continuous population survey and household survey programme redesign](https://www.statssa.gov.za/?page_id=14209), the instrument intended to carry population statistics between censuses. No first release is named with it.
 <!-- /narrative -->
