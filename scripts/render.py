@@ -91,6 +91,22 @@ BADGE_MOVEMENT = [
     ("no change",         "badge--grey"),
 ]
 
+# The indicator frame's Progress column (`progress-report-redesign.md` §3), a third vocabulary
+# and a third list, on the same reasoning that keeps the first two apart. It shares four terms
+# with BADGE_MOVEMENT and is not the same set: *Mixed* has no counterpart there, and **No
+# evidence is grey rather than red**. Baseline not held is red because it marks a report that
+# cannot answer a question it asked; No evidence is the frame answering exactly as designed —
+# a hundred red rows on a median country would read as a broken document rather than a thin
+# base, which is the reading §4's opening paragraph exists to prevent.
+BADGE_PROGRESS = [
+    ("no evidence", "badge--grey"),
+    ("advanced",    "badge--green"),
+    ("stalled",     "badge--amber"),
+    ("regressed",   "badge--red"),
+    ("mixed",       "badge--amber"),
+    ("no change",   "badge--grey"),
+]
+
 
 def frontmatter(text: str) -> tuple[dict, str]:
     """Split the frontmatter from the body. The reports use flat scalar keys
@@ -235,10 +251,13 @@ def badge_class(text: str, vocab=BADGE) -> str:
 def classify_table(headers: list[str]) -> str:
     """A report holds three shapes of table, told apart by their header row.
 
-    The ledgers are `System or instrument | Status | As at`. The progress
+    The ledgers are `System or instrument | Status | As at`. The region progress
     report's movement tables are `System or instrument | At <date> |
     At <date> | Movement` — four columns, not three, and the badge belongs on
-    the last one rather than the second. Everything else is gaps-shaped:
+    the last one rather than the second. A country progress report is the
+    indicator frame, `Topic | Indicator | Developments | Progress`, also four
+    and also badged on the last, told apart by that header. Everything else is
+    gaps-shaped:
     `System or instrument | What would settle it | Last probed`, whose middle
     column is prose. Badging by column position alone put status chrome on
     paragraphs of explanation, so the header row decides instead.
@@ -247,6 +266,11 @@ def classify_table(headers: list[str]) -> str:
         return "ledger"
     if len(headers) == 4 and headers[3].startswith("movement"):
         return "movement"
+    # The indicator frame: `Topic | Indicator | Developments | Progress`. Four columns like the
+    # movement table and badged on the last like it, but a different vocabulary and very
+    # different widths — the Developments cell carries prose and the row's expander.
+    if len(headers) == 4 and headers[3].startswith("progress"):
+        return "indicator"
     return "gaps"
 
 
@@ -265,6 +289,8 @@ def style_tables(html: str) -> str:
             return badge_rows(table, col=1, vocab=BADGE)
         if cls == "movement":
             return badge_rows(table, col=3, vocab=BADGE_MOVEMENT)
+        if cls == "indicator":
+            return badge_rows(table, col=3, vocab=BADGE_PROGRESS, split_qualifier=True)
         return table
 
     return re.sub(r"<table>.*?</table>", do_table, html, flags=re.S)
@@ -287,7 +313,7 @@ def label_status_header(table: str) -> str:
     )
 
 
-def badge_rows(table: str, col: int, vocab) -> str:
+def badge_rows(table: str, col: int, vocab, split_qualifier: bool = False) -> str:
     """Turn one column into the site's badge component.
 
     The cell is often a source link (always, for a ledger's Status; never,
@@ -306,6 +332,16 @@ def badge_rows(table: str, col: int, vocab) -> str:
         cls = badge_class(inner, vocab)
         if inner.startswith("<a "):
             new = re.sub(r"^<a ", f'<a class="badge {cls}" ', inner, count=1)
+        elif split_qualifier and "<" not in inner and "," in inner:
+            # **The badge carries the stem; the qualifying clause sits beside it.** A badge is a
+            # label and has to read as one at a glance. That held while qualifiers were "Advanced,
+            # slipped", and stops holding on the indicator frame, where *Mixed* must name which
+            # instruments moved which way (`progress-report-redesign.md` §3) and the clause is
+            # routinely longer than the value it qualifies. Colouring is unaffected: `badge_class`
+            # already keys on the head term.
+            head, _, tail = inner.partition(",")
+            new = (f'<span class="badge {cls}">{head.strip()}</span>'
+                   f'<span class="badge-note">{tail.strip()}</span>')
         else:
             new = f'<span class="badge {cls}">{inner}</span>'
         return row.replace(target, f"<td>{new}</td>", 1)

@@ -260,6 +260,35 @@ table.gaps td:nth-child(1) { font-weight: 600; }
 table.gaps td:nth-child(2) { font-family: var(--serif); text-transform: none; letter-spacing: 0; }
 table.gaps td:nth-child(3) { color: var(--ink-faint); font-family: var(--mono); font-size: 0.72rem; }
 
+/* Indicator frame (country progress reports): topic | indicator | developments
+   | progress. The Developments column is the document — terse summary plus the
+   row's expander — so it takes the room the other three do not need. Topic
+   repeats down a chapter and is set light, because it is there to locate the
+   row rather than to be read. */
+table.indicator td:nth-child(1), table.indicator th:nth-child(1) { width: 17%; }
+table.indicator td:nth-child(2), table.indicator th:nth-child(2) { width: 21%; }
+table.indicator td:nth-child(3), table.indicator th:nth-child(3) { width: 46%; }
+table.indicator td:nth-child(4), table.indicator th:nth-child(4) { width: 16%; }
+table.indicator td:nth-child(1) { color: var(--ink-faint); }
+table.indicator td:nth-child(2) { font-weight: 600; }
+table.indicator td:nth-child(3) { font-family: var(--serif); text-transform: none;
+  letter-spacing: 0; }
+
+/* The row's expander. `summary` is the affordance and has to look like one;
+   the record itself is set apart from the terse summary above it so the two
+   do not read as one paragraph. */
+table.indicator details { margin-top: 0.45rem; }
+table.indicator summary { cursor: pointer; font-family: "Lato", sans-serif;
+  font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.06em;
+  color: var(--accent); }
+table.indicator details[open] summary { margin-bottom: 0.35rem; }
+table.indicator details > :not(summary) { color: var(--ink-light); }
+
+/* The qualifying clause a Mixed value must carry, set outside its badge. */
+table.indicator .badge-note { display: block; margin-top: 0.3rem;
+  font-family: var(--serif); font-size: 0.74rem; line-height: 1.35;
+  color: var(--ink-light); text-transform: none; letter-spacing: 0; }
+
 /* Movement (progress reports): instrument | baseline | current | movement.
    This used to fall through to the gaps widths above, which put 62% on the
    short retrospective baseline and squeezed the sourced current value —
@@ -407,6 +436,16 @@ a.badge:hover::after { opacity: 1; }
   main { min-width: 0; }
 
   .container, .article-body { max-width: none; padding: 0; }
+
+  /* **The indicator expanders print open** (`progress-report-redesign.md` §7).
+     A PDF has no expander and the full record is the document, not an extra,
+     so the UA's collapsed state is overridden rather than inherited: the
+     details box becomes an ordinary block and every child of it is shown. The
+     summary line itself goes — on paper "Full record" labels nothing, since
+     there is no closed state for it to describe. */
+  table.indicator details { display: block; }
+  table.indicator details > * { display: block; }
+  table.indicator details > summary { display: none; }
 
   /* Fixed layout makes the declared column percentages binding, so long cell
      text wraps instead of widening the table. */

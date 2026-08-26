@@ -69,7 +69,13 @@ Where one object belongs in more than one document: the monthly carries **what m
 
 ## Word budget
 
-**Prose only, tables excluded, settled here once so the argument does not recur per document: 1,000–1,450 words for a status report, 700–2,000 for a monthly, 900–1,250 for a progress report.**
+**Prose only, tables excluded, settled here once so the argument does not recur per document: 1,000–1,450 words for a status report, 700–2,000 for a monthly.**
+
+**The progress report is budgeted per indicator, not per document: 8–40 words for an indicator summary, 25–200 words for an indicator developments.** *(2026-08-26, with the indicator frame — `documentation/progress-report-redesign.md`.)* The 900–1,250 whole-document band it replaces cannot be stated any more, and not because the number moved. A country's progress prose is now one entry per indicator that carries evidence, and how many that is depends on what the base holds — five for a thin country and eighty for a thick one, both correct. A document band would have failed one of them for the state of the base rather than for the state of the writing, which is the one thing a word budget must never do.
+
+The two bands are the two texts §5 of the redesign distinguishes. The **summary** is what the table shows in a column 46% of the page wide, so its ceiling is a layout constraint before it is an editorial one: "a clause or two, hyperlinked on the claim", and a summary running past forty words is a paragraph in a cell. The **developments** text sits behind the row's expander, where length costs the reader nothing until they ask for it, so the band is wide — enough for two to four dated events each carrying its own citation at the house rate of roughly thirty words an event, and generous at the top because an indicator in a year of real reform genuinely has more to say than one that moved once.
+
+Neither band applies to a ***No evidence*** row, which carries no prose at all: the value is the statement.
 
 *(Cut from 1,800–2,200 / 900–1,300 / 1,400–1,800 on 2026-08-04, when the inventory and movement tables took over the reference load. A status table of seventy-odd rows is itself ~900 words; prose that also recites the inventory is prose restating a table. The prose's job is what the table cannot carry — why a position is where it is, what is unreconciled, and what follows. Cut ~100 again the same day, with the `Comment` section and the framing sentences the register now rules out.)*
 

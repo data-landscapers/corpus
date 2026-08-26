@@ -1,0 +1,75 @@
+---
+type: archive
+title: CAF — progress-report narrative blocks, archived before the indicator frame
+archived: 2026-08-26
+source: CAF-progress.md
+---
+
+# CAF — archived progress narrative
+
+*Archived by CC on 2026-08-26, before the indicator-framed rewrite of the progress
+report removed the per-Level-1 narrative blocks (`documentation/progress-report-redesign.md`
+§1, and its review item 4). This is drafted, register-checked, cited prose about the same
+evidence the ledger holds; it is the source material for CAF's indicator Developments
+drafting pass, not a published document. Block keys are the Level-1 chapter markers the
+renderer used.*
+
+## summary
+
+Three things arrived that did not exist a year ago, all of them access rather than administration: [satellite broadband went commercially live on 16 March 2026](https://www.agenceecofin.com/actualites-numerique/1703-136713-starlink-en-centrafrique-entre-couverture-nationale-et-defis-d-accessibilite), the [third mobile operator launched fourth-generation service in Bangui in May](https://www.techreviewafrica.com/news/5420/telecel-centrafrique-launches-4g-services-in-bangui-to-expand-national-connectivity), and a [national internet exchange point was created in January](https://www.iam.ma/documents/66341/0/Maroc+Telecom+-+Rapport+financier+S1+2026+%282%29.pdf/261de29d-cee8-407f-1e28-dbb3a53f985f). None of them carries a coverage, membership or subscriber figure.
+
+Two positions worsened. Identity-card access [regressed from a legal tariff restored in June 2025 to reported extortion at enrolment counters](https://corbeaunews-centrafrique.org/centrafrique-le-business-de-la-carte-nationale-didentite-reprend-de-plus-belle-a-ndele/), and mobile-money salary payment [stalled, with no enrolment figure since 1,702 civil servants in May 2025 and a month-long outage leaving officials unpaid](https://corbeaunews-centrafrique.org/centrafrique-a-batangafo-un-mois-sans-reseau-orange-bloque-les-communications-et-les-services-financiers/).
+
+The instruments did not move at all. The [data protection authority is still not established](https://dataprotection.africa/central-african-republic), the [cybersecurity agency created in 2024 appears in no estimates for a third year](http://www.finances.gouv.cf/sites/default/files/2026-03/Cadre%20des%20D%C3%A9penses%20%C3%A0%20Moyen%20Terme%202026.pdf), and the [universal service fund is still not operational seven years after its levy took effect](https://www.agenceecofin.com/actualites-numerique/2104-137723-centrafrique-la-mise-en-uvre-effective-du-fonds-du-service-universel-prevue-pour-2026).
+
+## governance
+
+The two statutes that would create institutions produced none. The [data protection law of January 2024 still has no implementing decree and its authority is not established](https://dataprotection.africa/central-african-republic), eighteen months past a twelve-month statutory deadline; the [cybersecurity and cybercrime law is unchanged in text](https://www.africatopsuccess.com/un-projet-de-loi-pour-lutter-contre-la-cybercriminalite-en-centrafrique/) and was named by a commentator in July 2026 as the instrument now used against online content.
+
+What did change is procurement and satellite rules. A [new public procurement code replaced a 2008 law in December 2025](https://acap-rca.com/2025/12/11/centrafrique-lassemblee-nationale-adopte-un-nouveau-cadre-legislatif-pour-la-commande-publique/) criticised in the explanatory memorandum for transparency and control gaps; promulgation is not recorded. And the ministry went from no rule at all on satellite access to [deactivating roaming on non-homologated kits](https://techafricanews.com/2026/04/28/central-african-republic-suspends-starlink-kits-citing-security-and-equipment-traceability-requirements/), on accounts built entirely on its own communiqué.
+
+Externally financed work advanced where domestic work did not: a [civil-status modernisation programme reported 2025 activities 90% complete against a target of 400,000 birth certificates by 2028](https://oubanguimedias.com/2026/02/23/centrafrique-le-comite-technique-dappui-et-de-suivi-du-projet-dappui-a-la-modernisation-de-letat-civil-valide-les-activites-du-projet-modero/), and a [EUR 17.5m programme to digitise administrative-fee collection reached three pilot ministries](https://ndjonisango.com/2026/04/18/rca-une-formation-sur-la-digitalisation-du-systeme-de-paiement-pata-polele-dans-trois-ministeres-cles/), for which no domestic appropriation is on file.
+
+## finance
+
+The budget lines moved and the outturn cannot be read. The [regulator's support transfer went from FCFA 1,400,000,000 to FCFA 1,600,000,000](http://www.finances.gouv.cf/sites/default/files/2026-03/Cadre%20des%20D%C3%A9penses%20%C3%A0%20Moyen%20Terme%202026.pdf); [two private-invoice transfer lines in the digital ministry's vote went from one line at FCFA 500,000,000, revised to FCFA 800,000,000, to FCFA 1,000,000,000 and FCFA 500,000,000](http://www.finances.gouv.cf/sites/default/files/2026-03/Cadre%20des%20D%C3%A9penses%20%C3%A0%20Moyen%20Terme%202026.pdf), with no purpose stated in any year; the [digital development agency's transfer went from FCFA 200,000,000 to FCFA 418,000,000, of which FCFA 118,000,000 clears six months of unpaid 2024 salaries](http://www.finances.gouv.cf/sites/default/files/2026-03/Cadre%20des%20D%C3%A9penses%20%C3%A0%20Moyen%20Terme%202026.pdf); and [customs system deployment went from FCFA 245,000,000 across two lines to FCFA 420,000,000 in one](http://www.finances.gouv.cf/sites/default/files/2026-03/Cadre%20des%20D%C3%A9penses%20%C3%A0%20Moyen%20Terme%202026.pdf). One line did not move: [FCFA 250,000,000 of telephone arrears to the state's own incumbent, for a third year](http://www.finances.gouv.cf/sites/default/files/2026-03/Cadre%20des%20D%C3%A9penses%20%C3%A0%20Moyen%20Terme%202026.pdf).
+
+## ict-infrastructure
+
+The backbone is the section's flat line: [935 km in service since February 2023](https://www.agenceecofin.com/infrastructures/0802-105283-inauguration-de-la-dorsale-optique-nationale-de-la-republique-centrafricaine-et-de-l-interconnexion-avec-le-congo), unchanged at both ends of the window, while a [twelve-thousand-kilometre commitment entered the record as a ministerial statement](https://oubanguimedias.com/2026/02/02/presentation-de-voeux-le-ministere-de-leconomie-numerique-devoile-ses-grandes-orientations-pour-lannee-2026/) with no contract or financing behind it.
+
+Access moved. Satellite service went from no licence and no service to [commercially live with 450 government kits](https://www.agenceecofin.com/actualites-numerique/1703-136713-starlink-en-centrafrique-entre-couverture-nationale-et-defis-d-accessibilite), then to [roaming deactivated on kits acquired abroad on traceability and national-security grounds](https://techafricanews.com/2026/04/28/central-african-republic-suspends-starlink-kits-citing-security-and-equipment-traceability-requirements/) six weeks later. Fourth-generation licensing went from one operator live and a third holding no licence to [all three licensed and commercially serving Bangui](https://www.techreviewafrica.com/news/5420/telecel-centrafrique-launches-4g-services-in-bangui-to-expand-national-connectivity).
+
+What did not move is the state's own capability. The [national data centre is still nothing built](https://www.agenceecofin.com/actualites-numerique/2705-138800-la-centrafrique-modernise-l-infrastructure-numerique-de-son-administration-avec-huawei) after a year in which two further sponsors were added; the [passive-infrastructure licence signed fourteen days before the window opened has no tower count or site build](https://oubanguimedias.com/2025/07/21/centrafrique-signature-officielle-du-cahier-des-charges-pour-la-licence-dexploitation-des-infrastructures-passives-de-sos-telecoms/), so the whole window is the silence after it; and the [cybersecurity agency appears nowhere in the 2024, 2025 or 2026 estimates](http://www.finances.gouv.cf/sites/default/files/2026-03/Cadre%20des%20D%C3%A9penses%20%C3%A0%20Moyen%20Terme%202026.pdf), a search for the word *cyber* returning nothing across 602 pages.
+
+The one clear regression is at the edge: a northern town went from service in operation to [voice, data and mobile money all down for close to a month with no restoration date](https://corbeaunews-centrafrique.org/centrafrique-a-batangafo-un-mois-sans-reseau-orange-bloque-les-communications-et-les-services-financiers/).
+
+## dpi
+
+Government platforms appeared and identity access deteriorated. A [unified public-services portal](https://www.ecofinagency.com/news-digital/1212-51337-central-african-republic-launches-unified-digital-portal-for-all-public-services), a [ministry-wide planning platform](https://techafricanews.com/2026/03/03/central-african-republic-fully-digitizes-ministry-with-launch-of-dunia-platform/) and a [treasury single account application](https://www.digitalbusiness.africa/rca-le-tresor-public-integre-lapplication-informatique-jumac-pour-ameliorer-la-gestion-financiere/) entered the record from nothing, none with a usage figure, cost or timetable. Against them, the identity card went from a [legal tariff of FCFA 4,500 restored after five years of overcharging](https://corbeaunews-centrafrique.org/centrafrique-le-prix-des-cartes-didentite-enfin-reduit-apres-cinq-ans-de-violations-criminelle) to that tariff holding on paper while [police at one prefecture are reported to demand FCFA 100,000 to 200,000 from one religious group](https://corbeaunews-centrafrique.org/centrafrique-le-business-de-la-carte-nationale-didentite-reprend-de-plus-belle-a-ndele/).
+
+The electoral register is the window's largest measured movement: from [1,641,083 enrolled at the 2020 revision to a definitive list of 2,398,158, with 757,075 registered in 2025](https://french.xinhuanet.com/20250825/216678a5ca894a1d915b2f5528ff0973/c.html). Beside it, a [national digital identity system was announced at US$13m on a 2027 to 2032 window](https://ambition-journal.org/fr/economie/systeme-national-d-identite-numerique-moderniser-l-administration), procurement and tender still ahead.
+
+Land administration stalled: a [US$1.6m agreement of April 2024 for an electronic cadastre, and 1,700 hectares tokenised in June 2025, have produced no delivery record](https://www.journaldebangui.com/rca-bangui-renforce-son-partenariat-avec-les-emirats-arabes/); the [2026 framework carries FCFA 1,275,000 across the mining cadastre and a petroleum database](http://www.finances.gouv.cf/sites/default/files/2026-03/Cadre%20des%20D%C3%A9penses%20%C3%A0%20Moyen%20Terme%202026.pdf).
+
+Statistics is where the state built something new: [enumerator teams went into the field in July for about 7,000 households in three two-month waves, entirely by tablet](https://www.icasees.org/index.php/actualites/387-icasees-enquete-harmonisee-sur-les-conditions-de-vie-des-menages-ehcvm-2026-mieux-connaitre-les-realites-des-menages-centrafricains-pour-mieux-orienter-les-politiques-publiques), the first harmonised survey the base holds.
+
+## technology
+
+Nothing in the AI position moved, because none exists: no policy, strategy, decree or bill at either end of the window, and no AI system recorded as deployed in state service delivery. What moved instead is the cryptocurrency estate. Tokenised land concessions went from [opened by presidential decree over 1,700 hectares with no sales figure, to 122 plots sold for about US$38,308 by November 2025](https://itweb.africa/article/car-offers-land-ownership-using-cryptocurrency/Olx4z7kaAGbq56km). The three instruments around them are unchanged: [bitcoin's legal-tender status revoked, the state-sponsored token defunct with under EUR 2m raised, and the presidential meme coin still the payment rail for the land sales](https://globalinitiative.net/wp-content/uploads/2025/12/Behind-the-blockchain-Cryptocurrency-and-criminal-capture-in-the-Central-African-Republic-Central-Africa-Observatory-on-Organized-Crime-and-Violence-December-2025.pdf).
+
+Two vendor programmes entered the record from nothing and neither has a contract: a [four-axis e-government package covering a national data centre, five microwave-relay sites and a secure police radio network](https://www.agenceecofin.com/actualites-numerique/2705-138800-la-centrafrique-modernise-l-infrastructure-numerique-de-son-administration-avec-huawei), documented in no appropriation, and the [incumbent operator's privatisation, declared in its operational phase with US$150m announced](https://www.agenceecofin.com/actualites-numerique/1707-140264-centrafrique-une-nouvelle-tentative-de-relance-de-socatel-chiffree-a-150-millions-usd).
+
+## inclusion
+
+Affordability is where access and inclusion part. The satellite service that arrived in the window costs [FCFA 33,000 a month plus tax with a standard kit at FCFA 240,000, about 136% of monthly income per head against an international affordability threshold of 2%](https://www.agenceecofin.com/actualites-numerique/1703-136713-starlink-en-centrafrique-entre-couverture-nationale-et-defis-d-accessibilite). The object advanced and affordability did not.
+
+The universal service fund, which exists to close that gap, is [still not operational](https://www.agenceecofin.com/actualites-numerique/2104-137723-centrafrique-la-mise-en-uvre-effective-du-fonds-du-service-universel-prevue-pour-2026). What arrived instead was one site: the [country's first free public Wi-Fi point](https://ndjonisango.com/2026/04/24/rca-bocaranga-entre-dans-lere-numerique-avec-le-premier-wi-fi-public-gratuit-du-pays/), with no bandwidth, uptime or user figure.
+
+## gaps
+
+Nineteen rows carry no position at either end — the largest share in this series, and the finding rather than a caveat. Four are systems no document establishes: a national cybersecurity strategy, response team and operations centre; a government interoperability layer; sector management information systems; and local-government digital systems for councils elected in December 2025.
+
+Six are capability and technology absences: no technical capacity or workforce record, no digital literacy or skills programme, no research capacity, no AI policy, and no AI system in state service delivery. Four are measurement absences: no independent measurement of internet penetration, no ICT sector size or operator financials, no startup funding figure, no earth-observation data.
+
+The last group is the one that limits this document. There is [no enacted appropriation for any year and no budget outturn at any grain](http://www.finances.gouv.cf/sites/default/files/2026-03/Cadre%20des%20D%C3%A9penses%20%C3%A0%20Moyen%20Terme%202026.pdf): every budget movement above is stated at proposed or revised stage, because all three enacted finance laws and the whole quarterly execution series are page images whose digits do not extract. Availability is not the constraint; extraction is. Each row is in `gaps.csv` with what would settle it; none has yet been probed on a date.
