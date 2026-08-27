@@ -3,9 +3,9 @@ title: Angola — monthly update, July – August 2026
 compiled: 2026-08-27
 period: 2026-07-01 to 2026-08-27
 place: AGO
-ledger_rows: 48
+ledger_rows: 50
 not_held: 7
-record: a3c2e4db2ce7
+record: a404084e76db
 ---
 
 # Angola: monthly update, July – August 2026
@@ -48,6 +48,11 @@ A report published on 15 August by the South African organisation Intelwatch [fo
 
 <!-- narrative: governance--gov-regional -->
 The national satellite began earning its keep across the border. Mozambique's state operator [started proof-of-concept testing of the Angolan satellite for providing telecommunications services in Mozambique, announced by the Angolan telecommunications ministry as a step towards a commercial agreement to distribute communication and broadcasting signals over Angolan space infrastructure](https://www.itweb.africa/article/tmcel-begins-angosat-2-satellite-trials/JN1gPvOAwolMjL6m). It follows the Mozambican public broadcaster's own proof of concept, implements a bilateral memorandum signed in June 2026, and runs in parallel with a commercial pilot with a Namibian operator for satellite-driven backhaul. No commercial terms are published.
+<!-- /narrative -->
+### Standards
+
+<!-- narrative: governance--gov-standards -->
+The standards estate entered the record this month rather than moving in it. The national quality-infrastructure institute, formed by the 2021 merger of the standardisation and accreditation bodies, is [an ISO correspondent member](https://www.iso.org/member/316519.html) — a category that carries no vote on ISO technical work — and in March [published its 2026 national standards catalogue, incorporating 140 new standards](https://iniq.gov.ao/2026/03/13/%f0%9d%90%88%f0%9d%90%8d%f0%9d%90%88%f0%9d%90%90-%f0%9d%90%83%f0%9d%90%88%f0%9d%90%92%f0%9d%90%8f%f0%9d%90%8e%f0%9d%90%8d%f0%9d%90%88%f0%9d%90%81%f0%9d%90%88%f0%9d%90%8b%f0%9d%90%88%f0%9d%90%99/), among them texts arising from SADC regional harmonisation across the circular economy, construction and building materials, food, quality management, safety rules, technology suppliers, occupational health and safety and vehicle safety. The institute states that Angolan standards are voluntary and are made mandatory only by legislation in the public interest, which is where a reader has to look for their force.
 <!-- /narrative -->
 
 ## Finance
@@ -106,9 +111,9 @@ Two payment milestones fell within a fortnight. The central bank completed migra
 ### Registries
 
 <!-- narrative: dpi--dpi-registry -->
-Identity delivery moved on the printing side. From 1 July all 21 provinces print the identity card locally, ending centralisation at a single production centre, with two to three printers per province planned and a 24-to-48-hour issuance target; one province reports issuance under 24 hours against one to two weeks before June. Against that, [more than 120,000 issued cards were awaiting collection](https://angop.ao/noticias/politica/mais-de-120-mil-bilhetes-de-identidade-aguardam-levantamento-em-todo-o-pais/) nationwide as at 15 July, prompting a civic campaign enlisting churches and traditional authorities.
+Identity delivery moved on the printing side. From 1 July all 21 provinces print the identity card locally, ending centralisation at a single production centre, with two to three printers per province planned and a 24-to-48-hour issuance target; one province reports issuance under 24 hours against one to two weeks before June. Against that, [more than 120,000 issued cards were awaiting collection](https://angop.ao/noticias/politica/mais-de-120-mil-bilhetes-de-identidade-aguardam-levantamento-em-todo-o-pais/) nationwide as at 15 July, prompting a civic campaign enlisting churches and traditional authorities. Two days later the Secretary of State for Justice [put the stock at more than 100,000 and said registration levels still fall short of the targets set](https://angop.ao/noticias/politica/impressao-descentralizada-acelera-emissao-do-bi-secretario-de-estado/), with the uncollected cards measured against general elections due in 2027; the two statements are two days apart, on different roundings, and neither sits in a series.
 
-A single social register was launched in the week ending 25 July with no enrolment target, data-protection basis or governing instrument stated.
+A single social register was launched in the week ending 25 July, and the ministry's own account of the launch supplies what the first reports of it did not. The register is [instituted by Decreto Presidencial n.º 136/19 of 10 May 2019 and this phase is a modernisation and expansion of it, adding interoperability between public institutions, integration of databases and better information quality](https://masfamu.gov.ao/home), underpinning the Kwenda cash transfer — put at more than 1.3 million households and about 6.5 million people — and the national school-feeding programme. Its delivery systems are financed by a [US$27m component of a World Bank social-protection and human-capital operation targeting about 1.5 million households and 7.4 million people](https://documents1.worldbank.org/curated/en/099102325140049320/pdf/P181495-a8b28113-9d6f-4cb8-a1d0-037750e20865.pdf). What remains unstated is the data-protection basis for a register built to be read across institutions, and any count of who is actually on it.
 
 The electoral register, updating since 15 June against a universe of 16.7 million citizens, acquired its first national enrolment figure in August and it came from the opposition rather than the administration. Four parties [put the count above 730,000 and demanded an independent audit of the electoral database, alleging administrative discretion, uneven deployment of registration brigades and recurring biometric-system failures](https://www.novojornal.co.ao/politica/detalhe/partidos-da-oposicao-lancam-alerta-sobre-obstaculos-burocraticos-que-ameacam-exclusao-massiva-de-cidadaos-do-processo-de-actualizacao-do-registo-eleitoral-74052.html), and said the administration refuses to release enrolment statistics disaggregated by province, municipality and commune. At provincial level the Lunda-Norte government [reported over 40,000 residents updated and pressed mining-sector workers to register through the one-stop service desks](https://angop.ao/noticias/politica/governadora-apela-a-actualizacao-dos-dados-eleitorais/). None of the allegations has been adjudicated, and because no official series exists there is nothing to test them against - which is itself the complaint.
 <!-- /narrative -->
@@ -121,6 +126,16 @@ The education ministry and a domestic technology firm [expanded their work on th
 
 <!-- narrative: dpi--dpi-govtech -->
 The government-systems movement in the window is a procurement decision rather than a build. The executive [authorised an integrated digital transformation programme for the public finances by presidential order, as a direct award, covering modernisation of finance ministry services and a restructuring of state bodies and framed as raising revenue collection and cutting bureaucracy](https://correiokianda.info/executivo-preve-gastar-cerca-mais-de-2-mil-milhoes-de-kwanzas-para-digitalizar-financas-publicas/). What a direct award removes is the part of the record a reader could check: the supplier, the scope document and the delivery schedule are all unpublished, so the programme enters the ledger as an intention with a price attached and nothing behind it. Against that, the one government system already in service produced its first operating figures: the tax authority reported on 23 August that [51,245 large taxpayers and state suppliers had joined electronic invoicing since November 2025, issuing 36,341,801 invoices at a daily run-rate near 400,000 and peaking around 700,000, through 255 automatically certified software packages](https://angop.ao/en/noticias/economia/mais-de-50-mil-contribuintes-aderem-a-facturacao-electronica-em-angola/). The figures are the collector's own and the mandate reaches general and simplified-regime taxpayers only in 2027, so this is the compliant half of the base rather than the base.
+<!-- /narrative -->
+
+## Digitalisation
+
+### Digitalisation of sub-national government
+
+<!-- narrative: digitalisation--digital-localgov -->
+Sub-national digitalisation in this window is policing infrastructure. The interior ministry [laid the foundation stone for an Integrated Public Security Centre in Saurimo, Lunda-Sul, on 30 July](https://angop.ao/noticias/sociedade/cisp-sera-instalado-na-lunda-sul/), with more than 100 cameras on the city's main arteries in a first phase and tooling for occurrence management, traffic management, city video surveillance, intelligent-camera monitoring and criminal investigation across Saurimo, Cassengo and Muanguenji; the centres' director-general said the expansion is under way in almost every province and is meant to move policing and investigation from the traditional model to one in which technology is the base of police activity.
+
+What is being replicated is visible in the standard build. Cabinda became the fifth province to get a centre when the interior minister [inaugurated it on 9 December 2025 with a 24-hour command and video-surveillance room answering the 111 emergency number, 184 cameras carrying facial recognition, number-plate reading and protection of designated strategic state sites, and 180 staff](https://cabinda.gov.ao/web/noticias/cisp-or-centro-integrado-de-seguranca-publica-de-cabinda-inaugurado-pelo-ministro-do-interior). No data-protection basis, retention rule or supervisory authority is named for any of that estate, and the data-protection agency's own organic law was [still out to consultancy in April](https://c2a.portais.gov.ao/uploads/Td_Rs_Consultoria_para_Elaboracao_da_Lei_Organica_da_Agencia_de_Proteccao_de_Dados_5a7f75b595.pdf).
 <!-- /narrative -->
 
 ## Technology
