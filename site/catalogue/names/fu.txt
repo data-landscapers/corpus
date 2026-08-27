@@ -185,6 +185,7 @@ BluePeak Private Capital Fund II	9610,1
 Board WEF Women Enterprise Fund WiMAX	2775
 Board of Healthcare Funders	10538
 Board. Financial Provisions Funds	587
+Bom Funcionamento da BDCM	11425
 Bonfig Site Fund	4896
 Boost Students’ Digital Skills Airtel Fursa	10732
 Borrowed Funds	7198
@@ -219,6 +220,7 @@ C Functions of Refugee Appeals Authority	11177
 C Functions of Standing Committee	11177
 CAIF I. Fund	945
 CAPITÚLO III Funcionamento	5169
+CAPÍTULO II PRINCÍPIOS E GARANTIAS FUNDAMENTAIS	11461
 CAPÍTULO III ORGANIZAÇÃO E FUNCIONAMENTO	10754
 CAPÍTULO III ORGANIZAÇÃO E FUNCIONAMENTO Artigo	13
 CAPÍTULO IV FUNCIONAMENTO	4147
@@ -262,6 +264,7 @@ Centralized Fund	6432
 Centre Fund Township Development	4896
 Centre for Behaviour Change. THE PROMISING FUTURE	899
 Centro de Convenções de Talatona. Full	4044
+Cessação de Funções	11449
 Chain Fund	5765
 Challenge Fund	11133,9
 Challenges and Future Prospects	8288
@@ -274,6 +277,7 @@ Children’s Investment Fund Foundation	1824
 China’s Global Development and South-South Cooperation Fund	10623
 Chinese. Fudan University and Shanghai Jiao Tong	9015
 Cibersegurança Passa A Ser Função Permanente	8827
+Cidadão Cidadão Funcionários	11379
 Civic Academy for Africa’s Future	10089
 Clarifai Full	4434
 Clash Against Future FC Artificial	7814
@@ -293,6 +297,8 @@ Commission’s Spectrum Management Functions	5245
 Committee Functions	1154
 Commodities Fund Data Controller INST-6094611D08F NAIROBI	7167
 Commodity Futures Trading Commission	2826
+Competências Funcionais	11448
+Concessão de Direitos Fundiários	11408
 Condition of Global Health Funding	5456
 Confirmação da Disponibilidade de Fundos	10755
 Connected Future	4840,37,1,2739,104
@@ -389,6 +395,7 @@ Deposit Protection Fund	11131,3
 Deposit Protection Fund CBE Greening	11134
 Deposit Protection Fund CEO Uganda Microfinance	6938
 Deposit Protection Fund Progress	11134
+Depósitos de Fundos	11386
 Description Accion Digital Transformation Fund	943
 Description Convergence Partners Digital Infrastructure Fund	620,434
 Description Der Verdant Capital Hybrid Fund	692,1
@@ -439,7 +446,9 @@ Dimension Data SPV Funding Plc	8186
 Directions for Future Research	7966
 Director General Adjunto FUERZAS TERRESTRES.- Concepto	4209
 Director Universal Service Fund	6946
-Direitos Fundamentais	794
+Direito Fundiário	11443
+Direitos Fundamentais	794,10658
+Direitos Fundiários	11443
 Disaster Relief Funding Given	11134
 Disbursement of Funds	2775
 Displacement Monitoring Centre IFAD International Fund	10759,78
@@ -510,6 +519,7 @@ Enabling Future Growth	10761
 Energy Fund for Africa SEFCA Societe	10841
 English Funding Agency	8726
 Enterprise Development Fund	2775
+Epidemiologia de Campo FNUAP Fundo	11376
 Equalisation Fund	10313
 Equalisation Fund Appropriation Bill	10313
 Equitable Fund	2775
@@ -565,6 +575,7 @@ F Fundo	2866
 F. Funding	4214
 FACTORS THAT SHAPE THE FUTURE SPECTRUM	5245
 FAIS Act. Further	4824
+FAS Fundo de Apoio Social GBM Grupo	11390
 FASUCE Fund Committee	4798
 FICHA TÉCNICA Supervisão Joel Futi Director-Geral	4044
 FINCORP and Public Service Pension Fund	11134
@@ -612,6 +623,7 @@ FULLTEXT01.pdf Musirmonov	7759
 FUNAE	2473
 FUNCION PUBLICA	4209
 FUNCIONAMENTO	13
+FUNCIONAMENTO E GESTÃO DA ADMINISTRAÇÃO PÚBLICA	11397
 FUNCTIONAL REQUIREMENTS	11209
 FUNCTIONAL REQUIREMENTS SPECIFICATION	11209
 FUNCTIONAL REQUIREMENTS SPECIFICATION SECTION	11209
@@ -626,6 +638,7 @@ FUNDING	585,629,7652,1998,90,175
 FUNDING AMOUNT PER STAGE	10954
 FUNDING CONTEXT The BMA	11285
 FUNDING I0.1The Participants	4153
+FUNDO DE DESENVOLVIMENTO DAS COMUNICAÇÕES	11397
 FUNDP	5700
 FUNDRAISING BY FINAL CLOSE	4972
 FUNGUO Programme Manager	10195
@@ -792,9 +805,10 @@ Fumantes	10777
 Fumer	10876
 Fun and Profit	2096
 Funcion. Grupos Parlamentarios	4209
+Funcionais	11441
 Funcionalidade	10777
 Funcionalidades	9432
-Funcionamento	167,1086,833,2132,56,141,1,1,1,1,6328,13,17
+Funcionamento	167,1086,833,2132,56,141,1,1,1,1,6328,13,17,582,67,17,6,9
 Funcionamento da Comissão Técnica	10755
 Funcionamento de Centros de Dados	2437
 Funcionamiento	1701,2508
@@ -807,6 +821,7 @@ Funcionarios	4209
 Funciones	163
 Funcionários	2816,4179
 Funcionários Públicos	2816
+Funcionários da Administração Pública	11413
 Función Pública	758,1097,2354,2632,2683
 Función Pública. Artículo	4209
 Function	4528,1859,4747
@@ -840,10 +855,10 @@ Functionalities	10878
 Functionality	3972,2460,834,3455,488,43
 Functionality Evaluation Bid	11209
 Functioning	771,7050
-Functions	11,76,498,2,567,66,254,119,284,216,682,939,32,115,26,243,219,4,2079,1400,628,406
+Functions	11,76,498,2,567,66,254,119,284,216,682,939,32,115,26,243,219,4,2079,1400,628,406,2598
 Functions The Council	3861
 Functions The Desk	10157
-Functions of Agency	2727
+Functions of Agency	2727,8737
 Functions of Authority Licensing	11179
 Functions of Authority Part	11179
 Functions of Business and Intellectual Property Authority	3714
@@ -868,6 +883,8 @@ Fund Definitions	11198
 Fund Department Department Resource	6946
 Fund EEAS European External Action Service	970
 Fund Export Credit Guarantee Scheme Enterprise	11131
+Fund Facility	11380
+Fund Facility EIRR Economic	11380
 Fund Female Education Excellence	5163
 Fund Flows Diagram IDA Account	3604
 Fund Flows M Risk	3604
@@ -921,7 +938,9 @@ Fundamental Rights Protection GUARANTEEING	3861
 Fundamentally	10,8173,2581,272,182
 Fundamentals	10,9119,366
 Fundamentals of Cybersecurity for Media Practitioners	10383
+Fundamentação	11461
 Fundamento	794
+Fundamentos Para	11373
 Fundamentos Teóricos	2816
 Fundanovic	9237
 Fundação	1265,9011
@@ -978,7 +997,7 @@ Funding for Afrobarometer	7886
 Funding for WURI-Togo	5956
 FundingICTUNEmmerson MnangagwaInnovationRead	5411
 FundingSector	11180
-Fundo	13,207,1728,868,50,843,3261,696,808,2303
+Fundo	13,207,1728,868,50,843,3261,696,808,2303,596,17
 Fundo Africano de IA	3519
 Fundo Catalítico de Inovação	2816
 Fundo Climático	1948
@@ -993,11 +1012,12 @@ Fundo Nacional	2816
 Fundo Nacional de Emergência	1265
 Fundo Nacional de Investigação	414
 Fundo Nacional de Investigação Av. da Namaacha	414
+Fundo Nações Unidas	11387
 Fundo Soberano	2816
 Fundo Soberano de Garantia	1265
 Fundo da Acção Social	10775
-Fundo de Apoio	13,2
-Fundo de Apoio Social	10768
+Fundo de Apoio	13,2,11415
+Fundo de Apoio Social	10768,610
 Fundo de Cibersegurança	4218
 Fundo de Contravalor	1339,1,1,1,739,2,1
 Fundo de Cooperação	10788
@@ -1018,13 +1038,14 @@ Fundraising Contracts	4972
 Fundraising Landscape	4972
 Fundraising Landscape VALUE OF VENTURE CAPITAL	4972
 Fundraising Timelines	4972
-Funds	236,351,10,214,409,254,164,169,60,402,756,862,513,253,319,938,1037,251,79,261,10,1074,312,561,239,431,603,61,135,266,42
+Funds	236,351,10,214,409,254,164,169,60,402,756,862,513,253,319,938,1037,251,79,261,10,1074,312,561,239,431,603,61,135,266,42,192
 Funds Chain	6539
 Funds Chain. The World Bank	6539
 Funds Flow Chart World Bank	1867
 Funds Flow Diagram	10829
 Funds IBRD IDA Grants Net	4653
 Funds Insurance Companies Fund of Funds Sovereign	4972
+Funds Managed	11469
 Funds Management	718
 Funds Net Commitment Disbursed Undisbursed	2473
 Funds Raised Global	4972
@@ -1033,6 +1054,7 @@ Funds of Authority	3746,141
 Funds. The Committee	10313
 Funds. When the Railway Development Fund	10313
 FundsChain	3604
+Fundschain	11469
 Funeka Montjane. Biometric	3435
 Funeral	418
 Fungu	2868,3151,1,1
@@ -1045,7 +1067,7 @@ Funso	10571
 Funso Aina	8408
 Funyula	10313
 Funzamo	771
-Função	10783
+Função	10783,585,57
 Função Pública	2816,4154,1140,820,1848
 Função Pública. CAPÍTULO VII Disposições	6970
 Funções	1265,3,680,1571,1493
@@ -1062,7 +1084,7 @@ Fursa	5090
 Fursa Lab	11333
 Furtasan Ali	6948
 Furtasan Ali Yusuf	6948
-Further	32,204,159,23,167,133,181,41,18,3,21,27,152,61,21,5,13,3,25,44,202,19,76,8,176,14,39,121,108,21,190,83,122,156,74,33,94,20,169,186,63,206,32,38,131,21,47,9,66,5,184,81,26,110,320,9,115,25,2,90,72,217,102,31,1,7,168,128,48,135,40,20,29,3,6,254,147,73,81,102,51,98,44,153,112,1,14,21,54,85,24,76,12,9,36,53,453,85,97,48,11,117,68,226,59,173,96,32,68,117,18,124,6,33,75,310,37,19,1,56,79,20,64,181,86,173,50,214,174,3,59,1,1,3,7,4,14,26,10,15,12,5,25,75,2,1,33,9,22,91,11,1,2,1,1,7,13,1,14,18,83
+Further	32,204,159,23,167,133,181,41,18,3,21,27,152,61,21,5,13,3,25,44,202,19,76,8,176,14,39,121,108,21,190,83,122,156,74,33,94,20,169,186,63,206,32,38,131,21,47,9,66,5,184,81,26,110,320,9,115,25,2,90,72,217,102,31,1,7,168,128,48,135,40,20,29,3,6,254,147,73,81,102,51,98,44,153,112,1,14,21,54,85,24,76,12,9,36,53,453,85,97,48,11,117,68,226,59,173,96,32,68,117,18,124,6,33,75,310,37,19,1,56,79,20,64,181,86,173,50,214,174,3,59,1,1,3,7,4,14,26,10,15,12,5,25,75,2,1,33,9,22,91,11,1,2,1,1,7,13,1,14,18,83,146,51,15,12
 Further Improvements	1698
 Further Information	4896
 Further Information Further	1246
@@ -1092,10 +1114,11 @@ Fusion Centre	6793
 Fusion Developer	6353
 Fusion-absorption	10875
 Fusion-réunion	10875
-Fusão	10755
+Fusão	10755,626
 Futa Avec	2429
 Futa. Bien	2429
 Futhermore	8022
+Futi Director-Geral Coordenação Teresa Spínola Anália	11421
 Futsal	10349
 Futuras Generaciones	4209
 Future	899,70,40,203,31,18,516,1,46,85,79,233,458,92,45,101,55,212,201,50,121,48,37,254,3,63,321,150,368,140,32,274,547,307,136,187,409,116,256,38,36,190,80,201,10,31,96,275,135,164,142,1,2,110,315,93,6,933,148,96,142,42,286,3,30,25,10,8,9,79,24,25,8,20,11,9,94,2,77,5,35,3,12
@@ -1186,6 +1209,7 @@ Future-proof	6432
 Future-proof Ghana	4126
 Future-tech	3937
 Future-tech. The Cavaleros Group	3937
+Future. A UNESCO Chair	11478
 Future. FY26 AT A GLANCE	7204
 FutureLink	3065
 FutureReadyEducation	11307
@@ -1199,6 +1223,7 @@ Futures Triangle23	11265
 Futurist	7359
 Futuristic	10460
 Futuro	2816,3927,2546,1072
+Futuro Os	11434
 Futuro da Banca	6360
 Fuzzy	5369,3235,459
 Fuzzy Logic Algorithm	8604
@@ -1312,6 +1337,10 @@ I PRINCÍPIOS FUNDAMENTAIS Artigo	15
 IANA Functions	3503
 IANA Functions Operator	3503
 IBES II. Future	236
+IBRD Fund for Innovative GPG Solutions	11417
+IBRD SURPLUS-FUNDED LIVABLE PLANET FUND	11417
+IBRD Surplus-Funded Livable Planet Fund	11417
+IBRD Surplus-Funded Livable Planet Fund LPF1	11417
 IBSA Fund	11183
 IBSA Fund Agreement	11183
 ICT and Future Planning Updates	11135
@@ -1328,6 +1357,7 @@ ILX Fund	4467,2762
 ILX Fund Chief Investment Officer Kirstine	7229
 IMF Fossil Fuel Subsidies Data	11140
 IMF Internally Generated Funds	789
+IMF International Monetary Fund INE Instituto	11380
 IMF International Monetary Fund IPP Independent	10861
 IMF International Monetary Fund IRI Intermediate	1284
 IMF International Monetary Fund MCU United	4127
@@ -1335,6 +1365,7 @@ INCLUSIVE DIGITAL FINANCIAL FUTURE Policy Insight	4848
 INEGE Gastos de Funcionamiento de INEGE	4209
 INKUNGA ACCESS FUND L’ACCÈS UNIVERSEL SERIVISI	1214
 INSPEC. GRAL DE LAS FUERZAS ARMADAS.-Concepto	4209
+INSTALAÇÃO E FUNCIONAMENTO DA AUTORIDADE CREDENCIADORA	11397
 INTERNATIONAL MONETARY FUND	1828
 INTERNATIONAL MONETARY FUND Table	1828
 INTRODUCCIÓN Fue	1701
@@ -1386,7 +1417,7 @@ Internal Audit Function The Internal Audit	1554
 International Children’s Emergency Fund	10777
 International Financial Institutions Green Climate Fund	11332
 International Fund for Agricultural Development	7030,203,951,1342,1315,191
-International Monetary Fund	1155,129,544,57,1693,5,21,6,43,474,917,97,106,1091,600,304,223,113,26,33,116,70,166,21,251,97,68,289,303,212,198,31,31,21,59,169,464,216,324,98,128,28,134,3,2,4,9,44,2,63,28
+International Monetary Fund	1155,129,544,57,1693,5,21,6,43,474,917,97,106,1091,600,304,223,113,26,33,116,70,166,21,251,97,68,289,303,212,198,31,31,21,59,169,464,216,324,98,128,28,134,3,2,4,9,44,2,63,28,94
 International Monetary Fund Deputy Director of Statistics	8413
 International Monetary Fund Executive Board	3583
 International Monetary Fund IPU Inter-Parliamentary Union	10759,78
@@ -1439,6 +1470,7 @@ KENYA THE PROMISING FUTURE	899
 KEY FUNCTIONS OF THE FINANCE DEPARTMENT	9437
 KISEMBO'S FUTURE	9696
 KOAFEC Trust Fund	9905
+KU Development Futures Lab Student Research	11487
 KZjnNY2lXY THE PROMISING FUTURE OF DIGITAL	899
 Kenya Data Sovereign Fund	11164
 Key Capitals Supporting the Financial Stability Function	11134
@@ -1469,6 +1501,8 @@ Las Fuerzas Armadas	1701
 Launch Africa Seed Fund	7611
 Launches Fully Digital Business Registry System	3907
 Learner Choice and Fundamental Rights	6948
+Lei Fundamental	11388
+Lei de Bases da Função Pública	11452
 Lendable Fintech Credit Fund	624
 Lendable MSME FinTech Credit Fund	821
 Lendable MSME Fintech Credit Fund	624,197,126
@@ -1555,6 +1589,7 @@ Mineral Development Fund	7695
 Mineral Income Investment Fund	10069
 Minerva Technology Futures	7209
 Mitigation Measures Amid Fuel Subsidies Reform	1828
+Modo de Funcionamento	11381
 Monetary Fund	11134
 Monetary Fund Internet of Things Intellectual Property	4528
 Monetary Fund. TADAT Secretariat	10997
@@ -1587,6 +1622,7 @@ NDC Partnership Action Fund and United Nations	11134
 NDoH Global Fund Cluster	11252
 NHI Fund	1009
 NHIF National Hospital Insurance Fund NIA	2775
+NICA DE CONCESSÃO DE DIREITOS FUNDIÁRIOS	11384,24
 NRO EC. Further	8047
 Nakanoshima Qross International Institute of Future Medicine	3760
 Namibia Students Finance Assistance Fund	6765
@@ -1608,6 +1644,7 @@ National Digital and Future Skills Strategy NEET	6832
 National Digital and Future Skills Strategy. Pretoria	6832
 National Employment Fund	10963,1
 National Energy Fund	2473
+National Fuel Society of Angola	11380
 National Fund	7548
 National Fund of Funds	3953
 National Funded	7548
@@ -1655,7 +1692,9 @@ Non-World Bank Group Financing Trust Funds	10829
 Norrsken22 Africa Tech Growth Fund	832
 Norrsken22 Fund	819
 Norwegian Investment Fund for Developing Countries	211,178,1,123,194,1,1,1,218,1,208,1095,1,1
+Nota Técnica de Articulação Funcional	11451
 Notre Futur	8673
+Novas Funções	11390
 Novastar Fund	46,884
 Novastar Ventures Africa Fund II	243
 Novastar Ventures Africa People and Planet Fund	4516
@@ -1667,6 +1706,7 @@ O Fundo Mais	1265
 O Fundo Morabeza	3709
 O Fundo Nacional de Investigação	414
 O Fundo de Apoio	13,2
+O Fundo de Apoio Social	11378
 O Fundo de Serviço de Acesso Universal	2866
 OBJECTS OF COMPANY FUNDING REGISTERED	585
 OECD. INTERNATIONAL MONETARY FUND	1828
@@ -1690,6 +1730,7 @@ Osvaldo Funa	9501
 Outbreak Republic of Response Funding Nigeria Funding	4301
 Outbreak Resoonse Funding	4349
 Outbreak Response Funding	4153,14,35,15,43,1092
+PARA O FUTURO DAS INSTITUIÇÕES SUPERIORES	11473
 PART III ADMINISTRATION OF FUND	22
 PART THREE FUND ESTABLISHEMENT	7538
 PARTECH AFRICA VENTURE CAPITAL FUND	188
@@ -1699,6 +1740,7 @@ PEDRO MABALE FUGA AFANG Así	1855
 PILLARS Budget Funding	395
 PM UTC Fusepay	4095
 PRACTITIONER’S FUNCTIONS AND TERMS OF APPOINTMENT	3714
+PRINCÍPIOS E GARANTIAS FUNDAMENTAIS SECÇÃO	11461
 PROMISING FUTURE OF DIGITAL	899
 PROMISING FUTURE OF DIGITAL LEARNING	899
 PROPOSTAS PARA O FUTURO Moçambique	2125
@@ -1748,11 +1790,13 @@ Project Activities Budget Funding US	395
 Project Components and Funds Allocation	1704
 Project Economic Development Cooperation Fund	1082
 Project-Specific Funds	1246
+Project. Ongoing. Total Funding	11420
 Proportion of Petroleum Fuel Sales	2775
 Proposed Location and Funding	4528
 Protect the Future. World Bank Group	969
 Protecting Future Generations Artificial	2958
 Protection of Funds	8354
+Protecção de Direitos Fundamentais	11461
 Protocol. Further	1243
 Providing Future Solutions Now	1263,1045
 Príncipe Funchal	6837
@@ -1765,6 +1809,7 @@ Qatar Fund for Development	402
 Quai des Futurs	3036
 Questioning The Future of Africa’s Digital Sovereignty	3598
 REG. Fund	1056
+RELATÓRIO DE FUNDAMENTAÇÃO	11461
 RELATÓRIO DE FUNDAMENTAÇÃO DA PROPOSTA	3519
 REQUESTS FOR CLARIFICATION OR FURTHER INFORMATION	11240
 RSS. Full	11078
@@ -1794,6 +1839,8 @@ Regional AI Technologies Fund	6937
 Regional Scholarship and Innovation Fund	10642
 Regional Scholarship and Inovation Fund	2816
 Register of Voters. Further	1630
+Regras de Funcionamento	11368
+Regulamento de Funcionamento	11443
 Regulation and Standards Strategic Project Budget Funding	395
 Regulatory Authority TFS The Future Society	1204
 Reimbursements Funds	1867
@@ -1810,6 +1857,7 @@ Research Fund Support	7548
 Research Funding	1554
 Research Institutions. Core Functions The Committee	7548
 Resemble.ai Flipsnack REVERCE GmbH FullBet.gr Rupestėlis	8530
+Reservas Fundiárias	11443
 Resolution Function	8377,2757
 Resolution Regime Fully	11134
 Resolução Full HD	794
@@ -1897,6 +1945,7 @@ Seed-to-Growth Tech Fund SSA Proparco	4516
 SeedFund The Digital Africa Seed Fund	3036
 Seedstars Africa Ventures and Taru Capital. Funds	810
 Seeks Full Adoption Across MDAs	8632
+Seguro. Funções	11480
 Selected Debt Service Components and Budget Funding	1828
 Selected Issues Papers. International Monetary Fund	1828
 Self Funded	1207,1,925,1,3,15,58,19,6,289,83,1861,1,51
@@ -1986,6 +2035,7 @@ State Revenue Fund	3714
 States and Federal Government. Funding	11129
 Stats SA Funding Requirements	11289
 Stears Funds Database	8612
+Step Toward Resilient Futures	11407
 Stock-Taking of Fuel Subsidies	1828
 Strategic Priorities for Nigeria’s Fintech Future Based	4848
 Strengthening DRC's Digital Future	2350
@@ -1999,6 +2049,7 @@ Sub-Saharan Africa. Fund-of-funds	4450
 Sub-county Directors of Education THE PROMISING FUTURE	899
 Submarine Cable Connectivity Fundamental	2677
 Substation Fuel Backup Storage	10956
+Subsídio de Funeral	11467
 Successfully Fully	11131
 Sudan Humanitarian Fund	6947
 Sudan Minister of Finance Announces Full Support	8613
@@ -2074,6 +2125,7 @@ Trust Fund Amount Amount Amount Cancellati	2473
 Trust Fund for Specialised Medical	7845
 Trust Fund for Specialised Medical Care	7845
 Trust Fund for Specialised Medical Care Act	7845
+Trust Funds	11417
 Trust the Future	8430
 Type of Fund Manager	4972
 U.S. Government Commodity Funding	4217
@@ -2098,7 +2150,9 @@ UN Summit of Futures	1264
 UNDP Funding Windows	4579,24
 UNDP. Funding	9197
 UNESCO-Korea Funds-in-Trust	10469
+UNICEF Fundo Programa	11376
 UNICEF THE PROMISING FUTURE OF DIGITAL	899
+UNICEF United Nations Children's Fund	11390
 UNICEF United Nations Children’s Fund	10829
 UNICEF United Nations Children’s Fund USAID	10768
 UNICEF Venture Fund	11156
@@ -2202,6 +2256,8 @@ Voice for Africa's Digital Future Aisha	9201
 Volume of Venture Capital Funds	4972
 WAEMU Activates Financial Stability Fund	5407,676
 WEF Future of Jobs 2025 Press Release PTBR.p	2816
+WMO Funding	11420
+Wallis and Futuna Western Sahara Yemen Zambia	11470
 Warehouse Fund	4896
 Wealth Fund Development Finance Institutions Corporate	4972
 Wholesale Prices1 of Petroleum Fuels	2775

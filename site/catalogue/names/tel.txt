@@ -47,7 +47,7 @@ Africa Ethiopia International Telecommunication Union	10764
 Africa Telecommunications Union	961
 African Advanced Level Telecommunications Institute	7167
 African Telcos	4993
-African Telecommunications Union	962,3663,560,365,36,90,331,332,303,148,156,128,31,457,31,76,139,17,51,7,1,39,15,12,96,71,124,177,78,1,233,73,433,431,89,14,1441
+African Telecommunications Union	962,3663,560,365,36,90,331,332,303,148,156,128,31,457,31,76,139,17,51,7,1,39,15,12,96,71,124,177,78,1,233,73,433,431,89,14,1441,289
 African Telecommunications Union Secretariat	7562
 African Telecommunications Union Spectrum Assignment	7827,262
 African Telecommunications Union Spectrum Assignment Plan	7850,323
@@ -60,9 +60,11 @@ Airtel Kenya and Telkom Kenya	8753
 Airtel Malawi Plc and Telekom Networks Malawi	7411,2,112
 Airtel Malawi and Telekom Networks Malawi	7486,39
 Airtel Networks Kenya Limited and Telkom Kenya	6946
+Airtel Telesonic	11500
 Airtel Uganda Telecom	10822
 Airtel and Telkom	9210
 AktivCo Solar Solarisation of Telecom Towers	708
+Ala EsquerdaAngola Tel	11493
 Alex Fefegula Harding The National Telecommunications	8416
 Algeria Telecom	2446,832,1780
 Algeria Telecom and Huawei	2446
@@ -108,6 +110,7 @@ Association of Licenced Telecom Operators of Nigeria	5055
 Association of Licensed Telecoms Operators of Nigeria	8466,780
 Association of Telecommunication Companies of Nigeria	11129
 Association of Telecommunications Companies of Nigeria	6536,1671,840,2121
+Atendimento Telefónico	11368
 Attribution ATLANTIQUE TELECOMS C	998
 Audited Rm Irancell Telecommunication Company Services	10793
 Authorised Television Stations	2776
@@ -257,8 +260,9 @@ Companhia São-tomense de Telecomunicações	5557
 Comparison of Telecoms Industry Performance	3862
 Competition Management Tel	6671
 Comptabilité Stratégie Transport Telecom	2342
-Computer Assisted Telephonic Interview	4044
-Computer Assisted Telephonic Interview2	4040
+Computer Assisted Telephone Interviewing	11416,5
+Computer Assisted Telephonic Interview	4044,7402
+Computer Assisted Telephonic Interview2	4040,7381
 Computer Science and Telecommunication	6832
 Computer and Telecommunications Engineering	9128
 Computer-assisted Telephone Interview	11192
@@ -300,6 +304,7 @@ DOMESTIC National Departments Telecommunications	961
 DONE BY THE LIBERIA TELECOMMUNICATIONS AUTHORITY	4610
 DRC's Postal and Telecommunications Regulatory Authority	4681
 DTT Digital Terrestrial Television EAC East	6671
+Data Governance International Telecommunication Union United	11439
 Data Protection Authority The Postal and Telecommunications	972
 Data Protection and Privacy A. All Telecommunications	4610
 Datacom Telecom	8025
@@ -343,6 +348,7 @@ Director International Telecommunication Union	10764,80
 Director Mobile Telephone Networks	7198
 Director of ITU’s Telecommunication Development Bureau	7139
 Director of Telecoms and Postal Services	9669
+Direcção de Telecomunicações	11392
 Djibouti Telecom	85,297,905,1,1391,842,1,1,10,26,229,632,295,183,20,1,16,40,1071,534,432
 Djibouti Telecom CEO Mohamed Assoweh Bouh	4918,17
 Djibouti Telecom Chief Executive Officer Mohamed	4898
@@ -507,6 +513,7 @@ Gukwirakwiza Telefoni	1214
 HAS Telecommunications B Job C State	5679
 HDAs. Class C4 Telecommunications Infrastructure	9123
 HIc Israel Asia Western Asia Tel	10840
+Hab. Da Rede de Telefonia Móvel Subscrições	11418
 Harare Tel	1877
 High-Speed Communications Limited Tel	3386
 History of Nigerian Telecoms Sector	5245
@@ -519,6 +526,7 @@ Hour Cyber Incident Reporting for Telecom Operators	5308
 Huawei and Algeria Telecom	2446
 Huawei for Algeria Telecom	2446
 Huawei. Telecom Egypt	10461
+Hub de Telecomunicações	11396
 I Address I Tel	736
 I I Tel. I I E-mail	736
 I-16 UN Telecommunication Infrastructure Index	10785
@@ -527,6 +535,7 @@ ICASA Electronic Telecommunications	11211,51
 ICT GVA. The Telecommunication	236
 ICT Sector Telecom Namibia Mobile Telecommunications	1013
 INDÚSTRIA DE TELECOMUNICAÇÕES	2816
+INFRA-ESTRUTURA DE TELECOMUNICAÇÕES	11397
 INTERIM RESULTS TELECONFERENCE MTN	10793
 INTERNATIONAL INCOMING AND OUTGOING FIXED TELEPHONE	11211,51
 IPT Powertech for Telecom Tower Energy	344
@@ -539,6 +548,7 @@ ITU Telecommunication Development Bureau	26,1,1,4492,2529,86,93,1390,2146,80
 ITU Telecommunication Development Sector	8945
 ITU World Telecommunication	6946
 ITU-R International Telecommunication Union	6946
+ITU’s World Telecommunication Development Conference	11424
 ITX Telecoms Ltd	3862
 Ids. The Ministry of Posts and Telecommunications	5244
 Imbil Telecom Solutions Ltd	3862
@@ -570,7 +580,7 @@ International Telecom-	11,950
 International Telecommunica- Alignment	961
 International Telecommunication	736,10480
 International Telecommunication In Kenya	6593
-International Telecommunication Union	11,15,1,1,176,81,33,78,106,187,1,1,45,222,3,168,399,249,37,455,33,72,9,52,133,22,73,14,26,61,52,97,24,7,2,67,82,1,38,85,9,4,12,10,210,140,146,168,1,1,67,43,48,104,22,340,39,70,222,283,27,25,42,55,31,69,90,57,16,32,68,5,1,1,364,11,9,35,72,35,62,32,34,136,169,6,148,146,10,103,56,14,16,64,29,18,63,17,102,3,1,130,107,124,34,56,1,39,27,30,66,27,16,24,60,68,223,32,45,77,27,158,227,76,31,297,182,32,108,3,22,5,2,4,132,18,25,65,375,187,126,44,55,25,4,102,54,19,117,55,16,5,4,34,8
+International Telecommunication Union	11,15,1,1,176,81,33,78,106,187,1,1,45,222,3,168,399,249,37,455,33,72,9,52,133,22,73,14,26,61,52,97,24,7,2,67,82,1,38,85,9,4,12,10,210,140,146,168,1,1,67,43,48,104,22,340,39,70,222,283,27,25,42,55,31,69,90,57,16,32,68,5,1,1,364,11,9,35,72,35,62,32,34,136,169,6,148,146,10,103,56,14,16,64,29,18,63,17,102,3,1,130,107,124,34,56,1,39,27,30,66,27,16,24,60,68,223,32,45,77,27,158,227,76,31,297,182,32,108,3,22,5,2,4,132,18,25,65,375,187,126,44,55,25,4,102,54,19,117,55,16,5,4,34,8,221
 International Telecommunication Union Council	6007
 International Telecommunication Union ITI Internet User	1009
 International Telecommunication Union JIPSA	6832
@@ -616,6 +626,7 @@ Knowledge Economy and Telecommunications	5870
 Korea Telecom Rwanda Networks	1903
 Korea Telecom Rwanda Networks LPG Liquefied	718
 L'agence de Moov Africa Gabon Telecom de Mbolo	2325
+LARGA DE TELECOMUNICAÇÕES	11397
 LICENCE CONDITIONS FOR THE REVISED TELECOMMUNICATIONS	9335
 LOCAL AND NATIONAL TELEPHONE TRAFFIC	3862
 LS Telcom	5390
@@ -680,6 +691,7 @@ M Telkom Kenya. Crosswalk	254
 M. AXIAN Telecom SSA	829
 M. Liquid Telecommunications	621
 MACRA's Acting Director of Telecoms	10950
+MATERIALIZAÇÃO DA TRANSIÇÃO PARA A TELEDIFUSÃO	11397
 MB. Vodacom and Telkom Mobile	11259
 MBSSE and National Telecommunications Commission	4619
 MHz Cordless Telephony Cordless Telephony	736
@@ -763,7 +775,7 @@ Minister of Posts and Telecommunications Minette Libom Li	2303,951
 Minister of Posts and Telecommunications Sekou M. Kromah	4878,2739,103
 Minister of Posts and Telecommunications Sid Ali Zerrouki	6657
 Minister of Posts and Telecommunications. Developed	5244
-Minister of Telecommunications	2533,579,24,550,301,228,333,458,981,765,510
+Minister of Telecommunications	2533,579,24,550,301,228,333,458,981,765,510,4204
 Minister of Telecommunications Decree	4982
 Minister of Telecommunications and Digital Affairs	7290
 Minister of Telecommunications and Digital Technologies	11235
@@ -1054,6 +1066,7 @@ Rwanda. Telemo	8449
 RÉSEAUX Facebook X LinkedIn WhatsApp Telegram	2439,389,2071,880
 Réservation ATLANTIQUE TELECOMS	998
 SAP and Deutsche Telekom	6477
+SECÇÃO V EQUIPAMENTOS DE TELECOMUNICAÇÕES	11430
 SERI Law Clinic Tel	2307
 SIL and Mauritius Telecom	6407
 SMEs. Ethio Telecom	7971
@@ -1094,6 +1107,7 @@ Servicios de Telecomunicaciones	9543
 Serviço de Telecomunicações	2866
 Serviços de Acesso Universal de Telecomunicações. Artigo	2866
 Serviços de Telecomunicações	2866,1691
+Serviços de Televisão Digital	11430
 Session Telecoms	5784
 Share. Facebook Twitter LinkedIn WhatsApp Telegram	5933,3836
 Shared Telecom Infrastructure	2140
@@ -1102,6 +1116,7 @@ Sierra Leone Telegraph	3950,3256,2975
 Singapour. Djibouti Telecom	4715
 Single Channel Telephone	736
 Sistema Nacional de Telecomunicaciones	1701
+Sistema Nacional de Telecomunicações	11396
 Sistema de Controlo de Tráfego de Telecomunicações	4274
 Sistemas de Telecomunicaciones	9543
 Smart Africa Support for Telecoms and AI Development	7157,40,31
@@ -1174,6 +1189,7 @@ TELECOMUNICACIONES Y SISTEMA DE IA	4209
 TELECOMUNICACIONES Y SISTEMAS DE IA	4209
 TELECOMUNICACIONES Y SISTEMAS DE INTELIGENCIA ARTIFICIAL	4209
 TELECOMUNICACIONES Y SITEMAS DE IA Cuentas	4209
+TELECOMUNICAÇÕES	11397
 TELEMO	3959,77,80,499,1734,2208,1715,260
 TELEPHONE ACCEPTABLE USE STANDARDS GUIDELINES	34
 TELEPHONE NUMBER	11218,22
@@ -1362,7 +1378,7 @@ TelecomReform	3216
 TelecomTV	7490
 Telecommuni-	6946
 TelecommunicatioSnesnsit	736
-Telecommunication	236,482,18,39,1576,1099,1794,1702,1601,663,125,1634,242,51
+Telecommunication	236,482,18,39,1576,1099,1794,1702,1601,663,125,1634,242,51,162
 Telecommunication Companies TOR Terms of Reference TRIPS	236
 Telecommunication Construction Co	619
 Telecommunication Contractors	6946
@@ -1392,7 +1408,7 @@ Telecommunication Union Newsletter	9109
 Telecommunication X X	236
 Telecommunication and Information Policy	4896
 Telecommunication and Postal Regulation Authority	1851
-Telecommunications	26,1,1,12,196,346,136,18,26,481,21,613,3,29,40,357,5,74,13,112,188,61,16,185,129,7,101,212,55,96,39,5,37,111,18,1,13,61,17,97,138,29,107,107,5,7,159,17,27,126,215,351,41,32,301,56,4,32,277,222,78,72,262,66,315,184,403,12,684,105,523,166,41,11,55,57,28,61,64,89,12,74,185,56,55,53,17,53,375,200,79,264,66,51,183,51
+Telecommunications	26,1,1,12,196,346,136,18,26,481,21,613,3,29,40,357,5,74,13,112,188,61,16,185,129,7,101,212,55,96,39,5,37,111,18,1,13,61,17,97,138,29,107,107,5,7,159,17,27,126,215,351,41,32,301,56,4,32,277,222,78,72,262,66,315,184,403,12,684,105,523,166,41,11,55,57,28,61,64,89,12,74,185,56,55,53,17,53,375,200,79,264,66,51,183,51,162
 Telecommunications ACT	4610
 Telecommunications Act	3760,850,634,2166,206,1126,93,921,650,1
 Telecommunications Authority	3464
@@ -1537,9 +1553,9 @@ Telecoms and Digital Economy Minister	1799,1495
 TelecomsLilongweDigital	5320
 Telecomunicaciones	163,812,726,154,1639,715,2632,259,603,1,379,70,401,764,1446
 Telecomunicaciones Las	1701
-Telecomunicações	13,2,152,263,750,12,23,49,1031,3,24,43,66,150,32,116,87,5,45,271,421,348,240,1,71,30,2,24,1055,76,137,412,20,5,1,557,48,10,15,7,23,158,97,31,192,122,5,700,214,384,307,4,4,22,116,240,21,1,176,125,527,80,385,63,140,18,300,86,159,13
+Telecomunicações	13,2,152,263,750,12,23,49,1031,3,24,43,66,150,32,116,87,5,45,271,421,348,240,1,71,30,2,24,1055,76,137,412,20,5,1,557,48,10,15,7,23,158,97,31,192,122,5,700,214,384,307,4,4,22,116,240,21,1,176,125,527,80,385,63,140,18,300,86,159,13,41,1,7,3,4,3,3,4,1,5,13,13,13,49
 Telecomunicações Móveis Internacionais	9236
-Telecomunicações Tecnologias de Informação	1192,6053
+Telecomunicações Tecnologias de Informação	1192,6053,4157
 Telecomunicações de Moçambique	9748
 Telecomunicações. Artigo	2866,4104
 Telecomunicações. Licença de Classe C	2866
@@ -1548,7 +1564,9 @@ Telecontract	6000,245
 Teledata ICT	8025
 Teledata ICT Limited	3386
 Teledensity	2776,1086,1383
-Telefone	4044,6733
+Telefone	4044,6733,638,1,5,7,13
+Telefonia Móvel Banda Larga Subscrições da Rede	11418
+Telefonia Móvel Celular Taxa	11418
 Telefonica	4676,942
 Telefonica and Telecom Italia	4676
 Telegram	1594,88,1976,33,263,798,270,150,64,535,9,14,61,268,152,26,84,35,308,106,114,661,1038,923,46,340,37,37,349,2,8,90,92,42,78,326,245
@@ -1695,10 +1713,11 @@ Telna and Bayobab	9380
 Telna’s CONNECT	9380
 Telnet	3336,2444,4941
 Telone Join ICANN and INTERPOL for DNS Security	6909
+Telopay	11412
 Telpo	6543
 Telposta Towers P.O. Box	7549
 Telrad Networks Limited	4896
-Telserve Networks	10958
+Telserve Networks	10958,548
 Telserve Networks Ltd	3862
 Telstra Health	6651
 Telviva	10102

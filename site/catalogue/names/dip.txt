@@ -27,34 +27,40 @@ DIPLO Gnahoa Jean Claude	2342
 DIPLO Gnahoa Jean Claude LIMITED	2342
 DIPLO Jean-Claude GOLD CORPORATION	2342
 DIPLOMA	3519
+DIPLOMA Tendo	11461
 DIPLOMATIC DATA AND SOVEREIGN IMMUNITY	3861
 DIPUTADOS	4209
+DO DIPLOMA Constituição da República A Constituição	11461
 DPT3 Diphtheria	10829
 Department of Economic Diplomacy	10592
 Detalhes Diploma	13,1,153,263,119,195,8,42,9978
+Detalhes. Diploma	11361,1,7,16,60,10,2,1
 DiPES	3710,66
 Digital Diplomacy. Retrieved	11155
 Dip. Law. Secretary-General African Telecommunications Union	8497
 Diplo	2816,4356
 Diplo-chatbot	10815
-Diploma	14,153,263,119,195,8,42,2725,87,1,539,1,71,678,1936,114,3801,2,5,1,1,16,11,165,183
+Diploma	14,153,263,119,195,8,42,2725,87,1,539,1,71,678,1936,114,3801,2,5,1,1,16,11,165,183,228,1,1,1,1,1,3,1,1,1,1,1,1,4,1,3,1,1,1,1,1,2,6,2,8,1,4,10,6,5,1,2,5,5,6,3,3,2,4,6
 Diploma Artigo	167,263,314,8,42
 Diploma As Tecnologias de Informação	15
-Diploma Considerando	13,4133,6608,18,11
+Diploma Considerando	13,4133,6608,18,11,577,1,1,7,27,49,10,2,1
 Diploma Estrutura	10783
 Diploma FICHA DE IDENTIFICAÇÃO E CARACTERIZAÇÃO	10783
 Diploma Fases	10783
 Diploma Ficha de Acompanhamento	10783
 Diploma Ficha de Programação Financeira Trimestral ANEXO	10783
 Diploma LEI DA IDENTIFICAÇÃO OU LOCALIZAÇÃO	549
+Diploma Legal	11383
 Diploma Ministerial	6,1520
 Diploma N	6
 Diploma O Presidente da República	4218
 Diploma Publicação	3607
 Diploma Tabela Salarial	752
 Diploma Tabela de Taxas da APD O Presidente	744
-Diploma Tendo	4147
+Diploma Tendo	4147,7238
 Diploma Tornando-se	10756
+Diploma da Autoridade	11430
+Diploma. ARTIGO	11445
 Diploma. Artigo	167,577,8,10031
 Diploma. CAPÍTULO III PROCESSO DE PROGRAMAÇÃO	10783
 Diploma. Conteúdo	167,577,8,10031
@@ -63,9 +69,11 @@ Diploma. SECÇÃO II CARTEIRA DE PROJECTO	10783
 Diplomacy	4934,506,1557,3091
 Diplomacy Eswatini	4934
 Diplomacy Gendered Voices Volume	11332
-Diplomas	15,6931,3809,17
+Diplomados	11419
+Diplomas	15,6931,3809,17,610,37
 Diplomas Complementares	10755
-Diplomas Legais	167,372
+Diplomas Legais	167,372,10922
+Diplomas de Desenvolvimento	11430,1
 Diplomat	4193
 Diplomate	2266,2675
 Diplomates539 Magistrats926 Personnel	1594
@@ -115,11 +123,12 @@ International Governance and Diplomacy Zimbabwe	4528
 Investment and Diplomatic Engagements	5390
 Kenya AI Diplomacy Improved	7548
 Kenya AI Diplomacy and Global Governance Roadmap	7548
+Kuito-l dipmeter.lis	11405
 LUXOFANIA LA ENCARGADO DE DIPLOMAT	4209
 Le Diplomate	3248
 Los Honorables Diputados	9303
 MISIONES CONSULAR DIÁSPORA REGIONAL MEDIO DIPLOMAT	4209
-Missões Diplomáticas	10772
+Missões Diplomáticas	10772,653,27
 Modern Diplomacy	3398
 Mr. Dipo Mbewe	34
 Multilateral and Diplomatic Partners British High Commission	11332
@@ -153,6 +162,7 @@ Science Diplomacy	4253,100,6935
 Science Diplomacy Capital for Africa	11210
 Social Media Post Sparks Diplomatic Exchange	4942
 Strategic International Collaboration and Diplomacy	3760
+SÍNTESE DO CONTEÚDO DO DIPLOMA	11461
 Tallinn Summer School of Cyber Diplomacy	1446
 Tech Diplomacy Global Institute	5454
 Tech Diplomacy and Avenues for Digital Development	5239

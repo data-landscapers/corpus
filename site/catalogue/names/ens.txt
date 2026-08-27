@@ -27,8 +27,10 @@ D. G DE ENSEÑANZA UNIVERSITARIA	4209
 D.G DE ENSEÑANZA TECNICA Y PROFESIONAL	4209
 D.G MILITAR REG. MÓVIL REG. ENSEÑANZA	4209
 D.G. DE ENSEÑANZA	4209
+DE ESTADO PARA O ENSINO SUPERIOR	11391
 DFS Ensure	1161
 DIGITAL TALENTS ACCELERATORS Vision Ensure	1885
+DO ENSINO PRIMÁRIO E SECUNDÁRIO	11419
 Desarrollar la Enseñanza Técnico-Profesional	1701
 Description Ensures	5191
 Digital Skills and Human Capital Development Ensure	1161
@@ -48,7 +50,7 @@ ENSET	10980
 ENSEÑANZA PROFESIONAL Y DEPORTES	4209
 ENSEÑANZA PROFESIONAL Y DEPORTES Servicio	4209
 ENSEÑANZA Y PROFESIONAL Y DEPORTES	4209
-ENSIA	9244,1443
+ENSIA	9244,1443,785
 ENSIAS	9406
 ENSINO PRIMÁRIO	10766
 ENSINO PRIVADO	10766
@@ -106,13 +108,14 @@ Enshrine	8936
 Enshrining	1161
 Ensinar	4146
 Ensinger GmbH	8342
-Ensino	2816,1228,6722,11
+Ensino	2816,1228,6722,11,583,27,19,13,2
 Ensino Básico	1948
 Ensino Especial	10766
 Ensino Geral Direcção Nacional de Educação de Jovens	10766
+Ensino MASFAMU	11387
 Ensino Masculino Ministério da Educação Total de Masculinos	10766
 Ensino Presencial	10766
-Ensino Primário	10750,16,11
+Ensino Primário	10750,16,11,610,32
 Ensino Primário Direcção Nacional	10766
 Ensino Primário População Novos	10766
 Ensino Primário Província	10766
@@ -157,9 +160,9 @@ Ensino Público-Privado Província Angola Bengo Benguela	10766
 Ensino Público-Privado Província MF M	10766
 Ensino Público-Privado Província Professores	10766
 Ensino Público-privado	10766
-Ensino Secundário	1948,3202,5616
+Ensino Secundário	1948,3202,5616,621,32,53
 Ensino Secundário Direcção Nacional	10766
-Ensino Secundário Geral	10766
+Ensino Secundário Geral	10766,653
 Ensino Secundário Geral Anuário Estatístico da Educação	10766
 Ensino Secundário Geral MF M F	10766
 Ensino Secundário Geral Província	10766
@@ -193,10 +196,10 @@ Ensino Secundário Província Total Pública Público-privada	10766
 Ensino Secundário Quadro	10766
 Ensino Secundário TT	10766
 Ensino Secundário Taxa	10766
-Ensino Secundário Técnico Profissional	10766
+Ensino Secundário Técnico Profissional	10766,653
 Ensino Secundário Técnico Profissional MF M	10766
 Ensino Secundário Técnico- Profissional Província População	10766
-Ensino Secundário Técnico-Profissional	10766
+Ensino Secundário Técnico-Profissional	10766,653
 Ensino Secundário Técnico-Profissional Província	10766
 Ensino Secundário Técnico-Profissional Província MF Angola	10766
 Ensino Secundário Técnico-Profissional Província Total MF	10766
@@ -206,14 +209,16 @@ Ensino Secundário TécnicoProfissional Província TLE	10766
 Ensino Secundário de Adultos	10766
 Ensino Secundário de Formação de Professores	10766
 Ensino Secundário de Formação de Professores Província	10766
-Ensino Superior	414,2059,343,703,5580,335,7,1313
+Ensino Superior	414,2059,343,703,5580,335,7,1313,633,4,19,47
 Ensino Superior ID	9441
 Ensino Superior ML	2816
+Ensino Superior O Ensino Superior	11387
 Ensino Superior Pedagógico	10766
 Ensino Superior Pedagógico. Realiza-se	10766
 Ensino Superior-MCTES ID	9441
 Ensino Técnico	1948
 Ensino Técnico-Profissional Recenseamento Geral da População	10766
+Ensino da República de Angola	11387
 Ensino de Matemática	10349
 Ensino. TAXA DE DESISTÊNCIA ESCOLAR	10766
 Ensino. TURMA	10766
@@ -259,6 +264,7 @@ Ensuring Young People Succeed Sub-Saharan Africa	1363
 Equipamiento de Enseñanza	4209
 Escola de Formação de Professores Ensino Geral Avaliação	10766
 Etudes Bancaires Direction des Enseignements	10237
+Excel. As Instituições de Ensino Superior	11391
 Experts Ensure	4126
 F. Ensuite	9165
 Fairness and Ensure	5244
@@ -277,10 +283,14 @@ Houédako K. Tokandji. Ensemble	6221
 I. Ensure	4260
 II Ciclo Ensino Secundário	10766
 II. Ensure	4260
+INSTITUIÇÕES DE ENSINO SUPERIOR	11391
 IV. PERSONNEL ENSEIGNANT IV.1 REPARTITION DES	10847
 IV. PERSONNEL ENSEIGNANT IV.2 REPARTITION DES	10847
 Infrastructure Over A Retail CBDC ENS	6998
 Ingénieurs-Abderrahmane Baba TOURE ENSUP Ecole Normale	12
+Instituições de Ensino Públicas	11419
+Instituições de Ensino Superior	11387,4,19
+Instituições de Ensino Superior INE	11387
 Instituto Nacional de Enseñanzas Social	4209
 Integrity and Justice Ensure	5244
 International Community For Ensuring Free	5390
@@ -288,17 +298,21 @@ Interoperability Ensure	5244
 KORI. Ensuite	9510
 Km Ensemble	737
 Know Mauritius Privacy E ENS ArticleEU	6632
+LISTA DAS INSTITUIÇÕES DE ENSINO SUPERIOR	11391
 Ley de Enseñanza Superior	4209
 Liberia. Ensure	1777
 M. Mahamat Assileck Halata. Ensemble	3224
+MINISTRA DO ENSINO SUPERIOR	11391
 MODALIDADE DE ENSINO	10766
 Manuel Attelé Motorisé Ensemble	737
 Masculin Féminin Ensemble Ensemble	737
 Masculin Féminin Ensemble Masculin Féminin Ensemble	737
 Mathias ADEDJE MINISTERE DES ENSEIGNEMENTS PRIMAIRE	2966
 Ministère des Enseignements	2966
+Natureza da Instituição de Ensino Superior	11387
 Nenhum Ensino Primário	10777
 Níveis de Ensino	10766
+Nível de Ensino	11406
 O Ensino Secundário	10766
 OWNERSHIP A Assess Continental Ensure	961
 Operation and Maintenance Phase Ensure	1988
@@ -309,6 +323,7 @@ PPE Ensure	1988
 PPPs. Ensure	4126
 PROTOCOLO GENDARMERIA LOGISTICA ENSEÑANZA INSPEC.GRAL. GRAL	4209
 Paridade de Género3 ENSINO PRIMÁRIO	10777
+Percurso de Ensino Aprendizagem PND	11387
 Pourcentage Boucle du Mouhoun Urbain Rural Ensemble	10875
 Privacy Design E.g. Ensure	11004
 Privacy E ENS ArticleThe New DPO	6632
@@ -332,6 +347,7 @@ Subsistemas de Ensino. FORMAÇÃO PROFISSIONAL BÁSICA	10766
 Substantial Ensure	10768
 Sud-Ouest Ensemble	10875
 Système Statistique National Ensemble	10874
+TIC NO SISTEMA DE ENSINO	11397
 Tracking System Ensuring	4260
 Uganda Finance E ENS ArticleSettlement	6998
 Un Enseignement Supérieur	12

@@ -155,7 +155,7 @@ AfricInvest Financial Sector Holding	177
 Africa ALHA Agricultural Land Holdings Account	11261
 Africa Data Centres Holdings Limited	462,133
 Africa Data Hub Holding	11331
-Africa Data Hub Holding Limited	10793
+Africa Data Hub Holding Limited	10793,696,9
 Africa's Window Is Closing Home	7337
 Africa. In SCHUFA Holding AG	8747
 Africa. The Horizon Fiber	10583
@@ -578,7 +578,7 @@ Delivering the Home Affairs Budget Vote Debate	11274
 Demographic and Household Survey	10829
 Demshi Investment Holdings	6663,349
 Department Of Home Affairs	6387
-Department of Home Affairs	2115,566,11,141,392,210,487,745,105,11,3,246,115,386,67,322,202,72,191,125,15,340,1,203,25,235,174,39,25,7,63,919,45,176,278,14,5,159,15,541,177,90,266,15,8,47,782,1,35,6,4,3,11,10,2,16,10,4,4,3
+Department of Home Affairs	2115,566,11,141,392,210,487,745,105,11,3,246,115,386,67,322,202,72,191,125,15,340,1,203,25,235,174,39,25,7,63,919,45,176,278,14,5,159,15,541,177,90,266,15,8,47,782,1,35,6,4,3,11,10,2,16,10,4,4,3,209
 Department of Home Affairs Strategic Plan	2662
 Department of Home Affairs The DHA	5533
 Department of Home Affairs and Government Printing Works	4786
@@ -606,6 +606,7 @@ Dihlabeng Regional Hospital	11248
 Director General of SIS Hon. Ousman Sowe	8611
 Director of Maestro Properties Limited. Hon. Rono	6946
 Director-General of Home Affairs	6387,3671
+Displaced and Host Communities Project	11469
 Distribution of Households	2775
 District Hospital	3386
 District Hospitals	1261
@@ -791,6 +792,7 @@ General Household Survey	6832,4379,51
 General Population and Housing Census	7702
 Geneva Libyan Guest House China	4849
 Gestión Hospitalaria	4209
+Gestão de Resíduos Hospitalares	11390
 Ghana Hostel	3386
 Ghana Hostel Complex	3386
 Gigawatt Hour	2775
@@ -900,6 +902,7 @@ HOME AFFAIRS	5533
 HOME AFFAIRS AND INTERNAL SECURITY ENVIRONMENTAL	1988
 HOME LTD Data Controller INST-7005352E381 KILIFI	7167
 HOMELESSNESS	11192
+HOMENAGEM E REFLEXÃO	11473
 HON MR JUSTICE ROBIN KNOWLES	1829
 HON. JUSTICE BONIFACE WAMALA RULING Introduction	3005
 HON. MOHAMED RAHMAN SWARAY Minister of Information	1161
@@ -910,9 +913,13 @@ HOOFSTUK	11190,65
 HOOSHMAND	6613
 HOOTL	11156
 HOP Behuising	11249
+HOPE EDU	11469
 HOPE Sudan	6947
+HOPE for Quality Basic	11469
 HOPE-CT	10093
 HOPE-CT and National Social Register Policy Scorecard	10093
+HOPE-GOV	11469
+HOPE-PHC	11469
 HOPE.Z	1154
 HOPin Academy	4126
 HORDHAC Soomaaliya	11136
@@ -963,7 +970,7 @@ Hip Hop	9739
 Hirshabelle State HOL UN	5172
 Ho Office	2776
 Ho Teaching Hospital	8813,723
-Ho-Chi-Minh	4044
+Ho-Chi-Minh	4044,7377
 HoA DRIVE Somalia	8845
 HoS Inaugurates Technical Working Committee	10156
 Hobhouse and Dipelaneng	11289
@@ -1174,10 +1181,12 @@ Homme. Elle	429,10397
 Homme. L’ensemble	11067
 Hommes	3670,7177,27,49,52
 Hommes Femmes	737,10238
+Homogeneidade	11430
 Homogenized	6921
 Homologación	4209
 Homologar	13
 Homologation	1205,596,9174
+Homologação	11384
 Homoíne	1782
 Hon AC Nel	10453
 Hon Abiante. The Federal Government	8087
@@ -1438,6 +1447,7 @@ Hong Kong. The US Federal Communications	4676
 Hong and Gui2025	8283
 Hongkong	2836
 Hongrie	6613
+Honiara Meeting26	11439
 Honnah	7721,2685
 Honneur Fraternité Justice	1702
 Honomoana	1766
@@ -1637,10 +1647,15 @@ Horus	1728
 Horvat	9237
 Horvat Page	9237
 Horvitz	8283
+Horário de Atendimento	11368
+Hospedagem	11448
 Hospedagem de Aplicacoes. Key	570
+Hospedagem de Dados Públicos	11448
+Hospedagem de Dados Públicos Termos de Referência Luanda	11448
+Hospedagem de Dados Públicos. Tal	11448
 Hospedagem de Infra-Estrutura	4556,1
 Hospice KOUMONDJI	2623
-Hospital	4209,1176,1645,353,1,1219,828,757,592,400
+Hospital	4209,1176,1645,353,1,1219,828,757,592,400,249,3,47
 Hospital Beds and Cots Available	2775
 Hospital Buildings	11129
 Hospital CEOs and Provincial	8603
@@ -1652,8 +1667,10 @@ Hospital Divina Providência	10784
 Hospital Edition	5984
 Hospital Edition. Byline	5984
 Hospital General de Malabo Malabo	4209
+Hospital Geral	11429,3,47
 Hospital Information System	3604
 Hospital Information System Maturity Model	1824
+Hospital Josina Machel	11454
 Hospital La Amistad China Guinea Ecuatorial	4209
 Hospital La Paz Ebibeyín	4209
 Hospital La Paz Micomiseng	4209
@@ -1665,6 +1682,7 @@ Hospital Manager Date	8603
 Hospital Maternidade	10780
 Hospital Municipal De Kilamba Kiaxi	10784
 Hospital Nuevo Inseso de Bata Bata	4209
+Hospital Pedalé	11429,3,47
 Hospital Policlínico	4209
 Hospital Provincial	5296
 Hospital Regional de Bata Bata	4209
@@ -1786,6 +1804,7 @@ Hotspot Authorisation	8247
 Hotspot Operators Mao Warns DP Members	4608
 Hotspots	10763
 Hotuba	2868,3151
+Hotéis	11416,42
 Hotêl Président de Yamoussoukro	2342
 Hou Qiang	10490
 Houessou	3361
@@ -1858,7 +1877,7 @@ House. Sometimes	10313
 House. Unfortunately	10313
 Househelp	582
 Househelp D	582
-Household	236,182,164,388,2189,410,475,3477,1888,266,1088,201,21,146,2,1,2,14,42,3,74,27
+Household	236,182,164,388,2189,410,475,3477,1888,266,1088,201,21,146,2,1,2,14,42,3,74,27,128,45
 Household Access	3641
 Household Budget Survey	9252,1884
 Household Consumption	11017
@@ -1887,6 +1906,7 @@ Household-level	11156
 Households	582,5532,682,2535,216,546,670,5,25,48,11,111,1,21,148,3,56,19,51,38
 Households Figure	582
 Households Passed	1818
+Households and Individuals	11424
 Households and Use	7521
 Housekeeping	8487,1076
 Houses	6588,380,4161,160
@@ -1957,7 +1977,7 @@ Human Immunodeficiency Virus Hospital Management Information	4153
 Humansdorp District Hospital Co-location PPP	11248
 Hunger Hotspots	3583
 ICT House	11184
-ICT Household Indicators	3641
+ICT Household Indicators	3641,7783
 ICT Housing	9455
 ID for All South Africa’s Department of Home	6255
 ID for All Tanzania’s Home Affairs Minister	2947
@@ -2012,6 +2032,7 @@ Interconnect Clearing House Nigeria Limited	3862
 Interior Minister Manuel Homem	9399
 Intermodal Africa EPIC SANA Luanda Hotel	8755
 Internal Security MORHCSA Modernization of Refugee and Host	1867
+Internally Displaced and Host Governance	11469
 International Hospitality and Management	6946
 Internet Hotspot An Internet Hotspot	3386
 Internet Hotspot Application for Internet	3386
@@ -2025,6 +2046,7 @@ Investment Holdings	10735
 Invoeging van Hoofstuk XB van Wet	11263
 Iraq Identification Document Ireland Hong Kong	10714
 Isilimela Hospital	8161
+Island and McDonald Islands Honduras Hong Kong	11470
 Ity Holdings	2342
 JCPS Cluster Home Affairs Bill	5533
 JCPS DG’s Meeting Home Affairs Bill	5533
@@ -2158,6 +2180,7 @@ M. Jean Robert Hountomey	3341
 MAP AND IDENTIFY POOR HOUSEHOLDS	11133
 MB30 HostFactory	1232
 MBOCK Honorables Députés	2695
+MEASURING HOUSEHOLD EXPENDITURE ON ICT SERVICES	11424
 MICDE for Government AI Technologies Hosting Contract	7548
 MIGRATION Honourable	11277
 MILLION FROM THE WINDOW FOR HOST	1867
@@ -2187,10 +2210,10 @@ Majority Party. Hon. Kimani Ichung’wah	10313
 Majority Party. Hon. Owen Baya	10313
 Management HospitalGauteng EMS Operational Call Taker	8603
 Management Our Profile Corporate Subscription Home	9750,247
-Management of Population and Housing Censuses	4040,4
+Management of Population and Housing Censuses	4040,4,7377,25
 Mandë Holford	6997
 Mangochi. Minister of Homeland Security Peter Mukhito	7556
-Manuel Homem	9399,591
+Manuel Homem	9399,591,1437
 Mapear Necessidades de Hospedagem de Dados	570
 Mapeera House	7875
 Markets Group Holding Limited	1054
@@ -2358,6 +2381,7 @@ National Assembly The Honourable Deputy Prime	10210
 National Census of Households and Population	10812
 National Council of Provinces Honourable Chairperson	11215
 National Digital Plan Horizon	2278,1237
+National Directorate of Hospitals	11417
 National Hospital Insurance Fund	2515,7798,16,2,491
 National Hospital Insurance Fund Act	10822
 National House	4126
@@ -2466,6 +2490,7 @@ Parliament Draft Home Affairs Bill	5533
 Parliament Home Affairs Bill	5533
 Parliament House	8545
 Part. The Honourable Minister	10157
+Participação de Homens	11362
 Patrick Honnah	7721
 Patrick R. Honnah	10406
 Paulo Horácio de Sequeira	539
@@ -2516,6 +2541,8 @@ Product Green House Gases GPN Deutsche	10964
 Professor Hoexter	2307
 Professor Myung-Ho Park of Hongik University	9729
 Profile CERT-GH Home RFC	775
+Program Population Digital Development HOPE for Quality	11469
+Program-Scale Up Household Prosperity	11469
 Programme To Hold Its Maiden Regional	10909
 Programmes Honours' Degree Post Graduate Diploma	11134
 Project Coordinator-Zambia Refugee and Host Communities	1778
@@ -2573,6 +2600,7 @@ Refugee and Host Communities Project TABLE	1867
 Refugee and Host Communities United Nations Convention	1988
 Refugees and Host Communities	2106
 Refugees and Host Community of Meheba Refugee Settlement	1778
+Regime Normativo de Hospedagem	11448
 Regional Hosting Hub Development The Federal	10157
 Regional Referral Hospital	1261
 Reglamento Interno Hospitalario	4209
@@ -2581,8 +2609,9 @@ Regulations. The Department of Home Affairs	6512
 Reimagining Horizons of Dignity	2110
 Renaissance Cairo Mirage City Hotel	8755
 Renewed Hope	5499,4658
-Renewed Hope Agenda	2394,142,2189,1651,1275,233,1089
+Renewed Hope Agenda	2394,142,2189,1651,1275,233,1089,2495
 Renewed Hope Agenda Deji Elumoye	11126
+Renewed Hope Agenda and WBG	11468
 Renewed Hope Agenda of President Bola Ahmed	8980,1083
 Renewed Hope Agenda of President Bola Tinubu	10156
 Renewed Hope Cooperative Reform	9876
@@ -2680,6 +2709,7 @@ Serving Households NSE Nairobi Securities Exchange	2775
 Seven Strategic Pillars Hon. Akanvariba	8367
 Sexe Nationalité Effectif Pourcentage Homme Nationaux	10875
 Sexe du CM Homme	737
+Sexo Homens Mulheres Urbana Rural	11421
 Sexo Urbana Rural Homens Mulheres	4044
 Shabab HOL Somalia	2279
 Shanghai and Hong Kong	9593
@@ -2700,6 +2730,7 @@ Singapore and Hong Kong	5872
 Singapore-based Trident Digital Tech Holdings	2244,4337,66
 Sipepa Rural Hospital	3385
 Sirius International Holding	4611
+Sistema Nacional Integrado de Gestão Hospitalar	11394,67
 Skylight Hotel. Regional	7887
 Skyz Hotel	6786
 Small Business House	10841
@@ -2714,6 +2745,7 @@ Sofitel Hotel	8151,885
 Sofitel Hotel Ivoire	6447
 Solar Home Systems Receivables Facility Norfund	707
 Solar Home Systems and Digital Inclusion	709
+Solar Hotel Tourism	11469
 Solicitor-General. The Zambia Refugee and Host Communities	1988
 Somali HOL Somali	3463
 Somali Integrated Household Budget Survey	3586,505
@@ -2856,7 +2888,7 @@ USAC Chairperson Hon. James Ongwae	6946
 UWA Urge Hotels	6077
 Uganda National Household Survey	9024
 Uganda National Household Survey The Uganda	9024
-Under the Renewed Hope Agenda	11126
+Under the Renewed Hope Agenda	11126,342
 Unitas Hospital and Another	2307
 United Hotel	10975
 United Kingdom's Home Office	4052

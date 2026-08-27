@@ -49,6 +49,7 @@ Bank of Namibia's Currency and Banking Operations Department	5254
 Bank of Namibia's Instant Payment Programme	8251
 Bank of Namibia’s Currency Management and Banking Operations	8252
 Bank of Namibia’s National Payment System	10306
+Benguela and Namibe	11366
 Biometric Update Namibia	3017,163
 BoN and Namibia Statistics Agency	8248
 Boma Lathu. Shadric Namalomba	6592
@@ -66,7 +67,7 @@ CEO of Namibia's Communications Regulatory Authority	4862
 CEOs of NAMFISA General Manager of Research	6938
 CMI Bank of Namibia National National National	6938
 COMPONENTS Current Component Name Current Cost	1284
-COMPONENTS Name Component	2712,3867,349
+COMPONENTS Name Component	2712,3867,349,4467
 COMPONENTS Name Resilient Digital Infrastructure	4688,3189
 CONTRIBUTED Namibia	3002,473
 CONTRIBUTED Opportunity Why Namibia	5081
@@ -92,13 +93,14 @@ Client Information Name of Applicant Postal Address	736
 Client Information Name of Controller	1877
 Client Information Name of Data Controller	1877
 Client Information Name of Fax Number Applicant	736
-Closing Period Indicator Name Value Month	2712,1976,3189
+Closing Period Indicator Name Value Month	2712,1976,3189,3518
 Codes for Representation of Names of Countries	11179
 Colonel-major Mamadou Namballa TRAORE. AU TITRE	8237
 Committee Meetings Committee Name National Research	1154
 Communication Regulatory Authority of Namibia	2588,5039,623
 Communications Regulatory Authority of Namibia	1750,150,75,1,1,2,1,6,36,547,19,429,442,2039,9,22,14,21,48,5,850,298,19,1,41,447,150,318,513,1,159,1,245,606,1199,575
 Component Name	3604,7360
+Component Name Strengthening	11417
 Components Component Name Cost	1867,8901
 Components RESULT FRAME TBL IO Indicator Name PBC	1284,9545
 Components RESULT FRAME TBL IO Indicator Name PBC Baseline	1228
@@ -118,7 +120,8 @@ Cunene and Namibé	10768
 Cyclone Freddy. COMPONENTS Current Component Name	4653
 D. BANKING DETAILS Name of Bank	4896
 DATASHEET BASIC INFORMATION Project Name BASIC INFO TABLE	10964
-DATASHEET BASIC INFORMATION Project Operation Name	1867,1737,7164
+DATASHEET BASIC INFORMATION Project Operation Name	1867,1737,7164,649
+DATASHEET Component Name Cost	11380
 DPS Nampula	2228
 DRIVER'S NAME	1988
 DWELLING NOT FOUND LOCALITY NAME	582
@@ -127,6 +130,7 @@ Data Indicator Name Definition	1284
 Data Protection Bill Namibians	1010
 Data Protection Bill for Namibia	512,509
 Data Protection Supervisory Authority of Namibia	512
+Date Expiry Date Project Name Business	11469
 Deep Learning IndabaX Namibia	5036
 Definition The Namibia Producer Price Index	11152
 Denial of Service DNS Domain Name System	6946
@@ -201,6 +205,8 @@ Huduma Namba and Maisha Number	3391
 Huduma Namba. The European Union	9600
 Huduma Namba.92 Through	10822
 Huíla Namibe ROSA ELSA ERNESTO BAPTISTA	10751
+Huíla Province Nami	11418
+Huíla and Namibe	11398
 ICT Sector Telecom Namibia Mobile Telecommunications	1013
 ID for All The Namibian	3017
 IDD04 Extended Team Name Title Organization	1284
@@ -317,6 +323,7 @@ Minister of Information and Digitalisation Shadric Namalomba	10598
 Minister. Entity Name	11230
 Miriam Namutebi	6576
 Monitoring System Infrastructure Applications Domain Name	9123
+Montserrat Morocco Mozambique Myanmar Namibia Nauru	11470
 Morocco Namibia MauCAS Instant Payment System	6938
 Morocco and Namibia	6938
 Moxico Namibe	10766
@@ -326,6 +333,7 @@ Moxico Namibe Uíge Zaire	10766
 Moxico Namibe Uíge Zaire Continua	10766
 Moxico Namibe Uíge Zaire Fonte	10766
 Moxico Namibe Uíge Zaire MF	10766
+Moxico Province Nami	11418
 Mozambique Namibia Nigeria	5247
 N Company Name Date of Contact Details	3386
 NAD Namibia	1944
@@ -504,7 +512,7 @@ Namespace Identifier	6666
 Nametil-Angoche Inauguração da Estrada Maroeira	9432
 Namib Desert	5081
 NamibLII	1233
-Namibe	4044,4381,2325,7,3,3,2,1,10,1,5
+Namibe	4044,4381,2325,7,3,3,2,1,10,1,5,584,51,1
 Namibe Cabinda ISABEL CONSTÂNCIA TOMÉ	10751
 Namibe Cuando Cubango JOSÉ ADÃO NETO	10751
 Namibe Cuanza-Sul SONIA LUZIA GUEVE CHIMANHA	10751
@@ -521,7 +529,9 @@ Namibe Uíge Zaire MF	10766
 Namibe Uíge Zaire N.º	10766
 Namibe Uíge Zaire Professores	10766
 Namibe. O Conecta Angola	6585
-Namibia	159,10,67,69,13,7,77,1,109,77,55,132,186,51,3,14,1,115,87,9,1,36,154,32,89,36,6,63,188,24,51,6,16,31,1,1,2,1,1,5,1,10,2,23,50,158,5,105,124,26,98,89,5,79,14,56,104,60,7,15,163,73,99,17,41,29,6,14,16,9,48,7,48,33,14,80,45,23,38,39,8,110,77,19,77,26,49,157,50,1,62,88,7,50,169,7,46,78,19,13,8,30,26,45,5,161,7,74,79,7,74,10,4,5,22,14,21,48,5,64,99,14,132,64,65,28,143,22,2,11,78,29,58,37,76,18,75,4,2,25,1,5,7,5,2,25,2,52,3,19,8,33,1,50,22,40,50,8,2,100,11,17,62,85,57,93,17,188,50,29,34,2,50,32,80,45,55,1,14,70,23,1,134,3,1,3,158,1,1,137,58,50,16,46,118,3,127,136,1,1,54,9,182,46,76,10,77,104,16,67,10,113,1,79,1,120,73,1,22,137,54,94,5,75,25,32,35,25,63,45,5,21,34,16,3,2,6,94,28,37,91,26,12,6,17,175,2
+Namibe. SASSCAL. O Centro	11437
+Namibe.5	11417
+Namibia	159,10,67,69,13,7,77,1,109,77,55,132,186,51,3,14,1,115,87,9,1,36,154,32,89,36,6,63,188,24,51,6,16,31,1,1,2,1,1,5,1,10,2,23,50,158,5,105,124,26,98,89,5,79,14,56,104,60,7,15,163,73,99,17,41,29,6,14,16,9,48,7,48,33,14,80,45,23,38,39,8,110,77,19,77,26,49,157,50,1,62,88,7,50,169,7,46,78,19,13,8,30,26,45,5,161,7,74,79,7,74,10,4,5,22,14,21,48,5,64,99,14,132,64,65,28,143,22,2,11,78,29,58,37,76,18,75,4,2,25,1,5,7,5,2,25,2,52,3,19,8,33,1,50,22,40,50,8,2,100,11,17,62,85,57,93,17,188,50,29,34,2,50,32,80,45,55,1,14,70,23,1,134,3,1,3,158,1,1,137,58,50,16,46,118,3,127,136,1,1,54,9,182,46,76,10,77,104,16,67,10,113,1,79,1,120,73,1,22,137,54,94,5,75,25,32,35,25,63,45,5,21,34,16,3,2,6,94,28,37,91,26,12,6,17,175,2,32,35,6
 Namibia AI Readiness Assessment Methodology	5036
 Namibia Access	1025
 Namibia African	1944
@@ -739,7 +749,7 @@ Namugga	5343
 Namugongo Martyrs Shrine	4954
 Namukasa	8661,134
 Namungo	9779
-Namíbia	2816,3982,3192
+Namíbia	2816,3982,3192,1447
 National Broadband Policy of Namibia	1433
 Nedbank Namibia	6765
 Network Infrastructure MTC and Telecom Namibia	1013
@@ -759,7 +769,7 @@ Nov-2024 Namibian	1981
 O Indicator Name PBC Baseline Intermediate	10964
 ORGANIZATION NAME	2709
 OVERALL RATINGS Name Current Progress	4688
-OVERALL RATINGS Name Previous Current Progress	2712,3867,349,949,2993
+OVERALL RATINGS Name Previous Current Progress	2712,3867,349,949,2993,525
 Officer Table of Contents INTERPRETATION NAME TYPE	585
 Omaheke and Namibia	8250
 Operation Name Angola DPF L	10779
@@ -802,6 +812,7 @@ Principles and Standards of Street Naming	11129
 Principles and Standards of Street Naming The Principles	11129
 Production of Street Name Signage	11129
 Project Background Name	1988
+Project ID Project Name Lead GP	11469
 Project Implementating Team Name and Surname Desmond	520
 Project Name Central African Republic CAR	10829
 Proposed Component Name Component	4653

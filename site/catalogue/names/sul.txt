@@ -9,20 +9,23 @@ Amostra Cuanza Sul	10777
 Amostra Lunda Sul	10777
 Amr Sultan and Tarek Elsheikh	6528
 Aziza Sultan Al Rashdi	10764
-Benguela and Cuanza Sul	10763,5
+Benguela and Cuanza Sul	10763,5,598
+Benjamin Sulle	11504
 Cooperação Sul-Sul	11329
 Cuando Cubango Cuanza Norte Cuanza Sul	10766
 Cuando-Cubango Cuanza Norte Cuanza Sul Cunene	10766
 Cuanza Norte Cuanza Sul Cunene	10766
 Cuanza Norte Cuanza Sul Cunene Huambo	10766
-Cuanza Sul	8475,2275,2,5,3,3,2,1,2,7,2
+Cuanza Sul	8475,2275,2,5,3,3,2,1,2,7,2,613,28
 Cuanza Sul Benguela Huambo Huíla Luanda	4044
 Cuanza Sul Cunene	10757,9
 Cuanza Sul Cunene Huambo	10766
 Cuanza Sul Cunene Huambo Huíla Luanda	10766
+Cuanza Sul. Ao	11366
 Cubango Cuanza Norte Cuanza Sul	10766
 Cubango Cuanza Norte Cuanza Sul Cunene	10766
 Cubango Namibe Huíla Cunene Sul	10760
+Cunene and Kwanza Sul	11401
 Daud Suleman	3108
 Director General Daud Suleman	3108
 Dkt. Samia Suluhu Hassan	2868
@@ -47,14 +50,20 @@ Luanda Lunda Norte Lunda Sul Malanje	10766
 Luanda Sul	10765,10
 Lunda Norte Lunda Sul	10766
 Lunda Norte Lunda Sul Malanje Moxico	10766
+Lunda Norte Province Lunda Sul Province	11418
 Lunda Norte and Lunda Sul	9399
-Lunda Sul	9399,1358,3,3,2,1,9,2
+Lunda Sul	9399,1358,3,3,2,1,9,2,589
+Lunda Sul Chiumbuhe	11366
 Lunda Sul Cuanza Norte Cuanza Sul	10775
 Lunda Sul Cuanza Sul	10760
+Lunda Sul DR Director-geral	11484
 Lunda Sul Malanje	10766
 Lunda Sul Malanje Moxico	10766
 Lunda Sul Malanje Moxico Namibe Uíge	10766
+Lunda Sul Province Cuanza Sul	11418
+Lunda Sul Province Mal	11418
 Lunda Sul and Moxico	9399
+Lunda-Sul Lunda Sul	11484
 MACRA Director General Daud Suleman	3102,2432
 MFWA Sulemana Braimah	9960
 Mheshimiwa Dkt. Samia Suluhu Hassan	2868,3151
@@ -65,6 +74,7 @@ Mr. Mukwasi Suleiman Wanzala	3005
 Mr. Salifu Suleman	3384
 Ms Ayesha Suleman	11241
 Ms Suleman	11241
+Municípios da Região Sul Seleccionados	11390
 Munshi Sulaiman	10964
 Murtala Sule Garo	10597
 Namibe Huíla Cunene Lunda Sul Bengo	10777
@@ -79,14 +89,18 @@ President Dr Samia Suluhu Hassan	5771,112
 President Samia Suluhu	1644,3109
 President Samia Suluhu Hassan	741,647,1978,1348,1074,295,40,439,953,2989
 Product SUlte	1009
+Províncias da Região Sul	11406
 Rais Samia Suluhu Hassan	2718,344,1037
+Região Sul	11406
 Salman Sulaiman	10764
 Samia Suluhu Hassan	5783
 Sani Suleiman	5886
 Sarosh Sultan	10775
 Shukuru Awadh Suleiman	3458
 Southeast Sulawesi Province	7759
+Sul A Coreia	11461
 Sul A Estratégia Nacional de Inteligência Artificial	3519
+Sul Com	11461
 Sul Cunene Huambo Huíla	10766
 Sul Cunene Huambo Huíla Luanda Lunda	10766
 Sul Global	6709
@@ -94,6 +108,7 @@ Sul Malanje Moxico	10766
 Sul Malanje Moxico Namibe	10766
 Sul Malanje Moxico Namibe Uíge	10766
 Sul Malanje Moxico Namibe Uíge Zaire	10766
+Sul Sul	11393
 Sul da Europa	1215
 Sul-Sul	6571
 Sul. Importa	5392

@@ -55,7 +55,7 @@ Brain Builders Youth Development Initiative	6705
 Bremner Building	11027
 Bridge Builders Circle	6808
 Buijs	8436
-Build	110,286,393,110,101,161,96,7,513,37,174,561,226,829,522,68,240,94,223,213,17,221,42,2,36,9,149,73,20,147,1,355,5,17,12,49,313,66,105,229,115,1,65,26,112,458,142,299,133,471,316,145,122,162,67,186,43,74,16,292,11,69,444,113,132,19,27,72,42,1,10,114,3,6,9,7,32,7,51,29,2,33,46
+Build	110,286,393,110,101,161,96,7,513,37,174,561,226,829,522,68,240,94,223,213,17,221,42,2,36,9,149,73,20,147,1,355,5,17,12,49,313,66,105,229,115,1,65,26,112,458,142,299,133,471,316,145,122,162,67,186,43,74,16,292,11,69,444,113,132,19,27,72,42,1,10,114,3,6,9,7,32,7,51,29,2,33,46,112
 Build AI	7548
 Build AI Factory Powered	3049
 Build AI-specific	7548
@@ -78,7 +78,10 @@ Build Local Capacity That Lasts Achieving	8183
 Build Local Data Centres and New Regulations	4163
 Build One South Africa	11289
 Build Regional AI Skills Orange Refurbished	6678
+Build Resilience	11469
 Build Resilience and Foster Growth	969
+Build Resilience of People and Ecosystems	11469
+Build Resilience of People and Ecosystems Rationale	11469
 Build Robotics Ecosystem With KAYOD Technologies	6678,209,414,23
 Build Secure and Reliable Biometric National Registry	24
 Build Social Cohesion	6947
@@ -103,7 +106,7 @@ Build. The National Cybersecurity Strategy	1777
 Builder	7409,3734
 Builders	10464
 Builders Summit	8424
-Building	54,342,182,321,41,13,8,8,8,146,41,40,39,21,198,118,56,178,14,39,36,85,333,37,101,67,151,98,82,1,178,67,94,194,7,89,117,178,9,70,61,204,24,17,34,58,90,19,61,5,94,161,77,82,15,43,34,93,9,22,80,78,64,11,59,11,166,18,19,130,75,15,73,12,37,25,85,125,21,7,83,8,22,56,8,147,9,31,3,40,1,10,75,52,44,68,95,3,6,11,2,89,65,8,40,5,48,38,2,54,138,54,89,17,19,76,55,5,2,6,31,30,60,6,20,15,25,75,22,47,21,2,17,53,100,28,56,19,50,24,90,30,20,29,135,75,6,16,82,2,26,20,13,52,61,11,1,26,7,35,1,39,53,100,44,12,6,64,19,57,1,9,14,93,30,2,34,124,43,27,41,56,16,11,45,50,35,26,86,5,52,59,8,1,93,48,34,1,15,63,12,3,35,4,8,17,1,22,13,12,3,8,2,7,3,2,65,25,2,5,1,6,15,6,6,3,4,2,11,16,6,88,2,2,2,1,1,5,14,1,1,12,1,11,8,36,7,6,28,45,37,9
+Building	54,342,182,321,41,13,8,8,8,146,41,40,39,21,198,118,56,178,14,39,36,85,333,37,101,67,151,98,82,1,178,67,94,194,7,89,117,178,9,70,61,204,24,17,34,58,90,19,61,5,94,161,77,82,15,43,34,93,9,22,80,78,64,11,59,11,166,18,19,130,75,15,73,12,37,25,85,125,21,7,83,8,22,56,8,147,9,31,3,40,1,10,75,52,44,68,95,3,6,11,2,89,65,8,40,5,48,38,2,54,138,54,89,17,19,76,55,5,2,6,31,30,60,6,20,15,25,75,22,47,21,2,17,53,100,28,56,19,50,24,90,30,20,29,135,75,6,16,82,2,26,20,13,52,61,11,1,26,7,35,1,39,53,100,44,12,6,64,19,57,1,9,14,93,30,2,34,124,43,27,41,56,16,11,45,50,35,26,86,5,52,59,8,1,93,48,34,1,15,63,12,3,35,4,8,17,1,22,13,12,3,8,2,7,3,2,65,25,2,5,1,6,15,6,6,3,4,2,11,16,6,88,2,2,2,1,1,5,14,1,1,12,1,11,8,36,7,6,28,45,37,9,61,22,29,8,7,4,2,6
 Building AI	9261
 Building AI for Strategic Resource Governance	7955
 Building Africa	6930,2174,1231
@@ -134,6 +137,7 @@ Building Capacity	1814
 Building Capacity Among DFS Professionals Bill	487
 Building Capacity The Continental AI Strategy	1814
 Building Capacity Through Collaboration	4583
+Building Capacity and Sharing Knowledge	11407
 Building Communities	6526
 Building Construction Technology	6946
 Building Control	2674
@@ -163,6 +167,7 @@ Building Momentum	11289
 Building More Helpful Products	1363
 Building More Helpful Products for Africa Google	1363
 Building Nam	10651
+Building National Fibre Networks	11500
 Building National ID	1344,1660
 Building National MPI	206
 Building Nigeria's AI	10133
@@ -182,6 +187,7 @@ Building Quality Control Index du Cameroun	4325
 Building Regional Connectivity	1264
 Building Resilience	779,1035,3514,2874,553
 Building Resilience Cape Town International Convention	10611
+Building Resilient Digital Agribusiness Leadership	11469
 Building Resilient Digital Infrastructure for Growth	2253,1203,265,967,146,433,636,3583,86,738,263,595
 Building Resilient Digital Infrastructure for Growth Project	10157
 Building Resilient Digital Project	3456
@@ -233,6 +239,7 @@ Building the Capacity of Law Enforcement	1000
 Building the Capacity of Law Enforcement Time Bound	1000
 Building the Economic Case	5675
 Building the Ecosystem	7367
+Building the Foundations	11469
 Building the Ground Network It Needs	10588
 Building the Internet’s Next Identity Layer	9328
 Building the Judiciary	8978
@@ -241,7 +248,7 @@ Buildings	236,918,834,787,6198,2156,2,3
 Buildings Revaluation	11131
 Buildings Works	2775
 Builds	128,403,105,53,172,37,191,61,318,438,194,243,52,128,153,716,1617,131,735,478,758,148,695
-Built	111,95,96,25,50,120,66,235,90,146,160,44,376,4,88,136,409,277,286,609,232,125,60,11,313,288,45,1,32,359,262,1,92,21,3,15,463,227,47,1,211,459,63,406,117,188,490,27,35,181,240,366,116,248,565,119,92,333,388,129,206,6,134,138,13,53
+Built	111,95,96,25,50,120,66,235,90,146,160,44,376,4,88,136,409,277,286,609,232,125,60,11,313,288,45,1,32,359,262,1,92,21,3,15,463,227,47,1,211,459,63,406,117,188,490,27,35,181,240,366,116,248,565,119,92,333,388,129,206,6,134,138,13,53,31
 Built Beneath the Surface	3292,1688,360,1433
 Built Environment	1988,2540,3559
 Built Environment and Technology	10323
@@ -450,6 +457,7 @@ National Department of Health Civitas Building Cnr	396
 National Development Strategy. Building	4214
 National E-Government Capacity Building	1795,1413,3881
 National Health Insurance BUI. Retrieved	1009
+National Health Service. Building	11417
 National Housing and Built Environment Regulation Policy	8087
 National Institute of Building Sciences Page	1264
 National Skills Building Program	1204
@@ -469,6 +477,7 @@ Pan-African Open Data Commons. Building	7921
 Parkade Podium Museum Auditorium Building Component	11134
 Parliament Building	5386
 Payment Rails Built for Someone Else	7208
+Phase II Innovation Building Resilient Digital	11469
 Platinum Building	9514
 Postel Building	3661
 Posts Building Control	11251

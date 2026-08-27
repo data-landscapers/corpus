@@ -6,6 +6,7 @@ A3.2.3.5 Assurer	10858
 AACB Annual Assembly of Governors	6938
 AACB Assembly of Governors	5229
 AACB Assembly of Governors AACB Bureau AACB	6938
+AAEA Associação Angolana	11390
 ABDALLAH AND ASSOCIATES DENTAL AND IMPLANT	7167
 ABSA ASSET MANAGEMENT LIMITED Data Controller	7167
 ABSA LIFE ASSURANCE KENYA LIMITED Data	7167
@@ -43,6 +44,7 @@ ASEAN Association of South Eastern Asia Nations	2775
 ASSA Kouassi Georges	2342
 ASSAINISSEMENT En	2342
 ASSAf	5246
+ASSEGURAR A CRIAÇÃO DOS PARQUES TECNOLÓGICOS	11397
 ASSEK	7548
 ASSEMBLEE	11139
 ASSEMBLEE GENERALE Ankara	998
@@ -50,6 +52,7 @@ ASSEMBLEE LEGISLATIVE DE TRANSITION TEXTE ISSU	1801
 ASSEMBLEE NATIONALE LOI N	785,10040
 ASSEMBLEE NATIONALE. Loi	10819
 ASSEMBLEE NATIONALE. République du Bénin	10819
+ASSEMBLEIA NACIONAL Lei	11365
 ASSEMBLY FOR WRITTEN REPLY QUESTION	10889
 ASSEMBLY PRESS	11,576
 ASSEMBLY THE HANSARD	10313
@@ -67,12 +70,14 @@ ASSETS IN CHAOS	9696
 ASSETS MANAGEMENT Telegraphic Address	5793
 ASSETS P.O. Box	4896
 ASSI Franck Arnaud	2342
+ASSINANTES	11430
+ASSINATURA Ano	11365
 ASSISTÊNCIA ALIMENTAR	10766
 ASSL's Digitalisation Plan	9680
 ASSOC Linux	8678
 ASSOCIATED BATTERY MANUFACTURERS EAST AFRICA LIMITED	7167
 ASSOCIATED CENTRAL MEDICAL SERVICES Data Controller	7167
-ASSOCIATED OPERATION	2712,1976,1891,349,949
+ASSOCIATED OPERATION	2712,1976,1891,349,949,3518
 ASSOCIATES ADVOCATES Data Processor INST-6081681FD83 NAIROBI	7167
 ASSOCIATES ADVOCATES LLP Data Controller INST-22632307500	7167
 ASSOCIATES CLINIC Data Controller INST-966918CDCA1 NAIROBI	7167
@@ -132,7 +137,7 @@ Africa Cyberthreat Assessment	5820,1763
 Africa Cyberthreat Assessment Report	4861,1984
 Africa Data Center Association	9155
 Africa Data Centers Association	8126
-Africa Data Centre Association	6471
+Africa Data Centre Association	6471,5020
 Africa Data Centres Association	1697,3273,341,423,1814,288,290,599,394,36,1269
 Africa Merchant Assurance Company Limited Data	7167
 Africa The African Private Capital Association	4972
@@ -157,6 +162,7 @@ African Securities Exchanges Association	6938
 African Telecommunications Union Spectrum Assignment	7827,262
 African Telecommunications Union Spectrum Assignment Plan	7850,323
 African Union Assembly of Heads of State and Government	4583,2559
+Agosto ASSUNTO	11403
 Agricultural Research Council ASSAf Academy of Science	5246
 Airlines Association of Southern Africa	10360,363
 Airtel Nigeria’s Airtel Assist	5820
@@ -164,6 +170,7 @@ All Farmers Association of Nigeria	5765
 All-Farmers Association of Nigeria	3742
 Allianz Asset Management	9632
 Almeida AA. Assessing	10780
+Ambiente MINARS Ministro de Assistência	11390
 Amendment of Articles of Association	4896
 American Association of Geographers	226
 American Bar Association	2546
@@ -227,22 +234,24 @@ Assefa S	3791
 Assefa&author	1219
 Assegura	10755
 Asseguramento	13
-Assegurar	167,372,2540,1068,71,2244,68,4225,28
+Assegurar	167,372,2540,1068,71,2244,68,4225,28,577,2,6,8,5,1,2,3,9,1,33,5,6,1,1,1,4,1,2,1,11
 Assegurou	6995
 Assemble	1161
 Assembled	6921,2478
 Assembleia	6191,3608,978
 Assembleia Global da Privacidade	2345
-Assembleia Nacional	14,1,152,372,10,643,2327,556,661,536,195,324,195,2,294,427,138,233,38,1191,210,639,1,640,948,2,3,3,1,30,286
-Assembleia Nacional Lei	539
+Assembleia Nacional	14,1,152,372,10,643,2327,556,661,536,195,324,195,2,294,427,138,233,38,1191,210,639,1,640,948,2,3,3,1,30,286,286,1,4,1,1,2,6,3,8,4,1,20,6,10,11,7,18,1
+Assembleia Nacional Lei	539,10826
 Assembleia Nacional Publicação	14,535
 Assembleia Nacional. A Lei	9161
 Assembleia Nacional. ARTIGO	539,2980
 Assembleia Nacional. Artigo	14,1,534
+Assembleia Nacional. Elaborar	11376
 Assembleia República	8745,219
 Assembleia da República	2816,263,1989,1902,77,1196,415,87
 Assembleia da República de Moçambique	5841
 Assembleia da República. Na	8658
+Assembleias de Voto	11425
 Assemblies	7695
 Assembly	1270,2,53,13,4,213,267,95,44,29,25,35,13,6,2,9,1,8,288,594,379,233,23,1,254,80,136,5,21,127,150,6,25,8,227,190,31,145,161,215,437,161,205,848,25,680,998,1,842,120,436,47,113,458,76,2,1,18,112,225,96
 Assembly DHPT MoH	9855
@@ -276,12 +285,13 @@ Assemblée Plénière	1231
 Assemblées	8237,654
 Assemblées Générales	8891
 Assemblées des Etats	8237
+Assentamento	11460
 Assente	5663
 Assented	1,10,957,870,1745,210,7383,3,2,1,7,1,9,2,62
 Assento	10765,7,3
-Assento de Nascimento	10749,4,3,9,10
+Assento de Nascimento	10749,4,3,9,10,588,117
 Assento de Nascimento. O Registo	10753
-Assentos	10765,10
+Assentos	10765,10,588
 Assert	11105
 Assert Epistemic Media and Communication Rights Today	11028
 Asserted Governance	10570
@@ -289,7 +299,7 @@ Asserter	6423
 Assertion	1009,4233
 Assertion V	1009
 Assertions	8862,114,253,1876
-Assess	236,482,181,344,571,174,489,512,872,265,1539,767,400,106,610,1930,272,1381,2,23,28,1,6
+Assess	236,482,181,344,571,174,489,512,872,265,1539,767,400,106,610,1930,272,1381,2,23,28,1,6,210
 Assess AI	1814
 Assess Compliance	10721
 Assess Enrol EXAMPLE AI-enabled	11156
@@ -349,7 +359,7 @@ Assessmentofdecision-	8606
 Assessments	573,216,475,290,1607,1267,3025,3436
 Assessments of DHIS2	10881
 Assessments. Washington	11136
-Assessorar	167,4051
+Assessorar	167,4051,7231
 Asset	767,1221,4950,600,213,1372,583,1015,17,393,3,75
 Asset Class. Geneva	1243
 Asset Declaration Forms	1554
@@ -398,21 +408,26 @@ Assignment Title	9603,1
 Assignment of Numbering Resources	6946
 Assignments	969,5977
 Assih	8262
-Assim	15,399,125,2277,302,216,812,1065,3308,740,886,627,5
+Assim	15,399,125,2277,302,216,812,1065,3308,740,886,627,5,593,1,8,8,3,6,1,24,1,14,10,10
 Assimi Goïta	8401,175
 Assimi Tairou	7355
 Assimilés SMQ Système de Management	10712
 Assimilés du Cameroun	718
+Assinado	11437
 Assinalou	5542,814
 Assinante	15,10732
-Assinantes	1144
-Assinar	4146,72
+Assinantes	1144,10286
+Assinantes Concretos	11430
+Assinar	4146,72,7164,53,14
 Assinaram	2816,3801
-Assinatura	2816,277,7656
+Assinatura	2816,277,7656,611,3,9,2,45,37,5,19
+Assinatura Digital	11433
+Assinatura Digitalizada	11433
 Assinatura Do Protocolo De Coopera	9399
+Assinatura Electrónica	11360,73
 Assinatura Qualificada	7948
 Assinaturas	1144
-Assinaturas Electrónicas	9909
+Assinaturas Electrónicas	9909,1552
 Assinie	10035,902
 Assis	2261
 Assise	7355
@@ -425,9 +440,10 @@ Assist SMEs	1885
 Assist the Poor	100,8647,2230
 Assist the SADC Secretariat	962
 Assist-Advise	11156
-Assistance	26,1258,499,6,1,1,1,3,931,1,481,329,891,1531,235,891,4,1148,2489,37,113,44,55,10,196
+Assistance	26,1258,499,6,1,1,1,3,931,1,481,329,891,1531,235,891,4,1148,2489,37,113,44,55,10,196,199
 Assistance Evidence	2727
 Assistance Human-in-the-loop	10726
+Assistance Launched	11380
 Assistance NGO Non-Governmental Organization NNGO National	6947
 Assistance Options and Safeguards	3861
 Assistance Options and Safeguards Permissible	3861
@@ -486,6 +502,7 @@ Assistants	2366
 Assiste	8891,1886
 Assisted Ultrasound Ultrasound	1363
 Assistente Universitário	2816
+Assistentes Técnicos	11421,25
 Assistentes Virtuais	2816
 Assister	10858
 Assisting	5677,2869,891,1404,349
@@ -493,11 +510,17 @@ Assisting INALUD	10776
 Assistir	13
 Assistive	940,4101,3966,2185
 AssistiveMath	8209
-Assistência	10777
-Assistência Técnica	2816
+Assistência	10777,588,28
+Assistência Técnica	2816,8574,16,35
+Assistência Técnica BI Bilhete de Identidade BM	11390
 Assistência de Profissionais Qualificados Durante	10777
 Assoc&title	771
 Assoc. of Communications and Technology	4772
+Associada	11405
+Associada da Concessionária Nacional	11405
+Associadas	11405
+Associadas da ANPG	11405
+Associadas da Concessionária Nacional	11405
 Associant	7541,174
 Associate	585,6231,130,1081,839,1897
 Associate Director	9188
@@ -665,6 +688,7 @@ Associação Francófona de Protecção de Dados	2345
 Associação Moçambicana de Doenças Raras	10188
 Associação Moçambicana de Profissionais	2816
 Associação Nacional	1808,626,6969
+Associação de Mulheres de Carreiras Jurídicas de Angola	11362
 Associação de Nações	2816
 Associações Económicas de Moçambique	8003
 Associer	1187,6354,379,2624
@@ -681,17 +705,21 @@ Assume-se	10777
 Assumed	80,1,1,1,201,95,120,1,181,1,1,1,1,1,1,202,1,1,1,1,1,1,229,1,1,237,154,1,1,1,1,2,1,691,7772
 Assuming	1828,7219,1213,556,324
 Assuming the Council’s Chairpersonship	7142
-Assumir	4218
+Assumir	4218,7166
 Assumption	7845,14,3317
 Assumptions	2775,939,1819,58
-Assunto	167,263,119,195,8,42,2813,7148
-Assunto Aprova	4146,6603,23,11
+Assunto	167,263,119,195,8,42,2813,7148,608,1,3,1,2,1,1,1,4,1,3,1,1,1,2,2,6,10,1,4,10,6,5,1,2,5,5,6,3,15
+Assunto Aprova	4146,6603,23,11,579,7,27,49,10,3
+Assunto Autoriza	11457
 Assunto Conteúdo	167,263,119,195,8,42
 Assunto Cria	4147,6607
+Assunto Estabelece	11385
 Assunto Lei de Protecção	10747
 Assunto Que	10756
+Assunto Regula	11361
 Assuntos Constitucionais	1268,7990
 Assuntos Corporativos	9559
+Assuntos Económicos	11378
 Assuntos Parlamentares	4435,1583,3253
 Assuntos Políticos	10750
 Assuntos R	539
@@ -727,9 +755,14 @@ Assurer	12,130,856,294,765,909,205,1,209,15,6,601,17,350,851,2756,410,169,335,74
 Assureurs	10965
 Assuring	1000,815,9026
 Assuring Sustainable Water Availability and Safe Sanitation	8012,3,3268
+Assédio Sexual	11406,7
+Assédio Sexual CdC Código de Conduta COS	11413
+Assédio Sexual ESIRT Environmental and Social Incident	11413
+Asséêdio Sexual ENAPP Escola Nacional de Administração	11390
 Atlantic Asset Management	6883
 Atlantique Assurance Vie	6883
 Atlantique Assurances	6883
+Atómica IATA Associação Internacional de Transporte Aéreo	11376
 Audits and Assessments	6432
 Augustine Assogba	6251
 Australian Library and Information Association	8022
@@ -754,6 +787,7 @@ BOAD Raymond ASSOUKROU Analyste	10708
 BOMAYANGU PARKROAD HOMEOWNERS ASSOCIATION Data Processor	7167
 Badirammogo Water User Association	11248
 Bamenda Ecclesiastical Provincial Health Assistance	10970
+Banda Larga. Assim	11397
 Bank Assets	10718
 Bank Assets.......8 Figure	10718
 Bank of Namibia and Bankers Association of Namibia	4073
@@ -809,6 +843,7 @@ CIS Inter-Parliamentary Assembly	11285
 COMMISSION STAFF WORKING DOCUMENT IMPACT ASSESSMENT	6477
 COMMITTEE REPORTS National Assembly	11230
 COMMITTEE REPORTS National Assembly and National Council	11289
+COMPONENTES DO PROJECTO E ASSISTÊNCIA TÉCNICA	11390
 CONTINENTAL AND REGIONAL INSTITUTIONS AND ASSOCIATIONS	961
 COSLID INSURANCE ASSESSORS Data Controller INST-66043486708	7167
 COUNTIES SHOULD DO NOW Assess	9939
@@ -864,7 +899,8 @@ Combined Assurance Oversight Committee	11131
 Combined Assurance Plan	11134
 Combined Assurance The ERM	11134
 Combined Assurance and Integrated Oversight	11134
-Comissão de Assuntos Constitucionais	539
+Comissão de Assuntos Constitucionais	539,10897
+Comissões da Assembleia Nacional	11436
 Comissões de Trabalho Especializadas da Assembleia Nacional	8880
 Commercial Banks Assets and Liabilities	2775
 Commercial Banks’ Assets and Liabilities	2775
@@ -883,11 +919,14 @@ Communications Regulators' Association of Southern Africa	6427
 Communications Regulators’ Association of Southern Africa	318,5554,180,3640
 Company's Articles of Association	4896
 Company's Memorandum and Articles of Association	4896
-Computer Assisted Personal Interview	582,3462,6733
-Computer Assisted Personal Interview1	4040
-Computer Assisted Telephonic Interview	4044
-Computer Assisted Telephonic Interview2	4040
+Computer Assisted Personal Interview	582,3462,6733,669
+Computer Assisted Personal Interview1	4040,7381
+Computer Assisted Personal Interviewing	11416,5
+Computer Assisted Telephone Interviewing	11416,5
+Computer Assisted Telephonic Interview	4044,7402
+Computer Assisted Telephonic Interview2	4040,7381
 Computing Research Association	4253
+Condições Associadas	11430
 Conduct National Assessment	1000
 Conduct National Risk Assessment	1000
 Conduct National Risk Assessment Risk	1000
@@ -1014,6 +1053,7 @@ Digital Asset Operators	4602
 Digital Assets	3870,740
 Digital Assets Regulation	8697
 Digital Economy Assessment	7358
+Digital Government Readiness Assessment Toolkit	11394
 Digital ID Assessment	1582,4561
 Digital ID Assessment Guidebook	1582
 Digital ID Assessment.pdf	6143
@@ -1044,9 +1084,12 @@ Djibouti Code Campus Association	5720
 Djibouti Code Campus Association and Association	5720
 Djibouti Office of Industrial and Commercial Assets	6938
 Djibouti Telecom CEO Mohamed Assoweh Bouh	4918,17
+Dr. Adão de Almeida Presidente da Assembleia Nacional	11436
 Dra. Zalha Assoumana	7702
 Draft Radio Frequency Spectrum Assignment Plans	7980,109
+Dubai’s Virtual Assets Regulatory Authority	11501
 E Assemblée	11139
+E VALIDAÇÕES Entidade Responsável Data Assinatura	11435
 E&S Environmental and Social EA Environmental Assessment	1988
 E. P. ASSEMBLEIA NACIONAL Lei	539
 E. SIFUNA AND ASSOCIATES ADVOCATES Data	7167
@@ -1091,10 +1134,11 @@ Emmanuel ASSILAMEHOO	2623
 Employee Assistance	6946
 Employee Assistance Service	11131
 Employees and Corporate Assets	7198
+Energy Sector Management Assistance Program	11380
 Enhanced Risk Assessment	2991
 Enterprise Design Quality Assurance and Results Division	10550
-Entrevista Assistida	10757
-Entrevista Pessoal Assistida	4044,6733
+Entrevista Assistida	10757,659,5
+Entrevista Pessoal Assistida	4044,6733,639,5,25
 Environment Impact Assessments	2775
 Environmental Assessment	11134
 Environmental Assistant	2889
@@ -1107,11 +1151,12 @@ Environmental Impact Assessments	1988,787,2843
 Environmental and Social Assessment	3604
 Environmental and Social Assessment The Environmental Impact	1988
 Environmental and Social Impact Assessment	1988
+Environmental and Social Impact Assessment ESMAP Energy	11380
 Environmental and Social Impact Assessment Regulations	1988
 Environmental and Social Impact Assessment Template	1988
 Environmental and Social Impact Assessments	1867,121,1616,3647
 Environnemental Assurer	8891
-Equity Assessment	3583
+Equity Assessment	3583,7886
 Equity Asset Turnover Ratio Licenses Advertising	1944
 Equity Financial Leverage Asset	1944
 Esports Association Ghana	11052
@@ -1130,6 +1175,7 @@ Ethiopian Economics Association	10852
 Etude Assistant N	10975
 European Union. Assessing	1219
 Example Levels of Assurance	10765,10
+Excelentíssimo Senhor Presidente da Assembleia Nacional	11436
 Excellence Monsieur le Président Azali Assoumani	1866
 Executive Administrative Assistant	11314
 Executive Assistant	11289
@@ -1138,6 +1184,7 @@ Executive Director of Inclusive Friends Association	4725
 Existence des Assistants	10874
 Expanding Green Assets	9117
 Expertise des Auditeurs Associés	10821
+FDI IFC Asset Recycling	11469
 FINANCIAL ASSETS AND FINANCIAL LIABILITIES	10793
 FM Assessments	1264
 FM Assistant	4653
@@ -1236,6 +1283,8 @@ Government Assets Management Department	9492
 Government Assets Management Information System	9492
 Government Association SANRAL South African National	11261
 Government Assurances	6533
+Government of Angola. As for Technical Assistance	11390
+Governo Assembleia Nacional--	11408,2
 Governor’s Special Assistant	3133
 Grade A Assistant	11180
 Graduate Assistant	9104
@@ -1266,6 +1315,7 @@ Health Surveillance Assistants	10881
 Health Technology Assessment	4153
 Helios Investment Partners and TA Associates	908
 Helios and TA Associates	908
+Henda ASC Assistente Social de Campo	11390
 High-Level Assessment of Identity Management System	3781
 Homes SLBC Staff Accused of Assaulting Open	8271
 Hora A Assembleia Nacional	8308
@@ -1282,8 +1332,10 @@ Humanitarian Assistance and Disaster Relief	2667
 Hungarian Association of Digital Companies Kappa404 KeeeX	8530
 I ASSENT SAMIA SULUHU HASSAN President	6921
 IA. Assim	2816
+IAASB International Auditing and Assurance Standards Board	11380
 IAR Immovable Assets Register ICT Information	11261
 IASP International Association of Science Parks ICAO	2775
+IATA Associação Internacional de Transporte Aéreo AREA	11376
 ICT Asso	4775
 ICT Association of Malawi	2231,33,1774
 ICT Association of Uganda	4235
@@ -1291,6 +1343,7 @@ ID Identification IDA International Development Association	1284
 ID4D Diagnostic and ID Enabling Environment Assessment	10819
 IDA International Development Association IDEA Inclusive	6539
 IDA the Association	1867
+IES. Assim	11391
 III. Strategic Assessment	6735,200
 III. Strategic Assessment The CBN	6935
 IMF High-Level Summary Technical Assistance Report	1698
@@ -1369,6 +1422,7 @@ International Association of Women Judges	2626
 International Bar Association	6946
 International Cooperation and Technical Assistance	3861
 International Development Association	1264,20,295,199,89,47,112,47,401,358,624,148,176,585,469,649,1,11,1259,699,946,1,34,44,505,1675,183,122,347
+International Development Association IDA Integrated Disease	11417
 International Development Association ISR Implementation	2889
 International Journal of Nepal Library Association	8022
 International Lawyers Assisting Workers Network	8764
@@ -1388,6 +1442,7 @@ Ivoire's National Assembly	2759
 J Am Med Inform Assoc	771
 J New Zeal Med Assoc	8376
 JAMES ASSOCIATES ADVOCATES LLP Data Processor	7167
+JEE Assessment Methodology for Data Collection JEE	11417
 JKUAT Device Assembly Plant	9336
 Jean Boniface Assélé	10036
 Joint Assessment Mission	10841
@@ -1640,7 +1695,9 @@ Newspaper Proprietors' Association of Nigeria	11313
 Newspaper Proprietors’ Association of Nigeria	7179,2,4111
 Nigeria Information Technology Reporters Association	8288
 Nigeria Internet Registration Association	4690
+Nigeria Movable Asset Based	11469
 Nigeria Poverty Assessment	3456
+Nigeria Risk and Resilient Assessment	11468
 Nigeria's National Assembly	9642
 Nigerian Australian Medical Doctors Association	7895
 Nigerian Bar Association	8978,1071
@@ -1662,8 +1719,9 @@ Nutritionnelle PPP Prevention and Peace Building Assessment	643
 Nyamira Professionals Association	10330
 Nyandarua County Assistant Director for Gender	11086
 Nyandarua County Assistant Director for Gender Immaculate	11086
+NÃO ASSINA	11480
 O Assento de Nascimento	10753
-O Presidente da Assembleia Nacional	14,1,524,10,5269,4929,2,6,1
+O Presidente da Assembleia Nacional	14,1,524,10,5269,4929,2,6,1,607,21,4
 O Professor Associado Jorge Nhambiu	9694
 OASIS Security Assertion Markup	1009
 ODRA Open Data Readiness Assessment OECD	4214
@@ -1683,6 +1741,7 @@ Open Data Readiness Assesment	1984
 Open Data Readiness Assessment	9406
 Operator Scheme UAMP User Asset Management	11218
 Orçamento Privativo da Assembleia Nacional	1338,4,738,9
+Orçamento da Assembleia Nacional Revisto	11365
 Out Stations Associated Base Station Base	736
 Out Stations Associated Latitude Power Capacity	736
 Out-of-Scope Assumptions	6423
@@ -1719,6 +1778,7 @@ Payments Association of South Africa	8664,1113
 Payments Association of Zambia	5217
 Payments for Capital Assets	11230
 Payroll Investments Asset Management and Insurance	9437
+País. A Assembleia Nacional	11425
 Per Second MCA Member of County Assembly	2775
 Percentage Contribution Type of Asset	2775
 Performance Assessment Report. Warwick	10997
@@ -1744,11 +1804,13 @@ Preliminary Readiness Assessment	8301
 President Azali Assoumani	5556
 President Nigeria Internet Registration Association	6536
 President of Association of Local Governments of Nigeria	11126
-Presidente da Assembleia Nacional	539,2980
+Presidente da Assembleia Nacional	539,2980,7890,16
 Presidente da Assembleia da República	6970
 Prestador de Serviços de Pagamento Associadas	10755
 Prevention and Peace Building Assessment	643
 Price and Preferential Points Assessment	11240
+Primeira Vice-Presidente da Assembleia Nacional	11365
+Princípios Gerais de Regulação Assimétrica	11430
 Privacy Impact Assessment	6512
 Private Newspaper and Online Publishers Association of Ghana	8748
 Procedural Law Assistance	26
@@ -1829,7 +1891,7 @@ Rapid Assessment	6832,3944
 Rapid Assessment of Counties	5134
 Rapid Response Register Self-Employed Women’s Association	10763
 Rapid Risk Assessment and Enhanced Surveillance	10776
-Readiness Assessment Methodology	1814,573,1739,679,2440
+Readiness Assessment Methodology	1814,573,1739,679,2440,4238
 Readiness Assessment Methodology RNA	2816
 Readiness Assessment SDG Sustainable Development Goal	10829
 Real World Asset	8093
@@ -1855,6 +1917,7 @@ Reporting Association SANCA South African National	11198
 Research Approaches and Assumptions	5349
 Research Assessment DSI Department of Science and Innovation	5246
 Residents Association Treasurer	736
+Resilience Assessment	11469
 Resource Member and Associate Member	585
 Resource and Associate Member	585,8281
 Resources IAP Inventor Assistance Programme ICT	11250
@@ -1920,12 +1983,15 @@ School Based Assessment Mind the Gap Study	11241
 School Education Assessment KRA Kenya Revenue	2775
 Score Rank Freedom of Association	10837
 Second ASSAf Report	5246
+Sector Management Assistance Program ESMF Environmental	11380
 Sectoral Stability Assessment Households Household	11134
 Security Risk Assessment	783,10046
 Security Risk Assessment and Security Management Plan	10829
 Security Risks Assessment	10829
 Security and Risk Assessment	10157
 Secção MINISTÉRIO DA JUSTIÇA Assinatura de Contrato	10753
+Segunda Vice-Presidentes da Assembleia Nacional	11365
+Segundo Vice-Presidente da Assembleia Nacional	11365
 Senegal's National Assembly	9134
 Senegal's National Assembly ICT	699
 Senhor Presidente da Assembleia Nacional Senhoras	1265,683
@@ -1945,6 +2011,7 @@ Sentinel Data for Flood Mapping and Damage Assessment	2816
 Service Availability Readiness Assessment	766
 Service Availability and Readiness Assessment	10829
 Services Assimilés	1649
+Serviços de Assistência	11430
 Settlement Combined Assurance Forum Central Bank	11131
 Seventy-First World Health Assembly	396
 Sexually Transmitted Infections TA Technical Assistance	1988
@@ -1954,6 +2021,7 @@ Sidney Assinonvo	9811
 Sierra Leone Extractive Industries Technical Assistance	2889
 Significantly Higher Assuming	11140
 Sistema Integrado de Gestão de Assentos	2688
+Sistema de Assinaturas Electrónicas	11461
 Situations of Urgent Need of Assistance	10829
 Snr Communication Assistant	10864
 Social Assessment	2473,2180
@@ -2023,6 +2091,7 @@ State of Passwordless Identity Assurance	9902
 Statement of Combined Assurance	11131
 Statistics Unit Assistant Research Officer No	10980
 Steward Vision Assistant	9007
+Strategic Allocation of ODA Official Development Assistance	11487
 Strategic Assessment	970
 Strategic Asset	4528,1022
 Strategic Asset Allocation	11131,3
@@ -2034,6 +2103,7 @@ Strategic Investment and Technical Assistance	4301
 Strategic National Asset Gaps	7548
 Strategy for Development PRAMS Procurement Risk Assessment	3604
 Strengthen Mutual Legal Assistance Agreements	961
+Strengthen Virtual Asset Regulation The Capital	11501
 Subproject Assessment and Analysis	1988
 Sudan Digital Economy Assessment	986
 Summary Statement of Financial Position Assets External	11131
@@ -2129,7 +2199,7 @@ UNDP Digital Readiness Assessment	1994
 UNDP Digital Readiness Sector Assessment	6539
 UNESCO AI Readiness Assessment Methodology and Nigeria	9511
 UNESCO AI Readiness Assessments	6862
-UNESCO Readiness Assessment Methodology	7068
+UNESCO Readiness Assessment Methodology	7068,4415
 UNESCO's AI Readiness Assessment Methodology	4528
 UNESCO's Artificial Intelligence Needs Assessment Survey	1814
 UNESCO's Readiness Assessment Methodology	5036
@@ -2169,8 +2239,11 @@ VIRTUAL ASSISTANT	10762
 VOLUNTARY DELISTING Assisted	4896
 Valuable Assets	3279
 Vendor Lock-in Portability Assurance GCSPs	6432
+Vice-Presidente da Assembleia Nacional	11436
+Vice-Presidente da Assembleia Nacional Com Cópia	11436
 Village Assessment Survey County Profiles	1867
 Village Savings and Loan Associations	10299,542
+Violence Fiscal Year International Development Association	11468
 Virtual Asset Act	3270,19
 Virtual Asset Council	7448,46,1736,524,201
 Virtual Asset Exchange Virtual Asset Manager	10738
@@ -2210,6 +2283,7 @@ West Africa Telecommunications Regulators Association	5675,2,1,1
 West Africa Telecommunications Regulators' Association	26,1,1
 West Africa Telecommunications Regulatory Assembly	2677
 West African Telecommunications Regulators Assembly	1909
+Western Cape E-Hailing Association. Discussions	11494
 Wilfried ASSOGBA	9457
 Wilfried Assandé	6237
 Wireless Access Providers’ Association	6365

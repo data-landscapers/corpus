@@ -1,5 +1,6 @@
 A. Senhadji	1828
 A. Senior	4214
+ABORDAGEM SENSÍVEL AO GÉNERO	11413
 ADEA Senior Programs Officer Shem Bodo	10359
 AFIC Executive Director Gilbert Sengugwa	3969
 AI Governance Protects Patient Care and Sensitive	3279
@@ -99,6 +100,7 @@ Deputy Commissioner of Police and Senior Technical Resource	8286
 Deputy Senate Leader	7853
 Description Supports Senegal	1190
 Description USAID Senegal Health Systems Strengthening	155
+Dever Geral de Sensibilização	11367
 Diamniadio Data Centre Restructuring and Smart Senegal	647
 Digital Africa Summit Senegal	4187
 Digital Sovereignty and Tech Hub Goals Senegal	2627
@@ -121,6 +123,7 @@ Egypt’s Nilesat and South Africa’s Sentech	5623
 El Hadji Maty Sene	2827
 Elizabeth Jordan Senior Industry Engagement Manager	8967
 Emerging Senegal Plan	417,391
+Emergência. Sendo	11413
 Enabel and AFD. Senegal	641
 Enabel's Senegal	641
 Escola Primária Nossa Senhora D'Africa	10752
@@ -128,6 +131,7 @@ Escuela Unitaria de Sendje	4209
 Etat du Senegal	5022
 Ethiopia Senegal	11004
 Ethiopia and Senegal. Using	4127,5489
+Excelentíssimo Senhor Presidente da Assembleia Nacional	11436
 Excelência Senhor Embaixador	10753
 Executive Senior Legal Advisor	11198
 Expand Senegal's Digital Infrastructure	7477
@@ -214,6 +218,7 @@ M Senior Bond	460
 M. Senyuta	3616
 M. Svyatoslav Senyuta	3616
 MALI NIGER SENEGAL TOGO UEMOA Nombre	4459
+MECANISMO DE RECLAMAÇÕES SENSÍVEL A EAS	11413
 MESA DEL SENADO	4209
 MIS. Senegal	10991
 MOH for SENI	10829
@@ -316,10 +321,12 @@ President Senator Ibrahim Hassan Hadejia	8241
 President Senghor	7207
 President and University of Malawi Senior Lecturer	7900
 Primary Eight and Senior Four	8940
+Principe Saudi Arabia Senegal Serbia Seychelles	11470
 Prof. Thomas Senaji	958
 Professeur Sena Yawo AKAKPO-NUMADO	2966
 Projet Smart Senegal. The Chinese	260
 Protect Critical Digital Systems Senegal	5407,676
+Protecção de Informações Sensíveis	11386
 Présidence Primature Senat HCC Open Data	9480
 Président de Sen Startup	2442
 Public Accounts SLA Senior Legal Advisor	11198
@@ -505,7 +512,7 @@ Sending	34,938,6824,351,1290,1755
 Sending False Messages	3383
 Sending Offensive Messages	3383
 Sendje	4209
-Sendo	2816,4494,2182,1278,2
+Sendo	2816,4494,2182,1278,2,592,1,32
 Sendova and Bravo2024	8283
 Sendwave. What Amegbor	11169
 Sendwave’s US	4972
@@ -518,7 +525,7 @@ Sene-2017	1784,1,2,7,3
 SeneNews	7419
 SeneNews. Orange	1143
 SeneWeb	4967,179
-Senegal	44,18,24,68,87,19,27,13,77,25,15,91,10,37,43,26,17,6,1,4,57,3,96,3,2,4,12,25,36,3,36,4,3,25,52,6,36,6,80,1,1,68,32,4,17,99,44,8,1,3,6,9,3,84,1,7,12,1,6,180,40,44,2,76,15,41,190,3,2,9,17,1,57,11,52,13,2,1,7,9,13,2,21,54,48,86,6,7,5,38,19,8,55,26,67,41,6,5,20,42,83,26,39,75,38,48,57,5,170,1,75,92,14,44,17,15,14,80,52,25,6,171,67,24,23,26,11,2,10,1,25,201,10,9,22,51,28,37,7,132,12,58,11,45,35,28,1,16,39,1,4,18,7,25,34,4,24,1,53,8,64,26,1,1,4,88,37,35,31,81,7,8,11,13,119,3,20,1,86,27,25,41,44,37,6,23,70,114,57,82,29,2,9,37,86,31,19,148,39,2,26,55,1,34,107,15,15,34,66,43,45,19,37,22,31,29,1,34,3,35,57,33,25,24,8,34,88,76,214,41,84,5,100,124,84,105,68,76,169,67,99,57,25,1,10,46,51,1,21,46,168,241,1,24,122,42,12,9,127,15,1,1,109,103,1,304,208,25,45,26,9,7,18,16,3,7,1,2,8,5,4,7,12,48,8,14,14,23,13,13,121,2,9
+Senegal	44,18,24,68,87,19,27,13,77,25,15,91,10,37,43,26,17,6,1,4,57,3,96,3,2,4,12,25,36,3,36,4,3,25,52,6,36,6,80,1,1,68,32,4,17,99,44,8,1,3,6,9,3,84,1,7,12,1,6,180,40,44,2,76,15,41,190,3,2,9,17,1,57,11,52,13,2,1,7,9,13,2,21,54,48,86,6,7,5,38,19,8,55,26,67,41,6,5,20,42,83,26,39,75,38,48,57,5,170,1,75,92,14,44,17,15,14,80,52,25,6,171,67,24,23,26,11,2,10,1,25,201,10,9,22,51,28,37,7,132,12,58,11,45,35,28,1,16,39,1,4,18,7,25,34,4,24,1,53,8,64,26,1,1,4,88,37,35,31,81,7,8,11,13,119,3,20,1,86,27,25,41,44,37,6,23,70,114,57,82,29,2,9,37,86,31,19,148,39,2,26,55,1,34,107,15,15,34,66,43,45,19,37,22,31,29,1,34,3,35,57,33,25,24,8,34,88,76,214,41,84,5,100,124,84,105,68,76,169,67,99,57,25,1,10,46,51,1,21,46,168,241,1,24,122,42,12,9,127,15,1,1,109,103,1,304,208,25,45,26,9,7,18,16,3,7,1,2,8,5,4,7,12,48,8,14,14,23,13,13,121,2,9,262,21
 Senegal AI	6948
 Senegal AI Factory	8821
 Senegal Advances Digital Governance	3612
@@ -624,6 +631,7 @@ Senegal's Technological New Deal	2622
 Senegal's Telecoms and Postal Regulatory Authority	2301
 Senegal's Universal Health Coverage	3673
 Senegal-Gambia	6869
+Senegal-Gambie	11512
 Senegal-Mauritania	2362
 Senegal-Togo	3834
 Senegal-based	2237
@@ -695,7 +703,7 @@ Senhores Deputados Nos	1948
 Senhores Deputados O OE	1948
 Senhores Deputados O Orçamento	1948
 Senhores Membros	1265,683
-Senior	813,1127,196,774,350,44,26,199,54,314,187,111,272,429,39,214,240,4,68,275,320,608,152,388,117,468,224,9,1107,929,178,493,235,12,180,24,101,29
+Senior	813,1127,196,774,350,44,26,199,54,314,187,111,272,429,39,214,240,4,68,275,320,608,152,388,117,468,224,9,1107,929,178,493,235,12,180,24,101,29,129
 Senior AVP Service Delivery	11162
 Senior Accountant	1228
 Senior Advisor	27,4138,1585,527,4854,3,176
@@ -804,6 +812,7 @@ Senior Research Analyst Artificial Intelligence	7334
 Senior Research Officer	3005
 Senior Research Officer of Privacy International	3005
 Senior Sales	11032
+Senior Sales Director for Middle East	11502
 Senior Secondary Phase	288
 Senior Secondary School Examination	5321
 Senior Sectional Engineer and Assistant Manager Engineering	6946

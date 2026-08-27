@@ -59,6 +59,8 @@ Centro de Formación Profesional	4209
 Centro de Formación Profesional de Añisok	4209
 Centros Profesionales	4209
 Centros de Formación Profesional	1701,2508
+Centros de Formação Profissional	11387
+Centros de Formação Profissional. Para	11387
 Certificate of Proficiency	1554
 Certified Information Privacy Professional	1940
 Certified Information System Security Professional	1940
@@ -94,6 +96,7 @@ Country Profiles For Early Childhood Development	10768
 Crescimento Profissional	2816
 Cybercrime Legislative Profile	1276
 Cybersecurity Profiling	10721
+Cédula Profissional	11435
 D E- Professional	582
 D.G DE ENSEÑANZA TECNICA Y PROFESIONAL	4209
 D.G DE FORMACION PROFESIONAL	4209
@@ -101,6 +104,7 @@ D.G. DE FORMACION PROFESIONAL OCUP- Concepto.-66314	4209
 D.G. DE FORMACION PROFESIONAL OCUP.- Concepto.-66111	4209
 D.G. ORDENAC. ACADEMICA Y PROFESORADO.- Concepto.-	4209
 DATA STEWARDSHIP NETWORK AND PROFESSIONAL STANDARDS	3861
+DE FORMAÇÃO E CAPACITAÇÃO PROFISSIONAL	11397
 DE LA FORMATION PROFESSIONNELLE ET	2966
 DES ELEVES SELON LA PROFESSION DES	10847
 DIRECTOR PROFILES	4896
@@ -111,10 +115,12 @@ Data Stewardship Network and Professional Standards	3861
 Delve Country Profile	2889
 Develop Cybersecurity Education and Profession Training	1000
 Dever de Sigilo Profissional	167
+Deveres Profissionais	11452
 Digital Identity Country Profile	10822
 Digital for Healthcare Professionals Together	10865
 Displacement Context and Refugee Profiles	10841
 Displacement Context and Refugee Profiles Equatorial Guinea	10841
+Doenças Profissionais	11390
 Domestic Economy Professional	2775
 Dr. Zeynep Engin and Professor Jon Crowcroft	1246
 EDUCACION ENSEÑANZA FORMACION PROFESIONAL	4209
@@ -133,7 +139,7 @@ Ensino Primário Província Professores	10766
 Ensino Privado Província Professores	10766
 Ensino Público Província Professores	10766
 Ensino Público-Privado Província Professores	10766
-Ensino Secundário Técnico Profissional	10766
+Ensino Secundário Técnico Profissional	10766,653
 Ensino Secundário Técnico Profissional MF M	10766
 Ensino Secundário Técnico- Profissional Província População	10766
 Ensino Secundário de Formação de Professores	10766
@@ -144,18 +150,22 @@ Escola de Formação de Professores Ensino Geral Avaliação	10766
 Etablissement Supérieur Professionnel	10893
 Ethiopia. Profitability	6100
 Executive Secretary Professor Abdullahi Yusufu Ribadu	8710
+Experiência Profissional	11441,15
+Experiência Profissional Deve-se	11448
 Expo View Profile	6357
 FINANCIAL CAPABILITIES Profile	418
 FORMAÇÃO DE PROFESSORES	10766
+FORMAÇÃO PROFISSIONAL DOS TITULARES DE CARGOS	11361
 Faculty of Commerce Professor Suki Goodman	11027
 Filing and Manage Your User Profile	11276
 Financial Performance Profit	11131
 Formación Profesional	4209
 Formación Profesional Ocupacional	4209
 Formation Professionnelle	643,2753,4530,965,2073
-Formação Profissional	10768,10
-Formação Profissional Básica	10766
-Formação de Professores	10766
+Formação Profissional	10768,10,609
+Formação Profissional Básica	10766,653
+Formação de Professor	11419
+Formação de Professores	10766,653
 Framework HPCSA Health Professions Council of South	396
 Fraud and Corruption Risk Profile	5533
 Full Professor	8126
@@ -163,6 +173,7 @@ Full Professor of Responsible Artificial Intelligence	7112
 Fun and Profit	2096
 Fund Profit Before Tax	4896
 GENDER PROFILE	4972
+GHS Index Country Profile for Angola	11417
 Gain Proficiency	6432
 General Professional Experience	962
 Generative AI Profile	7451
@@ -179,6 +190,7 @@ Growing Gross Profit	9735
 Grows H1 Profit After Tax	8178
 Growth NPL Ratio Bank Profitability Public	11134
 H1 Profit Hits N638.5bn NASCON	8178
+Habilidades Profissionais	11361
 Health Informatics Professional	1219
 Health Professional Council of Zambia	34
 Health Professional Education	8605
@@ -192,6 +204,7 @@ Healthcare Professionals Only	9855
 High Profile Cases	11250
 High Profile Companies	11250
 Honourable Professor Dr. Amon Murwira	9761
+I Ciclo da Formação Profissional Básica	11419
 ICT Professionals	2288
 IHE Profile IHE Profile Descriotion Referenced	1009
 IHE Profile IHE Profile Description	1009
@@ -257,6 +270,7 @@ O Professor Associado Jorge Nhambiu	9694
 Observatory of Employment and Professional Training	10963,1
 Offsec Certified Professional	1940
 Operator Profiles	4130
+Ordens Profissionais	11383
 Organisational Profile	9198
 POUR LES USAGERS PROFESSIONNELS	6954
 PPE Revenue Net Profit Assets Liabilities	1944
@@ -270,6 +284,9 @@ PROFESSOR SEM FORMAÇÃO PEDAGÓGICA	10766
 PROFI	3868
 PROFILE	4429,5,792,5686
 PROFILE US	4972
+PROFISSIONAIS LIBERAIS	11435
+PROFOGMEPS	11390
+PROFOGMEREGAPS Projecto de Fortalecimento da Governaçãonça	11390
 PROJECTED PROFITABILITY FOR THE BANK	1818
 PSE. Le Professeur	2966
 Parcours Professionnels	8125
@@ -367,6 +384,7 @@ Professor Chiratidzo Ellen Ndhlovu	1554
 Professor Chul-In Lee of Seoul National University	9729
 Professor David Eaves	10852
 Professor David Hand	1246
+Professor Doutor Pedro Magalhães	11411
 Professor Eddie Mwenje of Bindura University of Science	520
 Professor Emmanuel Kofi Akowuah	8748
 Professor Engineer Q.C. Kanhukamwe	8483
@@ -439,12 +457,13 @@ Professora	2816
 Professora Associada Esselina Macome	9694
 Professora Doutora Paula Meira Lourenço	3079
 Professora de IA da Universidade Stanford	2816
-Professores	2816,7950
+Professores	2816,7950,621
 Professores Formação Profissional Básica Gabinete de Estudos	10766
 Professores MF M F	10766
 Professores. Anuário Estatístico da Educação	10766
 Professores. Em	10766
 Professores. Gráfico	10766
+Professors Virginia Dignum and Frank Dignum of Umeå	11439
 Proficiency Testing Quality Assurance I Quality	4153
 Profil	7655,3057,2,161
 Profilage	1231
@@ -501,6 +520,7 @@ REGIONAL PROFILE	4972
 RESULTS PROFILE	10759,76,3,130
 Reagents for Mineral Froth Flotation Professor Tawanda	1154
 Recouvrement BEPS Base Erosion Profit Shifting	10712
+Rector André Pedro Neto and Chairholder Professor	11478
 Redes Neurais Convolucionais Profundas	2816
 Reforma Profunda	10750
 Refugee Profiles	10841
@@ -531,6 +551,7 @@ Segredo Profissional	4218,6537
 Shareholder’s Equity Profit Margin USD	1013
 Shortage of Skilled Cybersecurity Professionals	6936
 Shortage of Skilled Cybersecurity Professionals Challenge	6936
+Sigilo Profissional	11425
 Socio Economic Profile. M’mbelwa District Council	3791
 Socioeconomic Profiling of Sundaneses	10841
 Son Excellence le Professeur Alpha Condé	746
@@ -550,6 +571,7 @@ Teacher Professional Learning	899
 Teacher and Health Professionals	1988
 Technical Description Example Profile Framework	1009
 Tuberculosis Angola Profiles Claudia Robbiati View	10784
+Técnico Profissional	11419
 UNESCO GO-SPIN Kenya Profile	7548
 UNHCR Socioeconomic Profiling	10841
 UPS Preinstalled Genuine Microsoft Office Professional	34

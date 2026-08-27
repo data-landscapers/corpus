@@ -16,6 +16,7 @@ Agencies County Focal Civil Society Points	7548
 Agostinho Neto de Pointe-Noire	3326
 All Point	736
 Analysis of Point of Presence	3862
+Angola Internet Exchange Point	11470
 Appoint Cybersecurity Focal Points. Identify	1777
 Artificial Intelligence. Pointing	10370
 Aster Point Hospital Data Controller INST-266477267AE	7167
@@ -104,7 +105,7 @@ Internet Exchange Point	762,2705,1081,67,1178,1407,28,3278
 Internet Exchange Point Emerging Technologies	7548
 Internet Exchange Point LTE	958
 Internet Exchange Point of Nigeria	2754,4575,1298
-Internet Exchange Points	1264,1467,823,324,1798,4,232,1,102,153,374,3253,362
+Internet Exchange Points	1264,1467,823,324,1798,4,232,1,102,153,374,3253,362,1313,30
 Internet Exchanges Points Accra-IX	10037
 Investment RPO Recovery Point Objective RTO	6432
 KENYA The Pharmacy and Poisons Board	9854
@@ -205,11 +206,12 @@ Points WRA Water Resources Authority	2775
 Points Weight	10785
 Points Weight I-27 UN E-Participation Index	10785
 Points of Customer Contact E-mail	775
-Points of Presence	1289,2573,2887
+Points of Presence	1289,2573,2887,4757
 Points ofEntry	4260
 Points-Based Valuation System for Property Taxation	11133
 Points. Government of Cybersecurity	1777
 Poirier	2093
+Poised	11469
 Poisons	9855
 Poisons Board	9855
 Postal Facility Delivery Point	11129
@@ -260,5 +262,6 @@ Universal Contact Points	5676
 Vult Pay Point	2749
 Water Purification Points and Boreholes Drilled1	2775
 Wide Expansion of Customer Touch Points	9117
+Wireless Access Point	11503
 Wireless Access Points	34
 Xchange PointIXPDigital	7200

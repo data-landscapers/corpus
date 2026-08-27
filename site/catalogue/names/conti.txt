@@ -112,6 +112,7 @@ CPD Continuous Professional Development CSP Content	6946
 Chief Executive Officer CI Continuous Integration	6432
 Community CERC Contingency Emergency Response Component	969
 Compliance and Business Continuity Management	11131
+Componente de Resposta de Emergência Contingente	11440,1
 Conclusion Continuity	10784
 Connected Continent	3796
 Connectivity and Fintech. Continued	10793
@@ -200,12 +201,13 @@ Contingency Emergency Reconstruction Component	1228
 Contingency Emergency Response Component	2989,7779,195
 Contingency Fund	7695
 Contingency Vote	7695
-Contingent	998,286,544,1061,3138,5203,18
+Contingent	998,286,544,1061,3138,5203,18,132
 Contingent Allemand	998
 Contingent Allemand ARCEP	998
 Contingent Emergency	1284
-Contingent Emergency Response	1284,3369,2275
-Contingent Emergency Response Component	996,232,36,20,583,1022,100,573,42,1049,2180,3935,61,135
+Contingent Emergency Response	1284,3369,2275,4489
+Contingent Emergency Response Component	996,232,36,20,583,1022,100,573,42,1049,2180,3935,61,135,453
+Contingent Emergency Response Component CERC Country	11417
 Contingent Emergency Response Component CERC Steering	1228
 Contingent Emergency Response Component CPF Comité	10964
 Contingent Emergency Response Component CPF Country	10768
@@ -216,6 +218,7 @@ Contingent Emergency Response Component TOTAL Current	1228,3425
 Contingent Emergency Response Component TOTAL Original	4653
 Contingent Liabilities and Contingent Assets	1154
 Contingent Liabilities and Contingent Assets. Termination	1154
+Contingência de Resposta	11413
 Continous Multipurpose Household Survey Sweden	30
 Continu	958
 Continu Information	10876
@@ -237,7 +240,7 @@ Continue Programme de PTA	10876
 Continue Reading	4725,1040,37,1308,2637,54,3,23
 Continue Strengthening Public Financial Management	1579
 Continue With MyNa Credentials	3002,443,14,16,1606,536
-Continued	418,582,777,51,160,1726,476,420,1045,25,752,303,301,1490,77,2,854,71,558,688,17,48,15,8,267,3,77,39,11
+Continued	418,582,777,51,160,1726,476,420,1045,25,752,303,301,1490,77,2,854,71,558,688,17,48,15,8,267,3,77,39,11,119,103
 Continued AI	1363
 Continued Annual Absorption of Frontline HCWs Year	4260
 Continued Google	6593
@@ -245,6 +248,7 @@ Continued Stakeholder Engagement INEC	10049
 Continuer	3356,1604,62,1932,103,3475
 Continueront	4421
 Continues	6051,3186,1717
+Continuidade	11461
 Continuing	940,2324,319,1313,2691,1391,1952,60,141,3
 Continuing Misinformation and Disinformation Campaigns	2626
 Continuing Obligations	3861
@@ -252,6 +256,7 @@ Continuity	1214,1744,545,2644,3359,1278
 Continuity of Care	21
 Continuity of Care Document Continuity of Care Record	1009
 Continuity of NITA-U	1150
+Continuity of Services	11469
 Continuité	1214
 Continuous	958,42,814,14,110,50,960,656,257,265,402,378,338,141,280,11,346,410,514,2,600,114,1337,368,52,436,866,10,45,43,10,111,67,124,3,22,113
 Continuous Adaptation Requirement ACKNOWLEDGING	3861
@@ -293,6 +298,7 @@ Data Centres Association AfCFTA African Continental	7548
 Data Continuous Population Survey	11341
 Deborah Tolu-Kolawole The African Continental	9154
 Decentralised Continuous Transaction Control and Exchange	8670
+Description Contingency	11417
 Description Continuation	2164
 Description Continues	2964
 Develop National Contingency	1000
@@ -379,10 +385,11 @@ Monitoring and Continuous Compliance	5665
 Monitoring and Continuous Improvement	5665
 Moxico Namibe Continuação Uíge Zaire	10757
 Moxico Namibe Uíge Zaire Continua	10766
+NCP National Contingency Plan NDC Nationally	11380
 NOTARIA DE LA REGION CONTINENTAL.- Concepto	4209
 Namibe Uíge Zaire Continua	10766
 National Bank of Rwanda. Continuous	9046
-National Contingency Plan	10763
+National Contingency Plan	10763,617
 National Contingency Plans	3887
 National Disaster Recovery and Business Continuity Plan	1000
 National ID Card Rollout Continues	5475
@@ -392,13 +399,17 @@ Nigeria African Continental Free Trade Area	8421
 OWNERSHIP A Assess Continental Ensure	961
 Operations and Maintenance Continuously	11007
 PARQUE MOVIL CIVIL REGION CONTI.-Concepto	4209
+Pacote de Continuidade Operacional	11442
 Pattern Across the Continent Across Africa	8943
 Patterns Across the Continent	5551
 Pending Litigations and Contingent Liabilities	5903
 Performance and Continuous Improvement	11131,3
 Plan de Continuité	10906
 Post-Emergency Continuity Review. Following	3503
+Princípio da Continuidade	11388
 Professional Standards and Continuous Improvement	3861
+Project Management Contingent Emergency	11417
+Project Management Contingent Emergency Response Component	11417
 Projet Contingent de Réponse	9339
 Promote Continuous and Inclusive Access	7405
 Prospects for Continuous Consumer Experience	5679

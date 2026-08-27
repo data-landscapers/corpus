@@ -21,6 +21,7 @@ CANNON LIFE ASSURANCE	7167
 CAPEX LIFE ASSURANCE COMPANY LIMITED Data	7167
 CIC LIFE ASSURANCE LIMITED Data Controller	7167
 CIC LIFE ASSURANCE LIMITED Data Processor	7167
+CRI Disability-Adjusted Life Years DALYs District	11417
 Condition for Lifesaving Aid Citing ProPublica	10446
 Conditionality Puts Life-Sustaining Treatment	6534
 Current AI Lifecycle	7548
@@ -81,7 +82,7 @@ Lifecycle	1525,360,4538,1860,2948,37
 Lifecycle Accountability	7548
 Lifecycle Governance	6442
 Lifecyle	11156
-Lifelong	7358,1,3416
+Lifelong	7358,1,3416,664
 Liferestwithboni Miranda Zulu Omega Shange Ivan	8999
 Lifesaving	6947
 Lifestyle	4866,4387,393
@@ -100,6 +101,7 @@ Old Mutual Life Assurance Company of Zimbabwe	4896
 Orchestration of Palestinian Life and Death	7147
 Pakistan Journal of Life and Social Sciences	7759
 Performance Indicators for Life Insurance Business	2775
+Practices and Data Lifecycle	11439
 Procurement Lifecycle	11231
 Provide Life-Enhancing Services	195
 Quality of Life and Status of Women	11193

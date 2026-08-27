@@ -190,7 +190,7 @@ Centenary Sacco Society Limited Data Controller	7167
 Centenary Technology Services	3693,4182
 Centenary Technology Services CEO	3423
 Centenary Technology Services' Chief Executive	3693
-Center	87,824,2047,334,117,27,1181,1334,706,806,759,860,41,161,1430,51,10,77,124
+Center	87,824,2047,334,117,27,1181,1334,706,806,759,860,41,161,1430,51,10,77,124,441
 Center Africa	6938
 Center Computer Security Incident Response Team	4653
 Center Deal Doha Dubai	5322
@@ -280,10 +280,13 @@ Computitional Center for IOT Project Expansion	7085
 Congo's National Data Center	2510
 Construction of Reserve National Data Center Project	1795,1413,3881
 Control Center	794
+Convergir Data Centers	11389
 Copper Springs Community Health Center Data	7167
+Cost Ratio Center	11417
 County Emergency Operation Centers	4153
 County Service Centers	10346
 Cultivating the Existing Data Center	1795,1413,3881
+Cybersecurity Center of Excellence	11464
 DATA CENTER	1005
 DATA CENTER BUILD	10861
 DATA CENTER EURASIA	2339
@@ -307,7 +310,8 @@ DISTRIBUTION OF DATA CENTER FACILITIES	10861
 DIVINE BIRTH MIDWIFERY CENTER LIMITED Data	7167
 DORK MEDICAL CENTER ANNEX LIMITED Data	7167
 DUPOINT MEDICAL CENTER LIMITED Data Controller	7167
-Data Center	181,9,2076,4,178,66,301,6,14,52,51,22,165,53,136,20,75,77,196,422,12,77,88,390,108,146,319,501,48,161,20,5,1,7,388,44,336,276,431,1029,379,253,102,573,1135,384
+Data Center	181,9,2076,4,178,66,301,6,14,52,51,22,165,53,136,20,75,77,196,422,12,77,88,390,108,146,319,501,48,161,20,5,1,7,388,44,336,276,431,1029,379,253,102,573,1135,384,72,32,25
+Data Center Backup	11389
 Data Center Cabling Pathways Datacenter	9123
 Data Center Cabling Systems Introduction Structure	9123
 Data Center Certification	1264
@@ -334,7 +338,7 @@ Data Center de Sénégal Numérique	10578,573
 Data Center de Zamengoe	9916
 Data Center du Ministère	6240
 Data Center. Et	2300
-Data Centers	103,1089,1624,1043,391,2169,900,544,85,1389
+Data Centers	103,1089,1624,1043,391,2169,900,544,85,1389,2052
 Data Centers Cloud	10861
 Data Centers Modulares	1192
 Data Centers Over	9629
@@ -343,6 +347,7 @@ Data Centers and AI	6678
 Data CentersTelecom Egypt	2285,9,26,249,245,725,1420,15,4,352,360,114,242,17,15,24,145,11,245,323,24,7
 Data Collection Centers	10812
 Data Service Center	1789,1,1,1
+Datas Centers	11389
 Deliverance Church Nakuru Life Celebration Center	7167
 Develop Leading Sub-Saharan African Data Center	10956
 Development of Operational Centers of Excellence	5677
@@ -378,6 +383,7 @@ Eburru Modern Medical Center Data Processor	7167
 El Nadeem Center	11079
 Eldohub Innovation Center Data Processor INST-123035BFEA4	7167
 Emergency Management and Operations Centers	4301
+Emergency Operation Center PIC Project Implementation	11417
 Emergency Operations Center ENSAN II	10776
 Emirates’ Khazna Data Centers	10861
 Emtel Data Center	3292
@@ -408,6 +414,8 @@ Global Center for AI Governance and CSIS Africa	7588
 Global Data Center Markets	11310
 Global Engagement Center	528
 Global North. The Georgetown Beeck Center	7921
+Government Data Center	11466
+Government Data Center and Cloud	11483
 Government Information and Communication Center	5817
 Government's Data Center and Cloud	5987
 Green Data Center	9123
@@ -522,10 +530,12 @@ National Civil Service Testing Center	9211
 National Cloud Data Center	359
 National Computer Center	2578
 National Computer Emergency Response Center	7538
+National Cybersecurity Operations Center	11464
 National Data Cente	483
-National Data Center	1694,533,573,609,1139,377,319,1392,274,406,3545
+National Data Center	1694,533,573,609,1139,377,319,1392,274,406,3545,605
 National Data Center Construction	2800
 National Data Center OEM Original Equipment	10781
+National Data Center Strengthens Digital Capacity	11466
 National Data Center The National	5244
 National Data Center Within	5407,676
 National Data Center and National Cloud	4755
@@ -550,7 +560,8 @@ Network Startup Resource Center	1036
 North Center	10866
 North West InfraCo and Data Center Feasibility	299
 Nouakchott National Data Center	6910
-O Data Center	5974
+Number of Public Health Emergency Operations Centers	11417
+O Data Center	5974,5415
 OUTLOOK EAST AFRICA DATA CENTER CONSTRUCTION	10861
 Olorropil Child Development Center Data Controller	7167
 One-Month Deadline for Government Data Center Integration	6678
@@ -575,6 +586,7 @@ PROJET DE CONSTRUCTION D'UN DATA CENTER	1005
 Passenger Information Monitoring and Management Center	4275
 PayChangu and Centenary Bank	3035
 Pedagogical Centers	4653
+Percentage of Public Health Emergency Operations Centers	11417
 Performance Center	2348
 Personal Data Protection Center	4982,4847
 Policy Center	3681
@@ -586,6 +598,7 @@ Primary Data Center	10721
 Private Credit Information Centers	9105
 Product Development Center	1363
 Projets PRÉSENTATION DU DATA CENTER NATIONAL	3675
+Public Health Emergency Operations Centers	11417
 Public Health Emergency Operations Centers and Outbreak	4260
 Public Security Integrated Centers	646
 Qhala Digital Economy County Centers of Excellence	6948
@@ -596,9 +609,11 @@ Raya Data Center. Morocco	3859
 Recommended Sprinkler Systems for Data Center Spaces	9123
 Reduit. The Bhumishq Data Center	3292
 Regional Center for Rights and Liberties	11079
-Regional Center for Studies	5615
+Regional Center for Studies	5615,5824
 Regional Center of Excellence	5677
 Regional Data Center Hub	7425
+Regional Specialized Meteorological Center	11420
+Regional Training Center	11420
 Report Centering Migrants’ Perspectives	11006,1
 Research Center	4325
 Research Centers and Think Tanks	1814
@@ -615,12 +630,14 @@ SADC Pooled Procurement Center	4260
 Scale Centers	2420
 SecOps. The Academic Security Operation Center	11077
 Sectoral Center for Vigilance	6657
+Sectoral Cybersecurity Operations Centers	11464
 Secure National Data Center Ahead of Launch	4926
 Security Operation Center	6237
 Security Operations Center	1777,2066,2989,888,3001
 Security Operations Centers	3604,2073,3630,868,546
 Security and Network Operations Center	6539
 Services DTC Digital Transformation Center DTfA	1264
+Social Action Centers	11395
 Somalia’s National Employment Service Center	5172
 Southern Africa Data Center Markets Brief	4428
 Southern African Research and Documentation Center	11302

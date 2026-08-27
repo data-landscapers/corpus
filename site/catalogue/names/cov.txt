@@ -20,7 +20,8 @@ CIAY Accredited Management Centre COVID-19 Yaounde	10980
 CONTENT SECURITY INFORMATION FRAUD NO COVERAGE	11004
 COP Child Online Protection COVID-19 Coronavirus	6946
 COV Négatif	1005
-COVAX	2667
+COVAX	2667,8734
+COVAX Facility	11401
 COVENANT MEDICAL CLINIC LIMITED Data Controller	7167
 COVERAGE PAPSS Network	11002
 COVERAGE SN COUNTRY PAPSS REACHABLE VIA	11002
@@ -30,13 +31,14 @@ COVERED ENTITIES	3861
 COVERED FINANCIAL SERVICE SUPPLIER	1243
 COVERT RISK ASSESSORS LTD Data Processor	7167
 COVI9-19Pesquisa Contem	966
-COVID	550,18,5,13,57,75,178,62,12,3,2,23,40,227,459,224,359,170,489,583,34,466,378,248,1711,2164,298,637,276,654,303,61,5,37,8,12,33,397
+COVID	550,18,5,13,57,75,178,62,12,3,2,23,40,227,459,224,359,170,489,583,34,466,378,248,1711,2164,298,637,276,654,303,61,5,37,8,12,33,397,116,3
 COVID Data Tracker	5700
 COVID Relief	687
 COVID-	10718,245,1
-COVID-19	443,17,5,2,3,30,47,10,3,2,8,3,5,11,42,12,75,29,23,19,58,52,41,29,1,5,2,28,13,16,127,51,7,24,5,16,81,356,3,20,90,14,4,35,87,34,105,3,21,174,51,71,105,17,87,45,11,97,173,635,21,68,377,43,334,1,3,402,188,226,287,167,211,339,136,72,374,114,332,280,35,62,95,1,8,86,41,455,174,59,62,447,21,25,175,140,294,221,10,234,508,1,2,4,8,37,5,9,2,5,35,2,1,1,6,2,10,3,2,6,13,1,9,6,32,6,42,2,1,1,12,3,5,19,131,20,37,3,1,40,12,42,29
+COVID-19	443,17,5,2,3,30,47,10,3,2,8,3,5,11,42,12,75,29,23,19,58,52,41,29,1,5,2,28,13,16,127,51,7,24,5,16,81,356,3,20,90,14,4,35,87,34,105,3,21,174,51,71,105,17,87,45,11,97,173,635,21,68,377,43,334,1,3,402,188,226,287,167,211,339,136,72,374,114,332,280,35,62,95,1,8,86,41,455,174,59,62,447,21,25,175,140,294,221,10,234,508,1,2,4,8,37,5,9,2,5,35,2,1,1,6,2,10,3,2,6,13,1,9,6,32,6,42,2,1,1,12,3,5,19,131,20,37,3,1,40,12,42,29,60,1,7,13,1,16,52
 COVID-19 Africa Watch	560
-COVID-19 Coronavirus Disease	10829,442
+COVID-19 Coronavirus Disease	10829,442,109
+COVID-19 Country Program Response Note	11380
 COVID-19 Country Report	11224
 COVID-19 Crisis Response Approach Paper	10964
 COVID-19 Dampens Kenya’s Economic Outlook	10822
@@ -52,9 +54,11 @@ COVID-19 SRD	4667
 COVID-19 Safety Nets	10964
 COVID-19 Social Relief of Distress	4667,2165
 COVID-19 Strategic Preparedness and Response	10829
+COVID-19 Strategic Preparedness and Response Project	11417
 COVID-19 Survey	10829
 COVID-19 Tracing Database	9969
 COVID-19 Urban Cash Intervention	10763
+COVID-19 Vaccine Delivery Support	11401
 COVID-19 and HIV	9969
 COVID-19 and Ukrainian	10965
 COVID-19-Outbreak Response	10919
@@ -70,10 +74,12 @@ COVID-19. DPF3	10779
 COVID-19. Dans	643
 COVID-19. Des	4325
 COVID-19. Desarrollar	975
+COVID-19. Este	11391
 COVID-19. Five	3549
 COVID-19. Ideally	10919
 COVID-19. In Eswatini	1642
 COVID-19. Performance	1212
+COVID-19. Responding	11380
 COVID-19. State of Digital Transformation	5700
 COVID-19. Table	718,10061
 COVID-19. The Program	10819
@@ -139,7 +145,7 @@ Covid	718,42,278,1269,360,11,1752,2104,1121,255,1710,1199
 Covid SRD	7910
 Covid Social Relief of Distress	2307
 Covid-1	1940
-Covid-19	547,3,18,18,2,130,29,1,12,139,41,25,223,27,33,349,387,323,242,118,36,1506,396,68,683,1121,111,654,413,109,146,26,579,153,819,902,161,96,185,134,15,216
+Covid-19	547,3,18,18,2,130,29,1,12,139,41,25,223,27,33,349,387,323,242,118,36,1506,396,68,683,1121,111,654,413,109,146,26,579,153,819,902,161,96,185,134,15,216,205
 Covid-19 Boosts Online Retail Sales. Retrieved	1243
 Covid-19 Crisis	899
 Covid-19 Crisis. Wanza	899
@@ -196,6 +202,7 @@ G Coverage GSMA	10856
 G Coverage Gap	6051
 G Network Coverage Outlook. Ericsson Mobility	5675
 G Sites and Respective Coverage	6946
+Gavi and COVAX	11401
 Gender Coverage	7662
 Geographic Area and Coverage	11252
 Geographic Coverage of Western Cape Region	8999
@@ -205,12 +212,14 @@ Group Head of Client Coverage	3056
 Guideline Covers Risk	11268
 HR Challenges Since COVID-1	1940
 Head of Client Coverage	4041
+Health Capacity for Universal Health Coverage Project	11417
 Health Coverage UNISA University of South Africa	396
 Health Coverage.’ Dr Banyubala	10523
 Health Districts Covered	10829
 High-Risk Systems Covers	5665
 High-Value Coverage Areas	7368
 Historical Safety Nets Coverage	10964
+Human Resources Capacity for Universal Health Coverage	11417
 I COVER SHEET FOR RESPONSE	236
 ICT. Outcomes Ubiquitous Coverage	958
 ID Coverage	10714
@@ -231,6 +240,7 @@ LEGAL Legal Covenants Page	1867
 LEGAL Legal Covenants Sections and Description I	3562
 LEGAL Legal Covenants Sections and Description KOE	6539
 LEGAL Legal Covenants Sections and Description Schedule	3604,7164
+LEGAL Legal Covenants Sections and Description Section	11417
 Legal Covenants	1228,56
 Legal Covenants No Conditions No Implementation	4653
 Legal Covenants Sections and Description Financing Agreement	10964
@@ -276,6 +286,7 @@ QES QLFS QES Coverage Private	11296
 R350 Covid-19 SRD	7910
 RDF2023. Covers	285
 REDISSE IV and COVID-19	10829
+REDISSE and COVID-19	11417
 RSE COVID	500,187
 RURAL POPULATION COVERAGE	11211,51
 Real Sector Emergency COVID Facility	687
@@ -314,13 +325,15 @@ Uganda. ESTIMATING THE GLOBAL ID COVERAGE	10714
 United Nations International Covenant	3583
 Universal Access Cove Crosswalk	193
 Universal Coverage Scheme	9804
-Universal Health Coverage	396,508,357,2343,561,136,2093,1060,377,386,717,270,651,474,312,135,89,55,50
+Universal Health Coverage	396,508,357,2343,561,136,2093,1060,377,386,717,270,651,474,312,135,89,55,50,498,1
 Universal Health Coverage Day	10776
 Universal Health Coverage Roadmap	9204
 Universal Health Coverage UKB	10776
 Universal Health Coverage WHO World Health	9855
+Universal Health Coverage World Bank Group	11468
 Vodacom Bolster DRC Rural Network Coverage	2278
 WB DDP COVID	463
+WBG COVID-19	11380
 World Bank Digital Development Partnership COVID-19	463
 World Bank’s COVID-19 Crisis Response	10829
 ZRCP Cover	1988

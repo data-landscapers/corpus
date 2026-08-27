@@ -29,6 +29,7 @@ ABBREVIATIONS ADR Adverse Drug Reaction API	9855
 ABBREVIATIONS AGO Automotive Gas Oil AI	718
 ABBREVIATIONS AND ACRONYMS ACVs Contracting and Auditing	10829
 ABBREVIATIONS AND ACRONYMS ADF Automatic Document	34
+ABBREVIATIONS AND ACRONYMS AF Additional Financing	11417
 ABBREVIATIONS AND ACRONYMS ANE CERC CERC	1228
 ABBREVIATIONS AND ACRONYMS Acronym CERC CMC	4653
 ABBREVIATIONS AND ACRONYMS CERC Contingency Emergency	2473
@@ -69,6 +70,8 @@ ABDULLAHI MOHAMED HUSSEIN Data Processor INST-336165743EA	7167
 ABEDINECO MULANDI DEON Data Processor INST-9245353F723	7167
 ABELA	6613
 ABEPOT CREDIT LTD Data Controller INST-285194D9037	7167
+ABERTOS ARTIGO	11461
+ABERTOS Artigo	11461
 ABETTING	11190
 ABIDJAN	1005,3204
 ABIGAEL MBAGAYA	7167
@@ -87,6 +90,9 @@ ABNO SOFTWARES INTERNATIONAL LIMITED Data Controller	7167
 ABNO SOFTWARES INTERNATIONAL LIMITED Data Processor	7167
 ABOGADO DEL ESTADO	4209
 ABONNÉS OPÉRATEURS	998
+ABORDAGEM CENTRADA	11413
+ABORDAGEM PARA AVALIAÇÃO DE RISCOS	11390
+ABORDAGEM SENSÍVEL AO GÉNERO	11413
 ABORNE	11319
 ABOU SEYDOU Vice-président	10821
 ABOUT	985,6,4399,965,827,3974
@@ -110,11 +116,14 @@ ABOVE PARTICULARS MAY RENDER THE BID	11240
 ABOVE. Contents Gazette Page No. No	1009
 ABOVE. NB	11240
 ABP Nicolas BARAJINGWA ABP WEB TV	9810
+ABPE Business	11469
+ABPE Nigeria	11469
 ABPINFOS SUIVEZ	9810
 ABQ Cloud	5249
 ABQA ANNEX MEDICAL CENTRE LTD Data	7167
 ABRAHAM NGATIA Data Processor INST-735559287FE NAIROBI	7167
 ABRAHAM NIRA	7772
+ABRANGÊNCIA E BENEFICIÁRIOS	11390
 ABREMA	5076,1
 ABREVIATURAS E SIGLAS	10766
 ABREVIATURAS E SIGLAS Sinais Convencionais	10766
@@ -152,6 +161,7 @@ ABYSSINIA IRON	7167
 ABYSSINIA IRON AND STEEL	7167
 ACRONYMS AND ABBREVIATIONS APME Small and Medium-sized	10980
 ACRONYMS Abbreviation Full	11261
+ACRÓNIMOS E ABREVIATURAS BAD	11387
 ADDIS ABABA	7538,2103
 ADDIS ABABA TELECOMMUNICATIONS LICENSING DIRECTIVE WHEREAS	762
 ADDIS ABEBA	4209
@@ -190,12 +200,14 @@ Abandoned Funds Submission Form	5687
 Abandoned Projects	6432
 Abandonment	11181
 Abandonner	7715
+Abandono	11430
 Abang Nsomo	4209
 Abaqulusi	2626
 Abarebwa	1214
 Abaricom	5166
 Abasteciendo	4209
 Abastecimento	2437
+Abastecimento de Numerário	11438
 Abastecimiento	1701,2508
 Abate	8022,669,2085
 Abathun	10878
@@ -436,7 +448,10 @@ Abera&author	1219
 Aberdeen	9653
 Abere	6948
 Aberto	6617
-Abertura	2816,1741
+Abertura	2816,1741,6816,6,7
+Abertura de Conta Bancária	11383
+Abertura de Conta de Moeda Electrónica	11404
+Abertura de Contas de Moeda Electrónica	11404
 Abesha R. Psychosocial	1219
 Abesha&volume	1219
 Abesim-	3386
@@ -575,7 +590,9 @@ Abonnés Mobile	419
 Abonnés Tel. Fixe	419
 AbonnésS'abonner	1876
 Abono	4209
+Abono de Família	11467
 Aborbie	4432
+Abordagem	11413
 Abordant	6094,1185,403,587,175,893,230,837,747
 Abordar	10772
 Aborisade	7853
@@ -613,7 +630,7 @@ Aboudou	7113
 Aboudou. Ce	7113
 Aboudou. Cet	7113
 Aboukar Nacanabo	1298
-About	225,193,144,209,18,110,41,290,584,174,348,631,50,550,333,301,39,138,183,393,76,426,17,292,55,150,145,172,241,139,537,28,405,285,152,124,332,74,211,13,63,35,17,27,86,1,10,549,50,6,37,30,33,13,12,127,144,87,105,36,17,138,87,57,123,10,35,5,16,28,17,12,20,17,82,17,13,38,106,1,14,7,14,76,43
+About	225,193,144,209,18,110,41,290,584,174,348,631,50,550,333,301,39,138,183,393,76,426,17,292,55,150,145,172,241,139,537,28,405,285,152,124,332,74,211,13,63,35,17,27,86,1,10,549,50,6,37,30,33,13,12,127,144,87,105,36,17,138,87,57,123,10,35,5,16,28,17,12,20,17,82,17,13,38,106,1,14,7,14,76,43,91,89
 About AFC AFC	5913
 About Afreximbank African Export-Import Bank	8149
 About Africa CDC	4782
@@ -752,6 +769,8 @@ Abraka	8710
 Abramczuk	9237
 Abrange	4754
 Abrangida	10783
+Abrangência	11378,35
+Abrangência Geográfica	11406
 Abrangência da IA Crítica	3519
 Abreu	2315,129,1086,2027,15,247
 Abreu Advogados	2125
@@ -761,10 +780,15 @@ Abridged Audited Financial Statements	1154
 Abridged Circular	4896
 Abridged ICT Sector	958
 Abridged and Main Report the Expert Group	582
-Abril	414,135,203,1613,364,12,125,653,755,895,42,452,58,70,59,104,20,5,1,8,580,230,172,3780,3,4,20,6,534
+Abril	414,135,203,1613,364,12,125,653,755,895,42,452,58,70,59,104,20,5,1,8,580,230,172,3780,3,4,20,6,534,46,5,4,5,1,3,1,1,3,17,1,1,11,5,8,3,3,17,1,2,1,1,1,1,1,1,6,12
+Abril ATRIBUIÇÃO DO NIF	11435
+Abril ATRIBUIÇÃO DO NIF A PESSOAS	11435
+Abril Fluxograma	11435
+Abril Regime	11435
+Abril SOCIEDADES COM MAIS DE UM	11435
 Abril. Artigo	5169,1293
 Abril. Aviso	6462
-Abrir	1701,2508
+Abrir	1701,2508,7195
 Abrogation ABG COMMUNICATIONS Décision	998
 Abrogation AJAP Décision	998
 Abrogation BENAFSOL Décision	998
@@ -815,7 +839,7 @@ Absa-led	1951
 Absar	7106
 Absa’s Managing Director	10051
 Absa’s R31.4	10217
-Absence	737,203,1048,3689,706,94,471,11,492,97,1008,567,169,865,243,311,1,53,10,54,45,1,1,25,64,173
+Absence	737,203,1048,3689,706,94,471,11,492,97,1008,567,169,865,243,311,1,53,10,54,45,1,1,25,64,173,263
 Absence Forces Delay In Kidnapping Trial	7312
 Absence de Attente	10975
 Absence de Fiches	10874
@@ -846,7 +870,7 @@ Absorption	1731,9565
 Absouya	10875
 Abstenciones	6613
 Abstentions	6613
-Abster-se	10755
+Abster-se	10755,675
 Abstract	680,86,5,441,7,29,13,832,30,825,778,56,9,19,335,287,302,247,439,606,519,1035,82,69,79,76,80,109,97,13,671,12,1,122,230,11,132,375,148,994,94,10,38,5,79,28
 Abstract AI	7451
 Abstract Access	8436
@@ -900,7 +924,7 @@ Abubakarr Suleiman Jeng	8611
 Abubaker Lubowa	315
 Abuco	7830
 Abudulsalami	8022
-Abuja	7,991,16,229,562,52,361,100,79,134,5,56,18,159,40,32,189,33,163,157,98,17,12,17,11,15,1,26,123,18,4,137,8,75,157,7,21,79,92,1,26,95,105,73,89,35,46,38,291,44,71,20,3,29,14,40,178,4,15,42,14,49,55,1,37,9,64,85,6,23,88,60,86,76,254,18,3,48,153,60,122,5,151,39,36,39,1,2,29,26,20,16,21,115,34,4,43,61,18,31,89,18,78,46,15,17,26,25,7,1,11,9,19,5,10,12,23,73,50,21,4,73,13,30,4,15,94,67,4,50,25,56,8,26,62,11,3,47,94,15,16,143,3,2,2,2,61,21,48,1,24,13,14,26,12,49,23,80,1,3,1,106,7,39,49,5,4,2,1,60,24,7,20,53,14,1,1,77,14,29,43,11,24,4,2,33,105,59,5,37,1,11,11,40,35,127,3,103,41,2,30,78,8,29,24,66,289,29,3,9,17,149,5,38
+Abuja	7,991,16,229,562,52,361,100,79,134,5,56,18,159,40,32,189,33,163,157,98,17,12,17,11,15,1,26,123,18,4,137,8,75,157,7,21,79,92,1,26,95,105,73,89,35,46,38,291,44,71,20,3,29,14,40,178,4,15,42,14,49,55,1,37,9,64,85,6,23,88,60,86,76,254,18,3,48,153,60,122,5,151,39,36,39,1,2,29,26,20,16,21,115,34,4,43,61,18,31,89,18,78,46,15,17,26,25,7,1,11,9,19,5,10,12,23,73,50,21,4,73,13,30,4,15,94,67,4,50,25,56,8,26,62,11,3,47,94,15,16,143,3,2,2,2,61,21,48,1,24,13,14,26,12,49,23,80,1,3,1,106,7,39,49,5,4,2,1,60,24,7,20,53,14,1,1,77,14,29,43,11,24,4,2,33,105,59,5,37,1,11,11,40,35,127,3,103,41,2,30,78,8,29,24,66,289,29,3,9,17,149,5,38,129
 Abuja Centre for Entrepreneurship	9360
 Abuja Declaration	970,2613,4210,32,58,1,66,96,195,255,307,1156
 Abuja Declaration By Adanna Nnamani	7883
@@ -967,6 +991,8 @@ Abushakra	9129
 Abusing	3383
 Abusive Conditions	10841
 Abuso	10750
+Abuso Sexual	11390,16,7
+Abuso Sexual EAS	11413
 Abwicklung. Das Vorhaben	1530
 Aby Ndour	9890
 Abyei	9772
@@ -981,7 +1007,8 @@ Acknowledgments About the Global Findex Database Executive	10977
 Acronyms and Abbreviations	970,5862,114,4304
 Acronyms and Abbreviations ACP Africa	970
 Across Lagos and Abuja Fresh	4601
-Addis Ababa	26,1,1,83,266,252,104,228,70,132,56,18,6,354,117,100,446,257,359,2,5,23,16,258,36,22,249,108,64,36,93,335,226,227,190,16,5,19,267,1,18,110,100,179,344,48,88,5,894,650,28,152,104,25,1,67,22,165,14,104,135,22,322,248,112,275,1,1,493,30,7,658,87,76,50,177,397,5
+Acto de Abertura de Conta de Moeda Electrónica	11404
+Addis Ababa	26,1,1,83,266,252,104,228,70,132,56,18,6,354,117,100,446,257,359,2,5,23,16,258,36,22,249,108,64,36,93,335,226,227,190,16,5,19,267,1,18,110,100,179,344,48,88,5,894,650,28,152,104,25,1,67,22,165,14,104,135,22,322,248,112,275,1,1,493,30,7,658,87,76,50,177,397,5,129
 Addis Ababa Action Agenda	970,2613,6752,858
 Addis Ababa Agreement	3583
 Addis Ababa City Administration	7463
@@ -1115,6 +1142,8 @@ Business Reporter DHL Express and Absa Group	10151
 Bw. Mohammed Khamis Abdulla	1859,6004
 C09965 Hindou Abderrahmane Jiddou	1183
 C11055 Lativa Sid'Ahmed Abdellahi	1183
+CAPÍTULO III OFERTA DE REDE ABERTA	11430
+CAPÍTULO IV ABONO DE FAMÍLIA	11467
 CBE Abridged Financial Statements	11131,3
 CEO ABUJA	11129
 CEO Abdi Mohamed	8041
@@ -1188,6 +1217,7 @@ Cybercrime and Abuse of Computer Bill	4223
 DA ABREU ADVOGADOS ADVOGADA ESTAGIÁRIA	2125
 DA MP Alexandra Abrahams	3504
 DEEPCFWP1 About the Challenge Fund The DEEP	11142
+DEFINIÇÕES E ABREVIATURAS	11372
 DEPORTEES RAISE QUESTIONS ABOUT LIBERIA MIGRATION	10581
 DES DÉPENSES NON ABOUTIES	3396
 DG Aboubacar Condé	4369
@@ -1199,6 +1229,7 @@ DR. KHALIF ABDIFATAH Data Processor INST-6674745620C	7167
 DRDC ONGOM ON ABRAHAM	7772
 DSS Abducted	7176
 Dados Abertos	2816,6616
+Dados de Governo Aberto	11379
 Dahmani Abderrahmane Kandila	8891
 Damerjog. M. Abdi Hassan Ahmed	3795
 Dan Elhadj Abdou	2778
@@ -1206,6 +1237,7 @@ David Savage Abstract	11310
 Days After Abduction	7176
 Days President Abdelmadjid Tebboune	5407,676
 Decent Housing Absence of Armed Conflict	10838
+Definição de Abono de Família	11467
 Deputy Prime Minister Jibril Abdirashid Haji	9241
 Development Office. About the DEEP Challenge Fund	11133
 Development of Restructured Neighborhoods of Abidjan	10930
@@ -1380,6 +1412,7 @@ H.E. Dr. Abiy Ahmed	5825
 H.E. Dr. Amani Abou-Zeid AU Commissioner	1814
 H.E. Hamza Abdi Barre	4575,763,5138
 H.E. Mr. Hassan Abdalla	4401
+HE. Abdulswamad Shariff Nassir	11504
 HL7v3 Abstract Data Type Specification	1009
 Hajji Abdul Nsubuga	2675
 Hamdi Ould Abdallah	10402
@@ -1649,6 +1682,7 @@ Mohamed Nour Abdeldaim	10008
 Mohamed Ould Abdelkader	10402
 Mohamed Saïd Abdallah Mchangama	2723
 Mohammed Khamis Abdulla	2868
+Momento da Abertura da Conta Legenda	11404
 Monsalve Montiel ABBREVIATIONS AND ACRONYMS ADECOS	10768
 Monsieur Ababacar GUEYE	8269
 Monsieur Abakary TOURE	8237
@@ -1724,9 +1758,11 @@ Njavwa Namposya Chilufya ABBREVIATIONS AND ACRONYMS	1867
 Nkem Abuah	4716
 Nominated Senator Miraj Abdillahi	8214
 Nompumelelo Nzimande-Mbele. Above	11237
+Nota de Boas Práticas Como Abordar	11413
 Nour Abdeldaim	9776
 Nouzha Alaoui Mohamed Abdessadek Essaidi Najat	8891
 ONLY About	418
+Oferta de Rede Aberta	11430
 Officer Magdi M. Abdalla Taha	4898
 Official Use Only ABSTRACT	10985
 Official Use Only AfDB ABBREVIATIONS	3604
@@ -1803,6 +1839,7 @@ Principal Secretary for Investment Promotion Abubakar Hassan	10632
 Priorité Absolue S1	9824
 Privacy Policy Home The NCA About	9109
 Private Sector Mobile Communications Absence of Corruption	10759
+Procedimentos de Abertura de Conta	11386
 Processo de Abertura de Conta Usando Redes Neurais	2816
 Prof. Abdou Karim Diallo	7013
 Prof. Abdulhamid Mani	5765
@@ -1827,8 +1864,10 @@ Pullman Abidjan	7283
 PÚBLICO ABACERIAS	4209
 QUESTIONS AND ANSWERS ABOUT THE EXTRAORDINARY	7198
 Qurashi Abdullah	9587
+R.5.5 Abordar	11376
 RCTs. Abstract Digital	10609
 RECEIVE GHANA ABSA BANK ACCESS ACCESS	11002
+REDE ABERTA	11430
 REDOUBLEMENT ET ABANDON CP1 CP2 CE1	10847
 REFERÊNCIAS Aburub	2816
 REGULATOR GENERAL INFORMATION LIST OF ABBREVIATIONS	11198
@@ -1843,12 +1882,14 @@ Rafael Pardo Ostos ABBREVIATIONS AND ACRONYMS	1264
 Raouf Aboudou	8499
 Rates About US Our Board	9750,247
 Raxio Abidjan	1005
+Recusa de Abertura da Conta de Pagamento	11386
 Red de Abastecimiento de Agua	4209
 References Abdallah	6947
 References Abobeah	7278
 References Abu-Shanab	8021
 References AbuAkel	7759
 Referencing Absa	10051
+Regime de Prescrição de Certos Bens Abandonados	11404
 Regional Integration and Togolese Abroad	7379,73
 Register of Beninese Abroad	3387
 Registration Drive ABUJA	10274
@@ -1867,6 +1908,7 @@ Revenue Mobilisation Absence of Crime	10835,3,130
 Rights Sexual Exploitation and Abuse	4653
 Risk Absorption Note. Unpublished	6947
 Road Safety Commission Abuja Municipal Area	11129
+Roger Coma Cunill ABBREVIATIONS AND ACRONYMS	11380
 Roosevelt Street Addis Ababa	7951
 Rosemary Ajayi Executive Director About DigiAfricaLab	10725
 Rt. Hon. Abuk Payiti Ayik	9585
@@ -1888,7 +1930,9 @@ SANKARA Abdoulaye	737
 SAWS CEO Ishaam Abader	3290
 SE Abdourahamane Tiani	2514
 SH Sexual Exploitation and Abuse	1867,1737,7164
+SH Sexual Exploitation and Abuse and Sexual Harassment	11417
 SICA-UEMOA Absence	10711
+SIGLAS E ABREVIATURAS	11391
 SIGLES ET ABREVIATIONS	737,10138,38
 SIGLES ET ABREVIATIONS ABI	10875
 SIGLES ET ABREVIATIONS AFRISTAT	737
@@ -1896,6 +1940,7 @@ SIGLES ET ABREVIATIONS ANPE Agence Nationale	12
 SIGLES ET ABREVIATIONS APE	10847
 SIGLES ET ABRÉVIATIONS	10712
 SIGLES ET ABRÉVIATIONS AF Administration Fiscale	10712
+SOO UHC WBG ABBREVIATIONS AND ACRONYMS	11468
 SUSTAINABLE WITH ROOM TO ABSORB SHOCKS	7695
 SYSTEM BREACH DESCRIBED ABOVE	2709
 Sa Majesté Emmanuel Mvom Abolo	8737
@@ -1930,8 +1975,9 @@ Serge Abel Ongani	3704
 Serge Abel Ongani. Au	3704
 Serigne Abdou Aziz Mbacké Majalis	8031
 Serigne Abdou Aziz Mbacké Majalis. Selon	8031
-Sexual Exploitation and Abuse	1264,514,89,4036
+Sexual Exploitation and Abuse	1264,514,89,4036,5514
 Sexual Exploitation and Abuse Mitigation Plan	2889
+Sexual Exploitation and Abuse Specialist	11417
 Sexual Exploitation and Abuse The Project	1988
 Sexual Exploitation and Abuse and Sexual Harassment	1988
 Seydou Abdou Amouda	6696
@@ -1981,6 +2027,8 @@ Suhail Abu Shiha	9213
 Suhail Abushiha	9479
 Suleiman Abubakar Sadique	10468
 Summary Description Operation Abstract	4653
+Suzana Abreu	11427
+TABLE OF CONTENTS ABBREVIATIONS AND ACRONYMS	11417
 TABLE OF CONTENTS Acronyms and Abbreviations	11271
 TABLE OF CONTENTS LIST OF ABBREVIATIONS	2776
 TECHNOLOGY CONFERENCE IN ABU DHABI	4827

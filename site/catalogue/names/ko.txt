@@ -11,6 +11,7 @@ Ack Kogari CDC Project Data Controller	7167
 Adamou Koupit	3090
 Adjoumani Kouakou	6591
 Africa AI Council. South Korea	4067
+Africa South Georgia South Korea South	11470
 African and Korean	9905
 Africa’s Business Heroes. Melchior Koba Edité	11348
 Afrique du Nord Safa Korti	5159
@@ -183,7 +184,7 @@ Ex-President Koroma Share Cordial Moment	5390,965,827
 Exact KOICA	907
 Executive Director of Koneta	3776
 Executive Director of SADI. Henri Kouam	9989
-Export-Import Bank of Korea	5893,4012,1260
+Export-Import Bank of Korea	5893,4012,1260,322
 F KOMPIENGA	10847
 F KOMPIENGA Garçons Filles G	10847
 FADA N'GOURMA KOMANDJARI DIAPAGA KOMPIENGA BOBO-DIOULASSO	10847
@@ -229,6 +230,7 @@ Gieth Kon Mathiang	3659
 Gilles Kounou	2312
 Gnagna Koné	8515
 Goule Koudji. Abel Maina	5671
+Government of Korea	11487
 Gustave KONATE	3879
 H.E. Koo Yun-cheol	9905
 HABONOUAN Kouakou Louis	2342
@@ -275,6 +277,7 @@ Institute of Mathematical Sciences GI-KACE Ghana-India Kofi	4126
 Instituto de Kogo	4209
 Integrated Biometrics' MOSIP-compliant Kojak	5306
 Iraq Identification Document Ireland Hong Kong	10714
+Island and McDonald Islands Honduras Hong Kong	11470
 Ivoire Gala Armand KOUAME Conseiller Technique	10708
 J. Konneh	9742
 Jacqueline Konaté	7319
@@ -314,7 +317,7 @@ KOE Loan Agreement and Financing Agreement	6539
 KOFFI Hyacinthe	2342
 KOGO CIUDAD	4209
 KOGO PERIFERIA	4209
-KOICA	86,122,1,77,219,1,191,1,1,71,80,55,1,1,627,687,1,913,1896,529,165,294,639,1463,150,113,39,238,134,1,154,30,380,61,29,279,394,159,187,55,448,337,17
+KOICA	86,122,1,77,219,1,191,1,1,71,80,55,1,1,627,687,1,913,1896,529,165,294,639,1463,150,113,39,238,134,1,154,30,380,61,29,279,394,159,187,55,448,337,17,161
 KOICA Country Director Kim Eunsub	8796
 KOICA Country Director Mr Kim Eunsub	8121
 KOICA Ghana Country Director	10123
@@ -357,7 +360,7 @@ KONE Daouda Soukpafolo	2342
 KONE KPINTIA MELAINE	2342
 KONE Moussa Seydou	2342
 KONE Souleymane	2342
-KONEPS	11354
+KONEPS	11354,133
 KONET Ahmed Mohamed En	2342
 KONNECT	4707,1230
 KONNECT AFRICA CÔTE D'IVOIRE	1648
@@ -606,6 +609,7 @@ Konecta	8144,76,1,1
 Konecta US	8220
 Koneta Hub	2685,2,359,86,176,15,119,65,269,321,447,96,374,93,240,768,696,438,1833
 Koneta Initiative and Paradigm Initiative	4042
+Konexa C&I NBP	11469
 Konfinite	8132
 Konfinite. Lancée	8132
 Kong J	9739
@@ -613,7 +617,7 @@ Konga	399,2135,5045
 Kongamano la Kimataifa	7218
 Kongamano la Kimataifa la Anga	2868
 Kongamano la Nane la Teknolojia	1921
-Kongo	2868,3147,4,1863
+Kongo	2868,3147,4,1863,3547
 Kongo Central	9756
 Kongo.A	7882
 Kongoussi	10875
@@ -698,7 +702,7 @@ Kordahi	4676
 Kordek	11117
 Kordié	6889,3986
 Kore Kore	8681
-Korea	354,435,2346,592,1304,93,601,294,1666,989,276,117,354,798,495,71,187,89,74,19,11,189
+Korea	354,435,2346,592,1304,93,601,294,1666,989,276,117,354,798,495,71,187,89,74,19,11,189,133
 Korea Communications Commission and Mr. Jeong Hyun-cheol	9067
 Korea DPA	9067
 Korea Development Institute	11165
@@ -707,7 +711,7 @@ Korea Exim Bank	8792
 Korea Eximbank	354,1,281,1,1,212,232,9387,696
 Korea Import-Export Bank	10667
 Korea Institute of Public Finance	9421,308
-Korea International Cooperation Agency	208,298,264,136,1315,914,2425,165,932,1464,150,113,39,238,134,155,30,380,61,29,279,394,849,337
+Korea International Cooperation Agency	208,298,264,136,1315,914,2425,165,932,1464,150,113,39,238,134,155,30,380,61,29,279,394,849,337,178
 Korea Internet	9067
 Korea Kusini	2868,579
 Korea Meteorological Administration	11291
@@ -720,6 +724,8 @@ Korea and Africa	11291
 Korea and Africa EUMETSAT’s Council	11291
 Korea and China	11135
 Korea and Nigeria	8121
+Korea's DPI ODA	11487
+Korea's DPI ODA Korea	11487
 Korea's Deputy Prime Minister and Minister of Finance	9905
 Korea's ICT	905
 Korea's KOICA	5725
@@ -728,15 +734,17 @@ Korea's Ministry of Economy and Finance	11061
 Korea's Software Meister High School	770
 Korea-Africa	9905
 Korea-Africa Economic Cooperation	9905
+Korea-friendly	11487
 Korea. Teams	11309
-Korean	770,1133,2660,997,165,2549,110,39,644,61,601,740,488,104,3,20,270
+Korean	770,1133,2660,997,165,2549,110,39,644,61,601,740,488,104,3,20,270,133
 Korean AI	10957,104
 Korean Ambassador	9729
-Korean DPI	11354
+Korean DPI	11354,133
+Korean FDI	11487
 Korean Ministry of Economy and Finance	11064
 Korean Ministry of Food and Drug Safety. Guidelines	3651
 Korean Ministry of Science	11135
-Korean ODA	10469
+Korean ODA	10469,1018
 Korean University Council for Social Service	8384
 Korean War	8950
 Korea’s Knowledge Sharing Programme	11165
@@ -1015,6 +1023,7 @@ No. KoTDA	1638
 Nomination de Monsieur KOFFI Hyacinthe	2342
 North Kordofan	10192,142
 North Korea	6825,646
+North Korea North Macedonia Northern Mariana	11470
 North Korea-linked	4127
 North Korean-backed	4127
 Norway Oman Pakistan Portugal Qatar Korea	10764
@@ -1023,6 +1032,7 @@ Nviayong Kogo	4209
 N’GUESSAN Kouassi	2342
 N’Guessan Koffi	8895
 N’Guessan Koffi. Elle	8895
+ODA Korea	11487
 OJ Koloti Add	6183
 OJ Koloti South Africa	8173
 OUAKA KOUANGO-GRIMARI	10829
@@ -1097,7 +1107,7 @@ Registo da Comarca de Mbanza Kongo	5296
 Renovation of Kondengui	10990
 Rep. Dem. People’s Rep. of Korea Eritrea	10764
 Rep. of Korea Maldives Marshall Islands Micronesia	10764
-Republic of Korea	770,473,978,914,1482,943,1053,236,836,110,326,829,117,354,484,859,82,18,271,19
+Republic of Korea	770,473,978,914,1482,943,1053,236,836,110,326,829,117,354,484,859,82,18,271,19,333
 Republic of Korea English	9067
 Republic of Korea The African Development Bank	9905
 Republic of Korea. ABIDJAN	7795
@@ -1239,6 +1249,7 @@ York and Hong Kong	10799
 Yves Kouamé. Il	10907
 Yénataban Koné	4170
 ZIRO SAPOUY CENTRE-SUD MANGA BAZEGA KOMBISSIRI	10847
+Zaire DR Mbanza Kongo	11485
 Zondoma Koti	10875
 Zoumana Kone	10718
 Zubin Koboi	8101

@@ -32,7 +32,7 @@ CARACTERISTIQUES SOCIO-DEMOGRAPHIQUES DE LA POPULATION ET	737
 CHINÊS A República Popular da China	3519
 Cape Town PoP	3840
 Censo Geral da População	6595
-Censo Populacional	10772
+Censo Populacional	10772,650
 Census and Population Studies	10964
 Census of Population	10826
 Census of Population and Housing	1867
@@ -59,15 +59,19 @@ Daily Average Population of Prisoners	2775
 Data Continuous Population Survey	11341
 Death Registration Platform National Population Commission	7632
 Dec-2024 Population	10870
+Demografia da População de Angola	11390
 Demographic and Population Statistics	11237
 Densidade Populacional	4044
 Department's POPIA	6512
 Description Région Année Valeur Population Gbôklé	747
+Desenvolvimento POP Procedimentos Operacionais Padrão	11376
 Development Programme United Nations Population Fund	10763
 Digital Identity SHARE OF POPULATION	10819
 Digital Terrestrial Television Population Coverage	6946
+Dinâmica Populacional	11406
 Distribution of Mean Temperature Population	1828
 Does POPIA Apply	2724
+E POPULAR	11472
 Elderly Population	9485
 Electronic National Population Registration System	10714
 Endangered Wildlife Population Estimates	2775
@@ -78,10 +82,13 @@ Ensino Secundário Província População	10766
 Ensino Secundário Técnico- Profissional Província População	10766
 Ensino Técnico-Profissional Recenseamento Geral da População	10766
 Equitable Access for Displaced Populations	10776
+Estatísticas Mensais da População Refugiada	11460
 Etudes de Population	4325
+Evolução Anual da População	11460
 Exército Popular da China	3692
 F25 Central Population Management System	10714
 F25 Thailand Population Identification Number	10714
+FIR Censo Populacional	11422
 Facts Population	10908
 Female Population	9485
 Fifth General Population and Housing Census	10870
@@ -100,6 +107,8 @@ Groupe Banque Centrale Populaire	8891
 H.E. William Popp	6199
 HIV Human Immunodeficiency Virus POPI Protection	396
 Health and Population	9414
+Healthier Population	11469
+II. População	11416
 INSERT COUNTRY POPULATION	5352
 IV Recenseamento Geral da População	7792,1531
 IVº Recenseamento Geral da População	7666
@@ -121,13 +130,14 @@ La Population	10847
 Leisure Viewpoint Vox Pop Women	9878
 London Pop-Up Registration	7099
 Ltd POPIA Five Years Later	7055
+M P510848 Population	11469
 MGC Office Park Corner Pope John	10060
 MISTT Internet Fundamentals and Popular Apps	11017
 MW CAPACITY PER MILLION POPULATION	10861
 Male Population	9485
 Manage the Health of Populations	5700
 Management Office POPIA Protection of Personal Information	5533
-Management of Population and Housing Censuses	4040,4
+Management of Population and Housing Censuses	4040,4,7377,25
 Manufacturer POP Point of Presence PUE Power	10781
 Manufacturer PoP Point of Presence PUE Power	10861
 Marshall Islands Population Registry	10714
@@ -161,6 +171,7 @@ National Population Secretariat	9312
 National Population and Housing Census	8795
 Nigerian Population Commission	3862
 Norway National Population Register	10714
+Nutrition and Population Practice Area Eastern and Southern	11417
 Nutrition and Population Strategy	3604
 O Censo Geral da População	5427
 O IV Recenseamento Geral da População	7666
@@ -171,7 +182,7 @@ POP. FiberOne	6749
 POP. Starlink	6749
 POP3S	10764
 POPI Act	2117,5905,1106,2124
-POPIA	1243,362,334,785,94,573,260,792,1090,191,82,383,198,125,120,95,65,40,54,169,82,129,12,227,251,266,108,787,211,106,262,847,455,398,13,7,15,34
+POPIA	1243,362,334,785,94,573,260,792,1090,191,82,383,198,125,120,95,65,40,54,169,82,129,12,227,251,266,108,787,211,106,262,847,455,398,13,7,15,34,196
 POPIA Compliance Framework	6632,95
 POPIA Five Years Later	7055
 POPIA Manual	11251
@@ -187,6 +198,7 @@ POPULATION DISTRIBUTION Data	10763
 POPULATION ESTIMEE	998
 POPULATION Total Population	6671
 POPULATIONS Conformément	2342
+POPULAÇÃO	11421
 POPULAÇÃO E COMPOSIÇÃO DOS AGREGADOS FAMILIARES	10777
 POPULAÇÃO ESCOLAR	10766
 POPULAÇÃO POR PROVÍNCIA E MUNICÍPIO	4044
@@ -195,6 +207,7 @@ POPVOX-DPP Foundation	9191
 Palestinian Population Registry	10714
 Passport Belgium Population Registry	10714
 Percentage of Population	10765,10
+Percentagem da População Coberta	11418
 PoPoCedi	8732
 Pop Mgmt	6429
 Pop2Pop	3075
@@ -210,7 +223,7 @@ Popova	5349,5636
 Poppy Day Next Article Treasury	3933
 Popul Music	9739
 Populacao	1144
-Popular	4964,1250,1227,132,60,2013
+Popular	4964,1250,1227,132,60,2013,1826
 Popular Articles CIPESA Urges Kenya	9937
 Popular Categories	7178
 Popular Content	6632,366
@@ -219,10 +232,11 @@ Popular Movie Gender Breakdown Michael	9781
 Popular Posts	9253
 Popular de Liberta	9399
 Populating Shared Value Sets	1009
-Population	21,716,10,223,28,15,350,191,68,1,1,1,1,1,1,54,63,2,41,156,29,82,422,4,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,2,118,1,150,1,252,177,138,261,304,1,1,1,1,5,1,60,66,83,198,107,671,142,457,328,313,277,62,146,100,31,127,192,377,58,1,279,308,87,503,386,35,173,68,115,486,131,262,165,2,49,2,3,7,5,32,9,1,4,3,6,3,3,3,3,9,2,16,7,31,8,44,4,1,16,153,48,1,5,2,68,34
+Population	21,716,10,223,28,15,350,191,68,1,1,1,1,1,1,54,63,2,41,156,29,82,422,4,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,2,118,1,150,1,252,177,138,261,304,1,1,1,1,5,1,60,66,83,198,107,671,142,457,328,313,277,62,146,100,31,127,192,377,58,1,279,308,87,503,386,35,173,68,115,486,131,262,165,2,49,2,3,7,5,32,9,1,4,3,6,3,3,3,3,9,2,16,7,31,8,44,4,1,16,153,48,1,5,2,68,34,105,16
 Population Administration Information System	10714
 Population Affected	1828
 Population Bas-Sassandra	747
+Population CLIMATE Climate Change and Disaster Screening	11417
 Population Census	10748,122
 Population Council	899
 Population Coverage	2868
@@ -230,7 +244,7 @@ Population Coverage Digital Terrestrial Television	6946
 Population Coverage Rural Urban	6000
 Population Database	10714
 Population Density	9485
-Population Division	3583,7131,290
+Population Division	3583,7131,290,465
 Population Estimates	10714
 Population Estimation Survey for Somalia	32
 Population Flood Impact	1828
@@ -242,6 +256,7 @@ Population Institute	7886
 Population Management Services	1731,1233,3465
 Population Mise	9668
 Population Nawa	747
+Population Nigeria	11469
 Population ODA	10759
 Population Over Age	10765,10
 Population Penetration Rate	2776
@@ -277,23 +292,34 @@ Population1	1594
 PopulationDataPageM	2624
 PopulationGroup Describe	11180
 Populations	7337
-População	4044,3622,3111
+População	4044,3622,3111,613,26,2,3,25,14
+População Censo População IC Incluído Omitido	11421
+População GEPE	11387
+População Rural	11426
 População da Guiné-Bissau	7666
 População de Moçambique	2138
 Populações	10777
 Prefecture Health Districts Population	10829
+Productive and Healthier Population	11469
+Productive and Healthier Population Rationale	11469
+Program Population Digital Development HOPE for Quality	11469
+Project Population IPF Digital Development	11469
 Q2 POS Population Mobile Money Merchants	6978
 Q4 POS Population Mobile Money Merchants	4517
 R. Pope	5700
 RECENSEAMENTO GERAL DA POPULAÇÃO E HABITAÇÃO	4044
 RECENSEMENT GENERAL DE LA POPULATION	2625
+RESULTADOS DEFINITIVOS RECENSEAMENTO GERAL DA POPULAÇÃO	11421
 RURAL POPULATION COVERAGE	11211,51
 Racheal Popoola	6936
-Recenseamento Geral da População	4040,4,42,1064,329,1512,3769,17
-Recenseamento da População	4040,4
+Recenseamento Geral da População	4040,4,42,1064,329,1512,3769,17,644,1,24
+Recenseamento da População	4040,4,7377,25
+RecenseamentoGeral da População	11421
 Recently Pope Leo XIII	6231
+Region Africa Sub-region Middle Africa Population	11470
 Region Prefecture Health Districts Population	10829
 Regional Institute for Population Studies	9312
+Relatório Censo Populacional	11422
 Relevance Popularity Year	9441
 República Democrática Popular Lao	6613
 República Popular da China	3519,1235,3884,1356
@@ -324,6 +350,7 @@ South Africa’s POPIA and Kenya’s Data Protection	10798
 Specific Problems of Refugee Populations	1867
 Starlink's Popularity	3625
 Study Population and Sample Size	10919
+Tecnologias Percentagem da População Coberta	11418
 Territorial Planning and Population	3713
 Tribunal Supremo da República Popular da China	10752
 TuID West Bank and Gaza Unified Population	10714
@@ -348,7 +375,7 @@ William W. Popp U.S. Ambassador	4217
 World Pop	10964
 World Population Day	7749
 World Population Day High-Level Dialogue	7749
-World Population Prospects	10714,255,35
+World Population Prospects	10714,255,35,465
 WorldPop Population	10763
 Year Population No	4217
 Year Value Indicator Name Population	6928
@@ -356,3 +383,4 @@ YouTube Popular Categories Android	9993
 Zimbabwe Population Registration System	10714
 Zimbabwe Population Registry System	6179
 Zondi. Under POPIA	5806
+da População Refugiada de Kasai	11460

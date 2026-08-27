@@ -20,7 +20,10 @@ Band VHF Alarm	6946
 Band of Operation	736
 Banda	3791,418,731,2493,453,3226
 Banda Ancha	9543
+Banda Larga	11396,1
 Banda Larga Nacional	5272,5800
+Banda Larga Taxa de Penetração	11418
+Banda Larga. Assim	11397
 Banda-C	1215
 Banda-Ka	1215
 Banda-Ku. Já	1215
@@ -69,6 +72,7 @@ Content Providers Use the Most International Bandwidth	1766
 Coverage Area Proposed Frequency Band Proposed	736
 DATE DE BANDE DE IRC	998
 DATE DE BANDE DE SIGNATURE FREQUENCE	998
+Da Estratégia Nacional de Banda Larga	11396,1
 Dante Bandiangou	10533
 Digital Analogue Proposed Frequency Band Proposed	736
 E-Health Application Bandwidth	21
@@ -87,12 +91,14 @@ GHz Bands	736
 GPP Band	7368
 Gbps Undersea Bandwidth	6946
 Guinéenne de Large Bande	3252,2828
+Hab. Das Subs. De Banda Larga	11418
 Hamidou Bandé	7354
 Hardware Mr Chiza Banda	34
 Higher Frequency Bands	6891
 Hopper and Band2007	8436
 Hyde and Prodelin Idirect X7 Bande C	998
 IMT2600 and IMT3500 Bands	5872
+INFRAESTRUTURAS DE BANDA LARGA	11397
 INTERNATIONAL INTERNET BANDWIDTH CAPACITY IN MEGABITS	11211,51
 ISM Bands	762
 Identité du Marque Model Type Bande de CIU	998
@@ -111,11 +117,13 @@ Largura de Banda	2816
 Lit and Utilized International Internet Bandwidth	6946
 Low Bandwidth English	9429
 MAVHUTO BANDA	5098,2133
+MELHORAR A INFRAESTRUTURA BÁSICA DE BANDA	11397
 MHz Band	6946
 Mapa Nacional de Banda Larga Movel	1526
 Market Share of Equipped International Internet Bandwidth	6000
 Maurice Bandaman	2387
 Mavhuto BandaJohannesburg	6592
+Mercado da Banda Larga	11396
 Modème VSAT Bande C	998
 Moses Banda	10330
 N Band	5245
@@ -132,12 +140,14 @@ Others Bandwidth Growth	2830
 Pbps. Global Content Provider Bandwidth	1766
 Potraz Starlink Internet Bandwidth Never Ncube	6245
 President Joyce Banda	9959
+Programa de Conectividade de Banda Larga	11441
 Projecto Nacional de Banda Larga	1215
 Proposed Frequency Band Number of Base Stations	736
 R C- Modem Bande C IRC-CHA-NOR-ARCEP-	998
 Radio Frequency Bandwidth RFBW	736
-Rede Nacional de Banda Larga	1088,61
+Rede Nacional de Banda Larga	1088,61,10247,1
 Rede Nacional de Banda Larga. São	2365
+Redes de Banda Larga	11397
 Richard Banda	4940
 Salary Band	11218
 Salary Band for Personnel Below Senior Management	11218
@@ -151,6 +161,7 @@ Size of Price Per Number Band Spectrum	736
 TRAIT CÔTIER DE LA BANDE LITTORALE	8891
 Tafadzwa Bandama	9252
 Teachers' College Band Part	1154
+Telefonia Móvel Banda Larga Subscrições da Rede	11418
 USED INTERNATIONAL INTERNET BANDWIDTH CAPACITY	6000
 Undersea Bandwidth Capacity	6671,275
 Undersea Bandwidth SEACOM	6671

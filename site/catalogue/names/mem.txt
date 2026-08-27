@@ -126,7 +126,7 @@ Consultants Pays Membres	5370
 Cooperative Member Identification Number	9876
 Core Members	4528
 Council. Member	11155
-Country Economic Memorandum	2508,8333
+Country Economic Memorandum	2508,8333,628
 County Executive Committee Member	2709
 County Executive Committee Member CECs County	2775
 County Executive Committee Member Mathew Babwoya	7990
@@ -170,6 +170,8 @@ Encourage Member States	1814
 Ensure AU Member States	1814
 Entrée Memling	10400
 Environnemental Membres Secrétaire Général Younès Benakki	8891
+Estado Membro da União Africana	11374
+Estado Não Membro da União Africana	11374
 Estados Membros	2816,6507
 Estados Membros da ONU	2816
 Estados Membros da UE	2816
@@ -181,6 +183,7 @@ Every Registered Member	8866
 Executive Board Member and Head of Financial Services	9796
 Executive Members. The Chief Operating Officer	11131
 Explanatory Memorandum	4732,1744,1369,2468,972
+FORMALMENTE APRESENTADA COMO MEMBRO DA REDE	11411
 FORMATION DES ADMINISTRATEURS ET MEMBRES DES	2342
 FORTUNE MUKANDOLI Member Ms. Fortune MUKANDOLI	718
 Facilitate SADC Member States	962
@@ -279,6 +282,7 @@ MOI Memorandum of Incorporation MTDP Medium Term	11250
 MOZAMBIQUE Preamble This Memorandum of Understanding	4260
 MPCC Member Dr. Phil Mnisi	11131
 Markets Authority CMC Cabin-Crew Member Certificate	2775
+MdE Memorandum de Entendimento MINSA Ministério da Saúde	11376
 Media and Information Literacy Policies of AU Member	1814
 Meeting MP Member of Parliament MPSS Minimum	11218
 Member	27,291,267,133,243,282,21,366,487,551,570,265,80,1857,240,791,141,334,253,13,778,532,107,237,262,377,112,118,578,102,219,60,68,186,181,26,27,68,16
@@ -308,7 +312,7 @@ Member State	7,20,943,273,564,1776,2094,800,11,964,341,91,66,242,154,1415,198,21
 Member State of SADC	958
 Member State. AVERAGE Organize	5677
 Member State. Section	28
-Member States	7,20,1,290,326,145,152,20,1,8,273,14,7,333,210,7,303,841,204,110,311,254,150,136,659,45,536,216,96,1,1,3,1,144,597,46,3,6,11,124,321,87,54,38,87,253,96,4,126,46,69,62,28,1,66,13,9,269,105,183,218,415,20,25,48,37,106,71,1,139,152,71,127,210,41,25,86,99,56,33,63,29,119,44,12,43,21,16,53,141,104,39,33,57,8,65
+Member States	7,20,1,290,326,145,152,20,1,8,273,14,7,333,210,7,303,841,204,110,311,254,150,136,659,45,536,216,96,1,1,3,1,144,597,46,3,6,11,124,321,87,54,38,87,253,96,4,126,46,69,62,28,1,66,13,9,269,105,183,218,415,20,25,48,37,106,71,1,139,152,71,127,210,41,25,86,99,56,33,63,29,119,44,12,43,21,16,53,141,104,39,33,57,8,65,64,4
 Member States Agriculture	6422
 Member States Approved	10819
 Member States Questionnaire	10840
@@ -395,17 +399,21 @@ Membres du Conseil de Régulation	10897
 Membres du Conseil des Ministres	3191,135,2741
 Membres du Gouvernement	10895,1,1,1,5,1,1
 Membro	2816,1331
-Membros	752,43,3352,5967
+Membros	752,43,3352,5967,1269,7
 Membros da CPLP	2816
+Membros da Família	11364,1
 Memon	8603
 Memoranda	7548,3022
 Memoranda of Incorporation	3714
-Memoranda of Understanding	3476,265,233,75,479,824,324,574,284,981,33,1016,28,1290,894
+Memoranda of Understanding	3476,265,233,75,479,824,324,574,284,981,33,1016,28,1290,894,641
 Memorando	10751
-Memorando de Entendimento	1192
+Memorando Justificativo Até	11456
+Memorando Justificativo Versão	11456
+Memorando de Entendimento	1192,10180,17
 Memorando de Entendimento de Cooperação. Para	6568
 Memorando de Políticas Económicas	4209
-Memorandum	2530,1071,113,919,3612,50,479,1994
+Memorandos de Entendimento	11449
+Memorandum	2530,1071,113,919,3612,50,479,1994,633
 Memorandum Memorandum	7548
 Memorandum and Articles	3714,549
 Memorandum and Articles of Association	972,2742,1182
@@ -420,7 +428,7 @@ Memorandum of Incorporation	3714,7536
 Memorandum of Incorporation the Registrar	3714
 Memorandum of Objects	6231
 Memorandum of Objects and Reasons	410
-Memorandum of Understanding	793,176,13,149,23,110,3,287,82,3,166,105,78,223,149,2,88,86,144,75,268,31,9,76,49,65,25,21,64,95,142,1,12,14,68,13,4,31,7,95,105,22,74,3,3,41,18,91,15,30,102,52,127,8,47,9,82,72,104,83,4,24,87,18,26,49,94,12,39,1,15,34,16,104,62,140,116,28,34,44,20,56,5,5,203,28,1,1,1,27,36,125,19,102,32,16,39,5,17,6,210,69,25,107,4,6,28,73,57,36,46,41,39,63,5,254,8,52,38,66,24,131,87,7,25,119,12,39,119,3,40,74,29,66,33,159,7,82,228,19,14,3,31,38,15,11,90,12,56,79,43,43,160,32,22,46,3,24,21,34,109,6,52,147,29,9,97,34,169,38,68,24,63,211,125,8,11,3,49,2,25,75,4,1,1
+Memorandum of Understanding	793,176,13,149,23,110,3,287,82,3,166,105,78,223,149,2,88,86,144,75,268,31,9,76,49,65,25,21,64,95,142,1,12,14,68,13,4,31,7,95,105,22,74,3,3,41,18,91,15,30,102,52,127,8,47,9,82,72,104,83,4,24,87,18,26,49,94,12,39,1,15,34,16,104,62,140,116,28,34,44,20,56,5,5,203,28,1,1,1,27,36,125,19,102,32,16,39,5,17,6,210,69,25,107,4,6,28,73,57,36,46,41,39,63,5,254,8,52,38,66,24,131,87,7,25,119,12,39,119,3,40,74,29,66,33,159,7,82,228,19,14,3,31,38,15,11,90,12,56,79,43,43,160,32,22,46,3,24,21,34,109,6,52,147,29,9,97,34,169,38,68,24,63,211,125,8,11,3,49,2,25,75,4,1,1,205
 Memorandum of Understanding Artefact	2450
 Memorandum of Understanding MPOX	10776
 Memorandum of Understanding and Commercial Terms Agreement	6664
@@ -437,6 +445,7 @@ Memory and Communication	2093,5929
 Memos	11231
 Memoscar Lasuba	3733,921
 Memve’ele	10975
+Memória	11373
 Methodology Experience of Member States	5678
 Michael Masiapato. Members	9076,159
 Minutes of Annual General Members	585
@@ -462,6 +471,7 @@ Namibia Memorandum of Understanding	1554
 National Assembly Member for Foni Kansala	8611
 National Assembly Member for Serrekunda West	7650
 National Assembly. Members	11272
+National Institute of Quality Infrastructure Membership	11493
 National Social Security Fund Annual Membership	2775
 Netflix Membership Information Request Response	8436
 Ngala Memorial Girls Secondary School	10313
@@ -478,6 +488,7 @@ O Memorando de Segurança Nacional	2816
 OFFICE MEMBERSHIP POWERS OF MEMBERS TERMINATION	585
 Open Membership	3503
 Opportunities for ICPC Members	3513
+PDC Participation Observing Member Sitemap	11493
 POWERS OF MEMBERS	585,8281
 PPE. Members	560
 PROCEEDINGS AT ANNUAL GENERAL MEMBERS' MEETINGS	8866
@@ -590,6 +601,7 @@ TATS MEMBRES DE L’UEMOA Solution Objectifs	10711
 TATS MEMBRES DE L’UEMOA TYPE	10711
 TATS MEMBRES DE L’UEMOA Tableau	10711
 TATS MEMBRES DE L’UEMOA Trésor Public	10711
+TC Participation Observing Member	11493
 TERMINATION OF MEMBERSHIP	585,8281
 Taskforce Members	1243
 Team Members Information	775
@@ -617,4 +629,5 @@ Vusi E. Dlamini Ex-Officio Member	11131
 WATRA Executive Secretariat and Member States	5677
 WATRA Member States	5675,1,4
 WTO Members	1243,9911
+World Bank Country Economic Memorandum for Angola	11417
 Zimbabwe Independent Members	3987

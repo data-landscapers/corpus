@@ -57,7 +57,7 @@ Cairo and Nairobi	4563
 Cairo-based	4324,3720,1549
 Cairo-based Centre of Excellence	8221
 Cairo. Held	6653
-Caisse	3241,403,16,502,237,295,409,2438,114,15,113,8,22,639,439,110,834,876,164
+Caisse	3241,403,16,502,237,295,409,2438,114,15,113,8,22,639,439,110,834,876,164,624
 Caisse Autonome	10964
 Caisse Centrale de Garantie	1232
 Caisse Générale	4669
@@ -70,10 +70,13 @@ Caisse de Stabilisation des Prix des Hydrocarbures	10087
 Caisse des Dépôts	7649,1351,1,1941
 Caisse. Cette	9835
 Caisses de Retraite	10711
+Caixa Automática	11438
+Caixa Automático	11403,35
 Caixa Geral de Depósitos	9832
-Caixa Postal	539,1599,1906,6713
+Caixa Postal	539,1599,1906,6713,608,56
 Caixa de Ferramentas de Suporte	2816
 Caixas	6462
+Caixas Automáticos	11465
 Caixin Global	10242
 Changing Global Financial Architecture. Cairo	10718
 Développement CAI	10975
@@ -119,4 +122,5 @@ South Africa. CAIR	11336
 Swarm Intelligence and Speech Technologies. CAIR	11336
 Terminais de Caixa Automático	8493
 Tharien Potgieter CAIR	11336
+Turkmenistan Turks and Caicos Islands Tuvalu Uganda	11470
 University of Johannesburg. CAIR	11336

@@ -12,7 +12,7 @@ Agoe-Nyive	4035,232,12
 Agogbua	7066
 Agokoli IV	8718
 Agondjihossou	2312
-Agora	4753,401,5460,163
+Agora	4753,401,5460,163,645
 Agora Discourse	4753
 Agorabach	10574
 Agosta Liko	7798
@@ -26,8 +26,10 @@ Agostinho Neto University UHC	10776
 Agostinho Neto de Pointe-Noire	3326
 Agostinho Tavares da Silva Neto	5319
 Agostinho Van-Dúnem. Os	2581
-Agosto	220,356,219,2021,703,70,620,1512,741,109,2059,28,17,26,126,23,4,26,279,100,1,241,42,256,110,205,26,26,105,54,115,2,307,7,1,15,5,6,248,14,27,257
+Agosto	220,356,219,2021,703,70,620,1512,741,109,2059,28,17,26,126,23,4,26,279,100,1,241,42,256,110,205,26,26,105,54,115,2,307,7,1,15,5,6,248,14,27,257,41,13,2,2,1,2,6,7,1,1,14,6,1,7,19,1,8,4,2,18
+Agosto ASSUNTO	11403
 Agosto O SGLA	10276
+Agosto-Dezembro	11423
 Agosto. Reglamento	9543
 Agosto. Segundo	8731
 Agosto.A	8211
@@ -37,11 +39,13 @@ Agoè Nyivé	3437
 António Agostinho Neto	10772
 Attorney General AGOA African Growth and Opportunity	2775
 CEO Johnson Agogbua	4910
+CONFERÊNCIA EM DAKAR A Universidade Agostinho	11411
 Carlos Agostinho	576,219
 Christian Ago Kodia	6989
 Christian Kodia Ago	6558
 Day Ago	11040,56
 Dr. António Agostinho Neto International Airport	4275
+Endereço Avenida Dr. António Agostinho Neto	11415,13
 FICHA TÉCNICA Directora Irene Cristina Agostinho	10766
 Finanças. Para Agosto	8000
 GEPE Irene Cristina Agostinho Neto Cardoso	10766
@@ -50,6 +54,7 @@ Geoffrey Agoi	5343
 Gildas Agonkan	7392,1,1650
 HELDER AGOSTINHO PASCOAL	10751
 Johnson Agogbua	6376,690
+José Paulo Agostinho	11392
 Load-bearing for AGO FY2026	5102
 Luanda AGOSTINHO VIEIRA DO NASCIMENTO	10751
 Luanda MANUEL RODRIGUES AGOSTINHO	10751
@@ -64,4 +69,6 @@ PMS and AGO	718
 Peter Agoro and Antony Manyara	9645
 Pour Christian Kodia Ago	6558
 Quicunzo. Agostinho Afonso	6741
-Universidade Agostinho Neto	6585,533
+Reitor da Universidade Agostinho Neto	11411
+UNIVERSIDADE AGOSTINHO NETO	11411
+Universidade Agostinho Neto	6585,533,4293

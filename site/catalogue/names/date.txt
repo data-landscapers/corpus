@@ -6,6 +6,7 @@ AOIO. Dates	1993
 Abidjan. Date	2342
 Abéché Date	2448
 Accountants Transaction Date	4896
+Acquisition Date	11405
 Activity Date	5853
 Actual Date	11131
 Adoni Conrad Quenum Date	4181,2712,1203
@@ -115,6 +116,7 @@ Date Deposited	10878
 Date Due Funding Target Responsible Supporting	1988
 Date End Date	2477
 Date Evénements	10975
+Date Expiry Date Project Name Business	11469
 Date MHz Mobile Station MHz	736
 Date Mar	6579
 Date Numéro	1984
@@ -124,6 +126,7 @@ Date Posted Zambia	5501
 Date Prepared	980,16,708,587,1165,7507
 Date Price ZWG USD Equivalent Premium	4896
 Date Signature of Offender TO BE FILLED	7845
+Date Social Risk Rating	11417
 Date Stamp	7845
 Date Subject	5679
 Date That Changes Behaviour	10424
@@ -142,7 +145,7 @@ Date of Last Update	775
 Date of Publication	6868
 Date-window	6292
 Date. Il	747
-Dated	329,113,304,288,160,13,25,9,102,70,157,146,158,1,236,225,194,31,135,6,79,224,302,91,200,102,202,211,108,181,438,7,30,136,315,249,53,62,462,246,299,49,144,29,24,7,1,2382,146,568,924
+Dated	329,113,304,288,160,13,25,9,102,70,157,146,158,1,236,225,194,31,135,6,79,224,302,91,200,102,202,211,108,181,438,7,30,136,315,249,53,62,462,246,299,49,144,29,24,7,1,2382,146,568,924,427
 Dated Brent	3583
 Dateline	2228,924,6616,948
 Dateline DODOMA	2924
@@ -172,7 +175,7 @@ EVENTS AFTER REPORTING DATE	4896
 EXPANSION OF HEALTH FACILITIES Date	1988
 EXPECTED RELEASE DATE	11296
 Econet InfraCo. Record Date for Econet Shareholders	4896
-Effective Date	762,502,20,583,1695,42,1292,1643,4229,61,135
+Effective Date	762,502,20,583,1695,42,1292,1643,4229,61,135,453
 Effective Date This Procl	7538
 Effective Date of Change	11129
 Effective Date of Change Implementation	11129
@@ -188,9 +191,9 @@ Estimated Approval Date Estimated Environmental	6539
 Estimated Board Date	996
 Ethiopia. Date	9031
 Expected Approval Date	3562,7270
-Expected Approval Date Expected Closing Date	1867,1737,7164,61,135
+Expected Approval Date Expected Closing Date	1867,1737,7164,61,135,453
 Expected Closing Date	10832
-Expected Program Closing Date	3604
+Expected Program Closing Date	3604,7813
 FINAL VISIT DAY MONTH DATE	582
 FORM CONTACT INFORMATION Date	34
 Feb-2027 Projected Date for Full Disbursement	2473
@@ -200,6 +203,7 @@ First Release Date of Release	7869
 Foundations for Collaborative Regulation Date	5241
 GSS Data Processing Division Joyce Date	236
 Geneva Date	7059
+Global Lending Inst. Bank Closing Date	11469
 Générale Date de Publication	4420
 HAS A DATED FIGURE FOR FY2024	1251
 HEALTH DATE	1009
@@ -229,10 +233,10 @@ Jun-2023 Closing Date	10779
 KEY DATES Jun	6579
 KEY DATES Key Events Jun	6928
 KEY DATES Key Events Planned Actual	2712,1976,6182
-KEY DATES The World Bank Implementation	7877
+KEY DATES The World Bank Implementation	7877,3518
 KNPHI LIMS Tender Closing Date	7988
 Kenneth Sackey. Dateline	5932
-Key Dates	2712,1976,1891,254,95,949,2993
+Key Dates	2712,1976,1891,254,95,949,2993,525
 Kigali Original Site Publication Date	9892,1
 LA DATE	3396
 LEB Date	2342
@@ -318,6 +322,7 @@ Result Date Actual	4653
 Result Date Result Date Result Month	4653
 Review Date	9855
 Revision Date Subject	5678
+SAVE THE DATE	11424
 SCI. Dates	1993
 SEGUELA. Date	2342
 SFQC. Dates	1993
@@ -367,7 +372,7 @@ Wisdom Donkor Date	9858
 Working Group Dates and Time Deadline for Input	10235
 X DATE	3972
 Year Result Date Result Date Result	4653
-Year Value Date Value Date	2712,5165,2993
+Year Value Date Value Date	2712,5165,2993,525
 Year Value Date Value Month	4688
 ZRCP Date	1988
 Zimbabwe Closing Date	4896

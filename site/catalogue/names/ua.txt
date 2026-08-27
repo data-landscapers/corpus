@@ -16,6 +16,7 @@ BoN Governor Ebson Uanguta	8005,243
 CONFY AUCTIONEERS Data Processor INST-2789838B750 UASIN	7167
 Chrome UA	5991
 Comunicação UA	2816
+Comunicação da UAN	11411
 Controller INST-1679689B80F UASIN Kenya	7167
 Controller INST-1939528C0EF UASIN Kenya	7167
 Controller INST-207393AF791 UASIN Kenya	7167
@@ -78,6 +79,7 @@ Processor INST-6882307DDE2 UASIN Kenya	7167
 Processor INST-785093AFA9E UASIN Kenya	7167
 Processor INST-9615790881B UASIN Kenya	7167
 RURA and UAF	718
+Rwanda. The UAE	11496
 STATS SA Statistics South Africa UAT	11192
 STUDIES LIMITED Data Controller INST-245210F2E08 UASIN	7167
 STUDIES LIMITED Data Processor INST-245210F2E08 UASIN	7167
@@ -100,6 +102,7 @@ UAB Meeple S.r.l. Delirio AI Meta	8530
 UAC Innovation Lab	951
 UAC Startup Valley	10887
 UAC-owned Kingsway Rendezvous	4725
+UAE Capital Market Authority	11496
 UAE Central Bank	9709
 UAE Embassy	4952
 UAE ID Card	10714
@@ -125,7 +128,7 @@ UAE-G42	2804
 UAE-India	6411
 UAE-Kenya	6717
 UAE-backed	10793,538
-UAE-based	4934,14,37,1732,4385
+UAE-based	4934,14,37,1732,4385,387,9
 UAE-based AI	6150,116
 UAE-based G42 Presight	9291
 UAE-based Kala Data FZCO	3649

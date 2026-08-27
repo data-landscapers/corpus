@@ -69,6 +69,8 @@ Bamenda Ecclesiastical Provincial Health Assistance	10970
 Bank of Ghana ISP Internet Service Provider	6936
 Basic Health Care Provision Fund	4301,493
 Basic Healthcare Provision Fund	4301
+Bié Province Cuando Cubango Province C	11418
+Bié Province Huam	11418
 Board. Financial Provisions Funds	587
 Broadband Wireless Access Providers	7401
 Broadcasting Service Providers	10407
@@ -111,6 +113,7 @@ Cloud Services Providers Entities	6432
 Cloud Services Providers. GOK Entities CSPs	6432
 Colmer Wapa Wireless Access Providers Association	6365
 Comando Provincial da Polícia Nacional de Angola	794
+Comissões Multissectoriais Provinciais	11421,25
 Comissões Provinciais Eleitorais	539
 Comités Provinciais	10752
 Communications and Technology ISP Internet Service Provider	10781
@@ -141,8 +144,12 @@ Copperbelt and Northwestern Provinces	3524
 Councils Leaders of Provincial Legislatures Fellow South	11215
 Credit Provider Compliance	11198
 Crypto Asset Service Providers	10452
+Cuando Cubango Province C	11418
+Cuando Cubango Province Cunene Province Com	11418
 Cuentas CONCEPTO PROM. EMPRES. EXTERIOR PROVINCIAL	4209
 Cunene Province	9399,1366,10
+Cunene Province Hua	11418
+Cunene Province Huam	11418
 Customer and Provider	9123
 Customers and Providers. Customers	9123
 Cyber Service Provider	10721
@@ -150,6 +157,7 @@ Cybersecurity Service Provider	9842,426,108
 Cybersecurity Service Provider. Companies	10268
 Cybersecurity Service Provider. Entities	9728
 Cybersecurity Service Providers	9728,111
+Código da Província	11409
 DE GRAL. DE REGIONAL PROV. KIE-	4209
 DE PROVA	549
 DE PROVINCIAS CATEGORÍA MINISTERIO CONCEPTO ACTUAL	4209
@@ -210,6 +218,7 @@ Delegados Provinciais	10752
 Delegação Provincial da Justiça	10298,453
 Delegações Provinciais	10772
 Delegações Provinciais da Justiça	10765,10
+Departamentos Provinciais	11382
 Description Provides	543
 Description Provision	251,1209,3006
 Development Goal TAPED Trade Agreements Provisions	1243
@@ -223,6 +232,7 @@ Digital Credit Services Providers. QUESTION	6940
 Direction Provinciale	10847
 Directive for Digital Credit Service Providers	8732
 Directive for Digital Credit Services Providers	7464
+Direcções Provinciais de Saúde	11401
 Direitos Delegação Provincial de Luanda	10753
 District and Provincial Offices	1778
 Distrito de Bata Provincia de Litoral	4209
@@ -245,6 +255,7 @@ Electronic Certification Service Providers	6946
 Electronic Communications Service Providers	11277
 Electronic Payment Service Provider	10418
 Electronic Payment Services Provider	5687
+Elementos de Prova	11364,1
 Email Provisional Charges	2367
 Employees of Service Providers	10721
 Enabling Provisions	1243
@@ -326,7 +337,7 @@ FAILURE TO PROVIDE ANY	11240
 FARMACIAS Y SIMILARES CAPITALES DE PROVINCIAS	4209
 FAS Provincial Director	10763
 FINAL PROVISIONS CHAPITRE VI	1214
-FINANCIAL PROVISIONS	1220
+FINANCIAL PROVISIONS	1220,10244
 FISCALES ADJUNTOS DE LA AUDIENCIA PROVINCIAL	4209
 FISCALES JEFES DE LA AUDIENCIA PROVINCIAL	4209
 FISCALIA DE LA AUDIENCIA PROVINCIAL	4209
@@ -376,6 +387,9 @@ GRM Committees Provision	1778
 GSM FSP Providers	10819
 GSM Provi- Social Inclusion	10819
 GSM Providers	10819
+Gabinete Provincial	11485
+Gabinete Provincial da Saúde	11458
+Gabinete Provincial da Saúde. ARTIGO	11445
 Gabinete Provincial de Saúde de Luanda	10784
 Ganzourgou Province. Even	10828
 Gauteng Province	2948,5073,3220,48
@@ -387,6 +401,7 @@ Geoscience Australia. Provides	345
 Gestão da Educação Secretaria Provincial da Educação Taxa	10766
 Ghana Internet Service Providers Association	8247
 Ghana Virtual Asset Service Providers Act	4847
+Global Provincia	11418
 Gobernador Provincial	4209
 Gobernador Provincial Secretario Administrativo	4209
 Gobierno Adjunto Delegado Provincial Delegado Distrital	4209
@@ -394,15 +409,18 @@ Gobierno Presidente Audiencia Provincial	4209
 Gobierno Provincial de Bioko Sur Luba	4209
 Gobierno Provincial de Ebibeyín Ebibeyín	4209
 Gobiernos Provinciales	1701
-Governador Provincial	10754
+Governador Provincial	10754,619
+Governadora Provincial	11427
+Governadora Provincial de Cabinda	11427
 Government Cloud Service Provider	6432
 Government Cloud Service Providers	6432
 Government Cloud Services Provider	6432
-Governo Provincial	4294,6460,24,5
+Governo Provincial	4294,6460,24,5,660
 Governor and Provincial Health Directorate	10776
 Governor of Nouaceur Province	4066
-Governos Provinciais	6970,3784,1,7,21
+Governos Provinciais	6970,3784,1,7,21,578,25,35,1,24
 Gross Capital Provider Buildings Equipment Office	236
+Grupos Técnicos Provinciais	11421,1,24
 HIDRAÚLICAS GENERAL DE DELEGACIÓN PROVINCIAL DELEGACIÓN	4209
 Harare Metropolitan Province	1191
 Heads of Provincial	11184
@@ -420,6 +438,9 @@ Hosting Service Provider	762
 Hosting Service Provider License	762
 Houet Province Secretary General Sombéniwendé Nikiema	6939
 Human RightsStrive Masiyiwa Proves You Can	42
+Huíla Province Lu	11418
+Huíla Province Lua	11418
+Huíla Province Nami	11418
 Hyperlinks Provider	26
 IDA-E338-MW TERMS OF REFERENCE FOR PROVISION	3678
 IFC Provides	7095
@@ -442,6 +463,7 @@ Identity Providers	10819
 Igbintade Wireless Application Service Providers Association	7776
 Impact of Chinese Tech Provision	2518
 Impilo EMR. PROVISIONAL URL	6666
+Improve the Provision of Services	11390
 Incident Management Service Provider	10721
 Incident Management Service Providers	10721
 Industry Electricity Service Provider Federal Government	11136
@@ -514,7 +536,10 @@ Luanda Province	3686,7079,10
 Luanda Provincial Government	10775,1
 Luapula Province	1867,121,1100
 Luapula Provinces	6713
-Lunda Norte Province	9399
+Lunda Norte Province	9399,2019
+Lunda Norte Province Lunda Sul Province	11418
+Lunda Sul Province Cuanza Sul	11418
+Lunda Sul Province Mal	11418
 Lusaka Provincial Administration	5247
 MAGISTRADO AUDIENCIA PROVINCIAL	4209
 MAITRES PAR STATUT Provinces Statut Nombre	10847
@@ -537,6 +562,8 @@ Mashonaland West Province	5386,347,2563
 Matabeleland Province	362
 Mauritius. The Internet Service Provider	2913
 Medicines Wellness Coverage Providers Loading	9429
+Medidas Provisórias	11430
+Meios de Prova	11363
 Member of Provincial Parliament	8999
 Mensual PROVINCIAS DISTRITOS Importe Mensual Importe	4209
 Micro Network and Service Provider	9335
@@ -545,6 +572,8 @@ Miscellaneous Provisions	587,3300,3958,149,3027
 Miscellaneous Provisions International	587
 Mobile Network Operators and Internet Service Providers	4661
 Moov Connectivity Provider	10956
+Moxico Province Benguela	11418
+Moxico Province Nami	11418
 Mpumalanga Province	11281
 Mpumalanga Province NDoH	11252
 Mpumalanga Provincial Government	11281
@@ -561,6 +590,7 @@ National Council of Provinces The Chairperson	11289
 National and Provincial	11196
 National and Provincial Departments. Principle	11193
 National and Provincial Elections	7266,248
+Natureza Prova de Vida	11485
 Natureza de Prova de Vida. A Base de Dados	5204,1
 Negotiating Sustainable Development Provisions	1243
 NetAssist Cybersecurity Provider Malaysia	4924
@@ -594,6 +624,7 @@ Notice for Digital Credit Services Providers	6940
 Number Internet Access Providers	958
 Nível Provincial	10754
 O Comando Provincial da Polícia Nacional	794
+O Código da Província	11409
 O Provedor Intermediário de Serviços Electrónicos	6970
 O Provedor de Serviço de Segurança Cibernética	6970
 O Provedor de Serviços Digitais	6970
@@ -623,6 +654,7 @@ PES Post Enumeration Survey PO Provincial	11192
 PFMA Provisions for Public Entities	11250
 POPULAÇÃO POR PROVÍNCIA E MUNICÍPIO	4044
 POPULAÇÃO POR PROVÍNCIA E MUNICÍPIO Quadro	4044
+POR PROVÍNCIAS NO ANO	11391
 PRELIMINARY PROVISIONS	2726
 PRESIDENTE AUDIENCIA PROVINCIAL	4209
 PROV. DE INVEST. ADTVA	4209
@@ -650,6 +682,7 @@ PROVINCES FOR THE NATIONAL DEPARTMENT	11252
 PROVINCES NOMS DES REGIONS	10847
 PROVINCIAL	4209
 PROVINCIAL BUDGET ALLOCATION	11285
+PROVINCIAL DE CABINDA	11427
 PROVINCIAL DE PROVINCIAL	4209
 PROVINCIAL KIE- PROVINCIAL PROVINCIAL ANÁLISIS SOCIO-	4209
 PROVINCIAL KIE- PROVINCIAL PROVINCIAL TOTAL REGIONAL	4209
@@ -692,12 +725,14 @@ Practice Note for Mobile Money Service Providers	11134
 Preservação de Provas	6970,3777
 Presidencial Delegado Adjunto Gobierno Delegado Provincial	4209
 Presidente Audiencia Provincial	4209
+Primary Healthcare Provision Strengthening Health	11469
 Private Provide	6432
 Private and Faith-Based Providers	4217
 ProVice Chancellor	1554
+Produto Interno Bruto Provincial	11422
 Project BRIDGE Provide	5903
 Projecto de Investimento Público Provincial	10783
-Prova	10755
+Prova	10755,609,1,60
 Prova de Autenticação	10755
 Prova de Vida	2816,4494
 Prove	9517
@@ -723,8 +758,10 @@ Provedores Intermediários de Serviços Electrónicos	6970
 Provedores de Planeamento Familiar	10777
 Provedores de Serviços	4274
 Provedores de Serviços Digitais	6970
+Provedores de Serviços de Cibersegurança	11436
 Provedores de Serviços de Internet Rede Tecnológica Privada	6970
 Provedores de Serviços de Segurança Cibernética	6970
+Provedoria de Justiça. Resolução	11365
 Proveedores	1701
 Proven	962,415,2301,755,143,5533,876,267
 Proven Playbook For Quitting	4554
@@ -749,6 +786,8 @@ Provide for Maintenance	7988
 Provided	1,2,19,373,341,236,251,2381,110,32,126,35,989,791,1234,1244,1574,1045,392,1,12,91
 Provided Feedback	9772
 Provided the Authority	972
+Providencia	11371
+Providenciar	11370
 Provider	26,692,18,1360,679,611,476,748,4513,1595,101,42
 Provider Certification	7548
 Provider Class A US	736
@@ -771,7 +810,7 @@ Providers of AI	7855
 Providers of Artificial Intelligence Systems	2958
 Provides	86,129,257,290,321,389,214,302,1507,1033,3020,242,1333,5,1635,5,140,280,73,7,1
 Provides ICT	907
-Providing	236,539,183,3,268,14,120,191,26,124,74,40,49,86,35,537,250,183,47,215,293,54,647,174,344,18,476,137,302,31,1244,8,481,119,297,177,353,61,110,40,254,165,198,433,66,34,229,337,68,393,78,15,117,12,92,52,1,3,65,28,24,2,23
+Providing	236,539,183,3,268,14,120,191,26,124,74,40,49,86,35,537,250,183,47,215,293,54,647,174,344,18,476,137,302,31,1244,8,481,119,297,177,353,61,110,40,254,165,198,433,66,34,229,337,68,393,78,15,117,12,92,52,1,3,65,28,24,2,23,227
 Providing CRAC	9123
 Providing Future Solutions Now	1263,1045
 Providing Holistic Care	10829
@@ -779,7 +818,9 @@ Providing Holistic Support	10829
 Providing Open Resources	5246
 Providing Personalized Guidance and Assessments	6948
 ProvidusBank	4771
-Province	940,1000,48,636,5940,39,2,394,1766,10,405,12,104
+Providências	11360
+Provimento	11361
+Province	940,1000,48,636,5940,39,2,394,1766,10,405,12,104,70
 Province AddressStatisticsTaxTelecommunicationsTourismTrade	11215
 Province Apr-Jun	11296
 Province Area District Municipality Description of Project	6832
@@ -794,15 +835,15 @@ Province of Huila	10765,10
 Province of Inhambane	1228
 Province of Kwazulu-Natal	11275
 ProvinceID	6666
-Provinces	718,222,884,800,1,298,3460,2220,1081,1531,15,7,11,41
+Provinces	718,222,884,800,1,298,3460,2220,1081,1531,15,7,11,41,128
 Provinces Présents Admis Taux	10847
 Provinces and Districts	11343
 Provinces and Prefectures of Arrondissements. Stated	557
 Provincia	1701,9050
 Provincia Agregado Militar A1 Agregado Militar	4209
 Provincia da Huíla	539
-Provinciais	10783
-Provincial	34,362,340,3244,5019,1752,1,2,21,8,410,22,37
+Provinciais	10783,638,25
+Provincial	34,362,340,3244,5019,1752,1,2,21,8,410,22,37,149,48
 Provincial Administrations and Hospitals	10780
 Provincial Administrations and Public Hospitals	10780
 Provincial Affairs and Devolution Minister Judith Ncube	9397
@@ -822,6 +863,7 @@ Provincial Government of Huíla	10748
 Provincial Growths Development Plans	11289
 Provincial Head	11285
 Provincial Health Director	10776
+Provincial Health Directorates	11401
 Provincial Health Information Systems Committees	396
 Provincial Health Information Systems EMR Electronic	396
 Provincial Health Office	10784
@@ -848,6 +890,7 @@ Provincial Ministerio Inspector Regional Ministerio Delegado	4209
 Provincial Operations	11261
 Provincial Os Projectos	10783
 Provincial Presence	8999
+Provincial Regulatory Entity	11494
 Provincial Secretaries	7814
 Provincial Secretario Consejo Superior	4209
 Provincial Secretario Fiscalía Corte Suprema Secretario	4209
@@ -857,16 +900,18 @@ Provincial Treasury Head Julinda Gantana	8564
 Provincial and District AGRITEX	520
 Provincial and District Meteorological Officers	520
 Provincial and Local	11184
+Provincial and Municipal Capital	11366
 Provincial and National	11252
 Provincial da Justiça	10751
 Provincial de Projectos	10783
 Provincial de Provedoria de Justiça	10751
 Provinciales	10847
 Provincially	8846,2346
-Provincias	1701,2508
+Provincias	1701,2508,7157
 Provis. Reprov. Sec. Abandonos Aprovados Comparticipada	10766
 Provision	940,191,23,7,59,373,274,121,319,166,688,517,294,182,48,694,769,1167,114,592,10,297,509,543,212,535,763,368,54,300
 Provision Mechanisms	4154
+Provision Strengthening PASA	11469
 Provision Sustainable Environment	10837
 Provision for Spectrum Management and Mon- CA	6946
 Provision of Adequate Technical Support INEC	10049
@@ -894,9 +939,10 @@ Provisions for Unaffiliated Security Holders	7198
 Provisión	1701,2508
 Provisórias	10766
 Provisórias Improvisadas Angola	10766
+Provocar	11430
 Provocations	8460
 Provost	6936
-Província	539,6202,4010,6,9,17
+Província	539,6202,4010,6,9,17,583,7,36,12,25
 Província Angola Bengo Benguela Bié Cabinda	10766
 Província Aprovação Taxas	10766
 Província Cabinda	10777
@@ -921,8 +967,16 @@ Província Total MF M F Privado	10766
 Província Total MF M F Público	10766
 Província Total MF M F Público-Privado	10766
 Província Total Professores Alunos Pública Professores	10766
+Província da Huíla	11387
+Província da Lunda Norte	11460
 Província da Lunda-Norte	539
-Províncias	10757,15
+Província de Cabinda	11427
+Província de Luanda	11394,52,3
+Províncias	10757,15,593,8,5,31
+Províncias da Região Centro-Norte	11406
+Províncias da Região Leste	11406
+Províncias da Região Norte	11406
+Províncias da Região Sul	11406
 Províncias de Nampula	1808
 Public Data Service Providers	958
 Public Perception of Education Provision	10759,76,2,1,130
@@ -977,6 +1031,7 @@ SERVICE PROVIDERS The CSA	9728
 SEVERABILITY AND SAVINGS PROVISIONS	3861
 SHARING PROVIDERS	3862
 SIMs. Providers	7576
+SMART Zambia Northern Provincial ICT	11503
 SMART Zambia Southern Provincial ICT Unit	7503
 SNDECI. Provenance	10913
 SPFP Minoritaire DONNÉES PROVISOIRES INFORMATIONS GÉNÉRALES	2342
@@ -1043,7 +1098,7 @@ Services Providers	7464
 Servicos Provinciais de Geografia	427
 Serviço Provincial	4979,171,5607,20
 Serviço Provincial de Identificação Civil	4505
-Serviços Provinciais	10757
+Serviços Provinciais	10757,664,25,3
 Severability and Savings Provisions	3861
 Sexo Província	4044
 Sexo Total Província	4044
@@ -1127,7 +1182,11 @@ Unlicensed Digital Credit Service Providers	7559
 Unlicensed Digital Credit Services Providers	8732
 Unlicensed Digital Credit Services Providers Acquired	7464
 Use of Accredited Cloud Service Providers Contract	6432
-Uíge Province	10765,10
+Uíge Province	10765,10,643
+Uíge Province Zaire	11418
+Uíge Province Zaire Province	11418
+Uíge Province Zaire Province Legislação	11418
+Uíge Province Zaire Province Proporção de Indivíduos	11418
 VASP Virtual Asset Service Provider	8590
 VSAT Service Provider	10407
 Vipnet Connectivity Provider	10956
@@ -1140,6 +1199,7 @@ Virtual Asset Service Providers Regulations. Select	10738
 Virtual Assets and Virtual Assets Service Providers	11134
 Virtual Internet Service Provider License	762
 Virtual Internet Service Providers	762
+Vision Provide	11493
 Volet Benin'. Provides	357
 WEAK PROVENANCE	1960
 Water Security and Provision	2626
@@ -1156,7 +1216,7 @@ Wireless Application Service Provider Association of Nigeria	7600
 X PROVINCE Number of Number	2477
 YEAR END TELECOM PROVIDER’S FINANCIAL DATA	3862
 Yomi Arowosafe. Nigeria’s Universal Service Provision	2590
-Zaire Province	3980,5419
+Zaire Province	3980,5419,2019
 Zambezia Province	1228
 Zambia’s North-Western Province	7130
 Zambia’s Southern Province	11171

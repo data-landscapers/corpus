@@ -116,11 +116,13 @@ Améliorer Système	10712
 Analysis System	7988
 Angola Earth Observation Satellite System	2242
 Angola Enhancing the Social Protection System for Human	10768
-Angola Health System Performance Strengthening Project	10768
+Angola Health System Performance Strengthening Project	10768,649
+Angola Strengthening the National Social Protection System	11375
 Angola Telecom's SARSSy Subsea Cable System	5926
 Angola's Strengthening the National Social Protection System	424
-Angolan Health System	10780
+Angolan Health System	10780,621
 Angolan Payment System	4876,5899
+Angolan Quality System	11493
 Angola’s Health Information System	10780
 Angola’s National Health Information System	10776
 Animal Disease Notification and Investigation System	8183
@@ -600,6 +602,7 @@ Directorates for Information Systems	2321
 Directors of Information Systems	3661,1256
 Discuss Identity System Modernization TUNIS	10521
 Disease Outbreak Surveillance System I	4260
+Disease Surveillance Systems Enhancement Project RIP	11380
 Disponibilité de SYC	10858
 Distributed Antenna System	718
 Distributed System Accountability	8283
@@ -721,9 +724,11 @@ Emergency Dispatch A I System	8283
 Emirates Emirates ID System	10714
 Emmanuelle Collet du Systèmes des Nations-unies	5530
 Energy Across Energy Systems	9635
+Engagement REDISSE Regional Disease Surveillance Systems	11417
 Engineering Systems	7055
 Enhancement of Internal Control Systems	6946
 Enhancing Health Information Systems	10776
+Enhancing the Social Protection System for Human Capital	11375
 Ensure ICT Systems	4610
 Enterprise Content Management System	9310
 Enterprise Geographic Information System	3101
@@ -924,6 +929,7 @@ HPT Traceability and Track-and-Trace Systems	9855
 HPe Synergy	11209
 HRIS Human Resource Information System IaaS	6432
 HRIS System	6432
+HSPSP Health System Performance Strengthening Project	11380
 HUMAN RESOURCE INFORMATION SYSTEM STANDARDS	34
 HVAC System	9123
 Hamza Hasan Syed	10865
@@ -968,8 +974,9 @@ Health Records System	6432
 Health Res Policy Syst	10780
 Health Resources Availability Mapping System	10829
 Health Service Delivery and System Strengthening Project	988,9841
-Health System	4301,6479
+Health System	4301,6479,637
 Health System Performance Reinforcement Project	10963,1
+Health System Performance Strengthening Project	11380
 Health System Strengthening	10776,53
 Health System Strengthening CHWs	10829
 Health System Strengthening The Policy	3861
@@ -985,7 +992,7 @@ Health Systems	10780,49
 Health Systems Digital Information	11350
 Health Systems Governance and Human Resources	396
 Health Systems Governance and Human Resources Branch	396
-Health Systems Strengthening	21
+Health Systems Strengthening	21,11380
 Health Systems Strengthening Plus	155
 Health Systems Strengthening for Human Capital Development	5126
 Health Workers Management System	10812
@@ -1316,7 +1323,7 @@ Le Systac	10239
 Le Système	4107,6767
 Leaner Management System	11303
 Leaner Management System The Portfolio Committee	11303
-Learning Management System	9128,1396
+Learning Management System	9128,1396,939
 Learning Management Systems	1248
 Learning Operating System	9598
 Lebanon and Syria Max Maximum Mbps Megabits	2775
@@ -1398,7 +1405,7 @@ Malawi. The Crime Management System	8286
 Malawi’s Payment Systems	3288
 Malaysia National Registration and Identification System	10714
 Mamadou Sy Albert	8821
-Management Information System	899,472,1404,1378,6838
+Management Information System	899,472,1404,1378,6838,404
 Management Information System for Social Assistance	1371
 Management Information Systems Quarterly	2948
 Management System	295,2150,4501,3768,98
@@ -1547,7 +1554,7 @@ National Health Information Systems for South Africa	396
 National Health Management Information System	21
 National Health Management and Information System	10833
 National Health Survey and Sentinel Surveillance System	4260
-National Health System	3743,545,6487
+National Health System	3743,545,6487,642
 National Household Targeting System for Poverty Reduction	11133
 National ID System	984,2588,1105,1755,4282
 National ID System Expansion Project	5855
@@ -1695,6 +1702,7 @@ Nortal and Baltic Computer Systems	2910
 North Macedonia National ID System	10714
 Nvidia and Nexus Core Systems	10136
 N’Faly Sylla	7403
+OECD's Creditor Reporting System	11487
 OS Operating System PABX Private Automated	34
 Oman National Payments Systems	7981
 Online Birth Registration System	3200
@@ -1750,6 +1758,7 @@ Parish Development Model Management Information System	3050
 Parole System	11224
 Participatory AI Research and Practice Symposium	7038
 Participatory Geographic Information Systems	1248
+Parties Self-Assessment Annual Reporting SPAR Systematic	11417
 Partner Management System	6435
 Partner States’ National Payment System	3238
 Partnership Revolutionises Weather Systems	11283
@@ -1857,6 +1866,7 @@ Property Numbering System	11129
 Prosus AI Governance and Policy Symposium	8435
 Protect Critical Digital Systems Senegal	5407,676
 Protection Information Management Systems CPL Commercial	2775
+Protection Program SCD Systematic Country Diagnostic	11380
 Protection Systems	11156
 Protection of Information Systems and Networks	10765,10
 Protection of Networks and Computer Systems	10771
@@ -1868,6 +1878,7 @@ Proyecto de Extensión de SYDONIA	4209
 Public Administration Human Resources Management System	10768
 Public Budget Preparation and Execution System	9489
 Public Finance Management System PIS	958
+Public Financial Management System	11417
 Public Health Emergency Management Information System	4349
 Public Information System	10765
 Public Investment Management System	10785
@@ -1893,6 +1904,7 @@ RCZ Research Grant Proposal Appeals System	1554
 RISKS TO THE POWER SYSTEM	11228
 Rafay Systems	5439
 Rakuten Symphony	4434
+Ranking List Rank System Vendor	11471
 Rating System	5817,1129
 Raum. Dieses System	11316
 Real Funding System Looks Like	9602
@@ -1913,6 +1925,8 @@ Reduced Systems	10550
 Referentiel General de Securite des Systemes	10906
 Reforming Financial Systems for Global Agency	10718
 Regional Disease Surveillance System Enhancement	10829
+Regional Disease Surveillance Systems Enhancement	11417
+Regional Disease Surveillance Systems Enhancement Project	11380
 Regional Health Information System	3791
 Regional Health Information System SOP Standard	3791
 Regional Payment and Settlement System	6938
@@ -1985,6 +1999,7 @@ SNT. Le Système	9716
 SOE State-Owned Enterprise STEP Systematic Tracking	6539
 SPL Systematic Operations Risk-Rating Tool SSNP	10964
 SS IC Syllabus Gr12 Final February 2019.pdf	288
+SSA Sub-Saharan Africa STEP Systematic Tracking	11380
 STEP Systematic Tracking of Exchanges	2889,715
 STRENGTHENING HEALTH SYSTEM PERFORMANCE AND PREPAREDNESS	10829
 SVS Stock Visibility System MTEF Medium-Term	396
@@ -2030,9 +2045,9 @@ SYSTEM CAN'T TALK TO ITSELF	9696
 SYSTEM FOR HUMAN CAPITAL AND RESILIENCE	10768
 SYSTEM OPERATOR STATISTICS	11228
 SYSTEM STRENGTHENING PROJECT	10829
-SYSTEMATIC OPERATIONS RISK- RATING TOOL	1264,603,1737,2935,4229
-SYSTEMATIC OPERATIONS RISK-RATING TOOL	969,315,9545,135
-SYSTEMATIC OPERATIONS RISK-RATING TOOL Rating	2712,1976
+SYSTEMATIC OPERATIONS RISK- RATING TOOL	1264,603,1737,2935,4229,649
+SYSTEMATIC OPERATIONS RISK-RATING TOOL	969,315,9545,135,416
+SYSTEMATIC OPERATIONS RISK-RATING TOOL Rating	2712,1976,6707
 SYSTEMATIC OPERATIONS RISK-RATING TOOL Risk Category	6579,349,949,2993
 SYSTEME D'ENCADREMENT DES ELEVES PAR NIVEAU	10847
 SYSTEMES D'INFORMATION AU SEIN DES MINISTERES	10905
@@ -2119,6 +2134,7 @@ Social Theory and Philosophy for Information Systems	5349
 Social Welfare Information System	10991
 Soft Logistics Management Information System	4202
 Software Developers Enterprise Architects Systems	21
+Software Operating System	11471
 Solar Home Systems Receivables Facility Norfund	707
 Solar Home Systems and Digital Inclusion	709
 Somali Instant Payment System	11136
@@ -2159,6 +2175,7 @@ State of Identification Systems	10822
 State of Inclusive Instant Payment Systems	1386,2467,124,50,330,3794,335,1996,652
 State of Information Systems Education Research	1248
 State of Instant and Inclusive Payment Systems	797
+State’s Integrated Financial Management System	11417
 Station E-Payment System Advertisement Reach	4630
 Statistical System	10759,76,2,1,74,56
 Statistical System Absence of Forced Migration	10835,3,130
@@ -2181,7 +2198,7 @@ Strengthening Health Systems and Medical Regulations	6594
 Strengthening National Health Information Systems for HIV	496
 Strengthening of Early Warning Systems and Climate Services	7030
 Strengthening the Angolan Health System	10780
-Strengthening the National Social Protection System Project	424,549,9795
+Strengthening the National Social Protection System Project	424,549,9795,607,20
 Strengthening the National System of Science	3861
 Student Information Systems. FIGURE	9128
 Submarine Cable System Manufacturers	3513
@@ -2200,7 +2217,9 @@ Surveillance Systems	10919
 Surveillance des Systèmes	10237
 Sustainable Development SIGASPE Integrated System for Human	10812
 Sustainable Food Systems	5367
+Sustainable Food Systems. Close	11469
 Sustaining Use of District Health Information System	150
+Svalbard and Jan Mayen Sweden Switzerland Syria	11470
 Swaziland Interbank Payment and Settlement System	6938
 Swaziland Interbank and Settlement System	11130
 Swaziland Payment Settlement System	11131
@@ -2302,13 +2321,13 @@ Synod of Livingstonia Health Department	3791
 Synod of Livingstonia Health Facilities	3791
 Synonym	8606
 Synonymtable Synonyms Standard Behaviour	8606
-Synopsis	7644
+Synopsis	7644,3754
 Syntax Error	10829
 SynthID	9608
 Synthesia. For Section	8530
 Synthesis	23,519,465,768,501,2566,414,420,48,2066,511,304,1154
 Synthesis Document	9203
-Synthesis Report. World Bank Group	9759
+Synthesis Report. World Bank Group	9759,1658
 Synthesis Taken	11138
 Synthesis The Guidelines	6086
 Synthesis Uganda	5603
@@ -2348,7 +2367,7 @@ Syscohada	10829
 Syscomedia. Melchior Koba	8565
 Sysroad	5033
 Systac	1828,6527,1884
-System	34,62,114,48,37,63,1,221,1,155,483,3,21,18,3,20,660,152,191,108,82,197,35,180,614,101,31,101,55,411,27,72,680,52,330,170,378,137,375,369,40,106,8,275,659,48,59,1,34,523,58,1,1,27,91,211,44,105,4,1,35,6,79,216,225,29,177,4,36,44,123,60,174,320,98,49,12,5,32,40,18,61,19,14,165,2,2,1,94,41,34,13
+System	34,62,114,48,37,63,1,221,1,155,483,3,21,18,3,20,660,152,191,108,82,197,35,180,614,101,31,101,55,411,27,72,680,52,330,170,378,137,375,369,40,106,8,275,659,48,59,1,34,523,58,1,1,27,91,211,44,105,4,1,35,6,79,216,225,29,177,4,36,44,123,60,174,320,98,49,12,5,32,40,18,61,19,14,165,2,2,1,94,41,34,13,55
 System Access	8999
 System Administration	2868,8285
 System Administrator	8022
@@ -2420,6 +2439,7 @@ System Performance and Preparedness	10829
 System PrDO Program Development Objective PSC	1264
 System Processor	34
 System Processor Minimum Intel Quad Core	34
+System Project	11395
 System Recovery	4610
 System Recovery A. All Telecommunications Service	4610
 System Sciences	2096,6508,633
@@ -2460,7 +2480,7 @@ Systematic Literature Review of Information Systems Research	1248
 Systematic Operations Risk-Rating Tool	6833
 Systematic Review	1824
 Systematic Tracking and Exchange	1264
-Systematic Tracking of Exchanges	1867,1022,715,2935,4290,135
+Systematic Tracking of Exchanges	1867,1022,715,2935,4290,135,453
 Systeme	10643
 Systemic	3583,1,2604,750,10,12,2405,251
 Systemic Barriers	4443
@@ -2484,7 +2504,7 @@ Systems Digital Policy	958
 Systems Engineering	6832
 Systems Global Affairs Canada	63,136
 Systems Governance Policy	396
-Systems Integration	1248
+Systems Integration	1248,10254
 Systems Integrator for Fayda	10839
 Systems Leadership	3487
 Systems Limited	8625
@@ -2506,7 +2526,7 @@ Systems-thinking	10060
 Systems. Deploying Infrastructure for Industrialisation	5912
 Systems. Fintech	6397
 Systm Upgrades Provincial Courts Proceedings	2987,16,13,949,1438,159,1347
-Système	12,198,25,322,86,588,53,365,30,122,183,358,261,347,1,132,211,68,57,162,23,83,32,388,62,570,324,16,24,2,489,220,2,17,33,117,65,41,151,194,241,213,298,384,148,125,166,378,120,10,68,178,249,37,124,103,129,311,1,174,102,103,29,141,7,71,299,68,1,100,24,22,10,3,3,1,1,6,20,19,4,9,2,8,21,10
+Système	12,198,25,322,86,588,53,365,30,122,183,358,261,347,1,132,211,68,57,162,23,83,32,388,62,570,324,16,24,2,489,220,2,17,33,117,65,41,151,194,241,213,298,384,148,125,166,378,120,10,68,178,249,37,124,103,129,311,1,174,102,103,29,141,7,71,299,68,1,100,24,22,10,3,3,1,1,6,20,19,4,9,2,8,21,10,534
 Système Certificat	5063
 Système Comptable OHADA PIB	10875
 Système Digitalisation du Ministère	4026
@@ -2718,6 +2738,7 @@ World Bank's Debtor Report System	7589
 World Bank's Debtor Reporting System	483
 World Bank’s Systematic Tracking of Exchanges	10768
 World Data System WDS	5246
+World Geodetic System	11405
 World's Trading System Needs	10718
 X HPe Synergy Blade Enclosure	11209
 X HPe Synergy Blade Server BL480	11209

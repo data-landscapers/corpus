@@ -1,5 +1,6 @@
 ABBREVIATIONS DESCRIPTION SMS Subject Matter Specialist	11192
 ACCOUNT INFORMATION IN TAX MATTERS	11233
+ACTUAL ENQUADRAMENTO JURÍDICO DA MATÉRIA OBJECTO	11461
 ADDITIONAL MATERIAL INFORMATION	4896
 ADDITIONAL MATERIAL INFORMATION Econet InfraCo	4896
 AI Readiness Index and Maturity MINICT Assessment	1204
@@ -64,6 +65,7 @@ C.E.F. Matewa Mr. E. Dhenhere	1154
 CAMP Cyber Accelerated Maturity Program ITU	6936
 CAMPANHA DE REGISTO NAS MATERNIDADES Denominado	10750
 CAPÍTULO II Disposições Penais Materiais Artigo	6970
+CAPÍTULO II SUBSÍDIO DE MATERNIDADE	11467
 CEO By Matshepo Sehloho	5315
 CEO Matlou	3478
 CEO Matsobane Matlou	9372
@@ -134,6 +136,7 @@ DIRECTORS' INTERESTS AND RELATED PARTY MATTERS	4896
 DISCLOSURE OF CERTAIN MATTERS IN FINANCIAL	3714
 DIVIDENDS AND OTHER MATTERS	7198
 DPI Maturity Score	3391
+Dados Matriciais	11405
 David Matern	11108
 Deal Matters	6397
 Death Match of Institutional Orders	11028
@@ -171,6 +174,8 @@ EMBAJADAS Y CONSULADOS Materiales de Fax	4209
 EN MATIÈRE D’UTILISATION	4459
 ENTERPRISE RISK MANAGEMENT Material Matters	11131
 ESMP Matrix	1988
+ESTUDANTES MATRICULADOS	11391
+ESTUDANTES MATRICULADOS NA	11391
 EU’s Critical Raw Materials Act	10592
 EVALUATION MATRIX	6432
 EVALUATION MATRIX. Compliance Area Requirement	6432
@@ -191,6 +196,7 @@ Equipment Maternal and Child Health Infrastructure	4217
 Equipment and Materials for PNAD. Os	8474
 Estimated Numbers of Maternal and Children’s Deaths Adverted	10829
 Estimativas Diretas da Mortalidade Materna	10777
+Estudantes Matriculados	11387
 Evans Mathanda	7493
 Every Young Person Matters Every	8352
 Evidence Matters Much	4430
@@ -226,6 +232,7 @@ GovTech Maturity Index	4752,210
 GovTech Maturity Index Average GTMI	10785
 Governance Maturity	3861
 Governing Security of Radioactive Materials	718
+Gozo da Licença de Maternidade	11467
 Guides Learning and Teaching Support Materials Examinations	11241
 Guides Learning and Teaching Support Materials Research	11241
 H.E. Commissioner Lerato D. Mataboge	8192
@@ -285,11 +292,13 @@ Joana Cardoso de Guerra Matos Albino	10753
 Job Matching Application	5846,2913
 John Matiko Machonchoryo	1261
 Joint Admissions and Matriculation Board	5321,1215
+José Luís Mateus Alexandre	11410
 Journal of Applied Mathematics and Computing	8604
 Journal of Mathematics and Computing Science	8604
 João Matlombe	10083
 Jude Mathurine	10729
 Judge Matthew Francis	8280
+Julião Mateus Paulo. Promulgada	11358
 Justice Minister Mateus Saize	5609
 KIYANGI MATANGILA	6613
 Ken Matthysen and Peer Schouten	3583
@@ -305,8 +314,10 @@ Lerato D. Mataboge	7136,190
 Lerato Mataboge	6933
 Lerato Mathabatha	6734
 Liberia. Cybersecurity Maturity	1777
+Licença de Maternidade	11467
 Local Government Management Improvement Model MAT	11224
 Lubango Maternity Clinic	10765,10
+LÍNGUA MATERNA	11421
 M. Firmin Edouard MATOKO	2738
 M. Franck Elvis MATKOSS	9277
 M. Mathias TRAORÉ	5304
@@ -333,11 +344,13 @@ MATERIAL PROPERTY ACQUIRED	4896
 MATERIAL PROPERTY DISPOSALS	4896
 MATERIAL PROPERTY DISPOSALS SECTION FOUR	4896
 MATERIAL SCOPE AND DATA CLASSIFICATION TAXONOMY	3861
+MATERIALIZAÇÃO DA TRANSIÇÃO PARA A TELEDIFUSÃO	11397
 MATIAS BORGES	1215
 MATIAS KATUMBELA KASSOMA	10751
 MATOS FELIX	10751
 MATRIX OF DONORS’ CONTRIBUTIONS	970
 MATRIX OF DONORS’ CONTRIBUTIONS Donor Year	970
+MATRIZ DE RESPONSABILIDADES	11413
 MATRÍCULA	10766
 MATTER CONCERNING INFRINGEMENT	3307
 MATTER OF THE DATA	5113
@@ -415,10 +428,14 @@ Matekaire Title Head	2779
 Matekane	11053
 Matemal	4301
 Matembo	8480
-Matemática	6895,31
+Matemática	6895,31,4461,4,81
+Matemática FNUAP	11387
 Mateo Garcia Silva	6202
 Materia de Prestación	9543
-Material	26,210,705,1047,1726,73,422,319,2676,2113,840,153,467,357
+Materiais	11376
+Materiais Didáticos	11444
+Materiais Workshop	11456
+Material	26,210,705,1047,1726,73,422,319,2676,2113,840,153,467,357,333
 Material Acquisitions	4896
 Material Contracts	5538
 Material Improvement	3502
@@ -436,8 +453,9 @@ Material Terms	7198
 Material U.S. Federal Income Tax Consequences	7198
 Materiales	4209
 Materiality	11131,3
+Materializar	11382
 Materialization	9227
-Materialização	3519
+Materialização	3519,7860
 Materially	3552
 Materials	718,254,247,769,1803,2957,1858,517
 Materials Energy Health Care Utilities Hardware	4972
@@ -447,7 +465,7 @@ Materials Science and Engineering	7278,1326
 Materials Transfer Arrangements	4049
 Materials and Methods	11028
 Materias	4209
-Maternal	21,750,106,93,3290,41,129,245,5091,997,17,49,52
+Maternal	21,750,106,93,3290,41,129,245,5091,997,17,49,52,536
 Maternal Child Health Commodities Warehousing	4202
 Maternal Health	10759,76,2,1,130
 Maternal Health Health Quality Public Perception	10837
@@ -468,6 +486,7 @@ Mateus Correia	10788
 Mateus Magala	9434,314
 Mateus Saize	6880
 Matewa Mr. E. Dhenhere Dr Eng	1154
+Math Library	11471
 Math.random	9810
 MathSciNet Google Scholar Gera S	9739
 Mathabo Gail Makenete	9439
@@ -499,7 +518,7 @@ Matheus and Janssen	2096
 Mathew	7662
 Mathew A. Verghis	3456
 Mathew Sebastian	5090
-Mathew Verghis	3721
+Mathew Verghis	3721,7755
 Mathewos T. Community	1219
 Mathias ADEDJE MINISTERE DES ENSEIGNEMENTS PRIMAIRE	2966
 Mathias Barthélemy Morouba	3474
@@ -572,12 +591,25 @@ Matric	5032,890,910,2065,1195,1153
 Matrice	643,1036,9179,55
 Matrice FFOM	10712
 Matrices Microsoft Excel	9124
+Matricial	11384
+Matriculados	11387
 Matriculados Aprovados Reprovados MF M F	10766
 Matriculados M	10766
 Matrix	236,4554,3429,2160
+Matrix-M Vaccine	11417
+Matriz	11406,42
+Matriz Predial	11435
 Matriz SWOT	10783
 Matriz de Acção Digital Anual	7945
+Matriz de Articulação	11448
+Matriz de Avaliação CQS	11456
 Matriz de Avaliação de Riscos Cibernéticos	2784
+Matriz de Classificação da Significância	11390
+Matriz de Comentários	11456
+Matriz de Responsabilidades	11413
+Matriz de Riscos	11456
+Matriz de Riscos Até	11456
+Matrícula	11391
 Matsapha	5774,25,5332
 Matsapha Cash Centre Improvements	11131
 Matsapha Cash Centre Improvements Achieve	11131
@@ -632,6 +664,7 @@ Matthew Willcox FAITS MARQUANTS Adm MPPEEP	2342
 Matthew Wilson	3658,2617,145
 Matthews	4439
 Matthias Braun	680
+Matthias Raynal Déclarant	11499
 Matthias-Sönke Witt	10765,10
 Matthieu Sarda	1828
 Mattia Fracchia	10609
@@ -663,8 +696,10 @@ Maturity Ranking	4848
 Matute	9237
 Matyas Rehak	11271
 Matysiak	2093
+Matéria	11388
 Matéria Penal. Artigo	6970
 Matéria Penal. CAPÍTULO V Disposições Transitórias	6970
+Matéria de Higiene	11390
 Matériel	998,538,6701,2639,99
 Matériels	1942,1595,1703
 Mawasiliano. Mathalani	6019
@@ -737,10 +772,12 @@ President and Cabinet Tafara Matekaire	2920
 Prime Minister Ntsokoane Matekane	3183
 Prime Minister Sam Matekane	2669,814
 Prime Minister Sam Matekane and Minister of Foreign	11053
+Princípio da Verdade Material	11452
 Privacy Maturity	6212
 Production and Distribution of Educational Materials	10776
 Prof. L. Gwanzura DterwCa.E.F. MatewMar. E	1154
 Programa de Suministros de Material Didáctico	4209
+Promoção da Mulher MAT Ministério da Administração	11390
 Propensity Score Matching	9349,1503
 Prosperity Insight The GovTech Maturity Index	10785
 Província Matriculados Aprovados Angola Bengo Benguela	10766
@@ -748,6 +785,7 @@ Província Matriculados MF M F Aprovados	10766
 Proximity Matters	8852
 Proyecto de Olimpiada MATEMÁTICAS	4209
 Proyecto de Olimpiada de Matemáticas	4209
+Pré-Licença de Maternidade	11467
 R.T. Commissioner N. Matshe Dr N	1154
 RACI Matrix	11240
 RE-DATES HELD MATERIAL	6781
@@ -809,6 +847,7 @@ Sr Matilda Soloko	5802
 St. Mathews Muromutua School	10313
 Stronger Data Matters Uganda	3969
 Subscriber Matrix	3862
+Subsídio de Maternidade	11467
 Sumac Microfinance Bank. Matshepo Sehloho	5690
 Summary of BofA and Citi Discussion Materials	7198
 Summary of Certain Discussion Materials Provided	7198
@@ -861,6 +900,7 @@ Wanda Matandela	2705,329
 Weighty Matters	9027
 William Ruto Edwin Sifuna Fred Matiang’i	7869
 World Bank GovTech Maturity Index	2662,2090
+World Bank Ousmane Diagana Mathew A	11468
 World Bank’s GovTech Maturity Index	4612
 World Bank’s Reproductive Maternal and Child Health	10822
 World Health Organization Maturity Level	6594

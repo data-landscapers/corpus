@@ -297,11 +297,12 @@ Citizen. State Dept	2457
 Citizen. The State Department	2457
 City Local Area State City Government	11129
 Civil Registration Management and Vital Statistics System	2274,5
-Civil Registration and Vital Statistics	171,806,226,451,56,1328,1219,3604,515,1159,1230,15,39,9,305,9
+Civil Registration and Vital Statistics	171,806,226,451,56,1328,1219,3604,515,1159,1230,15,39,9,305,9,248,90
 Civil Registration and Vital Statistics Department	10765,10
 Civil Registration and Vital Statistics System	4120,6645,10
 Civil Registration and Vital Statistics Systems	11133
 Clear Statutory Basis	5574
+Climate ClimSA Station	11420
 Closing Niger State	4794
 Code Statements	11235
 Comité des Statistiques des Finances Publiques	9425
@@ -595,7 +596,7 @@ FY2024. State	2341
 Facilitate SADC Member States	962
 Federal Capital Territory and Nasarawa State. Dr	7895
 Federal Member States	1155,2271,7051,659
-Federal and State	3721,3938,3470
+Federal and State	3721,3938,3470,340
 Federal and State Governments	8087
 Federal and State Ministries of Education	11129
 Federal and State-owned	4301
@@ -615,7 +616,7 @@ Former State Lodge EAC	8546
 Forward-Looking Statements	4896
 Foster United States of America-Kenya	4153
 Fourth Quarter Sector Statistics Report	7548
-Fragile State	969,315,583,1695,42,7164,61,135
+Fragile State	969,315,583,1695,42,7164,61,135,453
 Fragile State and Conflict	10832
 Frame Update Stats SA	11341
 Framework for Bilateral AI States	7548
@@ -672,6 +673,7 @@ Gateway Earth Stations	2913,3993
 Gedaref State	9587
 Gender Statistics Support	1407
 General Government Consolidated1 Statement of Operations2	2775
+General Inspectorate of State Administration	11380
 General State	1284
 General State Budget	6694
 General Statute of State Employees and Agents	4260
@@ -770,6 +772,7 @@ ISP Per State Distribution Analysis	3862
 ITU Member States	6168,4596,498
 ITU Radio Regulations. Gateway Earth Station	2913
 ITU States	318
+ITU Statistics Update	11424
 ITU and Member States. Page	962
 ITU and UNESCO State of Broadband	6467
 IV EXECUTIVE AUTHORITY STATEMENT	11261
@@ -976,7 +979,7 @@ Member State	7,20,943,273,564,1776,2094,800,11,964,341,91,66,242,154,1415,198,21
 Member State of SADC	958
 Member State. AVERAGE Organize	5677
 Member State. Section	28
-Member States	7,20,1,290,326,145,152,20,1,8,273,14,7,333,210,7,303,841,204,110,311,254,150,136,659,45,536,216,96,1,1,3,1,144,597,46,3,6,11,124,321,87,54,38,87,253,96,4,126,46,69,62,28,1,66,13,9,269,105,183,218,415,20,25,48,37,106,71,1,139,152,71,127,210,41,25,86,99,56,33,63,29,119,44,12,43,21,16,53,141,104,39,33,57,8,65
+Member States	7,20,1,290,326,145,152,20,1,8,273,14,7,333,210,7,303,841,204,110,311,254,150,136,659,45,536,216,96,1,1,3,1,144,597,46,3,6,11,124,321,87,54,38,87,253,96,4,126,46,69,62,28,1,66,13,9,269,105,183,218,415,20,25,48,37,106,71,1,139,152,71,127,210,41,25,86,99,56,33,63,29,119,44,12,43,21,16,53,141,104,39,33,57,8,65,64,4
 Member States Agriculture	6422
 Member States Approved	10819
 Member States Questionnaire	10840
@@ -1129,7 +1132,7 @@ National Directorate of State Assets	10768
 National Industrial Court of Nigeria and State High	10211
 National Institute for Statistics	1828
 National Institute for Statistics and Demography	10812
-National Institute of Statistics	237,5652,1813,1706,1355,13,4,184,16,5,286
+National Institute of Statistics	237,5652,1813,1706,1355,13,4,184,16,5,286,146
 National Institute of Statistics Rwanda	1903,1912
 National Institute of Statistics and Demography	10812
 National Institute of Statistics and Demography IUCEC Unique	10812
@@ -1140,7 +1143,8 @@ National Institute of Statistics of Rwanda. Only	3013
 National Objectives and Directive Principles of State Policy	3005
 National State Enterprises	11224
 National Statistical	115
-National Statistical Institute	10775
+National Statistical Institute	10775,623
+National Statistical Institute of Angola	11423
 National Statistical Institutes	8532
 National Statistical Office	1704,4382,3860,466
 National Statistical Offices	8341,86,2392
@@ -1149,7 +1153,7 @@ National Statistical Systems	11237
 National Statistics Act	799
 National Statistics Agency	223
 National Statistics Agency of Côte	10508
-National Statistics Institute	222,752,3240,4493,2058,10,1,204
+National Statistics Institute	222,752,3240,4493,2058,10,1,204,400,21
 National Statistics Institutes	1407
 National Statistics Office	400,8922,1821
 National Statistics Offices	3476,1874,5887
@@ -1204,7 +1208,7 @@ Odria Dr. Aminah Zawedde State Minister	9781
 Office of Chief Government Statistician	11142
 Office. These Statements	10313
 Official Statistics	2775,4438,4024
-Ogun State	4794,3413,645,404,1249
+Ogun State	4794,3413,645,404,1249,992
 Ogun State. Another	10571
 Ogun and Plateau States	8985
 On-Air and Off-Air TV Stations	2776
@@ -1220,7 +1224,7 @@ Operations Centre SONA State	5533
 Ordinary Summit of Heads of State and Government	10169
 Ordinary Summit of SADC Heads of State and Government	10169
 Organes du Système Statistique National	3045
-Organic Statute	10765,10
+Organic Statute	10765,10,718
 Organisation du Système Statistique	2625
 Organisation of American States	3874
 Organization of American States	10764,371
@@ -1369,6 +1373,7 @@ Proxy Statement	7198,1741
 Public Disclosure Portal Policy Statement	7548
 Public FM Stations	2776
 Public Foreign FM Stations	2776
+Public Health State Secretary	11401
 Public Health Statistics and Measures	6948
 Public Service Commission State-owned	7058
 Public Statement	11130
@@ -1453,6 +1458,7 @@ SDH State Department for Housing SDR Special	2775
 SDICT State Department for ICT SDICT&DE State	6432
 SECURITY AND POLITICAL STABILITY On the State	7452
 SEP Stakeholder Engagement Plan SOE State-Owned	1818
+SEP Stakeholder Engagement Plan State’s Integrated	11417
 SERVICE DELIVERY AND ORGANISATIONAL ENVIRONMENT STATISTICS	11250
 SEZs Special Economic Zones SITA State	11196
 SHERQ Policy Statement. The Bank	11131
@@ -1462,12 +1468,13 @@ SITA State Information Technology Agency SMME	11224
 SITA The State Information Technology Agency	1810
 SITA. The State Information Technology Agency	7574
 SLA Service Level Agreement STATISTICS SOUTH	11192
+SLIPTA Standard Operating Procedure SOP State	11417
 SMALL ISLAND DEVELOPING STATE	11004
 SMESEH Statistical Yearbook ANALYSIS REPORT	10980
 SOC State Owned Company SOE State	11250
 SOE State	11224
 SOE State-Owned Enterprise STEP Systematic Tracking	6539
-SOE State-owned	1284
+SOE State-owned	1284,10096
 SPECIAL CONSIDERATIONS FOR STATE PARTIES17	1243
 SPECIFIED STATE CORPORATIONS Hon. Emmanuel Wangwe	10313
 SPUR ROUTE Station	736
@@ -1480,6 +1487,8 @@ STATCAP-KM	5848
 STATE	5692,5169
 STATE AND GOVERNMENT	7452
 STATE AND GOVERNMENT AT THE EXTRAORDINARY	4114
+STATE CORPORATIONS	11464
+STATE CORPORATIONS ACT	11464
 STATE DEPARTMENT FOR ICT	7548
 STATE DEPARTMENT FOR MEDICAL SERVICES ADDENDUM	7987,1
 STATE DEPARTMENT FOR PUBLIC INVESTMENTS	5793
@@ -1548,6 +1557,7 @@ Secretary of State for Foreign Affairs	8754
 Secretary of State for Investment and Development	4295
 Secretary of State for Land and Environment Gustavo Dgedge	10470
 Secretary of State for Planning María Ebiaca Moete	3038,1265
+Secretary of State for Public Health	11401,16
 Secretary of State for Secondary Education Soraya Kalongela	10359
 Secretary of State for Telecommunications Ibango Manga Ma	6752
 Sector Education and Training Authority SITA State	11261
@@ -1566,10 +1576,10 @@ Ship Station	6946
 Singapore Statutes Online	11135
 Single State Payments Reference	10762
 Small Island Developing State	10348,984
-Small Island Developing States	2663,250,3405,838,79,1757,1772
+Small Island Developing States	2663,250,3405,838,79,1757,1772,656
 Small Island Developing States. Education	8992
 Small Medium and Micro Enterprises SOC State	11224
-Small State	1284,583,1695,42,7164,61,135
+Small State	1284,583,1695,42,7164,61,135,453
 Small States	7060
 Small States Can Move Differently Ambassador	9741
 Small States Navigate	7857
@@ -1613,10 +1623,10 @@ Stata	1212,9669,38
 Stata-SL	11205
 StataCorp	10919
 Statcounter	1363,2419
-State	27,369,33,6,1,1,150,157,39,6,143,26,3,8,1,2,18,23,81,111,9,29,21,24,288,115,123,4,10,63,198,2,5,17,4,28,114,48,188,23,23,34,39,2,110,1,15,2,15,16,40,37,96,57,15,41,92,10,21,1,4,188,32,27,25,122,21,61,49,58,19,70,26,25,215,50,10,19,64,134,16,59,9,25,12,151,66,52,29,37,36,21,59,32,9,11,4,200,12,70,30,44,98,11,33,3,41,13,39,31,1,7,4,23,19,62,59,9,37,83,26,72,180,44,33,7,109,84,3,12,57,38,57,87,17,9,36,2,109,57,64,46,97,122,73,39,11,96,4,22,59,22,9,31,150,64,12,135,14,70,67,39,38,85,7,229,34,80,11,12,1,10,23,68,47,43,270,35,12,148,9,144,108,1,87,135,11,46,20,89,21,2,85,59,97,16,116,216,103,1,10,6,11,27,12,9,16,5,87,21,5,6,7,8,9,1,1,30,7,42,20,24,6,5,8,28,2,1,3,6,2,3,2,2,1,13,1,1,2,3,6,6,7,3,5,1,15,1,3,2,10,3
+State	27,369,33,6,1,1,150,157,39,6,143,26,3,8,1,2,18,23,81,111,9,29,21,24,288,115,123,4,10,63,198,2,5,17,4,28,114,48,188,23,23,34,39,2,110,1,15,2,15,16,40,37,96,57,15,41,92,10,21,1,4,188,32,27,25,122,21,61,49,58,19,70,26,25,215,50,10,19,64,134,16,59,9,25,12,151,66,52,29,37,36,21,59,32,9,11,4,200,12,70,30,44,98,11,33,3,41,13,39,31,1,7,4,23,19,62,59,9,37,83,26,72,180,44,33,7,109,84,3,12,57,38,57,87,17,9,36,2,109,57,64,46,97,122,73,39,11,96,4,22,59,22,9,31,150,64,12,135,14,70,67,39,38,85,7,229,34,80,11,12,1,10,23,68,47,43,270,35,12,148,9,144,108,1,87,135,11,46,20,89,21,2,85,59,97,16,116,216,103,1,10,6,11,27,12,9,16,5,87,21,5,6,7,8,9,1,1,30,7,42,20,24,6,5,8,28,2,1,3,6,2,3,2,2,1,13,1,1,2,3,6,6,7,3,5,1,15,1,3,2,10,3,137
 State AI Observatory	11135
 State Abbreviation International	11129
-State Action	3456
+State Action	3456,8013
 State Addressing GIS Unit	11129
 State Addressing Team	11129
 State Administration and Public Service	1228
@@ -1705,7 +1715,7 @@ State Gender	2685,2,359,86,176,15,119,65,590,447,96,374,93,240,768,696,438
 State Government	2552
 State Government Dr Emmanuel Meribeole	5072
 State Government Prince Enobong Uwah	10229
-State Governments	3862,439,5856,972
+State Governments	3862,439,5856,972,339
 State Governor Lieutenant General Mohammed Ahmed	9587
 State Governors	3456,845
 State House	1838,1033,159,223,922,578,347,117,944,36,2,8,20,21,14,326,283,129,481,165,1,4,208,36,322,166,226,371,67,315,38,60,236,550,880
@@ -1765,6 +1775,7 @@ State Owned Enterprise Sub-Saharan Africa	10157
 State Owned Enterprises	789
 State Owned Enterprises SG Statistician General	11192
 State Parties	1243,5796,2129,87,1221,717
+State Parties Self-Assessment Annual Reporting	11417
 State Parties.66	1243
 State Parties12	1243
 State Party	1243,1762,578,6893,289,10
@@ -1802,7 +1813,7 @@ State Visit of President Ramaphosa	11185
 State Warehouse	11036
 State We Are Leaping Over	7233
 State and LGA	11129
-State and Local Government	4301,6828
+State and Local Government	4301,6828,340
 State and Local Governments	4301
 State and Shareholding Revenue	477
 State of AI	4528,173,3425,3014
@@ -1946,6 +1957,7 @@ Statement of Director’s Responsibilities Section	6946
 Statement of Expenditures	1284,2320,7225
 Statement of Financial Position	1554,9577,3,75,21
 Statement of H.E. Mr. Wamkele Mene	10819
+Statement of IFC’s Committed and Disbursed Portfolio Nigeria	11469
 Statement of Intent	6140
 Statement of National Government Operations	2775
 Statement of Presence and Intent	5752
@@ -1963,7 +1975,7 @@ Statements and Reports	3714
 Statements of Expenditures	1264
 StateofPrey TheSentry-Oct2020.pdf	4127
 StateofPrey-TheSentry Oct2020.pdf	4127
-States	25,2,739,17,178,1,272,3,6,292,62,217,282,21,414,18,584,323,92,35,279,385,54,1,374,62,504,121,955,92,229,169,138,602,4,86,21,72,476,875,578,101,261,71,64,556,51,55,21,1,3,114,2,194,36,20,17
+States	25,2,739,17,178,1,272,3,6,292,62,217,282,21,414,18,584,323,92,35,279,385,54,1,374,62,504,121,955,92,229,169,138,602,4,86,21,72,476,875,578,101,261,71,64,556,51,55,21,1,3,114,2,194,36,20,17,242
 States DHIS2	1959
 States Embassy Monrovia	4202
 States Members	3583,7257
@@ -1978,6 +1990,7 @@ States and Local Government Areas	11129
 States and Local Government Areas. Delineation of Postcode	11129
 States and Local Governments	11129
 States of America	4302
+States of America Uruguay Uzbekistan Vanuatu Vatican	11470
 States of Knowledge	8380
 States of Nigeria	3862
 States of Nigeria. Forty-seven	3862
@@ -1991,6 +2004,7 @@ Statesmen	11185
 Statewatch	11101
 State’s	4794
 State’s Committee	11129
+State’s Integrated Financial Management System	11417
 State’s Response The State	11148
 Static	8283,2623,227
 Static Commander	11285
@@ -2023,7 +2037,7 @@ Statistical Agency	3641
 Statistical Analysis Software	8604
 Statistical Analysis Software UA	10874
 Statistical Awareness Day	8248
-Statistical Capacity	1176
+Statistical Capacity	1176,10199
 Statistical Clearing House	11201
 Statistical Code Card	10645
 Statistical Coordination and Innovation	6963
@@ -2034,7 +2048,7 @@ Statistical Methods	11237
 Statistical Operations and Provincial Coordination	11237
 Statistical Package	7759
 Statistical Package for Social Sciences SSN	10874
-Statistical Performance Indicators	4214
+Statistical Performance Indicators	4214,7269
 Statistical Purposes	4583
 Statistical Report	3862,4598
 Statistical Reporting	11237
@@ -2060,7 +2074,7 @@ Statistician-General STATISTICS SOUTH AFRICA	11258,28
 Statistician-General Statistician-General	11178
 Statistician-General of South Africa Official Sign-Off	11237
 Statisticien Général Senior Publication	7675
-Statistics	7,315,256,383,282,18,553,130,150,681,114,587,128,134,46,1649,789,71,378,161,380,336,154,303,69,174,165,14,32,669,488,92,73,292,345,90,114,153,5,64,7,27,227,73,23,36,49,8,2
+Statistics	7,315,256,383,282,18,553,130,150,681,114,587,128,134,46,1649,789,71,378,161,380,336,154,303,69,174,165,14,32,669,488,92,73,292,345,90,114,153,5,64,7,27,227,73,23,36,49,8,2,199
 Statistics Act	976,33,1351,415,6710,1693,23,36,52
 Statistics Act No	9485,1856
 Statistics Act No.29	11289
@@ -2089,6 +2103,8 @@ Statistics KNEC Kenya National Examinations Council	2775
 Statistics Management	970
 Statistics Mauritius	7994,710,2628
 Statistics Mauritius National Parks and Conservation Service	11332
+Statistics Portugal	11423
+Statistics Portugal Shares Experience	11423
 Statistics Price Index	2775
 Statistics SA	1602,1,1288,1,2286,3401,2614
 Statistics SA. Overall	11193
@@ -2324,7 +2340,7 @@ UN Member States. South Africa	1912
 UN Secretary of State Mike Pompeo	2117
 UN Statistical Commission	6337,626
 UN and States Members	3583
-UNESCO Institute for Statistics	7548,3421
+UNESCO Institute for Statistics	7548,3421,514
 UNESCO’s Member States	1814
 UNITED STATES DEPARTMENT	5692
 UNITED STATES DISTRICT COURT	5692
@@ -2347,7 +2363,7 @@ US States Department	5035
 US States Department and Starlink	3251
 USA United States of America USB Universal	2775
 USAC State Corporations	6946
-USAID United States Agency for International Development	396
+USAID United States Agency for International Development	396,10984
 USD United States Dollar	8590
 Uganda Bureau of Statistics	3026,3626,1875,268,351,176,66,667,767
 Uganda's Minister of State for Information	8622
@@ -2386,6 +2402,7 @@ United States Food and Drug Administration	4153,14,35,58,89,77,926
 United States Global Cybersecurity Index	10764
 United States Government	3583,718,1472,5001
 United States Government-supported	5773
+United States Minor Outlying Islands United	11470
 United States Patent and Trademark Office	8967
 United States President’s Emergency Plan for AIDS	5165
 United States Securities and Exchange Commission	6467
@@ -2482,6 +2499,7 @@ Vital Statistics. Among	10765,10
 W Base Station	736
 WATRA Executive Secretariat and Member States	5677
 WATRA Member States	5675,1,4
+WHAT’S NEW IN ICT STATISTICS Page	11424
 WIPO Intellectual Property Statistics	10969
 WORKING CAPITAL AND SOLVENCY STATEMENT	4896
 WTO Joint Statement Initiative	1243

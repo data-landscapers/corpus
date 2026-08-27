@@ -62,6 +62,7 @@ Dar-es Salaam	2816
 Decoder Sales Decoder Repairs	1944
 Deed Number Chitepo Salisbury Township	4896
 Deputy Prime Minister Salah Ahmed Jama	8845
+Di Salvo	11487
 Diem Co and Salt Rock City	5621
 Digital Minister Alioune Sall	5985
 Digital Transformation Minister Ahmed Salem Bede	3333,22,2692
@@ -95,6 +96,7 @@ Ecoles NB Salles SENO	10847
 Ecoles NB Salles Total CASCADES	10847
 Ecoles NB Salles Total CENTRE-NORD	10847
 Ecoles NB Salles Urbain	10847
+Ecuador Egypt El Salvador Equatorial Guinea	11470
 Edna Salvo Kotey	3229
 El Salvador	1851,2276,2722,2482,1383,50,21,206,14
 El Salvador ORTÉZ	6613
@@ -171,6 +173,7 @@ Le Ministre Adji Ali Salatou	3305,662
 Le Salon	10367
 Les Sall Sall	5022
 Low Point of Sale	10901
+Luanda. Salientou	11392
 Léandre Bassolé. Saluant	3406
 M. Adji Ali Salatou	2327,1010,630,22,1385
 M. Ahmed Salem Ould Bede Etfagha	9746
@@ -379,7 +382,7 @@ Salamu	2868
 Salangwa	3791
 Salaries	3583,718,206,2,292,732,2338,3260,3,84,6
 Salaries and Benefits	4153
-Salaries and Remuneration Commission	11247
+Salaries and Remuneration Commission	11247,217
 Salaries and Wages Processing	9437
 Salario Base Personal Civil	4209
 Salario Base Personal Militar	4209
@@ -400,7 +403,8 @@ Salazie	11332
 Saldanha	11248
 Saldanha Bay	11286
 Saldo	4209
-Saldos	1701
+Saldos	1701,9703
+Saldos de Moeda Electrónica	11386
 Sale Commercial for Sale Houses	2888,32,354,504,1444,877,6,100,680,129,293,115
 Sale PSF Private Sector Federation QoS	718
 Sale Price Flat Rate	9409
@@ -434,7 +438,8 @@ Saliem Fakir	6387
 Salient	8408
 Salient Features	4896
 Salient Stakeholder Framework	11131
-Salientou	6585,25,4141
+Salientou	6585,25,4141,734
+Salientou. Fonte	11389
 Salieu Mansaray	10840
 Salif D. Cheickna	2630,489,219,2,36,67,255,485,366,167,1129,22,1037,218
 Salifo Tiemtoré	10827
@@ -476,6 +481,7 @@ Salma Tazi	2103
 Salman	8605,2358,1
 Salman Sulaiman	10764
 Salmon	4432
+Salmonella	11417
 Salogo	10875
 Salome Chapeyama Mdala	9516
 Salome Makau	6484
@@ -505,11 +511,12 @@ Salva Kiir	3583
 Salvador Nguema Funtam	9318,1000
 Salvador Nguema Nfutam	8372
 Salvadori	8604
+Salvaguarda	11374
 Salvaguardada	4274
-Salvaguardar	1701,1818
+Salvaguardar	1701,1818,7922
 Salvatore Eugenio Pappalardo	11006
 Salvatori Abuki and Another	3307
-Salvo	14,730,3465
+Salvo	14,730,3465,7167,12,42
 Salvokop	11192,66,28,10
 Salvokop Precinct PPP Project Various	11248
 Salwind	7778
@@ -530,6 +537,7 @@ Senator Salisu	6536
 Senator Shuaib Afolabi Salisu	3942,2594
 Senator Shuaib Salisu	7853
 Senior Sales	11032
+Senior Sales Director for Middle East	11502
 Servicio Nacional de Salud	1701
 Servicios Esenciales de Salud	4209
 Sierratel and SALPOST	6063
@@ -545,6 +553,7 @@ Statistics SA. SALGA	11289
 Sultan Ma Sallie	3895
 Sumsub’s VP of Sales for Africa	3103
 Sylvère Salako Seidou	7355
+São Salvador	11429
 Taban President Salva Kiir Mayardit	9122
 Tabela Salarial	752
 Technology and Innovation Minister Salima Bah	5908
@@ -562,6 +571,7 @@ VI.1 REPARTITION DES SALLES DE CLASSES	10847
 VI.3 SURFACE DES SALLES DE CLASSE	10847
 VI.4 NATURE ET ETAT DES SALLES	10847
 VP of Sales and Marketing	3600
+Vice President Sales Europe	11500
 Vice President of Sales and Business Development Africa	3281
 Virtual Sales Data Controllers	7746
 WRC-27. Salientou	8996

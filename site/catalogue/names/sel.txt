@@ -74,6 +74,7 @@ Douala. Selon	2393
 Dr. Gaone Seleka	5315
 Dr. Seleka	5315,4836
 Dr. Selim Raihan	10852
+E-Payslip Self-Service Portal	11503
 EDUCMASTER. Selon	10883
 ELEVES PAR SYSTEME D'ENCADREMENT ET SELON	10847
 ELEVES SELON LA DISTANCE PARCOURUE V.5.1	10847
@@ -125,6 +126,7 @@ ICS Director General Selamawit Dawit. Part	6801
 IMF Selected Issues Paper African Department	10997
 IMF Selected Issues Paper No	10997
 IMF Selected Issues Papers	10997
+IV. Select Macroeconomic Indicators Sources	11469
 Idemia and SELP. IN Groupe	2864
 Impact of Self-Generation	11140
 Import Dependency and Self-Sufficiency Ratios	2775
@@ -164,6 +166,8 @@ Mheshimiwa Selemani Moshi Kakoso	6019
 Mheshimiwa Selemani Moshi Kakoso Mbunge	2868
 Mme Zerbo. Selon	3472
 Ms Malebogo Selemogo	10358
+Municípios da Região Centro-Oeste Seleccionados	11390
+Municípios da Região Sul Seleccionados	11390
 NETFIX. Selon	4813
 National Assembly Select Committee	8611
 Navigating the Identity and Self-Worth	2355,176,4,1,56,3,339,96,901,1006,1761,673
@@ -179,6 +183,7 @@ Pakistan Men Self-Employed	11004
 Parlement. Selon	6742
 Parliamentary Select Committee	11
 Participants Will Gain Selected	11314
+Parties Self-Assessment Annual Reporting SPAR Systematic	11417
 Performance of Selected Fisheries Value Chains	2775
 Police and Select Committee	11285
 Port of Mombasa Selected Maritime Indicators PAGE	2775
@@ -192,6 +197,8 @@ Public Private Partnership Selection	5903
 Pétrole. Selon	10402
 Quality and Cost Based Selections	8669
 Quality and Cost-Based Selection	9603
+Quality- and Cost-Based Selection	11417
+Quality-Based Selection	11417
 RDC. Selon	5078,39,6,3400,1952
 REPUBLIC OF CONGO SELECTED ISSUES	1828
 RF-ETRUST. Selon Yaouba Abdoulaye	2704
@@ -223,6 +230,7 @@ SELECTED ISSUES PAPERS	10997
 SELECTED ISSUES Prepared By Hasnae	1828
 SELECTED RTAS	1243
 SELECÇÃO DE EMPRESA DE CONSULTORIA PARA	10769
+SELECÇÃO DOS MUNICÍPIOS ALVO	11390
 SELEVER II	10830
 SELEÇÃO DE EMPRESAS SELECÇÃO DE EMPRESA	10769
 SELF-REGISTRATION IN THE CLIENT REGISTRY Kenya	2709
@@ -254,13 +262,14 @@ Selcom	10799
 Selec	3972
 Seleccionar	2816,6625
 Seleccione	10753
-Select	578,785,625,680,1304,477,798,432,753,1590,584,517,586,1103,29,5,110,61,116,143,10
+Select	578,785,625,680,1304,477,798,432,753,1590,584,517,586,1103,29,5,110,61,116,143,10,184
 Select College	8671
 Select Committee	11285,4
 Select Committees	11230
 Select Financial Period FY	8727
 Select Income Tax	11276
 Select MDAs	6539
+Select Macroeconomic Indicators	11469
 Select Manage Groups	11298
 Select Option	11343
 Select Service	6783
@@ -316,10 +325,12 @@ Selection of RPA	9237
 Selective	6387
 Selectively	4972
 Selectividad	4209
+Selectivity and Sequencing. The CPF	11468
 Selectrelevantattribute	8606
-Selecção	10754,29
+Selecção	10754,29,607,40
 Selecção da Amostra	10777
 Selecção de Projectos	10783
+Selecções	11429
 Seleka	5315,756,2532,1447,101
 Seleka. The DDDC	6071
 Seleke	6948
@@ -338,6 +349,7 @@ Self-Certification	11233
 Self-Employed	11004
 Self-Employed Employed	11004
 Self-Employed Unemployed	11004
+Self-Party Annual Report	11417
 Self-Provision Broad-	6946
 Self-Provision Broadcasting Signal Distributor	6946
 Self-Provisioning Africa Digital Network	6946
@@ -390,8 +402,9 @@ Sello More City Manager OVERVIEW	11231
 Selly Ouane	4177
 SelmAI	2816
 Selma Inocência	2816
+Selo de Identificação	11369
 Selom Komi KLASSOU	436
-Selon	565,78,94,271,223,13,435,1,4,6,116,112,39,39,67,6,192,9,30,12,30,2,32,75,2,81,41,19,9,91,1,52,18,21,6,25,58,36,98,22,24,9,35,22,103,25,19,48,45,50,44,19,14,2,61,41,24,14,8,6,14,2,17,5,1,4,11,55,1,8,10,7,13,7,17,19,31,13,64,24,11,55,35,24,30,3,58,22,26,56,56,3,10,11,55,57,70,122,12,11,45,5,1,57,10,7,51,23,1,1,29,15,16,66,70,12,20,86,144,20,4,35,65,33,6,29,49,10,53,10,43,8,4,17,12,8,2,5,20,80,33,6,22,22,82,37,16,5,1,4,18,7,30,10,4,17,36,1,7,10,3,23,15,4,13,83,7,17,25,31,9,11,3,22,15,43,20,13,9,5,6,9,40,71,11,8,18,72,19,2,2,19,77,17,11,23,22,65,67,22,29,1,90,27,12,9,1,37,7,4,14,17,15,6,7,79,13,17,28,22,37,19,4,2,18,12,2,3,7,2,3,3,4,33,13,16,5,2,1,6,13,4,9,13,6,7,24,7,23,80,31,1,30,2,21,13,1,8,32,2,23,13,20,23,5,2,6,49,32,4,12,8,1,1,14,3,46,42,8,49,1,1,1,11,3,5,43,10,1,57,15,23,23,4,20,1,5,8,4,14,21,25,37,17,2,23,15,10,1,12,18,1,21,58,1,6,9,20,6,5,73,1,9,23,8,1,1,94,1,7,1,16,1,1,82,23,24,13,10,9,26,16,11,31,1,25,10,3,1,15,11,7,42,12,25,28,4,12,73,11,24,73,14,43,18,5,13,3,30,12,29,6,84,15,36,40,21,67,3,22,10,43,15,25,1,12,7,1,14,24,1,14,1,1,28,17,11,7,14,8,23,37,5,119,9,49,1,9,51,8,21,21,10,14,57,13,71,10,161,1,23
+Selon	565,78,94,271,223,13,435,1,4,6,116,112,39,39,67,6,192,9,30,12,30,2,32,75,2,81,41,19,9,91,1,52,18,21,6,25,58,36,98,22,24,9,35,22,103,25,19,48,45,50,44,19,14,2,61,41,24,14,8,6,14,2,17,5,1,4,11,55,1,8,10,7,13,7,17,19,31,13,64,24,11,55,35,24,30,3,58,22,26,56,56,3,10,11,55,57,70,122,12,11,45,5,1,57,10,7,51,23,1,1,29,15,16,66,70,12,20,86,144,20,4,35,65,33,6,29,49,10,53,10,43,8,4,17,12,8,2,5,20,80,33,6,22,22,82,37,16,5,1,4,18,7,30,10,4,17,36,1,7,10,3,23,15,4,13,83,7,17,25,31,9,11,3,22,15,43,20,13,9,5,6,9,40,71,11,8,18,72,19,2,2,19,77,17,11,23,22,65,67,22,29,1,90,27,12,9,1,37,7,4,14,17,15,6,7,79,13,17,28,22,37,19,4,2,18,12,2,3,7,2,3,3,4,33,13,16,5,2,1,6,13,4,9,13,6,7,24,7,23,80,31,1,30,2,21,13,1,8,32,2,23,13,20,23,5,2,6,49,32,4,12,8,1,1,14,3,46,42,8,49,1,1,1,11,3,5,43,10,1,57,15,23,23,4,20,1,5,8,4,14,21,25,37,17,2,23,15,10,1,12,18,1,21,58,1,6,9,20,6,5,73,1,9,23,8,1,1,94,1,7,1,16,1,1,82,23,24,13,10,9,26,16,11,31,1,25,10,3,1,15,11,7,42,12,25,28,4,12,73,11,24,73,14,43,18,5,13,3,30,12,29,6,84,15,36,40,21,67,3,22,10,43,15,25,1,12,7,1,14,24,1,14,1,1,28,17,11,7,14,8,23,37,5,119,9,49,1,9,51,8,21,21,10,14,57,13,71,10,161,1,23,146
 Selon Aboubakar Nacanabo	4550
 Selon Agnès Kabore	10817
 Selon Albert Ndinabé	5856
@@ -536,6 +549,7 @@ Speaker Selection	9399
 Standards Selection Principles	11184
 Starlink RDC. Selon	9925
 Starlink. Selon	6241
+State Parties Self-Assessment Annual Reporting	11417
 Summary of Select Recommendations	10841
 Susan Sellars	11156
 TAYE ATSKE SELASSIE PRESIDENT	7538

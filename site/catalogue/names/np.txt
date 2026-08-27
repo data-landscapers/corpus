@@ -23,6 +23,7 @@ Movement SA NPC	5533
 Multiphase Programmatic Approach NPV Net Present	6539
 NBFIs NPLs SACU SADC SDRs SME	11131
 NDC Nationally Determined Contribution NPV Net	1264
+NEA National Electrification Analysis NPV Net	11380
 NGO Non-Governmental Organisation NPA National Prosecuting	11188
 NGO Non-Governmental Organization NPV Net Present	969
 NGO Nongovernmental Organization NPV Net Present	10768
@@ -52,7 +53,7 @@ NPISH	2775
 NPISH1	2775
 NPJ Digit Med	8376,2505
 NPL Non-Performing Loans NEET	11271
-NPL Ratio	1828
+NPL Ratio	1828,9641
 NPLs NPS POS QGDP QPM REMCO	11134
 NPP National Women’s Organiser	10523
 NPPA Chief Executive Officer Fodie Konneh	9338

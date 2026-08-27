@@ -176,28 +176,38 @@ C. POLICIAL S ECONOMICOS DISCIPLINA DISCIPLINA	4209
 C16 Disconnect	9237
 CA Centre. Discussions	8567
 CADASTRE Disponibilité	10858
+CADASTRO PREDIAL CAPÍTULO I DISPOSIÇÕES GERAIS	11384
 CAPEX Capital Expenditure CD Compact Disc	6432
 CAPITALES DE DISTRITALES Y MUNICIPALES	4209
 CAPITALES DE DISTRITALES Y MUNICIPALES CAPITALES	4209
 CAPITALES DE DISTRITALES Y MUNICIPALES CATEGORÍA	4209
-CAPÍTULO I DISPOSIÇÕES GERAIS	13,1,153,382,195,8,42,3353,6607
+CAPÍTULO I DISPOSIÇÕES GERAIS	13,1,153,382,195,8,42,3353,6607,609,1,9,4,4,1,3,1,19,14,6,8,5,5,6,3,15
 CAPÍTULO I DISPOSIÇÕES GERAIS Artigo	13,739
+CAPÍTULO I DISPOSIÇÕES PRELIMINARES	11388
+CAPÍTULO I Disposições Gerais ARTIGO	11445
 CAPÍTULO I Disposições Gerais Artigo	2866,3596,508
 CAPÍTULO II Disposições Penais Materiais Artigo	6970
-CAPÍTULO III DISPOSIÇÕES FINAIS	752
+CAPÍTULO III DISPOSIÇÕES FINAIS	752,10657
 CAPÍTULO III DISPOSIÇÕES FINAIS Artigo	752
+CAPÍTULO III DISPOSIÇÕES TRANSITÓRIAS E FINAIS	11433
 CAPÍTULO III Disposições	6462
-CAPÍTULO IV DISPOSIÇÕES FINAIS	10754
+CAPÍTULO IV DISPOSIÇÕES FINAIS	10754,623
 CAPÍTULO IV DISPOSIÇÕES FINAIS Artigo	744
+CAPÍTULO IV DISPOSIÇÕES FINAIS E TRANSITÓRIAS	11443
+CAPÍTULO IV DISPOSIÇÕES TRANSITÓRIAS E FINAIS	11438
 CAPÍTULO IV Disposição	5169
 CAPÍTULO IX DISPOSIÇÕES FINAIS ARTIGO	3519
-CAPÍTULO V DISPOSIÇÕES FINAIS	14
+CAPÍTULO V DISPOSIÇÕES COMPLEMENTARES	11363
+CAPÍTULO V DISPOSIÇÕES FINAIS	14,11359
 CAPÍTULO V DISPOSIÇÕES FINAIS Artigo	14
+CAPÍTULO V DISPOSIÇÕES TRANSITÓRIAS E FINAIS	11467
+CAPÍTULO V Disposições Finais	11359,27
 CAPÍTULO V PESSOAL E DISPOSIÇÕES DIVERSAS	13
 CAPÍTULO VI DISPOSIÇÕES FINAIS	167,3980,6600
 CAPÍTULO VI DISPOSIÇÕES FINAIS Artigo	167,627
-CAPÍTULO VI DISPOSIÇÕES FINAIS E TRANSITÓRIAS	549
+CAPÍTULO VI DISPOSIÇÕES FINAIS E TRANSITÓRIAS	549,10814
 CAPÍTULO VI Disposições Finais ARTIGO	539
+CAPÍTULO VII DISPOSIÇÕES FINAIS E TRANSITÓRIAS	11384,41
 CAPÍTULO VIII Disposições Finais Artigo	6462
 CARPINTERIAS EN GENERAL CAPITALES DE DISTRITALES	4209
 CASE STUDIES GUIDANCE Disclosures	5618
@@ -222,8 +232,9 @@ CODE OF CONDUCT COUNTERING DISINFORMATION	6907
 COMPOSANTS DU DISPOSITIF NATIONAL DE GOUVERNANCE	4403
 CONSOLATA SHRINE DISPENSARY Data Controller INST-72560102649	7167
 CONTINEN. DISTRITALES TOTAL DIRECTIVO PROGRAMACIÓN PRESCOLAR	4209
-COVID-19 Coronavirus Disease	10829,442
+COVID-19 Coronavirus Disease	10829,442,109
 COVID-19 Social Relief of Distress	4667,2165
+CRI Disability-Adjusted Life Years DALYs District	11417
 CRI Disaggregated	10768
 CSD International Statistical Classification of Diseases	1009
 Cabeceras de Distritos	4209
@@ -298,6 +309,7 @@ Consumer Discretionary Industrials Consumer Staples Energy	4972
 Consumer Staples and Consumer Discretionary	4972
 Consumer-Centric Disruption	8130
 Contact Google Distributed Cloud	4434
+Contents Public Disclosure Authorized Results Framework	11469
 Context of Forced Displaceme	10841
 Continuing Misinformation and Disinformation Campaigns	2626
 Contracting and Disposal of Surplus	10008
@@ -311,16 +323,18 @@ Corporate Disaster and Recovery Plan	1000
 Cost Structure and Capital Discipline	4896
 Countering Disinformation	6907
 Countering PRC Propaganda and Disinformation	528
+Country Partnership Framework Public Disclosure Authorized	11475
 Covid Social Relief of Distress	2307
 Covid-19 Social Relief of Distress	2307
 Cozinha Distribuição	10777
-Cumulative Disbursements	2712,1976,1891,349,949
+Cumulative Disbursements	2712,1976,1891,349,949,3518
 Cumulative Distribution Function	4676
 Código Penal. CAPÍTULO III Disposições Processuais	6970
 D. EMPLOYMENT DISAGGREGATED IN THE INDUSTRY-	3862
 D.G GEST. Y CONTR. INFRAESTR. DISTRIB	4209
 D04. Discusses	8605
 DA Designated Account DFIL Disbursement and Financial	10768
+DA INFORMAÇÃO CAPÍTULO I DISPOSIÇÕES GERAIS	11360
 DA. Disbursements	10768
 DATE THE BREACH WAS DISCOVERED	2709
 DCA Directorate of Civil Aviation DDOS Distributed	6946
@@ -350,6 +364,9 @@ DES DISPOSITIONS GENERALES CHAPITRE	785
 DES DISPOSITIONS GENERALES Section	113
 DES DISPOSITIONS GENERALES4 Section	1801
 DES DISPOSITIONS TRANSITDlRES Chapitre	37
+DESENVOLVIMENTO DE APLICAÇÕES E PLATAFORMAS DISRUPTIVAS	11397
+DEVELOPMENT Public Disclosure Authorized PROJECT APPRAISAL	11417
+DFIL Disbursement and Financial Information Letter DNA	11380
 DGI Disponibilité	10858
 DHIS District Health Information System	2775
 DHIS District Health Information System USAID	766
@@ -394,6 +411,8 @@ DISNEY INSURANCE BROKERS LIMITED Data Controller	7167
 DISNEY INSURANCE BROKERS LIMITED Data Processor	7167
 DISOs	10102
 DISPLACED POPULATION IN BURKINA FASO	10864
+DISPONIBILIZAÇÃO DE PLATAFORMAS DE ACESSO	11397
+DISPONIBILIZAÇÃO DO LIVRO DE RECLAMAÇÕES	11369
 DISPOSICION ADICIONAL Se	163
 DISPOSICION DEROGATORIA Quedan	163
 DISPOSICION FINAL	163
@@ -427,14 +446,17 @@ DISPOSIÇÕES COMUNS	10755
 DISPOSIÇÕES DIVERSAS	13
 DISPOSIÇÕES FINAIS	3519,699
 DISPOSIÇÕES FINAIS E TRANSITÓRIAS	10755
-DISPOSIÇÕES GERAIS	4218
-DISPOSIÇÕES GERAIS ARTIGO	3519
+DISPOSIÇÕES FINAIS E TRANSITÓRIAS Artigo	11461
+DISPOSIÇÕES GERAIS	4218,7149,16
+DISPOSIÇÕES GERAIS ARTIGO	3519,7942
+DISPOSIÇÕES GERAIS Artigo	11461
 DISPOSIÇÕES GERAIS E INTRODUTÓRIAS	10755
 DISPOSIÇÕES RELATIVAS AOS PROCESSOS DE FALÊNCIA	10755
 DISPUTE AVOIDANCE AND DISPUTE SETTLEMENT	1243
 DISPUTE RESOLUTION COMMITTEE The Research Council	1154,400
 DISPUTE RESOLUTION Part A General	11181
 DISQUE DUR	9339
+DISREP	11469
 DISSENTERS’ RIGHTS	7198
 DISSENTING SHAREHOLDERS’ APPRAISAL RIGHTS	3714
 DISSENTING SHAREHOLDERS’ APPRAISAL RIGHTS Exemptions	3714
@@ -507,7 +529,7 @@ Direito CAPÍTULO I Disposições Gerais Artigo	6462
 Dis&title	1219
 Dis-Chem	10538
 Dis-Moi Doc	10821
-Disabilities	940,1048,787,230,578,550,1400,350,1063,602,130,328,326,329,134,977,518,231,255,50,307,60,25,12,22,33
+Disabilities	940,1048,787,230,578,550,1400,350,1063,602,130,328,326,329,134,977,518,231,255,50,307,60,25,12,22,33,210
 Disabilities Act	6949,1383,329,134
 Disabilities Feedback Received	9772
 Disabilities Mainstreaming The DHA	5533
@@ -587,12 +609,12 @@ Disaster Risk Management Act	11134
 Disaster Risk Management Department	10348
 Disaster Risk Management Emergency Events Database	10763
 Disaster Risk Management and Adaptive Safety Nets	10763
-Disaster Risk Reduction	970
+Disaster Risk Reduction	970,10450
 Disaster Science	9128
 Disaster and Risk Management Mauritius National Assembly	11332
 Disasters	11245
 Disastrous	1887
-Disbursed	39,6,2,1,43,19,1,4,33,17,77,1,58,34,160,72,17,65,28,1,67,47,25,1,178,23,136,52,1032,1,233,51,2129,1926,15,334,563,1070,2309,317,7,8,1,1,1,1,1,1,85,2
+Disbursed	39,6,2,1,43,19,1,4,33,17,77,1,58,34,160,72,17,65,28,1,67,47,25,1,178,23,136,52,1032,1,233,51,2129,1926,15,334,563,1070,2309,317,7,8,1,1,1,1,1,1,85,2,80,20
 Disbursed AUD	249
 Disbursed CAD	2167
 Disbursed IBRD	2473
@@ -604,7 +626,7 @@ Disbursed USD	85,297,515,231
 Disbursed Undisbursed	6579
 Disbursed Undisbursed IDA-71820	1228
 Disbursed-usd	607
-Disbursement	11,11,565,563,57,660,606,51,251,214,1664,486,5690,3,132
+Disbursement	11,11,565,563,57,660,606,51,251,214,1664,486,5690,3,132,426
 Disbursement Categories	1228,56
 Disbursement Category	4653
 Disbursement EPTC Loan Agreement	6539
@@ -620,7 +642,7 @@ Disbursement and Financial Information Letter	1264,603,1737,7164,196
 Disbursement and Financial Information Letter. A Designated	1284
 Disbursement of Funds	2775
 Disbursement of NGAAF	2775
-Disbursements	11,639,614,20,1428,177,694,21,1084,1891,254,95,949,2993,94
+Disbursements	11,639,614,20,1428,177,694,21,1084,1891,254,95,949,2993,94,431
 Disbursements Arrangements	1228,56,2320
 Disc Media	3862
 Discapacidad	4209
@@ -629,7 +651,7 @@ Discentes. Direitos	10752
 Discharge	3714
 Discharging	8603
 Disciples of Mercy School	10313
-Disciplina	10760,17
+Disciplina	10760,17,602
 Disciplinary	5147,386,1844,3847,26
 Disciplinary Action	11218
 Disciplinary Enquiries	11134
@@ -724,9 +746,12 @@ Discrimination Public Procurement Procedures Access	10759
 Discrimination Refers	2958
 Discriminatory	940,21,6925,2453,426,10,354,27
 Discriminatory Effects	11148
+Discriminação	11364,1,3,51
+Discriminação de Preço	11403
 Discs	6921
 Discursando	9694,389
 Discurso	1265,683
+Discurso de Investidura	11379
 Discuss	2989,2833
 Discuss Identity System Modernization TUNIS	10521
 Discuss. Another	5822
@@ -749,7 +774,7 @@ Discussion and Implications	7966
 Discussion and Recommendations	4439
 Discussions	1814,16,326,187,26,180,57,108,252,41,225,527,4,14,519,366,28,200,198,48,22,69,55,57,24,244,65,43,27,40,2,18,115,47,149,17,2,15,63,52,86,63,95,41,36,142,54,56,64,30,7,94,34,113,96,423,13,161,68,8,128,7,201,72,61,12,181,66,35,87,203,91,18,27,126,109,1,351,59,19,1,42,42,15,17,21,399,104,146,61,59,22,384,18,154,3,1,10,8
 Discussões	2816
-Disease	1988,1873,399,414,2272,2772,1062,416
+Disease	1988,1873,399,414,2272,2772,1062,416,309
 Disease Detectives	9779
 Disease Management	11131
 Disease Management Principal Investigator	1554
@@ -757,6 +782,7 @@ Disease Outbreak	8183
 Disease Outbreak Module	4153
 Disease Outbreak Surveillance System I	4260
 Disease Prevention	1988
+Disease Surveillance Systems Enhancement Project RIP	11380
 Disease The Borrower	1988
 Disease-specific	771,9198
 Diseases	4674
@@ -797,6 +823,7 @@ Dispatcher Paramedic Paramedic Trainer Admissions Clerk	8603
 Dispatches	7313
 Dispatching	1993
 Dispensaries	1261
+Dispensação	11438
 Dispensers Year	4202
 Dispensing	9855
 Dispensing Standards	9855
@@ -806,6 +833,7 @@ Dispersion	4972
 Displaced	10025,939
 Displaced Number	10964
 Displaced Persons Technical Report	10841
+Displaced and Host Communities Project	11469
 Displacemen	10841
 Displacement	9616,150,1075,444
 Displacement Context	10841
@@ -821,9 +849,10 @@ Displayallpatients Figure14	8606
 Displaying	9779
 Disponibilidad	4209
 Disponibilidad de Recursos Humanos	4209
-Disponibilidade	966,9811,295
+Disponibilidade	966,9811,295,305,41,12,31
 Disponibilidade de Dados	2816
 Disponibilidade de Dicionário	966
+Disponibilidade de Serviços	11430
 Disponibilité	1801,1595,453,6862,1,146,16,101
 Disponibilité de SYC	10858
 Disponibilité des SIU	3396
@@ -833,15 +862,16 @@ Disponibilité du PIP	3396
 Disponibilité du PV	10858
 Disponibilité du SIF	10858
 Disponibilité du SIF Taux	10858
-Disponibilizar	2816,3646,4304,17
-Disponibilização	10777
+Disponibilizar	2816,3646,4304,17,586,12,62,6
+Disponibilização	10777,592,2
 Disponible	747,1,2010,1004,1107,3467,148,407,99,1615
 Disponivel	2816
 Disponíveis	6837
 Disponível	2816
 Disponível Acesso	2816
 Disponível Frey	2816
-Dispor	2438
+Dispor	2438,8992
+Disporem	11443
 Disposable	1988
 Disposable Gloves	1988
 Disposal	1988,1726
@@ -860,12 +890,18 @@ Disposition	1214,2486,3646
 Dispositions	17,291,427,512,4114,546,682,243,320,194,1844,1197,306,143,85,45,173
 Dispositions LMI	6832
 Dispositivo	10747
-Dispositivos	794,2022
-Disposição Transitória	10755
-Disposições	15,2423
-Disposições Finais	576
+Dispositivos	794,2022,8602
+Dispositivos Ilícitos	11430,1
+Disposição Transitória	10755,613
+Disposições	15,2423,8920,1,15,12,70,5
+Disposições Finais	576,10798,51,5
 Disposições Gerais	576,1861
 Disposições Gerais Artigo	5169
+Disposições Institucionais	11390
+Disposições Penais	11374
+Disposições Preliminares	11430
+Disposições Relativas	11360
+Disposições Transitórias	11404
 Disproportionate	3021
 Disproportionate Control	3503
 Dispute	3503,211,147,2571,4706
@@ -879,12 +915,12 @@ Dispute Resolution Board CBE	11134
 Dispute Resolution Committee	11,1543
 Dispute Resolution Committee The Dispute Resolution	1154,400
 Dispute Resolution Committee Total Number of Meetings	1554
-Dispute Resolution Service	1264,20,583,1022,715,2935,4229
+Dispute Resolution Service	1264,20,583,1022,715,2935,4229,649
 Dispute Settlement	1243
 Dispute Settlement Chapter	1243
 Dispute Settlement Mechanism	1243
 Dispute-resolution	6432
-Disputed Area OP	1867,1589,148,7164
+Disputed Area OP	1867,1589,148,7164,649
 Disputed Areas OP	1284,9545,134,1
 Disputed Concession Liberia	8393
 Disputes	961,3649,1822,4792
@@ -909,7 +945,7 @@ Disruptive Tech I-17	10785
 Disruptor	11348
 Disrupção	10762
 Dissatisfaction	2477
-Disse	2688,360,858,805,36,7,551,513,200,154,413,10,146,2255
+Disse	2688,360,858,805,36,7,551,513,200,154,413,10,146,2255,2396
 Dissecting	8460
 Dissecting Racial Bias	5700
 Disseminate	1814,2312,1550
@@ -932,7 +968,7 @@ Distance and Flexible	9755
 Distant	3381
 Distilled	8510
 Distilled Spirits	6921
-Distinct	24,1157,462,177,341,112,501,204,878,380,236,65,482,407,422,1328,5,995,500,152,235,400,101
+Distinct	24,1157,462,177,341,112,501,204,878,380,236,65,482,407,422,1328,5,995,500,152,235,400,101,1811
 Distinct World Bank Angola	1176
 Distinction	9124
 Distinguish	1250,9767
@@ -953,9 +989,11 @@ Distress Calls	736
 Distribución	1701
 Distribución de Transferencias	4209
 Distribuer	3396
-Distribuição	2138,728,7881,10,3,6,6,5
+Distribuição	2138,728,7881,10,3,6,6,5,629,10,5,25
+Distribuição Desenvolvida	11430
 Distribuição da Rede Bancária	10775
 Distributed	1686,1121,2089,10,164,607,561,553,757,1057,518,1644,45,204,114
+Distributed Access	11469
 Distributed Active Archive Center	10794
 Distributed Antenna System	718
 Distributed Cloud	4434
@@ -1050,7 +1088,7 @@ District HMIS	3791
 District Health	11252
 District Health In- District Health Information	10780
 District Health Infonnation System	4301
-District Health Information Software	771,441,7164,1812,690,3,38
+District Health Information Software	771,441,7164,1812,690,3,38,498
 District Health Information System	21,13,362,370,395,100,563,1967,558,3669,358,2400,53,52
 District Health Management Information System	1261
 District Health Management Information Systems	396
@@ -1129,6 +1167,8 @@ Distrito Evinayong	4209
 Distrito Mbini	4209
 Distrito Nsok Nsomo	4209
 Distrito Sanitario	4209
+Distrito Urbano	11373
+Distrito Urbano Cor da Placa	11373
 Distrito Urbano de Andom	4209
 Distrito Urbano de Andom Onvang	4209
 Distrito Urbano de Beayop	4209
@@ -1153,11 +1193,11 @@ Distrito de Nsok Nzomo	4209
 Distrito de Nsok-Nzomo	4209
 Distritos	4209
 Distritos Sanitarios	4209
-Distritos Urbanos	4209
+Distritos Urbanos	4209,7164,52
 Distritos Urbanos Múltiples Nacional	4209
 Disturbance	1988
 Disturbingly	11211
-Distância	10777
+Distância	10777,627
 Distância. NÍVEL DE ENSINO	10766
 Disuhripnrgotcheesssiencgo	11152
 Divert EMS and Dispatch Dataﬂow Informa	8603
@@ -1172,6 +1212,7 @@ Dull Disasters	10763
 Dura Distribution	3583
 Dutch Disease	1828
 E Disqualification	11177
+E. Disposições Institucionais	11441,1
 ECONET INFRACO Distributed Power Africa	4896
 ECOWAS Disbursement and Financial Information Letter EDGE	3604
 ELEVES SELON LA DISTANCE PARCOURUE V.5.1	10847
@@ -1179,6 +1220,7 @@ ELEVES SELON LA DISTANCE PARCOURUE V.5.2	10847
 ELEVES SELON LA DISTANCE PARCOURUE V.5.3	10847
 ELEVES SELON LA DISTANCE PARCOURUE V.5.4	10847
 ELEVES SELON LA DISTANCE PARCOURUE V.5.5	10847
+ENDE Empresa Nacional de Distribuição de Electricidade	11380
 ENERGÍAS TRANSPORTE DISTRIBUC. REG. INS ULAR	4209
 ESTABLISHING CORPORATE DISASTER AND RECOVERY PLAN	1000
 EU. Disponível	2816
@@ -1208,8 +1250,10 @@ Elimination of Discrimination	3583
 Emergency Dispatch A I System	8283
 Emeritus Distinguished Fellow	5044
 Empowering Districts and Schools	6048
+Empresa Nacional de Distribuição de Electricidade	11380
 Energy Disclosure of Public Records	10835,3,130
 Energy Source Disclosure Technologies	7548
+Engagement REDISSE Regional Disease Surveillance Systems	11417
 Enhance Distance Education Environment	2222
 Enhancing Research Dissemination and Uptake	1554
 Entrepreneurship and Skills Acquisition Disparities	6948
@@ -1229,9 +1273,10 @@ Estonian Chamber of Disabled People.49	11006
 Etat Disponibilité	10858
 European Centre for Disease Prevention and Control	8376
 European Commission. Discover	9067
-Expected Disbursements	969,295,603,1695,42,7164,61,135
+Expected Disbursements	969,295,603,1695,42,7164,61,135,453
 Expenditure Framework NCDs Non-Communicable Diseases TB	396
 Expropriation and War and Civil Disturbance	1543
+Extractives Climate Change and Disaster Screening	11380
 FAPP Disponibilité	3396
 FARMACIAS Y SIMILARES CAPITALES DISTRITALES	4209
 FGD Focus Group Discussion FPI European	970
@@ -1313,6 +1358,7 @@ Governing Law and Dispute Resolution Note	8866
 Government AI Readiness Index. Disponível	2816
 Government Authorities Managing Displacement	10841
 Government Authorities Managing Displacement In CAR	10841
+Governo Digital. CAPÍTULO XIII DISPOSIÇÕES FINAIS	11461
 Grant Agreement. Flow of Funds and Disbursement Arrangements	3604
 Greed... Dishonesty	10
 Gross National Disposable Income	2775
@@ -1335,6 +1381,7 @@ Health and Safety PDA Payment Distribution Agent	11198
 Heavily Indebted Poor Countries Internally Displaced	11136
 Historical Disadvantaged Individual HPRS	11252
 Historical Disbursed	6579
+Historical Disbursed Loan	11395
 Historically Disadvantaged Group	6891,3698
 Historically Disadvantaged Groups	5808,5427
 Historically Disadvantaged Individuals	11224
@@ -1362,6 +1409,8 @@ Hype Cycle for Artificial Intelligence. Gartner. Disponível	2816
 I DAS DISPOSIÇÕES GERAIS Artigo	15
 I DISPOSIÇÕES GERAIS ARTIGO	3519
 I DISPOSIÇÕES GERAIS Artigo	15,534,195,50
+I DISPOSIÇÕES GERAIS Publicado	11359
+I Disposições Gerais ARTIGO	11365
 IA SECÇÃO I DISPOSIÇÕES GERAIS ARTIGO	3519
 IA. Disponível	2816
 IA. O ECO. Disponível	2816
@@ -1396,6 +1445,7 @@ IV.1.1.9 Discipline	10876
 IV.1.1.9 Discipline IV.1.1.9.1 Actes	10876
 Ibadan Electricity Distribution Company	8157
 Ibero América. OEI. Disponível	2816
+Idosos. Distribuição	11460
 Iluminação Distribuição	10777
 Implementación Oficina Técnica de Diseño de Proyectos	4209
 Implementation Modalities No Disbursements Arrangements	2473
@@ -1412,13 +1462,14 @@ Information Disclosure Policy	9407
 Information Disclosure Relevant Labor and Working Conditions	1284,9545,135
 Information System DHMT District Health Management	3791
 Informática. Disponível	2816
+Infracção Disciplinar	11425
 Innovation and Creativity Displays	7572
 Input Distribution	9123
 Institute of Open and Distance Education	2989
 Int J Tuberc Lung Dis	10784
 Integrated Disbursement Management System	10964
 Integrated Disbursement SMEs Management System	10964
-Integrated Disease Surveillance and Response	4260,5110
+Integrated Disease Surveillance and Response	4260,5110,2047
 Integration Complexity Architecture Level Distributed	5665
 Integrity and Disciplinary Technical Assistance Unit	11182
 Inteligência Artificial. Disponível	2816
@@ -1431,7 +1482,9 @@ Intermediate Distribution Area IDAs	9123
 Intermediate Distribution Area Redundant	9123
 Internal Displacement	10841
 Internally Displaced Persons	2106,6221,1986,553
+Internally Displaced and Host Governance	11469
 International Centre for Settlement of Investment Disputes	3583
+International Development Association IDA Integrated Disease	11417
 International Disputes	3861
 International Disputes All	3861
 International Journal of Disaster Risk Reduction	11156
@@ -1539,11 +1592,14 @@ Lusaka and Solwezi Districts	1778
 Lysosomal Storage Diseases Brazil Network and Hospital	10188
 M Disbursed IDA	2989
 M Distribution and Access Project	1538
+M Nigeria Distribution Sector Recovery Program	11469
+M P180640 Nigeria Distributed Access	11469
 M. Disbursed	610
 MAFS. Discussions	2872
 MATERIAL PROPERTY DISPOSALS	4896
 MATERIAL PROPERTY DISPOSALS SECTION FOUR	4896
 MDAs Distribute	9123
+MILLION Public Disclosure Authorized	11417
 MOHAIS and Kalumbila District Council	1988
 MONTHS Province District Clinics Community Health	11252
 MUBS Disability Resource and Learning Centre	4028
@@ -1553,7 +1609,7 @@ Mahlatse M. Shekgola. Disclaimer	8021
 Main Distribution Area	9123
 Major Dialogues and Discussions WUF13	11285
 Making Sense of Digital Disintermediation and Development	226
-Man-made Disaster	1867,1695,42,7164,61,135
+Man-made Disaster	1867,1695,42,7164,61,135,453
 Managed Google Distributed Cloud	4434
 Management Disaster Recovery Planning	9123
 Management System and Settlement Distribution Smart Vehicle	4126
@@ -1655,6 +1711,7 @@ National Disaster Risk Reduction and Management Centre	11332
 National Disposable Income and Saving	2775
 National Distribution Control Center	87
 National Electricity Dispatch Activity	87
+National Electricity Distribution Company	11380
 National Institute for Communicable Diseases	9969,1226
 National Plan for Non-Communicable Diseases	10776
 National Radioactive Waste Disposal Institute	11272
@@ -1670,6 +1727,9 @@ Net National Disposable Income	2775
 Net Source of Funds Total Disbursed Remaining	1284
 Nigeria Centre for Disease Control	9969
 Nigeria Centre for Disease Control and Prevention	3721
+Nigeria Distributed Access	11468,1
+Nigeria Distribution	11469
+Nigeria Distribution Sector	11469
 Nigeria. Trop Dis Travel Med Vaccines	10919
 Nira District Registration Officer	2928
 Nkangala District	11281
@@ -1684,6 +1744,7 @@ Nyabihu District	697,73,8069
 Nyagatare District	10152,19
 Nyagatare. Disputes	5070
 Nyarugenge District	4941
+Não Discriminação	11430,1
 O Jornal Económico. Disponível	2816
 OAPI Disponibilité	10858
 OEI. Disponível	2816
@@ -1724,6 +1785,7 @@ PMU-National and District Management	1988
 PMU-National and District Response Management	1988
 POPULATION DISTRIBUTION Data	10763
 POSAF Disponibilité	10712
+PROCEDIMENTO ADMINISTRATIVO DIGITAL SECÇÃO I Disposições	11461
 PROCUREMENT AND DISPOSAL OF ICT EQUIPMENT	34
 PROJECT DEVELOPMENT OBJECTIVE Public Disclosure Authorized	10870
 PROPOSED CREDIT Public Disclosure Authorized	3604
@@ -1757,6 +1819,7 @@ Planning and Discovery	11216
 Point of Sales Persons With Disabilities	10763
 Points Development Discoveries Education	9989
 Policy IDMC Internal Displacement Monitoring Centre	10835,3,130
+Population CLIMATE Climate Change and Disaster Screening	11417
 Portfolio Disbursement	5407,676
 Post Restante Special Delivery Service District	11129
 Postcode. District	11129
@@ -1773,6 +1836,7 @@ Previously Disadvantaged Individuals PERSAL Personnel Salary	11261
 Primary Disaster Centre	10721
 Primature Disponibilité	3396
 Primer Ministro Juez Comarcal Juez Distrito	4209
+Princípio da Discricionariedade Administrativa	11388
 Print Disabilities	6946
 Print Disabilities Area Networks	6946
 Prioritise Dispute Resolution Investment Financial	11138
@@ -1793,17 +1857,22 @@ Provincial and District AGRITEX	520
 Provincial and District Meteorological Officers	520
 Proyecto de Diseño Curricular	4209
 Public Disclosure	2712
-Public Disclosure Authorized	4047,6938
+Public Disclosure Authorized	4047,6938,490
 Public Disclosure Authorized Adaptive Safety Nets	10963
 Public Disclosure Authorized Benin Economic Governance	10870
-Public Disclosure Authorized FOR OFFICIAL USE	3604,7360
+Public Disclosure Authorized COUNTRY PARTNERSHIP FRAMEWORK	11469
+Public Disclosure Authorized FOR OFFICIAL USE	3604,7360,453
 Public Disclosure Authorized FROM THE SCALE-UP	3604
+Public Disclosure Authorized Nigeria	11475
 Public Disclosure Authorized No	10985
 Public Disclosure Authorized Project Information Document	3456,7507
-Public Disclosure Authorized Public Disclosure Authorized	1228,1761,1664,3002,3059,49,16,50,307
+Public Disclosure Authorized Public Disclosure Authorized	1228,1761,1664,3002,3059,49,16,50,307,270,62
+Public Disclosure Authorized REPUBLIC OF ANGOLA	11417
 Public Disclosure Authorized REPUBLIC OF ZAMBIA	1988
 Public Disclosure Authorized SOCIAL PROTECTION	10985
 Public Disclosure Authorized Social Protection and Jobs	10964
+Public Disclosure Authorized Supporting Documents Table	11469
+Public Disclosure Authorized The Executive Directors	11475
 Public Disclosure Authorized The World Bank	3456,7414,93
 Public Disclosure Portal Policy Statement	7548
 Public Disclosure of Violations	5665
@@ -1834,6 +1903,8 @@ Record of Discussion	697,73
 Red de Distribución de MT	4209
 Region Prefecture Health Districts Population	10829
 Regional Disease Surveillance System Enhancement	10829
+Regional Disease Surveillance Systems Enhancement	11417
+Regional Disease Surveillance Systems Enhancement Project	11380
 Regional Displacement	10841
 Regional Displacement Characteristics	10841
 Regional Displacement Characteristics The Central Africa	10841
@@ -1847,10 +1918,12 @@ Regulação da Inteligência Artificial. Gov.br. Disponível	2816
 Report. Disclaimer	10313
 Reporting and Dissemination	4528
 Resident District Commissioners	5731
+Responsabilidade Disciplinar	11425
 Responsables Distribue	10876
 Results and Discussion	1248
 Rethinking How Africa Discovers Innovation	10067
 Reuters. Disponível	2816
+Revised Cancelled Disbursed Undisbursed	11395
 Revised Data Signal Distributors Category FY	6946
 Room for Disagreement Aside	1812
 Rotterdam District Court	8904
@@ -1896,6 +1969,7 @@ STATEMENTS AND FURTHER REQUIREMENTS Disclosure	3714
 Saaba Disponibilité	3396
 Sales and Distribution Director	10249
 Samendeni Disponibilité du Procès-Verbal	3396
+Saurimo. Disse	11484
 Schedule. DISTRIBUTED BY VERITAS	413
 Scheme of Reconstruction Disclosure	4896
 School of Economic Disciplines	5700
@@ -1967,6 +2041,7 @@ Staples Retailing Distribution	4972
 Starlink Now Displays	4601
 State of Disaster	2307
 State-owned Distribution	4301
+Statement of IFC’s Committed and Disbursed Portfolio Nigeria	11469
 Strait of Hormuz Disruption Scenario	10718
 Sub-Project Disbursement Schedule	1867
 Summary of BofA and Citi Discussion Materials	7198
@@ -1977,6 +2052,7 @@ Sustaining Use of District Health Information System	150
 System GNDI Gross National Disposable Income	2775
 TABLE REALLOCATION BETWEEN DISBURSEMENT CATEGORIES Current	1228
 TB Dispensaries	10784
+TERRITORIAIS CAPÍTULO I DISPOSIÇÕES GERAIS	11409
 TESORO PÚBLICO DISCOTECAS Y SIMILARES	4209
 TF Status Original Revised Cancelled Disbursed	2712,1976,2240,949,2993
 TIENDAS ARTESANALES CAPITALES DE DISTRITALES	4209
@@ -2013,9 +2089,11 @@ True Value Discovery	4896
 Type Approval and Distribution	8916
 Type of Disability	2775
 Type of Disability and Sex	2775
+TÍTULO I DISPOSIÇÕES GERAIS	11430
 TÍTULO IV DISPOSIÇÕES FINAIS E TRANSITÓRIAS	15
 TÍTULO IV Disposições Finais	15
 TÍTULO V DE LA DISTRIBUCIÓN	4209
+TÍTULO VII DISPOSIÇÕES FINAIS E TRANSITÓRIAS	11430
 Técnico Disciplina Deportiva Militar Servicio	4209
 U.S. Centers for Disease Control and Prevention	10641
 UBO Disclosure	9750
@@ -2069,6 +2147,7 @@ Water Disconnections	9437
 Wearables for Chronic Disease Management	9456
 Western Area Urban District	8903
 Western Cape District West Coast Boland	8999
+Western Cape E-Hailing Association. Discussions	11494
 WhatsApp. Disponível	2816
 White Pages Retrieve Information for Display Reference	1009
 White Paper Discussion Document	11236

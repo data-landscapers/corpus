@@ -649,7 +649,7 @@ Afatrading Company Limited Data Processor INST-1678087797A	7167
 Afr-ix Telecom Limited	3386
 Africa Clinical Research Management Limited. Data	7167
 Africa Data Centres Holdings Limited	462,133
-Africa Data Hub Holding Limited	10793
+Africa Data Hub Holding Limited	10793,696,9
 Africa Merchant Assurance Company Limited Data	7167
 Africa Mobile Networks Communication Limited	3862
 Africa's Voices Foundation Limited Data Controller	7167
@@ -1758,6 +1758,8 @@ Comviva Technologies Nigeria Limited	3862
 Concorde Co-operative Savings and Credit Society Limited	7167
 Coninx Industries Limited Data Controller INST-746467CD26B	7167
 Consult Limited. Auditors	9650
+Contas Bancárias Limites	11403
+Contas de Moeda Electrónica Limites	11403
 Contractor CSM Tech Limited	10411
 Contributions and Limitations	7242
 Coordination Limitation	3502,1
@@ -2525,7 +2527,8 @@ Limitations of Existing Evidence Existing	8301
 Limitação	10755
 Limitações	2816,703
 Limite	9480
-Limited	60,64,104,1,32,45,89,310,78,116,29,12,18,3,8,44,141,7,58,45,20,270,260,455,208,853,56,328,126,22,264,175,59,488,48,66,10,275,30,225,31,85,182,255,159,194,24,161,239,104,2,8,90,78,37,5,42,87,44,115,104,242,345,39,127,136,501,190,488,339,94,33,106,32,205,293,1,60,14,26,10,5,130,16,142,9,2,1,6,28,25,55,4,33
+Limite de Crédito	11386
+Limited	60,64,104,1,32,45,89,310,78,116,29,12,18,3,8,44,141,7,58,45,20,270,260,455,208,853,56,328,126,22,264,175,59,488,48,66,10,275,30,225,31,85,182,255,159,194,24,161,239,104,2,8,90,78,37,5,42,87,44,115,104,242,345,39,127,136,501,190,488,339,94,33,106,32,205,293,1,60,14,26,10,5,130,16,142,9,2,1,6,28,25,55,4,33,116,68
 Limited Access	1988
 Limited Authority Guidelines	11131
 Limited Awareness and Digital Literacy	6936
@@ -2546,6 +2549,7 @@ Limited Data Processor INST-962062D5FA8 NAIROBI Kenya	7167
 Limited Data Processor INST-980337D779F NAIROBI UK	7167
 Limited EWATSAN Energy	718
 Limited Fails	11252
+Limited Focus	11400
 Limited GTL Ghana Tech Lab IEAI	4126
 Limited Ho Chi Minh City Branch	2836
 Limited Integration	5665
@@ -2558,6 +2562,7 @@ Limited Note	4896
 Limited Partner	8612
 Limited Partnerships Act	7845
 Limited Progress	8943
+Limited Public Awareness	11400
 Limited Results	10793
 Limited SIM Subscriber Identification Module	6671
 Limited Septembe Accra-North P.O. Box	3386
@@ -2572,8 +2577,9 @@ Limited. Benedict	7664
 Limited. Together	9079
 Limitedinteroperability	8602
 Limiter	12,25,961,7,9871
-Limites	539,4630,1293,497
+Limites	539,4630,1293,497,4444
 Limites da Utilização	10755
+Limites de Valor	11404
 Limiting	7695
 Limiting Conditions	4896
 Limits	1474,2177,3295,1067,2989,26,102
@@ -2621,6 +2627,7 @@ Mawal Technologies Limited Septembe Jungle Road	3386
 Mawingu Networks Limited	147
 Mechanics Econet Global Limited	4896
 Media Limited Data Controller INST-801646B309F NAIROBI	7167
+Medical Services Limited	11469
 Mkel Networks Limited	3862
 MoMo Payment Service Bank Limited and Y'ello	8581
 Mobile Intelligence Limited	3862

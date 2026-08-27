@@ -1,4 +1,6 @@
 A9s de mesure anglo-	1984
+AAEA Associação Angolana	11390
+ACNUR Angola	11460
 ADEA and Angola's Ministry of Education	10359
 AGBOYINOU Angelo	10712
 AKZ Angolan	10765
@@ -31,21 +33,26 @@ ANGLICAN DEVELOPMENT SERVICES EASTERN Data Controller	7167
 ANGLICAN DEVELOPMENT SERVICES EASTERN Data Processor	7167
 ANGLICAN DEVELOPMENT SERVICES NORTH RIFT REGION	7167
 ANGLICAN DEVELOPMENT SERVICES SOUTH RIFT Data	7167
-ANGOLA	4209,6546,21
+ANGOLA	4209,6546,21,684
+ANGOLA ENERGIA	11366
+ANGOLA HEALTH EMERGENCY PREPAREDNESS	11417
 ANGOLA Livelihood Zones and Descriptions	10763
 ANGOLA Mapping	9399
+ANGOLA PARTICIPA EM WORKSHOP ESTRATÉGICO	11473
+ANGOLA Percurso da Digitalização	11480
 ANGOLA RULING PARTY SPLITS OVER HIGH-STAKES	9399
 ANGOLA TELECOM	3093
 ANGOLA Toda	539
-ANGOP	2581,2173,542,13,96,316,981,297,586,82,35,243,108,3,574,530,99,242,204,1087,239
+ANGOLANO	11397
+ANGOP	2581,2173,542,13,96,316,981,297,586,82,35,243,108,3,574,530,99,242,204,1087,239,406,48
 ANGOP. Citado	6356
 ANGOP. Copyright	10767
 ANGORA Stephane BAFING. Adm MMPE	2342
 ANGORA Stéphane	2342
-ANGOSAT	1215,4327
+ANGOSAT	1215,4327,5873
 ANGOSAT II	6585
 ANGOSAT-1	4350
-ANGOSAT-2	4350,1417,220,55,440,31,284,202,263,1619,115,1963
+ANGOSAT-2	4350,1417,220,55,440,31,284,202,263,1619,115,1963,469,38
 ANGOSAT-2 Moxico	6999
 ANGOTIC	3966,138,916,86,1479,11,14,7,2,5,4,8,45
 ANGOTIC Angola ICT Forum	6628
@@ -56,21 +63,35 @@ ANGUI Pascal FAITS MARQUANTS Effectif	2342
 APD Angola	9105
 ASA Angola Adaptive Social Safety Nets	10768
 Activating Angola’s Emergency Operations Center	10776
+Actos TCA Tribunal de Contas de Angola Rua	11473
 Acção. O Futuro Fiscal de Angola	10786
+Adesão da República de Angola	11365
 Adesão de Angola	10750
+Administrativas da República de Angola	11409
 Administração Pública. ANG	4435
+Administração Pública. OE11. Afirmar Angola	11379
 Adolphe ANGOUA. Publié	6180
 Adolphe Angoua	2758
 Adolphe Angoua. Publié	6558,42,82
+Advogados de Angola	11436
 Aeroportos Angolanos Gratuito Saber	9040
+Afirmar Angola	11396,1
 Africa ANG	11045
 Africa Growth O Estado Angolano	10751
 Africa. Angola	10761
 Africa. The Angolan	4275
 Africell Angola	1224,1319,4067
+Africell Angola Afrinet	11412
+Africell Angola Ofertas Tudo	11412
 Africell Angola's HQ	778
 Agenda de Transição Digital de Angola	2581
+Agenda. Em Angola	11394
+Agência Angola Press Facturação	11432
+Agência Angola Press Impressão	11479
 Agência Angola Press L'Angola	9705
+Agência Angola Press Pesquisando. PF Aguarde	11429,3,47
+Agência Angola Press Reposta	11429
+Agência Angola Press Zaire	11485
 Agência Angolana de Protecção de Dados. Artigo	430
 Agência Angolana de Proteção de Dados	1841
 Agência de Protecção de Dados de Angola	10442
@@ -166,7 +187,8 @@ Anglophone West Africa	4901,4715,517
 Anglophone and Francophone	999
 Anglophones	9616
 Ango-	10780
-AngoLEX	4557
+AngoLEX	4557,6801
+AngoLEX Legislação Angolana	11358,16
 AngoNAP	1011
 AngoNAP Fortaleza Data Centre	3075
 AngoREN	6174
@@ -174,12 +196,14 @@ AngoSat	2613
 AngoSat-2	5421
 AngoSat-3	2242,189,182
 AngoSat-II	3555
-Angola	15,129,23,13,40,71,27,84,22,6,8,101,22,84,99,8,26,15,7,162,11,40,25,1,9,98,6,40,23,9,1,2,3,13,120,20,82,84,51,47,120,3,71,26,254,28,66,2,25,61,2,43,63,33,20,64,15,30,8,101,30,63,12,4,13,12,5,272,4,37,2,190,142,16,4,31,36,79,52,6,19,11,37,86,14,8,11,15,13,60,14,60,4,31,29,23,17,2,57,3,42,2,25,75,15,17,63,3,105,30,23,130,18,66,42,110,48,62,24,44,52,9,31,5,25,33,4,10,44,29,12,1,16,6,11,25,25,54,45,1,1,26,152,108,37,42,20,5,6,2,1,54,27,104,1,67,41,27,51,1,102,4,4,11,31,11,1,14,40,1,3,2,11,14,7,2,5,12,2,25,1,17,13,8,7,89,83,14,31,11,1,57,4,109,7,19,106,5,14,34,278,14,46,36,40,129,24,22,63,74,1,6,17,85,1,30,149,1,31,65,70,16,1,1,4,97,36,125,95,4,27,6,76,33,44,118,1,90,9,1,1,32,107,100,1,1,92,166,40,16,144,31,95,10,71,22,171,69,62,180,44,34,2,1,1,1,1,1,1,1,1,1,1,1,2,2,1,1,1,3,1,2,1,1,1,2,1,1,1,2,1,3,1,1,2,27,16,3,54,76,23,40,41,39,29,18,152
+Angola	15,129,23,13,40,71,27,84,22,6,8,101,22,84,99,8,26,15,7,162,11,40,25,1,9,98,6,40,23,9,1,2,3,13,120,20,82,84,51,47,120,3,71,26,254,28,66,2,25,61,2,43,63,33,20,64,15,30,8,101,30,63,12,4,13,12,5,272,4,37,2,190,142,16,4,31,36,79,52,6,19,11,37,86,14,8,11,15,13,60,14,60,4,31,29,23,17,2,57,3,42,2,25,75,15,17,63,3,105,30,23,130,18,66,42,110,48,62,24,44,52,9,31,5,25,33,4,10,44,29,12,1,16,6,11,25,25,54,45,1,1,26,152,108,37,42,20,5,6,2,1,54,27,104,1,67,41,27,51,1,102,4,4,11,31,11,1,14,40,1,3,2,11,14,7,2,5,12,2,25,1,17,13,8,7,89,83,14,31,11,1,57,4,109,7,19,106,5,14,34,278,14,46,36,40,129,24,22,63,74,1,6,17,85,1,30,149,1,31,65,70,16,1,1,4,97,36,125,95,4,27,6,76,33,44,118,1,90,9,1,1,32,107,100,1,1,92,166,40,16,144,31,95,10,71,22,171,69,62,180,44,34,2,1,1,1,1,1,1,1,1,1,1,1,2,2,1,1,1,3,1,2,1,1,1,2,1,1,1,2,1,3,1,1,2,27,16,3,54,76,23,40,41,39,29,18,152,51,1,2,1,1,2,3,1,3,1,3,1,1,2,3,1,1,2,1,3,1,1,1,1,3,1,3,1,1,3,1,2,2,1,1,1,2,1,2,3,2,1,1,2,2,1,1,1,1,1,1,1,1,2,2,2,2,1,3,1,1,3,1,1,1,4,4,2,1,5,1,1,1,1,1
 Angola 2010	9399
 Angola A Xalam Analytics Country Report	10781
 Angola Adaptive Safety Nets Report	10768
 Angola African	10759
-Angola Annual Report	10776
+Angola Angola Health Emergency Preparedness	11417
+Angola Anguilla Antarctica Antigua and Barbuda Argentina	11470
+Angola Annual Report	10776,625
 Angola Anuário Estatístico da Educação	10766
 Angola Avante	7882
 Angola Banking Conference	6360
@@ -202,6 +226,7 @@ Angola Com	10773,4
 Angola Conecta	8854
 Angola Consulte	9040
 Angola Country Climate Development Report	10763,5
+Angola Country Climate and Development Report	11417
 Angola Country Climate and Development Report.pdf	800
 Angola Country Context Angola	10763
 Angola Country Economic Memorandum	10768
@@ -211,6 +236,7 @@ Angola Cuidados	10760
 Angola DPF	10779
 Angola DR Luanda	9260
 Angola DTT	2217
+Angola Data	11387
 Angola Debt and Securities Exchange	7108
 Angola Dificuldades	10760
 Angola Digital Acceleration Program	3966
@@ -220,8 +246,12 @@ Angola Dominica Argentina El Salvador Armenia	10764
 Angola E-mail	10780
 Angola EAC CEMAC CEMAC CEMAC Egypt	6938
 Angola Earth Observation Satellite System	2242
+Angola Elaborado	11387
 Angola Elektronska	10780
 Angola Em Angola	10760
+Angola Energia	11366,14
+Angola Energy	11366
+Angola Energy Sector Engagement Programmatic Technical	11380
 Angola Enhancing the Social Protection System for Human	10768
 Angola Estiveram	10752
 Angola Figure	10763
@@ -231,13 +261,19 @@ Angola Government	10775
 Angola Growth and Inclusion DPF	10779
 Angola Growth and Inclusion DPF PDO1	10779
 Angola HDI Human Development Index MASFAMU	10765,10
-Angola Health System Performance Strengthening Project	10768
+Angola HEPRR	11417
+Angola HEPRR Project	11417
+Angola Health Emergency Preparedness	11417
+Angola Health System Performance Strengthening Project	10768,649
 Angola Huawei	9799
 Angola ICT Cooperation Memorandum of Understanding	3878
 Angola ICT FORUM	6617
 Angola IIMS	10777
+Angola IXP View IXP	11470
 Angola Inquérito de Indicadores Múltiplos	10760,17
 Angola International Labor Organisation National	10763
+Angola Internet Exchange	11470
+Angola Internet Exchange Point	11470
 Angola Janet Adão Doctors	10784
 Angola Joaquim Tomas	10784
 Angola Latest News	11122
@@ -246,12 +282,17 @@ Angola Luanda	4248,1821,1176
 Angola Malaria	10776
 Angola Migration and Foreigners’ Service	10765,10
 Angola Ministry of Finance	2242
+Angola Ministry of Health Implementing Agency	11417
 Angola MoU	3845
 Angola Modernizes Land Administration	10761
 Angola N.º INDICADORES	4044
+Angola NOTA	11418
 Angola National Identity Card	10714
 Angola National Public Health Ad-	10780
 Angola Neusa Lazary Direction	10784
+Angola O Ministro	11402
+Angola O Sistema de Educação	11387
+Angola O Sistema de Transferências Instantâneas KWiK	11465
 Angola OGE	6694
 Angola Page	10779
 Angola Policy	10779
@@ -260,11 +301,12 @@ Angola Poverty Assessment	10768
 Angola Press Agency	10767
 Angola Press Agency. All	10767
 Angola Procura de Planeamento Familiar	10760
-Angola Project	10765,3,7
+Angola Project	10765,3,7,642
 Angola Projecto Njila	1176
 Angola Proparco	10790
 Angola Prácticas	10760
 Angola Public Finance Review	10768
+Angola Public-Private Partnerships Readiness Diagnostic	11380
 Angola Published	10790
 Angola Página	10760
 Angola Revenue Administration	10762
@@ -273,7 +315,9 @@ Angola SPTR	6938
 Angola Saúde	10760
 Angola Smallholder Agricultural Transformation	10768
 Angola Smallholder Agricultural Transformation Project	10768
+Angola Strategy	11366
 Angola Strengthening Statistical Capacity World Bank	974
+Angola Strengthening the National Social Protection System	11375
 Angola Strengthens Maritime Domain Awareness	9399
 Angola TB	10784
 Angola Tel	10769,1
@@ -334,6 +378,7 @@ Angola's MPLA	9399
 Angola's Minister of Telecommunications	3555,312,11,1560,1158,32,36,133
 Angola's Ministry	9399
 Angola's Ministry of Telecommunications	6482,4477
+Angola's National Artificial Intelligence Strategy	11483
 Angola's National Broadband Network	1088
 Angola's National Development Plan	6881
 Angola's National Institute	2573
@@ -345,19 +390,25 @@ Angola's President Signs Repressive Civil Society	9399
 Angola's Privatisation Programme	7134
 Angola's Securitized State	9399
 Angola's Strengthening the National Social Protection System	424
+Angola-ELP Angola	11396
 Angola-France Economic Forum	2242,63
 Angola-Health-System-Assessment-2010.pdf	10780
 Angola-relevant	4275
 Angola-specific	171,10017
 Angola. A Lei	10166
+Angola. A Lei Constitucional	11388
+Angola. A Rede MULTICAIXA	11434
 Angola. AFL	4075,1905
 Angola. ARTIGO	3519
 Angola. Angolan	10775
+Angola. C. Beneficiários	11441,1
+Angola. Com	11391,3
 Angola. Covilhã	10780
 Angola. DDM	10774
 Angola. Due	10763
 Angola. Ele	8309
-Angola. Entre	10760
+Angola. Em Angola	11391
+Angola. Entre	10760,653
 Angola. Esta	2729,8343
 Angola. Expandir	8850
 Angola. Food	10763
@@ -372,18 +423,22 @@ Angola. Historical	10763
 Angola. IDEA	1767
 Angola. Indicators	10763
 Angola. Inquérito Indicadores Múltiplos	10760
+Angola. João Baptista Borges Minister of Energy	11366
 Angola. Mais	10782
 Angola. Microsoft	411
+Angola. Mário Oliveira	11428
 Angola. Na	2729
+Angola. Neste	11379
 Angola. Numa	5405
 Angola. O IIMS	10777
 Angola. O Laboratório de Segurança da Amnistia Internacional	5211
 Angola. O Livro Branco	4146
 Angola. Onde	10750,1
 Angola. Operationally	10763
-Angola. Os	5309
+Angola. Os	5309,6057
 Angola. Over	10763
 Angola. Palavras-chave	10780
+Angola. Para	11394
 Angola. Poverty	10768
 Angola. Preços	8850
 Angola. Primary	651
@@ -393,6 +448,7 @@ Angola. Recorre-se	10777
 Angola. Relatório Anual da OMS	10776
 Angola. Relevance for PA18	10779
 Angola. Relevance of PA15	10779
+Angola. Segundo	11432
 Angola. Segundo António Hou	3692
 Angola. Son	11015
 Angola. Strategic	10776
@@ -406,15 +462,22 @@ Angola. Typically	10763
 Angola. Um Data Center	5954
 Angola. Under	10776
 Angola. University of Cape Town	10763
+Angola. VX	11481
+Angola. Versão	11444
 Angola. While the Code	10765,10
 Angola. With Ericsson	2528
+Angola. Within	11417
+Angola.15 Men	11417
+Angola.A	11482
 Angola.Notably	5363
 Angola.Para Cesaltino Miranda	8160
+Angola.Relativamente	11482
 Angola.Segundo	7667
 Angola.Subsidiária	7667
 Angola.md	1770
+Angola25	11417
 AngolaOms	10776
-Angolan	561,217,310,88,691,375,301,30,218,13,332,470,1,104,269,64,231,107,1039,168,991,87,130,84,227,26,829,56,1,102,6,1,296,50,565,65,144,150,984,287,78,6,7,1,1,2,3,7,1,3,1,1,3,6,169
+Angolan	561,217,310,88,691,375,301,30,218,13,332,470,1,104,269,64,231,107,1039,168,991,87,130,84,227,26,829,56,1,102,6,1,296,50,565,65,144,150,984,287,78,6,7,1,1,2,3,7,1,3,1,1,3,6,169,407,14,37,6,43,12
 Angolan Bank of Investments	10775
 Angolan Banks Association	10775
 Angolan Communications Institute	10771
@@ -424,12 +487,12 @@ Angolan Data Protection Law	10781
 Angolan Debt and Securities Exchange	8340
 Angolan Executive	4104
 Angolan Government	10775
-Angolan Health System	10780
+Angolan Health System	10780,621
 Angolan ID	10775
 Angolan Institute of Communications	3450,21,288,25,1134,486,1063
 Angolan Institutions. Results	10784
 Angolan Journalist Rwanda Overtakes Uganda	4942
-Angolan Kwanza	10763,5
+Angolan Kwanza	10763,5,612
 Angolan Ministry of Health	10776,4
 Angolan Ministry of Health. References Tuberculosis	10784
 Angolan Ministry of Telecommunications	1088,1129,1251
@@ -441,17 +504,21 @@ Angolan Opposition UNITA Rejects Ruling Party	9399
 Angolan Payment System	4876,5899
 Angolan President João Lourenço	2791,920
 Angolan Public Procurement Annual Report	9399
+Angolan Quality System	11493
+Angolan Red Cross	11401
 Angolan SR	10776
 Angolan Securities Exchange	8056
+Angolan Society	11493
 Angolan Space Agency	5421
 Angolan Startup Ecosystem	2573
 Angolan State	8056
 Angolan Taxation	10762
 Angolan and Rwandan	1867
-Angolano	1215,9535,1,1
+Angolana	11390,98
+Angolano	1215,9535,1,1,619,18
 Angolano. O de Identidade	10750
-Angolanos	10751,2
-Angolans	561,663,6,5283,2369,517,1364,2,3,6,1,1,3
+Angolanos	10751,2,679
+Angolans	561,663,6,5283,2369,517,1364,2,3,6,1,1,3,601,37,61
 Angolans. Presidential Decree	10765,10
 Angolans. Weak	10765,10
 Angola’s	10780
@@ -477,11 +544,12 @@ Angola’s JEE Report	10776
 Angola’s Minister of Health	10776
 Angola’s Ministry of Health	10776
 Angola’s NTD	10188
-Angola’s National Development Plan	10780
+Angola’s National Development Plan	10780,637
 Angola’s National Health Development Plan	10776
 Angola’s National Health Information System	10776
 Angola’s National Institute of Statistics	10763
 Angola’s Nationally Determined Contribution	10768
+Angola’s Project	11417
 Angola’s SOE	10779
 Angola’s SP	10768
 Angola’s Workforce	10776
@@ -494,24 +562,27 @@ Angoli. Ključne	10780
 Angoli. Za	10780
 Angonix	1011
 Angonix IXP	1011
-Angop	1176,973,93,2969,775,1977,345,573,115,240,163,306
+Angop	1176,973,93,2969,775,1977,345,573,115,240,163,306,1724,3,47,6
 Angop Benguela	4979
 Angop Cabinda	8053
 Angop Huambo	5721
 Angop Icolo	7667
 Angop Lago Dilolo	6595
-Angop Luanda	2581,512,599,383,1197,33,486,163,20,6,8,81,287,4,225,29,3,2,200,28,97,22,114,35,51,79,65,30,542,3149
+Angop Luanda	2581,512,599,383,1197,33,486,163,20,6,8,81,287,4,225,29,3,2,200,28,97,22,114,35,51,79,65,30,542,3149,431
 Angop Luanda- O Ministério da Educação	9259
+Angop Luanda- Uma	11481
 Angop Lunada	8057
 Angop Malanje	5542
 Angop Mbanza Kongo	5296
+Angop Quarta	11429,3,47
+Angop Quinta	11429,3,47
 Angop Talatona	3137,3172,301,99
 Angop US-Africa Business Summit	3093
 Angop Uíge	6991
 Angop's English	9236
 Angosat Luanda	6610
 Angosat-1	11072
-Angosat-2	3759,108,2107,621,15,8,20,2216,2218
+Angosat-2	3759,108,2107,621,15,8,20,2216,2218,411
 Angosat-2. Depois	11072
 Angosat-2. Em	11072
 Angosat-3	2242,123,66
@@ -526,19 +597,27 @@ Angèle Kandé	8764
 Angüe	8192
 Annex VII. Overview of Angola	10763
 Anuário Estatístico da Educação de Angola	10766
+Ao Banco Nacional de Angola	11368
 Ao Instituto Angolano	10086
+Arquitectura Global de Interoperabilidade de Angola	11371
 Assessment of Angola Public Procurement System	9399
 Associação Angolana	10775
+Associação de Mulheres de Carreiras Jurídicas de Angola	11362
 Atlantic and Angola Cables	3075
 August. Angola	10775
 Automated Clearing House of Angola	6938
 Autoridades de Proteção de Dados de Angola	3079
 Bacharelato MF M F Angola	10766
-Banco Nacional de Angola	2295,842,756,927,1540,980,788,1,1670,956,20,4
+Banco Mundial GdA Governo de Angola GFP	11390
+Banco Nacional Angola	11438
+Banco Nacional de Angola	2295,842,756,927,1540,980,788,1,1670,956,20,4,589,2,7,9,17,1,34,27
 Banco Nacional de Angola Governor Manuel Tiago	8019
 Banco Nacional de Angola. Adicionalmente	10755
+Banco Nacional de Angola. DETERMINO	11403
+Banco Nacional de Angola. Exceptuam-se	11386
 Banco de Desenvolvimento de Angola	144,6708
 Banco de Fomento Angola	5589
+Bank Angola Health Emergency Preparedness	11417
 Belief Capital and SV Angel	10162,37
 Benin Business Angel Network	10887
 Bloomberg. Angolan President Hints At Successor	9399
@@ -555,8 +634,10 @@ CEO of Africell Angola	778
 CEO of Angola Cables	6270
 COMPARATIVE PERSPECTIVES Angola	9399
 CONCLUSION Angola	9399
+CONECTA ANGOLA	11428
 CPJ Africa Director Angela Quintal	10097
 CR. Only Angolan	10775
+Cadastral de Angola	11408
 Cadastro Unico. Angola	10779
 Cameroon's Anglophone	9642
 Camerún ANGONEMANE MVONDO	6613
@@ -584,36 +665,50 @@ Comandante-Geral da Polícia Nacional de Angola	4147
 Comando Geral da Polícia Nacional de Angola	794
 Comando Provincial da Polícia Nacional de Angola	794
 Combating Malnutrition Angola	10776
-Comissão Nacional de Angola	7882
+Comissão Nacional de Angola	7882,3505,91
 Comissão da UEMOA. ANG	11044
 Comunicação de Angola	6585,32,2
-Comunidades Angolanas	539
+Comunidades Angolanas	539,10897
 Conect Angola	3906
-Conecta Angola	4104,2409,72,414,241
-Conecta Angola Comercial	5106,661,275,2501
+Conecta Angola	4104,2409,72,414,241,4188
+Conecta Angola Comercial	5106,661,275,2501,2885
 Conecta Angola Comercial. Durante	8543
 Conecta Angola TVWS	7262
-Constituição da República de Angola	13,1,1,152,263,109,10,195,8,42,2725,88,539,1,71,339,2290,3900,2,5,1,1,16,11
+Constituição da República de Angola	13,1,1,152,263,109,10,195,8,42,2725,88,539,1,71,339,2290,3900,2,5,1,1,16,11,576,1,1,1,1,1,1,2,1,1,2,1,1,5,3,1,1,1,1,3,2,4,2,1,8,1,3,10,6,5,1,2,3,7,2,4,3,3,1,1,1,3,6
+Constituição da República de Angola. VI	11461
+Constituição da República de Angola. Verificação	11461
 Constitution of Angola	10765,10
+Consulares da República de Angola	11452
 Context for Angola	171
+Contexto O Governo de Angola	11463
+Contexto O Projecto de Aceleração Digital de Angola	11440,1
+Correios de Angola	11396,1
 Country Profiles Africa Angola Global Cybersecurity	10764
+Câmara de Compensação Automatizada de Angola	11370
 DATA GOVERNANCE IN AFRICA ANGOLA DATA	10781
-DE ANGOLA	10777
+DE ANGOLA	10777,659
+DE INCLUSÃO FINANCEIRA DE ANGOLA	11426
+DHIS2 Angola	11454
 DIREITOS A Universidade Lusíadas de Angola	10752
+DO INTERIOR DA REPÚBLICA DE ANGOLA	11455
 DRC. On the Angolan Lussati	9399
+Demografia da População de Angola	11390
+Departamento Ministerial da República de Angola	11364,1
 Description Accelerates Angola	1770
 Description Improves Angola	974
+Desempenho CICA Conselho de Igrejas Cristãs de Angola	11390
 Desenvolver Angola	2821
 Desistência Angola	10766
 Desistência Angola Bengo	10766
 Deterioration Angola	10759
 Development of Angola's Payment System	10767
+Diagnóstico da Administração Pública Angola	11394
 Digital Angola	793,8606
 Digital ID The Government of Angola	10775
 Digital Payments Angola	10775
 Digitalização de Angola	1192
 Director General of Angola's National Space Programme	6628
-Direito Angolano	13,1,153,263,119,195,8,42,2813,7147,1,1
+Direito Angolano	13,1,153,263,119,195,8,42,2813,7147,1,1,603,1,3,1,3,1,2,1,1,1,4,1,3,1,1,1,2,1,1,6,2,8,1,3,1,5,5,6,6,2,2,3,5,6,3,15,7
 Direitos Humanos A Universidade Lusíadas de Angola	10752
 Direitos Humanos de Angola	6995
 Direitos Humanos. Universidade Angolana	10752
@@ -626,11 +721,15 @@ Dkt. Angelina Misso	7218
 Do Sistema de Pagamentos de Angola	10755
 Dylan Martheze Angela Itzikowitz	6998
 EFFICIENCY OF ANGOLA’S HEALTH SYSTEM	10780
-ELP Angola	2411
+ELP Angola	2411,8985,1
+ENIF. Em Angola	11426
+ESTRATÉGIA DE LONGO PRAZO ANGOLA	11366
 Economia ANGOTIC	6585
+Economia Angolana	11434
+Educação de Adultos AAPD Agência Angolana de Protecção	11390
 Effectiveness of Angola’s HIS Jedinstveni	10780
 Elevation Angle Please	736
-Em Angola	4086,2712,1461,2498,3,17
+Em Angola	4086,2712,1461,2498,3,17,617,11,54
 Embaixada de Angola	2581,5364
 Embaixador da República de Angola	5319
 Emma Theofelus and Angola	6618
@@ -649,24 +748,27 @@ Ensino Secundário Província Angola Bengo Benguela	10766
 Ensino Secundário Província MF Angola	10766
 Ensino Secundário Província Total Angola	10766
 Ensino Secundário Técnico-Profissional Província MF Angola	10766
+Ensino da República de Angola	11387
 Entidade Certificadora Raiz de Angola	8309
 Environmental The Angola Growth and Inclusion DPF	10779
 Eric-Serge Maye Angouan'd	10087
 Esono Angue	5525
-Estado Angolano	14,1,4131,6605,3
+Estado Angolano	14,1,4131,6605,3,624,8,10,29,5
 Estado Angolano. Mas	10751
 Estado Angolano. Publicado	15
 Estatuto Orgânico da Agência Angolana de Protecção de Dados	167
 Estatísticas Vitais de Angola	10775
 Estrangeiros de Angola	10765,10
-Estratégia de Longo Prazo Angola	5020
+Estratégia Angola	11366
+Estratégia Nacional de Inclusão Financeira de Angola	11426
+Estratégia de Longo Prazo Angola	5020,6442
 Eswatini Somalia Rwanda BEAC Morocco Angola	6938
 Ets Angue	10975
 Eucario Bacale Angüe	758
 Eucario Bacale Angüe. El Programa	758
 Ex- Diretor-geral da ANG	10114
 Executive Summary Angola	10763
-Executivo Angolano	14,3505,627,104,6501
+Executivo Angolano	14,3505,627,104,6501,620,10
 Existing Paratus Angola	1227
 Expanding Immunization Coverage WHO Angola	10776
 Export Credit Line for Banco de Desenvolvimento de Angola	144
@@ -680,10 +782,14 @@ Feira Internacional de Angola	7585,467
 FiTI Regional Coordinator for Anglophone Africa	10112
 Financing and Dates The Angola Growth and Inclusion	10779
 Finanças Públicas de Angola	5319
+Finanças de Angola	11372
 Floods Detecting Flood Events Angola	10763
 Forças Armadas Angolanas	14,4133,6636
 Francophone and Anglophone	10801
+Frequency Angola	11417
 Friends of Angola	5211
+Fórum Económico Angola-RDC	11429,3,47
+GHS Index Country Profile for Angola	11417
 GSMA Head Office One Angel Lane	10856
 Gabon Angel Investor Network	10486
 Gabon Nigeria Madagascar Eswatini Angola Mali	10837
@@ -694,13 +800,21 @@ General Manager of Angola Space Program	6173
 General Tax Administration Angola	6042
 Ghana Angola	10995
 Given Angola	10768
+GoA Government of Angola GRM Grievance	11380
 Good Jobs for Angolan Youth	10768
-Government of Angola	645,1,442,61,1093,894,1070,1781,2056,1356,1364,2,3,7,1,4
+Government of Angola	645,1,442,61,1093,894,1070,1781,2056,1356,1364,2,3,7,1,4,600,37
 Government of Angola and Angolans. GoA	10765
 Government of Angola and Angolans. The GoA	10775
 Government of Angola and Presight	793
+Government of Angola. As for Technical Assistance	11390
 Governo Angolano	10751
-Governo de Angola	1192,3562,1200,641,165,2280,196,163,510,705,144,11
+Governo da República de Angola	11455,18,7
+Governo de Angola	1192,3562,1200,641,165,2280,196,163,510,705,144,11,618,2,5,19,27,1,1,2,4,3,8,1
+Governo de Angola. Estas	11377
+Governo de Angola. Neste	11426
+Governo de Angola. Quanto	11390
+Governo de Angola. Será	11390
+Governos de Angola	11437
 Guinea Chad South Sudan Zambia Angola	10819
 H.E. Simeón Oyono Esono Angüe	8192
 HEALTH EMERGENCIES Angola Prepared For Health	10776
@@ -715,6 +829,7 @@ Hoje Angola	4250
 Hon. Angellah Jasmine Mbelwa Kairuki	6168,2843
 Hon. Angellah Kairuki	6746
 Huawei Safe City Angola. Cat	645
+Human Papillomavirus HPV Angola Human Resources	11417
 I EFIKASNOSTI ZDRAVSTVENOG SISTEMA ANGOLE	10780
 ICRR0024415 Country Angola Programmatic DPF Planned	10779
 ICT. Angolan	5588
@@ -725,6 +840,9 @@ III. IDENTITY ECOSYSTEM IN ANGOLA	10765
 IMA and TIS Tech Angola	6694
 INE Angola	4044,2947
 INE and National Bank of Angola	10775
+INE de Angola	11423
+INSTITUTO ANGOLANO DAS COMUNICAÇÕES	11415,3
+ISIA Instituto Superior Internacional de Angola MAPTSS	11390
 Ilumina Angola	6595
 Iluminar Angola	3906
 Importance of Angola Cables and Uniti Wholesale	6604
@@ -737,14 +855,24 @@ Independência da República de Angola	10772
 India and Angola	2787
 Indigenous Peoples of Angola and Mozambique	10765,10
 Infra-estrutura de Chaves Públicas de Angola	8309
+Inovação Tecnológica de Angola	11443
+Inovação da República de Angola. Gabinete de Estudos	11391
 Institute of Communications of Angola	718
 Instituto Angola	1215
-Instituto Angolano	13,1202,2932,2852,3087
+Instituto Angolano	13,1202,2932,2852,3087,1316,13,13,57
+Instituto Angolano de Acreditação	11381
+Instituto Angolano de Normalização	11381
+Instituto Nacional de Emergência de Angola INEM Instituto	11376
 Instituto Nacional de Estatística de Angola. Anuário	10780
+Insígnia da República de Angola	11419
+Interior da República de Angola	11455
+Internacional FAA Forças Armadas de Angola FAO	11376
+Intervalo de Confiança Angola Inferior Superior Urbana	11421
+Intervalo de Confiança Inferior Superior Angola	11421
 Iraq Anggi Septia Irawan	8376
 Ivoire Ghana Angola Tanzania MW	10781
 Ivoire and Angola	6736,523,29
-Jornal de Angola	561,654,3661,335,3643
+Jornal de Angola	561,654,3661,335,3643,2533
 Jornal de Angola and AFRO Health Observatory. Institutional	10776
 Jornalistas Angolanos	11056
 Jornalistas Angolanos. Foto	5211
@@ -752,8 +880,15 @@ João Carlos Domingos Angola	10776
 João Kiasekoka A Constituição da República de Angola	10782
 Julho. ANG	8744
 July. The Angolan Data Protection Law	8043
+Junho A Constituição da República de Angola	11365
 Kenya and Angola	3867,11,1926,1046
 Kongamano la Kimataifa la Anga	2868
+LARGE HYDROPOWER PLANTS Angola	11366
+LEGISLAÇÃO ANGOLANA APLICÁVEL	11390
+LEGISLAÇÃO Constituição de Angola Códigos Leis Decretos	11358
+Legislação Angolana. Sempre	11390
+Legislação Constituição de Angola Códigos Leis Decretos	11358
+Lei de Governo Digital de Angola	11461
 Leigh Angelo	8563
 Lesotho and Angola. The DHA	5533
 Lessons The Angola ICR	10779
@@ -777,8 +912,9 @@ MF M Angola	10766
 MF M F Angola	10766
 MF M F Angola Bengo	10766
 MF M F Angola Bengo Benguela	10766
-MILLION TO THE REPUBLIC OF ANGOLA	10768
+MILLION TO THE REPUBLIC OF ANGOLA	10768,612
 MW Angola	10781
+Macroeconomic Angola	11417
 Madame Marie Angélique Mame Selbé DIOUF	7641
 Main Findings Angola	10775
 Maio DINÁ MARIA ANGÉLICA ERNESTO	10751
@@ -787,10 +923,12 @@ Malaria and Tuberculosis. After Angola	10776
 Malawi and Angola	7963
 Malawi. Angola	1767
 Mamadou Angelo Diallo	10272
+Map of Angola Transmission Network	11380
 Mapa de Angola INTRODUÇÃO E METODOLOGIA	10777
 Marcos González UNICEF Angola	10748
 Marie Ange Akpa	1266
 Marie Angélique Mame Selbé Diouf	7701
+Mestres Angolanos	11387
 Mhe. Angellah Jasmine Mbelwa Kairuki	7863,1
 Michcoma Angola	9399
 Miguel Angel Acero	3357
@@ -810,7 +948,8 @@ Mozambique and Angola	6775,163
 Mrs. Angela Wamola	5789
 Mrs. Angela Wamola of GSMA	10716
 Ms Angellah Kairuki	4714,2714,2261
-N.º INDICADORES Angola	4044
+N.º INDICADORES Angola	4044,7377
+NOVAS GRANDES HÍDRICAS Angola	11366
 Namibe. O Conecta Angola	6585
 Namibia and Angola	6596,67
 Namibia and Angola. Angola Telecom	5926
@@ -818,32 +957,40 @@ National Assembly of Angola	16
 National Assembly. Angola	10779
 National Bank of Angola	6938,3830,7
 National Bank of Angola National Interbank Large-value	6938
+National Fuel Society of Angola	11380
 National Health Angoli	10780
 National Network for Education and Research of Angola	6174
+National Statistical Institute of Angola	11423
 Negocios de Angola	9399
 Nigeria and Angola	6628,4090
 Nigeria. Angered	8849
 Nigeria’s Mark Angel	1363
-Nuvem Nacional de Angola	5979,1
+Norma Angolana	11450
+Nuvem Nacional de Angola	5979,1,5409
 O Angosat-2	11072
 O Anuário Estatístico da Educação de Angola	10766
-O Banco Nacional de Angola	7115,225,3415
+O Banco Nacional de Angola	7115,225,3415,631,18
 O Conecta Angola	7240
 O Estado Angolano	10747
-O Governo de Angola	10777
-O Instituto Angolano	6999
+O Governo de Angola	10777,664,1
+O Instituto Angolano	6999,4416
+O Ministério da Saúde de Angola	11454
 O Projecto Conecta Angola	7240
-O Projecto de Aceleração Digital de Angola	8594
+O Projecto de Aceleração Digital de Angola	8594,2857
+O TRIBUNAL DE CONTAS DE ANGOLA	11473
 O de Angola	5211
 OMS Angola	10775,5
 Observação da Terra ANGEO-1	5405
+Oferta Angola	11366
 Olea Angok de Micomiseng	4209
 Onafriq Anglophone West Africa	4891
 One-third of Angolans	10768
 Only Angolan	10765,10
+Only The World Bank Angola Health	11417
 Operation Name Angola DPF L	10779
 Ordenamento Jurídico Angolano. ARTIGO	539
 Ordenamento Jurídico de Angola	539,10
+Organizations Republic of Angola Borrower	11417
 Organização Mundial da Saúde Angola Estrada Direita	10776
 Organização Mundial da Saúde OMS Angola	10776
 P168336 TBL Country Angola Operation ID P168336	10779
@@ -851,6 +998,8 @@ P169983 TBL Country Angola Operation ID P169983	10779
 P180693 Angola Accelerate	6539
 PA1. Given Angola	10779
 PARTICIPANTES E BANCO NACIONAL DE ANGOLA	10755
+PROGRAMME AUDIT REPORT Republic of Angola	11401
+PROJECTO DE ACELERAÇÃO DIGITAL DE ANGOLA	11413
 Para Angola	4250,4600
 Paratus Angola	1227
 Paratus and Angola Cables	10781
@@ -859,11 +1008,15 @@ Partido Nacional de Salvação de Angola	10428
 Partido Pacífico Angolano	10428
 Partnership for Progress In Angola	10774
 Parto Em Angola	10760
+Pela República de Angola Adão Correia Francisco	11393
+Peritos Contabilistas de Angola	11381
+Plano Nacional de Desenvolvimento de Angola	11455
 PlaquetteInstitutionnel 18092024 Ang.pdf	1896
 Policy Areas The Angola Development Policy	10779
-Polícia Nacional de Angola	794
+Polícia Nacional de Angola	794,10661
 Polícia Nacional de Angola. Artigo	794
 Por Vicente Nkulu Nkulu Angue	8048,105,1
+Portal da Legislação Angolana	11358,16
 Portos Angolanos	8729
 Portugal and Angola Cables' AngoNAP Fortaleza DC	3075
 Positions Angola	4382
@@ -883,8 +1036,13 @@ Produtores Agro-pecuários de Angola	10769
 Programming Interface AKZ Angolan	10775
 Progresso de Aliança Nacional de Angola	10428
 Projecto ANGEO-1	5405
-Projecto Ilumina Angola	6595
-Projecto de Aceleração Digital de Angola	2581,4113,2185,1030
+Projecto Aceleração Digital de Angola	11442
+Projecto Aceleração Digital de Angola Acrónimos	11442
+Projecto Angola Online	11418
+Projecto Ilumina Angola	6595,4823
+Projecto de Aceleração Digital de Angola	2581,4113,2185,1030,1504,27,1,1,2,4,3,5,5,2
+Projecto de Aceleração Digital de Angola A. Visão	11442
+Projecto de Aceleração Digital de Angola PADA	11442
 Projecto de Educação Digital de Angola	10490
 Projecto de Transformação Agrícola de Angola	10769
 Provisórias Improvisadas Angola	10766
@@ -894,26 +1052,45 @@ Província MF Angola Bengo Benguela Bié	10766
 Província Matriculados Aprovados Angola Bengo Benguela	10766
 Província Reprovados Desistidos Angola Bengo Benguela	10766
 Província Total Angola	10757
+Public Disclosure Authorized REPUBLIC OF ANGOLA	11417
 Pós-licenciatura MF M F Angola	10766
 Qualifications System By Ange J.A de Berry	6747
 REPUBLIC OF ANGOLA	1914
 REPUBLIC OF ANGOLA and INTERNATIONAL BANK	1914
+REPÚBLICA DE ANGOLA	11409
+REPÚBLICA DE ANGOLA Avaliação	11376
 REPÚBLICA DE ANGOLA MINISTÉRIO DA EDUCAÇÃO	10766
+REPÚBLICA DE ANGOLA PRESIDENTE DA REPÚBLICA	11461
+REPÚBLICA DE ANGOLA PROJECTO DE FORTALECIMENTO	11390
 REPÚBLICA DE ANGOLA PROPOSTA DE LEI	3519
-RGÃO OFICIAL DA REPÚBLICA DE ANGOLA	539
+REPÚBLICA DE ANGOLA Relatório	11376
+RGÃO OFICIAL DA REPÚBLICA DE ANGOLA	539,10826
+RSI da República de Angola	11376
 Raxio Angola	3686,7270
 Raxio Opens Angola’s Largest Data Centre	10956
 Recent Angola	10781
+Rede Mulher Angola	11362
 Reference Angwin	8436
 Regulators Algeria Financial Stability Committee Angola	6938
 Rep. Eritrea Guinea-Bissau T4 Evolving Angola	10764
 Reprovação Desistência Angola	10766
 Republic Angola	10775
-Republic of Angola	974,1317,1915,2333,125,2735,1369,7
+Republic of Angola	974,1317,1915,2333,125,2735,1369,7,626,16,61
+Republic of Angola Average	11417
 Republic of Angola Civil Identification Substantive	10775
 Republic of Angola FAS Local Development Institute	10768
+Republic of Angola Programme Audit	11401
 Republic of Angola and Country Director Albert G	1770
-República de Angola	14,153,3352,628,6600,3,22,3
+Republic of Angola and Gavi	11401
+Republic of Angola. Components Cost	11417
+Republic of Angola’s Ministry of Health	11401
+República de Angola	14,153,3352,628,6600,3,22,3,589,1,8,8,9,6,10,13,14,2,1,25,11
+República de Angola Com Cópia	11436
+República de Angola. ARTIGO	11365
+República de Angola. Cobrança	11435
+República de Angola. Com	11436
+República de Angola. Depósito Legal	11391
+República de Angola. O Programa de Bolsas de Estudo	11472
 Residence Permit In Angola	10775
 Results Report Angola Digital Acceleration Project	2712,3867
 Rev Angol Ciênc	10780
@@ -921,11 +1098,13 @@ Rx Frequency Angles	736
 Rádio Nacional de Angola	5954,20,786
 S. Figueroa Street Los Angeles	3364
 SAWADOGO Angèle	737
+SECTOR ELÉCTRICO ANGOLA POWER SECTOR LONG	11366
 SETIC FP Angola	5319
 SIS Angola	10780
 SIS de Angola. Para	10780
 SLB's Managing Director for Angola	2348
 SME.45 Angola	9399
+SUMÁRIO EXECUTIVO O Governo de Angola	11406
 SV Angel	10162
 SV Angel. Terra	10200
 Sample Angola	10781
@@ -934,15 +1113,25 @@ Saúde de Angola	10760,17,3
 Score Angola	5247
 Score Angola Ghana Kenya Mozambique	5247
 Score Angola’s Overall Governance	10759
+Second Angola Growth and Inclusion DPF Operation	11380
 Secção Francisco Queiroz Universidade Angolana	10752
+Segurança Angolana	11406
 Semlex Group Angola	9399
 Singapur ANG	6613
+Sistema Angolano da Qualidade	11381
 Sistema Educativo Angolano	10766
-Sistema Financeiro Angolano	4820,2520
-Sistema de Pagamento de Angola	10755
-Sistema de Pagamentos de Angola	3137,1683,5935
+Sistema Financeiro Angolano	4820,2520,4037,88
+Sistema Tributário Angolano	11383
+Sistema de Pagamento de Angola	10755,649
+Sistema de Pagamentos de Angola	3137,1683,5935,615,16,17,1,34,27
+Situation Analysis Of Children In Angola	11387
 Slider 30644 and Angola24Hora	9399
+Sobre Nós O Instituto Angolano	11415,13
+Sociais PADA Projecto de Aceleração Digital de Angola	11413
+Social Relevante de Angola	11406
+Social de Angola OSC Organizações da Sociedade Civil	11390
 Solomon Angutsa	4605
+Sonangol Sociedade Nacional de Combustíveis de Angola	11380
 Sonangol and TAAG Angola PA2b S Airlines	10779
 South Africa Finance and Banking Angela Itzikowitz	6998
 South Africa and Angola	2775,5353,2968
@@ -952,7 +1141,14 @@ Statistics Sweden. ANG	8051
 Strengthening Angolan	10780
 Strengthening the Angolan Health	10780
 Strengthening the Angolan Health System	10780
+Subsistema Angolano da Acreditação	11381
+Subsistema Angolano de Acreditação	11381
+Subsistema Pagamentos Móveis de Angola	11370
+Subsistema de Pagamentos de Angola	11370
+Supervisão Governo de Angola	11387
+Supply Angola	11366
 TEKNOLOJIA YA HABARI MHESHIMIWA ANGELLAH JASMINE	6019
+TERM VISION ANGOLA ENERGIA	11366
 TIS Angola	6694,2185
 TIS Tech Angola	6694,8
 Talatona PNUD Angola	10782
@@ -969,11 +1165,18 @@ Thembekile Dr Angela Project Location	1554
 Through AngoREN	6174
 Through Line Advisors Angela Wamola	10856
 Tome and Principe Angola Iraq Saudi Arabia	11005
+Tornar Angola	11371
 Trade and Investment Operation Name Angola DPF3	10779
 Trade and Investment Operation Name Angola DPO2	10779
+Tribunal Constitucional de Angola	11473
+Tribunal Supremo da República de Angola	11473
+Tribunal de Contas Angola	11473
+Tribunal de Contas de Angola	11473
 Tuberculosis Angola Profiles Claudia Robbiati View	10784
 U Angoli	10780
+UCAN Universidade Católica de Angola UIP Unidade	11390
 UN Angola	10776
+UNESCO RAM Angola	11483
 UNICEF Angola	10748,32
 UNICEF Angola's Education Specialist	10748
 UNICEF Angola. Uma	10780
@@ -998,10 +1201,18 @@ Vendor TIS Tech Angola	6694
 Ver Angola	3468,5931
 Vlada Angole	10780
 WB Angola CCDR	800,9963
+WBG Angola	11380
 WFP Angola Country Brief	10763
+World Bank Angola	11375
 World Bank Angola CCDR	800
 World Bank Angola Country Climate Development	10763
+World Bank Angola Health Emergency	11417
+World Bank Angola Health Emergency Preparedness	11417
+World Bank Country Economic Memorandum for Angola	11417
 World Bank-financed Angola Digital Acceleration Project	10765,10
+World Bank. Angola Country Climate and Development	11417
+World Bank. Angola Poverty and Equity Brief	11417
+World Bank. Diagnosing Angola’s WASH Sector	11417
 World Health Organization. Angola	10780
 X Xº Protecção de Dados República de Angola	10770
 Yearbook of Angola	10780

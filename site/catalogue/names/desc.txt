@@ -24,6 +24,7 @@ B. Parent Project Description and Current	1284
 Brief Description	1988
 Brief Description of Scope	1988
 Bénin. Descendu	5718
+CAPÍTULO II DESCRIÇÃO DA CODIFICAÇÃO	11409
 CONSIDERER RESULTATS DERNIERE DESCENTE	10975
 CRITERIA DESCRIPTION Addressed	11252
 CSI Description	3604
@@ -36,7 +37,7 @@ Code Description Page27of35	11180
 Code Description Table	11180
 Code I Description	11180
 Colonne Type Description Exemple	747
-Conditions Type Citation Description Financing	1264,603,1737,2935,4229
+Conditions Type Citation Description Financing	1264,603,1737,2935,4229,649
 Cooperation Acronym Description	11218
 D. Project Description	1704,1752,7507
 DESCRIPTION	11240
@@ -54,6 +55,9 @@ DESCRIPTION OF THE DHS	2709
 DESCRIPTION OF THE PROJECT	1988
 DESCRIPTION Unit	2775
 DESCRIPTIONS	5655
+DESCRIÇÃO DO PROJECTO	11390,23
+DESCRIÇÃO DO PROJECTO Com	11413
+DESCRIÇÃO DO PROJECTO PPSCH	11406
 DESCRiPTiON SUB-TYPES PURPOSE INTERNATIONAL United Nations	961
 DESCRiPTiON SUB-TYPES PURPOSE Internet Governance Internet	961
 DETAILED DESCRIPTION OF ANY ACTION	2709
@@ -71,12 +75,15 @@ Descentralización SOSTENIBLE	1701
 Descentralizar	1701
 Descer	10551
 Descoberta	2816
+Descoberta Comercial	11405
 Descodificam	2816
+Descompilação	11360
 Desconcentración	1701
 Desconcentración ODS	1701
 Desconcentrar	1701
 Desconhecimento	549,10223
-Descontinuar	10772
+Desconhecimento da Língua Portuguesa	11363
+Descontinuar	10772,673
 Descontinuidade de Uso de Contraceptivo	10777
 Descontos	752
 Descrevem	10777
@@ -86,7 +93,7 @@ Described	2161,1518,825,1834,2042
 Describes	422,10847
 Describing	3405,856,3860,680,328,132
 Describing Liberia	8574
-Description	29,1,3,2,4,5,5,1,1,1,2,1,1,1,1,1,1,5,1,1,1,1,1,1,1,1,1,1,1,2,1,6,6,12,1,1,1,5,4,3,3,1,2,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,24,9,2,4,1,1,1,1,1,4,1,1,1,1,1,7,1,1,1,1,23,1,7,2,3,3,1,1,1,5,5,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,17,1,2,13,1,2,13,1,1,3,1,1,1,1,1,1,5,1,4,5,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,3,4,38,1,30,1,7,6,2,1,2,5,2,2,2,2,1,1,1,1,1,1,1,1,1,1,1,4,53,2,2,8,4,13,1,14,4,1,2,1,1,3,1,10,1,9,1,4,1,1,11,6,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,4,1,39,22,8,47,13,2,1,6,3,21,3,3,4,1,4,6,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,5,58,93,1,1,22,6,6,6,1,6,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,27,27,11,7,57,1,1,1,1,17,29,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,10,1,1,2,66,4,1,2,2,1,15,1,1,13,10,1,1,5,14,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,3,6,16,17,15,1,1,38,41,52,28,47,56,1,32,10,53,1,1,1,1,1,1,1,5,46,14,1,1,1,1,1,1,1,1,1,1,1,14,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,11,1,1,10,3,1,2,3,1,1,1,40,1,1,1,1,1,1,1,2,7,1,1,2,1,3,1,1,2,2,3,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,2,1,1,1,4,4,8,2,4,2,1,4,2,2,2,2,1,1,1,2,269,36,330,73,468,173,2,59,11,170,1,39,86,22,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,53,1,49,83,10,44,38,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,35,31,1,1,1,14,4,2,3,1,1,1,34,2,1,1,1,1,3,1,1,4,1,1,1,1,1,1,2,1,1,1,3,1,2,2,2,5,1,1,1,1,1,1,3,1,2,1,1,1,1,1,1,1,6,1,1,2,1,1,2,1,3,26,28,1,1,1,19,38,1,1,1,1,1,4,74,169,285,12,2,3,305,107,21,3,112,67,207,1,219,183,5,1,1,1,13,46,34,28,34,108,30,767,145,346,579,1,41,1,1,33,138,161,231,130,21,114,30,136,12,23,63,109,19,30,74,839,7,61,40,67,118,119,22,1,2,1,90
+Description	29,1,3,2,4,5,5,1,1,1,2,1,1,1,1,1,1,5,1,1,1,1,1,1,1,1,1,1,1,2,1,6,6,12,1,1,1,5,4,3,3,1,2,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,24,9,2,4,1,1,1,1,1,4,1,1,1,1,1,7,1,1,1,1,23,1,7,2,3,3,1,1,1,5,5,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,17,1,2,13,1,2,13,1,1,3,1,1,1,1,1,1,5,1,4,5,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,3,4,38,1,30,1,7,6,2,1,2,5,2,2,2,2,1,1,1,1,1,1,1,1,1,1,1,4,53,2,2,8,4,13,1,14,4,1,2,1,1,3,1,10,1,9,1,4,1,1,11,6,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,4,1,39,22,8,47,13,2,1,6,3,21,3,3,4,1,4,6,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,5,58,93,1,1,22,6,6,6,1,6,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,27,27,11,7,57,1,1,1,1,17,29,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,10,1,1,2,66,4,1,2,2,1,15,1,1,13,10,1,1,5,14,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,3,6,16,17,15,1,1,38,41,52,28,47,56,1,32,10,53,1,1,1,1,1,1,1,5,46,14,1,1,1,1,1,1,1,1,1,1,1,14,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,11,1,1,10,3,1,2,3,1,1,1,40,1,1,1,1,1,1,1,2,7,1,1,2,1,3,1,1,2,2,3,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,2,1,1,1,4,4,8,2,4,2,1,4,2,2,2,2,1,1,1,2,269,36,330,73,468,173,2,59,11,170,1,39,86,22,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,53,1,49,83,10,44,38,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,35,31,1,1,1,14,4,2,3,1,1,1,34,2,1,1,1,1,3,1,1,4,1,1,1,1,1,1,2,1,1,1,3,1,2,2,2,5,1,1,1,1,1,1,3,1,2,1,1,1,1,1,1,1,6,1,1,2,1,1,2,1,3,26,28,1,1,1,19,38,1,1,1,1,1,4,74,169,285,12,2,3,305,107,21,3,112,67,207,1,219,183,5,1,1,1,13,46,34,28,34,108,30,767,145,346,579,1,41,1,1,33,138,161,231,130,21,114,30,136,12,23,63,109,19,30,74,839,7,61,40,67,118,119,22,1,2,1,90,79,24,18,52
 Description ADC	594,2
 Description AFC	240,90,119,593
 Description AFC's Board	4450
@@ -162,6 +169,7 @@ Description Connecting	8603
 Description Construction	123,960
 Description Containing	8603
 Description Context	456,160,208,1,1,1,224,2,368,2,1,1,1,716,2318
+Description Contingency	11417
 Description Continuation	2164
 Description Continues	2964
 Description Contract	847,220,4,1,4,3,363,4,2,3,6,1,1,3
@@ -377,12 +385,14 @@ Description National Cybercrime Coordination Centre	2468,2103
 Description National EMIS Numeric	11180
 Description National Identification	1765,1383,3772
 Description National Identity Management Commission	1273,1196,2103
+Description National Laboratory Quality Policy	11417
 Description National Space Research and Development Agency	1274,1196,2103
 Description Network	402
 Description New-structure	5184
 Description Newly	3604
 Description Nigeria Communication Satellite Limited	1546,921,2103
 Description Nombre	10876
+Description Nominator	11417
 Description Norfund	390,320
 Description Norfund EUR	708,1,220
 Description Norfund NOK	707,221,209
@@ -390,9 +400,10 @@ Description Norfund USD	211,178,124,1719,1,1
 Description Norrsken22	1138,1,1,407
 Description Norway	689
 Description Novastar Ventures	711,219,1
-Description Number	1867
+Description Number	1867,9550
 Description Number of IDs	1867
 Description Number of Shares	4896
+Description Numerator	11417
 Description O Presidente da República	5046,158
 Description OPHI	206
 Description OPIC	90,57,144,1
@@ -401,6 +412,7 @@ Description OTR-ICT Development	5651
 Description Object	2078,2330,1
 Description Ombuds ICT Development	5642
 Description Omidyar Network	289,1,224
+Description One Health Action Plan	11417
 Description Orange	712,221,208
 Description Orange Digital Ventures Africa	515
 Description Orange Money	1142
@@ -420,7 +432,7 @@ Description Partner African	528
 Description PartnerAfrica-Project	2143
 Description Partnership	833
 Description Passports	1730
-Description Percentage	3604
+Description Percentage	3604,7813
 Description Phase	653,754
 Description Phase II of Digital Earth Africa	345
 Description Phase-out	944
@@ -464,6 +476,7 @@ Description Sector-wide	952
 Description Security	1449
 Description Selected	1867
 Description Series	120,491,2280,1,1,1,1,8,1,2273,1,2,16,1
+Description Should	11417
 Description Sida	92,432,195,1522
 Description Sonatel Group	1143,405
 Description Sovereign	450,351,1325
@@ -523,6 +536,7 @@ Description The Gambia	1179
 Description The Horn of Africa Digital Market	806
 Description The Knowledge Hub	630
 Description The Konza Technopolis	1733
+Description The MOH	11417
 Description The Madagascar Financial Inclusion Project	304
 Description The Malian	11186,1,7
 Description The Moroccan InsurTech	5921
@@ -619,7 +633,10 @@ Description. Recording	4455
 Descriptions	5773
 Descriptive	2948,5428,2505
 Descrito	9694
-Descrição	794,172,9789,15
+Descrição	794,172,9789,15,591,8,17,19,1,7,17,18,15
+Descrição Detalhada da Subcomponente	11440
+Descrição Geral	11440,1
+Descrição Geral da Contratação	11448,3,12
 Descrições	2438
 Descubiertos	4209
 Descuentos Num. PERSONAL Mensual Integro Impuestos	4209
@@ -632,6 +649,8 @@ ERS Peer Learning Description CBE	11134
 Effective Date. Sections and Description ESCP	10964
 Encargado de Descentralización	6841
 Endpoint Descriptions	5665
+Entregáveis da Contratação Ref. Entregável Descrição Prazo	11442
+Entregável Descrição Prazo Pagamento E1 Plano	11451
 Escalation Closure Description Consumers	5676
 Eswatini International Trade Fair Description	11131
 Financing Agreement Description Under Category	10964
@@ -659,8 +678,8 @@ IHE Profile IHE Profile Descriotion Referenced	1009
 IHE Profile IHE Profile Description	1009
 II. DESCRIPTION OF ADDITIONAL FINANCING	1284,1605
 II. DESCRIPTION OF PROPOSED CHANGES	1228,1245,2180
-II. PROJECT DESCRIPTION	969,295,603,1737,2935,4229,61
-II. PROJECT DESCRIPTION A. Project Development	1264,603,1737,2935,4229,196
+II. PROJECT DESCRIPTION	969,295,603,1737,2935,4229,61,551
+II. PROJECT DESCRIPTION A. Project Development	1264,603,1737,2935,4229,196,453
 III. DESCRIPTION DES ASPECTS TECHNIQUES	10836
 INTERVENANTS DESCRIPTION DES TACHES DOCUMENTS ET	10876
 IV.1.1.12.5 Description	10876
@@ -676,6 +695,7 @@ KNPHI LIMS Tender Description	7988
 LEGAL Legal Covenants Sections and Description I	3562
 LEGAL Legal Covenants Sections and Description KOE	6539
 LEGAL Legal Covenants Sections and Description Schedule	3604,7164
+LEGAL Legal Covenants Sections and Description Section	11417
 Layer Component Description References Contextual	9128
 Legal Covenants Sections and Description Financing Agreement	10964
 Liquidable Gravamen Descuentos Num. PERSONAL Mensual	4209
@@ -700,6 +720,7 @@ OwnerLand Describes	11180
 PIU. Sections and Description Schedule	10829
 ParentLearnerRelationship Describes	11180
 Pillar Access Connectivity Affordability Description Promote	5676
+Political and Rating Description	11469
 PopulationGroup Describe	11180
 Program Action Plan Action Description Appointment	10870
 Programa de Promoção da Governação Descentralizada	1808
@@ -734,6 +755,7 @@ South Africa. I Code Description	11180
 Stage Description Number	9237
 Strategy Description	4528
 Subproject Description and Activities	1988
+Substantial Risks Description	11417
 Summary Description Operation Abstract	4653
 Summary Description of Proposed Operation The Mozambique	4653
 Summary Table DESCRIPTION Unit	2775

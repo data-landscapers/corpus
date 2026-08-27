@@ -10,6 +10,8 @@ Agencia Nacional de Gestión	4209
 Angola’s Gabinete de Gestão	6638
 Aplicativo de Gestión	4209
 Apoyo Gestión Finanzas Publicas	4209
+Arranjo Institucional de Gestão Ambiental	11406
+Arranjos Institucionais de Gestão Ambiental	11406
 Autonome de Gestion des Dettes CCE	10876
 Autorité de Gestion des Réparations	8237
 BONDOUKOU MANGANÈSE SA Gestion	2342
@@ -36,8 +38,10 @@ Commissions de Gestion Foncière	10876
 Componente de Gestao Financeira	574
 Componente de Gestao da Receita	574
 Compte de Gestion	969
+Concessão de Gestão	11443
 Conselho de Gestão da AMECON	8003
 Consultor de Gestão	10551
+Controlo de Gestão	11435
 Contrôle de Gestion	10975
 Contrôleur de Gestion CIDN	10975
 CÔTE D’IVOIRE ENGINEERING Gestion Patrimoniale	2342
@@ -54,7 +58,9 @@ DE GESTIÓN Y GENERAL DE GENERAL	4209
 DE LA GESTION PRESUPUESTARIA	4209
 DE L’AGENCE DE GESTION DU FONDS	7925
 DELEG. TRAFICO GESTIÓN DE GOBIERNOS GOBIERNOS	4209
+DESENVOLVIMENTO DA INFRA-ESTRUTURA DE GESTÃO	11397
 Departamento de Gestão	167
+Departamento de Gestão de Infra-Estruturas Tecnológicas	11382
 Detailed Gescmotice	3972
 Deutsche Gesellschaft	1099,162,553,89,1701,107,2549,907,719,660,439,37,243,205,641,2,599,252,6,186,151
 Deutschen Gesellschaft	11316
@@ -62,10 +68,17 @@ Directrizes de Gestão de Riscos	6462
 ET DE GESTION DES RISQUES	2342
 EU's GESTDOC	4415,1,1,1
 Engagement des Parties Prenantes PGES Plan de Gestion	10876
-Entidade Gestora	10783
+Entidade Gestora	10783,660
+Entidade Gestora Protecção Social Obrigatória	11433
+Entidade Gestora da Protecção Social Obrigatória	11433,34
+Entidade Gestora da Rede	11438
+Entidade Gestora de Protecção Social Obrigatória	11433,34
+Entidades Gestoras	11443
 Erzielung von Allgemeiner Gesundheitsabsicherung Digital	904
 FLOLEU Gestion	2342
+FUNCIONAMENTO E GESTÃO DA ADMINISTRAÇÃO PÚBLICA	11397
 Finances MGP Mécanisme de Gestion des Plaintes MPA	10876
+Framework Híbrido de Gestão de Portfólio	11451
 Framework de Gestão de Riscos de IA	2816
 GES Ghana Education Service	6936
 GES-PETROGAZ	8269
@@ -88,10 +101,12 @@ GESTOR DE INFRAESTRUCTURAS DE TELECOMUNICACIONES	3179
 GESTÃO DE INCENTIVOS	10769
 GESTÃO DE PESSOAL	4218
 GESTÃO DE RISCO	10755
+GESTÃO DOS RISCOS E IMPACTOS AMBIENTAIS	11390
+GESTÃO E EXPLORAÇÃO DOS POLOS	11443
 GESTÃO ECONÓMICA	167
 GESTÃO FINANCEIRA E PATRIMONIAL	4218
 GIZ Deutsche Gesellschaft	8985
-Gabinete de Gestão	5405
+Gabinete de Gestão	5405,6000,23,9
 Gabinete de Gestão Espacial Nacional. Assegurou	10366
 Geschwind	11133,9
 Gesco-Attinguié	2342
@@ -168,32 +183,52 @@ Gestión de Página Web	4209
 Gestor	2816
 Gestor Municipal	10754
 Gestor de Negócios	2816
+Gestor de Projecto	11448
+Gestores	11436
+Gestores da Saúde	11453
+Gestores de Componente	11390
 Gestores de Informação Científica	8000
 Gestual	10777
-Gestão	13,154,247,925,1,741,2,733,851,551,56,1169,1019,508,3782,2,1,22,3,3
+Gestão	13,154,247,925,1,741,2,733,851,551,56,1169,1019,508,3782,2,1,22,3,3,578,9,1,12,13,1,9,7,2,10,10,3,3,2,5,8,5
+Gestão A&S	11406
+Gestão Adaptativa	11437
 Gestão Autárquica	9403
 Gestão Cibernética	4218
 Gestão Comercial	10614
 Gestão D G P J Direção	6530
+Gestão Documental	11371
 Gestão Económica	2866
 Gestão Informática	10614
 Gestão Informática Administração Local	10614
 Gestão Moderna de Repositórios	8000
 Gestão da Acção Social	10763,5
+Gestão da BDCM	11425
 Gestão da Educação	10766
 Gestão da Educação Secretaria Provincial da Educação Taxa	10766
+Gestão da Educação da Nigéria Digital	11454
+Gestão da Formação	11444
+Gestão da Mudança	11394
 Gestão de Acidente	10747
+Gestão de Cadastro de Veículos Motorizados	11435
 Gestão de Dados	549
+Gestão de Dados da ANPG	11405
 Gestão de Data Centers	5319
+Gestão de Finanças Públicas GRS Grievance Redress	11390
 Gestão de Identidade Electrónica	7466
 Gestão de Incidentes	2784
 Gestão de Incumprimentos de Liquidação	10755
-Gestão de Projectos	8000
+Gestão de Projectos	8000,3390,50,1
 Gestão de Projectos de IA	2816
+Gestão de Reclamações	11386
 Gestão de Recursos Humanos	10614
 Gestão de Recursos Naturais	2816
+Gestão de Resíduos	11390
+Gestão de Resíduos Hospitalares	11390
+Gestão de Resíduos Urbanos	11390
+Gestão de Risco	11438
 Gestão de Risco da Cadeia de Suplementos	2784
 Gestão de Segurança	10747
+Gestão de Transmissão	11435
 Gouvernement du Bénin GRH Gestion des Ressources Humaines	10876
 HIRE GOLD MINE Gestion	2342
 Horn of Africa Deutsche Gesellschaft	886
@@ -212,10 +247,13 @@ IV.1.2 GESTION DU COURRIER	10876
 IV.1.3 GESTION DES IMMOBILISATIONS ET DES	10876
 IV.1.4 Gestion	10876
 IV.1.4.4 Gestion	10876
+Implementação da Política Nacional de Gestão	11448
 Inclusiva Ejes Estratégicos Sistemas de Gestión Estratégica	1701
 Industrias Creativas Ejes Estratégicos Sistemas de Gestión	1701
 Information Gestion	2342
 Instituto Nacional de Gestão	9484
+Instituto Nacional de Gestão de Bolsas de Estudo	11391,81
+Instituto de Gestão de Activos	11457
 Instituto de Gestão de Ativos	10779
 Instrumentos de Gestão	4218
 L'Unité de Gestion du Projet	5983
@@ -234,13 +272,17 @@ Logística Ejes Estratégicos Sistemas de Gestión Estratégica	1701
 L’Unité de Gestion	3715
 MANAGEMENT PATRIMOINE ET SA GESTION	1214
 MANUEL D’OPERATIONS DU PROGRAMME DE GESTION	10876
+MECANISMO DE GESTÃO DE RECLAMAÇÕES	11406
 MEDIDAS DE GESTIÓN DE PERSONAL CAPÍTULO	4209
 MENTAL Y ADMVA. Y GESTIÓN GRAL	4209
 MODES DE GESTION Gouvernance Pilotage	2342
+Mecanismo de Gestão de Reclamações	11406
+Medidas De Gestão Ambiental	11406
 Menaces GAR Gestion Axée	10712
 Ministério da Gestão	10714
 Modelo de Gestão	10783
 Modelo de Gestão Financeira	10750
+Modernização da Gestão da Acção Social	11482
 Mécanisme de Gestion des Plaintes	5221,5655
 Módulo de Gestão	9403
 Módulo de Gestão Urbanística	9403
@@ -252,39 +294,60 @@ Módulo de Gestão de Portfólio	9403
 Módulo de Gestão de Resíduos	9403
 Nasionale Uitvoerende Gesag	11190
 Nyamagabe and PSF GISAGARA GESTION D’EAU	718
+O Departamento de Gestão de Infra-Estruturas Tecnológicas	11382
+O Estatuto da Entidade Gestora	11457
 O Gabinete de Gestão	6610,1933
 O Gestor Municipal	10754
 ORGANES D’ADMINISTRATION ET DE GESTION	1186
+Obrigações da Entidade Gestora	11443
 Omnium de Gestion	10821
 Opérateurs Champions Opportunité Gestion	2342
 PERSEUS MINING COTE D’IVOIRE Gestion	2342
 PERSEUS MINING YAOURE Gestion	2342
+PGAS Plano de Gestão Ambiental	11390,23
 PGIBI Plataforma de Gestão Integrada da Identificação Civil	10765,10
+PLANO DE GESTÃO E MONITORIZAÇÃO AMBIENTAL	11406
 POLITIQUE D’ENDETTEMENT DES UNE GESTION AMÉLIORÉE	2342
+PROCEDIMENTOS DE GESTÃO DA MÃO-DE-OBRA	11406
+PROCEDIMENTOS DE GESTÃO DE MÃO	11390
 PROCEDURES ADMINISTRATIVES IV.1.1 Gestion	10876
 Paweł Gesek	6423
+Pelos Serviços Locais da Entidade Gestora da Protecção	11433
 Plan de Gestion Environnementale	1005
+Plano de Gestão Ambiental	11406
 Plataforma Nacional de Gestión Minera	9303
+Plataforma de Gestão	11480
 Plataforma de Gestão Integrada da Identificação Civil	180,40,10545,10
+Política Nacional de Gestão	11448
 Predecessor GESD	5620
 Princípios de Gestão	167
+Procedimentos de Gestão de Mão-de-Obra	11406
 Progiciel Intégré de Gestion	1993
+Programa Nacional de Gestão Ambiental	11390
 Project Deutsche Gesellschaft	672
+Projecto Nº P178040 QUADRO DE GESTÃO	11390
 Protocolo Nacional de Gestão Integrada da Desnutrição Aguda	10777
 Proyecto de Gestión	4209
 Proyecto de Plan de Gestión	4209
+QGAS Quadro de Gestão Ambiental	11390
+Quadro de Gestão Ambiental	11390
+R.2.3 Programa de Gestão	11376
 RAPPORT ANNUEL SUR LA GESTION	2342
 REGLES DE GESTION	10876
-RGÃOS DE GESTÃO	167,4051
+RGÃOS DE GESTÃO	167,4051,7164
 RGÃOS DE GESTÃO Artigo	167
 ROXGOLD SANGO SA Gestion	2342
 Reforma da Gestão	5443
+Reforço da Gestão de Finanças Públicas	11390
+Regulamento de Gestão	11443
 Relatório de Gestão	1431,660
 République du Bénin. VI.3.2. Gestion	10876
 Résultats GIZ Deutsche Gesellschaft	10712
+SIGFE Sistema Integrado de Gestão Financeira	11390
 SIGIBé Système Intégré de Gestion des Impôts du Bénin	10712
 SIGTAS Système Intégré de Gestion des Taxes	10712
 SISTEMA DE GESTÃO AUTÁRQUICA Visa	9403
+SISTEMA DE GESTÃO DE DOCUMENTOS	11397
 SISTEMA DE GESTÃO DE INTELIGÊNCIA ARTIFICIAL	2816
 SISTEMAS DE GESTIÓN ESTRATÉGICA DE DESARROLLO	1701
 SOCIÉTÉ DE GESTION DES STOCKS PÉTROLIERS	2342
@@ -297,24 +360,32 @@ SUGF Section Urbaine de Gestion Foncière SVGF	10876
 Sahel ARGASC Agence de Gestion	6959
 Secondaires Le Service des Le Service de Gestion	2342
 Section Villageoise de Gestion Foncière TDR Termes	10876
+Secção da Sociedade da Informação. CAPÍTULO IV GESTÃO	11382
+Serviço da Entidade Gestora da Protecção Social	11433
 Sistema Electrónico de Gestão de Incentivos	10769
 Sistema Gestao Orcamental	574
-Sistema Integrado de Gestão	10783
+Sistema Integrado de Gestão	10783,662,13,15
 Sistema Integrado de Gestão Documental	4294
 Sistema Integrado de Gestão Financeira	10768,15,4
+Sistema Integrado de Gestão SIGFE Financeira	11417
+Sistema Integrado de Gestão Tributária	11371
 Sistema Integrado de Gestão Tributária Base da Dados	10762
+Sistema Integrado de Gestão Tributária SPFT	11435
 Sistema Integrado de Gestão de Assentos	2688
 Sistema Integrado de Gestão de Património	10768
 Sistema Integrado de Informação de Gestão	10763
 Sistema Integral de Gestión de Funcionarios	5111,183
+Sistema Nacional Integrado de Gestão Hospitalar	11394,67
 Sistema Nacional de Gestao Documental	570
 Sistema Nacional de Gestão Documental	2434
+Sistema Nacional de Gestão de Regulamentos Técnicos	11381
 Sistema de Gestao de Informacao da Terra	427
 Sistema de Gestao de Residuos Solidos Urbanos	574
 Sistema de Gestao de Terras	574
-Sistema de Gestão	10768
+Sistema de Gestão	10768,613,99
 Sistema de Gestão Autárquica	9403
 Sistema de Gestão da Terra	795
+Sistema de Gestão de Aprendizagem	11463
 Sistema de Gestão de Domínios	1736
 Sistema de Gestão de Inteligência Artificial	2816
 Sistema de Gestão de Inteligência Artificial Em	2816
@@ -323,11 +394,13 @@ Sistema de Informacao de Gestao Financeira	574
 Sistema de Informação de Gestão de Domínios. CV	1736
 Sistemas de Gestión	4209
 Sistemas de Informacao de Gestao Financeira Municipais	574
+Social PGMO Procedimentos de Gestão de Mão-de-Obra PMO	11413
 Société Ivoirienne de Gestion du Patrimoine Ferroviaire	2342
 Société de Gestion	4887,5645
 Sociétés de Gestion	10922
 Solution de Gestion	10024
 Standardised Surveys. GESIS Survey Guidelines. Mannheim	8376
+Subsistema de Gestão de Mercados	11370
 Suivi CTGP Comité Technique de Gestion de Programme	10712
 Suivi. Chaque Comité Technique de Gestion de Programme	10712
 Système Intégré de Gestion	10712
@@ -341,6 +414,7 @@ Système de Gestion	557,5683,4681
 Système de Gestion des Flux	10921
 Système de Gestion des Impôts	3715
 Système de Gestion des Titres	10922
+TEMPLATE DO PLANO DE GESTÃO	11390
 TEXTILE Gestion Patrimoniale	2342
 TITULO IV DE LA GESTIÓN PRESUPUESTARIA	4209
 TONGON SA GESTOCI	2342

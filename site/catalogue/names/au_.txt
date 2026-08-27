@@ -183,7 +183,7 @@ Au Congo-Brazzaville	6241
 Au Conseil	3337,4,1472,2351
 Au Gabon	3581,3874,165,3394
 Au Ghana	4479
-Au Kenya	5082,3811,702,163,1590
+Au Kenya	5082,3811,702,163,1590,144
 Au Mali	5324,1635,661
 Au Maroc	747,1,439,57,4168,845,1160,203,1271
 Au Ministère	2966
@@ -193,6 +193,7 @@ Au Nord	6217
 Au Plan de Passation des Marchés	10876
 Au Projet De Loi N	11034
 Au Royaume-Uni	8515
+Au Rwanda	11492
 Au Sénégal	2280,120,3549,1621,945,616,196,1185,65
 Au T1	7655
 Au Tchad	7620,604,1056

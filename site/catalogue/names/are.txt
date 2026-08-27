@@ -77,6 +77,7 @@ Area-based	10864
 Areas	718,836,3570,553,1155,106,9,1019,798,670,210,379,741,77,48,240,6,53
 Areas Beyond National Jurisdiction	8681
 Areas Management	789,172
+Areas Privadas	11373
 Areas and Deliverables	11188
 Areas for Consideration	10841
 Areas for Further Research	6947
@@ -128,8 +129,9 @@ Continental Free Trade Area ANALYSIS REPORT	10980
 Contributing Practice Areas Agriculture and Food	1867
 Contributing Practice Areas Digital Development Finance	1264
 Contributing Practice Areas Digital Development Governance	3604
+Contributing Practice Areas Energy	11380
 Contributing Practice Areas Governance Digital Development	969
-Contributing Practice Areas Health	10829
+Contributing Practice Areas Health	10829,588
 Contributing Practice Areas Social Protection	10768
 Coverage Area Proposed Frequency Band Proposed	736
 Coverage Areas	7368
@@ -149,7 +151,7 @@ Digital Development Contributing Practice Areas Governance	1284
 Digital Divide Thematic Area	899
 Digitisation and Government Wide Area Network	958
 Directorate General and Area Chiefs	1382
-Disputed Area OP	1867,1589,148,7164
+Disputed Area OP	1867,1589,148,7164,649
 Disputed Areas OP	1284,9545,134,1
 Draft Exclusive Geographic Areas	7980,109
 EA Enumeration Area Figure	582
@@ -194,7 +196,8 @@ Geographic Area and Coverage	11252
 Good Governance Priority Area	970
 Good Governance and Citizens’ Rights Priority Area	970
 GovTech Enablers Index GovTech Focus Areas	10785
-Government Wide Area Network	2386,702,4042,304,1718,2019
+Governance. Focus Areas	11420
+Government Wide Area Network	2386,702,4042,304,1718,2019,332
 Government of Kenya. PARAGRAPH2 AREAS OF COOPERATION	4153
 Government-Wide Area Network	2256
 Greater Banjul Area	332,932,7756,1090
@@ -209,9 +212,10 @@ High-Impact Research Areas	1554
 High-Value Coverage Areas	7368
 Horizontal Distribution Area	9123
 Household Size and Average Area Per Person	2775
+IATA Associação Internacional de Transporte Aéreo AREA	11376
 IDA Horizontal Distribution Area	9123
 IDAs. Horizontal Distribution Area	9123
-INSTITUTIONAL DATA Practice Area	969,315,9545
+INSTITUTIONAL DATA Practice Area	969,315,9545,551
 INTERVENTION FRAMEWORK Priority Area	970
 Identifying Focus Areas and Gaps	7588
 Ife South Local Government Area	10254
@@ -242,6 +246,7 @@ Key Result Areas	958
 Kingdom of Eswatini. Key Areas Supported	11131
 Kosofe Local Government Area	10742
 KwaZulu-Natal's Disease Management Area	2626
+Lagos Metropolitan Area Transport Authority	11469
 Last Mile Connectivity for Rural Area and National	340
 Leaf Area Index	11334
 Leveraging the African Continental Free Trade Area	11140
@@ -274,6 +279,7 @@ Network Area	4608,735,39,3371
 Network Area Framework TechAfrica News	5382
 Nigeria African Continental Free Trade Area	8421
 Nira Tororo Area Manager	2928
+Nutrition and Population Practice Area Eastern and Southern	11417
 OAU Convention. Areas for Consideration	10841
 OUTLOOK AND KEY FOCUS AREAS	10793
 Object Area	1161
@@ -285,7 +291,7 @@ Operation ID P166564 Practice Area	10779
 Overcome Areas of Underperformance	11218
 Overview Of Key Thematic Focus Areas	6936
 POLICY PRIORITY AREAS	958
-PRACTICE AREA	1264,603,1695,42,7164
+PRACTICE AREA	1264,603,1695,42,7164,649
 PRIORITY AREAS	418
 PS4R Area	10841
 PS4R Area PS4R	10841
@@ -299,7 +305,7 @@ Policy Areas EVOBJ TBL Page	10779
 Policy Areas The Angola Development Policy	10779
 Policy Priority Areas	958
 Postcode Area	11129
-Practice Area	1264,603,1695,42,7164,11
+Practice Area	1264,603,1695,42,7164,11,638
 Principles Governance Legal Framework Priority Areas	21
 Print Disabilities Area Networks	6946
 Priority Area	970,234
@@ -369,6 +375,7 @@ Urban Area	11129
 Urban Areas	2775,7988
 Urban Areas Figure	10763
 WAN Wide Area Network WRC World	6946
+WBG Outcome Areas	11469
 Waiting Area	10765,10
 Water Development and Area Plans	1988
 Western Area	8820

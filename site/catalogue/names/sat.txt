@@ -55,6 +55,7 @@ Digital Economy Satellite Account	2868
 Digital Satellite Television ECMS	958
 EM-DAT and DesInventar. Satellite	10763
 ESMF. The Satellite PMU Environmental and Social	1988
+EUMETSAT Satellite Application Facility	11420
 Earth Observation Satellite FUNCTIONS	1131
 Earth Observation Satellite System	2242,63
 Earth Observation and Communication Satellites	1131
@@ -92,7 +93,7 @@ Highly Satisfactory	10779
 Hon. Lupai Satimon Andrew	8940
 ICASA Spells Out Satellite Licensing Rules	6906
 II. CUSTOMER SATISFACTION SURVEY OF MOBILE	5679
-Inquérito Nacional de Satisfação	6619
+Inquérito Nacional de Satisfação	6619,4803
 Interweb Satcom Ltd	3862
 Issue Licenses for More Satellite Operators	3773
 Jiuquan Satellite Launch Centre	4880
@@ -126,7 +127,7 @@ Mobile Satellite Service Terminal	736
 Mobile Satellite Services	10407
 Mobile Satellite Station	736
 Mobile Satellite Station Details Type	736
-Moderately Satisfactory	764,228,4,220,12,56,486,4,281,657,177,100,605,1059,6126,107,78
+Moderately Satisfactory	764,228,4,220,12,56,486,4,281,657,177,100,605,1059,6126,107,78,431
 Moderately Satisfactory Jun	6928
 Moderately Satisfactory Overall Implementation Progress	6579
 Moderately Satisfactory Overall Risk Rating	6579
@@ -206,7 +207,7 @@ Sat-3	2320,1022,179
 Satariano	1243
 Satcab	6663
 Satelaiti	2868,3151
-Satellite	236,526,497,5,390,148,54,31,39,18,44,550,308,67,63,607,42,16,906,8,26,42,437,150,31,137,150,1,35,116,257,68,257,77,320,3,9,55,7,97,2,19,40,7,48,464,548,173,3,38,374,103,500,412,436,37,373,129,52,109,66,405,23,99
+Satellite	236,526,497,5,390,148,54,31,39,18,44,550,308,67,63,607,42,16,906,8,26,42,437,150,31,137,150,1,35,116,257,68,257,77,320,3,9,55,7,97,2,19,40,7,48,464,548,173,3,38,374,103,500,412,436,37,373,129,52,109,66,405,23,99,210
 Satellite Backhaul Service	10407
 Satellite Backhaul Service Providers	10407
 Satellite Backhaul Services	10407
@@ -335,7 +336,7 @@ Satisfacer	1701
 Satisfaction	10,727,2867,2072,375,908,1678,632,1443,426
 Satisfaction Connecting Availability	6051
 Satisfaction Trend Glo T2	6051
-Satisfactory	1228,62,963,636,4988,2902,40,51,16
+Satisfactory	1228,62,963,636,4988,2902,40,51,16,509,22
 Satisfactory Moderately Satisfactory	10779
 Satisfactory Moderately Satisfactory Current	2989
 Satisfactory Overall Implementation Progress	4688,3189,2993
@@ -364,6 +365,7 @@ Satélite	6638,26
 Satélite Doméstico	2242,371
 Service Revenue Annual Revenue Satellite	10407
 Service Satellite	10407
+Sistemas de Comunicações Via Satélite	11382
 Smart Africa Member States. SATA	961
 Smart Africa. The SATA	10819
 Sonatel Expands Satellite Infrastructure Ahead of Growing	965,3804,120,206,402

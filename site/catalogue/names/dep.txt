@@ -47,6 +47,7 @@ Angosat-2. Depois	11072
 Anthropic’s Head of Beneficial Deployments	5286
 Anti-Human Trafficking Department Director Boris	8480
 Antonio Depina. Panel	5509
+Ao Departamento Ministerial	11361
 Apdp Bénin. Depuis	6252
 App. Depuis	2513
 Applied Mathematics Dept. Liberal Arts	10123
@@ -82,6 +83,7 @@ Banking and Monetary Control Department	5317
 Banks and Specialised Deposit-Taking Institutions Act	7114
 Basic Education DDG Deputy Director-General DDM	11261
 Beneficial Deployments	5418
+Beneficiário Efectivo Deputados	11462
 Bloomberg IN DEPTH	7343
 Blue Economy Department of Seychelles	10112
 BoG Payment Systems Department	1384
@@ -131,6 +133,7 @@ Cape Town's Deputy Mayor and Mayoral Committee	6486
 Care Dependence	6222
 Care Dependency Grant	7910
 Cassa Depositi	789,9914
+Centrais de Depósito de Títulos	11370
 Central Bank of Eswatini Deputy Governor	3647
 Central Depository	10853
 Central Depository and Settlement Corporation	7567
@@ -146,7 +149,9 @@ Certification Department and External Auditor Pass Pass	10819
 Chairperson and Deputy Chairperson	585,8281
 Challenges and Digital Transformation The Department	11218
 Chamber of Deputies	2672,1095,1758,149,4978
-Chefe de Departamento	4218
+Chefe de Departamento	4218,7164
+Chefe de Departamento de Estudos	11391
+Chefes de Departamento	11382,67
 Chief Strategy Officer and Deputy CEO of Cybastion	8244
 Child Online Protection Department	4583
 China and India. The Department of Home Affairs	11236
@@ -170,9 +175,11 @@ Communications Department	2450
 Comoros Deploys Digital Payment Switch	2421
 Competition and Economic Analysis Department	8709
 Competitiveness and Investment Global Department	4357
+Complexo. Depois	11435
 Compliance Department	5369
 Computer Science Department	8606
 Computer Science and Information Systems Dept. Economics	10123
+Conta de Depósito de Aceitante	11438
 Controlled Deployment and Pilot Activation	6442
 Controller and Accountant-General's Department	3287
 Conveyancing Department	3379
@@ -296,47 +303,72 @@ Defence DoJ Department of Justice DPME Department	11261
 Defendant United States Department of State	5692
 Dep moy	737
 Depart	4775
-Departamento	1701,2508
+Departamento	1701,2508,7172,54,14
 Departamento Especializado	10750
-Departamento Ministerial	167,382,195,50,3352,1,71,6536,29
+Departamento Governativo	11361
+Departamento Jurídico	11449
+Departamento Ministerial	167,382,195,50,3352,1,71,6536,29,578,20,1,2,2,4,6,1,22,24,2,4,9
 Departamento Ministerial Responsável	10783
+Departamento Ministerial da República de Angola	11364,1
+Departamento Ministerial de Tutela	11371
 Departamento Pedro Cipriano Massiala Telefone	10766
-Departamento de Administração	167,4051
-Departamento de Apoio	4218
+Departamento Técnico Fiscal DPRF	11435
+Departamento da Defesa	11405
+Departamento de Acreditação	11381
+Departamento de Administração	167,4051,7163,1,67
+Departamento de Administração de Sistemas	11382
+Departamento de Apoio	4218,7163,1
 Departamento de Assessoria Técnico-Jurídico	167
 Departamento de Auditoria	167
 Departamento de Avaliação de Desempenho	167
 Departamento de Aviación Civil	4209
+Departamento de Cibersegurança	11382
 Departamento de Comunicación	9927
-Departamento de Comunicação	4218
-Departamento de Comunicações	9236
+Departamento de Comunicação	4218,7163,1
+Departamento de Comunicações	9236,2225
 Departamento de Contencioso. Artigo	167
 Departamento de Cooperação	167
 Departamento de Documentação	167
 Departamento de Estado	2816
 Departamento de Estatística. Artigo	167
+Departamento de Estatísticas	11418
 Departamento de Estudos	1526,1258,32
 Departamento de Gestão	167
-Departamento de Informação	4044,6713,288
+Departamento de Gestão de Infra-Estruturas Tecnológicas	11382
+Departamento de Informação	4044,6713,288,376
 Departamento de Inspecção	167
+Departamento de Intercâmbio	11449
+Departamento de Massificação	11382
 Departamento de Matemática	2816
+Departamento de Metrologia	11381
+Departamento de Metrologia. Serviços de Apoio Agrupados	11381
+Departamento de Normalização	11381
 Departamento de Operações de Cibersegurança	4218
 Departamento de Orçamento	167
+Departamento de Planeamento	11449
+Departamento de Procedimentos Fiscais DSF	11435
+Departamento de Procedimentos Fiscais DTF	11435
 Departamento de Protecção de Infra-Estruturas Críticas	4218
-Departamento de Recursos Humanos	2816
+Departamento de Recursos Humanos	2816,8633
 Departamento de Recursos Humanos Dande. Corrupção	10751
 Departamento de Registo de Ficheiros	167
 Departamento de Relações Internacionais	167
 Departamento de Relações Públicas. Artigo	167
 Departamento de Resposta	4218
 Departamento de Segurança Cibernética	2816,4920
+Departamento de Serviço Público	11461
 Departamento de Serviços Bancários	5169,1293
 Departamento de Sistemas Operativos	9694
 Departamento de Sistemas de Informação	167,2649
+Departamento de Sistemas de Pagamento	11438
 Departamento. Artículo	4209
 Departamentos	4209
-Departamentos Ministeriais	794,398,2954,72,6534,2,18,11
+Departamentos Ministeriais	794,398,2954,72,6534,2,18,11,588,8,2,1,5,10,33,13,15
+Departamentos Ministeriais. Todavia	11394
 Departamentos Ministeriales	4209
+Departamentos Orçamental	11449
+Departamentos Provinciais	11382
+Departamentos Técnico	11435
 Departamentos de Educación	4209
 Departe-	1009
 Departement	1009,10190,14
@@ -402,7 +434,7 @@ Department of Communication Arts	6936
 Department of Communication and Digital Technologies	1695,4488
 Department of Communications	6467,513,157,181,3861,75
 Department of Communications and Digital	10729
-Department of Communications and Digital Technologies	1912,28,177,1147,1911,23,1,399,371,85,299,479,74,74,116,418,74,14,377,109,43,304,511,730,24,59,121,55,194,877,6,158,25,4,31,5,19,11
+Department of Communications and Digital Technologies	1912,28,177,1147,1911,23,1,399,371,85,299,479,74,74,116,418,74,14,377,109,43,304,511,730,24,59,121,55,194,877,6,158,25,4,31,5,19,11,230
 Department of Communications. Accenture	428
 Department of Community Development	11133
 Department of Computer Science	766,4647,3191,1779,953
@@ -423,7 +455,7 @@ Department of E-Government	1376,2267,1455,1972,2146
 Department of E-Government Prosper Mopiwa	9216
 Department of Economic Development and Tourism	9791
 Department of Economic Diplomacy	10592
-Department of Economic and Social Affairs	10714,126
+Department of Economic and Social Affairs	10714,126,629
 Department of Economics	5700,3649,185
 Department of Education	7167,3080,92,841
 Department of Electricity and Energy	11215,14,43
@@ -455,7 +487,7 @@ Department of Health- Garissa County Data Controller	7167
 Department of Health- Garissa County Data Processor	7167
 Department of Higher Education and Training	5533,50,1249,790,1506,237,1029,799,32,23,29,8,18
 Department of Higher Education and Training DTIC	6832
-Department of Home Affairs	2115,566,11,141,392,210,487,745,105,11,3,246,115,386,67,322,202,72,191,125,15,340,1,203,25,235,174,39,25,7,63,919,45,176,278,14,5,159,15,541,177,90,266,15,8,47,782,1,35,6,4,3,11,10,2,16,10,4,4,3
+Department of Home Affairs	2115,566,11,141,392,210,487,745,105,11,3,246,115,386,67,322,202,72,191,125,15,340,1,203,25,235,174,39,25,7,63,919,45,176,278,14,5,159,15,541,177,90,266,15,8,47,782,1,35,6,4,3,11,10,2,16,10,4,4,3,209
 Department of Home Affairs Strategic Plan	2662
 Department of Home Affairs The DHA	5533
 Department of Home Affairs and Government Printing Works	4786
@@ -547,7 +579,7 @@ Department of Tourism	1188,5679,1,3190,44,1134
 Department of Trade	4242,391,553,686,960,335,877,1085,806,1280,6,14,59
 Department of Trade and Industry	5808,375,5057
 Department of Traditional Affairs	11188
-Department of Transport	4554,1973,3797
+Department of Transport	4554,1973,3797,1170
 Department of Transport’s Driving License Card Account	2521
 Department of Use-case	8600
 Department of Veterinary Service Lupane District Fig	1554
@@ -555,7 +587,7 @@ Department of War	5287
 Department of Water	7167
 Department of Water Affairs’ Working for Water	11334
 Department of Water and Sanitation	11236,8,4
-Department of Women	11193
+Department of Women	11193,302
 Department ofJustice and Constitutional Development	1009
 Department's Annual Performance Plan	6512
 Department's POPIA	6512
@@ -644,6 +676,7 @@ Deployed	906,969,4543,253,377,500
 Deployed Technologies	7548
 Deploying	3080,6686,218,747
 Deploying AI Nigeria	9574
+Deploying Africa	11502
 Deploying NVIDIA GPU-powered	2388
 Deploying SOAR	5677
 Deploying the Largest Subsea Fiber-Optic Cable System	2677
@@ -665,7 +698,7 @@ Deployment of Troops	6422
 Deployments	1009,5016
 Deploys	708,3820
 Deploys Asset-Financing Solution for Rwandan Drivers Foluso	7324
-Depois	2816,7934,5
+Depois	2816,7934,5,608,72
 Depois de Luanda	10751
 Depoliticize	1828
 Deport	10729
@@ -698,6 +731,7 @@ Depository Accounts	11233
 Depository Trust	9706
 Depositou	10760
 Deposits	3657,238,3794,3442
+Depositário	11374
 Deprecated Features	5665
 Depreciation	940,214,3742,3512,2385,338,3
 Depreciation Depreciation	1154
@@ -716,14 +750,17 @@ Depth Research	4776
 Depth The Secretary General	5878
 Depto de Fiscalização da Divisão de Regulação	2784
 Depuis	12,1426,241,127,16,439,81,12,23,72,2,105,137,75,198,54,78,2,5,14,38,38,72,89,43,127,64,218,225,103,102,129,55,37,20,295,107,1,75,97,380,92,192,22,142,6,104,1,164,6,61,11,160,225,84,139,214,63,63,97,75,19,47,13,28,120,88,5,39,77,39,58,13,67,60,35,173,289,28,66,22,37,43,29,49,92,2,39,21,66,25,10,111,13,102,44,2,183,1,71,150,313,195,20,14,13,105,48,28,81,94,41,29,108,6,87,73,29,59,42
+Deputada Joana Lina Ramos Baptista	11365
 Deputada Maria de Lourdes Roque Caposso Femandes	539
 Deputada Maria de Lourdes Roque Caposso Fernandes	539
 Deputada Welwitschea José	539
 Deputado	539,10211
+Deputado Bento Joaquim Sebastião Francisco Bento	11365
 Deputado Boaventura da Silva Cardoso	539
 Deputado José António Lopes Semedo	539
-Deputados	539,6579,2587,1047
+Deputados	539,6579,2587,1047,606,104
 Deputados Boaventura da Silva Cardoso	539
+Deputados João Manuel Gonçalves Lourenço	11365
 Deputados. Anteriormente	2816
 Deputados. Representantes	8760
 Deputies	2672
@@ -765,7 +802,7 @@ Deputy Commissioner of Police and Senior Technical Resource	8286
 Deputy Communications Minister	4773
 Deputy Communications Minister Mohammed Adams Sukparu	4137
 Deputy Comptroller-General	9361
-Deputy Coordinator	1284,2320,5623
+Deputy Coordinator	1284,2320,5623,2174
 Deputy DG	1915
 Deputy Daaga Nassouri	7361
 Deputy Data Commissioner John Walubengo	2668
@@ -931,6 +968,8 @@ Deputy Vice-Chancellor	9331,939
 Deputy Zonal Manager	11129
 DeputyDirector	2727
 Depósito Bankita	10775
+Depósito de Aceitante	11438
+Depósitos de Fundos	11386
 Description Department of Digital Communications	1672,977,2999
 Description Department of Shared Digital Services	1673,977,2999
 DevOps Depos	1938
@@ -939,7 +978,7 @@ Development DoA Department of Agriculture DOD Department	11261
 Development and Policy Studies Dept. Public Management	10123
 Devops Depos	1938
 Different Roles and Mutual Dependencies of Data	6948
-Difusão Departamento de Informação	4044
+Difusão Departamento de Informação	4044,7377
 Digital Dependence	5970
 Digital Development Department	1264
 Digital Knowledge Hub Department	10764,80
@@ -986,6 +1025,7 @@ Electoral Commission's ICT Department	7266
 Electricity and Energy Dept Budget Vote	11215
 Elon Musk's Department of Government Efficiency	7750
 Emerging Technologies South Africa Deputy Minister	6480
+Encerramento de Contas de Depósito Bancário	11386
 Enterprises Department	10823
 Enters Active Deployment of Africa-Middle East Fibre	10583
 Equatorial Guinea’s First Deputy Prime Minister	5001
@@ -1019,6 +1059,7 @@ Financial Performance and Per Programme The Department	11230
 Financial Sector Development Department	10718
 Financial Surveillance Department	6938,1845,57,165,122
 Financial Surveillance Department. Version	8840
+Financial and Administrative Department	11417
 Fintech and Innovation Department	7464,142,1126,802
 First Department of Home Affairs	11222
 First Deputy Director of Cabinet Resolution	4640
@@ -1252,6 +1293,7 @@ Ministries Department and Agencies	3862
 Ministries and Departments	1988
 Ministry's International Organizations Department	9358
 Ministry’s Education Support Services Department	8586
+Mobility Department	11494
 Monitoring and Evaluation DPSA Department of Public Service	11261
 Monitoring and Evaluation The Department	11224
 Motor Traffic and Transport Department	9205,1876
@@ -1261,8 +1303,10 @@ Ms N Moyo Deputy Director-General	11261
 Ms. F. DlaminiKunene Deputy Governor Date	11134
 Ms. Ssemuwemba. The Deputy Secretary General	7967
 Muchinga Province Deputy Permanent Secretary Brian	6104
+Muitos Departamentos Ministeriais	11394
 Multiple Access CDSC Central Depository and Settlement	2775
 Municipal Departments of Civil Registry and Notaries	10765,10
+Municipal Health Departments	11401
 NADF’s Partnership and Investor Relations Department	8818
 NASA Deputy Administrator Matthew Anderson and U.S	6897
 NASA Deputy Chief Technologist	8787
@@ -1289,6 +1333,7 @@ National Department of Health Terms	11350
 National Department of Human Settlements	11285
 National Department of SA	10780
 National Department of Tourism. Non-compulsory	10102
+National Department of Transport	11494
 National Director of Communications Deputy National Director	2989
 National Health Insurance. The Department	11224
 National Information System Department	5027
@@ -1305,11 +1350,19 @@ Norms Standards and Quality Department	11184
 Northern Cape Department of Education	10247
 November. The Department of Basic Education	10102
 Number of Grants Care Dependency Grant	8999
+O Departamento Governativo	11361
 O Departamento Ministerial	10783
 O Departamento da Força Aérea	2816
-O Departamento de Administração	4218
-O Departamento de Apoio	4218
-O Departamento de Comunicação	4218
+O Departamento de Acreditação	11381
+O Departamento de Administração	4218,7163,1
+O Departamento de Administração de Sistemas de Redes	11382
+O Departamento de Apoio	4218,7163,1
+O Departamento de Cibersegurança	11382
+O Departamento de Comunicação	4218,7163,1
+O Departamento de Gestão de Infra-Estruturas Tecnológicas	11382
+O Departamento de Massificação	11382
+O Departamento de Metrologia	11381
+O Departamento de Normalização	11381
 O Departamento de Operações de Cibersegurança	4218
 O Departamento de Protecção de Infra-Estruturas Críticas	4218
 O Departamento de Resposta	4218
@@ -1324,7 +1377,9 @@ Oficial Grupo E Responsable Deporte Militar	4209
 Operations Centre Deposit Protection Fund Digital	11134
 Operations Coordination Department	10764,80
 Operators and Service Providers Department	3696
+Operações de Depósito	11438
 Organisation President Commissioners Departments	9067
+Os Departamentos	11449
 Outpatient Department	771
 Overview of Operations The Department	11218
 Oxford Department of International Development	206
@@ -1386,6 +1441,7 @@ References Department of Higher Education and Training	9128
 References Republic of South Africa. Department of Home	6512
 Regional Map Depicts	2677
 Registrar General's Department	11032
+Registrar General's Department Com	11480
 Registrar General’s Department	170
 Registrar-General’s Department	7696
 Regulation The Department	11230
@@ -1394,6 +1450,7 @@ Regulations. The Department of Home Affairs	6512
 Representing the British Deputy High Commission	9358
 Republic of South Africa. Department of Home Affairs	6512
 Republic of South Africa’s Department of Higher Education	6832
+República de Angola. Depósito Legal	11391
 Research Assessment DSI Department of Science and Innovation	5246
 Research Department	587
 Research and Development Victor Teppeh NCA Deputy	236
@@ -1644,6 +1701,7 @@ Western Cape Department of Economic Development and Tourism	11012
 Western Cape Department of Health	396
 Western Cape Department of Infrastructure	8564
 Western Cape Government Department of Infrastructure	11253
+Western Cape Mobility Department	11494
 WhatsApp Department Tags Agriculture	11283
 Willing CERTIFICATION DEPARTMENT Determines	10819
 Works Department The Local Government	11129

@@ -1,6 +1,7 @@
 A. Beneficial Ownership Register	7845
 A. Who Benefits	11140
 AACB Chairperson and Governor of BEAC	4103
+ABRANGÊNCIA E BENEFICIÁRIOS	11390
 AFRO BEAUTY PLASTIC CENTRE LIMITED Data	7167
 AGRIPSYCH BEAM LIMITED Data Controller INST-8527681FC29	7167
 AGRIPSYCH BEAM LIMITED Data Processor INST-8527681FC29	7167
@@ -121,6 +122,7 @@ Angola Bengo	10766
 Angola Bengo Benguela	10766
 Angola Bengo Benguela Bié	10766
 Angola Bengo Benguela Bié Cabinda Cuando	10766
+Angola. C. Beneficiários	11441,1
 Angop Benguela	4979
 Aniel de Beer	10764
 Annual NHIF Members’ Contributions and Benefits Paid	2775
@@ -459,7 +461,9 @@ BSIC BENIN YELLO DISTRIBUTION CAME Traitement	10821
 BUSH AND BEYOND LIMITED Data Controller	7167
 Badouard and Bellon	7790
 Bahir Dar University. Besrat Nigussie	8671
+Bahrain Bangladesh Barbados Belarus Belgium Belize	11470
 Bambari and Berberati	10857
+Banco Africano de Desenvolvimento BEE	11387
 Bandar Seri Begawan Very High EGDI	10840
 Bangladesh X Belize X Burma X	11005
 Bank Of Africa Benin	10821
@@ -584,7 +588,7 @@ Behnke	2816
 Behoudens	11189
 BeiDou Navigation Satellite System	5288
 Beifen Electrical CPE-BEI-TQJ-ARCEP- RAS Technology Co	998
-Beijing	125,1701,1,691,1080,12,7,83,930,46,4,254,207,176,399,641,433,103,53,68,856,144,258,59,164,15,380,31,97,798,210,42,227,55,23,57,13,1,171,34,197,289,19,39
+Beijing	125,1701,1,691,1080,12,7,83,930,46,4,254,207,176,399,641,433,103,53,68,856,144,258,59,164,15,380,31,97,798,210,42,227,55,23,57,13,1,171,34,197,289,19,39,169
 Beijing Declaration and Platform for Action	11193
 Beijing Declaration and Platform of Action	11193
 Beijing Model	5242
@@ -640,7 +644,7 @@ Belarus	6613,212,235,902,2823
 Belarus Global Cybersecurity Index	10764
 Belarus and Russia. A European	8890
 Belarús SENKO	6613
-Belas	7240,3511,14,10
+Belas	7240,3511,14,10,671
 Belasting	11263
 Belasting Administrasiewette	11263
 Belasting-Administrasiewette	11263
@@ -784,20 +788,23 @@ Benadeta Mwaura	6733
 Benadir	10521
 Benameyi	3301
 Benard Maranga	6946
+Benazir Income Support Program	11468
 Benazir Income Support Programme	10985,148,9
 Bench	8978
 Bench Database Exclusive Features Roadmaps Deep	9629
-Benchmark	235,1,982,771,133,3411,2015,242,733,1332,909
+Benchmark	235,1,982,771,133,3411,2015,242,733,1332,909,692
+Benchmark Internacional	11456
 Benchmark Starlink's Total Cost of Ownership	7645
 Benchmark for BFA	1395
 Benchmark for Benin	1394
 Benchmark for CIV	1397
 Benchmark-driven	7790
 Benchmarked	11271
-Benchmarking	2816,4335,397,3216
+Benchmarking	2816,4335,397,3216,687
 Benchmarking Congo’s Petroleum Import Cost	1828
 Benchmarking Congo’s Petroleum Import Cost Gasoline	1828
 Benchmarking E-Government	10840
+Benchmarking Operacional	11444
 Benchmarking SMEs Banking Activity	1828
 Benchmarking SMEs Banking Activity1 In the Republic	1828
 Benchmarking of ICTs	690
@@ -832,7 +839,7 @@ Beneficial Ownership Information	11277
 Beneficial Ownership Register	7845
 Beneficial Ownership Workpage	11276
 Beneficial Ownership of Legal Persons and Legal Arrangements	9750
-Beneficiaries	789,439,56,583,590,478,495,48,105,21,1049,2180,95,219,72,637,494,117,70,60,402,1769,7,37,42,16,93,1,21,6
+Beneficiaries	789,439,56,583,590,478,495,48,105,21,1049,2180,95,219,72,637,494,117,70,60,402,1769,7,37,42,16,93,1,21,6,404,74
 Beneficiaries Beneficiaries Page	10964
 Beneficiaries Mohammed Chikawe	9590
 Beneficiaries TechAfrica News	2935
@@ -840,17 +847,21 @@ Beneficiaries and Amount Awarded	2775
 Beneficiaries and Amount of Loan Scholarships	2775
 Beneficiaries and Amount of Loans Awarded	2775
 Beneficiaries of COVID-19	10985
+Beneficiaries of Safety Nets	11395
+Beneficiaries of Support	11469
 Beneficiaries40 Health	1867
 Beneficiarse	1701
 Beneficio	9524
 Beneficios	4209
 Beneficios de Negocios	4209
 Beneficiou	6585
-Beneficiário	10755
+Beneficiário	10755,631,17
+Beneficiário Efectivo	11462
+Beneficiário Efectivo Deputados	11462
 Beneficiário. Módulo de Rendas Comerciais	9403
 Beneficiário. Módulo de Veículos	9403
-Beneficiários	13,6957,3784
-Benefit	4258,1091,201,5435,246
+Beneficiários	13,6957,3784,611,13,28
+Benefit	4258,1091,201,5435,246,186
 Benefit Administration	10102
 Benefit Sharing	6534
 Benefit Size Erosion	10985
@@ -865,7 +876,7 @@ Benefits and Membership	2775
 Benefits of AI	6948
 Benefits of Financial Inclusion	10822
 Benefits of Technology Neutral Spectrum Licences	10856
-Benefício	10783
+Benefício	10783,582,70
 Benefícios	2816,703,7235
 Beneﬁting	11154
 Bengaluru	6692,4154
@@ -874,15 +885,16 @@ Bengbis	10975
 Benghazi	3811,819,50,1263
 Benghazi Security Directorate	4630,50,637
 Bengio	2816,5467,2873,109
-Bengo	539,3367,134,4,2697,926,758,50,2139,136,1,6,3,5,1,9,2
+Bengo	539,3367,134,4,2697,926,758,50,2139,136,1,6,3,5,1,9,2,639,2,11,17,13
 Bengo Benguela Bié Cabinda Cuando Cubango	10766
 Bengo Huambo	10765
 Bengo Lunda Norte Cunene Uíge Bié	4044
 Bengo and Luanda	10765,10
 Bengo. Nesta	6741
 Bengtsson	8606
+Bengue	11418
 Bengueka	3468
-Benguela	2821,1219,4,935,742,453,411,1000,840,50,1823,452,1,6,1,2,3,2,1,2,7,1,1,540
+Benguela	2821,1219,4,935,742,453,411,1000,840,50,1823,452,1,6,1,2,3,2,1,2,7,1,1,540,49,24,8,18,1,1,3,8
 Benguela ANITA RAIMUNDO	10751
 Benguela BEATRIZ XAVIER FILIPE CARDOSO REIS	10751
 Benguela Bengo MATEUS RAIMUNDO FERREIRA	10751
@@ -890,6 +902,8 @@ Benguela Benguela	4979
 Benguela Bié Cabinda Cuando Cubango	10766
 Benguela Bié Cabinda Cuando Cubango Cuanza	10766
 Benguela Bié Cabinda Cuando-Cubango Cuanza Norte	10766
+Benguela Cidade de Benguela Pedro Parente-Angop	11429
+Benguela City of Lobito	11366
 Benguela Cuando Cubando Lunda Norte Uíge	10775
 Benguela Djidingua	3588
 Benguela Front	10763
@@ -900,9 +914,10 @@ Benguela Lunda-Norte ELIZAMA QUEILA DOS SANTOS	10751
 Benguela Por	10750
 Benguela VERÍSSIMO CAMENHE MULECO	10751
 Benguela and Cuanza Norte	10763
-Benguela and Cuanza Sul	10763,5
+Benguela and Cuanza Sul	10763,5,598
 Benguela and Cunene	10763
 Benguela and Huíla	10765,10
+Benguela and Namibe	11366
 Benguela. Figure	10763
 BenguelaHuambo	10760
 Benguérir	2696,120,2017
@@ -923,6 +938,7 @@ Benin BENIN Porto-Novo Country	10822
 Benin BMZ	823,1
 Benin BenInnovation- Strengthening	823
 Benin Benin	10822,34
+Benin Bermuda Bhutan Bolivia Bonaire	11470
 Benin Botswana Burundi Cote	1528
 Benin Business Angel Network	10887
 Benin City	4130,4458
@@ -1088,6 +1104,7 @@ Benjamin Nyakutsey	9204
 Benjamin Pius	8544
 Benjamin Rosman	6151,1,2120
 Benjamin Seleke and Nixon J. P. Teis	6948
+Benjamin Sulle	11504
 Benjamin William Mkapa Foundation	7321
 Benjamini Mkapa	2868
 Benki	2710,158,3151,3357
@@ -1228,6 +1245,7 @@ Bertha Phiri	5595
 Bertin Bakolo	3316
 Bertin M	8641
 Bertin Nahum	5927
+Bertine Kamphuis IFC Ethiopis Tafara Dahlia	11468
 Bertoua	303,36,2356,3134,1760,1148,2238,5
 Bertoua II	8737
 Bertoua and Ngaoundere	10961
@@ -1321,12 +1339,15 @@ Bettason	7167
 Better	395,1,334,231,227,640,39,229,1289,1498,604,771,174,376,881,187,132,714,1180,37,409,105,321,55,27,104,17,338,41
 Better Africa and World	11230
 Better Auth	4972
+Better Education Service Nigeria Gender Country	11469
 Better Evaluation	11007
 Better Facilitate Cross-Border Data Transfer	1243
 Better Future for All Nigerians	3456
 Better Governance Can Help Rebuild	2096
 Better Health	396
 Better Images of AI	6879
+Better Jobs	11469
+Better Lives for People	11469
 Better Regional Migration Management	5172
 Better Services Economy-wide	11140
 Better Than Cash Alliance	99,1578,1996,3923,3381
@@ -1344,7 +1365,7 @@ Betting Tax	7695
 Betts	11140
 Betty Lee	9098,248
 Betty Ndagire	10429
-Between	7,3,18,198,170,22,598,227,399,12,112,11,51,1,38,77,78,546,42,362,100,3,189,119,74,110,16,1,47,54,113,644,234,2,104,190,61,10,81,118,40,84,405,139,62,180,2,439,78,19,118,59,1,78,92,17,16,249,126,22,80,40,34,73,45,1,1,144,11,11,31,53,33,351,31,53,18,441,392,183,1,75,189,13,261,60,217,343,49,16,41,4,1,1,3,31,36,2,1,6,8,2,10,17,73,9,1,4,9,8,19,33,82,10,1,3,2,1,122,39,59
+Between	7,3,18,198,170,22,598,227,399,12,112,11,51,1,38,77,78,546,42,362,100,3,189,119,74,110,16,1,47,54,113,644,234,2,104,190,61,10,81,118,40,84,405,139,62,180,2,439,78,19,118,59,1,78,92,17,16,249,126,22,80,40,34,73,45,1,1,144,11,11,31,53,33,351,31,53,18,441,392,183,1,75,189,13,261,60,217,343,49,16,41,4,1,1,3,31,36,2,1,6,8,2,10,17,73,9,1,4,9,8,19,33,82,10,1,3,2,1,122,39,59,113,22
 Between Ambition and Implementation	3271
 Between Geneva	7320
 Between Innovation and Accountability	10270
@@ -1381,7 +1402,7 @@ Beyon Connect and Post Connect	4111
 Beyon Group	4093
 Beyon Money To Bolster Digital Payments	5322
 Beyon Romain NEBIE Didier OUEDRAOGO	4211
-Beyond	572,327,62,193,50,24,135,391,12,48,89,193,182,7,9,26,38,64,13,24,59,7,1,43,108,25,33,68,11,75,56,40,20,54,6,30,38,2,40,47,92,35,60,78,46,6,14,30,21,4,55,36,8,35,35,63,37,28,27,2,31,120,55,10,21,7,13,13,3,161,9,57,80,29,1,10,4,25,19,10,14,1,42,5,2,13,25,8,1,2,9,30,2,3,25,34,28,8,34,44,17,13,2,1,2,1,19,39,39,58,12,13,87,2,8,7,1,4,1,18,12,9,14,7,2,3,14,44,34,44,15,13,54,30,18,7,69,15,9,27,9,2,28,20,13,6,36,29,11,9,20,76,5,19,13,14,10,7,10,15,24,30,8,15,9,1,21,40,6,15,11,22,28,41,16,22,27,35,22,32,9,52,13,16,8,55,42,26,29,20,20,32,1,24,4,3,91,45,16,17,10,30,5,76,57,16,8,6,10,7,1,12,14,3,31,6,6,74,22,69,3,44,12,10,17,13,4,25,7,64,1,6,25,18,52,80,88,13,21,9,21,1,10,2,3,36,27,48,8,14,4,27,82,5,12,107,30,22,4,48,8,15,3,1,3,45,4,13,24,14,105,19,47,26,22,54,4,29,26,26,20,16,11,46,25,29,42,8,11,96,76,9,34,8,35,4,17,8,34,41,9,11,26,67,64,3,9,25,17,3,23,4,3,47,50,32,1,5,53,25,3,12,5,9,6,39,17,9,23,6,12,8,15,41,10,8,20,12,4,54,10,36,53,1,113,27,53,36,12,2,11,4,24,22,11,4,1,16,3,2,18,10,5,7,5,15,70,23,16,4,9,6,12,3,23,5,51,39,5,3,1,4,1,4,9,81,14,6,63,12,7,1
+Beyond	572,327,62,193,50,24,135,391,12,48,89,193,182,7,9,26,38,64,13,24,59,7,1,43,108,25,33,68,11,75,56,40,20,54,6,30,38,2,40,47,92,35,60,78,46,6,14,30,21,4,55,36,8,35,35,63,37,28,27,2,31,120,55,10,21,7,13,13,3,161,9,57,80,29,1,10,4,25,19,10,14,1,42,5,2,13,25,8,1,2,9,30,2,3,25,34,28,8,34,44,17,13,2,1,2,1,19,39,39,58,12,13,87,2,8,7,1,4,1,18,12,9,14,7,2,3,14,44,34,44,15,13,54,30,18,7,69,15,9,27,9,2,28,20,13,6,36,29,11,9,20,76,5,19,13,14,10,7,10,15,24,30,8,15,9,1,21,40,6,15,11,22,28,41,16,22,27,35,22,32,9,52,13,16,8,55,42,26,29,20,20,32,1,24,4,3,91,45,16,17,10,30,5,76,57,16,8,6,10,7,1,12,14,3,31,6,6,74,22,69,3,44,12,10,17,13,4,25,7,64,1,6,25,18,52,80,88,13,21,9,21,1,10,2,3,36,27,48,8,14,4,27,82,5,12,107,30,22,4,48,8,15,3,1,3,45,4,13,24,14,105,19,47,26,22,54,4,29,26,26,20,16,11,46,25,29,42,8,11,96,76,9,34,8,35,4,17,8,34,41,9,11,26,67,64,3,9,25,17,3,23,4,3,47,50,32,1,5,53,25,3,12,5,9,6,39,17,9,23,6,12,8,15,41,10,8,20,12,4,54,10,36,53,1,113,27,53,36,12,2,11,4,24,22,11,4,1,16,3,2,18,10,5,7,5,15,70,23,16,4,9,6,12,3,23,5,51,39,5,3,1,4,1,4,9,81,14,6,63,12,7,1,84,74
 Beyond AI	9936
 Beyond AI Initiative	10695
 Beyond Access	10726
@@ -1447,10 +1468,13 @@ Biden Information Technology Beijing Co Ltd	8285
 Big Beautiful Bill Act	4447
 Bilhete de Identidade Bengo	6741
 Bills Being Considered	8681
+Bing Beng	11418
+Bing Bengo	11418
 Birr. Beyond	8646
 Board Audit and Risk Assurance Committee BETA	6946
 Body Betrügereien	11316
 Bold Bet	5200
+Bolsas de Estudo Externas BEI	11387
 Bonaventure Benjamin Panzet Sébas	3319
 Boost Its Economy Adel Bentoumi	2790
 Boost Your Bedroom Performance	5574,215
@@ -1470,7 +1494,7 @@ Business Continuity Plan BETA Bottom-up Economic	6432
 Bw. Benjamin Dotto	7218
 Bédiani Belei	6844
 Bélgica BEVERS	6613
-C. Project Beneficiaries	969,295,603,1737,2935,4229,61,135
+C. Project Beneficiaries	969,295,603,1737,2935,4229,61,135,416,37
 C09753 Beide Bouh Chekhne	1183
 CATHOLIC DIOCESE OF NYAHURURU-POPE BENEDICT XVI	7167
 CAVB Beach Volleyball Championship	10070
@@ -1546,6 +1570,7 @@ Classe Professores Alunos Angola Bengo Benguela	10766
 Classified Warning Signs No Change Best	10835,3,130
 Closing the Gap Between Tradition and Technology	9879
 Cloud Security Below	9123
+CnC Daystar BESS	11469
 Co-operatives. Hon. Bernard Shinali	10313
 Coal Beneficiation	1154
 Collaboration Becoming	1810
@@ -1584,6 +1609,7 @@ Countries. Beyond	6203
 Country Head for Benin	3255
 Coverage and Beyond	3276
 Coverage and Beyond.pdf	3276
+Create More and Better Private Sector Jobs	11469
 Cristian Bernareggi	7057
 Crossref Web of Science Google Scholar Benhammou	8460
 Crowned Zimbabwe’s Best	5403
@@ -1638,6 +1664,7 @@ Del BEAC	4209
 Deliver More and Better Jobs	9985
 Della Assamoi Bernard	8339
 Democratic Republic of Congo. Beyond	6753
+Deputado Bento Joaquim Sebastião Francisco Bento	11365
 Deputy Vice Chairperson Benny Namugwanya Bugembe	9386
 Description Die Beschäftigungsperspektiven	458
 Description UNCDF Better Than Cash Alliance	213
@@ -1673,6 +1700,7 @@ Direct Social Benefit	1992
 Direct UPS Managing Director Behlule Dlomo	9304
 Director-General of Benin	1728
 Director-General of Benin Customs	8167,332
+Direitos de Utilização de Bens	11430
 Disclaimer EXECUTIVE SUMMARY Being Africa	5247
 Disclose Beneficial Owners	6698
 Displacement Context Beginning	10841
@@ -1805,6 +1833,7 @@ Furaha Benedict	9618
 Future Being Built Today Liberia	8861
 Future Belongs	9741
 Futures Left Behind In Gbinti	4619
+G Bengo	11418
 GEDC for Belt and Road	10314
 GENERAL EXCEPTIONS Besides	1243
 GENOVEVA NSENG BENI BIYOGO	1855
@@ -2056,6 +2085,7 @@ Luanda Benguela JAIME GONÇALVES SIMÃO	10751
 Luanda Luanda LURDES PUNGO BENJAMIM	10751
 M Benin Power Compact	87
 M F Angola Bengo Benguela Bié	10766
+M P160865 Better Education Service Delivery	11469
 M. Ahmed Salem Ould Bede Etfagha	9746
 M. Amine Bensaid	8891
 M. BEUGRÉ Innocent Kevin	7805
@@ -2179,6 +2209,7 @@ Move Beyond Laws	5910,491
 Moving Beyond Local Data Ownership	3598
 Moving Beyond the Headline Numbers	9148
 Moxico Benguela VENTURA NDALA BAPTISTA	10751
+Moxico Province Benguela	11418
 Moxico and Benguela	10763
 Mr. Bekithemba L. Nkomo	8626
 Mr. Benjamin MOUANDZA	5075
@@ -2316,6 +2347,7 @@ Pathogen Access and Benefit-Sharing	5456
 Pathogen Access and Benefit-Sharing System	6534
 Pathogen Access and Benefits Sharing	4049
 Patinde Wendinda Jean Yves Belem	5707
+Patrick Benichou	11372
 Patrick Wanjohi and Bernard Maingi	10464
 Payload the Beninese	8713
 Payment Story Behind Its Food	5765
@@ -2332,6 +2364,7 @@ Peter Berry	7635
 Peter L. Berger and Thomas Luckmann	8380
 Philip Besiimire	5715,4963
 Phone Number Becomes Someone	9738
+Plataforma de Acção de Beijing	11362
 PlayStation SANS BESOIN DE CARTES BANCAIRE	5567
 Policy BEE Publications ITWeb Africa Brainstorm	10735
 Politics Becomes	9399
@@ -2372,6 +2405,7 @@ Progress Is Being Made Despite	5911
 Project Beneficiaries	1867
 Project Beneficiaries Component Beneficiary Profile	10964
 Project Manager Beatriz Lanza. Establishes ENTD.GW	1381
+Projecto C. Beneficiários	11440
 Protocol Between the UNITED STATES OF AMERICA	1234
 Providers That Become Part of Africa's Telecom	10588
 Province de Sidi Bennour	8891
@@ -2385,6 +2419,7 @@ Public Disclosure Authorized Benin Economic Governance	10870
 Public Goods Beyond	4848
 QCT-BENIN SPACETEL BENIN	10821
 Qualifications System By Ange J.A de Berry	6747
+Quintas Betsaida Costa Geraldo Ginga João	11421
 Quorum Bell	10313
 RBA Retirement Benefits Authority RMLF Road	2775
 REGIONAL SCHOOL OF JOURNALISM BEGINS CIRCLE	10581
@@ -2413,10 +2448,13 @@ Reference Calandro and Berglund2021	2117
 Reference Shcherbovich and Belli2021	2117
 References Below	9123
 Regarding Benin	6147
+Regime de Prescrição de Certos Bens Abandonados	11404
 Regional Beneficiary Overview Current Beneficiaries	8999
 Regional Export Opportunity Beyond	10157
 Register of Beninese Abroad	3387
 Regulations. Beyond	6512
+Relatório de Benchmark	11456
+Relatório de Benchmark Internacional	11456
 Remote Diagnostics and Monitoring Beyond	5378
 Removing the Remaining Barriers Between Payment Networks	7301
 Rep. Namibia Ghana Benin Kenya Togo	10819
@@ -2426,9 +2464,11 @@ Republic of Benin H.E. Jose Maria Pereira	7452
 Republic of Benin and Smart Africa Supported	10819
 Republic of Benin and Webb Fontaine	2392
 Republic of Benin. The Authority	7452
+Resistance BCR Benefit	11417
 Responsibility for Data Collection FAS-IDL Beneficiaries	10768
 Results Report Benin Economic Governance for Service	10870
 Retirement Benefits Authority	6938
+Reversão de Bens	11430
 Revise Beneficiaries	4653
 Ricerca Anna Maria Bernini	8774
 Ridha Ben Mossah	2453

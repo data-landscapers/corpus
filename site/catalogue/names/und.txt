@@ -72,6 +72,7 @@ Children Under5	4167
 China Builds Underlying Infrastructure	10350
 China Memorandum of Understanding	7407
 Chips Joint Undertaking	6468
+Climate Change. Under	11417
 Commerce Undersecretary	7209
 Comprehensive Memorandum of Understanding	11185
 Conclusion Undersea	2677
@@ -166,6 +167,7 @@ IDA Description Disbursement Under Category	10964
 IDA Under Category	10964
 IMF Underwriting	11131,3
 INFRASTRUCTURE Absence of Undue Influence	10835,3,130
+INTIC and UNDP	11439
 IPv6. Under	1702
 ITB and CNRC. Under	4542
 ITU and UNDESA	10844
@@ -216,8 +218,8 @@ Malawi. UNDP Malawi	8286
 Malawi. Under	4150
 Mauritius. Under the ICTA	1401
 Media COMMISSION FOR GENDER EQUALITY UNDERTAKES	11257
-Memoranda of Understanding	3476,265,233,75,479,824,324,574,284,981,33,1016,28,1290,894
-Memorandum of Understanding	793,176,13,149,23,110,3,287,82,3,166,105,78,223,149,2,88,86,144,75,268,31,9,76,49,65,25,21,64,95,142,1,12,14,68,13,4,31,7,95,105,22,74,3,3,41,18,91,15,30,102,52,127,8,47,9,82,72,104,83,4,24,87,18,26,49,94,12,39,1,15,34,16,104,62,140,116,28,34,44,20,56,5,5,203,28,1,1,1,27,36,125,19,102,32,16,39,5,17,6,210,69,25,107,4,6,28,73,57,36,46,41,39,63,5,254,8,52,38,66,24,131,87,7,25,119,12,39,119,3,40,74,29,66,33,159,7,82,228,19,14,3,31,38,15,11,90,12,56,79,43,43,160,32,22,46,3,24,21,34,109,6,52,147,29,9,97,34,169,38,68,24,63,211,125,8,11,3,49,2,25,75,4,1,1
+Memoranda of Understanding	3476,265,233,75,479,824,324,574,284,981,33,1016,28,1290,894,641
+Memorandum of Understanding	793,176,13,149,23,110,3,287,82,3,166,105,78,223,149,2,88,86,144,75,268,31,9,76,49,65,25,21,64,95,142,1,12,14,68,13,4,31,7,95,105,22,74,3,3,41,18,91,15,30,102,52,127,8,47,9,82,72,104,83,4,24,87,18,26,49,94,12,39,1,15,34,16,104,62,140,116,28,34,44,20,56,5,5,203,28,1,1,1,27,36,125,19,102,32,16,39,5,17,6,210,69,25,107,4,6,28,73,57,36,46,41,39,63,5,254,8,52,38,66,24,131,87,7,25,119,12,39,119,3,40,74,29,66,33,159,7,82,228,19,14,3,31,38,15,11,90,12,56,79,43,43,160,32,22,46,3,24,21,34,109,6,52,147,29,9,97,34,169,38,68,24,63,211,125,8,11,3,49,2,25,75,4,1,1,205
 Memorandum of Understanding Artefact	2450
 Memorandum of Understanding MPOX	10776
 Memorandum of Understanding and Commercial Terms Agreement	6664
@@ -269,7 +271,7 @@ Powered Sustainability UNDP Mauritius Annual Report	11332
 Practice Directions. Under	8978
 Preamble This Memorandum of Understanding	5352
 Primary UNDP	3496
-Private Sector. Under	5903
+Private Sector. Under	5903,5477
 Productivity and Growth Under Acemoglu	11140
 Programas UNDAF	4209
 Protection of Undersea Telecommunication Cables	2677
@@ -284,6 +286,7 @@ Representing UNDP Malawi	8286
 Representing the UNDP Resident Representative	3895
 Research Underpinning	1123
 Resident Representative of UNDP	5356
+Revised Cancelled Disbursed Undisbursed	11395
 Revised Memoranda of Understanding	11131
 Royal Science and Technology Park and UNDP Eswatini	4866
 Rural Areas Under Digital Transformation Project	3770
@@ -435,6 +438,7 @@ UNDP Resident Representative Mr. Aliou Mamadu	10346
 UNDP Rwanda	8674
 UNDP Rwanda and Access	8449
 UNDP Senegal	5834
+UNDP Seoul Policy Centre	11487
 UNDP Strategic Plan	11332
 UNDP Sub-Regional Hub for West and Central Africa	9134
 UNDP Supports Young Cameroonian Entrepreneurs	10841
@@ -501,7 +505,7 @@ UNDP’s DPI Approach Playbook Play	11007
 UNDP’s Ghana Representative	7068
 UNDP’s Guide	11007
 UNDP’s Moving Beyond Crisis	11356
-UNDRR	10763
+UNDRR	10763,657
 UNICEF and UNDP	10210
 UNU-EGOV and UNDP	2245
 UNU-EGOV and UNDP Bissau	2351
@@ -517,7 +521,7 @@ Undecided	7869
 Undecided NR	7869
 Undecided NR Base	7869
 Undenatured	6921
-Under	11,16,162,47,124,402,170,8,13,5,14,37,80,60,5,7,51,31,7,34,58,212,127,21,75,18,49,23,121,88,137,35,352,80,51,110,48,116,7,25,14,16,50,44,15,32,10,125,111,2,46,36,45,21,11,33,85,49,89,71,106,1,59,19,25,16,69,5,19,79,45,16,5,20,82,16,2,1,31,1,38,11,11,2,5,6,21,15,6,3,13,6,1,33,22,8,18,56,22,5,28,72,41,60,23,55,1,22,2,45,8,7,19,1,1,4,1,4,27,4,1,11,10,4,9,11,4,4,12,11,9,31,17,109,4,17,69,39,20,65,29,56,41,11,82,8,28,3,60,42,3,15,45,9,1,5,5,6,4,29,22,1,15,70,2,6,29,11,24,13,17,36,58,6,9,120,34,8,2,126,12,4,19,15,51,1,2,2,60,30,5,31,23,10,52,22,14,8,39,19,17,33,11,17,33,8,33,6,5,10,27,15,39,16,28,24,37,83,5,8,77,49,23,18,11,22,4,67,38,4,23,25,100,41,5,1,28,1,46,5,54,49,18,7,15,1,17,3,10,9,50,2,18,53,19,8,41,33,5,6,29,45,8,152,86,2,28,7,42,4,6,13,33,2,12,56,43,24,48,9,4,13,19,8,20,58,1,37,47,12,11,7,102,34,25,20,10,59,6,18,2,5,50,25,8,8,15,45,14,16,9,19,15,12,5,36,18,21,39,6,22,13,3,30,4,17,11,33,13,65,5,38,2,20,9,28,26,2,17,2,51,1,8,14,28,3,31,26,1,3,7,21,4,22,7,15,9,3,5,23,3,73,3,1,16,5,51,21,22,2,41,4,5,9,12,2,44,30,20,23,6,15,13
+Under	11,16,162,47,124,402,170,8,13,5,14,37,80,60,5,7,51,31,7,34,58,212,127,21,75,18,49,23,121,88,137,35,352,80,51,110,48,116,7,25,14,16,50,44,15,32,10,125,111,2,46,36,45,21,11,33,85,49,89,71,106,1,59,19,25,16,69,5,19,79,45,16,5,20,82,16,2,1,31,1,38,11,11,2,5,6,21,15,6,3,13,6,1,33,22,8,18,56,22,5,28,72,41,60,23,55,1,22,2,45,8,7,19,1,1,4,1,4,27,4,1,11,10,4,9,11,4,4,12,11,9,31,17,109,4,17,69,39,20,65,29,56,41,11,82,8,28,3,60,42,3,15,45,9,1,5,5,6,4,29,22,1,15,70,2,6,29,11,24,13,17,36,58,6,9,120,34,8,2,126,12,4,19,15,51,1,2,2,60,30,5,31,23,10,52,22,14,8,39,19,17,33,11,17,33,8,33,6,5,10,27,15,39,16,28,24,37,83,5,8,77,49,23,18,11,22,4,67,38,4,23,25,100,41,5,1,28,1,46,5,54,49,18,7,15,1,17,3,10,9,50,2,18,53,19,8,41,33,5,6,29,45,8,152,86,2,28,7,42,4,6,13,33,2,12,56,43,24,48,9,4,13,19,8,20,58,1,37,47,12,11,7,102,34,25,20,10,59,6,18,2,5,50,25,8,8,15,45,14,16,9,19,15,12,5,36,18,21,39,6,22,13,3,30,4,17,11,33,13,65,5,38,2,20,9,28,26,2,17,2,51,1,8,14,28,3,31,26,1,3,7,21,4,22,7,15,9,3,5,23,3,73,3,1,16,5,51,21,22,2,41,4,5,9,12,2,44,30,20,23,6,15,13,75,37,52,17,1,9,8
 Under Administrative Circular No	5731
 Under Article	1742,3502,4670
 Under Articles	4763
@@ -594,6 +598,7 @@ Under the Algerian	5376
 Under the Bank	3318
 Under the Bilateral Agreement	4260
 Under the Buy Kenya Build	6946
+Under the CPF	11476
 Under the City	8915
 Under the Commission	11155
 Under the Commonwealth’s Nagdi	4172
@@ -639,9 +644,10 @@ Under the Orange Business	8125
 Under the PAIF-PME	10845
 Under the Participation Agreement	4261
 Under the Personal Data Protection Act	5385
+Under the RPL	11504
 Under the Registration of Persons Act	10890
 Under the Regulations	6512,1668
-Under the Renewed Hope Agenda	11126
+Under the Renewed Hope Agenda	11126,342
 Under the Reserve Bank	5544
 Under the Risk Mitigation Independent Power Producer	11248
 Under the SSNP	10964
@@ -661,7 +667,7 @@ Under the World Bank ID4D	4291
 Under the World Bank's EDGE	4214
 Under the World Economic Forum’s Network Readiness	236
 Under-5 BRR	10714
-Under-five	10829
+Under-five	10829,588
 Under-floor	9123
 Under-resourced	6832
 Under-resourced Institutions	4528
@@ -682,7 +688,7 @@ Underlying Stack Different	767
 Undermines	11227
 Undermining	3572,7478
 Underneath	7955,1157
-Underpinned	557,1130,4003
+Underpinned	557,1130,4003,5778
 Underpinning	2845,763,7244
 Underpinning the Digital Economy	10892
 Underpins Ethiopia	1804
@@ -721,7 +727,7 @@ Underspending	11230,18
 Understand	236,182,839,373,358,1291,871,2282,1345,1701,56,1187,283,212
 Understand The Security Requirements	34
 Understandably	10
-Understanding	990,258,845,3,852,416,427,885,149,81,341,286,167,514,17,156,281,123,155,2,330,215,55,211,127,60,75,1,68,40,4,326,143,68,220,237,1,108,230,44,105,2,141,959,43,4,10,44,100,13,72,13,118,21,55
+Understanding	990,258,845,3,852,416,427,885,149,81,341,286,167,514,17,156,281,123,155,2,330,215,55,211,127,60,75,1,68,40,4,326,143,68,220,237,1,108,230,44,105,2,141,959,43,4,10,44,100,13,72,13,118,21,55,213
 Understanding AI	6948
 Understanding Africa’s AI Governance Landscape	6603
 Understanding China	2518
@@ -772,9 +778,10 @@ Underway FinScope Eswatini	418
 Underwrite	11310
 Undesirable	3714
 Undeterred	4127
-Undisbursed	2712,1941,35,6182
+Undisbursed	2712,1941,35,6182,505,94
 Undisbursed Historical Disbursed	6928,949
 Undisbursed IDA	2989
+Undisbursed Themes Type Approval	11469
 Undoubtedly	2307
 UniPod Zambia UNDP Zambia ABOUT	10347
 Unique Identifiers Under POPIA South Africa	6632
@@ -784,6 +791,7 @@ Upskill Digital and Google Under	1362
 Urban District Councils. Under the EU Local	970
 Vodacom Group. Under	6225
 WA AKILI UNDE	7864
+WMO and UNDRR	11420
 Waste Management Hierarchy Under Component	1988
 West Africa. Under	6446,2398
 Whitepaper. Under	8670

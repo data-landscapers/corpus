@@ -1,4 +1,4 @@
-A. Project Development Objective	969,295,603,1737,2935,4229,61
+A. Project Development Objective	969,295,603,1737,2935,4229,61,551
 A. Project Development Objective PDO Statement	10829
 A.N.G.C NDUMBERI CHILD DEVELOPMENT CENTRE Data	7167
 A1 Develop	899
@@ -89,6 +89,7 @@ Advocacy and Development Initiative Kenya Data Controller	7167
 Advocacy and Development Initiative Kenya Data Processor	7167
 AfDB African Development Bank AFW World	969
 AfDB African Development Bank AFWRI Country	10841
+AfDB African Development Bank ARR Annual	11380
 AfDB African Development Bank Group ADE	4214
 Afghanistan Democracy and Development Organization	9082
 Afreximbank’s Fund for Export Development	10887
@@ -111,7 +112,7 @@ African Centre of Meteorological Application for Development	11291
 African Community Southern African Development Community	2775
 African Developer Experience	7208
 African Development	7016,2443
-African Development Bank	39,72,7,1,19,20,7,10,92,34,31,2,117,116,17,16,3,1,141,59,1,1,1,154,8,1,74,159,54,151,2,2,1,157,145,99,313,1,1,156,225,23,11,18,232,9,4,4,36,18,24,71,22,215,181,31,174,21,67,20,27,18,131,11,218,7,78,250,20,1,354,69,45,113,62,107,45,88,263,206,99,18,170,242,5,285,113,28,86,162,196,150,1,49,44,45,91,8,97,91,11,126,180,12,53,18,166,26,51,22,125,95,57,13,244,37,27,147,13,192,63,1,23,17,1,98,70,30,100,1,102,83,89,80,62,3,350,1,47,24,71,3,94,22,97,101,99,3,2,14,160,46
+African Development Bank	39,72,7,1,19,20,7,10,92,34,31,2,117,116,17,16,3,1,141,59,1,1,1,154,8,1,74,159,54,151,2,2,1,157,145,99,313,1,1,156,225,23,11,18,232,9,4,4,36,18,24,71,22,215,181,31,174,21,67,20,27,18,131,11,218,7,78,250,20,1,354,69,45,113,62,107,45,88,263,206,99,18,170,242,5,285,113,28,86,162,196,150,1,49,44,45,91,8,97,91,11,126,180,12,53,18,166,26,51,22,125,95,57,13,244,37,27,147,13,192,63,1,23,17,1,98,70,30,100,1,102,83,89,80,62,3,350,1,47,24,71,3,94,22,97,101,99,3,2,14,160,46,113
 African Development Bank AGSA Auditor-General South	11261
 African Development Bank Alignment	961
 African Development Bank Country Strategy Paper	8574
@@ -169,6 +170,7 @@ Africa’s Development and Prosperity	1814,863
 Ag. Vice President for Regional Development	7452
 Aga Khan Fund for Economic Development	7145
 Age of AI. Human Development Report	6948
+Agence Francaise de Development	11469
 Agence Francaise de Developpement	10275
 Agencies MFD Maximizing Finance for Development MPA	6539
 Agency Proposed National Digital Development Council	1161
@@ -188,10 +190,11 @@ AinAble Development	10840
 Al Develop Ai	1885
 Anglican Development Services North Rift Region	7167
 Angola Country Climate Development Report	10763,5
+Angola Country Climate and Development Report	11417
 Angola Country Climate and Development Report.pdf	800
 Angola HDI Human Development Index MASFAMU	10765,10
 Angola's National Development Plan	6881
-Angola’s National Development Plan	10780
+Angola’s National Development Plan	10780,637
 Angola’s National Health Development Plan	10776
 Annex ANNEX Table E-Government Development Index	10840
 Annual Development Plans	7548
@@ -254,7 +257,7 @@ Board of Kenya ECDE Early Childhood Development	2775
 Boost Sustainable Development	10857
 Boost Zambia's Digital and Development Transformation	4046
 Brain Builders Youth Development Initiative	6705
-Broadband Commission for Sustainable Development	958,7155,1646,314,1189
+Broadband Commission for Sustainable Development	958,7155,1646,314,1189,177
 Broadcasting Network Development Project	2217
 Building Block. Developer	6423
 Building Sustainable and Inclusive Pathways for Development	10864
@@ -307,7 +310,7 @@ Canada’s International Development Research Centre	3654
 Capability Development	6946
 Capacity Building and Content Development	395,563
 Capacity Building and Content Development Zimbabwe	395
-Capacity Development	395,493,990,110,2179,2779,511,3767
+Capacity Development	395,493,990,110,2179,2779,511,3767,196
 Capacity Development Measures	2230
 Capacity Development Project	697,73
 Capacity Development Project Korea International Cooperation	697
@@ -381,8 +384,10 @@ Cloud and AI Development Act	6468,8,1,10,392,1467,558,1184,962
 Cloud and AI Development Act Full	6477
 Co-operation and Development	961
 Co-operation and Development PPI Producer Price Index	11286
+Commercial Agriculture Development Project	11380
 Commission NSDF National Spatial Development Framework	11224
 Commissioner for Rural and Social Development	5765
+Committee for International Development Cooperation	11487
 Commonwealth Development Corporation	11131,3
 Commonwealth and Development Office	3654,472,4651,1276,534,181,235,130,9
 Commonwealth and Development Office FM Financial Management	10768
@@ -431,8 +436,10 @@ Core Policy Objectives Developing	11265
 Corporate Development Plan	1818
 Corporates Emerge Fundraising Leaders Development	4972
 Could Online Gig Work Drive Development	226
+Country Climate Development Report	11469
 Country Climate Development Report Contingent Emergency	10763
-Country Climate and Development Report	1828,1628,148,7164
+Country Climate and Development	11469
+Country Climate and Development Report	1828,1628,148,7164,701
 Country Climate and Development Report CERC Contingent	1264
 Country Profiles For Early Childhood Development	10768
 Country Subcomponent Climate Development Report	3604
@@ -481,7 +488,8 @@ DEVELOPMENT INDEX	11211,51
 DEVELOPMENT Ministry of Economic Planning and Development	4247
 DEVELOPMENT OF AN INCLUSIVE DATA ECONOMY	1161
 DEVELOPMENT PROJECT	8669
-DEVELOPMENT PROJECT APPRAISAL DOCUMENT	10768
+DEVELOPMENT PROJECT APPRAISAL DOCUMENT	10768,612
+DEVELOPMENT Public Disclosure Authorized PROJECT APPRAISAL	11417
 DEVELOPMENT SCHEDULE	11249
 DEVELOPMENT STAGE	9458
 DEVELOPMENT STRATEGY	10960
@@ -496,9 +504,12 @@ DHET’s National Skills Development Plan	6832
 DIGITALIZATION LIFE CYCLE Development C	11007
 DISTRICT DEVELOPMENT MODEL	5533
 DP Development Partner EDF European Development	970
+DPF Developing Policy Financing EFF Extended	11380
 DPI Development Cycle	3735
 DPO Development Policy Operation ENAM National	969
 DTT Broadcasting Network Development Project	2217,1251
+DW Development Workshop EAS	11390
+Dairy Development Project for Platform	11469
 Danish Industrialisation Fund for Developing Counties	789
 Data Development Group	236
 Data Governance Strategy and Policy Development	3058
@@ -562,7 +573,8 @@ Designated Account DPI Development Committee Paper	3604
 Detective Service Develop	11188
 Detective Services Develop Rural Safety Crime	11188
 Determined Contribution NDP National Development Plan	10768
-Develop	36,359,1,322,71,110,41,18,3,39,9,146,6,43,176,324,73,37,71,103,471,18,191,9,281,321,151,153,95,420,28,27,14,47,314,82,522,112,175,114,132,11,1,38,708,9,97,265,38,104,2,10,547,43,10,998,54,217,386,196,35,226,404,657,42,2,10,66,123,40,24,103,2,1,6,9,67,20,16,13
+Determined Contributions NDP National Development Plan	11380
+Develop	36,359,1,322,71,110,41,18,3,39,9,146,6,43,176,324,73,37,71,103,471,18,191,9,281,321,151,153,95,420,28,27,14,47,314,82,522,112,175,114,132,11,1,38,708,9,97,265,38,104,2,10,547,43,10,998,54,217,386,196,35,226,404,657,42,2,10,66,123,40,24,103,2,1,6,9,67,20,16,13,136
 Develop AI	1814,5734
 Develop AI Fellowship	4126
 Develop AI Financing	1814
@@ -672,7 +684,7 @@ Developing and Maintaining	2775
 DevelopingaContext-SensitiveEv-	8301
 Developme	970,6578
 Developme Treasury Development	7548
-Development	8,11,5,2,1,1,2,5,4,4,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,2,2,1,1,1,3,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,2,3,1,8,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,3,3,7,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,2,1,2,3,3,2,2,7,9,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,4,9,1,21,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,9,3,4,7,11,6,1,10,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,11,5,4,2,1,6,1,2,6,1,3,8,3,1,2,11,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,11,1,3,5,2,6,5,1,3,1,6,16,3,1,1,17,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,8,4,3,2,2,6,1,8,22,5,8,1,1,1,1,6,3,8,5,3,5,1,4,1,1,1,1,1,1,26,1,1,1,1,1,1,1,1,4,1,1,2,1,1,1,61,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,6,17,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,17,16,9,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,29,26,1,1,1,1,36,1,5,1,1,5,1,1,1,1,1,1,1,1,1,1,1,1,1,1,17,4,1,15,1,52,12,15,16,1,1,1,1,1,1,1,5,22,24,14,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,27,1,1,1,1,1,1,4,1,1,1,1,1,2,1,1,10,1,1,1,1,1,1,1,1,1,1,1,1,38,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,268,1,36,47,29,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,236,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,57,1,1,1,24,65,4,65,1,39,1,1,1,1,1,1,1,1,1,29,1,1,1,1,1,1,1,1,1,28,144,117,84,21,2,59,11,84,20,66,1,27,10,2,51,57,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,53,1,21,22,3,29,1,1,1,1,1,1,3,48,10,31,7,6,31,2,29,30,12,1,1,1,1,1,9,1,4,1,1,1,14,1,1,1,1,1,1,1,1,1,1,1,1,32,1,1,1,1,1,1,1,1,2,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,2,3,6,4,1,1,1,1,1,1,1,2,1,1,7,1,3,1,2,1,1,1,1,1,1,2,1,1,2,26,27,1,1,1,1,19,38,1,1,1,1,1,78,121,48,24,44,35,16,31,109,22,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,7,64,77,17,1,47,30,40,23,30,7,70,5,16,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,6,1,14,1,1,69,58,9,107,1,99,1,75,144,188,1,1,1,13,46,29,5,28,34,8,71,29,30,24,6,78,96,10,5,3,14,22,100,1,1,1,1,1,1,1,1,70,106,90,6,82,12,35,43,14,85,3,26,97,162,18,43,36,82,120,55,101,109,76,1,18,20,6,7,25,28,231,8,32,89,13,24,66,39,39,31,17,54,10,144,41,68,27,4,8,5,18,2,61,36,73,19,67,1,36,30,198,5,7,53,94,1,15,302,32,55,5,36,1,5,54,7,6,2,3,1,10,1,4,5,58,24,34,2,6,19,2,1,10,44,18,52,2,1,6,2,37,7,1,2,5,3,5,1,1,1,1,1,1,18,4,18,12,25,1,7,2,61
+Development	8,11,5,2,1,1,2,5,4,4,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,2,2,1,1,1,3,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,2,3,1,8,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,3,3,7,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,2,1,2,3,3,2,2,7,9,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,4,9,1,21,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,9,3,4,7,11,6,1,10,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,11,5,4,2,1,6,1,2,6,1,3,8,3,1,2,11,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,11,1,3,5,2,6,5,1,3,1,6,16,3,1,1,17,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,8,4,3,2,2,6,1,8,22,5,8,1,1,1,1,6,3,8,5,3,5,1,4,1,1,1,1,1,1,26,1,1,1,1,1,1,1,1,4,1,1,2,1,1,1,61,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,6,17,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,17,16,9,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,29,26,1,1,1,1,36,1,5,1,1,5,1,1,1,1,1,1,1,1,1,1,1,1,1,1,17,4,1,15,1,52,12,15,16,1,1,1,1,1,1,1,5,22,24,14,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,27,1,1,1,1,1,1,4,1,1,1,1,1,2,1,1,10,1,1,1,1,1,1,1,1,1,1,1,1,38,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,268,1,36,47,29,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,236,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,57,1,1,1,24,65,4,65,1,39,1,1,1,1,1,1,1,1,1,29,1,1,1,1,1,1,1,1,1,28,144,117,84,21,2,59,11,84,20,66,1,27,10,2,51,57,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,53,1,21,22,3,29,1,1,1,1,1,1,3,48,10,31,7,6,31,2,29,30,12,1,1,1,1,1,9,1,4,1,1,1,14,1,1,1,1,1,1,1,1,1,1,1,1,32,1,1,1,1,1,1,1,1,2,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,2,3,6,4,1,1,1,1,1,1,1,2,1,1,7,1,3,1,2,1,1,1,1,1,1,2,1,1,2,26,27,1,1,1,1,19,38,1,1,1,1,1,78,121,48,24,44,35,16,31,109,22,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,7,64,77,17,1,47,30,40,23,30,7,70,5,16,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,6,1,14,1,1,69,58,9,107,1,99,1,75,144,188,1,1,1,13,46,29,5,28,34,8,71,29,30,24,6,78,96,10,5,3,14,22,100,1,1,1,1,1,1,1,1,70,106,90,6,82,12,35,43,14,85,3,26,97,162,18,43,36,82,120,55,101,109,76,1,18,20,6,7,25,28,231,8,32,89,13,24,66,39,39,31,17,54,10,144,41,68,27,4,8,5,18,2,61,36,73,19,67,1,36,30,198,5,7,53,94,1,15,302,32,55,5,36,1,5,54,7,6,2,3,1,10,1,4,5,58,24,34,2,6,19,2,1,10,44,18,52,2,1,6,2,37,7,1,2,5,3,5,1,1,1,1,1,1,18,4,18,12,25,1,7,2,61,19,20,22,22,30
 Development Act	6582,1263
 Development Agency	1885,1719,1244,1780,1036,1453,1449
 Development Agency STI Science	1814
@@ -776,7 +788,7 @@ Development Health Education Social Protection	10837
 Development Hybrids	226
 Development ISP Internet Service Providers KTRN	718
 Development Impact Report	1042
-Development Index	11004
+Development Index	11004,465
 Development Index HDP Humanitarian Development Peace	970
 Development Indicators	11224
 Development Indicators Somalia Economic Update	11136
@@ -791,15 +803,16 @@ Development Knowledge Link Africa Data Controller	7167
 Development Language N	9124
 Development Linked Loan	1818
 Development MICDE	7548
+Development Master Plan PDO Project Development	11380
 Development Media Council of Partners Kenya Upscale	7548
 Development Methodology Report	4359
 Development Ministry of KNBS	7548
 Development Model	1885,2181,1855
 Development Network	10852
 Development News Network	8522
-Development Objective	1284,420,70,517,1165,7507
+Development Objective	1284,420,70,517,1165,7507,454
 Development Objective Agreements	4260
-Development Objective Original Development Objective	2712,1976,1891,349,949,2993
+Development Objective Original Development Objective	2712,1976,1891,349,949,2993,525
 Development Objective PEP Post-exposure Prophylaxis PFM	10829
 Development Objective PI Productive Inclusion PIM	10768
 Development Objective Project Implementing Entity Special	1228
@@ -813,6 +826,7 @@ Development Office. About the DEEP Challenge Fund	11133
 Development Office. Published	6886
 Development Opportunities	10441
 Development Outcome	10779
+Development PASA	11469
 Development PFM Public Financial Management RDC	970
 Development PRAMS Procurement Risk Assessment and Management	1264
 Development Parliament	7548
@@ -831,7 +845,7 @@ Development Plan NDP National Development Plan	11250
 Development Plan NGO Non-governmental Organisation NIS	5533
 Development Plans	5872
 Development Policy	1161,9846
-Development Policy Financing	759,10020,185
+Development Policy Financing	759,10020,185,505,7
 Development Policy L Overall	2775
 Development Policy Loan	537,3998
 Development Policy Loan of EUR	537,21
@@ -1125,6 +1139,7 @@ Education Sector Medium Term Development Plan	789
 Education and Digital Development Global Quality Assurance	6832
 Education and Human Development	1228
 Education and Human Resource Development Educational	3861
+Education for Sustainable Development13	11439
 Educational Equity and Regional DevelopmentSpeaking	7672
 Educational Social Development and Small Business	11280
 Egypt. About the IDC The Industrial Development	7785
@@ -1186,7 +1201,7 @@ Ethiopia African Development Bank	451
 Ethiopia's Ten-Year Development Plan	7820
 Ethiopia. Innovation and Development. Advance	8671
 Ethiopian Electronic Single Window System Development	208
-European Bank for Reconstruction and Development	1596,2856,14,1,183,13,270,566,4,301,99,272,1054,978,776,43,21,439,1087,36,546,13,7,181
+European Bank for Reconstruction and Development	1596,2856,14,1,183,13,270,566,4,301,99,272,1054,978,776,43,21,439,1087,36,546,13,7,181,113
 European Bank for Reconstruction and Development. Digital	9632
 European Centre for Development Policy Management	11155
 European Development Fund	26,1,1
@@ -1209,7 +1224,7 @@ Export Promotion and Market Development	10157
 External Development World Bank	6832
 External Sector Developments Eswatini	11134
 External Sector Developments Preliminary	11131
-FAS Local Development Institute	10768
+FAS Local Development Institute	10768,607,20
 FAS38 Local Development Institute	10768
 FINANCIAL TECHNOLOGY DEVELOPMENT Central Bank Digital	11131
 FINTRUST Development	940
@@ -1218,6 +1233,7 @@ FUTURE DEVELOPMENTS	4360
 Facility Trade and Development Bank	950
 Fast-Tracking Development	5700
 Federal Ministry for Economic Cooperation and Development	9707
+Federal Ministry of Regional Development	11469
 Federal Ministry of Youth Development	9919
 Fifth National Development Plan	2588
 Finalize GBV Assessment and Action Plan Develop	2989
@@ -1259,6 +1275,7 @@ Founder and CEO of Chronicles Software Development Company	7444
 Fourth National Development Plan	3050,3736,1683
 Fourth National Development PlanNDP4Artificial Intelligence	3050
 Free Trade Area AfDB African Development	7548
+French Agency for Development	11380
 French Development Agency	2073,178,52,241,2282,205,73,969,426,644,1041,2657,122,1
 French Development Agency. DRC	6073
 Functional Consultant and Developer	6353
@@ -1338,6 +1355,7 @@ Google Startups for Sustainable Development	1363
 Google's Economic and Community Development	4494,2436,1
 Gov Development Index	1912
 Govan Software Development	6832
+Govemment Development Index	11371
 Government Development	10852
 Government Development Financing	11356
 Government Development Index	2383,146,171,91,13,800,6296,885,67
@@ -1349,6 +1367,7 @@ Government's Development Roadmap	2026
 Government's National Development Strategy	940
 Greater Banjul Sustainable Urban Development Programme	332
 Green Finance Taxonomy Emerging Markets and Developing	11134
+Growth and Inclusion Developing Policy Financing	11380
 Guidelines for Mobile Application Development	11004
 Guidelines for Nigerian Content Development	10157
 H55PM Development Bank of Southern Africa Page	11240
@@ -1364,7 +1383,7 @@ Handbook of Development Economics	7886
 Harnessing AI for Africa’s Development and Prosperity	8301
 Harnessing AI for Inclusive National Development	5386
 Harnessing Science for National Development	1554
-Has the Development Objective	2712,3867,254,95
+Has the Development Objective	2712,3867,254,95,4467
 Head of Business Development	7540,39,1954
 Head of Economic Policy and Sustainable Development	9162
 Health Development Fund	970
@@ -1388,7 +1407,8 @@ Human Capital Development Must Be Systemic	7548
 Human Capital Development Objective	4528
 Human Capital Development and Special Programmes	7480
 Human Development	643,1,10115,78,1,126,4
-Human Development Index	3583,7421
+Human Development Index	3583,7421,397
+Human Development Index. Large	11380
 Human Development Infrastructure Development	10835,3,130
 Human Development Initiative	206
 Human Development Initiative- OPHI	206
@@ -1405,13 +1425,14 @@ Human Resources Development Committee	10337
 Human Resources Management and Development	5533,5704
 Human Rights and Development	3005
 Hybrid Fund KfW Development Bank	692
+IBRD International Bank for Reconstruction and Development	11390
 IC Development Consultants	11134
 ICT Capacity Development	4483,2,6
 ICT Develop	1161
 ICT Development	3382,2272
 ICT Development Agency	4132
 ICT Development Foreword	582
-ICT Development Index	582,213,1094,381,113,185,7,644,13,539,35,167,105,6686
+ICT Development Index	582,213,1094,381,113,185,7,644,13,539,35,167,105,6686,660
 ICT Development Index IGF	958
 ICT Developments	6946
 ICT Enterprise Development and SOE Oversight	1810
@@ -1443,7 +1464,8 @@ IFAD International Fund for Agricultural Development IHME	10835,3,130
 IFAD International Fund for Agricultural Development ILO	10841
 IFC Collaboration No Proposed Development Objective	1867,8901,61,135
 II KfW Development Bank	903
-II. PROJECT DESCRIPTION A. Project Development	1264,603,1737,2935,4229,196
+II. PROJECT DESCRIPTION A. Project Development	1264,603,1737,2935,4229,196,453
+III. Development	11469
 IKT Fazilität ICT Facility KfW Development	696
 INCLUSION HUMAN DEVELOPMENT HEALTH Access	10837
 INCLUSION HUMAN DEVELOPMENT PARTICIPATION	10835,3,130
@@ -1454,7 +1476,7 @@ INNOVATION AND ECONOMIC DEVELOPMENT	3861
 INNOVATION FACILITATION AND ECONOMIC DEVELOPMENT	3861
 INR About the Organization Mobile for Development	9072
 INTBAFRAD INTERNATIONAL DEVELOPMENT ASSOCIATION U.S.A. Cable	2474
-INTERNATIONAL BANK FOR RECONSTRUCTION AND DEVELOPMENT	1914,560
+INTERNATIONAL BANK FOR RECONSTRUCTION AND DEVELOPMENT	1914,560,8994
 INTEROPERABILITY DEVELOPMENT PRINCIPLES	1009
 INTOSAI Development Initiative	10108
 IOM Development Fund	9838
@@ -1466,6 +1488,7 @@ ITU Regional Development Forum for Africa	6642,304
 ITU Telecommunication Development Bureau	26,1,1,4492,2529,86,93,1390,2146,80
 ITU Telecommunication Development Sector	8945
 ITU's Measuring Digital Development	9616
+ITU’s World Telecommunication Development Conference	11424
 Ict For Development	1764,1383,3772
 Identification For Development	10819
 Identification Principles for Sustainable Development	10765,10
@@ -1553,7 +1576,7 @@ Inter-American Development Bank	1814
 Intermediate Indicators Development Strategy	3604
 Internal Trade Development Authority	10498
 International Bank for Reconstitution and Development	10812
-International Bank for Reconstruction and Development	131,72,77,1,1,204,2,173,8,206,226,382,4,689,713,4564,3261,51,10,5,5,56,60,75,1,8,150,14,122,39
+International Bank for Reconstruction and Development	131,72,77,1,1,204,2,173,8,206,226,382,4,689,713,4564,3261,51,10,5,5,56,60,75,1,8,150,14,122,39,107
 International Business Development	9155
 International Centre for Evaluation and Development	5410
 International Centre for Tax and Development	7433
@@ -1561,6 +1584,7 @@ International Decade of Sciences for Sustainable Development	7498
 International Development	226,6547
 International Development Agency	2889
 International Development Association	1264,20,295,199,89,47,112,47,401,358,624,148,176,585,469,649,1,11,1259,699,946,1,34,44,505,1675,183,122,347
+International Development Association IDA Integrated Disease	11417
 International Development Association ISR Implementation	2889
 International Development Cooperation Agency	11004
 International Development Finance Corporation	2025,2422
@@ -1573,7 +1597,7 @@ Investment Company for Developing Countries	1420
 Investment Development Insurance	11310
 Investors and Development Partners	7645
 Irrigation and Livestock Development	7167
-Islamic Development Bank	238,715,175,1088,1502,780,1330,2522,594,2036,330
+Islamic Development Bank	238,715,175,1088,1502,780,1330,2522,594,2036,330,159
 Islamic Development Bank Institute	8778,166
 Italian Agency for Development Cooperation	9434,1029,321
 Italian Development	3604
@@ -1594,6 +1618,7 @@ Jointly Promote West Africa's Development	6003
 Journal of Development Studies	226
 Journal of Developmental Education	7278
 Journal of International Development	10726
+Journal of International Trade and Economic Development	11487
 Journal of Resources Development and Management	4432
 Jul-2022 TO Republic of Mozambique Digital Development	4653
 Jun-2024 Digital Development Financing	1704
@@ -1605,6 +1630,7 @@ KENYA Kenya Institute for Curriculum Development	899
 KICD Development	7548
 KICD Kenya Institute of Curriculum Development KIXP	7548
 KPDC Kribi Power Developpment Company	10975
+KU Development Futures Lab Student Research	11487
 Kajsa Osterberg Astrom. FCG Swedish Development	427
 Kampala-centric. Developing	2676
 Kay-Lyne Wolfenden Developed	6376
@@ -1683,6 +1709,7 @@ Learning and Development The Bank	11134
 Least Developed Countries	2663,4536,36,3529,80,160
 Least Developed Countries and Small Island Developing	6318
 Least Developed Country	3583,5894
+Least Developed Country Explore	11470
 Lesotho Millennium Development Agency	769
 Lesotho National Development Corporation	11134
 Lesotho's Ministry of Finance and Development Planning	8034
@@ -1719,11 +1746,14 @@ Luanda. Developed	9105
 Luanda. Developing	10784
 Lufhereng Mixed Use Development Project	11248
 Lösungen KfW Development Bank	1132
+M Nigeria Digital Identification for Development Education	11469
+M P175237 Innovation Development and Effectiveness	11469
 MAIN SOCIO-ECONOMIC DEVELOPMENT INDICATORS AND ICT	958
 MANGAUNG IDP STRATEGIC DEVELOPMENT OBJECTIVES	11231
 MANPOWER DEVELOPMENT AND CAPACITY BUILDING	11129
 MEET PRECONDITIONS A Develop	961
 MEET THE REQUIREMENTS OF THE DEVELOPMENT	11240
+MFD Maximizing Finance for Development MINEA Ministério	11380
 MICDE Develop	7548
 MICDE Support Develop and A-County-Level AI and A1-Youth	7548
 MICDE Support Develop and A-Functional	7548
@@ -1738,9 +1768,11 @@ MINEDH Ministry of Education and Human Development	4214
 MINISTER OF ECONOMIC PLANNING AND DEVELOPMENT	4247
 MJCS-ICT Development	5650
 MOF ICT Development	2638
-MPA Program Development Objective	3604
+MPA Program Development Objective	3604,7813
 MPA Program Development Objective Increase	3562
+MPA Program Development Objective Official Use	11417
 MPA Program Development Objective Original MPA	2712,3867
+MPA Program Financing Envelope Proposed Development	11417
 MSCC Developers Conference	7224
 MSME and Entrepreneurship Development	940
 MTDP Medium-Term Development Plan MTEF Medium-Term	11261
@@ -1762,6 +1794,7 @@ Management of Health Crisis Islamic Development Bank	897
 Mangaung IDP Strategic Development Objectives	11231
 Manpower Development and Capacity Building	11129
 Manpower Development and Capacity Building Strategy	11129
+Manual PPSD Project Procurement Strategy for Development	11417
 Manufacturing and Industrial Development Transformation AI	4528
 Mapping Global Opportunities for Sustainable Development	2303
 Maritime Security and Safety and Development	8192
@@ -1770,7 +1803,8 @@ Market Development	9094
 Market Development Department	1433
 Market and Developing Economies	2775,4171
 Mauritius Institute of Training and Development Act	7845
-Maximizing Finance for Development	1264,440,163,424,1165,106,42,7164
+Maximizing Finance for Development	1264,440,163,424,1165,106,42,7164,612
+Maximizing Finance for Development Official Use Only	11417
 Mayibongwe Maqhina Social Development Minister	3504
 Measuring Digital Development	1814,754,1510,32,860,6185
 Measuring Digital Development Facts and Figures	961
@@ -1912,7 +1946,7 @@ National Development Agenda	1554
 National Development Bank	3847,22
 National Development Framework	3861
 National Development Objectives Zimbabwe’s AI	4528
-National Development Plan	396,190,372,197,424,137,9,27,76,39,98,152,174,120,669,357,38,129,86,1126,428,24,177,4,84,44,616,10,184,62,215,101,4,12,51,70,207,132,138,47,359,195,109,1202,417,258,89,102,202,404,5,8,3,2,75,134,16,182,5,2,1,22,6,6,18,17,7,17
+National Development Plan	396,190,372,197,424,137,9,27,76,39,98,152,174,120,669,357,38,129,86,1126,428,24,177,4,84,44,616,10,184,62,215,101,4,12,51,70,207,132,138,47,359,195,109,1202,417,258,89,102,202,404,5,8,3,2,75,134,16,182,5,2,1,22,6,6,18,17,7,17,77
 National Development Plan CMM Cybersecurity Maturity	1000
 National Development Plan IV	6311,3898
 National Development Plan IV and Uganda's Vision	4217
@@ -1957,7 +1991,7 @@ National Geospatial Development Agency	4214
 National Geospatial Development Agency AI Artificial	4214
 National Government Constituencies Development Fund	6627,1942
 National Growth and Development Plan	4240,2881
-National Health Development Plan	897,2707,7172,4,49
+National Health Development Plan	897,2707,7172,4,49,588
 National Health Development Plan NPV Net	10829
 National Health Development Plan PRSEAH	10776
 National Health Sector Development Plan	10776
@@ -1999,6 +2033,7 @@ National Sustainable Development Fund	2473
 National Sustainable Development Strategy	2508
 National Treasury Health and Social Development Team	2307
 National Youth Development Agency OHS Occupational	11198
+Nations Development Programme African Union	11439
 Nations United Nations Development Programme United	4528
 Navarra Centre for International Development	10822
 Naymote Partners for Democratic Development	5475
@@ -2008,13 +2043,17 @@ Netherlands Development Organisation	10592
 News and Development Journalist Johannesburg	7546,2915,146
 News and Development Journalist. Johannesburg	7604
 News and Development JournalistJohannesburg	5411
+Nigeria Development Updates	11469
 Nigeria Digital Identification for Development	801,1580,1,8,8707
 Nigeria Digital Identification for Development Project	541,1529,4429
 Nigeria Digital Identification for Development Project World	543
 Nigeria Has the Development Objective	4688,3189
+Nigeria Primary Health Care Childhood Development	11469
 Nigeria US Trade and Development Agency	299,236,1034
+Nigeria's Development Agenda	11475
 Nigeria's National Information Technology Development Agency	9953
 Nigeria's National Space Research and Development Agency	3063
+Nigerian Development Partners Group	11468,1
 Nigeria’s National Information Technology Development	10424
 Nigeria’s National Information Technology Development Agency	5144,2028,2710
 Ninth National Development Plan	10510
@@ -2072,6 +2111,7 @@ PEI Project Development Objective PIM Partnership	10964
 PKI Data Center Development	1786,1417,3881
 POTRAZ's Research and Development	1554
 PPSD Procurement Strategy for Development SEA	10768
+PPSD Project Procurement Strategy for Development PRODEL	11380
 PPSD Project Procurement Strategy for Development PrDO	6539
 PRA Project Procurement Strategy for Development SBD	10964
 PREFACE DEVELOPMENT OF AN INCLUSIVE DATA	1161
@@ -2085,6 +2125,7 @@ Participation HUMAN DEVELOPMENT Health	10759
 Participation of Development Banks	11310
 Partnership Develop	1161
 Partnership Economic Affairs Commission Proposed Development	1704
+Partnership Framework Early Childhood Development Fragility	11468
 Partnership for Africa's Development	3867
 Partnership for Africa’s Development NGO	958
 Partnership for Development	2117
@@ -2136,6 +2177,7 @@ Post Hessequa Spatial Development Framework	11251
 Post Local Economic Development	11251
 Post2015 Development Agenda. Retrieved	10819
 Posts Integrated Development Planning	11251
+PrDO Program Development Objective RAC Regional	11417
 President Boakai's ARREST Agenda for Inclusive Development	4840
 Prevention Strategy NDP National Development Plan	11188
 Price Developments Consumer	11131
@@ -2158,8 +2200,9 @@ Private Sector Development and Job	353
 Product Development Center	1363
 Product GIZ German International Development Agency	1814
 Professional Development	6946
-Program Development Objective	2712,892,2935,40,4291
+Program Development Objective	2712,892,2935,40,4291,547
 Program Development Objective PSC Project Steering	6539
+Program Population Digital Development HOPE for Quality	11469
 Program for Managing for Development Results	43
 Programme African Development Bank	602
 Programme Development Officer	10112
@@ -2167,18 +2210,20 @@ Programme RDP Reconstruction and Development Programme RDSP	11261
 Programme for Infrastructure Development	961,3826,6105
 Project African Development Bank	601
 Project Cyber Management Licensing Empowerment Development	6946
-Project Development Objective	427,801,639,1022,100,615,1049,967,919,4290,134,1
+Project Development Objective	427,801,639,1022,100,615,1049,967,919,4290,134,1,453
 Project Development Objective Improved	1988
 Project Development Objective Indicators	1228,56
 Project Development Objective Indicators RESULT FRAME TBL PD	10964
 Project Development Objective PIM Project Implementation	2889
+Project Development Objective POM Project Operation	11417
 Project Development Objectives	10829
 Project Dr Melody Ndemera Development	1154
 Project ESMF Type Responsible Party Development	1988
 Project Economic Development Cooperation Fund	1082
 Project Location Development	11134
 Project Oversight and Development World Bank South	6832
-Project Procurement Strategy for Development	1264,1625,100,615,2935,4290,135
+Project Population IPF Digital Development	11469
+Project Procurement Strategy for Development	1264,1625,100,615,2935,4290,135,453
 Project Project Development Objectives	10964
 Project The African Development Bank	6594
 Project's Development Objectives	1228,56
@@ -2246,7 +2291,7 @@ Reformed Constituency Development Fund Dashboard	8667
 Refugee Affairs SDG Sustainable Developmental Goals	5533
 Regional Centre for Mapping of Resources for Development	5805
 Regional Developme	339
-Regional Development	55,1,69,122,1846,8871,21
+Regional Development	55,1,69,122,1846,8871,21,381
 Regional Development Forum for Africa	578
 Regional Development Plan	8645
 Regional Development Rebecca Miano and KenGen Chairman	1245
@@ -2358,6 +2403,7 @@ Secretary of Kuria West Constituency Development Fund	6946
 Secretary of State for Investment and Development	4295
 Sector Development and Green	789
 Sector Director for Digital Development for West and Central	4963
+Sector Institutional Development Project PDMP Power	11380
 Sectoral Development Integration	3861
 Senegalese Agency for Digital Development	4912
 Senior Business Development and Operations Manager	4723
@@ -2400,7 +2446,7 @@ Small Enterprise Development Finance Agency	8458
 Small Enterprises Development Company	9157,40,108,118
 Small Island Developing Countries	11191
 Small Island Developing State	10348,984
-Small Island Developing States	2663,250,3405,838,79,1757,1772
+Small Island Developing States	2663,250,3405,838,79,1757,1772,656
 Small Island Developing States. Education	8992
 Small and Medium Enterprise Development and Infrastructure	1778,210
 Small and Medium Enterprises Development	940,6496,825,3041
@@ -2495,6 +2541,7 @@ State of Digital Development	11140
 Statistics Development Support Project for Somalia African	809
 Stellar Development Foundation	2826,3542
 Storage Revenue Container Freight Traffic Developments	2775
+Strategic Allocation of ODA Official Development Assistance	11487
 Strategic Anchors for Fintech Development	4848
 Strategic Development	10856
 Strategic Development Area	1867
@@ -2506,6 +2553,7 @@ Strategic Investment Plan for Development	648
 Strategic Leadership Development	6946
 Strategic Move National Talent Development	4528
 Strategic Plan Development	10776
+Strategic Plan for International Development Cooperation	11487
 Strategy Development	1261
 Strategy National Development Strategy	4528
 Strategy for Development PRAMS Procurement Risk Assessment	3604
@@ -2525,7 +2573,7 @@ Supporting Developer Talent Sub-Saharan Africa	1363
 Supporting Development Of Kenya’s Human Capital	899
 Sustainability OUR MOTO Inspiring Development	718
 Sustainable Development	899,62,1814,183,8235,72
-Sustainable Development Finance Policy	3604
+Sustainable Development Finance Policy	3604,7865
 Sustainable Development Goal	718,52,473,624,121,690,680,225,1208,657,2838,750,84,19,943,241,453,36,7,12,311
 Sustainable Development Goals	309,13,74,124,62,95,89,23,151,18,3,8,1,161,30,35,65,474,79,14,749,101,97,183,47,171,35,372,21,9,147,101,185,80,304,98,718,104,183,122,45,103,19,61,411,42,1,1,136,464,304,390,795,104,412,2,116,487,160,19,28,31,289,113,125,401,4,58,4,32,7,10,2,9,125,41,127,22,38,2,15,14,13,28,24,43,24
 Sustainable Development Goals Goal	11332
@@ -2690,7 +2738,7 @@ US Development Finance Corporation	5216
 US International Development Finance Corporation	461,1,160,1,1,207,1,228,1,1,367,6,1,1,128,255,4971,3673
 US Trade and Development Agency	955,1329,1,2931,6141
 USAID Center for Digital Development USAID	217
-USAID United States Agency for International Development	396
+USAID United States Agency for International Development	396,10984
 Uganda Development Bank	4972,5444
 Uganda’s Ministry of Gender and Social Development	10822
 Uganda’s National Development Plan IV	9389
@@ -2707,7 +2755,7 @@ United Nations Development Business	1867,8962
 United Nations Development Group	1243
 United Nations Development Program	2000,1017,803,268,450,56,1857,1663,1056,1749,45
 United Nations Development Program. Experts	3583
-United Nations Development Programme	871,249,144,222,15,4,173,189,86,311,116,146,476,602,39,107,121,10,14,29,122,126,431,263,229,3,149,170,283,134,49,36,384,26,7,9,548,55,82,38,83,50,31,316,40,29,74,29,1,373,144,12,4,1,37,51,128,60,438,137,28,23,40,30,47,31,8,40,70,55,127,268,322,151,183,62,124,114,134,26,43,101,7,192,13,11
+United Nations Development Programme	871,249,144,222,15,4,173,189,86,311,116,146,476,602,39,107,121,10,14,29,122,126,431,263,229,3,149,170,283,134,49,36,384,26,7,9,548,55,82,38,83,50,31,316,40,29,74,29,1,373,144,12,4,1,37,51,128,60,438,137,28,23,40,30,47,31,8,40,70,55,127,268,322,151,183,62,124,114,134,26,43,101,7,192,13,11,131
 United Nations Development Programme Reference	9605
 United Nations Development Programme WiFi Wireless	6539
 United Nations Development Programme and Addis Ababa	7474
@@ -2752,6 +2800,7 @@ Verwaltung KfW Development Bank	902
 Vetting Development Bank of Southern Africa Page	11240
 Vice President of Sales and Business Development Africa	3281
 Video Surveillance Project China Development Bank	341
+Violence Fiscal Year International Development Association	11468
 Virtual Assets Developments The CBE	11134
 WATRA Infrastructure Development Working Group	5681
 WB Digital Development Partnership	525,634
@@ -2806,6 +2855,7 @@ World Bank's International Development Association	1579,675,2284
 World Bank's World Development	10985
 World Bank-financed Financial Sector Development Support	3473
 World Bank. AFRICA DEVELOPMENT FORUM Overview	11149
+World Bank. Angola Country Climate and Development	11417
 World Bank. Digital Public Infrastructure and Development	11006
 World Bank. World Development Report	10856
 World Bank’s Development Data Group	11133,9
@@ -2815,8 +2865,8 @@ World Bank’s Identity for Development	5700
 World Bank’s International Development Association	5500,3547
 World Bank’s International Development Statistics	581
 World Bank’s World Development Indicators	9759
-World Development	1828,268,8901,9
-World Development Indicators	4325,6497,7,12,15,280
+World Development	1828,268,8901,9,481
+World Development Indicators	4325,6497,7,12,15,280,244,37
 World Development Indicators Benin’s GDP	10856
 World Development Indicators WEO World Economic	11271
 World Development Indicators. The World Bank	10829

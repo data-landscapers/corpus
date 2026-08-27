@@ -19,6 +19,7 @@ Activation and Baseline	10157
 Actualização da Base de Dados	5204,1
 Adjusted EBITDA Basis	9735
 Africa. World Bank Group. Bastagli	10768
+AgriConnect Platform Baseline	11469
 Aims for Cultivating Students’ Key Competencies Based	6948
 Aimé Ossambié Bassolé	6889
 All Basotho Convention	11053
@@ -108,21 +109,24 @@ Base Transceiver Stations	6708,20
 Base Version	1512,1
 Base de Amostragem	10777
 Base de Artemisina Teste de Diagnóstico Rápido Taxa	10777
-Base de Dados	5204,1333,4217,18
+Base de Dados	5204,1333,4217,18,633,20
 Base de Dados de Cidadão Maior	10756
-Base de Dados de Cidadãos Maiores	5791,4981,3
-Base de Dados de Identificação Civil	6537
+Base de Dados de Cidadãos Maiores	5791,4981,3,650
+Base de Dados de Identificação Civil	6537,4888
+Base de Dados de Negocio Fase II	11480
+Base de Dados de Negócio Caraterísticas	11480
 Base de Données. C’est	10975
 Base de Ovos	10777
 Base-T	34
 Base-T Gigabit LAN	34
 Base-TX	34
 Baseband Security	10721
-Based	236,195,340,128,59,12,191,58,9,1,14,21,20,79,284,164,3,4,10,10,29,5,116,1001,38,134,118,80,5,123,96,21,48,93,117,264,88,439,23,46,126,48,76,141,131,204,85,18,311,216,261,89,1,1,1,1,97,10,132,77,173,9,8,8,2,13,105,114,42,42,14,39,231,96,51,185,86,124,211,10,125,24,144,19,54,102,57,1,6,280,6,72,83,27,20,408,20,98,112,291,503,1,4,11,6,9,18,7,10,12,15,9,1,15,82,1,21,19,126,1,3,2,4,2,50,3,41,1,25,27
+Based	236,195,340,128,59,12,191,58,9,1,14,21,20,79,284,164,3,4,10,10,29,5,116,1001,38,134,118,80,5,123,96,21,48,93,117,264,88,439,23,46,126,48,76,141,131,204,85,18,311,216,261,89,1,1,1,1,97,10,132,77,173,9,8,8,2,13,105,114,42,42,14,39,231,96,51,185,86,124,211,10,125,24,144,19,54,102,57,1,6,280,6,72,83,27,20,408,20,98,112,291,503,1,4,11,6,9,18,7,10,12,15,9,1,15,82,1,21,19,126,1,3,2,4,2,50,3,41,1,25,27,91,19,25,45
 Based Black Economic Empowerment CBM Citizen-based	11224
 Based Care	7761
 Based Health Service Delivery	10829
 Based Payment Services	5687
+Based PforR	11469
 Based Violence GMIS Geological and Mineral Information	2889
 Basedoncalculated	8606
 Basedonstatisticalandmachinelearningprinciples	8606
@@ -139,8 +143,8 @@ Basel Regulations Chaired	6938
 Basel Standards	7535
 Basel and Financial Stability Institute	6938
 Baselin1e.7AsBsausmelpinteioAnssumptions	10157
-Baseline	16,220,553,181,18,11,236,391,143,59,655,2,4,7,216,60,832,305,244,14,35,15,43,89,1003,225,485,368,2,147,969,470,2139,564,47,113,255,82,44,9
-Baseline Actual	2712,1941
+Baseline	16,220,553,181,18,11,236,391,143,59,655,2,4,7,216,60,832,305,244,14,35,15,43,89,1003,225,485,368,2,147,969,470,2139,564,47,113,255,82,44,9,198
+Baseline Actual	2712,1941,6742
 Baseline Assumptions All	10157
 Baseline Comparison	9772
 Baseline Configuration	4610
@@ -165,7 +169,8 @@ Baseline Values	7548
 Baseline Values Baseline	7548
 Basepaws	10165
 Bases	3118,1091,2761,1667
-Bases de Dados	966,9781
+Bases da Toponímia	11373
+Bases de Dados	966,9781,613
 Bases de Dados Artigo	6970
 Bases de Dados. Clica	966
 Basheer	6948
@@ -198,12 +203,14 @@ Basic Education Regulations	899
 Basic Education Sector	2526,8694
 Basic Education Sector Insights	11241
 Basic Education Sector. The Strategy	11220
+Basic Education for All Agriculture and Food Accelerating	11469
 Basic Emergency Obstetric and Newborn Care	9766
 Basic Guide. Cambridge	11310
 Basic Health	970
 Basic Health Care Provision Fund	4301,493
 Basic Healthcare Provision Fund	4301
 Basic ICT	6832
+Basic Indicators Report	11417
 Basic Information	2291
 Basic Infrastructure	1787,1417,3881
 Basic Law	10768,7,1
@@ -253,6 +260,7 @@ Basl'lilll	4301
 Basotho	2547,201,129,306,387,1527,1526,89,8,933,66,121,58,136,66,431,93,76,739
 Basotho. Developed	7840
 Basotho. Mr Plaatjies	8531
+Basquetebol	11429,3,47
 Bassa	10975
 Bassam	1005
 Bassani	3791
@@ -282,7 +290,7 @@ Bastos	2513,8462
 Bastos. Merveille Manuella Ngoufack Tsafack	2513
 Basupú Malabo	4209
 Basándose	1701
-Basée	3395,7039,252
+Basée	3395,7039,252,825
 Benin Tax Application Base Current	10856
 Bianca Basson and Kenneth Mokabo	2626
 Biggest Baseline Changes	9772
@@ -299,7 +307,9 @@ C- Baseline	7548
 C-Evidence Base	7548
 C1- Baseline	7548
 C3-Number of AI and Baseline	7548
+CAPÍTULO II BASE DE DADOS	11425
 CAPÍTULO III BASE DE DADOS	794
+CAPÍTULO IV BASE DE DADOS	11363
 CBC. The Basic Council	899
 CLOUD BASED ON DATA CATEGORIZATION	6432
 CLOUD BASED ON DATA CATEGORIZATION Technical	6432
@@ -319,16 +329,19 @@ Community Based Information System	4202
 Community Based Surveillance	4349
 Community and Local Government Basic Social Services	10822
 Competency Based Curriculum CBK Central Bank	2775
+Components Baseline Closing Period Strengthening	11417
 Components Baseline Period	1264,603,1737,7164
 Components RESULT FRAME TBL IO Indicator Name PBC Baseline	1228
 Components RESULT FRAME TBL IO PBC Baseline Intermediate	10964
 Components Resilient Digital Infrastructure Baseline Actual	4688,3189
+Concertação Social CBD Condições Baseadas	11390
 Cong Basin	10980
 Congo Basin	1715,113,8935
 Congo Basin. Arusha Technical College	9944
 Constitutional Basis	3861
 Constitutional Basis and Enabling Legislation	3861
 Consumer Price Basket	2775
+Conteúdo da Base de Dados	11425
 Control Management BBBEE Broad Based Black	5533
 Core Basket	2775
 Core Basket and Weights	2775
@@ -339,14 +352,16 @@ Customer Base Ingestion PB	8999
 Customer Premises Stations Out Associated Base	736
 Customers. Based	9123
 Código da Base	966
+DADOS DE LINHA DE BASE	11390
 DANS LA VILLE DE GRAND BASSAM	1005
 DAS BASES DE DADOS	10747
 DATA AS THE BASIS	961
 DATA PRIVACY AND SECURITY BASELINES	3861
 DATASHEET BASIC INFORMATION BASIC INFO TABLE Country	10829
 DATASHEET BASIC INFORMATION Project Name BASIC INFO TABLE	10964
-DATASHEET BASIC INFORMATION Project Operation Name	1867,1737,7164
+DATASHEET BASIC INFORMATION Project Operation Name	1867,1737,7164,649
 DE BASE	10847
+DE BASE DE DADOS	11391
 DE NORMAS BASICAS DE LA PROTECCION	163
 DESCRIPTION OF THE BASELINE ENVIRONMENT	1988
 DIVINE MERCY COMMUNITY BASED ORGANIZATION Data	7167
@@ -394,6 +409,7 @@ Emerging Baseline	7548
 Emerging Percentage of National AI Baseline	7548
 Emily Bass	3972,195,2367
 Emily Bass's Substack	3972
+Empreendedorismo de Base Tecnológica	11385
 Energy Access Diagnostic Report Based	423
 Enseignement de Base	10847
 Enugu State Universal Basic Education Board	6211
@@ -415,7 +431,9 @@ FY Fiscal Year GBVH Gender Based	1818
 Farah Bashir	7265
 Fee- Based Export Promotion Assistance	5773
 Female Basic Phone Smartphone Feature Phone	582
+Finalidade da Base de Dados	11363
 Findings and Recommendations Based	2659,1555
+Fiscal Year Based	11469
 Floor Lake Basin Mall	6946
 Food Basket	6947
 Food and Agriculture Organization FBO Faith Based	2775
@@ -455,6 +473,7 @@ HAUTS BASSINS TX Red	10847
 HCB Hydro Cahora Bassa IPP Independent	11228
 HISTORICAL BASELINE	1713,107,131
 HL7 FHIR Basic Patient Privacy Consent	1009
+HOPE for Quality Basic	11469
 HOUSING AND BASIC SERVICES	11192
 Hanady Basheer	6948
 Hauts Bassins	737
@@ -470,7 +489,7 @@ Hon Bashir Lubega	1015
 Human Basic	970
 Hydro Cahora Bassa	11228
 ICT Based	7548
-ICT Price Basket	11262
+ICT Price Basket	11262,137
 INDUCEMENT AND OTHER ELECTORAL MALPRACTICES Based	10049
 INSPECCION GRAL. SERV. LABORATORIOS Y BASE	4209
 INTEGRATION DES DONNEES DANS LA BASE	10876
@@ -518,7 +537,9 @@ Legal Basis Finder	7409
 Legal Basis Project	7409
 Legal Basis Rates	9437
 Lei de Base da Inteligência Artificial	2690
-Lei de Bases	15,6254,156,4330
+Lei de Bases	15,6254,156,4330,610,3,9,10,3,6,1,9,13,38
+Lei de Bases da Função Pública	11452
+Lei de Bases da Protecção Social	11467
 Ley de Bases	1701
 Local Area Networks LBDA Lake Basin	6946
 Logiciels de Base	6235
@@ -572,6 +593,7 @@ Natureza de Prova de Vida. A Base de Dados	5204,1
 Naval Force Base	6230
 News PS Ummi Bashir	8217
 Nigeria Baseline Actual	4688,3189
+Nigeria Movable Asset Based	11469
 Nigeria’s Basic Health Care Provision Fund	4794
 Nome da Base	966
 Non-Core Basket and Weights	2775
@@ -583,6 +605,7 @@ Number of ESIA Baseline	7548
 Number of Kenyan Baseline	7548
 Number of SMEs Baseline	7548
 Néonatale Santé M. Bassirou Nignan Directeur	10812
+O BASTONÁRIO DA ORDEM DOS ADVOGADOS	11436
 O Indicator Name PBC Baseline Intermediate	10964
 OBJET DE LA REQUETE Base	10821
 OECD Basket	1013
@@ -600,7 +623,9 @@ Outcomes RESULT FRAME TBL PDO Indicator Name PBC Baseline	1228
 PBC Baseline End Target	1284
 PBC Baseline Intermediate Targets End Target	10829
 PBC Name Baseline Closing Period	10870
+PDO Outcomes Baseline Closing Period Strengthen	11417
 PDO Outcomes Baseline Period	1264,603,1737,7164
+PDO-Level Indicators Baseline End Target	11417
 PIDIA00549 BASIC INFORMATION A. Basic Project	1704
 PIDIA00880 BASIC INFORMATION A. Basic Project	2291
 POPIA. Based	6632
@@ -610,9 +635,11 @@ PUBLIC PUBLIC Obj. Monitoring Details Baseline	1818
 Partners Hidroeléctrica de Cahora Bassa Comunidade	9409
 Paul Ndungutse DATASHEET BASIC INFORMATION Project	3562
 Per-operator Base Stations	6000
+Performance Based	11469
 Performance Based Conditions	6539
 Physical Controls Basic	21
 Pico Basilé	3179
+Plano de Operação Base E6	11442
 Population Bas-Sassandra	747
 Portfolio Committee Chairpersons of Basic Education	11220
 President Bassirou Diomaye Diakhar Faye	7543
@@ -640,6 +667,7 @@ Recommendations Based	8130
 Recouvrement BEPS Base Erosion Profit Shifting	10712
 Recusa de Decisões Baseadas	3519
 Registered Taxpayer Base	10984
+Regulamento da Lei de Bases	11396
 Relatório de Indicadores de Linha de Base	10775
 Reports Baseline	970
 Republic of Liberia H.E. Bassirou Diomaye Faye	7452
@@ -647,7 +675,9 @@ Results Based	766
 Results Framework for DMAP Indicators Baseline	1704
 Revised Indicator Name Baseline Actual	4653
 Richmond Bassey	7446
+River Basin Authorities. Output	11420
 Roberta Malee Bassett and Paul Seaden	6832
+Robust Int’l Nigeria Infrastructure Baseline	11469
 Rukwa Basin	10592
 République Bassirou Diomayè Diakhar FAŸE	11139
 S S S BASIC INFORMATION	1284
@@ -676,6 +706,7 @@ Sistemas Baseados	2816
 Smartphone Base	11004
 Smartphone-Supported Malaria Diagnosis Based	11140
 Social Basic Health	970
+Social Protection Baseline	11469
 Social Protection Basic Social Protection Basic	10775
 Soma and Basse. Registration	9316
 Son Excellence Monsieur Bassirou Diomaye Diakhar	8269
@@ -699,6 +730,7 @@ Technology-Facilitated Gender Based Violence	11202
 Tehilah Base Digital Ltd	3862
 Themba Laboratory for Accelerator Based Sciences MRC	5246
 Training Based	1988
+Tratamento da Base de Dados	11363
 Treatment Baseline	4202
 Truly Risk Based Regulation of Artificial Intelligence	11140
 Tx MHz Base Station Tx MHz	736
@@ -714,6 +746,7 @@ Uwamahoro and Basingize	9969
 VISION Based	10960
 Vandenberg Space Force Base	6897
 VfM. Based	10768
+Violência Baseada	11406,7
 W Base Station	736
 Wacc Amortissement Base Tarifaire Nette	10975
 Wesley Girls Basic School	8384

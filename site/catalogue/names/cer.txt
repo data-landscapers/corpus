@@ -44,6 +44,7 @@ Attach Company Certificate of Incorporation	736
 Authority Accreditation and Certification	587
 Authority CERT-GH	775
 Authority Certification	7548
+Autoridades Certificadoras	11396,1
 B-BBEE CERTIFICATE OR SWORN AFFIDAVIT	11240
 B-BBEE Certificate	7210
 B-BBEE Verification Certificate	11235
@@ -150,7 +151,7 @@ COPIE CERTIFIEE JONFORME CERTIFIED TRYE COPY	10974
 COPIE CERTIFIÉE CONFORME	10981
 CSI Handover Ceremony	11131
 Cameroun. Certains	10965
-Carolina Cerqueira. Promulgada	3519
+Carolina Cerqueira. Promulgada	3519,7890,16
 Center for Media Studies and Peacebuilding CERT	5244
 Cerca	795,3249,6713
 Cercle	3520,5200,567,55,155
@@ -180,23 +181,29 @@ Certain Effects	7198
 Certain Financial Forecasts	7198
 Certain Responsible Parties	11255
 Certaines	748,439,635,162,85,331,2913,60,864,722,396,48,310,117,268,257,286,250,389,444,542,21,102,90,232,110,5,49,100
-Certains	643,104,1,483,753,277,152,352,700,343,430,918,743,616,100,344,138,558,58,989,35,79,75,627,480,241,48,102,126,196,110,5,49,90,49
+Certains	643,104,1,483,753,277,152,352,700,343,430,918,743,616,100,344,138,558,58,989,35,79,75,627,480,241,48,102,126,196,110,5,49,90,49,485
 Certains Camerounais	3808
 Certainty	5487
 Certamen Miss Guinea	4209
 Certes	8891,1604,326
 Certi	4896
-Certidão	10772,5
+Certidão	10772,5,668
+Certidão Cadastral	11384
 Certidão Narrativa Completa	10749,7
 Certidão Nascimento	10765,10
+Certidão Notarial	11435
 Certidão de Baptismo	10749,7
 Certidão de Casamento	10777
+Certidão de Dívida Tributária	11435
+Certidão de Dívida Tributária CRF	11435
 Certidão de Nascimento	10765,7,3
 Certidão de Nascimento. Ou	10772
 Certidão de Quitação Fiscal	8731
+Certidões	11452
+Certidões Cadastrais	11384
 Certificaciones de Pagos	4209
 Certificación de Productos	4209
-Certificado	794,9956,1
+Certificado	794,9956,1,620,2,46,53
 Certificado Positivo	10750,1
 Certificado de Actualizacion PE	4209
 Certificado de Actualizacion PE INFORMACIÓN Rótulos	4209
@@ -205,16 +212,20 @@ Certificado de Actualización PE ACTUAL	4209
 Certificado de Actualización PE INDUSTRIA INSPECCION ANUAL	4209
 Certificado de Actualización PE INFORMACIÓN Rótulos	4209
 Certificado de Actualización PE Libreta	4209
+Certificado de Admissibilidade	11435
 Certificado de Capacidade Matrimonial. Esta	2688
 Certificado de Comercio	4209
 Certificado de Comercio Certificado de Comercio	4209
 Certificado de Comercio Certificado de Comercio Libreta	4209
+Certificado de Registo Comercial	11404
 Certificado de Registo Criminal	2688,3298
 Certificado de Registo Criminal. Edição Nº	10752
-Certificados	10752
+Certificado de Residência Fiscal	11435
+Certificados	10752,667
 Certificados Digitais	1431,715,2317
 Certificados de Encriptação	794
 Certificados de Registo Criminal	10750
+Certificar	11376
 Certificat	1706,1339,407,968,1111,686,4,1567,949,2139
 Certificat Foncier Rural CI Consultant Individuel	10876
 Certificat NPI	1769,2083
@@ -249,7 +260,7 @@ Certificate of Independent Tender Determination	1638
 Certificate of Occupancy	11129
 Certificate of Origin Name	1988
 Certificate of Proficiency	1554
-Certificate of Registration	9779,378
+Certificate of Registration	9779,378,1337
 Certificate of Simple Prior Notification	8769
 Certificate of Title	1249
 Certificated	4896
@@ -263,7 +274,7 @@ Certificates of Incorporation	1988
 Certificates of Origin	7142
 Certificates of Recognition and Merit	7702
 Certificates of Registration	9646,511
-Certification	587,149,264,9,222,13,1098,1519,1690,114,71,57,639,504,119,493,1451,617,697,499,29,28,87,18,165,81,21,106
+Certification	587,149,264,9,222,13,1098,1519,1690,114,71,57,639,504,119,493,1451,617,697,499,29,28,87,18,165,81,21,106,146
 Certification Authorities	9880
 Certification Authority	1009,10175
 Certification Authority and Digital Trust Centre	2692
@@ -290,11 +301,11 @@ Certifications Issued	4528
 Certificats	5899,4977
 Certificats Internationaux de Transhumance Nombre	3396
 Certificats de Nationalité	3045
-Certificação	2816,703,2943
+Certificação	2816,703,2943,4957,25
 Certificação Artigo	6462
 Certificação Digital	7948,361
 Certificação Digital.Ao	8308
-Certificações	2816
+Certificações	2816,8625,7,8
 Certified	736,2978,220,5937,536,567,266
 Certified Data Protection Officer	7258
 Certified Data Protection Supervisors and Officers	3582
@@ -329,6 +340,7 @@ Certiﬁcation	2709
 Certiﬁcation A Digital Health Solution Vendor	2709
 Certiﬁcation Framework	2709
 Cerutti	11140
+Cervical	11417
 Cervical Cancer	1363
 Cervigni	10963,1
 Chamber Registration Certificates	10645
@@ -343,6 +355,7 @@ Comprehensive Agriculture Trade Programme. Certain	8550
 Computer Security Incident Response Team CERT	1000
 Conformance Assessment and Conformance Certification	1009
 Constituency Sectorial CERTS	775
+Contingent Emergency Response Component CERC Country	11417
 Contingent Emergency Response Component CERC Steering	1228
 Country Climate and Development Report CERC Contingent	1264
 Country Signing Certificate Authorities	7370,191
@@ -375,6 +388,7 @@ Distribution List for Notifications CERT-GH	775
 Dominican Certificate Administration System	10714
 Downs Shoprite Ceres Shoprite Fish Hoek	8999
 Délivrer des Certificats	10876
+E CERTIFICADORA	11397
 E-CSP Electronic Certification Service Provider EMDE	6946
 E-Life Certification	8999
 EDGE Data Center Certification	1264
@@ -385,6 +399,7 @@ Ejercicios Cerrados	4209
 Electronic Certification Administration	6946
 Electronic Certification Service Providers	6946
 Emergency Response Component CERT Computer Emergency	1264
+Emissão da Certidão Cadastral	11384
 Entidade Certificadora Raiz de Angola	8309
 Entidades Certificadoras	8309
 Establish Certification	1000
@@ -425,6 +440,7 @@ Inhambane and Zambezia. The CERC Manual and Emergency	1228
 Institut Cerco International	8162
 Institute of Certified Accountants	1964
 Institute of Certified Public Accountants of Kenya	6946,3097
+Institute of Certified Public Secretaries of Kenya	11464
 Institute of Certified Secretaries of Kenya	6946
 Instituteur Adjoint Certifié IC	10847
 Instituteur Certifié IEPD	10847
@@ -483,6 +499,7 @@ Offsec Certified Professional	1940
 Online IT Certification System	5466
 Opération Certificat	10876
 Original Birth Certificate	11282
+Ou Certificado de Admissibilidade	11435
 PARCOURS CERTIFIANT EN FINANCE DIGITALE	10237
 POTRAZ. Certification	8437
 PROCÉDURES D'AUDIT CONTROLE ET CERTIFICATION SYSTÈME	10906
@@ -490,6 +507,7 @@ PROVISION OF E-HEALTH AND CERTIFICATION	2709
 PY CERTIFIED TRUE C PART VII	10974
 People TRANCRAA Transformation of Certain Rural Areas	11197
 Phytosanitary Certificate	1988
+Plataforma Nacional de Certificação	11419
 Postgraduate Certificate	4896,2050
 Primary Education KCSE Kenya Certificate of Secondary	2775
 Proactive Activities CERT-GH	775
@@ -509,6 +527,7 @@ RESULTATS AU CERTIFICAT D'ETUDE PRIMAIRE SESSION	10847
 Radio Amateur Examination Certificate	736
 Radio Amateur Operator’s Certificate	736
 Receiver I Certify	736
+Regime de Prescrição de Certos Bens Abandonados	11404
 Registration Certificate	11250
 Registration and CertificatiCoonm	736
 Registration and Certification	736

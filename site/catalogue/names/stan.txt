@@ -183,8 +183,9 @@ Enterprise Architecture Standards	9124
 Entlaq The Standard Chartered Women	10745
 Environment and Social Standards	10829
 Environmental and Social Standard	1988
-Environmental and Social Standards	1988,1468,148,7225,135
+Environmental and Social Standards	1988,1468,148,7225,135,453
 Environmental and Social Standards EU European Union	10829
+Environmental and Social Standards Enhancement Project	11469
 Environmental and Social Standards Relevance Given	10829,135
 Era. Standard Bank Group	6875
 Establish Security Standard	1000
@@ -234,6 +235,7 @@ Good Standing. Where the Board	8866
 Governance Standards The Company	4896
 Governance Standards and Technology	11216
 Government ICT Specifications Standards	2779
+Government Office Equipment Standards	11503
 Government Standards Adoption Based	5349
 Government of Rwanda Enterprise Architecture Standards Page	9124
 Government of Rwanda Enterprise Architecture Standards.docx	9124
@@ -262,6 +264,7 @@ Hon. Stanley Adedeji Olajide	6536
 Hon. Stanley Olajide	6536
 Humano de Stanford	2816
 I Objectives and Standards	5132
+IAASB International Auditing and Assurance Standards Board	11380
 IATI Standard	6982
 ICBC and Standard Bank	378
 ICT Accessibility Standard	6946
@@ -310,7 +313,7 @@ International Standard	4896,5897,336
 International Standard Classification of Activities	236
 International Standard IS0	11179
 International Standard Industrial Classification	236,10916
-International Standards	236,663,2152,553,1292,1536,514,3847,36
+International Standards	236,663,2152,553,1292,1536,514,3847,36,571
 International Standards Certificates	6432
 International Standards Certificates. All	6432
 International Standards Organisation	9239
@@ -496,6 +499,7 @@ Relevant World Bank Environmental and Social Standards	1988
 Report of Standing Committee	11285
 Reporting Standard IPAS Industrial Property Automation	11250
 Revenue Allocation Standards and Guidelines	9939
+Review Summary ESS Environmental and Social Standards	11380
 Revised STANDARDS	11269
 Rockefeller Foundation and Stanford	942
 Rubavu Societe Petroliere Bugesera Standard Gas	718
@@ -505,7 +509,7 @@ Rwanda Standard Board	9123
 Rwanda Standards	9123
 Rwanda Standards Board	1534,7589
 Rwanda Standards Board. Receptacles	9123
-S Standards Relevance ESS	1867,4672,4229
+S Standards Relevance ESS	1867,4672,4229,649
 S Standards Relevance Relevant ESS	3604
 SADC Standing Committee of Senior Officials	9761
 SC-AGC Standing Committee	11184
@@ -516,6 +520,7 @@ SERVICE DELIVERY REQUIREMENTS Standard Digital	9855
 SETTING OF STANDARDS	11184
 SIEC Standard Industrial Energy Product Classification	2775
 SITC Standard International Trade Classification PAGE	2775
+SLIPTA Standard Operating Procedure SOP State	11417
 SMARTCARE HEALTH INFORMATION SYSTEM STANDARDS	34
 SOFTWARE DEVELOPMENT STANDARDS AND GUIDELINES	34
 SOFTWARE DEVELOPMENT STANDARDS AND GUIDELINES Software	34
@@ -563,6 +568,7 @@ Senate Standing Orders	11247
 Senior Standards Expert Matano Ndaro	10336
 Service Delivery Standards	6786
 Shop Silundika Harare Stand Land Chinhoyi	4896
+Social SES Social and Environmental Standard	11390
 Social Standards GBV Financial Management GDP	10964
 Solutions Stanbic Bank’s Africa China Trade	5247
 Somalia Starts Review of Higher Education Standards	11150
@@ -613,7 +619,7 @@ Standalone AI	5463
 Standalone Estratégia Nacional de Saúde Digital	7707
 Standalone National Digital Health Strategic Plan	7707
 Standalone YTD Retail Volumes	7446
-Standard	21,13,12,1,35,297,630,114,31,484,288,58,4,267,311,102,220,32,354,52,452,83,237,577,240,84,132,1,23,57,10,122,1,65,70,60,18,450,43,35,13,6,74,26,35,4,1,179,242,116,1,102,7,54,1,67,32,101,160,51,64,1,125,15,323,100,19,13,283,112,149,308,253,6,516,294,92,69,57,138,18,348,313,1,5,17,132,5,46,4,49,26,51
+Standard	21,13,12,1,35,297,630,114,31,484,288,58,4,267,311,102,220,32,354,52,452,83,237,577,240,84,132,1,23,57,10,122,1,65,70,60,18,450,43,35,13,6,74,26,35,4,1,179,242,116,1,102,7,54,1,67,32,101,160,51,64,1,125,15,323,100,19,13,283,112,149,308,253,6,516,294,92,69,57,138,18,348,313,1,5,17,132,5,46,4,49,26,51,76
 Standard Bank	378,604,421,26,6,1621,379,10,596,12,120,288,363,260,163,286,58,215,1064,5,464,160,259,268,425,304,838,109,18,176,130,163,265,5,213,134,369
 Standard Bank ATMs	6996
 Standard Bank Africa Trade Barometer	6870,1156,2602
@@ -682,6 +688,7 @@ Standard Digital Hubs	6946,2263
 Standard Digital Hubs and Centres of Excellence	6946
 Standard EHS	1988
 Standard Expression of Interest Forms	962
+Standard Forms of Agreement	11417
 Standard Gauge Railway	2775,6717,1100
 Standard Gauge Railway Traffic	2775
 Standard Gauge Railway. The TTCL-managed NICTBB	9149
@@ -697,9 +704,10 @@ Standard Lesotho Bank's Samuel Koetle	2877
 Standard MtM FTTH	11259
 Standard No	11269
 Standard No. and Edition Title Reason	11269
+Standard Official Use Only Page	11417
 Standard Operating Procedure	1000,9721
 Standard Operating Procedure CCMP.S6	10721
-Standard Operating Procedures	396,758,130,270,434,5416,3317,469,62
+Standard Operating Procedures	396,758,130,270,434,5416,3317,469,62,165
 Standard Prepaid Data Bundles	11259
 Standard Prepaid Data Bundles Prices and OOB	11259
 Standard Price	11259
@@ -750,7 +758,7 @@ Standardized Electronic	9855
 Standardized Items	11129
 Standardized Levels of Assurance	10819
 Standardized Monitoring and Assess	10841
-Standards	11,10,13,966,237,587,164,739,324,663,139,8,81,184,76,166,848,312,148,1,234,512,505,18,374,228,223,754,145,453,283,553,484,120,201,55,330,35,38
+Standards	11,10,13,966,237,587,164,739,324,663,139,8,81,184,76,166,848,312,148,1,234,512,505,18,374,228,223,754,145,453,283,553,484,120,201,55,330,35,38,149
 Standards Act	1988,5560,3721
 Standards Act. Draft Standard No. and Edition	11269
 Standards Act. Standard No	11269
@@ -769,7 +777,7 @@ Standards International Organisation for Alignment	961
 Standards Mandatory	5665
 Standards Manual	11132
 Standards OASIS Web Services Notification Family	1009
-Standards Relevance Given	1867,121,1574,42,2935,4229
+Standards Relevance Given	1867,121,1574,42,2935,4229,649
 Standards Selection Principles	11184
 Standards Service	5676
 Standards WS- Base Notification	1009
@@ -811,6 +819,7 @@ Stanford HAI AI Index	8126
 Stanford Law Rev	5242
 Stanford Professor John McCarthy	1243
 Stanford University	1243,311,1262,4934,3404
+Stanford University AI Index Report	11495
 Stanford University Human-Centered Artificial Intelligence	1243
 Stanford University Press	11138
 Stanford University Thesis	4676

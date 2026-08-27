@@ -29,6 +29,7 @@ Apenas Agressão Castigo	10760
 Aratek USE CASE AND CONTEXT	10852
 Arco Cash	8732
 Ato Forson Finance Minister Dr Cassiel	7740
+Augusta Casa. I. Análise da Proposta de Lei	11436
 Authorised CASP	8840
 Authorised CASPs	8840
 B978-0-12-816169-2.00020-1 Castleberry	8603
@@ -93,7 +94,8 @@ CASHIA MONEY REMITTANCE LIMITED Data Controller	7167
 CASHMART CAPITAL LIMITED Data Controller INST-425965BB948	7167
 CASHMART CAPITAL LIMITED Data Processor INST-425965BB948	7167
 CASI Integrated Social Action Center	10768
-CASIs	10768
+CASIS and MAS	11395
+CASIs	10768,607,20
 CASIs and ADECOS	10763
 CASMARA MEDICAL CLINIC Data Controller INST-580834830B3	7167
 CASOS DE APLICAÇÃO DA INTELIGÊNCIA ARTIFICIAL	2816
@@ -124,7 +126,7 @@ Casa Parroquial	4209
 Casa da Moeda	6571
 Casa da Moeda de Portugal	4415,1,1,1
 CasaTech	6037
-Casablanca	627,1584,47,84,233,98,149,179,112,262,225,259,225,1139,45,139,339,26,311,103,323,912,308,1162,592,653,685
+Casablanca	627,1584,47,84,233,98,149,179,112,262,225,259,225,1139,45,139,339,26,311,103,323,912,308,1162,592,653,685,678
 Casablanca Commuter Rail Line	4769,394,334,86
 Casablanca Investors Roundtable	5268
 Casablanca LBC	5592
@@ -139,6 +141,7 @@ Casalini	1243,9911
 Casamance	5207,572
 Casamance. Une	4899
 Casanearshore	168,2945
+Casas	11458
 Cascade	6423
 Cascades	737,6090,4031,6,11
 Cascades Boromo Centre Mouhoun Fara	10875
@@ -239,7 +242,7 @@ Cash Persists	10277
 Cash Point	8816
 Cash Power	9973
 Cash Transaction Reports	789
-Cash Transfer	424,2351,8189
+Cash Transfer	424,2351,8189,411,20
 Cash Transfer Beneficiaries D. Results Chain	10768
 Cash Transfer Compensation Program	10991
 Cash Transfer Process and Regulations	4439
@@ -289,7 +292,7 @@ Casline Medical Centre Data Controller INST-9880402C564	7167
 Caso AGT	4203
 Caso de Serviços de Informação	10755
 Caso de Serviços de Iniciação	10755
-Casos	2345,56,6775
+Casos	2345,56,6775,2254
 Casos de Aplicação da Inteligência Artificial Actualmente	2816
 Casovan	11135
 CassVita	4972
@@ -299,7 +302,7 @@ Cassai-Sul	9399
 Cassava	618,578,233,7,33,46,211,299,67,515,954,35,351,478,36,334,471,31,14,53,75,296,1,1,110,317,1,67,18,17,204,94,15,87,800,1028,2546,269
 Cassava ADC	4730
 Cassava AI	1843,3383,71,440,930
-Cassava AI Factory	5439,388,5510
+Cassava AI Factory	5439,388,5510,134
 Cassava AI Multi-Model Exchange	5439
 Cassava AI’s Nvidia-powered	10727
 Cassava AiCloud	5827
@@ -344,6 +347,7 @@ Cassava’s AI Factory	5311
 Cassava’s Africa Data Centres	4425
 Cassava’s Cloud Partner	5311
 Cassava’s GPUs and Kasi’s AI	6580
+Cassengo	11484
 Casseques	5721
 Cassidy	3782
 Cassius Lubisi	5533
@@ -378,8 +382,8 @@ Celtiis Cash. Malgré	2261
 Central Darfur. Group Cash Transfers	6947
 Centre Cascades	737
 Certidão de Casamento	10777
-Chefe da Casa Civil	2581,1566,2390,103
-Chefe da Casa Militar	4147
+Chefe da Casa Civil	2581,1566,2390,103,4753,15
+Chefe da Casa Militar	4147,7274
 Child Protection Cases Reported	2775
 Child Value Cash Transfer Program	10763,5
 Chipper Cash	9345
@@ -517,6 +521,7 @@ M Drugs Case	10644
 M and Castells	2096
 MARIA CASSESSA VATALA	10751
 MDA Cash Payment Solution	2287
+Magna Casa	11436
 Maintaining Cash Flow	9437
 Maj Gen Castino	4836
 Malawi and Zimbabwe Dr Casper Kamutando University	1154
@@ -546,8 +551,10 @@ Msasa Cash	4896
 Multipurpose Cash Assistance	6947
 N DATA COMMUNiTiES USE CASE Typically	961
 NATIONAL INTEROPERABILITY USE CASES UNPACKED	1009
+Nas Casas Fortes	11438
 National Case Management System	8978
 National Case Management System. If the Supreme	8978
+National Clinical Case Management Guidelines	11417
 National Interoperability USE Cases	1009
 National Interoperability Use Case	1009
 National Interoperability Use Cases	1009

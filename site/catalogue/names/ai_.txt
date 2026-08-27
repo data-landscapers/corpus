@@ -132,6 +132,9 @@ AI Citizen Service Assistant for Smart Local	10347
 AI City Scheme	7845
 AI City Scheme AI City Scheme	7845
 AI City Scheme Certificate	7845
+AI Cloud	11502
+AI Cloud. Delivering Exascale-performance	11502
+AI Clouds	11502
 AI Code of Practice	7548
 AI Collaborative	3344
 AI Collective	7224,786
@@ -315,6 +318,7 @@ AI Individuals	4126
 AI Industry	8644,2512
 AI Infrastructure	5482,3082,65
 AI Infrastructure Investment Pipeline	7548
+AI Infrastructure Solutions	11502
 AI Infrastructure and Data Governance Pillar	4528
 AI Infrastructure and Data Governance Unit	4528
 AI Innovation Act	7548
@@ -456,6 +460,7 @@ AI Research Labs	4528
 AI Research and Innovation Alliance	2142
 AI Research and Innovation Alliance Ostafrikanische Allianz	2142
 AI Researchers	4528
+AI Response	11439
 AI Responsible AI	4126
 AI Revolution	1204,610,4994,740
 AI Revolutionizing Industries Worldwide	6948
@@ -757,7 +762,7 @@ AI. AI Now Institute	11135
 AI. AI-specific	6948
 AI. Accordingly	11265
 AI. Africa	6808
-AI. African	8113
+AI. African	8113,3392
 AI. Agent	8126
 AI. Alisema	8411
 AI. Analyses	10201
@@ -802,6 +807,7 @@ AI. Ethiopia's Deputy Prime Minister	5073
 AI. European Commission	11050
 AI. Every G20	6386
 AI. Far	9169
+AI. Fintech	11505
 AI. For Africa	1814
 AI. For Argentina	11135
 AI. From Availability	4528
@@ -888,6 +894,7 @@ AI. This Recommendation	4126
 AI. Though	5363
 AI. Through	8460
 AI. UNESCO	7841
+AI. UNESCO UNESCO	11439
 AI. UNESCO's Recommendation	5036
 AI. USAID	9788
 AI. While the High-Level Expert Group	11050
@@ -1216,7 +1223,7 @@ Canadian AI and Data Act	1814
 Cape Verde Launches National Data and AI	6050
 Caribou and Genesis Analytics. Preparing for AI	6948
 Cassava AI	1843,3383,71,440,930
-Cassava AI Factory	5439,388,5510
+Cassava AI Factory	5439,388,5510,134
 Cassava AI Multi-Model Exchange	5439
 Cassava's AI	5847
 Cassava’s AI Factory	5311
@@ -1278,6 +1285,7 @@ Comparative AI Strategy References	4528
 Competency Framework for AI Literacy	6948
 Competition Authority Responsible AI	7548
 Comprehensive AI	7548
+Comprehensive Ecosystem for Sovereign AI	11502
 Computational Sovereignty Zimbabwe National AI Strategy	4528
 Compute AI	5297
 Conceptualizations of AI	6948
@@ -1305,6 +1313,7 @@ Cost of Inaction AI	7548
 Cotonou Ai Academy	10542
 Council of County AI Focal Point Intergovernme	7548
 Council of Ministers. A National AI Commission	6377
+Country Landscape AI	11483
 County AI	7548
 County AI Focal Point	7548
 County AI Focal Points	7548
@@ -1741,6 +1750,7 @@ Global AI Dialogue	7112,12,46,4
 Global AI Diffusion Report Q1	8126
 Global AI Divide	4734
 Global AI Economy Players and AI Intensity	1814
+Global AI Ethics and Governance Observatory Country	11483
 Global AI Governance	1814,6329,597,2205
 Global AI Governance Dialogue	6933
 Global AI Governance Efforts	4734
@@ -1984,6 +1994,7 @@ Ivoire's AI	3175
 JAMII AI	7864
 JUZA AI LTD	8209
 Johannesburg's AI	4425
+Johannesburg. Global AI	11495
 Just AI	5008,1044,1051,1733
 Just AI Conference	6979
 Just AI Fellow Hlengiwe Dube	8836
@@ -2309,7 +2320,7 @@ National AI Skilling Initiative	2526
 National AI Strategic Implementation Plan	11230
 National AI Strategies	1814,5774,3547
 National AI Strategies. AI	11135
-National AI Strategy	2557,129,85,483,29,83,190,19,29,130,26,349,17,402,445,254,159,25,188,102,92,139,2,12,95,164,28,144,3,62,141,20,189,755,1,462,78,152,92,31,55,612,174,12,335,306,215,138,36,55,834,3
+National AI Strategy	2557,129,85,483,29,83,190,19,29,130,26,349,17,402,445,254,159,25,188,102,92,139,2,12,95,164,28,144,3,62,141,20,189,755,1,462,78,152,92,31,55,612,174,12,335,306,215,138,36,55,834,3,301
 National AI Strategy Committee	9511
 National AI Strategy Date	6440
 National AI Strategy Ecosystem Category	4528
@@ -2378,7 +2389,7 @@ Nigeria Advances AI and Connectivity	2359
 Nigeria Launches AI Chatbot and Self-Reporting Portal	2445
 Nigeria's AI	8010,78,1583
 Nigeria's CDIAL AI	3859
-Nigerian AI	2417,4979,2179,164
+Nigerian AI	2417,4979,2179,164,1758
 Nigerian Responsible AI Governance Framework	6442
 Nigerian-owned AI	9739
 Nigeria’s AI	2417,1512,116,483,4589,129,1024
@@ -2462,6 +2473,7 @@ Posts and AI Systems	2927
 Potential AI Policy and Innovation	4528
 Potential Economic Impact of Generative AI	1363
 Power Africa’s AI Future NetOne Steps	3965
+Powerful AI Cloud	11502
 Practical AI	1204
 Practical AI Ethical Guidelines	1204
 Practical Benefits of Inclusive AI AI	4625
@@ -2705,6 +2717,7 @@ Smart Triage AI	10531
 SmartGov AI	3133
 Social Media Marketing AI	10133
 Soludo’s ICT Agency Wants AI	9936
+Solving the AI	11502
 Somali National University Launches AI Centre	7504
 Somalia's AI	7504
 Sources AI	7548
@@ -2724,12 +2737,13 @@ South Africa’s Draft National AI Policy	5914
 South Africa’s National AI Skills Director	5551
 South Korea's AI Basic Act and China	8435
 Southern African AI	4528
-Sovereign AI	6250,237,650,230,181,1571,1228,788,21
+Sovereign AI	6250,237,650,230,181,1571,1228,788,21,346
 Sovereign AI Cloud	3596
 Sovereign AI Cloud Services	3300
 Sovereign AI Compute Strategy	11135
 Sovereign AI Seminar	6410
 Sovereign AI Unit	11135
+Sovereign AI for Africa	11502
 Sovereignty and Strategic Autonomy Kenya's AI	7548
 Spatial-abductive AI	7573
 Specialized AI	4528
@@ -2737,6 +2751,7 @@ Standalone AI	5463
 Standard Bank's AI	10189
 Standardized AI Number	7548
 Stanford HAI AI Index	8126
+Stanford University AI Index Report	11495
 Stanford's AI Index	8126
 State AI Observatory	11135
 State of AI	4528,173,3425,3014
@@ -2893,6 +2908,7 @@ Uganda’s AI Strategy	6132
 Uganda’s AI and Emerging Technologies Strategy	6132
 Uganda’s Makerere AI Health Lab	7836
 Uganda’s National AI and Emerging Technologies Strategy	6113
+Ultra-dense AI	11502
 Umoja AI	8096,456
 Umoja AI for African Language AI	8060
 Understanding AI	6948

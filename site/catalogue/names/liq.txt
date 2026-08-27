@@ -31,7 +31,7 @@ Google Cloud and Liquid C2	1267
 Google Cloud’s Vertex AI. Liquid C2	1636
 Google and Liquid C2. Beyond	5736
 Gravamen Num. PERSONAL Mensual Integro Liquidable	4209
-Gás Natural Liquefeito	3093
+Gás Natural Liquefeito	3093,8273
 Indicator Capital Adequacy Liquidity Ratio Credit	11134
 International Liquidity	2775
 Irrevogável da Liquidação	10755
@@ -104,7 +104,9 @@ Liquidable Impuestos	4209
 Liquidación	4209
 Liquidation	3714,7580
 Liquidator	3714
-Liquidação	744,4425,5586
+Liquidação	744,4425,5586,615,33,35
+Liquidação Interbancária	11438
+Liquidação de Valores Mobiliários	11370
 Liquidificador	10777
 Liquidity	1020,808,2675,1360,534,823,3911,3,106
 Liquidity Group	4503
@@ -124,7 +126,9 @@ Mar-22 Mar-23 Mar-24 Mar-25 Mar-26 Liquidity	11134
 Market Liquidity Constraints	6938
 Meios de Liquidação Meios de Pagamento Sistemas Legados	10762
 Minimum Liquid Capital KES	10738
+Moeda de Liquidação Sempre	11370
 News Liquid C2	4119
+Nota de Liquidação SA	11435
 Notificação da Liquidação	744
 Port of Ngqura Liquid Bulk A100	11248
 Posts Liquor Trading Days and Hours Application	11251
@@ -132,9 +136,11 @@ Pradhan. Liquid	10654
 Proyecto de Liquidación	4209
 Registrar. Liquidation	3714
 Revisão da Liquidação	744
+Risco de Liquidez	11370
 Safaricom and Liquid Telecom’s Azure	9239
 Servicios Liquidadores	4209
 Shoprite LiquorShop	9763
+Sistema de Liquidação	11465
 Sistemas de Liquidação	10755
 Stability and Liquidity Risks Cyber Security and Data	11134
 Sub-Saharan Africa. Liquid Intelligent Technologies	684

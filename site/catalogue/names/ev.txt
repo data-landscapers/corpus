@@ -47,7 +47,7 @@ Appropriate Authorities’ Said Evidence	10034,231
 Assess and Use Results Evaluation	1824
 Assistance Evidence	2727
 B. Evaluation	822
-B. Results Monitoring and Evaluation Arrangements	969,295,603,1737,2935,4229,61,135
+B. Results Monitoring and Evaluation Arrangements	969,295,603,1737,2935,4229,61,135,416,37
 B2- Evidence	7548
 BOLETÍN RELAC. ESTUDIOS Y Y EVAL	4209
 Better Evaluation	11007
@@ -111,6 +111,7 @@ D. Evas and L. Lombdaro	5700
 D. Every	7832
 DCI AI Hub’s Global Evidence Review	11156
 DE SUIVI EVALUATION	10965
+DHIS2 Frequency Every	11417
 DHIS2. Evidence	3935
 DPI Peer Learning Event	3735
 DPIs. Evaluating Nigeria’s DPI	3735
@@ -190,6 +191,7 @@ EVIEWS	236
 EVIEWS Equation	236
 EVINAYONG CIUDAD	4209
 EVINAYONG PERIFERIA	4209
+EVOLUINDO PARA SMARTCITIES	11397
 EVOLUTION COMPARATIVEDE QUELQUES INDICATEURS CLES XII	10847
 EVOLUTION DE L'ACTIVITÉ EN	4459
 EVOLUTION DE L'OFFRE DES SERVICES FINANCIERS	4459
@@ -197,8 +199,10 @@ EVOLUTION DE LA DEMANDE	4459
 EVOLUTION DE L’ACTIVITÉ EN	4459
 EVOLUTION DE L’OFFRE DES SERVICES FINANCIERS	4459
 EVOLUTION DES INVESTISSEMENTS DES OPERATEURS RAPPORT	998
+EVOLUTION OF DEMAND UP	11366
 EVOLUTION OF THE DIGITAL GLOBAL	11155
 EVOLUÇÃO DA INTELIGÊNCIA ARTIFICIAL	2816
+EVOLUÇÃO DA PROCURA ATÉ	11366
 EVOLVING DATA GAPS AND INTERVENTIONS ACCESSIBILITY	10852
 EVOLVING Unlike	10852
 EVP Yann Haguet	1898
@@ -270,7 +274,7 @@ Evaluation Methods	5349
 Evaluation MoH Ministry of Health MoE Ministry	6539
 Evaluation Numbering Division Strategy	6946
 Evaluation Officer MoH	34
-Evaluation Plan	1284,583,8962,135
+Evaluation Plan	1284,583,8962,135,453
 Evaluation Process	11240
 Evaluation Report of Public Procurement	969
 Evaluation Results	10776
@@ -337,12 +341,14 @@ Even France	6825
 Even Kenya’s.ke	4690
 Even Liberia	9652
 Even NIMC	5321
+Even Nigerians	11469
 Even Orange Bank	4150
 Even Western	5682
 Even the EU	5802
 Evenifthesefieldscontainspellingvariationsortypingerrors	8606
 Evenin	8602
 Event	180,124,134,494,51,819,329,2,16,5,3,1,10,43,6,4,14,9,9,281,437,50,5,38,410,731,253,18,35,1,27,18,294,372,179,23,269,290,7,487,82,73,6,80,743,26,24,10,93,35,22,19,12,1,1,87,1,1,1,10,1,19,1,57,1,6,1,5,6,146,34,1,15,31,25,20,2,16,24,122,34,120,62,104,55,6,82,19,581,266,681,170,368
+Event Annual	11439
 Event Category	10235
 Event Data Project AfDB African Development	10759,78
 Event Data Project UNCTAD United Nations	10835,3,130
@@ -350,6 +356,9 @@ Event Details	10707
 Event Event Attendance Mode	10244
 Event Expansion Femtech Finance Fintech Forum	5322
 Event Services	10274
+Event UNESCO Learning Cities	11439
+Event UNESCO World Conference	11439
+Event Webinar	11439
 Event-date	1781,5694
 Event-year	2251
 EventScheduled Performer	10244
@@ -366,7 +375,7 @@ Events Topics Contact	9125
 Events Visit	9067
 Events and Hospitality Policy	6946
 Events and Tourism Scheme	9250
-Eventuais	10757
+Eventuais	10757,673
 Eventually	1037,1786,66,2144,451,1498,1483,85,237,1849,555
 Eventualmente	10772
 Ever Building	6186
@@ -379,7 +388,7 @@ EverseTech	5368,1349,2522
 EverseTech’s AI-as-a-Service	5368
 Everseen	4434
 Evert Bopp	7151
-Every	1,2,392,341,8,8,10,4,17,431,29,18,3,69,7,2,170,24,94,74,37,7,36,26,67,43,45,22,93,9,620,255,38,15,11,49,120,4,76,66,35,31,255,3,12,35,11,20,188,41,128,53,1,1,1,1,1,123,18,118,64,46,59,22,49,141,131,81,112,120,8,69,31,16,145,38,125,144,43,11,54,5,108,136,14,21,24,30,42,115,3,6,3,23,9,4,27,14,8,28,34,21,13,5,14,32,60,38,21,22,18,16,65,28,2,21,13,25,7,79,55,38,5,104,36,115,2,9,12,10,14,87,40,39,41,6,56,23,3,12,4,3,2,30,17,31,7,1,3,10,12,12,29,8,31,1,15,85,102,43,53,70,18,10,22,27,2,28,21,4,4,56,29,1,64,60,9,10,4,3,4,66,23,19,15,3,4,2,68,44,11,11,41,8,8,14,4,23,14,11,32,57,34,100,91,15,43,40,10,15,40,2,11,39,14,17,137,35,25,33,39,7,28,14,57,9,32,70,83,61,8,8,46,44,190,44,51,31,30,10,26,11,11,5,146,63,60,5,3,24,11,16,20,2,4,6,13,11,6,29,45,18,40,6
+Every	1,2,392,341,8,8,10,4,17,431,29,18,3,69,7,2,170,24,94,74,37,7,36,26,67,43,45,22,93,9,620,255,38,15,11,49,120,4,76,66,35,31,255,3,12,35,11,20,188,41,128,53,1,1,1,1,1,123,18,118,64,46,59,22,49,141,131,81,112,120,8,69,31,16,145,38,125,144,43,11,54,5,108,136,14,21,24,30,42,115,3,6,3,23,9,4,27,14,8,28,34,21,13,5,14,32,60,38,21,22,18,16,65,28,2,21,13,25,7,79,55,38,5,104,36,115,2,9,12,10,14,87,40,39,41,6,56,23,3,12,4,3,2,30,17,31,7,1,3,10,12,12,29,8,31,1,15,85,102,43,53,70,18,10,22,27,2,28,21,4,4,56,29,1,64,60,9,10,4,3,4,66,23,19,15,3,4,2,68,44,11,11,41,8,8,14,4,23,14,11,32,57,34,100,91,15,43,40,10,15,40,2,11,39,14,17,137,35,25,33,39,7,28,14,57,9,32,70,83,61,8,8,46,44,190,44,51,31,30,10,26,11,11,5,146,63,60,5,3,24,11,16,20,2,4,6,13,11,6,29,45,18,40,6,139,7
 Every AI	6214,306,1606,518,2666
 Every AI-related	3175
 Every African	6997,924
@@ -434,7 +443,7 @@ Evid Araka	2742
 Eviden	3700
 Eviden Information Technology	3700
 Evidenc	6432
-Evidence	26,402,471,915,14,265,3,81,500,50,278,334,265,523,436,1348,597,85,200,39,319,29,41,327,100,238,415,135,192,357,143,1,220,85,325,210,119,100,147,383,3,42,5,17,71,55,52,1,21,22,64,62,7,2,14,25
+Evidence	26,402,471,915,14,265,3,81,500,50,278,334,265,523,436,1348,597,85,200,39,319,29,41,327,100,238,415,135,192,357,143,1,220,85,325,210,119,100,147,383,3,42,5,17,71,55,52,1,21,22,64,62,7,2,14,25,306
 Evidence Act	587
 Evidence Action Plan	10911
 Evidence AfricaCERT Cyber Drill	10911
@@ -489,12 +498,13 @@ Evidence28	899
 Evidences the Baladna	5128
 Evident AI Index for Banks	9896
 Evidently	10718
+Evidências	11456
 Evie Gilbert	11004
 Evinayong	4209
 Evinayong Evinayong	4209
 Evinayong-Akurenam-Mofub Múltiples	4209
 Evita Oma	3494
-Evitar	1701
+Evitar	1701,9734,6
 Eviter	2697
 Evoduru Aconibe	4209
 Evoluant	2342
@@ -525,7 +535,8 @@ Evolution of Trade Finance Gap	10718
 Evolution-II-ESCOTEL Press-Release FINAL2.pdf	513
 Evolution-de-l-indice-de-confiance-	8891
 Evolutions	10975
-Evolução	2816
+Evolução	2816,8580,1,83
+Evolução Anual da População	11460
 Evolução da Inteligência Artificial	2816
 Evolução da Inteligência Artificial Abaixo	2816
 Evolve	395,504,3227
@@ -552,6 +563,7 @@ Evélia Gadegbeku	7784
 Evénements	9961
 Existing Forms of Safety Evidence	8301
 Experimental Evidence	3604,7252
+External Evaluation JEE Lower-Middle-Income Country LMIC	11417
 FATF Mutual Evaluation Report for South Africa	4633
 FATF Mutual Evaluation Round Five	8354
 FATF Mutual Evaluation for South Africa	4633
@@ -571,6 +583,7 @@ Framework The Monitoring and Evaluation	4528
 Framework for Evaluation of Digital Identity	4225
 Framework for Training Validation and Evaluation	3651
 Francophone Africa’s EV	6368
+Frequency Every	11417
 Fuerte Evolución	1701
 Functional Evaluation	11240
 Functional Evaluation Criteria	11209
@@ -638,7 +651,7 @@ Job Evaluation	11218,6
 Job Evaluation Conflict Management for Security Customer	11131
 Job Evaluation PMDS Performance Management and Development	11197
 Job Evaluation Upper Panel. Mr Mohwasa	3360
-Joint External Evaluation	10776
+Joint External Evaluation	10776,641
 Joint External Evaluation JICA	10776
 Journal of Evaluation	8603
 June. Everyone	8571
@@ -649,7 +662,7 @@ KT PRESS Every	8644
 Kajo-Keji Evicted	2685,2,359,86,176,15,119,65,590,447,96,374,93,240
 Kash. Even	8758
 Kenya National Monitoring and Evaluation Policy	7548
-Key Events Planned Actual Approval	6579
+Key Events Planned Actual Approval	6579,4816
 Kinisha Evenson WHO'S LOOKING	7628
 Kirsi Sayouba Evrad OUEDRAOGO	8321
 Knowledge Transfer Every	718
@@ -698,6 +711,7 @@ Mapping Buildings Even	1363
 Mari Cruz Evuna Andeme	6841
 Mbps. Even	6892
 Measure and Early Evidence	7151
+Methodology for Data Collection EVM	11417
 Methodology of Impact Evaluation Evaluation	1988
 Mid-Term Evaluation	7548,3585
 Miduma Evinayong	4209
@@ -715,7 +729,7 @@ Monitor and Promote Evidence-Based Policy-Making	8817
 Monitoring And Evaluation	958
 Monitoring Vital Events Using Information Technology	10822
 Monitoring and Evaluating	11006
-Monitoring and Evaluation	396,12,159,222,169,3,300,3,560,2329,375,125,130,48,186,227,1,1,1186,107,2665,523,156,853,32,61,134,1,43,181,36,20,12,19,14
+Monitoring and Evaluation	396,12,159,222,169,3,300,3,560,2329,375,125,130,48,186,227,1,1,1186,107,2665,523,156,853,32,61,134,1,43,181,36,20,12,19,14,112
 Monitoring and Evaluation Association SCM Supply Chain	11224
 Monitoring and Evaluation Challenges	940
 Monitoring and Evaluation DPSA Department of Public Service	11261
@@ -747,6 +761,7 @@ Monthly Low Frequency Events	11228
 Multidecadal evolution	8891
 Multistakeholder Governance for DPI A Compendium of Evidence	11006,1
 MyT Everywhere	7367
+NAPHS Frequency Every	11417
 NCC EVC	7851
 NEJM Evid	7836
 NES National Evaluation System	11193
@@ -757,6 +772,7 @@ NIGERIA’S FINTECH EVOLUTION Policy Insight Series	4848
 NIN. Every	6435
 NPR. Even	11212
 NVIDIA’s. Every GPU	6667
+Nacional de Emergência JEE Joint External Evalution	11376
 Nairobi-based Eva Mwasho	6156
 National Evaluation Policy Framework	11224
 National Evaluation System	11193
@@ -786,6 +802,7 @@ Oral Presentation Evaluation Criteria WEIGHT CRITERIA	11252
 Original Research Internet of Everything	7759
 Outcomes. Evidence	10985
 Oversee the Monitoring and Evaluation	4528
+PARTE I. PROCURA I.1 Evolução	11366
 PDPO. C. EVIDENCE	5113
 PERIODIC REVIEW MANDATES AND EVALUATION CRITERIA	3861
 Palacio Presidencial de Evinayong Niefang	4209
@@ -799,10 +816,12 @@ Personal Eventual	4209
 Petroleum Gas LTE Long Term Evolution	718
 Phase II. EVENT PHOTOS	7963
 Planning and Monitoring and Evaluation PPP Public Private	11197
+Plano de Evolução	11442
 PoE Portfolio of Evidence PPA Planning Profession	11261
 Policy Areas EVOBJ TBL Page	10779
 Policy Data Reference and Evaluation Bureau	4126
 Policy Evaluation and Improvement	10776
+Poorest. Even	11469
 Post TOURISM EVENTS	11251
 Poverty Evidence	11133
 Practical Assessment Research and Evaluation	2093

@@ -7,6 +7,8 @@ Fourth Quarter Federal Budget Vs Expenditure	1784,1,2,7,3
 Frequency VSAT Very Small Aperture Terminals	6946
 GitHub Copilot and VS Code. All	6498
 International VSAT Hub	736
+Kuito-l vsp field relat.pdf	11405
+Kuito-l vsp.sgy	11405
 Liberia. VSAT	10407
 Modème VSAT Bande C	998
 Mwingira VS	3791
@@ -36,6 +38,7 @@ VSATs	736,26,527,2352,6766
 VSDCs	7746
 VSEs and SMEs	10980
 VSLAs	10299,542
+VSP Walkaway	11405
 VSt-1	236
 VSt-2	236
 Virtual VSAT Network	736

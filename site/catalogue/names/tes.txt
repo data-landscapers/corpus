@@ -17,6 +17,7 @@ Conduct Penetration Testing	4610
 Constitutional Test	3861
 Control Quality Management System Rapid Testing	4153
 Cyber Resilience Testing Resilience	10721
+D.1.1 Teste	11376
 DEL. REG. DE TESORERIA	4209
 DEL. REG. DE TESORERIA- Concepto	4209
 DIGITAL-ID TEST Digital	9473
@@ -63,6 +64,7 @@ Madagascar Tests Biometric ID System	4769
 Maintainability Testing	5665
 Meet Testing Standards	5665
 Minister Tesfaselasie	6230
+Modular Formation Dynamic Tester	11405
 Mr. Tesfaselasie Berhane	6230
 NHS Testbeds	11007
 NIST Testing Guide	11153
@@ -103,6 +105,7 @@ Rapid Testing Continuous Quality Improvement	4153
 References Nesta. Testing Innovation	11007
 Regular Security Audits and Penetration Testing	10721
 Reliability Testing	5665
+Repeat Formation Tester	11405
 Report Test Penetration	11153
 Reserve Bank of India's Stress Test Model	6938
 Responsiveness Test	11240
@@ -156,6 +159,7 @@ TESORO PÚBLICO MINISTERIO CONCEPTO CATEGORÍA	4209
 TESORO PÚBLICO TOTAL TESORO PÚBLICO	4209
 TESPOK	6506,440
 TEST OF ACCOUNTABILITY AND THE RULE	10581
+TSA Testes	11376
 TTOS and TES. Building	5533
 TURISMO LICENCIA TOTAL TESORO PÚBLICO	4209
 Teseney	6230
@@ -181,8 +185,9 @@ Tesoro Con	9065
 Tesoro Nacional	1701
 Tesoro Público	8153
 Tesoro Público. En	8554
-Tesouro	744,8,42,545,1,1,1,739,2,1,2134,193,2,1,333,6003,33
-Tesouro Nacional	4218,6534
+Tesouraria	11449
+Tesouro	744,8,42,545,1,1,1,739,2,1,2134,193,2,1,333,6003,33,587,8
+Tesouro Nacional	4218,6534,626
 Tessalit	5380
 Tesseract	2625,648,2414,5083,204
 Tesseract OCR	163,4950
@@ -214,11 +219,12 @@ Teste-	539
 Tested	1930,1,1,1,1,1,1,1,65,1,1,1,1,1,1,1,1,1,1,1,1981,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
 Testemale	8604
 Testemunha	539
-Testemunhas	539
+Testemunhas	539,10913
 Testemunhas de Jeová	10777
+Testemunhos	11405
 Tester	5665
 Testers	5665
-Testes	10777
+Testes	10777,665
 Testes Recentes de VIH	10777
 Testes de VIH	10760,17
 Testes de VIH Prévios	10777
@@ -268,3 +274,4 @@ Validation and Testing of Open-Ended Outputs	3651
 Vulnerability Assessment and Penetration Testing	10721
 Wearables Are Actually Being Tested	9456
 Yonatan Tesfu	10001
+Zambia. Testing	11505

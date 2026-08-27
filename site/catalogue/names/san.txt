@@ -26,6 +26,7 @@ America San Jose Very High EGDI	10840
 America San Salvador High EGDI H2	10840
 Americas South America Santiago Very High	10840
 Aminata Sannoh	9450
+Anuário Estatístico Sanitário	11453
 Apollo Sande	9311
 Arouna SANFO	8321
 Artificial Intelligence Regulatory Sandboxes	6331
@@ -73,7 +74,7 @@ CNIB. Minister of Security Mahamadou Sana	3925
 Cabo San	4209
 Cabo San Juan	4209
 Cabo de San Juan	3179
-Cadastro Social Unico Gaspar Dos Santos	7882
+Cadastro Social Unico Gaspar Dos Santos	7882,3599
 Cameroun. Sans	10965
 Capitaine Amadou Haya Sanogo	7999
 Carla Sanderson. For Eastern Africa	9507
@@ -108,6 +109,8 @@ Commissaire Divisionnaire de Police Mahamadou SANA	1967,1
 Communications and Digital Technologies. Sangoni-Diko	8435
 Community-Based Health and Sanitation Agents	10768
 Companhia Santomense de Telecomunicações	2315
+Competência Sancionatória	11430
+Congo RSI Regulamento Sanitário Internacional	11376
 Corporate Governance Expert Sandile Mbhamali	10517
 County Department of Health and Sanitation Data Controller	7167
 County Department of Health and Sanitation Data Processor	7167
@@ -200,7 +203,7 @@ GOUVERNANCE DES DONNEES SANITAIRES AU SENEGAL	7804
 GUA E SANEAMENTO NO AGREGADO FAMILIAR	10777
 Gabonais. Sans	8441
 Gail Bester SANRAL FMS.pdf BusinessTech	8603
-Gaspar Dos Santos	5542,432,6,605,32,628
+Gaspar Dos Santos	5542,432,6,605,32,628,4184,3,47
 Gianluca Santoni	11149
 Goma After... UN Sanctions More Top	3245
 Google Distributed Cloud Sandbox	4434
@@ -209,7 +212,7 @@ GovStack Sandbox	6423
 Government Association SANRAL South African National	11261
 Governor Babajide Sanwo-Olu	2825,276
 Governor Yvon Sana Bangui	5740
-Grenadines Samoa San Marino Sao Tome	10764
+Grenadines Samoa San Marino Sao Tome	10764,706
 Guardias Personal Sanitario	4209
 Général de Division Kéba SANGARE. Gouverneur	8237
 H.E. Yvon Sana Bangui	7150
@@ -233,10 +236,12 @@ IFC and Sango Capital. Crosswalk	454
 IFC and South Africa's Sango Capital. Portfolio	454
 IMIS Chèque Santé	10970
 INSIDER TRADING SANCTION	3714
+INTRODUÇÃO O Regulamento Sanitário Internacional	11376
 IV. SANS	11269
 Identity Card San Marino No N	10714
 Ilha de Santiago C.P.nº	8166
 Ilha de Santiago. Projeto de Abastecimento	1265
+Inclusive and Equitable Water and Sanitation Services	11469
 Información Sanitaria	6841
 Information Sanitaire	4090,6829,21
 Information de Santé	3362
@@ -258,7 +263,9 @@ J. Sandman	5700
 JOSÉ EDUARDO DOS SANTOS	10747,2
 JOSÉ EDUARDO DOS SANTOS. Download Para	167
 JOSÉ EDUARDO DOS SANTOS. ESTATUTO ORGÂNICO	167
+JOSÉ EDUARDO DOS SANTOS. Perguntas Frequentes	11358
 JOSÉ EDUARDO DOS SANTOS. Publicado	13
+JOSÉ EDUARDO DOS SANTOS. REGULAMENTO	11360
 James Sando	8616
 James Sankwasa	10148
 Jean Sansan Kambile	2349
@@ -282,6 +289,7 @@ Luanda RAFAEL CHIVINDA PAULO DOS SANTOS	10751
 Luis Eduardo San Martin	10977
 Lycée Technique National Aboubacar Sangoulé Lamizana	10259
 L’Énergie Et La Santé Publique	11034
+M Sanitation and Hygiene Program-for-Results Economy	11469
 M-OSI H-HcI VH-TII Americas San Marino	10840
 M. Bakary Yaou Sangaré	8584
 M. Bakary Yaou Sangaré. Auparavant	8584
@@ -349,10 +357,13 @@ Ndjoni Sango	2907,2949,73
 Nilsa Sandra Miquidade	6535
 Notre Santé	1165
 Néonatale Santé M. Bassirou Nignan Directeur	10812
+O Anuário de Estatistica Sanitária	11453
+O Regime Sancionatório	11436
 OBLIGATIONS ET SANCTIONS	1801
 OECD’s Regulatory Sandbox Toolkit	11007
 Open Data. Sans	747,1,1236
 PAULA AGOSTINHO SANGUAHAMGA DONGA	10751
+PNDS Plano Nacional de Desenvolvimento Sanitário PNUD	11376
 PRESIDENC. SANITARIA RESID. REG. ORDENES	4209
 PRESS RELEASE CYBER SECURITY AUTHORITY SANCTIONS	9728
 PROV. SAN PROVINCIAL PROVINCIAL PROVINCIAL	4209
@@ -395,9 +406,14 @@ ROXGOLD SANGO	2342
 ROXGOLD SANGO SA	2342
 ROXGOLD SANGO SA Gestion	2342
 ROXGOLD SANGO SIB	2342
-Regime Sancionatório	549
+Regime Sancionatório	549,10821,16,44
 Regime Sancionatório Artigo	2866
+Regime Sanitário Nacional	11376
 Registro Sanitario de Medicamentos	4209
+Regulamento Sanitário Internacional	11376
+Regulamento Sanitário Internacional-2005	11376
+Regulamento Sanitário Internacional. Recomendações	11376
+Regulamento Sanitário Nacional	11376
 Regulatory Sandbox	3861,34,633,320,1887,211,602,1869,1590,124,3
 Regulatory Sandbox Demo Day. Barigye	6184
 Regulatory Sandbox Demo Day. Rwanda	6184
@@ -479,6 +495,7 @@ SANSA News SANSA	11244
 SANSA URL	11244
 SANSA’s Hartebeesthoek	11244
 SANTA SEDE	4209
+SANTACO	11494
 SANTE	3381
 SANTE ET DU DEVELOPPEMENT SOCIAL Président	8237
 SANTÉ	5478
@@ -636,12 +653,13 @@ Sanitaires de Premier Contact	3604
 Sanitarios	4209
 Sanitary	9123
 Sanitary Authority	7845
-Sanitation	718,1149,121,2294,962,1178,481,44,3812,17,59,2,1,130,263
+Sanitation	718,1149,121,2294,962,1178,481,44,3812,17,59,2,1,130,263,186,52
 Sanitation Public	1988
 Sanitation and Hygiene	1988,8154
 Sanitation and Irrigation	2775
 Sanità	10784
 Sanitário	10768
+Sanitário PND Plano Nacional de Desenvolvimento PPAVVD	11390
 Saniya Ansar	10841,136
 Saniya Ansar and Jorin Wolff	10714
 Saniya Ansar and Seth Garz	10977
@@ -688,7 +706,7 @@ Sansan Kambilé	2332,787,2783
 Sansan Kambilé. Il	3119
 Santa	9399
 Santa Catarina	3192
-Santa Clara	9399,591
+Santa Clara	9399,591,1402
 Santa Cruz	1948,1244
 Santa Isabel	4209
 Santa Maria and Espargos	342
@@ -721,17 +739,19 @@ Santo Antão	1265,683,5518
 Santo Antão. Trata-se	7466
 Santo Domingo High EGDI HV	10840
 Santoro	2096
-Santos	180,40,319,2004,273,3808,484,559,336,602,794,1319,40,5,1,1,10,69,289
+Santos	180,40,319,2004,273,3808,484,559,336,602,794,1319,40,5,1,1,10,69,289,228,1,7
 Santos Cousin Gomes	5554,412
 Santos Fatima Lourenço SUBCOMISSÃO DE METODOLOGIA	10757
 Santos Francisco Calengi Anália Nunda Prata	10757
+Santos Freitas Ministro	11393
 Santos José Sambo Benjamin Langa Anésio	2989
 Santos Lucas	8754
 Santos Lucas Minister of Forei	4260
 Santos SR	10780
 Santos Title	10762
 Santos-aligned	9399
-Santos. Promulgada	539,10,10198,2,6,1
+Santos. Download Para	11363
+Santos. Promulgada	539,10,10198,2,6,1,607,21,4
 Santos. Publicado	14,1
 Santos. Resolução	539
 Santoso	8606
@@ -763,9 +783,12 @@ Sanusi Fofanah	9450
 Sanyang	8459
 Sanza Pombo	539
 Sanzar Kakar	8477
-Sanções	539,37,2290,653,755,2696
-Sanções Acessórias	3519
+Sanções	539,37,2290,653,755,2696,4390,8,9,26,1,34
+Sanções Acessórias	3519,7911
+Sanções Aplicáveis	11419
 Sanções Artigo	6970
+Sanções Operacionais	11436
+Sanções Pecuniárias Compulsórias	11430
 Sanématenga	10847
 Saïdou Sankara	3055
 Schéma Directeur National de Santé Numérique	7707
@@ -774,17 +797,22 @@ Search SAnews SA	6527
 Sección34 Mº SANIDAD	4209
 Section II.- Sanctions	11139
 Security Minister Mahamadou Sana	5792
+Segurança Sanitária	11376
+Segurança Sanitária Mundial	11376
+Segurança Sanitária. Através	11376
 Selon Karidia Sangara	11091
 Senator Bernie Sanders and Chinese AI	10430
 Senator Uba Sani	2355
 Serge Roland Sanou	7010
 Servicios Sanitarios Excelentísima	1855
+Serviços de Saneamento	11406
 Seydou SANA	8321
 Seynabou Diop SANE	4960,62,2035
 Siegers and Stier Sand Weiß2022	8436
 Singapore's IMDA Generative AI Evaluation Sandbox	7451
 Sistema Nacional de Información Sanitaria TIC	1701
 Sistema de Información Sanitaria	4209
+Sistema de Informação Sanitária	11453
 Smart Civil Status Card Yes Sanad	10714
 Société Flash Infos Santé	4895
 Société Santé Education Sport Plus International	9916
@@ -810,11 +838,13 @@ Thomas Sankara	3993,7106
 Through SANReN and DIRISA	9126
 Through the Sankore	8042
 Traditional and Khoi San Leadership Act	5872
+TÍTULO VI TAXAS E REGIME SANCIONATÓRIO	11430
 Técnico Inocência Santos	10757
 UEMOA. Mr Hien Sansan	10500
 Umar Sani-Abdullahi	7851
 Under Water and Sanitation Sector	718
 Unidade Sanitária Mais Próxima......................182	10777
+Unidades Sanitárias	11401
 United Kingdom and San Jose	10846
 Universidade Federal de Santa Carolina	2816
 Universidade Federal de Santa Catarina	2816

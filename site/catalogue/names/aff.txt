@@ -120,7 +120,7 @@ Affordability of ICT	10851
 Affordability of Internet-Enabled Handsets and Data	11004
 Affordability-Chart.jpg	6318
 Affordability-Variation-Graph.jpg	6318
-Affordable	789,475,440,550,37,952,804,63,1136,433,1525,73,599,215,22,934,712,1324,57
+Affordable	789,475,440,550,37,952,804,63,1136,433,1525,73,599,215,22,934,712,1324,57,329
 Affordable Broadband	6539,126
 Affordable Broadband Connectivity and Inclusion	1914,798,3867
 Affordable Broadband Loan DFC	831
@@ -261,8 +261,8 @@ Department Of Home Affairs	6387
 Department of Cooperative Governance and Traditional Affairs	11248
 Department of Cultural Affairs	11195
 Department of Disability Affairs	11133
-Department of Economic and Social Affairs	10714,126
-Department of Home Affairs	2115,566,11,141,392,210,487,745,105,11,3,246,115,386,67,322,202,72,191,125,15,340,1,203,25,235,174,39,25,7,63,919,45,176,278,14,5,159,15,541,177,90,266,15,8,47,782,1,35,6,4,3,11,10,2,16,10,4,4,3
+Department of Economic and Social Affairs	10714,126,629
+Department of Home Affairs	2115,566,11,141,392,210,487,745,105,11,3,246,115,386,67,322,202,72,191,125,15,340,1,203,25,235,174,39,25,7,63,919,45,176,278,14,5,159,15,541,177,90,266,15,8,47,782,1,35,6,4,3,11,10,2,16,10,4,4,3,209
 Department of Home Affairs Strategic Plan	2662
 Department of Home Affairs The DHA	5533
 Department of Home Affairs and Government Printing Works	4786
@@ -603,7 +603,7 @@ Ministry of Economic Affairs and Communications	11135
 Ministry of External Affairs	4576,5173
 Ministry of External Affairs. The South African	6480
 Ministry of Finance and Economic Affairs	1277,3266,819
-Ministry of Foreign Affairs	11,576,38,438,1,179,965,459,69,760,796,236,112,607,617,409,444,382,651,1232,317,59,480,289,336,33,71,142,132,294,19
+Ministry of Foreign Affairs	11,576,38,438,1,179,965,459,69,760,796,236,112,607,617,409,444,382,651,1232,317,59,480,289,336,33,71,142,132,294,19,333
 Ministry of Foreign Affairs Monrovia	4202
 Ministry of Foreign Affairs Success Indicator Measurable	4528
 Ministry of Foreign Affairs and International Affairs Review	1161
@@ -704,6 +704,7 @@ Public Affairs Director	4592
 R1. The Minister of Home Affairs	3225,7987
 REPORTS ON FOREIGN AFFAIRS MATTERS	3760
 RIGHTS OF AFFECTED PERSONS DURING BUSINESS	3714
+ROK Ministry of Foreign Affairs	11487
 Recurrent Foreign Affairs	1777
 Refugee Affairs	5533,5685
 Refugee Affairs SDG Sustainable Developmental Goals	5533

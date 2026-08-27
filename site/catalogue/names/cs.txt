@@ -104,7 +104,7 @@ CSIR and SASRIA	11353
 CSIR-INST	4126
 CSIR-INSTI	4126
 CSIR. The Centre for High Performance Computing	9126
-CSIRT	301,426,273,200,142,89,1,103,242,314,139,731,28,117,6,298,184,244,5,567,9,234,513,142,369,103,759,371,18,42,1708,22,197,228,101,1495,16,174
+CSIRT	301,426,273,200,142,89,1,103,242,314,139,731,28,117,6,298,184,244,5,567,9,234,513,142,369,103,759,371,18,42,1708,22,197,228,101,1495,16,174,486
 CSIRT Capabilities	5677
 CSIRT Capabilities Strengthening	5677
 CSIRT Computer Security Incident Response Team	6936
@@ -220,10 +220,13 @@ Capital CMS Content Management System CSS	236
 Cascading Style Sheet CST Communication Service	236
 Catégorie Socio Professionnelle CSLP	737
 Centres for Disease Control CSIR Council for Scientific	396
+Chefe da Repartição Fiscal CSA	11435
+Chefe da Secção Administrativa CSCARP	11435
 Civil Society CSA	6936
 Cloud Adoption Committee. CSPs	6432
 Cloud Services Providers. GOK Entities CSPs	6432
 CoK City of Kigali CSI Cybersecurity Strategic	718
+Cobrança CSPFT	11435
 Combined-Cycle Gas Turbines CSP Concentrated Solar	11228
 Communication and Technology and Digital Economy CS	1236
 Comunidad de Países de Lengua Portuguesa CSU	1701
@@ -342,6 +345,7 @@ Os CSIRTs	6970
 OtSO CSEE	1885
 Partnership Framework CSI Corporate Scorecard Indicator	6539
 Partnership Framework CSU Single Social Registry	10768
+Património CSCC	11435
 Pilot License CSM Cylinder Smart Metering	2775
 Police Forum CSC Community Service Centre	11188
 Policy. CSRI	6946
@@ -381,6 +385,7 @@ Top CSO	3092
 Treasury CS John Mbadi	6587
 US CSPs	6477
 US-based CSPs	6477
+Uma CSD	11370
 Warning The CSA	9842
 World Bank’s ID4D’s CSO	11007
 Youth-focussed CSOs. EU	970

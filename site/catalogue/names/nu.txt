@@ -33,6 +33,7 @@ ASLAM NURSING HOME LIMITED Data Controller	7167
 AYNUN NURSING HOME LIMITED Data Controller	7167
 AZMARA NURSING HOME LIMITED Data Controller	7167
 AZWARA NURSING HOME Data Controller INST-6175651D6BC	7167
+Abastecimento de Numerário	11438
 Abdullahi Nur Osman	10116
 Abuja and Nume Ekeghe	6698
 Account Name Number of Ordinary Shares	4896
@@ -126,12 +127,14 @@ C1- Number of Partner States	7548
 C2- Number	7548
 C2- Number of Kenyan	7548
 CANON NURSING HOME BUTULA LIMITED Data	7167
+CAPÍTULO II Numeração	11430
 CBN NTA Nass Sen. NUT Dev	11129
 CGI. Numéro	1984
 CHAPITRE II DE I'IDENTIFICATION NUMERIQUE	10813
 CHIFFRES CLES DES SERVICES FINANCIERS NUMÉRIQUES	4459
 CHIFFRES CLÉS DES SERVICES FINANCIERS NUMÉRIQUES	4459
 CODE DU NUMÉRIQUE	11098
+COMPUTAÇÃO EM NUVEM	11377
 COMPUTAÇÃO EM NUVEM Instituto Nacional de Tecnologias	2438
 COPYRIGHT MINISTÈRE DE LA TRANSITION NUMÉRIQUE	10914
 CRI Number	10768
@@ -168,6 +171,7 @@ Code du Numérique	7470,2352
 Code du Numérique du Bénin	10822
 Collection Number	1867
 Collection Responsibility for Data MoHAIS Collection Number	1867
+Collection The MOH Number	11417
 Commission File Number	8939
 Commission Nationale de Développement Numérique	3857
 Committee Total Number of Meetings	1554
@@ -200,6 +204,7 @@ DANS CE NUMÉRO	8637
 DARIKA NURSING HOME LIMITED Data Processor	7167
 DAWIDA MATERNITY AND NURSING HOME Data	7167
 DAY TO DAY NURSING HOME LIMITED	7167
+DE FREQUÊNCIAS E NUMERAÇÃO	11430
 DE LA TRANSFORMATION NUMERIQUE DE L’ADMINISTRATION	10966
 DE LAS EMBAJADAS Y CONSULADOS Num	4209
 DE L’ECONOMIE NUMERIQUE ET DE L’INNOVATION	7977
@@ -213,6 +218,7 @@ DTM SNFI WASH Nutrition	9772
 DTM WASH Other Nutrition SNFI	9772
 DUNTOW NURSING HOME LIMITED Data Controller	7167
 Data Center de Sénégal Numérique	10578,573
+Data Collection The MOH Number	11417
 Data Protection License Number	1877
 Date Numéro	1984
 Decentralization NIP Personal Identification Number ONI	10812
@@ -228,9 +234,10 @@ Deed Number Tax	4896
 Defense des Utilisateurs des Technologies Numériques	7920
 Department of Nursing Science	8604
 Description National EMIS Numeric	11180
-Description Number	1867
+Description Number	1867,9550
 Description Number of IDs	1867
 Description Number of Shares	4896
+Description Numerator	11417
 Descuentos Num. PERSONAL Mensual Integro Impuestos	4209
 Develop the Tanzania Universal Identity Number Jamii	1644
 Development Authority LCN Logical Channel Numbering	6946
@@ -448,6 +455,7 @@ Le Projet Djibouti Fondement du Numérique	3795
 Lead NUP	4175
 Learner’s Identification Number	9114
 Legal Regime of Taxpayer Number	10775
+Levantamento de Numerário	11438
 Liquidable Gravamen Descuentos Num. PERSONAL Mensual	4209
 Loan Number	1770,144
 Logical Channel Numbering	6946
@@ -475,6 +483,7 @@ Mahmoud Mohamed and HSF Chairman Abdullahi Nur	10116
 Main Board Total Number of Meetings	1554
 Mali Numérique	4909
 Management of Numbering Resources	6946
+Manuel Nunes Júnior	11429
 Maroc Numeric	168,3207
 Maroc Numeric Fund	168
 Meeting Number	789
@@ -563,7 +572,7 @@ National Emergency Number	5784
 National ID Number	1868,1137
 National ID Numbers	1868
 National Id Number	977
-National Identification Number	1655,265,461,1,8,376,4,49,199,12,57,126,359,32,131,203,17,136,29,171,132,179,62,22,108,54,13,170,184,30,39,37,253,29,896,82,108,182,78,192,2,1,75,95,318,19,97,160,6,20,12,174,468,489,19,18,242,34,210,70,95,115,154,231,158,168,83,30,469
+National Identification Number	1655,265,461,1,8,376,4,49,199,12,57,126,359,32,131,203,17,136,29,171,132,179,62,22,108,54,13,170,184,30,39,37,253,29,896,82,108,182,78,192,2,1,75,95,318,19,97,160,6,20,12,174,468,489,19,18,242,34,210,70,95,115,154,231,158,168,83,30,469,295,1
 National Identification Numbers	2743,80,101,938,1835,604,134,168,86,81,993,372,281,661,619,1401
 National Identification Numbers and Libyan	4531
 National Identity Number	767,1115,1853,955,158,419,1604,875,694,272,113
@@ -582,6 +591,7 @@ Network IDs and Logical Channel Numbers	6946
 Network Operators MNP Mobile Numbers Ported	2775
 Neutral Citation Number	1829
 Nigeria's National Identification Number	2073,732
+Nigeria- Accelerating Nutrition Fidson	11469
 Nigerian Nurses Charitable Association UK	7895
 Nigerians’ National Identification Number	5215
 No. Description Contract Number Supplier Name	6946
@@ -631,7 +641,7 @@ Nuit des LOMPOLO	3396
 Nuit des Lompolo	5594
 Nulla	4386
 Num EMBAJADAS Y CONSULADOS Materiales de Fax	4209
-Number	10,226,324,22,154,35,18,181,68,166,24,36,20,6,414,74,36,4,10,39,18,53,50,721,3,63,97,17,162,553,37,37,36,147,1,55,611,125,23,12,195,13,637,143,3,8,86,449,201,156,169,84,89,7,10,203,407,329,960,162,124,6,377,1111,97,34,15,1,4,7,4,1,5,27,10,7,3,24,14,38,11,44,1,12,4,5,144,5,46,12,3,3,20,34,89
+Number	10,226,324,22,154,35,18,181,68,166,24,36,20,6,414,74,36,4,10,39,18,53,50,721,3,63,97,17,162,553,37,37,36,147,1,55,611,125,23,12,195,13,637,143,3,8,86,449,201,156,169,84,89,7,10,203,407,329,960,162,124,6,377,1111,97,34,15,1,4,7,4,1,5,27,10,7,3,24,14,38,11,44,1,12,4,5,144,5,46,12,3,3,20,34,89,54,22
 Number 1	11180
 Number County Country	7167
 Number Fees Number	736
@@ -737,6 +747,7 @@ Number of Monthly International Visitor Arrivals	2775
 Number of NSFAS-approved	6832
 Number of Prefabs ZRCP	1988
 Number of Prospectuses Lodged	11250
+Number of Public Health Emergency Operations Centers	11417
 Number of Public-private	789
 Number of RH	970
 Number of RIRs Feedback	3502
@@ -807,7 +818,9 @@ Numbers. UNICEF	10812
 Numbr of MNOs	10822
 Nume Ekeghe	4856
 Numeración	1701
-Numerator	10964
+Numerator	10964,453
+Numeração	11373,57
+Numeração IP	11430,1
 Numeric	168,6199,58,36,89,4579,51
 Numerical	236
 Numerical Address Exceptions	11129
@@ -824,7 +837,7 @@ Numerousstudiesreportapersistentgapbetweenthestrategicas-	8602
 Numida	2676,2296
 Numious Kiti	7990
 Numoro	7165
-Numérique	324,319,362,173,69,23,2,13,1,40,3,226,36,7,359,62,33,1,3,207,107,42,30,9,103,2,9,64,6,58,4,36,14,46,93,1,45,28,73,36,37,4,13,1,53,1,17,29,81,17,15,4,15,25,15,262,24,136,192,27,40,15,13,54,38,49,106,11,6,15,1,182,82,164,9,73,4,24,16,83,82,52,1,50,53,155,10,81,10,153,92,18,301,195,66,42,37,128,51,378,147,40,110,118,42,25,26,144,31,1,109,69,13,77,47,23,32,206,76,78,417,13,212,231,23,8,47,132,103,3,178,63,1,22,117,133,81,192,4,124,83,1,112,17,12,75,18,8,84,1,233,12
+Numérique	324,319,362,173,69,23,2,13,1,40,3,226,36,7,359,62,33,1,3,207,107,42,30,9,103,2,9,64,6,58,4,36,14,46,93,1,45,28,73,36,37,4,13,1,53,1,17,29,81,17,15,4,15,25,15,262,24,136,192,27,40,15,13,54,38,49,106,11,6,15,1,182,82,164,9,73,4,24,16,83,82,52,1,50,53,155,10,81,10,153,92,18,301,195,66,42,37,128,51,378,147,40,110,118,42,25,26,144,31,1,109,69,13,77,47,23,32,206,76,78,417,13,212,231,23,8,47,132,103,3,178,63,1,22,117,133,81,192,4,124,83,1,112,17,12,75,18,8,84,1,233,12,361
 Numérique Augustin Kibassa Maliba	2602
 Numérique Burkina Faso Smartphone SNC BOBO	9993
 Numérique Date	10519
@@ -894,11 +907,14 @@ Nutricional	1701,9067
 NutricionalNutrição	966
 Nutrición	1701
 Nutrición Muy	1701
-Nutrition	1828,1776,3709,956,1442,1057,61
+Nutrition	1828,1776,3709,956,1442,1057,61,588,52
+Nutrition Results	11469
+Nutrition SEA	11417
 Nutrition Security	10768
 Nutrition Survey Reports	970
 Nutrition and Beyond. Unpublish	6947
 Nutrition and Medical Services	723
+Nutrition and Population Practice Area Eastern and Southern	11417
 Nutrition and Population Strategy	3604
 Nutrition for Resilience	10768
 Nutritional Adequacy	6947
@@ -909,10 +925,10 @@ Nutrição	10760
 NutroCloud	3859
 Nutzung von Smartphones	614
 Nuvaga	1696,4634,226
-Nuvem	1192,574,672,378,3164,990,3170
+Nuvem	1192,574,672,378,3164,990,3170,1237,9,6
 Nuvem Artigo	6970
 Nuvem Dec	2437
-Nuvem Nacional de Angola	5979,1
+Nuvem Nacional de Angola	5979,1,5409
 Nuvem Privada	6970
 Nuvem Unificada Governamental. Localizado	1192
 Nuvion	4716
@@ -956,7 +972,7 @@ Plan National du Numérique	3069,749
 Plan National du Numérique Horizon	3747
 Plan Stratégique National de Santé Numérique	7707
 Plan Stratégique Numérique	3394
-Plano Nacional de Numeração	15
+Plano Nacional de Numeração	15,11415,1
 PlantVillage's Nuru	3859
 Plataforma Nacional de Nuvens	2613
 Plot Number	3386
@@ -997,17 +1013,20 @@ RFP Number	11240
 Range Nulls	3861
 Rate Numbers	6946
 Re2istration Number I Portable	736
+Recursos de Numeração	11430
 Reduced Number of People Suffering Financial Hardship	10776
 Ref Number	1261
 Reference Number	9134,2142
 Registered.KE Domains Number of Domains Sub-Domain Use	6946
 Registration Number	4896
 Registration Numbers	11250
+Regras de Aposição da Numeração de Polícia	11373
 Regulator of South Africa NNR National Nuclear	11228
 Regulatory Number	7548
 Relevant Numbers	11250
 Reported Number and Value of Private Buildings Completed	2775
 Resource Mobilisation Committee Total Number	1554
+Responsibility for Data Collection The MOH Number	11417
 Resultado Nulo	10757
 Review Report Number	10779
 Risk Committee Total Number of Meetings	1554
@@ -1094,6 +1113,7 @@ TELEPHONE NUMBER	11218,22
 TF Number	10779
 TRANSPORTE GENERAL DE DELEGACIÓN NUEVAS TECNOL	4209
 TRN Tax Reference Number VAT	11298
+Tape Number	11405
 Target Number	1228
 Tax Identification Number	3161,574,203,17,647,254,2065,774,51,2318,701,10
 Tax Identification Numbers	9570
@@ -1164,6 +1184,7 @@ Université Numérique du Mali. Quant	1708
 Usagers Registres Numérisation	3381
 Usages Numériques	4930
 Use Of Accounts Number Of Mobile	1828
+Utilização de Recursos de Numeração	11430
 VAM NDVI NGO NRT NUPRP PMT	10763
 VAT REGISTRATION NUMBER OR VAT REGISTRATION	11240
 VOLUTION DES SERVICES FINANCIERS NUMÉRIQUES DANS	4459
@@ -1178,6 +1199,7 @@ Women's Nutrition and Health Bill	2177
 World Bank's Projet de Gouvernance Numérique du Secteur	1684
 X PROVINCE Number of Number	2477
 X4 TOYOTA COROLLA IMMATRICULATIONS NUMERO	10821
+Year Number	11395
 Year Value Indicator Name Number	6579,349
 ZEMA. Number of ZRCP	1988
 ZOUMAROU Ministre du Numérique	10819

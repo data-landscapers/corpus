@@ -53,7 +53,7 @@ COBAC Promotion	10965
 COMMUNITY HEALTH PROMOTION FUND Data Controller	7167
 CUENTAS Y PROMOCIÓN PÚBLICA	4209
 Cameroon Promotes the East Region	8610,233
-Carolina Cerqueira. Promulgada	3519
+Carolina Cerqueira. Promulgada	3519,7890,16
 Cell C Buy and Get Promotional Bundles	11259
 Cell C CVM Promotional Bundles	11259
 Cell C Home Connecta Flexi Promotional	11259
@@ -116,7 +116,8 @@ FNB Connect Data Bundle Promotion	11259
 Facilitate Cybersecurity Awareness Activities. Promote	1777
 Facilitate Cybersecurity Promote	1777
 Facilitate Promote Cross-Sectoral	1777
-Family and Promotion of Women	10765,3,7
+Family and Promotion of Women	10765,3,7,600,20
+Family and Women Promotion	11380
 Family and Women’s Promotion	10776
 Fee- Based Export Promotion Assistance	5773
 Foreign Researchers Research Promotion	1154
@@ -151,12 +152,14 @@ Instituto Nacional de Promoción Empresarial	4209
 Instituto de Promoção	2816
 Interior Promote	7548
 Internet They Promised	4619
+Investidor Promotor	11443
 Investment Promotion	4126
 Investment Promotion Agencies of West African States	10262
 Investment Promotion Authority	10040
 Investment and Export Promotion Agency	10823
 J Educ Health Promot	8376
 Jointly Promote West Africa's Development	6003
+Julião Mateus Paulo. Promulgada	11358
 Justice Proposed Data Protection Agency Promote	1161
 KENEDOUGOU TX Prom	10847
 KENYA THE PROMISING FUTURE	899
@@ -202,6 +205,7 @@ MetroFibre Pay-As-You-Go ISP Customer Launch Promotion	11259
 Minister of Foreign Trade and Export Promotion	2131,1682,1639
 Ministry of Foreign Trade and Export Promotion	5505
 Ministry of Promotion of Women and Gender	10812
+Mission Promote the REGULATION and ADOPTION	11493
 Mobilisation and Research Promotion Partnerships RCZ	1554
 Monitor and Promote Evidence-Based Policy-Making	8817
 Mozambique’s Agency for Investment and Export Promotion	8246
@@ -256,9 +260,13 @@ PROMOTION OF COMPATIBILITY OF REGIMES Mechanisms	1243
 PROMOTION OF EMERGING BLACK OWNED SERVICE	11209
 PROMOTION OF HEALTH PRODUCTS	9855
 PROMOTIONAL	4624
+PROMOVER O CRESCIMENTO DE SERVIÇOS OVER	11397
 PROMOVER O SECTOR E A INDÚSTRIA	2125
+PROMOVER PROGRAMAS A TODOS OS NÍVEIS	11397
 PROMOÇÃO DA GOVERNAÇÃO ELECTRÓNICA	15
 PROMOÇÃO DAS TECNOLOGIAS DE INFORMAÇÃO	15
+PROMOÇÃO DO COMÉRCIO ELECTRÓNICO	11397
+PROMOÇÃO E ACOMPANHAMENTO DO DESENVOLVIMENTO	11397
 PROMULGATED UNDER SECTION	11233
 Paris Agreement. Promoting	1867
 Pillar Access Connectivity Affordability Description Promote	5676
@@ -355,6 +363,7 @@ Promoting	470,488,12,81,80,112,182,385,4,14,947,321,417,105,243,116,963,192,112,
 Promoting Action	8376
 Promoting CSA	970
 Promoting Clean Energy for All	11332
+Promoting Climate	11469
 Promoting Diversity and Inclusion	2958
 Promoting Gas Power Market Integration	7426
 Promoting Human Security	1867
@@ -426,15 +435,19 @@ Promotions and Special Offers	6671
 Promouvoir	643,355,220,1898,114,787,550,3989,10,325,515,135,1167,4,146,16,40,51,10
 Promouvoir des Consommateurs Activité	10965
 Promouvoir des Des Activité	10965
-Promover	15,152,1534,437,678,703,627,72,1445,799,4288,33
+Promover	15,152,1534,437,678,703,627,72,1445,799,4288,33,577,11,5,3,2,1,6,6,2,1,33,13,6,12
 Promover la Reforma	1701
 Promoveu	2345
 Promovido	8052
-Promoção	15,2801,50
+Promoção	15,2801,50,8494,30,23,5,12,5
+Promoção Dolosa	11425
+Promoção da Cibersegurança	11374
 Promoção da Governação Electrónica	15
 Promoção da Implementing Agency	10768
 Promoção da Língua Portuguesa Presidenciais	6837
-Promoção da Mulher	5296,2586,2872,9,2,3,7
+Promoção da Mulher	5296,2586,2872,9,2,3,7,603,2,26,75,1
+Promoção da Mulher MAT Ministério da Administração	11390
+Promoção da Mulher MED	11387
 Promoção de Investimentos	10325
 Prompt	34,3827,1090,3539,407
 Prompt Engineering	10133
@@ -473,7 +486,7 @@ SUD TX Prom	10847
 Safety and Promote	5244
 Sakeng Mobile Promotional Data Bundles	11259
 Sanctions Promised	9517
-Santos. Promulgada	539,10,10198,2,6,1
+Santos. Promulgada	539,10,10198,2,6,1,607,21,4
 Sector Promote Government A- AI Infrastructure	7548
 Sistema de Promoción Inmobiliaria	1701
 Smart Solutions Promote	958
@@ -504,6 +517,7 @@ Vodacom Promotion	11259
 Vodacom V-Up Summer Promotion	11259
 Vuma Promotion	11259
 Vumatel Student Discount Promotion	11259
+Vítima de Violência Doméstica PPGEM Programa de Promoção	11390
 WELL AS THE PROMOTION	1885
 Weekly Organic Posts Promoted Social Media	8999
 XII. Promover	1701

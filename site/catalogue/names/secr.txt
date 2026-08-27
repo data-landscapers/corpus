@@ -7,6 +7,7 @@ AACB Secretariat	4103
 ACP Secretariat	26,1,1
 AFRINIC Secretariat	10079
 AFSC Secretariat	6938
+AGRADECIMENTOS O Secretariado da Avaliação Externa Conjunta	11376
 AI Secretariat	5371
 APDP Imourane LEKOYO Secrétaire du Bureau Amouda	10821
 APEC Privacy Framework. APEC Secretariat. Retrieved	1243
@@ -106,7 +107,7 @@ CRASA and SADC Secretariats	26,1,1
 CRS Secretary Paul Mwangemi	5299
 CS Cabinet Secretary for ICT CSP Cloud	6432
 Cabinet Secretaries	2742,4806,2765
-Cabinet Secretary	1131,615,920,43,1443,479,1600,201,156,199,159,602,59,224,1,736,1712,33,934
+Cabinet Secretary	1131,615,920,43,1443,479,1600,201,156,199,159,602,59,224,1,736,1712,33,934,217
 Cabinet Secretary MICDE	7548
 Cabinet Secretary Ministry for ICT and Digital Economy	1245
 Cabinet Secretary Ministry of Information	7548
@@ -164,6 +165,7 @@ Constitucional Secretario Sala	4209
 Coordinator and Secretariat	9838
 Copperbelt Permanent Secretary Lawrence Mwanza	5984
 Corporate Secretary	1554
+Corporation Secretary	11464
 Corte Suprema Secretario Fiscalía General Delegado	4209
 Corte Suprema Secretario Fiscalía General Secretario	4209
 Council Secretary	1988
@@ -238,8 +240,10 @@ Ensino Primário Província Secretárias	10766
 Ensino Secundário Província Secretárias	10766
 Environnemental Membres Secrétaire Général Younès Benakki	8891
 Establish Policy Secretariat	7548
+Estado Secretário de Estado	11479
 Etat Chargé du Secrétariat	10821
 Etat Secrétaire Général	10821
+Eugénio Adolfo Alves da Silva. SECRETÁRIA	11391
 European Commission and ACP Secretariat	26,1,1
 Executive Secretariat	2889,1317
 Executive Secretariat for ICT	2840
@@ -286,7 +290,7 @@ GPU Secretary General	7650
 Gaming Permanent Secretary	6938
 General Jurisdicción Militar Secretario General Ministerio	4209
 General Manager and Secretariat	3513
-General Secretariat	3882,1525,1081,1305,157,1806
+General Secretariat	3882,1525,1081,1305,157,1806,1645,16
 General Secretario Sala	4209
 General Secretary	6409,920,2720,1051
 General Secretary of Justice	10765,10
@@ -300,6 +304,7 @@ Gobierno Consejero Ministro Gran Canciller Secretario	4209
 Gobierno Secretario General Ministerio Fiscal Audiencia	4209
 Godefroid MISENGA MILABYO Secrétaire Exécutif	10400
 Governor Bank of Uganda Permanent Secre-	6938
+Grievance Redress Service GRS General Secretariat	11417
 Group Company Secretary	4896
 Group Company Secretary and Registered	4896
 Guest of Honour the Principal Secretary for Trade	7020
@@ -339,6 +344,7 @@ Ilmo. Sr. Secretario General	9302
 Immigration and Citizen Services Principal Secretary	2742,183
 Information and Media Permanent Secretary Mr. Thabo	8481
 Instancia Secretario Juzgado Comarcal	4209
+Institute of Certified Public Secretaries of Kenya	11464
 Institute of Certified Secretaries of Kenya	6946
 Instrucción Juez Primera Instancia Secretario Regional	4209
 Instructed the AACB Secretariat	4103
@@ -409,6 +415,7 @@ Malawi Principal Secretary for E-Government	5098
 Management Secretariat	11129
 Member Secretariat	11129
 Mesa Secretario de Mesa	4209
+Metodologia O Secretário-Geral da Organização	11387
 Michael Ouma. NRB Secretary Dr Christopher	3936
 Militar Secretario General Ministerio	4209
 Minister Ashwini Vaishnaw and IT Secretary	9404
@@ -515,7 +522,7 @@ Primer Secretario A3	4209
 Principal Secretaries	5536,5763
 Principal Secretaries for Interior	6787
 Principal Secretaries for Reforms	10736
-Principal Secretary	3349,299,230,635,118,5,887,13,1003,248,44,107,8,123,338,73,68,57,777,187,223,365,52,7,224,380,493,86,732,2,1
+Principal Secretary	3349,299,230,635,118,5,887,13,1003,248,44,107,8,123,338,73,68,57,777,187,223,365,52,7,224,380,493,86,732,2,1,330
 Principal Secretary John Tanui	10668
 Principal Secretary Ministry for Finance Non-Executive Board	11131,3
 Principal Secretary Mphatso Sambo	2264
@@ -547,6 +554,7 @@ Provincial Secretaries	7814
 Provincial Secretario Consejo Superior	4209
 Provincial Secretario Fiscalía Corte Suprema Secretario	4209
 Public Accountant and Public Secretary	6946
+Public Health State Secretary	11401
 Public Sector Reform Secretariat	8367,1363
 Public Sector Reform Secretariat and PricewaterhouseCoopers	8367
 Public Sector Reforms Secretariat	8371
@@ -559,6 +567,7 @@ Reporting Exchange Control Secretaries Advisor Broker	4896
 Representing the Permanent Secretary	7432
 Requested the AACB Secretariat	4103
 Restricted Confidential Secret Top Secret Revision	11188
+Rosário Teixeira de Alva Sequeira Bragança. SECRETÁRIO	11391
 Rwanda Internet Governance Forum Secretariat	8343
 SADC Executive Secretary	9761,560
 SADC Secretariat	318,644,2514,618,1785,983,2899,312,96
@@ -668,11 +677,12 @@ Secretaria de Estado de Hacienda	1855
 Secretaria de Estado de Igualdad de Género	1855
 Secretaria de Estado de Seguridad	1855
 Secretaria de Estado de Traducciones	1855
-Secretariado	167,4051,3727
+Secretariado	167,4051,3727,3504
 Secretariado Executivo	13,4133,1
 Secretariado Executivo. Artigo	13
 Secretariado Executivo. SECÇÃO I CONSELHO	13
 Secretariado Permanente	6568
+Secretariado da Cimeira	11387
 Secretariado-Geral	4435
 Secretarias	4209
 Secretarias Fiscalías de Salas	4209
@@ -779,10 +789,10 @@ Secretary Clinton	11154
 Secretary Dickson Matembo	8480
 Secretary Dr. Aminah Zawedde	6247
 Secretary Dr. Loretta N. Mkhonta	11134
-Secretary General	25,2581,1034,985,1150,1171,847,91,66,1419,100,1307,43,54,94,226
+Secretary General	25,2581,1034,985,1150,1171,847,91,66,1419,100,1307,43,54,94,226,307
 Secretary General Aline Sylvie Minko-Mi-Etoua. Discussions	8541
 Secretary General Dr Sifundo Chief Moyo	4953
-Secretary General John Omo	9236
+Secretary General John Omo	9236,2264
 Secretary General Modou S. Joof	9313
 Secretary General Mr Achille BASSILEKIN III	10980
 Secretary General Tom Odege	2512
@@ -820,6 +830,7 @@ Secretary of State for Foreign Affairs	8754
 Secretary of State for Investment and Development	4295
 Secretary of State for Land and Environment Gustavo Dgedge	10470
 Secretary of State for Planning María Ebiaca Moete	3038,1265
+Secretary of State for Public Health	11401,16
 Secretary of State for Secondary Education Soraya Kalongela	10359
 Secretary of State for Telecommunications Ibango Manga Ma	6752
 Secretary of USPF	10386
@@ -846,13 +857,17 @@ Secretária Permanente	10140
 Secretária de Direitos Humanos	10750
 Secretária de Estado	1180,84,9486,2
 Secretária de Estado Moçambique	10750
-Secretário	10750,2,1
+Secretário	10750,2,1,625,10
 Secretário Executivo	2866
 Secretário Geral	10753
 Secretário Nacional de APU-PDGB	10114
 Secretário da Força Aérea	2816
-Secretário de Estado	4075,4234,541,1900,2,1
+Secretário de Estado	4075,4234,541,1900,2,1,625,28
+Secretário de Estado da Acção Social	11378
+Secretário de Estado da Administração	11378
+Secretário de Estado da Comunicação Social	11378
 Secretário de Estado da Saúde	5020
+Secretário-Geral	11361
 Secretário-Geral António Guterres	2816
 Secréloire Générol	10813
 Secrétaire	324,1384,40,694,473,16,557,178,133,168,313,494,949,184,558,217,19,158,4,26,444,337,46,83,38,141,185,74,32,44,8,23,377,29,72,69,65,325,144,806,282,372,166,100

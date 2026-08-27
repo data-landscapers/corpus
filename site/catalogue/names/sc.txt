@@ -212,7 +212,10 @@ Bachelor of Science Honours	6832
 Bachelor of Social Science Degree	11131,3
 Background Open Science	5246
 Background The EU-South Africa Science and Technology	11288
-Balanced Scorecard	3487,7063
+Balanced Scorecard	3487,7063,829
+Bank. Section I.B of Schedule	11417
+Bank. Section I.D of Schedule	11417
+Bank. Section I.F of Schedule	11417
 Bar Anding'o Comprehensive School	7204
 Barazani Girls High School	10313
 Barlow Government School	11332
@@ -223,6 +226,7 @@ Berg River-Voëlvlei Augmentation Scheme	11248
 Berlin School of Economics and Law	9237
 Bernd Schramm	11156
 Beutel and Sculley2022	8283
+Big Data and Data Science	11424
 Bindura University of Science Education	520,4008,4869
 Blavatnik School of Government	3598,7537
 Blended Finance Scheme	11197,48
@@ -309,6 +313,7 @@ Charge of Science and Technology	6997
 Charity School Rd	3386
 Chatterjee SC. Assessment	3791
 Checklist of Compulsory Returnable Schedules and Documents	11240
+Chefe da SCARP	11435
 Cheplelaibei Junior School	10313
 Cheplelaibei Primary School	10313
 Chicago Google Scholar Wei L	9739
@@ -442,6 +447,7 @@ DAAD Scholar Burundi	7955
 DAMACREST SCHOOL LIMITED Data Controller INST-816388B5FBE	7167
 DARUBINI SCREENING INTERNATIONAL COMPANY LIMITED Data	7167
 DC. World Bank. IDA17 Scale-Up Facility	10997
+DCDT and Henley Business School Africa	11495
 DE LA RECHERCHE SCIENTIFIQUE Chef de Cabinet	8237
 DEBs and School	1988
 DEBs and School Fire	1988
@@ -649,6 +655,7 @@ Exhibitions and Tourism Scheme. Through MEETS	5533
 Expanded Scope of Application	7391
 Export Cover Guarentee Scheme	11134
 Express Penalty Scheme	3572
+Extractives Climate Change and Disaster Screening	11380
 Ezulwini Catholic Primary School	11134
 F. Reform Scenarios	10997
 FC score	10940
@@ -727,6 +734,7 @@ GDC-submission Southern Alliance.pdf. Google Scholar Tjahja	11028
 GDC-submission-BSM-Academy.pdf. Google Scholar Cammaerts	11028
 GEAR APPROACH TO SCALE-UP Drawing	10852
 GENERAL PROVISIONS FOR THIS SCHEDULE Penalties	3714
+GENERATION SCENARIOS AND OPTIONS	11366
 GIGA Project School Connectivity Dashboard	899
 GII Score	10969
 GITOC and SC-AGC	11184
@@ -837,6 +845,7 @@ HUMAN DEVELOPMENT SCORE	10759,78
 Haaga-Helia University of Applied Sciences. Manda	2093
 Habitation SCN	10874
 Harnessing Science for National Development	1554
+Harvard Business School	11379
 Harvard Business School Press	9237
 Harvard Data Science Review	11156
 Harvard Extension School. Md Abdullah Omar	1828
@@ -958,6 +967,8 @@ International Scene World	2775
 International Scene World Real GDP Growth	2775
 International Science Council	5036,210
 International Scientific Panel	10210
+Internet Resilience Score	11470
+Intervention Logic and Short-Term Business Planning SC	11469
 Intégrée des Schémas Directeurs	3396
 Irrigation Schemes	2775
 Item SCHEDULE OF FEES OF OFFICE	11249
@@ -1081,6 +1092,7 @@ Limpopo Mokopane Waterberg District Data Science	6832
 Lincoln Alexander School of Law	8764
 Lindsey Schutters	3435,3661,207
 Lisette IJssel de Schepper	7253
+Loan Agreement and Section I of Schedule	11417
 Loan Guarantee Scheme	11134
 Local Scholarship Funding	5583
 London School of Economics	7174,809,3023,1
@@ -1088,6 +1100,9 @@ London School of Economics and Political Science	5257,5892
 Lotus Bank School	7444
 Luanda Science and Technology Park	6881
 L’Université Nationale des Sciences	10855
+M Nigeria for Women Program Scale Up	11469
+M P181248 Energy Scale-up Project IPF	11469
+M P507001 Scale Up	11469
 M-PESA Scan and Pay	10458
 M. C. van Schalkwyk	11028
 M. S. Schäfer	11028
@@ -1133,6 +1148,7 @@ Management and Political Sciences	8130
 Manager of Scenious Hub	8330
 Manchester Business School	4896
 Manyatta Comprehensive School	10313
+Map of Project Scope	11380
 Marakabei High School	3149
 Maram Primary School	7204
 Marang JSS School	5295
@@ -1346,7 +1362,7 @@ Omdia. Paratus Group CEO Schalk Erasmus	3539
 Omegapro Scamdemic	9739
 Online High School. Boise State University	961
 Online Scams	6426
-Open Science	5246,2252
+Open Science	5246,2252,3980
 Open Science Advisory Board	5246
 Open Science Foundation	4676
 Open Science Framework	8436
@@ -1407,6 +1423,7 @@ Partners Associazione ScuolaNuova.EU AI AZ DATA	8530
 Partners Science	7548
 Partnership Framework CSI Corporate Scorecard Indicator	6539
 Passport Scandal	10644
+Património SCC	11435
 Payment Scenarios	11130
 Pearson. Schwab	6832
 Pension Scheme	7695
@@ -1426,6 +1443,7 @@ Plant Science	7759
 Platform Digital Infrastructure for Social Science	8436
 Political Terror Scale RSF Reporters	10759,78
 Poor Network Coverage Leaves Kavango Schools	10465
+Population CLIMATE Climate Change and Disaster Screening	11417
 Portugal. SCITEPRESS	10780
 Portuguese Neonatal Screening Program	10188
 Post SCM ASSET MANAGEMENT	11251
@@ -1467,6 +1485,7 @@ Project. The Gambia. Section I.B.1 of Schedule	1264
 Promoter Score Point of Sale Quarterly Gross	11134
 Propensity Score Matching	9349,1503
 Proprietor of Valencia Schools and Greenwood British School	7444
+Protection Program SCD Systematic Country Diagnostic	11380
 Proyecto Educativo CANIGE Multilingual School	4209
 PubMed Google Scholar Contributions	9739
 PubMed Google Scholar Contributions Conceptualization	10784
@@ -1538,6 +1557,10 @@ Regions Schools	1944
 Regular Reboot of Serves Scheduled	9123
 Regulations Scope of Application CHAPTER	11255
 Regulatory Scrutiny Board	6477
+Renewable Energy Scale-	11469
+Renewable Energy Scale-Up Cross Boundary Energy	11469
+Renewable Energy Scale-up	11468
+Renewable Energy Scale-upinitiative and Mission300	11469
 Renewal Form DP1. Second Schedule	1877
 Renewed Hope National Home Grown School	2318
 Repeals. First Schedule	736
@@ -1604,12 +1627,14 @@ SCAN FOR APPENDICES REPUBLIC OF GHANA	4126
 SCAN ICT	9485
 SCANFORM	9273
 SCANFORM. Bien	9273
+SCARP	11435
 SCATEC	10975
 SCB Bank	3279,85
 SCC1 Secondary Sources De Hert P	8776
 SCCARTO	10936
 SCCSM	10975
 SCD Systematic Country Diagnostic SIAC Serviços	10765,10
+SCD.17	11469
 SCDEs	899
 SCEE-AES	7670
 SCG. Cite the PAD	6754
@@ -1688,6 +1713,7 @@ SIXTEENTH SCHEDULE	7845
 SIXTH SCHEDULE	7845
 SIXTH SCHEDULE Fine	7845
 SMB Scanner	3336
+SME Scorecard	11469
 SN Computer Science	8604
 SN score	10940
 SOCIAL SCENE Chapter	2775
@@ -1756,7 +1782,7 @@ Scale the Effort Building	7596
 Scale-	3604
 Scale-Up	790
 Scale-Up Corridor	4698
-Scale-Up Window	3604,176
+Scale-Up Window	3604,176,7689
 Scale-up	6539,4224,89,281
 Scale-up of Kwenda	10763
 Scale. Accessed	5700
@@ -1792,6 +1818,7 @@ Scaling the Atlas	7655
 Scaling the Digital Stack	671
 Scaling-Up Birth Registration Using Innovative Technology	64
 Scaling-up	2712,3867
+Scaling-up Access	11380
 Scaling-up Impact and Getting Back	10964
 Scam Alert	10311
 Scam Alert Tool	10580
@@ -1849,7 +1876,7 @@ Schalkwyk	1243
 Scharpf	7451
 Schauer	7451
 Schaumburg	9237
-Schedule	3,19,4,387,323,236,237,14,41,486,97,67,74,11,627,83,18,987,675,1,1,1,340,801,154,185,560,475,14,1,276,350,297,745,13,237,597,1331,61,27,100,8,43,10,160,1,1,3,16,3,8,4,5,12,3,2,14,14,2,14,1
+Schedule	3,19,4,387,323,236,237,14,41,486,97,67,74,11,627,83,18,987,675,1,1,1,340,801,154,185,560,475,14,1,276,350,297,745,13,237,597,1331,61,27,100,8,43,10,160,1,1,3,16,3,8,4,5,12,3,2,14,14,2,14,1,137
 Schedule CHAPTER	11190
 Schedule Delays Experienced	11134
 Schedule II	11280
@@ -2058,7 +2085,7 @@ SciELO Scientific Electronic Library Online STM	5246
 SciELO-SA	5246
 SciPap	7886
 Scidev.Net	4674
-Science	737,52,57,53,255,7,304,89,156,46,58,282,590,14,9,107,69,73,92,90,218,5,241,257,265,402,26,82,249,49,102,61,120,27,1,1,3,8,17,97,42,110,177,366,108,306,143,209,80,85,365,136,50,171,303,208,150,80,99,14,127,101,213,112,352,98,6,48,156,424,82,8,300,168,8,117,71,5,59,22,85,21,59,5,1,9,58
+Science	737,52,57,53,255,7,304,89,156,46,58,282,590,14,9,107,69,73,92,90,218,5,241,257,265,402,26,82,249,49,102,61,120,27,1,1,3,8,17,97,42,110,177,366,108,306,143,209,80,85,365,136,50,171,303,208,150,80,99,14,127,101,213,112,352,98,6,48,156,424,82,8,300,168,8,117,71,5,59,22,85,21,59,5,1,9,58,190
 Science Academy	4353
 Science And Technology	899
 Science Based Targets	7402
@@ -2108,6 +2135,7 @@ Science and Technology Policy ICT Short Term	6133
 Science and Technology Policy The Kenya Kwanza	6133
 Science and Technology of Namibia	1554
 Science for Africa	5601
+Science of Learning for Education3	11439
 Science&author	2096
 Science&volume	1219
 Science. Abstract	10979
@@ -2144,7 +2172,7 @@ Scientific Research Scientific Research	2958
 Scientific Research and Development Arab	2958
 Scientific and Cultural Organisation	6211,2895,96,553,748,637
 Scientific and Cultural Organisation WEF World Economic	1814
-Scientific and Cultural Organization	1814,3222,1912,114,1647,2447,109
+Scientific and Cultural Organization	1814,3222,1912,114,1647,2447,109,125
 Scientific and Cultural Organization AUC African Union	10835,3,130
 Scientific and Cultural Organization UNWTO United Nations	2775
 Scientific and Cultural Organization USAC Universal Service	6946
@@ -2173,7 +2201,7 @@ Scission	10875
 Scolarisation	737,10110
 Scolarisation TIC Technologies	12
 Scombined	8606
-Scope	25,3,208,526,97,150,176,24,5,9,20,94,14,163,72,1,5,13,132,5,43,9,83,36,75,102,5,64,1,48,217,40,314,423,5,389,32,1,22,27,78,105,24,159,56,13,16,173,64,16,11,97,1,27,22,1,193,162,236,59,1,6,61,406,199,39,529,133,189,78,59,46,1,122,23,2,3,133,181,49,97,183,59,101,258,53,344,44,163,11,297,2,39,21,186,294,1,484,69,31,576,98,70,85,44,95,23,1,1,28,56,48,43
+Scope	25,3,208,526,97,150,176,24,5,9,20,94,14,163,72,1,5,13,132,5,43,9,83,36,75,102,5,64,1,48,217,40,314,423,5,389,32,1,22,27,78,105,24,159,56,13,16,173,64,16,11,97,1,27,22,1,193,162,236,59,1,6,61,406,199,39,529,133,189,78,59,46,1,122,23,2,3,133,181,49,97,183,59,101,258,53,344,44,163,11,297,2,39,21,186,294,1,484,69,31,576,98,70,85,44,95,23,1,1,28,56,48,43,44,1,16
 Scope Conditions and Limitations	7966
 Scope Implementation Guidelines Education	2958
 Scope Implementation Guidelines Education AI	2958
@@ -2233,7 +2261,7 @@ Scope of Project Work	3058
 Scope of Work	236,3442
 Scope of Work and Requirements	11252
 Scope of Works	1638
-Scoping	1988,6615,520
+Scoping	1988,6615,520,2278
 Scoping Meeting	11131
 Scopus	766,482,6542,881,566
 Scopus and PubMed	766
@@ -2265,12 +2293,12 @@ Score Security	10835
 Score Service Level Requirements	5665
 Score Slowing Improvement Warning Signs	10835,3,130
 Score Women's Equality	10968
-Scorecard	10912
+Scorecard	10912,557
 Scorecard.pdf	6133
 Scored	6214,306,115
 Scorefam	2826
 Scorefit	8125
-Scores	3391,2208,3005,2155,5,73,301
+Scores	3391,2208,3005,2155,5,73,301,345
 Scores of Cameroons	2519
 Scoring	1243,2078,1813,1080,4550
 Scotland	40,713,285,2422,1395,698,735,578,4265,3
@@ -2342,6 +2370,7 @@ Section VII- Scope of Works	1638
 Sections and Description Schedule	10829
 Sectoral Scope This Policy	7548
 Securing and Scaling Digital Process	8386
+Secção Administrativa SCARP	11435
 Selected of Schools	1988
 Semantic Scholar	8172
 Senior Data Scientist	9541
@@ -2420,6 +2449,7 @@ South African Journal of Libraries and Information Science	8021,1
 South African Schools Act	11180
 Southern Africa Morne Gijben Lead Scientist	11191
 Southern Africa. The Scalar Botswana Innovation	5393
+Southern African Science Service Centre for Climate	11407
 Sovereignty Score	3787
 Space Science	1131,3879
 Space Science and Geospatial Institute	1796,1413
@@ -2633,6 +2663,8 @@ Van Schaik Publishers. Rall	8603
 Vietnam’s Minister of Science and Technology	9377
 Villages and Acacia Park Primary School	11285
 Visit SciDev.Net	4674
+WBG Scorecard	11469
+WBG Scorecard Indicator	11469
 WIL Scale	6832
 Warning Score	10835,3,130
 Warning Signs Score	10837

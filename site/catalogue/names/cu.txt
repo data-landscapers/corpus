@@ -60,6 +60,7 @@ Authority. The Customs Division	10419
 Automated Customer Engagement	7334
 Automated System for Customs Data	969,8976
 Automatic Exchange of Customs Information	9745
+Avaliação de Impactos Cumulativos	11406
 B CUOTA ANUAL	4209
 B Cutting-Edge Green Data Center	1722
 B- Customs	7548
@@ -82,7 +83,7 @@ Benguela Bié Cabinda Cuando-Cubango Cuanza Norte	10766
 Benguela Cuando Cubando Lunda Norte Uíge	10775
 Benguela Huambo Bié Moxico Cuando Cubango	10777
 Benguela and Cuanza Norte	10763
-Benguela and Cuanza Sul	10763,5
+Benguela and Cuanza Sul	10763,5,598
 Benguela and Cunene	10763
 Benin Customs Administration	8499
 Benin Cuts Digital Budget	4159
@@ -96,6 +97,7 @@ Bié ANTÓNIO FÉLIX CHICUMINA CUCHONGA	10751
 Bié Cabinda Cuando Cubango Cuanza Norte	10766
 Bié Cabinda Cuando-Cubango	10766
 Bié Cabinda Cuando-Cubango Cuanza Norte Cuanza	10766
+Bié Province Cuando Cubango Province C	11418
 Board Member Dr. Curle	11134
 Board Member Dr. Neville Curle	11131
 Botswana and Malawi. Currently	1154
@@ -124,6 +126,7 @@ COMERCIO CUOTA ANUAL	4209
 COMPONENTS Current Component Name Current Cost	1284
 CONCEPTO HACIENDA CMF HACIENDA CMF CUOTA	4209
 CONSEJO DE LA REPUBLICA Cuentas CONCEPTO	4209
+CONSTITUCIONAIS E DO CUMPRIMENTO DA LEI	11461
 CONTRAL.GENERAL DE CUENTAS.- Concepto	4209
 COOPERACIÓN INTERNACIONAL Y DIÁSPORA Cuentas CONCEPTO	4209
 CSU CUCI DRC DRF DRM EM-DAT	10763
@@ -178,8 +181,8 @@ CUREMARK HOSPITAL LTD Data Controller INST-76385364442	7167
 CURESPAN PHARMA	7167
 CURESPRINGS MEDICAL CENTER LIMITED Data Controller	7167
 CURRENCY CONVERSIONS	1818
-CURRENCY EQUIVALENTS	969,295,20,583,1022,3650,4290,135
-CURRENCY EQUIVALENTS Exchange Rate Effective	10768
+CURRENCY EQUIVALENTS	969,295,20,583,1022,3650,4290,135,416,88
+CURRENCY EQUIVALENTS Exchange Rate Effective	10768,649
 CURRENT	1723
 CURRENT ASSETS	4896
 CURRENT CHALLENGES VS ENHANCED SYSTEM SMARTCARE	2477
@@ -192,6 +195,7 @@ CURRENT SERVICE DELIVERY ENVIRONMENT	8999
 CURRENT SITUATION	9399
 CURRENT SPECTRUM ASSIGNMENTS IN NIGERIA	5245
 CURTIS AND FLETCHER IT SOLUTIONS LIMITED	7167
+CURTO E MÉDIO PRAZOS	11461
 CURVESTORNE LIMITED Data Processor INST-223731A70D3 NAIROBI	7167
 CUSIP Number	7198
 CUSTODIAN Ministry of Justice House of Parliament Presidency	1161
@@ -264,6 +268,7 @@ Connecting Businesses With Customers Google	1363
 Consolidated GCT Monthly Fibre Cuts Data	11037
 Constant Currency	8727
 Constitucional Cuentas	4209
+Contabilização de Custos	11430
 Contingent Emergency Response Component TOTAL Current	1228,3425
 Contract Account Number. Customers	8231
 Core Curriculum and Minimum Academic Standards	8710
@@ -278,34 +283,39 @@ Cualquier	163,4046
 Cuamba	6272
 Cuamba-Mecanhelas	6272
 Cuanda Cubango	10763
-Cuando	163,1538,2339,4,165,4216
+Cuando	163,1538,2339,4,165,4216,2993,3
 Cuando Cubango	8475,924,1351,1,1,5,3,3,2,1,9,1,1
 Cuando Cubango Benguela ANTUNES DINIS JOSÉ	10751
 Cuando Cubango Cuanza Norte Cuanza Sul	10766
 Cuando Cubango Luanda TERESA DE FÁTIMA	10751
+Cuando Cubango Province C	11418
+Cuando Cubango Province Cunene Province Com	11418
+Cuando Cubango. Official Use Only	11417
 Cuando Lunda Benguela Huambo Bié Moxico	10760
 Cuando Moxico Leste Cubango Moxico Cuanza-Norte	4044
+Cuando Segunda	11429
 Cuando-Cubango	10766
 Cuando-Cubango Cuanza Norte Cuanza Sul Cunene	10766
 Cuantificar	1701
 Cuanto	1701
-Cuanza	4044
+Cuanza	4044,7374
 Cuanza Norte	8475,2282,3,3,2,1,11,1
 Cuanza Norte Cuanza Sul Cunene	10766
 Cuanza Norte Cuanza Sul Cunene Huambo	10766
 Cuanza Norte Uíge	10760
 Cuanza Norte and Benguela	10763
-Cuanza Sul	8475,2275,2,5,3,3,2,1,2,7,2
+Cuanza Sul	8475,2275,2,5,3,3,2,1,2,7,2,613,28
 Cuanza Sul Benguela Huambo Huíla Luanda	4044
 Cuanza Sul Cunene	10757,9
 Cuanza Sul Cunene Huambo	10766
 Cuanza Sul Cunene Huambo Huíla Luanda	10766
+Cuanza Sul. Ao	11366
 Cuanza- Norte	4044,6734
 Cuanza- Norte Sociedade Cuanza Norte	10778
 Cuanza-Norte	8425,2340,10,2
 Cuanza-Norte Bengo OSVALDO ANTÓNIO JACINTO	10751
 Cuanza-Norte LUCIANO SINGUI GUILHERME	10751
-Cuanza-Sul	5721,1864,840,304,2048
+Cuanza-Sul	5721,1864,840,304,2048,652
 Cuanza-Sul ANTÓNIO MANEIPO	10751
 Cuanza-Sul Benguela TERESA NTULA PUNA	10751
 Cuanza-Sul Edição Nº	10751
@@ -346,9 +356,10 @@ Cugurullo and Xu	8283
 Cuidados	10760,17
 Cuidados Pós-Parto	10777
 Cuidados Pós-parto	10777
+Cuidados da Primeira Infância	11387
 Cuidados de Saúde	10777
 Cuidados de Saúde Materna	10777
-Cuidar	4218
+Cuidar	4218,7163
 Cuima	5721
 Cuito	5721
 Cukier	6832,4363
@@ -369,9 +380,10 @@ Cultivating the Existing Data Center	1795,1413,3881
 Cultivation of Platform Dependence	226
 Cultiver	8566
 Culto	1855,2354,2632
-Cultura	1701,1115,1393,1454,1178,85,956,1421,1135,314
+Cultura	1701,1115,1393,1454,1178,85,956,1421,1135,314,638,4
 Cultura Excelentísimo	1855
 Cultura Na	2816
+Cultura ONG	11387
 Cultura Organizacional	2816
 Cultura UNICEF	1701
 Cultura de Cibersegurança	4146
@@ -391,7 +403,7 @@ Cultural Fear	9879
 Cultural Heritage	1264,724,1468,7373,135
 Cultural Heritage Construction	1988
 Cultural Heritage Data	3861
-Cultural Heritage ESS	3604
+Cultural Heritage ESS	3604,7813
 Cultural Heritage Not Currently Relevant ESS	10768
 Cultural Heritage Relevant ESS	1867,4672
 Cultural Organization	2958
@@ -463,14 +475,15 @@ Cumbre Mundial	1701
 Cumbres	4209
 Cummulative	10985
 Cummulative Coverage	10985
+Cumpram	11363
 Cumprida	549
-Cumprimento	14
-Cumprir	4147
+Cumprimento	14,11360,59,9
+Cumprir	4147,7288,6,2,8
 Cumul	10875
-Cumulative	969,898,1737,1072,1000,1262,29,2072,1729,61
+Cumulative	969,898,1737,1072,1000,1262,29,2072,1729,61,551,37
 Cumulative Broadcasting Licensees	6946
 Cumulative Broadcasting Licensees FY	6946
-Cumulative Disbursements	2712,1976,1891,349,949
+Cumulative Disbursements	2712,1976,1891,349,949,3518
 Cumulative Distribution Function	4676
 Cumulative Households	2775
 Cumulative INSTITUTIONAL DATA Contributing Practice Areas	10964
@@ -480,16 +493,19 @@ Cumulative PFS	10985
 Cumulative-impact	9719
 Cumulatively	3604
 CuneThnirdepr	10763
-Cunene	4044,1677,2704,50,924,591,760,1,6,3,3,2,1,2,7,1,1,3,2
+Cunene	4044,1677,2704,50,924,591,760,1,6,3,3,2,1,2,7,1,1,3,2,608,2,6,18,1,1,3,11,5
 Cunene Coastal	10763
 Cunene Huambo Huíla Luanda	10766
 Cunene Huambo Huíla Luanda Lunda Norte	10766
 Cunene LAURINDA ANÍBAL GARCIA	10751
 Cunene Province	9399,1366,10
+Cunene Province Hua	11418
+Cunene Province Huam	11418
 Cunene River	10763
 Cunene and Benguela	10763
 Cunene and Benguela Cunene Benguela Sources	10763
 Cunene and Coporolo	10763
+Cunene and Kwanza Sul	11401
 Cunene and Namibe	10763
 Cunene and Namibé	10768
 Cunningham	2096
@@ -541,11 +557,11 @@ Currency Stability Supports the Bottom Line	8968
 Currency Technical Working Group	10260
 Currency US	1284
 Currency USD	3676
-Currency Unit	969,295,603,1022,673,42,2935,4229,61,135
+Currency Unit	969,295,603,1022,673,42,2935,4229,61,135,416,37,51
 Currency and Banking	11134
 Currency and Exchanges Act	8840
 Currency. TechBooky	4467
-Current	34,172,190,22,353,18,110,59,4,266,513,126,73,26,518,228,63,171,2,606,139,33,185,5,211,92,434,35,208,349,2,76,210,144,556,199,45,62,3,37,253,96,392,228,162,167,89,335,196,631,242,246,572,30,575,19,7,10,17,10,14,90,25,12,133,1,3,2,2,2,58,26,9,26,12,14
+Current	34,172,190,22,353,18,110,59,4,266,513,126,73,26,518,228,63,171,2,606,139,33,185,5,211,92,434,35,208,349,2,76,210,144,556,199,45,62,3,37,253,96,392,228,162,167,89,335,196,631,242,246,572,30,575,19,7,10,17,10,14,90,25,12,133,1,3,2,2,2,58,26,9,26,12,14,110
 Current AI	5029,2519,3587
 Current AI Lifecycle	7548
 Current Account	2775
@@ -628,7 +644,7 @@ Current Year Personnel	11134
 Current Year Ratio Capital	11134
 Current Zimbabwe Act	736
 Current-Conditions Gains So Low	11140
-Currently	21,215,160,175,34,294,62,39,9,210,24,18,3,20,352,141,47,4,51,24,400,15,56,21,82,33,28,226,218,26,29,192,156,28,55,86,228,1,343,457,40,70,39,144,20,5,241,33,70,83,19,16,89,70,193,78,15,375,49,245,15,47,346,49,13,118,249,20,88,180,46,260,106,369,152,68,88,150,42,77,149,141,329,171,35,145,10,148,155,17,202,301,1,4,7,1,4,32,7,10,10,2,4,115,12,32,125,2,2,1,1,7,34,6,6,8,37,44,7
+Currently	21,215,160,175,34,294,62,39,9,210,24,18,3,20,352,141,47,4,51,24,400,15,56,21,82,33,28,226,218,26,29,192,156,28,55,86,228,1,343,457,40,70,39,144,20,5,241,33,70,83,19,16,89,70,193,78,15,375,49,245,15,47,346,49,13,118,249,20,88,180,46,260,106,369,152,68,88,150,42,77,149,141,329,171,35,145,10,148,155,17,202,301,1,4,7,1,4,32,7,10,10,2,4,115,12,32,125,2,2,1,1,7,34,6,6,8,37,44,7,111,74
 Currently AI	7751
 Currently Android-only	2579
 Currently English-only	3851
@@ -653,22 +669,24 @@ Curriculum Facilitators Facilitators	9198
 Curriculum Rollout	4528
 Curriculum Studies	11134
 Curriculum Support	899
-Curriculum Vitae	10060
+Curriculum Vitae	10060,1381,15
 Curriculum-vitae	10836
 Currie	7759
 Curry	2096
 Currículo Online Currículo Online Gratuito Saber	9040
-Curso	10783
+Curso	10783,578,58,53
 Curso de Formação de Formadores	10750
 Curso de Mestrado	10752
 Curso de Pedido de Constituição	10753
-Cursos	2816,7936
+Cursos	2816,7936,639,28
+Cursos de Pós-Graduação	11387
 Curt Carnemark	10812
 Curtis McCord	6445,1026
 Curtis McCord and Keldon	6445
 Curto Prazo	10750
 Cusip No	10793
 Custer	4907
+Custo	11361,17
 Custodial	8840
 Custodial Account	11233
 Custodian	1214
@@ -798,7 +816,7 @@ Customs and Political Crime	10976
 Customs and State Property	2542
 Customs and Tax	10762
 Customs-related	7512
-Custos	2816,7967
+Custos	2816,7967,578,69
 Custos da Inação	7948
 CustosClarus	3391
 Custódia	966
@@ -937,7 +955,7 @@ FISCAL TITULAR DEL TRIBUNAL DE CUENTAS	4209
 Falsification of Currency and Similar Offences	587
 Family Fun Day Currency	11134
 Ficha de Análise Custo	10783
-Financial Intermediaries Not Currently Relevant NOTE	1867,1737,2935,4229
+Financial Intermediaries Not Currently Relevant NOTE	1867,1737,2935,4229,649
 Financial Sector Currently	10775
 Finding and Keeping Customers	11033
 Finding and Keeping Customers. Cherie Oyier	11033
@@ -989,7 +1007,9 @@ Huíla Cuanza-Sul OSVALDA LOPES MIRANDA	10751
 Huíla Cunene Lunda Sul Bengo Nível	10777
 II. CUSTOMER SATISFACTION SURVEY OF MOBILE	5679
 III. ARN CUSTOMER	5679
+IMPLEMENTAÇÃO E CUSTOS	11406
 INSULAR Y CONTINENTAL CATEGORIA ACTIVIDAD CUOTA	4209
+ISPs. Customers	11506
 Impact of Funding Cuts	10864
 Import Cover Annual Headline Inflation Currency	11131
 Improvement of Currency Convertibility Currency	6938
@@ -1009,12 +1029,14 @@ Interventor de Cuentas	4209
 Interventor de Cuentas Parlamento Jefe de Coordinación	4209
 Investigating the Protection of Customers’ Personal Data	226
 Investment Project Financing Current Closing	1228
+Ivoire Croatia Cuba Curaçao Cyprus Czechia	11470
 J Lang Lit Soc Cult Stud	9739
 JEUNESSE ET DE LA CULTURE Projet	4402
 JKIA’s... Lifestyle News Culture Boncana Maïga	5407,676
 James Currey Prize for African Literature	2702
 Job Evaluation Conflict Management for Security Customer	11131
 Journal of Cultural Economy	3782
+João Cuti	11429,3,47
 KENYA Kenya Institute for Curriculum Development	899
 KICD Kenya Institute of Curriculum Development KIXP	7548
 Kenya Institute for Curriculum Development	899
@@ -1032,7 +1054,7 @@ LFR Cuenta Explicación	4209
 La CUD	6098
 La Customs Act	7994
 Lamu Cultural SHA	6946
-Land Use and Involuntary Resettlement Not Currently	10768
+Land Use and Involuntary Resettlement Not Currently	10768,649
 Launch Customer	6467
 Lecture Scoping Meeting Currency Retailers’ Training	11131
 Lehakoe Recreational and Cultural Centre	2849
@@ -1041,6 +1063,7 @@ Libyan Customs Authority	10645
 Lifestyle Actualités Culture En	8755
 Local Communities Cultural Heritage Relevant Financial	1284
 Local Currency Bond Deal	11134
+Local Currency SWAP Arrangement AND Naira	11469
 Local Currency Settlement System	8081
 Local Currency. London	11310
 Lonto Ndlovu Acting Commissioner Customs	8499
@@ -1051,6 +1074,7 @@ Luminosos INDUSTRIA INSPECCION ANUAL CULTURA LICENCIA	4209
 Luminosos INFORMACIÓN INSPECCION ANUAL CULTURA LICENCIA	4209
 Lunda Sul Cuanza Norte Cuanza Sul	10775
 Lunda Sul Cuanza Sul	10760
+Lunda Sul Province Cuanza Sul	11418
 M Cumulative Investment Google	2209
 M300. Customers	7840,58,726
 M6’s World Cup	5407,676
@@ -1076,7 +1100,7 @@ Million Customers Author	7688
 Minister of Culture	3261
 Ministerio de Cultura	4209
 Ministra da Cultura	3246
-Ministry of Culture	3583,6102
+Ministry of Culture	3583,6102,1732
 Ministry of Culture and Sport	7909
 Ministry of Education and Culture	2989
 Ministry of Home Affairs and Cultural Heritage	3274
@@ -1115,8 +1139,10 @@ National Startup World Cup	7720
 National Startup World Cup. Jentzen	7720
 National Strategy for Financial Inclusion III. Currently	2264
 Natural Resources Environment and Circular Economy Culture	4126
+News Culture	11439
 News Culture Moroccan Filmmaker and Rapper	5407,676
 News Digital World Cup Rights Chaos	5407,676
+News Southern Africa Strengthens Protection of Cultural	11439
 Nigeria Customs	8499
 Nigeria Customs Service	5560,165,2442,111,221,655,207,115,681
 Nigeria Customs Service Headquarters	9476
@@ -1135,10 +1161,11 @@ OPay Customer Shedrach Sunday Achor Took	7176
 OPay Customer Temitope Olatoyese Promised	7176
 OTR's Commissioner for Customs and Indirect Taxes. Use	3674
 OVERALL RATINGS Name Current Progress	4688
-OVERALL RATINGS Name Previous Current Progress	2712,3867,349,949,2993
+OVERALL RATINGS Name Previous Current Progress	2712,3867,349,949,2993,525
 Observatory of Linguistic and Cultural Diversity	7320
 Official Use Only CURRENCY EQUIVALENTS	3604
 On-boarding New Domestic Customers	11310
+Osvaldo Amaro João Cuti	11479
 Overall Current and Target Maturity Levels	1824
 Overview of Current Practices	10822
 Overview of Current Practices. Benin	10822
@@ -1158,6 +1185,7 @@ PROJECT DEVELOPMENT OBJECTIVE Current PDO	1284
 PUBLiC DATA CURATiON	961
 Parking Cubierta	4209
 Parlamento Interventor de Cuentas	4209
+Património Cultural	11390,16
 Payment Services I-22 Customs Services	10785
 People and Culture Committee	6946
 People and Culture Committee. Mr. Paul Mureithi	6946
@@ -1189,6 +1217,7 @@ Proyecto de Implementación Cuenta	4209
 Proyecto de Reforzamiento Cuerpo de Bomberos	4209
 Public Relations and Customer Services Makame Khamis	10676
 Push-Weight Tension Current	11265
+QUALITY CULTURE	11493
 Quarterly Active Customers	9735
 R. Cull	11140
 REG. B.S. Cuentas CONCEPTO	4209
@@ -1205,15 +1234,19 @@ Reference Cugurullo and Xu2025	8283
 Reference Mayer-Schönberger and Cukier2013	8436
 Regional Beneficiary Overview Current Beneficiaries	8999
 Registro General de Protección de Datos. Cualquier	163
+Relevant Not Currently Relevant ESS	11417
+Relevant Resources Not Currently Relevant ESS	11417
 Reparación Cuarteles Militares	4209
 Repeating The Current Year Ref. Code	11180
 Responsibility for Data Collection FAS-IDL Custom Indicators	10768
+Return and Restitution of Cultural Property26	11439
 Ricardo Custódio	2816
 Rights Culture Democracy Education	9067
 Risk Category Latest ISR Rating Current	1284
 Risk Modelling Customer Onboarding	4848
 Road Freight. Dr. Curle	11131,3
 Robert Cull	10977
+Roger Coma Cunill ABBREVIATIONS AND ACRONYMS	11380
 Rosa Curling	6486,1787
 Rosa Pedro Cultural Moment	10776
 SAB Corporate Fifa World Cup Campaign	7253
@@ -1230,7 +1263,7 @@ Schools’ Curriculum	11129
 Science and Culture	2958
 Scientific and Cultural Organisation	6211,2895,96,553,748,637
 Scientific and Cultural Organisation WEF World Economic	1814
-Scientific and Cultural Organization	1814,3222,1912,114,1647,2447,109
+Scientific and Cultural Organization	1814,3222,1912,114,1647,2447,109,125
 Scientific and Cultural Organization AUC African Union	10835,3,130
 Scientific and Cultural Organization UNWTO United Nations	2775
 Scientific and Cultural Organization USAC Universal Service	6946
@@ -1250,6 +1283,7 @@ Shocks and Aid Cuts Intensify Risks	11105,31
 Sierra Leone Police for Know Your Customer	9096
 Single Currency	7452
 Sistema de Cuentas Nacionales	1701,2508
+Sistemas de Contabilização de Custos	11430
 Sites and Customers	8999
 Smart Curriculum Design	6948
 Smart Digital Transactions Cut Costs	4743
@@ -1277,6 +1311,7 @@ Startup World Cup	3378,4239,103
 Stephen Cudjoe Seshie	7606
 Stephen Cudjoe-Seshie	7114
 Stringent Know-Your Customer Policies	940
+Sua Excelência Américo António Cuononoca	11436
 Sub-Saharan African Historically Underserved Not Currently	1867
 Sub-county Directors of Education and Curriculum Support	899
 Subsea Cable Cut	2677

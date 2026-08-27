@@ -14,6 +14,7 @@ ADMINISTRATEUR REPRESENTANT LE PERSONNEL DE L’AGENCE	8321
 AI Perspective	6948
 AKONIBE PERIFERIA	4209
 ALL OUTCOMES Percentage of MTSF	11193
+ANGOLA Percurso da Digitalização	11480
 ANNEXURES TO THE ANNUAL PERFORMANCE PLAN	5533
 ANNOBON BANEY PERIFERIA	4209
 ANNUAL PERFORMANCE PLAN	5533
@@ -41,6 +42,7 @@ Accreditation Permit	3583
 Accuracy Personal	10775
 Act POPIA Protection of Personal Information Act	11218
 Actions du Gouvernement PAP Projet Annuel de Performance	10712
+Actividades Permitidas	11438
 Actual Performance	11134
 Actual Total Personnel Expenditure	10870
 Address and Telephone Number of Person Authorized	7198
@@ -67,7 +69,7 @@ Amend the Personal Income Tax Code	3479
 Aminah Zawedde Permanent Secretary Ministry of ICT	3050
 Amplifying Perspectives	11332
 Analytics PBF Performance-Based Financing PDO Project	10829
-Angola Health System Performance Strengthening Project	10768
+Angola Health System Performance Strengthening Project	10768,649
 Annual A- Data Centre Compute Percentage	7548
 Annual Business Performance Report	7819
 Annual Market Performance Report	1195
@@ -238,7 +240,7 @@ Closing Period Apr	1264
 Closing Period Component	10768
 Closing Period Improved	1867
 Closing Period Increase	3604,7164
-Closing Period Indicator Name Value Month	2712,1976,3189
+Closing Period Indicator Name Value Month	2712,1976,3189,3518
 Closing Period Mar	1264
 Closing Period Month	6579,349
 Closing Period Result Date Result Date	4653
@@ -249,7 +251,11 @@ Closing Period Value Month	10870
 Cloud Hosting Model Periodic Review	6432
 Code des Personnes	10812
 Code of Persons and Family	10812
+Collection Percentage	11417
+Collection The MOH Percentage	11417
 Combined Periodic Report of Sahrawi Arab Democratic	8485
+Comissão Permanente	11443
+Comissões Técnicas de Normalização Permanente	11381
 Commencement Dates and Effective Periods	3861
 Commission Employment and Per- Registrar of Cooperative So-	6938
 Commission Permanente Indépendante des Droits	3045
@@ -259,9 +265,11 @@ Communications Sector Performance Report	9591,508
 Community Consultation Period	5853
 Comparative Perspectives	9399
 Comparison of Telecoms Industry Performance	3862
+Components Baseline Closing Period Strengthening	11417
 Components Baseline Period	1264,603,1737,7164
-Computer Assisted Personal Interview	582,3462,6733
-Computer Assisted Personal Interview1	4040
+Computer Assisted Personal Interview	582,3462,6733,669
+Computer Assisted Personal Interview1	4040,7381
+Computer Assisted Personal Interviewing	11416,5
 Computer-Assisted Personal Interviewing	6106,4179
 Computer-Assisted Personal Interviews	10757
 Computer-assisted Personal Interview	11192
@@ -275,6 +283,7 @@ Construction Permit Automation System	2674
 Construction Permits	4325
 Consultancy Period	9203
 Contact Person Designation Email Telephone Date	6432
+Contactos Perguntas Frequentes Mapa	11374
 Contemporary Perspective for Higher Education Stakeholders	6948
 Continental Confidence Perhaps	5074
 Continental Perspective	5363
@@ -321,7 +330,7 @@ Cybersecurity and Protection of Personal Data	10819
 D.G A. PERSONAL	4209
 D.G. DE PERSONAL Y DETALL.- Concepto	4209
 D.G. PERSONAL JUBILADO Y MUTILADO.- Concepto	4209
-DATA ON FINANCIAL PERFORMANCE	2712,1976,1891,349,949,2993
+DATA ON FINANCIAL PERFORMANCE	2712,1976,1891,349,949,2993,525
 DATA SUBJECTS WHOSE PERSONAL DATA	2709
 DATOS PERSONALES Artículo	163
 DATOS PERSONALES CAPITULO	163
@@ -353,6 +362,8 @@ DU STATUT DU PERSONNEL Article	1186
 DUPONT PERFORMANCE SPECIALTY PRODUCTS LIMITED Data	7167
 DWELLING TOTAL ELIGIBLE PERSONS	582
 DX Ventures and Flutterwave. Per-investor	652
+Dados Digitais de Perfis Convencionais	11405
+Dados de Perfis	11405
 Daily Data Scrubbing and Minimal Personal Information	8022
 Danger Of Performative Sovereignty	9119
 Dark Fibre Africa Peri-Urban and Rural Fiber	731
@@ -373,7 +384,7 @@ Deposit Insurance Permanent Secre- Board	6938
 Deputy Permanent Secretary	4677,276,734,2927,1849,212
 Deputy Permanent Secretary of MOTIE	4359
 Deputy Prime Minister's Office First-Quarter Performance	10466
-Description Percentage	3604
+Description Percentage	3604,7813
 Descuentos Num. PERSONAL Mensual Integro Impuestos	4209
 Descuentos Percibir Mensual	4209
 Determining the Controlling Persons	11233
@@ -543,6 +554,7 @@ GBATONGUI. PERSPECTIVES	2342
 GDP Per	2775
 GIMS. Permit	11275
 GRANT PERFORMANCE The Federal Government	5655
+GRID EXPANSION FROM THE CONSUMER PERSPECTIVE	11366
 Gaming Permanent Secretary	6938
 Gastos de Personal	4209
 Gastos de Representación Personal	4209
@@ -583,10 +595,12 @@ HEALTH AND WITHIN A PERIOD	11252
 HEALTH WITHIN A PERIOD	11252
 HMIS and Performance Measurement	10829
 HR Perspective	9253
+HSPSP Health System Performance Strengthening Project	11380
 HUMAN CAPITAL MANAGEMENT Performance Management	11131
 Having Concluded Performance Agreements	11218
 Health Provision Public Perception of Social Protection	10759
 Health System Performance Reinforcement Project	10963,1
+Health System Performance Strengthening Project	11380
 Heisler M. Perspectives	1219
 High Performance Computer	5847,5344
 High Performance Computers	1814
@@ -665,6 +679,7 @@ Investigating the Protection of Customers’ Personal Data	226
 Islamic Network for Personal Data Protection Authorities	6739
 Ivoire. PERFORMANCES FINANCIÈRES EN	2342
 Ivoire. PERSPECTIVES	2342
+JOSÉ EDUARDO DOS SANTOS. Perguntas Frequentes	11358
 JUDICIAL Y TERRO LABO. NACIONAL PERSONAL	4209
 JUSTICE Public Perception of Easiness	10835,3,130
 Jamaica Panama Paraguay Peru Trinidad and Tobago	10764
@@ -725,6 +740,7 @@ Latvia Register of Natural Persons	10714
 Le Groupe Perseus	2342
 Le Responsable des Données Personnelles	747,1,1236
 Le Social Performance Task Force	10965
+Lee Perrin	11491
 Legal Personality and Autonomy	3861
 Legal Personality and Autonomy The NDGC	3861
 Legal Persons The Trust Alliance	10819
@@ -754,6 +770,7 @@ L’Autorité de Protection des Données Personnelles	8746
 L’afflux de Personnes Déplacées Internes	643
 L’ÉTAT ACTIONNAIRE Performance	2342
 M ID OF PERSON	582
+M P170734 Power Sector Recovery Performance	11469
 M'. Per-investor	934
 MALABO PERIFERIA	4209
 MARKET PERFORMANCE	718
@@ -852,6 +869,7 @@ NE.KE Personal Websites and E-mail	6671,275
 NETWORK PERFORMANCE REPORT POLICY	3862
 NFIS Performance Monitoring Plan	940
 NIEFANG PERIFERIA	4209
+NIGERIA FOR THE PERIOD FY26-FY32	11468
 NSOK-NSOMO PERIFERIA	4209
 NSORK PERIFERIA	4209
 NUMÉRO PERSONNEL D’IDENTIFICATION	10819
@@ -881,6 +899,7 @@ National Service Personnel	11082
 National Social Registry. Percentage	10964
 Nationales de Perspectives	10712
 Nature of Business Certificate of Incorp Contact Person	736
+Natureza Permanente	11384
 Needs Improvement and Poor Performer	11131
 Network Performance	6946,383
 Network Performance Network Performance Powered	6051
@@ -907,6 +926,7 @@ Older Persons Cash Transfer OPEC Organization	2775
 Older Persons Worldwide	10776
 Online Gaming Services Permanent	573
 Operational Plan APP Annual Performance Plan	11218
+Operações Permitidas Legenda	11404
 Order of Perpetual	8648
 Organisation Nationale des Pers	10826
 Organisation Nationale des Personnes	10826
@@ -928,6 +948,8 @@ PARTIAL ELECTION IS PERMITTED	4896
 PARTICULARS OF OTHER PERSONS IMPACTED	2709
 PBC Name Baseline Closing Period	10870
 PCD Performance-Based Condition PDO Plan Communal	10964
+PCE Per	11380
+PDO Outcomes Baseline Closing Period Strengthen	11417
 PDO Outcomes Baseline Period	1264,603,1737,7164
 PER CAPITA	11211,51
 PER SECOND	11211,51
@@ -1006,9 +1028,11 @@ PERSPECTIVES ET RISQUES L	7655
 PERsPECtIVEs Et RIsQUEs	7655
 PERÍODO DE REFERÊNCIA	10757
 PESA and Mobile Data. Performance	6100
+PIB Per Capita	11418
 PIN Personal Identification Number PPI Producer	2775
 PIU Percentage	10964
 PIV Personal Identity Verification PKI Public	10765,10
+PLR Performance and Learning Review POM Project	11380
 PLR Project Implementation Unit PNDP Performance	10964
 PM Perception	11131
 PMP Pest Management Plan POC's Persons	1988
@@ -1037,9 +1061,11 @@ PROTECTION OF PERSONAL INFORMATION ACT	11209
 PSC Project Steering Committee PwD Person	3604
 PT. Perkebunan Nusantara IV Regional III	4432
 PURPOSE SPECIFICATION Personal	1243
+PVS Performance of Veterinary Services	11376
 PWD Person	6946
 PWD Persons	2775
 Pakistan and Peru	10991
+Panama Papua New Guinea Paraguay Peru	11470
 Paraguay and Peru	11004
 Parirenyatwa. Example Related Person	6666
 Parliament's Permanent Committees and Caucuses	8015
@@ -1131,7 +1157,7 @@ Percent40029920	10718
 PercentPaanegorecmeoanflt3iae-gsme	10763
 Percenta-	10777
 PercentaPgeercoefnmtaognethosf	10763
-Percentage	236,553,151,30,234,24,36,20,704,486,238,63,1,113,694,21,74,183,1,791,35,559,286,122,21,863,3,37,14,239,96,620,329,1021,231,487,1098,50,1,3,7,5,5,44,15,12,14,93,1,12,28,127,3,2,16,40,6,13,13,28,10,34
+Percentage	236,553,151,30,234,24,36,20,704,486,238,63,1,113,694,21,74,183,1,791,35,559,286,122,21,863,3,37,14,239,96,620,329,1021,231,487,1098,50,1,3,7,5,5,44,15,12,14,93,1,12,28,127,3,2,16,40,6,13,13,28,10,34,99,22,52
 Percentage Addressed	3051
 Percentage Agriculture	2775
 Percentage Change	2775
@@ -1170,10 +1196,13 @@ Percentage of Moisture	1988
 Percentage of Poor Covered	10985
 Percentage of Poor Covered Figure	10985
 Percentage of Population	10765,10
+Percentage of Project-supported	11417
+Percentage of Public Health Emergency Operations Centers	11417
 Percentage of Real Estate Firms	2775
 Percentage of SEP	1778
 Percentage of Technologies	7548
-Percentagem	1144,9613,3,6,11
+Percentagem	1144,9613,3,6,11,610
+Percentagem da População Coberta	11418
 Percentagem de Percentagem	10760
 Percentagens	10777
 Percentages	7151,1285,1336,1232,328
@@ -1191,10 +1220,13 @@ Perchoir	9620
 Percibir	4209
 Percibir Annual	4209
 Percolation Leaching for Artisanal Gold Recovery	1554
+Percurso Avaliativo	11419
+Percurso de Ensino Aprendizagem PND	11387
 Percy Chinyama	3695,843,28,160,801,957,57,2838,414
-Perda	3519,7253
+Perda	3519,7253,647,2,9,16
 Perda da Conexão Humana	2816
 Perder	1701
+Perdidas	11418
 Pereira	2315,3921
 Perennial	789
 Peretimi Akinmodun and Lazarus Kalu AELEX	9877
@@ -1202,8 +1234,11 @@ Perez	10964
 Perezida	1214
 Perf Sénégal	7571
 Perfect. Thank	7065
+Perfil	11441,15
 Perfil Demográfico	2138
 Perfil da Empresa. Disponível	2816
+Perfilagens	11405
+Perfis	11444
 Perfomance	11134
 Perfomance Contractual	6946
 Perfonnance Benchmarks	4301
@@ -1214,7 +1249,7 @@ Perform	3604,1006,923,899,4289,239
 Perform Linkage YESYES NO NO C	8604
 Perform Testing Services	5665
 Performanc	10829
-Performance	22,6,391,347,234,161,103,113,1,158,408,152,246,433,621,107,148,256,219,41,35,15,43,41,48,214,46,472,271,313,435,81,915,939,266,527,63,155,82,189,97,282,159,302,564,43,11,54,33,113,1,155,3,2,4,55,3,26,7,19,19,20
+Performance	22,6,391,347,234,161,103,113,1,158,408,152,246,433,621,107,148,256,219,41,35,15,43,41,48,214,46,472,271,313,435,81,915,939,266,527,63,155,82,189,97,282,159,302,564,43,11,54,33,113,1,155,3,2,4,55,3,26,7,19,19,20,128
 Performance Against Targets	5245
 Performance Applicability	11179
 Performance Appraisal	11131
@@ -1222,6 +1257,7 @@ Performance Assessment Report. Warwick	10997
 Performance Assessment Tool MTEF Medium Term	11224
 Performance Audit	741,1247
 Performance Audit Report	741
+Performance Based	11469
 Performance Based Conditions	6539
 Performance Benchmarks	4167,35,15,43,89,1003
 Performance Center	2348
@@ -1258,6 +1294,8 @@ Performance Information	11250
 Performance Information Programme	11198
 Performance Key Indicators for National CIRTs	318
 Performance Kit	3637
+Performance Learning Review	11468
+Performance Linpack Performance	11471
 Performance Management	5533,1299,4299
 Performance Management Development System PMO Project	5533
 Performance Management Index	11131
@@ -1304,7 +1342,7 @@ Performance of Routine Information System Management	766,446,9666
 Performance of Selected Fisheries Value Chains	2775
 Performance-Based Allocations. World Bank	10997
 Performance-Based Cash Grants	10964
-Performance-Based Conditions	1284,583,1022,673,42,2935,4229,61,135
+Performance-Based Conditions	1284,583,1022,673,42,2935,4229,61,135,453
 Performance-Based Financing	10829
 Performance-Based Incentives	4528
 Performance-Related Rewards	11218
@@ -1317,6 +1355,8 @@ Performs First Penile Prosthesis Surgery Libya	2837,989,15,690,99,50,66,65,38,41
 Perfumed	6921
 Pergunta	10750
 Perguntas	8474,2279
+Perguntas Frequentes	11415,13
+Perguntas Frequentes Mapa	11358
 Perguntou-se	10777
 Perhaps	10,989,2013,679,459,411,367,105,1179,140,482,45,272,216,384,214,27,502,210,18,256,1063,58,82,20,134,316,112,542
 Peri-urban	771
@@ -1359,14 +1399,19 @@ Periodic Review Schedules	3861
 Periodic Review. The NRO and ICANN	3503
 Periodical	9437
 Periodically	1000,4665,1873,3227,10
+Periodicidade da Actividade Inspectiva	11452
+Periodicidade de Pagamento	11467
 Periodicidade de Reuniões	4147
 Periodista	7703
 Periods	10852
 Peripherals	34
 Perishable	7695
 Perishable Products Export Control Board PPME	11197
+Perito-Chave	11448
+Peritos Contabilistas de Angola	11381
 Periódica Universal	10750
 Perma	3452
+Permalink	11399
 Permanent	573,1542,1468,21,3802,1717,900,1157,1,115
 Permanent Cash Transfers	1954
 Permanent Constitution	3583
@@ -1404,6 +1449,7 @@ Permanent Voter’s Card	7314,594
 Permanente	3396
 Permanently	1828
 Permanents	1231
+Permanência	11365,60,55
 Permette	1187
 Permettez-moi	2695,661,4265
 Permettre	643,362,9871
@@ -1412,14 +1458,15 @@ Permis de Communiquer	10879
 Permission	34,702,1005,6864
 Permissions	7789,3087
 Permissions Congés	10975
-Permissão	2866
+Permissão	2866,8511
+Permissões	11442
 Permit	1882,792,101
 Permit Backlog Reduction	11285
 Permit LIST OF TABLES List of Tables	5533
 Permit System	11231
 PermitFlow	2674
 Permite	7466,537
-Permitir	1701,9053,1
+Permitir	1701,9053,1,618,70
 Permits	10775,201
 Permitted	4302,594
 Permitted Use	3972,182
@@ -1431,6 +1478,7 @@ Perpetrada	10777
 Perpetradores de Violência Física	10777
 Perpetradores de Violência Sexual	10777
 Perpetrators	9616
+Perpetuar	11373
 Perpetuity and Abrogation	3861
 Perpetuity and Abrogation The NDGC	3861
 Perplexing	3035,253,61,689,520,84,1026,183,181,224,255,42,811,48
@@ -1444,6 +1492,7 @@ Persadha	8022
 Persal	7910
 Persal and Logis	8018
 Perseguir	1701
+Perseguição	11365
 Perseus Books	2096
 Perseus Books Group	2948
 Perseus Côte	2342
@@ -1452,10 +1501,12 @@ Persian	7790
 Persian Gulf	11272
 Persian and Pashto	7790
 Persistance	8891
+Persistem	11461
 Persistence	9855
-Persistent	1828,1755,270,8,2507,124,340,106,2087,568,166,180,790,274,353
+Persistent	1828,1755,270,8,2507,124,340,106,2087,568,166,180,790,274,353,61,52
 Persistent Benchmarks	6051
 Persistent Bottlenecks High	6051
+Persistently	11469
 Persistentwordpress secUsed	3212,2216,578
 Persisting	10964
 Perso	4997,5977
@@ -1479,7 +1530,7 @@ Person-to-business	3977,7153
 Person-to-government	10819,82
 Person-toBusiness	11130
 Persona	2355,176,4,1,56,3,339,96,361,540,583,423,176,1585,673
-Personal	3,22,2,7,384,164,317,62,11,248,23,90,141,119,4,217,14,49,111,1364,231,75,56,147,265,41,35,7,5,3,43,89,234,27,26,249,216,12,129,2,3,79,329,10,610,145,3,93,3,208,194,25,275,1,1156,226,100,419,692,40,859,51,10,133,32,34,23,20,137,27,53
+Personal	3,22,2,7,384,164,317,62,11,248,23,90,141,119,4,217,14,49,111,1364,231,75,56,147,265,41,35,7,5,3,43,89,234,27,26,249,216,12,129,2,3,79,329,10,610,145,3,93,3,208,194,25,275,1,1156,226,100,419,692,40,859,51,10,133,32,34,23,20,137,27,53,230
 Personal Apoyo	4209
 Personal Assistant	1554,5392
 Personal Autoridad Aeronáutica	4209
@@ -1596,6 +1647,7 @@ Personal-Data-and-Cybersecurity-in-Angola	9399
 Personal-data	3815
 PersonalData	6423
 PersonalDataID	6423
+Personalidades	11373
 Personalisation	1525,6605
 Personalised	4528,4600,962
 Personalised and Suggested Services	8817
@@ -1664,7 +1716,7 @@ Personto-person	11130
 Persoon	11263
 Perspectiva Global	2816
 Perspectiva-se	5721
-Perspectivas	795,1343
+Perspectivas	795,1343,9249
 Perspective	3,958,1135,2948,305,14,55,1069,392,233,35,27,3652
 Perspective Taking	10954
 Perspective of Human Rights Watch	2518
@@ -1685,10 +1737,12 @@ Pertes	6959,1932,2084
 Pertinence	10712,263
 Pertinent	1984
 Pertinent and Contemporary Issues	899
+Pertinência	11359,15
 Perto	8122
 Perturbación	1701
 Perturbation	1005
 Perturbations	8673
+Perturbação	11425
 Pertussis E&S Environmental and Social ESCP Environmental	10829
 Peru Costa Rica Dominican Republic United	11135
 Peru Global Cybersecurity Index	10764
@@ -1700,7 +1754,7 @@ Pervasive	6948,3893
 Pervasive Broadband	3862
 Pervez	2096
 Perçu	10975
-Período	966,1900,2303,5588
+Período	966,1900,2303,5588,617
 Período Fértil	10777
 Período de Referência	10766
 Períodos	2438
@@ -1710,6 +1764,7 @@ Petroleum Accreditation Permit	3583
 Petroleum Industry Performance	408
 Physical Address Telephone No. Contact Person	736
 Physical Persons	3604
+Pinto Pereira Ministro	11393
 Point of Sales Persons With Disabilities	10763
 Policy Implications From Institutional Performance	11138
 Policy Statement Streamlined Percentage of AI	7548
@@ -1747,6 +1802,7 @@ Project Performance Assessment Report	10779
 Projet Annuel de Performance	10975
 Projet de Performance Annuel	10975
 Promise and Peril	1243
+Proporção de Chamadas Perdidas	11418
 Proposed Key Performance Indicators	4528
 Protección de Datos Personales	163,5362
 Protect Personally Identifiable Information	6432
@@ -1858,6 +1914,7 @@ Related Perspective	5418,1461,233,35,27
 Rely On Unlawfully Obtained Personal	6632
 Removal of PPE and Personal Decontamination	1988
 Rendimento Familiar Per Capita	10754
+Rendimento Nacional Per Capita	11430
 Renforcement des Capacités du Personnel	10975
 Renforcement des Capacités du Personnel L’année	10975
 Report About CBE Performance Highlights Governor	11131
@@ -1875,7 +1932,7 @@ Reporting Period. B	11233
 Reporting Period. B. Entity Accounts Subject	11233
 Reporting Period. D. Reporting Financial Institutions	11233
 Reporting Periods	11233
-Representante Permanente	4209
+Representante Permanente	4209,7184
 Representante Permanente Adjunto	4209
 Representing the Permanent Secretary	7432
 Reproductive Health Focal Persons	3791
@@ -1887,6 +1944,9 @@ Residency-on-Other-Grounds Permits	2115
 Resilient H1 FY26 Performance	3898
 Response Team KPI Key Performance Indicator	6936
 Responsibility Period MICTPCS	958
+Responsibility for Data Collection The MOH Percentage	11417
+Responsibility for Data Collection The MOH Performance	11417
+Responsibility for Data The MOH. Collection Percentage	11417
 Retabled Performance Information for Programme	11218
 Retention Period	3861
 Retention Period and Expiry	3861
@@ -1969,6 +2029,7 @@ Sensitive Personal Data	1630
 Sequencing Development Perhaps	4535
 Service Availability Perception	5676
 Service POPIA Protection of Personal Information Act	11196
+Serviço Personalizado	11381
 Sex and Performance	2775
 Sharing Permitted	4049,198,6466
 Signing of Performance Agreements	11218,6
@@ -1996,7 +2057,7 @@ Stakeholders’ Perception Survey	6946
 Standard Bank Personal and Private Banking CEO	3435
 State Periodic Report CRC	1211
 Stateless Persons	2106
-Statistical Performance Indicators	4214
+Statistical Performance Indicators	4214,7269
 Stock Movement Permit	1988
 Strategic Interventions Target Period Components	396
 Strategic Interventions Target Period Components Build	396
@@ -2059,6 +2120,7 @@ Technical Specific Performance Requirements	6432
 Technologies Skills and Jobs Periodic Development Labour	7548
 Technology and Innovation NCPWD National Council for Persons	7548
 Technopolis Development Authority KPIs Key Performance	6946
+Tecnologias Percentagem da População Coberta	11418
 TeleNanu Peru	7151
 Temporary and Permanent	11218
 Terms of Service. Users Personal Data	5113
@@ -2111,6 +2173,7 @@ Universal Periodic Reviews	9145
 Usage Percentage	940
 Use of Personal Information	3008
 User Personas	1161
+Utility Performance Improvement Program	11380
 V3 High Performance	4657
 VIH Percentagem	10760
 Validity Period Hourly URL-specific Data Bundles	11259
@@ -2131,9 +2194,10 @@ Work Permit	2119
 World Bank's Statistical Performance Indicators	7151
 YEAR END PERFORMANCE REPORT FOR INTERNET	3862
 YEAR END PERORMANCE REPORT APPENDICES APPENDIX	3862
+Year Percentage	11395
 Year Performance	4818,4143
 Yearly Research Firm Once Percentage	10964
-Youth and Persons	5533,350,2123,1761,1426,92
+Youth and Persons	5533,350,2123,1761,1426,92,210
 Zambia Displaced Persons and Borderlands Communities Project	1778
 Zimbabwe Centre for High Performance Computing	8483,222,325
 Zimbabwe Exemption Permit Dispensation	4667

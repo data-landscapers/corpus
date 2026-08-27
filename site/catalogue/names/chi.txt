@@ -249,6 +249,7 @@ Century Technologies and China Mobile International	6566
 Chair of B20 and Chief Executive Officer of Toyota	11221
 Chairman and Chief Executive Officer	7895,2447,789
 Chairman and Chief Executive Officer Moh Damush	6185
+Changing Space of Child Privacy	11400
 Chi-square	4432
 Chiang Rai	9128
 Chibamba	9424
@@ -276,7 +277,7 @@ Chido Munyati	5440
 Chido Munyati Head of Africa	5440
 ChidoMunyati	5440
 Chidozie	10
-Chief	26,1,1,1526,753,869,951,170,306,1874,310,159,583,1291,575,678,73,983,19
+Chief	26,1,1,1526,753,869,951,170,306,1874,310,159,583,1291,575,678,73,983,19,316
 Chief Accountant	1554,2050
 Chief Accountant MoH	34
 Chief Accountant and RAPID-CI PCU	3604
@@ -286,7 +287,7 @@ Chief Audit Executive CARA Criminal Assets	11218
 Chief Benedict	7664
 Chief Business Officer	5764,1848,2877
 Chief CIO	1777
-Chief Commercial Officer	3470,1482,97,557,580,80,128
+Chief Commercial Officer	3470,1482,97,557,580,80,128,5106
 Chief Commercial Officer of Optasia	8663
 Chief Commercial Officer of Paratus Group	4958,2078
 Chief Commissioner	7845
@@ -578,7 +579,7 @@ Chikwamanga Daniel	4736
 Chilakalaka	7880
 Chilanga	5522
 Chilaule Angela da Silva Luis Rego Zauria	2989
-Child	21,5,1,555,189,201,239,386,41,350,1595,1000,1809,554,201,836,112,281,228,1162,28,16,949,6,10,44,10,6,2,1,43,87,49,11,43
+Child	21,5,1,555,189,201,239,386,41,350,1595,1000,1809,554,201,836,112,281,228,1162,28,16,949,6,10,44,10,6,2,1,43,87,49,11,43,346
 Child Act	3583
 Child Care	9429
 Child Care Act	11176
@@ -604,7 +605,7 @@ Child Online Safety	4544
 Child Online Safety Index	10764
 Child Online Safety Steering Committee	1597
 Child Online Safety Survey	1554
-Child Online Safety and Empowerment Policy	8050
+Child Online Safety and Empowerment Policy	8050,3350
 Child Pornography	26
 Child Protection	2775
 Child Protection Cases Reported	2775
@@ -614,6 +615,8 @@ Child Protection Interventions	2775
 Child Protection Law. Advised	1646
 Child Protection Law. Vice-President Nguema Obiang	1646
 Child Protection Officer	10765,10
+Child Protection and Safety Online	11400
+Child Protection and Safety Online in Africa Report .pdf	11400
 Child Rights Crisis	3583
 Child Safety Pledge. Yet	11071
 Child Safety and Digital Platforms	6946
@@ -643,7 +646,7 @@ Childline Kenya	8050
 Childline Kenya Data Controller INST-176101095E1 NAIROBI	7167
 Childline Kenya Facebook	8050
 Childline Zimbabwe	9794
-Children	1,581,418,220,594,282,422,30,227,932,594,147,188,306,40,243,1118,177,272,154,221,381,502,525,75,214,379,543,8,547,64,299,125,25,110,107,144,70
+Children	1,581,418,220,594,282,422,30,227,932,594,147,188,306,40,243,1118,177,272,154,221,381,502,525,75,214,379,543,8,547,64,299,125,25,110,107,144,70,115,17
 Children Act	8948
 Children Forum Network	9765
 Children Fund	3583
@@ -653,6 +656,7 @@ Children PACS Probation and Aftercare Service PAYE	2775
 Children Under	4153,14,35,15,43,1092
 Children Under Age	10765
 Children Under5	4167
+Children and Adolescents	11469
 Children and Persons	11285
 Children and Social Protection	2548,1788,1812
 Children and Social Protection MoJ	5244
@@ -665,7 +669,7 @@ Children's Court	7147,4030
 Children's Data	4583
 Children's Foundation Gambia	7171
 Children's IGF	9648
-Children's Right	1211
+Children's Right	1211,10189
 Children's Rights	8050
 Children's Services	7548
 Children. Improvement	11224
@@ -698,9 +702,9 @@ ChillMine CEO and Co-Founder Brian Neirby	3688
 ChillMine Corporation	3708
 Chilled	9123
 Chilling	2518
-Chilling Effect	6793
+Chilling Effect	6793,4643
 Chiloane	1526
-Chiluage	9399
+Chiluage	9399,2080
 Chiluba	3791
 Chiluba B	3791
 Chilumba	3022
@@ -723,12 +727,13 @@ Chimwemwe Mangazi	3933,676,166
 Chimène Anani Dègla	5899
 Chimène Lougbegnon Bossa	6475
 Chin J Int Polit	5242
-China	51,1,8,62,58,3,2,35,6,10,140,83,16,6,47,33,10,147,73,67,103,9,68,112,93,7,304,147,27,86,12,1,68,198,24,194,24,30,153,31,77,51,98,29,12,20,193,27,141,201,64,49,8,27,37,15,1,93,258,31,60,12,2,71,127,5,1,167,13,8,1,47,19,103,49,8,2,71,7,5,121,27,63,40,19,4,11,78,2,23,92,3,5,5,5,31,5,9,62,76,93,65,2,58,22,2,34,17,22,47,61,9,34,79,6,12,10,6,83,11,83,59,12,35,24,5,24,6,7,25,14,3,1,66,45,14,5,12,12,3,12,2,10,98,69,31,18,17,9,33,1,2,5,18,1,52,2,2,70,78,11,3,14,48,35,11,24,11,80,72,64,3,74,21,142,48,98,3,3,7,92,17,35,12,20,4,76,11,35,93,66,16,16,97,35,15,10,96,22,32,34,36,48,1,101,2,29,7,8,31,3,44,1,3,178,42,12,13,19,2,8,52,35,8,5,7,32,30,132,15,21,3,13,14,108,2,47,35,44,89,10,31,1,12,9,11,10,10,10,26,43,16,28,14,3,24,28,25,55,1,22,57,11,2,1,7,50,26,96,7,2,17,65,13,2,23,10,23,11,50,99,32,3,24,8,38,22,23,36,4,5,9,5,1,28,10,25,18,14,21,13,18,16,13
+China	51,1,8,62,58,3,2,35,6,10,140,83,16,6,47,33,10,147,73,67,103,9,68,112,93,7,304,147,27,86,12,1,68,198,24,194,24,30,153,31,77,51,98,29,12,20,193,27,141,201,64,49,8,27,37,15,1,93,258,31,60,12,2,71,127,5,1,167,13,8,1,47,19,103,49,8,2,71,7,5,121,27,63,40,19,4,11,78,2,23,92,3,5,5,5,31,5,9,62,76,93,65,2,58,22,2,34,17,22,47,61,9,34,79,6,12,10,6,83,11,83,59,12,35,24,5,24,6,7,25,14,3,1,66,45,14,5,12,12,3,12,2,10,98,69,31,18,17,9,33,1,2,5,18,1,52,2,2,70,78,11,3,14,48,35,11,24,11,80,72,64,3,74,21,142,48,98,3,3,7,92,17,35,12,20,4,76,11,35,93,66,16,16,97,35,15,10,96,22,32,34,36,48,1,101,2,29,7,8,31,3,44,1,3,178,42,12,13,19,2,8,52,35,8,5,7,32,30,132,15,21,3,13,14,108,2,47,35,44,89,10,31,1,12,9,11,10,10,10,26,43,16,28,14,3,24,28,25,55,1,22,57,11,2,1,7,50,26,96,7,2,17,65,13,2,23,10,23,11,50,99,32,3,24,8,38,22,23,36,4,5,9,5,1,28,10,25,18,14,21,13,18,16,13,98,3,22,14,1,10
 China Academy of Information and Communications Technology	7174
 China Aerospace Science and Technology Corporation	9816
 China Builds Underlying Infrastructure	10350
 China Category	8726
 China Chengxin International Credit Rating Co	7785
+China Christmas Island Cocos	11470
 China Citic Bank	1430,714
 China Citic Bank Corporation	1430,714
 China Citic Bank Corporation LTD	1430,714,2212
@@ -789,6 +794,7 @@ China Meteorological Administration	9186
 China Ministry of Commerce	18,33,71,59,1,1,2,157,1,116,8179,1577
 China Mobile	1643,2478,555,566,10,520,794,608,1103,1539,628
 China Mobile International	511,2166,1573,743,259,520,794
+China Na Conferência Anual	11454
 China National Biometric Population Register	10714
 China National Electronics Import	220,341
 China National Electronics Import and Export Corporation	646,10129
@@ -991,7 +997,7 @@ China’s Xinjiang	2518
 China’s Yuemei Group	10841
 China’s Zhongji Innolight	8921
 Chinbuah	8343
-Chine	556,9,1114,591,13,231,417,189,71,274,314,789,270,184,1213,119,5,254,164,182,165,335,608,152,296,158,218,659,70,48,196,58,39,233,313,86,18,4,18,65,2,121,203,27,220
+Chine	556,9,1114,591,13,231,417,189,71,274,314,789,270,184,1213,119,5,254,164,182,165,335,608,152,296,158,218,659,70,48,196,58,39,233,313,86,18,4,18,65,2,121,203,27,220,221,17
 Chine Dans	5358
 Chine En	11024
 Chine Moundou	2314
@@ -1150,7 +1156,9 @@ Chitundu	8995
 Chitungo	1248
 Chituru Nsirim	7420
 Chituru Nsirim and Anu Oyeleye	7420
+Chiumbe-Dala	11366
 Chiumbu	2518
+Chiumbuhe	11366
 Chivayo	1817
 Chiwaula	3791
 Chiwaula J	3791
@@ -1412,6 +1420,7 @@ Hardware Mr Chiza Banda	34
 Head of Global China Program	8890
 Health and Child Care	7422
 Health and Child Care Midlands State University	1154
+Hebo Alfredo José Engrácia Costa Chissola	11421
 Helton Chigamane Sociado Huo	2989
 Herman Chinnery-Hesse’s SOFTtribe	8025
 Hilária Macedo Chipindo	5721
@@ -1455,6 +1464,7 @@ ITWeb China EXIMBANK Phase IV	4207
 Impact of Chinese Tech Provision	2518
 Implementation Modalities Child	1284
 Import Bank of China	5337
+Improved Child Survival Program for IPF Human	11469
 India DPI and China	793
 India and China	226,5307,5685
 Industrial and Commercial Bank of China	78,1,261,158,2338,4039,2845
@@ -1474,6 +1484,7 @@ International Children’s Emergency Fund	10777
 Interswitch's Chief Information Officer	10010
 Introducing the Children's Climate Risk Index	3583
 Introduction China	10350
+Islands Central African Republic Chad Chile	11470
 Ivoire Chief Executive Officer Mamadou Bamba	6303
 Ivoire’s Ministry of Interior and Security and China Railway	551
 J.T. Chipika Deputy Governor Page	940
@@ -1538,6 +1549,7 @@ Ltd. The Chinese Government	343,18
 Ltd. and China National Technical Import and Export	479
 Luanda Luanda TERESE CHITULA CALOPA	10751
 Luanda RAFAEL CHIVINDA PAULO DOS SANTOS	10751
+Lunda Sul Chiumbuhe	11366
 Lunga Lunga Member of Parliament Mangale Chiforomodo	8214
 M. Feycal Kaireh Chirdon	3370
 M. Rushwaya Chief Secretary	2779
@@ -1674,6 +1686,8 @@ Netherlands and IDLO. Chief Registrar	9546
 Newborn and Child Health	200,453
 Next Media Group Chief Executive Officer	7874
 Nicholas Chimuriwo	7879
+Nigeria Improved Child	11469
+Nigeria Primary Health Care Childhood Development	11469
 Nigeria and Chinese	3063
 Nigeria. China	5364
 Niklas. Trust and Power. Chichester	11138
@@ -1719,6 +1733,7 @@ Paramount Chiefs	7814
 Paratus Africa Group Chief Commercial Officer	6405
 Paratus Group Chief Commercial Officer Martin	10697
 Partido Comunista da China	11045
+Partnership Framework Early Childhood Development Fragility	11468
 Pearson's Chi-squared	10940
 Pedro Chilenge	2989
 People's Bank of China	4041,2829,2058
@@ -1836,6 +1851,7 @@ Sierra Leone NPPA CEO Chief Fodie	9742
 Silicon Valley and Chinese	5821
 Singapore and China	6692
 Sister. Child	1638
+Situation Analysis Of Children In Angola	11387
 Skelly and Chiware	9969
 Skye Africa Intelligence Co-Founder and Chief Executive	8907
 Smart Africa Chief Executive Officer Lacina	7254,1
@@ -1870,6 +1886,7 @@ Stats SA Demographic Analysis Chief Directorate	11296
 Strategic China	5755
 Strengthen China-Africa	10441
 Strengthening Gender and Child Data Across Africa	8427
+Sua Excelência Arlete Leona Chimbinda	11436
 Sunday. As China	10038
 Supervisor Responsibility Chief Data Officers	3861
 Supporting Essential Health Service Delivery Children	10829
@@ -1924,6 +1941,7 @@ UNDP’s Chief Digital Office	10852
 UNICEF Child Protection Officer Patrick Halton	9765
 UNICEF Child Protection Specialist	10704
 UNICEF Lesotho’s Chief of Social Policy	4636
+UNICEF United Nations Children's Fund	11390
 UNICEF United Nations Children’s Fund	10829
 UNICEF United Nations Children’s Fund USAID	10768
 UNICEF Zimbabwe Chief of Child Protection	9461

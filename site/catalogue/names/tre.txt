@@ -143,7 +143,7 @@ Invitation To Treaty	1222
 Isabelle Tresson	4722
 Ivoire's TresorPay	749
 Ivorian Treasury	10922
-Job Market Trends Report	6832
+Job Market Trends Report	6832,4663
 Job Market Trends Report35	6832
 Justice and Anti-Corruption. Trend Measure Score	10838
 KNA The National Treasury	10122
@@ -194,7 +194,7 @@ National National AI and Public Service Treasury	7548
 National Public Treasuries	10853
 National Treasuries	10022
 National Treasuries and BEAC National Directorates. About	10022
-National Treasury	396,893,457,88,4,322,147,307,128,201,72,249,240,110,100,27,148,744,160,31,36,463,210,3,1,256,129,211,18,1,114,166,156,358,112,38,44,40,320,14,18,16,59,103,124,76,108,26,520,35,1,103,61,15,4,57,106,3,56,1,121,112,128,309,111,152,104,59,20,7,184,496,197,164,23,5,16,4,2,2,2,1,5,6,1,3,4,4,2,2,9,16,1,2,5,4
+National Treasury	396,893,457,88,4,322,147,307,128,201,72,249,240,110,100,27,148,744,160,31,36,463,210,3,1,256,129,211,18,1,114,166,156,358,112,38,44,40,320,14,18,16,59,103,124,76,108,26,520,35,1,103,61,15,4,57,106,3,56,1,121,112,128,309,111,152,104,59,20,7,184,496,197,164,23,5,16,4,2,2,2,1,5,6,1,3,4,4,2,2,9,16,1,2,5,4,175
 National Treasury AI	7548
 National Treasury Date	4633
 National Treasury Director-General	3741,7484
@@ -270,6 +270,7 @@ Polokwane Regional Wastewater Treatment Programme	11248
 Poppy Day Next Article Treasury	3933
 Post-COVID Trends and Emerging Opportunities	10718
 Poverty Trends	10062
+Preparação de Ambientes de Treino	11444
 Presidency and National Treasury	2626,2234,6376
 Presidency and Treasury	5922
 President and Cabinet and Treasury	1154
@@ -356,7 +357,7 @@ Treasurer's REPORT	9437
 Treasurers Report	9437
 Treasuries	10922
 Treasurv	11180
-Treasury	648,104,217,185,118,12,121,149,22,207,1,5,1,1,1,3,2,13,18,6,473,121,244,70,187,86,186,7,2,117,256,31,100,86,327,401,105,9,13,138,67,334,14,195,130,260,76,53,487,476,197,3,4,1,47,153,258,605,330,102,118,76,61,165,234,128,92,86,359,115,103,96,575,16,20,16,137,3,246
+Treasury	648,104,217,185,118,12,121,149,22,207,1,5,1,1,1,3,2,13,18,6,473,121,244,70,187,86,186,7,2,117,256,31,100,86,327,401,105,9,13,138,67,334,14,195,130,260,76,53,487,476,197,3,4,1,47,153,258,605,330,102,118,76,61,165,234,128,92,86,359,115,103,96,575,16,20,16,137,3,246,164
 Treasury AU African Union OECD Organisation	11193
 Treasury Annual	7548
 Treasury Bill	7695
@@ -437,7 +438,9 @@ Trehan	2093
 Trehan and Easterby-Smith	2093
 Treichville	3604,7326,18
 Treichville. Regarding	10930
-Treinamento	2816,703
+Treinamento	2816,703,7871,54
+Treinamento da PIAP	11444
+Treinar	11376
 Treize	7097,2517
 Trellix	4434
 Trello	2674

@@ -90,6 +90,7 @@ Category Tenure Application Fee Landing Rights	10407
 Cellular and Landline Phone	11211,51
 Central Equatoria State Ministry of Land	3046
 Chance- Stands Fund Land	4896
+Change and Adaptive Land Management	11407
 Chief Negotiator H.E. Dr. Lansana Kouyaté	7452
 Chinese Language Council	2518
 Christoph Landau Minister of Fo	10713
@@ -111,11 +112,14 @@ Competitive Landscape	3859
 Comprehensiveness Land	10960
 Computation and Language	3726
 Congo Nears Completion of Landmark National Data	3409
+Connecting Landlocked Africa Requires	11500
 Contemporary African Cyberthreat Landscape	6426
 Corporate LAN	9123
 Council Cession Land Matombo Manyoro Purchased	4896
 Council Cession Stand Land Gwanda	4896
 Council Cession. Pur- Land	4896
+Country Landscape	11483
+Country Landscape AI	11483
 Culture Language	7548
 Current Policy and Regulatory Landscape	4528
 Customary Land Act	446
@@ -296,6 +300,7 @@ LANGUAGE CODES	582
 LANGUAGE OF RESPONDENT LANGUAGE OF INTERVIEW	582
 LANet	7457
 LANets	7457
+LANÇAMENTO DA JANELA	11384,24
 LAYER Land-border	9399
 LEGISLATIVE AND REGULATORY LANDSCAPE	11196
 LEGISLATIVE AND REGULATORY LANDSCAPE South African	11196
@@ -323,7 +328,7 @@ Lanciato	10848
 Lancé	555,1200,681,296,243,123,1973,242,152,258,389,1221,22,382,655,499,1364
 Lancée	2312,381,833,841,1336,164,350,671,187,413,597,77,150,1954,78,544
 Lancés	2942,464,7282
-Land Acquisition	1264,603,1737,7164,61,135
+Land Acquisition	1264,603,1737,7164,61,135,453
 Land Acquisition Act	9727
 Land Act	1391,597,4933
 Land Administration	888,10373
@@ -392,7 +397,7 @@ Land Use Planning and Land Management Framework	9727
 Land Use Planning and Management Information System	1513
 Land Use and Building Control	11231
 Land Use and Involuntary Resettlement	10829,135
-Land Use and Involuntary Resettlement Not Currently	10768
+Land Use and Involuntary Resettlement Not Currently	10768,649
 Land Use and Involuntary Resettlement Relevant Biodiversity	1284,9545,135
 Land Use and Involuntary Resettlement Relevant ESS	1867
 Land Use and Involuntary Resettlement Relevant Relevant	3604
@@ -423,7 +428,7 @@ Landing Rights Tenure and Fees	10407
 Landing Submarine Cable Landing Overview	9109
 Landline	1013
 Landlines VoIP Satellite FTTh	1013,931
-Landlocked	6318,3330
+Landlocked	6318,3330,1852
 Landlocked BFA	2706
 Landlocked Country Beset	10841
 Landlocked Developing Countries	2663,6282,1899
@@ -494,7 +499,7 @@ Lange	2096
 Langlotz	8603
 Langman	8960
 Langseth	9129
-Language	940,45,6,223,1210,1198,1462,140,374,616,594,1318,554,439,5,137,1190,390,292,59
+Language	940,45,6,223,1210,1198,1462,140,374,616,594,1318,554,439,5,137,1190,390,292,59,206,107
 Language Academy	10451
 Language Data Commons of Australia	7313
 Language Excellence	4126
@@ -543,6 +548,7 @@ Liberia Land Authority	5244,4407
 Liberia Land Authority LTA	5244
 Liberia. Landing Rights Holder	10407
 L’INTELLIGENCE ARTIFICIELLE PARLE NOS LANGUES	9916
+M P507935 Land IPF	11469
 M. Landry Lingombe	8761
 M. Lange	9237
 MINISTER OF LAND REFORM AND RURAL	11197
@@ -620,6 +626,7 @@ National Land Information System NSAAs National	11261
 National Land Policy	9727
 National Land Policy Implementation Unit	9727
 National Land Registration and Documentation Programme	2592
+National Land Transport Amendment Act	11494
 National Land Transport Authority Act	7845
 National Land Transport Authority Recovery Act	7845
 National Land Use and Development Master Plan	888
@@ -646,6 +653,7 @@ Original Language	9892,1
 Oudtshoorn Oudtshoorn Hermanus Hermanus Langa Swellendam	8999
 Overall-2018 LANDSCAPE PRODUCTS	418
 PART XI AMENDMENT OF THE LAND	6921
+PRIMEIRA-DAMA DA REPÚBLICA PRESTIGIA LANÇAMENTO	11482
 Pakistan W M Sri Lanka W	11004
 Partnership Landscape SpaceX's S-1	6467
 Penguin Allen Lane	5700
@@ -665,6 +673,7 @@ Politics of Land	8943
 Post Offices and National Land Transport Authority	10296
 Proactive Land Acquisition Strategy. Together	11197
 Procédure Lancement	10876
+Program Keluarga Harapan and Bantuan Langsung Tunai	11468
 Project Manager Beatriz Lanza. Establishes ENTD.GW	1381
 Project. Land Acquisition	1988
 Promotion des Langues	10847,16
@@ -712,10 +721,12 @@ Santos José Sambo Benjamin Langa Anésio	2989
 Satellite Landing Rights and Satellite Filings. LANDING	10407
 Scale Nigeria's Language Model Template Across	8552
 School Connectivity Landscape Analysis	5851
+Second National Land Transport Regulations	11494
 Secretary of State for Land and Environment Gustavo Dgedge	10470
 Securing Land Tenure	161
 Secção Lançada	10750
 Selection and Land Allocation Policy CD	11261
+Semi-Arid Landscapes	11469
 Senior Land Administration Specialist	10763
 Sentinel-2 and Landsat-8	11239
 Service Land and Network Furniture& Motor Capital	236
@@ -769,6 +780,7 @@ Submarine Cable Landing Rights	6946
 Submarine Cable Landing Stations	9109
 Subscribers Landline	1013
 Subscription Management Services Landing Rights	6946
+Sudan Spain Sri Lanka Sudan Suriname	11470
 Surveys and Land Affairs	10960
 Surveys and Land Tenure	10987
 Sustainable Use of Land	10759,76,2,1,130

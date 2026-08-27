@@ -1,9 +1,15 @@
 Abus Sexuels EI	10876
+Abuso Sexual	11390,16,7
+Abuso Sexual EAS	11413
 Actividade Sexual Recente	10777
 Adolescent and Youth Sexual	10865
 Age and Sex	2775
 Alteration of Sex Description and Sex Status Act	5533
 Arch Sex Behav	1219
+Assédio Sexual	11406,7
+Assédio Sexual CdC Código de Conduta COS	11413
+Assédio Sexual ESIRT Environmental and Social Incident	11413
+Asséêdio Sexual ENAPP Escola Nacional de Administração	11390
 Autodeclaração de Infecções de Transmissão Sexual	10777
 BRUT D'ADMISSION PAR SEXE	10847
 BRUT DE SCOLARISATION PAR SEXE Nombre	10847
@@ -23,12 +29,15 @@ Comportamentos de Saúde Sexual	10777
 County and Sex	2775
 Course and Sex	2775
 DES ELEVES PAR AGE ET SEXE	10847
+Desporto Sexta	11429,50
 Digital Sextortion	6426
 Document SEP Sexual Exploitation and Abuse SH	10964
 Drawing Rights SEA Sexual Exploitation and Abuse	1264
 Drawing Rights Sexual Exploitation	1228
 ENSEIGNANTS PAR SEXE	10847
 ENSEIGNANTS SEXE ET AGE	10847
+Economia Sexta	11479
+Educação Sexta	11429
 Experiência de Violência Sexual	10777
 FUOYE Gives Lecturer Raphael Larayetan’s Sexual	10034,231
 Gender Based Violence and Sexual Exploitation and Abuse	1988
@@ -39,9 +48,11 @@ Industry and Sex	2775
 Infecciones de Transmisión Sexual	4209
 Infecciones de Transmisión Sexual KDI	1701
 Infecções Transmissíveis Sexualmente	10777
+Interpretação Sexo	11421
 La Sextorsion	9133
 Lagos State Domestic and Sexual Violence	2445
 M Member Sex	582
+Mundo Sexta	11479
 Múltiplos Parceiros Sexuais	10777
 NET DE SCOLARISATION PAR SEXE Nombre	10847
 NIVEAU D'ETUDE ET SEXE III.3.1 Public	10847
@@ -55,6 +66,7 @@ NOMBRE D'ANNEE D'EXPERIENCE IV.2.3 Urbain Sexe	10847
 NOMBRE D'ANNEE D'EXPERIENCE IV.2.4 Rural Sexe	10847
 National SEXE Classique Satellite Bilingue	10847
 National Sexe I.P. I.C. I.A.C	10847
+Natureza Sexo Total Geral	11387
 Negociação de Relações Sexuais	10777
 Number of Sexual Exploitation	1778
 Online Child Sexual Exploitation and Abuse	9843
@@ -65,6 +77,7 @@ Perpetradores de Violência Sexual	10777
 Phases Multiples MST Maladie Sexuellement Transmissible	10876
 Policy Framework SEA Sexual Exploitation and Abuse	1988
 Politics Spice Special Features Education Sex	9669,84
+Política Sexta	11479
 Portal de Denúncias de Imagens de Abuso Sexual	10750
 Prevalência da Violência Sexual	10777
 Primeira Experiência de Violência Sexual	10777
@@ -87,6 +100,7 @@ SEXE ET NIVEAU III.5.3 Urbain	10847
 SEXE ET NIVEAU III.5.4 Public	10847
 SEXE ET NIVEAU III.5.5 Privé	10847
 SH Sexual Exploitation and Abuse	1867,1737,7164
+SH Sexual Exploitation and Abuse and Sexual Harassment	11417
 SH Sexual Harassment SME Small and Medium	1264
 SH Sexual Harassment STEP Systematic Tracking	10829
 Satellite PMU and Contractor Sexual	1988
@@ -108,20 +122,26 @@ Sexe Nombre	10847
 Sexe du CM	737
 Sexe du CM Homme	737
 Sexe du CM Masculin	737
+Sexo Fonte	11387
+Sexo Gráfico	11387
+Sexo Homens Mulheres Urbana Rural	11421
+Sexo Instituição	11387
 Sexo Masculino Feminino	10777
 Sexo Província	4044
+Sexo Tabela	11387
 Sexo Total Província	4044
 Sexo Urbana Rural Homens Mulheres	4044
-Sexta	3906,2835,1853,665,1,1518
+Sexta	3906,2835,1853,665,1,1518,654,47,6
 Sexta Edição	10752
-Sexta-feira	14,781,2071
+Sexta-feira	14,781,2071,8607
 Sexual	587,10163,26,53
 Sexual Exploitation	9766,1010
-Sexual Exploitation and Abuse	1264,514,89,4036
+Sexual Exploitation and Abuse	1264,514,89,4036,5514
 Sexual Exploitation and Abuse Mitigation Plan	2889
+Sexual Exploitation and Abuse Specialist	11417
 Sexual Exploitation and Abuse The Project	1988
 Sexual Exploitation and Abuse and Sexual Harassment	1988
-Sexual Harassment	1264,514,89,121,3915
+Sexual Harassment	1264,514,89,121,3915,5514
 Sexual Harassment SEP Stakeholder Engagement Plan	1867,1737
 Sexual Harassment SIGAS Social Action Management	10768
 Sexual Health Today	5574,215
@@ -135,6 +155,8 @@ Sexually Transmitted Infections	1988
 Sexually Transmitted Infections TA Technical Assistance	1988
 Sexually Transmitted Infections TB	10776
 Sintomas de Infecções Transmissíveis Sexualmente	10777
+Social SOGI Sexual Orientation and Gender Identity	11413
+Sociedade Sexta	11479
 Stakeholder Engagement Plan SIGED Sexual Harassment	10964
 Study and Sex	2775
 Sud-Ouest Sexe	737

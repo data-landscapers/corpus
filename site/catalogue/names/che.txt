@@ -6,6 +6,8 @@ AI-powered National Reality Check Platform	6793
 ALICE CHEPKIRUI LANGAT Data Processor INST-9883984DB86	7167
 ANDF Décision du DG Chef du Département Approuve	10876
 APP Her Venture Cherie Blair Foundation	11017
+ATRIBUIÇÕES DOS CHEFES DAS RF	11435
+ATRIBUIÇÕES DOS CHEFES DAS RF’S	11435
 AUDIA CHESEREM KIRWA Data Processor INST-41629510D2C	7167
 Abdourahamane Cheikh Ali	4729
 Africa Check and Amani Africa	5302
@@ -86,6 +88,7 @@ Capacity Audit Checklist	3861
 Central CHE-Djibloho	4209
 Chairman Cherno M. Jallow	9315
 Charity Annex Chemist Data Controller INST-529182D34CC	7167
+Charles Cheng	11495
 Che Cob	7759
 Che Cob and Ali	7759
 Che Fauzi	8604
@@ -169,19 +172,32 @@ Chef du Service	10712
 Chef du Service Matériel	10876
 Chef du Service des Etudes	10712
 Chef-lieu	2342
-Chefe	2054,730,32,949,382,2421,1168,374,90,1494,1056,1,1,2
-Chefe da Casa Civil	2581,1566,2390,103
-Chefe da Casa Militar	4147
-Chefe de Departamento	4218
+Chefe	2054,730,32,949,382,2421,1168,374,90,1494,1056,1,1,2,681
+Chefe da Casa Civil	2581,1566,2390,103,4753,15
+Chefe da Casa Militar	4147,7274
+Chefe da Divisão de Documentação	11473
+Chefe da Repartição Fiscal CSA	11435
+Chefe da SCARP	11435
+Chefe da Secção	11435
+Chefe da Secção Administrativa CSCARP	11435
+Chefe da Secção de Cadastro Arrecadação	11435
+Chefe da Secção de Contencioso	11435
+Chefe da Secção de Prevenção	11435
+Chefe de Departamento	4218,7164
+Chefe de Departamento de Estudos	11391
 Chefe de Estado	3692,1512,1,67,702,6,557,103,3455
 Chefe de Estado. Aos	5053
 Chefe de Estado. Esta	6537
-Chefes de Estado	795
+Chefe de Repartição Fiscal	11435
+Chefe de Secção	11435
+Chefes de Departamento	11382,67
+Chefes de Estado	795,10592
 Chefes de Secção	4218
 Cheffe	2565,401,1102,6069
 Cheffe de Cabinet du Ministre	7403
 Chefferie	8673
 Chefia	167
+Chefia da Administração	11361
 Chefs	12,1955,412,8,658,1090,2824,594,117,173,426,1968,263,475
 Chefs SISFO	10858
 Chefs de Circonscription	10847,36
@@ -264,8 +280,8 @@ Cheptel	737
 Chepurai Lomor	3005
 Chepyuk Health Centre Data Controller INST-14227872BCF	7167
 Chepyuk Health Centre Data Processor INST-14227872BCF	7167
-Cheque	8412,2343
-Cheques	585,799,7482,629,670,590,375
+Cheque	8412,2343,631
+Cheques	585,799,7482,629,670,590,375,256,79
 Chequia ALLO	6613
 Cher Collègue	7470
 Chercheur	7999
@@ -312,6 +328,8 @@ Chez Dr Borlli Michel Jonas Somé	8721
 China Chengxin International Credit Rating Co	7785
 Christopher Chepken	8764
 Civic Checks	10759,76,2,1,130
+Classe O Chefe da RF	11435
+Classe O Chefe da Repartição Fiscal	11435
 Cloud Adoption Committee Checklist	6432
 Commissioner of Tax Gayathri Chetty	7163
 Compliance Checklist	2668
@@ -325,7 +343,9 @@ Cordelia Chesnutt	10841
 Culture and Children Services Hanna Wendot Cheptumo	9006
 D.C. Milly Chepkorir Chebochok and Nimonka Bayale	1828
 DATE CHECKED AND UPHELD	1703
+DE DIRECÇÃO E CHEFIA DA ADMINISTRAÇÃO	11361
 DE LA RECHERCHE SCIENTIFIQUE Chef de Cabinet	8237
+DESPACHO DOS PROCESSOS PELO CHEFE	11435
 DHET and CHE	9128
 DORCAS CHEBURET Data Processor INST-42373443860 NAKURU	7167
 Dakar Mobilité Chief Executive Officer Cheikh	7324
@@ -343,6 +363,7 @@ Edwin Kiptoo Cheruiyot Data Processor INST-338060C4740	7167
 Electrical and Chemical	9475
 Elimination of Cheques	11130
 Emerging Technologies Checklist. Checklist. Technologies	7548
+Emissão de Cheques	11403
 Enfouissement des Déchets de Chebelly. Par	4402
 Eng. Dennis Chepkwony	10397
 Enseignant Chercheur	2966
@@ -403,6 +424,7 @@ Lingjiao Chen	5682
 Lourino Alberto Chemane	2784,32,7323
 Lourino Chemane	2784,32,2111,103,1301,46,158,243,958,1490,125,1988
 Lourino Chemane and Eugénio Alberto Macumbe	4214
+Lourino ChemaneChairman	11439
 M. Cheikh-Ammar	5349
 M. Cheikhna Ould Idoumou	9746
 M. Mohamed Ould Cheikh El Ghazouani	1247,7631
@@ -450,6 +472,7 @@ National and Inclusive Political Dialogue. Chemane	10139
 No-Go Checklist	11156
 No-Go Checklist RESPONSIBLE Inter-agency	11156
 Non-formal SAQA CHE	6832
+O Chefe	11435
 O Chefe de Estado	5272,1252,1
 Orbital Chenguang	9816
 PEP Checks	11240
@@ -494,7 +517,9 @@ Serser Chelulei	4631
 Setty Olugo and Ruth Chebet	8285
 Sidi Chegou	3551
 Sidi Cheikh	1183
+Sistema de Compensação de Cheques	11465
 Sommet des Chefs	2387
+Subsistema de Compensação de Cheques	11370
 Sunny Cheung	8510
 Synthèses Economiques Barbi KABORE Chef de Service	10875
 Sénégal El Hadji Mamadou TOURE Chef	10708

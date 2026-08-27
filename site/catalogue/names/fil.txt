@@ -84,7 +84,7 @@ F Garçons Filles G	10847
 F KOMPIENGA Garçons Filles G	10847
 F Régions Provinces Garçons Filles G	10847
 FG Files	2355,176,4,1,56,3,339,96,901,1006,1761,673
-FILDA	7585,82,385,2979
+FILDA	7585,82,385,2979,398
 FILE BACK ON THE TABLE	3445
 FILE Data	3445
 FILE PHOTO UNHCR Aboneka	4753
@@ -127,6 +127,7 @@ Filed Under	5456,364
 Filename	1593,698,1271,2381,1509,620
 Filers MUST	11219
 Files	1243,2884,156,889,5790,178,60
+Files Avec	11499
 Files By Central News Reporter	5597
 Filets	737
 Filets Sociaux CI	2713
@@ -138,7 +139,8 @@ Filiado	2816
 Filiale	4238,31
 Filiales	2342
 Filiares	4209
-Filiação	10749
+Filias	11386
+Filiação	10749,670,6,55
 Filimbi	9408
 Filing	3161,2523,1659,680,761,722,1279,212,279,22
 Filing Fee Table	7198
@@ -150,6 +152,7 @@ Filing for Tax	10785
 Filing of DST	573
 Filingué	2778
 Filipe António Baptista	5791
+Filipe Lucas O Plenário	11473
 Filipe Monteiro	6702
 Filipe Nyusi	2315,129,223,863,2027,15,247
 Filipe Zau	7882
@@ -296,6 +299,7 @@ SUD-OUEST CP1 Filles	10847
 SUD-OUEST Filles	10847
 Satellite Filings	10407
 Satellite Landing Rights and Satellite Filings. LANDING	10407
+Shape File	11405
 Short Film	11332
 Stamp TO BE READ AND FILLED	7845
 Supplementary File	10940
@@ -313,6 +317,8 @@ Trial Moroccan Filmmaker and Rapper El Mahdi	5407,676
 Uganda Film Festival	9781
 Unique Participation File	4620
 Urbain Rural Total Total Filles	10847
+Valter Filipe Duarte da Silva	11370
+Valter Filipe Duarte da Silva. Download Para	11368,2
 XBRL Filings Comparison	11250
 YAGHA Filles	10847
 YATENGA Filles	10847

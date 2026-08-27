@@ -14,6 +14,7 @@ Africa’s GDP	4906,87,102,1619,3906,199
 Agriculture Composition of GDP	10856
 Annual GDP	6027
 B5-Cluster GDP	7548
+Banco Mundial GdA Governo de Angola GFP	11390
 Benin’s GDP	10887
 Boost GDP	3636
 CAR GDP	10829
@@ -94,6 +95,7 @@ GDP Expenditure Category	2775
 GDP FDI	10969
 GDP GDP	10835,3,130
 GDP GFDRR GoA Senior Health and Community	10763
+GDP Gross	11380
 GDP Gross Domestic Product GEF Global	7548
 GDP Grows	8466
 GDP Growth	8126
@@ -256,10 +258,11 @@ Non-Oil GDP	1828
 Open Source Report.pdf GDPR.EU	1243
 PA9 MU GDP RI9	10779
 Private Sector GDP	958
+Product GDP Gender	11417
 Productivity and GDP	11140
 Projections GDP	11131
 Ready For Service GDPR General Data	3184,1,1340,6470
-Real GDP	940,888,947,762,1710,408,2040,3086,353,2,135
+Real GDP	940,888,947,762,1710,408,2040,3086,353,2,135,198
 Real GDP Gini	1828
 Real GDP Growth	940,1835,2880
 Real GDP Growth Inflation Current Account	2775

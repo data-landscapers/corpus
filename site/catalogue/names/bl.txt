@@ -70,6 +70,7 @@ BLIZZARD MCK LIMITED Data Controller INST-97542831425	7167
 BLIZZARD MCK LIMITED Data Processor INST-97542831425	7167
 BLNews	4807
 BLOC ENTERPRISES LTD Data Processor INST-8038965D68E	7167
+BLOCKCHAIN	11397
 BLOCKCHAIN Cryptocurrency	4127
 BLOCKDANCE AFRICA LIMITED Data Controller INST-35560672E8F	7167
 BLOCKDANCE AFRICA LIMITED Data Processor INST-35560672E8F	7167
@@ -259,6 +260,7 @@ Blaubach	2518
 Blavatnik School of Government	3598,7537
 Blaw&doi	4676
 Blaya J. Information	10784
+Blend IDA	11469
 Blended	6668,880,924,1023,264,1082,350
 Blended Finance Facility	3470
 Blended Finance Scheme	11197,48
@@ -292,7 +294,7 @@ Blob Storage	6432
 Blobel	8606
 Bloc Républicain	4162,2130
 Blocage	2828,6737
-Block	958,340,278,15,1,23,65,109,1,1,1,42,127,13,16,6,18,352,11,573,10,84,65,7,60,121,63,26,151,101,1,76,79,74,19,16,38,339,62,38,177,84,88,141,62,234,74,574,12,40,120,59,378,4594,248,20
+Block	958,340,278,15,1,23,65,109,1,1,1,42,127,13,16,6,18,352,11,573,10,84,65,7,60,121,63,26,151,101,1,76,79,74,19,16,38,339,62,38,177,84,88,141,62,234,74,574,12,40,120,59,378,4594,248,20,120
 Block C	2776
 Block Chain	2868
 Block E	11285
@@ -307,7 +309,7 @@ Block-5	4557
 Block-7	6588
 BlockTower	9367
 BlockTower CEO Vighnesh Patel	9367
-Blockchain	961,222,32,16,1038,19,45,14,9,24,65,84,4,11,2,4,12,38,10,6,3,8,49,4,136,285,243,278,30,66,422,265,123,98,430,282,332,124,146,163,149,27,81,98,164,56,209,51,125,238,23,224,249,808,632,469,3,246
+Blockchain	961,222,32,16,1038,19,45,14,9,24,65,84,4,11,2,4,12,38,10,6,3,8,49,4,136,285,243,278,30,66,422,265,123,98,430,282,332,124,146,163,149,27,81,98,164,56,209,51,125,238,23,224,249,808,632,469,3,246,1441,1
 Blockchain Advisory Group	9170
 Blockchain Africa	9955
 Blockchain Association	8298
@@ -332,7 +334,7 @@ Blockops	10653
 Blockradar	10802
 Blockradar Hits	10802
 Blocks	2736,638,1996
-Bloco	10764,80
+Bloco	10764,80,561
 Bloco C Edificio da ONU CP	10776
 Bloco Democrático	10428
 Blocs de Nature de Sociétés Références	998
@@ -741,7 +743,7 @@ Senegal Constitutional Council Blocks Parliamentary Law	5163
 Shoprite Belhar Shoprite Bellville Shoprite Blue	8999
 Smart Africa AI Blueprint	6054,5211
 Smart Africa AI for Africa Blueprint	2682
-Smart Africa Data Governance Blueprint	10073
+Smart Africa Data Governance Blueprint	10073,1366
 Smart Africa Digital ID Blueprint	2321
 Smart Africa’s Blueprint	4126
 Socio-economic and Policy Analysis A BLUEPRINT	11133
@@ -768,7 +770,7 @@ Tony Blair	4126,2218
 Tony Blair Global Institute	6369
 Tony Blair Institute	4046,1279,495,447,10,264
 Tony Blair Institute for Global	10840
-Tony Blair Institute for Global Change	1965,2081,80,412,787,942,77,2077,863
+Tony Blair Institute for Global Change	1965,2081,80,412,787,942,77,2077,863,2110
 Tony Blair Institute’s Ghana AI Policy	4126
 Tony Commission Blair Institute	4126
 Transformation Blueprint	4126

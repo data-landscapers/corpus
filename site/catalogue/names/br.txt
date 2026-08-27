@@ -198,7 +198,7 @@ BRICS and WTSA	11230
 BRICS&doi	5242
 BRICS-linked	7220
 BRICS. China	10038
-BRIDGE	2253,1203,92,173,967,146,433,636,1974,1350,259,361,310,153,551
+BRIDGE	2253,1203,92,173,967,146,433,636,1974,1350,259,361,310,153,551,608
 BRIDGE Africa Act	1234
 BRIDGE BOOKSHOP Data Processor INST-61750509AA3 KIAMBU	7167
 BRIDGE PMU	3456
@@ -386,6 +386,7 @@ Boost Broadband Coverage	5937
 Boost Broadband and Digital Inclusion	3458
 Borky and Bradley	7278
 Botswana Brazil	10714
+Bouvet Island Brazil British Indian Ocean	11470
 Braa J	766,5,10110
 Braa J. Comparing	766
 Braa&author	766,5
@@ -441,6 +442,10 @@ Bram Thuysbaert	10964
 Braman	2096
 Braman Oumar Koné	10389
 Bramble	11334
+Branca	11373
+Branca Fim de Local	11373
+Branca Formato da Placa	11373
+Brancas Formato da Placa Rectangular III	11373
 Branch	571,21,3122,1182,328,309,287,1362,1941,2040
 Branch AOP	11218
 Branch Appointment Booking System	2115,1085
@@ -487,10 +492,13 @@ Brandon Wanguep	10983
 Brands	10393
 Brandsen	2096
 Brandt	9128
+Branqueamento de Capitais	11386,18
 Braojos	9237
 Brasam Investments	7167
-Brasil	899,802,1115,263,100,340,1873,1317,1810,1280,973,300,66
+Brasil	899,802,1115,263,100,340,1873,1317,1810,1280,973,300,66,238,18,38,24,5,12
 Brasil Em	2816
+Brasil Mauro Vieira Ministro	11393
+Brasil O Brasil	11461
 Brasil PERIOTO	6613
 Brasil Sim Inicial Sim	2816
 Brasil. Em	8760
@@ -520,7 +528,7 @@ Bravery	10399
 Bravocrest Hospital Limited Data Controller INST-5334668891B	7167
 Brayn A. Garner	10979
 Brayne	7966
-Brazil	124,20,82,423,362,208,594,38,251,15,658,61,239,104,212,260,189,419,170,19,533,61,82,128,3,111,222,14,306,154,299,25,26,130,71,55,24,81,59,103,1,72,143,24,45,22,186,120,54,46,63,20,122,109,609,58,35,6,119,60,42,96,80,154,275,213,30,93,356,82,227,30,187,13,41,17,61,6,77,56,20,1,1,126,2,3,17,28,27
+Brazil	124,20,82,423,362,208,594,38,251,15,658,61,239,104,212,260,189,419,170,19,533,61,82,128,3,111,222,14,306,154,299,25,26,130,71,55,24,81,59,103,1,72,143,24,45,22,186,120,54,46,63,20,122,109,609,58,35,6,119,60,42,96,80,154,275,213,30,93,356,82,227,30,187,13,41,17,61,6,77,56,20,1,1,126,2,3,17,28,27,214,44
 Brazil Chile Uruguay Colombia Peru Costa	11135
 Brazil Croatia Korea Chile Poland Vietnam	7655
 Brazil Global Cybersecurity Index	10764
@@ -550,6 +558,7 @@ Brazil's National Data Authority	3601
 Brazil's National Data Protection Authority	6361
 Brazil's National Institute of Information Technology	11120
 Brazil's PIX	9832
+Brazil. Designed	11439
 Brazil. For the Tech Diplomacy Global Institute	5454
 Brazil. Pix	11138
 Brazil. SAIL	124
@@ -753,7 +762,7 @@ Bridgforte Trust Architecture Framework Five	11138
 Bridgforte Trust Architecture Framework Taken	11138
 Bridgforte. Executive Table	11138
 Bridgforte’s Policy Framework Reports	11138
-Bridging	958,93,1042,276,208,371,457,386,131,152,720,54,1064,627,100,134,505,280,278,118,991,116,68,573,37,20,429,819,25,179,54
+Bridging	958,93,1042,276,208,371,457,386,131,152,720,54,1064,627,100,134,505,280,278,118,991,116,68,573,37,20,429,819,25,179,54,235
 Bridging AI Divides	7098
 Bridging Africa	4698
 Bridging Africa and Asia	7244
@@ -761,7 +770,7 @@ Bridging Namibia's Digital Possibilities	3410
 Bridging Nigeria	8288
 Bridging Nigeria's Digital Divide Through Innovation	8288
 Bridging Rwanda	8017
-Bridging the Digital Divide	2339,1231,1675,1703
+Bridging the Digital Divide	2339,1231,1675,1703,4476
 Bridging the Digital Divide Through Local Innovation	9197
 Bridging the Digital Gender Divide	6832
 Bridging the Digital Gender Gap	2167
@@ -864,7 +873,7 @@ Brites	7578
 Brithol	9399
 Brithol Michcoma	9399
 Brithol Michcoma International	9399,591
-British	34,719,285,609,449,2532,624,10,425,246,24,32,242,1480,338,534,424,392,1034,31,25,51,149,104,326,12,43,125
+British	34,719,285,609,449,2532,624,10,425,246,24,32,242,1480,338,534,424,392,1034,31,25,51,149,104,326,12,43,125,171
 British Ambassador Mark Bryson-Richardson	4628
 British Broadcasting Corporation	1981
 British Businesses	1243
@@ -923,7 +932,7 @@ Broadband Access	6414
 Broadband Access for All	3456
 Broadband Annual	3184,7811
 Broadband Commission	958,2838,3378,3670,7,411,69
-Broadband Commission for Sustainable Development	958,7155,1646,314,1189
+Broadband Commission for Sustainable Development	958,7155,1646,314,1189,177
 Broadband Connectivity	607,6941
 Broadband Connectivity Program	1914
 Broadband Connectivity for MNO	330
@@ -936,6 +945,7 @@ Broadband Global Area Network	736
 Broadband Infraco	1289,1975,2704,1088,2703,370,1101
 Broadband Infrastructure Project. Discussions	6788
 Broadband Infrastructure Sharing Policy	6623
+Broadband Internet	11468
 Broadband Limited	3862
 Broadband Market Starlink	7762
 Broadband Network	3487
@@ -972,6 +982,7 @@ Broadband and Telecommunications	9892
 Broadband for All	9107
 Broadbased Communication	6749
 Broadbased Communication Ltd	3862,2887
+Broadbased Communications	11506
 Broadbased Communications Ltd	3862
 Broadcast	6946,1657
 Broadcast Compliance	6946
@@ -1164,6 +1175,7 @@ Bruta de Natalidade Terapia Combinada	10777
 Brute	3336
 Brute Force	6946
 Brute Force Attacks	6671
+Bruto	11403,62
 Bruxelles	3787,340,480,4036,2178
 Bryan	7590
 Bryan A. Garner	10979
@@ -1322,6 +1334,7 @@ Data Center Dynamics and Broadcast Media Africa	4858
 Data Consumption and Broadband Demand GSMA Intelligence	5245
 Data Management for Broadband Mapping Training	10950
 Data Minimisation and Security Breach. Results	962
+Data Privacy Breaches	11400
 Data SLA Reporting Breach	11153
 Data-Only Broadband Subscriptions	3862
 Dated Brent	3583
@@ -1465,6 +1478,7 @@ Forbes Brasil	2816
 Foreword Brahima Sanou BDT	26,1,1
 Formation Brute de Capital Fixe	9276
 Foundation's Bright Scholarship Scheme	10142
+Founder and CEO of Intron. At Branch International	11497
 Framework The Bridgforte Trust Architecture Framework	11138
 Framework. A. Where Trust Breaks Down	11138
 Fredrick Edward Kitoogo Break	4028
@@ -1576,6 +1590,7 @@ J. G. Breugelmans	11140
 J.B. Branch	8994
 JB4 Bredell Campus	3688
 JEAN CLAUDE KASSI BROU	2556,995,1106,1302,1374
+JOÃO MANUEL GONÇALVES LOURENÇO. LIVRO BRANCO	11396
 JUDICIAL BRANCHES	3861
 Jean Claude Kassi Brou	3719
 Jean-Claude Brou	3684
@@ -1640,7 +1655,7 @@ Linda Brooke	10829
 Linkedin Print Telegram Brandon Wanguep	10983
 Liquid ECG Infraco Broadband Loan	1126
 Live Broadcast	3016,2546
-Livro Branco	13,2282,116,1108,627,6619,10
+Livro Branco	13,2282,116,1108,627,6619,10,604,17,1,5
 LoGRI Policy Brief	4118
 Lobo SODEMI BHCI TONGON BNI BRVM	2342
 London Branch	7198
@@ -1789,7 +1804,8 @@ Nigeria’s Wholesale Fixed Broadband Market Assessment	10958
 Number of Satellite Broadband Subscriptions	3641
 Nyamtema AS. Bridging	3791
 O Brasil	2816
-O Livro Branco	11072
+O Livro Branco	11072,324,1
+O Produto Interno Bruto	11447
 OADC Bree Street	9617
 OFFICE Presidenc MINCOTI BRB MININTER	1284
 ONLINE COURSE Bring	11017
@@ -1858,7 +1874,8 @@ Probe Data Breach	4998
 Producto Interior Bruto PM	1701
 Producto Interno Bruto	1701
 Produit Intérieur Brut SIB	10711
-Produto Interno Bruto	795,1066,5130,2332
+Produto Interno Bruto	795,1066,5130,2332,2039
+Produto Interno Bruto Provincial	11422
 Professor Anu Bradford	11154
 Professor Bradford	11154
 Professor Michael Bridges	4439
@@ -1918,6 +1935,7 @@ Road and Bridge	1988
 Role-modelling Bhutan China Brunei Darussalam Philippines	10764
 Rondebosch and Brackenfell	9617
 Rosa Brito Delgado	7792
+Rosário Teixeira de Alva Sequeira Bragança. SECRETÁRIO	11391
 Rural Broadband Initiative	3798
 Rural Broadband Initiatives	6708
 Rural Development and Food Production Minister Bruno	6280
@@ -2060,6 +2078,7 @@ Television and Radio Broadcasters	11211,51
 Teraco Brackenfell	9617
 Tercera Brigada Jefe Inspector	4209
 Terms of Reference and Project Brief Annexure	11240
+Territory Brunei Bulgaria Burkina Faso Burundi	11470
 Through the Brussels Effect	4751
 Thuraya Satellite Phone and BrainSAT Satellite Services	6980
 Thuraya Satellite Phones and BrainSAT Satellite Services	11290
@@ -2085,6 +2104,7 @@ UMc Brazil Americas South America Sao	10840
 UMc Brunei Darussalam Asia South-Eastern Asia	10840
 UN Broadband Commission. A Starlink	6467
 UNESCO Broadband Commission	6467
+UNU-WIDER and Brazil’s National Data Protection Authority	11439
 UPDF Engineering Brigade	5394
 UPI. BRICS Pay	7220
 URL BRAZZAVILLE	1876
@@ -2126,6 +2146,7 @@ Wh. XALAM DATA CENTER MARKET BRIEFING	3185
 Whether BRICS Pay	7220
 William Brederode	2677
 Wireless Broadband ISP	1418
+World Bank. Angola Poverty and Equity Brief	11417
 World Bank. Encyclopedia Britannica	10841
 World Broadband Association Forum	3954
 X.2015.03198.x. Bronen	11006

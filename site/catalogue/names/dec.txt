@@ -30,7 +30,7 @@ Advance Decentralization	10346
 Advanced Cargo Declaration	9436
 Africa AI Declaration	6231
 Africa Decarbonisation Fund	5393
-Africa Declaration	2682,157,1744,7,828,623,148,221,116,264,158,49,551,540,2,23,3027
+Africa Declaration	2682,157,1744,7,828,623,148,221,116,264,158,49,551,540,2,23,3027,343
 Africa Declares AI	6603
 Africa Forward Declaration	6583,1635
 African Commission Declaration of Principles	4753
@@ -53,6 +53,7 @@ Authority’s Decision	762,3970
 Automated Decision	7548
 Automated Decision Making	8436
 Automated Decision-Making	7548
+Autos de Declaração	11452
 Avis de DécèsEl Hadji Mody DieneDate de Deces	4960
 BANDE DE DECISION RENOUVELLEE China Petroleum	998
 BMC Med Inf Decis Mak	1261
@@ -88,10 +89,12 @@ Commission Implementing Decision	970
 Commission Implementing Decision C	644
 Commission Implementing Decision EU	8533
 Completed Dec	255
+Condicionantes Decorrentes	11396
 Conflict of Interest Declaration. Applicants	9198
 Consent Decrees and Settlement Authority	3861
 Construction and Decommissioning	1988
 Consultation and Decision. ICANN	3503
+Contribuinte. Declaração de Conformidade	11435
 Cost Proposal and Price Declaration Form	11209
 Cotonou Declaration	6997
 DAI Decentralised Stablecoin	8590
@@ -150,17 +153,18 @@ DeFi Decentralised Finance	8590
 Dec Change	1013,931
 Dec Change MTC	1013
 Dec'22 Mar'23 Jun'23 Sep'23 Dec'23 Mar'24	11198
+Dec-2020	11469
 Dec-2020 Closing Date	10779
 Dec-2020 IBRD	10779
-Dec-2021	10870
+Dec-2021	10870,525,74
 Dec-2021 Closing Date	10779
 Dec-2021 IBRD	10779
 Dec-2021 Yes Dec	10870
-Dec-2023	1290,9542,38
+Dec-2023	1290,9542,38,599
 Dec-2023 Page	10870
 Dec-2023 Wage	10870
 Dec-2023 Yes Jan	10870
-Dec-2024	1655,681,8534
+Dec-2024	1655,681,8534,599
 Dec-2024 Change Statistics	10870
 Dec-2024 Department	10870
 Dec-2024 MoU	4892
@@ -170,15 +174,20 @@ Dec-2024 Population	10870
 Dec-2024 Sep	10870
 Dec-2024 Statistics	10870
 Dec-2024 Yes Dec	10870
-Dec-2025	2253,2046,155,2,135,97,2145,95,949
+Dec-2025	2253,2046,155,2,135,97,2145,95,949,3592
 Dec-2025 Council	6969
 Dec-2025 Kenya	4258
 Dec-2025 Restructuring Level	6928
 Dec-2025 US	5141
 Dec-2025 Yes Sep	4688
+Dec-2026	11469
 Dec-2026 Operation Closing	10870
+Dec-2027	11469
 Dec-2027 Operation Closing	2712
+Dec-2028	11469
 Dec-2028 Expected Disbursements	1284
+Dec-2029	11469
+Dec-2030	11469
 Dec-2035 Yes Joint Level Complementary	3604
 Dec-25	4576
 Dec-26 Feb-27 Feb-27 Jun-26 Annex	2989
@@ -233,8 +242,10 @@ Decide	2277,16,17,19,88,121,14,210,64,180,5,1,53,46,22,18,62,165,92,110,41,104,2
 Decide AI	7396
 Decide Better With Us	9561
 Decide for Work	7396
+Decidem	11455
 Decides	5825
 Deciding	6635,4495
+Decidir	11382
 Decilitro Sistema de Posicionamento Global Hepatite B	10777
 Decimal	736
 Deciphering Ethiopia	3176
@@ -268,14 +279,15 @@ Decision. H. ORDERS	5113
 Decision. Personal Data	5113
 Decisions	11,707,756,514,970,903,563,10,80,494,477,2481,414,47,810,162,283,28,167,82,99,761
 Decisions The Building Resilient Digital Infrastructure	7877
-Decisão	795,1642,2732,2076,2869,641
+Decisão	795,1642,2732,2076,2869,641,610,18,23,55
 Decisões	14,2802
 Decisões de IA	2816
 Deck For A Sucessful AI	5562
 DeckerMed Africa Trust Data Controller INST-629343D98DA	7167
 Decl.7	3583
 Declaración	1701,1478
-Declarar	10783
+Declarada	11443
+Declarar	10783,668,7
 Declaration	736,225,303,613,240,565,157,744,945,1524,334,551,515,341,32,125,510,1047,1305,2,8,1,18,170,129,14,29,5,5,105
 Declaration and Authorization	6432
 Declaration and Denarau Action Plan	940
@@ -289,16 +301,24 @@ Declaration of Principles	9082,578,1069,366
 Declaration of Rights	958,14
 Declaration--	1223
 Declarations	766,5,490,2046,484,2112,149,1060,747,3125
-Declaração	2816,3646,1717
+Declaração	2816,3646,1717,3183,57,11,5,10,11,2,14
 Declaração Africana	3519
+Declaração Constitutiva	11393
+Declaração Especial	11393
+Declaração Europeia	11393
 Declaração Ministerial de Maceió	2816
-Declaração Universal	14
+Declaração Nacional de Compromisso	11387
+Declaração Universal	14,11379
 Declaração Universal Periódico	10750
+Declaração de Autorização	11404
 Declaração de Bletchley	2816
 Declaração de Compromisso Antes	6462
 Declaração de Kazan	2816
+Declaração de Lisboa	11393
+Declaração de Luanda	11432,47
+Declaração de OPMS	11430
 Declaração de São Luís	2816
-Declarações	3589
+Declarações	3589,7773,57
 Declare AI	1814
 Declare the Next Decade	11285
 Declared	22,8626
@@ -328,7 +348,7 @@ Decompress Healthcare	8603
 Decorative	11269
 Decorre	10325
 Decorrido	2437
-Decorridos	10755
+Decorridos	10755,675
 Decoupled	2477
 Decrease	789,3899,3189,2841,67,8,341
 Decrease of Port-In	3862
@@ -351,18 +371,19 @@ Decret 2014-105 12 mars 2014.pdf	10906
 Decret 2014-106 12 mars 2014.pdf	10906
 Decret-N24-186PR-du-19-decembre-2024.pdf	2048,1,1,1,1,1
 Decret-N26-003PR-du-16-jan-2026.pdf	2048,1,1,1,1,1,2591,1,1,1,1,1
-Decreto	6,157,4,409,219,731,329,582,1,378,50,1343,65,2567,259,948,1361,1369
-Decreto Executivo	4218,6533,32
-Decreto Executivo Conjunto	744,50
-Decreto Legislativo Presidencial	430,3788
+Decreto	6,157,4,409,219,731,329,582,1,378,50,1343,65,2567,259,948,1361,1369,612,15,30,21
+Decreto Executivo	4218,6533,32,600,7,15,14,7,26,6
+Decreto Executivo Conjunto	744,50,10636,28
+Decreto Legislativo Presidencial	430,3788,7163,4,23,13,22
 Decreto Núm	10487
 Decreto Número	6841,1904,219
 Decreto Para	10750
 Decreto Permitam-me	10750
-Decreto Presidencial	13,154,263,314,8,42,421,1150,1154,88,539,1,71,339,2284,1468,2441,2,2,16,2,11,289
+Decreto Presidencial	13,154,263,314,8,42,421,1150,1154,88,539,1,71,339,2284,1468,2441,2,2,16,2,11,289,288,1,1,7,2,1,1,5,1,2,1,1,2,2,3,1,3,2,17,6,11,1,2,2,7,1,1,1,4,3,3,1,1,1,3,6,7,8,6
 Decreto Presidencial. Artigo	13
+Decreto Regulamentar	11455
 Decreto-Legislativo	2054,5412
-Decreto-Lei	2054,4408,1004
+Decreto-Lei	2054,4408,1004,3892,7,21,2,16,57
 Decreto-Regulamentar	1342,89,1,2978,9
 Decreto-lei	1342,89,1,2978,9
 Decreto. Art	576,2290,1408
@@ -380,6 +401,7 @@ Directors' Declaration of Interests	9915
 Direitos Humanos Decorreu	10752
 Doha Declaration	6534,4659
 Driven Decisions Primary Health Care Strengthening	7761
+Dubai Declaration	11478
 Durban Declaration and Programme of Action	11210
 E. DECLARATION	4896
 EAC AI Declaration	6189
@@ -403,6 +425,7 @@ Executive Decree	3685,7080,10
 Executive Decree No	3221,464,7090
 Expand Financial Inclusion Over Next Decade	7997
 F. ANNUAL DECLARATIONS AND REMOVAL	5687
+Falsas Declarações	11363
 Ferramentas Automatizadas de Decisão de Emprego	2816
 Fifth General Population and No Dec	10870
 Final Declaration	9399
@@ -429,7 +452,7 @@ ICANN Decision	3503
 ICGLR Declaration	4257
 IDENTIFICATION TO DECISION PHASE	11156
 INTERNET SUBSCRIPTIONS DECEMBER’23	3862
-Implementation Status and Key Decisions	2712,3867,254
+Implementation Status and Key Decisions	2712,3867,254,4562
 Implementation Status and Key Decisions Approved	6928
 Implementation Status and Key Decisions Benin	10870
 Implementation Status and Key Decisions Nigeria Building	4688
@@ -470,6 +493,8 @@ Kigali Declaration	6041,5099
 Kigali Declaration. Rwanda	6041
 Korin AI Africanfuturism Decolonial AI Music	9739
 LA REQUETE DECISION FINALE Novotel	10821
+LEGISLAÇÃO Constituição de Angola Códigos Leis Decretos	11358
+LEX.AO Decreto Presidencial	11371,1,9,1,37,12,36
 LIST OF DECISIONS	4103
 LOIS ET DECRETS ARRETES	4658
 Language of Leadership for Decision-makers UNDP Mauritius	11332
@@ -477,6 +502,7 @@ LaunchBase Africa Dec	1404
 Launched Dec	909
 Leaders' Declaration	7242
 Leaders’ Declaration	5044
+Legislação Constituição de Angola Códigos Leis Decretos	11358
 Lilongwe Decalaration	6052
 Lilongwe Declaration	5241,811
 Lilongwe’s Declaration	6052
@@ -525,6 +551,7 @@ Notice of Decision	3503
 Notícias Declaração	1265,3,468
 Novembro. CONSELHO DE MINISTROS Decreto	2866
 Nuvem Dec	2437
+O Decreto Presidencial	11432
 OBJET DE LA REQUETE DECISION FINALE	10821
 OECD Declaration	11154
 OPERATORS ACTIVE INTERNET SUBSCRIPTIONS DECEMBER’24	3862
@@ -533,6 +560,7 @@ Opaque Training Data and Decision-Making	3651
 Optimized Beneficial Ownership Declaration Functionality	11219
 Organ Behav Hum Decis Process. Dec	10919
 Organizational Behavior and Human Decision Processes	5349
+Os Autos de Declarações	11452
 Osaka Declaration	11154
 Osaka Leaders' Declaration	7242
 P RL L TL D3 DEC	10974
@@ -551,11 +579,14 @@ Policy Decisions That Matter	6714
 Presence of Automated Decision Making	8436
 President João Lourenço's Dec	793
 Presidential Declaration	7452
-Presidential Decree	3685,37,139,345,8,751,5798,2,3,3,4,1,3,62
-Presidential Decree No	3685,176,612,282,5,205,5810,4,35
+Presidential Decree	3685,37,139,345,8,751,5798,2,3,3,4,1,3,62,652
+Presidential Decree No	3685,176,612,282,5,205,5810,4,35,603
 Presidential Decree for Targeted Free Healthcare	10829
+Presidential Decrees	11380
 Pretoria Declaration	3583
+Princípio da Decisão	11388
 Project Declarations	6872
+Projecto de Decreto Presidencial	11415
 Projeto de Decreto	3246,6180
 Promoción de Trabajo Decente	4209
 Proposals for Executive Decrees	10776
@@ -576,6 +607,7 @@ Regional African Union Solemn Declaration	11193
 Regulatory Decree	9399
 Removal of PPE and Personal Decontamination	1988
 Republic Decree	3583
+Requisição de Declarantes	11452
 Risk That Decides Where AI	11310
 Rome G20 Declaration	11154
 SA-EU-Summit-Declaration.pdf DECLARATION	11210
@@ -583,6 +615,7 @@ SADC Declaration	961
 SADC Declaration and Treaty	10169
 SBD4 Declaration of Interest Annexure C	11240
 SECÇÃO I DECISÃO	549
+SECÇÃO II DECLARAÇÃO DE OPMS	11430
 SEP TO DEC'24 JAN-25 FEB-25 MAR-25	8999
 Salaam Energy Declaration	2391
 Samora Fintech Declaration	767
@@ -618,9 +651,11 @@ Tanzania. BMC Med Inf Decis Mak	1261
 Tanzania. BMC Med Inform Decis Mak	3791,4585,2505
 Technological Decision Contextual Integration	9129
 Thekwini Declaration	2117
+Thermal Decay Time Tool	11405
 Third General Yes Dec	10870
 Through Presidential Decree	10768
 Timely Filing of Tax Declarations	10984
+Tomada de Decisão de Políticas de Combate	11437
 Tomada de Decisões	10777
 Top Deck	8999
 TotalTele Dec	89
@@ -634,7 +669,7 @@ UN Declaration	11188
 Union-Discipline-Travail DECRET N	10895
 United Nations Universal Declaration of Human Rights	8747,2430
 Universal Declaration	1814,1769,7258
-Universal Declaration of Human Rights	1963,995,47,578,278,892,568,212,3410,1154,722
+Universal Declaration of Human Rights	1963,995,47,578,278,892,568,212,3410,1154,722,659
 Universal Declaration of Human Rights. Retrieved	10819
 Users Quarterly Dec-25 Variation	6671
 Using DECT	736

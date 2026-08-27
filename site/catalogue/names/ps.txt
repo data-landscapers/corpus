@@ -74,6 +74,8 @@ L’opérationnalisation du PS	10874
 L’évaluation du PS	10874
 MICT and PS	6192
 MINPOSTEL des PSF	10965
+MOMO PSB Advisory	11469
+MOMO PSB Credit Risk Advisory	11469
 Mali's PSNSN	7707
 Manual PSDGP Public Sector Digital Governance	2889
 MoMo PSB	3330
@@ -182,6 +184,7 @@ PSSIE	1238,9281,193
 PSSIE Rapports	10712
 PSSIS	7707
 PSSN Productive Social Safety Net RGoZ	11133
+PSSO Plano de Saúde	11413
 PSSPs	3491,6199
 PSTN Traffic	6000
 PSTN VOICE TRAFFIC	6000
@@ -211,7 +214,7 @@ Pseudo-label Opti-	8301
 Pseudonymisation	747,214
 Pseudonymity	4127
 Pseudonymization	3861,7113
-Psicologia	2816
+Psicologia	2816,8571
 Psicossocial	10782
 Psicoterapeuta de IA	2816
 Psidium	11334

@@ -12,11 +12,12 @@ Lunda Sul and Moxico	9399
 Malanje Moxico Namibe Uíge Zaire Continua	10766
 Malanje Moxico Namibe Uíge Zaire Fonte	10766
 Malanje Moxico Namibe Uíge Zaire MF	10766
-Moxico	4044,2775,180,3751,2,5,3,3,2,1,9,2,3
+Moxico	4044,2775,180,3751,2,5,3,3,2,1,9,2,3,607,29,1,1
 Moxico AMÉLIA AUGUSTA CARLOS	10751
 Moxico Benguela VENTURA NDALA BAPTISTA	10751
 Moxico Cabinda Cuanza Norte Huambo Huila	10753
-Moxico Leste	4040,4,2551
+Moxico Leste	4040,4,2551,4822
+Moxico Leste Quarta	11479
 Moxico Namibe	10766
 Moxico Namibe Continuação Uíge Zaire	10757
 Moxico Namibe Uíge	10766
@@ -24,6 +25,8 @@ Moxico Namibe Uíge Zaire	10766
 Moxico Namibe Uíge Zaire Continua	10766
 Moxico Namibe Uíge Zaire Fonte	10766
 Moxico Namibe Uíge Zaire MF	10766
+Moxico Province Benguela	11418
+Moxico Province Nami	11418
 Moxico and Benguela	10763
 Moxico and Malanje	10776
 Moxico-Leste	6966

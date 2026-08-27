@@ -1,6 +1,7 @@
 AFR Afrobarometer UNESCO United Nations Educational	10835,3,130
 AI Strategies. UNESCO	2816
 AI. UNESCO	7841
+AI. UNESCO UNESCO	11439
 AI. UNESCO's Recommendation	5036
 ALGERIA DIGITAL BRIEF Une	8637
 ANFU Une	8693
@@ -63,9 +64,13 @@ Estados Membros da UNESCO	2816
 Etat-civil. Une	5530
 Etat. Une	10965
 Etats-Unis. Une	2808
+Eurico Wongo Gungula. This UNESCO Chair	11478
+Event UNESCO Learning Cities	11439
+Event UNESCO World Conference	11439
 FCFA. Une	3789
 Finances. Une	1837
 Foundation and UNESCO	5618
+Future. A UNESCO Chair	11478
 GDP. UNECA	10819
 Gabon. Une	3311
 General Adjunto C. Nac. UNESCO Jefe	4209
@@ -116,6 +121,8 @@ Moyen Terme. Une	1990
 NU A UNESCO	2816
 Nac. UNESCO Director General Jefe	4209
 Naneye Yarda’’. Une	2327
+Nações Unidas UNESCO	11387
+News UNESCO	11439
 Niger. Une	2556
 Nigeria. Une	9993
 Nigeria’s Uneven Progress Nigeria	9206
@@ -140,6 +147,7 @@ Pretoria Proposition and UNESCO’s Guidelines	7709
 Private Sector's Uneven Contribution Big	10015
 Prix Gallian Une	10858
 Programme UNESCO United Nations Educational	6946,602
+Projecto UNESCO United Nations Educational	11390
 R.2.1. Une	643
 RECOMENDAÇÕES DO RELATÓRIO DA UNESCO	2816
 REGLADA UNESCO	4209
@@ -167,6 +175,7 @@ Serge Dino Daniel Ngassakys. Une	5895
 So- UNECA	10819
 Starlink. Une	3551
 Startup Act Une	3157
+Stefaan UNESCO Verdadero	11439
 Support for Vulnerable Groups and Unemployed Youth	11285
 Système Statistique National. UNE CONTINUITE LOGIQUE	9277
 Tackle Youth Unemployment	4875
@@ -209,14 +218,14 @@ UNEP and UN Habitiat	3583
 UNEPCCC	9424
 UNESC's Journey	8860
 UNESCAP	1243
-UNESCO	19,624,256,59,246,159,316,29,106,98,53,580,193,78,142,8,430,187,543,83,319,277,14,217,6,185,19,56,297,19,45,31,7,234,84,192,83,37,17,29,59,128,145,123,54,9,31,22,49,46,19,6,44,58,58,17,37,169,47,50,130,31,15,117,41,161,320,7,17,120,70,132,1,37,209,35,148,63,2,378,173,66,65,56,131,66,2,42,27,36,55,150,52,82,16,35,84,39,76,2,1,75,55,43,129,14,2,109,42
+UNESCO	19,624,256,59,246,159,316,29,106,98,53,580,193,78,142,8,430,187,543,83,319,277,14,217,6,185,19,56,297,19,45,31,7,234,84,192,83,37,17,29,59,128,145,123,54,9,31,22,49,46,19,6,44,58,58,17,37,169,47,50,130,31,15,117,41,161,320,7,17,120,70,132,1,37,209,35,148,63,2,378,173,66,65,56,131,66,2,42,27,36,55,150,52,82,16,35,84,39,76,2,1,75,55,43,129,14,2,109,42,80,4,48,39
 UNESCO AI	5036
 UNESCO AI Readiness Assessment Methodology and Nigeria	9511
 UNESCO AI Readiness Assessments	6862
 UNESCO Addressing	7709
 UNESCO Broadband Commission	6467
 UNESCO Campus Africa and JICA	9707
-UNESCO Chair	9475
+UNESCO Chair	9475,2003
 UNESCO Country Representative	9202
 UNESCO Côte	11078
 UNESCO Deep Dive for Policymakers	1814
@@ -232,14 +241,15 @@ UNESCO ICT CFT	899
 UNESCO ICT Competency Framework for Teachers	899,5933
 UNESCO ICT Competency Framework for Teachers. Paris	899
 UNESCO Institute for Lifelong Learning	1049
-UNESCO Institute for Statistics	7548,3421
+UNESCO Institute for Statistics	7548,3421,514
 UNESCO International Institute for Capacity Building	7405
 UNESCO International Standard Classification of Education	7845
 UNESCO Office	8548,2053
 UNESCO Open Science Partnership	5246
 UNESCO RAM	4819
+UNESCO RAM Angola	11483
 UNESCO RDC. En République Démocratique du Congo	3269
-UNESCO Readiness Assessment Methodology	7068
+UNESCO Readiness Assessment Methodology	7068,4415
 UNESCO Recommendation	1814,1144,1168,563,45,512,1866,386,50,2389,1198
 UNESCO Recommendation Human	7548
 UNESCO Recommendations	5246,1048
@@ -261,7 +271,7 @@ UNESCO's Elena Constantinou	10073
 UNESCO's Journey	9212
 UNESCO's Jun-2025 Tech Diplomacy Forum	5239
 UNESCO's Readiness Assessment Methodology	5036
-UNESCO's Recommendation	8747,457
+UNESCO's Recommendation	8747,457,2279
 UNESCO-IICBA	7405,1551
 UNESCO-Korea Funds-in-Trust	10469
 UNESCO-ROSA	7841
@@ -283,7 +293,9 @@ UNESCO. UNESCO	6832
 UNESCO. UNESCO-UNEVOC	6832
 UNESCO’s AI RAM	4528
 UNESCO’s AI Readiness Assessment Methodology	4126,1575,1092
+UNESCO’s Category	11439
 UNESCO’s Data Governance Toolkit	10601
+UNESCO’s Data Governance Toolkit. UNESCO	11439
 UNESCO’s Ethical Impact Assessment	1814,2312
 UNESCO’s Ethics of AI Recommendation	5618
 UNESCO’s Global Convention	7760
@@ -336,7 +348,7 @@ Unequal Distribution of Technology Arab	2958
 Unequal Political Voice	2096
 Unesco	2387,307,575,619,3393,332,316
 Unestablished	9168,87
-Uneven	432,1,528,5391,1196,2640,776
+Uneven	432,1,528,5391,1196,2640,776,437
 Uneven AI-driven	11140
 Uneven Africa	6248
 Uneven Digital Geographies	226

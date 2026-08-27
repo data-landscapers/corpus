@@ -1,4 +1,5 @@
 A.K. DRAMÉ Encadré	7999
+ACTAS RESUMO DOS ENCONTROS COM	11406
 AI. Encouraging	2958
 AI. Encouraging AI	2958
 Actividade Suspensa Encerrada Total Actividade Económica	10757
@@ -20,6 +21,7 @@ Disk Encryption	11231
 Diáspora Encargada	1855
 E.g. Encourage	11004
 ENCADRÉ	7655,657,2400
+ENCONTRO DOS JOVENS AUDITORES DA OISC	11473
 ENCORE	3315
 ENCOURAGE COOPERATION TO FACILITATE USE	1243
 ENCOURAGING PUBLIC ACCESS TO AND USE	1243
@@ -55,7 +57,7 @@ Encargado de Migración	6841
 Encargado de Presupuestos	6841
 Encargado de Relaciones Laborales	6841
 Encargado de Sistemas de Inteligencia Artificial	6841
-Encargos	2866,7889
+Encargos	2866,7889,604
 Encargos Adicionais	10755
 Encargos Aplicáveis	10755
 Encargos de Informação	10755
@@ -63,7 +65,9 @@ Encarregado	2444
 Encarregado de Negócios	2444
 Encerrada	10757
 Encerrada Quadro	10757
-Encerramento	3519,1650
+Encerramento	3519,1650,6282
+Encerramento de Contas de Depósito Bancário	11386
+Encerramento de Contas de Moeda Electrónica	11404
 Enchère	10876
 Encinas	11133,9
 Enclave of Cabinda	9399
@@ -93,6 +97,7 @@ Encouraging	958,986,78,437,499,1890,397,1117,472,283,1564,2160,15
 Encouraging Nigerians	9575
 Encouraging Responsible Innovation and Scientific Research	2958
 Encouragingly	4085,763,124,630,2806,1275,78,1243,191
+Encriptação	11480
 Encriptação de Redes de Comunicações Electrónicas	10747
 Encrypt	4610,6165
 Encryption	21,1665,253,1922,749,1813,9,160,581,1946,1038,564
@@ -129,9 +134,11 @@ Patient Registry Shared Encounter Record Laboratory	21
 País. Enchentes	8057
 Personal Data Protection Authority. Encryption	10974
 Plan National Encourage	1885
+Procedimentos de Encerramento da Conta de Pagamento	11386
 Proposed Blade Enclosure	11209
 Proyecto de Encuesta	4209
 Public Keys and Encryption Information CERT	775
+Relatório de Encerramento	11451
 Scientific Research Encourage	2958
 Segmentation Encryption Standards	6432
 Segunda Encuesta Demografía	4209

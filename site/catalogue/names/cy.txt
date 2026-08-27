@@ -523,6 +523,7 @@ Cyberattaque	2393,2531
 Cyberattaques	4960,4424,1328
 Cyberbullying	783
 Cyberbullying Any	783
+Cyberbullying and Harassment	11400
 Cybercafé	5321
 Cybercafés	9736
 Cyberciminalité	10379,2,310
@@ -616,6 +617,7 @@ Cybersecurity Capability Index	10721
 Cybersecurity Capacity Centre for Southern Africa	1200
 Cybersecurity Capacity Maturity Model for Nations	1200
 Cybersecurity Capacity Review	1200
+Cybersecurity Center of Excellence	11464
 Cybersecurity Centre	1000
 Cybersecurity Centre of Excellence	6787
 Cybersecurity Challenges	5677
@@ -777,6 +779,7 @@ Cybersecurity-Regulations-LTA-REG-0013-	4610
 Cybersecurity-related	1000
 Cybersecurity-related R&D	1000
 CybersecurityFintechInfrastructureEgyptUKRead	4628
+Cybersegurança	11418
 Cybersicherheitsanalysen	9062
 Cybersmart	11259
 Cybersmart Flex	11259
@@ -784,6 +787,7 @@ Cyberspace	1814,3428,1320,716,260,186,111,1062
 Cyberspace Administration	10430
 Cyberspace Administration of China	8788,494,960,108,299
 Cyberspace Ltd	3862
+Cyberspace Network	11506
 Cyberspace Network Ltd	3862,2887
 Cyberspace Protection	9125
 Cyberspace&author	2096
@@ -908,6 +912,7 @@ EAPC Kairindi CYDC Data Processor INST-8808108CFFF	7167
 ECOWAS ADVANCES REGIONAL CYBERSECURITY COOPERATION THROUGH	9470
 ELECTRONIC TRANSACTIONS AND CYBER SPACE MANAGEMENT	6671
 ELECTRONIC TRANSACTIONS AND CYBERSPACE MANAGEMENT	6671
+ESTABLISHMENT OF THE NATIONAL CYBERSECURITY AGENCY	11464
 EU Cyber	5242
 EU Cyber Direct	2117
 EU Cybersecurity Act	6936
@@ -1014,7 +1019,7 @@ Global Cybersecurity Centre	6557
 Global Cybersecurity Centre Partnership	6557
 Global Cybersecurity Cooperation Frameworks	1777
 Global Cybersecurity Cooperation Frameworks. Actions	1777
-Global Cybersecurity Index	318,1035,21,64,440,5,386,495,840,239,105,267,711,381,31,69,147,116,158,340,597,171,10,3229,419,170,84
+Global Cybersecurity Index	318,1035,21,64,440,5,386,495,840,239,105,267,711,381,31,69,147,116,158,340,597,171,10,3229,419,170,84,531
 Global Cybersecurity Index Report. Geneva	6936
 Global Cybersecurity Index. Experts	2703
 Global Cybersecurity Index. Score	1878
@@ -1113,6 +1118,7 @@ Interpretation PART II THE ZAMBIA CYBER	2727
 Investigating the Cybersecurity Aspects	5244
 Ireland Global Cybersecurity Index	10764
 Italy Global Cybersecurity Index	10764
+Ivoire Croatia Cuba Curaçao Cyprus Czechia	11470
 Ivoire Cyber Africa Forum	3526,841
 Ivoire Global Cybersecurity Index	10764
 Ivoire Targets Internet Expansion and Cybersecurity	5457
@@ -1216,6 +1222,7 @@ Multilayer Framework for Good Cybersecurity Practices for AI	2816
 MyMzansi President Cyril Ramaphosa SONA State	5017
 Myanmar Global Cybersecurity Index	10764
 NAMIBIA CYBER SECURITY INCIDENTS RESPONSE TEAM	3336
+NATIONAL CYBERSECURITY AGENCY	11464
 NATIONAL CYBERSECURITY COMMITTEE	783
 NATIONAL CYBERSECURITY STRATEGY	1000
 NATIONAL CYBERSECURITY STRATEGY AND ACTION	1000
@@ -1286,8 +1293,8 @@ National Cybersecurity	1000,4675
 National Cybersecurity Act	1777
 National Cybersecurity Advisory Committee	1777
 National Cybersecurity Advisory Council	1200,335
-National Cybersecurity Agency	395,1382,368,539,513,83,324,867,297,1572,447,36,1559,1112,134,15,1094
-National Cybersecurity Agency Order	6787,36
+National Cybersecurity Agency	395,1382,368,539,513,83,324,867,297,1572,447,36,1559,1112,134,15,1094,727
+National Cybersecurity Agency Order	6787,36,4641
 National Cybersecurity Authority	1989,1898,61,256,379,583,278,202,673,3644,1,212
 National Cybersecurity Authority NCSC National Cybersecurity	1000
 National Cybersecurity Authority of Rwanda	3711
@@ -1322,6 +1329,7 @@ National Cybersecurity Implementation Roadmap	6936
 National Cybersecurity Incident Management Guidelines	7741
 National Cybersecurity NCC	1777
 National Cybersecurity Office	1777
+National Cybersecurity Operations Center	11464
 National Cybersecurity Operations Centre	6787
 National Cybersecurity Plan	1000
 National Cybersecurity Plan. Public-private	1000
@@ -1463,6 +1471,7 @@ Samoa Global Cybersecurity Index	10764
 Saudi Arabia Global Cybersecurity Index	10764
 Savings CHAPTER XI1 CYBER INSPECTORS Appointment	11179
 Second Schedule. Cybersecurity	587
+Sectoral Cybersecurity Operations Centers	11464
 Security Business Cyber	9963
 Security Cyber Coordination Centre	5841
 Security and Cybersecurity Controls Control Area Description	6432
