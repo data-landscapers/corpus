@@ -17,17 +17,17 @@ document (`progress-report-redesign.md` §1) and are not in scope.
 ## Done
 
 ERI and ZAF were the pilots. This pass has since added, in order: **GNB, AGO, BDI, BEN, BFA, BWA,
-CAF, CIV, CMR, COD, COG, COM, CPV, DJI, DZA, EGY, ETH, GAB, GHA, GIN, GMB, GNQ, KEN, LBR, LBY, LSO, MAR, MDG, MLI, MOZ, MRT, MUS, MWI, NAM, NER, NGA, RWA, SDN, SEN, SLE, SOM, SSD, STP, SWZ, SYC, TCD** — 48 of 54, one commit each, all pushed.
+CAF, CIV, CMR, COD, COG, COM, CPV, DJI, DZA, EGY, ETH, GAB, GHA, GIN, GMB, GNQ, KEN, LBR, LBY, LSO, MAR, MDG, MLI, MOZ, MRT, MUS, MWI, NAM, NER, NGA, RWA, SDN, SEN, SLE, SOM, SSD, STP, SWZ, SYC, TCD, TGO** — 49 of 54, one commit each, all pushed.
 
 Yields so far, as a sense of shape: 21 indicators from GNB's 25 ledger rows, 43 from BDI's 74, 52
 from BWA's 107, 57 from BEN's 105, 64 from BFA's 131, 66 from AGO's 122, 43 from CAF's 92, 92 from
-CIV's 167, 73 from CMR's 121, 67 from COD's 123, 52 from COG's 103, 45 from COM's 117, 49 from CPV's 140, 43 from DJI's 70, 58 from DZA's 111, 66 from EGY's 199, 66 from ETH's 97, 58 from GAB's 120, 81 from GHA's 175, 59 from GIN's 109, 46 from GMB's 75, 42 from GNQ's 67, 93 from KEN's 219, 43 from LBR's 71, 64 from LBY's 84, 61 from LSO's 69, 79 from MAR's 137, 44 from MDG's 67, 55 from MLI's 87, 77 from MOZ's 159, 39 from MRT's 62, 50 from MUS's 81, 65 from MWI's 183, 62 from NAM's 134, 42 from NER's 68, 92 from NGA's 279, 69 from RWA's 128, 29 from SDN's 52, 55 from SEN's 115, 40 from SLE's 83, 37 from SOM's 60, 44 from SSD's 74, 27 from STP's 49, 43 from SWZ's 86, 34 from SYC's 54, 44 from TCD's 132. Between three quarters and nine tenths of ledger rows map; the rest are placeholders with
+CIV's 167, 73 from CMR's 121, 67 from COD's 123, 52 from COG's 103, 45 from COM's 117, 49 from CPV's 140, 43 from DJI's 70, 58 from DZA's 111, 66 from EGY's 199, 66 from ETH's 97, 58 from GAB's 120, 81 from GHA's 175, 59 from GIN's 109, 46 from GMB's 75, 42 from GNQ's 67, 93 from KEN's 219, 43 from LBR's 71, 64 from LBY's 84, 61 from LSO's 69, 79 from MAR's 137, 44 from MDG's 67, 55 from MLI's 87, 77 from MOZ's 159, 39 from MRT's 62, 50 from MUS's 81, 65 from MWI's 183, 62 from NAM's 134, 42 from NER's 68, 92 from NGA's 279, 69 from RWA's 128, 29 from SDN's 52, 55 from SEN's 115, 40 from SLE's 83, 37 from SOM's 60, 44 from SSD's 74, 27 from STP's 49, 43 from SWZ's 86, 34 from SYC's 54, 44 from TCD's 132, 47 from TGO's 124. Between three quarters and nine tenths of ledger rows map; the rest are placeholders with
 no source, or real instruments the frame has no question for (a telecoms statute, a broadcasting
 transition), and those correctly stay on the ledger and out of the report.
 
 ## Remaining
 
-6 country units: TGO, TUN, TZA, UGA, ZMB, ZWE.
+5 country units: TUN, TZA, UGA, ZMB, ZWE.
 
 ## The loop, per unit
 
@@ -1005,3 +1005,34 @@ inventing a reconciliation.
 subject prefix (`data.statistics-` for a `finance.new-` row). `S(row_id, i)` raises immediately, so it
 costs one run — which is exactly the argument for reading slugs through the ledger rather than
 transcribing them.
+
+## What TGO added, 2026-08-27
+
+85 sourced rows of 124, 47 indicators. Eleventh unit running with nothing unmapped.
+
+**The unreadable-instrument problem has now appeared in four units (SSD, SWZ, TCD, TGO) and TGO is its
+purest form.** Both overarching strategies unheld, with the base unable to say whether two names denote
+one instrument or two; two decrees adopted at a single Council session, neither readable, and the
+parent fee decree held as an image scan with no text layer so the baseline rates are unreadable too;
+an anti-money-laundering law with no promulgation date, number or gazette reference; and rules on
+mobile commercial offers evidenced *solely in one line of the accounts of the company they bind*. The
+policy cell states the frame once — "two overarching instruments, neither readable, is the frame
+against which every delivery below has to be read" — and the rest inherit it.
+
+**Sequencing findings belong in the cell where the sequence happens, not in a summary.** Satellite
+spectrum royalties were amended while no satellite licence has been granted, twelve months after the
+operator listed the country as available: that goes in the satellite cell. Digital cadastral
+submission was made mandatory with no fallback, *before* the georeferencing that would give it a
+reliable base and four months after the positioning network that would underpin both was launched with
+no operator named: that goes in the land cell. Neither reads as a finding if written as a bare
+chronology.
+
+**Where the accounts describe one thing four incompatible ways, say so and give none.** Instant-payment
+participation is variously "integrated", "operational", "committed" and "authorised to open to the
+public" across four sources, and the counts are not one series. The cell says that, and adds that a
+single participation figure would be manufactured. Same discipline as TCD's three birth-registration
+totals.
+
+**Register terms still catch idiomatic prose.** "start-up ecosystem" tripped the jargon rule — the word
+is banned outright, including inside a compound where it reads naturally. Cheap to fix, worth
+remembering that the lint does not care about idiom.
