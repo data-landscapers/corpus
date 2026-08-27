@@ -1,11 +1,11 @@
 ---
 title: Egypt — monthly update, July – August 2026
-compiled: 2026-08-26
-period: 2026-07-01 to 2026-08-26
+compiled: 2026-08-27
+period: 2026-07-01 to 2026-08-27
 place: EGY
-ledger_rows: 92
+ledger_rows: 95
 not_held: 54
-record: fb9c53c520ff
+record: 1a45edb58773
 ---
 
 # Egypt: monthly update, July – August 2026

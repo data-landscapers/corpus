@@ -1,11 +1,11 @@
 ---
 title: Ethiopia — monthly update, July – August 2026
-compiled: 2026-08-26
-period: 2026-07-01 to 2026-08-26
+compiled: 2026-08-27
+period: 2026-07-01 to 2026-08-27
 place: ETH
-ledger_rows: 50
+ledger_rows: 52
 not_held: 5
-record: 64c7d5e127c4
+record: 012e934e83cf
 ---
 
 # Ethiopia: monthly update, July – August 2026
@@ -56,7 +56,7 @@ The regional transit corridor moved from agreement to build. Ethio telecom [ente
 ### Public debate and participation in policymaking
 
 <!-- narrative: governance--gov-discourse -->
-A project on [climate-change disinformation and information integrity in African digital ecosystems launched in August 2026, focused on Uganda and Ethiopia and supported by a UNESCO-led global initiative](https://cipesa.org/2026/08/cipesa-and-unesco-partner-on-project-to-strengthen-climate-change-information-integrity-in-africa/). It combines research mapping how climate disinformation spreads and who drives it with a fact-checking masterclass at the 2026 internet-freedom forum, online training for journalists and civil society, and tracking of African governments' communications ahead of the November 2026 climate conference. No budget or duration is stated.
+A project on [climate-change disinformation and information integrity across African digital environments launched in August 2026, focused on Uganda and Ethiopia and supported by a UNESCO-led global initiative](https://cipesa.org/2026/08/cipesa-and-unesco-partner-on-project-to-strengthen-climate-change-information-integrity-in-africa/). It combines research mapping how climate disinformation spreads and who drives it with a fact-checking masterclass at the 2026 internet-freedom forum, online training for journalists and civil society, and tracking of African governments' communications ahead of the November 2026 climate conference. No budget or duration is stated.
 <!-- /narrative -->
 
 ## Finance

@@ -1,11 +1,11 @@
 ---
 title: Angola — monthly update, July – August 2026
-compiled: 2026-08-26
-period: 2026-07-01 to 2026-08-26
+compiled: 2026-08-27
+period: 2026-07-01 to 2026-08-27
 place: AGO
-ledger_rows: 46
+ledger_rows: 48
 not_held: 7
-record: 913e4def4b98
+record: 159ad1476e28
 ---
 
 # Angola: monthly update, July – August 2026
@@ -144,6 +144,11 @@ The month's technology events were financial and commercial rather than industri
 
 <!-- narrative: capacity--capacity-literacy -->
 School computing continued to be delivered by installation count. The telecommunications minister [inaugurated a 25-computer laboratory serving 3,051 students at a polytechnic and said the programme behind it had by then installed more than 2,000 computers across 88 schools nationwide](https://angop.ao/noticias/educacao/alunos-do-ipas-ganham-laboratorio-de-informatica/). Both figures are the ministry's own, and the machines-to-students ratio at the one site it named is the part of the programme a national total cannot show. No budget, connectivity provision or maintenance arrangement is published.
+<!-- /narrative -->
+### Training and skills
+
+<!-- narrative: capacity--capacity-training -->
+A new technology centre [entered service in August](https://www.opais.ao/politica/soberania-digital-e-aposta-na-formacao-de-jovens-reforcadas-com-a-entrada-em-funcionamento-de-novo-centro-tecnologico/), framed by the ministry around protecting citizens' data and training young people. No intake, curriculum, cost or site detail is published, and the data-protection framing is the ministry's rather than a stated function of the centre.
 <!-- /narrative -->
 
 ## Inclusion
