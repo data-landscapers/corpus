@@ -17,17 +17,17 @@ document (`progress-report-redesign.md` §1) and are not in scope.
 ## Done
 
 ERI and ZAF were the pilots. This pass has since added, in order: **GNB, AGO, BDI, BEN, BFA, BWA,
-CAF, CIV, CMR, COD, COG, COM, CPV, DJI, DZA, EGY, ETH, GAB, GHA, GIN, GMB, GNQ, KEN, LBR, LBY, LSO, MAR** — 29 of 54, one commit each, all pushed.
+CAF, CIV, CMR, COD, COG, COM, CPV, DJI, DZA, EGY, ETH, GAB, GHA, GIN, GMB, GNQ, KEN, LBR, LBY, LSO, MAR, MDG** — 30 of 54, one commit each, all pushed.
 
 Yields so far, as a sense of shape: 21 indicators from GNB's 25 ledger rows, 43 from BDI's 74, 52
 from BWA's 107, 57 from BEN's 105, 64 from BFA's 131, 66 from AGO's 122, 43 from CAF's 92, 92 from
-CIV's 167, 73 from CMR's 121, 67 from COD's 123, 52 from COG's 103, 45 from COM's 117, 49 from CPV's 140, 43 from DJI's 70, 58 from DZA's 111, 66 from EGY's 199, 66 from ETH's 97, 58 from GAB's 120, 81 from GHA's 175, 59 from GIN's 109, 46 from GMB's 75, 42 from GNQ's 67, 93 from KEN's 219, 43 from LBR's 71, 64 from LBY's 84, 61 from LSO's 69, 79 from MAR's 137. Between three quarters and nine tenths of ledger rows map; the rest are placeholders with
+CIV's 167, 73 from CMR's 121, 67 from COD's 123, 52 from COG's 103, 45 from COM's 117, 49 from CPV's 140, 43 from DJI's 70, 58 from DZA's 111, 66 from EGY's 199, 66 from ETH's 97, 58 from GAB's 120, 81 from GHA's 175, 59 from GIN's 109, 46 from GMB's 75, 42 from GNQ's 67, 93 from KEN's 219, 43 from LBR's 71, 64 from LBY's 84, 61 from LSO's 69, 79 from MAR's 137, 44 from MDG's 67. Between three quarters and nine tenths of ledger rows map; the rest are placeholders with
 no source, or real instruments the frame has no question for (a telecoms statute, a broadcasting
 transition), and those correctly stay on the ledger and out of the report.
 
 ## Remaining
 
-25 country units: MDG, MLI, MOZ, MRT, MUS,
+24 country units: MLI, MOZ, MRT, MUS,
 MWI, NAM, NER, NGA, RWA, SDN, SEN, SLE, SOM, SSD, STP, SWZ, SYC, TCD, TGO, TUN, TZA, UGA, ZMB, ZWE.
 
 ## The loop, per unit
@@ -472,3 +472,23 @@ one hand and fixed lines and fibre on the other; those answer different frame qu
 in `infra.connect--mobile-penetration` and `infra.connect--national-fibre-backbone` respectively.
 That is the CIV rule about one row serving several indicators, applied to a statistical release
 rather than to an instrument.
+
+## What MDG added, 2026-08-27
+
+**Three units in a row with no unmapped sourced row, and the reason is the same each time: a ledger
+built of instruments the frame asks about.** LSO, MAR and MDG between them left nothing on the table
+but unsourced placeholders. The residue class named at the top of this file - a real instrument the
+frame has no question for - has not appeared since GNQ, which is worth knowing when estimating a unit:
+**the expected residue is the placeholder count and nothing else.**
+
+**A donor project row can be the evidence for three different indicators, and each use is a different
+number in the same document.** The connectivity project here carries a US$375m envelope (partner
+financing), 664,000 devices distributed (bridging divides) and a US$15m skills sub-component that is
+its own ledger row. Where a supervision record is the source, the sub-components are usually the facts
+the frame wants, not the headline envelope.
+
+**Where a country's own institution states an absence about itself, that is stronger evidence than a
+missing source.** The base's open-data row records three of four platforms tested and reachable and
+**no whole-of-government policy found**, and the finance ministry's own portal failing to resolve. That
+maps to `gov.policy--open-data-policy` as *No change* on a searched absence, and the four-platform test
+is what makes it a finding rather than a gap.
