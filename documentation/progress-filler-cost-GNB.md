@@ -56,7 +56,7 @@ those drafts stayed drafts.
 | Fetched | 285 |
 | Dropped | 57, on `reference.md` §7's closed vocabulary |
 | Held back by the cap | 589, recorded with URLs in the unselected register |
-| **Staged after the cap** | **259 selections — 97 baseline + 162 progress — over 205 distinct files**, filed as 80 in `GNB/baseline/` and 125 in `GNB/progress/` |
+| **Staged after the cap** | **259 selections — 97 baseline + 162 progress — over 205 distinct files**, filed as 80 in `GNB/baseline/` and 125 in `GNB/progress/`; **249 over 195 after the ten crossed progress files were withdrawn** — see *A third defect* below |
 | Wall clock | ~50 minutes, nine sub-agents concurrent (43 minutes for the slowest) |
 | Sessions | one |
 
@@ -79,7 +79,7 @@ document genuinely answering two indicators had to be taken away from one, which
 AGO needed an escape hatch to stop the arithmetic writing a `nil` it had not searched for,
 and why its own summary admitted the counts "understate coverage by exactly this much".
 GNB counts **selections, not files**: one survivor per URL, every selected row repointed
-at it, nothing decremented. 259 selections over 205 files, cap still auditable per
+at it, nothing decremented. 259 selections over 205 files as staged, cap still auditable per
 indicator, no indicator zeroed by bookkeeping, no invented judgement about which
 neighbour loses. **The sub-agents got there before the procedure did** — nine recorded a
 sibling's existing file in their own selected rows rather than re-staging it, and three
@@ -103,6 +103,62 @@ to exactly the same string, 22 left because they need the source URL and are OSI
 housekeeping job 81's. Partial date prefixes, which `reference.md` §3 requires padded:
 **10 found and padded**, with `date_precision` left honest. All three checks are now
 written into `PROGRESS-FILLER.md` §5.
+
+## A third defect, found after the record was written: fifteen crossed bodies
+
+*(2026-08-27, on OSINT's `notes-for-corpus.md` note 15, opened by its `update-wiki` ingest
+of the baseline half of this batch.)*
+
+**Fifteen of the 205 staged files carried another item's verbatim body under their own
+frontmatter.** The frontmatter was right, the `url:` was right, the filename was right,
+and a URL-index check passed on every one of them. OSINT's ingest found five while reading
+full text — three slices found them independently — and its parent-level title-token check
+over the other 69 baseline files found no sixth. That check is weak on short titles and it
+was checking the wrong half: **ten more sat in the 125 progress items**, which had not been
+carried, and this record's own numbers were counting them as delivered evidence.
+
+**What it costs is a falsified finding under a citation that checks out.** The `note:` is
+written from the body. GNB's ASYCUDA compendium item asserted that the document recorded
+Guinea-Bissau's off-site backup and disaster-recovery architecture — DR site, full
+failover, real-time replication, a six-hour delayed standby. Fetched and read, that passage
+is **Cambodia's**; Guinea-Bissau appears in the document once, in a list of programme
+countries. OSINT deleted the file before ingest, so the claim never entered the base.
+
+**It is one sub-agent, and the evidence says so plainly.** All fifteen fall inside the
+eleven `infra.capacity/connect/energy/store` indicators — one slice of the ~10–12
+`PROGRESS-FILLER.md` §6 hands to a sub-agent. Of that slice's 29 files, 24 carried the
+capture's own `URL:` line in the body and **15 of the 24 were wrong**; across every other
+slice, 30 files carried the line and **none was wrong**. The crossings chain rather than
+scatter — each file holds the body of the next selection in the slice's order — which is a
+shift along a list, the signature of a batch write at the end of a slice rather than a
+write as each body is fetched. §6 now says so, and §5 carries the check.
+
+**The check is cheap and it is now a script.** `scripts/lint-staged-queue.py` runs §5's
+four checks over a staged batch: the body's own `URL:` line against the frontmatter's
+(exact, and it caught all fifteen), then a structural pass for the files that carry no such
+line — title tokens against the body, the `url:` host and `publisher:` against it, the
+body's own opening heading, and a batch-internal search for whose body a title fits better
+than its own. Run against the recovered baseline half it returns the five OSINT found by
+hand and one further file — a 522-character UPU postal-addressing profile whose body is too
+short to repeat its own title — which is the false-positive rate at this size.
+
+**Disposition.** The ten progress files are **withdrawn from the hand-carry**, recorded in
+`logs/progress-filler/GNB-2026-08-27-misfiled.csv` with the frontmatter `url:`, the body's
+true one and what the body actually held; their rows are out of the selected register and
+the run CSV's `staged_progress` is down to what stands. They were not repaired: the `note:`
+on each was written from the wrong body, so the only sound thing in the file is the URL,
+and the leads are kept rather than the files. The bodies are recoverable at commit
+`3d8b48f` in the share if a later run wants them. **The four `infra.*` progress files
+carrying no `URL:` line were read by hand and hold their own bodies.**
+
+**So the numbers in this record are restated.** 249 selections over **195** files, not 259
+over 205: **80 baseline** (as carried, of which OSINT deleted two, repaired two and routed
+one to acquisition) and **115 progress**. Two indicators are left with nothing admitted at
+all once OSINT's dispositions are counted beside the withdrawals —
+`infra.connect--mobile-affordability` and `infra.energy--rural-electrification` — and
+neither is a `nil`: both were searched, both returned candidates, and the staging was void.
+They stay `staged` in the run CSV with the count at zero, and the frame/held difference at
+§1 will present them again as gaps on the next pass, which is the correct outcome.
 
 ## Capture quality, declared
 
@@ -172,7 +228,8 @@ sides.
 standing positions and the statements of absence — the layer the progress items attach to,
 and the half that does not age. Deferring the movement layer costs the report its most
 recent month and nothing structural. **The file counts and the selection counts differ and
-both are right**: 97 baseline selections over 80 files, 162 progress selections over 125,
+both are right**: 97 baseline selections over 80 files, 162 progress selections over 125
+(152 over 115 after the withdrawals),
 because five documents answer one indicator's baseline and another's progress and are
 staged once, under `baseline/`. Trading coverage for a week remains Bill's call, not the
 run's; what has changed is that the trade is now cheap to make.

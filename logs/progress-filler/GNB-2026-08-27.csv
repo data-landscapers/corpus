@@ -23,14 +23,14 @@ gov.discourse--non-governmental-contribution-to-national-policy,Governance — P
 finance.budget--sustainable-domestic-financing-of-digital-transformation,Finance — Domestic budget appropriations and expenditure: Sustainable domestic financing of digital transformation,2,11,3,1,2,0,0,,staged,0
 finance.mou--strategic-relationships,Finance — MoUs and other agreements: Strategic relationships,2,12,5,1,2,1,1,headline-only-stub,staged,0
 infra.connect--mobile-penetration,ICT Infrastructure — Connectivity: Mobile penetration,2,11,4,1,1,6,3,already-seen;headline-only-stub;fetch-blocked,staged,4
-infra.connect--mobile-affordability,ICT Infrastructure — Connectivity: Mobile affordability,2,12,3,1,1,8,2,already-seen;headline-only-stub,staged,4
-infra.connect--internet-exchange-points,ICT Infrastructure — Connectivity: Internet Exchange Points,2,15,3,1,2,12,0,,staged,4
-infra.store--local-data-centre-capacity-all-providers,ICT Infrastructure — Data Storage: Local data centre capacity (all providers),2,13,2,1,1,11,0,,staged,0
-infra.store--local-data-centre-capacity-national-providers,ICT Infrastructure — Data Storage: Local data centre capacity (national providers),2,12,3,1,2,9,0,,staged,0
+infra.connect--mobile-affordability,ICT Infrastructure — Connectivity: Mobile affordability,2,12,3,1,0,8,2,already-seen;headline-only-stub,staged,4
+infra.connect--internet-exchange-points,ICT Infrastructure — Connectivity: Internet Exchange Points,2,15,3,1,0,12,0,,staged,4
+infra.store--local-data-centre-capacity-all-providers,ICT Infrastructure — Data Storage: Local data centre capacity (all providers),2,13,2,1,0,11,0,,staged,0
+infra.store--local-data-centre-capacity-national-providers,ICT Infrastructure — Data Storage: Local data centre capacity (national providers),2,12,3,1,1,9,0,,staged,0
 infra.store--off-site-backup-capacity,ICT Infrastructure — Data Storage: Off-site backup capacity,2,13,3,1,2,10,0,,staged,0
-infra.energy--sufficient-energy-and-water-for-data-centres,ICT Infrastructure — Energy: Sufficient energy and water for data centres,2,12,2,1,1,9,1,inadmissible-origin,staged,0
-infra.energy--grid-reliability,ICT Infrastructure — Energy: Grid reliability,2,14,3,1,2,9,2,inadmissible-origin;duplicate-in-run,staged,0
-infra.energy--rural-electrification,ICT Infrastructure — Energy: Rural electrification,2,15,3,1,2,12,0,,staged,0
+infra.energy--sufficient-energy-and-water-for-data-centres,ICT Infrastructure — Energy: Sufficient energy and water for data centres,2,12,2,1,0,9,1,inadmissible-origin,staged,0
+infra.energy--grid-reliability,ICT Infrastructure — Energy: Grid reliability,2,14,3,1,0,9,2,inadmissible-origin;duplicate-in-run,staged,0
+infra.energy--rural-electrification,ICT Infrastructure — Energy: Rural electrification,2,15,3,1,0,12,0,,staged,0
 infra.capacity--robustness-of-government-hardware-and-software,ICT Infrastructure — Technical Capacity: Robustness of government hardware and software,2,13,3,1,2,8,2,already-seen;inadmissible-origin,staged,0
 infra.capacity--local-capacity-to-maintain-manage-and-develop-government-systems,"ICT Infrastructure — Technical Capacity: Local capacity to maintain, manage and develop government systems",2,14,3,1,2,11,0,,staged,0
 dpi.exchange--national-data-exchange-system,DPI — Data Exchange: National data exchange system,2,11,4,1,2,7,1,fetch-blocked,staged,1
