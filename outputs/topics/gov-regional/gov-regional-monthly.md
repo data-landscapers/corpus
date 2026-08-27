@@ -4,7 +4,7 @@ compiled: 2026-08-27
 period: 2026-07-01 to 2026-08-27
 subject: gov.regional
 places: DZA; AGO; BEN; BWA; BDI; CAF; COM; COG; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GNB; KEN; LBR; LBY; MDG; MWI; MLI; MUS; MAR; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; SSD; TGO; TUN; UGA; ZMB; ZWE
-record: 9d815c05406c
+record: e8cfa13d4d3c
 ---
 
 # Regional collaboration: monthly update, July 2026
@@ -68,6 +68,8 @@ On 31 July the ministry's final technical committee of the administrative year n
 ## Gambia
 
 The revenue authority [hosted the seventh ATAF Heads of Tax Administrations Master Class in Banjul on 23-24 July 2026](https://www.gra.gm/news/74649367-8629-11f1-b086-029254d29bb1). The Forum's executive secretary argued from Rwanda, Kenya and Morocco that digital systems deliver only alongside governance reform — "technology alone collects nothing" — and [pressed for a united African position at the United Nations](https://foroyaa.net/african-tax-officials-meet-in-gambia-to-strengthen-revenue-mobilisation/).
+
+The bilateral channel that bears on connectivity moved from signature to work. The June 2026 telecommunications and digital-economy memorandum with Senegal [went into implementation around four priorities — connectivity, cybersecurity, skills and digital transformation — with the Senegalese telecommunications and digital minister travelling to Banjul to agree the first joint work, the two regulators having separately deepened cooperation on frequency coordination, service quality and cross-border roaming](https://www.wearetech.africa/fr/fils/actualites/tech/senegal-gambie-la-cooperation-numerique-se-concretise-autour-de-quatre-priorites). The structural case for it is the country's own: a limited terrestrial fibre build and dependence on a single submarine cable for international access, with only limited terrestrial redundancy through Senegal. No work programme, budget or timetable is published.
 
 ## Ghana
 
@@ -156,6 +158,8 @@ São Tomé and Príncipe was one of six countries at the [second Lusophone Afric
 ## Senegal
 
 Regionally, Senegal became [one of 29 founding states of an intergovernmental AI-governance body on 16 July](https://www.seneweb.com/fr/news/Technologie/intelligence-artificielle-le-senegal-parmi-les-29-etats-fondateurs-de-la-waico_n_498704.html), and joined the approval on 31 July of [three ECOWAS statistical methodological guides](https://www.ecowas.int/ecowas-concludes-meeting-of-directors-general-of-national-statistical-institutes-by-adopting-new-guidelines-for-regional-statistical-harmonization/).
+
+The bilateral channel moved from signature to work. The June 2026 telecommunications and digital-economy memorandum with the Gambia [went into implementation around four priorities — connectivity, cybersecurity, skills and digital transformation — with the telecommunications and digital minister travelling to Banjul to agree the first joint work, and the two regulators separately deepening cooperation on frequency coordination, service quality and cross-border roaming](https://www.wearetech.africa/fr/fils/actualites/tech/senegal-gambie-la-cooperation-numerique-se-concretise-autour-de-quatre-priorites). What Senegal supplies in that relationship is transit: the Gambia's terrestrial fibre build is limited and it depends largely on a single submarine cable for international access, with only limited terrestrial redundancy through Senegal. No work programme, budget or timetable is published.
 
 ## Seychelles
 

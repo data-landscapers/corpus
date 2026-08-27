@@ -4,7 +4,7 @@ compiled: 2026-08-27
 period: 2026-07-01 to 2026-08-27
 subject: infra.cybersec
 places: DZA; AGO; BEN; BFA; BDI; CMR; CPV; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NGA; SEN; SYC; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 8886218fdb71
+record: 3c392a467499
 ---
 
 # Cybersecurity: monthly update, July 2026
@@ -114,6 +114,8 @@ The presidency's website was [defaced on 18 July with a 5 BTC ransom demand and 
 
 A vendor threat report published on 13 August put the exposure at the ordinary end rather than the novel one: [malicious email attachments dominated, 46.2% of them scripts, quick-response-code phishing rose 145% between the second half of 2025 and the first of 2026, exploitation of a 2017 Office vulnerability more than doubled, and one loader became the country's fourth most-detected malware family](https://techtrends.africa/eset-threat-report-kenyan-organisations-are-being-attacked-by-the-basics/). The figures are the vendor's own detections, not a national incident series.
 
+The instrument establishing the new agency also reached the base this month, three months after it took effect. The [State Corporations (National Cybersecurity Agency) Order, 2026 — Legal Notice 89 of 2026, gazetted and commenced on 15 May 2026 — makes it an autonomous body corporate headquartered in Nairobi City County under the direction of the Cabinet Secretary for internal security, charged with formulating national cybersecurity strategy, auditing and certifying the resilience of designated critical information infrastructure, running the National Cybersecurity Operations Centre and maintaining a Cybersecurity Centre of Excellence, with a board seating the internal-security, Treasury and ICT principal secretaries alongside one academic and one private-sector appointee](https://new.kenyalaw.org/akn/ke/act/ln/2026/89/eng@2026-05-15). Nothing in the record shows it exercising any of those powers yet.
+
 ## Lesotho
 
 The [interim Lesotho National Computer Security Incident Response Team](https://www.gov.ls/ict/ministry-of-information-communications-science-technology-and-innovation-launched-lescomcsirt-and-inaugural-national-cybersecurity-forum/) and the inaugural National Cybersecurity Forum were launched in Maseru on 29 July 2026. The forum is described by the Lesotho Communications Authority as a standing collaboration across government, industry, regulators, financial institutions and telecommunications providers. The response team is thus operating ahead of its enabling statute — the Cybercrime and Cybersecurity Bills it would sit under remain before the National Assembly — and on no published timetable. The ministry also reported a first Chief Information Security Officer appointed across government and a national Security Operations Centre being stood up.
@@ -149,6 +151,8 @@ August supplied the first figure for what any of this is against: [more than 4,0
 ## Morocco
 
 The [national cybersecurity strategy to 2030 is now held in full: four pillars — governance, cyberspace resilience, capacity development and regional cooperation — with 11 objectives, 26 initiatives and 60 actions](https://www.dgssi.gov.ma/sites/default/files/publications/pdf/2024-10/Strat%C3%A9gie%20Nationale%20de%20Cybers%C3%A9curit%C3%A9%202030.pdf), succeeding the first strategy of 2012. Its workforce commitments carry no numbers, and [a separate held source dates a national cybersecurity strategy to 2023 with US$100m earmarked and an agency created](https://www.mmsp.gov.ma/fr/actualites/le-royaume-du-maroc-%C3%A9lu-membre-au-conseil-administratif-de-lunion-africaine-des-t%C3%A9l%C3%A9communications-pour-la-p%C3%A9riode-2027-2031) — whether the two are the same instrument is not established.
+
+Against that architecture the month produced a claimed breach of the security services themselves. A hacker group said on 24 August that it had [published the personal data of 70,000 police and intelligence agents, a leak former members of the intelligence services judge at least partly authentic and which discloses details not previously public, including the date of birth of the head of the police and internal intelligence](https://www.rfi.fr/fr/afrique/20260827-maroc-les-donn%C3%A9es-de-70-000-agents-de-la-police-et-du-renseignement-publi%C3%A9es-apr%C3%A8s-une-nouvelle-cyberattaque). Whether it is a new breach is contested: a Moroccan outlet calls it an assemblage of data already compromised in earlier hacks, and Moroccan media have covered it only marginally. The same group claimed the 2025 breach of the social security fund. No official confirmation, notification or investigation is on record, which is the part that bears on the strategy above rather than the claim itself.
 
 ## Mozambique
 

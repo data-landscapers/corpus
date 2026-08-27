@@ -4,7 +4,7 @@ compiled: 2026-08-27
 period: 2026-07-01 to 2026-08-27
 subject: gov.policy
 places: BEN; BWA; BFA; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; STP; SEN; SYC; SLE; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 6ca296570c71
+record: 99ea624b3f31
 ---
 
 # Strategies, plans and policies: monthly update, July 2026
@@ -226,3 +226,5 @@ The head of the Presidential Delivery Unit said on 17 July 2026 that Zambia's Na
 ## Zimbabwe
 
 The ICT ministry committed on 29 July to an artificial-intelligence ethics framework tabled by the end of the first quarter of 2027, publishing neither a standard nor a compliance deadline ([launch account](https://spikedmedia.co.zw/zimbabwe-bets-on-digital-gold-inside-the-launch-of-ndarama-and-the-push-for-ai-sovereignty/)).
+
+On children online the country has taken the policy route where its neighbours have taken the legislative one. Zimbabwe [has adopted a policy covering cyber-harassment, sextortion and data protection, while Gabon has fixed digital majority at 16 by ordinance with platform design duties attached and Rwanda is preparing a restriction on under-16s](https://www.agenceecofin.com/actualites/2708-141074-en-afrique-comme-ailleurs-les-etats-s-emparent-de-la-protection-des-mineurs-sur-les-reseaux-sociaux). The policy text and its adoption date are not held, only a comparative account of it, and no instrument, supervisory body or enforcement action is on record — which is the distinction the comparison turns on, since the constraint reported across the region is enforcement rather than law.

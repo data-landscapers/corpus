@@ -4,7 +4,7 @@ compiled: 2026-08-27
 period: 2026-07-01 to 2026-08-27
 subject: finance.new
 places: AGO; BEN; BFA; TCD; COG; CIV; COD; EGY; SWZ; ETH; GHA; GIN; KEN; LBR; MWI; MLI; MUS; MAR; MOZ; NGA; RWA; STP; SEN; SLE; ZAF; TZA; TGO; UGA; ZMB; ZWE
-record: 48e48e34f301
+record: 32cc09d392e9
 ---
 
 # New investments: monthly update, July 2026
@@ -101,6 +101,8 @@ The digital foundations programme runs to 2027 with the European Union delegatio
 ## Nigeria
 
 A [US$110m debt facility](https://www.legit.ng/business-economy/industry/1722221-fg-launches-110-million-debt-financing-tech-startups-opens-application-nigerians/) for technology startups opened for applications on 30 July.
+
+The lending frame around all of it was settled earlier in the summer and its numbers reached the public in two different ways. The World Bank's Executive Directors [endorsed the country partnership framework for FY26-FY32 on 29 June and approved a US$1.25bn development policy operation alongside it, whose reform programme includes modernising the regulatory framework for the digital economy and e-governance](https://www.worldbank.org/en/news/press-release/2026/06/29/new-country-partnership-framework-for-nigeria-and-financing-to-accelerate-investment-and-job-creation). The framework itself [sets an indicative IDA envelope of about US$5.7bn over the IDA21 period on top of an ongoing programme of over US$16.9bn, and puts its digital commitment as broadband access for more than 58 million Nigerians against a stated baseline of 39% of the population using the internet in 2023 and fixed broadband penetration of 8.4%](https://documents1.worldbank.org/curated/en/099060426120529325/pdf/BOSIB-3d7ed8de-a532-4e5b-8f46-75c1c0e5de1c.pdf) — and attaches no sum to that target. The sums circulating against it, [a US$500m programme for resilient digital infrastructure and a second US$500m pipeline programme, come from a fact sheet handed out at a Lagos forum on 19 August rather than from the framework document, which the newspaper carrying them states on the record](https://punchng.com/wbank-targets-32-million-nigerians-with-electricity-by-2032/). A target with no line against it and a line with no document behind it are different problems, and this month produced one of each.
 
 ## Rwanda
 

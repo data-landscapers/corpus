@@ -4,7 +4,7 @@ compiled: 2026-08-27
 period: 2026-07-01 to 2026-08-27
 subject: infra.store
 places: DZA; AGO; BWA; BFA; CMR; CAF; COG; CIV; DJI; COD; EGY; ETH; GAB; GMB; GHA; KEN; LSO; LBR; MWI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; SLE; SOM; ZAF; TZA; UGA; ZWE
-record: f6de5300938d
+record: 170fbbbad4ff
 ---
 
 # Data Storage: monthly update, July 2026
@@ -143,6 +143,8 @@ The state put its own instrument behind the same argument on 5 August, [signing 
 
 The sovereign cloud acquired its instruments and a start date. Four were signed on 4 August — [a cloud computing guideline, a cloud technical guideline, a digital infrastructure assurance framework and a cloud investment strategy — with certification of cloud and artificial-intelligence infrastructure providers to begin in October, oversight vested in a new governance committee and a stated ambition to serve West and Central Africa](https://cioafrica.co/nigeria-begins-sovereign-cloud-certification-in-october/). What certification will require of a provider is not published.
 
+The month's largest capacity announcement is offshore-financed and not yet sited. The operator group [named the UAE backer of its Africa Data Hub Holding vehicle on 27 August as Tarek Al Ashram, founder of the Dubai colocation operator Gulf Data Hub, with its own connectivity business a shareholder supplying open-access connectivity and go-to-market support](https://www.mtn.com/mtn-group-advances-africas-ai-ready-digital-infrastructure-ecosystem-through-strategic-partnership/), the vehicle having been named in the group's half-year results booklet three days earlier without the partner behind it. The [first phase targets 150MW of AI-ready capacity across South Africa and Nigeria](https://capacityglobal.com/news/mtn-targets-150mw-of-ai-data-centre-capacity/), with no split between the two countries, no Nigerian site, no cost and no commissioning date stated — a number to hold against the 50 to 56 MW the country's twenty-six existing facilities actually carry.
+
 ## Rwanda
 
 The data centre and cloud service directives governing the national facility are unchanged, and their [own text carries no date on its face](https://guidelines.risa.gov.rw/books/data-center-and-cloud-services-directives) — [the ministry's sector plan is what dates them to 2023](https://www.minict.gov.rw/fileadmin/user_upload/minict_user_upload/Documents/Strategies/ICT__SSP_2024-2029_.pdf). No compliance or enforcement record is published.
@@ -161,6 +163,8 @@ The commercial estate is expanding on the operator's own numbers rather than on 
 
 
 The expansion also drew its first organised objection. A civil-society coalition [submitted concerns to the human rights commission on 10 August calling for a halt on data-centre developments pending transparent public participation, citing strain on scarce water, land and electricity](https://climatejusticecoalition.org/cjc-public-participation-in-south-africas-data-centre-expansion/). No participation process, commission response or moratorium is on record, which is what makes the objection the only thing here that can be dated.
+
+Two compute announcements closed the month, both making sovereignty the argument and both resting on the announcer's own figures. Three partners [launched what they describe as Africa's most powerful AI cloud, a 7.2 EFLOPS deployment on more than 50 NVIDIA B300 HGX servers carrying over 400 GPUs in carrier-neutral Tier-3+ colocation, pitched as keeping African training and inference workloads, and the data behind them, resident on the continent](https://techafricanews.com/2026/08/27/south-africa-partnership-launches-africas-most-powerful-sovereign-ai-cloud/); no independent benchmark, customer, price or site accompanies the number. Separately the mobile operator group [named the UAE backer of its Africa Data Hub Holding vehicle as Tarek Al Ashram, founder of the Dubai colocation operator Gulf Data Hub](https://www.mtn.com/mtn-group-advances-africas-ai-ready-digital-infrastructure-ecosystem-through-strategic-partnership/), three days after its own half-year results booklet named the vehicle without the partner behind it, [with a first phase targeting 150MW across South Africa and Nigeria](https://capacityglobal.com/news/mtn-targets-150mw-of-ai-data-centre-capacity/) and no split, site, cost or commissioning date stated. Against those, the one deployment in the country with an externally verified figure is the Cape Town artificial-intelligence factory, which [entered the June 2026 global supercomputer list at rank 36 on 285,696 cores and 77.79 PFlop/s measured against a 102.16 PFlop/s theoretical peak](https://www.top500.org/system/180464/).
 
 ## Tanzania
 

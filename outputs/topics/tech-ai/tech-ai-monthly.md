@@ -4,7 +4,7 @@ compiled: 2026-08-27
 period: 2026-07-01 to 2026-08-27
 subject: tech.ai
 places: DZA; AGO; BEN; BFA; BDI; CMR; CPV; COM; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GHA; GIN; KEN; LSO; LBR; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: a40289fdb83a
+record: a78ea7806b05
 ---
 
 # AI: monthly update, July 2026
@@ -186,6 +186,8 @@ Nothing moved on the national AI policy, the risk-based regime inside the digita
 The activity was at the state level and abroad. Anambra State [set out a Vision 2030 push on artificial intelligence and paperless government that its own ICT agency says is constrained by weak connectivity and computing capacity](https://www.itweb.africa/article/anambras-2030-ai-push-faces-connectivity-test/RgeVDvPRkVaMKJN3), with no budget, procurement, delivery date or named system published. The federal IT agency [signed two memoranda in Toronto with Canadian firms on financial inclusion, local AI infrastructure, technology transfer and digital skills](https://www.wearetech.africa/fr/fils/actualites/tech/le-nigeria-s-engage-avec-deux-entreprises-canadiennes-pour-renforcer-l-ia-et-la-finance-numerique), and separately [pushed a National Sovereign Cloud initiative against a stated position in which over 85% of workloads run on public cloud largely hosted abroad](https://punchng.com/nigeria-seeks-local-cloud-capacity-to-cut-data-costs/). None of the three carries a value, a timetable or a delivery commitment.
 
 The month's one national artificial-intelligence programme is a vendor's. A platform company [launched an AI Academy with the communications and digital economy ministry, the national skills programme, the artificial-intelligence research centre and a research network](https://techtrends.africa/meta-fmcide-3mtt-and-rain-partner-to-accelerate-ai-skills-and-innovation-in-nigeria/), combining a startup pitch competition, skills courses and a six-week developer bootcamp; ten startups are shortlisted to pitch at a Lagos exhibition on 3 September, with [two winners receiving US$5,000 in cash, US$2,000 in the company's own advertising credits and a trip to its summit in Istanbul](https://techtrends.africa/meta-fmcide-3mtt-and-rain-partner-to-accelerate-ai-skills-and-innovation-in-nigeria/). No cohort size, curriculum, cost or public accounting of the sponsor's role is stated, and part of the prize is denominated in the sponsor's inventory.
+
+The one domestically built model to ship this month went the other way, at a research conference rather than a ministry. A Nigerian startup [released version 2.5 of its African speech-recognition model at the 2026 Deep Learning Indaba in Lagos, supporting bilingual recognition across 12 African language pairs and trilingual Kinyarwanda-English-French recognition, aimed at speakers who switch languages mid-sentence](https://www.itweb.africa/article/intron-launches-african-speech-model/JBwEr7n3WzlM6Db2). The language-pair count and the error rates are the developer's own and no independent evaluation is held.
 
 ## Rwanda
 

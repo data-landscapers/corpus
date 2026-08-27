@@ -3,15 +3,21 @@ title: Digitalisation of sub-national government — monthly update, July 2026
 compiled: 2026-08-27
 period: 2026-07-01 to 2026-08-27
 subject: digital.localgov
-places: BFA; CMR; COD; EGY; SWZ; ETH; GAB; GHA; GIN; MWI; MLI; NAM; NGA; SOM; ZAF; TZA; TGO; ZMB; ZWE
-record: 93f396ffde28
+places: AGO; BFA; CMR; COD; EGY; SWZ; ETH; GAB; GHA; GIN; MWI; MLI; NAM; NGA; SOM; ZAF; TZA; TGO; ZMB; ZWE
+record: 38c674e98975
 ---
 
 # Digitalisation of sub-national government: monthly update, July 2026
 
-*19 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*20 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
+
+## Angola
+
+Sub-national digitalisation in this window is policing infrastructure. The interior ministry [laid the foundation stone for an Integrated Public Security Centre in Saurimo, Lunda-Sul, on 30 July](https://angop.ao/noticias/sociedade/cisp-sera-instalado-na-lunda-sul/), with more than 100 cameras on the city's main arteries in a first phase and tooling for occurrence management, traffic management, city video surveillance, intelligent-camera monitoring and criminal investigation across Saurimo, Cassengo and Muanguenji; the centres' director-general said the expansion is under way in almost every province and is meant to move policing and investigation from the traditional model to one in which technology is the base of police activity.
+
+What is being replicated is visible in the standard build. Cabinda became the fifth province to get a centre when the interior minister [inaugurated it on 9 December 2025 with a 24-hour command and video-surveillance room answering the 111 emergency number, 184 cameras carrying facial recognition, number-plate reading and protection of designated strategic state sites, and 180 staff](https://cabinda.gov.ao/web/noticias/cisp-or-centro-integrado-de-seguranca-publica-de-cabinda-inaugurado-pelo-ministro-do-interior). No data-protection basis, retention rule or supervisory authority is named for any of that estate, and the data-protection agency's own organic law was [still out to consultancy in April](https://c2a.portais.gov.ao/uploads/Td_Rs_Consultoria_para_Elaboracao_da_Lei_Organica_da_Agencia_de_Proteccao_de_Dados_5a7f75b595.pdf).
 
 ## Burkina Faso
 

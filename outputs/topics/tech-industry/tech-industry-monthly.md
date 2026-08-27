@@ -4,7 +4,7 @@ compiled: 2026-08-27
 period: 2026-07-01 to 2026-08-27
 subject: tech.industry
 places: DZA; AGO; BEN; BWA; CPV; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; LBR; MUS; NER; NGA; RWA; ZAF; TGO; ZMB; ZWE
-record: dbe16d5f3018
+record: 678c8ce4a512
 ---
 
 # ICT Industry: monthly update, July 2026
@@ -99,6 +99,8 @@ The sector's transformation body lost its chair. The communications minister [re
 
 
 The informal economy became a data product. A listed payments company [began selling near-real-time item-level intelligence on informal retail, drawn from a point-of-sale network of over 90,000 spaza shops and taverns and 10,500 checkouts, to consumer-goods brands, wholesalers and financiers](https://www.itweb.co.za/article/lesaka-brings-data-science-to-sas-spaza-economy/KjlyrvwBrAAqk6am). The network figures are the company's own, and no consent basis or data-protection assessment for reselling merchant transaction data is stated.
+
+Platform transport worked the other end of the same problem — getting drivers inside a licensing regime rather than getting data out of them. An e-hailing operator [took its compliance programme to the provinces, holding a North West regulatory engagement in Rustenburg on 18 August attended by more than 150 operators and a Western Cape transport dialogue in Cape Town on 21 August at which the provincial mobility department's director of licensing and adjudication undertook to add e-hailing as a service option on the operating-licence application; the North West provincial regulatory entity put its pending operating-licence backlog at 3,000 to 5,000 applications](https://www.itweb.co.za/article/bolt-takes-e-hailing-compliance-push-to-provinces/RgeVDvPRkmKMKJN3). The account is the platform's own and the undertaking is not yet an amended form.
 
 ## Togo
 

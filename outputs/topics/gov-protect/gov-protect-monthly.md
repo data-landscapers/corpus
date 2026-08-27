@@ -3,13 +3,13 @@ title: Data protection — monthly update, July 2026
 compiled: 2026-08-27
 period: 2026-07-01 to 2026-08-27
 subject: gov.protect
-places: DZA; AGO; BWA; BFA; BDI; CIV; DJI; COD; EGY; SWZ; ETH; GMB; GHA; GIN; KEN; LBR; MWI; MLI; MUS; MAR; MOZ; NAM; NGA; SEN; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 684de8aaa813
+places: DZA; AGO; BWA; BFA; BDI; CIV; DJI; COD; EGY; SWZ; ETH; GMB; GHA; GIN; KEN; LBR; MWI; MLI; MUS; MAR; MOZ; NAM; NGA; RWA; SEN; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: ff3b7e9480a0
 ---
 
 # Data protection: monthly update, July 2026
 
-*34 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*35 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -126,6 +126,12 @@ Its other August move was institutional rather than adversarial: the commission 
 
 
 A civil-society platform began watching the same election from the data side, [tracking parties' websites and social media for privacy violations and access restrictions, piloted at the 15 August state governorship poll](https://www.nationalrecord.com.ng/citad-launches-pawsom-monitor-to-track-digital-rights-breaches-ahead-of-2027-elections/). No findings from the pilot are published.
+
+Child protection online entered the record as a consultation rather than a rule. Nigeria is [consulting on age limits, identity verification and platform liability, one of several African states moving from a minimum age for opening an account towards design duties on the platforms themselves](https://www.agenceecofin.com/actualites/2708-141074-en-afrique-comme-ailleurs-les-etats-s-emparent-de-la-protection-des-mineurs-sur-les-reseaux-sociaux), against an African Union child online safety policy of 2024 asking states to require protection by design and by default, risk assessments, researcher access to platform data and independent oversight. No draft instrument, closing date or responsible body is named, and the constraint reported across the region is enforcement rather than law.
+
+## Rwanda
+
+Rwanda is [preparing a restriction on social media use by under-16s](https://www.agenceecofin.com/actualites/2708-141074-en-afrique-comme-ailleurs-les-etats-s-emparent-de-la-protection-des-mineurs-sur-les-reseaux-sociaux), one of several African measures moving from a minimum age for opening an account towards design duties on the platforms themselves — Gabon's February 2026 ordinance fixing digital majority at 16 and additionally obliging platforms to limit publication and interaction functions, disable contacts from unidentified users by default and provide age verification. The African Union's 2024 child online safety policy already asks states to require protection by design and by default, risk assessments, personal-data safeguards, researcher access to platform data and independent oversight. No draft text, sponsoring body or timetable is named here, and the constraint reported across the region is enforcement rather than law.
 
 ## Senegal
 

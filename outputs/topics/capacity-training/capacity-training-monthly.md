@@ -4,7 +4,7 @@ compiled: 2026-08-27
 period: 2026-07-01 to 2026-08-27
 subject: capacity.training
 places: AGO; BEN; BWA; BFA; BDI; CMR; COM; COG; CIV; DJI; COD; EGY; SWZ; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; TZA; TUN; UGA; ZMB; ZWE
-record: 77dc61af48c6
+record: d458c33b2454
 ---
 
 # Training and skills: monthly update, July 2026
@@ -88,6 +88,8 @@ The [software-engineering school Holberton opened its Conakry campus on 16 July 
 ## Kenya
 
 The 117th digital hub was [commissioned in Baringo on 20 July](https://techafricanews.com/2026/07/20/kenya-launches-117th-jitume-digital-hub-to-expand-digital-access-in-baringo-county/) on the ceremony series, against a separate installed-base series of about 350 that the programme's own officials also use.
+
+Certification reached the platform economy from the other direction, in one county and at small scale. A ride-hailing operator and the Mombasa county government [launched a programme to license 400 delivery riders through the national Recognition of Prior Learning framework, the operator committing KES 1.5 million: riders complete 21 days of accredited training at a certified driving school before the transport and safety authority licenses them on demonstrated competency, under a January 2026 memorandum covering compliance, safety, youth employment and platform adoption, and the operator will share trip and demand data with the county for infrastructure planning including the siting of electric-vehicle charging points](https://techcabal.com/2026/08/27/bolt-mombasa-formalise-400-delivery-riders-training-and-licences/). Four hundred riders is set against a sector a 2025 parliamentary report puts at more than two million, and no data-sharing agreement, retention rule or privacy basis for the trip and demand data accompanies it.
 
 ## Lesotho
 
@@ -175,6 +177,8 @@ The information technology sector education and training authority was [referred
 The pipeline that authority sits in was reviewed on 14 August. A development bank's report with the higher education department, philanthropically funded, finds [the route from school through universities and technical colleges into employment constrained at both ends — young people arriving without the foundational digital skills the workplace needs, and employers unable to fill digital vacancies alongside high unemployment](https://www.worldbank.org/en/news/feature/2026/08/14/from-demand-to-delivery-strengthening-south-africas-digital-skills). Its finding is that the mismatch is structural and will not correct itself. That is a verdict on the strategy already under review on this ledger rather than a new instrument.
 
 One intervention was announced against that pipeline, at the far end of the country and five months out. A networking vendor's academy and a private group agreed with the Northern Cape education department to take [networking, cyber security and artificial-intelligence courses into 235 schools as extracurricular classes for grades 10 to 12 from February 2027](https://www.itweb.co.za/article/cisco-hanley-group-bring-digital-skills-training-to-northern-cape-schools/raYAyqorGPEMJ38N), inside a global programme the vendor says has already trained more than 600,000 South Africans. No learner target, cost, funding split, teacher-training provision or certification pathway accompanies it, and the training figure is the vendor's own.
+
+At the other end of the pipeline, industry began paying for places itself. Two domestic firms [joined a data-centre operations academy as industry partners and are sponsoring a full candidate cohort for its 2026 intake, the first South African firms to fund a whole cohort, one opening a newly launched Midrand OEM training facility and the other a live operational data centre to supply the practical component of a graduate-to-employment pipeline](https://datacentresafrica.com/master-power-technologies-and-digital-parks-africa-join-ibtc-dc-academy-as-key-ecosystem-partners/), the sponsoring founder framing it as a recruitment expense rather than a training one — which is the clearest statement yet of why the estate's operators are not waiting for the state pipeline above. No cohort size, placement rate or cost per place is published.
 
 ## South Sudan
 

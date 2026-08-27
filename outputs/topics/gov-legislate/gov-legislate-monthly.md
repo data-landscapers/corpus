@@ -3,13 +3,13 @@ title: Legislation and regulation — monthly update, July 2026
 compiled: 2026-08-27
 period: 2026-07-01 to 2026-08-27
 subject: gov.legislate
-places: DZA; AGO; BWA; BFA; BDI; CMR; CPV; CAF; COG; CIV; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; SEN; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 8cc889d59dc6
+places: DZA; AGO; BWA; BFA; BDI; CMR; CPV; CAF; COG; CIV; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 52d2ae1c128b
 ---
 
 # Legislation and regulation: monthly update, July 2026
 
-*46 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*47 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -112,6 +112,8 @@ On 11 July nine civil-society organisations declared the broadcasting authority'
 On 23 July a national workshop validated by consensus five implementing texts on the digitalisation of teaching — two decrees, two orders and a decree creating a basic computing certificate — and forwarded them to the competent authorities with recommendations. They are technically validated and not adopted ([close of the workshop](https://agpgabon.ga/gabon-education-cloture-de-latelier-consacre-au-cadre-reglementaire-de-la-digitalisation-des-enseignements/)).
 
 The month's other legislative movement is procedural rather than expressive. A justice ministry commission [submitted a draft Code of Civil Procedure on 11 August](https://agpgabon.ga/gabon-lavant-projet-du-nouveau-code-de-procedure-civile-remis-au-ministre-de-la-justice), a rewrite of the 1977 ordinance running to more than 800 pages that would let procedural filings be made and held electronically, introduce secure digital tools, and harmonise with the OHADA uniform acts. Professional consultation and parliamentary debate are still ahead, and the draft text is not held.
+
+An earlier instrument reached the base this month and it is the furthest-going measure of its kind reported in the region. An ordinance of February 2026 [fixes digital majority at 16 and obliges platforms to limit certain publication and interaction functions, to disable contacts from unidentified users by default and to provide age-verification mechanisms](https://www.agenceecofin.com/actualites/2708-141074-en-afrique-comme-ailleurs-les-etats-s-emparent-de-la-protection-des-mineurs-sur-les-reseaux-sociaux) — a duty on how a platform is built rather than a minimum age alone, where Rwanda is still preparing a restriction on under-16s and Zimbabwe has gone the policy route. The ordinance text is not held, only a comparative account of it, and no implementing regulation, supervisory body or enforcement action is on record.
 
 ## Gambia
 
@@ -221,6 +223,10 @@ What the amended identity Act actually says reached the record on 11 August, in 
 
 
 The bench put its own view on the record. Fifty-four judicial officers [adopted a communique calling for stricter authentication standards for AI-generated evidence and a review of the digital-evidence, cybercrime and privacy statutes](https://www.vanguardngr.com/2026/08/digicivic-trains-judicial-officers-on-digital-rights/), naming genuine evidence dismissed as AI-fabricated as an emerging problem, questioning whether clicking agreement is meaningful consent, and asking for electronic case management, virtual hearings and privacy-protected judicial platforms. A communique carries no legal force and no legislative response has followed.
+
+## Rwanda
+
+The virtual-asset law moved from a rationale approved in principle to an instrument on the books, and the base learned of it only through the regulator's travel. Rwanda [gazetted its first dedicated legislation regulating virtual-asset businesses in May 2026, under which the Capital Market Authority is the primary licensing and supervisory authority for virtual-asset service providers](https://www.itweb.africa/article/digital-assets-drive-rwanda-uae-deal/P3gQ2qGAzzE7nRD1). The authority is now benchmarking that framework against the United Arab Emirates', a delegation led by its chief executive [concluding a study tour in the UAE that included a two-day visit to Dubai's Virtual Assets Regulatory Authority, with the two regulators beginning work towards a memorandum of understanding](https://techafricanews.com/2026/08/27/rwanda-cma-dubai-vara-study-tour-virtual-asset-regulation/) — the UAE side framing it as part of an initiative to expand regulatory partnerships with emerging markets across Africa. No gazette number, licence granted or supervised provider is on record, so what is held is a law reported at second hand and a benchmarking exercise against the jurisdiction it is being modelled on.
 
 ## Senegal
 

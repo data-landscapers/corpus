@@ -4,7 +4,7 @@ compiled: 2026-08-27
 period: 2026-07-01 to 2026-08-27
 subject: dpi.govtech
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 2373b7dd1525
+record: 29832fd01b46
 ---
 
 # Other GovTech and e-Gov: monthly update, July 2026
@@ -136,6 +136,8 @@ Two more of the administration's own paper processes went onto systems in August
 The Controller of Budget's report entered July's reading: [1,695 of a target 11,000 services](https://nation.africa/kenya/business/agencies-defy-ruto-s-e-citizen-order-1-695-services-yet-to-be-migrated-5506558) were migrated onto eCitizen in the year to 31 March 2026, against 3,458 the year before, described as a dismal performance.
 
 The platform sells better abroad than it migrates at home. Its operator [pitched the Democratic Republic of the Congo's digital economy ministry on 12 August on digital company registries, beneficial-ownership traceability and real-time state-revenue tracking](https://acp.cd/economie/rdc-la-mise-en-place-de-registres-numeriques-recommandee-pour-moderniser-ladministration/), citing eCitizen's forty-plus digitised services and existing registry deployments in Malawi and South Sudan; the Congolese minister asked officials to continue talks toward a partnership. The claims are the vendor's own, made in a sales meeting, and the same operating consortium's domestic position remains under challenge.
+
+The procurement platform got a hard date for the tier that has resisted it. On 25 August the Treasury [gave all 47 county governments until 30 September 2026 to finish integrating the electronic procurement platform with the Integrated Financial Management Information System, so that tendering, award and contract monitoring connect to budget planning, spending and payment](https://www.wearetech.africa/actualites/fils/actualites/gestion-publique/kenya-les-47-comtes-sommes-de-passer-aux-marches-publics-numeriques). The deadline lands on a rollout that has already slipped: a first phase launched in April 2025 for extension to all national and local administrations from 1 July 2025, against resistance from the Council of Governors over pace and service disruption, with more than 900 public entities migrated by February 2026. Public procurement is [put at close to 30% of Kenyan GDP](https://www.wearetech.africa/actualites/fils/actualites/gestion-publique/kenya-les-47-comtes-sommes-de-passer-aux-marches-publics-numeriques), which is the size of what the deadline is meant to bring onto one record.
 
 ## Lesotho
 
@@ -317,6 +319,8 @@ Upstream of any of it, German cooperation [tendered a consultancy on 5 August to
 ## Zambia
 
 A contract tracking and management system was launched with the Ministry of Justice on 12 July for digital submission of government contracts to the Attorney General's Chambers and real-time tracking of approval progress; no volume or turnaround figure was published.
+
+The other movement is at the far end of the network rather than the centre. The e-government agency's Northern Province unit is [onboarding government employees in Mpulungu, Mbala and Lupososhi districts onto an e-payslip self-service portal, replacing manual payslip distribution with round-the-clock access to employment records, and has connected the Lupososhi district administration to the Government Wide Area Network and given it a wireless access point so officials can use internet calling and digital communication platforms rather than unreliable mobile coverage](https://techafricanews.com/2026/08/27/zambia-expands-ict-infrastructure-rural-public-service-delivery/). The same unit is inspecting government office equipment and briefing officials on the Government Office Equipment Standards, which cover acquisition, registration, maintenance, use and disposal. No enrolment count, coverage figure or completion date accompanies any of it, so what is on record is a method reaching three districts.
 
 ## Zimbabwe
 
