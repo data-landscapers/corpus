@@ -1,15 +1,15 @@
 ---
 title: Mauritania — digital transformation and data governance status report
-compiled: 2026-08-26
+compiled: 2026-08-27
 place: MRT
 ledger_rows: 61
 not_held: 4
-record: 3f8f2e366af4
+record: 938b6469ca97
 ---
 
 # Mauritania: status report
 
-*Compiled 2026-08-26 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/MRT/ledger.csv` (61 systems and instruments, 4 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-27 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/MRT/ledger.csv` (61 systems and instruments, 4 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -212,7 +212,7 @@ Payments carry a delivered programme and a new levy. [PAMIF](https://www.afdb.or
 | Municipal or regional digital services | ***Not held*** | — |
 
 <!-- narrative: digitalisation -->
-
+No municipal or regional digital service is held for Mauritania. What the base carries of service digitisation is national and is recorded under DPI.
 <!-- /narrative -->
 
 ## Technology
@@ -262,7 +262,7 @@ The market changed shape in April 2026, when a [fourth operator was licensed](ht
 | National digital or data research programme | [Implemented, period expired](https://prs-mesrs.gov.mr/calcul-scientifique-informatique-et-data-sciences-2/) | CNESRS-accredited under arrêté 183 (17 February 2022) for May 2021 to May 2024; no renewal is on record |
 
 <!-- narrative: capacity -->
-
+Research capacity is accredited and lapsed: a [national digital and data research programme accredited under a 2022 order](https://prs-mesrs.gov.mr/calcul-scientifique-informatique-et-data-sciences-2/) ran from May 2021 to May 2024, and no renewal is on file. An accreditation that expires without a successor is a finding about the record as much as about the programme.
 <!-- /narrative -->
 
 ## Inclusion
@@ -291,7 +291,7 @@ Access is measured by reference studies, cited and not absorbed here. [DataRepor
 | National open data portal | [Implemented, thin](https://mtnima.gov.mr/wp-content/uploads/2024/07/Strategie-de-donnees.pdf) | National open-data strategy published, June 2023, naming the existing portal and proposing a governance overhaul |
 
 <!-- narrative: data -->
-
+Open data rests on a strategy rather than a service: the [national open-data strategy published in June 2023](https://mtnima.gov.mr/wp-content/uploads/2024/07/Strategie-de-donnees.pdf) names the existing portal and proposes a governance overhaul of it. No dataset count, update cycle or completed overhaul is held.
 <!-- /narrative -->
 
 ## Geopolitics
@@ -309,7 +309,7 @@ Access is measured by reference studies, cited and not absorbed here. [DataRepor
 | Oman digital cooperation agreement | [Implemented](https://lequotidien.mr/?p=39490) | Cooperation agreement and memoranda signed at the close of the Nouakchott forum |
 
 <!-- narrative: geopolitics -->
-
+The external digital relationship on record is with Oman: a [cooperation agreement and memoranda signed at the close of a Nouakchott forum](https://lequotidien.mr/?p=39490). Nothing on file records work done under them.
 <!-- /narrative -->
 
 ## Gaps to fill
