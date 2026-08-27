@@ -17,17 +17,17 @@ document (`progress-report-redesign.md` §1) and are not in scope.
 ## Done
 
 ERI and ZAF were the pilots. This pass has since added, in order: **GNB, AGO, BDI, BEN, BFA, BWA,
-CAF, CIV, CMR, COD, COG, COM, CPV, DJI, DZA, EGY, ETH, GAB, GHA, GIN, GMB, GNQ, KEN, LBR, LBY, LSO, MAR, MDG, MLI, MOZ, MRT, MUS, MWI, NAM, NER, NGA, RWA, SDN, SEN, SLE, SOM, SSD, STP** — 45 of 54, one commit each, all pushed.
+CAF, CIV, CMR, COD, COG, COM, CPV, DJI, DZA, EGY, ETH, GAB, GHA, GIN, GMB, GNQ, KEN, LBR, LBY, LSO, MAR, MDG, MLI, MOZ, MRT, MUS, MWI, NAM, NER, NGA, RWA, SDN, SEN, SLE, SOM, SSD, STP, SWZ** — 46 of 54, one commit each, all pushed.
 
 Yields so far, as a sense of shape: 21 indicators from GNB's 25 ledger rows, 43 from BDI's 74, 52
 from BWA's 107, 57 from BEN's 105, 64 from BFA's 131, 66 from AGO's 122, 43 from CAF's 92, 92 from
-CIV's 167, 73 from CMR's 121, 67 from COD's 123, 52 from COG's 103, 45 from COM's 117, 49 from CPV's 140, 43 from DJI's 70, 58 from DZA's 111, 66 from EGY's 199, 66 from ETH's 97, 58 from GAB's 120, 81 from GHA's 175, 59 from GIN's 109, 46 from GMB's 75, 42 from GNQ's 67, 93 from KEN's 219, 43 from LBR's 71, 64 from LBY's 84, 61 from LSO's 69, 79 from MAR's 137, 44 from MDG's 67, 55 from MLI's 87, 77 from MOZ's 159, 39 from MRT's 62, 50 from MUS's 81, 65 from MWI's 183, 62 from NAM's 134, 42 from NER's 68, 92 from NGA's 279, 69 from RWA's 128, 29 from SDN's 52, 55 from SEN's 115, 40 from SLE's 83, 37 from SOM's 60, 44 from SSD's 74, 27 from STP's 49. Between three quarters and nine tenths of ledger rows map; the rest are placeholders with
+CIV's 167, 73 from CMR's 121, 67 from COD's 123, 52 from COG's 103, 45 from COM's 117, 49 from CPV's 140, 43 from DJI's 70, 58 from DZA's 111, 66 from EGY's 199, 66 from ETH's 97, 58 from GAB's 120, 81 from GHA's 175, 59 from GIN's 109, 46 from GMB's 75, 42 from GNQ's 67, 93 from KEN's 219, 43 from LBR's 71, 64 from LBY's 84, 61 from LSO's 69, 79 from MAR's 137, 44 from MDG's 67, 55 from MLI's 87, 77 from MOZ's 159, 39 from MRT's 62, 50 from MUS's 81, 65 from MWI's 183, 62 from NAM's 134, 42 from NER's 68, 92 from NGA's 279, 69 from RWA's 128, 29 from SDN's 52, 55 from SEN's 115, 40 from SLE's 83, 37 from SOM's 60, 44 from SSD's 74, 27 from STP's 49, 43 from SWZ's 86. Between three quarters and nine tenths of ledger rows map; the rest are placeholders with
 no source, or real instruments the frame has no question for (a telecoms statute, a broadcasting
 transition), and those correctly stay on the ledger and out of the report.
 
 ## Remaining
 
-9 country units: SWZ, SYC, TCD, TGO, TUN, TZA, UGA, ZMB, ZWE.
+8 country units: SYC, TCD, TGO, TUN, TZA, UGA, ZMB, ZWE.
 
 ## The loop, per unit
 
@@ -910,3 +910,36 @@ produce.
 supervise the registry-to-electoral-database interconnection at the point it went live — the only
 such assignment seen in this pass. Saying "the only instance in this base" is a claim about the
 corpus, so make it only when the pass actually supports it.
+
+## What SWZ added, 2026-08-27
+
+79 sourced rows of 86, 43 indicators. Eighth unit running with nothing unmapped.
+
+**Put the unit's single strongest fact where a reader will meet it, and let the qualification travel
+with it.** The data-protection authority's first major investigation was opened against a *government
+ministry* — which had published unblurred national identity documents and missed the statutory
+72-hour notification. That sits in `gov.protect--data-protection-authority` with the mandate
+statement (the ICT ministry saying on the record that enforcement is the regulator's, not its own)
+beside it, because the two together are what make the authority's position legible.
+
+**A statute that names its own enforcer ambiguously is a limit on every downstream cell — state it
+once, upstream.** The gazetted Act names a Commission; the regulator's pages describe it as the
+designated Agency. That went in the legislation cell with the sentence "a statute whose enforcing body
+is ambiguous on the face of the record is a limit on everything the protection cells below can say".
+Same move as SSD's gazette and SLE's absent law: one cell carries the constraint, the rest inherit it.
+
+**Name the gap between the regime being written and the practice on the ground.** Sector and health
+data-protection guidelines are in validation workshops while individual public schools already charge
+pupils about E200 for biometric gate passes without ministry approval. Four laws — cybersecurity,
+critical infrastructure, e-commerce, AI — were named as forthcoming a year ago *alongside* a capital
+deployment of 59 AI-enabled cameras that is in progress. In both cases the cell states the sequence
+rather than reporting the instrument and the practice as separate items.
+
+**A self-assessment is stronger evidence than an external one — say whose it is.** The Digital
+Landscape Assessment finding that critical information is at risk in nine ministries and systems are
+not interoperable was *received and endorsed by the ICT ministry*. That makes it the state documenting
+its own exposure, which is why the cell reads Regressed rather than hedging.
+
+**Ninth and tenth apostrophe-in-label failures.** "prime minister's year-end statement", "women's
+digital academy". The rule from SEN stands and is still being broken: do not put possessives in `L()`
+labels.
