@@ -1,0 +1,56 @@
+indicator_id,subject,briefs_run,candidates_returned,fetched,staged_baseline,staged_progress,not_selected,dropped,drop_codes,outcome,subject_rows_at_probe
+dpi.exchange--interoperability-of-education-systems,DPI — Data Exchange: Interoperability of education systems,2,10,2,1,1,0,2,already-seen;already-seen,staged,4
+dpi.exchange--interoperability-of-health-systems,DPI — Data Exchange: Interoperability of health systems,2,11,4,1,2,1,2,already-seen;inadmissible-origin,staged,4
+dpi.exchange--interoperability-of-social-protection-systems,DPI — Data Exchange: Interoperability of social protection systems,2,11,4,1,2,0,3,already-seen;already-seen;duplicate-in-run,staged,4
+dpi.exchange--use-of-digital-id-in-other-systems,DPI — Data Exchange: Use of digital id in other systems,2,11,6,0,1,0,7,already-seen;already-seen;already-seen;headline-only-stub;headline-only-stub;duplicate-in-run,staged,4
+dpi.pay--b2b-and-b2g-functionality,DPI — Digital Payments and Fintech: B2B and B2G functionality,2,11,5,1,2,0,3,already-seen;fetch-blocked;duplicate-in-run,staged,4
+dpi.pay--consumer-protection,DPI — Digital Payments and Fintech: Consumer protection,2,10,2,1,0,0,1,duplicate-in-run,staged,4
+dpi.registry--address-register,DPI — Registries: Address register — Angola national addressing (toponímia e número de polícia) and the IGCA cadastral property identifier (NIP),2,10,2,1,1,0,0,,staged,10
+dpi.registry--business-register,DPI — Registries: Business register — Angola commercial register (Guiché Único da Empresa/BUE/Ficheiro Central) under the Ministério da Justiça,2,11,3,1,2,0,1,fetch-blocked,staged,10
+dpi.registry--tax-register,DPI — Registries: Tax register — Angola taxpayer register (NIF and Cadastro Geral Tributário) under the AGT,2,11,3,1,1,0,2,fetch-blocked;duplicate-in-run,staged,10
+dpi.mis--justice,DPI — Sectoral management information systems: Justice — Angola court and justice-sector case/accounts management systems,2,11,3,0,2,0,1,duplicate-in-run,staged,3
+dpi.mis--land,DPI — Sectoral management information systems: Land — Angola cadastro predial and the IGCA land information system,2,11,3,1,2,0,0,,staged,3
+dpi.mis--social-protection,DPI — Sectoral management information systems: Social protection — Angola Cadastro Social Único and the Kwenda beneficiary registry/MIS,2,11,4,1,2,1,1,already-seen,staged,3
+digital.localgov--ict-infrastructure-for-local-government,Digitalisation — Digitalisation of sub-national government: ICT infrastructure for local government — Angola provincial and municipal administrations,2,11,3,1,1,0,1,duplicate-in-run,staged,1
+digital.rural--digitalisation-of-rural-health-clinics,Digitalisation — Rural digital data capture: Digitalisation of rural health clinics — Angola postos e centros de saúde outside the provincial capitals,2,10,3,1,1,0,1,duplicate-in-run,staged,0
+digital.rural--digitalisation-of-rural-police-stations,Digitalisation — Rural digital data capture: Digitalisation of rural police stations — Angola esquadras e comandos municipais da Polícia Nacional,2,11,3,1,2,0,2,already-seen;fetch-blocked,staged,0
+digital.rural--digitalisation-of-rural-primary-schools,Digitalisation — Rural digital data capture: Digitalisation of rural primary schools — Angola rural escolas do ensino primário and the SIGE,2,11,3,1,1,0,1,duplicate-in-run,staged,0
+digital.rural--digitalisation-of-rural-registry-offices,Digitalisation — Rural digital data capture: Digitalisation of rural registry offices — Angola municipal conservatórias e postos de registo civil,2,10,3,0,2,0,2,already-seen;duplicate-in-run,staged,0
+gov.legislate--access-to-information-legislation,Governance — Legislation and regulation: Access to information legislation,2,11,5,1,2,2,1,url-dead,staged,8
+gov.legislate--digital-payments-legislation,Governance — Legislation and regulation: Digital payments legislation,2,13,3,1,2,0,1,already-seen,staged,8
+gov.legislate--e-commerce-legislation,Governance — Legislation and regulation: E-commerce legislation,2,8,3,1,1,0,3,already-seen;fetch-blocked,staged,8
+gov.legislate--legislation-enabling-data-interoperability,Governance — Legislation and regulation: Legislation enabling data interoperability,2,11,3,1,2,0,2,already-seen,staged,8
+gov.legislate--statistics-legislation,Governance — Legislation and regulation: Statistics legislation,2,10,2,0,1,0,1,duplicate-in-run,staged,8
+gov.discourse--non-governmental-contribution-to-national-policy,Governance — Public debate and participation in policymaking: Non-governmental contribution to national policy,2,15,4,1,2,1,0,,staged,0
+gov.regional--cross-border-data-transfers,Governance — Regional collaboration: Cross-border data transfers,2,11,3,1,1,0,4,already-seen;duplicate-in-run,staged,2
+gov.regional--regional-legal-harmonisation,Governance — Regional collaboration: Regional legal harmonisation,2,16,2,1,1,0,5,already-seen,staged,2
+gov.regional--regional-policy-collaboration,Governance — Regional collaboration: Regional policy collaboration,2,15,2,1,1,0,2,already-seen,staged,2
+gov.standards--adoption-of-international-standards,Governance — Standards: Adoption of international standards,2,17,3,1,1,1,0,,staged,1
+gov.standards--national-interoperability-standards,Governance — Standards: National interoperability standards,2,16,3,1,0,0,2,duplicate-in-run,staged,1
+gov.standards--national-quality-standards,Governance — Standards: National quality standards,2,12,3,1,2,0,0,,staged,1
+gov.policy--broadband-strategy,"Governance — Strategies, plans and policies: Broadband strategy",2,10,4,1,1,1,2,already-seen;duplicate-in-run,staged,3
+gov.policy--data-governance-policy,"Governance — Strategies, plans and policies: Data governance policy",2,11,3,1,2,0,3,already-seen,staged,3
+gov.policy--data-interoperability-framework-roadmap,"Governance — Strategies, plans and policies: Data interoperability framework / roadmap",2,8,4,0,2,0,2,out-of-window;duplicate-in-run,staged,3
+gov.policy--data-localisation-policies,"Governance — Strategies, plans and policies: Data localisation policies",2,8,2,1,1,0,3,already-seen;duplicate-in-run,staged,3
+gov.policy--data-storage-cloud-strategy,"Governance — Strategies, plans and policies: Data storage / cloud strategy",2,8,2,1,1,0,2,already-seen;fetch-blocked,staged,3
+gov.policy--ict-strategy,"Governance — Strategies, plans and policies: ICT strategy",2,10,3,1,2,0,2,already-seen,staged,3
+gov.policy--open-data-policy,"Governance — Strategies, plans and policies: Open data policy",2,10,3,1,2,0,1,inadmissible-origin,staged,3
+infra.connect--internet-exchange-points,ICT Infrastructure — Connectivity: Internet Exchange Points,2,11,3,1,1,0,2,already-seen;duplicate-in-run,staged,12
+infra.connect--internet-usage,ICT Infrastructure — Connectivity: Internet usage,2,8,3,1,2,0,1,already-seen,staged,12
+infra.connect--mobile-affordability,ICT Infrastructure — Connectivity: Mobile affordability,2,10,4,1,2,1,0,,staged,12
+infra.store--off-site-backup-capacity,ICT Infrastructure — Data Storage: Off-site backup capacity,2,10,3,1,1,0,4,already-seen;already-seen;already-seen;duplicate-in-run,staged,4
+infra.energy--grid-reliability,ICT Infrastructure — Energy: Grid reliability,2,11,6,1,2,3,0,,staged,2
+infra.energy--sufficient-energy-and-water-for-data-centres,ICT Infrastructure — Energy: Sufficient energy and water for data centres,2,11,5,1,2,2,0,,staged,2
+infra.capacity--robustness-of-government-hardware-and-software,ICT Infrastructure — Technical Capacity: Robustness of government hardware and software,2,11,3,1,1,1,2,already-seen;already-seen,staged,0
+capacity.literacy--digital-literacy-civil-service,capacity.literacy,2,12,4,1,2,1,0,,staged,2
+capacity.research--think-tanks-and-academic-departments-contributing-to-dt-policy,capacity.research,2,14,3,1,2,0,0,,staged,2
+capacity.training--graduates-entering-dt-ecosystem,capacity.training,2,11,3,1,2,0,0,,staged,3
+data.satellite--agricultural-use-of-satellite-data,data.satellite,2,14,3,1,1,1,0,,staged,2
+data.satellite--meteorological-use-of-satellite-data,data.satellite,2,16,3,1,2,0,0,,staged,2
+data.statistics--statistics-from-administrative-data,data.statistics,2,14,3,1,2,0,0,,staged,2
+include.access--citizen-feedback-portals,include.access,2,11,3,1,2,0,0,,staged,5
+include.access--gender-equity,include.access,2,13,3,1,2,0,1,already-seen,staged,5
+include.access--inclusion-of-persons-with-disabilities,include.access,2,13,3,1,2,0,0,,staged,5
+include.access--inclusion-of-refugees-and-idps,include.access,2,14,4,1,2,1,0,,staged,5
+tech.ai--use-of-ai-in-government-administration,tech.ai,2,11,5,1,1,1,3,already-seen;duplicate-in-run,staged,4
+tech.industry--national-capacity-in-dt-related-production,tech.industry,2,16,3,1,1,0,1,duplicate-in-run,staged,1
