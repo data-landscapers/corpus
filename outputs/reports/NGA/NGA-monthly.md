@@ -3,9 +3,9 @@ title: Nigeria — monthly update, July – August 2026
 compiled: 2026-08-27
 period: 2026-07-01 to 2026-08-27
 place: NGA
-ledger_rows: 161
+ledger_rows: 163
 not_held: 9
-record: 1b8a553ad9fc
+record: 24beab9d29e8
 ---
 
 # Nigeria: monthly update, July – August 2026
@@ -52,6 +52,8 @@ Its other August move was institutional rather than adversarial: the commission 
 
 
 A civil-society platform began watching the same election from the data side, [tracking parties' websites and social media for privacy violations and access restrictions, piloted at the 15 August state governorship poll](https://www.nationalrecord.com.ng/citad-launches-pawsom-monitor-to-track-digital-rights-breaches-ahead-of-2027-elections/). No findings from the pilot are published.
+
+Child protection online entered the record as a consultation rather than a rule. Nigeria is [consulting on age limits, identity verification and platform liability, one of several African states moving from a minimum age for opening an account towards design duties on the platforms themselves](https://www.agenceecofin.com/actualites/2708-141074-en-afrique-comme-ailleurs-les-etats-s-emparent-de-la-protection-des-mineurs-sur-les-reseaux-sociaux), against an African Union child online safety policy of 2024 asking states to require protection by design and by default, risk assessments, researcher access to platform data and independent oversight. No draft instrument, closing date or responsible body is named, and the constraint reported across the region is enforcement rather than law.
 <!-- /narrative -->
 ### Regional collaboration
 
@@ -78,6 +80,8 @@ The month's one item is a formal demand rather than a policy change: a rights or
 
 <!-- narrative: finance--finance-new -->
 A [US$110m debt facility](https://www.legit.ng/business-economy/industry/1722221-fg-launches-110-million-debt-financing-tech-startups-opens-application-nigerians/) for technology startups opened for applications on 30 July.
+
+The lending frame around all of it was settled earlier in the summer and its numbers reached the public in two different ways. The World Bank's Executive Directors [endorsed the country partnership framework for FY26-FY32 on 29 June and approved a US$1.25bn development policy operation alongside it, whose reform programme includes modernising the regulatory framework for the digital economy and e-governance](https://www.worldbank.org/en/news/press-release/2026/06/29/new-country-partnership-framework-for-nigeria-and-financing-to-accelerate-investment-and-job-creation). The framework itself [sets an indicative IDA envelope of about US$5.7bn over the IDA21 period on top of an ongoing programme of over US$16.9bn, and puts its digital commitment as broadband access for more than 58 million Nigerians against a stated baseline of 39% of the population using the internet in 2023 and fixed broadband penetration of 8.4%](https://documents1.worldbank.org/curated/en/099060426120529325/pdf/BOSIB-3d7ed8de-a532-4e5b-8f46-75c1c0e5de1c.pdf) — and attaches no sum to that target. The sums circulating against it, [a US$500m programme for resilient digital infrastructure and a second US$500m pipeline programme, come from a fact sheet handed out at a Lagos forum on 19 August rather than from the framework document, which the newspaper carrying them states on the record](https://punchng.com/wbank-targets-32-million-nigerians-with-electricity-by-2032/). A target with no line against it and a line with no document behind it are different problems, and this month produced one of each.
 <!-- /narrative -->
 
 ## ICT Infrastructure
@@ -97,6 +101,8 @@ On the tower estate, shareholders of the tower company [approved the acquirer's 
 Two build programmes put dates on themselves. The government says resource mobilisation and contracting are complete for [about 3,700 towers to be deployed from October for more than 20 million people in unserved and underserved communities, with the first being installed in Delta State and riverine communities targeted before mid-2027](https://guardian.ng/business-services/fg-to-expand-internet-access-for-20m-nigerians-in-new-3700-tower-deployment/); no contract value or supplier is stated. Where fibre does not reach at all, an operator [now runs nearly a dozen light-beam links across Lagos serving banks, hotels, internet providers and a utility, and plans to extend to Abuja, Ibadan and Kano](https://datacentresafrica.com/taara-and-liquid-use-light-beam-technology-to-expand-data-centre-capacity-to-large-enterprises-in-lagos-nigeria/). A state airport also [activated a multi-gigabit backbone on 8 August over a commercial submarine-fibre network, to carry passenger processing, operations and real-time security monitoring](https://africanpilot.africa/akwa-ibom-victor-attah-internet/).
 
 The state also went back to orbit, and changed suppliers doing it. The Federal Executive Council [approved the acquisition and deployment of two high-throughput communications satellites, NIGCOMSAT-2A and 2B, to be built by Thales Alenia Space and Israel Aerospace Industries](https://saharareporters.com/2026/08/22/nigerian-government-approves-nigcomsat-2a-2b-satellites-expand-broadband-strengthen) on 22 August, with [NIGCOMSAT-2A due by the end of 2028 and 2B in 2029 or 2030 on the operator's own timetable](https://www.wearetech.africa/fr/fils/actualites/telecom/internet-le-nigeria-choisit-iai-et-thales-alenia-space-pour-acquerir-deux-nouveaux-satellites). The award [breaks with the Chinese partnership that built NigComSat-1, which failed in November 2008, and NigComSat-1R, launched in 2011 and approaching the end of its fifteen-year design life](https://www.wearetech.africa/fr/fils/actualites/telecom/internet-le-nigeria-choisit-iai-et-thales-alenia-space-pour-acquerir-deux-nouveaux-satellites), and sits alongside a January 2025 partnership with Eutelsat for low-earth-orbit services. No contract value is published and negotiation with the two manufacturers precedes manufacture.
+
+Beneath all of that the licensed retail-ISP market is a rounding error and is concentrating. Regulator data released on 25 August put [active licensed-ISP subscribers at 420,989 in June 2026, up 19.6% from 352,006 in December 2025, with three providers holding close to 70% of the market — Spectranet 111,384, Starlink 98,642 and FibreOne 56,486 — points of presence up from 2,508 to 2,893, and 126 of the 230 licensed ISPs reported to have a single active subscriber](https://techcabal.com/2026/08/27/three-companies-now-control-nearly-70-of-nigerias-isp-market/). The same data puts that whole market at [0.27% of the country's 156.4 million active internet subscriptions](https://techcabal.com/2026/08/27/three-companies-now-control-nearly-70-of-nigerias-isp-market/), which is the scale at which any argument about broadband competition here has to be read.
 <!-- /narrative -->
 ### Data Storage
 
@@ -107,6 +113,8 @@ The state put its own instrument behind the same argument on 5 August, [signing 
 
 
 The sovereign cloud acquired its instruments and a start date. Four were signed on 4 August — [a cloud computing guideline, a cloud technical guideline, a digital infrastructure assurance framework and a cloud investment strategy — with certification of cloud and artificial-intelligence infrastructure providers to begin in October, oversight vested in a new governance committee and a stated ambition to serve West and Central Africa](https://cioafrica.co/nigeria-begins-sovereign-cloud-certification-in-october/). What certification will require of a provider is not published.
+
+The month's largest capacity announcement is offshore-financed and not yet sited. The operator group [named the UAE backer of its Africa Data Hub Holding vehicle on 27 August as Tarek Al Ashram, founder of the Dubai colocation operator Gulf Data Hub, with its own connectivity business a shareholder supplying open-access connectivity and go-to-market support](https://www.mtn.com/mtn-group-advances-africas-ai-ready-digital-infrastructure-ecosystem-through-strategic-partnership/), the vehicle having been named in the group's half-year results booklet three days earlier without the partner behind it. The [first phase targets 150MW of AI-ready capacity across South Africa and Nigeria](https://capacityglobal.com/news/mtn-targets-150mw-of-ai-data-centre-capacity/), with no split between the two countries, no Nigerian site, no cost and no commissioning date stated — a number to hold against the 50 to 56 MW the country's twenty-six existing facilities actually carry.
 <!-- /narrative -->
 ### Technical Capacity
 
@@ -203,6 +211,8 @@ Nothing moved on the national AI policy, the risk-based regime inside the digita
 The activity was at the state level and abroad. Anambra State [set out a Vision 2030 push on artificial intelligence and paperless government that its own ICT agency says is constrained by weak connectivity and computing capacity](https://www.itweb.africa/article/anambras-2030-ai-push-faces-connectivity-test/RgeVDvPRkVaMKJN3), with no budget, procurement, delivery date or named system published. The federal IT agency [signed two memoranda in Toronto with Canadian firms on financial inclusion, local AI infrastructure, technology transfer and digital skills](https://www.wearetech.africa/fr/fils/actualites/tech/le-nigeria-s-engage-avec-deux-entreprises-canadiennes-pour-renforcer-l-ia-et-la-finance-numerique), and separately [pushed a National Sovereign Cloud initiative against a stated position in which over 85% of workloads run on public cloud largely hosted abroad](https://punchng.com/nigeria-seeks-local-cloud-capacity-to-cut-data-costs/). None of the three carries a value, a timetable or a delivery commitment.
 
 The month's one national artificial-intelligence programme is a vendor's. A platform company [launched an AI Academy with the communications and digital economy ministry, the national skills programme, the artificial-intelligence research centre and a research network](https://techtrends.africa/meta-fmcide-3mtt-and-rain-partner-to-accelerate-ai-skills-and-innovation-in-nigeria/), combining a startup pitch competition, skills courses and a six-week developer bootcamp; ten startups are shortlisted to pitch at a Lagos exhibition on 3 September, with [two winners receiving US$5,000 in cash, US$2,000 in the company's own advertising credits and a trip to its summit in Istanbul](https://techtrends.africa/meta-fmcide-3mtt-and-rain-partner-to-accelerate-ai-skills-and-innovation-in-nigeria/). No cohort size, curriculum, cost or public accounting of the sponsor's role is stated, and part of the prize is denominated in the sponsor's inventory.
+
+The one domestically built model to ship this month went the other way, at a research conference rather than a ministry. A Nigerian startup [released version 2.5 of its African speech-recognition model at the 2026 Deep Learning Indaba in Lagos, supporting bilingual recognition across 12 African language pairs and trilingual Kinyarwanda-English-French recognition, aimed at speakers who switch languages mid-sentence](https://www.itweb.africa/article/intron-launches-african-speech-model/JBwEr7n3WzlM6Db2). The language-pair count and the error rates are the developer's own and no independent evaluation is held.
 <!-- /narrative -->
 ### ICT Industry
 
