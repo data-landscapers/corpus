@@ -1,11 +1,11 @@
 ---
 title: Mauritius — monthly update, July – August 2026
-compiled: 2026-08-25
-period: 2026-07-01 to 2026-08-25
+compiled: 2026-08-27
+period: 2026-07-01 to 2026-08-27
 place: MUS
-ledger_rows: 41
+ledger_rows: 42
 not_held: 9
-record: ea6825c1000e
+record: 2501bb379bb7
 ---
 
 # Mauritius: monthly update, July – August 2026
@@ -63,6 +63,11 @@ The month's other forum was external in origin. At the national Internet Governa
 
 <!-- narrative: finance--finance-budget -->
 The 2026-2027 budget's tax and revenue measures as enacted are not held. Three fetch paths into the [National Assembly's bills library](https://lexpress.mu/node/560855) returned an HTML shell rather than the 128-page Finance Bill: the library is script-rendered and exposes no static file path, so acquiring it needs a browser rather than an automated fetch. Nothing in this window changed that.
+<!-- /narrative -->
+### New investments
+
+<!-- narrative: finance--finance-new -->
+A United Nations development agency published its [country annual report for 2025](https://www.undp.org/mauritius-seychelles/publications/undp-mauritius-2025-annual-report), held in full. It is the agency's own account of its year rather than an independent evaluation, and the digital component is not separately costed in it, so no figure can be lifted from it for this section. What it gives the base is the shape of one external programme against which domestic appropriations can be read.
 <!-- /narrative -->
 
 ## ICT Infrastructure

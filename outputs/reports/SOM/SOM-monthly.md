@@ -1,11 +1,11 @@
 ---
 title: Somalia — monthly update, July – August 2026
-compiled: 2026-08-26
-period: 2026-07-01 to 2026-08-26
+compiled: 2026-08-27
+period: 2026-07-01 to 2026-08-27
 place: SOM
-ledger_rows: 21
+ledger_rows: 22
 not_held: 10
-record: 0fe3cd228331
+record: a69d81138e51
 ---
 
 # Somalia: monthly update, July – August 2026
@@ -29,6 +29,11 @@ The communications minister restated on 22 July the request that Meta [delay the
 
 <!-- narrative: governance--gov-regional -->
 The connection to the Pan-African Payment and Settlement System is [a target for before the end of 2026 rather than a concluded arrangement](https://www.hiiraan.com/news4/2026/Jul/205808/somalia_to_expand_instant_payment_system_linking_banks_and_mobile_money_platform.aspx).
+<!-- /narrative -->
+### Public debate and participation in policymaking
+
+<!-- narrative: governance--gov-discourse -->
+A former prime minister published an argument that [the country cannot afford another term of lost wealth](https://www.dawan.africa/news/khaire-somalia-cannot-afford-another-term-of-lost-wealth-op-ed). It is a signed opinion on resource governance rather than a policy position, and it carries no digital component of its own. It is held because public argument of this kind is otherwise absent from this ledger, and the absence is itself the finding: a base that records instruments and no debate about them cannot show a reader where the pressure on those instruments comes from.
 <!-- /narrative -->
 
 ## ICT Infrastructure

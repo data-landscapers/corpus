@@ -1,15 +1,15 @@
 ---
 title: Mali — digital transformation and data governance status report
-compiled: 2026-08-26
+compiled: 2026-08-27
 place: MLI
-ledger_rows: 74
+ledger_rows: 75
 not_held: 3
-record: b7b7a55c9bef
+record: a4b947c5c0af
 ---
 
 # Mali: status report
 
-*Compiled 2026-08-26 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/MLI/ledger.csv` (74 systems and instruments, 3 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-27 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/MLI/ledger.csv` (75 systems and instruments, 3 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -283,6 +283,7 @@ Skills programmes are being opened faster than they are being measured. Recruitm
 
 | System or instrument | Status | Milestone |
 |---|---|---|
+| External support to the fifth population and housing census | [Implemented](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=SE-0-SE-6-11793-11793A0201) | Special review committed, April 2024, on an agreement first funded in 2018 |
 | INSTAT microdata catalogue | [Implemented](https://microdata.instat.ml/index.php/catalog/) | 107 studies held in INSTAT's own NADA archive as of capture 2026-08-10 |
 
 ### Open data

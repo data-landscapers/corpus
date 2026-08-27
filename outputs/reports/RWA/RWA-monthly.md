@@ -1,11 +1,11 @@
 ---
 title: Rwanda — monthly update, July – August 2026
-compiled: 2026-08-26
-period: 2026-07-01 to 2026-08-26
+compiled: 2026-08-27
+period: 2026-07-01 to 2026-08-27
 place: RWA
-ledger_rows: 52
+ledger_rows: 54
 not_held: 9
-record: 11c6ed3e8645
+record: 10a93c2b487e
 ---
 
 # Rwanda: monthly update, July – August 2026
@@ -155,7 +155,7 @@ Where training did continue it went to the top of the system rather than the bot
 ### Research institutions
 
 <!-- narrative: capacity--capacity-research -->
-An [academic security operation centre is running through a university network based in Rwanda, described as operating on multiple levels to meet cybersecurity monitoring needs and to build a cybersecurity workforce in Rwanda and beyond](https://www.africa.engineering.cmu.edu/news/2026/08/24-academic-security-operation-center.html). No monitored-estate, incident or staffing figure is published, so what the centre does at scale cannot be stated from the base.
+An [academic security operation centre is running through a university network based in Rwanda, described as operating on multiple levels to meet cybersecurity monitoring needs and to build a cybersecurity workforce in Rwanda and beyond](https://www.africa.engineering.cmu.edu/news/2026/08/24-academic-security-operation-center.html). No monitored-estate, incident or staffing figure is published, so the size of what the centre actually does cannot be stated from the base.
 <!-- /narrative -->
 
 ## Inclusion

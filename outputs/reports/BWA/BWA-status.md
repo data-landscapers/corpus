@@ -1,15 +1,15 @@
 ---
 title: Botswana — digital transformation and data governance status report
-compiled: 2026-08-26
+compiled: 2026-08-27
 place: BWA
-ledger_rows: 98
+ledger_rows: 99
 not_held: 11
-record: 5facd57b7c62
+record: 45b5d7d60963
 ---
 
 # Botswana: status report
 
-*Compiled 2026-08-26 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/BWA/ledger.csv` (98 systems and instruments, 11 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-27 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/BWA/ledger.csv` (99 systems and instruments, 11 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -345,6 +345,7 @@ Universal service delivers per site and publishes no programme total. Two school
 
 | System or instrument | Status | Milestone |
 |---|---|---|
+| Ambassadorial article on digital cooperation | [Implemented](http://www.focac.org/zfzs/202608/t20260824_12009277.htm) | Signed article published in domestic media, 20 August 2026 |
 | Chinese AI cooperation offer | [Planned](https://www.itweb.africa/article/china-offers-botswana-ai-support/LPp6V7rBNw57DKQz) | Offer made publicly by the ambassador, August 2026 |
 | Huawei ICT Academy in Botswana | [Implemented](https://www.sundaystandard.info/huawei-ict-competition-boosts-digital-skills-development-in-botswana/) | A 2025-2026 competition run across five named universities |
 

@@ -1,11 +1,11 @@
 ---
 title: Morocco — monthly update, July – August 2026
-compiled: 2026-08-26
-period: 2026-07-01 to 2026-08-26
+compiled: 2026-08-27
+period: 2026-07-01 to 2026-08-27
 place: MAR
-ledger_rows: 43
+ledger_rows: 44
 not_held: 17
-record: 432cc06a323b
+record: 90d86cf2dd4b
 ---
 
 # Morocco: monthly update, July – August 2026
@@ -171,4 +171,9 @@ The open-data portal is operating with four published procedure volumes — [man
 
 <!-- narrative: geopolitics--geopol-eu -->
 Morocco holds [no European Union adequacy decision: the Commission's list names sixteen jurisdictions plus one international organisation, none of them in Africa](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en). Neither source establishing this is tagged to Morocco, and no Morocco-tagged governance source the base holds mentions the European Union at all.
+<!-- /narrative -->
+### India activities
+
+<!-- narrative: geopolitics--geopol-india -->
+The country is [turning to India to develop artificial intelligence adapted to its national languages](https://www.wearetech.africa/fr/fils/actualites/tech/le-maroc-se-tourne-vers-l-inde-pour-developper-une-ia-adaptee-aux-langues-nationales). What is held is a stated direction and nothing more: no instrument, no partner institution, no language list, no budget and no timetable appear in the account. The row is minted because it opens a bilateral relationship this ledger did not previously record, not because anything has yet been agreed.
 <!-- /narrative -->

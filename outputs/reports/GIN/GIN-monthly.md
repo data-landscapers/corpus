@@ -1,11 +1,11 @@
 ---
 title: Guinea — monthly update, July – August 2026
-compiled: 2026-08-26
-period: 2026-07-01 to 2026-08-26
+compiled: 2026-08-27
+period: 2026-07-01 to 2026-08-27
 place: GIN
-ledger_rows: 49
+ledger_rows: 50
 not_held: 14
-record: dcb40e00dc9d
+record: 3c505d807b3d
 ---
 
 # Guinea: monthly update, July – August 2026
@@ -147,4 +147,12 @@ On 20 July, the digital economy minister and a Rwandan delegation [identified ar
 
 <!-- narrative: capacity--capacity-training -->
 The [software-engineering school Holberton opened its Conakry campus on 16 July 2026](https://mediaguinee.com/2026/07/numerique-et-ia-holberton-guinee-officiellement-lancee-a-conakry/).
+<!-- /narrative -->
+
+## Data
+
+### Open data
+
+<!-- narrative: data--data-open -->
+The country-specific assessment behind the 2026 fiscal transparency report is now [held in full](https://www.state.gov/reports/2026-fiscal-transparency-report/guinea), where the base had previously carried nothing on this subject. It is a foreign government's judgement on its own criteria rather than a domestic disclosure, and it is the only recurring transparency measure the base holds for this country — which is a statement about the gap as much as about the finding.
 <!-- /narrative -->

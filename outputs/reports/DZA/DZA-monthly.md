@@ -1,11 +1,11 @@
 ---
 title: Algeria — monthly update, July – August 2026
-compiled: 2026-08-26
-period: 2026-07-01 to 2026-08-26
+compiled: 2026-08-27
+period: 2026-07-01 to 2026-08-27
 place: DZA
-ledger_rows: 33
+ledger_rows: 34
 not_held: 7
-record: 2a25dfb3af6f
+record: 2ea473c38129
 ---
 
 # Algeria: monthly update, July – August 2026
@@ -133,6 +133,14 @@ The state electronics manufacturer was [accredited to install and maintain every
 
 <!-- narrative: technology--tech-innovate -->
 The student start-up conversion scheme reports [673 start-ups, 3,949 patents and 2,339 innovative-project labels between 2022 and July 2026, against a 2030 target of 5,000 labelled products](https://elwatan.dz/strategie-nationale-de-lintelligence-artificielle-kamel-baddari-fixe-la-feuille-de-route/). It lets students convert final-year projects into start-ups or patents and is supported by a prototype-financing scheme and the country's first venture-capital fund. The ministerial order behind it is not held, neither its date nor its text.
+<!-- /narrative -->
+
+## Inclusion
+
+### Access to services
+
+<!-- narrative: inclusion--include-access -->
+Consumer cloud storage prices were [raised for new subscribers from 27 July 2026](https://www.africaninsider.com/business/google-one-gets-more-expensive-in-africa-nigerian-users-face-52-hike/), in this market alongside two others on the continent. One provider's consumer tariff is thin evidence for affordability, and the account gives no local subscriber base against which to read it. It is recorded because it is the only dated consumer cloud price the base holds here, and a price that moves is more use than a market with no price at all.
 <!-- /narrative -->
 
 ## Geopolitics

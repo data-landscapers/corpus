@@ -1,11 +1,11 @@
 ---
 title: Zimbabwe — monthly update, July – August 2026
-compiled: 2026-08-25
-period: 2026-07-01 to 2026-08-25
+compiled: 2026-08-27
+period: 2026-07-01 to 2026-08-27
 place: ZWE
-ledger_rows: 83
+ledger_rows: 84
 not_held: 9
-record: 5fa3d29d0826
+record: 29f66ed9c43c
 ---
 
 # Zimbabwe: monthly update, July – August 2026
@@ -219,4 +219,9 @@ A [national data commons was announced on 4 August](https://itweb.africa/article
 
 <!-- narrative: geopolitics--geopol-usa -->
 Zimbabwe withdrew from the bilateral health talks, and the dispute over why was settled this month against the templates rather than the parties. Harare's account is that talks ended over long-term United States access to national health data and an attempt to fold in critical minerals; the [embassy stated the conditions were co-investment, financial accountability and specimen sharing during outbreaks, and that assertions it sought Zimbabweans' personal data are categorically false](https://www.newzimbabwe.com/america-disputes-zimbabwean-governments-recent-account-on-us365-million-health-deal/). Both are supportable. The [model data-sharing agreement gives the United States secure, uninterrupted access, expressly including login credentials, to seven national health systems for twenty-five years continuing ten years past termination](https://www.citizen.org/wp-content/uploads/Model-Data-Sharing-Agreement.pdf) — and in the same clause tells the partner not to provide individual-level or personally identifiable data unless there is no other way. The [template memorandum requires physical specimens and related genetic sequence data of pathogens with epidemic potential within five days of detection, for twenty-five years](https://www.citizen.org/wp-content/uploads/Template-MoU-AFGHS.pdf). Harare is describing standing credentialled access to live systems; Washington is denying transfer of identifiable records. Neither template is the Zimbabwe draft, which was never signed and does not exist as a public document. [About 1.2m people on United States-supported HIV treatment face wind-down](https://apnews.com/article/zimbabwe-us-health-funding-deal-b2d3fce8b9a340c53d117675319be120).
+<!-- /narrative -->
+### China activities
+
+<!-- narrative: geopolitics--geopol-china -->
+A Harare forum [argued that cooperation with China will help African countries build technological capability](https://www.chinadaily.com.cn/a/202608/20/WS6a865f51a3106bc57421c7d5.html), with the terms of technology transfer the point at issue. The account is carried by Chinese state media, which is part of what it evidences. No project, transfer arrangement or commitment is named in it, so it records an argument about the relationship rather than a movement within it.
 <!-- /narrative -->

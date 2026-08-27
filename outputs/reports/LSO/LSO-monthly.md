@@ -1,7 +1,7 @@
 ---
 title: Lesotho — monthly update, July – August 2026
-compiled: 2026-08-26
-period: 2026-07-01 to 2026-08-26
+compiled: 2026-08-27
+period: 2026-07-01 to 2026-08-27
 place: LSO
 ledger_rows: 23
 not_held: 2

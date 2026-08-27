@@ -1,15 +1,15 @@
 ---
 title: Djibouti — digital transformation and data governance status report
-compiled: 2026-08-25
+compiled: 2026-08-27
 place: DJI
-ledger_rows: 68
+ledger_rows: 69
 not_held: 10
-record: 913cc268818d
+record: 39615cc2c6bf
 ---
 
 # Djibouti: status report
 
-*Compiled 2026-08-25 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/DJI/ledger.csv` (68 systems and instruments, 10 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-27 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/DJI/ledger.csv` (69 systems and instruments, 10 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -250,6 +250,7 @@ The domestic sector is small and newly organised: the ministry [launched the LIM
 | System or instrument | Status | Milestone |
 |---|---|---|
 | Civil-service digital skills programme | [Implemented](https://www.wearetech.africa/en/fils-uk/news/public-management/djibouti-launches-digital-skills-program-for-government-officials) | Programme launched with Djibouti Cloud Operator, Oracle University and INAP |
+| Digital job matching for graduates | [Implemented](https://www.wearetech.africa/fr/fils/actualites/tech/face-au-chomage-djibouti-mise-sur-le-numerique-pour-connecter-diplomes-et-recruteurs) | Digital route to connect graduates and recruiters, August 2026 |
 | E-SKILLS Digital Houses | [In development](https://www.wearetech.africa/en/fils-uk/news/public-management/djibouti-seeks-to-narrow-digital-divide-with-digital-houses-initiative) | Initiative announced across five inland regions |
 | Ecole 42 coding school | [In development](https://techreviewafrica.com/public/news/4771/djibouti-launches-ecole-42-project-to-promote-technological-innovation) | Project launched with the European Union, Expertise France and Association 42 |
 

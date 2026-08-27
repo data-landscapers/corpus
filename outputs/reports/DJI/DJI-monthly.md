@@ -1,11 +1,11 @@
 ---
 title: Djibouti — monthly update, July – August 2026
-compiled: 2026-08-25
-period: 2026-07-01 to 2026-08-25
+compiled: 2026-08-27
+period: 2026-07-01 to 2026-08-27
 place: DJI
-ledger_rows: 18
+ledger_rows: 19
 not_held: 10
-record: 05a5b7078428
+record: 870106c7f22d
 ---
 
 # Djibouti: monthly update, July – August 2026
@@ -102,6 +102,14 @@ The forum will also present the national readiness assessment behind the strateg
 
 <!-- narrative: technology--tech-innovate -->
 On 4 July 2026 the Ministry Delegate for the Digital Economy and Innovation [launched the LIMO platform](https://techreviewafrica.com/news/6169/djibouti-unveils-limo-platform-to-accelerate-digital-economy-and-innovation), described by the ministry as support for entrepreneurship and for access to opportunities by startups and developers. The account is a trade-press report of the ministry's announcement, no user or service figures are published, and it is a distinct system from the private marketplace of the same name.
+<!-- /narrative -->
+
+## Capacity
+
+### Training and skills
+
+<!-- narrative: capacity--capacity-training -->
+Against unemployment, the state is [using digital channels to connect graduates with recruiters](https://www.wearetech.africa/fr/fils/actualites/tech/face-au-chomage-djibouti-mise-sur-le-numerique-pour-connecter-diplomes-et-recruteurs). The account names no platform, no registration count and no placement figure, so what is held is a stated direction rather than a measurable one. It is read here alongside the [spring economic monitor](https://documents1.worldbank.org/curated/en/099209305122650698/pdf/IDU-3d483253-60ba-4a4c-b634-fc8f02408c05.pdf), whose school-to-work analysis is the closest thing the base holds to a measure of the problem the initiative is written against.
 <!-- /narrative -->
 
 ## Data
