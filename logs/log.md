@@ -11,6 +11,7 @@ title: Corpus process log
 
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 <!-- newest first: a new entry goes directly below this line -->
+2026-08-27 22:40 · indicator-mapping · unclocked · SEN mapped onto the indicator frame: 55 indicators from all 104 sourced ledger rows, a unit whose recurring shape is systems built ahead of the rules meant to govern them  - ok
 2026-08-27 21:55 · indicator-mapping · unclocked · SDN mapped onto the indicator frame: 29 indicators from all 39 sourced ledger rows, a wartime unit where three authorities exist by decree ahead of the three statutes still in redrafting  - ok
 2026-08-27 21:20 · indicator-mapping · unclocked · RWA mapped onto the indicator frame: 69 indicators from all 128 sourced ledger rows, a unit whose instruments are almost all unpublished, which the cells state rather than paraphrase  - ok
 2026-08-27 20:40 · indicator-mapping · unclocked · NGA mapped onto the indicator frame: 92 indicators from all 271 sourced ledger rows, the first unit in the pass with nothing left unmapped; one citation moved off a URL-less base record  - ok

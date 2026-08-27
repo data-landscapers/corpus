@@ -17,17 +17,17 @@ document (`progress-report-redesign.md` §1) and are not in scope.
 ## Done
 
 ERI and ZAF were the pilots. This pass has since added, in order: **GNB, AGO, BDI, BEN, BFA, BWA,
-CAF, CIV, CMR, COD, COG, COM, CPV, DJI, DZA, EGY, ETH, GAB, GHA, GIN, GMB, GNQ, KEN, LBR, LBY, LSO, MAR, MDG, MLI, MOZ, MRT, MUS, MWI, NAM, NER, NGA, RWA, SDN** — 40 of 54, one commit each, all pushed.
+CAF, CIV, CMR, COD, COG, COM, CPV, DJI, DZA, EGY, ETH, GAB, GHA, GIN, GMB, GNQ, KEN, LBR, LBY, LSO, MAR, MDG, MLI, MOZ, MRT, MUS, MWI, NAM, NER, NGA, RWA, SDN, SEN** — 41 of 54, one commit each, all pushed.
 
 Yields so far, as a sense of shape: 21 indicators from GNB's 25 ledger rows, 43 from BDI's 74, 52
 from BWA's 107, 57 from BEN's 105, 64 from BFA's 131, 66 from AGO's 122, 43 from CAF's 92, 92 from
-CIV's 167, 73 from CMR's 121, 67 from COD's 123, 52 from COG's 103, 45 from COM's 117, 49 from CPV's 140, 43 from DJI's 70, 58 from DZA's 111, 66 from EGY's 199, 66 from ETH's 97, 58 from GAB's 120, 81 from GHA's 175, 59 from GIN's 109, 46 from GMB's 75, 42 from GNQ's 67, 93 from KEN's 219, 43 from LBR's 71, 64 from LBY's 84, 61 from LSO's 69, 79 from MAR's 137, 44 from MDG's 67, 55 from MLI's 87, 77 from MOZ's 159, 39 from MRT's 62, 50 from MUS's 81, 65 from MWI's 183, 62 from NAM's 134, 42 from NER's 68, 92 from NGA's 279, 69 from RWA's 128, 29 from SDN's 52. Between three quarters and nine tenths of ledger rows map; the rest are placeholders with
+CIV's 167, 73 from CMR's 121, 67 from COD's 123, 52 from COG's 103, 45 from COM's 117, 49 from CPV's 140, 43 from DJI's 70, 58 from DZA's 111, 66 from EGY's 199, 66 from ETH's 97, 58 from GAB's 120, 81 from GHA's 175, 59 from GIN's 109, 46 from GMB's 75, 42 from GNQ's 67, 93 from KEN's 219, 43 from LBR's 71, 64 from LBY's 84, 61 from LSO's 69, 79 from MAR's 137, 44 from MDG's 67, 55 from MLI's 87, 77 from MOZ's 159, 39 from MRT's 62, 50 from MUS's 81, 65 from MWI's 183, 62 from NAM's 134, 42 from NER's 68, 92 from NGA's 279, 69 from RWA's 128, 29 from SDN's 52, 55 from SEN's 115. Between three quarters and nine tenths of ledger rows map; the rest are placeholders with
 no source, or real instruments the frame has no question for (a telecoms statute, a broadcasting
 transition), and those correctly stay on the ledger and out of the report.
 
 ## Remaining
 
-14 country units: SEN, SLE, SOM, SSD, STP, SWZ, SYC, TCD, TGO, TUN, TZA, UGA, ZMB, ZWE.
+13 country units: SLE, SOM, SSD, STP, SWZ, SYC, TCD, TGO, TUN, TZA, UGA, ZMB, ZWE.
 
 ## The loop, per unit
 
@@ -748,3 +748,38 @@ rows: the oldest row sometimes reads on the newest.
 arrived through smuggled terminals, and is switched off locality by locality by whoever holds the
 ground. The satellite indicator is written about who actually controls access rather than about
 licensing, because licensing is not what governs it.
+
+## What SEN added, 2026-08-27
+
+104 sourced rows of 115, 55 indicators, third unit running with nothing unmapped.
+
+**The unit has one recurring shape and it only reads if several cells state it.** Systems get built and
+the rules meant to govern them get written afterwards: the health ministry is building a single
+patient record ahead of the digital-health law that would govern confidentiality and transfer; the
+social-protection workshop lists data governance as an *output*; two new biometric collections — a
+public-service headcount audit and an artisanal-miners register — were agreed within two months, in a
+country whose identity directorate was breached in February and whose data-protection law is still
+under revision; and the civil-status computerisation bill is validated but not enacted while the
+register it would govern already holds millions of records. Each cell says its own instance. Naming
+the pattern once and cross-referencing would have been shorter and would have put the finding in one
+cell that a reader of any other might never reach.
+
+**Two placements cut across the frame's filing and both are defensible on the same test — what does
+the evidence establish?** The three breached state systems went to
+`infra.capacity--robustness-of-government-hardware-and-software`, not to cybersecurity readiness:
+they establish what the estate *did*, and readiness is about what the state is equipped to do (which
+that cell covers separately, with the finding that there is still no national agency and no response
+team). The student-computer programme under a 129-0 commission of inquiry went to
+`capacity.training--dt-related-university-facilities-and-qualifications` rather than to access,
+because the inquiry's FCFA envelope is the only quantity published about it, so it is evidence about
+procurement and delivery rather than about who got a computer.
+
+**Where a ledger note forbids a rendering, obey it in the prose.** One row carries "the source is
+proxy-dated, so the workshop's own date is unknown and **must not** be rendered as July 2026". The
+cell says a workshop was convened and repeats the warning. Two other rows carry month-precision
+dates. In a unit this dense the temptation to smooth all of it into a clean date series is strong and
+would have manufactured precision the base does not have.
+
+**Third recurrence of the apostrophe trap, and it is now clearly the dominant failure mode.** Two
+possessives inside single-quoted `L()` labels ("civil-status agency's", "statistics school's"). The
+fix is the same triple-quote each time. Worth simply avoiding possessives in labels from the start.
