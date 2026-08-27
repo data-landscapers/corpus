@@ -1055,7 +1055,7 @@ def render(unit, today):
     ledger = [r for r in ledger if (r.get("kind") or "instrument") != "measure"]
     path = os.path.join(folder, f"{unit}-status.md")
     block, keep, dropped = blocker(path, subj)
-    not_held = sum(1 for r in ledger if r["status"] == NOT_HELD)
+    not_held = sum(1 for r in ledger if stem(r["status"]) == NOT_HELD)
     name = place_name(unit)
     out = front(f"{name} — digital transformation and data governance status report",
                 today, unit, len(ledger), not_held) + [

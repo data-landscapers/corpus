@@ -2,14 +2,14 @@
 title: Guinea-Bissau — digital transformation and data governance status report
 compiled: 2026-08-27
 place: GNB
-ledger_rows: 23
+ledger_rows: 38
 not_held: 1
-record: caea32efb6fb
+record: 17152131dc19
 ---
 
 # Guinea-Bissau: status report
 
-*Compiled 2026-08-27 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/GNB/ledger.csv` (23 systems and instruments, 1 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-27 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/GNB/ledger.csv` (38 systems and instruments, 1 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -25,14 +25,18 @@ Guinea-Bissau is assembling the basics of a digital state largely through donor-
 
 | System or instrument | Status | Milestone |
 |---|---|---|
-| National Digital Transformation Strategy 2025-2030 (ENTD.GW) | [In development](https://ang.gw/governo-lancada-estrategia-nacional-para-transformacao-digital-do-pais/) | Strategy publicly launched (PM Rui Duarte Barros, Minister Marciano Silva Barbeiro, UNDP); 10 pillars, 6 objectives, 55 interventions, roadmap to 2030; Council of Ministers approval/decree still pending per the follow-up UNU-EGOV/UNDP meeting two days later |
+| National Digital Transformation Strategy 2025-2030 (ENTD.GW) | [Enacted, approved by Decree 10/2025](http://faolex.fao.org/docs/pdf/gbs235634.pdf) | Approved by Decreto n.o 10/2025 and published in the Boletim Oficial n.o 12, 4.o Suplemento, 28 March 2025 |
 
 ### Legislation and regulation
 
 | System or instrument | Status | Milestone |
 |---|---|---|
+| Access to Information Bill | [In development](https://www.unesco.org/fr/articles/guinee-bissau-validation-du-projet-de-loi-sur-lacces-linformation) | Final draft examined at a UNESCO-convened validation meeting, October 2024 |
+| ARN sector regulations (Decrees 14, 15 and 16 of 2010) | [Enacted](https://arn.gw/activeapp/wp-content/uploads/2015/03/Decreto-Lei-N%C2%BA-13141516-2010-B.O.-N%C2%BA-38.pdf) | Gazetted in the 2.o Suplemento to Boletim Oficial n.o 38, 22 September 2010 |
 | Digital Integrity (Dissemination of False Information on the Internet) Law | [Enacted](https://ultimahoragb.com/2026/05/23/cnt-aprova-a-lei-de-integridade-digital-para-travar-falsas-informacoes-e-atingir-cidadaos-que-destilam-o-odio-no-pais/) | CNT (transitional parliament) unanimously passed, with amendments, the Law on the Dissemination of False Information on the Internet - framed by spokesman Fernando Vaz as targeting those who spread hate and act against the State; enforcement mechanisms, including for citizens abroad, left unstated |
 | Electronic Communications Law (revised) | [Under review, Council of Ministers approved with amendments](https://ang.gw/conselho-de-ministros-aprova-nova-lei-das-comunicacoes-eletronicas-e-e-faz-novas-nomeacoes-na-administracao-publica/) | Council of Ministers approved, with amendments, a proposed Electronic Communications Law replacing the outdated 2010 telecom regime, under the transitional presidency of Horta Inta-a; not confirmed passed by the CNT or published/in force |
+| Electronic Transactions Bill 2025 | [In development](https://www.odemocratagb.com/?p=57171) | Put to public consultation by the ARN board under Aviso n.o 01/CA/ARN/2026, 8 May 2026 |
+| ICT Framework Law (Lei n.o 5/2010) | [Enacted](https://arn.gw/activeapp/wp-content/uploads/2015/03/3.-%C2%A6SUP.-B.-O.-N.-%C2%A6-21-2010.pdf) | Enacted by Lei n.o 5/2010 of 27 May 2010, Boletim Oficial n.o 21, 3.o Suplemento |
 
 ### Data protection
 
@@ -46,6 +50,7 @@ Guinea-Bissau is assembling the basics of a digital state largely through donor-
 |---|---|---|
 | AUDA-NEPAD Programme for African Developing Island Economies (Guinea-Bissau participation) | [Planned](https://www.nepad.org/news/auda-nepad-launches-first-continental-programme-dedicated-africas-island-economies) | AUDA-NEPAD launched the Programme for African Developing Island Economies at the STC-TTIM Ministerial Segment in Abidjan, covering Guinea-Bissau among seven states; ministers adopted a communique committing to a 2026-2031 roadmap with six pillars including digital transformation |
 | CPLP digital rights charter | [Implemented](https://secretariadoexecutivo.cplp.org/media/axzbbtqn/2_cartacplp_princi-piosdireitosambientesdigitais.pdf) | Signed at São Tomé by all nine member states, 19 July 2024 |
+| ECOWAS Supplementary Act on Personal Data Protection (A/SA.1/01/10) | [Enacted](https://www.statewatch.org/media/documents/news/2013/mar/ecowas-dp-act.pdf) | Adopted by the ECOWAS Authority of Heads of State and Government, Abuja, 16 February 2010 |
 
 <!-- narrative: governance -->
 Through 2025–26 the transitional state assembled a governance and legislative spine it had lacked: a [National Data Governance and Protection Policy and a National Cybersecurity Strategy](https://ang.gw/governo-aprova-projeto-de-regulamento-sobre-a-interoperabilidade-de-sistemas-e-plataformas-digitais/), both approved by Council of Ministers decree in July 2025 alongside the interoperability regulation above, following a [January 2025 commitment](https://ang.gw/governo-apresenta-resultados-dos-estudos-sobre-ciberseguranca/) to create a National Cybersecurity and Data Protection Agency that is not yet confirmed established. A [revised Electronic Communications Law](https://ang.gw/conselho-de-ministros-aprova-nova-lei-das-comunicacoes-eletronicas-e-e-faz-novas-nomeacoes-na-administracao-publica/), replacing the 2010 regime, was approved with amendments by Council of Ministers but not yet confirmed passed by the transitional parliament (CNT). The CNT did enact one digital law in the period: a ["Digital Integrity" law](https://ultimahoragb.com/2026/05/23/cnt-aprova-a-lei-de-integridade-digital-para-travar-falsas-informacoes-e-atingir-cidadaos-que-destilam-o-odio-no-pais/) against the dissemination of false information online, passed unanimously with amendments in May 2026 and [invoked for the first time in July 2026](https://ang.gw/ministerio-da-comunicacao-social-considera-de-falsas-informacoes-sobre-encerramento-de-tik-tok-no-pais/) against a false claim that TikTok would be shut down nationwide. Regionally, Guinea-Bissau was named among seven states in [AUDA-NEPAD's Programme for African Developing Island Economies](https://www.nepad.org/news/auda-nepad-launches-first-continental-programme-dedicated-africas-island-economies), adopted at ministerial level in July 2026 with digital transformation as one of six pillars.
@@ -74,7 +79,7 @@ Guinea-Bissau's tracked development finance is concentrated in three instruments
 | ACE (Africa Coast to Europe) submarine cable landing | [Implemented](https://www.agenceecofin.com/actualites-numerique/2908-131059-deploiement-de-la-fibre-optique-la-guinee-bissau-veut-apprendre-du-tchad) | Guinea-Bissau connects to its first international submarine fibre-optic cable (ACE) |
 | Starlink satellite internet service | [Implemented](https://arn.gw/arn-tic-concede-autorizacao-geral-provisoria-a-starlink-guine-bissau/) | Commercial launch |
 | WARDIP-GB National Fibre-Optic Backbone | [In development](https://ang.gw/guine-bissau-nao-pode-perder-o-comboio-da-modernizacao-tecnologica-diz-presidente-da-republica/) | EIASS environmental and social safeguards study published, moving toward implementation |
-| RNEP-GB / WARDIP-GB Final Report (Apr 2025) | ***Not held*** | — |
+| RNEP-GB / WARDIP-GB Final Report (Apr 2025) | ***Not held, searched 2026-08-27 - the RNEP-GB final report is held and is a different document*** | — |
 
 ### Cybersecurity
 
@@ -93,6 +98,8 @@ Guinea-Bissau's international connectivity rests on a single submarine-cable lan
 
 | System or instrument | Status | Milestone |
 |---|---|---|
+| ASYCUDAWorld customs management system | [Implemented](https://asycuda.org/en/guinea-bissau-launches-asycudaworld-to-strengthen-customs-digitalization/) | Went live across the customs estate, reported by UNCTAD 26 January 2026 |
+| eGIF-GW interoperability framework and platform | [In development](https://wardip.gw/wp-content/uploads/2025/11/1.-Interoperability-Framework-Interoperability-Platform-and-Enterprise-Architecture_Guinea-Bissau_Portuguese_VF.pdf) | Version 2.0 of the framework, platform and enterprise architecture delivered under WARDIP-GB, July 2024 |
 | Interoperability Regulation (public/private digital systems and platforms) | [Enacted, in-force date not held](https://pt.linkedin.com/posts/wardip-guin%C3%A9-bissau_governo-aprova-regulamento-nacional-de-interoperabilidade-activity-7491768929355194368-Vk5Q) | Government approval of the national interoperability regulation, announced 2026-08-08 by the WARDIP programme in Guinea-Bissau |
 
 ### Digital Identity and CRVS
@@ -100,7 +107,16 @@ Guinea-Bissau's international connectivity rests on a single submarine-cable lan
 | System or instrument | Status | Milestone |
 |---|---|---|
 | ENBIC (ECOWAS biometric ID) - Guinea-Bissau deployment | [Implemented](https://www.biometricupdate.com/202506/guinea-bissau-deploys-efforts-to-digitize-birth-registration-national-id-systems) | 262 women cross-border traders receive ENBIC cards in Sao Domingos (Cacheu) under a Guinea-Bissau-Senegal women-traders mobility pilot run by the National Borders Commission, ECOWAS-backed and GIZ-financed |
+| PASSE automated border entry and exit control system | [Implemented](https://www.instituto-camoes.pt/sobre/comunicacao/noticias/guine-bissau-evento-de-encerramento-do-projeto-gestdoc-e-lancamento-dos-sistemas-passe-e-sirec) | Launched at Osvaldo Vieira International Airport, 22-23 January 2025 |
 | Semlex biometric national-ID production network | [Implemented](https://www.biometricupdate.com/202506/guinea-bissau-deploys-efforts-to-digitize-birth-registration-national-id-systems) | Semlex opens a production centre in Safim (Biombo) - the third in Biombo, 100 cards per day - bringing the national network to 18 biometric-ID production centres; further centres planned for Sao Domingos and Bolama (Bijagos) |
+
+### Digital Payments and Fintech
+
+| System or instrument | Status | Milestone |
+|---|---|---|
+| Blockchain public wage-bill and pensions platform | [Implemented](https://www.imf.org/en/News/Articles/2024/10/02/cf-guinea-bissau-is-using-blockchain-to-boost-fiscal-transparency) | Launched May 2024 under the IMF Extended Credit Facility |
+| KONTAKTU simplified tax and contribution payment system | [Implemented](https://kontaktu.mef.gw/api/public_files/ahJL4HsBTtIyVO-stAXo.pdf) | Payment guidance issued by the Direccao-Geral das Contribuicoes e Impostos, 24 March 2021 |
+| Treasury Single Account (CUT) Regulation | [Enacted](https://www.mef.gw/noticias/aprovada-o-regulamento-da-conta-unica-do-tesouro-publico-cut) | Regulation approved, announced by the Ministry of Economy and Finance 18 March 2025 |
 
 ### Registries
 
@@ -109,6 +125,12 @@ Guinea-Bissau's international connectivity rests on a single submarine-cable lan
 | Electoral register update and card replacement | [Implemented](https://ang.gw/referendo-30-de-agosto-gtape-entrega-cadernos-eleitorais-a-cne/) | Register handed to the elections commission 2026-08-18 for the 30 August referendum |
 | SIREC (Integrated System of Citizen Registers and Statistics) | [Piloting](https://www.biometricupdate.com/202506/guinea-bissau-deploys-efforts-to-digitize-birth-registration-national-id-systems) | Ministry of Justice Civil Registration Office (Raul Gomes) describes SIREC digitizing births, deaths and marriages, with UNDP-trained officers, roughly three months into rollout; birth registration remains below 50% (~46% of under-fives) |
 | UNDP Building National ID project (civil-registry books scanning and digitization) | [In development](https://www.undp.org/guinea-bissau/projects/building-national-identification-system-supporting-ministry-justice-scanning-and-digitizing-civil-registry-books-guinea-bissau) | UNDP project, co-financed by the Swiss Confederation, sets up a digitization centre and develops software to recover and digitize paper civil-registry books (births, deaths, marriages, annotations) as the country's main national identity platform |
+
+### Other GovTech and e-Gov
+
+| System or instrument | Status | Milestone |
+|---|---|---|
+| SIIC (Integrated Criminal Information System) | [Implemented](https://www.pjguinebissau.com/artigos/ministra-de-justica-inaugura-centro-reformulado-do-sistema-integrado-de-informacao-criminal/) | Reformulated centre inaugurated by the Minister of Justice, 9 March 2023 |
 
 <!-- narrative: dpi -->
 Civil-registration and identity digitisation is the most advanced thread: [SIREC](https://www.biometricupdate.com/202506/guinea-bissau-deploys-efforts-to-digitize-birth-registration-national-id-systems), piloted since roughly March 2025, is digitising births, deaths and marriages with UNDP-trained officers, against a birth-registration rate for under-fives still around 46%; [Semlex's biometric national-ID production network](https://www.biometricupdate.com/202506/guinea-bissau-deploys-efforts-to-digitize-birth-registration-national-id-systems) has grown to 18 centres nationwide, most recently a third Biombo centre at Safim; and the ECOWAS biometric card ([ENBIC](https://www.biometricupdate.com/202506/guinea-bissau-deploys-efforts-to-digitize-birth-registration-national-id-systems)), already operationalised nationally, saw its first reported field issuance — 262 cards to women cross-border traders in São Domingos — in March 2026. A separate [UNDP project](https://www.undp.org/guinea-bissau/projects/building-national-identification-system-supporting-ministry-justice-scanning-and-digitizing-civil-registry-books-guinea-bissau) is digitising the paper civil-registry books that underlie all of this. The country's first fully digital census, [RGPH4](https://ang.gw/ivo-rgph4-guine-bissau-conta-atualmente-com-2-191-300-habitantes-segundo-dados-preliminares-divulgados-hoje-pelo-ine/), released preliminary results in July 2026 putting the population at 2,191,202. An [interoperability regulation](https://ang.gw/governo-aprova-projeto-de-regulamento-sobre-a-interoperabilidade-de-sistemas-e-plataformas-digitais/) for public and private digital systems was approved by Council of Ministers decree in July 2025 but its promulgation is not confirmed. Guinea-Bissau's electronic-money footprint remains thin regionally — [1.94% of UEMOA accounts opened, via just two issuing initiatives, though active accounts grew 33.28% in 2024](https://www.bceao.int/sites/default/files/2026-03/Rapport%20annuel%20sur%20les%20services%20financiers%20num%C3%A9riques%20dans%20l%27UEMOA%20-%202024.pdf).
@@ -119,7 +141,7 @@ Civil-registration and identity digitisation is the most advanced thread: [SIREC
 _The base holds no digitalisation rows for Guinea-Bissau. A thin evidence base is a finding, not a gap in this document._
 
 <!-- narrative: digitalisation -->
-
+The base holds no local-government or rural-digitalisation system for Guinea-Bissau. What is on record of service delivery outside the capital sits under DPI and Governance rather than under a digitalisation programme of its own.
 <!-- /narrative -->
 
 ## Technology
@@ -138,8 +160,14 @@ No AI or technology-sector system is held on record for Guinea-Bissau.
 |---|---|---|
 | STARTOCODE digital-skills programme (Telecel + Government) | [Piloting](https://telecelgroup.com/telecel-and-guinea-bissau-government-launch-startocode-coordination-committee/) | Joint decree signed creating the STARTOCODE Coordination and Monitoring Committee, formalising programme implementation |
 
-<!-- narrative: capacity -->
+### Research institutions
 
+| System or instrument | Status | Milestone |
+|---|---|---|
+| RNEP-GB (National Research and Education Network) | [Planned](https://wardip.gw/wp-content/uploads/2025/04/20240815-final-report-final-EN-1.pdf) | Proposed in the WARDIP-GB final report, July 2024 |
+
+<!-- narrative: capacity -->
+Capacity provision is thin and donor-shaped. [STARTOCODE](https://telecelgroup.com/telecel-and-guinea-bissau-government-launch-startocode-coordination-committee/), a digital-skills programme run jointly by Telecel and the government, is the only training instrument on record and is piloting under a coordination committee formalised by joint decree. On the research side there is a design and no build: the [RNEP-GB national research and education network](https://wardip.gw/wp-content/uploads/2025/04/20240815-final-report-final-EN-1.pdf) was specified under WARDIP-GB in July 2024 for 32 higher-education institutions and membership of WACREN, in a three-phase roadmap from legal establishment to national reach, and nothing on file records it being established.
 <!-- /narrative -->
 
 ## Inclusion
@@ -156,10 +184,12 @@ Guinea-Bissau's only tracked skills programme is [STARTOCODE](https://telecelgro
 
 | System or instrument | Status | Milestone |
 |---|---|---|
+| IMF e-GDDS National Summary Data Page | [Implemented](https://www.imf.org/en/News/Articles/2024/07/08/pr24262-guinea-bissau-implements-imfs-enhanced-general-data-dissemination-system) | National Summary Data Page launched, announced by the IMF 8 July 2024 |
+| National Statistical System Framework Law (Lei n.o 6/2007) | [Enacted](https://stat-guinebissau.com/Menu_principal/Pubica%C3%A7%C3%B5es/Regulamento%20e%20Estatuto%20Organico/Legisla%C3%A7%C3%A3o_INE.pdf) | Enacted by Lei n.o 6/2007 of 10 September 2007 |
 | RGPH4 (4th General Population and Housing Census) | [Implemented](https://ang.gw/ivo-rgph4-guine-bissau-conta-atualmente-com-2-191-300-habitantes-segundo-dados-preliminares-divulgados-hoje-pelo-ine/) | INE releases RGPH4 preliminary results - population 2,191,202 (up from 1,449,230 in 2009), the country's first fully digital (CAPI) census, financed by UNFPA (lead technical agency) and the World Bank |
 
 <!-- narrative: data -->
-
+Statistics is the one part of the record where the institutional base is complete rather than partial. The national statistical system has rested on [Lei n.o 6/2007](https://stat-guinebissau.com/Menu_principal/Pubica%C3%A7%C3%B5es/Regulamento%20e%20Estatuto%20Organico/Legisla%C3%A7%C3%A3o_INE.pdf) since 2007, as amended by two 2023 decrees; the INE has published essential macroeconomic data on an [IMF e-GDDS National Summary Data Page](https://www.imf.org/en/News/Articles/2024/07/08/pr24262-guinea-bissau-implements-imfs-enhanced-general-data-dissemination-system) since July 2024; and [RGPH4](https://ang.gw/ivo-rgph4-guine-bissau-conta-atualmente-com-2-191-300-habitantes-segundo-dados-preliminares-divulgados-hoje-pelo-ine/), the country's first fully digital census, released preliminary results in July 2026 putting the population at 2,191,202.
 <!-- /narrative -->
 
 ## Geopolitics
@@ -167,7 +197,7 @@ Guinea-Bissau's only tracked skills programme is [STARTOCODE](https://telecelgro
 _The base holds no geopolitics rows for Guinea-Bissau. A thin evidence base is a finding, not a gap in this document._
 
 <!-- narrative: geopolitics -->
-
+The base holds no geopolitical instrument for Guinea-Bissau. Its external digital relationships appear on this record as financing and as regional membership, and are carried under Finance and under Governance rather than here.
 <!-- /narrative -->
 
 ## Gaps to fill

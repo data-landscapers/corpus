@@ -3,10 +3,10 @@ title: Guinea-Bissau — progress report, August 2025 – August 2026
 compiled: 2026-08-27
 period: 2025-08-01 to 2026-08-27
 place: GNB
-ledger_rows: 26
+ledger_rows: 43
 not_held: 1
 indicators: 121
-record: 6ac1c8bfbc80
+record: 873bb2e15b00
 ---
 
 # Guinea-Bissau: progress report, August 2025 – August 2026

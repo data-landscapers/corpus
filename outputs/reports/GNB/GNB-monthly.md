@@ -1,11 +1,11 @@
 ---
 title: Guinea-Bissau — monthly update, July – August 2026
-compiled: 2026-08-25
-period: 2026-07-01 to 2026-08-25
+compiled: 2026-08-27
+period: 2026-07-01 to 2026-08-27
 place: GNB
-ledger_rows: 5
+ledger_rows: 6
 not_held: 1
-record: 44263d0fce3b
+record: d4ef564b9a41
 ---
 
 # Guinea-Bissau: monthly update, July – August 2026
@@ -37,6 +37,11 @@ The digital integrity law was [passed unanimously with amendments by the transit
 
 <!-- narrative: dpi--dpi-exchange -->
 [The government approved a national interoperability regulation](https://pt.linkedin.com/posts/wardip-guin%C3%A9-bissau_governo-aprova-regulamento-nacional-de-interoperabilidade-activity-7491768929355194368-Vk5Q), announced on 8 August 2026 by the World Bank-backed Western Africa Regional Digital Integration Program, which supports the work and presents the framework as Guinea-Bissau's contribution to the regional programme. A draft decree on the interoperability of public and private digital systems had been approved by the Council of Ministers on 10 July 2025 and had not moved since; the announcement names no decree number, no gazettal and no entry-into-force date, and the paired data-governance and cybersecurity decrees approved alongside it in 2025 remain where they were.
+<!-- /narrative -->
+### Digital Payments and Fintech
+
+<!-- narrative: dpi--dpi-pay -->
+Guinea-Bissau's connection to the regional instant-payment rail widened. The BCEAO's [participant list of 31 July 2026](https://ns2.bceao.int/sites/default/files/2026-08/Liste_des_participants_PI-SPI_au_31_juillet_2026.pdf) records five institutions authorised to open PI-SPI services to the public - Banco da Africa Ocidental, BDU, Coris Bank, Ecobank and Orabank - against three when the platform opened to the public in September 2025. Guinea-Bissau and Niger hold the joint-smallest national counts on a union list that has more than doubled over the same period, to 104 participants across the eight WAEMU states.
 <!-- /narrative -->
 ### Registries
 
