@@ -3,10 +3,10 @@ title: Tanzania — progress report, August 2025 – August 2026
 compiled: 2026-08-27
 period: 2025-08-01 to 2026-08-27
 place: TZA
-ledger_rows: 150
+ledger_rows: 153
 not_held: 13
 indicators: 121
-record: 5312af9a2f39
+record: 1feec60a4ecc
 ---
 
 # Tanzania: progress report, August 2025 – August 2026

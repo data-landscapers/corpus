@@ -3,9 +3,9 @@ title: Tanzania — monthly update, July – August 2026
 compiled: 2026-08-27
 period: 2026-07-01 to 2026-08-27
 place: TZA
-ledger_rows: 80
+ledger_rows: 83
 not_held: 13
-record: 0a1d922d7a37
+record: 501308be4977
 ---
 
 # Tanzania: monthly update, July – August 2026
@@ -30,6 +30,8 @@ A ministerial inspection of the national backbone on 24 July recorded [942.5 km 
 At a university health conference on 31 July the government stated [three requirements: that health data be stored inside Tanzania, that healthcare AI systems be approved by the relevant authorities, and that local capacity to build them be developed](https://www.thecitizen.co.tz/tanzania/news/national/tanzania-steps-up-ai-drive-in-healthcare-amid-data-privacy-push-5542208). No instrument and no approving authority was named, and a dedicated regulator was called for from the floor rather than announced.
 
 The coordination that did get a name came from outside the state. A [multi-stakeholder body launched on 8 August to coordinate cybersecurity, data privacy, artificial-intelligence governance and payment security across government, industry and academia](https://www.linkedin.com/posts/sandbox-security_tanzaniadigitaltrustinitiative-digitaltrust-activity-7491819343543173121--VE7), founded by a security firm with a privacy professionals' association and a fintech association, and naming the data protection commission, the ICT commission and the private sector federation among its partners; the [same forum published a digital trust outlook report and inaugurated a cross-border corridor with the Gulf Cooperation Council for regulatory dialogue, secure payments and artificial-intelligence governance](https://www.linkedin.com/posts/tanzania-privacy-proffessional-association_tanzaniadigitaltrust-digitaltrustforum2026-activity-7492254924857204736-2sNm). No constitution, funding, membership list or statement of the named regulators' role in it is held.
+
+The education, science and technology ministry [completed a draft National Technology Roadmap](https://eastleighvoice.co.ke/news/392552/tanzania-drafts-25-year-national-technology-roadmap) forecasting the country's technology needs over the next 25 years across 13 sectors, presented at a stakeholder discussion. It is a draft: nothing on file records adoption or publication.
 <!-- /narrative -->
 ### Legislation and regulation
 
@@ -72,6 +74,8 @@ The minister inspected the national backbone at Mpwapwa on 24 July. The network 
 On 29 July the Kenyan and Tanzanian ministers [launched a terrestrial fibre link across the border, integrating the national backbone with submarine cable capacity](https://www.kenyanews.go.ke/kenya-and-tanzania-launch-terrestrial-fiber-link-connection/). No capacity, cost or financing was stated, and the base does not reconcile it against the 2025 connection on the route.
 
 A separate tower programme reported its own reach to Parliament on 15 August: a [TZS 126bn, 758-tower project — TZS 55bn from the World Bank and TZS 71bn from the universal service fund — has connected 8.5 million people across 1,400 villages](https://dailynews.co.tz/8-5m-tanzanians-gain-access-to-internet-services-following-installation-of-758-new-towers/), in the same report that records 14,826 data controllers and processors registered with the data protection commission by June 2026. The ministry gives no count of towers completed against the 758 planned, and no measure of service uptake in the villages it says are connected.
+
+The second operator [launched fibre-to-the-home in Dodoma](https://www.ecofinagency.com/news-digital/2608-58349-yas-targets-tanzania-s-fixed-internet-market-with-new-fiber-rollout), with plans to widen coverage across the city on a stated 300 billion shilling investment.
 <!-- /narrative -->
 ### Data Storage
 
@@ -102,6 +106,8 @@ The same budget statement [provides for cybercrime investigation centres at Dodo
 
 <!-- narrative: dpi--dpi-exchange -->
 The public procurement appeals authority [directed all domestic and international bidders to lodge challenges through its online module and announced plans to integrate it with the judiciary's system](https://www.thecitizen.co.tz/tanzania/news/national/ppaa-pushes-online-appeals-to-boost-transparency-in-public-tenders-5542668), reported 31 July, with hearings by video conference already taking cases from bidders in five other countries. No date is attached to the integration.
+
+On forest-products revenue the government chose integration over replacement, a two-day technical working group in Dodoma [settling on joining the existing systems rather than building a new one](https://dailynews.co.tz/government-moves-to-integrate-forest-revenue-systems/). That is the working group's stated choice and not yet an outcome: no interface specification, timetable or go-live date is on file.
 <!-- /narrative -->
 ### Digital Identity and CRVS
 
@@ -165,6 +171,11 @@ At an international AI meeting on 18 July the ICT minister stated that a [nation
 Twelve days later, at a training event on 30 July, an archives officer said [government is still drafting AI guidelines](https://www.mwananchi.co.tz/mw/habari/biashara/maeneo-manne-ya-kujizatiti-wataalamu-wa-tehama-tanzania-5541292); an [external policy outlook published the same day placed Tanzania among states still developing a strategy](https://cipit.strathmore.edu/east-african-artificial-intelligence-policy-outlook-report/).
 
 Three deployments were reported. A cardiac institute stated on 16 July that its [digital patient tracking system is in use for medical-camp follow-up](https://www.thecitizen.co.tz/tanzania/news/national/jkci-s-digital-patient-tracking-system-sets-new-standard-for-follow-up-healthcare-in-tanzania-5528476), alongside AI-enabled echocardiography and contactless vital-signs monitoring, with no patient volumes or procurement route. A peer-reviewed study published 3 August reported a ports enquiry chatbot at [95.1% weighted task success with fifteen domain experts](https://digitalcommons.kennesaw.edu/ajis/vol18/iss2/3), with no production deployment. At the agricultural exhibition on 4 August a university showed [a medicine-authenticity lookup at development stage and a voice-driven mobile-money service for blind users in testing](https://www.thecitizen.co.tz/tanzania/news/national/ardhi-university-unveils-ai-solutions-to-fight-counterfeit-drugs-expand-financial-access-5546322); both are student prototypes, self-reported, with no institutional partner, regulator or funder named.
+<!-- /narrative -->
+### Innovation ecosystem
+
+<!-- narrative: technology--tech-innovate -->
+The government launched [InnoIP Tanzania](https://fullshangweblog.co.tz/2026/08/23/577246/), a programme to help more than 5,000 innovators register and protect their work as intellectual property. No registration count, budget line or closing date has been published behind the target.
 <!-- /narrative -->
 
 ## Capacity

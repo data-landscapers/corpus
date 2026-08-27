@@ -3,10 +3,10 @@ title: South Africa — progress report, August 2025 – August 2026
 compiled: 2026-08-27
 period: 2025-08-01 to 2026-08-27
 place: ZAF
-ledger_rows: 229
+ledger_rows: 230
 not_held: 23
 indicators: 121
-record: dd662f633b43
+record: 5f161a365fc4
 ---
 
 # South Africa: progress report, August 2025 – August 2026

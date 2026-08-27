@@ -1,11 +1,11 @@
 ---
 title: DR Congo — monthly update, July – August 2026
-compiled: 2026-08-26
-period: 2026-07-01 to 2026-08-26
+compiled: 2026-08-27
+period: 2026-07-01 to 2026-08-27
 place: COD
-ledger_rows: 54
+ledger_rows: 60
 not_held: 13
-record: 73c2a302cdb8
+record: d734878915f5
 ---
 
 # DR Congo: monthly update, July – August 2026
@@ -37,6 +37,8 @@ The [interministerial order on digital-sector duties, taxes and fees was in forc
 Two regulators agreed on 22 July to [form joint inspection teams and enforce local-content subcontracting rules on large operators](https://actualite.cd/2026/07/23/rdc-larsp-et-larptc-renforcent-leur-cooperation-pour-promouvoir-la-sous-traitance-dans), scoped beyond telecoms to digital services and e-commerce; no written protocol is held.
 
 The digital code is being applied to speech. On 15 August the justice minister [restated the government's determination to clean up Congolese cyberspace and said prosecutions were already under way for public insults and defamation on social platforms under the Code du numérique](https://actualite.cd/index.php/2026/08/15/rdc-face-aux-derives-sur-les-reseaux-sociaux-le-ministre-de-la-justice-reaffirme-la), after receiving an NGO memorandum on 13 August. No case number, charge or judgment is held.
+
+A new schedule of [taxes, permits and sanctions now governs the digital sphere](https://the-port-brief.co.tz/article/regulation-of-the-digital-sphere-in-the-drc-analysis-of-new-regulations-on-taxes-permits-and-sanctions). The base holds a legal analysis of it rather than the instrument, so the issuing authority, the instrument number and the entry-into-force date are not established here.
 <!-- /narrative -->
 ### Data protection
 
@@ -52,11 +54,15 @@ The [African Telecommunications Union's return to Kinshasa was ratified on 23 Ju
 
 <!-- narrative: governance--gov-standards -->
 The telecommunications regulator set on 22 July a [binding escalation path for consumer complaints: the operator first, up to 30 working days, then referral to the regulator](https://progreseco.com/face-aux-abus-de-services-des-telecoms-et-de-la-poste-les-usagers-appeles-a-porter-plainte-aupres-de-larptc/).
+
+The telecoms regulator [installed equipment giving it near-real-time access to mobile operators' own data](https://decrypt-eco.net/2026/08/25/qualite-internet-le-gouvernement-ausculte-les-reseaux-mobiles-avec-de-nouveaux-equipements-de-controle/) on service quality, traffic flows and spectrum, which the ministry says will let it establish breaches objectively rather than on operators' own reporting. No first enforcement action or published measurement has followed.
 <!-- /narrative -->
 ### Public debate and participation in policymaking
 
 <!-- narrative: governance--gov-discourse -->
 A [standing consultation mechanism between the ministry and the sector network was agreed at a working session on 6 August](https://acp.cd/economie/rdc-larrete-interministeriel-sur-la-fixation-des-taux-ne-concerne-nullement-les-startups-reseau-des-acteurs-du-numerique/), after the dispute over the digital-sector tariff. No constituting text, membership or meeting schedule is stated, and the agreement is known from a communiqué carried by the state news agency.
+
+The audiovisual and communications council and the press-freedom council [formalised an institutional partnership by memorandum](https://www.adiac-congo.com/content/medias-le-csac-et-le-cslc-formalisent-leur-partenariat-institutionnel-171340) after two days of work on 19 and 20 August 2026. No work programme, joint power or first action under it is on file.
 <!-- /narrative -->
 
 ## Finance
@@ -80,6 +86,8 @@ A development fund committed [US$32.8m into an upsized US$179m senior secured fa
 Deployment of the transformation project's fibre backbone was reported to the Council on 3 August: [7,000 km laid against more than 18,500 km, leaving 11,500 km outstanding](https://deskeco.com/2026/08/03/transformation-numerique-en-rdc-encore-11500-km-de-fibre-optique-deployer-pour-atteindre-un-total-de) and tied to connecting 145 territories by 2030. The minister attributed the pace to budget constraints and a low disbursement rate on external financing, blamed on donor procedure.
 
 Coverage arrived from orbit before it arrived by fibre. An operator [commercially launched a satellite-to-mobile service on 14 August, the first African operator to take the technology out of testing](https://businessday.ng/technology/article/airtel-becomes-first-african-operator-to-commercially-deploy-starlink-mobile-starting-in-congo/): a compatible LTE Android handset with a clear view of the sky reaches messaging and SMS through satellites where there is no terrestrial network, with no dish, router or other equipment, and the [regulator has confirmed a phased rollout](https://numerico.cd/2026/08/14/airtel-rdc-et-starlink-rdc-a-la-conquete-des-zones-blanches/). The service is stated as designed for light data, and the only access term published is a [free 30-day trial for customers who register through the operator's app](https://www.connectingafrica.com/connectivity/airtel-africa-starlink-launch-satellite-to-mobile-service-in-drc); no standing tariff, coverage map or subscriber figure is on the record.
+
+Starlink users in Kinshasa [face four to six months of possible slowdowns while the network is congested](https://www.talkafrica.co.ke/starlink-users-in-kinshasa-face-4-6-months-of-possible-slowdowns-amid-network-congestion/). No subscriber count, capacity figure or remediation date accompanies the notice.
 <!-- /narrative -->
 ### Data Storage
 
@@ -121,6 +129,8 @@ Business formalisation was inspected on 28 July: the portal proposes a legal for
 Two further registers were announced as part of a financial-sector package rather than as builds. A [modernised credit-risk registry and an electronic movable-collateral registry are to be built with the central bank, alongside a new deposit-guarantee fund](https://acp.cd/business/rdc-la-banque-mondiale-annonce-des-reformes-pour-faciliter-le-financement-des-pme/), in a World Bank programme to expand financing for small and medium firms that also carries a rollout of 10,000 point-of-sale terminals and agent networks. No instrument, custodian, timetable or access rule is stated for either registry, and no data-protection provision is reported for the credit file.
 
 The registry ground also drew a vendor. A Kenyan platform operator [pitched the digital economy ministry on 12 August on digital company registries, beneficial-ownership traceability and real-time state-revenue tracking](https://acp.cd/economie/rdc-la-mise-en-place-de-registres-numeriques-recommandee-pour-moderniser-ladministration/), citing its own deployments in Malawi and South Sudan; the minister asked officials to continue talks toward a partnership. It is a sales meeting, and the claims in it are the vendor's.
+
+The company that built the vehicle identification platform [is refusing to hand it to the government without compensation](https://www.africaintelligence.com/central-africa/2026/08/25/kinshasa-struggles-to-take-control-of-vehicle-registration-it-system,110864451-art) and is preparing legal action in Belgium after a mediation attempt failed. A state registry whose operating platform the state does not control is a governance exposure and not only a commercial dispute; no contract terms, valuation or filing date is on file.
 <!-- /narrative -->
 ### Sectoral management information systems
 
@@ -170,6 +180,8 @@ A [campaign to publicise the digital code launched in Kinshasa on 6 August, mobi
 
 <!-- narrative: capacity--capacity-training -->
 The employment office launched a [portal and mobile application in July](https://rdc-monde.com/onem-lancement-dune-application-numerique-mikuba-pour-mieux-cartographier-les-competences-et-les-besoins-des-entreprises/) on which jobseekers register skills and employers post needs, intended to build a national skills database. It was externally financed, and no user or placement figure is held.
+
+The digital economy ministry [opened the first of a planned series of five-day training sessions for 580 of its own agents and managers](https://actu7.cd/2026/08/24/le-ministere-de-leconomie-numerique-lance-la-premiere-session-de-formation-de-pres-de-600-agents-et-cadres-de-son-administration/) at the INPES in Kinshasa on 24 August 2026. No curriculum, completion target or budget line is published.
 <!-- /narrative -->
 
 ## Inclusion

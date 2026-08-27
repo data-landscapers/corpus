@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-27
 place: ZAF
 ledger_rows: 120
 not_held: 23
-record: bbfcfd5105b4
+record: dd181d9243d9
 ---
 
 # South Africa: monthly update, July – August 2026
@@ -239,6 +239,8 @@ The month's one research measure is about the literature rather than the country
 The South African Social Security Agency [set 350,000 grant reviews for 2026/27](https://www.sundaytimes.timeslive.co.za/news/2026-07-21-government-to-review-350000-social-grants-in-bid-to-save-r15bn-and-curb-fraud/) against a projected R1.5bn saving, while beneficiaries flagged from September 2025 [reported continued non-payment](https://www.timeslive.co.za/news/south-africa/2026-07-30-sassa-fraud-crackdown-delays-payments-for-thousands/). An account of the digitalised grants system published on 25 July set out the [bank-account means test applied across eight grants](https://www.dailymaverick.co.za/article/2026-07-25-a-peek-behind-south-africas-digitalised-grants-system/), which remains in operation under appeal, with the Supreme Court of Appeal hearing set for 25 August 2026. Gold Cards were confirmed to [cease functioning after 31 August](https://iol.co.za/thepost/news/2026-07-24-deadline-looms-your-sassa-gold-cards-will-no-longer-work-after-august-31/); the position of beneficiaries who miss the deadline was not stated.
 
 One cooperation arrangement addressed a group the grants system serves and the data rarely describes. South Africa and China [agreed a seven-point plan on disability-inclusive data, universal design and artificial-intelligence-enabled assistive technology](https://www.sanews.gov.za/south-africa/sa-china-deepen-cooperation-disability-inclusion), anchored in a proposed centre of excellence working with the national statistics office. No instrument, funding, timetable or data-sharing arrangement is published for cooperation that names the statistics office as a partner.
+
+The grant-review audit reached [105,600 of 352,000 targeted reviews with an estimated R450-million saved](https://www.dailymaverick.co.za/article/2026-08-24-sassa-grant-reviews-strand-vulnerable-south-africans-in-systemic-chaos/), while suspending lawful beneficiaries' payments without effective notice. The saving is the agency's own estimate; the suspensions are reported against it.
 <!-- /narrative -->
 
 ## Data

@@ -3,9 +3,9 @@ title: Cote d'Ivoire — monthly update, July – August 2026
 compiled: 2026-08-27
 period: 2026-07-01 to 2026-08-27
 place: CIV
-ledger_rows: 69
+ledger_rows: 72
 not_held: 10
-record: c21c1191c58e
+record: f12d6f4a70d6
 ---
 
 # Cote d'Ivoire: monthly update, July – August 2026
@@ -33,6 +33,8 @@ The universal-service agency published its own five-year plan on 11 August. It [
 The cyber-security agency is [operating a national security operations centre, a public-administration security-officer network, the national public key infrastructure and auditor certification against the state reference framework](https://fr.apanews.net/technologies/rci-lanssi-lance-la-pki-pour-une-souverainete-numerique/), resting on the 2013 electronic transactions law whose 2014 and 2016 implementing decrees are the stated legal basis for that infrastructure — the only Ivorian digital statute the base can name implementing decrees for. Against that, [no Ivorian artificial-intelligence statute is published](https://cipit.strathmore.edu/wp-content/uploads/2026/07/AIIPin-Africa-Final.pdf): governance runs entirely through non-binding strategy instruments, with the draft cybersecurity strategy the only binding-track vehicle extending state scope to it.
 
 The one place where a statute is acquiring machinery is consumer redress. The regulator [consulted operators, internet service providers and consumer associations on 13 and 14 August on a draft procedure for handling consumer complaints about electronic communications services](https://techreviewafrica.com/news/6772/artci-consults-stakeholders-on-new-consumer-complaint-handling-procedure), implementing the 2024 electronic communications law. No draft text, adoption date or redress standard is held.
+
+The regulator [validated a harmonised procedure for handling consumer complaints](https://www.afriksoir.net/protection-des-consommateurs-lartci-veut-rendre-le-traitement-des-plaintes-plus-efficace/) against operators and internet service providers, now to be transmitted to its Conseil de regulation for possible adoption.
 <!-- /narrative -->
 ### Data protection
 
@@ -73,6 +75,8 @@ The African Development Bank's e-government programme is meanwhile the [route by
 A low-orbit satellite operator [went live by 17 July](https://mybroadband.co.za/news/broadband/658586-starlink-launches-in-27th-african-country-before-south-africa.html) at XOF 28,746 a month for residential service, with hardware from XOF 148,148, on a twelve-month provisional licence reviewable on service quality. On 31 July the minister said regional satellite capacity would be routed through the universal-service bodies, with a working session on terms due the following week; no terms, tariff or timetable was stated. No 5G launch occurred against the announced July 2026 date. Ministry figures given on 13 July put telecommunications penetration above 130% of population and [about 38,000 km of optical fibre](https://techreviewafrica.com/news/6286/cote-divoire-positions-digital-technology-as-key-driver-of-economic-transformation).
 
 On protecting what is already laid, an operator and its vendor [completed a proof of concept in Abidjan that detects vibrations around fibre ducts and classifies them to flag third-party excavation before a cut happens](https://itweb.africa/article/mtn-is-promoting-ai-driven-fibre-cut-sensing-to-reshape-the-resilience-of-digital-infrastructure-in-africa/VgZeyqJlBLV7djX9), on trials run since 2025. The account is vendor-issued and states no commercial deployment, coverage or date. The cable that carries much of the traffic had already failed and been mended: the [2Africa branch into the country came back into service on 2 August after repairs](https://subseacables.blogspot.com/2026/08/2africa-ivory-coast-branch-live-again.html), with WACS repairs expected the week after. Neither the outage's start nor its cause is stated.
+
+An industry survey supplied a fact the base did not hold: 5G has run on re-allocated existing frequencies since a [provisional allocation of 19 December 2023](https://digitalmag.ci/acces-a-internet-etat-dadoption-de-la-technologie-5g-par-les-pays-africains/), which let the two largest operators offer the service for the 2024 Cup of Nations, and it reached 7 per cent of the population in 2025, used first for fixed broadband where there is no fibre. The definitive spectrum award and the commercial launch announced for July 2026 are still undelivered, so the two things the base had run together are now separable.
 <!-- /narrative -->
 ### Data Storage
 
@@ -83,6 +87,8 @@ The national data centre was [formally authorised at US$170m of United States ex
 
 <!-- narrative: ict-infrastructure--infra-cybersec -->
 The cyber agency [commissioned the national public key infrastructure](https://www.aip.ci/cote-divoire-aip-lanssi-met-en-service-linfrastructure-a-cles-publiques-nationale/) on an announcement dated 23 July 2026, on the legal basis of the 2013 electronic-transactions law and its 2014 and 2016 decrees. It is the trust anchor for every certification authority operating on Ivorian territory; the agency's own notice is not held, so the technical commissioning date is unestablished.
+
+The national cybersecurity agency [certified the country's first cohort of RGSSI information-security auditors and is opening two cybersecurity masters degrees](https://digitalmag.ci/coulibaly-talnan-jean-honore-anssi-la-cote-divoire-a-un-besoin-de-2000-competences-en-cybersecurite/) through its training centre, against a stated national shortfall of 2,000 cybersecurity professionals. Neither the cohort size nor the intake is given.
 <!-- /narrative -->
 
 ## DPI
@@ -110,6 +116,11 @@ A private schools federation signed a convention on 21 July putting fee collecti
 Civil-registry software is [installed with hardware in every municipal and sub-prefecture civil-status centre for digital recording of births, marriages and deaths, financed by the European Union](https://www.aip.ci/cote-divoire-aip-digitalisation-de-letat-civil-les-sous-prefets-du-goh-mobilises-pour-accompagner-la-reforme-de-loneci/). Supervision is assigned to sub-prefects rather than to registrars, and the reform is framed as anti-fraud rather than as access.
 
 The identification office marked African Civil Registration Day by putting figures and hardware behind the access side of it. The national civil-status system now [covers 699 centres and has digitised more than four million records, and on 11 August the office handed 283 digital birth-registration terminals to health workers in the Tonkpi region](https://www.koaci.com/index.php/article/2026/08/12/cote-divoire/societe/cote-divoire-operation-zero-enfant-invisible-loneci-deploie-283-terminaux-numeriques-dans-le-tonkpi-pour-garantir-lidentite-des-la-naissance_199500.html) to link maternities directly to civil-registry offices, under a programme it calls zero invisible child. The counts are the office's own, and no registration-rate outcome is attached to them.
+<!-- /narrative -->
+### Sectoral management information systems
+
+<!-- narrative: dpi--dpi-mis -->
+Work began on digitising the national school map, education-sector stakeholders convening at Yamoussoukro on 19 August 2026 to [build geographic information systems onto the integrated education management information system](https://www.ecofinagency.com/news-services/2508-58296-cote-d-ivoire-turns-to-digital-mapping-to-improve-school-planning). No coverage, timetable or delivery date is on file.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 

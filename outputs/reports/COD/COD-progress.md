@@ -3,10 +3,10 @@ title: DR Congo — progress report, August 2025 – August 2026
 compiled: 2026-08-27
 period: 2025-08-01 to 2026-08-27
 place: COD
-ledger_rows: 123
+ledger_rows: 129
 not_held: 13
 indicators: 121
-record: 76a04532fd34
+record: b485bc1a1329
 ---
 
 # DR Congo: progress report, August 2025 – August 2026

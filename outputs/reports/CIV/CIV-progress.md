@@ -3,10 +3,10 @@ title: Cote d'Ivoire — progress report, August 2025 – August 2026
 compiled: 2026-08-27
 period: 2025-08-01 to 2026-08-27
 place: CIV
-ledger_rows: 169
+ledger_rows: 171
 not_held: 10
 indicators: 121
-record: 5c022c646737
+record: 515c1f59b244
 ---
 
 # Cote d'Ivoire: progress report, August 2025 – August 2026
