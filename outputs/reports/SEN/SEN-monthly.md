@@ -3,9 +3,9 @@ title: Senegal — monthly update, July – August 2026
 compiled: 2026-08-27
 period: 2026-07-01 to 2026-08-27
 place: SEN
-ledger_rows: 66
+ledger_rows: 68
 not_held: 14
-record: 4f4895da9697
+record: 91ff155bbf37
 ---
 
 # Senegal: monthly update, July – August 2026
@@ -54,6 +54,8 @@ The bilateral channel moved from signature to work. The June 2026 telecommunicat
 
 <!-- narrative: governance--gov-standards -->
 Senegal adopted [non-binding Francophone West African AI governance guidelines on 6 July](https://www.wearetech.africa/en/fils-uk/news/tech/six-francophone-west-african-countries-unite-on-ai-governance-framework).
+
+Senegal held its [first national green-coding and responsible-digital workshop](https://www.socialnetlink.org/2026/08/24/le-senegal-engage-son-ecosysteme-numerique-sur-la-voie-du-green-coding/), bringing about 170 ecosystem actors to Dakar on 18 and 19 August 2026 to set the basis for a national approach to digital sobriety. Nothing was adopted at it.
 <!-- /narrative -->
 ### Public debate and participation in policymaking
 
@@ -128,6 +130,8 @@ The digitisation the audit is measuring has its own figures. The civil-status ag
 
 <!-- narrative: dpi--dpi-mis -->
 In health, a [mortality and cause-of-death analysis tool was trained out on 20 and 21 July](https://lesoleil.sn/actualites/sante/renforcement-informations-sanitaires-anacod3-lance-afin-dameliorer-la-qualite-des-donnees-de-mortalite/), and civil society [called on 23 July for adoption of a digital-health bill](https://lesoleil.sn/actualites/sante/coeur-rose-de-diourbel-plaide-ladoption-de-la-loi-sur-la-sante-digitale/) whose status and text are not stated; the ministry has begun building a single patient record ahead of the law meant to govern it.
+
+The higher-education, research and innovation ministry [reported a further step in the digital transformation of its services](https://mesrisenegal.sn/2026/08/22/mesri-une-nouvelle-etape-franchie-dans-la-transformation-numerique-des-services/), framed around interoperability; no service list, user count or completion date is given.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 

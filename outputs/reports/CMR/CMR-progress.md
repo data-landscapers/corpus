@@ -3,10 +3,10 @@ title: Cameroon — progress report, August 2025 – August 2026
 compiled: 2026-08-27
 period: 2025-08-01 to 2026-08-27
 place: CMR
-ledger_rows: 128
+ledger_rows: 131
 not_held: 7
 indicators: 121
-record: 8c198bb289ca
+record: 718799c78077
 ---
 
 # Cameroon: progress report, August 2025 – August 2026

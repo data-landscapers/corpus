@@ -3,10 +3,10 @@ title: Ethiopia — progress report, August 2025 – August 2026
 compiled: 2026-08-27
 period: 2025-08-01 to 2026-08-27
 place: ETH
-ledger_rows: 100
+ledger_rows: 103
 not_held: 5
 indicators: 121
-record: f73675dfbeb9
+record: 99b0791816a3
 ---
 
 # Ethiopia: progress report, August 2025 – August 2026

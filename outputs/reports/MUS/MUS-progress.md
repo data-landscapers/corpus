@@ -3,10 +3,10 @@ title: Mauritius — progress report, August 2025 – August 2026
 compiled: 2026-08-27
 period: 2025-08-01 to 2026-08-27
 place: MUS
-ledger_rows: 81
+ledger_rows: 84
 not_held: 9
 indicators: 121
-record: f04178bcb874
+record: d27c32e89ab7
 ---
 
 # Mauritius: progress report, August 2025 – August 2026

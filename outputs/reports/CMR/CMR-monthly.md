@@ -3,9 +3,9 @@ title: Cameroon — monthly update, July – August 2026
 compiled: 2026-08-27
 period: 2026-07-01 to 2026-08-27
 place: CMR
-ledger_rows: 43
+ledger_rows: 46
 not_held: 7
-record: 711f26792ae2
+record: 9621c4375bd4
 ---
 
 # Cameroon: monthly update, July – August 2026
@@ -38,6 +38,8 @@ The one legislative act in the window changes the regulator rather than the rule
 
 <!-- narrative: governance--gov-discourse -->
 The state set itself a public venue for the question its record does not answer. The posts and telecommunications ministry is [hosting the 2026 national Internet Governance Forum in Yaounde from 18 to 20 August](https://afriqueitnews.com/crypto-et-web3/cameroun-fgi-2026-place-donnee-coeur-futurs-services-publics-numeriques/), on the theme of moving from fragmentation to interoperability and positioning data as the foundation of interoperable digital public infrastructure, with a plenary on a possible national data-governance strategic framework. The base holds no government interoperability layer and no data-governance framework, so the plenary's subject is an absence rather than an instrument. What is held is a preview: no programme document, participant list or prior edition, and no outcome.
+
+The 2026 national Internet Governance Forum [met at the Palais des Congres in Yaounde from 18 to 20 August](https://techgriot.co/english/cameroon/2026/08/cameroons-fgi-2026-bet-on-data-to-connect-public-services/) under the theme of moving from fragmentation to interoperability and making data the backbone of public digital services. No resolution, communique or follow-up mechanism came out of it.
 <!-- /narrative -->
 
 ## ICT Infrastructure
@@ -48,6 +50,8 @@ The state set itself a public venue for the question its record does not answer.
 An account of 27 July put the national fibre backbone at [over 15,000 km](https://newswatchcameroon.com/cameroon-starlink-licensing-stalls-over-security-sovereignty-concerns/), against about 12,000 km terrestrial on the 2024 reference year; the two figures are not reconciled to a single primary and may rest on different measurement bases.
 
 The same account records the [2024 customs circular on satellite terminals still operative](https://newswatchcameroon.com/cameroon-starlink-licensing-stalls-over-security-sovereignty-concerns/), with kits entering through indirect registration abroad and ten modems seized at one post in December 2025.
+
+The regulator's director-general said the [preparatory work for 5G is practically complete but set no date for commercial launch](https://www.businessincameroon.com/telecom/2608-16620-cameroon-says-5g-groundwork-nearly-complete-with-more-operator-investment-needed), calling for more operator investment. A regulator saying the groundwork is done while naming no date is the whole of the position: no spectrum award, coverage obligation or licence term is on file.
 <!-- /narrative -->
 ### Data Storage
 
@@ -68,6 +72,8 @@ The month also produced the base's first measure of what cybercrime costs an ind
 
 <!-- narrative: dpi--dpi-exchange -->
 On 29 July a joint communiqué [established a trilateral customs steering committee with Nigeria and Benin](https://von.gov.ng/nigeria-benin-cameroon-customs-deepen-regional-border-cooperation/), committing to harmonised procedures, digital interoperability and coordinated risk management on two named corridors, with no timeline, budget or system specification published. At home the layer that would carry any of this acquired an owner rather than a design: at the opening of the national internet governance forum on 18 August the posts and telecommunications ministry [tasked the state operator CAMTEL with carrying national data and infrastructure interoperability](https://www.digitalbusiness.africa/fgi-cameroun-camtel-mandatee-de-faciliter-linteroperabilite-nationale/), resting the mandate on its backbone, transmission, access and hosting infrastructure. No instrument, timetable or budget accompanies it.
+
+The minister responsible for decentralisation and local development said on 25 August 2026 that the administration [has built digital islands side by side and that these must end](https://www.digitalbusiness.africa/cameroun-georges-elanga-obam-veut-mettre-fin-aux-ilots-numeriques-de-ladministration/) â€” a ministerial commitment rather than a platform. The same problem framed the national Internet Governance Forum in Yaounde a week earlier.
 <!-- /narrative -->
 ### Digital Identity and CRVS
 
@@ -111,6 +117,8 @@ The same seminar put council digitisation at [230 councils, about 64% nationally
 
 <!-- narrative: technology--tech-ai -->
 Cabinet was told on 30 July that the [national AI strategy is still being developed, with ten priority areas and a costed roadmap tabled](https://cameroon-tribune.cm/articles/11573/en/artificial-intelligence-pm-instructs-completion-of-national-strategy) and no adoption instrument published; a 2040 roadmap on seven pillars had been presented in July 2025. The [AI authority and presidential council that roadmap provided for remain uncreated](https://cameroon-tribune.cm/articles/11573/en/artificial-intelligence-pm-instructs-completion-of-national-strategy) and are absent from the ten priorities, which carry only adaptation of the legal framework. Among the priorities is a [national high-performance computing centre](https://cameroon-tribune.cm/articles/11573/en/artificial-intelligence-pm-instructs-completion-of-national-strategy), announced with no site, cost, operator or timetable. At the same session the telecommunications minister said Cameroon had [acceded as a founding member of a global AI cooperation body](https://cameroon-tribune.cm/articles/11573/en/artificial-intelligence-pm-instructs-completion-of-national-strategy); the accession date is not published.
+
+The higher-education ministry [set out a strategy for artificial intelligence in higher education](https://www.scoop-afrique.com/articles/ia-et-education-le-pari-camerounais-presente-a-pekin) at the Global Smart Education Conference in Beijing from 18 to 20 August 2026. No strategy document, budget or implementation date has been published behind it.
 <!-- /narrative -->
 ### Innovation ecosystem
 

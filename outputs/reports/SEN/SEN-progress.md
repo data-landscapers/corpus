@@ -3,10 +3,10 @@ title: Senegal — progress report, August 2025 – August 2026
 compiled: 2026-08-27
 period: 2025-08-01 to 2026-08-27
 place: SEN
-ledger_rows: 116
+ledger_rows: 118
 not_held: 14
 indicators: 121
-record: ba4ba0bd1c23
+record: 2cb4e40d99c6
 ---
 
 # Senegal: progress report, August 2025 – August 2026

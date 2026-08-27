@@ -3,9 +3,9 @@ title: Kenya — monthly update, July – August 2026
 compiled: 2026-08-27
 period: 2026-07-01 to 2026-08-27
 place: KEN
-ledger_rows: 150
+ledger_rows: 153
 not_held: 7
-record: fdd645287fec
+record: 5274373fea67
 ---
 
 # Kenya: monthly update, July – August 2026
@@ -103,6 +103,8 @@ Satellite capacity ran out in the country's densest markets. The operator [suspe
 Kenya and Tanzania [launched a cross-border terrestrial fibre link](https://www.kenyanews.go.ke/kenya-and-tanzania-launch-terrestrial-fiber-link-connection/) on 29 July 2026, integrating the Tanzanian backbone with the Mombasa submarine landings. The London Internet Exchange [added a regional cloud provider to its Nairobi hub](https://itweb.africa/article/linx-expands-kenya-peering-network/5yONP7ErXpRMXWrb) in July, reaching 55 or more connected networks on combined traffic of 330 Gbps.
 
 The largest procurement in the window is a surveillance build sold as traffic management. The roads authority is out to tender on [Nairobi's Intelligent Transport System Phase II at Ksh10bn, about US$83.8m, covering CCTV, e-police monitoring and vehicle-detection systems at 60 junctions on a 30-month design-build contract financed by a South Korean development loan](https://www.kenyans.co.ke/news/126063-kura-expands-nairobis-ksh10b-smart-traffic-project-phase-ii), with the bid deadline pushed back two weeks to 19 August. No data-protection authorisation, retention rule or oversight arrangement for the cameras and detection systems is reported, and no award has been made.
+
+An industry survey filled a gap in the record on 5G: commercial networks opened between October 2022 and July 2023, the largest operator [doubled its 5G sites to about 1,700 in 2025](https://digitalmag.ci/acces-a-internet-etat-dadoption-de-la-technologie-5g-par-les-pays-africains/), and coverage is projected to reach 94 per cent by 2030, helped by rules that let operators refarm existing spectrum. The service is used mainly as an alternative to fibre for connecting homes and businesses.
 <!-- /narrative -->
 ### Data Storage
 
@@ -132,6 +134,8 @@ The presidency's website was [defaced on 18 July with a 5 BTC ransom demand and 
 A vendor threat report published on 13 August put the exposure at the ordinary end rather than the novel one: [malicious email attachments dominated, 46.2% of them scripts, quick-response-code phishing rose 145% between the second half of 2025 and the first of 2026, exploitation of a 2017 Office vulnerability more than doubled, and one loader became the country's fourth most-detected malware family](https://techtrends.africa/eset-threat-report-kenyan-organisations-are-being-attacked-by-the-basics/). The figures are the vendor's own detections, not a national incident series.
 
 The instrument establishing the new agency also reached the base this month, three months after it took effect. The [State Corporations (National Cybersecurity Agency) Order, 2026 — Legal Notice 89 of 2026, gazetted and commenced on 15 May 2026 — makes it an autonomous body corporate headquartered in Nairobi City County under the direction of the Cabinet Secretary for internal security, charged with formulating national cybersecurity strategy, auditing and certifying the resilience of designated critical information infrastructure, running the National Cybersecurity Operations Centre and maintaining a Cybersecurity Centre of Excellence, with a board seating the internal-security, Treasury and ICT principal secretaries alongside one academic and one private-sector appointee](https://new.kenyalaw.org/akn/ke/act/ln/2026/89/eng@2026-05-15). Nothing in the record shows it exercising any of those powers yet.
+
+The President [appointed a director to lead the National Cybersecurity Agency](https://www.kbc.co.ke/dr-martin-koyabe-appointed-to-lead-national-cybersecurity-agency/). The agency now has named leadership and, on this record, no constitutive instrument, budget line or published function; the National Cybersecurity Policy beside it is still only planned.
 <!-- /narrative -->
 
 ## DPI
@@ -152,6 +156,8 @@ The regional payments interlink took another participant: a commercial bank grou
 Government is [procuring a system to cut identity-card issuance to ten days and passports to a week](https://www.standardmedia.co.ke/national/article/2001551755/new-technology-slashes-national-id-waiting-time-to-10-days). The source is a headline account; no contract, vendor or value is held.
 
 Two identity systems met the courts instead. The High Court [barred the transport authority from discontinuing physical vehicle logbooks](https://www.the-star.co.ke/news/2026-08-11-court-preserves-validity-of-ntsa-physical-logbooks) on 11 August, pending a petition arguing the electronic logbook was introduced without public participation and without adequate data-protection and cybersecurity impact assessments. Separately, the Attorney-General's six-month window to legislate on phone-number recycling, opened by the March judgment recognising a registered number as a protected digital identifier, [was still open in August with nothing tabled](https://www.kictanet.or.ke/https-www-kictanet-or-ke-phone-number-recycling-digital-identity-kenya/), while banks, savings societies and platforms continue to rely on numbers after reassignment.
+
+The transport and safety authority [unveiled a Sh42 billion public-private partnership to roll out smart driving licences over twenty-one years](https://swalanyeti.co.ke/business/article/11563/ntsa-unveils-sh42-billion-ppp-to-roll-out-smart-driving-licences-over-21-years). A twenty-one-year concession over a national credential is a long commitment, and no concessionaire, financial close or first issuance date is named.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 

@@ -3,9 +3,9 @@ title: Gabon — monthly update, July – August 2026
 compiled: 2026-08-27
 period: 2026-07-01 to 2026-08-27
 place: GAB
-ledger_rows: 47
+ledger_rows: 50
 not_held: 27
-record: 0e170ea9fde3
+record: 529719cb3328
 ---
 
 # Gabon: monthly update, July – August 2026
@@ -35,6 +35,10 @@ On 23 July a national workshop validated by consensus five implementing texts on
 The month's other legislative movement is procedural rather than expressive. A justice ministry commission [submitted a draft Code of Civil Procedure on 11 August](https://agpgabon.ga/gabon-lavant-projet-du-nouveau-code-de-procedure-civile-remis-au-ministre-de-la-justice), a rewrite of the 1977 ordinance running to more than 800 pages that would let procedural filings be made and held electronically, introduce secure digital tools, and harmonise with the OHADA uniform acts. Professional consultation and parliamentary debate are still ahead, and the draft text is not held.
 
 An earlier instrument reached the base this month and it is the furthest-going measure of its kind reported in the region. An ordinance of February 2026 [fixes digital majority at 16 and obliges platforms to limit certain publication and interaction functions, to disable contacts from unidentified users by default and to provide age-verification mechanisms](https://www.agenceecofin.com/actualites/2708-141074-en-afrique-comme-ailleurs-les-etats-s-emparent-de-la-protection-des-mineurs-sur-les-reseaux-sociaux) — a duty on how a platform is built rather than a minimum age alone, where Rwanda is still preparing a restriction on under-16s and Zimbabwe has gone the policy route. The ordinance text is not held, only a comparative account of it, and no implementing regulation, supervisory body or enforcement action is on record.
+
+The primary text of the social-media ordinance arrived, and it settles a conflation the base had carried. [Ordonnance n 0011/PR/2026](https://journal-officiel.ga/22404-0011-pr-2026-/), signed on 26 February 2026 and published in Journal Officiel n 110 of 8 April 2026, is the instrument the base had recorded twice â€” once as an ordinance whose text was not held and once as a bill reported second-hand to be awaiting promulgation. It runs to fifty-five articles in eleven chapters: digital majority is fixed at sixteen and account creation below it barred; editors must block publication, sharing and social-interaction functions for accounts identified as under-sixteen without recorded parental consent, disable by default any function letting unidentified persons contact a minor, filter algorithmic recommendation of violent, sexual or psychologically harmful AI content to minor accounts, and report quarterly to the competent authority; age-verification systems sit under a Haute Autorite de la Communication reference framework and a technical audit; and the refere numerique caps any temporary suspension of access to a platform at seventy-two hours. The twelve-month compliance clock runs from publication, to 8 April 2027.
+
+Gabon also [brought non-resident digital platforms within Value Added Tax and the Contribution Speciale de Solidarite](https://kongossanews.info/taxation-gafam-tva-numerique-gabon/) through its 2026 supplementary finance law, reaching foreign streaming and platform services. No registration threshold, collection mechanism or first receipt is on file.
 <!-- /narrative -->
 ### Regional collaboration
 
@@ -124,6 +128,11 @@ Libreville's mayor stated the city [already operates its own revenue-digitalisat
 
 ## Technology
 
+### AI
+
+<!-- narrative: technology--tech-ai -->
+An operator [launched a voice artificial-intelligence service reachable by dialling 333 from an ordinary feature phone](https://fr.infosgabon.com/gabon-mia-lintelligence-artificielle-sans-internet/), with no smartphone and no internet connection required. Delivering an AI service over the voice channel reaches the part of the population a data-only service does not; no user count, language coverage or tariff is published.
+<!-- /narrative -->
 ### ICT Industry
 
 <!-- narrative: technology--tech-industry -->
@@ -148,6 +157,8 @@ On 23 July the validated implementing texts included a draft decree creating a b
 
 <!-- narrative: capacity--capacity-training -->
 Certification training is [under way for participants at Libreville's American Corner under a digital-skills programme run with United States embassies](https://techafricanews.com/2026/08/11/cybastion-and-u-s-embassies-partner-to-expand-digital-skills-training-across-africa/). No cohort size or completion date is published.
+
+More than 130 young people have been [trained in cybersecurity, networks, artificial intelligence and programming since June 2026](https://gabonmediatime.com/gabon-etats-unis-130-jeunes-formes-en-cybersecurite-reseaux-ia-et-programmation/) under a programme with the United States. No curriculum, certification or placement outcome is published.
 <!-- /narrative -->
 
 ## Inclusion

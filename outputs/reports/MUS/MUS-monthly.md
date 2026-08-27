@@ -3,9 +3,9 @@ title: Mauritius — monthly update, July – August 2026
 compiled: 2026-08-27
 period: 2026-07-01 to 2026-08-27
 place: MUS
-ledger_rows: 42
+ledger_rows: 45
 not_held: 9
-record: 245f2af43fee
+record: 511af8b7be64
 ---
 
 # Mauritius: monthly update, July – August 2026
@@ -33,6 +33,8 @@ The [omnibus introduced on 24 July 2026](https://maurice-info.mu/wp-content/uplo
 The same bill redraws the virtual-asset perimeter around marketing rather than activity: unlicensed solicitation would be prohibited by any medium, reaching targeted advertising, platforms, social media, influencers, affiliates and referral codes, with any publicly accessible communication presumed to target Mauritius — which puts the burden on an offshore promoter to show it was not soliciting locally.
 
 And on [30 July the ICT minister committed to Electronic Transactions Act amendments](https://lexpress.mu/s/face-aux-cyberattaques-le-secteur-postal-prepare-sa-riposte-560993), with no text or date stated.
+
+The primary text of the [Data Protection Officer Regulations 2026](https://mitci.govmu.org/mitci/wp-content/uploads/2026/06/117_The-Data-Protection_Designation-Tasks-and-Position-of-Data-Protection-Officers_Reg.pdf) is now held, as Government Notice No. 117 of 2026 made under the Data Protection Act.
 <!-- /narrative -->
 ### Data protection
 
@@ -76,6 +78,8 @@ A United Nations development agency published its [country annual report for 202
 
 <!-- narrative: ict-infrastructure--infra-connect -->
 The Prime Minister announced on [16 July 2026 that Mauritius will join the America-India Connect subsea cable programme](https://mitci.govmu.org/mitci/mauritius-to-join-america-india-connect-subsea-cable-programme-announces-pm-ramgoolam/). Reporting on [2 August established what sits behind it](https://journaldudimanche.com/google-amazon-et-maurice-les-coulisses-dun-tournant-numerique-majeur/): a signed non-disclosure agreement, terms still under negotiation, no published timetable. The driver is ageing infrastructure — LION and LION2 still carry most international traffic — and the same account notes that Google already operates a ground station at Baie-du-Jacotet serviced by the state operator, so the cable would deepen a relationship rather than open one.
+
+An industry survey put the 5G record on file for the first time: service since July 2021, when the state incumbent opened what the survey calls Africa's first 5G experience zones on spectrum assigned directly to the three operators, [reaching 86 per cent of the population in 2025](https://digitalmag.ci/acces-a-internet-etat-dadoption-de-la-technologie-5g-par-les-pays-africains/) with take-up projected to move from 9 to 44 per cent. It is delivered mainly as home internet boxes and in shopping centres, business districts and the university.
 <!-- /narrative -->
 ### Data Storage
 
@@ -93,6 +97,8 @@ Cabinet also [approved for signature a memorandum with Saudi Arabia](https://www
 Two cyber measures moved. The [July omnibus would empower the central bank to establish a cyber threat intelligence sharing platform](https://maurice-info.mu/wp-content/uploads/2026/07/The-Economic-and-Financial-Measures-Miscellaneous-Provisions-Bill.pdf) and to require financial institutions, and others it specifies, to participate — the clearest instance of mandatory threat-intelligence sharing in primary legislation on this record. At a [workshop on 29 July](https://lexpress.mu/s/face-aux-cyberattaques-le-secteur-postal-prepare-sa-riposte-560993) the postal operator began being wired into the Universal Postal Union's global postal threat-sharing centre, with the ICT minister naming ISO/IEC 27001 as the standard he wants adopted.
 
 August supplied the first figure for what any of this is against: [more than 4,000 reported cyber incidents in Mauritius since January 2026](https://techreviewafrica.com/news/6758/mauritius-telecom-launches-national-cybersecurity-and-ai-awareness-programme-for-students), given at the launch of the schools awareness programme. No reporting body, definition or comparable earlier period is named with it.
+
+The ministry's own communique put [4,076 cybersecurity and online-behaviour reports between January and July 2026 against a cybercrime unit of seventeen investigators](https://lexpress.mu/node/561791). Both figures come from the same communique, which is what makes the ratio quotable.
 <!-- /narrative -->
 
 ## DPI
@@ -128,6 +134,8 @@ A smaller service went live rather than being provided for. On 18 August the tra
 
 
 A smaller service is being taken online with its own figures attached: commercial-weighing oversight, which [verified 12,412 measuring instruments across 4,971 businesses and inspected 4,974 shops in 2025-2026, is moving bookings, payments and certificates onto a new platform](https://maurice-info.mu/2026/08/10/numerisation-des-services-de-metrologie-a-maurice.html). No go-live date or cost is stated.
+
+Cabinet [took note of a plan to consolidate the government portal and the separate official websites into a single citizen-centred platform](http://topfm.mu/portail-gouvernemental-une-plateforme-numerique-unique-et-personnalisee-en-preparation). Taking note is not approval, and no budget, supplier or delivery date accompanies it.
 <!-- /narrative -->
 
 ## Technology

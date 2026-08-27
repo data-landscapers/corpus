@@ -3,9 +3,9 @@ title: Ethiopia — monthly update, July – August 2026
 compiled: 2026-08-27
 period: 2026-07-01 to 2026-08-27
 place: ETH
-ledger_rows: 52
+ledger_rows: 55
 not_held: 5
-record: 6ed4f6348520
+record: 995e72b71b3f
 ---
 
 # Ethiopia: monthly update, July – August 2026
@@ -120,11 +120,15 @@ What is not on the record is the counterweight. A published critique argues the 
 Payments extended into utilities and tax. Prepaid electricity purchase entered the mobile-money super app on 29 July for smart-meter customers, and a digital tax-payment service for one regional revenue bureau launched on 28 July as the first of a planned series.
 
 The market also drew a new foreign supplier. A South African financial-technology firm [entered the Ethiopian payments market with a local engineering partner on 17 August](https://www.itweb.co.za/article/sybrin-strengthens-east-african-presence-to-support-ethiopias-digital-payments-modernisation/5yONP7Erow8MXWrb), aligning onboarding, fraud-management and workflow-automation tools with the National Digital Payments Strategy 2026-2030. No commitment value, customer or deployment date is disclosed.
+
+Federal authorities began [testing whether a single payment window can serve the whole government, starting with health](https://addisfortune.news/fed-tests-a-payment-window-for-the-whole-government-starting-with-health). No transaction volume, participating-institution list or rollout timetable accompanies the pilot.
 <!-- /narrative -->
 ### Sectoral management information systems
 
 <!-- narrative: dpi--dpi-mis -->
 A [livestock information system went live on 29 July](https://developmentgateway.org/blog/building-lasting-dpi-through-local-ownership-lessons-from-ethiopias-livestock-information-system/), drawing on five priority databases and repositioning animal identification from an export tool to a national asset register — broadened from feedlots to farm level and linked to disease surveillance and vaccination records. The account is the implementer's own, written after four years with a team embedded in the ministry, and is uncorroborated here. A system that has been running far longer got its evaluation: a journal study published on 10 August [puts a community HIV case-management application in the hands of 950 health workers, with the time to reach case data down from a month to a day and data completeness near 100%](https://www.ghspjournal.org/content/14/1/e2400353). [Ninety-two per cent of mobile accounts and 94% of web accounts were actively used](https://www.ghspjournal.org/content/14/1/e2400353). The figures are the study's and cover deployment since 2017; no national coverage figure or cost is given.
+
+A technology group and a bank [signed an agreement to digitise the agricultural supply chain](https://birrmetrics.com/eagle-lion-and-tsedey-bank-partner-to-digitize-ethiopias-agricultural-supply-chain/); no scope, value, farmer count or launch date is stated.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
@@ -155,6 +159,11 @@ AI service bundles from an Ethiopian firm went on sale inside the same app on 22
 
 ## Capacity
 
+### Training and skills
+
+<!-- narrative: capacity--capacity-training -->
+The flagship coder-training programme is [now reported as a seven million coders initiative](https://www.ameco.et/english/ethiopia-launches-ambitious-7-million-coders-initiative-to-build-continental-tech-hub/), a target raised from the five million the digital transformation council had been working to. The raise is reported rather than gazetted, and no enrolment, completion or certification figure accompanies it.
+<!-- /narrative -->
 ### Research institutions
 
 <!-- narrative: capacity--capacity-research -->
