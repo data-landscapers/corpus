@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-27
 place: TZA
 ledger_rows: 80
 not_held: 13
-record: 0206639ce02f
+record: 0a1d922d7a37
 ---
 
 # Tanzania: monthly update, July – August 2026

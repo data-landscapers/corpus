@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-27
 place: ZWE
 ledger_rows: 84
 not_held: 9
-record: 29f66ed9c43c
+record: be076af5899a
 ---
 
 # Zimbabwe: monthly update, July – August 2026

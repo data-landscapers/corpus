@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-27
 place: MAR
 ledger_rows: 44
 not_held: 17
-record: 90d86cf2dd4b
+record: 278568c8298a
 ---
 
 # Morocco: monthly update, July – August 2026

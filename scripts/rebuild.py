@@ -177,6 +177,22 @@ def run(*args):
                    cwd=WORK, check=True)
 
 
+def run_soft(*args):
+    """As `run`, but a non-zero exit is returned rather than raised.
+
+    **Stage 5 must not stop at the first unit that declines to render** *(2026-08-27)*. A unit
+    with no `indicators.csv` refuses on purpose — the mapping pass has not reached it and the
+    renderer will not write 121 *No evidence* rows over a report that has real prose in it — and
+    with 28 units still unmapped that correct refusal was aborting the whole batch, so `--reports
+    all` could not be run at all until the backlog cleared. A refusal by design is not a build
+    failure; what the driver owes is to carry on and say how many it skipped.
+    """
+    print("  $", " ".join(str(a) for a in args))
+    r = subprocess.run([sys.executable, os.path.join("scripts", args[0]), *map(str, args[1:])],
+                       cwd=WORK)
+    return r.returncode
+
+
 def snapshot_vocab():
     os.makedirs(VOCAB, exist_ok=True)
     for name in ("countries.csv", "taxonomy.md"):
@@ -281,13 +297,18 @@ def main():
                        if os.path.isdir(p))
     if units:
         print(f"stage 5 — report tables ({len(units)} units):")
+        declined = []
         for u in units:
             # `--doc all`, not the default status report *(2026-08-14)*. Each unit issues three
             # living documents and a moved row can show in any of them, so re-rendering only the
             # live one leaves the monthly and the progress report behind their own ledger — which
             # is exactly what check J then reports. `--doc all` means all of *this* unit's
             # documents, so a region still renders only its progress report.
-            run("report-render.py", "--unit", u, "--doc", "all", "--render")
+            if run_soft("report-render.py", "--unit", u, "--doc", "all", "--render"):
+                declined.append(u)
+        if declined:
+            print(f"  {len(declined)} unit(s) declined to render: {', '.join(declined)}")
+            print("  — each prints its own reason above; an unmapped unit is the expected one.")
 
     summary()
     print("\nnot in this driver (model authoring / deferred): report initialisation from "

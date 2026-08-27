@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-27
 place: DZA
 ledger_rows: 34
 not_held: 7
-record: 2ea473c38129
+record: 7fe2d72fd692
 ---
 
 # Algeria: monthly update, July – August 2026

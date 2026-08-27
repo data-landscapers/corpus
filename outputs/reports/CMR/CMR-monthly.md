@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-27
 place: CMR
 ledger_rows: 43
 not_held: 7
-record: babab612cd8c
+record: 02eddc1cd8ec
 ---
 
 # Cameroon: monthly update, July – August 2026
