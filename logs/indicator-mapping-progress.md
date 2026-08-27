@@ -17,17 +17,17 @@ document (`progress-report-redesign.md` §1) and are not in scope.
 ## Done
 
 ERI and ZAF were the pilots. This pass has since added, in order: **GNB, AGO, BDI, BEN, BFA, BWA,
-CAF, CIV, CMR, COD, COG, COM, CPV, DJI, DZA, EGY, ETH, GAB, GHA, GIN, GMB, GNQ, KEN, LBR, LBY, LSO** — 28 of 54, one commit each, all pushed.
+CAF, CIV, CMR, COD, COG, COM, CPV, DJI, DZA, EGY, ETH, GAB, GHA, GIN, GMB, GNQ, KEN, LBR, LBY, LSO, MAR** — 29 of 54, one commit each, all pushed.
 
 Yields so far, as a sense of shape: 21 indicators from GNB's 25 ledger rows, 43 from BDI's 74, 52
 from BWA's 107, 57 from BEN's 105, 64 from BFA's 131, 66 from AGO's 122, 43 from CAF's 92, 92 from
-CIV's 167, 73 from CMR's 121, 67 from COD's 123, 52 from COG's 103, 45 from COM's 117, 49 from CPV's 140, 43 from DJI's 70, 58 from DZA's 111, 66 from EGY's 199, 66 from ETH's 97, 58 from GAB's 120, 81 from GHA's 175, 59 from GIN's 109, 46 from GMB's 75, 42 from GNQ's 67, 93 from KEN's 219, 43 from LBR's 71, 64 from LBY's 84, 61 from LSO's 69. Between three quarters and nine tenths of ledger rows map; the rest are placeholders with
+CIV's 167, 73 from CMR's 121, 67 from COD's 123, 52 from COG's 103, 45 from COM's 117, 49 from CPV's 140, 43 from DJI's 70, 58 from DZA's 111, 66 from EGY's 199, 66 from ETH's 97, 58 from GAB's 120, 81 from GHA's 175, 59 from GIN's 109, 46 from GMB's 75, 42 from GNQ's 67, 93 from KEN's 219, 43 from LBR's 71, 64 from LBY's 84, 61 from LSO's 69, 79 from MAR's 137. Between three quarters and nine tenths of ledger rows map; the rest are placeholders with
 no source, or real instruments the frame has no question for (a telecoms statute, a broadcasting
 transition), and those correctly stay on the ledger and out of the report.
 
 ## Remaining
 
-26 country units: MAR, MDG, MLI, MOZ, MRT, MUS,
+25 country units: MDG, MLI, MOZ, MRT, MUS,
 MWI, NAM, NER, NGA, RWA, SDN, SEN, SLE, SOM, SSD, STP, SWZ, SYC, TCD, TGO, TUN, TZA, UGA, ZMB, ZWE.
 
 ## The loop, per unit
@@ -440,3 +440,35 @@ direction.** The ministry's own figures are 100 per cent broadband coverage agai
 regular internet use. There is no earlier measurement, so the cell is *No change, a first statement of
 the gap with no earlier figure behind it* - ZAF's first-measurement rule applied to a ratio rather than
 to a count.
+
+## What MAR added, 2026-08-27
+
+**The largest indicator count of the pass, 79, and it came from breadth rather than thickness.**
+120 sourced rows produced 79 cells because the unit's evidence is spread across the whole frame -
+five separate 5G rows, ten data-centre rows, six identity rows, four cybersecurity rows - rather
+than piled onto a few subjects the way KEN's 217 rows were. **Count the distinct subjects, not the
+rows, when estimating how many indicators a unit will yield.**
+
+**The semicolon trap has a third form, and this one cannot be drafted around.** GHA found it in a
+link label and ETH in a long sentence; here the `;` sits inside a catalogue **slug** -
+`2026-01-14 Morocco — 16.5m voters on electoral rolls; most 2026 registrations via digital channels`.
+The checks split the sentence inside the citation's own target, so the fragment carrying the figures
+can never hold a complete `](...)`, wherever the citation is placed. `fix-indicator-citations.py`
+cannot repair it either, because the repair it makes is to repeat that same broken citation.
+**Where a slug contains a semicolon, no figure can share a sentence with it**: state the fact as a
+ratio or a proportion instead, or cite a different source for the number. This unit's electoral-roll
+figures became "two to one in favour of the online channel", which is what the numbers say anyway.
+
+**A row whose whole content is a reconciliation is still worth mapping, for the reconciliation.**
+Two rows here exist because the base settled a contradiction rather than recorded an event: one
+confirms that a 2023-dated cybersecurity strategy and the 2030 strategy are a single instrument, and
+one establishes that the widely-repeated "23 data centres, ahead of South Africa" figure is a 2023
+certification count and not a facility census. Both map, and in both cases **the reconciliation is
+the most useful sentence in the cell** - the same finding KEN's note made about a public dispute.
+
+**Where a country's own regulator publishes a periodic observatory, it is worth two cells and not
+one.** The first-quarter 2026 telecoms observatory carries mobile park, penetration and traffic on
+one hand and fixed lines and fibre on the other; those answer different frame questions and belong
+in `infra.connect--mobile-penetration` and `infra.connect--national-fibre-backbone` respectively.
+That is the CIV rule about one row serving several indicators, applied to a statistical release
+rather than to an instrument.
