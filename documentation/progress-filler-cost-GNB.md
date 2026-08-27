@@ -56,7 +56,7 @@ those drafts stayed drafts.
 | Fetched | 285 |
 | Dropped | 57, on `reference.md` §7's closed vocabulary |
 | Held back by the cap | 589, recorded with URLs in the unselected register |
-| **Staged after the cap** | **259 selections — 97 baseline + 162 progress — over 205 distinct files** |
+| **Staged after the cap** | **259 selections — 97 baseline + 162 progress — over 205 distinct files**, filed as 80 in `GNB/baseline/` and 125 in `GNB/progress/` |
 | Wall clock | ~50 minutes, nine sub-agents concurrent (43 minutes for the slowest) |
 | Sessions | one |
 
@@ -92,7 +92,7 @@ sibling's capture of the DGCI instruction 25/2025, replaced and unrecoverable. F
 filenames were claimed by more than one indicator and thirteen of those were benign: the
 agents had checked the path first and recorded the existing file rather than overwriting
 it, which is the §5 instruction working. The fault is now down to what a check cannot
-catch, and the residue is one file.
+catch, and the residue is one file. **The queue is no longer flat**: from 2026-08-27 a batch is staged as `{ISO}/baseline/` and `{ISO}/progress/`, which halves the namespace each sub-agent writes into but does not remove the fault — two agents can still pick one slug inside one folder, so the check stays.
 
 **Three staging defects were checked before hand-off, two of them on OSINT's report.**
 `notes-for-corpus.md` note 14 arrived from OSINT's ingest of the AGO batch during this
@@ -161,14 +161,21 @@ nights of daily sweep**, handed to a system whose scarce resource is exactly tha
 sent 126, AGO 134; this is a step up, and it is a step up because the country is empty,
 not because the run was loose — the cap held back 589 leads.
 
-**So the scheduling recommendation is to split the hand-carry.** Nothing in the procedure
-requires a batch to cross in one move: `new-queue/` is a folder Bill moves files out of,
-and moving half of it is a supported operation that costs nothing. Carrying the 97
-baselines first and the 162 progress items after the week's sweeps are secured would put
-the foundational layer — the instruments, the statements of absence, the standing
-positions — into the base a night earlier and defer the movement layer, which is the half
-that ages best. That is a recommendation and not a decision: `PROGRESS-FILLER.md` §7 is
-explicit that trading coverage for a week is Bill's call.
+**The recommendation was to split the hand-carry, and Bill made it the layout the same
+day.** A filler batch is now staged as `new-queue/{ISO}/baseline/` and
+`new-queue/{ISO}/progress/` rather than one flat pile — **GNB is 80 and 125** — so carrying
+one half and not the other is a folder move rather than a sort of 205 files by hand.
+`PROGRESS-FILLER.md` §5 carries the rule and the share's `README.md` states it for both
+sides.
+
+**Baselines first is the recommendation inside that split.** They are the instruments, the
+standing positions and the statements of absence — the layer the progress items attach to,
+and the half that does not age. Deferring the movement layer costs the report its most
+recent month and nothing structural. **The file counts and the selection counts differ and
+both are right**: 97 baseline selections over 80 files, 162 progress selections over 125,
+because five documents answer one indicator's baseline and another's progress and are
+staged once, under `baseline/`. Trading coverage for a week remains Bill's call, not the
+run's; what has changed is that the trade is now cheap to make.
 
 **The AGO question is answered and it changes the priority order.** AGO asked whether the
 filler buys less where the base is already dense. It does: three-fifths of AGO's
