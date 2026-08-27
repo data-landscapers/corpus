@@ -17,17 +17,17 @@ document (`progress-report-redesign.md` §1) and are not in scope.
 ## Done
 
 ERI and ZAF were the pilots. This pass has since added, in order: **GNB, AGO, BDI, BEN, BFA, BWA,
-CAF, CIV, CMR, COD, COG, COM, CPV, DJI, DZA, EGY, ETH, GAB, GHA, GIN, GMB, GNQ, KEN, LBR, LBY** — 27 of 54, one commit each, all pushed.
+CAF, CIV, CMR, COD, COG, COM, CPV, DJI, DZA, EGY, ETH, GAB, GHA, GIN, GMB, GNQ, KEN, LBR, LBY, LSO** — 28 of 54, one commit each, all pushed.
 
 Yields so far, as a sense of shape: 21 indicators from GNB's 25 ledger rows, 43 from BDI's 74, 52
 from BWA's 107, 57 from BEN's 105, 64 from BFA's 131, 66 from AGO's 122, 43 from CAF's 92, 92 from
-CIV's 167, 73 from CMR's 121, 67 from COD's 123, 52 from COG's 103, 45 from COM's 117, 49 from CPV's 140, 43 from DJI's 70, 58 from DZA's 111, 66 from EGY's 199, 66 from ETH's 97, 58 from GAB's 120, 81 from GHA's 175, 59 from GIN's 109, 46 from GMB's 75, 42 from GNQ's 67, 93 from KEN's 219, 43 from LBR's 71, 64 from LBY's 84. Between three quarters and nine tenths of ledger rows map; the rest are placeholders with
+CIV's 167, 73 from CMR's 121, 67 from COD's 123, 52 from COG's 103, 45 from COM's 117, 49 from CPV's 140, 43 from DJI's 70, 58 from DZA's 111, 66 from EGY's 199, 66 from ETH's 97, 58 from GAB's 120, 81 from GHA's 175, 59 from GIN's 109, 46 from GMB's 75, 42 from GNQ's 67, 93 from KEN's 219, 43 from LBR's 71, 64 from LBY's 84, 61 from LSO's 69. Between three quarters and nine tenths of ledger rows map; the rest are placeholders with
 no source, or real instruments the frame has no question for (a telecoms statute, a broadcasting
 transition), and those correctly stay on the ledger and out of the report.
 
 ## Remaining
 
-27 country units: LSO, MAR, MDG, MLI, MOZ, MRT, MUS,
+26 country units: MAR, MDG, MLI, MOZ, MRT, MUS,
 MWI, NAM, NER, NGA, RWA, SDN, SEN, SLE, SOM, SSD, STP, SWZ, SYC, TCD, TGO, TUN, TZA, UGA, ZMB, ZWE.
 
 ## The loop, per unit
@@ -415,3 +415,28 @@ out of the ledger by row id and index rather than transcribing it, which removes
 whitespace-in-slug fault GIN found and makes a slug typo impossible by construction. **Worth
 keeping for the remaining units**: `S(row_id, i)` over the ledger's own `sources` field costs three
 lines and retires a whole defect class.
+
+## What LSO added, 2026-08-27
+
+**The first unit with no residue: 69 ledger rows, 69 mapped, 61 indicators.** No unsourced *Not held*
+placeholder and no instrument the frame has no question for. That is not a property of the mapping but
+of the ledger - every row on it is sourced, and every row is about something the frame asks about - so
+it is worth reading as a statement about the unit rather than as a target other units failed to hit.
+
+**A *Not held, searched* row with a source that genuinely states the absence can carry two indicators.**
+The 2021 capacity assessment found both no government open-data programme and no access-to-information
+statute in force; those are two findings in one document, and they map to `data.open--use-of-open-data`
+and `gov.legislate--access-to-information-legislation` respectively. Compare GHA's rule about anchor
+sources - the test is whether the cited document *states* the absence, and here it states two.
+
+**`Stalled` earns its place on this unit, twice.** The MISSA procurement closed in August 2024 with no
+award since, and the Mohale's Hoek backup data centre was toured near-complete in 2018 and never
+confirmed live. Both are things that started and stopped, which is what the value is for; *No change*
+would have read as a standing position and *No evidence* would have been false. Ten units of this pass
+used the value not at all, and it is worth reaching for where the record shows an abandonment.
+
+**Where the ledger's own row is a measure of a gap, put both numbers in the cell and withhold the
+direction.** The ministry's own figures are 100 per cent broadband coverage against about 50 per cent
+regular internet use. There is no earlier measurement, so the cell is *No change, a first statement of
+the gap with no earlier figure behind it* - ZAF's first-measurement rule applied to a ratio rather than
+to a count.
