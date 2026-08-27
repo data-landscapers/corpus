@@ -17,17 +17,17 @@ document (`progress-report-redesign.md` §1) and are not in scope.
 ## Done
 
 ERI and ZAF were the pilots. This pass has since added, in order: **GNB, AGO, BDI, BEN, BFA, BWA,
-CAF, CIV, CMR, COD, COG, COM, CPV, DJI, DZA, EGY, ETH, GAB** — 20 of 54, one commit each, all pushed.
+CAF, CIV, CMR, COD, COG, COM, CPV, DJI, DZA, EGY, ETH, GAB, GHA** — 21 of 54, one commit each, all pushed.
 
 Yields so far, as a sense of shape: 21 indicators from GNB's 25 ledger rows, 43 from BDI's 74, 52
 from BWA's 107, 57 from BEN's 105, 64 from BFA's 131, 66 from AGO's 122, 43 from CAF's 92, 92 from
-CIV's 167, 73 from CMR's 121, 67 from COD's 123, 52 from COG's 103, 45 from COM's 117, 49 from CPV's 140, 43 from DJI's 70, 58 from DZA's 111, 66 from EGY's 199, 66 from ETH's 97, 58 from GAB's 120. Between three quarters and nine tenths of ledger rows map; the rest are placeholders with
+CIV's 167, 73 from CMR's 121, 67 from COD's 123, 52 from COG's 103, 45 from COM's 117, 49 from CPV's 140, 43 from DJI's 70, 58 from DZA's 111, 66 from EGY's 199, 66 from ETH's 97, 58 from GAB's 120, 81 from GHA's 175. Between three quarters and nine tenths of ledger rows map; the rest are placeholders with
 no source, or real instruments the frame has no question for (a telecoms statute, a broadcasting
 transition), and those correctly stay on the ledger and out of the report.
 
 ## Remaining
 
-34 country units: GHA, GIN, GMB, GNQ, KEN, LBR, LBY, LSO, MAR, MDG, MLI, MOZ, MRT, MUS,
+33 country units: GIN, GMB, GNQ, KEN, LBR, LBY, LSO, MAR, MDG, MLI, MOZ, MRT, MUS,
 MWI, NAM, NER, NGA, RWA, SDN, SEN, SLE, SOM, SSD, STP, SWZ, SYC, TCD, TGO, TUN, TZA, UGA, ZMB, ZWE.
 
 ## The loop, per unit
@@ -238,3 +238,37 @@ sits after a semicolon leaves every figure before it uncited, because the check 
 well as `.`. EGY's note called the band the binding constraint on a thick unit; on this one it was
 punctuation. The fix is mechanical: when a development needs a semicolon, close the clause with its
 citation and start a new sentence.
+
+## What GHA added, 2026-08-27
+
+**The thickest unit in the pass, and the first where check L passes.** 175 rows, all sourced, 81
+indicators. GHA-progress.md has no unwritten narrative blocks, so this is the first unit where the
+loop's "check L failure is expected noise" caveat did not apply - worth knowing, because it means a
+check-L failure on a later unit is still worth a glance rather than an assumption.
+
+**The semicolon trap is systematic on a thick unit, and it is worth fixing mechanically.** GAB's
+note called it punctuation; here it fired 29 times in one pass, because a development long enough to
+need a semicolon is exactly what a five-row indicator produces. `scripts/lint-indicators-draft.py`
+splits sentences on `;` as well as `.`, so a citation placed after the semicolon leaves every figure
+before it uncited. The drafting fix is `scripts/fix-indicator-citations.py`: it walks each paragraph and repeats
+that paragraph's own first citation onto any fragment carrying a figure and no citation. It invents
+nothing - the citation it adds is already the paragraph's - and it took the unit from 32 defects to
+3 in one run. **Keep it for the remaining thick units**; on a 175-row ledger it is the difference
+between one pre-lint pass and ten.
+
+**A sourced *Not held* row is only mappable if its source states the absence.** Two of this unit's
+rows - the Gulf and India probe rows - carry a source slug that is merely an anchor: an article
+about the AI strategy launch, which says nothing about either country. Mapping them would have put
+a citation behind a claim the cited document does not make, which check M cannot catch because the
+slug is genuinely on the row. **They were left unmapped and the frame prints No evidence, which is
+the true position.** The conventions' rule that a sourced Not-held row *is* mapped assumes the
+source is evidence of the absence; where it is only an anchor, the rule does not reach it. Three
+other sourced Not-held rows here - data-centre power, local government, the card's payment function
+- do have sources that state the absence, and all three were mapped.
+
+**When one row's story spans three indicators, split by who is acting, not by what is said.** The
+cybersecurity enforcement series runs across three ledger rows and would have collapsed into one
+cell. It maps as the statute and its first penalties under `gov.legislate--cybersecurity-legislation`,
+the response team and the loss figures under `infra.cybersec--national-cybersecurity-readiness`, and
+the university white paper that carries those figures under `capacity.research`. Each cell says who
+did what; none repeats another's sentence.
