@@ -1,11 +1,11 @@
 ---
 title: Tanzania — monthly update, July – August 2026
-compiled: 2026-08-26
-period: 2026-07-01 to 2026-08-26
+compiled: 2026-08-27
+period: 2026-07-01 to 2026-08-27
 place: TZA
-ledger_rows: 76
+ledger_rows: 80
 not_held: 13
-record: fefc3d6c1d4e
+record: 0206639ce02f
 ---
 
 # Tanzania: monthly update, July – August 2026
@@ -193,4 +193,12 @@ A national institution of science and technology was [selected as the country's 
 
 <!-- narrative: inclusion--include-access -->
 Financial access points reached [2.27m, up 33.5%, of which about 2m are mobile-money agents](https://www.bot.go.tz/Publications/Regular/Annual%20Report/en/2026072316300213.pdf) at end-December 2025 — growth that is agent build-out rather than branch build-out, as the council itself says.
+<!-- /narrative -->
+
+## Data
+
+### Open data
+
+<!-- narrative: data--data-open -->
+An external assessment found the country [not meeting the minimum fiscal transparency requirements](https://www.state.gov/reports/2026-fiscal-transparency-report/tanzania) over a review period running to the end of 2025, the same finding as the previous review. It is the only recurring transparency measure the base holds here, and it is a foreign government's criteria rather than a domestic one.
 <!-- /narrative -->

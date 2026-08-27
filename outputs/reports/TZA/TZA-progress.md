@@ -264,7 +264,7 @@ Two exchange-layer positions are unchanged and one is unmeasured. Jamii X-Change
 | Make Kibamba Digital | Did not exist | [A constituency digitalisation strategy opening with the education department's administration, inter-departmental communication, examination coordination and service delivery, marked by 20 computers and two printers valued at TZS 100m donated by a consumer lender; secondary schools stated next and ward offices in phases over three to four years](https://ippmedia.co.tz/the-guardian/business/read/bayport-donates-100m-tech-facility-to-kibambas-education-department-2026-08-04-131047) | Advanced |
 
 <!-- narrative: digitalisation -->
-
+The subnational record holds one item and it is a constituency's own. A digitalisation strategy opens with the education department's administration, which is where a local programme with no budget line of its own can reach furthest. Nothing in the base measures what it has delivered, and no other district, council or region appears under this heading at any date.
 <!-- /narrative -->
 
 ## Technology
@@ -331,7 +331,9 @@ The sector's own funding went the other way, from [six startups raising US$41,25
 | University ICT college building | ***Baseline not held*** | [Under construction; no completion date, cost or capacity stated](https://www.mwananchi.co.tz/mw/habari/kitaifa/serikali-kuendelea-kupeleka-wanafunzi-nje-kusomea-ai-5392884) | ***Baseline not held*** |
 
 <!-- narrative: capacity -->
+Capacity is the thickest section on this ledger and the least measured at the far end. A science and information technology education grant is active, certified financial educators and the people they reached are counted, digital clubs run from nursery to university, an operator funds one school innovation lab, and a training programme with European partners took participants from public, private and non-governmental institutions.
 
+What none of them carries is an outcome. The counts are of people trained and clubs established, published by the bodies running them, and no employment, qualification or retention figure follows any of the five.
 <!-- /narrative -->
 
 ## Inclusion
@@ -367,7 +369,9 @@ Skills provision appeared where there had been nothing on file: [sixteen graduat
 | Educational cubesat | Did not exist | [A budget line, with no design, launch date, operator or cost broken out](https://www.mwananchi.co.tz/mw/habari/kitaifa/kairuki-aomba-222-5-bilioni-kamati-yaitaja-tcra-5442016) | Advanced |
 
 <!-- narrative: data -->
+The data section holds a single forward item: an educational cubesat carried as a budget line, with no design, launch date, operator or cost broken out.
 
+That is the whole of the section, and the absence around it is the finding. A country running national data centres, a social registry blueprint and an electronic birth certificate has no open-data instrument, no statistical digital indicator series and no earth-observation programme on the record.
 <!-- /narrative -->
 
 ## Where the record is thin

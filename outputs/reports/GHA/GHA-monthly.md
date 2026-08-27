@@ -1,11 +1,11 @@
 ---
 title: Ghana — monthly update, July – August 2026
-compiled: 2026-08-26
-period: 2026-07-01 to 2026-08-26
+compiled: 2026-08-27
+period: 2026-07-01 to 2026-08-27
 place: GHA
-ledger_rows: 124
+ledger_rows: 126
 not_held: 9
-record: 53961c443238
+record: 42191e5eb890
 ---
 
 # Ghana: monthly update, July – August 2026
