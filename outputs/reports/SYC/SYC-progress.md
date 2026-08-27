@@ -1,242 +1,205 @@
 ---
 title: Seychelles — progress report, August 2025 – August 2026
-compiled: 2026-08-25
-period: 2025-08-01 to 2026-08-25
+compiled: 2026-08-27
+period: 2025-08-01 to 2026-08-27
 place: SYC
 ledger_rows: 54
 not_held: 6
-record: 0dd2179c7c40
+indicators: 121
+record: 4b13624026ed
 ---
 
 # Seychelles: progress report, August 2025 – August 2026
 
-*Of 54 systems and instruments on this place's ledger, 30 changed position between 2025-08-01 and 2026-08-25, 11 did not, 7 carry no stated baseline, and 6 are ***Not held*** at both ends.*
+This report asks the same set of questions of every country. The rows below are a fixed frame of indicators, one row each, chosen in advance and covering all thirty-eight subjects the base tracks — so what appears here is decided by the frame and not by whichever records happened to accumulate. Each row says what happened on that indicator during the period, with every claim linked to the source it rests on.
 
-*Shape check, run before the comparison: 40 sources for this place in the window — 8 in the earlier half (2025-08 to 2026-01), 32 in the later (2026-03 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+Where a row reads ***No evidence***, the base holds nothing on that indicator. **That is a statement about this base, not about the country** — it does not mean nothing exists, only that nothing has been collected here yet. The rows that carry evidence say what it is; the rows that do not are left to speak for themselves.
 
-**Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
+*The period is 2025-08-01 to 2026-08-27.*
 
-## Summary of the period
+**Progress values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Mixed* — the indicator's instruments moved in different directions in the period; the clause after the comma names which moved which way. *No change* — the base holds a standing position and nothing in the period touched it. ***No evidence*** — the base holds nothing on this indicator at all. A value may carry a qualifying clause after a comma, as in *Advanced, regulations still pending*.
 
-<!-- narrative: summary -->
-This is the first progress report cut for Seychelles, and the shape check finds the comparison thinner than its twelve-month label: only 8 of the period's 34 sources fall in the earlier half (August 2025 to January 2026), against 26 in the later half. Most of what reads below as "Advanced" is therefore a young base's first record of a thing, not necessarily a thing that began in this window — 25 of 48 rows moved, but the great majority moved from "Did not exist" rather than from a documented earlier position. The report should be read as a snapshot of a base that only recently began recording Seychelles in depth, not as evidence that the twelve months to August 2026 were unusually eventful.
-
-Two rows are the exception: the Data Protection Act 2023's transition period had already elapsed by the 2025-08 baseline, and Cable & Wireless's 5G network, Fusepay-adjacent TDB financing and the National Payment System Regulations were already in force before the window opened, and none has moved. Eleven rows show no change; six carry no baseline at all.
-<!-- /narrative -->
 
 ## Governance
 
-### Strategies, plans and policies
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| Topic | Indicator | Developments | Progress |
 |---|---|---|---|
-| Multidimensional Vulnerability Index (MVI) operationalisation | Did not exist | [Cabinet decision only; no implementation detail, budget or timeline on record](https://statehouse.gov.sc/cabinet-decisions/7151/cabinet-business-thursday-23rd-july-2026) | Advanced |
-| National Institute for Science, Technology and Innovation (the body) | Closed shortly after the 2020 election and its functions folded into a ministry division, which the Secretary of State describes as costing the institution its operational independence and much of its technical staff | [Reinstated as the implementation arm for science, technology and innovation policy, its Secretariat sitting under the Office of the Vice-President under a Secretary of State, with a stated near-term focus on technological innovation in government procedures and accelerating the digitalisation of public-service delivery](https://statehouse.gov.sc/news/7184/president-herminie-science-technology-and-innovation-belong-at-the-centre-of-a-people-centred-society) | Advanced |
-| 'Fully digitalised e-government by 2030' target | ***Baseline not held*** | [Restated 4 Aug 2026; route named is bilateral technical assistance from Malta, no domestic implementation programme named](https://statehouse.gov.sc/news/7165/president-herminie-receives-credentials-from-maltas-first-high-commissioner-to-seychelles) | ***Baseline not held*** |
+| Strategies, plans and policies | Digital transformation strategy | The President [reaffirmed a fully digitalised electronic-government target for 2030](https://statehouse.gov.sc/news/7165/president-herminie-receives-credentials-from-maltas-first-high-commissioner-to-seychelles) while receiving a foreign envoy's credentials, exploring bilateral technical cooperation. <details><summary>Full record</summary>The restatement came in August 2026 at a credentials ceremony ([target](https://statehouse.gov.sc/news/7165/president-herminie-receives-credentials-from-maltas-first-high-commissioner-to-seychelles)).<br><br>No strategy document, delivery plan, milestone set or budget for the target is held at any date. What the base can show against it is a relaunched portal, an electronic case management system, a certificate of origin, a business one-stop portal in pilot, and an invoicing system at procurement — five services, no plan.</details> | No change |
+| Strategies, plans and policies | ICT strategy |  | ***No evidence*** |
+| Strategies, plans and policies | Broadband strategy |  | ***No evidence*** |
+| Strategies, plans and policies | Data storage / cloud strategy |  | ***No evidence*** |
+| Strategies, plans and policies | Data interoperability framework / roadmap |  | ***No evidence*** |
+| Strategies, plans and policies | AI strategy | A [national science, technology and innovation institute](https://www.gazette.sc/sites/default/files/2025-12/Act%2024%202025%20-%20National%20Institute%20of%20Science%20Technology%20and%20Innovation%20Act.pdf) was established by Act with an artificial-intelligence strategy mandate, and the body was [reinstated under the Vice-President](https://statehouse.gov.sc/news/7184/president-herminie-science-technology-and-innovation-belong-at-the-centre-of-a-people-centred-society) while no commencement notice for the Act is on record. <details><summary>Full record</summary>The Act was assented in December 2025, establishing a body corporate with an artificial-intelligence strategy mandate, a science academy, an open-access scientific-data repository and incubation centres ([Act](https://www.gazette.sc/sites/default/files/2025-12/Act%2024%202025%20-%20National%20Institute%20of%20Science%20Technology%20and%20Innovation%20Act.pdf)).<br><br>The institute was reinstated with its secretariat under the Office of the Vice-President and is described as functioning; no commencement notice for the Act is cited anywhere ([reinstatement](https://statehouse.gov.sc/news/7184/president-herminie-science-technology-and-innovation-belong-at-the-centre-of-a-people-centred-society)).<br><br>A body operating under a statute whose commencement cannot be evidenced is worth stating plainly. No artificial-intelligence strategy has been produced under the mandate; what exists instead is an education framework, recorded separately.</details> | Advanced |
+| Strategies, plans and policies | Data localisation policies |  | ***No evidence*** |
+| Strategies, plans and policies | Data governance policy |  | ***No evidence*** |
+| Strategies, plans and policies | Open data policy |  | ***No evidence*** |
+| Legislation and regulation | Data protection legislation | The [Data Protection Act 2023](https://www.gazette.sc/sites/default/files/2023-12/Act%2024%20-%202023%20-%20Data%20Protection%20Act%202023.pdf) is in force in full, its eighteen-month transition having elapsed, and it expressly recognises participation in a global cross-border privacy system. <details><summary>Full record</summary>The Act commenced in December 2023 with an eighteen-month transition; that period has elapsed and controllers and processors are now subject to it in full ([Act](https://www.gazette.sc/sites/default/files/2023-12/Act%2024%20-%202023%20-%20Data%20Protection%20Act%202023.pdf), [force](https://www.applebyglobal.com/publications/data-protection-law-now-in-force-in-seychelles), [review](https://www.techhiveadvisory.africa/insights/review-of-seychelles-dpa)).<br><br>A continental review adds that the Act expressly recognises participation in a global cross-border privacy rules system ([reforms](https://fpf.org/blog/africas-data-protection-reforms-a-continental-perspective-on-the-drivers-of-change-in-legal-frameworks/)).<br><br>A statute fully in force with an explicit cross-border interoperability provision puts this unit ahead of most in the frame on the law. What it lacks is recorded in the next cell.</details> | No change |
+| Legislation and regulation | Cybersecurity legislation |  | ***No evidence*** |
+| Legislation and regulation | Legislation covering digital id |  | ***No evidence*** |
+| Legislation and regulation | Digital payments legislation |  | ***No evidence*** |
+| Legislation and regulation | Legislation enabling data interoperability |  | ***No evidence*** |
+| Legislation and regulation | AI legislation / regulations |  | ***No evidence*** |
+| Legislation and regulation | E-commerce legislation |  | ***No evidence*** |
+| Legislation and regulation | Statistics legislation |  | ***No evidence*** |
+| Legislation and regulation | Access to information legislation | An [access-to-information reform whitepaper](https://www.infocom.sc/wp-content/uploads/ATIA-Updated-Whitepaper-10.11.2025.pdf) recommends a centralised access unit, alignment with the data-protection Act and open-reuse licensing, with drafting targeted for end-2025. <details><summary>Full record</summary>The whitepaper was published in November 2025 with drafting by the attorney-general targeted for the end of that year ([whitepaper](https://www.infocom.sc/wp-content/uploads/ATIA-Updated-Whitepaper-10.11.2025.pdf)).<br><br>Nothing has entered the base since, so the drafting target has passed with no draft on record. The same body holds both the access and the protection mandates, which is why the whitepaper proposes aligning the two statutes rather than treating them separately.</details> | Advanced |
+| Data protection | Data protection authority | The Information Commission names [no clear power to enforce its orders](https://www.infocom.sc/wp-content/uploads/ATIA-Updated-Whitepaper-10.11.2025.pdf) as its own most urgent weakness, in its own reform whitepaper. <details><summary>Full record</summary>The finding is the Commission's own, set out in its access-to-information reform whitepaper, and it marked data protection day in January 2026 ([whitepaper](https://www.infocom.sc/wp-content/uploads/ATIA-Updated-Whitepaper-10.11.2025.pdf), [day](https://www.infocom.sc/data-protection-day-2026-building-trust-in-a-digital-seychelles/)).<br><br>The same body holds both the access-to-information and the data-protection mandates, so the enforcement gap it identifies runs across both.<br><br>A regulator publishing that it cannot enforce its own orders is unusually direct, and it is the fact that governs how much weight the fully-in-force statute above can carry.</details> | No change |
+| Data protection | National data protection readiness |  | ***No evidence*** |
+| Regional collaboration | Regional policy collaboration | The country is one of seven covered by a [programme for African developing island economies](https://www.nepad.org/news/auda-nepad-launches-first-continental-programme-dedicated-africas-island-economies), on a 2026 to 2031 roadmap with digital transformation among six pillars. <details><summary>Full record</summary>The programme was launched at a ministerial segment in July 2026 ([programme](https://www.nepad.org/news/auda-nepad-launches-first-continental-programme-dedicated-africas-island-economies)).<br><br>No national commitment, allocation or workplan beyond the communique is detailed. It is the same seven-state programme recorded for other island units in this frame, and in none of them can the base say what the individual country undertook.</details> | Advanced |
+| Regional collaboration | Regional legal harmonisation |  | ***No evidence*** |
+| Regional collaboration | Shared regional infrastructure | A [digital-trade hub memorandum](https://www.nation.sc/articles/29842/seychelles-set-to-become-digital-trade-hub-of-afcfta) was signed with the continental trade secretariat and a technology partner, and its terms are not held. <details><summary>Full record</summary>The signing was reported during the secretary-general's visit in March 2026, positioning the country as a digital-trade hub ([memorandum](https://www.nation.sc/articles/29842/seychelles-set-to-become-digital-trade-hub-of-afcfta)).<br><br>A separate claim that a digital trade corridor headquarters sits in the capital is not established and is not conflated with the memorandum here.<br><br>No value, term, workplan or infrastructure commitment is published, so what a digital-trade hub would consist of is unstated.</details> | Advanced |
+| Regional collaboration | Cross-border data transfers |  | ***No evidence*** |
+| Standards | National interoperability standards |  | ***No evidence*** |
+| Standards | National quality standards |  | ***No evidence*** |
+| Standards | Adoption of international standards |  | ***No evidence*** |
+| Public debate and participation in policymaking | Non-governmental contribution to national policy |  | ***No evidence*** |
+| Public debate and participation in policymaking | Open discussion of government policy | Parliament amended the broadcasting Act in June 2026 to give [appointment and dismissal power over the broadcaster board](https://www.afrobarometer.org/publication/ad1219-seychellois-endorse-medias-oversight-role-but-many-doubt-that-it-is-truly-free/), and [perceived media freedom](https://www.afrobarometer.org/publication/ad1219-seychellois-endorse-medias-oversight-role-but-many-doubt-that-it-is-truly-free/) fell on a survey round fielded in 2025. <details><summary>Full record</summary>The base holds no primary text of the amendment; it is reported in a survey dispatch citing two press-freedom organisations ([amendment](https://www.afrobarometer.org/publication/ad1219-seychellois-endorse-medias-oversight-role-but-many-doubt-that-it-is-truly-free/)).<br><br>The perception measure is from a round fielded in 2025 and published in August 2026. It measures what people believe about media freedom rather than the media's legal position, and an international index placed the country 35th globally in 2026, up ten places ([perception](https://www.afrobarometer.org/publication/ad1219-seychellois-endorse-medias-oversight-role-but-many-doubt-that-it-is-truly-free/)).<br><br>Those two point in opposite directions and the cell carries both: a statutory change increasing executive control over the state broadcaster, and an external ranking improving.</details> | Regressed |
 
-### Legislation and regulation
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| NISTI Act 2025 (National Institute of Science, Technology and Innovation) | Did not exist | [Assented 22 Dec 2025; commences on a date the Minister appoints — no commencement date on record](https://www.gazette.sc/sites/default/files/2025-12/Act%2024%202025%20-%20National%20Institute%20of%20Science%20Technology%20and%20Innovation%20Act.pdf) | Advanced |
-| Access to Information Act 2018 (ATIA) reform | ***Baseline not held*** | [Whitepaper published, drafting targeted end-2025; no Bill text or introduction date on record](https://www.infocom.sc/wp-content/uploads/ATIA-Updated-Whitepaper-10.11.2025.pdf) | ***Baseline not held*** |
-
-### Data protection
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| Data Protection Act 2023 (Act 24 of 2023) | Transition already elapsed and Act binding in full at the 2025-08 baseline | [Unchanged; no source reports any investigation, audit, fine or guidance issued by the Information Commission since](https://www.gazette.sc/sites/default/files/2023-12/Act%2024%20-%202023%20-%20Data%20Protection%20Act%202023.pdf) | No change |
-| Information Commission (data-protection authority) | ***Baseline not held*** | [Designated authority since Dec 2023; enforcement-capacity gap documented Nov 2025; no audit, investigation or fine against any controller reported to date](https://www.infocom.sc/wp-content/uploads/ATIA-Updated-Whitepaper-10.11.2025.pdf) | ***Baseline not held*** |
-
-### Regional collaboration
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| AUDA-NEPAD Programme for African Developing Island Economies | Did not exist | [Programme launched, communique adopted; partners include Korea, AfDB, RECs, the Indian Ocean Commission](https://www.nepad.org/news/auda-nepad-launches-first-continental-programme-dedicated-africas-island-economies) | Advanced |
-
-### Public debate and participation in policymaking
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| Appointment and dismissal power over the SBC board | Vested in the independent Constitutional Appointments Authority | [Greater powers over the appointment and dismissal of the public broadcaster's board transferred to the President by a June 2026 amendment to the SBC Act](https://www.afrobarometer.org/publication/ad1219-seychellois-endorse-medias-oversight-role-but-many-doubt-that-it-is-truly-free/) | Regressed |
-| Perceived media freedom | 51% said the media was somewhat or completely free (2022) | [45% say the media is somewhat or completely free and 52% say it is not very or not at all free (2025 survey), against 78% who want the media to investigate government mistakes and corruption and 85% who back the right to publish without government interference](https://www.afrobarometer.org/publication/ad1219-seychellois-endorse-medias-oversight-role-but-many-doubt-that-it-is-truly-free/) | Regressed |
-
-<!-- narrative: governance -->
-The Data Protection Act's compliance transition had already elapsed by the 2025-08 baseline, and its enforcement position has not moved since: no audit, investigation or fine is on record either at the start or the end of the window. The NISTI Act and the AUDA-NEPAD island-economies programme both entered the record within the window, and only one of them has moved beyond its founding instrument: the Act was assented in December 2025 and still awaits a ministerial commencement date, but the institution itself was [described in August 2026 as reinstated with its Secretariat under the Office of the Vice-President](https://statehouse.gov.sc/news/7184/president-herminie-science-technology-and-innovation-belong-at-the-centre-of-a-people-centred-society), after five years closed. AUDA-NEPAD's programme has only a July 2026 ministerial communique behind it. The Information Commission and the "fully digitalised e-government by 2030" target both carry no baseline, so their current, still-unresolved positions cannot be measured as movement: the Commission's own November 2025 admission that it has no clear enforcement power stands unchallenged through to the date of issue, and Malta's bilateral technical cooperation remains the only route named for the 2030 target. The window closes with the record's first measure of how the public sees any of it — [perceived media freedom at 45%, down from 51% in 2022](https://www.afrobarometer.org/publication/ad1219-seychellois-endorse-medias-oversight-role-but-many-doubt-that-it-is-truly-free/) — against a June 2026 amendment moving appointment power over the public broadcaster's board from the Constitutional Appointments Authority to the President.
-<!-- /narrative -->
 
 ## Finance
 
-### MoUs and other agreements
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| Topic | Indicator | Developments | Progress |
 |---|---|---|---|
-| Mauritius Telecom–Eboo cross-border payments | Did not exist | [Announced at the AllMyT Summit as the first of a planned series of Indian Ocean regional payment announcements; no operational detail, launch date or terms given](https://platformafrica.com/2026/07/16/from-connectivity-to-intelligence-how-mauritius-telecom-is-building-the-intelligent-layer-of-everyday-mauritius/) | Advanced |
+| Domestic budget appropriations and expenditure | Sustainable domestic financing of digital transformation |  | ***No evidence*** |
+| MoUs and other agreements | Strategic relationships | A neighbouring operator [announced cross-border payment capabilities](https://platformafrica.com/2026/07/16/from-connectivity-to-intelligence-how-mauritius-telecom-is-building-the-intelligent-layer-of-everyday-mauritius/) with a domestic fintech partner. <details><summary>Full record</summary>The announcement is a single paragraph in an otherwise foreign-focused keynote ([announcement](https://platformafrica.com/2026/07/16/from-connectivity-to-intelligence-how-mauritius-telecom-is-building-the-intelligent-layer-of-everyday-mauritius/)).<br><br>No agreement, value, timetable or regulatory approval is named. It is one of three cross-border payment intentions in this unit — the others being a continental interface memorandum and the domestic fintech's own platform — and none has a completed corridor on record.</details> | Advanced |
+| New investments | Mobilisation of non-state finance | A [US$350,000 pre-seed round](https://dabafinance.com/en/news/fusepay-rolls-out-b2b-payments-platform) closed for a domestic fintech, and a development lender [refinanced the telecommunications incumbent](https://www.tdbgroup.org/wp-content/uploads/2024/09/TDB-Group-Sustainability-and-Development-Impact-Report-2023.pdf) in a US$50m package after [arranging US$70m of acquisition financing](https://www.tdbgroup.org/tdb-arranges-seychelles-biggest-private-sector-deal-in-a-decade/) in 2019. <details><summary>Full record</summary>The pre-seed closed in November 2025 with five named backers ([round](https://dabafinance.com/en/news/fusepay-rolls-out-b2b-payments-platform)).<br><br>The refinancing package of US$50m replaced US$48.1m of 2019 debt ([refinancing](https://www.tdbgroup.org/wp-content/uploads/2024/09/TDB-Group-Sustainability-and-Development-Impact-Report-2023.pdf)); the lender took about 2.9 per cent of the operator's equity in December 2022, the operator listed on a domestic exchange in September 2022, and a local-currency bond of about US$12.5m was co-arranged in February 2024 ([refinancing](https://www.tdbgroup.org/wp-content/uploads/2024/09/TDB-Group-Sustainability-and-Development-Impact-Report-2023.pdf)).<br><br>The original acquisition financing of US$70m syndicated, US$50m on the lender's own book, took the operator out of foreign ownership in 2019 ([acquisition](https://www.tdbgroup.org/tdb-arranges-seychelles-biggest-private-sector-deal-in-a-decade/)). A regional development lender holding equity in the telecommunications incumbent is a structural fact this base records and nothing examines.</details> | Advanced |
+| New investments | Development-partner project financing | A [US$30m results-based social protection programme](https://documents.worldbank.org/curated/en/441051616983276293) carries a social-protection registry and management information system as its digital element. <details><summary>Full record</summary>The programme was approved in March 2021 ([programme](https://documents.worldbank.org/curated/en/441051616983276293)).<br><br>It is the only development financing in this ledger with a named digital component, and the social protection delivery platform recorded separately — briefed to stakeholders in August 2026 — is presumably its output, though no source connects them.</details> | No change |
 
-### New investments
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| Hustle Fund et al. → Fusepay pre-seed | Did not exist | [Round closed; platform launched Nov 2025, Fuse360 AI layer added Jul 2026](https://dabafinance.com/en/news/fusepay-rolls-out-b2b-payments-platform) | Advanced |
-| TDB → CWS debt refinancing and digital-transformation facility | Active facility, pre-window | [Unchanged; supports CWS's eBill, self-care and online-registration platforms, and Nebula Fintech exploration](https://www.tdbgroup.org/wp-content/uploads/2024/09/TDB-Group-Sustainability-and-Development-Impact-Report-2023.pdf) | No change |
-| TDB → CWS Investment Ltd acquisition financing | US$50m disbursed (predates window) | [Unchanged; refinanced in 2022](https://www.tdbgroup.org/tdb-arranges-seychelles-biggest-private-sector-deal-in-a-decade/) | No change |
-| World Bank Seychelles Social Protection PforR (PAD3541) | US$30m approved, pre-window | [Unchanged; no completion or closure report on record](https://documents.worldbank.org/curated/en/441051616983276293) | No change |
-
-<!-- narrative: finance -->
-The three larger financing instruments — TDB's two Cable & Wireless facilities and the World Bank's social-protection Program-for-Results — all predate the window and have not moved within it. TDB's 2019 acquisition loan placed CWS in full local ownership and remains unchanged since being refinanced in 2022, when TDB took a small equity stake ahead of the operator's MERJ Exchange listing and a further 2024 local-currency bond; the World Bank's [US$30m Program-for-Results, approved in March 2021](https://documents.worldbank.org/curated/en/441051616983276293), has no completion report on file at either end of the window. Fusepay's pre-seed round and the Mauritius Telecom–Eboo partnership are the window's only new financing activity, both entering the record with terms still to be disclosed: [Fusepay's US$350,000 round, closed in August 2025](https://dabafinance.com/en/news/fusepay-rolls-out-b2b-payments-platform), sits just before the window's baseline, while the Eboo partnership was announced only in July 2026 with no operational detail attached.
-<!-- /narrative -->
 
 ## ICT Infrastructure
 
-### Connectivity
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| Topic | Indicator | Developments | Progress |
 |---|---|---|---|
-| Airtel Seychelles 5G network | No 5G service; network being relocated/virtualised into new datacentre (2025-08) | [Commercial 5G live, second operator after CWS](https://itweb.africa/article/airtel-seychelles-partners-ericsson-on-turnkey-5g-project/lLn147mjg6bMJ6Aa) | Advanced |
-| Starlink Seychelles (satellite ISP) | Did not exist | [Live nationally, subscriptions open online, several users already active (2026-07-21/22); 28th of 54 African markets on sale](https://www.nation.sc/articles/29683/starlink-cleared-for-takeoff-in-seychelles) | Advanced |
-| Cable & Wireless Seychelles 4G/5G network | 5G live since Jul 2020, unchanged at 2025-08 baseline | [Unchanged; now running alongside Airtel's newer 5G network](https://www.telecompaper.com/news/cable-and-wireless-seychelles-launches-5g-network-with-huawei--1345434) | No change |
-| Hytera–CWS emergency-communications MoU | MoU signed, no build reported (2025-08 baseline) | [Unchanged — no build, commissioning date or further progress on record](https://www.developingtelecoms.com/telecom-technology/wireless-networks/18097-hytera-and-cws-aim-to-drive-digital-transformation-in-seychelles.html) | No change |
+| Connectivity | Mobile penetration | One operator [launched commercial fifth-generation service](https://nation.sc/articles/31374/airtel-seychelles-launches-5g-network-and-partners-with-sbc-by-vidya-gappy) in July 2026, and the incumbent [launched fifth-generation with a Chinese vendor](https://www.telecompaper.com/news/cable-and-wireless-seychelles-launches-5g-network-with-huawei--1345434) in 2020. <details><summary>Full record</summary>The commercial launch came in July 2026 with a broadcaster content partnership alongside; plan and pricing detail is paywalled and not held ([launch](https://nation.sc/articles/31374/airtel-seychelles-launches-5g-network-and-partners-with-sbc-by-vidya-gappy), [turnkey](https://itweb.africa/article/airtel-seychelles-partners-ericsson-on-turnkey-5g-project/lLn147mjg6bMJ6Aa)).<br><br>The incumbent launched fifth-generation service in 2020 with a Chinese vendor supplying it ([incumbent](https://www.telecompaper.com/news/cable-and-wireless-seychelles-launches-5g-network-with-huawei--1345434)).<br><br>An emergency-communications memorandum signed with a Chinese supplier at a 2025 trade congress, for a resilient mission-critical core integrating with the incumbent's network, has had no update in more than seventeen months ([memorandum](https://www.developingtelecoms.com/telecom-technology/wireless-networks/18097-hytera-and-cws-aim-to-drive-digital-transformation-in-seychelles.html)).</details> | Advanced |
+| Connectivity | Internet usage |  | ***No evidence*** |
+| Connectivity | Mobile affordability |  | ***No evidence*** |
+| Connectivity | National fibre backbone |  | ***No evidence*** |
+| Connectivity | International internet bandwidth |  | ***No evidence*** |
+| Connectivity | Internet Exchange Points |  | ***No evidence*** |
+| Connectivity | Satellite broadband licensing and availability | [Satellite internet soft-launched](https://statehouse.gov.sc/news/7148/starlink-begins-operations-in-seychelles-expanding-internet-choices-for-consumers) at a State House briefing in July 2026, after Cabinet approved the licence in February and the operator incorporated locally by May. <details><summary>Full record</summary>Cabinet approved the service provider licence on 18 February 2026, the operator incorporated locally and was in final licensing by May, and the soft launch was confirmed at a State House briefing in July ([soft launch](https://statehouse.gov.sc/news/7148/starlink-begins-operations-in-seychelles-expanding-internet-choices-for-consumers), [clearance](https://www.nation.sc/articles/29683/starlink-cleared-for-takeoff-in-seychelles), [incorporation](https://www.nation.sc/articles/30901/in-the-national-assembly), [live](https://www.connectingafrica.com/connectivity/starlink-live-in-c-te-d-ivoire-and-seychelles), [coverage](https://tech-ish.com/2026/07/28/starlink-28-african-countries-kenya-freeze/)).<br><br>Requiring local incorporation before licensing is the design choice worth recording: several units in this frame licensed the same operator on a full foreign-ownership basis, and this one did not.<br><br>No subscriber count, tariff or coverage figure is published.</details> | Advanced |
+| Data Storage | Local data centre capacity (all providers) | An [operator data centre](https://itweb.africa/article/airtel-seychelles-partners-ericsson-on-turnkey-5g-project/lLn147mjg6bMJ6Aa) was built under a turnkey project relocating and modernising the network into a hybrid network cloud. <details><summary>Full record</summary>The turnkey award was made in December 2021 ([project](https://itweb.africa/article/airtel-seychelles-partners-ericsson-on-turnkey-5g-project/lLn147mjg6bMJ6Aa)).<br><br>Its continued operation is inferred only from the 2026 fifth-generation launch it enabled. No capacity, tenancy or availability figure is published, and no other data centre — commercial or government — appears anywhere in this ledger.</details> | No change |
+| Data Storage | Local data centre capacity (national providers) |  | ***No evidence*** |
+| Data Storage | Off-site backup capacity |  | ***No evidence*** |
+| Energy | Sufficient energy and water for data centres |  | ***No evidence*** |
+| Energy | Grid reliability |  | ***No evidence*** |
+| Energy | Rural electrification |  | ***No evidence*** |
+| Technical Capacity | Robustness of government hardware and software |  | ***No evidence*** |
+| Technical Capacity | Local capacity to maintain, manage and develop government systems |  | ***No evidence*** |
+| Cybersecurity | National cybersecurity readiness | The National Assembly [unanimously approved a motion to accede to the Budapest Convention](https://www.nation.sc/articles/31614/assembly-approves-accession-to-budapest-convention-on-cybercrime), and a [national cybersecurity coordination committee](https://nation.sc/articles/26060/from-headlines-to-algorithms-media-practitioners-explore-ai-with-nccc-and-amps) has a thin record with no founding instrument held. <details><summary>Full record</summary>The accession motion was approved unanimously in July 2026; the body of the source is paywalled beyond its opening ([accession](https://www.nation.sc/articles/31614/assembly-approves-accession-to-budapest-convention-on-cybercrime)).<br><br>The coordination committee reaches the base through a press-freedom day workshop it ran on artificial intelligence, ethics and cybersecurity. No founding instrument or mandate document is held ([committee](https://nation.sc/articles/26060/from-headlines-to-algorithms-media-practitioners-explore-ai-with-nccc-and-amps)).<br><br>So the country is acceding to the principal international cybercrime instrument while its own coordinating body exists in the record only through a workshop it hosted.</details> | Advanced |
 
-### Data Storage
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| Airtel Seychelles data centre (Ericsson turnkey project) | ***Baseline not held*** | [New datacentre as infrastructure basis for the 2026 5G launch; no separate update on datacentre operations since 2021](https://itweb.africa/article/airtel-seychelles-partners-ericsson-on-turnkey-5g-project/lLn147mjg6bMJ6Aa) | ***Baseline not held*** |
-
-### Cybersecurity
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| Budapest Convention on Cybercrime accession | Did not exist | [Assembly vote passed unanimously; the accession itself, an executive act, still to follow](https://www.nation.sc/articles/31614/assembly-approves-accession-to-budapest-convention-on-cybercrime) | Advanced |
-| National Cybersecurity Coordination Committee | ***Baseline not held*** | [Active as national cyber-coordination body; one documented activity](https://nation.sc/articles/26060/from-headlines-to-algorithms-media-practitioners-explore-ai-with-nccc-and-amps) | ***Baseline not held*** |
-
-<!-- narrative: ict-infrastructure -->
-Seychelles gained two networks in the window that did not exist at its opening: Airtel's commercial 5G, live 3 July 2026 from a datacentre contracted in 2021, and Starlink, soft-launched 21 July after a February Cabinet approval. Cable & Wireless's own 5G network, live since 2020, has not changed. The Hytera–CWS emergency-communications MoU and the National Cybersecurity Coordination Committee both remain exactly where the base found them — an unbuilt MoU and a body with one documented workshop — with no baseline for the Committee to measure movement against.
-<!-- /narrative -->
 
 ## DPI
 
-### Data Exchange
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| Topic | Indicator | Developments | Progress |
 |---|---|---|---|
-| Seychelles–AfCFTA–Quest Ghana digital-trade-hub MoU | Did not exist | [MoU established; signing date, venue and terms not established (paywalled lede)](https://www.nation.sc/articles/29842/seychelles-set-to-become-digital-trade-hub-of-afcfta) | Advanced |
+| Data Exchange | National data exchange system |  | ***No evidence*** |
+| Data Exchange | Use of digital id in other systems |  | ***No evidence*** |
+| Data Exchange | Interoperability of health systems |  | ***No evidence*** |
+| Data Exchange | Interoperability of education systems |  | ***No evidence*** |
+| Data Exchange | Interoperability of social protection systems |  | ***No evidence*** |
+| Digital Identity and CRVS | Robustness of system | A [national digital identity platform](https://www.ics.gov.sc/about/media-centre/publications/launch-of-new-digital-solutions-for-public-services) runs a two-tier credential built on a foreign vendor's platform, and no source addresses licensing, hosting or exit terms. <details><summary>Full record</summary>The platform launched in September 2024 on a foreign vendor's identity platform, with the credential made mandatory for work permit holders ([platform](https://www.ics.gov.sc/about/media-centre/publications/launch-of-new-digital-solutions-for-public-services), [mandate](https://idtechwire.com/seychelles-makes-digital-id-mandatory-for-work-permit-holders), [civil status](https://seylii.org/akn/sc/act/1883/4/eng@2022-11-01)).<br><br>The sovereignty question is open: no source addresses licensing, hosting or exit terms with the vendor. For a national identity credential that is the arrangement that matters most, and it is the one thing nothing published says.<br><br>No enrolment count, coverage figure or authentication volume is held at any date.</details> | No change |
+| Digital Identity and CRVS | Registration of entire population |  | ***No evidence*** |
+| Digital Identity and CRVS | National maintenance of id and credentials systems |  | ***No evidence*** |
+| Digital Identity and CRVS | Authentication |  | ***No evidence*** |
+| Digital Identity and CRVS | Digital id from birth |  | ***No evidence*** |
+| Digital Identity and CRVS | Interoperability of birth registration and digital id |  | ***No evidence*** |
+| Digital Identity and CRVS | Use by other systems |  | ***No evidence*** |
+| Digital Payments and Fintech | Governance role of central bank | The central bank [set a four-stage cheque phase-out](http://www.seychellesnewsagency.com/articles/21244/seychelles-to-phase-out-cheques-for-financial-transactions-from-2025) running to May 2026, under [electronic money regulations](https://www.gazette.sc/sites/default/files/2023-01/SI%20128%202022%20-%20National%20Payment%20System%20%28Electronic%20Money%29%20Regulations%2C%202022.pdf) in force since 2022, and Cabinet [approved widening the authorised-dealer perimeter](https://statehouse.gov.sc/cabinet-decisions/7151/cabinet-business-thursday-23rd-july-2026). <details><summary>Full record</summary>The phase-out runs in four dated stages: stop issuing to individuals from January 2025, stop accepting from individuals from May 2025, stop issuing to non-residents from January 2026, stop accepting from non-residents after May 2026. The cheque-volume and card figures behind it carry a proxy date caveat ([phase-out](http://www.seychellesnewsagency.com/articles/21244/seychelles-to-phase-out-cheques-for-financial-transactions-from-2025), [schedule](https://nation.sc/articles/31435/src-introduces-new-cheque-payment-limits-plans-full-phase-out-by-2028)).<br><br>The electronic money regulations were made under the payment system Act in 2022, giving incumbents six months to comply and a year to reach the capital floor; they were acquired from the Official Gazette only in August 2026, so they are a foundational text newly added to this base rather than a new development ([regulations](https://www.gazette.sc/sites/default/files/2023-01/SI%20128%202022%20-%20National%20Payment%20System%20%28Electronic%20Money%29%20Regulations%2C%202022.pdf)).<br><br>Cabinet approved amendments widening the authorised-dealer definition to include credit unions and licensed payment service providers ([perimeter](https://statehouse.gov.sc/cabinet-decisions/7151/cabinet-business-thursday-23rd-july-2026)). A dated, staged withdrawal of an instrument is the most orderly payments transition in this frame.</details> | Advanced |
+| Digital Payments and Fintech | G2P functionality |  | ***No evidence*** |
+| Digital Payments and Fintech | Revenue collection |  | ***No evidence*** |
+| Digital Payments and Fintech | B2B and B2G functionality | A [domestic fintech ran its first live transaction](https://techcabal.com/2026/07/22/fusepay-expands-beyond-payments-with-ai-operating-system/) on a virtual business-account platform, positioned against the cheque phase-out. <details><summary>Full record</summary>The first live transaction ran in July 2026 on a platform offering virtual business accounts, with the company also announcing an operating layer above it ([platform](https://techcabal.com/2026/07/22/fusepay-expands-beyond-payments-with-ai-operating-system/), [cheques](https://techafricanews.com/2025/11/21/seychelles-embraces-digital-revolution-as-fusepay-ushers-out-paper-cheques/), [funding](https://dabafinance.com/en/news/fusepay-rolls-out-b2b-payments-platform)).<br><br>A domestic company building business payments directly into the gap the central bank's cheque withdrawal creates is the clearest instance in this ledger of policy and private delivery lining up.<br><br>No transaction volume, customer count or pricing is published.</details> | Advanced |
+| Digital Payments and Fintech | P2P, P2G and P2B functionality |  | ***No evidence*** |
+| Digital Payments and Fintech | Population uptake |  | ***No evidence*** |
+| Digital Payments and Fintech | Cross-border functionality | The central bank [signed a memorandum with an Indian payments body](https://africabusinessinsight.com/seychelles-upi-launch-2026/) to bring its unified payments interface, with rollout targeted for end-2026. <details><summary>Full record</summary>The memorandum was signed during a bilateral visit in June 2026 and the source is secondary, with neither party's primary held ([memorandum](https://africabusinessinsight.com/seychelles-upi-launch-2026/)).<br><br>Adopting another country's national payments interface is a substantial architectural commitment — it decides the rails, the standards and the counterparty for cross-border retail payments — and the base holds no text stating what was agreed.</details> | Advanced |
+| Digital Payments and Fintech | Consumer protection |  | ***No evidence*** |
+| Registries | Population register |  | ***No evidence*** |
+| Registries | Civil register | [Civil-status certificates are issued online](https://www.ics.gov.sc/about/media-centre/publications/launch-of-new-digital-solutions-for-public-services) with two-working-day delivery, saved to the identity platform's document wallet. <details><summary>Full record</summary>Birth, marriage and death certificates are available online with delivery in two working days, saved into the identity platform's document wallet ([certificates](https://www.ics.gov.sc/about/media-centre/publications/launch-of-new-digital-solutions-for-public-services)).<br><br>That is a working registry-to-credential link — the certificate lands in the same wallet as the identity — and it is one of very few in this frame where the two systems are joined at the point of issue.<br><br>No transaction volume, registration completeness or uptake figure is published.</details> | No change |
+| Registries | Address register | Cabinet approved implementation of a [national addressing and postcode system](https://seychellespostalregulator.com/pages/national-addressing-system) on an international address standard, with the legal framework being drafted. <details><summary>Full record</summary>The standard was adopted and a technical committee is drafting the legal framework with the attorney-general's office ([system](https://seychellespostalregulator.com/pages/national-addressing-system)).<br><br>The source is undated and proxy-dated to 2025, so the status may have moved with nothing later on record. Adopting the international standard before drafting the law is the sequence here, and it is the right one for an addressing system whose value depends on conforming to something.</details> | Advanced |
+| Registries | Business register | The President [toured the registrar general office](https://www.wearetech.africa/en/fils-uk/news/public-management/seychelles-pledges-to-modernize-public-services-through-digital-transformation), praised its digitalisation and announced unspecified legislative reforms. <details><summary>Full record</summary>The tour was in February 2025 and the reforms were not specified ([tour](https://www.wearetech.africa/en/fils-uk/news/public-management/seychelles-pledges-to-modernize-public-services-through-digital-transformation)).<br><br>Nothing has entered the base since. A business one-stop portal was separately launched in pilot with a full rollout targeted for June 2026, and no source connects it to the registry.</details> | No change |
+| Registries | Social protection register |  | ***No evidence*** |
+| Registries | Electoral register |  | ***No evidence*** |
+| Registries | Tax register |  | ***No evidence*** |
+| Registries | Land register |  | ***No evidence*** |
+| Sectoral management information systems | Health | [Bilateral consultations are advancing](https://www.firstpost.com/opinion/beyond-broad-pledges-indias-tech-sovereignty-push-in-africa-and-asean-14036875.html) toward potential adoption of another country's telemedicine, office and hospital platforms. <details><summary>Full record</summary>The consultations reach the base through a single secondary analytical source, with no domestic primary ([consultations](https://www.firstpost.com/opinion/beyond-broad-pledges-indias-tech-sovereignty-push-in-africa-and-asean-14036875.html)).<br><br>Adopting a foreign state's public-health platforms alongside a memorandum to adopt its payments interface would make one bilateral partner the supplier of two of this country's core public systems. Nothing published states terms, hosting or data arrangements for either.</details> | Advanced |
+| Sectoral management information systems | Education | A [smart education programme](https://e.huawei.com/ae/case-studies/industries/commercial-market/2025-seychelles-smart-education-solutions) was launched by the education ministry with the incumbent operator and a Chinese vendor across four secondary schools. <details><summary>Full record</summary>The programme covers multimedia lessons, real-time assessment and interactive display hardware across four secondary schools ([programme](https://e.huawei.com/ae/case-studies/industries/commercial-market/2025-seychelles-smart-education-solutions)).<br><br>The account is a vendor case study, not verified against a ministry primary. No pupil count, evaluation or data arrangement is published, and the same vendor supplies the incumbent's fifth-generation core.</details> | Advanced |
+| Sectoral management information systems | Social protection |  | ***No evidence*** |
+| Sectoral management information systems | Justice | An [electronic case management system](https://statehouse.gov.sc/news/7053/president-herminie-officially-launches-electronic-case-management-system-new-digital-platform-marks-significant-step-forward-for-seychelles-legal-affairs-sector) was launched by the President in June 2026, live with immediate effect. <details><summary>Full record</summary>It went live on launch ([system](https://statehouse.gov.sc/news/7053/president-herminie-officially-launches-electronic-case-management-system-new-digital-platform-marks-significant-step-forward-for-seychelles-legal-affairs-sector)).<br><br>No court coverage, case volume, filing arrangement or public-access provision is published. It is one of four government systems this unit brought into service inside four weeks in mid-2026, alongside the portal relaunch, the certificate of origin and the fifth-generation launch.</details> | Advanced |
+| Sectoral management information systems | Tax | [Mandatory electronic invoicing](https://www.nation.sc/articles/31652/src-moves-to-final-stage-of-einvoicing-procurement) is at the final stage of procurement, on an expression of interest opened in March 2026. <details><summary>Full record</summary>The acting commissioner general stated in July 2026 that the expression of interest opened in March and procurement is at final stage ([procurement](https://www.nation.sc/articles/31652/src-moves-to-final-stage-of-einvoicing-procurement)).<br><br>No supplier, value, mandate date or taxpayer scope is published. Making invoicing mandatory is the point at which a revenue digitisation reaches every business in the country, and none of the terms on which it will do so is on record.</details> | Advanced |
+| Sectoral management information systems | Customs | The revenue commission [launched an electronic certificate of origin](https://www.comesa.int/seychelles-national-launch-of-the-e-co-official-statement-by-the-guest-of-honour-the-principal-secretary-for-trade-ms-natalie-edmond/) with the regional trade secretariat. <details><summary>Full record</summary>It was launched in July 2026 for trade facilitation ([certificate](https://www.comesa.int/seychelles-national-launch-of-the-e-co-official-statement-by-the-guest-of-honour-the-principal-secretary-for-trade-ms-natalie-edmond/)).<br><br>No issuance volume, participating trader count or processing-time figure is published. It is the operational half of the digital-trade hub positioning recorded separately, and the only part of it that has actually been delivered.</details> | Advanced |
+| Sectoral management information systems | Land |  | ***No evidence*** |
+| Other GovTech and e-Gov | e-government services | The [government portal was relaunched](https://techafricanews.com/2026/06/24/seychelles-launches-revamped-egov-portal-to-expand-digital-public-services/) in June 2026, a [business one-stop portal](https://www.nrdcompanies.com/insights/seychelles-selects-nrd-companies-to-develop-new-ease-of-doing-business-portal-to-transform-investment-landscape/) entered pilot with fifteen or more services, and a [social protection delivery platform](https://nation.sc/articles/31959/asp-connect-modernises-social-protection-delivery) was briefed to stakeholders. <details><summary>Full record</summary>The portal relaunch coincided with the fiftieth independence anniversary ([portal](https://techafricanews.com/2026/06/24/seychelles-launches-revamped-egov-portal-to-expand-digital-public-services/)).<br><br>The business portal launched with a vendor in November 2025 covering two service journeys and fifteen or more services, with full rollout targeted for June 2026; the account is a vendor press release not verified against a ministry primary ([business](https://www.nrdcompanies.com/insights/seychelles-selects-nrd-companies-to-develop-new-ease-of-doing-business-portal-to-transform-investment-landscape/)).<br><br>The social protection platform was briefed rather than launched in August 2026, with no go-live date, beneficiary count or service list published ([platform](https://nation.sc/articles/31959/asp-connect-modernises-social-protection-delivery)). Against a 2030 target of full digitalisation, no source states how many services exist or how many are online.</details> | Advanced |
 
-### Digital Identity and CRVS
 
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+## Digitalisation
+
+| Topic | Indicator | Developments | Progress |
 |---|---|---|---|
-| CertExpress (online civil-status certificates) | Live, SCR 50 fee (as stated at launch) | [Unchanged; fee not re-verified since 2024-09](https://www.ics.gov.sc/about/media-centre/publications/launch-of-new-digital-solutions-for-public-services) | No change |
-| SeyID national digital-identity platform | Two-tier structure already in place (2025-08): virtual-only for new work-permit holders since 17 Sep 2024, physical option retained for citizens | [Unchanged; no enrolment or adoption figures ever reported](https://www.ics.gov.sc/about/media-centre/publications/launch-of-new-digital-solutions-for-public-services) | No change |
+| Digitalisation of sub-national government | ICT infrastructure for local government |  | ***No evidence*** |
+| Digitalisation of sub-national government | Digitalisation of local government records |  | ***No evidence*** |
+| Rural digital data capture | Digitalisation of rural health clinics |  | ***No evidence*** |
+| Rural digital data capture | Digitalisation of rural primary schools |  | ***No evidence*** |
+| Rural digital data capture | Digitalisation of rural registry offices |  | ***No evidence*** |
+| Rural digital data capture | Digitalisation of rural police stations |  | ***No evidence*** |
 
-### Digital Payments and Fintech
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| Cheque phase-out (Central Bank of Seychelles, four-stage schedule) | Individual-facing stages running; non-resident stages not yet reached (2025-08) | [SRC introduced cheque thresholds for tax/duties (eff. 13 Jul 2026) as part of a plan to discontinue cheques entirely by 31 Dec 2028](http://www.seychellesnewsagency.com/articles/21244/seychelles-to-phase-out-cheques-for-financial-transactions-from-2025) | Advanced |
-| Foreign Exchange Act 2009 amendment (authorised-dealer perimeter) | Did not exist | [Cabinet approval only; no Bill text, commencement date or transitional provision on record](https://statehouse.gov.sc/cabinet-decisions/7151/cabinet-business-thursday-23rd-july-2026) | Advanced |
-| Fusepay (B2B fintech, virtual business accounts) | Did not exist | [Live payments platform plus a July-2026 Fuse360 AI-operations layer; Seychelles live, Mauritius scheduled Sep 2026](https://techafricanews.com/2025/11/21/seychelles-embraces-digital-revolution-as-fusepay-ushers-out-paper-cheques/) | Advanced |
-| UPI — Unified Payments Interface (India, NPCI MoU) | Did not exist | [MoU signed, regulatory prep under way (standards, cybersecurity, interoperability, merchant training); not yet delivered](https://africabusinessinsight.com/seychelles-upi-launch-2026/) | Advanced |
-| National Payment System (Electronic Money) Regulations 2022 (S.I. 128 of 2022) | In force, unchanged text (predates window) | [Unchanged](https://www.gazette.sc/sites/default/files/2023-01/SI%20128%202022%20-%20National%20Payment%20System%20%28Electronic%20Money%29%20Regulations%2C%202022.pdf) | No change |
-
-### Registries
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| Registrar General's Office digitalisation (business registration & IP) | Digitalisation praised, unspecified reform commitment (2025-08, already the position) | [Unchanged — no named bill, no date, nothing later on record](https://www.wearetech.africa/en/fils-uk/news/public-management/seychelles-pledges-to-modernize-public-services-through-digital-transformation) | No change |
-| National Addressing and Postcode System (S42 standard) | ***Baseline not held*** | [Cabinet-approved programme run by the Postal Regulator with Lands and Housing, NBS, DICT and the AG's Office; legal framework still in drafting](https://seychellespostalregulator.com/pages/national-addressing-system) | ***Baseline not held*** |
-
-### Sectoral management information systems
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| e-Sanjeevani / e-Office / e-Hospital (India DPI platforms) | Did not exist | [Consultations advancing as reported 2026-08-08; no MoU, pilot or date established](https://www.firstpost.com/opinion/beyond-broad-pledges-indias-tech-sovereignty-push-in-africa-and-asean-14036875.html) | Advanced |
-| Huawei/CWS SMART Education | Did not exist immediately before Aug 2025 | [Live in four schools; no scale-up reported since](https://e.huawei.com/ae/case-studies/industries/commercial-market/2025-seychelles-smart-education-solutions) | Advanced |
-
-### Other GovTech and e-Gov
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| Ease of Doing Business one-stop portal | Did not exist | [Portal live since Nov 2025; no confirmation held that the targeted 30 Jun 2026 full rollout was reached](https://www.nrdcompanies.com/insights/seychelles-selects-nrd-companies-to-develop-new-ease-of-doing-business-portal-to-transform-investment-landscape/) | Advanced |
-| egov.sc government portal | Legacy, unrevised portal (2025-08) | [Relaunched portal, single-click access framing](https://techafricanews.com/2026/06/24/seychelles-launches-revamped-egov-portal-to-expand-digital-public-services/) | Advanced |
-| Electronic Case Management System (justice sector) | Did not exist | [Operational online platform for the AG's Office/legal sector — shared calendars, virtual meetings, case-data retrieval, secure chat; financed by the US State Department via UNODC's Global Maritime Crime Programme and UNOPS](https://statehouse.gov.sc/news/7053/president-herminie-officially-launches-electronic-case-management-system-new-digital-platform-marks-significant-step-forward-for-seychelles-legal-affairs-sector) | Advanced |
-| Electronic Certificate of Origin (e-CO) | Did not exist | [Live; traders urged to use it to claim reduced duties under trade agreements](https://www.comesa.int/seychelles-national-launch-of-the-e-co-official-statement-by-the-guest-of-honour-the-principal-secretary-for-trade-ms-natalie-edmond/) | Advanced |
-| Mandatory e-invoicing system (Seychelles Revenue Commission) | Did not exist | [Final-stage procurement; no award, vendor, go-live date or transaction threshold on record](https://www.nation.sc/articles/31652/src-moves-to-final-stage-of-einvoicing-procurement) | Advanced |
-| Social protection delivery platform | Did not exist | [A digital platform for social-protection service delivery whose development began in 2022 on a multilateral recommendation, presented to government agencies, business partners and corporate beneficiaries at a stakeholder meeting](https://nation.sc/articles/31959/asp-connect-modernises-social-protection-delivery) | Advanced |
-| Video-enforcement pilot (automated traffic ticketing, Roche Caiman) | Did not exist | [Eight-week pilot at Roche Caiman, Mahe; permanent adoption to depend on results](https://www.wearetech.africa/fr/fils/actualites/tech/les-seychelles-testent-un-systeme-de-controle-routier-par-video-verbalisation) | Advanced |
-
-<!-- narrative: dpi -->
-Digital public infrastructure carried the most movement in the window: an electronic case-management system, a certificate-of-origin platform, a relaunched government portal, a traffic-camera pilot and an e-invoicing procurement all entered the record where none existed a year ago. Identity and civil-status services were the exception — SeyID's two-tier credential and CertExpress were already in place at the 2025-08 baseline and have not changed since, and no enrolment or adoption figures have been published for either across the full window. On payments, the cheque phase-out advanced from its already-running individual-facing stages to a firm 2028 closure date, while the National Payment System (Electronic Money) Regulations, in force since 2022, remain unchanged.
-
-Two India-linked instruments — the UPI memorandum with the Central Bank and the e-Sanjeevani/e-Office/e-Hospital consultations — both entered the record inside the window with no delivery date yet attached to either, alongside a Cabinet-approved widening of the Foreign Exchange Act's authorised-dealer perimeter. The Registrar General's Office digitalisation commitment, first reported in February 2025, remains exactly where the base found it — praised but unspecified, with no bill, date or further statement in the fourteen months since.
-<!-- /narrative -->
 
 ## Technology
 
-### AI
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| Topic | Indicator | Developments | Progress |
 |---|---|---|---|
-| National AI in Education Framework 2026–2030 | Did not exist | [Cabinet-approved, running to 2030; two World Bank pilots already running; the Framework's own text is not held](https://statehouse.gov.sc/news/7158/president-herminies-vision-for-artificial-intelligence-takes-root-in-seychelles-classrooms) | Advanced |
+| AI | Use of AI in government administration |  | ***No evidence*** |
+| AI | Use of AI in sectoral management information systems |  | ***No evidence*** |
+| AI | Development of national / regional AI systems |  | ***No evidence*** |
+| AI | Control of AI abuse | An [eight-week video-enforcement pilot](https://www.wearetech.africa/fr/fils/actualites/tech/les-seychelles-testent-un-systeme-de-controle-routier-par-video-verbalisation) repurposes the public camera estate for automated offence detection and remote ticketing, with no data-protection basis stated. <details><summary>Full record</summary>The pilot was announced in July 2026 with a foreign technology partner ([pilot](https://www.wearetech.africa/fr/fils/actualites/tech/les-seychelles-testent-un-systeme-de-controle-routier-par-video-verbalisation)).<br><br>No data-protection basis is stated on record. That matters more here than in most units, because the country's data protection Act is fully in force and its regulator has published that it has no clear power to enforce its orders — so the safeguard exists in statute and not in practice.<br><br>Repurposing an existing camera estate for automated enforcement is a change of purpose for data already collected, which is exactly the kind of processing the Act would govern.</details> | Advanced |
+| ICT Industry | National capacity in DT-related production |  | ***No evidence*** |
+| Innovation ecosystem | Technology hubs |  | ***No evidence*** |
+| Innovation ecosystem | Tech startup ecosystem |  | ***No evidence*** |
 
-<!-- narrative: technology -->
-The National AI in Education Framework is the period's single largest new object in this section, entering the record in July 2026 with two pilots already running ahead of it. The Huawei vendor relationship, dating to 2020, has not changed in substance over the window — SMART Education's four pilot schools remain the full extent of its education-sector footprint.
-<!-- /narrative -->
 
 ## Capacity
 
-### Training and skills
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| Topic | Indicator | Developments | Progress |
 |---|---|---|---|
-| AI Student Tutor Programme (World Bank pilot) | Did not exist | [Piloting across four schools](https://statehouse.gov.sc/news/7158/president-herminies-vision-for-artificial-intelligence-takes-root-in-seychelles-classrooms) | Advanced |
-| AI Teacher Coach Programme (World Bank pilot) | Did not exist | [Piloting across six schools; to become integral to the national Framework as implementation proceeds](https://statehouse.gov.sc/news/7158/president-herminies-vision-for-artificial-intelligence-takes-root-in-seychelles-classrooms) | Advanced |
+| Literacy | Digital literacy (civil service) |  | ***No evidence*** |
+| Literacy | Digital literacy (general population) |  | ***No evidence*** |
+| Training and skills | DT-related training in secondary education | Cabinet approved a [National AI in Education Framework 2026-2030](https://statehouse.gov.sc/news/7158/president-herminies-vision-for-artificial-intelligence-takes-root-in-seychelles-classrooms) covering every state school, with a mandatory teacher micro-credential and per-school champions, and two [artificial-intelligence tutoring and coaching pilots](https://statehouse.gov.sc/news/7158/president-herminies-vision-for-artificial-intelligence-takes-root-in-seychelles-classrooms) are running. <details><summary>Full record</summary>The 21-page policy covers every state school, artificial-intelligence literacy across the curriculum, a mandatory micro-credential for teachers, a champion in each school, and a steering committee maintaining approved and prohibited tool lists ([framework](https://statehouse.gov.sc/news/7158/president-herminies-vision-for-artificial-intelligence-takes-root-in-seychelles-classrooms), [cabinet](https://statehouse.gov.sc/cabinet-decisions/7151/cabinet-business-thursday-23rd-july-2026)).<br><br>Implementation timeline, budget, indicators and tool-approval criteria are unestablished, and an automated attempt to acquire the document failed.<br><br>A student tutoring pilot covers secondary mathematics and geography ([tutor](https://statehouse.gov.sc/news/7158/president-herminies-vision-for-artificial-intelligence-takes-root-in-seychelles-classrooms)) and a teacher coaching pilot covers lesson planning and classroom practice for upper primary ([coach](https://statehouse.gov.sc/news/7158/president-herminies-vision-for-artificial-intelligence-takes-root-in-seychelles-classrooms)); neither pilot's start date is given. A steering committee maintaining a prohibited-tools list is a governance design few units in this frame have attempted.</details> | Advanced |
+| Training and skills | DT-related university facilities and qualifications |  | ***No evidence*** |
+| Training and skills | Graduates entering DT ecosystem |  | ***No evidence*** |
+| Research institutions | Think tanks and academic departments contributing to DT policy |  | ***No evidence*** |
 
-<!-- narrative: capacity -->
-
-<!-- /narrative -->
 
 ## Inclusion
 
-### Access to services
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| Topic | Indicator | Developments | Progress |
 |---|---|---|---|
-| Public support for access to government information | Not held | [62% say the public should have access to government information against 25% who say it is for officials only; 84% want district-administration budgets published and 82% want information on bids and contracts, while 47% would publish the salaries of district administrators and teachers](https://www.afrobarometer.org/publication/ad1219-seychellois-endorse-medias-oversight-role-but-many-doubt-that-it-is-truly-free/) | ***Baseline not held*** |
+| Access to services | Citizen feedback portals |  | ***No evidence*** |
+| Access to services | Citizen participation in policy | [Public support for access to government information](https://www.afrobarometer.org/publication/ad1219-seychellois-endorse-medias-oversight-role-but-many-doubt-that-it-is-truly-free/) was measured in a survey round fielded in 2025 and published in August 2026. <details><summary>Full record</summary>It is the only measure of public opinion on information access in this ledger ([support](https://www.afrobarometer.org/publication/ad1219-seychellois-endorse-medias-oversight-role-but-many-doubt-that-it-is-truly-free/)).<br><br>It arrives in the same dispatch as the media-freedom perception measure and the report of the broadcasting amendment, so a single external survey is carrying the whole of this unit's civic-participation record.</details> | Advanced |
+| Access to services | Gender equity |  | ***No evidence*** |
+| Access to services | Inclusion of persons with disabilities |  | ***No evidence*** |
+| Access to services | Inclusion of refugees and IDPs |  | ***No evidence*** |
+| Digital divides | Bridging of digital divides |  | ***No evidence*** |
 
-<!-- narrative: inclusion -->
-Both AI pilot programmes entered the record within the window, alongside the Framework they now feed into. No inclusion-specific instrument predates them; the base's only picture of digital divides over this period runs through the identity, payments and connectivity systems recorded in other sections. What did enter the record at the window's close is a measure of what the public wants from open government: [62% say government information should be publicly accessible, rising to 84% for district-administration budgets and 82% for bids and contracts](https://www.afrobarometer.org/publication/ad1219-seychellois-endorse-medias-oversight-role-but-many-doubt-that-it-is-truly-free/). There is no earlier reading to compare it against.
-<!-- /narrative -->
 
 ## Data
 
-### National statistics
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| Topic | Indicator | Developments | Progress |
 |---|---|---|---|
-| Island states resilience data programme | Did not exist | [National implementation launched of a nine-country African island-states programme backed by a US$4.943 million readiness grant, whose data leg is a standardised approach to institutional readiness, multi-hazard risk assessment and information systems for building pipelines of climate-resilient projects](https://nation.sc/articles/31975/seychelles-advances-climate-resilience) | Advanced |
+| National statistics | National strategy for development of statistics |  | ***No evidence*** |
+| National statistics | Censuses and surveys |  | ***No evidence*** |
+| National statistics | Statistics from administrative data | Cabinet approved measures [operationalising a multidimensional vulnerability index](https://statehouse.gov.sc/cabinet-decisions/7151/cabinet-business-thursday-23rd-july-2026), naming enhanced data and institutional capacity as the instruments, and an [island states resilience data programme](https://nation.sc/articles/31975/seychelles-advances-climate-resilience) launched nationally. <details><summary>Full record</summary>The Cabinet measures name enhanced data and institutional capacity and the alignment of planning and budgeting frameworks as the instruments for operationalising the index ([index](https://statehouse.gov.sc/cabinet-decisions/7151/cabinet-business-thursday-23rd-july-2026)).<br><br>The resilience data programme was launched nationally in August 2026; the grant figure attached to it covers a nine-country programme and the national share is not published ([programme](https://nation.sc/articles/31975/seychelles-advances-climate-resilience), [launch](https://www.uneca.org/eca-events/national-launch-resislands-initiative-republic-seychelles)).<br><br>Both are about building the data on which small-island vulnerability is measured, which for this country is the statistical question with the most policy weight attached to it.</details> | Advanced |
+| Open data | Use of open data |  | ***No evidence*** |
+| Use of satellite data | Agricultural use of satellite data |  | ***No evidence*** |
+| Use of satellite data | Meteorological use of satellite data | Cabinet approved [accession to the United Nations outer space committee](https://statehouse.gov.sc/cabinet-decisions/7151/cabinet-business-thursday-23rd-july-2026), framed as building geospatial capability for maritime security, disaster preparedness and ocean management. <details><summary>Full record</summary>The approval came in July 2026 ([accession](https://statehouse.gov.sc/cabinet-decisions/7151/cabinet-business-thursday-23rd-july-2026)).<br><br>No programme, data source, budget or partner is named. For an ocean state whose exclusive economic zone dwarfs its land area, geospatial capability for maritime security and ocean management is the substantive case, and accession to a committee is the first step rather than the capability.</details> | Advanced |
 
-### Use of satellite data
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| UN COPUOS accession / UNOOSA engagement | Did not exist | [Cabinet approval only; accession process and any programme not yet on record](https://statehouse.gov.sc/cabinet-decisions/7151/cabinet-business-thursday-23rd-july-2026) | Advanced |
-
-<!-- narrative: data -->
-
-<!-- /narrative -->
 
 ## Geopolitics
 
-### China activities
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
+| Topic | Indicator | Developments | Progress |
 |---|---|---|---|
-| Huawei vendor relationship (5G core + SMART Education) | Huawei already CWS's 5G vendor; SMART Education just beginning (2025-08) | [Unchanged — Huawei remains CWS's core vendor; no reported scale-up of SMART Education beyond the four pilot schools](https://www.telecompaper.com/news/cable-and-wireless-seychelles-launches-5g-network-with-huawei--1345434) | No change |
+| US / hyperscaler activities | USA / hyperscaler MoUs, engagements and commitments |  | ***No evidence*** |
+| China activities | Chinese MoUs, engagements and commitments | A [Chinese vendor supplies the incumbent fifth-generation core](https://www.telecompaper.com/news/cable-and-wireless-seychelles-launches-5g-network-with-huawei--1345434) and, with the education ministry, the [smart education programme](https://e.huawei.com/ae/case-studies/industries/commercial-market/2025-seychelles-smart-education-solutions) across four schools. <details><summary>Full record</summary>The vendor supplied the incumbent's fifth-generation launch in 2020 and the school programme in August 2025 ([core](https://www.telecompaper.com/news/cable-and-wireless-seychelles-launches-5g-network-with-huawei--1345434), [schools](https://e.huawei.com/ae/case-studies/industries/commercial-market/2025-seychelles-smart-education-solutions)).<br><br>A second Chinese supplier holds the stalled emergency-communications memorandum with the same incumbent, unmoved in more than seventeen months.<br><br>So Chinese vendors supply the mobile core, a school technology programme and a proposed emergency-communications core, and no procurement terms, security review or exit arrangement is published for any of them.</details> | No change |
+| EU activities | EU MoUs, engagements and commitments |  | ***No evidence*** |
+| Gulf/UAE activities | Gulf MoUs, engagements and commitments |  | ***No evidence*** |
+| India activities | India MoUs, engagements and commitments |  | ***No evidence*** |
 
-<!-- narrative: geopolitics -->
-
-<!-- /narrative -->
 
 ## Where the record is thin
 
@@ -249,6 +212,3 @@ Both AI pilot programmes entered the record within the window, alongside the Fra
 | Gulf-state digital investment in Seychelles | Any Gulf-state investment, financing or memorandum covering Seychellois digital infrastructure. | not yet probed |
 | Domestic-state digital-transformation budget line | A Seychelles government budget document or appropriation line for digital transformation. | not yet probed |
 
-<!-- narrative: gaps -->
-None of the six gaps moved within the window, because none has ever had a position to move from — each remains an absence at both ends of the twelve months compared here. Two are financing questions the base cannot answer without a domestic-budget dataset; the other four are genuine absences, not reading gaps.
-<!-- /narrative -->

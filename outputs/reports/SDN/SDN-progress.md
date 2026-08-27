@@ -1,201 +1,205 @@
 ---
 title: Sudan — progress report, August 2025 – August 2026
-compiled: 2026-08-26
-period: 2025-08-01 to 2026-08-26
+compiled: 2026-08-27
+period: 2025-08-01 to 2026-08-27
 place: SDN
 ledger_rows: 52
 not_held: 13
-record: dc5d61853af2
+indicators: 121
+record: e269199c4620
 ---
 
 # Sudan: progress report, August 2025 – August 2026
 
-*Of 52 systems and instruments on this place's ledger, 21 changed position between 2025-08-01 and 2026-08-26, 5 did not, 13 carry no stated baseline, and 13 are ***Not held*** at both ends.*
+This report asks the same set of questions of every country. The rows below are a fixed frame of indicators, one row each, chosen in advance and covering all thirty-eight subjects the base tracks — so what appears here is decided by the frame and not by whichever records happened to accumulate. Each row says what happened on that indicator during the period, with every claim linked to the source it rests on.
 
-*Shape check, run before the comparison: 76 sources for this place in the window — 8 in the earlier half (2025-08 to 2026-01), 68 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+Where a row reads ***No evidence***, the base holds nothing on that indicator. **That is a statement about this base, not about the country** — it does not mean nothing exists, only that nothing has been collected here yet. The rows that carry evidence say what it is; the rows that do not are left to speak for themselves.
 
-**Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
+*The period is 2025-08-01 to 2026-08-27.*
 
-## Summary of the period
+**Progress values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Mixed* — the indicator's instruments moved in different directions in the period; the clause after the comma names which moved which way. *No change* — the base holds a standing position and nothing in the period touched it. ***No evidence*** — the base holds nothing on this indicator at all. A value may carry a qualifying clause after a comma, as in *Advanced, regulations still pending*.
 
-<!-- narrative: summary -->
-This is the first progress report cut for Sudan, and the shape check finds the comparison badly skewed: only 8 of the window's 50 sources fall in the earlier half (August 2025 to January 2026), against 42 in the later half. The great majority of what reads below as "Advanced" reflects a base that only began recording Sudan in depth from 2026 onward, not a war economy that suddenly accelerated in the second half of the window — treat the pre-2026 baseline for every row as sparse by construction, and read the window as a shorter comparison wearing a twelve-month label.
-
-Seventeen of 45 rows moved, six did not, and 22 carry no baseline or no instrument at all. The clearest genuine movement — rather than first-record artefact — is the war's own infrastructure: the Khartoum State data centre went from an undated non-operational state to restored and running, and the Al-Asjad payment-switch licence went from newly granted to revoked within the window itself.
-<!-- /narrative -->
 
 ## Governance
 
-### Strategies, plans and policies
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
+| Topic | Indicator | Developments | Progress |
 |---|---|---|---|
-| Digital Transformation Authority | Did not exist | [Established; institutional scaffolding predates any of the platform-level claims that follow it; e-government development index 0.2759 (2024, below the 0.4247 African average) cited alongside](https://www.ecofinagency.com/news-digital/0711-50229-sudan-establishes-three-digital-authorities-to-advance-e-govt) | Advanced |
+| Strategies, plans and policies | Digital transformation strategy | A [Digital Transformation Authority](https://www.ecofinagency.com/news-digital/0711-50229-sudan-establishes-three-digital-authorities-to-advance-e-govt) was established by prime-ministerial decree alongside data, artificial-intelligence and cybersecurity authorities, and no account connects the decree to the platform claims that follow it. <details><summary>Full record</summary>Three authorities were created at once by decree: digital transformation, data and artificial intelligence, and cybersecurity ([decree](https://www.ecofinagency.com/news-digital/0711-50229-sudan-establishes-three-digital-authorities-to-advance-e-govt), [roundup](https://digitalpolicyalert.org/blog/data-protection-in-africa-roundup)).<br><br>No account held connects the institutional decree to the platform launches recorded through 2026 — the national platform, the identity credential, the payment switch — so which authority owns which system, and under what powers, is not established anywhere in this base.<br><br>That gap runs through the whole unit: institutions are announced by decree, systems are announced by ministry, and nothing published links the two.</details> | Advanced |
+| Strategies, plans and policies | ICT strategy |  | ***No evidence*** |
+| Strategies, plans and policies | Broadband strategy |  | ***No evidence*** |
+| Strategies, plans and policies | Data storage / cloud strategy |  | ***No evidence*** |
+| Strategies, plans and policies | Data interoperability framework / roadmap |  | ***No evidence*** |
+| Strategies, plans and policies | AI strategy | A [Data and Artificial Intelligence Authority](https://www.ecofinagency.com/news-digital/0711-50229-sudan-establishes-three-digital-authorities-to-advance-e-govt) was established by decree ahead of any primary data-protection law, and no strategy, sandbox or guidance note is held. <details><summary>Full record</summary>The authority was created by the same decree as the other two, and it was created before the country had a data-protection statute ([authority](https://www.ecofinagency.com/news-digital/0711-50229-sudan-establishes-three-digital-authorities-to-advance-e-govt)).<br><br>No artificial-intelligence strategy document, regulatory sandbox or guidance note is held for the country, unlike several other African states the same roundup records ([roundup](https://digitalpolicyalert.org/blog/data-protection-in-africa-roundup)).<br><br>A regulator standing up before the law it would enforce is a sequencing choice, and the draft that would supply the law is recorded separately as still in redrafting.</details> | Advanced |
+| Strategies, plans and policies | Data localisation policies |  | ***No evidence*** |
+| Strategies, plans and policies | Data governance policy |  | ***No evidence*** |
+| Strategies, plans and policies | Open data policy |  | ***No evidence*** |
+| Legislation and regulation | Data protection legislation | A [draft Data and Artificial Intelligence Law](https://sudantribune.net/article/317108) is in redrafting with the digital transformation ministry, legislating data protection and artificial intelligence in one instrument. <details><summary>Full record</summary>The draft went to the Council of Ministers with two others and was reported back in redrafting in August 2026 ([draft](https://sudantribune.net/article/317108), [redrafting](https://www.sudanindependent.com/news/politics/2026/08/11/%D8%A7%D9%84%D8%B9%D8%AF%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86%D9%8A%D8%A9-%D8%B9%D9%84%D9%89-%D8%A3%D8%B9%D8%AA%D8%A7%D8%A8-%D9%85%D8%B1)).<br><br>Legislating data protection and artificial intelligence in a single instrument is a design few African states have attempted. Neither text is published, so what it would provide on lawful basis, consent, transfer or supervision cannot be stated.<br><br>The authority that would enforce it already exists, created by decree ahead of the statute.</details> | Advanced |
+| Legislation and regulation | Cybersecurity legislation | A [draft Cybersecurity Law](https://sudantribune.net/article/317108) is in redrafting, and its relationship to the cybercrime provisions the country described to a regional experts' meeting is not established. <details><summary>Full record</summary>The draft is the second of the three-instrument package and was reported in redrafting in August 2026 ([draft](https://sudantribune.net/article/317108), [redrafting](https://www.sudanindependent.com/news/politics/2026/08/11/%D8%A7%D9%84%D8%B9%D8%AF%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86%D9%8A%D8%A9-%D8%B9%D9%84%D9%89-%D8%A3%D8%B9%D8%AA%D8%A7%D8%A8-%D9%85%D8%B1)).<br><br>Its relationship to the cybercrime provisions the country separately described to an Arab experts' meeting in July 2026 is not established ([meeting](https://www.suna.sd/posts/okyl-ozar-alaadl-ykod-ofd-alsodan-almshark-fy-alagtmaaa-altasaa-lfryk-alkhbraaa-alaarb-almaany-bmoagh-graym-tkny-almaalomat)).<br><br>That matters because the cybercrime statute in force is being used against speech, and whether the new draft replaces, amends or sits alongside it is exactly what no source says.</details> | Advanced |
+| Legislation and regulation | Legislation covering digital id |  | ***No evidence*** |
+| Legislation and regulation | Digital payments legislation |  | ***No evidence*** |
+| Legislation and regulation | Legislation enabling data interoperability | A [draft Digital Transformation Law of 2026](https://sudantribune.net/article/317108) is in redrafting with the ministry, the third of a three-instrument package. <details><summary>Full record</summary>It went to the Council of Ministers alongside the cybersecurity and data drafts and was reported in redrafting in August 2026 ([draft](https://sudantribune.net/article/317108), [ministry](https://www.sudanindependent.com/news/politics/2026/08/11/%D8%A7%D9%84%D8%B9%D8%AF%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86%D9%8A%D8%A9-%D8%B9%D9%84%D9%89-%D8%A3%D8%B9%D8%AA%D8%A7%D8%A8-%D9%85%D8%B1)).<br><br>None of the three texts is published. The platforms the law would presumably govern — the national services platform, the identity credential, the civil-service records system — are already live, so the statute follows the systems rather than authorising them.</details> | Advanced |
+| Legislation and regulation | AI legislation / regulations |  | ***No evidence*** |
+| Legislation and regulation | E-commerce legislation | A ministerial meeting resolved to [review state-level border-trade protocols](https://sudantribune.net/article/317080) and replace them with a single national legal framework, with revenue protection the stated driver. <details><summary>Full record</summary>The meeting was chaired by the finance minister and resolved to refer the state-to-neighbouring-country protocols to the Council of Ministers, to build one national framework in their place ([meeting](https://sudantribune.net/article/317080)).<br><br>It was paired with the adoption of the national platform as the sole channel for foreign-trade transactions, and the stated driver is revenue protection rather than service delivery.<br><br>No draft, timetable or list of the protocols under review is published.</details> | Advanced |
+| Legislation and regulation | Statistics legislation |  | ***No evidence*** |
+| Legislation and regulation | Access to information legislation |  | ***No evidence*** |
+| Data protection | Data protection authority |  | ***No evidence*** |
+| Data protection | National data protection readiness | A [central bank directive](https://sudanhorizon.com/cbos-orders-suspension-of-bank-accounts-failing-to-update-customer-data-by-september-30/) suspends bank accounts whose customer data is not updated, its deadline [extended to end-2026](https://www.fananews.com/language/en/central-bank-of-sudan-extends-deadline-for-bank-clients-to-update-their-data-until-year-end/), with no exception for displaced customers without documents. <details><summary>Full record</summary>The directive requires customer data to be updated on pain of account suspension, and the deadline was extended to the end of 2026 ([directive](https://sudanhorizon.com/cbos-orders-suspension-of-bank-accounts-failing-to-update-customer-data-by-september-30/), [extension](https://www.fananews.com/language/en/central-bank-of-sudan-extends-deadline-for-bank-clients-to-update-their-data-until-year-end/)).<br><br>The directive text is not held. No count of accounts affected, no exception for displaced customers without documents and no appeal route is stated anywhere ([flexibility](https://sudanhorizon.com/bankers-customer-data-updates-essential-but-flexibility-needed-for-financial-inclusion/)).<br><br>In a country where displacement is mass, a rule that conditions keeping a bank account on producing identity documents is an exclusion instrument whether or not it is meant as one, and nothing published measures who it excludes. The country has no data-protection statute in force under which a customer could contest the processing.</details> | Regressed |
+| Regional collaboration | Regional policy collaboration |  | ***No evidence*** |
+| Regional collaboration | Regional legal harmonisation |  | ***No evidence*** |
+| Regional collaboration | Shared regional infrastructure |  | ***No evidence*** |
+| Regional collaboration | Cross-border data transfers |  | ***No evidence*** |
+| Standards | National interoperability standards |  | ***No evidence*** |
+| Standards | National quality standards |  | ***No evidence*** |
+| Standards | Adoption of international standards |  | ***No evidence*** |
+| Public debate and participation in policymaking | Non-governmental contribution to national policy |  | ***No evidence*** |
+| Public debate and participation in policymaking | Open discussion of government policy | A [six-year sentence over a private phone conversation](https://thesudantimes.com/sudan/sudan-court-jails-pharmacist-for-six-years-over-anti-war-message/) was reported in August 2026, one of a series of [cybercrime prosecutions for speech](https://thesudantimes.com/sudan/sudanese-army-accused-of-using-courts-to-silence-anti-war-voices/). <details><summary>Full record</summary>A pharmacist was jailed for six years over a private phone conversation ([sentence](https://thesudantimes.com/sudan/sudan-court-jails-pharmacist-for-six-years-over-anti-war-message/)), inside a pattern of anti-war prosecutions under the cybercrime statute ([prosecutions](https://thesudantimes.com/sudan/sudanese-army-accused-of-using-courts-to-silence-anti-war-voices/)), and a journalist was detained under the same Act ([detention](https://theweeklyvisionews.net/2026/08/17/journalist-detained-in-sudan-following-cybercrime-complaint-by-intelligence-officer-syndicate-says/)).<br><br>The two accounts date the statute differently, to 2007 and to 2008, and neither the judgment nor the charging instrument is held. So the law being used is one whose year the sources disagree on and whose text this base does not hold.<br><br>The draft cybersecurity law now in redrafting does not state whether it touches these provisions.</details> | Regressed |
 
-### Legislation and regulation
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
-|---|---|---|---|
-| Cybercrime law prosecutions for speech | No prosecution series held | [A pharmacist sentenced to six years over a private phone conversation opposing the war, convicted under the 1991 criminal code and the cybercrime law after intelligence officers searched his phone, and a journalist detained on a cybercrime complaint filed by an intelligence officer and held without questioning](https://thesudantimes.com/sudan/sudanese-army-accused-of-using-courts-to-silence-anti-war-voices/) | Regressed |
-| Border-trade legal framework (state-level protocols) | ***Baseline not held*** | [Resolution passed to review and unify state-level agreements; no transition arrangement, timetable or affected-protocol list given](https://sudantribune.net/article/317080) | ***Baseline not held*** |
-| Draft Digital Transformation Law of 2026 | ***Baseline not held*** | [No text published. The justice ministry states it is preparing the instrument in coordination with the digital transformation and communications ministry, as the Digital Transformation Regulation Law of 2026](https://sudantribune.net/article/317108) | ***Baseline not held*** |
-
-### Data protection
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
-|---|---|---|---|
-| Bank customer data-update directive | Banks ordered on 2026-08-12 to suspend and freeze customer accounts not updated by 30 September 2026, under anti-money-laundering and counter-terrorist-financing data-verification and transaction-monitoring requirements | [The deadline extended to the end of 2026, with the national digital identity system's rollout named as the route by which customers are to update their data; bankers back the directive as necessary for the banking system's soundness while warning that freezing non-compliant accounts risks financial exclusion amid war-driven displacement and lost documentation](https://www.fananews.com/language/en/central-bank-of-sudan-extends-deadline-for-bank-clients-to-update-their-data-until-year-end/) | Advanced |
-| Draft Data and Artificial Intelligence Law | ***Baseline not held*** | [No statute in force and no published text. The justice ministry states it is preparing the instrument in coordination with the digital transformation and communications ministry, as the Data and Artificial Intelligence Regulation Law of 2026](https://sudantribune.net/article/317108) | ***Baseline not held*** |
-
-<!-- narrative: governance -->
-The Digital Transformation Authority was already established by the 2025-08 baseline, one of three institutions created by decree in November 2025, and has not changed position since — no source connects it to the platform-level developments that followed. The three draft laws (cybersecurity, data and AI, digital transformation) and the border-trade legal-framework review all entered the record within the window and carry no baseline, since none existed before the window opened; all four remain under review with no published text or further legislative step. The three-law package's own sequencing — institutions created in November 2025, statutes still in committee nine months later — is itself the window's clearest governance finding: Sudan built the regulatory machinery before writing the law it is meant to enforce, and [an external roundup notes this](https://digitalpolicyalert.org/blog/data-protection-in-africa-roundup) against at least 44 other African Union states that already had data-protection law in force by the same date.
-<!-- /narrative -->
 
 ## Finance
 
-### Domestic budget appropriations and expenditure
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
+| Topic | Indicator | Developments | Progress |
 |---|---|---|---|
-| Treasury Single Account (TSA) implementation | ***Baseline not held*** | [Commitment reaffirmed; no target date, phase or coverage given](https://sudantribune.net/article/316950) | ***Baseline not held*** |
+| Domestic budget appropriations and expenditure | Sustainable domestic financing of digital transformation | A [Treasury Single Account](https://sudantribune.net/article/316950) commitment was reaffirmed at a summit in August 2026, and an [electronic oversight system for public bodies](https://sudanhorizon.com/finance-ministry-package-of-reform-policies-without-imposing-new-burdens/) was announced with no scope or timetable. <details><summary>Full record</summary>The state minister of finance reaffirmed the commitment to implementing the treasury single account at a summit in Abuja, with no timetable, coverage or implementation stage stated ([commitment](https://sudantribune.net/article/316950)).<br><br>An electronic oversight system for public bodies and government companies was announced as forthcoming, with no scope, custodian, timetable or stated relationship to the treasury single account or the procurement platform ([oversight](https://sudanhorizon.com/finance-ministry-package-of-reform-policies-without-imposing-new-burdens/)).<br><br>Three public financial management systems are therefore in flight — an account, an oversight system and a procurement platform — and no source relates any of them to the others.</details> | Advanced |
+| MoUs and other agreements | Strategic relationships |  | ***No evidence*** |
+| New investments | Mobilisation of non-state finance | [Online trading launched on the stock exchange](https://www.africaglobalfunds.com/news/funds/markets-and-industry-news/sudan-launches-etrading-system-with-afdb-support/) in 2016 under a donor-financed programme and has not been refreshed since, and a [digital agricultural platform](https://sudanhorizon.com/agricultural-bank-announces-start-of-second-phase-financing-procedures-for-farming-season-by-end-of-month/) is described as imminent. <details><summary>Full record</summary>The exchange's online trading system launched in March 2016, financed at a reported US$34.8m under a public financial management project ([trading](https://www.africaglobalfunds.com/news/funds/markets-and-industry-news/sudan-launches-etrading-system-with-afdb-support/)). A decade later the 2026 finance-ministry directives restate the same payroll, electronic invoicing and electronic procurement list without referencing it ([trading](https://www.africaglobalfunds.com/news/funds/markets-and-industry-news/sudan-launches-etrading-system-with-afdb-support/)).<br><br>That is worth stating plainly: the reform list being announced in 2026 is substantially the one that was already financed in 2016, and nothing on file records what happened to the first attempt.<br><br>The agricultural bank's digital financing platform is described as imminent, and no launch date, function, farmer register or data-protection basis is stated ([platform](https://sudanhorizon.com/agricultural-bank-announces-start-of-second-phase-financing-procedures-for-farming-season-by-end-of-month/)).</details> | No change |
+| New investments | Development-partner project financing |  | ***No evidence*** |
 
-### New investments
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
-|---|---|---|---|
-| Khartoum Stock Exchange online-trading system (AfDB PFM project) | ***Baseline not held*** | [Launched 2016-03-24; no later report on file updates it](https://www.africaglobalfunds.com/news/funds/markets-and-industry-news/sudan-launches-etrading-system-with-afdb-support/) | No change |
-
-<!-- narrative: finance -->
-The Khartoum Stock Exchange's AfDB-financed e-trading system, launched 2016, predates the window entirely and has not moved. The Treasury Single Account commitment carries no baseline — it was only reaffirmed within the window, at the African Summit for Social Impact on 2 August 2026, with no target date, phase or coverage given either then or since.
-<!-- /narrative -->
 
 ## ICT Infrastructure
 
-### Connectivity
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
+| Topic | Indicator | Developments | Progress |
 |---|---|---|---|
-| Horizon Fiber Initiative (Djibouti-Ethiopia-Sudan corridor) | Memorandum of understanding only (Dec 2024) | [Binding tripartite agreement; ~2,800km corridor, 144 fibre pairs, ~14ms target latency, linking Djibouti subsea landings via Ethiopia to Port Sudan, interconnecting with the existing Port Sudan-Jeddah cable](https://techafricanews.com/2026/02/04/ethio-telecom-djibouti-telecom-and-sudatel-seal-horizon-fiber-cross-border-connectivity-deal/) | Advanced |
-| Starlink satellite internet — regulatory status | Unlicensed since SAF/TPRA import ban (Dec 2023); widely used via smuggled terminals; both SAF and RSF renting/confiscating regionally | [Status contested and informal, with a new instance of localised enforcement: an armed group ordered every public market in a West Kordofan locality closed and satellite internet services cut off indefinitely from 26 August 2026, in a decision reported on 25 August 2026 by a local emergency room, which warned that severing satellite connectivity would cut displaced families off from relatives and from incoming remittances in a locality already under deteriorating security and living conditions; the order coincided with reinforcements arriving from Darfur](https://sudantribune.net/article/317878) | Regressed |
-| 4G tower expansion programme | ***Baseline not held*** | [60 towers built; 200 more planned for 2026](https://spokesperson-sd.com/ar/archives/38364) | ***Baseline not held*** |
+| Connectivity | Mobile penetration | The ministry reports [60 fourth-generation towers built with 200 more planned](https://spokesperson-sd.com/ar/archives/38364) during 2026, and no later source confirms progress against the target. <details><summary>Full record</summary>The tower count and the 2026 target come from the digital ministry's own account, and no later source confirms progress against it ([towers](https://spokesperson-sd.com/ar/archives/38364)).<br><br>The digital-transformation minister separately praised the two operators for keeping services running through the war; that is ministerial praise rather than an independent operational assessment, and no coverage, outage or availability figure accompanies it ([operators](https://www.suna.sd/posts/ozyr-alatsalat-oalthol-alrkmy-yshyd-baldor-almhory-lshrk-sodany-fy-daam-msyr-althol-alrkmy)).<br><br>Every connectivity figure in this unit is the government's or an operator's own, and none is measured by a regulator.</details> | Advanced |
+| Connectivity | Internet usage |  | ***No evidence*** |
+| Connectivity | Mobile affordability |  | ***No evidence*** |
+| Connectivity | National fibre backbone |  | ***No evidence*** |
+| Connectivity | International internet bandwidth | A [tripartite binding agreement](https://www.connectingafrica.com/partnerships/east-african-telcos-ink-cross-border-fiber-network-deal) was signed in February 2026 converting a 2024 memorandum into a three-country fibre corridor, and no source states a build or completion date. <details><summary>Full record</summary>The agreement was signed in Djibouti between the three states' operators, converting the December 2024 memorandum into a binding instrument ([agreement](https://www.connectingafrica.com/partnerships/east-african-telcos-ink-cross-border-fiber-network-deal), [deal](https://techafricanews.com/2026/02/04/ethio-telecom-djibouti-telecom-and-sudatel-seal-horizon-fiber-cross-border-connectivity-deal/), [corridor](https://itweb.africa/article/east-african-telcos-seal-cross-border-fibre-corridor-deal/xA9PO7NE16Yvo4J8)).<br><br>No physical build or completion date is stated in any source held ([review](https://www.telecomreviewafrica.com/articles/reports-and-coverage/28249-ethio-telecom-djibouti-telecom-sudatel-seal-binding-deal-on-cross-border-fiber-network/), [operators](https://www.lanation.dj/djibouti-telecom-ethio-telecomet-sudatel-telecom-group-signent-un-accord-strategique-pour-linitiative-horizon-fiber/)).<br><br>For a country whose international capacity runs through neighbours, the corridor is the single most consequential infrastructure commitment in this ledger, and it is dated only by its signature.</details> | Advanced |
+| Connectivity | Internet Exchange Points |  | ***No evidence*** |
+| Connectivity | Satellite broadband licensing and availability | [Satellite service was never officially licensed](https://www.france24.com/en/live-news/20240403-smuggled-starlink-dishes-throw-lifeline-to-some-in-war-torn-sudan) and has run informally through smuggled terminals, and an [armed group ordered services cut](https://sudantribune.net/article/317878) at a locality from 26 August 2026. <details><summary>Full record</summary>The service has never been officially licensed on any source held, reaching the country through smuggled dishes described as a lifeline ([terminals](https://www.france24.com/en/live-news/20240403-smuggled-starlink-dishes-throw-lifeline-to-some-in-war-torn-sudan), [lifeline](https://globalvoices.org/2024/08/20/starlink-in-sudan-a-lifeline-or-war-facilitator/)).<br><br>An armed group ordered services cut at a West Kordofan locality from 26 August 2026 ([cut](https://sudantribune.net/article/317878)), having banned the service at the same place in December 2025 ([ban](https://www.darfur24.com/en/2025/12/12/rsf-bans-satellite-internet-use-in-al-nuhud-confiscates-starlink-devices/)).<br><br>Connectivity in the conflict areas is therefore governed by whoever holds the ground rather than by the regulator, and the same terminals are described in the record as both a lifeline and a war facilitator ([conflict](https://timep.org/2024/09/19/internet-in-conflict-sudans-battle-for-connection/)).</details> | Regressed |
+| Data Storage | Local data centre capacity (all providers) | A [1,300 square metre state data centre](https://maasader.com/إستعادة-وتشغيل-مركز-بيانات-الدولة-في-الخرطوم) was restored and made operational after war damage, and an [alternate national data centre](https://spokesperson-sd.com/ar/archives/38364) is announced with no construction start date. <details><summary>Full record</summary>The restored facility is equipped for cloud computing, data security and artificial-intelligence application hosting, and is distinct from an operator's separately reported facility in the same city, a claim not corroborated in this pass ([restoration](https://maasader.com/إستعادة-وتشغيل-مركز-بيانات-الدولة-في-الخرطوم)).<br><br>An alternate national data centre at the wartime seat of government is announced as one of the ministry's future projects with no construction start date ([alternate](https://spokesperson-sd.com/ar/archives/38364)).<br><br>No capacity, load, tenancy or ownership figure is published for either.</details> | Advanced |
+| Data Storage | Local data centre capacity (national providers) |  | ***No evidence*** |
+| Data Storage | Off-site backup capacity | The [vehicle register survived the war](https://sudantribune.net/article/316412) on backup data centres built inside the states and abroad, restored at 2,124,750 vehicles and 3,161,599 driving licences. <details><summary>Full record</summary>The traffic police register was restored with 2,124,750 registered vehicles and 3,161,599 driving licences, and the offsite and in-state backups are credited with its survival ([register](https://sudantribune.net/article/316412)).<br><br>It is the only evidence in this unit that any government system was designed to survive the loss of its primary site, and it is the only registry the base can say came through intact. No comparable arrangement is recorded for the identity credential, the civil-service records system or the national platform.</details> | Advanced |
+| Energy | Sufficient energy and water for data centres |  | ***No evidence*** |
+| Energy | Grid reliability |  | ***No evidence*** |
+| Energy | Rural electrification |  | ***No evidence*** |
+| Technical Capacity | Robustness of government hardware and software | A [national civil-service human-resources platform](https://www.sudanindependent.com/news/politics/2026/08/06/%D8%A8%D9%8A%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D8%A7%D9%84%D8%AE%D8%AF%D9%85%D8%A9-%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A%D8%A9-%D8%AA%D9%85%D8%B2%D9%82-%D8%A7%D9%84%D9%85%D9%84%D9%81%D8%A7%D8%AA-%D8%A7%D9%84%D9%88%D8%B1%D9%82%D9%8A%D8%A9--) was launched holding every public employee's record, with no data-protection arrangement disclosed. <details><summary>Full record</summary>The platform was launched as an integrated national database of every public employee's record, held by the civil service authority and replacing paper files ([platform](https://www.sudanindependent.com/news/politics/2026/08/06/%D8%A8%D9%8A%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D8%A7%D9%84%D8%AE%D8%AF%D9%85%D8%A9-%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A%D8%A9-%D8%AA%D9%85%D8%B2%D9%82-%D8%A7%D9%84%D9%85%D9%84%D9%81%D8%A7%D8%AA-%D8%A7%D9%84%D9%88%D8%B1%D9%82%D9%8A%D8%A9--), [minister](https://www.sudanakhbar.com/1822457)).<br><br>No data-protection arrangement is disclosed for a national personnel database stood up during an active war, and the country has no data-protection statute in force.<br><br>Nothing states where it is hosted or whether it carries the offsite backup arrangement that saved the vehicle register.</details> | Advanced |
+| Technical Capacity | Local capacity to maintain, manage and develop government systems |  | ***No evidence*** |
+| Cybersecurity | National cybersecurity readiness | A [Cybersecurity Authority](https://www.ecofinagency.com/news-digital/0711-50229-sudan-establishes-three-digital-authorities-to-advance-e-govt) was established by decree, cited alongside a fourth-tier international cybersecurity score of 48.17 out of 100. <details><summary>Full record</summary>The authority was created by the same prime-ministerial decree as the digital transformation and data authorities, and the tier-four score was cited alongside its creation ([authority](https://www.ecofinagency.com/news-digital/0711-50229-sudan-establishes-three-digital-authorities-to-advance-e-govt)).<br><br>The country sent experts to a regional cybercrime meeting in July 2026 ([meeting](https://www.suna.sd/posts/okyl-ozar-alaadl-ykod-ofd-alsodan-almshark-fy-alagtmaaa-altasaa-lfryk-alkhbraaa-alaarb-almaany-bmoagh-graym-tkny-almaalomat)). No incident-response team, caseload, budget or enforcement power is published for the authority, and the statute that would give it powers is still in redrafting.</details> | Advanced |
 
-### Data Storage
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
-|---|---|---|---|
-| Khartoum State data centre (1,300 m2) | Non-operational (date it went down not established) | [Restored and operating, qualified to host government systems centrally](https://maasader.com/إستعادة-وتشغيل-مركز-بيانات-الدولة-في-الخرطوم) | Advanced |
-| Port Sudan alternate National Data Centre | Did not exist | [Announced as planned; not built as of 2026-07-20](https://spokesperson-sd.com/ar/archives/38364) | Advanced |
-
-### Cybersecurity
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
-|---|---|---|---|
-| Sudanese Cybersecurity Authority | Did not exist | [Established; reports strict licensing standards and graduated sanctions to a Tunis Arab-experts forum](https://www.ecofinagency.com/news-digital/0711-50229-sudan-establishes-three-digital-authorities-to-advance-e-govt) | Advanced |
-| Draft Cybersecurity Law | ***Baseline not held*** | [No text published. After the Council of Ministers sent it back, the justice ministry states it is preparing the instrument in coordination with the digital transformation and communications ministry, as the Cybersecurity Regulation Law of 2026](https://sudantribune.net/article/317108) | ***Baseline not held*** |
-
-<!-- narrative: ict-infrastructure -->
-The Khartoum State data centre moved from an undated non-operational, war-damaged state to restored and running by October 2025, now qualified to host government systems centrally. Horizon Fiber converted from a December 2024 MoU to a binding tripartite agreement in February 2026, the corridor's clearest structural advance in the window. Starlink's status has not changed in substance — still unlicensed since the December 2023 import ban — though RSF's confiscation campaign in Al-Nuhud in late 2025 is a new instance of the same contested-informal pattern the base already held. The Sudanese Cybersecurity Authority and the draft Cybersecurity Law both entered the record within the window, the Authority as an established institution and the draft law still with the Council of Ministers.
-<!-- /narrative -->
 
 ## DPI
 
-### Data Exchange
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
+| Topic | Indicator | Developments | Progress |
 |---|---|---|---|
-| Electronic single window (National Investment Authority) | Did not exist | [Precondition-stage; authority is also still building its first website](https://sudanhorizon.com/the-national-investment-authority-in-the-process-of-electronic-single-window/) | Advanced |
-| ASYCUDA customs system (Gezira/Hantoub) | ***Baseline not held*** | [Reactivated at Hantoub only](https://www.suna.sd/posts/aaaad-tshghyl-ntham-alasykoda-balhthyr-algmrky-bgmark-olay-algzyr-astaadada-lantlak-alaaml-algmrky) | No change |
-| Central bank electronic application system | Not held | [The national economic management committee, chaired by the Prime Minister, directed the finance ministry and the central bank to expedite completion of the bank's electronic application system in coordination with the digital transformation ministry, to strengthen oversight of financial transactions](https://sudanhorizon.com/national-economic-management-committee-urges-finance-ministry-to-expedite-electronic-system-completion/) | ***Baseline not held*** |
-| National digital agricultural platform | Not held | [Developed by the agricultural bank with the agriculture and digital transformation ministries and described as expected to launch soon, alongside second-phase season financing opening by end-August 2026 and a grain-silo storage agreement signed with a Chinese company](https://sudanhorizon.com/agricultural-bank-announces-start-of-second-phase-financing-procedures-for-farming-season-by-end-of-month/) | ***Baseline not held*** |
+| Data Exchange | National data exchange system | An [electronic single window](https://sudanhorizon.com/the-national-investment-authority-in-the-process-of-electronic-single-window/) will operate only once all investment-related entities are linked electronically, with no list, sequence or date given, and a [central bank electronic application system](https://sudanhorizon.com/national-economic-management-committee-urges-finance-ministry-to-expedite-electronic-system-completion/) was directed to completion. <details><summary>Full record</summary>The investment authority states the window will operate electronically only once every investment-related entity is linked, and gives no list, sequence or date. A single window is an interoperability commitment rather than a portal, and the source does not reconcile the two claims ([window](https://sudanhorizon.com/the-national-investment-authority-in-the-process-of-electronic-single-window/)).<br><br>The national economic management committee directed completion of a central bank electronic application system in August 2026, and no description of the system, its scope, its data or its completion date is given beyond the direction to finish it ([system](https://sudanhorizon.com/national-economic-management-committee-urges-finance-ministry-to-expedite-electronic-system-completion/)).<br><br>There is no national data exchange, and both instruments that would need one state the dependency without naming what would satisfy it.</details> | Advanced |
+| Data Exchange | Use of digital id in other systems |  | ***No evidence*** |
+| Data Exchange | Interoperability of health systems |  | ***No evidence*** |
+| Data Exchange | Interoperability of education systems |  | ***No evidence*** |
+| Data Exchange | Interoperability of social protection systems |  | ***No evidence*** |
+| Digital Identity and CRVS | Robustness of system | [The national digital identity](https://www.suna.sd/posts/alsodan-ytlk-alhoy-alrkmy-alotny-sodabasltaazyz-althk-oalthol-alrkmy) has begun banking-sector linkage, and no enrolment count is held while [bank accounts are conditioned on it](https://www.biometricupdate.com/202608/sudan-integrates-sudapass-digital-id-with-banking-sector-for-ekyc). <details><summary>Full record</summary>The credential launched in May 2025 and banking-sector linkage began in August 2026, its scope publicly bounded at the same time ([launch](https://www.suna.sd/posts/alsodan-ytlk-alhoy-alrkmy-alotny-sodabasltaazyz-althk-oalthol-alrkmy), [linkage](https://sudantribune.net/article/317788), [bank data](https://sudantribune.net/article/317638)).<br><br>Tying bank-account continuity to a credential whose coverage is unmeasured is the exclusion risk the base recorded before launch ([trust](https://www.weforum.org/stories/emerging-technologies/digital-identity-platform-sudan-recovery/), [recovery](https://www.biometricupdate.com/202602/sudans-planned-national-digital-id-could-strengthen-recovery-push-experts)). The electronic know-your-customer route announced by the ministry and the central bank in August 2026 is that risk being realised rather than answered: it makes the credential the condition of keeping an account current, in a country where displacement is mass and the coverage figure is still unpublished ([eKYC](https://www.biometricupdate.com/202608/sudan-integrates-sudapass-digital-id-with-banking-sector-for-ekyc)).<br><br>It has also been integrated with the trade registry ([registry](https://allafrica.com/stories/202608210135.html)). No enrolment count is held at any date.</details> | Mixed, a national credential launched and tied to bank-account continuity while its coverage is unpublished in a country of mass displacement |
+| Digital Identity and CRVS | Registration of entire population |  | ***No evidence*** |
+| Digital Identity and CRVS | National maintenance of id and credentials systems |  | ***No evidence*** |
+| Digital Identity and CRVS | Authentication |  | ***No evidence*** |
+| Digital Identity and CRVS | Digital id from birth |  | ***No evidence*** |
+| Digital Identity and CRVS | Interoperability of birth registration and digital id |  | ***No evidence*** |
+| Digital Identity and CRVS | Use by other systems |  | ***No evidence*** |
+| Digital Payments and Fintech | Governance role of central bank | The [national payment switch](https://www.suna.sd/posts/albnk-almrkzy-ydshn-khdmat-almhol-alkomy) launched with one bank connected, and a [rival payment-switch licence was revoked](https://sudantribune.net/article/315827) days after that platform's launch with no breach disclosed. <details><summary>Full record</summary>The switch went live connecting one bank as its first and only participant, with the first cash-machine withdrawal completed over it; the central bank's own framing is restoration rather than a greenfield rail ([switch](https://www.suna.sd/posts/albnk-almrkzy-ydshn-khdmat-almhol-alkomy), [tender](https://cbos.gov.sd/en/content/tender-announcement-national-instant-payment-system-project-nips)).<br><br>A separate payment-switch licence was revoked days after the platform launched, with no specific breach disclosed; a Gulf linkage was reported by domestic outlets and not confirmed by the central bank ([revocation](https://sudantribune.net/article/315827)).<br><br>A regulator that licenses and then revokes without stating a reason, and simultaneously operates the competing rail, is a market-structure fact the record states without explaining.</details> | Mixed, a national payment switch launched with one participant while a rival switch licence was revoked days after launch |
+| Digital Payments and Fintech | G2P functionality |  | ***No evidence*** |
+| Digital Payments and Fintech | Revenue collection | An [electronic government-collection system](https://sudanhorizon.com/finance-ministry-package-of-reform-policies-without-imposing-new-burdens/) is named among the reforms behind a stated rise in first-half 2026 revenue, and the ministry states no figure, baseline or attribution method behind the claim. <details><summary>Full record</summary>The system is contracted through a national bank ([contract](https://www.suna.sd/posts/shrak-byn-almaly-obnk-alaamal-alotny-ltkdym-khdm-aysaly)) and has been transferred between states ([transfer](https://www.suna.sd/posts/taazyza-lltaaaon-almaly-mdyr-aaam-maly-alkdarf-ystkbl-ofd-olay-ksla-lbhth-alyat-althsyl-alalktrony-201)), with one state's collection rate praised by the minister ([praise](https://www.suna.sd/posts/ozyr-almaly-yshyd-bghod-olay-alnyl-alabyd-fy-ttbyk-althsyl-alaalktrony-odaam-altnmy-alzraaay)).<br><br>That state's figure of more than 90 per cent is the state's own and unverified, and the ministry states no revenue figure, baseline or attribution method behind the claimed rise ([reforms](https://sudanhorizon.com/finance-ministry-package-of-reform-policies-without-imposing-new-burdens/), [directives](https://www.suna.sd/posts/finance-minister-issues-directives-to-modernize-ministry-performance)).<br><br>A collection system spreading state by state is the most concrete delivery in this unit; the revenue claim attached to it is not testable from anything published.</details> | Advanced |
+| Digital Payments and Fintech | B2B and B2G functionality |  | ***No evidence*** |
+| Digital Payments and Fintech | P2P, P2G and P2B functionality |  | ***No evidence*** |
+| Digital Payments and Fintech | Population uptake | One bank's [mobile money application is the dominant retail rail](https://www.aljazeera.net/ebusiness/2026/7/31/banking-apps-currency-sudan), driven by cash scarcity rather than technology uptake, and [short-code banking](https://techafricanews.com/2026/03/18/sudan-launches-ussd-banking-services-to-expand-digital-financial-access/) was launched to reach users without internet. <details><summary>Full record</summary>The dominant application carries retail settlement in the capital's markets because cash is scarce and the currency has collapsed, not because of technology uptake; a war-economy analysis finds its volumes now a monetary mass outside central-bank supervision ([dominance](https://www.aljazeera.net/ebusiness/2026/7/31/banking-apps-currency-sudan), [infrastructure](https://voxdev.org/topic/institutions-political-economy/rebuilding-sudans-digital-infrastructure-amidst-conflict), [cash](https://www.calpnetwork.org/wp-content/uploads/2026/07/CALP-Network-Report-Group-Cash-Transfers-in-Sudan-July-2026.pdf)).<br><br>Short-code banking was launched jointly by the ministry, the central bank and the telecommunications regulator and works without internet access; operational details for participating banks and operators were to be announced separately and none is held ([short code](https://techafricanews.com/2026/03/18/sudan-launches-ussd-banking-services-to-expand-digital-financial-access/)).<br><br>An operator wallet launched in the wartime seat of government covering transfers, airtime, bills, merchant purchases and agent cash handling as phase one of three, and no later report confirms progression ([wallet](https://techafricanews.com/2025/04/18/zain-launches-bede-digital-wallet-to-boost-financial-inclusion-in-sudan/)).</details> | Advanced |
+| Digital Payments and Fintech | Cross-border functionality |  | ***No evidence*** |
+| Digital Payments and Fintech | Consumer protection |  | ***No evidence*** |
+| Registries | Population register |  | ***No evidence*** |
+| Registries | Civil register |  | ***No evidence*** |
+| Registries | Address register |  | ***No evidence*** |
+| Registries | Business register |  | ***No evidence*** |
+| Registries | Social protection register | Ministers [reviewed progress on a Unified Social Registry](https://www.suna.sd/posts/lkaaa-ozary-yaazz-althol-alrkmy-oaslah-alkhdm-almdny-nho-dol-mossat-hdyth), a foundational social-protection targeting database, in April 2026. <details><summary>Full record</summary>The review took place at a ministerial meeting on digital transformation and civil-service reform ([review](https://www.suna.sd/posts/lkaaa-ozary-yaazz-althol-alrkmy-oaslah-alkhdm-almdny-nho-dol-mossat-hdyth)).<br><br>No coverage, household count, targeting rule, data source or completion date is published. In a country where humanitarian cash transfers are a principal channel of assistance, a targeting database with no published design is the instrument that most needs one.</details> | Advanced |
+| Registries | Electoral register |  | ***No evidence*** |
+| Registries | Tax register |  | ***No evidence*** |
+| Registries | Land register |  | ***No evidence*** |
+| Sectoral management information systems | Health | A [health-sector platform](https://suna.sd/posts/ofd-ozar-alsh-oalsh-alaaalmy-ybhthan-maa-ozar-alatsalat-kht-althol-alrkmy-fy-alktaaa-alshy) was referenced at a ministerial meeting with an international agency urging acceleration, and it is not confirmed live. <details><summary>Full record</summary>The ministry, the health ministry and the agency met to set a comprehensive health digital strategy; the platform was referenced rather than reported as operating, and the agency urged acceleration ([meeting](https://suna.sd/posts/ofd-ozar-alsh-oalsh-alaaalmy-ybhthan-maa-ozar-alatsalat-kht-althol-alrkmy-fy-alktaaa-alshy)).<br><br>It is distinct from the 130 health services later reported live through the national platform, and the relationship between the two is not established.<br><br>So the base holds a named health platform that may or may not be the thing already delivering services, and no source resolves it.</details> | Advanced |
+| Sectoral management information systems | Education |  | ***No evidence*** |
+| Sectoral management information systems | Social protection |  | ***No evidence*** |
+| Sectoral management information systems | Justice | The judicial authority [signed a contract for a judiciary digital-transformation project](https://alwatannewssd.com/88831/), financed by the finance ministry and vetted by the justice ministry's contracts department. <details><summary>Full record</summary>The contract was signed with a national technical company, financed by the finance ministry and vetted by the justice ministry's contracts department ([contract](https://alwatannewssd.com/88831/)).<br><br>No value, scope, timetable or deliverable is published. It is one of the few procurements in this ledger where the vetting route is stated, which is itself worth recording.</details> | Advanced |
+| Sectoral management information systems | Tax |  | ***No evidence*** |
+| Sectoral management information systems | Customs | The [customs system was reactivated at a single state yard](https://www.suna.sd/posts/aaaad-tshghyl-ntham-alasykoda-balhthyr-algmrky-bgmark-olay-algzyr-astaadada-lantlak-alaaml-algmrky) after war looting and damage, and no later report confirms rollout to other stations. <details><summary>Full record</summary>The reactivation was at one customs yard ahead of resuming formal customs operations there ([reactivation](https://www.suna.sd/posts/aaaad-tshghyl-ntham-alasykoda-balhthyr-algmrky-bgmark-olay-algzyr-astaadada-lantlak-alaaml-algmrky)).<br><br>It rests on a single source predating the reporting window, and no later report confirms further rollout. The national platform has meanwhile been adopted as the sole channel for foreign-trade transactions, and nothing states how the two relate.</details> | No change |
+| Sectoral management information systems | Land |  | ***No evidence*** |
+| Other GovTech and e-Gov | e-government services | The [national platform](https://sudantribune.net/article/317080) became the sole channel for all foreign-trade transactions with permits issuable from any location, and no coverage or uptake figure is published for any service tranche. <details><summary>Full record</summary>The platform launched 28 services in February 2026 ([services](https://spokesperson-sd.com/ar/archives/38364)), carried electronic investment licensing from that month ([licensing](https://www.suna.sd/posts/alamyn-alaaam-llghaz-alkomy-llastthmar-yaaln-atlak-trkhys-almshroaaat-alastthmary-alktronya-aabr-mns-bldna)), reached 130 health services by July ([health](https://sudanhorizon.com/sudan-minister-of-finance-announces-full-support-for-the-2026-2030-national-health-plan/)), and was adopted in August as the sole national platform for foreign trade with permits issuable from any location ([trade](https://sudantribune.net/article/317080)).<br><br>No coverage or uptake figure is published for any of the announced tranches, so the count of services is the only measure of it.<br><br>A public procurement platform launched in August 2026 ([procurement](https://www.connectingafrica.com/digital-inclusion/sudan-unveils-new-digital-public-procurement-system)), and a finance-ministry platform for public-sector companies and authorities launched the same month, reported by the state news agency with no supplier, cost, entity count, reporting standard or go-live scope published and nothing stating what it replaces ([finance platform](https://sudanhorizon.com/finance-ministry-launches-new-electronic-platform/), [launch](https://www.suna.sd/posts/finance-ministry-launches-digital-platform-for-public-sector-companies-and-authorities)).</details> | Advanced |
 
-### Digital Identity and CRVS
 
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
+## Digitalisation
+
+| Topic | Indicator | Developments | Progress |
 |---|---|---|---|
-| SUDAPASS (national digital identity) | Framed as imminent, with exclusion/surveillance-risk warnings | [The communications and digital transformation ministry began linking the national digital identity to the banking sector, announced on 19 August 2026 with the central bank, the banking sector and the cyber security authority, so banks can verify customers and update records electronically without a branch visit, rolled out bank by bank as each becomes technically ready. On 23 August 2026 the central bank denied that registering for the identity exempts customers from updating their account data, saying claims circulating on social media had no basis in truth, that registration establishes identity only, and that its February 2026 directive requiring banks to update customer data still stands](https://sudantribune.net/article/317788) | Advanced |
+| Digitalisation of sub-national government | ICT infrastructure for local government |  | ***No evidence*** |
+| Digitalisation of sub-national government | Digitalisation of local government records |  | ***No evidence*** |
+| Rural digital data capture | Digitalisation of rural health clinics |  | ***No evidence*** |
+| Rural digital data capture | Digitalisation of rural primary schools |  | ***No evidence*** |
+| Rural digital data capture | Digitalisation of rural registry offices |  | ***No evidence*** |
+| Rural digital data capture | Digitalisation of rural police stations |  | ***No evidence*** |
 
-### Digital Payments and Fintech
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
-|---|---|---|---|
-| Al-Asjad payment-switch licence | Licensed, launched in Port Sudan with a Sovereignty Council representative present | [Licence revoked; unconfirmed press reports the firm was incorporated only in late 2025 with a Dubai branch](https://sudantribune.net/article/315827) | Closed |
-| National Instant Payment System / national payment switch (NIPS) | Public tender open for a software-only solution (2026-04-20); by 2026-07-08 contracted to Electronic Banking Services (EBS) but not launched | [Live with exactly one bank connected; explicitly framed by the central bank as restoration of war-damaged infrastructure, not a new build; no schedule for connecting remaining banks](https://cbos.gov.sd/en/content/tender-announcement-national-instant-payment-system-project-nips) | Advanced |
-| USSD banking service | Did not exist | [Phase 1 covers interpersonal transfers, credit inquiries, transaction summaries](https://techafricanews.com/2026/03/18/sudan-launches-ussd-banking-services-to-expand-digital-financial-access/) | Advanced |
-| Bankak (Bank of Khartoum mobile money) | Single-provider concentration already flagged as a vulnerability (2025-03) | [Still dominant; recurring failure modes (no-smartphone workarounds, app outages, mistaken transfers) documented from field reporting](https://voxdev.org/topic/institutions-political-economy/rebuilding-sudans-digital-infrastructure-amidst-conflict) | No change, qualifying clause: national payment switch launched with one other bank as a nascent counterweight, not yet material |
-| Bede digital wallet (Zain) | ***Baseline not held*** | [Phase 1 live](https://techafricanews.com/2025/04/18/zain-launches-bede-digital-wallet-to-boost-financial-inclusion-in-sudan/) | No change |
-| Isali / Eisali (electronic government-collection system) | ***Baseline not held*** | [National Workers Bank contracted (2026-04-30); diffused Gadarif to Kassala (2026-05-03); White Nile self-reports over 90% of transactions electronic, unverified; named as the platform authorities are to link to, and on 2026-08-10 named by the finance ministry - with electronic invoicing and tightened customs and tax exemptions - as the means by which first-half 2026 public revenue rose significantly without new taxes](https://sudanhorizon.com/finance-ministry-package-of-reform-policies-without-imposing-new-burdens/) | ***Baseline not held*** |
-
-### Registries
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
-|---|---|---|---|
-| Unified Social Registry | Did not exist | [In development; no completion date, coverage or data source given](https://www.suna.sd/posts/lkaaa-ozary-yaazz-althol-alrkmy-oaslah-alkhdm-almdny-nho-dol-mossat-hdyth) | Advanced |
-| Vehicle registration database (traffic police) | ***Baseline not held*** | [2,124,750 vehicles, 3,161,599 licences; Salem e-renewal serving 16 countries (up from six); Ansab laser-secured ownership-transfer platform being introduced](https://sudantribune.net/article/316412) | ***Baseline not held*** |
-
-### Sectoral management information systems
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
-|---|---|---|---|
-| Afia (health-sector platform) | Did not exist | [Referenced as forthcoming, no launch date given](https://suna.sd/posts/ofd-ozar-alsh-oalsh-alaaalmy-ybhthan-maa-ozar-alatsalat-kht-althol-alrkmy-fy-alktaaa-alshy) | Advanced |
-| Bayan (national civil-service HR platform) | Did not exist | [Launched; integrable with digital ID, e-signature, PKI, the Kafa'a recruitment platform and the finance ministry's Wafi payroll platform; no coverage, cost or data-protection arrangement disclosed](https://www.sudanakhbar.com/1822457) | Advanced |
-
-### Other GovTech and e-Gov
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
-|---|---|---|---|
-| Baladna (national e-government platform) | 28 digital services, alongside the SUDAPASS track and a national project-management system; did not exist before 2026-01-31 | [130+ electronic health services announced (2026-07-31); investment-licensing integration completed (2026-02-23); sole rail for all foreign-trade transactions](https://spokesperson-sd.com/ar/archives/38364) | Advanced |
-| Finance ministry platform for public-sector companies and authorities | Did not exist | [Launched for public-sector companies and authorities to report to the finance ministry, stated to integrate with the state financial systems and to be rolled out across the states](https://sudanhorizon.com/finance-ministry-launches-new-electronic-platform/) | Advanced |
-| Judiciary digital-transformation project | Did not exist | [Contract signed; no value, duration, system list or delivery timetable disclosed](https://alwatannewssd.com/88831/) | Advanced |
-| Electronic oversight system for public bodies and government companies | Not held | [Announced by the finance ministry as a forthcoming comprehensive electronic oversight system covering public bodies and government companies](https://sudanhorizon.com/finance-ministry-package-of-reform-policies-without-imposing-new-burdens/) | ***Baseline not held*** |
-| Nazaha public procurement platform | Baseline not held | [A national digital public-procurement and contracting system launched and stated as aimed at transparency and fair competition in the allocation of government contracts; no coverage, entity count, procurement value or mandatory-use instrument is published](https://www.connectingafrica.com/digital-inclusion/sudan-unveils-new-digital-public-procurement-system) | ***Baseline not held*** |
-
-<!-- narrative: dpi -->
-Payments carried the window's sharpest reversal: Al-Asjad's licence moved from newly granted, launched with a Sovereignty Council representative present, to revoked within days, both events inside the window. The national payment switch moved from a software-only tender in April 2026 through an EBS contract to a live launch with one bank connected in August — the Central Bank's own framing throughout has been restoration, not new build. SUDAPASS, Baladna, Bayan and the judiciary's digital-transformation contract all entered the record from nothing within the window; Bankak's dominant position, by contrast, was already flagged as a single-provider vulnerability at the 2025-08 baseline and has not changed since, beyond the new payment switch offering a not-yet-material counterweight. The vehicle-registration database and Isali both carry no stated baseline, so their current, substantial positions cannot be measured as movement, though both show real activity within the window itself — [Isali diffused from Gadarif to Kassala state and reached White Nile's self-reported 90%-plus electronic-transaction share](https://www.suna.sd/posts/shrak-byn-almaly-obnk-alaamal-alotny-ltkdym-khdm-aysaly), and the [vehicle registry's 2,124,750-vehicle count](https://sudantribune.net/article/316412) is credited to backup data centres that survived the war.
-
-USSD banking, launched jointly by the digital ministry, Central Bank and telecoms regulator in March 2026 to work without an internet connection, and the Unified Social Registry, still in development with no completion date given by ministers reviewing it in April, both entered the record from nothing within the window. ASYCUDA's single-site reactivation at Hantoub customs yard, and Zain's Bede wallet at phase 1 of its planned 3 phases, both predate the window and have not since been reported on again — a silence the base cannot distinguish from genuinely stalled progress.
-<!-- /narrative -->
 
 ## Technology
 
-### AI
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
+| Topic | Indicator | Developments | Progress |
 |---|---|---|---|
-| Sudanese Data and Artificial Intelligence Authority | Did not exist | [Established; AI readiness 24.63/100; flagged by an external roundup as a rare procedural twist — institution before law](https://www.ecofinagency.com/news-digital/0711-50229-sudan-establishes-three-digital-authorities-to-advance-e-govt) | Advanced |
+| AI | Use of AI in government administration |  | ***No evidence*** |
+| AI | Use of AI in sectoral management information systems |  | ***No evidence*** |
+| AI | Development of national / regional AI systems |  | ***No evidence*** |
+| AI | Control of AI abuse |  | ***No evidence*** |
+| ICT Industry | National capacity in DT-related production |  | ***No evidence*** |
+| Innovation ecosystem | Technology hubs |  | ***No evidence*** |
+| Innovation ecosystem | Tech startup ecosystem |  | ***No evidence*** |
 
-### ICT Industry
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
-|---|---|---|---|
-| Sudani and Sudatel wartime service continuity | ***Baseline not held*** | [Praised for continuity through the war; role in reconstruction pledged, no further detail](https://www.suna.sd/posts/ozyr-alatsalat-oalthol-alrkmy-yshyd-baldor-almhory-lshrk-sodany-fy-daam-msyr-althol-alrkmy) | ***Baseline not held*** |
-
-<!-- narrative: technology -->
-The Sudanese Data and Artificial Intelligence Authority carries no baseline — it was created in the same November 2025 decree the base only picked up from 2026 reporting onward. The Network International–Saudi Sudanese Bank processing agreement and the ministerial praise of Sudani and Sudatel both entered the record within the window; neither existed as a documented position beforehand.
-<!-- /narrative -->
 
 ## Capacity
 
-### Training and skills
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
+| Topic | Indicator | Developments | Progress |
 |---|---|---|---|
-| MTN Sudan Al-Manssa digital-skills programme | ***Baseline not held*** | [Launched; no later update](https://techafricanews.com/2025/08/18/mtn-sudan-expands-digital-empowerment-drive-with-al-manssa/) | No change |
+| Literacy | Digital literacy (civil service) |  | ***No evidence*** |
+| Literacy | Digital literacy (general population) |  | ***No evidence*** |
+| Training and skills | DT-related training in secondary education |  | ***No evidence*** |
+| Training and skills | DT-related university facilities and qualifications |  | ***No evidence*** |
+| Training and skills | Graduates entering DT ecosystem | An [operator digital-skills programme](https://techafricanews.com/2025/08/18/mtn-sudan-expands-digital-empowerment-drive-with-al-manssa/) ran workshops for content creators in 2025, and it is the only training data point held for the country. <details><summary>Full record</summary>The programme launched workshops in digital media and online marketing for content creators ([programme](https://techafricanews.com/2025/08/18/mtn-sudan-expands-digital-empowerment-drive-with-al-manssa/)).<br><br>No participant numbers, duration or outcome measures are given, and it has not been refreshed since. It is the only capacity or training record in this ledger, against a government standing up an identity credential, a payment switch, a civil-service records system and a national services platform at once.</details> | No change |
+| Research institutions | Think tanks and academic departments contributing to DT policy |  | ***No evidence*** |
 
-<!-- narrative: capacity -->
 
-<!-- /narrative -->
+## Inclusion
+
+| Topic | Indicator | Developments | Progress |
+|---|---|---|---|
+| Access to services | Citizen feedback portals |  | ***No evidence*** |
+| Access to services | Citizen participation in policy |  | ***No evidence*** |
+| Access to services | Gender equity |  | ***No evidence*** |
+| Access to services | Inclusion of persons with disabilities |  | ***No evidence*** |
+| Access to services | Inclusion of refugees and IDPs |  | ***No evidence*** |
+| Digital divides | Bridging of digital divides |  | ***No evidence*** |
+
+
+## Data
+
+| Topic | Indicator | Developments | Progress |
+|---|---|---|---|
+| National statistics | National strategy for development of statistics |  | ***No evidence*** |
+| National statistics | Censuses and surveys |  | ***No evidence*** |
+| National statistics | Statistics from administrative data |  | ***No evidence*** |
+| Open data | Use of open data |  | ***No evidence*** |
+| Use of satellite data | Agricultural use of satellite data |  | ***No evidence*** |
+| Use of satellite data | Meteorological use of satellite data |  | ***No evidence*** |
+
 
 ## Geopolitics
 
-### Gulf/UAE activities
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
+| Topic | Indicator | Developments | Progress |
 |---|---|---|---|
-| Network International-Saudi Sudanese Bank processing agreement | Did not exist | [Agreement signed; no transaction volumes, timeline or rollout figures given](https://techafricanews.com/2026/01/19/network-international-partners-with-saudi-sudanese-bank-to-advance-digital-payments-in-sudan/) | Advanced |
+| US / hyperscaler activities | USA / hyperscaler MoUs, engagements and commitments |  | ***No evidence*** |
+| China activities | Chinese MoUs, engagements and commitments |  | ***No evidence*** |
+| EU activities | EU MoUs, engagements and commitments |  | ***No evidence*** |
+| Gulf/UAE activities | Gulf MoUs, engagements and commitments | A Gulf-based processor [signed a strategic processing agreement with a domestic bank](https://techafricanews.com/2026/01/19/network-international-partners-with-saudi-sudanese-bank-to-advance-digital-payments-in-sudan/) for card-sponsored digital-payment processing, formalised at a regional trade event. <details><summary>Full record</summary>The agreement covers card-network-sponsored digital payment processing and was formalised at a regional technology exhibition ([agreement](https://techafricanews.com/2026/01/19/network-international-partners-with-saudi-sudanese-bank-to-advance-digital-payments-in-sudan/)).<br><br>No value, term or volume is published. It is the only foreign commercial arrangement in the payments stack the base holds, alongside a revoked switch licence whose reported Gulf linkage the central bank never confirmed.</details> | Advanced |
+| India activities | India MoUs, engagements and commitments |  | ***No evidence*** |
 
-<!-- narrative: geopolitics -->
-
-<!-- /narrative -->
 
 ## Where the record is thin
 
@@ -215,6 +219,3 @@ The Sudanese Data and Artificial Intelligence Authority carries no baseline — 
 | Digital-literacy programme or measurement | A digital-literacy programme document, or a published measurement of digital literacy. | not yet probed |
 | Applied digital-research programme | A university, agency or donor-funded applied digital-research programme document. | not yet probed |
 
-<!-- narrative: gaps -->
-None of the thirteen gaps had a position at either end of the window — each is an absence throughout, not a thing that regressed or stalled during the war. None names a specific document an automated fetch could plausibly retrieve.
-<!-- /narrative -->
