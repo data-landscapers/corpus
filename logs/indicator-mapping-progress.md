@@ -17,11 +17,11 @@ document (`progress-report-redesign.md` §1) and are not in scope.
 ## Done
 
 ERI and ZAF were the pilots. This pass has since added, in order: **GNB, AGO, BDI, BEN, BFA, BWA,
-CAF, CIV, CMR, COD, COG, COM, CPV, DJI, DZA, EGY, ETH, GAB, GHA, GIN, GMB, GNQ, KEN, LBR, LBY, LSO, MAR, MDG, MLI, MOZ, MRT, MUS, MWI, NAM** — 36 of 54, one commit each, all pushed.
+CAF, CIV, CMR, COD, COG, COM, CPV, DJI, DZA, EGY, ETH, GAB, GHA, GIN, GMB, GNQ, KEN, LBR, LBY, LSO, MAR, MDG, MLI, MOZ, MRT, MUS, MWI, NAM, NER** — 37 of 54, one commit each, all pushed.
 
 Yields so far, as a sense of shape: 21 indicators from GNB's 25 ledger rows, 43 from BDI's 74, 52
 from BWA's 107, 57 from BEN's 105, 64 from BFA's 131, 66 from AGO's 122, 43 from CAF's 92, 92 from
-CIV's 167, 73 from CMR's 121, 67 from COD's 123, 52 from COG's 103, 45 from COM's 117, 49 from CPV's 140, 43 from DJI's 70, 58 from DZA's 111, 66 from EGY's 199, 66 from ETH's 97, 58 from GAB's 120, 81 from GHA's 175, 59 from GIN's 109, 46 from GMB's 75, 42 from GNQ's 67, 93 from KEN's 219, 43 from LBR's 71, 64 from LBY's 84, 61 from LSO's 69, 79 from MAR's 137, 44 from MDG's 67, 55 from MLI's 87, 77 from MOZ's 159, 39 from MRT's 62, 50 from MUS's 81, 65 from MWI's 183, 62 from NAM's 134. Between three quarters and nine tenths of ledger rows map; the rest are placeholders with
+CIV's 167, 73 from CMR's 121, 67 from COD's 123, 52 from COG's 103, 45 from COM's 117, 49 from CPV's 140, 43 from DJI's 70, 58 from DZA's 111, 66 from EGY's 199, 66 from ETH's 97, 58 from GAB's 120, 81 from GHA's 175, 59 from GIN's 109, 46 from GMB's 75, 42 from GNQ's 67, 93 from KEN's 219, 43 from LBR's 71, 64 from LBY's 84, 61 from LSO's 69, 79 from MAR's 137, 44 from MDG's 67, 55 from MLI's 87, 77 from MOZ's 159, 39 from MRT's 62, 50 from MUS's 81, 65 from MWI's 183, 62 from NAM's 134, 42 from NER's 68. Between three quarters and nine tenths of ledger rows map; the rest are placeholders with
 no source, or real instruments the frame has no question for (a telecoms statute, a broadcasting
 transition), and those correctly stay on the ledger and out of the report.
 
@@ -623,3 +623,24 @@ gazetted Act as a working one.
 session.** The two together suggest the method has converged: read the sourced rows, group by what each
 row *is*, apply the citation fixer in the assembly step, and the remaining defects are borrowed figures
 rather than anything structural.
+
+## What NER added, 2026-08-27
+
+**The register check caught a banned phrase the drafter wrote, not one quoted from a row.** *At scale*
+appeared in a summarising clause about a biometric programme "now enrolling at scale". Ten units into
+this session the quoted-term trap CMR and MUS describe has been the only register risk; this is the
+first time the phrase was the drafter's own. **The pre-lint is the only thing standing between a
+natural-sounding clause and a register failure**, which is the argument for running it on every draft
+rather than on thick units alone.
+
+**A figure in a closing clause is uncited even when the paragraph opened with the citation.** Three of
+the four defects here were of that shape: "at 16,500 digitised of about 200,000 agents the work is
+under a tenth done", written as a conclusion after the cited sentence. The fix is to draw the
+conclusion without repeating the numbers, which reads better anyway.
+
+**Where a country's own registers are created by one instrument and none of them yet accepts an
+enrolment, say which is which.** This unit's April 2026 ordonnance institutes the civil, nationality
+and population registers together; the population register is in build with a sensitisation tour
+running ahead of it, and the cell says that a campaign preceding a register that cannot yet enrol is
+the whole of what is dated. A cleaner legal basis than most units in this base have, and no operating
+system behind it, is the finding.
