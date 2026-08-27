@@ -3,10 +3,10 @@ title: Sierra Leone — progress report, August 2025 – August 2026
 compiled: 2026-08-27
 period: 2025-08-01 to 2026-08-27
 place: SLE
-ledger_rows: 83
+ledger_rows: 85
 not_held: 11
 indicators: 121
-record: aaf9891b0c8e
+record: 464f2d832a71
 ---
 
 # Sierra Leone: progress report, August 2025 – August 2026

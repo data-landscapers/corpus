@@ -3,10 +3,10 @@ title: Somalia — progress report, August 2025 – August 2026
 compiled: 2026-08-27
 period: 2025-08-01 to 2026-08-27
 place: SOM
-ledger_rows: 60
+ledger_rows: 63
 not_held: 10
 indicators: 121
-record: a2433eb8033e
+record: 75765f1e54d2
 ---
 
 # Somalia: progress report, August 2025 – August 2026

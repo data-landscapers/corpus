@@ -3,10 +3,10 @@ title: Chad — progress report, August 2025 – August 2026
 compiled: 2026-08-27
 period: 2025-08-01 to 2026-08-27
 place: TCD
-ledger_rows: 132
-not_held: 42
+ledger_rows: 135
+not_held: 41
 indicators: 121
-record: 5c48b7e17787
+record: ac4c3d39f479
 ---
 
 # Chad: progress report, August 2025 – August 2026

@@ -3,9 +3,9 @@ title: Somalia — monthly update, July – August 2026
 compiled: 2026-08-27
 period: 2026-07-01 to 2026-08-27
 place: SOM
-ledger_rows: 22
+ledger_rows: 25
 not_held: 10
-record: fe3c4195c2ce
+record: 0e59a6ae784d
 ---
 
 # Somalia: monthly update, July – August 2026
@@ -29,6 +29,11 @@ The communications minister restated on 22 July the request that Meta [delay the
 
 <!-- narrative: governance--gov-regional -->
 The connection to the Pan-African Payment and Settlement System is [a target for before the end of 2026 rather than a concluded arrangement](https://www.hiiraan.com/news4/2026/Jul/205808/somalia_to_expand_instant_payment_system_linking_banks_and_mobile_money_platform.aspx).
+<!-- /narrative -->
+### Standards
+
+<!-- narrative: governance--gov-standards -->
+The auditor general's office and a partner supreme audit institution [completed the third phase of a cooperation programme on auditing government information systems](https://arlaadimedia.com/2026/08/23/somalia-turkey-strengthen-cooperation-on-digital-auditing/). No audit report, scope or next-phase date has been published.
 <!-- /narrative -->
 ### Public debate and participation in policymaking
 
@@ -65,6 +70,11 @@ Cabinet [approved a third-generation e-passport plan on 6 August](https://shabel
 
 <!-- narrative: dpi--dpi-pay -->
 On 26 July the Central Bank set out how the instant payment system is to reach the whole market: [14 commercial banks and eight mobile money and e-wallet providers once integration completes, on ISO 20022, carrying person-to-person, merchant, government-to-person and person-to-government flows, with business-facing services still in development](https://sonna.so/en/article/Central-Bank-sets-out-plan-to-bring-banks-and-mobile-money-onto-one-payments-network). The system is operated by the Somalia Payment Switch, a joint venture of the Central Bank and 13 commercial banks, which the Governor described as a deliberate choice over central-bank-run infrastructure. One commitment is stated and undelivered: mobile money integration carries no published date.
+<!-- /narrative -->
+### Registries
+
+<!-- narrative: dpi--dpi-registry -->
+Somalia [launched its first unified national registry of health facilities](https://www.emro.who.int/somalia/news/somalia-launches-its-first-unified-national-registry-of-health-facilities.html) in Mogadishu, to underpin health-sector planning; no facility count, update cycle or public access route is stated. In Somaliland, the central bank and the International Finance Corporation [agreed a path forward on a credit registry project](https://www.somalilandcurrent.com/somaliland-central-bank-and-ifc-world-bank-forge-path-forward-on-credit-registry-project/), with no design, timetable or funding figure yet on file.
 <!-- /narrative -->
 ### Sectoral management information systems
 

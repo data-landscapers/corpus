@@ -3,9 +3,9 @@ title: Zimbabwe — monthly update, July – August 2026
 compiled: 2026-08-27
 period: 2026-07-01 to 2026-08-27
 place: ZWE
-ledger_rows: 85
+ledger_rows: 88
 not_held: 9
-record: 11e67900b9f1
+record: c6b9165e56db
 ---
 
 # Zimbabwe: monthly update, July – August 2026
@@ -46,6 +46,8 @@ Certification of every data protection officer is required under the same 26 Jul
 August brought the objections. Healthcare providers and the medical association [objected to the data-controller licensing regime as applied to them — roughly US$300 a year plus a mandatory data protection officer — calling it costly and duplicative of existing health-professions regulation](https://www.newsday.co.zw/thestandard/news/article/200059372/doctors-decry-exhorbitant-new-data-levies) ahead of the September inspections, and a published analysis [argued the regulator's threshold-based licensing model is disproportionately burdensome for small entities](https://www.techzim.co.zw/2026/08/why-our-data-protection-regulations-need-review/) against the risk-based approach of the European regulation it is compared with. The statutory instrument's fee schedule is not held, and no licence count, exemption or regulator response to the objections is on record.
 
 Two further protection questions surfaced without a regulator attached. The anti-corruption commission is [investigating cyber-enabled fraud across three state digital systems](https://technomag.co.zw/zacc-probes-cyber-fraud-in-vid-licences-netone-airtime-and-zimra-systems/): suspected manipulation of the driver-licensing platform, a US$150m diversion of state mobile-operator airtime with a criminal case pending and asset forfeiture completed, and a scheme crediting more than ZiG55m and US$260,000 of fictitious prepayments on the revenue authority's customs platform. And the National Child Online Protection Policy 2026-2030, [approved by Cabinet in June, has no reporting route, responder training or funded rollout on record](https://www.newsday.co.zw/opinion-analysis/article/200059225/protecting-zimbabwes-children-online-will-take-more-than-a-policy) — which is what a published analysis argues will decide whether it protects anyone.
+
+The government put the national data volume at [179 petabytes against 114 previously](https://technomag.co.zw/from-114pb-to-179pb-as-zimbabwes-data-doubles-govt-tells-tech-firms-corporate-responsibility-is-non-negotiable/) and cited the near-doubling in telling technology firms that corporate responsibility is not negotiable, resting the point on the National Child Online Protection Policy approved by Cabinet in June. Separately, civil-society organisations say [data-protection certification fees are high enough to exclude rural communities and young women](https://www.midweekwatch.com/civil-society-raises-alarm-as-exorbitant-data-protection-certification-fees-threaten-to-exclude-rural-communities-and-young-women/) from compliance; no fee schedule, exemption or regulator response is on file. The base had been carrying that child-protection policy as three separate rows, minted from three separate reports; they are now resolved to one.
 <!-- /narrative -->
 ### Regional collaboration
 
@@ -82,6 +84,8 @@ Phase 1 of the cross-border fibre corridor from Plumtree to Bulawayo was reporte
 The listed infrastructure company reported for the quarter ended May 2026 that it deployed 90 new base stations and reinvested 17% of revenue into capital projects on an undisclosed revenue base ([trading update](https://itweb.africa/article/infraco-expands-ai-powered-towers/RgeVDvPRmeoMKJN3)).
 
 The state fixed operator's chief executive told its annual general meeting on 26 June that government arrears had risen to close to US$42m, also given as ZiG1.2bn, from US$19.2m a year earlier ([annual general meeting account](https://www.newsday.co.zw/business/article/200057743/govt-debt-to-telone-doubles-to-us42m)). The state mobile operator terminated its chief executive's contract on 4 August following a board resolution ([termination account](https://www.newsday.co.zw/local-news/article/200059025/netone-terminates-mushanawanis-contract-ending-turbulent-five-year-tenure)).
+
+The state incumbent [set a target of connecting 114,000 homes to fibre](https://www.myzimbabwe.co.zw/technology/189533-telone-declares-war-on-starlink-and-liquid-to-connect-114000-homes-to-its-fast-and-affordable-fibre-internet.html), positioning the offer against satellite and private fibre competitors on price and speed. No timetable, current connection count or tariff accompanies the target.
 <!-- /narrative -->
 ### Data Storage
 

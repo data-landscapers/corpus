@@ -3,10 +3,10 @@ title: Namibia — progress report, August 2025 – August 2026
 compiled: 2026-08-27
 period: 2025-08-01 to 2026-08-27
 place: NAM
-ledger_rows: 135
+ledger_rows: 139
 not_held: 12
 indicators: 121
-record: c4a2a1ddf8f1
+record: 2cbe6d87d9ba
 ---
 
 # Namibia: progress report, August 2025 – August 2026

@@ -1,11 +1,11 @@
 ---
 title: Togo — monthly update, July – August 2026
-compiled: 2026-08-26
-period: 2026-07-01 to 2026-08-26
+compiled: 2026-08-27
+period: 2026-07-01 to 2026-08-27
 place: TGO
-ledger_rows: 38
+ledger_rows: 40
 not_held: 39
-record: f2e5747ec77b
+record: e5910496ce37
 ---
 
 # Togo: monthly update, July – August 2026
@@ -102,6 +102,8 @@ The [second national birth-registration catch-up campaign opened at Agbandi on 3
 
 <!-- narrative: dpi--dpi-mis -->
 Togo put a [national platform online centralising climate-risk data for public decision-making across agriculture, forestry, water resources, tourism and energy](https://www.togofirst.com/en/itc/2408-19852-togo-launches-platform-to-improve-climate-risk-monitoring). Indicators on droughts and floods are entered by field agents, checked by sector focal points and regional officials before national consolidation, time-stamped to leave an audit trail, and viewable at regional, prefecture and municipal level; it was developed by the environment ministry with technical support from a UN agency and climate-fund financing, and follows the regional adaptation plans adopted by all five regions in 2025. The source gives no launch date.
+
+The modules for a [National Malaria Data Repository were approved](https://www.togofirst.com/en/health/2608-19870-togo-launches-digital-platform-to-improve-malaria-response), following a training-of-trainers workshop held at the public-health training and research centre. No go-live date, facility coverage or data flow is stated.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
@@ -133,6 +135,14 @@ Three artificial-intelligence positions all rest on announcements rather than ou
 
 <!-- narrative: technology--tech-industry -->
 [Fuel marking and traceability began at Lome](https://togopresse.tg/commerce-illegal-des-hydrocarbures-le-processus-de-marquage-et-de-tracabilite-des-produits-petroliers-lance-au-togo/), the obligation having applied since 1 July: every litre through legal channels carries a molecular marker verifiable at depot, station and roadside, with sanctions running to seizure, fines of FCFA 50,000 to 10,000,000 and closure. Neither the contract amendment nor the marking regulation is held, and no contract value, duration or data-ownership term is published.
+<!-- /narrative -->
+
+## Capacity
+
+### Literacy
+
+<!-- narrative: capacity--capacity-literacy -->
+A programme of [school FabLabs, trained fabmanagers and regional innovation and technology centres](https://actulome.com/fabmanagers-fablabs-crit-ecole-au-togo/) was set out publicly, together with the vocabulary it will be run in. No site count, budget or opening date is given.
 <!-- /narrative -->
 
 ## Inclusion

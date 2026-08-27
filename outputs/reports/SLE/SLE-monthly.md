@@ -1,11 +1,11 @@
 ---
 title: Sierra Leone — monthly update, July – August 2026
-compiled: 2026-08-25
-period: 2026-07-01 to 2026-08-25
+compiled: 2026-08-27
+period: 2026-07-01 to 2026-08-27
 place: SLE
-ledger_rows: 40
+ledger_rows: 42
 not_held: 11
-record: 6be9dd4e78c0
+record: a58bac97fcf3
 ---
 
 # Sierra Leone: monthly update, July – August 2026
@@ -86,6 +86,8 @@ The constraint under everything else eased slightly. A World Bank-funded [40MW s
 The telecoms regulator ran two public-facing cyber messages in nine days. It [set out a consumer education campaign on online fraud on 28 July](https://sierraloaded.sl/local/natca-consumer-education-campaign-online-fraud/), stating that the fraudulent links circulating did not originate from the mobile networks and placing the burden on the consumer; on 30 July it [confirmed it was coordinating a response to ongoing cybersecurity incidents affecting digital services](https://sierraloaded.sl/news/natca-reassures-public-national-cyber-attacks/), naming no affected service, no attribution and no incident count.
 
 The first tool rather than message came from an operator, not the state. On 18 August a mobile operator [launched a scam-alert channel for suspected fraud against its mobile-money service, reached on a *505# short code, an online form or a 111 call](https://techafricanews.com/2026/08/18/orange-sierra-leone-launches-scam-alert-tool-to-combat-fraud/). It is one operator's own channel: no report volume, response time, remedy, referral route to the police or coordination with the regulator's response is published, and the Cyber Security and Crime Act 2021 still carries no reported prosecution.
+
+The communications, technology and innovation ministry [published draft digital protection plans for four critical sectors](https://sierraloaded.sl/news/sierra-leone-plans-digital-systems-sectors/); nothing is adopted and no implementation date is given. An original investigation [documented 27 WhatsApp account-takeover cases](https://sierraloaded.sl/feature/inside-sierra-leone-whatsapp-takeover-scam/) and located the governance failure in the payout leg rather than in the platform â€” which makes it a mobile-money supervision question rather than a platform one.
 <!-- /narrative -->
 
 ## DPI

@@ -3,9 +3,9 @@ title: Namibia — monthly update, July – August 2026
 compiled: 2026-08-27
 period: 2026-07-01 to 2026-08-27
 place: NAM
-ledger_rows: 60
+ledger_rows: 64
 not_held: 12
-record: b241ae20c796
+record: 5b68cc205226
 ---
 
 # Namibia: monthly update, July – August 2026
@@ -52,6 +52,8 @@ India is the other bilateral track. At the [fourth joint trade committee in New 
 
 
 The regulator also took the chair of something. The southern African regulators' association [opened the first meeting of its legal and policy committee at Windhoek from 10 to 12 August, with artificial-intelligence governance, data governance and protection, digital public infrastructure and regulatory harmonisation on the agenda](https://techreviewafrica.com/news/6684/crasa-legal-and-policy-committee-opens-meeting-on-ai-data-governance-and-regional-ict-regulation). No work programme, output or timetable is published with it.
+
+The communications regulator and the electricity distributor [signed a five-year memorandum at Ondangwa covering information and data sharing and rural electrification](https://nambusinessexpress.com/?p=15262). Non-binding is the parties' own description of it, and no work programme or first exchange is on file.
 <!-- /narrative -->
 
 ## ICT Infrastructure
@@ -60,6 +62,8 @@ The regulator also took the chair of something. The southern African regulators'
 
 <!-- narrative: ict-infrastructure--infra-connect -->
 On 30 July the ministry, the regulator and three operators met the traditional authorities' trust on streamlining tower siting and cutting deployment delays and costs; the ministry reported no agreement, instrument or timetable ([convening account](https://www.itweb.africa/article/namibia-taps-chiefs-for-network-rollout/LPwQ57lbeY5qNgkj)). Traditional authorities manage communal land, which the ministry treats as the siting constraint.
+
+The largest mobile operator said it [will put N$624.9 million into telecommunications infrastructure in the 2025/26 financial year](https://www.namibiansun.com/mw-main/mtc-puts-n6249m-into-networks-NMH016998-3015-20874) â€” a stated commitment rather than a delivered figure.
 <!-- /narrative -->
 ### Data Storage
 
@@ -101,6 +105,8 @@ The business and intellectual property authority [offers online name search, nam
 
 <!-- narrative: dpi--dpi-mis -->
 The health ministry held national training at Swakopmund in the week to 29 July for a mobile application replacing community health workers' paper registers; no rollout date was announced and paper and digital are to run in parallel ([training account](https://neweralive.na/health-prepares-for-digital-system-rollout/)).
+
+The Roads Authority [launched a N$13 million project control system](https://neweralive.na/n13-million-project-control-system-launched/) to strengthen oversight of road projects. No project count, user base or reporting output accompanies it.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
@@ -124,6 +130,14 @@ Windhoek's council [adopted a ten-year smart-city strategy on 15 June, handed ov
 The month's artificial-intelligence work is language work. The development programme's account of 13 August records [an indigenous-language voice-data repository being built through its AI sprint with the national science and technology university](https://www.undp.org/namibia/news/young-namibians-leading-change-digital-innovation-green-jobs). No language count, corpus size, licence or release date is stated, and the question a speech corpus raises above all others — who owns the recorded voices, and on what terms they may train a model — is not addressed in the account.
 
 The state's own first artificial-intelligence contract asks the same question of a different dataset, and answers part of it. A [one-year contract with a United States firm at N$39.5m, about US$2.4m, introduces satellite imagery, remote sensing and artificial-intelligence monitoring of mahangu, maize, sorghum, cowpea and wheat](https://observer24.com.na/questions-mount-over-n39-5m-us-agriculture-ai-deal/); the agriculture ministry says Namibia retains ownership of the satellite and crop data generated and will receive model and skills transfer. The award drew public objection over transparency and local participation, and no procurement route, tender record or text of the data-ownership and transfer terms is published.
+<!-- /narrative -->
+
+## Capacity
+
+### Training and skills
+
+<!-- narrative: capacity--capacity-training -->
+A private provider [opened an artificial-intelligence academy in Windhoek](https://futuremedianews.com.na/2026/08/25/v5-digital-launches-ai-academy-for-namibian-organisations/) for Namibian organisations. It is a commercial offering rather than a public programme, which is what the base otherwise holds nothing of here; no intake, curriculum or fee structure is published.
 <!-- /narrative -->
 
 ## Inclusion

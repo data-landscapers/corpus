@@ -3,10 +3,10 @@ title: Zimbabwe — progress report, August 2025 – August 2026
 compiled: 2026-08-27
 period: 2025-08-01 to 2026-08-27
 place: ZWE
-ledger_rows: 188
+ledger_rows: 191
 not_held: 9
 indicators: 121
-record: dcb5aab388c0
+record: a4c73b01e7a5
 ---
 
 # Zimbabwe: progress report, August 2025 – August 2026

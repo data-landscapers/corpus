@@ -3,18 +3,18 @@ title: West Africa — progress report, August 2025 – August 2026
 compiled: 2026-08-27
 period: 2025-08-01 to 2026-08-27
 place: XWA
-ledger_rows: 58
+ledger_rows: 61
 not_held: 1
-record: d9bc8b847aa3
+record: 434cd1408d38
 ---
 
 # West Africa: progress report, August 2025 – August 2026
 
 *Compiled 2026-08-27 by Claude Opus from the documents in the Corpus repository. Sections run from the region's institutions outwards to what funds them. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
 
-*Of 58 bodies, instruments and systems on this place's ledger, 39 changed position between 2025-08-01 and 2026-08-27, 4 did not, 14 carry no stated baseline, and 1 is ***Not held*** at both ends.*
+*Of 61 bodies, instruments and systems on this place's ledger, 41 changed position between 2025-08-01 and 2026-08-27, 5 did not, 14 carry no stated baseline, and 1 is ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 132 sources for this place in the window — 21 in the earlier half (2025-08 to 2026-01), 111 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+*Shape check, run before the comparison: 133 sources for this place in the window — 21 in the earlier half (2025-08 to 2026-01), 112 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -74,7 +74,7 @@ The Alliance of Sahel States, which severed its ECOWAS ties in 2024, is building
 
 | Body, instrument or system | At 2025-08-01 | At 2026-08-27 | Movement |
 |---|---|---|---|
-| ECOWAS Supplementary Act on the Protection of Personal Data | The Supplementary Act of February 2010, the regional benchmark national bills were still being drafted against | [A revised Act adopted; its text is not published with the communique, so what changed against 2010 is not establishable from the base](https://www.ecowas.int/wp-content/uploads/2026/07/Final-Communique_-ENG.pdf) | Advanced |
+| ECOWAS Supplementary Act on the Protection of Personal Data | The Supplementary Act of February 2010, the regional benchmark national bills were still being drafted against | [A revised Act adopted; its text is not published with the communique, so what changed against 2010 is not establishable from the base; the complete text is now held, adopted at the thirty-seventh session of the Authority of Heads of State and Government in Abuja on 16 February 2010](https://www.statewatch.org/media/documents/news/2013/mar/ecowas-dp-act.pdf) | Advanced |
 
 ### Standards
 
@@ -82,6 +82,7 @@ The Alliance of Sahel States, which severed its ECOWAS ties in 2024, is building
 |---|---|---|---|
 | Alliance ouest-africaine des noms de domaine (AOAN) | Did not exist | [Announced as an initiative to coordinate country-code domain policy across the region; no charter, membership or founding act held](https://lefaso.net/spip.php?article148370) | Advanced |
 | ECOWAS free-roaming regulation C/REG.21/12/17 | In force since December 2017, implemented between Liberia, The Gambia and Sierra Leone (2025-02), with full implementation by all mobile operators due by end-2025 | [A second three-state arrangement live, giving free incoming calls for up to 30 days and local rates on outgoing traffic; the end-2025 deadline passed with six of fifteen member states covered](https://techreviewafrica.com/news/5159/senegal-togo-and-benin-launch-free-roaming-initiative) | Advanced, against a missed end-2025 deadline |
+| Regional certified electronic signature | Did not exist | [The Commission has set out a programme towards a certified electronic signature usable across West Africa; no standard, root authority or member-state adoption is on file](https://www.ecowas.int/towards-a-certified-electronic-signature-in-west-africa/) | Advanced |
 | AES harmonised specifications for travel and identity documents | Validated and referred to the heads of state; no approval, gazetted text or reference number | [Unchanged, while both credentials built on them are issued; no published text located](https://bamada.net/libre-circulation-dans-laes-validation-des-passeports-et-cartes-didentite-harmonises-par-les-ministres-de-la-securite) | No change |
 
 ### AI
@@ -140,6 +141,7 @@ The BCEAO's connection obligation slipped. Interoperability [was to be mandatory
 | AES biometric passport | Launched in January 2025, with no state-by-state issuance on record | [Issuing in all three states, with Mali's supplied by China's Emptech in place of France's Idemia](https://idtechwire.com/mali-launches-e-aes-biometric-passport-taps-chinas-emptech-in-digital-sovereignty-move) | Advanced |
 | CIB-AES (AES biometric identity card) | Did not exist | [Issuing in Burkina Faso since December 2025 and in Niger since March 2026, with mass enrolment under way and cross-border enrolment tested in Mali](https://www.biometricupdate.com/202511/burkina-faso-introduces-new-biometric-id-system-in-major-digital-leap) | Advanced |
 | ENBIC (ECOWAS National Biometric Identity Card) | Operationalised by six member states, with no rollout held in the largest | [Rolled out by Nigeria in November 2025 and deployed in the field in Guinea-Bissau under a cross-border traders' project](https://thewhistler.ng/nigeria-unveils-ecowas-id-card-to-boost-regional-travel-security/) | Advanced |
+| UEMOA customer identification and verification instruction (003-03-2025) | Did not exist in this form | [In force since March 2025: how financial institutions must identify customers, verify identity and know their clientele across the monetary union](https://www.bceao.int/sites/default/files/2025-04/Instruction%20n%C2%B0003-03-2025%20du%2018%20mars%2025relative%20%C3%A0%20l%27identification-%20la%20v%C3%A9rification%20de%20l%27identit%C3%A9%20et%20la%20connaissance%20de%20la%20client%C3%A8le%20par%20les%20institutions%20financi%C3%A8re.pdf) | Advanced |
 | WURI (West Africa Unique Identification for Regional Integration and Inclusion) | Phase 2 running to a closing date of 30 July 2026, with no interoperability strategy validated | [A cross-border interoperability and mutual-recognition strategy validated and a 2026 work plan adopted; the phase's stated closing date has passed with no completion, extension or successor record held](https://www.biometricupdate.com/202508/stakeholders-validate-strategy-on-digital-id-interoperability-in-west-africa) | Advanced |
 
 ### Digital Payments and Fintech
@@ -151,6 +153,7 @@ The BCEAO's connection obligation slipped. Interoperability [was to be mandatory
 | PI-SPI (UEMOA interoperable instant-payment platform) | In live testing from August 2025, ahead of a launch set for 30 September 2025 | [In service across the eight member states, free for person-to-person transfers, with banks and mobile money interconnected since May 2026](https://lefaso.net/spip.php?article139887) | Advanced |
 | Users connected to PI-SPI | Did not exist | [30 million connected users and one million transactions worth 110 billion FCFA in under ten months](https://www.togofirst.com/en/finance/2407-19672-bceao-instant-payment-platform-connects-30-million-users-in-less-than-10-months) | Advanced |
 | BCEAO guide to digitalising member-state payments | In force | [In force, unrevised on the record](https://www.bceao.int/sites/default/files/2021-03/Guide%20pour%20la%20digitalisation%20des%20paiements%20des%20Etats%20membres%20de%20l%27UEMOA.pdf) | No change |
+| UEMOA electronic-money issuer instruction (008-05-2015) | In force since 2015 | [In force since 2015: the conditions and procedures under which electronic-money issuers may operate in the member states of the monetary union](https://www.bceao.int/sites/default/files/2017-11/instruction_no008_05_2015_intranet.pdf) | No change |
 | BCEAO accession to the Pan-African Payment and Settlement System | ***Baseline not held*** | [A six-month pilot with more than 80 commercial banks is planned before any decision, to test conformity with the union's external-financial-relations rules](https://www.financialafrik.com/2026/07/28/cedeao-la-bceao-prepare-levolution-des-paiements-transfrontaliers/) | ***Baseline not held*** |
 | EPSS (ECOWAS Payment and Settlement System) | ***Baseline not held*** | [Work is on where the platform's components will be hosted and on evaluating the central banks bidding to host them; no build, cost, timetable or legal instrument held](https://www.financialafrik.com/2026/07/28/cedeao-la-bceao-prepare-levolution-des-paiements-transfrontaliers/) | ***Baseline not held*** |
 | GIM-UEMOA interbank switch | ***Baseline not held*** | [The regional interbank electronic-payments switch is running under an interim chief executive, its previous director-general having left the post he held from March 2020](https://www.financialafrik.com/2026/08/12/gim-uemoa-ahmed-al-moustapha-cisse-directeur-general-par-interim/) | ***Baseline not held*** |

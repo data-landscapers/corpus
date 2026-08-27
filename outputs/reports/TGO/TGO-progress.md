@@ -3,10 +3,10 @@ title: Togo — progress report, August 2025 – August 2026
 compiled: 2026-08-27
 period: 2025-08-01 to 2026-08-27
 place: TGO
-ledger_rows: 124
+ledger_rows: 126
 not_held: 39
 indicators: 121
-record: 0f105387d8b9
+record: 0d65c9362d53
 ---
 
 # Togo: progress report, August 2025 – August 2026
