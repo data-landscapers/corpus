@@ -17,7 +17,7 @@ The bulletin lists all new content published today and yesterday. The first buil
 
 ## countries-intro
 
-The repository covers all 54 African countries. For each country four reports have been built and are modified whenever newly arrived content merits an update. The ***Status Report*** attempts to summarise the current state of all components of the digital transformation landscape, The ***Monthly Update*** reference all new content published since the beginning of the last calendar month. The ***Progress Report*** attempts to track whether the tracked components have advanced, stalled or regressed over the past 12 months. ***Non-state Finance*** list all known financial commitments made since 2015. A fifth report on state budgeting and expenditure is outstanding.
+The repository covers all [54 African countries.](https://corpus.data-landscapers.io/methodology/lookups/#countries) For each country four reports have been built and are modified whenever newly arrived content merits an update. The ***Status Report*** attempts to summarise the current state of all components of the digital transformation landscape, The ***Monthly Update*** reference all new content published since the beginning of the last calendar month. The ***Progress Report*** attempts to track whether the tracked components have advanced, stalled or regressed over the past 12 months. ***Non-state Finance*** list all known financial commitments made since 2015. A fifth report on state budgeting and expenditure is outstanding.
 
 
 ## regions-intro
@@ -26,7 +26,7 @@ Sources tagged to a region, a bloc or the continent as a whole, rather than to a
 
 ## topics-intro
 
-All documents are classified according to Corpus' two-tier taxonomy which is used in all reports and in the catalogue.
+All documents are classified according to Corpus' [two-tier taxonomy](https://corpus.data-landscapers.io/methodology/lookups/#topics) which is used in all reports and in the catalogue.
 
 ## catalogue-intro
 
