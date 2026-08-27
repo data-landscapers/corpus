@@ -17,17 +17,17 @@ document (`progress-report-redesign.md` §1) and are not in scope.
 ## Done
 
 ERI and ZAF were the pilots. This pass has since added, in order: **GNB, AGO, BDI, BEN, BFA, BWA,
-CAF, CIV, CMR, COD, COG, COM, CPV, DJI, DZA, EGY, ETH, GAB, GHA, GIN, GMB, GNQ, KEN, LBR, LBY, LSO, MAR, MDG, MLI** — 31 of 54, one commit each, all pushed.
+CAF, CIV, CMR, COD, COG, COM, CPV, DJI, DZA, EGY, ETH, GAB, GHA, GIN, GMB, GNQ, KEN, LBR, LBY, LSO, MAR, MDG, MLI, MOZ** — 32 of 54, one commit each, all pushed.
 
 Yields so far, as a sense of shape: 21 indicators from GNB's 25 ledger rows, 43 from BDI's 74, 52
 from BWA's 107, 57 from BEN's 105, 64 from BFA's 131, 66 from AGO's 122, 43 from CAF's 92, 92 from
-CIV's 167, 73 from CMR's 121, 67 from COD's 123, 52 from COG's 103, 45 from COM's 117, 49 from CPV's 140, 43 from DJI's 70, 58 from DZA's 111, 66 from EGY's 199, 66 from ETH's 97, 58 from GAB's 120, 81 from GHA's 175, 59 from GIN's 109, 46 from GMB's 75, 42 from GNQ's 67, 93 from KEN's 219, 43 from LBR's 71, 64 from LBY's 84, 61 from LSO's 69, 79 from MAR's 137, 44 from MDG's 67, 55 from MLI's 87. Between three quarters and nine tenths of ledger rows map; the rest are placeholders with
+CIV's 167, 73 from CMR's 121, 67 from COD's 123, 52 from COG's 103, 45 from COM's 117, 49 from CPV's 140, 43 from DJI's 70, 58 from DZA's 111, 66 from EGY's 199, 66 from ETH's 97, 58 from GAB's 120, 81 from GHA's 175, 59 from GIN's 109, 46 from GMB's 75, 42 from GNQ's 67, 93 from KEN's 219, 43 from LBR's 71, 64 from LBY's 84, 61 from LSO's 69, 79 from MAR's 137, 44 from MDG's 67, 55 from MLI's 87, 77 from MOZ's 159. Between three quarters and nine tenths of ledger rows map; the rest are placeholders with
 no source, or real instruments the frame has no question for (a telecoms statute, a broadcasting
 transition), and those correctly stay on the ledger and out of the report.
 
 ## Remaining
 
-23 country units: MOZ, MRT, MUS,
+22 country units: MRT, MUS,
 MWI, NAM, NER, NGA, RWA, SDN, SEN, SLE, SOM, SSD, STP, SWZ, SYC, TCD, TGO, TUN, TZA, UGA, ZMB, ZWE.
 
 ## The loop, per unit
@@ -515,3 +515,28 @@ finding.** Birth registration at 89.5 per cent against death registration at abo
 *Mixed* cell, not two; mobile money volume growing 18.58 per cent while the distributor network fell
 46.34 per cent is another. In both cases the two numbers together say something neither says alone,
 which is what *Mixed*'s qualifying clause exists for.
+
+## What MOZ added, 2026-08-27
+
+**The commonest pre-lint defect on a thick unit is now a borrowed figure, not a semicolon.** All four
+defects here were the same shape: a number lifted from a ledger row that the cell does not map, cited
+to a slug that is therefore not on its `allowed` set - a rural-urban ratio quoted inside a schools
+cell, a penetration figure quoted inside a coverage-portal cell. The citation fixer cannot help,
+because the paragraph has no citation that covers the claim. **The rule is that a figure may only
+appear in a cell that maps the row it came from**; where the context genuinely needs it, add the row
+or drop the number. GHA's semicolon pattern did not fire once on this unit.
+
+**Where the state's own instrument records what the state has not done, the cell is stronger for
+carrying the omission verbatim.** Three cases here: the payments law's own notice sets a
+twenty-five-second availability ceiling while the instant-payment system carries 11,000 transfers a
+day against twenty-five million wallet accounts; the cyber security statute creates a fund that has
+no line in the budget passed weeks earlier; and the risk assessment rates nineteen of twenty-nine
+critical systems very high risk while naming no system, so it publishes a distribution without a
+register. In each case the gap is the finding.
+
+**A bilateral instrument another state drafted can be the only document describing a country's own
+architecture, and the cell should say so.** Mozambique's health information systems - the electronic
+medical record, the laboratory, surveillance and logistics systems and the data exchange behind them -
+are named in a United States memorandum the government signed, and no Mozambican document naming them
+is held. The cell maps the row and states that provenance in its own sentence, which is what stops the
+reader taking the architecture for a national plan.
