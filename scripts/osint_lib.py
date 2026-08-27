@@ -40,6 +40,12 @@ DATE = "%Y-%m-%d"
 # carries why, and why midnight rather than the end of the day.
 _INGEST_HEAD = re.compile(r"^##\s+(\d{4}-\d{2}-\d{2}(?: \d{2}:\d{2})?)\b")
 
+# `sweep_closed: 2026-08-26 11:49 · ingest_started: 2026-08-26 11:50`, one line under the run's
+# heading — usually with a blank line between, which is why this is matched against the file
+# rather than against the line immediately following. OSINT stamps it on every path that admits
+# anything to `raw/` (`wiki/reference.md` §6a, from 2026-08-26).
+_SWEEP_CLOSED = re.compile(r"^sweep_closed:\s*(\d{4}-\d{2}-\d{2}(?: \d{2}:\d{2})?)\b")
+
 
 def last_ingest() -> dt.datetime | None:
     """When OSINT's ingest last admitted anything to `raw/`, from `logs/ingested_log.md`.
@@ -60,63 +66,75 @@ def last_ingest() -> dt.datetime | None:
     return _newest_stamp(INGESTED_LOG, _INGEST_HEAD)
 
 
-# How long a quiet stretch has to be before it separates one ingest run from the next. A run is
-# a night's worth of slices written over several hours, so the gaps *inside* one are minutes: on
-# 2026-08-22/23 the widest was 75 minutes (04:05 to 05:20) and the run held 40-odd slices. The
-# gaps *between* runs are the hours OSINT is not sweeping - 9h46m between the 21st's run and the
-# 22nd's top-up, 14h20m between that top-up and the 22nd's nightly. Four hours sits well clear of
-# both, and the failure it courts is merging two runs, which reports an earlier start: stale
-# rather than false, which is the direction everything in this module errs in.
-INGEST_RUN_GAP = dt.timedelta(hours=4)
+def sweep_closed() -> dt.datetime | None:
+    """When collection stopped, as OSINT states it — `sweep_closed` in `logs/ingested_log.md`.
 
+    **This is the bulletin's *Last updated*, and it is now a fact rather than a derivation**
+    *(OSINT `notes-for-corpus.md` note 13, 2026-08-26, closing its own note 45)*. What a reader
+    is being told is *how recent is the material here*, and the defensible answer is the point
+    after which nothing more could have been caught. Corpus had no artefact recording that, so
+    it derived one — from the start of the newest ingest run, found by clustering headings — and
+    the derivation failed twice in three days in opposite directions. From 2026-08-26 every path
+    that admits anything to `raw/` stamps the moment itself, so there is nothing left to infer.
 
-def ingest_started() -> dt.datetime | None:
-    """When OSINT's most recent ingest run **began**, from `logs/ingested_log.md`.
+    **Retired with the derivation: `ingest_started()` and `INGEST_RUN_GAP`.** A run was the
+    newest cluster of headings with no gap wider than four hours, and the answer the earliest
+    heading in it. On 2026-08-25 an unbroken stretch from a 15:30 top-up into the 21:12 nightly
+    sweep had no gap that wide, so the walk merged them and answered 15:30 for material that
+    stopped moving at 22:57; on 2026-08-26 three runs separated by 3h04 merged the same way and
+    answered 08:04 for a page built on material collected to 12:20. Both are the same fault —
+    the clustering constant is a guess about OSINT's working day — and note 13 asks for it to go
+    rather than stand as a silent second answer.
 
-    **This is the bulletin's *Last updated*, because it is the moment collection stopped**
-    *(Bill, 2026-08-23)*. What a reader is being told is *how recent is the material here*, and
-    the defensible answer is the point after which nothing more could have been caught - the end of
-    the last sweep, `SWEEP-COUNTRY-DEEP` on a nightly cycle. Ingest is the step that follows
-    collection and reads what it staged, so **the start of ingest is the proxy for the end of
-    collection**, and the two are minutes apart: on 2026-08-22 the last country-deep batch closed
-    at 23:29 and the first slice ingested at 23:55.
+    **`last_cycle_close()` is kept beside this, and not as a fallback: the sweep-cycle path does
+    not stamp** *(2026-08-27, checked against the mirror)*. Note 13 says every path that admits
+    to `raw/` now carries the fields, and names `reference.md` §6a, `SWEEP-BULLETIN.md` and
+    `UPDATE-WIKI.md` — which is where the rule was written, and the cycle is not among them.
+    Every `@UPDATE-WIKI` and `SWEEP-BULLETIN` run since 2026-08-26 12:20 is stamped; the five
+    nightly-cycle slices of 2026-08-26 21:17 through 2026-08-27 03:25 are not. That is the path
+    that matters most to a nightly build, and on that night reading `sweep_closed` alone would
+    have answered 17:22 for material collected until after three in the morning. So
+    `bulletin.stamps_for()` takes the **later of this and the cycle's own `End`**, which is the
+    artefact the unstamped path does write. Both are stated facts about when collection stopped;
+    neither is derived. `notes-for-osint.md` note 49 asks OSINT to stamp the cycle path too, at
+    which point the close becomes redundant rather than wrong.
 
-    `last_ingest()` - the *newest* stamp - answers a different question and gets it wrong for
-    this one. Ingest of a night's catch runs for hours after collection has finished, so on
-    2026-08-23 it read 05:20 for material that stopped moving at 23:55 the evening before,
-    overstating the freshness of the page by five and a half hours. Nothing was collected in
-    those hours; they were spent writing up what already had been.
+    **The maximum is taken, not the newest run's own value**, and the difference is not
+    theoretical: where a run only drained a queue others staged, its `sweep_closed` is the newest
+    `retrieved:` across what it admitted, which can be days older than the run before it. That is
+    a true statement about *that* run's material and a false one about the page, which carries
+    every run's. The maximum is the point after which nothing in the base could have been caught,
+    which is what the byline claims.
 
-    A run is the newest cluster of headings with no gap longer than `INGEST_RUN_GAP` in it, and
-    the answer is the earliest heading in that cluster. Clustering also makes this the more
-    robust of the two readings: a single mistyped heading can only extend a run's tail, where
-    under `last_ingest()`'s maximum it became the answer outright - which is exactly what a
-    header mistyped `12:00` did to this byline on 2026-08-23.
-
-    Returns `None` on the same terms as everything else here: an absent mirror, a missing log or
-    nothing parseable, never a guess.
+    Returns `None` where the log carries no such line at all — a mirror synced before 2026-08-26
+    — and that is the only case the old readings are kept for. A file carrying some stamped runs
+    and an unstamped newest one says so on stderr and still answers from the stamped ones, which
+    understates freshness rather than overstating it.
     """
-    stamps = _stamps(INGESTED_LOG, _INGEST_HEAD)
-    if not stamps:
+    runs = _runs()
+    stamped = [closed for _, closed in runs if closed is not None]
+    if not stamped:
         return None
-    start = stamps[-1]
-    for newer, older in zip(stamps[-1:0:-1], stamps[-2::-1]):
-        if newer - older > INGEST_RUN_GAP:
-            break
-        start = older
-    return start
+    newest_head = max(head for head, _ in runs)
+    if any(head == newest_head and closed is None for head, closed in runs):
+        print(f"note: {os.path.basename(INGESTED_LOG)}'s newest heading "
+              f"({newest_head:%Y-%m-%d %H:%M}) carries no sweep_closed line - answering from "
+              f"the newest run that does, which understates freshness rather than overstating "
+              f"it", file=sys.stderr)
+    return max(stamped)
 
 
 def last_cycle_close() -> dt.datetime | None:
     """When a sweep cycle last closed, from the rotation table's `End` column.
 
     A few minutes after the ingest that ran inside it — 00:05 against 00:14 on 2026-08-21 — and
-    that is not crudeness, it is the fact `ingest_started()` approximates. **It is the bulletin's
-    *Last updated* where it can be read** *(2026-08-26)*, because Bill's 2026-08-23 ruling named
-    the end of the last sweep and this is that, where the start of ingest was only the proxy
-    available at the time. `bulletin.stamps_for()` carries the guards; `lint-osint-freshness.py`
-    reads it as one of three clocks; `osint-cycle-ready.py` reads the same table for its own
-    purposes and needs the whole row, not just the stamp.
+    that is not crudeness, it is the same fact recorded a step later. **It is half of the
+    bulletin's *Last updated*** *(2026-08-27)*: `sweep_closed()` is the other half, and
+    `bulletin.stamps_for()` takes whichever is later, because the cycle path does not stamp
+    `sweep_closed` and the two runs that do stamp it write no rotation row. Between them they
+    cover every path that admits to `raw/`; neither does alone. `lint-osint-freshness.py` reads
+    this as one of four clocks; `osint-cycle-ready.py` reads the same table for its own purposes
+    and needs the whole row, not just the stamp.
 
     Unguarded in two ways its callers must handle, both of which follow from this being a mirror.
     A table synced before the closing row was written returns an **older** close than the ingest
@@ -169,6 +187,47 @@ def _newest_stamp(path: str, pattern: re.Pattern) -> dt.datetime | None:
     ahead by another machine's clock from being thrown away."""
     stamps = _stamps(path, pattern)
     return stamps[-1] if stamps else None
+
+
+def _runs() -> list[tuple[dt.datetime, dt.datetime | None]]:
+    """Every believable ingest run in `ingested_log.md` as `(heading, sweep_closed | None)`.
+
+    Pairing is what `_stamps` cannot do, and it is needed for one thing only: to tell a log with
+    no `sweep_closed` anywhere (a mirror from before 2026-08-26) from one whose *newest* run
+    happens not to carry it. The first is the fallback case; the second is a path OSINT has not
+    covered, and the two want different things said about them.
+
+    A `sweep_closed` line belongs to the heading above it, so the file is walked in order rather
+    than scanned. Both stamps are filtered against the clock on the same terms as everywhere else
+    here, and a `sweep_closed` later than its own heading is dropped: collection cannot have
+    stopped after the ingest that read it, so that pairing is a typo rather than a fact.
+    """
+    if not os.path.exists(INGESTED_LOG):
+        return []
+    horizon = dt.datetime.now() + SKEW
+    runs: list[tuple[dt.datetime, dt.datetime | None]] = []
+    head: dt.datetime | None = None
+    with open(INGESTED_LOG, encoding="utf-8") as fh:
+        for line in fh:
+            m = _INGEST_HEAD.match(line)
+            if m:
+                when = _parse(m.group(1))
+                head = when if when is not None and when <= horizon else None
+                if head is not None:
+                    runs.append((head, None))
+                continue
+            m = _SWEEP_CLOSED.match(line)
+            if m and head is not None and runs and runs[-1][1] is None:
+                closed = _parse(m.group(1))
+                if closed is None or closed > horizon:
+                    continue
+                if closed > head + SKEW:
+                    print(f"note: {os.path.basename(INGESTED_LOG)} pairs sweep_closed "
+                          f"{closed:%Y-%m-%d %H:%M} with an earlier heading "
+                          f"{head:%Y-%m-%d %H:%M} - ignored", file=sys.stderr)
+                    continue
+                runs[-1] = (head, closed)
+    return runs
 
 
 def _stamps(path: str, pattern: re.Pattern) -> list[dt.datetime]:
@@ -231,6 +290,6 @@ def _parse(text: str) -> dt.datetime | None:
 
 if __name__ == "__main__":
     print(f"mirror        {MIRROR}")
-    print(f"ingest began  {ingest_started() or '— not readable'}")
+    print(f"sweep closed  {sweep_closed() or '— not readable'}")
     print(f"last ingest   {last_ingest() or '— not readable'}")
     print(f"last close    {last_cycle_close() or '— not readable'}")

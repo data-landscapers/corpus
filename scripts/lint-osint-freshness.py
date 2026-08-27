@@ -19,13 +19,17 @@ path `C:\OSINT`, `O:\` is not mapped here at all, and `scripts/.workroot/{raw,wi
 pointing into `C:\OSINT` are pointing at the mirror and are correct. `osint_lib.MIRROR` is the
 one constant that says so (`CORPUS_OSINT_MIRROR` overrides).
 
-**Three clocks, and the newest of them is the answer.** None is authoritative alone.
+**Four clocks, and the newest of them is the answer.** None is authoritative alone.
 
-  1. **`logs/ingested_log.md`** — when `raw/` last took anything in. The moment the corpus
-     itself moved, and already the bulletin's *last updated* byline.
+  1. **`logs/ingested_log.md`'s newest heading** — when `raw/` last took anything in. The moment
+     the corpus itself moved.
+  1a. **`sweep_closed` in the same file** — when collection last stopped, as OSINT states it
+     rather than as Corpus infers it *(from 2026-08-26)*. Half of the bulletin's byline, and
+     read here as its own line because a mirror where the headings move and the stated closes
+     do not is a mirror where OSINT has stopped stamping, which no single reading would show.
   2. **The rotation table's `End`** — when a cycle last closed. Cruder, a few minutes later
-     than the ingest inside it, and a second opinion rather than a fallback. This is what
-     finally gives `osint_lib.last_cycle_close()` a caller.
+     than the ingest inside it, and the other half of the byline: the nightly cycle writes no
+     `sweep_closed`, and the two runs that do write no rotation row.
   3. **The mirror's `HEAD` commit date** — stamped by OSINT's clock at commit time and carried
      across by the sync, so it moves on *every* OSINT commit rather than only on a cycle. The
      tightest of the three, and the reading-side analogue of the `git -C O:\ rev-parse HEAD`
@@ -143,6 +147,9 @@ def main() -> int:
     now = dt.datetime.now()
     clocks = {
         "last ingest": osint_lib.last_ingest(),
+        # The two halves of the bulletin's byline, read separately here because a mirror where
+        # one of them has stopped moving and the other has not is worth seeing as two lines.
+        "last sweep close": osint_lib.sweep_closed(),
         "last close": osint_lib.last_cycle_close(),
         "mirror HEAD": head_committed(),
     }

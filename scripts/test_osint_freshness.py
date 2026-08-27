@@ -187,48 +187,68 @@ def stamp_cases() -> int:
     return failures, len(cases)
 
 
-def heads(*hours_ago: float) -> str:
-    """An ingest log of nothing but headings, newest first as OSINT writes it."""
-    return "".join(f"## {stamp(h)} (ingest Phase A slice {n})" + chr(10) + chr(10)
-                   for n, h in enumerate(sorted(hours_ago)))
+def heads(*runs) -> str:
+    """An ingest log, newest first as OSINT writes it.
+
+    Each argument is either `hours_ago` for an unstamped run, or `(hours_ago, closed_hours_ago)`
+    for one carrying the `sweep_closed` line OSINT has written under every `@UPDATE-WIKI` and
+    `SWEEP-BULLETIN` heading since 2026-08-26. The blank line between heading and line is there
+    because the mirror has one, and a reader that only looked at the very next line would find
+    nothing on the real file."""
+    out = []
+    for n, item in enumerate(sorted(runs, key=lambda r: r[0] if isinstance(r, tuple) else r,
+                                    reverse=True)):
+        head, closed = item if isinstance(item, tuple) else (item, None)
+        out.append(f"## {stamp(head)} (ingest Phase A slice {n})" + chr(10) + chr(10))
+        if closed is not None:
+            out.append(f"sweep_closed: {stamp(closed)} " + chr(183) +
+                       f" ingest_started: {stamp(head)}" + chr(10) + chr(10))
+    return "".join(out)
 
 
-def run_start_cases() -> int:
-    """`ingest_started()` is the bulletin's byline: when collection stopped.
+def sweep_closed_cases() -> int:
+    """`sweep_closed()` is the bulletin's byline: when collection stopped, as OSINT states it.
 
-    Bill, 2026-08-23. Ingest reads what the night's sweeps staged, so its **start** bounds
-    collection, and it runs on for hours afterwards writing up a catch that has already stopped
-    growing. The cases below are the three ways that reading can go wrong: taking the end of the
-    run, taking the start of a run that is not the current one, and letting one bad heading move
-    the answer."""
+    It replaced a derivation on 2026-08-27 (`notes-for-corpus.md` note 13). Corpus used to find
+    the newest ingest *run* by clustering headings with no gap wider than four hours and take
+    its earliest heading, and that failed twice in three days in opposite directions — merging a
+    top-up into a nightly sweep, then merging three morning runs. There is nothing left to
+    infer, so what these cases guard is the reading itself: the maximum rather than the newest
+    run's own value, the mixed file, and the absence that is the only case a fallback is kept
+    for."""
     failures = 0
     saved = osint_lib.INGESTED_LOG
-    tmp = Path(tempfile.mkdtemp(prefix="osint-run-test-"))
+    tmp = Path(tempfile.mkdtemp(prefix="osint-closed-test-"))
     try:
         (tmp / "logs").mkdir()
         osint_lib.INGESTED_LOG = str(tmp / "logs" / "ingested_log.md")
         log = Path(osint_lib.INGESTED_LOG)
 
-        # A night's run: slices over five and a half hours, the widest internal gap 75 minutes.
-        night = (7.5, 7.0, 6.5, 6.4, 6.0, 5.5, 4.0, 2.75)
         cases: list[tuple[str, str, str | None]] = [
-            ("the start of the run, not its newest stamp",
-             heads(*night), stamp(7.5)),
-            ("a 75-minute gap inside a run does not split it",
-             heads(6.0, 4.5), stamp(6.0)),
-            ("yesterday's run is a different run",
-             heads(30.0, 29.0, *night), stamp(7.5)),
-            ("a mistyped late heading extends the tail and cannot move the start",
-             heads(*night, 3.1), stamp(7.5)),
-            ("one heading is a run of one",
-             heads(3.0), stamp(3.0)),
+            ("the newest run's stated close",
+             heads((6.0, 6.2), (2.0, 2.1)), stamp(2.1)),
+            # A run draining a queue others staged stamps the newest `retrieved:` across what it
+            # admitted, which can be older than the run before it. True of that run, false of
+            # the page, which carries every run's material.
+            ("a queue-drain cannot walk the byline backwards",
+             heads((6.0, 6.2), (2.0, 200.0)), stamp(6.2)),
+            ("an unstamped newest run answers from the newest stamped one",
+             heads((6.0, 6.2), 2.0), stamp(6.2)),
+            ("a log with no sweep_closed anywhere is None, which is the fallback case",
+             heads(6.0, 2.0), None),
             ("nothing readable is None, not today",
              "", None),
+            # The line belongs to the heading above it. A `sweep_closed` later than its own
+            # heading says collection stopped after the ingest that read it, which is a typo.
+            ("a close later than its own heading is refused",
+             heads((6.0, 6.2), (2.0, 1.0)), stamp(6.2)),
+            ("a close in the future is refused with the run that carries it",
+             heads((6.0, 6.2), (2.0, -48.0)), stamp(6.2)),
         ]
         for name, text, expected in cases:
             log.write_text(text, encoding="utf-8")
             with redirect_stdout(io.StringIO()), redirect_stderr(io.StringIO()):
-                got = osint_lib.ingest_started()
+                got = osint_lib.sweep_closed()
             got_s = got.strftime(TS) if got else None
             ok = got_s == expected
             failures += not ok
@@ -285,7 +305,7 @@ def run() -> int:
          of.WATERMARK, of.head_committed) = saved
 
     stamp_failures, stamp_ran = stamp_cases()
-    start_failures, start_ran = run_start_cases()
+    start_failures, start_ran = sweep_closed_cases()
     failures += stamp_failures + start_failures
     # Counted off the case lists, not added up by hand. It read `len(CASES) + 4 + 6` until
     # 2026-08-24, when three cases were added to `stamp_cases()` and the run went on reporting

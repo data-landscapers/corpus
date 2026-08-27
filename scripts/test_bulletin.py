@@ -99,16 +99,17 @@ class Bench:
                  for r in rows}
         bulletin.save_store(store)
 
-    def stamp(self, when: str | None, started: str | None = None,
+    def stamp(self, when: str | None, swept: str | None = None,
               closed: str | None = None) -> None:
         """Pin OSINT's three clocks. `when` is the newest ingest stamp, which becomes `compiled:`;
-        `started` is when that run began and defaults to `when`; `closed` is the sweep cycle's
-        own close, which is the byline where it is readable and usable. `None` is unreadable —
-        for `when` that is an unreadable mirror and nothing is readable, and `closed` defaults to
-        it, so a case that pins only the ingest clocks is pinning the fallback path."""
+        `swept` is OSINT's stated `sweep_closed`; `closed` is the sweep cycle's own `End`. The
+        byline is the later of the last two. `None` is unreadable — for `when` that is an
+        unreadable mirror and nothing is readable, and a case pinning neither `swept` nor
+        `closed` is pinning the last fallback, where the newest ingest heading stands as an
+        upper bound."""
         parse = lambda t: dt.datetime.strptime(t, "%Y-%m-%d %H:%M") if t else None
         bulletin.osint_lib.last_ingest = lambda: parse(when)
-        bulletin.osint_lib.ingest_started = lambda: parse(started or when)
+        bulletin.osint_lib.sweep_closed = lambda: parse(swept)
         bulletin.osint_lib.last_cycle_close = lambda: parse(closed)
 
     def assemble(self) -> str:
@@ -392,21 +393,20 @@ def case_every_anchor_in_the_document_resolves(tmp):
 
 
 def case_the_byline_is_when_collection_stopped_not_when_ingest_finished(tmp):
-    """*Last updated* names the start of the ingest run, and `compiled:` names its end.
+    """*Last updated* names when collection stopped, and `compiled:` names the newest admission.
 
     Bill, 2026-08-23: the time on the bulletin should be the moment collection stopped — the end
-    of the night's last sweep — and the start of ingest is the proxy for it, since ingest reads
-    what collection staged. The newest ingest stamp had been the byline, and it runs on for hours
-    after the sweep has finished: on 2026-08-23 it said 05:20 of material that stopped moving at
-    23:55 the evening before, which overstates the page's freshness by five and a half hours.
-    Both facts are kept, because the edition picker asks the other question — how late is the
-    newest thing in this cut."""
+    of the night's last sweep. The newest ingest stamp had been the byline, and ingest runs on
+    for hours after the sweep has finished: on 2026-08-23 it said 05:20 of material that stopped
+    moving at 23:55 the evening before, which overstates the page's freshness by five and a half
+    hours. Both facts are kept, because the edition picker asks the other question — how late is
+    the newest thing in this cut."""
     b = Bench(tmp, [row("only", TODAY, "KEN", "gov.policy")])
-    b.stamp("2026-05-14 05:20", started="2026-05-13 23:55")
+    b.stamp("2026-05-14 05:20", swept="2026-05-13 23:55")
     b.assemble()
     text = b.document()
     assert "Last updated 13-05-2026 at 23:55" in text, \
-        f"the byline did not take the start of the ingest run:\n{text[:400]}"
+        f"the byline did not take OSINT's stated close of collection:\n{text[:400]}"
     assert "collected_to: 2026-05-13 23:55" in text, "collected_to: is not on the file"
     assert "compiled: 2026-05-14 05:20" in text, \
         "compiled: lost the newest ingest, which is what the edition picker shows"
@@ -418,50 +418,63 @@ def case_a_run_that_only_ingests_later_does_not_move_the_byline(tmp):
     The stamps move apart, `compiled:` follows the newest and the byline does not move at all —
     which is the whole point of separating them. Nothing was collected in those hours."""
     b = Bench(tmp, [row("only", TODAY, "KEN", "gov.policy")])
-    b.stamp("2026-05-14 02:00", started="2026-05-13 23:55")
+    b.stamp("2026-05-14 02:00", swept="2026-05-13 23:55")
     b.assemble()
-    b.stamp("2026-05-14 05:20", started="2026-05-13 23:55")
+    b.stamp("2026-05-14 05:20", swept="2026-05-13 23:55")
     b.assemble()
     text = b.document()
     assert "Last updated 13-05-2026 at 23:55" in text, "the byline moved on a later ingest"
     assert "compiled: 2026-05-14 05:20" in text, "compiled: did not follow the newest ingest"
 
 
-def case_the_sweep_cycles_own_close_is_the_byline_where_it_can_be_read(tmp):
-    """The proxy gives way to the fact it was standing in for.
+def case_sweep_closed_outranks_a_cycle_close_it_is_newer_than(tmp):
+    """The top-up case, which is what broke the derivation this replaced.
 
-    Bill's ruling named the end of the last sweep. `ingest_started()` approximated it by walking
-    back through ingest stamps until a four-hour gap, and on 2026-08-25 there was no such gap:
-    an unbroken chain from a 15:30 bulletin top-up into the 21:12 nightly sweep made the whole
-    day one run and dated the page 15:30, five and a half hours stale. The rotation table's
-    `End` is the answer itself, so where it is readable and passes its guards it wins, and
-    `compiled:` is untouched — it answers the other question."""
+    On 2026-08-26 the cycle had closed at 22:57 the night before and three later runs — two
+    `@UPDATE-WIKI` ingests and a bulletin top-up — collected on into the morning. The cycle
+    writes no rotation row for any of them, so its `End` is yesterday's, and the byline has to
+    come from the runs that did the collecting."""
     b = Bench(tmp, [row("only", TODAY, "KEN", "gov.policy")])
-    b.stamp("2026-05-14 05:20", started="2026-05-13 15:30", closed="2026-05-13 22:57")
+    b.stamp("2026-05-14 12:20", swept="2026-05-14 11:49", closed="2026-05-13 22:57")
     out = b.assemble()
     text = b.document()
-    assert "Last updated 13-05-2026 at 22:57" in text, \
-        f"the byline did not take the sweep cycle's close:\n{text[:400]}"
-    assert "collected_to: 2026-05-13 22:57" in text, "collected_to: is not the close"
-    assert "compiled: 2026-05-14 05:20" in text, "compiled: lost the newest ingest"
-    assert "sweep cycle close" in out, \
-        f"the run did not say which clock it used:\n{out}"
+    assert "Last updated 14-05-2026 at 11:49" in text, \
+        f"yesterday's cycle close outranked today's stated sweep close:\n{text[:400]}"
+    assert "compiled: 2026-05-14 12:20" in text, "compiled: lost the newest ingest"
+    assert "sweep_closed" in out, f"the run did not say which clock it used:\n{out}"
 
 
-def case_a_close_older_than_the_ingest_run_is_refused(tmp):
-    """A stale rotation table is not a later fact.
+def case_a_cycle_close_carries_the_path_that_does_not_stamp(tmp):
+    """The nightly sweep writes no `sweep_closed`, and its own `End` is the later fact.
 
-    The mirror can sync between the ingest headings being written and the cycle's closing row,
-    and a run that took the close on trust would date the page to the previous cycle while that
-    night's catch sat on it. Older than the start of the newest ingest run means unusable, and
-    the proxy carries the byline."""
+    Checked against the mirror on 2026-08-27: every `@UPDATE-WIKI` and `SWEEP-BULLETIN` run
+    since 2026-08-26 12:20 carries the line and the five nightly-cycle slices of that night do
+    not. Reading `sweep_closed` alone would have dated a page built on material collected past
+    three in the morning to the previous afternoon. The two artefacts are silent about different
+    runs, so the byline takes whichever is later and names it."""
     b = Bench(tmp, [row("only", TODAY, "KEN", "gov.policy")])
-    b.stamp("2026-05-14 05:20", started="2026-05-13 23:55", closed="2026-05-12 22:57")
+    b.stamp("2026-05-14 03:25", swept="2026-05-13 17:22", closed="2026-05-14 03:55")
     out = b.assemble()
     text = b.document()
-    assert "Last updated 13-05-2026 at 23:55" in text, \
-        f"a stale close reached the byline:\n{text[:400]}"
-    assert "ingest start" in out, f"the run did not name the fallback clock:\n{out}"
+    assert "Last updated 14-05-2026 at 03:55" in text, \
+        f"the unstamped cycle's own close did not reach the byline:\n{text[:400]}"
+    assert "collected_to: 2026-05-14 03:55" in text, "collected_to: is not the close"
+    assert "sweep cycle close" in out, f"the run did not name the clock it used:\n{out}"
+
+
+def case_a_mirror_with_no_stated_close_falls_back_and_says_so(tmp):
+    """A mirror synced before 2026-08-26 stamps nothing, and the fallback is named, not silent.
+
+    The newest ingest heading is an upper bound — collection for it stopped at or before it — so
+    this is the one reading here that can overstate. It is the tightest statement such a mirror
+    supports, and the run has to say that is what it used."""
+    b = Bench(tmp, [row("only", TODAY, "KEN", "gov.policy")])
+    b.stamp("2026-05-14 05:20")
+    out = b.assemble()
+    text = b.document()
+    assert "Last updated 14-05-2026 at 05:20" in text, \
+        f"the fallback did not reach the byline:\n{text[:400]}"
+    assert "upper bound" in out, f"the run did not name the fallback as a bound:\n{out}"
 
 
 def case_a_close_in_the_future_is_refused(tmp):
@@ -471,12 +484,12 @@ def case_a_close_in_the_future_is_refused(tmp):
     what a single mistyped one poisons. There is only one closing row, so the same guard has to
     sit at the caller, or a fat-fingered year becomes a claim that collection stopped in 2099."""
     b = Bench(tmp, [row("only", TODAY, "KEN", "gov.policy")])
-    b.stamp("2026-05-14 05:20", started="2026-05-13 23:55", closed="2099-01-01 00:00")
+    b.stamp("2026-05-14 05:20", swept="2026-05-13 23:55", closed="2099-01-01 00:00")
     out = b.assemble()
     text = b.document()
     assert "Last updated 13-05-2026 at 23:55" in text, \
         f"a future close reached the byline:\n{text[:400]}"
-    assert "ingest start" in out, f"the run did not name the fallback clock:\n{out}"
+    assert "sweep_closed" in out, f"the run did not name the clock it used:\n{out}"
 
 
 CASES = [
@@ -502,10 +515,12 @@ CASES = [
      case_the_byline_is_when_collection_stopped_not_when_ingest_finished),
     ("a later ingest of the same catch does not move the byline",
      case_a_run_that_only_ingests_later_does_not_move_the_byline),
-    ("the sweep cycle's own close is the byline where it can be read",
-     case_the_sweep_cycles_own_close_is_the_byline_where_it_can_be_read),
-    ("a close older than the ingest run is refused",
-     case_a_close_older_than_the_ingest_run_is_refused),
+    ("sweep_closed outranks a cycle close it is newer than",
+     case_sweep_closed_outranks_a_cycle_close_it_is_newer_than),
+    ("a cycle close carries the path that does not stamp",
+     case_a_cycle_close_carries_the_path_that_does_not_stamp),
+    ("a mirror with no stated close falls back and says so",
+     case_a_mirror_with_no_stated_close_falls_back_and_says_so),
     ("a close in the future is refused",
      case_a_close_in_the_future_is_refused),
 ]
@@ -520,7 +535,8 @@ def run() -> int:
         bench_saved = {k: getattr(bulletin, k)
                        for k in ("CORPUS", "CATALOGUE", "STORE", "DOCUMENT", "BULLETINS", "RAW")}
         ingest_saved = (bulletin.osint_lib.last_ingest,
-                        bulletin.osint_lib.ingest_started)
+                        bulletin.osint_lib.sweep_closed,
+                        bulletin.osint_lib.last_cycle_close)
         try:
             case(tmp)
             print(f"  ok   {name}")
@@ -532,7 +548,8 @@ def run() -> int:
             for k, v in bench_saved.items():
                 setattr(bulletin, k, v)
             (bulletin.osint_lib.last_ingest,
-             bulletin.osint_lib.ingest_started) = ingest_saved
+             bulletin.osint_lib.sweep_closed,
+             bulletin.osint_lib.last_cycle_close) = ingest_saved
             shutil.rmtree(tmp, ignore_errors=True)
 
     print()
