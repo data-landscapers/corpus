@@ -3,10 +3,10 @@ title: Mozambique — progress report, August 2025 – August 2026
 compiled: 2026-08-27
 period: 2025-08-01 to 2026-08-27
 place: MOZ
-ledger_rows: 160
+ledger_rows: 162
 not_held: 19
 indicators: 121
-record: 1bf2fee96e08
+record: 62b403f09398
 ---
 
 # Mozambique: progress report, August 2025 – August 2026

@@ -3,9 +3,9 @@ title: Uganda — monthly update, July – August 2026
 compiled: 2026-08-27
 period: 2026-07-01 to 2026-08-27
 place: UGA
-ledger_rows: 75
+ledger_rows: 81
 not_held: 16
-record: 2b833992dbfd
+record: 61e80b008e38
 ---
 
 # Uganda: monthly update, July – August 2026
@@ -84,6 +84,8 @@ The digital acceleration project is [named as funder of the Tororo, Mbarara and 
 The regulator published sector figures on 2 July: [about 47 million active SIM subscriptions and smartphone usage of 20 million devices, up from 18 million](https://itweb.africa/article/uganda-outlines-next-ict-goals/KzQenqjyXWdMZd2r). The regulator's own quarterly report for the period to 30 September 2025 recorded 45.7 million active mobile subscriptions; both sets are compiled from licensees' submissions.
 
 On 5 August the network operator with the largest published footprint released its 2025 sustainability report, recording for the year to 31 December 2025 [24.2 million subscribers, population coverage of 96.2% 3G, 88.6% 4G and 19% 5G, 27,037 km of fibre and 45% of network sites on solar or hydro](https://www.mtn.co.ug/wp-content/uploads/sites/7/2026/08/MTN-Uganda-Sustainability-Report-2025-Digital-1.pdf). These are the company's own unaudited figures and the base holds no prior-year comparator.
+
+The largest mobile operator [extended its group-level Starlink partnership to Uganda](https://techafricanews.com/2026/08/27/mtn-uganda-starlink-expand-connectivity-remote-areas/) to bring satellite-backed connectivity to remote areas. It is distinct from the satellite operator's own licence, and no coverage target, site count or tariff is given.
 <!-- /narrative -->
 ### Data Storage
 
@@ -139,6 +141,8 @@ Electronic government procurement reached [136 entities onboarded with version 2
 Two further e-services launched on 12 August under the same government network programme: [a teacher-training platform with more than 6,600 teachers enrolled, and a case-management system for the Human Rights Commission](https://techafricanews.com/2026/08/12/uganda-launches-two-new-e-services-to-digitise-teacher-training-human-rights-cases/). Neither carries a published retention rule or data-protection assessment, which is the sharper omission for a system holding complaint records.
 
 Upstream of any of it, German cooperation [tendered a consultancy on 5 August to identify and prepare bankable digital public infrastructure projects across Uganda, Kenya and Tanzania](https://www.gtai.de/de/trade/tansania/ausschreibungen-projekte/consulting-digitale-oeffentliche-infrastrukturprojekte-ostafrika--2018684) — identity, data exchange, payments and e-government — under the European programme with the East African Community. It is a procurement notice: it fixes the consultancy and nothing about any project it may produce, and neither its value nor its duration is stated.
+
+The public procurement and disposal authority [partnered with a budget-advocacy group to strengthen monitoring of government contracts](https://ubc.go.ug/2026/08/21/ppda-partners-with-csbag-to-strengthen-monitoring-of-government-contracts/). No scope, dataset or first published finding accompanies the announcement.
 <!-- /narrative -->
 
 ## Technology
@@ -152,6 +156,8 @@ A profession got there before the state did. The medical and dental practitioner
 
 
 What developers here build on is being decided ahead of the strategy. A wire report records a Ugandan developer [building a 31-language model on a Chinese open-weight model rather than an American one, largely on cost](https://www.asiae.co.kr/en/article/2026080708231865765), against a claim in the same report that Chinese open-weight models took 17.1% of global downloads over the year to 15.8% for American ones. Neither figure is independently held here, and no licence terms or evaluation of the model are on record.
+
+Crop-disease and precision-agriculture tools are [being piloted under GAINAfrica](https://aimnews.org/2026/08/25/europa-introduz-inteligencia-artificial-generativa-para-transformar-africa/), a Horizon Europe project led by La Sapienza in Rome and running in five African countries. No user count, evaluation or end date is published.
 <!-- /narrative -->
 ### Innovation ecosystem
 
@@ -165,6 +171,8 @@ Three innovation programmes were opened or closed. The ICT institute [launched t
 
 <!-- narrative: capacity--capacity-training -->
 The state ICT institute reports [48,448 people trained in the financial year: 36,332 citizens, 1,932 government officers, 1,207 educators and instructors and 8,977 in immersive and emerging-technology skills](https://techafricanews.com/2026/08/07/uict-trains-more-than-48000-ugandans-in-digital-and-emerging-technologies/), with 65 certified trainers produced. The figures are self-reported and unaudited, and [fewer than 4% of those trained were government officers](https://techafricanews.com/2026/08/07/uict-trains-more-than-48000-ugandans-in-digital-and-emerging-technologies/).
+
+The IT authority [invited expressions of interest for consultancy services to develop a National Digital Skills and Competence Framework](https://www.nita.go.ug/sites/default/files/2026-08/REOI%20-%20Digital%20Skills%20Framework_0.pdf). Nothing is yet awarded, and no scope value or delivery date is stated.
 <!-- /narrative -->
 
 ## Inclusion
@@ -177,6 +185,8 @@ At a readiness inspection on 27 July, [six of nineteen planned one-stop service 
 An [ICT hub for persons with disabilities was commissioned in Kasese](https://nilepost.co.ug/news/360591/new-ict-hub-in-kasese-to-empower-persons-with-disabilities-with-digital-skills), reported on 1 August, offering computer literacy, vocational skills and digital-empowerment programmes and open to the wider community. No commitment value was published, so the base carries no finance record for it.
 
 The commercial route to a connected device is credit. Buy-now-pay-later schemes run by five providers [put smartphones in the hands of more than 500,000 Ugandans in a year, against about 22% of Ugandans using mobile internet despite 96% network coverage, with financed devices costing 30 to 50% more than the cash price](https://pctechmag.com/2026/08/can-device-financing-solve-the-problem-of-smartphone-penetration/). It is a trade analysis rather than a regulator series, and no default, repossession or total-cost-of-credit figure is published for the schemes.
+
+A six-year donor digital-inclusion programme [ended, with stakeholders urging the government to take over what it was doing](https://www.pulse.ug/story/uncdf-digital-inclusion-uganda-government-takeover-2026082616160487381). No successor instrument, budget line or transfer of assets is on file, which makes the closure a stated exposure rather than an inference.
 <!-- /narrative -->
 ### Digital divides
 

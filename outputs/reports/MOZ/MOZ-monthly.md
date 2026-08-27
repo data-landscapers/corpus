@@ -3,9 +3,9 @@ title: Mozambique — monthly update, July – August 2026
 compiled: 2026-08-27
 period: 2026-07-01 to 2026-08-27
 place: MOZ
-ledger_rows: 73
+ledger_rows: 76
 not_held: 19
-record: 7f7709b71899
+record: 7d08e56be973
 ---
 
 # Mozambique: monthly update, July – August 2026
@@ -37,6 +37,8 @@ Beyond the Constitutional Council ruling, the month's governance record is the i
 On 28 July the communications minister listed cloud-computing and radio-centre regulations alongside the two 2026 statutes as mandatory for operators of critical infrastructure ([ministerial account](https://clubofmozambique.com/news/mozambique-digital-infrastructure-is-as-strategic-as-roads-and-ports-americo-muchanga/)).
 
 In August the institute set out what is still missing and what is coming. Its board chairman [said the country has no dedicated artificial-intelligence legislation, and that an Online Copyright Protection Act is in drafting for next year](https://360mozambique.com/innovation/tech/intic-drafts-copyright-and-ai-legislation-to-protect-digital-creators/), naming authorship of artificial-intelligence output and liability for artificial-intelligence training as open questions no law here answers. The absence of an artificial-intelligence statute is now recorded as a gap; the copyright bill has no draft text, scope or introduction date behind it.
+
+A new Telecommunications and Scarce Resources Licensing Regulation, adopted by decree, [lets the regulator convert operators' fines into universal-service obligations](https://www.agenceecofin.com/actualites-numerique/2608-141049-mozambique-les-amendes-telecoms-financent-desormais-l-inclusion-numerique) â€” turning a penalty into a coverage commitment. No decree number, entry-into-force date or first conversion is on file.
 <!-- /narrative -->
 ### Data protection
 
@@ -74,6 +76,8 @@ The incumbent operator's ownership is in play. The government has [formed a tech
 
 
 The ministry put numbers on how far the connecting has got and how far it is meant to go: [149 localities and 418 schools connected, against a target of at least 300 localities, up to 4,000 schools and around 10,000 new 4G and 5G access points](https://www.agenceecofin.com/actualites-numerique/1808-140924-inclusion-numerique-le-mozambique-veut-connecter-300-localites-aux-services-telecoms). Both ends are the ministry's own and no completion date is given, which leaves a target without a deadline against a rural access rate the regulator itself puts at a quarter of the urban one.
+
+The government [set January 2027 as its target for identifying a new strategic partner for the state operator](https://360mozambique.com/business/companies/mozambique-seeks-strategic-investor-for-tmcel-by-january-2027/), with the transaction to be finalised after that; no valuation, stake size or bidder is named.
 <!-- /narrative -->
 ### Data Storage
 
@@ -175,6 +179,8 @@ The central bank's Financial Inclusion Report 2025, reported on 24 July, counted
 August added the price side of the same picture. A standard data package [fell from 9.4% of monthly gross national income per head in 2022 to 2.67% in March 2026](https://www.oeconomico.com/mocambique-cria-mapa-nacional-da-banda-larga-para-orientar-investimento-e-reduzir-assimetrias-digitais/), on World Bank Digital Acceleration Project figures released with the coverage map. The basket behind the standard package is not defined in the record held.
 
 What none of these measures reaches is what the money does. A study of 900 households published on 7 August finds that [mobile money improves household welfare through active use rather than account ownership, reducing reliance on own food production and strengthening resilience through remittances, with women gaining financial autonomy and young people using it to stabilise consumption](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0343349). It is a single academic study of a sample, not a national series, and it is the only evidence of outcome the base holds against the access counts above.
+
+A commercial bank [opened its mobile banking application to customers without consuming their mobile data balances or packages](https://360mozambique.com/innovation/tech/millennium-bim-offers-zero-data-access-to-smart-izi-banking-app/). Zero-rating a single private application raises a net-neutrality question the base holds no ruling on, and no user count or operator agreement is published behind it.
 <!-- /narrative -->
 ### Digital divides
 
@@ -190,6 +196,8 @@ The funding aimed at those gaps shrank in the same window. An implementing partn
 
 <!-- narrative: data--data-statistics -->
 The statistics institute opened enumerator training on 27 July for a census pilot running 1-15 August, testing procedures for a 2027 census it states will be the first run entirely in digital format ([training account](https://jornalnoticias.co.mz/destaque/mais-de-200-jovens-recebem-formacao-para-o-censo-piloto/)).
+
+The digital system intended for the 2027 census [failed in testing](https://www.diarioeconomico.co.mz/2026/08/22/desenvolvimento-2/ine-quer-melhorar-sistema-digital-do-censo-de-2027-apos-falhas-nos-testes/), and the statistics institute's president announced on 21 August 2026 that it is to be improved. That is a delivery risk stated by the issuing institute itself; no revised specification, retest date or fallback accompanies it.
 <!-- /narrative -->
 ### Use of satellite data
 

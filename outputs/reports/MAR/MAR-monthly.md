@@ -3,9 +3,9 @@ title: Morocco — monthly update, July – August 2026
 compiled: 2026-08-27
 period: 2026-07-01 to 2026-08-27
 place: MAR
-ledger_rows: 44
+ledger_rows: 46
 not_held: 17
-record: ce8f072b516c
+record: 1a6a13b42c5f
 ---
 
 # Morocco: monthly update, July – August 2026
@@ -103,6 +103,8 @@ A national water digital twin was described publicly on 28 July, to rest on a so
 
 
 A platform already carrying national data went under inspection instead. The health ministry [put its national health-data platform through a security and performance audit running from July to September, covering infrastructure, application, database and cybersecurity on a 170,000 dirham budget](https://santemag.ma/sante-numerique-le-msps-passe-sa-plateforme-nationale-dhis2-au-crible/), with no cyberattack or breach cited as the trigger. No findings are published.
+
+Morocco [promulgated the OECD multilateral competent authority agreement on the exchange of country-by-country reports by dahir 1.26.72 of 28 July 2026](https://barlamane.com/fr/le-maroc-promulgue-laccord-de-locde-sur-lechange-des-declarations-pays-par-pays-et-approuve-deux-conventions-fiscales-avec-le-burundi-et-le-tchad/), ending seven years of parliamentary blockage since signature. The first exchange partners and the start date are not on file.
 <!-- /narrative -->
 ### Digital Identity and CRVS
 
@@ -141,6 +143,11 @@ The one artificial-intelligence figure to move in the window is a ranking rather
 
 
 The institutional side did move. Four public-interest institutes [were established by publication in the Official Gazette, covering artificial-intelligence research and sovereign systems, education, industrial automation and smart cities](https://en.7news.ma/morocco-ai-institutes/), under the national digital and artificial-intelligence strategies. No budget, staffing or opening date is stated for any of them.
+<!-- /narrative -->
+### ICT Industry
+
+<!-- narrative: technology--tech-industry -->
+The industry and trade ministry [added video games to the innovation funding programme](https://en.7news.ma/morocco-adds-video-games-to-innovation-funding-programme/), so companies in the sector can now apply for government funding to develop and test new games. No allocation, ceiling or first award has been published.
 <!-- /narrative -->
 
 ## Capacity

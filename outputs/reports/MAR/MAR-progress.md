@@ -3,10 +3,10 @@ title: Morocco — progress report, August 2025 – August 2026
 compiled: 2026-08-27
 period: 2025-08-01 to 2026-08-27
 place: MAR
-ledger_rows: 137
+ledger_rows: 139
 not_held: 17
 indicators: 121
-record: 6d153fc6a71e
+record: 5951ac99e97b
 ---
 
 # Morocco: progress report, August 2025 – August 2026

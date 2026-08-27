@@ -3,10 +3,10 @@ title: Uganda — progress report, August 2025 – August 2026
 compiled: 2026-08-27
 period: 2025-08-01 to 2026-08-27
 place: UGA
-ledger_rows: 159
+ledger_rows: 164
 not_held: 16
 indicators: 121
-record: f4aa610f8157
+record: bb4a69efe3ea
 ---
 
 # Uganda: progress report, August 2025 – August 2026
