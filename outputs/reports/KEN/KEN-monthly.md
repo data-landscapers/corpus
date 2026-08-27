@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-27
 place: KEN
 ledger_rows: 153
 not_held: 7
-record: 5274373fea67
+record: 4323deae63fd
 ---
 
 # Kenya: monthly update, July – August 2026
@@ -157,7 +157,7 @@ Government is [procuring a system to cut identity-card issuance to ten days and 
 
 Two identity systems met the courts instead. The High Court [barred the transport authority from discontinuing physical vehicle logbooks](https://www.the-star.co.ke/news/2026-08-11-court-preserves-validity-of-ntsa-physical-logbooks) on 11 August, pending a petition arguing the electronic logbook was introduced without public participation and without adequate data-protection and cybersecurity impact assessments. Separately, the Attorney-General's six-month window to legislate on phone-number recycling, opened by the March judgment recognising a registered number as a protected digital identifier, [was still open in August with nothing tabled](https://www.kictanet.or.ke/https-www-kictanet-or-ke-phone-number-recycling-digital-identity-kenya/), while banks, savings societies and platforms continue to rely on numbers after reassignment.
 
-The transport and safety authority [unveiled a Sh42 billion public-private partnership to roll out smart driving licences over twenty-one years](https://swalanyeti.co.ke/business/article/11563/ntsa-unveils-sh42-billion-ppp-to-roll-out-smart-driving-licences-over-21-years). A twenty-one-year concession over a national credential is a long commitment, and no concessionaire, financial close or first issuance date is named.
+The transport and safety authority [announced a Sh42 billion public-private partnership to roll out smart driving licences over twenty-one years](https://swalanyeti.co.ke/business/article/11563/ntsa-unveils-sh42-billion-ppp-to-roll-out-smart-driving-licences-over-21-years). A twenty-one-year concession over a national credential is a long commitment, and no concessionaire, financial close or first issuance date is named.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
