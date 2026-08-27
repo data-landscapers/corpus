@@ -115,7 +115,7 @@ Cabinet was told on 30 July that the [national AI strategy is still being develo
 ### Innovation ecosystem
 
 <!-- narrative: technology--tech-innovate -->
-A domestically built platform for creating online shops was [profiled on 26 August](https://www.wearetech.africa/fr/fils-fr/actualites/tech/tamko-clarence-le-camerounais-qui-facilite-la-creation-de-boutiques-en-ligne), co-founded by a Cameroonian software engineer and pitched at widening access to digital markets for regional traders. No user, merchant, transaction or revenue figure is published, and the account is a founder profile in a trade outlet rather than a company disclosure.
+A domestically built platform for creating online shops was [profiled on 26 August](https://www.wearetech.africa/fr/fils/tech-stars/le-camerounais-tamko-clarence-automatise-la-creation-de-boutiques-en-ligne), co-founded by a Cameroonian software engineer and pitched at widening access to digital markets for regional traders. No user, merchant, transaction or revenue figure is published, and the account is a founder profile in a trade outlet rather than a company disclosure.
 <!-- /narrative -->
 
 ## Capacity
