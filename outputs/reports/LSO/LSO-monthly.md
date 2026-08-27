@@ -3,9 +3,9 @@ title: Lesotho — monthly update, July – August 2026
 compiled: 2026-08-27
 period: 2026-07-01 to 2026-08-27
 place: LSO
-ledger_rows: 23
+ledger_rows: 26
 not_held: 2
-record: 2ee93b1517ae
+record: 5460633dd5e8
 ---
 
 # Lesotho: monthly update, July – August 2026
@@ -63,6 +63,16 @@ The [interim Lesotho National Computer Security Incident Response Team](https://
 
 ## DPI
 
+### Data Exchange
+
+<!-- narrative: dpi--dpi-exchange -->
+Lesotho [launched its National Single Window at Victory Hall in Maseru on 24 August 2026](https://swazi24.com/49844/business/trade-investment/lesotho-launches-digital-trade-platform/), under a World Bank-financed competitiveness and financial-inclusion project. No agency coverage, transaction volume or phasing is stated.
+<!-- /narrative -->
+### Digital Identity and CRVS
+
+<!-- narrative: dpi--dpi-id -->
+A freeze on refugee identity documents is reported to have left [families stranded and bank accounts frozen](https://lestimes.com/?p=91350). Where an identity system is the gate to banking, an administrative freeze is a financial exclusion as well as a documentary one; no instrument, affected count or review route is on file.
+<!-- /narrative -->
 ### Digital Payments and Fintech
 
 <!-- narrative: dpi--dpi-pay -->

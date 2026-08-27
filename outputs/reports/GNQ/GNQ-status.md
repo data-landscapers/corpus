@@ -2,14 +2,14 @@
 title: Equatorial Guinea — digital transformation and data governance status report
 compiled: 2026-08-27
 place: GNQ
-ledger_rows: 65
+ledger_rows: 67
 not_held: 6
-record: 09dd1edb2f21
+record: ae092a52f972
 ---
 
 # Equatorial Guinea: status report
 
-*Compiled 2026-08-27 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/GNQ/ledger.csv` (65 systems and instruments, 6 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-27 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/GNQ/ledger.csv` (67 systems and instruments, 6 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -110,6 +110,7 @@ The two instruments above are the only committed external capital on record, bot
 | System or instrument | Status | Milestone |
 |---|---|---|
 | Government primary and backup data centres | [In development](https://realequatorialguinea.com/economia/el-proyecto-de-apoyo-a-la-modernizacion-de-las-finanzas-publicas-lanza-una-licitacion-para-equipar-centros-de-datos-en-malabo-y-bata/) | PAMFP tender published for a Malabo primary and a Bata backup centre, June 2026 |
+| State broadcaster technical digitisation contract | [In development, disputed](https://www.guineaecuatorialpress.com/noticias/guinea_ecuatorial_exige_a_startimes_cumplir_con_el_envio_del_material_pendiente_para_digitalizar_rtvge) | Government formally pressed the supplier for outstanding equipment, August 2026 |
 | ZEEDE-GE digital economic zone at Djibloho | [Planned](https://realequatorialguinea.com/destacado/politica/telecomunicaciones-evalua-la-creacion-de-una-zona-economica-exclusiva-digital-en-djibloho/) | Creation under evaluation by the telecommunications ministry, March 2026 |
 
 ### Energy
@@ -184,7 +185,7 @@ New hosting capacity is prospective: the public-finance modernisation project [t
 |---|---|---|
 | CNEDOGE document issuance service | [Implemented](https://ahoraeg.com/sociedad/2026/06/12/cnedoge-inaugura-nuevas-oficinas-en-mongomo-y-ciudad-de-la-paz-para-acercar-los-servicios-documentales-a-la-ciudadania/) | Two provincial offices opened with online appointment booking, 12 June 2026 |
 | Patente Tributaria Unica digital filing | [Implemented](https://realequatorialguinea.com/destacado/politica/el-gobierno-de-guinea-ecuatorial-avanza-en-digitalizacion-de-la-patente-tributaria-unica-anual/) | Annual tax licence moved online, January 2026 |
-| SIGF civil-service management system | [In development](https://ahoraeg.com/politica/2026/03/04/guinea-ecuatorial-avanza-hacia-la-modernizacion-administrativa-con-la-implementacion-del-sistema-integral-de-gestion-de-funcionarios-sigf/) | Steering committee convened with the supplier M2M Group, March 2026 |
+| SIGF civil-service management system | [In development](https://lagdeguinea.com/el-gobierno-lanza-el-proyecto-sigf-para-modernizar-la-administracion-publica/) | Project launched publicly by the government, August 2026 |
 | SIGOB administrative-procedure tracker | [Implemented](https://www.undp.org/es/equatorial-guinea/noticias/lanzamiento-del-sigob) | Launched from Bata by the Ministerio de la Funcion Publica y Reforma Administrativa, 17 June 2021 |
 | Treasury Single Account | [In development](https://www.guineaecuatorialpress.com/noticias/el_gobierno_impulsa_la_implementacion_de_la_cuenta_unica_del_tesoro) | Five-phase roadmap adopted with production targeted for the first quarter of 2027 |
 
@@ -207,7 +208,7 @@ The [fifth population census and a first agricultural census](https://ahoraeg.co
 | Municipal or district digital services | ***Not held*** | — |
 
 <!-- narrative: digitalisation -->
-
+No municipal or district digital service is held for Equatorial Guinea. What the base holds of administrative digitisation is national and is carried under DPI.
 <!-- /narrative -->
 
 ## Technology
@@ -251,6 +252,7 @@ A [China cooperation roadmap](https://ahoraeg.com/politica/2025/06/17/china-se-c
 |---|---|---|
 | INSTTIC training with Chinese universities | [Implemented](https://ahoraeg.com/politica/2025/06/17/china-se-compromete-a-apoyar-a-guinea-ecuatorial-en-su-desarrollo-tecnologico/) | More than 200 students under the China cooperation roadmap |
 | UNDP Digital Fitness programme | [Implemented](https://www.undp.org/es/equatorial-guinea/noticias/guinea-ecuatorial-da-un-paso-firme-hacia-la-transformacion-digital-del-sector-publico) | Multisectoral officials trained in digital transformation and cybersecurity, August 2025 |
+| University computer-room funding inquiry | [Implemented](https://realequatorialguinea.com/sociedad/investigan-el-destino-de-mas-de-425-millones-de-francos-cfa-para-equipar-la-sala-de-informatica-de-la-unge-en-bata/) | Investigation opened into the use of the funds, August 2026 |
 
 ### Research institutions
 
@@ -259,7 +261,7 @@ A [China cooperation roadmap](https://ahoraeg.com/politica/2025/06/17/china-se-c
 | Research on public-administration data systems | [Implemented](https://equacom.news/2026/07/23/avante-impulsa-el-debate-sobre-la-transformacion-digital-para-acelerar-la-diversificacion-economica-de-guinea-ecuatorial/) | Doctoral findings on big data, interoperability and digital identity presented at the AVANTE forum |
 
 <!-- narrative: capacity -->
-
+Capacity is documented at both ends. [Research on public-administration data systems](https://equacom.news/2026/07/23/avante-impulsa-el-debate-sobre-la-transformacion-digital-para-acelerar-la-diversificacion-economica-de-guinea-ecuatorial/) is on record as being carried out; at the training end, the money allocated to equip a university computer room at Bata is the subject of an [investigation into where it went](https://realequatorialguinea.com/sociedad/investigan-el-destino-de-mas-de-425-millones-de-francos-cfa-para-equipar-la-sala-de-informatica-de-la-unge-en-bata/).
 <!-- /narrative -->
 
 ## Inclusion
@@ -294,7 +296,7 @@ Access is measured only by a reference study, cited and not absorbed here: [Data
 | National open data portal | ***Not held*** | — |
 
 <!-- narrative: data -->
-
+Open data rests on one reporting obligation rather than a programme: [data collection for the 2024 extractive-industries transparency report](https://realequatorialguinea.com/sociedad/inicia-en-malabo-el-taller-para-la-recopilacion-de-datos-del-informe-eiti-guinea-ecuatorial-2024/) opened at a Malabo workshop. No open-data portal or publication schedule is held.
 <!-- /narrative -->
 
 ## Geopolitics
@@ -306,7 +308,7 @@ Access is measured only by a reference study, cited and not absorbed here: [Data
 | China technology cooperation roadmap | [Implemented](https://ahoraeg.com/politica/2025/06/17/china-se-compromete-a-apoyar-a-guinea-ecuatorial-en-su-desarrollo-tecnologico/) | Roadmap to make the country a Central African technology hub |
 
 <!-- narrative: geopolitics -->
-
+The external digital relationship on record is with China: a [roadmap to make the country a Central African technology hub](https://ahoraeg.com/politica/2025/06/17/china-se-compromete-a-apoyar-a-guinea-ecuatorial-en-su-desarrollo-tecnologico/), which the base holds as a commitment rather than as delivered work.
 <!-- /narrative -->
 
 ## Gaps to fill

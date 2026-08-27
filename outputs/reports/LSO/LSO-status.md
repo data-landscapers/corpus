@@ -2,14 +2,14 @@
 title: Lesotho — digital transformation and data governance status report
 compiled: 2026-08-27
 place: LSO
-ledger_rows: 65
-not_held: 0
-record: c8d339526410
+ledger_rows: 68
+not_held: 2
+record: 6da48e6d5e49
 ---
 
 # Lesotho: status report
 
-*Compiled 2026-08-27 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/LSO/ledger.csv` (65 systems and instruments, 0 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-27 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/LSO/ledger.csv` (68 systems and instruments, 2 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -71,6 +71,7 @@ An interim national CSIRT [began operating on 29 July 2026](https://www.gov.ls/i
 | System or instrument | Status | Milestone |
 |---|---|---|
 | Allegation of interference in regulator appointments | [Implemented](https://lestimes.com/?p=91342) | Allegation made at a media briefing, August 2026 |
+| Communications consumer perception survey | [Implemented](https://lca.org.ls/lca-consumer-perception-survey-2026/) | 2026 survey published by the communications authority |
 | Public digital services experience survey | [Implemented](https://selibeng.com/invitation-to-participate-in-the-public-digital-services-experience-survey/) | Opened 2026-08-09 |
 
 <!-- narrative: governance -->
@@ -160,6 +161,7 @@ The cybersecurity institutions are new and, in the case of the response team, ex
 | System or instrument | Status | Milestone |
 |---|---|---|
 | Government of Lesotho Enterprise Architecture and Interoperability Framework | [In development](https://www.rsl.org.ls/sites/default/files/2025-02/Budget%20Speech%202025%2026%20Final%2019-02-2025.pdf) | Under development, per the 2025/26 budget speech, 2025-02-19 |
+| National Single Window | [Implemented](https://swazi24.com/49844/business/trade-investment/lesotho-launches-digital-trade-platform/) | Launched at Victory Hall, Maseru, 24 August 2026 |
 | X-Road government interoperability platform | [In development](https://www.gov.ls/ict/micsti-and-nul-advanced-lesotho-digital-public-infrastructure/) | Presented at the MICSTI-NUL review of DPI progress, 2026-02-20 |
 
 ### Digital Identity and CRVS
@@ -170,6 +172,7 @@ The cybersecurity institutions are new and, in the case of the response team, ex
 | Digital service-ID pilot | [Piloting](https://www.gov.ls/ict/lesotho-first-introduced-new-digital-service-identification-system/) | Pilot programme set to begin 2026-04-02, about 10,000 participants, announced 2026-03-25 |
 | MOSIP-based integrated national digital ID | [In development](https://www.biometricupdate.com/202603/lesotho-unicef-partner-to-develop-mosip-based-integrated-national-id) | 2026 work plan signed by MICSTI and UNICEF, 2026-03-03 |
 | National Identification System | [Implemented](https://thedocs.worldbank.org/en/doc/65175e7d6401c2f8f8b3e582dea933fe-0350062022/original/GovTech-Case-Studies-Lesotho-The-National-Identification-System.pdf) | Documented in the World Bank GovTech case study, 2022 |
+| Refugee identity-document freeze | [Implemented](https://lestimes.com/?p=91350) | Reported as leaving families stranded and bank accounts frozen, August 2026 |
 
 ### Digital Payments and Fintech
 
@@ -231,7 +234,7 @@ Sub-national government has one system on record: Maseru City Council's [Constru
 | T-Connect Impact school and clinic connectivity | [Implemented](https://publiceyenews.com/2026/01/17/digital-dawn-in-the-highlands/) | Launched at Soofia International School, Butha-Buthe, 2026-01-17 |
 
 <!-- narrative: digitalisation -->
-
+Sub-national digitalisation is one connectivity programme rather than a service layer: [T-Connect Impact](https://publiceyenews.com/2026/01/17/digital-dawn-in-the-highlands/) connects schools and clinics, launched at Butha-Buthe in January 2026. No site count or funding line is held.
 <!-- /narrative -->
 
 ## Technology
@@ -279,7 +282,7 @@ Domestic technology capacity outside the two operators appears once, as an [exec
 | Government and National University of Lesotho DPI collaboration | [Implemented](https://www.gov.ls/ict/micsti-and-nul-advanced-lesotho-digital-public-infrastructure/) | Joint review of DPI progress with the Mathematics and Computer Science department, 2026-02-20 |
 
 <!-- narrative: capacity -->
-
+Research capacity is a single standing collaboration: the ministry and the [National University of Lesotho jointly review digital public infrastructure progress](https://www.gov.ls/ict/micsti-and-nul-advanced-lesotho-digital-public-infrastructure/). No research output, funded programme or centre mandate is held behind it.
 <!-- /narrative -->
 
 ## Inclusion
@@ -303,7 +306,7 @@ As South African remittance and banking rules tightened, [migrant workers moved 
 | National open data portal | ***Not held, searched 2026-08-10 — SBC4D/IREX capacity assessment found no active government open-data programme and no access-to-information legislation in force*** | SBC4D/IREX capacity assessment for MCC/LMDA found no government open-data activity, September 2021 |
 
 <!-- narrative: data -->
-
+No national open-data portal is held, and a capacity assessment searched in August 2026 found no active government open-data programme and no access-to-information legislation in force. That is a searched absence rather than a gap in this document.
 <!-- /narrative -->
 
 ## Geopolitics
@@ -321,7 +324,7 @@ As South African remittance and banking rules tightened, [migrant workers moved 
 | Lesotho-India digital public infrastructure memorandum | [Implemented](https://publiceyenews.com/2025/07/29/lesotho-india-forge-digital-partnership/) | Signed during the Indian minister of state's visit to Maseru, 2025-07-29 |
 
 <!-- narrative: geopolitics -->
-
+The external digital relationship on record is with India: a digital public infrastructure memorandum [signed during an Indian minister of state visit to Maseru in July 2025](https://publiceyenews.com/2025/07/29/lesotho-india-forge-digital-partnership/). Nothing on file records work done under it.
 <!-- /narrative -->
 
 ## Gaps to fill

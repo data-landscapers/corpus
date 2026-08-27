@@ -3,10 +3,10 @@ title: Libya — progress report, August 2025 – August 2026
 compiled: 2026-08-27
 period: 2025-08-01 to 2026-08-27
 place: LBY
-ledger_rows: 84
+ledger_rows: 86
 not_held: 7
 indicators: 121
-record: 1379bbc17901
+record: e6206eed1a25
 ---
 
 # Libya: progress report, August 2025 – August 2026

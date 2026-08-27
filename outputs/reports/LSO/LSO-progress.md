@@ -3,10 +3,10 @@ title: Lesotho — progress report, August 2025 – August 2026
 compiled: 2026-08-27
 period: 2025-08-01 to 2026-08-27
 place: LSO
-ledger_rows: 69
+ledger_rows: 72
 not_held: 2
 indicators: 121
-record: 1fc7ab1961e3
+record: 5232a9597bb6
 ---
 
 # Lesotho: progress report, August 2025 – August 2026

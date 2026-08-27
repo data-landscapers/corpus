@@ -1,11 +1,11 @@
 ---
 title: Liberia — monthly update, July – August 2026
-compiled: 2026-08-26
-period: 2026-07-01 to 2026-08-26
+compiled: 2026-08-27
+period: 2026-07-01 to 2026-08-27
 place: LBR
-ledger_rows: 41
+ledger_rows: 43
 not_held: 9
-record: 657cdca4bcf7
+record: 3c69325715f6
 ---
 
 # Liberia: monthly update, July – August 2026
@@ -84,6 +84,11 @@ The Cybercrime Act 2025 [had still not received presidential signature as of 1 J
 
 ## DPI
 
+### Data Exchange
+
+<!-- narrative: dpi--dpi-exchange -->
+The special economic zone authority said a [trade information portal could ease doing business](https://liberianinvestigator.com/liberia-trade-information-portal-business-investment/). Nothing is commissioned, and no scope, funder or date accompanies the case for it.
+<!-- /narrative -->
 ### Digital Identity and CRVS
 
 <!-- narrative: dpi--dpi-id -->

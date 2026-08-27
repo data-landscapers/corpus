@@ -3,9 +3,9 @@ title: Botswana — monthly update, July – August 2026
 compiled: 2026-08-27
 period: 2026-07-01 to 2026-08-27
 place: BWA
-ledger_rows: 34
+ledger_rows: 36
 not_held: 11
-record: 30c1480bc739
+record: 887b4a6d2e7b
 ---
 
 # Botswana: monthly update, July – August 2026
@@ -69,6 +69,11 @@ The Kala data centre [completed its first full quarter of continuous operation t
 
 <!-- narrative: ict-infrastructure--infra-energy -->
 The facility's power is the unusual part. [On-site gas-fired generation is supplemented by solar introduced to cover periods of lower gas availability, with battery and compressed-gas storage under review](https://itweb.africa/article/tlou-energy-targets-botswana-data-growth/PmxVE7KEO8bqQY85) — solar specified as firming for gas, the reverse of the usual diesel-backup arrangement. [An initial 5 MW solar development was assessed during the quarter and an extension of the gas gathering network to connect a further production well is stated subject to funding](https://itweb.africa/article/tlou-energy-targets-botswana-data-growth/PmxVE7KEO8bqQY85); neither carries a capital cost, approval or date, and the company states both are work-programme items rather than guidance. The second gates the data centre: capacity growth turns on upstream gas work rather than on demand.
+<!-- /narrative -->
+### Cybersecurity
+
+<!-- narrative: ict-infrastructure--infra-cybersec -->
+A published account documents a [growing digital safety problem](https://www.mmegi.bw/features/inside-botswanas-growing-digital-safety-challenge/news). It is journalistic and carries no measure: no incident count, reporting route or response instrument accompanies it, which is what the record can and cannot say.
 <!-- /narrative -->
 
 ## DPI

@@ -1,11 +1,11 @@
 ---
 title: Burkina Faso — monthly update, July – August 2026
-compiled: 2026-08-26
-period: 2026-07-01 to 2026-08-26
+compiled: 2026-08-27
+period: 2026-07-01 to 2026-08-27
 place: BFA
-ledger_rows: 52
+ledger_rows: 53
 not_held: 11
-record: fb4ead673047
+record: 9d34cd322e45
 ---
 
 # Burkina Faso: monthly update, July – August 2026
@@ -128,6 +128,11 @@ Citizen service centres stand at [two pilot sites under construction, with archi
 At a regional digital salon on 14 to 16 July, the monetary union's commission announced it would prepare a community artificial-intelligence strategy, counting this country among four member states already holding a national one — a count another source published five days earlier contradicts. An operator pitched credit scoring built on mobile-money patterns at the same event; no model-disclosure duty or contestation route for an automated refusal is on file. Six francophone West African states adopted common governance guidelines announced on 6 July, non-binding and complementary to national strategies.
 
 Asked in plenary where AI sat in the new data-protection law, the justice minister said it was already integrated via the ban on transferring sensitive data abroad, with the national roadmap to become dedicated regulation later.
+<!-- /narrative -->
+### Innovation ecosystem
+
+<!-- narrative: technology--tech-innovate -->
+The first Sahel Tech Innovation Challenge closed in Ouagadougou, taking 600 submitted projects from 23 African countries down to 100, then 60, then 10 finalists. First prize went to a [Burkinabe agricultural artificial-intelligence tool built to work in national languages](https://www.aib.media/stic26-des-burkinabe-decrochent-le-premier-prix-avec-leur-ia-agricole-integrant-les-langues-nationales-terra-ai/). No prize value, follow-on funding or second edition is announced.
 <!-- /narrative -->
 
 ## Capacity

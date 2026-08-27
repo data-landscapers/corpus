@@ -1,11 +1,11 @@
 ---
 title: Congo — monthly update, July – August 2026
-compiled: 2026-08-25
-period: 2026-07-01 to 2026-08-25
+compiled: 2026-08-27
+period: 2026-07-01 to 2026-08-27
 place: COG
-ledger_rows: 39
+ledger_rows: 40
 not_held: 12
-record: 67b2649b0638
+record: 76332df3aba7
 ---
 
 # Congo: monthly update, July – August 2026
@@ -114,6 +114,11 @@ Compulsory electronic invoicing took effect on 1 July for [every economic agent 
 
 <!-- narrative: capacity--capacity-training -->
 The national cybersecurity training plan is inside [that tender](https://fr.linkedin.com/posts/anssi-cg_dans-le-cadre-du-projet-dacceleration-de-activity-7486102141531504641-hbW1). The country has neither a strategy nor a training plan, and both are being written under a donor-financed contract whose value is not published.
+<!-- /narrative -->
+### Research institutions
+
+<!-- narrative: capacity--capacity-research -->
+Researchers and faculty met in Brazzaville on 21 and 22 August to [set rules for the use of artificial intelligence in research](https://congotimes.com/2026/08/24/congos-researchers-confront-ais-real-limits/). No code, guideline text or adopting institution has come out of it yet.
 <!-- /narrative -->
 
 ## Data

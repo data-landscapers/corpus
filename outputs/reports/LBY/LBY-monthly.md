@@ -1,11 +1,11 @@
 ---
 title: Libya — monthly update, July – August 2026
-compiled: 2026-08-25
-period: 2026-07-01 to 2026-08-25
+compiled: 2026-08-27
+period: 2026-07-01 to 2026-08-27
 place: LBY
-ledger_rows: 32
+ledger_rows: 35
 not_held: 7
-record: b3639cac7165
+record: afbeacc365cb
 ---
 
 # Libya: monthly update, July – August 2026

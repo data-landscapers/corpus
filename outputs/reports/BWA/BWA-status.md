@@ -2,14 +2,14 @@
 title: Botswana — digital transformation and data governance status report
 compiled: 2026-08-27
 place: BWA
-ledger_rows: 100
+ledger_rows: 102
 not_held: 11
-record: ab4247e1e2ca
+record: 1fc1906fd1a9
 ---
 
 # Botswana: status report
 
-*Compiled 2026-08-27 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/BWA/ledger.csv` (100 systems and instruments, 11 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-27 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/BWA/ledger.csv` (102 systems and instruments, 11 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -149,6 +149,7 @@ One procurement runs against that retrenchment: a [P654.4m learning-technology c
 | Cybercrime and Computer Related Crimes Act 2018 | [Implemented](https://www.bocra.org.bw/sites/default/files/sites/default/files/documents/Cybersecurity_ACT_-_5%20Nov_2025.pdf) | Its repeal takes effect only on the 2025 Act's commencement |
 | Liquid Secure360 | [Implemented](https://itweb.africa/article/liquid-expands-service-portfolio-in-botswana/KzQenqjypOmMZd2r) | Service portfolio launched in Botswana |
 | National Cyber Drill | [Implemented](https://www.mmegi.bw/news/cyber-drill-sounds-alarm-on-ai-iot-and-quantum-threats/news) | A four-day drill held, opened by the regulator's chief executive |
+| Online safety exposure | [Implemented](https://www.mmegi.bw/features/inside-botswanas-growing-digital-safety-challenge/news) | Growing exposure documented in the national press, August 2026 |
 | National Cybersecurity Strategy | ***Not held*** | — |
 
 <!-- narrative: ict-infrastructure -->
@@ -207,6 +208,7 @@ Security is legislated and unmanned: the [2018 cybercrime Act remains operative,
 | Animal Disease Surveillance Dashboard | [Implemented](https://www.mmegi.bw/news/botswana-gains-upper-hand-against-fmd/news) | Launched in the week of 2026-07-13, integrating the traceability system and district veterinary networks |
 | Government Accounting and Budgeting System | [Implemented](https://dailynews.gov.bw/news-detail/85274) | Committee of supply told the software upgrade completed December 2024 and the system is fully operational |
 | Labour Market Information System | [In development](https://www.mmegi.bw/news/govt-to-unveil-long-overdue-digital-labour-market-platform/news) | Permanent secretary told a parliamentary committee only facilitation and training remain |
+| Ten-year health systems partnership | [Implemented](https://m42.ae/media-resources/news/m42-enters-africa-with-10-year-health-systems-partnership-to-strengthen-botswanas-health-sector/) | Ten-year strategic partnership signed with the health ministry, August 2026 |
 
 ### Other GovTech and e-Gov
 
@@ -234,7 +236,7 @@ Service delivery is counted in services rather than in use. The government platf
 | Local-government digital systems | ***Not held*** | — |
 
 <!-- narrative: digitalisation -->
-
+No local-government digital system is held for Botswana. What the base holds of service digitisation is national and is carried under DPI.
 <!-- /narrative -->
 
 ## Technology
@@ -284,7 +286,7 @@ External technology relationships are narrow. Botswana [acceded to the Artemis A
 | University of Botswana virtual-reality programme | [Implemented](https://www.wearetech.africa/en/fils-uk/news/tech/university-of-botswana-enters-vr-space-with-new-immersive-initiative) | Launched 2026-04-16 with a partner innovation hub |
 
 <!-- narrative: capacity -->
-
+Research capacity is the better-evidenced half of Botswana's record: a [National Research Agenda approved by Cabinet in July 2025](https://www.mmegi.bw/business/govt-spends-p95m-on-research-projects/news) with a reported financial-year spend, alongside university provision. It is an agenda and a budget line rather than a published output.
 <!-- /narrative -->
 
 ## Inclusion
@@ -331,7 +333,7 @@ Universal service delivers per site and publishes no programme total. Two school
 | BOTSAT-1 | [Implemented](https://www.telecomreviewafrica.com/articles/telecom-operators/11357-botswana-enters-space-race-with-botsat-1-launch/) | Launched 2025-03-15 with an in-country ground station |
 
 <!-- narrative: data -->
-
+Satellite data is one regional collaboration in progress: the [AgriWatch monitoring dashboard](https://digitalearthafrica.org/en_za/growing-resilience-together-digital-earth-africa-and-sasscal-collaborate-on-agriwatch/), agreed in September 2025 and not yet delivered.
 <!-- /narrative -->
 
 ## Geopolitics
@@ -370,7 +372,7 @@ Universal service delivers per site and publishes no programme total. Two school
 | India-Botswana technology or digital cooperation | ***Not held*** | — |
 
 <!-- narrative: geopolitics -->
-
+No India-Botswana technology or digital cooperation is held. The most substantial external digital relationship the base does carry is the ten-year health-systems partnership recorded under DPI.
 <!-- /narrative -->
 
 ## Gaps to fill

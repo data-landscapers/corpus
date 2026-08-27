@@ -3,10 +3,10 @@ title: Liberia — progress report, August 2025 – August 2026
 compiled: 2026-08-27
 period: 2025-08-01 to 2026-08-27
 place: LBR
-ledger_rows: 71
+ledger_rows: 73
 not_held: 9
 indicators: 121
-record: 589af545f52b
+record: cd8b7a5627c8
 ---
 
 # Liberia: progress report, August 2025 – August 2026

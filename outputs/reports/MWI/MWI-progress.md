@@ -3,10 +3,10 @@ title: Malawi — progress report, August 2025 – August 2026
 compiled: 2026-08-27
 period: 2025-08-01 to 2026-08-27
 place: MWI
-ledger_rows: 183
+ledger_rows: 185
 not_held: 57
 indicators: 121
-record: d76a1225722b
+record: ea6b910e7a4d
 ---
 
 # Malawi: progress report, August 2025 – August 2026

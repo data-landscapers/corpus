@@ -3,10 +3,10 @@ title: Equatorial Guinea — progress report, August 2025 – August 2026
 compiled: 2026-08-27
 period: 2025-08-01 to 2026-08-27
 place: GNQ
-ledger_rows: 68
+ledger_rows: 70
 not_held: 6
 indicators: 121
-record: 58a1d2544191
+record: 39f27e96b9e8
 ---
 
 # Equatorial Guinea: progress report, August 2025 – August 2026

@@ -1,11 +1,11 @@
 ---
 title: Equatorial Guinea — monthly update, July – August 2026
-compiled: 2026-08-25
-period: 2026-07-01 to 2026-08-25
+compiled: 2026-08-27
+period: 2026-07-01 to 2026-08-27
 place: GNQ
-ledger_rows: 27
+ledger_rows: 30
 not_held: 6
-record: 04ef7a56ee61
+record: 8b63217789b9
 ---
 
 # Equatorial Guinea: monthly update, July – August 2026
@@ -60,6 +60,11 @@ The same ministry published [terms of reference for a public tender](https://aho
 
 The ministry put a six-month connectivity plan to the Prime Minister on 15 July. It [names 2G and 4G coverage to 85% through 34 new towers in Annobón and the interior, a Roaming Cero arrangement with Cameroon, Gabon, Chad and the Central African Republic, and a national digital postcode system](https://www.guineaecuatorialpress.com/noticias/secundo_consejo_directivo_extraordinario_del_ministerio_de_transportes). No budget, contract or delivery date accompanies any of the three, and the consolidated action plan they sit in was adopted on 31 July unfinanced, going first to the interministerial council and then to the Council of Ministers, which decides what is recorded and funded.
 <!-- /narrative -->
+### Data Storage
+
+<!-- narrative: ict-infrastructure--infra-store -->
+The government [formally pressed the supplier to deliver the equipment still outstanding under the 2020 contract to digitise the state broadcaster's technical infrastructure](https://www.guineaecuatorialpress.com/noticias/guinea_ecuatorial_exige_a_startimes_cumplir_con_el_envio_del_material_pendiente_para_digitalizar_rtvge). Six years after signature the contract is being chased rather than closed, and no delivery schedule, contract value or penalty is on file.
+<!-- /narrative -->
 ### Cybersecurity
 
 <!-- narrative: ict-infrastructure--infra-cybersec -->
@@ -100,6 +105,11 @@ The base's first record of a national e-commerce platform arrived on 14 August, 
 
 ## Capacity
 
+### Training and skills
+
+<!-- narrative: capacity--capacity-training -->
+An investigation opened into [where more than 425 million CFA francs allocated to equip the university computer room at Bata went](https://realequatorialguinea.com/sociedad/investigan-el-destino-de-mas-de-425-millones-de-francos-cfa-para-equipar-la-sala-de-informatica-de-la-unge-en-bata/). It is a capacity line the base can date and price, and cannot yet say produced anything; no finding, charge or recovery has followed.
+<!-- /narrative -->
 ### Research institutions
 
 <!-- narrative: capacity--capacity-research -->

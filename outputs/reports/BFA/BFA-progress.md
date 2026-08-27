@@ -3,10 +3,10 @@ title: Burkina Faso — progress report, August 2025 – August 2026
 compiled: 2026-08-27
 period: 2025-08-01 to 2026-08-27
 place: BFA
-ledger_rows: 134
+ledger_rows: 135
 not_held: 11
 indicators: 121
-record: e2d81bc756e9
+record: 674f49fb222f
 ---
 
 # Burkina Faso: progress report, August 2025 – August 2026
