@@ -3,10 +3,10 @@ title: Egypt — progress report, August 2025 – August 2026
 compiled: 2026-08-27
 period: 2025-08-01 to 2026-08-27
 place: EGY
-ledger_rows: 202
+ledger_rows: 206
 not_held: 54
 indicators: 121
-record: e3b2ffe71af1
+record: 5aca48586c97
 ---
 
 # Egypt: progress report, August 2025 – August 2026

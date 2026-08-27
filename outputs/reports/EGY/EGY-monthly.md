@@ -3,9 +3,9 @@ title: Egypt — monthly update, July – August 2026
 compiled: 2026-08-27
 period: 2026-07-01 to 2026-08-27
 place: EGY
-ledger_rows: 95
+ledger_rows: 99
 not_held: 54
-record: 1a45edb58773
+record: 8d17b49f9b1c
 ---
 
 # Egypt: monthly update, July – August 2026
@@ -42,6 +42,8 @@ On 4 August the Ministry of Justice gazetted a deferral of the title-based prope
 
 <!-- narrative: governance--gov-protect -->
 The month's data-protection movement is an objection rather than a rule. A member of the Senate's constitutional and legislative affairs committee [objected to compulsory face-print collection by private operators for mobile line registration, arguing that identity can be verified by less intrusive means and that the 2020 personal data protection law classes biometrics as sensitive data](https://www.parlgate.com/95550). The collection itself is in operation; what the base does not hold is the instrument authorising it, the retention rule or any operator-side safeguard — which is why the objection is the first record here of a practice already running. Parliamentary pressure ran the same way on artificial intelligence, where members [called for deterrent rules to govern it](https://www.algomhor.com/466466), and neither call has yet produced a text.
+
+The telecoms regulator [referred all four mobile operators to the Public Prosecution over lines registered in users' names without their knowledge](https://www.businesstec.news/23568), a disclosure made inside its half-year complaints report rather than as a separate enforcement notice. No charge, hearing date or penalty is on file.
 <!-- /narrative -->
 ### Regional collaboration
 
@@ -85,11 +87,15 @@ The data-centre position moved by cancellation. [Telecom Egypt's board withdrew 
 An independent measurement published on 3 August 2026 gave the first full-year reading of Egypt's 5G launch. Six months after commercial service began in June 2025, the 5G median download speed had fallen to about 89 Mbps from 110.5 Mbps on launch day, and the combined 4G and 5G median stood at 34.77 Mbps against a pre-launch baseline of 37.68 Mbps ([measurement](https://www.ookla.com/articles/5g-north-africa-2026)). Egypt is the only one of the four North African launch markets with no published coverage or quality obligation attached to its award.
 
 Attention has moved to the band above it. The incumbent, the regulator and a Chinese vendor [ran a mobile base station and a data call over upper 6 GHz on 19 August, reported at about 1.7 Gbps per user](https://itweb.africa/article/telecom-egypt-tests-high-capacity-spectrum/RgeVDqPRka37KJN3) and stated by the operator as the first such trial in Egypt and in Africa. It is a trial: no allocation, award, licence or commercial date follows it, and the throughput figure is the operator's own.
+
+GSMA Intelligence's country-by-country survey [puts Egyptian 5G take-up at 3 per cent](https://digitalmag.ci/acces-a-internet-etat-dadoption-de-la-technologie-5g-par-les-pays-africains/) and projects 60 per cent population coverage and 35 per cent take-up by 2030, crediting an early-2026 spectrum agreement with doubling operator capacity.
 <!-- /narrative -->
 ### Data Storage
 
 <!-- narrative: ict-infrastructure--infra-store -->
 A market report puts an East Cairo campus at [25 MW operating with plans for 45](https://businessday.ng/technology/article/investors-pour-into-africas-digital-backbone-as-data-centre-projects-near-900-mw/) and names an Egyptian expansion inside a continental pipeline of 890 MW, with no site, capacity, investment figure or date. The report itself is not held.
+
+Huawei [has bid to build the government's AI data centres](https://thenextweb.com/news/huawei-egypt-ai-data-centres-ascend-us-consortium), proposing to export 1,408 Ascend 950-series chips for a training cloud and a further 600 for two inference clusters on a twelve-month build, while the US State Department assembles a rival consortium of Nvidia, AMD and Microsoft. It would be the first confirmed export of Huawei's Ascend accelerators; no award is on file, and the reporting rests on unnamed sources and documents the correspondent reviewed.
 <!-- /narrative -->
 ### Cybersecurity
 
@@ -108,6 +114,8 @@ The 19 July cabinet meeting produced the window's substantive disclosure: 105 go
 
 <!-- narrative: dpi--dpi-id -->
 Identity gained a second biometric front end and a liability problem in the same month. The central bank governor launched [Haweya, registering face and fingerprint biometrics and enabling remote account opening at 37 banks](https://www.biometricupdate.com/202511/egypt-rolls-out-digital-id-platform-to-scale-up-financial-inclusion), and the [national identity application reached a second release adding liveness detection](https://gate.ahram.org.eg/News/5813424.aspx). Neither carries an enrolment count or a governing decree. Against that, the telecommunications regulator [stated that registration alone does not establish criminal liability](https://english.ahram.org.eg/UI/Front/Inner.aspx?NewsContentID=574242) after lines were found registered to people without their knowledge, after reports of a nineteen-year-old sentenced in absentia to 25 years in a case turning on a line registered in his name in 2024; it says it is revising the rules towards biometric subscriber verification, with no date or target stated. Within a week the revision acquired shape: the regulator [tightened the registration rules, referred the four mobile operators to the prosecution and set a unified national digital-identity project alongside](https://gate.ahram.org.eg/News/5887018.aspx), and is [expanding mandatory facial verification at enrolment through its know-your-customer system, linked to the civil registry](https://www.biometricupdate.com/202608/egypt-expands-biometric-sim-registration-after-identity-misuse-case). Verification at enrolment does not prevent a line being handed on afterwards, which is the gap the case turned on. The scale of the problem showed in the complaint traffic: the regulator [logged over 3,000 line-fraud complaints and 100,000 call-centre inquiries in two days](https://www.egyptindependent.com/egypt-is-cracking-down-on-phone-line-fraud-ntra-assures/), saying it checks each disputed registration against the provider's own records. What the fix itself costs is now being asked in public: a member of parliament [has pressed the government on what institutional framework governs collection, storage and access to the facial-recognition data taken at registration](https://www.egyptindependent.com/mp-raises-concerns-over-egyptian-state-collecting-facial-recognition-data/), and digital-rights researchers argue that [biometric data cannot be reissued once compromised, which makes the protection framework the precondition rather than the sequel](https://www.madamasr.com/en/2026/08/12/feature/society/privacy-chaos-from-fraudulent-sim-registration-to-biometric-data-collection/). The health ministry is separately [stated to have taken birth and death registration electronic nationwide](https://www.youm7.com/story/2026/8/2/%D8%AE%D8%B7%D8%A9-%D8%A7%D9%84%D8%AA%D9%86%D9%85%D9%8A%D8%A9-%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A%D8%A9-2026-2027-%D8%AA%D8%B9%D8%AA%D9%85%D8%AF-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%AA%D8%AD%D9%88%D9%84-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%89-%D9%84%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9/7497444), on the development plan's own word and with no coverage rate published.
+
+The telecoms regulator [launched a remote biometric verification system in a pilot phase](https://www.zawya.com/en/economy/egypt-launches-biometric-verification-system-for-remote-digital-services-467752), built with ITIDA, CyShield and licensed electronic-signature companies, letting users reach services requiring identity verification and electronic signatures through mobile applications rather than company branches. Operators are to enable it in their own apps as their technical readiness allows, and its stated scope is to widen later to a broader range of digital services.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
@@ -136,6 +144,8 @@ The judiciary signed for a platform of its own. On 11 August the justice ministe
 The [unified government services card, integrating food-subsidy and civil-service delivery into one platform, was reviewed by the supply and communications ministers the day before](https://itweb.africa/article/egypt-accelerates-govt-digitisation-push/JBwErvn3WDP76Db2), on database sharing and technical integration. The state's own complaints channel gave its monthly figures: [about 229,000 complaints, requests and inquiries handled in July, 84% referred on to the responsible authority and 14% closed](https://sis.gov.eg/en/media-center/news/pm-reviews-efforts-of-unified-complaints-system-to-enhance-efficiency-response-to-citizens/), with governorates taking 17% of referrals and nine of them handling 74% of that share. Referral is not resolution, and no outcome or resolution time is published behind it.
 
 Investors are to get their own digitised path through the land record. A [cooperation protocol signed on 13 August between the justice and investment ministries would digitise real-estate registration and notarisation services for investors](https://sis.gov.eg/en/media-center/news/justice-investment-ministries-sign-pact-to-digitize-investor-services/), to shorten company incorporation. No protocol text, timetable or service list is published, and land-registration coverage for everyone else remains ***Not held***.
+
+The justice and communications ministries [signed a three-year cooperation protocol on 23 August 2026](https://www.businesstec.news/23569) to digitise the Cairo Court of Appeal and put artificial intelligence into the judiciary, covering a unified electronic repository for the archives of finally-adjudicated cases.
 <!-- /narrative -->
 
 ## Digitalisation

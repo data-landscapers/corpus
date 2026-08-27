@@ -3,9 +3,9 @@ title: Nigeria — monthly update, July – August 2026
 compiled: 2026-08-27
 period: 2026-07-01 to 2026-08-27
 place: NGA
-ledger_rows: 163
+ledger_rows: 166
 not_held: 9
-record: 24beab9d29e8
+record: 6ba0aafce9e0
 ---
 
 # Nigeria: monthly update, July – August 2026
@@ -42,6 +42,8 @@ What the amended identity Act actually says reached the record on 11 August, in 
 
 
 The bench put its own view on the record. Fifty-four judicial officers [adopted a communique calling for stricter authentication standards for AI-generated evidence and a review of the digital-evidence, cybercrime and privacy statutes](https://www.vanguardngr.com/2026/08/digicivic-trains-judicial-officers-on-digital-rights/), naming genuine evidence dismissed as AI-fabricated as an emerging problem, questioning whether clicking agreement is meaningful consent, and asking for electronic case management, virtual hearings and privacy-protected judicial platforms. A communique carries no legal force and no legislative response has followed.
+
+The [ECOWAS Community Court of Justice held that access to the internet is a right within the right to freedom of expression](https://citizenshipdaily.com/ecowas-court-declares-internet-access-a-right-awards-journalist-n10-million-against-fg/), and ordered Nigeria to pay N10 million to the journalist Jide Oyekunle over his assault, detention and phone seizure while covering a protest. The court traced the holding to two of its own earlier judgments, which makes this a settled regional position rather than a first ruling; nothing on file records compliance or payment.
 <!-- /narrative -->
 ### Data protection
 
@@ -54,6 +56,8 @@ Its other August move was institutional rather than adversarial: the commission 
 A civil-society platform began watching the same election from the data side, [tracking parties' websites and social media for privacy violations and access restrictions, piloted at the 15 August state governorship poll](https://www.nationalrecord.com.ng/citad-launches-pawsom-monitor-to-track-digital-rights-breaches-ahead-of-2027-elections/). No findings from the pilot are published.
 
 Child protection online entered the record as a consultation rather than a rule. Nigeria is [consulting on age limits, identity verification and platform liability, one of several African states moving from a minimum age for opening an account towards design duties on the platforms themselves](https://www.agenceecofin.com/actualites/2708-141074-en-afrique-comme-ailleurs-les-etats-s-emparent-de-la-protection-des-mineurs-sur-les-reseaux-sociaux), against an African Union child online safety policy of 2024 asking states to require protection by design and by default, risk assessments, researcher access to platform data and independent oversight. No draft instrument, closing date or responsible body is named, and the constraint reported across the region is enforcement rather than law.
+
+An underground market trading national identity and bank verification numbers [shut down after an investigative report named its operator](https://fij.ng/article/after-fijs-investigation-ebis-illegal-data-market-shuts-down-but-ndpc-retains-him-as-licensee/), who remains a registered licensee of the data-protection commission. The closure and the licence surviving it are both the commission's own disposition; no enforcement notice against the operator is on file.
 <!-- /narrative -->
 ### Regional collaboration
 
@@ -62,6 +66,8 @@ Ministers adopted an Abuja declaration on meaningful connectivity.
 
 
 The continental data convention still has no Nigerian signature behind it: a peer-reviewed review of health-data governance in four countries [records only Rwanda as a signatory, and finds all four frameworks fragmented with weak harmonisation of cross-border transfers](https://datascience.codata.org/articles/10.5334/dsj-2026-031). That is a finding about the record, carried as a dated absence.
+
+The second meeting of the Africa Public Key Infrastructure Forum, held in Abuja, [called for harmonised African rules so that digital credentials, electronic signatures and documents can be verified across borders](https://ait.live/africa-moves-to-harmonise-digital-trust-rules-across-borders/). Nothing was adopted, and the base holds no instrument, timetable or signatory list behind the call.
 <!-- /narrative -->
 ### Standards
 
@@ -223,6 +229,8 @@ The one domestically built model to ship this month went the other way, at a res
 
 <!-- narrative: technology--tech-innovate -->
 [A drive-to-own vehicle financier raised US$250m at a US$2.1bn valuation on 5 August](https://techcrunch.com/2026/08/05/moove-raises-250m-to-become-the-backbone-of-the-robotaxi-industry/), financing a 42,000-vehicle fleet across fourteen countries against platform earnings — making ride-hailing income the credit-scoring and repayment rail for drivers outside formal banking, a class of alternative-data underwriting no Nigerian instrument addresses. The communications regulator [leased its Digital Industrial Park and Learning Centre to Enugu State for fifteen years](https://www.thisdaylive.com/2026/08/04/ncc-leases-digital-industrial-park-learning-centre-to-enugu/), its executive vice chairman saying that buildings alone do not create innovation; no rent, investment commitment or performance condition is stated. A [crowdsourced food-price platform reports about 2,500 users](https://www.wearetech.africa/en/fils-uk/solutions/nigeria-s-bango-uses-price-data-to-bring-transparency-to-food-markets).
+
+NITDA [inaugurated a Technical Working Group to build a multi-agency national regulatory sandbox](https://nitda.gov.ng/nitda-inaugurates-sandbox-technical-working-group-to-strengthen-regulatory-framework-for-digital-innovation/9560/), deliberately sector-agnostic, letting innovators test emerging technologies with several regulators at once before full market approval. It is distinct from the central bank's own sector sandbox, and no framework text, member list or timetable has been published.
 <!-- /narrative -->
 
 ## Capacity

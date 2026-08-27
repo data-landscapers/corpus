@@ -3,9 +3,9 @@ title: Angola — monthly update, July – August 2026
 compiled: 2026-08-27
 period: 2026-07-01 to 2026-08-27
 place: AGO
-ledger_rows: 50
+ledger_rows: 51
 not_held: 7
-record: a404084e76db
+record: 76f0cf47763a
 ---
 
 # Angola: monthly update, July – August 2026
@@ -116,6 +116,8 @@ Identity delivery moved on the printing side. From 1 July all 21 provinces print
 A single social register was launched in the week ending 25 July, and the ministry's own account of the launch supplies what the first reports of it did not. The register is [instituted by Decreto Presidencial n.º 136/19 of 10 May 2019 and this phase is a modernisation and expansion of it, adding interoperability between public institutions, integration of databases and better information quality](https://masfamu.gov.ao/home), underpinning the Kwenda cash transfer — put at more than 1.3 million households and about 6.5 million people — and the national school-feeding programme. Its delivery systems are financed by a [US$27m component of a World Bank social-protection and human-capital operation targeting about 1.5 million households and 7.4 million people](https://documents1.worldbank.org/curated/en/099102325140049320/pdf/P181495-a8b28113-9d6f-4cb8-a1d0-037750e20865.pdf). What remains unstated is the data-protection basis for a register built to be read across institutions, and any count of who is actually on it.
 
 The electoral register, updating since 15 June against a universe of 16.7 million citizens, acquired its first national enrolment figure in August and it came from the opposition rather than the administration. Four parties [put the count above 730,000 and demanded an independent audit of the electoral database, alleging administrative discretion, uneven deployment of registration brigades and recurring biometric-system failures](https://www.novojornal.co.ao/politica/detalhe/partidos-da-oposicao-lancam-alerta-sobre-obstaculos-burocraticos-que-ameacam-exclusao-massiva-de-cidadaos-do-processo-de-actualizacao-do-registo-eleitoral-74052.html), and said the administration refuses to release enrolment statistics disaggregated by province, municipality and commune. At provincial level the Lunda-Norte government [reported over 40,000 residents updated and pressed mining-sector workers to register through the one-stop service desks](https://angop.ao/noticias/politica/governadora-apela-a-actualizacao-dos-dados-eleitorais/). None of the allegations has been adjudicated, and because no official series exists there is nothing to test them against - which is itself the complaint.
+
+Field enrolment for the single social register [opened in a pilot phase at Sumbe, in Cuanza-Sul](https://angop.ao/noticias/sociedade/cadastro-social-nico-inicia-fase-piloto-no-sumbe/), directed by the social-action minister, to identify and characterise Angolan families and especially those in need. The register itself was activated in July; this is the first enrolment operation on record behind it.
 <!-- /narrative -->
 ### Sectoral management information systems
 
@@ -172,6 +174,8 @@ A new technology centre [entered service in August](https://www.opais.ao/politic
 
 <!-- narrative: inclusion--include-access -->
 Financial inclusion was scored at [51.7% for the first quarter of 2026 against a 65% target for 2027](https://angop.ao/noticias/economia/governo-anuncia-nova-etapa-na-estrategia-nacional-de-inclusao-financeira/) on 9 July, with banking at about 32% or 5.7 million people and mobile and digital payments up about 56% year on year; the strategy document itself is not held.
+
+The telecommunications ministry [opened further computer rooms and free public internet points in Luanda and Icolo e Bengo](https://www.opais.ao/sociedade/minttics-inaugura-novas-salas-de-informatica-em-luanda-e-icolo-e-bengo/). No national count of sites, users or budget line is on file behind the programme.
 <!-- /narrative -->
 ### Digital divides
 
@@ -185,6 +189,8 @@ Satellite-based inclusion produced two counts eight days apart on different base
 
 <!-- narrative: data--data-statistics -->
 The statistics office [launched a census portal and a mobile application on 2 July](https://angop.ao/noticias/politica/ine-lanca-portal-do-censo-2024-e-aplicacao-movel/), both built by its own technical staff, carrying census indicators by geographic level and macroeconomic series; no open-data licence, bulk download or programming interface is stated.
+
+The statistics institute's [provincial census report for Icolo e Bengo](https://censo2024.ine.gov.ao/ICOLE%20E%20BENGO.pdf) gives the province 1,523,457 people, 150,787 above the figure in the institute's own summary report; differencing the two municipal tables places the whole of that gap in one municipality, Sequele. The base carries no reconciliation of the two published figures.
 <!-- /narrative -->
 ### Use of satellite data
 
