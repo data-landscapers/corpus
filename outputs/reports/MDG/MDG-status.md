@@ -1,15 +1,15 @@
 ---
 title: Madagascar — digital transformation and data governance status report
-compiled: 2026-08-26
+compiled: 2026-08-27
 place: MDG
 ledger_rows: 65
 not_held: 8
-record: 0f35041d5eb0
+record: 3e4124bdbfd7
 ---
 
 # Madagascar: status report
 
-*Compiled 2026-08-26 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/MDG/ledger.csv` (65 systems and instruments, 8 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-27 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/MDG/ledger.csv` (65 systems and instruments, 8 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -209,7 +209,7 @@ Statistical microdata sits behind a gate rather than in the open: [INSTAT's micr
 | Municipal or communal digital service delivery | ***Not held*** | Civil registration reaches the commune and fokontany level through national programmes; no municipal digital-service system or mandate is held |
 
 <!-- narrative: digitalisation -->
-
+No municipal or communal digital-service programme is held. Civil registration reaches the commune and fokontany level through national programmes, which are carried under DPI, and nothing on file records a service layer owned at that level.
 <!-- /narrative -->
 
 ## Technology
@@ -252,7 +252,7 @@ What is announced is partnership rather than capability: AXIAN was [named a foun
 | UNIPOD university connectivity and AI initiative | [In development](https://techafricanews.com/2026/01/26/unipod-initiative-aims-to-bring-high-speed-internet-and-ai-to-universities-in-madagascar/) | Initiative to bring high-speed internet and artificial intelligence to universities |
 
 <!-- narrative: capacity -->
-
+Research capacity is one initiative in development: [UNIPOD, which aims to bring high-speed internet and artificial intelligence to universities](https://techafricanews.com/2026/01/26/unipod-initiative-aims-to-bring-high-speed-internet-and-ai-to-universities-in-madagascar/). No campus count, funding line or output is held.
 <!-- /narrative -->
 
 ## Inclusion
@@ -295,7 +295,7 @@ The state recruits for capability it says it lacks: the digital ministry [receiv
 | Earth-observation or geospatial data programme | ***Not held*** | Satellite connectivity partnerships are held; no earth-observation or geospatial-data programme, mandate or output is |
 
 <!-- narrative: data -->
-
+No earth-observation or geospatial-data programme, mandate or output is held for Madagascar. Satellite connectivity partnerships are held and are a different thing, carried under Infrastructure.
 <!-- /narrative -->
 
 ## Geopolitics
@@ -307,7 +307,7 @@ The state recruits for capability it says it lacks: the digital ministry [receiv
 | Indian digital cooperation with Madagascar | ***Not held*** | No India-Madagascar digital cooperation agreement, line of credit or programme document is held |
 
 <!-- narrative: geopolitics -->
-
+No India-Madagascar digital cooperation agreement, line of credit or programme document is held.
 <!-- /narrative -->
 
 ## Gaps to fill

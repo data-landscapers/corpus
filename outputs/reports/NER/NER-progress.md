@@ -3,10 +3,10 @@ title: Niger — progress report, August 2025 – August 2026
 compiled: 2026-08-27
 period: 2025-08-01 to 2026-08-27
 place: NER
-ledger_rows: 68
+ledger_rows: 69
 not_held: 4
 indicators: 121
-record: 76e4cc907104
+record: a211bcce4513
 ---
 
 # Niger: progress report, August 2025 – August 2026

@@ -1,11 +1,11 @@
 ---
 title: Sao Tome and Principe — monthly update, July – August 2026
-compiled: 2026-08-25
-period: 2026-07-01 to 2026-08-25
+compiled: 2026-08-27
+period: 2026-07-01 to 2026-08-27
 place: STP
-ledger_rows: 10
+ledger_rows: 11
 not_held: 13
-record: 3514ee200d1c
+record: 6a5ba302d262
 ---
 
 # Sao Tome and Principe: monthly update, July – August 2026
@@ -24,6 +24,11 @@ Eight rows moved between 1 July and 11 August 2026. The National Electoral Commi
 
 <!-- narrative: governance--gov-policy -->
 [A Data Governance Capacity Building Workshop ran 9–10 July 2026](https://www.linkedin.com/posts/d4dhub_d4datagov-datagovernance-africa-activity-7482375055130279936-Fj_f/), led by the D4D Hub with GIZ, AUDA-NEPAD and KICTANET, on national adoption of the AU Data Policy Framework; translation into policy or institutional reform remains the stated goal, not yet delivered. [AUDA-NEPAD launched its Programme for African Developing Island Economies at the AU's STC Ministerial Segment in Abidjan on 24 July](https://www.nepad.org/news/auda-nepad-launches-first-continental-programme-dedicated-africas-island-economies), adopting a ministerial communiqué covering STP among seven island states on a 2026–2031 roadmap naming digital transformation, AI and automation, and the knowledge economy among its accelerators, with partners including Korea, the AfDB, the regional economic communities and the Indian Ocean Commission.
+<!-- /narrative -->
+### Data protection
+
+<!-- narrative: governance--gov-protect -->
+A further agreement between the two jurisdictions on [exchanging information to combat money laundering is to be signed](https://observador.pt/2026/08/24/macau-e-sao-tome-e-principe-vao-assinar-acordo-para-combater-lavagem-de-dinheiro/). It is the second instrument with the same counterpart and the base holds no signature date or text for it.
 <!-- /narrative -->
 ### Regional collaboration
 

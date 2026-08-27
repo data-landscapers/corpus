@@ -3,10 +3,10 @@ title: Zambia — progress report, August 2025 – August 2026
 compiled: 2026-08-27
 period: 2025-08-01 to 2026-08-27
 place: ZMB
-ledger_rows: 178
+ledger_rows: 179
 not_held: 53
 indicators: 121
-record: 5cb180874980
+record: 8e11dba31859
 ---
 
 # Zambia: progress report, August 2025 – August 2026

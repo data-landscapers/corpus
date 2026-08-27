@@ -1,11 +1,11 @@
 ---
 title: Mali — monthly update, July – August 2026
-compiled: 2026-08-26
-period: 2026-07-01 to 2026-08-26
+compiled: 2026-08-27
+period: 2026-07-01 to 2026-08-27
 place: MLI
-ledger_rows: 46
+ledger_rows: 48
 not_held: 4
-record: e281891ac2d7
+record: 81a9396b8a1f
 ---
 
 # Mali: monthly update, July – August 2026
@@ -184,6 +184,11 @@ The month's one measure of what connectivity costs a Malian is a comparison with
 
 <!-- narrative: data--data-statistics -->
 The statistics institute runs a [microdata archive under its own domain holding 107 studies](https://microdata.instat.ml/index.php/catalog/), led by the 2022 census and near-annual agricultural surveys since 1996/1997. It is a first-party statistical archive rather than a whole-of-government open-data portal, and the base holds nothing of the latter kind.
+<!-- /narrative -->
+### Use of satellite data
+
+<!-- narrative: data--data-satellite -->
+Work is under way to [finalise the creation by decree of an integrated national measurement, reporting and verification system](https://mediaelles.com/environnement-vers-la-finalisation-la-creation-du-systeme-national-mrv-integre-de-la-cdn/) for the nationally determined contribution. No decree number, data source list or operator is on file.
 <!-- /narrative -->
 
 ## Geopolitics

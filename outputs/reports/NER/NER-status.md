@@ -1,15 +1,15 @@
 ---
 title: Niger — digital transformation and data governance status report
-compiled: 2026-08-26
+compiled: 2026-08-27
 place: NER
-ledger_rows: 60
-not_held: 3
-record: f16548d6f05e
+ledger_rows: 61
+not_held: 4
+record: 0029c2e8a59e
 ---
 
 # Niger: status report
 
-*Compiled 2026-08-26 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/NER/ledger.csv` (60 systems and instruments, 3 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-27 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/NER/ledger.csv` (61 systems and instruments, 4 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -224,7 +224,7 @@ Below the national identity stack, one municipal service is on record: Niamey's 
 | Villages Intelligents rural inclusion programme | [In development](https://www.lesahel.org/projet-de-villages-intelligents-de-lansi-a-tabelot-le-numerique-au-service-de-linclusion-et-du-developpement-local/) | Digital centre opened at Tabelot in Agadez |
 
 <!-- narrative: digitalisation -->
-
+Sub-national digitalisation is one programme in development: [Villages Intelligents](https://www.lesahel.org/projet-de-villages-intelligents-de-lansi-a-tabelot-le-numerique-au-service-de-linclusion-et-du-developpement-local/), which puts connectivity and services into rural communes. No site count or budget line is held.
 <!-- /narrative -->
 
 ## Technology
@@ -265,10 +265,16 @@ Two external relationships are now on record. Huawei — present in Niger since 
 | System or instrument | Status | Milestone |
 |---|---|---|
 | AfricaCERT Handshake symposium | [Implemented](https://www.lesahel.org/13e-edition-du-symposium-africacert-handshake-2025-le-niger-au-coeur-de-la-strategie-numerique-africaine/) | 13th edition hosted at Niamey July 2025 |
-| Niger Digital Day skills caravan | [Implemented](https://anp.ne/maradi-la-caravane-niger-digital-day-lancee-pour-renforcer-les-competences-numeriques-des-jeunes/) | Maradi stage opened 2026-08-18 |
+| Niger Digital Day skills caravan | [Implemented](https://anp.ne/niger-digital-day-renforce-les-competences-numeriques-de-140-jeunes-a-tahoua/) | Tahoua leg trained 140 young people, 25 August 2026 |
+
+### Research institutions
+
+| System or instrument | Status | Milestone |
+|---|---|---|
+| Council of Ministers decisions on research and innovation | [Implemented](https://www.gouv.ne/index.php/les-communiques-du-gouvernement/1284-conclusions-du-conseil-des-ministres-du-vendredi-21-aout-2026) | Conclusions of the Council of Ministers of 21 August 2026 |
 
 <!-- narrative: capacity -->
-
+Research capacity is recorded through government decisions rather than institutions: the [Council of Ministers of 21 August 2026](https://www.gouv.ne/index.php/les-communiques-du-gouvernement/1284-conclusions-du-conseil-des-ministres-du-vendredi-21-aout-2026) took decisions on research and innovation, and the base holds the conclusions rather than the instruments they announce.
 <!-- /narrative -->
 
 ## Inclusion
@@ -308,7 +314,7 @@ Against the enrolment programme, an [analyst warns of privacy breaches, state su
 | IGNN remote-sensing unit | [Implemented](https://ignn.net/la-teledetection-et-technique-spacialestts.html) | Described on IGNN's own site, retrieved 2026-08-10; no founding date published |
 
 <!-- narrative: data -->
-
+Satellite data rests on one institutional capability: the [remote-sensing unit of the national geographic institute](https://ignn.net/la-teledetection-et-technique-spacialestts.html), described on the institute's own site with no founding date published and no output on file.
 <!-- /narrative -->
 
 ## Geopolitics
@@ -332,7 +338,7 @@ Against the enrolment programme, an [analyst warns of privacy breaches, state su
 | e& Partner2Connect commitment | [Implemented](https://www.thenationalnews.com/future/technology/2024/03/01/uaes-e-commits-6bn-to-advance-technology-infrastructure-in-16-countries/) | Pledged at Mobile World Congress Barcelona, 2024-03-01 |
 
 <!-- narrative: geopolitics -->
-
+The external digital commitment on record is a Gulf one: the [e& Partner2Connect pledge made at Mobile World Congress](https://www.thenationalnews.com/future/technology/2024/03/01/uaes-e-commits-6bn-to-advance-technology-infrastructure-in-16-countries/), which names Niger among sixteen countries. No Niger-specific allocation or delivery is held.
 <!-- /narrative -->
 
 ## Gaps to fill

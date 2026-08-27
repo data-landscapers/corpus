@@ -3,10 +3,10 @@ title: Seychelles — progress report, August 2025 – August 2026
 compiled: 2026-08-27
 period: 2025-08-01 to 2026-08-27
 place: SYC
-ledger_rows: 54
+ledger_rows: 56
 not_held: 6
 indicators: 121
-record: 4b13624026ed
+record: 689b18373a4b
 ---
 
 # Seychelles: progress report, August 2025 – August 2026

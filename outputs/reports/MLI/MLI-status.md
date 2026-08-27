@@ -2,14 +2,14 @@
 title: Mali — digital transformation and data governance status report
 compiled: 2026-08-27
 place: MLI
-ledger_rows: 75
-not_held: 3
-record: a4b947c5c0af
+ledger_rows: 77
+not_held: 4
+record: 1cd07d5450c3
 ---
 
 # Mali: status report
 
-*Compiled 2026-08-27 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/MLI/ledger.csv` (75 systems and instruments, 3 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-27 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/MLI/ledger.csv` (77 systems and instruments, 4 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -59,6 +59,12 @@ A national AI strategy, a data-management law and a national public key infrastr
 | AES protocol on AI governance | [Planned](https://www.maliweb.net/technologie/4e-edition-de-la-semaine-du-numerique-des-recettes-variees-pour-la-souverainete-numerique-3118872.html) | Recommended at the Semaine du Numerique 2026-08-01 |
 | Membership of the African Telecommunications Union board | [Implemented](https://gouvernement.ml/communique-du-conseil-des-ministres-cm-n2026-30-sgg/) | Re-elected for 2027-2031 at the Abuja plenipotentiary |
 | Smart Africa cooperation | [Implemented](https://techafricanews.com/2026/03/10/mwc-2026-mali-strengthens-digital-cooperation-with-smart-africa/) | Ministerial meeting at MWC 2026 |
+
+### Public debate and participation in policymaking
+
+| System or instrument | Status | Milestone |
+|---|---|---|
+| Disinformation awareness campaign | [Implemented](https://gouvernement.ml/lutte-contre-la-desinformation-la-campagne-le-vrai-avant-le-viral-table-sur-la-sensibilisation-de-60-000-personnes/) | Campaign launched 20 August 2026 with a target of 60,000 people |
 
 <!-- narrative: governance -->
 The authority here is older than the systems it regulates. Loi n2013-015 has been in force since May 2013 and the APDP enforces under it: [about 2,000 declaratory files reviewed in 2025, with one 5m FCFA fine and more than 100 formal notices](https://fr.apanews.net/community/mali-lapdp-examine-2-000-dossiers-et-un-projet-darrete/), a [regional antenna at Segou](https://lessor.ml/posts/autorite-de-protection-des-donnees-a-caractere-personnel-la-region-de-segou-a-son-antenne-6932a107b56bd), and [more than 1,000 files before a ten-day session opened on 3 August 2026](https://orbiteinfo.com/mali-lapdp-ouvre-sa-2e-session-2026-avec-1-000-dossiers-au-programme/). No figures for sanctions issued or files cleared are published, so the docket is a workload count.
@@ -212,7 +218,7 @@ Government's own systems are being wired together: [13 services on the AGETIC in
 | Koutiala commune fiscal census and financial management digitisation | [In development](https://www.idsahel.com/2026/08/13/koutiala-un-projet-de-recensement-fiscal-et-de-digitalisation-pour-renforcer-la-gestion-des-ressources-communales/) | Presented to the commune 2026-03-06 |
 
 <!-- narrative: digitalisation -->
-
+Sub-national digitalisation is one commune-level project: [a fiscal census and the digitisation of financial management at Koutiala](https://www.idsahel.com/2026/08/13/koutiala-un-projet-de-recensement-fiscal-et-de-digitalisation-pour-renforcer-la-gestion-des-ressources-communales/). Nothing on file extends it to other communes.
 <!-- /narrative -->
 
 ## Technology
@@ -260,7 +266,7 @@ The sector's largest movement was ownership rather than technology. The state [r
 | Higher-education and research digital capacity | [In development](https://dg-enseignementsup.ml/wp-content/uploads/2024/10/Document-de-Politique-Nationale-de-ES.pdf) | Universite Numerique du Mali strategic framework and action plan validated 2024-05-07 |
 
 <!-- narrative: capacity -->
-
+Higher-education and research digital capacity rests on a [national policy document naming a Universite Numerique du Mali strategy](https://dg-enseignementsup.ml/wp-content/uploads/2024/10/Document-de-Politique-Nationale-de-ES.pdf) rather than on delivered provision. No enrolment, platform or funding line is held.
 <!-- /narrative -->
 
 ## Inclusion
@@ -292,8 +298,14 @@ Skills programmes are being opened faster than they are being measured. Recruitm
 |---|---|---|
 | Open-data portal or policy | ***Not held, searched 2026-08-10 — no single access-to-information law found; the right is split across Loi 98-012, Loi 2013-015 and Loi 2017-062*** | — |
 
-<!-- narrative: data -->
+### Use of satellite data
 
+| System or instrument | Status | Milestone |
+|---|---|---|
+| Integrated national MRV system for the climate contribution | [In development](https://mediaelles.com/environnement-vers-la-finalisation-la-creation-du-systeme-national-mrv-integre-de-la-cdn/) | Creation of the system moving to finalisation by decree, August 2026 |
+
+<!-- narrative: data -->
+The one satellite-data instrument on record is the [integrated national measurement, reporting and verification system for the climate contribution](https://mediaelles.com/environnement-vers-la-finalisation-la-creation-du-systeme-national-mrv-integre-de-la-cdn/), whose creating decree is being finalised.
 <!-- /narrative -->
 
 ## Geopolitics
@@ -329,7 +341,7 @@ Skills programmes are being opened faster than they are being measured. Recruitm
 | India bilateral digital cooperation | ***Not held*** | — |
 
 <!-- narrative: geopolitics -->
-
+No India bilateral digital cooperation is held for Mali. The base carries no instrument under this heading at all, which is a statement about the record rather than about the country's external relations.
 <!-- /narrative -->
 
 ## Gaps to fill

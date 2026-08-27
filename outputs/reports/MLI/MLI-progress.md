@@ -3,10 +3,10 @@ title: Mali — progress report, August 2025 – August 2026
 compiled: 2026-08-27
 period: 2025-08-01 to 2026-08-27
 place: MLI
-ledger_rows: 87
+ledger_rows: 89
 not_held: 4
 indicators: 121
-record: ac76c9c979e5
+record: e8aba9dd7b73
 ---
 
 # Mali: progress report, August 2025 – August 2026

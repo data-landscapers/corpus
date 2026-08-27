@@ -1,11 +1,11 @@
 ---
 title: Madagascar — monthly update, July – August 2026
-compiled: 2026-08-26
-period: 2026-07-01 to 2026-08-26
+compiled: 2026-08-27
+period: 2026-07-01 to 2026-08-27
 place: MDG
-ledger_rows: 27
+ledger_rows: 28
 not_held: 8
-record: 5e6feb20ff77
+record: 4be00467cb8a
 ---
 
 # Madagascar: monthly update, July – August 2026
@@ -68,6 +68,11 @@ On 3 August MVola's new director general [gave the first account of the platform
 
 <!-- narrative: dpi--dpi-registry -->
 The day after the biometric-registration review, the electoral commission [opened a full reconstitution of the electoral roll at Talata Volonondry](https://2424.mg/election-la-ceni-lance-les-operations-de-recensement-pour-la-refonte-de-la-liste-electorale-avant-les-scrutins-de-2027/) — a rebuild rather than the routine revision — running four months to 24 November 2026, to produce the single roll for all elections and referendums scheduled in 2027. The trigger is stated: the previous roll drew sustained contestation and is named as a source of tension at earlier polls. Registration runs through five channels, at fokontany level on presentation of a national identity card. The commission states that an unregistered citizen may not observe polling in their own place of residence and may not lodge a complaint or contest results.
+<!-- /narrative -->
+### Sectoral management information systems
+
+<!-- narrative: dpi--dpi-mis -->
+An assessment put Madagascar's [digital-health maturity at 55.6 per cent](https://moov.mg/article/120129-sante-numerique-apres-evaluation-madagascar-obtient-un-score-de-maturite-de-556-percent). Neither the assessment instrument nor who administered it is named in the account.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 

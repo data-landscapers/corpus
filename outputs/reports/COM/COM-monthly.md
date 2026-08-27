@@ -1,11 +1,11 @@
 ---
 title: Comoros — monthly update, July – August 2026
-compiled: 2026-08-25
-period: 2026-07-01 to 2026-08-25
+compiled: 2026-08-27
+period: 2026-07-01 to 2026-08-27
 place: COM
-ledger_rows: 11
+ledger_rows: 12
 not_held: 35
-record: b43a1ede268b
+record: f1a7c8e38e22
 ---
 
 # Comoros: monthly update, July – August 2026
@@ -43,6 +43,11 @@ The connectivity project the agency carries reached the stage before financing. 
 
 ## DPI
 
+### Digital Payments and Fintech
+
+<!-- narrative: dpi--dpi-pay -->
+A fault between the mobile-money service and the utility's prepaid electricity meters on Moheli [let subscribers credit their meters without the amounts being collected](https://www.comoresinfos.net/200-millions-de-francs-de-pertes-presumees-que-sest-il-passe-entre-mvola-et-la-sonelec-a-moheli/), with presumed losses of 200 million francs. The figure is presumed in the reporting rather than confirmed by either party, and no remediation, recovery or audit has followed.
+<!-- /narrative -->
 ### Registries
 
 <!-- narrative: dpi--dpi-registry -->

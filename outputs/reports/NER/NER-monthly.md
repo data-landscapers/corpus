@@ -1,11 +1,11 @@
 ---
 title: Niger — monthly update, July – August 2026
-compiled: 2026-08-26
-period: 2026-07-01 to 2026-08-26
+compiled: 2026-08-27
+period: 2026-07-01 to 2026-08-27
 place: NER
-ledger_rows: 29
+ledger_rows: 30
 not_held: 4
-record: a9b71e28380b
+record: 0560427ade59
 ---
 
 # Niger: monthly update, July – August 2026
@@ -115,6 +115,11 @@ The innovation estate gained a site and not yet a hub. A university at Diffa [wa
 
 <!-- narrative: capacity--capacity-training -->
 Skills work in the window travelled rather than sat still. The Niger Digital Day caravan [opened its Maradi stage as a two-day youth digital-skills programme its organisers say will run in all eight regions and reach more than 800 young people, with training including artificial intelligence](https://anp.ne/maradi-la-caravane-niger-digital-day-lancee-pour-renforcer-les-competences-numeriques-des-jeunes/). Coverage and reach are the organisers' own figures and no per-stage completion count is published, so the caravan is on record as a plan being executed rather than as a measured outcome.
+<!-- /narrative -->
+### Research institutions
+
+<!-- narrative: capacity--capacity-research -->
+The [Council of Ministers of 21 August 2026 took decisions on research and innovation](https://www.gouv.ne/index.php/les-communiques-du-gouvernement/1284-conclusions-du-conseil-des-ministres-du-vendredi-21-aout-2026). Cabinet conclusions name what is decided without carrying the text of it, so the base holds the announcement and not the instruments.
 <!-- /narrative -->
 
 ## Inclusion

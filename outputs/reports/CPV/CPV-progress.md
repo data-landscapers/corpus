@@ -3,10 +3,10 @@ title: Cape Verde — progress report, August 2025 – August 2026
 compiled: 2026-08-27
 period: 2025-08-01 to 2026-08-27
 place: CPV
-ledger_rows: 141
+ledger_rows: 142
 not_held: 45
 indicators: 121
-record: fb0a91d51b7a
+record: fa1c202ee16e
 ---
 
 # Cape Verde: progress report, August 2025 – August 2026

@@ -1,15 +1,15 @@
 ---
 title: Comoros — digital transformation and data governance status report
-compiled: 2026-08-25
+compiled: 2026-08-27
 place: COM
-ledger_rows: 111
+ledger_rows: 112
 not_held: 35
-record: 85890e8d277c
+record: f32119a0fb65
 ---
 
 # Comoros: status report
 
-*Compiled 2026-08-25 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/COM/ledger.csv` (111 systems and instruments, 35 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-27 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/COM/ledger.csv` (112 systems and instruments, 35 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -184,6 +184,7 @@ Infrastructure is thinly evidenced in both directions. The one built asset is th
 | Komor Switch | [Implemented, first phase only](https://banque-comores.km/article/show/ceremonie-de-lancement-des-nouveaux-moyens-de-paiement) | Launched 2026-05-04, with card interoperability between local banks from July 2026 |
 | KomorPay interbank settlement system | [Implemented](https://banque-comores.km/article/show/ceremonie-de-lancement-des-nouveaux-moyens-de-paiement) | Entered service 2026-04-23, with a presidential launch on 2026-05-04 |
 | Mali Ya Wakazi agent-banking network | [Piloting](https://www.mayottehebdo.com/actualite/economie/comores-lancement-de-nouveaux-systemes-de-paiement/) | In test since June 2025, with agents identified and trained and progressive commissioning under way |
+| Mobile-money to prepaid electricity meter interface | [Implemented, faulty](https://www.comoresinfos.net/200-millions-de-francs-de-pertes-presumees-que-sest-il-passe-entre-mvola-et-la-sonelec-a-moheli/) | Fault reported to have allowed uncollected meter credit on Moheli |
 | National interoperable payment switch | [Implemented](https://www.wearetech.africa/en/fils-uk/news/tech/comoros-deploys-digital-payment-switch) | Went live 2025-08-23, built under a World Bank financial-sector operation |
 
 ### Registries
@@ -238,7 +239,7 @@ The section's ***Not held*** rows include a national services portal or single w
 | Universal service or rural digital access fund | ***Not held*** | — |
 
 <!-- narrative: digitalisation -->
-
+No universal service or rural digital access fund is held for the Comoros. Rural access appears on this record only through commercial coverage, which is carried under Infrastructure.
 <!-- /narrative -->
 
 ## Technology
@@ -289,7 +290,7 @@ Six positions exist and all six are first-of-kind and small. A [Shikomori text-t
 | Women entrepreneur training programme | [Implemented](https://techreviewafrica.com/news/3822/axian-telecom-advances-next-2030-vision-in-comoros) | Named as a 2025 milestone in the group's own strategy communication |
 
 <!-- narrative: capacity -->
-
+Training rests on private provision: [artificial-intelligence training sessions run by a private foundation](https://lagazettedescomores.com/soci%C3%A9t%C3%A9/formation-sur-l%E2%80%99intelligence-artificielle-une-deuxi%C3%A8me-session-bien-r%C3%A9ussie-.html), now into a second session. No public programme, curriculum or completion figure is held.
 <!-- /narrative -->
 
 ## Inclusion
@@ -335,7 +336,7 @@ Inclusion is carried by one-off activities and measured by nothing. What exists 
 | National spatial data infrastructure or address register | ***Not held*** | — |
 
 <!-- narrative: data -->
-
+Satellite data appears only through census work: the statistics institute is [building census cartography capability for the 2027 count](https://www.lagazettedescomores.com/soci%C3%A9t%C3%A9/rgph-2027-l%E2%80%99inseed-amorce-son-virage-au-num%C3%A9rique-.html). No standing earth-observation programme is held.
 <!-- /narrative -->
 
 ## Geopolitics
@@ -371,7 +372,7 @@ Inclusion is carried by one-off activities and measured by nothing. What exists 
 | Indian digital or technology cooperation instrument | ***Not held*** | — |
 
 <!-- narrative: geopolitics -->
-
+No Indian digital or technology cooperation instrument is held for the Comoros, which is a statement about the record rather than about the country's external relations.
 <!-- /narrative -->
 
 ## Gaps to fill

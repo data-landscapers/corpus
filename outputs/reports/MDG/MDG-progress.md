@@ -3,10 +3,10 @@ title: Madagascar — progress report, August 2025 – August 2026
 compiled: 2026-08-27
 period: 2025-08-01 to 2026-08-27
 place: MDG
-ledger_rows: 67
+ledger_rows: 68
 not_held: 8
 indicators: 121
-record: 59fb5f8171a0
+record: 91da587f93cf
 ---
 
 # Madagascar: progress report, August 2025 – August 2026

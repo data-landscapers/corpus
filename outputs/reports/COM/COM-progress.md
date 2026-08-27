@@ -3,10 +3,10 @@ title: Comoros — progress report, August 2025 – August 2026
 compiled: 2026-08-27
 period: 2025-08-01 to 2026-08-27
 place: COM
-ledger_rows: 117
+ledger_rows: 118
 not_held: 35
 indicators: 121
-record: 4bfcaf8b9a9c
+record: 4f6782000aa4
 ---
 
 # Comoros: progress report, August 2025 – August 2026

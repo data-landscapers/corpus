@@ -4,7 +4,7 @@ compiled: 2026-08-27
 place: STP
 ledger_rows: 50
 not_held: 13
-record: 046ff1ae4e02
+record: 88ee2ec6a25b
 ---
 
 # Sao Tome and Principe: status report
@@ -49,7 +49,7 @@ Thirteen of forty-eight rows are ***Not held***: no compute capacity, satellite-
 |---|---|---|
 | ANPDP membership — Rede Lusofona de Protecao de Dados (RLPD) | [Implemented, founding member](https://www.cnpd.pt/comunicacao-publica/noticias/cnpd-recebeu-a-agencia-nacional-de-protecao-de-dados-pessoais-de-sao-tome-e-principe/) | CNPD (Portugal)-hosted cooperation visit; network described as 'recem-criada' (recently created) |
 | ANPDP supervision of PReSE registry-CEN data linkage | [Implemented, oversight assigned](https://www.telanon.info/politica/2026/04/15/52530/recenseamento-eleitoral-automatico-vai-ser-fiscalizado-pela-agencia-nacional-de-proteccao-de-dados-pessoais/) | ANPDP assigned to supervise the civil-registry/electoral-database interconnection |
-| Macau DSPDP-ANPDP cooperation MoU | [Enacted, signed](https://macaubusiness.com/macau-to-sign-personal-data-protection-pacts-with-cape-verde-sao-tome-and-principe/) | MoU signed 1 Jun 2026, covering cross-border data flows, AI supervision, awareness, training, joint studies |
+| Macau DSPDP-ANPDP cooperation MoU | [Enacted, signed](https://observador.pt/2026/08/24/macau-e-sao-tome-e-principe-vao-assinar-acordo-para-combater-lavagem-de-dinheiro/) | A further agreement on exchanging financial-intelligence information to be signed |
 | Malabo Convention — STP signatory status | [Enacted, signatory (ratification status not stated)](https://www.ibanet.org/document?id=Digital-Regulations-in-the-Metaverse-Era-Sao-Tome-Principe) | STP signatory status noted in IBA country chapter |
 
 ### Regional collaboration
@@ -203,7 +203,7 @@ The EU-funded PReSE electoral-roll project delivered its first real test in 2026
 | Dedicated rural digital-service programme | ***Not held*** | — |
 
 <!-- narrative: digitalisation -->
-
+No dedicated rural digital-service programme is held for Sao Tome and Principe.
 <!-- /narrative -->
 
 ## Technology
@@ -234,7 +234,7 @@ No dedicated AI, ICT-industry, Indian or Gulf-state instrument is on record for 
 | Applied digital-research programme | ***Not held*** | — |
 
 <!-- narrative: capacity -->
-
+No applied digital-research programme is held. The base carries no university centre mandate, funded programme or published output under this heading.
 <!-- /narrative -->
 
 ## Inclusion
@@ -260,7 +260,7 @@ CST's January 2025 plan to extend fibre and mobile connectivity to schools, larg
 | Earth-observation or satellite-data programme | ***Not held*** | — |
 
 <!-- narrative: data -->
-
+No earth-observation or satellite-data programme is held for Sao Tome and Principe.
 <!-- /narrative -->
 
 ## Geopolitics
@@ -278,7 +278,7 @@ CST's January 2025 plan to extend fibre and mobile connectivity to schools, larg
 | Indian digital-sector engagement with STP | ***Not held*** | — |
 
 <!-- narrative: geopolitics -->
-
+No Indian digital-sector engagement is held. The external relationships the base does carry run to Macau and are recorded under data protection.
 <!-- /narrative -->
 
 ## Gaps to fill
