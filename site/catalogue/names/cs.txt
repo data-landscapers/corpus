@@ -10,6 +10,7 @@ BNC CAAZ CSIC FAHRC FRC GEII	1554
 CBDC CCBG CFT CMA CPI CSI	11131
 CDC CNBS COVID CPN CSPro DAM	10777
 CIDP County Integrated Development Plan CSO	7548
+CIPC Companies and Intellectual Property Commission CSD	11250
 CPD Continuous Professional Development CSP Content	6946
 CR Civil Registry CSU Cadastro Social	10765,10
 CS Adjusted	1818
@@ -68,7 +69,11 @@ CSD Central Supplier Database CSIR Council	5533
 CSD Conseil National de Secours	643
 CSD International Statistical Classification of Diseases	1009
 CSD Minimum Interoperability Standard MHD Multi-Patient	1009
+CSD NUMBER	11240
+CSD NUMBER MUST BE PROVIDED	11240
 CSD Poverty	11136
+CSD REGISTRATION NUMBER TAX COMPLIANCE	11240
+CSD Tax Compliance Status and Registration Requirements	11240
 CSD- R1.2	643
 CSD-GE	10858
 CSD-GE DPSR CAT DPSR DPSR DPSR	10858
@@ -79,6 +84,7 @@ CSE-Prog	10712
 CSEA Digital Preparedness Index	5724
 CSEA South Africa Data Governance Snapshot	5724
 CSEIT251115 Li	8606
+CSF Community Safety Forum CSIR Council	11188
 CSF Cybersecurity Framework	6936
 CSHUB-CSIRT	8897
 CSI CSOC DPF DTX ECGS EGFT	11134
@@ -91,8 +97,10 @@ CSI. People	3604
 CSIR Defence and Security	10889
 CSIR Infographic	1938,1
 CSIR Information and Cybersecurity Centre	1940
+CSIR Ladies and Gentlemen	11221
 CSIR South Africa	5598
 CSIR and NRF	6886
+CSIR and SASRIA	11353
 CSIR-INST	4126
 CSIR-INSTI	4126
 CSIR. The Centre for High Performance Computing	9126
@@ -133,6 +141,7 @@ CSM Tech Limited. Key	10411
 CSM.S1	10721
 CSM.S2	10721
 CSO CSOC DPF ECGS ERM EXCO	11131
+CSO Civil Society Organisation CSS Corporate	11261
 CSO Civil Society Organization DNIC National	4214
 CSO Civil Society Organizations DPI Digital	10714
 CSO Open Days	7784
@@ -215,6 +224,7 @@ Civil Society CSA	6936
 Cloud Adoption Committee. CSPs	6432
 Cloud Services Providers. GOK Entities CSPs	6432
 CoK City of Kigali CSI Cybersecurity Strategic	718
+Combined-Cycle Gas Turbines CSP Concentrated Solar	11228
 Communication and Technology and Digital Economy CS	1236
 Comunidad de Países de Lengua Portuguesa CSU	1701
 Conferência CSA	2816
@@ -230,6 +240,7 @@ Czechia’s Transformation Cooperation Programme. CSA	8947
 DPC. CSA	6936
 Data CSIR Council for Scientific and Industrial Research	5246
 Data Localization. CSIS. Zillner	1243
+Diesel CSP Biomass Biogas BESS	11236
 Dublin Core JSON Multiline CSV Simple	10878
 Durée Moyenne de Scolarisation CSPS	737
 EU CSO Roadmap	970
@@ -276,12 +287,14 @@ Google CSIR Icasa Luzangu Mfupe Paul	6365
 Government CSPs	6432
 Government and Academia CSIRTs Finalize the TORs	2989
 Government and Academic CSIRTs	2989
+HONOURABLE CS MATHABATHA	11261
 Health CS	2709,6225
 Health CS Aden Duale	3393
 Health CS Aden Duale. BHI	3400
 Health CS Aden Duale. Four	3400
 Health CS Duale	8934
 Health Centre COBIT CSIR Control Objectives	1009
+Honourable CS Mathabatha	11261
 ISPs CSA	6936
 Implementar CSIRT RTPE	1431,1
 Improve CSAT	5226
@@ -306,6 +319,7 @@ Major CSPs	6477
 Mali-Mètre. Le CS	6959
 Ministro Secretario Mesa Magistrado CSJ	4209
 MoCDTI CSA	6936
+Mobile CSC	11188
 NATO North Atlantic Treaty Organization CSA	6936
 NC4 CSPs KoTDA MCDAs NC4	6432
 NCC CSIRT	5677
@@ -329,7 +343,9 @@ OtSO CSEE	1885
 Partnership Framework CSI Corporate Scorecard Indicator	6539
 Partnership Framework CSU Single Social Registry	10768
 Pilot License CSM Cylinder Smart Metering	2775
+Police Forum CSC Community Service Centre	11188
 Policy. CSRI	6946
+Preferential Procurement CSI Corporate Social Investment	11193
 Program Supporting Digital CSIs	3604
 Promoting CSA	970
 Promotion Social CSP	737
@@ -340,6 +356,7 @@ Rapport CSD-DS	643
 Rede Nacional de CSIRTs	6970
 Reporting System CSA Climate Smart Agriculture-Based	970
 Resilience Building CSO Civil Society Organisation	970
+Restitution of Land Rights CSI Committee for Spatial	11261
 SERVICE PROVIDERS The CSA	9728
 SLAs CAC MCDAs CSPs CAC	6432
 SOC and CSIRT	1432,657,2321,9
@@ -355,6 +372,7 @@ Strengthening CSOs	7784
 Study of CSR Engagement	2518
 TECH5 CSO Rob Haslam	1836
 TIMELINES CSP Accreditation Process	6432
+TREASURY CSD	11240
 Technologies Office CSOs	7548
 Technologique CSLP Cadre Stratégique de Lutte	12
 Telecel and CSquared	3184

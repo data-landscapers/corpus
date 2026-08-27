@@ -1,3 +1,4 @@
+Artificial Intelligence Commissioner Serve	11247
 CBE SERVED BY OTHER FORMAL FINANCIAL	418
 Central Authentication Server Common ICT Processes	9123
 Chassis for Servers and Storages	1988
@@ -24,9 +25,10 @@ Perso Server	4924
 Regular Reboot of Serves Scheduled	9123
 Reserve Parts for Servers	9123
 Route Server Inbound	718
+SERVER AND STORAGE INFRASTRUCTURE	11209
 SQL Server	6432
 Sequel Server	9124
-Serve	2757,1104,667
+Serve	2757,1104,667,6663,46
 Served	1984,2958,664,283,454,183,4452,152
 Server	593,626,5213,2691,1
 Server Backup	34
@@ -49,3 +51,5 @@ Web Content Management Server OS N	9124
 Windows Server	34,6398,2246
 Windows Server and SQL Server	6432
 Windows Servers	10617
+X HPe Synergy Blade Server BL480	11209
+X HPe Synergy Blade Servers BL660	11209

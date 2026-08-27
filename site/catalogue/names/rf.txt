@@ -1,3 +1,4 @@
+ADDITIONS AND AMENDMENTS TO THE RFP	11240
 Add RESTful Query RFC7525 and Feed	1009
 Avec le Rfu	6795
 Basic RFC1738 RFC2616 XML V1.0	1009
@@ -10,6 +11,7 @@ EU RF CYBER	789
 EU RF P	789
 EU RF SSR	789
 Effectiveness GDP Gross Domestic Product RFS	3184,1,1340,6470
+Energy Independent Power Procurement Programme RFP	11228
 Enterprise XDS RFC	1009
 FHIR RFC2616 RFC4627 RFC6585 RFC5424 RFC3339	1009
 IDA-E2020-001 RFP	7951
@@ -73,10 +75,18 @@ RFID and EAS	736
 RFID-enabled	8296
 RFLD for West and Central Africa	8318
 RFP FOR PROVISION OF TRANSACTION ADVISORY	5793
+RFP Number	11240
+RFP Part C	11240
+RFP Part D	11240
 RFP Wireless Infrastructure for AUC Final	7951
 RFP for Implementing	10822
+RFP. Accordingly	11240
 RFP. Aisino	3700
 RFP. Closing	9676
+RFP. Development Bank of Southern Africa Page	11240
+RFP. If the Bidder	11240
+RFP. Only	11240
+RFP004	11240
 RFP116	7514
 RFQ 03	8474
 RFQ-RFP	5793
@@ -84,6 +94,7 @@ RFS Ready For Service F Forecast	3184,1,1340,6470
 RFS Regulations	6891
 RFSAP	7828
 RFSAPs	7828,152
+RULES GOVERNING THIS RFP	11240
 Radio Frequency Bandwidth RFBW	736
 Referral RFC	1009
 Remove Metadata and Documents RFD South African	1009

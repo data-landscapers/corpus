@@ -31,15 +31,18 @@ Acção Social Escolar Direcção Nacional de Educação	10766
 Adoni Conrad Quenum Edité	8232,1363
 Adult Education	2775
 Adult Education Centres	2775
+Adult Education and Training	11252
 Adult and Continuing Education and Training	6832
 Adultos Direcção Nacional da Educação Pré-Escolar	10766
 Adultos Educação Moral	10766
 Adultos. Anuário Estatístico da Educação	10766
+AfD-Bundestagsabgeordnete Edgar Naujok	11316
 Africa Data Edge Ltd	8285
 Africa Summit Malawi Edition	9820
 Africa's EdTech	8209,118
 African EdTech	8327,562
 African Higher Education Curriculum Conference	10170
+Africa’s Business Heroes. Melchior Koba Edité	11348
 Africa’s EdTech	8889
 Aga Khan Education Service Kenya Data	7167
 Agriculture Commerce Education Santé Entreprise Etc	9481
@@ -49,6 +52,7 @@ Akwa Ibom State Ministry of Education	7664
 Alderman Eddie Andrews	6486
 Algerian Ministry of Vocational Training and Education	5952
 Ameta-analysis. British Journal of Educational Technology	8602
+Analysis EDD	11271
 Angola Anuário Estatístico da Educação	10766
 Angola and EDGE Group	9399
 Angola and EDGE Group Near Border Security	9399
@@ -82,13 +86,20 @@ BFIX ED	2706
 BUILD DIGITAL LITERACY FOR ALL EDUCATORS	899
 Bachelor of Education Honours	6832
 Banco Mundial EDIÇÃO Eugénia Tavares Ulo	10757
-Basic Education	899,110
+Bantu Education	11245
+Basic Education	899,110,10221
 Basic Education Act	7832,2448
 Basic Education Act No	899
+Basic Education Budget	11274
+Basic Education DDG Deputy Director-General DDM	11261
 Basic Education John Ololtuaa. Tanui	10399
 Basic Education Laws SAHRC Summit Report	10729
+Basic Education Minister	11220
+Basic Education REPUBLIC OF SOUTH AFRICA	11180
 Basic Education Regulations	899
-Basic Education Sector	2526
+Basic Education Sector	2526,8694
+Basic Education Sector Insights	11241
+Basic Education Sector. The Strategy	11220
 Belgian EDFI Management Company	4972
 Benin Expands AI Education With First	6893
 Benin Expands Higher Education Access Through	7062
@@ -183,6 +194,8 @@ Convention. Education UNHCR	10864
 Coordenações Comunais da Educação	10766
 Coração Azul. Edição Nº	10750
 Corporate Online Editors	11097
+Council for Higher Education	11277
+Council of Education Ministers	11180,40
 Countries EDGI	10840
 Country Region Sub-Region City EDGI Group	10840
 County Department of Education and Technical Training	7167
@@ -215,6 +228,7 @@ D. G DE EDUCA. ESPECIAL	4209
 D.G DE EDUC	4209
 D.G. DE EDIFICACIONES Y VIVIEN...- Concepto.-66111	4209
 DATA HUB AND THE EDGE	9399
+DBE’s Education Management Information System	11241
 DC EDIC	6468
 DCP Digital for Tertiary Education Program DFIL	3604
 DE EDIFICACIONES Y VIVIEN.- Concepto.-66314	4209
@@ -238,13 +252,18 @@ David Edoja	10164
 Dear Editor	9653
 Departamentos de Educación	4209
 Department Higher Education Opportunities	9128
-Department of Basic Education	6832,3270
+Department of Basic Education	6832,3270,1078,38,2,5,16
 Department of Basic Education DCDT	6832
-Department of Education	7167,3080,92
-Department of Higher Education and Training	5533,50,1249,790,1506,237,1029
+Department of Basic Education Health	11237
+Department of Basic Education Integrate	11195
+Department of Basic Education Private Bag XB95	11180
+Department of Education	7167,3080,92,841
+Department of Higher Education and Training	5533,50,1249,790,1506,237,1029,799,32,23,29,8,18
 Department of Higher Education and Training DTIC	6832
 Department of Science and Education	6948
 Department of Social Science Education	6211
+Departments of Basic Education	11220
+Departments of Basic Education and Higher Education	11281
 Deputy British High Commissioner Dr Ed	10587
 Deputy Minister of Higher Education and Training Mimmy	5583
 Description EDCF	354,1,281,1,1,212,232
@@ -261,6 +280,8 @@ DigiAfricaLab Public Education Framework For DigiAfricaLab	10725
 Digital Commons EDIC	6468
 Digital Education Africa Network Kenya Data	7167
 Digital Education Project	244,1,71,1
+Digital Education Strategy	11220
+Digital Education Strategy Menu About	11220
 Digital Identity APPENDIX First Edition	10819
 Digital Identity First Edition	10819
 Digital Innovation Digital Infrastructure Smart Education	2256
@@ -269,6 +290,7 @@ Digital Technologies and Educational Inequality	10831
 Digital Transformation of Higher Education	6174
 Digital and Infrastructure Projects By Editorial Team	6523
 Digital for Tertiary Education Program	3604
+Director for Education Management Information Systems	11241
 Director for Graduate and Continuous Education	10384
 Director of Information and Public Education	2113
 Director of Secondary Education	5802
@@ -276,6 +298,7 @@ Director-General Office of Education Quality Assurance	7444
 Direitos Humanos. Edição Nº	10752,1
 Dominic Edem Hotor	9232
 Donations and Education Support TechAfrica News	6320
+Dr. Ed Barnett	11299
 Dr. Edna Kamau Data Processor INST-64030974D0E	7167
 Dr. Edwin	9966
 Dr. James Edwin	9966
@@ -344,6 +367,7 @@ EDGEMATRIX SOLUTIONS LIMITED Data Processor INST-21326471997	7167
 EDGEPATH AFRICA LIMITED Data Controller INST-4770706B79C	7167
 EDGEPATH AFRICA LIMITED Data Processor INST-4770706B79C	7167
 EDI GLOBAL	7167
+EDI Roadmap	11236
 EDIFACT	1009
 EDINBURGH MOUNTAIN HOSPITAL LIMITED Data Controller	7167
 EDIPRESSE	2342
@@ -388,7 +412,7 @@ EDTON TECHNICAL ENGINEERING LIMITED Data Controller	7167
 EDUCACION	4209
 EDUCACION ENSEÑANZA FORMACION PROFESIONAL	4209
 EDUCATE	7167
-EDUCATION	737,3590,2840,3592,76,2,1,130
+EDUCATION	737,3590,2840,3592,76,2,1,130,224
 EDUCATION AND BIOSECURITY	7167
 EDUCATION AND TRAINING ACT	6921
 EDUCATION ANTI-CORRUPTION	10835,133
@@ -500,7 +524,11 @@ Edgcumbe and Thaldar	9969
 Edge AI	4434,2717
 Edge AI Solutions	4434
 Edge Computing	11000
-Edge Growth	10682
+Edge Growth	10682,639
+Edge Growth Ventures	11321
+Edge Growth Ventures Following the R350	11321
+Edge Growth Ventures The EIF	11321
+Edge Impact Fund	11321
 Edge India Didn't	8206
 Edge Network Services	3839
 Edge Network Services Limited	3839
@@ -542,13 +570,14 @@ Edith Poni	3323
 Editing	7,2250,46,3,43,20,5,9,23,15,9,5,75,12,20,15,10,1,5,44,117,26,4,18,9,78,1188,2429,2110,1777,492,117
 Editing-Lead	8436
 Editing-Supporting	8436
-Edition	1154,199,201,960,163,719,1470,495,265,558,283,470,274,616,16,7,130,109,1058,140,55,261,1,1371,4,1,149,7,20
+Edition	1154,199,201,960,163,719,1470,495,265,558,283,470,274,616,16,7,130,109,1058,140,55,261,1,1371,4,1,149,7,20,68,65
 Edition Companion	1353
 Edition Global Cybersecurity Index	10764
 Edition No	11105
 Edition PDF	9147
 Edition Rue Haute	10865
 Edition du Forum	7843,1444,55
+Edition. New York	11296
 Edition.pdf	1353,4273
 Editions	8738,146
 Editor	1722,588,107,251,300,114,1779,1976,149,126,87,1315,104,731,872
@@ -557,7 +586,7 @@ Editor of Connecting Africa	2320,1219,1420,19,1100,180
 Editor's Pick	8352
 Editor's Picks	10405
 Editor-in-Chief	8283
-Editorial	3182,365,1399,605,1600,124,278,1331,986,155,168,533
+Editorial	3182,365,1399,605,1600,124,278,1331,986,155,168,533,574
 Editorial Board	7886
 Editorial Board Chair of DNN	8522
 Editorial Director	8522
@@ -615,7 +644,9 @@ Edjang Bibang Oyana	8378
 Edline Murungi	9311
 Edmej	7649
 Edmond Moukala	8363,185,654
+Edmond Street	11184
 Edmund Yakani	4223
+Edmée Mansilla	11326
 Edn. Free Software Foundation	2096
 Edn. Oxford University Press	2096
 Edna Mupila	10216
@@ -636,7 +667,12 @@ Edouard Normand Bigendako	4915
 Edrine Wanyama	2549,4245
 Edrine Wanyama Digital	2549
 Edson Guyai	2924,1629
+EduBytes	11306
 EduGha Institute for Social Development	10067
+EduSpots	11306
+EduSpots App	11306
+EduSpots Network. Isaac Kobby Ayibor	11306
+EduSpots’ Training Centre	11306
 EduTech	3604
 Eduarda	10751
 Eduardo	9399
@@ -664,7 +700,7 @@ Educate	5676,5045
 Educated	4301,4159
 Educatel	10121
 Educating	958,3774
-Education	12,9,188,1,185,23,102,93,30,1,93,38,14,2,31,38,39,59,12,36,148,7,58,144,234,107,4,69,1,36,10,4,49,111,105,380,3,128,62,21,83,5,41,109,33,8,92,323,15,166,21,21,86,101,68,2,42,125,98,156,246,30,57,10,28,176,164,93,23,118,17,3,264,22,122,16,131,173,236,3,209,116,209,84,44,70,2,11,38,30,158,19,181,59,37,57,10,114,10,59,112,33,10,383,151,182,50,21,45,222,16,5,106,36,17,8,1,10,298,41,4,333,9,372,90,119,203,103,3,45,6,10,1,8,30,7,5,3,6,2,1,3,3,3,9,14,43,27,25,2,1,1,7,3,27,73,55,1,5
+Education	12,9,188,1,185,23,102,93,30,1,93,38,14,2,31,38,39,59,12,36,148,7,58,144,234,107,4,69,1,36,10,4,49,111,105,380,3,128,62,21,83,5,41,109,33,8,92,323,15,166,21,21,86,101,68,2,42,125,98,156,246,30,57,10,28,176,164,93,23,118,17,3,264,22,122,16,131,173,236,3,209,116,209,84,44,70,2,11,38,30,158,19,181,59,37,57,10,114,10,59,112,33,10,383,151,182,50,21,45,222,16,5,106,36,17,8,1,10,298,41,4,333,9,372,90,119,203,103,3,45,6,10,1,8,30,7,5,3,6,2,1,3,3,3,9,14,43,27,25,2,1,1,7,3,27,73,55,1,5,40,5,7,1,2,1,2,22,1,44,1,5,25,11
 Education A Mixed School Bag	5606
 Education Above All	899
 Education Act	3583
@@ -701,10 +737,13 @@ Education Health Other FISIM All In-	2775
 Education ICT News Young	8038
 Education Implement	1161
 Education In-depth Structured Interview	899
+Education Information Officer	11180
+Education Information Policy	11180
 Education Initiatives	1777,7222
 Education Innovations	899
 Education KDB Kenya Dairy Board KDC	2775
 Education Kenya Compact	899
+Education Labour Relations Council	11241
 Education Law Centre	10729
 Education Level	7869
 Education Loan Fund	2536
@@ -713,6 +752,7 @@ Education MDAs Ministries	6539
 Education Management Information System	210,1749,1460,153,1672
 Education Management Information System EU	5244
 Education Management Information System F2F	6832
+Education Management Information Systems	11180
 Education Management and Information System	10748
 Education Mbale ICT Hub	5109
 Education Minister	3183,6466
@@ -732,6 +772,7 @@ Education PTF Partenaires Techniques	12
 Education Platforms	6748
 Education Platforms for Students	6748
 Education Policy	899
+Education Pre-Conference Workshop	11307
 Education Primary and High School Education	11134
 Education Programme	8730
 Education Project	791
@@ -762,6 +803,7 @@ Education Toolkit	6048
 Education Without Borders	6051
 Education and AI Literacy Mission Integrate AI	4528
 Education and Administrative Support Service	2775
+Education and Communications	11198
 Education and Culture	7624,1343
 Education and Digital Development Global Quality Assurance	6832
 Education and Education-System-Reform Minister Houda Babah	3333
@@ -780,6 +822,7 @@ Education and Technical Education	9414
 Education and Training	899,1041,835
 Education and Training Act	6921
 Education and Training Authority	10709
+Education and Training Authority MISS Minimum Information	11196
 Education and Training Overview	2775
 Education and Training Policy Framework	899
 Education and Training18	899
@@ -805,7 +848,7 @@ Education. Given	899
 Education. Leverage	899
 EducationPriorité AfriqueCountry	8387
 EducationTechAIInclusive AI	4028
-Educational	582,317,262,716,63,1018,903,265,527,81,2099,194,1575,518,8,1631,72,6
+Educational	582,317,262,716,63,1018,903,265,527,81,2099,194,1575,518,8,1631,72,6,358,76
 Educational Administration	7278
 Educational Assessment and Examination Service	10709
 Educational Awareness Campaign	9394
@@ -821,12 +864,15 @@ Educational Platforms and Content	8709
 Educational Psychology Review	8602
 Educational Qualification Functional	11129
 Educational Qualification Functional Title Secondary Address	11129
+Educational Social Development and Small Business	11280
 Educational Technical Cooperation Project	122,337
 Educational Technical Cooperation Project. China’s Ministry	122,337
 Educational Technology	6832,2296
 Educational Tour	11131
 Educativa	4209
-Educator	899
+Educator	899,10281
+Educator National Office Address	11241
+EducatorTeachingLevel	11180
 Educatorperspectivesonlearninganalyticsin	8602
 Educators	899,2059,3874
 Educação	15,1250,1172,379,1087,141,1619,291,25,947,44,2588,556,638,2,3,3,6,6,5
@@ -842,6 +888,7 @@ Educação Pré-Escolar	10766
 Educação de Jovens	10766
 Educação. Tal	10766
 Educmaster Dans	10883
+Edunity Lab	11309
 Edutech	2577
 Edução	10752
 Edward	2096,4852,584,1027
@@ -872,7 +919,7 @@ Edwige Ngono	3808
 Edwin Amoako	6277
 Edwin Dikoloti	7236
 Edwin Kiptoo Cheruiyot Data Processor INST-338060C4740	7167
-Edwin Kyambadde	6394
+Edwin Kyambadde	6394,4926
 Edwin Sifuna	7869,53
 Edwin Sifuna Fred Matiang’i Kalonzo Musyoka	7869
 Edéa DIRECTION DE RAS CONSTRUCTION RAS	10975
@@ -930,6 +977,7 @@ Eswatini National General Education Progress Report	1358
 Eswatini. Training Consumer Education	11131
 Etc. Anuário Estatístico da Educação	10766
 Ethekon Edung-led	9645
+Ethiopian Research and Education Network	11315
 Eurasia Proceedings of Educational and Social Sciences	6948
 European Union's Digital Education Action Plan	6936
 Ex. Edifício	8166
@@ -971,6 +1019,7 @@ Fredrick Edward Kitoogo	4028
 Fredrick Edward Kitoogo Break	4028
 Free Compulsory Basic Education	7695
 Free Secondary Education Programme	7695
+Free State. Education	11248
 Fund Female Education Excellence	5163
 Future Minister for Education and Human Resource Development	8609
 G- Education	582
@@ -982,6 +1031,7 @@ GES Ghana Education Service	6936
 GINED GISP GPE Atendimento Educativo Especializado	10766
 GIZ Editing Susan Sellars Layout EYES-OPEN	11156
 GNA Edited	8369,15,196,840,1,721,380,108,1,510
+GOVERNMENT NOTICE DEPARTMENT OF BASIC EDUCATION	11180
 GPT Education	7244
 GPT Education Project	4759
 GPT Educational Platform	4759
@@ -1015,22 +1065,27 @@ Ghana Vocational Education and Training Upgrade Project	258
 Ghana. GNA Edited	8548
 Ghanaians. GNA Edited	10112
 Gigabyte Firmware Executive Editor	3279
+Global Citizenship Education	11188
 Global Education Advocate	6690
 Global Education Evidence Advisory Panel	899
 Global Education Monitoring Report. Paris	6832
 Global Education and Technology Thematic Group	6832
 Global Fintech Institute Education	11017
+Global Health EDCPT3	11288
 Global Partnership for Education	899,3930,2944
 Global Smart Education Conference	10295,729
 GoMed Nigeria CEO Anthony Edeki	9540
+Google Educational Suite	11281
 Government of Ghana's Ministry of Education	580
 Governo de Cabo Verde NotíciasMinistra Edna Oliveira	1268
 Governor Edet Otu	8520
+Green Edition Newsletters	11251
 Grow X Education	6572,1
 HUB and Mastercard Foundation EdTech	9944
 Ha Hectares HELB Higher Education Loans	2775
 Handbook for Journalism Educators	1814
 Hansard Editor	10313
+Heads of Education Departments Committee	11220
 Health Education OECD AI Principles	11000
 Health Professional Education	8605
 Health Research and Education	10776
@@ -1038,8 +1093,9 @@ Health and Education	2889,1094,3458
 Heritage-Based Education	3760,768,875,1390,2603
 Hi Ed. Hi	6985
 Hi Ed. Um	6985
-Higher Education	899,1089,485,302,214,615,2266,304,658,114,602,212,616,226,526
-Higher Education Act	7845
+Higher Education	899,1089,485,302,214,615,2266,304,658,114,602,212,616,226,526,2057,45
+Higher Education Act	7845,3337
+Higher Education An MoU	11185
 Higher Education Bursaries and Scholarships Act	1867
 Higher Education CPD	6832
 Higher Education Commission	7845
@@ -1047,7 +1103,7 @@ Higher Education Connectivity	1284
 Higher Education Experts	10355
 Higher Education HEI	6832
 Higher Education Higher	6832
-Higher Education Institution	6832
+Higher Education Institution	6832,4445
 Higher Education Institution ICASA	6832
 Higher Education Loans Board	1838
 Higher Education Minister Office Saudi Arabia	2958
@@ -1056,11 +1112,14 @@ Higher Education Qualifications Sub-Framework	6832
 Higher Education Students’ Loans Board	3460
 Higher Education The Government of Sierra Leone	2339
 Higher Education and Scientific Research	9703
-Higher Education and Training	9128,1266
+Higher Education and Training	9128,1266,909
+Higher Education and Training DHS Department of Human	11261
+Higher Education and Training Management Information System	11303
 Higher Education for Economic Transformation	5511
 Higher Education. Technology	9128
 Higher and Tertiary Education	413,527
 Hiring. Healthcare. Education	6214
+Home Education Table	11180
 Hospital Edition	5984
 Hospital Edition. Byline	5984
 Huawei Education Summit	8560
@@ -1151,6 +1210,7 @@ Kenya Primary School Education Assessment	2775
 Kenya's Ministry of Education. Starlink	6572
 Kenyan of Education. Given	899
 Kokou Edem Tengue	8755
+Kommissarisse van Ede	11190
 Korea EDCF	11061
 LE Legis1 Editorial Have	10351
 La Educación Cívica	1701
@@ -1158,6 +1218,7 @@ Lagos State Ministry of Education	7564
 Launch AI Investor Education Program	4528
 Leadership Education	4432,4696
 Leanne de Bassompierre Business Editor	6338
+Learners and Educators	11281
 Ley General de Educación	4209
 Ley General de Educación Física	4209
 Ley de Educación Ambiental	1701
@@ -1174,6 +1235,7 @@ M. Firmin Edouard MATOKO	2738
 M. Ibrahima Nour Eddine Diagne	2441
 M. Salah Eddine Taleb	7947
 MARIE CYRIL EDDY BOISS'ZON	783
+MEC for Education	11281
 MEPCI and EDEN TiiiT	5268
 MICDE of Education	7548
 MINEDH Ministry of Education and Human Development	4214
@@ -1191,6 +1253,7 @@ Master Plan. Ministry of Education	899
 Master of Education	6832
 Mastercard Foundation EdTech	10170
 Mastercard Foundation EdTech Fellowship	8209,118,562
+Mastercard Foundation EdTech Fellowship. Through	11306
 Mathematics Education	9115
 Means Going Forward Edge	8852
 Medical Education	21
@@ -1204,8 +1267,10 @@ Metro EDGE	4565
 Michael Eduah	10234
 Michael Sata and Edgar Lungu. FETCH NOTE	7025
 Microsoft Open Education	4126
+Miguel Eduardo Sanchez Martin	11271
 Mineração de Dados Educacionais	2816
 Minister for Education	5511
+Minister of Basic Education	11180
 Minister of Education	770,2609,284,3781,2205,106,540,64,321
 Minister of Education Bright Msaka	5851
 Minister of Education Dr. Valentine UWAMARIYA	770
@@ -1225,6 +1290,7 @@ Minister of Pre-University Education and Literacy	3900
 Minister of Primary and Secondary Education	4528
 Minister of Technical and Vocational Education and Training	10951
 Ministerio de Educación	6841
+Ministers of Labour and Education	11179
 Ministra Edna Oliveira	1268,468
 Ministra Edna Oliveira Edna Oliveira	1736
 Ministries of Education	21,703,1223,1657,2198,285,1204
@@ -1310,7 +1376,9 @@ NCA Acting Director General Edmund Fianko	3471
 NCA Director General Rev. Edmund Yirenkyi	3543
 NCA Director General Rev. Ing. Edmund	8544
 NCCE National Commission for Civic Education	6936
+NCFEC National Consumer Financial Education Committee	11198
 NEIDE FRANCISCO DO NASCIMENTO EDNA CAMBANGULA	10750
+NEWS EDITORS	11260
 NGIRENTE Edouard Minisitiri	1214
 NIR ED Andrew Peters	2604,393,648,969
 NIRA ED Rosemary Kisembo	1738,3247
@@ -1334,7 +1402,9 @@ National Commission for Education	2958
 National Defense and Education	6066
 National Education	899,2705,924
 National Education Census Report Summary	3583
+National Education Collaboration Trust	11241
 National Education Management Information System	899,2026,7434
+National Education Policy Act	11180
 National General Education Policy	3583
 National General Education Policy.414	3583
 National General Education Progress Report	1358
@@ -1364,7 +1434,7 @@ Nigeria's Honourable Minister of Education	7027
 Nigeria's Ministry of Education	7027
 Nigeria's Technical and Vocational Education and Training	9755
 Nigerian Colleges of Education	7405
-Nigerian Guild of Editors	7179,3921
+Nigerian Guild of Editors	7179,3921,192,21
 Nigerian Higher Education	8710
 Nigeria’s Ministry of Education	9114
 Northern Cape Department of Education	10247
@@ -1379,6 +1449,7 @@ Olorunda and Ede	10049
 Olutomiwa Ilori. Editors	3162
 Online Edition	10714
 Online Edition. United Nations	10714
+Only EDMS Internal Audit	11231
 Open Education Resources Portal	6946
 Open Education Resources Project	6946
 Open Education Resources Project Counties	6946
@@ -1393,6 +1464,7 @@ PDG Edem Adjamagbo	5054
 PM EDT. Primary Investigator	10609
 PREMIUM TIMES Managing Editor	10571
 PRÉFACIO O Anuário Estatístico da Educação	10766
+PSETA Public Service Education and Training Authority	11197
 Page EDITOR'S CHOICE	9899
 Paratus EduLINK	3371
 Paratus Uganda Country Manager Edwin Kyambadde	10697
@@ -1409,14 +1481,18 @@ Política de Educación	1701
 Política de Educación ERRADICACIÓN	1701
 Política de Educación ODS	1701
 Porte-parole du Gouvernement Edgard Anicet MBOUMBOU MIYAKOU	548
+Portfolio Committee Chairpersons of Basic Education	11220
 Possible Candidate William Ruto Edwin Sifuna	7869
 Post- School Education and Training	9128
 Post-School Education and Training	6832,2296
 Post-School Education and Training PM	6832
+Posts Eden Joint Municipal Tribunal	11251
 Pour Pasteur Edoh Kossi	9898
 Power Is the Real Constraint Edge	8852
 Pr Béatrice Yvette Nguema Edzang	9835
 Pr Charles Edgar Mombo	8302
+Pr Edgar Charles Mombo	11323
+Pr Edgar Mombo	11323
 Pre-Primary Education	2775
 Pre-University Education	3900
 Present Value NREN National Research and Education	1264
@@ -1443,7 +1519,10 @@ Projecto EDGE	2816
 Projecto EDGE. Desenvolvimento	2816
 Projecto de Educação Digital de Angola	10490
 Promote AI Education	4126
+Provincial Education Department EMIS	11241
+Provincial Education Departments	11220
 Provincial Education Directorates	2989
+Provincial Legislature and Education Portfolio Committee	11266
 Proyecto Educativo CANIGE Multilingual School	4209
 Proyecto Hacienda Educa	4209
 Proyecto de Concierto Educativo	4209
@@ -1465,9 +1544,11 @@ Public Perception of Health Provision Education	10759
 Public Services for Women Education Enrolment Public	10759
 Punch Editorial Board	8440
 Quality Education	789,110,232,2614
+Quality Education Goal	11332
 Questionários Anuário Estatístico da Educação	10766
 Quoting W. Edwards Deming	8483
 REPÚBLICA DE ANGOLA MINISTÉRIO DA EDUCAÇÃO	10766
+RESOURCES AND FACILITIES EDUCATION AND COMMS	11198
 REVISED EDITION	1000
 RNP's Eduardo Grizendi	3840
 Raising Materials. National Education	1777
@@ -1487,6 +1568,7 @@ Regulatory Backdrop Edge	8852
 Rehabilitación Centro Preescolar Edmundo Tale Ehopi	4209
 Reimagine Education	724
 Reitor da Universidade Eduardo Mondlane	9694
+Relative Education Qualification	11180
 Reparación Edificios	4209
 Report. United Nations Educational	5036
 Representante Municipal da Educação	10751
@@ -1521,6 +1603,7 @@ SISTEMA DE EDUCAÇÃO	10766
 SMART Education	395,3116
 SMART Education Project	3511
 SMART Education Solutions Transform Classrooms	3511
+SOUTH AFRICAN EDUCATION INFORMATION STANDARDS	11180
 SSA. Includes the EdTech Fellowship	508
 STEM Education and Enrolment	11140
 Sabasaba and Nanenane. Educational	6816
@@ -1542,7 +1625,7 @@ Scope Implementation Guidelines Education Content	2958
 Scope Implementation Guidelines Education Education	2958
 Scope Implementation Guidelines Education Educational	2958
 Scope Implementation Guidelines Education Institutions	2958
-Second Edition	969,8398
+Second Edition	969,8398,1866
 Secondary Distance Education Program	2989
 Secondary Education	1000,1775,4669
 Secondary Education Activity	210
@@ -1561,8 +1644,10 @@ Secretario de Estado de Educación	1855
 Secretary of State for Secondary Education Soraya Kalongela	10359
 Sector Educación	4209
 Sector Education and Public	6832
-Sector Education and Training Authorities	6832,790
+Sector Education and Training Authorities	6832,790,3681
 Sector Education and Training Authority	6832
+Sector Education and Training Authority SITA State	11261
+Sector Education and Training Management Information System	11303
 Sector da Educação	10766
 Senegal’s Ministry of National Education	2550
 Senior Education Specialist	2989
@@ -1589,6 +1674,7 @@ Smart Education Project The ICT Lab	2256
 Smart Education The Government of Zimbabwe	395
 Smart Education and Smart	395
 SmartSteamMinds Edtech	8209
+Social Assistance and Education	11245
 Societies and Education	6832
 Société Santé Education Sport Plus International	9916
 Somalia Starts Review of Higher Education Standards	11150
@@ -1608,9 +1694,12 @@ Space Newspaper Editor The Electronic Transactions	8271
 Special Edition	4127,5866
 Special Edition World World Cup	9993
 Special Educational Needs	899
+Special Needs Education	11207
 Stability. Within EDAs	9123
 Staff Editor	4651
 Staff Reporter The Ministry of Education	9872
+Standard No. and Edition Title Reason	11269
+Standards Act. Draft Standard No. and Edition	11269
 State Department for Ministry of Education	7548
 State Minister of General Education and Instruction	8940
 State of Educational Inequality	10831
@@ -1640,17 +1729,22 @@ TAMINI Edmond Y	737
 TVET Minister for Education	7492
 TVET Technical Vocational Education and Training UN	1814
 TVET Technical and Vocational Education and Training TVETA	7548
+TVET Technical and Vocational Education and Training UAT	11261
 TWG for Education	4528
 Tackling Education and Skills Data Challenge	10359
 Tanzanie. Adoni Conrad Quenum Edité	8096
+Teacher Development Initial Teacher Education National	11241
 Teachers Kenya Global Partnership for Education Compact	899
 TechAfrica News Editor	2459,2534,1193,1161,2556
 TechCabal Editorial Team	5624
 Technical Education	1947,1657
+Technical Vocational Education and Training	11326
+Technical Vocational Education and Training UIF Unemployment	11250
 Technical and Artisanal Education	1959
 Technical and Handicraft Education	1017
 Technical and Vocational Education	1814,5079
 Technical and Vocational Education Pact	6884
+Technical and Vocational Education Training	11315
 Technical and Vocational Education Training Institutes	1638
 Technical and Vocational Education and Training	1777,998,1878,2179,116,1621,5,565,63,187,709,365
 Technical and Vocational Education and Training USAf	6832
@@ -1703,7 +1797,7 @@ Under the World Bank's EDGE	4214
 United Arab Emirates' EDGE Group	9399
 United Kingdom Government's Girls' Education South	3583
 United Nations E-Government Survey. Countries EDGI	10840
-United Nations Educational	1814,1002,2220,1175,737,114,779,868,493,553,748,637,16
+United Nations Educational	1814,1002,2220,1175,737,114,779,868,493,553,748,637,16,109
 Universidade Eduardo Mondlane	1526,1290,5991,20,31,836
 Universidade Eduardo Mondlane Por	8858
 Universidade Eduardo Mondlane UNESCO	2816
@@ -1720,15 +1814,22 @@ V Edéa III	10975
 VC Fund Managers South Africa EDFI	4972
 VIDEO ONLINE READ SEARCH EDUCATION	11004
 Victoria Edu Vázquez	8372
+Video Production and Editing Programme Structure	11347
 Vocational College TVET Technical Vocational Educational	2775
 Vocational Education	3604
 Vocational Education and Training	6948
 Voter Education	7266
+Webbers Choice EduSpots	11306
 West African Research and Education Network	5244
 Western and Central Africa Research and Education Network	1264
 William Ruto Edwin Sifuna Fred Matiang’i	7869
 World Bank Education	3604
+X Ed	11269
 X Nairobi Senator Edwin Sifuna	8217
+XX Ed	11269
+XXXX Ed	11269
+XXXXX Ed	11269
+XXXXXX Ed	11269
 Zambia’s Ministry of Education	5802
 Zanzibar Education and Health	11133
 Zimbabwe Council for Higher Education	4528

@@ -8,6 +8,7 @@ ADN Advisory Valuers Data Processor INST-105493AD7E8	7167
 ADRA ADVOCATES LLP Data Controller INST-904406C6B2A	7167
 ADRIAN KAMOTHO NJENGA AND COMPANY ADVOCATES	7167
 ADVANCE INSIGHT EAST AFRICA LIMITED Data	7167
+ADVANCE RULINGS	11181
 ADVANCED FITNESS CENTRE LIMITED Data Controller	7167
 ADVANCED FITNESS CENTRE LIMITED Data Processor	7167
 ADVANCED GAMING LIMITED Data Controller INST-9040631133A	7167
@@ -74,12 +75,20 @@ Acumen EA Advisory Services Limited Data	7167
 Adetola Salau Special Adviser	7444
 Adolescent Girls Advisory Panel	9861
 Adolescent Girls Advisory Panel and Fanell Decontee	9861
+Adv JL Mothibi Mr Marcelo Pontes	11227
 Adv Nomazotsho Yvonne Memani	2626
+Adv Pansy Tlakula	11255
+Adv Pansy Tlakula CHAIRPERSON	11255
+Adv Pansy Tlakula VOORSITTER	11255
 Adv Ponya	11053
 Adv Tankiso Mohobo	11053
-Advance	1264,2319,570,695,685,880,626,2356,1046,708
+Adv. Gugulethu Thimane DDG	11224
+Adv. Kedilatile Legodi	11198
+Adv. Melanchton Makobe Acting DDG	11224
+Advance	1264,2319,570,695,685,880,626,2356,1046,708,86,1,74
 Advance AfCFTA	11149
 Advance Africa’s Digital and AI Development Africa	7596
+Advance Climate-Resilient Housing	11285
 Advance Congo	5835
 Advance Decentralization	10346
 Advance Digital Economy	7044
@@ -105,6 +114,7 @@ Advance Nigeria's Digital Banking Technology Joint	9359
 Advance Nigeria’s Digital Economy	9882
 Advance Passenger Information	10360,363
 Advance Passenger Information and Passenger Name Record	4275,6448
+Advance Political Risk Insurance	11310
 Advance Regional Regulatory Harmonisation Engage	4848
 Advance Research and Digital Innovation	7504
 Advance SAATM	11149
@@ -115,7 +125,7 @@ Advance Womens Digital Inclusion	9072
 Advance Women’s Financial Inclusion Bill	1479
 Advance-fee	9616
 AdvanceVideo	10848
-Advanced	1248,438,307,782,610,713,1435,132,874,293,114,332,270,338,101,143,468,521,84,906,27,308,295,1,53,63,123,37,1,116,1,6
+Advanced	1248,438,307,782,610,713,1435,132,874,293,114,332,270,338,101,143,468,521,84,906,27,308,295,1,53,63,123,37,1,116,1,6,90
 Advanced AI	8670
 Advanced AI UpSkilling Project	4109
 Advanced Analytics Services	4130
@@ -150,8 +160,9 @@ Advanced Topo- EUR	6946
 Advanced the Deposit Protection Fund	11134
 Advancement	2169,106
 Advancement LTD	866,242,1061
-Advances	2816,2428,105,249,535,813,844,232,108,475,632,94,857,588
-Advancing	1580,3860,3688,1636,227,14,129
+Advancements Series	11243
+Advances	2816,2428,105,249,535,813,844,232,108,475,632,94,857,588,489
+Advancing	1580,3860,3688,1636,227,14,129,133
 Advancing AI	2525,2209
 Advancing Accountability	8202,2954
 Advancing Africa's AI	7952
@@ -160,13 +171,16 @@ Advancing Africa's AI and Digital Economy.md	7989
 Advancing Africa's Digital Future Through Innovation	8050,2657
 Advancing African	4126
 Advancing Africa’s Digital Future Through Innovation	10707
+Advancing Africa’s Industrial Transformation	11221
 Advancing All Intelligence	6110
 Advancing Ambition	10793
 Advancing Data and Evidence	678
+Advancing Development	11294,47
 Advancing Digital Inclusion Madagascar	2362,225,502,4210
 Advancing Digital Payments and Fintech Advertisement Promote	6697
 Advancing Digital Public Infrastructure	5789,4927
 Advancing Digital Public Infrastructure Through Evidence	2185
+Advancing Evidence for Smarter Policy Launched	11332
 Advancing FSP	374
 Advancing Financial Inclusion	4848
 Advancing Gender Parity	7452
@@ -179,12 +193,14 @@ Advancing Research and Development	10776
 Advancing Rights	8427
 Advancing Risk Sharing and Localisation. Accessed	6947
 Advancing Safaricom's TechCo	7204
+Advancing Sustainable Development	11310
 Advancing Uganda’s Communications Sector UCC Boss	4608
 Advancing the Agenda	7596
 Advancing the Agenda Building	7596
 Advancing the Agenda Defining	7596
 Advancing the EU	841,230,1,10082
 Advancing the Great Green Wall	9552
+Advancing the Just Energy Transition	11226
 Advancing the National Research Policy	1554
 Advancing the SADC Single Digital Market	5241
 Advantage	315
@@ -198,7 +214,7 @@ Adventist University of Central Africa	9760
 Adversarial	11156
 Adversarial Attack	7548
 Adversaries	4528
-Adverse	1264,564,39,121,9148
+Adverse	1264,564,39,121,9148,62
 Adverse Conclusion	4896
 Adverse Drug Reaction	9855
 Adverse Events	8831
@@ -209,11 +225,13 @@ Advertencia	163
 Advertise	2837,989,15,690,99,50,66,65,38,415,53,275,183,129,44,409,340,2949,23,84
 Advertise Inbox Us Machengete	8705
 Advertise With Us	9253
-Advertised	4441
+Advertised	4441,6783
+Advertised Within Six Months and Filled Within	11218
 Advertisements	1944,1770,6141
 Advertisers	5799
-Advertising	958,986,4888,114,481,1890,700,718
+Advertising	958,986,4888,114,481,1890,700,718,489
 Advertising Standards Authority of South Africa	5872
+Advertising and Filling of SMS Posts	11218
 Advertorial	1271
 Advertências	2784
 Advice	1000,1318,6,103,20,74,20,25,48,44,62,5,53,41,1,3,50,41,11,18,4,70,1,8,154,105,18,126,31,163,119,78,69,141,37,21,280,185,78,145,55,254,225,32,106,45,60,43,101,181,78,116,183,19,70,19,178,5,104,1,149,7,16,43,72,138,294,2932
@@ -235,7 +253,9 @@ Advisory Board de CIBEROBS	8678
 Advisory Body	1814,5385
 Advisory Body and Chairwoman of Portugal’s ANACOM	7235
 Advisory Body's Working Groups	7199
-Advisory Committee	6231,2259
+Advisory Commission	11261
+Advisory Committee	6231,2259,2757
+Advisory Committee Meet	11247
 Advisory Committee Members Agence	11149
 Advisory Committee SIM Subscriber Identity Module	6946
 Advisory Council	6946,2670
@@ -252,8 +272,10 @@ Advisory Product Manager	5359
 Advisory Services and Analytics	10841
 Advocaat Law Practice	9670
 Advocacy	1000,3723,1811,636,3190,481
+Advocacy PCQA Provincial Coordination	11192
 Advocacy and Development Initiative Kenya Data Controller	7167
 Advocacy and Development Initiative Kenya Data Processor	7167
+Advocacy and Dissemination	11237
 Advocacy for Domestic Drivers of Growth	10
 Advocacy for Health	10776
 Advocate	958,856,3862,1271,804,1849,1453
@@ -306,6 +328,7 @@ BONIFACE ADVOCATES LLP Data Controller INST-500064B8006	7167
 BONIFACE ADVOCATES LLP Data Processor INST-500064B8006	7167
 BRANDNEST ADVERTISING	7167
 BRITISH INTERNATIONAL INVESTMENT EAST AFRICA ADVISERS	7167
+BUREAU COMPLIANCE EXECUTIVE LEGAL ADVISORY	11198
 Bare and Associates Advocates LLP Data Controller	7167
 Basis for Adverse Opinion	4896
 Biometric Update Advocates	2566
@@ -330,6 +353,7 @@ CHANGE ADVOCATES LLP Data Controller INST-83460415DDA	7167
 CHANGE ADVOCATES LLP Data Processor INST-83460415DDA	7167
 CHEPKUTO ADVOCATES Data Controller INST-5860691D96C NAIROBI	7167
 CHEPKUTO ADVOCATES Data Processor INST-5860691D96C NAIROBI	7167
+CIPC Commissioner’s Overview Advocate Rory	11250
 CIPESA's Policy and Advocacy Officer	9817
 CISO Advisor	2816
 CKN ADVOCATES LLP Data Controller INST-338547667E0	7167
@@ -366,8 +390,12 @@ Centre for Development of Advanced Computing	6411
 Chair of Multistakeholder Advisory Groups	10694
 Chief Digital Advisor	5378,533
 Chief Economic Adviser	5072
+Chief State Law Adviser	11280
+Chief State Law Adviser OSBP One-Stop	11218
+Chief State Law Advisor	11236
 Child Protection Law. Advised	1646
 Circular. Legal Advisor Independent Reporting Exchange	4896
+Citizenship Advisory Panel	11264
 Civic Services Signature Adv Constance Moitse	5533
 Civil Society Legislative Advocacy Centre	10093
 Co-CEO and Advisory Board Chairman	9346
@@ -381,7 +409,9 @@ Company. Legal Advisors Transfer	4896
 Competitive Advantage Industrial	3796,1205
 Compliance Advisor Ombudsman	11007
 Congo Advances Digital Inclusion	4798
+Consultative Advisory	11228
 Consumer Advisory Panel	4732
+Content Advisor	11285,4
 Continent’s Demographic Advantage Africa	6690
 Coordinating and Advisory Public	6832
 Coordination and Advisory	4528
@@ -411,6 +441,7 @@ Data Trust Advisory Board	7313
 Decision Advantage	10566
 Deep Institutional Roots Advans Ghana	5985,909
 Department of State Senior Advisor for Space Greg	6897
+Departmental Advisory Committee DDG Deputy Director-General	11218
 Development of Advanced and Intermediate Digital Skills	3604
 Development of Intermediate and Advanced Digital Skills	3604
 Diaspora AI Advisory Group	4528
@@ -439,6 +470,7 @@ EVENTS Directors Legal Advisors Econet InfraCo	4896
 East Africa Business and Investment Advisory Council	8528
 Economic Advancement	7990
 Education Ministry Advances Digital School Permit	9649
+Electricity Market Advisory Forum	11236
 Empowering Consumer Advocates	2196
 Entertainment Advertising Information Services Software	1944
 Equity Asset Turnover Ratio Licenses Advertising	1944
@@ -452,6 +484,7 @@ Exchange Control Advisor	4896
 Exchange Control Advisor Note	4896
 Exchange Control Advisors	4896
 Executive Economic Development Advisor	7156,597
+Executive Senior Legal Advisor	11198
 Exit Offer. CORPORATE INFORMATION AND ADVISORS	4896
 FEATURED Advance	9067
 FISCAL ADJUNTO DE INVESTIGACIONES ADVAS	4209
@@ -472,6 +505,7 @@ Foreign Adversaries Act	11154
 Formalise Fintech Advisory Council	4848
 Founder and Senior Advisor	7073,1581
 Fund Advisor	909
+Funding for Advance Passenger Processing	11285
 G Advanced	8841,2015
 G LTE Advanced	3487
 G20 Policy Recommendations for Advancing Financial Inclusion	7596
@@ -479,6 +513,7 @@ GIZ Digital Health Advisor	10970
 GSMA Through Line Advisors Through Line	10856
 Gabon Advances Tier III Datacenter Project	8542
 Gender Advancement	1264
+Generative Adversarial Networks	11265
 Global Advisor	7147
 Global Advisory Body	5784
 Global Education Advocate	6690
@@ -487,7 +522,7 @@ Global Engagement and Advocacy Officer	2549
 Global Health Advocacy Incubator	5299
 Google Cloud Partner Advantage	4434
 Government Accountability Advocates	6948
-Government Technical Advisory Centre	5323
+Government Technical Advisory Centre	5323,5925
 Governor's Special Adviser	10160
 Great Adventures	3264
 H&G Advocates	5220
@@ -509,7 +544,7 @@ INDEPENDENT ADVISOR'S REPORT	4896
 INDEPENDENT FINANCIAL ADVISOR'S REPORT	4896
 ISTQB Advanced Level	5665
 Imagem Redes Adversas Generativo Tipos de Redes	2816
-Immigration Advisory Board	5533,4640
+Immigration Advisory Board	5533,4640,1045
 Implementation The Advisory Board	4528
 Incident Resolution Advising	775
 Independent Advisory Board of Experts	4528
@@ -592,6 +627,7 @@ Mr. Alexandre Siewe Leupi Senior Advisor	7039
 NCC Advances Nationwide Rollout	7110
 Named ADVOCACY ANALYSIS	3572
 National AI Advisory Expert Group	5227
+National Anti Corruption Advisory Council	11224
 National Cybersecurity Advisory Committee	1777
 National Cybersecurity Advisory Council	1200,335
 National Data Advisory Council	6086
@@ -619,6 +655,7 @@ Open Science Advisory Board	5246
 Open Science OSAB Open Science Advisory	5246
 OpenAI and Advanced Micro Devices	7209
 PPA Project Preparation Advance PPP Public	1264
+PPP Advisory Unit	11248
 PRE-ELECTION DIGITAL THREAT ADVISORY NO	10725
 PROFESSIONAL ADVISORS	4896
 PROVISION OF TRANSACTION ADVISORY SERVICES	5793
@@ -635,6 +672,7 @@ Policy Advocacy	1479
 Policy and Advocacy	9760,1062
 Political Advisor	10509
 Pre-Election Digital Threat Advisory No	10725
+Prepayments and Advances	11230
 President Advocate Duma Boko and Absa Bank	10051
 Presidential Adviser	4668
 Presidential Advisor David Ndii	2515
@@ -647,6 +685,7 @@ Project Preparation Advances	1264
 Project Syndicate Advisory Board	10201
 Proportion of Residential Properties Advertised and Sold	2775
 Prosecution and Legal Advisory	7429
+Public Accounts SLA Senior Legal Advisor	11198
 Qualified Adverse	3051
 REDA Advisory ICT	1818
 REPORT OF THE INDEPENDENT TECHNICAL ADVISORY	1679
@@ -666,17 +705,20 @@ Rwanda Field Epidemiology Training Program Advanced	4167
 SCIENCE ADVISER NEWSLETTER	6997
 SHA Benefits Package and Tariffs Advisory Panel	4153
 SITA's Advance Passenger Information and Passenger Name	4275
+STEENKAMP SENIOR LEGAL ADVISOR	11219
 STEVE ADVOCATES Data Controller INST-8621870E071 NAIROBI	7167
 Safety Advisory Council	9201
 Science and Research Technical Advisory Committee	5036
 Scientific Advisor	10852
 Scientific and Industrial Research DAC Departmental Advisory	5533
+Secretary Adv. Kedilatile Legodi NATIONAL CREDIT	11198
 Secretary-General’s Youth Advisory Board	9786
+Security Advisory Services	11285
 Senegal Advances Digital Governance	3612
 Senegal's Startup Law Advances	2333
 Senegal-based D.IA Advisory	6120
 Senegal’s ARTP Advances Digital Transformation	4803
-Senior Advisor	27,4138,1585,527,4854,3
+Senior Advisor	27,4138,1585,527,4854,3,176
 Senior Advisor for Communication and Analysis	10451
 Senior Advocacy Manager	7073
 Senior Advocacy Officer for Africa	7073
@@ -702,6 +744,8 @@ South Africa’s ADvTECH	9868
 Special Adviser	3101,3386,384,8,972,1122,471,785
 Special Advisers	1014
 Special Advisor	6250
+Stamp Advisory Committee	11199,1
+Standing Advisory Committee	11250
 State Corporations Advisory Committee	6946
 State Law Advisers	5872
 State Security Adviser	8520
@@ -736,6 +780,7 @@ Technical Advisory Committee	396,186
 Technical Advisory Forum	7548
 Technical Capacity and Advancement	1261
 Technician Engineer Minister’s Advisor Head	2989
+Technological Advancement	11265
 Technologies and Data Advances	11133
 Technology Business Development and Special Adviser	10098
 Technology Policy Advisor	5321
@@ -752,6 +797,7 @@ Transaction Adviser	5903
 Transaction Advisor	5793
 Transaction Advisory	4688,1105
 Transaction Advisory Services	5793
+Transaction Advisory Team	11248
 Transaction and Legal Advisory. Early SPV	7877
 Tunisia Advances Digital Health Reform	5011
 Tunisia T2 Advancing	10764
@@ -766,7 +812,9 @@ Universal Service Advisory Council	6946,2390
 Universal Service Advisory Council Licensing	6946
 University of Lay Adventists of Kigali	718
 VARIANCE-EXPENDITURE ADVERSE-This	9437
+Vodacom Airtime and Data Advance	11259
 WPRDAY2026 Advertise	7253
+Water Sector Economic Regulation Advisory Committee	11236
 World Journal of Advanced Research and Reviews	2816
 Worldwide Advertising	8530
 XML Advanced Electronic Signatures Signature	1009

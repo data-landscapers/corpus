@@ -43,6 +43,7 @@ Aug-2027 Moderate Financing	1284
 Authorised Frequency Modulation	2776
 Autorités. Modalités	10711
 Avis de DécèsEl Hadji Mody DieneDate de Deces	4960
+B Entities. Internal Modernisation	11230
 B Satisfied C Moderately	5679
 B- Model	7548
 BAOLALA MODEL HEALTH CENTRE Data Controller	7167
@@ -63,7 +64,8 @@ Business Model The Central Bank	11131
 Business Model The Central Bank of Eswatini	11134
 Business Models	1243
 Business Models for Cost-Effective Rural Deployment	5245
-Business Modernisation	1602,1289,2287
+Business Modernisation	1602,1289,2287,6059
+Business Operating Model	11289
 Business Process Modelling Business	9124
 C- Model	7548
 C. AI Model Ownership and Control	5773
@@ -72,11 +74,17 @@ C1- Model	7548
 CAPÍTULO III MODO DE AFECTAÇÃO	744
 CAPÍTULO VI MODELO DE GOVERNAÇÃO	3519
 CATEGORIES OF COMPANIES AND MODIFIED APPLICATIONS	3714
+CLOUD COMPUTING SERVICE MODELS	11196
+CLOUD COMPUTING SERVICE MODELS Cloud	11196
+CLOUD DEPLOYMENT MODELS	11196
+CLOUD DEPLOYMENT MODELS Cloud	11196
 COM-B MODEL OF BEHAVIOUR CHANGE Capability	899
 COM-B Model	899
 CONSULTANCY FOR REVISION AND MODERNISATION	962
 CONTENU DETAILLÉ DES MODULES Module	10237
 CP MODIFIE	1323,1,741,1
+CPU Compute Modules	11209
+CPU’s. Minimum Requirement of Compute Modules Dual	11209
 Cable Modem	6671
 Cable Systems FM Frequency Modulation FTTH	6671
 Can Language Models Be Too Big	11140
@@ -104,6 +112,7 @@ Communications Authority of Kenya Identity Module	6946
 Comparison of Goodness-of-Fit Indices for Model	4432
 Complaints and Appeals Module	8616
 Complejo Educativo Moderno	4209
+Compute Modules	11209
 Conceptual Model	5349
 Conclusion The Digital VAT Model	8670
 Congo Modernizes CFCO	5288
@@ -113,6 +122,7 @@ Consumer Engagement Models	5676
 Consumer Engagement Models Effective	5676
 Consumer Presented Mode	8357
 Content Moderation	6948
+Council Management System Modernization	11231
 Courts Mission Mode Project	8978
 Creation Model The Financial Stability	11134
 Critical Enterprise Integration Moderate Integration Score	5665
@@ -162,6 +172,7 @@ Digital Partnership Model. Absa	7331
 Digital Terrain Model	10937
 Digital Transformation Operating Model Approved	11134
 Digital Transformation and Administrative Modernization	2124
+Digital Transformation and Modernization The CIPC	11250
 Digital VAT Model	8670
 Digital VAT Model. All	8670
 Digital VAT Model. Feedback	8670
@@ -173,7 +184,9 @@ Directorates of Administrative Organization Modernization	3604
 Direcção Nacional da Modernização	5329
 Discuss Identity System Modernization TUNIS	10521
 Disease Outbreak Module	4153
-District Development Model	5533
+District Development Model	5533,5697,59
+District Development Model DEL Department of Employment	11261
+District Development Model and Presidential Coordinating	11275
 Do Que Grandes Modelos Uma	9558
 Domestic Product Quarterly Projection Model Remuneration	11134
 Dreamscapes of Modernity	11028
@@ -194,12 +207,16 @@ Ecosystem Integration and Hosting Model	5533,58
 Ecosystem Modernisation Programme	4824
 Effective Governance Model	1777
 Embrace Innovation and Modern Technology Parliament	6077
+Empowerment BPMN Business Process Modelling Notation	11184
 Enhance the SADC Data Protection Model Law	962
 Environmental And Social Risk Classification Moderate	2291
 Essau Model Police Station	5486
 Estimation Methodology Data Selection Model	10714
 Eswatini Payments Switch Fast Payments Module	11131
+European Commission’s Model Requirements	11349
 Event Event Attendance Mode	10244
+Excellency Shri Narendra Modi	11183
+Expenditure and HR and Payroll Modules	11231
 Experience of Content Moderators	7102
 Extended UTAUT Model	5349
 F. Modifications The Department	5773
@@ -218,6 +235,9 @@ Foncier Bénin Modulable	10876
 Fonte de Métodos Contraceptivos Modernos	10777
 Foundation Model	7548
 Foundation Models	5029,3254
+Frame Link Module	11209
+Frame Link Module. Interconnect Connectivity	11209
+Frame Link Modules	11209
 Framework Structure and Model	5132
 Freedom of Expression and Content Moderation	7709
 Frequency Modulation	6946
@@ -228,6 +248,7 @@ Funding Model NHC National Housing Corporation	2775
 Fundo Modernização da Justiça	4415,1,1,1
 G Deployment Modes	5675
 GDP Signal Strong High and Acceptable Moderate	11134
+GL Module	11231
 GOUVERNANCE Modulation	2342
 Gambia Electricity Restoration and Modernization	10857
 Gambia Electricity Restoration and Modernization Project	10857
@@ -245,8 +266,10 @@ Governance-Implementation Feedback Model	4845
 Government Model	3245
 Government Model Regional	3245
 Governments Shape Online Content Moderation	5349
+H.E. Shri Narendra Modi	11183
 HR Modules	7973
 Hard Power Model	6001
+Head of Customs for Land and Modality	11289
 Head of Modernisation Joseph Khonje	9093
 Health Impact Model for Africa	396
 Health Model	8603
@@ -299,6 +322,7 @@ Integrated Multi-Disease Model	4260
 Integrated Operating Model	4896
 Integration Model	9312
 Integrative Model Explaining Community Acceptance	11006
+Interconnect Link Modules	11209
 Internal Security MORHCSA Modernization of Refugee and Host	1867
 Investment and Network Modernization Agreement	4527,2668
 Journal of Policy Modeling	5349
@@ -318,6 +342,7 @@ Legal Digital ID Model Governance Assessment	1879
 License Modification License No	736
 License Modification Name	736
 Limited SIM Subscriber Identification Module	6671
+Local Government Management Improvement Model MAT	11224
 Loeb Model	6539
 Long-Term Model	9582
 Low Moderate	1938
@@ -328,6 +353,12 @@ MINFIN MININT MINSA MNO MNSSP MODIS	10763
 MITIGATING MODEL-RELATED RISKS	11156
 ML-Enabled Systems Model Deployment and Monitoring	11156
 MOD-19-07-2026-v2.pdf	7292
+MOD09	11334
+MOD11	11334
+MOD13	11334
+MOD14	11334
+MOD15	11334
+MOD17	11334
 MODALIDADE DE ENSINO	10766
 MODALITÉS	10237
 MODALITÉS DE DÉCAISSEMENT ET PROTOCOLE	10876
@@ -340,6 +371,7 @@ MODELO DE GOVERNAÇA DA IA ARTIGO	3519
 MODERATE	7695
 MODERN TAX SYSTEM P	10762
 MODERNISATION OF THE SADC DATA PROTECTION	962
+MODERNISING FOR RESILIENT INTELLIGENCE SERVICE	11277
 MODERNIZAR	2434
 MODERNIZATION OF PUBLIC FINANCIAL MANAGEMENT	1284
 MODES DE GESTION Gouvernance Pilotage	2342
@@ -348,9 +380,10 @@ MODESTO GENE	4209
 MODIFICATION	998,3155
 MODIFICATION DU DÉCRET PORTANT	2342
 MODIFIER VOTRE MOT DE PASSE Cette	6954
-MODIS	10763
+MODIS	10763,571
 MODIS Near Real-Time	10763
 MODIS Near RealTime	10763
+MODISMODIS	11334
 MODULATION DES AUDITS DES ENTREPRISES PUBLIQUES	2342
 MODaaS	7490
 Machine Modules. This Payments Switch	11131
@@ -369,6 +402,7 @@ Mesoscale Model	9475
 Meta Model	9124
 Meta Model NOTE	9124
 Mhoudini Yahaya Mode	1996,2390
+Minister Modi	11183
 Minister Narendra Modi	9749
 Minister of State Modernization and Public Administration	3843
 Ministra da Modernização	1268,468
@@ -390,7 +424,7 @@ Modalités	4567,6144,165
 Modderfontein	8943
 Mode of Land Acquisition Among Nigerian Refugees	10841
 Mode of Operation	736
-Model	27,7,202,500,1078,1134,913,265,306,893,42,315,1469,397,211,31,96,257,158,194,185,448,1,1274,48,314,10,205,174,2
+Model	27,7,202,500,1078,1134,913,265,306,893,42,315,1469,397,211,31,96,257,158,194,185,448,1,1274,48,314,10,205,174,2,154
 Model AI Governance Framework and AI Verify	11135
 Model Agility	5226
 Model Case for U.S.-Africa AI Partnership Activating	6790
@@ -421,6 +455,7 @@ Model Law Preamble Short Title HIPSSA	27
 Model Law. Despite	5363
 Model Laws	962,281
 Model List	10776
+Model Mandatory Disclosure Rules for CRS Avoidance	11233
 Model PURA Public Utility and Regulatory Authority	1000
 Model Policy Guidelines and Model Regulatory Frameworks	8995
 Model Report	11050
@@ -441,13 +476,15 @@ Model-related	7151,4005
 Modeled	10031
 Modeling	7790,814,2248,304
 Modeling Crow’s Foot Notation Data	9124
+Modeling the Diffusion of Mobile Technologies. Saarbrücken	11310
 Modeling the Effect	11140
 Modelingdigitalhealthsystemstofosterinteroperability. Fron-	8606
-Modelled	2954,561,745,1709,800,4087
+Modelled	2954,561,745,1709,800,4087,409
 Modelling	961,3507,4730,418,1303
 Modelling Chain	9124
 Modelling Notation	9124
 Modelling Notation ArchiMate The Notation	9124
+Modelling and Guidance Products Regional	11191
 Modelo	1701,2508
 Modelo Conceptual de Transformação Digital	2816
 Modelo Estratégico Global	1701
@@ -511,7 +548,7 @@ Moderately Unsatisfactory Overall Implementation Progress	2712
 Moderately Unsatisfactory Overall Risk Rating	2712,4216
 Moderating Effects of Process Sophistication and Mimetic	5349
 Moderation	11131
-Modern	3061,324,90,1257,1090,610,553,290,476,177,206,133,113,335,124,139,8,143,331,317,285,7,237,513,10,27,9,27,158
+Modern	3061,324,90,1257,1090,610,553,290,476,177,206,133,113,335,124,139,8,143,331,317,285,7,237,513,10,27,9,27,158,227
 Modern AI	7789
 Modern Approach	2816,4016
 Modern Approach. Pearson. Salinas	2816
@@ -533,7 +570,7 @@ Modern Statistician	11038
 Modern Tax System02 Conclusion03 CONTENT	10762
 ModernGhana	10135,280
 Moderni	10775
-Modernisation	643,122,197,219,37,29,17,13,4,41,5,1,77,131,166,6,309,1,46,744,312,121,285,11,67,34,1,114,326,59,19,1,115,94,31,152,94,76,415,294,102,18,153,143,21,10,107,277,288,284,72,730,251,93,89,170,280,39,100,152,70,409,55,19,87,245,53,73,184,59,227,113,76,87,197,50,46,10,6,6,20,2,1,2,32,38,116,2
+Modernisation	643,122,197,219,37,29,17,13,4,41,5,1,77,131,166,6,309,1,46,744,312,121,285,11,67,34,1,114,326,59,19,1,115,94,31,152,94,76,415,294,102,18,153,143,21,10,107,277,288,284,72,730,251,93,89,170,280,39,100,152,70,409,55,19,87,245,53,73,184,59,227,113,76,87,197,50,46,10,6,6,20,2,1,2,32,38,116,2,196
 Modernisation Administrative	10708
 Modernisation Consultation Paper	10326
 Modernisation Discussion Paper	8670
@@ -543,21 +580,21 @@ Modernisation des Enquête	737
 Modernisation of Civil	10854
 Modernisation of Civil Registration	10854
 Modernisation of Civil Registration and Vital Statistics	10972
-Modernise	1363,455,5118,103,3817,9
+Modernise	1363,455,5118,103,3817,9,371,1,40
 Modernise Government Service Delivery Improve	10157
 Modernise Higher Education Sector	5167
 Moderniser	12,1299,724,2126,151,84,3401,1094,1821,164
 Modernises	1407,827,364
 Modernisierung	504,324,75
 Modernisierungsbedarf	900,631,1
-Modernising	2334,2514,5458,550
+Modernising	2334,2514,5458,550,381
 Modernising Access	11133
 Modernising Ghana’s Tax Regime	7695
 Modernising and Enforcing Data Protection Law	6936
 Modernité	8891
 Modernización	1701,2508,2272
 Modernizar	1701,1115,5
-Modernization	1264,20,9481,10,37,324
+Modernization	1264,20,9481,10,37,324,85
 Modernization and Automation	10550
 Modernization and Expansion	482
 Modernization and Restructuration Program	10765
@@ -592,6 +629,7 @@ Modernized County Service Centers and County Treasuries-	10346
 Modernizing	54,3714,666,220,163,447,2907,1755,740,331
 Modernizing Government for Better Service Delivery UNDP	8861
 Modernizing IP	4528
+Modernizing Mining and Manufacturing	11221
 Modernizing Mozambique	8967
 Modernizing Payments Across the Six CEMAC Member	10022
 Modes of Home Acquisition	2775
@@ -614,7 +652,7 @@ Modification du Décret	2625
 Modification du Décret-loi	2625
 Modifications	5349
 Modified	2674,1040,5410,1746,264
-Modified Cash Standard	5533
+Modified Cash Standard	5533,5685
 Modified Legal Framework	10
 Modified Taxation Scheme	9729
 Modifier	6954
@@ -629,7 +667,7 @@ Modou Diop	5022
 Modou Diop Publié	5022
 Modou H. Bah	9316
 Modulable	10876
-Modular	6025,555,4553,3
+Modular	6025,555,4553,3,133
 Modular Capacity Options	3861
 Modular Ocean Model	9475
 Modular Open Source Identification Platform	658,1512
@@ -639,14 +677,16 @@ Modular Open-Source Identity Platform	2289,693,2103,1286,172
 Modularity	958,4707,2940
 Modulation GH	2776
 Modulation Technique Proposed ITU	736
-Module	582,7794,240,1621
+Module	582,7794,240,1621,994
 Module Back	4996
 Module Grand	4996
+Module Status Action Plan	11231
 Module Zando	4996
 Modules	3430,3516,1027
 Modules. This Payments Switch	11134
 Modupe Kadri	9560,560
 Modus	9616
+Modus Operandi	11188
 Modèle	1231
 Modèles	2442,7795,738
 Modèles de DAO	10876
@@ -663,6 +703,7 @@ N TRAINING MODE OF ASSUMPTION BUDGET	1988
 N3 MPEG-21 DIDL MODS ASCII Citation	10878
 NASA’s Moderate Resolution Imaging Spectroradiometer	10763
 NMD Nouveau Modèle de Développement PE Politique	7655
+NSG. Prime Minister Modi	11183
 Narendra Modi	2379
 Nation's First Generative AI Model	3826
 National Digitalization and Modernization Initiative	5994
@@ -683,6 +724,8 @@ OBJECTIFS RESULTATS ATTENDUS Modernisation	10712
 ONLINE VIDEO MODULES UNCDF	11017
 Ocean Modeling Weather Research and Forecasting	9475
 Older Car Models Not Allowed	7176
+Olifants Management Model Programme	11248
+Olifants Management Model Programme Phase	11248
 Ontiretse Modise	8026
 Open-Weight Model	7548
 Open-Weight Model Adoption	7334
@@ -700,6 +743,7 @@ PM Shri Narendra Modi	2667
 PPAA Complaints and Appeals Module	8616
 PPT MODULES	11017
 PREFERRED MODE OF COMMUNICATION	2709
+PRIOR MODIFICATIONS TO AUDIT REPORTS	11218,6
 PROJET D’APPUI A LA MODERNISATION	10880
 Paper Model Name Comments Al-Sharhan	8603
 Par Modeste Kouamé	6241
@@ -707,19 +751,26 @@ Parish Development Model	1262,4859,2428,104,308,8
 Parish Development Model Management Information System	3050
 Parish Development Model and Emyooga	10299
 Parish Development Model. Through	8653
+Part of SCM Module Priority Module	11231
 Payment Ecosystem Modernisation	8571
-Payments Ecosystem Modernisation	4824,584,1264,581,1347
+Payments Ecosystem Modernisation	4824,584,1264,581,1347,2636
+Pebble Bed Modular Reactor	11272
 Penn Wharton Budget Model	11140
 People People Mode Amour Videos Gallerie	9890
 Performance Indicator Large Language Model Monitoring	4528
+Planning and Modellin	11231
 Plans Modern Security and Food Inspection	2837,989,15,690,99,50,66,65,38,415,53,275,183,129,44,409,340
 Platform-based Business Model	226
 Police Modernisation	8286
 President João Lourenço and PM Narendra Modi	2804
 President Nyusi and PM Modi	2667
-Prime Minister Modi	5122
-Prime Minister Narendra Modi	3253
+President Zuma and Prime Minister Modi	11183
+Prime Minister Modi	5122,6061
+Prime Minister Modi. President Zuma and Prime	11183
+Prime Minister Narendra Modi	3253,7930
 Prime Minister Narendra Modi’s Facebook	9404
+Prime Minister Shri Narendra Modi	11183
+Probabilistic Modelling	11336
 Programme de Modernisation	557
 Programme. Description Modulable	10876
 Programme. Modulable	10876
@@ -754,6 +805,7 @@ Rating Modest	10779
 Records Continuum Model	9888
 Refactor Moderate	6432
 Reference Information Model	1009
+Region. Prime Minister Modi	11183
 Regional Integration and Employment Mod K. Ceesay	8459
 Regional Model Laws	3162
 Regional Network Provider MOD Ministry of Defense	1000
@@ -775,6 +827,9 @@ Risk Modelling Customer Onboarding	4848
 Risk-Based Credit Pricing Model	9487
 Roadmap for IT Modernization	4284
 Russian and Chinese Models	2518
+SA Connect Model	11230
+SA-SAMS Modernisation	11241
+SA-SAMS Modernisation Menu About Us Newsroom	11241
 SADC Computer Crime and Cybercrime Model	26
 SADC DATA PROTECTION MODEL LAW	962
 SADC Data Protection Model Law	27,935,281
@@ -830,6 +885,7 @@ SARB Payments Ecosystem Modernisation	4824
 SARS CONSULTATION PAPER ON VAT MODERNISATION	8670
 SARS Modernisation	8670
 SARS' Modernisation	8023
+SCM Module	11231
 SECÇÃO II MODERNIZAÇÃO DE INFRA-ESTRUTURAS	15
 SECÇÃO II Modernização de Infra-Estruturas	15
 SIM Subscriber Identification Module Figure	582
@@ -840,6 +896,7 @@ SPICES Model	10865
 STRATEGY AND BUSINESS MODEL	7204
 SWIFT Hardware Security Module	11134
 Sample Accreditation Model	6488
+Satellite and Regional Models Satellite	11191
 Satisfactory Moderately Satisfactory	10779
 Satisfactory Moderately Satisfactory Current	2989
 Scale Nigeria's Language Model Template Across	8552
@@ -858,10 +915,12 @@ Shava Hails Community Education Model	2888,32,354,504,1444,983,809,293,115
 Shri Narendra Modi	7365
 Small Language Model TIC	2816
 Small Language Models	3859
+Small Modular Reactor	11272
 Social Tenure Domain Model	1391
 Soft Power Model	6001
 South Africa's Modderfontein New City	8943
 South Africa's SAMOS Anchors Payment Modernisation	5691
+South Africa. Prime Minister Modi	11183
 State Connectivity Infrastructure Modernization Project	4548
 State Modernisation	1340
 Statement Our Strategy Our Business Model	11131
@@ -884,6 +943,7 @@ TVET Modernisation DHET	6832
 Tax System Modernization Plan	10997
 Taxpayer Experience Statement VAT Modernisation	8670
 Technological Institute for Administrative Modernization	2351
+Technological Transformation and Global South Modernization	11302
 Technologies Infrastructure Recognition B1- Model	7548
 Technology Acceptance Model	5349,2672,109,2810
 Technology Acceptance Model and Diffusion of Innovation	8671
@@ -897,6 +957,7 @@ Threat model	7471
 Time-Bound Access and Transition Model The Joint	6748
 Tinto Model	9128
 Tinto's Student Integration Model	9128
+Transfers Modified Cash Standards	11230
 Two-Phase Model of National Cybersecurity Governance Key	1777
 Type Model Gain	736
 UM ESPAÇO PÚBLICO E MODERADO. Não	2315,129,1086,2027,15,247
@@ -906,6 +967,8 @@ UNDP Model Governance Framework for Digital Legal	2024,971
 UNDP's Model Governance Framework	1928
 UNDP's Model Governance Framework for Digital Legal	2761,771
 UVRE DU DROIT ET DES MODALITES	113
+Unified Model	11191
+Unified Modelling Language	11184
 Unified Modelling UML State Diagrams	9124
 Uptake of Modern Contraceptives	2775
 Use Service Category Description Deployment Model	6432
@@ -914,7 +977,9 @@ VAT Modernisation	8670
 VAT Modernisation Discussion Paper	10326
 VAT Modernisation Project	7746
 VDI. Cette Modernisation des Infrastructures de Connectivité	4333
+Valuation Roll Management Module	11231
 VigiFlow Module	8831
+Virtual Connect Switch Modules	11209
 Vodacom Tanzania M-Pesa Platform Modernisation	4521
 WAMZ Model Act	10408
 Water and Sanitation FM Frequency Modulation FSM	718

@@ -72,7 +72,7 @@ Enforce the Data Protection	1204
 Enforceability	3714
 Enforceable	5113
 Enforced	3714,7442
-Enforcement	3,8,707,44,481,90,18,1105,549,221,452,35,1,453,50,366,399,102,301,78,202,390,831,50,10,422,83,903,82,93,157,6,289,582,292,85,217,156,103,558,32,143
+Enforcement	3,8,707,44,481,90,18,1105,549,221,452,35,1,453,50,366,399,102,301,78,202,390,831,50,10,422,83,903,82,93,157,6,289,582,292,85,217,156,103,558,32,143,49,87
 Enforcement Action	6792
 Enforcement Actions	5665
 Enforcement Actions for Non-compliance	5665
@@ -108,13 +108,15 @@ Heroes and Defence Forces Road Safety Enforcement	9394
 Hierarchical Enforcement	3861
 Human Rights Enforcement Act Cap	3005
 INTRODUCTION AND SUMMARY OF ENFORCEMENT INTERVENTIONS	8354
+INVESTIGATION AND ENFORCEMENT CHIEF FINANCIAL OFFICER	11198
 Independent Oversight and Enforcement	5244
 Information Regulator's Enforcement Notice Against Mining	6683
 Information Regulator’s First Enforcement Notice	6632
 Inspectorate Compliance and Enforcement	7141
 Inter-Agency Digital Piracy Enforcement Framework	8568,2
+Investigations and Enforcement	11198
 Law Enforcement	1877,2848,2385,3649,76,2,1,130
-Law Enforcement Agencies	11131,3
+Law Enforcement Agencies	11131,3,143
 Law Enforcement Directive	9067
 Law Enforcement Directive English	9067
 Law Law Enforcement Property Rights Public	10759,78

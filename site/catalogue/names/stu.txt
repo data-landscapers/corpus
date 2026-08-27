@@ -26,6 +26,7 @@ African Studies Review	2518
 Agenda for Infrastructure Studies	5700
 Aims for Cultivating Students’ Key Competencies Based	6948
 AnEmpirical Study Applying UTAUT Model Using	5349
+Analytical Studies	11237
 Archaeology and Political Studies	6946
 BOBBO MAMOUDOU Head of Studies Projects	10980
 Best Student Film. Uganda	9781
@@ -64,12 +65,14 @@ Case Study of Langata and Westlands Constituencies	899
 Case Study of Mozambique	2816
 Case Study of Orange Senegal and Uganda	10822
 Case Study of South Africa	6948
+Cell C University Student Data Bundles	11259
 Census and Population Studies	10964
 Center for Doctoral Studies	2422
 Center for Entrepreneurial Studies	1037
 Center for Media Studies and Peacebuilding	5244
 Center for Media Studies and Peacebuilding CERT	5244
-Center for Strategic and International Studies	4676,566,2346,1176,140
+Center for Strategic and International Studies	4676,566,2346,1176,140,2406
+Centre for African Regional Integration and Border Studies	11319
 Centre for African Studies	3508
 Centre for Applied Legal Studies	6683,3206
 Centre for Economic Studies and Planning	10
@@ -121,6 +124,7 @@ Economic and Political Studies	4676
 Economy Study	10862
 Ecosystem Mapping Study	9309
 Education Platforms for Students	6748
+Empirical Study	11265
 Empirical Study Factors	226
 Empowering Students With Digital Skills and Innovation	8824
 Engage IPAM Students	5939
@@ -135,6 +139,7 @@ Foundation for Studies and Research	6773
 Frequency Assignments for Broadcast Studio	6946
 Gebeya Dala Studio Mini App	7625
 Gebeya's Dala Studio	8149,1492
+Gemini Student Hub	11301
 Gemini Study Notebooks	10525
 Generation Study and Screen4Care	10188
 Georgina Sturge	10985
@@ -190,10 +195,12 @@ Interpretive Case Studies	5349
 Italian Institute for International Political Studies	4676
 J Afr Media Stud	9739
 J Lang Lit Soc Cult Stud	9739
+Japan’s National Institute for Environmental Studies	11291
 Journal of Chinese Economic and Business Studies	5302
 Journal of Common Market Studies	11050
 Journal of Computer Science and Technology Studies	8606
 Journal of Development Studies	226
+Journal of Futures Studies	11265
 Journal of International Studies	4676
 Journalism and Media Studies	1195,1090,9,275,245,528,1632,459,257,114,242,17,39,145,256,323,24,7,186,382,84,16
 KWE4 Africa Venture Studio	7395
@@ -218,11 +225,13 @@ Media Studies	6946
 Medical Center Service Expansion Feasibility Study	955
 Meeple S.r.l. MEGASTAR S.L. Minio Studio	8530
 Microsoft SQL Server Management Studio	10617
+Mind the Gap Study Guides	11241
 Ministry of Education Student Data Protection Framework	3861
 MoCTI’s Digital Skills Market Study Report	7182
 Monrovia Urban Transport Modernization Study	4840
 Multidisciplinary Studies	7759
 Music Studies	9739
+NATIONAL STUDY ON DIGITAL GENDER TRANSFORMATION	11257
 NIRA Launches Special ID Registration for Students	10521
 NPC-commissioned SA Digital Infrastructure Investment Study	5602
 NTU-SBF Centre for African Studies	3367
@@ -234,7 +243,7 @@ National Graduate Institute for Policy Studies	11109
 National ICT Usage Study	9781
 National Institute for Legislative and Democratic Studies	1163
 National Office for Technical Studies and Development	3604
-National Student Financial Aid Scheme	6832,1078,1218,237,1029
+National Student Financial Aid Scheme	6832,1078,1218,237,1029,828,3,11,67
 National Union of Eritrean Youth and Students	3851
 National Union of Students	10503
 Ndileka Stuurman	10247
@@ -248,8 +257,10 @@ Office of Studies	10780
 Oral Studies	7886
 Pan-African Studies	7233
 Peak-Season Readiness Case Study	4848
+Plan NSFAS National Student Financial Aid	11192
 Port Harcourt J Hist Dipl Stud	9739
 Programme Graduated Still Studying Doctorate	11131
+Project Coordinator. Student	11315
 Qualitative Exploratory Study	226
 Qualitative Study	1824
 RTC Studios	4242
@@ -270,9 +281,13 @@ STUDIES GUIDANCE INTRODUCTION	5618
 STUDIES LIMITED Data Controller INST-245210F2E08 UASIN	7167
 STUDIES LIMITED Data Processor INST-245210F2E08 UASIN	7167
 STUDY ADDS Over	10881
+STUDY CASES	11228
+STUDY INPUTS	11228
 STUDY MIGHT AFFECT RESEARCH	10881
 STUDY ON CONTRIBUTION OF ICT	236
+STUDY OUTCOMES	11228
 Saharan Africa. Stud Health Technol Inform	8376
+School Based Assessment Mind the Gap Study	11241
 School of Graduate Studies	9534
 Security Studies	9616
 Social Studies of Science	11028
@@ -302,13 +317,15 @@ Student Information Systems. FIGURE	9128
 Student Pilot License SSA Sub-Saharan Africa	2775
 Student Satisfaction	2518
 Student Success	9128
+Student Suooort	11180
 Student Voices	6948
-Students	899,329,639,1644,586,29,93,400,16,18,327,822,173,380,246,232,113,2,343,104,173,387,324,560,281,8,237,175,333,86,99,336,131,75,126,49,90,83,134
+Students	899,329,639,1644,586,29,93,400,16,18,327,822,173,380,246,232,113,2,343,104,173,387,324,560,281,8,237,175,333,86,99,336,131,75,126,49,90,83,134,233
 Students Engagement	2318,6506
 Studentsuccess Categories	8602
 Studia Inc	6120
 Studia Informacyjne	8022
 Studie	9739
+Studied	11228
 Studies	1212,7,29,580,160,108,581,271,212,444,523,548,674,1599,410,432,96,80,55,1,108,246,752,1,108,248,262,142,500,376,15,39,10,203
 Studies MoU	1154
 Studies Research	6832
@@ -322,7 +339,7 @@ Studies. Available	2518
 Studieshaveexploredsimilarity-basedjoins	8606
 Studiesindicatethatwhenanalyticstoolsarepoorlyalignedwith	8602
 Studs	9123
-Study	299,600,63,245,5,7,42,553,1790,187,534,1024,253,937,293,1062,128,108,246,60,49,956,298,1025,77,29,11,59,8
+Study	299,600,63,245,5,7,42,553,1790,187,534,1024,253,937,293,1062,128,108,246,60,49,956,298,1025,77,29,11,59,8,353
 Study AI Patentability and Digital Rights	7624
 Study Awareness of Health Effects Due	1154
 Study Calls for More Cybersecurity Opportunities for African	7156
@@ -345,7 +362,7 @@ Study of Options for Mutual Recognition of National IDs	10819
 Study of Options for Mutual Recognition of National Ids	10819
 Study of Violence and Reconciliation and Others	2307
 Study-Groups	689
-Studying	3263,7373
+Studying	3263,7373,665
 Studying Information Technology	5349
 Stulz Nokia OVH Royal Globeleq TI	10861
 Stunting	10829
@@ -378,6 +395,7 @@ University of Professional Studies	7968
 Urban Studies	5700
 Vienna Institute for Global Studies	4343
 Virtual Reality Studies	6832
+Vumatel Student Discount Promotion	11259
 WB GovTech Case Study	1393
 Work Study	8130
 World Bank GovTech Case Study	1393

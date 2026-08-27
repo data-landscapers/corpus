@@ -21,6 +21,7 @@ Agente Grupo G Delineante Director Grupo	4209
 Ahead Delays	11134
 Alice Sesay Pope Delegated	2521,659,249,939,974,1524,210,294
 Alternatives for Delivering Public Services	1161
+Areas and Deliverables	11188
 Autoridad Judicial Militar Delegada	4209
 Bank CAR Health Service Delivery and System	10829
 Based Health Service Delivery	10829
@@ -53,6 +54,7 @@ Communication Bill. Delivering	7650
 Completed Completed Delayed Delayed	2989
 Completed Delayed Completed Delayed Delayed Delayed	2989
 Compliance and Delivery Workshop	3264
+Confirm Delete	11276
 Conselho de Direcção A Delegação da Justiça	10752
 Constitutional Delivery and Public Trust	7548
 Consumer-Centred Service Delivery	5676
@@ -187,7 +189,7 @@ Delarosa&author	1219
 Delaware	3006,2218,3240
 Delaware Chancery Court	9467
 Delawares	3006
-Delay	1000,8506,1470
+Delay	1000,8506,1470,242
 Delay E-ID	6956
 Delayed	2477,735,1227,989,578,1542,826,754,889,1088
 Delayed Completed Completed	2989
@@ -234,14 +236,15 @@ Delegate-General Martin Mbarga Nguele	2357
 Delegated	6423
 Delegated Legislation	6787
 Delegated Legislation. Following	6946
-Delegates	1154,400,1233,1951,420,443,226,283,1583,186,4,827,3,684
+Delegates	1154,400,1233,1951,420,443,226,283,1583,186,4,827,3,684,1888
 Delegating	6512
-Delegation	970,3587,847,1339,795,3035
+Delegation	970,3587,847,1339,795,3035,604,108,4
+Delegation Members of Parliament	11285
 Delegation Threshold	8283
 Delegation of Authority	940,10065
 Delegation of German Industry and Commerce Data Controller	7167
 Delegation of Membership Suspension and Termination Powers	8866
-Delegations	6963,1080
+Delegations	6963,1080,3138
 Delegação	7945
 Delegação Provincial da Justiça	10298,453
 Delegação da Justiça	10752
@@ -266,7 +269,7 @@ Delft	8603,396
 Delgado Jesus. Discussions	6007
 Delgado Teixeira A Proposta de Lei da Cibersegurança	9258
 Delgro	163
-Delhi	2518,149,124,13,2225,15,51,27,94,41,795,640,174,172,327,1,615,648,81,1039,767,248,80,2,225
+Delhi	2518,149,124,13,2225,15,51,27,94,41,795,640,174,172,327,1,615,648,81,1039,767,248,80,2,225,112,163
 Delhi Declaration	7548
 Delhi Indian	5044
 Delhi Leaders' Declaration	9431
@@ -279,7 +282,7 @@ Deliberar	167
 Deliberate	2093,3440,1415
 Deliberate Architecture Looks Like Rwanda	6603
 Deliberately	8071,106,2961
-Deliberations	1637,9370
+Deliberations	1637,9370,186
 Deliberative	3714,7045,76,2,1,130,38
 Deliberative Polling	11006
 Deliberação	10442
@@ -291,7 +294,7 @@ Delincuencia Organizada	4209
 Delinea	10617
 Delineate	1988
 Delineating	8604
-Delineation	970,9859
+Delineation	970,9859,505
 Delineation of Postcode Areas NIPOST	11129
 Delinquência Juvenil	3246
 Delioğlu	2093
@@ -305,6 +308,9 @@ Deliver More and Better Jobs	9985
 Deliver Phase	8726
 Deliver Subsidised Sovereign Cloud Services for Nigerian	6058
 Deliver Thought Leadership	11134
+Deliverable Responsible Business Unit Time	11188
+Deliverable Short Description	11188
+Deliverable Time	11188
 Deliverables	1000,381,214,2266
 Deliverables D1-D5	1381
 Deliverance	7167
@@ -317,22 +323,25 @@ Deliverance Church Olmoran CDC Data Processor	7167
 Delivered	861,872,546,28,1788,24,2363,722,938,1991,514,484
 Delivered Countrywide Couriers	9781
 Deliveries	1988,787,1905,5523
-Delivering	1870,223,266,625,165,338,96,199,320,180,371,85,277,262,274,28,429,43,239,218,31,223,145,605,33,60,54,61,154,89,158,165,49,8,20,42,305,367,38,67,56,211,292,25,37,49,156,241,114,281,394
+Delivering	1870,223,266,625,165,338,96,199,320,180,371,85,277,262,274,28,429,43,239,218,31,223,145,605,33,60,54,61,154,89,158,165,49,8,20,42,305,367,38,67,56,211,292,25,37,49,156,241,114,281,394,206
 Delivering Governance That Works for Citizens	7337
-Delivering Impact	7880
+Delivering Impact	7880,3452
+Delivering Impact Acknowledgement UNDP Mauritius	11332
 Delivering Key IT Objectives	11134
 Delivering Multi-Functional Blue-Green Infrastructure	11006
 Delivering Shared Prosperity Through Digitalisation	2334
 Delivering Universal Meaningful Connectivity. Retrieved	1243
+Delivering the Home Affairs Budget Vote Debate	11274
 Delivering the Minister	10585
 Deliveroo and Air France. The Government	3394
 Delivers	973,493,2374,2211,3701
-Delivery	395,23,552,848,1171,725,1613,1505,114,235,467,340,766,876,225,130,125,238,415,5,44,17,57,243,5,6
+Delivery	395,23,552,848,1171,725,1613,1505,114,235,467,340,766,876,225,130,125,238,415,5,44,17,57,243,5,6,41
 Delivery Architecture	7548
 Delivery Audit Trails	9855
 Delivery Enablers	1284
 Delivery Enablers Delivery Enablers	1284
 Delivery Hero	5985,909
+Delivery Improvement Plan SEIAS Socio-Economic Impact	11218
 Delivery Mode	6832
 Delivery Mode QCTO	6832
 Delivery Partner	10348
@@ -371,7 +380,7 @@ Deloitte. Segundo	10787
 Delos	6471
 Delphi	4432
 Delphos	929
-Delta	6051,4335,356
+Delta	6051,4335,356,605
 Delta Corporation and Stanbic Bank	6492
 Delta Data Centre	4094
 Delta Digital Data Centre	5328,116
@@ -404,6 +413,7 @@ Door Delivery Pickup Station Order	9984
 Dr. Dele Alake	7513
 E-Government and Transformation of Service Delivery	5700
 E-Government for Improving Public Service Delivery	5349
+E-governance and Service Delivery	11231
 EFFECT OF THE DELISTING OF ECONET	4896
 ELECAM Regional Delegate	10988
 EU Delegated Regulation	7548
@@ -426,7 +436,7 @@ Estado Delegado Adjunto Gobierno	4209
 Estado Delegado Regional Inspector Regional Gobernador	4209
 Estado Director General Adjunto Ministerio Delegado	4209
 Ethiopia. Delivers	2162
-European Union Delegation	970,3132,137,6602
+European Union Delegation	970,3132,137,6602,463
 Evidence-Based and Consultative Process Delivering	8367
 Expected Deliverables	9203
 F. DELCROS	11154
@@ -481,9 +491,11 @@ IV. Delineation	3058
 Improve Local Delivery of Public Policies	8610,233
 Improve Public Service Delivery	6170
 Improve Public Service Delivery Lithuania Launches	3907
+Improved Regulatory Environment Delivering	11198
 Improving Public Service Design and Delivery	11133
 Improving Service Delivery Infrastructure	10776
 Informativo Delegado Grupo E Director Grupo	4209
+Infrastructure Act SDIP Service Delivery Implementation	11261
 Infrastructure and Capacity Delivering	4848
 Installation for Bulk Fuel Delivery	718
 Institution. F. Delcros	11154
@@ -507,6 +519,7 @@ Kenya and Delaware	6937
 Kenya’s Negotiating Delegation	6946
 Key Deliverables	4528
 LA GRAL. DE DELEGACION ORIENTE AMERICA	4209
+LETTER DELIVERY SERVICES	11211,51
 Ladi Delano	9098,247,1
 Ladi Delano and Jide Odunsi	9098
 Ley de Delimitación de Sectores de Actividad Económica	1701
@@ -519,6 +532,7 @@ MIT Sloan Management Review and Deloitte	4432
 MIT Sloan Management Review and Deloitte University	4432
 Mails Delivered Country-wide Express Mail	9781
 Malawi. Transforming How Justice Is Delivered	8286
+Management SDIP Service Delivery Improvement Plan	11224
 Mandate Delivery and Outcomes	11134
 Mandate Delivery and Outcomes The Bank	11134
 Maria Benvinda Delfina Levi	4274
@@ -553,10 +567,13 @@ Moove Co-founders Ladi Delano and Jide Odunsi	9345
 Morocco's Minister Delegate	7169
 Multilateral Fora Fabian Delcros Introduction	11154
 NTT Data Delivery and Industry	6832
+NUMBER OF PARCEL DELIVERY SERVICES	11211,51
+NUMBERS OF EXPRESS DELIVERY SERVICES	11211,51
 Nacional Adjunto Grupo B Delegado Grupo	4209
 National AI Delivery Architecture	7548
 National AI Delivery Plan	7548
 National Service Delivery Roadmap	8677
+Navigating Change Delivering Impact	11332
 Nicola Dell	4439
 Niger Delta	9068
 Nothing Delta Wants Public Projects Feedback	10034,231
@@ -574,6 +591,7 @@ Owen DeLong	7437
 P. Delvenne	11028
 P17240506 Toward More People-Centered Service Delivery	984
 P2G Benin Economic Governance for Service Delivery	10870
+PART G SERVICE DELIVERY AND ORGASITAIONAL	11250
 PIB Delhi India and South Africa	6480
 PIB Delhi. Acquired	6480
 PIonsdticOatfofircfeorAdd Delivery Service	11129
@@ -582,6 +600,8 @@ PRESIDENCE DELA& PRESIDENCY O SECRS NER	10974
 PROPOSED VOLUNTARY DELISTING	4263
 PROPOSED VOLUNTARY DELISTING OF ECONET WIRELESS	4896
 PROVIDE AND MANAGE DELIVERY CHAIN PHASE	11156
+PSS Information Technology Specialist. DPWI Delegation	11285
+Part C Delegations	11181
 Plenipotentiary Conference. Delegates	7884
 Pleno Senador Ministerio Delegado Diputado Vice-Ministro	4209
 Pleno Senador Ministro Delegado Diputado Gran	4209
@@ -594,6 +614,7 @@ Postal Delivery	11129
 Postal Facility Delivery	11129
 Postal Facility Delivery Point	11129
 Postal and Courier Services. Delegates	9886
+Posts Delegation Register	11251
 Presidencial Delegado Adjunto Gobierno Delegado Provincial	4209
 President's Delivery Unit	3237,2238,4652
 Presidential Delivery Unit	3239,2008,253,701,1231
@@ -612,6 +633,7 @@ Provincial Ministerio Inspector Regional Ministerio Delegado	4209
 Public Service Delivery	5349,351
 Public Service Delivery Index	10785
 Public Service Delivery and Corruption	5349
+Public-Service Delivery AI Eligible Applicants	11345
 Quick Step Delivery	10468
 REG. REG. REG. DELEGACIÓN PROV. PROV	4209
 REGIONAL SERVICE DELIVERY FOOTPRINT	8999
@@ -631,6 +653,8 @@ Roadmap Towards Effective Governance and Service Delivery	4091
 Rosa Brito Delgado	7792
 Rural Delivery	11129
 SADC Delegates	10421
+SAPS Delegation	11285
+SERVICE DELIVERY AND ORGANISATIONAL ENVIRONMENT STATISTICS	11250
 SERVICE DELIVERY REQUIREMENTS	9855
 SERVICE DELIVERY REQUIREMENTS Standard Digital	9855
 SUPPORTING ESSENTIAL HEALTH SERVICE DELIVERY People	10829
@@ -642,13 +666,20 @@ Senior AVP Service Delivery	11162
 Seoul and New Delhi	7320
 Service Delivery	970,2081,1151
 Service Delivery Among	718
+Service Delivery Environment	11218,6,26
+Service Delivery Environment The Department	11224
 Service Delivery Footprint Local Offices	8999
+Service Delivery Improvement	11231
+Service Delivery Improvement Plan	11218,6
 Service Delivery Indicator	10188
+Service Delivery Information Tool	11218
 Service Delivery Model	5533
 Service Delivery Program for Results	10870
 Service Delivery Requirements	9855
 Service Delivery Standards	6786
 Service Delivery Time	4528
+Service Delivery and Access	11250
+Service Delivery and Organisational Environment Statistics	11250
 Service Delivery and System Strengthening Project	10829
 Shock-Responsive Digital Delivery Systems	971,9992,1
 Single Window for Remote Delivery of Public Services	10765,10
@@ -658,6 +689,8 @@ States and Local Government Areas. Delineation of Postcode	11129
 Strategic DPI and Delivery	5072
 Strategic Delivery The Bank	11134
 Strategic Digital Public Infrastructure and Delivery	5072
+Strategic and Special Delivery Unit	11236
+Strategy and Service Delivery Support Department of Planning	11224
 Street Delivery	11129
 Strengthen E-Services Delivery	6077
 Strengthening Community-Based Health Service Delivery	10829
@@ -676,10 +709,12 @@ Telemedan Delivers Healthcare	2380
 Tier-1 Sectors Deliver	2957
 Toward More People-Centered Service Delivery	984
 Tower Delays	11134
+Transforming Public Service Delivery	11216
 Transitional Bodies and Delegated Powers	3861
 Turning Strategy Into Delivery Collectively	7764
 UAB Meeple S.r.l. Delirio AI Meta	8530
 US Delegation Heads	5044
+Uber and Mr Delivery	11285
 Uganda Health Transformation Delivery Unit	4217
 Unique Identity Number for Service Delivery	10765,10
 Urban Delivery	11129

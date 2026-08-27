@@ -87,6 +87,7 @@ CATHOLIC HOSPITAL WAMBA Data Processor INST-503288E3328	7167
 CATTY MEDICAL CLINIC LIMITED Data Controller	7167
 CATÉGORIE DES	10087
 CATÉGORIES INSTITUTIONS RÔLES ET RESPONSABILITÉS ORGANES	10965
+CAWI Computer-assisted Web Interview CATI Computer-assisted	11192
 CLOUD BASED ON DATA CATEGORIZATION	6432
 CLOUD BASED ON DATA CATEGORIZATION Technical	6432
 CONCEJALES AYUNTAMIENTOS Categoria Ayunt. Asignac. Mensual	4209
@@ -102,7 +103,8 @@ Catabola	5721
 Catalani C	1219
 Catalani&author	1219
 Catalog	6423
-Catalogue	37,1197,3212,3613,38,1456,1321
+Catalogue	37,1197,3212,3613,38,1456,1321,310
+Catalogue of Standards	11184
 Cataloguing	3861
 Catalyse	4126
 Catalyse Global Partnerships	10865
@@ -112,7 +114,7 @@ Catalysing	11130
 Catalyst	226,6880
 Catalyst Fund	4972,2607,1569
 Catalyst for Inclusive E-Commerce	7860
-Catalysts	10464,685
+Catalysts	10464,685,157
 Catalytic	4185,2227
 Catalytic Agents	2957
 Catalytic Are Political Development and Corruption	1828
@@ -140,7 +142,7 @@ Categoria de Consumer Systems for HealthCare and Wellbeing	2816
 Categoria de Dados	10747
 Categorias	15,2422,1
 Categorical	7451,832
-Categories	236,725,808,158,394,69,147,190,314,29,444,200,89,84,405,409,63,62,29,258,29,2,181,75,100,80,96,217,309,86,83,128,44,403,62,56,47,32,823,317,153,167,1,1,34,201,44,369,715,110,55,272
+Categories	236,725,808,158,394,69,147,190,314,29,444,200,89,84,405,409,63,62,29,258,29,2,181,75,100,80,96,217,309,86,83,128,44,403,62,56,47,32,823,317,153,167,1,1,34,201,44,369,715,110,55,272,846
 Categories Consultancy	9893
 Categories Cybersecurity Allan Juma	9830
 Categories Information Technology	9892
@@ -153,7 +155,7 @@ Categories of Eligible Expenditures Category	10964
 Categories-	9399
 Categorised	8243
 Categorização	3519,2943
-Category	969,250,9,36,20,1189,1,301,1,137,1983,76,33,129,303,718,384,407,749,895,241,9,283,447,46,854,289,9,8,53,6,2,1,74,52,4
+Category	969,250,9,36,20,1189,1,301,1,137,1983,76,33,129,303,718,384,407,749,895,241,9,283,447,46,854,289,9,8,53,6,2,1,74,52,4,224,142
 Category B	7695
 Category C	5005,2690
 Category Classified Level	10157
@@ -249,6 +251,8 @@ DATA CATALOG	9485
 DATA DEFINITION AND CATEGORISATION	961
 DE DISTRITALES Y MUNICIPALES CATEGORÍA MINISTERIO	4209
 DE PROVINCIAS CATEGORÍA MINISTERIO CONCEPTO ACTUAL	4209
+DEFINITIONS OF TELECOMMUNICATIONS CATEGORIES	11211
+DEFINITIONS OF TELECOMMUNICATIONS CATEGORIES..104 APPENDIX	11262
 DELEGACIÓN DIRECTIVO COORDINAC. PLANIFICACIÓN CATASTRO	4209
 DES Scope Subsystem Type Categorical	7221
 DIVINE MERCY ELDORO CATHOLIC DISPENSARY Data	7167
@@ -283,9 +287,12 @@ Ezulwini Catholic Primary School	11134
 FY FY FY License Category Purpose	6946
 Financing Agreement Description Under Category	10964
 First Catalytic First Loss Guarantee Transactions	8938
+Following Occupational Categories	11218
 Fundo Catalítico de Inovação	2816
 G Details John Tanner Category	2405
 GDP Expenditure Category	2775
+GENERATION CAPACITY CATEGORISATION	11228
+GENERATION CAPACITY CATEGORISATION Given	11228
 General Catalyst	4458,4581,58,277
 General Catalyst and MultiChoice	4458
 George and Gregory Cathbat	10412
@@ -293,6 +300,7 @@ Ghana Categories	236
 Girls’ Category	9014
 Global Fund Data Science Catalytic Fund	392
 Global Ventures and Endeavor Catalyst	2310
+GovZAUpdates Event Category Issued	11225
 Huawei Safe City Angola. Cat	645
 ID4D Practitioner’s Guide. Category Benefits Administrative	10775
 IDA Description Disbursement Under Category	10964
@@ -309,6 +317,7 @@ Joel R. McConvey Categories Biometrics News	2873
 KSh Million Expenditure Category	2775
 Karima Mkika Catégorie	8891
 Kepple Africa Ventures and Endeavor Catalyst. Moniepoint	711
+LTSM National Catalogue	11241
 Laboratory Scale Manufacture of Lithium Cathode Materials	1154
 Lap Category Sequence	1228
 Latency Catch	6892
@@ -324,6 +333,7 @@ Luanda Luanda CATARINA MANUEL MARIA	10751
 M MILITARES CATASTRAL Y OBRAS BOMBEROS	4209
 MINISTERIO CONCEPTO ACTUAL CATEGORÍA MINISTERIO CONCEPTO	4209
 MINISTERIO CONCEPTO CATEGORÍA MINISTERIO CONCEPTO ACTUAL	4209
+MIOS Catalogue	11184
 Madame Yaye Catherine DIOP	8269
 Main Categories of Threats Identified	5677
 Major Consumer Category	2775
@@ -383,6 +393,7 @@ Risk Category V	9123
 Rubaga Cathedral	4954
 SEGUNDA CATEGORIA Oficina	4209
 SEP Budget Table Budget Category	1778
+SSVP St Christopher Catholic Church	11204
 SYSTEMATIC OPERATIONS RISK-RATING TOOL Risk Category	6579,349,949,2993
 Saad Sefrioui Catégorie	8891
 Sample Budget and Capacity Audit Templates Category	3861
@@ -393,6 +404,7 @@ Scope Subsystem Type Categorical Indicates	7221
 Scope System Type Categorical	7221
 Scope System Type Categorical Determines	7221
 Scope System Type Categorical Indicates	7221
+Search Keyword Categories- Any	11215
 Secretario de Estado de Catastro	1855
 Selected Categories of Commodities	2775
 Senegal Category	9134
@@ -400,6 +412,7 @@ Seychelles Details Vaughan O'Grady Category	2511
 Special Categories	3861
 Staff Trained Across Various Categories	6946
 Stakeholder Categories Stakeholders	7548
+Stats SA. Stats SA Library Cataloguing-in-Publication	11258,28
 Still Catching Up Nigeria	8088
 Studentsuccess Categories	8602
 Summary Income Statement Category Interest	11131,3
@@ -413,6 +426,7 @@ TM Forum Catalyst	7490
 Tariff Category	9409
 Thami Abderrahmani Ghorfi Catégorie	8891
 Thematic Categories Macroeconomic Stability Trade Openness	5247
+TransferCategory Categories of Ieamer	11180
 Uganda Catholic Medical Bureau	11022
 Universidade Federal de Santa Catarina	2816
 Upper Nile Catholic	3212,2216,578

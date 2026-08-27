@@ -3,6 +3,8 @@ AU CZI ECD GDP HIT HPC	4528
 Africa PPI Public Private Investment HPRN	396
 CDAC HPC Resource Management Engine	9475
 Digital Self-Care and OTC HPTs Management	9855
+EMR and HPRS	11252
+ExaGrid and HPE The IDC	11209
 Framework HPCSA Health Professions Council of South	396
 GSM Global System for Mobile Communications HPP	718
 GSMA GSM Association HPC High-Performance Computing	7548
@@ -10,13 +12,18 @@ Giciye III HPP	718
 HIV HMIS HPT HRH HTA ILMIS	4153
 HP Inc	8289
 HP OmniBook X Flip and OmniBook	8289
+HP OneView Centralised Management Software	11209
 HP Resort de Yamoussoukro	2342
 HP Smart Document Scan Software	34
 HP and Gemalto	5533
+HP and Mastercard	11356
 HP's Core Ultra	8289
 HPC Workshops	9475
-HPCSA	396,7905
+HPCSA	396,7905,2951
 HPCSA Booklet	8301
+HPE Infrastructure	11209
+HPE Synergy	11209
+HPE Synergy Frames. Proposed Specification	11209
 HPE. Selon	10933
 HPJ-MYGS	1981
 HPO-based	10188
@@ -25,8 +32,10 @@ HPT DELIVERY AND LOGISTICS MANAGEMENT Standard	9855
 HPT Delivery and Logistics Management	9855
 HPT Traceability and Track-and-Trace Systems	9855
 HPU Very Small Enterprise UPI Handicrafts	10980
+HPe Synergy	11209
 HPs. Records	2108
 Health Patient Registration Number HPRS Health	396
+Historical Disadvantaged Individual HPRS	11252
 Human Immunodeficiency Virus HPV	10776
 Hunger Safety Net Program HPTs Health	2775
 IATI. Kenya HPN Afya Halisi	216
@@ -42,3 +51,7 @@ Prisons P. O. Box HP1576	2776
 Promotion of HPTs	9855
 SEOs and HPUs	10980
 Technologies HPC	7548
+X HPe	11209
+X HPe Synergy Blade Enclosure	11209
+X HPe Synergy Blade Server BL480	11209
+X HPe Synergy Blade Servers BL660	11209

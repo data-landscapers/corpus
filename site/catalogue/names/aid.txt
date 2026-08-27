@@ -3,11 +3,14 @@ AID-JTR217	6948
 AID-SMJ882	2093
 AIDA Data Hub	7313
 AIDE-MEMOIRE DE LA DIXIEME REVUE SECTORIELLE	2966
+AIDING	11190
 AIDLC	8869
 AIDS Acquired Immune Deficiency Syndrome DMMU	1988
 AIDS Behav	1219
 AIDS Commission	3583
-AIDS HELPLINE	1009
+AIDS HELPLINE	1009,10167,3,2,9,6,3,2,12,20,30
+AIDS Helpline	11350
+AIDS Programmes	11218,6
 AIDS Response	10776
 AIDS Response HIV	10776
 AIDS Trust Fund	6921
@@ -39,6 +42,7 @@ Aidec Digital	6936
 Aider	10643
 Aider des Béninois	6221
 Aidha	1921,947,218,1301,1029,599,4,308,275,616,93,624,528
+Aidin Geranrekab A Inteligência Artificial	11329
 Aiding	587
 Amada Aida. Créé	7202
 Asian Development Bank AIDS Acquired Immune	396
@@ -84,12 +88,15 @@ HIV and AIDS	21,1967,5199,1292,2655
 HIV and AIDS. Nandi County	6946
 HIV and Aids	38
 Habari. Aidha	2868,3151
+HealthHistoryHIV and AIDSHome	11215
+Home Owners Allowance and Medical Aid	11218,6
 Humanitarian Aid Commission	6947
 International Aid Transparency Initiative	1651,5331
-Irish Aid	3924
+Irish Aid	3924,7278,1,1,1,1,1,1
 Irish Aid. Over	7232
 Ivoire’s Aid Management Platform	244,1,1,70,1,21,82,1,130,2
 KIBOCUBE. Aidha	6019
+Kenya Irish Aid	11202
 Kidijitali. Aidha	2868
 Lab Aides Year	4202
 Lagos State AIDS Control Agency	9444
@@ -97,15 +104,18 @@ MHz Aids	736
 Makazi. Aidha	6019
 Mapping Methodology Framework for Mutual Aid Groups	6947
 Mawasiliano. Aidha	6019
+Medical Aid	11218,80
 Mheshimiwa Rais. Aidha	2868
 Mutual Aid and Diaspora Alliances	6947
 NGO Direct Aid	10864
 Naibu Katibu Mkuu. Aidha	2868
 National AIDS	4153
 National AIDS Control Council	4260
-National Student Financial Aid Scheme	6832,1078,1218,237,1029
+National Student Financial Aid Scheme	6832,1078,1218,237,1029,828,3,11,67
+Nigeria Irish Aid	11204
 Nurse Aides Year	4202
 Overseas Development Aid	11155
+Plan NSFAS National Student Financial Aid	11192
 Politics of Local Aid	6947
 Potential AidData	474
 President's Emergency Plan for AIDS Relief	7750
@@ -123,11 +133,13 @@ Supporting Mutual Aid	6947
 Sweden. Aidha	2868
 TEHAMA Nchini. Aidha	6019
 Tanzania Commission for AIDS Act	6921
+Tanzania Irish Aid	11206
 Tanzania. Aidha	6019
 Technical Working Group HAC Humanitarian Aid	6947
 U.S. President’s Emergency Plan for AIDS Relief	10641
 UK Aid	899,1980,8125
 UK Aid’s Digital Access	899
+Uganda Irish Aid	11207
 Ujumla. Aidha	2868
 United States President’s Emergency Plan for AIDS	5165
 Vera Aidoo For Diana	3691

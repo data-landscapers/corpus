@@ -52,7 +52,7 @@ Comorien	5657
 Comorienne	2960
 Comoriens	2341,382,1756,263,572,212,131,1640,3812
 Comorlab	5669
-Comoros	257,556,4,73,46,26,310,136,57,389,12,40,143,1,86,1,2,74,3,205,58,28,156,19,133,37,72,34,24,77,8,205,201,11,8,3,42,170,30,131,208,36,756,158,125,1,88,95,221,249,263,738,901,88,333,349,1409,102,613,113,45,26,50,3,130
+Comoros	257,556,4,73,46,26,310,136,57,389,12,40,143,1,86,1,2,74,3,205,58,28,156,19,133,37,72,34,24,77,8,205,201,11,8,3,42,170,30,131,208,36,756,158,125,1,88,95,221,249,263,738,901,88,333,349,1409,102,613,113,45,26,50,3,130,223
 Comoros Adopts	3492
 Comoros Advances Digital Identity Reform	5556
 Comoros By Chris Burt East African	5335
@@ -67,6 +67,7 @@ Comoros Launches E-Learning and EdTech Platforms	3059
 Comoros Lebanon Congo	10764
 Comoros Mongolia Tonga Democratic Republic	11005
 Comoros National Identity Card No N	10714
+Comoros RGPH5	11186,1,7
 Comoros Télécom	257
 Comoros and Cape Verde	9759
 Comoros and Congo	1252,1,1,1

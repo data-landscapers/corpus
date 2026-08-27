@@ -13,6 +13,7 @@ ARC Resources Corporation Ltd	3583
 ARC Resources Corporation Ltd and Winners Construction	3583
 ARC Resources Ltd	3583
 ARC Ride	4972
+ARC-ISCW	11334
 ARC. RI8	10779
 ARCADIA INSURANCE BROKERS LIMITED Data Controller	7167
 ARCADIA INSURANCE BROKERS LIMITED Data Processor	7167
@@ -94,6 +95,9 @@ ArcGIS Drone2Map	10761
 ArcGIS Enterprise	10761
 ArcGIS Online	4979,869
 ArcGIS Pro	5848,4913
+ArcGis	11231
+Arcadia	11224,125
+Arcadia PRETORIA	11184
 ArcelorMittal	7205
 ArcelorMittal Liberia and Firestone	8393
 Arcep	2290,404,964,1086,1490,591,1300,1393
@@ -122,13 +126,14 @@ ArchitectsTerror-TheSentry-June2023.pdf	4127
 Architectural	2477,5313,3343
 Architectural and Structural	9123
 Architectural and Structural Design	9123
-Architecture	396,544,69,275,656,1456,821,1343,105,718,40,1247,397,136,1034
+Architecture	396,544,69,275,656,1456,821,1343,105,718,40,1247,397,136,1034,1947
 Architecture All	10616
 Architecture Building Block	6423
 Architecture Built Around Secure Identification	6581
 Architecture Documentation	5665
 Architecture Tool Architect	9124
 Architecture Was Always	5513
+Architecture and Technology Selection	11216
 Architecture of Trust	7471
 Architectures	550,18,20,8017,1552
 Archivado	10487
@@ -140,6 +145,9 @@ Archive	585,3841,2006,1478,974,1992
 Archive About Us Contact Us Oshiwambo	11122
 Archive Subscribe Now Desert Radio Podcast	11122
 Archived	2712,1976,1735,156,254,95,949,2993,41
+Archived Articles	11220,21
+Archived Documents	11220
+Archived Information National Archives Building	11349
 Archivematica	8021
 Archives	1988,1794,2507,818,833,81,618,111,1274,381,570
 Archives Actualité Mémoire de Yamoussoukro	9620
@@ -154,7 +162,8 @@ Archivista	4209
 Archivo	4209
 Archivo Nacional	10438
 Arco Cash	8732
-Arctic	6790,4365
+Arctic	6790,4365,136
+Arctic Observing Mission	11291
 Arctic Security	2824
 Arcus Foundation and Friends	10960
 BANCE C EPICENTRE NIGER ARCEP	998
@@ -195,6 +204,8 @@ Conselho de Administração da ARCCLA	8052
 Construction ARCEP	998
 Continental Africa Internet Governance Architecture	3874
 Contingent Allemand ARCEP	998
+Council GWEA Government Wide Enterprise Architecture	11184
+Crossroads Textbooks Archived Documents	11241
 D.G ARCHIVOS-Concepto	4209
 DEC Archive	7590
 DEFINITION OF TRUST ARCHITECTURE Trust Architecture	11138
@@ -206,7 +217,7 @@ Deliberate Architecture Looks Like Rwanda	6603
 Delivery Architecture	7548
 Design Partnership Architects	2342
 Diagnosing Readiness Gaps and Country Archetypes	2957
-Digital Health Architecture Blueprint	3385,4322
+Digital Health Architecture Blueprint	3385,4322,3625
 Digital Health Architecture Blueprint and FHIR	3385
 Digital ID Architecture and Rights	4863
 Digital Pharmacy System Architecture	9855
@@ -216,12 +227,14 @@ Distributed Active Archive Center	10794
 Distributed Governance Architecture	3861
 Dossier Enquête Interview Reportage Archives AFRIQUE	9620
 E.A.P.C Archers Child Development Centre Data	7167
+EA Enterprise Architecture	11261
+EA Enterprise Architecture GCIO Government Chief	11184
 EU Enterprise Architecture FHIR HIMSS Electronic	1009
 Edward Archibald	10763
 Emerging Technologies Delivery Architecture	7548
 Emerging Technology ARCAI African Research Centre	1814
 Enterprise Architects	6832
-Enterprise Architecture	4126,1407,3070,521,1661
+Enterprise Architecture	4126,1407,3070,521,1661,399
 Enterprise Architecture DGov	9237
 Enterprise Architecture DSUB Electronic Business	1009
 Enterprise Architecture Data Capturing Template	9124
@@ -247,11 +260,13 @@ Framework The Bridgforte Trust Architecture Framework	11138
 French Archaeologists	3841,905,65,38,926,129,44,409
 G Coverage ARCEP	10856
 G20 International Financial Architecture Working	2626
+GEONETCast. ARC-ISCW	11334
 GHz COR-RAD-MIM- Conforme ARCEP-180521	998
 GHz D PETROLEUM S.A ARCEP	998
 GROUPEMENT ARCEP	998
 Gabana Architects and Consultants	4083
 Gabon's ARCEP	3963
+General Requirements and Architecture. Specifies	11269
 Global Financial Architecture	10980
 Gov Enterprise Architecture I-2	10785
 GovSpecs Architecture	6423
@@ -289,18 +304,22 @@ Journal of Systems Architecture	8605
 Kenya Health Enterprise Architecture	2709
 Kenya Health Enterprise Architecture Blueprint	10641
 LIST OF ACRONYMS ADM Architecture Development	1009
+Land Processes Distributed Active Archive Center	11334
 LeCun’s Joint Embedding Predictive Architecture	7573
 Lead Product Architect	7065
 MONITORING AND COMPLIANCE ARCHITECTURE	3861
+Managing Electronic Records The National Archives	11349
 Methodology and Convening Design Trust Architecture	11138
 Ministry and ARCEP	2969
 Modelling Notation ArchiMate The Notation	9124
 Monitoring and Compliance Architecture	3861
+NARSSA National Archives and Record Service of South	11196
 National AI Delivery Architecture	7548
 National Archives	3088,4460
 National Archives and Record Service of South	1009
+National Archives and Record Service of South Africa	11196
 National Archives and Record Services of South Africa	1009
-National Archives and Records Service of South Africa	8021,1
+National Archives and Records Service of South Africa	8021,1,3174
 National Archives and Records Services Act	9525
 National Archives and Records Services of South Africa	8021
 National Archives of South Africa Act	396
@@ -321,6 +340,7 @@ Numérisation des Archives	4025
 Open Architecture	5700
 Open Archival Information System	9888
 Open Group Architecture Framework	21
+Open Group Architecture Framework UML	11184
 PIU MFBPE ARCT MFPTE MINSOLID Technical	1284
 PRIVACY AND SECURITY ARCHITECTURE	3861
 PalArch’s Journal of Archaeology of Egypt	4432

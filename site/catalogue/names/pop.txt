@@ -4,6 +4,7 @@ ARTICLES POPULAIRES Plaies	11123
 ATM Population Merchants and POS	6978
 ATM Population Page	4517
 Access of Population	11136
+Act POPIA Protection of Personal Information Act	11218
 Adolescent-Responsive Action and Population Data	9766
 Adult Population	940
 Africa and PoPs	10861
@@ -45,6 +46,7 @@ Citizens Promoted Digital Literacy of Population	958
 Co-Founder and Executive Director of POPVOX-DPP	9191
 Conducting the Population and Housing Census	2775
 Connections See More Popular Content	6683
+Continuous Population Survey	11237,104
 Couverture Population	419
 D'ACHEVEMENT Population	10847
 DEMOCRATIQUE ET POPULAIRE N	4658
@@ -54,8 +56,10 @@ DIMAMO Population Health Research Centre	8604
 DISPLACED POPULATION IN BURKINA FASO	10864
 DTT Population Coverage	6946
 Daily Average Population of Prisoners	2775
+Data Continuous Population Survey	11341
 Death Registration Platform National Population Commission	7632
 Dec-2024 Population	10870
+Demographic and Population Statistics	11237
 Densidade Populacional	4044
 Department's POPIA	6512
 Description Région Année Valeur Population Gbôklé	747
@@ -106,7 +110,7 @@ Integrated Information System of National Population App	10714
 Integrated Population Registration System	1745,2191,6886
 Integrated Population and Secure Documents Management System	2823
 Integrated Population and Secured Titles Management	10714
-Intelligent Population Register	2662,1594,516,1755,3658
+Intelligent Population Register	2662,1594,516,1755,3658,1079
 Japan Population Register	10714
 KPHC Kenya Population and Housing Census KPLC	2775
 Kenya Population and Housing Census	7548
@@ -134,6 +138,7 @@ Ministry of Health and Population MPA Minimum Package	10829
 Morocco's National Population Register	7596
 Morocco's National Population Registry	1571
 Mouvement Populaire	8891
+NATIONAL POPULATION COVERAGE	11211,51
 Namibia Population and Housing Census	9485
 Namibia Population and Housing Census PUMS	9485
 Namibia's National Population Registration System	589
@@ -149,7 +154,7 @@ National Population Commission and Central Bank of Nigeria	3862
 National Population Commission for Census	11129
 National Population Commission. The Federal Commissioner	8588
 National Population Commission. The NIMC	4120
-National Population Register	116,2498,48,538,25,307,724,516,554,207,1006,180,685,2280,1030
+National Population Register	116,2498,48,538,25,307,724,516,554,207,1006,180,685,2280,1030,498,6,64
 National Population Registration System	159,146,20,215
 National Population Registry	431,1140,421,4342
 National Population Secretariat	9312
@@ -160,14 +165,16 @@ Nutrition and Population Strategy	3604
 O Censo Geral da População	5427
 O IV Recenseamento Geral da População	7666
 Opeyemi Lawal The National Population	10265
+PFMA Public Finance Management Act POPIA	11198,52
 POP and Spectranet	6749
 POP. FiberOne	6749
 POP. Starlink	6749
 POP3S	10764
-POPI Act	2117,5905,1106
-POPIA	1243,362,334,785,94,573,260,792,1090,191,82,383,198,125,120,95,65,40,54,169,82,129,12,227,251,266,108,787,211,106,262,847,455
+POPI Act	2117,5905,1106,2124
+POPIA	1243,362,334,785,94,573,260,792,1090,191,82,383,198,125,120,95,65,40,54,169,82,129,12,227,251,266,108,787,211,106,262,847,455,398,13,7,15,34
 POPIA Compliance Framework	6632,95
 POPIA Five Years Later	7055
+POPIA Manual	11251
 POPIA-aligned	7055
 POPIA-compliant	6832
 POPIA. Based	6632
@@ -212,7 +219,7 @@ Popular Movie Gender Breakdown Michael	9781
 Popular Posts	9253
 Popular de Liberta	9399
 Populating Shared Value Sets	1009
-Population	21,716,10,223,28,15,350,191,68,1,1,1,1,1,1,54,63,2,41,156,29,82,422,4,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,2,118,1,150,1,252,177,138,261,304,1,1,1,1,5,1,60,66,83,198,107,671,142,457,328,313,277,62,146,100,31,127,192,377,58,1,279,308,87,503,386,35,173,68,115,486,131,262,165,2,49,2,3,7,5,32,9,1,4,3,6,3,3,3,3,9,2,16,7,31,8,44,4,1,16,153
+Population	21,716,10,223,28,15,350,191,68,1,1,1,1,1,1,54,63,2,41,156,29,82,422,4,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,2,118,1,150,1,252,177,138,261,304,1,1,1,1,5,1,60,66,83,198,107,671,142,457,328,313,277,62,146,100,31,127,192,377,58,1,279,308,87,503,386,35,173,68,115,486,131,262,165,2,49,2,3,7,5,32,9,1,4,3,6,3,3,3,3,9,2,16,7,31,8,44,4,1,16,153,48,1,5,2,68,34
 Population Administration Information System	10714
 Population Affected	1828
 Population Bas-Sassandra	747
@@ -255,6 +262,7 @@ Population and Development	7749
 Population and Housing	10765,10
 Population and Housing Census	940,36,827,1121,4444,637,243,6,159,1027,1693
 Population and Housing Census. About	9111
+Population and Social Statistics	11237,52
 Population du Burundi	2624
 Population of Burkina Faso	10859
 Population of Chad	2505,1414
@@ -267,6 +275,7 @@ Population-management	1745
 Population-scale	10188
 Population1	1594
 PopulationDataPageM	2624
+PopulationGroup Describe	11180
 Populations	7337
 População	4044,3622,3111
 População da Guiné-Bissau	7666
@@ -278,6 +287,7 @@ Q4 POS Population Mobile Money Merchants	4517
 R. Pope	5700
 RECENSEAMENTO GERAL DA POPULAÇÃO E HABITAÇÃO	4044
 RECENSEMENT GENERAL DE LA POPULATION	2625
+RURAL POPULATION COVERAGE	11211,51
 Racheal Popoola	6936
 Recenseamento Geral da População	4040,4,42,1064,329,1512,3769,17
 Recenseamento da População	4040,4
@@ -301,11 +311,13 @@ Révolution Progressiste Populaire. Pour	8454
 S. Popovs	5349
 SENI-Plus Targeted Districts and Population Targets Region	10829
 Selon le World Population Review	4325
+Service POPIA Protection of Personal Information Act	11196
 Seychelles National Population Database	10714
 Siasa ADVERTISEMENT ADVERTISEMENT Most Popular	9646
 Slovenia Central Population Register	10714
 South Africa's POPIA	3885
 South African Population Research Infrastructure Network	7836
+South Africa’s National Population Register	11264
 South Africa’s POPI Act	2117
 South Africa’s POPIA	6471
 South Africa’s POPIA and Kenya’s Data Protection	10798
@@ -317,6 +329,7 @@ Tribunal Supremo da República Popular da China	10752
 TuID West Bank and Gaza Unified Population	10714
 UN Population	970
 UNFPA United Nations Family and Population Agency	10829
+URBAN POPULATION COVERAGE	11211,51
 Uganda Population	9477
 Uganda William Popp	6262
 Union Socialiste des Forces Populaires	8891

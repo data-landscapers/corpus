@@ -30,6 +30,7 @@ ADDITIONAL SUMMARY TERMS FACTSHEET	1818
 ADDITIONALITY	1818
 ADDITIONALITY Additionality	1818
 ADDITIONS AND AMENDMENTS	6907
+ADDITIONS AND AMENDMENTS TO THE RFP	11240
 ADDIX	2986,2
 ADDR 3 ADDR 4 ADDR CITY ADDR STATE ADDR COUNTRY ADDR ZIP	3364
 ADDR ToR 260609	8726
@@ -54,6 +55,7 @@ Accra Madina Digital Address	3386
 Accra November Digital Address	3386
 Accra-North Digital Address	3386
 Acte Additionnel	10712
+Add Additional EX189-SEC Exagrid	11209
 Add GH	10135
 Add Hypertext	5017
 Add Pulse	9736
@@ -68,21 +70,23 @@ Added	236,536,472,40,1491,206,2674,22,389,319,4595,20
 Added GWh Giga Watt Hours	2775
 Added Service	3862
 Added Services	3487,2532,665
-Added Tax	236,918,130,2023,1206,186,197,455,304,799,15,320,449,501,629,206,16,523,308,308,140,333,186,31,619,114
+Added Tax	236,918,130,2023,1206,186,197,455,304,799,15,320,449,501,629,206,16,523,308,308,140,333,186,31,619,114,107,39
 Added Tax Act	4896,2025,3102
+Added Tax DISCLAIMER	11298
 Added Tax Reforms Mr. Speaker	7695
 Added Tax VDIs Virtual Digital Infrastructure	2775
 Added Tax VHF Very High	236
+Added Tax XML Extensible Markup Language	11261
 Addenda	1465,173
-Addendum	1638,8979,163,60
+Addendum	1638,8979,163,60,393
 Addendum II	5793
 Adderley Street	8999
 Addi-	10780
 Adding	2869,79,264,2311,297,542,472,1112,42,1135,2008
 Adding PayPal	6368
 Addis	1219,585,1175,1219,133,1635,4693
-Addis Ababa	26,1,1,83,266,252,104,228,70,132,56,18,6,354,117,100,446,257,359,2,5,23,16,258,36,22,249,108,64,36,93,335,226,227,190,16,5,19,267,1,18,110,100,179,344,48,88,5,894,650,28,152,104,25,1,67,22,165,14,104,135,22,322,248,112,275,1,1,493,30,7,658,87,76,50,177
-Addis Ababa Action Agenda	970,2613,6752
+Addis Ababa	26,1,1,83,266,252,104,228,70,132,56,18,6,354,117,100,446,257,359,2,5,23,16,258,36,22,249,108,64,36,93,335,226,227,190,16,5,19,267,1,18,110,100,179,344,48,88,5,894,650,28,152,104,25,1,67,22,165,14,104,135,22,322,248,112,275,1,1,493,30,7,658,87,76,50,177,397,5
+Addis Ababa Action Agenda	970,2613,6752,858
 Addis Ababa Agreement	3583
 Addis Ababa City Administration	7463
 Addis Ababa City CRRSA	2878
@@ -130,7 +134,7 @@ Addison-Wesley	3782
 Addit	4260
 Additif N	5983
 Addition	585,151,277,931,2788,2189
-Additional	25,141,210,395,128,62,1,7,51,141,51,7,45,20,371,159,4,10,160,281,126,109,1,172,212,495,199,131,68,79,57,1,1,223,117,89,85,149,313,191,64,93,2,454,456,55,200,12,96,409,297,323,211,31,113,246,53,398,28,43,21,291,140,6,154,82,260,63,21,30,479,129,367,45,4,2,3,7,5,4,30,15,6,2,1,14,4,3,2,1,2,2,15,31,30,21,1,4,9,8,19,125,2,2,4,19,12
+Additional	25,141,210,395,128,62,1,7,51,141,51,7,45,20,371,159,4,10,160,281,126,109,1,172,212,495,199,131,68,79,57,1,1,223,117,89,85,149,313,191,64,93,2,454,456,55,200,12,96,409,297,323,211,31,113,246,53,398,28,43,21,291,140,6,154,82,260,63,21,30,479,129,367,45,4,2,3,7,5,4,30,15,6,2,1,14,4,3,2,1,2,2,15,31,30,21,1,4,9,8,19,125,2,2,4,19,12,13,37,4,2,7,5,1,11,2,8
 Additional APS	4260
 Additional CapEx	3184,1,1340,6256,214
 Additional Confirmations	5903
@@ -144,6 +148,7 @@ Additional Financing NewFinEnh1 World Bank Group	1284
 Additional Financing World Bank Group	307,450
 Additional Financing. IDA	757
 Additional Frictions	11138
+Additional Funding Sources	11285
 Additional Indicators	1818
 Additional Information	736,6462
 Additional Information I Certify	736
@@ -168,7 +173,7 @@ Additional Testing Requirements Software	5665
 Additional Universities and TVETs	6928
 Additionality	10077
 Additions	1013,931
-Address	236,500,39,183,820,36,63,63,351,183,75,1013,21,543,308,94,368,349,288,132,13,1,1281,232,653,726,254,160,138,2,317,317,96,37,1,165,703,4,10,37,29,142,21,122,3,7,4
+Address	236,500,39,183,820,36,63,63,351,183,75,1013,21,543,308,94,368,349,288,132,13,1,1281,232,653,726,254,160,138,2,317,317,96,37,1,165,703,4,10,37,29,142,21,122,3,7,4,40,16,19,1,36,25,66
 Address Barriers	11017
 Address CERT-GH	775
 Address Change Service	11129
@@ -176,8 +181,11 @@ Address Digital Skills Shortage	6449
 Address Directory	11129
 Address Disinformation	6907
 Address Fields	11129
+Address Financial Challenges	11250
+Address Findings	11218
 Address Form	11129
 Address Formats	11129
+Address Gender-Based Violence Mauritius	11332
 Address Line	11129
 Address Number Plaques	11129
 Address Security	5681
@@ -192,10 +200,11 @@ Address Upload Bottlenecks	4130
 Address Valid TIN	4602
 Address and Telephone Number of Person Authorized	7198
 Address of Principal Executive Office	8939
-Addressed	557,6855
+Addressed	557,6855,3838
+Addressed Holistically	11285
 Addressee	11129
 Addresses	736,2306,8087
-Addressing	21,407,361,151,30,67,667,73,37,65,109,383,51,103,67,438,361,96,96,158,76,241,161,121,17,173,113,10,7,27,31,130,58,34,14,135,18,67,81,1,72,205,245,6,19,132,29,151,86,118,1,207,66,188,51,104,2,10,54,41,62,46,38,47,42,129,91,50,57,10,72,64,39,69,46,41,124,132,86,39,48,85,21,63,1,19,11,28,8,137,17,68,3,98,303,9,85,18,2,10,3,252,140,3,136,44,30,93,40,2,47,20,91,266,1,312,15,5,71,31,1,19,2,12,6,1,2,56,19,48,2,2,1,1,1,20
+Addressing	21,407,361,151,30,67,667,73,37,65,109,383,51,103,67,438,361,96,96,158,76,241,161,121,17,173,113,10,7,27,31,130,58,34,14,135,18,67,81,1,72,205,245,6,19,132,29,151,86,118,1,207,66,188,51,104,2,10,54,41,62,46,38,47,42,129,91,50,57,10,72,64,39,69,46,41,124,132,86,39,48,85,21,63,1,19,11,28,8,137,17,68,3,98,303,9,85,18,2,10,3,252,140,3,136,44,30,93,40,2,47,20,91,266,1,312,15,5,71,31,1,19,2,12,6,1,2,56,19,48,2,2,1,1,1,20,39,70,20,55
 Addressing AI	4528
 Addressing AI Safety and Security	1814
 Addressing Africa's Trade Finance Gap DFIs	10718
@@ -264,11 +273,13 @@ Billion Birr Supplementary Budget Addis Ababa	1964
 Blantyre E-mail Address	3678
 Building Blocks. Additional APIs	6423
 Burundi RESULT NO PDO Additional Financing	1284
+Business Physical Address Details	11276
 Businesses Addresses	11129
 Bypass Global IPv4 Address Depletion	6622
 Bypass Global IPv4 Address Depletion Somalia	6622
 CEO de My Addictive	2312
 CG-1536-7228 Digital Address	3386
+CRITERIA DESCRIPTION Addressed	11252
 Cable Address	2474
 Campaign for Free Expression Addressing	10729
 Capacity Project ID Project Name Additional	1284
@@ -276,6 +287,7 @@ Change of Address	11129
 Change of Address Forms	11129
 Christabel Addo	9420
 Christabel Addo Reporter	8580
+City AddressState	11215
 Client Information Name of Applicant Postal Address	736
 Codes Add	8603
 Collaboration Is the Only Sustainable Solution Addressing	9120
@@ -289,6 +301,7 @@ County Governments Additional Allocations Bill	10122
 Creation of Additional Polling Units The Commission	10049
 D Wireless Plus Limited Digital Address	3386
 DDO No Additional Regional No Institutions	2473
+DESCRIPTION Addressed	11252
 DONE AT ADDIS ABABA	762
 DWELLING VACANT OR ADDRESS	582
 David Nana Addai	8580,186
@@ -312,17 +325,20 @@ Downloads Article Details References Addis Standard	8671
 Dr. Addis Ababa Othow	3507,172,6507
 Draft National Addressing Policy	11129
 Dynamic Data Solutions Digital Address	3386
+E. Timing of Review and Additional Procedures Applicable	11233
 EIB. Additional EU	852
-EMAIL ADDRESS	2709
+EMAIL ADDRESS	2709,8531
 ET-AUC-560865-GO-RFB Addendum	10616
 Educational Qualification Functional Title Secondary Address	11129
+Educator National Office Address	11241
 Eko Building Address	11129
 Electronic Addressing	11129
 Electronic Mail Address Report	775
 Elements of Address Type	11129
 Elements of Address Type Title First Name	11129
-Email Address	4896
+Email Address	4896,6380
 Email Address Email Mobile Number	736
+Email Addresses	11257
 English First Additional Language. Journal of Curriculum	6832
 Environment and Natural Resources Gross Value Added	2775
 Equity Addition	1944
@@ -345,6 +361,7 @@ Fiscal Year Addis Ababa	7091
 Frequency Address	958
 GB ADDENDUM	5793
 GCIS Add	5969
+GENERAL INFORMATION PHYSICAL ADDRESS	11218
 GIS Addressing Database. At the Local Government	11129
 Ghana Digital Address	2308
 Ghanaians. Addressing	5854
@@ -358,6 +375,7 @@ Gross Value Added HTML Hyper Text	236
 HEALTH AND WELL-BEING Determinants of Health Addressed	10776
 Hirshabelle State Abdirahim Isse Addow	7897
 Hon. Dr. Addis Ababa Othow	3736
+I Addis Ababa	11283
 I Address I Tel	736
 I Physical Address	736
 I. BACKGROUND AND RATIONALE FOR ADDITIONAL	1284,1605
@@ -398,6 +416,8 @@ Local Government Addressing Teams	11129
 Luba Lesolle Add	5808
 MESOB Headquarters Government Services Center Address	10709
 MNE Additional	573
+MTN MyTown Offers Additional Bundles	11259
+MTN MyTown Offers Additional Bundles Bundle	11259
 Managing Director of Digital Addressing Platform	11126
 Manufacturing Value Added	9761,1219
 Mc Ethiopia Africa Eastern Africa Addis	10840
@@ -419,9 +439,12 @@ Name and Address. IHS Holding Limited	7198
 Name and Address. The Company	7198
 Nana Oye Bampoe Addo	8371,1879
 Nat. ID No. Postal Address Physical	736
-Nation Address	396,148,1997,73,447,1799,148,9,11,458,47,4350
+Nation Address	396,148,1997,73,447,1799,148,9,11,458,47,4350,1305,30,19,40
+Nation Address Home Affairs	11246
+Nation Address SOP Standard Operating Procedure	11197
 Nation Address SSA State Security Agency	5533
-Nation Addresses	5533
+Nation Address SSE Substantive Search and Examination	11250
+Nation Addresses	5533,5691
 Nation Annually Address	958
 National AI Agency Addressing	10152
 National Address Database	11129
@@ -470,13 +493,16 @@ ONG ADD-Fassali de Zinder	3356
 OSGF’s Email Address Can’t Receive Messages	10034,231
 Objectives and Goals of Street Addressing	11129
 Occupation Business Address Mr Mgqibelo Gasela	4896
+Office Address	11220
 Official Use Only Additional	10985
 Olufemi Ibiyemi Address Line	11129
 Open Data Startups ADD	2258
 Organization Address Figure	11129
 Osu-Accra Digital Address	3386
 PFS. Additional	10985
-PHYSICAL ADDRESS	2709
+PHYSICAL ADDRESS	2709,8515
+PHYSICAL ADDRESSES IN DATABASE	11211
+POSTAL ADDRESS	11218,6,16
 PREFACE The Nigerian National Addressing Standard	11129
 PREVIOUS ADDRESS ON THE BUILDING	11129
 PROPOSED ADDITIONAL GRANT	1284,1605
@@ -484,6 +510,7 @@ PUBLIC PUBLIC EBRD ADDITIONAL SUMMARY TERMS	1818
 Page ADDENDUM	5793
 Percentage Addressed	3051
 Physical Address	736,1141
+Physical Address Details	11276
 Physical Address Telephone No. Contact Person	736
 Physical Addressing	11129
 Planification Economique ADD FIN TBL1	1284
@@ -498,6 +525,7 @@ Postcode& Addressing	11129
 Postdoctoral Fellow. Additional	10840
 Potential Trust Service Provider Added	10819
 Presidency. Add	7079
+Pretoria Postal Address P.O. Box	11250
 Prime Minister’s Year-End Address	4535
 Prime Minister’s Year-End Address No Result	4535
 Private Sector Paratus Shareholders Equity Addition	1944
@@ -506,14 +534,17 @@ Program NDTS RAPID-CI Sources of Additional Funds	3604
 Project Year Additional Children	10829
 Proposed Additional Total Last Approved	2889
 Proposed Additional Total Proposed Current Financing	1284
+Province AddressStatisticsTaxTelecommunicationsTourismTrade	11215
 R Digital Address	3386
 RATIONALE FOR ADDITIONAL FINANCING	2889
 RHV Added Value MVA Regional Handicrafts	10980
 RI M Add	1009
 RIM Add	1009
 RS Add	1009
+Registered Office Address	11250
 Registration Value Added	736
 Republic of Ghana. Address	6936
+Residence Address. If the Reporting Financial Institution	11233
 Roberto Chavez- Street Addressing Manual- Street	11129
 Roosevelt Street Addis Ababa	7951
 Rural Addresses Figure	11129
@@ -523,19 +554,23 @@ SECTION6 Additional Terms	4301,48
 STAKEHOLDERS ADDS	10852
 STANDARD FOR MAIL ADDRESSING	11129
 STATE DEPARTMENT FOR MEDICAL SERVICES ADDENDUM	7987,1
+STREET ADDRESS	11240
 STUDY ADDS Over	10881
 Says Deputy PM Addis Ababa	8920
 Scale Digital Addressing Industry Published	10983
 Sean Ofori Addo	6936
 Service Value Added Tax Excise	5655
+Services National Office Address	11220,21
 Shareholders Equity Addition PPE Revenue Net	1944
 Shareholder’s Equity Additions	1944
 Signed Council of Europe Additional Protocol	10908
 Site Address Boxer Mitchell's Plain Boxer	8999
 Size and Location of Address Numbers	11129
+South African Address	11180
 Standard for Addressing	11129
 State Addressing GIS Unit	11129
 State Addressing Team	11129
+State-of-the-Nation Address	11230
 Stock Add	3962
 Strategy. Addresses. Fiber. Data. Law	7617
 Street Address Street Number	11129
@@ -549,6 +584,7 @@ Street Addressing Unit	11129
 Street Addressing and Property Identification Guide	11129
 Sunyani. Sunyani Municipal Operational Postal Address	3386
 Support Local Journalism Add	3962
+TB Capacity for Production Backups Add Additional	11209
 TOOLS TO ADDRESS THEM STRUCTURAL RISK	11156
 TRANSFORME Additional Financing	6510
 TYPES OF ADDRESSES	11129
@@ -560,6 +596,7 @@ Thursday. Addressing	2685
 Thursday. Mr Addai	8766
 Trade Mancoba Khumalo. Addressing	5774
 Tunisia. Additionality	1818
+Types of Misconduct Addressed	11218
 UNESCO Addressing	7709
 Uganda. Addressing	6435
 United Nations Development Programme and Addis Ababa	7474
@@ -571,10 +608,14 @@ Urban Addresses Addresses	11129
 Urban Addressing Structure	11129
 Urban Addressing Structure Addressee	11129
 Urban Management and Street Addressing	11129
+Veeam Value Added Reseller	11209
 Vice President Ndaba Gaolathe. Addressing	5449
 Victoria Addae	8724
 Village Manufacturing Value Added AfCFTA African	10980
 Vote of Confidence Adding	2757
+WEBSITE ADDRESS	11218,6
+WEIGHT CRITERIA DESCRIPTION Addressed	11252
+Website Address	11250
 Welcome Address	10169
 West Africa Addressee	5677
 Whatsapp Add	5808,161,155,59,875,21

@@ -53,6 +53,7 @@ Information Technology Agency NLP Natural	4126
 Intergrated Natural	10819
 LAW TO TOKENIZE NATURAL RESOURCES PASSED	4127
 Latvia Register of Natural Persons	10714
+Liquefied Natural Gas	11185,30,33
 Living Natural Resources ESS	1988
 Loss of Job Natural	418
 Minister for Petroleum and Natural Gas	2667
@@ -100,7 +101,7 @@ Naturaleza	163
 Naturalidade	10749
 Naturalization	2115
 Naturally	1647,6848,2648
-Nature	737,25,1115,111,89,1318,1,318,539,1424,2703,563,1769,146,18
+Nature	737,25,1115,111,89,1318,1,318,539,1424,2703,563,1769,146,18,389
 Nature Cameroun	10975
 Nature Communications	11140
 Nature Conservation and Nuclear Safety	9393
@@ -109,7 +110,10 @@ Nature Machine Intelligence	11156
 Nature Sci Data	5367
 Nature and Method	5349
 Nature des Prévision	2476
+Nature of Appointment	11180
 Nature of Business Certificate of Incorp Contact Person	736
+Nature of Entity	11298
+Nature of Fraud and Corruption Cases	11250
 Nature of Incidents Employees	11131
 Nature of Incidents Road Transport Accident Sports	11131
 Nature. Accessed	5700
@@ -138,6 +142,7 @@ Recursos Naturais	2816
 Recursos Naturales	1701
 Registry of Natural Persons	3604
 Ressources Naturelles	4402
+Role of Natural Resources	11310
 Scope Payment Type Nature of Transactions Payment	6938
 Springer Nature	766,5,490,2530,3487,744,649,2113
 Springer Nature SharedIt	9739,1045

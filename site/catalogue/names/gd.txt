@@ -32,6 +32,7 @@ Dar I GDwritIirGa	1154
 Description The GDD Visibility Tech Sprint	2203
 Domestic Economic Developments GDP Developments Eswatini	11131,3
 Domestic Product GDPR General Data Protection	10781,80
+EAF Energy Availability Factor GDP Gross	11228
 EBN and GD	766
 EFIU EFT FSB FSP G2P GDP	11130
 EPS Fintech GDP GT HC HRH	11131
@@ -43,6 +44,7 @@ Economic Co-operation and Development GDPR General Data	6936
 Effectiveness GDP Gross Domestic Product RFS	3184,1,1340,6470
 Empowerment Programme Financial Technology FX GDP	11134
 Equatorial Guinea’s GDP	10841
+Est Agriculture Industry Services GDP GDP	11271
 Ethiopia’s ID GDN	10852
 European Union’s GDP	10819
 European Union’s GDPR	5242
@@ -51,6 +53,7 @@ FTA Free-to-Air GDPR General Data Protection	4126
 Federation GDPR General Data Protection Regulation	9855
 Finance Infrastructure Indicator GDP	5247
 Financial Access and GDP Per Capita	1828
+Financial Management Information System GDP Gross	11271
 Food Import Real GDP	1828
 Framework EU European Union GDP Gross	6539
 GBV GDP GoM GovNet GRADE GREPOC	1228
@@ -118,7 +121,7 @@ GDP and KSH	1923
 GDP of Africa	2865
 GDP of Germany	999
 GDP of Ghana	236
-GDP of Sub-Saharan Africa	2775
+GDP of Sub-Saharan Africa	2775,8420
 GDP of US	1264,9555
 GDP of Zimbabwe	9396
 GDP--ten	10985
@@ -178,6 +181,7 @@ GDPR Articles	8436
 GDPR Cookie Compliance	3907
 GDPR Cookie Consent	3907,2274
 GDPR English	9067
+GDPR General Data Protection Regulation	11196
 GDPR The GDPR	8436
 GDPR-Chapter V	11154
 GDPR-aligned	3325
@@ -255,7 +259,7 @@ Private Sector GDP	958
 Productivity and GDP	11140
 Projections GDP	11131
 Ready For Service GDPR General Data	3184,1,1340,6470
-Real GDP	940,888,947,762,1710,408,2040,3086,353,2
+Real GDP	940,888,947,762,1710,408,2040,3086,353,2,135
 Real GDP Gini	1828
 Real GDP Growth	940,1835,2880
 Real GDP Growth Inflation Current Account	2775

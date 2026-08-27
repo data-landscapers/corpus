@@ -34,7 +34,7 @@ EAC-5 Sub-Saharan Africa WAEMU CEMAC SADC	2775
 ECOWAS and SADC	6471
 ELIAS M. MAGOSI SADC EXECUTIVE SECRETARY	9761
 EPS. Some SADC Central Bank Governors	11131
-Electoral Commissions Forum of SADC Countries	10390
+Electoral Commissions Forum of SADC Countries	10390,950
 Enhance the SADC Data Protection Model Law	962
 Estados-Membros da SADC	8854
 Executive Director of SADI. Henri Kouam	9989
@@ -97,6 +97,7 @@ SADC Council of Ministers. Allow	9761
 SADC Cyber Drill	318
 SADC Cyber Security	318
 SADC DATA PROTECTION MODEL LAW	962
+SADC DATA-ONLY MOBILE-BROADBAND BASKET PERCENTAGE	11211
 SADC Data Protection Authorities	6792
 SADC Data Protection Model Law	27,935,281
 SADC Data Protection Model Law and Data	962
@@ -113,10 +114,14 @@ SADC Digital Transformation Strategy and Action	1007
 SADC Digital Transformation Strategy and Action Plan	1007
 SADC Director of Infrastructure	318
 SADC Directorate of Infrastructure	962
+SADC Economic Partnership Agreement	11210
 SADC Electoral Observation Mission	1981,7418,619
 SADC Electronic Transactions and Electronic Commerce	28
+SADC Essay Competition	11220,21
 SADC Executive Secretary	9761,560
 SADC Expert Group	318
+SADC FIXED-BROADBAND AFFORDABILITY	11262
+SADC FIXED-BROADBAND BASKET	11211
 SADC Financial Inclusion Information Portal	1600
 SADC Financial Inclusion Subcommittee	1600
 SADC Free Movement	9399
@@ -141,10 +146,12 @@ SADC Interbank Large-value	6938
 SADC Internet	4094
 SADC Level	958
 SADC Low Value Retail Payment System	492
+SADC MOBILE AFFORDABILITY	11262
 SADC Macroeconomic Sub-Committee	11134
 SADC Macroeconomic SubCommittee	11131
 SADC Malabo Convention. The Minister	2987
 SADC Malaria Day	10776
+SADC Maritime Security Strategy	11289
 SADC Member Page	962
 SADC Member States	318,644,389,2125,1906,4379
 SADC Ministers	26,1,1,6692
@@ -200,13 +207,14 @@ SADC Payment Systems Oversight Committee	6720
 SADC Peer Review Panel	10570
 SADC Pooled Procurement Center	4260
 SADC Principles and Guidelines	9761
-SADC Protocol	769,192,1027,1488,2057,3866,362
+SADC Protocol	769,192,1027,1488,2057,3866,362,1432
 SADC RIDMP Executive Summary.pdf	23
 SADC RIDMP ICT	1007
 SADC RTGS	8492
 SADC RTGS End User Conference	11134
 SADC Real-Time Gross Settlement System	10169
 SADC Region	962,2514
+SADC Region and South African BRICS	11289
 SADC Regional CIRT	318
 SADC Regional CIRT Framework	318
 SADC Regional CIRT. Full	318
@@ -261,6 +269,7 @@ SADC. H.E. President Dr. Herminie	10321
 SADC59	9399
 SADCRTGS	6938
 SADCRegion	9292
+SADCSafety	11215
 SADX and Digital ID	3959
 SaDnidn	10969
 Sadabe	7299

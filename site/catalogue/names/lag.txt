@@ -51,7 +51,7 @@ Lago Dilolo	6595
 Lago Dilolo Moxico-Leste	6595
 Lagodinsky	8014
 Lagoon	8610,233
-Lagos	388,59,124,68,217,143,39,69,29,84,143,201,117,124,7,8,201,113,21,122,52,26,26,36,45,69,4,1,27,27,2,3,10,72,148,2,107,72,5,1,18,7,28,36,10,22,18,4,2,29,1,26,165,36,30,26,7,50,21,6,26,16,25,67,37,2,5,5,45,15,1,61,14,56,2,171,48,41,100,132,91,11,38,2,157,3,13,118,54,27,53,64,20,10,61,55,12,3,23,14,29,21,19,248,1,146,49,35,63,11,83,79,5,10,135,26,2,36,16,24,6,56,16,8,34,61,27,68,14,118,51,41,1,17,43,25,16,63,48,36,25,2,35,5,31,5,31,6,2,27,26,1,21,27,3,28,15,42,73,16,9,104,6,21,186,12,56,41,13,6,7,124,5,57,42,8,25,16,8,1,81,4,7,28,81,56,51,95,30,2,23,187,156,8,19,12,21,30,6,8,5,24,14,51,40,75,24,1,98,13,29,10,15,4,34,22,8,14,9,30,1,54,52,137,96,21,22,19,3,118,2,46,49,32,6,29,115,71,50,18,131,27,11,56,1,2,55,5,78,161,2,25,2,9,11,14
+Lagos	388,59,124,68,217,143,39,69,29,84,143,201,117,124,7,8,201,113,21,122,52,26,26,36,45,69,4,1,27,27,2,3,10,72,148,2,107,72,5,1,18,7,28,36,10,22,18,4,2,29,1,26,165,36,30,26,7,50,21,6,26,16,25,67,37,2,5,5,45,15,1,61,14,56,2,171,48,41,100,132,91,11,38,2,157,3,13,118,54,27,53,64,20,10,61,55,12,3,23,14,29,21,19,248,1,146,49,35,63,11,83,79,5,10,135,26,2,36,16,24,6,56,16,8,34,61,27,68,14,118,51,41,1,17,43,25,16,63,48,36,25,2,35,5,31,5,31,6,2,27,26,1,21,27,3,28,15,42,73,16,9,104,6,21,186,12,56,41,13,6,7,124,5,57,42,8,25,16,8,1,81,4,7,28,81,56,51,95,30,2,23,187,156,8,19,12,21,30,6,8,5,24,14,51,40,75,24,1,98,13,29,10,15,4,34,22,8,14,9,30,1,54,52,137,96,21,22,19,3,118,2,46,49,32,6,29,115,71,50,18,131,27,11,56,1,2,55,5,78,161,2,25,2,9,11,14,142,14,19,9
 Lagos Avenue Not Limited Operational	3386
 Lagos Based Doctor Uncovers The Hidden	5574,215
 Lagos Business School	8764
@@ -80,7 +80,7 @@ Lagos Real Estate Development Pipeline Report	8045
 Lagos Region	4130
 Lagos Sheraton Hotel	11129
 Lagos Smart Health Information Platform	9444
-Lagos State	2445,1417,2012,29,473,416,772,2470,123
+Lagos State	2445,1417,2012,29,473,416,772,2470,123,1157
 Lagos State AIDS Control Agency	9444
 Lagos State Blood Transfusion Service	9444
 Lagos State Deputy Governor	2825
@@ -98,6 +98,7 @@ Lagos State Ministry of Health and UNFPA. Students	9540
 Lagos State Ministry of Innovation	9444
 Lagos State Office for Disability Affairs	10290
 Lagos State Primary Health Care Board	9444
+Lagos State Target Group	11314
 Lagos State and Kasi Cloud	6376
 Lagos State and Nigeria	9540
 Lagos State. DSVA Executive Secretary Vivour-Adeniyi	2445
@@ -114,6 +115,7 @@ Lagos and Accra. Nearly	4563
 Lagos and Cape Town	9206
 Lagos and FCT	6051
 Lagos and Kigali	7440
+Lagos and Kwa Ibo	11234
 Lagos and Nairobi	1473,548,4562,3010
 Lagos and Ogun	2339
 Lagos and South Africa	6290
@@ -121,7 +123,7 @@ Lagos' ICT	2825
 Lagos-Abuja Link	4130
 Lagos-Accra	2827
 Lagos-Calabar	4910
-Lagos-based	4453,61,701,1964,29,238,752,1258,480,20,16
+Lagos-based	4453,61,701,1964,29,238,752,1258,480,20,16,1372
 Lagos-based Mavin Global	9739
 Lagos-centered	9739
 Lagos-to-Europe	5200
@@ -170,6 +172,7 @@ Pool of AI Experts Lagging Indicators	4528
 Practice Lags Africa	4424
 ProInnovation Environment Lagging Indicators	4528
 Promote Green Infrastructure Lagging Indicators	4528
+Protecting Our Lagoon	11332
 Public Lagos	8408
 Rack Centre Lagos	7329
 Regional Collaboration Lagging Indicators	4528

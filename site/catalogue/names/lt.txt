@@ -322,6 +322,7 @@ CarePay Ltd. Data Processor INST-9782911BBB8 NAIROBI	7167
 Carol Musyoka Consulting Ltd Data Controller	7167
 Carslake Nominees Ltd T	7167
 Cassava Technologies Ltd	1436
+Cell C Home LTE Price Plan	11259
 Centrino Technologies Ltd Data Processor INST-362147EEE9A	7167
 Chai Sacco Society Ltd Data Controller	7167
 Chai Sacco Society Ltd Data Processor	7167
@@ -432,6 +433,7 @@ DYMA HOLDINGS LTD Data Processor INST-186148CCF10	7167
 Dandelion Logistics Co. Ltd	9781
 Data Landscapers Ltd	5216
 Datastruct Technologies Ltd	3862
+Decision Systems Pty Ltd	11250
 Dental Suite Ltd Data Controller INST-16572535FFF	7167
 Design Ltd	717
 Developing Telecoms Ltd. All	2405,106,3397,442
@@ -502,7 +504,7 @@ Fibrehub Internetworking Services Ltd	3862
 Fibrehub Ltd and Broadbased Ltd	3862
 First Bank of Nigeria Ltd	4771
 Fischer Ltd WhaiNot Infolex YappaBuy Institute	8530
-Fixed LTE	6000,11,233
+Fixed LTE	6000,11,233,5015
 Forecasts for LTE	236
 Fund Mugabe Way Wireless Pvt Ltd	4896
 Futurecom Ltd	3862
@@ -540,6 +542,8 @@ Harare Wireless Pvt Ltd	4896
 Helios Towers Africa Ltd	81
 Henag Company Ltd	3862
 Holdings Ltd	6753
+Home LTE	11259
+Home LTE and SuperFlex	11259
 Hoop Telecoms Ltd	3862
 Houston Wireless Ltd	3862
 Huawei Marine Networks Co. Ltd	57
@@ -654,6 +658,7 @@ LTA. L’un	11116
 LTA’s Regulations	4610
 LTC Mobile	11054
 LTC-Mobile	5244
+LTD Amendment Act	11200
 LTD Data Controller INST-1698501E37F KERICHO Kenya	7167
 LTD Data Controller INST-176480D3F22 NAIROBI Kenya	7167
 LTD Data Controller INST-19022515AFE NAIROBI Kenya	7167
@@ -682,6 +687,7 @@ LTE Long Term Evolution MB Megabytes	6671
 LTE RAN	5675
 LTE Terminals	6946
 LTE and NR	5675
+LTE and Wireless Internet	11259
 LTE-M	11016
 LTE-capable	5341
 LTE. Together	6749
@@ -693,6 +699,7 @@ LTETt-1	236
 LTH COORPORATION Dcccm	4301
 LTM Last Twelve Months Mbps Megabits	1818
 LTNDP	789
+LTSM National Catalogue	11241
 LTT and ZTE	5336
 LTT and ZTE Sign MoU	5336
 LTeIbgq9HhpeCb74yDl	6423
@@ -711,6 +718,9 @@ Liquid Telecom Jersey Ltd	684
 Liquid Telecom Ltd	718
 Liquid Telecommunications Holdings Ltd	618
 Lotus Bank and Hackerbella Ltd	9878
+Lt Colonel DG Mashele	11285
+Lt Colonel R Josiahs	11285
+Lt Colonel W Vrieslaar	11285
 Lt Gen Assimi Goïta	2317
 Lt-Gen Mfazi	6151
 Lt. Gen. Achol	9122,464,185
@@ -738,6 +748,7 @@ Ltd and Comsoft	2735
 Ltd and Others	2307
 Ltd and Stefanutti Stocks Construction Eswatini	11134
 Ltd. Data Controller INST-93963591382 NAIROBI Kenya	7167
+Ltd. Due	11334
 Ltd. Findings	718
 Ltd. Ms. Koech	6946
 Ltd. The Chinese Government	343,18
@@ -781,10 +792,12 @@ Metabite Communications Ltd	3386
 MobileMoney Fintech Ltd	5709,2316,788
 MobileMoney Ltd	5709
 MoveOn Telecoms Ltd	6394
+MtM LTE and Wireless Internet	11259
 Multi Dimensions Technology Ltd	3862
 Multi Dimensions Technology Nig Ltd	3862
 N LT	2776
 NTT Ltd	6832
+NUMBER OF LTE DEVICES	11211,51
 NX Nigeria Ltd	3859,3
 Naked Financial Technology Pty Ltd	1058,1093
 NanoCom International Ltd	3862
@@ -816,6 +829,7 @@ PLANT LTD Data Controller INST-5968341D599 NAIROBI	7167
 PRINTED BY GHANA PUBLISHING COMPANY LTD	587
 PTE LTD Data Processor INST-925756A546A NAIROBI	7167
 PTE LTD MIAN Michel	2342
+Pacific Pte. Ltd	11310
 Packt Publishing Ltd. Rudwan	8604
 Paribas Communications Ltd	3862
 Pear System Development Company Ltd	3862
@@ -880,6 +894,8 @@ Smile Communications Nigeria Ltd	3862
 Soft-Tech Consultants Ltd	2703
 Software Technologies Ltd	9815
 Sons Ltd	5349
+South African Post Office SOC LTD	11199,1
+South African Post Office SOC Ltd	11199,1
 South Sudan. Lt. Gen. Achol	9122
 Space X Starlink GH LTD	1692,161
 Spectranet Ltd	3862,2887
@@ -910,6 +926,7 @@ THISDAY NEWSPAPERS LTD	2355,176,4,1,56,3,339,96,901,1006,1761,673
 Taprap Nig Ltd	3862
 Taprap Nigeria Ltd	3862
 Technation Logistics Ltd	4690
+Technology Agency SOC Ltd	11184
 Technology Co Ltd. AfriNet Web	8285
 Tecpoint Global Solutions Ltd	3862
 Tehilah Base Digital Ltd	3862
@@ -919,6 +936,7 @@ Telenet Communications Ltd	3386
 Telephone MTN Rwanda Ltd	718
 Teleweb Services Ltd	3862
 Telkom SA SOC Ltd. Vodacom Group	9759
+Telkom SOC Ltd’s Universal Service and Access	11259
 Telserve Networks Ltd	3862
 Through Line Advisors Ltd	10856
 Tizeti Ltd	3862

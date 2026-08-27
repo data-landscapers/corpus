@@ -1,15 +1,20 @@
 Academy SDG Sustainable Development Goal SME	4126
-Achieve the Goals of Agenda	8012,3
+Achieve the Goals of Agenda	8012,3,3268
 Achieving Digital Inclusion Goals	2677
+Affordable and Clean Energy Goal	11332
 Agenda of Sustainable Development Goals	1824
 Aligning Financial Inclusion Policy Goals	2193
+Basics Approach Goal	11188
 Business Register SDG Sustainable Development Goals	2775
 CISA Cyber Performance Goals	6699
 COMMON GOAL RESEARCH CENTER Data Controller	7167
 Capacity Strategic Goals Meaningful Connectivity	6946
+Clean Water and Sanitation Goal	11332
+Climate Action Goal	11332
 Closing the Digital Gap National Goals	4130
 DEVELOPMENT GOALS	10852
 Data Sharing The GoA	10775
+Decent Work and Economic Growth Goal	11332
 Definition Workstreams Possible Actors Goal Build	899
 Definition Workstreams Possible Actors Goal Transform	899
 Description Goals	1155
@@ -22,6 +27,7 @@ Development Goals Science Granting Councils Initiative	1154
 Digital Sovereignty and Tech Hub Goals Senegal	2627
 Digital Transformation Goals	2306
 Economic Development Goals	3861
+Equity SDGs Sustainable Development Goals SOE	11271
 Ethiopia. Goal	952
 Financial Inclusion Goals	6362
 Future Goal Electronic	5911
@@ -32,11 +38,12 @@ GENERAL DIRECTION AND GOALS	1000
 GOAL AND OBJECTIVES OF THE SPECTRUM	5245
 GOAL DEFINITION	899
 GSMA Philippe Goabga	10856
+Gender Equality Goal	11332
 GoA and DPF-supported	10779
 GoA the Diário da República	10779
 Goal Given the CMA Agreement	11131,3
 Goal Thriller Independent	2885,1650,350,49,187,653,25,474,547,1,222
-Goals	395,198,196,472,647,867,728,1411,764,395,4703
+Goals	395,198,196,472,647,867,728,1411,764,395,4703,556
 Goals Ongoing	6133
 Goals Quick	7204
 Goals of Vision	10964,21
@@ -46,16 +53,23 @@ Goaso	7368,1212
 Goat Productivity Project	1554
 Goat Productivity Project Lupane District	1554
 Goat Project	1554
+Good Health and Well-being Goal	11332
 Government of Angola and Angolans. GoA	10765
 Government of Angola and Angolans. The GoA	10775
 Hogares SDGs Sustainable Development Goals SISBEN	11133
 ICASA's Strategic Outcome-Oriented Goal	7980
+ICT Objectives and Goals Outcome	11231
 ICT Short Term Goals Ongoing	6133
 ID. The GoA	10775
 ITL Information Technology Laboratory GoA Government	10765,10
 IV. Policy Goals	1597
+Innovation and Infrastructure Goal	11332
+Institutions SDG Sustainable Development Goal SOE	11192
+Justice and Strong Institutions Goal	11332
 KENYA Goal Definition Workstreams	899
 KenSafeSpace Network Sets Goals and Builds	7609
+Land Goal	11332
+Life Below Water Goal	11332
 MULTIDIMENSIONAL FOCUS ON IMPACTS DEVELOPMENT GOALS	10852
 Mbps. Goal	10072
 Millenium Development Goals	5822
@@ -64,30 +78,45 @@ NCSS Vision and Strategic Goals	1000
 Objectives and Goals of Street Addressing	11129
 Policy Goal	7548
 Policy Goal and Objectives	7548
+Poverty Goal	11332
+Price and Specific Goals	11209
 Product GoA Government of Angola GRM Grievance	10768
+Quality Education Goal	11332
 RCZ Goat Project. The RCZ	1554
 Readiness Assessment SDG Sustainable Development Goal	10829
+Reduced Inequalities Goal	11332
 Refugee Affairs SDG Sustainable Developmental Goals	5533
 Related Sustainable Development Goals	8943
+Responsible Consumption and Production Goal	11332
 SDG Sustainable Development Goals Figure	582
 SDGs Sustainable Development Goals M&E Monitoring	396
 SDGs Sustainable Development Goals SME Small	7548
 SDGs Sustainable Development Goals SRHD Social	970
+SPECIFIC GOALS POINTS	11209
 Shaping Collective Goals	5700
 Shared Goal	4442
 Social Development Goals	940
 Sovereignty and Tech Hub Goals	2627
+Specific Goals	11209
+Specific Goals¹	11209
+Strategic Focus Area Business Objectives and Goals	11231
 Strategic Goal	1000,3301
 Strategic Goals	1000,2487
 Strategic Goals Objective	1000
+Sustainable Cities and Communities Goal	11332
 Sustainable Development Goal	718,52,473,624,121,690,680,225,1208,657,2838,750,84,19,943,241,453,36,7,12,311
-Sustainable Development Goals	309,13,74,124,62,95,89,23,151,18,3,8,1,161,30,35,65,474,79,14,749,101,97,183,47,171,35,372,21,9,147,101,185,80,304,98,718,104,183,122,45,103,19,61,411,42,1,1,136,464,304,390,795,104,412,2,116,487,160,19,28,31,289,113,125,401,4,58,4,32,7,10,2,9,125,41,127,22
+Sustainable Development Goals	309,13,74,124,62,95,89,23,151,18,3,8,1,161,30,35,65,474,79,14,749,101,97,183,47,171,35,372,21,9,147,101,185,80,304,98,718,104,183,122,45,103,19,61,411,42,1,1,136,464,304,390,795,104,412,2,116,487,160,19,28,31,289,113,125,401,4,58,4,32,7,10,2,9,125,41,127,22,38,2,15,14,13,28,24,43,24
+Sustainable Development Goals Goal	11332
+Sustainable Development Goals In the UN General	11193
 Sustainable Development Goals Perfonnance Fund	4349
 Sustainable Development Goals SRSG	10776
 Sustainable Development Goals Target	10844
 Sustainable Development Goals. Fintech	6373
 Sustainable Development Goals. In Burkina Faso	10812
+Sustainable Development Goals. In Nigeria	11356
+Sustainable Development Goals. Nor	11356
 Sustainable Development Goals. Shimuafeni	8005,408
+Sustainable Development Goals. UNDP Mauritius Open	11332
 Sustainable Development Goals. United Nations Sustainable	10834
 Sustainable Developmental Goal	5533
 UN Sustainable Development Goals	582,207,1009,2022,4101,80,2818,299
@@ -100,4 +129,5 @@ United Nations Sustainable Development Goals Guidance	1243
 United Nations Sustainable Development Goals. Africa	1196
 United Nations Sustainable Development Goals. Concurrently	4126
 United Nations' Sustainable Development Goal	7612
-United Nations’ Sustainable Development Goal	5700
+United Nations’ Sustainable Development Goal	5700,5518
+Zero Hunger Goal	11332

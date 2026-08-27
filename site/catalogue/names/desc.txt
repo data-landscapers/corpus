@@ -1,6 +1,11 @@
+ABBREVIATIONS DESCRIPTION SMS Subject Matter Specialist	11192
+ACRONYMS Acronym Description	11218
 ADM. Descriptions	8436
 ANGOLA Livelihood Zones and Descriptions	10763
+ASSESSMENT DESCRIPTION SCORE Excellent Exceeds	11252
+Abbreviation Description NPA National Prosecuting Authority	11250
 Abbreviations Term Description ACHPR African Commission	1814
+Acronym Description	11218
 Action Description Develop	10870
 Action Description Ensure	10870
 Action Description Establish	10870
@@ -20,15 +25,26 @@ Brief Description	1988
 Brief Description of Scope	1988
 Bénin. Descendu	5718
 CONSIDERER RESULTATS DERNIERE DESCENTE	10975
+CRITERIA DESCRIPTION Addressed	11252
 CSI Description	3604
 Capital Gains Tax Act Description Date	4896
 Cloud Services Description TelOne	9455
+Code Descri	11180
+Code DescriDtion	11180
+Code Description	11180
+Code Description Page27of35	11180
+Code Description Table	11180
+Code I Description	11180
 Colonne Type Description Exemple	747
 Conditions Type Citation Description Financing	1264,603,1737,2935,4229
+Cooperation Acronym Description	11218
 D. Project Description	1704,1752,7507
+DESCRIPTION	11240
+DESCRIPTION Addressed	11252
 DESCRIPTION DE LA PROCEDURE	10876
 DESCRIPTION DE LA PROCEDURE Pour	10876
 DESCRIPTION DU PROJET AVANCEMENT OBSERVATIONS	10975
+DESCRIPTION OF BID	11240
 DESCRIPTION OF HOW THE BREACH OCCURRED	2709
 DESCRIPTION OF HOW THE DATA WILL	2709
 DESCRIPTION OF THE BASELINE ENVIRONMENT	1988
@@ -46,6 +62,7 @@ DETAILED PROJECT DESCRIPTION Table	10829
 DIMENSION Likelihood Severity Scale DESCRIPTION	11156
 Data Description	4528
 Data Locations Date of Change Description of Change	6432
+Deliverable Short Description	11188
 Descarregar Related Items	4711
 Descending	5363
 Descent	10841
@@ -66,10 +83,10 @@ Descrevem	10777
 Descrevem-se	10766
 Describe	1988,1984,1693,128,5019
 Described	2161,1518,825,1834,2042
-Describes	422
+Describes	422,10847
 Describing	3405,856,3860,680,328,132
 Describing Liberia	8574
-Description	29,1,3,2,4,5,5,1,1,1,2,1,1,1,1,1,1,5,1,1,1,1,1,1,1,1,1,1,1,2,1,6,6,12,1,1,1,5,4,3,3,1,2,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,24,9,2,4,1,1,1,1,1,4,1,1,1,1,1,7,1,1,1,1,23,1,7,2,3,3,1,1,1,5,5,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,17,1,2,13,1,2,13,1,1,3,1,1,1,1,1,1,5,1,4,5,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,3,4,38,1,30,1,7,6,2,1,2,5,2,2,2,2,1,1,1,1,1,1,1,1,1,1,1,4,53,2,2,8,4,13,1,14,4,1,2,1,1,3,1,10,1,9,1,4,1,1,11,6,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,4,1,39,22,8,47,13,2,1,6,3,21,3,3,4,1,4,6,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,5,58,93,1,1,22,6,6,6,1,6,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,27,27,11,7,57,1,1,1,1,17,29,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,10,1,1,2,66,4,1,2,2,1,15,1,1,13,10,1,1,5,14,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,3,6,16,17,15,1,1,38,41,52,28,47,56,1,32,10,53,1,1,1,1,1,1,1,5,46,14,1,1,1,1,1,1,1,1,1,1,1,14,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,11,1,1,10,3,1,2,3,1,1,1,40,1,1,1,1,1,1,1,2,7,1,1,2,1,3,1,1,2,2,3,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,2,1,1,1,4,4,8,2,4,2,1,4,2,2,2,2,1,1,1,2,269,36,330,73,468,173,2,59,11,170,1,39,86,22,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,53,1,49,83,10,44,38,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,35,31,1,1,1,14,4,2,3,1,1,1,34,2,1,1,1,1,3,1,1,4,1,1,1,1,1,1,2,1,1,1,3,1,2,2,2,5,1,1,1,1,1,1,3,1,2,1,1,1,1,1,1,1,6,1,1,2,1,1,2,1,3,26,28,1,1,1,19,38,1,1,1,1,1,4,74,169,285,12,2,3,305,107,21,3,112,67,207,1,219,183,5,1,1,1,13,46,34,28,34,108,30,767,145,346,579,1,41,1,1,33,138,161,231,130,21,114,30,136,12,23,63,109,19,30,74,839,7,61,40,67,118
+Description	29,1,3,2,4,5,5,1,1,1,2,1,1,1,1,1,1,5,1,1,1,1,1,1,1,1,1,1,1,2,1,6,6,12,1,1,1,5,4,3,3,1,2,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,24,9,2,4,1,1,1,1,1,4,1,1,1,1,1,7,1,1,1,1,23,1,7,2,3,3,1,1,1,5,5,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,17,1,2,13,1,2,13,1,1,3,1,1,1,1,1,1,5,1,4,5,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,3,4,38,1,30,1,7,6,2,1,2,5,2,2,2,2,1,1,1,1,1,1,1,1,1,1,1,4,53,2,2,8,4,13,1,14,4,1,2,1,1,3,1,10,1,9,1,4,1,1,11,6,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,4,1,39,22,8,47,13,2,1,6,3,21,3,3,4,1,4,6,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,5,58,93,1,1,22,6,6,6,1,6,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,27,27,11,7,57,1,1,1,1,17,29,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,10,1,1,2,66,4,1,2,2,1,15,1,1,13,10,1,1,5,14,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,3,6,16,17,15,1,1,38,41,52,28,47,56,1,32,10,53,1,1,1,1,1,1,1,5,46,14,1,1,1,1,1,1,1,1,1,1,1,14,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,11,1,1,10,3,1,2,3,1,1,1,40,1,1,1,1,1,1,1,2,7,1,1,2,1,3,1,1,2,2,3,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,2,1,1,1,4,4,8,2,4,2,1,4,2,2,2,2,1,1,1,2,269,36,330,73,468,173,2,59,11,170,1,39,86,22,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,53,1,49,83,10,44,38,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,35,31,1,1,1,14,4,2,3,1,1,1,34,2,1,1,1,1,3,1,1,4,1,1,1,1,1,1,2,1,1,1,3,1,2,2,2,5,1,1,1,1,1,1,3,1,2,1,1,1,1,1,1,1,6,1,1,2,1,1,2,1,3,26,28,1,1,1,19,38,1,1,1,1,1,4,74,169,285,12,2,3,305,107,21,3,112,67,207,1,219,183,5,1,1,1,13,46,34,28,34,108,30,767,145,346,579,1,41,1,1,33,138,161,231,130,21,114,30,136,12,23,63,109,19,30,74,839,7,61,40,67,118,119,22,1,2,1,90
 Description ADC	594,2
 Description AFC	240,90,119,593
 Description AFC's Board	4450
@@ -82,6 +99,7 @@ Description Accelerates Kenya	1201
 Description Accelerates Mozambique	996
 Description Accelerates Rwanda	784
 Description Accelerates the Congo Republic	987
+Description Access	11293
 Description Access Now	1156
 Description Accion Digital Transformation Fund	943
 Description Acheter	1776
@@ -356,6 +374,7 @@ Description Namibé	10768
 Description National	2245
 Description National Bureau of Statistics	1275,1196,2103
 Description National Cybercrime Coordination Centre	2468,2103
+Description National EMIS Numeric	11180
 Description National Identification	1765,1383,3772
 Description National Identity Management Commission	1273,1196,2103
 Description National Space Research and Development Agency	1274,1196,2103
@@ -389,6 +408,7 @@ Description Oversees	5186,1,1,1,1,2
 Description Overwhelmingly	1609
 Description PAMSI	1238
 Description PAP	3164,1,1,1,1,1,1,1
+Description PARTNER	11207,1
 Description PATH-implemented PEPFAR	679
 Description PJMF	937,211
 Description PRC0181912	9605
@@ -405,6 +425,7 @@ Description Phase	653,754
 Description Phase II of Digital Earth Africa	345
 Description Phase-out	944
 Description Plan International Digital Skills for Youth	1160
+Description Postal	11180
 Description Preferential Export Buyer's Credit	480
 Description Price	3604
 Description Prisons	3382,2272
@@ -434,6 +455,8 @@ Description Rural Transformation Centres Digital Platform	584
 Description Région Année Valeur Population Gbôklé	747
 Description SIFEM	945,1,1,611,1
 Description SPIDER	93
+Description STAATSKOERANT	11180
+Description Scaling Up DIME	11295
 Description Science	1756,1384,3772
 Description Second	552,299,429
 Description Section	1285,1,1837,1,1204,56,1
@@ -455,6 +478,7 @@ Description Sub-programme	1512
 Description Successor	6754
 Description Suit	10876
 Description Support	148,321,129,33
+Description Support for Digital Literacy Project ICT	11204
 Description Supports	310,2,52,61,141,426,105,119,252,694,3
 Description Supports Cabo Verde	583
 Description Supports Cameroon	773
@@ -476,9 +500,11 @@ Description Swedfund	94,303,551,1,213,1081
 Description Système	10876
 Description TDB	398,552
 Description TLcom Capital	296,103,130
+Description Table	11180
 Description Tanzania	1132
 Description Targets	11135
 Description TaxDev	1123
+Description Telephone	11180
 Description Teraco	1402
 Description The Action	845,232,1,365,9
 Description The Africa Digital Financial Inclusion	4920
@@ -498,6 +524,7 @@ Description The Horn of Africa Digital Market	806
 Description The Knowledge Hub	630
 Description The Konza Technopolis	1733
 Description The Madagascar Financial Inclusion Project	304
+Description The Malian	11186,1,7
 Description The Moroccan InsurTech	5921
 Description The Multinational Statistical Capacity Building	43
 Description The PAASF-UEMOA	1412
@@ -620,8 +647,11 @@ Gobierno. Describe	1701
 Gravamen Descuentos Num. PERSONAL Mensual Integro	4209
 Grievance Description of Grievance	1778
 HS Code Description Industrial Development Levy	6921
+Harmonised Commodity Description and Coding System	11258
+Harmonised Commodity Description and Coding System IMF	11258
 Heading H.S Code No. Description Unit	6921
 Heading HS Code No. Description Unit	6921
+I Code Description	11180
 I.1.2 Description du Programme Terra Bénin	10876
 I.1.2 Description du Programme Terra Bénin I.1.2.1	10876
 IDA Description Disbursement Under Category	10964
@@ -637,9 +667,11 @@ IV.1.1.12.5 Description	10876
 IV.1.1.5.4 Description	10876
 IV.1.3.5.5 Description	10876
 Initiatives Description Critical	11131
+Institution Describe	11180
 Job Description	10721
 Job Descriptions Report	3678
 Job Descriptions What Nigeria Has Tried	10015
+Jst Provinces Describe	11180
 KNPHI LIMS Tender Description	7988
 LEGAL Legal Covenants Sections and Description I	3562
 LEGAL Legal Covenants Sections and Description KOE	6539
@@ -664,8 +696,11 @@ Objective No Reallocations Yes Summary Description	2473
 Open Data Budget Description URL	748
 Open Description Data	10157
 Operating Expenditure Execution Description Budgeted	718
+OwnerLand Describes	11180
 PIU. Sections and Description Schedule	10829
+ParentLearnerRelationship Describes	11180
 Pillar Access Connectivity Affordability Description Promote	5676
+PopulationGroup Describe	11180
 Program Action Plan Action Description Appointment	10870
 Programa de Promoção da Governação Descentralizada	1808
 Programme Terra Bénin Description Suivi	10876
@@ -691,9 +726,11 @@ Sections and Description Per ESCP	10829
 Sections and Description Schedule	10829
 Sector and Corporate Transformation Programme Description	1818
 Security and Cybersecurity Controls Control Area Description	6432
+Service Acronym Description	11218
 Service Description	10876
 Services Consumer Confidence Description Consumer	5676
 Services Emerging Technologies Description Increase	5676
+South Africa. I Code Description	11180
 Stage Description Number	9237
 Strategy Description	4528
 Subproject Description and Activities	1988
@@ -703,13 +740,16 @@ Summary Table DESCRIPTION Unit	2775
 Symbol Value Description	11136
 TECHNICAL INDICATOR DESCRIPTION	5533
 TECHNICAL INDICATOR DESCRIPTION FOR OUTCOMES	5533
+TECHNICAL INDICATOR DESCRIPTIONS	11261
 TF LEGAL TBL1 Description Status Action	1284
 TRANSMISSION SHEET HISTORICAL Date Author Description	5678
 Technical Description Example Profile Framework	1009
 Technology Inter-Agency Committee Description Date Creation	2779
 Tender Number KE-MOH-556751-NC-RFB Tender Description	7987
 Time-sensitivity Description Strengthening	8603
+UrbanRural Describe	11180
 Use Service Category Description Deployment Model	6432
+WEIGHT CRITERIA DESCRIPTION Addressed	11252
 WG CONSUMER Description	5679
 Waterford Career Fair Description The Bank	11134
 World Bank Environmental and Social Standards Description	1988

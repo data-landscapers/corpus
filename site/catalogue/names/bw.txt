@@ -1,6 +1,8 @@
 Average BWA	2776
 BEN BWA BDI CIV ETH KEN	1528
 BEN BWA BDI CPV TCD COG	4912
+BESS BW	11228
+BESS Battery Energy Storage System BWs	11228
 BWA Broadband Wireless Access Figure	582
 BWA Data Subscriptions and Penetration	2776
 BWA Data Subscriptions and Penetration BWA Operator	2776
@@ -74,6 +76,7 @@ Mwenya Kaela Bwalya	9082
 NAM BWA	6593
 Operator BWA Data	2776
 Operator BWA Subscription Q3	2776
+REIPP BW	11228
 Taye BW	1219
 Toshi Bwana	10596
 Universidade Katyavala Bwila	6585

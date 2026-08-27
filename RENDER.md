@@ -110,18 +110,21 @@ for md in outputs/bulletins/*-bulletin.md; do
 done
 
 # Coverage assertion: the patterns above must have reached every report document.
-present=$(find outputs/reports outputs/topics outputs/bulletins -name '*.md' | wc -l)
+# `progress-narrative-archive.md` is working material, not a document — see below.
+present=$(find outputs/reports outputs/topics outputs/bulletins -name '*.md'           ! -name 'progress-narrative-archive.md' | wc -l)
 missed=$((present - rendered - failed))
 echo "rendered $rendered of $present report documents ($failed failed, $missed never listed)"
 if [ "$missed" -gt 0 ]; then
   echo "RENDER STOP: $missed document(s) matched no pattern in the loop — do not deploy:"
-  find outputs/reports outputs/topics outputs/bulletins -name '*.md' | grep -Ev -- '-(status|progress|monthly|bulletin)\.md$'
+  find outputs/reports outputs/topics outputs/bulletins -name '*.md'        ! -name 'progress-narrative-archive.md' | grep -Ev -- '-(status|progress|monthly|bulletin)\.md$'
   exit 1
 fi
 if [ "$failed" -gt 0 ]; then
   echo "$failed document(s) failed in render.py (see RENDER FAIL above) — deploying the rest; message Bill"
 fi
 ```
+
+**The archive is excluded by name, and excluding it is not a hole in the assertion** *(2026-08-27)*. The indicator-frame redesign writes `outputs/reports/{unit}/progress-narrative-archive.md` — the per-chapter narrative the progress report carried before the frame replaced it, kept as source material for the drafting pass and published nowhere (`progress-report-redesign-review.md` item 4). `report-render.py` already refuses to check it, by the `NOT_A_DOCUMENT` list and for the same reason; this assertion had not been told, so on the first render after the archives were written it counted 296 files, matched 242, and stopped the run over 54 files that must never be rendered. The exclusion is by exact filename rather than by a widened pattern, so the property the assertion exists for is intact: a real document renamed out of the globs still fails the run, because nothing but that one name is forgiven.
 
 **The two ways of coming up short are not the same failure and no longer share an outcome** *(2026-08-16)*. The old assertion fired on `rendered -ne present`, which lumped them together, printed *do not deploy*, and then let the runbook walk straight on into Steps 3 to 7 and deploy — advice with nothing behind it, and the sort of thing an unattended run either obeys too much or ignores.
 

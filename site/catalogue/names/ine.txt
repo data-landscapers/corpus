@@ -18,6 +18,7 @@ Gender Inequality Index	10829
 Gender Inequality Index UN Human Development	11004
 Gender Inequality Index of Cameroon	10963,1
 GmbH Human Asset Clouds&Training Inetum España	8530
+Historical Inequities	11265
 IDD09 Ines Melissa Emma Attoua Team	1284
 IIMS IMC INE INIS IPG IRA	10777
 INE Angola	4044,2947
@@ -58,8 +59,8 @@ Ineffective Reference	5679
 Inefficiencies	7751,3398
 Inefficient	1284,704,8988
 Ineligibility	3714
-Inequalities	1988,8841
-Inequality	1264,564,2906,2098,116,2811,967,53,184,22
+Inequalities	1988,8841,366
+Inequality	1264,564,2906,2098,116,2811,967,53,184,22,286
 Inequality Productivity	1828
 Inequitable	3861
 Inequities	10775
@@ -75,6 +76,7 @@ Inexistants Ne	6959
 Inexistence	10712
 Inexistência	549
 Inexécution	10836
+Institutional Inertia	11265
 Lere Olayinka INEC Data Leak Investigation	7176
 MINPLAN and ICNE. INE	10775
 Mozambique INE National Statistics Institute INGD	4214
@@ -85,11 +87,13 @@ Official INEC	3154
 Operational Inet Communications Limited Mob	3386
 Peace WID.World World Inequality Database FH	10835,3,130
 Politics of Inevitability	7857
+Poverty and Inequality Statistics	11237
 President of INE	7702
 Provision of Adequate Technical Support INEC	10049
 REMPE INE	10757
 Recognised By INEC	2355,176,4,1,56,3,339,96,901,1006,1761,673
 Reduced Inequalities	3745
+Reduced Inequalities Goal	11332
 Reducing Inequality	970
 SPE GRH GTIC INADE INE INEE	10766
 Socioeconomic Inequality Mitigation	10759,76,2,1,130
@@ -99,6 +103,8 @@ State of Educational Inequality	10831
 Strengthen Contingency and Escalation Mechanisms INEC	10049
 Sub-Saharan Africa Inequality	1828
 Sub-Saharan Africa. Inequality	1828
+Urban Inequality	11285
+Urban Inequality Must	11285
 VII. Inequity	6832
 WB ESHGs and Good Inequality	1988
 WID.World World Inequality Database WJP World	10759,78

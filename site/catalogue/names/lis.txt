@@ -7,7 +7,9 @@ Appendix A Appendices List of Approved Abbreviations	11129
 Attendee List	8764
 Busha Lists	2372
 C List	1988
+CODE LISTS MOST COMMONLY USED	11180
 COMMUNICATION AUTHORITY OF KENYA List of Tables	6946
+CONTENTS LIST OF TABLES AND FIGURES	11261
 Case List	9507,105,1
 Company Listing Estimated	4896
 Conduct Annual List	1988
@@ -50,6 +52,8 @@ Ghana Contents List of Acronyms and Abbreviations	236
 Ghana List of Acronyms and Abbreviations AGI Association	236
 Ghana List of Figures Figure1	236
 Ghana List of Tables Table	236
+Green List	11184
+Grey List	11184
 Health Facility List KMTC Kenya Medical	2775
 Home Affairs List	1988
 I LISTA DE SIGLAS E ACRÓNIMOS	2816
@@ -78,7 +82,7 @@ LISBON	7298
 LISGIS	5244
 LISGIS and Sector Ministries of Health	5244
 LISGIS. Strategic Asset Management	5244
-LIST OF ABBREVIATIONS	1000,3126,88
+LIST OF ABBREVIATIONS	1000,3126,88,7004,6
 LIST OF ABBREVIATIONS Abbreviation Full Form	6936
 LIST OF ABBREVIATIONS AfCFTA Africa Continental	4126
 LIST OF ABBREVIATIONS BWA Broadband Wireless	2776
@@ -95,14 +99,15 @@ LIST OF CHARTS NAMIBIA PRODUCER PRICE	11152
 LIST OF CONTRIBUTORS S. Name Expertise	9855
 LIST OF COUNTRIES WHICH HAVE SIGNED	4867
 LIST OF DECISIONS	4103
-LIST OF FIGURES	5533
-LIST OF FIGURES Figure	718,2058,3895
+LIST OF FIGURES	5533,5659,26
+LIST OF FIGURES Figure	718,2058,3895,4547,10
 LIST OF FIGURES List of Figures Page	5533
 LIST OF GRAPHICS Graph	10980
 LIST OF PICTURES	718
 LIST OF PICTURES Picture	718
-LIST OF TABLES	718,4815
-LIST OF TABLES Table	718,2058,3895,4481
+LIST OF TABLES	718,4815,5659,26,10
+LIST OF TABLES AND FIGURES Table	11261
+LIST OF TABLES Table	718,2058,3895,4481,66
 LISTA DE ABREVIATURAS E SIGLAS	10777
 LISTA DE ABREVIATURAS E SIGLAS ADECOS	10777
 LISTA DE CARTOGRAMAS Cartograma	4044
@@ -150,7 +155,7 @@ Lisa Simrique Singh. Au	5786
 Lisant	7788
 Lisboa	2618,1338,982,454,1950,3814
 Lisboa T	3079
-Lisbon	627,586,150,1712,3293,840,566,1722,882
+Lisbon	627,586,150,1712,3293,840,566,1722,882,947
 Lisbon Council	7471
 Lisbon and Johannesburg	9496
 Lisette IJssel de Schepper	7253
@@ -169,17 +174,21 @@ List Search Showing Harare Use	9429
 List of Abbreviations	5244,1703,4183
 List of Abbreviations ACE	5244
 List of Abbreviations Group Cash Transfers	6947
-List of Acronyms	10901
+List of Acronyms	10901,287
+List of Acronyms Acronym Explanation BMR Bureau	11188
 List of Acronyms and Abbreviations	2775
-List of Boxes Box	10718
+List of Boxes Box	10718,553
 List of Core CPI Items	2775
 List of Countries Which Have Signed	1243
 List of Critical IT Assets	10721
 List of Decisions	4103
+List of Definitions	11188
+List of Definitions Word	11188
 List of Expert Representatives	2958
-List of Figures	236,346,1232,4186,946
+List of Figures	236,346,1232,4186,946,4249,55
 List of Figures Chapter	10763
-List of Figures Figure	958,856,174,787,3225,946,709,3063
+List of Figures Figure	958,856,174,787,3225,946,709,3063,477,64
+List of Figures PART	11250
 List of Figures Table ES.1	10841
 List of Hotels	6488
 List of Individuals and Organizations Included	7151
@@ -188,6 +197,7 @@ List of LLDCs	11004
 List of Non-Core CPI Items	2775
 List of Organizations	7151
 List of Organizations Surveyed	7151
+List of Other Tariff Notifications Filed	11259
 List of References	10765,10
 List of Relevant CR	10775
 List of Relevant CR and ID Legislation	10765,10
@@ -195,10 +205,11 @@ List of Respondents	1261
 List of SIDS	11004
 List of Stakeholders Consulted	4528
 List of TV	236
-List of Tables	236,2540,4170
+List of Tables	236,2540,4170,4249,29,26
 List of Tables Chapter	10763
 List of Tables List of Figures	2775
-List of Tables Table	1814,961,2880,345
+List of Tables PART	11250
+List of Tables Table	1814,961,2880,345,5195,64,12
 List of Values	6423
 List of ZEMA	1988
 Lista	10753,24
@@ -220,6 +231,7 @@ ListenShareMoreHow	7437
 Listenership	8999
 Listening	7320,270,3546
 Listening. Adapting. Translating	6041
+Listeria	11269
 Listes	2817
 Listing	34,1209,3653,3153,2108,642
 Listing Date	4896
@@ -232,7 +244,10 @@ ListingParticulars 4209a493-93d8-467b-98a2-771854f15a2e.PDF	78
 Listings Requirements	3714,1182,642,1666,3589
 Lists	1065,376,3344
 Liswati	2391
+MONTHS List of Acronyms	11252
 MSTeams Listen	8603
+Master Health Facility List	11252
+Master Health Facility List MP	11252
 Model List	10776
 NATIONAL COMMUNICATIONS AUTHORITY LIST OF AUTHORISED	3386
 NDICE LISTA DE SIGLAS E ACRÓNIMOS	2816
@@ -246,6 +261,10 @@ Negative List. Fill	1988
 Nigeria Joins Lisbon and Johannesburg Gbenga Ajao	9496
 OPERATIONAL REVIEW Listed Opcos	10793
 Official List	4263,633
+P0211 Contents Page List	11296
+P0211 List	11296
+P0301.4 LIST OF FIGURES Figure	11192
+P0301.4 LIST OF TABLES Table	11192
 PODCASTS LISTEN MoneywebNOW Moneyweb	7343
 POLICY FOR ICT List of Tables Table	958
 PROPOSED LISTING OF ECONET INFRACO	4263
@@ -257,14 +276,19 @@ Principal Public Relations Officer Liseli Kanyanga	6391
 Projet SNC2630.pdf Listed	7439
 Proposed Listing of Econet InfraCo	4896
 Pujehun District List of Female MPs	5390,965,827
+REGULATOR GENERAL INFORMATION LIST OF ABBREVIATIONS	11198
 Rich List	753
 Robert Lisinge of UNECA	8472
 Robert Tama Lisinge	7529
 République du Congo Liste des Dépenses	1682
+Saved List	11276
+Saved List of IT3	11276
 Selected Zimbabwe Listed Property Companies	4896
 South Africa's National List of Occupations	6832
+Standard Code Lists	11180
 Strange Son Listed	10265
-TABLE OF CONTENT LIST OF FIGURES	718
+Submitted List	11276
+TABLE OF CONTENT LIST OF FIGURES	718,10510
 TABLE OF CONTENTS LIST OF ABBREVIATIONS	2776
 TABLE OF CONTENTS LIST OF ACRONYMS	1009,4524
 TABLE OF CONTENTS LIST OF FIGURES	6671
@@ -282,6 +306,9 @@ VFEX Listings Requirements	4896
 VFEX Listings Requirements. Dr Zienzile Dillon	4896
 VFEX Listings Rules	4896
 Voter Registration List	10714
+WORK TRANSITION List of Figures Figure	11271
+White List	11184
+YTD46 LIST OF TABLES Table	11228
 Year of Listening	7712
 ZSE Listings Requirements	4263,633
 ZSE Listings Requirements. Accordingly	4896

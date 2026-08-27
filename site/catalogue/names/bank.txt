@@ -1,4 +1,5 @@
 A0Insurance Banked	418
+ABBREVIATIONS ADB African Development Bank AfCFTA	11271
 ABC Bank	9673
 ABC Bank Group	9673
 ABSA BANK KENYA PLC Data Controller	7167
@@ -53,7 +54,9 @@ Access Bank Tanzania	139
 Access Bank and Ecobank	7746
 Access Bank’s Group Head of Cross-Border Payments	9222
 Access Microfinance Bank. In Kenya	10799
+Account Balance CBR Central Bank Rate	11271
 Accounting Department of Jumhuriya Bank Tripoli	4630
+Accounting System BASA Banking Association of South	11261
 Acting Country Manager for World Bank Liberia	4285
 Acting World Bank Country Representative Oyewole	2604
 Acting World Bank Regional Integration Director	5400
@@ -98,12 +101,14 @@ African Banking Assets of GDP	6938
 African Central Banks	982,5956
 African Central Banks. Considered	982
 African Countries Membe World Bank	1885
-African Development Bank	39,72,7,1,19,20,7,10,92,34,31,2,117,116,17,16,3,1,141,59,1,1,1,154,8,1,74,159,54,151,2,2,1,157,145,99,313,1,1,156,225,23,11,18,232,9,4,4,36,18,24,71,22,215,181,31,174,21,67,20,27,18,131,11,218,7,78,250,20,1,354,69,45,113,62,107,45,88,263,206,99,18,170,242,5,285,113,28,86,162,196,150,1,49,44,45,91,8,97,91,11,126,180,12,53,18,166,26,51,22,125,95,57,13,244,37,27,147,13,192,63,1,23,17,1,98,70,30,100,1,102,83,89,80,62,3,350,1,47,24,71,3,94,22,97,101,99,3,2,14
+African Development Bank	39,72,7,1,19,20,7,10,92,34,31,2,117,116,17,16,3,1,141,59,1,1,1,154,8,1,74,159,54,151,2,2,1,157,145,99,313,1,1,156,225,23,11,18,232,9,4,4,36,18,24,71,22,215,181,31,174,21,67,20,27,18,131,11,218,7,78,250,20,1,354,69,45,113,62,107,45,88,263,206,99,18,170,242,5,285,113,28,86,162,196,150,1,49,44,45,91,8,97,91,11,126,180,12,53,18,166,26,51,22,125,95,57,13,244,37,27,147,13,192,63,1,23,17,1,98,70,30,100,1,102,83,89,80,62,3,350,1,47,24,71,3,94,22,97,101,99,3,2,14,160,46
+African Development Bank AGSA Auditor-General South	11261
 African Development Bank Alignment	961
 African Development Bank Country Strategy Paper	8574
 African Development Bank Director General for Southern	9702
 African Development Bank Group	1715,415,677,4,54,92,1186,71,626,130,381,1530,571,755,320,935,1,442,317,493,3,419
 African Development Bank Group Amb. Baba	7452
+African Development Bank Group Approves	11310
 African Development Bank Group Avenue Joseph	10718
 African Development Bank Group Carlos Monteiro	2865
 African Development Bank Group President	9905
@@ -140,6 +145,7 @@ African Export-Import Bank's PAPSS	10718
 African Export-Import Bank's Pan-African Payment	10718
 African Export-Import Bank. Alam	10718
 African Gold Bank	4401
+African Reserve Bank. The South African	11185
 Africa’s Export-Import Bank	560
 Afriland First Bank	3779,1254,3323,2609,15
 Afriland First Bank Cameroun	8356
@@ -154,6 +160,7 @@ Al Salam Bank Algeria	1343
 All Deposit Money Banks	6935
 Alongside the World Bank-funded Digital Malawi Acceleration	6592
 Alternative The World Bank CAR Health	10829
+Always-On Banking Is Not Optional Let	11243
 Amal El Fallah Seghrouchni and World Bank	7584
 Amen Bank and Attijari Bank Tunisia	10692
 Angola Banking Conference	6360
@@ -169,10 +176,10 @@ Application WBG World Bank Group TABLE	969
 Approach The World Bank	10857
 Arab Bank for Economic Development	9047,1933
 Area Distributed Ledger Technology Eswatini Bankers	11130
-Asian Development Bank	396,6743,3579,438
+Asian Development Bank	396,6743,3579,438,154
 Asian Development Bank AIDS Acquired Immune	396
 Asian Development Bank Report No	10718
-Asian Infrastructure Investment Bank	607,3460,1351,3308
+Asian Infrastructure Investment Bank	607,3460,1351,3308,2630
 Assainissement VERSUS BANK ONAD TRANSPORTS ONEP	2342
 Assessment of Bank Performance	10779
 Association of African Central Banks	4103,2835,1209,592,297
@@ -205,6 +212,7 @@ BANK OF BOTSWANA ACT	5687
 BANK OF GHANA	7464,1268
 BANK OF INDIA Data Controller INST-2062751BC30	7167
 BANK OF INDIA Data Processor INST-2062751BC30	7167
+BANK OF SOUTHERN AFRICA LIMITED BID	11240
 BANK OPTIMUS BANK PARALLEX BANK POLARIS	11002
 BANK PREMIUM TRUST BANK PROVIDUS BANK	11002
 BANK SIERRA LEONE COMMERCIAL BANK	11002
@@ -212,15 +220,18 @@ BANK TRUST BANK VISTA BANK	11002
 BANK'S OWN AI DISCLOSURE	9025
 BANKED	418
 BANKING CORPORATION CHANNELS KCB STANBIC BANK	11002
+BANKING INFORMATION FOR VERIFICATION PURPOSES	11240
 BANKING SECTOR SUPERVISION	11131
 BANKING SPACE	418
 BANKING TRUST TO STAY STRONG	10517
+BANKSETA	11230
 BANKWISE TECHNOLOGIES COMPANY LIMITED Data Processor	7167
 BDCs. Banks	7416
 BFA 2024 WBES v01 M Title World Bank Enterprise Survey	10862
 BGFI Bank	2436,4518
 BGFI Bank Bénin Collecte	10821
 BGFI Bank Bénin Traitement	10821
+BIDDER’S STAMP OR SIGNATURE Development Bank	11240
 BPR Bank Rwanda Managing Director and CEO	8682
 BPR Bank Rwanda and MTN MoMo Rwanda	8682
 BRANCH MICROFINANCE BANK LIMITED Data Controller	7167
@@ -291,6 +302,7 @@ Bank Ownership Type.............................20 Figure	10718
 Bank Performance	10779
 Bank Products	940
 Bank Resolution	6938
+Bank SARS South African Revenue Service	11198
 Bank Secretary Representative	6938
 Bank Smart Africa Unesco African Union	9886
 Bank Square	7464,1268
@@ -401,6 +413,7 @@ Bank of South Sudan. Othow	11174
 Bank of South Sudan. R2674121	3583
 Bank of South Sudan. The Bank of South	3679
 Bank of South Sudan’s Department of Communication and Public	3442
+Bank of Southern Africa Page	11240
 Bank of Tanzania	940,169,402,696,68,582,1,257,123,2645,94,476,468,257,14,571,372,330,274,713,236,332,240,17,92,765
 Bank of Tanzania Hon. Weituy Luony Babouth	7815
 Bank of Tanzania’s National Payment Systems Annual	8888
@@ -437,6 +450,7 @@ Bank's STEP	1290,9596
 Bank's Strategic Capital Framework	1818
 Bank's Ten-Year Strategy	4840,2944
 Bank's Tunisia Country Strategy	1818
+Bank's. Finance	11310
 Bank-Fintech Fault Line	11138
 Bank-Fund Debt Sustainability Framework for Low Income	10997
 Bank-ID	767
@@ -474,6 +488,8 @@ Bank. Throughout	11134
 Bank. Under	11134
 BankCompar	3078
 BankID	10714,105
+BankSETA	11230
+BankServAfrica	11214
 Bankable	3424,323,1002,498
 Bankable Africa	4826,1312
 Bankable Africa and Africa Digital News	6138
@@ -486,11 +502,12 @@ Banked Informal	418
 Banked and Other Formal	940
 Banked and Other Formal Non Bank	940
 Banken	692,1,359,8010
-Banker	9230
+Banker	9230,1968
 Bankers	9487
 Bankers Association of Zimbabwe	4528,694
 Bankers' Association	940,6174
 Bankers’ Committee	4848
+Banker’s Information ABSA Business Banking PO	11250
 Banki Kuu SACCO Ltd Data Controller	7167
 Banki Kuu SACCO Ltd Data Processor	7167
 Banki Nkuru	5958
@@ -510,7 +527,7 @@ Banking Hall	11134
 Banking Institutions Act	3714
 Banking Network	10775
 Banking Ombudsman Office	11134
-Banking Sector	11131,3
+Banking Sector	11131,3,151
 Banking Sector Despite	11134
 Banking Sector Eswatini	11131
 Banking Sector Indicators Capital AdequacCyapital Adequacy	11134
@@ -589,10 +606,12 @@ Bay Forex Bureau and Standard Chartered Bank	6946
 Benchmarking SMEs Banking Activity	1828
 Benchmarking SMEs Banking Activity1 In the Republic	1828
 Berufsbildung Digitalization of TVET KfW Development Bank	2219
+Bid. Development Bank of Southern Africa Page	11240
 Bills The Central Bank of Liberia	5244
 BoG Bank of Ghana DFS Digital Financial	4126
 Board Composition The Central Bank	11131
 Botswana's Primary Bank	6774
+BrandiQ Verdict The World Bank	11305
 Brazil and India. The Bank	3318
 Brazilian Central Bank	9832,1175
 Breach Seychelles Bank	3364
@@ -961,7 +980,7 @@ Deutsche Bank AG Zurich Branch	9796
 Deutsche Bundesbank and Bank of Mauritius	11131
 Dev Bank	5241
 Development Association IDB Industrial Development Bank	2775
-Development Bank	165,217,427,118,3176,2845,3893
+Development Bank	165,217,427,118,3176,2845,3893,342
 Development Bank Ghana	11032
 Development Bank of Central African States	10841
 Development Bank of Ethiopia	9407
@@ -970,8 +989,10 @@ Development Bank of Namibia	3714
 Development Bank of Nigeria	4848
 Development Bank of Rwanda	607,2636,5594
 Development Bank of Seychelles	3364
-Development Bank of South Africa	6152
-Development Bank of Southern Africa	927,1190,1032,2453,1413,499
+Development Bank of South Africa	6152,5137
+Development Bank of Southern Africa	927,1190,1032,2453,1413,499,3726,8
+Development Bank of Southern Africa Limited	11240
+Development Bank of Southern Africa Page	11240
 Development Bank of Southern Africa The DBSA	7514
 Development Bank. EIB	789
 Development EIB European Investment Bank EIT	1818
@@ -981,7 +1002,7 @@ Development and Savings Banks. Annual Integrated Report	11134
 Developments Monetary Developments Fiscal Review Banking	11131
 Diamond Bank Bénin SUNU Assurances Vie	10821
 Diamond Bank Bénin Traitement	10821
-Diamond Trust Bank	7265,3353
+Diamond Trust Bank	7265,3353,693
 Digital Acceleration Program World Bank Projects	3604
 Digital Acceleration Project World Bank Group	784
 Digital Agro-Climatic Information Systems World Bank	1024
@@ -1069,7 +1090,7 @@ Employee Engagement The Bank	11134
 Employment Relations Management The Bank	11134
 Ensure Inclusivity CBZ Bank Crowned Zimbabwe	2987
 Enterprise Risk Management The Bank	11134
-Equity Bank	5783,1243,1912,1680
+Equity Bank	5783,1243,1912,1680,693
 Equity Bank Congo	4286
 Equity Bank Kenya	8937,1
 Equity Bank Kenya and KCB Bank Kenya	8937,1,141
@@ -1092,13 +1113,14 @@ Ethiopia African Development Bank	451
 Ethiopia Digital Foundations Project World Bank	750
 Ethiopia. World Bank Blogs	8671
 Ethiopian Bankers Association	3944
-European Bank for Reconstruction and Development	1596,2856,14,1,183,13,270,566,4,301,99,272,1054,978,776,43,21,439,1087,36,546,13,7
+European Bank for Reconstruction and Development	1596,2856,14,1,183,13,270,566,4,301,99,272,1054,978,776,43,21,439,1087,36,546,13,7,181
 European Bank for Reconstruction and Development. Digital	9632
 European Banking Authority	6938
 European Central Bank	6477,1344,2011
-European Investment Bank	123,65,60,5,1,1,89,12,116,1,166,150,62,1,1,1,1,228,181,199,1,609,80,1,554,372,275,363,1313,468,548,109,343,439,205,2319,1,1378,16,123,175
+European Investment Bank	123,65,60,5,1,1,89,12,116,1,166,150,62,1,1,1,1,228,181,199,1,609,80,1,554,372,275,363,1313,468,548,109,343,439,205,2319,1,1378,16,123,175,201
 European Investment Bank EU European Union	970
 European Investment Bank. Connecting Europe and Asia	11155
+European Investment Bank. Every	11356
 European Investment Bank. The Global Gateway	11155
 European Investment Bank. The UNDP	1264
 Even Orange Bank	4150
@@ -1112,7 +1134,7 @@ Expand Digital Banking Licenses	4848
 Expand Fertilizer Access for Coffee Farmers Bank	3256
 Expand Mobile Banking Services	7386
 Export and Import Bank of China	127
-Export-Import Bank	2157,1,1283,185,160,661,769,1574,2730
+Export-Import Bank	2157,1,1283,185,160,661,769,1574,2730,1790
 Export-Import Bank of China	35,19,1,1,1,1,1,67,63,1,4,63,1,2,100,1,1,114,2,1,3,1,164,68,143,1,229,1,60,134,878,1422,5983
 Export-Import Bank of Egypt	7535
 Export-Import Bank of Egypt. The Tech Africa	4401
@@ -1221,6 +1243,7 @@ Guaranty Trust Bank	9752
 Guidance Note. World Bank Group	11007
 Gulf African Bank	6946
 H.E. Ambassador Bankole Adeoye	5825,1969
+H55PM Development Bank of Southern Africa Page	11240
 Hardening the Bank	11131
 Hardy Pemhiwa Investment Banker Zimbabwean	4896
 Have Secured the Bank of Ghana EPSP	6368
@@ -1287,7 +1310,7 @@ Internal Affairs Chartered Banker MBA	11134
 International Affairs Bhekizwe Dlamini Bank Supervision	11131
 International Bank Liberia Limited	4283
 International Bank for Reconstitution and Development	10812
-International Bank for Reconstruction and Development	131,72,77,1,1,204,2,173,8,206,226,382,4,689,713,4564,3261,51,10,5,5,56,60,75,1,8,150,14
+International Bank for Reconstruction and Development	131,72,77,1,1,204,2,173,8,206,226,382,4,689,713,4564,3261,51,10,5,5,56,60,75,1,8,150,14,122,39
 International Experience. World Bank Policy Research	10997
 International Monetary Fund and World Bank	10829
 Internet Banking	4695
@@ -1297,7 +1320,7 @@ Investec and Old Mutual Bank. Agreements	5533,58
 Investment Bank	9826,1026
 Investment Banking	4041,2829,2955,1
 Investment Banking Luvuyo Masinda	9702
-Islamic Development Bank	238,715,175,1088,1502,780,1330,2522,594,2036
+Islamic Development Bank	238,715,175,1088,1502,780,1330,2522,594,2036,330
 Islamic Development Bank Institute	8778,166
 Ivoire E-Agriculture Project World Bank Group	310
 Ivoire. The Export-Import Bank	3482
@@ -1328,7 +1351,7 @@ Kenya Bankers Association	797,1871,2533,505,3781
 Kenya Bankers Association and GIZ	2668
 Kenya CBR Central Bank Rate CCF	2775
 Kenya Chartered Institute of Bankers	6946
-Kenya Commercial Bank	10618
+Kenya Commercial Bank	10618,693
 Kenya Commercial Bank KCPE Kenya Certificate	2775
 Kenya and Tanzania. African Development Bank	10718
 Kenya and United Bank for Africa	10223
@@ -1346,6 +1369,7 @@ LIBERIAN BANK FOR DEVELOPMENT	11002
 LOTUS Bank	4771
 Ladder Microfinance Bank	7015,453
 Lagos Central Bank of Nigeria	6698
+Land Bank	11245
 Launch Base Africa. Bank-led	8717
 Launches Agency Banking Roll-Out	7964
 Launching the Bank of Ghana Cyber and Information Security	5532
@@ -1435,6 +1459,7 @@ Mozambican Banking Association and INTIC	2601
 Mozambique Banking	7735
 Mozambique Digital Acceleration Project World Bank	996
 Mozambique NMB Bank	2857,3026
+Multilateral Development Banks	11183
 Multiple World Bank-financed	3604
 N M The World Bank CAR	10829
 N S The World Bank CAR	10829
@@ -1449,6 +1474,7 @@ NIB Bank	8671
 NIB Bank and Arifpay	8671
 NIMC-World Bank	4794
 NMB Bank	5715,3169
+NUMBER ISSUED BY SARS Development Bank	11240
 NYABIHU DISTRICT. World Bank Managing Director	8478
 Nairobi. Rand Merchant Bank	3541
 Namibia’s Central Bank	3180
@@ -1534,7 +1560,7 @@ Output Centre of Excellence Central Bank of Reference	11134
 Overall Bank Performance Rationale With Bank	10779
 Overview The Bank	11134
 Overview. World Bank. IDA19 Replenishment Report	10997
-Oxford University Press. World Bank	11149
+Oxford University Press. World Bank	11149,161
 PADHI00535 INTERNATIONAL BANK FOR RECONSTRUCTION	10768
 PADHI01184 INTERNATIONAL BANK FOR RECONSTRUCTION	6539
 PART II AMENDMENT OF THE BANK	6921
@@ -1558,6 +1584,7 @@ Pan-African Gold Bank	9593
 Pan-African Gold Bank. Taken	9593
 Paoua. The World Bank CAR Health	10829
 Parallex Bank	4771
+Participation of Development Banks	11310
 Partner States Central Banks	7815
 Partnerships The World Bank	10857
 Partnerships for Market Access Stanbic Bank	5247
@@ -1643,6 +1670,8 @@ RECEIVE ZAMBIA ACCESS BANK ACCESS UBA	11002
 RECEIVE ZIMBABWE AFC COMMERCIAL BANK ACCESS	11002
 REFERENCES African Development Bank	961
 REPUBLIC OF ANGOLA and INTERNATIONAL BANK	1914
+REQUIREMENTS OF DEVELOPMENT BANK	11240
+RFP. Development Bank of Southern Africa Page	11240
 RMB Clearing Bank	6870
 Rand Merchant Bank	240,1164,25,136,255,321,96,1,748,2,163,390,4891
 Rank Microfinance Bank	7565
@@ -1680,10 +1709,13 @@ Reserve Bank	940,2378,1199,705,322,332,410,712,255,875,877
 Reserve Bank Innovation Hub	8351
 Reserve Bank Of Zimbabwe Governor	5222
 Reserve Bank Of Zimbabwe John Mushayavanhu	6105
+Reserve Bank SARS South African Revenue	11258
 Reserve Bank STAR-UEMOA BCEAO SICA-UEMOA	6938
 Reserve Bank Special Drawing Rights Small	11134
-Reserve Bank of India	6735,200,661,3542
+Reserve Bank of India	6735,200,661,3542,172
+Reserve Bank of India Imposes Restrictions	11310
 Reserve Bank of India's Stress Test Model	6938
+Reserve Bank of India. Rogers	11310
 Reserve Bank of Malawi	2299,1449,185,3967,1320,296,304
 Reserve Bank of Malawi's National Payment	2299
 Reserve Bank of Malawi. The Reserve Bank	5831
@@ -1792,9 +1824,14 @@ South Africa World Bank Country Office	6832
 South Africa. Standard Bank	5806
 South African Bank	11134
 South African Post Office and Post Bank	7910
-South African Reserve Bank	2662,111,427,841,12,771,709,11,47,100,11,220,364,386,266,60,207,48,86,681,109,248,194,208,4,57,165,122,204,36,61,349,10,665,679,3
+South African Reserve Bank	2662,111,427,841,12,771,709,11,47,100,11,220,364,386,266,60,207,48,86,681,109,248,194,208,4,57,165,122,204,36,61,349,10,665,679,3,51,5,24,22,12,10,28,3
+South African Reserve Bank Act	11190
 South African Reserve Bank Governor Lesetja	5910,2109
+South African Reserve Bank Media	11225
+South African Reserve Bank Mr Lesetja	11289
 South African Reserve Bank SARS South	5533
+South African Reserve Bank STATS SA	11286
+South African Reserve Bank The Committee	11289
 South African Reserve Bank Working Group	6938
 South African Reserve Bank and Chairperson	8129
 South African Reserve Bank's Financial Surveillance	9367
@@ -1857,6 +1894,7 @@ Standard Bank and MTN	9720
 Standard Bank and Nedbank	11130
 Standard Bank and Tyme Bank	7910
 Standard Bank and UnionPay	10459
+Standard Bank of South Africa Acting Company	11198
 Standard Bank of South Africa Limited	2836,2411
 Standard Bank's AI	10189
 Standard Bank's Instant Money	6996
@@ -1939,7 +1977,7 @@ Treasury and Reserve Bank	9005
 TuID West Bank and Gaza Unified Population	10714
 Tyme Bank	5533,58
 U.S. EXIM Bank	560
-U.S. Export-Import Bank	4472,2872,86
+U.S. Export-Import Bank	4472,2872,86,3880
 UAE Central Bank	9709
 UBA VISTA BANK	11002
 UHC. World Bank	10829
@@ -1971,6 +2009,7 @@ Union Bank of Cameroon	5033
 Union Bank of Nigeria	4771
 Union WBG World Bank Group WFP	10841
 Unique Bank Identification	1046
+United Arab Emirates Central Bank and South	11185
 United Bank for Africa	3779,1545,2122,1383,750,1242
 United Bank of Africa	4809
 United Capital Bank	8477
@@ -1984,6 +2023,7 @@ VPT KfW Development Bank	1532
 Values Bank	7221
 Verite Microfinance Bank	7496
 Verwaltung KfW Development Bank	902
+Vetting Development Bank of Southern Africa Page	11240
 Victoria Falls CBZ Bank Crowned Zimbabwe	6909
 Video Surveillance Project China Development Bank	341
 Visa and Afriland First Bank	5379
@@ -2017,7 +2057,7 @@ Women's World Banking. Neli Esipova	10977
 Women’s Development Bank	7594,101
 Women’s Development Bank Mr. Speaker	7695
 Women’s World Banking	4794
-World Bank	1,4,26,76,1,4,4,29,11,1,2,1,2,4,7,48,1,1,1,2,1,3,6,1,2,10,55,1,2,3,2,2,7,8,80,3,4,8,1,1,16,3,28,63,1,1,5,9,2,12,11,6,151,5,11,4,2,1,2,4,1,2,6,1,4,7,3,1,1,1,6,4,1,52,87,19,1,1,8,2,2,1,5,1,1,3,2,1,1,4,1,1,2,1,2,2,1,1,20,1,3,1,11,47,64,25,1,1,1,1,1,1,1,8,7,2,2,3,12,1,11,15,5,9,3,1,3,13,3,3,1,6,48,17,1,7,29,7,1,13,19,90,48,1,1,1,2,3,1,5,48,3,6,4,4,29,3,23,2,10,9,16,3,7,1,15,2,1,1,3,3,1,2,2,18,9,5,14,39,31,1,2,23,3,27,12,22,5,1,32,21,26,25,14,5,9,1,20,64,38,2,1,1,1,19,3,8,1,4,2,27,6,56,2,1,7,1,4,11,2,11,4,4,8,12,8,18,1,34,13,8,12,4,17,4,26,22,2,42,1,2,13,11,2,20,12,1,5,50,2,1,35,6,1,3,17,24,9,16,25,11,18,2,2,8,12,5,10,7,16,9,3,1,8,15,1,28,2,8,11,11,20,7,3,29,19,17,18,12,11,5,7,1,25,9,10,8,3,7,2,58,5,13,6,4,7,8,6,7,7,1,19,1,3,1,2,13,16,3,5,6,2,32,20,2,2,19,3,8,3,3,4,1,18,4,18,18,2,11,2,12,5,8,9,6,3,4,3,14,21,7,1,2,4,3,1,3,1,35,2,7,23,1,14,11,11,12,21,44,7,6,51,5,12,20,21,39,54,20,13,22,5,41,3,14,4,54,2,9,11,6,42,2,23,12,2,56,1,1,4,7,3,7,3,5,2,7,31,19,19,9,13,19,6,1,14,9,1,7,42,12,12,18,13,19,5,3,1,5,15,51,57,9,59,2,10,1,12,2,6,21,8,11,22,13,2,60,23,13,7,3,8,12,25,18,6,5,21,20,33,5,17,1,30,27,18,4,3,1,33,14,5,12,1,13,4,9,4,2,1,21,6,71,3,26,24,54,24,23,15,12,15,10,39,14,15,52,38,7,4,1,5,13,42,13,2,4,1,13,36,1,10,38,4,3,16,2,1,48,6,2,1,10,2,17,9,1,4,9,14,44,7,22,8,18,8,16,16,2,2,3,37,67,1,14,3,24,56,6,24,1,21,7,4,2,8,2,1,8,34,5,28,11,28,8,2,24,13,12,11,5,37,13,1,12,35,32,13,66,9,2,28,27,70,1,11,27,29,17,10,7,88,35,1,12,9,7,21,11,11,24,16,7,5,14,32,83,85,30,12,62,18,44,3,23,181,43,21,3,1,5,2,2,88,19,50,46,35,62,33,3,40,68,17,151,37,2,3,11,11,10,13,49,30,33,15,146,55,1,7,2,51,27,4,82,31,1,12,16,4,14,30,53,26,42,85,17,42,20,20,23,1,42,11,11,2,2,16,64,23,21,63,38,5,28,116,26,73,5,18,15,46,80,6,6,37,2,3,7,1,3,1,5,19,8,7,3,7,3,2,5,2,11,2,2,1,5,4,18,2,15,8,33,1,20,1,5,7,1,3,5,6,6,7,2,11,79,1,6,2,24,4,2,1,2,2,2,7,1,5,1,10,2
+World Bank	1,4,26,76,1,4,4,29,11,1,2,1,2,4,7,48,1,1,1,2,1,3,6,1,2,10,55,1,2,3,2,2,7,8,80,3,4,8,1,1,16,3,28,63,1,1,5,9,2,12,11,6,151,5,11,4,2,1,2,4,1,2,6,1,4,7,3,1,1,1,6,4,1,52,87,19,1,1,8,2,2,1,5,1,1,3,2,1,1,4,1,1,2,1,2,2,1,1,20,1,3,1,11,47,64,25,1,1,1,1,1,1,1,8,7,2,2,3,12,1,11,15,5,9,3,1,3,13,3,3,1,6,48,17,1,7,29,7,1,13,19,90,48,1,1,1,2,3,1,5,48,3,6,4,4,29,3,23,2,10,9,16,3,7,1,15,2,1,1,3,3,1,2,2,18,9,5,14,39,31,1,2,23,3,27,12,22,5,1,32,21,26,25,14,5,9,1,20,64,38,2,1,1,1,19,3,8,1,4,2,27,6,56,2,1,7,1,4,11,2,11,4,4,8,12,8,18,1,34,13,8,12,4,17,4,26,22,2,42,1,2,13,11,2,20,12,1,5,50,2,1,35,6,1,3,17,24,9,16,25,11,18,2,2,8,12,5,10,7,16,9,3,1,8,15,1,28,2,8,11,11,20,7,3,29,19,17,18,12,11,5,7,1,25,9,10,8,3,7,2,58,5,13,6,4,7,8,6,7,7,1,19,1,3,1,2,13,16,3,5,6,2,32,20,2,2,19,3,8,3,3,4,1,18,4,18,18,2,11,2,12,5,8,9,6,3,4,3,14,21,7,1,2,4,3,1,3,1,35,2,7,23,1,14,11,11,12,21,44,7,6,51,5,12,20,21,39,54,20,13,22,5,41,3,14,4,54,2,9,11,6,42,2,23,12,2,56,1,1,4,7,3,7,3,5,2,7,31,19,19,9,13,19,6,1,14,9,1,7,42,12,12,18,13,19,5,3,1,5,15,51,57,9,59,2,10,1,12,2,6,21,8,11,22,13,2,60,23,13,7,3,8,12,25,18,6,5,21,20,33,5,17,1,30,27,18,4,3,1,33,14,5,12,1,13,4,9,4,2,1,21,6,71,3,26,24,54,24,23,15,12,15,10,39,14,15,52,38,7,4,1,5,13,42,13,2,4,1,13,36,1,10,38,4,3,16,2,1,48,6,2,1,10,2,17,9,1,4,9,14,44,7,22,8,18,8,16,16,2,2,3,37,67,1,14,3,24,56,6,24,1,21,7,4,2,8,2,1,8,34,5,28,11,28,8,2,24,13,12,11,5,37,13,1,12,35,32,13,66,9,2,28,27,70,1,11,27,29,17,10,7,88,35,1,12,9,7,21,11,11,24,16,7,5,14,32,83,85,30,12,62,18,44,3,23,181,43,21,3,1,5,2,2,88,19,50,46,35,62,33,3,40,68,17,151,37,2,3,11,11,10,13,49,30,33,15,146,55,1,7,2,51,27,4,82,31,1,12,16,4,14,30,53,26,42,85,17,42,20,20,23,1,42,11,11,2,2,16,64,23,21,63,38,5,28,116,26,73,5,18,15,46,80,6,6,37,2,3,7,1,3,1,5,19,8,7,3,7,3,2,5,2,11,2,2,1,5,4,18,2,15,8,33,1,20,1,5,7,1,3,5,6,6,7,2,11,79,1,6,2,24,4,2,1,2,2,2,7,1,5,1,10,2,25,2,41,35,34,5,46
 World Bank AI	6948
 World Bank Adaptive Safety Nets	10963,1
 World Bank Additional Financing	1284
@@ -2030,6 +2070,7 @@ World Bank Angola Country Climate Development	10763
 World Bank Approves New Financing	3721
 World Bank Assessment	11133
 World Bank Atlas	3853
+World Bank Atlas GNI	11262
 World Bank Backs Burkina Faso's Nationwide	4963
 World Bank Blogs	8891,1823
 World Bank Board	1571,682,38,4533
@@ -2055,6 +2096,7 @@ World Bank Country Representative Franklin Mutahakana	8459
 World Bank Country and Lending Groups	10785,219
 World Bank DPI	2254,1574,1702
 World Bank DRC Digital Transformation Project	3515
+World Bank DSA	11271
 World Bank Data	1264,6275,3273
 World Bank Data Help Desk	10714
 World Bank DataBank	11004
@@ -2136,8 +2178,9 @@ World Bank GovTech Operations	1278
 World Bank Governance Indicators	4528
 World Bank Grant Facility	6539
 World Bank Grant Supports Zambia	1901
-World Bank Group	166,155,8,83,124,16,14,7,4,2,160,50,180,12,235,74,461,77,39,159,447,204,139,345,212,210,21,523,87,151,159,960,186,30,337,3,211,129,159,393,53,412,29,122,107,231,592,601,654,1,1,24,112,71,42,674,56,4,50,12,5,27,7,22,15,25,3,17,62,1,21,19,127,3,2,1,12
+World Bank Group	166,155,8,83,124,16,14,7,4,2,160,50,180,12,235,74,461,77,39,159,447,204,139,345,212,210,21,523,87,151,159,960,186,30,337,3,211,129,159,393,53,412,29,122,107,231,592,601,654,1,1,24,112,71,42,674,56,4,50,12,5,27,7,22,15,25,3,17,62,1,21,19,127,3,2,1,12,49,38,35,39
 World Bank Group Approach	10714,292
+World Bank Group Approach. Digital	11310
 World Bank Group Board of Directors	2253,2581
 World Bank Group Chief Economist	5598
 World Bank Group Contribution The World	10857
@@ -2150,6 +2193,8 @@ World Bank Group Financing International Development	10964
 World Bank Group Financing Nov	10963
 World Bank Group Gender Strategy FY16	10964
 World Bank Group General Environmental Health	1988
+World Bank Group Guarantee Platform	11310
+World Bank Group Guarantees	11310
 World Bank Group ID4D Initiative	364
 World Bank Group In the Central African	10857
 World Bank Group Invests	9734
@@ -2166,6 +2211,7 @@ World Bank Group's Global Challenge Program	2026
 World Bank Group's IDA Private Sector	3984
 World Bank Group-wide	6539
 World Bank Group. About Jumia	9734
+World Bank Group. Internet Society	11310
 World Bank Group. License	10714
 World Bank Group. Um	6985
 World Bank Group. WTO	10718
@@ -2243,7 +2289,7 @@ World Bank Project Appraisal Document	541,34,1679
 World Bank Project Implementation Unit	10829
 World Bank Project Paper	2780
 World Bank Project Preparation Grant	6665,788
-World Bank Publications	7655,3059,51,10,10,27,29,135,1,8,164
+World Bank Publications	7655,3059,51,10,10,27,29,135,1,8,164,122
 World Bank Remittance Prices	6397
 World Bank Report	8610,233,2286
 World Bank Reproducible Research Repository	10785,192
@@ -2253,6 +2299,7 @@ World Bank Resident Representative for Togo. Press	2026
 World Bank Results Acceleration Program	3604
 World Bank Review Progress	6824
 World Bank Reviews Burundi's PAFEN Reform	5566
+World Bank SDFP-PPA	11271
 World Bank SPRING	4278
 World Bank Senior Social Development Specialist	1901
 World Bank Sign	965,3924,206
@@ -2295,6 +2342,7 @@ World Bank and African Development Bank Group	4214
 World Bank and Agence Française de Développement	9756
 World Bank and Co-Develop	1902
 World Bank and Digital Development Partnership	3773
+World Bank and Djibouti’s National Institute of Statistics	11271
 World Bank and EBRD	9486
 World Bank and EPTC	6539
 World Bank and EU	10829
@@ -2314,6 +2362,7 @@ World Bank and International Finance Corporation	9624
 World Bank and International Telecommunication Union	961
 World Bank and MASFAMU	10768
 World Bank and OECD GDP	10969
+World Bank and Oxford University Press. World	11310
 World Bank and Rose Mosero	6202
 World Bank and Smart Africa	9636
 World Bank and UN Economic Commission for Africa	1035
@@ -2500,7 +2549,7 @@ World Bank. Third-party	10977,172
 World Bank. Under	6523
 World Bank. Views	10714,51,10,374
 World Bank. World Bank	10841
-World Bank. World Bank Group	2816
+World Bank. World Bank Group	2816,8494
 World Bank. World Bank. Chinen	6832
 World Bank. World Development Report	10856
 World Bank. Zemelman	6832
@@ -2513,6 +2562,7 @@ World Bank’s	11007
 World Bank’s AM	1264
 World Bank’s Access	2989
 World Bank’s Accountability Mechanism	3604
+World Bank’s Acting Country Director for Nigeria	11305
 World Bank’s Africa Regional Integration	10841
 World Bank’s Africa Regional Integration and Cooperation	1264
 World Bank’s Anti-Corruption Guidelines	1867,1737
@@ -2530,6 +2580,8 @@ World Bank’s Digital Transformation Team	10852
 World Bank’s Digital Zambia Acceleration Project	1867
 World Bank’s Disaster Protection Program	10763
 World Bank’s Disaster Protection Program. JICA	10768
+World Bank’s Djibouti Economic Monitor	11271
+World Bank’s East African Regional Digital	11315
 World Bank’s Economic Update	4535
 World Bank’s Eligibility	5903
 World Bank’s Enterprise Surveys	11140
@@ -2584,6 +2636,7 @@ World Bank’s Zambia Health Emergency Preparedness	1867
 World Development Indicators. The World Bank	10829
 World Economic Forum and World Bank ID4D	10819
 X.2025.2542637 National Bank of Ethiopia	8671
+YEARS Development Bank of Southern Africa Page	11240
 Year Closed The World Bank	10857
 Year-End Bank Balances	6422
 Yet the World Bank	4752
@@ -2595,8 +2648,8 @@ ZENITH BANK REMITA NIGERIA EXTENDED NETWORK	11002
 ZENITH BANK XCEL GHANA	11002
 Zambia National Commercial Bank	9793
 Zambia. World Bank	1867
-Zenith Bank	982
-Zenith Bank Plc	4771
+Zenith Bank	982,10375
+Zenith Bank Plc	4771,6586
 Zenith Bank Sierra Leone and Mastercard	5614
 Zenith Bank and Mastercard Partnership	5614
 Zimbabwe TN CyberTech Bank Limited	4896

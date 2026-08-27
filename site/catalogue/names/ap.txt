@@ -5,6 +5,7 @@ A.226 Application	3887
 A.232 Appointment	3887
 A.3 Application	8840
 ABBREVIATIONS ADR Adverse Drug Reaction API	9855
+ACCORDANCE WITH APPLICABLE LEGISLATION	11240
 ACRONYMS ACRONYMS AI AIA API DCI	11156
 ACRONYMS AND ABBREVIATIONS APME Small and Medium-sized	10980
 ADMINISTRATIVE APPEALS AND REVIEW PROCEDURES	3861
@@ -241,9 +242,13 @@ APOLLO MEDICARE	7167
 APOLLO TOURS AND TRAVEL LIMITED Data	7167
 APONN-SOKO GROUP LIMITED Data Controller INST-98208091214	7167
 APOYO COOP. DE LA ESCOLAR	4209
+APP Annual Performance Plan BAS Basic	11261
+APP Annual Performance Plan BBBEE Broad	11224
 APP Her Venture Cherie Blair Foundation	11017
 APP RESARV LIMITED Data Controller INST-265416D3211	7167
 APP SME Financial Empowerment SME Financial	11017
+APP Targets Achieved	11218
+APP Targets Not Achieved	11218
 APPCENTRIC VENTURES LIMITED Data Processor INST-542718B1097	7167
 APPEL	8312
 APPEL A MANIFESTATION D'INTERET N	9744
@@ -255,7 +260,7 @@ APPENDICES APPENDIX	6432
 APPENDICES APPENDIX A LIST OF INDIVIDUAL	762
 APPENDICES Appendix	4153
 APPENDICES Appendix A Equipment Specifications Desktop	34
-APPENDIX	582,418,161,5271,506,3881
+APPENDIX	582,418,161,5271,506,3881,361,31,17,34
 APPENDIX A Methodology and Convening Design	11138
 APPENDIX B	11129
 APPENDIX B Table	3862
@@ -281,17 +286,24 @@ APPLEGATE CHRISTIAN SCHOOLS LIMITED Data Processor	7167
 APPLEWOOD DATA TECHNOLOGIES LTD Data Processor	7167
 APPLIANCE ZONE LIMITED Data Controller INST-47396675117	7167
 APPLIANCE ZONE LIMITED Data Processor INST-47396675117	7167
+APPLICABILITY AND COMPLIANCE	11184
 APPLICABILITY OF DISPUTE SETTLEMENT MECHANISM	1243
+APPLICABLE	11240
 APPLICABLE LAWS	4153
 APPLICANTS VERSUS	3005
+APPLICATION AND ADMINISTRATION OF ACT	11177
+APPLICATION AND OBJECTS OF ACT	11182
+APPLICATION AND OBJECTS OF ACT Definitions	11182
 APPLICATION AND REGULATORY FRAMEWORK OF ACT	3714
 APPLICATION DE LA PROCEDURE	10876
 APPLICATION DETAILS	2709
+APPLICATION FOR ASYLUM	11177
 APPLICATION FOR DESIGNATION AS UNIVERSAL SERVICE	22
 APPLICATION FOR DIGITAL HEALTH SOLUTION CERTIFICATION	2709
 APPLICATION FOR ONBOARDING TO THE ENTERPRISE	2709
 APPLICATION FOR REGISTRATION IN THE HEALTH	2709
 APPLICATION FOR REGISTRATION IN THE NATIONAL	2709
+APPLICATION OF THE ICT	11235
 APPLICATION OF THE PROPOSED MATHEMATICAL APPROACH	8606
 APPLICATION PROCEDURES SECTION	1638
 APPLIED PRINCIPLES LIMITED Data Controller INST-4791499F7C4	7167
@@ -302,6 +314,8 @@ APPOINTMENT AND RETIREMENT OF DIRECTORS	4896
 APPOINTMENT AS CHAIRPERSON OF THE INDEPENDENT	10313
 APPOINTMENT NOTIFICATION FORM DP2 POTRAZ	1877
 APPOINTMENT OF DIRECTORS	585,8281
+APPOINTMENT OF PUBLIC HEALTH NGO SERVICE	11252
+APPOINTMENT OF PUBLIC HEALTH NON-GOVERNMENT ORGANISATION	11252
 APPOINTMENT OF THE NATIONAL COMMISSIONER	1220
 APPORT DE L’IMAGERIE SATELLITAIRE DE TRÈS	8891
 APPR Agreement for Peace and Reconciliation	969
@@ -315,6 +329,9 @@ APPROPORIATE	5352
 APPROPRIATE	5352
 APPROPRIATE The Federal Republic of Nigeria	4301
 APPROPRIATION	3123,1
+APPROPRIATION BILL VOTE	11272
+APPROPRIATIONS ON ITS OVERSIGHT VISIT	11289
+APPROVAL	11184
 APPROVAL Erkin Mamadaliev	10963
 APPROVAL OF PROMOTIONS	718
 APPROVAL Task Team Leader	3456
@@ -324,8 +341,11 @@ APPROVISIONNEMENTS	998
 APPROXIMATE	5625
 APPS and Data	11134
 APPUI AU Des	3396
+APPs and Budget	11285
 APP专享直播	10369
 APRA AMCOS	9739
+APRII	11178
+APRII. IY9Y	11178
 APROCEC	5835
 APROVA A LEI DO SISTEMA NACIONAL	7338
 APROVADO	10766
@@ -364,11 +384,14 @@ Accounting Officer Signature Approved	5533
 Accra High Court. Apparently	3752
 Acronyms AfCFTA AI AI4D AISIO API	4528
 Act Restricted Application of Act Related	3714
+Act. SCOPE OF APPLICATION	11255
 ActuNiger Après	2556,4777
 Actual Approval	7877
 Actual Current Year Approved Actual Exec	6422
 Additional APS	4260
 Additional Regional No Institutions Appraisal	4653
+Adjusted Appropriation	11218
+Adjusted Appropriation Bill	11289
 Adjustments Appropriation Bill	2902
 Administrative Appeals and Review Procedures	3861
 Administrative Provisions Appointment of Director-General	587
@@ -385,7 +408,10 @@ Africa. App-based	6794
 Africa. Apply	9034
 Africa. Approved	452
 African Approved By Department	1828
+African Centre of Meteorological Application for Development	11291
+African Development Bank Group Approves	11310
 African Development Bank. Apps	6232
+African Meteorological Satellite Application Facility	11283
 African Super App	3905
 Afriex’s B2B Payments API	10223
 Afrique. Après	3100
@@ -408,8 +434,11 @@ Amount-quality Approx. Countries	712
 Amount-quality Approx. Crosswalk	836
 Amount-quality Approximate	390
 AnEmpirical Study Applying UTAUT Model Using	5349
+Analysis of Consultant Appointments	11218
+Analysis of Consultant Appointments Using Appropriated Funds	11218
 Android App Economy	1363
 Android and Apple	1869
+Annual Appropriation	11218
 Annuelle APECCAM	10965
 ApS Hastings Music GmbH Clinical Excellence	8530
 ApS ProponAI QuantumWave Refreshworks RegioVision SN	8530
@@ -420,7 +449,7 @@ Apapa Port	10620,69
 Aparatos	9543
 Aparatos Diversos	4209
 Aparición	1701
-Apart	36,270,652,32,258,13,666,501,497,56,565,37,175,434,22,682,136,366,19,76,103,106,553,33,211,102,50,580,64,149,102,132,73,156,207,346,145,635,11,447,615,506,169
+Apart	36,270,652,32,258,13,666,501,497,56,565,37,175,434,22,682,136,366,19,76,103,106,553,33,211,102,50,580,64,149,102,132,73,156,207,346,145,635,11,447,615,506,169,205
 Apart Without Change	7471
 Apartheid	7751
 Apartheid South Africa	5822
@@ -507,7 +536,7 @@ Apollo Asset Management Company Limited Data	7167
 Apollo Sande	9311
 Apollonia Jeremy Berndt Appointed Senior Advisor	2837,989,15,690,99,50,66,65,38,415,53,275,183,129,44,409,340
 Apollosure Regulated Non-WDT Sacco Society Limited	7167
-Apologies	11131,3
+Apologies	11131,3,151
 Apolítica	15
 Apontou	2671,3939,635
 Apost-clusteringharmonisa-	8606
@@ -539,14 +568,15 @@ Apparel Distribution	4972
 Apparel Performance Indicators	2775
 Apparently	3782
 Appau-Klu	11038
-Appeal	2307,1407,1962,766
+Appeal	2307,1407,1962,766,4739
 Appeal Authority	8915
+Appeal Board	11177
 Appeal Committee	7845,1768
 Appeal Dear Reader	2367,3115,1762,8
 Appeal Process	5665
 Appeal Process Reject Page	10819
 Appealing	10092
-Appeals	11,562,163,1973,18,434,151,549,1804,5491
+Appeals	11,562,163,1973,18,434,151,549,1804,5491,123
 Appeals Any	972
 Appeals Authority	8616
 Appeals Committee	7377
@@ -554,6 +584,7 @@ Appeals Tribunal	7755
 Appeals and Objections	9314
 Appeals and Review Mechanisms	9855
 Appeals. PART XI Consequential Amen	972
+Appearance	11181
 Appearances	8095
 Appearing	6009,151,66,307,249,218,2334
 Appears	1301,1
@@ -571,16 +602,21 @@ Appelman	7966
 Appels	3396,2171,5141,267
 Appelé	1984
 Appelé NEKKAL	6882
-Appendices	22,3840,352,314,719,839,346,4572,125
+Appendices	22,3840,352,314,719,839,346,4572,125,66,101
 Appendices Appendix	4528,6476
 Appendices Condensed	10793
 Appendices Data	10793
 Appendices Figure	11004
 Appendices The Mobile Gender Gap Report	11004
-Appendix	10,226,526,29,209,9,152,87,25,1,1,158,112,1,84,284,559,303,1083,3,110,154,27,1,10,1,2,35,10,2,3,5,38,6,35,1,26,21,9,81,468,445,327,13,731,9,10,92,617,115,493,518,328,2214,10,17,10,120,4,24,13,112,1
-Appendix A	8605
+Appendix	10,226,526,29,209,9,152,87,25,1,1,158,112,1,84,284,559,303,1083,3,110,154,27,1,10,1,2,35,10,2,3,5,38,6,35,1,26,21,9,81,468,445,327,13,731,9,10,92,617,115,493,518,328,2214,10,17,10,120,4,24,13,112,1,156,10
+Appendix A	8605,2681
 Appendix A Appendices List of Approved Abbreviations	11129
 Appendix A. Contents	6937
+Appendix A1	11195
+Appendix A2	11195
+Appendix A3	11195
+Appendix A4	11195
+Appendix A5	11195
 Appendix Appendix	2775
 Appendix B	236,1012,2614,666,1914,696,13,115,3751,112
 Appendix B Appendix B	11129
@@ -633,8 +669,8 @@ Appkings Solutions Limited Data Controller INST-20601121C7F	7167
 Appkings Solutions Limited Data Processor INST-20601121C7F	7167
 Appl&title	1219
 Applause	10313
-Apple	961,805,1050,649,186,1022,569,124,435,19,548,935,34,276,118,442,263,324,396,837,4,41,46,6,399,561
-Apple App Store	7266
+Apple	961,805,1050,649,186,1022,569,124,435,19,548,935,34,276,118,442,263,324,396,837,4,41,46,6,399,561,294
+Apple App Store	7266,4058
 Apple App Store and Google Play Store	9952
 Apple Developer	7208
 Apple MacBook	8289
@@ -642,6 +678,7 @@ Apple Park	306
 Apple Pay	3957,25,342,4684,2111
 Apple Pay and Google Pay	11119
 Apple Podcasts	4964
+Apple Store	11253
 Apple Tracking Transparency Framework	10090
 Apple and Google	306,9377
 Apple and Samsung	7209
@@ -653,8 +690,8 @@ Appleby	3
 Applegate	8606
 Appli-	6946
 Applica	8603
-Applicability	28,2068,1691,1459,5910
-Applicable	0,582,572,664,1720,764,2130,3423,302,611,61,300
+Applicability	28,2068,1691,1459,5910,25
+Applicable	0,582,572,664,1720,764,2130,3423,302,611,61,300,140
 Applicable Audit Risk and IT Remuneration	11134
 Applicable CEMAC-level	4785
 Applicable Indigenous	1988
@@ -662,10 +699,12 @@ Applicable K- Non	582
 Applicable Laws	3972,182,13,35,15,43,41,48,1003
 Applicable Laws and Regulations	9855
 Applicable Laws and Regulations Digital	9855
+Applicable NARYSEC National Rural	11261
 Applicable Rates and Collection of Tax	8590
 Applicable Regulations	1988
+Applicable Table	11180
 Applicable Taxes	8590
-Applicant	22,740,461,415,239,42,1732,63,1819,890,2159
+Applicant	22,740,461,415,239,42,1732,63,1819,890,2159,2653
 Applicant Functions	6423
 Applicant Signature Position Held Date	736
 Applicant Signature Position Held Date Area	736
@@ -676,7 +715,7 @@ Applicants	736,26,876,282,429,656,959,63,64,863,218,112,182,67,331,375,184,12,50
 Applicants. An Applicant	8582
 Applicants. E. Procedures for Evaluation of Applications	1638
 Applicatifs Promotion des TICs	10812
-Application	3,8,11,120,253,192,56,93,1,9,1,15,137,73,26,11,211,3,20,90,141,164,112,127,61,6,44,131,590,18,89,345,220,333,455,1076,288,132,14,54,187,512,352,764,59,238,143,34,108,993,561,55,668,311,3,98,37,109,10,154
+Application	3,8,11,120,253,192,56,93,1,9,1,15,137,73,26,11,211,3,20,90,141,164,112,127,61,6,44,131,590,18,89,345,220,333,455,1076,288,132,14,54,187,512,352,764,59,238,143,34,108,993,561,55,668,311,3,98,37,109,10,154,48,4,9,45,34,76
 Application Application	11
 Application Architecture	9124
 Application Attacks DDOS Total Cyber Advisories	6671
@@ -731,16 +770,21 @@ Application for Child's Current Birth Certificate	6783
 Application for Licences	736
 Application for Special	736
 Application of AI	4705
-Application of Act	3887
+Application of Act	3887,7294,1
 Application of BIPA	3623
 Application of Big Data	9128
+Application of Chapter	11179,2
+Application of Chapter Part B Temporary	11181
 Application of Corporate Laws Act	3714
+Application of Criminal Procedure Act	11190
 Application of Digital Skills	899
 Application of Fund	22
 Application of Guba and Lincoln	7278
 Application of International Law	1814
 Application of Items	3714
 Application of Machine Learning	2816
+Application of Machine Learning and Deep Learning T	11265
+Application of Machine Learning and Deep Learning Techniques	11265
 Application of Part	1
 Application of Part B Items	3714
 Application of Schedule	3714
@@ -752,7 +796,7 @@ Application. PART II Data Protection Authority	972
 Application. The Procuring Entity	1638
 ApplicationForms	1638
 ApplicationMobile	8028
-Applications	34,8,540,154,902,359,118,310,1053,312,71,667,307,31,495,172,899,316,182,438,151,25,4,427,202,173,187,69,92,336,95,7,2,65,31,57,184,264,136,44,139,61,14,24,95,58,37,60,75,45,419,18,170,6
+Applications	34,8,540,154,902,359,118,310,1053,312,71,667,307,31,495,172,899,316,182,438,151,25,4,427,202,173,187,69,92,336,95,7,2,65,31,57,184,264,136,44,139,61,14,24,95,58,37,60,75,45,419,18,170,6,41,133
 Applications Clearly	34
 Applications Conference	8604
 Applications Design	10861
@@ -766,6 +810,7 @@ Applications and Products	7751
 Applications and Usage of DVB Identifiers	6946
 Applications for CANEX Create-Thon	9641
 Applications for SBIP	5431
+Applications of Machine Learning	11336
 Applied	206,1157,625,108,852,1948,804,723,1062,274,1364,490,1023,90,243,169
 Applied AI	6930,31
 Applied AI Research	4126
@@ -782,15 +827,15 @@ Applied Optoelectronics	8921
 Applied Remote Sensing and Geographical Emerging	6832
 Applied Sciences	7759
 Applied Statistics	6946
-Applies	2712,3867,4329
+Applies	2712,3867,4329,361
 Appliquer	8891,1985
 Applis	9993
-Apply	1204,681,789,1452,302,126,1111,11,196,496,64,351,153,612,427,5,255,371,466,576,362,711,239,57,123,9,7
+Apply	1204,681,789,1452,302,126,1111,11,196,496,64,351,153,612,427,5,255,371,466,576,362,711,239,57,123,9,7,96,95
 Apply AES-256	10721
 Apply AI	6477
 Apply AI Strategy	6487,392
 Apply Common But Differentiated Responsibilities	6960
-Apply Interested	9309,751
+Apply Interested	9309,751,1254,13,20
 Apply and View Special Votes	7266
 Apply for Funding	9791
 Apply for Government of Rwanda Page	9124
@@ -809,11 +854,13 @@ Appoint Cybersecurity Focal Points. Identify	1777
 Appoint Cybersecurity Focal Various National Established	1777
 Appoint Personal Data Protection Officer Phase	11133
 Appoint the IGF	3604
+Appoint the NWRIA Board	11236
 Appointed	3861,1172,1913,2810,323,714,19,319,3
 Appointed Representative of Thema Capital Limited	5879
 Appointed and Q2	1777
 Appointing	6940
-Appointment	11,576,633,657,238,612,403,584,147,26,1009,4612,1362
+Appointment	11,576,633,657,238,612,403,584,147,26,1009,4612,1362,308,3,18,81
+Appointment Booking System BAC Bid Adjudication	11218
 Appointment Booking System BACM Biometric Access	5533
 Appointment Notification	1877
 Appointment Scheduling	8999
@@ -827,7 +874,8 @@ Appointment of General Manager	10948
 Appointment of Local Representative	573
 Appointment of Mr Fayaz King	5538
 Appointment of Registrar	1
-Appointments	3
+Appointment of Tax Ombud	11181
+Appointments	3,11244
 Appointments Committee of Parliament	2338
 Appoints	1686
 Appoints Consultant	5407,676
@@ -848,7 +896,7 @@ Appraisals and Negotiations Regulation M-A Item	7198
 Appraisers	8460
 Appraising	5700
 Appraisingresearchonpersonalizedlearning	8602
-Appreciation	958,5980
+Appreciation	958,5980,4312
 Appreciation The Board	1154
 Appreciation The RCZ Board	1554
 Apprendre	4092,3028,254
@@ -860,14 +908,16 @@ Apprenticeship Program	1204
 Apprentissage	1183,48
 Apprentissage Effectif Apprentissage Traditionnel	2966
 Appro	2958
-Approach	396,177,436,417,392,1927,3202
+Approach	396,177,436,417,392,1927,3202,4277,76,32
 Approach Governance Office	11131
+Approach Our Impact	11332
 Approach Programmable	11130
 Approach That Works	5700
 Approach The AI	4528
 Approach The NCS	1777
 Approach The World Bank	10857
 Approach To Expanding Coverage	3726
+Approach UNDP Mauritius	11332
 Approach and Methodology	236
 Approach and Methodology Measuring	236
 ApproachWhen Nilekani	6692
@@ -880,19 +930,21 @@ Approche Open	1984
 Approche Open Data	747,1,1236
 Approche-Programme	10876
 Approfondissement	643,9594
-Appropriate	3,18,13,1906,3736,1270,2,747,1428,1696,70,190,54
+Appropriate	3,18,13,1906,3736,1270,2,747,1428,1696,70,190,54,122
 Appropriate Authorities’ Said Evidence	10034,231
 Appropriated	1607,1,2,1,1
 Appropriated R1	1613
 Appropriated-stage	1613,121
 Appropriately	21,1807,39,121
 Appropriateness	940,1156,3569,2711
-Appropriation	1614,46,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,533,429,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,706,567,173,1,288,1,1,1,1,87,2,1,1,4,1,1142,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5204,273
-Appropriation Act	3,436,834,1,1,270,1,72,113,735,1,1,1,1,1,265,1755,1530
-Appropriation Bill	1273,1,1,237,1,32,1,61,1,1,1,1,1,1,1,1282,1,1,1,1,1,1,1667,1,1,1,1,1,624,1390
+Appropriation	1614,46,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,533,429,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,706,567,173,1,288,1,1,1,1,87,2,1,1,4,1,1142,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5204,273,87
+Appropriation Act	3,436,834,1,1,270,1,72,113,735,1,1,1,1,1,265,1755,1530,5268
+Appropriation Act The National Treasury	11289
+Appropriation Bill	1273,1,1,237,1,32,1,61,1,1,1,1,1,1,1,1282,1,1,1,1,1,1,1667,1,1,1,1,1,624,1390,4701
 Appropriation Medium Term Expenditure Framework Rand	5533
-Appropriation Statement	1607,1,1,1,1,1,1
+Appropriation Statement	1607,1,1,1,1,1,1,9617
 Appropriation du POSAF	10712
+Appropriations	11230,59
 Appropriations Act	3583
 Appropriations-In-Aid	10313
 Appropriations-in-Aid	5793
@@ -901,7 +953,7 @@ Appropriée	10876
 Approuve	10876
 Approuver	10876
 Approuvée	8891
-Approval	287,417,1,13,18,178,1,1,1,1,1,1,1,1,1,86,210,658,111,724,718,108,176,974,1744,12,95,40,253,1,95,18,258,139,264,270,111,313,1204,652,561,57,95,266
+Approval	287,417,1,13,18,178,1,1,1,1,1,1,1,1,1,86,210,658,111,724,718,108,176,974,1744,12,95,40,253,1,95,18,258,139,264,270,111,313,1204,652,561,57,95,266,48,46
 Approval Approval Package	6579,349,949
 Approval Approved Installation	736
 Approval Date	4653
@@ -929,9 +981,10 @@ Approve GCT	6947
 Approve Payment System Vision	10767
 Approve Requisition	9124
 Approve the Proposals	7198
-Approved	26,2,6,570,132,71,87,76,804,54,160,67,657,882,155,112,242,61,298,226,152,1604,135,175,79,95,528,92,329,272,517,173,41,87,157,609,122,40,262,496,68,58,91,261
+Approved	26,2,6,570,132,71,87,76,804,54,160,67,657,882,155,112,242,61,298,226,152,1604,135,175,79,95,528,92,329,272,517,173,41,87,157,609,122,40,262,496,68,58,91,261,57,73
 Approved Actual Exec Approved Actual Exec	6422
 Approved Actual YTD YTD Budget YTD	6422
+Approved BFI	11248
 Approved Budget	750,540,494,1,1,1,1,5,3,1
 Approved By Practice Manager	10963
 Approved Citizenship	5533
@@ -942,6 +995,7 @@ Approved GCSP Accreditation Letter	6432
 Approved Government Cloud Service Providers	6432
 Approved July-December Six Revenue	5655
 Approved Maintenance Organizations ANC Ante-Natal Care	2775
+Approved National Data and Cloud Policy Implementation	11230
 Approved National Identification and Registration Bill	5533
 Approved Programmes	2775
 Approved Provider Requirement	6432
@@ -961,7 +1015,7 @@ Approx. Interswitch	407
 Approx. Moove	1136
 Approx. Q1Q2	4528
 Approximate	240,90,67,313
-Approximately	238,731,243,52,19,403,181,121,319,1276,21,187,648,467,294,121,1617,650,537,229,645,506,1209,4,50,17,44,91,28,187,1
+Approximately	238,731,243,52,19,403,181,121,319,1276,21,187,648,467,294,121,1617,650,537,229,645,506,1209,4,50,17,44,91,28,187,1,149,12
 Approximately US	2989,615,6301
 Appréciation	6959
 Apprécier	10876
@@ -989,7 +1043,7 @@ Apr-2026 Yes Sep	7877
 Apr-26	6408
 Apr-26 May-26 GOLD CARDS	8999
 Apr-27 Jul-26 Mar-26 Page	2989
-Apr-Jun	1944,2825,2177,2835
+Apr-Jun	1944,2825,2177,2835,1515
 Apr-June	11134
 Apr-May	1261,6026,760
 Apr19 22 1058788986.jpg	415
@@ -1047,7 +1101,7 @@ Aprovisionamento	13
 Aprovisionamiento	4209
 Aproximando	5020
 Aproximar	6462,4310
-Après	113,434,3,18,20,149,10,251,216,17,69,288,92,126,105,7,151,256,17,35,2,64,6,64,21,74,87,43,55,22,145,6,153,19,53,3,115,17,35,104,123,42,76,63,38,9,40,122,51,133,17,11,190,6,35,324,247,37,40,9,13,44,35,39,14,20,17,97,52,3,114,163,29,431,46,22,4,349,35,137,2,83,127,5,98,180,39,56,1,13,9,19,127,1,40,12,16,51,34,15,43,2,68,29,31,82,178,60,106,75,108,189,37,21,21,1,79,8,68,15,93,9,26,112,41,2,7,87,9,9,38,186,110,111,365,163,26,82,22,2,184,4,133,5,109,10,11,13,15,1,3,3,41,13,5,34,6,68,25,25,24
+Après	113,434,3,18,20,149,10,251,216,17,69,288,92,126,105,7,151,256,17,35,2,64,6,64,21,74,87,43,55,22,145,6,153,19,53,3,115,17,35,104,123,42,76,63,38,9,40,122,51,133,17,11,190,6,35,324,247,37,40,9,13,44,35,39,14,20,17,97,52,3,114,163,29,431,46,22,4,349,35,137,2,83,127,5,98,180,39,56,1,13,9,19,127,1,40,12,16,51,34,15,43,2,68,29,31,82,178,60,106,75,108,189,37,21,21,1,79,8,68,15,93,9,26,112,41,2,7,87,9,9,38,186,110,111,365,163,26,82,22,2,184,4,133,5,109,10,11,13,15,1,3,3,41,13,5,34,6,68,25,25,24,232
 Après Airtel Money	8223
 Après Dakar	9131
 Après Diffa	7374
@@ -1082,12 +1136,16 @@ Assunto Aprova	4146,6603,23,11
 Ateliê de Apresentação	2953
 Attributes Symbol Example Application Name N	9124
 Aug-2024 Yes Apr	6928
+August. Monthly Apple	11324
 Authority. Applicants	736
 Authority. Application of Fund Investment	22
 Authority. Licence Name Application Initial	736
 Authorized PROJECT APPRAISAL DOCUMENT	3604
 Autonomia Tecnológica Após	6530
+Available Career Pathways Applicants	11314
 Avis APDP	10821
+B Appeals	11177
+B Composition of Refugee Appeals Authority	11177
 B- Application	7548
 B. Appeal	7845
 B2B APIs	767
@@ -1103,6 +1161,8 @@ Bank AI Artificial Intelligence API Application	7548
 Bank Supervision Application System Version	11131
 Bank. Our Risk Management Approach	11131
 Bank’s Risk Appetite and Tolerance	11131
+Basics Approach Goal	11188
+Bayobab CEO Appointed	11234
 Benin APDP	6202
 Benin Tax Application Base Current	10856
 Benin’s APDP and Drudeisha Madhub	6202
@@ -1112,6 +1172,7 @@ Board Approval	2712,1976,1891,254,95,949
 Board Approved Financing Envelope US	6539
 Board Approved MPA Financing Envelope	3562
 Board Member Date Appointed Board Audit	11131
+Body Business Call for Applications	11314
 Branch Appointment Booking System	2115,1085
 Branding and App Stores	7266
 Bridgforte Trust Architecture Framework Applying	11138
@@ -1130,6 +1191,7 @@ Business Event Customer Applies for ID	9124
 Business Focussed Approach Which Recently	11154
 Business and Intellectual Property Authority Appeal	3714
 Bénin. Après	5531,1801
+C Functions of Refugee Appeals Authority	11177
 C. Appointment	7845
 C. Appropriate	7845
 C. Preparation of Applications	1638
@@ -1143,6 +1205,7 @@ CASOS DE APLICAÇÃO DA INTELIGÊNCIA ARTIFICIAL	2816
 CATEGORIES OF COMPANIES AND MODIFIED APPLICATIONS	3714
 CBL Apologizes After Record	6357
 CEO. Non-Refundable Application	736
+CHAPTER I ADMINISTRATION Application of Act	11176
 CIB Secures Preliminary Approval	10665
 CINEMA ATTENDANCE APR	9781
 CIPESA Urges Rights-Centred Approach	6132
@@ -1164,16 +1227,18 @@ Cabinet Approves New Agency	6526
 Cabinet Approves New Agency National Rwanda	6526
 Calendar Reshapes APC’s Political Landscape	4619
 Call for Applications	10347
+Call for Applications Deadline	11345
 Call for Research Proposal Appeal Process	1554
 Called the Zambia Emergency Bridge for Response Application	10374
 Cameroon Apr	10970
 Cameroon Estimated Appraisal Date Project Social	10963
-Can Apply	8698
+Can Apply	8698,2616
 Capabilities Approach	10726
 Capabilities Approach. Cambridge	10726
 Capability Approach Applied	10726
 Capability Approach Can Be Used	10726
 Capital Application	10762
+Capital Projects Appraisal	11248
 Card Replacement Approach	8999
 Card Replacement Approach Planning	8999
 Carolina Glasserman Apicella of DataGénero	7151
@@ -1208,6 +1273,7 @@ Clients No Appraisal Summary No Components	2473
 Closing Period Apr	1264
 Closing for Withdrawal Applications IDA-E0930 Effective	1284
 CoE APO07 Managed Human ITCap	9237
+Collab Citizen App	11251
 Collaborative Approach	1718
 Collaborative and Iterative Approach	4528
 Commission’s Approval-in-Principle	9955
@@ -1246,6 +1312,8 @@ Constitutional Appeal No	3307
 Constitutional Appointments Authority	9679
 Constitutional Challenges and Supremacy Clause Application	3861
 Construcción de Aparcamiento	4209
+Consultant Appointments Using Appropriated Funds	11218
+Consultant Appointments Using Donor Funds	11218
 Consumer Portal Mobile Application Regional WATRA	5676
 Consumériste Appui Institutionnel Financière	10975
 Contabilidade. SECÇÃO III SERVIÇOS DE APOIO	167
@@ -1274,6 +1342,7 @@ Creek Road Apapa	2355,176,4,1,56,3,339,96,901,1006,1761,673
 Critical Logics Approach	11028
 Critère Avant ATS Après ATS Délai	6146
 Culture Applications	2958
+Current Application Location	11314
 Current Approaches and Lessons	10714
 Custom API	6423
 Customer Facing Applications	10721
@@ -1296,6 +1365,7 @@ DCDT APP	5968
 DE INFORMAÇÃO APLICÁVEIS AOS SERVIÇOS	10755
 DE LA APROBACIÓN DE GASTOS	4209
 DE SECURITE DES SYSTEMES D’INFORMATION Approuvés	1186
+DEFINITIONS OF TELECOMMUNICATIONS CATEGORIES..104 APPENDIX	11262
 DELIBERATIVE PROCESS Appendix	5352
 DEVELOPMENT AND APPROVAL OF BUSINESS RESCUE	3714
 DEVELOPMENT PROJECT APPRAISAL DOCUMENT	10768
@@ -1322,6 +1392,7 @@ Data Sharing Application Form	3815
 Deadline for Submission of Applications	1638
 Dean Bennett Appleby	7198
 Defends NRM Cooperation Deal MTN Apologises	4608
+Defines the Application Programming Interface	11269
 Defining Capabilities and Application Areas	11156
 Defining Objectives and Areas of Application	2958
 Deirdre Appel	6337
@@ -1334,10 +1405,13 @@ Description The April-2026	5660
 Description World Bank Program Appraisal Document	1573
 Desenvolvimento de Aplicacoes	570
 Design API	6432
+Design Applications	11250
 Desktop Application Veriﬁcation Figure	8604
 Details Application	8726
+Details of Appointed Partnership Representative	11276
 Develop API	11133
 Development and Application of AI National AI Strategy	11135
+Device Requirements Applicants	11347
 Diagnosis Approach	10881
 Diagnostic Approach	10881
 Digital Approach	1818
@@ -1362,6 +1436,7 @@ Divert EMS and Dispatch Repository Applica	8603
 Document Approval History Version	2779
 Documents Comprising the Application	1638
 Does POPIA Apply	2724
+Download Collab Citizen App	11251
 Drives the Performance of COVID-19 Tracing Apps	5700
 Duration of Obtaining Building Approvals	2775
 E DOS DIREITOS HUMANOS APOSTA NA	10752
@@ -1371,6 +1446,7 @@ E-Health Application Bandwidth	21
 E-Learning Services Financial Systems Mobile Applications	21
 E. Appointments All	2626
 E. Appui	7977
+E. Timing of Review and Additional Procedures Applicable	11233
 EBRD Approach	1818
 EDUCAUSE Center for Applied Research	9128
 EMF APECCAM	10965
@@ -1393,12 +1469,15 @@ Economia Aplicativo PayPay	5309
 Economic Application	4528
 Economie Appuie	3396
 Ecosystem Approach	5366,5789
+EduSpots App	11306
 Electoral Commission's Mobile App Development IMPORTANT	7266
+Electricity and Energy Appropriation Bill	11272
 Electricité Aperçu	10975
 Electricité Après	10975
 Electricité POOL ASSURANCES Après	10975
 Electronic Commerce Research and Applications	8460
-Eligible Applicants	1638,7434
+Eligibility Requirements Applicants	11347
+Eligible Applicants	1638,7434,2273
 Elsie Appau-Klu	11038
 Elsie Appau-Klu Audio By Carbonatix	11038
 Emergency Number After NEC Approval	7110
@@ -1407,7 +1486,10 @@ Engagement Approaches	7548
 Engagement Investment Applications Figure	396
 English Court of Appeal	8776
 English. Applicants	10252
+Enquiry Appointed	11289
+Enterobacteriaceae. Applicable	11269
 Enterprise-Grade Appliances	9830
+Environmental AI Eligible Applicants	11345
 Equalisation Fund Appropriation Bill	10313
 Equipment Type Approval	10407
 Eric Appah Marfo	11141
@@ -1449,6 +1531,7 @@ FCFA. Après	3396
 FIXED WIRELESS ACCESS APPLICATION FORM	736
 FORM APPLICANT’S DETAILS	2709
 FX Expo International Apple	6894
+Fabiani Appavou Assistant Resident Representative Sujitha	11332
 Facebook Graph APIs	592
 Faculty of Natural and Applied Science	10323
 Family of Apostle Kwadwo Safo Kantanka	7594
@@ -1458,6 +1541,7 @@ Fee Class Application Fee Reciept No	736
 Fees License Type Tenure Application Annual	10407
 Fees Service Type Tenure Application Annual	10407
 Femininos Magistério Primário Núcleos de Apoio	10766
+Film Applications and Registrations	11250
 Financial Application System. Surveillance System	11134
 Financing Instrument Estimated Appraisal Date Estimated	1704
 Finanças. Serviços de Apoio Agrupados	167
@@ -1475,15 +1559,18 @@ Frequency VSAT Very Small Aperture Terminals	6946
 Fundo de Apoio	13,2
 Fundo de Apoio Social	10768
 Future Outlook and Goals Appendix	9103
+Futures Triangle Approach	11265
 Félix-Antoine Tshisekedi Tshilombo. Après	10204
 G Fifth Generation ASPs Application Service	6671
 G Fifth Generation Network ABMT Appropriate	2775
 GABINETE DE APOIO AO CONSELHO	8052
+GATEWAY Program Application Portal	11347
 GDC-submission APC.pdf. Google Scholar Braun	11028
 GDN’s Four Gear Approach	10852
 GEAR APPROACH TO SCALE-UP Drawing	10852
 GENERAL INSTITUTIONAL FRAMEWORK GENERAL APPROACH Countries	1243
 GENERAL MEMBERS’ MEETINGS APPOINTMENT OF DIRECTORS	585
+GIGA Monitoring Dashboard App	11220
 GIYH App	3401
 GOVERNANCE APA	9966
 GSMA Mobile Money API	2633
@@ -1500,6 +1587,8 @@ General Application and Implementation Directive	4583,278,1581,4155
 General Conditions for Application	5864
 General Motors and Apple	4447
 Genomic Applications	10188
+Geographic Approach	11252
+Geographic Approach The EMR	11252
 Get the Punch News App	5800
 Get the Punch News App Read PUNCH	9669,84
 Ghana APPENDICES	236
@@ -1571,6 +1660,7 @@ IFC Collaboration No Expected Approval Date	1284
 II Resilience-based Risk Management Approach	5132
 III. Approfondissement	5928
 IIS Application Pool	10617
+IMPLEMENTATION APPROACH	11196
 IMPLICATIONS AND APPLICATIONS Data	8604
 INRIS API Manager	4378
 INSIDER SUBSCRIPTION APP NEWSLETTERS PODCASTS RADIO	7343
@@ -1610,6 +1700,7 @@ Individual License APPENDIX B LIST	762
 Industrial Court of Appeal	11134
 Industrial Projects Approved	2775
 Industry Applications	6924
+Industry Apr-Jun	11296
 Infolex Consilia ApS KeeeX ContentLens.ai Kolsetu	8530
 Informatikai Kft. Consilia ApS AustriaContent Moss	8530
 Informatique. Après	8721
@@ -1621,6 +1712,7 @@ Integrated Approach	1963,3386,5416,10
 Integrated Community Health APSs	4260
 Integrated Electronic Diagnosis Approach	10881
 Integrated Information System of National Population App	10714
+Integrated and Coordinated Approaches	11285
 International Advisory Body Approves Landmark Report	7199
 International Journal of Computer Applications	9128
 International Journal of Computer Networks and Applications	7278
@@ -1637,6 +1729,7 @@ Ivoire Appoints Djibril Ouattara	4756
 Ivoire Approves FCFA	4071
 Ivoire Approves New Digital Security Framework	2759
 Ivoire Unveils New Self-Service App	5561
+J Annual Reports of Refugee Appeals Authority	11177
 J Programa de Apoyo	4209
 JSON API	7885
 JSON JSON API	9480
@@ -1669,6 +1762,7 @@ Kenya's NSE App	6938
 Kenya's Two-Track Approach Kenya	7786
 Key Events Planned Actual Approval	6579
 Key Feature Application	8604
+Key Information Application Window	11345
 Kigali Africa AI Declaration Apr-2025	6041
 Kit App Huawei HiKnow App HUAWEI	3511
 Kkiapay App Mobile	2312
@@ -1704,6 +1798,7 @@ License Application Conditions and Requirements	762
 Licensing Process Application Submission Testing	5665
 Licensing and Type Approval	6946
 Linguistique Appliquée FDS Forces de Défense	6959
+Load Reduction Eradication Programme. Approximately	11297
 Loud Colors ApS Lrytas M1-AUB	8530
 Luanda. A APD	167
 Luanda. Approximately	10763
@@ -1735,16 +1830,20 @@ MISTT Internet Fundamentals and Popular Apps	11017
 MMS Radio TV Mobile Print Apps	1944
 MOBILE APPLICATION	9485
 MONITORING AND REASSESSMENT Approval	11156
+MONTHS APPOINTMENT OF PUBLIC HEALTH NGO	11252
 MPMEs APECCAM	10965
+MTN App	11259
 MTT AfCFTA AI API BPP CBN	10157
 MULTI-PHASE PROGRAMMATIC APPROACH PROGRAM	6539
 MULTIPHASE PROGRAMMATIC APPROACH INCLUSIVE	3562
 Mach Learn Appl	9739
 Machine Intelligence APET African High-Level Panel	1814
+Machine Learning Approaches	11265
 Malawi University of Business and Applied Sciences	401
 Mali's APDP	3713
 Mali. Après	7926
 Malware Application Insider	1938
+Management Appliance	11209
 Management Approach Material Matters Assurance Finance	11131
 Manager for Application Systems	10812
 Manufacturing Projects Approved	2775
@@ -1860,9 +1959,11 @@ National Appartenir	7767
 National Apprenticeship Programme	7695
 National Coordinator. Appoint	1777
 National Cybersecurity Coordinator. Appoint	1777
+Nature of Appointment	11180
 Network APIs	6593
 Network APIs Commercial Open Gateway APIs	6593
 Network-layer APIs	6593
+News Call For Applications	11327,20
 News Infrastructures Kenya Appoints Consultant	5407,676
 Next Order. APPROVAL OF THE NATIONAL	10313
 Nexus Approach	3023
@@ -1878,6 +1979,7 @@ Nominee for Appointment	10313
 Non-Payment of Successful Grant Applicants	2307
 Norma de Aplicação	10755
 Notice of Appeal	7776
+Nowcasting Satellite Application Facility	11191
 Numbering of Apartment Floors	11129
 Numbering of Apartments	11129
 Não Apenas Contribuintes A Ministra	8003
@@ -1890,10 +1992,14 @@ O Fundo de Apoio	13,2
 O Gabinete de Apoio	167
 OAN. Après	3812
 OBJECTIVES AND APPLICATION	1220
+OBJECTS AND APPLICATION CHAPTER I1 MAXIMISING	11179
+OBJECTS AND APPLICATION Definitions	11179
 OS App Store	5284
 OWASP Application Security Verification Standard	5665
 Objective Preparations for APM27-3	10235
+Occupation Apr-Jun	11296
 Office Application Programming Interface African Union	4528
+Officer Approved	11261
 Online Application	2307
 Online Passport Application	4566
 Online Passport Application System	4566
@@ -1904,16 +2010,18 @@ Open APIs and Protocols	3861
 Open Gateway API	6593
 Open International Market Approach	9603
 Open Web Application Security Project	8439,798
-Open Worldwide Application Security Project	7283
+Open Worldwide Application Security Project	7283,3982
 OpenAI’s API	7208
 Opening of Applications	1638
 Opens Application for Nigerians	8350
+Operational Plan APP Annual Performance Plan	11218
 Operationalising the Approach	10726
 Opportunities Available Applications	9198
 Oracle and Apple	9016
 Order of APIs Reorganised	6423
 Ouagadougou. Après	7279
 Ouverture des Appels	2975
+P0211 Appendices Appendix	11296
 PART APPLIES	3714
 PART APPLIES Political	3714
 PART VI General Provisions Applicable	736
@@ -1945,10 +2053,13 @@ Pan-African Finale. APPLY TODAY UNZA Application	10347
 Par Dounia Ben Mohamed Après	8140
 Parliament Approves Draft Law	5674
 Parliamentary Approval	10313
+Part E Appeal	11181
+Patent Applications	11250
 Patient Synchronised Application Architecture	1009
 Payment of Application and License	10407
 Pays-Bas. La Convention Apostille	9086
 PeeringDB API	9442
+Performance Applicability	11179
 Performance Appraisal	11131
 Personal Apoyo	4209
 Pesa Super App	6350
@@ -1959,6 +2070,7 @@ Phone and Apple Watch	7303
 Pilot Applications	6432
 Plaintes APDP BILAN DE LA DEUXIEME	10821
 Plan Approval Fees	9437
+Plan Approved	11180
 Planned U.S. Commodity Funding Appendix	4153
 Platform APC Article Processing Charge ARC	5246
 Platform-Led Finance Analytical Approach	11138
@@ -1969,6 +2081,8 @@ Policy Implementation Approach African Union AI	7548
 Política de Apoyo	1701
 Portal and App	3594
 Portal and Mobile App	3594
+Posts GRANT-IN-AID Budget Awards Applications	11251
+Posts Liquor Trading Days and Hours Application	11251
 Practical Applications	10776
 Premier League AP Trump	2719
 President Kiir Appoints First Woman	9122
@@ -1979,6 +2093,7 @@ Pretoria For the Applicants	2307
 Pricing Schedule and Appendix B1	7266
 Primary Suppliers Primary Suppliers Not Applicable	1988
 Prior Approvals	3651
+Priority Applicants	11314
 Privacy Design Guidelines for Mobile Application Development	11004
 Private Building Plans Approved and Reported	2775
 Private Sector Approach	10841
@@ -2009,6 +2124,7 @@ Proposed Training and Capacity Building Approach	1988
 Proposed Training and Capacity Building Approach S	1988
 Protection Application Report	7147
 Provide APIs	6423
+Province Apr-Jun	11296
 Provis. Reprov. Sec. Abandonos Aprovados Comparticipada	10766
 Província Aprovação Taxas	10766
 Província Matriculados Aprovados Angola Bengo Benguela	10766
@@ -2018,6 +2134,7 @@ Proyecto de Apoyo	4209,2272
 Prudential Bank Mobile App	8442
 Public Appointments	10313
 Public Procurement Appeals Authority	8616
+Public-Service Delivery AI Eligible Applicants	11345
 Punch News App	5800
 Punch News App. Download	9669,84
 Purpose and Approach	4848,5309
@@ -2028,6 +2145,7 @@ Qualifications Applicants	10060
 Qualified Applicants	7368
 RCZ Research Grant Proposal Appeals System	1554
 RECONSTRUCTION AND DEVELOPMENT Approved	1818
+REFUGEE APPEALS AUTHORITY	11177
 REGIMES ESPECIAIS DE APLICAÇÃO DA IA	3519
 REGULATORY CLASSIFICATION AND APPROVALS	4896
 REPUBLIC OF GHANA Appendix SURVEY	582
@@ -2045,14 +2163,19 @@ Recherche Appliquée LCV Laboratoire Central Vétérinaire	12
 Record of Appeal	8978
 Record of Appeal and Other Matters	8978
 Records of Appeal	8978
+Reference. Applicable	11269
 Reflections Applying	7313
-Refugee Appeals Authority	5533
+Refugee Appeal Board	11177
+Refugee Appeals Authority	5533,5644
+Refugee Appeals Authority of South Africa	11218
 Refugee Appeals Board	2106
 Regime Aplicável	10755
 Regime Jurídico Aplicável	744
 Regional Appeals Committee	11133
 Registry APIs	6423
 Regulated APIs	10719
+Regulations Scope of Application CHAPTER	11255
+Regulatory Approach Risk-based	11268
 Regulatory Approval and Ongoing Monitoring	3861
 Reject Appeal Process Fail Fail Expel	10819
 Rejection and Appeal Process	5665
@@ -2086,6 +2209,7 @@ Right of Appeal Any	3307
 Risk Management Approach The Bank	11134
 Risk-Based Application of Requirements	5665
 Risk-Based Approach	7548
+Roads4U App	11253
 Robert Appelbaum	7051
 Root Mean Square Error of Approximation	4432
 Royal International Global Journal of Advance and Applied	8022
@@ -2093,6 +2217,7 @@ Règle Application Entente	10876
 Réseau Africain APDP BILAN	10821
 SADC Model Law Application PART II	27
 SATELLITE STATION APPLICATION FORM	736
+SCA Supreme Court of Appeal SCM Supply	11198
 SCAN FOR APPENDICES	4126
 SCAN FOR APPENDICES REPUBLIC OF GHANA	4126
 SCOPE OF APPLICATION These Guidelines	10407
@@ -2113,6 +2238,7 @@ SIGMaP Applicables	10876
 SIM Swap and Number Verification APIs	6593
 SMEs Applied	9129
 SOUS-CATEGORIES SCORE RATING APPRECIATION Bilan Transparence	10975
+SOUTH AFRICAN BIDDERS CAN APPLY	11240
 SPACE APPLICATIONS TOWARDS ACHIEVEMENT OF BETA	1131
 SPACE APPLICATIONS TOWARDS ACHIEVEMENT OF SDGS	1131
 SPT App	10865
@@ -2126,12 +2252,13 @@ SUPREMACY CLAUSE APPLICATION	3861
 Safaricom App	7568
 Safaricom Ethiopia. Approval	1135
 Safaricom and Apeiro Limited	10329
+Savings CHAPTER XI1 CYBER INSPECTORS Appointment	11179
 Scaling Core Applications	4528
 Schedule. Application	3714
 School for Applied Technology	7537
 Schreiber's April-2025	4783
 Scope This Appendix	3972
-Scope and Applicability	1652
+Scope and Applicability	1652,9528
 Scope and Applicability Data Domains Covered All	3861
 Scope and Application	5244
 Scope and Application Parts I and IV	10157
@@ -2163,16 +2290,20 @@ Serviços de Apoio Agrupados	4218
 Shambko Apps Group	10001
 Shareholder Approval Required Econet	4896
 Sharing With Fee Class Application Fee	736
-Should Apply	9198,111
+Should Apply	9198,111,2018
 Skills Application	899
 Smart Applications International	10696
 So the API	7885
+Software Applications	11349
 South Africa AI Artificial Intelligence API	5533
 South Africa’s Supreme Court of Appeal	11148
+Special Aggregation Rule Applicable	11233
+Special Appropriation	11285
 Spread of ApplicatioInnsstAituctcioorndoinf	1154
 Spread of Applications	1154
 Standards Institute API Application Programming Interface	10765
 Starlink Approval	7430
+Statistics South Africa Appendix	11286
 Strategic Approach	3840
 Strategic Apps	6432
 Strategic Framework NA Not Applicable NIR	5533
@@ -2189,13 +2320,13 @@ Super Apps	6971,1136
 Supp III Approved	1734
 Supplementary Appropriation	1838,898,3852
 Supplementary Appropriation Act	1838
-Supplementary Appropriation Bill	2736,4051
+Supplementary Appropriation Bill	2736,4051,4502
 Support API	6948
 Support for APIs	11133
 Support for Apple	10032
 Supporting Information S1 Appendix	11028
 Supremacy Clause Application	3861
-Supreme Court of Appeal	2307,2486,31,499,210,854,296,1227,1979,203,247,616
+Supreme Court of Appeal	2307,2486,31,499,210,854,296,1227,1979,203,247,616,226
 Supreme Court of Appeal. GCG	9889
 Supreme Court of Appeal. Legal	10339
 Supérieures Approfondies	8721
@@ -2207,6 +2338,7 @@ TECHNICAL AND SECURITY STANDARDS APPLICABLE	6432
 TERRITORIAL APPLICATION AND EXTRATERRITORIAL REACH	3861
 TF Status Approval IBRD-96930 Effective	6579
 TF Status Approval Signing Effectiveness Orig	2712,1976,2240,949,2993
+TICK APPLICABLE BOX	11240
 TRANSITIONAL PROVISIONS AND TEMPORAL APPLICATION	3861
 TRIBUNAL Establishment of Companies Tribunal Appointment	3714
 TYPE OF APPLICATION	2709
@@ -2217,6 +2349,7 @@ Tax Appeal Tribunal	9972
 Tax Payment Mini App	8102
 Tax Revenue Appeals Act	6921
 Tchadinfos Après	4589
+Tech Startups Across Africa Applications	11327
 Technical Appendix	10840
 Technical Skills Applicants	10060
 Technology Development and Applications	958
@@ -2245,6 +2378,7 @@ Trade Agreement AI Artificial Intelligence APEC	1243
 Trade Finance Approval and Rejection Rates	10718
 Trade Finance Approval and Rejection Rates Banks	10718
 Trade Finance Approval and Rejection Rates Trade	10718
+Trade Mark Applications	11250
 Trade and Investment Approved Operations	10779
 Transfer Restriction. Approval FY2025	2225
 Transitional Provisions and Temporal Application	3861
@@ -2270,7 +2404,7 @@ USE THE OR APPS	11004
 Uganda’s Incremental Approach	4752
 Umelusi App	6759
 Umelusi MTN App	6759
-Unified API	5226
+Unified API	5226,5983
 United Nations SUGGESTED APPROACH TO DRAFTING	3161
 Universal Applicability This Policy	3861
 Upheld Appeal Process Reject Amended Reject	10819
@@ -2293,6 +2427,9 @@ WEBSITES SUPPORT ACCESS APPROVE	11004
 WESTERN AND CENTRAL Estimated Approval Date	3456
 WINDING-UP OF CLOSELY HELD COMPANIES Application	3714
 Watch Meta CEO Mark Zuckerberg Apologises	9404
+Water Use Licence Application	11236
+Water Use License Applications	11236
+Water-Use License Application	11236
 Web Application Attacks	6671,275
 Web Application Attacks System Attacks Mobile	6671
 Web Application Firewall	6432
@@ -2301,12 +2438,15 @@ Western Africa. Approximately	5395
 WhatsApp Appels	10975
 Whole-of-Government Approach I-36	10785
 Whole-of-Government and Whole-of-Society Approach	1777
+Wireless Application Protocol	11179
+Wireless Application Protocol Forum Limited	11179
 Wireless Application Service Provider Association of Nigeria	7600
 Within Shambko Apps Group	10001
 Workflow and Algorithm Services Digital Health Applications	396
 World Bank Approves New Financing	3721
 World Bank Documents API	980
 World Bank Group Approach	10714,292
+World Bank Group Approach. Digital	11310
 World Bank Program Appraisal Document	1693
 World Bank Project Appraisal Document	541,34,1679
 YEAR END PERORMANCE REPORT APPENDICES APPENDIX	3862
@@ -2317,6 +2457,7 @@ Yorùbá’s Apala and Sakara	9739
 Young Africa Appendix	6948
 Youth Apprenticeship and Internship Program	8574
 Youth Apr	2712
+ZETTE.21 APRII. IY9Y	11178
 ZIMBABWE PRIVATE RADIO TRANSCEIVER STATION APPLICATION	736
 Zaina Foundation and APC	7946
 Zambia Approves K255 Million	6201

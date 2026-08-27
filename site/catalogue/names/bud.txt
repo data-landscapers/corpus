@@ -2,12 +2,14 @@ A1 A2 A3 A4 A5 Budget	10965
 A2 A3 A4 A5 Budget	10965
 ACK ST PAULS BUDUMA CDC Data	7167
 AI and Budgetary State Department	7548
+APPs and Budget	11285
 AWPB Annual Work Plan and Budget BIF	1284
 AWPB Annual Work Plan and Budget CAR	10829
 Actions Budgétisées	10913
 Acueil Tchad Budget	4739
 Adequate Annual Budgetary	11129
 Adjusted Budget	750,540,494,1,2,7,3
+Adjustment Budget	11251
 Agencies MFB Ministry of Finance and Budget MFD	3604
 Allocated Budget	1289
 Annual Work Plan PIU Management and Budget	2989
@@ -20,6 +22,7 @@ Axe Résultats Chronogramme Budget	10965
 BN Budget National CDMT Cadre des Dépenses	10712
 BPP Budget	10157
 BUDGET	962,10003
+BUDGET ALLOCATION	11285
 BUDGET ALLOCATION CONTEXT	1810
 BUDGET ANNUEL REVISE	3164,1,1,1,1,1,1,1,1
 BUDGET BY INSTITUTION	1756,1,1,1,1,1,1,1,1,1,1375,1,1,1,1,1,1,1,1,3764,1,1,1,1,1,1,1,1
@@ -30,6 +33,7 @@ BUDGET MENAPLN	10847
 BUDGET PERFORMANCE Actual-	9437
 BUDGET REACTIONS	8723
 BUDGET Raccourcis Le Ministre Composition du Cabinet	1297
+BUDGET VOTE	11285
 BUDGET-CREDIBILITY FINDING	1794,1413,2813,1068
 BUDGET-EXTRACT	1601,1,1,1,1,1,8,1,1,1,1
 BUDGET-EXTRACT.md	1292,244,9,1,511,2313,50,762,2,1
@@ -39,9 +43,11 @@ BUDGETARY CONTROL Budgeting	9437
 BUDGETED	9437
 BUDGETED FAVOURABLE-This	9437
 BUDGETED Favourable	9437
-BUDGETING	9437
+BUDGETING	9437,1756
 BUDGETING AND BUDGETARY CONTROL	9437
+Basic Education Budget	11274
 Benin Cuts Digital Budget	4159
+Bid Windows BQ Budget Quote CCGT	11228
 Billion Birr Additional Budget Addis Ababa	1971
 Billion Birr Supplementary Budget Addis Ababa	1964
 Billion Budget for Digital Transition	4071
@@ -58,7 +64,7 @@ BuddeComm	6244
 Budding	1037
 Buddy Buruku	10977
 BudgIT	5155,190
-Budget	86,123,191,1,162,80,5,50,1,19,4,1,25,17,24,117,45,1,17,186,33,22,41,1,1,1,1,17,1,1,1,6,3,1,1,3,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,4,1,1,2,1,1,1,90,2,79,1,21,2,9,1,9,6,1,2,12,18,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,42,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,4,2,46,1,1,1,1,22,1,1,1,1,1,1,1,1,1,11,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,9,4,12,6,6,1,31,52,12,1,1,1,1,1,1,1,5,10,3,6,27,5,3,6,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,4,1,1,1,1,1,1,1,1,1,10,1,1,1,1,1,1,1,1,1,1,1,1,44,13,1,16,124,180,1,1,1,1,1,5,84,65,11,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,85,69,32,50,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,54,3,1,1,1,1,5,18,56,19,17,42,1,16,1,1,1,1,1,1,1,1,15,1,1,1,1,1,1,1,1,1,29,1,1,1,1,1,1,1,1,1,46,126,14,10,177,21,2,32,27,11,1,29,9,4,97,20,10,1,14,106,27,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,42,11,1,21,4,30,20,1,1,1,1,1,1,8,61,1,18,55,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,18,1,21,7,1,1,1,1,1,1,4,4,1,4,1,1,1,4,1,1,8,1,1,1,1,1,1,1,1,1,1,1,1,2,34,1,1,7,17,1,1,1,1,1,1,1,1,1,16,1,1,1,1,1,8,12,26,13,1,1,1,1,1,10,1,1,1,19,38,1,1,1,1,1,4,49,8,17,12,131,60,66,25,25,5,12,16,24,74,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,4,39,12,139,59,14,62,98,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,1,152,1,15,27,10,41,113,1,112,127,56,106,6,1,1,1,25,57,11,24,38,1,18,70,19,48,8,7,15,60,64,5,11,1,1,1,1,1,1,1,1,23,68,71,1,1,1,1,1,1,1,1,70,62,22,19,33,69,176,7,122,10,15,105,37,48,16,52,25,16,33,37,99,33,503,24,76,92,271,136,127,12,485,350,228,8,9,76,40,75,4,9,91,58,4,2,1,23,2,14,5,16,28,10,10,20,12,114,3,2,10
+Budget	86,123,191,1,162,80,5,50,1,19,4,1,25,17,24,117,45,1,17,186,33,22,41,1,1,1,1,17,1,1,1,6,3,1,1,3,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,4,1,1,2,1,1,1,90,2,79,1,21,2,9,1,9,6,1,2,12,18,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,42,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,4,2,46,1,1,1,1,22,1,1,1,1,1,1,1,1,1,11,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,9,4,12,6,6,1,31,52,12,1,1,1,1,1,1,1,5,10,3,6,27,5,3,6,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,4,1,1,1,1,1,1,1,1,1,10,1,1,1,1,1,1,1,1,1,1,1,1,44,13,1,16,124,180,1,1,1,1,1,5,84,65,11,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,85,69,32,50,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,54,3,1,1,1,1,5,18,56,19,17,42,1,16,1,1,1,1,1,1,1,1,15,1,1,1,1,1,1,1,1,1,29,1,1,1,1,1,1,1,1,1,46,126,14,10,177,21,2,32,27,11,1,29,9,4,97,20,10,1,14,106,27,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,42,11,1,21,4,30,20,1,1,1,1,1,1,8,61,1,18,55,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,18,1,21,7,1,1,1,1,1,1,4,4,1,4,1,1,1,4,1,1,8,1,1,1,1,1,1,1,1,1,1,1,1,2,34,1,1,7,17,1,1,1,1,1,1,1,1,1,16,1,1,1,1,1,8,12,26,13,1,1,1,1,1,10,1,1,1,19,38,1,1,1,1,1,4,49,8,17,12,131,60,66,25,25,5,12,16,24,74,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,4,39,12,139,59,14,62,98,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,1,152,1,15,27,10,41,113,1,112,127,56,106,6,1,1,1,25,57,11,24,38,1,18,70,19,48,8,7,15,60,64,5,11,1,1,1,1,1,1,1,1,23,68,71,1,1,1,1,1,1,1,1,70,62,22,19,33,69,176,7,122,10,15,105,37,48,16,52,25,16,33,37,99,33,503,24,76,92,271,136,127,12,485,350,228,8,9,76,40,75,4,9,91,58,4,2,1,23,2,14,5,16,28,10,10,20,12,114,3,2,10,69,41,5,13,15
 Budget Allocation Reported Expenditure	3583
 Budget Allocation Reported Expenditure Legal	3583
 Budget Allocation Reported Expenditure Regional	3583
@@ -73,6 +79,7 @@ Budget Controls	6432
 Budget Cuts Mean for Kenyans	2428
 Budget DGFD Direction	10712
 Budget DRT	10975
+Budget Day	11193
 Budget ETAT	10847
 Budget EUR	256,384,2,442,1
 Budget Education	10847
@@ -81,6 +88,8 @@ Budget Etat	10874
 Budget Execution	1756,1,1,1,1,1,1,1,1,1
 Budget Execution Report	1756,1,1,1,1,1,1,1,1,1
 Budget Experts Chronologie	10880
+Budget Facility for Infrastructure	11248,41
+Budget Facility for Infrastructure The BFI	11248
 Budget Funding	395
 Budget Funding US	395
 Budget Général	1270
@@ -91,6 +100,7 @@ Budget Laws	1829
 Budget Literacy Is Not the Core Problem	8013
 Budget MINISTÈRES	10965
 Budget MIOS Minimum Information Interoperability Standards	5533
+Budget Management	11231
 Budget National	1281
 Budget National. Article	4420
 Budget National. PFC-MTFP	1281
@@ -99,7 +109,11 @@ Budget Ouvert	6500,250
 Budget Performance	2527
 Budget Policy Statement	5108
 Budget Principaux Stratégique	10965
+Budget Prioritisation Framework	11193,31
 Budget Process	7831
+Budget Process National Treasury	11289
+Budget Process Review	11289
+Budget Quote	11228
 Budget Reporting and Control Stores Accounts Payable	9437
 Budget Review	5199
 Budget Speech	1660,1,1,1,1,1,1,1,1,1,1,1,1,1,1,742,221,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,728,1010,540,759,2154
@@ -113,7 +127,8 @@ Budget Technologies	7548
 Budget Treasury	7548
 Budget US	3339
 Budget Variance Analysis	9437
-Budget Vote	1810,1454,2888,904
+Budget Vote	1810,1454,2888,904,4159,57,5,12
+Budget Vote Honourable House Chairperson Chairperson	11277
 Budget Vote Speech	3200,64,2932
 Budget Vote Speech. National Treasury	4667
 Budget Watch	1835
@@ -142,16 +157,21 @@ Budget-de-l'Etat	1776
 Budget. Ce	7994
 Budget. Il	3638
 Budget. Le PNUD	1684
+Budget. The Department	11224
 Budgetary	789,151,2643,7176,76,2,1,74,56
 Budgetary Central Government	2775
 Budgetary Control	9437
 Budgetary Ministry	7548
+Budgetary Review and Recommendation Report	11230
+Budgetary Review and Recommendations Report	11230
 Budgetary State Department	7548
 Budgetary Treasury	7548
 Budgeted Expenditure	10870
-Budgeting	1867,1737,5833,1331,249
+Budgeting	1867,1737,5833,1331,249,176
 Budgeting System The Government of Mozambique	4260
+Budgeting TOC Theory of Change GRPB Gender	11193
 Budgets	1382,9623
+Budgets and Finance Arrangements	11193
 Budgit Foundation’s	10093
 Budgétisation	10965
 Budhathoki	2096
@@ -161,11 +181,13 @@ Business Budget Business	9067
 CABO VERDEAN BUDGET	4410
 CEDEAO COMMUNITY MTEF COMMUNITY BUDGET	6422
 Capital Budget	11136
+Cashflow Budget	11209
 Central African Republic Ministry of Finance and Budget	4127
 Commissioner for Budget and Planning Mr Kingsley Anosike	5072
 Community Budget	6422
 Comparison of National Government Budget Estimates	2775
 Compte Administratif. Budgétisation	10975
+Consider the Budget Votes	11230
 Contribution Budgétaire	4155,1,1,1,1,1
 Controller of Budget	2742,2392,1454,208,2153,990
 Convenção de Budapest. Os	2816
@@ -178,6 +200,7 @@ DU BUDGET DE L'ETAT	3396
 DU BUDGET DE L’ETAT	3396
 DU BUDGET ET DU SECTEUR BANCAIRE	4645
 Dedicated Cloud Budget Lines	10157
+Delivering the Home Affairs Budget Vote Debate	11274
 Departments Affected By Supplementary Budget	2428
 Description BudgIT	5155,190
 Despite Budget Constraints	965,3804,120,206,68,334,86
@@ -191,6 +214,7 @@ Directorate-General for Budget	10856
 Discipline Budgétaire	8750
 Distribution and Access Project. Budget	1538
 Domestic Revenue Mobilisation Strategy Annual Budget	3307
+Draft Budget and Related Policies	11251
 Détail du Budget Général	1301,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,709,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2262,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
 E.C. Budget Year Federal Government Budget	3201,1,1,1,1,1,1,1,1,1,3872,1,1,1,1,1,1,1,1
 ECOWAS Community Budget	6422
@@ -202,6 +226,7 @@ EXECUTION DU BUDGET	998
 EXPENDITURE BUDGET PERFORMANCE	5655
 Elaboration du Budget	4870
 Elaboration du Budget Annuel	10876
+Electricity and Energy Dept Budget Vote	11215
 Emerging Budget	7548
 Emerging Technologies Budgetary Service	7548
 Enacted Budget	6463
@@ -227,6 +252,8 @@ Financial Resources and Budgetary Allocation	3861
 Financière Budget Renvoie	10876
 Fiscal and Budget Decentralization	10775
 Fourth Quarter Federal Budget Vs Expenditure	1784,1,2,7,3
+Gender Responsive Budgeting	11193
+Gender-Responsive Budgeting	11193
 General State Budget	6694
 GoK Budget B1- Value of NIF	7548
 Government Accounting and Budgeting System	2576
@@ -275,9 +302,11 @@ MFB Ministry of Finance and Budget	969
 MICDE Budget National	7548
 MICDE Budget Treasury	7548
 MINISTÈRE DES FINANCES DU BUDGET ET	3715
+MTEF Medium-Term Expenditure WBI Women’s Budget	11193
 Mc Hungary Europe Eastern Europe Budapest	10840
 Measures Indicator Responsib Budget Procurement Purchase	1988
-Medium-Term Budget Policy Statement	4667
+Medium Term Budget Policy Statement	11285
+Medium-Term Budget Policy Statement	4667,6563
 Medium-Term Budget Preparation Process	7831
 Member for Budalang’i	10313
 Microsoft Form. Budget and CV	9630
@@ -301,6 +330,7 @@ Ministry of Finance and Budget	969,12,2623
 Ministry of Finance's Programme-Based Budget	4491
 Ministère du Budget	3024,1133,241,22
 N TRAINING MODE OF ASSUMPTION BUDGET	1988
+NATIONAL BUDGET ALLOCATION	11285
 NCOP Plenary. The Budget	3200
 National Budget	940,344,2817,1146,5884,3
 National Budget Policy Statement	5851
@@ -324,14 +354,21 @@ Over Budget	6588
 PAENS. Rising Budget Allocation	5056
 PART DANS LE BUDGET GLOBAL AXE	10965
 PILLARS Budget Funding	395
+PROCESSES Municipal Budgets	11231
 PROGRAMMATION BUDGETAIRE Accélération	10858
 PROPORTION DU STRATEGIQUES BUDGET PAR AXE	10965
+PROVINCIAL BUDGET ALLOCATION	11285
 Parallel Budget Across	6588
 Parliamentary Budget Office	6463
 Penn Wharton Budget Model	11140
 Post Budget Seminar	11131
 Post Budget Seminar Hosted the Post Budget	11131
 Post Budget Seminar. CBE	11134
+Posts Adjustment Budget	11251
+Posts Budget In Year Reporting	11251
+Posts Budget Time Schedules	11251
+Posts Draft Budget and Related Policies	11251
+Posts GRANT-IN-AID Budget Awards Applications	11251
 Pour la Directrice du Pôle Budget	8196
 Power Problem Nobody Budgets	7208
 Pro-Growth National Budget	11131
@@ -349,6 +386,7 @@ Recurrent Budget Book	6431
 Regional State Budget	5655
 Regulation and Standards Strategic Project Budget Funding	395
 Resources Institute IBP International Budget Partnership	10835,3,130
+Responsive Planning UN United Nations and Budgeting	11193
 Revenue Composition Direct Budget Support	5655
 Revenue Mobilisation Budgetary	10759,78
 RÉPARTITION DES DÉPENSES DU BUDGET	2476
@@ -366,8 +404,10 @@ Selected Debt Service Components and Budget Funding	1828
 Service du Budget Production SDFC	10975
 Somali Integrated Household Budget Survey	3586,505
 Somalia Integrated Household Budget Survey	8456
+South Africa. This Budget Vote	11272
 South Sudan National Budget Analysis Report	3583
 State Budget	5841,186
+State Security Agency Dept Budget Vote	11277
 Supplementary Budget II	2428
 Supplementary Budget Proclamation No	1784,1,2,10
 Système Statistique National Budget Etat	10874
@@ -381,7 +421,10 @@ Transmission Backbone Project. Budget	1539
 Trillion Birr Budget	3176
 Trillion Birr Budget for Upcoming Ethiopian Fiscal	1798
 Trillion Birr Federal Budget	7091
+UNDP United Nations Development Budgeting	11193
 Vashish Kiranchand Sookrah Le Budget	7994
+Women’s Budget Initiative	11193
+Women’s Budget Initiative Among	11193
 Work Plan and Budget BPO Build	1264
 YEAR BUDGET IMPLEMENTATION REVIEW	5655
 YTD YTD Budget YTD Actual Estimate	6422

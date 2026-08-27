@@ -65,7 +65,10 @@ Bertha Phiri	5595
 Bindura All Care Pharmacy Diagnostics Virtual	9429
 Bloomberg Philanthropies Date for Health Initiative. Per	10972
 Board Phil Mnisi	11134
+BrainSAT Satellite Services and Thuraya Satellite Phones	11290
 Business Growth and Innovation Phase	9198
+Business Physical Address Details	11276
+Business Processes Automation Phase	11231
 CAJWA PHARMACEUTICAL AND MEDICAL CENTER LTD	7167
 CAREERSIGHT BY PHYLLIS WAKIAGA Data Controller	7167
 CAREERSIGHT BY PHYLLIS WAKIAGA Data Processor	7167
@@ -89,6 +92,7 @@ Cameroon Phone	10980
 Canadian Association of Nigerian Physicians and Dentists	7895
 Capacity Building Phase	395
 Cell Phone Repairs	1810
+Cellular and Landline Phone	11211,51
 Central Bank Governor Dr Phil Mnisi	7802
 Central Bank of Eswatini Governor Dr Phil	4173,3629
 Central Committee of Sudanese Pharmacists	10334
@@ -134,6 +138,7 @@ DRC FIBRE PHASE	253,598
 Definitions FEATURE PHONE OWNER	11004
 Deliver Phase	8726
 Demand-Driven Phased Rollout	4528
+Department of Land Reform and Rural Development Physical	11261
 Deployment Phase	5665
 Description Phase	653,754
 Description Phase II of Digital Earth Africa	345
@@ -166,6 +171,7 @@ Draft Physical Agents Regulations	1009
 Drafting Phase	5853
 Drafting Phase II Bylaws Revisions and Resolutions	5853
 Drive Digital Transformation By Phiwa Sikhondze	2292
+E Phyfer	11285
 E-Governance Project. Phase	181
 E-Government Infrastructure Phase V Export-Import Bank	1150
 E-Government Infrastructure Project Phase V	1283
@@ -200,11 +206,13 @@ Federal Secretariat Phase Ill FCT	4301
 Female Basic Phone Smartphone Feature Phone	582
 Financing Phase	6539
 Follows Phase	355
+Fraction of Photosynthetically Active Radiation	11334
 Fully Digital Platform for Pharmaceutical Imports	5076
 Functional Mobile Phone	582
 Fund Integrated Food Security Phase Classification	11136
 Future Productivity Growth . Philadelphia	11140
 GA4GH Phenopacket	10188
+GENERAL INFORMATION PHYSICAL ADDRESS	11218
 GHA MAR PHP IDN KEN0 Coefficient	7655
 GILL GRAY PHILANTHROPY RWANDA Data Controller	7167
 GOVERNANCE Dr. Phil Mnisi Governor and Chairman	11131
@@ -218,6 +226,7 @@ Ghana. Mobile Phone	582
 Ghanaian PhD	10143
 Giga Global School Connectivity Initiative Phase	502
 Giga Phase	953
+Gmail and Google Photos	11324
 Good Financial Governance Phase	1462
 Good Pharmacy Practice	9855
 Good Pharmacy Practices	10776
@@ -314,6 +323,7 @@ Komlan Philippe	8303
 Kouamé Philippe	3402,885,1452
 Kunene Deputy Governor Phil Mnisi	11131
 LA PERSONNE PHYSIQUE Article	10813
+Land Reform and Rural Development Physical	11197
 Liberia College of Physicians and Surgeons	4202
 Library Philosophy and Practice	1248,6774
 Licensed Pharmacy Premises	9855
@@ -325,6 +335,8 @@ M Facility Signals New Phase	6397
 M Phase	5879
 M. Kouamé Philippe	3376
 M230000001713941 PHARMACIE MAVRE PHARMACIE MAVRE Article	7346
+MANAGEMENT Phase	11231
+MOBILE CELLULAR PHONE DATA SUBSCRIPTIONS	11211,51
 MPCC Member Dr. Phil Mnisi	11131
 MPI Electronic Master Patient Index PHISCs	396
 MPSS Minimum Physical Security Standards MTDP	5533
@@ -336,14 +348,17 @@ MW. Phase	3186
 Maintenance Phase	5665
 Male Basic Phone Feature Phone Smartphone	582
 Malunga Phiri	8575
+Maluti TVET College Phuthaditjhaba Campus	11343
 Managing Director Wisely Phiri	6032
 Manny Pham	9788
 Mantoe Phakathi	1953
 Mashwama Dr. Phil Mnisi Mr. Vusi	11131
 Masters and PhD	396
+MauStats Phase	11332
 Mbps. Phomane	3149
 Methods Phenomenological	1219
 Mheshimiwa Deodatus Philip Mwanyika	6019
+Microsoft M365 E5 Phase	11231
 Microsoft and Google. Phase	3155,31
 Middle E- Physical	582
 Mkhondvo-Ngwavuma Water Augmentation Project Phase	11131
@@ -356,6 +371,7 @@ Mobile Phone Ownership Increases Poor Women	11017
 Mobile Phone Smartphones	2776
 Mobile Phones Man Arrested for Allegedly Impersonating	3955
 Mobile Price Benchmarking Mobile Phone Ownership	1944
+Mogalakwena. Phase	11248
 Monitoring Locations Incident Response Processes Physical	6432
 Morocco and Philippines	6692
 Mr. Philip Kwaw Sebuabe	8697
@@ -388,11 +404,16 @@ National Registry of Physical Persons	3852
 Next Phase of Digital Inclusion Requires	9120
 Nigeria PHC	771
 Ninampongeza Mheshimiwa Dkt. Philip Isdor Mpango	2868
+Northern Cape Only Cellular Phone	11211
 Ntsima. PIC PHATSIMO KAPENG The Minister	3981
 ONLY FUNCTIONAL PHONES	582
 OTC Over-the-Counter PPB Pharmacy and Poisons Board	9855
+OVERVIEW OF PROGRESS Operation Vulindlela Phase	11236
 Oct-2030. Part of Phase	2254
 Offer PhD	958
+Olifants Management Model Programme Phase	11248
+Only Cellular Phone	11262
+Only Landline Phone	11211,51
 Operation Vulindlela Phase	9250
 Operation Vulindlela Phase II	3741,4859
 Operation Vulindlela Phase II Q1	8779
@@ -418,8 +439,9 @@ PHASAO	8051,2807,16,1
 PHASAO and PHASAOC	8532
 PHASAO. Il	10874
 PHASAOC	7675,376,1374,1075,8,18,518
-PHASE	899,62,2643,7552
+PHASE	899,62,2643,7552,95
 PHASE CHARACTERISTICS TYPICAL STRATEGIES Phase	6432
+PHASE II	11236
 PHASE II Av. Amílcar Cabral	8166
 PHASE II PROJECT	2466
 PHASE Operation ID	3604
@@ -447,15 +469,19 @@ PHONE DOES	11004
 PHONE NO	2709
 PHONE. THAT'S	10977
 PHPIDN0 Coefficient	7655
+PHSHDA	11224
 PHYLIP	9475
 PHYLogeny Inference Package	9475
-PHYSICAL ADDRESS	2709
+PHYSICAL ADDRESS	2709,8515
+PHYSICAL ADDRESSES IN DATABASE	11211
 PHYSIQUE	3381
 PHYSIQUES Article	10813
 PHroigdhuecrt-iloenveslecintodri.ces	11152
 PIX Captures One-Third of Brazil's Physical Retail	5691
 PNCR Phase II	3569
 POS and ATM Switching Phase	11134
+PREPAID AND POST-PAID MOBILE CELLULAR PHONE	11211
+PREPAID AND POSTPAID MOBILE CELLULAR PHONE	11262
 PROJECT AS PHASE III UNDER	6539
 PROVIDE AND MANAGE DELIVERY CHAIN PHASE	11156
 PSK Pharmaceutical Society of Kenya QMS Quality	9855
@@ -471,16 +497,18 @@ PhD-level Artificial Intelligence	5871
 PhDs and Masters	1204
 Phaco-E	11123
 Phakalane	2916
+Phakamani Primary School	11281
 Phalombe and Rumphi. Lessons	446
 Phan Truong Son	5292
 Phan& Phan	8606
+Phandle	11260
 Phannacists and Pharmacy Technicians-dispensing	4301
 PhantomStealer and Vidar. AgentTesla	9830
 Pharaohs	6788
 Phare Coworking	8894
 PharmAccess	186,647,10300
 Pharma	7297,2239
-Pharmaceutical	1988,1873,3590,2509
+Pharmaceutical	1988,1873,3590,2509,1298
 Pharmaceutical Ingredients for Africa	9333
 Pharmaceutical Policy	10776
 Pharmaceutical Society of Kenya	9855
@@ -512,11 +540,11 @@ Pharmacy Technicians U.S. Mozambique Mozambique M	4260
 Pharmacy Workers Year U.S. Government	4153
 Pharmacy and Poisons	9855
 Pharmacy and Poisons Act	2709,7145,1
-Pharmacy and Poisons Board	2709,1444,5701,1,1309
-Phase	51,3,1,3,1,1,46,16,4,1,54,1,3,5,3,1,6,8,20,1,15,1,2,10,3,26,14,2,1,9,4,1,20,2,3,16,2,2,1,32,25,1,38,43,4,45,1,1,1,45,37,9,1,1,3,3,5,30,1,26,77,13,1,52,41,60,2,8,36,14,70,65,63,47,25,42,58,21,154,32,17,26,10,54,1,42,21,10,33,4,82,92,139,43,1,134,37,21,164,99,155,46,75,156,14,19,41,30,25,33,363,21,10,64,102,82,666,20,300,59,36,251,5,48,36,44,101,105,143,48,21,1,34,13,62,38,4,132,16,130,257,10,97,126,272,26,197,49,325,12,43,332,42,55,251,251,86,32,32,56,81,10,271,273,273,125,22,376,160,221,47,127,104,6,54,94,10,17,134,2,1,2
+Pharmacy and Poisons Board	2709,1444,5701,1,1309,104
+Phase	51,3,1,3,1,1,46,16,4,1,54,1,3,5,3,1,6,8,20,1,15,1,2,10,3,26,14,2,1,9,4,1,20,2,3,16,2,2,1,32,25,1,38,43,4,45,1,1,1,45,37,9,1,1,3,3,5,30,1,26,77,13,1,52,41,60,2,8,36,14,70,65,63,47,25,42,58,21,154,32,17,26,10,54,1,42,21,10,33,4,82,92,139,43,1,134,37,21,164,99,155,46,75,156,14,19,41,30,25,33,363,21,10,64,102,82,666,20,300,59,36,251,5,48,36,44,101,105,143,48,21,1,34,13,62,38,4,132,16,130,257,10,97,126,272,26,197,49,325,12,43,332,42,55,251,251,86,32,32,56,81,10,271,273,273,125,22,376,160,221,47,127,104,6,54,94,10,17,134,2,1,2,73,11,16,9,3,84,2,7
 Phase Action Responsable Constitution Création	10876
 Phase Approval FY Indicative	1264
-Phase B	520,65,848,317,97,23,30,87,12,23,208,1106,74,449,1921,1166,35,186,285,742,160,70,166,37,40,254,119,193,339,20,1542
+Phase B	520,65,848,317,97,23,30,87,12,23,208,1106,74,2370,1166,35,471,742,160,70,166,37,40,254,312,339,1562
 Phase B. Cleared	2668
 Phase Durée	10876
 Phase I	302
@@ -525,6 +553,7 @@ Phase I Subject	122
 Phase I The African Development Bank	792,6368
 Phase I and Phase II	128,6818
 Phase I of Malawi National Fibre Backbone	127
+Phase I of Operation Vulindlela	11236
 Phase I of Smart Zambia National ICT	59
 Phase I. Representatives	7963
 Phase II	109,84,1,289,416,62,98,95,260,118,22,260,432,4,1471,964,991,179,38,136,1515,165,254,203,433,1048,1194,13,277,18
@@ -621,6 +650,7 @@ Philip Amoateng	10249
 Philip Bangura	9765
 Philip Besiimire	5715,4963
 Philip Blenkinsop	8596
+Philip Blignaut SITA DCDT	11254
 Philip Chen	9128
 Philip Muturi Mwawingwa Gituri Clinic	7167
 Philip Myburgh Executive Sponsor	5247
@@ -715,12 +745,17 @@ Photos By Aloysious Kasoma	4235
 Photos Vidéos Audio Agenda	3675
 Photos Vidéos Audios Agenda	3675
 Photos Vidéos Autres	4895
+Photos and Gmail	11301
 Photoshop	10702
-Photovoltaic	5948
+Photovoltaic	5948,5321
+Photovoltaic Earth-Fault Protection Equipment	11269
+Photovoltaic RE Renewable Energy REIPPP Renewable	11228
 Photovoltaïque	10975
 Photovoltaïque de BOUNDIALI	2342
 Phrank Shaibu	9400
+Phrase Explanation Acts	11188
 Phrase Lubega	9102,121
+Phuhliso	11260
 Phumezo Ntlatywa	10323
 Phuthi Mahanyele-Dabengwa	10212
 Phydelia Abbas	7027
@@ -730,12 +765,14 @@ Phyllis	5875
 Phyllis BiroriJohannesburg	3697,1687,800
 Phyllis Kyomuhendo	5875
 Phyllis Wakiaga	9930
-Physical	21,715,487,591,174,3677,14,21,563,803,405,77,1425,10,140,939,533,126,54,1,218
+Physical	21,715,487,591,174,3677,14,21,563,803,405,77,1425,10,140,939,533,126,54,1,218,186,8,81,20,21
 Physical Access Management	10721
 Physical Address	736,1141
+Physical Address Details	11276
 Physical Address Telephone No. Contact Person	736
 Physical Addressing	11129
 Physical Annual Emerging Technologies Technologies	7548
+Physical Barrier	11180
 Physical Controls Basic	21
 Physical Energy Flow Accounts	2775
 Physical Energy Supply Table	2775
@@ -757,6 +794,7 @@ Physical Protection	10721
 Physical Security	3861
 Physical Security Cloud	9123
 Physical Security Network and Infrastructure Security	9123
+Physical Security Standards MTSF Medium Term	11218
 Physical Security Standards and Guidelines	34
 Physical Smart ID Cards and QR-Based Credentials	5533,58
 Physical State. Quantity of Quantity	1988
@@ -796,13 +834,16 @@ Professor Philemon Zoo Zame	2705
 Professor Philip Treleaven	1246
 Professor Philémon Zoo Zame	4562,596
 Programme Alimentaire Mondial PHASAO	10874
+Programme. Phase	11334
 Project Phase	2889,8245
 Project- Phase	3604
 Public PHC	771
 Public Security Project Phase	645
+Q3 REPORT PHASE II	11236
 QUELQUES PHOTOS DES ATELIERS TECHNIQUES Atelier	10712
 Quatrième Phase du Programme Régional	743
 REFERENCES International Pharmaceutical Federation	9855
+REPORT PHASE II	11236
 RGPH-4. CAP SUR LA QUATRIEME PHASE	9277
 RSTP Phase	688
 Radio Phoenix FM	5247
@@ -813,6 +854,7 @@ Rationale for Revision The Pharmacy and Poisons Board	9855
 Recording the PHC	771
 Refining the Philippine AI Regulation Act	8991
 Reform Program Phase II	2127
+Reforms PROGRESS Q3 REPORT PHASE II	11236
 Regional Communications Infrastructure Program Phase	107
 Regional Pharmaceutical Sector Development	7020
 Registre National des Personnes Physiques	2623,135,551,78,217,1874,612,3547,1,1183,117
@@ -830,7 +872,7 @@ Rockefeller Philanthropy Advisors	71,3,56,10,129,101,114,1,382
 Role-modelling Bhutan China Brunei Darussalam Philippines	10764
 Rwanda Phone	9892,1
 République Personnes Physiques	10821
-SA Connect Phase	1289,324,197,1092,712,1594
+SA Connect Phase	1289,324,197,1092,712,1594,6022,18
 SGCI Phase II	1554
 SGCI Phase II. Early	1554
 SMS. Feature Phones	2776
@@ -860,6 +902,7 @@ Social Theory and Philosophy for Information Systems	5349
 Solutions and Services for Carrier Phones	3511
 Somalia Phase II World Bank Group	109
 Sonatel Wholesale and International The Phase	2827
+South Africa Physical	11224
 South African Pharmacy Council	396
 South African Pharmacy Council ITU International	396
 Standardised XML Phase	8606
@@ -870,6 +913,7 @@ Stored for Phase	8606
 Strategic Foundation and Governance Philosophy Zimbabwe	4528
 Strategic Plan for Pharmaceutical Logistics	4260
 Strengthening Africa's Science Granting Councils Phase	862
+Structural Reforms PROGRESS Q3 REPORT PHASE	11236
 Suame Interchange Phase	8896
 Suame Interchange Phase II	7695
 Superintendent Pharmacist	9855
@@ -895,9 +939,11 @@ Themba Busika Financial Stability Phetsile Khumalo	11131,3
 Theme Communicate Phone	8603
 Third Phase	2195
 Thuraya Satellite Phone and BrainSAT Satellite Services	6980
+Thuraya Satellite Phones and BrainSAT Satellite Services	11290
 Tina George and Phillippe Leite. World Bank	11133
 Tobacco Pharma	4972
 Tridentity-based DRCPass. Phased	3094
+Trusted Employer Scheme Phase II	11264
 Tudun Wada PHC	4794
 UHC Phase	10970
 UK PhD	8896
@@ -905,6 +951,7 @@ UPI. PhonePe	5124
 USAGE OF MOBILE PHONE	582
 USAID. Photograph	5162
 USG Nurses Pharmacy Technicians G2Gsupported Frontline	4260
+UVI54410 Pharmaceutical	11258
 Under Digital Malawi Phase	1704
 Under Phase II	6946
 UniPods. Phase	1564

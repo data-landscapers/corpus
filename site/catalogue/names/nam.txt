@@ -16,6 +16,7 @@ Act Business Names	3714
 Action Proposed Component Name No Change	1228
 Admissible. NAM	7109
 Advance Passenger Information and Passenger Name Record	4275,6448
+Africa MoU Memorandum of Understanding NAMFISA Namibian	11198
 Africa Namibia’s ICT	1013
 Africa. MTC Namibia and Botswana Fibre Networks	5066
 Africa. Namibia	4980
@@ -48,7 +49,6 @@ Bank of Namibia's Currency and Banking Operations Department	5254
 Bank of Namibia's Instant Payment Programme	8251
 Bank of Namibia’s Currency Management and Banking Operations	8252
 Bank of Namibia’s National Payment System	10306
-Beira and Nampula	1808
 Biometric Update Namibia	3017,163
 BoN and Namibia Statistics Agency	8248
 Boma Lathu. Shadric Namalomba	6592
@@ -81,6 +81,7 @@ Capital Name of Director	4896
 Central African Republic. Components Component Name	10829
 Certificate of Origin Name	1988
 Challenges Despite Namibia	5036
+Chapter CHAPTER X DOMAIN NAME AUTHORITY	11179
 Charles Gichira. Hon. John Namoit	10313
 City Data Centre Name Data Centre	6432
 CityMender Namibia	9952
@@ -92,6 +93,7 @@ Client Information Name of Controller	1877
 Client Information Name of Data Controller	1877
 Client Information Name of Fax Number Applicant	736
 Closing Period Indicator Name Value Month	2712,1976,3189
+Codes for Representation of Names of Countries	11179
 Colonel-major Mamadou Namballa TRAORE. AU TITRE	8237
 Committee Meetings Committee Name National Research	1154
 Communication Regulatory Authority of Namibia	2588,5039,623
@@ -138,7 +140,7 @@ Digitalization of Street Naming Address Maps	11129
 Digitalized Namibia	4980
 Does NAME	582
 Domain Name Administration	6946
-Domain Name Authority	8435,166
+Domain Name Authority	8435,166,2578
 Domain Name System	958,33,3219,2936,283
 Domain Name System DSTV	958
 Domain Name System Security Extensions	1036,3174,6554
@@ -151,6 +153,7 @@ Electoral Commission of Namibia	1981
 Electronic Transactions Act. Namibia	10651
 Elements of Address Type Title First Name	11129
 Enter Name of Driver	1988
+Entity Name Self-funded	11230
 Equatorial Guinea and Namibia	9162
 Equinix West Africa. Named	3859
 Errors Cross-Check Result Name Yes Alpha	3861
@@ -159,9 +162,11 @@ Eswatini and Namibia	5263
 Eugenia Moche Namibia's N	8970
 Every Namibian	8005
 F25 Viet Nam	10714
-FULL NAME	2709
+FULL NAME	2709,8531
+FULL NAME OF AUTHORISED REPRESENTATIVE	11240
 Facilit8 Namibia	7628
 Failed Namibia	6825
+Farm Name	11276
 Financial Intelligence Centre of Namibia	3714
 Forefront of Environmental Action Across UNDP Namibia	9873
 Founder of CityMender. CityMender Namibia	9952
@@ -229,7 +234,7 @@ Institution Name Institution Identifier C319 SCHEDULE	5687
 Instruments Namibia Namibia Nigeria Nigeria Rwanda	6938
 Intermediate Results Indicators Indicator Name Definition	10829,135
 International Non-proprietary Name	9855
-Internet Corporation for Assigned Names and Numbers	3503,3743,3573
+Internet Corporation for Assigned Names and Numbers	3503,3743,3573,360
 Internet Society of Namibia	1928
 Investments Named DPI	3859
 Israel Nambi	10765,10
@@ -270,6 +275,7 @@ Luanda Namibe TATIANA ULICA DA SILVA	10751
 Lunda Norte and Namibe. SMS	8475
 Lunda Sul Malanje Moxico Namibe Uíge	10766
 M NAME	582
+MANDATORY INFORMATION NAMELY	11240
 MENA. Named	10913
 MTC Namibia	3634,1228,453
 MTC Namibia and BoFiNet Sign MOU	5066
@@ -279,6 +285,8 @@ MTC Telecom Namibia Company Powercom Paratus	1944
 MTC and TN Mobile. MTC and Telecom Namibia	1944
 MTC and Telecom Namibia	1013,931
 MTC and Telecom Namibia. In South Africa	1986
+MTN Channel Exclusive Offers Bundle Name	11259
+MTN Speed-based Bundles Bundle Name Price	11259
 Madame Namizata SANGARE	3045
 Maisa Namba	10728
 Maisha Namba	1354,377,293,423,119,359,378,88,153,31,22,846,1217,614,376,1,172,2576,1329
@@ -306,6 +314,7 @@ Middle Name Last Name Name Qualifier	11129
 Minister Dr. Shadric Namalomba	5906
 Minister of Information Shadric Namalomba	3933
 Minister of Information and Digitalisation Shadric Namalomba	10598
+Minister. Entity Name	11230
 Miriam Namutebi	6576
 Monitoring System Infrastructure Applications Domain Name	9123
 Morocco Namibia MauCAS Instant Payment System	6938
@@ -348,6 +357,7 @@ NAME Does NAME	582
 NAME M ID OF PERSON	582
 NAME MOSTLY	582
 NAME OF APPLICANT	1223
+NAME OF BIDDER	11240
 NAME OF FIRST PRINCIPAL RESPONDENT	582
 NAME OF HOUSEHOLD HEAD	582
 NAME OF LOAN APP	8732
@@ -400,6 +410,7 @@ Namahoua Bamba Touré. L'ARTCI	1648
 Namahounondougou	3338
 Namakuzu Shandavu and Rabecca Banda	1249
 Namakuzu Shandavu and Rabecca Banda. A Zambian	1249
+Namakwa	11343
 Namalomba	3933,857,1061,702,39,221,630,43,356,1374,1337,95
 Namanga	5883
 Namanve	1150,3645,454
@@ -429,6 +440,7 @@ Name Maguraushe	1248
 Name Of Regions Authorised FM Stations	2776
 Name Parent Project ID	10963
 Name Rationale	8866
+Name Reservations and Company Registrations	11250
 Name Signature Mr Godfrey Gomwe	4896
 Name Site TX Rx Altitude Longitude	736
 Name Time Since Last Update	3861
@@ -447,6 +459,8 @@ Name of Name	1988
 Name of Officer	34
 Name of Officer of District Court Signature of Officer	7845
 Name of Operator	6671
+Name of Partnership	11276
+Name of Post Office Country Text	11180
 Name of Project	9603,1
 Name of Proxy	4896
 Name of Regions Public Public Community Campus	2776
@@ -458,7 +472,7 @@ Name the SIEM	10617
 NameDescriptionDuration gac Contains	3212,2216,578
 NameDescriptionDurationCookie PreferencesThis	3212,2216,578
 NameDescriptionDurationwordpress logged inUsed	3212,2216,578
-Named	776,22,728,92,177,1011,402,905,162,350,434,132,854,381,529,51,83,1986,1147,692,242
+Named	776,22,728,92,177,1011,402,905,162,350,434,132,854,381,529,51,83,1986,1147,692,242,176
 Named ADVOCACY ANALYSIS	3572
 Named African	9611
 Named Best	2269
@@ -479,7 +493,7 @@ Named. Accountable. Contactable	6041
 Namely	1596,3376,2261,3586
 Namentenga	10847,28
 Namentenga Bittou	10875
-Names	736,1257,1721,1297,119,323,947,32,705,691,776,2110,98,317
+Names	736,1257,1721,1297,119,323,947,32,705,691,776,2110,98,317,51
 Names ARTCI	6340
 Names Impilo	3385
 Names SmartBots	4186
@@ -507,7 +521,7 @@ Namibe Uíge Zaire MF	10766
 Namibe Uíge Zaire N.º	10766
 Namibe Uíge Zaire Professores	10766
 Namibe. O Conecta Angola	6585
-Namibia	159,10,67,69,13,7,77,1,109,77,55,132,186,51,3,14,1,115,87,9,1,36,154,32,89,36,6,63,188,24,51,6,16,31,1,1,2,1,1,5,1,10,2,23,50,158,5,105,124,26,98,89,5,79,14,56,104,60,7,15,163,73,99,17,41,29,6,14,16,9,48,7,48,33,14,80,45,23,38,39,8,110,77,19,77,26,49,157,50,1,62,88,7,50,169,7,46,78,19,13,8,30,26,45,5,161,7,74,79,7,74,10,4,5,22,14,21,48,5,64,99,14,132,64,65,28,143,22,2,11,78,29,58,37,76,18,75,4,2,25,1,5,7,5,2,25,2,52,3,19,8,33,1,50,22,40,50,8,2,100,11,17,62,85,57,93,17,188,50,29,34,2,50,32,80,45,55,1,14,70,23,1,134,3,1,3,158,1,1,137,58,50,16,46,118,3,127,136,1,1,54,9,182,46,76,10,77,104,16,67,10,113,1,79,1,120,73,1,22,137,54,94,5,75,25,32,35,25,63,45,5,21,34,16,3,2,6,94,28,37,91,26,12,6,17
+Namibia	159,10,67,69,13,7,77,1,109,77,55,132,186,51,3,14,1,115,87,9,1,36,154,32,89,36,6,63,188,24,51,6,16,31,1,1,2,1,1,5,1,10,2,23,50,158,5,105,124,26,98,89,5,79,14,56,104,60,7,15,163,73,99,17,41,29,6,14,16,9,48,7,48,33,14,80,45,23,38,39,8,110,77,19,77,26,49,157,50,1,62,88,7,50,169,7,46,78,19,13,8,30,26,45,5,161,7,74,79,7,74,10,4,5,22,14,21,48,5,64,99,14,132,64,65,28,143,22,2,11,78,29,58,37,76,18,75,4,2,25,1,5,7,5,2,25,2,52,3,19,8,33,1,50,22,40,50,8,2,100,11,17,62,85,57,93,17,188,50,29,34,2,50,32,80,45,55,1,14,70,23,1,134,3,1,3,158,1,1,137,58,50,16,46,118,3,127,136,1,1,54,9,182,46,76,10,77,104,16,67,10,113,1,79,1,120,73,1,22,137,54,94,5,75,25,32,35,25,63,45,5,21,34,16,3,2,6,94,28,37,91,26,12,6,17,175,2
 Namibia AI Readiness Assessment Methodology	5036
 Namibia Access	1025
 Namibia African	1944
@@ -593,6 +607,7 @@ Namibia and Russia	8245
 Namibia and South Africa	6825,1181
 Namibia and Starlink	1980
 Namibia and Togo	7825,727
+Namibia and Uganda	11198
 Namibia and Uganda. The DHA	5533
 Namibia and Zambia	6580
 Namibia and Zimbabwe	318
@@ -770,7 +785,8 @@ Paratus Namibia	3539
 Paratus Namibia MD	3539
 Paratus Namibia's Armada	9953
 Parliament. Namalomba	7443
-Passenger Name Record	10360,363
+Partnership Name	11276
+Passenger Name Record	10360,363,562
 Passenger Name Record Data. Data	10723
 Patience Makwele Namibia and Botswana	9562
 Patrick Namazihana Vendredi	6620
@@ -791,6 +807,7 @@ Project Name Central African Republic CAR	10829
 Proposed Component Name Component	4653
 Proposed Project Location Name	1988
 Províncias de Nampula	1808
+Public Entity’s General Information Registered Name	11250
 Q-Kon Telecom Namibia	5502
 Qe7FtjalG The Namibia Cyber Security Incident	5794
 RAN Sites Telecom Namibia	1013
@@ -810,7 +827,7 @@ Regarding India and Namibia	3253
 Region Operation ID Operation Name EASTERN	1704
 Region Operation ID Operation Name P508383	3456
 Registered Domain Names	6671
-Registered Name	4896
+Registered Name	4896,6380
 Rep. Namibia Ghana Benin Kenya Togo	10819
 Republic of Namibia	318,7,700,974,1588,127,1322,1628
 Responsibility for Data Indicator Name Definition	1284
@@ -862,6 +879,7 @@ Street Naming Guidelines	11129
 Street Naming and Property Numbering	11129
 Streets Naming and Numbering of Buildings	11129
 Streets Naming and Numbering of Buildings The Local	11129
+Submitting Entity Name	11276
 Substantial Operation Name Mozambique Digital Acceleration	4653
 Sul Malanje Moxico Namibe	10766
 Sul Malanje Moxico Namibe Uíge	10766
@@ -870,6 +888,7 @@ Suleiman Namara Boban Varghese Paul	10768
 System Name Exchange	736
 Systematic Literature Review Papers Author Name	1248
 TIGER GLOBAL IS NOT NAMED ANYWHERE	9098
+Take Viet Nam	11356
 Target Indicator Name	10964
 Targets Indicator Name	10964
 Task Force Name	11129
@@ -904,12 +923,15 @@ Titus Nampala	8414
 Touche Namibia	9107,1
 Trade and Investment Operation Name Angola DPF3	10779
 Trade and Investment Operation Name Angola DPO2	10779
+Trading Name	11276
 Trending Stories Namibia	11122
 UAE and Namibian	5086
 UILDING A GROWTH-FRIENDLY TAX ENVIRONMENT Name	10762
 UN Dialogue Namibia	7098
 UNDP Namibia	1928,1604,6341
 UNDP Namibia's Inclusive Green Growth Portfolio	9873
+UNLESS OTHERWISE SPECIFIED. NAME OF BIDDER	11240
+UPLOAD MANDATORY INFORMATION NAMELY	11240
 University of Namibe	6482
 University of Namibia	5036,4837
 VAT. Telecom Namibia	1944

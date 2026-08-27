@@ -35,6 +35,7 @@ ELDORET LIMITED Data Controller INST-3348949CE44 UASIN	7167
 Eldoret City of Uasin Gishu Country	3758
 Eldorock Academy Data Controller INST-222845AB65B UASIN	7167
 Estados-membros da UA	2816
+Following the UAT	11241
 Gemi Rupestėlis Holding UAB Ruth Mozagba	8530
 Gombe UAC SARL Coin Avenue	10400
 Governor Ebson Uanguta	5254,3159
@@ -67,6 +68,7 @@ MISSION Data Processor INST-52058900CEE UASIN Kenya	7167
 Microsoft and UAE-based AI	10261
 Microsoft and UAE-based G42	7140
 Offer Zero-Fee Digital Bank Accounts for UAE	5322
+Operator Scheme UAMP User Asset Management	11218
 Original UA	451,1,152,203
 PBA for UA	809
 Processor INST-1679689B80F UASIN Kenya	7167
@@ -76,6 +78,7 @@ Processor INST-6882307DDE2 UASIN Kenya	7167
 Processor INST-785093AFA9E UASIN Kenya	7167
 Processor INST-9615790881B UASIN Kenya	7167
 RURA and UAF	718
+STATS SA Statistics South Africa UAT	11192
 STUDIES LIMITED Data Controller INST-245210F2E08 UASIN	7167
 STUDIES LIMITED Data Processor INST-245210F2E08 UASIN	7167
 SU UA HCC UZ RKS InsGtAitutioLSnU	1154
@@ -85,6 +88,8 @@ Senator for Uasin Gishu County	6946
 Stargate UAE	6790
 Statistical Analysis Software UA	10874
 Stephanus Uatanaua Katjivive	8960
+TUT Tshwane University of Technology UAT User	11197
+TVET Technical and Vocational Education and Training UAT	11261
 Talent Tech Tunisia UAE	5322
 Taux Net de Fréquentation Scolaire UA	737
 Tuberculosis UAN	10776
@@ -102,6 +107,7 @@ UAE Investments Platform	9098,248
 UAE Minister of State	6717
 UAE Minister of State Saeed Bin Mubarak	4057
 UAE Pass	5553
+UAE SMEs and South African SMEs	11185
 UAE Signals	5086
 UAE Strengthen Trade and Investment Ties	5086
 UAE and Bahrain	1741
@@ -118,7 +124,7 @@ UAE-France Strategic Dialogue. The MoU	706
 UAE-G42	2804
 UAE-India	6411
 UAE-Kenya	6717
-UAE-backed	10793
+UAE-backed	10793,538
 UAE-based	4934,14,37,1732,4385
 UAE-based AI	6150,116
 UAE-based G42 Presight	9291

@@ -54,7 +54,9 @@ Adjunto B1 Cónsul General Adjunto B2	4209
 Adjunto B2 Cónsul General B2 Ministro	4209
 Adjunto Gobierno Delegado Gobierno Delegado Regional	4209
 Adjunto Letrado Mayor Director General Director	4209
-Adjusted	3583,4542,1610,887,117,392
+Adjusted	3583,4542,1610,887,117,392,165
+Adjusted Appropriation	11218
+Adjusted Appropriation Bill	11289
 Adjusted Budget	750,540,494,1,2,7,3
 Adjusted EBITDA	9735,1058
 Adjusted EBITDA Basis	9735
@@ -64,10 +66,12 @@ Adjusted HEPS	10793
 Adjusted Quality	1818
 Adjusted R²	8075
 Adjusted Value Tax	10870
-Adjusting	3583,7573
-Adjustment	2902,7891
+Adjusting	3583,7573,68
+Adjustment	2902,7891,503
+Adjustment Budget	11251
 Adjustment Fund	7785
 Adjustment for Country Strategies Adjustment	1818
+Adjustment of Fines Act	11178,3,20
 Adjustments	4595,253
 Adjustments Appropriation Bill	2902
 Administrador Adjunto	10751
@@ -77,6 +81,7 @@ AfCFTA Adjustment Fund	9153,1323
 Alexia Lumière-Christina ADJOU-MOUMOUNI	5082,386,1747
 Alexia Lumière-Christina ADJOU-MOUMOUNI Date	9165
 Ali Salatou Adji	2801
+Appointment Booking System BAC Bid Adjudication	11218
 Aristide Adjinacou	1927,1664,2556,104,200,881
 Aristide Adjinacou Gnahoui	2403
 Aristide Guy Adjinacou	3041
@@ -212,6 +217,7 @@ Parlamento Secretario General Adjunto	4209
 Paul Adjei	9202
 Peter Adjei-Bamfo	5349
 Portavoz Adjunto Grupo Parlamentario Secretario Fiscalía	4209
+Posts Adjustment Budget	11251
 Pour Guy Aristide Adjinacou	5768
 Pour Me Pacôme Adjourouvi	11067
 Presidencial Delegado Adjunto Gobierno Delegado Provincial	4209
@@ -221,6 +227,8 @@ Profit Adjusted	11134
 Pueblo Adjunto	4209
 Representante Permanente Adjunto	4209
 Results Framework Adjustments	4653
+Risk Adjusted New Generation Capacity	11228
+Risk Adjusted New Generation Capacity Risk-adjusted	11228
 SECRETARIO GENERAL ADJTO DEL CONS. SUPER	4209
 SECRETARIO GENERAL ADJTO. SENADO	4209
 SECRETARIO GENERAL ADJUNTO CAM	4209

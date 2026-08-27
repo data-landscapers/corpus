@@ -1,8 +1,10 @@
 ACACIA SATLINK LIMITED Data Controller INST-924073CD52F	7167
 APPORT DE L’IMAGERIE SATELLITAIRE DE TRÈS	8891
 Access Fee Contribution Satellite Gateway	10407
+Administrative Sata for Labor Migration Statistics	11283
 Affordable Satellite	10588
 Africa Customer Satisfaction Index	8677
+African Meteorological Satellite Application Facility	11283
 Airtel Malawi Eyes Satellite Connectivity	6291
 Alaska Satellite Facility	10794
 Algeria's Telecom Minister Inspects SATICOM	3669
@@ -21,6 +23,7 @@ B. and H.-A. Satti	6947
 BeiDou Navigation Satellite System	5288
 BrainSAT Satellite Services	6980
 BrainSAT Satellite Services and Thuraya	6980
+BrainSAT Satellite Services and Thuraya Satellite Phones	11290
 C. and Satyajit	11133
 CAMTEL Explores Satellite Partnership	5757
 CLIENT SATISFACTION SURVEY	5679
@@ -35,6 +38,7 @@ Citizen Satisfaction Index	4528
 Citizen Satisfaction Rate	10709
 Classique Satellite Bilingue Franco arabe Passerelle	10847
 Client Satisfaction Impact	10718
+Coarse Resolution Satellite Imagery Database	11334
 Comite de Satélite	1215
 Commission Satisfaits	11151
 Commissioner Michael McGrath and TEZUKA Satoru	9067
@@ -106,6 +110,7 @@ Landing Rights Authorization for Satellite Service Provider	10407
 Landlines VoIP Satellite FTTh	1013,931
 Liberia. Satellite Gateway Service	10407
 Liberia. Satellite Gateway Terminal	10407
+Licensing for Satellite Services	11211
 Livelihood Restoration Plan Satellite Social Specialist	1988
 Low-Earth Orbit Satellites	3063
 MTN Satellite	5776
@@ -135,7 +140,7 @@ NGSO Satellite System Space	2913
 Natcom SAT-3	7329
 National Consumer Satisfaction Index	5676
 National SEXE Classique Satellite Bilingue	10847
-National Satellite Communication	6980
+National Satellite Communication	6980,4310
 Nigeria Communication Satellite Limited	1546,921,2103
 Nigeria Communications Satellite Limited	10699
 Nigeria Nigerian Communications Satellite	2294
@@ -145,6 +150,7 @@ Nigerian Satellite Week	5623
 No. of Satellite Earth Stations	6946
 Non-Geostationary Satellite Orbit	2913,2767
 Non-Geostationary Satellite Orbits	2913
+Nowcasting Satellite Application Facility	11191
 Number of Satellite Broadband Subscriptions	3641
 Obligations of Licensed Satellite Network Operators	10407
 Orange Sat	4691,16,14,1215,409,365,799
@@ -179,7 +185,8 @@ SATA. Page	10819
 SATA. The Notification Process A PTSP	10819
 SATA. The World Bank	8335
 SATCAB	6638,26
-SATCOM	6980
+SATCOM	6980,4310
+SATCOM Strategy	11290
 SATELLITE COMMUNICATIONS GUIDELINES	10407
 SATELLITE FILINGS	10407
 SATELLITE STATION APPLICATION FORM	736
@@ -199,7 +206,7 @@ Sat-3	2320,1022,179
 Satariano	1243
 Satcab	6663
 Satelaiti	2868,3151
-Satellite	236,526,497,5,390,148,54,31,39,18,44,550,308,67,63,607,42,16,906,8,26,42,437,150,31,137,150,1,35,116,257,68,257,77,320,3,9,55,7,97,2,19,40,7,48,464,548,173,3,38,374,103,500,412,436,37,373,129,52,109,66,405
+Satellite	236,526,497,5,390,148,54,31,39,18,44,550,308,67,63,607,42,16,906,8,26,42,437,150,31,137,150,1,35,116,257,68,257,77,320,3,9,55,7,97,2,19,40,7,48,464,548,173,3,38,374,103,500,412,436,37,373,129,52,109,66,405,23,99
 Satellite Backhaul Service	10407
 Satellite Backhaul Service Providers	10407
 Satellite Backhaul Services	10407
@@ -307,10 +314,11 @@ Satellite Town and Alimosho Local Government Area	10742
 Satellite US	10407
 Satellite Wide Terrestrial	9781
 Satellite Wide Terrestrial Jinja	9781
+Satellite and Regional Models Satellite	11191
 Satellite-Earth-Stations.pdf	1259
 Satellite-backed	8871
 Satellite-based	3641
-Satellite-derived	11142
+Satellite-derived	11142,97
 Satellite-enabled	5378
 Satellite-to-mobile	9997
 SatelliteS	736
@@ -366,12 +374,14 @@ Strategic Challenge of Satellite Internet for African	6467
 Strengthening the Rural Health Workforce Satellite	5378
 Student Satisfaction	2518
 Subscription Management Service For A Satellite	2776
+System GNSS Global Navigation Satellite System	11261
 TB SATA Drive Storage	9475
 TOWER SAT-COM DECI-0368	998
 TSA Tourism Satellite Account TSC Teachers	2775
 Target Satellite	10407
 Telecom Namibia Angola Telecom SATCAB 1200.jpg	6638
 Thuraya Satellite Phone and BrainSAT Satellite Services	6980
+Thuraya Satellite Phones and BrainSAT Satellite Services	11290
 Togo First. Satellite	8275
 Trust Alliance SATA Institutional Framework TRUST	10819
 Trust Service Providers. The SATA	10819

@@ -17,6 +17,7 @@ Broadband Traffic	2776
 Broadband Volume of Internet Traffic	2776
 Broadband Volume of Internet Traffic BWA	2776
 Broadband Wireless Access Data Traffic	2776
+CHALLENGES ON IMPLEMENTATION OF DIGITAL TRAFORMATION	11231
 Commercial Cargo and Mail Traffic	2775
 Commercial Passenger Traffic1	2775
 Container Freight Traffic	2775
@@ -44,6 +45,8 @@ Domestic Mobile Voice and SMS Traffic	6671
 Domestic Mobile Voice and SMS Traffic Safaricom	6671
 Electronic Traffic Management System	9395
 Energy Agency IGTVS International Gateway Traffic	718
+FIXED LINE TRAFFIC	11211,51
+FIXED-TO-MOBILE TELEPHONE TRAFFIC	11211,51
 Financial Management Absence of Human Trafficking	10759
 Fixed Broadband Traffic	2776
 Fixed Broadband Traffic Fixed Broadband Q3	2776
@@ -123,7 +126,9 @@ Mobile Voice Traffic Market	6000
 Mobile Voice Traffic Minutes of Use	2776
 Motor Traffic Act	3061
 Motor Traffic and Transport Department	9205,1876
+NATIONAL MOBILE TRAFFIC	11211,51
 NATIONAL TELEPHONE TRAFFIC	3862
+NETWORK TRAFFIC	11211,51
 National Telephone Traffic	3862
 National Traffic	6000
 Net Traffic	2776,7005
@@ -174,6 +179,7 @@ Roaming Traffic	2776,3895
 Roaming Traffic Out	6671
 Roaming Traffic Out-bound Roaming Incoming Voice	6671
 Roaming Traffic Tables	6671
+Rural Safety Plan RTMC Road Traffic	11188
 SMS Traffic	2776,4170
 Safety of Services Traffic and Road Safety	1988
 Smart Traffic Management System	9394
@@ -182,6 +188,7 @@ Standard Gauge Railway Traffic	2775
 Storage Revenue Container Freight Traffic Developments	2775
 Subscriptions Total Mobile Data Traffic	2776
 Subscriptions Traffic Q3	2776
+TRAFFIC	11211,51
 TRAFFIC DATA	3862
 TRAFIGO SARL	6597
 TRAFITECH	11062
@@ -190,10 +197,11 @@ Tbps Traffic Milestone	2754
 Telecommunications Traffic Control Regulation	9288
 Telecommunications Traffic Control Regulations	8742,1
 Telephone Call Traffic	2775
-Traffic	26,210,159,197,182,358,856,689,99,1064,22,2138,671,3110,1350
+Traffic	26,210,159,197,182,358,856,689,99,1064,22,2138,671,3110,1350,100,19
 Traffic Acquisition Costs	1363
 Traffic Act	1988,4933,2725
 Traffic Act. NTSA	9646
+Traffic Analysis	11231
 Traffic Data	2776
 Traffic Handled	2775
 Traffic Impact Assessment	11131

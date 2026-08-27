@@ -13,6 +13,8 @@ AI-powered RecSys	8022
 AI. Recommendations	6948
 AI. This Recommendation	4126
 AI. UNESCO's Recommendation	5036
+AICT100 Recognition	11235
+AICT200 Recognition	11235
 APD. O Gabinete de Recursos Humanos	167
 APPR Agreement for Peace and Reconciliation	969
 ARTICLES RECENTS Lutte	11123
@@ -52,6 +54,7 @@ Algeria Digitizes Degree Recognition Through National	6747
 Allow Record	1988
 Analysis and Recommendations	239
 Angola. Recorre-se	10777
+Annual Financial Statements Received and Reviewed	11250
 Antecedentes Evolução Recente	10783
 Archives and Records	8021
 Artificial Intelligence Could Recolonize East	7867
@@ -68,6 +71,9 @@ Automatic Number Plate Recognition	10603
 Autres Recettes Fiscales	2476
 Autres Recettes Non	2476
 Award of Recognition	10741
+B- BBEE Procurement Recognition Levels Broadcasting	11211
+B- BBEE Procurement Recognition Levels Postal	11211
+B-BBEE Procurement Recognition Levels	11211
 B. Recommendations	3583
 B. Record	7845
 B. Recruitment	7845
@@ -90,6 +96,8 @@ Board and Receiver	9612
 Board’s Resolutions and Recommendation	7198
 Botswana National Archives and Records Services	5250
 Browser Update Recommended	8571
+Budgetary Review and Recommendation Report	11230
+Budgetary Review and Recommendations Report	11230
 Bureau Central des Recensements	4325,6639
 Burundi Receives	1579
 Business Continuity and Disaster Recovery Program	10550
@@ -124,6 +132,7 @@ Call Detail Record	4274
 Call Detail Records	9969
 Capital Reconfigures Fundraising	4972
 Care Record CDA Clinical Document Architecture	1009
+Cell C Recharge Enhancer Promotion	11259
 Centralise Records Pressed	9517
 Centre Suisse de Recherches Scientifiques	10919
 Centre de Recherche	3855,4031,69,2314
@@ -133,6 +142,7 @@ Certificates of Recognition and Merit	7702
 Challenges and Recommendations. Shabaka Report. Accessed	6947
 Child Health Services Recent	10776
 Cinquième Recensement Général	9553
+Civic Records	11274
 Civil Records	10979
 Civil and Criminal Records	10979
 Civilian Recruitment of TPLF Senegal Ex-President Macky	3768
@@ -153,7 +163,7 @@ Comprehensive Economic Partnership RECs Regional Economic	1243
 Comunicación A2 Oficial de Comunicación A3 Recepcionista	4209
 Comunicación B2 Oficial de Comunicación B3 Recepcionista	4209
 Concluding Observations and Recommendations	8485
-Conclusion and Policy Recommendations	10718
+Conclusion and Policy Recommendations	10718,477
 Conclusion and Recommendations	236,3155
 Conclusions and Recommendations	1824
 Conduct of Recognition Review	3503
@@ -212,6 +222,7 @@ DHIS2 and REC-Maternity	10881
 DIAMONDS REFINED RECOVERY CENTER LTD Data	7167
 DIGITAL RECOVERIES EAST AFRICA LIMITED Data	7167
 DIMENSÃO RECOMENDAÇÃO PERÍODO PRIORIDADE PONTO	2816
+DISASTER RECOVERY	11240
 DISASTER RECOVERY STANDARDS AND GUIDELINES	34
 DISCUSSION AND RECOMMENDATIONS Several	8605
 DISPOSITIONS RELATIVES AUX CHARGES- RECRUTEMENTS	4420
@@ -222,10 +233,12 @@ DVB-T2 Receivers	6946
 Dados Recolhidos	539
 Data Management and Record Keeping Seminar	10566
 Day Three. Nairobi City County Recognises	11033
+Default and Recovery Statistics	11310
 Departamento de Recursos Humanos	2816
 Departamento de Recursos Humanos Dande. Corrupção	10751
 Description Recettes	2077,2330
 Description. Recording	4455
+Design Criteria Standard for Electronic Records Management	11349
 Develop and Implement Disaster Recovery Plan	1000
 Diferencial da Receita	10779
 Different RECs	11149
@@ -242,7 +255,7 @@ Direitos Humanos. Estes Postos de Recolha	10772
 Disabilities Feedback Received	9772
 Disabilities RAP Resettlement Action Plans REC	1264
 Disability QoS Quality of Service REC Regional	6539
-Disaster Recovery	4610,1822,4118,67,104
+Disaster Recovery	4610,1822,4118,67,104,488
 Disaster Recovery Centre	5855
 Disaster Recovery Cloud	9123
 Disaster Recovery DRP Disaster Recovery Plan	6432
@@ -262,6 +275,7 @@ Disclosure of Public Records	10759,76,2,1,74,56
 Discussion and Recommendations	4439
 Disponibilidad de Recursos Humanos	4209
 Dividend Record Date	4896
+Donor Funds Received	11218,6
 Download Free OverviewGet the Full Guide Receive	5715
 Duplicate Identity Records	7404
 Dynamic Recalibration of Norms Unlike	7966
@@ -275,6 +289,7 @@ ESTABLISHING CORPORATE DISASTER AND RECOVERY PLAN	1000
 ET DE LA RECHERCHE Projet	4402
 EXPLORAÇÃO DE RECURSOS NATURAIS	2816
 Econet InfraCo. Record Date for Econet Shareholders	4896
+Economic Reconstruction and Recovery Plan	11250
 Economic and Social Recovery Plan. Critics	4063
 Economie Rurale INR Instituts Nationaux de Recherche	12
 Economy and Recurrent Continuous In Progress Comments	10870
@@ -288,16 +303,20 @@ Electronic Fiscal Receipting and Invoicing System	2744,5002
 Electronic Health Record	2477,1676,471,5564
 Electronic Health Record System Actually	5911
 Electronic Health Records	2477,471,1353
-Electronic Medical Record	3972,3794
+Electronic Medical Record	3972,3794,3486,21
+Electronic Medical Record FS	11252
 Electronic Medical Record Management System	3604
 Electronic Medical Record System I	4260
 Electronic Medical Record Systems	21
 Electronic Medical Records	2678,1489,35,10,5,132,1003
 Electronic Medical Records Electronic Community Health	4153
+Electronic Record Search	11233
+Electronic Record Search. If the Reporting Financial	11233
 Electronic Record and Data Management Standards	9855
 Electronic Transferable Records	3556,7162
 Email Zimbabwe’s Recent Inter-Regional CyberDrill Targeted	6909
 Embajada A1 Recepcionista Embajada A2 Recepcionista	4209
+Emergency Recharge Data Promotion	11259
 Emerging A1- Recognition	7548
 Emerging Recognition	7548
 Energy Disclosure of Public Records	10835,3,130
@@ -311,7 +330,7 @@ Equity Group’s Africa Recovery and Resilience Plan	7073
 Errol R. Francke Received	8130
 Et Dépasse Un Record De Pelé	4960,62,2035
 Ethio Telecom Reports Record Revenue Growth	7688
-European Bank for Reconstruction and Development	1596,2856,14,1,183,13,270,566,4,301,99,272,1054,978,776,43,21,439,1087,36,546,13,7
+European Bank for Reconstruction and Development	1596,2856,14,1,183,13,270,566,4,301,99,272,1054,978,776,43,21,439,1087,36,546,13,7,181
 European Bank for Reconstruction and Development. Digital	9632
 European Criminal Records Information System	10979
 Evolution of Strategic Reciprocity External	5141
@@ -323,7 +342,9 @@ Exploração de Recursos Naturais Na	2816
 External Financing Recedes	5913
 Eye Recognition The Republic of Niger	2427
 F. Conclusions and Policy Recommendations	1828
-FATF Recommendations	10775
+FATF Recommendation	11233
+FATF Recommendations	10775,458
+FATF Recommendations. If the Reporting Financial Institution	11233
 FC. Recettes	2561
 FIRST Recurrent	1777
 FUENTE DE LOS RECURSOS MONTO UTILIZACIÓN	4209
@@ -354,6 +375,10 @@ GIMPA Deputy Rector	10123
 GRIEVANCE RECORDING FORM Project Reference Name	1778
 Gabinete de Recursos Humano VIRGINIA RAIMUNDO XIRIMBIMBI	10750
 Gabinete de Recursos Humanos	167
+Generally Recognised Accounting Practice	11198
+Generation Operation Recovery Plan	11215
+Generation Operational Recovery Plan	11223
+Generation Recovery Plan	11223
 German Credit Institute for Reconstruction	3604
 Gestao de Receitas	574
 Gestão de Recursos Humanos	10614
@@ -369,6 +394,7 @@ Guideline-Based Recommendations	9855
 HMIS Ecosystem Challenges and Recommendations	1261
 HPs. Records	2108
 Harmonization and Mutual Recognition	3861
+Health Patient Record System	11350
 Health Records System	6432
 Health. Recommendations	10928
 High-Level Recommendations	1814
@@ -400,6 +426,7 @@ IVº Recenseamento Geral da População	7666
 Identification Records	9237
 Identify Protect Detect Respond Recover All	6423
 Identiﬁcation Records	8605
+Immersive Video Playlist Championing Plastic Recycling	11332
 Implementação da Recomendação da UNESCO	2816
 Impôt BIC IRVM Total Recettes Fiscales	2342
 Impôts BIC Recettes	2342
@@ -409,6 +436,7 @@ Incident Response and System Recovery Mechanism	4610
 Incident Response and System Recovery Mechanism A	4610
 Innovante Recherche	7886
 Innovation and Economic Development RECOGNISING	3861
+Inside Bayobab’s Culture of Recognition Corporate Bayobab	11234
 Insolvency and Receivership	6121
 Institute for Justice and Reconciliation	1230,6656
 Institution du Recensement Général	2625
@@ -416,10 +444,12 @@ Institutions Receive Data Controllers Licences	2987
 Instituto de Recursos	10782
 Instituto de Recursos Hídricos	1701
 Int J Recent Res Soc Sci	9739
+Integrated Document and Records Management System	11349
+Integrated Document and Records Management Systems	11349
 Integrated Electronic Medical Record System	4260
 Integrated Recovery Plan	11131,3
 International Bank for Reconstitution and Development	10812
-International Bank for Reconstruction and Development	131,72,77,1,1,204,2,173,8,206,226,382,4,689,713,4564,3261,51,10,5,5,56,60,75,1,8,150,14
+International Bank for Reconstruction and Development	131,72,77,1,1,204,2,173,8,206,226,382,4,689,713,4564,3261,51,10,5,5,56,60,75,1,8,150,14,122,39
 International Business Commons Recommended Citation Sere-	10
 International Journal of Recent Technology and Engineering	9128
 Internet Protocol Detail Record	4274,899
@@ -468,6 +498,7 @@ MALI ET DE LA RECHERCHE SCIENTIFIQUE	12
 MANUEL DE TRAITEMENT DES RECOURS ET	10876
 MARS DE RECHERCHE POUR LE LITHIUM	2342
 MATERIAL BORROWINGS AND LOANS RECEIVABLE	4896
+MEDICAL RECORD	11252
 MISAU. Recruitment	4260
 MRR Monthly Recurring Revenue CapEx Capital	3184,1,1340,6470
 MTN Zakhele Futhi Recognition	10793
@@ -475,7 +506,10 @@ Mais Recente	10777
 Mais Recentes Ucrânia	9990
 Management Disaster Recovery Planning	9123
 Management Perception Recognition	11131
+Management of Electronic Records	11349
 Managing Criminal Records	10979
+Managing Electronic Records	11349
+Managing Electronic Records The National Archives	11349
 Map REC-level	11149
 Mapa I Receitas	5012
 Markup Language EA Electronic Medical Record	1009
@@ -484,6 +518,7 @@ Measurement Ministry of Comments NA Economy and Recurrent	10870
 Medical Record FOSS Free and Open	396
 Member States. Recommended	5676
 Merger and Recommendation	7198
+Metadata for Records and SANS	11349
 Mining Malawi Wins Global Recognition for Offline	3965,1438,1506
 Ministry of Finance Recent Economic Developments and Outlook	11136
 MomConnect. Recommendations	396
@@ -500,10 +535,13 @@ Mutual Recognition Framework	4301
 Mutual Recognition and Interoperability of National IDs	10819
 Método de Recolha Anualmente	10766
 N Sector Received	718
+NARSSA National Archives and Record Service of South	11196
+NCR Received	11198
 NPHIL RECEIVES FIRST	10581
 National Archives and Record Service of South	1009
+National Archives and Record Service of South Africa	11196
 National Archives and Record Services of South Africa	1009
-National Archives and Records Service of South Africa	8021,1
+National Archives and Records Service of South Africa	8021,1,3174
 National Archives and Records Services Act	9525
 National Archives and Records Services of South Africa	8021
 National Development Plan. Recommendations	1809
@@ -516,12 +554,14 @@ National Plan for Recovery and Peacebuilding	969
 National Program for Economic Stability and Recovery	9685
 National Recovery and Peace Consolidation	969
 National Strategic Plan for Health System Recovery	8613
+National Unity GRAP Generally Recognised Accounting	11250
 Nibal Zgheib The European Bank for Reconstruction	8905
 Nigeria Police Cybercrime Unit Recovers Funds	2269
 Nigeria Welcomes IMF Recognition	8010
 Nigeria. Recognising	5665
 North Africa. Recent	4084
 Noteworthy Recovery	5202
+Number of Allegations Received	11250
 O Gabinete de Recursos Humanos	167
 O IV Recenseamento Geral da População	7666
 OCR Optical Character Recognition OECD Organisation	1814
@@ -558,6 +598,7 @@ PAFEN. Recent	6057
 PDUs Rectifiers DC-UPS	9123
 PERSPECTIVES ET RECOMMANDATIONS	998
 PERSPECTIVES ET RECOMMANDATIONS Conclusion	998
+POLICY ASSESSMENT AND RECOMMENDATIONS REPORT	11285
 POLICY RECOMMENDATIONS	6832
 PRACTICE OR POLICY REC-Maternity	10881
 PRESIDENT'S RECOMMENDATION	1818
@@ -567,8 +608,10 @@ PRÉVISION DES RECETTES FISCALES INTÉRIEURES PAR	10712
 PRÉVISION GLOBALE DES RECETTES FISCALES INTÉRIEURES	10712
 PS4R Private Sector for Refugees REC Regional	10841
 PUBLIC PUBLIC PRESIDENT'S RECOMMENDATION	1818
+Paper Record Search. If the Reporting Financial	11233
+Part E Records	11181
 Participant Recruitment	4439
-Passenger Name Record	10360,363
+Passenger Name Record	10360,363,562
 Passenger Name Record Data. Data	10723
 Patient Registry Shared Encounter Record Laboratory	21
 País. Recomenda-se	2816
@@ -607,6 +650,7 @@ Programa de Formação de Recursos Humanos	4754
 Programa de Reconversão Em	10758
 Programa de Reconversão da Economia Informal	10758
 Programme National de Recensement Administratif	2756
+Programme RDP Reconstruction and Development Programme RDSP	11261
 Progress and Way Forward Recently	3735
 Project Clearance. Recognising	8424
 Projet de Loi de Finances Rectificative	6599
@@ -626,6 +670,7 @@ Quatrième Recensement Général	9277
 R Receitas Brutas	2866
 RAM Readiness Assessment Methodology REC Regional	1814
 RCPCA The National Plan for Recovery and Peace	969
+RDP Reconstruction and Development Programme RRO Refugee	11218
 REC Membership	10835,3,130
 REC and AfSEM	11149
 REC-Maternite	10881
@@ -657,6 +702,7 @@ RECEIVED A DIGITAL PAYMENT	10977
 RECENSEAMENTO GERAL DA POPULAÇÃO E HABITAÇÃO	4044
 RECENSEMENT GENERAL DE LA POPULATION	2625
 RECENSEMENT GÉNÉRAL DES ENTREPRISES	10875
+RECENT ECONOMIC	11271
 RECENT ECONOMIC DEVELOPMENTS AND OUTLOOK	11136
 RECEPCIONISTA	4209
 RECEPISSES	10821
@@ -672,6 +718,7 @@ RECLUTAM. Y ACADEMIAS.- Concepto	4209
 RECOGNISE THE IMPORTANCE OF DIGITAL INCLUSION	1243
 RECOGNISE THE RIGHT TO PRIVACY	1333
 RECOGNISE THE ROLE OF DATA	1243
+RECOGNISING	11182
 RECOGNISING THE NEED FOR ENABLING ENVIRONMENT	1243
 RECOGNITION OF RIGHTS TO REGULATE Generic	1243
 RECOGNIZING	762,3099,292,14,35,15,43,41,48,1003
@@ -687,7 +734,7 @@ RECOMMANDATIONS LIEES AU MEPS	2966
 RECOMMANDATIONS LIEES AU MESR	2966
 RECOMMANDATIONS LIEES AU METFPA	2966
 RECOMMENDATION	7
-RECOMMENDATIONS	9399,1376
+RECOMMENDATIONS	9399,1376,453,57,4
 RECOMMENDATIONS Based	10049
 RECOMMENDATiONS	961
 RECOMMENDATiONS AU Member States	961
@@ -704,10 +751,11 @@ RECONCILIATIONS	10793
 RECONSTRUCTION AND DEVELOPMENT	1914
 RECONSTRUCTION AND DEVELOPMENT Approved	1818
 RECOPILAC. MEDIO AMBIENTE INDUSTRIAL Y GRAL	4209
-RECORD	2123,4322,100
+RECORD	2123,4322,100,4707
 RECOURS	10836
 RECOUVREMENTS	998
 RECOVERY	1938
+RECOVERY OF TAX Part A General	11181
 RECTOR DE PROTECCION DE DATOS PERSONALES	163
 RECURRENT	5655
 RECURRENTin AMha	1784,1,1,1,1,5,2,1,1,1404,1,1,1,1,1,2,1,1,3872,1,1,1,1,1,2,1
@@ -724,7 +772,10 @@ RECs. Africa	11149
 RECs. Scale	11149
 RECs. Strengthening	11149
 RECs. The AfCFTA	11149
+REFUGEE RECEPTION OFFICES	11177
 REGEC for Recensement General des Entreprises du Congo	1828
+RETURNS AND RECORDS Part A General	11181
+Radio Audience Measures RDP Reconstruction and Development	11192
 Rapid Recovery	958
 Rapid Roll-Out Scenario Recommendations	10812
 ReCIPE	1071
@@ -772,6 +823,7 @@ Receive	3513,1383,780,589,1283,1055,1183,1028,9,179,15
 Receive Notices and Communications	7198
 Receive- Type	998
 Received	22,396,801,1299,4694,598,566,226,1,1,1,1,148,374,1,108,416,86,33,1008,4
+Received Date	11276
 Received Feedback	9772
 Received InfraCo Shares	4896
 Receiver	736,938,245,733,2999,3855,1,105,1,302,77
@@ -779,7 +831,7 @@ Receiver I Certify	736
 Receiver P1	1674
 Receiver-authored	9507
 Receiver-consent	9612
-Receiving	18,3346,4225,582,559,167,144,32,364,129,170,978
+Receiving	18,3346,4225,582,559,167,144,32,364,129,170,978,484
 Receiving National ID Card	10521
 Recenseamento	5818
 Recenseamento Eleitoral	10271
@@ -801,7 +853,7 @@ Recent AU African Position	1814
 Recent Angola	10781
 Recent Comments	8639,1766
 Recent Developments	2775,8000
-Recent Economic Developments	11136
+Recent Economic Developments	11136,135
 Recent Economic Developments and Outlook	11136
 Recent Economic Developments and Outlook Box	11136
 Recent Economic Developments and Outlook External	11136
@@ -812,6 +864,7 @@ Recent FM	10829
 Recent GSMA	9349
 Recent Geopolitical Tensions Could Stifle Trade	10718
 Recent IMF	9331
+Recent Media	11243
 Recent News	5044,1835
 Recent Persian and Bangla	7790
 Recent Perspective	5366,52,1069
@@ -836,9 +889,12 @@ Recepcionista Embajada A1	4209
 Recepcionista Embajada A2	4209
 Recepcionista Embajada A3	4209
 Receptacles	9123
+Reception	11177
+Reception Office RT Transversal Term	11218
 Reception and Reintegration of Refugees	2823
 Reception and Reintegration of Refugees and Repatriates	10841
 Recepção de Ordens de Pagamento	10755
+Recessionary Economic Conditions Like	11198
 Recette	998
 Recettes	1594,454,294,134,920,141,101,131,67,572,12,1,223,813,5255,274
 Recettes Courantes	4420
@@ -852,7 +908,7 @@ Recevoir	10876
 Rechargeable NiCd-batteries	1988
 Rechargements	4459
 Rechenschaftspflicht	900
-Recherche	12,753,422,521,440,548,36,122,1,111,9,421,429,10,1336,500,564,279,593,78,658,135,94,197,33,264,325,189,164,569,121,566,76,245,154
+Recherche	12,753,422,521,440,548,36,122,1,111,9,421,429,10,1336,500,564,279,593,78,658,135,94,197,33,264,325,189,164,569,121,566,76,245,154,348
 Recherche Appliquée LCV Laboratoire Central Vétérinaire	12
 Recherche DD	10874
 Recherche Démographiques IHPC	10874
@@ -866,6 +922,7 @@ Rechercher	233,1933,4788,2526
 Rechercher Loi	4420
 Recherches	12
 Recherches Biomédicales	2625
+Recht	11316
 Rechtbank Den Haag	7966
 Rechtsla	504
 Recibir	163
@@ -898,25 +955,27 @@ Reclusos	4209
 Recoded	124,139,828,3383
 Recoder	747
 Recognise	1243,4290,3896,1531,57
+Recognise Housing	11285
 Recognise. Avoid. Respond. Recognise	10725
 Recognised	6832
 Recognised By INEC	2355,176,4,1,56,3,339,96,901,1006,1761,673
-Recognising	26,1,1,368,177,670,575,1130,54,298,351,534,139,524,396,2,434,192,608,427,408,158,455,435,246,138,42,241,630,675,125,42,149,171,34,104,57,66,48
+Recognising	26,1,1,368,177,670,575,1130,54,298,351,534,139,524,396,2,434,192,608,427,408,158,455,435,246,138,42,241,630,675,125,42,149,171,34,104,57,66,48,62,2,67
 Recognising ICT	7365
 Recognising Liberia	5244
 Recognising Malta	8992
 Recognition	28,1126,65,2283,1,358,397,988,5566
 Recognition Review	3502,1
 Recognition Review. If the RIRs	3503
-Recognition of Customary Marriages Act	5533
+Recognition of Customary Marriages Act	5533,5644
 Recognition of Donors UNHCR	10864
 Recognition of Qualifications	7760
+Recognition of Standards Development Organizations	11269
 Recognize	2477,200,826,80,2094,1270
 Recognize AI and A-	7548
 Recognize the Candidate RIR	3503
 Recognized	3503,5620
 Recognized RIR	3503
-Recognizing	1212,52,1421,172,235,252,517,265,134,41,1118,21,333,52,607,89,21,70,237,1117,184,33,194,484,994,490,375,43,1,88,133
+Recognizing	1212,52,1421,172,235,252,517,265,134,41,1118,21,333,52,607,89,21,70,237,1117,184,33,194,484,994,490,375,43,1,88,133,211,39,97
 Recognizing AI	6948
 Recognizing Digital Leadership The Minister of Information	4535
 Recognizing the Candidate RIR	3503
@@ -946,7 +1005,7 @@ Recommendation ITU-T X.509	10764
 Recommendation Regulation M-A Item	7198
 Recommendation X.509	1009
 Recommendation. The Ghanaian	4126
-Recommendations	396,503,362,293,198,62,14,268,21,505,102,224,73,217,265,94,44,37,252,160,36,61,396,151,863,78,2,103,249,276,82,76,285,21,12,156,10,1,1,2,247,63,448,896,66,411,47,74,196,217,239,161,12,60,128,547,12,1,36,17,12,24,139,138
+Recommendations	396,503,362,293,198,62,14,268,21,505,102,224,73,217,265,94,44,37,252,160,36,61,396,151,863,78,2,103,249,276,82,76,285,21,12,156,10,1,1,2,247,63,448,896,66,411,47,74,196,217,239,161,12,60,128,547,12,1,36,17,12,24,139,138,143,4
 Recommendations Adaptive	10763
 Recommendations Africa	6938
 Recommendations And The Way Forward	6936
@@ -984,8 +1043,9 @@ Recommendations for Telecommunications Operators	5676
 Recommendations for WATRA and Regional Institutions	5676
 Recommendations for WATRA and Regional Institutions WATRA	5676
 Recommendations of Others	7198
+Recommendations. Programme	11230
 RecommendationsThe	7278
-Recommended	10,726,487,595,690,2841,327,28,1293,754,106,559,1439,213,707,4,227,1,126,9
+Recommended	10,726,487,595,690,2841,327,28,1293,754,106,559,1439,213,707,4,227,1,126,9,46
 Recommended Case Study	8301
 Recommended Communication Channels	5676
 Recommended Communication Channels NRAs	5676
@@ -999,7 +1059,7 @@ Recommended Sprinkler Systems for Data Center Spaces	9123
 Recommended Universal Contact Points	5676
 Recommending	6948,2255
 Recommending Officer	1877
-Recommends	2102,229,177,1089,287,91,871,384
+Recommends	2102,229,177,1089,287,91,871,384,6108
 Recommends AI	5858
 Recommends the Malabo Convention	4807
 Recomposición	1701
@@ -1010,7 +1070,7 @@ Reconceptualizing	9739
 Reconcile	18,297,208,713,101,686,784,1594,1034,1085,36,71,244,620,15,101,176,102,172,929,175
 Reconcile-pass	220,218,577,181,14,1082,495,428,1849,1294
 Reconciled	523,1090,206,338,85,9,2,1
-Reconciliation	1291,3,1,1,29,1,1,1,1,1,685,1,1,1,1,1,39,1,1,1,493,1470,130,1,1,1,1,1,5,207,1,1,1,555,2967
+Reconciliation	1291,3,1,1,29,1,1,1,1,1,685,1,1,1,1,1,39,1,1,1,493,1470,130,1,1,1,1,1,5,207,1,1,1,555,2967,3353
 Reconciliation FY2024	7885
 Reconciliation H.E. Ali Yusuf Ali	2819
 Reconciliation Programme	2286
@@ -1018,7 +1078,7 @@ Reconciliation Report	170
 Reconciliation Reports	170
 Reconciliation and Healing	3583
 Reconciliation and Healing. Terms Cost	3583
-Reconciling	6352
+Reconciling	6352,4898
 Reconhecendo	2816,703,627,1,6603
 Reconheceu	9257
 Reconhecimento	2816
@@ -1039,7 +1099,9 @@ Reconsidering the Role	226
 Reconstrucción	1701,2508
 Reconstructing the Giant	1248
 Reconstruction	4539
-Record	103,3,85,1,36,1,9,52,10,3,13,1,2,101,1,56,21,53,2,20,7,1,155,464,274,514,263,458,452,553,147,559,32,694,357,920,67,123,1375,616,420,1367
+Reconstruction Development Programme Objective	11209
+Reconstruction Investment Fund	11310
+Record	103,3,85,1,36,1,9,52,10,3,13,1,2,101,1,56,21,53,2,20,7,1,155,464,274,514,263,458,452,553,147,559,32,694,357,920,67,123,1375,616,420,1367,790
 Record Activities	10775
 Record Date	7198,1741
 Record FAMS Financial Management System FTP	34
@@ -1048,6 +1110,8 @@ Record ID	105,7484
 Record Isolation	7081
 Record Keeping and Documentation	9855
 Record No	1919
+Record Shows	11310
+Record Smart ID	11274
 Record of Appeal	8978
 Record of Appeal and Other Matters	8978
 Record of Discussion	697,73
@@ -1058,7 +1122,7 @@ Recorda	9160
 Recordable	3893
 Recordamos	10753
 Recorde-se	3603,2617,1661,1083
-Recorded	673,2,1,93,285,87,65,32,54,1,42,1,83,253,1,90,21,1,2,7,3,213,47,1,19,1,1,73,83,412,381,173,1,2,3,3,644,516,1,36,1,1,80,67,50,528,113,351,26,10,7,1,98,280,1,10,351,26,178,496,1,2,3,2,247,211,479,122,71,64,207,534,78,6,1671,132,2,40,107,73,11,1,1
+Recorded	673,2,1,93,285,87,65,32,54,1,42,1,83,253,1,90,21,1,2,7,3,213,47,1,19,1,1,73,83,412,381,173,1,2,3,3,644,516,1,36,1,1,80,67,50,528,113,351,26,10,7,1,98,280,1,10,351,26,178,496,1,2,3,2,247,211,479,122,71,64,207,534,78,6,1671,132,2,40,107,73,11,1,1,45,10
 Recorded Consumption	9409
 Recorded DVD	6921
 Recorded Employment1	2775
@@ -1067,8 +1131,9 @@ Recorded Marketed Agricultural Production	2775
 Recorded Media	4583
 Recorded Sale of Government Forest Products	2775
 Recorded Sale of Produce	2775
-Recording	771,201,367,1,338,403,2,383,183,1,1514,405,3561,2813
+Recording	771,201,367,1,338,403,2,383,183,1,1514,405,3561,2813,238
 Recording Law	8852
+Recording and Tracking	11231
 Recording the PHC	771
 Recordings	34,11129
 Recordings Stored	6946
@@ -1080,8 +1145,10 @@ Records Cassava's GROUP-LEVEL	1429
 Records Continuum Model	9888
 Records Dataset	4528
 Records Management Journal	8021
+Records Management Standard	11349
 Records Management System	3042,2208,385
 Records Public Perception of Accountability Anti-Corruption	10837
+Records Service of South Africa	11349
 Records of Appeal	8978
 Records of E-waste Management Plan	1988
 Records of O&M	1988
@@ -1109,7 +1176,8 @@ Recoverability	5665
 Recovered	1545,1,384,1,1,1,1,1,1,1,72,2,1,1
 Recovered and Loss Averted	2775
 Recovering	7242
-Recovery	11,1927,1946,1248,544,4226,819
+Recovery	11,1927,1946,1248,544,4226,819,460,7,97,71
+Recovery Account CD Chief Director DAC	11218
 Recovery Data	11138
 Recovery Objectives	6432
 Recovery Plan	10721
@@ -1136,7 +1204,8 @@ Recreación	4209
 Recruit	4126,4873,1830,135,169
 Recruit GBV	1988
 Recruiting	1940,7591
-Recruitment	969,162,809,156,2432,355,650,4359,884,36,17,119
+Recruitment	969,162,809,156,2432,355,650,4359,884,36,17,119,270,6
+Recruitment Database National Teaching Awards Register	11241
 Recruitment of PIU	10829
 Recrutamento Em	10772
 Recrutamentos	1265
@@ -1150,7 +1219,7 @@ Rectification Background	3502
 Rectification and Remediation Protocols	3861
 Rectificação de Operações de Pagamento	10755
 Rectifier	9123
-Rectifying	8603
+Rectifying	8603,2592
 Recto and Verso	10765,10
 Rector	163,555,983,3290,1140,3094
 Rector Protección de Datos Personales	163
@@ -1176,6 +1245,7 @@ Recurrent Foreign Affairs	1777
 Recurrent International	1777
 Recurrent NCC	1777
 Recurrent National Cybersecurity Frameworks	1777
+Recurrent Neural Networks	11265
 Recurrent President	1777
 Recurrent Semi-Annually In Progress Finance	10870
 Recurrent and Capabilities	1777
@@ -1216,6 +1286,9 @@ Recycling	1988,7750
 Recém-Graduados	6462
 Recém-Nascidos	10777
 Recém-nascido	10777
+Refugee Reception Office	11177
+Refugee Reception Officer	11177
+Refugee Reception Offices	11177
 Registration Confirmation Receipt	10765
 Regulamento de Tratamento de Reclamações	5169
 Regulation. Recitals	7855
@@ -1234,9 +1307,12 @@ Résultats du Recensement Général	10826
 SANGRE ESTUPEF. RECURSOS FINANCIERA SERVICIOS SERVICIOS	4209
 SCHEME OF RECONSTRUCTION	4896
 SEPTEMBRE ATTRIBUTION DE PERMIS DE RECHERCHE	2342
+SERVICE PROVIDERS Definition Recognition	11179
 SETIC Recruitment	1284
 SIGE. Período de Recolha	10766
 SINGLE ELECTRONIC HEAL TH RECORD	8605
+SITA Repurposing Recommendations	11230
+SITA Repurposing Recommendations Programme	11230
 SITUATION DE MOBILISATION DES RECETTES BUDGETAIRES	3396
 SITUATION DE MOBILISATION DES RECETTES ORDINAIRES	3396
 SMS. Recognising	2948
@@ -1297,7 +1373,9 @@ Subventions Intérêts Investissement Personnel Recettes	7655
 Summary of Select Recommendations	10841
 Sun King Kenya Sustainable Receivables Securitisation	1137
 Support System EHR Electronic Health Record	9855
+Support for Ukraine’s Reconstruction and Economy Trust Fund	11310
 Supporting Recovery	8202
+System KIRM Knowledge Information Records Management	11261
 System Recovery	4610
 System Recovery A. All Telecommunications Service	4610
 Système National de Recherche Scientifique. Il	2696
@@ -1325,6 +1403,7 @@ Training Records Number	1988
 Training Records ZRCP	1988
 Transform Africa Summit. RECs	1264
 Travel and Recreation	9815
+Type of Notifications Received	11259
 U.S. Recipients	4049,198,55
 UK-initiated AI Safety Summits. Recently	11154
 UN Principles and Recommendations	10765,10
@@ -1334,8 +1413,10 @@ UNESCO Recommendation Human	7548
 UNESCO Recommendations	5246,1048
 UNESCO's Recommendation	8747,457
 UNESCO’s Ethics of AI Recommendation	5618
+UNESCO’s Recommendation	11265
 UNITES RECUS DOSSIERS ECARTS Pourcentage TRAITES	10975
 UVRE DU RECENSEMENT GENERAL DES ENTREPRISES	10875
+Ukraine Reconstruction Investment Fund	11310
 Ukraine. Record	10841
 Unclaimed Financial Assets Received	2775
 United Nations. Recognizing	10969
@@ -1349,6 +1430,7 @@ Valoración de Recursos Humanos Políticas Sectoriales	1701
 Version of Record	5349
 Video Disc EHR Electronic Health Record	34
 Vital Records System	10822
+Vodacom Recurring Data Bundles	11259
 Warehouse Receipt System	5883,3707
 Waste Management and Resource Recovery Act	7845
 West Africa. Key Recommendations	5677

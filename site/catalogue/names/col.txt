@@ -45,6 +45,7 @@ BUSINESS DEVELOPMENT AND INNOVATION TRAINING COLLEGE	7167
 BUTULA TECHNICAL AND VOCATIONAL COLLEGE Data	7167
 Bard College	8704
 Barnard College	7151
+Black African Coloured Indian	11192
 Blood Collection	2775
 Boakai Backs IG Coleman Amid Calls	10405
 Bomet University College Data Controller INST-2221615DBAC	7167
@@ -70,7 +71,7 @@ CDN Content Delivery Network Colo Colocation	10861
 CEO Bob Collymore	3621
 CEO of Collective X	10946
 CEO of Collective X. Non-profit	10946
-CET Colleges	6832
+CET Colleges	6832,4398
 CHANZEYWE TECHNICAL AND VOCATIONAL COLLEGE Data	7167
 CHERANG'ANY TECHNICAL AND VOCATIONAL COLLEGE Data	7167
 COLD SOLUTIONS KENYA LIMITED Data Controller	7167
@@ -123,9 +124,11 @@ Cher Collègue	7470
 Chers Collègues	11151
 Child’s Fingerprints Collection	10765,10
 Child’s Fingerprints Collection Figure	10775
+Christopher Colombo	11332
 Chuka Technical and Vocational College Data Controller	7167
 Chuka Technical and Vocational College Data Processor	7167
 Civil Service Training College	7182
+CoLabs	11230
 Code Général des Collectivités Territoriales Décentralisées	10981
 Code des Collectivités	9287,55
 Col Edith Nakalema	6576
@@ -222,11 +225,13 @@ Colin Lankshear and Michele Knobel	6948
 Colin Lankshear and Michele Knobel. Peter Lang	6948
 Colin Sykes	10540
 Colin Walsh	9713
-Collaborate	940,18,42,131,73,610,735,1577,737,381,92,3267,2401
+Collab Citizen	11251
+Collab Citizen App	11251
+Collaborate	940,18,42,131,73,610,735,1577,737,381,92,3267,2401,191
 Collaborateur	3879
 Collaborating	1243,850,185,497,829,1244,685,144,359,4805
 Collaborating To Transform And Improve Education	899
-Collaboration	562,337,41,21,170,30,616,37,393,342,456,157,196,246,37,470,103,25,19,325,223,174,56,208,2,239,66,46,80,203,233,19,162,122,377,1,155,1,9,161,52,226,67,83,203,226,45,16,316,64,329,200,52,23,123,307,39,125,269,14,38,220,611,8,58,42,130,1,4,119,8,1
+Collaboration	562,337,41,21,170,30,616,37,393,342,456,157,196,246,37,470,103,25,19,325,223,174,56,208,2,239,66,46,80,203,233,19,162,122,377,1,155,1,9,161,52,226,67,83,203,226,45,16,316,64,329,200,52,23,123,307,39,125,269,14,38,220,611,8,58,42,130,1,4,119,8,1,46,100,25
 Collaboration Age Group	582
 Collaboration Becoming	1810
 Collaboration Index	7548
@@ -238,8 +243,8 @@ Collaboration and Commercialisation. Commercialisation	10098
 Collaboration and Knowledge Sharing Pursuant	11134
 Collaboration and Partnership	4528
 Collaboration and Partnerships	1154
-Collaborations	1903,572,1692,1277,5332
-Collaborative	1131,5206,611,49,1430,465,1872,12,65,99,191,4
+Collaborations	1903,572,1692,1277,5332,514
+Collaborative	1131,5206,611,49,1430,465,1872,12,65,99,191,4,61,2
 Collaborative Approach	1718
 Collaborative Foundations for Implementa-	4848
 Collaborative Regulation	5241,811
@@ -262,7 +267,7 @@ Collateral Amounts	4517,2461
 Collateral Benefit Principle	1829
 Collateral Registry	940
 Collateral Registry Page	940
-Colleagues	6152,3706,595
+Colleagues	6152,3706,595,803
 Collect	940,60,988,3688,1275,597,3175,133,129,12,136
 Collect Prepare Calculate Calculate Optimal	10856
 Collectables	8494
@@ -272,7 +277,7 @@ Collecter	998,7,9812,158
 Collectif	1930,1,1,1,1,1,1,1,72,1,1,1,1,958,1051,2,1805
 Collecting	775,165,221,617,997,3914,16,233,813,13,1858,482,671
 Collecting and Analysis	940
-Collection	26,210,704,60,161,617,89,842,17,282,427,1220,299,1967,924,177,1531,1211,1,3,7,73,281
+Collection	26,210,704,60,161,617,89,842,17,282,427,1220,299,1967,924,177,1531,1211,1,3,7,73,281,107
 Collection Becomes Harder When Ugandans Doubt	3955
 Collection Date	3861
 Collection Mechanism for Peer-to-Peer	8590
@@ -288,8 +293,9 @@ Collection and Processing Regulations	4951
 Collection and Transportation	718
 Collection of Fund	7538
 Collections	3583,1,4313,10,807
-Collective	2096,529,2417,658,531,459,248,907,41,1006,2068,178
+Collective	2096,529,2417,658,531,459,248,907,41,1006,2068,178,86
 Collective Action	11138
+Collective Agreements	11218
 Collective Bargaining Agreements Registered	2775
 Collective Benefit	5246
 Collective Call	10360
@@ -355,6 +361,7 @@ Collocation and Infrastructure Sharing Market Segment	3862
 Collocation and Infrastructure Sharing Operator Category	3862
 Colloquium	6946
 Collstep Limited Data Controller INST-2530594D036 NAIROBI	7167
+Collusion	11240
 Collusive	1638
 Collège	4567,6254,4
 Collège Catholique Cours de Soutien	10821
@@ -377,7 +384,7 @@ Colocation NDC National Data Center DC	3184,1,1340,6470
 Colocação de Sinais	794
 Cologne-based	6879
 Colombe Blanche	1576
-Colombia	226,1017,4106,1614,1058,608,802,401,882,50,21,61,159,128,2,20
+Colombia	226,1017,4106,1614,1058,608,802,401,882,50,21,61,159,128,2,20,201
 Colombia Ambassador	6963
 Colombia Civil Registry Information System	10714
 Colombia Costa Rica Cuba Dominican Rep	10764
@@ -426,29 +433,33 @@ Coloniality of Chinese Surveillance Technologies	2518
 Colonne	5361
 Colonne Type Description Exemple	747
 Colony of Lagos	2535
+Colony-count	11269
 Colophon	410
 Coloplus Worldwide Services Limited	3862
 Colorado	4439,5940
 Colour	34
-Coloured	2093
+Coloured	2093,9087,12,1
 Colovic	2096
 Columba	1005
 Columbbo	7065
 Columbia	10759,76,2,1,130,187
 Columbia Center for International Earth Science Information	10759,78
 Columbia Convening	5029
+Columbia Journal of World Business	11310
 Columbia University	1013,6138,2808
 Columbia University CIESIN	196
 Columbia University DSP Digital Society Project	10759,78
 Columbia University Press	3782
 Columbia University UPU Universal Postal Union	10835,3,130
-Column	587,379,862,1734,306,2554
+Column	587,379,862,1734,306,2554,4757
+Column B of Schedule	11179
 Columnists Leader Star-blogs Cartoon Sports Football	9646
 Columns	1342,123,363,253,2,1,1583,744,2,1,357,4482
 Columns Reading Time	4535
 Columns The Absent Agenda	4535
 Colère	9054
 Community Development College	3524
+Comparison of Cold Case Matters	11250
 Confusing Collection Points	9696
 Congo Basin. Arusha Technical College	9944
 Congo's ARPCE and Judiciary Strengthen Collaboration	3961
@@ -499,6 +510,7 @@ Dominique Collett	9097,277
 Donor Collaboration Forum Bill	2204
 Doutor Ivan Collinson	2816
 Doutora Nilza Collinson	2816
+Download Collab Citizen App	11251
 Dr. Collins Mudogo	10662
 EQUIPEMENTS COLLECTIFS VII.1.1 Public Bureau	10847
 EQUIPEMENTS COLLECTIFS VII.1.2 Privé Bureau	10847
@@ -506,6 +518,7 @@ EQUIPEMENTS COLLECTIFS VII.1.3 Public	10847
 EQUIPEMENTS COLLECTIFS VII.1.4 Urbain Bureau	10847
 EQUIPEMENTS COLLECTIFS VII.1.5 Rural Bureau	10847
 ESATIC Methodology for Data Collection Data	3604
+ESAYIDI TVET College	11343
 EVIDENCE AND VALUE FOR GOVERNMENT COLLABORATION	11006
 Ebukanga Technical and Vocational College Data Controller	7167
 Ecosystem Collaboration	3487
@@ -553,6 +566,8 @@ Health Data Collaborative	2678
 Hive Colab Digital	11017
 Hive Collab	2676
 Honourable Vice President Col	3760
+ICT DATA COLLECTED BY ICASA	11211,51
+ICT Data Collected By ICASA	11262
 ID Data Collection	10765,10
 ID Data Collection Technological	10775
 IFC Collaboration	3562,42
@@ -603,6 +618,9 @@ Lead Arranger and Collateral Agent	4712
 Les Centres de Collecte des Données	10891
 Liberia College of Physicians and Surgeons	4202
 Loud Colors ApS Lrytas M1-AUB	8530
+Lt Colonel DG Mashele	11285
+Lt Colonel R Josiahs	11285
+Lt Colonel W Vrieslaar	11285
 Lupane State University Collaborators	1554
 M. Anatole Collinet MAKOSSO	6067
 M. Anatole Collinet Makosso	3173
@@ -630,10 +648,12 @@ Mai Nefhi College	10001
 Maison Collet	7163
 Maloma Colliery	3331,91,225,6,324,50,31,115,12,487,194,149,2015,234
 Maloma Colliery Ltd	3331,91,225,6,324,50,31,115,12,487,194,149,2015,234
+Maluti TVET College Phuthaditjhaba Campus	11343
 Market Share of Collocation	3862
 Master Skills Plan. Collectively	6832
 Masvingo Polytechnic College	4528
 Masvingo Teachers' College	4528
+Mbombela Central Reference Collection	11237,21,28
 Messagerie Collaborative	9049
 Mestre Nilza Collinson. Na	2816
 Methodology Data Collection	899
@@ -644,8 +664,11 @@ Mida Collect	7907
 Militaire Colonne	5361
 Military College	11131,3
 Ministry of Education. Colombia	2566
+Ministry of Small Business Development Collaborate	11195
 Morehouse College	36
 Morgenster Teachers' College	4528
+Mpumalanga CET College	11281
+Mr. Colin Sykes	11299
 Mr. Colley	10314
 Ms Ndileka Cola	9076,159
 Multi-Stakeholder and Cross-Sector Collaboration AI	7548
@@ -659,6 +682,7 @@ NITEL Gram Coop. Agric. Tech Coll	11129
 National Banking College	7341
 National Collec-	8605
 National Commission for Colleges of Education	8560,150
+National Education Collaboration Trust	11241
 National Integrated Big Data Center Collaborative	5242
 National Project Collect	1988
 Ndileka Cola	9076,615
@@ -667,6 +691,8 @@ Network Colour Codes	6946
 Nigeria AI Collective	9117
 Nigerian Colleges of Education	7405
 Njala University and Fourah Bay College	4619
+Nkangala TVET College	11281
+Nkangala TVET College and Mpumalanga CET College	11281
 North-Western Province Permanent Secretary Colonel Grandson	7130
 Number of Blood Units Collected	2775
 Numbering of Property The Data Collection Team	11129
@@ -682,6 +708,7 @@ PCU Responsibility for Data Collection PCU Page	3604
 PCU Responsibility for Data Collection PCU. Beneficiaries	3604
 PI Methodology for Data Collection	10768
 Pan-African Colocation Data Centre Rollout	1152
+Part D Collection	11181
 Participation and Collaboration Processors	3861
 Partnership and Collaboration Index	10550
 Partnerships And Collaborations	958
@@ -721,6 +748,7 @@ Rapid Data Collection Platform Bill	1113
 Rates and Collection	8590
 Real-Time Collection of Traffic Data	2913
 References Collinson	7836
+Refuse Collection	11231
 Regional Collaboration	1554,6367
 Regional Collaboration Lagging Indicators	4528
 Registration Services Agreement. Collectively	8866
@@ -749,7 +777,7 @@ Responsibility for Data FAS-IDL Collection Increase	10768
 Responsibility for Data FAS-IDL Collection Strengthen	10768
 Responsibility for Data MoHAIS Collection Stakeholder	1867
 Responsible AI Through Collaboration	2732
-Revenue Collection	9437
+Revenue Collection	9437,1813
 Robert Kennedy College	4896
 Rodrigues College	6399
 Ronald Ngala Utalii College	7441,192
@@ -784,6 +812,7 @@ Support and Collaboration	8670
 SÍMBOLOS E COLOCAÇÃO DE SINAIS Artigo	794
 TBC Public-Private Partnerships for Collaborative Regulation	5241
 TVET College	4494,2338,98
+TVET Colleges	11343
 Tax Collection	8669
 Teacher Training Colleges	383,6821
 Teachers' College Band Part	1154
@@ -819,6 +848,7 @@ Voter Register. Colley	9314
 Washington College of Law	9632
 Water Collection	11152
 West Africa. Collaboration	5677
+West Coast TVET College	11343
 WestProp Vision Mnangagwa Calls for Collective Effort	7312
 Western Data Collection	7869
 Williams College	11131,3

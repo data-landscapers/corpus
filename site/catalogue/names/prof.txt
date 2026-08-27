@@ -148,6 +148,7 @@ Expo View Profile	6357
 FINANCIAL CAPABILITIES Profile	418
 FORMAÇÃO DE PROFESSORES	10766
 Faculty of Commerce Professor Suki Goodman	11027
+Filing and Manage Your User Profile	11276
 Financial Performance Profit	11131
 Formación Profesional	4209
 Formación Profesional Ocupacional	4209
@@ -181,13 +182,15 @@ H1 Profit Hits N638.5bn NASCON	8178
 Health Informatics Professional	1219
 Health Professional Council of Zambia	34
 Health Professional Education	8605
-Health Professionals	2775
+Health Professionals	2775,8405
 Health Professions Act	10071
 Health Professions Authority	3025
 Health Professions Authority of Zimbabwe	10071
 Health Professions Council of South Africa	396,7905,2237
 Healthcare Professionals	8603,1252
 Healthcare Professionals Only	9855
+High Profile Cases	11250
+High Profile Companies	11250
 Honourable Professor Dr. Amon Murwira	9761
 ICT Professionals	2288
 IHE Profile IHE Profile Descriotion Referenced	1009
@@ -272,6 +275,7 @@ PSE. Le Professeur	2966
 Parcours Professionnels	8125
 Pauvreté. Le Professeur Ahouré Alban	10910
 Permanent Secretary Professor Albert Malama	6170
+PoE Portfolio of Evidence PPA Planning Profession	11261
 Police Service NPISHs Non- Profit Institutions	2775
 President Professor Arthur Peter Mutharika	5028
 Prime Minister and Committee Head Professor Kamil	9685
@@ -309,7 +313,7 @@ Professeur Tahirou Djara	9044
 Professeur Vincent Kangulumba	5888
 Professeure Mariatou Koné	10925
 Profession	2775,2121,5879
-Professional	34,1185,720,1,835,328,1411,14,719,1699,843,56,109,942,210,749,363,157,221,380
+Professional	34,1185,720,1,835,328,1411,14,719,1699,843,56,109,942,210,749,363,157,221,380,204,72,44,51
 Professional Certificate	10133
 Professional Development	6946
 Professional Etiquette	6946
@@ -318,6 +322,7 @@ Professional Experience	962
 Professional ID	10823
 Professional ID Registration	10823
 Professional Integration and Civic Service	6730
+Professional NonteachingStaff Personnel	11180
 Professional Nursing Today	8603
 Professional Orientation	10963,1
 Professional Programmes	11131
@@ -328,9 +333,9 @@ Professional Services Transportation Real Estate Energy	4972
 Professional Standards and Continuous Improvement	3861
 Professional Training Program RAIO	1204
 Professionalisation of Cybersecurity Roles	6936
-Professionalism	718,436,400,1221
+Professionalism	718,436,400,1221,8572
 Professionalize	3583
-Professionals	4126,88,4625,364
+Professionals	4126,88,4625,364,2093
 Professionnalisation	643,7660
 Professionnaliser	8891
 Professionnalisme	10874,2
@@ -352,6 +357,7 @@ Professor Alison Gildwald	6152
 Professor Alison Gillwald	7757
 Professor Andrew Forbes	9698
 Professor Anil Bharath	1246
+Professor Anil Sooklal	11185
 Professor Anu Bradford	11154
 Professor Basie Von Solms and Professor David	1200
 Professor Ben Kiregyera and Dr Norah Madaya	1188
@@ -365,6 +371,7 @@ Professor Eddie Mwenje of Bindura University of Science	520
 Professor Emmanuel Kofi Akowuah	8748
 Professor Engineer Q.C. Kanhukamwe	8483
 Professor Félix N’Zué	10508
+Professor Gee Hyun Hwang	11309
 Professor George Agyei	10631
 Professor Godfred Bokpin	7114,583
 Professor Herman	10729
@@ -441,12 +448,15 @@ Professores. Gráfico	10766
 Proficiency Testing Quality Assurance I Quality	4153
 Profil	7655,3057,2,161
 Profilage	1231
-Profile	775,234,27,855,1057,565,915,363,6050
+Profile	775,234,27,855,1057,565,915,363,6050,383
 Profile CERT-GH Home RFC	775
 Profile CERT-GH RFC	775
 Profile of DIAL's Digital ID Assessment	1582
+Profile of Employees Who Have Salary Levels	11218
+Profile of Employees Whose Positions Were Upgraded	11218
 Profile of Jess Auerbach	4448
 Profile of Taslim Okunola	5570
+Profile of Youth	11296
 Profile-WEB.pdf	3456
 Profiles	1875,240,2781,1684
 Profiles MauCAS	1386
@@ -460,11 +470,13 @@ Profissional	10777
 Profit	2096,2010,1905,985,431,236,378,2649,103,338,3
 Profit Adjusted	11134
 Profit Assets Liabilities Shareholder Equity Addition PPE	1944
+Profit Company	11250
 Profit EthSwitch	2362,225,502
 Profit Margin	1944
 Profit Margin Return	1013,931
 Profit Scaling	5869
-Profitability	1944,3157,1846,480,371,1937,1058,343
+Profit Sharing Percentage Ratio	11276
+Profitability	1944,3157,1846,480,371,1937,1058,343,104
 Profitability Earnings Before Interest Tax	6100
 Profitability Over Valuation	7798
 Profitable Agent Network	10249
@@ -528,6 +540,7 @@ Stanford Professor John McCarthy	1243
 Statement of Profit	1154,400
 Subsector Educación Técnica Profesional	4209
 Subsistemas de Ensino. FORMAÇÃO PROFISSIONAL BÁSICA	10766
+TAXPAYER’S PROFILE AND TAX STATUS	11240
 TPS Taxe Professionnelle Synthétique TVA Taxe	10712
 Talent Professionals	6936
 Tanzania Privacy Professionals Association	9589

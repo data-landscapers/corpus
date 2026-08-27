@@ -7,6 +7,7 @@ Airtel India and Airtel Tracy Mpofu	4896
 Airtel Money and TNM Mpamba	2728
 Aldai MP Marianne Kitany	11085
 Alegp Usonga MP Samuel Atandi	6316
+Alletra MP	11209
 André Mpumba Pedro	6636
 Angola's MPLA	9399
 Aringa South MP	8549
@@ -36,6 +37,7 @@ Communication Plan INTERNAL Board of Directors MPCC	11131
 Contact MP	7886
 Contact MP Coefficient	7886
 Contact MP Protest	7886
+Council M&E Monitoring and Evaluation MPAT Management	11224
 Current MPA Program Development Objective	2712,3867
 D'après José Mpanda	3818
 DA MP Alexandra Abrahams	3504
@@ -46,6 +48,7 @@ Dagoreti South MP John Kiarie	6316
 Dagoretti South MP John Kiarie	7000,2940
 Data Services MPI Master Patient Index	396
 Democratic Republic of Congo Me José Mpanda	9756
+Deputy Minister Mr Njabulo Nzuza MP	11218
 Dieketseng Masesi Mashego and John Mpe	9228
 Director General André Mpumba Pedro	6681
 Dzivarasekwa MP Edwin Mushoriwa	9229
@@ -60,8 +63,12 @@ Faith Mpara	9642
 Famille MPME Micro	10965
 Finances MGP Mécanisme de Gestion des Plaintes MPA	10876
 Former Kabete MP Paul Muite	9545
+Free State and Mpumalanga	11239
 Frequency and Attendance of MPCC Meetings	11134
 Gatundu South MP Kagombe	9940
+Gauteng Mpumala Limpopo National	11211
+Gauteng Mpumalanga Limpopo	11192
+Gauteng and Mpumalanga	11192
 Georges Mpelé	8737
 Global MPI	206
 Gualdino Mpengo	10752
@@ -102,11 +109,15 @@ Kisumu Central MP Shakeel Shabir	10654
 Kisumu West MP Rozzah Buyu	2742
 Kuandaa Mpango	6019
 KwaZulu-Natal Limpopo Mpumalanga North-West Northern Cape	8999
+KwaZulu-Natal and Mpumalanga	11296
 LGAs- MPDSR	4301
 Le MPA	10876
 Lejone Mpotjoane	6490
+Leon Schreiber MP	11218
+Limpopo Gauteng Mpumala	11262
+Limpopo Mpumalanga Northern Cape North West	11198
 Limpopo Unknown Mpumalanga NoUrtnhk-nWoewsnt Free State	8999
-Limpopo and Mpumalanga	9967
+Limpopo and Mpumalanga	9967,1278,27,25
 Lobamba MP Michael Masilela	7264
 Localization Coordination Council MPCA Multi-Purpose Cash	6947
 Lozitha High and Mpatheni High	11134
@@ -127,18 +138,29 @@ MP Balinda Rutebuka	5070
 MP Blessing Makumire	9229
 MP Both Indoor and Outdoor DFS and TPC	736
 MP Christine Bakundufite	10652
-MP DEPUTY MINISTER OF HOME AFFAIRS	5533
+MP DEPUTY MINISTER OF HOME AFFAIRS	5533,5685
+MP DEPUTY MINISTER OF LAND REFORM	11261
+MP Deputy Minister	11224
+MP Deputy Minister of Finance	11289
 MP Erneste Nsangabandi	5070
 MP Indoor	736
 MP K A UTSA N B	1154
 MP MATSOSO DIRECTOR-GENERAL DATE	396
+MP MINISTER OF COMMUNICATIONS AND DIGITAL	11265
 MP MINISTER OF HEALTH	34
 MP MINISTER OF HEALTH DATE	396
-MP MINISTER OF HOME AFFAIRS	5533
+MP MINISTER OF HOME AFFAIRS	5533,5685
+MP MINISTER OF HOME AFFAIRS DATE	11213,5
+MP MINISTER OF LAND REFORM	11261
 MP Madam Speaker	1222
 MP Materials	4447
 MP Mawanda	5422
 MP Michael Masilela	7264
+MP Minister	11193,31
+MP Minister of Communications and Digital Technologies DATE	11235
+MP Minister of Trade	11198,52
+MP Mpumalanga NGO Non-governmental	11192
+MP Speaker	11289
 MP Yvonne Mujawabega	10652
 MP for Aldai	10650
 MP for Aswa County	10672
@@ -224,12 +246,14 @@ MPs. Kenya Human Rights Commission	6787
 Mahonda MP	6123
 Malava MP Malulu Injendi	2515
 Maseyisini MP Nokuthula Dlamini	5450
+Master Health Facility List MP	11252
 Mathias Mpuuga	1283
 Matthew Willcox FAITS MARQUANTS Adm MPPEEP	2342
 Mbabane East MP Welcome Dlamini	7264
 Mbizo MP Corban Madzivanyika and Chiredzi Central	9229
 Mbooni MP	10654
 Me José Mpanda	9756
+Meeting MP Member of Parliament MPSS Minimum	11218
 Meetings Bi-monthly Progress Reports Bi-monthly MPCC	11131
 Memorandum of Understanding MPOX	10776
 Minister of Energy and Mining Lejone Mpotjoane	8801
@@ -258,14 +282,16 @@ Mpedi	10497
 Mpeketoni Boys’ Secondary School	10313
 Mpenge	718
 Mpesa	795
+Mpfaraleni Maseanoka Accounting Officer	11238
 Mphande	7375
 Mphande Primary School	7375
+Mphathiswa	11182
 Mphekgwana	8604
 Mpho Johannes Koko	2626
 Mpho Koolese	2735
 Mpho Mokwape DPSM	8108
 Mpho Morolong	3360
-Mpho Moyo	6436
+Mpho Moyo	6436,4759
 Mpho Ngoepe	8021
 Mpigi	5731,4050
 Mpika Youth Resource Centre	9137
@@ -290,8 +316,16 @@ Mpox Outbreak Response	10776
 MptentT	2815
 Mpulu	5721
 Mpulungu	7025
-Mpumalanga	1289,804,533,2976,19,3378,585,657,543
+Mpumal	11192,19
+Mpumalanga	1289,804,533,2976,19,3378,585,657,543,408,19,16,25,10,24,3,7,1,46
+Mpumalanga CET College	11281
 Mpumalanga MTN	10241
+Mpumalanga Province	11281
+Mpumalanga Province NDoH	11252
+Mpumalanga Provincial Government	11281
+Mpumalanga UR	11296
+Mpumalanga and Limpopo	11192
+Mpumalanga and Western Cape	11192
 Mpumelelo Nconco	7961
 Mpumi Edward	7532
 Mpungu Constituency and Naimanya	10465
@@ -307,11 +341,16 @@ Mzimba South MP	6754,1680
 N3 MPEG-21 DIDL MODS ASCII Citation	10878
 NRB Principal Secretary Mphatso Augustine Sambo	1888
 NRB Principal Secretary Mphatso Sambo	2883,47
+NW GP MP LP South Africa	11192
 Namisindwa MP	6493
 Natal Limpopo Mpumalanga	1013
+Natal North West Gauteng Mpumal	11262
 NdhloVvuice Chairperson Prof. I. D.T. Mpofu	1154
 Ndhlovu Prof. I. D.T. Mpofu Dr	1554
 Ninampongeza Mheshimiwa Dkt. Philip Isdor Mpango	2868
+Nkangala TVET College and Mpumalanga CET College	11281
+North West and Mpumalanga	11248,46
+Ntethelelo Marcia-Anne Mpofu	11302
 Number of Beneficiaries Mpumalanga Agincourt	6832
 O MPLA	6282
 OPHI's Global MPI	206
@@ -326,6 +365,7 @@ Principal Secretary Mphatso Sambo	2264
 Prof. I. D. T. Mpofu	1554
 Prof. I. D.T. Mpofu PBroofa.rZd.CMhauirramnadna	1154
 Prof. Irvine Denis Tapera Mpofu	1554
+Public Service and Administration Premier of Mpumalanga	11227
 Pujehun District List of Female MPs	5390,965,827
 Queries MJOS National Department of Health MPQ	1009
 R.T. Masekesa Prof. I. D.T. Mpofu	1154
@@ -355,3 +395,4 @@ VLAN and MPLS	3840
 WURI MPA	552,779
 World Bank MPME	7891
 World Bank's Guichet MPME	7891
+Yandiswa Mpetsheni Morudu DDG	11237

@@ -37,7 +37,8 @@ Administration and Human Resources Committee	1154,400
 Administration and Human Resources Committee Functions	1154
 AfriFORTIFIED HUB	1857
 Africa AI Policy Lab and Lawyers Hub	6937
-Africa Data Hub	9595
+Africa Data Hub	9595,1736
+Africa Data Hub Holding	11331
 Africa Data Hub Holding Limited	10793
 Africa Governance and Civic Innovation Hub	8628
 Africa GreenTech Hub	8094
@@ -181,7 +182,7 @@ Civilians Absence of Forced Migration Absence of Human	10759,78
 Climate Innovation Hub	3730
 Clive Humby	6982,729,3443
 Cloud Hero and Google Hustle Academy. Google	1590
-Co-Creation Hub	1111,370,99,8590
+Co-Creation Hub	1111,370,99,8590,1177
 Co-creation HUB	8327,562
 CoE APO07 Managed Human ITCap	9237
 College of Human Sciences	8021
@@ -196,6 +197,7 @@ Concours Huawei ICT	6235
 Confidential Business Business Event Human Resources	9124
 Conforme Welt Hunger Channel Master	998
 Consortium of Ethiopian Human Rights Organisations	8351
+Construction Human	11248
 Content Creator Hub	6759
 Cooperation Privacy Human	1243
 Coordination of Humanitarian Affairs	10776,380
@@ -261,10 +263,12 @@ Democracy and Human Rights	1814
 Denial of Genocide and Crimes Again Humanity	26
 Departamento de Recursos Humanos	2816
 Departamento de Recursos Humanos Dande. Corrupção	10751
-Department of Health and Human Services	4049,3701
+Department of Health and Human Services	4049,3701,3592
 Department of Health and Human Services. The U.S	10446
 Department of Human Resource Management and Development	9216
 Department of Human Resource Management and Development Kate	9216
+Department of Human Settlements	11244
+Department’s Renewable Energy Hub and Spokes Flagship	11281
 Deputy General Manager of Huawei South Africa	7979
 Deputy Managing Director of Huawei Technologies Nigeria	8560
 Derechos Humanos	1701,2508,2632
@@ -284,8 +288,8 @@ Diaspora Hub	7843
 Diaspora Hub. Ils	8584
 Diaspora Humanitarians. Online	6947
 Digital For Development Hub	1063
-Digital Hub	1885,7324,125
-Digital Hubs	4484,4085,765,2
+Digital Hub	1885,7324,125,1890
+Digital Hubs	4484,4085,765,2,2007
 Digital Hubs Programme	9209
 Digital Human Resource Management	10870
 Digital Innovation Hub DPF Data Policy	1814
@@ -446,6 +450,7 @@ Game Hub Senegal and Anim’Lab	2544
 Garissa Youth Hub and Nyeri County Youth	6946
 Gases GoZ Government of Zimbabwe HDI Human	970
 Gbps. Huawei	859
+Gemini Student Hub	11301
 Gender Inequality Index UN Human Development	11004
 Geoff Huston	2677
 Gestion des Ressources Humaines	1281,9540
@@ -472,6 +477,7 @@ Gov-Cloud Government Cloud HR Human Resource	6432
 Governing AI for Humanity	1814,1002,4296
 Governing AI for Humanity. Disponível	2816
 Government Integrated Youth Hub	5015
+Government Printing Works HRM&D Human Resource	11218
 Government Urges Huduma Number Registration Ahead	10822
 Government and Huawei	4381
 Government of Zambia and Huawei Technologies Co	59,134
@@ -482,6 +488,7 @@ GreenTech Hub	8094
 Guangwei Hu	1248
 H.E Dr. Maryan Mohamed Hussein	10477
 HIV Human Immunodeficiency Virus POPI Protection	396
+HOD Head of Department HSRC Human Sciences	11224
 HR Hub	3378
 HRA Human Resources and Administration HRIS Human	34
 HRIS Human Resource Information System IaaS	6432
@@ -494,6 +501,7 @@ HUB-COMPILE	5618,859
 HUBIYE	2819,1272,502
 HUBIYE Verification Platform	4091
 HUITIEME LEGISLATURE UNITE-PROGRES-JUSTICE	785,10040
+HULPVERLENING	11190
 HUMAN	11156
 HUMAN AND SOCIETAL IMPACTS	11156
 HUMAN CAPITAL	10762
@@ -513,6 +521,11 @@ HUMAN DEVELOPMENT HUMAN DEVELOPMENT HEALTH Access	10759
 HUMAN DEVELOPMENT SCORE	10759,78
 HUMAN RESOURCE CAPACITY	5665
 HUMAN RESOURCE INFORMATION SYSTEM STANDARDS	34
+HUMAN RESOURCE MANAGEMENT	11218,6,26
+HUMAN RESOURCE MANAGEMENT Introduction	11198
+HUMAN RESOURCE MANAGEMENT No Figures	11250
+HUMAN RESOURCES MANAGEMENT	11197
+HUMAN RESOURCES OVERSIGHT STATISTICS	11218,6
 HUMANITARIAN CRISES DEEPEN IN THE CAR	4127
 HUMANOS	10750,1,1,1
 HUMANOS CIVIL BATA PROPIEDAD TOTAL REHABIL	4209
@@ -530,6 +543,7 @@ Hachalu Hundessa	2117
 Handbook of Human-Centered AI	4253
 Hanga Hubs- Increased	633
 Harnessing AI for Humanitarian Impact	5233
+Heads of Intellectual Property Offices HR Human	11250
 Health Data Hub	7313
 Health Knowledge Hub	9718
 Health Products Regulatory HRIS Human Resource	396
@@ -543,6 +557,7 @@ Helton Chigamane Sociado Huo	2989
 High Commissioner for Human Rights	3583,544,2820
 High Commissioner for Human Rights’ Compilation Report	10841
 High Human Capability-expanding	10726
+Higher Education and Training DHS Department of Human	11261
 Home The Cybersecurity Hub	8897
 Horizontal Expansion Hunger Safety Net Programme	10763
 Horn Hussein Sheikh-Ali Far-right	3463
@@ -766,7 +781,7 @@ HumAngle	5267
 HumAngle Bala Abubakar	5267
 Humain	9824
 Humains	4325
-Human	21,13,737,18,169,3,8,1,97,64,88,65,154,376,4,10,39,121,319,468,183,529,96,27,81,435,1,312,89,716,77,590,303,91,846,53,344,242,96,209,188,18,159,329,21,257,56,81,195,70,83,64,97,73,151,199,276,314,38,4,8,4,49,27,14,93,1,5,59,105,23
+Human	21,13,737,18,169,3,8,1,97,64,88,65,154,376,4,10,39,121,319,468,183,529,96,27,81,435,1,312,89,716,77,590,303,91,846,53,344,242,96,209,188,18,159,329,21,257,56,81,195,70,83,64,97,73,151,199,276,314,38,4,8,4,49,27,14,93,1,5,59,105,23,32,5,5,17,33,17,40
 Human AI	10726
 Human AI Capabilities and Development AI Adoption	10726
 Human Appeal	4528
@@ -776,7 +791,7 @@ Human Behavior and Emerging Technologies	1248,4452,2322
 Human Capabilities	10726
 Human Capacity	1161,9839
 Human Capacity Development	1554
-Human Capital	969,3559,2409,3831,363,3
+Human Capital	969,3559,2409,3831,363,3,131
 Human Capital Development	1154,2707,667,748
 Human Capital Development Must Be Systemic	7548
 Human Capital Development Objective	4528
@@ -827,20 +842,26 @@ Human Resource	236,1704,5006,1027,1882
 Human Resource Administration	6946
 Human Resource Capacity	21
 Human Resource Capacity Monitoring and Evaluation	21
-Human Resource Development	3583
+Human Resource Development	3583,7605
+Human Resource Development Component	11188
+Human Resource Development Council	11290
+Human Resource Development Developing	11188
+Human Resource Development Pillar	11188
 Human Resource Directorate	1824
 Human Resource Establishment	6946
 Human Resource Establishment The Authority	6946
+Human Resource HRP Human Resource Plan	11261
 Human Resource ICT Information and Communications Technology	1818
 Human Resource Information System	396,3953
 Human Resource Internal Audit Compliance Management	6946
-Human Resource Management	395,6551,1027,1151
+Human Resource Management	395,6551,1027,1151,2126
 Human Resource Management Information System	127
 Human Resource Management Information System Human	10870
 Human Resource Management Information Systems	10785
 Human Resource Management Office	7182
 Human Resource Management The PSDG	10829
 Human Resource Management and Signature Development	5533
+Human Resource Oversight Statistics	11197,53
 Human Resource Plan	4217
 Human Resource Policies and Procedures	6946
 Human Resource Policy	10721
@@ -848,18 +869,19 @@ Human Resource and Administration	1778,210
 Human Resource and Administration Mrs Christine Mshanga	34
 Human Resource and Administration Nalituba Mwale	10510
 Human Resource for Health Information System	1261
-Human Resources	34,1906,3917,3266,1636,17,59,2,1,130
+Human Resources	34,1906,3917,3266,1636,17,59,2,1,130,263
 Human Resources Cabinet	10775
 Human Resources Committee	1154,400,5650
 Human Resources Committee The Finance	1554
 Human Resources Committee Total Number	1554
 Human Resources Development Committee	10337
+Human Resources Given	11198
 Human Resources IHR	10776
 Human Resources MIS I-9	10785
-Human Resources Management	1154,130
+Human Resources Management	1154,130,9896
 Human Resources Management Information System	10785
 Human Resources Management Research Council of Zimbabwe	1554
-Human Resources Management and Development	5533
+Human Resources Management and Development	5533,5704
 Human Resources Office	9440
 Human Resources Overview	408
 Human Resources Support	5533
@@ -868,7 +890,8 @@ Human Resources and Technical Expertise	5677
 Human Resources for Health	21,1198,2998,43,89,6480
 Human Resources for Health Conference	7321
 Human Resources for Health SAHPRA South African	396
-Human Rights	1814,704,97,343,47,578,1,396,3986,977,1832,44,3,313,19
+Human Right and Public Responsibility	11285
+Human Rights	1814,704,97,343,47,578,1,396,3986,977,1832,44,3,313,19,178
 Human Rights Act	34
 Human Rights Cases	9783
 Human Rights Cluster	9261
@@ -878,14 +901,16 @@ Human Rights Commission Act	1988
 Human Rights Commissions	961
 Human Rights Committee	3583,3368
 Human Rights Consulting Group	9082
-Human Rights Council	3583,1
+Human Rights Council	3583,1,7626
 Human Rights Council Advisory Committee	3583
 Human Rights Council Resolution	6949
 Human Rights Council Sixtieth	3583
 Human Rights Crisis	3584
+Human Rights Dialogue	11210
 Human Rights Economy	3583
 Human Rights Enforcement Act Cap	3005
 Human Rights Federation	10826
+Human Rights Greening the Mauritian Economy	11332
 Human Rights Impact Assessment	1823
 Human Rights Impact Assessments	5618
 Human Rights Impact Assessments for AI	6132
@@ -898,6 +923,7 @@ Human Rights Law and Serious Violations of International	3583
 Human Rights Perspective	2102
 Human Rights Practices	9399,1442
 Human Rights Research Center	1354,2243
+Human Rights UNDP Mauritius Annual Report	11332
 Human Rights Watch	2518,1065,5816,1427
 Human Rights Watch. Human	7187
 Human Rights Writers	5215
@@ -925,6 +951,8 @@ Human Rights-Centred Approach	7678
 Human RightsStrive Masiyiwa Proves You Can	42
 Human Sciences	7886
 Human Security	10529
+Human Settlements	11285
+Human Settlements Entities	11285
 Human Settlements Programme UNHCR United Nations	10759,78
 Human Settlements and Land Use Reaseach and Policy	4482
 Human Settlements and Land Use Research and Policy	1514
@@ -945,7 +973,7 @@ Human and Peoples' Rights. Joof	9313
 Human and Peoples' Rights29	3583
 Human and Peoples’ Rights	961,853,1191,2316,212,655,763,727,1404,1647,46,320,5
 Human and Peoples’ Rights Declaration of Principles	9416
-Human and People’s Rights	961,6717
+Human and People’s Rights	961,6717,3515
 Human and People’s Rights AI Artificial Intelligence	1814
 Human and People’s Rights. This Data Policy	961
 Human and Social Integration	9194
@@ -969,7 +997,7 @@ Humanising Big Tech Accountability	9817
 Humanising Tech Accountability	9817
 Humanit	9739
 Humanitaire	2342
-Humanitarian	1887,629,1067,1095,129,18,17,2105,257,1863,699,1063,12
+Humanitarian	1887,629,1067,1095,129,18,17,2105,257,1863,699,1063,12,515
 Humanitarian Action	1828,9328
 Humanitarian Action Using Machine Learning	2816
 Humanitarian Affairs	970,3184,11,2,6659
@@ -1007,9 +1035,10 @@ Humanos. Espera-se	10752
 Humanos. Irikidzai Munodawafa	10750
 Humanoversightandprofessional	8301
 Humans	571,2387,4193,397,670,162,80,483,226,1052,531,404
+Humansdorp District Hospital Co-location PPP	11248
 Humble French Engineering Term Shaped the Modern	5700
 Humbo	10574
-Humbulani Mudau	6628
+Humbulani Mudau	6628,4616
 Humidification	9123
 Humidity	10956
 Humidity Control	10956
@@ -1123,6 +1152,7 @@ Huíla Namibe ROSA ELSA ERNESTO BAPTISTA	10751
 Huíla SUZANA NAZARÉ CELESTINO JOSÉ	10751
 Huíla. Resolução	539
 IA Hugging Face. Sam Altman	8863
+ICT COMPLAINTS AND CALL CENTRE HUMAN	11198
 ICT Data Hub	6946
 ICT Hub	5109,3552,134
 ID for All Hundreds	3460
@@ -1133,6 +1163,7 @@ INCLUSION HUMAN DEVELOPMENT PARTICIPATION HEALTH Freedom	10835,3,130
 IOtech Global Hub Ltd	3862
 IPPIS Human Resource Modules	7973
 Identify A Human Need And Reach	36
+Illegal Hunting Prevention	11188
 Immunization FP Family Planning HIV Human	771
 Impact Hub	4126
 Impact of M-Pesa and Huduma Namba	9399
@@ -1143,12 +1174,13 @@ Incident Management Process The Cybersecurity Hub	8897
 India With Huge Amount of Cocaine Hidden	8115
 Indice de Développement Humain	1005
 Industry Hubs	5241
+Information Hub	11334
 Information Integrity and Human Rights	10453
 Information System DHRA Directorate of Human Resources	34
 Information des Ressources Humaines	6240
 Inmunodeficiencia Humana WASH	1701
 Inno Africa Hub	10686
-Innovation Hub	1710,1987,268,287,1361,133,52,1140,1354,905,108
+Innovation Hub	1710,1987,268,287,1361,133,52,1140,1354,905,108,1949
 Innovation Hubs	226,1010,1721
 Instituições Nacionais de Direitos Humanos	10750
 Institute of Human Resource Management	6946,3097
@@ -1157,7 +1189,9 @@ Institutions Human	10969
 Instituto Humanitas Unisinos	2816
 Int J Arts Humanit Soc Sci	9739
 Integral Human Development	10841
+Integrate Humanitarian	11285
 Integrated System for Human Resources Management of Civil	10812
+Intended for Human Consumption. Covers	11269
 Inter-Faculty Human Research Ethics Committee	9128
 International Human Rights Standards	2958
 International Human Rights and Humanitarian Law	3583
@@ -1206,6 +1240,7 @@ Koneta Hub	2685,2,359,86,176,15,119,65,269,321,447,96,374,93,240,768,696,438,183
 Kousseri and Amchidé. Huawei Technologies Co	303,7286
 La Direction des Ressources Humaines	2342
 Labour Environment Infrastructure Rural Economy Human	10837
+Lauds Nigeria’s National Innovation Hub Standard	11304
 Launch AI Infrastructure Hub	6332
 Lawyers Hub	6189,748,3882
 Lawyers Hub Kenya	10819
@@ -1240,6 +1275,7 @@ Make Hub	736
 Managed Services Hub	5278
 Manager of Scenious Hub	8330
 Marketing. Huawei	10318
+Martine Chung How Human Resource Assistant	11332
 Masakhane African Languages AI Hub	3344
 Masakhane African Languages Hub	3987,1611,5022
 Masakhane African Languages Hub and Google.org	9929,15
@@ -1262,6 +1298,7 @@ Minister Hung	1962
 Minister Nguyen Manh Hung	1962
 Minister of Education and Human Resource Dr Mahend	9949
 Minister of Human Resources and Social Development Moatasim	8613
+Minister of Human Settlements	11285
 Minister of Humanitarian Action	10864
 Minister of Humanitarian Affairs and Disaster Management	7141
 Minister of Humanitarian Affairs and Poverty Reduction	3018
@@ -1271,6 +1308,7 @@ Minister of State for Humanitarian Affairs and Poverty	2381
 Ministry of Education and Human Development	2473
 Ministry of Education and Human Resource	4759,5190
 Ministry of Education and Human Resource Development	8609
+Ministry of Human Settlements	11285
 Ministry of Humanitarian Action	10841
 Ministry of Humanitarian Affairs and Disaster Management	3583
 Ministry of Justice and Human Rights	1344,9421,10
@@ -1289,6 +1327,7 @@ Mshel Homes Hutu Exclusive N-Trillion Golf	2841
 Namibe Huíla Cunene Lunda Sul Bengo	10777
 National Cybersecurity Hub	8897
 National Data Exchange Hub	1361,7187
+National Department of Human Settlements	11285
 National High-Commission for Human Rights of Central African	10826
 National Human Development Report	3310
 National Human Resources Ad-	10780
@@ -1300,7 +1339,8 @@ National Human Rights SAHRC Summit Report	10729
 National Human Rights Strategy	2958
 National ICT Innovation Hub	2676,2433,1756,787,1207,530,512
 National ICT Support Program and Innovation Hub	2676
-National Innovation Hub Standards Framework	10573,107
+National Innovation Hub Standard Framework	11304
+National Innovation Hub Standards Framework	10573,107,624
 National Innovation Hub Standards Framework Workshop	10573
 National Minister of Human Settlements	8564
 National Religious Leaders Forum. A Human	2626
@@ -1319,6 +1359,7 @@ Nine Hundred and Thirty-Six US Dollars	3862
 Norte Cuanza Sul Cunene Huambo Huíla	10766
 O Gabinete de Recursos Humanos	167
 OS and Huawei	7266
+OVERVIEW OF HUMAN RESOURCES	11218,6
 OWLPRESS Fintech Firm Open Hub Launches	5939
 Ol Kalou Jitume Digital Hub	6627
 Open Hub	5939
@@ -1326,11 +1367,13 @@ Open Hub Chief Executive Officer David	5939
 OpenStack and Huawei FusionSphere	9455
 Openstack and Huawei Fusion Sphere	9455
 Operationalising the Humanitarian-Development Nexus	970
+Operations Human	11248
 Organ Behav Hum Decis Process. Dec	10919
 Organisation Marocaine des Droits Humains	8891
 Organizational Behavior and Human Decision Processes	5349
 Outbox Hub	2676
 Overcoming Hurdles and Harnessing Potential While Mauritius	3292
+Overview of Human Capital Matters	11250
 Oxford Poverty Human	206
 P4 Human Capital	6937
 PAIX Data Centres CEO Wouter van Hulten	2320
@@ -1347,6 +1390,8 @@ Perspective of Human Rights Watch	2518
 Planeamento A Ministra da Saúde Víctor Hugo	10777
 Police and Huawei	315
 Policy's Hubris	11028
+Post Diepkloof Business Hub	11251
+Post Kwanokuthula Business Hub	11251
 Pour Huawei	10471
 Pour KMR Start-up HUB	6655
 Power Hungry	11140
@@ -1356,8 +1401,10 @@ President of Huawei Wireless FDD Product Line	8379
 President of Huawei for West	2627
 Presidente da Huawei	3692
 Prevention of Genocide and Other Crimes Against Humanity	10841
+Priority Human Settlements and Housing Development Areas	11224
 Procuradora-Geral Adjunta de Humanos	10750
 Product Graduate Trainee Human Capital HRH	11134
+Products Intended for Human Consumption	11269
 Prof. Humphrey Danso	9534
 Programa de Formação de Recursos Humanos	4754
 Programme Quinquennal de Transformation du Capital Humain	1993
@@ -1489,8 +1536,8 @@ SoftSuite Human Capital Management	7973
 Solutions HUAWEI	3511
 Soon Huat Lim	2385,313,7644
 Sous-Direction des Ressources Humaines SDRDC	10975
-South African Human Rights Commission	5806,499,3377,659,112,237,32,7
-South African Human Rights Commission Act	6305
+South African Human Rights Commission	5806,499,3377,659,112,237,32,7,536
+South African Human Rights Commission Act	6305,4960
 South African Human Rights Commission's Policy	10453
 South African Human Rights Commission. All	9234
 South African Human Rights Commission. Email	10729
@@ -1498,10 +1545,12 @@ South African Journal of Human Resource Management	4432,2400
 South Sudan's Human Development Index	3583
 Sovereignty and Tech Hub Goals	2627
 Space Huge SpaceX	9816
+Space Infrastructure Hub	11248
 Spatial Planning and Human Settlement	1513
 Standard Digital Hub	6946
 Standard Digital Hubs	6946,2263
 Standard Digital Hubs and Centres of Excellence	6946
+Standard Guide for Sampling of Hempseed Intended for Human	11269
 Stanford University Human-Centered Artificial Intelligence	1243
 Starlink and Tech Hub Development	5437
 Start-up Hub	2218
@@ -1591,9 +1640,10 @@ United Nations Human	11004
 United Nations Human Rights Commission	6776
 United Nations Human Rights Council	3583,544,5018,1696
 United Nations Human Rights Council. First	3584
+United Nations Human Settlements Programme	11285
 United Nations Humanitarian Coordinator	3583
 United Nations Trust Fund for Human Security	10529
-United Nations Universal Declaration of Human Rights	8747
+United Nations Universal Declaration of Human Rights	8747,2430
 United Nations Women Data Hub and ILOSTAT	3604
 United Nations Women Data Hub and World	3604
 Universal Declaration of Human Rights	1963,995,47,578,278,892,568,212,3410,1154,722
@@ -1623,7 +1673,8 @@ Youssef Farhat. TECHNOLOGY AND HUMAN RIGHTS	1823
 ZTE. Huawei	4949
 Zambia Human Rights Commission	9082
 Zed. Global Infrastructure Hub	11155
-Zero Hunger	789,342
+Zero Hunger	789,342,10108
+Zero Hunger Goal	11332
 Zimbabwe Human Rights Commission	970
 Zimbabwe ICT Innovation Hub Responsible for ICT	395
 Zimbabwe Lawyers for Human Rights	9145

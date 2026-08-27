@@ -6,6 +6,7 @@ ANCHOR BAY PRODUCTIONS LTD Data Processor	7167
 APERTURE AFRICA PRODUCTIONS LTD Data Controller	7167
 APERTURE AFRICA PRODUCTIONS LTD Data Processor	7167
 ARTISANAT DE PRODUCTION	10875
+Abbreviations CPC Central Product Classification HS	11258
 Action Plan NCPB National Cereals and Produce	2775
 Acts Control and Production Service	10937
 Advisory Product Manager	5359
@@ -26,6 +27,7 @@ BASIC DATA Product Information Operation ID	2473,2180
 BASIC DATA Product Information Project ID	1228
 BIO FOOD PRODUCTS LIMITED Data Controller	7167
 BIO FOOD PRODUCTS LIMITED Data Processor	7167
+BROADCASTING PRODUCTIONS EXPENDITURE	11211,51
 BUFFALO PRODUCTIONS LIMITED Data Controller INST-45150587CF7	7167
 BUFFALO PRODUCTIONS LIMITED Data Processor INST-45150587CF7	7167
 Bank Products	940
@@ -52,6 +54,7 @@ Card Production Centers	10812
 Card Production Centers CPF Code of Persons	10812
 Card Production Centers. Once the CNIB	10812
 Cement Production and Utilization	2775
+Central Product Classification	11258
 Centre de Production de Cartes	10812
 Centres de Production de Cartes	10812
 Centro de Produção	438,6303,4031,3
@@ -59,13 +62,16 @@ Centro de Produção de Bilhete de Identidade	10772
 Certificación de Productos	4209
 Challenge Program GIZ Gross Domestic Product	3604
 Chief Product Officer	6865,3358
+Circular Economy and Development of Green Products	11332
 Classification of Financial Services and Products	2775
 Climate Change Induced Productivity Shocks	1828
 Climate Products	2775
 Cloud Productivity Solutions Limited Data Controller	7167
 Cloud Productivity Solutions Limited Data Processor	7167
+Co-operation and Development PPI Producer Price Index	11286
 Comité Produire	10975
 Commercial Market Related Products	3511
+Comparative Analysis of Fibre Products	11259
 Consumer and Producer Subsidies	1828
 Consumption and Production Monitoring	970
 Control of Foreign Products	4045
@@ -80,6 +86,7 @@ DE LA PRODUCTION	10813
 DGI Produire	10858
 DU MINERAI PRODUIT. En	2342
 DUPONT PERFORMANCE SPECIALTY PRODUCTS LIMITED Data	7167
+Data Exchange for Open Access Data Products	11222
 Data Product	4214
 Defense Production Act	4447
 Definition The Namibia Producer Price Index	11152
@@ -99,6 +106,8 @@ Domestic Product GFCF Gross Fixed Capital	2775
 Domestic Product GHG Greenhouse Gas GNI	6539
 Domestic Product GIPE Government Investment	6946
 Domestic Product GIZ German Development Agency	10841
+Domestic Product GNI Gross National Income	11271
+Domestic Product GW Gigawatt GWh Gigawatt-hour	11228
 Domestic Product Quarterly Projection Model Remuneration	11134
 Domestic Production of High-Security Credentials Margins	4791
 DÉSORMAIS PRODUIRE DES GAINS	8637
@@ -124,6 +133,7 @@ Exploration and Production Sharing Agreements	3583
 Exports of Fresh Horticultural Produce1	2775
 F Production	972
 FCFA de Production	2342
+Film Industry Production Scheme	11236
 Finanzas Públicas PRODUCTIVIDAD	1701
 Fisheries and Animal Production	10964
 Focus On Authentic Products	10274
@@ -136,6 +146,7 @@ Fuel Products	1828
 Fuel Products Price Structure	1828
 Future Productivity Growth . Philadelphia	11140
 GDP Gross Domestic Product GEF Global	7548
+Gas Independent Power Producer Procurement Programme	11248
 Gender-Based Violence Gross Domestic Product Government	1228
 Global Flood Product	10763
 Global Production Networks	226
@@ -143,7 +154,7 @@ Goat Productivity Project	1554
 Goat Productivity Project Lupane District	1554
 Google’s Products	1363
 Grain Production Forecast	2837,989,15,690,99,50,66,65,38,415,53,275,183,129,44,409,340
-Gross Domestic Product	236,337,367,423,625,787,641,167,279,1587,876,122,27,65,339,68,746,1343,119,98,617,935,52,124,154,35
+Gross Domestic Product	236,337,367,423,625,787,641,167,279,1587,876,122,27,65,339,68,746,1343,119,98,617,935,52,124,154,35,26,33
 Gross Domestic Product Financial and Insurance Activities	2775
 Gross Domestic Product GDP	2775
 Gross Domestic Product GDPR	5244
@@ -153,6 +164,8 @@ Gross Domestic Product Harare Institute of Technology	4528
 Gross Domestic Product Know-Your-Customer Mobile	11130
 Gross Domestic Product Per Capita	8950
 Gross Domestic Product and Gross National Income	2775
+Gross Domestic Products	11289
+Gross Primary Productivity	11334
 Group Chief Product and Innovation Officer	8429
 HOUSEHOLD ACCESS TO ICT PRODUCTS	582
 Handicraft Production Units	10980
@@ -163,6 +176,7 @@ Health Products Regulatory HRIS Human Resource	396
 Health Products and Mobile Apps	6946
 Health Products and Technologies	9855
 Hemp and Cannabis Food Product Regulations	2626
+Herotel Wireless Products	11259
 Huawei Wireless FDD Product Line James	8379
 Hyde and Prodelin Idirect X7 Bande C	998
 ICT Products Research and Development Programmes Launched	958
@@ -174,7 +188,8 @@ IPP Independent Power Producer IT Information	10781
 Icc Credentials Production	10775
 Improve the Productivity of Small-scale Farmers	1867
 Inclusão Financeira Precisa De Tornar-se Produtiva	8003
-Independent Power Producers	408,310,5774
+Independent Power Producers	408,310,5774,4723,13
+Independent Power Producers Four	11228
 Independent Power Producers Independent Power Producers	9458
 Independent Producers	10861
 Independent Producers Organisation	10481
@@ -194,6 +209,7 @@ International Journal of Production Economics	4432
 Investigation GDP Gross Domestic Product GNI	10765,10
 Ivoire Productive	3604
 JUSTICE PRODUCTEURS OFFICIELS DE PREUVES	3381
+Joburg Fresh Produce Market Agriculture	11248
 Journal of Cleaner Production	11006
 Journal of Productivity Analysis	1828
 Kenya's Gross Domestic Product	7204
@@ -224,6 +240,7 @@ Marketing of Agricultural Products Act	1009
 Mechanisation Drive Boosts Agricultural Production	8639
 Minimum Viable Product	10970
 Mobile Infrastructure Content and Indirect Productivity	6593
+Modelling and Guidance Products Regional	11191
 NACIONAL DE PRODUTORES AGROPECUÁRIOS E PARCEIROS	10769
 NAMIBIA PRODUCER PRICE INDEX BULLETIN-SECOND QUARTER	11152
 Namibia Producer Price Index	11122,30
@@ -233,6 +250,7 @@ National Gross Domestic Product	1228
 National ID Production Centre	10775
 National Product Catalogue	3400
 National Production Center	10775
+Net Primary Productivity	11334
 Network Gross Domestic Product Global Facility	10763
 Network Product and Deputy Group CPIO	10138
 Next Productivity Frontier	1814
@@ -241,12 +259,15 @@ Nigerian Gross Domestic Products	3862
 Nigerian Gross Domestic Products Q4	3862
 Nigeria’s Gross Domestic Product	8087
 Non-Metallic Mineral Products	2775
+Nowcasting Products	11191
 Nº Productos Tarifa de IVA Aduanas	4209
 OICA. World Motor Vehicle Production	8891
 OICA. World Passenger Car Production	8891
+ONLINE PRODUCED LOCALLY	11262
 Office des Produits	8237
 Official Launch and Product Demonstration	3895
 Oil Exploration and Production Sharing Agreements	3583
+Onderstepoort Biological Products	11197
 Opening Doors for Zimbabwe’s Gold Producers	8639
 Opens Bigger Market for Ghana’s Women Producers	7523
 Operational Prodata Africa Limited	3386
@@ -265,6 +286,7 @@ PRODIGY	172,403,2,2287,363,230,40,550,215,82,376,21,48,1096,110,512,317,4,144,78
 PRODIGY's World Bank IDA	3497
 PRODOC	10492
 PRODUCE	3424
+PRODUCT	11269
 PRODUCTION	2342
 PRODUCTIVIDAD E INDUSTRIALIZACIÓN	1701
 PRODUCTIVITÉ	7655
@@ -272,8 +294,11 @@ PRODUCTOS FINANCIEROS	4209
 PRODUCTS AND SERVICES	582
 PROMOTION OF HEALTH PRODUCTS	9855
 PSSN Productive Social Safety Net RGoZ	11133
+Paper-based Disclosure Production Statistics	11250
 Passport Production Centre	309
+Perishable Products Export Control Board PPME	11197
 Pipeline Throughput of White Petroleum Products	2775
+Power Producer IRP Integrated Resource Plan	11228
 Power Producer IRR Internal Rate of Return	10861
 Power Producer IT Information Technology DATA	4525
 Power Producer XALAM DATA CENTER MARKET	3184,1,7810
@@ -288,18 +313,20 @@ Producción	1701,2508
 Producción Campesina	4209
 Producción Programas RTVGE	4209
 Producción de Documentales Cinematográficos	4209
-Produce	1000,1775,1753,1895,3665
+Produce	1000,1775,1753,1895,3665,1100
 Produce Marketing Organization and Société Coopérative	10841
 Produced	4431,977,450,2503,1,2027,548
 Produced and Collected	2775
-Producer Price Index	2775,8377
+Producer Price Index	2775,8377,106
+Producer Price Index SARB South African	11258
 Producer Prices	2775
 Producer Prices Index	2775
 Producer Responsibility Statutory	1988
 Producers	10481,381
 Producing	3513,2142,2471,1077,1573
+Producing Consumer Price Indices	11258
 Producir	1701
-Product	236,764,284,544,881,66,974,685,414,1549,1443,58,746,802,409,863,420
+Product	236,764,284,544,881,66,974,685,414,1549,1443,58,746,802,409,863,420,96,24,11
 Product Appraisal and Project Papers	10985
 Product Development Center	1363
 Product GEG Green Economic Growth GGCR	970
@@ -317,7 +344,7 @@ Producteur	747,9864,364
 Producteurs	3396
 Producteurs Indépendants	10975
 Productif	9824
-Production	26,2,615,94,46,222,178,180,316,309,88,266,396,37,621,318,1943,2013,61,538,854,1,313,588,456,377,16,1,94,6,154,2
+Production	26,2,615,94,46,222,178,180,316,309,88,266,396,37,621,318,1943,2013,61,538,854,1,313,588,456,377,16,1,94,6,154,2,48,2,28,62
 Production Airtel A B C D	236
 Production Contract Renewal Date N	9124
 Production ENEO	10975
@@ -330,6 +357,7 @@ Production Order	26
 Production Privée Indépendante	1993
 Production Pétrolière SAU	2738
 Production Statistique LA TRANSPARENCE POUR UN	10975
+Production Support Unit GIS Geographic Information	11261
 Production Thermique SFR	10975
 Production Unit AV Informal Production Unit	10980
 Production and Average	2775
@@ -355,7 +383,7 @@ Productive Safety Net Programme	7819
 Productive Social Safety Net	3604,7529
 Productive Value Chains Financing	8184
 Productividad	1701
-Productivity	1154,6394,3308,141,35,108
+Productivity	1154,6394,3308,141,35,108,149,45
 Productivity And Growth. Ministry	899
 Productivity Curve Zimbabwean	6011,985
 Productivity Enhancement Programmes	789
@@ -375,7 +403,8 @@ Producto Interior Bruto PM	1701
 Producto Interno Bruto	1701
 Productor	1701
 Productos	1701,2508
-Products	1525,463,787,736,2262,659,1607,1816,986
+Products	1525,463,787,736,2262,659,1607,1816,986,350
+Products Intended for Human Consumption	11269
 Products Market	2775
 Products Market Seasonally	2775
 Products Official	9409
@@ -418,15 +447,23 @@ Quarterly Gross Domestic Product	2775,8359
 Quarterly Producer Price Index	2775
 REA PRODUCTIVA	4209
 REVISION OF ZIMBABWE'S AGRO-ECOLOGICAL ZONES Produced	520
+RMIPPPP Risk Mitigation Independent Power Producer	11228
 Re-exports of Petroleum Products	2775
 Recorded Marketed Agricultural Production	2775
 Recorded Sale of Government Forest Products	2775
 Recorded Sale of Produce	2775
+Renewable Energy Independent Power Producer	11248
+Renewable Energy Independent Power Producer Programme	11228
+Renewable Independent Power Producers Programme	11228
+Renewable and Risk Mitigation Independent Power Producer	11228
 Responsable des Produits de Paiement	4695
 Responsible Consumption and Production	1131
+Responsible Consumption and Production Goal	11332
 Rice Paddy Production	2775
 Rice Production	2775
+Risk Mitigation Independent Power Producer Procurement	11228
 Rural Development and Food Production Minister Bruno	6280
+SANSA Data Products and Services Manager	11244
 SBF Int0 Productivité	7655
 SIEC Standard Industrial Energy Product Classification	2775
 STANBIC BANK’S INITIATIVE Safeguarding National Productivity	5247
@@ -444,6 +481,7 @@ South Africa. Product Risk Classification	3651
 South African Health Products Regulatory Authority	396,7905,2871
 Spain. Products	3898
 Stanley K. Murage. Produced	3162
+Statistics South Africa. Producer Price Index	11258
 Statistique IPP Independent Power Producer GRT	10975
 Sustaining Food Production	6947
 Swayam Sampurna Farmer Producer Organisation	7151
@@ -451,7 +489,9 @@ Switch Financial Technology Gross Domestic Product	11131
 System GDP Gross Domestic Product GEMS	10829
 System Health Products and Technologies Human Resources	4153
 Sécurité M. Kafando Directeur de Production Office	10812
+TB Capacity for Production Backups Add Additional	11209
 TELECOMMUNICATIONS SECTOR TO GROSS DOMESTIC PRODUCT	236
+Tb Capacity for Backup. Production	11209
 Telecommunication GDP Gross Domestic Product GFCF	236
 Through Intelligent Card Production Systems	4677
 Top Combined Rates and Productivity	10997
@@ -460,10 +500,13 @@ Transformation des Produits Agricoles	10965
 Transmod J Peripher Cult Prod Luso-Hisp	9739
 Trillion AI Productivity Opportunity	2957
 UPI Product Statistics	11138
+Under the Risk Mitigation Independent Power Producer	11248
 Usage of Financial Services and Products	2775
 Uso de Produtos	2138
 VAT Productivity and Standard Rates	10997
+Vegetation Products	11334
 Venta de Productos Petrolíferos FMI	4209
+Video Production and Editing Programme Structure	11347
 Violence GDP Gross Domestic Product GHG	1264
 Violence GDP Gross Domestic Product GRF	1867
 Workforce Productivity Growth	4528

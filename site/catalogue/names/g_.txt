@@ -15,6 +15,7 @@ Alleyne G	10780
 Ambler G	1219
 Amissi G	10625
 Annex G	3861
+Annexure G	11240
 Appendix G	236
 Asiki G	771
 B. G	5349
@@ -58,6 +59,8 @@ Dr. C. G. D. N. Chiwenga	1554
 Dr. ERNEST NSABIMANA D G	718
 E G Airtel Vodafone Tigo MTN	236
 E. G	5349
+ENT G	11178
+ENVIRONMENTAL STATISTICS Table G	11250
 Encargado Grupo G Servicio	4209
 Especialista Grupo G	4209
 Especialista Grupo G Servicio	4209
@@ -66,7 +69,9 @@ F Garçons Filles G	10847
 F KOMPIENGA Garçons Filles G	10847
 F Régions Provinces Garçons Filles G	10847
 F. G	7886
+FINANCIAL INFORMATION No Figures Part G	11250
 FM Action Plan G. Procurement	2889
+Figure G	11250
 Fille G	10847
 FinSurv Division’s Form G	11134
 Five G	5771
@@ -99,6 +104,7 @@ G Coverage Climbs	5715
 G Coverage GSMA	10856
 G Coverage Gap	6051
 G Customers	8127
+G D P Public	11248
 G D P R	8436
 G D P R Article	8436
 G D2D	2405
@@ -167,9 +173,11 @@ G Network Now Exceeds NetOne and Telecel	6011
 G Niger	10611
 G Non-Standalone	8828
 G Note	10844
+G O L	11236
 G Oo Report	3972
 G Operator Performance Trend	6051
 G Oshikoto	1944
+G Packages	11259
 G Pilot	7998
 G Population	1013
 G Programa de Ayuda	4209
@@ -177,11 +185,14 @@ G Programa de Fomento	4209
 G Programa de Reforzamiento	4209
 G Programa de Reforzamiento ANDGE	4209
 G Project	54
+G Promotion	11259
+G Promotional Packages	11259
 G Prosperity Insight Series GOVTECH MATURITY	10785
 G RAN	5675
 G RAN. Targeted	1818
 G RSRP	10856
 G RedCap	11016
+G Remuneration	11177
 G Report	3972
 G Retail	718
 G Revolution By Ishmael F. Menkor	4817
@@ -242,6 +253,7 @@ G. A	7886,718
 G. A McKinsey	10819
 G. A Pragmatic AI Agenda	11140
 G. A. Donohue	6948
+G. A. Galicia Rabadan	11310
 G. AU TITRE DU MINISTERE	8321
 G. Administrations	5675
 G. Aligned	5333
@@ -291,6 +303,7 @@ G. MINISTERE DE LA CONSTRUCTION	7670
 G. MINISTERE DES SPORTS	8321
 G. MTN	5754
 G. Mais	9559
+G. Marin	11310
 G. Melina	11140
 G. Messages	2626
 G. Mobile	6728
@@ -300,6 +313,7 @@ G. N	11133,9
 G. N. N	8605
 G. Nationwide	4400
 G. Nearly	3975
+G. Notwithstanding	11233
 G. Nous	2881
 G. O	10
 G. Of AT Ghana	8926
@@ -330,6 +344,7 @@ G. W	2518
 G. Work	10047
 G. Y	5349
 G. and Patella	11133
+GB B G G	11259
 GOVERNANCE GOVERNANCE GOVERNANCE GOVERNANCE GOVERNANCE G	10785
 Garçons Filles G	10847
 General Instruction G	7198
@@ -389,6 +404,8 @@ OMS Amissi G Actualité Liée	10625
 Oghenere G. Salubi	8022
 Oghenere G. Salubi Received	8022
 P. G	7886
+PART G SERVICE DELIVERY AND ORGASITAIONAL	11250
+Part G	11250
 Porter G	1219
 Pour Fabrice G. Dako	6744
 Préscolaire Garçons Filles G	10847
@@ -401,7 +418,7 @@ Somi G	1261
 South Africa Oghenere G. Salubi Department	8022
 Stefaan G	3810
 Stefaan G. Verhulst	8202
-Table G	7
+Table G	7,11243,46
 Taux Brut de Scolarisation Garçons Filles G	10847
 Taux Net de Scolarisation Garçons Filles G	10847
 Torsvik G	771
@@ -413,3 +430,4 @@ VAN H RT REAT ES G	2776
 WB G	10841
 Watts G. The Tanzanian	1261
 Wood G	5242
+Y57 G	11178

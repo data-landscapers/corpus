@@ -102,6 +102,7 @@ Audit Interne CART Contrat	10975
 Aurélio Prudence Le Smart Car Park	10045
 Authentication of Health Care Information	1009
 Authority CNIB National Burkinabe Identity Card	10812
+Available Career Pathways Applicants	11314
 Avril Kaplan The World Bank CAR	10829
 B. Carter	6947
 BALANCED LIFE CARE CENTRE LTD Data	7167
@@ -131,6 +132,7 @@ Basic Emergency Obstetric and Newborn Care	9766
 Basic Health Care Provision Fund	4301,493
 Batteries Soft Carrying Case	34
 Belgian Electronic Identity Card	10714
+Bena Care	11348
 Bena Care Limited Data Controller INST-450757839F1	7167
 Benguela BEATRIZ XAVIER FILIPE CARDOSO REIS	10751
 Beta Care Hospital	7167
@@ -373,7 +375,7 @@ Carahsoft	3303
 Caravane	8695,196
 Caravelle	8999
 Caraïbes	3045,5846
-Carbon	4528,4595,1723
+Carbon	4528,4595,1723,423
 Carbon Dioxide	6946
 Carbon Emissions	6946
 Carbon Environmental Barometer	1264
@@ -443,19 +445,21 @@ CareBridge	7750
 CarePay Devco Kenya Ltd Data Processor	7167
 CarePay Ltd. Data Controller INST-9782911BBB8 NAIROBI	7167
 CarePay Ltd. Data Processor INST-9782911BBB8 NAIROBI	7167
-Career	6946,2,105,2051,1672
+Career	6946,2,105,2051,1672,538,33
 Career Center Building	9892,1
 Career Fair	5327
 Career Guidelines	6946
 Career Management Office	7973
+Careers Error	11294,47
 Careful	6202,2921,1216
 Carefully	2668
+Caregiver	11180
 Caregivers	10768
 Caremark	8629
 Carestar Medical Centre Data Controller INST-101746CBB71	7167
 Carestía de Vida	4209
 Carestía de Vida Administrativo Embajada A2 Agente	4209
-Caretaker	6423
+Caretaker	6423,4757
 Cargo	10628
 Cargo Tracking Note	10856
 Cargo Trucks Dedicated	10405
@@ -485,7 +489,7 @@ Caribou and Genesis Analytics. Preparing for AI	6948
 Carimbo	3137
 Carina Adão	3899
 Carine Ouédraogo. L'événement	6424
-Caring	5533
+Caring	5533,5704
 Caring Bees Homecare and Counselling Service Data	7167
 Caritas Zambia	8513
 Carl Folke	11006
@@ -499,7 +503,7 @@ Carla Sanderson. For Eastern Africa	9507
 Carla Sharpe Mitchell	10076
 Carlen	3782
 Carleton University. Giles-Vernick	10841
-Carli van Wyk	9250,334
+Carli van Wyk	9250,334,1694
 Carlingford Supplies Data Processor INST-214540E382C NAIROBI	7167
 Carlo	10763
 Carlo Rossotto	10703
@@ -541,7 +545,7 @@ Carmen Estrades	11149
 Carmen Mazenga	8212
 Carmen Reinicke	7343
 Carne	4209,6568
-Carnegie	2677,1477,429,967
+Carnegie	2677,1906,967
 Carnegie Africa Program	5550,1240
 Carnegie Endowment	2831,3772,605
 Carnegie Endowment for International Peace	491,2186,2565,60,2448,668,2012,710
@@ -640,7 +644,7 @@ Carry	1988,1490,200,4868
 Carry Case	34
 Carry Home Never	7777
 Carry1st	673
-Carrying	1131,783,2673,2353
+Carrying	1131,783,2673,2353,4241
 Carrão H	10964
 Carse	5700
 Carslake Nominees Ltd T	7167
@@ -738,7 +742,9 @@ Century Health and Care. The Final Report	396
 Certificate Authority CARA Criminal Assets Recovery	5533
 Chad and CAR	10841
 Chad’s Caretaker Minister	5088
+Chief Audit Executive CARA Criminal Assets	11218
 Child Care	9429
+Child Care Act	11176
 Child Care Midlands State University National	1554
 Child Care and Protection	1188
 China Macao SAR Resident Identity Card	10714
@@ -802,6 +808,7 @@ DES CARACTERISTIQUES DE LA CARTE	2465
 DES CARACTERISTIQUES DE LA CARTE NATIONALE	2465
 DES MINES ET DES CARRIERES	8321
 DES MINES ET DES CARRIERESLe Conseil	7670
+DG Provincial Engagements Resources Programmes Care	11241
 DIABETES AND ORTHO CARE PHARMACEUTICAL SPECIALISTS	7167
 DIRECTIVO OBRAS EDIFICIFIC. Y CARRETERAS	4209
 DOCTOR MUSTAFA'S DENTAL CARE Data Controller	7167
@@ -934,6 +941,7 @@ Ghana Card. Things	5473
 Ghana Cards	2689,878,1,3,181,1872,678,797,218,383,2141,574,667
 Ghana Cards. Instead	7700
 Ghana Cards. The Authority	7165
+Gig and Career Support Participants	11347
 Given CAR	5973
 Global Expansion of AI Surveillance. Carnegie	2518
 Gold Card	9037
@@ -1016,6 +1024,7 @@ Identity Cards. All	5609
 Identity Cards. Presently	10775
 Identity Yes Electronic ID Card	10714
 Implications of SIM Card Registration ID-verified	4439
+Implications. Carnegie Endowment for International Peace	11310
 Importance of Strengthening Systems of Care and Support	10776
 Individual Number Card	10714
 Industrials Consumer Staples Health Care Utilities	4972
@@ -1098,6 +1107,7 @@ Mbps Carrier Sept	6051
 Medical Care	1824
 Meeting Waterford KaMhlaba Career Fair Governor	11131
 Member IDD04 Claudia Cardelli Team Member	1284
+Mental Health Care Act	11177
 Merchants ATMs POS Debit Cards Credit	6978
 Micah Carroll	9592
 Million Cards	6204
@@ -1107,13 +1117,14 @@ Minister of State Carmelita Ntoutoume Leclercq	2545
 Ministry of Health and Child Care	395,759,400,7875
 Ministry of Health and Child Care Care Find	9429
 Ministry of Health and Child Care. People	9429
+Misean Cara	11207,1
 Miss Caroline Serem	9855
 MoMo Virtual Card	9102,1
 Mobile Care Services Discovery	1009
 Mobile Care Services IETF RFC7159	1009
 Mobile Care Services and Health Services. HL7	1009
 Monegasque Identity Card	10714
-Monte Carlo	8018
+Monte Carlo	8018,3210
 Morgan Air Cargo	6946
 Motorizada Carro	10777
 Moxico AMÉLIA AUGUSTA CARLOS	10751
@@ -1201,6 +1212,7 @@ Olayemi Cardoso. Nigeria	3732
 Older Car Models Not Allowed	7176
 Oman Omani ID Card Yes N	10714
 Operation Sentinel and Operation Red Card	8777
+Original Clinic Card	11282
 Ownership of SIM Cards Multiple SIM	582
 PAICV. Pina Cardoso	3589
 PBF. The World Bank CAR Health	10829
@@ -1243,7 +1255,8 @@ Postpartum Infant Care Program	6423
 Pour le CARE	9497
 Prepaid Cards Mobile Banking Subscribers Internet	4517
 Presidente da CNE Carmem Batista Lobo	10271
-Primary Health Care	21,257,118,375,3530,6475
+Primary Health Care	21,257,118,375,3530,6475,476,21
+Primary Health Care PII	11252
 Primary Health Care PLANAPREV-DNT	10776
 Primary Health Care Services Across	1824
 Primary Health Care The U.S. Government	4349
@@ -1346,9 +1359,9 @@ Smart Care Legacy and SmartCare Plus	2477
 Smart CarePro	2477
 Smart Civil Status Card Yes Sanad	10714
 Smart Health Care City	2422
-Smart ID Card	2115,1085,2126,2005,238,3145
+Smart ID Card	2115,1085,2126,2005,238,3145,504
 Smart ID Card. Every	10185
-Smart ID Cards	2115,248,837,1586,2783
+Smart ID Cards	2115,248,837,1586,2783,3705
 Smart ID Cards and Passports	3200
 Smart Identity Card Yes BRR Bulgaria	10714
 Solutions and Services for Carrier Phones	3511
@@ -1382,6 +1395,7 @@ Technology Materials Health Care Food	4972
 Tertiary Health Care	3583
 Third-party SIM Cards	4439
 Through Intelligent Card Production Systems	4677
+Thuthuzela Care Centres	11224
 Tier III Carrier Hotel Datacenter	8542
 Timeline for SIM Card Registration Laws. Benin	10822
 Timor-Leste National Identity Card No N	10714

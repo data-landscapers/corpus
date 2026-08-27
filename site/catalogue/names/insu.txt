@@ -11,7 +11,7 @@ ADT INSURANCE AGENCY LIMITED Data Controller	7167
 ADT INSURANCE AGENCY LIMITED Data Processor	7167
 AETHER INSURANCE AGENCY LIMITED Data Controller	7167
 AFFIRMATIVE INSURANCE AGENCY Data Processor INST-30877116911	7167
-AI Insurance Superfund	5969,2303,2740
+AI Insurance Superfund	5969,2303,2740,253
 AL AHDI INSURANCE BROKERS LIMITED Data	7167
 AMANA INSURANCE BROKERS LIMITED Data Controller	7167
 AMRO INSURANCE BROKERS LTD Data Controller	7167
@@ -26,9 +26,11 @@ ARCADIA INSURANCE BROKERS LIMITED Data Processor	7167
 ASHANTI PENSION INSURANCE AGENCY LIMITED Data	7167
 ASSURED INSURANCE BROKERS LIMITED Data Controller	7167
 ASSURED INSURANCE BROKERS LIMITED Data Processor	7167
+Advance Political Risk Insurance	11310
 Africa. Tarik Dadi Combats Health Insurance	3101
 African Insurance Organisation	6938
 Annual Insurance Market Report	6938
+Aon’s Data Center Lifecycle Insurance Program	11310
 Asbestos Cement Insulating Board and ZS006	1988
 Association of Insurance Companies of Côte	10198
 Authorities No Insurance Regulation and Control Agency	6938
@@ -64,6 +66,7 @@ COSLID INSURANCE ASSESSORS Data Controller INST-66043486708	7167
 CRESCENT INSURANCE BROKERS LIMITED Data Controller	7167
 CRESCENT INSURANCE BROKERS LIMITED Data Processor	7167
 Captive Insurance Act	7845
+Cash Value Insurance Contract	11233
 Climate Risk and Insurance	7334
 Combats Health Insurance Fraud	5056,738,146,682
 Commissioner of Insurance	6938
@@ -71,11 +74,13 @@ Commu- Insurance	2775
 Community Based Health Insurance	4349
 Community-Based Health Insurance	4167
 Complete Solutions Insurance Brokers Limited Data	7167
+Credit and Political Risk Insurance	11310
 D.G DE DEPORTIVA REG. INSULAR REG	4209
 D.G SERVI. ELECT. R. INSULAR.- Concepto	4209
 D.G. R. INSULAR REG. CONT	4209
 DEFENCE FORCES MEDICAL INSURANCE SCHEME Data	7167
 DEPORTIVAS A IDIOMAS REGIONAL DISTRITALES INSULAR	4209
+DFC’s Political Risk Insurance Takes Center	11310
 DIFFICULTIES NOT NOT INTERNET IS INSUFFICIENT	11004
 DIFFICULTIES SUPPORT IN INTERNET INSUFFICIENT STRANGERS	11004
 DIGI AFRICA INSURANCE BROKERS LIMITED Data	7167
@@ -97,6 +102,8 @@ Econet and Econet Insurance	4896
 Estonian Health Insurance Fund	11006
 Eswatini Royal Insurance Corporation	11134
 Ethiopian Health Insurance Agency	629
+Expand Risk Insurance Capacity	11310
+Expand War Insurance for Businesses	11310
 Fawry Insurance Brokerage	5869
 Federation of German Pension Insurance Institutions	11156
 Finance South Sudan No Insurance Regulatory	6938
@@ -114,6 +121,7 @@ General Insurance Committee The Director General	6938
 German Social Accident Insurance Institution	11156
 Global Insurance Market Report	6938
 Gross Domestic Product Financial and Insurance Activities	2775
+Group Cash Value Insurance Contract	11233
 HEALTH INSURANCE ACT	6921
 Health Insurance Act	6921
 Health Insurance Card	10714
@@ -137,7 +145,7 @@ IRA Insurance Regulatory Authority ISIC International	2775
 Indemnity and Insurance Rationale	8866
 Inspector General Servicios R. Insular Servicio	4209
 Insuchcases	8602
-Insufficient	396,370,195,1346,1123,361,335,313,409,685,144,1052,103,716,203,625,752,532,374,15,216,453,45,217,160
+Insufficient	396,370,195,1346,1123,361,335,313,409,685,144,1052,103,716,203,625,752,532,374,15,216,453,45,217,160,78
 Insufficient Resources	4439
 Insufficiently	766
 Insuffisance	737,2229,4689,3057,162,91
@@ -155,11 +163,13 @@ Insumos	1701
 Insur	6019
 InsurTech	4848,1021,52
 InsurTech-related	10793
-Insurance	418,349,173,1769,66,2121,304,465,547,27,759,791,236,110,1102,1556,72,112,106,51,2
-Insurance Act	6938
+Insurance	418,349,173,1769,66,2121,304,465,547,27,759,791,236,110,1102,1556,72,112,106,51,2,162
+Insurance Act	6938,4317
 Insurance Activity Supervisory Body	6938
+Insurance Companies	11255
 Insurance Control Department	6938
 Insurance Fraud	2333,47,65,2181,2052,209,414,23
+Insurance Fund UNISA The University of South	11250
 Insurance Institute of Zimbabwe	1554
 Insurance Law	11136
 Insurance Markets	6938
@@ -185,14 +195,18 @@ Insurance and Social Security Supervisory Authority	6938
 Insurance-Sector-Coverage-Kenya-vF.pdf. United Nations	6938
 Insurer Liberty	5806
 Insurers	9237,438
+Insuring AI	11310
 Insusceptibilidade	10777
 Insuﬀicient	958
+Investment Development Insurance	11310
+Investment Insurance	11310
 Ivorian Insurtech and Jumia Technologies	4150
 Journal of Insurance Medicine	8604
 Kenya Deposit Insurance Corporation	6938
 Kenyan Insurance Sector Report	6938
 Libyan Insurance Supervisory Authority Stock	6938
 Limited and Econet Insurance	4896
+MIGA Expands Insurance Support	11310
 Microfinance Supervisory Authority CEO Insurance Regulatory	6938
 Morocco's InsurTech	5921
 Motor Third Party Insurance	7591
@@ -212,8 +226,9 @@ National Health Insurance Bill. Retrieved	1009
 National Health Insurance Fund	396,2379,5442,166,2750
 National Health Insurance Levy	7695,44
 National Health Insurance NDoH Non-patient File	1009
-National Health Insurance Scheme	2714,854,2431,1696
+National Health Insurance Scheme	2714,854,2431,1696,3633
 National Health Insurance and Social Guarantee Fund	9837
+National Health Insurance. The Department	11224
 National Hospital Insurance Fund	2515,7798,16,2,491
 National Hospital Insurance Fund Act	10822
 National Insurance	4602
@@ -230,6 +245,7 @@ Pension and Insurance Supervision Director	6938
 Pensions and Insurance Authority	6938
 Performance Indicators for General Insurance Business	2775
 Performance Indicators for Life Insurance Business	2775
+Political Risk Insurance	11310
 President's Of- Tanzania Insurance Regulatory	6938
 Proyecto Adquisición de Insumos	4209
 Public Fi- The Deposit Insurance Corporation	6938
@@ -239,6 +255,7 @@ Recapitalized Insurers	9117
 Reg. Insular	4209
 Regional Insurance Supervisory Commission	6938
 Región Insular	4209
+Role of Political Risk Insurance	11310
 SEGURIDAD EXTRANJERÍA Y INFORMAC. CRIMINALISTIC INSULAR	4209
 SIC Insurance	10523
 SWAp and National Health Insurance Authority	4301
@@ -255,6 +272,7 @@ Social Health Insurance Fund	3393
 Social Health Insurance Fund and Affordable Housing	5684
 Social Insurance	10785
 Social Insurance Labor Market Social Assistance	10985
+South African Special Risks Insurance	11353
 South Africa’s National Health Insurance	8603
 Stabilization Levy NHIL National Health Insurance	236
 Strengthen Health Insurance Systems Through Digital	9837
@@ -263,7 +281,9 @@ Tanzania Insurance Regulatory Authority	11133
 Tarik Dadi Combats Health Insurance Fraud	2269,19,59,9,173,4,11,6,12,38,10,6,3,57,4,664,278,96,687,933,332,433,355,605,327
 Trans-African Insurance Co Ltd	2307
 UHI Universal Health Insurance UNICEF United	11133
-Unemployment Insurance Fund	7910,26,531
+Unemployment Insurance Act	11280
+Unemployment Insurance Contributions Act	11181
+Unemployment Insurance Fund	7910,26,531,2818
 United General Insurance Assistant Manager Colleta	7364
 Universal Health Insurance	2419,5288,3426
 Universal Health Insurance Act	6921

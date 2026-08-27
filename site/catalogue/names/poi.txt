@@ -31,6 +31,7 @@ CHIEF EXECUTIVE OFFICER PHARMACY AND POISONS	9855
 CLEAR POINT COUNSELLING AND PSYCHO-THERAPEUTIC CENTER	7167
 CONTACT POINT World Bank Erkin Mamadaliev	10963
 CONTACT POINT World Bank Natalija Gelvanovska-Garcia	3456
+CRITERIA POINTS Price	11209
 CROWN POINT DENTAL CARE Data Controller	7167
 Cardbased Point of Sale	11134
 Cardbased Point of Sale and Card-based Automated Teller	11131
@@ -58,11 +59,13 @@ County AI Focal Points. Accountability	7548
 Creation of Sectoral Focal Points	1000
 Crown Point Dental Care Data Processor	7167
 DATA POINT	7167
+DESIGNATED POINT OF CONTACT REPORTING OBLIGATIONS	11190
 DIF Digital Investment Facility POP Point	3184,1,1340,6470
 Digital Access Points Operators	10856
 ECOWAS National Focal Points	10508
 ESTABLISHING NATIONWIDE MONITORING POINTS	1000
 Eco Point Office Park	6891
+Eco Point Office Park Eco Park	11259,3
 Economy World Bank Poised	8478
 Educare Point Limited Data Processor INST-35748873455	7167
 Emerging Technologies Focal Points	7548
@@ -109,7 +112,7 @@ KEY POINTS	6377
 Kenya Internet Exchange Point	7548
 Kenya Internet Exchange Point KLRC Kenya	7548
 Key Entry Point for Cyber Risk	9815
-Key Points	8027,1257
+Key Points	8027,1257,1904
 Key Points Afreximbank and South Africa’s Industrial	8044
 LE POINT CARE	8637
 LIPTINFOR NIGER UBIQUITY Point	998
@@ -142,14 +145,17 @@ PMS Premium Motor Spirit PoS Point	718
 POINT APPLICATION FORM	736
 POINT DE PRESSE RELATIF A L'ARRET	10923
 POINT TO POINT APPLICATION FORM	736
+POINTS	11209
 POINTS Arial	11129
 POINTS Courier	11129
+PP Nine Point Plan NT National	11193
+PRETORIA Points of Contact Mr Enos Sella	11180
 Partners Exchange Point C- Connectivity Resilience	7548
 Payment Access Points	4517,2461
 Payment Systems Access Points and Devices	4517,2461
 Pharmacy and Poisons	9855
 Pharmacy and Poisons Act	2709,7145,1
-Pharmacy and Poisons Board	2709,1444,5701,1,1309
+Pharmacy and Poisons Board	2709,1444,5701,1,1309,104
 Poids	2342,624
 Poids des IPP	10975
 Poikela	8606
@@ -158,14 +164,18 @@ Point Application	21
 Point Configuration	736
 Point Configuration. PART VI Private Radio	736
 Point Focal	7675,1602
+Point Kilométrique	11322
 Point Km Kilometer	10861
 Point Link Details MAIN ROUTE Station	736
 Point Newspaper	6226
+Point Outcome Document	11285
 Point Plan	4972
 Point Santé	8755,1856
 Point Zéro	10097
 Point de Présence	3402
 Point de Vue	9993
+Point of Common Coupling	11269
+Point of Contact	11190
 Point of Presence	2913,226,723
 Point of Sale	1925,924,28,1848,1728,9,516,931,169,40
 Point of Sale and ATM Switching	2276
@@ -189,7 +199,7 @@ Pointe Noire	3994
 Pointe-Noire	1643,793,71,1045,249,35,125,1060,1434,1206,406,1751,585,70,70
 Pointe-NoireBrazzaville	6067
 Pointing	34,9642,1419
-Points	164,6795,696,1582,1263,211,165
+Points	164,6795,696,1582,1263,211,165,376
 Points Development Discoveries Education	9989
 Points WRA Water Resources Authority	2775
 Points Weight	10785
@@ -204,6 +214,8 @@ Poisons	9855
 Poisons Board	9855
 Postal Facility Delivery Point	11129
 Posts and Points and Customs	10762
+Preference Point System All	11209
+Price and Preferential Points Assessment	11240
 Promoter Score Point of Sale Quarterly Gross	11134
 Public Key Infrastructure Proof-of-Concept Point of Sale	11130
 Radware Point of Presence	5793
@@ -220,9 +232,11 @@ Revisiting the Tax Tipping Point. IMF	10997
 Revisiting the Tax Tipping Point. IMF Working	10997
 Rwanda Internet Exchange Point	718
 SMEs Saudi Fintech Hits Tipping Point	5322
+SPECIFIC GOALS POINTS	11209
 Sacha Poignonnec	415
 Safaricom Bonga Points	7710
 Sea Point	5744,3255
+Section Evaluation Criteria Points Allocation Weight	11240
 Security Check Points	2113
 Security Focal Point	3604
 Security Focal Point62	3604

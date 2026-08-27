@@ -36,9 +36,11 @@ Azare	9653
 Azeddine Zroura	5798
 Azeem Azhar	11143
 Azeez	771
-Azerbaijan	3017,286,801,28,956,13,3844,887,882,71,59,161
+Azerbaijan	3017,286,801,28,956,13,3844,887,882,71,59,161,280
 Azerbaijan Document	10714
+Azerbaijan. The Committee	11285
 Azerbaijani	5088
+Azerbaijani Member of Parliament Parvana Valiyeva	11285
 Azerbaïdjan	5361,68,5546
 Azercosmos	4822
 Azercosmos. Ce	4822
@@ -51,6 +53,7 @@ Azhar Aziz-Ismail	5892
 Azhar Malik	5098,2134
 Azhar Saeed Malik	7201
 Azhary	9723
+Azie Environment Analyst	11332
 Azikiwe Avenue and Azikiwe Lane	11129
 Azim T. Community	1219
 Azim&volume	1219
@@ -71,7 +74,8 @@ Azrin Rahim. Joseph Rebello	10977
 Azubi Africa	8342
 Azungah	2093
 Azur Partners	1232
-Azure	411,627,805,681,1,630,1104,431,471,39,282,147,164,174,265,200,39,196,399,142,263,77
+Azure	411,627,805,681,1,630,1104,431,471,39,282,147,164,174,265,200,39,196,399,142,263,77,3648,35,126
+Azure AI Language Service	11231
 Azure Databricks	6232
 Azure East Africa and West Africa	6266
 Azure Johannesburg	5200
@@ -86,6 +90,7 @@ Azure and Amazon Web Services	5629
 Azure and Google Cloud	7173
 Azure and OpenAI	9951
 Azure for Google Cloud for AWS	6667
+Azure-native	11231
 AzureMap SouthAfrica GA-final	411
 AzureRegions	6471
 Azzam	9417
@@ -138,6 +143,7 @@ Microsoft Azure	411,1309,2,121,973,341,279,118,129,176,267,133,766,59,841,307,23
 Microsoft Azure Blog	411
 Microsoft Azure ExpressRoute Metro	7467
 Microsoft Azure Government	6477
+Microsoft Azure MMM Private Cloud	11231
 Microsoft Azure South Africa	2523,1,1980
 Microsoft Azure Stack	1843
 Microsoft Azure Stacks	1843

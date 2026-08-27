@@ -9,6 +9,7 @@ APA Microinsurance Limited Data Controller INST-867024BA45F	7167
 APA Microinsurance Limited Data Processor INST-867024BA45F	7167
 AWS and Microsoft	1243
 AWS and Microsoft Azure	5925
+AWS and Microsoft. Third-party	11338
 AWS and Microsoft’s Azure	2277
 Abalo Michel Kezie	5407,676
 Access Microfinance Bank. In Kenya	10799
@@ -70,6 +71,7 @@ Centro Educativo Hipólito Micha	4209
 Chad's Microfinance Development Support Project for Women	792
 Chad's Telecommunications Minister Boukar Michel	3506
 Channels of Improving Financial Literacy MICRO	940
+Charles Michael	11332
 Charles Michael Mbire	3583
 Cheruiyot Ngetich Michael Data Controller INST-2421856392E	7167
 Chez Dr Borlli Michel Jonas Somé	8721
@@ -89,6 +91,7 @@ Copilot da Microsoft	2816
 Copilot da Microsoft. Fonte	2816
 Corp Fetes Ambassador Michael C.Gonzalez	9989
 County Physical MICDE	7548
+Cyber War. Microsoft	11310
 Cybersecurity Bank of Uganda Governor Dr Michael	9695
 DHET MICT SETA	6832
 DIA MICHELLE BUA	6212
@@ -125,6 +128,7 @@ European Data Protection Board Commissioner Michael	8533
 Exchequer MICDE	7548
 Exchequer MICDE ICTA	7548
 Exchequer MICDE Library	7548
+Exempted Micro Enterprises	11209,31
 FAUSTINO EDU MICHA	1855
 FIDO Micro Credit Ltd	1472
 FREQUENCY SPECTRUM MANAGEMENT Microwave	6671
@@ -135,9 +139,11 @@ FiberHome Africa CTO Michel Wang	10796
 Fidel Castro and Rev. Michael Scott Streets	1900
 Finance S.A Bénin Micro Finance S.A	10821
 Financial Inclusion Michael Olugbode	7868
+Firewall Policies for Micro-Segmentation	11231
 Functional Potential Of The Rhizosphere Microbiome	1154
 G42 and Microsoft	3617
 GHz Genuine Microsoft Windows	34
+General Manager of Microsoft Nigeria and Ghana	11357
 Genuine Microsoft Windows	34
 Ghana's Micro	6335
 Global Findex Microdata	10714
@@ -169,6 +175,7 @@ KM of Microwave Radio Links	3862
 Kenya MICDE Led	6432
 Kenyan-developed MICDE	7548
 Kenya’s Sumac Microfinance Bank	11119
+Key Performance Indicator MFSA Microfinance South	11198
 Kie-Ntem Micomiseng	4209
 Kouakou Guy Michel	5955
 LA MICS7	10273
@@ -199,7 +206,7 @@ MIC Tanzania	813
 MIC Tanzania Ltd	814
 MICAT	3239
 MICCAI	11140
-MICDE	5134,1298,514,602,161,1055,25,1457
+MICDE	5134,1298,514,602,161,1055,25,1457,1099
 MICDE AI	7548
 MICDE Annual	7548
 MICDE Attorney General	7548
@@ -274,12 +281,13 @@ MICSTI Principal Secretary Kanono Ramashamole	7161
 MICT Executive Director Audrin Mathe	2977
 MICT Members	6539
 MICT PIU	6539
-MICT SETA	6832,790
+MICT SETA	6832,790,3681
 MICT SETA Annual Digital Skills Report	6832
 MICT SETA Annual Reports	6832
 MICT SETA Fourth Industrial Revolution	6832
 MICT SETA QMR	6832
 MICT SETA Tracer Study Survey	6832
+MICT SETA and TUT	11303
 MICT SETA's Accounting Authority	7622
 MICT SETA-	6832
 MICT SETA-funded	6832
@@ -316,7 +324,10 @@ Matrices Microsoft Excel	9124
 Maximum Residue Levels MSEs Micro and Small	2775
 Mbea Micomiseng	4209
 Measurable NIF MICDE	7548
+Medium and Micro	11196
 Medium and Micro Enterprise Support	5190
+Medium and Micro Enterprises	11179
+Medium and Micro Enterprises SMS Senior Management	11197
 Mic In Front	34
 Micah Carroll	9592
 Micaosi	4209
@@ -348,6 +359,7 @@ Michael Komla Nfodzo	3848
 Michael Kratsios	5216,41
 Michael Kwakye	6936
 Michael Lenasalon	8569
+Michael Louis and Jonathan Irwin	11344
 Michael M. Muthamia	9855
 Michael Machokoto	10718
 Michael Maina	10464
@@ -434,8 +446,8 @@ Michèl GUEDENON Comment	6744
 Michèl GUEDENON Date	9044
 Micoc	4209
 Micomiseng	4209
-Micro	824,116,1261,574,41,1712,716,639,1665,297,569,256,58,389,306,429,905,99,109,52,117
-Micro Enterprises	7759
+Micro	824,116,1261,574,41,1712,716,639,1665,297,569,256,58,389,306,429,905,99,109,52,117,131
+Micro Enterprises	7759,3437
 Micro Finance	10965
 Micro Finance Zambia Vice President and CEO	9371
 Micro Network and Service Provider	9335
@@ -464,6 +476,7 @@ MicroPay Uganda	7875
 MicroPay Uganda Chief Executive Officer Dr	7875
 MicroSave Consulting	10823
 Microbial Research	6948
+Microbiology	11269
 Microblogging	2518
 Microcosme	9406
 Microcredit	822
@@ -472,9 +485,11 @@ Microcrédito	1265
 Microcrédito Los	1701
 Microdonnées	9553
 Microdonnées INSTAT Madagascar Bienvenue	9481
+Microdot	11269
 Microeconomic Theory	5700
 Microeconomics	10718
-Microenterprises	3672,7096
+Microenterprise	11195
+Microenterprises	3672,7096,427
 Microfinance	940,4001,1831,991,33,2503,522,3,17,28,96
 Microfinance Act	6938
 Microfinance Bank	9150
@@ -494,7 +509,7 @@ Micronutrient Resilience and Climate Change	10768
 Microonda	10777
 Microprojects	10964
 Microsimulations	10985
-Microsoft	34,354,23,151,185,152,139,156,35,12,30,32,60,8,276,73,1,7,38,62,15,97,87,130,260,106,1,1,1,268,22,14,41,120,241,32,111,21,45,21,3,152,165,26,51,128,139,133,45,121,79,102,35,12,23,274,75,17,42,77,55,2,21,3,10,75,37,3,166,18,47,23,61,42,86,12,18,93,34,183,4,78,34,1,86,49,8,1,21,13,26,6,21,19,4,44,15,23,64,67,39,17,18,71,69,59,25,24,10,13,56,4,1,11,22,35,77,82,221,9,16,118,287,108,135,87,57,90,7,28,68,82,31,53,188,64,153,33,2,314,56,43,54,258,22,42,22,53,89,196,66,86,112,3,80,98,150,102,33,19,31,2,5
+Microsoft	34,354,23,151,185,152,139,156,35,12,30,32,60,8,276,73,1,7,38,62,15,97,87,130,260,106,1,1,1,268,22,14,41,120,241,32,111,21,45,21,3,152,165,26,51,128,139,133,45,121,79,102,35,12,23,274,75,17,42,77,55,2,21,3,10,75,37,3,166,18,47,23,61,42,86,12,18,93,34,183,4,78,34,1,86,49,8,1,21,13,26,6,21,19,4,44,15,23,64,67,39,17,18,71,69,59,25,24,10,13,56,4,1,11,22,35,77,82,221,9,16,118,287,108,135,87,57,90,7,28,68,82,31,53,188,64,153,33,2,314,56,43,54,258,22,42,22,53,89,196,66,86,112,3,80,98,150,102,33,19,31,2,5,69,21,1,77,49
 Microsoft AI	2816,2511,1680
 Microsoft AI Economy Institute	8126
 Microsoft AI National Skilling Initiative	5327
@@ -505,6 +520,7 @@ Microsoft Azure	411,1309,2,121,973,341,279,118,129,176,267,133,766,59,841,307,23
 Microsoft Azure Blog	411
 Microsoft Azure ExpressRoute Metro	7467
 Microsoft Azure Government	6477
+Microsoft Azure MMM Private Cloud	11231
 Microsoft Azure South Africa	2523,1,1980
 Microsoft Azure Stack	1843
 Microsoft Azure Stacks	1843
@@ -546,18 +562,21 @@ Microsoft HyperV	9455
 Microsoft Information Protection	5598
 Microsoft Investment and AI Skilling Initiative	2526
 Microsoft Kenya	4520
+Microsoft M365 E5 Phase	11231
 Microsoft Microsoft Tencent Microsoft Microsoft Microsoft	6477
 Microsoft Middle East and Africa	5327
 Microsoft Morocco NEWS Nvidia Oman OpenAI	5322
 Microsoft Nigeria	2417
-Microsoft Office	747,7274,1402,407,27
+Microsoft Office	747,7274,1402,407,27,1339
 Microsoft Office CD	34
 Microsoft Office Dust Covers	34
 Microsoft Office Word	962
 Microsoft Office and Google Docs	6517
 Microsoft Open Education	4126
 Microsoft Outlook	7503
+Microsoft Power BI	11231
 Microsoft Power Platform	6353
+Microsoft Power Platforms	11231
 Microsoft Power Point	962
 Microsoft PowerPoint Microsoft Excel Sparx Enterprise	9124
 Microsoft President Brad Smith	5840
@@ -571,7 +590,7 @@ Microsoft Semantic Kernel	5327
 Microsoft Server	5866
 Microsoft South Africa	4504,2230,733
 Microsoft South Africa and SABC	5810
-Microsoft Teams	2093,320,261,5929,1499,707
+Microsoft Teams	2093,320,261,5929,1499,707,431
 Microsoft Teams Tender	10102,707
 Microsoft Teams and Zoom	9304
 Microsoft Teams. Meeting ID	10102
@@ -588,7 +607,7 @@ Microsoft and Amazon.com	5628
 Microsoft and BlackRock	2025
 Microsoft and G42	1720,2,4428,82,288,1,269,145,205,2434,503,1063
 Microsoft and G42-backed	10727
-Microsoft and Google	3596,434,2391,56,1786
+Microsoft and Google	3596,434,2391,56,1786,3075
 Microsoft and Google. All	4030
 Microsoft and Google. Nigeria	11102
 Microsoft and Google. Phase	3155,31
@@ -637,7 +656,7 @@ Microsoft’s Head of Legal Affairs for Africa	6689
 Microsoft’s In-House AI Family	6498
 Microsymbionts for Food and Forage	1154
 Microtraction	11163
-Microwave	3862,1383,577,4766,133
+Microwave	3862,1383,577,4766,133,548
 Microwave Equipment	6946
 Microwave Link Data Bearer Microwave Lin	736
 Microwave Links	6946
@@ -671,6 +690,7 @@ National Micro	8458
 National Refinancing Fund for Microfinance Institutions	8184
 National and MICDE MCDAs CSPs Ministry	6432
 Ndiame Diop Michel Rogy Fily Sissoko	4653
+Network Micro-Segmentation	11231
 Newsfeed Microsoft	2417
 Nsang Micomiseng	4209
 Number of Micro	970
@@ -730,7 +750,9 @@ Sector MICDE	7548
 Selon le Ministre Boukar Michel	2554
 Shiwa and Michele Titton	9971
 Short-term Development MICDE	7548
+Small Medium and Micro Enterprises SOC State	11224
 Small and Micro Enterprises	3238
+South African Microenterprises	11195
 Southern Africa MFB Micro Finance Banks	2775
 Special Economic Zones. Microsoft’s Africa	6266
 Start-Ups and Micro-enterprises	6127
@@ -771,6 +793,7 @@ Vice Chair and President of Microsoft	2525
 Vice-Chairman and President of Microsoft	2526
 Vietnam MIC	1962
 Vietnam's MIC	1962
+Washington-based Microsoft Corporation	11357
 Work-Integrated MICT SETA DHET	6832
 Working Groups MICDE	7548
 World Bank Microdata Library	10714

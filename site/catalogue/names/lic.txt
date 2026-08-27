@@ -122,6 +122,7 @@ Finalisé Dérogation PPA EDC Licence	10975
 Financial Institutions Licensed	5687
 Form DP1. Licences	6181
 Forms Licensing and Authorisation Media Centre All	9109
+Functions of Authority Licensing	11179
 G Licence	7400
 G License Following Competitive Tender Process	3221
 G Spectrum Licence	925
@@ -153,6 +154,7 @@ Incompétence Licenciement	10876
 Individual License	762
 Individual License APPENDIX B LIST	762
 Individual Licensee	762
+Individual Licensees	11259
 Individual Licenses	762
 Infrastructure Sharing Licensee	3862
 Infrastructure Sharing Licensees	3862
@@ -178,6 +180,7 @@ LIC-DSF	3604
 LIC-YEM-001	11156
 LICENCE CONDITIONS FOR THE REVISED TELECOMMUNICATIONS	9335
 LICENCE FEES Fees	736
+LICENCES	11211,51
 LICENCES OTHER THAN PRIVATE RADIO	736
 LICENCIA D3 ACTUAL ACTUAL TOTAL TESORO	4209
 LICENSE AND SHARES	762
@@ -300,9 +303,11 @@ Licensing and Authorization	236
 Licensing and Legal Documentation	5665
 Licensing and Regulations Department	9859,1
 Licensing and Type Approval	6946
+Licensing for Satellite Services	11211
 Licensing of Cybersecurity Providers	3887
 Licensing of Cybersecurity Service Providers	587,3300
 Licensing of Cybersecurity Service Providers Licensing	587
+Licensing of International Mobile Telecommunications	11259
 Licensing of Starlink	1872
 Licensing of Testing Entities	5665
 Licensing. Embed	1777
@@ -493,6 +498,7 @@ System Licence	736
 System Licences	736
 System Licenses	4405
 System Licenses Tanzanian	4405
+TELECOMMUNICATION LICENSEES	11211,51
 TELECOMMUNICATIONS LICENSING DIRECTIVE NO	762
 TURISMO LICENCIA	4209
 TURISMO LICENCIA ACTUAL	4209
@@ -538,7 +544,9 @@ Universal Service Advisory Council Licensing	6946
 Universal Services Licence	736
 VAS Licensees	3862
 VID Licences Scam	9397
+VMware Licensing Renewals	11209
 Value-Added Service Licensees	3862
+Veeam Licensing Renewal	11209
 Vehicle Registration and Driver Licensing	2576
 Vehicle Registration and Licensing	5645
 Vendor Licence	7551
@@ -547,6 +555,9 @@ Virtual Internet Service Provider License	762
 Vodacom Ethiopia Telecoms Operating Licence	733
 Waste Licensing Regulations	1988
 Waste Management Licence	1988
+Water Use Licence Application	11236
+Water Use License Applications	11236
+Water-Use License Application	11236
 Wholesale Electronic Communications Infrastructure License	5277
 World Bank Group. License	10714
 World Bank License	10765,10,37

@@ -1,4 +1,6 @@
 API Testing	5665
+Acceptance Testing UKZN University of KwaZulu-Natal UniLim	11197
+Acid Test	11240
 Additional Testing Requirements Software	5665
 Algoritmo de Testagem	10777
 Angola Testagem de VIH Entre	10760
@@ -24,9 +26,11 @@ Drive Test	718
 Emil Tesliuc	3427
 Encargada de Tesorería	6841
 Entertainment Scheme TES Trusted Employer Scheme	5533
+Execution Test	11305
 FIRST-HAND PRINCIPAL TESTIMONY	2578
 Fichier TES	10714
 Five Tests Leaders Should Apply	7648
+Functional Testing	11216
 Functional Tests	7266
 GASTOS DE TESORERÍA	4209
 Guideline for Software Testing Services	5665
@@ -83,6 +87,7 @@ Penetration Testing	4610
 Penetration Testing Reports	5665
 Perform Testing Services	5665
 Performance Testing	5665
+Performance and Security Testing	11216
 Portability Testing	5665
 Pour Julien Tessier	5712
 Prisca Tessembaye	5545
@@ -100,6 +105,7 @@ Regular Security Audits and Penetration Testing	10721
 Reliability Testing	5665
 Report Test Penetration	11153
 Reserve Bank of India's Stress Test Model	6938
+Responsiveness Test	11240
 SPECIMEN TESTING	4153
 Scalability Testing	5665
 Scheme UAT User Acceptance Testing UN	5533
@@ -217,9 +223,10 @@ Testes Recentes de VIH	10777
 Testes de VIH	10760,17
 Testes de VIH Prévios	10777
 Testified	6635
+Testimonies	11332
 Testimony	2518
 Testimony Akinkunmi	9642
-Testing	11,1977,721,1901,1055,1883,424,698,453,6,920,1085
+Testing	11,1977,721,1901,1055,1883,424,698,453,6,920,1085,103,32
 Testing Attributes Functional Testing	5665
 Testing Dataset	4528
 Testing Director	5665
@@ -238,7 +245,10 @@ Testing Process	5665
 Testing Requirements	5665
 Testing Scope	5665
 Testing WHA World Health Assembly WBPHCOT	396
+Testing WHO World Health Organisation	11224
 Testing and Counseling Providers Year	4153
+Testing and Quality	11216
+Testing and Quality Assurance	11216
 Testing and Validation	3840
 Tests	3110,2555,2323
 Tests Fail-over Test	9123
@@ -250,7 +260,10 @@ Togo First. Test	1635
 Transitioning Early Testing	4349
 UPS Testing	9123
 Usability Testing	5665
-User Acceptance Testing	9680,694,760
+User Acceptance Testing	9680,694,760,107
+User Acceptance Testing UN United Nations	11192
+User Acceptance Testing UN-IGIF United Nations	11261
+User Testing	11216
 Validation and Testing of Open-Ended Outputs	3651
 Vulnerability Assessment and Penetration Testing	10721
 Wearables Are Actually Being Tested	9456
