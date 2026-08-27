@@ -17,17 +17,17 @@ document (`progress-report-redesign.md` §1) and are not in scope.
 ## Done
 
 ERI and ZAF were the pilots. This pass has since added, in order: **GNB, AGO, BDI, BEN, BFA, BWA,
-CAF, CIV, CMR, COD, COG, COM, CPV, DJI, DZA, EGY, ETH, GAB, GHA, GIN, GMB, GNQ, KEN, LBR, LBY, LSO, MAR, MDG, MLI, MOZ, MRT, MUS, MWI, NAM, NER, NGA, RWA, SDN, SEN, SLE, SOM, SSD, STP, SWZ, SYC, TCD, TGO, TUN, TZA, UGA** — 52 of 54, one commit each, all pushed.
+CAF, CIV, CMR, COD, COG, COM, CPV, DJI, DZA, EGY, ETH, GAB, GHA, GIN, GMB, GNQ, KEN, LBR, LBY, LSO, MAR, MDG, MLI, MOZ, MRT, MUS, MWI, NAM, NER, NGA, RWA, SDN, SEN, SLE, SOM, SSD, STP, SWZ, SYC, TCD, TGO, TUN, TZA, UGA, ZMB** — 53 of 54, one commit each, all pushed.
 
 Yields so far, as a sense of shape: 21 indicators from GNB's 25 ledger rows, 43 from BDI's 74, 52
 from BWA's 107, 57 from BEN's 105, 64 from BFA's 131, 66 from AGO's 122, 43 from CAF's 92, 92 from
-CIV's 167, 73 from CMR's 121, 67 from COD's 123, 52 from COG's 103, 45 from COM's 117, 49 from CPV's 140, 43 from DJI's 70, 58 from DZA's 111, 66 from EGY's 199, 66 from ETH's 97, 58 from GAB's 120, 81 from GHA's 175, 59 from GIN's 109, 46 from GMB's 75, 42 from GNQ's 67, 93 from KEN's 219, 43 from LBR's 71, 64 from LBY's 84, 61 from LSO's 69, 79 from MAR's 137, 44 from MDG's 67, 55 from MLI's 87, 77 from MOZ's 159, 39 from MRT's 62, 50 from MUS's 81, 65 from MWI's 183, 62 from NAM's 134, 42 from NER's 68, 92 from NGA's 279, 69 from RWA's 128, 29 from SDN's 52, 55 from SEN's 115, 40 from SLE's 83, 37 from SOM's 60, 44 from SSD's 74, 27 from STP's 49, 43 from SWZ's 86, 34 from SYC's 54, 44 from TCD's 132, 47 from TGO's 124, 39 from TUN's 77, 61 from TZA's 150, 61 from UGA's 159. Between three quarters and nine tenths of ledger rows map; the rest are placeholders with
+CIV's 167, 73 from CMR's 121, 67 from COD's 123, 52 from COG's 103, 45 from COM's 117, 49 from CPV's 140, 43 from DJI's 70, 58 from DZA's 111, 66 from EGY's 199, 66 from ETH's 97, 58 from GAB's 120, 81 from GHA's 175, 59 from GIN's 109, 46 from GMB's 75, 42 from GNQ's 67, 93 from KEN's 219, 43 from LBR's 71, 64 from LBY's 84, 61 from LSO's 69, 79 from MAR's 137, 44 from MDG's 67, 55 from MLI's 87, 77 from MOZ's 159, 39 from MRT's 62, 50 from MUS's 81, 65 from MWI's 183, 62 from NAM's 134, 42 from NER's 68, 92 from NGA's 279, 69 from RWA's 128, 29 from SDN's 52, 55 from SEN's 115, 40 from SLE's 83, 37 from SOM's 60, 44 from SSD's 74, 27 from STP's 49, 43 from SWZ's 86, 34 from SYC's 54, 44 from TCD's 132, 47 from TGO's 124, 39 from TUN's 77, 61 from TZA's 150, 61 from UGA's 159, 56 from ZMB's 176. Between three quarters and nine tenths of ledger rows map; the rest are placeholders with
 no source, or real instruments the frame has no question for (a telecoms statute, a broadcasting
 transition), and those correctly stay on the ledger and out of the report.
 
 ## Remaining
 
-2 country units: ZMB, ZWE.
+1 country unit: ZWE.
 
 ## The loop, per unit
 
@@ -1137,3 +1137,35 @@ exposé.
 **Word-band failures come from summaries, not developments.** The first 8-40 band failure of this pass
 was a 42-word summary that had absorbed an em-dash aside. Developments has 25-200 words of room;
 summary does not.
+
+## What ZMB added, 2026-08-28
+
+123 sourced rows of 176, 56 indicators. Fifteenth running with nothing unmapped.
+
+**When the reconcile work found something about a document, that finding outranks the document's
+contents.** The AI strategy exists, was located only in the copy lodged with an international
+observatory, carries no date of its own in 121,000 characters of extracted text, and disagrees with
+itself about its horizon — cover 2024-2026, every running header 2025-2027. No first-party copy
+located. That is what the cell says. What the strategy *contains* is not the finding; that it cannot
+be dated or attributed is.
+
+**Carry a settled reconciliation with the half it disproves and the half it confirms.** Both 2025
+cyber Acts are held in gazetted text and their investigatory and interception powers are court-gated
+— so the widely repeated claim that they authorise interception without prior judicial review is not
+borne out, *while the presidential-control half of that claim is*. Stating both halves is what makes
+the cell useful to someone who has read the claim elsewhere.
+
+**Three counts of the same object measuring three different things is a finding, not a mess to
+resolve.** Eight councils on the e-council platform, one live on the national portal, all 116
+network-connected. And the government's own primary establishes that "connected" has at times meant
+completed site works rather than live end-to-end service — which is the qualification every
+connection count in the unit needs, so it goes in the capacity cell where they all point.
+
+**Name an accountability gap by its duration.** The Universal Access and Service Fund has no fund
+size, levy rate, annual disbursement or cumulative tower count held for any year, fourteen years
+after its regulations. "Fourteen years" does work that "no figures are published" does not.
+
+**A refusal is a position and gets recorded as one.** The US health financing memorandum was shelved
+over data terms; the health minister denied the mining precondition and was dismissed three days
+later without explanation; the value is US$1.012bn in a leaked draft and up to US$2bn from the
+foreign minister, unreconciled. Declining health financing over data terms is rare in this frame.
