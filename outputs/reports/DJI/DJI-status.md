@@ -4,7 +4,7 @@ compiled: 2026-08-27
 place: DJI
 ledger_rows: 69
 not_held: 10
-record: 39615cc2c6bf
+record: 0680881b0375
 ---
 
 # Djibouti: status report
@@ -207,7 +207,7 @@ The state's own records are digitised on a state-funded programme running since 
 _The base holds no digitalisation rows for Djibouti. A thin evidence base is a finding, not a gap in this document._
 
 <!-- narrative: digitalisation -->
-
+The base holds no digitalisation rows for Djibouti. What is on record of service delivery outside the capital sits under DPI and Infrastructure rather than under a digitalisation programme of its own.
 <!-- /narrative -->
 
 ## Technology
@@ -217,7 +217,7 @@ _The base holds no digitalisation rows for Djibouti. A thin evidence base is a f
 | System or instrument | Status | Milestone |
 |---|---|---|
 | Cross-border data corridor between Shanghai and Djibouti | [Planned](https://www.lanation.dj/ce-projet-jettera-les-bases-solides-de-la-competitivite-nationale-pour-les-30-prochaines-annees-mariam-hamadou-ali-ministre-deleguee-chargee-des-investissements-et-du-developpement-du-s/) | Named by the signing minister as a success indicator of the LinkWise memorandum |
-| First national artificial-intelligence strategy | [In development](https://www.lanation.dj/lintelligence-artificielle-ouvre-un-nouveau-champ-pour-la-jeunesse/) | National AI Forum fixed for 2-3 September 2026, at which the strategy is to launch |
+| First national artificial-intelligence strategy | [In development](https://www.adi.dj/article/138846) | National forum on artificial intelligence convened, with media briefed to cover it |
 | MAZU-Djibouti AI weather early-warning system | [Implemented](https://www.wearetech.africa/fr/fils/actualites/tech/djibouti-deploie-une-nouvelle-version-de-son-systeme-d-alerte-meteo-fonde-sur-l-ia) | Version 2.0 handed over on the sidelines of the World AI Conference, Shanghai |
 | Instrument governing artificial-intelligence systems in public use | ***Not held*** | No AI law, decree or procurement rule is held; the strategy in preparation is not an instrument |
 
@@ -261,7 +261,7 @@ The domestic sector is small and newly organised: the ministry [launched the LIM
 | Public research programme in digital or data science | ***Not held*** | No research programme document, university centre mandate or published research output is held |
 
 <!-- narrative: capacity -->
-
+No public research programme in digital or data science is held for Djibouti: no programme document, university centre mandate or published research output. The absence is what the record supports, and it sits oddly beside a national artificial-intelligence forum now being convened.
 <!-- /narrative -->
 
 ## Inclusion
@@ -297,7 +297,7 @@ The [E-SKILLS Digital Houses initiative covers five inland regions, 3,000 to be 
 | Earth-observation or geospatial data programme | ***Not held*** | One AI weather system on file and no programme document; no national geospatial mandate held |
 
 <!-- narrative: data -->
-
+No earth-observation or geospatial programme is held for Djibouti. One artificial-intelligence weather system is on file and no programme document behind it, and no national geospatial mandate.
 <!-- /narrative -->
 
 ## Geopolitics
@@ -321,7 +321,7 @@ The [E-SKILLS Digital Houses initiative covers five inland regions, 3,000 to be 
 | Indian digital cooperation with Djibouti | ***Not held*** | No India-Djibouti digital agreement, line of credit or programme document is held |
 
 <!-- narrative: geopolitics -->
-
+No India-Djibouti digital agreement, line of credit or programme document is held. The country's external digital relationships that the base does hold run through cable transit and are carried under Infrastructure.
 <!-- /narrative -->
 
 ## Gaps to fill

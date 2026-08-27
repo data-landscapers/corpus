@@ -3,10 +3,10 @@ title: Guinea — progress report, August 2025 – August 2026
 compiled: 2026-08-27
 period: 2025-08-01 to 2026-08-27
 place: GIN
-ledger_rows: 110
+ledger_rows: 112
 not_held: 14
 indicators: 121
-record: 6fbe53ddff76
+record: 4247e3336cbf
 ---
 
 # Guinea: progress report, August 2025 – August 2026

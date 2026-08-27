@@ -1,11 +1,11 @@
 ---
 title: Benin — monthly update, July – August 2026
-compiled: 2026-08-25
-period: 2026-07-01 to 2026-08-25
+compiled: 2026-08-27
+period: 2026-07-01 to 2026-08-27
 place: BEN
 ledger_rows: 29
 not_held: 5
-record: ce9b4343df56
+record: 1f2fec65c924
 ---
 
 # Benin: monthly update, July – August 2026
@@ -123,4 +123,6 @@ The digital agency published these exchange-usage figures on 11 July.
 
 <!-- narrative: data--data-open -->
 The Open Government Partnership national action plan's co-creation opened at the end of the month, eighteen months after the country joined. Nothing moved this month on data protection or the digital-strategy stack.
+
+Benin is [preparing its first Open Government Partnership national action plan](https://lanation.bj/economie/partenariat-pour-un-gouvernement-ouvert-le-benin-prepare-son-premier-plan-daction-national), built around four axes of which two are budget transparency and accountability, and access to information and digital governance. No draft, consultation calendar or submission date is on file.
 <!-- /narrative -->

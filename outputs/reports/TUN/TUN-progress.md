@@ -3,10 +3,10 @@ title: Tunisia — progress report, August 2025 – August 2026
 compiled: 2026-08-27
 period: 2025-08-01 to 2026-08-27
 place: TUN
-ledger_rows: 77
+ledger_rows: 81
 not_held: 9
 indicators: 121
-record: cccf308b5340
+record: 4eaeae6afe26
 ---
 
 # Tunisia: progress report, August 2025 – August 2026

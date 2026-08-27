@@ -1,11 +1,11 @@
 ---
 title: Burundi — monthly update, July – August 2026
-compiled: 2026-08-25
-period: 2026-07-01 to 2026-08-25
+compiled: 2026-08-27
+period: 2026-07-01 to 2026-08-27
 place: BDI
-ledger_rows: 25
+ledger_rows: 28
 not_held: 10
-record: 5534113ebf2b
+record: 693edb2e5289
 ---
 
 # Burundi: monthly update, July – August 2026
@@ -118,4 +118,9 @@ The research capacity the AI strategy assumes showed itself once this month, [ou
 
 <!-- narrative: inclusion--include-access -->
 ABUCO's [statement of 28 July 2026](https://www.sosmediasburundi.org/2026/07/31/telecoms-en-crise-au-burundi-labuco-denonce-linaction-des-autorites-face-a-la-degradation-des-services/) is the month's one dated position on affordability: internet package tariffs have more than doubled since the January 2025 instruction to operators to improve service, while quality fell, and it runs against the service obligations that instruction set. Its president describes the sector as having returned to the situation of the early 2000s and names businesses, traders and public administrations among those affected. The two sources on file attribute that instruction differently, one to the telecommunications ministry and one to the interior minister; no text of it is held.
+<!-- /narrative -->
+### Digital divides
+
+<!-- narrative: inclusion--include-divides -->
+The telecommunications regulator told a workshop that very few Burundians use the internet. It characterised the level without publishing a figure, so the finding the base can carry is the regulator's own [statement that use is low](https://www.iwacu-burundi.org/englishnews/number-of-internet-users-in-burundi-is-low-says-arct/), not a percentage.
 <!-- /narrative -->

@@ -4,7 +4,7 @@ compiled: 2026-08-27
 place: GMB
 ledger_rows: 68
 not_held: 13
-record: 8e9214b6d621
+record: 34afb8aabd15
 ---
 
 # Gambia: status report
@@ -155,7 +155,7 @@ Satellite access is unresolved. The Minister of Digital Economy said on [24 May 
 | System or instrument | Status | Milestone |
 |---|---|---|
 | Margins ID national identity contract | [Implemented](https://thepoint.gm/africa/gambia/headlines/govt-signs-id-card-deal-with-margins-id-systems-applications-ltd) | Signed by the Ministry of Interior with Margins ID Systems Applications, 21 January 2026 |
-| National Identity Management System (GAM ID) | [Implemented](https://www.voicegambia.com/gambia-rolls-out-new-10-year-national-identity-cards/) | Nationwide rollout of ten-year biometric cards launched 2026-08-07 at six centres |
+| National Identity Management System (GAM ID) | [Implemented](https://standard.gm/new-biometric-id-card-issuance-starts/) | First phase of public registration and issuance for citizens aged eighteen and over began 4 August 2026 |
 
 ### Digital Payments and Fintech
 
@@ -224,7 +224,7 @@ Statistics are the most complete system in the stack. The [fifth labour force su
 | Rural digital data capture | ***Not held*** | — |
 
 <!-- narrative: digitalisation -->
-
+No rural digital data capture is held for The Gambia. The identity rollout recorded under DPI is the nearest thing on file to a programme reaching beyond the urban centres, and it is an enrolment operation rather than a digitalisation programme.
 <!-- /narrative -->
 
 ## Technology
@@ -271,7 +271,7 @@ One announced platform has produced nothing. A [memorandum with the Kalp Foundat
 | National Labour Digital Skill programme | [In development](https://thepoint.gm/africa/gambia/national-news/stakeholders-validate-methodology-labour-digital-skill-dev-report) | Methodology and report validated, 23 December 2025 |
 
 <!-- narrative: capacity -->
-
+Capacity rests on one instrument in preparation: a [National Labour Digital Skill programme](https://thepoint.gm/africa/gambia/national-news/stakeholders-validate-methodology-labour-digital-skill-dev-report) whose methodology stakeholders have validated. No curriculum, intake or funding line is held behind it.
 <!-- /narrative -->
 
 ## Inclusion
@@ -304,7 +304,7 @@ On access itself there is no domestic measure. DataReportal's commercial compila
 | National open-data portal | ***Not held*** | — |
 
 <!-- narrative: data -->
-
+No national open-data portal is held for The Gambia, and no statistical release schedule that would substitute for one.
 <!-- /narrative -->
 
 ## Geopolitics
@@ -328,7 +328,7 @@ On access itself there is no domestic measure. DataReportal's commercial compila
 | Indian digital cooperation with The Gambia | ***Not held*** | — |
 
 <!-- narrative: geopolitics -->
-
+No Indian digital cooperation with The Gambia is held. The external digital relationships the base does carry are regional, with Senegal, and are recorded under Governance.
 <!-- /narrative -->
 
 ## Gaps to fill

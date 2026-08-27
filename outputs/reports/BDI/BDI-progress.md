@@ -3,10 +3,10 @@ title: Burundi — progress report, August 2025 – August 2026
 compiled: 2026-08-27
 period: 2025-08-01 to 2026-08-27
 place: BDI
-ledger_rows: 74
+ledger_rows: 77
 not_held: 10
 indicators: 121
-record: 11ee5b0d3860
+record: c361b62777d2
 ---
 
 # Burundi: progress report, August 2025 – August 2026

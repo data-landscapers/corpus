@@ -3,18 +3,18 @@ title: Africa — progress report, August 2025 – August 2026
 compiled: 2026-08-27
 period: 2025-08-01 to 2026-08-27
 place: XAF
-ledger_rows: 117
+ledger_rows: 118
 not_held: 3
-record: 3c90505972b3
+record: 153adb22e07e
 ---
 
 # Africa: progress report, August 2025 – August 2026
 
 *Compiled 2026-08-27 by Claude Opus from the documents in the Corpus repository. Sections run from the region's institutions outwards to what funds them. Each opens with a movement ledger comparing the position at the start and end of the period, which runs to the date of issue rather than to the last month's close.*
 
-*Of 117 bodies, instruments and systems on this place's ledger, 61 changed position between 2025-08-01 and 2026-08-27, 10 did not, 43 carry no stated baseline, and 3 are ***Not held*** at both ends.*
+*Of 118 bodies, instruments and systems on this place's ledger, 62 changed position between 2025-08-01 and 2026-08-27, 10 did not, 43 carry no stated baseline, and 3 are ***Not held*** at both ends.*
 
-*Shape check, run before the comparison: 654 sources for this place in the window — 72 in the earlier half (2025-08 to 2026-01), 582 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
+*Shape check, run before the comparison: 658 sources for this place in the window — 72 in the earlier half (2025-08 to 2026-01), 586 in the later (2026-02 to 2026-08). **The earlier half of the window is thin: this is a shorter comparison wearing a longer label**, and the movement below rests mostly on the later half.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
@@ -75,6 +75,7 @@ What has not moved is the digital trade protocol's own domestication: state part
 
 | Body, instrument or system | At 2025-08-01 | At 2026-08-27 | Movement |
 |---|---|---|---|
+| Africa PKI Forum harmonisation of digital-trust rules | Did not exist | [Participants called for harmonised African rules so that digital credentials, electronic signatures and documents can be verified across borders; nothing is adopted and no instrument, timetable or signatory list is on file](https://ait.live/africa-moves-to-harmonise-digital-trust-rules-across-borders/) | Advanced |
 | African Common Proposals for WRC-27 | Preliminary African Common Proposals for WRC-27 and RA-27 are to be consolidated from the recommendations of the African Telecommunications Union's WRC-27 working groups at the third African Preparatory Meeting, Tunis, 7-11 September 2026, co-organised with Tunisia's Agence Nationale des Frequences; no proposal text is published | [The union's third radiocommunication working group met as an e-meeting convened from Nairobi from 18 to 21 August 2026, input contributions having closed on 11 August, to prepare its recommendations for the third African Preparatory Meeting; the meeting's own output is not published, and no proposal text is published](https://atuuat.africa/event/atu-r-wg3/) | Advanced |
 | AFRINIC Constitution (Bylaws) | ***Baseline not held*** | [Fifth version in force since December 2020; the Bylaws Review Committee ran a first consultation from 2026-04-20, extended on 2026-05-08 to close 2026-05-17, and published a draft amended Constitution on 2026-08-04 for a second consultation closing 2026-08-21. It names membership, powers of members, the Nomination Committee and appointment of directors as the most heavily revised provisions, and a new Article 3 would write into the constitution that AFRINIC is the Regional Internet Registry for Africa and the Indian Ocean and that its governance will be periodically reviewed against internationally recognised governance standards. The published-draft milestone slipped about six weeks against the Committee's own indicative timetable while the Special General Members Meeting stayed in September 2026, and no consolidation or analysis of the first round's submissions is published; a second draft was open for comment from 4 to 21 August 2026. Proposed article 9.8 would let a two-thirds board vote revoke the nomination committee and restart an election the board itself had judged to have failed, with the same board defining the failure, deciding the case and triggering the consequence before any independent review; the current rule barring a conflicted director from voting would be dropped and recusal relocated into board policy, which matters because Mauritius company law lets an interested director vote after disclosure unless the constitution says otherwise; article 16 opens a wide advice channel with no register of advice given or received; and article 17.5 would create an acting chief executive office with no maximum term and no stated link to board seat 9 or to removal rules. A cyberdiplomacy consultant who had opposed early constitutional reform argued on 19 August that the article-by-article rationale now gives members enough to test the draft against the failures it is meant to fix](https://circleid.com/posts/afrinics-constitution-is-africas-next-internet-stress-test) | ***Baseline not held*** |
 | Continental ICT standardisation alignment | ***Baseline not held*** | [Talks opened on a coordinated continental approach across the standards lifecycle, from development through harmonised adoption and implementation by countries, naming fragmentation and the failure to translate continental and international standards into national frameworks as the problem](https://techreviewafrica.com/news/6809/atu-gist-and-arso-seek-stronger-alignment-of-ict-standards-across-africa) | ***Baseline not held*** |

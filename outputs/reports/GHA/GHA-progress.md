@@ -3,10 +3,10 @@ title: Ghana — progress report, August 2025 – August 2026
 compiled: 2026-08-27
 period: 2025-08-01 to 2026-08-27
 place: GHA
-ledger_rows: 178
+ledger_rows: 180
 not_held: 9
 indicators: 121
-record: b60289cc1f08
+record: 34b9cd82d0a3
 ---
 
 # Ghana: progress report, August 2025 – August 2026

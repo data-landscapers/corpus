@@ -1,15 +1,15 @@
 ---
 title: Burundi — digital transformation and data governance status report
-compiled: 2026-08-25
+compiled: 2026-08-27
 place: BDI
-ledger_rows: 65
+ledger_rows: 67
 not_held: 10
-record: 77cc6cd7d495
+record: 820a3b24261b
 ---
 
 # Burundi: status report
 
-*Compiled 2026-08-25 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/BDI/ledger.csv` (65 systems and instruments, 10 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-27 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/BDI/ledger.csv` (67 systems and instruments, 10 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -52,6 +52,7 @@ Against that, [ARCT says internet quality is degraded and traces it mainly to th
 |---|---|---|
 | AfCFTA country implementation roadmap | [Planned](https://au-afcfta.org/2026/08/afcfta-secretary-general-begins-official-mission-to-burundi/) | Technical team agreed 3 August 2026, during the AfCFTA Secretary-General's mission to Bujumbura, to produce a country profile and implementation roadmap jointly owned by government and the private sector |
 | EAC One Network Area and Regional Digital Integration protocol | [Implemented](https://www.burunditimes.com/burundi-embraces-eac-digital-integration-for-ict-growth/) | Joined the One Network Area and ratified the protocol |
+| IGAD cross-border health security cooperation | [In development](https://igad.int/igad-and-burundi-push-for-stronger-regional-health-security-through-cross-border-cooperation/) | Consultation on a memorandum held in Bujumbura, August 2026 |
 | Vietnam-Burundi telecommunications-technology memorandum | [Enacted](https://www.vietnam.vn/viet-nam-burundi-thuc-day-hop-tac-chuyen-doi-so-va-phat-trien-ha-tang-cong-nghe) | Implementation meeting held 28 July 2026, party-to-party rather than ministry-to-ministry |
 
 ### Standards
@@ -227,7 +228,7 @@ Registries are further along than the identity layer they will depend on. [Meran
 | Villages Numeriques programme | [In development](https://www.iwacu-burundi.org/internet-haut-debit-le-pafen-veut-couvrir-plus-de-80-du-territoire/) | Named in the PAFEN broadband account targeting 80% territorial coverage |
 
 <!-- narrative: digitalisation -->
-
+Rural digitalisation is a single named programme and no delivery. The [Villages Numeriques programme](https://www.iwacu-burundi.org/internet-haut-debit-le-pafen-veut-couvrir-plus-de-80-du-territoire/) is named inside a broader connectivity plan rather than carried by an instrument of its own, and the base holds no site count, budget line or opening date for it.
 <!-- /narrative -->
 
 ## Technology
@@ -281,10 +282,16 @@ External cooperation is where the sector's money is. Burundi [opened talks with 
 | University and professional research capacity in AI and data | [In development](https://en.irisnews.org/in-burundi-a-quiet-reckoning-with-the-age-of-ai/) | First documented workshop drew university lecturers, doctors, developers and students |
 
 <!-- narrative: capacity -->
-
+Capacity is documented only as a shortage. [University and professional research capacity in artificial intelligence and data](https://en.irisnews.org/in-burundi-a-quiet-reckoning-with-the-age-of-ai/) is recorded as in development on the strength of a single account, with no faculty, centre mandate or published output behind it.
 <!-- /narrative -->
 
 ## Inclusion
+
+### Access to services
+
+| System or instrument | Status | Milestone |
+|---|---|---|
+| Rural community digital hub | [Implemented](https://www.linkedin.com/posts/eddy-kubwimana_internet4all-shombo-internet4all-activity-7497195156408954880-fCPP) | Hub opened at Shombo, August 2026 |
 
 ### Digital divides
 
@@ -320,7 +327,7 @@ On capacity, [Vietnam reports having supplied 50 desktop computer sets and Maste
 | Earth-observation or satellite data programme | ***Not held*** | No source on file |
 
 <!-- narrative: data -->
-
+The base holds no earth-observation or satellite-data programme for Burundi, which is a statement about the record and not a claim that no data is used.
 <!-- /narrative -->
 
 ## Geopolitics
@@ -356,7 +363,7 @@ On capacity, [Vietnam reports having supplied 50 desktop computer sets and Maste
 | India Stack cooperation | [Planned](https://www.wearetech.africa/en/fils-uk/news/tech/burundi-studies-india-stack-for-digital-identity-and-payment-reforms) | Talks opened to adapt Aadhaar-style identity linked to instant payments |
 
 <!-- narrative: geopolitics -->
-
+The one external digital relationship on record is with India: [talks were opened to adapt India Stack for identity and payment reform](https://www.wearetech.africa/en/fils-uk/news/tech/burundi-studies-india-stack-for-digital-identity-and-payment-reforms), and nothing has been agreed since.
 <!-- /narrative -->
 
 ## Gaps to fill
