@@ -17,18 +17,17 @@ document (`progress-report-redesign.md` §1) and are not in scope.
 ## Done
 
 ERI and ZAF were the pilots. This pass has since added, in order: **GNB, AGO, BDI, BEN, BFA, BWA,
-CAF, CIV, CMR, COD, COG, COM, CPV, DJI, DZA, EGY, ETH, GAB, GHA, GIN, GMB, GNQ, KEN, LBR, LBY, LSO, MAR, MDG, MLI, MOZ, MRT, MUS, MWI, NAM, NER** — 37 of 54, one commit each, all pushed.
+CAF, CIV, CMR, COD, COG, COM, CPV, DJI, DZA, EGY, ETH, GAB, GHA, GIN, GMB, GNQ, KEN, LBR, LBY, LSO, MAR, MDG, MLI, MOZ, MRT, MUS, MWI, NAM, NER, NGA** — 38 of 54, one commit each, all pushed.
 
 Yields so far, as a sense of shape: 21 indicators from GNB's 25 ledger rows, 43 from BDI's 74, 52
 from BWA's 107, 57 from BEN's 105, 64 from BFA's 131, 66 from AGO's 122, 43 from CAF's 92, 92 from
-CIV's 167, 73 from CMR's 121, 67 from COD's 123, 52 from COG's 103, 45 from COM's 117, 49 from CPV's 140, 43 from DJI's 70, 58 from DZA's 111, 66 from EGY's 199, 66 from ETH's 97, 58 from GAB's 120, 81 from GHA's 175, 59 from GIN's 109, 46 from GMB's 75, 42 from GNQ's 67, 93 from KEN's 219, 43 from LBR's 71, 64 from LBY's 84, 61 from LSO's 69, 79 from MAR's 137, 44 from MDG's 67, 55 from MLI's 87, 77 from MOZ's 159, 39 from MRT's 62, 50 from MUS's 81, 65 from MWI's 183, 62 from NAM's 134, 42 from NER's 68. Between three quarters and nine tenths of ledger rows map; the rest are placeholders with
+CIV's 167, 73 from CMR's 121, 67 from COD's 123, 52 from COG's 103, 45 from COM's 117, 49 from CPV's 140, 43 from DJI's 70, 58 from DZA's 111, 66 from EGY's 199, 66 from ETH's 97, 58 from GAB's 120, 81 from GHA's 175, 59 from GIN's 109, 46 from GMB's 75, 42 from GNQ's 67, 93 from KEN's 219, 43 from LBR's 71, 64 from LBY's 84, 61 from LSO's 69, 79 from MAR's 137, 44 from MDG's 67, 55 from MLI's 87, 77 from MOZ's 159, 39 from MRT's 62, 50 from MUS's 81, 65 from MWI's 183, 62 from NAM's 134, 42 from NER's 68, 92 from NGA's 279. Between three quarters and nine tenths of ledger rows map; the rest are placeholders with
 no source, or real instruments the frame has no question for (a telecoms statute, a broadcasting
 transition), and those correctly stay on the ledger and out of the report.
 
 ## Remaining
 
-21 country units: MUS,
-MWI, NAM, NER, NGA, RWA, SDN, SEN, SLE, SOM, SSD, STP, SWZ, SYC, TCD, TGO, TUN, TZA, UGA, ZMB, ZWE.
+16 country units: RWA, SDN, SEN, SLE, SOM, SSD, STP, SWZ, SYC, TCD, TGO, TUN, TZA, UGA, ZMB, ZWE.
 
 ## The loop, per unit
 
@@ -644,3 +643,44 @@ and population registers together; the population register is in build with a se
 running ahead of it, and the cell says that a campaign preceding a register that cannot yet enrol is
 the whole of what is dated. A cleaner legal basis than most units in this base have, and no operating
 system behind it, is the finding.
+
+## What NGA added, 2026-08-27
+
+The largest unit in the corpus by a wide margin: 279 ledger rows, 271 of them sourced, against KEN's
+219 and EGY's 199. It yields 92 indicators, and — for the first time in this pass — **every sourced
+row is carried by a cell**. That was not a target. It fell out of the volume: at 271 rows there is
+almost no subject the frame has no question for, so the usual residue of unmappable instruments never
+formed. The five rows left over at first pass were placed by appending a clause to a neighbouring
+cell rather than by inventing a home for them, which is the right order — the cell has to be about
+something before a row can join it.
+
+**At this size the constraint stops being coverage and becomes the word band.** Several cells carry
+five or six rows, and the only way to keep `developments` under 200 words is one clause per row with
+the qualification attached rather than spun out. Where a row genuinely needed a paragraph — the birth
+register's zero health-facility notifications, the fibre-cut series, the voter-accreditation failures
+— it got a cell of its own and the neighbours took the short clauses. Deciding which rows deserve
+prose and which deserve a clause is the whole of the drafting at this scale.
+
+**Two placements are worth stating because they cut across the frame's own filing.** The AI
+surveillance estate, the naval maritime system being pitched inland for banditry, the state
+facial-recognition network and the concessioned transport databank sit together under
+`tech.ai--control-of-ai-abuse`, not under the sectors that procured them. What the evidence
+establishes about all four is the same absence — no lawful basis, no retention rule, no oversight —
+and splitting them across transport, defence and local government would have lost the only finding
+they share. Symmetrically, the fibre-cut series (155,397 cuts in two months) sits under
+`infra.capacity--local-capacity-to-maintain-manage-and-develop-government-systems` rather than under
+the backbone indicator, because it is a maintenance finding, not a coverage one; the backbone cell
+carries the build.
+
+**A slug the base holds without a URL fails check M and is not the draft's fault.** The cloud policy
+row cites three records and the middle one has no URL, so check M reads it as uncitable. The fix was
+to cite the 08-18 record of the same policy instead — the cell did not depend on the first — and the
+underlying record is OSINT's to repair. Worth knowing the failure mode: the draft lint cannot see it
+(it has no catalogue), so it survives to the render check and looks like a drafting error when it is
+a base error. Read the message, which says so.
+
+**The apostrophe trap has a third form.** Earlier units hit `\"` and `\'` inside f-string
+expressions; this one hit a possessive plural — `parties' digital rights` — inside a single-quoted
+`L()` label. Same cause, same fix: triple-quote the label. Reading slugs through `S(row_id, index)`
+still makes slug typos impossible, but it does nothing for the label text, which is where every
+remaining syntax error in this pass has come from.
