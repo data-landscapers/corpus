@@ -3,10 +3,10 @@ title: Kenya — progress report, August 2025 – August 2026
 compiled: 2026-08-27
 period: 2025-08-01 to 2026-08-27
 place: KEN
-ledger_rows: 228
+ledger_rows: 229
 not_held: 7
 indicators: 121
-record: 4cd72c93269d
+record: 567aa894fb3a
 ---
 
 # Kenya: progress report, August 2025 – August 2026

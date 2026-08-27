@@ -3,9 +3,9 @@ title: Rwanda — monthly update, July – August 2026
 compiled: 2026-08-27
 period: 2026-07-01 to 2026-08-27
 place: RWA
-ledger_rows: 54
+ledger_rows: 56
 not_held: 9
-record: bf8a29e51c99
+record: 2593db00fedb
 ---
 
 # Rwanda: monthly update, July – August 2026
@@ -28,6 +28,16 @@ The ministry's legacy-network retirement plan, announced on 28 July, extends bey
 A development agency published on 6 July, from engagements run to March 2026, that Rwandan participants reported [no dedicated national organisation conducts artificial-intelligence risk assessments, evaluations or active monitoring of errors and harms](https://www.undp.org/publications/small-states-big-signals-what-adoption-practice-reveals-about-trust-safety-and-ai-performance-globally) — while the technology is embedded in payments, judiciary filing, identity verification and service delivery — and that resolving an authentication error can take days or weeks. The report is qualitative and claims no representativeness.
 
 The agency meant to hold that ground acquired its first stated function since cabinet approved it in June. Answering early-stage artificial-intelligence firms pressing publicly for infrastructure and funding, the ICT ministry [said on 17 August that the National AI Agency would coordinate shared compute and data-centre capacity for start-ups and researchers](https://allafrica.com/stories/202608170713.html). No establishing law, compute capacity, access rule or budget is attached to it, and the base still records no sovereign compute of any kind.
+<!-- /narrative -->
+### Legislation and regulation
+
+<!-- narrative: governance--gov-legislate -->
+The virtual-asset law moved from a rationale approved in principle to an instrument on the books, and the base learned of it only through the regulator's travel. Rwanda [gazetted its first dedicated legislation regulating virtual-asset businesses in May 2026, under which the Capital Market Authority is the primary licensing and supervisory authority for virtual-asset service providers](https://www.itweb.africa/article/digital-assets-drive-rwanda-uae-deal/P3gQ2qGAzzE7nRD1). The authority is now benchmarking that framework against the United Arab Emirates', a delegation led by its chief executive [concluding a study tour in the UAE that included a two-day visit to Dubai's Virtual Assets Regulatory Authority, with the two regulators beginning work towards a memorandum of understanding](https://techafricanews.com/2026/08/27/rwanda-cma-dubai-vara-study-tour-virtual-asset-regulation/) — the UAE side framing it as part of an initiative to expand regulatory partnerships with emerging markets across Africa. No gazette number, licence granted or supervised provider is on record, so what is held is a law reported at second hand and a benchmarking exercise against the jurisdiction it is being modelled on.
+<!-- /narrative -->
+### Data protection
+
+<!-- narrative: governance--gov-protect -->
+Rwanda is [preparing a restriction on social media use by under-16s](https://www.agenceecofin.com/actualites/2708-141074-en-afrique-comme-ailleurs-les-etats-s-emparent-de-la-protection-des-mineurs-sur-les-reseaux-sociaux), one of several African measures moving from a minimum age for opening an account towards design duties on the platforms themselves — Gabon's February 2026 ordinance fixing digital majority at 16 and additionally obliging platforms to limit publication and interaction functions, disable contacts from unidentified users by default and provide age verification. The African Union's 2024 child online safety policy already asks states to require protection by design and by default, risk assessments, personal-data safeguards, researcher access to platform data and independent oversight. No draft text, sponsoring body or timetable is named here, and the constraint reported across the region is enforcement rather than law.
 <!-- /narrative -->
 ### Regional collaboration
 

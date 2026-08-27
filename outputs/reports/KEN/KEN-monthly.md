@@ -3,9 +3,9 @@ title: Kenya — monthly update, July – August 2026
 compiled: 2026-08-27
 period: 2026-07-01 to 2026-08-27
 place: KEN
-ledger_rows: 149
+ledger_rows: 150
 not_held: 7
-record: e66c7a5bc8a0
+record: fdd645287fec
 ---
 
 # Kenya: monthly update, July – August 2026
@@ -130,6 +130,8 @@ Two capacity items advanced without a figure attached to either. Nationwide broa
 The presidency's website was [defaced on 18 July with a 5 BTC ransom demand and restored on 20 July](https://itweb.africa/article/kenya-restores-presidential-website-after-cyber-attack/Gb3Bw7WadxLq2k6V) — the second compromise of that portal in eight months. State House says no evidence of data access was found; cause and attribution are undisclosed.
 
 A vendor threat report published on 13 August put the exposure at the ordinary end rather than the novel one: [malicious email attachments dominated, 46.2% of them scripts, quick-response-code phishing rose 145% between the second half of 2025 and the first of 2026, exploitation of a 2017 Office vulnerability more than doubled, and one loader became the country's fourth most-detected malware family](https://techtrends.africa/eset-threat-report-kenyan-organisations-are-being-attacked-by-the-basics/). The figures are the vendor's own detections, not a national incident series.
+
+The instrument establishing the new agency also reached the base this month, three months after it took effect. The [State Corporations (National Cybersecurity Agency) Order, 2026 — Legal Notice 89 of 2026, gazetted and commenced on 15 May 2026 — makes it an autonomous body corporate headquartered in Nairobi City County under the direction of the Cabinet Secretary for internal security, charged with formulating national cybersecurity strategy, auditing and certifying the resilience of designated critical information infrastructure, running the National Cybersecurity Operations Centre and maintaining a Cybersecurity Centre of Excellence, with a board seating the internal-security, Treasury and ICT principal secretaries alongside one academic and one private-sector appointee](https://new.kenyalaw.org/akn/ke/act/ln/2026/89/eng@2026-05-15). Nothing in the record shows it exercising any of those powers yet.
 <!-- /narrative -->
 
 ## DPI
@@ -174,6 +176,8 @@ An academic review published on 5 August put the child-protection case system on
 The Controller of Budget's report entered July's reading: [1,695 of a target 11,000 services](https://nation.africa/kenya/business/agencies-defy-ruto-s-e-citizen-order-1-695-services-yet-to-be-migrated-5506558) were migrated onto eCitizen in the year to 31 March 2026, against 3,458 the year before, described as a dismal performance.
 
 The platform sells better abroad than it migrates at home. Its operator [pitched the Democratic Republic of the Congo's digital economy ministry on 12 August on digital company registries, beneficial-ownership traceability and real-time state-revenue tracking](https://acp.cd/economie/rdc-la-mise-en-place-de-registres-numeriques-recommandee-pour-moderniser-ladministration/), citing eCitizen's forty-plus digitised services and existing registry deployments in Malawi and South Sudan; the Congolese minister asked officials to continue talks toward a partnership. The claims are the vendor's own, made in a sales meeting, and the same operating consortium's domestic position remains under challenge.
+
+The procurement platform got a hard date for the tier that has resisted it. On 25 August the Treasury [gave all 47 county governments until 30 September 2026 to finish integrating the electronic procurement platform with the Integrated Financial Management Information System, so that tendering, award and contract monitoring connect to budget planning, spending and payment](https://www.wearetech.africa/actualites/fils/actualites/gestion-publique/kenya-les-47-comtes-sommes-de-passer-aux-marches-publics-numeriques). The deadline lands on a rollout that has already slipped: a first phase launched in April 2025 for extension to all national and local administrations from 1 July 2025, against resistance from the Council of Governors over pace and service disruption, with more than 900 public entities migrated by February 2026. Public procurement is [put at close to 30% of Kenyan GDP](https://www.wearetech.africa/actualites/fils/actualites/gestion-publique/kenya-les-47-comtes-sommes-de-passer-aux-marches-publics-numeriques), which is the size of what the deadline is meant to bring onto one record.
 <!-- /narrative -->
 
 ## Technology
@@ -204,6 +208,8 @@ The regulator donated computers to a school in Turkana on 30 July, one of 23 ins
 
 <!-- narrative: capacity--capacity-training -->
 The 117th digital hub was [commissioned in Baringo on 20 July](https://techafricanews.com/2026/07/20/kenya-launches-117th-jitume-digital-hub-to-expand-digital-access-in-baringo-county/) on the ceremony series, against a separate installed-base series of about 350 that the programme's own officials also use.
+
+Certification reached the platform economy from the other direction, in one county and at small scale. A ride-hailing operator and the Mombasa county government [launched a programme to license 400 delivery riders through the national Recognition of Prior Learning framework, the operator committing KES 1.5 million: riders complete 21 days of accredited training at a certified driving school before the transport and safety authority licenses them on demonstrated competency, under a January 2026 memorandum covering compliance, safety, youth employment and platform adoption, and the operator will share trip and demand data with the county for infrastructure planning including the siting of electric-vehicle charging points](https://techcabal.com/2026/08/27/bolt-mombasa-formalise-400-delivery-riders-training-and-licences/). Four hundred riders is set against a sector a 2025 parliamentary report puts at more than two million, and no data-sharing agreement, retention rule or privacy basis for the trip and demand data accompanies it.
 <!-- /narrative -->
 ### Research institutions
 
