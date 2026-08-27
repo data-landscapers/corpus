@@ -17,17 +17,17 @@ document (`progress-report-redesign.md` §1) and are not in scope.
 ## Done
 
 ERI and ZAF were the pilots. This pass has since added, in order: **GNB, AGO, BDI, BEN, BFA, BWA,
-CAF, CIV, CMR, COD, COG, COM, CPV, DJI, DZA, EGY, ETH, GAB, GHA, GIN, GMB, GNQ, KEN, LBR** — 26 of 54, one commit each, all pushed.
+CAF, CIV, CMR, COD, COG, COM, CPV, DJI, DZA, EGY, ETH, GAB, GHA, GIN, GMB, GNQ, KEN, LBR, LBY** — 27 of 54, one commit each, all pushed.
 
 Yields so far, as a sense of shape: 21 indicators from GNB's 25 ledger rows, 43 from BDI's 74, 52
 from BWA's 107, 57 from BEN's 105, 64 from BFA's 131, 66 from AGO's 122, 43 from CAF's 92, 92 from
-CIV's 167, 73 from CMR's 121, 67 from COD's 123, 52 from COG's 103, 45 from COM's 117, 49 from CPV's 140, 43 from DJI's 70, 58 from DZA's 111, 66 from EGY's 199, 66 from ETH's 97, 58 from GAB's 120, 81 from GHA's 175, 59 from GIN's 109, 46 from GMB's 75, 42 from GNQ's 67, 93 from KEN's 219, 43 from LBR's 71. Between three quarters and nine tenths of ledger rows map; the rest are placeholders with
+CIV's 167, 73 from CMR's 121, 67 from COD's 123, 52 from COG's 103, 45 from COM's 117, 49 from CPV's 140, 43 from DJI's 70, 58 from DZA's 111, 66 from EGY's 199, 66 from ETH's 97, 58 from GAB's 120, 81 from GHA's 175, 59 from GIN's 109, 46 from GMB's 75, 42 from GNQ's 67, 93 from KEN's 219, 43 from LBR's 71, 64 from LBY's 84. Between three quarters and nine tenths of ledger rows map; the rest are placeholders with
 no source, or real instruments the frame has no question for (a telecoms statute, a broadcasting
 transition), and those correctly stay on the ledger and out of the report.
 
 ## Remaining
 
-28 country units: LBY, LSO, MAR, MDG, MLI, MOZ, MRT, MUS,
+27 country units: LSO, MAR, MDG, MLI, MOZ, MRT, MUS,
 MWI, NAM, NER, NGA, RWA, SDN, SEN, SLE, SOM, SSD, STP, SWZ, SYC, TCD, TGO, TUN, TZA, UGA, ZMB, ZWE.
 
 ## The loop, per unit
@@ -381,5 +381,37 @@ case the dates are the finding**, and a cell reporting only the current position
 **Seven units in one session, and the loop is now stable.** ETH, GAB, GHA, GIN, GMB, GNQ, KEN and
 LBR all mapped without a new indicator, without a frame change, and with `lint-indicators-draft.py`
 plus `fix-indicator-citations.py` in the assembly step. The two real checks were run once per unit
-and passed once per unit on every unit after GHA. **The remaining 28 units need no new method** -
+and passed once per unit on every unit after GHA. **The remaining units need no new method** -
 read the sourced rows, map, apply the citation fixer, pre-lint, write, check twice, commit, push.
+
+## What LBY added, 2026-08-27
+
+**The densest unit of the pass so far, 64 indicators from 78 sourced rows on an 84-row ledger,
+and it is dense because the country is two states.** Almost every ledger row is a distinct
+instrument rather than another account of one, so the usual work of folding several rows into a
+cell barely arose: 46 of the 64 cells take a single row. The residue is the smallest yet - six
+unsourced *Not held* placeholders and two sourced rows, Law No. 22 of 2010 on telecommunications
+and the OZON unified licence granted under it, which are the telecoms-statute case the top of this
+file already names as having no question in the frame. Both carry the same fact, that licensing
+jurisdiction is contested between the Tripoli regulator and the eastern ministry, and there is no
+indicator that asks it.
+
+**Where a divided state produces two accounts of one thing, the cell says both and names the
+division.** The salary system reaches 76 per cent of public employees because the eastern
+government will not share employee banking data; the cybersecurity law is drafting on the eastern
+legislative track with nothing on how it would apply in the west. In each case the qualification
+is the finding, and dropping it would make the indicator read as an ordinary partial rollout.
+
+**A stretched frame fit is better declared than forced, and the summary is where to declare it.**
+`infra.connect--mobile-penetration` holds a 5G launch and a vendor meeting because the base carries
+no subscriber or coverage figure at all; the cell says so in its own summary rather than letting
+the indicator name imply a measure that does not exist. The same move covers
+`dpi.registry--population-register`, whose only movement is a database of non-citizens. Compare
+GNQ's rule - do not force a row into the nearest cell - which still holds for the *row*; this is
+the other direction, an indicator with weak evidence saying what it actually has.
+
+**Pre-lint clean on the first run, second time in the pass.** The assembly script reads every slug
+out of the ledger by row id and index rather than transcribing it, which removes the
+whitespace-in-slug fault GIN found and makes a slug typo impossible by construction. **Worth
+keeping for the remaining units**: `S(row_id, i)` over the ledger's own `sources` field costs three
+lines and retires a whole defect class.
