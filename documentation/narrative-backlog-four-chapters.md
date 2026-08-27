@@ -1,7 +1,7 @@
 ---
 type: note
 title: The 206 unwritten narrative blocks are four chapters, not forty-seven units
-last_reviewed: 2026-08-26
+last_reviewed: 2026-08-27
 status: live — a work list for successive BUILD runs, not a defect to repair
 ---
 
@@ -39,8 +39,26 @@ That is why the same four keys appear on unit after unit and why the count is so
 The cheap ordering, learned from clearing 39 of them:
 
 1. **Write the progress blocks for a unit while its ledger is open.** The tables above each block carry the resolved links, the two window positions and the movement stem, so the paragraph is a reading of material already on screen. Doing it later means re-opening the unit for nothing else.
-2. **A block with one row in it still gets a sentence**, and the honest sentence is usually about the record rather than the country — *the base carries one row here and no position for it a year ago, so the chapter records a level rather than a movement*. That is evidence-led reporting, not filler.
+2. **A block with one row in it still gets a sentence**, and the truthful sentence is usually about the record rather than the country — *the base carries one row here and no position for it a year ago, so the chapter records a level rather than a movement*. That is evidence-led reporting, not filler.
 3. **Watch the word budget.** `report-register-check.py` puts a progress report at 900–1,250 words; four new chapters of prose push a large unit over it. On CIV the blocks were cut twice and the document still finished 229 over, which is the right trade — L is a gate on what is published, the budget is a report on it.
+
+## The count on 2026-08-27: 138, and the second way it shrinks
+
+The build of 2026-08-27 re-measured it and found **138 blocks across 34 of 58 units** — `capacity` 40,
+`data` 35, `geopolitics` 33, `digitalisation` 30; **82 in progress reports and 56 in status reports**.
+
+**Sixty-eight of the sixty-eight cleared were cleared by the indicator mapping pass, not by authoring.**
+A unit whose `indicators.csv` exists renders its progress report as the indicator frame, which has no
+Level-1 chapter headings in it at all, so the four empty blocks stop existing the moment the mapping
+pass reaches that unit. That is the third direction the backlog shrinks from and it is much the
+cheapest of the three: 26 units mapped so far have taken 104 progress blocks off this list as a side
+effect of work being done for another reason. The remaining 82 progress blocks belong to the 28
+unmapped units, and the mapping pass will take them the same way.
+
+**Which leaves the 56 status-report blocks as the real authoring debt.** Those are the units
+`STATUS-INIT` has not reached, unchanged from the 2026-08-26 measurement because nothing this month
+has initialised a unit. A run looking for the cheapest hundred words should not spend them on a
+progress block in an unmapped unit — the mapping pass is going to delete that block.
 
 ## Why this is a note and not a message to Bill
 
