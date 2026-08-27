@@ -17,17 +17,17 @@ document (`progress-report-redesign.md` §1) and are not in scope.
 ## Done
 
 ERI and ZAF were the pilots. This pass has since added, in order: **GNB, AGO, BDI, BEN, BFA, BWA,
-CAF, CIV, CMR, COD, COG, COM, CPV, DJI, DZA, EGY, ETH, GAB, GHA, GIN, GMB, GNQ, KEN, LBR, LBY, LSO, MAR, MDG, MLI, MOZ** — 32 of 54, one commit each, all pushed.
+CAF, CIV, CMR, COD, COG, COM, CPV, DJI, DZA, EGY, ETH, GAB, GHA, GIN, GMB, GNQ, KEN, LBR, LBY, LSO, MAR, MDG, MLI, MOZ, MRT** — 33 of 54, one commit each, all pushed.
 
 Yields so far, as a sense of shape: 21 indicators from GNB's 25 ledger rows, 43 from BDI's 74, 52
 from BWA's 107, 57 from BEN's 105, 64 from BFA's 131, 66 from AGO's 122, 43 from CAF's 92, 92 from
-CIV's 167, 73 from CMR's 121, 67 from COD's 123, 52 from COG's 103, 45 from COM's 117, 49 from CPV's 140, 43 from DJI's 70, 58 from DZA's 111, 66 from EGY's 199, 66 from ETH's 97, 58 from GAB's 120, 81 from GHA's 175, 59 from GIN's 109, 46 from GMB's 75, 42 from GNQ's 67, 93 from KEN's 219, 43 from LBR's 71, 64 from LBY's 84, 61 from LSO's 69, 79 from MAR's 137, 44 from MDG's 67, 55 from MLI's 87, 77 from MOZ's 159. Between three quarters and nine tenths of ledger rows map; the rest are placeholders with
+CIV's 167, 73 from CMR's 121, 67 from COD's 123, 52 from COG's 103, 45 from COM's 117, 49 from CPV's 140, 43 from DJI's 70, 58 from DZA's 111, 66 from EGY's 199, 66 from ETH's 97, 58 from GAB's 120, 81 from GHA's 175, 59 from GIN's 109, 46 from GMB's 75, 42 from GNQ's 67, 93 from KEN's 219, 43 from LBR's 71, 64 from LBY's 84, 61 from LSO's 69, 79 from MAR's 137, 44 from MDG's 67, 55 from MLI's 87, 77 from MOZ's 159, 39 from MRT's 62. Between three quarters and nine tenths of ledger rows map; the rest are placeholders with
 no source, or real instruments the frame has no question for (a telecoms statute, a broadcasting
 transition), and those correctly stay on the ledger and out of the report.
 
 ## Remaining
 
-22 country units: MRT, MUS,
+21 country units: MUS,
 MWI, NAM, NER, NGA, RWA, SDN, SEN, SLE, SOM, SSD, STP, SWZ, SYC, TCD, TGO, TUN, TZA, UGA, ZMB, ZWE.
 
 ## The loop, per unit
@@ -540,3 +540,22 @@ medical record, the laboratory, surveillance and logistics systems and the data 
 are named in a United States memorandum the government signed, and no Mozambican document naming them
 is held. The cell maps the row and states that provenance in its own sentence, which is what stops the
 reader taking the architecture for a national plan.
+
+## What MRT added, 2026-08-27
+
+**Six units running with no unmapped sourced row, and the residue class at the top of this file has
+not appeared since GNQ.** LSO, MAR, MDG, MLI, MOZ and MRT all left nothing but unsourced placeholders.
+On present evidence **the expected residue for a unit is its placeholder count and nothing else**, and
+a sourced row that looks unmappable is worth another minute rather than a note.
+
+**Where several instruments expired without successors, say so once and let the cells carry it.**
+This unit's digital agenda ran to 2025, its cybersecurity strategy to 2025 and its university research
+accreditation to May 2024, all with no renewal on record. Each cell states its own expiry, and the
+policy cell names the pattern; that is enough. *Stalled* is the right value where something started
+and stopped (the research unit), and *No change* where an instrument simply ran its term and nobody
+replaced it.
+
+**A figure quoted from a second source on the same row still needs its own citation.** The three
+pre-lint defects here were satellite bid amounts stated in a sentence whose citation had been left to
+the paragraph's first anchor, which the fixer could not reach across a sentence boundary. Cheaper than
+rewriting: close the clause with its own citation and start a new sentence for the caveats.
