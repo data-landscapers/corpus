@@ -1,15 +1,15 @@
 ---
 title: Eritrea — digital transformation and data governance status report
-compiled: 2026-08-25
+compiled: 2026-08-27
 place: ERI
 ledger_rows: 12
-not_held: 4
-record: aa5294d992e6
+not_held: 5
+record: 65616fe910b9
 ---
 
 # Eritrea: status report
 
-*Compiled 2026-08-25 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/ERI/ledger.csv` (12 systems and instruments, 4 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-27 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/ERI/ledger.csv` (12 systems and instruments, 5 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
