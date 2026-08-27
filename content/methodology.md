@@ -7,9 +7,9 @@ The aim of Corpus is to provide a fast-track information service for researchers
 ## Scope
 
 - **Geographical**
-  All documents are tagged with one or more country or region iso-3 codes. The list is available here.
+  All documents are tagged with one or more country or region iso-3 codes. The list is available [here](lookups/#countries).
 - **Topics**
-  Corpus has developed its own two-level taxonomy of topics. All documents are tagged with at least one level 2 topic.
+  Corpus has developed its own [two-level taxonomy](lookups/#topics) of topics. All documents are tagged with at least one level 2 topic.
 - **Finance**
   Corpus is attempting to produce a single integrated view of all financing of digital transformation. The first part of this, non-state financing, is live. It includes all public and private investments sourced from the International Aid Transparency Initiative, investor portals and news articles. The second part, national budgeting, spend and auditing is still under development.
 - **Time**
@@ -31,14 +31,14 @@ The data collection machine runs a nightly sweep cycle which consists of a stand
 
 - **Daily**
   Searches for items published in the past 48 hours for:
-	- A fixed list of trade journals.
+	- A fixed list of [trade journals](lookups/#daily-journals).
 	- A general search for systems & infrastructure
 	- A general search for policy, governance & citizen feedback
 - **Day 1**
   Searches for digital transformation items published since the last time this day was run for:
-	- A fixed list of national newspapers
-	- A fixed list of academic journals
-	- A fixed list of NGOs and think tanks
+	- A fixed list of [national newspapers](lookups/#national-newspapers)
+	- A fixed list of [academic journals](lookups/#academic-journals)
+	- A fixed list of [NGOs and think tanks](lookups/#ngos-and-think-tanks)
 - **Day 2**
 	- API extraction of newly published IATI activities
 	- Searches for digital transformation items published since the last time this day was run for a fixed list of financiers
@@ -49,7 +49,7 @@ The data collection machine runs a nightly sweep cycle which consists of a stand
 	- Data exchange (content, not transport)
 	- Demand and political economy
 - **Day 4**
-  Deep searches for regions and regional institutions focusing on:
+  Deep searches for regions and [regional institutions](lookups/#regional-institutions) focusing on:
 	- Policy collaboration and coordination
 	- Legal harmonisation
 	- Shared infrastructure

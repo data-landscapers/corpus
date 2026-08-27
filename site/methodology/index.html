@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Methodology — Data Landscapers</title>
+<meta name="description" content="How the Data Landscapers corpus is built: what is collected, how it is classified, how figures are dated, and what the base does not claim.">
+<link rel="canonical" href="https://corpus.data-landscapers.io/methodology/">
+<link rel="stylesheet" href="../assets/css/main.css">
+<link rel="stylesheet" href="../assets/css/corpus.css">
+<link rel="stylesheet" href="../assets/css/home.css">
+<link rel="stylesheet" href="../assets/css/country.css">
+<link rel="icon" href="https://data-landscapers.io/assets/favicon.svg" type="image/svg+xml">
+</head>
+<body>
+<div class="site-wrap">
+
+  <header class="site-header">
+    <div class="site-header__inner">
+      <a href="https://data-landscapers.io/" class="site-logo">
+        <img src="../assets/logo.png" alt="Data Landscapers" class="site-logo__img">
+        <span class="site-logo__text">Data Landscapers
+          <span class="site-logo__sub">Mapping Africa&rsquo;s data landscape</span>
+        </span>
+      </a>
+      <nav class="site-nav" aria-label="Main navigation">
+        <a href="https://corpus.data-landscapers.io/" class="active">Corpus</a>
+        <a href="https://data-landscapers.io/writing/">Work in progress</a>
+        <a href="https://data-landscapers.io/portfolio/">Portfolio</a>
+        <a href="https://data-landscapers.io/about/">About</a>
+        <a href="https://data-landscapers.io/contact/">Contact</a>
+        <a href="https://data-landscapers.io/search/">Search</a>
+      </nav>
+    </div>
+  </header>
+
+  <nav class="corpus-nav" aria-label="Corpus navigation">
+    <div class="corpus-nav__inner">
+      <a href="https://corpus.data-landscapers.io/bulletin/">Bulletin</a>
+      <a href="https://corpus.data-landscapers.io/countries/">Countries</a>
+      <a href="https://corpus.data-landscapers.io/#regions">Regions</a>
+      <a href="https://corpus.data-landscapers.io/topics/">Topics</a>
+      <a href="https://corpus.data-landscapers.io/finance/">Finance</a>
+      <a href="https://corpus.data-landscapers.io/catalogue/">Catalogue</a>
+      <a href="https://corpus.data-landscapers.io/methodology/" class="active">Methodology</a>
+    </div>
+  </nav>
+
+  <main id="main">
+  <div class="container">
+    <article class="article-body">
+      <h2 id="introduction">Introduction</h2>
+      <p>Corpus is a website containing a range of reports and datasets classifying, summarising and indexing public documents covering digital transformation in Africa. It is updated daily. Behind the website is a private repository containing the text of these documents - it is private for copyright reasons. </p>
+      <p>The aim of Corpus is to provide a fast-track information service for researchers and analysts working on the digital transformation of Africa, including digital public infrastructures and data governance.</p>
+      <h2 id="scope">Scope</h2>
+      <ul>
+      <li><strong>Geographical</strong>
+        All documents are tagged with one or more country or region iso-3 codes. The list is available <a href="lookups/#countries">here</a>.</li>
+      <li><strong>Topics</strong>
+        Corpus has developed its own <a href="lookups/#topics">two-level taxonomy</a> of topics. All documents are tagged with at least one level 2 topic.</li>
+      <li><strong>Finance</strong>
+        Corpus is attempting to produce a single integrated view of all financing of digital transformation. The first part of this, non-state financing, is live. It includes all public and private investments sourced from the International Aid Transparency Initiative, investor portals and news articles. The second part, national budgeting, spend and auditing is still under development.</li>
+      <li><strong>Time</strong>
+        Corpus' primary focus is current news with over 2,000 documents now being added each month. Older documents are collected to provide baselines to status and progress reports.</li>
+      </ul>
+      <h2 id="infrastructure">Infrastructure</h2>
+      <ul>
+      <li><strong>Architecture</strong>
+        Corpus is built by two networked machines.<ul>
+      <li>The first is responsible for data collection and classification. Its repository is private. </li>
+      <li>The second is responsible for summarising content and keeping reports and datasets up to date. It's repository is available at https://github.com/data-landscapers/corpus. </li>
+      </ul>
+      </li>
+      <li><strong>Technology</strong><ul>
+      <li>Search and fetch is managed by <a href="https://exa.ai/">Exa</a></li>
+      <li>Claude Code is responsible for the running all other processes. It is run on Opus but may be downgraded to Sonnet if weekly token budgets are consumed too quickly.</li>
+      <li>All process instructions are written in markdown and managed by Obsidian</li>
+      </ul>
+      </li>
+      </ul>
+      <h2 id="data-collection">Data collection</h2>
+      <p>The data collection machine runs a nightly sweep cycle which consists of a standard daily search and fetch and (currently) one of 4 focused searches that repeat every 4 days.</p>
+      <ul>
+      <li><strong>Daily</strong>
+        Searches for items published in the past 48 hours for:<ul>
+      <li>A fixed list of <a href="lookups/#daily-journals">trade journals</a>.</li>
+      <li>A general search for systems &amp; infrastructure</li>
+      <li>A general search for policy, governance &amp; citizen feedback</li>
+      </ul>
+      </li>
+      <li><strong>Day 1</strong>
+        Searches for digital transformation items published since the last time this day was run for:<ul>
+      <li>A fixed list of <a href="lookups/#national-newspapers">national newspapers</a></li>
+      <li>A fixed list of <a href="lookups/#academic-journals">academic journals</a></li>
+      <li>A fixed list of <a href="lookups/#ngos-and-think-tanks">NGOs and think tanks</a></li>
+      </ul>
+      </li>
+      <li><strong>Day 2</strong><ul>
+      <li>API extraction of newly published IATI activities</li>
+      <li>Searches for digital transformation items published since the last time this day was run for a fixed list of financiers</li>
+      </ul>
+      </li>
+      <li><strong>Day 3</strong>
+        Four separate deep searches for each country:<ul>
+      <li>Non-state finance</li>
+      <li>Governance (institutions and instruments, excluding data exchange)</li>
+      <li>Data exchange (content, not transport)</li>
+      <li>Demand and political economy</li>
+      </ul>
+      </li>
+      <li><strong>Day 4</strong>
+        Deep searches for regions and <a href="lookups/#regional-institutions">regional institutions</a> focusing on:<ul>
+      <li>Policy collaboration and coordination</li>
+      <li>Legal harmonisation</li>
+      <li>Shared infrastructure</li>
+      </ul>
+      </li>
+      </ul>
+    </article>
+
+    <div class="colophon">
+      <strong>About this page</strong>
+      <dl>
+        <dt>Built</dt><dd class="mono">2026-08-27</dd>
+        <dt>Source</dt><dd><code>content/methodology.md</code> &mdash; the page is that file, converted</dd>
+        <dt>Licence</dt><dd><a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></dd>
+      </dl>
+    </div>
+  </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="site-footer__inner">
+      <p class="site-footer__copy"><a href="https://creativecommons.org/licenses/by/4.0/" style="color:inherit;border-bottom:none;">CC BY 4.0</a> 2026 Bill Anderson / Data Landscapers Ltd &nbsp;·&nbsp; Registered in the UK · Co. No. 16040544</p>
+      <div class="site-footer__links">
+        <a href="https://data-landscapers.io/">data-landscapers.io</a>
+        <a href="https://corpus.data-landscapers.io/methodology/">Methodology</a>
+      </div>
+    </div>
+  </footer>
+
+</div>
+</body>
+</html>

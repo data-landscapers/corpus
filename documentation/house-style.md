@@ -4,7 +4,7 @@ One style, two sites. data-landscapers.io is the origin; every Corpus page is an
 
 **Status, 2026-08-24: this is the tree, with one exception.** The review's §4 landed the same day — `corpus.css` exists, `main.css` is vendored byte-identical and the lint covers it, every builder takes its chrome and its stylesheet set from `chrome_lib`, the catalogue is on house tokens, and the main-site nav links to Corpus. The figures under *Whitespace* are measured, not proposed.
 
-The exception is now only `/method/`, which cannot build until the `method.md` → `methodology.md` rename is finished. Every other page on the site — 400 of 401 — carries the current chrome.
+The last exception cleared on 2026-08-27: the `method.md` → `methodology.md` rename finished, `scripts/methodology.py` builds `/methodology/` and its lookups annex `/methodology/lookups/` (anchor ids on every `##`), and `/method/` is a hand-written redirect stub kept because the old URL sits in the baked chrome of every page published before the rename. Pages built before 2026-08-27 carry the old "Method" nav label until the next render refreshes their chrome; the redirect keeps the link working meanwhile.
 
 The 241 rendered documents got there through **`render.py --repage`**, added the same day, and it is the tool to reach for after any chrome or stylesheet change. It rewrites the served page under the edition already held, touches no PDF and mints nothing. `--force` is the wrong instrument for a presentation change: it would cut 241 new dated editions to fix a navigation bar. The distinction it rests on is that the dated PDF is the citable artefact, while `AGO-status.html` is an undated view nothing can cite the bytes of.
 

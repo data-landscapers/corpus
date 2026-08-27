@@ -364,7 +364,7 @@ TEMPLATE = """<!DOCTYPE html>
       <p class="site-footer__copy"><a href="https://creativecommons.org/licenses/by/4.0/" style="color:inherit;border-bottom:none;">CC BY 4.0</a> {year} Bill Anderson / Data Landscapers Ltd &nbsp;·&nbsp; Registered in the UK · Co. No. 16040544</p>
       <div class="site-footer__links">
         <a href="{main_site}/">data-landscapers.io</a>
-        <a href="{base}/method/">Method</a>
+        <a href="{base}/methodology/">Methodology</a>
       </div>
     </div>
   </footer>

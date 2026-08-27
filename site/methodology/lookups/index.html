@@ -1,0 +1,1826 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Methodology — lookups — Data Landscapers</title>
+<meta name="description" content="The fixed lists behind the corpus: country and region codes, the topic taxonomy, and the journals, newspapers and institutions the sweeps search.">
+<link rel="canonical" href="https://corpus.data-landscapers.io/methodology/lookups/">
+<link rel="stylesheet" href="../../assets/css/main.css">
+<link rel="stylesheet" href="../../assets/css/corpus.css">
+<link rel="stylesheet" href="../../assets/css/home.css">
+<link rel="stylesheet" href="../../assets/css/country.css">
+<link rel="icon" href="https://data-landscapers.io/assets/favicon.svg" type="image/svg+xml">
+</head>
+<body>
+<div class="site-wrap">
+
+  <header class="site-header">
+    <div class="site-header__inner">
+      <a href="https://data-landscapers.io/" class="site-logo">
+        <img src="../../assets/logo.png" alt="Data Landscapers" class="site-logo__img">
+        <span class="site-logo__text">Data Landscapers
+          <span class="site-logo__sub">Mapping Africa&rsquo;s data landscape</span>
+        </span>
+      </a>
+      <nav class="site-nav" aria-label="Main navigation">
+        <a href="https://corpus.data-landscapers.io/" class="active">Corpus</a>
+        <a href="https://data-landscapers.io/writing/">Work in progress</a>
+        <a href="https://data-landscapers.io/portfolio/">Portfolio</a>
+        <a href="https://data-landscapers.io/about/">About</a>
+        <a href="https://data-landscapers.io/contact/">Contact</a>
+        <a href="https://data-landscapers.io/search/">Search</a>
+      </nav>
+    </div>
+  </header>
+
+  <nav class="corpus-nav" aria-label="Corpus navigation">
+    <div class="corpus-nav__inner">
+      <a href="https://corpus.data-landscapers.io/bulletin/">Bulletin</a>
+      <a href="https://corpus.data-landscapers.io/countries/">Countries</a>
+      <a href="https://corpus.data-landscapers.io/#regions">Regions</a>
+      <a href="https://corpus.data-landscapers.io/topics/">Topics</a>
+      <a href="https://corpus.data-landscapers.io/finance/">Finance</a>
+      <a href="https://corpus.data-landscapers.io/catalogue/">Catalogue</a>
+      <a href="https://corpus.data-landscapers.io/methodology/" class="active">Methodology</a>
+    </div>
+  </nav>
+
+  <main id="main">
+  <div class="container">
+    <article class="article-body">
+      <p class="mono" style="font-size:0.85em"><a href="#countries">Countries</a> &nbsp;·&nbsp; <a href="#topics">Topics</a> &nbsp;·&nbsp; <a href="#daily-journals">Daily journals</a> &nbsp;·&nbsp; <a href="#national-newspapers">National newspapers</a> &nbsp;·&nbsp; <a href="#academic-journals">Academic journals</a> &nbsp;·&nbsp; <a href="#ngos-and-think-tanks">NGOs and think-tanks</a> &nbsp;·&nbsp; <a href="#regional-institutions">Regional institutions</a></p>
+      <hr><h2 id="countries">Countries</h2>
+      <table>
+      <thead>
+      <tr>
+      <th>iso-3</th>
+      <th>country-name</th>
+      <th>Region</th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr>
+      <td>AGO</td>
+      <td>Angola</td>
+      <td>XSA</td>
+      </tr>
+      <tr>
+      <td>BDI</td>
+      <td>Burundi</td>
+      <td>XEA</td>
+      </tr>
+      <tr>
+      <td>BEN</td>
+      <td>Benin</td>
+      <td>XWA</td>
+      </tr>
+      <tr>
+      <td>BFA</td>
+      <td>Burkina Faso</td>
+      <td>XWA</td>
+      </tr>
+      <tr>
+      <td>BWA</td>
+      <td>Botswana</td>
+      <td>XSA</td>
+      </tr>
+      <tr>
+      <td>CAF</td>
+      <td>Central African Republic</td>
+      <td>XCA</td>
+      </tr>
+      <tr>
+      <td>CIV</td>
+      <td>Cote d'Ivoire</td>
+      <td>XWA</td>
+      </tr>
+      <tr>
+      <td>CMR</td>
+      <td>Cameroon</td>
+      <td>XCA</td>
+      </tr>
+      <tr>
+      <td>COD</td>
+      <td>DR Congo</td>
+      <td>XCA</td>
+      </tr>
+      <tr>
+      <td>COG</td>
+      <td>Congo</td>
+      <td>XCA</td>
+      </tr>
+      <tr>
+      <td>COM</td>
+      <td>Comoros</td>
+      <td>XEA</td>
+      </tr>
+      <tr>
+      <td>CPV</td>
+      <td>Cape Verde</td>
+      <td>XWA</td>
+      </tr>
+      <tr>
+      <td>DJI</td>
+      <td>Djibouti</td>
+      <td>XEA</td>
+      </tr>
+      <tr>
+      <td>DZA</td>
+      <td>Algeria</td>
+      <td>XNA</td>
+      </tr>
+      <tr>
+      <td>EGY</td>
+      <td>Egypt</td>
+      <td>XNA</td>
+      </tr>
+      <tr>
+      <td>ERI</td>
+      <td>Eritrea</td>
+      <td>XEA</td>
+      </tr>
+      <tr>
+      <td>ETH</td>
+      <td>Ethiopia</td>
+      <td>XEA</td>
+      </tr>
+      <tr>
+      <td>GAB</td>
+      <td>Gabon</td>
+      <td>XCA</td>
+      </tr>
+      <tr>
+      <td>GHA</td>
+      <td>Ghana</td>
+      <td>XWA</td>
+      </tr>
+      <tr>
+      <td>GIN</td>
+      <td>Guinea</td>
+      <td>XWA</td>
+      </tr>
+      <tr>
+      <td>GMB</td>
+      <td>Gambia</td>
+      <td>XWA</td>
+      </tr>
+      <tr>
+      <td>GNB</td>
+      <td>Guinea-Bissau</td>
+      <td>XWA</td>
+      </tr>
+      <tr>
+      <td>GNQ</td>
+      <td>Equatorial Guinea</td>
+      <td>XCA</td>
+      </tr>
+      <tr>
+      <td>KEN</td>
+      <td>Kenya</td>
+      <td>XEA</td>
+      </tr>
+      <tr>
+      <td>LBR</td>
+      <td>Liberia</td>
+      <td>XWA</td>
+      </tr>
+      <tr>
+      <td>LBY</td>
+      <td>Libya</td>
+      <td>XNA</td>
+      </tr>
+      <tr>
+      <td>LSO</td>
+      <td>Lesotho</td>
+      <td>XSA</td>
+      </tr>
+      <tr>
+      <td>MAR</td>
+      <td>Morocco</td>
+      <td>XNA</td>
+      </tr>
+      <tr>
+      <td>MDG</td>
+      <td>Madagascar</td>
+      <td>XEA</td>
+      </tr>
+      <tr>
+      <td>MLI</td>
+      <td>Mali</td>
+      <td>XWA</td>
+      </tr>
+      <tr>
+      <td>MOZ</td>
+      <td>Mozambique</td>
+      <td>XSA</td>
+      </tr>
+      <tr>
+      <td>MRT</td>
+      <td>Mauritania</td>
+      <td>XWA</td>
+      </tr>
+      <tr>
+      <td>MUS</td>
+      <td>Mauritius</td>
+      <td>XEA</td>
+      </tr>
+      <tr>
+      <td>MWI</td>
+      <td>Malawi</td>
+      <td>XSA</td>
+      </tr>
+      <tr>
+      <td>NAM</td>
+      <td>Namibia</td>
+      <td>XSA</td>
+      </tr>
+      <tr>
+      <td>NER</td>
+      <td>Niger</td>
+      <td>XWA</td>
+      </tr>
+      <tr>
+      <td>NGA</td>
+      <td>Nigeria</td>
+      <td>XWA</td>
+      </tr>
+      <tr>
+      <td>RWA</td>
+      <td>Rwanda</td>
+      <td>XEA</td>
+      </tr>
+      <tr>
+      <td>SDN</td>
+      <td>Sudan</td>
+      <td>XEA</td>
+      </tr>
+      <tr>
+      <td>SEN</td>
+      <td>Senegal</td>
+      <td>XWA</td>
+      </tr>
+      <tr>
+      <td>SLE</td>
+      <td>Sierra Leone</td>
+      <td>XWA</td>
+      </tr>
+      <tr>
+      <td>SOM</td>
+      <td>Somalia</td>
+      <td>XEA</td>
+      </tr>
+      <tr>
+      <td>SSD</td>
+      <td>South Sudan</td>
+      <td>XEA</td>
+      </tr>
+      <tr>
+      <td>STP</td>
+      <td>Sao Tome and Principe</td>
+      <td>XWA</td>
+      </tr>
+      <tr>
+      <td>SWZ</td>
+      <td>Eswatini</td>
+      <td>XSA</td>
+      </tr>
+      <tr>
+      <td>SYC</td>
+      <td>Seychelles</td>
+      <td>XEA</td>
+      </tr>
+      <tr>
+      <td>TCD</td>
+      <td>Chad</td>
+      <td>XCA</td>
+      </tr>
+      <tr>
+      <td>TGO</td>
+      <td>Togo</td>
+      <td>XWA</td>
+      </tr>
+      <tr>
+      <td>TUN</td>
+      <td>Tunisia</td>
+      <td>XNA</td>
+      </tr>
+      <tr>
+      <td>TZA</td>
+      <td>Tanzania</td>
+      <td>XEA</td>
+      </tr>
+      <tr>
+      <td>UGA</td>
+      <td>Uganda</td>
+      <td>XEA</td>
+      </tr>
+      <tr>
+      <td>XAF</td>
+      <td>Africa</td>
+      <td>XGL</td>
+      </tr>
+      <tr>
+      <td>XCA</td>
+      <td>Central Africa</td>
+      <td>XAF</td>
+      </tr>
+      <tr>
+      <td>XEA</td>
+      <td>East Africa</td>
+      <td>XAF</td>
+      </tr>
+      <tr>
+      <td>XGL</td>
+      <td>Global/Developing Countries</td>
+      <td></td>
+      </tr>
+      <tr>
+      <td>XNA</td>
+      <td>North Africa</td>
+      <td>XAF</td>
+      </tr>
+      <tr>
+      <td>XSA</td>
+      <td>Southern Africa</td>
+      <td>XAF</td>
+      </tr>
+      <tr>
+      <td>XSS</td>
+      <td>Sub-Saharan Africa</td>
+      <td>XAF</td>
+      </tr>
+      <tr>
+      <td>XWA</td>
+      <td>West Africa</td>
+      <td>XAF</td>
+      </tr>
+      <tr>
+      <td>ZAF</td>
+      <td>South Africa</td>
+      <td>XSA</td>
+      </tr>
+      <tr>
+      <td>ZMB</td>
+      <td>Zambia</td>
+      <td>XSA</td>
+      </tr>
+      <tr>
+      <td>ZWE</td>
+      <td>Zimbabwe</td>
+      <td>XSA</td>
+      </tr>
+      </tbody>
+      </table>
+      <h2 id="topics">Topics</h2>
+      <table>
+      <thead>
+      <tr>
+      <th>Sort order</th>
+      <th>Key</th>
+      <th>Level 1</th>
+      <th>Level 2</th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr>
+      <td>1</td>
+      <td>gov.policy</td>
+      <td>Governance</td>
+      <td>Strategies, plans and policies</td>
+      </tr>
+      <tr>
+      <td>2</td>
+      <td>gov.legislate</td>
+      <td>Governance</td>
+      <td>Legislation and regulation</td>
+      </tr>
+      <tr>
+      <td>3</td>
+      <td>gov.protect</td>
+      <td>Governance</td>
+      <td>Data protection</td>
+      </tr>
+      <tr>
+      <td>4</td>
+      <td>gov.regional</td>
+      <td>Governance</td>
+      <td>Regional collaboration</td>
+      </tr>
+      <tr>
+      <td>5</td>
+      <td>gov.standards</td>
+      <td>Governance</td>
+      <td>Standards</td>
+      </tr>
+      <tr>
+      <td>6</td>
+      <td>gov.discourse</td>
+      <td>Governance</td>
+      <td>Public debate and participation in policymaking</td>
+      </tr>
+      <tr>
+      <td>7</td>
+      <td>finance.budget</td>
+      <td>Finance</td>
+      <td>Domestic budget appropriations and expenditure</td>
+      </tr>
+      <tr>
+      <td>8</td>
+      <td>finance.mou</td>
+      <td>Finance</td>
+      <td>MoUs and other agreements</td>
+      </tr>
+      <tr>
+      <td>9</td>
+      <td>finance.new</td>
+      <td>Finance</td>
+      <td>New investments</td>
+      </tr>
+      <tr>
+      <td>10</td>
+      <td>infra.connect</td>
+      <td>ICT Infrastructure</td>
+      <td>Connectivity</td>
+      </tr>
+      <tr>
+      <td>11</td>
+      <td>infra.store</td>
+      <td>ICT Infrastructure</td>
+      <td>Data Storage</td>
+      </tr>
+      <tr>
+      <td>12</td>
+      <td>infra.energy</td>
+      <td>ICT Infrastructure</td>
+      <td>Energy</td>
+      </tr>
+      <tr>
+      <td>13</td>
+      <td>infra.capacity</td>
+      <td>ICT Infrastructure</td>
+      <td>Technical Capacity</td>
+      </tr>
+      <tr>
+      <td>14</td>
+      <td>infra.cybersec</td>
+      <td>ICT Infrastructure</td>
+      <td>Cybersecurity</td>
+      </tr>
+      <tr>
+      <td>15</td>
+      <td>dpi.exchange</td>
+      <td>DPI</td>
+      <td>Data Exchange</td>
+      </tr>
+      <tr>
+      <td>16</td>
+      <td>dpi.id</td>
+      <td>DPI</td>
+      <td>Digital Identity and CRVS</td>
+      </tr>
+      <tr>
+      <td>17</td>
+      <td>dpi.pay</td>
+      <td>DPI</td>
+      <td>Digital Payments and Fintech</td>
+      </tr>
+      <tr>
+      <td>18</td>
+      <td>dpi.registry</td>
+      <td>DPI</td>
+      <td>Registries</td>
+      </tr>
+      <tr>
+      <td>19</td>
+      <td>dpi.mis</td>
+      <td>DPI</td>
+      <td>Sectoral management information systems</td>
+      </tr>
+      <tr>
+      <td>20</td>
+      <td>dpi.govtech</td>
+      <td>DPI</td>
+      <td>Other GovTech and e-Gov</td>
+      </tr>
+      <tr>
+      <td>21</td>
+      <td>digital.localgov</td>
+      <td>Digitalisation</td>
+      <td>Digitalisation of sub-national government</td>
+      </tr>
+      <tr>
+      <td>22</td>
+      <td>digital.rural</td>
+      <td>Digitalisation</td>
+      <td>Rural digital data capture</td>
+      </tr>
+      <tr>
+      <td>23</td>
+      <td>tech.ai</td>
+      <td>Technology</td>
+      <td>AI</td>
+      </tr>
+      <tr>
+      <td>24</td>
+      <td>tech.industry</td>
+      <td>Technology</td>
+      <td>ICT Industry</td>
+      </tr>
+      <tr>
+      <td>25</td>
+      <td>tech.innovate</td>
+      <td>Technology</td>
+      <td>Innovation ecosystem</td>
+      </tr>
+      <tr>
+      <td>26</td>
+      <td>capacity.literacy</td>
+      <td>Capacity</td>
+      <td>Literacy</td>
+      </tr>
+      <tr>
+      <td>27</td>
+      <td>capacity.training</td>
+      <td>Capacity</td>
+      <td>Training and skills</td>
+      </tr>
+      <tr>
+      <td>28</td>
+      <td>capacity.research</td>
+      <td>Capacity</td>
+      <td>Research institutions</td>
+      </tr>
+      <tr>
+      <td>29</td>
+      <td>include.access</td>
+      <td>Inclusion</td>
+      <td>Access to services</td>
+      </tr>
+      <tr>
+      <td>30</td>
+      <td>include.divides</td>
+      <td>Inclusion</td>
+      <td>Digital divides</td>
+      </tr>
+      <tr>
+      <td>31</td>
+      <td>data.statistics</td>
+      <td>Data</td>
+      <td>National statistics</td>
+      </tr>
+      <tr>
+      <td>32</td>
+      <td>data.open</td>
+      <td>Data</td>
+      <td>Open data</td>
+      </tr>
+      <tr>
+      <td>33</td>
+      <td>data.satellite</td>
+      <td>Data</td>
+      <td>Use of satellite data</td>
+      </tr>
+      <tr>
+      <td>34</td>
+      <td>geopol.usa</td>
+      <td>Geopolitics</td>
+      <td>US / hyperscaler activities</td>
+      </tr>
+      <tr>
+      <td>35</td>
+      <td>geopol.china</td>
+      <td>Geopolitics</td>
+      <td>China activities</td>
+      </tr>
+      <tr>
+      <td>36</td>
+      <td>geopol.eu</td>
+      <td>Geopolitics</td>
+      <td>EU activities</td>
+      </tr>
+      <tr>
+      <td>37</td>
+      <td>geopol.gulf</td>
+      <td>Geopolitics</td>
+      <td>Gulf/UAE activities</td>
+      </tr>
+      <tr>
+      <td>38</td>
+      <td>geopol.india</td>
+      <td>Geopolitics</td>
+      <td>India activities</td>
+      </tr>
+      </tbody>
+      </table>
+      <h2 id="daily-journals">Daily journals</h2>
+      <table>
+      <thead>
+      <tr>
+      <th>url</th>
+      <th>title</th>
+      <th>notes_file</th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr>
+      <td>https://datacentresafrica.com/</td>
+      <td>Data Centres Africa</td>
+      <td>sweep/domains/datacentresafrica.md</td>
+      </tr>
+      <tr>
+      <td>https://itweb.africa/</td>
+      <td>ITWeb Africa</td>
+      <td>sweep/domains/itweb-africa.md</td>
+      </tr>
+      <tr>
+      <td>https://subtelforum.com/</td>
+      <td>Submarine Telecoms Forum</td>
+      <td>sweep/domains/subtelforum.md</td>
+      </tr>
+      <tr>
+      <td>https://techcabal.com/</td>
+      <td>TechCabal</td>
+      <td>sweep/domains/techcabal.md</td>
+      </tr>
+      <tr>
+      <td>https://www.biometricupdate.com/</td>
+      <td>Biometric Update</td>
+      <td>sweep/domains/biometricupdate.md</td>
+      </tr>
+      <tr>
+      <td>https://www.connectingafrica.com</td>
+      <td>Connecting Africa</td>
+      <td>sweep/domains/connectingafrica.md</td>
+      </tr>
+      <tr>
+      <td>https://www.wearetech.africa/</td>
+      <td>wearetech.africa</td>
+      <td>sweep/domains/wearetech-africa.md</td>
+      </tr>
+      <tr>
+      <td>https://www.telecomreviewafrica.com/</td>
+      <td>Africa Telecom Review</td>
+      <td>sweep/domains/telecomreviewafrica.md</td>
+      </tr>
+      <tr>
+      <td>https://techafricanews.com/</td>
+      <td>Tech Africa News</td>
+      <td>sweep/domains/techafricanews.md</td>
+      </tr>
+      <tr>
+      <td>https://www.itweb.co.za/</td>
+      <td>ITWeb South Africa</td>
+      <td>sweep/domains/itweb-co-za.md</td>
+      </tr>
+      <tr>
+      <td>https://techtrends.africa/</td>
+      <td>TechTrends Africa</td>
+      <td>sweep/domains/techtrends-africa.md</td>
+      </tr>
+      </tbody>
+      </table>
+      <h2 id="national-newspapers">National newspapers</h2>
+      <table>
+      <thead>
+      <tr>
+      <th>URL</th>
+      <th>iso-3</th>
+      <th>Title</th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr>
+      <td>https://angop.ao/</td>
+      <td>AGO</td>
+      <td>Angop (Angola Press Agency)</td>
+      </tr>
+      <tr>
+      <td>https://www.novojornal.co.ao/</td>
+      <td>AGO</td>
+      <td>Novo Jornal</td>
+      </tr>
+      <tr>
+      <td>https://www.burunditimes.com/</td>
+      <td>BDI</td>
+      <td>Burundi Times</td>
+      </tr>
+      <tr>
+      <td>https://www.iwacu-burundi.org/</td>
+      <td>BDI</td>
+      <td>Iwacu</td>
+      </tr>
+      <tr>
+      <td>https://fraternite.bj/</td>
+      <td>BEN</td>
+      <td>Fraternite</td>
+      </tr>
+      <tr>
+      <td>https://lanation.bj/</td>
+      <td>BEN</td>
+      <td>La Nation</td>
+      </tr>
+      <tr>
+      <td>https://lefaso.net/</td>
+      <td>BFA</td>
+      <td>leFaso.net</td>
+      </tr>
+      <tr>
+      <td>https://sidwaya.info/</td>
+      <td>BFA</td>
+      <td>Sidwaya</td>
+      </tr>
+      <tr>
+      <td>https://www.mmegi.bw/</td>
+      <td>BWA</td>
+      <td>Mmegi</td>
+      </tr>
+      <tr>
+      <td>https://www.sundaystandard.info/</td>
+      <td>BWA</td>
+      <td>Sunday Standard</td>
+      </tr>
+      <tr>
+      <td>https://www.fratmat.info/</td>
+      <td>CIV</td>
+      <td>Fraternite Matin</td>
+      </tr>
+      <tr>
+      <td>https://www.linfodrome.com/</td>
+      <td>CIV</td>
+      <td>Linfodrome</td>
+      </tr>
+      <tr>
+      <td>https://leconomie.info</td>
+      <td>CMR</td>
+      <td>Le quotidien L'Economie</td>
+      </tr>
+      <tr>
+      <td>https://lejour.cm</td>
+      <td>CMR</td>
+      <td>Le Jour</td>
+      </tr>
+      <tr>
+      <td>https://actualite.cd</td>
+      <td>COD</td>
+      <td>ACTUALITE.CD</td>
+      </tr>
+      <tr>
+      <td>https://rdc-monde.com</td>
+      <td>COD</td>
+      <td>Magazine RD CONGO-MONDE</td>
+      </tr>
+      <tr>
+      <td>https://lesdepechesdebrazzaville.fr</td>
+      <td>COG</td>
+      <td>Les Depeches de Brazzaville</td>
+      </tr>
+      <tr>
+      <td>https://alwatwan.net/</td>
+      <td>COM</td>
+      <td>Al-Watwan</td>
+      </tr>
+      <tr>
+      <td>https://lagazettedescomores.com/</td>
+      <td>COM</td>
+      <td>La Gazette des Comores</td>
+      </tr>
+      <tr>
+      <td>https://expressodasilhas.cv/</td>
+      <td>CPV</td>
+      <td>Expresso das Ilhas</td>
+      </tr>
+      <tr>
+      <td>https://www.anacao.cv/</td>
+      <td>CPV</td>
+      <td>A Nacao</td>
+      </tr>
+      <tr>
+      <td>http://www.adi.dj/</td>
+      <td>DJI</td>
+      <td>Agence Djiboutienne d'Information (ADI)</td>
+      </tr>
+      <tr>
+      <td>https://www.lanation.dj/</td>
+      <td>DJI</td>
+      <td>La Nation</td>
+      </tr>
+      <tr>
+      <td>https://www.echoroukonline.com/</td>
+      <td>DZA</td>
+      <td>Echorouk El Yawmi</td>
+      </tr>
+      <tr>
+      <td>https://www.elmoudjahid.dz/</td>
+      <td>DZA</td>
+      <td>El Moudjahid</td>
+      </tr>
+      <tr>
+      <td>https://gate.ahram.org.eg/</td>
+      <td>EGY</td>
+      <td>Al-Ahram</td>
+      </tr>
+      <tr>
+      <td>https://www.youm7.com/</td>
+      <td>EGY</td>
+      <td>Youm7</td>
+      </tr>
+      <tr>
+      <td>https://awate.com/</td>
+      <td>ERI</td>
+      <td>Awate</td>
+      </tr>
+      <tr>
+      <td>https://shabait.com/</td>
+      <td>ERI</td>
+      <td>Shabait (Eritrea Profile / Ministry of Information)</td>
+      </tr>
+      <tr>
+      <td>https://addisstandard.com/</td>
+      <td>ETH</td>
+      <td>Addis Standard</td>
+      </tr>
+      <tr>
+      <td>https://www.thereporterethiopia.com/</td>
+      <td>ETH</td>
+      <td>The Reporter</td>
+      </tr>
+      <tr>
+      <td>https://gabonreview.com</td>
+      <td>GAB</td>
+      <td>GabonReview</td>
+      </tr>
+      <tr>
+      <td>https://union.sonapresse.com</td>
+      <td>GAB</td>
+      <td>L'Union - Sonapresse</td>
+      </tr>
+      <tr>
+      <td>https://www.graphic.com.gh/</td>
+      <td>GHA</td>
+      <td>Graphic Online</td>
+      </tr>
+      <tr>
+      <td>https://www.myjoyonline.com/</td>
+      <td>GHA</td>
+      <td>MyJoyOnline</td>
+      </tr>
+      <tr>
+      <td>https://aminata.com/</td>
+      <td>GIN</td>
+      <td>Aminata.com</td>
+      </tr>
+      <tr>
+      <td>https://mediaguinee.com/</td>
+      <td>GIN</td>
+      <td>Mediaguinee</td>
+      </tr>
+      <tr>
+      <td>https://standard.gm/</td>
+      <td>GMB</td>
+      <td>The Standard</td>
+      </tr>
+      <tr>
+      <td>https://thepoint.gm/</td>
+      <td>GMB</td>
+      <td>The Point</td>
+      </tr>
+      <tr>
+      <td>https://ang.gw/</td>
+      <td>GNB</td>
+      <td>Agencia de Noticias da Guine (ANG)</td>
+      </tr>
+      <tr>
+      <td>https://gnbissau.com/</td>
+      <td>GNB</td>
+      <td>Gazeta de Noticias</td>
+      </tr>
+      <tr>
+      <td>https://ahoraeg.com</td>
+      <td>GNQ</td>
+      <td>AHORAEG</td>
+      </tr>
+      <tr>
+      <td>https://nation.africa/kenya</td>
+      <td>KEN</td>
+      <td>Daily Nation</td>
+      </tr>
+      <tr>
+      <td>https://www.standardmedia.co.ke/</td>
+      <td>KEN</td>
+      <td>The Standard</td>
+      </tr>
+      <tr>
+      <td>https://fpa.news/</td>
+      <td>LBR</td>
+      <td>FrontPage Africa</td>
+      </tr>
+      <tr>
+      <td>https://www.liberianobserver.com/</td>
+      <td>LBR</td>
+      <td>Liberian Observer</td>
+      </tr>
+      <tr>
+      <td>https://alwasat.ly/</td>
+      <td>LBY</td>
+      <td>Alwasat (Bawabat Al-Wasat)</td>
+      </tr>
+      <tr>
+      <td>https://libyaherald.com/</td>
+      <td>LBY</td>
+      <td>Libya Herald</td>
+      </tr>
+      <tr>
+      <td>https://lestimes.com/</td>
+      <td>LSO</td>
+      <td>Lesotho Times</td>
+      </tr>
+      <tr>
+      <td>https://publiceyenews.com/</td>
+      <td>LSO</td>
+      <td>Public Eye</td>
+      </tr>
+      <tr>
+      <td>https://assabah.ma/</td>
+      <td>MAR</td>
+      <td>Assabah</td>
+      </tr>
+      <tr>
+      <td>https://www.hespress.com/</td>
+      <td>MAR</td>
+      <td>Hespress</td>
+      </tr>
+      <tr>
+      <td>https://midi-madagasikara.mg/</td>
+      <td>MDG</td>
+      <td>Midi Madagasikara</td>
+      </tr>
+      <tr>
+      <td>https://www.lexpress.mg/</td>
+      <td>MDG</td>
+      <td>L'Express de Madagascar</td>
+      </tr>
+      <tr>
+      <td>https://lessor.ml/</td>
+      <td>MLI</td>
+      <td>L'Essor</td>
+      </tr>
+      <tr>
+      <td>https://www.maliweb.net/</td>
+      <td>MLI</td>
+      <td>Maliweb</td>
+      </tr>
+      <tr>
+      <td>https://clubofmozambique.com/</td>
+      <td>MOZ</td>
+      <td>Club of Mozambique</td>
+      </tr>
+      <tr>
+      <td>https://jornalnoticias.co.mz/</td>
+      <td>MOZ</td>
+      <td>Jornal Noticias</td>
+      </tr>
+      <tr>
+      <td>https://ami.mr/</td>
+      <td>MRT</td>
+      <td>Agence Mauritanienne d'Information (AMI)</td>
+      </tr>
+      <tr>
+      <td>https://lequotidien.mr/</td>
+      <td>MRT</td>
+      <td>Le Quotidien de Nouakchott</td>
+      </tr>
+      <tr>
+      <td>https://lexpress.mu/</td>
+      <td>MUS</td>
+      <td>L'Express (Maurice)</td>
+      </tr>
+      <tr>
+      <td>https://www.mauritiustimes.com/</td>
+      <td>MUS</td>
+      <td>Mauritius Times</td>
+      </tr>
+      <tr>
+      <td>https://malawi24.com/</td>
+      <td>MWI</td>
+      <td>Malawi24</td>
+      </tr>
+      <tr>
+      <td>https://www.namibian.com.na/</td>
+      <td>NAM</td>
+      <td>The Namibian</td>
+      </tr>
+      <tr>
+      <td>https://www.namibiansun.com/</td>
+      <td>NAM</td>
+      <td>Namibian Sun</td>
+      </tr>
+      <tr>
+      <td>https://actuniger.com/</td>
+      <td>NER</td>
+      <td>ActuNiger</td>
+      </tr>
+      <tr>
+      <td>https://www.lesahel.org/</td>
+      <td>NER</td>
+      <td>Le Sahel</td>
+      </tr>
+      <tr>
+      <td>https://www.thisdaylive.com/</td>
+      <td>NGA</td>
+      <td>ThisDay</td>
+      </tr>
+      <tr>
+      <td>https://www.vanguardngr.com/</td>
+      <td>NGA</td>
+      <td>Vanguard</td>
+      </tr>
+      <tr>
+      <td>https://www.ktpress.rw/</td>
+      <td>RWA</td>
+      <td>KT Press</td>
+      </tr>
+      <tr>
+      <td>https://www.newtimes.co.rw/</td>
+      <td>RWA</td>
+      <td>The New Times</td>
+      </tr>
+      <tr>
+      <td>https://sudantribune.com/</td>
+      <td>SDN</td>
+      <td>Sudan Tribune</td>
+      </tr>
+      <tr>
+      <td>https://www.suna.sd/en</td>
+      <td>SDN</td>
+      <td>Sudan News Agency (SUNA)</td>
+      </tr>
+      <tr>
+      <td>https://lesoleil.sn/</td>
+      <td>SEN</td>
+      <td>Le Soleil</td>
+      </tr>
+      <tr>
+      <td>https://www.seneweb.com/</td>
+      <td>SEN</td>
+      <td>Seneweb</td>
+      </tr>
+      <tr>
+      <td>https://thisdaysl.com/</td>
+      <td>SLE</td>
+      <td>This Day (Salone)</td>
+      </tr>
+      <tr>
+      <td>https://www.thesierraleonetelegraph.com/</td>
+      <td>SLE</td>
+      <td>Sierra Leone Telegraph</td>
+      </tr>
+      <tr>
+      <td>https://wardheernews.com/</td>
+      <td>SOM</td>
+      <td>WardheerNews</td>
+      </tr>
+      <tr>
+      <td>https://www.hiiraan.com/</td>
+      <td>SOM</td>
+      <td>Hiiraan Online</td>
+      </tr>
+      <tr>
+      <td>https://thedawn.com.ss/</td>
+      <td>SSD</td>
+      <td>The Dawn</td>
+      </tr>
+      <tr>
+      <td>https://www.onecitizendaily.com/</td>
+      <td>SSD</td>
+      <td>One Citizen Daily</td>
+      </tr>
+      <tr>
+      <td>https://vitrina.st/</td>
+      <td>STP</td>
+      <td>Jornal Vitrina</td>
+      </tr>
+      <tr>
+      <td>https://www.jornaltransparencia.st/</td>
+      <td>STP</td>
+      <td>Jornal Transparencia</td>
+      </tr>
+      <tr>
+      <td>https://independentnews.co.sz/</td>
+      <td>SWZ</td>
+      <td>Independent News Eswatini</td>
+      </tr>
+      <tr>
+      <td>https://www.times.co.sz/</td>
+      <td>SWZ</td>
+      <td>Times of Eswatini</td>
+      </tr>
+      <tr>
+      <td>https://www.seychellesnewsagency.com/</td>
+      <td>SYC</td>
+      <td>Seychelles News Agency</td>
+      </tr>
+      <tr>
+      <td>https://lendjampost.com</td>
+      <td>TCD</td>
+      <td>Le N'Djam Post</td>
+      </tr>
+      <tr>
+      <td>https://lepaystchad.com</td>
+      <td>TCD</td>
+      <td>Le Pays Tchad</td>
+      </tr>
+      <tr>
+      <td>https://togopresse.tg/</td>
+      <td>TGO</td>
+      <td>Togo-Presse</td>
+      </tr>
+      <tr>
+      <td>https://www.togofirst.com/en</td>
+      <td>TGO</td>
+      <td>Togo First</td>
+      </tr>
+      <tr>
+      <td>https://www.alchourouk.com/</td>
+      <td>TUN</td>
+      <td>Al Chourouk</td>
+      </tr>
+      <tr>
+      <td>https://www.assabahnews.tn/</td>
+      <td>TUN</td>
+      <td>Assabah News</td>
+      </tr>
+      <tr>
+      <td>https://www.mwananchi.co.tz/</td>
+      <td>TZA</td>
+      <td>Mwananchi</td>
+      </tr>
+      <tr>
+      <td>https://www.thecitizen.co.tz/</td>
+      <td>TZA</td>
+      <td>The Citizen</td>
+      </tr>
+      <tr>
+      <td>https://nilepost.co.ug/</td>
+      <td>UGA</td>
+      <td>Nile Post</td>
+      </tr>
+      <tr>
+      <td>https://www.newvision.co.ug/</td>
+      <td>UGA</td>
+      <td>New Vision</td>
+      </tr>
+      <tr>
+      <td>https://www.citizen.co.za/</td>
+      <td>ZAF</td>
+      <td>The Citizen</td>
+      </tr>
+      <tr>
+      <td>https://www.timeslive.co.za/</td>
+      <td>ZAF</td>
+      <td>TimesLIVE (Sunday Times)</td>
+      </tr>
+      <tr>
+      <td>https://diggers.news/</td>
+      <td>ZMB</td>
+      <td>News Diggers</td>
+      </tr>
+      <tr>
+      <td>https://www.lusakatimes.com/</td>
+      <td>ZMB</td>
+      <td>Lusaka Times</td>
+      </tr>
+      <tr>
+      <td>https://www.newsday.co.zw/</td>
+      <td>ZWE</td>
+      <td>NewsDay</td>
+      </tr>
+      <tr>
+      <td>https://www.newzimbabwe.com/</td>
+      <td>ZWE</td>
+      <td>NewZimbabwe</td>
+      </tr>
+      </tbody>
+      </table>
+      <h2 id="academic-journals">Academic journals</h2>
+      <table>
+      <thead>
+      <tr>
+      <th>url</th>
+      <th>Title</th>
+      <th>Description</th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr>
+      <td>https://openjournals.uwaterloo.ca/index.php/JoCI</td>
+      <td>The Journal of Community Informatics</td>
+      <td>Community use of ICTs and digital divides including developing world</td>
+      </tr>
+      <tr>
+      <td>https://policyreview.info/</td>
+      <td>Internet Policy Review</td>
+      <td>Open-access internet regulation research with recurring Global South and Africa analysis</td>
+      </tr>
+      <tr>
+      <td>https://link.springer.com/journal/146</td>
+      <td>AI and Society</td>
+      <td>AI governance culture and society with Global South perspectives</td>
+      </tr>
+      <tr>
+      <td>https://link.springer.com/journal/44206</td>
+      <td>Digital Society</td>
+      <td>Ethics governance and policy of digital technology across global contexts</td>
+      </tr>
+      <tr>
+      <td>https://ijimct.journals.ekb.eg/</td>
+      <td>International Journal of Informatics Media and Communication Technology (IJIMCT)</td>
+      <td>Informatics media communication technology and digital transformation</td>
+      </tr>
+      <tr>
+      <td>https://www.tandfonline.com/journals/titd20</td>
+      <td>Information Technology for Development</td>
+      <td>ICT4D and digital inclusion centred on Africa and low-income countries</td>
+      </tr>
+      <tr>
+      <td>https://journals.sagepub.com/home/idv</td>
+      <td>Information Development</td>
+      <td>Information provision and use emphasising developing countries</td>
+      </tr>
+      <tr>
+      <td>https://www.emeraldgrouppublishing.com/journal/jices</td>
+      <td>Journal of Information Communication and Ethics in Society</td>
+      <td>Social and ethical issues of ICTs across societies</td>
+      </tr>
+      <tr>
+      <td>https://www.emeraldgrouppublishing.com/journal/dprg</td>
+      <td>Digital Policy Regulation and Governance</td>
+      <td>Digital policy and ICT regulation including developing-country digital economies</td>
+      </tr>
+      <tr>
+      <td>https://www.tandfonline.com/journals/ugit20</td>
+      <td>Journal of Global Information Technology Management</td>
+      <td>Global IT management and adoption across developing economies</td>
+      </tr>
+      <tr>
+      <td>https://www.cambridge.org/core/journals/data-and-policy</td>
+      <td>Data &amp; Policy</td>
+      <td>Data science for policy and governance with Global South and Africa cases</td>
+      </tr>
+      <tr>
+      <td>https://journals.sagepub.com/home/bds</td>
+      <td>Big Data &amp; Society</td>
+      <td>Critical data studies including Big Data from the South and Africa</td>
+      </tr>
+      <tr>
+      <td>https://www.tandfonline.com/journals/rcyb20</td>
+      <td>Journal of Cyber Policy</td>
+      <td>Cyber policy and internet governance including African cybersecurity and sovereignty</td>
+      </tr>
+      <tr>
+      <td>https://academic.oup.com/idpl</td>
+      <td>International Data Privacy Law</td>
+      <td>Global data protection and privacy law including African data-protection regimes</td>
+      </tr>
+      <tr>
+      <td>https://www.tandfonline.com/journals/rics20</td>
+      <td>Information Communication and Society</td>
+      <td>Social impact of ICTs with dedicated Africa and Global South issues</td>
+      </tr>
+      <tr>
+      <td>https://datascience.codata.org/</td>
+      <td>Data Science Journal</td>
+      <td>Data management and open data including an Open Data and Africa collection</td>
+      </tr>
+      <tr>
+      <td>https://jocmas.unimac.edu.gh/</td>
+      <td>Journal of Communications Media and Society (JOCMAS)</td>
+      <td>Communication media and ICT policy research in Africa</td>
+      </tr>
+      <tr>
+      <td>https://journal.strathmore.edu/index.php/jipit</td>
+      <td>Journal of Intellectual Property and Information Technology (JIPIT)</td>
+      <td>IP and information technology law in the Global South</td>
+      </tr>
+      <tr>
+      <td>https://ajpdp.unilag.edu.ng/</td>
+      <td>African Journal on Privacy and Data Protection (AJPDP)</td>
+      <td>Privacy and data protection from an African perspective</td>
+      </tr>
+      <tr>
+      <td>https://www.sciencedirect.com/journal/digital-geography-and-society</td>
+      <td>Digital Geography and Society</td>
+      <td>Digital technologies space and society including Global South</td>
+      </tr>
+      <tr>
+      <td>https://www.sciencedirect.com/journal/telecommunications-policy</td>
+      <td>Telecommunications Policy</td>
+      <td>Telecom and ICT regulation with strong Africa and developing-country coverage</td>
+      </tr>
+      <tr>
+      <td>https://www.sciencedirect.com/journal/computer-law-and-security-review</td>
+      <td>Computer Law and Security Review</td>
+      <td>Technology law data protection and ICT policy worldwide</td>
+      </tr>
+      <tr>
+      <td>https://kluwerlawonline.com/Journals/Global+Privacy+Law+Review/735</td>
+      <td>Global Privacy Law Review</td>
+      <td>Global data protection and privacy law with developing-country contributions</td>
+      </tr>
+      <tr>
+      <td>https://iuea.ac.ug/facultyoflaw/</td>
+      <td>African Journal of Legal Issues in Technology and Innovation (AJLITI)</td>
+      <td>Law technology cyberlaw and data governance in Africa</td>
+      </tr>
+      <tr>
+      <td>https://onlinelibrary.wiley.com/journal/16814835</td>
+      <td>The Electronic Journal of Information Systems in Developing Countries</td>
+      <td>Information systems innovations in and for the Global South</td>
+      </tr>
+      <tr>
+      <td>https://digitalcommons.kennesaw.edu/ajis</td>
+      <td>The African Journal of Information Systems</td>
+      <td>ICT and information systems focused on the African continent</td>
+      </tr>
+      <tr>
+      <td>https://onlinelibrary.wiley.com/journal/19442866</td>
+      <td>Policy &amp; Internet</td>
+      <td>Internet and digital technology public policy including Global South governance</td>
+      </tr>
+      <tr>
+      <td>https://www.psupress.org/journals/jnls_JIP.html</td>
+      <td>Journal of Information Policy</td>
+      <td>International information and telecom policy scholarship including developing countries</td>
+      </tr>
+      <tr>
+      <td>https://ajic.wits.ac.za/</td>
+      <td>The African Journal of Information and Communication (AJIC)</td>
+      <td>ICT and digital innovation policy in Africa and the Global South</td>
+      </tr>
+      <tr>
+      <td>https://www.ahrlj.up.ac.za/</td>
+      <td>African Human Rights Law Journal</td>
+      <td>African human rights law including digital rights and privacy</td>
+      </tr>
+      <tr>
+      <td>https://sajim.co.za/</td>
+      <td>South African Journal of Information Management (SAJIM)</td>
+      <td>Information and knowledge management research and practice</td>
+      </tr>
+      <tr>
+      <td>https://sacj.org.za/</td>
+      <td>South African Computer Journal (SACJ)</td>
+      <td>Computer science and information systems research in Africa</td>
+      </tr>
+      <tr>
+      <td>https://www.tandfonline.com/journals/rajs20</td>
+      <td>African Journal of Science Technology Innovation and Development (AJSTID)</td>
+      <td>Science technology and innovation policy for African development</td>
+      </tr>
+      <tr>
+      <td>https://www.ldd.org.za/</td>
+      <td>Law Democracy and Development</td>
+      <td>Law governance human rights and development across Africa</td>
+      </tr>
+      </tbody>
+      </table>
+      <h2 id="ngos-and-think-tanks">NGOs and think-tanks</h2>
+      <table>
+      <thead>
+      <tr>
+      <th>URL</th>
+      <th>Title</th>
+      <th>Primary Focus</th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr>
+      <td>https://www.cigionline.org/</td>
+      <td>Centre for International Governance Innovation (CIGI)</td>
+      <td>Data and technology governance think tank with Africa research</td>
+      </tr>
+      <tr>
+      <td>https://www.thedatasphere.org/</td>
+      <td>Datasphere Initiative</td>
+      <td>Cross-border data governance; runs Africa Forum on data sandboxes</td>
+      </tr>
+      <tr>
+      <td>https://afroleadership.org/</td>
+      <td>AfroLeadership</td>
+      <td>Open data governance digital rights and AI ethics</td>
+      </tr>
+      <tr>
+      <td>https://govstack.global/</td>
+      <td>GovStack</td>
+      <td>DPI building-blocks initiative accelerating digital government including Africa</td>
+      </tr>
+      <tr>
+      <td>https://institute.global/</td>
+      <td>Tony Blair Institute for Global Change</td>
+      <td>Advises governments on digital transformation with major Africa programmes</td>
+      </tr>
+      <tr>
+      <td>https://mo.ibrahim.foundation/</td>
+      <td>Mo Ibrahim Foundation</td>
+      <td>African governance data and leadership including digital transformation</td>
+      </tr>
+      <tr>
+      <td>https://www.gsma.com/</td>
+      <td>GSMA</td>
+      <td>Mobile industry body with mobile money and digital ID Africa work</td>
+      </tr>
+      <tr>
+      <td>https://www.article19.org/</td>
+      <td>ARTICLE 19</td>
+      <td>Freedom of expression and digital rights with Africa programmes</td>
+      </tr>
+      <tr>
+      <td>https://odi.org/</td>
+      <td>ODI Global (Overseas Development Institute)</td>
+      <td>Development think tank researching Africa digital economy and transformation</td>
+      </tr>
+      <tr>
+      <td>https://theodi.org/</td>
+      <td>Open Data Institute</td>
+      <td>Data governance and open-data institute with Africa projects</td>
+      </tr>
+      <tr>
+      <td>https://caribou.global/</td>
+      <td>Caribou</td>
+      <td>Research on digital economy and livelihoods in Africa</td>
+      </tr>
+      <tr>
+      <td>https://www.bsg.ox.ac.uk/research/digital-pathways-oxford</td>
+      <td>Digital Pathways - Blavatnik School of Government - University of Oxford</td>
+      <td>Governance of digital technologies and digital economy in developing countries</td>
+      </tr>
+      <tr>
+      <td>https://www.oii.ox.ac.uk/</td>
+      <td>Oxford Internet Institute - University of Oxford</td>
+      <td>Internet society and digital economy research including African economies</td>
+      </tr>
+      <tr>
+      <td>https://africadigitalrightshub.org/</td>
+      <td>Africa Digital Rights Hub</td>
+      <td>Pan-African research on digital rights and data protection</td>
+      </tr>
+      <tr>
+      <td>https://acetforafrica.org/</td>
+      <td>African Center for Economic Transformation (ACET)</td>
+      <td>Economic transformation policy including the digital economy</td>
+      </tr>
+      <tr>
+      <td>https://cdpi.dev/</td>
+      <td>Centre for Digital Public Infrastructure (CDPI) - IIIT Bangalore</td>
+      <td>Designing and scaling country-led digital public infrastructure globally</td>
+      </tr>
+      <tr>
+      <td>https://www.kictanet.or.ke/</td>
+      <td>KICTANet</td>
+      <td>ICT policy internet governance and digital rights think tank</td>
+      </tr>
+      <tr>
+      <td>https://cipit.strathmore.edu/</td>
+      <td>CIPIT - Strathmore University</td>
+      <td>Research on data protection AI digital ID and digital rights</td>
+      </tr>
+      <tr>
+      <td>https://www.lawyershub.org/</td>
+      <td>Lawyers Hub</td>
+      <td>Pan-African digital law data governance and policy think tank</td>
+      </tr>
+      <tr>
+      <td>https://mzalendo.com/</td>
+      <td>Mzalendo Trust</td>
+      <td>Parliamentary monitoring open governance and civic technology</td>
+      </tr>
+      <tr>
+      <td>https://africanenda.org/</td>
+      <td>AfricaNenda</td>
+      <td>Pan-African inclusive instant payment systems and DPI</td>
+      </tr>
+      <tr>
+      <td>https://paradigmhq.org/</td>
+      <td>Paradigm Initiative</td>
+      <td>Digital rights and digital inclusion advocacy across Africa</td>
+      </tr>
+      <tr>
+      <td>https://www.cseaafrica.org/</td>
+      <td>Centre for the Study of the Economies of Africa (CSEA)</td>
+      <td>Economic and development policy think tank including digital economy</td>
+      </tr>
+      <tr>
+      <td>https://www.digitalpublicgoods.net/</td>
+      <td>Digital Public Goods Alliance</td>
+      <td>Identifies and promotes digital public goods with many Africa deployments</td>
+      </tr>
+      <tr>
+      <td>https://smartafrica.org/</td>
+      <td>Smart Africa</td>
+      <td>Pan-African digital single market and transformation initiative</td>
+      </tr>
+      <tr>
+      <td>https://www.africa.engineering.cmu.edu/</td>
+      <td>Center for Inclusive Digital Transformation of Africa - Carnegie Mellon University Africa</td>
+      <td>Inclusive digital transformation and digital public goods research in Africa</td>
+      </tr>
+      <tr>
+      <td>https://cipesa.org/</td>
+      <td>Collaboration on International ICT Policy for East and Southern Africa (CIPESA)</td>
+      <td>ICT policy internet freedom and digital rights research</td>
+      </tr>
+      <tr>
+      <td>https://unwantedwitness.org/</td>
+      <td>Unwanted Witness</td>
+      <td>Digital rights privacy and data protection advocacy</td>
+      </tr>
+      <tr>
+      <td>https://pollicy.org/</td>
+      <td>Pollicy</td>
+      <td>Feminist data governance civic technology and digital rights</td>
+      </tr>
+      <tr>
+      <td>https://dial.global/</td>
+      <td>Digital Impact Alliance (DIAL)</td>
+      <td>Research and advocacy on digital public infrastructure with strong Africa focus</td>
+      </tr>
+      <tr>
+      <td>https://www.codevelop.fund/</td>
+      <td>Co-Develop</td>
+      <td>Funds inclusive digital public infrastructure adoption across Africa and beyond</td>
+      </tr>
+      <tr>
+      <td>https://www.cgdev.org/</td>
+      <td>Center for Global Development (CGD)</td>
+      <td>Development policy think tank with digital ID research including Africa</td>
+      </tr>
+      <tr>
+      <td>https://fpf.org/</td>
+      <td>Future of Privacy Forum</td>
+      <td>Data protection think tank with dedicated FPF Africa programme</td>
+      </tr>
+      <tr>
+      <td>https://www.accessnow.org/</td>
+      <td>Access Now</td>
+      <td>Global digital-rights NGO with active Africa advocacy and helpline</td>
+      </tr>
+      <tr>
+      <td>https://www.internetsociety.org/</td>
+      <td>Internet Society</td>
+      <td>Connectivity and open-internet advocacy including African community networks</td>
+      </tr>
+      <tr>
+      <td>https://developmentgateway.org/</td>
+      <td>Development Gateway</td>
+      <td>Data and digital tools for governance with extensive Africa work</td>
+      </tr>
+      <tr>
+      <td>https://www.brookings.edu/projects/africa-growth-initiative/</td>
+      <td>Brookings Institution Africa Growth Initiative</td>
+      <td>Africa policy research covering technology innovation and digital economy</td>
+      </tr>
+      <tr>
+      <td>https://researchictafrica.net/</td>
+      <td>Research ICT Africa</td>
+      <td>Digital policy data governance and regulation research think tank</td>
+      </tr>
+      <tr>
+      <td>https://cenfri.org/</td>
+      <td>Cenfri</td>
+      <td>Digital transformation data and inclusive financial sector research</td>
+      </tr>
+      <tr>
+      <td>https://www.apc.org/</td>
+      <td>Association for Progressive Communications (APC)</td>
+      <td>Internet rights and digital technology for social justice network</td>
+      </tr>
+      <tr>
+      <td>https://dataeconomypolicyhub.org/</td>
+      <td>Data Economy Policy Hub (DepHUB)</td>
+      <td>Data economy and digital technology governance policy research</td>
+      </tr>
+      <tr>
+      <td>https://www.wits.ac.za/linkcentre/</td>
+      <td>LINK Centre - University of the Witwatersrand</td>
+      <td>Digital economy governance policy and communications regulation in Africa</td>
+      </tr>
+      <tr>
+      <td>https://www.wits.ac.za/tayarisha/</td>
+      <td>Tayarisha - University of the Witwatersrand</td>
+      <td>Digital and anticipatory governance research for African governments</td>
+      </tr>
+      <tr>
+      <td>https://ai.uct.ac.za/</td>
+      <td>UCT AI Initiative - African Hub on AI Safety - University of Cape Town</td>
+      <td>African AI governance safety and policy research</td>
+      </tr>
+      <tr>
+      <td>https://www.wits.ac.za/mandelainstitute/</td>
+      <td>Mandela Institute - University of the Witwatersrand</td>
+      <td>Law policy and governance of digital economy and data</td>
+      </tr>
+      </tbody>
+      </table>
+      <h2 id="regional-institutions">Regional institutions</h2>
+      <table>
+      <thead>
+      <tr>
+      <th>Name</th>
+      <th>Abbrev</th>
+      <th>Category</th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr>
+      <td>African Union</td>
+      <td>AU</td>
+      <td>AU organ</td>
+      </tr>
+      <tr>
+      <td>African Union Commission</td>
+      <td>AUC</td>
+      <td>AU organ</td>
+      </tr>
+      <tr>
+      <td>Pan-African Parliament</td>
+      <td>PAP</td>
+      <td>AU organ</td>
+      </tr>
+      <tr>
+      <td>African Continental Free Trade Area</td>
+      <td>AfCFTA</td>
+      <td>AU trade body</td>
+      </tr>
+      <tr>
+      <td>UN Economic Commission for Africa</td>
+      <td>UNECA</td>
+      <td>UN body</td>
+      </tr>
+      <tr>
+      <td>African Union Development Agency-NEPAD</td>
+      <td>AUDA-NEPAD</td>
+      <td>AU development agency</td>
+      </tr>
+      <tr>
+      <td>Africa Centres for Disease Control and Prevention</td>
+      <td>AfricaCDC</td>
+      <td>AU specialised agency</td>
+      </tr>
+      <tr>
+      <td>East African Community</td>
+      <td>EAC</td>
+      <td>REC</td>
+      </tr>
+      <tr>
+      <td>Intergovernmental Authority on Development</td>
+      <td>IGAD</td>
+      <td>REC</td>
+      </tr>
+      <tr>
+      <td>Common Market for Eastern and Southern Africa</td>
+      <td>COMESA</td>
+      <td>REC</td>
+      </tr>
+      <tr>
+      <td>Southern African Development Community</td>
+      <td>SADC</td>
+      <td>REC</td>
+      </tr>
+      <tr>
+      <td>Economic Community of West African States</td>
+      <td>ECOWAS</td>
+      <td>REC</td>
+      </tr>
+      <tr>
+      <td>Economic Community of Central African States</td>
+      <td>ECCAS</td>
+      <td>REC</td>
+      </tr>
+      <tr>
+      <td>Community of Sahel-Saharan States</td>
+      <td>CEN-SAD</td>
+      <td>REC</td>
+      </tr>
+      <tr>
+      <td>Arab Maghreb Union</td>
+      <td>UMA</td>
+      <td>REC</td>
+      </tr>
+      <tr>
+      <td>West African Economic and Monetary Union</td>
+      <td>WAEMU</td>
+      <td>Monetary union</td>
+      </tr>
+      <tr>
+      <td>Economic and Monetary Community of Central Africa</td>
+      <td>CEMAC</td>
+      <td>Monetary union</td>
+      </tr>
+      <tr>
+      <td>Association of African Central Banks</td>
+      <td>AACB</td>
+      <td>Central-bank body</td>
+      </tr>
+      <tr>
+      <td>African Development Bank</td>
+      <td>AfDB</td>
+      <td>Development finance</td>
+      </tr>
+      <tr>
+      <td>African Export-Import Bank</td>
+      <td>Afreximbank</td>
+      <td>Development finance</td>
+      </tr>
+      <tr>
+      <td>Pan-African Payment and Settlement System</td>
+      <td>PAPSS</td>
+      <td>DPI/payments initiative</td>
+      </tr>
+      <tr>
+      <td>AfricaNenda Foundation</td>
+      <td>AfricaNenda</td>
+      <td>DPI/payments initiative</td>
+      </tr>
+      <tr>
+      <td>Smart Africa Alliance</td>
+      <td>Smart Africa</td>
+      <td>Digital initiative</td>
+      </tr>
+      <tr>
+      <td>Smart Africa Trust Alliance</td>
+      <td>SATA</td>
+      <td>Digital initiative</td>
+      </tr>
+      <tr>
+      <td>Network of African Data Protection Authorities</td>
+      <td>NADPA-RAPDP</td>
+      <td>Data-protection network</td>
+      </tr>
+      <tr>
+      <td>African Telecommunications Union</td>
+      <td>ATU</td>
+      <td>Telecom/ICT body</td>
+      </tr>
+      <tr>
+      <td>West Africa Telecommunications Regulators Assembly</td>
+      <td>WATRA</td>
+      <td>Telecom regulator association</td>
+      </tr>
+      <tr>
+      <td>East African Communications Organisation</td>
+      <td>EACO</td>
+      <td>Telecom regulator association</td>
+      </tr>
+      <tr>
+      <td>Communications Regulators Association of Southern Africa</td>
+      <td>CRASA</td>
+      <td>Telecom regulator association</td>
+      </tr>
+      <tr>
+      <td>Assembly of Telecommunications Regulators of Central Africa</td>
+      <td>ARTAC</td>
+      <td>Telecom regulator association</td>
+      </tr>
+      <tr>
+      <td>African Organisation for Standardisation</td>
+      <td>ARSO</td>
+      <td>Standards body</td>
+      </tr>
+      <tr>
+      <td>African Network Information Centre</td>
+      <td>AFRINIC</td>
+      <td>Internet body</td>
+      </tr>
+      <tr>
+      <td>African Internet Governance Forum</td>
+      <td>African IGF</td>
+      <td>Internet governance forum</td>
+      </tr>
+      </tbody>
+      </table>
+    </article>
+
+    <div class="colophon">
+      <strong>About this page</strong>
+      <dl>
+        <dt>Built</dt><dd class="mono">2026-08-27</dd>
+        <dt>Source</dt><dd><code>content/methodology-lookups.md</code> &mdash; the page is that file, converted</dd>
+        <dt>Licence</dt><dd><a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></dd>
+      </dl>
+    </div>
+  </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="site-footer__inner">
+      <p class="site-footer__copy"><a href="https://creativecommons.org/licenses/by/4.0/" style="color:inherit;border-bottom:none;">CC BY 4.0</a> 2026 Bill Anderson / Data Landscapers Ltd &nbsp;·&nbsp; Registered in the UK · Co. No. 16040544</p>
+      <div class="site-footer__links">
+        <a href="https://data-landscapers.io/">data-landscapers.io</a>
+        <a href="https://corpus.data-landscapers.io/methodology/">Methodology</a>
+      </div>
+    </div>
+  </footer>
+
+</div>
+</body>
+</html>

@@ -63,6 +63,7 @@
 | ZAF   | South Africa                | XSA    |
 | ZMB   | Zambia                      | XSA    |
 | ZWE   | Zimbabwe                    | XSA    |
+
 ## Topics
 | Sort order | Key               | Level 1            | Level 2                                         |
 | ---------- | ----------------- | ------------------ | ----------------------------------------------- |
@@ -104,6 +105,7 @@
 | 36         | geopol.eu         | Geopolitics        | EU activities                                   |
 | 37         | geopol.gulf       | Geopolitics        | Gulf/UAE activities                             |
 | 38         | geopol.india      | Geopolitics        | India activities                                |
+
 ## Daily journals
 | url                                  | title                    | notes_file                           |
 | ------------------------------------ | ------------------------ | ------------------------------------ |
@@ -264,3 +266,91 @@
 | https://sacj.org.za/                                                   | South African Computer Journal (SACJ)                                            | Computer science and information systems research in Africa                              |
 | https://www.tandfonline.com/journals/rajs20                            | African Journal of Science Technology Innovation and Development (AJSTID)        | Science technology and innovation policy for African development                         |
 | https://www.ldd.org.za/                                                | Law Democracy and Development                                                    | Law governance human rights and development across Africa                                |
+
+## NGOs and think-tanks
+
+| URL                                                          | Title                                                                                     | Primary Focus                                                                   |
+| ------------------------------------------------------------ | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| https://www.cigionline.org/                                  | Centre for International Governance Innovation (CIGI)                                     | Data and technology governance think tank with Africa research                  |
+| https://www.thedatasphere.org/                               | Datasphere Initiative                                                                     | Cross-border data governance; runs Africa Forum on data sandboxes               |
+| https://afroleadership.org/                                  | AfroLeadership                                                                            | Open data governance digital rights and AI ethics                               |
+| https://govstack.global/                                     | GovStack                                                                                  | DPI building-blocks initiative accelerating digital government including Africa |
+| https://institute.global/                                    | Tony Blair Institute for Global Change                                                    | Advises governments on digital transformation with major Africa programmes      |
+| https://mo.ibrahim.foundation/                               | Mo Ibrahim Foundation                                                                     | African governance data and leadership including digital transformation         |
+| https://www.gsma.com/                                        | GSMA                                                                                      | Mobile industry body with mobile money and digital ID Africa work               |
+| https://www.article19.org/                                   | ARTICLE 19                                                                                | Freedom of expression and digital rights with Africa programmes                 |
+| https://odi.org/                                             | ODI Global (Overseas Development Institute)                                               | Development think tank researching Africa digital economy and transformation    |
+| https://theodi.org/                                          | Open Data Institute                                                                       | Data governance and open-data institute with Africa projects                    |
+| https://caribou.global/                                      | Caribou                                                                                   | Research on digital economy and livelihoods in Africa                           |
+| https://www.bsg.ox.ac.uk/research/digital-pathways-oxford    | Digital Pathways - Blavatnik School of Government - University of Oxford                  | Governance of digital technologies and digital economy in developing countries  |
+| https://www.oii.ox.ac.uk/                                    | Oxford Internet Institute - University of Oxford                                          | Internet society and digital economy research including African economies       |
+| https://africadigitalrightshub.org/                          | Africa Digital Rights Hub                                                                 | Pan-African research on digital rights and data protection                      |
+| https://acetforafrica.org/                                   | African Center for Economic Transformation (ACET)                                         | Economic transformation policy including the digital economy                    |
+| https://cdpi.dev/                                            | Centre for Digital Public Infrastructure (CDPI) - IIIT Bangalore                          | Designing and scaling country-led digital public infrastructure globally        |
+| https://www.kictanet.or.ke/                                  | KICTANet                                                                                  | ICT policy internet governance and digital rights think tank                    |
+| https://cipit.strathmore.edu/                                | CIPIT - Strathmore University                                                             | Research on data protection AI digital ID and digital rights                    |
+| https://www.lawyershub.org/                                  | Lawyers Hub                                                                               | Pan-African digital law data governance and policy think tank                   |
+| https://mzalendo.com/                                        | Mzalendo Trust                                                                            | Parliamentary monitoring open governance and civic technology                   |
+| https://africanenda.org/                                     | AfricaNenda                                                                               | Pan-African inclusive instant payment systems and DPI                           |
+| https://paradigmhq.org/                                      | Paradigm Initiative                                                                       | Digital rights and digital inclusion advocacy across Africa                     |
+| https://www.cseaafrica.org/                                  | Centre for the Study of the Economies of Africa (CSEA)                                    | Economic and development policy think tank including digital economy            |
+| https://www.digitalpublicgoods.net/                          | Digital Public Goods Alliance                                                             | Identifies and promotes digital public goods with many Africa deployments       |
+| https://smartafrica.org/                                     | Smart Africa                                                                              | Pan-African digital single market and transformation initiative                 |
+| https://www.africa.engineering.cmu.edu/                      | Center for Inclusive Digital Transformation of Africa - Carnegie Mellon University Africa | Inclusive digital transformation and digital public goods research in Africa    |
+| https://cipesa.org/                                          | Collaboration on International ICT Policy for East and Southern Africa (CIPESA)           | ICT policy internet freedom and digital rights research                         |
+| https://unwantedwitness.org/                                 | Unwanted Witness                                                                          | Digital rights privacy and data protection advocacy                             |
+| https://pollicy.org/                                         | Pollicy                                                                                   | Feminist data governance civic technology and digital rights                    |
+| https://dial.global/                                         | Digital Impact Alliance (DIAL)                                                            | Research and advocacy on digital public infrastructure with strong Africa focus |
+| https://www.codevelop.fund/                                  | Co-Develop                                                                                | Funds inclusive digital public infrastructure adoption across Africa and beyond |
+| https://www.cgdev.org/                                       | Center for Global Development (CGD)                                                       | Development policy think tank with digital ID research including Africa         |
+| https://fpf.org/                                             | Future of Privacy Forum                                                                   | Data protection think tank with dedicated FPF Africa programme                  |
+| https://www.accessnow.org/                                   | Access Now                                                                                | Global digital-rights NGO with active Africa advocacy and helpline              |
+| https://www.internetsociety.org/                             | Internet Society                                                                          | Connectivity and open-internet advocacy including African community networks    |
+| https://developmentgateway.org/                              | Development Gateway                                                                       | Data and digital tools for governance with extensive Africa work                |
+| https://www.brookings.edu/projects/africa-growth-initiative/ | Brookings Institution Africa Growth Initiative                                            | Africa policy research covering technology innovation and digital economy       |
+| https://researchictafrica.net/                               | Research ICT Africa                                                                       | Digital policy data governance and regulation research think tank               |
+| https://cenfri.org/                                          | Cenfri                                                                                    | Digital transformation data and inclusive financial sector research             |
+| https://www.apc.org/                                         | Association for Progressive Communications (APC)                                          | Internet rights and digital technology for social justice network               |
+| https://dataeconomypolicyhub.org/                            | Data Economy Policy Hub (DepHUB)                                                          | Data economy and digital technology governance policy research                  |
+| https://www.wits.ac.za/linkcentre/                           | LINK Centre - University of the Witwatersrand                                             | Digital economy governance policy and communications regulation in Africa       |
+| https://www.wits.ac.za/tayarisha/                            | Tayarisha - University of the Witwatersrand                                               | Digital and anticipatory governance research for African governments            |
+| https://ai.uct.ac.za/                                        | UCT AI Initiative - African Hub on AI Safety - University of Cape Town                    | African AI governance safety and policy research                                |
+| https://www.wits.ac.za/mandelainstitute/                     | Mandela Institute - University of the Witwatersrand                                       | Law policy and governance of digital economy and data                           |
+
+## Regional institutions
+
+| Name                                                        | Abbrev       | Category                      |
+| ----------------------------------------------------------- | ------------ | ----------------------------- |
+| African Union                                               | AU           | AU organ                      |
+| African Union Commission                                    | AUC          | AU organ                      |
+| Pan-African Parliament                                      | PAP          | AU organ                      |
+| African Continental Free Trade Area                         | AfCFTA       | AU trade body                 |
+| UN Economic Commission for Africa                           | UNECA        | UN body                       |
+| African Union Development Agency-NEPAD                      | AUDA-NEPAD   | AU development agency         |
+| Africa Centres for Disease Control and Prevention           | AfricaCDC    | AU specialised agency         |
+| East African Community                                      | EAC          | REC                           |
+| Intergovernmental Authority on Development                  | IGAD         | REC                           |
+| Common Market for Eastern and Southern Africa               | COMESA       | REC                           |
+| Southern African Development Community                      | SADC         | REC                           |
+| Economic Community of West African States                   | ECOWAS       | REC                           |
+| Economic Community of Central African States                | ECCAS        | REC                           |
+| Community of Sahel-Saharan States                           | CEN-SAD      | REC                           |
+| Arab Maghreb Union                                          | UMA          | REC                           |
+| West African Economic and Monetary Union                    | WAEMU        | Monetary union                |
+| Economic and Monetary Community of Central Africa           | CEMAC        | Monetary union                |
+| Association of African Central Banks                        | AACB         | Central-bank body             |
+| African Development Bank                                    | AfDB         | Development finance           |
+| African Export-Import Bank                                  | Afreximbank  | Development finance           |
+| Pan-African Payment and Settlement System                   | PAPSS        | DPI/payments initiative       |
+| AfricaNenda Foundation                                      | AfricaNenda  | DPI/payments initiative       |
+| Smart Africa Alliance                                       | Smart Africa | Digital initiative            |
+| Smart Africa Trust Alliance                                 | SATA         | Digital initiative            |
+| Network of African Data Protection Authorities              | NADPA-RAPDP  | Data-protection network       |
+| African Telecommunications Union                            | ATU          | Telecom/ICT body              |
+| West Africa Telecommunications Regulators Assembly          | WATRA        | Telecom regulator association |
+| East African Communications Organisation                    | EACO         | Telecom regulator association |
+| Communications Regulators Association of Southern Africa    | CRASA        | Telecom regulator association |
+| Assembly of Telecommunications Regulators of Central Africa | ARTAC        | Telecom regulator association |
+| African Organisation for Standardisation                    | ARSO         | Standards body                |
+| African Network Information Centre                          | AFRINIC      | Internet body                 |
+| African Internet Governance Forum                           | African IGF  | Internet governance forum     |

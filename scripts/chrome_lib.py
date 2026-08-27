@@ -32,7 +32,7 @@ SITE_BASE = "https://corpus.data-landscapers.io"
 MAIN_SITE = "https://data-landscapers.io"
 
 # label -> href, in the order they appear. Countries, Regions and Topics are
-# sections of the home page; Finance, Catalogue and Method are pages of their own
+# sections of the home page; Finance, Catalogue and Methodology are pages of their own
 # (Bill, 2026-08-19 — before that the last three were home-page anchors too).
 NAV = [
     ("Bulletin", f"{SITE_BASE}/bulletin/"),
@@ -49,7 +49,9 @@ NAV = [
     ("Topics", f"{SITE_BASE}/topics/"),
     ("Finance", f"{SITE_BASE}/finance/"),
     ("Catalogue", f"{SITE_BASE}/catalogue/"),
-    ("Method", f"{SITE_BASE}/method/"),
+    # Renamed from "Method" at /method/ on 2026-08-27 (Bill); /method/ keeps a
+    # redirect stub because it sat in every published page's baked chrome.
+    ("Methodology", f"{SITE_BASE}/methodology/"),
 ]
 
 # The key a page passes as `active`, matched case-insensitively against the label.
@@ -171,7 +173,7 @@ def foot(depth: int = 1, year: int | None = None) -> str:
       <p class="site-footer__copy"><a href="https://creativecommons.org/licenses/by/4.0/" style="color:inherit;border-bottom:none;">CC BY 4.0</a> {year or date.today().year} Bill Anderson / Data Landscapers Ltd &nbsp;·&nbsp; Registered in the UK · Co. No. 16040544</p>
       <div class="site-footer__links">
         <a href="{MAIN_SITE}/">data-landscapers.io</a>
-        <a href="{SITE_BASE}/method/">Method</a>
+        <a href="{SITE_BASE}/methodology/">Methodology</a>
       </div>
     </div>
   </footer>"""
