@@ -17,17 +17,17 @@ document (`progress-report-redesign.md` §1) and are not in scope.
 ## Done
 
 ERI and ZAF were the pilots. This pass has since added, in order: **GNB, AGO, BDI, BEN, BFA, BWA,
-CAF, CIV, CMR, COD, COG, COM, CPV, DJI, DZA, EGY, ETH, GAB, GHA, GIN, GMB, GNQ, KEN, LBR, LBY, LSO, MAR, MDG, MLI, MOZ, MRT, MUS, MWI, NAM, NER, NGA, RWA, SDN, SEN, SLE, SOM, SSD, STP, SWZ, SYC, TCD, TGO, TUN, TZA, UGA, ZMB** — 53 of 54, one commit each, all pushed.
+CAF, CIV, CMR, COD, COG, COM, CPV, DJI, DZA, EGY, ETH, GAB, GHA, GIN, GMB, GNQ, KEN, LBR, LBY, LSO, MAR, MDG, MLI, MOZ, MRT, MUS, MWI, NAM, NER, NGA, RWA, SDN, SEN, SLE, SOM, SSD, STP, SWZ, SYC, TCD, TGO, TUN, TZA, UGA, ZMB, ZWE** — **54 of 54. The pass is complete.** One commit each, all pushed.
 
 Yields so far, as a sense of shape: 21 indicators from GNB's 25 ledger rows, 43 from BDI's 74, 52
 from BWA's 107, 57 from BEN's 105, 64 from BFA's 131, 66 from AGO's 122, 43 from CAF's 92, 92 from
-CIV's 167, 73 from CMR's 121, 67 from COD's 123, 52 from COG's 103, 45 from COM's 117, 49 from CPV's 140, 43 from DJI's 70, 58 from DZA's 111, 66 from EGY's 199, 66 from ETH's 97, 58 from GAB's 120, 81 from GHA's 175, 59 from GIN's 109, 46 from GMB's 75, 42 from GNQ's 67, 93 from KEN's 219, 43 from LBR's 71, 64 from LBY's 84, 61 from LSO's 69, 79 from MAR's 137, 44 from MDG's 67, 55 from MLI's 87, 77 from MOZ's 159, 39 from MRT's 62, 50 from MUS's 81, 65 from MWI's 183, 62 from NAM's 134, 42 from NER's 68, 92 from NGA's 279, 69 from RWA's 128, 29 from SDN's 52, 55 from SEN's 115, 40 from SLE's 83, 37 from SOM's 60, 44 from SSD's 74, 27 from STP's 49, 43 from SWZ's 86, 34 from SYC's 54, 44 from TCD's 132, 47 from TGO's 124, 39 from TUN's 77, 61 from TZA's 150, 61 from UGA's 159, 56 from ZMB's 176. Between three quarters and nine tenths of ledger rows map; the rest are placeholders with
+CIV's 167, 73 from CMR's 121, 67 from COD's 123, 52 from COG's 103, 45 from COM's 117, 49 from CPV's 140, 43 from DJI's 70, 58 from DZA's 111, 66 from EGY's 199, 66 from ETH's 97, 58 from GAB's 120, 81 from GHA's 175, 59 from GIN's 109, 46 from GMB's 75, 42 from GNQ's 67, 93 from KEN's 219, 43 from LBR's 71, 64 from LBY's 84, 61 from LSO's 69, 79 from MAR's 137, 44 from MDG's 67, 55 from MLI's 87, 77 from MOZ's 159, 39 from MRT's 62, 50 from MUS's 81, 65 from MWI's 183, 62 from NAM's 134, 42 from NER's 68, 92 from NGA's 279, 69 from RWA's 128, 29 from SDN's 52, 55 from SEN's 115, 40 from SLE's 83, 37 from SOM's 60, 44 from SSD's 74, 27 from STP's 49, 43 from SWZ's 86, 34 from SYC's 54, 44 from TCD's 132, 47 from TGO's 124, 39 from TUN's 77, 61 from TZA's 150, 61 from UGA's 159, 56 from ZMB's 176, 64 from ZWE's 186. Between three quarters and nine tenths of ledger rows map; the rest are placeholders with
 no source, or real instruments the frame has no question for (a telecoms statute, a broadcasting
 transition), and those correctly stay on the ledger and out of the report.
 
 ## Remaining
 
-1 country unit: ZWE.
+**None.** All 54 country units carry `outputs/reports/{ISO}/indicators.csv`. `ls outputs/reports/*/indicators.csv | wc -l` returns 54, and the only report directories without one are XAF, XSA and XWA, which are out of scope by `progress-report-redesign.md` §1.
 
 ## The loop, per unit
 
@@ -1169,3 +1169,62 @@ after its regulations. "Fourteen years" does work that "no figures are published
 over data terms; the health minister denied the mining precondition and was dismissed three days
 later without explanation; the value is US$1.012bn in a leaked draft and up to US$2bn from the
 foreign minister, unreconciled. Declining health financing over data terms is rare in this frame.
+
+## What ZWE added, 2026-08-28 — and the pass closes
+
+177 sourced rows of 186, 64 indicators. The largest ledger in the corpus, the sixteenth unit running
+with nothing unmapped, and the last of the 54.
+
+**When the governing instruments are undated, that is the documentary base and it goes first.** The
+National ICT Policy 2022-2027 states no adoption or publication date anywhere in its text; the Smart
+Zimbabwe 2030 master plan carries no publication date, foreword date or gazette reference. Both are
+dated in this base by inference from their own contents. The `gov.policy--ict-strategy` cell says so
+and calls it what it is.
+
+**Ten planned instruments from one strategy are one finding, not ten developments.** The AI strategy —
+which a media rights organisation records as having no legal force — proposes an act, an ethics
+framework, a sandbox, technical standards, a data agency, a regulatory committee, a fusion centre, a
+truth-verification platform, an innovation fund and a data commons. Each cell records its own item
+*and* that it is proposed by an instrument with no legal force. Writing ten "Advanced" cells without
+that clause would have manufactured a programme.
+
+**A series break is a measurement change until proved otherwise.** The apparent collapse in headline
+used international bandwidth is a reclassification — the satellite operator excluded and the baseline
+restated from Q2 2025. The cell says "naming a measurement change as a measurement change is what
+stops a series break being read as a collapse."
+
+**The sharpest contrasts in a unit are usually two cells apart.** A sovereign cloud mandating local
+storage against the operator's first-hand statement that its AI compute is hosted abroad. 1,044 health
+facilities solarised against satellite kits at rural health facilities unactivated for unpaid
+subscriptions — the power arrived and the connectivity did not.
+
+---
+
+## The pass, closed
+
+**54 of 54 country units, 2026-08-26 to 2026-08-28.** ERI and ZAF were the pilots; the remaining 52
+were drafted, linted, checked twice, committed and pushed one unit at a time. Yields ran from 21
+indicators (GNB, 25 ledger rows) to 92 (NGA, 279 rows).
+
+What holds across all of it:
+
+1. **Read slugs through the ledger, never transcribe them.** `S(row_id, i)` makes a slug typo
+   impossible and a wrong row-id fail on the first run. Every citation defect that survived to the
+   render check was a *base* defect (a record held without a URL), not a drafting one.
+2. **The pre-lint catches almost everything, and its yield tracks the ledger's figure density**, not
+   the unit's size. Two units passed clean first time; both had few figures.
+3. **Do not put possessives in `L()` labels.** Five units lost a run to it.
+4. **Carry the ledger's own reconciliation work — conclusion and reasoning both.** Where the base has
+   settled a contradiction, the cell repeats how; where it has not, the cell says the divergence
+   stands. Never pick.
+5. **Name whose figure it is.** Operator-reported, ministry-reported, vendor case study, founder
+   interview, implementer-authored — in most units this was the single most load-bearing habit.
+6. **File by what the evidence establishes, not by the instrument's subject.** Surveillance systems
+   under control-of-AI-abuse; breached state systems under robustness; a satellite health rollout
+   under rural clinics.
+7. **Where one absence frames a whole unit, state it once upstream and let the affected cells name
+   what they specifically lack.**
+
+The next thing this frame needs is not more mapping. It is `check L` — which fails on 53 of the 54
+units for unwritten narrative blocks in `{ISO}-progress.md` and `{ISO}-status.md`. TZA is the only
+unit that passes it. That is the next stage of `PROGRESS-FILLER.md` §7, not this one.

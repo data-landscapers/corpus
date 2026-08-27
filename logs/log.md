@@ -11,6 +11,8 @@ title: Corpus process log
 
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 <!-- newest first: a new entry goes directly below this line -->
+2026-08-28 07:50 · indicator-mapping · unclocked · Indicator-mapping pass COMPLETE: all 54 country units carry indicators.csv, both checks clean on each; the three regional units are out of scope  - ok
+2026-08-28 07:45 · indicator-mapping · unclocked · ZWE mapped onto the indicator frame: 64 indicators from all 177 sourced ledger rows, the largest ledger in the corpus and the last unit  - ok
 2026-08-28 07:00 · indicator-mapping · unclocked · ZMB mapped onto the indicator frame: 56 indicators from all 123 sourced ledger rows, a unit whose AI strategy text carries no date of its own and disagrees with itself about its horizon  - ok
 2026-08-28 06:05 · indicator-mapping · unclocked · UGA mapped onto the indicator frame: 61 indicators from all 143 sourced ledger rows, a unit whose identity card migrated 28.5m records and whose new cards' machine-readable codes do not work  - ok
 2026-08-28 05:10 · indicator-mapping · unclocked · TZA mapped onto the indicator frame: 61 indicators from all 137 sourced ledger rows, the first unit in the pass to pass every render check including L  - ok
