@@ -1314,35 +1314,100 @@
     "written": "2026-08-26",
     "summary": "South African enterprise AI startup Verascient raised $1.2 million, about R19.5 million, in an oversubscribed round backed by Founder Collective, Andrena Ventures, Cambridge Enterprise and Summit Ventures. Its platform builds workflows and agents over institutional knowledge scattered across email, spreadsheets, meeting records and legacy software, on a temporal knowledge graph that tracks how information changes while preserving provenance, access permissions and historical context. It is aimed first at financial services, insurance and logistics."
   },
+  "2026-08-26-airtel-africa-foundation-digital-skills-tanzania": {
+    "published": "2026-08-26",
+    "written": "2026-08-27",
+    "summary": "A mobile operator's foundation relaunched a renovated digital skills laboratory at a Dar es Salaam secondary school, with the operator's money arm and a national business incubator as partners. The programme has reached more than 5,800 students, teachers, young people, entrepreneurs and women to date, on the foundation's own count."
+  },
   "2026-08-26-angola-soberania-digital-centro-tecnologico-opais": {
     "published": "2026-08-26",
     "written": "2026-08-26",
     "summary": "Angola's telecommunications ministry put a requalified government technology centre into service, presenting it as the place where state and citizen data will be stored and protected inside national territory. Minister Mário Oliveira said after visiting the facility on 25 August that protecting citizens' data and reinforcing digital sovereignty remain executive priorities, and placed the centre within the country's digital-transformation policies."
+  },
+  "2026-08-26-arc-iscw-earth-observation": {
+    "published": "2026-08-26",
+    "written": "2026-08-27",
+    "summary": "South Africa's agricultural research council maintains a coarse-resolution satellite imagery database going back to 1985, used for crop production and grazing capacity estimation, funded by the agriculture department with the monitoring system built on science department funding. It is one of the longer continuous earth observation archives held by an African public institution."
   },
   "2026-08-26-blu-label-cell-c-write-down-itweb": {
     "published": "2026-08-26",
     "written": "2026-08-26",
     "summary": "Blu Label Unlimited booked a R4.9 billion full-year loss writing its Cell C stake down to the R9 billion the operator's November listing priced it at, a 297% year-on-year swing in net income. Stripping out the write-down, the year to May produced net profit after tax of R677 million on revenue of R9.4 billion; the company declared a 10c dividend, adopted a policy of paying out 30% to 50% of core headline earnings excluding Cell C, and has started buying back its own shares. It retains 49.53% of Cell C, whose market value of R8.7 billion now exceeds Blu Label's own R7.3 billion."
   },
+  "2026-08-26-blu-label-electricity-play-after-cell-c": {
+    "published": "2026-08-26",
+    "written": "2026-08-27",
+    "summary": "A South African digital distribution group built on airtime, vouchers and payments is moving into electricity, holding a multi-year trading licence granted in February 2026, having identified around 400MW of potential capacity and planning to deploy up to 180MW in the near term. The strategy is to use the payments, vending and municipal billing infrastructure it already runs as the intermediary layer between producers, municipalities and large users."
+  },
+  "2026-08-26-cair-structure-and-history": {
+    "published": "2026-08-26",
+    "written": "2026-08-27",
+    "summary": "South Africa's national artificial intelligence research centre is a distributed network rather than a building: nine established and two emerging research groups across eight universities, funded mainly by the science department and coordinated by the state research council, with its directorate in a Cape Town computer science department. It was established in 2011, and the research groups run from computational logic and knowledge representation to the ethics of artificial intelligence and artificial intelligence for development."
+  },
+  "2026-08-26-cassava-ai-factory-top500-36th": {
+    "published": "2026-08-26",
+    "written": "2026-08-27",
+    "summary": "A pan-African technology group's artificial intelligence computing facility was ranked 36th in the latest global list of the most powerful supercomputers, which the company presents as the point at which Africa's computing gap stops being a discussion and starts being capacity. What the ranking measures is the machine; it says nothing about who gets to use it or on what terms."
+  },
+  "2026-08-26-cloud-dependence-african-ai-startups-cost-risks": {
+    "published": "2026-08-26",
+    "written": "2026-08-27",
+    "summary": "An artificial intelligence and cloud infrastructure practitioner argues that renting computing capacity is not itself the risk for African startups - almost all of them rent rather than own - but that concentrating the workload with a single provider exposes growth and margins to that provider's terms. The argument is about dependence rather than cost, and is one practitioner's assessment with no survey behind it."
+  },
+  "2026-08-26-clubofmozambique-intic-data-protection-legislation-oversight": {
+    "published": "2026-08-26",
+    "written": "2026-08-27",
+    "summary": "The president of Mozambique's information and communication technologies institute told a Maputo debate that passing the recent data protection and digital space laws is the easier half, and called for institutional capacity, technical skills and working oversight and accountability mechanisms to enforce them - and for citizens to know what rights they now hold and how to use them."
+  },
+  "2026-08-26-clubofmozambique-pm-ai-deepfakes-electoral-integrity": {
+    "published": "2026-08-26",
+    "written": "2026-08-27",
+    "summary": "Opening a meeting of the regional forum of electoral commissions in Maputo, Mozambique's prime minister set digital disinformation and manipulated video against electoral integrity, and argued in the same speech for using artificial intelligence to administer elections - managing voter registers, communicating with voters and strengthening data analysis. What is asked for is stronger technical and operational capacity in the region's electoral bodies; no instrument or rule follows from the speech."
+  },
   "2026-08-26-cote-divoire-68-millions-575-localites-rurales-wearetech": {
     "published": "2026-08-26",
     "written": "2026-08-26",
     "summary": "Côte d'Ivoire is continuing its FCFA 38 billion, about $68 million, Programme national de connectivité rurale to bring mobile and internet coverage to 575 localities, and set out its phase figures in a government communiqué of 24 August. Phase one, at FCFA 10 billion, was completed in 2024 with 160 radio sites serving 175 localities and about 221,267 inhabitants; phase two commits FCFA 18 billion for 240 further localities and phase three FCFA 10 billion for 160 more. The national broadband backbone stood at 5,207 km with 4G covering 65% of the territory in 2024."
+  },
+  "2026-08-26-cps-hspr-frame-update": {
+    "published": "2026-08-26",
+    "written": "2026-08-27",
+    "summary": "South Africa's statistics agency is reengineering its household survey programme, with the first phase updating the master sample - the geographic frame from which household surveys draw - to reflect new housing and current population. The agency says it is also exploring telephone and web collection, which is a change in method rather than in frame."
   },
   "2026-08-26-djibouti-numerique-emploi-diplomes-recruteurs-wearetech": {
     "published": "2026-08-26",
     "written": "2026-08-26",
     "summary": "Djibouti's labour ministry presented Djibouti Emploi on 24 August, a single digital portal meant to centralise its employment services and interconnect the institutions working in the field, aimed at jobseekers, employers and the administration alike. The World Bank's Djibouti Economic Monitor of May 2026, over data collected in the first two quarters of 2025, puts 51.8% of the working-age population outside the labour force, 46.2% of 16-to-24-year-olds not in employment, education or training, and 52.7% of jobs in the informal sector."
   },
+  "2026-08-26-doj-fbi-seize-qscan-qtrouter-prc-hacking-platforms": {
+    "published": "2026-08-26",
+    "written": "2026-08-27",
+    "summary": "United States authorities seized the domains behind two hacking platforms operated by a Chinese state-sponsored group employed by a Nanjing technology company, naming victims including the space agency, the Federal Reserve, three federal departments and the Senate. The item carries no African place, and is held here for what it shows about how state-sponsored intrusion infrastructure is built and taken down."
+  },
+  "2026-08-26-dsbd-incubation-and-digital-hubs": {
+    "published": "2026-08-26",
+    "written": "2026-08-27",
+    "summary": "South Africa's small business department reports 101 incubators established against a target of 96, including twenty-two rapid-incubation centres in technical colleges and universities, with a further twenty-seven planned mainly in townships and rural areas and an expected 1,290 new enterprises from them. The headline target of 250 incubation and digital hubs by 2024 is the one the page does not report against."
+  },
   "2026-08-26-egypt-offshoring-sector-5-2bn-techafricanews": {
     "published": "2026-08-26",
     "written": "2026-08-26",
     "summary": "Egypt generated $5.2 billion in offshoring services exports in 2025, across 252 companies operating 282 delivery centres, 177 of them multinational, employing more than 195,000 specialists. A prime-ministerial tour of Teleperformance, Concentrix, Vodafone Intelligent Solutions and Sutherland in Alexandria — which together employ nearly 15,000 there — was used to press the case for growing the industry outside Cairo and moving it from back-office work into generative-AI-enabled services."
   },
+  "2026-08-26-four-african-cloud-startups-to-watch-2026": {
+    "published": "2026-08-26",
+    "written": "2026-08-27",
+    "summary": "A trade outlet names four African-founded cloud and artificial intelligence infrastructure companies as an emerging alternative to hyperscale providers based in the United States and Europe, offering sovereign, low-latency capacity and keeping data on the continent. The roundup is a description of a direction rather than a measure of it: no capacity, customer count or market share appears for any of the four."
+  },
   "2026-08-26-intron-sahara-v2-5-code-switching-voice-model": {
     "published": "2026-08-26",
     "written": "2026-08-26",
     "summary": "Intron released Sahara v2.5, adding code-switching speech recognition in 12 African languages and what it says is the first African trilingual model, built for Rwanda's Kinyarwanda-English-French mix. On its own benchmarks and evaluation set the Lagos-founded company reports an average word error rate of 34.3% on code-switched African speech against 53.8% for Google's Gemini 3.6, and coverage of 31 languages after adding Nupe, Kanuri, Nigerian Fulfulde, Tigrinya, Kikuyu, Dholuo and Somali. It says the models are deployed at more than 40 organisations across six countries, with US patents filed on the trilingual algorithms."
+  },
+  "2026-08-26-kenya-artificial-intelligence-accelerator-open-call-undp": {
+    "published": "2026-08-26",
+    "written": "2026-08-27",
+    "summary": "Kenya's information and digital economy ministry, its technopolis authority and the United Nations development programme opened a call for high-impact artificial intelligence use cases in public service delivery and the green transition, running 24 August to 6 September 2026 and open to public institutions, universities, research entities, startups and individual innovators. Successful applicants are offered stage-appropriate access to computing, data preparation and technical assistance rather than cash."
   },
   "2026-08-26-kenya-health-data-sovereignty-standard-opinion": {
     "published": "2026-08-26",
@@ -1359,10 +1424,35 @@
     "written": "2026-08-26",
     "summary": "Kenya's ICT principal secretary John Tanui met Liquid Intelligent Technologies Kenya chief executive Neeraj Pradhan in Nairobi to discuss accelerating broadband and extending public Wi-Fi into public spaces and underserved communities, with no agreement, cost or timeline announced. The talks are framed against the Digital Superhighway target of 100,000 km of fibre and 25,000 public Wi-Fi hotspots across all 1,450 wards, backed by a $390 million World Bank programme and state budget allocations."
   },
+  "2026-08-26-maroc-inde-ia-langues-nationales": {
+    "published": "2026-08-26",
+    "written": "2026-08-27",
+    "summary": "Morocco's digital transition minister and India's minister of state for information technology agreed in Rabat on 24 August to create a joint commission on languages and digital technology, aimed at artificial intelligence models that handle Moroccan Arabic and Amazigh. The purpose stated is getting both languages into government digital services; no budget, timetable or institution is named."
+  },
+  "2026-08-26-mastercard-foundation-cchub-gateway-digital-skills-nigeria": {
+    "published": "2026-08-26",
+    "written": "2026-08-27",
+    "summary": "A foundation and a Nigerian innovation hub opened applications to a five-year programme intended to train more than 400,000 young Nigerians in artificial-intelligence-enhanced digital skills and connect them to global gig work, across tracks including graphic design, digital marketing, interface design and video production. Training is paired with portfolio development and gig-work readiness rather than offered alone."
+  },
+  "2026-08-26-naom-monari-bena-care-soins-domicile-kenya": {
+    "published": "2026-08-26",
+    "written": "2026-08-27",
+    "summary": "A Kenyan nurse turned founder runs a home-care service built on a mobile application with geolocation, connecting patients to nurses, physiotherapists and specialists within their area for nursing, palliative care, post-operative follow-up and chronic disease management. It was founded in 2017 and is presented against hospital congestion and distance from care centres; no patient volume or clinical governance arrangement is given."
+  },
+  "2026-08-26-narssa-managing-electronic-records-guidance-page": {
+    "published": "2026-08-26",
+    "written": "2026-08-27",
+    "summary": "South Africa's national archive sets out what it requires of government bodies managing electronic records, endorsing the international standards for records management, records metadata, the trustworthiness of electronically stored records and the functional requirements for digital records systems. It is a statutory requirement on every governmental body rather than guidance offered."
+  },
   "2026-08-26-ncc-mtn-ihs-conditional-approval-techcabal": {
     "published": "2026-08-26",
     "written": "2026-08-26",
     "summary": "Nigeria's NCC granted MTN Nigeria a conditional Approval-in-Principle in mid-July for the acquisition of IHS Towers' Nigerian business, disclosed by the regulator on 25 August and separate from the competition clearance the FCCPC had already given. The conditions are compliance with the NCC's corporate governance guidelines, a bar on amending existing contracts as a consequence of the transaction, a prohibition on the deal conferring exclusivity on MTN Nigeria, and an investment plan with measurable milestones; final approval is withheld until the regulator confirms compliance. Nigeria carries 15,848 of IHS's roughly 28,000 African tower sites, more than half the portfolio, in a transaction valuing IHS at about $6.2 billion enterprise value and the stake purchase at about $2.2 billion."
+  },
+  "2026-08-26-ndoh-chief-directorate-health-systems-digital-information": {
+    "published": "2026-08-26",
+    "written": "2026-08-27",
+    "summary": "South Africa's health department sets out what the national health insurance fund requires of its digital information systems: universal and preferably international coding used by public and private providers alike, and a portable electronic health record for every person that each provider adds to at every encounter. The stated purpose is measuring equity and access well enough to purchase strategically against the gaps."
   },
   "2026-08-26-nigeria-project-bridge-90000km-fibre-barriers-sun": {
     "published": "2026-08-26",
@@ -1374,15 +1464,40 @@
     "written": "2026-08-26",
     "summary": "PayAngel, founded in 2013 after a diverted tuition payment cost a relative their university place, routes diaspora remittances to verified schools, hospitals, insurers and retailers directly rather than to a family member trusted to forward them, identifying the payer through each institution's own reference system. The company says it has processed more than $450 million, has over 100,000 active remitters across 22 countries and an annualised revenue run rate of about $4 million, and holds regulatory approval in the United Kingdom, United States, Canada, Australia and Ghana. A sender transferring at least £100 a month qualifies their beneficiary for rolling life and hospitalisation cover, and a separate product lets African businesses collect from diaspora customers directly."
   },
+  "2026-08-26-powered-by-people-leve-des-fonds-artisans-africains": {
+    "published": "2026-08-26",
+    "written": "2026-08-27",
+    "summary": "A platform connecting independent artisans in more than thirty countries directly to large international retailers raised funding led by a European clothing group's foundation, to be spent on its technology and on artificial intelligence for product search. Neither the amount raised nor the number of artisans on the platform is stated."
+  },
   "2026-08-26-sa-digital-migration-progress-numbers-itweb": {
     "published": "2026-08-26",
     "written": "2026-08-26",
     "summary": "South Africa's broadcasting digital migration programme told Parliament's communications committee on 25 August that 52,869 households registered for subsidised set-top boxes still cannot be located, down from about 80,000 at the previous meeting, and that no analogue switch-off date has been set pending a steering committee of broadcasters and stakeholders. A SITA-facilitated cleaning of registration data dating to September 2015 cut the installation target from 447,815 to 401,803 households, against which 290,506 installations are complete and verified. The department said the state has spent close to R2 billion on dual illumination, and MPs described the programme as failed and wasteful."
   },
+  "2026-08-26-safaricom-ethiopia-subscriber-network-growth": {
+    "published": "2026-08-26",
+    "written": "2026-08-27",
+    "summary": "The consortium board behind Ethiopia's second mobile operator reviewed five years of operation and put the pace in comparative terms: the Vodacom group chief executive said the operator reached its current subscriber scale in five years where the industry typically takes fifteen to twenty, and the Safaricom chief executive said the Ethiopian team built in four years half the number of towers Safaricom has deployed in Kenya over twenty-six. No subscriber or tower figure is given with either comparison."
+  },
+  "2026-08-26-sasria-ai-national-risk-forecasting": {
+    "published": "2026-08-26",
+    "written": "2026-08-27",
+    "summary": "South Africa's state-owned special risks insurer is combining artificial intelligence with human intelligence and social science, in collaboration with the state research council, to read social and behavioural signals for the conditions that precede unrest and destructive events. An executive told a summit panel that triangulating social media with other data can identify potential unrest weeks ahead; no accuracy figure or evaluation is offered for the claim."
+  },
   "2026-08-26-sinazongwe-smart-zambia-ict-deployment-techafricanews": {
     "published": "2026-08-26",
     "written": "2026-08-26",
     "summary": "SMART Zambia's e-Government Division has equipped Sinazongwe Town Council in Southern Province with high-speed internet, telepresence systems, desktops and laptops, and solar power to keep the offices running through load-shedding. The deployment is presented as part of the Government Wide Area Network programme to connect all 116 councils and government institutions to a secure national backbone, with training for local ICT staff running alongside the hardware. No cost, vendor or completion date for the wider rollout is stated."
+  },
+  "2026-08-26-south-korea-dpi-aid-exports-investment-study": {
+    "published": "2026-08-26",
+    "written": "2026-08-27",
+    "summary": "A study traces how South Korea has used concessional lending to export its own digital government platforms - customs and public procurement systems - and finds recipients adopt the administrative procedures and certification standards embedded in them, not only the software. It puts a number on the commercial return: a one percent rise in Korean digital public infrastructure aid is associated with a 0.44 percent rise in exports to the recipient within one to two years, strongest where internet penetration and logistics capacity are already good. The benefits are asymmetric, and the study says so."
+  },
+  "2026-08-26-tamko-clarence-cameroun-boutiques-en-ligne": {
+    "published": "2026-08-26",
+    "written": "2026-08-27",
+    "summary": "A Cameroonian software engineer co-founded a platform that lets a trader stand up an online shop in minutes with no technical skill, ending in a personal link to be shared on messaging apps and social networks, with order tracking, customer messaging and analytics behind it. It was founded in 2021; no merchant count or transaction volume is published."
   },
   "2026-08-26-tshwane-shuts-online-food-stores-itweb": {
     "published": "2026-08-26",
@@ -1398,6 +1513,16 @@
     "published": "2026-08-26",
     "written": "2026-08-26",
     "summary": "Bank of South Sudan governor Addis Ababa Othow met British ambassador David Ashley in Juba to discuss monetary policy, digital banking regulation and public sector financial management, with no agreement, figure or timeline announced beyond the meeting itself. The central bank and the finance ministry are engaging telecommunications companies and mobile money operators to integrate the National Payment System, which is intended to connect commercial banks directly with mobile network operators and move a cash-dominated economy onto interoperable electronic infrastructure."
+  },
+  "2026-08-26-undp-executive-board-second-regular-session-2026-statement": {
+    "published": "2026-08-26",
+    "written": "2026-08-27",
+    "summary": "The development programme's administrator opened the year's second regular Executive Board session with technology placed at the centre of the development argument rather than beside it - the question being whether it becomes a bridge to opportunity or a new dividing line. The statement is a policy framing for the agency's country work across the continent rather than a commitment to any of it."
+  },
+  "2026-08-26-ustda-zenith-bank-nigeria-cloud-digital-banking-grant": {
+    "published": "2026-08-26",
+    "written": "2026-08-27",
+    "summary": "A United States trade agency awarded a training grant to a Nigerian commercial bank as it moves onto a hyperscale cloud platform sold by a Washington-based vendor, covering governance and financial management of cloud services for senior managers and non-technical adaptation training for staff. The agency's director framed it as strengthening American competitiveness in the market for sensitive digital infrastructure, which is the second thing the grant is for. No grant value is stated."
   },
   "2026-08-26-ventures-platform-second-fund-84m-techcabal": {
     "published": "2026-08-26",
