@@ -17,17 +17,17 @@ document (`progress-report-redesign.md` §1) and are not in scope.
 ## Done
 
 ERI and ZAF were the pilots. This pass has since added, in order: **GNB, AGO, BDI, BEN, BFA, BWA,
-CAF, CIV, CMR, COD, COG, COM, CPV, DJI, DZA, EGY, ETH** — 19 of 54, one commit each, all pushed.
+CAF, CIV, CMR, COD, COG, COM, CPV, DJI, DZA, EGY, ETH, GAB** — 20 of 54, one commit each, all pushed.
 
 Yields so far, as a sense of shape: 21 indicators from GNB's 25 ledger rows, 43 from BDI's 74, 52
 from BWA's 107, 57 from BEN's 105, 64 from BFA's 131, 66 from AGO's 122, 43 from CAF's 92, 92 from
-CIV's 167, 73 from CMR's 121, 67 from COD's 123, 52 from COG's 103, 45 from COM's 117, 49 from CPV's 140, 43 from DJI's 70, 58 from DZA's 111, 66 from EGY's 199, 66 from ETH's 97. Between three quarters and nine tenths of ledger rows map; the rest are placeholders with
+CIV's 167, 73 from CMR's 121, 67 from COD's 123, 52 from COG's 103, 45 from COM's 117, 49 from CPV's 140, 43 from DJI's 70, 58 from DZA's 111, 66 from EGY's 199, 66 from ETH's 97, 58 from GAB's 120. Between three quarters and nine tenths of ledger rows map; the rest are placeholders with
 no source, or real instruments the frame has no question for (a telecoms statute, a broadcasting
 transition), and those correctly stay on the ledger and out of the report.
 
 ## Remaining
 
-35 country units: GAB, GHA, GIN, GMB, GNQ, KEN, LBR, LBY, LSO, MAR, MDG, MLI, MOZ, MRT, MUS,
+34 country units: GHA, GIN, GMB, GNQ, KEN, LBR, LBY, LSO, MAR, MDG, MLI, MOZ, MRT, MUS,
 MWI, NAM, NER, NGA, RWA, SDN, SEN, SLE, SOM, SSD, STP, SWZ, SYC, TCD, TGO, TUN, TZA, UGA, ZMB, ZWE.
 
 ## The loop, per unit
@@ -210,3 +210,31 @@ the other - rather than to drop one cell.
 sentence whose citation sat after the semicolon, leaving `5,000 Chinese-funded training places`
 uncited in the fragment before it. The pre-lint caught it as the run's only defect. When a
 development runs long enough to need a semicolon, cite before it and start a new sentence after.
+
+## What GAB added, 2026-08-27
+
+**A quarter of the ledger was unsourced placeholder, and that is the story of the unit.** 26 of
+GAB's 120 rows carry no source, and every one of them names something the country does not have -
+a national digital strategy, a computer emergency response team, an AI policy, a universal service
+fund, a gender divide measure. They are correctly unmapped and they print as No evidence, which is
+the same finding read from the frame's end. The mapped 94 gave 58 indicators.
+
+**Two frame indicators can want the same row, and the split is by sector rather than by fact.**
+The electoral-roll platform is both a register and a use of the identification number; the unified
+social register is both a register and social protection. Where two indicators would take the same
+row and the same sentence, map it once and leave the other to say No evidence - a second cell
+paraphrasing the first is worse than an honest gap. Three rows here were dropped from a second cell
+on that test.
+
+**A row whose subject has no indicator often belongs to the country's regional posture.** The draft
+Code of Civil Procedure maps twice on genuinely different facts - digitised filings under
+`dpi.mis--justice`, harmonisation with the regional uniform acts under
+`gov.regional--regional-legal-harmonisation`. Half of GAB's payments evidence is regional
+instruments applied nationally, and mapping it to the national payment indicators alone would have
+lost the fact that the country is a rule-taker there.
+
+**Five of the six pre-lint failures were the same semicolon.** A long development whose citation
+sits after a semicolon leaves every figure before it uncited, because the check splits on `;` as
+well as `.`. EGY's note called the band the binding constraint on a thick unit; on this one it was
+punctuation. The fix is mechanical: when a development needs a semicolon, close the clause with its
+citation and start a new sentence.
