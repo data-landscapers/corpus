@@ -17,17 +17,17 @@ document (`progress-report-redesign.md` §1) and are not in scope.
 ## Done
 
 ERI and ZAF were the pilots. This pass has since added, in order: **GNB, AGO, BDI, BEN, BFA, BWA,
-CAF, CIV, CMR, COD, COG, COM, CPV, DJI, DZA, EGY, ETH, GAB, GHA, GIN, GMB, GNQ, KEN** — 25 of 54, one commit each, all pushed.
+CAF, CIV, CMR, COD, COG, COM, CPV, DJI, DZA, EGY, ETH, GAB, GHA, GIN, GMB, GNQ, KEN, LBR** — 26 of 54, one commit each, all pushed.
 
 Yields so far, as a sense of shape: 21 indicators from GNB's 25 ledger rows, 43 from BDI's 74, 52
 from BWA's 107, 57 from BEN's 105, 64 from BFA's 131, 66 from AGO's 122, 43 from CAF's 92, 92 from
-CIV's 167, 73 from CMR's 121, 67 from COD's 123, 52 from COG's 103, 45 from COM's 117, 49 from CPV's 140, 43 from DJI's 70, 58 from DZA's 111, 66 from EGY's 199, 66 from ETH's 97, 58 from GAB's 120, 81 from GHA's 175, 59 from GIN's 109, 46 from GMB's 75, 42 from GNQ's 67, 93 from KEN's 219. Between three quarters and nine tenths of ledger rows map; the rest are placeholders with
+CIV's 167, 73 from CMR's 121, 67 from COD's 123, 52 from COG's 103, 45 from COM's 117, 49 from CPV's 140, 43 from DJI's 70, 58 from DZA's 111, 66 from EGY's 199, 66 from ETH's 97, 58 from GAB's 120, 81 from GHA's 175, 59 from GIN's 109, 46 from GMB's 75, 42 from GNQ's 67, 93 from KEN's 219, 43 from LBR's 71. Between three quarters and nine tenths of ledger rows map; the rest are placeholders with
 no source, or real instruments the frame has no question for (a telecoms statute, a broadcasting
 transition), and those correctly stay on the ledger and out of the report.
 
 ## Remaining
 
-29 country units: LBR, LBY, LSO, MAR, MDG, MLI, MOZ, MRT, MUS,
+28 country units: LBY, LSO, MAR, MDG, MLI, MOZ, MRT, MUS,
 MWI, NAM, NER, NGA, RWA, SDN, SEN, SLE, SOM, SSD, STP, SWZ, SYC, TCD, TGO, TUN, TZA, UGA, ZMB, ZWE.
 
 ## The loop, per unit
@@ -367,3 +367,19 @@ in seven counties. In each case the stem alone would be false.
 ` into a real newline.**
 Editing a Python drafting script from a bash heredoc is not reliable for escaped characters. Use the
 editor for those patches, or keep the replacement strings free of escapes.
+
+## What LBR added, 2026-08-27
+
+**Where a unit's story is a sequence, put the sequence in the cell rather than the latest state.**
+Three of LBR's cells are only intelligible in order: a data governance policy of March 2026 named a
+regulator under a statute that was not yet enacted, the statute was signed in August, and the
+regulator still does not exist. A mandatory identity credential has been unobtainable since June
+2025 while the requirement to hold it stayed in force. A riders' union signed a private tracking and
+identity memorandum three days before the country's first data-protection law took effect. **In each
+case the dates are the finding**, and a cell reporting only the current position would lose it.
+
+**Seven units in one session, and the loop is now stable.** ETH, GAB, GHA, GIN, GMB, GNQ, KEN and
+LBR all mapped without a new indicator, without a frame change, and with `lint-indicators-draft.py`
+plus `fix-indicator-citations.py` in the assembly step. The two real checks were run once per unit
+and passed once per unit on every unit after GHA. **The remaining 28 units need no new method** -
+read the sourced rows, map, apply the citation fixer, pre-lint, write, check twice, commit, push.
