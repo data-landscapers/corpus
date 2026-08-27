@@ -1,0 +1,101 @@
+indicator_id,subject,briefs_run,candidates_returned,fetched,staged_baseline,staged_progress,not_selected,dropped,drop_codes,outcome,subject_rows_at_probe
+gov.policy--ict-strategy,"Governance — Strategies, plans and policies: ICT strategy",2,10,3,1,2,4,0,,staged,1
+gov.policy--broadband-strategy,"Governance — Strategies, plans and policies: Broadband strategy",2,10,4,1,2,5,2,already-seen;off-topic,staged,1
+gov.policy--data-storage-cloud-strategy,"Governance — Strategies, plans and policies: Data storage / cloud strategy",2,10,3,1,2,3,0,,staged,1
+gov.policy--data-interoperability-framework-roadmap,"Governance — Strategies, plans and policies: Data interoperability framework / roadmap",2,9,2,1,1,4,0,,staged,1
+gov.policy--ai-strategy,"Governance — Strategies, plans and policies: AI strategy",2,10,3,1,2,7,0,,staged,1
+gov.policy--data-localisation-policies,"Governance — Strategies, plans and policies: Data localisation policies",2,9,2,1,1,2,0,,staged,1
+gov.policy--open-data-policy,"Governance — Strategies, plans and policies: Open data policy",2,10,3,1,1,5,1,already-seen,staged,1
+gov.legislate--data-protection-legislation,Governance — Legislation and regulation: Data protection legislation,2,10,3,1,2,7,0,,staged,2
+gov.legislate--cybersecurity-legislation,Governance — Legislation and regulation: Cybersecurity legislation,2,9,3,1,2,6,0,,staged,2
+gov.legislate--legislation-covering-digital-id,Governance — Legislation and regulation: Legislation covering digital id,2,10,4,1,2,6,1,url-dead,staged,2
+gov.legislate--digital-payments-legislation,Governance — Legislation and regulation: Digital payments legislation,2,11,4,1,2,6,2,already-seen;headline-only-stub,staged,2
+gov.legislate--ai-legislation-regulations,Governance — Legislation and regulation: AI legislation / regulations,2,11,2,1,1,8,1,already-seen,staged,2
+gov.legislate--e-commerce-legislation,Governance — Legislation and regulation: E-commerce legislation,2,10,4,1,1,7,1,headline-only-stub,staged,2
+gov.legislate--statistics-legislation,Governance — Legislation and regulation: Statistics legislation,2,10,3,1,2,6,1,already-seen,staged,2
+gov.legislate--access-to-information-legislation,Governance — Legislation and regulation: Access to information legislation,2,10,3,1,2,7,0,,staged,2
+gov.regional--regional-legal-harmonisation,Governance — Regional collaboration: Regional legal harmonisation,2,10,3,1,2,4,0,,staged,1
+gov.regional--cross-border-data-transfers,Governance — Regional collaboration: Cross-border data transfers,2,10,2,1,1,4,1,already-seen,staged,1
+gov.standards--national-interoperability-standards,Governance — Standards: National interoperability standards,2,9,2,1,1,2,0,,staged,0
+gov.standards--national-quality-standards,Governance — Standards: National quality standards,2,9,4,1,2,6,0,,staged,0
+gov.standards--adoption-of-international-standards,Governance — Standards: Adoption of international standards,2,10,3,1,1,5,0,,staged,0
+gov.discourse--non-governmental-contribution-to-national-policy,Governance — Public debate and participation in policymaking: Non-governmental contribution to national policy,2,11,3,1,2,8,0,,staged,0
+finance.budget--sustainable-domestic-financing-of-digital-transformation,Finance — Domestic budget appropriations and expenditure: Sustainable domestic financing of digital transformation,2,11,3,1,2,0,0,,staged,0
+finance.mou--strategic-relationships,Finance — MoUs and other agreements: Strategic relationships,2,12,5,1,2,1,1,headline-only-stub,staged,0
+infra.connect--mobile-penetration,ICT Infrastructure — Connectivity: Mobile penetration,2,11,4,1,1,6,3,already-seen;headline-only-stub;fetch-blocked,staged,4
+infra.connect--mobile-affordability,ICT Infrastructure — Connectivity: Mobile affordability,2,12,3,1,1,8,2,already-seen;headline-only-stub,staged,4
+infra.connect--internet-exchange-points,ICT Infrastructure — Connectivity: Internet Exchange Points,2,15,3,1,2,12,0,,staged,4
+infra.store--local-data-centre-capacity-all-providers,ICT Infrastructure — Data Storage: Local data centre capacity (all providers),2,13,2,1,1,11,0,,staged,0
+infra.store--local-data-centre-capacity-national-providers,ICT Infrastructure — Data Storage: Local data centre capacity (national providers),2,12,3,1,2,9,0,,staged,0
+infra.store--off-site-backup-capacity,ICT Infrastructure — Data Storage: Off-site backup capacity,2,13,3,1,2,10,0,,staged,0
+infra.energy--sufficient-energy-and-water-for-data-centres,ICT Infrastructure — Energy: Sufficient energy and water for data centres,2,12,2,1,1,9,1,inadmissible-origin,staged,0
+infra.energy--grid-reliability,ICT Infrastructure — Energy: Grid reliability,2,14,3,1,2,9,2,inadmissible-origin;duplicate-in-run,staged,0
+infra.energy--rural-electrification,ICT Infrastructure — Energy: Rural electrification,2,15,3,1,2,12,0,,staged,0
+infra.capacity--robustness-of-government-hardware-and-software,ICT Infrastructure — Technical Capacity: Robustness of government hardware and software,2,13,3,1,2,8,2,already-seen;inadmissible-origin,staged,0
+infra.capacity--local-capacity-to-maintain-manage-and-develop-government-systems,"ICT Infrastructure — Technical Capacity: Local capacity to maintain, manage and develop government systems",2,14,3,1,2,11,0,,staged,0
+dpi.exchange--national-data-exchange-system,DPI — Data Exchange: National data exchange system,2,11,4,1,2,7,1,fetch-blocked,staged,1
+dpi.exchange--use-of-digital-id-in-other-systems,DPI — Data Exchange: Use of digital id in other systems,2,11,3,1,2,8,0,,staged,1
+dpi.exchange--interoperability-of-health-systems,DPI — Data Exchange: Interoperability of health systems,2,10,3,1,2,7,0,,staged,1
+dpi.exchange--interoperability-of-education-systems,DPI — Data Exchange: Interoperability of education systems,2,10,3,1,2,6,1,off-topic,staged,1
+dpi.exchange--interoperability-of-social-protection-systems,DPI — Data Exchange: Interoperability of social protection systems,2,9,3,1,2,6,0,,staged,1
+dpi.id--registration-of-entire-population,DPI — Digital Identity and CRVS: Registration of entire population,2,9,3,1,2,5,1,already-seen,staged,2
+dpi.id--national-maintenance-of-id-and-credentials-systems,DPI — Digital Identity and CRVS: National maintenance of id and credentials systems,2,9,3,1,2,6,0,,staged,2
+dpi.id--authentication,DPI — Digital Identity and CRVS: Authentication,2,9,2,1,0,7,1,headline-only-stub,staged,2
+dpi.id--digital-id-from-birth,DPI — Digital Identity and CRVS: Digital id from birth,2,8,3,1,2,5,0,,staged,2
+dpi.id--interoperability-of-birth-registration-and-digital-id,DPI — Digital Identity and CRVS: Interoperability of birth registration and digital id,2,9,3,1,2,6,0,,staged,2
+dpi.id--use-by-other-systems,DPI — Digital Identity and CRVS: Use by other systems,2,10,2,1,1,0,1,already-seen,staged,2
+dpi.pay--governance-role-of-central-bank,DPI — Digital Payments and Fintech: Governance role of central bank,2,18,4,1,2,12,3,headline-only-stub;already-seen;already-seen,staged,1
+dpi.pay--g2p-functionality,DPI — Digital Payments and Fintech: G2P functionality,2,9,1,1,0,5,3,already-seen;already-seen;inadmissible-origin,staged,1
+dpi.pay--revenue-collection,DPI — Digital Payments and Fintech: Revenue collection,2,11,3,1,2,8,0,,staged,1
+dpi.pay--b2b-and-b2g-functionality,DPI — Digital Payments and Fintech: B2B and B2G functionality,2,10,2,1,1,0,1,already-seen,staged,1
+dpi.pay--p2p-p2g-and-p2b-functionality,"DPI — Digital Payments and Fintech: P2P, P2G and P2B functionality",2,13,2,1,1,9,2,already-seen;already-seen,staged,1
+dpi.pay--cross-border-functionality,DPI — Digital Payments and Fintech: Cross-border functionality,2,10,1,1,0,0,2,already-seen,staged,1
+dpi.pay--consumer-protection,DPI — Digital Payments and Fintech: Consumer protection,2,10,3,1,1,1,0,,staged,1
+dpi.registry--population-register,DPI — Registries: Population register,2,12,3,1,2,8,1,already-seen,staged,4
+dpi.registry--address-register,DPI — Registries: Address register,2,10,3,1,1,6,2,already-seen;url-dead,staged,4
+dpi.registry--business-register,DPI — Registries: Business register,2,13,3,1,2,10,0,,staged,4
+dpi.registry--social-protection-register,DPI — Registries: Social protection register,2,11,2,1,0,6,4,headline-only-stub;no-development;out-of-window;out-of-window,staged,4
+dpi.registry--tax-register,DPI — Registries: Tax register,2,11,3,1,2,8,0,,staged,4
+dpi.registry--land-register,DPI — Registries: Land register,2,11,3,1,2,8,0,,staged,4
+dpi.mis--health,DPI — Sectoral management information systems: Health,2,10,3,1,1,1,0,,staged,0
+dpi.mis--education,DPI — Sectoral management information systems: Education,2,10,3,1,2,0,0,,staged,0
+dpi.mis--social-protection,DPI — Sectoral management information systems: Social protection,2,7,1,1,0,0,0,,staged,0
+dpi.mis--justice,DPI — Sectoral management information systems: Justice,2,9,3,1,2,0,0,,staged,0
+dpi.mis--tax,DPI — Sectoral management information systems: Tax,2,10,3,1,2,0,0,,staged,0
+dpi.mis--customs,DPI — Sectoral management information systems: Customs,2,10,3,1,1,1,0,,staged,0
+dpi.mis--land,DPI — Sectoral management information systems: Land,2,10,3,1,1,1,0,,staged,0
+dpi.govtech--e-government-services,DPI — Other GovTech and e-Gov: e-government services,2,10,3,1,2,7,0,,staged,0
+digital.localgov--ict-infrastructure-for-local-government,Digitalisation — Digitalisation of sub-national government: ICT infrastructure for local government,2,12,2,1,1,10,0,,staged,0
+digital.localgov--digitalisation-of-local-government-records,Digitalisation — Digitalisation of sub-national government: Digitalisation of local government records,2,12,2,0,2,10,0,,staged,0
+digital.rural--digitalisation-of-rural-health-clinics,Digitalisation — Rural digital data capture: Digitalisation of rural health clinics,2,13,2,1,2,10,0,,staged,0
+digital.rural--digitalisation-of-rural-primary-schools,Digitalisation — Rural digital data capture: Digitalisation of rural primary schools,2,12,1,1,2,9,0,,staged,0
+digital.rural--digitalisation-of-rural-registry-offices,Digitalisation — Rural digital data capture: Digitalisation of rural registry offices,2,13,2,1,2,10,0,,staged,0
+digital.rural--digitalisation-of-rural-police-stations,Digitalisation — Rural digital data capture: Digitalisation of rural police stations,2,12,3,1,2,9,0,,staged,0
+tech.ai--use-of-ai-in-government-administration,Technology — AI: Use of AI in government administration,2,8,1,1,1,6,0,,staged,0
+tech.ai--use-of-ai-in-sectoral-management-information-systems,Technology — AI: Use of AI in sectoral management information systems,2,10,1,1,1,8,0,,staged,0
+tech.ai--development-of-national-regional-ai-systems,Technology — AI: Development of national / regional AI systems,2,11,1,0,2,9,0,,staged,0
+tech.ai--control-of-ai-abuse,Technology — AI: Control of AI abuse,2,10,2,0,2,8,0,,staged,0
+tech.industry--national-capacity-in-dt-related-production,Technology — ICT Industry: National capacity in DT-related production,2,11,2,1,1,8,1,already-seen,staged,0
+tech.innovate--technology-hubs,Technology — Innovation ecosystem: Technology hubs,2,12,3,1,2,9,0,,staged,0
+tech.innovate--tech-startup-ecosystem,Technology — Innovation ecosystem: Tech startup ecosystem,2,13,3,1,2,10,0,,staged,0
+capacity.literacy--digital-literacy-civil-service,Capacity — Literacy: Digital literacy (civil service),2,12,3,1,2,9,0,,staged,0
+capacity.training--dt-related-training-in-secondary-education,Capacity — Training and skills: DT-related training in secondary education,2,12,3,1,2,9,0,,staged,1
+capacity.training--dt-related-university-facilities-and-qualifications,Capacity — Training and skills: DT-related university facilities and qualifications,2,10,3,1,2,6,1,out-of-window,staged,1
+capacity.training--graduates-entering-dt-ecosystem,Capacity — Training and skills: Graduates entering DT ecosystem,2,11,3,1,2,7,1,no-development,staged,1
+capacity.research--think-tanks-and-academic-departments-contributing-to-dt-policy,Capacity — Research institutions: Think tanks and academic departments contributing to DT policy,2,12,3,1,2,9,0,,staged,0
+include.access--citizen-feedback-portals,Inclusion — Access to services: Citizen feedback portals,2,11,3,1,2,8,0,,staged,0
+include.access--citizen-participation-in-policy,Inclusion — Access to services: Citizen participation in policy,2,11,3,1,2,8,0,,staged,0
+include.access--gender-equity,Inclusion — Access to services: Gender equity,2,14,3,1,2,11,0,,staged,0
+include.access--inclusion-of-persons-with-disabilities,Inclusion — Access to services: Inclusion of persons with disabilities,2,15,6,1,2,9,3,fetch-blocked,staged,0
+include.access--inclusion-of-refugees-and-idps,Inclusion — Access to services: Inclusion of refugees and IDPs,2,15,6,1,1,9,3,fetch-blocked;headline-only-stub,staged,0
+include.divides--bridging-of-digital-divides,Inclusion — Digital divides: Bridging of digital divides,2,17,3,1,2,14,0,,staged,1
+data.statistics--national-strategy-for-development-of-statistics,Data — National statistics: National strategy for development of statistics,2,11,3,1,2,0,1,already-seen,staged,1
+data.statistics--statistics-from-administrative-data,Data — National statistics: Statistics from administrative data,2,11,3,1,2,0,0,,staged,1
+data.open--use-of-open-data,Data — Open data: Use of open data,2,13,4,1,1,1,1,headline-only-stub,staged,0
+data.satellite--agricultural-use-of-satellite-data,Data — Use of satellite data: Agricultural use of satellite data,2,12,4,1,2,1,0,,staged,0
+data.satellite--meteorological-use-of-satellite-data,Data — Use of satellite data: Meteorological use of satellite data,2,12,3,1,2,0,0,,staged,0
+geopol.usa--usa-hyperscaler-mous-engagements-and-commitments,"Geopolitics — US / hyperscaler activities: USA / hyperscaler MoUs, engagements and commitments",2,13,3,1,2,0,1,already-seen,staged,0
+geopol.china--chinese-mous-engagements-and-commitments,"Geopolitics — China activities: Chinese MoUs, engagements and commitments",2,12,3,1,2,0,0,,staged,0
+geopol.eu--eu-mous-engagements-and-commitments,"Geopolitics — EU activities: EU MoUs, engagements and commitments",2,12,3,1,2,0,0,,staged,0
+geopol.gulf--gulf-mous-engagements-and-commitments,"Geopolitics — Gulf/UAE activities: Gulf MoUs, engagements and commitments",2,11,3,1,2,0,0,,staged,0
+geopol.india--india-mous-engagements-and-commitments,"Geopolitics — India activities: India MoUs, engagements and commitments",2,10,2,1,0,0,1,off-topic,staged,0
