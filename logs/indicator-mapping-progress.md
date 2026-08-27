@@ -17,11 +17,11 @@ document (`progress-report-redesign.md` §1) and are not in scope.
 ## Done
 
 ERI and ZAF were the pilots. This pass has since added, in order: **GNB, AGO, BDI, BEN, BFA, BWA,
-CAF, CIV, CMR, COD, COG, COM, CPV, DJI, DZA, EGY, ETH, GAB, GHA, GIN, GMB, GNQ, KEN, LBR, LBY, LSO, MAR, MDG, MLI, MOZ, MRT** — 33 of 54, one commit each, all pushed.
+CAF, CIV, CMR, COD, COG, COM, CPV, DJI, DZA, EGY, ETH, GAB, GHA, GIN, GMB, GNQ, KEN, LBR, LBY, LSO, MAR, MDG, MLI, MOZ, MRT, MUS** — 34 of 54, one commit each, all pushed.
 
 Yields so far, as a sense of shape: 21 indicators from GNB's 25 ledger rows, 43 from BDI's 74, 52
 from BWA's 107, 57 from BEN's 105, 64 from BFA's 131, 66 from AGO's 122, 43 from CAF's 92, 92 from
-CIV's 167, 73 from CMR's 121, 67 from COD's 123, 52 from COG's 103, 45 from COM's 117, 49 from CPV's 140, 43 from DJI's 70, 58 from DZA's 111, 66 from EGY's 199, 66 from ETH's 97, 58 from GAB's 120, 81 from GHA's 175, 59 from GIN's 109, 46 from GMB's 75, 42 from GNQ's 67, 93 from KEN's 219, 43 from LBR's 71, 64 from LBY's 84, 61 from LSO's 69, 79 from MAR's 137, 44 from MDG's 67, 55 from MLI's 87, 77 from MOZ's 159, 39 from MRT's 62. Between three quarters and nine tenths of ledger rows map; the rest are placeholders with
+CIV's 167, 73 from CMR's 121, 67 from COD's 123, 52 from COG's 103, 45 from COM's 117, 49 from CPV's 140, 43 from DJI's 70, 58 from DZA's 111, 66 from EGY's 199, 66 from ETH's 97, 58 from GAB's 120, 81 from GHA's 175, 59 from GIN's 109, 46 from GMB's 75, 42 from GNQ's 67, 93 from KEN's 219, 43 from LBR's 71, 64 from LBY's 84, 61 from LSO's 69, 79 from MAR's 137, 44 from MDG's 67, 55 from MLI's 87, 77 from MOZ's 159, 39 from MRT's 62, 50 from MUS's 81. Between three quarters and nine tenths of ledger rows map; the rest are placeholders with
 no source, or real instruments the frame has no question for (a telecoms statute, a broadcasting
 transition), and those correctly stay on the ledger and out of the report.
 
@@ -559,3 +559,26 @@ replaced it.
 pre-lint defects here were satellite bid amounts stated in a sentence whose citation had been left to
 the paragraph's first anchor, which the fixer could not reach across a sentence boundary. Cheaper than
 rewriting: close the clause with its own citation and start a new sentence for the caveats.
+
+## What MUS added, 2026-08-27
+
+**One omnibus bill can be the evidence for six different indicators, and each use is a different part
+of the same statute.** The July 2026 bill here amends fifty-eight Acts and carries the fintech
+governance committee, the artificial-intelligence city scheme, the central bank threat-sharing
+platform, the virtual-asset solicitation rule, the digital travel authorisation and the clinical-trial
+licensing system - and the ledger has each of those as its own row, so the frame gets six cells and
+none of them repeats a sentence. **Where a ledger has already split a vehicle into its provisions,
+map the provisions; where it has not, the vehicle is one row and one cell.**
+
+**A banned register term can arrive inside the evidence, and the drafting has to route around it.**
+Two ledger rows here use *binding constraint* and *unveiled* in their own prose - the register check
+does not read the ledger, but a cell that quotes it verbatim would fail. The paraphrases are "what
+limits the economy" and "presented", and the check caught neither because they never reached the
+draft. **Read the row for banned terms before quoting it**, which is the same discipline CMR's note
+gives for place names that read as first person.
+
+**Where the country's own instruments contradict each other on safeguards, that is the cell.** The
+data-protection statute was left out of an omnibus amending fifty-eight Acts in the same month the
+statistics office was empowered to share more data and a plate-recognition system went live at the
+airport with no retention rule. Three rows, three cells, and each names the omission the others
+imply - which reads better than one cell trying to carry the whole argument.
