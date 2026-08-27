@@ -37,12 +37,12 @@ Decisions taken and not to be re-opened without a reason. Each is a decision Bil
 | Catalogue | `outputs/catalogue/raw-catalogue.{json,csv}` | 9,407 records; metadata only, never bodies |
 | Country reports | `outputs/reports/{ISO3}/` | Status, monthly update, twelve-month progress |
 | Regional reports | `REPORT-REGION.md` (written 2026-08) | Progress only — the status and monthly reports are not issued for a region |
-| Topic reports | *(REPORT-TOPIC.md, unwritten)* | A Level-1 category, or one Level-2 slug, across places |
+| Topic reports | `outputs/topics/{slug}/` | A Level-1 category, or one Level-2 slug, across places |
 | National budgets | `outputs/budgets/{ISO3}-budget.csv` | 17 countries initialised |
 | Non-state finance | `outputs/non-state-finance/` | Per country, plus `all-nonstate.csv` |
 | Metadata | frontmatter, facets, freshness | Extensive, and part of the offer rather than an afterthought |
 
-One of the seven does not exist yet: the **topic report layer** is unwritten — `documentation/report-layer.md` names it as still to come, and BUILD.md carries it as a deferred stage. The site cannot launch the Topics section ahead of it. The region layer has since been written. *(Since the migration this is Corpus's own gap to close, not OSINT's — it was formerly note 1 in `C:\corpus-osint-xfer\notes-for-osint.md`.)*
+All seven exist and publish. *(Corrected 2026-08-27, strategic review task 7 — this paragraph said the topic layer was unwritten while 38 topic slugs were live under `outputs/topics/` and `site/topics/`.)*
 
 ## 3. Structure
 

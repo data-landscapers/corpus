@@ -1,5 +1,7 @@
 # What counts as a system or instrument
 
+**Superseded (2026-08-27, Bill).** The progress report is now framed on the fixed indicator list — `progress-report-redesign.md` and `indicator-mapping-conventions.md` are the current design; every unit carries `indicators.csv` and ledger rows feed indicators via `row_ids`. None of the three options below was adopted; the indicator frame dissolved the question. Kept as the record of the diagnosis.
+
 *(Design question, 2026-08-25. Bill, reviewing the country reports: "This report needs a rethink. There are too many random system or instruments. I think we need to build a structured list of what counts as a system or instrument." Nothing here has been actioned — the five stated edits to the progress report were made and this was not, because deciding what a ledger row is changes 6,083 rows across 57 ledgers and is not a change to make in the same pass as a heading rename. This is the evidence, the diagnosis and three options, so the decision can be taken rather than researched again.)*
 
 ## The complaint is measurable, and it is not really about the progress report

@@ -9,7 +9,7 @@ status: in force; Corpus-owned. Adapted from OSINT's `wiki/report-layer.md` on m
 
 *(Corpus owns the report-and-analysis layer. This file is the spec BUILD.md's stage 4 works to, and the record layer the report scripts implement. It was adapted from OSINT's `wiki/report-layer.md` when the layer moved — the ledger, the vocabularies, the gaps rule and the marked blocks are carried across substantially unchanged, because they are what the scripts already enforce; OSINT's §2 nightly-and-hub framing and its §10 register are not, and what replaced them is noted where they stood.)*
 
-**One layer, several processes.** Country reports and region reports (six `X__` codes, which are first-class places) are built; the topic layer is not yet written. This file holds what all of them call, so a second and third process cost a run procedure and a skeleton rather than a re-derivation.
+**One layer, several processes.** Country reports, region reports (six `X__` codes, which are first-class places) and topic reports are all built and publishing. This file holds what all of them call, so a second and third process cost a run procedure and a skeleton rather than a re-derivation.
 
 **A process may issue fewer than three documents.** A region issues the **progress report** only, and `scripts/report-render.py` refuses the other two for an `X__` unit rather than making every caller branch. Nothing else here changes: one ledger, one cadence, one register, one set of checks.
 
