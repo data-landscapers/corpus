@@ -3,9 +3,9 @@ title: South Africa — monthly update, July – August 2026
 compiled: 2026-08-27
 period: 2026-07-01 to 2026-08-27
 place: ZAF
-ledger_rows: 117
+ledger_rows: 120
 not_held: 23
-record: 3f67ecc27fc1
+record: bbfcfd5105b4
 ---
 
 # South Africa: monthly update, July – August 2026
@@ -84,6 +84,8 @@ The commercial estate is expanding on the operator's own numbers rather than on 
 
 
 The expansion also drew its first organised objection. A civil-society coalition [submitted concerns to the human rights commission on 10 August calling for a halt on data-centre developments pending transparent public participation, citing strain on scarce water, land and electricity](https://climatejusticecoalition.org/cjc-public-participation-in-south-africas-data-centre-expansion/). No participation process, commission response or moratorium is on record, which is what makes the objection the only thing here that can be dated.
+
+Two compute announcements closed the month, both making sovereignty the argument and both resting on the announcer's own figures. Three partners [launched what they describe as Africa's most powerful AI cloud, a 7.2 EFLOPS deployment on more than 50 NVIDIA B300 HGX servers carrying over 400 GPUs in carrier-neutral Tier-3+ colocation, pitched as keeping African training and inference workloads, and the data behind them, resident on the continent](https://techafricanews.com/2026/08/27/south-africa-partnership-launches-africas-most-powerful-sovereign-ai-cloud/); no independent benchmark, customer, price or site accompanies the number. Separately the mobile operator group [named the UAE backer of its Africa Data Hub Holding vehicle as Tarek Al Ashram, founder of the Dubai colocation operator Gulf Data Hub](https://www.mtn.com/mtn-group-advances-africas-ai-ready-digital-infrastructure-ecosystem-through-strategic-partnership/), three days after its own half-year results booklet named the vehicle without the partner behind it, [with a first phase targeting 150MW across South Africa and Nigeria](https://capacityglobal.com/news/mtn-targets-150mw-of-ai-data-centre-capacity/) and no split, site, cost or commissioning date stated. Against those, the one deployment in the country with an externally verified figure is the Cape Town artificial-intelligence factory, which [entered the June 2026 global supercomputer list at rank 36 on 285,696 cores and 77.79 PFlop/s measured against a 102.16 PFlop/s theoretical peak](https://www.top500.org/system/180464/).
 <!-- /narrative -->
 ### Energy
 
@@ -199,6 +201,8 @@ The sector's transformation body lost its chair. The communications minister [re
 
 
 The informal economy became a data product. A listed payments company [began selling near-real-time item-level intelligence on informal retail, drawn from a point-of-sale network of over 90,000 spaza shops and taverns and 10,500 checkouts, to consumer-goods brands, wholesalers and financiers](https://www.itweb.co.za/article/lesaka-brings-data-science-to-sas-spaza-economy/KjlyrvwBrAAqk6am). The network figures are the company's own, and no consent basis or data-protection assessment for reselling merchant transaction data is stated.
+
+Platform transport worked the other end of the same problem — getting drivers inside a licensing regime rather than getting data out of them. An e-hailing operator [took its compliance programme to the provinces, holding a North West regulatory engagement in Rustenburg on 18 August attended by more than 150 operators and a Western Cape transport dialogue in Cape Town on 21 August at which the provincial mobility department's director of licensing and adjudication undertook to add e-hailing as a service option on the operating-licence application; the North West provincial regulatory entity put its pending operating-licence backlog at 3,000 to 5,000 applications](https://www.itweb.co.za/article/bolt-takes-e-hailing-compliance-push-to-provinces/RgeVDvPRkmKMKJN3). The account is the platform's own and the undertaking is not yet an amended form.
 <!-- /narrative -->
 ### Innovation ecosystem
 
@@ -218,6 +222,8 @@ The information technology sector education and training authority was [referred
 The pipeline that authority sits in was reviewed on 14 August. A development bank's report with the higher education department, philanthropically funded, finds [the route from school through universities and technical colleges into employment constrained at both ends — young people arriving without the foundational digital skills the workplace needs, and employers unable to fill digital vacancies alongside high unemployment](https://www.worldbank.org/en/news/feature/2026/08/14/from-demand-to-delivery-strengthening-south-africas-digital-skills). Its finding is that the mismatch is structural and will not correct itself. That is a verdict on the strategy already under review on this ledger rather than a new instrument.
 
 One intervention was announced against that pipeline, at the far end of the country and five months out. A networking vendor's academy and a private group agreed with the Northern Cape education department to take [networking, cyber security and artificial-intelligence courses into 235 schools as extracurricular classes for grades 10 to 12 from February 2027](https://www.itweb.co.za/article/cisco-hanley-group-bring-digital-skills-training-to-northern-cape-schools/raYAyqorGPEMJ38N), inside a global programme the vendor says has already trained more than 600,000 South Africans. No learner target, cost, funding split, teacher-training provision or certification pathway accompanies it, and the training figure is the vendor's own.
+
+At the other end of the pipeline, industry began paying for places itself. Two domestic firms [joined a data-centre operations academy as industry partners and are sponsoring a full candidate cohort for its 2026 intake, the first South African firms to fund a whole cohort, one opening a newly launched Midrand OEM training facility and the other a live operational data centre to supply the practical component of a graduate-to-employment pipeline](https://datacentresafrica.com/master-power-technologies-and-digital-parks-africa-join-ibtc-dc-academy-as-key-ecosystem-partners/), the sponsoring founder framing it as a recruitment expense rather than a training one — which is the clearest statement yet of why the estate's operators are not waiting for the state pipeline above. No cohort size, placement rate or cost per place is published.
 <!-- /narrative -->
 ### Research institutions
 
