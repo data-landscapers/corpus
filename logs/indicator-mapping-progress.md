@@ -17,17 +17,17 @@ document (`progress-report-redesign.md` §1) and are not in scope.
 ## Done
 
 ERI and ZAF were the pilots. This pass has since added, in order: **GNB, AGO, BDI, BEN, BFA, BWA,
-CAF, CIV, CMR, COD, COG, COM, CPV, DJI, DZA, EGY, ETH, GAB, GHA, GIN, GMB** — 23 of 54, one commit each, all pushed.
+CAF, CIV, CMR, COD, COG, COM, CPV, DJI, DZA, EGY, ETH, GAB, GHA, GIN, GMB, GNQ** — 24 of 54, one commit each, all pushed.
 
 Yields so far, as a sense of shape: 21 indicators from GNB's 25 ledger rows, 43 from BDI's 74, 52
 from BWA's 107, 57 from BEN's 105, 64 from BFA's 131, 66 from AGO's 122, 43 from CAF's 92, 92 from
-CIV's 167, 73 from CMR's 121, 67 from COD's 123, 52 from COG's 103, 45 from COM's 117, 49 from CPV's 140, 43 from DJI's 70, 58 from DZA's 111, 66 from EGY's 199, 66 from ETH's 97, 58 from GAB's 120, 81 from GHA's 175, 59 from GIN's 109, 46 from GMB's 75. Between three quarters and nine tenths of ledger rows map; the rest are placeholders with
+CIV's 167, 73 from CMR's 121, 67 from COD's 123, 52 from COG's 103, 45 from COM's 117, 49 from CPV's 140, 43 from DJI's 70, 58 from DZA's 111, 66 from EGY's 199, 66 from ETH's 97, 58 from GAB's 120, 81 from GHA's 175, 59 from GIN's 109, 46 from GMB's 75, 42 from GNQ's 67. Between three quarters and nine tenths of ledger rows map; the rest are placeholders with
 no source, or real instruments the frame has no question for (a telecoms statute, a broadcasting
 transition), and those correctly stay on the ledger and out of the report.
 
 ## Remaining
 
-31 country units: GNQ, KEN, LBR, LBY, LSO, MAR, MDG, MLI, MOZ, MRT, MUS,
+30 country units: KEN, LBR, LBY, LSO, MAR, MDG, MLI, MOZ, MRT, MUS,
 MWI, NAM, NER, NGA, RWA, SDN, SEN, SLE, SOM, SSD, STP, SWZ, SYC, TCD, TGO, TUN, TZA, UGA, ZMB, ZWE.
 
 ## The loop, per unit
@@ -316,3 +316,25 @@ bodies exist only as a design inside that same document. Both facts come from on
 the cell is stronger for saying that the only source describing the country's cyber capability is a
 plan rather than a report. Compare EGY's note on the residue: a sourced row that looks thin is
 usually thin about something specific.
+
+## What GNQ added, 2026-08-27
+
+**The first unit in this pass to leave a sourced row unmapped on the frame's own terms.** GNQ's
+digital terrestrial television project is a broadcasting transition under a diagnostic tender, and
+the frame has no question shaped like it - which is exactly the example the residue note at the top
+of this file already gives. Every other sourced row mapped. **Do not force such a row into the
+nearest cell**: the alternative here would have been to file a television switchover under broadband
+strategy, which would make the indicator say something the evidence does not.
+
+**One ledger row can answer two indicators when the law and the institution it creates are both
+absent in different ways.** The 2016 data-protection statute maps twice: to
+`gov.legislate--data-protection-legislation` for a regime in force for ten years, and to
+`gov.protect--data-protection-authority` for the supervisory organ article 15 leaves to a decree the
+government never issued. The second cell is the more useful of the two, and it exists only because
+the row was read for what it withholds rather than for what it establishes.
+
+**A country can be measured by what its own studies admit.** GNQ's only assessment of government
+systems is the state infrastructure operator's own, putting ministry interoperability at about 15
+per cent, and its development agency's outgoing Inspector General named limited data-sharing by line
+ministries as the obstacle to monitoring the national strategy. Two self-reported facts that
+corroborate each other are worth more than either alone, and the cells say so.
