@@ -17,17 +17,17 @@ document (`progress-report-redesign.md` §1) and are not in scope.
 ## Done
 
 ERI and ZAF were the pilots. This pass has since added, in order: **GNB, AGO, BDI, BEN, BFA, BWA,
-CAF, CIV, CMR, COD, COG, COM, CPV, DJI, DZA, EGY, ETH, GAB, GHA, GIN, GMB, GNQ, KEN, LBR, LBY, LSO, MAR, MDG, MLI, MOZ, MRT, MUS, MWI, NAM, NER, NGA, RWA, SDN, SEN, SLE** — 42 of 54, one commit each, all pushed.
+CAF, CIV, CMR, COD, COG, COM, CPV, DJI, DZA, EGY, ETH, GAB, GHA, GIN, GMB, GNQ, KEN, LBR, LBY, LSO, MAR, MDG, MLI, MOZ, MRT, MUS, MWI, NAM, NER, NGA, RWA, SDN, SEN, SLE, SOM** — 43 of 54, one commit each, all pushed.
 
 Yields so far, as a sense of shape: 21 indicators from GNB's 25 ledger rows, 43 from BDI's 74, 52
 from BWA's 107, 57 from BEN's 105, 64 from BFA's 131, 66 from AGO's 122, 43 from CAF's 92, 92 from
-CIV's 167, 73 from CMR's 121, 67 from COD's 123, 52 from COG's 103, 45 from COM's 117, 49 from CPV's 140, 43 from DJI's 70, 58 from DZA's 111, 66 from EGY's 199, 66 from ETH's 97, 58 from GAB's 120, 81 from GHA's 175, 59 from GIN's 109, 46 from GMB's 75, 42 from GNQ's 67, 93 from KEN's 219, 43 from LBR's 71, 64 from LBY's 84, 61 from LSO's 69, 79 from MAR's 137, 44 from MDG's 67, 55 from MLI's 87, 77 from MOZ's 159, 39 from MRT's 62, 50 from MUS's 81, 65 from MWI's 183, 62 from NAM's 134, 42 from NER's 68, 92 from NGA's 279, 69 from RWA's 128, 29 from SDN's 52, 55 from SEN's 115, 40 from SLE's 83. Between three quarters and nine tenths of ledger rows map; the rest are placeholders with
+CIV's 167, 73 from CMR's 121, 67 from COD's 123, 52 from COG's 103, 45 from COM's 117, 49 from CPV's 140, 43 from DJI's 70, 58 from DZA's 111, 66 from EGY's 199, 66 from ETH's 97, 58 from GAB's 120, 81 from GHA's 175, 59 from GIN's 109, 46 from GMB's 75, 42 from GNQ's 67, 93 from KEN's 219, 43 from LBR's 71, 64 from LBY's 84, 61 from LSO's 69, 79 from MAR's 137, 44 from MDG's 67, 55 from MLI's 87, 77 from MOZ's 159, 39 from MRT's 62, 50 from MUS's 81, 65 from MWI's 183, 62 from NAM's 134, 42 from NER's 68, 92 from NGA's 279, 69 from RWA's 128, 29 from SDN's 52, 55 from SEN's 115, 40 from SLE's 83, 37 from SOM's 60. Between three quarters and nine tenths of ledger rows map; the rest are placeholders with
 no source, or real instruments the frame has no question for (a telecoms statute, a broadcasting
 transition), and those correctly stay on the ledger and out of the report.
 
 ## Remaining
 
-12 country units: SOM, SSD, STP, SWZ, SYC, TCD, TGO, TUN, TZA, UGA, ZMB, ZWE.
+11 country units: SSD, STP, SWZ, SYC, TCD, TGO, TUN, TZA, UGA, ZMB, ZWE.
 
 ## The loop, per unit
 
@@ -814,3 +814,34 @@ and SEN's breach placement.
 platforms are being built at once and the identity agency has *publicly warned against parallel
 systems*. That makes the duplication contested on the record rather than merely noticed, which is
 what lets the cell say it plainly.
+
+## What SOM added, 2026-08-27
+
+50 sourced rows of 60, 37 indicators, fifth unit running with nothing unmapped.
+
+**Hold both halves of a split verdict in the same cell rather than picking one.** This unit is
+genuinely ahead of several larger ones on institutional sequence — a data protection statute in force
+since 2023, regulations adopted February 2026, the authority's first nationwide enforcement step in
+June; a cybersecurity law, a framework and an incident response team inside twelve months. It is also
+a state where about 2m of an estimated 19.7m people hold the identity credential, two member states
+sit outside the national register, and one runs its own identification authority. Writing either half
+alone produces a false unit. Each institutional cell states its own qualification — the authority's
+independence is qualified by executive appointment and override powers; no caseload, budget or
+enforcement action is published for the cyber stack — so the reader gets the sequence and the capacity
+in the same place.
+
+**An operating-reality note belongs in the cell, not just on the ledger.** The immunisation register
+carries "power and connectivity gaps force recording on paper and uploading later". That single line
+is the honest qualifier on every digitisation claim in the unit, and it only reaches a reader if the
+cell keeps it.
+
+**Where two accounts of legality are unreconciled, say they are unreconciled.** The credential was
+made compulsory for inter-state travel; a published legal analysis holds the proclamation exceeds a
+statute that confers a *right* to a credential and imposes no *duty* to obtain one. The ledger says
+the two accounts have not been reconciled. The cell says the same and adds the consequence — that
+compulsion at ~2m of ~19.7m is an exclusion question before it is a legal one — without adjudicating
+the law.
+
+**A regional gap can only be seen from a national ledger sometimes.** The e-commerce strategy row
+records that the lender finds no strategy in this country, in a neighbour, *or* at the regional body.
+That is worth stating plainly when a national row happens to carry a regional finding.

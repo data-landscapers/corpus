@@ -11,6 +11,7 @@ title: Corpus process log
 
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 <!-- newest first: a new entry goes directly below this line -->
+2026-08-27 23:55 · indicator-mapping · unclocked · SOM mapped onto the indicator frame: 37 indicators from all 50 sourced ledger rows, a unit building institutions faster than coverage, with both halves held in the same cells  - ok
 2026-08-27 23:25 · indicator-mapping · unclocked · SLE mapped onto the indicator frame: 40 indicators from all 73 sourced ledger rows, a unit framed by having no data-protection law in force at any point in the period  - ok
 2026-08-27 22:40 · indicator-mapping · unclocked · SEN mapped onto the indicator frame: 55 indicators from all 104 sourced ledger rows, a unit whose recurring shape is systems built ahead of the rules meant to govern them  - ok
 2026-08-27 21:55 · indicator-mapping · unclocked · SDN mapped onto the indicator frame: 29 indicators from all 39 sourced ledger rows, a wartime unit where three authorities exist by decree ahead of the three statutes still in redrafting  - ok
