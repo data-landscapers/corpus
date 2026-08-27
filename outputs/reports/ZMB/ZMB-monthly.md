@@ -3,9 +3,9 @@ title: Zambia — monthly update, July – August 2026
 compiled: 2026-08-27
 period: 2026-07-01 to 2026-08-27
 place: ZMB
-ledger_rows: 68
+ledger_rows: 69
 not_held: 53
-record: 627c54a7da2a
+record: 020552b91e83
 ---
 
 # Zambia: monthly update, July – August 2026
@@ -123,6 +123,8 @@ The national electronic health record and its hospital tier are migrating onto t
 
 <!-- narrative: dpi--dpi-govtech -->
 A contract tracking and management system was launched with the Ministry of Justice on 12 July for digital submission of government contracts to the Attorney General's Chambers and real-time tracking of approval progress; no volume or turnaround figure was published.
+
+The other movement is at the far end of the network rather than the centre. The e-government agency's Northern Province unit is [onboarding government employees in Mpulungu, Mbala and Lupososhi districts onto an e-payslip self-service portal, replacing manual payslip distribution with round-the-clock access to employment records, and has connected the Lupososhi district administration to the Government Wide Area Network and given it a wireless access point so officials can use internet calling and digital communication platforms rather than unreliable mobile coverage](https://techafricanews.com/2026/08/27/zambia-expands-ict-infrastructure-rural-public-service-delivery/). The same unit is inspecting government office equipment and briefing officials on the Government Office Equipment Standards, which cover acquisition, registration, maintenance, use and disposal. No enrolment count, coverage figure or completion date accompanies any of it, so what is on record is a method reaching three districts.
 <!-- /narrative -->
 
 ## Digitalisation

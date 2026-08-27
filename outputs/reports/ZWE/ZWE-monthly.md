@@ -3,9 +3,9 @@ title: Zimbabwe — monthly update, July – August 2026
 compiled: 2026-08-27
 period: 2026-07-01 to 2026-08-27
 place: ZWE
-ledger_rows: 84
+ledger_rows: 85
 not_held: 9
-record: be076af5899a
+record: 11e67900b9f1
 ---
 
 # Zimbabwe: monthly update, July – August 2026
@@ -28,6 +28,8 @@ The health minister told the National Assembly on 17 July that more than 400 rur
 
 <!-- narrative: governance--gov-policy -->
 The ICT ministry committed on 29 July to an artificial-intelligence ethics framework tabled by the end of the first quarter of 2027, publishing neither a standard nor a compliance deadline ([launch account](https://spikedmedia.co.zw/zimbabwe-bets-on-digital-gold-inside-the-launch-of-ndarama-and-the-push-for-ai-sovereignty/)).
+
+On children online the country has taken the policy route where its neighbours have taken the legislative one. Zimbabwe [has adopted a policy covering cyber-harassment, sextortion and data protection, while Gabon has fixed digital majority at 16 by ordinance with platform design duties attached and Rwanda is preparing a restriction on under-16s](https://www.agenceecofin.com/actualites/2708-141074-en-afrique-comme-ailleurs-les-etats-s-emparent-de-la-protection-des-mineurs-sur-les-reseaux-sociaux). The policy text and its adoption date are not held, only a comparative account of it, and no instrument, supervisory body or enforcement action is on record — which is the distinction the comparison turns on, since the constraint reported across the region is enforcement rather than law.
 <!-- /narrative -->
 ### Legislation and regulation
 

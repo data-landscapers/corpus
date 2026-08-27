@@ -3,10 +3,10 @@ title: Gabon — progress report, August 2025 – August 2026
 compiled: 2026-08-27
 period: 2025-08-01 to 2026-08-27
 place: GAB
-ledger_rows: 121
+ledger_rows: 122
 not_held: 27
 indicators: 121
-record: 08d9c03140a7
+record: fb94ccf2f138
 ---
 
 # Gabon: progress report, August 2025 – August 2026

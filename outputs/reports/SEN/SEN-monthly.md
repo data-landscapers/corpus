@@ -1,11 +1,11 @@
 ---
 title: Senegal — monthly update, July – August 2026
-compiled: 2026-08-26
-period: 2026-07-01 to 2026-08-26
+compiled: 2026-08-27
+period: 2026-07-01 to 2026-08-27
 place: SEN
-ledger_rows: 65
+ledger_rows: 66
 not_held: 14
-record: d3b4aee31fdf
+record: 4f4895da9697
 ---
 
 # Senegal: monthly update, July – August 2026
@@ -47,6 +47,8 @@ The data-protection reform reached a [finalisation workshop for the bill and its
 
 <!-- narrative: governance--gov-regional -->
 Regionally, Senegal became [one of 29 founding states of an intergovernmental AI-governance body on 16 July](https://www.seneweb.com/fr/news/Technologie/intelligence-artificielle-le-senegal-parmi-les-29-etats-fondateurs-de-la-waico_n_498704.html), and joined the approval on 31 July of [three ECOWAS statistical methodological guides](https://www.ecowas.int/ecowas-concludes-meeting-of-directors-general-of-national-statistical-institutes-by-adopting-new-guidelines-for-regional-statistical-harmonization/).
+
+The bilateral channel moved from signature to work. The June 2026 telecommunications and digital-economy memorandum with the Gambia [went into implementation around four priorities — connectivity, cybersecurity, skills and digital transformation — with the telecommunications and digital minister travelling to Banjul to agree the first joint work, and the two regulators separately deepening cooperation on frequency coordination, service quality and cross-border roaming](https://www.wearetech.africa/fr/fils/actualites/tech/senegal-gambie-la-cooperation-numerique-se-concretise-autour-de-quatre-priorites). What Senegal supplies in that relationship is transit: the Gambia's terrestrial fibre build is limited and it depends largely on a single submarine cable for international access, with only limited terrestrial redundancy through Senegal. No work programme, budget or timetable is published.
 <!-- /narrative -->
 ### Standards
 

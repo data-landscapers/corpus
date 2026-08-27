@@ -2,14 +2,14 @@
 title: Botswana — digital transformation and data governance status report
 compiled: 2026-08-27
 place: BWA
-ledger_rows: 99
+ledger_rows: 100
 not_held: 11
-record: 45b5d7d60963
+record: ab4247e1e2ca
 ---
 
 # Botswana: status report
 
-*Compiled 2026-08-27 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/BWA/ledger.csv` (99 systems and instruments, 11 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-27 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/BWA/ledger.csv` (100 systems and instruments, 11 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -327,6 +327,7 @@ Universal service delivers per site and publishes no programme total. Two school
 
 | System or instrument | Status | Milestone |
 |---|---|---|
+| AgriWatch regional monitoring dashboard | [In development](https://digitalearthafrica.org/en_za/growing-resilience-together-digital-earth-africa-and-sasscal-collaborate-on-agriwatch/) | Agreed 1 September 2025 |
 | BOTSAT-1 | [Implemented](https://www.telecomreviewafrica.com/articles/telecom-operators/11357-botswana-enters-space-race-with-botsat-1-launch/) | Launched 2025-03-15 with an in-country ground station |
 
 <!-- narrative: data -->

@@ -3,10 +3,10 @@ title: Botswana — progress report, August 2025 – August 2026
 compiled: 2026-08-27
 period: 2025-08-01 to 2026-08-27
 place: BWA
-ledger_rows: 108
+ledger_rows: 109
 not_held: 11
 indicators: 121
-record: 9e2d91b6bbc5
+record: f505111222f5
 ---
 
 # Botswana: progress report, August 2025 – August 2026

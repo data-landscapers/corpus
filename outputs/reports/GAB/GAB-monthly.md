@@ -3,9 +3,9 @@ title: Gabon — monthly update, July – August 2026
 compiled: 2026-08-27
 period: 2026-07-01 to 2026-08-27
 place: GAB
-ledger_rows: 46
+ledger_rows: 47
 not_held: 27
-record: 224746b2b780
+record: 0e170ea9fde3
 ---
 
 # Gabon: monthly update, July – August 2026
@@ -33,6 +33,8 @@ On 11 July nine civil-society organisations declared the broadcasting authority'
 On 23 July a national workshop validated by consensus five implementing texts on the digitalisation of teaching — two decrees, two orders and a decree creating a basic computing certificate — and forwarded them to the competent authorities with recommendations. They are technically validated and not adopted ([close of the workshop](https://agpgabon.ga/gabon-education-cloture-de-latelier-consacre-au-cadre-reglementaire-de-la-digitalisation-des-enseignements/)).
 
 The month's other legislative movement is procedural rather than expressive. A justice ministry commission [submitted a draft Code of Civil Procedure on 11 August](https://agpgabon.ga/gabon-lavant-projet-du-nouveau-code-de-procedure-civile-remis-au-ministre-de-la-justice), a rewrite of the 1977 ordinance running to more than 800 pages that would let procedural filings be made and held electronically, introduce secure digital tools, and harmonise with the OHADA uniform acts. Professional consultation and parliamentary debate are still ahead, and the draft text is not held.
+
+An earlier instrument reached the base this month and it is the furthest-going measure of its kind reported in the region. An ordinance of February 2026 [fixes digital majority at 16 and obliges platforms to limit certain publication and interaction functions, to disable contacts from unidentified users by default and to provide age-verification mechanisms](https://www.agenceecofin.com/actualites/2708-141074-en-afrique-comme-ailleurs-les-etats-s-emparent-de-la-protection-des-mineurs-sur-les-reseaux-sociaux) — a duty on how a platform is built rather than a minimum age alone, where Rwanda is still preparing a restriction on under-16s and Zimbabwe has gone the policy route. The ordinance text is not held, only a comparative account of it, and no implementing regulation, supervisory body or enforcement action is on record.
 <!-- /narrative -->
 ### Regional collaboration
 

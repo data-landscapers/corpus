@@ -5,7 +5,7 @@ period: 2026-07-01 to 2026-08-27
 place: MAR
 ledger_rows: 44
 not_held: 17
-record: 278568c8298a
+record: ce8f072b516c
 ---
 
 # Morocco: monthly update, July – August 2026
@@ -90,6 +90,8 @@ The compute platform behind that estate acquired a price. A press account citing
 
 <!-- narrative: ict-infrastructure--infra-cybersec -->
 The [national cybersecurity strategy to 2030 is now held in full: four pillars — governance, cyberspace resilience, capacity development and regional cooperation — with 11 objectives, 26 initiatives and 60 actions](https://www.dgssi.gov.ma/sites/default/files/publications/pdf/2024-10/Strat%C3%A9gie%20Nationale%20de%20Cybers%C3%A9curit%C3%A9%202030.pdf), succeeding the first strategy of 2012. Its workforce commitments carry no numbers, and [a separate held source dates a national cybersecurity strategy to 2023 with US$100m earmarked and an agency created](https://www.mmsp.gov.ma/fr/actualites/le-royaume-du-maroc-%C3%A9lu-membre-au-conseil-administratif-de-lunion-africaine-des-t%C3%A9l%C3%A9communications-pour-la-p%C3%A9riode-2027-2031) — whether the two are the same instrument is not established.
+
+Against that architecture the month produced a claimed breach of the security services themselves. A hacker group said on 24 August that it had [published the personal data of 70,000 police and intelligence agents, a leak former members of the intelligence services judge at least partly authentic and which discloses details not previously public, including the date of birth of the head of the police and internal intelligence](https://www.rfi.fr/fr/afrique/20260827-maroc-les-donn%C3%A9es-de-70-000-agents-de-la-police-et-du-renseignement-publi%C3%A9es-apr%C3%A8s-une-nouvelle-cyberattaque). Whether it is a new breach is contested: a Moroccan outlet calls it an assemblage of data already compromised in earlier hacks, and Moroccan media have covered it only marginally. The same group claimed the 2025 breach of the social security fund. No official confirmation, notification or investigation is on record, which is the part that bears on the strategy above rather than the claim itself.
 <!-- /narrative -->
 
 ## DPI

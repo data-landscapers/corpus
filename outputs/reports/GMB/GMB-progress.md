@@ -3,10 +3,10 @@ title: Gambia — progress report, August 2025 – August 2026
 compiled: 2026-08-27
 period: 2025-08-01 to 2026-08-27
 place: GMB
-ledger_rows: 75
+ledger_rows: 76
 not_held: 13
 indicators: 121
-record: 89cdaa9fb3da
+record: 5f3519cde5f5
 ---
 
 # Gambia: progress report, August 2025 – August 2026

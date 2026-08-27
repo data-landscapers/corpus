@@ -1,15 +1,15 @@
 ---
 title: Sao Tome and Principe — digital transformation and data governance status report
-compiled: 2026-08-25
+compiled: 2026-08-27
 place: STP
-ledger_rows: 49
+ledger_rows: 50
 not_held: 13
-record: 0ccf8b223436
+record: 046ff1ae4e02
 ---
 
 # Sao Tome and Principe: status report
 
-*Compiled 2026-08-25 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/STP/ledger.csv` (49 systems and instruments, 13 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-27 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/STP/ledger.csv` (50 systems and instruments, 13 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -56,6 +56,7 @@ Thirteen of forty-eight rows are ***Not held***: no compute capacity, satellite-
 
 | System or instrument | Status | Milestone |
 |---|---|---|
+| CPLP digital rights charter | [Implemented](https://secretariadoexecutivo.cplp.org/media/axzbbtqn/2_cartacplp_princi-piosdireitosambientesdigitais.pdf) | Signed at São Tomé by all nine member states, 19 July 2024 |
 | Lusophone Africa Data Governance Workshop | [Implemented, second edition held](https://www.unesco.org/en/articles/advancing-data-infrastructure-and-governance-lusophone-africa-regional-workshop-concludes-luanda) | Second workshop held in Luanda, 15-17 Jun 2026 |
 | PALOP Digital Governance Dialogues | [Implemented, ongoing series](https://www.biometricupdate.com/202603/palop-countries-collaborate-to-enhance-digital-identity-and-public-services) | Second webinar held (digital ID as foundational DPI) |
 

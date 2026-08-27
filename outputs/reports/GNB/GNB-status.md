@@ -1,15 +1,15 @@
 ---
 title: Guinea-Bissau — digital transformation and data governance status report
-compiled: 2026-08-25
+compiled: 2026-08-27
 place: GNB
-ledger_rows: 22
+ledger_rows: 23
 not_held: 1
-record: 44e8bff4ec87
+record: caea32efb6fb
 ---
 
 # Guinea-Bissau: status report
 
-*Compiled 2026-08-25 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/GNB/ledger.csv` (22 systems and instruments, 1 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-27 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/GNB/ledger.csv` (23 systems and instruments, 1 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -45,6 +45,7 @@ Guinea-Bissau is assembling the basics of a digital state largely through donor-
 | System or instrument | Status | Milestone |
 |---|---|---|
 | AUDA-NEPAD Programme for African Developing Island Economies (Guinea-Bissau participation) | [Planned](https://www.nepad.org/news/auda-nepad-launches-first-continental-programme-dedicated-africas-island-economies) | AUDA-NEPAD launched the Programme for African Developing Island Economies at the STC-TTIM Ministerial Segment in Abidjan, covering Guinea-Bissau among seven states; ministers adopted a communique committing to a 2026-2031 roadmap with six pillars including digital transformation |
+| CPLP digital rights charter | [Implemented](https://secretariadoexecutivo.cplp.org/media/axzbbtqn/2_cartacplp_princi-piosdireitosambientesdigitais.pdf) | Signed at São Tomé by all nine member states, 19 July 2024 |
 
 <!-- narrative: governance -->
 Through 2025–26 the transitional state assembled a governance and legislative spine it had lacked: a [National Data Governance and Protection Policy and a National Cybersecurity Strategy](https://ang.gw/governo-aprova-projeto-de-regulamento-sobre-a-interoperabilidade-de-sistemas-e-plataformas-digitais/), both approved by Council of Ministers decree in July 2025 alongside the interoperability regulation above, following a [January 2025 commitment](https://ang.gw/governo-apresenta-resultados-dos-estudos-sobre-ciberseguranca/) to create a National Cybersecurity and Data Protection Agency that is not yet confirmed established. A [revised Electronic Communications Law](https://ang.gw/conselho-de-ministros-aprova-nova-lei-das-comunicacoes-eletronicas-e-e-faz-novas-nomeacoes-na-administracao-publica/), replacing the 2010 regime, was approved with amendments by Council of Ministers but not yet confirmed passed by the transitional parliament (CNT). The CNT did enact one digital law in the period: a ["Digital Integrity" law](https://ultimahoragb.com/2026/05/23/cnt-aprova-a-lei-de-integridade-digital-para-travar-falsas-informacoes-e-atingir-cidadaos-que-destilam-o-odio-no-pais/) against the dissemination of false information online, passed unanimously with amendments in May 2026 and [invoked for the first time in July 2026](https://ang.gw/ministerio-da-comunicacao-social-considera-de-falsas-informacoes-sobre-encerramento-de-tik-tok-no-pais/) against a false claim that TikTok would be shut down nationwide. Regionally, Guinea-Bissau was named among seven states in [AUDA-NEPAD's Programme for African Developing Island Economies](https://www.nepad.org/news/auda-nepad-launches-first-continental-programme-dedicated-africas-island-economies), adopted at ministerial level in July 2026 with digital transformation as one of six pillars.

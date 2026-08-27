@@ -1,15 +1,15 @@
 ---
 title: Equatorial Guinea — digital transformation and data governance status report
-compiled: 2026-08-25
+compiled: 2026-08-27
 place: GNQ
-ledger_rows: 64
+ledger_rows: 65
 not_held: 6
-record: d684cbb33e3c
+record: 09dd1edb2f21
 ---
 
 # Equatorial Guinea: status report
 
-*Compiled 2026-08-25 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/GNQ/ledger.csv` (64 systems and instruments, 6 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-27 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/GNQ/ledger.csv` (65 systems and instruments, 6 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -55,6 +55,7 @@ A single figure gives the scale of the delivery problem. GITGE's own study of th
 
 | System or instrument | Status | Milestone |
 |---|---|---|
+| CPLP digital rights charter | [Implemented](https://secretariadoexecutivo.cplp.org/media/axzbbtqn/2_cartacplp_princi-piosdireitosambientesdigitais.pdf) | Signed at São Tomé by all nine member states, 19 July 2024 |
 | Lusophone Africa data governance process | [In development](https://www.unesco.org/en/articles/advancing-data-infrastructure-and-governance-lusophone-africa-regional-workshop-concludes-luanda) | Second Lusophone Africa Data Governance Workshop, Luanda, 15-17 June 2026 |
 | Malabo Convention on Cyber Security and Personal Data Protection | [In development, signed not ratified](https://www.linkedin.com/posts/au-infrastructure-and-energy_equatorial-guinea-signs-the-malabo-convention-activity-7488275982521565184-ETtI) | Signed at Addis Ababa, 28 July 2026 |
 
