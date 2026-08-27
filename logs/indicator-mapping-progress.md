@@ -17,17 +17,17 @@ document (`progress-report-redesign.md` §1) and are not in scope.
 ## Done
 
 ERI and ZAF were the pilots. This pass has since added, in order: **GNB, AGO, BDI, BEN, BFA, BWA,
-CAF, CIV, CMR, COD, COG, COM, CPV, DJI, DZA, EGY, ETH, GAB, GHA, GIN, GMB, GNQ, KEN, LBR, LBY, LSO, MAR, MDG, MLI, MOZ, MRT, MUS, MWI, NAM, NER, NGA** — 38 of 54, one commit each, all pushed.
+CAF, CIV, CMR, COD, COG, COM, CPV, DJI, DZA, EGY, ETH, GAB, GHA, GIN, GMB, GNQ, KEN, LBR, LBY, LSO, MAR, MDG, MLI, MOZ, MRT, MUS, MWI, NAM, NER, NGA, RWA** — 39 of 54, one commit each, all pushed.
 
 Yields so far, as a sense of shape: 21 indicators from GNB's 25 ledger rows, 43 from BDI's 74, 52
 from BWA's 107, 57 from BEN's 105, 64 from BFA's 131, 66 from AGO's 122, 43 from CAF's 92, 92 from
-CIV's 167, 73 from CMR's 121, 67 from COD's 123, 52 from COG's 103, 45 from COM's 117, 49 from CPV's 140, 43 from DJI's 70, 58 from DZA's 111, 66 from EGY's 199, 66 from ETH's 97, 58 from GAB's 120, 81 from GHA's 175, 59 from GIN's 109, 46 from GMB's 75, 42 from GNQ's 67, 93 from KEN's 219, 43 from LBR's 71, 64 from LBY's 84, 61 from LSO's 69, 79 from MAR's 137, 44 from MDG's 67, 55 from MLI's 87, 77 from MOZ's 159, 39 from MRT's 62, 50 from MUS's 81, 65 from MWI's 183, 62 from NAM's 134, 42 from NER's 68, 92 from NGA's 279. Between three quarters and nine tenths of ledger rows map; the rest are placeholders with
+CIV's 167, 73 from CMR's 121, 67 from COD's 123, 52 from COG's 103, 45 from COM's 117, 49 from CPV's 140, 43 from DJI's 70, 58 from DZA's 111, 66 from EGY's 199, 66 from ETH's 97, 58 from GAB's 120, 81 from GHA's 175, 59 from GIN's 109, 46 from GMB's 75, 42 from GNQ's 67, 93 from KEN's 219, 43 from LBR's 71, 64 from LBY's 84, 61 from LSO's 69, 79 from MAR's 137, 44 from MDG's 67, 55 from MLI's 87, 77 from MOZ's 159, 39 from MRT's 62, 50 from MUS's 81, 65 from MWI's 183, 62 from NAM's 134, 42 from NER's 68, 92 from NGA's 279, 69 from RWA's 128. Between three quarters and nine tenths of ledger rows map; the rest are placeholders with
 no source, or real instruments the frame has no question for (a telecoms statute, a broadcasting
 transition), and those correctly stay on the ledger and out of the report.
 
 ## Remaining
 
-16 country units: RWA, SDN, SEN, SLE, SOM, SSD, STP, SWZ, SYC, TCD, TGO, TUN, TZA, UGA, ZMB, ZWE.
+15 country units: SDN, SEN, SLE, SOM, SSD, STP, SWZ, SYC, TCD, TGO, TUN, TZA, UGA, ZMB, ZWE.
 
 ## The loop, per unit
 
@@ -684,3 +684,36 @@ expressions; this one hit a possessive plural — `parties' digital rights` — 
 `L()` label. Same cause, same fix: triple-quote the label. Reading slugs through `S(row_id, index)`
 still makes slug typos impossible, but it does nothing for the label text, which is where every
 remaining syntax error in this pass has come from.
+
+## What RWA added, 2026-08-27
+
+128 ledger rows, **every one of them sourced** — the first unit in the pass with no unsourced
+placeholders at all. So the 100 per cent mapping here means something different from NGA's: there was
+no residue to clear, only rows to place. 69 indicators.
+
+**The unit's defining feature is that the instruments are not published, and the cells have to say
+so.** The ICT sector plan is held as front matter; the data-sharing policy's seven annexes are
+absent; the data protection Act's text and law number are not held; the single digital identification
+law's number and enactment date are not held; the DPI strategy document is not held; the payments
+directive is absent from the central bank's own enumerated document library and two sources give it
+different issue dates; both licence-passporting memoranda are unpublished; the health data-sharing
+arrangement is known only through one rights organisation's reading of it. The temptation is to
+paraphrase the secondary summary and let it stand as the instrument. **The rule that held: state the
+claim, then state that the text behind it is not held, in the same cell.** A reader who cannot check
+a summary needs to be told they cannot, and it is a finding about the country rather than a gap in
+the base — a government that announces and summarises but does not publish.
+
+**Ledger rows here carry no `start` or `end` text at all — only `milestone` and `note`.** That
+changes the drafting: there are almost no figures to place, so check H barely bites (one defect in
+the whole unit) and the prose runs on dates, sequence and attribution instead. Where a figure does
+appear it is almost always in a `note` and almost always someone's own — the correction rate is the
+directorate's, the inclusion figure is the minister's, the health-centre latency claims are the
+partner's, the operator results are the operator's. Naming whose figure it is did most of the
+analytical work in this unit.
+
+**Two appropriation findings were worth carrying across cells rather than burying in one.** The
+data-protection supervisory authority is funded at about US$114,000 and held flat; the cyber
+standards and skills line executed at 11.5 per cent; the national identification line outturned at
+140.7 per cent. Read together they say which parts of the digital agenda the fisc actually funds, and
+that reading only exists because the cells for protection, cybersecurity and identity each state
+their own line. Worth repeating in any unit whose ledger carries finance-law rows.
