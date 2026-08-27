@@ -1,11 +1,11 @@
 ---
 title: Nigeria — monthly update, July – August 2026
-compiled: 2026-08-26
-period: 2026-07-01 to 2026-08-26
+compiled: 2026-08-27
+period: 2026-07-01 to 2026-08-27
 place: NGA
-ledger_rows: 152
+ledger_rows: 161
 not_held: 9
-record: 9f23dad7de18
+record: b7eb52e8b0c2
 ---
 
 # Nigeria: monthly update, July – August 2026
@@ -254,4 +254,9 @@ An inclusive-data initiative brought the national statistics office into a five-
 
 <!-- narrative: geopolitics--geopol-usa -->
 The month's hyperscaler activity is a renewal rather than a new commitment. Google [gave students at accredited Nigerian universities, polytechnics and colleges of education twelve months of its AI Plus plan free, a subscription it prices at ₦92,400 (US$68.56)](https://techcabal.com/2026/08/20/google-is-giving-nigerian-students-a-year-of-free-ai-access/), the second consecutive year of the offer and one of 27 Sub-Saharan rollouts, with eligibility verified through a third-party enrolment-checking platform. No cohort figure is published for Nigeria, and the take-up of the equivalent 2025 offer is not stated, so the programme's reach is unmeasured at both ends.
+<!-- /narrative -->
+### EU activities
+
+<!-- narrative: geopolitics--geopol-eu -->
+The European Union [committed EUR 820m to the digital sector](https://www.thisdaylive.com/2026/08/20/eu-commits-e820m-to-support-digital-ecosystem-lauds-nigerias-national-innovation-hub-standard-framework/) at the Abuja workshop that validated a national innovation hub standards framework, which would set one standard across the country's hubs. The envelope is stated at a workshop rather than in an instrument, the framework is validated rather than adopted, and neither carries a disbursement schedule or a hub count.
 <!-- /narrative -->
