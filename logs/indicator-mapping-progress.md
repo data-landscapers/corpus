@@ -17,17 +17,17 @@ document (`progress-report-redesign.md` §1) and are not in scope.
 ## Done
 
 ERI and ZAF were the pilots. This pass has since added, in order: **GNB, AGO, BDI, BEN, BFA, BWA,
-CAF, CIV, CMR, COD, COG, COM, CPV, DJI, DZA, EGY, ETH, GAB, GHA, GIN, GMB, GNQ, KEN, LBR, LBY, LSO, MAR, MDG, MLI, MOZ, MRT, MUS, MWI, NAM, NER, NGA, RWA, SDN, SEN, SLE, SOM, SSD** — 44 of 54, one commit each, all pushed.
+CAF, CIV, CMR, COD, COG, COM, CPV, DJI, DZA, EGY, ETH, GAB, GHA, GIN, GMB, GNQ, KEN, LBR, LBY, LSO, MAR, MDG, MLI, MOZ, MRT, MUS, MWI, NAM, NER, NGA, RWA, SDN, SEN, SLE, SOM, SSD, STP** — 45 of 54, one commit each, all pushed.
 
 Yields so far, as a sense of shape: 21 indicators from GNB's 25 ledger rows, 43 from BDI's 74, 52
 from BWA's 107, 57 from BEN's 105, 64 from BFA's 131, 66 from AGO's 122, 43 from CAF's 92, 92 from
-CIV's 167, 73 from CMR's 121, 67 from COD's 123, 52 from COG's 103, 45 from COM's 117, 49 from CPV's 140, 43 from DJI's 70, 58 from DZA's 111, 66 from EGY's 199, 66 from ETH's 97, 58 from GAB's 120, 81 from GHA's 175, 59 from GIN's 109, 46 from GMB's 75, 42 from GNQ's 67, 93 from KEN's 219, 43 from LBR's 71, 64 from LBY's 84, 61 from LSO's 69, 79 from MAR's 137, 44 from MDG's 67, 55 from MLI's 87, 77 from MOZ's 159, 39 from MRT's 62, 50 from MUS's 81, 65 from MWI's 183, 62 from NAM's 134, 42 from NER's 68, 92 from NGA's 279, 69 from RWA's 128, 29 from SDN's 52, 55 from SEN's 115, 40 from SLE's 83, 37 from SOM's 60, 44 from SSD's 74. Between three quarters and nine tenths of ledger rows map; the rest are placeholders with
+CIV's 167, 73 from CMR's 121, 67 from COD's 123, 52 from COG's 103, 45 from COM's 117, 49 from CPV's 140, 43 from DJI's 70, 58 from DZA's 111, 66 from EGY's 199, 66 from ETH's 97, 58 from GAB's 120, 81 from GHA's 175, 59 from GIN's 109, 46 from GMB's 75, 42 from GNQ's 67, 93 from KEN's 219, 43 from LBR's 71, 64 from LBY's 84, 61 from LSO's 69, 79 from MAR's 137, 44 from MDG's 67, 55 from MLI's 87, 77 from MOZ's 159, 39 from MRT's 62, 50 from MUS's 81, 65 from MWI's 183, 62 from NAM's 134, 42 from NER's 68, 92 from NGA's 279, 69 from RWA's 128, 29 from SDN's 52, 55 from SEN's 115, 40 from SLE's 83, 37 from SOM's 60, 44 from SSD's 74, 27 from STP's 49. Between three quarters and nine tenths of ledger rows map; the rest are placeholders with
 no source, or real instruments the frame has no question for (a telecoms statute, a broadcasting
 transition), and those correctly stay on the ledger and out of the report.
 
 ## Remaining
 
-10 country units: STP, SWZ, SYC, TCD, TGO, TUN, TZA, UGA, ZMB, ZWE.
+9 country units: SWZ, SYC, TCD, TGO, TUN, TZA, UGA, ZMB, ZWE.
 
 ## The loop, per unit
 
@@ -879,3 +879,34 @@ together is the mapping's contribution.
 `developments` — the first time in this pass. A single-row cell about a ministerial visit genuinely
 has little to say; the fix was to state what it is *against* (untendered backbone, consultant-led
 spectrum strategy, privately operated gateway), which is analysis rather than padding.
+
+## What STP added, 2026-08-27
+
+36 sourced rows of 49, 27 indicators. Seventh unit running with nothing unmapped, and **the first
+with a clean pre-lint on the first attempt** — the ledger carries almost no figures, so check H had
+nothing to bite on. Worth knowing: the defect rate tracks the ledger's figure density, not the unit's
+size or difficulty.
+
+**Name the evidential condition when it is the finding.** Here one lender mission report of September
+2025 is the sole source for four separate items — the identification law, the submarine cable, the
+incident response team, the business registry diagnostic — and the same lender's project finances the
+digital identity, the citizen portal, the interoperability platform, the response team and the data
+centre. The finance cell says that concentration outright. Writing each item as if independently
+evidenced would have made a thinly-sourced programme look like five programmes.
+
+**A superseded model is a substantive finding, not a footnote.** The 2016 data-protection law is
+modelled on a European directive Europe itself replaced in 2018. The cell says so and says what
+follows: the regime the authority enforces is two generations behind the standard its own cooperation
+partners work to. That reading is available from the ledger note and vanishes under a neutral
+summary.
+
+**A specific failure sometimes carries a general lesson — state both.** The first automatic electoral
+roll derived from the civil registry missed about 1,860 eligible voters, because the derivation
+reproduced the source register's own omissions. The cell states the incident and the lesson:
+automating a derivation inherits the source's gaps. That is the kind of sentence the frame exists to
+produce.
+
+**Record an unusual governance arrangement as unusual.** The data-protection authority was assigned to
+supervise the registry-to-electoral-database interconnection at the point it went live — the only
+such assignment seen in this pass. Saying "the only instance in this base" is a claim about the
+corpus, so make it only when the pass actually supports it.
