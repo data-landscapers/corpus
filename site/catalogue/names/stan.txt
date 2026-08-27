@@ -38,6 +38,7 @@ Annexure-VII. STANDARDS PILLAR GUIDANCE NOTES ARTIFACTS	10721
 Appendix D Nigerian National Addressing Standard	11129
 Application-layers Control and Standards Test	5773
 Artificial Intelligence Index Report. Stanford University	2816
+Assessing Legal Standards	11662
 Assurance and Standards	899
 Attributes Standardisation Process	8606
 Auditor-General and Standing Committee	11285
@@ -115,6 +116,7 @@ Compulsory Standards	1988
 Computer Standards	8605
 Confidential Asset Standard Comment Rationale Data	9124
 Confidential Asset Standard Comment Rationale Framework	9124
+Consolidated Standards of Reporting Trials	11585
 Consultant Dr. Bouaki Stanislas	5221
 Core Curriculum and Minimum Academic Standards	8710
 Corporate Ethics Standard	11134
@@ -159,6 +161,7 @@ Digital Service Standards	11216
 Digital Standards	8610
 Direct Award Grant ICT Standardisation	1458
 Direct Award Grant ICT Standardisation European	1458
+Directorate of Stan	11550
 Disclaimer ABOUT THE RESEARCH The Stanbic	5247
 Dispensing Standards	9855
 Do We Stand	11140
@@ -169,6 +172,7 @@ Dr. Stanley Shanapinda	5926,3366
 EMAIL ETIQUETTE STANDARDS AND GUIDELINES	34
 EQUIPMENT SPECIFICATIONS STANDARDS AND GUIDELINES	34
 EQUIPMENT SPECIFICATIONS STANDARDS AND GUIDELINES Guidelines	34
+ESS Environmental and Social Standards EU European	11560
 Econet Life Stands Fund Land Stand	4896
 Education Standards and Quality Assurance Council	899
 Education Standards and Quality Assurance and Inclusion	899
@@ -262,6 +266,7 @@ Health STANDARDS AND GUIDELINES The Ministry	34
 Highest Attainable Standard of Health	3583
 Hon. Stanley Adedeji Olajide	6536
 Hon. Stanley Olajide	6536
+Households Living Standards	11549
 Humano de Stanford	2816
 I Objectives and Standards	5132
 IAASB International Auditing and Assurance Standards Board	11380
@@ -276,6 +281,8 @@ IEEE Standard Computer Glossorles	1009
 IFMIS STANDARDS AND GUIDELINES	34
 IFMIS STANDARDS AND GUIDELINES The Integrated	34
 IFRS Accounting Standards	7204,2707,882
+IMF Data Standards Initiatives	11554
+IMF's Dissemination Standards Bulletin Board	11554
 INDIVIDUAL RIGHTS AND LEGAL STANDING	3861
 INTERNATIONAL INTEGRATION AND COMPARATIVE STANDARDS	3861
 INTERNATIONAL INTEGRATION AND COMPARATIVE STANDARDS Recital	3861
@@ -313,7 +320,7 @@ International Standard	4896,5897,336
 International Standard Classification of Activities	236
 International Standard IS0	11179
 International Standard Industrial Classification	236,10916
-International Standards	236,663,2152,553,1292,1536,514,3847,36,571
+International Standards	236,663,2152,553,1292,1536,514,3847,36,571,125
 International Standards Certificates	6432
 International Standards Certificates. All	6432
 International Standards Organisation	9239
@@ -346,7 +353,7 @@ Legal Standing Any	3861
 Level Seven HIS Health Normative Standards	1009
 Leveraging Standard Bank’s African	10459
 Liberia Standards Authority LISGIS	5244
-Living Standards Measurement Study	1219
+Living Standards Measurement Study	1219,10353,9
 Locus Standi	1919
 MANDATORY IMPLEMENTATION STANDARDS	3861
 MEDIA COPYRIGHT STANDARDS AND GUIDELINES	34
@@ -395,6 +402,7 @@ Naming Convention Standards	9124
 Nation Address SOP Standard Operating Procedure	11197
 National Addressing Standard	11129
 National Assembly Standing Orders	2742,7571
+National Building Regulations and Building Standards Act	11573
 National Cybersecurity Standards	3861
 National Health Normative Standards Framework	11252
 National Health Normative Standards Framework NPO	11252
@@ -430,7 +438,9 @@ OASIS Standard ITI TF-2b	1009
 OASIS Standard OASIS Web Services Notification	1009
 OASIS Standard WS-Brokered Notification	1009
 OASIS Standard WS-Topics	1009
+OECD Common Reporting Standard	11685
 OECD and EU Standards	9204
+OECD's Common Reporting Standard	11685
 OGP Participation and Co-Creation Standards	9022,1984
 OMNIBSIC PRUDENTIAL BANK STANBIC BANK UBA	11002
 OWASP Application Security Verification Standard	5665
@@ -500,6 +510,7 @@ Report of Standing Committee	11285
 Reporting Standard IPAS Industrial Property Automation	11250
 Revenue Allocation Standards and Guidelines	9939
 Review Summary ESS Environmental and Social Standards	11380
+Revised Common Reporting Standard	11685
 Revised STANDARDS	11269
 Rockefeller Foundation and Stanford	942
 Rubavu Societe Petroliere Bugesera Standard Gas	718
@@ -509,9 +520,10 @@ Rwanda Standard Board	9123
 Rwanda Standards	9123
 Rwanda Standards Board	1534,7589
 Rwanda Standards Board. Receptacles	9123
-S Standards Relevance ESS	1867,4672,4229,649
+S Standards Relevance ESS	1867,4672,4229,649,143
 S Standards Relevance Relevant ESS	3604
 SADC Standing Committee of Senior Officials	9761
+SBD Standard Bidding Document SPS Social	11525
 SC-AGC Standing Committee	11184
 SCHEDULE OECD STANDARD FOR AUTOMATIC EXCHANGE	11233
 SCOPE The Minimum Interoperability Standard	11184
@@ -572,6 +584,7 @@ Social SES Social and Environmental Standard	11390
 Social Standards GBV Financial Management GDP	10964
 Solutions Stanbic Bank’s Africa China Trade	5247
 Somalia Starts Review of Higher Education Standards	11150
+Somalia. Health Management Information System Standard	11596
 South Africa Standard Bank	498
 South Africa. Standard Bank	5806
 South African Bureau of Standards	396,10873
@@ -613,13 +626,15 @@ Stand Victoria	4896
 Stand da Mercury Beyond Connection	6617
 Stand da Mercury Beyond Connection Gaspar	7667
 Stand da UNITEL Nelson Malamba	11031
+Stand-alone	11572
+Stand-alone Mini	11572
 Standaardbedryfsprosedures	11190
 Standalone	582,5083,10,4000
 Standalone AI	5463
 Standalone Estratégia Nacional de Saúde Digital	7707
 Standalone National Digital Health Strategic Plan	7707
 Standalone YTD Retail Volumes	7446
-Standard	21,13,12,1,35,297,630,114,31,484,288,58,4,267,311,102,220,32,354,52,452,83,237,577,240,84,132,1,23,57,10,122,1,65,70,60,18,450,43,35,13,6,74,26,35,4,1,179,242,116,1,102,7,54,1,67,32,101,160,51,64,1,125,15,323,100,19,13,283,112,149,308,253,6,516,294,92,69,57,138,18,348,313,1,5,17,132,5,46,4,49,26,51,76
+Standard	21,13,12,1,35,297,630,114,31,484,288,58,4,267,311,102,220,32,354,52,452,83,237,577,240,84,132,1,23,57,10,122,1,65,70,60,18,450,43,35,13,6,74,26,35,4,1,179,242,116,1,102,7,54,1,67,32,101,160,51,64,1,125,15,323,100,19,13,283,112,149,308,253,6,516,294,92,69,57,138,18,348,313,1,5,17,132,5,46,4,49,26,51,76,299
 Standard Bank	378,604,421,26,6,1621,379,10,596,12,120,288,363,260,163,286,58,215,1064,5,464,160,259,268,425,304,838,109,18,176,130,163,265,5,213,134,369
 Standard Bank ATMs	6996
 Standard Bank Africa Trade Barometer	6870,1156,2602
@@ -665,7 +680,8 @@ Standard Bank. Fund	912
 Standard Bank’s African	10459
 Standard Bank’s Export Readiness Programme	9720
 Standard Bank’s Southern African	11134
-Standard Bidding Documents	11209
+Standard Bid Evaluation Forms	11525
+Standard Bidding Documents	11209,316
 Standard British Plug for Systems Unit	34
 Standard Chart of Accounts. Systems	9939
 Standard Chartered	5910,3241,555
@@ -705,13 +721,14 @@ Standard MtM FTTH	11259
 Standard No	11269
 Standard No. and Edition Title Reason	11269
 Standard Official Use Only Page	11417
+Standard Operating Practices	11553
 Standard Operating Procedure	1000,9721
 Standard Operating Procedure CCMP.S6	10721
 Standard Operating Procedures	396,758,130,270,434,5416,3317,469,62,165
 Standard Prepaid Data Bundles	11259
 Standard Prepaid Data Bundles Prices and OOB	11259
 Standard Price	11259
-Standard Procurement Documents	1867
+Standard Procurement Documents	1867,9658
 Standard Request for Proposals	10964
 Standard Room	9031
 Standard Scale	1333
@@ -758,7 +775,7 @@ Standardized Electronic	9855
 Standardized Items	11129
 Standardized Levels of Assurance	10819
 Standardized Monitoring and Assess	10841
-Standards	11,10,13,966,237,587,164,739,324,663,139,8,81,184,76,166,848,312,148,1,234,512,505,18,374,228,223,754,145,453,283,553,484,120,201,55,330,35,38,149
+Standards	11,10,13,966,237,587,164,739,324,663,139,8,81,184,76,166,848,312,148,1,234,512,505,18,374,228,223,754,145,453,283,553,484,120,201,55,330,35,38,149,153
 Standards Act	1988,5560,3721
 Standards Act. Draft Standard No. and Edition	11269
 Standards Act. Standard No	11269
@@ -768,6 +785,7 @@ Standards Association of Zimbabwe	4528
 Standards Certification	11184
 Standards Certification Responsibilities	11184
 Standards DC PUE	6432
+Standards EU European Union FCS Fragile	11549
 Standards Emerging Technologies	7548
 Standards Followed	1686
 Standards IPv4 Internet Protocol	6946
@@ -777,7 +795,7 @@ Standards International Organisation for Alignment	961
 Standards Mandatory	5665
 Standards Manual	11132
 Standards OASIS Web Services Notification Family	1009
-Standards Relevance Given	1867,121,1574,42,2935,4229,649
+Standards Relevance Given	1867,121,1574,42,2935,4229,649,143
 Standards Selection Principles	11184
 Standards Service	5676
 Standards WS- Base Notification	1009
@@ -847,6 +865,7 @@ StantlJl	1009
 Stany Ngendakumana	9175
 Stany Ngendakumana. Il	9175
 Statistical Standards	11237
+Still Stands Between Cameroon	11728
 Strategy NIST U.S. National Institute of Standards	1777
 Strengthening Rwanda Industrial Standardisation ICT Capacity	1534
 Sub-Saharan Africa. Standing	1396
@@ -894,6 +913,7 @@ World Bank Standards and Key Gaps	1988
 World Bank's Environmental and Social Standards	1988
 World Bank's Environmental and Social Standards and Burkina	7251
 World Bank’s Standard Bidding Documents	10964
+World Bank’s Standard Procurement Documents	11525
 World Bank’s Standard Request for Proposals	10964
 ZABS Standards	1988
 ZAM Act. Zambia Compulsory Standards Agency	1988

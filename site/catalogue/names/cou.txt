@@ -1,6 +1,9 @@
-A. Country Context	969,295,603,1737,2935,4229,61,135,416,37
+A. Country	11549
+A. Country Context	969,295,603,1737,2935,4229,61,135,416,37,108,35
 A. Every Council	6921
 A. The Participating Countries	1914
+ACCESS TO ELECTRICITY IN COUNTRIES	11572
+ACCESS-DEFICIT COUNTRIES	11572
 ACP Countries Computer Crime and Cybercrime	26
 ACP Countries Data Protection	27
 ACP Countries European Commission	470
@@ -13,7 +16,9 @@ AI Council	4030,15,1869,1634,2389
 AI County AI	7548
 AI Ethics and Regulatory Sandbox Council	9030
 AI Strategic Council	11154
+AI-powered Smart Court System	11607
 AI. Countries	7952
+AI. Courts AI	11607
 ALL COUNTRIES Safety and Affordability Connectivity Safety	11004
 AMANI COUNSELLING CENTRE AND TRAINING INSTITUTE	7167
 AMERICA UNSERT COUMTPY NAME	3972
@@ -46,6 +51,7 @@ Account CCSS Counter Corruption and Security Services	5533
 Accra High Court	7695
 Accra High Court. Apparently	3752
 Acronymsp.16 Country	10838
+Across Egypt’s Courts Eng. Raafat Hindi	11641
 Act MINMEC Minister and Members of Executive Council	11261
 Act of Parliament- County Statistical Office	2775
 Act. Counsel	3005
@@ -109,6 +115,7 @@ African Court	961
 African Development Bank Country Strategy Paper	8574
 African Development Bank Nigeria Country Department	5351
 African Development Bank's Country Manager for Mozambique	10219
+African Development Bank. Guinea-Bissau Country	11525
 African Digital Ministers’ Council	8541
 African Least Developed Countries	273,841
 African Medical Research Council IHE Integrating	396
@@ -150,6 +157,7 @@ Annual Statistical Abstract and County Statistical	2775
 Another Atlantic Council	8495
 Anti- Money Laundering and Counter Terrorist Financing	3583
 Anti-Money Laundering and Counter Financing of Terrorism	5131
+Any Member State. the Council of Ministers	11517
 Arab Council of Ministers Responsible for Cybersecurity	3948
 Arab Countries	2958
 Arab Economic Unity Council	8133
@@ -165,6 +173,7 @@ Artificial Intelligence for Low Income Countries	11140
 Association of Medical Councils of Africa	10523,805
 Association of Nigerian Courier Operator	11129
 Association of Nigerian Courier Operators	11129
+Association. I. STRATEGIC CONTEXT A. Country	11549
 Assuming the Council’s Chairpersonship	7142
 Aswa County	10890
 Atlantic Council	5252,1351,1892
@@ -176,6 +185,7 @@ Atlantic Council’s Digital Forensic Research Lab	5252
 Atlantic Council’s GeoEconomics Center	7711
 Atlas Countries Support	287
 Attorney General. Court	6796
+Auditor General and Türkiye’s Court of Accounts	11637
 Aug-2025 Country Director	3456
 Authority Kwale County	6946
 Authority Tharaka Nithi County	6946
@@ -192,6 +202,8 @@ BETTER SUPPORT TO COUNTRIES Relatório Anual	10776
 BILLION Total Courier Traffic	9781
 BOMET COUNTY PUBLIC SERVICE BOARD Data	7167
 BOXLEO COURIER	7167
+BRICS Youth Council	11664
+BRICS Youth Council Meeting and BRICS Youth	11664
 BUMULA SUB COUNTY HOSPITAL Data Controller	7167
 BUMULA SUB COUNTY HOSPITAL Data Processor	7167
 BUNGOMA COUNTY REFERRAL HOSPITAL Data Controller	7167
@@ -239,6 +251,7 @@ Burkina Faso's Country Strategy Paper	6091
 Busia County	10313
 Business Could EPRA’s Ksh5	9940
 Busongora County North MP	10890
+CAP Common Alerting Protocol CHD Country	11553
 CAR Central African Republic CPF Country	2889
 CAR Country Climate and Development Report	2889
 CAR Country Partnership Framework	10829
@@ -283,9 +296,11 @@ COUNTIES IN KENYA	1638
 COUNTIES IN KENYA KoTDA	1638
 COUNTIES SHOULD DO NOW Assess	9939
 COUNTRIES	4883
+COUNTRIES IN SUPPORT OF CLEAN ENERGY	11572
 COUNTRY	573,655,9591
 COUNTRY CLOCK KENYA LIMITED Data Processor	7167
 COUNTRY CONTEXT Zimbabwe	940
+COUNTRY HYDROMET	11553
 COUNTRY LOCAL DPI USE-CASE EVALUATION APPROACH	10852
 COUNTRY LODGE BAR AND RESTAURANT LIMITED	7167
 COUNTRY NAME	5352
@@ -329,13 +344,16 @@ COVID-19 Country Report	11224
 CPA Complementary Package of Activities CPF Country	10829
 CPF Country Partnership Framework CPIA Country	969
 CPF Country Partnership Framework CPS Country	11380
-CPF Country Partnership Framework DA Designated	1867
+CPF Country Partnership Framework CSF Climate	11549
+CPF Country Partnership Framework DA Designated	1867,9658
 CRA Gazettes Standards and Guidelines for County Own-source	9939
 CRP.5 Council	3583
 CRP.5 County	3583
 CSD Central Supplier Database CSIR Council	5533
 CSF Community Safety Forum CSIR Council	11188
 CSPS and High Courts	10812
+Cairo Court of Appeal	11641
+Cairo Court of Appeal President	11641
 Cameroon A Xalam Analytics Country Report	10995
 Cameroon Country Profile	10841
 Cameroon Urges North West Councils	7336
@@ -360,12 +378,14 @@ Chamber of Councillors	4361,1
 Chief Registrar Supreme Court of Nigeria	1014
 Children's Court	7147,4030
 Chinese Language Council	2518
+Citizens’ Rights Counselor Mahmoud Helmy El-Sherif	11641
 City Council	2685,2,359,262,15,119,65,590,447,96,374,93,240
 City Councils	1988
 City County NCCAP National Climate Change	2775
 Civil Council Against All Forms of Discrimination	8811
 Clerk of Court	4896
 Climate Risk Country Profile	3456
+Clinical Officers Council of Kenya	11585
 Code System Countries	6666
 Codes for Representation of Names of Countries	11179
 College of Health Sciences Medical Research Council	21
@@ -387,7 +407,8 @@ Committees of Council	11178
 Communique of Peace and Security Council	1814
 Community AI Councils	4528
 Community Court of Justice	7452
-Community of Portuguese Language Countries	6778
+Community of Portuguese Language Countries	6778,4767
+Community of Portuguese Speaking Countries	11553
 Community of Portuguese-Speaking Countries	10188
 CommunityBased Voluntary Counselling	11134
 Company for Developing Countries	1419
@@ -436,12 +457,15 @@ Coulibaly Félix	7807
 Coulibaly Nibé Kolo Issa	6109,1013
 Coulibaly Nibé Kolo Issa. Leur	6095
 Coulibaly Sériba	2753
+Coulibaly Talnan Jean Honoré	11700
 Coulibaly Vally	3449
 Coulson Harney LLP Data Controller INST-375721AE361	7167
 Coulson Harney LLP Data Processor INST-375721AE361	7167
 Coumba Diop	10944
 Coun-	8301
-Council	7,134,444,373,196,66,23,292,19,223,187,24,129,202,114,305,845,119,89,70,126,43,96,1,308,93,47,101,220,350,11,265,303,308,12,34,25,52,221,39,2,13,301,89,25,23,48,64,61,178,122,6,3,1,20,22,54,111,104,58,11,13,93,149,156,106,393,22,34,269,61,102,57,49,90,11,324,23,104,49,54,255,101,472,187,44,51,28,6,19,1,1,22,4,16,3,30,6,18,10,10,14
+Coun0	11572
+CounCil of Ministers	11517
+Council	7,134,444,373,196,66,23,292,19,223,187,24,129,202,114,305,845,119,89,70,126,43,96,1,308,93,47,101,220,350,11,265,303,308,12,34,25,52,221,39,2,13,301,89,25,23,48,64,61,178,122,6,3,1,20,22,54,111,104,58,11,13,93,149,156,106,393,22,34,269,61,102,57,49,90,11,324,23,104,49,54,255,101,472,187,44,51,28,6,19,1,1,22,4,16,3,30,6,18,10,10,14,228,147,40
 Council Act OAG Office	6432
 Council Advisory Committee	3583
 Council Board	1154
@@ -497,17 +521,19 @@ Council of Foreign Relations	8788,2366
 Council of Governors	745,7472,1635,87,374,328,606
 Council of Governors' Maarifa Centre	5134
 Council of ICT Ministers	10073
-Council of Ministers	7,738,17,443,66,310,218,165,162,180,45,55,136,510,176,18,348,12,132,123,16,48,436,1,40,18,15,140,214,47,93,139,293,56,358,191,100,116,10,139,46,7,56,3,31,495,93,29,361,86,394,810,1,26,194,463,322,1006,21,4,33,373
+Council of Ministers	7,738,17,443,66,310,218,165,162,180,45,55,136,510,176,18,348,12,132,123,16,48,436,1,40,18,15,140,214,47,93,139,293,56,358,191,100,116,10,139,46,7,56,3,31,495,93,29,361,86,394,810,1,26,194,463,322,1006,21,4,33,373,332,28,24,38,115
 Council of Ministers Department for Science	11135
 Council of Ministers No	10765,10
 Council of Ministers Regulation	762
 Council of Ministers Resolution	3861
 Council of Ministers Resolution No	7624
 Council of Ministers Responsible for Trade	7142
+Council of Ministers Shall	11517
 Council of Ministers View Profile	5775
 Council of Ministers' Communiqué No	10930
 Council of Ministers. A National AI Commission	6377
 Council of Ministers. PART FOUR CYBERSECURITY SERVICE	7538
+Council of Ministers. So	11555
 Council of Ministers. Strengthening	8647
 Council of Ministers. Upon	745
 Council of Patriots for Democracy	6122
@@ -536,11 +562,17 @@ Councils Leaders of Provincial Legislatures Fellow South	11215
 Councils. Research	1154
 Councilwoman Márcia Moiane	10219
 Council’s Bureau	7142
+Councit of Ministers African Integration. Franrophony	11517
 Councl of Ministers	7538
 Counsel	3005,7959
 Counsel Fatma Shaban	9188
+Counsel Oounsel LEGEN Extended Team Name	11525
 Counsel for Plaintiff	5692
 Counselling	9855
+Counselor Magdy Kassem	11641
+Counselor Mahmoud Helmy El-Sherif	11641
+Counselor Mohamed Ghorab	11641
+Counselor Rabie Labana	11641
 Count	10964
 Count Charge Against Three Suspects	2355,176,4,1,56,3,339,96,901,1006,1761,673
 Count Down Announcements	8999
@@ -569,6 +601,7 @@ Countering Xenophobia	9682
 Countering the Financing of Terrorism	789,10347
 Counterpart	2218
 Counterpart Funding	1264,9504
+Counterpart Funds Parallel Funding Financing	11525
 Counterparty	5863
 Counterpoint Research	9015
 Counterpoint Research. Coherent and Lumentum	8921
@@ -581,7 +614,7 @@ Counterterrorism Unit	783
 Counties	1638,1137,3657,514,602,2391
 Counting	1431,5306,1246,199,1226,629,1155
 Counting President Bio Gains	8115
-Countries	177,49,65,101,10,26,67,21,57,22,2,51,123,18,31,1,15,55,1,2,42,6,19,87,98,97,21,255,9,21,15,250,14,65,95,227,342,74,46,5,52,41,386,813,75,101,109,98,11,222,217,18,81,178,30,96,6,26,5,5,29,126,56,87,132,9,9,16,194,146,97,33,151,256,58,17,1,20,19,24,58,258,12,4,87,22,164,208,3,130,287,43,38,97,32,20,231,124,79,41,10,33,179,95,132,50,92,172,176,7,19,44,62,18,45,264,5,5,110,576,55,3,18,4,4,4,4,129,6,11,14,113,4,2,14,5,42,160,61
+Countries	177,49,65,101,10,26,67,21,57,22,2,51,123,18,31,1,15,55,1,2,42,6,19,87,98,97,21,255,9,21,15,250,14,65,95,227,342,74,46,5,52,41,386,813,75,101,109,98,11,222,217,18,81,178,30,96,6,26,5,5,29,126,56,87,132,9,9,16,194,146,97,33,151,256,58,17,1,20,19,24,58,258,12,4,87,22,164,208,3,130,287,43,38,97,32,20,231,124,79,41,10,33,179,95,132,50,92,172,176,7,19,44,62,18,45,264,5,5,110,576,55,3,18,4,4,4,4,129,6,11,14,113,4,2,14,5,42,160,61,146,9,37
 Countries Countries	6671
 Countries EDGI	10840
 Countries GSMA	10819
@@ -595,7 +628,7 @@ Countries. Beyond	6203
 Countries. Out	5508
 Countries. Washington	10997
 Countrv. Postal	11180
-Country	236,76,106,113,42,145,53,18,173,161,38,55,13,32,3,13,79,6,103,176,17,160,49,10,111,673,154,346,295,106,21,21,258,265,88,38,46,541,132,262,115,424,252,45,381,37,178,103,165,3,26,167,913,403,281,164,176,95,103,134,42,162,1,168,9,407,227,186,158,5,1,3,7,37,7,3,4,3,6,2,1,18,6,3,47,42,10,4,161,64,2,81,129,12,52,1,10
+Country	236,76,106,113,42,145,53,18,173,161,38,55,13,32,3,13,79,6,103,176,17,160,49,10,111,673,154,346,295,106,21,21,258,265,88,38,46,541,132,262,115,424,252,45,381,37,178,103,165,3,26,167,913,403,281,164,176,95,103,134,42,162,1,168,9,407,227,186,158,5,1,3,7,37,7,3,4,3,6,2,1,18,6,3,47,42,10,4,161,64,2,81,129,12,52,1,10,45,25,3,7,10,2,178
 Country Access Rate	11136
 Country Analyses And Plans	899
 Country Argentina Brazil Chile Uruguay Colombia	11135
@@ -622,7 +655,7 @@ Country Diagnostic for CAR	969
 Country Diagnostic for Madagascar	172
 Country Diagnostic for South Sudan	7644
 Country Dialogues and Country Strategy Paper	7784
-Country Director	1228,686,2132,607,3721,418,1971,200
+Country Director	1228,686,2132,607,3721,418,1971,200,582
 Country Director Carlos Felipe Jaramillo	579
 Country Director Chon Gyong Shik	770
 Country Director Jomoke Jagun-Dokunmu	579
@@ -642,8 +675,11 @@ Country Figure	4972
 Country Focus Report	8574
 Country Growth	7655
 Country Head for Benin	3255
+Country Hydromet Diagnostics	11553
+Country Hydromet Diagnostics Element	11553
 Country Index	969
 Country Index Technical Report	3456
+Country Indicators	11762
 Country Investment Authorities	10861
 Country Korea	11135
 Country LTS Long-Term Strategy M&E Monitoring	10768
@@ -668,17 +704,20 @@ Country Mozambique Official Use Only	4653
 Country Mr	11129
 Country Name	11129
 Country Office	10776,152,404
+Country Offices	11533
 Country Overview	10822
 Country PANEE	3604
 Country Panics	10
-Country Partnership Framework	1901,1703,4874,2290,73,123,341,163,7,1
-Country Partnership Framework DA Designated Account	1264
+Country Partnership Framework	1901,1703,4874,2290,73,123,341,163,7,1,49
+Country Partnership Framework DA Designated Account	1264,10296
 Country Partnership Framework Public Disclosure Authorized	11475
 Country Partnership Framework for Nigeria	11486
 Country Partnership Framework for Togo	2026
 Country Perspectives	4907
 Country Pilots	8726
-Country Policy and Institutional Assessment	969,2635
+Country Policy	11529
+Country Policy and Institutional Assessment	969,2635,7921
+Country Portfolio	11560
 Country Portfolio Performance Review	4840
 Country Private Sector Diagnostic	10768,73,123,504,1
 Country Product Line Team Leader	1284
@@ -724,6 +763,8 @@ Country-level Implementation Arrangements	1264
 Country-level PIUs	1264
 Country-specific	6048
 Country. Commissioner	573
+CountryGraph	11550
+CountryID	11765
 Countrywide Universal Broadband Availability The Kenya	6133
 Country’s Name	11129
 Counts	1232,1026,1604,1374
@@ -817,15 +858,15 @@ County&author	1219
 County-Led Economic Development PRESS RELEASE	9852
 County-Level Implementation	7548
 County-level	7548
-Coupe	1996,1253,1137,3269,666,328,242,2074
+Coupe	1996,1253,1137,3269,666,328,242,2074,796
 Coupe Du Monde	4960,62,2035
 Coupe du Congo	1876,3203
-Coupe du Monde	1996,2390,1444,1825,1236
+Coupe du Monde	1996,2390,1444,1825,1236,2870
 Coupet	11310
 Coupled	1814,1012,1606,6425
 Coupling	7435
 Coupon	7695
-Coups	4970
+Coups	4970,6579
 Coupure	2384,2429,3984
 Cour Constitutionnel	1682
 Cour Constitutionnelle	17
@@ -867,7 +908,7 @@ Course Fundamentals of Central Banking Exchange Control	11131
 Course and Sex	2775
 Coursera	4197,2551,200,2431,754
 Courses	1264,4406,5161
-Court	3,8,16,7,553,196,189,361,141,355,90,198,190,17,197,105,40,222,32,85,110,65,84,10,33,122,109,34,11,131,64,349,234,1,6,145,709,120,80,111,159,231,176,6,100,591,70,19,61,68,62,231,63,52,47,91,40,245,435,234,125,108,29,202,668,92,71,80,79,325,662,5,169,5,12,8
+Court	3,8,16,7,553,196,189,361,141,355,90,198,190,17,197,105,40,222,32,85,110,65,84,10,33,122,109,34,11,131,64,349,234,1,6,145,709,120,80,111,159,231,176,6,100,591,70,19,61,68,62,231,63,52,47,91,40,245,435,234,125,108,29,202,668,92,71,80,79,325,662,5,169,5,12,8,363,24,66,97
 Court Cases	9992
 Court Cases Number of Cases Received	11131
 Court Challenge	4258
@@ -884,9 +925,10 @@ Court of Account and Parliament	969
 Court of Accounts	969,315,2525,3351
 Court of Accounts and Parliament	969
 Court of Accounts’ Execution Control	1284
-Court of Appeal	11,2692,164,499,71,195,532,448,102,288,114,269,126,272,239,8,490,1,56,239,111,99,8,71,50,37,129,39,19,47,137,144,69,316,3,384,184,113,769,100,327,988
-Court of Auditors	3667,7101
+Court of Appeal	11,2692,164,499,71,195,532,448,102,288,114,269,126,272,239,8,490,1,56,239,111,99,8,71,50,37,129,39,19,47,137,144,69,316,3,384,184,113,769,100,327,988,681
+Court of Auditors	3667,7101,768,50
 Court of Cassation	39,10035
+Court of Cassation and Chairman	11641
 Court of Civil Appeal	1919,7589,301
 Court of Civil Appeal Act	1919,7890
 Court of First Instance	5902,5060,17
@@ -896,6 +938,7 @@ Court of Justice	1807,4615,659,1355,311,26,3,2325
 Court. Factual Background	2307
 Court. Issues for Determination	3005
 Courtesy	2686,71,574,322,316,58,839,19,528,245,1370,2,218,258,740,357,71,1790,752
+Courtesy Pic	11626,41
 Courtesy Pics	4743
 Courtesy South Sudan	5428
 Courtesy The Directorate of Civil Registry and Immigration	7932
@@ -938,6 +981,7 @@ D.R. La Cour	11049
 DATASHEET BASIC INFORMATION BASIC INFO TABLE Country	10829
 DATE COULD NOT BE ESTABLISHED	443,1275
 DEAL COUNT PER STAGE	10954
+DECA Digital Economy Country Assessment ECOWAS	11545
 DEG. Countries	949
 DEVELOPING COUNTRIES	5349
 DEVELOPMENT Barcelona Provincial Council AI25.Studio BB23	8530
@@ -949,6 +993,7 @@ DISPUTE RESOLUTION COMMITTEE The Research Council	1154,400
 DOL DOL SUB COUNTY HOSPITAL Data	7167
 DPAs. Countries	4583
 DRC's Presidential Strategic Oversight Council	3424
+DRE IN THREE COUNTRIES	11572
 DStv Country	9781
 Daniel Dulitzky Country Director	10768
 Danish Industrialisation Fund for Developing Counties	789
@@ -975,6 +1020,7 @@ Department of Health- Garissa County Data Processor	7167
 Departmental Council of M'Passa	6818
 Description Industrial Court-ICT Development	5644
 Description USAID Digital Ecosystem Country Assessment	1166
+Developed Countries Fund NAP National Adaptation	11586
 Developing Countries	226,228,158,154,1752,430,2401,351,2910,233,1875,8
 Developing Countries . Washington	11140
 Developing Countries Are Implementing Universal Health	11133
@@ -995,7 +1041,8 @@ Different Country Contexts Importantly	9331
 Digital Council Africa	1810,3975,1047
 Digital Council SA	6832
 Digital Council of South Africa	6832
-Digital Economy Country Diagnostic	1751
+Digital Economy Country Assessment	11545
+Digital Economy Country Diagnostic	1751,9794
 Digital Economy Country Diagnostic for Equatorial	1751
 Digital Economy for Africa Country Diagnostic	9759
 Digital Economy for Africa Country Diagnostic Tool	2677
@@ -1006,6 +1053,7 @@ Digital Platform for Psychological Counseling	5167
 Digital Shield Against Counterfeit Goods	3003
 Digital Supreme Court	8978
 Digital Trade Protocol. Both the Council Meeting	7142
+Digitize Cairo Court of Appeal and Deploy AI	11641
 Direct Recipient Country of Incorporation	18,9548
 Director Financial Stability Director General Counsel	6938
 Dispute Over Intellectual Property Could Derail	11303
@@ -1026,6 +1074,7 @@ Doctor-Patent Relationship. Council of Europe. Retrieved	1243
 Dowa Council	6256
 Dowa District Council	6256,2319
 Dr. Dan Were Country Director Jhpiego	9855
+Dr. Yaouza Ouro-Sama. The Court	11704
 Draft Order Gazetting the Host Country Agreement	10313
 Draft WBG Country Partnership Framework	1867
 Dutch Research Council	4368,1125,463,585,3206
@@ -1033,7 +1082,7 @@ Dépenses Courantes	4420
 E-Government for Developing Countries	5349
 ECOWAS Business Council	7452
 ECOWAS Business Council. Dr. Abdul Kamara	7452
-ECOWAS Community Court of Justice	961,8121
+ECOWAS Community Court of Justice	961,8121,2622
 ECOWAS Convergence Council	7452
 ECOWAS Council of Governors	745
 ECOWAS Council of Ministers	7452,3056
@@ -1104,6 +1153,7 @@ Establish the National Cybersecurity Council	1777
 Establishment of Council	11178
 Establishment of Statistics Council Tenure	11178
 Eswatini Higher Education Council	11134
+Eswatini National Research Council	11718
 Ethics Councils	11135
 European Council	11154
 European Council and Mrs Ursula	11210
@@ -1124,6 +1174,7 @@ Extended Network. Country Currency Minimum Maximum	11002
 Extension Couverture	3537
 External Evaluation JEE Lower-Middle-Income Country LMIC	11417
 F. The AI Effect Could	11140
+FASTEST-ELECTRIFYING COUNTRIES	11572
 FCC’s Council	10444
 FDRE Council of Ministers	10839
 FINANCIAL STABILITY FRAMEWORK IN AFRICAN COUNTRIES	6938
@@ -1133,13 +1184,14 @@ FY14-FY16 WBG Country Partnership Strategy	10779
 FY21-FY25 Country Partnership Framework	969
 Fatogoma Coulibaly	4170
 Federal Court of Justice	10090
-Federal Executive Council	2359,31,481,677,1142,1795,1602,895,504,567,10,94,446,96
+Federal Executive Council	2359,31,481,677,1142,1795,1602,895,504,567,10,94,446,96,1015
 Federal Executive Council-approved	10156
 Federal Executive Council. The Permanent Secretary	10603
 Federal Executive Council. The Policy	11129
 Federal High Court	3383,1200,226,1487,880,293,131,176,302,40,60,409,1385,239
 Federal High Court of Lideta	7909
-Federal Supreme Court	1783
+Federal Supreme Court	1783,9824
+Federal Supreme Court's Smart Court System	11607
 File Count	11268
 Financial Industry Cyber Council	4073
 Financial Market Council	6938
@@ -1159,11 +1211,12 @@ Following the Constitutional Court	5533
 Forest Stewardship Council	10841,136
 Forfeiture The Court	783
 Formalise Fintech Advisory Council	4848
-Framework COUNTRY	1284,9680
+Framework COUNTRY	1284,9680,561
 Framework HPCSA Health Professions Council of South	396
 Francophone African Countries Powering the Next	3157
 Fraud Forensics Countries	10848
 Full Council Meetings Period Meetings First	1154
+Fully Operational National Research Council	11718
 Functions The Council	3861
 Functions of County Governments	2775
 G5 Sahel Country Climate and Development Report	1264
@@ -1182,6 +1235,7 @@ GROUP EBITDA BY COUNTRY Table	10793
 GROUP FINTECH REVENUE BY COUNTRY Table	10793
 GROUP REVENUE BY COUNTRY Table	10793
 GROUP SERVICE REVENUE BY COUNTRY Table	10793
+GUINEA-BISSAU DIGITAL TRADE REGULATORY INTEGRATION COUNTRY	11550
 Gambia Court	5033
 Garissa County	346,10382
 Garissa Youth Hub and Nyeri County Youth	6946
@@ -1219,6 +1273,8 @@ Granada GRENADE COURTNEY	6613
 Grand Bassa County	8101,1549
 Group Data Protection and Privacy Counsel	9903
 Gugulethu Councilors	8999
+Guinea-Bissau Country Economic Memorandum	11560
+Guinea-Bissau The Country Hydromet Diagnostics	11553
 Gulf Cooperation Council	9491,1645
 Gweru City Council	3051
 Général de Brigade Issa Ousmane Coulibaly	8576
@@ -1244,11 +1300,12 @@ Has the Country	10812
 Hassan Zaman Country Director	2473
 Haute Cour de Justice	1682
 Head of Counter-Terrorism British High Commission West	10689
+Health Country Profile Guinea Bissau	11589
 Health Professional Council of Zambia	34
 Health Professions Council of South Africa	396,7905,2237
 Heavily Indebted Poor Countries	9490
 Heavily Indebted Poor Countries Internally Displaced	11136
-High Court	11,25,551,1329,650,100,43,17,1,330,526,131,450,419,91,98,3,390,198,170,17,322,51,132,78,98,289,272,4,150,241,78,139,303,162,485,116,9,35,134,142,144,15,21,112,2,315,246,93,151,5,43,376,26,390,277,123,19,16,14,101
+High Court	11,25,551,1329,650,100,43,17,1,330,526,131,450,419,91,98,3,390,198,170,17,322,51,132,78,98,289,272,4,150,241,78,139,303,162,485,116,9,35,134,142,144,15,21,112,2,315,246,93,151,5,43,376,26,390,277,123,19,16,14,101,412
 High Court Civil Appeal No	3307
 High Court Gauteng Division	11148
 High Court Judge Emmanuel Baguma	8470
@@ -1297,7 +1354,7 @@ Hybrid Court and Truth Commission	3583
 Hybrid Court for South Sudan	3583
 Hybrid Court.146	3583
 I. STRATEGIC CONTEXT A. Country	11380
-I. STRATEGIC CONTEXT A. Country Context	969,898,1737,7225,135
+I. STRATEGIC CONTEXT A. Country Context	969,898,1737,7225,135,561,35
 IBRAHIM COULIBALY FAITS MARQUANTS REPARTITION	2342
 ICRR0024415 Country Angola Programmatic DPF Planned	10779
 ICT Minister Lumumba Pays Courtesy Visit	4608
@@ -1309,7 +1366,11 @@ IDs. European Countries	10415
 IEEE Systems Council	8022
 IFC Country Manager for Comoros	3067
 ILO Country Director Kumboga Ndaba	10317
-IMF Country Focus	6679
+ILO WAEMU Youth Country Briefs	11581
+ILO WAEMU Youth Country Briefs URL	11581
+ILO-WAEMU Country Briefs	11581
+ILO-WAEMU Youth Country Briefs	11581
+IMF Country Focus	6679,4880
 IMF Country Report	10997
 IMF Country Report No	969,859,2,9275
 IMSERT COUNTRY NAME	3972
@@ -1322,6 +1383,7 @@ INSERT COUNTRY POPULATION	5352
 INSERT Government COUNTRY COUNTRY COUNTRY	5352
 INSERT Government COUNTRY NAME	5352
 INSERT NAME OF COUNTRY’S FDA EQUIVALENT	5352
+ITEC English Language Proficiency Course	11579
 ITU Council	6007,3749
 ITU Council. The Authority	7923
 ITU Country Profile	173
@@ -1331,6 +1393,7 @@ IV.1.2.1 Courrier	10876
 IV.1.2.2 Courrier	10876
 Iain Shuker Country Director	1867
 Idah Z. Pswarayi-Riddihough Country Director	2474
+Imperative Counselor Magdy Kassem	11641
 Implementation Could Be Painful	7173
 Implementing the DHA Counter Corruption Strategy	5533
 Implications for Developing Countries. New York	1243
@@ -1385,6 +1448,7 @@ J Health Inf Dev Count	766
 JUSTICE BUSINESS AND PROPERTY COURTS	1829
 JV Country	11469
 Jackson County Library Services	8022
+Jide Oyekunle. The Court	11704
 Jobberman's Country Head of Programmes	9115
 Johannesburg Court	9968
 Journalist The Western Cape High Court	8280
@@ -1425,6 +1489,7 @@ Kenya ASAL Counties UK FCDO	2163
 Kenya Annual Country Report	7548
 Kenya Country Manager Adam Shirwa	9546
 Kenya Country Report	10822
+Kenya Medical Practitioners and Dentists Council	11578,7
 Kenya National Examinations Council	899,3084,2963
 Kenya Technology Prosperity Deal Could	6790
 Kenya's High Court	5203,4535
@@ -1463,10 +1528,12 @@ LIBERIA JOINS UN SECURITY COUNCIL	10581
 LIKE Legal Business Court of Appeal	9750
 LIST OF COUNTRIES WHICH HAVE SIGNED	4867
 LOW- AND MIDDLE-INCOME COUNTRIES	11004
+LSEZA Says Trade Portal Could Ease	11746
 La Coulée	2960
 La Cour	17,1559,5166
 Labour Court	7587,3693
 Labour Courts and Masters' Offices	9894
+Lagos. Beside High Court	11654
 Lamine COULIBALY	8321
 Lamu County	10313
 Lamu County. Social Responsibility and Investment	6946
@@ -1493,16 +1560,17 @@ Landlocked Developing Countries Readiness	10844
 Landlocked Developing Countries Share of ICT	10844
 Landlocked Developing Countries Table A2.3	10844
 Landlocked Developing Countries Virtually	10844
-Landlocked Developing Countries and Small Island Developing	10844
+Landlocked Developing Countries and Small Island Developing	10844,728
 Lands and Country Planning	1161
 Latin America and The Caribbean Country Argentina	11135
 Laure Besse and Mamadou Coulibaly	7189
 Le Gros Coup Gueule De Rabiot	4960,62,2035
 Le Temps Moyen de Coupure	2342
 Lead and Country Economists	10718
-Least Developed Countries	2663,4536,36,3529,80,160
+Least Developed Countries	2663,4536,36,3529,80,160,568
+Least Developed Countries Fund	11586
 Least Developed Countries and Small Island Developing	6318
-Least Developed Country	3583,5894
+Least Developed Country	3583,5894,2092
 Least Developed Country Explore	11470
 Legal Counsel	9311
 Legal Litmus Tests In the High Court	11148
@@ -1571,10 +1639,13 @@ MULTILATERAL INVESTMENT GUARANTEE AGENCY COUNTRY PARTNERSHIP	11468
 Machakos County Data Controller INST-4354816A39C MACHAKOS	7167
 Madame COULIBALY Mariam COULIBALY	8237
 Magistrate Court	11129
+Magistrate's Court	11628
+Magistrates Court	11628
 Magistrates' Courts	9894
 Magistrates’ Courts Act	11181,9
 Mails Delivered Country-wide Express Mail	9781
 Make Every Woman and Girl Count	598
+Makhtar Diop Country Director	11525
 Makindye Standards and Utilities Court	4235
 Makindye-based Standard Utilities and Wildlife Court	9781
 Making Every Dollar Work Harder Countries	11356
@@ -1591,6 +1662,7 @@ Marchés de Services Courants Ils	10876
 Market for Eastern and Southern Africa CPF Country	6539
 Marsabit County	6946
 Maseru City Council	2674
+Maseru Magistrates Court	11628
 Mashare Constituency Councillor Peter Kashumali	10465
 Mauritius Country Programme Document	11332
 Mauritius Research and Innovation Council	7845
@@ -1599,6 +1671,7 @@ Mayor of Limbe I Council	4594
 Media Council	7650,1311
 Media Council of Kenya	6160,786,763,859
 Media Council of Kenya and Copyright Tribunal	8570
+Media Self-Regulation Council of Zambia	11691
 Media and Information Literacy Online Course	1814
 Medical Council Act	7845
 Medical Laboratory Science Council of Nigeria	7409
@@ -1695,6 +1768,7 @@ National AI Council	1965,2563,2264,756
 National AI Council National Artificial Intelligence	4528
 National AI Council and AI Strategy	4528
 National AI Council and AI Strategy Implementation	4528
+National AI Research and Governance Council	11715
 National AI and Council	7548
 National AI and Other Emerging Technologies Council	7547
 National AI and Technologies Council	7548
@@ -1755,6 +1829,7 @@ National ICT Policy Advisory Council	958
 National ICT Policy Advisory Council OVC	958
 National Industrial Court	8978
 National Industrial Court of Nigeria and State High	10211
+National Information Technology Authority-Uganda Palm Courts	11750
 National Islamic Council	3046
 National Judicial Council. Such	8978
 National Payment Council	10779
@@ -1829,7 +1904,7 @@ Organization of Petroleum Exporting Countries	2775
 Oslo Diploma Course	10752
 Others1 IN THE HIGH COURT	1829
 Oti Regional Coordinating Council	7457
-Ousmane Diagana Country Director	969,295,9565,135
+Ousmane Diagana Country Director	969,295,9565,135,585
 Outgoing Domestic Courier Item	6946
 Outgoing Outgoing SMS Data Volumes Country	6671
 P168336 TBL Country Angola Operation ID P168336	10779
@@ -1893,7 +1968,7 @@ Postal and Courier Network Indicators Indicator FY	6946
 Postal and Courier Networks	6946
 Postal and Courier Overview Postal Traffic	9781
 Postal and Courier Sector Highlights Q2	9781
-Postal and Courier Services	395,341,204,18,265,654,902,208,345,428,632,136,94,1463,536,264,61,490,1047,1403,187,528
+Postal and Courier Services	395,341,204,18,265,654,902,208,345,428,632,136,94,1463,536,264,61,490,1047,1403,187,528,1010
 Postal and Courier Services Bill	7779,99
 Postal and Courier Services Minister Tatenda Mavetera	5827,1694,1184,325
 Postal and Courier Services The Ministry	395
@@ -1936,6 +2011,7 @@ Programme Courses Staff Trained	6946
 Progress Reports EXTERNAL Construction Industry Council	11131
 Project Implementation Unit. The County CRMS	9939
 Project Sprint Country Director	8264
+Projet de Couverture	11529
 Promotion Council Nigerian Electricity Regulatory Commission	10157
 ProponAI European Court of Auditors Refreshworks Fastweb	8530
 Protection Program SCD Systematic Country Diagnostic	11380
@@ -1965,6 +2041,7 @@ Reference Couto and Garimella2024	8436
 Reference Couture and Toupin2019	2117,5614
 Refugee Country of Origin	10841
 Refugee Policy Review Framework Country Summary	10841
+Region and Its Countries	11596
 Regional Coordinating Councils	7457
 Regional Council Karim Achengli	6924
 Regional Councils	10626
@@ -2017,6 +2094,7 @@ SADC Council of Ministers	9761
 SADC Council of Ministers. Allow	9761
 SAMPLE WEST AFRICAN MARKETS Country	10861
 SCA Supreme Court of Appeal SCM Supply	11198
+SCD Systematic Country Diagnostic SDG Sustainable	11549
 SCD Systematic Country Diagnostic SIAC Serviços	10765,10
 SCREENGRAB The High Court	9646
 SECTORS COUNTRIES	4883
@@ -2050,6 +2128,7 @@ Science Granting Councils Initiative Executive Director	1554
 Score Country	10837
 Secretary National Judicial Council	1014
 Sectoral Councils and Committees	3861
+Sectoral Direction Counsels	11525
 Security Council	2117,1466,544,3730,2552,870
 Security Council Committee	3583
 Security Council. The Arria-Formula Meeting	2117
@@ -2060,6 +2139,7 @@ Selected Countries	2775
 Senator for Uasin Gishu County	6946
 Senegal Constitutional Council Blocks Parliamentary Law	5163
 Senegal Launches National Digital Council	3702
+Senegalo-Gambia Presidential Council Meeting	11670
 Senegal’s Constitutional Council	5163
 Senior Counsel	9636,1479
 Senior Country Economist	4840
@@ -2078,6 +2158,7 @@ Siaya County	6946,448
 Signed Council of Europe Additional Protocol	10908
 Sinazongwe Town Council Goes Digital	11171
 Sioma Town Council	2386
+Six Arab Countries The NTRA	11642
 Six Asian and African Countries	226
 Six Countries	10964
 Six Francophone West African Countries Unite	7170
@@ -2087,7 +2168,8 @@ Smart Africa Council of African Regulators	3549
 Smart Africa Education Council	4126
 Smart Africa SDG5 Global Council	7687
 Smart Africa's AI Council	6410
-Smart Court	3622
+Smart Court	3622,7985
+Smart Court System	11607
 Smart Government Integrated Country Engine	958
 Socio Economic Profile. M’mbelwa District Council	3791
 Software Committees HCT HIV Counselling and Testing	396
@@ -2141,16 +2223,17 @@ Streamlined Country Diagnostic	11468,1
 Strengthening Africa's Science Granting Councils Phase	862
 Sub County	1920
 Sub-Saharan Africa Safety Advisory Council	9201
+Substantial. Country FM	11525
 Sudan. A Localization Coordination Council	6947
 Superior Court	11
 Superior Court of Judicature	587
 Superior Courts Act	11190
 Supervisory Development Management Course	6946
-Supreme Council	4113
+Supreme Council	4113,7528
 Supreme Court	3,222,1558,46,90,1942,3085,899,312,376,171,69,31,174,421,146,100,397,1073
 Supreme Court Building	9546
 Supreme Court Govt	5343
-Supreme Court of Appeal	2307,2486,31,499,210,854,296,1227,1979,203,247,616,226
+Supreme Court of Appeal	2307,2486,31,499,210,854,296,1227,1979,203,247,616,226,479
 Supreme Court of Appeal. GCG	9889
 Supreme Court of Appeal. Legal	10339
 Supreme Court of India	7587,1812
@@ -2158,11 +2241,13 @@ Supreme Court of Kenya	6946,2600
 Supreme Court of Kenya Hon. Justice Martha	9546
 Supreme Court of Mauritius	7845
 Supreme Court of Nigeria	8978
+Supreme Court of Oromia	11607
 Supreme Court. Cooperation	1333
 Supreme Court’s Electronic Diary System	8978
 Supreme Judicial Council	9064
 System LIC Low Income Countries LMIC	771
-Systematic Country Diagnostic	969,5570,4226,10,54
+Systematic Country Diagnostic	969,5570,4226,10,54,696,20
+Systematic Country Diagnostic SCGB Sociedade de Cabos	11545
 Systm Upgrades Provincial Courts Proceedings	2987,16,13,949,1438,159,1347
 Sénégal Coupe	2478
 T. Coups	7886
@@ -2210,11 +2295,14 @@ Training The Research Council of Zimbabwe	1554
 Trans Nzoia County	10313
 Transit Countries	3760
 Tribunal and Courts	3714
+Trina S. Haque Country Director	11560
 Tripoli Court	4531
 Tunisia Country	1818
 Tunisie Telecom S.A. Key Counterparties	1818
 Turkana County	8323,1990
 Turkana County Government	6946
+Turkish Court of Accounts	11637
+Turkish Court of Accounts and TİKA	11637
 Twafohene Wenchi Traditional Council	10135
 U.S. Country Commercial Guide	1886,2162
 U.S. Country Commercial Guide for Madagascar	3394
@@ -2227,6 +2315,8 @@ UN Security Council	2117,1467,529,162,941,2236,342,2341,274,55,746
 UN Security Council Counter-Terrorism Committee Executive	571
 UN Security Council Resolution	7452
 UNDP Country Offices	402
+UNDP Uganda Country Office	11773
+UNDP-GEF Least Developed Countries Fund	11553
 UNESCO Country Representative	9202
 UNFPA Somalia Country Humanitarian Appeal	9766
 UNHCR Country Representative Aissatou M. Ndiaye	4652
@@ -2250,6 +2340,7 @@ Ukraine’s OGP Coordination Council	11006
 United Nations E-Government Survey. Countries EDGI	10840
 United Nations Global Counter-Terrorism Strategy	11183
 United Nations Human Rights Council	3583,544,5018,1696
+United Nations Human Rights Council Resolution	11704
 United Nations Human Rights Council. First	3584
 United Nations Office of Counter-Terrorism. The Somali	10701
 United Nations Security Council	1638,479,1466,519,25,3888,3170

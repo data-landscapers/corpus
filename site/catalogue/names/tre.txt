@@ -60,7 +60,7 @@ Criação de Centros de Treinamento	2816
 Data Innovation Trends	1243
 Day Treasury	2775
 Defence and Treasury	3983
-Degrading Treatment	3583
+Degrading Treatment	3583,8182
 Developme Treasury Development	7548
 Development Finance Institutions and National Treasury	11215
 Development Government National Treasury	7548
@@ -68,11 +68,12 @@ Diagnostic and Treatment Units	10784
 Digital Fraud Trends	6261,2450
 Digital Progress and Trends Report	5583
 Directorate General of Treasury and Public Accounting	2330
+DisclaimerThe Treaty Body Database	11765
 Domestic Trend	6408
 EAC Treaty	3738
 ECCAS Treaty	1599
 ECOWAS Revised Treaty	7452
-ECOWAS Treaty	1264,3474
+ECOWAS Treaty	1264,3474,6779
 EHSAN REHABILITATION AND TREATMENT CENTRE LIMITED	7167
 ETNs SENS TRENDING	7343
 Economics Editor The Treasury	9005
@@ -118,6 +119,7 @@ HIV Next-Generation Treatment Accelerating	4167
 Hand and Treleaven2025	8283
 Head of Treasury	7444
 Health and Sustainable Environment. Trend Bouncing Back	10968
+I1e ECOWAS Treaty	11517
 ICT Sector Budget Allocation Treasury	1746
 ICT Treasury	7548
 ICT. Treat	6832
@@ -159,6 +161,7 @@ KwaZulu-Natal Provincial Treasury	11266,1
 KwaZulu-Natal Treasury	11267
 L'homme Qui Fait Trembler La Fsf	4960,62,2035
 LISTEN LIVE VIDEOS WEBINARS TRENDING	7343
+Labour Market Trends	11581
 Lanseria Wastewater Treatment Works PPP Project	11248
 Law of Treaties	573,670
 Line Ministry and Treasury	1154
@@ -194,7 +197,7 @@ National National AI and Public Service Treasury	7548
 National Public Treasuries	10853
 National Treasuries	10022
 National Treasuries and BEAC National Directorates. About	10022
-National Treasury	396,893,457,88,4,322,147,307,128,201,72,249,240,110,100,27,148,744,160,31,36,463,210,3,1,256,129,211,18,1,114,166,156,358,112,38,44,40,320,14,18,16,59,103,124,76,108,26,520,35,1,103,61,15,4,57,106,3,56,1,121,112,128,309,111,152,104,59,20,7,184,496,197,164,23,5,16,4,2,2,2,1,5,6,1,3,4,4,2,2,9,16,1,2,5,4,175
+National Treasury	396,893,457,88,4,322,147,307,128,201,72,249,240,110,100,27,148,744,160,31,36,463,210,3,1,256,129,211,18,1,114,166,156,358,112,38,44,40,320,14,18,16,59,103,124,76,108,26,520,35,1,103,61,15,4,57,106,3,56,1,121,112,128,309,111,152,104,59,20,7,184,496,197,164,23,5,16,4,2,2,2,1,5,6,1,3,4,4,2,2,9,16,1,2,5,4,175,196,15
 National Treasury AI	7548
 National Treasury Date	4633
 National Treasury Director-General	3741,7484
@@ -262,7 +265,9 @@ Pamela Tremont	5165
 Pan-African Survey and Noted Trends. Journal	1243
 Pandemic Treaty	7187
 Participation and Rights. Trend Measure Score	10835
+Patent Cooperation Treaty	11550
 People On Antiretroviral Treatment	4153,49,15,132,1003
+Performances and Phonograms Treaty	11550
 Pesaflow Limited and Olive Tree Limited	2742
 Pew Global Attitudes and Trends	11004
 Pnet Job Market Trends Report	6832,1747
@@ -292,6 +297,7 @@ Research Trends	4253
 Residents Association Treasurer	736
 Revenue and Expenditure Trends FY	6946
 Revised ECOWAS Treaty	9660
+Revised ECOWAS Treaty. IN WITNESS WHEREOF	11517
 Rural Trends	4130
 Rural Trends Progress and Regional Patterns	4130
 S2W and TrendAI	6426,2351
@@ -320,6 +326,7 @@ TR Treasury Regulations VCT Voluntary Counselling	11224
 TR Treasury Regulations WCF Workman’s Compensation	11198
 TREASURY CSD	11240
 TREATIES AND OTHER INTERNATIONAL ACTS SERIES	1234,3068,6411
+TREATMENT HEALTH INFRASTRUCTURE	11586
 TREATY ESTABLISHING THE AEC-compressed.pdf	6997
 TREEP	9635
 TREND	236
@@ -402,6 +409,7 @@ Treasury’s	10845
 Treat	573,693,89,617,24,579,33,250,219,1030,273,179,60,232,17,400,777,185,208,165,71,66,92,229,77,143,470,250,447,422,155,635,1346,143
 Treat AI	7751
 Treat Premature Ejaculation	5574,215
+Treat.co	11666
 Treated	124,419,3926,42,2638,1505,1043,912,522,154
 Treated and Fully	11131
 Treaties	1234,9962
@@ -410,10 +418,10 @@ Treaties and Frameworks	7548
 Treaties and Frameworks Implementation	7548
 Treaties and Other International Acts Series	1234,3013,55,6411
 Treaties and Protocols	1000
-Treating	2307,3244,2094,106,39,176,42,595,1115,832,483,123,154
+Treating	2307,3244,2094,106,39,176,42,595,1115,832,483,123,154,275
 Treating DPI	4424,6582
 Treating.ng	4690
-Treatment	1988,2165,49,15,43,41,48,1003,5896
+Treatment	1988,2165,49,15,43,41,48,1003,5896,337
 Treatment Adherence Using	10784
 Treatment Antiretroviral Biosafety Cabinet Biosafety Level	4153
 Treatment Baseline	4202
@@ -423,11 +431,14 @@ Treatment and Supply NPPI	11152
 Treatment of Confidentiality	4610
 Treatment of ESIMs	6891
 Treatment-seeking for ARI	10829
-Treaty	7,18,3558,4238,2734,599,56
+Treaty	7,18,3558,4238,2734,599,56,307,33
 Treaty Incorporation and Effect	3861
 Treaty Interpretation. University of Pennsylvania Law Review	1243
 Treaty No	10908
 Treaty Office	25
+Treaty of ECOWAS	11517
+Treaty.aspx	11765
+TreatyBodyExternal	11765
 Trees	5874,1772,1
 Trees Planted	6946
 Trees Planted Number of Trees Planted Staff	6946
@@ -481,7 +492,7 @@ Trending News	5784,166,263
 Trending Now	7441,192,3011
 Trending Stories	8884
 Trending Stories Namibia	11122
-Trends	718,1378,679,78,730,1093,1917,353,2,1182,475,2109,4,41,26,50,2,1,130,36,246,46
+Trends	718,1378,679,78,730,1093,1917,353,2,1182,475,2109,4,41,26,50,2,1,130,36,246,46,264,3
 Trends Reshaping Africa’s Mobile Industry	6714
 Trends and Future Directions	9128
 Trends and Insights for Africa	7833
@@ -500,6 +511,7 @@ Trespassing Act	11188
 Tressy Chouente	10044
 Tretncehrnsohloipg	10157
 Trevena	2093
+Trevor Criswell	11572
 Trevor Goott	7656
 Trevor Koverko	8510
 Trevor Manuel	562,9406
@@ -512,6 +524,7 @@ U.S. Treasury	5910,3421
 UK Treasury	4429
 UN Binding Treaty	6960
 UN Treaty	2117
+UN Treaty Body Database English	11765
 US Ambassador Pamela Tremont	7780
 US Treasuries	6699
 US Treasury	9367,834
@@ -530,5 +543,6 @@ Weibo User Consumption Trends Report. Available	8460
 World Bank Digital Progress and Trends Report	7548
 World Bank's Digital Progress and Trends Report	7548
 World Health Organization Trends	10881
+World Intellectual Property Organization Copyright Treaty	11550
 Year-on-Year Inflation Trends	5655
 YoY. Bigger Tickets Trended	4972

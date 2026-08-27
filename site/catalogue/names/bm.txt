@@ -7,6 +7,7 @@ Apilotstudy. BMC Medical Ethics	8606
 Assistência Técnica BI Bilhete de Identidade BM	11390
 Autoridade Reguladora de Energia Atómica BM Banco	11376
 BAM Bank Al-Maghrib BM Banque	7655
+BGFIBANK BMS BNI BOA BRIDGE BANK	11588
 BI Business Intelligence BM Banque Mondiale	10712
 BM Assainissement	643
 BM MUTIE	7167
@@ -15,7 +16,8 @@ BMA Commissioner Dr Masiapato	2681
 BMA Deputy Assistant Commissioner	9076
 BMA and GPW	2692
 BMC Geriatrics	7759
-BMC Health Serv Res	3791,4585,2505
+BMC Health Serv Res	3791,4585,2505,715
+BMC Health Serv. Res	11585
 BMC Health Services Research	2108
 BMC Health Services Research Volume	771
 BMC Med Inf Decis Mak	1261
@@ -32,12 +34,13 @@ BMCS Biometric Movement Control System CA	5533
 BMCS and ABIS. Despite	5533
 BMI's Sub-Saharan Africa Telecommunications Risk	6152
 BMIT Knowledge Group	10129
+BMJ Glob. Health	11585
 BMJ Global Health	4781,4347,1737
 BMJ Group	7187
 BMJ Health Care Inf Online	10784
 BMJ Health Care Inform	3791
 BMJ Medicine	8604
-BMJ Open	771,3020,7090
+BMJ Open	771,3020,7090,715
 BMJ&volume	7187
 BMJ2025	7187
 BMJ2026	7187
@@ -45,9 +48,11 @@ BML FOUNDATION LIMITED Data Controller INST-60520838E6C	7167
 BML FOUNDATION LIMITED Data Processor INST-60520838E6C	7167
 BMP Economic Consulting	7345
 BMPA Le Conseil des Ministres	2342
+BMS BNDA BSIC MALI CORIS BANK	11588
 BMSA CDLM. Admin MMPE	2342
 BMSA En	2342
 BMUKN	9393
+BMW Foundation	11546
 BMW X3 M50	11036
 BMW X4 M40i	11036
 BMZ-Nr	384
@@ -130,6 +135,12 @@ Bm ARCEP Signal	10856
 Bm Compliance	10856
 Bm RSCP	10856
 Bm RSRP	10856
+Bm. Aceitável	11556
+Bm. Inexistente	11556
+Bm. Muito Má	11556
+Bm. Má	11556
+Bm. Orange GB	11556
+Bm. Verifica-se	11556
 Bmajor	3782
 Bmaker	4676
 Bmi-Wfs	6989
@@ -149,6 +160,7 @@ East Africa BMZ	178
 Eastern and Southern Africa. BMJ Glob Health	10881
 Economic Empowerment BMA Border Management Authority	5533
 Electricité La BM	10975
+Encarregados de Educação BM Banco Mundial CICL	11557
 Entwicklung BMZ	179
 Ethiopia. BMC Health Serv Res	3791
 Ethiopia. BMJ Glob Health	3791

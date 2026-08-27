@@ -105,7 +105,7 @@ COMPLAINANTS VERSUS GOOGLE LLC	3307
 Cape of Good Hope	6593,3366
 Capital for Good	1476
 Capitec Connect Goodwill Bundles	11259
-Cash Transfers and Temptation Goods	10985
+Cash Transfers and Temptation Goods	10985,540
 Centre of Google	6909
 Challenges Google and Meta	3962
 Chanal Subramoney and Trevor Goott	7656
@@ -166,6 +166,7 @@ DATA AS CONSTITUTIONAL PUBLIC GOOD	3861
 DFC and Google. Cassava	1469
 Dakar Chapter Google Scholar Onyekwelu C	9739
 Data Boundary and Google Distributed Cloud	10798
+Declaration of Helsinki and Good Clinical Practice	11578
 Democracy and Good Governance	7452,2208
 Description Google	673,1,841
 Description Google CEO Sundar Pichai	776
@@ -258,6 +259,7 @@ Good Governance and Citizens’ Rights GHG Greenhouse	970
 Good Governance and Citizens’ Rights Priority Area	970
 Good Governance and Citizen’s Rights Specific Objective	970
 Good Governance and Gender Equality	644
+Good Governance and Stability	11536
 Good Government	970
 Good Health and Well-being	1131,2614,7031
 Good Health and Well-being Goal	11332
@@ -280,6 +282,7 @@ Good Performer-lower	11131
 Good Performer-upper	11131
 Good Pharmacy Practice	9855
 Good Pharmacy Practices	10776
+Good Practices	11546
 Good Practices For Ensuring Data Protection	11156
 Good Practices for Subsea Cables Policy	2677
 Good Projects	1264
@@ -297,7 +300,7 @@ Goodlife Pharmacy Kenya	145
 Goodman	1243
 Goodness Morakinyo	7444
 Goodnight	6197,10,40,15,1,4326,155
-Goods	1243,395,836,301,114,1764,880,167,562,139,1550,215,968,140,163,493,29,897,108,266
+Goods	1243,395,836,301,114,1764,880,167,562,139,1550,215,968,140,163,493,29,897,108,266,295,211
 Goods and Service	5655
 Goods and Service Excise	5655
 Goods and Services	2775,2880
@@ -306,7 +309,7 @@ Goodwell Investments	830,9634
 Goodwell Investments and LUN Partners	606
 Goodwill	4102
 Goodwood Station Social Housing Project	11248
-Google	415,156,7,14,81,1,1,1,8,92,123,62,4,39,239,2,19,3,4,91,1,66,7,79,75,46,90,40,77,60,2,83,37,185,78,4,5,36,41,20,23,97,107,5,51,2,46,91,14,41,120,316,5,30,2,31,8,8,11,34,29,5,149,39,34,19,71,69,8,63,25,15,25,58,64,17,24,85,199,59,1,41,141,170,43,16,3,117,17,31,19,30,39,39,15,24,3,10,4,46,62,2,1,46,69,88,4,9,15,84,83,9,15,10,9,14,16,54,77,60,26,69,59,48,1,18,16,1,8,136,9,50,1,6,29,11,4,59,13,10,64,47,22,37,17,18,26,45,15,15,21,1,17,13,44,5,22,7,17,2,8,13,60,3,3,34,2,28,72,48,8,6,205,48,17,118,55,67,122,8,67,45,36,51,17,59,3,69,18,88,24,35,35,8,60,46,48,6,1,6,83,75,153,11,8,50,84,94,58,197,74,16,12,13,38,145,16,52,23,14,39,33,44,82,38,222,2,35,89,20,16,59,91,9,304,13,33,13,77,56,34,62,9,7,2,14,14,6,11,122
+Google	415,156,7,14,81,1,1,1,8,92,123,62,4,39,239,2,19,3,4,91,1,66,7,79,75,46,90,40,77,60,2,83,37,185,78,4,5,36,41,20,23,97,107,5,51,2,46,91,14,41,120,316,5,30,2,31,8,8,11,34,29,5,149,39,34,19,71,69,8,63,25,15,25,58,64,17,24,85,199,59,1,41,141,170,43,16,3,117,17,31,19,30,39,39,15,24,3,10,4,46,62,2,1,46,69,88,4,9,15,84,83,9,15,10,9,14,16,54,77,60,26,69,59,48,1,18,16,1,8,136,9,50,1,6,29,11,4,59,13,10,64,47,22,37,17,18,26,45,15,15,21,1,17,13,44,5,22,7,17,2,8,13,60,3,3,34,2,28,72,48,8,6,205,48,17,118,55,67,122,8,67,45,36,51,17,59,3,69,18,88,24,35,35,8,60,46,48,6,1,6,83,75,153,11,8,50,84,94,58,197,74,16,12,13,38,145,16,52,23,14,39,33,44,82,38,222,2,35,89,20,16,59,91,9,304,13,33,13,77,56,34,62,9,7,2,14,14,6,11,122,101,9,7,74
 Google ABUJA	2841
 Google AI	2394,422,1310,4572,1270,1195,138
 Google AI Centre Accra	4126
@@ -348,7 +351,7 @@ Google Cell C Icasa Liquid Intelligent	5050
 Google Cheslyn Jacobs GOTyme Bank PayInc	5544
 Google Chief Compliance Officer	3307
 Google Classroom	6748
-Google Cloud	1267,96,227,46,90,13,471,82,334,51,139,341,279,118,65,64,176,260,7,133,175,3,56,1,706,56,479,1,1,109,62,324,18,17,83,121,6,29,161,124,88,30,21,1,4,70,25,36,107,298,1173,839,1315
+Google Cloud	1267,96,227,46,90,13,471,82,334,51,139,341,279,118,65,64,176,260,7,133,175,3,56,1,706,56,479,1,1,109,62,324,18,17,83,121,6,29,161,124,88,30,21,1,4,70,25,36,107,298,1173,839,1315,870
 Google Cloud CEO Thomas Kurian	2025
 Google Cloud Credits	674
 Google Cloud Credits. African	5302
@@ -438,7 +441,7 @@ Google Labs	3947
 Google Lens Homework Helper	10525
 Google MOU	5302
 Google Map	9568
-Google Maps	1363,284,337,3586,3240,32
+Google Maps	1363,284,337,3586,3240,32,2872
 Google Maps Contact	3364
 Google Maps and Google Earth	3782
 Google Maps and Waze	10983
@@ -653,6 +656,8 @@ Google’s Dunant	5252
 Google’s Equiano	3782,1299,1185
 Google’s Equiano and Equnix’s MainOne	3782
 Google’s Equiano and Meta	3782,2404
+Google’s Gemini	11578
+Google’s Gemini and Microsoft’s Copilot	11768
 Google’s Hustle Academy	1362,1
 Google’s Hustle Academy. The Google Hustle	1362
 Google’s Inaugural Africa Cloud Summit	3003
@@ -693,8 +698,10 @@ ITU’s AI for Good Global Summit	1814
 Imports of Goods	5655
 Initiative Google	11308
 Innovation and Governance. Oxford University Press. Google	11028
+International Sale of Goods	11550
 International Telecommunication Union’s AI for Good	4723
 Introduction Good	8376
+Investment Project Financing Goods	11750
 Issuing of Goods	9437
 Johannesburg Google Cloud	1363
 Kenya Google	1726
@@ -844,6 +851,7 @@ Uganda. Goodnight	6264
 Uganda. Google	3307
 Uganda. Google LLC	3307
 Underwater Google	3782
+United Nations AI for Good Global Commission	11682
 United Nations AI for Good Global Summit	7174
 United Nations' AI for Good Innovation Factory	9185
 University of Chicago Press. Google Scholar Open	11028

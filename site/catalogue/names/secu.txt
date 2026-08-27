@@ -191,6 +191,7 @@ Chief Security Evangelist	9830
 Chief Security Officer	9948
 Chief Security and Risk Officer	4528
 China's Data Policy Balances Security Obsession	10350
+China’s Ministry of Public Security	11740
 Cisco Secure Client	10617
 Citing Security and Equipment Traceability Requirements	5973
 Classification Definition Examples Residency Security Level	5244
@@ -257,8 +258,8 @@ Current Security-by-design Standards	7548
 Customers. Network and Infrastructure Security Cloud	9123
 Cyber Crimes Act and Cyber Security Act	8418
 Cyber Crimes and Cyber Security Act	7025
-Cyber Security	318,640,285,1065,419,13,1147,879,400,131,31,1618,907,1482,1484,412
-Cyber Security Act	2726,1,13,2426,162,1049,401,805,2434,199
+Cyber Security	318,640,285,1065,419,13,1147,879,400,131,31,1618,907,1482,1484,412,317
+Cyber Security Act	2726,1,13,2426,162,1049,401,805,2434,199,1475
 Cyber Security Act No	2727,19,2880,1682
 Cyber Security Activity USAID	1567
 Cyber Security Advisor	775
@@ -267,10 +268,11 @@ Cyber Security Agency	8480
 Cyber Security And Personal Data	1243
 Cyber Security Appeals Search	2727
 Cyber Security Assessment Report	2709
-Cyber Security Authority	587,188,1114,935,867,435,360,97,1352,1001,178,492,1142,17,2,1,128,51,781,114,1,226,179,56,1,71,7,1,565,183
+Cyber Security Authority	587,188,1114,935,867,435,360,97,1352,1001,178,492,1142,17,2,1,128,51,781,114,1,226,179,56,1,71,7,1,565,183,567
 Cyber Security Authority Annual	6936
 Cyber Security Authority CSA	6936
 Cyber Security Authority Establishment	587
+Cyber Security Authority and Financial Intelligence Centre	11699
 Cyber Security Authority and NITA	4488
 Cyber Security Awareness Month	6936
 Cyber Security Awareness Month Rounatable	6936
@@ -322,7 +324,7 @@ Cyber Security and Cybercrime Act	8418
 Cyber Security and Data Protection	318,644
 Cyber Security and Monitoring Centre	972
 Cyber Security and Personal	9399
-Cyber Security and Personal Data Protection	958,3,1,238,43,21,123,148,242,772,1312,563,383,277,29,131,163,33,47,1449,61,681,514,1207,386,935,44,1,10,44
+Cyber Security and Personal Data Protection	958,3,1,238,43,21,123,148,242,772,1312,563,383,277,29,131,163,33,47,1449,61,681,514,1207,386,935,44,1,10,44,843
 Cyber Security and Personal Data Protection. Aligning	5244
 Cyber Security and Personal Data Protection. Document	5244
 Cyber Security and Personal Data Protection. Important	10819
@@ -369,7 +371,7 @@ Data Security Standard	434
 Data Security and Encryption	11231
 Data Storage Secure	5244
 Data and National Security Concerns African	6226
-Defence and Security	962,698,977,2995
+Defence and Security	962,698,977,2995,6122
 Defence and Security Asia	2318,6,103,20,94,25,48,44,62,5,53,41,1,3,50,41,11,18,4,70,1,8,259,18,157,163,119,78,69,141,37,21,465,78,145,55,254,225,138,45,60,43,101,181,78,116,183,19,70,19,178,5,104,1,149,7,16
 Defence and Security Committee	8611
 Defence and Security Cooperation	9761
@@ -425,7 +427,7 @@ Enhance Security	5524
 Enhancing Regional Integration and Security	4102
 Enhancing Security and Privacy of National Scale Identity	1495
 Enseñanza Secundaria	4209
-Ensino Secundário	1948,3202,5616,621,32,53
+Ensino Secundário	1948,3202,5616,621,32,53,105
 Ensino Secundário Direcção Nacional	10766
 Ensino Secundário Geral	10766,653
 Ensino Secundário Geral Anuário Estatístico da Educação	10766
@@ -597,6 +599,7 @@ IGAD Youth Peace and Security Series	10451
 II Ciclo Ensino Secundário	10766
 IMF Securities Account	11131,3
 INCLUSION OVERALL GOVERNANCE Participation SECURITY	10835,3,130
+INSS National Institute of Social Security of Guinea-Bissau	11549
 ISA Investments and Securities Act	8590
 ITU Global Cyber Security Agenda	962
 ITWeb Security Summit	5806
@@ -606,7 +609,7 @@ Incident Response and Security NCA	1777
 Increase the Level of Security Management Consumer Awareness	6946
 Increasing Deterioration Security	10835,3
 Information Network Security Administration	1785,1,1416,1,392,2276,1212,1,454,1768,1
-Information Network Security Agency	7909
+Information Network Security Agency	7909,3698,13
 Information Privacy and Security Policy	6632
 Information Secure Limited	3862
 Information Security	21,1222,443,1023,2824,899,2691,1598,409
@@ -652,7 +655,7 @@ Interagency Security Committee. Nyombi	4660,27
 Interim Lesotho National Computer Security Incident	8230
 Interior and Security	2166
 Intermediaries FIRST Forum of Incident Response and Security	1264
-Internal Security	1988,8713
+Internal Security	1988,8713,974
 Internal Security Bureau	3583,3864
 Internal Security Inspectorate	2343
 Internal Security MORHCSA Modernization of Refugee and Host	1867
@@ -685,10 +688,12 @@ Kaspersky Internet Security	34
 Kaspersky Security Network	3009,850
 Kenya Secures Ksh.15.3 Billion EU Boost	6554
 Klass Security Consult Limited	3862
+Kwaw Sebuabe. The Securities and Exchange Commission	11699
 L'UNION AFRICAINE SUR LA CYBER SECURITE	234
 LA SECURITE	7670
 LIBERIA JOINS UN SECURITY COUNCIL	10581
 Lab Results and Security and Tracks	2477
+Labour and Social Security	11640
 Lasting Peace and Security	11154
 Launching the Bank of Ghana Cyber and Information Security	5532
 Lead Cyber Security Engineer	9830
@@ -811,12 +816,13 @@ National Computer Security Incident Response Team	6778,1795,324
 National Council for Information System Security	1886
 National Council for Information Systems Security	4755
 National Curriculum Secure	958
+National Cyber Resilience and Cyber Security Agency	11648
 National Cyber Security Agency	6803
 National Cyber Security Authority	3243,454,500,566,1078,1837,1447
 National Cyber Security Awareness Month Roundtable	6936,3448
 National Cyber Security Centre	4583
 National Cyber Security Coordinating Centre	9096,25
-National Cyber Security Coordination Centre	9077
+National Cyber Security Coordination Centre	9077,2677
 National Cyber Security Drills	318
 National Cyber Security Fund	6778
 National Cyber Security Incident Response	1535
@@ -914,6 +920,7 @@ OVERALL GOVERNANCE SECURITY	10759
 OVERALL IMPACT MITIGATION SECURITY PRACTICES SUMMARY	1938
 OWASP Application Security Verification Standard	5665
 OWASP Compliance Security	5665
+Obligations of Security	11517
 Office of National Security	1655,458
 Ontario Securities Commission	4127
 Ooredoo Algeria Secures	3221
@@ -938,7 +945,7 @@ Packet Clearing House and Quad Nine Secure	578
 PawaPay Subsidiary Kerry Payments Secures VAS	6684
 Payment Card Industry Data Security Standard	2312,38,4588
 Payment Security Operations Centre	7928
-Peace and Security	643,146,2794,2242,1627
+Peace and Security	643,146,2794,2242,1627,4084
 Peace and Security Council	5825
 Peace and Security Department	5825
 Peace and Security Overview	2775
@@ -1005,6 +1012,7 @@ Regional Energy Security	5765
 Regular Security Audits and Penetration Testing	10721
 Reliable. Secure. Accessible	9478
 Remote Management Security	10721
+Renewable Energy and Food Security	11651
 Reported Food Security	10763
 Requirements Concerning Offering of Securities	3714
 Resilient and Secure Network Expansion	3840
@@ -1078,9 +1086,11 @@ Sandbox Security	9589
 Score Security	10835
 SecOps. The Academic Security Operation Center	11077
 Sector-Specific Security Requirements	5665
+Secuna Djassi	11544
 Secunda	11210
 Secundar	1701
 Secundário	10766,11,610,32
+Secundário DGESIC Direção-Geral	11557
 Secundário Ensino	10777
 Secundário Taxas Líquidas de Frequência Escolar	10777
 Secur	5242,3881
@@ -1106,6 +1116,7 @@ Secure Employment Opportunities ACCOUNTABILITY	10835,3,130
 Secure Enjoy	10956
 Secure Environment	1000
 Secure Eswatini	3716
+Secure Experience	11620
 Secure Future	10415
 Secure Govermment Communications	1786,1417,3881
 Secure Government and Regulated Data Proportionately Apply	10157
@@ -1139,6 +1150,8 @@ Secure360	6164,1
 Secured	1988,4802,1813,520,2075
 Secured Credit	11198
 Secured Electronic Signature Accreditation	5780
+Secured File Gateway	11685
+Secured Transaction Collateral Registry	11755
 Securely	5533
 Securing	1525,1152,636,116,2145,1362,2125,695,306,382,221,295,46,121,88,46
 Securing Declaration	1638
@@ -1173,13 +1186,13 @@ Securities Ownership	7198
 Securities Transactions	7198
 Securities Transfer Tax Act	11181
 Securities Transfer Tax Administration Act	11181
-Securities and Exchange Commission	10,2816,1044,72,660,2336,260,143,68,39,46,692,753,291,304,420,201,115
+Securities and Exchange Commission	10,2816,1044,72,660,2336,260,143,68,39,46,692,753,291,304,420,201,115,1387,42
 Securities and Exchange Commission of Zimbabwe	940
 Securities and Exchange Commission. Legal	8788
 Securities-related	9230
 Securitisation	5242
 Securitization Agenda	2117
-Security	21,6,7,548,201,6,172,9,2,28,9,211,113,127,14,156,56,56,86,49,63,48,129,219,141,197,35,349,72,156,149,169,110,147,241,426,35,47,51,99,101,354,29,12,107,59,207,36,108,19,33,491,100,6,1,9,10,323,126,328,259,70,2,25,446,1,383,117,148,397,1,55,6,317,9,400,47,37,44,66,5,19,84,31,33,113,21,105,258,3,4,34,5,1,54,10,6,2,1,71,3,1,43,12,82,79,1,1,2,1,2,44,1,3,4,5,92,34
+Security	21,6,7,548,201,6,172,9,2,28,9,211,113,127,14,156,56,56,86,49,63,48,129,219,141,197,35,349,72,156,149,169,110,147,241,426,35,47,51,99,101,354,29,12,107,59,207,36,108,19,33,491,100,6,1,9,10,323,126,328,259,70,2,25,446,1,383,117,148,397,1,55,6,317,9,400,47,37,44,66,5,19,84,31,33,113,21,105,258,3,4,34,5,1,54,10,6,2,1,71,3,1,43,12,82,79,1,1,2,1,2,44,1,3,4,5,92,34,217
 Security A Licensee	762
 Security Actors	10819
 Security Admin	10721
@@ -1360,7 +1373,7 @@ Social Security and National Solidarity Ashok Subron	6458
 Somalia's Minister of Internal Security	5045
 Sources SECURITY	10759,76,2,1,130
 South Africa's National Computer Security Incident	8897
-South African Social Security Agency	2307,307,138,191,535,124,1065,193,172,1800,545,123,81,329,557,130,1292,79,371,809,66,8,3,11
+South African Social Security Agency	2307,307,138,191,535,124,1065,193,172,1800,545,123,81,329,557,130,1292,79,371,809,66,8,3,11,424
 South African Social Security Agency Act	2307
 South African Social Security Agency and South	10394
 Southern African Journal of Security	8022
@@ -1435,7 +1448,7 @@ Uganda Securities Exchange. Welcoming	3330
 Uganda Securities ExchangeRead	3330
 Uganda Security Printing Company	320,2355
 Uganda's National Security Information System	1850
-Under the Cyber Security and Crime Act	7777
+Under the Cyber Security and Crime Act	7777,3977
 Understand The Security Requirements	34
 Union for Foreign Affairs and Security Policy	11155
 United Kingdom's National Cyber Security Centre	11299

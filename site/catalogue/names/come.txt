@@ -45,6 +45,7 @@ CATEGORÍA COMERCIO Certificado de Comercio D2 COMERCIO	4209
 CATEGORÍA Certificado de Comercio ACTUAL Libreta	4209
 CCC COMESA	4583
 CCCC COMESA	4583
+COMENTE Nome	11587
 COMERCIALES	4209
 COMERCIANTES DO MERCADO INFORMAL	8052
 COMERCIANTES EM NOME INDIVIDUAL PRAZOS Ref.ª	11435
@@ -107,7 +108,9 @@ Comercial	37,5439,1092,3750,435,612
 Comercial A2 Agregado Comercial A3 Cónsul	4209
 Comercial A3 Agregado Militar A3 Consejero	4209
 Comercialización	4209
-Comercialização	2816
+Comercialização	2816,8716
+Comercialização Interna de Castanha de Caju	11532
+Comercialização Interna de Castanha de Caju. Comercialização	11532
 Comerciante	11438
 Comerciantes	1701
 Comercio	4209,2632,3086,434
@@ -147,7 +150,9 @@ DEL. REG. DE COMERCIO.-Concepto	4209
 DELEGACIÓN DIRECTIVO INSTITUTO DE COMERCIO DELEGACIÓN	4209
 Descoberta Comercial	11405
 Directora General de Comercio	9927
+Direcção Comercial da INACEP	11518,1
 Direito Comercial	11358
+Direção Comercial da INACEP	11527,42
 ECA and COMESA	1704
 Econet’s Fintech Comeback Pays Off	3016
 El Comercio Electrónico	9927

@@ -1,5 +1,6 @@
 AfDB President Sidi Ould Tah	6338
 Ahmat Youssouf Tahir	5671
+Ambassador Khaled Taha	11738
 Centre ETC de Tahoua	7374
 Centre Gidan Fasaha de Tahoua	7374
 Chef de Canton de Tahoua	9567
@@ -7,11 +8,13 @@ Chef du Bureau Unicef Tahoua	9567
 Dr. Mohyeldeen Eltohami Taha	6096
 Dr. Ould Tah	5202
 Dr. Sidi Ould Tah	5202
+ETC Guidan Fasaha de Tahoua	11694
 ETC de Tahoua	7374
 Fari Tahéruka Shabazz	10253
+Gouverneur de Tahoua	11694
 Hôtel de Ville de Tahoua	9668
 Ibrahim Tahirou Aissata	10951
-Le Gouverneur de Tahoua	9567
+Le Gouverneur de Tahoua	9567,2127
 M. Magdi Mohammed Abdallah Taha	4919
 M. Massaoudou Tahirou	4813
 Magdi M. Abdalla Taha	4898,77
@@ -24,7 +27,7 @@ Patriotisme Tahoua	3337,4,1472,2351
 Pour Tahoua	7374
 President Dr. Sidi Ould Tah	7784
 Professeur Tahirou Djara	9044
-Région de Tahoua	9567,101
+Région de Tahoua	9567,101,2026
 Sidi Ould Tah	5202,1136,3464,103,1232
 Sudan’s Battle for Connection. Tahrir Institute for Middle	6947
 Sudatel CEO Magdi Abdalla Taha	4918
@@ -44,9 +47,10 @@ Tahiry Rakotoheriniaina	10354
 Tahleho	8021
 Tahleho and Ngulube	8021
 TahnedcSounptpralysting	11152
-Tahoua	35,963,2553,1106,1302,1415,2192,1,101
+Tahoua	35,963,2553,1106,1302,1415,2192,1,101,1929,97
 Tahoua Prenant	7374
 Tahoua. Consciente	7374
+Tahoua. Elle	11694
 Tillabéri. Après Tahoua	10547
 Valdrin Tahiri	4127
 Ville de Tahoua	7374,2193

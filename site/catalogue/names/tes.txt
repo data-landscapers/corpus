@@ -3,11 +3,15 @@ Acceptance Testing UKZN University of KwaZulu-Natal UniLim	11197
 Acid Test	11240
 Additional Testing Requirements Software	5665
 Algoritmo de Testagem	10777
+Ana Djú Test	11541
 Angola Testagem de VIH Entre	10760
 Application-layers Control and Standards Test	5773
 Bartlett’s Test of Sphericity	4432
 Base de Artemisina Teste de Diagnóstico Rápido Taxa	10777
 Benoit Tessier	8273
+CRS Trade Test	11685
+CRS Trade Test Readiness	11685
+CRS Trade Testing Programme	11685
 CULTURA LICENCIA TOTAL TESORO PÚBLICO	4209
 Chpter Tesh Mbaabu	10464
 College English Test Band	8460
@@ -109,6 +113,7 @@ Repeat Formation Tester	11405
 Report Test Penetration	11153
 Reserve Bank of India's Stress Test Model	6938
 Responsiveness Test	11240
+SARS Trade Test Platform	11685
 SPECIMEN TESTING	4153
 Scalability Testing	5665
 Scheme UAT User Acceptance Testing UN	5533
@@ -159,6 +164,7 @@ TESORO PÚBLICO MINISTERIO CONCEPTO CATEGORÍA	4209
 TESORO PÚBLICO TOTAL TESORO PÚBLICO	4209
 TESPOK	6506,440
 TEST OF ACCOUNTABILITY AND THE RULE	10581
+TESTES	11556
 TSA Testes	11376
 TTOS and TES. Building	5533
 TURISMO LICENCIA TOTAL TESORO PÚBLICO	4209
@@ -176,7 +182,7 @@ Tesh Mbaabu and Mesongo Sibuti	10464
 Teshie Nungua Estates	3386
 Tesla	2816,4587,1057,1007
 Teslin	10812
-Tesorería	4209
+Tesorería	4209,7534
 Tesorería General	1701,2508,4856
 Tesorería General Múltiples Nacional	4209
 Tesorería de Patrimonio	1855
@@ -186,8 +192,9 @@ Tesoro Nacional	1701
 Tesoro Público	8153
 Tesoro Público. En	8554
 Tesouraria	11449
-Tesouro	744,8,42,545,1,1,1,739,2,1,2134,193,2,1,333,6003,33,587,8
+Tesouro	744,8,42,545,1,1,1,739,2,1,2134,193,2,1,333,6003,33,587,8,190
 Tesouro Nacional	4218,6534,626
+Tesouro Público	11532,36
 Tessalit	5380
 Tesseract	2625,648,2414,5083,204
 Tesseract OCR	163,4950
@@ -203,12 +210,15 @@ Test Execution	5665
 Test Management	5665
 Test Manager	5665
 Test Managers	5665
+Test PPSD Project Procurement Strategy for Development	11525
 Test Planning	5665
 Test Reporting and Closure	5665
 Test Schedule of Power Limits	736
 Test Technology	7998
 Test and Specification Management	7988
+Test of Investment-Led Regionalism	11608
 Testability	5665
+Testada	11693
 Testagem	10777
 Teste Piloto	10777
 Teste Prévio	10777
@@ -224,7 +234,7 @@ Testemunhas de Jeová	10777
 Testemunhos	11405
 Tester	5665
 Testers	5665
-Testes	10777,665
+Testes	10777,665,114
 Testes Recentes de VIH	10777
 Testes de VIH	10760,17
 Testes de VIH Prévios	10777
@@ -232,7 +242,7 @@ Testified	6635
 Testimonies	11332
 Testimony	2518
 Testimony Akinkunmi	9642
-Testing	11,1977,721,1901,1055,1883,424,698,453,6,920,1085,103,32
+Testing	11,1977,721,1901,1055,1883,424,698,453,6,920,1085,103,32,316
 Testing Attributes Functional Testing	5665
 Testing Dataset	4528
 Testing Director	5665

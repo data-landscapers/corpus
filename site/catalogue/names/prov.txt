@@ -80,8 +80,10 @@ CAPITALES DE PROVINCIAS CAPITALES DE PROVINCIAS	4209
 CAPITALES DE PROVINCIAS CATEGORÍA MINISTERIO CONCEPTO	4209
 CAPÍTULO IV ELEMENTOS DE PROVA Artigo	549
 CC Provides	10768
+CHAPTER I GENERAL. PROVISIONS Article	11517
 CHAPTER V CRYPTOGRAPHY PROVIDERS Register	11179
 CHAPTER VI AUTHENTICATION SERVICE PROVIDERS Part	11179
+CHAPTER VIJI FtNAL PROVISIONS Article	11517
 CHAPTER XIV GENERAL PROVISIONS	11179
 CIRMR-CSM.S3 Service Providers	10721
 CLOSED EXAMINATION OF DATA PROVISIONS	1243
@@ -113,7 +115,7 @@ Cloud Services Providers Entities	6432
 Cloud Services Providers. GOK Entities CSPs	6432
 Colmer Wapa Wireless Access Providers Association	6365
 Comando Provincial da Polícia Nacional de Angola	794
-Comissões Multissectoriais Provinciais	11421,25
+Comissões Multissectoriais Provinciais	11421,25,131
 Comissões Provinciais Eleitorais	539
 Comités Provinciais	10752
 Communications and Technology ISP Internet Service Provider	10781
@@ -133,6 +135,7 @@ Conta Provisória I Trimestre	4411,2,1
 Content Development and Provision of Devices for Learners	6946
 Content Providers	1766,1064
 Content Providers Use the Most International Bandwidth	1766
+Content Provision	11569
 Content Service Providers	6946
 Contract Terms Selecting of Cloud Service Providers	6432
 Cool Ideas Service Provider	11259
@@ -327,6 +330,7 @@ Ensino Secundário Técnico-Profissional Província Total MF	10766
 Ensino Secundário TécnicoProfissional Província TBE	10766
 Ensino Secundário TécnicoProfissional Província TLE	10766
 Ensino Secundário de Formação de Professores Província	10766
+Eswatini National Provident Fund	11626
 Etat DONNÉES PROVISOIRES INFORMATIONS GÉNÉRALES	2342
 Every Province MCAZ Engages Influencers Over	7312
 Evidence Provided Compliance Status Identity	6432
@@ -418,9 +422,9 @@ Government Cloud Services Provider	6432
 Governo Provincial	4294,6460,24,5,660
 Governor and Provincial Health Directorate	10776
 Governor of Nouaceur Province	4066
-Governos Provinciais	6970,3784,1,7,21,578,25,35,1,24
+Governos Provinciais	6970,3784,1,7,21,578,25,35,1,24,131
 Gross Capital Provider Buildings Equipment Office	236
-Grupos Técnicos Provinciais	11421,1,24
+Grupos Técnicos Provinciais	11421,1,24,131
 HIDRAÚLICAS GENERAL DE DELEGACIÓN PROVINCIAL DELEGACIÓN	4209
 Harare Metropolitan Province	1191
 Heads of Provincial	11184
@@ -471,6 +475,7 @@ Information Infrastructure Provider CIM Chartered Institute	6946
 Information PMO Provincial Medical Office PMTCT	34
 Information Provided Date	22
 Information Services Provision	8022
+Information Technology Provided	11739
 Infrastructure Providers	6946
 Inhambane Province	1228,3032
 Inspector Provincial	4209
@@ -562,7 +567,7 @@ Mashonaland West Province	5386,347,2563
 Matabeleland Province	362
 Mauritius. The Internet Service Provider	2913
 Medicines Wellness Coverage Providers Loading	9429
-Medidas Provisórias	11430
+Medidas Provisórias	11430,90
 Meios de Prova	11363
 Member of Provincial Parliament	8999
 Mensual PROVINCIAS DISTRITOS Importe Mensual Importe	4209
@@ -732,7 +737,7 @@ ProVice Chancellor	1554
 Produto Interno Bruto Provincial	11422
 Project BRIDGE Provide	5903
 Projecto de Investimento Público Provincial	10783
-Prova	10755,609,1,60
+Prova	10755,609,1,60,95
 Prova de Autenticação	10755
 Prova de Vida	2816,4494
 Prove	9517
@@ -783,7 +788,7 @@ Provide Life-Enhancing Services	195
 Provide Regulatory Sandboxes	5245
 Provide Warranty Certificate	7988
 Provide for Maintenance	7988
-Provided	1,2,19,373,341,236,251,2381,110,32,126,35,989,791,1234,1244,1574,1045,392,1,12,91
+Provided	1,2,19,373,341,236,251,2381,110,32,126,35,989,791,1234,1244,1574,1045,392,1,12,91,271
 Provided Feedback	9772
 Provided the Authority	972
 Providencia	11371
@@ -810,7 +815,7 @@ Providers of AI	7855
 Providers of Artificial Intelligence Systems	2958
 Provides	86,129,257,290,321,389,214,302,1507,1033,3020,242,1333,5,1635,5,140,280,73,7,1
 Provides ICT	907
-Providing	236,539,183,3,268,14,120,191,26,124,74,40,49,86,35,537,250,183,47,215,293,54,647,174,344,18,476,137,302,31,1244,8,481,119,297,177,353,61,110,40,254,165,198,433,66,34,229,337,68,393,78,15,117,12,92,52,1,3,65,28,24,2,23,227
+Providing	236,539,183,3,268,14,120,191,26,124,74,40,49,86,35,537,250,183,47,215,293,54,647,174,344,18,476,137,302,31,1244,8,481,119,297,177,353,61,110,40,254,165,198,433,66,34,229,337,68,393,78,15,117,12,92,52,1,3,65,28,24,2,23,227,27,81
 Providing CRAC	9123
 Providing Future Solutions Now	1263,1045
 Providing Holistic Care	10829
@@ -842,8 +847,8 @@ Provinces and Prefectures of Arrondissements. Stated	557
 Provincia	1701,9050
 Provincia Agregado Militar A1 Agregado Militar	4209
 Provincia da Huíla	539
-Provinciais	10783,638,25
-Provincial	34,362,340,3244,5019,1752,1,2,21,8,410,22,37,149,48
+Provinciais	10783,638,25,131
+Provincial	34,362,340,3244,5019,1752,1,2,21,8,410,22,37,149,48,102
 Provincial Administrations and Hospitals	10780
 Provincial Administrations and Public Hospitals	10780
 Provincial Affairs and Devolution Minister Judith Ncube	9397
@@ -859,6 +864,7 @@ Provincial Education Departments	11220
 Provincial Education Directorates	2989
 Provincial Excluding Harare and Bulawayo	736
 Provincial Executive	7738
+Provincial Gazette	11551
 Provincial Government of Huíla	10748
 Provincial Growths Development Plans	11289
 Provincial Head	11285
@@ -890,7 +896,8 @@ Provincial Ministerio Inspector Regional Ministerio Delegado	4209
 Provincial Operations	11261
 Provincial Os Projectos	10783
 Provincial Presence	8999
-Provincial Regulatory Entity	11494
+Provincial Regulatory Entities	11551
+Provincial Regulatory Entity	11494,57
 Provincial Secretaries	7814
 Provincial Secretario Consejo Superior	4209
 Provincial Secretario Fiscalía Corte Suprema Secretario	4209
@@ -909,7 +916,7 @@ Provinciales	10847
 Provincially	8846,2346
 Provincias	1701,2508,7157
 Provis. Reprov. Sec. Abandonos Aprovados Comparticipada	10766
-Provision	940,191,23,7,59,373,274,121,319,166,688,517,294,182,48,694,769,1167,114,592,10,297,509,543,212,535,763,368,54,300
+Provision	940,191,23,7,59,373,274,121,319,166,688,517,294,182,48,694,769,1167,114,592,10,297,509,543,212,535,763,368,54,300,440
 Provision Mechanisms	4154
 Provision Strengthening PASA	11469
 Provision Sustainable Environment	10837
@@ -942,23 +949,26 @@ Provisórias Improvisadas Angola	10766
 Provocar	11430
 Provocations	8460
 Provost	6936
-Província	539,6202,4010,6,9,17,583,7,36,12,25
+Província	539,6202,4010,6,9,17,583,7,36,12,25,131
 Província Angola Bengo Benguela Bié Cabinda	10766
 Província Aprovação Taxas	10766
 Província Cabinda	10777
 Província Cabinda Zaire Uíge Luanda Cuanza	10777
 Província Formalidade Total Formal	10757
 Província Huíla	10757
+Província Leste	11561
 Província MF Angola	10766
 Província MF Angola Bengo Benguela Bié	10766
 Província MF M	10766
 Província Matriculados Aprovados Angola Bengo Benguela	10766
 Província Matriculados MF M F Aprovados	10766
 Província N.º	10766
+Província Norte	11561
 Província Pública N.º	10766
 Província Quadro	10766
 Província Reprovados Desistidos Angola Bengo Benguela	10766
 Província Reprovados MF M F Desistidos	10766
+Província Sul	11561
 Província Taxa de Aprovação Taxa de Reprovação Taxa	10766
 Província Total Angola	10757
 Província Total Bengo Benguela Bié Cabinda	10757
@@ -971,7 +981,7 @@ Província da Huíla	11387
 Província da Lunda Norte	11460
 Província da Lunda-Norte	539
 Província de Cabinda	11427
-Província de Luanda	11394,52,3
+Província de Luanda	11394,52,3,128
 Províncias	10757,15,593,8,5,31
 Províncias da Região Centro-Norte	11406
 Províncias da Região Leste	11406
@@ -1092,13 +1102,14 @@ Service Providers and Users	5676
 Service Providers of Kenya	6946
 Service Providers. CIRMR-IReP.S3 CIRMR-IRP	10721
 Service Providers. Each Service Provider	10721
+Service Provision	11569
 Service Provision Guidelines	34
 Services Provider	8980
 Services Providers	7464
 Servicos Provinciais de Geografia	427
 Serviço Provincial	4979,171,5607,20
 Serviço Provincial de Identificação Civil	4505
-Serviços Provinciais	10757,664,25,3
+Serviços Provinciais	10757,664,25,3,128
 Severability and Savings Provisions	3861
 Sexo Província	4044
 Sexo Total Província	4044
@@ -1193,9 +1204,10 @@ Vipnet Connectivity Provider	10956
 Virtual Asset Service Provider	9311,223,220,121
 Virtual Asset Service Provider Association	9956
 Virtual Asset Service Providers	3289,581,732,303,226,2210,493,346,410,113,120,3,404,1901
-Virtual Asset Service Providers Act	3793,1115,2699,227,863,6,608,223
+Virtual Asset Service Providers Act	3793,1115,2699,227,863,6,608,223,2165
 Virtual Asset Service Providers Regulations	7607
 Virtual Asset Service Providers Regulations. Select	10738
+Virtual Assets Providers Act	11699
 Virtual Assets and Virtual Assets Service Providers	11134
 Virtual Internet Service Provider License	762
 Virtual Internet Service Providers	762

@@ -33,7 +33,7 @@ MVNEs	10537
 MVNO PPP	3695
 MVNO SIMs	10537
 MVNO. Ultimately	10537
-MVNOs	958,1381,3533,962,534,33,1143,180,1813,58,78,586
+MVNOs	958,1381,3533,962,534,33,1143,180,1813,58,78,586,505
 MVNOs Lycamobile	1818
 MVNOs and BWA	8544
 MVNOs. General	5872
@@ -46,6 +46,7 @@ MVola Avance. Demain	8816
 MVola Developer's Portal	2633
 MVola Wallet-to-Bank and QR Code	2633
 MVola and Mixx	4076
+Medium-sized Enterprises MV Medium Voltage MW	11549
 Mekulu Mvondo	3658,2617,145
 Mixx and MVola	5151,1
 Ms Nonkosi Mvana	11229
@@ -56,7 +57,8 @@ Mveleza Publishing	2885,1650,350,49,187,653,25,474,547,1,222
 Mvengué	2325
 Mvilawemphi Dlamini	4058
 Mvog-Mbi	4269
-Mvola	817
+Mvola	817,10912
+Mvola. L’incident	11729
 Mvolyé	6575
 Mvouna Hamidou	4742
 Mvouni	8876

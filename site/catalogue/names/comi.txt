@@ -1,5 +1,6 @@
 ADMINISTRATEURS ET MEMBRES DES COMITÉS D’AUDIT	2342
 ANNEXES MEMBRES DU COMITÉ DE SUPERVISION	10712
+ASSEIIBLEIA NACIONAL POPULAR Comissão Nacional de Eleições	11544
 Agence de Développement du Digital. Ce Comité	9406
 Alto Comissariado	11364,1
 Ao Coordenador da Comissão Inspectiva	11452
@@ -16,6 +17,8 @@ COMINSUD	10960
 COMISARIA LOGÍSTICA E NARCÓTICOS Y LABORATORIO	4209
 COMISION INFANTIL	4209
 COMISSÃO DE ACOMPANHAMENTO	11455
+COMISSÃO NACIONAL DE ELEIÇÕES	11528
+COMISSÕES REGIONAIS DE ELEIÇÕES	11528
 COMITE DE PILOTAGE Direction Générale ANDF	10876
 COMITE MEF D	10876
 COMITÉS D’AUDIT ET DE GESTION DES	2342
@@ -70,27 +73,38 @@ Comisión de Supervisión Presupuestaria de Alto Nivel Se	4209
 Comissariado Geral de Moçambique	2816
 Comissariado Geral de Moçambique CPLP	2816
 Comissária da UE Jutta Urpilainen	9434
-Comissão	15,2300,129,1075,11,2027,15,247,3061,378,1492,2,3,17
+Comissário da Direção de Estrangeiros	11566
+Comissários da Marinha	11537
+Comissão	15,2300,129,1075,11,2027,15,247,3061,378,1492,2,3,17,756,33
+Comissão Científica	11542
+Comissão Conclusão	11569
 Comissão Económica	2816,8562,5
 Comissão Econômica	11393
 Comissão Eleitoral Nacional	3530,2288,2718
+Comissão Especializa	11527
 Comissão Especializada	1268,72
 Comissão Europeia	2816
 Comissão Executiva	7667,336
 Comissão Executiva da Mercury	6617
+Comissão Fun	11514,13
+Comissão Fundiária Na	11514
+Comissão Fundiária Nacional	11514,13
+Comissão Fundiária Nacional. ARTIGO	11527
+Comissão Fundiária Regional	11527
 Comissão Inspectiva	11452
 Comissão Inter-americana de Telecomunicações	2816
 Comissão Interministerial	10772
 Comissão Interministerial Social	3246
 Comissão Interministerial de Gripe H1N1-2009	11376
 Comissão Intersectorial	11406
-Comissão Multissectorial de Apoio	11421,1,24
-Comissão Nacional	2953,8418
+Comissão Multissectorial de Apoio	11421,1,24,131
+Comissão Nacional	2953,8418,160
 Comissão Nacional Eleitoral	6640,3788,997
 Comissão Nacional da UNESCO	7882
 Comissão Nacional de Angola	7882,3505,91
 Comissão Nacional de Educação	10766
-Comissão Nacional de Eleições	4419,519,5333
+Comissão Nacional de Eleições	4419,519,5333,1290
+Comissão Nacional de Eleições. ARTIGO	11528
 Comissão Nacional de Fronteiras	5402
 Comissão Nacional de Fronteiras da Guiné-Bissau	5402
 Comissão Nacional de Inteligência Artificial	2816,7735
@@ -99,9 +113,10 @@ Comissão Nacional de Protecção de Dados	1338,742,265
 Comissão Nacional de Protecção de Dados de Cabo Verde	6568
 Comissão Nacional de Proteção de Dados Av. D	3079
 Comissão Permanente	11443
+Comissão Setorial de Recenseamento	11528
 Comissão Técnica	10755,690,5,6
 Comissão Técnica Multissectorial de Coordenação	10551
-Comissão Técnica de Especialidade	11421,25
+Comissão Técnica de Especialidade	11421,25,131
 Comissão Técnico-Científica	4274
 Comissão da CEDEAO	8051
 Comissão da Comunidade Económica	8051
@@ -110,6 +125,7 @@ Comissão da União Africana	795,1330
 Comissão de Acompanhamento	11455
 Comissão de Administração	11436
 Comissão de Assuntos Constitucionais	539,10897
+Comissão de Avaliação	11518
 Comissão de Carteira	11056
 Comissão de Cultura	539
 Comissão de Defesa	9258
@@ -118,19 +134,28 @@ Comissão de Especialistas	3519
 Comissão de Fiscalização	11358
 Comissão de Fiscalização Cabe	11358
 Comissão de Gestão	167
+Comissão de Recenseamento	11528
 Comissão de Reestruturação	167
 Comissão de Relações Exteriores	539,10897
 Comissão de Rescisão	11430
 Comissão de Segurança	11436
 Comissão de Serviço	167
 Comissão de Trabalho Especializada	539
-Comissões	11425
-Comissões Multissectoriais Provinciais	11421,25
+Comissões	11425,89,13,1,33
+Comissões Fundiárias	11514
+Comissões Fundiárias Regionais. Sectoriais	11514
+Comissões Multissectoriais Provinciais	11421,25,131
 Comissões Municipais Eleitorais	539
 Comissões Provinciais Eleitorais	539
+Comissões Regionais de Eleições	11561
+Comissões Sectoriais de Recenseamento	11561
 Comissões Técnicas de Normalização Permanente	11381
 Comissões da Assembleia Nacional	11436
+Comissões de Gestão	11514
 Comissões de Moradores	11425
+Comissões de Recenseamento	11528
+Comissões de Recenseamento Compete	11528
+Comissões de Recenseamento. As Comissões	11528
 Comissões de Serviço da Rede Multicaixa	11403
 Comissões de Serviços	11403
 Comissões de Trabalho	11452
@@ -139,16 +164,19 @@ Comissões de Trabalho Especializadas da Assembleia Nacional	8880
 Comite Nacional de Inclusao Financeira	2138
 Comite de Pilotage Unique	10829
 Comite de Satélite	1215
-Comité	545,98,104,500,432,23,53,213,374,233,129,104,237,10,207,43,268,636,211,131,56,513,289,97,124,186,75,102,50,696,88,469,235,90,162,5,25,30,49,64,21,22,60,38,427,60,216,34,185,3,178,225,195,308,209,136,214,37,81,42,130,18,26,4,1,15,8,25,2,26,63,10
+Comité	545,98,104,500,432,23,53,213,374,233,129,104,237,10,207,43,268,636,211,131,56,513,289,97,124,186,75,102,50,696,88,469,235,90,162,5,25,30,49,64,21,22,60,38,427,60,216,34,185,3,178,225,195,308,209,136,214,37,81,42,130,18,26,4,1,15,8,25,2,26,63,10,629,57,82
 Comité Central	11045
 Comité Cette	10975
 Comité Científico	10487
 Comité Consultatif Communautaire	2342
 Comité Consultatif des Consommateurs	10975
+Comité De Pilotagem	11547
 Comité Directivo da SADC	9799
 Comité Director	7945
 Comité Director.O	7945
 Comité Especial	1701
+Comité Estratégico	11569
+Comité Executivo	11531
 Comité Inter-États de Lutte	10874
 Comité Ministériel	8328
 Comité Nacional	9065
@@ -160,6 +188,7 @@ Comité Nacional de Inclusão Financeira	2138
 Comité Nacional de Luxofonía	4209
 Comité Nacional de Medidas Sanitarias	4209
 Comité Nacional de Política Económica da Costa	11044
+Comité Nacional de Registo Civil	11537
 Comité Nacional de Seguridad	4209
 Comité Nacional de Transporte	4209
 Comité Nacional de Turismo	4209
@@ -180,12 +209,15 @@ Comité Technique National du RGE	10875
 Comité Technique de Coordination	10712
 Comité Technique de Suivi	10829,51,84
 Comité Technique de Supervision	5531,5345
-Comité Técnico	5721
+Comité Técnico	5721,5806,4,11
 Comité Técnico de Avaliação Científica da IEEE	2816
 Comité Técnico de Cibersegurança	4147
 Comité de Balanza de Pagos Trabajos de Seguimiento Coyuntura	4209
+Comité de Coordenação	11557
 Comité de Datos Fiscales	4209
 Comité de Direcção	8594
+Comité de Direção	11542
+Comité de Estado	11527
 Comité de Facilitation	5993
 Comité de Gestion des Etablissements Scolaires CE1	10847
 Comité de Iniciativa Nacional de IA	3519
@@ -196,7 +228,8 @@ Comité de Pilotage Open Data. Il	747,1
 Comité de Pilotage Open Data. Un	748
 Comité de Pilotage Unique	10829
 Comité de Pilotage. Le Comité Technique de Coordination	10712
-Comité de Pilotaje	5111,183
+Comité de Pilotagem	11547
+Comité de Pilotaje	5111,183,6449
 Comité de Politique	2623
 Comité de Politique Monétaire	8316
 Comité de Preços	1215,10215
@@ -216,9 +249,11 @@ Comités Nacionais de Política Económica	11044
 Comités Provinciais	10752
 Comités de Vigilancia	4209
 Comités des Utilisateurs de Recherches	12
+Comitê Técnico	11569
 Comitês Nacionais de Coordenação	11044
 Comium	6226
 Composição da Comissão de Fiscalização	11358
+Comércio Classe Acadêmica Comitê Técnico	11569
 Constitucional Presidente Comisión Nac. UNESCO Secretario	4209
 Contingent Emergency Response Component CPF Comité	10964
 Contribuables CTCS Comité Technique de Coordination	10712
@@ -231,6 +266,7 @@ Cross-Border Data Flows and International Comity	3861
 Células Sectoriales Comisión Nacional de Coordinación	4209
 D.C. Comité National Economique	1828
 Dados Comissão de Acompanhamento	10766
+El Comité de Pilotaje	11743
 Electricité CEN Comité Electrotechnique National CLUB-ER	10975
 Electrification Rurale COMIFAC Commission des Forêts	10975
 Escritório Coordenadora da Comissão de Protecção	10750
@@ -253,26 +289,36 @@ Le Comité des Affaires Monétaires	7956
 Le Comité du Fasuce	2763
 Le Président du Comité de Pilotage	10902
 Le Vice-président du Comité	8196
+Lei da Comissão Nacional de Eleições	11528,33
 Les Comités Techniques de Gestion de Programmes	10712
 Licence CCCE Comité Consultatif des Consommateurs	10975
+Língua CCM Comité de Coordenação	11557
 MEMBRES DES COMITÉS D’AUDIT ET	2342
 Marshall McLuhan Saw Coming Marshall	8380
 Mobile App Coming Soon	5817
+Monitorização CoTéc Comité Técnico CONFEMEN Conferência	11557
 Niveau Comité	10712
 Niveau Comité Comités	10712
 Nombre de Comités Locaux	3396
 Nomination des Membres du Comité National	2625
+O Comité Técnico	11527
+O Comité de Coordenação	11523
+O Comité de Direção	11542
+O Comité de Pilotagem	11523,24
 Objectifs CP Comité de Pilotage CSC Cellule	10712
 Open Data. Ce Comité	9406
 Open Data. Elargissement du Comité de Pilotage	9406
 Organisme Nombre de Comités Villages	10876
+PARTE II Asscmblela Nacional Popular Comissâo	11544
 POSAF. Le Comité de Pilotage	10712
 PRIMEIRO SEMINÁRIO DO COMITÉ DE CAPACITAÇÃO	11473
 Parlamento Letrado Mayor Vice Presidente Comisión	4209
 Pour le Comité	6739
 Presidente da Comissão de Cultura	539
+Presidente da Comissão de Recenseamento	11528
 Presidente da Comissão de Trabalho Especializada	539
 Primera Teniente de Navío Alférez de Navío Comisario	4209
+Projecto WARDIP Guiné-Bissau O Comitê Técnico	11542
 Proyecto Comisión Nacional de Codificación	4209
 Président du Comité	8269,2004
 Président du Comité National de Politique	10500
@@ -281,7 +327,10 @@ Regional and International Comity	3861
 Representantes da Comissão Intersectorial	10752
 Règles de Fonctionnement du Comité National	2625
 Réunion du Comité Exécutif. L’ARSEL	10975
+SECÇÃO III COMISSÕES FUNDIÁRIAS SUBSECÇÃO	11527
 SNFI. Le Comité de Pilotage	10965
+SUBSECÇÃO I COMISSÃO FUNDIÁRIA NACIONAL ARTIGO	11527
+SUBSECÇÃO II COMISSÕES FUNDIÁRIAS REGIONAIS ARTIGO	11527
 Sahel CARFO Banque Mondiale CBSD Comité	643
 Secretario Comisión Parlamentaria	4209
 Secretario General Comisión Nal. UNESCO Secretario	4209

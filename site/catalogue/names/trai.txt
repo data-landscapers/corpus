@@ -61,6 +61,7 @@ Bakisa Vocational Training Centre Data Processor	7167
 Bank Bénin Traitement	10821
 Broadcast Logger User Training Programme	7957
 Broadcast Monitoring Training	7957
+Buba. Training	11541
 Bungoma Township Vocational Training Centre Data	7167
 Burkina Faso Trains Lawmakers	7361
 BÉNIN Traitement	10821
@@ -89,7 +90,7 @@ Can Train	10015
 CanalBOX Bénin Traitement	10821
 Capacity Building Initiatives Training	6946
 Capacity Building and Training	10776
-Cellule Nationale de Traitement des Informations Financières	2623
+Cellule Nationale de Traitement des Informations Financières	2623,8899,45
 Central Region Training Centre	8286
 Centre de Documentation de Sécurité Publique Traitement	10821
 Centre de Traitement Intermédiaire	10891
@@ -168,7 +169,7 @@ Earn Certificates Under New Training Plan	10280
 Ecobank Benin SA Traitement	10821
 Economic and Social Research and Training Centre for Islamic	6203
 EduSpots’ Training Centre	11306
-Education and Training	899,1041,835
+Education and Training	899,1041,835,8778
 Education and Training Act	6921
 Education and Training Authority	10709
 Education and Training Authority MISS Minimum Information	11196
@@ -199,6 +200,7 @@ Features of SmartCare Pro Overview of Training	2477
 FiberOne Training Academy	10742
 First Aid Training The Bank	11134
 Fonction Publique Traitement	10821
+Forestry Training Institute	11720
 Foundation GIS and Data Management Training	6427
 Foundational Training and Capacity Initiation	3861
 Founder Training	11309
@@ -440,9 +442,10 @@ Stakeholder Consultative Engagement and Awareness Training	10598
 Station de Traitement de Boues de Vidange	2342
 Ste Lord of David Traitement	10821
 Ste WGS SARL Traitement	10821
+Study Tours and Training	11552
 Support the Development of Shared AI Training Datasets	11138
 System Training	10616
-TRAINING	1988
+TRAINING	1988,9619
 TRAINING LIMITED Data Controller INST-3420092D39C NAIROBI	7167
 TRAINING PROGRAM	11017
 TRAIT CÔTIER DE LA BANDE LITTORALE	8891
@@ -470,7 +473,7 @@ Technical Vocational Education and Training UIF Unemployment	11250
 Technical Vocational Training	11210
 Technical and Vocational Education Training	11315
 Technical and Vocational Education Training Institutes	1638
-Technical and Vocational Education and Training	1777,998,1878,2179,116,1621,5,565,63,187,709,365
+Technical and Vocational Education and Training	1777,998,1878,2179,116,1621,5,565,63,187,709,365,1073
 Technical and Vocational Education and Training USAf	6832
 Technical and Vocational Training Centers Upgrading Project	258
 Technician Training	7548
@@ -497,7 +500,7 @@ Trainer SunHo Sin	10219
 Trainer of Trainers	11018,68
 Trainer-of-Trainers	7990
 Trainers	4217,2615,716
-Training	336,563,41,18,12,30,131,88,10,55,270,43,180,1,40,49,73,48,486,3,123,74,101,214,40,575,4,88,94,1,70,265,76,326,125,222,411,247,50,402,63,7,177,26,174,107,44,249,47,15,9,45,203,31,269,97,241,522,59,233,25,16,22,173,289,11,64,637,207,2,28,80,294,104,163,3,47,8,53,12,7,8,9,57,24,2,69,114,3,6,31,17,30,6,7,17,4,44,18,33,70,76
+Training	336,563,41,18,12,30,131,88,10,55,270,43,180,1,40,49,73,48,486,3,123,74,101,214,40,575,4,88,94,1,70,265,76,326,125,222,411,247,50,402,63,7,177,26,174,107,44,249,47,15,9,45,203,31,269,97,241,522,59,233,25,16,22,173,289,11,64,637,207,2,28,80,294,104,163,3,47,8,53,12,7,8,9,57,24,2,69,114,3,6,31,17,30,6,7,17,4,44,18,33,70,76,32,56,26
 Training Accreditation	1877
 Training African	5302
 Training And Research In Kenya	899
@@ -515,6 +518,7 @@ Training Cost	11314
 Training Data	7548
 Training Dataset	4528
 Training Emerging Technologies Technologies	7548
+Training INM-GB	11553
 Training Institutes AI	7548
 Training Institution Information System	1261
 Training Jobs	4126
@@ -565,20 +569,20 @@ Traininginitiativesfocusedonhelpinglecturers	8602
 Trainings	1362,416,210,4958,3822
 Trainings and Awareness Campaigns	10776
 Trains	4259
-Traitement	37,105,294,112,189,261,233,2234,860,1821,4565,1,105,4,4,11,39,100
+Traitement	37,105,294,112,189,261,233,2234,860,1821,4565,1,105,4,4,11,39,100,605
 Traitement SGBDPS	10975
 Traitement des DNA	3396
 Traitements	1187,2350,7284
 Traitements Intermédiaires de Données	10812
 Traiter	747,258,9853
-Traité	1968,840,8018,10,303
+Traité	1968,840,8018,10,303,383,45
 Traités	10826
 Trésor IV.2.4.1.3. Traitement	10876
 Tshokoma Training and Consulting. President Cyril Ramaphosa	8598
 UJ Connect Entrepreneurship Training and Mentorship	7652
 UNITES RECUS DOSSIERS ECARTS Pourcentage TRAITES	10975
 UVRE DES TRAITEMENTS DE DONNEES	10825
-United Nations Institute for Training and Research	9106
+United Nations Institute for Training and Research	9106,2466
 Université de Parakou Traitement	10821
 Urban Agenda Training	5771,84,268,178,427
 User Onboarding and Training	11216
@@ -588,7 +592,7 @@ VISIOWORLD CPL Traitement	10821
 Viakin Kintossou C.F. Marcus Traitement	10821
 Vocational Education and Training	6948
 Vocational Training Colleges	7204
-Vu le Traité	10836
+Vu le Traité	10836,686,45
 WATRA-Cyber Regional Training Program	5677
 Workers Trained Figure	10976
 XI.2.2. Traitement	10876

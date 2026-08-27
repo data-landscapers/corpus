@@ -34,7 +34,7 @@ Affaire	10860,220
 Affaire Bachar	1943
 Affaire Dangnivo	7392,1
 Affaire Martinez Zogo	10379,2,310
-Affaires	998,596,88,662,63,154,790,45,15,567,349,665,86,39,6,566,177,33,566,90,251,21,56,13,63,226,220,25,111,41,88,152,156,21,73,80,85,2,22,8,67,105,143,134,15,30,58,70,151,2,243,55,106,102,106,319,202,54,173,96,19,26,47,234,34,42,73,116
+Affaires	998,596,88,662,63,154,790,45,15,567,349,665,86,39,6,566,177,33,566,90,251,21,56,13,63,226,220,25,111,41,88,152,156,21,73,80,85,2,22,8,67,105,143,134,15,30,58,70,151,2,243,55,106,102,106,319,202,54,173,96,19,26,47,234,34,42,73,116,580
 Affaires Contentieuses ST	10975
 Affaires Coutumières	6354
 Affaires Coutumières Shabani Lukoo Pour	5123
@@ -109,18 +109,20 @@ Affirmative Repositioning	1981
 Affirming	8496,1164
 Affluent	4563
 Afflux	10688
-Affordability	395,1,544,1000,1516,148,591,157,2241,115,2019,280,96,42,4,307,303,165,565,355,88,72,28,104,126
+Affordability	395,1,544,1000,1516,148,591,157,2241,115,2019,280,96,42,4,307,303,165,565,355,88,72,28,104,126,301,9
 Affordability Concerns Persist	4182
 Affordability Connectivity Egypt	11004
 Affordability Gains Across Regions	6318
 Affordability Literacy and Affordability Safety	11004
+Affordability Remains	11737
 Affordability Safety and Connectivity	11004
+Affordability and Internet	11563
 Affordability of Financial Services	940
 Affordability of ICT	10851
 Affordability of Internet-Enabled Handsets and Data	11004
 Affordability-Chart.jpg	6318
 Affordability-Variation-Graph.jpg	6318
-Affordable	789,475,440,550,37,952,804,63,1136,433,1525,73,599,215,22,934,712,1324,57,329
+Affordable	789,475,440,550,37,952,804,63,1136,433,1525,73,599,215,22,934,712,1324,57,329,261
 Affordable Broadband	6539,126
 Affordable Broadband Connectivity and Inclusion	1914,798,3867
 Affordable Broadband Loan DFC	831
@@ -145,7 +147,7 @@ African Affordability	1013,931
 African Centre for Parliamentary Affairs	9203
 African Countries Ministry of Foreign Affairs	626
 African Journal of Public Affairs	4432
-Afrique du Droit des Affaires	10829,7,139
+Afrique du Droit des Affaires	10829,7,139,547,27
 Afrique du Droit des Affaires ONG Organisation Non	10876
 AftfoilIiantsitointution of Affiliation	1154
 Alliance for Affordable Internet	4619
@@ -320,9 +322,11 @@ ENTITIES AFFECTED	2709
 ET DES AFFAIRES AFRICAINES Arrêté	4658
 EU-US Justice and Home Affairs	10088
 East African Community Monetary Affairs Committee	7815,711
+Economic Affairs Officer	11736
 Economic Affairs and Agriculture	7452
 Economic Affairs and Employment Enterprises France	11135
 Economic and Financial Affairs	4071
+Economic and Social Affairs	11569
 Economic and Social Affairs UNESCO United Nations	10759,78
 Ekurhuleni Minister of Home Affairs	10058
 El-Hadj Affissou Anonrin	4162
@@ -426,6 +430,7 @@ Home Affairs Minister Leon Schreiber	2352,1904,516,1300,1686,2427
 Home Affairs Minister Patrobas Katambi	10460
 Home Affairs National Identification System	5533
 Home Affairs National Identity System	5533
+Home Affairs Principal Secretary	11628
 Home Affairs Research	1988
 Home Affairs Services	5533
 Home Affairs Smart ID	7331,427
@@ -516,6 +521,7 @@ Literacy and ALL COUNTRIES Affordability Literacy and Safety	11004
 Local Government Affairs	11129
 Lower Taxes and More Affordable Devices	8241
 MAEC Ministère des Affaires	10712
+MBB Affordable	11563
 MINAS Ministère des Affaires Sociales	10964
 MINISTER OF FOREIGN AFFAIRS	4202
 MINISTRY OF HEALTH Humanitarian Affairs	4154
@@ -551,7 +557,7 @@ Minister of Environmental Affairs and Tourism and Others	2307
 Minister of Finance and Economic Affairs	7694
 Minister of Finance and Economic Affairs Seedy K.M	7692
 Minister of Finance. The Department of Home Affairs	11212
-Minister of Foreign Affairs	4345,7,1473,1627,740,1083,1292
+Minister of Foreign Affairs	4345,7,1473,1627,740,1083,1292,1012
 Minister of Foreign Affairs and Cooperation	25,8729
 Minister of Foreign Affairs and International Cooperation	3256,911,5594,715
 Minister of Foreign Affairs and International Trade	9761
@@ -559,6 +565,7 @@ Minister of Foreign Affairs and Minister of Post	4340
 Minister of Foreign Affairs of Benin	9275
 Minister of Foreign Affairs of Côte	9275
 Minister of Foreign Affairs of Nigeria	5499
+Minister of Foreign Affairs. Minister of Foreign Allairs	11517
 Minister of Home Affairs	2614,329,74,418,1351,747,58,533,72,1373,989,518,159,349,474,1118,1,35,1,51,14,2
 Minister of Home Affairs Dr LA Schreiber	11218
 Minister of Home Affairs Edgar Lungu	121
@@ -603,7 +610,7 @@ Ministry of Economic Affairs and Communications	11135
 Ministry of External Affairs	4576,5173
 Ministry of External Affairs. The South African	6480
 Ministry of Finance and Economic Affairs	1277,3266,819
-Ministry of Foreign Affairs	11,576,38,438,1,179,965,459,69,760,796,236,112,607,617,409,444,382,651,1232,317,59,480,289,336,33,71,142,132,294,19,333
+Ministry of Foreign Affairs	11,576,38,438,1,179,965,459,69,760,796,236,112,607,617,409,444,382,651,1232,317,59,480,289,336,33,71,142,132,294,19,333,85,149
 Ministry of Foreign Affairs Monrovia	4202
 Ministry of Foreign Affairs Success Indicator Measurable	4528
 Ministry of Foreign Affairs and International Affairs Review	1161
@@ -653,6 +660,7 @@ Mobile Money Taxes and Affordability	5234
 Monetary Affairs	4103,3684,1375
 Monetary Affairs Committee	7815,152,2293,202
 Monitoring The Ministry of Home Affairs and Internal	1988
+Mosebi and Home Affairs and Police Minister	11628
 My Home Affairs Online	10185
 NCC's Director of Public Affairs	5874
 NIA Corporate Affairs	3567
@@ -680,6 +688,7 @@ Nouakchott. Foreign Affairs Minister Mohamed Salem	7190
 OASIS Affinity Domain	1009
 Office of Global Affairs	496,183
 Office of International Affairs	9188
+Office of Research Affairs	11585
 Office of Treaty Affairs	1234
 POTRAZ Ministry of Foreign Affairs	4528
 Parliament Draft Home Affairs Bill	5533
@@ -691,6 +700,7 @@ Peering Makes the Internet More Affordable	7246
 Pillar Access Connectivity Affordability Description Promote	5676
 Political Affairs	7182,270
 Population Affected	1828
+Povo Guiné-Bissau AFF Análise	11557
 Presenting the Ministry of Home Affairs	10460
 Presidential Affairs	3583
 Principal Secretary for Parliamentary Affairs	8382
@@ -810,6 +820,7 @@ Under Secretary of State for Economic Affairs Jacob	4447
 Une Affaire de Choix	8891
 Union for Foreign Affairs and Security Policy	11155
 United Nations Department of Economic and Social Affairs	2510,8084,120,51,10,60,3,18,112,36
+United Nations Department of Economics and Social Affairs	11572
 United Nations Office for Disarmament Affairs	2117
 United Nations Office for Outer Space Affairs	7760,3484
 Université Nazi BONI. Affilié	8721

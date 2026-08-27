@@ -8,8 +8,9 @@ AIDLC	8869
 AIDS Acquired Immune Deficiency Syndrome DMMU	1988
 AIDS Behav	1219
 AIDS Commission	3583
-AIDS HELPLINE	1009,10167,3,2,9,6,3,2,12,20,30
+AIDS HELPLINE	1009,10167,3,2,9,6,3,2,12,20,30,288,22
 AIDS Helpline	11350
+AIDS Human Immunodeficiency Virus	11560
 AIDS Programmes	11218,6
 AIDS Response	10776
 AIDS Response HIV	10776
@@ -42,7 +43,7 @@ Aide-mémoire	9276
 Aidec Digital	6936
 Aider	10643
 Aider des Béninois	6221
-Aidha	1921,947,218,1301,1029,599,4,308,275,616,93,624,528
+Aidha	1921,947,218,1301,1029,599,4,308,275,616,93,624,528,3164,16
 Aidin Geranrekab A Inteligência Artificial	11329
 Aiding	587
 Amada Aida. Créé	7202
@@ -66,7 +67,8 @@ Eastern Deanery AIDS Relief Program Data	7167
 Economics of Localizing Aid	6947
 European Civil Protection and Humanitarian Aid Operations	970,9871
 Explore AidData	7590
-Fight AIDS	392,545
+Fatores Facilitadores AIDA Ayuda	11557
+Fight AIDS	392,545,10623
 Fight Against AIDS and Major Endemic Diseases	10776
 First Aid	11134
 First Aid Administration	11131
@@ -108,6 +110,7 @@ Mawasiliano. Aidha	6019
 Medical Aid	11218,80
 Mheshimiwa Rais. Aidha	2868
 Mutual Aid and Diaspora Alliances	6947
+NGO AIDA	11525
 NGO Direct Aid	10864
 Naibu Katibu Mkuu. Aidha	2868
 National AIDS	4153
@@ -147,4 +150,5 @@ Vera Aidoo For Diana	3691
 Wike’s Aide Under Fire for Leaking Voter	7176
 World AIDS Day	4049
 World Aids Day	5162
+Zanzibar. Aidha	11612
 Zimbabwe National AIDS Council	3385

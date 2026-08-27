@@ -15,6 +15,7 @@ Encuesta de Población Activa	4209
 FARMACIAS Y SIMILARES CONSEJOS DE POBLADOS	4209
 I Censo Agropecuario V Censo de Población	10487
 II Encuesta de Población Activa-EPA	4209
+Inquêrito Ligeiro de Avaliação da Pobreza	11525
 La Política de Población	1701
 Mega Sistema Poblacional Motores Niveles	1701
 Mega-Sistema Poblacional	1701
@@ -23,8 +24,9 @@ POBLADOS CATEGORÍA MINISTERIO CONCEPTO ACTUAL CATEGORÍA	4209
 Población	1701,6347
 Población Vulnerable	4209
 Poblado	4209
-Pobreza	1701,247,8806,11,10,587,28
+Pobreza	1701,247,8806,11,10,587,28,172,15,101
 Pobreza DESARROLLO SOSTENIBLE	1701
+Pobreza Multidimensional	11586
 Pobreza PIPGR Programa de Inclusão Produtiva	11390
 Pobreza. Eje Estratégico II	1701
 Política Nacional de Población	1701

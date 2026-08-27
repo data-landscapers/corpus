@@ -92,10 +92,12 @@ African School of Economics and Université	7886
 African Science	6695,3726
 African Science Granting Councils	862
 African Science Granting Councils Initiative	5036
+African Scientific Journal	11593
 African Tech Scale-Up Fund	819
 African Trust Scheme Authority. A Trust	10819
 African Women School of AI	9261
 Africa’s Startup Scene From Cotonou	10887
+Agencies PFM Public Financial Management SCD	11545
 Agent Loyalty Scheme	10249
 Agostinho Neto School	10765,10
 Agricultural Certificate Morcellement Scheme	7845
@@ -116,6 +118,8 @@ Along the Tana River Irrigation Scheme	9547
 Amendment of Schedule	5687
 American Behavioral Scientist	2096
 American Political Science Review	2096,5790
+Amref Ethics and Scientific Review Committee	11578
+Amref Health Africa Ethical and Scientific Review	11585
 Ana Horigoshi Research Scientist	7590
 Andrew Gilhooly and Kristyn Schrader-King	10977
 Anhui YISHANG Digital Science Co. Ltd	189
@@ -276,6 +280,7 @@ COUNTY GIRLS HIGH SCHOOL NAIROBI Data	7167
 CPD Scale	899
 CPF INDIVIDUAL PENSION SCHEME Data Controller	7167
 CPSD and SCD	10779
+CRS XML Schema V.3	11685
 Cahora Bassa Scheme. Cavaleros	4950
 Calcul Scientifique	1183
 Cambridge Judge Business School	6231,1843,1946
@@ -361,6 +366,7 @@ Commissioner for Science and Digital Economy Dr Frank	10229
 Common Scenarios	6432
 Commonwealth Scholarship Commission	10252
 Communication Sciences	7886
+Communication Sciences and Techniques	11658
 Community and Health Sciences Faculty	8022
 Companies Schneider Electric	2329,88,121,468,6,121,80,257,110,145,217,103,378,661,379,417,34,225
 Company's Schedule	8939
@@ -368,7 +374,7 @@ Complete Complete Complete Ahead of Schedule Ahead	11134
 Compliance Requirements Compliance Level Score Regulations	5665
 Composite Score	2957
 Computation of Sovereignty Score Commission	3787
-Computer Science	1554,5724,1328,522,347,585,642,429,2,1
+Computer Science	1554,5724,1328,522,347,585,642,429,2,1,510,71
 Computer Science Department	8606
 Computer Science Information Systems	10060
 Computer Science Review	8603,2
@@ -512,7 +518,7 @@ Department of Information Science	8021
 Department of Library and Information Science	8022
 Department of Mathematics and Computer Science	5097
 Department of Nursing Science	8604
-Department of Science	5533,947,500,518,1104,524,1680,415,23,21,16
+Department of Science	5533,947,500,518,1104,524,1680,415,23,21,16,344
 Department of Science and Education	6948
 Department of Science and Innovation	6832,54,4450
 Department of Science and Technology	396,1418
@@ -537,6 +543,7 @@ Development Goals Science Granting Councils Initiative	1154
 Development Student Industrial Work Experience Scheme	10721
 Device Affordability and Access Scheme	4653
 Device Affordability and Access Scheme Data Protection	4653
+Diagnostic Study of Higher Education and Scientific Research	11552
 Diamond Junior Schools	6946
 Die Schaffung	503
 Different Scenarios	1828
@@ -548,6 +555,7 @@ Digital Imaging and Scanning International Group	7167
 Digital Journal of Computer Science and Technology	9128
 Digital Learning for Schools Across SSA UNICEF	724
 Digital Nations Score Index	6593
+Digital School	11760
 Digital Schools	2550,7629
 Digital Schools Access Fund	4619
 Digital and Science	1465
@@ -579,6 +587,7 @@ ECOWAS Trade Liberalisation Scheme Taskforce Mr	7452
 ECOWAS-WAHO INVITES BIOMEDICAL SCIENTIST DR. DOUGBEH-CHRIS	10581
 EIGHTH SCHEDULE	7845
 EMIS Research Protocols Schools Masterlist Data	11241
+ENERGY SCALE-UP AND ACCESS PROJECT	11549
 ENPCT National Company of Science and Technology Parks	4214
 ENVIRONMENTAL AND SOCIAL SCREENING FORM	1988
 ENVIRONMENTAL AND SOCIAL SCREENING FORM Filled	1988
@@ -608,6 +617,7 @@ Education Gls Cybersecurity Labelling Scheme	6936
 Education Ministry Advances Digital School Permit	9649
 Education Primary and High School Education	11134
 Education Sciences	8021,581
+Education and Scientific Research PESTEL Political	11552
 Ehomba Combined School	4862
 Eighth Schedule	7845,1661,2
 Electrical Engineering and Computer Sciences	8529
@@ -622,6 +632,7 @@ Employee Relief Scheme	7936
 Empowering Districts and Schools	6048
 Emrys Schoemaker	7320,537,3149,1
 Encouraging Responsible Innovation and Scientific Research	2958
+Energy Scale-up and Access Project SME Small	11549
 Engineering Management HJL ARUP AFRY Schneider	10861
 Engineering Sciences	9129
 Enhancing Security and Privacy of National Scale Identity	1495
@@ -642,6 +653,7 @@ Ericsson and Schneider Electric	10527
 Espérance de Vie Scolaire ERI-ESI	737
 Eswatini National Science Panel	11131,3
 Ethical and Scientific Committee for Research	7313
+Ethiopia. Glob Health Sci Pract	11596
 Ethique des Science	10919
 Eurasia Proceedings of Educational and Social Sciences	6948
 Europe. Schneider	4933
@@ -705,6 +717,7 @@ Forensic Science Laboratory	7845
 Foreword The National Open Science Policy	5246
 Form DP2. Fourth Schedule	1877
 Form SCN1	2724
+Former School	11546
 Foundation's Bright Scholarship Scheme	10142
 Foundational Literacy and Numeracy Dashboard and Scorecards	7773
 Founder and Scientific Director	3654
@@ -739,7 +752,7 @@ GIGA Project School Connectivity Dashboard	899
 GII Score	10969
 GITOC and SC-AGC	11184
 GIZ and Human Sciences Research Council	4126
-Garde des Sceaux	1214,1594,237,74,1006,1352,390,1037,1074,87,122,49,166,1434,169,893
+Garde des Sceaux	1214,1594,237,74,1006,1352,390,1037,1074,87,122,49,166,1434,169,893,682
 Gear Scale Approach	10852
 Generation Study and Screen4Care	10188
 Geographic Scope	7662
@@ -747,6 +760,7 @@ Geographic Scope This Report	4972
 Geographic Scope of Payment Systems	6938
 Geographic and Devolution Scope This Policy	7548
 Georgetown High School	11281
+Georgina Sturge and Tanja Schmidt	11525
 Gestion des Réseaux SCI	10975
 Ghana Landscape Restoration and Small Scale Mining	1513
 Ghana School Feeding Programme	7695
@@ -765,6 +779,7 @@ Global Health Sci Pract	1219
 Global Influence Score	4528
 Global Schools Prize RIC	8839
 Global Scientific Journal	6948
+Global Smart Schools Program	11673
 Global South AOSP African Open Science	5246
 Google DeepMind Chief AGI Scientist Shane	9592
 Google Scholar	766,5,448,42,835,422,1264,9,648,237,566,107,351,1487,572,31,881,1298,1059
@@ -828,6 +843,7 @@ Government Printing Works. Schreiber	5876
 Government Scales	10822
 Government’s UHC Scheme	10970
 Grabouw Wynberg Schemanshoek Khayelitsha Mobile Teams	8999
+Grace Nursery School	11773
 Graduate School of Business	4896
 Graduate School of Business Leadership	4432
 Graduate School of Global Cooperation	10123
@@ -872,7 +888,8 @@ Hewlett Packard Enterprise and Schneider Electric	2158
 High School	2319
 High School Certificate System	2783
 Higher Education Bursaries and Scholarships Act	1867
-Higher Education and Scientific Research	9703
+Higher Education and Scientific Research	9703,1849
+Higher Education and Scientific Research Law	11552
 Higher School of Economics	5881
 Histoire Géographie Sciences Grammaire Autre Nb	10847
 Holberton School	7403
@@ -890,8 +907,10 @@ IASP International Association of Science Parks ICAO	2775
 ICPC’s Marine Scientific Adviser	3513
 ID Scope System Type Binary	7221
 ID ScotAccount	3460,1395,698,735
+IDA Disbursement Schedule	11560
 IDA Scale-Up Facility	10997
 IDA Scale-Up Window	3604,176
+IDA Schedule	11549
 IDA-E0930 Schedule	1284
 IDEA MPA Corporate Scorecard Indicators	6539
 IDI RANKING SCORE FOR SOUTH AFRICA	11211,51
@@ -915,6 +934,7 @@ Implementation Schedule and Cost Estimates	1988
 Implementation Schedules and Organization Charts	3861
 Implementation Science Communications	2093
 Implementation Scope Pilot Machines	10617
+Improve School Planning	11695
 Inaugural Research Science	1154
 Increasing Deterioration Score	10837
 Increasing Improvement Score	10837
@@ -984,7 +1004,7 @@ Jana Kunicova and Robert Schlotterer Task Team	2889
 Jessica Wells Research Scientist	7590
 Joachim Schmitt	9707,98
 Joachim Schnurr	9393
-Jobs CLIMATE Climate Change and Disaster Screening	3562
+Jobs CLIMATE Climate Change and Disaster Screening	3562,7998
 Jobs Climate Change and Disaster Screening	10964
 Joe Mucheru Launches School Net Programme	899
 Johannesburg Business School	2948,4279,4126
@@ -1056,7 +1076,7 @@ LA RECHERCHE SCIENTIFIQUE ET TECHNOLOGIQUE	7670
 LA SCHREIBER	5533,5685
 LABOR MARKET STRUCTURE AND THE SCHOOL	11271
 LAPTOPS FOR SCHOOLS	2779
-LEGAL Legal Covenants Sections and Description Schedule	3604,7164
+LEGAL Legal Covenants Sections and Description Schedule	3604,7164,792
 Labelling Scheme	6936
 Laboratory Scale Manufacture of Lithium Cathode Materials	1154
 Lagos Business School	8764
@@ -1082,7 +1102,7 @@ Leon Schreiber. Picture	8267
 Lesotho. Procedia Computer Science	8605
 Library Science	8022
 Library and Information Science	1154,6868
-Libyan Authority for Scientific Research	9091
+Libyan Authority for Scientific Research	9091,2656
 Licence Fees. Third Schedule	736
 Life Sciences	2957
 Life Sciences Health Care Equipment	4972
@@ -1242,12 +1262,13 @@ Mongolia Montenegro Mauritius National Identity Scheme	10714
 Monitoring and Evaluation Association SCM Supply Chain	11224
 Moringa School	6948
 Mozambique's Ministry of Science	9398
+Mozambique. Glob Health Sci Pract	11596
 Mpeketoni Boys’ Secondary School	10313
 Mphande Primary School	7375
 Mpondwe Secondary School	3275
 Mtetengwe Primary School	7312
 Mugoidwa Secondary School	11281
-Muhimbili University of Health and Allied Sciences	1261,7353
+Muhimbili University of Health and Allied Sciences	1261,7353,3009
 Munich. Schneider	2093
 Murray Girls High School	10313
 Museum School	11180
@@ -1274,7 +1295,7 @@ Namibia University of Science and Technology	5036,4317,520
 Namibia'. Science Granting Councils Initiative	5036
 Namibian Schools and Health Facilities Network Coverage	1944
 National Association of Proprietors of Private Schools	8588
-National Commission for Science	2709,4839,3699
+National Commission for Science	2709,4839,3699,338
 National Commission for Science and Technology	1554,2885
 National Commission of Science and Technology	1154
 National Credit Score	10330
@@ -1292,11 +1313,11 @@ National Pension Scheme	6458
 National Pensions Scheme Act No.7	1988
 National Scale	11006
 National School Nutrition Programme	11241
-National School of Administration	3604
+National School of Administration	3604,7982
 National School of Administration and Magistracy	10990
 National School of Government	2526,7576,1080,42
 National School of Local Administration	3234
-National Science	9525
+National Science	9525,2100
 National Science and Technology Council	1554
 National Student Financial Aid Scheme	6832,1078,1218,237,1029,828,3,11,67
 National Training School for Social Service Technicians	10768
@@ -1441,9 +1462,11 @@ Pipeline Scaling Set	6832
 Planetary Science Division	8787
 Plant Science	7759
 Platform Digital Infrastructure for Social Science	8436
+Political Science	11682
 Political Terror Scale RSF Reporters	10759,78
 Poor Network Coverage Leaves Kavango Schools	10465
 Population CLIMATE Climate Change and Disaster Screening	11417
+Population Water Climate Change and Disaster Screening	11525
 Portugal. SCITEPRESS	10780
 Portuguese Neonatal Screening Program	10188
 Post SCM ASSET MANAGEMENT	11251
@@ -1478,6 +1501,7 @@ Procurement SUW Scale-Up Window TA Technical	3604
 Production Hydroélectrique SCAF	10975
 Professor Eddie Mwenje of Bindura University of Science	520
 Profit Scaling	5869
+Program SCADA Supervisory Control and Data Acquisition	11549
 Project Implementation Manual. Schedule	10768
 Project Showcase Video Gender-Based Violence Scenarios	11332
 Project. ECOWAS. Section I.A.1 of Schedule	1264
@@ -1575,6 +1599,7 @@ Research Science and Technology	5036
 Research Science and Technology Key	5036
 Research Science and Technology Sebrinah Van Rooyen	5036
 Research Science and Technology Simeon Hamukoshi Strategic	5036
+Research and Data Science Specialist	11750
 Responses Score	10812
 Responses Score ICT	10812
 Responsible Scientific and Technological Innovation	2958
@@ -1590,7 +1615,7 @@ Rocket-Powered Data Science	1243
 Roma School KSh	5463
 Rome Business School. Elle	7496
 Routledge Google Scholar Hiller M	9739
-Royal Science and Technology Park	593,95,1128,1831,888,331,149,1258,266,914
+Royal Science and Technology Park	593,95,1128,1831,888,331,149,1258,266,914,4214
 Royal Science and Technology Park and UNDP Eswatini	4866
 Ruby Scanlon	5257
 Rural Schools	5606
@@ -1627,16 +1652,21 @@ SCAN FOR APPENDICES REPUBLIC OF GHANA	4126
 SCAN ICT	9485
 SCANFORM	9273
 SCANFORM. Bien	9273
+SCAPE	11529
 SCARP	11435
 SCATEC	10975
 SCB Bank	3279,85
 SCC1 Secondary Sources De Hert P	8776
 SCCARTO	10936
 SCCSM	10975
+SCD Systematic Country Diagnostic SDG Sustainable	11549
 SCD Systematic Country Diagnostic SIAC Serviços	10765,10
+SCD and CPF	11525
 SCD.17	11469
 SCDEs	899
 SCEE-AES	7670
+SCENARIO	11572
+SCENGAriRd IO	11572
 SCG. Cite the PAD	6754
 SCHEDULE	22,950,2742,1018,955,1220,15,276,3981,1,2,87
 SCHEDULE A.1	11269
@@ -1674,6 +1704,7 @@ SCMU8-26	7514
 SCO and BRICS	5242
 SCOA SteerCom	11231
 SCOAP	5246
+SCOOPAFRIQUE Aller	11673
 SCOPA	11230
 SCOPA RESOLUTIONS	11218,6
 SCOPA Resolutions	11197
@@ -1744,6 +1775,7 @@ Scalability Testing	5665
 Scalable	3604,3087,313,984,617,841,1510
 Scalable Easily	9446,1510
 Scalable Information Systems	8022
+Scalable Network	11552
 Scalabrini Centre of Cape Town	5533
 Scalar	5393,53
 Scalar Botswana Innovation Program	5393,38,15,1
@@ -1751,7 +1783,7 @@ Scalar Decarbonization Fund	5444
 Scalar Infrastructure and Real Assets	5393,53
 Scalar International	5393,38
 Scalar International's Africa Decarbonisation Fund	5431
-Scale	899,357,35,1,1,1,1,1,136,228,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,149,4,57,172,1,1,1,1,1,85,139,9,266,75,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,303,425,155,85,45,217,19,291,176,1,1,1,1,1,59,30,64,224,41,55,82,172,138,391,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,257,75,72,368,64,342,105,18,267,246,263,20,134,36,175,15,463,414,628,421,388,148,12,196,105,247,7,2,7,7,78,76
+Scale	899,357,35,1,1,1,1,1,136,228,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,149,4,57,172,1,1,1,1,1,85,139,9,266,75,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,303,425,155,85,45,217,19,291,176,1,1,1,1,1,59,30,64,224,41,55,82,172,138,391,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,257,75,72,368,64,342,105,18,267,246,263,20,134,36,175,15,463,414,628,421,388,148,12,196,105,247,7,2,7,7,78,76,250
 Scale AI	4972,3007
 Scale Accelerators	2957
 Scale Africa's Digital and AI Economy	7596
@@ -1783,7 +1815,7 @@ Scale-	3604
 Scale-Up	790
 Scale-Up Corridor	4698
 Scale-Up Window	3604,176,7689
-Scale-up	6539,4224,89,281
+Scale-up	6539,4224,89,281,513
 Scale-up of Kwenda	10763
 Scale. Accessed	5700
 Scale. Washington	10964
@@ -1795,7 +1827,7 @@ Scaleup Corridor	4194
 Scaleway	5846,1033,1880
 Scaleway and S3NS	5846
 Scaleway. Schwarz Digits	6879
-Scaling	396,1432,1178,1760,2782,332,95,401,722,1059,31,484,30,61,27,3,338,5,86,73,15
+Scaling	396,1432,1178,1760,2782,332,95,401,722,1059,31,484,30,61,27,3,338,5,86,73,15,262,51
 Scaling AI	1467,9668
 Scaling AI for SMEs	6886
 Scaling Agriculture Investment	1468
@@ -1850,6 +1882,7 @@ Scanners	34
 Scanners Standards and Guidelines	34
 Scanners Standards and Guidelines The ICT Unit	34
 Scarce	1940,8889
+Scarcity	11525
 Scarcity of Training-Quality Data	3810
 Scare	1940,9024
 Scarjov	10752
@@ -1876,7 +1909,8 @@ Schalkwyk	1243
 Scharpf	7451
 Schauer	7451
 Schaumburg	9237
-Schedule	3,19,4,387,323,236,237,14,41,486,97,67,74,11,627,83,18,987,675,1,1,1,340,801,154,185,560,475,14,1,276,350,297,745,13,237,597,1331,61,27,100,8,43,10,160,1,1,3,16,3,8,4,5,12,3,2,14,14,2,14,1,137
+Schedule	3,19,4,387,323,236,237,14,41,486,97,67,74,11,627,83,18,987,675,1,1,1,340,801,154,185,560,475,14,1,276,350,297,745,13,237,597,1331,61,27,100,8,43,10,160,1,1,3,16,3,8,4,5,12,3,2,14,14,2,14,1,137,134,9
+Schedule Amendment	11551
 Schedule CHAPTER	11190
 Schedule Delays Experienced	11134
 Schedule II	11280
@@ -1895,6 +1929,7 @@ Schedule. DISTRIBUTED BY VERITAS	413
 Schedule. DR L A SCHREIBER	11213
 Schedule. F.D.P. TLAKULA	11255
 Schedule. Meaning	3714
+Schedule. Short	11551
 Scheduled	3554,50,257,581,5944,866,34
 Schedules	1209,2374,131,32,1941,1920,238,3334,5,25,60
 Schedules PART	3714
@@ -2028,9 +2063,10 @@ School of Public Health	4260,6569
 School-based	899
 School-going Children	899
 School-level Barriers	899
-School-to-Work	11271
+School-to-Work	11271,310
 SchoolNet	5871
 SchoolNet Programme	899
+SchoolPay	11773
 Schools	899,54,857,57,53,39,29,1616,91,849,2404,389,538,562,1212,139,6,374,496,465,112
 Schools Educators	899
 Schools Kenya	2925
@@ -2061,13 +2097,14 @@ Schutz JA	2307
 Schutzgebiete	1132
 Schwab	6832,446
 Schwaber K	11216
+Schwalbe	11585
 Schwartz	3279,7661
 Schwarz	236
 Schwarz EUR	6946
 Schwarz GmbH ContentLens.ai Barcelona Provincial Council	8530
 Schwarz Group	5846,1033
 Schwerpunkt Boden	49
-Schéma	737,48,402,2625,2779,573,2811,737,162,101
+Schéma	737,48,402,2625,2779,573,2811,737,162,101,554,38
 Schéma Directeur	4273,3434,3167
 Schéma Directeur National	7164
 Schéma Directeur National de Santé Numérique	7707
@@ -2085,7 +2122,7 @@ SciELO Scientific Electronic Library Online STM	5246
 SciELO-SA	5246
 SciPap	7886
 Scidev.Net	4674
-Science	737,52,57,53,255,7,304,89,156,46,58,282,590,14,9,107,69,73,92,90,218,5,241,257,265,402,26,82,249,49,102,61,120,27,1,1,3,8,17,97,42,110,177,366,108,306,143,209,80,85,365,136,50,171,303,208,150,80,99,14,127,101,213,112,352,98,6,48,156,424,82,8,300,168,8,117,71,5,59,22,85,21,59,5,1,9,58,190
+Science	737,52,57,53,255,7,304,89,156,46,58,282,590,14,9,107,69,73,92,90,218,5,241,257,265,402,26,82,249,49,102,61,120,27,1,1,3,8,17,97,42,110,177,366,108,306,143,209,80,85,365,136,50,171,303,208,150,80,99,14,127,101,213,112,352,98,6,48,156,424,82,8,300,168,8,117,71,5,59,22,85,21,59,5,1,9,58,190,82
 Science Academy	4353
 Science And Technology	899
 Science Based Targets	7402
@@ -2117,7 +2154,7 @@ Science and Industry Japan AI Strategy	11135
 Science and Innovation	1614,5218
 Science and Research Technical Advisory Committee	5036
 Science and Resources	11135
-Science and Technology	309,590,335,320,2029,543,910,210,265,622,347,517,113,514,217,181,802,143,140,1,336,654,577,508,2,103
+Science and Technology	309,590,335,320,2029,543,910,210,265,622,347,517,113,514,217,181,802,143,140,1,336,654,577,508,2,103,229,106,2
 Science and Technology Accelerator-Systems	9697
 Science and Technology Act	5036
 Science and Technology Bindura Nickel Corporation Civil	1554
@@ -2144,7 +2181,7 @@ Science359	8891
 ScienceBlog	5224,28
 ScienceDirect	7759,413,13,57,363,627,5
 ScienceDirect and Wiley	8605
-Sciences	1154,29,713,200,1299,4874,607,1904,67,8,38,47
+Sciences	1154,29,713,200,1299,4874,607,1904,67,8,38,47,729
 Sciences-Po Paris	11154
 Sciences. The Malawian	7841
 Scientific	789,181,1018,970,903,4519,149,599,1718,123
@@ -2172,7 +2209,7 @@ Scientific Research Scientific Research	2958
 Scientific Research and Development Arab	2958
 Scientific and Cultural Organisation	6211,2895,96,553,748,637
 Scientific and Cultural Organisation WEF World Economic	1814
-Scientific and Cultural Organization	1814,3222,1912,114,1647,2447,109,125
+Scientific and Cultural Organization	1814,3222,1912,114,1647,2447,109,125,179
 Scientific and Cultural Organization AUC African Union	10835,3,130
 Scientific and Cultural Organization UNWTO United Nations	2775
 Scientific and Cultural Organization USAC Universal Service	6946
@@ -2192,6 +2229,7 @@ Scientific and Technical Cooperation Companion	1234
 Scientific and Technical Information	2617
 Scientific and Technological Engineering Corporation Limited	181,9
 Scientific and Technological Support	846
+Scientifique	11597
 Scientist	520,1576,7379,1656
 Scientist&volume	2096
 Scientists	7187,1193
@@ -2201,7 +2239,7 @@ Scission	10875
 Scolarisation	737,10110
 Scolarisation TIC Technologies	12
 Scombined	8606
-Scope	25,3,208,526,97,150,176,24,5,9,20,94,14,163,72,1,5,13,132,5,43,9,83,36,75,102,5,64,1,48,217,40,314,423,5,389,32,1,22,27,78,105,24,159,56,13,16,173,64,16,11,97,1,27,22,1,193,162,236,59,1,6,61,406,199,39,529,133,189,78,59,46,1,122,23,2,3,133,181,49,97,183,59,101,258,53,344,44,163,11,297,2,39,21,186,294,1,484,69,31,576,98,70,85,44,95,23,1,1,28,56,48,43,44,1,16
+Scope	25,3,208,526,97,150,176,24,5,9,20,94,14,163,72,1,5,13,132,5,43,9,83,36,75,102,5,64,1,48,217,40,314,423,5,389,32,1,22,27,78,105,24,159,56,13,16,173,64,16,11,97,1,27,22,1,193,162,236,59,1,6,61,406,199,39,529,133,189,78,59,46,1,122,23,2,3,133,181,49,97,183,59,101,258,53,344,44,163,11,297,2,39,21,186,294,1,484,69,31,576,98,70,85,44,95,23,1,1,28,56,48,43,44,1,16,100
 Scope Conditions and Limitations	7966
 Scope Implementation Guidelines Education	2958
 Scope Implementation Guidelines Education AI	2958
@@ -2244,10 +2282,12 @@ Scope and Applicability	1652,9528
 Scope and Applicability Data Domains Covered All	3861
 Scope and Application	5244
 Scope and Application Parts I and IV	10157
+Scope and Evidence Base	11596
 Scope and Limitations	11138
 Scope and Methodology	8301,1098
 Scope of Application	27,1611,1320,1652,5245
 Scope of Application Applies	10908
+Scope of Application Personal Data Collection and Processing	11539
 Scope of Application This Charter	2958
 Scope of Application This Directive	762
 Scope of Application This Proclamation	7538
@@ -2321,7 +2361,7 @@ Screen Coverage Input	34
 Screen Talent and Global Entertainment Scheme	5533,3717,1986
 Screened	2808,237,5190
 Screengrab	8383,1557
-Screening	1988,4952,1606,691
+Screening	1988,4952,1606,691,2341
 Screening Checklist Review Form	1988
 Screening Form	1988
 Screening Forms	1988
@@ -2485,6 +2525,7 @@ State Administration and Public Service Ministry of Science	1228
 State of Scams	7476
 Statistical Package for Social Sciences SSN	10874
 Statistics South Africa. Jan Schenk	11195
+Stefan Schweinfest	11572
 Stellenbosch University Business School	9349
 Stockholm School of Economics	8315
 Strait of Hormuz Disruption Scenario	10718
@@ -2517,11 +2558,13 @@ Sweetbert John Nene of Alborz Secondary School	9014
 Swiss Political Science Review	11135
 SyRI Welfare Risk Scoring The SyRI	7966
 System Sciences	2096,6508,633
+Systematic Country Diagnostic SCGB Sociedade de Cabos	11545
 Système National de Recherche Scientifique. Il	2696
 T AND SCORING METHOD FIGURE	11156
 TCIB Cross-Border Payment Scheme	5263
 TCIB Scheme	5261
 TCIB Scheme Manager and Operator	5263
+TERI School of Advanced Studies	11572
 THIRD SCHEDULE	2709,5136
 THIRD SCHEDULE Oath of Secrecy	587
 TKL’s KRTS and KCCT Communications Engineering Schools	6946
@@ -2572,6 +2615,7 @@ Third Schedule FORM PR2 REGISTRATION	1223
 Third and Fourth Schedules	736,7109
 Third and Fourth Schedules. Conditions	736
 Thomas Schaef	6013
+Through the Tanzania Commission for Science and Technology	11623
 Time Division Duplex FourTh Schedule	736
 Timely and Universal Registration Responses Score	10812
 Timetable and Schedule of Activities	10049

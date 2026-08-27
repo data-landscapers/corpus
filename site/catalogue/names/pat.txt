@@ -17,8 +17,11 @@ Africa CDC’s Africa Pathogen Genomics Initiative	9718
 Africa Patrick J. McGovern Foundation	937
 Africa's Path	8341
 Aimé Patrice Koumamba	766
+Alternative Learning Pathways	11557
 Alternative Pathways	4439
 Ambassador Claudia Patricia Mosquera Rosero	6963
+Ana Patrícia Fonseca	11538
+António PatrocÍnio Barbosa da Silva	11544
 Available Career Pathways Applicants	11314
 B. Patent	7845
 BARAK PATHWAYS LIMITED Data Controller INST-263988231E0	7167
@@ -36,6 +39,7 @@ Burkina Faso's PATNUC	3923
 Burkina Faso. Selon Patinde Wendinda Jean	5707
 C.K PATEL LIMITED	7167
 CCOW' Patient Master	1009
+CONFEMEN PATO Plano de Ações Trienal Orçamentado	11557
 CPA Crime Pattern Analysis CPF Community	11188
 CPA Patrick Mwati	6946
 CREST Pathway	4791
@@ -89,6 +93,7 @@ ED Patricia Adusei-Poku	1779
 EMMANUEL J. PAYEGAR PATRICK R. HONNAH	10407
 EPT PAT PEFCA PNDE RE RETEP	10766
 Ebrahim Patel	11198
+Economy and Strategic Monitoring Minister Badanam Patoki	11613
 Emerging Development Scheme Technologies Patents	7548
 Employment and Career Path Planning for France	8125
 Endpoint Path Changes	6423
@@ -122,6 +127,7 @@ Gachagua's Most Viable Path	7869
 General Paths of Access All	9123
 Gestion Patrimoniale	2342
 Ghana Health Service Patients’ Charter	4126
+Global Center for Rehumanizing Democracy. Patrice Habinshuti	11682
 Government of President Dr Patrick Herminie	9582
 Growth Pathway	11347
 Guy Patrick Efoua	6804
@@ -159,6 +165,7 @@ Ismail Patel	6241
 Ivoire. PATRICK N’GUESSAN	6095
 Jaqueline De Sousa Pateguana	4214
 Jaqueline Pateguana	2989
+Kau Criar's Path Ahead Kau Criar	11546
 Kenya Patient Summary	10031
 Kenya Patient Summary FHIR Implementation Guide	10031
 Kenya Patient Summary Implementation Guide	10031
@@ -198,6 +205,7 @@ Monsignor Patrick Thawale	10111
 Mrs. Patience Okala	8421
 Mrs. Patricia Ogungbemi	9755
 Ms Patricia de Lille	10058
+Ms. Patience Arko Boham	11699
 Muhammad Ali Pate	4301,1,2885,374
 N2 Pay and Pathetic Inc	2773
 Namazihana Bachoke Patrick	6620
@@ -252,9 +260,11 @@ Patel A. SMARTHealth India	1219
 Patel Hachitema	9792
 Patel and Patel	7278
 Patel&volume	1219
-Patent	4676,6293
+Patent	4676,6293,674
 Patent And Company Registration Agency	1222
 Patent Applications	11250
+Patent Co	11550
+Patent Cooperation Treaty	11550
 Patent Laws Heritage-Based Education	4528
 Patent No. US	4676
 Patent Registrations	11250
@@ -294,7 +304,7 @@ Patience Makwele	10146
 Patience Makwele Namibia and Botswana	9562
 Patience Makwele The City of Windhoek	6676
 Patience Mutesi	8682
-Patient	21,13,362,375,238,1468,1314,70,763,1287,2077,617,1,518,731,245,88,203,385,105
+Patient	21,13,362,375,238,1468,1314,70,763,1287,2077,617,1,518,731,245,88,203,385,105,697,7,51
 Patient And Relentless	36
 Patient Care Co	1009
 Patient Care Coordination	1009
@@ -337,12 +347,14 @@ Patient-facing	6794
 Patient-generated	10188
 Patient-specific	9855
 Patient2Vec	8606
-Patients	21,3583,1031,743,7,1009,757,613,372,469,1250,683,103,188,52
+Patients	21,3583,1031,743,7,1009,757,613,372,469,1250,683,103,188,52,697,7,51,17
 Patients Registered	7322
 Patin-Deba Naza	10827
 Patinde Wendinda Jean Yves Belem	5707
 Patki	4432
 Pato la Taifa	2868,3151
+Patoki	11613
+Patologia	11537
 Patouani BATCHAMLA	6260
 Patri	9237
 Patriarchy	11193
@@ -390,6 +402,7 @@ Patrick Joubert	10420
 Patrick Kelly Telephone	11258
 Patrick Mabuza	10718
 Patrick Machika	6598,633
+Patrick McCartney	11545
 Patrick Meinhardt	4127
 Patrick Mpenge	6116
 Patrick Mundua	10066
@@ -404,6 +417,7 @@ Patrick N’Guessan	6095,128,14,423
 Patrick Okebu	10010
 Patrick Premand	10964
 Patrick R. Honnah	10406
+Patrick Rugwizangoga	11572
 Patrick Tete	9293
 Patrick Valery Alakoua	987
 Patrick Valery Alakoua. En	2564,91
@@ -423,11 +437,12 @@ Patrimoines	4402
 Patrimoniale	2342
 Patrimonio	1701,2508,2632
 Patrimonio Nacional	4209
-Património	167,4051,6550,9,6,598,54,14
+Património	167,4051,6550,9,6,598,54,14,112
 Património CSCC	11435
 Património Cultural	11390,16
 Património Mundial da Humanidade.O	7882
 Património SCC	11435
+Patrimônio Matrícula	11532
 Patriot	3114
 Patriotic Bill	6951
 Patriotic Front	121
@@ -437,12 +452,13 @@ Patriotisme Tahoua	3337,4,1472,2351
 Patrobas Katambi	6327,600
 Patrol	9068
 Patron	737,3791,5048
+Patron of Health	11656
 Patronage	5033
 Patronat	2966,390,40,7479
 Patronat du Togo	8281
 Patrícia	10765,10
 Pattanaik	2096
-Pattern	8604,2654
+Pattern	8604,2654,393
 Pattern Across the Continent Across Africa	8943
 Pattern of Escalating Enforcement	7181
 Pattern of Participation Without Accountability	3874
@@ -458,7 +474,7 @@ Policy Pathways for Enhancing Women’s Economic Participation	8891
 Policy Pathways for Inclusive AI Governance Addressing	8747
 Portable Document Format Patient Demographics Query	1009
 Potential Pathways	4848
-President Dr Patrick Herminie	7760,99,750,973
+President Dr Patrick Herminie	7760,99,750,973,2175
 President Dr Patrick Herminie's Government	9582
 President Patrice Talon	1724,1346,3314,4434,17,52
 President Patrick Herminie	6831
@@ -485,6 +501,7 @@ Rua Patrice Lumumba Street	10780
 Rural Trends Progress and Regional Patterns	4130
 S. Pattanayak	11140
 S. and Patella	11142
+SITUAÇÃO PATRIMONIAL	11531
 SOMETHING YOU D0 Patterns Behaviuor	10819
 Saidou Pathé Barry	766
 Sailendra Pattanayak	1828

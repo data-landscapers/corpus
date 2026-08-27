@@ -47,6 +47,8 @@ Authority SEC Securities and Exchange Commission	6936
 Authority of HIS EXCELLENCY JOHN DRAMANI	7695
 Automatic Exchange of Customs Information	9745
 Automatic Exchange of Financial Account Information	11233
+Automatic Exchange of Information	11685
+Automatic Exchange of Information BRS AEOI	11685
 Autorisation Exclusive	2342
 Autorisation Exclusive Ce	2342
 Average Exchange Rates.pdf Powercom Powercom	1944
@@ -144,9 +146,10 @@ Customs and Excise Bills	7695
 Customs and Excise Junior Officer	11289
 Cyber Security Centre of Excellence	6803
 Cybernetica Head of Data Exchange Technologies Ants	3689
-Cybersecurity Center of Excellence	11464
+Cybersecurity Center of Excellence	11464,211
 Cybersecurity Centre of Excellence	6787
 DATA EXCHANGE COMPONENT	2709
+DOCUMENTOS EXCLUÍDOS	11582
 DPI Cost of Exclusion	4794
 DPI Data Exchange Architecture	3735
 DPI Indicators for Data Exchange Systems	7222
@@ -231,7 +234,7 @@ Excavation Personnel	1988
 Exceeded	11198
 Exceeding	5676
 Excei	3972
-Excel	7,245,96,1,2,1,112,1,5,1,158,4,2,112,93,5,2,1,1,169,48,1,3,1,1,1,1,2,2,1,108,255,4,1,1,3,5,1,1,1,1,2,362,160,1005,983,681,603,890,286,372,150,37,66,828,111,608,90,712,224,303,833,14,37,59,43,56,147,136,147,17,26
+Excel	7,245,96,1,2,1,112,1,5,1,158,4,2,112,93,5,2,1,1,169,48,1,3,1,1,1,1,2,2,1,108,255,4,1,1,3,5,1,1,1,1,2,362,160,1005,983,681,603,890,286,372,150,37,66,828,111,608,90,712,224,303,833,14,37,59,43,56,147,136,147,17,26,89,107
 Excel Joab	9739
 Excel-based	1824
 Excel. As Instituições de Ensino Superior	11391
@@ -323,16 +326,16 @@ Except for Northern Cape	11192
 Exception	6432,4707,6,1,1,86
 Exceptionnellement	10891
 Exceptionnelles Total DGTCP	2476
-Exceptions	25,1449,7649,1034,679
+Exceptions	25,1449,7649,1034,679,681
 Exceptions PART VII	1474
 Exceptions Sans	10836
 Exceptions and Special Mechanisms	3861
 Exceptions and Special Mechanisms Transfers	3861
-Exceptua-se	14,11416
-Exceptuam-se	4274,2696,3785
+Exceptua-se	14,11416,83
+Exceptuam-se	4274,2696,3785,765
 Excepté	737
 Excepções	15
-Excerpt	36,2,2,2,183,186,4,145,2,30,161,2,5,217,60,1,330,12,7,193,47,2,26,87,161,60,18,17,94,1,13,4,2,1,1,4,142,12,1,1,85,36,57,39,2,2,8,15,19,12,22,41,79,11,137,33,6,34,36,6,13,14,1,16,23,367,10,10,18,107,53,10,2,114,23,15,7,19,77,59,12,20,3,3,29,112,11,18,19,50,12,22,34,2,19,21,126,7,2,3,2,4,1,116,20,3,10,42,4,13,2,21,3,14,107,10,1,32,2,1,1,61,9,53,1,11,27,3,34,14,2,64,8,93,3,1,1,3,2,1,2,45,13,9,27,16,14,20,57,45,2,116,19,3,1,98,2,3,6,102,21,10,5,150,1,31,31,2,44,1,55,1,23,39,25,42,68,26,130,126,22,2,77,1,22,1,1,7,59,143,89,37,51,14,10,9,6,6,1,1,1,1,1,1,1,2,1,78,16,21,1,7,1,78,16,1,4,2,11,3,1,48,6,44,42,23
+Excerpt	36,2,2,2,183,186,4,145,2,30,161,2,5,217,60,1,330,12,7,193,47,2,26,87,161,60,18,17,94,1,13,4,2,1,1,4,142,12,1,1,85,36,57,39,2,2,8,15,19,12,22,41,79,11,137,33,6,34,36,6,13,14,1,16,23,367,10,10,18,107,53,10,2,114,23,15,7,19,77,59,12,20,3,3,29,112,11,18,19,50,12,22,34,2,19,21,126,7,2,3,2,4,1,116,20,3,10,42,4,13,2,21,3,14,107,10,1,32,2,1,1,61,9,53,1,11,27,3,34,14,2,64,8,93,3,1,1,3,2,1,2,45,13,9,27,16,14,20,57,45,2,116,19,3,1,98,2,3,6,102,21,10,5,150,1,31,31,2,44,1,55,1,23,39,25,42,68,26,130,126,22,2,77,1,22,1,1,7,59,143,89,37,51,14,10,9,6,6,1,1,1,1,1,1,1,2,1,78,16,21,1,7,1,78,16,1,4,2,11,3,1,48,6,44,42,23,4024,59
 Excesiva	1701
 Excess	11228
 Excess Energy	11228
@@ -340,6 +343,8 @@ Excess Energy Composition	11228
 Excessive	1867,2661,1005,655,1468,551,1304,1252,93,120
 Excessively	10856
 Excessively High Fuel Supply Cost	1828
+Excesso	11569
+Excetuam-se	11516
 Exchange	7,1236,395,176,124,1645,1313,351,429,193,563,1116,1894,1108,11,201,31,30,162,146,3
 Exchange Act	7198
 Exchange Act. The Company	7198
@@ -358,12 +363,12 @@ Exchange MINFIN Ministério	10765,10
 Exchange Office	7655
 Exchange Points	961
 Exchange Rate	3583,2825
-Exchange Rate Effective	969,295,20,583,1022,673,42,2935,4290,135,416,88
+Exchange Rate Effective	969,295,20,583,1022,673,42,2935,4290,135,416,88,57,24,11
 Exchange Rates	4896
 Exchange Rates.pdf	1944
 Exchange Rates.pdf MTC	1944
 Exchange Rates.pdf Subscribers	1944
-Exchanges	4602,1937,3031,585,406,268,551
+Exchanges	4602,1937,3031,585,406,268,551,180
 Exchequer	7548
 Exchequer Act	11230
 Exchequer Develop Kiswahili	7548
@@ -382,7 +387,7 @@ Exchequer PPRA KEBS	7548
 Exchequer State Department Civil	7548
 Exchequer Universities Research	7548
 Exchequer-funded	9209
-Excise	5655,2844,2498
+Excise	5655,2844,2498,527
 Excise Cap	6921
 Excise Division	11289
 Excise Duty	6949
@@ -396,6 +401,7 @@ Excise Revenue Levied	2775
 Excise and Preventive Service CFC Consumption of Fixed	236
 Excises	1828
 Exclude	1988
+Exclude Rural Communities and Young Women OWN	11677
 Excluded	418,522,303,1223,1380,723,6612
 Excluded Access Strand	418
 Excluded Banked Informal	418
@@ -411,7 +417,7 @@ Excluded Shares	7198
 ExcludedBanked Informal	418
 Excludes	236,3649,6842,66,115
 Excludes Syria	2775
-Excluding	236,1127,2220,1450,2394,697,1,2668
+Excluding	236,1127,2220,1450,2394,697,1,2668,788
 Excluding Africa	8125
 Excluding African SMEs	8833
 Excluding Agriculture and Private	11296
@@ -421,7 +427,7 @@ Excluding Irancell	10793
 Excluding MTN Nigeria and MTN Ghana	10793
 Excluding MasOrange Press	8125
 Excluding Q1	8125
-Excluem-se	10754,676
+Excluem-se	10754,676,88,2
 Exclui	795
 Excluir	10783
 Exclusif	4960,62,2035
@@ -435,6 +441,7 @@ Exclusion and Optimal PodYield Production	1154
 Exclusion of SMEs	1248
 Exclusionary Regulations	2307
 Exclusions	2624
+Exclusions This Supplementary Act	11517
 Exclusions and Carve-Outs	3861
 Exclusiva Digital	5568
 Exclusivamente	11373
@@ -510,6 +517,7 @@ Host the Nation's Third Internet Exchange Point	3139
 IDRC Centre of Excellence	326,1,1
 INTRODUCTORY REMARKS BY HIS EXCELLENCY MR	9761
 ITU Center of Excellence	10948
+IXP Internet Exchange Point KCL Knowledge	11552
 Imputed. Exclude	854
 Inaugural Excellent Awards	11134
 Inaugural Research for Agricultural Excellenc	1554
@@ -528,8 +536,9 @@ Internet Exchange	6238
 Internet Exchange Point	762,2705,1081,67,1178,1407,28,3278
 Internet Exchange Point Emerging Technologies	7548
 Internet Exchange Point LTE	958
+Internet Exchange Point Locations	11609
 Internet Exchange Point of Nigeria	2754,4575,1298
-Internet Exchange Points	1264,1467,823,324,1798,4,232,1,102,153,374,3253,362,1313,30
+Internet Exchange Points	1264,1467,823,324,1798,4,232,1,102,153,374,3253,362,1313,30,109
 Internet Exchanges Points Accra-IX	10037
 Investment FX Foreign Exchange GDP Gross	10781,80
 Ivoire Internet Exchange	6660
@@ -551,6 +560,7 @@ Kikuyu Center of Excellence Digital Hub	10668
 Kinshasa Internet Exchange	10506
 Kinshasa. The Africa Congo Internet Exchange	6238
 Knowledge Exchange	4583,2380
+Kwaw Sebuabe. The Securities and Exchange Commission	11699
 LISTA DE EXCLUSÃO	11406
 LONG TERM Create the Regional Centre of Excellence	5677
 Language Excellence	4126
@@ -659,6 +669,7 @@ Postal EXCO	11262
 Potraz. Excessively	9251
 Power BI and Excel. Trainings	8183
 President of Angola Your Excellency	2787
+Presidência de Sua Excelência Eng.º Cipriano Cassamá	11561
 Princípio da Exclusividade	10755
 Princípio de Exclusividade	11386
 Private Branch Exchange	762
@@ -666,6 +677,7 @@ Progress Begins When We Stop Excusing	4942,664,283,454,183
 Project STEP Systematic Tracking of Exchanges	10964
 Projectos Excluídos	10783
 Proposed Number of Channels Exchange	736
+Protection Strategy STEP Systematic Tracking of Exchanges	11525
 Provincial Excluding Harare and Bulawayo	736
 Q2 EFY H1 Excise	5655
 Qhala Digital Economy County Centers of Excellence	6948
@@ -700,7 +712,7 @@ Secretario de Estado de Seguridad Nacional Excelentísimo	1855
 Sectoral Exceptions	3861
 Securities Exchange	2775
 Securities Exchange Act	7198,1741
-Securities and Exchange Commission	10,2816,1044,72,660,2336,260,143,68,39,46,692,753,291,304,420,201,115
+Securities and Exchange Commission	10,2816,1044,72,660,2336,260,143,68,39,46,692,753,291,304,420,201,115,1387,42
 Securities and Exchange Commission of Zimbabwe	940
 Securities and Exchange Commission. Legal	8788
 Seguridad Social Excelentísima	1855
@@ -717,7 +729,7 @@ Skills and Knowledge Exchange	4848
 Smart Africa Data Exchange	4036,290,1624,419
 Social Exclusion	1988,8738
 Social Media Post Sparks Diplomatic Exchange	4942
-Son Excellence	2738,453,114,21,55,565,2121,3019
+Son Excellence	2738,453,114,21,55,565,2121,3019,2511
 Son Excellence Brice Clotaire Oligui Nguema	3581
 Son Excellence Denis Sassou N’Guesso	3173
 Son Excellence Félix Antoine Tshisekedi Tshilombo	6460
@@ -768,7 +780,7 @@ Standard for Automatic Exchange of Financial Information	11233
 Startup and Innovation Centre of Excellence	10236
 Startup and Technical Centre of Excellence	9853
 State Administration of Foreign Exchange	5863
-Statistical Data and Metadata Exchange	9207,1737
+Statistical Data and Metadata Exchange	9207,1737,768
 Stock Exchange	4896
 Stock Exchange Market.Following	8056
 Stock Exchange News Service	11159
@@ -782,7 +794,7 @@ Sua Excelência Raúl Augusto Lima	11436
 Subcontracting and Partnership Exchange	10980
 System Name Exchange	736
 Systematic Tracking and Exchange	1264
-Systematic Tracking of Exchanges	1867,1022,715,2935,4290,135,453
+Systematic Tracking of Exchanges	1867,1022,715,2935,4290,135,453,108
 Talent Cultivation and Research Excellence	4528
 Tanzania Internet Exchange	6022
 Tanzania Mercantile Exchange	5883

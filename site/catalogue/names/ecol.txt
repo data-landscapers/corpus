@@ -6,9 +6,10 @@ ECOLES V.4.2 Privé Nbre	10847
 ECOLES V.4.3 Public	10847
 ECOLES V.4.4 Urbain Nbre	10847
 ECOLES V.4.5 Rural Nbre	10847
+ECOLEX This Decree	11570
 ECOLIT STORE LIMITED Data Controller INST-1806268824D	7167
 ENI-ABT Ecole Nationale	12
-Ecole	3465,4205,401,198,52,1570
+Ecole	3465,4205,401,198,52,1570,1706
 Ecole Formation Cours Autres	737
 Ecole Multinationale Supérieure des Postes	3604
 Ecole Nationale	969
@@ -18,6 +19,7 @@ Ecole Supérieure Africaine des ESF Technologies	3604
 Ecole Supérieure Africaine des Technologies	3604,7307,37
 Ecole Supérieure Polytechnique de Yaoundé	2695
 Ecole de Yoshua Bengio	3465
+Ecole des Mines	11597
 Ecoles	12
 Ecoles Latrines Jardins Cantines Fonctionnelles	10847
 Ecoles Latrines Jardins Cantines Terrain de Clôtures	10847

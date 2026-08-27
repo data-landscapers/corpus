@@ -1,6 +1,7 @@
 AI Strategy Focus Areas	1814
 AI Strategy Focus Areas Figure	1814
 AREA OCCUPIED BY BUILDING	11129
+AREAS	11572
 AREAS CHALLENGES AND INTERVENTIONS Challenge	6936
 AREAS FOR COOPERATION TO SUPPORT DIGITAL	1243
 AREAS FOR COOPERATION The State Parties	1243
@@ -19,7 +20,7 @@ Activity Target Audi- Focus Areas	6946
 Africa Continental Free Trade Area	4891,10,1468,454
 Africa Continental Free Trade Area Agreement	4368
 Africa Free Trade Area	961
-African Continental Free Trade Area	789,16,156,9,12,17,7,251,7,550,14,289,342,1159,842,123,7,87,46,48,16,4,117,20,25,108,23,160,3,104,81,31,238,33,144,5,213,1,30,194,23,25,32,70,50,118,299,59,6,36,25,9,48,21,33,233,102,13,6,19,29,16,8,145,2,180,37,47,7,25,37,86,131,88,56,57,38,13,246,175,59,5,1,34,49,34,15,11,297,62,41,14,43,36,48,149,8,53,1,64,80,82,105,59,155,79,76,87,101,22,15,124,158,11,47,25,59,4
+African Continental Free Trade Area	789,16,156,9,12,17,7,251,7,550,14,289,342,1159,842,123,7,87,46,48,16,4,117,20,25,108,23,160,3,104,81,31,238,33,144,5,213,1,30,194,23,25,32,70,50,118,299,59,6,36,25,9,48,21,33,233,102,13,6,19,29,16,8,145,2,180,37,47,7,25,37,86,131,88,56,57,38,13,246,175,59,5,1,34,49,34,15,11,297,62,41,14,43,36,48,149,8,53,1,64,80,82,105,59,155,79,76,87,101,22,15,124,158,11,47,25,59,4,266,186,11
 African Continental Free Trade Area ADEEG	11271
 African Continental Free Trade Area Agreement	5247
 African Continental Free Trade Area Artificial	4528
@@ -56,9 +57,12 @@ Area Councils	11129
 Area Distributed Ledger Technology Eswatini Bankers	11130
 Area Land Committee	1391
 Area Network	718
-Area Office	10764,80
+Area Office	10764,80,719
 Area Office Gedung Sapta Pesona	10764,80
+Area Office International Telecommunication Bureau	11563
+Area Office Telecomunicaciones	11563
 Area Office USAF POTRAZ Building	10764,80
+Area Office Union	11563
 Area Office United Nations House Marine	10764,80
 Area Office and Innovation Centre C-DOT Campus	10764,80
 Area Operator Urban Rural	6000
@@ -76,6 +80,7 @@ Area of Origin	10841
 Area-based	10864
 Areas	718,836,3570,553,1155,106,9,1019,798,670,210,379,741,77,48,240,6,53
 Areas Beyond National Jurisdiction	8681
+Areas Lacking Sufficient Commercial Interest for Investments	11529
 Areas Management	789,172
 Areas Privadas	11373
 Areas and Deliverables	11188
@@ -131,7 +136,7 @@ Contributing Practice Areas Digital Development Finance	1264
 Contributing Practice Areas Digital Development Governance	3604
 Contributing Practice Areas Energy	11380
 Contributing Practice Areas Governance Digital Development	969
-Contributing Practice Areas Health	10829,588
+Contributing Practice Areas Health	10829,588,143
 Contributing Practice Areas Social Protection	10768
 Coverage Area Proposed Frequency Band Proposed	736
 Coverage Areas	7368
@@ -152,7 +157,7 @@ Digital Divide Thematic Area	899
 Digitisation and Government Wide Area Network	958
 Directorate General and Area Chiefs	1382
 Disputed Area OP	1867,1589,148,7164,649
-Disputed Areas OP	1284,9545,134,1
+Disputed Areas OP	1284,9545,134,1,561
 Draft Exclusive Geographic Areas	7980,109
 EA Enumeration Area Figure	582
 EAC One Network Area	6928
@@ -215,7 +220,7 @@ Household Size and Average Area Per Person	2775
 IATA Associação Internacional de Transporte Aéreo AREA	11376
 IDA Horizontal Distribution Area	9123
 IDAs. Horizontal Distribution Area	9123
-INSTITUTIONAL DATA Practice Area	969,315,9545,551
+INSTITUTIONAL DATA Practice Area	969,315,9545,551,145
 INTERVENTION FRAMEWORK Priority Area	970
 Identifying Focus Areas and Gaps	7588
 Ife South Local Government Area	10254
@@ -223,6 +228,8 @@ Impact Area Manager	1009
 Implementation Impact Area	1988
 Industrial Area Prison	9188
 Innovation Arena	3976
+Institute for Biodiversity and Protected Areas	11586
+Institute of Biodiversity and Protected Areas	11589
 Intermediate Distribution Area	9123
 Intermediate Distribution Area Each HDA	9123
 Intermediate Distribution Area IDAs	9123
@@ -246,6 +253,8 @@ Key Result Areas	958
 Kingdom of Eswatini. Key Areas Supported	11131
 Kosofe Local Government Area	10742
 KwaZulu-Natal's Disease Management Area	2626
+LDCs AND FCV-AFFECTED AREAS	11572
+Labor Contributing Practice Areas Education Fragile	11525
 Lagos Metropolitan Area Transport Authority	11469
 Last Mile Connectivity for Rural Area and National	340
 Leaf Area Index	11334
@@ -274,6 +283,7 @@ Minister of State for Social Area	10768
 Modernization of Refugee and Host Community Settlement Areas	1867
 Ms. Aretha Mare	7362
 Musuli Lane North Industrial Area	3386
+National System of Protected Areas	11586
 Net Area	9781
 Network Area	4608,735,39,3371
 Network Area Framework TechAfrica News	5382
@@ -291,7 +301,8 @@ Operation ID P166564 Practice Area	10779
 Overcome Areas of Underperformance	11218
 Overview Of Key Thematic Focus Areas	6936
 POLICY PRIORITY AREAS	958
-PRACTICE AREA	1264,603,1695,42,7164,649
+POPULATION IN URBAN AND RURAL AREAS	11572
+PRACTICE AREA	1264,603,1695,42,7164,649,143
 PRIORITY AREAS	418
 PS4R Area	10841
 PS4R Area PS4R	10841
@@ -305,7 +316,7 @@ Policy Areas EVOBJ TBL Page	10779
 Policy Areas The Angola Development Policy	10779
 Policy Priority Areas	958
 Postcode Area	11129
-Practice Area	1264,603,1695,42,7164,11,638
+Practice Area	1264,603,1695,42,7164,11,638,143
 Principles Governance Legal Framework Priority Areas	21
 Print Disabilities Area Networks	6946
 Priority Area	970,234
@@ -322,6 +333,8 @@ Priority Human Settlements and Housing Development Areas	11224
 Priority6A.1reParsiority Areas	10157
 Product GMAs Game Management Areas GRZ	1988
 Project The Government-Wide Area Network	2256
+Protected Areas	11586
+Protected Areas The Global Economy	11586
 Province Area District Municipality Description of Project	6832
 Recovery and Human Development Priority Area	970
 Registration Area Centres	10054
@@ -369,7 +382,9 @@ Traffic Management for Protected Areas	1132
 Tripartite Free Trade Area THC Tetrahydrocannabinol	11197
 U.S Government Thematic Area	4301
 UK and Euro Area	11131
+URBAN AND RURAL AREAS	11572
 USG Global Health MOU Program Areas	6934
+Under Focus Area	11525
 Underserved Areas	9924
 Urban Area	11129
 Urban Areas	2775,7988

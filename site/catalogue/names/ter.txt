@@ -13,6 +13,7 @@ ASIST. PERS. TERC. EDAD	4209
 ASUNTOS TERRITORIAL	4209
 ATLAS AND IMPACT ON THE TERRITORY	11366
 ATLAS E IMPACTO NO TERRITÓRIO Todos	11366
+Abbreviations Term Description ACE Africa Coast	11552
 Abbreviations Term Description ACHPR African Commission	1814
 Additional Terms	3972,77,105,13,35,15,30,13,42,1050,5361
 Administración Territorial	6841
@@ -39,7 +40,9 @@ Anti-Money Laundering and Combating Terrorism Financing	4633
 Anti-Money Laundering and Counter Financing of Terrorism	5131
 Anti-Money Laundering and Terrorist Financing Unit	11153
 Appropriation Medium Term Expenditure Framework Rand	5533
+Aprovado Regulamento Geral da Lei da Terra. PARTE	11527
 Aquisição de Terminais	11438
+Aquisição de Terras	11542
 Assistance ToC Theory of Change ToR Terms	3604
 Atualmente Terra	2125
 Avec Insight Terra	2407,41,490,2760,1057,3927
@@ -59,6 +62,7 @@ CONTRA EL TEROR..- Concepto	4209
 CONTROLE DE TERRAIN PAR	10876
 COUNTER TERRORISM	11277
 CTD Collectivité Territoriale Décentralisée CVECA Caisse	10965
+Cadastro Nacional de Terras	11527
 Call Termination	1810
 Call Termination Regulations	11211
 Carlos Sena. Terceira	9994
@@ -97,6 +101,7 @@ D.G.PLAN. ACCION. TERR. Concepto	4209
 D.G.PLAN. ACCION. TERR.- Concepto	4209
 DA JURISAI TERMINA COM RECOMENDAÇÕES ESTRATÉGICAS	11473
 DCP Digital for Tertiary Education Program DFIL	3604
+DE BANDA LARGA MÓVEL POR TERMINAL	11531
 DE L’AMENAGEMENT DU TERRITOIRE ET	8237
 DEFINITION DES TERMES CLES	10876
 DEFINITION DES TERMES CLES1 Aliénation Transmission	10876
@@ -108,6 +113,9 @@ DIAMOND GLOBAL TERMINALS LTD Data Controller	7167
 DIAMOND GLOBAL TERMINALS LTD Data Processor	7167
 DTT Digital Terrestrial Television EAC East	6671
 DU MINISTERE DE L’ADMINISTRATION TERRITORIALE ET	8237
+Da Gestão da Terra	11514
+Da Propriedade da Terra	11514
+Das Terras de Pastagem	11514
 Data Technologies Long Term	1161
 Decentralised Territorial Collectivities	10980
 Definition of Key Terms	4610
@@ -149,12 +157,14 @@ Direction Générale des Collectivités Territoriales	557
 Direction Générale des Transports Terrestres	10812
 Director General Adjunto FUERZAS TERRESTRES.- Concepto	4209
 Directorate of Territorial Surveillance	7048
+Do Uso da Terra	11514
 Download Trust Privacy Terms Accessibility	9429
 Dr. Ermias M Terefe Legal National	9855
 Draft Terms of Reference	6832
 Duration and Termination	762
 Durban Container Terminal	11236
 Durban Container Terminal Pier	11236
+ENTD.GW. Terminamos	11569
 EXPECTED TIMEFRAME Short Term	1161
 East Africa's Single Customs Territory. Côte	4149
 Ecoles Latrines Jardins Cantines Terrain de Clôtures	10847
@@ -191,7 +201,9 @@ Fixed Termination Rates	6946
 Fizi Territory	10097
 Fondo de Desarrollo Territorial	1701
 Frequency VSAT Very Small Aperture Terminals	6946
+Front de Terre	11745
 Futi Director-Geral Coordenação Teresa Spínola Anália	11421
+Fórum Nacional de Terras	11527
 G- Digital I Terrestrial TV D	582
 GLOSSARY OF KEY DATA GOVERNANCE TERMS	3861
 Gas LTE Long Term Evolution LTM	2775
@@ -227,6 +239,7 @@ I.1.2.2 Bénéficiaires du Programme8 Terra Bénin	10876
 ICT Short Term Goals Ongoing	6133
 IDA-E338-MW TERMS OF REFERENCE FOR PROVISION	3678
 INSULAR R. CONT. TERRO R. CONT	4209
+INTERNET MÓVEL POR TERMINAL	11531
 IV.2 PROCEDURES FINANCIÈRES Le Programme Terra	10876
 Increase Digital Regulatory Frameworks Terrestial Television	6946
 Insight Terra CEO Alastair Bovim Deploys	2269,19,45,14,9,24,65,84,4,11,6,12,38,10,6,3,8,49,4,421,243,278,96,422,265,221,430,282,332,124,146,163,355,164,56,209,176,238,23
@@ -243,6 +256,7 @@ Key Identity-Related Terms An ID	10765
 Key Terms and Definitions	3651
 Kuala Lumpur International Airport Terminals	4275
 LE LITHIUM ET LES TERRES RARES	2342
+LEI DA TERRA CAPÍTULO I DISPOSIÇÕES	11527
 LONG TERM Create the Regional Centre of Excellence	5677
 LTE Long Term Evolution Figure	582
 LTE Long Term Evolution MB Megabytes	6671
@@ -253,6 +267,9 @@ Lda. Terça-feira	6462
 Le Programme TERRA Bénin	10876
 Le Programme Terra Bénin	10876
 Legal Terms A. Export Controls	5773
+Lei da Terra	11527
+Lei da Terra. ARTIGO	11527
+Lei da Terra. SUMARIO PARTEI	11514
 Lei de Terra	11390
 Lei de Terras	11443
 Leta Teresa	7463
@@ -277,6 +294,7 @@ L’ADMINISTRATION TERRITORIALE ET DE LA MOBILITE	8321
 L’ADMINISTRATION TERRITORIALE ET DE LA MOBILITELe	7670
 MARINA E INSPECCIONES TERESTRE REGIONAL	4209
 MAT Ministry of Territorial Administration	10768
+MINUTOS DE TRÁFEGO TERMINADO	11531
 MOI Memorandum of Incorporation MTDP Medium Term	11250
 MOP Manuel des Opérations du Programme Terra MTFP	10876
 MPCC Terms of Reference The MPCC	11131,3
@@ -304,6 +322,7 @@ Mid Term Review	4653
 Mines. La Direction du Portefeuille des Secteurs Tertiaire	2342
 Minister of Higher and Tertiary Education	413,4115
 Minister of Territorial Development	5805
+Ministries of Territorial Administration and Infrastructures	11536
 Ministry of Administration and Territory	10841
 Ministry of Foreign Ministry of Territorial Security Justice	10812
 Ministry of Higher and Tertiary	4528
@@ -315,24 +334,27 @@ Ministry of Territorial Administration and Decentralisation	1235,2411
 Ministry of Territorial Administration and Decentralization	10812
 Ministry of Territorial Administration. Home-commune	5283
 Ministry of Territory Administration	11390
-Ministério da Administração Territorial	5402,4712
+Ministério da Administração Territorial	5402,4712,1447,8
 Miva and Terra	8780
 MoHCDGEC. Mid Term Review	1261
 Mobile Satellite Service Terminal	736
 Mobile Termination Rate	8288
 Mobile Termination Rates	8753
 Mobile Termination Rates Innovation	6946
+Money For Terror	11579
 Mostafa Terrab	2696
 Moyen Terme	10975
 Moyen Terme CEDEAO Communauté	10712
 Moyen Terme. Une	1990
 Mozambique. TerraPay	1415
+Ms. Teresa Alexandrina da Silva	11579
 Módulo de Informação Territorial	9403
 NAF Airstrikes Cripple Terrorist Camp	4738
 NOTE A TERMINOLOGY DIVERGENCE	4256
 National Counter Terrorism Fusion Centre	8767,1
 National Countering the Financing of Terrorism Strategy	11277
 National Department of Health Terms	11350
+National Development Plan Terra Ranka	11536
 National Territory	3861
 National Territory This Policy	3861
 National Tertiary Education Institutions	580
@@ -345,6 +367,7 @@ Nyati Nersa NOA Teraco WhatsApp YouTube	9769
 O Ministro da Administração Territorial	3246
 O TERRITÓRIO NACIONAL	11397
 OECD Glossary of Statistical Terms	11258
+OFF-NET TERMINADAS TELECEL ORANGE	11574
 OFFICE MEMBERSHIP POWERS OF MEMBERS TERMINATION	585
 ONG Terre des Hommes Traitement	10821
 Objectifs du Programme Le Programme Terra Bénin	10876
@@ -359,6 +382,7 @@ Optical Network Terminal-Fiber	6946
 Orabank Mali and TerraPay	2940
 Ordenación Territorial	6841
 Os Termos de Referência	10769
+POR TERMINAL	11531
 POS Terminals Nationwide	9117
 PRACTITIONER’S FUNCTIONS AND TERMS OF APPOINTMENT	3714
 PROGRAMME TERRA BENIN	10876
@@ -408,24 +432,30 @@ Programme Terra Bénin. IV.1.3.1 Prise	10876
 Programme Terra Bénin. IV.1.3.5.3 Règles	10876
 Programme Terra Bénin. IV.1.4.2 Application S’applique	10876
 Programme Terra Bénin. Page	10876
+Project TERRA	11727
+Projet de Restauration des Terres Dégradées	11604
 Provincial Minister Tertuis Simmers Email	8564
 Provincial Minister Tertuis SimmersTel	11253
 Provincial Minister of Infrastructure Tertuis Simmers	11253
 Proyecto de Televisión Digital Terrestre	8153
 Publicação Oficial da República de Moçambique. Terça-feira	4274
 Publishing Classified Military Information Aids Terrorists	4738
+QUOTA DE MERCADO DE SMS TERMINADAS	11531
 Quantum Terminals. Il	7968
 Quarto Terceiro	10777
 RBZ Financial Inclusion Committee Terms of Reference	940
+REPÚBLICA DA GUINÉ-BISSAU BOLETIM OFICIAL Terça-feira	11514,13
 Raya Nassar and Terrence Naidoo	7116,685
 Reception Office RT Transversal Term	11218
 Reconciliation and Healing. Terms Cost	3583
+Regulamento Geral da Lei da Terra	11527
 Remplacement des Terminé	10975
 Royal Commission for Reviewing the Terms and Conditions	11131,3
 SECTION6 Additional Terms	4301,48
 SOSTENIBILIDAD MEDIOAMBIENTAL Y DESARROLLO TERRITORIAL	1701
 SST Self-Service Terminal TAT Turn Around	11250
 STARLINK User Terminals	1872
+SUPERVISÃO E FISCALIZAÇÃO NO TERRENO	11561
 SV Angel. Terra	10200
 Santa Tereza	10776
 Sargento de Primera Inspector de Tercera Sargento Cabo	4209
@@ -463,6 +493,7 @@ Standard Terminology Relating	11269
 Standard Terms and Conditions Regulations	4732
 Starlink Terms	1695
 Strike Hard Campaign Against Violent Terrorism	2518
+Sub Sharan Tertiary Education	11552
 Submarine Terminating Line Equipment	9109
 Surveillance du Territoire	7333,660,1675
 Swiss Terminal Operator Explore Options for Limbe	5407,676
@@ -470,16 +501,20 @@ TERCEIROS	11386
 TERCER SECRETARIO	4209
 TERCERA CATEGORIA	4209
 TERESA SUZANA NANGUANDA WASSI	10751
+TERI School of Advanced Studies	11572
 TERM VISION ANGOLA ENERGIA	11366
 TERM VISION Prefácio Foreword	11366
+TERMINADAS	11574
 TERMINATION OF MEMBERSHIP	585,8281
 TERMINEE GET	9480
 TERMINOLOGY	2662
 TERMS OF REFERENCE	962
 TERMS OF THE LOCAL GOVERNMENT	6907
 TERN BO H NO ER	2776
+TERRA ARTIGO	11514
 TERRA BENIN	10876
 TERRA Bénin	10876
+TERRA RANKA	11544
 TERRESTRES AÉREAS MONUMENTO DE ADUANAS	4209
 TERRITOIRE NATIONAL	10934
 TERRITORIAIS CAPÍTULO I DISPOSIÇÕES GERAIS	11409
@@ -491,8 +526,10 @@ TIMEFRAME Short Term	1161
 TISEZA Director General Gilead Teri	9897
 TOC Theory of Change TOR Terms of Reference	10768
 TOR Terms of Reference TPTTP Taking Parliament	11197
+TOR Terms of Reference UAF Universal Access	11552
 TOR Terms of Reference UNDP United Nations	1867
 TOUADÉRA ANNOUNCES BID FOR THIRD TERM	4127
+TRÁFEGO TERMINADO	11531
 TWh Terawatt-hour	11228
 Talent Metrics Term Retention	11131
 TeKnowledge’s Territory Director for Africa	7234
@@ -532,8 +569,8 @@ Terapêutico	11453
 Terceira	8309,545
 Terceira Reunião Ordinária	4081
 Terceirização	10772
-Terceiro	14,10763
-Terceiros	10755,693
+Terceiro	14,10763,805
+Terceiros	10755,693,66
 Tercer Secretario	4209
 Tercer Secretario A1	4209
 Tercer Secretario A2	4209
@@ -547,6 +584,7 @@ Terekeka Road	3583
 Teremos	6619,4770
 Terence Barter	5965
 Terence Darlington Mushore2 Isaiah Gwitira2 Lucy	520
+Teresa Alexandrina da Silva	11540
 Teresa Eson-Benjamin	7317
 Teresa Isabel Nnang Avomo	8372
 Teresa Vissolela Fortunato Calado da Costa	11391
@@ -572,7 +610,7 @@ Terminais de Caixa Automático	8493
 Terminais de Pagamento	6462
 Terminais de Pagamento Automático	8493,1008,1937
 Terminais de Pagamento Automáticos	11403
-Terminaison	998
+Terminaison	998,10599
 Terminal	11,1817,514,3493,1056,3119,701,82,476
 Terminal Multiservices Limited	8278
 Terminal Network	6891
@@ -609,16 +647,16 @@ Termo de Referência	11456,7
 Termo de Referência. Versão	11463
 Termo de Responsabilidade O Governador	11404
 Termoquímica	2741
-Termos	11386,20,6,3,13,2
-Termos de Referência	414,2402,5658,2916,50,1,1,14
+Termos	11386,20,6,3,13,2,152
+Termos de Referência	414,2402,5658,2916,50,1,1,14,105
 Termos de Referência. Luanda	11463
-Terms	972,116,61,1,546,171,292,616,939,1986,732,400,366,23,235,1487,310,376,528,273,418,361
+Terms	972,116,61,1,546,171,292,616,939,1986,732,400,366,23,235,1487,310,376,528,273,418,361,316,71
 Terms Of Use Privacy Statement	11220,21
 Terms and Conditions	962
 Terms and Conditions of Bidding	11240
 Terms of Foreign Borrowing	3583
 Terms of Historically Disadvantaged Individuals	11218
-Terms of Reference	170,792,299,3,107,723,18,8,869,350,476,288,550,1140,1153,1600,40,1017,1,8,116,332,19,33,307,301,56,94,137,262
+Terms of Reference	170,792,299,3,107,723,18,8,869,350,476,288,550,1140,1153,1600,40,1017,1,8,116,332,19,33,307,301,56,94,137,262,481
 Terms of Reference Name of Committee Constitution Terms	940
 Terms of Reference and Project Brief Annexure	11240
 Terms of Reference for Consultancy Services	2112
@@ -632,9 +670,11 @@ Terms of Trade1	2775
 Terms of Use	2264,1669,239,89,348,166,820,1446,2931
 Terms of Use Accept	11291
 Terms of Use All	6408
+Terms. Non-commercial	11596
 TermsLastAcceptedAt	10848
 Termuma and Crossword Puzzle	10001
-Terra	2125,3417,1075,2163,70,1312,37,1,577,117,485,26
+Terra	2125,3417,1075,2163,70,1312,37,1,577,117,485,26,109,11,127
+Terra AI	11652
 Terra Bénin	2354,8522
 Terra Bénin. Ces	10876
 Terra Bénin. Elle	10876
@@ -647,6 +687,8 @@ Terra Industries' Nigeria-based	10162
 Terra Nova	10750
 Terra Payment Services	1415
 Terra Payment Services South Africa	8840
+Terra Ranka	11525,1,17,1,8
+Terra Ranka. Tal	11523
 Terra. São	11405
 TerraFinance	3395
 TerraPay	1415,4,1521,2869,5491
@@ -660,13 +702,13 @@ Terragon	515
 Terrain Physical Address Station Name Site	736
 Terrains	6954
 Terrance M. Booysen	10570
-Terras	2437
+Terras	2437,9077
 Terre	3526,349,492,3007,3502,5,85
 Terre des Hommes	4090
 Terre des Hommes Guinea	4090
 Terre. L'entreprise	5766
 Terrence Park	10764
-Terreno	10777
+Terreno	10777,737,47
 Terrenos	4209
 Terrenos Afectos	11443
 Terres	1684,9192
@@ -684,7 +726,7 @@ Territoire	419,5693,1633,3406
 Territoire Douanier Unique. L'usage	5077
 Territoire National	547,3,18,20
 Territoire. Ils	11151
-Territorial	1701,1105,1055,4025,3480
+Territorial	1701,1105,1055,4025,3480,161,1,35
 Territorial Administration	2427,1158
 Territorial Administration Ministry	10775
 Territorial Administration Program	6093
@@ -701,7 +743,7 @@ Territory	228,1
 Territory Brunei Bulgaria Burkina Faso Burundi	11470
 Territory Director for Africa	5327
 Territory of Mauritius	2913
-Território	1176,4028,1,516,816,77,26,326,3462,326,9,2,3,4,3,591,7,5,12,68,21,6
+Território	1176,4028,1,516,816,77,26,326,3462,326,9,2,3,4,3,591,7,5,12,68,21,6,42
 Território MED Ministério da Educação MEP Ministério	11390
 Território Nacional	10747,705
 Terrorism Financing National Risk Assessment	11277
@@ -752,6 +794,7 @@ Urbanisme Terrain	1005
 Urbanización de Terrenos	4209
 User Terminals	1872
 User- Terminal Network	6891
+Uso de Terras	11542
 VICE-PRIMER MINISTRO TERCERO	4209
 VOIP Terminal	6946
 Very Small Aperture Terminal	736,26,5280,184,256,3925

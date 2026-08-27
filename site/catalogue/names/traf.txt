@@ -129,6 +129,11 @@ Motor Traffic and Transport Department	9205,1876
 NATIONAL MOBILE TRAFFIC	11211,51
 NATIONAL TELEPHONE TRAFFIC	3862
 NETWORK TRAFFIC	11211,51
+National Road Traffic Act	11551
+National Road Traffic Act.’’. Amendment	11551
+National Road Traffıc Act	11551
+National Road Traffıc Act.’’. Ukuchibiyela	11551
+National Road Traffıc Act.’’. Ukufaka	11551
 National Telephone Traffic	3862
 National Traffic	6000
 Net Traffic	2776,7005
@@ -197,10 +202,11 @@ Tbps Traffic Milestone	2754
 Telecommunications Traffic Control Regulation	9288
 Telecommunications Traffic Control Regulations	8742,1
 Telephone Call Traffic	2775
-Traffic	26,210,159,197,182,358,856,689,99,1064,22,2138,671,3110,1350,100,19
+Traffic	26,210,159,197,182,358,856,689,99,1064,22,2138,671,3110,1350,100,19,524
 Traffic Acquisition Costs	1363
 Traffic Act	1988,4933,2725
 Traffic Act. NTSA	9646
+Traffic Act.’’. Substitution	11551
 Traffic Analysis	11231
 Traffic Data	2776
 Traffic Handled	2775
@@ -228,6 +234,7 @@ Traffic and Usage	3990,5791
 Trafficking	5242,5517,78,4
 Trafficking Data	1243
 Trafic	9781
+Trafic International Entrant	11597
 Transit Traffic	2775
 VoIP Voice Traffic Trend	3862
 Voice Call Traffic	2775

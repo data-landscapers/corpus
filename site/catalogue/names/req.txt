@@ -54,6 +54,7 @@ CBN Requires All POS Machines	3491
 CENTER CAPACITY REQUIREMENTS	10861
 CERTIFICATION DEPARTMENT Request	10819
 CERTIFICATION DEPARTMENT Request PTSP	10819
+CHAPTER III REQUIRED FORMALITIES FOR EXECUTING	11517
 CIRCULAR IS IMPORTANT AND REQUIRES	4896
 COMMUNICATION TECHNOLOGY UNIT SOFTWARE INSTALLATION REQUEST	34
 CONTINUOUS ADAPTATION REQUIREMENT	3861
@@ -126,6 +127,7 @@ Functional Performance Requirements	10616
 Functional Requirements	5665,758,4786
 Functional Requirements. The Mandatory Functional	11209
 GEF-8 Request for MSP	3430
+GLOBAL INVESTMENT REQUIRED FOR UNIVERSAL ELECTRICITY	11572
 GSM OBJET DE LA REQUETE Connexion	10821
 Gavi’s Grant Management Requirement	11401
 General Policy Requirements for Trust Service Providers	10819
@@ -192,6 +194,7 @@ Minimum Fiscal Transparency Requirements House Report	11005
 Minimum Required Data	6423
 Minimum Requirements	11209
 Minimum Sample Size Requirements for Seasonal Forecasting	236
+Mutuário. Instrumentos A&S Requeridos	11542
 NA Requires	10908
 Name of Requesting Officer	34
 National Framework ESS and Requirements National Laws	1988
@@ -246,6 +249,7 @@ REPORTING REQUIREMENTS AND TIMELINES FOR EXPECTED	3678
 REQUEST	2709
 REQUEST ANALYSIS	10775
 REQUEST Dr. Peter Ndegwa	7204
+REQUEST FOR EXPRESSION OF INTEREST	11750
 REQUEST FOR EXPRESSION OF INTEREST REQUEST	962
 REQUEST FOR EXPRESSIONS OF INTEREST	9603,1
 REQUEST FOR PROPOSAL	8726,2514
@@ -298,34 +302,35 @@ Requerer	11383,47
 Requerimento	794,10625,48
 Requerimento de Reembolso	11467
 Requerir	163
-Request	34,202,351,1241,167,1892,547,427,932,630,9,2702,140,356,106,157,875,7,34,161,47,164,47
+Request	34,202,351,1241,167,1892,547,427,932,630,9,2702,140,356,106,157,875,7,34,161,47,164,47,297
 Request Correction	11276
 Request Form Portals Complaints Portal Voice	9109
 Request IT3	11276
 Request Rejected	11153
 Request for Applications	7368,33,1143,38
-Request for Bids	11417
+Request for Bids	11417,108
 Request for Comments	991
-Request for Expression of Interest	962
+Request for Expression of Interest	962,10563,225
 Request for Expressions of Interest	8669
 Request for Expressions of Interest Notice	9892,1
 Request for Information	2273,353,4320,4090
 Request for Pre-Qualification	11236
 Request for Proposal	2743,3050,2158,3289
-Request for Proposals	1371,2233,4347,3180,3,102,4
+Request for Proposals	1371,2233,4347,3180,3,102,4,285
 Request for Proposals The RFP	11134
-Request for Quotations	2989
+Request for Quotations	2989,8536
+Request for Quotations RPF Resettlement Policy Framework	11525
 Request the National Audit Chamber	3583
 RequestLevel	10848
 Requested	9123
 Requested Federal	5773
 Requested the AACB Secretariat	4103
 Requested the African Union Commission	4103
-Requesting	6432,4866
+Requesting	6432,4866,287
 Requesting Officer	34
 Requesting Unit	10870
 Requestors and Providers	3815
-Requests	1474,304,2037,46,2011,69,1006,265,1628,283,937,756,424,31
+Requests	1474,304,2037,46,2011,69,1006,265,1628,283,937,756,424,31,246,68
 Requests for Rollover of Funds	11250
 Requests the AU Commission	5825
 Requiert	10876
@@ -333,7 +338,7 @@ Require	1988,2138,1118,432,1,744,21,390,104,13,2,597,2389,1023,119,152
 Require AI	7548
 Require SSHv2	10721
 Require the FM	3604
-Required	34,1906,175,4,1595,1,146,2003,452,107,2700,80,1775,175,3,77
+Required	34,1906,175,4,1595,1,146,2003,452,107,2700,80,1775,175,3,77,452
 Required Breakeven Revenue	10738
 Required Date	1778
 Required Documentation	6442
@@ -376,16 +381,19 @@ Requiring	961,282,3285,835,2108,3304,230,74,77
 Requiring RIRs	3502
 Requiring Telecom Users	11079
 Requisiros	11390
+Requisitar	11537
 Requisite Regulatory Approvals	7198
-Requisitos	14,525,255,1644,2731,1801,3785,20,585,10,16,4,40,31
+Requisitos	14,525,255,1644,2731,1801,3785,20,585,10,16,4,40,31,59,22,13,10,17
 Requisitos Académicos Específicos. Os	11472
 Requisitos Especiais	3519,7844
+Requisitos Essenciais	11519
 Requisitos Gerais	10755,675
 Requisitos Técnicos Mínimos	794
 Requisitos Técnicos Para	11373
 Requisitos Técnicos de Transmissão	794
 Requisitos de Acesso	3519
 Requisitos de Admissão	6462
+Requisitos de Graduação	11534
 Requisitos de Identificação	11404
 Requisitos de Informação	10755
 Requisitos de Qualificação	11442,6,3

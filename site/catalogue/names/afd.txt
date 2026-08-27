@@ -1,6 +1,6 @@
 AFD Agence Française de Développement	11380
 AFD Agence Française de Développement AMR Avis	10712
-AFD French Development Agency	969
+AFD French Development Agency	969,10580
 AFD Group	212,82,225,197,1,221,1,212,1,1,398,1,1,683,2279,1
 AFD N	3715
 AFD US	543
@@ -23,6 +23,7 @@ AfD-Bundestagsfraktion	11316
 AfDB African Development Bank AFW World	969
 AfDB African Development Bank AFWRI Country	10841
 AfDB African Development Bank ARR Annual	11380
+AfDB African Development Bank ASA Advisory	11549
 AfDB African Development Bank Group ADE	4214
 AfDB African Economic Outlook	6338
 AfDB Annual Meetings	6764
@@ -76,6 +77,7 @@ African DPG Fund. The AfDB	7921
 African Development Bank. AfDB	10718
 Agribusiness EIB and AFD	789
 Authority AfDB African Development Bank AG	2775
+Bank AfDB African Development Bank CAGR	11572
 CFA180bn World Bank and CFA48bn AfDB	6400
 CIV-based. No AFD	1151
 Co-financier AfDB	1570
@@ -113,3 +115,4 @@ WB IDEA and AFD	4841
 World Bank IDA and AFD	473
 World Bank and AFD	1771,480
 World Bank and AFD Support	5104
+World Bank and AfDB	11545

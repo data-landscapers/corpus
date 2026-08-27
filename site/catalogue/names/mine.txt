@@ -33,6 +33,7 @@ Desarrollo Minero	4209
 Direction des Mines	235
 Développer des MINEDUB	10965
 Eastern and Western Platinum Mines	6683
+Ecole des Mines	11597
 Education de Base MINEPAT Ministère	10965
 Empresa Minera Nacional	4209
 Energy and Mineral Resources	1228
@@ -93,6 +94,7 @@ MINEPAT. Page	10964
 MINEPAT. That PIU	10964
 MINEPIA	10963,2
 MINEPIA Management Information System Ministère	10964
+MINES Le Conseil des Ministres	11597
 MINES PIC	2342
 MINESEC	10379,586
 MINESEC Avez-vous	10379
@@ -122,7 +124,7 @@ Mineral Resource	11280
 Mineral and Petroleum Resources	11232
 Mineral and Petroleum Resources Development Act	6683
 Mineral and Petroleum Resources Royalty	11181
-Minerals	2889,1639,316,4555,1911
+Minerals	2889,1639,316,4555,1911,298
 Minerals Council	7751,699
 Minerals Council South Africa. Drawn	7751
 Minerals Management and ESEPARC	11131,3
@@ -131,7 +133,7 @@ Mineração	2816
 Mineração de Dados Educacionais	2816
 Minerva	11028
 Minerva Technology Futures	7209
-Mines	235,1753,354,1054,43,192,1185,686,62,107,751,340,3,361,642,169,384,434,199,47,286,55,254,418,859,2,25
+Mines	235,1753,354,1054,43,192,1185,686,62,107,751,340,3,361,642,169,384,434,199,47,286,55,254,418,859,2,25,697
 Mines Agriculture des Marchés Eau	2342
 Mines Artisanales	643
 Mines Commerce Crafts	10763
@@ -144,6 +146,7 @@ Mines de Nancy	8484
 Mines. Il	9819
 Mines. La Direction du Portefeuille des Secteurs Tertiaire	2342
 Minesec	10379
+Minesup	11673
 Minette Barkhuysen	10538
 Minette Libom Li Likeng	2534,161,168,69,298,3,2,5,58,30,910,31,293,503,2893,547,1750,99
 Minette Libom Li Likeng. Ces	5065
@@ -151,10 +154,12 @@ Minette Libom Li Likeng. Une	2932
 Minette Libom Li LikengCAMTEL	7958
 Minette Libom Li-Likeng	4192
 Mining of Mineral Deposits	7759
+Minister Minette Libom Li Likeng	11697
 Minister for Mineral Resources	2667
 Minister of Mineral Resources	9153
 Minister of Posts and Telecommunications Minette Libom Li	2303,951
 Minister of Solid Minerals Development	7513
+Minister of State for Mines and Steel	11579
 Ministre des Mines	7978
 Ministry of Industry and Minerals	9862
 Ministry of Minerals and Energy and P23.7	2736
@@ -204,7 +209,9 @@ Salubrité Mines	4895
 Selon Minette Libom Li Likeng	3138
 Small Miners	8639
 Sociedad Minera GEEMINA	4209
+Société des Mines	11597
 Solid Minerals	3557
+Strategic Minerals	11608
 Survey Fund the Mineral Survey Fund	6921
 TONGON GOLD MINE	2342
 TRCI INIE INS-SODE MINES LONACI Exploitation	2342

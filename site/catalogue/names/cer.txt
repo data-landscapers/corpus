@@ -24,6 +24,7 @@ AOC Air Operator Certificate AOI Agriculture	2775
 APPLICATION FOR DIGITAL HEALTH SOLUTION CERTIFICATION	2709
 AWS Certified Cloud Practitioner	7210
 AWS Certified Partner	9561
+Accountability Mechanism CERC Contingent Emergency Response	11560
 Accreditation and Certification Accreditation	587
 Acidente Vascular Cerebral	2816
 Action Plan NCPB National Cereals and Produce	2775
@@ -69,6 +70,7 @@ C1 Certificado de Actualización PE	4209
 C2 COMERCIO Certificado de Comercio	4209
 C3 COMERCIO Certificado de Comercio	4209
 C5 CERC	1770
+CA Autoridade Certificadora CFE Centro	11555
 CARD INDEX SERVICE COPIE CERTIFIEE CONFORME	10974
 CATEGORIES OF DATA Certain	961
 CATEGORÍA COMERCIO Certificado de Comercio	4209
@@ -81,8 +83,10 @@ CATEGORÍA Certificado de Comercio ACTUAL Libreta	4209
 CCDR CERC CHIRPS CNAS CNPC COVID-19	10763
 CCDR Country Climate and Development Report CERC	10768
 CCES Certificat de Conformité Environnementale	10876
+CEDAW CEDAW-OP CERD CESCR CESCR-OP CMW	11765
 CEH Certified	9858
 CERAE	11136
+CERAGON	11531
 CERBA LANCET KENYA LIMITED Data Controller	7167
 CERBA LANCET KENYA LIMITED Data Processor	7167
 CERC Business Plan Competition CISE Caisse	10964
@@ -153,7 +157,7 @@ CSI Handover Ceremony	11131
 Cameroun. Certains	10965
 Carolina Cerqueira. Promulgada	3519,7890,16
 Center for Media Studies and Peacebuilding CERT	5244
-Cerca	795,3249,6713
+Cerca	795,3249,6713,830
 Cercle	3520,5200,567,55,155
 Cercle de Kéniéba	9287,55
 Cereal Growers Association Data Processor INST-6608837F224	7167
@@ -175,13 +179,14 @@ Cerraduras Electrónicas	4209
 Cerrillas	4209
 CertExpress	1012,872
 CertExpress CertExpress	1882
-Certain	10,561,172,218,282,409,3244,351,286,835,570,260,688,3091,172,69
+Certain	10,561,172,218,282,409,3244,351,286,835,570,260,688,3091,172,69,318
 Certain AI	11135
 Certain Effects	7198
 Certain Financial Forecasts	7198
 Certain Responsible Parties	11255
-Certaines	748,439,635,162,85,331,2913,60,864,722,396,48,310,117,268,257,286,250,389,444,542,21,102,90,232,110,5,49,100
-Certains	643,104,1,483,753,277,152,352,700,343,430,918,743,616,100,344,138,558,58,989,35,79,75,627,480,241,48,102,126,196,110,5,49,90,49,485
+Certaines	748,439,635,162,85,331,2913,60,864,722,396,48,310,117,268,257,286,250,389,444,542,21,102,90,232,110,5,49,100,770
+Certainly	11665
+Certains	643,104,1,483,753,277,152,352,700,343,430,918,743,616,100,344,138,558,58,989,35,79,75,627,480,241,48,102,126,196,110,5,49,90,49,485,246
 Certains Camerounais	3808
 Certainty	5487
 Certamen Miss Guinea	4209
@@ -199,8 +204,10 @@ Certidão de Dívida Tributária CRF	11435
 Certidão de Nascimento	10765,7,3
 Certidão de Nascimento. Ou	10772
 Certidão de Quitação Fiscal	8731
+Certidão de Quitação Número	11532
 Certidões	11452
 Certidões Cadastrais	11384
+Certidões São	11528
 Certificaciones de Pagos	4209
 Certificación de Productos	4209
 Certificado	794,9956,1,620,2,46,53
@@ -274,7 +281,7 @@ Certificates of Incorporation	1988
 Certificates of Origin	7142
 Certificates of Recognition and Merit	7702
 Certificates of Registration	9646,511
-Certification	587,149,264,9,222,13,1098,1519,1690,114,71,57,639,504,119,493,1451,617,697,499,29,28,87,18,165,81,21,106,146
+Certification	587,149,264,9,222,13,1098,1519,1690,114,71,57,639,504,119,493,1451,617,697,499,29,28,87,18,165,81,21,106,146,108,166
 Certification Authorities	9880
 Certification Authority	1009,10175
 Certification Authority and Digital Trust Centre	2692
@@ -293,6 +300,7 @@ Certification Requirements	5665
 Certification Scheme	7548
 Certification Standard	2889
 Certification WhatsApp Channel Planned Interventions Current	8999
+Certification and Qualifications Specialist	11750
 Certification-leading	3299
 Certification. PCI-DSS	2350
 Certifications	6432
@@ -347,6 +355,7 @@ Chamber Registration Certificates	10645
 Chartered Certified Accountant	4896
 Circular. Certificated	4896
 Cisco Certified Support Technician	9621
+Citizen Engagement CERC Contingency Emergency Response	11549
 Collectivité Cercle	9287,55
 Commercial Intra-city Courier Services Certificate	1223
 Community CERC Contingency Emergency Response Component	969
@@ -357,6 +366,7 @@ Conformance Assessment and Conformance Certification	1009
 Constituency Sectorial CERTS	775
 Contingent Emergency Response Component CERC Country	11417
 Contingent Emergency Response Component CERC Steering	1228
+Controlling Person Type and Self Certification	11685
 Country Climate and Development Report CERC Contingent	1264
 Country Signing Certificate Authorities	7370,191
 Customary Right of Use Certificate	10930
@@ -402,8 +412,10 @@ Emergency Response Component CERT Computer Emergency	1264
 Emissão da Certidão Cadastral	11384
 Entidade Certificadora Raiz de Angola	8309
 Entidades Certificadoras	8309
+Equity Interest Type and Self Certification	11685
 Establish Certification	1000
 European Cybersecurity Certification Framework	3787
+Exorbitant Data Protection Certification Fees Threaten	11677
 Fabio Cerone	2984
 Fire Certificate	1988
 Firearm Certificate Scam	7312
@@ -461,6 +473,7 @@ Le CERT.tgmission	10575
 Le Cercle de Recherche	10826
 Liberia National CERT	5244
 Life Certification	7581,2387
+Life Certification Portal	11660
 MACF. Certains	8891
 MZ1 Key Facts Tier III Certified	9446
 Markets Authority CMC Cabin-Crew Member Certificate	2775
@@ -582,6 +595,7 @@ Tax Clearance Certificate and SSNIT	7368
 Tax Clearance Certificates	9779
 Tax Compliance Certificate	10064
 Tax Compliance Certiﬁcate	2709
+Taxa de Certidão de Quitação	11532
 Technical Certification	5466
 Telecommunications Sector. B. The CERT	4610
 Telephone Number CERT-GH	775

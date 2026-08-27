@@ -22,6 +22,7 @@ Africa's Best Cybercrime Unit	2269
 Afrique Centrale UNCDF United Nations Capital	10965
 Agency SIU Special Investigating Unit SLA	11218
 Agency Sector IT Units	1000
+Agent UN United Nations UNFPA United	11560
 Agreement for National Unity	7452
 Agriculture and Food Safety. The United Arab	11185
 America United States Dollar Value Added	11134
@@ -49,12 +50,14 @@ Billion Health Cooperation Framework United States	4165
 Bonny Island Branching Unit and Cable Landing	535
 Borrower’s Project Implementation Unit	3456
 Botswana's Vice President Calls for United African	3729
+Britain's Superfast Broadband Future United States	11529
 Burkina Faso and United Arab Emirates-based Presight	3624
 Business Unit Fixe	9916
 CAB-26 REPUBLIQUE DU CONGO Unité	6067
 CEO of United SA	6238
 CID Cybercrime Unit	6936
 CMU Country Management Unit CNP Concelho	11380
+CNE’s Gender and Social Inclusion Unit	11586
 COMMUNICATION TECHNOLOGY UNIT AUTHORISATION TO ACCESS	34
 COMMUNICATION TECHNOLOGY UNIT EQUIPMENT SUPPORT LOG	34
 COMMUNICATION TECHNOLOGY UNIT SOFTWARE INSTALLATION REQUEST	34
@@ -107,11 +110,11 @@ Coverage United States Government Wild Poliovirus	4153
 Coût Moyen Unitaire Pondéré	10975
 Creation of Additional Polling Units The Commission	10049
 Crisis Coordination Unit	6947
-Currency Unit	969,295,603,1022,673,42,2935,4229,61,135,416,37,51
+Currency Unit	969,295,603,1022,673,42,2935,4229,61,135,416,37,51,57,35
 Cyber Crime Unit	7777
 Cyber Special Operations Unit	1000
 Cybercrime Response Unit	1000
-Cybercrime Unit	8748
+Cybercrime Unit	8748,2900
 Cybersecurity Unit	4610
 Cybersecurity Unit A. All Telecommunications Service	4610
 Cybersecurity Unit A. Any Telecommunications Service	4610
@@ -207,6 +210,7 @@ Fixed Business Unit. The Plan International	9917
 Follow-up Unit	7923
 Forum of Coordination Unit	1777
 Foster United States of America-Kenya	4153
+Framework PCU Project Coordination Unit PIM	11525
 Free and Secure Digital Future for All. United	11028
 Functional Unit for Acquisitions Supervision	3489
 GAP THAT REMAINS The United	9106
@@ -221,6 +225,7 @@ Gavi. United Nations	11417
 Gender Justice Unit	2993
 Global Delivery Unit	6133
 Global Public Sector Business Unit	5359
+Governance Operational Unit	11570
 Government Agencies United Kingdom Investisseurs	4972
 Government Technology Unit	2779,141
 Government and Trust Unit	10819
@@ -228,6 +233,7 @@ Government of National Unity	1810,1378,276,1322,361,170,1116,1111,179,1527,1159,
 Government of National Unity. The White Paper	5533
 Graphics Processing Unit	8219
 Graphics Processing Units	6583,642
+Great Britain and Northern Ireland United Nations	11765
 Group US United States US	1243
 Groupement des Unités	3396
 Grupo Parlamentar da UNITA	5791,1056,271,2041
@@ -289,6 +295,7 @@ KENYA THE UNITED STATES OF AMERICA	4154
 Kenya and United Bank for Africa	10223
 Kenyan and United States	4165
 Koeberg Unit	11215,13
+Kosovo United Republic of Tanzania United States	11765
 Kusile Unit	11223,5
 Labour Market Intelligence Unit	6832
 Laptops Standards and Guidelines The ICT Unit	34
@@ -353,7 +360,10 @@ National Technical Unit for PBF	10829
 National Unity	970
 National Unity GRAP Generally Recognised Accounting	11250
 National Unity Government	5862
+Nations Children’s Fund UNODC United Nation	11586
+Nations Development Program UNICEF United Nations	11525
 Nations Disaster Management Team United Nations	10763
+Nations Population Fund UNICEF The United	11560
 Nations UNHCR United Nations High Commissioner	10765,10
 Nations United Nations Development Programme United	4528
 News Police Special Fraud Unit	4725
@@ -391,6 +401,7 @@ PBF National Technical Unit The World	10829
 PCA da UNITEL	4248
 PCU Project Coordination Unit PDISA Water	11380
 PHA. A UNITA	9159
+PIU Project Implementation Unit PPA Power	11549
 PLA Unit	8510
 PLR Project Implementation Unit PNDP Performance	10964
 PPP Advisory Unit	11248
@@ -422,6 +433,7 @@ Primary Sampling Units	582
 Private Sector Development Unit	7248
 Privatisation Unit	1198
 Procurement STEP Terms of Reference TOR United	11417
+Procurement TA Technical Assistance UNDP United	11525
 Procurement Unit	6539
 Procurement and Disposal Unit	9696
 Procurement and Logistics Unit Organization	9892,1
@@ -433,7 +445,7 @@ Programme Coordination Unit	6400
 Programme Evaluation and Auditing UN Women United	11193
 Programme Implementation Unit	10965
 Programme UNESCO United Nations Educational	6946,602
-Project Coordination Unit	3604,2673
+Project Coordination Unit	3604,2673,5248
 Project Implementation Unit	1228,36,20,494,1111,1764,181,517,552,1550,424,1106,37,919,283,875,293
 Project Implementation Unit PPP Public-Private Partnership	6539
 Project Implementation Unit The Zambia Refugee	1988
@@ -460,6 +472,7 @@ Publication of UNIT	6891
 REAIM and United Nations	7548
 REPARTITION PAR UNITE	10975
 REPUBLIC OF Nigeria PREAMBLE The United	4302
+RSTP Business Incubation Unit and Innovation Hub	11667
 RTAs. The United States	1243
 Rank Unit	10835,3,130
 Reform Coordination Unit	1284
@@ -485,6 +498,7 @@ Revitalised Transitional Government of National Unity. ICT	6182
 Revitalized Transitional Government of National Unity	3583
 Rica Dominican Republic Western Europe United	11135
 Road Twenty-foot Equivalent Units	2775
+Role Specialization Unit Team Leader	11525
 Royal United Services Institute for Defence and Security	4127
 Rural Safety Units	11188
 Ruweng Administrative Area of Unity State	3583
@@ -505,7 +519,9 @@ Secretary-General. United Nations. Google Scholar UN	11028
 Serial Bus USD United States Dollar	2775
 Service Fund UN United Nations UNDP	6539
 Service UN United Nations UNISA University	11188
+Serviços de Polícia Unitários	11683
 Severe Disabilities CTU Cane Testing Units	2775
+Sierra Leone Police Cyber Unit	11651
 Six Francophone West African Countries Unite	7170
 Social Protection Reforms Unit. Rwanda	10991
 Social Protection Stress Test Tool United	10763
@@ -578,10 +594,12 @@ U.S. Government Chief of Mission United	4202
 UHI Universal Health Insurance UNICEF United	11133
 UK United Kingdom UN United Nations	2775
 UN PRINCIPLES AND GUIDELINES The United	1243
+UN United Nations UNEP United Nations	11553
 UNCTAD United Nation Conference	2775
 UNCTAD United Nations Conference	1264,6284
 UNDP Mauritius Team United Nations	11332
 UNDP United Nations Development Budgeting	11193
+UNDP United Nations Development Programme UNFPA	11586
 UNDP United Nations Development Programme UNICEF	10964
 UNEP UN Environment Programme UNESCO United	1204
 UNFPA United Nations Family and Population Agency	10829
@@ -594,9 +612,11 @@ UNION DES COMORES Unité-Solidarité-Développement	3715
 UNIT and RuL	6891
 UNITA	4736,1546,565,271,2041,240,306
 UNITA União Nacional	10765,10
+UNITAR	11572
 UNITE FTHE ICA	4260
 UNITE-PROGRES-JUSTICE LEGISLATURE DE LA TRANSITION	113
 UNITED BANK OF AFRICA PLC	1829
+UNITED NATIONS DEVELOPMENT PROGRAMME GUINEA-BISSAU TABLE	11586
 UNITED NATIONS E-GOVERNMENT SURVEY	10840
 UNITED REPUBLIC OF TANZANIA NO	6921
 UNITED REPUBLIC OF TANZANIA No	6921
@@ -618,17 +638,20 @@ UNITES RECUS DOSSIERS ECARTS Pourcentage TRAITES	10975
 UNITWIN	10469
 UNITY	4619
 UNITY PARTY ALLIANCE BEGINNING	10581
+UNSD United Nations Statistics Division USD	11572
 UNiTE	11332
 USA United States of America USB Universal	2775
 USAID United States Agency for International Development	396,10984
 USD United States Dollar	8590
 Uganda Health Transformation Delivery Unit	4217
-Ukraine United Arab Emirates United Kingdom	11470
+Ukraine United Arab Emirates United Kingdom	11470,295
+Union USD United States Dollar WACREN	11552
 Unit Costs	1778
 Unit Current USD	10759
 Unit Economics	9198
 Unit Manager for Data	10073
 Unit No	11276
+Unit PDO Project Development Objective PFM	11560
 Unit POM Project Operations Manual PPP	10829
 Unit Prices and Value of Selected Crops	2775
 Unit Prices of Principal Domestic Exports	2775
@@ -637,6 +660,7 @@ Unit Trusts ETFs	7343
 Unit USD	5247
 Unit of Account	6422
 Unit of Analysis	10862
+Unit of Responsibility for Indicator Name Core Baseline	11525
 Unit. CHAPTER	11182
 Unit. Disposal	34
 UnitSpect	736
@@ -647,13 +671,14 @@ Unitary Board	11131
 Unitas Hospital and Another	2307
 Unite	4524,2902
 Unite and Transform	7426
-United	736,35,1325,1487,1659,5893
+United	736,35,1325,1487,1659,5893,434
 United Africa Blockchain Association	8298
 United Arab	9399
-United Arab Emirates	1639,1285,34,323,776,158,232,136,28,216,127,119,13,161,844,211,109,110,92,177,9,50,97,34,17,154,388,148,129,37,196,77,139,2,228,150,297,457,61,397,361,567,61,225,60,3,1,1,4,45,105,206,5
+United Arab Emirates	1639,1285,34,323,776,158,232,136,28,216,127,119,13,161,844,211,109,110,92,177,9,50,97,34,17,154,388,148,129,37,196,77,139,2,228,150,297,457,61,397,361,567,61,225,60,3,1,1,4,45,105,206,5,108,33,80
 United Arab Emirates Central Bank and South	11185
 United Arab Emirates Global Cybersecurity Index	10764
 United Arab Emirates UHC Universal Health	2775
+United Arab Emirates Yes ICT Fund	11529
 United Arab Emirates and Singapore	6689,3020
 United Arab Emirates and South Africa	11185
 United Arab Emirates and South African	11185
@@ -675,12 +700,13 @@ United General Insurance Assistant Manager Colleta	7364
 United Green	11469
 United Heart Movement	4127
 United Hotel	10975
-United Kingdom	10,563,216,181,68,205,311,260,735,77,149,149,24,404,161,70,864,525,63,74,93,45,32,23,185,124,5,59,197,136,161,347,274,59,97,51,102,99,253,97,71,197,29,8,412,175,131,218,278,29,25,106,122,9,101,44,142,53,8,126,124,132,67,63,52,317,102,25,4,67,56,5,103,182,3,1,19,15,5,5,13,107
+United Kingdom	10,563,216,181,68,205,311,260,735,77,149,149,24,404,161,70,864,525,63,74,93,45,32,23,185,124,5,59,197,136,161,347,274,59,97,51,102,99,253,97,71,197,29,8,412,175,131,218,278,29,25,106,122,9,101,44,142,53,8,126,124,132,67,63,52,317,102,25,4,67,56,5,103,182,3,1,19,15,5,5,13,107,273,37
 United Kingdom Foreign	10768
 United Kingdom Global Cybersecurity Index	10764
 United Kingdom Government	2664,919,6470
 United Kingdom Government's Girls' Education South	3583
 United Kingdom UN United Nations UNCTAD	1243
+United Kingdom Yes Connectivity	11529
 United Kingdom Yes the UAE Pass	10714
 United Kingdom and Australia	7256
 United Kingdom and France	10701
@@ -697,6 +723,7 @@ United Kingdom's Home Office	4052
 United Kingdom's National Cyber Security Centre	11299
 United Kingdom. AVCA	4972
 United Kingdom. Almond	7886
+United Kingdom. Progress	11572
 United Kingdom.437 Announced	3583
 United Kingdoms of South Africa	5600
 United Kingdom’s Foreign	5172,3605
@@ -706,54 +733,70 @@ United Kingdom’s Office for AI. Ghana	4126
 United Mexican States	1243
 United Nation Economic Commission for Africa	10819
 United Nation's Sustainable Development Goals	940
-United Nations	236,79,626,20,282,391,4,176,73,25,205,145,87,86,90,4,148,114,167,203,71,12,321,18,21,108,149,57,1,1,207,143,258,98,378,40,30,13,23,55,80,122,166,21,188,261,195,114,61,101,138,29,64,244,94,16,53,58,29,43,67,11,103,9,20,8,79,9,130,71,96,25,136,44,63,250,17,248,85,27,205,73,25,39,24,30,512,3,57,364,138,82,159,263,51,10,1,9,34,21,1,11,4,107,1,1,4,35,24,43,78,5,23,8,3,5,2,15,14,34,4,17,5,48,8,58,71
+United Nations	236,79,626,20,282,391,4,176,73,25,205,145,87,86,90,4,148,114,167,203,71,12,321,18,21,108,149,57,1,1,207,143,258,98,378,40,30,13,23,55,80,122,166,21,188,261,195,114,61,101,138,29,64,244,94,16,53,58,29,43,67,11,103,9,20,8,79,9,130,71,96,25,136,44,63,250,17,248,85,27,205,73,25,39,24,30,512,3,57,364,138,82,159,263,51,10,1,9,34,21,1,11,4,107,1,1,4,35,24,43,78,5,23,8,3,5,2,15,14,34,4,17,5,48,8,58,71,56,11,16,17,12,28,4,38
+United Nations AI for Good Global Commission	11682
 United Nations AI for Good Global Summit	7174
 United Nations Assistant High Commissioner	1963
+United Nations Association of China	11572
 United Nations Avenue	4154
 United Nations Broadband Commission	1264,9580
 United Nations Broadband Commission for Sustainable	10851
 United Nations Capital Development Fund	273,92,12,287,215,235,371,1176,1579,5541,1060,515
+United Nations Capital Development Fund's Leaving	11773
 United Nations Charter	3583,3891,3367,369
-United Nations Children's Fund	2239,937,407,1517,4361,400,11,1068,23
+United Nations Children's Fund	2239,937,407,1517,4361,400,11,1068,23,609
 United Nations Children's Fund WCARO	10940
-United Nations Children’s Fund	969,292,4541,4232,231,358,91,54,61,135,169
+United Nations Children’s Fund	969,292,4541,4232,231,358,91,54,61,135,169,392
 United Nations Children’s Fund USR Unified	10964
 United Nations Children’s Fund Vertical Expansion	10763
-United Nations Climate Change Conference	10768
-United Nations Commission	10819
+United Nations Climate Change Conference	10768,804
+United Nations Climate Change Conference DRE	11572
+United Nations Commission	10819,731
 United Nations Commissioner for Human Rights	3583
 United Nations Committee	7760
 United Nations Committee of Experts	9651
 United Nations Comtrade Database	10969
+United Nations Con	11550
 United Nations Conference	236,1007,21,2863,241,876,2304,1397,1773,105,18,3
-United Nations Convention	940,801,936,1593,313,93,5091,18,9,1032,401
+United Nations Convention	940,801,936,1593,313,93,5091,18,9,1032,401,323
 United Nations Convention Against Corruption	3583
 United Nations Convention Relating	5533,5644
 United Nations Convention and Protocols	11277
+United Nations Department	11569
 United Nations Department of Economic and Social Affairs	2510,8084,120,51,10,60,3,18,112,36
+United Nations Department of Economics and Social Affairs	11572
 United Nations Development	10965
 United Nations Development Business	1867,8962
 United Nations Development Group	1243
 United Nations Development Program	2000,1017,803,268,450,56,1857,1663,1056,1749,45
+United Nations Development Program UNDP	11525
 United Nations Development Program. Experts	3583
-United Nations Development Programme	871,249,144,222,15,4,173,189,86,311,116,146,476,602,39,107,121,10,14,29,122,126,431,263,229,3,149,170,283,134,49,36,384,26,7,9,548,55,82,38,83,50,31,316,40,29,74,29,1,373,144,12,4,1,37,51,128,60,438,137,28,23,40,30,47,31,8,40,70,55,127,268,322,151,183,62,124,114,134,26,43,101,7,192,13,11,131
+United Nations Development Programme	871,249,144,222,15,4,173,189,86,311,116,146,476,602,39,107,121,10,14,29,122,126,431,263,229,3,149,170,283,134,49,36,384,26,7,9,548,55,82,38,83,50,31,316,40,29,74,29,1,373,144,12,4,1,37,51,128,60,438,137,28,23,40,30,47,31,8,40,70,55,127,268,322,151,183,62,124,114,134,26,43,101,7,192,13,11,131,58,8,17,2,14
 United Nations Development Programme Reference	9605
 United Nations Development Programme WiFi Wireless	6539
 United Nations Development Programme and Addis Ababa	7474
 United Nations Development Programme. Key	5742
 United Nations Development Programme. Such	8184
+United Nations E-Government	11569
 United Nations E-Government Development Index	4299,101,526
 United Nations E-Government Survey	1912,8928
 United Nations E-Government Survey. Countries EDGI	10840
 United Nations E-Government Survey. Legend	10840
+United Nations E-Participation Index	11569
 United Nations Economic	1554,9286
-United Nations Economic Commission for Africa	26,1,1,930,596,260,1244,1299,1235,291,726,278,642,898,327,408,32,1154,67,305,99
+United Nations Economic Commission for Africa	26,1,1,930,596,260,1244,1299,1235,291,726,278,642,898,327,408,32,1154,67,305,99,731,22,93,71
 United Nations Economic Commission for Africa Conference	8472
 United Nations Economic Commission for Africa RES4Africa	941
+United Nations Economic Commission for Asia	11572
 United Nations Economic Commission for Europe	11237
+United Nations Economic Commission for Latin America	11572
+United Nations Economic Commission for Western Asia	11572
+United Nations Economic Programme for Europe	11572
 United Nations Economic and Social	10840
 United Nations Economic and Social Commission for Western	4492,2736
-United Nations Educational	1814,1002,2220,1175,737,114,779,868,493,553,748,637,16,109
+United Nations Educational	1814,1002,2220,1175,737,114,779,868,493,553,748,637,16,109,304
+United Nations Electronic Participation	11569
+United Nations Environment Programme	11572
 United Nations Environmental Programme	5247,3011
 United Nations Experts	6950
 United Nations FAS-Local Development Institute Foreign	10763
@@ -761,7 +804,7 @@ United Nations FFP Fund for Peace FH	10759,78
 United Nations Family and Population Agency	10829
 United Nations Food and Agriculture Organization19	10763
 United Nations Foundation	373,788
-United Nations Framework Convention	1264,2166,1,152,1664,2445,1470,262,911,676,199
+United Nations Framework Convention	1264,2166,1,152,1664,2445,1470,262,911,676,199,362
 United Nations Framework General Convention	1988
 United Nations Fu Cong	8740
 United Nations Fundamental Principles	11237
@@ -791,14 +834,15 @@ United Nations House	9117,638
 United Nations Human	11004
 United Nations Human Rights Commission	6776
 United Nations Human Rights Council	3583,544,5018,1696
+United Nations Human Rights Council Resolution	11704
 United Nations Human Rights Council. First	3584
-United Nations Human Settlements Programme	11285
+United Nations Human Settlements Programme	11285,287
 United Nations Humanitarian Coordinator	3583
 United Nations IGF Secretariat	9658
 United Nations Independent International Scientific Panel	7136
-United Nations Industrial Development Organization	7642,3327
+United Nations Industrial Development Organization	7642,3327,603
 United Nations Innovation Technology Accelerator for Cities	8676
-United Nations Institute for Training and Research	9106
+United Nations Institute for Training and Research	9106,2466
 United Nations Integrated Geospatial Information Framework	6693
 United Nations International Children’s Emergency Fund	1824,8952
 United Nations International Children’s Fund	1261
@@ -808,19 +852,23 @@ United Nations International Telecommunication Union	7235
 United Nations Legal Identity Expert Group	10819
 United Nations Maternal Mortality Estimation Inter-Agency	8438
 United Nations Mission	3583
-United Nations Office	970,3157,1211,332,1136,954,1591,265,125,1035,380
+United Nations Office	970,3157,1211,332,1136,954,1591,265,125,1035,380,416
 United Nations Office for Digital and Emerging Technologies	11057
 United Nations Office for Disarmament Affairs	2117
 United Nations Office for Outer Space Affairs	7760,3484
 United Nations Office for Project Services	6806,3970,53
-United Nations Office for South-South Cooperation	11356
+United Nations Office for South-South Cooperation	11356,190
 United Nations Office of Counter-Terrorism. The Somali	10701
 United Nations Office. At the Geneva Summit	9741
 United Nations Ofﬁce	10844
+United Nations Open Government Index Governo	11569
+United Nations Organisation	11517
 United Nations PREFAcE	10840
 United Nations Panel of Experts	3583
 United Nations Population Division	10881
+United Nations Population Division. Review	11572
 United Nations Population Fund	6705,997,47,1791,321,248
+United Nations Population Fund UNICEF United	11586
 United Nations Principles of Official Statistics	11201
 United Nations Protocol Relating	11177
 United Nations Refugee Agency	4439
@@ -838,7 +886,7 @@ United Nations Security Council	1638,479,1466,519,25,3888,3170
 United Nations Security Council Resolution	11185,25
 United Nations Security Council. The CAR	4127
 United Nations Special Envoy for Yemen	11185
-United Nations Statistics Division	10819
+United Nations Statistics Division	10819,753
 United Nations Support Mission	10409
 United Nations Sustainable Cooperation Framework	10776
 United Nations Sustainable Development	961
@@ -858,7 +906,7 @@ United Nations UNCTAD United Nations Conference	6946
 United Nations UNECA United Nations Economic	1814
 United Nations UNHCR United Nations High	5533
 United Nations Universal Declaration of Human Rights	8747,2430
-United Nations University	1380,4997,2233,2225,3,2,128
+United Nations University	1380,4997,2233,2225,3,2,128,602
 United Nations University Centre for Policy Research	9616
 United Nations University Institute for Water	8258
 United Nations University's Operating Unit	5615
@@ -871,6 +919,7 @@ United Nations World Population Prospects	10714
 United Nations World Summit	958
 United Nations Zimbabwe	6951
 United Nations and African Union	3583
+United Nations and NAM	11579
 United Nations and OHADA	10990
 United Nations and World Bank. This MIP	970
 United Nations' AI for Good Innovation Factory	9185
@@ -895,8 +944,10 @@ United Nations’ Sustainable Development Goal	5700,5518
 United Opposition Coalition	9645
 United Party for National Development	8513,569
 United Payments Interface	3253
+United Rep	11572
+United Rep. of Uganda Angola	11572
 United Republic	3460,3461
-United Republic of Tanzania	754,208,51,248,1514,31,3362,445,2398,2122,267
+United Republic of Tanzania	754,208,51,248,1514,31,3362,445,2398,2122,267,262
 United Republic of Tanzania No	6921
 United Republic of Tanzania and Zambia	318
 United Republic of Tanzania. Bull World Health	771
@@ -905,7 +956,7 @@ United Republic of Tanzania. Robust	11133
 United Republic of Tanzania. Sectoral	11142
 United Republic of Tanzania. The EAC	7967
 United SA	6238
-United States	10,561,196,194,4,73,185,11,9,120,191,168,92,183,99,21,40,1,121,6,233,159,1,91,6,94,55,151,157,173,36,21,20,72,29,43,25,135,188,75,78,5,21,1,11,2,35,13,2,30,11,2,1,40,1,43,4,3,74,21,1,66,24,45,86,5,82,31,174,11,57,13,2,104,15,2,48,3,26,15,30,15,50,14,5,66,19,27,67,66,84,16,57,90,138,196,1,1,28,37,2,60,60,24,61,6,43,1,13,8,40,51,39,7,11,9,77,14,12,4,2,41,30,18,32,17,1,50,154,23,3,32,33,2,12,88,102,5,97,29,35,26,57,25,30,30,9,78,72,103,7,1,45,31,5,84,133,112,19,33,21,81,30,26,10,30,78,1,63,10,42,17,55,39,10,42,29,25,8,59,33,8,34,21,106,203,29,84,3,106,253,20,67,22,11,13,22,47,80,80,13,1,1,154,3,99,12,1,79,12,14,22,5,2,92,65,31,14,4,41,36,4,5,9,5,15,108,33,32
+United States	10,561,196,194,4,73,185,11,9,120,191,168,92,183,99,21,40,1,121,6,233,159,1,91,6,94,55,151,157,173,36,21,20,72,29,43,25,135,188,75,78,5,21,1,11,2,35,13,2,30,11,2,1,40,1,43,4,3,74,21,1,66,24,45,86,5,82,31,174,11,57,13,2,104,15,2,48,3,26,15,30,15,50,14,5,66,19,27,67,66,84,16,57,90,138,196,1,1,28,37,2,60,60,24,61,6,43,1,13,8,40,51,39,7,11,9,77,14,12,4,2,41,30,18,32,17,1,50,154,23,3,32,33,2,12,88,102,5,97,29,35,26,57,25,30,30,9,78,72,103,7,1,45,31,5,84,133,112,19,33,21,81,30,26,10,30,78,1,63,10,42,17,55,39,10,42,29,25,8,59,33,8,34,21,106,203,29,84,3,106,253,20,67,22,11,13,22,47,80,80,13,1,1,154,3,99,12,1,79,12,14,22,5,2,92,65,31,14,4,41,36,4,5,9,5,15,108,33,32,221,9,37,76,7
 United States Agency for International Development	396,370,453,42,563,8944,9,229,125
 United States Agency for International Development Angola	10780
 United States Agency for International Development VfM	10768
@@ -931,6 +982,7 @@ United States Global Cybersecurity Index	10764
 United States Government	3583,718,1472,5001
 United States Government-supported	5773
 United States Minor Outlying Islands United	11470
+United States National Library of Medicine	11654
 United States Patent and Trademark Office	8967
 United States President’s Emergency Plan for AIDS	5165
 United States Securities and Exchange Commission	6467
@@ -1037,6 +1089,7 @@ Unité de Gouvernance Digitale	3573,2422,1363
 Unité de Micro-finance Islamique	4402
 Unité de Politique Fiscale	10712
 Unités	1984,1412,7479,100
+União Internacional de United Nations House Oficina	11563
 Unlike the United States	9390
 User Acceptance Testing UN United Nations	11192
 User Acceptance Testing UN-IGIF United Nations	11261

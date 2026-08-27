@@ -1,6 +1,6 @@
 A. Context	1828
 A. Contexte	1218
-A. Country Context	969,295,603,1737,2935,4229,61,135,416,37
+A. Country Context	969,295,603,1737,2935,4229,61,135,416,37,108,35
 A. Introduction and Policy Context	10997
 AACB TABLE OF CONTENTS FOREWORD	6938
 ABOVE. Contents Gazette Page No. No	1009
@@ -29,15 +29,18 @@ Appendix A. Contents	6937
 Aratek USE CASE AND CONTEXT	10852
 Artifacts Summary Contents	6666
 Associated Content Part	9739
+Association. I. STRATEGIC CONTEXT A. Country	11549
 Assunto Conteúdo	167,263,119,195,8,42
 Audio and Audio-Visual Content Services and Online Safety	11230
 Audit Trail and Node Authentication Clinical Context	1009
 Awareness Campaigns Updated Content and Wider Reach	1777
 B. Contents	1638
 B. Introduction and Context Country Context	1704,587,1165,7507
-B. Sectoral and Institutional Context	969,295,603,1737,2935,4229,61,135,416,37
+B. Sectoral and Institutional Context	969,295,603,1737,2935,4229,61,135,416,37,108,35
 B. Sectoral and Institutional Context Public Financial	969
+B. Sectoral and Institutional Context Sectoral	11560
 B. Sectoral and Institutional Context Social Safety	10964
+BBOXX CAPITAL RDC. Table of Contents Acronyms	11572
 BIZPEPE CONTENT MARKETING Data Controller INST-30734770842	7167
 BLOX Content Management System	4261
 BUDGET ALLOCATION CONTEXT	1810
@@ -55,6 +58,7 @@ Broader Constitutional Context	5574
 Broader Context of Cyber Threats	5597
 C. Sectoral Context Key PFM Processes1	1284
 C2PA Content Credentials	8431
+CAPÍTULO III CONTENCIOSO ESTATÍSTICO SECÇÃO	11516
 CDN Content Delivery Network Colo Colocation	10861
 CHAPITRE II DU CONTENU DES DOCUMENTS	10813
 CHAPITRE II DU CONTENU ET	10813
@@ -62,6 +66,8 @@ COMMUNICATION AUTHORITY OF KENYA Table of Contents	6946
 CONFIDENT SUFFICIENT NOT RELEVANT CONTENT CONTACTING	11004
 CONSTITUTIONAL REFORM Contested	4127
 CONSTRANGIMENTOS DE NATUREZA CONTEXTUAL	10757
+CONTENCIOSO	11528
+CONTENCIOSO E INFRACÇÕES DE RECENSEAMENTO	11528
 CONTENT AGGREGATION LIMITED Data Controller INST-9863606D44F	7167
 CONTENT AGGREGATION LIMITED Data Processor INST-9863606D44F	7167
 CONTENT Bill for Introduction	7832
@@ -80,6 +86,7 @@ CONTENTS FOREWORD	961,3165
 CONTENTS FOREWORDS EXEC SUMMARY FINDINGS CASE	5618
 CONTENTS FOREWORDS EXEC SUMMARY INTRODUCTION FINDINGS	5618
 CONTENTS I. BACKGROUND AND RATIONALE	1284
+CONTENTS LIST OF ACRONYMS	11586
 CONTENTS LIST OF TABLES AND FIGURES	11261
 CONTENTS OF ACT Definitions Purpose of Act	11178
 CONTENTS OF THE NEW LAND LEGISLATION	10960
@@ -99,8 +106,11 @@ CONTEXTO	6269
 CONTEXTO ACTUAL DO SECTOR DAS TIC	11396,1
 CONTEXTO DA AEC	11376
 CONTEXTO DO PAÍS	11390
+CONTEXTO E JUSTIFICAÇÃO	11526
+CONTEXTO GERAL	11523
 CONTEXTO NACIONAL	11390
 CONTEXTO NACIONAL E INTERNACIONAL	11397
+CONTEXTO SECTORIAL	11523
 CONTEXTS Literature	1248
 CONTEÚDOS DIGITAIS	11397
 COUNTRY CONTEXT Zimbabwe	940
@@ -128,6 +138,7 @@ Contemporaneously	11050
 Contemporary	4432,4696,109,502
 Contemporary AI	7451
 Contemporary African Cyberthreat Landscape	6426
+Contemporary Cases And Materials Available	11654
 Contemporary Computing and Informatics	9237
 Contemporary French and Francophone Studies	3782
 Contemporary Perspective for Higher Education Stakeholders	6948
@@ -140,7 +151,7 @@ Contenciosos	4209
 Contención	1701
 Contender	8893
 Contender Typology and Electoral Dynamics	10062
-Content	27,872,73,189,953,245,13,87,68,36,30,118,5,38,73,95,11,15,10,96,34,20,130,25,37,6,91,61,22,11,33,54,26,8,36,14,40,26,12,3,1,53,40,24,37,34,124,13,13,31,81,45,4,29,54,188,32,29,47,3,7,98,73,98,92,74,21,20,30,30,140,31,30,91,61,13,2,12,12,47,7,58,2,58,20,82,75,67,26,56,46,65,1,8,7,1,1,14,28,62,8,33,16,28,4,8,71,4,3,18,54,11,5,3,6,90,13,34,11,2,12,27,34,3,24,18,34,7,1,30,3,40,2,40,57,50,35,3,70,4,171,6,45,119,398,146,191,322,247,1003,112,5,624,133,312,291,92
+Content	27,872,73,189,953,245,13,87,68,36,30,118,5,38,73,95,11,15,10,96,34,20,130,25,37,6,91,61,22,11,33,54,26,8,36,14,40,26,12,3,1,53,40,24,37,34,124,13,13,31,81,45,4,29,54,188,32,29,47,3,7,98,73,98,92,74,21,20,30,30,140,31,30,91,61,13,2,12,12,47,7,58,2,58,20,82,75,67,26,56,46,65,1,8,7,1,1,14,28,62,8,33,16,28,4,8,71,4,3,18,54,11,5,3,6,90,13,34,11,2,12,27,34,3,24,18,34,7,1,30,3,40,2,40,57,50,35,3,70,4,171,6,45,119,398,146,191,322,247,1003,112,5,624,133,312,291,92,105,21
 Content Advisor	11285,4
 Content And Applications	958
 Content Classification and Online Safety	5189
@@ -159,6 +170,7 @@ Content Oasis Ltd	3862
 Content Proclamation No	7538
 Content Providers	1766,1064
 Content Providers Use the Most International Bandwidth	1766
+Content Provision	11569
 Content Required	6432
 Content Service Providers	6946
 Content Services Using Short Code Numbers	3862
@@ -172,7 +184,7 @@ ContentEnabled	10848
 Contentieuses	10975
 Contentieux	17,6819,2206,1670,190,73
 Contents	408,205,209,616,312,480,1180,93,211,1237,679,45,1,1,1,1,1,1,59,40,148,807,176,24,62,224,530,308,548,418,78,1709,101,1,6,2,84
-Contents Abbreviations	4127
+Contents Abbreviations	4127,7425
 Contents Acknowledgements	10901
 Contents Acknowledgments	11149
 Contents Acronyms	5246
@@ -189,7 +201,7 @@ Contents Preface	11258,28
 Contents Public Disclosure Authorized Results Framework	11469
 Contents Results	10793
 Contents THE NATIONAL CYBERSECURITY STRATEGY	1000
-Contenu	1187,614,3159,62,2035,619,1611,55,1500
+Contenu	1187,614,3159,62,2035,619,1611,55,1500,738
 Contenu Code des Marchés Publics du Bénin Référence	10876
 Contenu Dahir	17
 Contenu du PAP	10876
@@ -197,9 +209,10 @@ Contenus	3069,749
 Contenção	10755
 Conter	11430
 Contested	4772,6256
+Contested Technology	11658
 Contesting	11050
 Contesting Dominant Algorithmic Imaginaries	11028
-Context	6,230,335,21,632,5,35,20,59,409,115,48,73,5,175,393,50,90,452,274,88,1,34,12,42,143,126,10,10,73,184,64,77,39,103,12,11,96,89,386,6,646,149,361,98,21,231,33,16,5,106,109,102,465,231,33,315,1149,1665,61,25,86,24,64,33,95,182,28,14,21,16,88
+Context	6,230,335,21,632,5,35,20,59,409,115,48,73,5,175,393,50,90,452,274,88,1,34,12,42,143,126,10,10,73,184,64,77,39,103,12,11,96,89,386,6,646,149,361,98,21,231,33,16,5,106,109,102,465,231,33,315,1149,1665,61,25,86,24,64,33,95,182,28,14,21,16,88,55
 Context Baía de Luanda	11366
 Context Global VC	10954
 Context Implementation of Tunisia	9022
@@ -208,6 +221,7 @@ Context Risk Multiplier	11156
 Context Risk Multiplier Diagnostic Tool	11156
 Context Risk Multiplier The Context Risk	11156
 Context Risk Multiplier Tool	11156
+Context and Connectivity Gaps	11552
 Context and Implementation	2958
 Context and Motivation	3840
 Context and Motivation Before the Project	3840
@@ -229,7 +243,7 @@ Context&author	2096
 Context. Cheltenham	2096
 Contexte	737,28,938,1456,222,15,3308,255,1018,2735,105,57,2,37
 Contexte Conformément	1679
-Contexto	8880,1903,623,35,1,2,4,3
+Contexto	8880,1903,623,35,1,2,4,3,92
 Contexto A Reforma	11442
 Contexto Internacional	11362
 Contexto Nacional	11362,34,55
@@ -238,11 +252,11 @@ Contexto O Projecto de Aceleração Digital de Angola	11440,1
 Contexto Socioeconómico	11406
 Contexts	1243
 Contexts Supported	8204
-Contextual	7886,135,1107,1691,374
+Contextual	7886,135,1107,1691,374,388
 Contextual AI Ethic	8991
 Contextual Infrastructure	10819
 Contextualising	1161,7441
-Contextualização	11373,45
+Contextualização	11373,45,125,18
 Contextualização A Conectividade Universal	11418
 Contextualized	8460
 Contextually	2307
@@ -263,6 +277,7 @@ D.G. CONTE. NACIO. Y DESARR	4209
 DECLARATION OF AUTHENTICITY OF REPORT CONTENTS	1988
 DIGITAL CONTENT CREATORS ASSOCIATION OF KENYA	7167
 DISCLOSURE OF BID CONTENTS AND BID	11240
+DO CONTENCIOSO E INFRACÇÕES	11528
 Departamento de Contencioso. Artigo	167
 Description Context	456,160,208,1,1,1,224,2,368,2,1,1,1,716,2318
 Develop Context-Specific Digital Expertise	10865
@@ -283,6 +298,8 @@ Displacement Context	10841
 Displacement Context Beginning	10841
 Displacement Context and Refugee Profiles	10841
 Displacement Context and Refugee Profiles Equatorial Guinea	10841
+Do Conteúdo	11514
+E- Oferta de Participação Conteúdos Média	11569
 ECOWAS. Context	4330
 ESCP I. STRATEGIC CONTEXT A. Country	1264
 Earth Observation Page Content	11334
@@ -304,6 +321,7 @@ Experience of Content Moderators	7102
 FUNDING CONTEXT The BMA	11285
 Fast Content Creation E-Government Desktop Only	6051
 Fidelity TABLE OF CONTENTS DATASHEET	6539
+Financial Community of Africa TABLE OF CONTENTS	11549
 Financial Content	4127
 Foreword and Context	5677
 Foreword and Context Final Report	5677
@@ -313,6 +331,7 @@ Freedom of Information and Censorship of Content	6949,2
 Full Contents of The Global Findex Database	10977
 GSMA Contents	10856
 GSMA Contents Executive	6593
+GUINEA-BISSAU CONTENTS	11524
 General Context	5677
 Generation Unlimited. Generation Unlimited Context	899
 Geopolitical Contest India	9431
@@ -334,9 +353,10 @@ Hybrid of Beauty Contest and Auction	762
 I- CONTEXTE ET JUSTIFICATION	12
 I. CONTEXTE DE LA REVUE SECTORIELLE	2966
 I. CONTEXTE ET JUSTIFICATION L'Enseignement Supérieur	12
-I. STRATEGIC CONTEXT	969,295,603,1737,2935,4290,551,37
+I. CONTEXTO	11523
+I. STRATEGIC CONTEXT	969,295,603,1737,2935,4290,551,37,108,24,11
 I. STRATEGIC CONTEXT A. Country	11380
-I. STRATEGIC CONTEXT A. Country Context	969,898,1737,7225,135
+I. STRATEGIC CONTEXT A. Country Context	969,898,1737,7225,135,561,35
 I.1.1 Contexte	10876
 II Contents Introduction About	11131
 III CONTENTS ACKNOWLEDGEMENTS	1243
@@ -397,7 +417,8 @@ Modern Tax System02 Conclusion03 CONTENT	10762
 Mopti and Koulikoro. Context	6648
 Name of Report Content Time of Submission Inception	962
 Namibian Context	4980
-National Context	7548
+National Context	7548,4004
+National Context Guinea-Bissau	11552
 National Context Kenya	7548
 Network TABLE OF CONTENTS	6936
 Nigeria CONTENTS Executive Summary Key Findings	11138
@@ -458,6 +479,7 @@ SATA. Outcome and Context Driven Key	10819
 SECÇÃO DO CONTENCIOSO E COBRANÇA	11435
 SECÇÃO VI CONTEÚDOS AUDIOVISUAIS	11430
 SENSITIVE DATA AND SENSITIVE CONTEXTS	1243
+SOCIAL PROTECTION PROJECT TABLE OF CONTENTS	11525
 STATISTIQUES DES DONNEES CONTENUES DANS	785
 STRATEGIC CONTEXT	1818
 STRATEGIC CONTEXT Tunisia	1818
@@ -476,6 +498,7 @@ Strategic Context	2254,1308
 Strategic Context Liberia	1777
 Strategic Context and Market Opportunity	10157
 Support for Local Content	10157
+Supremo Tribunal de Justiça. CAPÍTULO V CONTENCIOSO	11528
 SÍNTESE DO CONTEÚDO DO DIPLOMA	11461
 TABLE OF CONTENT FOREWORD	7548
 TABLE OF CONTENT First Edition	10819
@@ -486,7 +509,7 @@ TABLE OF CONTENTS ANNOUNCEMENTS National Assembly	11230
 TABLE OF CONTENTS Acronyms	11136
 TABLE OF CONTENTS Acronyms and Abbreviations	11271
 TABLE OF CONTENTS CORPORATE INFORMATION	4896
-TABLE OF CONTENTS DATASHEET	3604,7164,61,551
+TABLE OF CONTENTS DATASHEET	3604,7164,61,551,180
 TABLE OF CONTENTS EXECUTIVE SUMMARY	940,10271,51
 TABLE OF CONTENTS FOREWORD	34,1127,9819
 TABLE OF CONTENTS I. BACKGROUND	2889
@@ -516,7 +539,7 @@ Table of Contents ACKNOWLEDGMENTS	9855
 Table of Contents ACRONYMS	6432
 Table of Contents Abbreviations and Acronyms	10718,123
 Table of Contents Acknowledgement	10763
-Table of Contents Acknowledgements	11195
+Table of Contents Acknowledgements	11195,350
 Table of Contents Acronyms	396,10797
 Table of Contents Acronyms and Abbreviations	6832
 Table of Contents Digital Lilangeni Design Paper	11130
@@ -553,6 +576,7 @@ Waste Generators Solid Waste Content	1988
 Web Content Accessibility Guidelines	5665,1601,1173,2567,1
 Web Content Management Server OS N	9124
 World Bank. Contents About ID4D	10812
+World Bank. Third Party Content	11545
 World Bank. Third Party Content--The	10812
 World Bank. Third-Party Content	10714,51,10
 XII- SÍNTESE DO CONTEÚDO DA PROPOSTA	3519

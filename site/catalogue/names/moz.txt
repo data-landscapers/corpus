@@ -10,6 +10,7 @@ Angola and Mozambique Author	7752
 Angola and Mozambique. Deployment of AFR-IX	7752
 Aproveitamento Escolar Mozambique	9441
 Attorney General of Mozambique	1829
+Au Mozambique	11726
 Aug-2026 Mozambican	10219
 Ayang Macdonald Mozambique	8004
 BFSI Mozambique	7673,62
@@ -20,6 +21,7 @@ Bank of Mozambique Governor Rogério Zandamela	5815,2592
 Bank of Mozambique. Connection	6677
 Botswana Sudan Mozambique Congo	10819
 Budgeting System The Government of Mozambique	4260
+Burkina Faso Mozambique	11572
 C SA Vodacom SA Tmcel Mozambique	1013
 CF and OR for Mozambique	771
 CN Mozambique	9441
@@ -78,6 +80,7 @@ Government of Mozambique's Laboratory Information System	4260
 Government of Mozambique-owned	4260
 Government of Mozambique. All	4260
 Guarantee Confirmations. Mozambique	1829
+HISP Mozambique	11589
 HIV Elimination Acceleration The Government of Mozambique	4260
 I. The Government of Mozambique	4260
 ID for All Mozambique	9747
@@ -91,6 +94,7 @@ IV Mozambique	9441
 IV. The Government of Mozambique	4260
 India and Mozambique	2667
 Indigenous Peoples of Angola and Mozambique	10765,10
+Instituto Nacional de Meteorologia de Mozambique	11553
 Interbank Society of Mozambique	5258,557
 Introduction WHEREAS the Republic of Mozambique	3861
 Intérprete Traductor Adjunto Moza de Limpieza	4209
@@ -133,6 +137,7 @@ Malawi and Mozambique	9959,1196
 Manual The World Bank Mozambique Digital	1228
 Maputo Mozambique Either Participant	4260
 Maputo Mozambique Ministerio	4260
+Maroc Mozambique Yes National ICT Policy	11529
 Mauritius Rwanda Burundi Uganda Mozambique Tanzania	418
 Mauritius and Mozambique	3185
 Million Mozambique	6743
@@ -144,6 +149,8 @@ Miramar Mozambique's National Elections Commission	8963
 MoU. The Bank of Mozambique	11134
 Moderate Simultaneous Mozambique	11417
 Modernizing Mozambique	8967
+Monaco Mongolia Montenegro Morocco Mozambique Myanmar	11765
+Mongolia Mozambique Viet Nam Togo	11563
 Montagem Mozambique	9441
 Montserrat Morocco Mozambique Myanmar Namibia Nauru	11470
 Moz-CM-2019.v1	9441
@@ -165,8 +172,8 @@ Moza de Limpieza B3	4209
 Mozafari	7790
 Mozal	11228
 Mozam	4260
-Mozambicains	7737,2489
-Mozambican	110,304,430,97,802,924,83,239,418,72,304,78,268,131,6,4,237,1,37,523,46,26,33,215,427,146,5,368,140,78,74,51,66,32,269,337,192,51,49,102,245,50,176,461,725,27,289,552,203,586
+Mozambicains	7737,2489,1500
+Mozambican	110,304,430,97,802,924,83,239,418,72,304,78,268,131,6,4,237,1,37,523,46,26,33,215,427,146,5,368,140,78,74,51,66,32,269,337,192,51,49,102,245,50,176,461,725,27,289,552,203,586,509,124
 Mozambican Association of Artificial Intelligence	11113
 Mozambican Banking Association	7734
 Mozambican Banking Association and INTIC	2601
@@ -191,13 +198,15 @@ Mozambican State	4927,4300
 Mozambican Transport Minister	2667
 Mozambican. Performance	4260
 Mozambicans	3407,454,399,393,377,84,1661,47,981,201,1223
-Mozambique	9,101,5,39,42,4,36,13,69,84,3,22,163,63,61,52,5,17,55,1,97,17,4,51,35,37,44,17,1,5,60,16,15,5,100,15,102,61,57,42,23,47,32,13,3,39,18,15,14,118,30,3,145,13,77,13,231,110,32,30,3,25,8,15,93,41,130,43,48,21,349,43,29,5,37,2,10,26,39,30,131,24,8,31,18,21,6,6,279,11,17,34,46,6,4,156,13,3,64,3,36,38,28,42,21,135,103,15,32,71,30,8,19,27,15,11,33,39,26,9,11,124,6,29,16,28,37,31,14,11,55,6,77,24,85,14,17,9,46,74,5,89,11,175,7,10,14,59,3,12,22,9,86,4,4,3,38,22,1,17,74,9,42,33,33,28,4,3,14,5,25,3,1,7,23,20,4,58,106,143,72,29,93,59,69,30,85,49,6,28,27,3,38,18,10,33,114,12,42,16,17,33,173,3,161,300,35,1,11,189,20,3,1,103,155,2,122,1,1,47,34,2,7,1,4,38,151,64,48,1,11,2,27,171,180,2,47,24,5,1,1,7,2,72,1,54,114,34,31,155,24,1,45,16,10,34,16,3,121,9,128,17,3,4,14,6,51,1,18,100,29,1,77,22
+Mozambique	9,101,5,39,42,4,36,13,69,84,3,22,163,63,61,52,5,17,55,1,97,17,4,51,35,37,44,17,1,5,60,16,15,5,100,15,102,61,57,42,23,47,32,13,3,39,18,15,14,118,30,3,145,13,77,13,231,110,32,30,3,25,8,15,93,41,130,43,48,21,349,43,29,5,37,2,10,26,39,30,131,24,8,31,18,21,6,6,279,11,17,34,46,6,4,156,13,3,64,3,36,38,28,42,21,135,103,15,32,71,30,8,19,27,15,11,33,39,26,9,11,124,6,29,16,28,37,31,14,11,55,6,77,24,85,14,17,9,46,74,5,89,11,175,7,10,14,59,3,12,22,9,86,4,4,3,38,22,1,17,74,9,42,33,33,28,4,3,14,5,25,3,1,7,23,20,4,58,106,143,72,29,93,59,69,30,85,49,6,28,27,3,38,18,10,33,114,12,42,16,17,33,173,3,161,300,35,1,11,189,20,3,1,103,155,2,122,1,1,47,34,2,7,1,4,38,151,64,48,1,11,2,27,171,180,2,47,24,5,1,1,7,2,72,1,54,114,34,31,155,24,1,45,16,10,34,16,3,121,9,128,17,3,4,14,6,51,1,18,100,29,1,77,22,113,20,19,5,2,11,117
 Mozambique Announces	6771
 Mozambique Approval Date Current Closing Date	2473
 Mozambique Approves IP Strategy	7624
+Mozambique Au Mozambique	11761
 Mozambique Banking	7735
 Mozambique Border Corporate Bayobab Press10	11234
 Mozambique Communications Regulatory Authority	6771
+Mozambique Congo	11572
 Mozambique Corporate Bayobab Press19	11234
 Mozambique Court Rejects Decree Allowing Internet	8610,233
 Mozambique Digital Acceleration Project	1228,1761,1664,2180,2726
@@ -231,6 +240,7 @@ Mozambique Lubombo Shiselweni Manzini Hhohho Female	418
 Mozambique Lwanga Elizabeth Nanziri	9349
 Mozambique MUCAMBE	6613
 Mozambique Ministry of Communications	6797
+Mozambique Ministry of Health	11619
 Mozambique Mozambique	7803
 Mozambique Mozambique Digital Acceleration Project	4653
 Mozambique Mozambique Digital Acceleration Project Project	1228
@@ -240,6 +250,7 @@ Mozambique Namibia Nigeria	5247
 Mozambique National	4653
 Mozambique National AI Strategy	6377
 Mozambique National Institute of Communications	2989
+Mozambique National Meteorological Institute INAMet Angola	11553
 Mozambique Navy	2667
 Mozambique New Funding	4260
 Mozambique Nigeria Senegal Sierra Leone Uganda	10764
@@ -247,6 +258,7 @@ Mozambique Northern Urban Development Project	1228
 Mozambique Presents Draft National AI Strategy	6331
 Mozambique President Daniel Chapo	7775
 Mozambique Prioritizes Data Governance	4180
+Mozambique Procurement	11619
 Mozambique Regulatory Authority of Communications	3489
 Mozambique Republic of Mozambique Type Country	4653
 Mozambique Research and Education Network	1228
@@ -255,6 +267,7 @@ Mozambique Survey-2020-07-311.pdf	9349
 Mozambique Telecom	482
 Mozambique Telecom SA	859,1302
 Mozambique Total Funding	4260
+Mozambique Uonf TitaendzaRneipaublic Ethiopia Uganda	11572
 Mozambique Zimbabwe Botswana South Africa North	9616
 Mozambique and Angola	6775,163
 Mozambique and Ethiopia	5961
@@ -278,7 +291,7 @@ Mozambique's DPA	6792
 Mozambique's Digital Certification System	11120
 Mozambique's Digital Innovation Profile	9434
 Mozambique's Digital Transformation Strategy	3284
-Mozambique's ICT	4214,5220
+Mozambique's ICT	4214,5220,2164
 Mozambique's INTIC	4927
 Mozambique's Instituto Nacional de Saúde	966
 Mozambique's Minister for Communications	8965
@@ -298,11 +311,13 @@ Mozambique's US	4260,6
 Mozambique-China Cultural Center	10300
 Mozambique. Annex B	3861
 Mozambique. BMC Public Health	10881
+Mozambique. Building	11598
 Mozambique. Chemane	10141
 Mozambique. Commerciality	1829
 Mozambique. Community and Cultural Relations	2667
 Mozambique. Cyber	9351
 Mozambique. Exclusions and Boundaries Exclusions	3861
+Mozambique. Glob Health Sci Pract	11596
 Mozambique. Gro Intelligence Gro Intelligence	10464
 Mozambique. HIV and TB	771
 Mozambique. International Telecommunication Union	1248
@@ -360,6 +375,7 @@ President of Mozambique	2667
 Project Geographical Identifier Mozambique Current Closing	4653
 Project Rationale Mozambique	3058
 Projecto MozSkills	9694
+Príncipe and Mozambique	11533
 REGIONS OF ESWATINI Mozambique Lubombo Shiselweni	418
 REPUBLIC OF MOZAMBIQUE	989,7,1478
 REPUBLIC OF MOZAMBIQUE Claimant	1829
@@ -393,6 +409,7 @@ Technical Exchange Visit for Mozambique Delegates	11134
 Telkom SA Movitel Mozambique TN Mobile	1013
 Through the World Bank's Mozambique Digital Acceleration	4214
 Today Mozambique	7707
+Togo and Mozambique	11552
 U.S. Embassy Coopera9ao Maputo Maputo Mozambique	10713
 U.S. Government For the Government of Mozambique	4260,6453
 U.S. Government and Mozambique	4260
@@ -423,6 +440,6 @@ World Bank's Mozambique Digital Governance and Economy	761
 World Bank’s Cancellation Letter MOZAMBIQUE	2474
 Year U.S. Government Mozambique Government	4260
 Zambia Mozambique Djibouti Algeria Uganda Angola	6938
-Zambia and Mozambique	766,204,4159,4672,1317
+Zambia and Mozambique	766,204,4159,4672,1317,613
 Zimbabwe and Mozambique	11334
 Zimbabwe and Vodacom Mozambique	9759

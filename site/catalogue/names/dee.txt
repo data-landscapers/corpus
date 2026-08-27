@@ -125,6 +125,7 @@ DeepSeek Fonte	2816
 DeepSeek R1	5257,5883
 DeepSeek R1 and Qwen	8495
 DeepSeek V4 Flash	10038
+DeepSeek and Moonshot	11740
 DeepSeek and Qwen	6879
 DeepSeek's V4 Flash	10201
 DeepSeek-R1	2816

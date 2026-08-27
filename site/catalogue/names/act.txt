@@ -16,6 +16,7 @@ A3.4.1.2 A3.4.1.3 Action	10858
 A3.4.2.1 A3.4.2.2 A3.4.2.3.N A Action	10858
 ACENTRIA ACTUARIAL	7167
 ACESSO E CONDIÇÕES GERAIS DA ACTIVIDADE	10755
+ACT DONE AT ABUJA	11517
 ACT FOR THE PROTECTION	1333
 ACT IS COMPLIED Tshs. OF TAX	6921
 ACT IS NOT NIL	6921
@@ -71,6 +72,8 @@ ACTIVATION	11298
 ACTIVIDADE DE OPERADOR DE COMUNICAÇÕES ELECTRÓNICAS	11430
 ACTIVIDADES DESENVOLVIDAS NOS SECTORES PRIVADO	2816
 ACTIVITES DES UNITES ECONOMIQUES	10875
+ACTIVITES D’EMISSION DE MONNAIE ELECTRONIQUE	11522
+ACTIVITES D’EMISSION DE MONNAIE ELECTRONIQUE Article	11522
 ACTIVITES PHARES REALISEES EN	998
 ACTIVITES REALISEES	998
 ACTIVITIES	8840,2396
@@ -148,6 +151,7 @@ AI Opportunities Action Plan	11135
 AI and Cybercrimes Act	7548
 AI and Other Emerging Technologies Act	10246,889
 AI. Associated Actions	1814
+ALGUMAS ACTIVIDADES DE REFORÇO DAS CAPACIDADES	11526
 AMCON Act	8157
 AMCON Act. The Corporation	8157
 AMENDMENT OF THE ELECTRONIC TRANSACTIONS ACT	6921
@@ -162,6 +166,7 @@ APPLICATION AND ADMINISTRATION OF ACT	11177
 APPLICATION AND OBJECTS OF ACT	11182
 APPLICATION AND OBJECTS OF ACT Definitions	11182
 APPLICATION AND REGULATORY FRAMEWORK OF ACT	3714
+ARCT Acting Director	11772
 ARRANGEMENT OF ACT CHAPTER	11177
 ARRANGEMENT OF ACT PREAMBLE CHAPTER	3714
 ARSEL. Activités	10975
@@ -191,7 +196,7 @@ Act GCIS Government Communication and Information System	11188
 Act Internationally	11154
 Act MINMEC Minister and Members of Executive Council	11261
 Act N	11178
-Act No	22,761,185,4,37,16,449,119,307,88,84,565,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,72,1,924,63,386,289,1,1,1,1,333,807,70,269,640,379,16,371,52,426,72,22,990,2001,289,3,43,2,1,1,1,1,3,4,1,6,2,3,10,2,4,11,2,5,2,12,1,5,4,2,1,1,2,4,7,3,1,5,4
+Act No	22,761,185,4,37,16,449,119,307,88,84,565,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,72,1,924,63,386,289,1,1,1,1,333,807,70,269,640,379,16,371,52,426,72,22,990,2001,289,3,43,2,1,1,1,1,3,4,1,6,2,3,10,2,4,11,2,5,2,12,1,5,4,2,1,1,2,4,7,3,1,5,4,262
 Act No. Short Title Page	1220
 Act No.1	3714
 Act No.19	11199
@@ -208,7 +213,7 @@ Act Restricted Application of Act Related	3714
 Act SSR Strengthening of Relative Rights TARDI	11197
 Act STATS SA Statistics South Africa	11224
 Act Section	6946
-Act Short	11178
+Act Short	11178,373
 Act Supplementary Submission	4732
 Act TUP Temporary	11197
 Act The Cyber and Data Protection Act	3130
@@ -308,9 +313,10 @@ Act. Violence Act	1988
 Act. Whistle-blowing Another	9628
 Act. Zambia Cyber Incident Response Team	2727
 Act.58 Another	3583
-Act.’’. Amendment	11201
+Act.’’. Amendment	11201,350
 Act.’’. Insertion	11201
 Act.’’. Short	11280
+Act.’’. Transitional	11551
 Act111 and Amandla.Mobi112	4732
 Acta Final	1701
 Actainfo SRL	8530
@@ -358,6 +364,7 @@ Acting Chief Executive Officer	2735,6131,275,546,305,1206
 Acting Chief Financial Officer	6727
 Acting Chief Technology and Information Officer	10666
 Acting Commissioner	11181
+Acting Commissioner for Refugees	11628
 Acting Country Director	11486
 Acting Country Manager for World Bank Liberia	4285
 Acting County Secretary and County Executive Committee	7990
@@ -368,7 +375,7 @@ Acting Director	6946,3626,72
 Acting Director General	3384,7905
 Acting Director of Legal and Company Secretary Anthony	9093
 Acting Director of Private Sector and Industry	10262
-Acting Director of Regulation and Compliance	6689,1057
+Acting Director of Regulation and Compliance	6689,1057,4005
 Acting Director of Research and Statistics	8532,937
 Acting Director-General	7172,1816,2293
 Acting Director-General of NITA	8988
@@ -396,9 +403,11 @@ Acting Ministers	1810
 Acting NUP President	4175
 Acting Officer-in-Charge John Bosco Bukenya	8574
 Acting Operations Officer	9699
+Acting Permanent Secretary Dr Tshepo Machacha	11748
 Acting President	783
 Acting President and Chairman	3441
 Acting President and Minister for State President	9708
+Acting President. Commander	11517
 Acting Regional Integration Director for Africa	5395
 Acting Regional Manager	11285
 Acting Regional Manager for Infrastructure	6932,163
@@ -407,9 +416,10 @@ Acting Senior Programme Officer for ICT	318
 Acting Statistician-General	11256
 Acting Undersecretary	8923,665
 Acting Undersecretary of Finance	9588
+Acting WHO Somalia Representative Dr Mohamed	11655
 Acting World Bank Country Representative Oyewole	2604
 Acting World Bank Regional Integration Director	5400
-Action	252,215,176,146,49,7,125,30,131,87,10,217,3,3,1,2,3,97,76,148,24,186,160,584,157,77,415,15,187,204,4,19,317,34,235,155,615,114,1184,328,144,102,1,103,454,45,29,31,17,140,646,495,23,226,151,1315,115,29,11,5,2,409,132
+Action	252,215,176,146,49,7,125,30,131,87,10,217,3,3,1,2,3,97,76,148,24,186,160,584,157,77,415,15,187,204,4,19,317,34,235,155,615,114,1184,328,144,102,1,103,454,45,29,31,17,140,646,495,23,226,151,1315,115,29,11,5,2,409,132,112
 Action Accountability	6936
 Action Activité Article Paragraphe Ces	3396
 Action Africa	7334
@@ -440,7 +450,7 @@ Action Needed Responsi	6432
 Action OVERVIEW OF KEY THEMATIC FOCUS	6936
 Action Party Timeline	395
 Action Party Timeline Page	395
-Action Plan	789,172,39,228,36,513,1,36,174,638,1500,457,621,41,29,1695,2053,1754,80,5,103,402,51
+Action Plan	789,172,39,228,36,513,1,36,174,638,1500,457,621,41,29,1695,2053,1754,80,5,103,402,51,112,23
 Action Plan ESMS Environmental and Social Management	1818
 Action Plan NCPB National Cereals and Produce	2775
 Action Plan Review	9022
@@ -553,11 +563,11 @@ Actividades Menores	4209
 Actividades Permitidas	11438
 Actividades Petrolíferas	11405
 Actividades de Operacionalización	4209
-Actividades de Preparação	11421
+Actividades de Preparação	11421,156
 Actividades de Telecomunicaciones	9543
 Actividades de UNICEF	4209
 Activist Kananelo Boloetse	3183
-Activists	2518,339,3026,94,1661,1277
+Activists	2518,339,3026,94,1661,1277,2776
 Activists Flag Security Concerns By Tetee	6166
 Activities	10,144,131,118,15,126,38,207,172,9,202,92,20,96,413,3,28,43,31,90,177,126,484,114,100,217,3,395,563,35,15,43,41,48,304,120,474,793,499,408,140,73,3604,65,134,17,151,119,2,37
 Activities Conducted	10776
@@ -620,7 +630,7 @@ Actor and Transaction	1009
 Actor-network	7966
 Actores	1701,3962
 Actors	6423,9,2202,982,865,248,90,231
-Actos	167,11266,16
+Actos	167,11266,16,133
 Actos Administrativos da Protecção Social Obrigatória	11433
 Actos Complementares	4274
 Actos Jurídicos	4209
@@ -697,6 +707,7 @@ Actualité Guinée-Bissau	9620
 Actualité Hausse	9620
 Actualité IA	3658,2617,145
 Actualité Jeff Dean	9620
+Actualité L'Instance de Protection des Données	11645
 Actualité Lou Carine TRA	9620
 Actualité L’UNESCO	8507,449
 Actualité Mark Zuckerberg	9620
@@ -743,7 +754,7 @@ Actually Similar	8606
 Actually Useful	961
 Actualmente	2816,363,1641,1765,117,4051,19,590,56,43
 Actuar	4218,7163,1,59,2,8
-Actuação	11441
+Actuação	11441,73
 Actuellement	737,1533,696,2314,486,316,807,70,321,1893,1009,337
 Added Tax Act	4896,2025,3102
 Addis Ababa Action Agenda	970,2613,6752,858
@@ -846,6 +857,7 @@ Attorney Technologies Emerging Technologies Act	7548
 Audit Act	9439
 Audit Action Plans	11218
 Audit Office Act	3025,26
+Auditing Profession Act	11573
 Aug-2024 No Actual	6928
 Authority Act	7845
 Awareness and Action	10384
@@ -879,6 +891,7 @@ Bank of Ghana Act	7695
 Bank of Mauritius Act	7845
 Banking Act	5687,1251,907,139,2148
 Banking Activities and Financing of Economies Department	10967
+Banking Activity Regime	11550
 Banking Institutions Act	3714
 Banking and Financial Institutions Act	6921
 Banking and Financial Services Act	22,2705
@@ -888,12 +901,13 @@ Baseline Target Actual Actual	10779
 Basic Conditions of Employment Act	11280
 Basic Education Act	7832,2448
 Basic Education Act No	899
-Beijing Declaration and Platform for Action	11193
+Beijing Declaration and Platform for Action	11193,379
 Beijing Declaration and Platform of Action	11193
 Beijing Platform for Action	11193
 Belém Gender Action Plan	8891
 Benchmarking SMEs Banking Activity	1828
 Benchmarking SMEs Banking Activity1 In the Republic	1828
+Bengo. Actualmente	11577
 Benin Government Action Plan	10856
 Benin's National Development Plan and Government Action	2334
 Beyond the Payment Systems Act	3964
@@ -933,8 +947,10 @@ C Heimann Acting Director-General	11261
 C of Act	11279
 C1 Certificado de Actualización PE	4209
 CALL TO ACTION	9660
+CAPACIDADE ELEITORAL ACTIVA	11528
 CAPITAL Actionnariat	2342
 CAPÍTULO II PRINCÍPIOS DA ACTIVIDADE INSPECTIVA	11452
+CAPÍTULO III FISCALIZAÇÃO DOS ACTOS	11528
 CAPÍTULO IV EXERCÍCIO DE ACTIVIDADES CADASTRAIS	11384
 CAPÍTULO VI DO ACTO	11461
 CASH FLOWS USED IN FINANCING ACTIVITIES	10793
@@ -956,6 +972,7 @@ CEO of ACT	2946
 CHAPTER I ADMINISTRATION Application of Act	11176
 CHIPS Act	6468,4667
 CHIPS and Science Act	11135
+CLIMATE ACTION	11586
 CLOUD Act	4676,416,210,948,171,50,46,4,59,891,1433
 CLOUD Act-bound	5302
 CLOUD Act-bound AI	5302
@@ -965,6 +982,7 @@ COBAC MPMEs Activité	10965
 COBE Act	4896
 COMMISSION FOR AIDS ACT	6921
 COMPETITION ACT	6921
+COMPONENTES COM ACTIVIDADES QUE POSSAM GERAR	11542
 CONCEPTO ACTUAL	4209
 CONCEPTO ACTUAL CATEGORÍA MINISTERIO CONCEPTO ACTUAL	4209
 CONCEPTO ACTUAL HACIENDA CMF	4209
@@ -1030,6 +1048,7 @@ Charitable Activities	3487
 ChatGPT AI Artifical Intelligence Act Artificial	9608
 Child Act	3583
 Child Care Act	11176
+Child Online Protection Act	11611
 Children Act	8948
 Children's Act	8864,930,1383
 Children's Act. Zanzibar	11133
@@ -1053,7 +1072,7 @@ Civil Union Act	5533,5644
 Civil Union Amendment Act	5533
 Clarifying Lawful Overseas Use of Data Act	5302
 Click Activation	11298
-Climate Action	1131,6271
+Climate Action	1131,6271,4184,27
 Climate Action Goal	11332
 Climate Action Grounded	11332
 Climate Action Network	8891
@@ -1185,21 +1204,21 @@ Customs Act. Amiwero	9361
 Customs Control Act	11190
 Customs and Excise Act	11181,9,73
 Cyber Africa Forum... Régulation Actu CAMTEL	10379
-Cyber Crimes Act	2726,1,4856,74,1759,800
+Cyber Crimes Act	2726,1,4856,74,1759,800,1475
 Cyber Crimes Act No	2746,2880,1682,275,74
 Cyber Crimes Act and Cyber Security Act	8418
 Cyber Crimes and Computer Abuse Act	5083
 Cyber Crimes and Cyber Security Act	7025
 Cyber Incident Reporting for Critical Infrastructure Act	6936
 Cyber Resilience Act Listen	2521,659,249,939,974,1524,210,294
-Cyber Security Act	2726,1,13,2426,162,1049,401,805,2434,199
+Cyber Security Act	2726,1,13,2426,162,1049,401,805,2434,199,1475
 Cyber Security Act No	2727,19,2880,1682
 Cyber Security Activity USAID	1567
 Cyber Security Regulations Repeal of Act No	2727
 Cyber Security and Crime Act	7777
 Cyber Security and Cyber Crimes Act	2727
 Cyber Security and Cybercrime Act	8418
-Cyber and Data Protection Act	958,14,905,1126,743,14,632,136,1034,619,612,158,1195,291,708,649,278,96
+Cyber and Data Protection Act	958,14,905,1126,743,14,632,136,1034,619,612,158,1195,291,708,649,278,96,1509
 Cyber and Data Protection Act. Under Statutory	8437
 CyberCrimes and Computer Abuse Act	5107
 Cybercrime Act	700,1077,340,1266,1268,347,176,70,1543,181,3245,381,127
@@ -1207,7 +1226,7 @@ Cybercrime Act Government Spokesperson Mwaura	6787
 Cybercrime Act. Review	1777
 Cybercrime and Computer Misuse Act	6006,1441
 Cybercrime and Computer Related Crimes Act	3887
-Cybercrimes Act	2117,1266,1200,632,509,653,393,17,99,2196,1295,76,44,603,90,6,69
+Cybercrimes Act	2117,1266,1200,632,509,653,393,17,99,2196,1295,76,44,603,90,6,69,397
 Cybercrimes Act and Cybersecurity Act	9082
 Cybercrimes Act. Nigeria	8418
 Cybercrimes and Data Protection Act	3983
@@ -1219,10 +1238,13 @@ Cybersecurity and Cybercrimes Act	1161
 D Lupungela Acting Deputy Director-General	11261
 D3 D3 Certificado de Actualización PE ACTUAL	4209
 DATA PROTECTION ACT	1333,2345
+DATA PROTECTION ACT Regulations	11584
 DE PROVINCIAS CATEGORÍA MINISTERIO CONCEPTO ACTUAL	4209
 DEAL ACTIVITY	4972
 DELEGACION TOTAL DIRECTIVO HIDROCARBUROS ACTIVOS	4209
 DES ACTIVITES POSTALES	37
+DES ACTIVITÉS DES	11522
+DES ACTIVITÉS DES EMETTEURS DE MONNAIE	11522
 DETAILED DESCRIPTION OF ANY ACTION	2709
 DETAILED PRESCRIPTION OF ANY ACTIONS	2709
 DGAENF Horaires Activités Présentateurs Jour	2966
@@ -1245,7 +1267,7 @@ Data Harmonisation Act	8363,185
 Data Harmonization Act	3384
 Data Markets Act	8436
 Data Privacy and Protection Act	10202
-Data Protection Act	3,24,560,5,207,43,116,38,80,124,133,18,25,254,12,10,85,5,74,293,254,305,41,18,146,311,108,68,222,96,32,48,129,43,34,63,45,82,18,51,159,146,55,7,2,61,104,6,10,17,10,10,75,102,213,15,4,102,42,93,7,24,63,76,167,148,65,154,21,52,33,12,3,151,34,54,19,53,16,184,28,13,103,4,11,23,247,31,112,1,182,1,35,50,78,121,195,51,30,10,18,42,83,515,18,123,32,21,11,223,424,8,10,209,85,29,64,124,11,112,58,113,15,51,54,23,3,32,193,39,182,72,15,10,24,83
+Data Protection Act	3,24,560,5,207,43,116,38,80,124,133,18,25,254,12,10,85,5,74,293,254,305,41,18,146,311,108,68,222,96,32,48,129,43,34,63,45,82,18,51,159,146,55,7,2,61,104,6,10,17,10,10,75,102,213,15,4,102,42,93,7,24,63,76,167,148,65,154,21,52,33,12,3,151,34,54,19,53,16,184,28,13,103,4,11,23,247,31,112,1,182,1,35,50,78,121,195,51,30,10,18,42,83,515,18,123,32,21,11,223,424,8,10,209,85,29,64,124,11,112,58,113,15,51,54,23,3,32,193,39,182,72,15,10,24,83,337,78,65
 Data Protection Act DSM Dispute Settlement	1243
 Data Protection Act Entities CAC GSCPs	6432
 Data Protection Act No	1630,635,4555,618,670,405,1091,1218
@@ -1328,6 +1350,7 @@ Digital Health Activity. Several	1824
 Digital Inclusion Strategy and Action Plan	2989
 Digital Market Act	8347
 Digital Markets Act	2117,2634,2862,118,3423
+Digital Nepal Framework Netherlands Yes Actieplan	11529
 Digital Personal Data Protection Act	6411
 Digital Services Act	2117,2634,415,162,116,187,171,2545,89,1400,1214,104,1
 Digital Services Act's Platform Liability Regime	5349
@@ -1357,9 +1380,10 @@ E&S Risks Agreed Actions Implement	2989
 EAC Competition Act	961
 EACC and Action Taken	2775
 ECA and ICASA Act	11235
-ECOWAS Act	1243,1213
+ECOWAS Act	1243,1213,9094
+ECOWAS Additional Act	11548
 ECOWAS Data Protection Act	2456
-ECOWAS Supplementary Act	961,200,82,1765,2236,1693,515,3367
+ECOWAS Supplementary Act	961,200,82,1765,2236,1693,515,3367,731
 ECOWAS Supplementary Data Protection Act	4583
 ECT Act	34
 EDUCATION AND TRAINING ACT	6921
@@ -1368,6 +1392,7 @@ EIA Management Act	1988
 ELECTRONIC COMMUNICATIONS ACT	7828,3407
 ELECTRONIC COMMUNICATIONS AND TRANSACTIONS ACT	11179
 ELECTRONIC TRANSACTIONS ACT	410,6512
+EM-Gabon Université Acteur	11669
 EMA Environmental Management Act ESCP Environmental	1988
 EMPREGO Actualmente	10777
 ESCCOM Acting Chief Executive Officer Fikile	6820,2808
@@ -1416,6 +1441,7 @@ Economic Activities Mining	1988
 Economic Development Board Act	7845
 Economic Development Board Act Act	7845
 Economic Diplomacy Action Group	6790
+Economic Transformation and Climate Action	11586
 Economic and Organised Crime Office Act	587
 Economy DPA Data Protection Act	6432
 Education Act	3583
@@ -1442,7 +1468,7 @@ Electronic Communications Act No	7827
 Electronic Communications Act. The Company	11230
 Electronic Communications Amendment Act	5872
 Electronic Communications Transactions Act	1816
-Electronic Communications and Transactions Act	396,613,1717,1,2465,2086,3901,10,7,69
+Electronic Communications and Transactions Act	396,613,1717,1,2465,2086,3901,10,7,69,308
 Electronic Communications and Transactions Act No	11196
 Electronic Deeds Registration System Act	2660
 Electronic Deeds Registration Systems Act	2660,4618,3911
@@ -1450,7 +1476,7 @@ Electronic Deeds Registrations System Act	7278
 Electronic Government Act No	4726,14
 Electronic Health Record System Actually	5911
 Electronic Transaction Act	4126,358
-Electronic Transactions Act	410,29,148,444,132,726,1116,53,381,6,111,31,127,2066,940,220,333,504,494,121,812,1447,688
+Electronic Transactions Act	410,29,148,444,132,726,1116,53,381,6,111,31,127,2066,940,220,333,504,494,121,812,1447,688,211
 Electronic Transactions Act. Namibia	10651
 Electronic Transactions and Cyber Security Act	799,9611
 Electronic and Postal Communications Act	2677,3491
@@ -1481,6 +1507,7 @@ Enforcement Actions for Non-compliance	5665
 Entrepreneurship Development Strategic Actions Develop	940
 Entreprenuership and Income Generating Activities	940
 Environment Act	7845
+Environment Action Plans	11525
 Environmental Management Act	1988,7449
 Environmental Management Act No	1988
 Environmental Management Act No.12	1988
@@ -1488,6 +1515,7 @@ Environmental Management and Co-ordination Act	1988
 Environmental Management and Coordination Act	7548
 Environmental and Social Action Plan	1818
 Equality Act	1988
+Essential Guides On Evidence Act	11654
 Estado Actual	10777
 Estate Duty Act	11181
 Estimated Number of Activity Activity Details Direct	1867
@@ -1513,7 +1541,8 @@ European Union’s AI Act	4045,4173,2917,130
 European Union’s Digital Markets Act	5802
 Europe’s AI Act	8596
 Evaluation MASFAMU Ministry of Social Action	10768
-Evidence Act	587
+Evidence Act	587,11067
+Evidence Act Demystified With Recent	11654
 Evidence Action Plan	10911
 Evidence and Action	11095
 Evidence and CLOUD Act	10088
@@ -1522,12 +1551,14 @@ Exchange Act. The Company	7198
 Exchequer Act	11230
 Excise Duty Act	6409,540,1804
 Excise Duty Act. The Bills	7695
+Exclusions This Supplementary Act	11517
 Exec Approved Actual Exec Approved Actual	6422
 Execução da Actividade	11452
 Execução de Actos Jurídicos Internacionais	9799
 Exemption Notice for Payment Activities	5420
 Exercício da Actividade	11438
-Exercício de Actividade	11386
+Exercício de Actividade	11386,134
+Existence of Act	11553
 Expanding Map Activity	6791
 Explosives Satellite PMU and Water Act	1988
 Export Tax Act	6921
@@ -1543,6 +1574,7 @@ FAITS MARQUANTS REPARTITION DU CAPITAL Actionnariat	2342
 FATF Financial Action Taskforce GNU Government	11250
 FCCP Act	7181
 FIC Act	4633,3721,486
+FISCALIZAÇÃO DOS ACTOS DE RECENSEAMENTO ELEITORAL12	11528
 FM Action Plan	10829
 FM Action Plan G. Procurement	2889
 FM Action Plan Issue Remedial Action	3604,7225
@@ -1599,7 +1631,7 @@ Fonds Spécial des Activités de Sécurité	2695
 Food Service Activities	2775
 Food and Agricultural Research and Extension Institute Act	7845
 Forefront of Environmental Action Across UNDP Namibia	9873
-Foreign Account Tax Compliance Act	6524,1
+Foreign Account Tax Compliance Act	6524,1,5160
 Foreign Adversaries Act	11154
 Foreign Corrupt Practices Act	3583
 Foreign Exchange Act	587,6353,820
@@ -1690,6 +1722,7 @@ Govt Power Sector Action Plan	1230
 Grandes Actos da Academia de Ciências Policiais	7736
 Great American AI Act	8788
 Green Economy and Climate Change Act	5247,4146
+Grenadines National ICT Strategy and Action Plan	11529
 Gross Domestic Product Financial and Insurance Activities	2775
 Groupe Actis	10975
 Growth and Opportunity Act ANATS Chad National	10841
@@ -1726,12 +1759,12 @@ Human Rights and Disinformation Amendment Act	10729
 Humanitarian Action	1828,9328
 Humanitarian Action Using Machine Learning	2816
 IA ACT	3465
-IA Act	2353
+IA Act	2353,9389
 IA Actualmente	2816
 ICASA Act	4732,1140,1952,3387,24,27
 ICASA Action	11195
 ICT ACT The ICT	2913
-ICT Act	1988,925,643,6474
+ICT Act	1988,925,643,6474,1618
 ICT GVA Activity	236
 ICT. The Data Protection Act	10594
 IDENTIFICATION ACT	11213
@@ -1759,7 +1792,7 @@ IV.1.1.9 Discipline IV.1.1.9.1 Actes	10876
 IV.1.1.9.1 Actes	10876
 IVOIRE Plan d Actions National pour l	3604
 Icasa Act	2937
-Identification Act	1939,3594,539,52,263,125,4664,37,69
+Identification Act	1939,3594,539,52,263,125,4664,37,69,291
 Identification Act.I	6196
 Identification and Registration Act	2743
 Identification and Registration Act. NIRA	4091
@@ -1774,6 +1807,7 @@ Immigration and Deportation Act No	1988
 Implement the EU’s AI Act	11140
 Implementation Action Plan	3678
 Implementation National Action Plan Implementation Framework	21
+Implementation Support Plan FM Activity Frequency	11525
 Implementing Acts	10819
 Implementing the Act	11198
 Implementing the GBV Integrated Plan of Action	11230
@@ -1796,6 +1830,7 @@ Information Act	587,212,210,16,308,141,131,132,202,60,118,1597,216,32,164,606,80
 Information Act AU	5244
 Information Act. Mr. Mohwasa	3360
 Information Act. South Africa Corporate	6683
+Information Society Strategy and Action Plan	11529
 Information System and Social Action Management	10763
 Information Technology Act	8210,998
 Information and Communication Technologies Act	22,761,1943,1,186
@@ -1827,6 +1862,7 @@ Interception of Communications Act	736,222
 Interdição da Actividade	11430
 Interests and Actors	2518
 Intergovernmental Fiscal Relations Act	11289
+Intergovernmental Relations Framework Act	11573
 Interim Actuarial Evaluation	6539
 Interior Ministry's Civil Registry. Activated	6268
 Internal Audit Agency Act	11,576
@@ -1840,6 +1876,7 @@ Interventions Approved Actual Exec Approved Actual	6422
 Investment and Securities Act	2826,6209
 Investment and Special Economic Zones Act	6921
 Investments and Securities Act	2826,6404
+Início de Actividade	11520
 IoT Context The Issue of Consent. Act	8776
 IoT Ecosystems Act	8776
 IoT. Under the Nigeria Data Protection Act	6070
@@ -1868,7 +1905,7 @@ Kasi Cloud Is Actually Building	5200
 Kenya Citizenship and Immigration Act	10822
 Kenya Climate Change Act	7548
 Kenya DIGITAL HEALTH ACT THE DIGITAL	2709
-Kenya Data Protection Act	5550
+Kenya Data Protection Act	5550,6035
 Kenya Defence Forces Act	9239
 Kenya Digital Health Act	4154
 Kenya Digital Health Act The Digital	2709
@@ -1920,6 +1957,7 @@ LTA Acting Chairperson Abdullah L. Kamara	1910
 LTD Amendment Act	11200
 LYD. Activated	5143
 La Customs Act	7994
+La Cybersecurity and Cybercrime Act	11648
 La National Pensions Act	7994
 La Value Added Tax Act	7994
 Labour Act	3714
@@ -1973,6 +2011,7 @@ Luminosos ACTUAL	4209
 Luminosos ACTUAL INFORMACIÓN Rótulos	4209
 Luminosos ACTUAL TURISMO LICENCIA	4209
 Lusaka. Zambia Public Health Action	10784
+L’AUTORISATION D’EXERCER LES ACTIVITES D’EMISSION	11522
 L’ICT Act	10030
 L’offre des Activité	10965
 L’ÉTAT ACTIONNAIRE Performance	2342
@@ -1986,6 +2025,7 @@ MAIN ACTIVITIES IN VILLAGES AS REPORTED	10763
 MFBSB. Actions	4342
 MINADER MPMEs Activité	10965
 MINAS Activité	10965
+MINDFUL of ECOWAS Supplementary Act AlSA	11517
 MINING ACT	6921
 MINISTERIO CONCEPTO ACTUAL	4209
 MINISTERIO CONCEPTO ACTUAL CATEGORÍA MINISTERIO CONCEPTO	4209
@@ -2036,6 +2076,7 @@ Medicines and Related Substances Act	3651
 Medium-Term Actions	6936
 Medium-term Action Plan	5677
 Member Action	9914,1,77
+Member State. This Supplementary Act	11517
 Member States. The Act	1243
 Member for Marakwet West. Actually	10313
 Mental Health Act	2727
@@ -2075,9 +2116,9 @@ Ms. Josephilda Nhlapo-Hlope Acting DDG	11224
 Msimanga.The Acting Coordinator	11277
 Multisectoral National Action Plan for Health Security	11417
 Municipal Electoral Act	5533,1374,3590
-Municipal Finance Management Act	8022,3226,15,16
+Municipal Finance Management Act	8022,3226,15,16,294
 Municipal Finance Management Act Amendment Bill	8599
-Municipal Structures Act	11182
+Municipal Structures Act	11182,369
 Municipal Systems Act	5872,5310,66,2,29
 Municipalization of Social Action	10775
 Mutual Legal Assistance Act	587
@@ -2113,6 +2154,7 @@ NOTÍCIA ACTUALIZADA	8122
 NPS Act	4027,1393
 NTA Nigeria Tax Act	8590
 NTAA Nigeria Tax Administration Act	8590
+NTRA Activates	11642
 Name Baseline Actual	4653
 Namibia Financial Institutions Supervisory Authority Act	3714
 Namibia's Civil Registration and Identification Act	10147
@@ -2121,7 +2163,7 @@ Namibia's Second National Biodiversity Strategy and Action	9353
 Namibian Copyright and Neighbouring Rights Protection Act	11122
 Namibia’s Electronic Transactions Act	7905
 NatCA Act	7777
-National AI Act	4528,875,1389
+National AI Act	4528,875,1389,4923
 National AI Initiative Act	3519
 National Action Coalition	10216
 National Action Plan	1389,7091
@@ -2137,6 +2179,7 @@ National Archives of South Africa Act	396
 National Assembly Administration Act	7859
 National Assembly Powers and Privileges Act	10313
 National Audit Chamber Act	3583
+National Building Regulations and Building Standards Act	11573
 National Civil Registration Act	2872,6484,1318
 National Civil Registration Act The Sierra	2113
 National Communications Act	236
@@ -2176,11 +2219,13 @@ National Information Technology Development Agency Act	10157
 National Infrastructure Fund Act	10313
 National Institute for Social Action	9484,263
 National Key Points Act	5161
-National Land Transport Amendment Act	11494
+National Land Transport Act	11551
+National Land Transport Amendment Act	11494,57
 National Land Transport Authority Act	7845
 National Land Transport Authority Recovery Act	7845
 National Minimum Wage Act	11280
 National Multisectoral Action Plan for One Health	11417
+National ODL Action Plan	11757
 National Payment System Act	1020,1722,2678
 National Payment Systems Act	958,2099,970,2204,765
 National Pensions Scheme Act No.7	1988
@@ -2191,6 +2236,11 @@ National Qualifications Framework Act	11182
 National Registration Act	799,1080,2763,2589
 National Registration Act. The NRB	10130
 National Revenue Authority Act	3583
+National Road Traffic Act	11551
+National Road Traffic Act.’’. Amendment	11551
+National Road Traffıc Act	11551
+National Road Traffıc Act.’’. Ukuchibiyela	11551
+National Road Traffıc Act.’’. Ukufaka	11551
 National Security Act	5083
 National Social Action Policy	10763,5
 National Social Security Fund Act	10822
@@ -2210,7 +2260,7 @@ Next Post Activist	3212
 Next Steps and Outlook Planned Actions	3840
 Nigeria Actions for Investment and Jobs Acceleration	11476
 Nigeria Baseline Actual	4688,3189
-Nigeria Data Protection Act	1220,1239,127,183,457,254,1329,52,177,94,5,144,82,369,555,155,79,23,145,81,371,32,3,233,444,61,164,10,30,60,470,204,70,59,3,326,186,174,208,76,15,188,113,235,92,264
+Nigeria Data Protection Act	1220,1239,127,183,457,254,1329,52,177,94,5,144,82,369,555,155,79,23,145,81,371,32,3,233,444,61,164,10,30,60,470,204,70,59,3,326,186,174,208,76,15,188,113,235,92,264,789
 Nigeria Data Protection Act. Citizens	8440
 Nigeria Data Protection Act. Stakeholders	7409
 Nigeria Data Protection Act. Ya'u	9443
@@ -2246,6 +2296,7 @@ Nuclear and Radiological Weapons Acts Cap	3887
 Number Porting Activities	3862
 Number of Act	439
 O Acto	10750,693
+O Plano Anual de Actividades Estatísticas	11526
 OBJECTIVE PROPOSAL FOR PRIORITY ACTIONS TIMELINE	10765,10
 OHADA Acte Uniforme	10841
 OHS Act	11198
@@ -2315,6 +2366,7 @@ PROVINCIAS CATEGORÍA MINISTERIO CONCEPTO ACTUAL CATEGORÍA	4209
 PS Action	10874
 PSF Activité	10965
 PTA Act	958
+PV Photovoltaic RAP Resettlement Action Plan	11549
 PWDs. Activities	1264
 Pacific Railroad Act	4259
 Pacific Railroads Act	4259
@@ -2340,7 +2392,7 @@ Penal Code Act	1535,3887
 Pension Funds Act	3714,7541
 Performance Monitoring for Action	1212
 Periodicidade da Actividade Inspectiva	11452
-Personal Data Protection Act	2806,309,1836,51,242,681,97,724,181,331,3875
+Personal Data Protection Act	2806,309,1836,51,242,681,97,724,181,331,3875,529
 Personal Data Protection Act. OUT	7258
 Personal Data Protection and Privacy Act	1474,631,2261,878,4865
 Personal Data Protection and Privacy Act DTWG	5244
@@ -2396,7 +2448,7 @@ Poverty Reduction Strategy and Action Plan	11131,3
 Power Sector Action Plan	1230
 Powertel Acting Managing Director	7014,22
 Predicted Predicted Different Similar Actually Different	8606
-Preferential Procurement Policy Framework Act	11240,12
+Preferential Procurement Policy Framework Act	11240,12,321
 Preparation Actual Year Revised Estimation	2473
 Prescribed Rate of Interest Act	3714
 Prevention and Combating of Corrupt Activities Act	5533,5649,58
@@ -2490,6 +2542,7 @@ Public Health Act	1988,5857
 Public Holidays Act	5533,2312
 Public Inquiries Act	7845
 Public Order Act	10216
+Public Places Act	11529
 Public Private Partnership Act	5793
 Public Procurement Act	2364,3085,2246,150,771,2632,31
 Public Procurement Act Government	7695
@@ -2504,6 +2557,7 @@ Public Service Act	11178,4,2,17,15,2,62
 Public Service Commission Act	10313
 Public Utilities Regulatory Commission Act	11
 Public-Private Partnership Act	9778
+Publication This Supplementary Act	11517
 Purpose of Act	3714,7464,3
 Purpose of Act General	3714
 QED Actuaries	11511
@@ -2544,7 +2598,7 @@ Refining the Philippine AI Regulation Act	8991
 Reform. Tax for Micro-Economic Activity	10762
 Refuge Act No	1988
 Refugee Act	1867,121,118
-Refugees Act	1867,121,2854,691,5289,355,41,62
+Refugees Act	1867,121,2854,691,5289,355,41,62,348
 Refugees Act No.1	1867
 Refugees Amendment Act	11177
 Regime Jurídico da Actividade de Inspecção	11452
@@ -2586,7 +2640,7 @@ Research Council Act	1154
 Reserve Bank of Zimbabwe Act	958
 Resettlement Action Plan	1988
 Resettlement Action Plan and Resettlement Policy Framework	3456
-Resettlement Action Plans	3604
+Resettlement Action Plans	3604,7921
 Resilience Action Network Africa	4674,3805
 Resilience Strategy and Action Plan	6539
 Ressetlement Action Plan	10829
@@ -2606,6 +2660,7 @@ Risk Factors Reduced Through Multisectoral Action	10776
 Risk Management Activities	10721
 Road Motor Transportation Act	10502
 Road Traffic Act	7845,320
+Roadmap and Action Plan	11552
 Roads and Road Traffic Act	1988
 Roads and Road Traffic An Act	1988
 Rural District Councils Act	1223
@@ -2658,6 +2713,7 @@ STATS ACT Statistics Act No.6	11192
 STEP. Activities Substantial Ensure	10768
 STP Horaires Activités Présentateurs Jour	2966
 SUBSECÇÃO I ACTIVIDADE DE PRESTAÇÃO	11386
+SUPPLEMENTARY ACT A1SA.1f01f10 ON PERSONAL DATA	11517
 Safety Act	1988
 Safety Act No	1988
 Sanctions Act	7845
@@ -2688,7 +2744,7 @@ Service Activation	4732
 Service Activities	2775
 Service POPIA Protection of Personal Information Act	11196
 Service of Government Action and Cameroon's Emergence	6606
-Services Act	7845
+Services Act	7845,3706
 Services Act Chapter	736
 Services Act SADA Smart Africa Digital	4126
 Services Actualités	3675
@@ -2705,6 +2761,7 @@ Simplification and Security of Acts	10937
 Single Actor Can Close	10015
 Skills Development Act	7622,3560
 Skills Development Levies Act	11181,1
+Slipplementary Act	11517
 Small Business Development Act	11179
 Small Farmers Welfare Fund Act	7845
 Smart Agriculture Strategic Interventions Project Activities	395
@@ -2728,14 +2785,17 @@ Somalia Cybersecurity Act	7575
 Sommet Action IA	5029
 South Africa Actis	448
 South Africa's Electronic Communications Act	4244
+South Africa's Protection of Personal Information Act	11677
 South African Citizenship Act	5533
 South African Human Rights Commission Act	6305,4960
 South African Passports and Travel Documents Act	5533
-South African Police Service Act	11188,2
+South African Police Service Act	11188,2,361
 South African Reserve Bank Act	11190
 South African Revenue Service Act	8840,2341
 South African Schools Act	11180
 South African Social Security Agency Act	2307
+South African Tax Administration Act	11685
+South African Transport Services Act	11551
 South African Weather Service Act	11191
 South Africa’s Critical Infrastructure Protection Act	5161
 South Africa’s POPI Act	2117
@@ -2774,7 +2834,7 @@ Startup Act. Enfin	10205
 Startup Act. Il	8751
 Startup Acts	4590
 State Action	3456,8013
-State Corporations Act	6787,159,3367
+State Corporations Act	6787,159,3367,1362
 State Corporations Act. The NCSA	6803
 State Department's Freedom of Information Act Library	6534
 State Finance Act	3714
@@ -2801,7 +2861,9 @@ Strategic Policy Actions Policy Priority	958
 Strategic Roadmap and Action Plan	4725,3699
 Strategies Personal Data Protection and Privacy Act	5244
 Strategy and Action Plan	1000,3180,6077
+Strategy and Action Plan for Grenada	11529
 Strategy and Action Plan. Bottom-up Research Methodology	4126
+Strategy for External Action	11536
 Stratégie Activités	10874
 Streamlining and Prioritization of Activities	4653
 Strengthening Action Against Corruption	11006
@@ -2813,13 +2875,18 @@ Successfully Activated	11298
 Sudan’s Criminal Act and Articles	10334
 Sugar Industry Efficiency Act	7845
 Suivi des Actions Gouvernementales	2951
+Summary of Findings and Actions	11525
 Superior Courts Act	11190
-Supplementary Act	961,282,21,4099
+Supplementary Act	961,282,21,4099,6154
+Supplementary Act Article	11517
+Supplementary Act. Article	11517
 Supplementary Appropriation Act	1838
 Supplies Practitioners Management Act	10043
 Suspicious Activity Reports	5369
 Swaziland Communications Act	1816
 Swaziland Communications Commission Act No	1642
+Systems Act	11551
+Systems Act.’’. Amendment	11551
 Système Statistique PSN National Action	10874
 Système de Activité	10965
 Sécurisation des Actes	10902,35
@@ -2900,7 +2967,9 @@ Traditional and Khoi San Leadership Act	5872
 Traditional and Khoi-San Leadership Act	11280
 Traffic Act	1988,4933,2725
 Traffic Act. NTSA	9646
+Traffic Act.’’. Substitution	11551
 Transactions Act	439,6482
+Transition Act	11551,22
 Transkei I I Act No	11178
 Translate the Cybersecurity Act	6936
 Transportation and Storage Activities	2775
@@ -2931,6 +3000,7 @@ US CLOUD Act and FISA	6517
 US Cloud Act	5821
 US Cloud Act and Foreign Intelligence Surveillance	11154
 US Cloud Act. Claim	5821
+US Foreign Account Tax Compliance Act	11685
 US Foreign Intelligence Surveillance Act	6477
 US Stored Communications Act and GDPR	10088
 USAID Kenya Digital Health Ecosystem Activity	725
@@ -2949,7 +3019,7 @@ Uganda’s Data Protection and Privacy Act	3307,4983
 Under Eswatini’s Free Primary Education Act	7264
 Under Nigeria’s Data Protection Act	5321
 Under the Act	6820
-Under the Cyber Security and Crime Act	7777
+Under the Cyber Security and Crime Act	7777,3977
 Under the Cyber and Data Protection Act	4529
 Under the Data Protection Act	7252,3086,72
 Under the Electronic Communications Act	6898,420
@@ -3005,13 +3075,15 @@ Vienna Programme of Action for LLDCs	10844
 Violating NDP Act The Nigeria Data	3226
 Virginia. The Act	7471
 Virtual Asset Act	3270,19
-Virtual Asset Service Providers Act	3793,1115,2699,227,863,6,608,223
+Virtual Asset Service Providers Act	3793,1115,2699,227,863,6,608,223,2165
+Virtual Assets Providers Act	11699
 WAEMU Activates Financial Stability Fund	5407,676
 WAMZ Model Act	10408
 WATRA Annual Plan and Programme of Activities	5677
 WAY FORWARD Short-Term Actions	6936
 WBG Climate Change Action Plan	3604
 WBG’s Climate Change Action Plan	1867
+WHO’s Framework for Action. Geneva	11596
 WRC-23 Final Acts	7828
 WSIS Action Lines	7172
 Waqf Act	7845

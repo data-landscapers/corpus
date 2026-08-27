@@ -19,16 +19,21 @@ Aquaculture	10763
 Aquaculture and Apiculture P1	5636
 Aquando	10755,618,57,5
 Aquatic	1988
-Aquele	6462,4963
+Aquele	6462,4963,88,15
 Aqui Hidden	6530
 Aquisition de Data Center National	4385
 Aquisição	2816,1402,56,283,3917,2956,8
 Aquisição Regulamentos	10769
 Aquisição de Bens	167
 Aquisição de Serviços de Telecomunicações	4556,1
+Aquisição de Software de Apuramento	11561
 Aquisição de TPA	11438
 Aquisição de Terminais	11438
-Aquisições	8594
+Aquisição de Terras	11542
+Aquisições	8594,3025
+Cartão de Eleitor de Cidadão Estrangeiro Aquele	11528
+Coação Física Aquele	11528
+Denúncia Caluniosa Aquele	11528
 Especialista de Aquisições da UIP	11441
 Fisheries and Aquaculture Minister	10112
 Governo. Aquele	10114
@@ -46,3 +51,4 @@ Regulamento de Aquisição. Mais	10769
 St. Thomas Aquinas Kalawa Boys Secondary	10313
 Tirsi Aqoonsi	4091
 Vincenzo Aquaro	10840
+Violação Fronteiriça Aquela	11528

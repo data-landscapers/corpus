@@ -59,7 +59,7 @@ BACKGROUND Land	10960
 BRUNO LANGA	1829
 Bantu Language Initiative	9929,15
 Base-T Gigabit LAN	34
-Beatriz Lanza	1381,970
+Beatriz Lanza	1381,970,9218
 Beatriz Lanza. Phase	2351
 Benin Launches First Local Language Voice	3150
 Benin Signs Landmark Agreements	3299
@@ -107,7 +107,8 @@ Communal Land Tenure Bill	11197
 Communal Land Tenure Policy	11197
 Communal Lands	8681
 Community Land Act	10313
-Community of Portuguese Language Countries	6778
+Community of Portuguese Language Countries	6778,4767
+Compensation and Land Costs	11549
 Competitive Landscape	3859
 Comprehensiveness Land	10960
 Computation and Language	3726
@@ -169,6 +170,7 @@ Diversified Equity Landscape	4722
 Dorethea Samaai Department of Land Reform and Rural	11260
 E--NYHONTSO R LAND REFORM AND RURAL	11249
 ECONOMY Rural Land	10759
+ERA-5 Land	11589
 ESS5 Land Acquisition	1988
 EU-funded Land Governance	446
 East Lansing	7886
@@ -243,6 +245,7 @@ Human Settlements and Land Use Research and Policy	1514
 I. Lans-Vargas	5349
 I. The Landscape	9331
 ICT Landscape	11195
+ITEC English Language Proficiency Course	11579
 Illegal Land Eviction and Invasion	11188
 Improve Land Administration	2355
 Improve Land Administration The Kaduna Geographic	2355
@@ -318,17 +321,19 @@ Lancement du Système	3719
 Lancer	8891,1939
 Lancering	10848
 Lancers Inn	2767
-Lancet	1261,4874,2241,2453,52
+Lancet	1261,4874,2241,2453,52,679,25
 Lancet Digi-	8301
 Lancet Digit Health	1261
 Lancet Digital Health	5911,2390,2842
+Lancet Glob Health	11596
+Lancet Glob. Health	11585
 Lancet Global Health	1261
 Lancia Digital Broadcasting	6946
 Lanciato	10848
 Lancé	555,1200,681,296,243,123,1973,242,152,258,389,1221,22,382,655,499,1364
-Lancée	2312,381,833,841,1336,164,350,671,187,413,597,77,150,1954,78,544
+Lancée	2312,381,833,841,1336,164,350,671,187,413,597,77,150,1954,78,544,882
 Lancés	2942,464,7282
-Land Acquisition	1264,603,1737,7164,61,135,453
+Land Acquisition	1264,603,1737,7164,61,135,453,143
 Land Acquisition Act	9727
 Land Act	1391,597,4933
 Land Administration	888,10373
@@ -397,7 +402,7 @@ Land Use Planning and Land Management Framework	9727
 Land Use Planning and Management Information System	1513
 Land Use and Building Control	11231
 Land Use and Involuntary Resettlement	10829,135
-Land Use and Involuntary Resettlement Not Currently	10768,649
+Land Use and Involuntary Resettlement Not Currently	10768,649,143
 Land Use and Involuntary Resettlement Relevant Biodiversity	1284,9545,135
 Land Use and Involuntary Resettlement Relevant ESS	1867
 Land Use and Involuntary Resettlement Relevant Relevant	3604
@@ -426,6 +431,7 @@ Landing Rights Authorization	9335,1072
 Landing Rights Authorization for Satellite Service Provider	10407
 Landing Rights Tenure and Fees	10407
 Landing Submarine Cable Landing Overview	9109
+Landis and Koch	11578
 Landline	1013
 Landlines VoIP Satellite FTTh	1013,931
 Landlocked	6318,3330,1852
@@ -450,7 +456,7 @@ Landlocked Developing Countries Readiness	10844
 Landlocked Developing Countries Share of ICT	10844
 Landlocked Developing Countries Table A2.3	10844
 Landlocked Developing Countries Virtually	10844
-Landlocked Developing Countries and Small Island Developing	10844
+Landlocked Developing Countries and Small Island Developing	10844,728
 Landlocked President Blaise Compaoré	10838
 Landlocked REC Membership	10837
 Landlocked SSA Connectivity	837
@@ -516,7 +522,7 @@ Languages ICT Devices	958
 Languages Processing	4126
 Languages Ust	11180
 Languages-	6287
-Langue	737,450,1779,7851
+Langue	737,450,1779,7851,750
 Langues	1187,8806
 Lanham	2948
 Lannquist	4126
@@ -538,6 +544,7 @@ Lanzar	1701
 Lançamento	2242,371,203,5066,503
 Lançamento da Campanha de Sensibilização Cívica	7310
 Lançant	8719
+Lançar	11569
 Large Language Model	2871,780,877,1704,750,882,285,70
 Large Language Model MCTES	2816
 Large Language Model Meta AI	2816
@@ -595,7 +602,7 @@ Ministry of Land and Regional Government	9727
 Ministry of Land and Survey	11129
 Ministry of Lands	395,125,420,30,584,150,1342,632,2053,1085,2087,1410
 Ministry of Lands and Agriculture	1663,977,2996,1005,595
-Ministry of Lands and Housing	2104
+Ministry of Lands and Housing	2104,9617
 Ministry of Lands and Natural Resources	1249,625,5821
 Ministry of Lands and Natural Resources. Madam Speaker	1222
 Mobile Landlines Outgoing	1013,931
@@ -626,7 +633,8 @@ National Land Information System NSAAs National	11261
 National Land Policy	9727
 National Land Policy Implementation Unit	9727
 National Land Registration and Documentation Programme	2592
-National Land Transport Amendment Act	11494
+National Land Transport Act	11551
+National Land Transport Amendment Act	11494,57
 National Land Transport Authority Act	7845
 National Land Transport Authority Recovery Act	7845
 National Land Use and Development Master Plan	888
@@ -653,6 +661,7 @@ Original Language	9892,1
 Oudtshoorn Oudtshoorn Hermanus Hermanus Langa Swellendam	8999
 Overall-2018 LANDSCAPE PRODUCTS	418
 PART XI AMENDMENT OF THE LAND	6921
+PLANTING SUSTAINABLE LAND MANAGEMENT COMMUNITY EMPOWERMENT	11586
 PRIMEIRA-DAMA DA REPÚBLICA PRESTIGIA LANÇAMENTO	11482
 Pakistan W M Sri Lanka W	11004
 Partnership Landscape SpaceX's S-1	6467
@@ -676,7 +685,7 @@ Procédure Lancement	10876
 Program Keluarga Harapan and Bantuan Langsung Tunai	11468
 Project Manager Beatriz Lanza. Establishes ENTD.GW	1381
 Project. Land Acquisition	1988
-Promotion des Langues	10847,16
+Promotion des Langues	10847,16,734
 Promotion des Langues Nationales	3396
 Promotion des Langues Nationales Nb	10847
 Promotion of National Languages	10854
@@ -699,6 +708,7 @@ Regional Somali Language Academy	10451
 Regulatory Landscape Review	1364
 Relevant Community Health and Safety Relevant Land	1284,9545,135
 Rent Land	2888,32,354,504,1444,877,6,100,680,129,293,115
+Rep. Malaysia Paraguay Sri Lanka Suriname	11563
 Reshaping the Development Landscape	10630
 Responsible Governance of Tenure of Land	10960
 Restitution of Land Rights Act	1009
@@ -749,13 +759,15 @@ South Africa Sri Lanka Switzerland Togo	10764
 South African Sign Language	9767
 South African Sign Language Curriculum Learning	11220,21
 South Sudan Land Act-2009	3046
+Spain Sri Lanka State of Palestine Sudan	11765
 Spatial Planning and Land Use Management	11261
 Spatial Planning and Land Use Management Act	9676
 Speech and Language Processing. Prentice Hall. JurídicoAI	2816
-Sri Lanka	2318,6,103,20,94,25,48,44,20,42,5,53,41,1,3,50,41,11,18,4,70,1,8,259,18,157,163,119,78,69,141,37,21,465,78,145,55,24,230,225,138,45,60,43,101,181,78,69,47,183,19,70,19,8,170,5,104,1,148,1,7,16,76,109,751,1672,316,967,50,21,61,145,13,1
+Sri Lanka	2318,6,103,20,94,25,48,44,20,42,5,53,41,1,3,50,41,11,18,4,70,1,8,259,18,157,163,119,78,69,141,37,21,465,78,145,55,24,230,225,138,45,60,43,101,181,78,69,47,183,19,70,19,8,170,5,104,1,148,1,7,16,76,109,751,1672,316,967,50,21,61,145,13,1,524,80
 Sri Lanka Connectivity Safety and Affordability Connectivity	11004
 Sri Lanka Kiribati Mongolia Myanmar Nepal	10764
 Sri Lanka Men Employed	11004
+Sri Lanka National Broadband Policy Sudan	11529
 Sri Lanka National ID System	10714
 Sri Lanka Sri Lanka’s Ministry of Health	2678
 Sri Lanka VASANTHAN	6613

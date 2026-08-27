@@ -4,6 +4,7 @@ ABBREVIATIONS AND ACRONYMS ADF Automatic Document	34
 ABBREVIATIONS AND ACRONYMS AF Additional Financing	11417
 ABBREVIATIONS AND ACRONYMS ANE CERC CERC	1228
 ABBREVIATIONS AND ACRONYMS Acronym CERC CMC	4653
+ABBREVIATIONS AND ACRONYMS CDD Community	11525
 ABBREVIATIONS AND ACRONYMS CERC Contingency Emergency	2473
 ACRE POINT REALTORS LTD Data Processor	7167
 ACREL ELECTRIC	10975
@@ -16,6 +17,7 @@ ACRONYMS AF Additional Financing ARMP Burundi	1284
 ACRONYMS AFI	940
 ACRONYMS AGSA Auditor General of South Africa	11224
 ACRONYMS AI AIGF African Development Bank	3604
+ACRONYMS AND ABBREVIATIONS ADB Asian Development	11572
 ACRONYMS AND ABBREVIATIONS APME Small and Medium-sized	10980
 ACRONYMS Abbreviation Full	11261
 ACRONYMS Acronym Description	11218
@@ -24,6 +26,7 @@ ACRONYMS IFC International Finance Corporation IFWG	11198
 ACROSS	11004
 ACReSAL	11469
 ACRÓNIMOS APD Agência de Protecção de Dados	11413
+ACRÓNIMOS E ABREVIATURAS ADM Método	11555
 ACRÓNIMOS E ABREVIATURAS BAD	11387
 ACTION PLAN Accelerate AI Adoption Across	4126
 ADCT TABLEAU DES ACRONYMES AS BM	643
@@ -39,11 +42,12 @@ Access Controls Across	7313
 Acre Fund	133,4039
 Acredita	6571
 Acredita-se	2816
+Acreditado	11534
 Acreditamos	2816,1265
 Acres of Mercy	7167
 Acresce	11366
 Acrescente-se	11461
-Acrescentou	2434,1606,1265,100,569,335,393,7,32,106,119,25,254,812,155,96,1,498,189,698,1056,729
+Acrescentou	2434,1606,1265,100,569,335,393,7,32,106,119,25,254,812,155,96,1,498,189,698,1056,729,199
 Acrew Capital	1547
 Acritical	8602
 Acriticalreviewofusinglearningana-	8602
@@ -53,7 +57,8 @@ Acronym Definition LRB Late Registration of Birth	5533
 Acronym Definition STAGES Screen Talent and Global	5533
 Acronym Description	11218
 Acronym WBES	10862
-Acronyms	427,4101,5088,1143,76,2,75,56,225,4,113,91
+Acronyms	427,4101,5088,1143,76,2,75,56,225,4,113,91,144
+Acronyms ACE Africa Coast	11545
 Acronyms ACLED Armed Conflict Location	10759,76,2,1,130
 Acronyms AFP	10776
 Acronyms AfCFTA AI AI4D AISIO API	4528
@@ -62,7 +67,7 @@ Acronyms and Abbreviations	970,5862,114,4304
 Acronyms and Abbreviations ACP Africa	970
 AcronymsAacnrdonAybmbrseavniadtiAobnbsreviations PART	10157
 Acronymsp.16 Country	10838
-Across	1200,43,571,808,122,74,379,25,361,148,128,291,280,98,148,14,135,23,58,64,74,107,96,116,27,28,133,14,53,91,7,195,2,29,33,73,7,52,64,41,54,119,28,58,63,105,29,1,21,15,15,20,50,4,38,19,28,7,52,10,34,165,4,24,67,56,15,24,10,97,7,97,147,36,20,39,46,21,10,2,7,70,20,35,35,240,35,30,7,78,1,11,22,11,24,179,6,67,158,69,4,9,12,18,89,14,8,17,116,191,141,7,16,6,13,6,12,86,38,27,155,10,16,16,36,30,31,90,89,389,48,15,35,1,10,18,26,33,111,1,13,14,13,12,119,1,2,2,96,36,28,168,15
+Across	1200,43,571,808,122,74,379,25,361,148,128,291,280,98,148,14,135,23,58,64,74,107,96,116,27,28,133,14,53,91,7,195,2,29,33,73,7,52,64,41,54,119,28,58,63,105,29,1,21,15,15,20,50,4,38,19,28,7,52,10,34,165,4,24,67,56,15,24,10,97,7,97,147,36,20,39,46,21,10,2,7,70,20,35,35,240,35,30,7,78,1,11,22,11,24,179,6,67,158,69,4,9,12,18,89,14,8,17,116,191,141,7,16,6,13,6,12,86,38,27,155,10,16,16,36,30,31,90,89,389,48,15,35,1,10,18,26,33,111,1,13,14,13,12,119,1,2,2,96,36,28,168,15,102,65,126
 Across ASEAN	8629
 Across Africa	3059,486,359,520,130,51,219,72,10,391,14,218,21,387,311,89,256,117,4,76,36,349,71,45,87,89,121,118,44,136,77,357,144,138,510,510,26,169,54,82,109,131,479,629
 Across Anambra	3133
@@ -70,10 +75,12 @@ Across CAR	10829
 Across Cameroon and Chad	9616
 Across East Africa	4668,346,3412
 Across Eastern Africa	5485
+Across Egypt’s Courts Eng. Raafat Hindi	11641
 Across FY26	6100
 Across Fintech	10793
 Across Four African Markets	10666
 Across Ghana and Nigeria	8042
+Across Guinea Bissau	11586
 Across Kenya	5913,1675
 Across LMICs	11004
 Across Lagos	10704
@@ -106,7 +113,7 @@ Across the Southern African	9759
 Acrosshighereducationcontexts	8602
 Acrosssectorssuchasfin-	8606
 Acrosstheliterature	8602
-Acrónimos	2138,3525,5701,12,65,1,6,3,5
+Acrónimos	2138,3525,5701,12,65,1,6,3,5,101
 Adobe Acrobat	7204
 Adobe Acrobat Paper Capture	7828
 Adoption of Artificial Intelligence Across the Continent	6948
@@ -122,6 +129,7 @@ Aqoonsi. Across East Africa	5941
 Asia and North America. Across	4972
 Audit Reporting Across Health Facilities. Laboratory	4202
 Aﬀordability Services Across the Economy	10856
+BBOXX CAPITAL RDC. Table of Contents Acronyms	11572
 BROADCASTMEDIAAFRICA.COM Across Africa	2976
 Bilhete de Identidade. Acrescentou	6944
 Boost SME Trade Across Africa	9720
@@ -131,6 +139,7 @@ CBN Mandates Automated AML Systems Across	5369
 CEPAR and One Acre Fund-Tubura Sign Landmark	3256
 COMMUNICATION AUTHORITY OF KENYA Acronyms and Abbreviations	6946
 CONTENTS Acronyms	9616,1540
+CONTENTS LIST OF ACRONYMS	11586
 Cameroon’s GDP Across Sectors	10841
 Comparative Analysis Synthesis Across	7966
 Consistently. Across Sub-Saharan Africa	5910
@@ -139,6 +148,7 @@ Cooperation Acronym Description	11218
 Creating Opportunities Across Ghana's Digital Ecosystem	10585
 Creating Opportunities Across Ghana’s Digital Ecosystem	8988
 Critical Enablers Across	7548
+DE REGISTRARS ACREDITADAS	11531
 DEFINITIONS AND ACRONYMS	11298
 DNSSEC Validation Across National Internet	4219
 Debt Dynamics Across Leading Markets Financing	10954
@@ -155,6 +165,7 @@ Energy Across Energy Systems	9635
 Energy Saving Solution Across Western Cape	8112
 Ethiopia Across	6948
 Existing Payments System Infrastructure Across ECOWAS	807
+Expand Access Across Zambia The Ministry	11640
 Expand Cross-Border Payments Across Africa	7539
 Expand Digital Inclusion Across Rural Zambia	6713
 FEDERAL REPUBLIC OF NIGERIA Acronyms and Abbreviations	10157
@@ -176,6 +187,7 @@ I LISTA DE SIGLAS E ACRÓNIMOS	2816
 ID Registration. Across	4439
 ID7. Across	10714
 II ACRONYMS	11261
+INDÍCE ACRÓNIMOS E ABREVIATURAS	11555
 Impact Across Sectors	4625
 Individuals and Businesses Across Africa Wayne Venter	7324
 Institutional Responsibilities Across Government	6442
@@ -183,6 +195,7 @@ Instituto Angolano de Acreditação	11381
 Internet Outage Felt Across East Africa	2677
 Internet Routers Across Africa and Middle East	6678,209,414,23
 Introduction Across	7966
+Investigação Científica ABREVIATURAS E ACRÓNIMOS ADPP-GB	11557
 JOÃO MANUEL GONÇALVES LOURENÇO. Acrónimos Sumário	11394
 KEY STATISTICS Across	5618
 Kenya and Across Africa	5418
@@ -191,6 +204,8 @@ LIST OF ACRONYMS	6000,671
 LIST OF ACRONYMS ADAM AI ANC	4153
 LIST OF ACRONYMS ADM Architecture Development	1009
 LIST OF ACRONYMS Acronym Definition ABIS	5533
+LIST OF ACRONYMS CNE National Election	11586
+LISTA DAS SIGLAS E ACRÓNIMOS	11523
 LISTE DES ACRONYMES	737,3722
 LISTE DES ACRONYMES ASMAB Association	4459
 LISTE DES ACRONYMES ET ABREVIATIONS	10965
@@ -218,6 +233,7 @@ Morocco. Across Africa	5800
 Morten Larsen ABBREVIATIONS AND ACRONYMS	2889
 Moçambique. Acreditamos	2816
 NDICE ACRÓNIMOS	11413
+NDICE LISTA DAS SIGLAS E ACRÓNIMOS	11523
 NDICE LISTA DE SIGLAS E ACRÓNIMOS	2816
 Negotiating Across Institutions AfCFTA	10555
 Network Across Sea	6678,209,414,23
@@ -239,6 +255,7 @@ Payments Across Eastern Africa	3238
 Policy. NATIONAL DIGITAL CLOUD POLICY ACRONYM	10157
 Primary Health Care Services Across	1824
 Projecto Aceleração Digital de Angola Acrónimos	11442
+REGISTRARS ACREDITADOS EM	11531
 Rafael Pardo Ostos ABBREVIATIONS AND ACRONYMS	1264
 Reallocation of Funds Across Disbursement Categories	4653
 Reallocation of Funds Across Subcomponents	4653
@@ -255,12 +272,14 @@ SMARTPHONE OWNERSHIP Across LMIC	11004
 SMARTPHONE OWNERSHIP Across LMICs	11004
 SME SNBS SOMCAS SSA WDI ACRONYMS	11136
 SOO UHC WBG ABBREVIATIONS AND ACRONYMS	11468
+Safety Across	11585
 Scale Infrastructure Financing Across Africa	9803
 Scale Nigeria's Language Model Template Across	8552
 Scale Women-Led Enterprises Across Africa Jordan	5322
 Seeks Full Adoption Across MDAs	8632
 Service Acronym Description	11218
 Signals Recovery Across Core Businesses	7427
+Silvia Coni ABBREVIATIONS AND ACRONYMS AM	11560
 Similar Agreements Across Africa	5163
 Social and Institutional Embeddedness Across	7151
 Staff Trained Across Various Categories	6946
@@ -290,3 +309,5 @@ VI ACRONYMS	1243
 Valor Acrescentado	4203
 Valor Acrescentado Bruto	3421,168,5186
 WB. Acrónimos	11463
+Women’s Empowerment. Across	11586
+Yuri Liman Handem ABBREVIATIONS AND ACRONYMS	11549

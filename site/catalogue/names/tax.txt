@@ -92,9 +92,11 @@ Corporate Income Tax Others Taxes Taxes	10997
 Corporate Tax	1885
 Corporate Tax Haven Index	3279,85
 Cross Border Taxation Technical Committee	573
+Currency Taxes	11563
 Current Telecommunications Taxation Policy	6789
 Customs and Tax	10762
 D. Tax Expenditures	10997
+DOMÍNIOS REGISTADOS VS TAXA DE ATIVOS	11531
 DPI for Tax Administration	3735
 DRC Tax Claims Loom Over U.S.-Backed	5407,676
 Dalila Henache The General Directorate of Taxes	9037
@@ -123,6 +125,7 @@ Directorate of Customs Union and Taxation	10572
 Directorate of Customs Union and Taxation Darlingston Y	10644
 Directorate of Revenue and Taxes	8358
 Do Developing Countries Tax So	1828
+Double Tax Agreement	11685
 Double Tax Agreements	3161,6862
 Double Tax Agreements. ATAF	3161
 Double Taxation Agreements. A DST	3161
@@ -144,6 +147,7 @@ ERS TaxPal	2885
 ERS TaxPal App	3215
 ET TAXES Cette	6954
 ETAT DETAILLE DES TAXES DEDUCTIBLES Cette	6954
+EVOLUÇÃO ANUAL DE TAXA DE PENETRAÇÃO	11531
 EXTERNAL GUIDE TAX REFERENCE NUMBER	11298
 Earnings Before Interest Tax	3898,2202
 Econet Wireless Zimbabwe Deferred Tax Limited	4896
@@ -179,7 +183,7 @@ Finance and Tax Compliance Processes	8670
 Financial Development and Tax Revenue	1828
 Fiscal Cost 9 E. Estimating Cameroon’s Tax	10997
 Fiscal Policy and Tax Reforms	10319
-Foreign Account Tax Compliance Act	6524,1
+Foreign Account Tax Compliance Act	6524,1,5160
 Frontier Model for Tax Revenue	10997
 Fund Profit Before Tax	4896
 GIYH and TaxPal	2885
@@ -189,6 +193,7 @@ GUIDE TAX REFERENCE NUMBER	11298
 GUIDELINES ON THE TAXATION OF VIRTUAL	8590
 General Direcrorate of Taxe and Estates	4992
 General Directorate for Taxes	10812
+General Directorate of Collections and Taxes	11550
 General Directorate of Taxes	477,1365,1819,2290,3086
 General Tax Administration	778,10014
 General Tax Administration Angola	6042
@@ -212,6 +217,8 @@ Heads of Tax Administrations Master Class	7692,1
 Hidden Tax	6735,200
 Hirshabelle's Digital Fix for Somalia's Oldest Tax	7897
 IIMS Taxas	10760
+IMPOSTOS E TAXAS	11532
+IMPOSTOS E TAXAS NA GUINÉ-BISSAU	11532
 INTERNATIONAL TAX STANDARD	11233
 Improving Tax Information Technology	1793,1413,3881
 Income Fiscal Service Tax Tax	236
@@ -270,6 +277,7 @@ Material Scope and Data Classification Taxonomy	3861
 Material U.S. Federal Income Tax Consequences	7198
 Matters Beyond Tax Administration	7786
 Mauritius’ Green Taxonomy	11332
+Metered Taxi	11573
 Million Tax Digitalization Contract	11001
 Minimum Alternative Tax	5247,5381
 Ministry of Revenue. Tax	5655
@@ -327,6 +335,7 @@ Property Taxes	10870
 Província Aprovação Taxas	10766
 Província Taxa de Aprovação Taxa de Reprovação Taxa	10766
 PwC’s Taxing Times Survey	8784
+QUOTA DE MERCADO E TAXA	11531
 Quality Taxation Data	961
 RECOVERY OF TAX Part A General	11181
 REGULAMENTO DAS TAXAS A COBRAR PELA	744
@@ -362,6 +371,7 @@ Single Requests for Tax Reference	11298
 Single Tax Reference Number	11298
 Sistema de Taxas	574
 South African Institution of Taxation	8784
+South African Tax Administration Act	11685
 South Sudan Tax	5347
 Statistical System Effective Administration Tax	10759,78
 Still Highly Volatile Tax Revenue	1828
@@ -385,6 +395,7 @@ TAX TREATMENT	4896
 TAXA BRUTA DE ADMISSÃO	10766
 TAXA BRUTA DE ESCOLARIZAÇÃO	10766
 TAXA DE CONCLUSÃO	10766
+TAXA DE PENETRAÇÃO GLOBAL DE ACESSO	11531
 TAXA DE REPROVAÇÃO	10766
 TAXA DE TRANSIÇÃO	10766
 TAXA LÍQUIDA DE ESCOLARIZAÇÃO	10766
@@ -470,7 +481,7 @@ Tax Justice Network Africa	9162
 Tax Justice Network. The International Consortium	3279,85
 Tax Management Information System	10785
 Tax Mar	2611
-Tax Matters	573,8680,1980
+Tax Matters	573,8680,1980,452
 Tax Mgmt Information System I-7	10785
 Tax Office	10775
 Tax Ombud	10274,907
@@ -517,6 +528,7 @@ Tax Year	11276
 Tax Year'. Available	11133
 Tax and Customs Administrations Expertise France	648
 Tax and Illicit Financial Flows	9162
+Tax and Legal Consultant	11550
 Tax and Non-Tax Procedures	1284
 Tax and Revenue Management System	9253,144
 Tax-administration	7648
@@ -525,6 +537,7 @@ Tax-revenue	4445
 Tax-to-GDP	6385
 Tax-to-GDP Ratio	3955
 TaxClaw.AI	8784
+TaxCore	11666
 TaxDev	1123
 TaxDev III The Institute for Fiscal Studies	1123
 TaxPal	2885
@@ -532,20 +545,29 @@ TaxPro Max	9690
 TaxPro Max and E-services	9690
 TaxTalk	8784
 TaxTim	8784
+Taxa Adicional	11532
+Taxa Bruta	11537
 Taxa EXE	3667
 Taxa Global de Fecundidade	10760
 Taxa Líquida de Frequência	10777
 Taxa Líquida de Frequência Escolar	10777
-Taxa de Cobertura Líquida	11416,5,25
+Taxa de Certidão de Quitação	11532
+Taxa de Cobertura Líquida	11416,5,25,131
 Taxa de Condomínio	11443
+Taxa de Crescimento	11561
 Taxa de Espetro Radioelétrico	1251,831,2330
 Taxa de Execução	3667
+Taxa de Letalidade	11537
 Taxa de Limpeza	5986
 Taxa de Participação	10777
+Taxa de Penetração	11574
+Taxa de Penetração Tabela	11574
+Taxa de Saneamento Taxa	11532
 Taxa de Serviços Casa Cidadão	1340,743,2330
 Taxa de Subcobertura	11421
 Taxar	744
-Taxas	576,168,10022,11,610,43,58
+Taxas	576,168,10022,11,610,43,58,32,12
+Taxas Aplicáveis	11520
 Taxas Brutas de Frequência Escolar	10777
 Taxas Regulatórias	576
 Taxas de Aborto Induzido	10777
@@ -562,7 +584,7 @@ Taxation and Development	1828
 Taxation of Virtual Assets	8826
 Taxe Spécifique Unique	3045
 Taxe de Soutien	3045
-Taxes	236,1582,10,646,301,940,915,50,216,421,338,508,430,121,2925,24,785,408,108,12,21,139
+Taxes	236,1582,10,646,301,940,915,50,216,421,338,508,430,121,2925,24,785,408,108,12,21,139,389
 Taxes Figure	10976
 Taxes Grants Social	10997
 Taxi Association	5666
@@ -596,7 +618,7 @@ Taxpayer Service Centre	10419
 Taxpayer Service Centres	11038
 Taxpayer Support Centre	10762
 Taxpayer-centred	10419
-Taxpayers	4348,101,250,3971,367,1382,762,117
+Taxpayers	4348,101,250,3971,367,1382,762,117,322,90
 Taxpayers Identification	10765,10
 Taxpayers Identification Angola	10775
 Taxpayers. ASYCUDA	10550
@@ -613,6 +635,7 @@ UCC Proposes Major Telecom Tax Cuts	6789
 UILDING A GROWTH-FRIENDLY TAX ENVIRONMENT Name	10762
 UK Tax Consequences	7198
 UN Tax Convention	9162,1173
+US Foreign Account Tax Compliance Act	11685
 Uganda Abandons Social Media Tax	11310
 Uganda Tax	6938
 Under the Income Tax	5247
@@ -630,6 +653,7 @@ Valid Tax Compliance Certificate	9603
 Valuation and Computation of Taxable Gains Taxable	8590
 Value-Added Tax	8670
 Value-Added Tax Act	11181,82
+Value-Added Tax Code	11550
 Value-Added Tax and Growth	10997
 Vehicle and Fuel Taxation for Transport Demand Management	10997
 Virtual Asset Taxation	9570

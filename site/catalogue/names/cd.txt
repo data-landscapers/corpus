@@ -1,3 +1,4 @@
+ABBREVIATIONS AND ACRONYMS CDD Community	11525
 ACK Kanyuambora CDC Data Processor INST-452908B42CB	7167
 ACK Mugumo CDC Data Controller INST-372452BCCC8	7167
 ACK ST CLEMENT CHILD DEVELOPMENT CDC	7167
@@ -6,6 +7,7 @@ ACK ST. ANDREWS SIMENYA CDC Data	7167
 ACK ST. EMMUTSA CDC Data Controller	7167
 ACK St. James Nguruka CDC Data	7167
 ACK St. John's Kabuku CDC Data	7167
+AI-based CDSS	11578
 AIC GITUTHA CDC Data Controller INST-700606725FA	7167
 AIC KARARE CDC Data Controller INST-1595022B272	7167
 AIC KATUMANI CDC Data Processor INST-854872AFE10	7167
@@ -21,7 +23,7 @@ Ack St. Johns Agulu Cdc Data	7167
 Ack St. Peter's Maraba CDC Data	7167
 Ack St. Stephens Rawa CDC Data	7167
 Act. Babatunde Bamigboye Esq. CDPRP Head	3226
-Africa CDC	560,2118,2104,359,62,10,165,78,455,426,158,502,710,1497,514,251,200,308,169,130
+Africa CDC	560,2118,2104,359,62,10,165,78,455,426,158,502,710,1497,514,251,200,308,169,130,814,89
 Africa CDC Chief Digital Advisor Nsengimana	5378
 Africa CDC Continental Health Data Governance	6794
 Africa CDC DG Jean Kaseya	5213
@@ -112,6 +114,7 @@ CDS Gen. Thomas Oppong-Peprah	10523
 CDS Solutions	9533
 CDS and Fawry	9533
 CDSP Ill Beneficiaries Feature Animations Documentaries	9781
+CDSS-style	11578
 CDTable	10714
 CDigital	5700
 CDncession	37
@@ -131,6 +134,7 @@ Chief Director CDC Coega Development Corporation	11261
 Chimkwita CDF	3035,253,61,689,520,84,1026,364,224,297
 Climate Change Funds CDMA Code Division	2775
 Committee for Standardization CDA Community Health Centre	1009
+Cooperation and CDmmunlties	11517
 Corporation CDR Crude Death Rate CECM	2775
 DPrroRf..TW. M. Masaegkwesaa Air Cdre ProfP.rWof	1154
 Deliverance Church Olmoran CDC Data Processor	7167
@@ -154,6 +158,8 @@ High Court. Africa CDC	5456
 Impossible Position Africa CDC Director-General Jean	5456
 Included CD	34
 Industry Group CDF FIG INR MAS	11469
+LLM CDSS	11578
+LLM-based CDSS	11578,7
 La CDC-CI	4549
 La CDHC	9512
 La CDN	8891
@@ -184,6 +190,7 @@ RFC5646 HL7 CDA R2 ISO2260 PDF	1009
 Recovery Account CD Chief Director DAC	11218
 Reformed CDF	6754,1821,92
 Related Posts CDPI	9804
+Results The AI-enabled CDSS	11578
 Selection and Land Allocation Policy CD	11261
 Selon la CDHC	9512
 Senegal’s CDP	5363

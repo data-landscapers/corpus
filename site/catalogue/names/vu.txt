@@ -16,6 +16,7 @@ CONSEIL NATIONAL DE LA TRANSITION Vu	113
 Climate Change Risks and Vulnerabilities	10829
 Comportements Que Je N'ai Jamais Vus	4960,62,2035
 Cyber Vulnerabilities Recent	2117
+D IO N S S Vu	11522
 DONT LA TENEUR SUIT VU	4420
 DROUGHT VULN4ERABILITY HOTSPOTS BY LIVELIHOOD ZONES	10763
 DROUGHT VULNERABILITY HOTSPOTS BY LIVELIHOOD ZONES	10763
@@ -112,6 +113,7 @@ VUCA World	7444
 VUKELIĆ PAVLINOVIĆ	6613
 VULA Virtual Unbundled Local Access WBG	1818
 VULNERABILIDADE A MUDANÇAS CLIMÁTICAS	11390
+VULNERABILITY	11586
 VUSANI	6613
 VUT's Department of Tourism and Integrated Communication	10082
 Voice Vox Limited Iberdrola Vulcable Igi	8530
@@ -119,10 +121,11 @@ Vu Hai Quan	9377
 Vu Quang Viet	236
 Vu Vu Vu Vu Vu Vu	1837
 Vu la Charte	113,1688
-Vu la Constitution	17,20,197,74,3,237,187,451,45,1394,1778,18,2168,563,194,124,1720,1705,1,1,1,5,1,1,76
+Vu la Constitution	17,20,197,74,3,237,187,451,45,1394,1778,18,2168,563,194,124,1720,1705,1,1,1,5,1,1,76,599,66
 Vu la Convention	547,3,18,20
-Vu la Directive	548
-Vu la Loi	1214,1411,8211
+Vu la Directive	548,10974
+Vu la Décision	11567
+Vu la Loi	1214,1411,8211,686,45
 Vu la Loi L	234
 Vu la Loi N	7470
 Vu la Loi Organique	2625
@@ -132,9 +135,9 @@ Vu le Décret	547,3,18,20,2037
 Vu le Décret D	234
 Vu le Décret N	7470
 Vu le Décret-loi	547,3,18,20
-Vu le Règlement	10836
+Vu le Règlement	10836,686
 Vu le Règlement Intérieur	547,3,18,20
-Vu le Traité	10836
+Vu le Traité	10836,686,45
 Vuka Africa	4235
 Vuka Africa Ltd	4235
 Vuka Africa Ltd Privacy	4235
@@ -149,9 +152,9 @@ Vulgar Ad	4790
 Vulgariser	10858,107
 Vulgariser le Mécanisme de Gestion des Plaintes	10876
 Vulindlela	5922,2857
-Vulnerabilidade	11362
+Vulnerabilidade	11362,207
 Vulnerabilities	8897,719
-Vulnerability	940,2490,3836,1857,5,644,949,120,315
+Vulnerability	940,2490,3836,1857,5,644,949,120,315,369
 Vulnerability Assessment	1000
 Vulnerability Assessment Framework and Checklist	1000
 Vulnerability Assessment Vulnerability	1000
@@ -159,7 +162,7 @@ Vulnerability Assessment and Penetration Testing	10721
 Vulnerability Management	5665
 Vulnerability and Readiness	969
 Vulnerability and Readiness Country Index	2889
-Vulnerable	1778,210,2269,6506,201,273
+Vulnerable	1778,210,2269,6506,201,273,344
 Vulnerable Demographics Dependency	10763
 Vulnerable Families	10763,5
 Vulnerable Groups	1778

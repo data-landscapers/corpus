@@ -15,6 +15,7 @@ Association of Parliamentary Librarians	8090
 Assuntos Parlamentares	4435,1583,3253
 Azerbaijani Member of Parliament Parvana Valiyeva	11285
 Bi-annually Briefing of Parliament Committee	958
+Botswana Parliament	11748
 Botswana’s Parliament	4583
 CIO Africa Members of Parliament	8050
 CONSIDERATION OF DEPLOYMENT LETTERS Parliament’s JSCD	11289
@@ -22,6 +23,7 @@ CUSTODIAN Ministry of Justice House of Parliament Presidency	1161
 Cabinet Directive and Parliamentary Ratification	1655
 Cabinet and Parliament	5450,2042,3642
 Cabinet and Parliamentary	4528
+Caisse Autonome de Retraite Parlementaire	11597
 Cape Town Division Library of Parliament	11237,21,28
 Chad’s Parliament	343,18
 Chairperson of Parliament's Committee	7874
@@ -158,7 +160,7 @@ Pan-African Parliament	8012,3,1176
 Pan-African Parliament Signals	8012
 Parlamentares	10750,612
 Parlamentarios	4209
-Parlamento	1701,2508,1258,1380,271,1190,211,139,117
+Parlamento	1701,2508,1258,1380,271,1190,211,139,117,2787,20
 Parlamento Consejo Sup. PJ Constitucional Vocales	4209
 Parlamento Europeu	2816
 Parlamento Informático	4209
@@ -185,7 +187,7 @@ Parlamento. Este	8179
 Parlamento. Segundo	8519
 Parlamentos	539
 Parlant	2966,4668
-Parlement	17,291,427,496,357,402,73,675,104,264,85,135,70,310,110,20,326,69,110,22,4,54,657,39,6,944,128,547,521,43,149,1070,362,4,433,474,287,306,56,567,175,10,2,62
+Parlement	17,291,427,496,357,402,73,675,104,264,85,135,70,310,110,20,326,69,110,22,4,54,657,39,6,944,128,547,521,43,149,1070,362,4,433,474,287,306,56,567,175,10,2,62,375
 Parlement Avec	10576
 Parlement des Jeunes du Bénin	10089
 Parlement. Invité	2738
@@ -195,7 +197,7 @@ Parler	10354
 Parlez-nous de CITADEL	2732
 Parlez-nous de VaulFi	5159
 Parliame	5533
-Parliament	11,11,5,209,79,272,57,125,20,164,5,12,2,24,29,64,61,41,19,11,51,11,74,178,58,44,18,49,42,64,1,5,22,33,57,71,77,41,190,60,49,12,84,59,5,50,10,43,57,131,79,69,20,16,21,104,6,74,32,2,59,11,144,63,16,32,99,88,14,12,5,13,1,11,3,8,11,7,37,114,24,38,14,12,1,47,85,147,15,107,6,24,25,50,9,11,100,48,46,178,3,40,2,38,34,102,84,10,37,45,2,28,6,77,3,1,54,29,11,37,164,9,10,21,26,37,74,12,9,2,224,49,82,19,16,41,48,1,41,35,166,33,29,17,88,15,13,51,96,168,30,70,8,32,8,39,97,8,1,12,81,45,17,27,1,15,1,1,64,21,13,19,12,46,52,23,5,2,1,80,66,4,4,41,62,8,88,3,28,35,1,30,13,16,51,50,6,73,7,19,41,1,1,119,42,13,10,7,14,13,15,98,3,5,14,25,5,2,75,12,1,13,5,9,98,24,34,40,38,11,57,40,94,115,63,26,52,2,3,101,2,23,42,14,24,147,20,50,31,21,38,49,67,81,4,3,15,140,78,84,47,25,39,30,16,3,2,40,1,1,1,2,1,7,9,1,2,23,6,6,1,10,3,6,7,1,6,2,2,5,1,5,4,14,40,121
+Parliament	11,11,5,209,79,272,57,125,20,164,5,12,2,24,29,64,61,41,19,11,51,11,74,178,58,44,18,49,42,64,1,5,22,33,57,71,77,41,190,60,49,12,84,59,5,50,10,43,57,131,79,69,20,16,21,104,6,74,32,2,59,11,144,63,16,32,99,88,14,12,5,13,1,11,3,8,11,7,37,114,24,38,14,12,1,47,85,147,15,107,6,24,25,50,9,11,100,48,46,178,3,40,2,38,34,102,84,10,37,45,2,28,6,77,3,1,54,29,11,37,164,9,10,21,26,37,74,12,9,2,224,49,82,19,16,41,48,1,41,35,166,33,29,17,88,15,13,51,96,168,30,70,8,32,8,39,97,8,1,12,81,45,17,27,1,15,1,1,64,21,13,19,12,46,52,23,5,2,1,80,66,4,4,41,62,8,88,3,28,35,1,30,13,16,51,50,6,73,7,19,41,1,1,119,42,13,10,7,14,13,15,98,3,5,14,25,5,2,75,12,1,13,5,9,98,24,34,40,38,11,57,40,94,115,63,26,52,2,3,101,2,23,42,14,24,147,20,50,31,21,38,49,67,81,4,3,15,140,78,84,47,25,39,30,16,3,2,40,1,1,1,2,1,7,9,1,2,23,6,6,1,10,3,6,7,1,6,2,2,5,1,5,4,14,40,121,72,15,100,33
 Parliament Approves Draft Law	5674
 Parliament B	5533
 Parliament Building	5386
@@ -336,6 +338,7 @@ REGULATION OF THE EUROPEAN PARLIAMENT	6476,1
 REPORT OF THE AUDITOR-GENERAL TO PARLIAMENT	11218
 REPUBLIC OF KENYA THIRTEENTH PARLIAMENT NATIONAL	10313
 Representación Parlamentaria	4209
+Retraite Parlementaire	11597
 Review Parliamentary Digital Tools	9203
 Review and Amend the Parliamentary Villages Management Board	11285
 Rondebosch and Parliamentary Villages	11285
@@ -359,6 +362,7 @@ Somali Parliament	4810
 South Africa's Parliament	11303
 South Sudan Parliamentary Network	7749
 Speaker of Parliament	5935,11,3175
+Speaker of Parliament Hon. Segepoh Solomon Thomas	11651
 Speaker of Parliament Segepoh Solomon Thomas	9096
 THIRTY-EIGHTH ACT OF THE PARLIAMENT	587
 TOR Terms of Reference TPTTP Taking Parliament	11197

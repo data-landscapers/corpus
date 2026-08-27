@@ -16,6 +16,7 @@ Autonome de Gestion des Dettes CCE	10876
 Autorité de Gestion des Réparations	8237
 BONDOUKOU MANGANÈSE SA Gestion	2342
 BONIKRO GOLD MINE Gestion	2342
+BPM Gestão	11555
 Bestuurde Gesondheidssorg Organisasies	11255
 CAPÍTULO II GESTÃO E COORDENAÇÃO	10754
 CAPÍTULO II Gestão	2866
@@ -32,6 +33,7 @@ Cellule de Gestion	10712
 Champions Gestion	2342
 Champions Opportunité de Gestion	2342
 Comissão de Gestão	167
+Comissões de Gestão	11514
 Comité Sous-préfectoral de Gestion Foncière Rurale	10936
 Comité de Gestion des Etablissements Scolaires CE1	10847
 Commissions de Gestion Foncière	10876
@@ -44,6 +46,7 @@ Consultor de Gestão	10551
 Controlo de Gestão	11435
 Contrôle de Gestion	10975
 Contrôleur de Gestion CIDN	10975
+Criação de Miniestruturas de Gestão	11561
 CÔTE D’IVOIRE ENGINEERING Gestion Patrimoniale	2342
 D. G. GESTION ADMINISTRATIVA Y RECURSOS	4209
 D.G GEST. Y CONTR. INFRAESTR. DISTRIB	4209
@@ -59,10 +62,12 @@ DE LA GESTION PRESUPUESTARIA	4209
 DE L’AGENCE DE GESTION DU FONDS	7925
 DELEG. TRAFICO GESTIÓN DE GOBIERNOS GOBIERNOS	4209
 DESENVOLVIMENTO DA INFRA-ESTRUTURA DE GESTÃO	11397
+Da Gestão da Terra	11514
+Das Entidades Gestoras	11514
 Departamento de Gestão	167
 Departamento de Gestão de Infra-Estruturas Tecnológicas	11382
 Detailed Gescmotice	3972
-Deutsche Gesellschaft	1099,162,553,89,1701,107,2549,907,719,660,439,37,243,205,641,2,599,252,6,186,151
+Deutsche Gesellschaft	1099,162,553,89,1701,107,2549,907,719,660,439,37,243,205,641,2,599,252,6,186,151,265
 Deutschen Gesellschaft	11316
 Directrizes de Gestão de Riscos	6462
 ET DE GESTION DES RISQUES	2342
@@ -87,7 +92,8 @@ GESCOM	10024
 GESD Citizen Engagement Committee	6754,1680
 GESD Citizen Engagement Committee Willy Kambwandira	8434
 GESD Project	6754,1645
-GESTDOC	6530,41
+GESTDOC	6530,41,4994,1
+GESTDOC. Da Guiné-Bissau	11566
 GESTION	2959,7853
 GESTION DES CRISES	10906
 GESTION DES RISQUES	2342
@@ -95,18 +101,22 @@ GESTION DES RISQUES OPERATIONNELS INHERENTS AUX	10836
 GESTION DU PORTEFEUILLE EN	2342
 GESTIÓN ESTRATÉGICA DE DESARROLLO SOSTENIBLE	1701
 GESTIÓN ESTRATÉGICA DE DESARROLLO SOSTENIBLE IV	1701
+GESTOC	11569
 GESTOCI	2342
 GESTOCI En	2342
 GESTOR DE INFRAESTRUCTURAS DE TELECOMUNICACIONES	3179
 GESTÃO DE INCENTIVOS	10769
+GESTÃO DE NOMES DE DOMÍNIO	11531
 GESTÃO DE PESSOAL	4218
 GESTÃO DE RISCO	10755
+GESTÃO DO ESPECTRO RADIOELÉTRICO	11531
 GESTÃO DOS RISCOS E IMPACTOS AMBIENTAIS	11390
+GESTÃO E CONTROLO DE TRÁFEGO	11531
 GESTÃO E EXPLORAÇÃO DOS POLOS	11443
 GESTÃO ECONÓMICA	167
 GESTÃO FINANCEIRA E PATRIMONIAL	4218
 GIZ Deutsche Gesellschaft	8985
-Gabinete de Gestão	5405,6000,23,9
+Gabinete de Gestão	5405,6000,23,9,132
 Gabinete de Gestão Espacial Nacional. Assegurou	10366
 Geschwind	11133,9
 Gesco-Attinguié	2342
@@ -117,7 +127,7 @@ Gest-exo	3674
 Gestao	574
 Gestao de Contas	570
 Gestao de Receitas	574
-Gestion	12,198,25,408,94,11,250,7,180,85,379,344,349,473,352,102,127,23,263,643,671,374,678,115,664,56,76,696,262,352,118,120,384,158,795,180,248,247,192,1,109,37,16,2,37,12,50,164
+Gestion	12,198,25,408,94,11,250,7,180,85,379,344,349,473,352,102,127,23,263,643,671,374,678,115,664,56,76,696,262,352,118,120,384,158,795,180,248,247,192,1,109,37,16,2,37,12,50,164,585
 Gestion Axée	10712,164
 Gestion Barrages	3396
 Gestion Bois	3396
@@ -188,8 +198,9 @@ Gestores	11436
 Gestores da Saúde	11453
 Gestores de Componente	11390
 Gestores de Informação Científica	8000
+Gestores de TI	11555
 Gestual	10777
-Gestão	13,154,247,925,1,741,2,733,851,551,56,1169,1019,508,3782,2,1,22,3,3,578,9,1,12,13,1,9,7,2,10,10,3,3,2,5,8,5
+Gestão	13,154,247,925,1,741,2,733,851,551,56,1169,1019,508,3782,2,1,22,3,3,578,9,1,12,13,1,9,7,2,10,10,3,3,2,5,8,5,62,4,4,11,13
 Gestão A&S	11406
 Gestão Adaptativa	11437
 Gestão Autárquica	9403
@@ -198,27 +209,35 @@ Gestão Comercial	10614
 Gestão D G P J Direção	6530
 Gestão Documental	11371
 Gestão Económica	2866
+Gestão Eleitoral Guineense	11561
 Gestão Informática	10614
 Gestão Informática Administração Local	10614
 Gestão Moderna de Repositórios	8000
+Gestão Sustentável de Recursos Naturais Vivos Relevante	11542
 Gestão da Acção Social	10763,5
 Gestão da BDCM	11425
-Gestão da Educação	10766
+Gestão da Educação	10766,757
+Gestão da Educação SINAPROF Sindicato Nacional	11557
 Gestão da Educação Secretaria Provincial da Educação Taxa	10766
 Gestão da Educação da Nigéria Digital	11454
 Gestão da Formação	11444
+Gestão da Implementação	11543
 Gestão da Mudança	11394
+Gestão da Poluição Relevante Os	11542
 Gestão de Acidente	10747
 Gestão de Cadastro de Veículos Motorizados	11435
 Gestão de Dados	549
 Gestão de Dados da ANPG	11405
 Gestão de Data Centers	5319
+Gestão de Eleições Legislativas Antecipadas	11561
 Gestão de Finanças Públicas GRS Grievance Redress	11390
 Gestão de Identidade Electrónica	7466
 Gestão de Incidentes	2784
 Gestão de Incumprimentos de Liquidação	10755
+Gestão de Informação Sanitária	11569
 Gestão de Projectos	8000,3390,50,1
 Gestão de Projectos de IA	2816
+Gestão de Qualidade de Serviço	11531
 Gestão de Reclamações	11386
 Gestão de Recursos Humanos	10614
 Gestão de Recursos Naturais	2816
@@ -227,9 +246,11 @@ Gestão de Resíduos Hospitalares	11390
 Gestão de Resíduos Urbanos	11390
 Gestão de Risco	11438
 Gestão de Risco da Cadeia de Suplementos	2784
+Gestão de Riscos	11542
 Gestão de Segurança	10747
 Gestão de Transmissão	11435
 Gouvernement du Bénin GRH Gestion des Ressources Humaines	10876
+Guiné-Bissau. O GESTDOC	11566
 HIRE GOLD MINE Gestion	2342
 Horn of Africa Deutsche Gesellschaft	886
 Hydrocarbures PASP SIPF GESTOCI SITARAIL PETROCI	2342
@@ -239,6 +260,7 @@ III- GESTION DU PORTEFEUILLE EN	2342
 III.1 Gestion	10922
 III.2.4 Caisse Autonome de Gestion des Dettes	10876
 INDUSTRIAL PROMOTION SERVICES Gestion Patrimoniale	2342
+IQbusiness Geshidocon	11768
 IV. SISTEMAS DE GESTIÓN ESTRATÉGICA	1701
 IV.1.1 Gestion	10876
 IV.1.1.10 Gestion	10876
@@ -253,6 +275,7 @@ Industrias Creativas Ejes Estratégicos Sistemas de Gestión	1701
 Information Gestion	2342
 Instituto Nacional de Gestão	9484
 Instituto Nacional de Gestão de Bolsas de Estudo	11391,81
+Instituto Superior de Gestão	11552
 Instituto de Gestão de Activos	11457
 Instituto de Gestão de Ativos	10779
 Instrumentos de Gestão	4218
@@ -314,23 +337,29 @@ PROCEDURES ADMINISTRATIVES IV.1.1 Gestion	10876
 Paweł Gesek	6423
 Pelos Serviços Locais da Entidade Gestora da Protecção	11433
 Plan de Gestion Environnementale	1005
-Plano de Gestão Ambiental	11406
+Plano de Gestão Ambiental	11406,136
 Plataforma Nacional de Gestión Minera	9303
 Plataforma de Gestão	11480
 Plataforma de Gestão Integrada da Identificação Civil	180,40,10545,10
 Política Nacional de Gestão	11448
 Predecessor GESD	5620
 Princípios de Gestão	167
+Procedimentos de Gestão da Mão-de- Obra	11542
+Procedimentos de Gestão da Mão-de- Trabalho	11542
 Procedimentos de Gestão de Mão-de-Obra	11406
 Progiciel Intégré de Gestion	1993
 Programa Nacional de Gestão Ambiental	11390
 Project Deutsche Gesellschaft	672
 Projecto Nº P178040 QUADRO DE GESTÃO	11390
+Projeto GESTOC	11569
 Protocolo Nacional de Gestão Integrada da Desnutrição Aguda	10777
 Proyecto de Gestión	4209
 Proyecto de Plan de Gestión	4209
+Public Disclosure Authorized Quadro de Gestão Ambiental	11542
 QGAS Quadro de Gestão Ambiental	11390
-Quadro de Gestão Ambiental	11390
+QGAS. QUADRO INSTITUCIONAL PARA A GESTÃO	11542
+QUADRO DE GESTÃO AMBIENTAL E SOCIAL	11542
+Quadro de Gestão Ambiental	11390,152
 R.2.3 Programa de Gestão	11376
 RAPPORT ANNUEL SUR LA GESTION	2342
 REGLES DE GESTION	10876
@@ -374,7 +403,7 @@ Sistema Integrado de Gestão Tributária SPFT	11435
 Sistema Integrado de Gestão de Assentos	2688
 Sistema Integrado de Gestão de Património	10768
 Sistema Integrado de Informação de Gestão	10763
-Sistema Integral de Gestión de Funcionarios	5111,183
+Sistema Integral de Gestión de Funcionarios	5111,183,6449
 Sistema Nacional Integrado de Gestão Hospitalar	11394,67
 Sistema Nacional de Gestao Documental	570
 Sistema Nacional de Gestão Documental	2434

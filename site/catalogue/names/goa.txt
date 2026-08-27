@@ -2,6 +2,7 @@ Academy SDG Sustainable Development Goal SME	4126
 Achieve the Goals of Agenda	8012,3,3268
 Achieving Digital Inclusion Goals	2677
 Affordable and Clean Energy Goal	11332
+Africa SDG Sustainable Development Goals UEMO	11586
 Agenda of Sustainable Development Goals	1824
 Aligning Financial Inclusion Policy Goals	2193
 Basics Approach Goal	11188
@@ -19,8 +20,10 @@ Definition Workstreams Possible Actors Goal Build	899
 Definition Workstreams Possible Actors Goal Transform	899
 Description Goals	1155
 Description The Sustainable Development Goal	377
+Development Goal SDI Service Delivery Indicator	11560
+Development Goal SEA	11549
 Development Goal TAPED Trade Agreements Provisions	1243
-Development Goals	1988
+Development Goals	1988,9562
 Development Goals SIDA Swedish International	1814
 Development Goals SPI Statistical Performance Indicator	4214
 Development Goals Science Granting Councils Initiative	1154
@@ -75,7 +78,8 @@ Life Below Water Goal	11332
 MULTIDIMENSIONAL FOCUS ON IMPACTS DEVELOPMENT GOALS	10852
 Mbps. Goal	10072
 Millenium Development Goals	5822
-Millennium Development Goals	10829
+Millennium Development Goals	10829,696
+Monitoring and Evaluation MDG Millennium Development Goal	11525
 NCSS Vision and Strategic Goals	1000
 Objectives and Goals of Street Addressing	11129
 Official Use Only Overarching Goal	11469
@@ -91,6 +95,7 @@ Reduced Inequalities Goal	11332
 Refugee Affairs SDG Sustainable Developmental Goals	5533
 Related Sustainable Development Goals	8943
 Responsible Consumption and Production Goal	11332
+SDG Sustainable Development Goal SIDS	11572
 SDG Sustainable Development Goals Figure	582
 SDGs Sustainable Development Goals M&E Monitoring	396
 SDGs Sustainable Development Goals SME Small	7548
@@ -107,8 +112,8 @@ Strategic Goal	1000,3301
 Strategic Goals	1000,2487
 Strategic Goals Objective	1000
 Sustainable Cities and Communities Goal	11332
-Sustainable Development Goal	718,52,473,624,121,690,680,225,1208,657,2838,750,84,19,943,241,453,36,7,12,311
-Sustainable Development Goals	309,13,74,124,62,95,89,23,151,18,3,8,1,161,30,35,65,474,79,14,749,101,97,183,47,171,35,372,21,9,147,101,185,80,304,98,718,104,183,122,45,103,19,61,411,42,1,1,136,464,304,390,795,104,412,2,116,487,160,19,28,31,289,113,125,401,4,58,4,32,7,10,2,9,125,41,127,22,38,2,15,14,13,28,24,43,24
+Sustainable Development Goal	718,52,473,624,121,690,680,225,1208,657,2838,750,84,19,943,241,453,36,7,12,311,430
+Sustainable Development Goals	309,13,74,124,62,95,89,23,151,18,3,8,1,161,30,35,65,474,79,14,749,101,97,183,47,171,35,372,21,9,147,101,185,80,304,98,718,104,183,122,45,103,19,61,411,42,1,1,136,464,304,390,795,104,412,2,116,487,160,19,28,31,289,113,125,401,4,58,4,32,7,10,2,9,125,41,127,22,38,2,15,14,13,28,24,43,24,169,11,16,29,4,1
 Sustainable Development Goals Goal	11332
 Sustainable Development Goals In the UN General	11193
 Sustainable Development Goals Perfonnance Fund	4349

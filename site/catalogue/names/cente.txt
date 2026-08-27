@@ -14,6 +14,7 @@ AI Center	8222
 AI Center of Excellence	3711,1362
 AI Community Center	2209,1135,3586
 AI Research Centers	1363
+AI and Data Centers Eng. Raafat Hindi	11738
 AI-powered Health Intelligence Center	4781
 AI. Center for Strategic and International Studies	11135
 AIC Katheka Health Center Data Controller	7167
@@ -100,12 +101,13 @@ BOENSUMMIT MEDICAL CENTER Data Controller INST-717793258B3	7167
 BONYANCHA PREMIER MEDICAL CENTER Data Controller	7167
 BREEZE VALLEY MEDICAL CENTER Data Processor	7167
 BRICS AI Center	3599
-Backup Data Center	11317
+Backup Data Center	11317,392
 Beacon of Transformative and Inclusive Development Center	6770
 Belfer Center	6471
 Beyond the National Data Center	4925
 Big Data Center	4758
 Bingu International Convention Center	6052,3768
+Biometric Document Production Center	11535
 Bloomberg and Data Center Dynamics	6266
 BluePeak Medical Center Data Controller INST-70096884DE1	7167
 Brazilian Network Information Center	5615
@@ -161,6 +163,7 @@ CURESPRINGS MEDICAL CENTER LIMITED Data Controller	7167
 CUSTOM MEDICAL CENTER LTD Data Processor	7167
 Call Center	235,2581,7934,25,200
 Call Center Service License	762
+Call Center The NTRA	11642
 Camama. Os Data Centers	11317
 Canadian Police Information Center	10979
 Card Production Centers	10812
@@ -190,7 +193,7 @@ Centenary Sacco Society Limited Data Controller	7167
 Centenary Technology Services	3693,4182
 Centenary Technology Services CEO	3423
 Centenary Technology Services' Chief Executive	3693
-Center	87,824,2047,334,117,27,1181,1334,706,806,759,860,41,161,1430,51,10,77,124,441
+Center	87,824,2047,334,117,27,1181,1334,706,806,759,860,41,161,1430,51,10,77,124,441,169
 Center Africa	6938
 Center Computer Security Incident Response Team	4653
 Center Deal Doha Dubai	5322
@@ -204,6 +207,7 @@ Center Revenue	3184,1,1340,6470
 Center for A New American Security	5257
 Center for AI Standards and Innovation	8788
 Center for AI and Digital Policy	7678
+Center for Access	11541
 Center for Africa Policy Research and Advisory	8264
 Center for Data Innovation	1243,3508
 Center for Democracy	8692
@@ -232,6 +236,7 @@ Center for Journalism and Liberty	5700
 Center for Media Studies and Peacebuilding	5244
 Center for Media Studies and Peacebuilding CERT	5244
 Center for Multiparty Democracy	9645
+Center for Peace	11682
 Center for Promotion of Exports	6175
 Center for Public Health and Development Data Controller	7167
 Center for Reproductive Rights Africa Regional Office	7167
@@ -263,6 +268,7 @@ Chile's National Center for Artificial Intelligence	7151
 China-Africa Digital Technology Cooperation Center	11318
 China-BRICS AI Development and Cooperation Center	11135
 China-Zimbabwe Exchange Center	11302
+City Center	11546
 Civic Center	7444
 Civic Event Center	2807,4
 Civil Servants Training Center	3604
@@ -286,7 +292,7 @@ Cost Ratio Center	11417
 County Emergency Operation Centers	4153
 County Service Centers	10346
 Cultivating the Existing Data Center	1795,1413,3881
-Cybersecurity Center of Excellence	11464
+Cybersecurity Center of Excellence	11464,211
 DATA CENTER	1005
 DATA CENTER BUILD	10861
 DATA CENTER EURASIA	2339
@@ -310,7 +316,7 @@ DISTRIBUTION OF DATA CENTER FACILITIES	10861
 DIVINE BIRTH MIDWIFERY CENTER LIMITED Data	7167
 DORK MEDICAL CENTER ANNEX LIMITED Data	7167
 DUPOINT MEDICAL CENTER LIMITED Data Controller	7167
-Data Center	181,9,2076,4,178,66,301,6,14,52,51,22,165,53,136,20,75,77,196,422,12,77,88,390,108,146,319,501,48,161,20,5,1,7,388,44,336,276,431,1029,379,253,102,573,1135,384,72,32,25
+Data Center	181,9,2076,4,178,66,301,6,14,52,51,22,165,53,136,20,75,77,196,422,12,77,88,390,108,146,319,501,48,161,20,5,1,7,388,44,336,276,431,1029,379,253,102,573,1135,384,72,32,25,131,132
 Data Center Backup	11389
 Data Center Cabling Pathways Datacenter	9123
 Data Center Cabling Systems Introduction Structure	9123
@@ -411,6 +417,8 @@ Ghana. XALAM DATA CENTER MARKET BRIEFING	3184
 Global Center	3654,76,1004,568,965,336,283,347,355,1176,1125,1259
 Global Center for AI Governance	7588
 Global Center for AI Governance and CSIS Africa	7588
+Global Center for Rehumanizing Democracy	11682
+Global Center for Rehumanizing Democracy. Patrice Habinshuti	11682
 Global Data Center Markets	11310
 Global Engagement Center	528
 Global North. The Georgetown Beeck Center	7921
@@ -429,6 +437,7 @@ Harvard Kennedy School Ash Center for Democratic	5700
 Harvard Kennedy School’s Ash Center Policy	5700
 Hassan Allam Digital Infrastructure and Data Center	4496,2182
 HathiTrust Research Center	7313
+Health Center	11653
 Health Center Head	977
 Health Centers	10775
 Health Centers CTID Intermediary Data Processing	10812
@@ -522,6 +531,7 @@ NIGERIA DATA CENTER MARKET BRIEFING	4525
 NOC Network Operation Center	1000
 NPF National Cybercrime Center	8662
 NYU Stern Center for Business	42
+National Center	11535
 National Center for Digital Investigation	9166
 National Center for Digital Investigations	3214
 National Center for Research	4032
@@ -530,7 +540,7 @@ National Civil Service Testing Center	9211
 National Cloud Data Center	359
 National Computer Center	2578
 National Computer Emergency Response Center	7538
-National Cybersecurity Operations Center	11464
+National Cybersecurity Operations Center	11464,211
 National Data Cente	483
 National Data Center	1694,533,573,609,1139,377,319,1392,274,406,3545,605
 National Data Center Construction	2800
@@ -552,6 +562,7 @@ National Integrated Big Data Center Collaborative	5242
 National Internet Data Center	9149
 National Laboratory Equipment Calibration Center	4301
 National Production Center	10775
+National Telemedicine Center	11586
 National Trade Register Center	2542
 Network Equipment for Data Center TBA TBA	1988
 Network Operating Center	8322
@@ -571,7 +582,7 @@ One-Stop-Shop Service Centers- The Ministry	10346
 Operation Center	1000
 Operation of Data Center	9123
 Optimisation du Data Center	1285
-Orange Digital Center	1232,1173,2290,1436,198,695,610
+Orange Digital Center	1232,1173,2290,1436,198,695,610,3935
 Orange Digital Center Burkina Faso	7024
 Orange Digital Center Mercredi	4695
 Orange Digital Center Morocco	6509
@@ -630,7 +641,7 @@ SADC Pooled Procurement Center	4260
 Scale Centers	2420
 SecOps. The Academic Security Operation Center	11077
 Sectoral Center for Vigilance	6657
-Sectoral Cybersecurity Operations Centers	11464
+Sectoral Cybersecurity Operations Centers	11464,211
 Secure National Data Center Ahead of Launch	4926
 Security Operation Center	6237
 Security Operations Center	1777,2066,2989,888,3001
@@ -644,6 +655,7 @@ Southern African Research and Documentation Center	11302
 Southern Center for Inequality Studies	8515
 Stanford University’s Cyber Policy Center	6517
 Start-up Incubating Center and Makerspace	698
+Strengthen Botswana's Health Sector Media Center	11748
 Suez Canal Economic Zone. Data Center	10380
 Swiss Center for International Health	10919
 Switching Centers	10721

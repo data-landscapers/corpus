@@ -62,7 +62,9 @@ Crown Point Dental Care Data Processor	7167
 DATA POINT	7167
 DESIGNATED POINT OF CONTACT REPORTING OBLIGATIONS	11190
 DIF Digital Investment Facility POP Point	3184,1,1340,6470
+Demerit Points System	11774
 Digital Access Points Operators	10856
+Digital Economy Focal Points	11545
 ECOWAS National Focal Points	10508
 ESTABLISHING NATIONWIDE MONITORING POINTS	1000
 Eco Point Office Park	6891
@@ -99,13 +101,16 @@ II Points	8891
 II- Points	8891
 ISP Point of Presence	2913
 ISPs Point of Presence	3862
+IXP Internet Exchange Point KCL Knowledge	11552
+Institut de Sondage Les Points	11592
 Integration Points	5665
 International Signalling Point	6946
 Internet Exchange Point	762,2705,1081,67,1178,1407,28,3278
 Internet Exchange Point Emerging Technologies	7548
 Internet Exchange Point LTE	958
+Internet Exchange Point Locations	11609
 Internet Exchange Point of Nigeria	2754,4575,1298
-Internet Exchange Points	1264,1467,823,324,1798,4,232,1,102,153,374,3253,362,1313,30
+Internet Exchange Points	1264,1467,823,324,1798,4,232,1,102,153,374,3253,362,1313,30,109
 Internet Exchanges Points Accra-IX	10037
 Investment RPO Recovery Point Objective RTO	6432
 KENYA The Pharmacy and Poisons Board	9854
@@ -120,6 +125,7 @@ LIPTINFOR NIGER UBIQUITY Point	998
 LPA Point-of-Sale	4283
 LPA-approved Point-of-Sale	4283
 Le Point De Vue De L’Expert	11034
+Les Points	11592
 Low Point of Sale	10901
 M2200000020563ON MOULINS GM PNR DE POINTE-NOIRE	7346
 MMG. A Technical Focal Point	2889
@@ -156,10 +162,11 @@ Payment Access Points	4517,2461
 Payment Systems Access Points and Devices	4517,2461
 Pharmacy and Poisons	9855
 Pharmacy and Poisons Act	2709,7145,1
-Pharmacy and Poisons Board	2709,1444,5701,1,1309,104
+Pharmacy and Poisons Board	2709,1444,5701,1,1309,104,317
 Poids	2342,624
 Poids des IPP	10975
 Poikela	8606
+Poilão Marine National Park	11586
 Point	736,3332,459,1699,206,1043,721,567,128,434,988,126,382,90,218
 Point Application	21
 Point Configuration	736
@@ -191,7 +198,8 @@ Point-of-sale	5513
 Point-to	736
 Point-to Multipoint	736
 Point-to-	736
-Point-to-Point	736
+Point-to-Point	736,10876
+Point-to-Point. Kwa	11612
 Point. Bojang	6226
 Point. Like	6226
 PointNoirTV	2545
@@ -206,6 +214,7 @@ Points WRA Water Resources Authority	2775
 Points Weight	10785
 Points Weight I-27 UN E-Participation Index	10785
 Points of Customer Contact E-mail	775
+Points of Entry	11590
 Points of Presence	1289,2573,2887,4757
 Points ofEntry	4260
 Points-Based Valuation System for Property Taxation	11133

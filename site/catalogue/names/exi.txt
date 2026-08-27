@@ -59,8 +59,8 @@ Eskom Existing Capacity	11228
 Estado. Existe	11448
 Ethiopia Existing	4349
 Exige	3048,5779
-Exigem	2816
-Exigences	10836,129
+Exigem	2816,8716
+Exigences	10836,129,557,45
 Exigir	10755,631,18
 Exigências	11396,1,33
 Exile Njoka	2264
@@ -72,9 +72,9 @@ Eximbank	556,9,1800,2183,359,331,478,4916
 Eximbank Deputy General Manager Zhu Jia	2160
 Eximbank. Place	10632
 Exista	11425,36
-Existe	966,735,247,6000,55,2749,8,17,594,8
+Existe	966,735,247,6000,55,2749,8,17,594,8,190
 Existe-t-il	747,4533,1400
-Existem	1215,50,1551,7961
+Existem	1215,50,1551,7961,760,19,6,7
 Existen	1701
 Existence	1000,187,492,1717,391,339,2833,1477,2275,1,146,16
 Existence de Coopération Sud-Sud	10874
@@ -82,9 +82,11 @@ Existence de Portails	10874
 Existence des Assistants	10874
 Existence des DGESS Organisation	10874
 Existence du Fonds de Développement	10874
+Existence of Act	11553
+Existence of Strategic	11553
 Existenceofmedical-deviceorSoft-	8301
 Existencia	1701
-Existing	27,881,50,3,200,67,33,553,4,49,121,274,71,144,275,196,482,174,257,292,49,58,172,221,36,511,44,8,802,378,400,1,107,162,38,53,175,83,97,3,1,11,148,194,61,206,111,18,302,2,122,60,101,240,759,49,221,58,200,122,80,104,42,66,32,145,11,112,4,2,3,2,125,11,22,26,159
+Existing	27,881,50,3,200,67,33,553,4,49,121,274,71,144,275,196,482,174,257,292,49,58,172,221,36,511,44,8,802,378,400,1,107,162,38,53,175,83,97,3,1,11,148,194,61,206,111,18,302,2,122,60,101,240,759,49,221,58,200,122,80,104,42,66,32,145,11,112,4,2,3,2,125,11,22,26,159,70
 Existing AI	1814
 Existing African	8892
 Existing CFMs	9331
@@ -126,7 +128,7 @@ Existing Statutes and Alignment Proposals	7548
 Existing Statutes and Alignment Proposals Fundamentally	7548
 Existing Systems	736
 Existir	549
-Existência	549,10818,6,15,42
+Existência	549,10818,6,15,42,90,49
 Existência de Câmaras de Videovigilância	794
 Exit Clause	6432
 Exit Clause All	6432
@@ -181,6 +183,7 @@ Government of Senegal and China Eximbank	260,40
 Government of South Sudan and China Eximbank	261
 Government of Uganda Existing	4217
 Government of Zambia and China Eximbank	59
+Guiné- Existe	11569
 HRH Funded Government of Uganda Existing	4217
 Hungary's EXIM Bank	9399
 III.V Existing	1597
@@ -231,6 +234,8 @@ South Africa Existing	2572
 Spy Network That Exists Only	9399
 Survey. Ictam General Secretary Exile Njoka	2264
 Símbolo Indicativo da Existência de Câmaras	794
+TIC. Existe	11531
+TRIBUTOS QUE EXIGEM DECLARAÇÃO PRÉVIA PARA	11532
 Theoretical Background Existing	7966
 U.S. EXIM Approves	3626
 U.S. EXIM Bank	560

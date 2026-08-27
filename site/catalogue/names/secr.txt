@@ -28,6 +28,7 @@ Acting County Secretary and County Executive Committee	7990
 Acting Director of Legal and Company Secretary Anthony	9093
 Acting Executive Secretary	2308,1185
 Acting Group Company Secretary MML Mokoka	10793
+Acting Permanent Secretary Dr Tshepo Machacha	11748
 Action Gouvernementale du Secrétariat Général	10712
 Action The Secretariat	7039
 Administrativo A3 Tercer Secretario A3 Vice	4209
@@ -292,7 +293,7 @@ General Jurisdicción Militar Secretario General Ministerio	4209
 General Manager and Secretariat	3513
 General Secretariat	3882,1525,1081,1305,157,1806,1645,16
 General Secretario Sala	4209
-General Secretary	6409,920,2720,1051
+General Secretary	6409,920,2720,1051,551
 General Secretary of Justice	10765,10
 General Secretary’s Office	10768
 General Women’s Union Secretary General Noura	7687
@@ -315,6 +316,7 @@ Health Cabinet Secretary Aden Duale	8383
 Health Principal Secretary Harry Kimtai	2512
 Health Secretariat	21
 Health Secretary	6651
+Home Affairs Principal Secretary	11628
 Honourable Minister Federal Secretariat Complex Phase	5903
 Houet Province Secretary General Sombéniwendé Nikiema	6939
 Hour Economy Secretariat	10630
@@ -332,7 +334,7 @@ ICT and Digital Economy Principal Secretary John	6717
 ID for All The Cabinet Secretary for Interior	4631
 IDs. NRB Principal Secretary Patrick Machika	7041
 IFM de Ségou. Le Secrétaire	8577
-IGAD Secretariat	9207
+IGAD Secretariat	9207,2383
 IGAD Secretariat Immigration Expert Mujib Jemal	10317
 III.1.3.1.1 Le Secrétariat Exécutif	10876
 INCM Secretariat	3489
@@ -390,11 +392,11 @@ Lagos State. DSVA Executive Secretary Vivour-Adeniyi	2445
 Lands Secretary Sarah Maina	3374
 Laptops for Permanent Secretaries	2779
 Le Président Le Secrétaire	1801
-Le Secrétaire	2966,207,3716,465,489,394,340,765
+Le Secrétaire	2966,207,3716,465,489,394,340,765,2334
 Le Secrétaire Exécutif	9164
 Le Secrétaire Général	7470
 Le Secrétaire Général Adjoint du Ministère	9668
-Le Secrétaire Général du Gouvernement	9287,1618
+Le Secrétaire Général du Gouvernement	9287,1618,692
 Le Secrétariat	7658,1092,1726,426
 Le Secrétariat Exécutif	10876
 Le Secrétariat Général du Gouvernement	3121
@@ -412,6 +414,7 @@ MICDE Secretariat and Technical Working Groups	7548
 MICSTI Principal Secretary Kanono Ramashamole	7161
 Maio. O Secretário de Estado	10752
 Malawi Principal Secretary for E-Government	5098
+Malawi's Deputy Chief Secretary Stuart Ligomeka	11731
 Management Secretariat	11129
 Member Secretariat	11129
 Mesa Secretario de Mesa	4209
@@ -424,6 +427,7 @@ Minister Secretary-General Job Obiang Esono Ayingono	5111
 Minister and Secretary of State for MAT	10768
 Ministerio Juez Comarcal Secretario Juzgado Comarcal	4209
 Ministers Delegate and Secretaries of State	8506
+Ministro Secretario General	11743
 Ministro Secretario Mesa Magistrado CSJ	4209
 Ministro Vocal de Mesa Secretario de Mesa	4209
 Ministro de Estado Ministro Vocal de Mesa Secretario	4209
@@ -461,7 +465,10 @@ Nigeria Secretary	7561
 North-Western Province Permanent Secretary Colonel Grandson	7130
 Nyambirai First Transfer Secretaries D3	4896
 O Principal Secretary	7549
-O Secretário Executivo	2866
+O Secre-tário de Estado	11520
+O Secretariado Executivo	11527,34
+O Secretário Executivo	2866,8695
+O Secretário de Estado	11519,1
 O Secretário de Estado da Economia Digital	3527
 O Secretário de Estado da Saúde	5020
 Oath of Secrecy	587,8437
@@ -484,9 +491,9 @@ Parlamento Secretario General Adjunto	4209
 Parlamento Secretario General Ministerio Letrado Mayor	4209
 Permanent Secretariat	6361
 Permanent Secretariat for Innovation and Forecasting	7361
-Permanent Secretaries	1014,974,5985,1008,688
+Permanent Secretaries	1014,974,5985,1008,688,1921
 Permanent Secretaries and Equivalent Grades	2779
-Permanent Secretary	34,284,1236,313,42,758,90,875,242,654,6,143,1010,231,281,8,20,12,25,269,2,411,236,79,171,413,29,89,10,59,89,163,36,23,206,39,373,19,6,167,233,6,1,31,20,225,207,187,93,39,1,19,209,53,120,4,2
+Permanent Secretary	34,284,1236,313,42,758,90,875,242,654,6,143,1010,231,281,8,20,12,25,269,2,411,236,79,171,413,29,89,10,59,89,163,36,23,206,39,373,19,6,167,233,6,1,31,20,225,207,187,93,39,1,19,209,53,120,4,2,1008,59
 Permanent Secretary Ally Senga Gugu	5697
 Permanent Secretary Dr Amina Zawedde	5658
 Permanent Secretary Dr. Beaullah Chirume	4528
@@ -548,6 +555,7 @@ Principal Secretary for State Department for Energy	10313
 Principal Secretary for The National Treasury	6946
 Principal Secretary of Ministry of Education Seychelles	3511
 Principal Secretary. Mr Isaboke	6946
+Professional Secrecy and Rules of Procedure	11517
 Propiedad Secretario Fiscalía Corte Suprema Secretario	4209
 Provincial Magistrado Audiencia Provincia Secretario Consejo	4209
 Provincial Secretaries	7814
@@ -562,6 +570,7 @@ Publicity Secretary	7329
 RCZ Board and Secretariat	1554
 RCZ Secretariat	1554
 RELATED Representing the Secretary	4102
+RNEP-GB Secretariat	11552
 Ra’eesa Pather and Cheriese Dilrajh for Open Secrets	7910
 Reporting Exchange Control Secretaries Advisor Broker	4896
 Representing the Permanent Secretary	7432
@@ -677,11 +686,16 @@ Secretaria de Estado de Hacienda	1855
 Secretaria de Estado de Igualdad de Género	1855
 Secretaria de Estado de Seguridad	1855
 Secretaria de Estado de Traducciones	1855
-Secretariado	167,4051,3727,3504
-Secretariado Executivo	13,4133,1
+Secretariado	167,4051,3727,3504,81,31
+Secretariado Exe	11561
+Secretariado Executivo	13,4133,1,7414
+Secretariado Executivo da CNE	11561
 Secretariado Executivo. Artigo	13
 Secretariado Executivo. SECÇÃO I CONSELHO	13
 Secretariado Permanente	6568
+Secretariado Técnico	11557
+Secretariado Técnico Permanente	11526
+Secretariado Técnico UA União Africana UNESCO	11557
 Secretariado da Cimeira	11387
 Secretariado-Geral	4435
 Secretarias	4209
@@ -689,7 +703,7 @@ Secretarias Fiscalías de Salas	4209
 Secretarias Fiscalías de Salas Servicio	4209
 Secretarias Municipais	10766
 Secretarias Municipais Virtuais	1808
-Secretariat	21,5,1,1,290,269,184,169,22,20,172,89,21,290,1922,107,278,242,425,1173,426,217,297,221,177,222,191,70,1,25,215,535,69,102,58,212,296,118,15,39,48,106,221,348,29,198,12,17,1,73,53,4,4,24,131,364,24,265,9,134
+Secretariat	21,5,1,1,290,269,184,169,22,20,172,89,21,290,1922,107,278,242,425,1173,426,217,297,221,177,222,191,70,1,25,215,535,69,102,58,212,296,118,15,39,48,106,221,348,29,198,12,17,1,73,53,4,4,24,131,364,24,265,9,134,493
 Secretariat African Financial Stablity Committee	6938
 Secretariat General	7548
 Secretariat Géneral	2051,2596
@@ -783,7 +797,7 @@ Secretarios Técnicos	4209
 Secretarios de Estado	1855,4986
 Secretarios de Estado. En	6841
 Secretarios de Mesa	4209
-Secretary	11,576,149,47,231,206,334,224,221,382,1,8,162,115,253,5,9,579,374,744,441,1272,136,302,156,8,96,140,282,315,66,93,650,393,329,644,109,16,150,900,2,3
+Secretary	11,576,149,47,231,206,334,224,221,382,1,8,162,115,253,5,9,579,374,744,441,1272,136,302,156,8,96,140,282,315,66,93,650,393,329,644,109,16,150,900,2,3,445
 Secretary Adv. Kedilatile Legodi NATIONAL CREDIT	11198
 Secretary Clinton	11154
 Secretary Dickson Matembo	8480
@@ -821,7 +835,7 @@ Secretary for Home Affairs	7845
 Secretary for Provincial Affairs	1154
 Secretary of Commerce	5773,1294
 Secretary of Kuria West Constituency Development Fund	6946
-Secretary of State	1234,30,591,992,530,39,247,180,404,55,528,1220,463,328,1650,1091,769,119,243,292
+Secretary of State	1234,30,591,992,530,39,247,180,404,55,528,1220,463,328,1650,1091,769,119,243,292,574
 Secretary of State Abel Maïna	8171
 Secretary of State Marco Rubio	6534,1216,2038,658
 Secretary of State Mari Cruz Evuna Andeme	3496
@@ -853,12 +867,20 @@ Secretary. Multisectoral	3887
 Secretaría Técnica	163
 Secreto	163
 Secretária	3519,6621
+Secretária Executiva Adjunta	11561
+Secretária Executiva Adjunta da CNE	11561
 Secretária Permanente	10140
 Secretária de Direitos Humanos	10750
 Secretária de Estado	1180,84,9486,2
 Secretária de Estado Moçambique	10750
-Secretário	10750,2,1,625,10
-Secretário Executivo	2866
+Secretário	10750,2,1,625,10,139
+Secretário Execu	11561
+Secretário Executivo	2866,8665,30
+Secretário Executivo Adjunto	11561
+Secretário Executivo Adjunto da CNE	11561
+Secretário Executivo da CNE	11561
+Secretário Executivo da WATRA	11531
+Secretário Executivo. Os	11561
 Secretário Geral	10753
 Secretário Nacional de APU-PDGB	10114
 Secretário da Força Aérea	2816
@@ -869,8 +891,11 @@ Secretário de Estado da Comunicação Social	11378
 Secretário de Estado da Saúde	5020
 Secretário-Geral	11361
 Secretário-Geral António Guterres	2816
+Secretários	11555
+Secretários Executivos Adjuntos	11561
+Secretários Executivos Adjuntos. Os	11561
 Secréloire Générol	10813
-Secrétaire	324,1384,40,694,473,16,557,178,133,168,313,494,949,184,558,217,19,158,4,26,444,337,46,83,38,141,185,74,32,44,8,23,377,29,72,69,65,325,144,806,282,372,166,100
+Secrétaire	324,1384,40,694,473,16,557,178,133,168,313,494,949,184,558,217,19,158,4,26,444,337,46,83,38,141,185,74,32,44,8,23,377,29,72,69,65,325,144,806,282,372,166,100,525
 Secrétaire Exécutif	3045,316,7515
 Secrétaire Exécutif SIG Système	10876
 Secrétaire Exécutif. L'OQSF	3361
@@ -881,14 +906,14 @@ Secrétaire Général du Gouvernement	8750
 Secrétaire Général du Ministère	10712
 Secrétaire de Direction	6827
 Secrétaires Généraux	4420,6072
-Secrétariat	737,942,1020,267,571,409,1880,79,19,390,992,792,171,52,203,226,141,102,288,641,609,316,27,1,1,26
+Secrétariat	737,942,1020,267,571,409,1880,79,19,390,992,792,171,52,203,226,141,102,288,641,609,316,27,1,1,26,728,102
 Secrétariat Exécutif	3045,7831
 Secrétariat Exécutif des TIC Burundi	5958
 Secrétariat Exécutif des Technologies	1284
 Secrétariat Exécutif du Portefeuille	8750
 Secrétariat Général	1231,540,280,2596,2427,396,3495
 Secrétariat Général Projet	3715
-Secrétariat Général du Gouvernement	233,2888,275,5354,1071
+Secrétariat Général du Gouvernement	233,2888,275,5354,1071,1776
 Secrétariat Général du Gouvernement Dans	3121
 Secrétariat Général du Gouvernement. Ce	8750
 Secrétariat Juridique	2342
@@ -976,6 +1001,7 @@ US Deputy Secretary of State Kurt Campbell	2284
 US Secretary of State	4426
 US Secretary of State Mike Pompeo	2117
 Uganda Editors Guild Secretary Sylvia Nankya	8687
+Um Secretariado Executivo	11561
 Un Secrétariat Général	548,683
 Under Secretary Jarno Syrjälä	5235
 Under Secretary for Economic Affairs	6849
@@ -999,6 +1025,7 @@ WATRA Secretariat	5680
 WATRA Secretariat-led	5680
 Yaoundé Secretariat	10841
 Yes. The Cabinet Secretary	11247
+Zambia. Permanent Secretary Zechariah Luhanga	11640
 Zambia’s Secretary	194
 Zimbabwe's Permanent Secretary for ICT	10073
 Zimbabwe. Transfer Secretary	5538

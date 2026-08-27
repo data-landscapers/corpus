@@ -44,7 +44,7 @@ BUNYORE TEACHERS TRAINING COLLEGE Data Controller	7167
 BUNYORE TEACHERS TRAINING COLLEGE Data Processor	7167
 BUSINESS DEVELOPMENT AND INNOVATION TRAINING COLLEGE	7167
 BUTULA TECHNICAL AND VOCATIONAL COLLEGE Data	7167
-Bard College	8704
+Bard College	8704,2978
 Barnard College	7151
 Black African Coloured Indian	11192
 Blood Collection	2775
@@ -109,6 +109,7 @@ COLNEV MEDICAL SUPPLIES LIMITED Data Controller	7167
 COLODA LIMITED Data Processor INST-440300062AD SIAYA	7167
 COLUMBIA AFRICA HEALTHCARE LIMITED Data Processor	7167
 COLUMN	8276
+COl'Jlpetênclas	11514
 CTD Collectivité Territoriale Décentralisée CVECA Caisse	10965
 Cadre National de Collecte	2625
 Call for Stronger Industry Collaboration	6075
@@ -119,6 +120,7 @@ Cash Collection	6804
 Central Johannesburg TVET College	6632,95
 Centre de Collecte des Données	10812
 Centres de Collectes des Données	10812
+Chad Chile China Colombia Comoros Congo	11765
 Chainama College	34
 Chamasiri Technical And Vocational College Data	7167
 Checklist Connect Communicate Combine Collaborate Contain	8603
@@ -143,9 +145,11 @@ Col. Yakubu Boateng Abdulai	6936
 Cola MA	3791
 Colaboración	4209
 Colaboradoras da CNPD	3079
-Colaborar	167,3980,2315,4919,55,13
+Colaboradores	11538
+Colaborar	167,3980,2315,4919,55,13,69
 Colaborativa	3519
-Colaboração	15,2801,4154,4441,41
+Colaboração	15,2801,4154,4441,41,78,39
+Colaboração de Sistemas de TI	11555
 Colaborações	2816
 Colaborem	11363
 Colbert	2449
@@ -157,9 +161,11 @@ Colcheccio Limited Data Controller INST-982584F4D6A LAIKIPIA	7167
 Colcheccio Limited Data Processor INST-982584F4D6A LAIKIPIA	7167
 Colchester	7886
 Colchones	4209
+Cold Calling	11742
 Cold Chain Management	9855
 Cold War	4676,353,15,1953,4157
 Coldrey	10763
+Cole-Adeife	11654
 Colecta	3519,3451
 Colectiva	11404
 Colectiva Por	11403
@@ -226,6 +232,9 @@ Coleman	1248,6774
 Coleridge Initiative	4429
 Coleta	10777
 Coli Link Ghana Limited	3386
+Coligaçáo Plataforma Aliança	11544
+Coligação Com	11561
+Coligação de Partidos	11561
 Coligação de Partidos Políticos	539
 Colin	10964
 Colin Andrews	10985
@@ -239,7 +248,7 @@ Collaborate	940,18,42,131,73,610,735,1577,737,381,92,3267,2401,191
 Collaborateur	3879
 Collaborating	1243,850,185,497,829,1244,685,144,359,4805
 Collaborating To Transform And Improve Education	899
-Collaboration	562,337,41,21,170,30,616,37,393,342,456,157,196,246,37,470,103,25,19,325,223,174,56,208,2,239,66,46,80,203,233,19,162,122,377,1,155,1,9,161,52,226,67,83,203,226,45,16,316,64,329,200,52,23,123,307,39,125,269,14,38,220,611,8,58,42,130,1,4,119,8,1,46,100,25
+Collaboration	562,337,41,21,170,30,616,37,393,342,456,157,196,246,37,470,103,25,19,325,223,174,56,208,2,239,66,46,80,203,233,19,162,122,377,1,155,1,9,161,52,226,67,83,203,226,45,16,316,64,329,200,52,23,123,307,39,125,269,14,38,220,611,8,58,42,130,1,4,119,8,1,46,100,25,242
 Collaboration Age Group	582
 Collaboration Becoming	1810
 Collaboration Index	7548
@@ -276,7 +285,8 @@ Collateral Benefit Principle	1829
 Collateral Registry	940
 Collateral Registry Page	940
 Colleagues	6152,3706,595,803
-Collect	940,60,988,3688,1275,597,3175,133,129,12,136
+Collect	940,60,988,3688,1275,597,3175,133,129,12,136,430
+Collect Hours	11563
 Collect Prepare Calculate Calculate Optimal	10856
 Collectables	8494
 Collecte	747,1,9964,109,54,1,99
@@ -285,7 +295,7 @@ Collecter	998,7,9812,158
 Collectif	1930,1,1,1,1,1,1,1,72,1,1,1,1,958,1051,2,1805
 Collecting	775,165,221,617,997,3914,16,233,813,13,1858,482,671
 Collecting and Analysis	940
-Collection	26,210,704,60,161,617,89,842,17,282,427,1220,299,1967,924,177,1531,1211,1,3,7,73,281,107,181
+Collection	26,210,704,60,161,617,89,842,17,282,427,1220,299,1967,924,177,1531,1211,1,3,7,73,281,107,181,100
 Collection Average	11417
 Collection Becomes Harder When Ugandans Doubt	3955
 Collection Date	3861
@@ -303,6 +313,7 @@ Collection The MOH Number	11417
 Collection The MOH Percentage	11417
 Collection and Curation. Volume	8021
 Collection and Processing	4951
+Collection and Processing Personal Data	11662
 Collection and Processing Regulations	4951
 Collection and Transportation	718
 Collection of Fund	7538
@@ -326,7 +337,7 @@ Collective X	6832,4114
 Collective X and Harambee	5551
 Collectively	1154,2316,17,870,75,151,323,66,153,89,30,1,2,197,89,58,202,72,708,220,99,656,338,136,24,163,273,120,264,112,150,1,33,508,299,219,237,339,29,257,84,4,330
 Collectivité Cercle	9287,55
-Collectivités	1755,1053,573,1336,838,164,110,1053,303,658,53,1391,55,156,109,1104,1,146,18
+Collectivités	1755,1053,573,1336,838,164,110,1053,303,658,53,1391,55,156,109,1104,1,146,18,858
 Collectivités Territo-	2342
 Collectivités Territoriales	643,1699
 Collectivités Territoriales Décentralisées	10965,10
@@ -352,7 +363,7 @@ College of Technology of Buea	10980
 Colleges	6832
 Colleges of Education	7405,2171
 Collerette	8130
-Colley	5365
+Colley	5365,6305
 Collez	4960,62,2035,402,182
 Collin Mashile	10729
 Collines	715,1910,2853,5343
@@ -399,11 +410,12 @@ Colocação	11373,57
 Colocação de Sinais	794
 Cologne-based	6879
 Colombe Blanche	1576
-Colombia	226,1017,4106,1614,1058,608,802,401,882,50,21,61,159,128,2,20,201
+Colombia	226,1017,4106,1614,1058,608,802,401,882,50,21,61,159,128,2,20,201,207,46
 Colombia Ambassador	6963
 Colombia Civil Registry Information System	10714
 Colombia Costa Rica Cuba Dominican Rep	10764
 Colombia GALLON GIRALDO	6613
+Colombia Yes Plan Vive Digital	11529
 Colombia and India	4997
 Colombia and Kenya	9713
 Colombia and Nicaragua	11004
@@ -432,7 +444,7 @@ Colonel Soumana Boubacar Garanké	2327
 Colonel-Major Abdoul Karimou Hima	7333
 Colonel-Major Guelpetchin Ouattara	2908
 Colonel-Major Mamadou Traoré. Cette	9865
-Colonel-Major Souleymane Amadou Moussa	7374,2193,101
+Colonel-Major Souleymane Amadou Moussa	7374,2193,101,2026
 Colonel-major Bana Alhassane	10154
 Colonel-major Garba Hakimi	7164
 Colonel-major Idrissa Chaibou	4813
@@ -441,6 +453,7 @@ Colonel-major Lanseny DOUMBIA. AU TITRE	8237
 Colonel-major Mamadou Namballa TRAORE. AU TITRE	8237
 Colonel-major Moussa DEME. AU TITRE	8237
 Colonia Altos de Miramontes Calle	10764,80
+Colonia Altos de Miramontes Escritório Regional Hastings	11563
 Colonial	6808,2931
 Colonial-era	6997
 Colonial-geography	5252
@@ -531,6 +544,7 @@ Doutor Ivan Collinson	2816
 Doutora Nilza Collinson	2816
 Download Collab Citizen App	11251
 Dr. Collins Mudogo	10662
+Dr. Folakemi Cole-Adeife	11654
 EQUIPEMENTS COLLECTIFS VII.1.1 Public Bureau	10847
 EQUIPEMENTS COLLECTIFS VII.1.2 Privé Bureau	10847
 EQUIPEMENTS COLLECTIFS VII.1.3 Public	10847
@@ -565,12 +579,14 @@ Following Mayor Ada Colau	5700
 Forecasted Collection	3583
 Foundations for Collaborative Regulation Date	5241
 Founder Collective	529,10599
+Fourah Bay College	11651
 Furusa and Coleman	1248
 Future Vision for WHO-UKB Collaboration	10776
 G5 Regulatory Collaboration Summit	5241,811
 GRM. Responsibility for Data Collection FAS-IDL Enhanced	10768
 Gambia By Collins Eshiet	6315
 Gemalto Color Laser Shield	10962
+General Directorate of Collections and Taxes	11550
 Gettysburg College	8704
 Ghana Domestic Revenue Collection Platform	8368,177
 Global South Collaboration	3840
@@ -594,7 +610,7 @@ IFC Collaboration	3562,42
 IFC Collaboration Disbursement	1284
 IFC Collaboration No Expected Approval Date	1284
 IFC Collaboration No Global Challenge Project	11417
-IFC Collaboration No Proposed Development Objective	1867,8901,61,135
+IFC Collaboration No Proposed Development Objective	1867,8901,61,135,561,35
 IG Coleman	10405
 IHS Brazil and IHS Colombia	9330
 IMATT College	7777
@@ -611,6 +627,7 @@ Industry and Cooperatives and Col Edith Nakalema	6576
 Ingham and Collerette	8130
 Innovation and Industry Collaborations Posted	6480
 Institutional Isomorphism and Collective Rationality	5349
+Instrumento de Coleta de Dados	11569
 Intelligent Collaboration	3511
 International Collaboration	4528,6248
 International Collaboration and Standards	5245
@@ -684,6 +701,8 @@ Mbombela Central Reference Collection	11237,21,28
 Messagerie Collaborative	9049
 Mestre Nilza Collinson. Na	2816
 Methodology Data Collection	899
+Methodology Measure Data Collection	11525
+Methodology Measure Data Collection Name	11525
 Methodology for Data Collection	10768,649
 Methodology for Data Collection ARTCI	3604
 Methodology for Data Collection Data	3604
@@ -704,6 +723,7 @@ Morgenster Teachers' College	4528
 Mpumalanga CET College	11281
 Mr. Colin Sykes	11299
 Mr. Colley	10314
+Mr. Collins Maidoh-Anene	11704
 Ms Ndileka Cola	9076,159
 Multi-Stakeholder and Cross-Sector Collaboration AI	7548
 Mushagashe Vocational Training College	4528
@@ -741,6 +761,7 @@ PCU Responsibility for Data Collection PCU Component	3604
 PCU Responsibility for Data Collection PCU Page	3604
 PCU Responsibility for Data Collection PCU. Beneficiaries	3604
 PI Methodology for Data Collection	10768
+Palácio Colinas de BOÉ	11561
 Pan-African Colocation Data Centre Rollout	1152
 Part D Collection	11181
 Participation and Collaboration Processors	3861
@@ -751,11 +772,13 @@ Paul Colmer	6365
 Pessoas Colectivas	10786,597
 Pessoas Colectivas Públicas	11388
 Pierre Collet	1183
+Plataforma Kobo Collect	11562
 Platform for Collaboration	1828
 Police College	5174
 Poor Collaboration and Institutional Fragmentation	6936
 Poor Collaboration and Institutional Fragmentation Challenge	6936
 Portail National des Collectivités Territoriales	557
+Power of Collective Inteligence	11546
 Practice E. The Collaboration Paradox	11138
 Prince Cole	7182
 Princípio da Colaboração da Administração Pública	11388
@@ -833,6 +856,8 @@ Réhabilitation EM Collectivités	643
 SECÇÃO I SÍMBOLOS E COLOCAÇÃO	794
 Salaam’s College of Information and Communication Technology	5511
 Sarah Coll-Black	10763
+Scope of Application Personal Data Collection and Processing	11539
+Secured Transaction Collateral Registry	11755
 Security Layers Colocation Cross Connect	9446
 Select College	8671
 Serge Ghislain Djorie du Collectif	4539
@@ -881,17 +906,21 @@ UCC Research Support and Collaboration Framework	9781
 UDSM College of Information and Communication Technologies	7155
 Uganda Col Nakalema	6576
 United General Insurance Assistant Manager Colleta	7364
+Universidade Colinas de Boé Biombo Safim Private	11552
+University College	11541
 University College Dublin	10335
 University College London	899,3530,990
 University College London. Vimbai	4896
 University of Rwanda's College of Science and Technology	3697
 University. Columbia Institute for Tele-Information. Eco	2816
 Uso Colectivo	11367
+Ute Collier	11572
 VII. PROCEDURE DE COLLECTE DE DONNEES	10876
 VIII.7.1 Collecte	10876
 VL Sample Collection	4260
 Variables Collective	7886
 Variables Hat Collective	7886
+Vice President Rtd Col Dr K.C.D	11611
 Vocational College TVET Technical Vocational Educational	2775
 Vocational Training Colleges	7204
 Voter Register. Colley	9314

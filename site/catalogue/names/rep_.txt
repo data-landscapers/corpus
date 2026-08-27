@@ -2,23 +2,33 @@ Arab Rep	10714
 Arab Rep. National Citizen Database	10714
 Arab Rep. South and Central Asia	11135
 Arab Rep. São Tomé and Principe Mauritius	10819
+Central African Rep. Yes Politique	11529
 Colombia Costa Rica Cuba Dominican Rep	10764
 Congo Malawi Dominican Rep. Moldova Eswatini	10764
-Dem. Rep	10714,50,21
+Dem. Rep	10714,50,21,744,43
 Dem. Rep. Civil Registry	10714
+Dem. Rep. Europe CIS Fiji Kiribati	11563
 Dem. Rep. Mauritania Cote	10819
+Dem. Rep. of Madagascar	11572
 Democratic Rep. of Congo	4972
+Digital Economy Dem. People's Rep. of Korea	11529
+Dominica No Dominican Rep. Yes Programa	11529
+Dominican Rep. Kyrgyz Republic Kazakhstan Ecuador	11563
 GIZ. Rep of PS Mary Kerema	3575
 ID Card No People’s Rep. National	10714
 Islamic Rep	10714
+Islamic Rep. Jamaica El Salvador Korea	11563
 Islamic Rep. National Identification System	10714
 Ivoire Dem. Rep	10764
 Mobile Gender Gap Rep	11004
+Presidente da Rep	11513
 Rep Ivar Jones	3645
 Rep Moima Briggs-Mensah	3645
 Rep. Canada Japan Release	11135
+Rep. Central African Rep. Mauritania Asia-Pacific	11563
 Rep. Dem. People’s Rep. of Korea Eritrea	10764
 Rep. Eritrea Guinea-Bissau T4 Evolving Angola	10764
+Rep. Malaysia Paraguay Sri Lanka Suriname	11563
 Rep. Namibia Ghana Benin Kenya Togo	10819
 Rep. Resident Register	10714
 Rep. The National File	10714
@@ -29,4 +39,6 @@ Rep. of Korea Maldives Marshall Islands Micronesia	10764
 Res Rep	1751
 UNDP Ghana Rep	7068
 UNDP Res Rep Dr Sophie Kemkhadze	3188
+United Rep	11572
+United Rep. of Uganda Angola	11572
 WB Rep Oyewole Afuye	2604

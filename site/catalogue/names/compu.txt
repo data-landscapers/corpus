@@ -34,6 +34,7 @@ Asia Pacific Computer Emergency Response Team	10764
 Association for Computational Linguistics	7548,1058,2534
 Association for Computing Machinery	2093,6671,364,109,502,951,445
 Association for Computing Machinery. Crossref Google Scholar	8460
+Atmospheric Administration PC Personal Computer PR	11553
 B1- Compute	7548
 BRANDED WORLD COMPUTERS SYSTEMS LIMITED Data	7167
 BUSARA COMPUTER POINT LIMITED Data Controller	7167
@@ -122,7 +123,7 @@ Compulsory Standards	1988
 Comput	1219,4023
 Comput Law Secur Rev	5242
 Computable Name	6666
-Computador	4044,6713,20,639,5,25
+Computador	4044,6713,20,639,5,25,131,5
 Computadores	2816
 Computation	2775,1753,3438
 Computation and Language	3726
@@ -167,11 +168,11 @@ Computeconfusionmatrixentries	8606
 Computed Value Method Method	11036
 Computer	26,8,192,10,346,155,46,217,154,939,3,5521,405,1594,276,1087,216
 Computer Applications	10001
-Computer Assisted Personal Interview	582,3462,6733,669
+Computer Assisted Personal Interview	582,3462,6733,669,131
 Computer Assisted Personal Interview1	4040,7381
-Computer Assisted Personal Interviewing	11416,5
-Computer Assisted Telephone Interviewing	11416,5
-Computer Assisted Telephonic Interview	4044,7402
+Computer Assisted Personal Interviewing	11416,5,156
+Computer Assisted Telephone Interviewing	11416,5,156
+Computer Assisted Telephonic Interview	4044,7402,131
 Computer Assisted Telephonic Interview2	4040,7381
 Computer Attack Response and Alert Centre	301
 Computer Attack Warning and Response Centre	301
@@ -179,6 +180,8 @@ Computer Business Solutions	2674,3728
 Computer Capacity Data Strategy Safeguard Trustworthy	1204
 Computer Communications	3782
 Computer Corridor	4194
+Computer Crime Proclamation	11607
+Computer Crime Proclamation No	11607
 Computer Crime and Cyber Crime Act	1642
 Computer Crime and Cyber Security Act	1535
 Computer Crime and Cyber Security Bill	1200,335
@@ -217,7 +220,7 @@ Computer Owner	34
 Computer Room	9123
 Computer Room Equipment Power Distribution	9123
 Computer Room Wall Construction	9123
-Computer Science	1554,5724,1328,522,347,585,642,429,2,1
+Computer Science	1554,5724,1328,522,347,585,642,429,2,1,510,71
 Computer Science Department	8606
 Computer Science Information Systems	10060
 Computer Science Review	8603,2
@@ -261,7 +264,7 @@ Computerisation P42	5634
 Computerised	9237
 Computerization of Government Procedures	10663
 Computerized	1824
-Computers	236,346,7440,438,146,234,288,488,1143,76,2,1,74,56
+Computers	236,346,7440,438,146,234,288,488,1143,76,2,1,74,56,584,204
 Computers Conference	9237
 Computers Public Perception of Accountability	10835,3,130
 Computers Shipping	10759,78

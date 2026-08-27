@@ -19,6 +19,8 @@ ASHITIVA ADVOCATES LLP Data Processor INST-106386DB3D0	7167
 ASSOCIATES ADVOCATES LLP Data Controller INST-22632307500	7167
 ATLAS ASSOCIATES LLP Data Controller INST-119694D0ADC	7167
 ATLAS ASSOCIATES LLP Data Processor INST-119694D0ADC	7167
+Advanced LLMs	11578
+Africa World LDCs LLDCs SIDS Low	11563
 African-language LLM	8149
 Anthropic’s Claude and Meta’s Llama	8216
 Apis Partners LLP	94,303
@@ -76,17 +78,21 @@ Discussion Materials of J.P. Morgan Securities LLC	7198
 ECP Africa Fund IV A LLC	292
 EKITABU LLC Data Processor INST-8467809BA40 NAIROBI	7167
 ES DpE Ll’aUEnMOnAing	10711
+Europe World LDCs LLDCs SIDS Low	11563
 FL LLC	8285
 FORVIS MAZARS LLP	9508
 Fidem Financial LLC	9487
 General-purpose LLMs	3651
+Generative LLMs	11585
 Google LLC	1429,1878,5,1801,107,4597
 Google LLC and Finnfund. Investment	1436
 Google LLC and Meta Inc	3962
 Google LLC. Submissions	3307
+Half of LLDCs	11563
 ITU In LLDCs	10844
 IUNetworks LLC	8285
 IUNetworks LLC and Omni Software Ltd JV	3700
+Idrak Group LLC	11760
 Instituto Público LLM	2816
 Introducing Multimodal Llama	10133
 IronOne Technologies LLC	9487
@@ -105,7 +111,7 @@ LLA Chairman Kpakio	9651
 LLA Chairman Samuel F. Kpakio and Commissioner	9651
 LLC AIAdopt Black Forest Labs AiBooks	8530
 LLC Contents Full Contents of The Global	10977
-LLDCs	2663,6282,1819,80,160
+LLDCs	2663,6282,1819,80,160,559,9
 LLDCs Africa	10844
 LLDCs Africa N	10844
 LLDCs Asia	10844
@@ -127,16 +133,25 @@ LLDCs. Over	10844
 LLDCs. Policy	10844
 LLIDF	434
 LLINs	4153,64,84
+LLM API	11585
+LLM CDSS	11578
 LLM Large Language Models MNC Multinational	10861
 LLM Ops Lifecycle CAIMEx	5226
+LLM-assisted	11578,7
 LLM-augmented	7573
-LLM-based	7790
+LLM-based	7790,3788,7
+LLM-based CDSS	11578,7
+LLM-generated	11578,7
+LLM-induced	11578
 LLM-powered	7573
+LLM-related	11578
 LLM-style	3851
+LLM. AI	11578
 LLM. Arrivé	8219
 LLM. Dans	4833
 LLM. J’ai	8219
 LLM. J’explique	8219
+LLM. The LLM	11585
 LLM. WAT	8219
 LLMOps	5226
 LLR CEO	3761
@@ -177,6 +192,7 @@ OL Otieno Advocates LLP	8764
 OPINION OF J.P. MORGAN SECURITIES LLC	7198
 Online LLM	6982
 Opinion of J.P. Morgan Securities LLC	7198
+Outcomes and LLM	11578
 PRIVINVEST SHIPBUILDING INVESTMENTS LLC	1829
 Respondent Google LLC	3307
 Rural Urban Rural Urban World LLDCs	10844
@@ -188,6 +204,7 @@ Starlink Services LLC	6262
 TOUCHE LLP Data Controller INST-158027558A5 NAIROBI	7167
 TOUCHE LLP Data Processor INST-158027558A5 NAIROBI	7167
 Techno Brain Global FZ LLC	3700
+Trials for LLM-supported	11585
 Trust LLC	10380
 UNCTAD and WTO Many LLDCs	10844
 Uganda AY LL Personal Protection	5113

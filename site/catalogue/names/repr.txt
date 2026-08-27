@@ -11,6 +11,7 @@ AI. Representing the Minister for Health	8614
 Abia State. Represented	5072
 Abuja. Represented	9117
 Acting Representative	10776
+Acting WHO Somalia Representative Dr Mohamed	11655
 Acting World Bank Country Representative Oyewole	2604
 Africa-wide. Represented	9633
 Alka Bhatia UNDP Resident Representative	11332
@@ -32,6 +33,8 @@ Bank Secretary Representative	6938
 Board Representative	8748
 Board of Tanzania Vice President's Office Representative	6938
 CEO and Special Representative	11137
+Cairo and Permanent Representative	11738
+Cairo. Representatives	11738
 Center for Reproductive Rights Africa Regional Office	7167
 Chamber of Representatives	3809,552,1
 Chambre des Représentants	8891
@@ -53,12 +56,13 @@ Current Representative Mr Dean Veverka	3513
 Current Representative Mr Graham Evans	3513
 Current Representative Mr John Wrottesley	3513
 Cámara de Representantes	1701
+D E N T REPRESENTATIVE	11586
 DE REPRESENTATION	998
 Dado Provisório Professor Provisória Reprovados Secundário	10766
 Deal Technologique. Représenté	8821
 Deputados. Representantes	8760
 Deputy Representative	9766
-Deputy Resident Representative	8343
+Deputy Resident Representative	8343,3430
 Deputy Resident Representative Nana Chinbuah	8343
 Details of Appointed Partnership Representative	11276
 Development Team Presentation of Results Representatives	236
@@ -69,6 +73,7 @@ Domest. Respons. Repres. Annual Bruto	4209
 Dr. Isaias Barreto da Rosa Représentant	3269
 Dr. Zabulon Yoti WHO Representative	10776
 ECOWAS Resident Representative	10509
+ENA English WHO Representative Hails PM	11665
 East Africa. Representing	10317
 Economy Support Rural Representation	10759,78
 Egypt's House of Representatives	2848
@@ -96,7 +101,7 @@ Head of Office and UNESCO Representative	9139
 Head of UNESCO Office and UNESCO Representative	9755
 Health Information System RMNCAH Reproductive	771
 Health Minister Austin Demby Represents Sierra	10659
-High Representative	5499,5345
+High Representative	5499,5345,728
 High Representative of His Excellency Mr. Paul	4103
 Homabay County Women Representative Hon. Bensuda	6946
 Homabay County Women Representative Officers Ethics	6946
@@ -145,9 +150,10 @@ Nigerian House of Representatives	4583
 Nigeria’s Permanent Representative	9018
 Office and Representative	6211
 Oficina Nacional de Representación	4209
-Oficina de Representación	10764,80
+Oficina de Representación	10764,80,719
 Orçamento Reprogramado	2081,2931
 Permanent Representative	7320
+Permanent Representatives SNPC National Civil Protection	11553
 Permanent Representatives’ Committee	1243
 Phase I. Representatives	7963
 Phase IV RMNCAH-N Reproductive	11417
@@ -181,6 +187,7 @@ Represent	940,4736
 Represent Zimbabwe	4528
 Represent. Carestia de Vida	4209
 Representa	9289,405
+Representación	11563
 Representación Parlamentaria	4209
 Representando	10325
 Representante	2437,1,610,1663,36,1071,200,154,2458,2121
@@ -189,12 +196,14 @@ Representante Municipal da Educação	10751
 Representante Permanente	4209,7184
 Representante Permanente Adjunto	4209
 Representante Residente	758,8502
+Representante da CEDEAO	11540
 Representante da Delegação da União Europeia	6018
-Representantes	4209,2761,734,3725,25,4
+Representante da União Europeia	11540
+Representantes	4209,2761,734,3725,25,4,58
 Representantes Legais	11404
 Representantes da Comissão Intersectorial	10752
 Representantes da Sociedade Civil	10752
-Representar	13,154,4051,7163,1,53,8,6
+Representar	13,154,4051,7163,1,53,8,6,69
 Representation	27,945,502,2240,147,1815,1872,207,166,707,136
 Representation Equal Civil Liberties Equal Socioeconomic	10759
 Representation and Hearing	3005
@@ -202,10 +211,11 @@ Representation of Religious Organizations	11129
 Representation of Women	10759,76,2,1,130
 Representation of Women Rights	10759,78
 Representations	4049,198,55,594,5817
-Representative	1638,2811,491,307,2074,469,511,2475,353,52,220
+Representative	1638,2811,491,307,2074,469,511,2475,353,52,220,264
 Representative Bodies	3861,2971
 Representative Body	6832
 Representative Dossou Vincent Sodjinou	6206
+Representative Hails PM Abiy’s Vision	11665
 Representative Ivar Jones	3645
 Representative Moima Briggs-Mensah	3645
 Representative Taa Z. Wongbe of Nimba County	4998
@@ -219,6 +229,7 @@ Representatives of Crawford	3583
 Representatives of Governors	11129
 Representatives of Microsoft	2526
 Representatives of SCRA	7647
+Representação	11569
 Representação da OMS	11376
 Represented	2933,4918,270,588,277,1611
 Represented Political Parties Fund	11218
@@ -285,13 +296,14 @@ Reprographie DAJCPC	10975
 Reprovados M	10766
 Reprovação	10766
 Reprovação Desistência Angola	10766
-Représentant	12,753,983,58,1160,330,402,582,1459,216,510,195,329,21,364,356,342,819,15,562,152,97,420,730,184
+Représentant	12,753,983,58,1160,330,402,582,1459,216,510,195,329,21,364,356,342,819,15,562,152,97,420,730,184,529,42
 Représentant Mourana Soumah	7403
 Représentant Résident du FMI	7374
 Représentant la DGDI	8695
 Représentant le Directeur	6744
 Représentant le Gabon	6014
 Représentant le Garde des Sceaux	5845
+Représentant le Premier	11622
 Représentante	8750,1763
 Représentante Résidente	2966
 Représentante Résidente Abdourhamane DICKO	6959
@@ -304,7 +316,7 @@ Représentation Nationale	1300
 Représentativité	6959
 Représente	10876
 Représenté	8821
-Resident Representative	158,6178,1366,19,953,631,461,1505
+Resident Representative	158,6178,1366,19,953,631,461,1505,274
 Resident Representative Aissatou Diallo	1751
 Resident Representative of UNDP	5356
 Rising Repression Meets Global Resistance	5236
@@ -321,6 +333,7 @@ SpaceX Written Representations	6891
 Special Representative	10776
 State Institutions Rural Representation	10759
 Supervision Representatives	6938
+Support Reproductive	11536
 Switzerland. Representing the African Union Commission	7136
 System Enhancement Project RMNCAH-N Reproductive	10829
 TAXA DE REPROVAÇÃO	10766
@@ -366,6 +379,7 @@ Unaffiliated Representative	7198
 Université Numérique du Mali Le Représentant	1708
 Vehículo Domes. Repres. Respons. Soberanía Annual	4209
 WELFARE Equal Political Representation	10835,3,130
+West Africa RMNCAH-N Reproductive	11560
 Women Representative of Migori	10313
 World Bank Country Representative Franklin Mutahakana	8459
 World Bank Reproducible Research Repository	10785,192

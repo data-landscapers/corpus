@@ -13,6 +13,7 @@ Assessment Setting	1824
 Authority. MICT SETA	6832
 Automated Transfer and Settlement System	10845
 Badejo-Okusanya Set	2355,176,4,1,56,3,339,96,901,1006,1761,673
+Bandim. RS Região Sanitária. SAB Setor	11543
 Bank for International Settlement Capital Adequacy Ratio	11134
 Bank for International Settlements	6938,2393,180,198,1421,8,2
 Bank for International Settlements Committee	11130
@@ -24,6 +25,7 @@ CARICOM Payment and Settlement System	9179
 CBL Director of Payments and Settlements Mothetsi Sekoati	2849
 CENTRAL DEPOSITORY AND SETTLEMENT CORPORATION LIMITED	7167
 COMESA’s Regional Payment and Settlement System	10372
+CRESCIMENTO DE EMPREGO NO SETOR	11531
 Call Setup Time	5744
 Casablanca and Settat	3375,6629
 Central Depository and Settlement Corporation	7567
@@ -31,6 +33,7 @@ Channels Thuso Setsetse	9466
 Check Settlement	6938
 Clearing and Settlement Services	4896
 Climate and Rural Settlements Page	940
+Comissão Setorial de Recenseamento	11528
 Community Settlement Areas NAP National Adaptation	1867
 Consent Decrees and Settlement Authority	3861
 Cookie Settings	3907,2274
@@ -38,6 +41,7 @@ Cookie Settings Accept All CookiesManage	3907
 Cookie SettingsREJECT ALLACCEPT ALLManage	6181
 Covid-19 SETIC	9799
 C’ River Set	8520
+DE SETEMBRO	11520
 DGTIC SETIC BRB SETIC	1284
 DHET MICT SETA	6832
 DHET SETAs	6832
@@ -56,6 +60,8 @@ Dispute Settlement Mechanism	1243
 ECOWAS Payment System and Settlement	6938
 ECOWAS Payment and Settlement System	6938,1128
 EMIS SURVEYS AND DATA SETS	11180
+EMPREGO GLOBAL NO SETOR	11531
+EMPREGO NO SETOR POR OPERADOR	11531
 East Africa. Submarine Cable Project Set	6554
 Em Setembro	2729
 Establish Monitoring Set	1777
@@ -70,6 +76,7 @@ Gender Value Set Administrative Gender MaritalStatus	6666
 Ghana Interbank Payment and Settlement Systems	6075,22
 Ghana Interbank Payment and Settlement Systems Limited	982
 Global Settlement Network	5743,1835
+Governance and Institutional Setting	11553
 Gross Settlement Southern African Customs Union	11134
 Guidelines for Setting	318
 High Resolution Settlement Layer	1013
@@ -104,6 +111,7 @@ Labour Market Intelligence MICT SETA	6832
 Land Settlement Fund	10313
 Land Settlement Fund and Railway Development Fund	10313
 Land Settlements Fund	10313
+Liberia Interbank Payment and Settlement Systems	11710
 Liberian National Police. Set	1777
 Libya. Set	6697
 Local Currency Settlement System	8081
@@ -160,11 +168,13 @@ Nigeria Inter-bank Settlement System	2318
 Nigeria Interbank Settlement System	7179
 Nigerian Interbank Settlement System	2762,941
 Nigerian Interbank Settlement Systems	5880
+O Plano Setorial da Educação	11557
 O Setor Empresarial	1265
 Operational SETIC	1284
 PAPSS Local Currency Settlement System	8081
 PAPSS Pan-African Payment and Settlement System RPA	10718
 PDF. Set	11252
+PLANO SETORIAL DA EDUCA	11523
 Pan African Payment and Settlement System	8442
 Pan-African Payment and Settlement System	999,855,68,1152,366,663,487,133,48,120,10,4,3,347,185,657,39,265,299,238,101,25,86,310,76,81,168,143,2,78,11,5,15,5,22,15,1,65,682,324,26,1297,79,163,420
 Pan-African Payment and Settlement System MTN Ghana	5908,442
@@ -188,7 +198,7 @@ Real Time Gross Settlement	2857,3863
 Real Time Gross Settlement System	4517,2461
 Real-Time Gross Settlement	2358,1321,26,1542,1012,2456,2138
 Real-Time Gross Settlement Software Development Kit	11130
-Real-Time Gross Settlement System	8492
+Real-Time Gross Settlement System	8492,3218
 Real-Time Gross Settlement System of Morocco	6938
 Refugee Settlements	1988
 Refugees and Host Community of Meheba Refugee Settlement	1778
@@ -228,7 +238,9 @@ SETIC-IFC	2383
 SETIC-PIU	1284
 SETIC-PIU Implementing Agency	1284
 SETIC’s FM	1284
+SETOR POR OPERADOR	11531
 SETTING OF STANDARDS	11184
+SETTLES	11572
 STANDARD SETTING	11184
 Saniya Ansar and Seth Garz	10977
 Senate Session That Set the Tone	9517
@@ -245,7 +257,8 @@ Set-up	1000
 Set-up Institutional Governance Framework for Cybersecurity	1000
 Set. Artículo	163
 Setect	3972
-Setembro	13,417,144,2,219,731,612,678,277,426,8,79,1,433,4,159,2259,390,675,1469,913,416,425,1,21,5,254,286,45,3,3,1,1,3,6,4,3,1,17,4,1,1,5,6,1,3,1,2,7,3,8,7,4,8,8,20
+Setembro	13,417,144,2,219,731,612,678,277,426,8,79,1,433,4,159,2259,390,675,1469,913,416,425,1,21,5,254,286,45,3,3,1,1,3,6,4,3,1,17,4,1,1,5,6,1,3,1,2,7,3,8,7,4,8,8,20,20,3,3,1,3,3,2,9,5,35,5
+Setembro FC Tengueth	11587
 Setembro Havendo	576
 Setembro. Artigo	6462
 Setembro. Na Sessão Plenária	2816
@@ -257,9 +270,13 @@ Sethibe	4432
 Sethuraman	9237
 Setic	5905
 Setif	4902
-Setor Autónomo de Bissau	7666
+Setor Administrativo	11528
+Setor Autónomo de Bissau	7666,3871,6
+Setor Informal	11562
 Setor Público	1268
+Setor de Atividade Distribuição	11571
 Setor de Bambadinca	3246
+Setores	11569
 Setrag	9631
 Sets Ambitious	4917,1676
 Sets New Priorities Gabon’s Ministry of Digital	8541
@@ -324,7 +341,7 @@ Togo Sets New Priorities	8610,233
 Tongogara Refugee Settlement	9794
 US-based Global Settlement Network	3727
 Unique Nuances of Settling	5863
-United Nations Human Settlements Programme	11285
+United Nations Human Settlements Programme	11285,287
 Updated Set of Principles	3583
 Updated Shared Value Sets	1009
 Upgrading Informal Settlements	11285

@@ -33,6 +33,7 @@ D4D Hub. Focuses	1063
 DIVERSITY FOCUS	4972
 Data for Policy Focus Area	2096
 Data for Policy Focus Area of Digital	2096
+Digital Economy Focal Points	11545
 Diversity Focus	4972
 Diversity Focus Figure	4972
 ECOWAS National Focal Points	10508
@@ -40,7 +41,7 @@ Emerging Technologies Focal Points	7548
 Environmental Protection and Green Development Focuses	3487
 Establish Focal Points	1000
 FGD Focus Group Discussion FPI European	970
-FOCAC	791,297,61,1880,570,2392,12,787,3204,621,430,273
+FOCAC	791,297,61,1880,570,2392,12,787,3204,621,430,273,246,54
 FOCAC ZTE	4907
 FOCAC.org	1088,61
 FOCUS	11180
@@ -57,7 +58,8 @@ Focal Points	1161
 Focalisation	748
 Focalização Geográfica	11406
 Focam	2816
-Focus	212,14,161,120,105,12,285,225,427,206,47,14,274,318,98,246,1077,687,567,150,192,3,236,823,94,345,9,12,46,146,25,467,29,79,80,545,229,286,552,645,734,22,163,31,93,2,7,2,74,253
+Focus	212,14,161,120,105,12,285,225,427,206,47,14,274,318,98,246,1077,687,567,150,192,3,236,823,94,345,9,12,46,146,25,467,29,79,80,545,229,286,552,645,734,22,163,31,93,2,7,2,74,253,304
+Focus Africaguinee.com Créé	11724
 Focus Area	10964,170
 Focus Area FCFA The Central Africa	969
 Focus Areas	1814,3431
@@ -86,7 +88,7 @@ GovTech Enablers Index GovTech Focus Areas	10785
 Governance. Focus Areas	11420
 ICT Observatory Focal Point Persons	3476
 IDA MASFAMU Focal Team	10768
-IMF Country Focus	6679
+IMF Country Focus	6679,4880
 INVESTMENT STAGE FOCUS	4972
 ISPs Government Focused	3185
 Identifying Focus Areas and Gaps	7588
@@ -124,7 +126,8 @@ Periodic Focus Group Discussions	1778
 Point Focal	7675,1602
 Ponto Focal	11376,80
 Ponto Focal Nacional	11376
-Pontos Focais	11410
+Pontos Focais	11410,132
+Pontos Focais de Economia Digital	11542
 REGIONAL FOCUS	4972
 RESEARCH RESEARCH FOCUS PARTNER Bangladesh South	10852
 Regulatory Agencies and County Focal Points Sector	7548
@@ -151,5 +154,6 @@ Strategic Prioritization Focusing	4528
 Strategy Focused	9582
 Teachers Focus Group Discussion	899
 Technical Working Groups. Customer Focus	2775
+Under Focus Area	11525
 Work Hard And Stay Focused	36
 Workshop Participants Focus Areas Output Outcome	6946

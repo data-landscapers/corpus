@@ -12,15 +12,18 @@ China-aid ECOWAS Headquarters Building	6003
 Commission of ECOWAS	7
 Commissioners and Staff of ECOWAS Institutions	7452
 DBI ECOWAS FEC FMCIDE GBB ICT	10157
+DECA Digital Economy Country Assessment ECOWAS	11545
 Denial of Service ECOWAS Economic Community of West	1777
 Description ECOWAS	1177
 Directorates and Departments of ECOWAS Commission	9194
+ECF Extended Credit Facility ECOWAS Economic	11549
 ECOWAN	238
-ECOWAS	7,19,1,1,524,193,44,18,154,58,142,16,2,64,21,13,54,25,279,20,122,37,95,408,45,48,371,13,9,36,165,85,3,34,301,44,133,20,54,43,38,64,30,6,66,177,47,219,26,121,67,1,118,37,89,17,4,80,217,65,34,107,11,1,32,5,179,1,96,5,101,180,29,12,60,289,51,19,49,109,14,105,239,379,135,424,45,44,107,450,10,264,321,77,144,131,83,84,36,259,16,126,84,1,104,98,148,1,17,46,72,149,26,3,13,3,61,10,3,237
+ECOWAS	7,19,1,1,524,193,44,18,154,58,142,16,2,64,21,13,54,25,279,20,122,37,95,408,45,48,371,13,9,36,165,85,3,34,301,44,133,20,54,43,38,64,30,6,66,177,47,219,26,121,67,1,118,37,89,17,4,80,217,65,34,107,11,1,32,5,179,1,96,5,101,180,29,12,60,289,51,19,49,109,14,105,239,379,135,424,45,44,107,450,10,264,321,77,144,131,83,84,36,259,16,126,84,1,104,98,148,1,17,46,72,149,26,3,13,3,61,10,3,237,368,7,11,1,12,4,56
 ECOWAS ADVANCES HARMONISATION OF THE REGIONAL	10509
 ECOWAS ADVANCES REGIONAL CYBERSECURITY COOPERATION THROUGH	9470
 ECOWAS AUTHORITY OF HEADS	4114,3338
-ECOWAS Act	1243,1213
+ECOWAS Act	1243,1213,9094
+ECOWAS Additional Act	11548
 ECOWAS Advances Harmonisation	10509
 ECOWAS African Union Convention	5244
 ECOWAS Authority of Heads of State and Government	7452
@@ -33,14 +36,15 @@ ECOWAS Business Council. Dr. Abdul Kamara	7452
 ECOWAS COMMISSION AND AFRICAN UNION CONCLUDE	9469
 ECOWAS COMMISSION STRENGTHENS INSTITUTIONAL CAPACITY	9194
 ECOWAS Chief Negotiator Alhaji Aliko Dangote	7452
-ECOWAS Commission	7,305,905,47,505,140,2193,636,89,417,158,177,412,12,1449,1080,662,275,1,792,246,1,63,72,265
+ECOWAS Commission	7,305,905,47,505,140,2193,636,89,417,158,177,412,12,1449,1080,662,275,1,792,246,1,63,72,265,608,31
 ECOWAS Commission Legend	6422
+ECOWAS Commission and Nigerian	11608
 ECOWAS Commission. Mr. Talery	10572
 ECOWAS Commission. National-level PIUs	1264
 ECOWAS Commission. The WURI	10909
 ECOWAS Commission’s Directorate of Research and Statistics	10508
 ECOWAS Community Budget	6422
-ECOWAS Community Court of Justice	961,8121
+ECOWAS Community Court of Justice	961,8121,2622
 ECOWAS Convergence Council	7452
 ECOWAS Council of Governors	745
 ECOWAS Council of Ministers	7452,3056
@@ -58,11 +62,11 @@ ECOWAS Directorate of Finance	1264
 ECOWAS Directors of Statistics	7
 ECOWAS Disbursement and Financial Information Letter EDGE	3604
 ECOWAS ESCP	1264
-ECOWAS Economic Community of West African States	1264
+ECOWAS Economic Community of West African States	1264,10288,8
 ECOWAS Free Movement Protocol	2781
 ECOWAS Free Roaming Initiative	7876
 ECOWAS Golden Jubilee	7452
-ECOWAS Headquarters	5991,1461
+ECOWAS Headquarters	5991,1461,4096
 ECOWAS ID Card	1655
 ECOWAS Information Sharing and Analysis Centre	9470
 ECOWAS Infrastructure Commission	1264
@@ -70,7 +74,8 @@ ECOWAS Infrastructure Sector Assessment Program	1264
 ECOWAS Interest Subsidy Fund PPDU	6422
 ECOWAS Knowledge Exchange	4583
 ECOWAS Mediation and Security Council	7452
-ECOWAS Member States	7,4820,2625,2018,1039,310
+ECOWAS Member State	11517
+ECOWAS Member States	7,4820,2625,2018,1039,310,698,31
 ECOWAS Ministers To Improve West Africa	5579
 ECOWAS Mobile Money	6938
 ECOWAS Monetary Cooperation Programme	7
@@ -103,6 +108,7 @@ ECOWAS SIGMAT	4827
 ECOWAS Single Currency Programme	7452
 ECOWAS Single Digital Market	5244
 ECOWAS Small Business Coalition	9117
+ECOWAS Social Fund	11536
 ECOWAS Speaker	6355
 ECOWAS Special Envoy	7452
 ECOWAS Stabilization Support Mission	7452
@@ -110,19 +116,20 @@ ECOWAS Startup Awards	10262
 ECOWAS Statistical Policy	8532,1976
 ECOWAS Statistics Policy	7
 ECOWAS Summit	5390,965,827
-ECOWAS Supplementary Act	961,200,82,1765,2236,1693,515,3367
+ECOWAS Supplementary Act	961,200,82,1765,2236,1693,515,3367,731
 ECOWAS Supplementary Data Protection Act	4583
 ECOWAS Supplementary Protocol	9660
 ECOWAS Technical Secretariat	7
 ECOWAS Trade Fair	6422
 ECOWAS Trade Liberalisation Scheme Taskforce Mr	7452
-ECOWAS Treaty	1264,3474
+ECOWAS Treaty	1264,3474,6779
 ECOWAS Vision	1264,3474,841,1873,1080,662,1314
 ECOWAS Wide Area Network	238
 ECOWAS and AU	1264,3584
 ECOWAS and AfCFTA	4928
 ECOWAS and African Union	5782,4375
 ECOWAS and EAC	7921
+ECOWAS and EU	11548
 ECOWAS and East African Community	1264
 ECOWAS and SAA	1264
 ECOWAS and SADC	6471
@@ -149,6 +156,7 @@ Five-Year Plan and ECOWAS's Vision	6003
 Guinea and ECOWAS	312
 HANA ECOWAS	6422
 Heads of ECOWAS National Offices	10909
+I1e ECOWAS Treaty	11517
 ICT and Digitalization Adopts the ECOWAS Digital Sector	1909
 IDA ECOWAS	1264
 IDs. ECOWAS	1635
@@ -158,16 +166,19 @@ Leads Historic Commissioning Of ECOWAS Headquarters	4114
 Lomé ECOWAS Logistics Depot	6422
 Lungi President Bio Leads ECOWAS Leaders	5390,965,827
 M ECOWAS	2410
+MINDFUL of ECOWAS Supplementary Act AlSA	11517
 Meeting of ECOWAS Ministers	1909
 Meeting of ECOWAS Ministers In Charge of Telecommunications	1909
 Multilateral Surveillance Mechanism of ECOWAS Member States	7
 National Digital Transformation Working Group ECOWAS	5244
 Nigeria Unveils ECOWAS ID Card	4102
-Nigeria and ECOWAS	5499,5074,731
+Nigeria and ECOWAS	5499,5074,731,244
 Nigeria's ECOWAS and AfCFTA	11476
+OPINION of The ECOWAS Perliament	11517
 ORDINARY SESSION OF THE ECOWAS AUTHORITY	7452
 Official ECOWAS	4827
 PAPSS and ECOWAS-led	4330
+PROTECTION WITHIN ECOWAS THE HIGH CONTRACTING	11517
 President of ECOWAS Commission H.E. Amina J	7452
 Project. ECOWAS. Section I.A.1 of Schedule	1264
 Project. ECOWAS. Section I.A.3	1264
@@ -176,6 +187,7 @@ RPCC. ECOWAS. Section I.A.3	1264
 Ratified ECOWAS Supplementary Act	10908
 Regional and ECOWAS and African Union	1777
 Revised ECOWAS Treaty	9660
+Revised ECOWAS Treaty. IN WITNESS WHEREOF	11517
 SAA AU ECOWAS The Gambia	1264
 SAA and ECOWAS	1264
 SAA and ECOWAS Commission	1264
@@ -186,8 +198,10 @@ Smart Africa and ECOWAS	5362
 Support for AU ECOWAS and SAA	1264
 Support for AU and ECOWAS	1264
 Togo and Benin. ECOWAS	3471
+Treaty of ECOWAS	11517
 Tunisia Zambia Zambia ECOWAS All Zones	6938
 VI- ON HARMONISATION OF ECOWAS POSITION	7452
+WAEMU and ECOWAS	11524
 West African ECOWAS	5362
 Western Africa. ECOWAS Regional Communications. Toward	1264
-Within the ECOWAS	1264
+Within the ECOWAS	1264,10253

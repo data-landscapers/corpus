@@ -55,6 +55,8 @@ GPEI Coordinator	10776
 GPF Gambia Police Force MOJ Ministry	1000
 GPL WING WAH	7263
 GPLQLVWUDWLRQAct	11181
+GPLQLVWUDomR	11530
+GPLQLVWUDomR3	11530
 GPOuVblEicRDNiAsNclCosEu	10785
 GPP Band	7368
 GPP. Major	3969
@@ -72,8 +74,9 @@ GPT Educational Platform	4759
 GPT and Kevin AI	10047
 GPT-3	7451
 GPT-3.5	8510
-GPT-4	4045,984,2422
+GPT-4	4045,984,2422,4134
 GPT-4.5	3465
+GPT-4o	11578,7
 GPT-5	9025
 GPT-5.5 Pro	7731
 GPT-5.6	9027
@@ -121,6 +124,7 @@ IBRD Fund for Innovative GPG Solutions	11417
 Kenya GPS Global Positioning Systems GSM	2775
 Kingdom of Eswatini GP Global Practice GRS	6539
 M. Norrsken22 GP Lexi Novitske	1139
+Monitoring and Supervision GHG Green-House-Gas GPE Global	11560
 NVIDIA B300 GPUs	11502
 NVIDIA B300 HGX GPU	11502
 NVIDIA GPU	2388,4279,1427
@@ -153,5 +157,6 @@ Stratos Lab’s GPU	11502
 TPE GPRS	10711
 Upgrading the GPP	3969
 Used GPCA	448
+WAEMU GPI	11581
 Whereas the GPAI Code of Practice	11050
 World Bank’s GPN	10964

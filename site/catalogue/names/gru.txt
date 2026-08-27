@@ -33,6 +33,7 @@ Comisario Grupo B	4209
 Comisario Grupo C	4209
 Comisario Grupo D	4209
 Consejero Grupo	4209
+Cooperação GG-B Governo da Guiné-Bissau GLE Grupo	11557
 Coordinador Grupo	4209
 Coordinador Grupo D	4209
 Coordinador Grupo D Servicio	4209
@@ -43,6 +44,7 @@ Cordinador Grupo B	4209
 Corisco Funcionamiento Grupos Parlamentarios	4209
 D Coordinador Regional Grupo D Delegado	4209
 D Recaudador de Contribuciones Secretario Grupo D	4209
+DISTRIBUIÇÃO DE TRABALHADORES POR GRUPOS PROFISSIONAIS	11531
 De Gruyter	9128
 Delegado Grupo B	4209
 Delegado Grupo C	4209
@@ -89,7 +91,7 @@ Grundlage	1530
 Grundmann	7759
 Grundy	11156
 Grupe	10780
-Grupo	539,3670,5050,855,652,11,587,1,56
+Grupo	539,3670,5050,855,652,11,587,1,56,121,35,106
 Grupo A Abogado Fiscal Administrador Grupo	4209
 Grupo B	4209
 Grupo B Especialista Grupo B Inspector	4209
@@ -104,6 +106,7 @@ Grupo E Habilitado Pagador Inspector Grupo	4209
 Grupo Empreiteiro	11405
 Grupo F Servicio	4209
 Grupo G Maestro Músico Técnico Disciplina	4209
+Grupo Local de Educação	11557
 Grupo Multi-Sectorial	5663
 Grupo Multi-sectorial	2816
 Grupo Nacional de Acompanhamento	539
@@ -111,22 +114,24 @@ Grupo Paratus	6798
 Grupo Parlamentar	539,5743,2877
 Grupo Parlamentar da UNITA	5791,1056,271,2041
 Grupo Social Especial	11364,1
+Grupo Temático de Género	11562
 Grupo Técnico	10754,18,606,28
 Grupo Técnico de Apoio	10772
-Grupo Técnico de Trabalho	10765,10
+Grupo Técnico de Trabalho	10765,10,782
+Grupo de Amigos da Iniciativa	11564
 Grupo de Consulta Multi-Sectorial	5663
 Grupo de Investigação Científica	11385
 Grupo de Trabalho	2816
-Grupo de Washington	10777
+Grupo de Washington	10777,800
 Grupos	11406,7
 Grupos Clase	4209
 Grupos Parlamentares	539
 Grupos Parlamentarios	4209,5094
 Grupos Parlamentarios Salvador Nguema Mangue	9303
-Grupos Técnicos	11421,25
-Grupos Técnicos Comunais	11421,25
-Grupos Técnicos Municipais	11421,25
-Grupos Técnicos Provinciais	11421,1,24
+Grupos Técnicos	11421,25,131
+Grupos Técnicos Comunais	11421,25,131
+Grupos Técnicos Municipais	11421,25,131
+Grupos Técnicos Provinciais	11421,1,24,131
 Grupos de Trabalho	2138,9233
 Gruppo TIM	5618
 Images Studio Funk Grupo Ingenium Tecnología	8530
@@ -165,6 +170,7 @@ Jefe de Servicio Grupo	4209
 Jefe de Servicio Grupo B	4209
 Jefe de Servicio Grupo D	4209
 Jefe de Zona Escolar Jefe Informático Grupo	4209
+Local de Educação GTT Grupo de Trabalho Técnico	11557
 Mayor Sub-Director Grupo C Sub-Inspector Fuerzas	4209
 Moderado Grupos	11421
 Médico Forense Portavoz Adjunto Grupo Parlamentario	4209
@@ -194,3 +200,4 @@ Servicio Grupo C	4209
 Servicio Grupo D	4209
 Supervisor Distrital Grupo	4209
 Supervisor Grupo C Juez Militar Instrucción	4209
+TWG Grupo	11555

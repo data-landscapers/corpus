@@ -5,12 +5,12 @@ ACI-2016-11-RA-0196 Dhayne	8606
 Abbreviations ANC Antenatal Care DHIS District	771
 Abidjan and Abu Dhabi. Through	3280
 Abu Dhab	6231
-Abu Dhabi	4057,70,320,380,107,313,1164,379,1820,233,2297
+Abu Dhabi	4057,70,320,380,107,313,1164,379,1820,233,2297,587
 Abu Dhabi Accelerator Acquisition Africa Agritech	5322
 Abu Dhabi Ces	10507
 Abu Dhabi Exports Office	2947
 Abu Dhabi Sustainability Week	4934
-Abu Dhabi-based	1634,5
+Abu Dhabi-based	1634,5,10066
 Abu Dhabi-based ADI Foundation	4611
 Abu Dhabi.Selon	8508
 Abu Dhabi’s ADQ	6231
@@ -31,6 +31,7 @@ Business Reporter DHL Express and Absa Group	10151
 C.E.F. Matewa Mr. E. Dhenhere	1154
 CONTRIBUTION TO THE NDP The DHA	11285
 Central Processing Unit DHIS District Health	34
+Chap Modeling Platform and DHIS2 Modeling App	11589
 Civil Society Organization DHIS2	10776
 Collective Model for Sustaining DHIS2 DHIS2	6153
 Commerce DHL	9720
@@ -39,6 +40,7 @@ Conferência Anual DHIS2	11454
 DBS DCNT DHS DIU DMPA-SC DP	10777
 DCDT and DHET	6832
 DESCRIPTION OF THE DHS	2709
+DH Cadastro	11527
 DH Développement	1536
 DH Projet	1536
 DH Ressources Humaines	1536
@@ -47,6 +49,8 @@ DH Solutions Africa UG	7167
 DH Soutient	1536
 DH Subvention	1536
 DH Taux	1536
+DH&DGDVWUR	11527
+DH&DGDVWURHGDV	11527
 DH- Kenya-Report Revised30Nov2022.pdf	7548
 DH. Il	747
 DH. Malgré	5412
@@ -111,16 +115,19 @@ DHIS District Health Information System	2775
 DHIS District Health Information System USAID	766
 DHIS and MAGPI	10919
 DHIS-2	1212,2990,147
-DHIS2	150,1,3,1,63,175,138,199,36,5,206,40,1,143,4,96,563,123,12,504,215,288,205,214,335,71,93,51,232,35,10,89,48,81,245,92,62,191,205,374,312,137,105,515,359,894,455,304,459,418,503,128,587,1,4,49,4,45,3,38,9,12,30,447,37
+DHIS2	150,1,3,1,63,175,138,199,36,5,206,40,1,143,4,96,563,123,12,504,215,288,205,214,335,71,93,51,232,35,10,89,48,81,245,92,62,191,205,374,312,137,105,515,359,894,455,304,459,418,503,128,587,1,4,49,4,45,3,38,9,12,30,447,37,83,4,28,17,3,7
 DHIS2 Aceda	11454
 DHIS2 Android Capture	1018
 DHIS2 Android Capture. Main	1018
 DHIS2 Angola	11454
+DHIS2 Annual Conference	11589
+DHIS2 Climate	11589
+DHIS2 Climate App	11589
 DHIS2 Contributing Partner	6153
 DHIS2 Contributing Partners	6153
 DHIS2 DHIS2	4349
 DHIS2 Database Responsibility for Data Collection	11417
-DHIS2 District Health Information System	10829,52
+DHIS2 District Health Information System	10829,52,679
 DHIS2 EIR Tracker	977
 DHIS2 EIR and CRVS	977
 DHIS2 EMIS	1017,942
@@ -136,7 +143,7 @@ DHIS2 Remark	4349
 DHIS2 SDG	6048
 DHIS2 Shared Services Fee	6153
 DHIS2 Technical Working Group	10928
-DHIS2 Tracker	977,2408,7534
+DHIS2 Tracker	977,2408,7534,670
 DHIS2 Training and Implementation	6048
 DHIS2 WPP	4349
 DHIS2 ZIS	10780
@@ -144,10 +151,11 @@ DHIS2 and HISP	3884
 DHIS2 and MAGPI	10919
 DHIS2 and Mojaloop	4430
 DHIS2 and REC-Maternity	10881
+DHIS2 for Climate	11589
 DHIS2 for Education	1947,2882,1219,979
 DHIS2-	10780
 DHIS2-Ed	4829
-DHIS2-based	2678,4349
+DHIS2-based	2678,4349,4569
 DHIS2-based SIGE	1959
 DHIS2-certified	7921
 DHIS2-integrated	4430
@@ -161,6 +169,7 @@ DHIS2. MPME	641
 DHIS2. Over	4202
 DHIS2. PSHPA	10833
 DHIS2. Reduced	4338
+DHIS2. Temperature	11589
 DHIS2. Thanks	10928
 DHIS2. Without	10881
 DHL Express SSA	9720
@@ -178,7 +187,7 @@ DHMIS Policy	396
 DHMIS SOPs	396
 DHS CERTIFICATION OF COMPLIANCE NO	2709
 DHS II	970
-DHS Program	6337,4423,17
+DHS Program	6337,4423,17,800
 DHS Program. Como	10777
 DHSII	970
 DHSRQA MoH	9855
@@ -236,6 +245,7 @@ Emerging DCDT DHET	6832
 Form DHA-9 For Naturalized Citizens	2115
 Foundational Digital DBE DHET	6832
 Ghana and DHIS2	6668
+Guinea Bissau DHIS2 Climate	11589
 HISP and DHIS2	8680
 HIc Bangladesh Asia Southern Asia Dhaka	10840
 HMIS. DHIS2	10829
@@ -327,8 +337,10 @@ TECHNOLOGY CONFERENCE IN ABU DHABI	4827
 TVET Modernisation DHET	6832
 Thon Dhiei Ngor	4042
 Through the DHA	5533
+UDPRSDtVGHVGH DHVWDSDUWH	11527
 UNICEF. On the DHIS2	10780
 US DHS	2954
 University of Oslo. DHIS2	1219
 VDPV DHA ONO EID EMR	4153
+Wellcome-funded DHIS2 for Climate	11589
 Work-Integrated MICT SETA DHET	6832

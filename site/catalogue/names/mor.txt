@@ -21,6 +21,7 @@ CEED Morocco	1232
 CPA Moremi Marwa	3954
 Cacuaco and Morro Bento II	10775
 Capanha de Moralização	10750
+Causas de Morte	11537
 Causas de Morte Mortalidade Contém	966
 Central Bank of Morocco	4920
 Ceuta and Moroccans	8811
@@ -91,6 +92,7 @@ Hub Morocco Digital for Sustainable Development	4833
 IDSR and BES Maternal Mortality Rate	4260
 IMF. Morocco	8891
 IMR Infant Mortality Rate IMT International	2775
+INCAPACIDADE OU MORTE DO CANDIDATO	11528
 Idarati X.0 Morocco	5004
 India Georgia Morocco Kenya Ghana Cambodia	7655
 Indice JP Morgan	7655
@@ -163,6 +165,7 @@ MoRENet's Connectivity	3840
 MoRENet's INTERNATIONAL	3840
 MoRNEt's Connectivity	3840
 MoReq2010	11349
+Monaco Mongolia Montenegro Morocco Mozambique Myanmar	11765
 Montserrat Morocco Mozambique Myanmar Namibia Nauru	11470
 Mor Talla Tine	5402
 Morabeza	1409,4034
@@ -174,12 +177,14 @@ Morada	11430
 Moraes	2816
 Morais Silva	11429,3,47
 Morakinyo	7444
+Moral	11650
 Moralização	10750,1
 Moralização Um	10753
 Moran	8623,268,2419
 Morandini	2816
 Morankar	3791
 Morankar S	3791
+Morança	11546
 Morara	899
 Morash EA	8460
 Moratoire	8224
@@ -197,6 +202,7 @@ Moreau	8606
 Morehouse College	36
 Morel	7911
 Morema	9129
+Moremi Marwa	11612
 Moreso	5145,855
 Moretele North Klipvoor Bulk Water Supply	11248
 Moretlo Molefi	396
@@ -218,7 +224,7 @@ Morne Gijben AfricaWebinar Mar2022 PPT.pdf Author	11191
 Morning Abidjan	8679
 Moroakipi	8213
 Morobo	1963
-Moroccan	25,522,22,674,492,150,373,163,1,3,152,96,42,40,33,533,242,333,188,29,470,254,158,299,451,1,18,8,375,165,98,99,183,45,187,269,102,360,1155,1,17,134,167,427,312,136,925
+Moroccan	25,522,22,674,492,150,373,163,1,3,152,96,42,40,33,533,242,333,188,29,470,254,158,299,451,1,18,8,375,165,98,99,183,45,187,269,102,360,1155,1,17,134,167,427,312,136,925,794
 Moroccan AI	3563
 Moroccan Act	25
 Moroccan Agency for Investment and Export Development	5772
@@ -232,7 +238,7 @@ Moroccan Tech SMEs	1885
 Moroccan and Senegalese	1729
 Moroccan-law	3321
 Moroccans	168,389,3252,304,2339,2358,1
-Morocco	25,143,122,41,98,108,13,8,10,3,56,121,89,17,33,78,48,22,25,125,2,26,21,9,1,6,113,73,2,126,70,101,79,64,7,5,3,91,119,14,147,54,6,98,3,2,20,12,30,52,16,9,11,37,44,15,4,5,33,5,5,30,20,3,5,5,3,13,15,1,2,1,50,41,11,18,4,10,1,24,19,6,10,1,8,23,64,159,13,8,10,54,18,65,20,94,9,33,4,19,4,12,107,40,27,11,39,13,8,2,7,3,4,8,29,44,53,2,34,1,17,1,3,25,28,31,17,193,43,128,30,16,1,9,22,138,6,1,55,2,4,46,6,31,44,8,23,2,7,5,20,10,3,42,1,10,68,51,96,50,79,9,45,4,56,30,9,3,1,12,22,67,37,3,8,1,3,15,8,5,21,4,76,12,29,2,7,28,69,30,17,29,46,108,11,1,7,38,32,19,8,39,34,8,44,13,32,5,57,10,16,10,11,1,41,100,8,7,16,2,74,25,13,1,77,26,24,86,18,24,102,193,96,12,59,52,59,137,1,35,63,129,113,1,16,118,93,4,19,115,107,70,23,2,16,15,48,14,120,10,69,452,312,136,11,58,63,578,45,5,71,3,2,6,15,93,14,37,6,120,3,6,15
+Morocco	25,143,122,41,98,108,13,8,10,3,56,121,89,17,33,78,48,22,25,125,2,26,21,9,1,6,113,73,2,126,70,101,79,64,7,5,3,91,119,14,147,54,6,98,3,2,20,12,30,52,16,9,11,37,44,15,4,5,33,5,5,30,20,3,5,5,3,13,15,1,2,1,50,41,11,18,4,10,1,24,19,6,10,1,8,23,64,159,13,8,10,54,18,65,20,94,9,33,4,19,4,12,107,40,27,11,39,13,8,2,7,3,4,8,29,44,53,2,34,1,17,1,3,25,28,31,17,193,43,128,30,16,1,9,22,138,6,1,55,2,4,46,6,31,44,8,23,2,7,5,20,10,3,42,1,10,68,51,96,50,79,9,45,4,56,30,9,3,1,12,22,67,37,3,8,1,3,15,8,5,21,4,76,12,29,2,7,28,69,30,17,29,46,108,11,1,7,38,32,19,8,39,34,8,44,13,32,5,57,10,16,10,11,1,41,100,8,7,16,2,74,25,13,1,77,26,24,86,18,24,102,193,96,12,59,52,59,137,1,35,63,129,113,1,16,118,93,4,19,115,107,70,23,2,16,15,48,14,120,10,69,452,312,136,11,58,63,578,45,5,71,3,2,6,15,93,14,37,6,120,3,6,15,417,21,16,114,12
 Morocco AI	6792,3212
 Morocco Data Center Market	1244
 Morocco Digital	3113,779
@@ -258,6 +264,7 @@ Morocco South Africa Kenya Egypt UMOA	6938
 Morocco The Systemic Risk Coordi-	6938
 Morocco US	4883
 Morocco World News	4995,1449,3560
+Morocco Yes Stratégie Maroc Numérique	11529
 Morocco and Algeria	8828
 Morocco and Cameroon	6593
 Morocco and Digital Cooperation Organization	7169
@@ -313,7 +320,7 @@ Morocco’s Al Mada	9868
 Morocco’s Boutayeb	6692
 Morocco’s National Financial Inclusion Strategy	5921
 Morocco’s National Telecommunications Regulatory Agency	9868
-Morogoro	2868,2915,232,15,698,88,434
+Morogoro	2868,2915,232,15,698,88,434,4389
 Morogoro Amesema	6602
 Moroke	9439
 Moroke Sekoboto	2767,82,35
@@ -328,6 +335,8 @@ Moroni Prince Saïd Ibrahim	4729
 Moroni-Union des Comores	4342
 Moroni. Dans	5657
 Moronou	10936
+Moroto	11759
+Moroto Town	11759
 Morozov	5700,5350
 Morozumi	10997
 Morpho Safran	11115
@@ -346,13 +355,19 @@ Morse	736
 Mortalidad	1701
 Mortalidade	10760,17
 Mortalidade Contém	966
+Mortalidade Infantil	11537
+Mortalidade Intra-Hospitalar	11537
+Mortalidade Materna	11537
+Mortalidade Neo Natal	11537
 Mortalidade Perinatal	10777
 Mortalidade Relacionada	10777
-Mortality	10780
+Mortalidades	11537
+Mortality	10780,805
 Mortality Estimation UN MMEIG United Nations	10759,76,2,1,130
 Mortality Rate	4167,35,15,43,1092,5428
 Mortalité	11123
 Morte	10754,706,7
+Morte Neonatal	11537
 Morten Larsen ABBREVIATIONS AND ACRONYMS	2889
 Mortes	10760
 Mortgage	11198
@@ -360,6 +375,7 @@ Mortgage Backed Securities	10
 Mortgage Secured Credit Credit Facility Unsecured	11198
 Mortgagees	10
 Mortgages	11198
+Mortos	11537
 Morwane	8272
 Mory Condé	4945,3033,2632,81
 Mpho Morolong	3360
@@ -370,6 +386,7 @@ National ID Card Morocco No N	10714
 National Mortgage Industry Policy	8087
 National Mortgage Registry	8087
 Nationale MOR.pdf	8891
+Nelson Morreira	11544
 Neonatal Mortality Rate	4349
 News Culture Moroccan Filmmaker and Rapper	5407,676
 Nexus Core Systems and Morocco's Ministry of Digital	5745
@@ -379,6 +396,7 @@ Nigeria. Morocco	1436
 Nita Morgan	7253
 Nompilo Morafo	8579
 O Fundo Morabeza	3709
+OECD Digital Government Review of Morocco	11593
 OPINION OF J.P. MORGAN SECURITIES LLC	7198
 Opinion of J.P. Morgan Securities LLC	7198
 Orange Botswana. PIC MORERI SEJAKGOMO Orange	5666
@@ -388,6 +406,7 @@ PIC MORERI SEJAKGOMO Botswana	5989
 PIC MORERI SEJAKGOMO Botswana Telecommunications Corporation	5062
 PIC MORERI SEJAKGOMO Local	3174
 Par Damba Morlaye	9844,428
+Paulo Morais	11696
 PayChangu CEO Morgan Tembo	3035
 Portugal and Morocco Revisit Proposed	965,3924,206
 Portugal. Morocco	2837
@@ -421,7 +440,7 @@ Sensitive Moroccan	1885
 Sharon Morgan	226
 South Africa and Morocco	3516
 South Africa. MoRENet	3840
-South China Morning Post	3598,1766,352,4728,1
+South China Morning Post	3598,1766,352,4728,1,1295
 South Sudan Sudan Egypt Morocco East	9616
 Southern Africa Morne Gijben Lead Scientist	11191
 Starlink Internet Services Morocco	5412
@@ -446,6 +465,7 @@ VISION OF THE DIGITAL MOROCCO	1885
 Vertiv Africa MD Wojtek Piorko and Morocco	8245
 Viet Nam and Morocco	10846
 Vietnam Georgia Morocco Indonesia Kenya Cambodia	7655
+Voltage M&E Monitoring and Evaluation MASEN Moroccan	11549
 WTO Moratorium	2117
 World Bank Open Data Mortality	10881
 Yandiswa Mpetsheni Morudu DDG	11237

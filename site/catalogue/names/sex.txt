@@ -21,6 +21,7 @@ CORPS ET FONCTION IV.1.4 Urbain Sexe	10847
 CORPS ET FONCTION IV.1.5 Rural Sexe	10847
 Category and Sex	2775
 Category and Sex1	2775
+Child Sexual Abuse	11648
 Child Sexual Exploitation	1597
 Class and Sex	2775
 Command Stations and Sex	2775
@@ -52,6 +53,7 @@ Interpretação Sexo	11421
 La Sextorsion	9133
 Lagos State Domestic and Sexual Violence	2445
 M Member Sex	582
+Mitigation Initiative STI Sexually	11549
 Mundo Sexta	11479
 Múltiplos Parceiros Sexuais	10777
 NET DE SCOLARISATION PAR SEXE Nombre	10847
@@ -86,6 +88,7 @@ Privé Sexe I.P. Total Travaillant	10847
 Procurement STI Sexually Transmitted Infection TFP	10829
 Programme and Sex	2775
 Prévention des Violences Sexuelles	10475
+REPÚBLICA DA GUINÉ-BISSAU BOLETIM OFICIAL Sexta-feira	11569
 Recovery and Human Development SRHR Sexual and Reproductive	970
 Relações Sexuais Pré-Conjugais	10777
 Research Category and Sex	2775
@@ -99,8 +102,8 @@ SEXE ET NIVEAU III.5.2 Rural	10847
 SEXE ET NIVEAU III.5.3 Urbain	10847
 SEXE ET NIVEAU III.5.4 Public	10847
 SEXE ET NIVEAU III.5.5 Privé	10847
-SH Sexual Exploitation and Abuse	1867,1737,7164
-SH Sexual Exploitation and Abuse and Sexual Harassment	11417
+SH Sexual Exploitation and Abuse	1867,1737,7164,792
+SH Sexual Exploitation and Abuse and Sexual Harassment	11417,132
 SH Sexual Harassment SME Small and Medium	1264
 SH Sexual Harassment STEP Systematic Tracking	10829
 Satellite PMU and Contractor Sexual	1988
@@ -108,6 +111,7 @@ Saúde Sexual	10777
 Sex Femme	737
 Sex Male Female Total Western Cape	11192
 Sex Ratio	958,8527
+Sex Young	11581
 Sex and County	2775
 Sex and KCSE Mean Grade	2775
 Sex and Mean Scores	2775
@@ -131,7 +135,7 @@ Sexo Província	4044
 Sexo Tabela	11387
 Sexo Total Província	4044
 Sexo Urbana Rural Homens Mulheres	4044
-Sexta	3906,2835,1853,665,1,1518,654,47,6
+Sexta	3906,2835,1853,665,1,1518,654,47,6,91
 Sexta Edição	10752
 Sexta-feira	14,781,2071,8607
 Sexual	587,10163,26,53
@@ -142,7 +146,7 @@ Sexual Exploitation and Abuse Specialist	11417
 Sexual Exploitation and Abuse The Project	1988
 Sexual Exploitation and Abuse and Sexual Harassment	1988
 Sexual Harassment	1264,514,89,121,3915,5514
-Sexual Harassment SEP Stakeholder Engagement Plan	1867,1737
+Sexual Harassment SEP Stakeholder Engagement Plan	1867,1737,7956
 Sexual Harassment SIGAS Social Action Management	10768
 Sexual Health Today	5574,215
 Sexual Offences Act	1988,6960

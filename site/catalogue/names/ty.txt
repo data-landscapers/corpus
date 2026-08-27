@@ -2,6 +2,8 @@ AAAAAD TyPXwwDBg0s0jC6f8MlawFINDn&gclid	7638
 AI Adoption Typology	10726
 AI Adoption Typology of Degree and Type	10726
 ANPR. Typical	5716
+Account Number Type	11685
+Account Type	11685
 Address Types	11129
 African Union Document Type AU-EU Space	11283
 Algorithm Type Approach	8604
@@ -9,6 +11,7 @@ Analysis of Civil Society Typologies	11028
 Angola. Typically	10763
 Application Type Date	1877
 Asset Type	7662
+Association Type Financing	11549
 Association. Type Financing	969,9860
 BAD. Type	1993
 Bank Ownership Type	10718
@@ -30,10 +33,11 @@ Classification Internationale Type	10874
 Closing Type	4972
 Colonne Type Description Exemple	747
 Combining Degree and Type	10726
-Conditions Type Citation Description Financing	1264,603,1737,2935,4229,649
-Conditions Type Financing	1284,9545
+Conditions Type Citation Description Financing	1264,603,1737,2935,4229,649,143
+Conditions Type Financing	1284,9545,720
 Consulting Service Type	8726
 Contender Typology and Electoral Dynamics	10062
+Controlling Person Type and Self Certification	11685
 DES Scope Subsystem Type Categorical	7221
 DES Scope System Type Binary	7221
 DES Scope System Type Nominal Identifies	7221
@@ -55,6 +59,7 @@ Elements of Address Type Title First Name	11129
 Entity Type	11276
 Equipment Type Approval	10407
 Equipment Type-Approval	10407
+Equity Interest Type and Self Certification	11685
 FADES. Type	1993
 Features and Types of Addresses	11129
 Fees License Type Tenure Application Annual	10407
@@ -69,6 +74,7 @@ Ghana Type	236
 Government And Civil Society. Flow Type	7589
 Grand Bassam NATURE DE L’EFFET TYPOLOGIE	1005
 Grant Type	6222,2777
+Guinea-Bissau Type	11570
 HEALTH INTEROPERABILI TY IN SOUTH AFRICA	1009
 HL7v3 Abstract Data Type Specification	1009
 Health Tygerberg Central Hospital	11248
@@ -212,6 +218,7 @@ Tyira	9935
 Tyira and Ledwaba	9935
 Tyla Laura Seethal	2626
 Tyler	961
+Tymbundu	11577
 Tyme Bank	5533,58
 Tyme Group	611,529,3832
 Tyme Group Holdings	611
@@ -223,10 +230,11 @@ TymeBank Ltd	611
 TymeBank’s CEO	4772
 Tymtrack Limited	6946
 Type Approval	718,6228
+Type Approval Regulations	11573
 Type Approval and Distribution	8916
 Type Approval and Equipment Clearance	6946
 Type Billion Birr	5655
-Type Financing	10829
+Type Financing	10829,720
 Type IBRD	10964
 Type II	8376
 Type II Card	34
@@ -268,13 +276,13 @@ Type-2	196,66,102,498,605,698
 Type-Approved-Equipment-List.php	8916
 Type-Approved-Equipment-List.php Buying	8916
 TypeScript	5513
-Types	582,136,529,691,686,4597,569,1616,682,788,99,29,135,55,30
+Types	582,136,529,691,686,4597,569,1616,682,788,99,29,135,55,30,293
 Types Effectif Pourcentage	10875
 Types of AI Machine Learning	4528
 Types of Incidents and Level of Support All	775
 Types of Misconduct Addressed	11218
 Typical	5238,3885
-Typically	1248,493,1172,451,1918,1597,343,2853,744,160,175,132
+Typically	1248,493,1172,451,1918,1597,343,2853,744,160,175,132,259
 Typographic	8604
 Typologie	5740,3151,2084
 Typologie des Ser-	10237

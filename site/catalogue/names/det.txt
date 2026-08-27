@@ -66,7 +66,7 @@ DETAILS OF THE HEALTH DATA CONTROLLER	2709
 DETAILS OF THE REQUESTER	2709
 DETAILS REGARDING PRINCIPAL PROPERTIES OCCUPIED	4896
 DETAILS REGARDING PRINCIPAL PROPERTIES OCCUPIED PROPERTY	4896
-DETAILS World Bank Group Financing International	1704,163,424,1271,7206
+DETAILS World Bank Group Financing International	1704,163,424,1271,7206,792
 DETAILS-NewFinEnh1 World Bank Group Financing International	10829
 DETALINE VENTURES LIMITED Data Controller INST-3300515AFB2	7167
 DETALLE DE GASTOS	4209
@@ -75,6 +75,7 @@ DETALLE DE INGRESOS	4209
 DETALLE DE LOS SALARIOS DE FUNCIONARIOS	4209
 DETECTAR	11376
 DETECTOR SECURITY GROUP LIMITED Data Controller	7167
+DETENTEURS DE MONNAIE ELECTRONIQUE	11522
 DETERMINATION	5113
 DETERMINED	3861
 DFIL. Details	10768
@@ -92,7 +93,7 @@ DetailFreeIncluded	10848
 DetailFreeIncludedOrderOfMagnitude	10848
 DetailFreeSubscriberCount	10848
 DetailOrderOfMagnitude	10848
-Detailed	236,500,476,45,7,20,540,43,121,721,969,220,74,242,87,48,17,310,437,552,470,697,242,464,763,596,226,75,990,59,467,7,130,5,74,87,113,94,125,50,2
+Detailed	236,500,476,45,7,20,540,43,121,721,969,220,74,242,87,48,17,310,437,552,470,697,242,464,763,596,226,75,990,59,467,7,130,5,74,87,113,94,125,50,2,171
 Detailed Analysis	236
 Detailed Audit Trails	5665
 Detailed Data Storage Location Inventory	6432
@@ -152,8 +153,9 @@ Detecção	539,2277
 Detecção Automática de Interacção Qui-Quadrado	11416
 Detecção de Dupla Inscrição	11425
 Deteiled	3972
-Detenham	11430
-Detention	4531,6646
+Detenham	11430,90
+Detention	4531,6646,527
+Deter	11520
 Detergentes	4209
 Deteriorated	5679
 Deterioration	1828,9007,3,130
@@ -167,11 +169,12 @@ Deterioration No Change Not Classified FOUNDATIONS	10759
 Deterioration No Change Not Classified SECURITY	10837
 Deterioration Overall Governance	10968
 Determinados	3519,7936
+Determinantes de Saúde	11543
 Determinants	7886,135,1107,532,1,299,816,188,231,76
 Determinants Of Implementation Of The Digital	899
 Determinants of Health Addressed	10776
 Determinants of Property Tax Revenue	10997
-Determinar	1701,9076,653
+Determinar	1701,9076,653,88,1
 Determination	1,2,19,214,526,2243,302,407,1399,1833,492,1691,1592,460,88
 Determination Committee	11177
 Determination No	6946
@@ -179,7 +182,7 @@ Determination Officer SA South Africa	5533
 Determination of Dominant Position	1847
 Determinations	10157
 Determinations Meets Minimum Requirements	11005
-Determinação	11360,46
+Determinação	11360,46,113
 Determinação da Coima	11430
 Determine	573,427,630,463,1068,1053,3807,1102,1034,972,51,5
 Determine Whether the Entity	11233
@@ -195,8 +198,9 @@ Determining the Contribution	236
 Determining the Controlling Persons	11233
 Deterministic	1828
 Deterministic Frontier Using Data Envelopment Analysis	1828
+Detetar	11527
 Deteção	11376
-Dette	4420,5005,1550
+Dette	4420,5005,1550,605
 Dette Publique Ministère	10708
 Dette Publique Ministère des Finances Guinée Bissau	10708
 Dette du Trésor	7655
@@ -299,14 +303,16 @@ Mobile Satellite Station Details Type	736
 Monitoring Farm Management Recycling Detecting Food	4126
 My Registration Details	7266
 N Company Name Date of Contact Details	3386
+NCD Non-Communicable Disease NDC Nationally Determined	11560
+NDC Nationally Determined Contribution NDP National	11549
 NDC Nationally Determined Contribution NDTS National	3604
 NDC Nationally Determined Contribution NPV Net	1264
 Name and Registration Details	5538
 National Determined Contribution	970
-Nationally Determined Contribution	5247,1292,4878
+Nationally Determined Contribution	5247,1292,4878,169
 Nationally Determined Contribution NDE New Digital	2775
 Nationally Determined Contribution Net Interest Income	11134
-Nationally Determined Contributions	970,294,2340,5789,1436,381
+Nationally Determined Contributions	970,294,2340,5789,1436,381,326
 Network Intrusion Detection Systems	1000
 News Details	9884
 News Details Latest News	2311,24,2424,534,613,107,100,280,14,352,339,157,80

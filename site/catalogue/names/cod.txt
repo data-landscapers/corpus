@@ -32,6 +32,8 @@ Baltic Code	5700
 Benin Digital Code	10822
 Benin's DIGITAL CODE	1728
 Benin's Electoral Code	5782
+Biseau Codel	11544
+Bissau Codex	11518,1,8
 Board’s Health Safety Code	9855
 Burundi's Electoral Code	2859
 CAPÍTULO II DESCRIÇÃO DA CODIFICAÇÃO	11409
@@ -120,7 +122,7 @@ Code Nation	6133
 Code Nation Plan	6133
 Code Numérique	743,3824
 Code Owner N	9124
-Code Pénal	743,488
+Code Pénal	743,488,10349
 Code Pénal. Article	1231
 Code Pénal. Cette	743
 Code QR	5471,5682
@@ -167,6 +169,7 @@ Code of Persons and Family	10812
 Code of Practice	8529,1,1078,313
 Code of Practice for Information Security Controls Detailed	3861
 Code of Practice for Interactive Computer Service Platforms	5215
+Code of Public Procurement	11525
 Code of USAC Committee Meetings Ethics and Conduct	6946
 Code the Future	3527,26
 Code-Division Multiple Access FWA	6000
@@ -180,8 +183,10 @@ CodeForAfrica	6055
 CodeLoccol	3395
 Codebook	7221,1215
 Coded	11156
+Codenroll Privacy	11539
 Coders Eswatini	4866,2821
 Coders and AI Practioners	4866
+CodersEswatini	11667
 Codes	961,11,1109,1806,567,1,1,676,1562,252,332,3902,55
 Codes Add	8603
 Codes NSPC National Signalling Point Codes	6946
@@ -191,7 +196,7 @@ Codes of Conduct	961,916
 Codes of Conduct for Responsible Use	6432
 Codes of Practice	8692
 Codevelop and AFR	8449
-Codex	5967,531
+Codex	5967,531,5071
 Codezone	5869
 Codificación	4209
 Codification	4583,3383,2909,254
@@ -200,6 +205,7 @@ Codification and ReformAct	972
 Codification andReform	972
 Codificação	10769,14,626
 Codificação Nacional	11409
+Codificações	11569
 Codified Exit Protocols	5141
 Codifies	4366
 Codify	11136,13
@@ -225,6 +231,7 @@ Consumer Code	11
 Consumer Code of Practice Regulations	9110
 Content Services Using Short Code Numbers	3862
 Contenu Code des Marchés Publics du Bénin Référence	10876
+Copyright Code	11550
 Criminal Code	27,931,14
 Criminal Law Code	972,8279
 Criminal Law Codification and Reform Amendment Act	6951
@@ -288,8 +295,10 @@ Ghana’s One Million Coders Programme	5298
 GitHub Copilot and Claude Code	10534
 GitHub Copilot and VS Code. All	6498
 Government AI Adoption Code	7548
+Green Coding	11687
 Guidelines and Code	7548
 Guidelines and Code of Technology	7548
+Guinea-Bissau Copyright Code	11550
 H.S Code	6921
 HF CPE-COD-ENV- Conforme CODAN	998
 HS Code	6921
@@ -320,12 +329,15 @@ International Building Code Data Center Design	9123
 International Data Policy Committee CODATA	5246
 Internet Code of Practice	3945,638
 Introduces Digital Code	3153
+Investment Code	11550
 JEL CODES D63	10985
 JEL Codes	10323
 KING CODE AND CORPORATE GOVERNANCE	4896
 Kenya Master Facility List Code	2709
 King Codes	4896
 L'adoption du Code	3267
+L223-1 du Code	11742
+L242-16 du Code	11742
 LANGUAGE CODES	582
 LEI SOBRE A CODIFICAÇÃO DAS UNIDADES	11409
 LINKS TO SECTORAL DAC CODES	970
@@ -334,6 +346,7 @@ Labour Code	10841
 Le Code	3267,5054,2553,1,1
 Le Code CIMA	10965
 Le Code Electoral	2808
+Le Green Coding	11687
 Lei da Codificação	11409
 Life Safety and Fire Safety Codes	1988
 Lusaka. ZIP Code	9603,1
@@ -453,11 +466,14 @@ Translate Code	1988
 UK Age-Appropriate Design Code	6029
 UK's Code of Practice for Statistics	8283
 UK’s Age-Appropriate Design Code	7983
+Under the Civil Procedural Code	11550
 Under the Union Customs Code	11036
 Union Customs Code	11036
 Urban Planning and Urban Land Code	10930
 Urban Ref. Code	11180
 VISITS RESULT CODES	582
+Value-Added Tax Code	11550
+Victims Under Ethiopia’s Criminal Procedure Code	11607
 Wayleave Code	1988
 Whereas the GPAI Code of Practice	11050
 Zambia Bureau of Standard Codes	1988

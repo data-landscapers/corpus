@@ -86,7 +86,7 @@ Addi-	10780
 Adding	2869,79,264,2311,297,542,472,1112,42,1135,2008
 Adding PayPal	6368
 Addis	1219,585,1175,1219,133,1635,4693
-Addis Ababa	26,1,1,83,266,252,104,228,70,132,56,18,6,354,117,100,446,257,359,2,5,23,16,258,36,22,249,108,64,36,93,335,226,227,190,16,5,19,267,1,18,110,100,179,344,48,88,5,894,650,28,152,104,25,1,67,22,165,14,104,135,22,322,248,112,275,1,1,493,30,7,658,87,76,50,177,397,5,129
+Addis Ababa	26,1,1,83,266,252,104,228,70,132,56,18,6,354,117,100,446,257,359,2,5,23,16,258,36,22,249,108,64,36,93,335,226,227,190,16,5,19,267,1,18,110,100,179,344,48,88,5,894,650,28,152,104,25,1,67,22,165,14,104,135,22,322,248,112,275,1,1,493,30,7,658,87,76,50,177,397,5,129,177,71
 Addis Ababa Action Agenda	970,2613,6752,858
 Addis Ababa Agreement	3583
 Addis Ababa City Administration	7463
@@ -94,7 +94,7 @@ Addis Ababa City CRRSA	2878
 Addis Ababa City Government Revenues Bureau	10496
 Addis Ababa Either Participant	4349
 Addis Ababa Ethiopia Cameroon Union	10764
-Addis Ababa Ethiopia Tel	8754,1962
+Addis Ababa Ethiopia Tel	8754,1962,1020
 Addis Ababa Ethiopia Union	10844
 Addis Ababa For the Government	4349
 Addis Ababa Othow	8572,1615,987
@@ -110,6 +110,7 @@ Addis Ababa University. Drew	3595
 Addis Ababa University. World Bank	8671
 Addis Ababa's Digital One-Stop Platform Streamlines	7463
 Addis Ababa. Bank	7909
+Addis Ababa. Behigamlak	11607
 Addis Ababa. CIO Africa	10025
 Addis Ababa. Establishes	505
 Addis Ababa. Ethiopian	5073
@@ -135,7 +136,7 @@ Addison-Wesley	3782
 Addit	4260
 Additif N	5983
 Addition	585,151,277,931,2788,2189
-Additional	25,141,210,395,128,62,1,7,51,141,51,7,45,20,371,159,4,10,160,281,126,109,1,172,212,495,199,131,68,79,57,1,1,223,117,89,85,149,313,191,64,93,2,454,456,55,200,12,96,409,297,323,211,31,113,246,53,398,28,43,21,291,140,6,154,82,260,63,21,30,479,129,367,45,4,2,3,7,5,4,30,15,6,2,1,14,4,3,2,1,2,2,15,31,30,21,1,4,9,8,19,125,2,2,4,19,12,13,37,4,2,7,5,1,11,2,8,137,22,52
+Additional	25,141,210,395,128,62,1,7,51,141,51,7,45,20,371,159,4,10,160,281,126,109,1,172,212,495,199,131,68,79,57,1,1,223,117,89,85,149,313,191,64,93,2,454,456,55,200,12,96,409,297,323,211,31,113,246,53,398,28,43,21,291,140,6,154,82,260,63,21,30,479,129,367,45,4,2,3,7,5,4,30,15,6,2,1,14,4,3,2,1,2,2,15,31,30,21,1,4,9,8,19,125,2,2,4,19,12,13,37,4,2,7,5,1,11,2,8,137,22,52,67,17,32,4,167
 Additional APS	4260
 Additional CapEx	3184,1,1340,6256,214
 Additional Conditions IBRD	11417
@@ -207,7 +208,7 @@ Addressed	557,6855,3838
 Addressed Holistically	11285
 Addressee	11129
 Addresses	736,2306,8087
-Addressing	21,407,361,151,30,67,667,73,37,65,109,383,51,103,67,438,361,96,96,158,76,241,161,121,17,173,113,10,7,27,31,130,58,34,14,135,18,67,81,1,72,205,245,6,19,132,29,151,86,118,1,207,66,188,51,104,2,10,54,41,62,46,38,47,42,129,91,50,57,10,72,64,39,69,46,41,124,132,86,39,48,85,21,63,1,19,11,28,8,137,17,68,3,98,303,9,85,18,2,10,3,252,140,3,136,44,30,93,40,2,47,20,91,266,1,312,15,5,71,31,1,19,2,12,6,1,2,56,19,48,2,2,1,1,1,20,39,70,20,55,77,52
+Addressing	21,407,361,151,30,67,667,73,37,65,109,383,51,103,67,438,361,96,96,158,76,241,161,121,17,173,113,10,7,27,31,130,58,34,14,135,18,67,81,1,72,205,245,6,19,132,29,151,86,118,1,207,66,188,51,104,2,10,54,41,62,46,38,47,42,129,91,50,57,10,72,64,39,69,46,41,124,132,86,39,48,85,21,63,1,19,11,28,8,137,17,68,3,98,303,9,85,18,2,10,3,252,140,3,136,44,30,93,40,2,47,20,91,266,1,312,15,5,71,31,1,19,2,12,6,1,2,56,19,48,2,2,1,1,1,20,39,70,20,55,77,52,81,22,46,97
 Addressing AI	4528
 Addressing AI Safety and Security	1814
 Addressing Africa's Trade Finance Gap DFIs	10718
@@ -314,6 +315,7 @@ Determinants of Health Addressed	10776
 Determining Themes for Addressing Zones	11129
 Development of National Digital Address System	10861
 Digital Address	1263,2123
+Digital Addressing Platform	11747
 Digital Addressing System and Address Verification System	8825
 Digital Cabo Verde Project Additional Financing.md	583
 Digital Cabo Verde Project Additional Financing.pdf	2780
@@ -330,6 +332,7 @@ Dr. Addis Ababa Othow	3507,172,6507
 Draft National Addressing Policy	11129
 Dynamic Data Solutions Digital Address	3386
 E. Timing of Review and Additional Procedures Applicable	11233
+ECOWAS Additional Act	11548
 EIB. Additional EU	852
 EMAIL ADDRESS	2709,8531
 ET-AUC-560865-GO-RFB Addendum	10616
@@ -348,6 +351,7 @@ Environment and Natural Resources Gross Value Added	2775
 Equity Addition	1944
 Equity Financial Leverage Additions	1013
 Eswatini United States of America Value Added	11131
+Ethiopia Addis Ababa	11665
 Ethiopian FY Addis Ababa	3211
 Ethiopian Investment Holdings Portfolio. Addis Ababa	8971
 Example Individual Address	11129
@@ -374,6 +378,7 @@ Google News Add TechCentral	5050,494,389,353,79,194,162,177,2871
 Governance Global Practice. Additional	4214
 Governance Model Addressing Liberia	1777
 Government Addressing Team	11129
+Green Growth Addis Ababa	11664
 Gross Value Added	236,2539
 Gross Value Added HTML Hyper Text	236
 HEALTH AND WELL-BEING Determinants of Health Addressed	10776
@@ -462,8 +467,10 @@ National Addressing Database	11129
 National Addressing Policy	11126,3
 National Addressing Standard	11129
 National Addressing System	1595,509,9025
+National Addressing System Bill	11757
 National Addressing System Committee	11129
 National Addressing System Council	11129
+National Addressing System Department	11757
 National Addressing System Steering Committee	11129
 National Addressing System. The Council	11129
 National Addressing and Nigerian Postcode Systems	11129
@@ -471,7 +478,7 @@ National Addressing and Postcode System	2104
 National Change of Address	11129
 National Digital Addressing	9369
 National Digital Addressing Plan	3751
-National Digital Addressing Policy	3751
+National Digital Addressing Policy	3751,7963
 National Digital Addressing Project	3751
 National Digital Addressing Steering Committee	3751
 National Identification Authority Digital Address	1263,1045
@@ -603,6 +610,7 @@ Thursday. Mr Addai	8766
 Trade Mancoba Khumalo. Addressing	5774
 Tunisia. Additionality	1818
 Types of Misconduct Addressed	11218
+UNDP Guinea-Bissau Address	11586
 UNESCO Addressing	7709
 Uganda. Addressing	6435
 United Nations Development Programme and Addis Ababa	7474
@@ -631,3 +639,4 @@ Wycliffe Muia. Additional	7352
 X Add	7058
 Year Addis Ababa	1798
 Yilebes Addis	4115
+Yoff Zimbabwe Addis Ababa Cameroon Senegal	11563

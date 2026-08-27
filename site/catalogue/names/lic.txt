@@ -1,12 +1,14 @@
 ADD. Licence	1232,1026
 ADDIS ABABA TELECOMMUNICATIONS LICENSING DIRECTIVE WHEREAS	762
 AMEL Aircraft Maintenance Engineers License AMOS	2775
+ATRIBUIÇÃO DE LICENÇAS RADIOELÉTRICAS	11531
 Administrator Licenses	10616
 Africa. License	3618
 Air Transport Pilot License BEC Broad	2775
 Al-Amin Licensee	9129
 All Radio Frequency Spectrum Licenses	762
 Allegedly Sold Driver’s Licences	8639
+Alteração da Licença Individual	11520
 Aluguer de Licença	794
 Amendment of License Conditions	762
 Any Licensee	736,26
@@ -15,6 +17,7 @@ Application for Licences	736
 Approval and License Issuance	5665
 Association of Licenced Telecom Operators of Nigeria	5055
 Association of Licensed Telecoms Operators of Nigeria	8466,780
+Atribuição de Licenças Individuais	11520
 Author. Licensee	8021
 Authority's Licensing and Compliance	7957
 Authority. Licence Name Application Initial	736
@@ -34,6 +37,7 @@ Broader Licensing and Ownership Framework	6891
 Business Licences	9437
 Business Registration and Licensing Agency	5883,933
 Bénéficiaires de Licences Individuelles	998
+CAPÍTULO III LICENÇAS ARTIGO	11520
 CAPÍTULO V Licenciamento	11458
 CED License	7551
 CEOs of Licensed MNOs and ISPs	4613,4864
@@ -91,6 +95,7 @@ Data Controller Licenses	2987
 Data Protection License Number	1877
 Department of Transport’s Driving License Card Account	2521
 Des Licences	998
+Digital Mobile Driving License	11774
 Directive and License Conditions	762
 Directive for Land Mobile Radio Licenses	762
 Director of Companies and Business Licensing	5883
@@ -103,15 +108,18 @@ Driver and Vehicle Licensing Authority. Industry	6177
 Drivers Licence ZRCP TBA	1988
 Driver’s License	10765,10
 Driving Licence Card Account	4554
+ECTS Licenciatura	11534
 Effect of License Revocation	762
 Electricity Licensing Regulations N	718
 Emission License	1988
+Emissão da Licença Individual	11520
 Engineering Licence	2913
 Entidade Licenciadora	11445,13
 Entidade Licenciadora. ARTIGO	11458
 Environmental Licensing Management System	10470
 Environmental Management Licensing Regulations	1988
 Equity Asset Turnover Ratio Licenses Advertising	1944
+Estrangeira Licenciamento	11571
 Ethiopia Denies Granting Starlink License	3217
 Existing License	762
 Expand Digital Banking Licenses	4848
@@ -233,17 +241,17 @@ Licences. SpaceX	6891
 Licencia	9441
 Licencia Mostrando	9441
 Licenciados	6462,4925
-Licenciamento	2437,3025,3388
+Licenciamento	2437,3025,3388,2692
 Licenciamento Ambiental	10276
 Licencias	1701,2508
-Licenciatura	2816,8625,7,24
+Licenciatura	2816,8625,7,24,62
 Licenciatura MF M F Angola	10766
 Licenciatura MF M F N.º	10766
 Licenciement	10876
 Licencing	8180
 Licensable	3887
 Licensable the Authority	3887
-License	586,132,18,26,1226,721,963,51,1130,1,50,137,309,315,1281,602,1055,1,1,321,99,207,1175,314,118,124,1,172
+License	586,132,18,26,1226,721,963,51,1130,1,50,137,309,315,1281,602,1055,1,1,321,99,207,1175,314,118,124,1,172,460
 License Agreement	5665
 License Annual Universal Fee Fee Regulatory	10407
 License Application Conditions and Requirements	762
@@ -319,7 +327,7 @@ Licensing of Starlink	1872
 Licensing of Testing Entities	5665
 Licensing. Embed	1777
 Licensing. LTA	1777
-Licença	2437,8939,1,27,26,15
+Licença	2437,8939,1,27,26,15,73,2
 Licença Creative Commons Nossos	9432
 Licença Multiserviços	11428
 Licença Unificada	2866
@@ -327,7 +335,9 @@ Licença de Classe B	2866
 Licença de Classe C	2866
 Licença de Maternidade	11467
 Licença de Telecomunicações	2866
-Licenças	11383,47
+Licenças	11383,47,90
+Licenças Individuais	11520
+Liceu	11631
 Liceu No	7262
 Licha	7849
 Lichinga	1808
@@ -383,6 +393,7 @@ Number of Granted Individual Research Licenses	2775
 Number of Individual Research Licenses Granted	2775
 Number of Telecommunications Licensees ICT Statistics	6946
 Nwulite Obodo Open Data Licence	5858
+Número de Licenças Individuais	11520
 OPERATING WITHOUT A LICENSE The CSA	9728
 OPÉRATEUR NATURE DE LA LICENCE OFFRES	998
 Obligations of Licensed Satellite Network Operators	10407
@@ -392,6 +403,7 @@ Ooredoo Fintech Secures License	5322
 Open Data Commons Open Database License	1232,1026
 Open Data Licensing and Publication Procedures Sectoral	3861
 Open Database License	1984
+Operating Licence Administrative System	11551
 Operator Licensees	762
 Ownership Requirements for Licences	6621
 PAM Enterprise Licenses for Intranet	10616
@@ -483,6 +495,7 @@ Shi1reAllke License	1009
 Should the Licensee	762
 Signal Distribution License	718
 Single Regulatory Window and Smart Licensing Gateway	4848
+Smart Driving Licences	11774
 Social Licence	11006,1
 Social License	11006
 Social License for Technology	11007
@@ -576,7 +589,7 @@ Water-Use License Application	11236
 Wholesale Electronic Communications Infrastructure License	5277
 World Bank Group. License	10714
 World Bank License	10765,10,37
-World Bank. License	10714,422
+World Bank. License	10714,422,436
 Year License	2716,1353
 ZEMA Licence	1988
 ZEMA Licence Obtain	1988
