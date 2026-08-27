@@ -17,17 +17,17 @@ document (`progress-report-redesign.md` §1) and are not in scope.
 ## Done
 
 ERI and ZAF were the pilots. This pass has since added, in order: **GNB, AGO, BDI, BEN, BFA, BWA,
-CAF, CIV, CMR, COD, COG, COM, CPV, DJI, DZA, EGY, ETH, GAB, GHA, GIN, GMB, GNQ, KEN, LBR, LBY, LSO, MAR, MDG, MLI, MOZ, MRT, MUS, MWI, NAM, NER, NGA, RWA, SDN, SEN, SLE, SOM, SSD, STP, SWZ, SYC, TCD, TGO, TUN** — 50 of 54, one commit each, all pushed.
+CAF, CIV, CMR, COD, COG, COM, CPV, DJI, DZA, EGY, ETH, GAB, GHA, GIN, GMB, GNQ, KEN, LBR, LBY, LSO, MAR, MDG, MLI, MOZ, MRT, MUS, MWI, NAM, NER, NGA, RWA, SDN, SEN, SLE, SOM, SSD, STP, SWZ, SYC, TCD, TGO, TUN, TZA** — 51 of 54, one commit each, all pushed.
 
 Yields so far, as a sense of shape: 21 indicators from GNB's 25 ledger rows, 43 from BDI's 74, 52
 from BWA's 107, 57 from BEN's 105, 64 from BFA's 131, 66 from AGO's 122, 43 from CAF's 92, 92 from
-CIV's 167, 73 from CMR's 121, 67 from COD's 123, 52 from COG's 103, 45 from COM's 117, 49 from CPV's 140, 43 from DJI's 70, 58 from DZA's 111, 66 from EGY's 199, 66 from ETH's 97, 58 from GAB's 120, 81 from GHA's 175, 59 from GIN's 109, 46 from GMB's 75, 42 from GNQ's 67, 93 from KEN's 219, 43 from LBR's 71, 64 from LBY's 84, 61 from LSO's 69, 79 from MAR's 137, 44 from MDG's 67, 55 from MLI's 87, 77 from MOZ's 159, 39 from MRT's 62, 50 from MUS's 81, 65 from MWI's 183, 62 from NAM's 134, 42 from NER's 68, 92 from NGA's 279, 69 from RWA's 128, 29 from SDN's 52, 55 from SEN's 115, 40 from SLE's 83, 37 from SOM's 60, 44 from SSD's 74, 27 from STP's 49, 43 from SWZ's 86, 34 from SYC's 54, 44 from TCD's 132, 47 from TGO's 124, 39 from TUN's 77. Between three quarters and nine tenths of ledger rows map; the rest are placeholders with
+CIV's 167, 73 from CMR's 121, 67 from COD's 123, 52 from COG's 103, 45 from COM's 117, 49 from CPV's 140, 43 from DJI's 70, 58 from DZA's 111, 66 from EGY's 199, 66 from ETH's 97, 58 from GAB's 120, 81 from GHA's 175, 59 from GIN's 109, 46 from GMB's 75, 42 from GNQ's 67, 93 from KEN's 219, 43 from LBR's 71, 64 from LBY's 84, 61 from LSO's 69, 79 from MAR's 137, 44 from MDG's 67, 55 from MLI's 87, 77 from MOZ's 159, 39 from MRT's 62, 50 from MUS's 81, 65 from MWI's 183, 62 from NAM's 134, 42 from NER's 68, 92 from NGA's 279, 69 from RWA's 128, 29 from SDN's 52, 55 from SEN's 115, 40 from SLE's 83, 37 from SOM's 60, 44 from SSD's 74, 27 from STP's 49, 43 from SWZ's 86, 34 from SYC's 54, 44 from TCD's 132, 47 from TGO's 124, 39 from TUN's 77, 61 from TZA's 150. Between three quarters and nine tenths of ledger rows map; the rest are placeholders with
 no source, or real instruments the frame has no question for (a telecoms statute, a broadcasting
 transition), and those correctly stay on the ledger and out of the report.
 
 ## Remaining
 
-4 country units: TZA, UGA, ZMB, ZWE.
+3 country units: UGA, ZMB, ZWE.
 
 ## The loop, per unit
 
@@ -1070,3 +1070,36 @@ interconnection point. Stated as the sovereignty position it is, not as an admin
 **check H can fail on a file the pass did not touch.** Here `TUN-monthly.md:134` carries an uncited
 block; `indicators.csv` passed clean. Read the path in the message before assuming the draft is at
 fault — the register check covers the whole unit, not just the new file.
+
+## What TZA added, 2026-08-28
+
+137 sourced rows of 150, 61 indicators — second-largest unit after NGA. Thirteenth running with
+nothing unmapped, and **the first in this pass where the render check passes clean on every check
+including L**, which has failed on every other unit for unwritten narrative blocks in the progress or
+status document.
+
+**By unit thirteen, a corpus-wide superlative is a claim the pass can support — state it and bound
+it.** Two here. The identity register's 138-plus connected institutions is "the hardest adoption
+figure this base holds for any African identity-verification rail" (the ledger's own words, carried).
+The ports authority chatbot carries "the only measured outcome attached to a public-sector AI
+deployment anywhere in the base" — and the same sentence says fifteen domain experts is a usability
+study rather than a deployment audit. **Make the claim and bound it in one breath**, or it reads as
+promotion.
+
+**Three unreconciled figures, three different reasons, all carried.** Under-five birth registration
+quoted at 65 and 68 per cent a week apart by the same minister — the ledger calls that "the clearest
+available demonstration that the figure is quoted rather than published", which is a better sentence
+than any paraphrase. Smartphone users falling quarter on quarter while the percentage rises. Cables
+and landing stations counted on two bases nothing reconciles. **And where the ledger has already done
+the reconciliation** — the backbone's 16,280 planned / 13,820 at April 2025 / 15,167 at December 2025,
+with the "over 15,000 km" quoted at a July 2026 summit correctly identified as the December figure —
+carry the resolution *and* the reasoning.
+
+**An asymmetry between two enforcement numbers is itself the finding.** 39,117 numbers blocked against
+56 incident reports to the police, no conviction or restitution figure held. The ledger says "blocking
+is not prosecution"; the cell says it too, and adds that prosecution running three orders of magnitude
+below disconnection is the shape of enforcement rather than a reporting gap.
+
+**Register terms keep catching ordinary phrases.** "at scale" tripped the jargon rule inside
+"disconnection at that scale" — grammatically innocent, still banned. Same lesson as TGO's "start-up
+ecosystem": the lint matches the string, not the sense.
