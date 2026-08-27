@@ -12,6 +12,10 @@
 # history — the dated one-liner in logs/mirror_log.md is the record.
 logs/mirror-ffs/
 
+# And its lock, which sits at the repo root for the minutes a sync holds it. A run
+# that checks the tree mid-mirror otherwise reads it as uncommitted work.
+sync.ffs_lock
+
 # Bill and Cowork work on alphas here while a Claude Code session is running in
 # the repo. Untracked on purpose: it keeps in-progress design out of the history
 # and out of any `git add -A`, so the two can work without colliding.
