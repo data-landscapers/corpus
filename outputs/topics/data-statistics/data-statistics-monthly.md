@@ -4,7 +4,7 @@ compiled: 2026-08-27
 period: 2026-07-01 to 2026-08-27
 subject: data.statistics
 places: AGO; BEN; BWA; CMR; CPV; CAF; TCD; COM; COG; COD; EGY; GNQ; SWZ; GAB; GMB; GHA; GNB; LBY; MDG; MWI; MLI; MRT; MOZ; NAM; NER; NGA; SEN; SYC; ZAF; SSD; TUN; UGA; ZWE
-record: 120abd2807a6
+record: 4b66e73800b9
 ---
 
 # National statistics: monthly update, July 2026
@@ -16,6 +16,8 @@ record: 120abd2807a6
 ## Angola
 
 The statistics office [launched a census portal and a mobile application on 2 July](https://angop.ao/noticias/politica/ine-lanca-portal-do-censo-2024-e-aplicacao-movel/), both built by its own technical staff, carrying census indicators by geographic level and macroeconomic series; no open-data licence, bulk download or programming interface is stated.
+
+The statistics institute's [provincial census report for Icolo e Bengo](https://censo2024.ine.gov.ao/ICOLE%20E%20BENGO.pdf) gives the province 1,523,457 people, 150,787 above the figure in the institute's own summary report; differencing the two municipal tables places the whole of that gap in one municipality, Sequele. The base carries no reconciliation of the two published figures.
 
 ## Benin
 
@@ -110,6 +112,8 @@ The Ministry of Youth Empowerment presented the reference document for a [first 
 ## Mozambique
 
 The statistics institute opened enumerator training on 27 July for a census pilot running 1-15 August, testing procedures for a 2027 census it states will be the first run entirely in digital format ([training account](https://jornalnoticias.co.mz/destaque/mais-de-200-jovens-recebem-formacao-para-o-censo-piloto/)).
+
+The digital system intended for the 2027 census [failed in testing](https://www.diarioeconomico.co.mz/2026/08/22/desenvolvimento-2/ine-quer-melhorar-sistema-digital-do-censo-de-2027-apos-falhas-nos-testes/), and the statistics institute's president announced on 21 August 2026 that it is to be improved. That is a delivery risk stated by the issuing institute itself; no revised specification, retest date or fallback accompanies it.
 
 ## Namibia
 

@@ -3,13 +3,13 @@ title: Digital divides — monthly update, July 2026
 compiled: 2026-08-27
 period: 2026-07-01 to 2026-08-27
 subject: include.divides
-places: AGO; BWA; COD; EGY; SWZ; ETH; GHA; KEN; MWI; MOZ; NGA; SEN; UGA; ZWE
-record: ee17bba066c1
+places: AGO; BWA; BDI; COD; EGY; SWZ; ETH; GHA; KEN; MWI; MOZ; NGA; SEN; UGA; ZWE
+record: 91eed551cf19
 ---
 
 # Digital divides: monthly update, July 2026
 
-*14 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*15 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -20,6 +20,10 @@ Satellite-based inclusion produced two counts eight days apart on different base
 ## Botswana
 
 Two school digital centres were handed over in the North West District on 22 and 23 July, at [P1.45m and P1.5m per site with thirty machines each](https://dailynews.gov.bw/news-detail/92351). [They are financed by the universal access and service fund, which draws a 1% levy on mobile service providers](https://dailynews.gov.bw/news-detail/92351); no programme total, annual allocation or school target has been published, and the per-site cost remains the only figure on the record. The base carried nothing on the fund's school programme before January 2026, so the two handovers are the whole of what is known about its delivery.
+
+## Burundi
+
+The telecommunications regulator told a workshop that very few Burundians use the internet. It characterised the level without publishing a figure, so the finding the base can carry is the regulator's own [statement that use is low](https://www.iwacu-burundi.org/englishnews/number-of-internet-users-in-burundi-is-low-says-arct/), not a percentage.
 
 ## DR Congo
 

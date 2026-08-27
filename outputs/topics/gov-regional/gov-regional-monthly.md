@@ -3,13 +3,13 @@ title: Regional collaboration — monthly update, July 2026
 compiled: 2026-08-27
 period: 2026-07-01 to 2026-08-27
 subject: gov.regional
-places: DZA; AGO; BEN; BWA; BDI; CAF; COM; COG; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GNB; KEN; LBR; LBY; MDG; MWI; MLI; MUS; MAR; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; SSD; TGO; TUN; UGA; ZMB; ZWE
-record: e8cfa13d4d3c
+places: DZA; AGO; BEN; BWA; BDI; CAF; TCD; COM; COG; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GNB; KEN; LBR; LBY; MDG; MWI; MLI; MUS; MAR; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; SSD; TGO; TUN; UGA; ZMB; ZWE
+record: 93c6d758cd1a
 ---
 
 # Regional collaboration: monthly update, July 2026
 
-*39 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*40 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -36,6 +36,10 @@ Vietnam's science and technology ministry [received Burundi's governing-party se
 ## Central African Republic
 
 The regional central bank and the payments body [launched an interoperable QR-code standard at Douala on 29 July under an April 2026 regulation](https://leconomie.info/article/paiement-numerique-le-gimac-officialise-la-norme-qr-code-interoperable-de-la-cemac), binding across the six member states, routed and settled through the regional switch and secured to card-industry standards. [The country's share of regional payment volume was 0.43% in 2024 — the smallest but one, against the largest member state's 65.10% — and no country-specific adoption step is on file](https://leconomie.info/article/paiement-numerique-le-gimac-officialise-la-norme-qr-code-interoperable-de-la-cemac). The regional report holds no value figure or account count for the country, so what the standard reaches here cannot be sized.
+
+## Chad
+
+The telecommunications minister [received an Azerbaijani delegation in N'Djamena to explore e-government cooperation](https://www.digitalbusiness.africa/e-gov-lazerbaidjan-propose-son-expertise-aux-administrations-tchadiennes/). Nothing is agreed, and no memorandum, scope or value is on file.
 
 ## Comoros
 
@@ -133,6 +137,8 @@ India is the other bilateral track. At the [fourth joint trade committee in New 
 
 The regulator also took the chair of something. The southern African regulators' association [opened the first meeting of its legal and policy committee at Windhoek from 10 to 12 August, with artificial-intelligence governance, data governance and protection, digital public infrastructure and regulatory harmonisation on the agenda](https://techreviewafrica.com/news/6684/crasa-legal-and-policy-committee-opens-meeting-on-ai-data-governance-and-regional-ict-regulation). No work programme, output or timetable is published with it.
 
+The communications regulator and the electricity distributor [signed a five-year memorandum at Ondangwa covering information and data sharing and rural electrification](https://nambusinessexpress.com/?p=15262). Non-binding is the parties' own description of it, and no work programme or first exchange is on file.
+
 ## Niger
 
 On 30 July a Nigerien technical mission led by the interior ministry's secretary-general was [received in Ouagadougou to study Burkina Faso's identification machinery](https://www.journalduniger.com/niger-burkina-cooperation-identite-numerique-biometrie/) — the civil-status modernisation directorate, the national identification office, the ICT agency and the WURI project. The delegation covered civil registration, migration, the digital agency, territorial surveillance, biometric-card production, the interior ministry's legal service and the ICT and finance ministries, and reported recommendations on issuing authentic documents and limiting document fraud.
@@ -143,6 +149,8 @@ Ministers adopted an Abuja declaration on meaningful connectivity.
 
 
 The continental data convention still has no Nigerian signature behind it: a peer-reviewed review of health-data governance in four countries [records only Rwanda as a signatory, and finds all four frameworks fragmented with weak harmonisation of cross-border transfers](https://datascience.codata.org/articles/10.5334/dsj-2026-031). That is a finding about the record, carried as a dated absence.
+
+The second meeting of the Africa Public Key Infrastructure Forum, held in Abuja, [called for harmonised African rules so that digital credentials, electronic signatures and documents can be verified across borders](https://ait.live/africa-moves-to-harmonise-digital-trust-rules-across-borders/). Nothing was adopted, and the base holds no instrument, timetable or signatory list behind the call.
 
 ## Rwanda
 

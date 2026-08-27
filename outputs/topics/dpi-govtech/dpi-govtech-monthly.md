@@ -4,7 +4,7 @@ compiled: 2026-08-27
 period: 2026-07-01 to 2026-08-27
 subject: dpi.govtech
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 29832fd01b46
+record: a7fe62483287
 ---
 
 # Other GovTech and e-Gov: monthly update, July 2026
@@ -24,6 +24,8 @@ A second national portal was announced on 24 July: the Ministry of Labour, Emplo
 The services-import platform announced on 27 July becomes the exclusive route from 1 August. Nothing held confirms it in operation.
 
 August added two more, and one admission. The trade ministry's [complaints platform for economic operators went live on 11 August](https://www.horizons.dz/2026/08/operateurs-economiques-une-nouvelle-plateforme-numerique-pour-le-traitement-des-preoccupations-a-distance/), for remote filing and tracking of concerns about import and export procedures, and the ministry describes it as the fifth platform it has put into service this year. The Ombudsman institution will [pilot a videoconference citizen-reception service from September 2026](https://www.horizons.dz/2026/08/instance-du-mediateur-de-la-republique-nouvelle-vision/), to ease access for citizens in remote areas and people with specific needs. Against that, on 10 August the interior minister [ordered his own ministry to accelerate digitisation projects he described as stalled](https://www.horizons.dz/2026/08/numerisation-sayoud-ordonne-daccelerer-la-mise-en-oeuvre-des-projets/), naming vehicle-registration and civil-status services, at a review held under presidential instructions to speed cross-sector interconnection. He does not say in what respect they have stalled, and gives no completion figure or revised timetable.
+
+The state fuel distributor [made its e-Mahata platform the single window for ordering tyres](https://just-infodz.com/naftal-pneus-algerie-incoherence-himayatak/), requiring electronic payment and capping one make at two purchases per citizen per six months â€” a rationing rule enforced through an identity-bound ordering platform rather than at the counter. Separately, the labour ministry [launched an online corruption-reporting platform, Tabligh](https://just-infodz.com/lutte-corruption-algerie-plateforme-tabligh-mtess/), covering the central administration, with no report volume, handling procedure or protection for reporters published.
 
 ## Angola
 
@@ -92,6 +94,8 @@ The judiciary signed for a platform of its own. On 11 August the justice ministe
 The [unified government services card, integrating food-subsidy and civil-service delivery into one platform, was reviewed by the supply and communications ministers the day before](https://itweb.africa/article/egypt-accelerates-govt-digitisation-push/JBwErvn3WDP76Db2), on database sharing and technical integration. The state's own complaints channel gave its monthly figures: [about 229,000 complaints, requests and inquiries handled in July, 84% referred on to the responsible authority and 14% closed](https://sis.gov.eg/en/media-center/news/pm-reviews-efforts-of-unified-complaints-system-to-enhance-efficiency-response-to-citizens/), with governorates taking 17% of referrals and nine of them handling 74% of that share. Referral is not resolution, and no outcome or resolution time is published behind it.
 
 Investors are to get their own digitised path through the land record. A [cooperation protocol signed on 13 August between the justice and investment ministries would digitise real-estate registration and notarisation services for investors](https://sis.gov.eg/en/media-center/news/justice-investment-ministries-sign-pact-to-digitize-investor-services/), to shorten company incorporation. No protocol text, timetable or service list is published, and land-registration coverage for everyone else remains ***Not held***.
+
+The justice and communications ministries [signed a three-year cooperation protocol on 23 August 2026](https://www.businesstec.news/23569) to digitise the Cairo Court of Appeal and put artificial intelligence into the judiciary, covering a unified electronic repository for the archives of finally-adjudicated cases.
 
 ## Equatorial Guinea
 
@@ -204,6 +208,8 @@ A smaller service went live rather than being provided for. On 18 August the tra
 
 A smaller service is being taken online with its own figures attached: commercial-weighing oversight, which [verified 12,412 measuring instruments across 4,971 businesses and inspected 4,974 shops in 2025-2026, is moving bookings, payments and certificates onto a new platform](https://maurice-info.mu/2026/08/10/numerisation-des-services-de-metrologie-a-maurice.html). No go-live date or cost is stated.
 
+Cabinet [took note of a plan to consolidate the government portal and the separate official websites into a single citizen-centred platform](http://topfm.mu/portail-gouvernemental-une-plateforme-numerique-unique-et-personnalisee-en-preparation). Taking note is not approval, and no budget, supplier or delivery date accompanies it.
+
 ## Morocco
 
 An interior ministry circular reported on 25 July abolished 22 administrative certificates and replaced them with sworn declarations, on the ministry's finding that citizens had routinely been made to produce them with no legal basis, and confirmed that only procedures published on the national portal are legally enforceable ([circular account](https://en.hespress.com/142557-morocco-abolishes-22-administrative-certificates-to-streamline-public-services.html)).
@@ -315,6 +321,8 @@ Electronic government procurement reached [136 entities onboarded with version 2
 Two further e-services launched on 12 August under the same government network programme: [a teacher-training platform with more than 6,600 teachers enrolled, and a case-management system for the Human Rights Commission](https://techafricanews.com/2026/08/12/uganda-launches-two-new-e-services-to-digitise-teacher-training-human-rights-cases/). Neither carries a published retention rule or data-protection assessment, which is the sharper omission for a system holding complaint records.
 
 Upstream of any of it, German cooperation [tendered a consultancy on 5 August to identify and prepare bankable digital public infrastructure projects across Uganda, Kenya and Tanzania](https://www.gtai.de/de/trade/tansania/ausschreibungen-projekte/consulting-digitale-oeffentliche-infrastrukturprojekte-ostafrika--2018684) — identity, data exchange, payments and e-government — under the European programme with the East African Community. It is a procurement notice: it fixes the consultancy and nothing about any project it may produce, and neither its value nor its duration is stated.
+
+The public procurement and disposal authority [partnered with a budget-advocacy group to strengthen monitoring of government contracts](https://ubc.go.ug/2026/08/21/ppda-partners-with-csbag-to-strengthen-monitoring-of-government-contracts/). No scope, dataset or first published finding accompanies the announcement.
 
 ## Zambia
 

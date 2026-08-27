@@ -3,13 +3,13 @@ title: Training and skills — monthly update, July 2026
 compiled: 2026-08-27
 period: 2026-07-01 to 2026-08-27
 subject: capacity.training
-places: AGO; BEN; BWA; BFA; BDI; CMR; COM; COG; CIV; DJI; COD; EGY; SWZ; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; TZA; TUN; UGA; ZMB; ZWE
-record: d458c33b2454
+places: AGO; BEN; BWA; BFA; BDI; CMR; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; TZA; TUN; UGA; ZMB; ZWE
+record: 6d62892736ed
 ---
 
 # Training and skills: monthly update, July 2026
 
-*41 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*44 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -63,9 +63,15 @@ Against unemployment, the state is [using digital channels to connect graduates 
 
 The employment office launched a [portal and mobile application in July](https://rdc-monde.com/onem-lancement-dune-application-numerique-mikuba-pour-mieux-cartographier-les-competences-et-les-besoins-des-entreprises/) on which jobseekers register skills and employers post needs, intended to build a national skills database. It was externally financed, and no user or placement figure is held.
 
+The digital economy ministry [opened the first of a planned series of five-day training sessions for 580 of its own agents and managers](https://actu7.cd/2026/08/24/le-ministere-de-leconomie-numerique-lance-la-premiere-session-de-formation-de-pres-de-600-agents-et-cadres-de-son-administration/) at the INPES in Kinshasa on 24 August 2026. No curriculum, completion target or budget line is published.
+
 ## Egypt
 
 The state's university artificial-intelligence programme closed its fourth round on 4 August with 1,090 students and 445 projects, taking the cumulative total since 2022 to 2,710 students ([round account](https://gate.ahram.org.eg/News/5882834.aspx)). A tripartite agreement added mentoring and real healthcare datasets to student projects, with no data-governance arrangement stated for the patient-derived data.
+
+## Equatorial Guinea
+
+An investigation opened into [where more than 425 million CFA francs allocated to equip the university computer room at Bata went](https://realequatorialguinea.com/sociedad/investigan-el-destino-de-mas-de-425-millones-de-francos-cfa-para-equipar-la-sala-de-informatica-de-la-unge-en-bata/). It is a capacity line the base can date and price, and cannot yet say produced anything; no finding, charge or recovery has followed.
 
 ## Eswatini
 
@@ -73,9 +79,15 @@ At the Macetjeni handover the ICT ministry's principal secretary said [AI, robot
 
 The hub itself opened on 6 August at Macetjeni in the Lubombo Region, [the second of its kind, backed by the development programme with the communications regulator and the small-enterprise development company and aimed at young people, women and people with disabilities](https://www.undp.org/eswatini/news/macetjeni-ihub-opens-expand-digital-opportunities). It opens against [an internet-usage rate of 58% and youth unemployment of 56%](https://www.undp.org/eswatini/news/macetjeni-ihub-opens-expand-digital-opportunities). No intake target, running cost or funding term is published, so what a second hub is expected to change cannot be read from the account.
 
+## Ethiopia
+
+The flagship coder-training programme is [now reported as a seven million coders initiative](https://www.ameco.et/english/ethiopia-launches-ambitious-7-million-coders-initiative-to-build-continental-tech-hub/), a target raised from the five million the digital transformation council had been working to. The raise is reported rather than gazetted, and no enrolment, completion or certification figure accompanies it.
+
 ## Gabon
 
 Certification training is [under way for participants at Libreville's American Corner under a digital-skills programme run with United States embassies](https://techafricanews.com/2026/08/11/cybastion-and-u-s-embassies-partner-to-expand-digital-skills-training-across-africa/). No cohort size or completion date is published.
+
+More than 130 young people have been [trained in cybersecurity, networks, artificial intelligence and programming since June 2026](https://gabonmediatime.com/gabon-etats-unis-130-jeunes-formes-en-cybersecurite-reseaux-ia-et-programmation/) under a programme with the United States. No curriculum, certification or placement outcome is published.
 
 ## Ghana
 
@@ -134,6 +146,10 @@ The ministry signed a memorandum with a consultancy in Rabat on 17 July 2026 cov
 ## Mozambique
 
 The institute reported on 23 July that under the World Bank-funded acceleration project 14 training actions had benefited 30 of its technicians and 2,032 professionals from public bodies, private firms and the media had received cyber-security training, with 14 national specialists holding an international incident-response certification ([institute account](https://intic.gov.mz/seminario-sobre-seguranca-cibernetica-debate-solucoes-para-reforcar-a-proteccao-do-espaco-cibernetico-nacional-2/)). The period those cumulative figures cover is not stated.
+
+## Namibia
+
+A private provider [opened an artificial-intelligence academy in Windhoek](https://futuremedianews.com.na/2026/08/25/v5-digital-launches-ai-academy-for-namibian-organisations/) for Namibian organisations. It is a commercial offering rather than a public programme, which is what the base otherwise holds nothing of here; no intake, curriculum or fee structure is published.
 
 ## Niger
 
@@ -197,6 +213,8 @@ The family and women's ministry, a national entrepreneurs' organisation and a UN
 ## Uganda
 
 The state ICT institute reports [48,448 people trained in the financial year: 36,332 citizens, 1,932 government officers, 1,207 educators and instructors and 8,977 in immersive and emerging-technology skills](https://techafricanews.com/2026/08/07/uict-trains-more-than-48000-ugandans-in-digital-and-emerging-technologies/), with 65 certified trainers produced. The figures are self-reported and unaudited, and [fewer than 4% of those trained were government officers](https://techafricanews.com/2026/08/07/uict-trains-more-than-48000-ugandans-in-digital-and-emerging-technologies/).
+
+The IT authority [invited expressions of interest for consultancy services to develop a National Digital Skills and Competence Framework](https://www.nita.go.ug/sites/default/files/2026-08/REOI%20-%20Digital%20Skills%20Framework_0.pdf). Nothing is yet awarded, and no scope value or delivery date is stated.
 
 ## Zambia
 

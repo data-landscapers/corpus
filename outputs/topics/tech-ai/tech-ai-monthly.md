@@ -3,13 +3,13 @@ title: AI — monthly update, July 2026
 compiled: 2026-08-27
 period: 2026-07-01 to 2026-08-27
 subject: tech.ai
-places: DZA; AGO; BEN; BFA; BDI; CMR; CPV; COM; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GHA; GIN; KEN; LSO; LBR; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: a78ea7806b05
+places: DZA; AGO; BEN; BFA; BDI; CMR; CPV; TCD; COM; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 59284ab9f4f5
 ---
 
 # AI: monthly update, July 2026
 
-*40 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*42 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -45,9 +45,15 @@ Burundi's first documented AI-governance discussion took place in the profession
 
 Cabinet was told on 30 July that the [national AI strategy is still being developed, with ten priority areas and a costed roadmap tabled](https://cameroon-tribune.cm/articles/11573/en/artificial-intelligence-pm-instructs-completion-of-national-strategy) and no adoption instrument published; a 2040 roadmap on seven pillars had been presented in July 2025. The [AI authority and presidential council that roadmap provided for remain uncreated](https://cameroon-tribune.cm/articles/11573/en/artificial-intelligence-pm-instructs-completion-of-national-strategy) and are absent from the ten priorities, which carry only adaptation of the legal framework. Among the priorities is a [national high-performance computing centre](https://cameroon-tribune.cm/articles/11573/en/artificial-intelligence-pm-instructs-completion-of-national-strategy), announced with no site, cost, operator or timetable. At the same session the telecommunications minister said Cameroon had [acceded as a founding member of a global AI cooperation body](https://cameroon-tribune.cm/articles/11573/en/artificial-intelligence-pm-instructs-completion-of-national-strategy); the accession date is not published.
 
+The higher-education ministry [set out a strategy for artificial intelligence in higher education](https://www.scoop-afrique.com/articles/ia-et-education-le-pari-camerounais-presente-a-pekin) at the Global Smart Education Conference in Beijing from 18 to 20 August 2026. No strategy document, budget or implementation date has been published behind it.
+
 ## Cape Verde
 
 The Health Minister proposed at a World Health Organization conference in Lisbon on 15 July that Cape Verde serve as a lusophone laboratory for artificial intelligence in health, hosting pilot projects integrating it with telemedicine, and called for cooperation on skills, infrastructure, interoperability and an ethical and regulatory framework. No pilot, partner, budget or instrument follows from it.
+
+## Chad
+
+The base holds its first record of an artificial-intelligence strategy for Chad: a [consultancy is being recruited to draft a National Digital Transformation and Artificial Intelligence Strategy for 2026 to 2031](https://www.ungm.org/Public/Notice/311924). The row that stood as not held is settled to that extent and no further; there is no draft, adoption route or delivery date.
 
 ## Comoros
 
@@ -90,6 +96,10 @@ A [regional health body and a private firm signed a memorandum in Eswatini on 4 
 ## Ethiopia
 
 AI service bundles from an Ethiopian firm went on sale inside the same app on 22 July, bought with mobile money and redeemed by SMS voucher.
+
+## Gabon
+
+An operator [launched a voice artificial-intelligence service reachable by dialling 333 from an ordinary feature phone](https://fr.infosgabon.com/gabon-mia-lintelligence-artificielle-sans-internet/), with no smartphone and no internet connection required. Delivering an AI service over the voice channel reaches the part of the population a data-only service does not; no user count, language coverage or tariff is published.
 
 ## Ghana
 
@@ -255,6 +265,8 @@ A profession got there before the state did. The medical and dental practitioner
 
 
 What developers here build on is being decided ahead of the strategy. A wire report records a Ugandan developer [building a 31-language model on a Chinese open-weight model rather than an American one, largely on cost](https://www.asiae.co.kr/en/article/2026080708231865765), against a claim in the same report that Chinese open-weight models took 17.1% of global downloads over the year to 15.8% for American ones. Neither figure is independently held here, and no licence terms or evaluation of the model are on record.
+
+Crop-disease and precision-agriculture tools are [being piloted under GAINAfrica](https://aimnews.org/2026/08/25/europa-introduz-inteligencia-artificial-generativa-para-transformar-africa/), a Horizon Europe project led by La Sapienza in Rome and running in five African countries. No user count, evaluation or end date is published.
 
 ## Zambia
 

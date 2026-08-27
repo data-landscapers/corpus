@@ -4,14 +4,12 @@ compiled: 2026-08-27
 period: 2026-07-01 to 2026-08-27
 subject: infra.energy
 places: BWA; BDI; DJI; ETH; GAB; GHA; KEN; MWI; MUS; MOZ; SLE; ZAF; UGA; ZWE
-record: 37a7c2149878
+record: 091ec1cddd0e
 ---
 
 # Energy: monthly update, July 2026
 
 *14 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
 
 ## Botswana
 

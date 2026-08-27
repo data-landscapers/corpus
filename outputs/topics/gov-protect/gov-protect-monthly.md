@@ -3,13 +3,13 @@ title: Data protection — monthly update, July 2026
 compiled: 2026-08-27
 period: 2026-07-01 to 2026-08-27
 subject: gov.protect
-places: DZA; AGO; BWA; BFA; BDI; CIV; DJI; COD; EGY; SWZ; ETH; GMB; GHA; GIN; KEN; LBR; MWI; MLI; MUS; MAR; MOZ; NAM; NGA; RWA; SEN; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: ff3b7e9480a0
+places: DZA; AGO; BWA; BFA; BDI; CIV; DJI; COD; EGY; SWZ; ETH; GMB; GHA; GIN; KEN; LBR; MWI; MLI; MUS; MAR; MOZ; NAM; NGA; RWA; STP; SEN; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: c08c35e7fe71
 ---
 
 # Data protection: monthly update, July 2026
 
-*35 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*36 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -56,6 +56,8 @@ Data protection has an authority that does not exist and a population whose serv
 ## Egypt
 
 The month's data-protection movement is an objection rather than a rule. A member of the Senate's constitutional and legislative affairs committee [objected to compulsory face-print collection by private operators for mobile line registration, arguing that identity can be verified by less intrusive means and that the 2020 personal data protection law classes biometrics as sensitive data](https://www.parlgate.com/95550). The collection itself is in operation; what the base does not hold is the instrument authorising it, the retention rule or any operator-side safeguard — which is why the objection is the first record here of a practice already running. Parliamentary pressure ran the same way on artificial intelligence, where members [called for deterrent rules to govern it](https://www.algomhor.com/466466), and neither call has yet produced a text.
+
+The telecoms regulator [referred all four mobile operators to the Public Prosecution over lines registered in users' names without their knowledge](https://www.businesstec.news/23568), a disclosure made inside its half-year complaints report rather than as a separate enforcement notice. No charge, hearing date or penalty is on file.
 
 ## Eswatini
 
@@ -129,9 +131,15 @@ A civil-society platform began watching the same election from the data side, [t
 
 Child protection online entered the record as a consultation rather than a rule. Nigeria is [consulting on age limits, identity verification and platform liability, one of several African states moving from a minimum age for opening an account towards design duties on the platforms themselves](https://www.agenceecofin.com/actualites/2708-141074-en-afrique-comme-ailleurs-les-etats-s-emparent-de-la-protection-des-mineurs-sur-les-reseaux-sociaux), against an African Union child online safety policy of 2024 asking states to require protection by design and by default, risk assessments, researcher access to platform data and independent oversight. No draft instrument, closing date or responsible body is named, and the constraint reported across the region is enforcement rather than law.
 
+An underground market trading national identity and bank verification numbers [shut down after an investigative report named its operator](https://fij.ng/article/after-fijs-investigation-ebis-illegal-data-market-shuts-down-but-ndpc-retains-him-as-licensee/), who remains a registered licensee of the data-protection commission. The closure and the licence surviving it are both the commission's own disposition; no enforcement notice against the operator is on file.
+
 ## Rwanda
 
 Rwanda is [preparing a restriction on social media use by under-16s](https://www.agenceecofin.com/actualites/2708-141074-en-afrique-comme-ailleurs-les-etats-s-emparent-de-la-protection-des-mineurs-sur-les-reseaux-sociaux), one of several African measures moving from a minimum age for opening an account towards design duties on the platforms themselves — Gabon's February 2026 ordinance fixing digital majority at 16 and additionally obliging platforms to limit publication and interaction functions, disable contacts from unidentified users by default and provide age verification. The African Union's 2024 child online safety policy already asks states to require protection by design and by default, risk assessments, personal-data safeguards, researcher access to platform data and independent oversight. No draft text, sponsoring body or timetable is named here, and the constraint reported across the region is enforcement rather than law.
+
+## Sao Tome and Principe
+
+A further agreement between the two jurisdictions on [exchanging information to combat money laundering is to be signed](https://observador.pt/2026/08/24/macau-e-sao-tome-e-principe-vao-assinar-acordo-para-combater-lavagem-de-dinheiro/). It is the second instrument with the same counterpart and the base holds no signature date or text for it.
 
 ## Senegal
 
@@ -191,3 +199,5 @@ Certification of every data protection officer is required under the same 26 Jul
 August brought the objections. Healthcare providers and the medical association [objected to the data-controller licensing regime as applied to them — roughly US$300 a year plus a mandatory data protection officer — calling it costly and duplicative of existing health-professions regulation](https://www.newsday.co.zw/thestandard/news/article/200059372/doctors-decry-exhorbitant-new-data-levies) ahead of the September inspections, and a published analysis [argued the regulator's threshold-based licensing model is disproportionately burdensome for small entities](https://www.techzim.co.zw/2026/08/why-our-data-protection-regulations-need-review/) against the risk-based approach of the European regulation it is compared with. The statutory instrument's fee schedule is not held, and no licence count, exemption or regulator response to the objections is on record.
 
 Two further protection questions surfaced without a regulator attached. The anti-corruption commission is [investigating cyber-enabled fraud across three state digital systems](https://technomag.co.zw/zacc-probes-cyber-fraud-in-vid-licences-netone-airtime-and-zimra-systems/): suspected manipulation of the driver-licensing platform, a US$150m diversion of state mobile-operator airtime with a criminal case pending and asset forfeiture completed, and a scheme crediting more than ZiG55m and US$260,000 of fictitious prepayments on the revenue authority's customs platform. And the National Child Online Protection Policy 2026-2030, [approved by Cabinet in June, has no reporting route, responder training or funded rollout on record](https://www.newsday.co.zw/opinion-analysis/article/200059225/protecting-zimbabwes-children-online-will-take-more-than-a-policy) — which is what a published analysis argues will decide whether it protects anyone.
+
+The government put the national data volume at [179 petabytes against 114 previously](https://technomag.co.zw/from-114pb-to-179pb-as-zimbabwes-data-doubles-govt-tells-tech-firms-corporate-responsibility-is-non-negotiable/) and cited the near-doubling in telling technology firms that corporate responsibility is not negotiable, resting the point on the National Child Online Protection Policy approved by Cabinet in June. Separately, civil-society organisations say [data-protection certification fees are high enough to exclude rural communities and young women](https://www.midweekwatch.com/civil-society-raises-alarm-as-exorbitant-data-protection-certification-fees-threaten-to-exclude-rural-communities-and-young-women/) from compliance; no fee schedule, exemption or regulator response is on file. The base had been carrying that child-protection policy as three separate rows, minted from three separate reports; they are now resolved to one.

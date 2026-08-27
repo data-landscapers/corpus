@@ -3,13 +3,13 @@ title: Data Exchange — monthly update, July 2026
 compiled: 2026-08-27
 period: 2026-07-01 to 2026-08-27
 subject: dpi.exchange
-places: DZA; AGO; BEN; CMR; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LBY; MWI; MLI; MRT; MUS; MAR; MOZ; NGA; SEN; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; ZMB; ZWE
-record: d6df126926bf
+places: DZA; AGO; BEN; CMR; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MWI; MLI; MRT; MUS; MAR; MOZ; NGA; SEN; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; ZMB; ZWE
+record: 3825940f2769
 ---
 
 # Data Exchange: monthly update, July 2026
 
-*36 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*38 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -30,6 +30,8 @@ A second kind of data exchange entered the record in August, and it is regional 
 ## Cameroon
 
 On 29 July a joint communiqué [established a trilateral customs steering committee with Nigeria and Benin](https://von.gov.ng/nigeria-benin-cameroon-customs-deepen-regional-border-cooperation/), committing to harmonised procedures, digital interoperability and coordinated risk management on two named corridors, with no timeline, budget or system specification published. At home the layer that would carry any of this acquired an owner rather than a design: at the opening of the national internet governance forum on 18 August the posts and telecommunications ministry [tasked the state operator CAMTEL with carrying national data and infrastructure interoperability](https://www.digitalbusiness.africa/fgi-cameroun-camtel-mandatee-de-faciliter-linteroperabilite-nationale/), resting the mandate on its backbone, transmission, access and hosting infrastructure. No instrument, timetable or budget accompanies it.
+
+The minister responsible for decentralisation and local development said on 25 August 2026 that the administration [has built digital islands side by side and that these must end](https://www.digitalbusiness.africa/cameroun-georges-elanga-obam-veut-mettre-fin-aux-ilots-numeriques-de-ladministration/) â€” a ministerial commitment rather than a platform. The same problem framed the national Internet Governance Forum in Yaounde a week earlier.
 
 ## Chad
 
@@ -100,6 +102,14 @@ The Treasury is building the other kind of exchange — one that looks at the mo
 
 The regional payments interlink took another participant: a commercial bank group [went live on the pan-African system on 11 August, adding its branch network to instant cross-border transfers in local currencies](https://www.linkedin.com/posts/pan-african-payment-settlement-system_papss-papss-abcbank-activity-7492934194994774016-TGoX).
 
+## Lesotho
+
+Lesotho [launched its National Single Window at Victory Hall in Maseru on 24 August 2026](https://swazi24.com/49844/business/trade-investment/lesotho-launches-digital-trade-platform/), under a World Bank-financed competitiveness and financial-inclusion project. No agency coverage, transaction volume or phasing is stated.
+
+## Liberia
+
+The special economic zone authority said a [trade information portal could ease doing business](https://liberianinvestigator.com/liberia-trade-information-portal-business-investment/). Nothing is commissioned, and no scope, funder or date accompanies the case for it.
+
 ## Libya
 
 The government issued [Decision No. 348 of 2026 on 17 July](https://libyaherald.com/2026/07/libyan-government-issues-decision-on-implementation-of-unified-economic-number-project), authorising the Ministry of Economy and Trade to implement the Unified Economic Number as a single national identifier for every registered economic, commercial and investment entity, to be run by linking databases and exchanging information across ministries, agencies and public institutions, under a National Council chaired by the minister. No timetable, budget, vendor or legal basis for the linkage is stated.
@@ -131,6 +141,8 @@ A national water digital twin was described publicly on 28 July, to rest on a so
 
 
 A platform already carrying national data went under inspection instead. The health ministry [put its national health-data platform through a security and performance audit running from July to September, covering infrastructure, application, database and cybersecurity on a 170,000 dirham budget](https://santemag.ma/sante-numerique-le-msps-passe-sa-plateforme-nationale-dhis2-au-crible/), with no cyberattack or breach cited as the trigger. No findings are published.
+
+Morocco [promulgated the OECD multilateral competent authority agreement on the exchange of country-by-country reports by dahir 1.26.72 of 28 July 2026](https://barlamane.com/fr/le-maroc-promulgue-laccord-de-locde-sur-lechange-des-declarations-pays-par-pays-et-approuve-deux-conventions-fiscales-avec-le-burundi-et-le-tchad/), ending seven years of parliamentary blockage since signature. The first exchange partners and the start date are not on file.
 
 ## Mozambique
 
@@ -172,6 +184,8 @@ Two further systems were directed rather than delivered. The national economic m
 ## Tanzania
 
 The public procurement appeals authority [directed all domestic and international bidders to lodge challenges through its online module and announced plans to integrate it with the judiciary's system](https://www.thecitizen.co.tz/tanzania/news/national/ppaa-pushes-online-appeals-to-boost-transparency-in-public-tenders-5542668), reported 31 July, with hearings by video conference already taking cases from bidders in five other countries. No date is attached to the integration.
+
+On forest-products revenue the government chose integration over replacement, a two-day technical working group in Dodoma [settling on joining the existing systems rather than building a new one](https://dailynews.co.tz/government-moves-to-integrate-forest-revenue-systems/). That is the working group's stated choice and not yet an outcome: no interface specification, timetable or go-live date is on file.
 
 ## Togo
 

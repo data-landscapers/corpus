@@ -4,14 +4,12 @@ compiled: 2026-08-27
 period: 2026-07-01 to 2026-08-27
 subject: finance.mou
 places: DZA; CIV; COD; EGY; GAB; GHA; KEN; LSO; RWA; SYC; TZA; TGO; UGA; ZWE
-record: 7be36eb5d5e6
+record: 55ba4babe4cb
 ---
 
 # MoUs and other agreements: monthly update, July 2026
 
 *14 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
 
 ## Algeria
 

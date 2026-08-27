@@ -4,7 +4,7 @@ compiled: 2026-08-27
 period: 2026-07-01 to 2026-08-27
 subject: gov.policy
 places: BEN; BWA; BFA; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; STP; SEN; SYC; SLE; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 99ea624b3f31
+record: d0ea9f527c7a
 ---
 
 # Strategies, plans and policies: monthly update, July 2026
@@ -206,6 +206,8 @@ A third instrument is being fast-tracked rather than tendered. The Presidency an
 At a university health conference on 31 July the government stated [three requirements: that health data be stored inside Tanzania, that healthcare AI systems be approved by the relevant authorities, and that local capacity to build them be developed](https://www.thecitizen.co.tz/tanzania/news/national/tanzania-steps-up-ai-drive-in-healthcare-amid-data-privacy-push-5542208). No instrument and no approving authority was named, and a dedicated regulator was called for from the floor rather than announced.
 
 The coordination that did get a name came from outside the state. A [multi-stakeholder body launched on 8 August to coordinate cybersecurity, data privacy, artificial-intelligence governance and payment security across government, industry and academia](https://www.linkedin.com/posts/sandbox-security_tanzaniadigitaltrustinitiative-digitaltrust-activity-7491819343543173121--VE7), founded by a security firm with a privacy professionals' association and a fintech association, and naming the data protection commission, the ICT commission and the private sector federation among its partners; the [same forum published a digital trust outlook report and inaugurated a cross-border corridor with the Gulf Cooperation Council for regulatory dialogue, secure payments and artificial-intelligence governance](https://www.linkedin.com/posts/tanzania-privacy-proffessional-association_tanzaniadigitaltrust-digitaltrustforum2026-activity-7492254924857204736-2sNm). No constitution, funding, membership list or statement of the named regulators' role in it is held.
+
+The education, science and technology ministry [completed a draft National Technology Roadmap](https://eastleighvoice.co.ke/news/392552/tanzania-drafts-25-year-national-technology-roadmap) forecasting the country's technology needs over the next 25 years across 13 sectors, presented at a stakeholder discussion. It is a draft: nothing on file records adoption or publication.
 
 ## Togo
 

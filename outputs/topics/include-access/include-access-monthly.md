@@ -4,7 +4,7 @@ compiled: 2026-08-27
 period: 2026-07-01 to 2026-08-27
 subject: include.access
 places: DZA; AGO; BFA; BDI; CIV; COD; EGY; SWZ; ETH; GAB; GHA; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 205f6b63e1cd
+record: de027fd8f457
 ---
 
 # Access to services: monthly update, July 2026
@@ -20,6 +20,8 @@ Consumer cloud storage prices were [raised for new subscribers from 27 July 2026
 ## Angola
 
 Financial inclusion was scored at [51.7% for the first quarter of 2026 against a 65% target for 2027](https://angop.ao/noticias/economia/governo-anuncia-nova-etapa-na-estrategia-nacional-de-inclusao-financeira/) on 9 July, with banking at about 32% or 5.7 million people and mobile and digital payments up about 56% year on year; the strategy document itself is not held.
+
+The telecommunications ministry [opened further computer rooms and free public internet points in Luanda and Icolo e Bengo](https://www.opais.ao/sociedade/minttics-inaugura-novas-salas-de-informatica-em-luanda-e-icolo-e-bengo/). No national count of sites, users or budget line is on file behind the programme.
 
 ## Burkina Faso
 
@@ -99,6 +101,8 @@ August added the price side of the same picture. A standard data package [fell f
 
 What none of these measures reaches is what the money does. A study of 900 households published on 7 August finds that [mobile money improves household welfare through active use rather than account ownership, reducing reliance on own food production and strengthening resilience through remittances, with women gaining financial autonomy and young people using it to stabilise consumption](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0343349). It is a single academic study of a sample, not a national series, and it is the only evidence of outcome the base holds against the access counts above.
 
+A commercial bank [opened its mobile banking application to customers without consuming their mobile data balances or packages](https://360mozambique.com/innovation/tech/millennium-bim-offers-zero-data-access-to-smart-izi-banking-app/). Zero-rating a single private application raises a net-neutrality question the base holds no ruling on, and no user count or operator agreement is published behind it.
+
 ## Namibia
 
 The central bank's deputy governor told the payments association's annual general meeting on 28 July that financial inclusion rose from 78% in 2017 to 86% in 2025, and named continued cash reliance, limited rural access, informal-sector barriers and the digital divide as the persistent constraints ([central bank account](https://thebrief.com.na/2026/07/namibia-becomes-fourth-african-country-to-launch-instant-payments-system/)).
@@ -143,6 +147,8 @@ The South African Social Security Agency [set 350,000 grant reviews for 2026/27]
 
 One cooperation arrangement addressed a group the grants system serves and the data rarely describes. South Africa and China [agreed a seven-point plan on disability-inclusive data, universal design and artificial-intelligence-enabled assistive technology](https://www.sanews.gov.za/south-africa/sa-china-deepen-cooperation-disability-inclusion), anchored in a proposed centre of excellence working with the national statistics office. No instrument, funding, timetable or data-sharing arrangement is published for cooperation that names the statistics office as a partner.
 
+The grant-review audit reached [105,600 of 352,000 targeted reviews with an estimated R450-million saved](https://www.dailymaverick.co.za/article/2026-08-24-sassa-grant-reviews-strand-vulnerable-south-africans-in-systemic-chaos/), while suspending lawful beneficiaries' payments without effective notice. The saving is the agency's own estimate; the suspensions are reported against it.
+
 ## South Sudan
 
 The cost of connection rose for the second time in two months when the [second phase of the tariff exchange-rate adjustment took effect on 26 July 2026](https://www.onecitizendaily.com/index.php/2026/07/27/network-telecom-companies-declare-another-increment/), with no revised rates published by the regulator or the operators. Against a baseline of [about US$23.70 per gigabyte in November 2025](https://www.onecitizendaily.com/index.php/2025/11/27/41522/), there is now no published price for mobile data in the country.
@@ -168,6 +174,8 @@ At a readiness inspection on 27 July, [six of nineteen planned one-stop service 
 An [ICT hub for persons with disabilities was commissioned in Kasese](https://nilepost.co.ug/news/360591/new-ict-hub-in-kasese-to-empower-persons-with-disabilities-with-digital-skills), reported on 1 August, offering computer literacy, vocational skills and digital-empowerment programmes and open to the wider community. No commitment value was published, so the base carries no finance record for it.
 
 The commercial route to a connected device is credit. Buy-now-pay-later schemes run by five providers [put smartphones in the hands of more than 500,000 Ugandans in a year, against about 22% of Ugandans using mobile internet despite 96% network coverage, with financed devices costing 30 to 50% more than the cash price](https://pctechmag.com/2026/08/can-device-financing-solve-the-problem-of-smartphone-penetration/). It is a trade analysis rather than a regulator series, and no default, repossession or total-cost-of-credit figure is published for the schemes.
+
+A six-year donor digital-inclusion programme [ended, with stakeholders urging the government to take over what it was doing](https://www.pulse.ug/story/uncdf-digital-inclusion-uganda-government-takeover-2026082616160487381). No successor instrument, budget line or transfer of assets is on file, which makes the closure a stated exposure rather than an inference.
 
 ## Zambia
 

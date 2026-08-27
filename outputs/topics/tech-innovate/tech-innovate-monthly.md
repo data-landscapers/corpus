@@ -3,19 +3,25 @@ title: Innovation ecosystem — monthly update, July 2026
 compiled: 2026-08-27
 period: 2026-07-01 to 2026-08-27
 subject: tech.innovate
-places: DZA; BDI; CMR; CPV; CIV; DJI; COD; EGY; ERI; SWZ; GAB; GMB; GHA; KEN; LSO; LBR; MLI; NER; NGA; RWA; SEN; SOM; ZAF; TUN; UGA; ZMB
-record: ba4fb25c3db0
+places: DZA; BFA; BDI; CMR; CPV; CIV; DJI; COD; EGY; ERI; SWZ; GAB; GMB; GHA; KEN; LSO; LBR; MLI; NER; NGA; RWA; SEN; SOM; ZAF; TZA; TUN; UGA; ZMB
+record: b95666e26309
 ---
 
 # Innovation ecosystem: monthly update, July 2026
 
-*26 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*28 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
 ## Algeria
 
 The student start-up conversion scheme reports [673 start-ups, 3,949 patents and 2,339 innovative-project labels between 2022 and July 2026, against a 2030 target of 5,000 labelled products](https://elwatan.dz/strategie-nationale-de-lintelligence-artificielle-kamel-baddari-fixe-la-feuille-de-route/). It lets students convert final-year projects into start-ups or patents and is supported by a prototype-financing scheme and the country's first venture-capital fund. The ministerial order behind it is not held, neither its date nor its text.
+
+The money attached to the President of the Republic's Prize for the best start-up [was raised by presidential decree 26-277 of 23 August 2026](https://www.joradp.dz/FTP/jo-francais/2026/F2026060.pdf), amending article 3 of the founding decree of January. The amounts and the award cycle are set by decree rather than by a programme document.
+
+## Burkina Faso
+
+The first Sahel Tech Innovation Challenge closed in Ouagadougou, taking 600 submitted projects from 23 African countries down to 100, then 60, then 10 finalists. First prize went to a [Burkinabe agricultural artificial-intelligence tool built to work in national languages](https://www.aib.media/stic26-des-burkinabe-decrochent-le-premier-prix-avec-leur-ia-agricole-integrant-les-langues-nationales-terra-ai/). No prize value, follow-on funding or second edition is announced.
 
 ## Burundi
 
@@ -96,6 +102,8 @@ The innovation estate gained a site and not yet a hub. A university at Diffa [wa
 
 [A drive-to-own vehicle financier raised US$250m at a US$2.1bn valuation on 5 August](https://techcrunch.com/2026/08/05/moove-raises-250m-to-become-the-backbone-of-the-robotaxi-industry/), financing a 42,000-vehicle fleet across fourteen countries against platform earnings — making ride-hailing income the credit-scoring and repayment rail for drivers outside formal banking, a class of alternative-data underwriting no Nigerian instrument addresses. The communications regulator [leased its Digital Industrial Park and Learning Centre to Enugu State for fifteen years](https://www.thisdaylive.com/2026/08/04/ncc-leases-digital-industrial-park-learning-centre-to-enugu/), its executive vice chairman saying that buildings alone do not create innovation; no rent, investment commitment or performance condition is stated. A [crowdsourced food-price platform reports about 2,500 users](https://www.wearetech.africa/en/fils-uk/solutions/nigeria-s-bango-uses-price-data-to-bring-transparency-to-food-markets).
 
+NITDA [inaugurated a Technical Working Group to build a multi-agency national regulatory sandbox](https://nitda.gov.ng/nitda-inaugurates-sandbox-technical-working-group-to-strengthen-regulatory-framework-for-digital-innovation/9560/), deliberately sector-agnostic, letting innovators test emerging technologies with several regulators at once before full market approval. It is distinct from the central bank's own sector sandbox, and no framework text, member list or timetable has been published.
+
 ## Rwanda
 
 As at 3 August the development bank is [the sole committed backer, at US$6m, of a venture debt fund that is not closed, with a further US$3m near-committed](https://techcabal.com/2026/08/03/rwanda-debt-6-million/); [cheques run US$300,000 to just under US$1m, uncollateralised, at 9 to 12%](https://techcabal.com/2026/08/03/rwanda-debt-6-million/). The figures are the fund manager's own and no commitment date is given.
@@ -115,6 +123,10 @@ A national startup network was [launched at the innovation forum in Mogadishu on
 The month's addition is a standing one. The small business department's [network of incubation and digital hubs](http://www.dsbd.gov.za/article/incubation-and-digital-hubs) is now on the record, which matters because the two centres opened earlier in the year — a continental digital transformation centre established with the International Telecommunication Union, and an industry and technology centre hosted by a university — both sit on top of an existing state hub estate that the base had never described.
 
 No hub count, spend or enterprise figure is published for any of the three, so the estate is established and its output is not. Both openings fall outside this month and are carried in the progress report.
+
+## Tanzania
+
+The government launched [InnoIP Tanzania](https://fullshangweblog.co.tz/2026/08/23/577246/), a programme to help more than 5,000 innovators register and protect their work as intellectual property. No registration count, budget line or closing date has been published behind the target.
 
 ## Tunisia
 

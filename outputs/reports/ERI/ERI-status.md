@@ -4,7 +4,7 @@ compiled: 2026-08-27
 place: ERI
 ledger_rows: 12
 not_held: 5
-record: 65616fe910b9
+record: 49b3bf65e44b
 ---
 
 # Eritrea: status report
@@ -92,7 +92,7 @@ The clearest concrete step in the period is the [January 2026 launch of ASYCUDA 
 _The base holds no digitalisation rows for Eritrea. A thin evidence base is a finding, not a gap in this document._
 
 <!-- narrative: digitalisation -->
-
+The base holds no digitalisation rows for Eritrea. What little it carries of public digital service sits under DPI, and the absence here is a statement about the record.
 <!-- /narrative -->
 
 ## Technology
@@ -118,7 +118,7 @@ The base holds one concrete AI/innovation data point: [Eri-Chat](https://shabait
 _The base holds no capacity rows for Eritrea. A thin evidence base is a finding, not a gap in this document._
 
 <!-- narrative: capacity -->
-
+The base holds no capacity rows for Eritrea: no training programme, research centre mandate or published output under this heading.
 <!-- /narrative -->
 
 ## Inclusion
@@ -138,7 +138,7 @@ No dedicated inclusion or capacity-building instrument is held for Eritrea. The 
 | Fourth Round Eritrea Population and Health Survey (EPHS 2025) | [Implemented, completed; report pending 2026](https://www.undp.org/eritrea/news/driving-data-digital-technology-eritrea-strengthens-data-systems-landmark-survey) | NSO reports survey completion: 9,794 households, 405 enumeration areas, 98.4% household completion, CAPI digital collection |
 
 <!-- narrative: data -->
-
+Statistics is the one part of Eritrea's record with delivery behind it: the [Fourth Round Eritrea Population and Health Survey](https://www.undp.org/eritrea/news/driving-data-digital-technology-eritrea-strengthens-data-systems-landmark-survey) has been completed, with its report pending in 2026. The base holds no open-data portal or publication schedule beyond it.
 <!-- /narrative -->
 
 ## Geopolitics
@@ -146,7 +146,7 @@ No dedicated inclusion or capacity-building instrument is held for Eritrea. The 
 _The base holds no geopolitics rows for Eritrea. A thin evidence base is a finding, not a gap in this document._
 
 <!-- narrative: geopolitics -->
-
+The base holds no geopolitics rows for Eritrea. No bilateral digital cooperation instrument with any partner is on file.
 <!-- /narrative -->
 
 ## Gaps to fill

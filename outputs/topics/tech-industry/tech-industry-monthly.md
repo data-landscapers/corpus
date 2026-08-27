@@ -3,13 +3,13 @@ title: ICT Industry — monthly update, July 2026
 compiled: 2026-08-27
 period: 2026-07-01 to 2026-08-27
 subject: tech.industry
-places: DZA; AGO; BEN; BWA; CPV; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; LBR; MUS; NER; NGA; RWA; ZAF; TGO; ZMB; ZWE
-record: 678c8ce4a512
+places: DZA; AGO; BEN; BWA; CPV; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; LBR; MUS; MAR; NER; NGA; RWA; ZAF; TGO; ZMB; ZWE
+record: a22675c51d4f
 ---
 
 # ICT Industry: monthly update, July 2026
 
-*23 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*24 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -80,6 +80,10 @@ The port authority signed a [non-exclusive smart-ports memorandum with HAROPA PO
 ## Mauritius
 
 The ICT minister [put information technology at about 5.4% of gross domestic product against an ambition of 10-12%](https://itweb.africa/article/mauritius-launches-ai-readiness-survey/GxwQDM1DPZj7lPVo). The two accounts name different third partners.
+
+## Morocco
+
+The industry and trade ministry [added video games to the innovation funding programme](https://en.7news.ma/morocco-adds-video-games-to-innovation-funding-programme/), so companies in the sector can now apply for government funding to develop and test new games. No allocation, ceiling or first award has been published.
 
 ## Niger
 

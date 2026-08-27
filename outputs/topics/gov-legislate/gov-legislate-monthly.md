@@ -4,7 +4,7 @@ compiled: 2026-08-27
 period: 2026-07-01 to 2026-08-27
 subject: gov.legislate
 places: DZA; AGO; BWA; BFA; BDI; CMR; CPV; CAF; COG; CIV; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 52d2ae1c128b
+record: 1e621c08af23
 ---
 
 # Legislation and regulation: monthly update, July 2026
@@ -67,6 +67,8 @@ The cyber-security agency is [operating a national security operations centre, a
 
 The one place where a statute is acquiring machinery is consumer redress. The regulator [consulted operators, internet service providers and consumer associations on 13 and 14 August on a draft procedure for handling consumer complaints about electronic communications services](https://techreviewafrica.com/news/6772/artci-consults-stakeholders-on-new-consumer-complaint-handling-procedure), implementing the 2024 electronic communications law. No draft text, adoption date or redress standard is held.
 
+The regulator [validated a harmonised procedure for handling consumer complaints](https://www.afriksoir.net/protection-des-consommateurs-lartci-veut-rendre-le-traitement-des-plaintes-plus-efficace/) against operators and internet service providers, now to be transmitted to its Conseil de regulation for possible adoption.
+
 ## DR Congo
 
 The [interministerial order on digital-sector duties, taxes and fees was in force on signature on 20 July under its article 5](https://actu7.cd/2026/07/31/rdc-le-gouvernement-fixe-les-nouveaux-droits-taxes-et-redevances-applicables-au-secteur-du-numerique/). It sets a [two-tier dollar schedule keyed to whether a provider is judged dominant, running from US$2,500 to US$15,000 for cloud services and US$25,000 to US$100,000 for data-centre declaration, with one startup line at US$100](https://actu7.cd/2026/07/31/rdc-le-gouvernement-fixe-les-nouveaux-droits-taxes-et-redevances-applicables-au-secteur-du-numerique/). It was [suspended by government communiqué on 3 August](https://acp.cd/business/rdc-le-secteur-du-numerique-encore-confronte-a-des-nombreuses-contraintes-un-specialiste/). Neither the gazetted order nor the suspending communiqué is held.
@@ -74,6 +76,8 @@ The [interministerial order on digital-sector duties, taxes and fees was in forc
 Two regulators agreed on 22 July to [form joint inspection teams and enforce local-content subcontracting rules on large operators](https://actualite.cd/2026/07/23/rdc-larsp-et-larptc-renforcent-leur-cooperation-pour-promouvoir-la-sous-traitance-dans), scoped beyond telecoms to digital services and e-commerce; no written protocol is held.
 
 The digital code is being applied to speech. On 15 August the justice minister [restated the government's determination to clean up Congolese cyberspace and said prosecutions were already under way for public insults and defamation on social platforms under the Code du numérique](https://actualite.cd/index.php/2026/08/15/rdc-face-aux-derives-sur-les-reseaux-sociaux-le-ministre-de-la-justice-reaffirme-la), after receiving an NGO memorandum on 13 August. No case number, charge or judgment is held.
+
+A new schedule of [taxes, permits and sanctions now governs the digital sphere](https://the-port-brief.co.tz/article/regulation-of-the-digital-sphere-in-the-drc-analysis-of-new-regulations-on-taxes-permits-and-sanctions). The base holds a legal analysis of it rather than the instrument, so the issuing authority, the instrument number and the entry-into-force date are not established here.
 
 ## Egypt
 
@@ -114,6 +118,10 @@ On 23 July a national workshop validated by consensus five implementing texts on
 The month's other legislative movement is procedural rather than expressive. A justice ministry commission [submitted a draft Code of Civil Procedure on 11 August](https://agpgabon.ga/gabon-lavant-projet-du-nouveau-code-de-procedure-civile-remis-au-ministre-de-la-justice), a rewrite of the 1977 ordinance running to more than 800 pages that would let procedural filings be made and held electronically, introduce secure digital tools, and harmonise with the OHADA uniform acts. Professional consultation and parliamentary debate are still ahead, and the draft text is not held.
 
 An earlier instrument reached the base this month and it is the furthest-going measure of its kind reported in the region. An ordinance of February 2026 [fixes digital majority at 16 and obliges platforms to limit certain publication and interaction functions, to disable contacts from unidentified users by default and to provide age-verification mechanisms](https://www.agenceecofin.com/actualites/2708-141074-en-afrique-comme-ailleurs-les-etats-s-emparent-de-la-protection-des-mineurs-sur-les-reseaux-sociaux) — a duty on how a platform is built rather than a minimum age alone, where Rwanda is still preparing a restriction on under-16s and Zimbabwe has gone the policy route. The ordinance text is not held, only a comparative account of it, and no implementing regulation, supervisory body or enforcement action is on record.
+
+The primary text of the social-media ordinance arrived, and it settles a conflation the base had carried. [Ordonnance n 0011/PR/2026](https://journal-officiel.ga/22404-0011-pr-2026-/), signed on 26 February 2026 and published in Journal Officiel n 110 of 8 April 2026, is the instrument the base had recorded twice â€” once as an ordinance whose text was not held and once as a bill reported second-hand to be awaiting promulgation. It runs to fifty-five articles in eleven chapters: digital majority is fixed at sixteen and account creation below it barred; editors must block publication, sharing and social-interaction functions for accounts identified as under-sixteen without recorded parental consent, disable by default any function letting unidentified persons contact a minor, filter algorithmic recommendation of violent, sexual or psychologically harmful AI content to minor accounts, and report quarterly to the competent authority; age-verification systems sit under a Haute Autorite de la Communication reference framework and a technical audit; and the refere numerique caps any temporary suspension of access to a platform at seventy-two hours. The twelve-month compliance clock runs from publication, to 8 April 2027.
+
+Gabon also [brought non-resident digital platforms within Value Added Tax and the Contribution Speciale de Solidarite](https://kongossanews.info/taxation-gafam-tva-numerique-gabon/) through its 2026 supplementary finance law, reaching foreign streaming and platform services. No registration threshold, collection mechanism or first receipt is on file.
 
 ## Gambia
 
@@ -191,6 +199,8 @@ The same bill redraws the virtual-asset perimeter around marketing rather than a
 
 And on [30 July the ICT minister committed to Electronic Transactions Act amendments](https://lexpress.mu/s/face-aux-cyberattaques-le-secteur-postal-prepare-sa-riposte-560993), with no text or date stated.
 
+The primary text of the [Data Protection Officer Regulations 2026](https://mitci.govmu.org/mitci/wp-content/uploads/2026/06/117_The-Data-Protection_Designation-Tasks-and-Position-of-Data-Protection-Officers_Reg.pdf) is now held, as Government Notice No. 117 of 2026 made under the Data Protection Act.
+
 ## Morocco
 
 A 50-article digital health bill was adopted in the government council on 22 July 2026, creating a national health identifier and a shared medical record under a new digitisation agency, with implementing decrees due within 12 months of publication and provider connection within 24 months of the technical decree ([bill account](https://medias24.com/2026/07/23/sante-numerique-ce-que-le-projet-de-loi-changer-dans-votre-parcours-de-soins-1728651/)). [Unlawful consultation, use or exchange of personal health data would draw six months to a year and MAD 50,000-200,000](https://medias24.com/2026/07/23/sante-numerique-ce-que-le-projet-de-loi-changer-dans-votre-parcours-de-soins-1728651/).
@@ -206,6 +216,8 @@ Beyond the Constitutional Council ruling, the month's governance record is the i
 On 28 July the communications minister listed cloud-computing and radio-centre regulations alongside the two 2026 statutes as mandatory for operators of critical infrastructure ([ministerial account](https://clubofmozambique.com/news/mozambique-digital-infrastructure-is-as-strategic-as-roads-and-ports-americo-muchanga/)).
 
 In August the institute set out what is still missing and what is coming. Its board chairman [said the country has no dedicated artificial-intelligence legislation, and that an Online Copyright Protection Act is in drafting for next year](https://360mozambique.com/innovation/tech/intic-drafts-copyright-and-ai-legislation-to-protect-digital-creators/), naming authorship of artificial-intelligence output and liability for artificial-intelligence training as open questions no law here answers. The absence of an artificial-intelligence statute is now recorded as a gap; the copyright bill has no draft text, scope or introduction date behind it.
+
+A new Telecommunications and Scarce Resources Licensing Regulation, adopted by decree, [lets the regulator convert operators' fines into universal-service obligations](https://www.agenceecofin.com/actualites-numerique/2608-141049-mozambique-les-amendes-telecoms-financent-desormais-l-inclusion-numerique) â€” turning a penalty into a coverage commitment. No decree number, entry-into-force date or first conversion is on file.
 
 ## Namibia
 
@@ -223,6 +235,8 @@ What the amended identity Act actually says reached the record on 11 August, in 
 
 
 The bench put its own view on the record. Fifty-four judicial officers [adopted a communique calling for stricter authentication standards for AI-generated evidence and a review of the digital-evidence, cybercrime and privacy statutes](https://www.vanguardngr.com/2026/08/digicivic-trains-judicial-officers-on-digital-rights/), naming genuine evidence dismissed as AI-fabricated as an emerging problem, questioning whether clicking agreement is meaningful consent, and asking for electronic case management, virtual hearings and privacy-protected judicial platforms. A communique carries no legal force and no legislative response has followed.
+
+The [ECOWAS Community Court of Justice held that access to the internet is a right within the right to freedom of expression](https://citizenshipdaily.com/ecowas-court-declares-internet-access-a-right-awards-journalist-n10-million-against-fg/), and ordered Nigeria to pay N10 million to the journalist Jide Oyekunle over his assault, detention and phone seizure while covering a protest. The court traced the holding to two of its own earlier judgments, which makes this a settled regional position rather than a first ruling; nothing on file records compliance or payment.
 
 ## Rwanda
 

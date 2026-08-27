@@ -4,7 +4,7 @@ compiled: 2026-08-27
 period: 2025-08-01 to 2026-08-27
 subject: dpi.pay
 places: XAF; XSA; XWA
-record: ed8d115c2151
+record: c9f216426c5c
 ---
 
 # Digital Payments and Fintech: progress report, 2025-08-01 to 2026-08-27
@@ -49,6 +49,7 @@ record: ed8d115c2151
 | PI-SPI (UEMOA interoperable instant-payment platform) | In live testing from August 2025, ahead of a launch set for 30 September 2025 | [In service across the eight member states, free for person-to-person transfers, with banks and mobile money interconnected since May 2026](https://lefaso.net/spip.php?article139887) | Advanced |
 | Users connected to PI-SPI | Did not exist | [30 million connected users and one million transactions worth 110 billion FCFA in under ten months](https://www.togofirst.com/en/finance/2407-19672-bceao-instant-payment-platform-connects-30-million-users-in-less-than-10-months) | Advanced |
 | BCEAO guide to digitalising member-state payments | In force | [In force, unrevised on the record](https://www.bceao.int/sites/default/files/2021-03/Guide%20pour%20la%20digitalisation%20des%20paiements%20des%20Etats%20membres%20de%20l%27UEMOA.pdf) | No change |
+| UEMOA electronic-money issuer instruction (008-05-2015) | In force since 2015 | [In force since 2015: the conditions and procedures under which electronic-money issuers may operate in the member states of the monetary union](https://www.bceao.int/sites/default/files/2017-11/instruction_no008_05_2015_intranet.pdf) | No change |
 | BCEAO accession to the Pan-African Payment and Settlement System | ***Baseline not held*** | [A six-month pilot with more than 80 commercial banks is planned before any decision, to test conformity with the union's external-financial-relations rules](https://www.financialafrik.com/2026/07/28/cedeao-la-bceao-prepare-levolution-des-paiements-transfrontaliers/) | ***Baseline not held*** |
 | EPSS (ECOWAS Payment and Settlement System) | ***Baseline not held*** | [Work is on where the platform's components will be hosted and on evaluating the central banks bidding to host them; no build, cost, timetable or legal instrument held](https://www.financialafrik.com/2026/07/28/cedeao-la-bceao-prepare-levolution-des-paiements-transfrontaliers/) | ***Baseline not held*** |
 | GIM-UEMOA interbank switch | ***Baseline not held*** | [The regional interbank electronic-payments switch is running under an interim chief executive, its previous director-general having left the post he held from March 2020](https://www.financialafrik.com/2026/08/12/gim-uemoa-ahmed-al-moustapha-cisse-directeur-general-par-interim/) | ***Baseline not held*** |

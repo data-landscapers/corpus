@@ -3,15 +3,19 @@ title: Rural digital data capture — monthly update, July 2026
 compiled: 2026-08-27
 period: 2026-07-01 to 2026-08-27
 subject: digital.rural
-places: EGY; SWZ; GIN; MWI; MLI; NER; NGA; SLE; TGO; ZMB; ZWE
-record: d6a9c2785ea0
+places: TCD; EGY; SWZ; GIN; MWI; MLI; NER; NGA; SLE; TGO; ZMB; ZWE
+record: d0fc9b7945fb
 ---
 
 # Rural digital data capture: monthly update, July 2026
 
-*11 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*12 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
+
+## Chad
+
+[Solar-powered telemedicine kiosks](https://www.aljazeera.com/news/2026/8/23/in-rural-chad-solar-kiosks-bring-healthcare-closer) are helping rural patients overcome distance to care. No kiosk count, operator, consultation volume or funding source is on file.
 
 ## Egypt
 

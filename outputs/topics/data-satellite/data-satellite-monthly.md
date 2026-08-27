@@ -3,15 +3,13 @@ title: Use of satellite data — monthly update, July 2026
 compiled: 2026-08-27
 period: 2026-07-01 to 2026-08-27
 subject: data.satellite
-places: AGO; COG; EGY; GHA; LBR; LBY; MOZ; NAM; NER; RWA; SYC; SLE; ZMB
-record: 9cafc9546097
+places: AGO; COG; EGY; GHA; LBR; LBY; MLI; MOZ; NAM; NER; RWA; SYC; SLE; ZMB
+record: 886b0e71cd48
 ---
 
 # Use of satellite data: monthly update, July 2026
 
-*13 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
+*14 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Angola
 
@@ -36,6 +34,10 @@ The Land Authority took the country's geospatial ambition abroad rather than to 
 ## Libya
 
 On 4 August the Libyan Authority for Scientific Research [discussed launching a first Libyan satellite for climate and desertification monitoring](https://www.lananews.com/ar/?p=499199), at design stage with no budget, timetable, launch partner or procurement route stated.
+
+## Mali
+
+Work is under way to [finalise the creation by decree of an integrated national measurement, reporting and verification system](https://mediaelles.com/environnement-vers-la-finalisation-la-creation-du-systeme-national-mrv-integre-de-la-cdn/) for the nationally determined contribution. No decree number, data source list or operator is on file.
 
 ## Mozambique
 

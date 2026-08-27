@@ -3,13 +3,13 @@ title: Standards — monthly update, July 2026
 compiled: 2026-08-27
 period: 2026-07-01 to 2026-08-27
 subject: gov.standards
-places: DZA; AGO; BEN; CPV; CAF; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; GIN; KEN; LBY; MWI; MUS; MOZ; NER; NGA; RWA; SEN; SLE; ZAF; TGO; UGA
-record: 5a52a6515db2
+places: DZA; AGO; BEN; CPV; CAF; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; GIN; KEN; LBY; MWI; MUS; MOZ; NER; NGA; RWA; SEN; SLE; SOM; ZAF; TGO; UGA
+record: 4915ca13242e
 ---
 
 # Standards: monthly update, July 2026
 
-*27 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*28 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -42,6 +42,8 @@ On 29 July the agency [set a target of 1,200 certified cyber-security specialist
 ## DR Congo
 
 The telecommunications regulator set on 22 July a [binding escalation path for consumer complaints: the operator first, up to 30 working days, then referral to the regulator](https://progreseco.com/face-aux-abus-de-services-des-telecoms-et-de-la-poste-les-usagers-appeles-a-porter-plainte-aupres-de-larptc/).
+
+The telecoms regulator [installed equipment giving it near-real-time access to mobile operators' own data](https://decrypt-eco.net/2026/08/25/qualite-internet-le-gouvernement-ausculte-les-reseaux-mobiles-avec-de-nouveaux-equipements-de-controle/) on service quality, traffic flows and spectrum, which the ministry says will let it establish breaches objectively rather than on operators' own reporting. No first enforcement action or published measurement has followed.
 
 ## Egypt
 
@@ -110,9 +112,15 @@ The [government-wide enterprise architecture framework, version 2.1, is in force
 
 Senegal adopted [non-binding Francophone West African AI governance guidelines on 6 July](https://www.wearetech.africa/en/fils-uk/news/tech/six-francophone-west-african-countries-unite-on-ai-governance-framework).
 
+Senegal held its [first national green-coding and responsible-digital workshop](https://www.socialnetlink.org/2026/08/24/le-senegal-engage-son-ecosysteme-numerique-sur-la-voie-du-green-coding/), bringing about 170 people from the sector to Dakar on 18 and 19 August 2026 to set the basis for a national approach to digital sobriety. Nothing was adopted at it.
+
 ## Sierra Leone
 
 The [national open-source software policy for the public sector is in force](https://www.ecofinagency.com/news-services/3107-57911-sierra-leone-aligns-university-training-with-global-digital-standards-to-build-future-tech-talent), approved in 2025. No compliance or adoption reporting has been published against it.
+
+## Somalia
+
+The auditor general's office and a partner supreme audit institution [completed the third phase of a cooperation programme on auditing government information systems](https://arlaadimedia.com/2026/08/23/somalia-turkey-strengthen-cooperation-on-digital-auditing/). No audit report, scope or next-phase date has been published.
 
 ## South Africa
 

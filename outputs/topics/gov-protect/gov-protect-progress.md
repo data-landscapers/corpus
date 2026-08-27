@@ -4,7 +4,7 @@ compiled: 2026-08-27
 period: 2025-08-01 to 2026-08-27
 subject: gov.protect
 places: XAF; XSA; XWA
-record: 5c98464f7a3e
+record: 05b411faa651
 ---
 
 # Data protection: progress report, 2025-08-01 to 2026-08-27
@@ -31,4 +31,4 @@ record: 5c98464f7a3e
 
 | Body, instrument or system | At 2025-08-01 | At 2026-08-27 | Movement |
 |---|---|---|---|
-| ECOWAS Supplementary Act on the Protection of Personal Data | The Supplementary Act of February 2010, the regional benchmark national bills were still being drafted against | [A revised Act adopted; its text is not published with the communique, so what changed against 2010 is not establishable from the base](https://www.ecowas.int/wp-content/uploads/2026/07/Final-Communique_-ENG.pdf) | Advanced |
+| ECOWAS Supplementary Act on the Protection of Personal Data | The Supplementary Act of February 2010, the regional benchmark national bills were still being drafted against | [A revised Act adopted; its text is not published with the communique, so what changed against 2010 is not establishable from the base; the complete text is now held, adopted at the thirty-seventh session of the Authority of Heads of State and Government in Abuja on 16 February 2010](https://www.statewatch.org/media/documents/news/2013/mar/ecowas-dp-act.pdf) | Advanced |

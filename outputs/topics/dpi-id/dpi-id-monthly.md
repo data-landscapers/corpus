@@ -3,13 +3,13 @@ title: Digital Identity and CRVS — monthly update, July 2026
 compiled: 2026-08-27
 period: 2026-07-01 to 2026-08-27
 subject: dpi.id
-places: DZA; AGO; BWA; BFA; BDI; CMR; CPV; COG; CIV; DJI; COD; EGY; ETH; GMB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TUN; UGA; ZMB; ZWE
-record: 98bf93e89d5c
+places: DZA; AGO; BWA; BFA; BDI; CMR; CPV; COG; CIV; DJI; COD; EGY; ETH; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TUN; UGA; ZMB; ZWE
+record: 162a5d075931
 ---
 
 # Digital Identity and CRVS: monthly update, July 2026
 
-*41 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*42 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -69,6 +69,8 @@ A sector chief in Walikale told the provincial interior division on 23 July that
 
 Identity gained a second biometric front end and a liability problem in the same month. The central bank governor launched [Haweya, registering face and fingerprint biometrics and enabling remote account opening at 37 banks](https://www.biometricupdate.com/202511/egypt-rolls-out-digital-id-platform-to-scale-up-financial-inclusion), and the [national identity application reached a second release adding liveness detection](https://gate.ahram.org.eg/News/5813424.aspx). Neither carries an enrolment count or a governing decree. Against that, the telecommunications regulator [stated that registration alone does not establish criminal liability](https://english.ahram.org.eg/UI/Front/Inner.aspx?NewsContentID=574242) after lines were found registered to people without their knowledge, after reports of a nineteen-year-old sentenced in absentia to 25 years in a case turning on a line registered in his name in 2024; it says it is revising the rules towards biometric subscriber verification, with no date or target stated. Within a week the revision acquired shape: the regulator [tightened the registration rules, referred the four mobile operators to the prosecution and set a unified national digital-identity project alongside](https://gate.ahram.org.eg/News/5887018.aspx), and is [expanding mandatory facial verification at enrolment through its know-your-customer system, linked to the civil registry](https://www.biometricupdate.com/202608/egypt-expands-biometric-sim-registration-after-identity-misuse-case). Verification at enrolment does not prevent a line being handed on afterwards, which is the gap the case turned on. The scale of the problem showed in the complaint traffic: the regulator [logged over 3,000 line-fraud complaints and 100,000 call-centre inquiries in two days](https://www.egyptindependent.com/egypt-is-cracking-down-on-phone-line-fraud-ntra-assures/), saying it checks each disputed registration against the provider's own records. What the fix itself costs is now being asked in public: a member of parliament [has pressed the government on what institutional framework governs collection, storage and access to the facial-recognition data taken at registration](https://www.egyptindependent.com/mp-raises-concerns-over-egyptian-state-collecting-facial-recognition-data/), and digital-rights researchers argue that [biometric data cannot be reissued once compromised, which makes the protection framework the precondition rather than the sequel](https://www.madamasr.com/en/2026/08/12/feature/society/privacy-chaos-from-fraudulent-sim-registration-to-biometric-data-collection/). The health ministry is separately [stated to have taken birth and death registration electronic nationwide](https://www.youm7.com/story/2026/8/2/%D8%AE%D8%B7%D8%A9-%D8%A7%D9%84%D8%AA%D9%86%D9%85%D9%8A%D8%A9-%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A%D8%A9-2026-2027-%D8%AA%D8%B9%D8%AA%D9%85%D8%AF-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%AA%D8%AD%D9%88%D9%84-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%89-%D9%84%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9/7497444), on the development plan's own word and with no coverage rate published.
 
+The telecoms regulator [launched a remote biometric verification system in a pilot phase](https://www.zawya.com/en/economy/egypt-launches-biometric-verification-system-for-remote-digital-services-467752), built with ITIDA, CyShield and licensed electronic-signature companies, letting users reach services requiring identity verification and electronic signatures through mobile applications rather than company branches. Operators are to enable it in their own apps as their technical readiness allows, and its stated scope is to widen later to a broader range of digital services.
+
 ## Ethiopia
 
 The identity programme supplied most of the month's movement: a [joint venture with Safaricom and a local partner](https://techreviewafrica.com/news/6190/safaricom-ethiopia-partners-national-id-program-to-expand-digital-identity-registration) on 6 July to run mass registration across seven regions, and, on 24 July, the operator's own disclosure that it accounts for 69% of all registrations, with more than 4m farmers enrolled through the agriculture ministry and more than 28,000 displaced people through humanitarian partners.
@@ -102,6 +104,12 @@ On 10 August the territorial administration minister [put birth registration at 
 Government is [procuring a system to cut identity-card issuance to ten days and passports to a week](https://www.standardmedia.co.ke/national/article/2001551755/new-technology-slashes-national-id-waiting-time-to-10-days). The source is a headline account; no contract, vendor or value is held.
 
 Two identity systems met the courts instead. The High Court [barred the transport authority from discontinuing physical vehicle logbooks](https://www.the-star.co.ke/news/2026-08-11-court-preserves-validity-of-ntsa-physical-logbooks) on 11 August, pending a petition arguing the electronic logbook was introduced without public participation and without adequate data-protection and cybersecurity impact assessments. Separately, the Attorney-General's six-month window to legislate on phone-number recycling, opened by the March judgment recognising a registered number as a protected digital identifier, [was still open in August with nothing tabled](https://www.kictanet.or.ke/https-www-kictanet-or-ke-phone-number-recycling-digital-identity-kenya/), while banks, savings societies and platforms continue to rely on numbers after reassignment.
+
+The transport and safety authority [announced a Sh42 billion public-private partnership to roll out smart driving licences over twenty-one years](https://swalanyeti.co.ke/business/article/11563/ntsa-unveils-sh42-billion-ppp-to-roll-out-smart-driving-licences-over-21-years). A twenty-one-year concession over a national credential is a long commitment, and no concessionaire, financial close or first issuance date is named.
+
+## Lesotho
+
+A freeze on refugee identity documents is reported to have left [families stranded and bank accounts frozen](https://lestimes.com/?p=91350). Where an identity system is the gate to banking, an administrative freeze is a financial exclusion as well as a documentary one; no instrument, affected count or review route is on file.
 
 ## Liberia
 

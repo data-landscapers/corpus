@@ -3,13 +3,13 @@ title: Research institutions — monthly update, July 2026
 compiled: 2026-08-27
 period: 2026-07-01 to 2026-08-27
 subject: capacity.research
-places: BDI; CMR; CAF; CIV; GNQ; ETH; KEN; LBY; MOZ; RWA; SEN; SOM; ZAF; TZA; ZMB
-record: a31b7762b3da
+places: BDI; CMR; CAF; COG; CIV; GNQ; ETH; KEN; LBY; MOZ; NER; RWA; SEN; SOM; ZAF; TZA; ZMB
+record: f2cf4d632443
 ---
 
 # Research institutions: monthly update, July 2026
 
-*15 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*17 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -24,6 +24,10 @@ Two research builds were tabled in the same cabinet review list — a [sovereign
 ## Central African Republic
 
 Nothing moved in the research base this period. What changed is the record: the base had carried no university, statistics-institute or donor research document for the country at all, and now holds the University of Bangui's [Institut superieur de technologie](https://www.univ-bangui.org/technologie/), which supplies most of the country's professional engineering graduates and runs a master's in engineering sciences. The page carries no date, enrolment or research-output figure, so the position it settles is one of existence rather than of scale.
+
+## Congo
+
+Researchers and faculty met in Brazzaville on 21 and 22 August to [set rules for the use of artificial intelligence in research](https://congotimes.com/2026/08/24/congos-researchers-confront-ais-real-limits/). No code, guideline text or adopting institution has come out of it yet.
 
 ## Cote d'Ivoire
 
@@ -50,6 +54,10 @@ On 4 August the Libyan Authority for Scientific Research's scientific committee 
 ## Mozambique
 
 At the university data centre's inauguration the communications minister proposed transferring management of the research and education network from his own ministry to the universities, naming no date, instrument or governance model ([ministerial account](https://clubofmozambique.com/news/mozambique-govt-wants-universities-involved-in-protecting-against-cyberattacks/)).
+
+## Niger
+
+The [Council of Ministers of 21 August 2026 took decisions on research and innovation](https://www.gouv.ne/index.php/les-communiques-du-gouvernement/1284-conclusions-du-conseil-des-ministres-du-vendredi-21-aout-2026). Cabinet conclusions name what is decided without carrying the text of it, so the base holds the announcement and not the instruments.
 
 ## Rwanda
 

@@ -3,13 +3,13 @@ title: Sectoral management information systems (HMIS, EMIS, etc.) — monthly up
 compiled: 2026-08-27
 period: 2026-07-01 to 2026-08-27
 subject: dpi.mis
-places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COG; COD; EGY; ETH; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MWI; MLI; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; ZMB; ZWE
-record: f27ff16f6f78
+places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COG; CIV; COD; EGY; ETH; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; ZMB; ZWE
+record: 13927160c46c
 ---
 
 # Sectoral management information systems (HMIS, EMIS, etc.): monthly update, July 2026
 
-*43 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*45 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -57,6 +57,10 @@ The education management information system is [in use in the higher-education m
 
 Health acquired equipment rather than a system. On 7 August the Global Fund and UNDP [handed over e-health equipment, a P2-level biosafety laboratory and a secure biomedical-waste management system at the Edith Lucie Bongo Ondimba hospital at Oyo](https://fr.apanews.net/health/congo-le-systeme-de-sante-se-renforce-grace-au-numerique-et-aux-laboratoires/), for early disease detection, patient data management and health-service coordination. It is a single site; no value, system name, national rollout or interoperability with any other health system is stated, and it sits beside a civil-service payroll platform whose own operator has minuted three failure modes. That platform gained a fourth problem in public: the public service minister [told the Senate on 7 August of fraudulent duplicate payroll numbers and of deceased or retired staff still drawing salaries](https://brazzavilleinsider.com/congo-bets-on-digital-records-to-curb-civil-fraud/). No count, value or remedy is stated, and the disclosure is the minister's own.
 
+## Cote d'Ivoire
+
+Work began on digitising the national school map, education-sector stakeholders convening at Yamoussoukro on 19 August 2026 to [build geographic information systems onto the integrated education management information system](https://www.ecofinagency.com/news-services/2508-58296-cote-d-ivoire-turns-to-digital-mapping-to-improve-school-planning). No coverage, timetable or delivery date is on file.
+
 ## DR Congo
 
 A seminar opened on 15 July on a [public-enterprise digitalisation plan for 2026-2028](https://rdc-monde.com/rdc-finis-les-circuits-lents-ligf-passe-en-mode-numerique-pour-traquer-la-fraude-et-booster-les-entreprises-publiques/) covering transaction traceability, automated validation circuits and data reconciliation, with no system, budget line or deployment date named.
@@ -68,6 +72,8 @@ The social insurance authority reported on 3 August that it had served 8,621,000
 ## Ethiopia
 
 A [livestock information system went live on 29 July](https://developmentgateway.org/blog/building-lasting-dpi-through-local-ownership-lessons-from-ethiopias-livestock-information-system/), drawing on five priority databases and repositioning animal identification from an export tool to a national asset register — broadened from feedlots to farm level and linked to disease surveillance and vaccination records. The account is the implementer's own, written after four years with a team embedded in the ministry, and is uncorroborated here. A system that has been running far longer got its evaluation: a journal study published on 10 August [puts a community HIV case-management application in the hands of 950 health workers, with the time to reach case data down from a month to a day and data completeness near 100%](https://www.ghspjournal.org/content/14/1/e2400353). [Ninety-two per cent of mobile accounts and 94% of web accounts were actively used](https://www.ghspjournal.org/content/14/1/e2400353). The figures are the study's and cover deployment since 2017; no national coverage figure or cost is given.
+
+A technology group and a bank [signed an agreement to digitise the agricultural supply chain](https://birrmetrics.com/eagle-lion-and-tsedey-bank-partner-to-digitize-ethiopias-agricultural-supply-chain/); no scope, value, farmer count or launch date is stated.
 
 ## Gabon
 
@@ -99,6 +105,10 @@ The month's clearest finding about a government system is that it does not exist
 
 The state importer of Libya's medicines opened its first digital supply system. On 17 August the Medical Supply Organisation [launched the pilot phase of a Sustainable Medical Supply Platform](https://libyaherald.com/2026/08/medical-supply-organisation-launches-pilot-sustainable-medical-supply-platform-to-transform-to-an-integrated-national-digital-system), developed with and implemented by NSR International for Information Technology, a subsidiary of the Libyan Foreign Investment Company, to manage pharmaceutical procurement, inventory and distribution toward a unified national medical-supply database. No cost, pilot scope or timetable is stated, and what the platform's artificial-intelligence component does is not described.
 
+## Madagascar
+
+An assessment put Madagascar's [digital-health maturity at 55.6 per cent](https://moov.mg/article/120129-sante-numerique-apres-evaluation-madagascar-obtient-un-score-de-maturite-de-556-percent). Neither the assessment instrument nor who administered it is named in the account.
+
 ## Malawi
 
 The Electronic Invoicing System [reached 8,552 registered taxpayers by 20 July](https://malawi24.com/2026/07/20/mras-eis-gains-momentum/).
@@ -125,6 +135,8 @@ A [ten-year digital health strategy is recorded as the operative national instru
 
 The health ministry held national training at Swakopmund in the week to 29 July for a mobile application replacing community health workers' paper registers; no rollout date was announced and paper and digital are to run in parallel ([training account](https://neweralive.na/health-prepares-for-digital-system-rollout/)).
 
+The Roads Authority [launched a N$13 million project control system](https://neweralive.na/n13-million-project-control-system-launched/) to strengthen oversight of road projects. No project count, user base or reporting output accompanies it.
+
 ## Niger
 
 On 9 July the health ministry [validated the roadmap of the national e-health master plan 2025-2029](https://www.lesahel.org/atelier-de-la-direction-de-la-e-sante-vers-une-transformation-numerique-du-systeme-de-sante/), covering 27 structuring projects across health information, interoperability, epidemiological surveillance and cybersecurity.
@@ -146,6 +158,8 @@ Health information is the strongest part of the state's digital estate and the p
 ## Senegal
 
 In health, a [mortality and cause-of-death analysis tool was trained out on 20 and 21 July](https://lesoleil.sn/actualites/sante/renforcement-informations-sanitaires-anacod3-lance-afin-dameliorer-la-qualite-des-donnees-de-mortalite/), and civil society [called on 23 July for adoption of a digital-health bill](https://lesoleil.sn/actualites/sante/coeur-rose-de-diourbel-plaide-ladoption-de-la-loi-sur-la-sante-digitale/) whose status and text are not stated; the ministry has begun building a single patient record ahead of the law meant to govern it.
+
+The higher-education, research and innovation ministry [reported a further step in the digital transformation of its services](https://mesrisenegal.sn/2026/08/22/mesri-une-nouvelle-etape-franchie-dans-la-transformation-numerique-des-services/), framed around interoperability; no service list, user count or completion date is given.
 
 ## Seychelles
 
@@ -180,6 +194,8 @@ The state's own asset record is being enforced rather than built. The finance mi
 ## Togo
 
 Togo put a [national platform online centralising climate-risk data for public decision-making across agriculture, forestry, water resources, tourism and energy](https://www.togofirst.com/en/itc/2408-19852-togo-launches-platform-to-improve-climate-risk-monitoring). Indicators on droughts and floods are entered by field agents, checked by sector focal points and regional officials before national consolidation, time-stamped to leave an audit trail, and viewable at regional, prefecture and municipal level; it was developed by the environment ministry with technical support from a UN agency and climate-fund financing, and follows the regional adaptation plans adopted by all five regions in 2025. The source gives no launch date.
+
+The modules for a [National Malaria Data Repository were approved](https://www.togofirst.com/en/health/2608-19870-togo-launches-digital-platform-to-improve-malaria-response), following a training-of-trainers workshop held at the public-health training and research centre. No go-live date, facility coverage or data flow is stated.
 
 ## Tunisia
 

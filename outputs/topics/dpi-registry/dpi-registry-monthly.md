@@ -3,15 +3,19 @@ title: Registries (population, land, address, etc.) — monthly update, July 202
 compiled: 2026-08-27
 period: 2026-07-01 to 2026-08-27
 subject: dpi.registry
-places: AGO; BEN; BWA; BFA; CMR; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; SWZ; GMB; GHA; GIN; GNB; KEN; LBR; LBY; MDG; MWI; MLI; MRT; MAR; NAM; NER; NGA; RWA; STP; SEN; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 4163bc7cc5d9
+places: DZA; AGO; BEN; BWA; BFA; CMR; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; SWZ; GMB; GHA; GIN; GNB; KEN; LBR; LBY; MDG; MWI; MLI; MRT; MAR; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: c4bdb5796ac8
 ---
 
 # Registries (population, land, address, etc.): monthly update, July 2026
 
-*42 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*44 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
+
+## Algeria
+
+Two registry developments pulled in opposite directions. The education ministry [ordered its wilaya directorates and schools to accept electronically issued civil-status documents and stop demanding paper copies](https://interlignes.dz/education-nationale-rappel-a-lordre-du-ministere/), warning staff that unjustified refusal engages their responsibility â€” an obligation inside one ministry rather than a general rule. On vehicle registration the interior minister [called for rapid correction of technical problems and malfunctions](https://lechodalgerie.dz/immatriculationsayoud-exige-des-correctifs-rapides/) in the system, with no fault description, backlog figure or completion date given.
 
 ## Angola
 
@@ -20,6 +24,8 @@ Identity delivery moved on the printing side. From 1 July all 21 provinces print
 A single social register was launched in the week ending 25 July, and the ministry's own account of the launch supplies what the first reports of it did not. The register is [instituted by Decreto Presidencial n.º 136/19 of 10 May 2019 and this phase is a modernisation and expansion of it, adding interoperability between public institutions, integration of databases and better information quality](https://masfamu.gov.ao/home), underpinning the Kwenda cash transfer — put at more than 1.3 million households and about 6.5 million people — and the national school-feeding programme. Its delivery systems are financed by a [US$27m component of a World Bank social-protection and human-capital operation targeting about 1.5 million households and 7.4 million people](https://documents1.worldbank.org/curated/en/099102325140049320/pdf/P181495-a8b28113-9d6f-4cb8-a1d0-037750e20865.pdf). What remains unstated is the data-protection basis for a register built to be read across institutions, and any count of who is actually on it.
 
 The electoral register, updating since 15 June against a universe of 16.7 million citizens, acquired its first national enrolment figure in August and it came from the opposition rather than the administration. Four parties [put the count above 730,000 and demanded an independent audit of the electoral database, alleging administrative discretion, uneven deployment of registration brigades and recurring biometric-system failures](https://www.novojornal.co.ao/politica/detalhe/partidos-da-oposicao-lancam-alerta-sobre-obstaculos-burocraticos-que-ameacam-exclusao-massiva-de-cidadaos-do-processo-de-actualizacao-do-registo-eleitoral-74052.html), and said the administration refuses to release enrolment statistics disaggregated by province, municipality and commune. At provincial level the Lunda-Norte government [reported over 40,000 residents updated and pressed mining-sector workers to register through the one-stop service desks](https://angop.ao/noticias/politica/governadora-apela-a-actualizacao-dos-dados-eleitorais/). None of the allegations has been adjudicated, and because no official series exists there is nothing to test them against - which is itself the complaint.
+
+Field enrolment for the single social register [opened in a pilot phase at Sumbe, in Cuanza-Sul](https://angop.ao/noticias/sociedade/cadastro-social-nico-inicia-fase-piloto-no-sumbe/), directed by the social-action minister, to identify and characterise Angolan families and especially those in need. The register itself was activated in July; this is the first enrolment operation on record behind it.
 
 ## Benin
 
@@ -70,6 +76,8 @@ Business formalisation was inspected on 28 July: the portal proposes a legal for
 Two further registers were announced as part of a financial-sector package rather than as builds. A [modernised credit-risk registry and an electronic movable-collateral registry are to be built with the central bank, alongside a new deposit-guarantee fund](https://acp.cd/business/rdc-la-banque-mondiale-annonce-des-reformes-pour-faciliter-le-financement-des-pme/), in a World Bank programme to expand financing for small and medium firms that also carries a rollout of 10,000 point-of-sale terminals and agent networks. No instrument, custodian, timetable or access rule is stated for either registry, and no data-protection provision is reported for the credit file.
 
 The registry ground also drew a vendor. A Kenyan platform operator [pitched the digital economy ministry on 12 August on digital company registries, beneficial-ownership traceability and real-time state-revenue tracking](https://acp.cd/economie/rdc-la-mise-en-place-de-registres-numeriques-recommandee-pour-moderniser-ladministration/), citing its own deployments in Malawi and South Sudan; the minister asked officials to continue talks toward a partnership. It is a sales meeting, and the claims in it are the vendor's.
+
+The company that built the vehicle identification platform [is refusing to hand it to the government without compensation](https://www.africaintelligence.com/central-africa/2026/08/25/kinshasa-struggles-to-take-control-of-vehicle-registration-it-system,110864451-art) and is preparing legal action in Belgium after a mediation attempt failed. A state registry whose operating platform the state does not control is a governance exposure and not only a commercial dispute; no contract terms, valuation or filing date is on file.
 
 ## Egypt
 
@@ -177,6 +185,10 @@ The digitisation the audit is measuring has its own figures. The civil-status ag
 The registry the state has least of is the one for deaths. The national public health agency [opened supplier engagement on 7 August for an Integrated National Digital Mortality Surveillance, Registration and Certification System](https://sierraloaded.sl/health/npha-advances-digital-mortality-system/), with the health ministry and the civil registration authority, aligned to WHO ICD-11 and built on a national health information hub established in January 2026 — against a gap in which only 13.4% of deaths are fully registered. No cost, supplier, timetable or coverage target is stated.
 
 Two days later the civil registration authority and its partners marked African civil-registration day by [calling for an integrated, decentralised, digital birth-to-death registration system, with UNICEF costing US$1.16m of strengthening needs over three years](https://sierraloaded.sl/news/ncra-calls-stronger-investment-in-digital/), and the electoral commission and the central bank naming the 2028 elections and financial inclusion as what depends on it. What a citizen pays for the document at the end of that chain is contested: a civil-society account [questions whether people can afford the national identity card at NLe140 now that it is central to linking identity numbers to SIM registration](https://www.linkedin.com/posts/citizens-barray_freeid-identity-telecommunications-activity-7492303807360679936-U3Br).
+
+## Somalia
+
+Somalia [launched its first unified national registry of health facilities](https://www.emro.who.int/somalia/news/somalia-launches-its-first-unified-national-registry-of-health-facilities.html) in Mogadishu, to underpin health-sector planning; no facility count, update cycle or public access route is stated. In Somaliland, the central bank and the International Finance Corporation [agreed a path forward on a credit registry project](https://www.somalilandcurrent.com/somaliland-central-bank-and-ifc-world-bank-forge-path-forward-on-credit-registry-project/), with no design, timetable or funding figure yet on file.
 
 ## South Africa
 

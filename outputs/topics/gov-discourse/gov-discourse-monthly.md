@@ -4,14 +4,12 @@ compiled: 2026-08-27
 period: 2026-07-01 to 2026-08-27
 subject: gov.discourse
 places: BEN; BFA; BDI; CMR; TCD; CIV; COD; EGY; ETH; GAB; GHA; GIN; KEN; LSO; LBR; MLI; MUS; MAR; NGA; RWA; STP; SEN; SYC; SOM; ZAF; TZA; TGO; UGA; ZMB
-record: bbbbcd37779f
+record: 6d104592b60c
 ---
 
 # Public debate and participation in policymaking: monthly update, July 2026
 
 *29 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
 
 ## Benin
 
@@ -29,9 +27,13 @@ ABUCO's [same 28 July statement](https://www.sosmediasburundi.org/2026/07/31/tel
 
 The state set itself a public venue for the question its record does not answer. The posts and telecommunications ministry is [hosting the 2026 national Internet Governance Forum in Yaounde from 18 to 20 August](https://afriqueitnews.com/crypto-et-web3/cameroun-fgi-2026-place-donnee-coeur-futurs-services-publics-numeriques/), on the theme of moving from fragmentation to interoperability and positioning data as the foundation of interoperable digital public infrastructure, with a plenary on a possible national data-governance strategic framework. The base holds no government interoperability layer and no data-governance framework, so the plenary's subject is an absence rather than an instrument. What is held is a preview: no programme document, participant list or prior edition, and no outcome.
 
+The 2026 national Internet Governance Forum [met at the Palais des Congres in Yaounde from 18 to 20 August](https://techgriot.co/english/cameroon/2026/08/cameroons-fgi-2026-bet-on-data-to-connect-public-services/) under the theme of moving from fragmentation to interoperability and making data the backbone of public digital services. No resolution, communique or follow-up mechanism came out of it.
+
 ## Chad
 
 On 4 August the Haute autorité des médias et de l'audiovisuel [announced](https://www.lepaystchad.com/tchad-la-hama-suspend-lexamen-des-demandes-de-creation-des-journaux-en-ligne/) that it suspends, "jusqu'à nouvel ordre", examination of applications to create online newspapers. The regulator presented the freeze as implementation of its 2026–2028 three-year strategic plan, one axis of which is to clean up the profession and better address "information disorder", and said it would study new arrangements for governing online newspapers with all stakeholders. The communiqué carried no date of its own, set no end date, no published criteria and no transitional treatment for applications already filed, so the outlets already licensed become a closed list for the duration.
+
+A [national internet governance forum devoted to artificial intelligence is in preparation](https://tchadinfos.com/2026/08/25/gouvernance-dinternet-le-tchad-prepare-un-forum-national-consacre-a-lintelligence-artificielle/), with no date, venue or agenda yet announced.
 
 ## Cote d'Ivoire
 
@@ -40,6 +42,8 @@ A consumer federation [launched a complaints platform on 30 July](https://news.a
 ## DR Congo
 
 A [standing consultation mechanism between the ministry and the sector network was agreed at a working session on 6 August](https://acp.cd/economie/rdc-larrete-interministeriel-sur-la-fixation-des-taux-ne-concerne-nullement-les-startups-reseau-des-acteurs-du-numerique/), after the dispute over the digital-sector tariff. No constituting text, membership or meeting schedule is stated, and the agreement is known from a communiqué carried by the state news agency.
+
+The audiovisual and communications council and the press-freedom council [formalised an institutional partnership by memorandum](https://www.adiac-congo.com/content/medias-le-csac-et-le-cslc-formalisent-leur-partenariat-institutionnel-171340) after two days of work on 19 and 20 August 2026. No work programme, joint power or first action under it is on file.
 
 ## Egypt
 

@@ -3,15 +3,13 @@ title: Literacy — monthly update, July 2026
 compiled: 2026-08-27
 period: 2026-07-01 to 2026-08-27
 subject: capacity.literacy
-places: AGO; BEN; BFA; CMR; CIV; COD; GAB; GMB; GHA; KEN; LBR; MOZ; RWA; STP; SEN; TZA; ZMB
-record: d7da371b953e
+places: AGO; BEN; BFA; CMR; CIV; COD; GAB; GMB; GHA; KEN; LBR; MOZ; RWA; STP; SEN; TZA; TGO; ZMB
+record: f53ac2759079
 ---
 
 # Literacy: monthly update, July 2026
 
-*17 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
-
-*The place reports do not share one window; the period above is the range they span.*
+*18 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Angola
 
@@ -76,6 +74,10 @@ A digital financial-education project [closed on 15 July](https://business221.co
 ## Tanzania
 
 The telecoms regulator's director general put the [digital clubs programme at 800 clubs from nursery to university level](https://dailynews.co.tz/tcra-ups-support-for-mathematics-digital-clubs/), funded through the regulator and anchored in the digital economy framework, alongside its sponsorship of the national schools mathematics olympiad team. No establishment dates, per-club spend, enrolment or outcome measure is published. Separately the annual report records [1,167 certified financial educators trained and about 155,730 individuals reached](https://www.bot.go.tz/Publications/Regular/Annual%20Report/en/2026072316300213.pdf); no prior-year figure is held, so the count stands unbenchmarked.
+
+## Togo
+
+A programme of [school FabLabs, trained fabmanagers and regional innovation and technology centres](https://actulome.com/fabmanagers-fablabs-crit-ecole-au-togo/) was set out publicly, together with the vocabulary it will be run in. No site count, budget or opening date is given.
 
 ## Zambia
 

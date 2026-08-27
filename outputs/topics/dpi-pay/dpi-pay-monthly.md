@@ -3,13 +3,13 @@ title: Digital Payments and Fintech — monthly update, July 2026
 compiled: 2026-08-27
 period: 2026-07-01 to 2026-08-27
 subject: dpi.pay
-places: DZA; AGO; BWA; BFA; BDI; CMR; CAF; TCD; COG; CIV; COD; EGY; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 384289664fe3
+places: DZA; AGO; BWA; BFA; BDI; CMR; CAF; TCD; COM; COG; CIV; COD; EGY; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 9266142db63f
 ---
 
 # Digital Payments and Fintech: monthly update, July 2026
 
-*44 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*46 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -51,6 +51,10 @@ The 2027 budget orientations, reported 4 August, [restate](https://lendjampost.c
 
 On 29 July, at Douala, the BEAC and GIMAC [launched the CEMAC's interoperable QR-code payment standard](https://leconomie.info/article/paiement-numerique-le-gimac-officialise-la-norme-qr-code-interoperable-de-la-cemac), in force under a monetary-union regulation of 8 April 2026 across all six member states including Chad and letting any bank, mobile-money or microfinance account settle a purchase at any merchant's code, routed and settled through the regional switch. No Chadian bank, wallet or merchant deployment is on record: Chad is covered by the regulation rather than shown live.
 
+## Comoros
+
+A fault between the mobile-money service and the utility's prepaid electricity meters on Moheli [let subscribers credit their meters without the amounts being collected](https://www.comoresinfos.net/200-millions-de-francs-de-pertes-presumees-que-sest-il-passe-entre-mvola-et-la-sonelec-a-moheli/), with presumed losses of 200 million francs. The figure is presumed in the reporting rather than confirmed by either party, and no remediation, recovery or audit has followed.
+
 ## Congo
 
 On 3 August the [public-revenue platform went live on the national payments switch](https://leconomie.info/congo-le-paiement-des-impots-et-taxes-bascule-en-ligne/), payment following a declaration, authenticated, reconciled in real time and routed to the treasury against a secured electronic receipt. Roll-out runs at large then medium enterprises, all taxpayers targeted by end-2026 and no wave dates published. The same account records the [treasury single account at the regional central bank still being finalised](https://leconomie.info/congo-le-paiement-des-impots-et-taxes-bascule-en-ligne/).
@@ -81,6 +85,8 @@ Payments extended into utilities and tax. Prepaid electricity purchase entered t
 
 The market also drew a new foreign supplier. A South African financial-technology firm [entered the Ethiopian payments market with a local engineering partner on 17 August](https://www.itweb.co.za/article/sybrin-strengthens-east-african-presence-to-support-ethiopias-digital-payments-modernisation/5yONP7Erow8MXWrb), aligning onboarding, fraud-management and workflow-automation tools with the National Digital Payments Strategy 2026-2030. No commitment value, customer or deployment date is disclosed.
 
+Federal authorities began [testing whether a single payment window can serve the whole government, starting with health](https://addisfortune.news/fed-tests-a-payment-window-for-the-whole-government-starting-with-health). No transaction volume, participating-institution list or rollout timetable accompanies the pilot.
+
 ## Gabon
 
 [Domestic acceptance figures published on 30 July put banks at 457,377 cardholders among 673,793 clients, against 326 cash machines and 1,535 merchant terminals](https://leconomie.info/article/gabon-les-banques-comptent-457-377-cartes-bancaires-pour-seulement-246-de-paiements-sur-tpe); of 1,101,434 transactions in June, 62.41 per cent were cash withdrawals and 24.61 per cent terminal payments ([bank association](https://leconomie.info/article/gabon-les-banques-comptent-457-377-cartes-bancaires-pour-seulement-246-de-paiements-sur-tpe)).
@@ -106,6 +112,10 @@ Card acceptance widened from outside the domestic rails. A commercial bank and a
 
 
 The strategy that would order all of this is not yet written. The central bank [advertised a four-month consultancy on 14 August to draft a National Payment Systems and Instruments Strategy for 2027 to 2030](https://fr.linkedin.com/posts/africanenda_africanenda-foundation-et-la-banque-centrale-activity-7494021276999581696-R9o0), with applications closing on the 31st. No text, budget or adoption date exists.
+
+## Guinea-Bissau
+
+Guinea-Bissau's connection to the regional instant-payment rail widened. The BCEAO's [participant list of 31 July 2026](https://ns2.bceao.int/sites/default/files/2026-08/Liste_des_participants_PI-SPI_au_31_juillet_2026.pdf) records five institutions authorised to open PI-SPI services to the public - Banco da Africa Ocidental, BDU, Coris Bank, Ecobank and Orabank - against three when the platform opened to the public in September 2025. Guinea-Bissau and Niger hold the joint-smallest national counts on a union list that has more than doubled over the same period, to 104 participants across the eight WAEMU states.
 
 ## Kenya
 

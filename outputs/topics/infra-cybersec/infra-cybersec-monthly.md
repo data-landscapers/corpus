@@ -3,13 +3,13 @@ title: Cybersecurity — monthly update, July 2026
 compiled: 2026-08-27
 period: 2026-07-01 to 2026-08-27
 subject: infra.cybersec
-places: DZA; AGO; BEN; BFA; BDI; CMR; CPV; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NGA; SEN; SYC; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 3c392a467499
+places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NGA; SEN; SYC; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: b17f4f91610b
 ---
 
 # Cybersecurity: monthly update, July 2026
 
-*42 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*43 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -32,6 +32,10 @@ Check Point Research's July telemetry [puts Angolan organisations at 5,714 attac
 ## Benin
 
 The month's one figure for how exposed the country is came from a vendor rather than the state. In a national newspaper interview the head of the computer emergency response body [cited 631 ransomware threats detected in Benin in 2024, on security-vendor telemetry reported through Interpol's Africa assessment](https://lanation.bj/numerique/francois-amour-bakpe-a-propos-des-cybermenaces-les-631-detections-doivent-nous-inciter-a-renforcer-la-prevention-et-la-reaction), attributing the rise to fast adoption outrunning security practice and to a criminal market where access and tooling can be rented rather than built. How much of the national estate that vendor sees is unpublished, so the count is not a measure of national exposure, and no incident, ransom-payment or recovery figure stands beside it.
+
+## Botswana
+
+A published account documents a [growing digital safety problem](https://www.mmegi.bw/features/inside-botswanas-growing-digital-safety-challenge/news). It is journalistic and carries no measure: no incident count, reporting route or response instrument accompanies it, which is what the record can and cannot say.
 
 ## Burkina Faso
 
@@ -64,6 +68,8 @@ It [launched an open international tender on 23 July for a 24-month mission to d
 ## Cote d'Ivoire
 
 The cyber agency [commissioned the national public key infrastructure](https://www.aip.ci/cote-divoire-aip-lanssi-met-en-service-linfrastructure-a-cles-publiques-nationale/) on an announcement dated 23 July 2026, on the legal basis of the 2013 electronic-transactions law and its 2014 and 2016 decrees. It is the trust anchor for every certification authority operating on Ivorian territory; the agency's own notice is not held, so the technical commissioning date is unestablished.
+
+The national cybersecurity agency [certified the country's first cohort of RGSSI information-security auditors and is opening two cybersecurity masters degrees](https://digitalmag.ci/coulibaly-talnan-jean-honore-anssi-la-cote-divoire-a-un-besoin-de-2000-competences-en-cybersecurite/) through its training centre, against a stated national shortfall of 2,000 cybersecurity professionals. Neither the cohort size nor the intake is given.
 
 ## Djibouti
 
@@ -116,6 +122,8 @@ A vendor threat report published on 13 August put the exposure at the ordinary e
 
 The instrument establishing the new agency also reached the base this month, three months after it took effect. The [State Corporations (National Cybersecurity Agency) Order, 2026 — Legal Notice 89 of 2026, gazetted and commenced on 15 May 2026 — makes it an autonomous body corporate headquartered in Nairobi City County under the direction of the Cabinet Secretary for internal security, charged with formulating national cybersecurity strategy, auditing and certifying the resilience of designated critical information infrastructure, running the National Cybersecurity Operations Centre and maintaining a Cybersecurity Centre of Excellence, with a board seating the internal-security, Treasury and ICT principal secretaries alongside one academic and one private-sector appointee](https://new.kenyalaw.org/akn/ke/act/ln/2026/89/eng@2026-05-15). Nothing in the record shows it exercising any of those powers yet.
 
+The President [appointed a director to lead the National Cybersecurity Agency](https://www.kbc.co.ke/dr-martin-koyabe-appointed-to-lead-national-cybersecurity-agency/). The agency now has named leadership and, on this record, no constitutive instrument, budget line or published function; the National Cybersecurity Policy beside it is still only planned.
+
 ## Lesotho
 
 The [interim Lesotho National Computer Security Incident Response Team](https://www.gov.ls/ict/ministry-of-information-communications-science-technology-and-innovation-launched-lescomcsirt-and-inaugural-national-cybersecurity-forum/) and the inaugural National Cybersecurity Forum were launched in Maseru on 29 July 2026. The forum is described by the Lesotho Communications Authority as a standing collaboration across government, industry, regulators, financial institutions and telecommunications providers. The response team is thus operating ahead of its enabling statute — the Cybercrime and Cybersecurity Bills it would sit under remain before the National Assembly — and on no published timetable. The ministry also reported a first Chief Information Security Officer appointed across government and a national Security Operations Centre being stood up.
@@ -147,6 +155,8 @@ PAFIID reported on 8 July that the Central Bank's AI-supported reputation-protec
 Two cyber measures moved. The [July omnibus would empower the central bank to establish a cyber threat intelligence sharing platform](https://maurice-info.mu/wp-content/uploads/2026/07/The-Economic-and-Financial-Measures-Miscellaneous-Provisions-Bill.pdf) and to require financial institutions, and others it specifies, to participate — the clearest instance of mandatory threat-intelligence sharing in primary legislation on this record. At a [workshop on 29 July](https://lexpress.mu/s/face-aux-cyberattaques-le-secteur-postal-prepare-sa-riposte-560993) the postal operator began being wired into the Universal Postal Union's global postal threat-sharing centre, with the ICT minister naming ISO/IEC 27001 as the standard he wants adopted.
 
 August supplied the first figure for what any of this is against: [more than 4,000 reported cyber incidents in Mauritius since January 2026](https://techreviewafrica.com/news/6758/mauritius-telecom-launches-national-cybersecurity-and-ai-awareness-programme-for-students), given at the launch of the schools awareness programme. No reporting body, definition or comparable earlier period is named with it.
+
+The ministry's own communique put [4,076 cybersecurity and online-behaviour reports between January and July 2026 against a cybercrime unit of seventeen investigators](https://lexpress.mu/node/561791). Both figures come from the same communique, which is what makes the ratio quotable.
 
 ## Morocco
 
@@ -183,6 +193,8 @@ The [National Assembly voted unanimously on 22 July 2026 to approve accession to
 The telecoms regulator ran two public-facing cyber messages in nine days. It [set out a consumer education campaign on online fraud on 28 July](https://sierraloaded.sl/local/natca-consumer-education-campaign-online-fraud/), stating that the fraudulent links circulating did not originate from the mobile networks and placing the burden on the consumer; on 30 July it [confirmed it was coordinating a response to ongoing cybersecurity incidents affecting digital services](https://sierraloaded.sl/news/natca-reassures-public-national-cyber-attacks/), naming no affected service, no attribution and no incident count.
 
 The first tool rather than message came from an operator, not the state. On 18 August a mobile operator [launched a scam-alert channel for suspected fraud against its mobile-money service, reached on a *505# short code, an online form or a 111 call](https://techafricanews.com/2026/08/18/orange-sierra-leone-launches-scam-alert-tool-to-combat-fraud/). It is one operator's own channel: no report volume, response time, remedy, referral route to the police or coordination with the regulator's response is published, and the Cyber Security and Crime Act 2021 still carries no reported prosecution.
+
+The communications, technology and innovation ministry [published draft digital protection plans for four critical sectors](https://sierraloaded.sl/news/sierra-leone-plans-digital-systems-sectors/); nothing is adopted and no implementation date is given. An original investigation [documented 27 WhatsApp account-takeover cases](https://sierraloaded.sl/feature/inside-sierra-leone-whatsapp-takeover-scam/) and located the governance failure in the payout leg rather than in the platform â€” which makes it a mobile-money supervision question rather than a platform one.
 
 ## Somalia
 
