@@ -17,17 +17,17 @@ document (`progress-report-redesign.md` §1) and are not in scope.
 ## Done
 
 ERI and ZAF were the pilots. This pass has since added, in order: **GNB, AGO, BDI, BEN, BFA, BWA,
-CAF, CIV, CMR, COD, COG, COM, CPV, DJI, DZA, EGY, ETH, GAB, GHA, GIN, GMB, GNQ, KEN, LBR, LBY, LSO, MAR, MDG, MLI, MOZ, MRT, MUS, MWI, NAM, NER, NGA, RWA** — 39 of 54, one commit each, all pushed.
+CAF, CIV, CMR, COD, COG, COM, CPV, DJI, DZA, EGY, ETH, GAB, GHA, GIN, GMB, GNQ, KEN, LBR, LBY, LSO, MAR, MDG, MLI, MOZ, MRT, MUS, MWI, NAM, NER, NGA, RWA, SDN** — 40 of 54, one commit each, all pushed.
 
 Yields so far, as a sense of shape: 21 indicators from GNB's 25 ledger rows, 43 from BDI's 74, 52
 from BWA's 107, 57 from BEN's 105, 64 from BFA's 131, 66 from AGO's 122, 43 from CAF's 92, 92 from
-CIV's 167, 73 from CMR's 121, 67 from COD's 123, 52 from COG's 103, 45 from COM's 117, 49 from CPV's 140, 43 from DJI's 70, 58 from DZA's 111, 66 from EGY's 199, 66 from ETH's 97, 58 from GAB's 120, 81 from GHA's 175, 59 from GIN's 109, 46 from GMB's 75, 42 from GNQ's 67, 93 from KEN's 219, 43 from LBR's 71, 64 from LBY's 84, 61 from LSO's 69, 79 from MAR's 137, 44 from MDG's 67, 55 from MLI's 87, 77 from MOZ's 159, 39 from MRT's 62, 50 from MUS's 81, 65 from MWI's 183, 62 from NAM's 134, 42 from NER's 68, 92 from NGA's 279, 69 from RWA's 128. Between three quarters and nine tenths of ledger rows map; the rest are placeholders with
+CIV's 167, 73 from CMR's 121, 67 from COD's 123, 52 from COG's 103, 45 from COM's 117, 49 from CPV's 140, 43 from DJI's 70, 58 from DZA's 111, 66 from EGY's 199, 66 from ETH's 97, 58 from GAB's 120, 81 from GHA's 175, 59 from GIN's 109, 46 from GMB's 75, 42 from GNQ's 67, 93 from KEN's 219, 43 from LBR's 71, 64 from LBY's 84, 61 from LSO's 69, 79 from MAR's 137, 44 from MDG's 67, 55 from MLI's 87, 77 from MOZ's 159, 39 from MRT's 62, 50 from MUS's 81, 65 from MWI's 183, 62 from NAM's 134, 42 from NER's 68, 92 from NGA's 279, 69 from RWA's 128, 29 from SDN's 52. Between three quarters and nine tenths of ledger rows map; the rest are placeholders with
 no source, or real instruments the frame has no question for (a telecoms statute, a broadcasting
 transition), and those correctly stay on the ledger and out of the report.
 
 ## Remaining
 
-15 country units: SDN, SEN, SLE, SOM, SSD, STP, SWZ, SYC, TCD, TGO, TUN, TZA, UGA, ZMB, ZWE.
+14 country units: SEN, SLE, SOM, SSD, STP, SWZ, SYC, TCD, TGO, TUN, TZA, UGA, ZMB, ZWE.
 
 ## The loop, per unit
 
@@ -717,3 +717,34 @@ standards and skills line executed at 11.5 per cent; the national identification
 140.7 per cent. Read together they say which parts of the digital agenda the fisc actually funds, and
 that reading only exists because the cells for protection, cybersecurity and identity each state
 their own line. Worth repeating in any unit whose ledger carries finance-law rows.
+
+## What SDN added, 2026-08-27
+
+39 sourced rows of 52, 29 indicators. A wartime ledger, and two things in it needed the cell to hold a
+shape rather than a list.
+
+**The sequencing is the finding, and it only shows if the cells cross-reference each other.** Three
+authorities exist by prime-ministerial decree — digital transformation, data and artificial
+intelligence, cybersecurity — while all three statutes that would give them powers are still in
+redrafting, and the platforms they would govern are already live. Written cell by cell in isolation,
+that reads as ordinary progress in four places. The cells were drafted to say it once in each: the
+authority precedes the law, the law follows the systems, and **no account held connects the decree to
+any platform**, so which authority owns which system is not established. Resisting the urge to supply
+the missing chain of authority is the whole job here.
+
+**Where a ledger row states a risk as realised, the cell says so.** The identity credential's note
+records that tying bank-account continuity to a credential of unmeasured coverage was flagged as an
+exclusion risk before launch, and that the August 2026 eKYC integration is that risk being realised
+rather than answered. That judgement is the ledger's and it is load-bearing; softening it to "the
+integration raises questions" would have thrown away the only analysis in the row.
+
+**A decade-old instrument can be the finding.** The 2016 stock-exchange trading system was financed
+under a public financial management project whose payroll, electronic-invoicing and
+electronic-procurement list is substantially the one being re-announced in 2026, and nothing on file
+says what happened to the first attempt. Worth checking for in any unit with a long tail of dormant
+rows: the oldest row sometimes reads on the newest.
+
+**Conflict units put the regulator outside the frame.** Satellite service here was never licensed,
+arrived through smuggled terminals, and is switched off locality by locality by whoever holds the
+ground. The satellite indicator is written about who actually controls access rather than about
+licensing, because licensing is not what governs it.
