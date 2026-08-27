@@ -1,12 +1,12 @@
 ---
 title: Cameroon — digital transformation and data governance status report
-compiled: 2026-08-17
+compiled: 2026-08-27
 place: CMR
 region: XCA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-24
 intersections_read: 8
-sources_cited: 185
+sources_cited: 186
 sections_written: 37
 not_established: 3
 acquire_lines: 59
@@ -31,7 +31,7 @@ Cameroon enacted two of the most consequential statutes in its digital estate on
 
 What sits beside them is a set of holes that a year of activity has not closed. There is [no comprehensive standalone regulation of digital identity](https://www.wearetech.africa/en/fils-uk/news/tech/cameroon-new-national-id-paves-way-for-digital-identity-system): the 2025 decree governs issuance of the identity card and nothing wider, and a World Bank diagnostic found the legal framework for digital identity inadequate. There is [no right-to-information law in force](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update), with a draft in consultation as at 2025. And the national AI consultations identified [the absence of a settled legal framework for supervised use of artificial intelligence](https://lejour.cm/yaounde-le-defi-dune-utilisation-encadree-de-lintelligence-artificielle/) as a central problem for the country (July 2025).
 
-A [draft e-government law discussed at a government workshop in Ebolowa in November 2025](https://patnuc.cm/2025/11/20/services-publics-et-transparence-les-evolutions-cles-de-la-loi-e-gov/) would create a general right of access to public information and place interoperability governance under a new body, GovTech Cameroun; it had not been enacted by the end of 2025.
+An e-government law on access to public information [reached official validation in January 2026](https://www.droitmediasfinance.com/index.php/actualites/droit-tech-fintech/1182-cameroun-la-legislation-sur-e-government-facilitant-lacces-a-linformation-publique-au-stade-de-la-validation-officielle), after a government workshop at Ebolowa in November 2025; it would create a general right of access to public information, establish proactive publication as the default and place interoperability governance under a new body, GovTech Cameroun. Validation is not enactment, and no adopting instrument is published.
 
 The binding regime is therefore mostly older law. Cybercrime rests on [Law 2010/012 of 2010](https://lejour.cm/cameroun-quand-les-lois-sur-la-cybercriminalite-menacent-les-libertes/), which civil society organisations argued in June 2026 is being applied against freedom of expression rather than against crime. The state's own records remain anchored in paper, the [Criminal Procedure Code of 2005 requiring judicial police officers to write up investigations in procès-verbaux](https://www.unodc.org/cld/uploads/res/document/criminal-procedre-code_html/Cameroon_Criminal_Procedure_Code_2005.pdf). Where new instruments have been made, they have been fiscal ones: [Decree No. 2022/8001 established the legal basis for electronic payment of taxes, customs duties and other state revenue](https://www.spm.gov.cm/site/sites/default/files/decree_2022_8001.pdf), and the IMEI-based collection of import duty on mobile devices rests on [Article 6 of the 2023 Finance Law](https://techcabal.com/2026/04/01/cameroon-imei-system-mobile-device-import-duties/), which the government presents as enforcement of an existing duty rather than a new tax.
 
@@ -159,7 +159,7 @@ Cameroon has [no government interoperability framework](https://www.worldbank.or
 <!-- derived -->
 Most of the core administrative systems the GovTech Maturity Index assesses in Cameroon are nonetheless recorded as exchanging data with other systems — over interfaces built with no framework governing any of them (2025).
 
-The legal basis is still in draft. An e-government bill [discussed in November 2025](https://patnuc.cm/2025/11/20/services-publics-et-transparence-les-evolutions-cles-de-la-loi-e-gov/) would create a general right of access to public information and place interoperability governance under a new body, GovTech Cameroun; it had not been enacted by the end of that year. The [national AI strategy of July 2025](https://oecd.ai/en/dashboards/policy-initiatives/cameroons-national-artificial-intelligence-strategy-snia) calls for a government data lake and national interoperability standards. Underneath both, the state has [no data quality framework for its information systems, no monitoring of their uptime and no guidance for replacing legacy systems](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). Health is the sector with a real integration effort: DHIS2 carries routine health data and [openIMIS, adopted in 2023, was built to HL7 FHIR and linked to the CamerHealth beneficiary registry](https://health.bmz.de/stories/openimis-powers-cameroons-long-term-vision-for-universal-health-coverage/) (2025).
+The legal basis is validated and not enacted. An e-government bill [reached official validation in January 2026](https://www.droitmediasfinance.com/index.php/actualites/droit-tech-fintech/1182-cameroun-la-legislation-sur-e-government-facilitant-lacces-a-linformation-publique-au-stade-de-la-validation-officielle) after a workshop the previous November; it would create a general right of access to public information and place interoperability governance under a new body, GovTech Cameroun. The [national AI strategy of July 2025](https://oecd.ai/en/dashboards/policy-initiatives/cameroons-national-artificial-intelligence-strategy-snia) calls for a government data lake and national interoperability standards. Underneath both, the state has [no data quality framework for its information systems, no monitoring of their uptime and no guidance for replacing legacy systems](https://www.worldbank.org/en/programs/govtech/gtmi-2025-update) (2025). Health is the sector with a real integration effort: DHIS2 carries routine health data and [openIMIS, adopted in 2023, was built to HL7 FHIR and linked to the CamerHealth beneficiary registry](https://health.bmz.de/stories/openimis-powers-cameroons-long-term-vision-for-universal-health-coverage/) (2025).
 
 ### Digital Identity and CRVS
 <!-- dpi.id -->
