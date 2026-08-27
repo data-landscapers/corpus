@@ -17,17 +17,17 @@ document (`progress-report-redesign.md` §1) and are not in scope.
 ## Done
 
 ERI and ZAF were the pilots. This pass has since added, in order: **GNB, AGO, BDI, BEN, BFA, BWA,
-CAF, CIV, CMR, COD, COG, COM, CPV, DJI, DZA, EGY, ETH, GAB, GHA, GIN, GMB, GNQ, KEN, LBR, LBY, LSO, MAR, MDG, MLI, MOZ, MRT, MUS, MWI, NAM, NER, NGA, RWA, SDN, SEN** — 41 of 54, one commit each, all pushed.
+CAF, CIV, CMR, COD, COG, COM, CPV, DJI, DZA, EGY, ETH, GAB, GHA, GIN, GMB, GNQ, KEN, LBR, LBY, LSO, MAR, MDG, MLI, MOZ, MRT, MUS, MWI, NAM, NER, NGA, RWA, SDN, SEN, SLE** — 42 of 54, one commit each, all pushed.
 
 Yields so far, as a sense of shape: 21 indicators from GNB's 25 ledger rows, 43 from BDI's 74, 52
 from BWA's 107, 57 from BEN's 105, 64 from BFA's 131, 66 from AGO's 122, 43 from CAF's 92, 92 from
-CIV's 167, 73 from CMR's 121, 67 from COD's 123, 52 from COG's 103, 45 from COM's 117, 49 from CPV's 140, 43 from DJI's 70, 58 from DZA's 111, 66 from EGY's 199, 66 from ETH's 97, 58 from GAB's 120, 81 from GHA's 175, 59 from GIN's 109, 46 from GMB's 75, 42 from GNQ's 67, 93 from KEN's 219, 43 from LBR's 71, 64 from LBY's 84, 61 from LSO's 69, 79 from MAR's 137, 44 from MDG's 67, 55 from MLI's 87, 77 from MOZ's 159, 39 from MRT's 62, 50 from MUS's 81, 65 from MWI's 183, 62 from NAM's 134, 42 from NER's 68, 92 from NGA's 279, 69 from RWA's 128, 29 from SDN's 52, 55 from SEN's 115. Between three quarters and nine tenths of ledger rows map; the rest are placeholders with
+CIV's 167, 73 from CMR's 121, 67 from COD's 123, 52 from COG's 103, 45 from COM's 117, 49 from CPV's 140, 43 from DJI's 70, 58 from DZA's 111, 66 from EGY's 199, 66 from ETH's 97, 58 from GAB's 120, 81 from GHA's 175, 59 from GIN's 109, 46 from GMB's 75, 42 from GNQ's 67, 93 from KEN's 219, 43 from LBR's 71, 64 from LBY's 84, 61 from LSO's 69, 79 from MAR's 137, 44 from MDG's 67, 55 from MLI's 87, 77 from MOZ's 159, 39 from MRT's 62, 50 from MUS's 81, 65 from MWI's 183, 62 from NAM's 134, 42 from NER's 68, 92 from NGA's 279, 69 from RWA's 128, 29 from SDN's 52, 55 from SEN's 115, 40 from SLE's 83. Between three quarters and nine tenths of ledger rows map; the rest are placeholders with
 no source, or real instruments the frame has no question for (a telecoms statute, a broadcasting
 transition), and those correctly stay on the ledger and out of the report.
 
 ## Remaining
 
-13 country units: SLE, SOM, SSD, STP, SWZ, SYC, TCD, TGO, TUN, TZA, UGA, ZMB, ZWE.
+12 country units: SOM, SSD, STP, SWZ, SYC, TCD, TGO, TUN, TZA, UGA, ZMB, ZWE.
 
 ## The loop, per unit
 
@@ -783,3 +783,34 @@ would have manufactured precision the base does not have.
 **Third recurrence of the apostrophe trap, and it is now clearly the dominant failure mode.** Two
 possessives inside single-quoted `L()` labels ("civil-status agency's", "statistics school's"). The
 fix is the same triple-quote each time. Worth simply avoiding possessives in labels from the start.
+
+## What SLE added, 2026-08-27
+
+73 sourced rows of 83, 40 indicators, fourth unit running with nothing unmapped.
+
+**When one absence frames the whole unit, state it once and let the affected cells name what they
+lack.** No data-protection law has been in force here at any point in the period. That belongs in
+`gov.legislate--data-protection-legislation` as the finding, and then the identity, disclosure and
+registry cells each say the thing they are missing — police requests answered with no warrant
+requirement or oversight on the record, a farmer registry keyed to the identity number with no
+data-protection arrangement, a health data platform joined at continental level with no published
+data-sharing terms. Restating "there is no law" in every cell would be padding; naming what each
+system does without one is the finding.
+
+**Where the record substitutes literacy for regulation, say so.** Two instances here and they are the
+same move: a consumer-education campaign on fraud while no rule allocates the loss, and a deepfake
+awareness campaign with no legislative or platform-facing instrument. The ledger notes say it
+directly in both cases ("public literacy is standing in for regulation"; "the consumer's position
+after a fraud is exactly where it was"). Carry that judgement into the cell — it is the analysis, and
+a neutral summary of the campaign would have discarded it.
+
+**File by what the evidence establishes, not by the instrument's own subject.** The satellite rollout
+to 300 health facilities went to `digital.rural--digitalisation-of-rural-health-clinics`, not to
+satellite availability: the finding is the dependency — one foreign operator, no public contract, no
+alternative transport named — rather than the connectivity. Same test as NGA's surveillance cluster
+and SEN's breach placement.
+
+**A dispute inside government is stronger evidence than an outside observation.** Two identity
+platforms are being built at once and the identity agency has *publicly warned against parallel
+systems*. That makes the duplication contested on the record rather than merely noticed, which is
+what lets the cell say it plainly.
