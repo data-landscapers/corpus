@@ -1,11 +1,11 @@
 ---
 title: Kenya — monthly update, July – August 2026
-compiled: 2026-08-26
-period: 2026-07-01 to 2026-08-26
+compiled: 2026-08-27
+period: 2026-07-01 to 2026-08-27
 place: KEN
-ledger_rows: 143
+ledger_rows: 149
 not_held: 7
-record: f0fc4105fd6d
+record: 79cf7dba76e9
 ---
 
 # Kenya: monthly update, July – August 2026
@@ -205,6 +205,11 @@ The regulator donated computers to a school in Turkana on 30 July, one of 23 ins
 <!-- narrative: capacity--capacity-training -->
 The 117th digital hub was [commissioned in Baringo on 20 July](https://techafricanews.com/2026/07/20/kenya-launches-117th-jitume-digital-hub-to-expand-digital-access-in-baringo-county/) on the ceremony series, against a separate installed-base series of about 350 that the programme's own officials also use.
 <!-- /narrative -->
+### Research institutions
+
+<!-- narrative: capacity--capacity-research -->
+The base gained its first account of a named Kenyan data-science career, a [data-for-social-impact leader profiled](https://data.org/news/pathways-to-impact-agnes-kiragga/) in a series of conversations with practitioners. It is an interview rather than an institutional record, and carries no programme, funding or output figure.
+<!-- /narrative -->
 
 ## Inclusion
 
@@ -233,6 +238,11 @@ The draft data governance policy provides for a [state-run data marketplace of m
 
 ## Geopolitics
 
+### US / hyperscaler activities
+
+<!-- narrative: geopolitics--geopol-usa -->
+A delegation from a Korean university and development institute [came to Nairobi to evaluate the outcomes](https://www.itweb.africa/article/korea-backs-kenya-digital-economy/KA3WwMdzpwBvrydZ) of South Korea's development assistance to the digital economy. No findings, envelope or successor programme has been published, and the row sits under this heading because the base holds no separate slug for Korea.
+<!-- /narrative -->
 ### China activities
 
 <!-- narrative: geopolitics--geopol-china -->
