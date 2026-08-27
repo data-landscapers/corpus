@@ -17,17 +17,17 @@ document (`progress-report-redesign.md` §1) and are not in scope.
 ## Done
 
 ERI and ZAF were the pilots. This pass has since added, in order: **GNB, AGO, BDI, BEN, BFA, BWA,
-CAF, CIV, CMR, COD, COG, COM, CPV, DJI, DZA, EGY, ETH, GAB, GHA, GIN, GMB, GNQ, KEN, LBR, LBY, LSO, MAR, MDG, MLI, MOZ, MRT, MUS, MWI, NAM, NER, NGA, RWA, SDN, SEN, SLE, SOM, SSD, STP, SWZ** — 46 of 54, one commit each, all pushed.
+CAF, CIV, CMR, COD, COG, COM, CPV, DJI, DZA, EGY, ETH, GAB, GHA, GIN, GMB, GNQ, KEN, LBR, LBY, LSO, MAR, MDG, MLI, MOZ, MRT, MUS, MWI, NAM, NER, NGA, RWA, SDN, SEN, SLE, SOM, SSD, STP, SWZ, SYC** — 47 of 54, one commit each, all pushed.
 
 Yields so far, as a sense of shape: 21 indicators from GNB's 25 ledger rows, 43 from BDI's 74, 52
 from BWA's 107, 57 from BEN's 105, 64 from BFA's 131, 66 from AGO's 122, 43 from CAF's 92, 92 from
-CIV's 167, 73 from CMR's 121, 67 from COD's 123, 52 from COG's 103, 45 from COM's 117, 49 from CPV's 140, 43 from DJI's 70, 58 from DZA's 111, 66 from EGY's 199, 66 from ETH's 97, 58 from GAB's 120, 81 from GHA's 175, 59 from GIN's 109, 46 from GMB's 75, 42 from GNQ's 67, 93 from KEN's 219, 43 from LBR's 71, 64 from LBY's 84, 61 from LSO's 69, 79 from MAR's 137, 44 from MDG's 67, 55 from MLI's 87, 77 from MOZ's 159, 39 from MRT's 62, 50 from MUS's 81, 65 from MWI's 183, 62 from NAM's 134, 42 from NER's 68, 92 from NGA's 279, 69 from RWA's 128, 29 from SDN's 52, 55 from SEN's 115, 40 from SLE's 83, 37 from SOM's 60, 44 from SSD's 74, 27 from STP's 49, 43 from SWZ's 86. Between three quarters and nine tenths of ledger rows map; the rest are placeholders with
+CIV's 167, 73 from CMR's 121, 67 from COD's 123, 52 from COG's 103, 45 from COM's 117, 49 from CPV's 140, 43 from DJI's 70, 58 from DZA's 111, 66 from EGY's 199, 66 from ETH's 97, 58 from GAB's 120, 81 from GHA's 175, 59 from GIN's 109, 46 from GMB's 75, 42 from GNQ's 67, 93 from KEN's 219, 43 from LBR's 71, 64 from LBY's 84, 61 from LSO's 69, 79 from MAR's 137, 44 from MDG's 67, 55 from MLI's 87, 77 from MOZ's 159, 39 from MRT's 62, 50 from MUS's 81, 65 from MWI's 183, 62 from NAM's 134, 42 from NER's 68, 92 from NGA's 279, 69 from RWA's 128, 29 from SDN's 52, 55 from SEN's 115, 40 from SLE's 83, 37 from SOM's 60, 44 from SSD's 74, 27 from STP's 49, 43 from SWZ's 86, 34 from SYC's 54. Between three quarters and nine tenths of ledger rows map; the rest are placeholders with
 no source, or real instruments the frame has no question for (a telecoms statute, a broadcasting
 transition), and those correctly stay on the ledger and out of the report.
 
 ## Remaining
 
-8 country units: SYC, TCD, TGO, TUN, TZA, UGA, ZMB, ZWE.
+7 country units: TCD, TGO, TUN, TZA, UGA, ZMB, ZWE.
 
 ## The loop, per unit
 
@@ -943,3 +943,34 @@ its own exposure, which is why the cell reads Regressed rather than hedging.
 **Ninth and tenth apostrophe-in-label failures.** "prime minister's year-end statement", "women's
 digital academy". The rule from SEN stands and is still being broken: do not put possessives in `L()`
 labels.
+
+## What SYC added, 2026-08-27
+
+48 sourced rows of 54, 34 indicators. Ninth unit running with nothing unmapped, and the second
+consecutive clean pre-lint — again a low-figure ledger, which confirms the STP observation that the
+defect rate follows figure density.
+
+**Where a law and its enforcement diverge, put them in adjacent cells and make each point at the
+other.** The Data Protection Act 2023 is fully in force with an express cross-border interoperability
+provision, which is genuinely ahead of most of the frame. The Information Commission that enforces it
+states in its own whitepaper that it has *no clear power to enforce its orders*. The legislation cell
+closes with "what it lacks is recorded in the next cell"; the protection cell says the gap is what
+decides how much weight the statute carries. Neither cell overclaims and the reader gets the whole
+picture from either entry point.
+
+**A live pairing like that then earns its keep in a third cell.** The video-enforcement pilot
+repurposing the public camera estate for automated ticketing states no data-protection basis — and
+the cell says this matters *more* here than in a unit with no statute, because the safeguard exists in
+law and not in practice. That is the kind of sentence that only exists because the two governance
+cells were written to be read together.
+
+**State a sovereignty question as open when the record leaves it open.** The national digital identity
+runs on a foreign vendor's platform with no source addressing licensing, hosting or exit terms; the
+ledger note calls the question open and the cell says so. Same for the Chinese vendor relationship
+supplying the incumbent 5G core, a schools programme and a proposed emergency-communications core with
+no procurement terms or security review published.
+
+**A comparative observation is allowed when the pass supports it.** This unit required local
+incorporation before licensing the satellite operator, where several others in the frame licensed the
+same operator on a full foreign-ownership basis. That is a claim about the corpus and the pass has now
+seen enough units to make it.
