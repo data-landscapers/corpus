@@ -1,11 +1,11 @@
 ---
 title: Cameroon — monthly update, July – August 2026
-compiled: 2026-08-26
-period: 2026-07-01 to 2026-08-26
+compiled: 2026-08-27
+period: 2026-07-01 to 2026-08-27
 place: CMR
-ledger_rows: 42
+ledger_rows: 43
 not_held: 7
-record: 7086ad59f3f8
+record: babab612cd8c
 ---
 
 # Cameroon: monthly update, July – August 2026
@@ -111,6 +111,11 @@ The same seminar put council digitisation at [230 councils, about 64% nationally
 
 <!-- narrative: technology--tech-ai -->
 Cabinet was told on 30 July that the [national AI strategy is still being developed, with ten priority areas and a costed roadmap tabled](https://cameroon-tribune.cm/articles/11573/en/artificial-intelligence-pm-instructs-completion-of-national-strategy) and no adoption instrument published; a 2040 roadmap on seven pillars had been presented in July 2025. The [AI authority and presidential council that roadmap provided for remain uncreated](https://cameroon-tribune.cm/articles/11573/en/artificial-intelligence-pm-instructs-completion-of-national-strategy) and are absent from the ten priorities, which carry only adaptation of the legal framework. Among the priorities is a [national high-performance computing centre](https://cameroon-tribune.cm/articles/11573/en/artificial-intelligence-pm-instructs-completion-of-national-strategy), announced with no site, cost, operator or timetable. At the same session the telecommunications minister said Cameroon had [acceded as a founding member of a global AI cooperation body](https://cameroon-tribune.cm/articles/11573/en/artificial-intelligence-pm-instructs-completion-of-national-strategy); the accession date is not published.
+<!-- /narrative -->
+### Innovation ecosystem
+
+<!-- narrative: technology--tech-innovate -->
+A domestically built platform for creating online shops was [profiled on 26 August](https://www.wearetech.africa/fr/fils-fr/actualites/tech/tamko-clarence-le-camerounais-qui-facilite-la-creation-de-boutiques-en-ligne), co-founded by a Cameroonian software engineer and pitched at widening access to digital markets for regional traders. No user, merchant, transaction or revenue figure is published, and the account is a founder profile in a trade outlet rather than a company disclosure.
 <!-- /narrative -->
 
 ## Capacity
