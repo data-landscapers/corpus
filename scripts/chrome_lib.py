@@ -55,7 +55,17 @@ NAV = [
 # The key a page passes as `active`, matched case-insensitively against the label.
 # A page that is not in the nav at all — a country page, a topic page — passes
 # whichever section it belongs under, or None.
-_MAIN_NAV = ["writing", "lab", "portfolio", "about", "contact", "search"]
+# label -> path on the main site. Pairs rather than bare slugs since 2026-08-27:
+# the Lab merged into Writing upstream (nav item removed here the same day), and
+# Writing's label became "Work in progress" while its path stayed /writing/ —
+# so label and path can no longer be derived from one another.
+_MAIN_NAV = [
+    ("Work in progress", "writing"),
+    ("Portfolio", "portfolio"),
+    ("About", "about"),
+    ("Contact", "contact"),
+    ("Search", "search"),
+]
 
 
 def assets(depth: int) -> str:
@@ -122,7 +132,7 @@ def chrome(active: str | None = None, depth: int = 1, *,
     root = base if base is not None else assets(depth)
 
     main_links = "\n".join(
-        f'        <a href="{MAIN_SITE}/{p}/">{p.capitalize()}</a>' for p in _MAIN_NAV)
+        f'        <a href="{MAIN_SITE}/{path}/">{label}</a>' for label, path in _MAIN_NAV)
 
     items = NAV
     corpus_links = "\n".join(
