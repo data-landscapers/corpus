@@ -17,17 +17,17 @@ document (`progress-report-redesign.md` §1) and are not in scope.
 ## Done
 
 ERI and ZAF were the pilots. This pass has since added, in order: **GNB, AGO, BDI, BEN, BFA, BWA,
-CAF, CIV, CMR, COD, COG, COM, CPV, DJI, DZA, EGY, ETH, GAB, GHA, GIN, GMB, GNQ, KEN, LBR, LBY, LSO, MAR, MDG, MLI, MOZ, MRT, MUS, MWI, NAM, NER, NGA, RWA, SDN, SEN, SLE, SOM** — 43 of 54, one commit each, all pushed.
+CAF, CIV, CMR, COD, COG, COM, CPV, DJI, DZA, EGY, ETH, GAB, GHA, GIN, GMB, GNQ, KEN, LBR, LBY, LSO, MAR, MDG, MLI, MOZ, MRT, MUS, MWI, NAM, NER, NGA, RWA, SDN, SEN, SLE, SOM, SSD** — 44 of 54, one commit each, all pushed.
 
 Yields so far, as a sense of shape: 21 indicators from GNB's 25 ledger rows, 43 from BDI's 74, 52
 from BWA's 107, 57 from BEN's 105, 64 from BFA's 131, 66 from AGO's 122, 43 from CAF's 92, 92 from
-CIV's 167, 73 from CMR's 121, 67 from COD's 123, 52 from COG's 103, 45 from COM's 117, 49 from CPV's 140, 43 from DJI's 70, 58 from DZA's 111, 66 from EGY's 199, 66 from ETH's 97, 58 from GAB's 120, 81 from GHA's 175, 59 from GIN's 109, 46 from GMB's 75, 42 from GNQ's 67, 93 from KEN's 219, 43 from LBR's 71, 64 from LBY's 84, 61 from LSO's 69, 79 from MAR's 137, 44 from MDG's 67, 55 from MLI's 87, 77 from MOZ's 159, 39 from MRT's 62, 50 from MUS's 81, 65 from MWI's 183, 62 from NAM's 134, 42 from NER's 68, 92 from NGA's 279, 69 from RWA's 128, 29 from SDN's 52, 55 from SEN's 115, 40 from SLE's 83, 37 from SOM's 60. Between three quarters and nine tenths of ledger rows map; the rest are placeholders with
+CIV's 167, 73 from CMR's 121, 67 from COD's 123, 52 from COG's 103, 45 from COM's 117, 49 from CPV's 140, 43 from DJI's 70, 58 from DZA's 111, 66 from EGY's 199, 66 from ETH's 97, 58 from GAB's 120, 81 from GHA's 175, 59 from GIN's 109, 46 from GMB's 75, 42 from GNQ's 67, 93 from KEN's 219, 43 from LBR's 71, 64 from LBY's 84, 61 from LSO's 69, 79 from MAR's 137, 44 from MDG's 67, 55 from MLI's 87, 77 from MOZ's 159, 39 from MRT's 62, 50 from MUS's 81, 65 from MWI's 183, 62 from NAM's 134, 42 from NER's 68, 92 from NGA's 279, 69 from RWA's 128, 29 from SDN's 52, 55 from SEN's 115, 40 from SLE's 83, 37 from SOM's 60, 44 from SSD's 74. Between three quarters and nine tenths of ledger rows map; the rest are placeholders with
 no source, or real instruments the frame has no question for (a telecoms statute, a broadcasting
 transition), and those correctly stay on the ledger and out of the report.
 
 ## Remaining
 
-11 country units: SSD, STP, SWZ, SYC, TCD, TGO, TUN, TZA, UGA, ZMB, ZWE.
+10 country units: STP, SWZ, SYC, TCD, TGO, TUN, TZA, UGA, ZMB, ZWE.
 
 ## The loop, per unit
 
@@ -845,3 +845,37 @@ the law.
 **A regional gap can only be seen from a national ledger sometimes.** The e-commerce strategy row
 records that the lender finds no strategy in this country, in a neighbour, *or* at the regional body.
 That is worth stating plainly when a national row happens to carry a regional finding.
+
+## What SSD added, 2026-08-27
+
+66 sourced rows of 74, 44 indicators, sixth unit running with nothing unmapped.
+
+**When one fact explains half the other cells, give it its own cell and let the others point back.**
+This unit has no operating Official Gazette — a committee was given fourteen days in January 2026 to
+launch one and clear a backlog of every law since 2011, no edition is on file, and a protocol issued
+the week before classifies documents bearing the President's signature as privileged executive
+communication that cannot be photographed, scanned or shared. That single entry is why the ICT
+Authority's statutory basis is unresolvable, why the cybercrime Act's text is withheld, and why a
+passport validity change is reported as both done and pending. It went to
+`gov.legislate--access-to-information-legislation` as the finding, and the affected cells say "which
+is recorded separately" rather than each re-explaining it. Compare SLE, where the framing absence (no
+data-protection law) belonged in the legislation cell and the others named what they lacked: same
+shape, and the choice each time is which cell a reader would actually look in.
+
+**Two ledger rows here carry the whole of their own reconciliation history in the note, closed
+unresolved.** The ICT Authority and the national data centre both record two attempts, what registers
+were checked, and why the silence settles nothing. **Compress that into the cell, do not summarise it
+away.** "The registers are not current enough for their silence to settle anything" is a finding; "the
+status is unclear" is not.
+
+**State a concentration plainly when nothing published explains it.** One privately held Swiss company
+of about nine people holds the international gateway *and* the national data centre. The exclusive
+e-government concession behind the visa portal and the tax platform was signed without tender, its
+revenue share put at 75 per cent by a UN commission and 2 per cent by the company, and the company was
+sanctioned by the United States. Each fact is on the ledger; putting them where a reader meets them
+together is the mapping's contribution.
+
+**Register-check bites differently on a short cell.** One cell failed the 25-word floor on
+`developments` — the first time in this pass. A single-row cell about a ministerial visit genuinely
+has little to say; the fix was to state what it is *against* (untendered backbone, consultant-led
+spectrum strategy, privately operated gateway), which is analysis rather than padding.
