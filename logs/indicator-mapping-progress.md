@@ -17,17 +17,17 @@ document (`progress-report-redesign.md` §1) and are not in scope.
 ## Done
 
 ERI and ZAF were the pilots. This pass has since added, in order: **GNB, AGO, BDI, BEN, BFA, BWA,
-CAF, CIV, CMR, COD, COG, COM, CPV, DJI, DZA, EGY, ETH, GAB, GHA, GIN, GMB, GNQ, KEN, LBR, LBY, LSO, MAR, MDG, MLI, MOZ, MRT, MUS, MWI, NAM, NER, NGA, RWA, SDN, SEN, SLE, SOM, SSD, STP, SWZ, SYC, TCD, TGO, TUN, TZA** — 51 of 54, one commit each, all pushed.
+CAF, CIV, CMR, COD, COG, COM, CPV, DJI, DZA, EGY, ETH, GAB, GHA, GIN, GMB, GNQ, KEN, LBR, LBY, LSO, MAR, MDG, MLI, MOZ, MRT, MUS, MWI, NAM, NER, NGA, RWA, SDN, SEN, SLE, SOM, SSD, STP, SWZ, SYC, TCD, TGO, TUN, TZA, UGA** — 52 of 54, one commit each, all pushed.
 
 Yields so far, as a sense of shape: 21 indicators from GNB's 25 ledger rows, 43 from BDI's 74, 52
 from BWA's 107, 57 from BEN's 105, 64 from BFA's 131, 66 from AGO's 122, 43 from CAF's 92, 92 from
-CIV's 167, 73 from CMR's 121, 67 from COD's 123, 52 from COG's 103, 45 from COM's 117, 49 from CPV's 140, 43 from DJI's 70, 58 from DZA's 111, 66 from EGY's 199, 66 from ETH's 97, 58 from GAB's 120, 81 from GHA's 175, 59 from GIN's 109, 46 from GMB's 75, 42 from GNQ's 67, 93 from KEN's 219, 43 from LBR's 71, 64 from LBY's 84, 61 from LSO's 69, 79 from MAR's 137, 44 from MDG's 67, 55 from MLI's 87, 77 from MOZ's 159, 39 from MRT's 62, 50 from MUS's 81, 65 from MWI's 183, 62 from NAM's 134, 42 from NER's 68, 92 from NGA's 279, 69 from RWA's 128, 29 from SDN's 52, 55 from SEN's 115, 40 from SLE's 83, 37 from SOM's 60, 44 from SSD's 74, 27 from STP's 49, 43 from SWZ's 86, 34 from SYC's 54, 44 from TCD's 132, 47 from TGO's 124, 39 from TUN's 77, 61 from TZA's 150. Between three quarters and nine tenths of ledger rows map; the rest are placeholders with
+CIV's 167, 73 from CMR's 121, 67 from COD's 123, 52 from COG's 103, 45 from COM's 117, 49 from CPV's 140, 43 from DJI's 70, 58 from DZA's 111, 66 from EGY's 199, 66 from ETH's 97, 58 from GAB's 120, 81 from GHA's 175, 59 from GIN's 109, 46 from GMB's 75, 42 from GNQ's 67, 93 from KEN's 219, 43 from LBR's 71, 64 from LBY's 84, 61 from LSO's 69, 79 from MAR's 137, 44 from MDG's 67, 55 from MLI's 87, 77 from MOZ's 159, 39 from MRT's 62, 50 from MUS's 81, 65 from MWI's 183, 62 from NAM's 134, 42 from NER's 68, 92 from NGA's 279, 69 from RWA's 128, 29 from SDN's 52, 55 from SEN's 115, 40 from SLE's 83, 37 from SOM's 60, 44 from SSD's 74, 27 from STP's 49, 43 from SWZ's 86, 34 from SYC's 54, 44 from TCD's 132, 47 from TGO's 124, 39 from TUN's 77, 61 from TZA's 150, 61 from UGA's 159. Between three quarters and nine tenths of ledger rows map; the rest are placeholders with
 no source, or real instruments the frame has no question for (a telecoms statute, a broadcasting
 transition), and those correctly stay on the ledger and out of the report.
 
 ## Remaining
 
-3 country units: UGA, ZMB, ZWE.
+2 country units: ZMB, ZWE.
 
 ## The loop, per unit
 
@@ -1103,3 +1103,37 @@ below disconnection is the shape of enforcement rather than a reporting gap.
 **Register terms keep catching ordinary phrases.** "at scale" tripped the jargon rule inside
 "disconnection at that scale" — grammatically innocent, still banned. Same lesson as TGO's "start-up
 ecosystem": the lint matches the string, not the sense.
+
+## What UGA added, 2026-08-28
+
+143 sourced rows of 159, 61 indicators — third-largest ledger after NGA and TZA. Fourteenth running
+with nothing unmapped.
+
+**When a system both works and fails, the cell holds both.** 28,571,893 legacy records migrated
+successfully in the platform's first brownfield migration; the enhanced card's machine-readable code
+does not work and has not since at least February 2026; over 60 per cent of printed cards are
+uncollected. Three facts, one credential, and the temptation is to lead with whichever fits a
+direction. The `dpi.id--robustness-of-system` cell carries the migration and the code failure
+together, with the parliamentary record's detail (functionality never integrated, fix promised by 31
+March) kept because that is what makes it a failure rather than a delay.
+
+**A fee, a population and an enrolment rate are one finding when read together.** The alien identity
+card: 1,875 enrolled in ten weeks, a scope of which ~1.95m are refugees or asylum-seekers, a US$100
+fee, and nothing published about a waiver or what a resident foreigner does who cannot pay but needs
+a SIM or a bank account. The ledger note assembles that; the cell keeps the assembly intact.
+
+**A ratio inside a headline count is often the finding.** The state technology institute reports 48,000+
+trained in one year — of whom fewer than 4 per cent were government officers. The cell says the
+institute is largely not training the state, which the headline number conceals.
+
+**Two reconciliations carried with their reasoning.** The election shutdown's duration depends on which
+endpoint is named (four days / almost five / thirteen) — "a duration must name its endpoint" is the
+ledger's phrase and it is better than any paraphrase. And the US health arrangement: the signed
+memorandum provides only for a *future* data-sharing agreement, while a published investigation
+describes reviewing that agreement and finding real-time access to nine systems. **Different
+instruments, not a conflict** — and saying so is what stops the cell reading as either a denial or an
+exposé.
+
+**Word-band failures come from summaries, not developments.** The first 8-40 band failure of this pass
+was a 42-word summary that had absorbed an em-dash aside. Developments has 25-200 words of room;
+summary does not.
