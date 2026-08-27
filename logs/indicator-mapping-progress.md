@@ -17,11 +17,11 @@ document (`progress-report-redesign.md` §1) and are not in scope.
 ## Done
 
 ERI and ZAF were the pilots. This pass has since added, in order: **GNB, AGO, BDI, BEN, BFA, BWA,
-CAF, CIV, CMR, COD, COG, COM, CPV, DJI, DZA, EGY, ETH, GAB, GHA, GIN, GMB, GNQ, KEN, LBR, LBY, LSO, MAR, MDG, MLI, MOZ, MRT, MUS, MWI** — 35 of 54, one commit each, all pushed.
+CAF, CIV, CMR, COD, COG, COM, CPV, DJI, DZA, EGY, ETH, GAB, GHA, GIN, GMB, GNQ, KEN, LBR, LBY, LSO, MAR, MDG, MLI, MOZ, MRT, MUS, MWI, NAM** — 36 of 54, one commit each, all pushed.
 
 Yields so far, as a sense of shape: 21 indicators from GNB's 25 ledger rows, 43 from BDI's 74, 52
 from BWA's 107, 57 from BEN's 105, 64 from BFA's 131, 66 from AGO's 122, 43 from CAF's 92, 92 from
-CIV's 167, 73 from CMR's 121, 67 from COD's 123, 52 from COG's 103, 45 from COM's 117, 49 from CPV's 140, 43 from DJI's 70, 58 from DZA's 111, 66 from EGY's 199, 66 from ETH's 97, 58 from GAB's 120, 81 from GHA's 175, 59 from GIN's 109, 46 from GMB's 75, 42 from GNQ's 67, 93 from KEN's 219, 43 from LBR's 71, 64 from LBY's 84, 61 from LSO's 69, 79 from MAR's 137, 44 from MDG's 67, 55 from MLI's 87, 77 from MOZ's 159, 39 from MRT's 62, 50 from MUS's 81, 65 from MWI's 183. Between three quarters and nine tenths of ledger rows map; the rest are placeholders with
+CIV's 167, 73 from CMR's 121, 67 from COD's 123, 52 from COG's 103, 45 from COM's 117, 49 from CPV's 140, 43 from DJI's 70, 58 from DZA's 111, 66 from EGY's 199, 66 from ETH's 97, 58 from GAB's 120, 81 from GHA's 175, 59 from GIN's 109, 46 from GMB's 75, 42 from GNQ's 67, 93 from KEN's 219, 43 from LBR's 71, 64 from LBY's 84, 61 from LSO's 69, 79 from MAR's 137, 44 from MDG's 67, 55 from MLI's 87, 77 from MOZ's 159, 39 from MRT's 62, 50 from MUS's 81, 65 from MWI's 183, 62 from NAM's 134. Between three quarters and nine tenths of ledger rows map; the rest are placeholders with
 no source, or real instruments the frame has no question for (a telecoms statute, a broadcasting
 transition), and those correctly stay on the ledger and out of the report.
 
@@ -603,3 +603,23 @@ never measured.** Malawi has no state internet-usage measurement at all: the fir
 figure is the operators' trade association's, and the cell says so. Where the only number is an
 interested party's, the cell should carry the number, the party and the interest in the same
 paragraph - which is what stops the frame reading it as a national statistic.
+
+## What NAM added, 2026-08-27
+
+**Where two ledger rows record the same object at different moments, map them into one cell and let
+the dates do the work.** This unit has a crop-monitoring contract recorded twice - once as awarded and
+once as cancelled by cabinet three weeks later - and a data protection bill recorded as a 2022 draft, as
+an untabled bill and as a set of rights provisions deleted between two drafts. Each pair reads as one
+story with a direction, which is what the *progress* value is for; mapped apart they would have read as
+two unrelated facts.
+
+**An enacted statute that has never commenced is *Advanced*, not *Implemented*, and the cell should say
+which section holds it up.** The access-to-information Act is gazetted with its commencement left to a
+ministerial date that has not come, and its appointment machinery was gazetted first, so the annual
+report the Act requires cannot yet exist. Naming the section is what stops the reader treating a
+gazetted Act as a working one.
+
+**Nine units in a row with no unmapped sourced row, and the second pre-lint-clean first run of this
+session.** The two together suggest the method has converged: read the sourced rows, group by what each
+row *is*, apply the citation fixer in the assembly step, and the remaining defects are borrowed figures
+rather than anything structural.
