@@ -17,17 +17,17 @@ document (`progress-report-redesign.md` §1) and are not in scope.
 ## Done
 
 ERI and ZAF were the pilots. This pass has since added, in order: **GNB, AGO, BDI, BEN, BFA, BWA,
-CAF, CIV, CMR, COD, COG, COM, CPV, DJI, DZA, EGY, ETH, GAB, GHA** — 21 of 54, one commit each, all pushed.
+CAF, CIV, CMR, COD, COG, COM, CPV, DJI, DZA, EGY, ETH, GAB, GHA, GIN** — 22 of 54, one commit each, all pushed.
 
 Yields so far, as a sense of shape: 21 indicators from GNB's 25 ledger rows, 43 from BDI's 74, 52
 from BWA's 107, 57 from BEN's 105, 64 from BFA's 131, 66 from AGO's 122, 43 from CAF's 92, 92 from
-CIV's 167, 73 from CMR's 121, 67 from COD's 123, 52 from COG's 103, 45 from COM's 117, 49 from CPV's 140, 43 from DJI's 70, 58 from DZA's 111, 66 from EGY's 199, 66 from ETH's 97, 58 from GAB's 120, 81 from GHA's 175. Between three quarters and nine tenths of ledger rows map; the rest are placeholders with
+CIV's 167, 73 from CMR's 121, 67 from COD's 123, 52 from COG's 103, 45 from COM's 117, 49 from CPV's 140, 43 from DJI's 70, 58 from DZA's 111, 66 from EGY's 199, 66 from ETH's 97, 58 from GAB's 120, 81 from GHA's 175, 59 from GIN's 109. Between three quarters and nine tenths of ledger rows map; the rest are placeholders with
 no source, or real instruments the frame has no question for (a telecoms statute, a broadcasting
 transition), and those correctly stay on the ledger and out of the report.
 
 ## Remaining
 
-33 country units: GIN, GMB, GNQ, KEN, LBR, LBY, LSO, MAR, MDG, MLI, MOZ, MRT, MUS,
+32 country units: GMB, GNQ, KEN, LBR, LBY, LSO, MAR, MDG, MLI, MOZ, MRT, MUS,
 MWI, NAM, NER, NGA, RWA, SDN, SEN, SLE, SOM, SSD, STP, SWZ, SYC, TCD, TGO, TUN, TZA, UGA, ZMB, ZWE.
 
 ## The loop, per unit
@@ -272,3 +272,26 @@ cell. It maps as the statute and its first penalties under `gov.legislate--cyber
 the response team and the loss figures under `infra.cybersec--national-cybersecurity-readiness`, and
 the university white paper that carries those figures under `capacity.research`. Each cell says who
 did what; none repeats another's sentence.
+
+## What GIN added, 2026-08-27
+
+**The citation helper earns its place on a mid-sized unit too.** Applied from the first draft rather
+than after a failing lint, GIN came back with four defects instead of the thirty GHA started with,
+and three of the four were ordinary drafting slips rather than the semicolon pattern. **Wire
+`scripts/fix-indicator-citations.py` into the draft assembly from the start** - it costs nothing and
+it removes the one defect class that scales with ledger thickness.
+
+**A slug typed with a stray space fails as a missing slug, not as a typo.** One cell cited
+`{CAURIDOR} )` and the pre-lint reported the slug as not on the mapped rows. The message is right
+and the cause is not what it names, so read a slug-not-found error as a possible whitespace fault
+before going back to the ledger.
+
+**Where the same row answers two questions, check the row_ids before the prose.** A development
+citing the electronic-money licensing count under the central-bank indicator failed check M's
+pre-lint equivalent because that row was mapped only under uptake. The fix was to add the row to
+both cells, not to drop the sentence - the licence count is genuinely a governance act as well as an
+uptake measure, and the two cells say different things about it.
+
+**The StaleCatalogue error appeared again, on schedule.** The loop already tells you to expect it;
+this is the fourth occurrence in twenty-two units. Run `python scripts/build-catalogue.py` from the
+workroot and re-run the check.
