@@ -17,11 +17,11 @@ document (`progress-report-redesign.md` §1) and are not in scope.
 ## Done
 
 ERI and ZAF were the pilots. This pass has since added, in order: **GNB, AGO, BDI, BEN, BFA, BWA,
-CAF, CIV, CMR, COD, COG, COM, CPV, DJI, DZA, EGY, ETH, GAB, GHA, GIN, GMB, GNQ, KEN, LBR, LBY, LSO, MAR, MDG, MLI, MOZ, MRT, MUS** — 34 of 54, one commit each, all pushed.
+CAF, CIV, CMR, COD, COG, COM, CPV, DJI, DZA, EGY, ETH, GAB, GHA, GIN, GMB, GNQ, KEN, LBR, LBY, LSO, MAR, MDG, MLI, MOZ, MRT, MUS, MWI** — 35 of 54, one commit each, all pushed.
 
 Yields so far, as a sense of shape: 21 indicators from GNB's 25 ledger rows, 43 from BDI's 74, 52
 from BWA's 107, 57 from BEN's 105, 64 from BFA's 131, 66 from AGO's 122, 43 from CAF's 92, 92 from
-CIV's 167, 73 from CMR's 121, 67 from COD's 123, 52 from COG's 103, 45 from COM's 117, 49 from CPV's 140, 43 from DJI's 70, 58 from DZA's 111, 66 from EGY's 199, 66 from ETH's 97, 58 from GAB's 120, 81 from GHA's 175, 59 from GIN's 109, 46 from GMB's 75, 42 from GNQ's 67, 93 from KEN's 219, 43 from LBR's 71, 64 from LBY's 84, 61 from LSO's 69, 79 from MAR's 137, 44 from MDG's 67, 55 from MLI's 87, 77 from MOZ's 159, 39 from MRT's 62, 50 from MUS's 81. Between three quarters and nine tenths of ledger rows map; the rest are placeholders with
+CIV's 167, 73 from CMR's 121, 67 from COD's 123, 52 from COG's 103, 45 from COM's 117, 49 from CPV's 140, 43 from DJI's 70, 58 from DZA's 111, 66 from EGY's 199, 66 from ETH's 97, 58 from GAB's 120, 81 from GHA's 175, 59 from GIN's 109, 46 from GMB's 75, 42 from GNQ's 67, 93 from KEN's 219, 43 from LBR's 71, 64 from LBY's 84, 61 from LSO's 69, 79 from MAR's 137, 44 from MDG's 67, 55 from MLI's 87, 77 from MOZ's 159, 39 from MRT's 62, 50 from MUS's 81, 65 from MWI's 183. Between three quarters and nine tenths of ledger rows map; the rest are placeholders with
 no source, or real instruments the frame has no question for (a telecoms statute, a broadcasting
 transition), and those correctly stay on the ledger and out of the report.
 
@@ -582,3 +582,24 @@ data-protection statute was left out of an omnibus amending fifty-eight Acts in 
 statistics office was empowered to share more data and a plate-recognition system went live at the
 airport with no retention rule. Three rows, three cells, and each names the omission the others
 imply - which reads better than one cell trying to carry the whole argument.
+
+## What MWI added, 2026-08-27
+
+**The largest placeholder count of the pass, fifty-seven of 183 rows, and it changes what the ledger
+size means.** A 183-row ledger yields 65 indicators here where MOZ's 159 yielded 77, because a third
+of this unit's rows are unsourced *Not held* markers. COM's note said the placeholder share predicts
+the indicator count better than the row count does; this unit is the extreme case and confirms it.
+**Count the placeholders first and the unit sizes itself.**
+
+**Where a unit's own record contradicts a minister, carry the contradiction rather than the minister.**
+The spectrum fee cut is stated at 50 per cent in Parliament and at 20 by five contemporaneous accounts
+of the regulator's own announcement; the cell states the 20 and names the parliamentary figure as the
+outlier. The same shape recurs on the presidential 80-per-cent internet target, which has no baseline,
+and on the trade association's coverage figures, which come from a party whose policy asks include
+cutting its own taxes. **Naming who is speaking is most of the work on a unit this thinly sourced.**
+
+**A ledger row can be the only evidence for an indicator the frame asks about and the country has
+never measured.** Malawi has no state internet-usage measurement at all: the first usable current
+figure is the operators' trade association's, and the cell says so. Where the only number is an
+interested party's, the cell should carry the number, the party and the interest in the same
+paragraph - which is what stops the frame reading it as a national statistic.
