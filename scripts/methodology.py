@@ -96,12 +96,15 @@ def slug(heading: str) -> str:
 
 
 def contents_strip(md_path: Path) -> str:
-    """A one-line contents nav over the file's ## headings."""
+    """The site's one idiom for an in-page nav — `.article-toc` in main.css:
+    terracotta small caps separated by middots, closed below by a single rule
+    (the bulletin's category bar is the sibling use)."""
     h2s = [ln[3:].strip() for ln in md_path.read_text(encoding="utf-8").splitlines()
            if ln.startswith("## ")]
-    links = " &nbsp;·&nbsp; ".join(
-        f'<a href="#{slug(h)}">{h}</a>' for h in h2s)
-    return f'<p class="mono" style="font-size:0.85em">{links}</p>\n<hr>'
+    sep = '\n<span class="article-toc__sep" aria-hidden="true">&middot;</span>\n'
+    links = sep.join(f'<a href="#{slug(h)}">{h}</a>' for h in h2s)
+    return (f'<nav class="article-toc" aria-label="Sections of this page">\n'
+            f'{links}\n</nav>\n')
 
 
 def indent(html: str) -> str:
