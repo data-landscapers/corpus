@@ -55,10 +55,19 @@ cheapest of the three: 26 units mapped so far have taken 104 progress blocks off
 effect of work being done for another reason. The remaining 82 progress blocks belong to the 28
 unmapped units, and the mapping pass will take them the same way.
 
+**Overtaken on 2026-08-27, and the 82 are now a render rather than a pass.** The mapping pass closed
+at 54 of 54 units the same day, so every unit now holds an `indicators.csv` and none of the 82 belongs
+to an unmapped unit any more. They belong to units mapped *after* the 06:09 build, whose
+`{ISO}-progress.md` is still the old ledger render on disk — the frame exists, the document has not
+been re-issued to read it. `python scripts/rebuild.py --reports all` clears all 82 mechanically and
+none of them is a sentence anyone writes. The count is unchanged at 138 because nothing has re-rendered
+since; the split is now **82 owed to a render, 56 owed to authoring**, and only the second half is a
+work list.
+
 **Which leaves the 56 status-report blocks as the real authoring debt.** Those are the units
 `STATUS-INIT` has not reached, unchanged from the 2026-08-26 measurement because nothing this month
 has initialised a unit. A run looking for the cheapest hundred words should not spend them on a
-progress block in an unmapped unit — the mapping pass is going to delete that block.
+progress block in any unit — the re-render is going to delete that block.
 
 ## Why this is a note and not a message to Bill
 

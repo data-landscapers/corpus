@@ -1225,6 +1225,23 @@ What holds across all of it:
 7. **Where one absence frames a whole unit, state it once upstream and let the affected cells name
    what they specifically lack.**
 
-The next thing this frame needs is not more mapping. It is `check L` — which fails on 53 of the 54
-units for unwritten narrative blocks in `{ISO}-progress.md` and `{ISO}-status.md`. TZA is the only
-unit that passes it. That is the next stage of `PROGRESS-FILLER.md` §7, not this one.
+The next thing this frame needs is not more mapping. It is the **re-render** — `PROGRESS-FILLER.md`
+§7's fourth stage — because the mapping pass wrote 54 `indicators.csv` files and did not re-issue the
+documents that read them. Measured at the close of the pass, `check L` fails on **138 blocks across 34
+of the 54 units**, and the two halves of that number have nothing to do with each other:
+
+- **82 progress blocks, in 34 units whose `{ISO}-progress.md` is still the old ledger render.** An
+  indicator-frame progress report carries no Level-1 chapter headings, so these blocks stop existing
+  the moment the document is re-rendered. They are not authoring work and no one should spend a
+  sentence on them. The 20 units that already pass were re-rendered by the build of 2026-08-27 06:09,
+  before the pass reached the rest; MAR onward were mapped after it.
+- **56 status blocks, 4 apiece in 14 units `STATUS-INIT` has not reached** — BDI, BWA, COM, DJI, ERI,
+  GMB, GNB, GNQ, LSO, MDG, MLI, MRT, NER, STP. These are real authoring debt and the re-render does
+  not touch them.
+
+*(An earlier draft of this paragraph said check L failed on 53 of 54 units with TZA alone passing. That
+was read off the per-unit log lines accumulated across the pass rather than measured at the end of it,
+and it double-counted every unit the 06:09 build had already cleared. The count above is measured.)*
+
+**None of this gates `PROGRESS-FILLER.md`.** Check L is about paragraphs; the filler is about
+indicators with no evidence. They meet nowhere.
