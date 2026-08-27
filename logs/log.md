@@ -11,6 +11,7 @@ title: Corpus process log
 
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 <!-- newest first: a new entry goes directly below this line -->
+2026-08-28 02:55 · indicator-mapping · unclocked · TCD mapped onto the indicator frame: 44 indicators from all 90 sourced ledger rows, a unit that legislated biometric collection before legislating data protection at all  - ok
 2026-08-28 02:15 · indicator-mapping · unclocked · SYC mapped onto the indicator frame: 34 indicators from all 48 sourced ledger rows, clean pre-lint, a unit whose data-protection statute is fully in force and whose regulator says it cannot enforce its orders  - ok
 2026-08-28 01:45 · indicator-mapping · unclocked · SWZ mapped onto the indicator frame: 43 indicators from all 79 sourced ledger rows, a unit whose data-protection authority opened its first major investigation against a government ministry  - ok
 2026-08-28 01:05 · indicator-mapping · unclocked · STP mapped onto the indicator frame: 27 indicators from all 36 sourced ledger rows, clean on the first pre-lint, a unit whose whole digital programme runs on one donor operation  - ok

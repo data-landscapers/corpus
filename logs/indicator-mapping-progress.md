@@ -17,17 +17,17 @@ document (`progress-report-redesign.md` §1) and are not in scope.
 ## Done
 
 ERI and ZAF were the pilots. This pass has since added, in order: **GNB, AGO, BDI, BEN, BFA, BWA,
-CAF, CIV, CMR, COD, COG, COM, CPV, DJI, DZA, EGY, ETH, GAB, GHA, GIN, GMB, GNQ, KEN, LBR, LBY, LSO, MAR, MDG, MLI, MOZ, MRT, MUS, MWI, NAM, NER, NGA, RWA, SDN, SEN, SLE, SOM, SSD, STP, SWZ, SYC** — 47 of 54, one commit each, all pushed.
+CAF, CIV, CMR, COD, COG, COM, CPV, DJI, DZA, EGY, ETH, GAB, GHA, GIN, GMB, GNQ, KEN, LBR, LBY, LSO, MAR, MDG, MLI, MOZ, MRT, MUS, MWI, NAM, NER, NGA, RWA, SDN, SEN, SLE, SOM, SSD, STP, SWZ, SYC, TCD** — 48 of 54, one commit each, all pushed.
 
 Yields so far, as a sense of shape: 21 indicators from GNB's 25 ledger rows, 43 from BDI's 74, 52
 from BWA's 107, 57 from BEN's 105, 64 from BFA's 131, 66 from AGO's 122, 43 from CAF's 92, 92 from
-CIV's 167, 73 from CMR's 121, 67 from COD's 123, 52 from COG's 103, 45 from COM's 117, 49 from CPV's 140, 43 from DJI's 70, 58 from DZA's 111, 66 from EGY's 199, 66 from ETH's 97, 58 from GAB's 120, 81 from GHA's 175, 59 from GIN's 109, 46 from GMB's 75, 42 from GNQ's 67, 93 from KEN's 219, 43 from LBR's 71, 64 from LBY's 84, 61 from LSO's 69, 79 from MAR's 137, 44 from MDG's 67, 55 from MLI's 87, 77 from MOZ's 159, 39 from MRT's 62, 50 from MUS's 81, 65 from MWI's 183, 62 from NAM's 134, 42 from NER's 68, 92 from NGA's 279, 69 from RWA's 128, 29 from SDN's 52, 55 from SEN's 115, 40 from SLE's 83, 37 from SOM's 60, 44 from SSD's 74, 27 from STP's 49, 43 from SWZ's 86, 34 from SYC's 54. Between three quarters and nine tenths of ledger rows map; the rest are placeholders with
+CIV's 167, 73 from CMR's 121, 67 from COD's 123, 52 from COG's 103, 45 from COM's 117, 49 from CPV's 140, 43 from DJI's 70, 58 from DZA's 111, 66 from EGY's 199, 66 from ETH's 97, 58 from GAB's 120, 81 from GHA's 175, 59 from GIN's 109, 46 from GMB's 75, 42 from GNQ's 67, 93 from KEN's 219, 43 from LBR's 71, 64 from LBY's 84, 61 from LSO's 69, 79 from MAR's 137, 44 from MDG's 67, 55 from MLI's 87, 77 from MOZ's 159, 39 from MRT's 62, 50 from MUS's 81, 65 from MWI's 183, 62 from NAM's 134, 42 from NER's 68, 92 from NGA's 279, 69 from RWA's 128, 29 from SDN's 52, 55 from SEN's 115, 40 from SLE's 83, 37 from SOM's 60, 44 from SSD's 74, 27 from STP's 49, 43 from SWZ's 86, 34 from SYC's 54, 44 from TCD's 132. Between three quarters and nine tenths of ledger rows map; the rest are placeholders with
 no source, or real instruments the frame has no question for (a telecoms statute, a broadcasting
 transition), and those correctly stay on the ledger and out of the report.
 
 ## Remaining
 
-7 country units: TCD, TGO, TUN, TZA, UGA, ZMB, ZWE.
+6 country units: TGO, TUN, TZA, UGA, ZMB, ZWE.
 
 ## The loop, per unit
 
@@ -974,3 +974,34 @@ no procurement terms or security review published.
 incorporation before licensing the satellite operator, where several others in the frame licensed the
 same operator on a full foreign-ownership basis. That is a claim about the corpus and the pass has now
 seen enough units to make it.
+
+## What TCD added, 2026-08-27
+
+90 sourced rows of 132, 44 indicators. Tenth unit running with nothing unmapped. Note the ratio: 42
+rows carry no source at all, the largest unsourced share in the pass so far, so 100 per cent here
+means every *sourced* row placed and a third of the ledger correctly left out.
+
+**When a unit inverts the frame's usual sequence, say so once, plainly, in the cell where the
+inversion happens.** A law on biometric data in judicial procedures was adopted 138 to 1 while no
+general data-protection statute or authority exists — the function was folded into the security
+agency. The legislation cell says: "Legislating the collection of biometric data for judicial use
+before legislating data protection at all is the sequence, and it is the reverse of the order every
+other unit in this frame attempts." That is a claim about the corpus, and by unit ten the pass
+supports it.
+
+**Then let each downstream cell name its own missing safeguard rather than restating the absence.**
+Five separate collections run without protection: the register's real-time feed to the finance
+ministry, the subscriber-data partnership, the satellite order's identification-and-retention
+mandate, the police cybercrime equipment, the refugee enrolment. Each cell names the specific thing
+unstated for *that* system. Same discipline as SLE.
+
+**Carry unresolved figures as unresolved.** Three accounts round one birth-registration total to
+2.948m, 2.95m and 2.958m — the cell gives all three and says they are three figures for one number.
+The digital transformation project's envelope appears as FCFA 76.45bn and US$92.2m, close to total
+project cost and to grant alone respectively, with no source saying so. Picking one would have been
+inventing a reconciliation.
+
+**A `KeyError` from the row-id lookup is the cheap failure mode.** One row was cited under the wrong
+subject prefix (`data.statistics-` for a `finance.new-` row). `S(row_id, i)` raises immediately, so it
+costs one run — which is exactly the argument for reading slugs through the ledger rather than
+transcribing them.
