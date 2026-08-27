@@ -17,17 +17,17 @@ document (`progress-report-redesign.md` §1) and are not in scope.
 ## Done
 
 ERI and ZAF were the pilots. This pass has since added, in order: **GNB, AGO, BDI, BEN, BFA, BWA,
-CAF, CIV, CMR, COD, COG, COM, CPV, DJI, DZA, EGY, ETH, GAB, GHA, GIN, GMB, GNQ, KEN, LBR, LBY, LSO, MAR, MDG, MLI, MOZ, MRT, MUS, MWI, NAM, NER, NGA, RWA, SDN, SEN, SLE, SOM, SSD, STP, SWZ, SYC, TCD, TGO** — 49 of 54, one commit each, all pushed.
+CAF, CIV, CMR, COD, COG, COM, CPV, DJI, DZA, EGY, ETH, GAB, GHA, GIN, GMB, GNQ, KEN, LBR, LBY, LSO, MAR, MDG, MLI, MOZ, MRT, MUS, MWI, NAM, NER, NGA, RWA, SDN, SEN, SLE, SOM, SSD, STP, SWZ, SYC, TCD, TGO, TUN** — 50 of 54, one commit each, all pushed.
 
 Yields so far, as a sense of shape: 21 indicators from GNB's 25 ledger rows, 43 from BDI's 74, 52
 from BWA's 107, 57 from BEN's 105, 64 from BFA's 131, 66 from AGO's 122, 43 from CAF's 92, 92 from
-CIV's 167, 73 from CMR's 121, 67 from COD's 123, 52 from COG's 103, 45 from COM's 117, 49 from CPV's 140, 43 from DJI's 70, 58 from DZA's 111, 66 from EGY's 199, 66 from ETH's 97, 58 from GAB's 120, 81 from GHA's 175, 59 from GIN's 109, 46 from GMB's 75, 42 from GNQ's 67, 93 from KEN's 219, 43 from LBR's 71, 64 from LBY's 84, 61 from LSO's 69, 79 from MAR's 137, 44 from MDG's 67, 55 from MLI's 87, 77 from MOZ's 159, 39 from MRT's 62, 50 from MUS's 81, 65 from MWI's 183, 62 from NAM's 134, 42 from NER's 68, 92 from NGA's 279, 69 from RWA's 128, 29 from SDN's 52, 55 from SEN's 115, 40 from SLE's 83, 37 from SOM's 60, 44 from SSD's 74, 27 from STP's 49, 43 from SWZ's 86, 34 from SYC's 54, 44 from TCD's 132, 47 from TGO's 124. Between three quarters and nine tenths of ledger rows map; the rest are placeholders with
+CIV's 167, 73 from CMR's 121, 67 from COD's 123, 52 from COG's 103, 45 from COM's 117, 49 from CPV's 140, 43 from DJI's 70, 58 from DZA's 111, 66 from EGY's 199, 66 from ETH's 97, 58 from GAB's 120, 81 from GHA's 175, 59 from GIN's 109, 46 from GMB's 75, 42 from GNQ's 67, 93 from KEN's 219, 43 from LBR's 71, 64 from LBY's 84, 61 from LSO's 69, 79 from MAR's 137, 44 from MDG's 67, 55 from MLI's 87, 77 from MOZ's 159, 39 from MRT's 62, 50 from MUS's 81, 65 from MWI's 183, 62 from NAM's 134, 42 from NER's 68, 92 from NGA's 279, 69 from RWA's 128, 29 from SDN's 52, 55 from SEN's 115, 40 from SLE's 83, 37 from SOM's 60, 44 from SSD's 74, 27 from STP's 49, 43 from SWZ's 86, 34 from SYC's 54, 44 from TCD's 132, 47 from TGO's 124, 39 from TUN's 77. Between three quarters and nine tenths of ledger rows map; the rest are placeholders with
 no source, or real instruments the frame has no question for (a telecoms statute, a broadcasting
 transition), and those correctly stay on the ledger and out of the report.
 
 ## Remaining
 
-5 country units: TUN, TZA, UGA, ZMB, ZWE.
+4 country units: TZA, UGA, ZMB, ZWE.
 
 ## The loop, per unit
 
@@ -1036,3 +1036,37 @@ totals.
 **Register terms still catch idiomatic prose.** "start-up ecosystem" tripped the jargon rule — the word
 is banned outright, including inside a compound where it reads naturally. Cheap to fix, worth
 remembering that the lint does not care about idiom.
+
+## What TUN added, 2026-08-27
+
+73 sourced rows of 77, 39 indicators. Twelfth unit running with nothing unmapped.
+
+**Get the instrument type right, because the ledger has done the work and a summary would lose it.**
+The 2020-2025 digital strategy lapsed at term and what replaced it is a *chapter of the development
+plan*, not a strategy — the ledger note says explicitly "a change of instrument type, not a renewal:
+what the wiki and outside commentary called a national digital strategy is a plan chapter". The cell
+carries that and states why it matters: a plan chapter is approved by finance law and has no delivery
+machinery of its own. And every volume of the annex held is marked draft with no as-enacted printing,
+so the legally binding content of the digital plan cannot be read.
+
+**Three unresolved counts, three different reasons, all carried.** The data-protection bill's article
+count is settled at 132 from the tabled Arabic text — a committee account's 123 reads as a
+transposition matching the tabled structure section for section, and a third account's 32 is a
+leading-digit loss in optical transcription. Active wallets differ by ~1.7× between an aggregator and
+direct bulletin reporting, and only the aggregator side is held. The project portfolio is 114 in
+execution against 192 under tracking with no reconciliation. **Where the ledger has already done the
+reconciliation work, carry its conclusion *and* its reasoning; where it has not, say the divergence
+stands.**
+
+**Adjacent cells again, for a specific contrast.** The linked health dataset has no legal basis held
+while the portal serving it has completed a cybersecurity audit — technical assurance ahead of legal
+assurance. Placed in `gov.protect--national-data-protection-readiness` and `dpi.mis--health` so each
+names the other.
+
+**A withheld licence can be a policy position rather than a delay.** The satellite licence is withheld
+over *routing* — the state wants low-earth-orbit traffic through a local ground station and a national
+interconnection point. Stated as the sovereignty position it is, not as an administrative backlog.
+
+**check H can fail on a file the pass did not touch.** Here `TUN-monthly.md:134` carries an uncited
+block; `indicators.csv` passed clean. Read the path in the message before assuming the draft is at
+fault — the register check covers the whole unit, not just the new file.
