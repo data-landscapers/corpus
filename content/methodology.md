@@ -18,29 +18,40 @@ The aim of Corpus is to provide a fast-track information service for researchers
 ## Infrastructure
 
 - **Architecture**
-  Corpus is built by two networked machines. The first is responsible for data collection and classification. The second is responsible for summarising content and keeping reports and datasets up to date. 
+  Corpus is built by two networked machines.
+	- The first is responsible for data collection and classification. Its repository is private. 
+	- The second is responsible for summarising content and keeping reports and datasets up to date. It's repository is available at https://github.com/data-landscapers/corpus. 
 - **Technology**
-  Search and fetch is manged by Exa
-  Claude Code is responsible for the run
-- 
-
+	  - Search and fetch is managed by [Exa](https://exa.ai/)
+	  - Claude Code is responsible for the running all other processes. It is run on Opus but may be downgraded to Sonnet if weekly token budgets are consumed too quickly.
+	  - All process instructions are written in markdown and managed by Obsidian
 ## Data collection
 
+The data collection machine runs a nightly sweep cycle which consists of a standard daily search and fetch and (currently) one of 4 focused searches that repeat every 4 days.
+
+- **Daily**
+  Searches for items published in the past 48 hours for:
+	- A fixed list of trade journals.
+	- A general search for systems & infrastructure
+	- A general search for policy, governance & citizen feedback
+- **Day 1**
+  Searches for digital transformation items published since the last time this day was run for:
+	- A fixed list of national newspapers
+	- A fixed list of academic journals
+	- A fixed list of NGOs and think tanks
+- **Day 2**
+	- API extraction of newly published IATI activities
+	- Searches for digital transformation items published since the last time this day was run for a fixed list of financiers
+- **Day 3**
+  Four separate deep searches for each country:
+	- Non-state finance
+	- Governance (institutions and instruments, excluding data exchange)
+	- Data exchange (content, not transport)
+	- Demand and political economy
+- **Day 4**
+  Deep searches for regions and regional institutions focusing on:
+	- Policy collaboration and coordination
+	- Legal harmonisation
+	- Shared infrastructure
 
 
-### processes
-
-Dedicated osint machine
-Manual > automated
-Search and Fetch
-Ingest
-Classify
-
-### Content
-
-Daily
-
-
-## Topics
-
-Table from lookups\taxonomy.csv
