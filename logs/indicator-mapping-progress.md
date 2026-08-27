@@ -17,17 +17,17 @@ document (`progress-report-redesign.md` §1) and are not in scope.
 ## Done
 
 ERI and ZAF were the pilots. This pass has since added, in order: **GNB, AGO, BDI, BEN, BFA, BWA,
-CAF, CIV, CMR, COD, COG, COM, CPV, DJI, DZA, EGY, ETH, GAB, GHA, GIN** — 22 of 54, one commit each, all pushed.
+CAF, CIV, CMR, COD, COG, COM, CPV, DJI, DZA, EGY, ETH, GAB, GHA, GIN, GMB** — 23 of 54, one commit each, all pushed.
 
 Yields so far, as a sense of shape: 21 indicators from GNB's 25 ledger rows, 43 from BDI's 74, 52
 from BWA's 107, 57 from BEN's 105, 64 from BFA's 131, 66 from AGO's 122, 43 from CAF's 92, 92 from
-CIV's 167, 73 from CMR's 121, 67 from COD's 123, 52 from COG's 103, 45 from COM's 117, 49 from CPV's 140, 43 from DJI's 70, 58 from DZA's 111, 66 from EGY's 199, 66 from ETH's 97, 58 from GAB's 120, 81 from GHA's 175, 59 from GIN's 109. Between three quarters and nine tenths of ledger rows map; the rest are placeholders with
+CIV's 167, 73 from CMR's 121, 67 from COD's 123, 52 from COG's 103, 45 from COM's 117, 49 from CPV's 140, 43 from DJI's 70, 58 from DZA's 111, 66 from EGY's 199, 66 from ETH's 97, 58 from GAB's 120, 81 from GHA's 175, 59 from GIN's 109, 46 from GMB's 75. Between three quarters and nine tenths of ledger rows map; the rest are placeholders with
 no source, or real instruments the frame has no question for (a telecoms statute, a broadcasting
 transition), and those correctly stay on the ledger and out of the report.
 
 ## Remaining
 
-32 country units: GMB, GNQ, KEN, LBR, LBY, LSO, MAR, MDG, MLI, MOZ, MRT, MUS,
+31 country units: GNQ, KEN, LBR, LBY, LSO, MAR, MDG, MLI, MOZ, MRT, MUS,
 MWI, NAM, NER, NGA, RWA, SDN, SEN, SLE, SOM, SSD, STP, SWZ, SYC, TCD, TGO, TUN, TZA, UGA, ZMB, ZWE.
 
 ## The loop, per unit
@@ -295,3 +295,24 @@ uptake measure, and the two cells say different things about it.
 **The StaleCatalogue error appeared again, on schedule.** The loop already tells you to expect it;
 this is the fourth occurrence in twenty-two units. Run `python scripts/build-catalogue.py` from the
 workroot and re-run the check.
+
+## What GMB added, 2026-08-27
+
+**Pre-lint clean on the first run, which is the first time in this pass.** The only change from GIN
+was wiring `scripts/fix-indicator-citations.py` into the draft assembly before drafting rather than
+after a failing lint. That is now the default: apply it in the assembly step, and the pre-lint
+becomes a check rather than a repair loop.
+
+**Where a country holds two accounts of the same number, say so in the cell rather than picking.**
+The mobile incumbent's sale carries an announced winning bid of D6.7bn and a signed commitment of
+GMD 6.1bn, and the ledger explicitly does not reconcile them; the electoral roll carries 212,095
+registrations announced against 179,445 records distributed. Both cells state both figures and name
+the gap. That is the same rule the loop already gives for conflicting `published` dates on one
+source, applied to a conflict inside the ledger's own prose.
+
+**A cell can be worth writing for what the country does not hold, when the absence has a date on
+it.** The cybersecurity strategy runs out at the end of 2026 with no successor; the incident-response
+bodies exist only as a design inside that same document. Both facts come from one sourced row, and
+the cell is stronger for saying that the only source describing the country's cyber capability is a
+plan rather than a report. Compare EGY's note on the residue: a sourced row that looks thin is
+usually thin about something specific.
