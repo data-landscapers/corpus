@@ -1,99 +1,19 @@
 ---
 title: Open data — progress report, 2025-08-01 to 2026-08-26
-compiled: 2026-08-26
+compiled: 2026-08-27
 period: 2025-08-01 to 2026-08-26
 subject: data.open
-places: BEN; CMR; CPV; COG; CIV; DJI; COD; EGY; GNQ; GAB; GHA; KEN; LBY; MDG; MWI; MRT; MUS; MAR; NAM; NER; TUN; UGA; ZMB; ZWE
-record: 993c34274634
+places: LBY; MDG; MWI; MRT; MUS; MAR; NAM; NER; TUN; UGA; ZMB; ZWE
+record: ed709cb07810
 ---
 
 # Open data: progress report, 2025-08-01 to 2026-08-26
 
-*24 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
+*12 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
 *The place reports do not share one window; the period above is the range they span.*
-
-## Benin
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| Open Government Partnership national action plan | Did not exist | [Co-creation opened eighteen months after joining, with commune-level consultation](https://www.lanation.bj/societe/partenariat-pour-un-gouvernement-ouvert-les-communes-entrent-en-action) | Advanced |
-| Budget transparency | ***Baseline not held*** | [Open Budget Survey 2025: 77/100 transparency, 52 participation, 72 oversight](https://fraternite.bj/budget-ouvert-obs-2025-le-benin-se-hisse-parmi-les-references-mondiales-de-la-transparence-budgetaire/) | ***Baseline not held*** |
-
-## Cameroon
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
-|---|---|---|---|
-| National open-data policy | Provided for in the roadmap, nothing published | [Provided for in the roadmap, nothing published](https://techafricanews.com/2025/07/08/cameroon-unveils-2040-ai-roadmap-anchored-on-seven-strategic-pillars/) | No change |
-| Transparency and good governance code | In force; requires budget-information dissemination and civil-society involvement | [In force; the finance ministry was still running first-contact sensitisation with civil society in April 2026](https://leconomie.info/finances-publiques-la-societe-civile-de-lest-mobilisee-pour-mieux-surveiller-le-budget-citoyen-2026/) | No change |
-
-## Cape Verde
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
-|---|---|---|---|
-| Open-data portal | Named as a 2024 deliverable alongside a database of public bodies, an integrated public-services portal and a human-resources database; no delivery on record | [Unchanged; no open-data portal is held two years past its stated year](https://www.governo.cv/ministra-edna-oliveira-ouvida-na-1a-comissao-especializada-no-ambito-da-discussao-na-especialidade-oe2024/) | Stalled |
-| Statistics institute cooperation protocol with the Universidade de Coimbra | Did not exist; the base holds no instrument giving researchers access to Cabo Verdean official statistics | [In force, providing mechanisms for scientific access to statistical data including metadata and anonymised microdata subject to data-protection rules and statistical secrecy, and covering research projects, theses, publications and exchange of expertise; no access portal, request procedure or first dataset is named](https://expressodasilhas.cv/pais/2026/03/29/instituto-nacional-de-estatistica-e-universidade-de-coimbra-reforcam-cooperacao-cientifica-e-estatistica/102102) | Advanced |
-| Portal da Transparencia | Built and out to public consultation from 27 June to 17 July 2025, discharging the statutory duty to create a publicly accessible electronic platform; declared scope covers central government, local government and state enterprises in one portal, with downloads in six formats and data exchange by interface | [Unchanged in the base; no source establishes whether the portal went live after the consultation closed](https://www.governo.cv/portal-da-transparencia-em-consulta-publica/) | No change |
-
-## Congo
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| Transparency-code assessment platform | Did not exist; the 2024 exercise was run off-platform and described by the consultant as laborious | [A platform under development to carry the assessments for 2023, 2024 and 2025 online, with focal points designated across the administration](https://www.adiac-congo.com/content/gouvernance-publique-des-recommandations-pour-booster-lapplication-du-code-sur-la) | Advanced |
-
-## Cote d'Ivoire
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
-|---|---|---|---|
-| Access to public-interest information programme | Presented as the operational refresh of the 2013 access-to-information law: a portal, a conformity audit tool, a helpline, a mobile application and a monitoring barometer | [Unchanged; no later source on file in the year since](https://www.fratmat.info/article/2635603/culture/access-caidp-un-tournant-pour-la-transparence-et-lacces-a-linformation-en-cote-divoire) | No change |
-
-## Djibouti
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| Djibouti Open Data platform | In service | [In service; no dataset inventory or update policy held](https://www.lanation.dj/systeme-general-de-diffusion-des-donnees-ameliore-sgdd-a-djibouti-lance-sa-page-nationale-recapitulative-des-donnees/) | No change |
-| IMF e-GDDS National Summary Data Page | Published | [Published; no update record held](https://www.lanation.dj/systeme-general-de-diffusion-des-donnees-ameliore-sgdd-a-djibouti-lance-sa-page-nationale-recapitulative-des-donnees/) | No change |
-| Journal officiel published online | Not established | [126 years of the legal record online (2026-08)](https://www.lanation.dj/djibouti-entre-dans-lere-des-archives-numeriques-le-sgg-et-le-pnud-unissent-leurs-forces-pour-dematerialiser-la-memoire-de-letat/) | ***Baseline not held*** |
-
-## DR Congo
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
-|---|---|---|---|
-| Bill on access to information and transparency in public life | Did not exist | [Admissible and in commission; it sets access as the norm and limitation the exception, applies to public services and some private actors, requires a simple, fast and free request procedure, proactive publication, reasoned refusals and a right of appeal](https://actualite.cd/2026/03/28/assemblee-nationale-la-proposition-de-loi-sur-lacces-linformation-et-la-transparence-de) | Advanced |
-| Central bank economic-data portal | None published | [The central bank's website relaunched as a public economic-data portal carrying exchange rates, inflation, interest rates, statistics and indicators with a currency converter and a search facility, framed by the governor as part of a reform whose stated objectives include digitalising payments and automating control processes](https://numerico.cd/2026/08/17/la-bcc-a-desormais-un-site-internet-2-0-new-look-plus-fonctionnel) | Advanced |
-
-## Egypt
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
-|---|---|---|---|
-| World Bank GovTech Maturity Index position | 69th globally with a maturity score of 0.751 on the 2022 index; Group B at 0.649 in 2020 | [22nd globally with a score of 0.911 in the top band on the 2025 index, a rise of 47 places, with core government systems 0.916, digital service delivery 0.962, citizen engagement 0.896 and enablers 0.869](https://gate.ahram.org.eg/News/5356100.aspx) | Advanced |
-| National Open Data Policy | The base carries no statement of the policy's existence or content at 2025-08-01 | [The minister named the launch of the open data policy among the policies and legislation supporting digital transformation; no date of adoption, text, issuing instrument, dataset inventory or national portal is established](https://gate.ahram.org.eg/News/5356100.aspx) | ***Baseline not held*** |
-
-## Equatorial Guinea
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| EITI reporting | ***Baseline not held*** | [Data collection opened as the last outstanding measure before validation of the IMF Staff-Monitored Programme; no report published](https://realequatorialguinea.com/sociedad/inicia-en-malabo-el-taller-para-la-recopilacion-de-datos-del-informe-eiti-guinea-ecuatorial-2024/) | ***Baseline not held*** |
-
-## Gabon
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
-|---|---|---|---|
-| External fiscal transparency assessment | Assessed in the previous review as publishing only limited information on debt obligations, excluding state-owned enterprise debt, with no timely publication of the executive budget proposal or end-of-year report and quarterly budget execution reports judged limited and unreliable | [Assessed again as not meeting the minimum fiscal transparency requirements in the 2026 report, published 11 August 2026 for the review period to 31 December 2025, which presses governments to publish and regularly update information on state financial obligations including those of major state-owned enterprises; of 139 governments and one entity reviewed, 73 met the requirements and 67 did not, 14 of the latter judged to have made significant progress](https://www.gabonreview.com/transparence-fiscale-le-gabon-de-nouveau-epingle-par-washington-sur-la-dette-de-ses-entreprises-publiques/) | No change |
-
-## Ghana
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
-|---|---|---|---|
-| Fisheries Information System | Did not exist | [An online fisheries information system built by the fisheries ministry with the national multi-stakeholder group and launched in June 2026, with inadequate funding constraining the wider Fisheries Transparency Initiative commitment it sits under](https://gna.org.gh/2026/08/funding-constraints-threaten-ghanas-fisheries-transparency-agenda/) | Advanced |
-
-## Kenya
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
-|---|---|---|---|
-| National data marketplace | Did not exist | [Proposed state-run marketplace, more than 1,000 datasets over five years, KSh 396m to build and operate, overseen by a proposed national council](https://nation.africa/kenya/business/state-plans-ecitizen-data-sale-to-boost-revenue--5488496) | Advanced |
 
 ## Libya
 

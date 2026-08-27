@@ -1,44 +1,19 @@
 ---
 title: Rural digital data capture — progress report, 2025-08-01 to 2026-08-26
-compiled: 2026-08-26
+compiled: 2026-08-27
 period: 2025-08-01 to 2026-08-26
 subject: digital.rural
-places: BDI; CAF; COG; EGY; SWZ; GIN; LSO; MWI; MLI; MAR; NAM; NER; NGA; RWA; SLE; TGO; ZMB; ZWE
-record: 5e0e8a111660
+places: SWZ; LSO; MWI; MLI; MAR; NAM; NER; NGA; RWA; SLE; TGO; ZMB; ZWE
+record: 87b3cb8a8a1b
 ---
 
 # Rural digital data capture: progress report, 2025-08-01 to 2026-08-26
 
-*18 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
+*13 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
 *The place reports do not share one window; the period above is the range they span.*
-
-## Burundi
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| Villages Numeriques programme | Baseline not held | [Under way; no completion date or coverage achieved on file](https://www.iwacu-burundi.org/internet-haut-debit-le-pafen-veut-couvrir-plus-de-80-du-territoire/) | ***Baseline not held*** |
-
-## Central African Republic
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| First free public Wi-Fi point | Did not exist | [One site, presented as the country's first free public internet access point, with technical support from Russian cooperation](https://ndjonisango.com/2026/04/24/rca-bocaranga-entre-dans-lere-numerique-avec-le-premier-wi-fi-public-gratuit-du-pays/) | Advanced |
-| Universal service fund school and community connectivity | The fund created by a 2018 law with a 2019 implementing decree and never operational; its supervising committee's activities launched July 2025 | [Effective implementation stated for 2026, financed by a 2% levy on operators' previous-year turnover, with scope covering broadband in schools, health centres, town halls, libraries and post offices](https://www.agenceecofin.com/actualites-numerique/2104-137723-centrafrique-la-mise-en-uvre-effective-du-fonds-du-service-universel-prevue-pour-2026) | Advanced |
-
-## Congo
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| Rural connectivity site commissioning | No site count on file | [20 sites fully operational against a 76-site target for end-2025, with the remainder described as in advanced stages and no updated count published since](https://techafricanews.com/2025/10/15/congo-expands-high-speed-internet-access-with-20-operational-connectivity-sites/) | Advanced |
-
-## Egypt
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
-|---|---|---|---|
-| Decent Life rural fibre programme | 856 of 1,450 phase-one villages connected at end-2024, up from 267 at end-2023 | [More than 1,250 of 1,450 phase-one villages across 52 markazes in 20 governorates, about 5 million fibre lines, 75% of village service complexes connected](https://www.youm7.com/story/2026/6/30/%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9-%D9%84%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%D8%A7%D8%AA-%D8%AA%D9%88%D8%B5%D9%8A%D9%84-%D8%A7%D9%84%D8%A3%D9%84%D9%8A%D8%A7%D9%81-%D8%A7%D9%84%D8%B6%D9%88%D8%A6%D9%8A%D8%A9-%D9%84%D9%805-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%AE%D8%B7-%D9%81%D9%89-1250/7465834) | Advanced |
 
 ## Eswatini
 
@@ -46,12 +21,6 @@ record: 5e0e8a111660
 |---|---|---|---|
 | USSD access to public services | Did not exist | [Planned for the 2027 rollout](https://independentnews.co.sz/45098/business/ict-trains-change-agents-for-e1-2bn-digitization-project/) | Advanced |
 | Agricultural extension officer digital devices | Not held | [40 tablets and 4 laptops, valued at E313,504, handed to agricultural extension officers on 10 August 2026 under an IFAD and Green Climate Fund-backed project, for real-time crop, livestock and weather reporting by officers working with smallholder farmers across all four regions](https://eswatinipositivenews.online/agriculture-minister-hands-over-e313-504-digital-gadgets-to-boost-agricultural-extension-services/) | ***Baseline not held*** |
-
-## Guinea
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
-|---|---|---|---|
-| Agriculteurs Connectes de Guinee | ***Baseline not held*** | [A first cohort running, pairing a private agritech's field sensors, weather alerts and agronomic advice with the state rural bank's network of over 1,000 service points](https://www.guinee7.com/2026/08/07/kumy-et-le-crg-unissent-leurs-forces-pour-les-agriculteurs/) | ***Baseline not held*** |
 
 ## Lesotho
 

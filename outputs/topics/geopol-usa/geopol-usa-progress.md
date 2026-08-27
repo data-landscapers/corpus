@@ -1,63 +1,19 @@
 ---
-title: US / hyperscaler activities — progress report, 2025-08-01 to 2026-08-26
-compiled: 2026-08-26
-period: 2025-08-01 to 2026-08-26
+title: US / hyperscaler activities — progress report, 2025-08-01 to 2026-08-27
+compiled: 2026-08-27
+period: 2025-08-01 to 2026-08-27
 subject: geopol.usa
-places: AGO; BWA; BFA; BDI; CMR; CPV; CAF; TCD; CIV; COD; EGY; SWZ; GAB; GHA; GIN; KEN; LSO; MUS; MAR; MOZ; NAM; NGA; SEN; SSD; UGA; ZMB; ZWE; XAF
-record: e0613424bb97
+places: TCD; SWZ; LSO; MUS; MAR; MOZ; NAM; NGA; SEN; SSD; UGA; ZMB; ZWE; XAF
+record: 3fad6f5c3dbd
 ---
 
-# US / hyperscaler activities: progress report, 2025-08-01 to 2026-08-26
+# US / hyperscaler activities: progress report, 2025-08-01 to 2026-08-27
 
-*28 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
+*14 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
 *The place reports do not share one window; the period above is the range they span.*
-
-## Angola
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
-|---|---|---|---|
-| International wholesale partnership | Did not exist | [Combines the state cable company's three subsea systems with a US network of more than 300 metro markets and 386,000 km of fibre; no value, term or capacity commitment stated](https://itweb.africa/article/angola-cables-uniti-expand-connectivity/LPwQ5MlbngBvNgkj) | Advanced |
-| US cybersecurity and connectivity agreement | US$170m announced with a US$25m first phase, nothing built | [Unchanged; the first phase for a national cybersecurity agency and vendor training, plus an undersea cable, with no disbursement, contract or delivery on record in fourteen months](https://techafricanews.com/2025/06/25/cybastion-and-angola-telecom-announce-170m-investment-to-boost-angolas-digital-sovereignty/) | No change |
-| Transport corridor fibre link | ***Baseline not held*** | [A domestic submarine cable to interlink the main coastal cities, with the transport corridor connected to international systems; no route, cost, contractor, financier or completion date stated](https://angop.ao/noticias/sociedade/minttics-implementa-projectos-estruturantes-para-a-redefinicao-da-base-tecnologica-do-pais/) | ***Baseline not held*** |
-
-## Botswana
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
-|---|---|---|---|
-| Artemis Accords accession | Not a signatory | [Signed as the 68th signatory, about fifteen months after the national satellite launch](https://techreviewafrica.com/news/6126/botswana-joins-artemis-accords-as-68th-signatory) | Advanced |
-
-## Burkina Faso
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
-|---|---|---|---|
-| US AI training initiative | Digital-cooperation talks at a preliminary stage, no agreement signed | [A major training initiative on digitalisation and artificial intelligence announced for 2026 in US-run spaces in three cities, with no delivery, cohort size or start date reported](https://itweb.africa/article/us-burkina-faso-alliance-to-offer-ai-training-to-youths/rW1xL75n8o9MRk6m) | Advanced |
-
-## Burundi
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| United States health-sector agreement | Did not exist | [US$156m committed over five years](https://www.burunditimes.com/united-states-commits-156-million-to-burundi-health-sector-under-new-five-year-agreement/) | Advanced |
-
-## Cameroon
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
-|---|---|---|---|
-| CAMTEL and Amazon Web Services approach | Did not exist | [Talks only: no agreement, investment commitment, timeline, or answer on where Cameroonian data would sit](https://www.ecofinagency.com/news-digital/2407-57711-camtel-explores-cloud-ai-partnership-with-amazon-web-services) | Advanced |
-
-## Cape Verde
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
-|---|---|---|---|
-| Third Millennium Challenge compact | Cabo Verde selected for a third compact, stated as directed at connectivity in transport, services and digital with the African continent | [Unchanged; no compact document, size, signature date or programme detail is held at 2026-08-06](https://www.governo.cv/discurso-de-abertura-do-primeiro-ministro-debate-sobre-o-orcamento-de-estado-para-2025/) | No change |
-
-## Central African Republic
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| Incumbent-operator privatisation and recapitalisation | Did not exist at the window's start; the memorandum was signed 2025-09-18 at a development round table | [An operational phase declared, with US$150m announced for network modernisation, a data centre and a connectivity ecosystem; definitive agreements, a steering committee and a schedule unfinalised](https://www.agenceecofin.com/actualites-numerique/1707-140264-centrafrique-une-nouvelle-tentative-de-relance-de-socatel-chiffree-a-150-millions-usd) | Advanced |
 
 ## Chad
 
@@ -66,57 +22,12 @@ record: e0613424bb97
 | United States digital work programme | No work programme on file, United States contact being limited to a ministerial meeting with the charge d'affaires on 2025-11-26 | [Four priority areas agreed - digital infrastructure, satellite connectivity, cybersecurity and digital health - with no instrument signed; a supplier stated its willingness to audit and certify the national data centre, a mandate already held by the tripartite agreement of February 2026](https://techafricanews.com/2026/07/01/chad-and-us-explore-partnerships-on-satellite-connectivity-and-cybersecurity/) | Advanced |
 | Cybersecurity cooperation with the United States infrastructure security agency | Collaboration axes agreed on threat monitoring, engineer training and incident response, with nothing signed | [Unchanged; no source in the window reports any follow-up](https://lendjampost.com/securite-informatique-lansice-et-la-cisa-unissent-leurs-forces-pour-proteger-les-infrastructures-critiques-du-tchad/) | No change |
 
-## Cote d'Ivoire
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
-|---|---|---|---|
-| US export-credit digital package | A 2023 agreement for a national data centre and a digital administrative city inside a wider trade-agreement package announced May 2025, with no export-credit approval made | [Formally authorised US$170m project covering a sovereign national data centre, a government digitisation platform and smart-border surveillance](https://techafricanews.com/2026/07/17/us-expands-cote-divoire-tech-footprint-with-starlink-approval-and-170m-data-centre-project/) | Advanced |
-
-## DR Congo
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
-|---|---|---|---|
-| Digital infrastructure and cybersecurity partnership | Did not exist | [A framework covering data centres, connectivity, cybersecurity, financial technology and artificial intelligence; no value, instrument type, milestones or delivery established](https://techafricanews.com/2026/04/17/cybastion-partners-with-drc-to-expand-digital-infrastructure-and-cybersecurity/) | Advanced |
-| Payments-modernisation claim in a United States federal court | Did not exist | [A claim seeking up to US$400m on a stated investment of more than US$72m against an agreed US$20m state contribution never paid, with bribe-demand allegations; the government calls the signed documents a non-binding memorandum and denies the claims; no ruling is held](https://itweb.africa/article/us-fintech-sues-dr-congo-for-400m-over-failed-banking-deal/) | Advanced |
-
-## Egypt
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
-|---|---|---|---|
-| Google AI Pro free student subscriptions | Did not exist | [A company-announced free one-year subscription for college students, to begin in the coming weeks from 2025-09-22 in Egypt and seven other African countries; no confirmation of launch, uptake figure or end date is held](https://developingtelecoms.com/telecom-technology/data-centres-networks/19091-google-plans-to-build-four-subsea-cable-connectivity-hubs-for-africa.html) | Advanced |
-| Mediterranean capacity partnership with Cisco | Announced before the window opened, as the activation of Mediterranean subsea capacity on the 2Africa system, framed around demand from cloud and AI services | [No later source updates the arrangement's status, capacity or commercial terms](https://gate.ahram.org.eg/News/5081510.aspx) | No change |
-
 ## Eswatini
 
 | System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Google partnership with Eswatini | Signed on or before January 2025; workspace, AI, digital addressing and youth skills | [Operating and publicly acknowledged; no value or term published](https://www.times.co.sz/news/readmore.php?bhsadjgfoh=Eswatini%E2%80%99s+digital+progress+earns+continental+spotlight&yiphi=4446&bvhdgsj=News) | Advanced |
 | US-Eswatini specimen sharing agreement | Did not exist | [A ten-year agreement under which Eswatini shares specimens, samples, sequencing data and any other associated data on novel and emerging infectious diseases within seven days of a United States request, consents to those specimens and data being passed to up to ten non-US-Government United States entities, and accepts that failure to share could change or discontinue the assistance planned under the underlying memorandum of understanding of 11 December 2025. Either party may terminate on six months' notice, and termination by Eswatini does not affect use of anything already shared](https://www.citizen.org/wp-content/uploads/64101-Eswatini-Health-Specimen-Sharing-Agreement-12.12.2025.pdf) | Advanced |
-
-## Gabon
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
-|---|---|---|---|
-| Amazon acquisition of Globalstar | Not held | [Advanced talks reported for the acquisition of an operator holding spectrum authorisations and partnerships in Gabon for enterprise connectivity and industrial monitoring](https://itweb.africa/article/amazons-9bn-satellite-deal-set-to-benefit-africa/kLgB17ezwwgM59N4) | ***Baseline not held*** |
-
-## Ghana
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
-|---|---|---|---|
-| Google AI research and community centre | Operating, with a US$37m cumulative investment figure disclosed by the company | [Unchanged; it hosts the new applied AI lab and no further Ghana investment figure has been published since](https://managingghana.com/2025/07/27/google-unveils-37m-investment-and-ai-hub-in-accra-to-boost-africas-ai-growth/) | No change |
-
-## Guinea
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
-|---|---|---|---|
-| Taxation of United States digital-service providers | Did not exist | [In charge, with a 90-day requirement to appoint a local representative](https://www.ecofinagency.com/news-digital/2605-55916-guinea-introduces-3-tax-on-foreign-digital-services) | Advanced |
-
-## Kenya
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
-|---|---|---|---|
-| OpenAI Academy Nairobi | Did not exist | [Proposal for East Africa's first OpenAI Academy, unsigned](https://techafricanews.com/2026/06/18/kenya-eyes-first-openai-academy-in-east-africa-following-ruto-sam-altman-talks/) | Advanced |
-| Safaricom and AWS generative AI collaboration | Collaboration for fraud detection, customer-service automation and engineer upskilling | [Unchanged, with no expansion, spend figure or workload detail published since](https://itweb.africa/article/safaricom-selects-aws-for-genai-use-cases/KjlyrvwBVnbqk6am) | No change |
 
 ## Lesotho
 
@@ -194,7 +105,7 @@ record: e0613424bb97
 
 ## Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-26 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-27 | Movement |
 |---|---|---|---|
 | America First Global Health Strategy data-sharing agreements | Did not exist; no bilateral United States health agreement of this kind on record before December 2025 | [Memorandums worth US$20bn signed with more than 30 countries since December 2025, on a model Data Sharing Agreement giving the United States at-will access to seven classes of national health system for 25 years with a 10-year post-termination tail; Ghana refused in April 2026, Zimbabwe withdrew in February 2026 and Zambia shelved in May 2026, and Kenya's framework is before the Court of Appeal with a final ruling due at the end of October 2026; the State Department's standard-form memorandum, held as a blank template dated 2026-03-11, commits a partner government to name and run its electronic medical record, laboratory, pharmacy, surveillance, commodity-inventory and national data warehouse systems, to load 90 per cent of clinical encounters into the electronic medical record within two years of rollout in a facility, to enter a data sharing agreement expected to run twenty-five years, and to provide specimens and genetic sequence data of pathogens with epidemic potential within five days of detection, with section 4.7 making failure on those commitments grounds for changing or discontinuing the assistance; the signed texts are withheld, the department having published a subset of the memorandums in March 2026 and then removed public access, and a freedom-of-information suit covering sixteen African countries (Public Citizen v. Department of State, No. 1:26-cv-01137, D.D.C.) was unresolved when filed on 2026-04-02; a rights organisation's clause-by-clause assessment of the seven signed memorandums it holds - Ethiopia, Kenya, Mozambique, Nigeria, Rwanda, Liberia and Uganda - reports that the model's terms were not applied uniformly: all seven require broad audit access, three (Liberia, Mozambique and Rwanda) commit to supplying any data requested for that audit with no privacy safeguard stated, two (Liberia and Nigeria) defer the data-sharing arrangement to an unpublished appendix, and the specimen and pathogen-sequencing clause appears in five of the seven, with Liberia and Kenya outside it Eight United States senators wrote to the Secretary of State in the week to 2026-08-19 challenging the demands for direct access to partner governments' own health-data systems as a condition of lifesaving aid, calling them unprecedented and at odds with United States policy on the data of American citizens, and requesting a briefing on the agreements' data requirements and a written answer by the end of August 2026.](https://www.propublica.org/article/senators-letter-health-data-africa-humanitarian-aid) | Advanced, refused by three states and challenged in the United States Senate |
 | US-AUC Strategic Investment Working Group | Did not exist | [Agreed to channel US private investment into AU-backed infrastructure including digital transformation, on an investment-in-place-of-aid posture; no membership, meeting or work programme held](https://www.state.gov/releases/office-of-the-spokesperson/2026/01/joint-statement-of-the-united-states-and-african-union-on-the-launch-of-a-strategic-investment-working-group) | Advanced |

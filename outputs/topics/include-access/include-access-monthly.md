@@ -1,17 +1,21 @@
 ---
 title: Access to services — monthly update, July 2026
-compiled: 2026-08-26
-period: 2026-07-01 to 2026-08-26
+compiled: 2026-08-27
+period: 2026-07-01 to 2026-08-27
 subject: include.access
-places: AGO; BFA; BDI; CIV; COD; EGY; SWZ; ETH; GAB; GHA; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: ec548f0ceae2
+places: DZA; AGO; BFA; BDI; CIV; COD; EGY; SWZ; ETH; GAB; GHA; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE
+record: 205f6b63e1cd
 ---
 
 # Access to services: monthly update, July 2026
 
-*34 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*35 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
+
+## Algeria
+
+Consumer cloud storage prices were [raised for new subscribers from 27 July 2026](https://www.africaninsider.com/business/google-one-gets-more-expensive-in-africa-nigerian-users-face-52-hike/), in this market alongside two others on the continent. One provider's consumer tariff is thin evidence for affordability, and the account gives no local subscriber base against which to read it. It is recorded because it is the only dated consumer cloud price the base holds here, and a price that moves is more use than a market with no price at all.
 
 ## Angola
 

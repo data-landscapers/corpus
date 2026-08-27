@@ -1,15 +1,15 @@
 ---
 title: Open data — monthly update, July 2026
-compiled: 2026-08-26
-period: 2026-07-01 to 2026-08-26
+compiled: 2026-08-27
+period: 2026-07-01 to 2026-08-27
 subject: data.open
-places: BEN; CMR; COG; DJI; COD; GNQ; GAB; GHA; KEN; LBR; LBY; MDG; MAR; NAM; TUN; ZMB; ZWE
-record: 06cbf744f078
+places: BEN; CMR; COG; DJI; COD; GNQ; GAB; GHA; GIN; KEN; LBR; LBY; MDG; MAR; NAM; TZA; TUN; ZMB; ZWE
+record: 66a7d1fcfa17
 ---
 
 # Open data: monthly update, July 2026
 
-*17 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*19 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -45,6 +45,10 @@ Gabon was assessed again as [not meeting the minimum fiscal transparency require
 
 The one open-data movement in the window is a system that exists and a commitment that cannot pay for it. The fisheries ministry and the national multi-stakeholder group built an online Fisheries Information System, launched at an ocean conference in June 2026, but [inadequate funding is constraining the 2024 Fisheries Transparency Initiative commitment it sits under](https://gna.org.gh/2026/08/funding-constraints-threaten-ghanas-fisheries-transparency-agenda/), with the minister pointing to part of a goods-and-services allocation and to unconcluded talks with Norway on reviving a development funding mechanism. A published system with no secured budget behind the disclosure regime is the familiar shape here, and the national open-data instrument remains **Not held**.
 
+## Guinea
+
+The country-specific assessment behind the 2026 fiscal transparency report is now [held in full](https://www.state.gov/reports/2026-fiscal-transparency-report/guinea), where the base had previously carried nothing on this subject. It is a foreign government's judgement on its own criteria rather than a domestic disclosure, and it is the only recurring transparency measure the base holds for this country — which is a statement about the gap as much as about the finding.
+
 ## Kenya
 
 The draft data governance policy provides for a [state-run data marketplace of more than 1,000 datasets over five years, at KSh 396m to build and operate, overseen by a proposed national council](https://itweb.africa/article/kenya-proposes-marketplace-for-state-data/RgeVDMPRldKvKJN3). Pricing is deferred to a later phase with no valuation method stated — a state proposing to sell data it holds by compulsion, before it has said what the data is worth or on what basis.
@@ -73,6 +77,10 @@ The environment ministry put a data platform where the country has no open-data 
 
 
 A second dataset arrived from outside government altogether. A privately built application [launched nationwide on 14 August taking public reports of more than thirty kinds of infrastructure and service-delivery fault onto a mapped national dataset, with automatic facial and licence-plate redaction](https://www.we.com.na/local-news-we/citymender-namibia-partners-with-windhoek-express-to-build-a-smarter-namibia-nmh015440-4-19157). It is privately held: no user count, arrangement with any authority, or licence for the data is stated, which is the difference between a dataset and an open one.
+
+## Tanzania
+
+An external assessment found the country [not meeting the minimum fiscal transparency requirements](https://www.state.gov/reports/2026-fiscal-transparency-report/tanzania) over a review period running to the end of 2025, the same finding as the previous review. It is the only recurring transparency measure the base holds here, and it is a foreign government's criteria rather than a domestic one.
 
 ## Tunisia
 

@@ -1,15 +1,15 @@
 ---
 title: Research institutions — monthly update, July 2026
-compiled: 2026-08-26
-period: 2026-07-01 to 2026-08-26
+compiled: 2026-08-27
+period: 2026-07-01 to 2026-08-27
 subject: capacity.research
-places: BDI; CMR; CAF; CIV; GNQ; ETH; LBY; MOZ; RWA; SEN; SOM; ZAF; TZA; ZMB
-record: 7bd882a50a55
+places: BDI; CMR; CAF; CIV; GNQ; ETH; KEN; LBY; MOZ; RWA; SEN; SOM; ZAF; TZA; ZMB
+record: a31b7762b3da
 ---
 
 # Research institutions: monthly update, July 2026
 
-*14 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*15 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -39,6 +39,10 @@ The FY2026/27 federal budget ratified on 7 July [carries *Artificial Intelligenc
 
 Nothing moved on the national AI policy itself, on the model-development side, or on which foundation models the country runs.
 
+## Kenya
+
+The base gained its first account of a named Kenyan data-science career, a [data-for-social-impact leader profiled](https://data.org/news/pathways-to-impact-agnes-kiragga/) in a series of conversations with practitioners. It is an interview rather than an institutional record, and carries no programme, funding or output figure.
+
 ## Libya
 
 On 4 August the Libyan Authority for Scientific Research's scientific committee [approved an integrated cloud platform for higher education and scientific research](https://www.lananews.com/ar/?p=499199), described in the authority's own account as using Microsoft 365.
@@ -49,7 +53,7 @@ At the university data centre's inauguration the communications minister propose
 
 ## Rwanda
 
-An [academic security operation centre is running through a university network based in Rwanda, described as operating on multiple levels to meet cybersecurity monitoring needs and to build a cybersecurity workforce in Rwanda and beyond](https://www.africa.engineering.cmu.edu/news/2026/08/24-academic-security-operation-center.html). No monitored-estate, incident or staffing figure is published, so what the centre does at scale cannot be stated from the base.
+An [academic security operation centre is running through a university network based in Rwanda, described as operating on multiple levels to meet cybersecurity monitoring needs and to build a cybersecurity workforce in Rwanda and beyond](https://www.africa.engineering.cmu.edu/news/2026/08/24-academic-security-operation-center.html). No monitored-estate, incident or staffing figure is published, so the size of what the centre actually does cannot be stated from the base.
 
 ## Senegal
 

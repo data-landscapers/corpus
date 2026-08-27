@@ -1,15 +1,15 @@
 ---
 title: New investments — monthly update, July 2026
-compiled: 2026-08-26
-period: 2026-07-01 to 2026-08-26
+compiled: 2026-08-27
+period: 2026-07-01 to 2026-08-27
 subject: finance.new
-places: AGO; BEN; BFA; TCD; COG; CIV; COD; EGY; SWZ; ETH; GHA; GIN; KEN; LBR; MWI; MLI; MAR; MOZ; NGA; RWA; STP; SEN; SLE; ZAF; TZA; TGO; UGA; ZMB; ZWE
-record: f0ad6a2441b2
+places: AGO; BEN; BFA; TCD; COG; CIV; COD; EGY; SWZ; ETH; GHA; GIN; KEN; LBR; MWI; MLI; MUS; MAR; MOZ; NGA; RWA; STP; SEN; SLE; ZAF; TZA; TGO; UGA; ZMB; ZWE
+record: 48e48e34f301
 ---
 
 # New investments: monthly update, July 2026
 
-*29 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*30 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -83,6 +83,10 @@ The governance and service delivery project [closed on 30 June, its grant mechan
 ## Mali
 
 On 22 July the universal access fund [signed two four-year renewable conventions](https://primature.ml/signature-a-la-primature-de-convention-entre-agefau-et-ministeres-charges-de-leducation-et-de-lemploi/) with the education ministry and the entrepreneurship, employment and vocational training ministry, committing it to connect every secondary, technical and vocational school by end-2027, with more than 80 new universal access centres, 100 new Cases Wi-Fi and cumulative education spend put above FCFA 17bn.
+
+## Mauritius
+
+A United Nations development agency published its [country annual report for 2025](https://www.undp.org/mauritius-seychelles/publications/undp-mauritius-2025-annual-report), held in full. It is the agency's own account of its year rather than an independent evaluation, and the digital component is not separately costed in it, so no figure can be lifted from it for this section. What it gives the base is the shape of one external programme against which domestic appropriations can be read.
 
 ## Morocco
 

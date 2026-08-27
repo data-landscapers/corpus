@@ -1,51 +1,19 @@
 ---
 title: Use of satellite data — progress report, 2025-08-01 to 2026-08-26
-compiled: 2026-08-26
+compiled: 2026-08-27
 period: 2025-08-01 to 2026-08-26
 subject: data.satellite
-places: DZA; AGO; BWA; BFA; CMR; TCD; COM; COG; CIV; EGY; SWZ; ETH; GHA; LBR; LBY; MAR; MOZ; NAM; NER; NGA; RWA; SYC; SLE; TZA; ZMB; ZWE
-record: dca10c6b2a94
+places: TCD; SWZ; LBY; MAR; MOZ; NAM; NER; NGA; RWA; SYC; SLE; TZA; ZMB; ZWE
+record: f8dbdec2098a
 ---
 
 # Use of satellite data: progress report, 2025-08-01 to 2026-08-26
 
-*26 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
+*14 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
 *The place reports do not share one window; the period above is the range they span.*
-
-## Algeria
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
-|---|---|---|---|
-| Alsat-3A and 3B high-resolution Earth-observation satellites | Did not exist | [Both satellites in orbit, operated with the Ministry of National Defence](https://www.echoroukonline.com/le-general-darmee-said-chanegriha-suit-loperation-de-lancement-du-deuxieme-satellite-alsat-3b) | Advanced |
-
-## Angola
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
-|---|---|---|---|
-| Commercial access to the national satellite | In orbit and operated from a national control centre, government use only | [A commercial provider market open, with 37 firms in the commercial arm by April 2026 and a first private licence issued in July 2026](https://www.telecomreviewafrica.com/articles/general-news/13572-angola-launches-commercial-access-to-angosat-2-for-remote-connectivity/) | Advanced |
-| Earth-observation satellite | Financing signed at about EUR 225m in January 2025, with no build kicked off | [Under construction after a March 2026 kick-off, with first ground infrastructure delivered from June 2026 and a design of more than 1,000 high-resolution images a day](https://techreviewafrica.com/news/5427/angola-advances-angeo-1-earth-observation-programme-with-airbus-milestone-validation) | Advanced |
-
-## Botswana
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
-|---|---|---|---|
-| BOTSAT-1 | In orbit, hyperspectral, with data commercialisation stated as the next phase | [Unchanged; commercialisation still stated as the next phase, with no product, customer or revenue held](https://www.telecomreviewafrica.com/articles/telecom-operators/11357-botswana-enters-space-race-with-botsat-1-launch/) | No change |
-
-## Burkina Faso
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
-|---|---|---|---|
-| Satellite verification of land development | Did not exist; development of a plot had to be verified by a field commission on site | [The tax administration verifies development from satellite imagery without a site visit, instructing a file in a day, and the development period is extended from five to eight years](https://www.sidwaya.info/reorganisation-agraire-et-fonciere-la-nouvelle-loi-un-rempart-contre-les-derives/) | Advanced |
-| Locality information system | ***Baseline not held*** | [A geospatial locality information system built by the statistics institute, its geospatial analysis report in validation](https://www.insd.bf/fr/node/2229) | ***Baseline not held*** |
-
-## Cameroon
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
-|---|---|---|---|
-| Satellite-and-sampling census enumeration methodology | Did not exist | [Smartphone enumeration combined with satellite imagery and sample estimation, adopted for areas inaccessible through insecurity or isolation](https://leconomie.info/recensement-2026-le-cameroun-deploie-des-outils-numeriques-et-satellitaires-pour-la-collecte-des-donnees/) | Advanced |
 
 ## Chad
 
@@ -53,56 +21,12 @@ record: dca10c6b2a94
 |---|---|---|---|
 | Space cooperation protocol with a national space agency | Did not exist | [A memorandum only, covering spectrum and satellite-communications management and remote sensing for resource mapping, with no financing, hardware, date or deliverable; a follow-up delegation visited the digital agency in February 2026](https://tchad24.tv/numerique-le-tchad-et-azercosmos-signent-un-accord-spatial-historique/) | ***Baseline not held*** |
 
-## Comoros
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
-|---|---|---|---|
-| Census cartography capability at the statistics institute | No position held at the window's opening | [Cartography staff trained on desktop and online mapping, field survey and dashboard tools, with digital census cartography under way](https://www.lagazettedescomores.com/soci%C3%A9t%C3%A9/rgph-2027-l%E2%80%99inseed-amorce-son-virage-au-num%C3%A9rique-.html) | ***Baseline not held*** |
-
-## Congo
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| Low-orbit satellite broadband regulation | Nothing on file | [Regulatory capacity built and a strategic meeting held; no licence, service launch or authorisation on file at 2026-08-06](https://www.adiac-congo.com/content/communications-electroniques-larpce-renforce-son-expertise-sur-les-satellites-de) | Advanced |
-| National mapping institute geospatial data digitisation | Not held | [A framework partnership signed on 11 August 2026 between the national mapping institute and a local non-governmental organisation to digitise, secure and disseminate its geospatial and cartographic holdings, building a shared platform for public, institutional and research access](https://www.adiac-congo.com/content/transformation-numerique-lign-et-long-pratic-unissent-leurs-expertises-171185) | ***Baseline not held*** |
-
-## Cote d'Ivoire
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
-|---|---|---|---|
-| Grand Abidjan urban planning geoportal | ***Baseline not held*** | [Under build with Japanese cooperation on three axes including a governance arrangement for managing, sharing and opening the data; the portal itself is not yet built](https://www.fratmat.info/article/2642517/economie/ville-intelligente-le-projet-de-promotion-du-geoportail-du-grand-abidjan-lance) | ***Baseline not held*** |
-
-## Egypt
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
-|---|---|---|---|
-| Egypt-Japan water, artificial intelligence and satellite-data cooperation | The base carries no position at 2025-08-01 | [Memorandum with Japan's land and agriculture ministries covering technical missions, joint research and the application of AI and digital models to monitoring water structures and reducing flood risk; Egypt intends to use Japan's satellite rainfall product to monitor rainfall across Nile basin states and improve hydrological forecasting](https://www.youm7.com/story/2026/8/2/%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%88%D8%A7%D9%84%D8%A3%D9%82%D9%85%D8%A7%D8%B1-%D8%A7%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D9%8A%D8%A9-%D9%85%D8%B5%D8%B1-%D8%AA%D8%B3%D8%AA%D8%B9%D9%8A%D9%86-%D8%A8%D8%A7%D9%84%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7-%D8%A7%D9%84%D9%8A%D8%A7%D8%A8%D8%A7%D9%86%D9%8A%D8%A9-%D9%84%D8%A5%D8%B7%D9%84%D8%A7%D9%82-%D8%A7%D9%84%D8%AC%D9%8A%D9%84/7499442) | ***Baseline not held*** |
-
 ## Eswatini
 
 | System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Government Starlink satellite gateway | Did not exist | [Commissioned](https://techafricanews.com/2026/04/28/eswatini-commissions-starlink-satellite-gateway-to-expand-nationwide-internet-connectivity/) | Advanced |
 | Starlink Business reseller channel | Did not exist | [Operating, with managed hardware, installation and support](https://itweb.africa/article/recently-launched-paratus-eswatini-aims-to-drive-starlink-business-tech-adoption/j5alr7QAOeQ7pYQk) | Advanced |
-
-## Ethiopia
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
-|---|---|---|---|
-| Licensing framework for LEO satellite operators | In force (2021-07) | [Satellite services licensable as a GMPCS landing-right class authorisation; no LEO operator authorised on record](https://www.eca.et/wp-content/uploads/2022/10/2022-03-24T06-45-04.775ZTelecommunications-Licensing-Directive-No.-792-2021-English.pdf) | No change |
-
-## Ghana
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
-|---|---|---|---|
-| Ghana Agricultural Information and Monitoring System | ***Baseline not held*** | [Live spatial/agricultural data platform named by BigData Ghana's co-founder as one of three live deployments; no coverage, user or funding figure published](https://www.myjoyonline.com/drowning-in-data-dying-from-bad-decisions-bigdata-ghana-ceo-charges-africa-to-act/) | ***Baseline not held*** |
-| National Forest Monitoring System and ForestTrace AI deforestation tracker | ***Baseline not held*** | [Live national forest monitoring system paired with the ForestTrace AI deforestation tracker, built toward EU Deforestation Regulation compliance for cocoa and gold supply chains; no coverage or accuracy figure published](https://www.myjoyonline.com/drowning-in-data-dying-from-bad-decisions-bigdata-ghana-ceo-charges-africa-to-act/) | ***Baseline not held*** |
-
-## Liberia
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
-|---|---|---|---|
-| National Spatial Data Infrastructure | Not held | [Taken by the Land Authority to the United Nations' sixteenth global geospatial information management session in New York, where it sought international partnerships and technical support to build a coordinated geospatial framework for land administration, mapping and national planning](https://www.liberianobserver.com/news/lla-takes-liberia-s-land-modernization-drive-to-un-geospatial-forum/article_6395fd70-5dfc-496a-bc1c-944a19aff053.html) | ***Baseline not held*** |
 
 ## Libya
 

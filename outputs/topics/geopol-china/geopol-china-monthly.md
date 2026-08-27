@@ -1,15 +1,15 @@
 ---
 title: China activities — monthly update, July 2026
-compiled: 2026-08-26
-period: 2026-07-01 to 2026-08-26
+compiled: 2026-08-27
+period: 2026-07-01 to 2026-08-27
 subject: geopol.china
-places: DZA; BWA; BFA; CPV; TCD; COD; ETH; GAB; KEN; NAM; NER; SEN; ZMB
-record: 001d945e36ea
+places: DZA; BWA; BFA; CPV; TCD; COD; ETH; GAB; KEN; NAM; NER; SEN; ZMB; ZWE
+record: 4a108f5e5976
 ---
 
 # China activities: monthly update, July 2026
 
-*13 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*14 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -68,3 +68,7 @@ The sovereign cloud is [in testing, with data-centre infrastructure deployed and
 ## Zambia
 
 A [seminar on China-Zambia artificial-intelligence cooperation](https://www.zambiamonitor.com/techbytes-china-reaffirms-support-for-zambias-digital-transformation/) covered localising artificial-intelligence solutions to Zambian conditions and partnering with universities on curricula, and a ministry director and the Chinese ambassador [discussed digital infrastructure, emerging technologies, skills and research](https://itweb.africa/article/zambia-china-deepen-digital-ties/o1Jr5qxPY8gqKdWL). No agreement, value, timetable or named institution follows from either.
+
+## Zimbabwe
+
+A Harare forum [argued that cooperation with China will help African countries build technological capability](https://www.chinadaily.com.cn/a/202608/20/WS6a865f51a3106bc57421c7d5.html), with the terms of technology transfer the point at issue. The account is carried by Chinese state media, which is part of what it evidences. No project, transfer arrangement or commitment is named in it, so it records an argument about the relationship rather than a movement within it.

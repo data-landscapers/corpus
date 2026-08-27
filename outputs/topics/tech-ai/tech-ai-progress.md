@@ -1,175 +1,19 @@
 ---
-title: AI — progress report, 2025-08-01 to 2026-08-26
-compiled: 2026-08-26
-period: 2025-08-01 to 2026-08-26
+title: AI — progress report, 2025-08-01 to 2026-08-27
+compiled: 2026-08-27
+period: 2025-08-01 to 2026-08-27
 subject: tech.ai
-places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF; XSA; XWA
-record: ab397a096002
+places: SWZ; LSO; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE; XAF; XSA; XWA
+record: e293698cfcde
 ---
 
-# AI: progress report, 2025-08-01 to 2026-08-26
+# AI: progress report, 2025-08-01 to 2026-08-27
 
-*51 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
+*28 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
 *The place reports do not share one window; the period above is the range they span.*
-
-## Algeria
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
-|---|---|---|---|
-| AI learning-pathway assistant and marking model in higher education | Did not exist | [Module allocation and marking planned; no appeal route or human-review threshold](https://www.echoroukonline.com/إطلاق-المسار-التعليمي-الشخصي-للطالب-ب) | Advanced |
-| AVENTURE CloudZ sovereign AI cloud (Djezzy) | Did not exist | [Live](https://techafricanews.com/2026/04/30/djezzy-unveils-ai-cloud-platform-in-landmark-partnership-with-algeria-venture-and-taubyte/) | Advanced |
-| Ethical-AI law | Did not exist | [In preparation; no draft text, sponsor or timetable held](https://www.echoroukonline.com/%D8%AA%D8%B4%D8%B1%D9%8A%D8%B9%D8%A7%D8%AA-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%84%D8%B6%D8%A8%D8%B7-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85-%D8%A7%D9%84%D8%A3%D8%AE%D9%84%D8%A7%D9%82) | Advanced |
-| Huawei AI, GPU and digital-economy cooperation | Did not exist | [Talks only; no agreement, instrument or value stated](https://www.echoroukonline.com/%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-%D8%AA%D8%A8%D8%AD%D8%AB-%D9%85%D8%B9-%D9%87%D9%88%D8%A7%D9%88%D9%8A-%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88) | Advanced |
-| National AI Strategy | Adopted by the National AI Council on six pillars (2024-12) | [A joint inter-ministerial roadmap agreed to deploy artificial intelligence across public services, prioritising sovereign open-source models, high-performance computing centres, national data storage and safeguards for public-sector applications, with intensive university training programmes, a dedicated research centre and specialised research units, and a joint monitoring committee established to oversee delivery against a stated timeline; the strategy itself is still not published](https://www.elmoudjahid.dz/fr/actualite/reunion-du-gouvernement-la-strategie-nationale-d-intelligence-artificielle-a-l-ordre-du-jour-252722) | Advanced |
-
-## Angola
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
-|---|---|---|---|
-| AI supervisory or enforcement authority | Did not exist | [No authority exists; the draft artificial-intelligence law provides for a competent authority at article 61 and leaves its designation, powers and seat to a future regulation](https://consultapublica.minttics.gov.ao/storage/docs/Proposta%20de%20Lei%20Sobre%20a%20Intelig%C3%AAncia%20Artificial.pdf) | Advanced |
-| Government AI assistant | ***Baseline not held*** | [A subscription web assistant pitched at student research, offered by an operator reporting seven million clients across five provinces](https://angop.ao/noticias/economia/africell-lanca-afrigpt-na-versao-web/) | ***Baseline not held*** |
-| Tax-authority risk-analysis system | None published | [In development, in-house, not in service](https://correiokianda.info/inteligencia-artificial-coloca-incumpridores-sob-analise-reforcada-da-agt/) | ***Baseline not held*** |
-
-## Benin
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| Data-protection authority AI policy | Did not exist | [A dedicated AI policy with strict purpose limitation](https://www.biometricupdate.com/202605/world-bank-african-dpas-outline-formula) | Advanced |
-| National AI and big-data strategy | In force (2023) | [In force](https://techafricanews.com/2025/06/30/benin-launches-first-local-language-voice-ai-to-bridge-digital-divide) | No change |
-
-## Botswana
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
-|---|---|---|---|
-| AI adoption, chatbot visits per internet user | ***Baseline not held*** | [0 to 0.40 visits per user per month on a 0 to 2.6 scale, among the lowest adopters, in a band covering about 45% of Africa](https://www.sundaystandard.info/infrastructure-gap-puts-botswana-on-the-back-foot-in-the-ai-boom-world-bank-cautions/) | ***Baseline not held*** |
-| Judicial capability on AI and digital evidence | ***Baseline not held*** | [A commitment stated; no programme, budget, date or filing rollout on record](https://www.mmegi.bw/news/judges-courts-must-embrace-ai-driven-cases-cj/news) | ***Baseline not held*** |
-
-## Burkina Faso
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
-|---|---|---|---|
-| Dedicated AI regulation | None published | [No dedicated instrument; the justice minister told deputies the new data-protection law covers artificial intelligence notably through the prohibition on transferring sensitive data abroad, with the roadmap intended to become dedicated regulation later](https://www.sidwaya.info/surete-aerienne-et-protection-des-donnees-a-caractere-personnel-lassemblee-legislative-du-peuple-adopte-les-projets-de-lois/) | Advanced |
-| Francophone AI governance guidelines | Did not exist | [Common guidelines adopted by six states, led by an advocacy organisation, non-binding and complementary to national strategies](https://www.wearetech.africa/en/fils-uk/news/tech/six-francophone-west-african-countries-unite-on-ai-governance-framework) | Advanced |
-| National AI roadmap 2026 to 2030 | No national AI strategy, with drafting not yet begun | [A validated roadmap aligned to the national recovery plan under an AI-for-all banner, with a regional body counting the country among four member states holding a national strategy](https://techafricanews.com/2026/06/17/burkina-faso-validates-national-ai-roadmap-2026-2030-to-accelerate-digital-transformation/) | Advanced |
-| AI centre of excellence | A second phase running from April 2025 on about CAD 1m, after a first phase of CAD 1,057,100 from 2021 | [The same position, with the base carrying no account of the centre since April 2025](https://lefaso.net/spip.php?article137461) | No change |
-| Private AI institute | Launched as a private initiative, costed by its founder at about FCFA 100m, with two conferences held | [The same, with nothing on file since August 2025 and its incubator and research centre still being structured](https://www.sidwaya.info/dr-olivier-lompo-enseignant-chercheur-a-lecole-polytechnique-federale-de-lausanne-en-suisse-les-etats-qui-integrent-lia-dans-leurs-politiques-publiques-prennent-une-longueu/) | No change |
-| Automated enforcement detections | Did not exist | [1,099 road offences detected between midnight and noon on 2026-08-01, with five fines paid, implying roughly 2,200 automated offence records a day in one city](https://lefaso.net/spip.php?article148326) | ***Baseline not held*** |
-| Regional community AI strategy | ***Baseline not held*** | [The regional commission to prepare and adopt a community AI strategy in a very short time, building on the four member states that already hold national strategies](https://lefaso.net/spip.php?article147847) | ***Baseline not held*** |
-| Sovereign language-model corpus | ***Baseline not held*** | [A corpus build for four national languages, funded through a digital-transformation framework and named as a pillar of the roadmap; no dataset, size or release date published](https://itweb.africa/article/burkina-faso-leads-the-way-in-culturally-inspired-ai/kLgB1MezwnJq59N4) | ***Baseline not held*** |
-
-## Burundi
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| National AI Strategy 2026-2030 | AI readiness diagnostic run (November 2025) | [Validated: governance and ethics, sovereign cloud and data hubs, education and research, innovation and incubators, human capital and about 15 health and agriculture pilots](https://www.wearetech.africa/en/fils-uk/news/tech/burundi-rolls-out-six-pillar-ai-strategy-to-accelerate-digital-economy) | Advanced |
-| Sovereign cloud and data hubs | Did not exist | [A strategy pillar; no build on record](https://www.wearetech.africa/en/fils-uk/news/tech/burundi-rolls-out-six-pillar-ai-strategy-to-accelerate-digital-economy) | Advanced |
-| AI governance and data ethics capacity | Baseline not held | [One workshop on record; its stated finding is that Burundi holds information rather than structured, consented, usable data](https://en.irisnews.org/in-burundi-a-quiet-reckoning-with-the-age-of-ai/) | ***Baseline not held*** |
-
-## Cameroon
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
-|---|---|---|---|
-| AI-generated simulations for secondary schools | Did not exist | [The secondary-education ministry has formally adopted AI-generated simulations for use in secondary schools, saying it produced more than 250 simulations in under a month at no cost, with teacher demonstrations in chemistry, biology, languages and industrial techniques](https://www.digitalbusiness.africa/e-education-cameroun-le-minesec-valide-la-simulation-ia-avantages-et-limites/) | Advanced |
-| Driver-behaviour monitoring system | Did not exist | [Presented; no deployment scale, contract, fleet count or data-protection regime published](https://techreviewafrica.com/news/5251) | Advanced |
-| National AI strategy | A 2040 roadmap on seven pillars presented as unveiled on 7 and 8 July 2025 | [Still in drafting a year later; ten priority areas attached and no adoption instrument published](https://cameroon-tribune.cm/articles/11573/en/artificial-intelligence-pm-instructs-completion-of-national-strategy) | Stalled |
-| National High-Performance Computing Centre | Did not exist | [Announced; no site, cost, operator or timetable published](https://cameroon-tribune.cm/articles/11573/en/artificial-intelligence-pm-instructs-completion-of-national-strategy) | Advanced |
-| Rail intelligent customer portal | Announced for the first quarter of 2026, with a wagon-allocation decision algorithm as its centrepiece | [The target quarter passed and the base holds no source on the operator after 2025-11-24](https://leconomie.info/digitalisation-camrail-place-lia-au-coeur-de-la-surete-et-de-la-logistique/) | Stalled |
-| AI authority and presidential council | Provided for in the governance pillar, not created | [Still not created, and absent from the ten priority areas, which carry only adaptation of the legal framework](https://techafricanews.com/2025/07/08/cameroon-unveils-2040-ai-roadmap-anchored-on-seven-strategic-pillars/) | No change |
-| GPU cloud hosting, Douala node | Announced February 2025 for a second-quarter 2025 start | [No held source confirms it in service; the company's May 2026 profile does not mention it](https://itweb.africa/content/mYZRXv9g4nEMOgA8) | No change |
-| ITU AI readiness score | 46.3 out of 100, 30th of 42 African states, below the continental average of 56 (2025) | [The same reading still the benchmark of record at a February 2026 workshop; no later reading held](https://www.wearetech.africa/en/fils-uk/news/tech/cameroon-eyes-60-000-ai-experts-trained-by-2040-but-digital-barriers-remain) | No change |
-| National consultations on artificial intelligence | Two editions held, June 2024 and July 2025 | [No third edition convened or announced in any held source to 2026-08-06](https://leconomie.info/yaounde-la-2eme-edition-des-concertations-nationales-sur-lintelligence-artificielle-souvre-ce-jour/) | No change |
-| Sovereign large language model for national languages | Announced, nothing on record being built | [Unchanged; no build, budget, partner or corpus named in any held source since](https://techafricanews.com/2025/07/08/cameroon-unveils-2040-ai-roadmap-anchored-on-seven-strategic-pillars/) | No change |
-| Founding membership of a global AI cooperation body | ***Baseline not held*** | [Recorded as a founding member; the accession date is not published](https://cameroon-tribune.cm/articles/11573/en/artificial-intelligence-pm-instructs-completion-of-national-strategy) | ***Baseline not held*** |
-| Rail forward-detection system | ***Baseline not held*** | [In service on locomotives, detecting people, obstacles and crossings to 2 km against a 1.5 km maximum braking distance](https://leconomie.info/digitalisation-camrail-place-lia-au-coeur-de-la-surete-et-de-la-logistique/) | ***Baseline not held*** |
-
-## Cape Verde
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
-|---|---|---|---|
-| National Artificial Intelligence Strategy | None published; a named analyst noted on 2025-04-07 that more than 60 countries had national AI strategies and argued Cabo Verde should adopt one | [Drafting under way, kicked off with senior officials, the Secretary of State for the Digital Economy, external consultants and European Union representatives; the government states the framework will be designed for responsible and ethical use of AI in the public interest. No draft text, timetable or budget is held](https://techafricanews.com/2026/05/04/cape-verde-launches-national-data-and-ai-strategies-to-modernize-public-administration/) | Advanced |
-| Proposal for a CPLP laboratory for artificial intelligence in health | Did not exist as a stated national position | [The Health Minister proposes Cabo Verde as a lusophone laboratory for AI in health, hosting pilot projects integrating AI with telemedicine, and calls for cooperation on skills, digital infrastructure, interoperability and an ethical and regulatory framework. No pilot, partner, budget or instrument is held](https://www.anacao.cv/noticia/2026/07/16/ministro-da-saude-defende-que-inteligencia-artificial-pode-aproximar-os-cuidados-especializados-de-todas-as-ilhas001/) | Advanced |
-| AI-assisted port scanning contract | The base carries no statement of this contract at the start of the window | [A US$9m contract for AI-assisted scanning equipment at the national ports is stated to be under way, inside a stated programme for a fully digitised national revenue directorate built on artificial intelligence and data management; its signature date and counterparty are not established](https://www.governo.cv/governo-ambiciona-uma-administracao-tributaria-digital-e-inteligente-para-garantir-sustentabilidade-do-estado-e-crescimento-economico/) | ***Baseline not held*** |
-
-## Comoros
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
-|---|---|---|---|
-| Artificial-intelligence preparedness strand of the e-government project | No position held at the window's opening | [In procurement only - to improve cybersecurity and artificial-intelligence preparedness, with no design, budget line or contract award held](https://www.isdb.org/project-procurement/fr/appels-doffres/2026/gpn/projet-de-modernisation-de-ladministration-publique-comorienne-par-le-bais) | Advanced, baseline not held |
-| National artificial intelligence forum | Did not exist, the source calling it the first edition | [One edition held under ministry patronage with the digital agency, the regulator, the technology association and the university; no second edition, communique or follow-up instrument is held](https://alwatwan.net/societe/intelligence-artificielle-aux-comores-i-le-premier-forum-fait-jaillir-les-d%C3%A9fis-et-les-opportunit%C3%A9s-de-l%E2%80%99ia.html) | Advanced |
-| Shikomori text-to-speech model | Did not exist, the developer stating that no Shikomori speech-synthesis model existed | [Live for Shikomori only, with extension to the three other island languages stalled for want of translators and validators](https://alwatwan.net/societe/intelligence-artificielle-i-«komori-tts-»,-la-première-synthèse-vocale-dédiée-au-shikomori.html) | Advanced |
-
-## Congo
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| African artificial intelligence research centre | A state research and training centre created by law in May 2024 with statutes approved in council in July 2025, built with a Chinese counterpart and showcased at a summit | [Integrated into an international alliance, with Russian financing for phases three and four under validation through a debt-conversion mechanism and a university memorandum with a three-year action plan](https://techafricanews.com/2026/04/21/congo-and-russia-strengthen-digital-and-ai-cooperation-during-high-level-meeting/) | Advanced |
-| Digital and AI regulation conferences | Did not exist | [Concluded with priorities for a national strategic framework for digital and artificial-intelligence regulation, capacity-building for regulators and administrations, and a standing public, private and academic collaboration framework; the outputs are recommendations rather than instruments](https://www.adiac-congo.com/content/intelligence-artificielle-le-congo-pose-les-jalons-dune-regulation-168692) | Closed |
-| Research-centre training platform | A pilot phase with about 3,000 free online courses in cybersecurity, artificial intelligence and innovation, against a 10,000-youth target | [Unchanged; no enrolment, completion or certificate figure published at 2026-08-06](https://www.adiac-congo.com/content/digitalisation-une-plateforme-pour-former-des-milliers-de-jeunes-dans-le-numerique-164718) | No change |
-
-## Cote d'Ivoire
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
-|---|---|---|---|
-| Francophone West African AI governance guidelines | Did not exist | [Common guidelines adopted by six states on transparent and inclusive AI, data protection, algorithmic-bias mitigation and digital sovereignty, complementing rather than replacing national strategies](https://www.wearetech.africa/en/fils-uk/news/tech/six-francophone-west-african-countries-unite-on-ai-governance-framework) | Advanced |
-| National AI Strategy | Handed to the Prime Minister for government adoption, costed at FCFA 912bn with 15 objectives and 109 projects over five years | [Counted among Africa's adopted national AI strategies, with six senior implementation posts advertised from 2026-05-26](https://www.wearetech.africa/en/fils-uk/news/tech/six-francophone-west-african-countries-unite-on-ai-governance-framework) | Advanced |
-| National Data Governance Strategy 2030 | Handed to the Prime Minister; presented to the private sector May 2025 | [Named as one of the two strategies the ministry's six new senior posts exist to implement](https://www.wearetech.africa/fr/fils/actualites/tech/cote-d-ivoire-six-cadres-recherches-dans-l-ia-la-cybersecurite-et-la-transformation-numerique) | Advanced |
-| National sovereign cloud | Provided for in the national AI strategy as a first-pillar investment, with nothing on record being built | [The minister describes a foundation under construction comprising a national data centre at Grand-Bassam, a second project at Yamoussoukro and a sovereign-cloud network; no operator, capacity, cost or commissioning date](https://www.fratmat.info/article/2641622/culture/femua-18-le-ministre-djibril-ouattara-trace-la-voie-dune-cote-divoire-hub-africain-de-lintelligence-artificielle) | Advanced |
-| SODEXAM and China Meteorological Administration memorandum | Did not exist | [Six cooperation axes covering intelligent numerical forecasting adapted to Ivorian conditions, a next-generation early-warning system built on cloud and artificial intelligence, metrological capacity-building, joint monsoon research, extension of early-warning coverage to the most vulnerable populations and continued training; the state airport and meteorological operator separately requested a US$21m grant (2026) from the Chinese government for an artificial-intelligence multi-hazard early-warning deployment, which nothing on file establishes has been agreed](https://www.aip.ci/cote-divoire-aip-la-sodexam-signe-un-memorandum-dentente-avec-ladministration-meteorologique-chinoise/) | Advanced |
-| AI acceleration programme | Development-bank-supported programme of about FCFA 49bn including a data centre | [Same scope; named in May 2026 as one of the structures that would assess a vendor's public-administration proposals, with no disbursement, milestone or completion figure](https://www.fratmat.info/article/2632286/economie/strategies-nationales-de-la-gouvernance-de-donnees-et-de-lia-la-bad-continuera-a-soutenir-les-initiatives-) | No change |
-| National AI agency | The ministry's transformation director says work is under way to establish a national AI agency | [Unchanged; no decree, name, budget or staffing in any held source thirteen months later](https://techcabal.com/2025/07/01/cote-divoire-cyber-africa-forum/) | No change |
-| National Committee for AI and Data Governance | Named as one of the strategy's first actions | [Unchanged; no constitution, membership, chair or meeting on record](https://www.wearetech.africa/en/fils-uk/news/tech/cote-divoire-unveils-ai-and-data-governance-strategy) | No change |
-| Safe AI label | Named in the national AI strategy as its legal and ethical labelling instrument | [Unchanged; no criteria, awarding body, register or labelled solution on file seventeen months later](https://www.wearetech.africa/en/fils-uk/news/tech/cote-divoire-unveils-ai-and-data-governance-strategy) | No change |
-| Public AI university | ***Baseline not held*** | [Public university dedicated to artificial intelligence provided for in the development plan, alongside centres of excellence in universities; no site, budget line, intake or date](https://www.wearetech.africa/en/fils-uk/news/tech/cote-d-ivoire-plans-ai-university-to-address-digital-skills-shortage) | ***Baseline not held*** |
-
-## Djibouti
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| Cross-border data corridor between Shanghai and Djibouti | Did not exist | [Provided for in the memorandum; nothing built (2026-07)](https://www.lanation.dj/ce-projet-jettera-les-bases-solides-de-la-competitivite-nationale-pour-les-30-prochaines-annees-mariam-hamadou-ali-ministre-deleguee-chargee-des-investissements-et-du-developpement-du-s/) | Advanced |
-| First national artificial-intelligence strategy | Did not exist | [Complete and set for official launch at Djibouti's first national artificial-intelligence forum, now dated 2-3 September 2026 at Djibouti-Ville](https://www.lanation.dj/lintelligence-artificielle-ouvre-un-nouveau-champ-pour-la-jeunesse/) | Advanced |
-| MAZU-Djibouti AI weather early-warning system | First system supplied July 2025, not yet in service | [Version 2.0 in service; forecast resolution 3 km against 9 km, three-day horizon, six-hourly updates (2026-07)](https://www.wearetech.africa/fr/fils/actualites/tech/djibouti-deploie-une-nouvelle-version-de-son-systeme-d-alerte-meteo-fonde-sur-l-ia) | Advanced |
-| National AI readiness index | Not held | [An estimated 24.5 out of 100 on the national AI readiness diagnostic, described as an emergent level, against an ICT development index of 61.6 attributed to the submarine cables landing in Djibouti and its data centres](https://www.lanation.dj/premier-forum-djiboutien-sur-lintelligence-artificielle-un-pari-sur-la-souverainete-numerique/) | ***Baseline not held*** |
-
-## DR Congo
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
-|---|---|---|---|
-| AI-assisted business-plan platform | Did not exist | [A live public platform giving step-by-step business-plan drafting, financial projections, export and direct submission with real-time file tracking](https://actualite.cd/2026/02/04/entrepreneuriat-en-rdc-bokeli-la-plateforme-digitale-intelligente-du-fogec-pour-la) | Advanced |
-| Congolese academy of artificial intelligence | Did not exist | [A provision on paper to train young talent and stimulate applied research, financed within the plan's envelope; no site, budget line, governing text or date established](https://www.agenceecofin.com/actualites-numerique/1110-132270-la-rdc-prevoit-1-5-milliard-de-budget-pour-son-plan-national-du-numerique-et-de-l-ia-2026-2030) | Advanced |
-| Lingala language data collection for AI | Did not exist | [A digital economy ministry project with UNDP support to build Lingala training data for AI models; no corpus size, licence, host or publication date stated](https://acp.cd/economie/rdc-la-campagne-de-vulgarisation-du-code-du-numerique-lancee-a-kinshasa/) | Advanced |
-| National artificial intelligence strategy | Did not exist | [A draft on four pillars — governance, ethics, trust and regulation; data, digital and energy infrastructure; human capital, research and innovation; industrialisation and value creation — aligned to the national development plan on a 2030 horizon; technically validated over 23 to 27 July 2026 and referred to the Council of Ministers for adoption on 2026-08-04, with no adoption date established and the text not published](https://actu7.cd/2026/08/04/rdc-augustin-kibassa-lance-la-politique-sectorielle-de-leconomie-numerique-et-la-strategie-nationale-de-lia-pour-batir-un-congo-souverain-connecte-innovant-et-inclusif/) | Advanced |
-| Student artificial-intelligence facility | Did not exist | [An announced facility to equip students with advanced technological skills, announced with state-data migration and a government cybersecurity centre; no design, budget line, site or date established](https://techafricanews.com/2026/02/20/drc-launches-500-million-digital-transformation-with-world-bank-and-afd-support/) | Advanced |
-| Artificial-intelligence marking of the state examination | ***Baseline not held*** | [AI used to mark the 2024-25 state examination, alongside electronic diplomas and decentralised scanning centres](https://actualite.cd/2025/11/27/adis-2025-raissa-malu-presente-levolution-de-la-transformation-numerique-du-systeme) | ***Baseline not held*** |
-| Common AI-governance steering architecture | ***Baseline not held*** | [Officials on the record that bodies already acting across digital, research, data, cybersecurity and regulation have roles not yet sufficiently articulated in a common steering architecture](https://acp.cd/economie/economie-numerique-lusage-responsable-de-li-a-recommande-dans-un-atelier-a-kinshasa/) | ***Baseline not held*** |
-
-## Egypt
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
-|---|---|---|---|
-| Egyptian Center for Responsible AI | Did not exist | [Established inside the ICT ministry to support safe AI use within government bodies and to develop regulatory models; no mandate document, budget, staffing or output is held](https://gate.ahram.org.eg/News/5670246.aspx) | Advanced |
-| Karnak Arabic large language model | The base carries no statement on the model before 2026-06-10 | [The ICT minister stated on 24 August 2026 that the model now tops international evaluation platforms among Arabic models in the 30-billion and 40-billion parameter classes; it is built by retraining the latest global open-source models on curated Egyptian and Arab published data rather than from scratch, is run inside Egyptian data centres as a stated matter of digital sovereignty, handles both Modern Standard Arabic and Egyptian colloquial, and is intended as a base layer for education, legal guidance, government services, translation and language learning](https://gate.ahram.org.eg/News/5894042.aspx) | Advanced |
-| Karnak Chat conversational assistant | Did not exist | [A conversational system built on the ministry's own Arabic large language model, launched in pilot and stated to answer from verified, audited sources, running inside Egyptian data centres and handling both Modern Standard Arabic and Egyptian colloquial](https://gate.ahram.org.eg/News/5893918.aspx) | Advanced |
-| National Council for AI, Quantum Computing and Emerging Technologies | The National Council for Artificial Intelligence, created 2019, with an AI remit; the base records no quantum or emerging-technology mandate | [Remit widened to AI, quantum computing and emerging technologies, and the council is stated to be preparing a national quantum-computing strategy; no decree, membership list or date for the rename is held](https://gate.ahram.org.eg/News/5670246.aspx) | Advanced, rename date not stated |
-| National quantum computing strategy | Not on record | [The renamed council is preparing a national quantum-computing strategy; no draft, timetable or lead body beyond the council is stated](https://gate.ahram.org.eg/News/5670246.aspx) | Advanced |
-| National Artificial Intelligence Strategy, second edition | Second edition in force from early 2025, on six pillars of governance, technology, data, infrastructure, ecosystem and skills, following the first strategy of 2021 and the responsible-AI charter of 2023 | [Same instrument, with delivery bodies added around it: the responsible-AI centre established late 2025, the applied innovation centre's Arabic model, and a university capacity programme the ministry places under the strategy](https://gate.ahram.org.eg/News/5670246.aspx) | No change |
-| Cassava AI Factory, Egypt site | No source establishes a position for the Egyptian site before 2026-01-01 | [Egypt is one of five stated sites in an approximately US$720m programme; phase one of about 3,000 GPUs is in South Africa, with roughly 12,000 further GPUs planned across Egypt, Nigeria, Kenya and Morocco over three to four years. No Egyptian site, date, capacity or investment figure is stated](https://www.ecofinagency.com/news/2809-49064-africa-s-sovereign-ai-play-cassava-technologies-and-zimbabwean-strive-masiyiwa-720-million-bets) | ***Baseline not held*** |
-
-## Equatorial Guinea
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| National artificial intelligence strategy or policy | Not held | [Anteproyecto de Ley de Inteligencia Artificial under drafting by the Ministerio de Transportes, Telecomunicaciones y Sistemas de Inteligencia Artificial, setting six guiding principles and proposing an autonomous Autoridad Nacional de Inteligencia Artificial y Datos (ANIAD); no enactment, text or adoption date published](https://realequatorialguinea.com/tecnologia/guinea-ecuatorial-da-los-primeros-pasos-para-disponer-de-una-ley-de-inteligencia-artificial/) | Advanced |
-| Director-General for Artificial Intelligence | In post | [In post; no published mandate, budget or workplan for the directorate](https://www.undp.org/es/equatorial-guinea/noticias/guinea-ecuatorial-da-un-paso-firme-hacia-la-transformacion-digital-del-sector-publico) | No change |
-| State Secretariat for Artificial Intelligence | Held by José Eko Owono Nve since 23 August 2024 (Decreto 86/2024) | [Held by Óscar Ondo Ngomo since 7 July 2026 (Decreto 61/2026, dated 23 June 2026), within the Ministry of Transport, Telecommunications and Civil Aviation](https://www.guineaecuatorialpress.com/noticias/decreto_de_nombramiento_de_los_secretarios_de_estado_del_gobierno) | No change |
-
-## Eritrea
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| Eri-Chat offline AI app | Live since April 2025 (pre-window launch), offline open-source-AI app storing conversation data locally on-device | [Live; showcased at Asmara UN Day event (24 Oct 2025) to ambassadors, UN officials and diplomats; English-only, local-language support pending (insufficient training data)](https://shabait.com/2025/11/01/eri-chat-offline-ai-app/) | No change |
 
 ## Eswatini
 
@@ -179,70 +23,11 @@ record: ab397a096002
 | Regional AI health partnership | Did not exist | [Memorandum signed; no system, data-sharing terms or money named](https://eswatinipositivenews.online/ecsa-hc-skye-africa-intelligence-partner-to-scale-ai-health-solutions/) | Advanced |
 | National 4IR Strategy | In force | [In force, anchoring a stated human-centred approach](https://independentnews.co.sz/45686/business/eswatini-champions-human-centred-ai-and-how-to-guide-its-transformation-responsibly/) | No change |
 
-## Ethiopia
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
-|---|---|---|---|
-| AI service bundles in the mobile-money app | Did not exist | [Generative-AI bundles bought with M-PESA and redeemed by SMS voucher](https://techafricanews.com/2026/07/22/m-pesa-ethiopia-and-gebeya-partner-to-bring-ai-tools-to-mobile-users/) | Advanced |
-| Ethiopian Artificial Intelligence Institute | Operating (2020) | [Built MESOB and anchors the state's AI capability claim](https://birrmetrics.com/ethiopia-signs-up-to-new-global-artificial-intelligence-alliance/) | No change |
-
-## Gabon
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
-|---|---|---|---|
-| Morocco-Gabon digital transformation and artificial intelligence protocol | Not held | [A protocol on exchange of artificial-intelligence expertise and on capacity-building for digital skills in Gabon, with no budget, term, workplan or named programme](https://techafricanews.com/2026/04/13/new-morocco-and-gabon-agreement-focuses-on-digital-skills-and-capacity-building/) | Advanced |
-
-## Ghana
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
-|---|---|---|---|
-| Automated road-traffic enforcement | Did not exist | [From September 2026 more than 47 traffic offences are to be enforced by face, mobile, in-vehicle and handheld cameras and radar, captured for review in a back-office control room before an electronic notice carrying the penalty and payment route is sent to the offender's phone; officers are to stop checking licences, seatbelts and insurance by hand](https://www.graphic.com.gh/news/general-news/cameras-to-replace-police-mttd-personnel-in-checking-traffic-violations-from-september-2026-muntaka.html) | Advanced |
-| Customs AI attributed revenue | Did not exist | [Monthly figures of GH¢73.44m, GH¢51.63m, GH¢72.5m, GH¢55.82m and GH¢35.17m to 17 July, the finance ministry's own and unaudited](https://www.myjoyonline.com/publican-ai-system-generates-gh%c2%a2300m-additional-revenue-since-rollout-ato-forson/) | Advanced |
-| Disaster management AI chatbot | Did not exist | [Owned by the national disaster management organisation, answering on floods, fires, storms, droughts, earthquakes, epidemics and localised hazards in several international and local languages and issuing automated responses during an emergency, with officers from ten regional offices trained online on 2026-06-04 and six regions still without an emergency operations centre](https://www.unesco.org/en/articles/ghanas-disaster-agency-turns-ai-reach-people-water-does) | Advanced |
-| Google Africa applied AI lab | Did not exist | [Described by its sponsor as Africa's first applied AI lab, sited at an Accra community centre with research and venture partners; the first cohort is not yet selected](https://www.googlecloudpresscorner.com/2026-07-01-Google-Cloud-Summit-in-Africa-Highlights-the-Continents-Digital-Transformation-and-Unveils-New-Agentic-AI-and-Infrastructure-Investments) | Advanced |
-| UN AI health outcomes project | Did not exist | [A UNDP and WHO project on using AI to improve health outcomes while addressing human-security risks, with its steering committee convened and government, development partners, academia and civil society represented](https://theheraldghana.com/ghana-launches-ai-health-project-to-strengthen-digital-healthcare-and-human-security/) | Advanced |
-| Flood Intelligence Agent | ***Baseline not held*** | [In development; no launch date, scope or funding figure published](https://www.myjoyonline.com/drowning-in-data-dying-from-bad-decisions-bigdata-ghana-ceo-charges-africa-to-act/) | ***Baseline not held*** |
-| National AI Strategy document | ***Baseline not held*** | [The Republic of Ghana National Artificial Intelligence Strategy 2025-2035, published by the Ministry of Communication, Digital Technology and Innovations and dated December 2025, held in full](https://www.africadataprotection.org/Ghana-AI-Strategy-2025-2035.pdf) | ***Baseline not held*** |
-
-## Guinea
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
-|---|---|---|---|
-| DouIA programme and Manifesto of Conakry | DouIA1 | [DouIA2 launched; no published workplan or budget](https://techreviewafrica.com/news/4715/guinea-launches-douia2-initiative-to-drive-ai-driven-digital-transformation) | Advanced |
-| Guinea-Rwanda cooperation in AI and e-health | Cooperation limited to public-finance digitisation | [AI, e-health, e-commerce and electronic invoicing identified for exploration](https://www.wearetech.africa/fr/fils/actualites/tech/la-guinee-et-le-rwanda-explorent-de-nouveaux-projets-dans-l-e-sante-et-l-ia) | Advanced |
-| Six-country Francophone West African AI governance framework | Did not exist | [Adopted by Benin, Burkina Faso, Cote d'Ivoire, Guinea, Mali and Senegal](https://www.wearetech.africa/en/fils-uk/news/tech/six-francophone-west-african-countries-unite-on-ai-governance-framework) | Advanced |
-
-## Kenya
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
-|---|---|---|---|
-| ATLAS Umoja AI | Did not exist | [Kenya one of five governments pooling datasets and research to scale an open-source African-language template](https://iafrica.com/gsma-and-five-african-governments-launch-atlas-umoja-ai-to-scale-nigerias-language-model-template-across-the-continent/) | Advanced |
-| Kenya AI and Other Emerging Technologies Policy 2026 | None published, no national AI policy instrument | [226-page draft out for consultation, with a risk-based lifecycle model, effects-based extraterritorial reach, binding AI-worker standards and a disclosure duty; high risk undefined and penalties unstated. A civil-society submission of 2026-08-14 urges institutional independence for the proposed AI council and mandatory human-rights impact assessments, and a separate account puts the draft as nearing Cabinet consideration](https://ict.go.ke/sites/default/files/AI%20Policy%20Doc/draft-kenya-ai-and-emerging-technologies-policy-2026.pdf) | Advanced |
-| Kenya Artificial Intelligence Bill 2026 | Did not exist | [Before the Senate, a self-declared EU AI Act transplant with a presidentially appointed commissioner and fines capped at KES 5m](https://alicemunyua.substack.com/p/gatekeepers-xiv) | Advanced |
-| Kenya-Germany applied AI centre | Did not exist | [Centre of African Excellence for Applied AI proposed, still at preliminary-consultation stage with no formalised agreement](https://itweb.africa/article/kenya-germany-forge-path-for-ai-centre/) | Advanced |
-| Konza Digital Media City and AI data centre | Digital Media City financing agreement signed 2023, no AI data-centre element | [Proposed Digital Media City plus an AI data centre at Konza. The Korean export-import bank completed a due-diligence mission at the technopolis development authority, and its delegation met the ICT and digital economy principal secretary on 2026-08-21 to review progress and agree next steps; both sides also raised AI data centres and other technology projects. No commitment amount, financing instrument or construction date is stated](https://techafricanews.com/2026/08/21/kenya-and-kexim-advance-talks-on-digital-media-city-project-at-konza-technopolis/) | Advanced |
-| National AI computing platform | None published | [To be established at the Technopolis Development Authority with GPU infrastructure, serving researchers, universities and startups](https://techafricanews.com/2026/07/28/kenya-and-undp-deepen-partnership-to-advance-national-ai-infrastructure/) | Advanced |
-| National AI Strategy 2025-2030 | In force, no implementation roadmap, costing or budget line held | [Roadmap published with an 80% 5G population-coverage target by 2030, costed at KSh 152bn over five years with no dedicated allocation in the FY2026/27 budget](https://cipesa.org/2026/07/rethinking-africas-approach-to-the-politics-of-ai-governance-and-regulation/) | Advanced |
-| Servernah Cloud | Did not exist | [Marketed as Kenya's first sovereign-hosted cloud and AI platform, running AI workloads without sending data offshore](https://itweb.africa/article/ixafrica-hosts-kenyas-first-sovereign-hosted-ai-cloud/rxP3jMBE3V47A2ye) | Advanced |
-| Standing Cabinet Committee on Artificial Intelligence | Did not exist | [Established, with a mandate to steer the national AI strategy and coordinate policy across ministries; no membership, meeting record or output published](https://cipit.strathmore.edu/the-standing-cabinet-committee-on-artificial-intelligence-implications-for-kenyas-evolving-ai-ecosystem/) | Advanced |
-| Safaricom automated decisioning and Zuri | AI deployed in fraud detection and customer service, no challenge on file | [Chatbot and automated M-PESA decisioning still operating; the petition alleges no guaranteed route to a human agent, no disclosure of decision logic and algorithmic discrimination in credit scoring](https://nation.africa/kenya/business/safaricom-sued-over-ai-use-in-customer-service-and-m-pesa-decisions-5433484) | No change, now under challenge |
-| Absa Kenya AI policy and Citrus agent | ***Baseline not held*** | [Bank adopted its own AI policy during 2025, with a proprietary AI agent piloting for deepfake detection at account opening](https://techafricanews.com/2026/07/29/absa-kenya-invests-31-million-in-technology-automates-71-of-operations/) | ***Baseline not held*** |
-| Adult monthly use of an AI tool | Baseline not held | [97.5% of online adults reported using an artificial-intelligence tool monthly, ranked first globally ahead of the United Arab Emirates at 94.2% and Indonesia at 93.6%](https://www.itweb.africa/article/kenya-tops-global-ai-usage-rankings/5yONP7Ero1NMXWrb) | ***Baseline not held*** |
-| Bank use of AI in credit risk assessment | ***Baseline not held*** | [Nearly 45% of commercial banks using artificial intelligence in credit risk assessment, on a Central Bank of Kenya figure](https://www.theeastafrican.co.ke/tea/business-tech/predicting-loan-default-ai-aims-to-save-kenyan-banks-debt-crisis-5550460) | ***Baseline not held*** |
-| Content-moderation and annotation redundancies | ***Baseline not held*** | [1,108 Kenyan jobs cut](https://itweb.africa/article/meta-contract-end-sparks-1-100-sama-job-cuts/) | ***Baseline not held*** |
-
 ## Lesotho
 
 | System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | National AI Academy | Did not exist | [Proposed in a signed memorandum; no timetable, governance structure, curriculum or host institution is named](https://lestimes.com/?p=91121) | Advanced |
-
-## Liberia
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
-|---|---|---|---|
-| CJ Lewis legal-learning artificial intelligence | Did not exist | [In service over Supreme Court opinions from 1861 to 2026 plus statutes and regulations, built by a private law library with OHCHR support (2026-07)](https://fpa.news/liberia-launches-first-legal-learning-artificial-intelligence-cj-lewis-to-expand-public-access-to-the-law/) | Advanced |
-| National artificial intelligence priority | Did not exist | [Accepted in principle, conditioned on applications in agriculture, transport and commerce; no policy, institution, budget line or date attached (2026-07)](https://fpa.news/young-liberians-challenge-boakai-on-artificial-intelligence-he-accepted-what-comes-next/) | Advanced |
 
 ## Libya
 
@@ -391,21 +176,6 @@ record: ab397a096002
 | Garad.ai | Not held | [Launched by a private artificial-intelligence centre alongside the communications and technology ministry; the state minister for communications used the launch to set out the ministry's wider technology-sector policy push and to say a National Data Centre is planned](https://www.dawan.africa/news/somalia-plans-national-data-centre-to-strengthen-digital-infrastructure) | ***Baseline not held*** |
 | National AI readiness assessment | Not held | [Under way, led by the communications and technology ministry with UNESCO, examining artificial-intelligence policy, data governance and higher-education capacity for artificial intelligence; a private university joined the exercise on 17 August 2026](https://techreviewafrica.com/news/6784/somalia-boosts-national-ai-readiness-assessment-with-support-from-academia) | ***Baseline not held*** |
 
-## South Africa
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
-|---|---|---|---|
-| Appeal on algorithmic eligibility verification for the SRD grant | None published | [The state is appealing a Pretoria High Court judgment of 23 January 2025 that held several regulations governing the Social Relief of Distress grant unconstitutional and invalid, on a scheme administered online only and screened by an algorithmic verification system that excluded applicants it read as earning above R624.00; the court found the automation unfairly excluded otherwise eligible applicants. An artificial-intelligence governance organisation, represented by a university legal centre, was admitted as a friend of the court in the appeal, which is set down for hearing on 25 August 2026](https://www.globalcenter.ai/news/human-rights-implications-of-using-algorithms-for-social-grants) | Advanced |
-| Automated selection at SARS | ***Baseline not held*** | [100% of verifications, 88.41% of complex audits](https://techcabal.com/2026/07/27/ai-south-africas-taxman/) | Advanced |
-| Proposed AI regulatory institutions | Seven bodies proposed | [Under reconsideration; committee opposed](https://www.timeslive.co.za/news/sci-tech/2026-07-31-parliament-against-creating-new-ai-watchdogs-for-sa-diko) | Regressed |
-| SAHPRA AI/ML medical-device requirements | Did not exist | [Issued 2025-09-26; product registration not commenced](https://www.sahpra.org.za/wp-content/uploads/2025/09/MD08-20252026_-SAHPRA-Communication-to-Industry-AI-Medical-devices_Acknowledgements.pdf) | Advanced |
-| Start-up funding, South Africa | Led Africa on equity and deal count, CY2025 | [Fourth at $83m, H1 2026](https://www.itweb.co.za/article/sa-powers-africas-164bn-tech-funding-rebound/4r1lyMR9YJR7pmda) | Regressed |
-| Western Cape AI Cluster and its responsible-AI programme | Did not exist | [A responsible-AI programme announced on 17 August 2026 under a newly created provincial AI cluster, run with the provincial economic development department, whose first summit at Cape Town on 25 August 2026 covered AI policy, governance, infrastructure investment and sovereign AI; it was convened after the national department withdrew the draft national AI policy](https://www.citizen.co.za/lifestyle/technology/cape-town-host-activate-sa-summit-ai-policy-reset-puts-spotlight-governance/) | Advanced |
-| Customer-facing AI assistant at a major bank | Baseline not held | [An agentic artificial-intelligence chatbot handling over 100,000 queries a month from about 1.6 million users in the first half of 2026, alongside 30,000 employees a month on a vendor productivity assistant, more than 3,800 staff-built automation agents in production and over 1,400 developers on AI-assisted coding tools](https://www.itweb.co.za/article/absas-ai-chatbot-reaches-16m-users/JBwErvn3WQd76Db2) | ***Baseline not held*** |
-| Enterprise AI adoption at a major bank | Not held | [More than 39,000 staff, 72% of the workforce, reported as active generative-artificial-intelligence users on a multi-model enterprise platform hosted on a foreign cloud provider, with relationship management, servicing, payments and lending named as the four priority areas](https://www.itweb.co.za/article/standard-bank-transitions-to-ai-enabled-organisation/8OKdWMDXxw2MbznQ) | ***Baseline not held*** |
-| Machine-learning screening of travellers for fraud | ***Baseline not held*** | [Stated intention to screen travellers for fraud using machine learning; no system, procurement, legal basis, accuracy measure or appeal route is published](https://techcabal.com/2026/08/11/south-africa-machine-learning-border-checks/) | ***Baseline not held*** |
-| SARS Modernisation 3.0 | ***Baseline not held*** | In development (2026-07-23) | ***Baseline not held*** |
-
 ## Sudan
 
 | System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
@@ -479,9 +249,11 @@ record: ab397a096002
 
 ## Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-26 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-27 | Movement |
 |---|---|---|---|
 | Africa AI Council | Did not exist | [Established under a board of 42 heads of state with the AU Commissioner for Energy and Infrastructure and the ITU Secretary-General; no work programme or output held in the nine months since](https://smartafrica.org/the-smart-africas-board-unveils-the-inaugural-africa-ai-council-to-lead-the-continents-ai-transformation/) | Advanced |
+| Free student access to a commercial assistant | Did not exist | [A technology company offered African students one year of its paid artificial-intelligence assistant tier at no charge, pitched at study materials, assignments and planning](https://blog.google/intl/en-africa/one-year-of-gemini-on-us-for-students/) | Advanced |
+| Fund departmental paper on artificial intelligence in the region | Did not exist | [A departmental paper on the potential of artificial intelligence across sub-Saharan Africa, held in full as published](https://www.elibrary.imf.org/view/journals/087/2026/013/article-A001-en.xml) | Advanced |
 | Pan-African AI governance research and advocacy project | Did not exist | [A four-year research and advocacy project on pan-African AI governance, funded at EUR 1,873,314 and running 2026 to 2030, implemented by a consortium of a German university media research centre and three civil-society organisations; the position it argues from is common principles through continental institutions rather than 54 national AI regimes, covering data governance, AI ethics, procurement standards, regulatory sandboxes, cross-border research and capacity-building](https://mediarightsagenda.org/africa-must-strive-to-shape-global-ai-agenda-says-mras-executive-director-by-idowu-adewale-communications-officer/) | Advanced |
 | Africa AI Fund | Announced in April 2025 at US$60bn, alongside the Africa AI Declaration, with nothing capitalised | [Still cited as one pillar of the continental AI architecture; no capitalisation, governance structure or disbursement held](https://restofworld.org/2026/africa-ai-sovereignty-big-tech/) | No change |
 | AU Continental AI Strategy | Adopted 2024-07-19 as the continental reference for national AI policy, on an implementation timeframe running 2025 to 2030 | [Unchanged in text, and the reference the Commission carried into global forums; ministers meeting at the ECA called for its translation into national frameworks. The instrument's own timetable runs Phase I across 2025-2026, a midterm review in 2027 and Phase II from 2028](https://au.int/sites/default/files/documents/44004-doc-EN-_Continental_AI_Strategy_July_2024.pdf) | No change |
@@ -498,7 +270,7 @@ record: ab397a096002
 
 ## West Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-26 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-27 | Movement |
 |---|---|---|---|
 | ECOWAS Regional AI Governance Framework | Did not exist | [Resolved to be developed, citing algorithmic bias, labour displacement and information disorder; no draft, drafting body or date held in the six months since; a four-country comparative study presented on 2026-08-10 found none of Benin, Senegal, Cote d'Ivoire or Burkina Faso holds AI-specific legislation in force or in draft, rating Cote d'Ivoire's strategy the most advanced of the four on inclusion and data governance and finding Burkina Faso's data-protection law the only one to name AI-based processing](https://grain-africa.org/en/intelligence-artificielle-en-afrique-de-louest-grain-presente-les-resultats-dune-etude-comparative-pour-une-gouvernance-plus-inclusive-et-responsable-de-lia/) | Advanced, marginal |
 | Francophone West African AI governance guidelines | Did not exist | [Adopted by Benin, Burkina Faso, Cote d'Ivoire, Guinea, Mali and Senegal; advisory, complementing national strategies rather than replacing them](https://www.wearetech.africa/en/fils-uk/news/tech/six-francophone-west-african-countries-unite-on-ai-governance-framework) | Advanced |

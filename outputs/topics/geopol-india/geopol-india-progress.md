@@ -1,61 +1,25 @@
 ---
 title: India activities — progress report, 2025-08-01 to 2026-08-26
-compiled: 2026-08-26
+compiled: 2026-08-27
 period: 2025-08-01 to 2026-08-26
 subject: geopol.india
-places: AGO; BDI; TCD; CIV; EGY; ETH; KEN; LSO; LBY; MOZ; NAM; RWA; ZMB
-record: fc7d9e2e49f5
+places: TCD; LSO; LBY; MOZ; NAM; RWA; ZMB
+record: d313ff5c10fe
 ---
 
 # India activities: progress report, 2025-08-01 to 2026-08-26
 
-*13 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
+*7 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
 *The place reports do not share one window; the period above is the range they span.*
-
-## Angola
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
-|---|---|---|---|
-| India credit line | A US$200m defence credit line, with digital public infrastructure, space technology and capacity building a separate pledge carrying no money | [Unchanged; no contract, vendor or engagement on record, confirmed at a reconcile pass in July 2026](https://www.pmindia.gov.in/en/news_updates/press-statement-by-pm-during-the-joint-press-statement-with-the-president-of-angola/) | No change |
-
-## Burundi
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| India Stack cooperation | Did not exist | [In talks; nothing signed](https://www.wearetech.africa/en/fils-uk/news/tech/burundi-studies-india-stack-for-digital-identity-and-payment-reforms) | Advanced |
 
 ## Chad
 
 | System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
 |---|---|---|---|
 | Indian digital partnership | Talks only, with no memorandum | [Still no memorandum or instrument on file](https://www.wearetech.africa/fr/fils/actualites/gestion-publique/le-tchad-explore-un-partenariat-avec-l-inde-dans-le-numerique) | No change |
-
-## Cote d'Ivoire
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
-|---|---|---|---|
-| Technology park | Special economic zone operating since 2004 across more than 600 hectares, seeking US$311m for its plan to 2028, with an Indian export-credit bank the original infrastructure lender | [Same targets, with the raise not established as secured and no Indian commitment reported since; the state portfolio report puts the zone at a first 180-hectare tranche of earthworks, roads and utilities complete, a business hotel built and about ten firms housed, and records the operating company among the digital holdings whose results fell in 2023](https://www.wearetech.africa/en/fils-uk/news/tech/cote-d-ivoire-vitib-seeks-311-mln-to-accelerate-its-development) | No change |
-
-## Egypt
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
-|---|---|---|---|
-| India-Egypt technology cooperation | The base held no source at all on India-Egypt technology cooperation at 2025-08-01 | [The two industry ministers agreed a joint study of priority sectors for industrial and investment integration, to be prepared by Egyptian authorities with Invest India and covering market needs, value chains, joint manufacturing, incentives and tariff and non-tariff barriers, with financial technology among the named priority sectors; they discussed linking the two countries' payment systems and settling bilateral trade in local currencies, and Egypt proposed an Egyptian-Indian industrial integration platform matching companies on joint production, component exchange and supplier development](https://sis.gov.eg/en/media-center/news/industry-minister-announces-egypt-s-plans-to-launch-egyptian-indian-industrial-integration-platform/) | ***Baseline not held*** |
-
-## Ethiopia
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
-|---|---|---|---|
-| RailTel data-centre build | Did not exist | [Planned](https://railtel.in/images/pdf/Press%20Release_RailTel%20to%20build%20Data%20Centre%20in%20Ethiopia.pdf) | Advanced |
-
-## Kenya
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
-|---|---|---|---|
-| Kenya-India-Italy sovereign AI partnership | Did not exist | [Targets 100 AI-deployment programmes by 2030 on multilingual low-bandwidth voice AI](https://www.ecofinagency.com/kenya-india-and-italy-launch-trilateral-sovereign-ai-partnership/) | Advanced |
 
 ## Lesotho
 

@@ -1,15 +1,15 @@
 ---
 title: Innovation ecosystem — monthly update, July 2026
-compiled: 2026-08-26
-period: 2026-07-01 to 2026-08-26
+compiled: 2026-08-27
+period: 2026-07-01 to 2026-08-27
 subject: tech.innovate
-places: DZA; BDI; CPV; CIV; DJI; COD; EGY; ERI; SWZ; GAB; GMB; GHA; KEN; LSO; LBR; MLI; NER; NGA; RWA; SEN; SOM; TUN; UGA; ZMB
-record: 93aeab960cf9
+places: DZA; BDI; CMR; CPV; CIV; DJI; COD; EGY; ERI; SWZ; GAB; GMB; GHA; KEN; LSO; LBR; MLI; NER; NGA; RWA; SEN; SOM; ZAF; TUN; UGA; ZMB
+record: ba4fb25c3db0
 ---
 
 # Innovation ecosystem: monthly update, July 2026
 
-*24 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*26 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -20,6 +20,10 @@ The student start-up conversion scheme reports [673 start-ups, 3,949 patents and
 ## Burundi
 
 The workshop's resource-governance session named the [MineGuard mining-intelligence platform](https://en.irisnews.org/in-burundi-a-quiet-reckoning-with-the-age-of-ai/), and AfriPrompt was the other local build named — two builds with no funding, user base or public deployment on file.
+
+## Cameroon
+
+A domestically built platform for creating online shops was [profiled on 26 August](https://www.wearetech.africa/fr/fils/tech-stars/le-camerounais-tamko-clarence-automatise-la-creation-de-boutiques-en-ligne), co-founded by a Cameroonian software engineer and pitched at widening access to digital markets for regional traders. No user, merchant, transaction or revenue figure is published, and the account is a founder profile in a trade outlet rather than a company disclosure.
 
 ## Cape Verde
 
@@ -105,6 +109,12 @@ On 14 July the transit and telecommunications operators [signed a partnership fo
 The National Communications Authority [signed a memorandum of understanding with iRise Hub on 30 July](https://techreviewafrica.com/news/6182/somalias-nca-signs-partnership-agreement-with-irise-hub) covering innovation, entrepreneurship, digital skills, cybersecurity, research and public engagement. No figure, term or named deliverable appears in it, and no party is identified as funding any of it. What it does establish is a direction for the regulator itself, whose statutory work is licensing and spectrum.
 
 A national startup network was [launched at the innovation forum in Mogadishu on 22 July](https://techafricanews.com/2026/07/22/somalia-launchs-national-startup-network-to-boost-innovation-and-entrepreneurship/), connecting startups to incubators, chambers of commerce and government agencies. It runs under a project funded by the European Union and implemented by UNIDO, which [reports 3,600 applications across three cohorts, about 500 entrepreneurs through foundational training and more than 200 startups incubated, against a stated backdrop of about 500,000 young people entering the labour market each year for about 80,000 new jobs](https://techafricanews.com/2026/07/22/somalia-launchs-national-startup-network-to-boost-innovation-and-entrepreneurship/). The same account states that intellectual-property legislation is being developed; no bill, text or timeline is on file.
+
+## South Africa
+
+The month's addition is a standing one. The small business department's [network of incubation and digital hubs](http://www.dsbd.gov.za/article/incubation-and-digital-hubs) is now on the record, which matters because the two centres opened earlier in the year — a continental digital transformation centre established with the International Telecommunication Union, and an industry and technology centre hosted by a university — both sit on top of an existing state hub estate that the base had never described.
+
+No hub count, spend or enterprise figure is published for any of the three, so the estate is established and its output is not. Both openings fall outside this month and are carried in the progress report.
 
 ## Tunisia
 

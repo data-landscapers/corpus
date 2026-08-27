@@ -1,19 +1,23 @@
 ---
 title: India activities — monthly update, July 2026
-compiled: 2026-08-26
-period: 2026-07-01 to 2026-08-26
+compiled: 2026-08-27
+period: 2026-07-01 to 2026-08-27
 subject: geopol.india
-places: EGY; NAM
-record: d0f4c3fd1302
+places: EGY; MAR; NAM
+record: a615e0a2e095
 ---
 
 # India activities: monthly update, July 2026
 
-*2 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*3 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 ## Egypt
 
 The two industry ministers [agreed a joint study of priority sectors for industrial and investment integration](https://sis.gov.eg/en/media-center/news/industry-minister-announces-egypt-s-plans-to-launch-egyptian-indian-industrial-integration-platform/) at Jaipur, with financial technology among them, and discussed linking the two countries' payment systems and settling bilateral trade in local currencies. The linkage is under discussion only: no central bank, operator or payment rail is named on either side, and no instrument, value or date is given.
+
+## Morocco
+
+The country is [turning to India to develop artificial intelligence adapted to its national languages](https://www.wearetech.africa/fr/fils/actualites/tech/le-maroc-se-tourne-vers-l-inde-pour-developper-une-ia-adaptee-aux-langues-nationales). What is held is a stated direction and nothing more: no instrument, no partner institution, no language list, no budget and no timetable appear in the account. The row is minted because it opens a bilateral relationship this ledger did not previously record, not because anything has yet been agreed.
 
 ## Namibia
 

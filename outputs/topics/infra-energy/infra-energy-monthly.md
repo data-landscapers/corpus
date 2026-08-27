@@ -1,15 +1,15 @@
 ---
 title: Energy — monthly update, July 2026
-compiled: 2026-08-26
-period: 2026-07-01 to 2026-08-26
+compiled: 2026-08-27
+period: 2026-07-01 to 2026-08-27
 subject: infra.energy
-places: BWA; BDI; DJI; ETH; GAB; GHA; KEN; MWI; MUS; MOZ; SLE; UGA; ZWE
-record: ed17bc47fee1
+places: BWA; BDI; DJI; ETH; GAB; GHA; KEN; MWI; MUS; MOZ; SLE; ZAF; UGA; ZWE
+record: 37a7c2149878
 ---
 
 # Energy: monthly update, July 2026
 
-*13 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*14 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -56,6 +56,12 @@ The same data centre draws on grid, photovoltaic and generator supply ([inaugura
 ## Sierra Leone
 
 The constraint under everything else eased slightly. A World Bank-funded [40MW solar-plus-storage project at Lungi and Newton became fully operational, commissioned in July 2026 and projected to raise the electricity access rate toward 36%](https://www.connectingafrica.com/investment/sierra-leone-s-new-40mw-solar-project-to-ease-blackouts) and to ease the outages that interrupt telecommunications and digital services. The access projection is the project's own; no generation outturn, grid-availability series or measured effect on network uptime is held, so the connection between the plant and the services it is said to protect is asserted rather than shown.
+
+## South Africa
+
+The grid had its best month on the utility's own reporting in six years. Eskom [put the energy availability factor at 67.55%, its highest in six years, with unplanned outages down 44.5% year on year, about 1.2 million customers removed from load reduction and 505,607 smart meters installed](https://www.eskom.co.za/energy-availability-factor-at-highest-level-in-six-years-reaching-67-55-unplanned-outages-nearly-halved-year-on-year-and-customers-impacted-by-load-reduction-reduced-to-6-8-and-the-eastern-cape-beco/), the Eastern Cape becoming the seventh province removed from load reduction. These are the utility's figures and no regulator or system-operator confirmation accompanies them.
+
+It closes a build programme rather than opening one: the last unit of the two flagship stations [entered commercial operation in September 2025, adding 800 MW](https://www.eskom.co.za/kusile-unit-6-achieves-commercial-operation-unlocking-full-9600mw-capacity-across-eskoms-flagship-stations/). What the month does not settle is adequacy after 2029, which the system operator's own assessment identifies as the risk and which is carried in the progress report rather than here.
 
 ## Uganda
 

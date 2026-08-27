@@ -1,51 +1,19 @@
 ---
-title: Public debate and participation in policymaking — progress report, 2025-08-01 to 2026-08-26
-compiled: 2026-08-26
-period: 2025-08-01 to 2026-08-26
+title: Public debate and participation in policymaking — progress report, 2025-08-01 to 2026-08-27
+compiled: 2026-08-27
+period: 2025-08-01 to 2026-08-27
 subject: gov.discourse
-places: BEN; BFA; BDI; CMR; CAF; TCD; COM; CIV; COD; EGY; SWZ; ETH; GAB; GHA; KEN; LSO; LBR; MLI; MUS; MAR; NAM; NER; NGA; RWA; STP; SEN; SYC; ZAF; TZA; TGO; UGA; ZMB; ZWE; XWA
-record: a28cdc220f16
+places: TCD; SWZ; LSO; MLI; MUS; MAR; NAM; NER; NGA; RWA; STP; SEN; SYC; TZA; TGO; UGA; ZMB; ZWE; XWA
+record: 5b50e025fd9c
 ---
 
-# Public debate and participation in policymaking: progress report, 2025-08-01 to 2026-08-26
+# Public debate and participation in policymaking: progress report, 2025-08-01 to 2026-08-27
 
-*34 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
+*19 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
 *The place reports do not share one window; the period above is the range they span.*
-
-## Benin
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| Internet freedom ranking | ***Baseline not held*** | [4th in Africa on a 2026 internet-freedom assessment](https://fraternite.bj/liberte-internet-en-afrique-le-benin-dans-le-top-5-du-classement-2026/) | ***Baseline not held*** |
-
-## Burkina Faso
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
-|---|---|---|---|
-| Broadcasting regulator | A standalone regulator of public communication exercising new social-media powers over users with 5,000 or more followers | [Its regulation of public communication passes to the merged authority, putting broadcast-content regulation and data-protection supervision under one college](https://www.sidwaya.info/surete-aerienne-et-protection-des-donnees-a-caractere-personnel-lassemblee-legislative-du-peuple-adopte-les-projets-de-lois/) | Closed, subject to promulgation |
-| Organic law on social-media regulation | Extends regulatory powers to social-media users with at least 5,000 followers, with operationalisation started in 2024 | [Same; no held source records any change, and the enforcing body is folded into the merged authority](https://burkina24.com/2025/02/11/droits-numeriques-au-burkina-faso-le-centre-national-de-presse-norbert-zongo-presente-son-rapport-2024/) | No change |
-
-## Burundi
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| Etats generaux de la communication | Did not exist | [Proposed; no response from government or operators on file](https://www.sosmediasburundi.org/2026/07/31/telecoms-en-crise-au-burundi-labuco-denonce-linaction-des-autorites-face-a-la-degradation-des-services/) | Advanced |
-
-## Cameroon
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
-|---|---|---|---|
-| Election-period network restrictions | No restriction recorded in the base for the year to 2025-08 | [Four shutdowns recorded in Cameroon in 2025, including election-period restrictions on social platforms](https://www.accessnow.org/internet-shutdowns-2025/) | Regressed |
-| National Internet Governance Forum | Not held | [Held at Yaoundé from 18 to 20 August 2026 on the theme of moving from fragmentation to interoperability, positioning data as the foundation for interoperable digital public infrastructure; no national data-governance framework exists on the record for it to build on](https://www.237online.com/gouvernance-internet-forum-yaounde/) | ***Baseline not held*** |
-
-## Central African Republic
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| Regulator request for tighter identification and platform account closures | Did not exist | [Requests for better control of subscriber identification to limit anonymous accounts, activation of international judicial cooperation against content produced abroad, and cooperation with international platforms on reporting and closing accounts; no instrument adopted](https://centranews.org/centrafrique-le-hcc-denonce-lusage-abusif-de-lintelligence-artificielle-pour-la-desinformation/) | Advanced |
 
 ## Chad
 
@@ -55,62 +23,11 @@ record: a28cdc220f16
 | Internet shutdown in Lac province | Offline since 2024-10-28, with no restoration recorded | [No restoration, extension or official justification on record, and the base carries nothing on it inside the window](https://lendjampost.com/coupure-dinternet-dans-le-lac-internet-society-tchad-tire-la-sonnette-dalarme/) | No change |
 | Media regulator's three-year strategic plan for 2026-2028 | Not held | [In application, with the plan itself, its axes in full and its publication date not held](https://www.lepaystchad.com/tchad-la-hama-suspend-lexamen-des-demandes-de-creation-des-journaux-en-ligne/) | ***Baseline not held*** |
 
-## Comoros
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
-|---|---|---|---|
-| Code de l'information et de la communication, as amended | The 2021 statute in force unamended, at 292 articles | [Amended - twenty-five articles amended and eighteen deleted, with the government's proposed exception to source protection struck on the floor, so source protection is now unqualified](https://alwatwan.net/economie/assembl%C3%A9e-de-l%E2%80%99union-i-le-projet-de-loi-de-finances-2026-adopt%C3%A9-%C3%A0-l%E2%80%99unanimit%C3%A9.html) | Advanced |
-
-## Cote d'Ivoire
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
-|---|---|---|---|
-| Consumer grievance platform | Did not exist | [Live application and web platform at FCFA 150 per report, with eight stages from filing through mediation to published reports and sectoral dashboards](https://news.abidjan.net/articles/748737/cote-divoire-lunion-federale-des-consommateurs-lance-my-signal-une-plateforme-numerique-pour-renforcer-la-protection-des-consommateurs) | Advanced |
-| Online gendered violence against election candidates | Baseline not held | [Documented as cyclical across successive elections in a two-country civil-society study, with no state measurement held against it](https://pollicy.org/resource/the-cost-of-candidacy-cyclical-online-gendered-violence-across-elections-in-tanzania-and-cote-divoire/) | ***Baseline not held*** |
-
-## DR Congo
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
-|---|---|---|---|
-| Permanent state-industry consultation framework for the digital sector | Did not exist | [Agreed as a standing mechanism between the ministry and the Reseau des acteurs du numerique after the dispute over the digital-sector tariff; no constituting text, membership or meeting schedule stated](https://acp.cd/economie/rdc-larrete-interministeriel-sur-la-fixation-des-taux-ne-concerne-nullement-les-startups-reseau-des-acteurs-du-numerique/) | Advanced |
-
-## Egypt
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
-|---|---|---|---|
-| Council of State digital transformation plan | The base carries no record that the administrative-justice branch had a digitisation programme | [The head of the Council of State told a meeting of administrative-court circuit presidents that the Council continues to implement an integrated digital transformation plan, developing its information infrastructure and adopting current technology to speed litigation; no named system, date, figure or deliverable is stated](https://www.youm7.com/story/2026/8/3/%D8%B1%D8%A6%D9%8A%D8%B3-%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9-%D9%8A%D8%AA%D8%A7%D8%A8%D8%B9-%D8%A7%D9%84%D9%82%D8%B6%D8%A7%D8%A1-%D8%A7%D9%84%D8%A5%D8%AF%D8%A7%D8%B1%D9%8A-%D9%88%D9%8A%D8%A4%D9%83%D8%AF-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%86%D8%A9-%D8%A3%D8%B3%D8%A7%D8%B3-%D8%A7%D9%84%D8%B9%D8%AF%D8%A7%D9%84%D8%A9/7501770) | ***Baseline not held*** |
-| VAT credit-refund period reduction | The base carries no earlier statement of the refund period or of the proposal | [A proposed cut of the credit-refund period to four months for taxpayers and three for small and medium enterprises is still awaiting its legislative steps; a tax association board member added that the reduction will not meet its objects unless the operational problems obstructing proof of balances are resolved first](https://www.alborsaanews.com/2026/07/29/1982823) | ***Baseline not held*** |
-
 ## Eswatini
 
 | System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
 |---|---|---|---|
 | Public account of the Google memorandum | Not on the record | [Established after a public contradiction between the prime minister and the Attorney-General](https://independentnews.co.sz/42282/business/former-minister-defends-google-mou-calls-for-calm-in-cabinet/) | Advanced |
-
-## Ethiopia
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
-|---|---|---|---|
-| Climate information integrity project | Did not exist | [A project on climate-change disinformation and information integrity in African digital ecosystems, focused on Uganda and Ethiopia and supported by a UNESCO-led global initiative, combining research mapping how climate disinformation spreads and who drives it with a fact-checking masterclass at the 2026 internet-freedom forum, online training for journalists and civil society, and tracking of African governments' communications ahead of the November 2026 climate conference](https://cipesa.org/2026/08/cipesa-and-unesco-partner-on-project-to-strengthen-climate-change-information-integrity-in-africa/) | Advanced |
-
-## Gabon
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
-|---|---|---|---|
-| Haute Autorite de la Communication decision n 0002/HAC/2026 suspending social media | No social-media suspension on the record | [In force about five months; the Presidency calls it temporary and conservatory, and nine civil-society organisations call it unconstitutional and beyond the authority's remit and demand abrogation](https://www.gabonreview.com/gabon-cinq-mois-de-silence-numerique-quand-le-remede-devient-le-poison/) | Regressed |
-| Regulator tripartite dialogue forum | Did not exist | [A standing dialogue space established by the electronic communications and posts regulator, bringing consumers into telecommunications regulation alongside the regulator and operators](https://www.union.sonapresse.com/index.php/fr/telecommunications-larcep-instaure-un-dialogue-tripartite) | Advanced |
-
-## Ghana
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
-|---|---|---|---|
-| Citizens reporting demands for unofficial payments | 51% of citizens reporting demands (first half of 2025) | [69% of citizens reporting demands (second half of 2025); the statistical service names digitalisation, fee transparency and public education as its response, citing a marked fall in bribery at the passport office after digitisation, and says the Office of the Chief of Staff has directed the ten institutions its series flagged as high-risk to report back on remediation](https://asaaseradio.com/gss-calls-for-digitalisation-fee-transparency-to-curb-rising-bribe-demands/) | Regressed |
-
-## Kenya
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
-|---|---|---|---|
-| Allegations over the election results-transmission procurement | Did not exist | [A former deputy president told reporters on 24 August 2026 that the electoral commission's results-transmission contract specifications were tailor-made for a single South Korean bidder, that every other competitor has gone to the procurement appeals board, and that the firm has failed at every election it has taken part in](https://nation.africa/kenya/news/politics/gachagua-iebc-election-tech-deal-tailor-made-for-korean-firm-5569838) | Advanced |
 
 ## Lesotho
 
@@ -118,14 +35,6 @@ record: a28cdc220f16
 |---|---|---|---|
 | Allegation of interference in regulator appointments | Did not exist | [The outgoing chief licensing officer at the communications authority accused the government of political interference in the regulator's senior appointments, alleging at a media briefing reported on 22 August 2026 that the communications minister pressed the board to re-advertise his post rather than renew the five-year contract that expired on 31 May 2026, and that the universal service fund's executive secretary was removed in the same way; the minister said she has no role in recruiting the authority's managers, and the authority declined to comment](https://lestimes.com/?p=91342) | Advanced |
 | Public digital services experience survey | ***Baseline not held*** | [Open to citizens, covering access, usability, trust and skills gaps across online applications, digital payments and health and education platforms, as part of a donor-backed digital readiness assessment](https://selibeng.com/invitation-to-participate-in-the-public-digital-services-experience-survey/) | ***Baseline not held*** |
-
-## Liberia
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
-|---|---|---|---|
-| Anti-Corruption Commission complaint against the LTA | Did not exist | [Under investigation, with no evidence publicly produced and no findings made (2026-07)](https://www.liberianobserver.com/news/lacc-weighs-investigation-into-lta/article_86dd65ff-724e-4440-a664-728654ea9668.html) | Advanced |
-| Police connectivity and vehicle procurement statement | Did not exist | [The national police said on 21 August 2026 that none of its facilities use satellite internet and that its connectivity is supplied by the state operator under an official institutional contract; it confirmed that it bought used operational vehicles from a US firm, and said its institutional records do not support claims linking either arrangement to individuals in the country's narcotics investigation](https://frontpageafricaonline.com/liberia-lnp-denies-starlink-use-clarifies-vehicle-procurement-amid-public-questions/) | Advanced |
-| U-Report youth feedback platform | Not held | [Relaunched by UNICEF and UNFPA with support from the Irish embassy under a joint programme with the government, giving young people an encrypted SMS channel on one operator's network to answer polls on health, water and sanitation and other social issues, with responses analysable by county and a target of at least 8,000 reporters](https://www.thenewdawnliberia.com/unicef-unfpa-relaunch-u-report/) | ***Baseline not held*** |
 
 ## Mali
 
@@ -191,12 +100,6 @@ record: a28cdc220f16
 | Appointment and dismissal power over the SBC board | Vested in the independent Constitutional Appointments Authority | [Greater powers over the appointment and dismissal of the public broadcaster's board transferred to the President by a June 2026 amendment to the SBC Act](https://www.afrobarometer.org/publication/ad1219-seychellois-endorse-medias-oversight-role-but-many-doubt-that-it-is-truly-free/) | Regressed |
 | Perceived media freedom | 51% said the media was somewhat or completely free (2022) | [45% say the media is somewhat or completely free and 52% say it is not very or not at all free (2025 survey), against 78% who want the media to investigate government mistakes and corruption and 85% who back the right to publish without government interference](https://www.afrobarometer.org/publication/ad1219-seychellois-endorse-medias-oversight-role-but-many-doubt-that-it-is-truly-free/) | Regressed |
 
-## South Africa
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
-|---|---|---|---|
-| Policy brief on information integrity and human rights | ***Baseline not held*** | [Published by the rights commission, and launched with a deputy justice minister's statement that government should not become the custodian of truth on disinformation while the information environment should not be left to private platforms' algorithms, grounded in sections 16, 19 and 32 of the Constitution](https://www.justice.gov.za/m_speeches/2026/20260819-SAHRC-Online-Stakeholder-Engagement-DMin.html) | ***Baseline not held*** |
-
 ## Tanzania
 
 | System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
@@ -236,6 +139,6 @@ record: a28cdc220f16
 
 ## West Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-26 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-27 | Movement |
 |---|---|---|---|
 | Regional Feminist Data Agenda 2026-2028 | Did not exist | [Ratified with three priorities for 2026-2028, each carrying a named owner, alongside eight thematic policy briefs and a cross-border encrypted data collective with rapid-response protocols; no text is published](https://rflgd.org/2026/08/02/thanks-to-sida-l-west-africa-feminist-data-summit-2026-%c2%b7-one-hundred-delegates-%c2%b7-twenty-one-countries/) | Advanced |

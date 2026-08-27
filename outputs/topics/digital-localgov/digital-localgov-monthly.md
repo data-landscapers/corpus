@@ -1,15 +1,15 @@
 ---
 title: Digitalisation of sub-national government — monthly update, July 2026
-compiled: 2026-08-26
-period: 2026-07-01 to 2026-08-26
+compiled: 2026-08-27
+period: 2026-07-01 to 2026-08-27
 subject: digital.localgov
-places: BFA; CMR; COD; EGY; SWZ; ETH; GAB; GHA; GIN; MWI; MLI; NAM; NGA; SOM; TZA; TGO; ZMB; ZWE
-record: 988258c29e9a
+places: BFA; CMR; COD; EGY; SWZ; ETH; GAB; GHA; GIN; MWI; MLI; NAM; NGA; SOM; ZAF; TZA; TGO; ZMB; ZWE
+record: 93f396ffde28
 ---
 
 # Digitalisation of sub-national government: monthly update, July 2026
 
-*18 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*19 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -75,6 +75,12 @@ Anambra began the second phase of its own state strategy, [expanding its OneGov 
 ## Somalia
 
 Hirshabelle put [tariff-loaded card terminals at its border checkpoints, reported 25 July](https://www.dawan.africa/news/hirshabelles-digital-fix-for-somalias-oldest-tax-problem). The device holds the tariff schedule: an officer enters vehicle type, origin and category, the terminal returns the amount due, payment moves over mobile money into the government account with no merchant in between, and a QR-coded receipt posts to a central system in real time. It replaces paper vouchers carried up to 90km and hand-keyed, on a reconciliation cycle the state's finance minister puts at 30 to 45 days. [Collections at equipped posts are reported up 668.94% in the first quarter of 2026 against 2020, a figure that comes only from the rollout's backers](https://www.dawan.africa/news/hirshabelles-digital-fix-for-somalias-oldest-tax-problem).
+
+## South Africa
+
+Nothing moved at a municipality this month. What the record gained is the rule the municipal programmes are obliged to work to: the national archives' [standing guidance on managing electronic records](https://www.nationalarchives.gov.za/node/1225) is now held, having been cited by none of the digitisation programmes this ledger tracks.
+
+That is an addition to the record rather than a development. No compliance assessment against the guidance appears for any municipality, and the two metro programmes on this ledger — a records digitisation rollout reported to the National Council of Provinces and an electronic records system awarded on a three-year term — both predate this window and are carried in the progress report.
 
 ## Tanzania
 

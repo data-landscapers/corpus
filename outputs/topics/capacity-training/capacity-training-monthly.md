@@ -1,17 +1,21 @@
 ---
 title: Training and skills — monthly update, July 2026
-compiled: 2026-08-26
-period: 2026-07-01 to 2026-08-26
+compiled: 2026-08-27
+period: 2026-07-01 to 2026-08-27
 subject: capacity.training
-places: BEN; BWA; BFA; BDI; CMR; COM; COG; CIV; COD; EGY; SWZ; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; TZA; TUN; UGA; ZMB; ZWE
-record: 820ecd13e688
+places: AGO; BEN; BWA; BFA; BDI; CMR; COM; COG; CIV; DJI; COD; EGY; SWZ; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; TZA; TUN; UGA; ZMB; ZWE
+record: 77dc61af48c6
 ---
 
 # Training and skills: monthly update, July 2026
 
-*39 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*41 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
+
+## Angola
+
+A new technology centre [entered service in August](https://www.opais.ao/politica/soberania-digital-e-aposta-na-formacao-de-jovens-reforcadas-com-a-entrada-em-funcionamento-de-novo-centro-tecnologico/), framed by the ministry around protecting citizens' data and training young people. No intake, curriculum, cost or site detail is published, and the data-protection framing is the ministry's rather than a stated function of the centre.
 
 ## Benin
 
@@ -50,6 +54,10 @@ The national cybersecurity training plan is inside [that tender](https://fr.link
 The civil-service digital-skills programme [closed its thirteenth edition on 29 July](https://www.fratmat.info/article/2642807/societe/forum-intech-sante-2026-lansut-presente-sa-feuille-de-route-pour-connecter-les-zones-rurales-et-moderniser-lacces-aux-soins), training 192 officials from about thirty public bodies over 40 days, against a cumulative claim of more than 37,500 civil servants funded from the ministry's own budget line.
 
 Outside the service, a German-funded accelerator closed a three-month cohort on 4 August, [closing with 51 artificial-intelligence projects across finance, health, law, education and cybersecurity](https://startupmedias.africa/articles/tech-talent-accelerator-51-projets-intelligence-artificielle-cote-divoire). The project count is the only measure published: participant numbers, cost and what becomes of the projects after the demonstration day are not stated, and a project shown at one is not a deployed system.
+
+## Djibouti
+
+Against unemployment, the state is [using digital channels to connect graduates with recruiters](https://www.wearetech.africa/fr/fils/actualites/tech/face-au-chomage-djibouti-mise-sur-le-numerique-pour-connecter-diplomes-et-recruteurs). The account names no platform, no registration count and no placement figure, so what is held is a stated direction rather than a measurable one. It is read here alongside the [spring economic monitor](https://documents1.worldbank.org/curated/en/099209305122650698/pdf/IDU-3d483253-60ba-4a4c-b634-fc8f02408c05.pdf), whose school-to-work analysis is the closest thing the base holds to a measure of the problem the initiative is written against.
 
 ## DR Congo
 

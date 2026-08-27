@@ -1,15 +1,15 @@
 ---
 title: National statistics — monthly update, July 2026
-compiled: 2026-08-26
-period: 2026-07-01 to 2026-08-26
+compiled: 2026-08-27
+period: 2026-07-01 to 2026-08-27
 subject: data.statistics
-places: AGO; BEN; BWA; CMR; CPV; CAF; TCD; COM; COG; COD; EGY; GNQ; SWZ; GAB; GMB; GHA; GNB; LBY; MDG; MWI; MLI; MRT; MOZ; NAM; NER; NGA; SEN; SYC; SSD; TUN; UGA; ZWE
-record: aaababc1b093
+places: AGO; BEN; BWA; CMR; CPV; CAF; TCD; COM; COG; COD; EGY; GNQ; SWZ; GAB; GMB; GHA; GNB; LBY; MDG; MWI; MLI; MRT; MOZ; NAM; NER; NGA; SEN; SYC; ZAF; SSD; TUN; UGA; ZWE
+record: 120abd2807a6
 ---
 
 # National statistics: monthly update, July 2026
 
-*32 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*33 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -130,6 +130,12 @@ The statistics agency [hosted the first peer exchange of an inclusive-data initi
 ## Seychelles
 
 The statistical work of the window is climate data with a funding line behind it. Seychelles [launched its national implementation of a nine-country African island-states resilience programme, backed by a US$4.943 million readiness grant, whose data leg is a standardised approach to institutional readiness, multi-hazard risk assessment and information systems](https://www.uneca.org/eca-events/national-launch-resislands-initiative-republic-seychelles), the stated purpose being to build pipelines of climate-resilient projects able to reach international finance. The grant figure covers all nine countries; the national share is not published, so the base can date the launch and not size it.
+
+## South Africa
+
+A statistical series came back after five years. Statistics South Africa [restored its monthly insolvencies series, interrupted since the 2021 cyber incident at the Department of Justice cut off the administrative supply, with a first release on 21 July covering June 2026 and a time series back to January 2023](https://www.statssa.gov.za/?p=19751). It is the clearest cost of a security failure this ledger holds: an official series lost because another department's systems went down, and recovered only now.
+
+The office also published [a frame update for the continuous population survey and household survey programme redesign](https://www.statssa.gov.za/?page_id=14209), the instrument intended to carry population statistics between censuses. No first release is named with it.
 
 ## South Sudan
 

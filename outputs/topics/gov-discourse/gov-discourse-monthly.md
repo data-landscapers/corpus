@@ -1,15 +1,15 @@
 ---
 title: Public debate and participation in policymaking — monthly update, July 2026
-compiled: 2026-08-26
-period: 2026-07-01 to 2026-08-26
+compiled: 2026-08-27
+period: 2026-07-01 to 2026-08-27
 subject: gov.discourse
-places: BEN; BFA; BDI; CMR; TCD; CIV; COD; EGY; ETH; GAB; GHA; GIN; KEN; LSO; LBR; MLI; MUS; MAR; NGA; RWA; STP; SEN; SYC; ZAF; TZA; TGO; UGA; ZMB
-record: 9d6dbfba0182
+places: BEN; BFA; BDI; CMR; TCD; CIV; COD; EGY; ETH; GAB; GHA; GIN; KEN; LSO; LBR; MLI; MUS; MAR; NGA; RWA; STP; SEN; SYC; SOM; ZAF; TZA; TGO; UGA; ZMB
+record: bbbbcd37779f
 ---
 
 # Public debate and participation in policymaking: monthly update, July 2026
 
-*28 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*29 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -47,7 +47,7 @@ Two administrative reforms are stated and neither is dated. The head of the Coun
 
 ## Ethiopia
 
-A project on [climate-change disinformation and information integrity in African digital ecosystems launched in August 2026, focused on Uganda and Ethiopia and supported by a UNESCO-led global initiative](https://cipesa.org/2026/08/cipesa-and-unesco-partner-on-project-to-strengthen-climate-change-information-integrity-in-africa/). It combines research mapping how climate disinformation spreads and who drives it with a fact-checking masterclass at the 2026 internet-freedom forum, online training for journalists and civil society, and tracking of African governments' communications ahead of the November 2026 climate conference. No budget or duration is stated.
+A project on [climate-change disinformation and information integrity across African digital environments launched in August 2026, focused on Uganda and Ethiopia and supported by a UNESCO-led global initiative](https://cipesa.org/2026/08/cipesa-and-unesco-partner-on-project-to-strengthen-climate-change-information-integrity-in-africa/). It combines research mapping how climate disinformation spreads and who drives it with a fact-checking masterclass at the 2026 internet-freedom forum, online training for journalists and civil society, and tracking of African governments' communications ahead of the November 2026 climate conference. No budget or duration is stated.
 
 ## Gabon
 
@@ -112,6 +112,10 @@ A ministry legal adviser stated that the state has [worked on social-media regul
 [Parliament amended the Seychelles Broadcasting Corporation Act in June 2026](https://www.afrobarometer.org/publication/ad1219-seychellois-endorse-medias-oversight-role-but-many-doubt-that-it-is-truly-free/), transferring greater power over the appointment and dismissal of the public broadcaster's board from the independent Constitutional Appointments Authority to the President. The base holds no primary text of the amendment; what it holds is Afrobarometer's August dispatch, which reports it citing Broadcast Media Africa and the International Press Institute, and sets it against the survey it was publishing.
 
 That survey, fielded in 2025, finds [45% of Seychellois calling the media somewhat or completely free, down from 51% in 2022, with 52% saying it is not very or not at all free](https://www.afrobarometer.org/publication/ad1219-seychellois-endorse-medias-oversight-role-but-many-doubt-that-it-is-truly-free/) — a decline recorded on a media environment that Reporters Without Borders ranked 35th globally in 2026, up ten places. Appetite for oversight is not in doubt: [78% want the media to investigate government mistakes and corruption constantly, and 85% back the right to publish without government interference](https://www.afrobarometer.org/publication/ad1219-seychellois-endorse-medias-oversight-role-but-many-doubt-that-it-is-truly-free/).
+
+## Somalia
+
+A former prime minister published an argument that [the country cannot afford another term of lost wealth](https://www.dawan.africa/news/khaire-somalia-cannot-afford-another-term-of-lost-wealth-op-ed). It is a signed opinion on resource governance rather than a policy position, and it carries no digital component of its own. It is held because public argument of this kind is otherwise absent from this ledger, and the absence is itself the finding: a base that records instruments and no debate about them cannot show a reader where the pressure on those instruments comes from.
 
 ## South Africa
 

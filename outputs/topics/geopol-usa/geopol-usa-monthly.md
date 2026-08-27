@@ -1,15 +1,15 @@
 ---
 title: US / hyperscaler activities — monthly update, July 2026
-compiled: 2026-08-26
-period: 2026-07-01 to 2026-08-26
+compiled: 2026-08-27
+period: 2026-07-01 to 2026-08-27
 subject: geopol.usa
-places: CMR; CAF; TCD; CIV; SWZ; LSO; MUS; MOZ; NGA; SEN; UGA; ZMB; ZWE
-record: 94250a8e47a0
+places: CMR; CAF; TCD; CIV; SWZ; KEN; LSO; MUS; MOZ; NGA; SEN; UGA; ZMB; ZWE
+record: a1c51b2a69a8
 ---
 
 # US / hyperscaler activities: monthly update, July 2026
 
-*13 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*14 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -32,6 +32,10 @@ The United States announced on 16 July that a contractor had received [formal Iv
 ## Eswatini
 
 The [partnership with the cloud provider is operating and publicly acknowledged, with the government services application showcased at the provider's Africa summit](https://www.insidebiz.co.sz/eswatini-partners-with-google-to-drive-digital-transformation/). No value or term is published, so what the state has committed to, and for how long, is not established.
+
+## Kenya
+
+A delegation from a Korean university and development institute [came to Nairobi to evaluate the outcomes](https://www.itweb.africa/article/korea-backs-kenya-digital-economy/KA3WwMdzpwBvrydZ) of South Korea's development assistance to the digital economy. No findings, envelope or successor programme has been published, and the row sits under this heading because the base holds no separate slug for Korea.
 
 ## Lesotho
 

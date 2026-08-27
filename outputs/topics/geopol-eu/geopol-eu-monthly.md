@@ -1,15 +1,15 @@
 ---
 title: EU activities — monthly update, July 2026
-compiled: 2026-08-26
-period: 2026-07-01 to 2026-08-26
+compiled: 2026-08-27
+period: 2026-07-01 to 2026-08-27
 subject: geopol.eu
-places: COG; KEN; MLI; MAR; UGA
-record: 187f4e217df3
+places: COG; KEN; MLI; MAR; NGA; UGA
+record: 19719e025009
 ---
 
 # EU activities: monthly update, July 2026
 
-*5 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*6 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -28,6 +28,10 @@ There is [no dedicated European Union country programme for Mali for 2025 to 202
 ## Morocco
 
 Morocco holds [no European Union adequacy decision: the Commission's list names sixteen jurisdictions plus one international organisation, none of them in Africa](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en). Neither source establishing this is tagged to Morocco, and no Morocco-tagged governance source the base holds mentions the European Union at all.
+
+## Nigeria
+
+The European Union [committed EUR 820m to the digital sector](https://www.thisdaylive.com/2026/08/20/eu-commits-e820m-to-support-digital-ecosystem-lauds-nigerias-national-innovation-hub-standard-framework/) at the Abuja workshop that validated a national innovation hub standards framework, which would set one standard across the country's hubs. The envelope is stated at a workshop rather than in an instrument, the framework is validated rather than adopted, and neither carries a disbursement schedule or a hub count.
 
 ## Uganda
 

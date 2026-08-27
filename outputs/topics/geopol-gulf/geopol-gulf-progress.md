@@ -1,55 +1,19 @@
 ---
 title: Gulf/UAE activities — progress report, 2025-08-01 to 2026-08-26
-compiled: 2026-08-26
+compiled: 2026-08-27
 period: 2025-08-01 to 2026-08-26
 subject: geopol.gulf
-places: AGO; BWA; BFA; CAF; CIV; COD; SWZ; MLI; MRT; NAM; NER; SDN; UGA; ZWE
-record: f123ad9bb839
+places: SWZ; MLI; MRT; NAM; NER; SDN; UGA; ZWE
+record: bbf4ee53b491
 ---
 
 # Gulf/UAE activities: progress report, 2025-08-01 to 2026-08-26
 
-*14 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
+*8 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
 *The place reports do not share one window; the period above is the range they span.*
-
-## Angola
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
-|---|---|---|---|
-| Gulf digital memorandum | In force since December 2021, with the telecommunications ministry attributing the national cloud implementation project to it in February 2023 | [Unchanged; the agreed heads are a three-year digitalisation master plan, public-private-partnership and build-operate-transfer financing and youth digital skills, and no deliverable report, valuation or successor instrument has been published since 2023](https://minttics.gov.ao/ao/noticias/cloud-nacional-reforca-ecossistema-digital-do-pais/) | No change |
-
-## Botswana
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
-|---|---|---|---|
-| Kala Data heads of agreement | Heads of agreement in place with the UAE counterparty, site planning under way | [Unchanged; the UAE counterparty is not named in the operator's 2026-08-03 quarterly account](https://itweb.africa/article/botswanas-kala-data-centre-near-revenue-generating-stage/lwrKxv3YbjAMmg1o) | No change |
-
-## Burkina Faso
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
-|---|---|---|---|
-| Gulf digital memorandum | Did not exist | [A memorandum covering AI skills, digital infrastructure, electronic-government consolidation and cybersecurity, with no project, value, timetable or delivery reported since signature](https://www.connectingafrica.com/digital-inclusion/burkina-faso-uae-s-presight-partner-to-accelerate-digital-transformation) | Advanced |
-
-## Central African Republic
-
-| System or instrument | At 2025-08-01 | At 2026-08-25 | Movement |
-|---|---|---|---|
-| Digital finance and land-banking memorandum | Did not exist | [Signed, with no commitment figure, disbursement schedule, timetable or governance arrangement stated](https://www.journaldebangui.com/rca-bangui-renforce-son-partenariat-avec-les-emirats-arabes/) | Advanced |
-
-## Cote d'Ivoire
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
-|---|---|---|---|
-| Gulf AI memoranda | Two non-binding memoranda, one framework for public-administration reform and digitalisation and one for the next national digital strategy | [Unchanged; no work programme, deliverable, successor instrument or vendor presence on file as at 2026-08-05](https://www.wearetech.africa/en/fils-uk/news/tech/cote-d-ivoire-signs-ai-partnership-to-modernize-public-services) | No change |
-
-## DR Congo
-
-| System or instrument | At 2025-08-01 | At 2026-08-26 | Movement |
-|---|---|---|---|
-| Data-centre investment talks | Did not exist | [Exploratory talks with a proposed technical-specification working group; no memorandum, site, capacity or follow-up recorded six months on](https://www.ecofinagency.com/news-digital/0902-52708-drc-steps-up-talks-with-foreign-firms-to-develop-data-centers-and-digital-infrastructure) | Advanced |
 
 ## Eswatini
 
