@@ -17,17 +17,17 @@ document (`progress-report-redesign.md` §1) and are not in scope.
 ## Done
 
 ERI and ZAF were the pilots. This pass has since added, in order: **GNB, AGO, BDI, BEN, BFA, BWA,
-CAF, CIV, CMR, COD, COG, COM, CPV, DJI, DZA, EGY, ETH, GAB, GHA, GIN, GMB, GNQ** — 24 of 54, one commit each, all pushed.
+CAF, CIV, CMR, COD, COG, COM, CPV, DJI, DZA, EGY, ETH, GAB, GHA, GIN, GMB, GNQ, KEN** — 25 of 54, one commit each, all pushed.
 
 Yields so far, as a sense of shape: 21 indicators from GNB's 25 ledger rows, 43 from BDI's 74, 52
 from BWA's 107, 57 from BEN's 105, 64 from BFA's 131, 66 from AGO's 122, 43 from CAF's 92, 92 from
-CIV's 167, 73 from CMR's 121, 67 from COD's 123, 52 from COG's 103, 45 from COM's 117, 49 from CPV's 140, 43 from DJI's 70, 58 from DZA's 111, 66 from EGY's 199, 66 from ETH's 97, 58 from GAB's 120, 81 from GHA's 175, 59 from GIN's 109, 46 from GMB's 75, 42 from GNQ's 67. Between three quarters and nine tenths of ledger rows map; the rest are placeholders with
+CIV's 167, 73 from CMR's 121, 67 from COD's 123, 52 from COG's 103, 45 from COM's 117, 49 from CPV's 140, 43 from DJI's 70, 58 from DZA's 111, 66 from EGY's 199, 66 from ETH's 97, 58 from GAB's 120, 81 from GHA's 175, 59 from GIN's 109, 46 from GMB's 75, 42 from GNQ's 67, 93 from KEN's 219. Between three quarters and nine tenths of ledger rows map; the rest are placeholders with
 no source, or real instruments the frame has no question for (a telecoms statute, a broadcasting
 transition), and those correctly stay on the ledger and out of the report.
 
 ## Remaining
 
-30 country units: KEN, LBR, LBY, LSO, MAR, MDG, MLI, MOZ, MRT, MUS,
+29 country units: LBR, LBY, LSO, MAR, MDG, MLI, MOZ, MRT, MUS,
 MWI, NAM, NER, NGA, RWA, SDN, SEN, SLE, SOM, SSD, STP, SWZ, SYC, TCD, TGO, TUN, TZA, UGA, ZMB, ZWE.
 
 ## The loop, per unit
@@ -338,3 +338,32 @@ systems is the state infrastructure operator's own, putting ministry interoperab
 per cent, and its development agency's outgoing Inspector General named limited data-sharing by line
 ministries as the obstacle to monitoring the national strategy. Two self-reported facts that
 corroborate each other are worth more than either alone, and the cells say so.
+
+## What KEN added, 2026-08-27
+
+**The largest unit so far - 217 sourced rows, 93 indicators - and the frame held.** No new indicator
+was needed and no sourced row went unmapped. On a ledger this thick the binding constraint is not
+finding a home for a row but keeping each cell inside 200 words: five cells carry five or more rows,
+and the cybersecurity cell took four rounds of trimming to come inside the band. **On a unit over
+150 rows, draft the developments at about 150 words and let the fifth row make it 190**, rather than
+writing to the band and trimming afterwards.
+
+**Where the ledger has reconciled a public dispute, carry the reconciliation into the cell.** Three
+of this unit's rows exist because the ledger settled a contradiction rather than recorded an event:
+the health framework's US$2.5bn against US$1.63bn headline, the claims platform's KSh 104bn as a
+ten-year service fee rather than a lump sum, and a data-centre project reverted from "cancelled" to
+"stalled" because no principal announced a cancellation. **Each of those reconciliations is the most
+useful sentence in its cell**, and a mapping that reported only the later figure would have thrown
+away the ledger's own work.
+
+**A country can be strongest and weakest on the same indicator, and Mixed is how to say it.** Eleven
+of KEN's 93 cells are Mixed, against ten of ZAF's 77 - the same shape ZAF's note predicted for a
+thick ledger. The pattern here is specific: the platform carries more services and more revenue
+while agency migration onto it went backwards; the regulator gained its first appropriation while
+its caseload has not been restated in eighteen months; subscribers grew while sign-ups were capped
+in seven counties. In each case the stem alone would be false.
+
+**Three heredoc patches corrupted a draft script this session by turning `
+` into a real newline.**
+Editing a Python drafting script from a bash heredoc is not reliable for escaped characters. Use the
+editor for those patches, or keep the replacement strings free of escapes.
