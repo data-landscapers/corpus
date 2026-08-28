@@ -20,14 +20,32 @@ share should be an environment variable, not an edit in three files.
 from __future__ import annotations
 
 import datetime as dt
+import io
+import json
 import os
 import re
+import subprocess
 import sys
 
 # Seen from this machine. `SWEEP-CYCLE.md` -> *Mirror* syncs `C:\OSINT` onto `O:\`, and this is
 # the machine that share resolves back to.
 MIRROR = os.environ.get("CORPUS_OSINT_MIRROR", r"C:\OSINT")
 
+# The cycle manifest, written by `SWEEP-CYCLE` and `SWEEP-BULLETIN` after the final commit
+# and before the mirror (OSINT `notes-for-corpus` 16, strategic review task 14). It is the
+# whole of what Corpus needs to know about a close, and it is why the two log reads below
+# are now a fallback rather than the source. `UPDATE-WIKI` does not mirror and writes none;
+# its material arrives at the next cycle close, which does.
+MANIFEST = os.path.join(MIRROR, "cycle-manifest.json")
+
+# A reader that meets a schema it does not know stops rather than guesses (note 16). A
+# field that changed meaning under the same number is the one failure a fallback cannot
+# catch, because both readings parse.
+MANIFEST_SCHEMA = 1
+
+# Retired in favour of the manifest and kept only until one has been read on the mirror.
+# `scripts/lint-interface.py` lists both as exceptions to the interface and fails when they
+# go, so the list cannot outlive them.
 INGESTED_LOG = os.path.join(MIRROR, "logs", "ingested_log.md")
 CYCLE_LOG = os.path.join(MIRROR, "logs", "sweep-cycle_log.md")
 
@@ -47,6 +65,97 @@ _INGEST_HEAD = re.compile(r"^##\s+(\d{4}-\d{2}-\d{2}(?: \d{2}:\d{2})?)\b")
 _SWEEP_CLOSED = re.compile(r"^sweep_closed:\s*(\d{4}-\d{2}-\d{2}(?: \d{2}:\d{2})?)\b")
 
 
+def mirror_head(path: str | None = None) -> str | None:
+    """The commit the mirror is holding, or None if git will not say."""
+    try:
+        out = subprocess.run(["git", "-C", path or MIRROR, "rev-parse", "HEAD"],
+                             capture_output=True, text=True, timeout=60)
+    except (OSError, subprocess.SubprocessError):
+        return None
+    return out.stdout.strip() or None if out.returncode == 0 else None
+
+
+def read_manifest(path: str | None = None) -> tuple[dict | None, str]:
+    """`(the manifest, why it is or is not usable)`.
+
+    Four ways it is refused, and the reason is returned rather than logged because every
+    caller has somewhere better to put it than this module does:
+
+    **Absent.** The ordinary case until the next cycle close, and not an error — the two
+    passes that write it are the two that mirror.
+
+    **Unparseable.** The manifest is written before the mirror copies, so a truncated file
+    is a copy caught in the middle, not a corrupt source.
+
+    **A schema this does not know.** Refused outright (note 16). Guessing at an unknown
+    schema is the one failure the fallback cannot catch, because a field that changed
+    meaning under a new number still parses under the old reading.
+
+    **`head` disagreeing with the mirror's own HEAD.** This is a *half-copied mirror*, not a
+    stale manifest: the manifest is written after the final commit, so a mismatch means the
+    tree and its account of itself arrived from different moments. Refusing sends the
+    callers to the logs, which describe the tree that is actually here.
+
+    Where git cannot answer at all the head check is skipped rather than failed — an absent
+    git is not evidence of a bad copy, and the schema and shape checks have already run.
+    """
+    path = path or MANIFEST
+    if not os.path.exists(path):
+        return None, "no cycle manifest on the mirror yet"
+    try:
+        data = json.loads(io.open(path, encoding="utf-8").read())
+    except (OSError, ValueError) as exc:
+        return None, f"the cycle manifest will not parse ({exc}) - a half-copied mirror"
+    if not isinstance(data, dict):
+        return None, "the cycle manifest is not an object"
+    if data.get("schema") != MANIFEST_SCHEMA:
+        return None, (f"the cycle manifest is schema {data.get('schema')!r}, and this reads "
+                      f"{MANIFEST_SCHEMA}. A schema this does not know is refused rather "
+                      f"than guessed at")
+    head = data.get("head")
+    here = mirror_head(os.path.dirname(path) or None)
+    if head and here and head != here:
+        return None, (f"the cycle manifest names {head[:8]} and the mirror is holding "
+                      f"{here[:8]} - a half-copied mirror, not a stale manifest")
+    return data, "the cycle manifest"
+
+
+def _stamp(text) -> dt.datetime | None:
+    r"""A manifest collection or rotation stamp, read as naive local time.
+
+    **The manifest says every stamp is UTC, and its collection and rotation stamps are not**
+    *(measured 2026-08-28; `notes-for-osint` 54)*. They are copied verbatim out of OSINT's
+    own logs, which are local: the manifest of 2026-08-28 08:36 reports
+    `rotation.newest_close` as `19:07`/`21:31` and `logs/sweep-cycle_log.md` carries that row
+    as `19:07`/`21:31`, and it reports `collection.last_admission` as `20:36` against the same
+    number in the newest `ingested_log.md` heading. The two fields that do come from a clock
+    rather than a log — `head_committed_utc` and `written_utc`, both `08:36` — are true UTC,
+    against a `git log` on the mirror putting that commit at 09:36 +0100. So the manifest
+    carries two clocks under one name.
+
+    Reading these as local is the conservative half. Converting would move the published
+    byline an hour **later** than the moment collection actually stopped, which is a claim
+    about work that had not happened; reading them as local is at worst the same value the
+    log path already published. When OSINT settles the field, this is the one place to
+    change."""
+    if not isinstance(text, str) or not text.strip():
+        return None
+    try:
+        return dt.datetime.strptime(text.strip(), TS)
+    except ValueError:
+        return None
+
+
+def _manifest_stamp(*keys: str) -> dt.datetime | None:
+    """One stamp out of the manifest by its path of keys, or None if it is not there."""
+    data, _why = read_manifest()
+    for key in keys:
+        if not isinstance(data, dict):
+            return None
+        data = data.get(key)
+    return _stamp(data)
+
+
 def last_ingest() -> dt.datetime | None:
     """When OSINT's ingest last admitted anything to `raw/`, from `logs/ingested_log.md`.
 
@@ -63,7 +172,50 @@ def last_ingest() -> dt.datetime | None:
     Returns `None` if the mirror is absent, the log is missing, or nothing in it parses — never
     a guess, and never today's date standing in for a fact about another repository.
     """
-    return _newest_stamp(INGESTED_LOG, _INGEST_HEAD)
+    return (_manifest_stamp("collection", "last_admission")
+            or _newest_stamp(INGESTED_LOG, _INGEST_HEAD))
+
+
+def collected_to(now: dt.datetime | None = None) -> tuple[dt.datetime | None, str]:
+    """`(the moment after which nothing more could have been caught, where it came from)`.
+
+    The bulletin byline's one claim, and the one place the policy behind it lives.
+
+    **With a manifest, `sweep_closed` answers on its own** (note 16): it is collection, and
+    collection is what the byline claims. The later-of-two reading below existed because
+    neither source covered every path — `sweep_closed` was stamped by `@UPDATE-WIKI` and
+    `SWEEP-BULLETIN` but not by the cycle, and the cycle's `End` said nothing about the two
+    runs that write no rotation row. The manifest is written by both passes that mirror, so
+    it covers what each half was missing and the comparison has nothing left to do.
+
+    **Without one, the legacy reading stands** and says so. It is the whole of what the
+    fallback is for, and it goes when the manifest has been read once on the mirror."""
+    ceiling = (now or dt.datetime.now()) + SKEW
+    ahead = lambda when: when is not None and when > ceiling
+
+    data, why = read_manifest()
+    if data is not None:
+        swept = _stamp((data.get("collection") or {}).get("sweep_closed"))
+        if swept is not None and not ahead(swept):
+            return swept, why
+
+    # The guard sits here, before the comparison, and not on the answer. There is one
+    # closing row, so a mistyped `End` is the whole column - and dropping it afterwards
+    # would let a fat-fingered year suppress a `sweep_closed` that was perfectly good.
+    closed = last_cycle_close()
+    if ahead(closed):
+        closed = None
+    swept = sweep_closed()
+    if ahead(swept):
+        swept = None
+
+    if swept is not None and (closed is None or swept >= closed):
+        return swept, "OSINT sweep_closed (no manifest)"
+    if closed is not None:
+        return closed, ("OSINT sweep cycle close (no manifest)" if swept is None
+                        else "OSINT sweep cycle close, newer than any sweep_closed "
+                             "(no manifest)")
+    return None, why
 
 
 def sweep_closed() -> dt.datetime | None:
@@ -111,6 +263,10 @@ def sweep_closed() -> dt.datetime | None:
     and an unstamped newest one says so on stderr and still answers from the stamped ones, which
     understates freshness rather than overstating it.
     """
+    swept = _manifest_stamp("collection", "sweep_closed")
+    if swept is not None:
+        return swept
+
     runs = _runs()
     stamped = [closed for _, closed in runs if closed is not None]
     if not stamped:
@@ -142,6 +298,10 @@ def last_cycle_close() -> dt.datetime | None:
     `_newest_stamp` checks an ingest stamp — there is one row to be wrong, so a maximum over the
     column is no protection.
     """
+    closed = _manifest_stamp("rotation", "newest_close", "end")
+    if closed is not None:
+        return closed
+
     if not os.path.exists(CYCLE_LOG):
         return None
     header, best = None, None

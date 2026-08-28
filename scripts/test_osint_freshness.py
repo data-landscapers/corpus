@@ -142,11 +142,14 @@ def stamp_cases() -> int:
     reader's future. The reading is dropped and the newest true stamp stands in its place — a
     slightly stale answer rather than a false one."""
     failures = 0
-    saved = osint_lib.INGESTED_LOG
+    saved = (osint_lib.INGESTED_LOG, osint_lib.MANIFEST)
     tmp = Path(tempfile.mkdtemp(prefix="osint-stamp-test-"))
     try:
         (tmp / "logs").mkdir()
         osint_lib.INGESTED_LOG = str(tmp / "logs" / "ingested_log.md")
+        # No manifest here: these cases are about reading the log, and the module default
+        # names the real mirror, whose manifest would answer before the fixture did.
+        osint_lib.MANIFEST = str(tmp / "cycle-manifest.json")
         log = Path(osint_lib.INGESTED_LOG)
         skew = dt.datetime.now() + dt.timedelta(minutes=2)
 
@@ -182,7 +185,7 @@ def stamp_cases() -> int:
             verdict = "ok  " if ok else "FAIL"
             print(f"  {verdict} {name}  (expected {expected}, got {got_s})")
     finally:
-        osint_lib.INGESTED_LOG = saved
+        (osint_lib.INGESTED_LOG, osint_lib.MANIFEST) = saved
         shutil.rmtree(tmp, ignore_errors=True)
     return failures, len(cases)
 
@@ -217,11 +220,14 @@ def sweep_closed_cases() -> int:
     run's own value, the mixed file, and the absence that is the only case a fallback is kept
     for."""
     failures = 0
-    saved = osint_lib.INGESTED_LOG
+    saved = (osint_lib.INGESTED_LOG, osint_lib.MANIFEST)
     tmp = Path(tempfile.mkdtemp(prefix="osint-closed-test-"))
     try:
         (tmp / "logs").mkdir()
         osint_lib.INGESTED_LOG = str(tmp / "logs" / "ingested_log.md")
+        # No manifest here: these cases are about reading the log, and the module default
+        # names the real mirror, whose manifest would answer before the fixture did.
+        osint_lib.MANIFEST = str(tmp / "cycle-manifest.json")
         log = Path(osint_lib.INGESTED_LOG)
 
         cases: list[tuple[str, str, str | None]] = [
@@ -255,7 +261,7 @@ def sweep_closed_cases() -> int:
             verdict = "ok  " if ok else "FAIL"
             print(f"  {verdict} {name}  (expected {expected}, got {got_s})")
     finally:
-        osint_lib.INGESTED_LOG = saved
+        (osint_lib.INGESTED_LOG, osint_lib.MANIFEST) = saved
         shutil.rmtree(tmp, ignore_errors=True)
     return failures, len(cases)
 
@@ -264,7 +270,7 @@ def run() -> int:
     failures = 0
     argv = sys.argv
     saved = (osint_lib.INGESTED_LOG, osint_lib.CYCLE_LOG, osint_lib.MIRROR,
-             of.WATERMARK, of.head_committed)
+             osint_lib.MANIFEST, of.WATERMARK, of.head_committed)
     try:
         for name, ing, ends, head, mark, extra, expected in CASES:
             tmp = Path(tempfile.mkdtemp(prefix="osint-fresh-test-"))
@@ -273,6 +279,10 @@ def run() -> int:
                 osint_lib.MIRROR = str(tmp)
                 osint_lib.INGESTED_LOG = str(tmp / "logs" / "ingested_log.md")
                 osint_lib.CYCLE_LOG = str(tmp / "logs" / "sweep-cycle_log.md")
+                # These cases are about the log clocks, so the manifest is pointed at the
+                # stand-in mirror where there is none. Left at the module default it names
+                # the real mirror, and every case would be measuring that instead of itself.
+                osint_lib.MANIFEST = str(tmp / "cycle-manifest.json")
                 of.WATERMARK = str(tmp / ".osint-cycle-seen")
 
                 if ing is not None:
@@ -302,7 +312,7 @@ def run() -> int:
     finally:
         sys.argv = argv
         (osint_lib.INGESTED_LOG, osint_lib.CYCLE_LOG, osint_lib.MIRROR,
-         of.WATERMARK, of.head_committed) = saved
+         osint_lib.MANIFEST, of.WATERMARK, of.head_committed) = saved
 
     stamp_failures, stamp_ran = stamp_cases()
     start_failures, start_ran = sweep_closed_cases()

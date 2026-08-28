@@ -30,6 +30,7 @@ import csv
 import datetime as dt
 import importlib.util
 import io
+import json
 import shutil
 import sys
 import tempfile
@@ -111,6 +112,19 @@ class Bench:
         bulletin.osint_lib.last_ingest = lambda: parse(when)
         bulletin.osint_lib.sweep_closed = lambda: parse(swept)
         bulletin.osint_lib.last_cycle_close = lambda: parse(closed)
+        # These three are the fallback path, so the manifest has to be out of the way or it
+        # answers first and the case is testing the live mirror instead of its own fixture.
+        bulletin.osint_lib.MANIFEST = str(Path(tempfile.gettempdir()) / "no-such-manifest.json")
+
+    def manifest(self, tmp: Path, **collection: str) -> None:
+        """Put a schema-1 manifest on a stand-in mirror, so the manifest path is exercised.
+
+        No `head`, because the head check is against a real git repo and what this case is
+        about is the reading rather than the copy."""
+        path = tmp / "cycle-manifest.json"
+        path.write_text(json.dumps({"schema": 1, "collection": collection}),
+                        encoding="utf-8")
+        bulletin.osint_lib.MANIFEST = str(path)
 
     def assemble(self) -> str:
         out = io.StringIO()
@@ -492,7 +506,42 @@ def case_a_close_in_the_future_is_refused(tmp):
     assert "sweep_closed" in out, f"the run did not name the clock it used:\n{out}"
 
 
+def case_the_manifest_answers_on_its_own(tmp):
+    """With a manifest, `sweep_closed` is the byline and the later-of-two reading is gone.
+
+    The comparison existed because neither source covered every path that admits to `raw/`.
+    The manifest is written by both passes that mirror, so it covers what each half was
+    missing - which is why a cycle close *newer* than the stated collection close no longer
+    outranks it. Collection is what the byline claims (OSINT `notes-for-corpus` 16)."""
+    b = Bench(tmp, [row("only", TODAY, "KEN", "gov.policy")])
+    b.stamp("2026-05-14 05:20", swept="2026-05-13 23:55", closed="2026-05-14 04:00")
+    b.manifest(tmp, sweep_closed="2026-05-13 21:00", last_admission="2026-05-14 05:20")
+    out = b.assemble()
+    text = b.document()
+    assert "Last updated 13-05-2026 at 21:00" in text, (
+        f"the manifest did not answer for the byline:\n{text[:400]}")
+    assert "cycle manifest" in out, (
+        f"the run did not name the manifest as its source:\n{out}")
+
+
+def case_a_manifest_stamp_is_read_as_local(tmp):
+    """The manifest's collection stamps are copied out of OSINT's local logs.
+
+    They are labelled UTC and are not (`notes-for-osint` 54, measured 2026-08-28). Reading
+    one as UTC would move the byline an hour later than the moment collection stopped, so
+    the value is read exactly as written - and this case is what fails if that is changed
+    without the field being settled first."""
+    b = Bench(tmp, [row("only", TODAY, "KEN", "gov.policy")])
+    b.stamp("2026-05-14 05:20")
+    b.manifest(tmp, sweep_closed="2026-05-13 23:55")
+    b.assemble()
+    assert "Last updated 13-05-2026 at 23:55" in b.document(), (
+        f"a manifest stamp was shifted off the value it carries:\n{b.document()[:400]}")
+
+
 CASES = [
+    ("the manifest answers on its own", case_the_manifest_answers_on_its_own),
+    ("a manifest stamp is read as local", case_a_manifest_stamp_is_read_as_local),
     ("the summary anchors on the earliest topic in document order",
      case_anchor_is_earliest_in_document_order),
     ("every cross-reference points backwards", case_every_cross_reference_points_backwards),
@@ -536,7 +585,8 @@ def run() -> int:
                        for k in ("CORPUS", "CATALOGUE", "STORE", "DOCUMENT", "BULLETINS", "RAW")}
         ingest_saved = (bulletin.osint_lib.last_ingest,
                         bulletin.osint_lib.sweep_closed,
-                        bulletin.osint_lib.last_cycle_close)
+                        bulletin.osint_lib.last_cycle_close,
+                        bulletin.osint_lib.MANIFEST)
         try:
             case(tmp)
             print(f"  ok   {name}")
@@ -549,7 +599,8 @@ def run() -> int:
                 setattr(bulletin, k, v)
             (bulletin.osint_lib.last_ingest,
              bulletin.osint_lib.sweep_closed,
-             bulletin.osint_lib.last_cycle_close) = ingest_saved
+             bulletin.osint_lib.last_cycle_close,
+             bulletin.osint_lib.MANIFEST) = ingest_saved
             shutil.rmtree(tmp, ignore_errors=True)
 
     print()

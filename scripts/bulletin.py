@@ -678,37 +678,26 @@ BUILD_CLOCK = "build clock (mirror unreadable)"
 def stamps_for(now: datetime | None = None) -> tuple[str, str, str]:
     """`(collected_to, compiled, where they came from)`, each `YYYY-MM-DD HH:MM`.
 
-    `compiled` is the newest ingest stamp. `collected_to` is when collection stopped, and since
-    2026-08-26 it is **read rather than derived**: the later of OSINT's own `sweep_closed` and the
-    sweep cycle's `End`, both of which are statements about the moment after which nothing more
-    could have been caught. Neither alone covers everything — `sweep_closed` is stamped by
-    `@UPDATE-WIKI` and `SWEEP-BULLETIN` but not yet by the cycle, and the cycle's `End` says
-    nothing about the two runs that write no rotation row — so the later of the two is the point
-    after which nothing in the base could have been caught, which is what the byline claims. See
-    the module docstring, and `osint_lib.sweep_closed()` for what was retired to get here.
+    `compiled` is the newest ingest stamp. `collected_to` is when collection stopped, and it is
+    **read rather than derived** — `osint_lib.collected_to()` holds the whole of that policy,
+    because a claim the published byline makes should have one definition and not a copy of one
+    here. Since the cycle manifest it is OSINT's own `sweep_closed`; before it, the later of
+    that and the cycle's `End`.
 
-    Where the mirror carries no `sweep_closed` at all — a sync from before 2026-08-26 — the
-    cycle close alone answers, and where that cannot be read either the newest ingest heading
-    does, as an upper bound that overstates by however long the ingest behind it ran. The build
-    clock stands in only where the mirror cannot be read. The source is returned rather than
-    logged here so that `--assemble` can print it: a fallback nobody is told about is a fallback
-    that becomes the normal case without anyone noticing."""
+    A stated close in the future is refused inside that policy, before any comparison, because
+    there is one closing row and a mistyped `End` would otherwise suppress a `sweep_closed`
+    that was perfectly good. **Where nothing states a close, the newest ingest heading stands
+    in** as
+    an upper bound that overstates by however long the ingest behind it ran, and the build clock
+    only where the mirror cannot be read at all. The source is returned rather than logged so
+    `--assemble` can print it: a fallback nobody is told about is a fallback that becomes the
+    normal case without anyone noticing."""
     newest = osint_lib.last_ingest()
     if newest is None:
         return ((now or datetime.now()).strftime(osint_lib.TS),) * 2 + (BUILD_CLOCK,)
 
-    closed = osint_lib.last_cycle_close()
-    if closed is not None and closed > (now or datetime.now()) + osint_lib.SKEW:
-        closed = None  # a claim about work that has not happened
-    swept = osint_lib.sweep_closed()
-
-    if swept is not None and (closed is None or swept >= closed):
-        collected, source = swept, "OSINT sweep_closed"
-    elif closed is not None:
-        collected, source = closed, (
-            "OSINT sweep cycle close" if swept is None
-            else "OSINT sweep cycle close (newer than any sweep_closed)")
-    else:
+    collected, source = osint_lib.collected_to(now)
+    if collected is None:
         collected, source = newest, "OSINT ingest heading — an upper bound, no stated close"
     return collected.strftime(osint_lib.TS), newest.strftime(osint_lib.TS), source
 

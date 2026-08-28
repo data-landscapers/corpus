@@ -11,9 +11,10 @@ everything and policed what it found.
 So the interface is now stated as data, and this counts it.
 
 **Corpus may read** OSINT's `raw/`, `wiki/` and `lookups/` - the evidence and the
-vocabularies - and the mirror's own git metadata as a staleness clock. **Corpus may not
-read** OSINT's `logs/`, `reviews/`, `index/`, `new/`, `sweep/` or any process file. The same
-rule binds OSINT in the other direction, over the exchange share.
+vocabularies - the mirror's `cycle-manifest.json`, and the mirror's own git metadata as a
+staleness clock. **Corpus may not read** OSINT's `logs/`, `reviews/`, `index/`, `new/`,
+`sweep/` or any process file. The same rule binds OSINT in the other direction, over the
+exchange share.
 
 Two checks, and the second is the one that matters:
 
@@ -48,8 +49,11 @@ import sys
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SCRIPTS = os.path.join(ROOT, "scripts")
 
-# The interface, as data. Not "what the build happens to need" - what it is allowed.
-READABLE = {"raw", "wiki", "lookups"}
+# The interface, as data. Not "what the build happens to need" - what it is allowed. The
+# three directories are the evidence and the vocabularies; `cycle-manifest.json` is the one
+# file, and the review named it when it defined the interface: OSINT's machine-readable
+# account of a close, which is what lets Corpus stop reading OSINT's logs at all.
+READABLE = {"raw", "wiki", "lookups", "cycle-manifest.json"}
 
 # The two names a script binds the mirror root to. Both spellings of a path under them are
 # in use — `os.path.join(MIRROR, ...)` and `MIRROR / ...` — and a check that knew only one
@@ -62,9 +66,9 @@ ROOT_NAMES = {"MIRROR", "OSINT"}
 # is off.
 EXCEPTIONS = {
     ("osint_lib.py", "logs"):
-        "the ingest and sweep-close stamps; retires on the cycle manifest (review task 14)",
+        "the fallback for a mirror carrying no manifest; delete with the fallback",
     ("osint-cycle-ready.py", "logs"):
-        "the sweep-cycle close row; retires on the cycle manifest (review task 14)",
+        "the whole rotation row, which the manifest carries only the newest close of",
 }
 
 # Path segments the source computes rather than spells, which the parse reports as a

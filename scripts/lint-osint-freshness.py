@@ -145,6 +145,14 @@ def main() -> int:
     args = ap.parse_args()
 
     now = dt.datetime.now()
+
+    # Which source answered, printed rather than inferred. Since the cycle manifest these
+    # clocks come from one small JSON instead of four passes over OSINT's logs, and a run
+    # that has quietly dropped back to the logs - a half-copied mirror, an unknown schema -
+    # should say so on the line rather than look identical to one that has not.
+    _data, source = osint_lib.read_manifest()
+    print(f"osint freshness: reading {source}.")
+
     clocks = {
         "last ingest": osint_lib.last_ingest(),
         # The two halves of the bulletin's byline, read separately here because a mirror where
