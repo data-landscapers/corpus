@@ -38,6 +38,7 @@ python scripts/log-line.py --start build
 python scripts/lint-osint-freshness.py    # 0 fresh · 1 stale or regressed · 2 nothing readable
 python scripts/lint-interface.py         # 0 the interface holds · 1 a read outside it
 python scripts/lint-notes.py             # 0 every open note names what it bears on
+python scripts/freeze-status.py          # 0 the freeze is running · 1 it has ended
 ```
 
 **The freshness lint says how old the evidence is, and does not stop the run.** It reads three clocks off the mirror — last ingest, the rotation table's newest `End`, the mirror's `HEAD` commit date — and reports the newest. It also catches a mirror gone *backwards*, against the `done` watermark in `logs/.osint-cycle-seen`: a rollback is fresh by every clock and wrong by every record. A `STALE` or `UNREADABLE` line (ceiling `--max-age-hours`, default 72) goes in the run's message to Bill and the build continues — a cycle is run by hand, so a quiet stretch is OSINT's schedule, and the repair (FreeFileSync on OSINT's machine) is not Corpus's to run.
@@ -45,6 +46,8 @@ python scripts/lint-notes.py             # 0 every open note names what it bears
 **The interface lint says what Corpus reads of OSINT's, and stops a new read outside it.** The set is `raw/`, `wiki/`, `lookups/` and the mirror's git metadata (`CLAUDE.md` → *The OSINT repo is read-only*); it checks the workroot junction list and every OSINT path a script builds, and reports the two log reads that retire on the cycle manifest. It reads Corpus's own source and nothing of OSINT's, so it costs nothing and can run before the evidence is touched.
 
 **The notes lint checks the open queue, not the run.** Every note in the share carries an `Affects:` line naming the artefact or commissioned work it bears on (`README.md` → *Conventions*); it fails on `notes-for-osint.md`, which Corpus writes, and reports on `notes-for-corpus.md`, which OSINT writes. It runs here because a note is written between builds and nothing else would catch it before the next one.
+
+**The freeze meter prints the process/report split and does not gate on it** (`CLAUDE.md` → *The freeze*). It refuses one thing only — the freeze running past 2026-09-27 — so the renew-or-lapse decision is made at the boundary rather than by silence. A `1` here is that decision falling due, not a build fault.
 
 **`--start build` stamps the clock** into the gitignored `logs/.run-start-build`; the closing call reads it back and clears it. A run that skips it logs `unclocked`. A resumed run re-stamps, so its duration is that sitting — say in the log line that it resumed, and use `--since` on the closing call where the whole-job figure is the one worth having.
 

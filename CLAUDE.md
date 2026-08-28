@@ -45,6 +45,16 @@ The reason is the direction of dependency. The site is a derived view of the wik
 
 **None of this touches the boundaries.** OSINT stays read-only, the metadata-only commitment on `outputs/` holds, and a destructive or outward-facing step still gets confirmed. Being decisive is not licence to widen what CC may touch.
 
+## The freeze — 2026-08-28 to 2026-09-27
+
+**Both process layers are feature-frozen for a month; capacity goes to reports** *(strategic review task 17)*. The argument is numeric: in the 21 days to 2026-08-27 Corpus put 167 commits into `documentation/` and 159 into `scripts/`, on top of a report layer that was already the product. The marginal report is now worth more than the marginal process improvement, and the freeze is the largest transfer of capacity available.
+
+**The test is one question: is something wrong, or is something missing?** A thing that is wrong — a check that passes over nothing, a byline ten hours out, a stamp that cannot be right — is a **defect** and is fixed now, frozen or not. A thing that is merely absent — a new check, a better arrangement, a script that would be nice to have — is a **feature** and waits. Where the answer is genuinely both, it is a feature: the freeze exists because that judgement kept going the other way.
+
+**Two exemptions, both closed and finite.** The outstanding strategic-review tasks, which are already commissioned and listed by number in the share's task file — they will read as process commits and are expected to. And a defect found in the report layer's own machinery, because that is report work wearing a script's clothes.
+
+**`scripts/freeze-status.py` reports the split, it does not refuse it.** A script cannot tell a defect fix from a feature and one that tried would be adjudicating from a commit message; what it is good for is making the ratio visible every day rather than at the next review. It refuses exactly one thing: **the freeze outliving its own end date.** From 2026-09-28 it exits 1, so the renew-or-lapse call gets made at the boundary instead of the window closing by silence. OSINT holds the same freeze over its own process layer.
+
 ## The exchange
 
 **Everything CC produces goes in Corpus**, including anything about OSINT. If a change is needed *in* OSINT — a corrected path, a stale statement, a note for the queues — CC writes it as a numbered note in **`C:\corpus-osint-xfer\notes-for-osint.md`** and tells Bill; it does not make the change. Bill actions it in an OSINT session and strikes the note.

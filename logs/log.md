@@ -13,6 +13,7 @@ title: Corpus process log
 
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 <!-- newest first: a new entry goes directly below this line -->
+2026-08-28 09:19 · review · unclocked · task 17: both process layers feature-frozen 2026-08-28 to 09-27, defect-fix test in CLAUDE.md; freeze-status.py reports the split and refuses only the freeze outliving its end date; OSINT note 53 - ok
 2026-08-28 09:13 · review · unclocked · task 16: notes carry an Affects: line naming the artefact or commissioned work; lint-notes.py counts it, tests run the review's own block/keep claim; notes 48/49/51 retrofitted, OSINT note 52 - ok
 2026-08-28 09:02 · review · unclocked · task 15: interface stated as data in CLAUDE.md (raw/wiki/lookups + mirror git, nothing else); lint-interface.py counts it at Stage 0 with two log reads named as exceptions; OSINT note 51 - ok
 2026-08-28 08:55 · review · unclocked · task 13 CORPUS half: channel conventions stated once in the share README, five preambles cut to pointers, lint-preambles.py caps them and fails a rule restated away from home; OSINT note 50 - ok
