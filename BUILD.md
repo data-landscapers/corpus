@@ -193,7 +193,7 @@ python scripts/bulletin.py --assemble      # then commit outputs/bulletins/
 
 ## Ending the run — message, log, commit, stand down
 
-**1. Message Bill, if anything is owed him** — one block under the marker in `logs/messages-for-bill.md`, at most 80 words. Nothing owed, nothing written: the normal outcome. After writing one, `python scripts/lint-messages.py` counts both caps (five open blocks, 80 words each).
+**1. Message Bill, if anything is owed him** — one block under the marker in `logs/messages-for-bill.md`, at most 80 words. Nothing owed, nothing written: the normal outcome. After writing one, `python scripts/lint-messages.py` counts both caps (five open blocks, 80 words each) and `python scripts/lint-preambles.py` checks that the file's preamble is still a pointer.
 
 **2. Log one terse line:**
 

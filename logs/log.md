@@ -13,6 +13,7 @@ title: Corpus process log
 
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 <!-- newest first: a new entry goes directly below this line -->
+2026-08-28 08:55 · review · unclocked · task 13 CORPUS half: channel conventions stated once in the share README, five preambles cut to pointers, lint-preambles.py caps them and fails a rule restated away from home; OSINT note 50 - ok
 2026-08-28 08:44 · review · unclocked · task 7 CORPUS half: 40 log stamps re-dated from the commit that wrote each (12 were future-dated); log-line.py refuses a forward --at and inserts newest-first by date - ok
 2026-08-28 08:31 · review · unclocked · task 4 CORPUS half: log-line.py refuses >40-word messages; lint-messages.py counts the 5-block/80-word caps; runbooks and preamble name both - ok
 2026-08-28 08:19 · review · unclocked · docs rewrite (review task 12): 23 records archived, live layer 121.7k to 45.7k words - ok

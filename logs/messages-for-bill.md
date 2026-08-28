@@ -1,24 +1,16 @@
 ---
 type: log
 title: Messages for Bill
-last_reviewed: 2026-08-16
+last_reviewed: 2026-08-28
 ---
 
 # Messages for Bill
 
-*(Things an unattended run needed Bill for and could not ask. **Newest first**, one block per run. A job that runs while Bill is away never stops to put a question — it takes the deterministic path its runbook names, finishes the job, and writes what he would have been asked here. Bill reads this after a run and deletes what he has dealt with; nothing else clears it.)*
+*(Things an unattended run needed Bill for and could not ask. **Newest first**, one block per run. Bill reads this after a run and deletes what he has dealt with; nothing else clears it. An empty file is the normal outcome — the run log gets a line from every run, this file gets a block only when something is owed a decision or a look. What earns a block, and why a finding carrying its own solution is a task instead: `CLAUDE.md` → *Be decisive*.)*
 
-*(**It is not the run log.** `log.md` gets one line from every run, always, and is a skim of what happened. This file gets a block only when something is owed a decision or a look, so an empty file means the last runs needed nothing — which is the normal outcome.)*
+*(**Caps: five open blocks, 80 words a block**, counted by `python scripts/lint-messages.py` after writing here. **At the cap a run does not write a sixth — it takes the conservative option itself and logs it.** The word cap binds blocks dated 2026-08-28 or later.)*
 
-*(**It is not `notes-for-osint.md`.** That file is findings that have to be actioned *in* OSINT and are carried across by hand. This one is Corpus's own business.)*
-
-*(**The bar moved up on 2026-08-20** *(Bill)*. This file is for the **irreversible and the already-public** — evidence loss with no backup, a published page stating something false, leaked source text, legal exposure, a slug reissued under a live citation. Anything a later run can undo is decided by the run, taken the conservative way, and recorded in `logs/log.md`. `CLAUDE.md` → *Be decisive* has the rule. A run that writes nothing here is the normal outcome and always was; what changed is how much counts as owing him something.)*
-
-*(**Caps: five open blocks, 80 words a block** — `python scripts/lint-messages.py` counts both, and a run runs it after writing here. **At the cap a run does not write a sixth block — it takes the conservative option itself and logs it in `logs/log.md`.** That is what converts queue pressure into decisions instead of backlog. The word cap binds blocks dated 2026-08-28 or later; detail belongs in git, analysis in `documentation/`.)*
-
-*(**A finding that carries its own solution is a task, not a message** — do it and log it. OSINT's bar, from its housekeeping register, adopted here on 2026-08-20.)*
-
-*(**Form.** A block per run, `## YYYY-MM-DD HH:MM · job`, then one bullet per item: what happened, what the run did about it, and what Bill's options are. Insert it directly under the marker below — appending puts the newest block at the bottom of a file that reads top-down, which is the failure nobody notices.)*
+*(**Form.** `## YYYY-MM-DD HH:MM · job`, then one bullet per item: what happened, what the run did about it, what Bill's options are. Insert directly under the marker — appending puts the newest block at the bottom of a file that reads top-down.)*
 
 <!-- newest first: a new block goes directly below this line -->
 
