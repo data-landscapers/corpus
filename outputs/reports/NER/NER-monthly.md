@@ -1,11 +1,11 @@
 ---
 title: Niger — monthly update, July – August 2026
-compiled: 2026-08-27
-period: 2026-07-01 to 2026-08-27
+compiled: 2026-08-28
+period: 2026-07-01 to 2026-08-28
 place: NER
-ledger_rows: 30
+ledger_rows: 31
 not_held: 4
-record: 0560427ade59
+record: ebb7e8f20abf
 ---
 
 # Niger: monthly update, July – August 2026
@@ -128,6 +128,11 @@ The [Council of Ministers of 21 August 2026 took decisions on research and innov
 
 <!-- narrative: inclusion--include-access -->
 On 15 July the World Food Programme [inaugurated the Guidan Fasaha community digital centre at Tahoua](https://www.actuniger.com/societe/22196-tahoua-le-pam-inaugure-gidan-fasaha-un-espace-communautaire-pour-faire-du-numerique-un-nouveau-levier-de-resilience-dinnovation-et-dinclusion.html), the second such centre after Diffa, with 100 computers and 50 kW of solar power, funded by Luxembourg and aimed at young people, women and displaced people.
+<!-- /narrative -->
+### Digital divides
+
+<!-- narrative: inclusion--include-divides -->
+One training cohort is the whole of the window's movement here. [500 women working in agri-food processing and pottery at Zinder completed a ten-day programme in business management, financial planning and the use of digital financial tools, run by a mobile operator's foundation as part of an effort it is extending across several countries](https://techafricanews.com/2026/08/28/airtel-africa-foundation-expands-financial-inclusion-support-for-women/). What is established is a completed cohort, not any change in the women's access to financial services: no follow-up, account-opening figure, cost or continuation is published.
 <!-- /narrative -->
 
 ## Data

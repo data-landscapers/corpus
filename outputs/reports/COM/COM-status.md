@@ -1,15 +1,15 @@
 ---
 title: Comoros — digital transformation and data governance status report
-compiled: 2026-08-27
+compiled: 2026-08-28
 place: COM
-ledger_rows: 112
+ledger_rows: 113
 not_held: 35
-record: f32119a0fb65
+record: 18204192857f
 ---
 
 # Comoros: status report
 
-*Compiled 2026-08-27 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/COM/ledger.csv` (112 systems and instruments, 35 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-28 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/COM/ledger.csv` (113 systems and instruments, 35 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -28,6 +28,7 @@ The Comoros has built its payment rails ahead of everything else and legislated 
 | Digital agency board of directors | [Implemented](https://alwatwan.net/societe/gouvernance-du-num%C3%A9rique-i-l%E2%80%99anaden-installe-son-conseil-d%E2%80%99administration-et-d%C3%A9voile-ses-priorit%C3%A9s.html) | First session held and the bureau elected, members having been named by decree of 11 June 2026 |
 | Observatoire national du numerique | [Planned](https://anaden.org/uploads/media/5e3969272d9f8/strat-comores-numerique-v2-3-compresse.pdf) | Institutional capacity and a stand-up consultancy procured under the e-government project |
 | Strategie Comores Numerique 2028 | [Implemented](https://anaden.org/uploads/media/5e3969272d9f8/strat-comores-numerique-v2-3-compresse.pdf) | Restated as the delivery frame at the digital agency's first board session |
+| Stratégie nationale de gouvernance des données 2027-2031 | [In development](https://www.nepad.org/news/lauda-nepad-sassocie-lunion-des-comores-pour-impulser-la-transformation-numerique) | Validation workshop held in Moroni, 24-25 August 2026 |
 | Conseil National sur le Numerique | ***Not held*** | — |
 | National artificial-intelligence strategy or policy | ***Not held*** | — |
 

@@ -1,11 +1,11 @@
 ---
 title: Cote d'Ivoire — monthly update, July – August 2026
-compiled: 2026-08-27
-period: 2026-07-01 to 2026-08-27
+compiled: 2026-08-28
+period: 2026-07-01 to 2026-08-28
 place: CIV
 ledger_rows: 72
 not_held: 10
-record: f12d6f4a70d6
+record: f50ebcdcd4c3
 ---
 
 # Cote d'Ivoire: monthly update, July – August 2026
@@ -77,6 +77,8 @@ A low-orbit satellite operator [went live by 17 July](https://mybroadband.co.za/
 On protecting what is already laid, an operator and its vendor [completed a proof of concept in Abidjan that detects vibrations around fibre ducts and classifies them to flag third-party excavation before a cut happens](https://itweb.africa/article/mtn-is-promoting-ai-driven-fibre-cut-sensing-to-reshape-the-resilience-of-digital-infrastructure-in-africa/VgZeyqJlBLV7djX9), on trials run since 2025. The account is vendor-issued and states no commercial deployment, coverage or date. The cable that carries much of the traffic had already failed and been mended: the [2Africa branch into the country came back into service on 2 August after repairs](https://subseacables.blogspot.com/2026/08/2africa-ivory-coast-branch-live-again.html), with WACS repairs expected the week after. Neither the outage's start nor its cause is stated.
 
 An industry survey supplied a fact the base did not hold: 5G has run on re-allocated existing frequencies since a [provisional allocation of 19 December 2023](https://digitalmag.ci/acces-a-internet-etat-dadoption-de-la-technologie-5g-par-les-pays-africains/), which let the two largest operators offer the service for the 2024 Cup of Nations, and it reached 7 per cent of the population in 2025, used first for fixed broadband where there is no fibre. The definitive spectrum award and the commercial launch announced for July 2026 are still undelivered, so the two things the base had run together are now separable.
+
+The rural programme's own account reached the base for the first time. Its [first phase is complete, commissioned at Djebakaha in Korhogo, with phases two and three launched alongside it - the second valued at FCFA 18bn and covering 240 further localities across Belier, Poro, Tchologo, Bagoue and Haut-Sassandra, against a programme target of 575 localities](https://techafricanews.com/2026/08/28/cote-divoire-68m-rural-connectivity-programme-targets-575-localities/). The account dates that commissioning to August 2024 while reporting it as current, so the phase chronology is not relied on here; no site count, service specification or subscriber figure is published for the completed phase.
 <!-- /narrative -->
 ### Data Storage
 

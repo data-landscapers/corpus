@@ -1,11 +1,11 @@
 ---
 title: Mozambique — monthly update, July – August 2026
-compiled: 2026-08-27
-period: 2026-07-01 to 2026-08-27
+compiled: 2026-08-28
+period: 2026-07-01 to 2026-08-28
 place: MOZ
-ledger_rows: 76
+ledger_rows: 77
 not_held: 19
-record: 7d08e56be973
+record: 496ca7928f56
 ---
 
 # Mozambique: monthly update, July – August 2026
@@ -39,6 +39,8 @@ On 28 July the communications minister listed cloud-computing and radio-centre r
 In August the institute set out what is still missing and what is coming. Its board chairman [said the country has no dedicated artificial-intelligence legislation, and that an Online Copyright Protection Act is in drafting for next year](https://360mozambique.com/innovation/tech/intic-drafts-copyright-and-ai-legislation-to-protect-digital-creators/), naming authorship of artificial-intelligence output and liability for artificial-intelligence training as open questions no law here answers. The absence of an artificial-intelligence statute is now recorded as a gap; the copyright bill has no draft text, scope or introduction date behind it.
 
 A new Telecommunications and Scarce Resources Licensing Regulation, adopted by decree, [lets the regulator convert operators' fines into universal-service obligations](https://www.agenceecofin.com/actualites-numerique/2608-141049-mozambique-les-amendes-telecoms-financent-desormais-l-inclusion-numerique) â€” turning a penalty into a coverage commitment. No decree number, entry-into-force date or first conversion is on file.
+
+The regulator's own account of the new licensing regulation is now held, settling the instrument the earlier report named without citing: [Decree 36/2026 on the licensing of telecommunications and scarce resources](https://www.incm.gov.mz/2026/08/21/licenciamento_telecomunicacoes_recursos_escassos/).
 <!-- /narrative -->
 ### Data protection
 
@@ -149,6 +151,8 @@ On 28 July the communications minister told the same banking and finance confere
 The national strategy behind all of this is still in drafting, and its consultation now includes the market. On 12 August the ICT institute [consulted the largest mobile operator on the proposed strategy at the operator's Maputo premises](https://techreviewafrica.com/news/6792/mozambique-advances-national-ai-strategy-consultations-with-vodacom). The institute's fuller account puts the drafting under the communications ministry with UNESCO and other partners supporting, and gives the strategy [three areas: digital inclusion and access to automated public services, private-sector innovation and technology jobs, and ethical and governance frameworks for data security](https://techafricanews.com/2026/08/18/mozambique-presents-national-ai-strategy-proposal-to-vodacom/). No consultation record, respondent list or revised draft is published, and the strategy has not reached the Council of Ministers.
 
 A body to watch it is named but not made. At a cultural-economy dialogue in Maputo on 14 August the institute's board president [named a National Artificial Intelligence Observatory as expected to support transparency, build trust and measure the impact of AI deployment](https://techafricanews.com/2026/08/18/mozambique-explores-ais-role-in-driving-cultural-and-creative-economy/). It exists as a remark: no establishing instrument, host, membership, funding or method is on the record.
+
+A body was inaugurated where the observatory is still a remark. An [Association of Artificial Intelligence was launched in Maputo on 27 August under a named president, which the national ICT institute describes as a step towards a unified technical platform joining government, academia, the private sector, the technological community and civil society](https://itweb.africa/article/mozambique-steps-up-ai-drive/nWJadvbND3dvbjO1). No constitution, membership, funding or relationship to the strategy or the artificial-intelligence commission is published; what is established is an inauguration and a stated purpose.
 <!-- /narrative -->
 
 ## Capacity

@@ -1,11 +1,11 @@
 ---
 title: Angola — monthly update, July – August 2026
-compiled: 2026-08-27
-period: 2026-07-01 to 2026-08-27
+compiled: 2026-08-28
+period: 2026-07-01 to 2026-08-28
 place: AGO
-ledger_rows: 51
+ledger_rows: 52
 not_held: 7
-record: 76f0cf47763a
+record: db2a58d1d02a
 ---
 
 # Angola: monthly update, July – August 2026
@@ -181,6 +181,8 @@ The telecommunications ministry [opened further computer rooms and free public i
 
 <!-- narrative: inclusion--include-divides -->
 Satellite-based inclusion produced two counts eight days apart on different bases: [20,000 students across six universities and more than 300 localities on 13 July](https://angop.ao/noticias/economia/vinte-mil-estudantes-beneficiam-do-projecto-conecta-angola/), and [3,972 students at two Luanda schools connected by satellite and white-space on 14 July](https://techreviewafrica.com/news/6298/angola-connects-nearly-4000-students-through-angosat-2-and-tv-white-space-connectivity-project).
+
+The programme's antenna recovery and migration reached two more localities at the end of the month: a point restored at Quiage commune in Bengo, stated to serve five thousand residents, and a connection under way at [Quirimbo municipality in Cuanza-Sul, delivered by startups of the national space programme](https://angop.ao/noticias/economia/populacao-do-quirimbo-entra-na-era-da-conectividade-com-angosat-2/). No running total of points restored or live accompanies the site-by-site reports.
 <!-- /narrative -->
 
 ## Data

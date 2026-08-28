@@ -1,11 +1,11 @@
 ---
 title: Chad — monthly update, July – August 2026
-compiled: 2026-08-27
-period: 2026-07-01 to 2026-08-27
+compiled: 2026-08-28
+period: 2026-07-01 to 2026-08-28
 place: TCD
 ledger_rows: 37
 not_held: 41
-record: 9c7024619eaa
+record: 7e0ecb2bedef
 ---
 
 # Chad: monthly update, July – August 2026
@@ -44,6 +44,8 @@ A [national internet governance forum devoted to artificial intelligence is in p
 
 <!-- narrative: finance--finance-new -->
 The digital transformation project [shows US$12,220,932 disbursed and three thousand electronic payment terminals handed to the finance ministry](https://www.lepaystchad.com/tchad-3-000-terminaux-de-paiement-electronique-remis-au-ministere-des-finances-pour-moderniser-la-collecte-des-recettes-publiques/), with about 500 unserved localities named as the outstanding challenge. Its envelope is [carried as FCFA 76.45bn in one source and US$92.2m in another](https://projects.worldbank.org/en/projects-operations/project-detail/P180000) — the first close to total project cost, the second to the grant alone — and no source reconciles them. A [further programme of about FCFA 8bn sits at pipeline stage](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=46002-P-TD-K00-019), 90 per cent externally committed with a closing date of 31 January 2029, covering electronic tax, standardised electronic invoicing, customs upgrades, tax teleservice centres and one-stop-shop interconnection. It is an aid-transparency record, not a signed instrument.
+
+The fund's own appraisal report now settles the amount the base could not reconcile: the [grant is UA 9.52m against a phase-one total cost of UA 10.535m](https://www.afdb.org/sites/default/files/documents/projects-and-operations/chad_-_support_program_to_improve_the_business_climate_and_the_modernization_of_public_administration_paacama_phase_i.pdf), so the FCFA figure the base had been carrying was a reporting outlet's conversion, and the gap between the two is the rest of the financing plan rather than a discrepancy.
 <!-- /narrative -->
 
 ## ICT Infrastructure

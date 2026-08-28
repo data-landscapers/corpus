@@ -1,11 +1,11 @@
 ---
 title: Tunisia — monthly update, July – August 2026
-compiled: 2026-08-27
-period: 2026-07-01 to 2026-08-27
+compiled: 2026-08-28
+period: 2026-07-01 to 2026-08-28
 place: TUN
 ledger_rows: 41
 not_held: 9
-record: a588ca440c8c
+record: a83cfe7b3235
 ---
 
 # Tunisia: monthly update, July – August 2026
@@ -90,6 +90,8 @@ A second identifier moved a step behind it. At a ministerial session at La Kasba
 Tunisia's payments market is large enough for the question of who bears a loss to matter, and the law does not answer it. A published legal analysis finds [no Tunisian text — not the 2000 electronic commerce law, the 2023 cybersecurity decree-law, nor the central bank's 2024 circular — allocating the loss between bank, merchant and cardholder when an electronic payment is hijacked, altered or blocked by a cyber incident](https://www.tunisiaonlinenews.com/tunisia-cyber-risk-who-pays-when-electronic-payments-fail/), against 164.8 million transactions worth 29.5bn dinars in 2025, up 12.3%, and reported cyber incidents rising from 63,000 in 2021 to more than 155,000 in 2022. The absence is now recorded as a gap.
 
 The month's other payments item was an outage notice rather than a policy: the interbank switch [announced a planned technical intervention overnight on 11 August](https://fr.linkedin.com/posts/monetique-tunisie_information-importante-dans-le-cadre-activity-7492663715733983232-dNXD), which is the only public statement the base holds about the availability of the rail those 164.8 million transactions run on.
+
+The founding instrument behind the online honour loans is now held: [Decree 2026-148 of 23 July 2026, published in the official journal, fixes the conditions and criteria on which the micro-financings are granted](https://lake.jort.tn/journal-officiel/fr/2026/075.pdf) - the text the base had been carrying only through a secondary account of its ceilings and grace period.
 <!-- /narrative -->
 ### Registries
 
@@ -131,7 +133,7 @@ Tunisia's own startup law, meanwhile, [became the curriculum of the Japanese-fin
 ### Training and skills
 
 <!-- narrative: capacity--capacity-training -->
-The family and women's ministry, a national entrepreneurs' organisation and a UN regional commission [opened a training programme for 100 women entrepreneurs in e-commerce and artificial-intelligence applications, alongside a national platform for marketing women's products](https://www.assabahnews.tn/ar/%D9%85%D9%82%D8%A7%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%B5%D8%A8%D8%A7%D8%AD/152460). Both sit under a declaration on women, youth, digitalisation and African economic integration whose action plan targets training 100,000 women and young people in e-commerce, AI and cross-border digital payments by 2028, and a US$50m fund for inclusive markets by the same date. The training launch's own date is not established in the source.
+The family and women's ministry, a national entrepreneurs' organisation and a UN regional commission [opened a training programme for 100 women entrepreneurs in e-commerce and artificial-intelligence applications, alongside a national platform for marketing women's products](https://www.assabahnews.tn/ar/%D9%85%D9%82%D8%A7%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%B5%D8%A8%D8%A7%D8%AD/152460). Both sit under a [declaration on women, youth, digitalisation and African economic integration whose action plan targets training 100,000 women and young people in e-commerce, AI and cross-border digital payments by 2028, and a US$50m fund for inclusive markets by the same date](https://www.assabahnews.tn/ar/%D9%85%D9%82%D8%A7%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%B5%D8%A8%D8%A7%D8%AD/152460). The training launch's own date is not established in the source.
 <!-- /narrative -->
 
 ## Inclusion

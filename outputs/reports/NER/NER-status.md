@@ -1,15 +1,15 @@
 ---
 title: Niger — digital transformation and data governance status report
-compiled: 2026-08-27
+compiled: 2026-08-28
 place: NER
-ledger_rows: 61
+ledger_rows: 62
 not_held: 4
-record: 0029c2e8a59e
+record: 9fd9e3ee23f9
 ---
 
 # Niger: status report
 
-*Compiled 2026-08-27 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/NER/ledger.csv` (61 systems and instruments, 4 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-28 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/NER/ledger.csv` (62 systems and instruments, 4 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -284,6 +284,12 @@ Research capacity is recorded through government decisions rather than instituti
 | System or instrument | Status | Milestone |
 |---|---|---|
 | Guidan Fasaha community digital centre | [Implemented](https://www.actuniger.com/societe/22196-tahoua-le-pam-inaugure-gidan-fasaha-un-espace-communautaire-pour-faire-du-numerique-un-nouveau-levier-de-resilience-dinnovation-et-dinclusion.html) | Inaugurated at Tahoua 2026-07-15 |
+
+### Digital divides
+
+| System or instrument | Status | Milestone |
+|---|---|---|
+| Operator foundation training for women in digital financial tools | [Implemented](https://techafricanews.com/2026/08/28/airtel-africa-foundation-expands-financial-inclusion-support-for-women/) | First cohort completed at Zinder, 2026-08-28 |
 
 <!-- narrative: inclusion -->
 Inclusion runs through community infrastructure. The World Food Programme [opened a second community digital centre at Tahoua in July 2026](https://www.actuniger.com/societe/22196-tahoua-le-pam-inaugure-gidan-fasaha-un-espace-communautaire-pour-faire-du-numerique-un-nouveau-levier-de-resilience-dinnovation-et-dinclusion.html), with 100 computers and 50 kW of solar power, after one at Diffa.

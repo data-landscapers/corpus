@@ -1,11 +1,11 @@
 ---
 title: Mauritius — monthly update, July – August 2026
-compiled: 2026-08-27
-period: 2026-07-01 to 2026-08-27
+compiled: 2026-08-28
+period: 2026-07-01 to 2026-08-28
 place: MUS
 ledger_rows: 45
 not_held: 9
-record: 511af8b7be64
+record: 35e1469457e7
 ---
 
 # Mauritius: monthly update, July – August 2026
@@ -99,6 +99,8 @@ Two cyber measures moved. The [July omnibus would empower the central bank to es
 August supplied the first figure for what any of this is against: [more than 4,000 reported cyber incidents in Mauritius since January 2026](https://techreviewafrica.com/news/6758/mauritius-telecom-launches-national-cybersecurity-and-ai-awareness-programme-for-students), given at the launch of the schools awareness programme. No reporting body, definition or comparable earlier period is named with it.
 
 The ministry's own communique put [4,076 cybersecurity and online-behaviour reports between January and July 2026 against a cybercrime unit of seventeen investigators](https://lexpress.mu/node/561791). Both figures come from the same communique, which is what makes the ratio quotable.
+
+The instrument behind the blocking figures is now held, and it settles how they are counted. [Telecommunication Directive 2 of 2025, issued on 24 March 2025 under the ICT Act, moved the four internet service licence holders off the regulator's centralised child-sexual-abuse filter and onto on-premises filtering in each operator's own network against the Project Arachnid blacklist by 1 May 2025, with no deep packet inspection, HTTPS blocking only at domain level, monthly returns of access attempts and blocked addresses and domains, and an annual external security audit](https://www.icta.mu/documents/2025/03/TD_2_of_2025.pdf). The blocked-attempt totals the base carries are therefore hit counts against a list, not unique users and not confirmed retrievals.
 <!-- /narrative -->
 
 ## DPI

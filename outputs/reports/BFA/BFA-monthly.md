@@ -1,11 +1,11 @@
 ---
 title: Burkina Faso — monthly update, July – August 2026
-compiled: 2026-08-27
-period: 2026-07-01 to 2026-08-27
+compiled: 2026-08-28
+period: 2026-07-01 to 2026-08-28
 place: BFA
-ledger_rows: 53
+ledger_rows: 54
 not_held: 11
-record: 9d34cd322e45
+record: 64b9561b058a
 ---
 
 # Burkina Faso: monthly update, July – August 2026
@@ -80,6 +80,8 @@ A wholly domestic commercial hosting provider [launched on 31 July](https://www.
 The Council of Ministers of 30 July [adopted two decrees applying the 2024 information-systems security law](https://burkina24.com/wp-content/uploads/2026/07/CONSEIL-DES-MINISTRES-N%C2%B025-DU-30-JUILLET-2026.pdf): one identifying, classifying and setting obligations for critical-infrastructure bodies, expressly spanning energy, water, health, telecommunications and finance, and one fixing periodic security audits and vesting auditor accreditation in the national cyberspace control body. The law had asserted both duties since July 2024 with no machinery attached.
 
 The building meant to carry the supervision got its first progress statement in seven months. The digital transition minister [inspected the site on 5 August](https://nouvellesafrique.com/transition_digitale-dr-aminata-zerbo-sabane-inspecte-deux-chantiers-majeurs-a-ouagadougou/), where the technical managers put physical execution across that worksite and the first citizen service centre together at about 20%; the account names the build the Centre d'opération du Réseau Backbone national and gives it the same supervisory function the January account gave the supervision centre. The stated delivery month is October 2026.
+
+Alongside the build, the state published a count of what it has tested. [205 state digital platforms have been put through security testing to find and correct vulnerabilities, 1,460 platforms on the .bf domain reachable from the internet have been mapped, and 28 public bodies placed under reinforced protection](https://www.wearetech.africa/fr/fils/actualites/tech/burkina-faso-205-plateformes-publiques-testees-pour-renforcer-la-cybersecurite), all under the national critical-infrastructure programme. No period, finding, remediation rate or list of the bodies covered accompanies the figures.
 <!-- /narrative -->
 
 ## DPI

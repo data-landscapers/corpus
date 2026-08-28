@@ -1,11 +1,11 @@
 ---
 title: Comoros — monthly update, July – August 2026
-compiled: 2026-08-27
-period: 2026-07-01 to 2026-08-27
+compiled: 2026-08-28
+period: 2026-07-01 to 2026-08-28
 place: COM
-ledger_rows: 12
+ledger_rows: 13
 not_held: 35
-record: f1a7c8e38e22
+record: 64d282f65982
 ---
 
 # Comoros: monthly update, July – August 2026
@@ -24,6 +24,8 @@ ANADEN, the digital development agency, [seated its board of directors for the f
 
 <!-- narrative: governance--gov-policy -->
 ANADEN, the digital development agency, [held the first meeting of its board of directors on 27 July 2026 at the Hôtel Retaj in Moroni](https://alwatwan.net/societe/gouvernance-du-num%C3%A9rique-i-l%E2%80%99anaden-installe-son-conseil-d%E2%80%99administration-et-d%C3%A9voile-ses-priorit%C3%A9s.html), members having been named by decree n°26-075/PR of 11 June 2026. The board adopted its rules of procedure and elected Nourdine Mohamed of the Commissariat général au Plan as chair, Najwa Aichem Hissami Eddine of the Presidency of the Union as vice-chair and El Amine Souef of the ICT ministry as rapporteur. It then examined ANADEN's 2026 action plan, presented by director-general Said Mouinou Ahamada, who [framed the session as the institutional footing for delivery of the Stratégie Comores Numérique 2028](https://lagazettedescomores.com/société/l’anaden-élit-son-bureau-du-conseil-d’administration-.html) and called for tighter coordination between the state bodies represented on the board. The agency had operated without constituted governance organs since the decree naming the board was signed seven weeks earlier.
+
+A second strategy was validated in the same period, this one on data. Government, private sector and civil society met the African Union development agency in Moroni on 24 and 25 August to [review and validate a national data governance strategy for 2027 to 2031, examining its vision, guiding principles, five pillars - digital infrastructure, data governance, interoperability, value creation and data skills - and its implementation plan](https://www.nepad.org/news/lauda-nepad-sassocie-lunion-des-comores-pour-impulser-la-transformation-numerique). Validation at a workshop is not adoption: the text is not published and no adopting instrument, date, budget or responsible body is on record.
 <!-- /narrative -->
 ### Regional collaboration
 

@@ -1,11 +1,11 @@
 ---
 title: Congo — monthly update, July – August 2026
-compiled: 2026-08-27
-period: 2026-07-01 to 2026-08-27
+compiled: 2026-08-28
+period: 2026-07-01 to 2026-08-28
 place: COG
-ledger_rows: 40
+ledger_rows: 41
 not_held: 12
-record: 76332df3aba7
+record: 69cc77b12f78
 ---
 
 # Congo: monthly update, July – August 2026
@@ -71,6 +71,8 @@ The national data centre remains a thing asserted rather than reported. On 10 Au
 
 <!-- narrative: ict-infrastructure--infra-cybersec -->
 It [launched an open international tender on 23 July for a 24-month mission to draft the national cybersecurity strategy, a national training plan and national conferences](https://fr.linkedin.com/posts/anssi-cg_dans-le-cadre-du-projet-dacceleration-de-activity-7486102141531504641-hbW1), scope covering a sector diagnostic, a strategic roadmap and a standing forum; no contract value is published. On 28 July it [validated a consolidated draft setting qualification conditions for bodies authorised to audit information systems nationally](https://fr.linkedin.com/posts/anssi-cg_il-sest-tenu-ce-mardi-28-juillet-2026-au-activity-7487929626313486337-A1oT), with no adoption instrument, publication date or entry into force stated. Its largest operational mandate arrived through tax legislation: a [decree of 31 March, published 9 July, puts the agency into joint homologation of every invoicing terminal, software and enterprise module](https://sgg.cg/JO/2026/congo-jo-2026-28.pdf); it awards the security label and conformity identifier, audits the infrastructure and takes [15% of homologation fees](https://sgg.cg/JO/2026/congo-jo-2026-29-4.pdf). The same roadmap also names a [national security operations centre and response team](https://www.adiac-congo.com/content/le-numerique-au-service-dun-congo-plus-performant-plus-souverain-et-plus-proche-de-ses) among its infrastructure programmes; it does not exist either.
+
+What the regulator does have is an enforcement record. It [dismantled a sixth SIM box fraud network of the year on 21 August in the Massengo district of Brazzaville, seizing two 16-port SIM boxes, a modem, a laptop and an automatic battery-recharging system, recovering 30 Ugandan numbers in fraudulent use and arresting two people, and puts that network's loss at about FCFA 42m over two months on more than 422,000 diverted call minutes](https://techafricanews.com/2026/08/28/arpce-dismantles-sixth-sim-box-fraud-network-in-brazzaville/). The estimate and the method behind it are the regulator's own, and no prosecution outcome is on record.
 <!-- /narrative -->
 
 ## DPI
