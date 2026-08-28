@@ -1353,7 +1353,7 @@ CloudSufi	1243
 CloudWalk	2518,6229
 Cloudera	10636
 Cloudera. Johannesburg	10636
-Cloudflare	4259,2385,55,1229,1058,631,1153
+Cloudflare	4259,2385,55,1229,1058,631,1153,1009
 Cloudflare DNS-over-HTTPS	700
 Cloudflare DoH	1,16,718,2081,1045,3186,2435
 Cloudflare Radar	9477

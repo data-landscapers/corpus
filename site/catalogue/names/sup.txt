@@ -1054,6 +1054,7 @@ SupTech	3982,866,2090,3470
 SupTech Enhance Supervisor Capacity	1478
 SupTech Tool for LMIC	1491
 SupTech and RegTech	11134
+Supabase	11779
 Supabase Edge Functions	5513
 Supabase PostgreSQL	5513
 Super	34,2308,4643,4146,3,262

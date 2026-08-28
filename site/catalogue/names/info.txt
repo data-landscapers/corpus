@@ -1199,7 +1199,7 @@ Information Systems for Health Maturity Assessment Toolkit	1824
 Information Technologies	226,3619,5655,1264
 Information Technologies and Services	3722
 Information Technologies and Social Communication	3136,419,131,181,11,1560,329,220,495,114,32,36,133,465,3697,507
-Information Technology	762,481,41,320,68,1,267,277,650,26,470,105,1504,693,1167,114,420,393,371,80,402,58,227,110,201,329,39,407,77,160,506,96,312,73,2
+Information Technology	762,481,41,320,68,1,267,277,650,26,470,105,1504,693,1167,114,420,393,371,80,402,58,227,110,201,329,39,407,77,160,506,96,312,73,2,573
 Information Technology Act	8210,998
 Information Technology Agency	4525
 Information Technology Agency NLP Natural	4126
@@ -2242,6 +2242,7 @@ South Africa's Protection of Personal Information Act	11677
 South Africa's State Information Technology Agency	9776,83
 South Africa. BMC Med Inform Decis	766
 South African Community Library and Information Services	8022
+South African Information and Communication Technology	11779
 South African Journal of Information Keywords	9128
 South African Journal of Information Management	2093,855,1484,3327,262,1,108,473,525,1,108,1086
 South African Journal of Information Management Original	9128,1,108

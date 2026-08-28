@@ -1923,5 +1923,60 @@
     "published": "2026-08-27",
     "written": "2026-08-27",
     "summary": "Senegal and the Gambia moved their June 2026 telecommunications and digital-economy memorandum into implementation around four priorities — connectivity, cybersecurity, skills and digital transformation — with Senegal's minister travelling to Banjul to agree the first joint work, and the two regulators separately deepening cooperation on frequency coordination, service quality and cross-border roaming. The structural case is the Gambia's limited terrestrial fibre build and its dependence on a single submarine cable, with only limited terrestrial redundancy through Senegal."
+  },
+  "2026-08-28-itwebafrica-microsoft-east-africa-lead-azure-region": {
+    "published": "2026-08-28",
+    "written": "2026-08-28",
+    "summary": "Microsoft filled its East Africa country lead post, vacant since January 2026, with a Nairobi-based executive who has been with the company since 2012 and most recently ran customer success for East and West Africa. The outlet frames the appointment against the company preparing to bring East Africa's first Azure cloud region and a geothermal-powered data centre online; that framing carries no date, and the base's dated record of the Kenyan build stalling on power capacity stands."
+  },
+  "2026-08-28-itwebafrica-mozambique-amia-launch-data-governance-policy": {
+    "published": "2026-08-28",
+    "written": "2026-08-28",
+    "summary": "Mozambique's new artificial-intelligence association inaugurated its leadership in Maputo on 27 August 2026, three months after the country published a draft national AI strategy. The national ICT institute's board chairman described it as a technical platform meant to connect government, the private sector, academia, the technology community and civil society, and said a national data governance policy and strategy is under development. That policy is not yet published."
+  },
+  "2026-08-28-itwebza-saicta-industry-connect-ict-jobs-portal": {
+    "published": "2026-08-28",
+    "written": "2026-08-28",
+    "summary": "South Africa's ICT industry association launched Industry Connect, a portal that puts vacancies, jobseeker profiles and professional development in one place, covering roles in artificial intelligence and machine learning, data, cyber security, cloud and software development. It arrives with the government and business partnership entering the third phase of its million-jobs-by-2030 programme, and against a persistent national shortage in those same disciplines; the association's own catalogue of 151 development courses sits alongside it. No user, employer or placement figure is published."
+  },
+  "2026-08-28-techafricanews-airtel-uganda-h1-2026-results": {
+    "published": "2026-08-28",
+    "written": "2026-08-28",
+    "summary": "Airtel Uganda's customer base grew 10 per cent to 19.7 million in the first half of 2026, with data customers up 18.8 per cent to 8.9 million, data traffic up 42.1 per cent and average use per customer up 21 per cent to 7.2GB. Smartphone penetration reached 46.6 per cent. No revenue or average-revenue-per-user figure is stated."
+  },
+  "2026-08-28-techafricanews-cote-divoire-pncr-575-localites": {
+    "published": "2026-08-28",
+    "written": "2026-08-28",
+    "summary": "A late re-report of Côte d'Ivoire's national rural connectivity programme, whose first phase was commissioned at Djebakaha, near Korhogo, on 2 August 2024. The programme's 38 billion CFA franc budget is to reach 575 rural localities in three phases, the second worth 18 billion CFA francs across 240 localities and the third 10 billion CFA francs across 160, both scheduled for 2024 and 2025. The source carries no progress against those later phases."
+  },
+  "2026-08-28-techafricanews-maroc-inde-commission-mixte-ia-langues": {
+    "published": "2026-08-28",
+    "written": "2026-08-28",
+    "summary": "Morocco and India agreed in Rabat on 24 August 2026 to set up a joint commission on artificial intelligence and language technologies, opening on systems that handle multiple languages, variants and dialects in dealings between citizens and the administration, and on cooperation around the JAZARI Institutes. The agreement follows the two ministers' February 2026 meeting in New Delhi. The commission is agreed rather than constituted: no instrument, terms of reference, budget or standing-up date is stated."
+  },
+  "2026-08-28-techcabal-4g-capital-1bn-disbursed-eva-underwriting": {
+    "published": "2026-08-28",
+    "written": "2026-08-28",
+    "summary": "A profile of a Kenyan lender to micro and small businesses, founded in 2013 on the premise that unsecured working capital repaid on time is itself the credit record a trader without collateral or accounts cannot otherwise produce. It said in June 2026 that it had disbursed more than $1bn across over seven million loans at a repayment rate of about 95 per cent, with an algorithmic underwriting engine sizing each subsequent loan from repayment behaviour. The figures are the company's own."
+  },
+  "2026-08-28-wearetech-flexee-pay-tunisie-education-financiere-jeunes": {
+    "published": "2026-08-28",
+    "written": "2026-08-28",
+    "summary": "A Tunisian fintech launched in 2025 offers 12- to 25-year-olds a payments and budgeting app that needs neither a bank account nor a physical card: users receive money, track spending and pay by QR code or contactless at partner merchants, with a savings feature, cashback and an AI coach giving personalised advice. Parents keep oversight through their own space, scheduling transfers and watching transactions in real time. The product is still in launch phase ahead of app-store release; no user figure is published."
+  },
+  "2026-08-28-wearetech-integrity360-cyberiam-acquisition": {
+    "published": "2026-08-28",
+    "written": "2026-08-28",
+    "summary": "A cyber security group announced on 27 August 2026 that it had bought an identity and access management specialist operating in the United Kingdom and South Africa, taking the combined business to 900 staff across three continents. No deal value is stated."
+  },
+  "2026-08-28-wearetech-pikado-egypte-ia-apprentissage-anglais": {
+    "published": "2026-08-28",
+    "written": "2026-08-28",
+    "summary": "An Egyptian startup founded in 2022 teaches English to 4- to 16-year-olds through short daily exercises, stories and conversation with an AI assistant, aimed at speaking and listening rather than rote learning, and built to fit either a school curriculum or home use. Teachers get progress statistics, can replay pupils' voice recordings and send targeted feedback; the same technology is sold to employers for 15-minute daily workplace-English practice. No user or customer figure is published."
+  },
+  "2026-08-28-wearetech-talstack-nigeria-module-conges": {
+    "published": "2026-08-28",
+    "written": "2026-08-28",
+    "summary": "A Nigerian human-resources platform added a leave module, replacing spreadsheets and email threads with a single place to request holiday and sick leave, show staff their remaining balance and give managers a view of who is absent. No customer or pricing figure is published."
   }
 }

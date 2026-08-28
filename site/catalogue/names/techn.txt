@@ -1111,7 +1111,7 @@ Information Systems and Technology	1248
 Information Technologies	226,3619,5655,1264
 Information Technologies and Services	3722
 Information Technologies and Social Communication	3136,419,131,181,11,1560,329,220,495,114,32,36,133,465,3697,507
-Information Technology	762,481,41,320,68,1,267,277,650,26,470,105,1504,693,1167,114,420,393,371,80,402,58,227,110,201,329,39,407,77,160,506,96,312,73,2
+Information Technology	762,481,41,320,68,1,267,277,650,26,470,105,1504,693,1167,114,420,393,371,80,402,58,227,110,201,329,39,407,77,160,506,96,312,73,2,573
 Information Technology Act	8210,998
 Information Technology Agency	4525
 Information Technology Agency NLP Natural	4126
@@ -1937,6 +1937,7 @@ South Africa's State Information Technology Agency	9776,83
 South Africa's Technology Innovation Agency	10414
 South Africa. Technology	9130
 South African Centre for Industry and Technology	11221
+South African Information and Communication Technology	11779
 South African Joint Technical Team	11185
 South African Quantum Technology Initiative	9698
 South Africans. Technology	6734
