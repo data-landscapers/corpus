@@ -1,11 +1,11 @@
 ---
 title: Uganda — monthly update, July – August 2026
-compiled: 2026-08-27
-period: 2026-07-01 to 2026-08-27
+compiled: 2026-08-28
+period: 2026-07-01 to 2026-08-28
 place: UGA
-ledger_rows: 81
+ledger_rows: 83
 not_held: 16
-record: 61e80b008e38
+record: 0663ae5847ea
 ---
 
 # Uganda: monthly update, July – August 2026
@@ -83,6 +83,8 @@ The digital acceleration project is [named as funder of the Tororo, Mbarara and 
 <!-- narrative: ict-infrastructure--infra-connect -->
 The regulator published sector figures on 2 July: [about 47 million active SIM subscriptions and smartphone usage of 20 million devices, up from 18 million](https://itweb.africa/article/uganda-outlines-next-ict-goals/KzQenqjyXWdMZd2r). The regulator's own quarterly report for the period to 30 September 2025 recorded 45.7 million active mobile subscriptions; both sets are compiled from licensees' submissions.
 
+The second operator reported the same demand from the other side: [19.7 million customers at the half year to 30 June, up 10%, of whom 8.9 million take data, up 18.8%, with data traffic up 42.1% and average use per customer up 21% to 7.2GB against smartphone penetration of 46.6%](https://techafricanews.com/2026/08/28/airtel-uganda-customer-base-grows-10-percent-to-19-7-million-h1-2026/) — its own unaudited figures, and the first half-year series the base holds for it.
+
 On 5 August the network operator with the largest published footprint released its 2025 sustainability report, recording for the year to 31 December 2025 [24.2 million subscribers, population coverage of 96.2% 3G, 88.6% 4G and 19% 5G, 27,037 km of fibre and 45% of network sites on solar or hydro](https://www.mtn.co.ug/wp-content/uploads/sites/7/2026/08/MTN-Uganda-Sustainability-Report-2025-Digital-1.pdf). These are the company's own unaudited figures and the base holds no prior-year comparator.
 
 The largest mobile operator [extended its group-level Starlink partnership to Uganda](https://techafricanews.com/2026/08/27/mtn-uganda-starlink-expand-connectivity-remote-areas/) to bring satellite-backed connectivity to remote areas. It is distinct from the satellite operator's own licence, and no coverage target, site count or tariff is given.
@@ -120,6 +122,8 @@ Four days later the Auditor General's account of the same authority reached the 
 
 <!-- narrative: dpi--dpi-pay -->
 Three payment arrangements were opened in the month, all private. A [licensed local-currency-in, stablecoin-out settlement corridor across four East African markets including Uganda](https://techafricanews.com/2026/07/16/scrypt-expands-stablecoin-settlement-network-across-four-east-african-markets/) opened on 16 July with no volume or counterparty figure published. On 21 July [motor third-party insurance went on sale over a mobile-money channel](https://techafricanews.com/2026/07/22/airtel-money-uganda-and-britam-partner-to-expand-digital-insurance-and-financial-services/) with a digital sticker issued online, framed by the insurance regulator as narrowing the protection gap; no premium, policy count or target was published. On 24 July a bank and a payments company [signed a memorandum on school-fees saving with payment-history-based financing, agent-network healthcare payments and digitised insurance](https://www.newvision.co.ug/category/business/centenary-micropay-partner-to-expand-digital-NV_237612_072026). The signature date is unestablished, and nothing is on file about consent, retention or the legal basis for the credit-scoring layer.
+
+A fifth put fares on a network. An operator and an electric bus company [launched a cashless route in Kira Municipality, combining electric mobility, connectivity and digital payments](https://techafricanews.com/2026/08/28/mtn-uganda-and-ebus-xpress-launch-electric-cashless-bus-route-in-kira/), attended by the ministers for science and technology and for Kampala; no fleet size, fare, ridership or payment instrument is published. It is the base's first instance of public-transport fare collection being digitised here.
 
 A fourth opened a settlement route rather than a product: a commercial bank [integrated China's cross-border interbank payment system to offer direct yuan settlement to Ugandan businesses](https://ntv.co.ug/news/uganda-china-tradenew-banking-system-opens-direct-yuan-payments), against imports from China of US$3.3bn in 2025 and exports of US$118m. One bank's service, with no volume, fee or central-bank position stated.
 
