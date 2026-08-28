@@ -1,42 +1,31 @@
 ---
 type: runbook
 title: Render the site — instruction for Claude Code
-last_reviewed: 2026-08-16
+last_reviewed: 2026-08-28
 ---
 
 # Render the site — runbook for Claude Code
 
-*(Hand this to Claude Code running in the Corpus repo on Bill's machine. It renders every site page from Corpus-owned `outputs/`. Read `documentation/handover.md` and `documentation/design.md` §8 first. OSINT is read-only and is not touched by any step here. **To run this straight after `BUILD.md` as one job, use `CYCLE.md`**, which orders the two and changes nothing here; this file is unaffected by it and runs alone exactly as written, Step 0 included.)*
-
-## What changed, and why this runbook exists
-
-Corpus now **authors** its report and compile layer itself, in `outputs/` (see `documentation/migration-report-layer.md`). It is no longer a mirror pulled from OSINT.
-So the build no longer starts with a pull. It starts from `outputs/`, which is already in the repo and committed. *(`scripts/pull.py` and its test were deleted on 2026-08-16; the leak gate they carried moved to `scripts/leak-check.py`, and was retired with it on 2026-08-25 — `documentation/design.md` §8.)*
-The renderers read `outputs/` directly *(2026-08-16)*. They were written against `upstream/`, a mirror of `outputs/` that RENDER refreshed on every run; the repoint this file used to defer has been done and `upstream/` is deleted. There is no copy step and no second tree that can go stale.
+*(Job 2. Renders every site page from Corpus-owned `outputs/`, which is already in the repo and committed — there is no pull and no second tree. Read `documentation/design.md` §8 and §9 first. OSINT is read-only and is not touched by any step here. To run this straight after `BUILD.md` as one job, use `CYCLE.md`; this file runs alone exactly as written, Step 0 included.)*
 
 ## Prerequisites
 
-- Python 3 with WeasyPrint and its system libraries installed. On this machine (2026-08-13): MSYS2 at `C:\msys64` provides Pango/Cairo/HarfBuzz, and `C:\msys64\mingw64\bin` sits on the user PATH **after** the Python entries but **before** `C:\Program Files\Tesseract-OCR`. Both halves of that ordering matter: MSYS2 ships its own `python.exe`, so putting it earlier shadows the real interpreter, while Tesseract ships an older copy of the same Pango DLLs, so putting it later makes WeasyPrint fail with `cannot load library … error 0x7f`. If a render errors on a missing or unloadable shared library, check that ordering first.
-- Run every command from the repo root (`C:\CORPUS`).
-- Commit after each coherent step (repo convention).
+- Python 3 with WeasyPrint and its system libraries. On this machine, MSYS2 at `C:\msys64` provides Pango/Cairo/HarfBuzz, and `C:\msys64\mingw64\bin` sits on the user PATH **after** the Python entries but **before** `C:\Program Files\Tesseract-OCR` — MSYS2 ships its own `python.exe`, and Tesseract ships older Pango DLLs (`cannot load library … error 0x7f`). A missing/unloadable shared library means check that ordering first.
+- Run every command from the repo root. Commit after each coherent step.
 
 ## Running unattended — a run never stops to ask
 
-**RENDER puts no question mid-stream** *(Bill, 2026-08-16)*. It is run straight after `BUILD.md` with nobody watching. A run ends two ways — it **finishes** or it **fails** — and a failure is an error it cannot get past, never a decision it would rather Bill made. Where it wants his attention, it finishes the job and writes a block under the marker in `logs/messages-for-bill.md`: what it would have asked, what it did instead, what his options are.
-
-This is easier to hold to here than in BUILD, because RENDER judges nothing about its input by design. Its one hard stop is named and mechanical: **Step 0**, a build that did not finish. Everything else is rendered, committed and deployed.
+**RENDER puts no question mid-stream.** A run finishes or fails; a failure is an error it cannot get past, never a decision it would rather Bill made. Where it wants his attention, it finishes the job and writes a block in `logs/messages-for-bill.md`. RENDER judges nothing about its input by design; its one hard stop is Step 0.
 
 ## Step 0 — a finished build behind you, then a clean tree
 
-**Stamp the clock first, before the gate** *(Bill, 2026-08-17)*, so the run's log line can say how long it took:
+Stamp the clock first, before the gate, so a Step 0 stop logs a duration too:
 
 ```bash
 python scripts/log-line.py --start render
 ```
 
-Before the gate rather than after it, because a Step 0 stop logs a line too and a stop that took twenty minutes to reach is worth being able to see. The stamp lives in the gitignored `logs/.run-start-render`; the closing call in **Log** reads it back and clears it, and a run that skipped this writes `unclocked` rather than dropping the field.
-
-**Check the build finished before rendering a line of it** *(2026-08-16)*. A build that ran out of road mid-stage-4 leaves a tree that renders perfectly: every document is well-formed, every link resolves, every check passes, and the units that never got their new sources are silently a cycle out of date. Nothing downstream can see that, which is why the test is here and why it fails the run rather than warning.
+**Check the build finished before rendering a line of it.** A build that died mid-stage-4 leaves a tree that renders perfectly — every check passes, and the units that never got their sources are silently a cycle out of date. Nothing downstream can see that, so the test is here and it fails the run:
 
 ```bash
 # 1. a build that started and never reported itself leaves its sentinel behind
@@ -54,20 +43,15 @@ fi
 echo "build ok: ${build_line%% · build · *}"
 ```
 
-**Check 1 is the mechanism and the other two are cheap corroboration** *(2026-08-16)*. `BUILD.md` stage 0 writes `logs/.build-in-progress` and its ending sequence removes it — on a clean finish and on a logged error alike, because both are runs that accounted for themselves. The file therefore survives exactly one thing: a session that died without saying so. That is a direct statement of the condition rather than an inference from timestamps, and the distinction is the reason this check is shaped the way it is.
+**Check 1 is the mechanism; the other two are cheap corroboration.** The sentinel survives exactly one thing — a session that died without saying so — and asserts the condition directly. (A timestamp test cannot: other jobs legitimately commit `outputs/`, and a died build commits its finished units and writes nothing, so timestamp logic fails in both directions.)
 
-**The timestamp test was tried first and does not work** *(2026-08-16)*. *Refuse when `outputs/` carries commits newer than the newest `· build ·` line* reads like the obvious implementation and fails on the live repo, because BUILD is not the only job that writes `outputs/`: `STATUS-INIT` rewrites a country's baseline and commits it, which puts fresh `outputs/` commits above the last build line as a matter of course. Every render following a baseline session would have stopped.
-**Nor is it rescued by having STATUS-INIT log**, which it now does (`STATUS-INIT.md` stage 3 step 14, added the same day). Generalise the test to the newest line of *any* job and it inverts into a false negative: a BUILD that dies at unit 20 of 45 commits those twenty and writes nothing, and the next baseline session's line then sits above them and clears the half-finished build through a gate built to catch exactly it. The sentinel asserts the thing itself — a run started and never accounted for — and has neither failure mode.
+**All three log and stop** — `python scripts/log-line.py render "stopped at step 0: <which> — not rendered"` — and write a message. **The repair is to run BUILD**, which resumes where it stopped. Never delete the sentinel or hand-write a log line to get past this: both are assertions that a build finished, and forging one publishes the half-built tree the check exists to catch.
 
-**All three log and stop** — `python scripts/log-line.py render "stopped at step 0: <which> — not rendered"` — and write a message. None of them is repaired here. **The repair is to run BUILD**, which resumes exactly where it stopped, because stage 4 reads a set difference over slugs and every unit it finished is already marked. Do not delete the sentinel or hand-write a log line to get past this: both are assertions that a build finished, and forging one publishes the half-built tree the check exists to catch.
-
-Then commit anything else outstanding, so the render's own commits are isolated and no uncommitted work is at risk:
+Then commit anything else outstanding, **after the gate, not before** — running it first would satisfy check 3 by committing the very work whose being uncommitted is the evidence:
 
 ```bash
 git add -A && git diff --cached --quiet || git commit -m "Commit outstanding work before render"
 ```
-
-A no-op if the tree is already clean. **It runs after the gate, not before, and the order is load-bearing** — this commit sweeps up everything, `outputs/` included, so running it first would quietly satisfy check 3 by committing the very work whose being uncommitted is the evidence. The gate reads the tree as the build left it; this then tidies what the gate has already ruled on.
 
 ## Step 1 — stamp the commit the site is built from
 
@@ -75,25 +59,15 @@ A no-op if the tree is already clean. **It runs after the gate, not before, and 
 git rev-parse HEAD > BUILT-FROM
 ```
 
-`BUILT-FROM` sits at the repo root and records the Corpus commit this render was cut at. One line, and it is the whole of what Step 1 used to do.
-
-**Nothing reads it any more** *(2026-08-18)*. It used to be printed as the site's provenance stamp by `render.py`, `home.py` and `country.py`; the `Derived from` row and the country header's `base at commit` were removed on Bill's instruction (`documentation/design.md` §9 — the commitment to a reader is a moral one, not a legal one), and no page names a commit now. The stamp is still written, because it costs one line and is the build's own record of which tree a render was cut from. Worth deciding whether to keep it at all rather than leaving it as a file nobody opens.
-
-*(Until 2026-08-16 this step mirrored `outputs/` into `upstream/` with `robocopy /MIR` and wrote `BUILT-FROM` there, because the renderers read that path. The repoint the old text deferred is done: every renderer reads `outputs/` directly and `upstream/` is gone. `scripts/pull.py`, which was the only thing that would have recreated an `upstream/`, was deleted the same day along with `scripts/test_pull.py`.)*
+Records the Corpus commit this render was cut at. No page prints it any more; it is the build's own record, kept because it costs one line.
 
 ## Step 2 — render every report to HTML + PDF
 
-`render.py` takes one markdown file and writes HTML + PDF into `site/reports/…`. Loop it over every report document. *(2026-08-14: the output tree is now taken from the source path, not hardcoded — a document under `outputs/topics/` renders to `site/topics/`. Nothing changes for the unit reports.)*
+`render.py` takes one markdown file and writes HTML + PDF into `site/…`, the output tree taken from the source path.
 
-**Render everything. RENDER does not judge its input** *(Bill, 2026-08-13)*. Whether a document is fit to publish is BUILD's responsibility — BUILD.md § Narrative integrity — and a render that second-guesses it is a second, weaker copy of that judgement in the wrong place.
+**Render everything. RENDER does not judge its input.** Fitness to publish is BUILD's (BUILD.md → *Narrative integrity*); a render that second-guesses it is a weaker copy of that judgement in the wrong place.
 
-**The loop still hands over every document; `render.py` decides whether any of them has moved** *(2026-08-18)*. That is not a judgement about fitness — it is the rule `documentation/design.md` §9 already states: *an edition is cut when the content changes, not when a build runs*. It had never been implemented on this side. The edition is the render date, so the loop above cut a new dated PDF for all 241 documents on every render day and kept it for ever, which is how 1,053 PDFs and 314 MB accumulated in the fortnight from 2026-08-05. `render.py` now digests each source's body below its frontmatter, reads the digest back off the page it wrote last time, and leaves an unchanged document alone — page and PDF both. Expect most documents to report `edition unchanged` on most runs, and the count above to be unaffected: a document that was held off was handled, exits zero, and counts as rendered.
-
-**A document that moves twice in a day gets a second edition, not an overwritten one** *(2026-08-18)*. §9's `-2` suffix is implemented alongside the gate: an in-day session run to force an update on a live issue now cuts `KEN-status-2026-08-18-2.pdf` and leaves the morning's file exactly as it was published. `country.py` and `topic-page.py` read editions through `render.py` rather than parsing filenames themselves, so the country and topic pages offer the newer of the two.
-
-**A held-off document is not restyled, and that is the point.** The PDF embeds the stylesheet, so a change to `report.css` or to the template in `render.py` reaches new editions only. A retained edition is not revised after publication (§9), so the alternative — restyling what is already published — would change the bytes under a citation. To push a presentation change through the whole set deliberately, pass `--force` in the loop; it cuts 241 editions, so it is a decision, not a habit.
-
-**The first run after 2026-08-18 cuts an edition for every document**, because no page yet carries the record the gate compares against. That is the same call `report-render.py` makes for a document with no stored digest: wrong only in the safe direction, and once.
+**`render.py` decides whether a document has moved** — design.md §9: *an edition is cut when the content changes, not when a build runs*. It digests each source's body below its frontmatter, reads back the digest off the page it wrote last time, and leaves an unchanged document alone — page and PDF both. Most documents report `edition unchanged` on most runs; a held-off document was handled, exits zero, and counts as rendered. A document that moves twice in a day gets a `-2`-suffixed second edition, never an overwrite. **A held-off document is not restyled**: the PDF embeds the stylesheet, so a CSS or template change reaches new editions only — to push one through the whole set, pass `--force`, which cuts every edition and is a decision, not a habit.
 
 ```bash
 rendered=0; failed=0
@@ -124,18 +98,11 @@ if [ "$failed" -gt 0 ]; then
 fi
 ```
 
-**The archive is excluded by name, and excluding it is not a hole in the assertion** *(2026-08-27)*. The indicator-frame redesign writes `outputs/reports/{unit}/progress-narrative-archive.md` — the per-chapter narrative the progress report carried before the frame replaced it, kept as source material for the drafting pass and published nowhere (`progress-report-redesign-review.md` item 4). `report-render.py` already refuses to check it, by the `NOT_A_DOCUMENT` list and for the same reason; this assertion had not been told, so on the first render after the archives were written it counted 296 files, matched 242, and stopped the run over 54 files that must never be rendered. The exclusion is by exact filename rather than by a widened pattern, so the property the assertion exists for is intact: a real document renamed out of the globs still fails the run, because nothing but that one name is forgiven.
+**The count is asserted because a shrinking loop is silent**: a rename moves filenames out of the glob and the loop quietly renders a subset with a zero exit, while `site/` — never purged — serves the old pages indefinitely. The assertion enumerates without a pattern, so no rename can shrink the set in silence. `progress-narrative-archive.md` is excluded **by exact filename** — it is the per-chapter narrative the indicator frame archived as drafting material, published nowhere — so the property stands: nothing but that one name is forgiven.
 
-**The two ways of coming up short are not the same failure and no longer share an outcome** *(2026-08-16)*. The old assertion fired on `rendered -ne present`, which lumped them together, printed *do not deploy*, and then let the runbook walk straight on into Steps 3 to 7 and deploy — advice with nothing behind it, and the sort of thing an unattended run either obeys too much or ignores.
+**The two ways of coming up short are different failures.** A document the loop **never listed** stops the run — the silent-shrink case, invisible from the output: log, message, no deploy. A document **tried and failed** does not — one page that will not typeset keeps its previous render either way, so withholding the other pages protects nothing: note it, render on, deploy, list it in the message.
 
-- **A document the loop never listed stops the run.** That is the silent-shrink failure this assertion was built for: a rename moves a filename out of the glob and the loop quietly renders a subset with a zero exit, while `site/` keeps serving the old pages indefinitely because it is never purged. Nobody can see it from the output, so it fails the run — log, message, no deploy.
-- **A document that was tried and failed does not.** One report that will not typeset is a known, visible, single-page fault, and withholding the other 240 pages to punish it is a worse outcome by every measure — the failed page keeps its previous render either way, exactly as the stale-page paragraph below describes, so stopping protects nothing and costs the whole cycle. Note it, render on, deploy, and put the list in `logs/messages-for-bill.md`.
-
-Today that is 54 status + 57 progress + 54 monthly = 165 place documents, plus 76 topic documents (*Topics* below) = 241, plus the bulletin = **242**, all of them as HTML and PDF — but **the assertion is what to trust, not the number**, which moves as units are initialised and as the taxonomy grows.
-
-**The count is asserted because a shrinking loop is silent** *(2026-08-14)*. The `|| echo "RENDER FAIL"` above only fires for a document that was *tried* and failed; it says nothing about one the shell never listed. When the monthly and progress filenames dropped their month, the old `*-progress-*.md` and `*-monthly-*.md` patterns stopped matching anything, and the loop would have quietly rendered 54 documents instead of 165 with no error and a zero exit. Step 1's `/MIR` deletes the old filenames in the same run that breaks the match, so there is no second chance to notice. `site/` is not mirrored and not purged, so all 111 monthly and progress pages would have gone on being served at their last-rendered state indefinitely — the same stale-page failure described below, reached by a different route. The assertion enumerates without a pattern, so no future rename can shrink the set in silence.
-
-This replaces an earlier rule that skipped any monthly carrying an unwritten-narrative marker. Skipping was worse than useless: it never retracted what an earlier render had already published, so a withheld document kept its stale page on the site indefinitely — on 2026-08-13, `TCD-monthly` and `TGO-monthly` were still serving pages rendered on 08-11 from markdown the run had deliberately declined to publish.
+The set is currently ~242 documents (165 place + 76 topic + the bulletin), all HTML and PDF — but **the assertion is what to trust, not the number**.
 
 ## Step 3 — build the home page
 
@@ -143,9 +110,7 @@ This replaces an earlier rule that skipped any monthly carrying an unwritten-nar
 python scripts/home.py            # -> site/index.html, site/countries/, site/topics/
 ```
 
-It reads catalogue counts from `outputs/catalogue/`. If `outputs/catalogue/stats.json` does not yet exist it falls back to counting `raw-catalogue.csv` — either is fine.
-
-**One command, three pages** *(Bill, 2026-08-24)*. The 54-box country matrix and the taxonomy matrix are pages of their own now — `site/countries/index.html` and `site/topics/index.html` — and the home page keeps each section's heading, its intro paragraph and a link. They stay in `home.py` because all three are the same object built from the same counts, and splitting them would be three scripts reading one `load_stats()`. The topic page prints the whole taxonomy at once, in `lookups/taxonomy.csv`'s own order and wording, so it is the one page that goes out of date when a subject is added to that file and nothing else changes.
+Reads catalogue counts from `outputs/catalogue/` (`stats.json`, falling back to counting `raw-catalogue.csv`). **One command, three pages**: the country matrix and taxonomy matrix are pages of their own, and the home page keeps each section's heading, intro and link. All three are the same object built from the same counts. The topics page prints the whole taxonomy in `lookups/taxonomy.csv`'s order and wording, so it is the page that goes out of date when a subject is added there and nothing else changes.
 
 ## Step 4 — build the country, region and topic pages
 
@@ -154,29 +119,25 @@ python scripts/country.py         # every country -> site/countries/{ISO}/index.
 python scripts/topic-page.py      # every topic   -> site/topics/{slug}/index.html
 ```
 
-**`topic-page.py` runs after Step 2, not before it.** It writes the landing page each topic box opens — the two documents, their periods and their dated PDFs — by reading what Step 2 actually rendered and what BUILD wrote into `outputs/topics/`. Run before the documents exist, it writes pages advertising nothing.
+**`topic-page.py` runs after Step 2** — it writes the landing page each topic box opens by reading what Step 2 actually rendered; run before the documents exist, it advertises nothing.
 
-**It stopped writing the ten Level-1 category indexes on 2026-08-24** *(Bill)*, and the ten `site/topics/{l1}/index.html` were deleted in the same change. They existed for the *All {category}* box that used to close each sub-topic row; that box was the only link on the topics page that opened an index rather than reports, so it went, and the pages had nothing left pointing at them. `/topics/` lists every category and every topic under it, which is what they were for. Expect that deletion once — 38 pages written where it used to say 48.
+**One field dictionary, not one per country.** `site/metadata/non-state-finance-metadata.csv` describes the non-state finance schema for every table on the site: hand-maintained by Bill, generated by nothing. `country.py` links it and refuses to build if it is missing — an absence there is 54 broken links. It carries no edition date: it describes a shape, not a finding.
 
-**One field dictionary now, not one per country** *(Bill, 2026-08-19)*. `site/metadata/non-state-finance-metadata.csv` describes the non-state finance schema for every table on the site. It is **hand-maintained by Bill and generated by nothing** — `country.py` links it and checks it exists, refusing to build if it does not, because an absence there is 54 broken links rather than one. It carries no edition date: it describes a shape, not a finding, and describing the same shape again in September is not a new edition of anything. The per-country `{ISO3}-nonstate-fields-{edition}.csv` files and the `FIELDS` list that generated them are retired — a schema stated in fifty-four generated copies plus a Python list is a schema that will eventually disagree with itself, and that list had already drifted from the authority it cited (see `documentation/finance-field-vocabularies.md`). **Editions already published are left in place**, unrevised, per §9.
+**The finance CSVs are dated editions** — `{ISO3}-nonstate-{edition}.csv` beside each country page, on §9's rule: a new edition only when the bytes move, retained edition over edition, `-2` for a second in a day. Pages are written after the CSVs because they link them by name. The catalogue CSV is deliberately outside the edition rule.
 
-**The finance CSVs are dated editions now** *(2026-08-18)*. `country.py` publishes `{ISO3}-nonstate-{edition}.csv` beside each country page, on §9's rule: a new edition only when the bytes move, retained edition over edition, `-2` for a second in a day. The pages are written after the CSVs because they link them by name. **The first run after this deletes the undated `{ISO3}-nonstate.csv` and `{ISO3}-nonstate-fields.csv`** — `site/` is never purged, so a file that stops being written would otherwise go on being served at a URL §9 does not allow. Expect that deletion once, in the same commit as the first dated editions, and not again. The catalogue CSV is deliberately untouched by any of this (§9, Bill's call).
-
-`country.py` builds the 54 country pages (those in `FULL_NAMES`). The 3 regions (XAF, XSA, XWA) publish as their rendered **progress** report sets from Step 2, linked under the home page's Regions section — they do not currently get a country-style page. If regions should get their own landing pages, that is a small extension to `country.py`, not a blocker for this render.
+`country.py` builds the 54 country pages. The 3 regions (XAF, XSA, XWA) publish as their rendered progress reports from Step 2, linked under the home page's Regions section — no country-style page.
 
 ## Step 5 — build the catalogue page
-
-`scripts/catalogue.py` (promoted from the prototype) writes the browse-and-filter surface and publishes the full downloads. It reads `outputs/catalogue/raw-catalogue.json` and the vocabularies snapshotted in `outputs/vocab/`.
 
 ```bash
 python scripts/catalogue.py       # -> site/catalogue/index.html, catalogue-data.js, raw-catalogue.{csv,json}
 ```
 
-Expect ~10,700 records. The page carries metadata only; each record links to its publisher. If the place/topic labels look stale, refresh `outputs/vocab/countries.csv` and `outputs/vocab/taxonomy.md` from OSINT's `lookups/` and re-run.
+Reads `outputs/catalogue/raw-catalogue.json` and the vocabularies in `outputs/vocab/`. Expect ~10,700 records, metadata only, each linking to its publisher. Stale place/topic labels mean `outputs/vocab/` wants refreshing from OSINT's `lookups/`.
 
 ### The names index — build it before the page
 
-`scripts/build-names-index.py` reads the source bodies through the workroot and writes `outputs/names/`: about 208,000 names occurring in the sources, keyed to stable document ids, cut into ~1,900 shards that the catalogue page fetches one at a time when a reader searches. It needs the vault, so **BUILD runs it as stage 2b**, straight after the catalogue it keys against — there is nothing to do here except be aware that `catalogue.py` below expects it to have run, and packs the shard keys into the page and copies the shards to `site/catalogue/names/`.
+`scripts/build-names-index.py` (BUILD stage 2b, from the workroot) writes `outputs/names/`: ~208,000 names keyed to stable document ids, in ~1,900 shards the catalogue page fetches one at a time on search. `catalogue.py` packs the shard keys into the page and copies the shards to `site/catalogue/names/`.
 
 ```bash
 python scripts/rebuild.py --catalogue                 # BUILD stage 2 + 2b: catalogue, then names
@@ -185,13 +146,11 @@ python scripts/build-names-index.py --stats           # size profile, writes not
 
 ### Entity display names
 
-`scripts/build-entity-names.py` runs as **BUILD stage 2c**, from the same workroot and over the same bodies, and writes `lookups/entity-names.csv` — a display name for each entity slug, derived by asking which name in a slug's own sources best accounts for it. About 68% of slugs are named; `catalogue.py` prettifies the rest from the slug. The name also joins the search blob, so "National Identification and Registration Authority" finds `nira-uganda`.
+`scripts/build-entity-names.py` (BUILD stage 2c) writes `lookups/entity-names.csv` — a display name per entity slug, derived from the slug's own sources; `catalogue.py` prettifies the unnamed rest. The name joins the search blob. **The file is meant to be corrected by hand**: `basis: hand` is never overwritten; `basis` (`acronym`/`full`/`partial`) and `sources` say how much to trust a row. It is Corpus's file: the slugs are OSINT's, how they are written is decided here.
 
-**The file is meant to be corrected by hand.** Set a row's `basis` to `hand` and the deriver will never overwrite it. `basis` is otherwise `acronym`, `full` or `partial`, and `sources` is how many of the slug's sources carried the winning name — between them they say how much to trust a row, so a hand pass can start with the weakest. It is Corpus's file, on the same footing as `lookups/taxonomy.csv`: the slugs are OSINT's, how they are written is decided here.
+**`outputs/names/` is gitignored; `site/catalogue/names/` is tracked** — same shards, and tracking both would carry 37 MB twice. `outputs/catalogue/doc-ids.csv` **is tracked and must stay so**: the append-only registry that keeps postings stable; rebuilding it renumbers every id and rewrites every shard.
 
-**`outputs/names/` is gitignored; `site/catalogue/names/` is tracked.** The two hold the same 1,889 shards, and tracking both would carry 37 MB twice. The published copy is the one the record needs. `outputs/catalogue/doc-ids.csv` **is** tracked and must stay so — it is the append-only registry that keeps postings stable, and rebuilding it from scratch renumbers every id and rewrites every shard.
-
-**The shards are exempt from §9, and deliberately so.** A published file is never revised because a citation rests on its bytes; nothing cites a shard, and a shard is not a finding but a derived lookup that must track the corpus or it is wrong. So shards are rewritten in place and stale ones are deleted, in both `outputs/names/` and `site/catalogue/names/` — the one place on the site where "never purged" does not apply. Two properties keep that disciplined rather than merely convenient. Document ids come from `outputs/catalogue/doc-ids.csv`, which is **append-only**, so a slug's id never changes and a shard's bytes move only when its own names move; and both writers compare before writing, so an unchanged shard is not touched and does not appear in the diff. Expect a handful of changed shards per cycle, not nineteen hundred — if a rebuild shows all of them, the id registry has been rewritten rather than appended to, and that is the bug to look for.
+**The shards are exempt from §9, deliberately.** Nothing cites a shard; it is a derived lookup that must track the corpus or it is wrong. Shards are rewritten in place and stale ones deleted, in both trees — the one place "never purged" does not apply. Ids are append-only, and both writers compare before writing, so expect a handful of changed shards per cycle. A rebuild that changes all of them means the id registry was rewritten rather than appended to — that is the bug to look for.
 
 ## Step 6 — build the non-state finance landing
 
@@ -199,50 +158,36 @@ python scripts/build-names-index.py --stats           # size profile, writes not
 python scripts/finance.py         # -> site/finance/index.html + all-nonstate-{edition}.csv
 ```
 
-This is the page the site nav's **Finance** link points at; without this step that link 404s. Expect ~1,230 deals and a headline total near US$91,000m.
+The site nav's **Finance** link points here. Expect ~1,230 deals and a headline total near US$91,000m. **The all-Africa table is on the landing page itself**, on the same component as each country's `finance.html`; `finance.py` deletes any legacy `all.html` it finds, printing a line. `recipient_country` is ISO-3 in the CSV and a country name in the table, mapped via a `data-labels` attribute from `outputs/vocab/countries.csv`. The cross-country CSV is a dated edition on the same rule as the per-country ones.
 
-**The all-Africa table is on the landing page itself** *(Bill, 2026-08-19; this paragraph corrected 2026-08-25, having gone on describing the arrangement it replaced)*. Every commitment in the base, all countries, all fields, on the same component as each country's `finance.html` (§ *The finance tables*). It had its own URL at `all.html` for a few hours, and a landing page whose whole job was to link to the thing a reader came for is a click charged for nothing — so `finance.py` folded the table in and **deletes any `all.html` it finds**, printing a line when it does. `recipient_country` is an ISO-3 code in the CSV and a country name in the table; `finance.py` passes the map as a `data-labels` attribute built from `outputs/vocab/countries.csv`, narrowed to the codes actually present.
-
-The cross-country CSV is a dated edition on the same rule as the per-country ones in Step 4, and the undated `all-nonstate.csv` is deleted on the first run after 2026-08-18.
-
-Per-country finance is separate and already covered by Step 4: `scripts/country.py` writes a `finance.html` beside each country's `index.html` from `{ISO3}-nonstate.csv`.
-
-**The landing layout is still a shell, deliberately.** `finance.py`'s aggregation is real and its numbers are correct; the *landing's* presentation is a placeholder awaiting design — headline totals, by-sector and by-place tables, links down to each country's finance page. It is wired in because a plain page beats a 404, not because it is finished. **The table below it is not in that category**: it is finished, and it is what a reader who wants the data itself has come for.
+**The landing layout above the table is a placeholder awaiting design**; the table itself is finished and is what a reader came for.
 
 ## The prose
 
-**Every explanatory paragraph the site shows a reader lives in `content/`** *(Bill, 2026-08-19)*, one markdown file per page type, each holding named blocks under `##` headings. `scripts/copy_lib.py` reads them; the builders ask for a block by name.
+**Every explanatory paragraph the site shows a reader lives in `content/`**, one markdown file per page type, named blocks under `##` headings, read by `scripts/copy_lib.py`:
 
 ```bash
 python scripts/copy_lib.py            # what is where: file, key, word count, placeholders
 python scripts/copy_lib.py home       # one file
 ```
 
-The reason is editorial, not architectural. This wording is the part of the site most in need of revision and was the part hardest to revise, distributed across eight scripts as string constants with HTML entities in them, where changing a sentence meant reading Python to find it. Nothing about the build needed this; the person writing the sentences did.
+Three calls for three kinds of slot: `copy()` returns HTML; `copy_inline()` returns it without the wrapping `<p>` (raises if the block has grown to two paragraphs); `copy_md()` returns markdown untouched, for the emitters whose output `render.py` converts later.
 
-Three calls, because there are three kinds of slot. `copy()` returns HTML. `copy_inline()` returns it without the wrapping `<p>`, for a slot that supplies its own — `<p class="section-intro">` and the rest of the classed paragraphs; it raises rather than nesting a `<p>` inside a `<p>` if the block has grown to two paragraphs. `copy_md()` returns the markdown untouched, for `report-render.py` and `bulletin.py`, which emit markdown documents that `render.py` converts later.
-
-**A missing key stops the build.** There is no fallback and no empty string: a page that quietly renders without its explanatory paragraph looks finished and is not, and these are exactly the paragraphs nobody notices are wrong. **Placeholder values arrive pre-formatted** — `{n:,.0f}` is not available inside a content file, because a format spec there puts presentation logic back in the file it was taken out of and fails at build time in what the editor thinks is plain text.
-
-**24 blocks, 931 words, have moved** — the ones carrying no placeholders and no conditional selection. The remaining 39 are still string constants in the builders: 27 carry `{placeholders}` and 9 are branch-selected rather than parameterised (two whole different sentences chosen by a test, singular/plural chains, `report-render.py`'s conditional tail where the closing italic marker depends on the branch). They move the same way when their turn comes; the ones left need a slot or a variant per branch rather than a straight lift.
-
-The move changed no rendered text. The generated HTML differs in two ways only, both verified across every page: source lines that were wrapped in Python are now one long line, and `&mdash;` is now the character `—`.
+**A missing key stops the build** — no fallback, no empty string: a page quietly rendering without its explanatory paragraph looks finished and is not. **Placeholder values arrive pre-formatted** — a format spec inside a content file puts presentation logic back where it was taken out of, and fails at build time in what the editor thinks is plain text. Blocks carrying `{placeholders}` or branch-selection are still string constants in the builders; they move when a slot or variant per branch exists.
 
 ## The finance tables
 
-Both the per-country `finance.html` and the all-Africa table on `site/finance/index.html` are drawn **in the browser**, by `site/assets/js/datatable.js` reading the published CSV the page already offers for download. Neither page contains a `<tr>` per commitment. This replaced the baked-in table on 2026-08-19; `site/assets/css/datatable.css` holds the styling, kept out of `main.css` because that file is a copy carrying its own provenance marker (`MAIN-CSS-FROM`).
+Both the per-country `finance.html` and the all-Africa table are drawn **in the browser** by `site/assets/js/datatable.js` reading the published CSV the page already offers — no `<tr>` per commitment. `site/assets/css/datatable.css` holds the styling, kept out of `main.css` because that file is a copy carrying its own provenance marker (`MAIN-CSS-FROM`). The cost is that neither table appears with JavaScript off, so both carry a `<noscript>` block naming the CSV: the data is never behind the script, only the table is.
 
-The reason is arithmetic rather than taste. South Africa's 54 rows made a 74 KB page that offered a search box and nothing else; the same page is now 5.6 KB and sorts, filters and searches. The all-Africa table could not have been written into the page at all — 1,257 rows by 20 columns is several megabytes of HTML, against a 1.1 MB CSV the reader can also keep. **The cost is that neither table appears with JavaScript off**, which is why both carry a `<noscript>` block naming the CSV: the data is never behind the script, only the table is.
-
-The component is a port of the Lab's `assets/js/datatable.js` (data-landscapers repo), rewritten to drop that page's dataset-specific colouring and its inline styling, and driven entirely by `data-*` attributes — `data-src`, `data-cols`, `data-filters`, `data-numeric`, `data-links`, `data-labels`, `data-sort`, `data-clamp`. Its contract is documented in the file's own header. Two things it does that the Lab's does not, both because the finance data needs them: it parses CSV by character scan rather than by splitting on newlines, because 44 cells in the all-Africa export carry newlines inside quoted fields, and it sorts blank amounts last in both directions, because a missing figure is not a small one.
+The component is a port of the Lab's datatable (`data-landscapers/assets/shared/` is canonical), driven entirely by `data-*` attributes documented in the file's own header. Two finance-specific behaviours: it parses CSV by character scan (quoted fields carry newlines), and it sorts blank amounts last in both directions (a missing figure is not a small one).
 
 ```bash
 cd /tmp && npm install jsdom && node prototypes/datatable-test.mjs   # from a copy in that dir
 ```
 
-`prototypes/datatable-test.mjs` loads the two built pages into jsdom with a `fetch` that reads the CSVs off disk, and asserts on what the component actually produced: row count against a quote-aware count of the CSV, every row full-width, no BOM in the first header, every requested filter built, links and clamping applied, then drives a filter, a search with no hits, and a numeric sort through the same events a reader generates. jsdom has no layout, so the sticky header and the column-width sync are **not** covered — those need a browser.
+`prototypes/datatable-test.mjs` loads the two built pages into jsdom and asserts on what the component produced, then drives a filter, a no-hit search, and a numeric sort. jsdom has no layout, so the sticky header and column-width sync need a browser.
 
-> **Line endings, when building from a Cowork session** *(2026-08-19)*. `csv.writer` emits `\r\n`; Windows git normalises that to LF on commit and Linux git does not, so a rebuild run in the Cowork sandbox rewrites every published CSV with CRLF and git reports the whole file changed. The content is identical, but a published edition must not be revised (§9), so **check for CR-only churn before committing a rebuild** and restore those files: `for f in $(git diff --name-only); do [ -z "$(git diff --ignore-cr-at-eol -- "$f")" ] && git checkout HEAD -- "$f"; done`. A `.gitattributes` would settle it permanently, but 186 tracked files already hold CRLF in the repo, so adding one renormalises them all at once — a decision for a session that is doing only that.
+> **Line endings, when building from a Cowork session.** `csv.writer` emits `\r\n`; Windows git normalises to LF on commit and Linux git does not, so a rebuild in the Cowork sandbox rewrites every published CSV with CRLF and git reports the whole file changed. A published edition must not be revised (§9), so **check for CR-only churn before committing a rebuild** and restore those files: `for f in $(git diff --name-only); do [ -z "$(git diff --ignore-cr-at-eol -- "$f")" ] && git checkout HEAD -- "$f"; done`. A `.gitattributes` would settle it permanently, but 186 tracked files already hold CRLF, so adding one renormalises them all at once — a decision for a session doing only that.
 
 ## Step 6a — prune superseded editions nobody took
 
@@ -250,126 +195,84 @@ cd /tmp && npm install jsdom && node prototypes/datatable-test.mjs   # from a co
 python scripts/prune-editions.py --apply
 ```
 
-**A superseded edition is deleted unless somebody downloaded it** — `documentation/cloudflare.md`, switched on for PDFs and CSVs on 2026-08-18 and applying **forward only**. Retention exists for readers rather than for artefacts: a citation only exists if someone actually took the file, so an edition nobody ever fetched has nothing resting on it. The file never moves, so nothing this rule keeps ever changes address.
+**A superseded edition is deleted unless somebody downloaded it** (`documentation/cloudflare.md`; forward-only from 2026-08-18). Retention exists for readers: a citation only exists if someone took the file. The current edition, anything ever fetched (crawlers included), anything superseded under a week, anything dated on or before 2026-08-18, and any undated download are never touched. It runs here, before Step 7's `git add site`, so deletions ride the same commit as the render that superseded them.
 
-**It runs here because it edits `site/`.** Before Step 7's `git add site`, so the deletions are carried by the same commit as the render that superseded them.
-
-**A refusal is a normal outcome and never fails the run.** The script exits 0 whether it deleted or declined, and it declines — deleting nothing at all, not file by file — on a missing credential, an API error, an empty key listing or a download record that looks stale. It prints `PRUNE: declined` with the reason; if that persists across runs, the Worker or the token wants looking at, and until then the rule is simply not in effect. It needs a Cloudflare API token with KV **read** scope (`documentation/cloudflare.md` → *Credentials*); with no token on the machine every run declines, which is the correct behaviour rather than a fault.
-
-**What it will not touch:** the current edition of anything, anything dated on or before 2026-08-18, anything superseded less than a week ago, anything the download record has ever seen fetched — crawler included — and any undated download, the catalogue among them. Expect it to delete nothing at all for the first weeks: the whole published set predates the rule.
-
-**Deletions are accounted for in `logs/deleted-editions.csv`**, appended to as they happen and committed with the render. Git keeps the blob for ever regardless; the ledger is the part a person can read.
+**A refusal is a normal outcome and never fails the run.** The script exits 0 either way and declines wholesale — on a missing credential (it needs a Cloudflare API token with KV read scope, `documentation/cloudflare.md` → *Credentials*), an API error, an empty key listing or a stale-looking download record — printing `PRUNE: declined` with the reason. Persistent refusal means the Worker or token wants looking at; until then the rule is simply not in effect. Deletions are appended to `logs/deleted-editions.csv`, committed with the render.
 
 ## Step 7 — verify, commit, deploy
 
 ```bash
-# every report links only to held sources — spot check a few if desired:
-#   python scripts/report-render.py --unit KEN --check   (needs the workroot; optional)
 git add site
-# the pruner's ledger (Step 6a) belongs to the same commit as the deletions it records;
-# it does not exist until something has been deleted, so it is added only if it is there
 [ -e logs/deleted-editions.csv ] && git add logs/deleted-editions.csv
 git commit -m "Render site from Corpus-owned outputs: reports, home, country pages"
 git push
 ```
 
-**Step 0 is the only STOP here** *(2026-08-25)*. It used to be joined by the leak gate, on the reasoning that this step guards a boundary RENDER alone can see — the moment artefacts enter a public repo. The boundary is real and the commitment behind it is unchanged; the gate is what has gone, because nothing upstream can put a source body in the tree it was reading. `documentation/design.md` §8 carries the reasoning.
+**Step 0 is the only STOP in this runbook.** RENDER does not judge fitness to publish — that is BUILD's, and a check here would be a second, weaker copy of it that halts every render to protect nothing.
 
-RENDER does **not** judge whether a document is fit to publish. An earlier version of this step grepped `site/` for an unwritten-narrative marker and stopped the render on a hit; it has been removed. Fitness is BUILD's responsibility (BUILD.md § Narrative integrity), and a check here could only ever be a second, weaker copy of a judgement made better upstream — one that halted every render while narratives were still being authored, protecting nothing.
-
-Deploy is unchanged (`documentation/handover.md`): the GitHub Pages workflow publishes whatever is committed in `site/` on a push touching `site/**`. It does not build — the render above is the build. The push above is what triggers it.
-
-**The push is authorised by this runbook and is not a question to put** *(2026-08-16)*. It publishes to the open web, which is the kind of step that would ordinarily be worth confirming — but a render that stops to ask permission to deploy is a render that has done all of its work and shipped none of it, and running RENDER *is* the instruction to publish. It used to sit in this file as a bare sentence of prose rather than a command, which is how it came to look optional; the log shows every completed render pushing.
+Deploy: the GitHub Pages workflow publishes whatever is committed in `site/` on a push touching `site/**`. It does not build — the render above is the build; the push triggers it. **The push is authorised by this runbook and is not a question to put**: running RENDER *is* the instruction to publish.
 
 ## The bulletin
 
-The bulletin is authored by BUILD (`BUILD.md` stage 7) and arrives at `outputs/bulletins/corpus-bulletin.md`, covering what was published on the day of the build and the day before it. **`render.py` publishes it at `site/bulletin/index.html`, served as `/bulletin/`** *(Bill, 2026-08-21)* — the source directory keeps its plural, which is now just where drafts land, and the URL is singular, because there is one bulletin and it is the address a reader types. It is the only document here served as a directory index rather than under a generated filename; it can be, because there is exactly one of it.
+Authored by BUILD (stage 7), arrives at `outputs/bulletins/corpus-bulletin.md`. **Published at `site/bulletin/index.html`, served as `/bulletin/`** — one bulletin, a singular URL, the one document served as a directory index. The retired country bulletin's pages under `site/bulletins/` are deleted, not left to rot.
 
-**The country bulletin is retired** *(Bill, 2026-08-21)*, and `site/bulletins/` with it. Anything still pointing at `/bulletins/country-bulletin.html` or `/bulletins/topic-bulletin.html` is pointing at nothing — the pages have been deleted rather than left to rot, since a stale bulletin is worse than a missing one.
+- **It cuts a dated PDF like everything else** — the superseded document is precisely the one a reader wants a copy of, because tomorrow's page will not be showing it. The edition shown on the page carries a time (from `compiled:`); the filename carries the plain date and same-day sequence.
+- **Its page is refreshed on a held-off render, which no other document's is.** Freshness is news for a bulletin: a sweep that brought in fifty sources none dated inside the window still updated it — *we looked, and nothing was published*. For `type: bulletin` the gate holds the edition and `render.py` rewrites the page under the edition it is holding, PDF untouched. The digest is still the body, so a moved clock cannot cut an edition; the byline answers *when did we last look*, the colophon *which dated file is this*.
+- **It keeps a week of editions, and the page lists them.** `site/bulletin/editions.json` is the manifest (`documentation/bulletin-archive.md` is the design). `render.py` writes an entry at the moment it cuts a bulletin PDF — the only moment the picker's three facts are in hand. The colophon's `Retention` row names the date the file is kept until, and travels into the PDF: a file that will 404 in a week and does not say so fails §9 on its own terms.
+- **The bulletin leaves the download rule**: `prune-editions.py` deletes a bulletin edition on the retention window, not on fetches, and rewrites the manifest — otherwise the one-week promise would hold for every bulletin except the ones a reader took. Bulletin retention therefore works with no Cloudflare token.
+- **Assert that the listing and the directory agree**, after Step 6a and after the render: `python scripts/bulletin_editions.py` prints the listing and names any entry with no file behind it. The renderer and pruner both rebuild rather than append, so a mismatch means something outside them moved a file.
+- **It is the one page here that carries a script**: `site/assets/js/bulletin-filter.js`, Corpus's own, referenced only from this page, written into the HTML pass and left out of the PDF pass. The control renders `hidden` and the script removes the attribute, so a page whose script fails is a page without a filter, not one with a dead control.
+- **An empty window still renders** — the document says so in its own prose; RENDER never skips it. The home page's Bulletin section is omitted entirely when the document does not exist.
 
-**It cuts a dated PDF like everything else** *(Bill, 2026-08-21, reversing the HTML-only ruling of 2026-08-17)*. The earlier reasoning was that a bulletin is superseded the next morning, so a dated PDF archives the same news twice; what that missed is that the superseded document is precisely the one a reader wants a copy of, because tomorrow's page will not be showing it. The loop passes no flag now. **The edition shown on the page carries a time** — `2026-08-21 at 16:31`, from the document's `compiled:` — while the edition in the filename is the plain date and its same-day sequence, because a space and a colon are not a filename. `editions.py`'s grammar is untouched.
-
-**Its page is refreshed on a held-off render, which no other document's is** *(Bill, 2026-08-21)*. Everywhere else a held-off document is left entirely alone, page as well as PDF. The bulletin is the exception because its freshness is news: a sweep that brings in fifty sources none of which is dated inside the two-day window has still updated it — we looked, and nothing was published — and a page still saying *last updated the 20th* reports neglect where there was work. So for `type: bulletin` the gate holds the edition and `render.py` rewrites the page under the edition it is holding, leaving the dated PDF alone. The digest is unchanged — the body, as for everything else — so a moved clock cannot cut an edition, and the byline and the colophon are answering different questions: *when did we last look* and *which dated file is this*.
-
-**It keeps a week of editions, and the page lists them.** `site/bulletin/editions.json` is the manifest — the design and the reasoning are `documentation/bulletin-archive.md`. `render.py` writes an entry at the moment it cuts a bulletin PDF, because that is the only moment the picker's three facts are in hand: `compiled` and `items` from the frontmatter it has just read, and the edition it is minting. None of them survives into the PDF. The colophon carries a `Retention` row naming the date the file is kept until, which travels into the PDF with everything else — a reader who downloads it may never see this page again, and a file that will 404 in a week and does not say so fails §9 on its own terms.
-
-**The bulletin leaves the download rule.** `prune-editions.py` deletes a bulletin edition on the retention window rather than on whether anybody fetched it, and it rewrites the manifest when it does. That is the one document kind this applies to, and the reason is in the design note: if downloads still protected a bulletin, the one-week promise would hold for every bulletin except the ones a reader actually took. A consequence worth knowing on a run: bulletin retention works with no Cloudflare token, where everything else correctly declines.
-
-**Assert that the listing and the directory agree** after Step 6a and after the render:
-
-```bash
-python scripts/bulletin_editions.py    # prints the listing; names any entry with no file behind it
-```
-
-A derived listing is only safe to trust while something notices when it stops describing what it describes — the same reasoning behind `lint-shared-assets.py`. The renderer and the pruner both rebuild rather than append, so a mismatch here means something outside them moved a file.
-
-**Stylesheets and scripts are stamped with a digest of their own bytes** — `main.css?v=22ef527a` and so on, added 2026-08-22 after a corrected script went on failing in Bill's browser because it sat at the URL the old one had. A query string is invisible to GitHub Pages, and it changes exactly when the file does. Two consequences for a run. A change to `report.css` alone does not reach a page until that page next renders, because the content gate reads the markdown and the markdown has not moved — so a stylesheet fix spreads as editions re-cut, or all at once behind `--force`, which is a decision (241 editions), not a habit. And the bulletin, which re-renders whenever its window moves, picks it up the same day.
-
-**It is the one page here that carries a script.** `site/assets/js/bulletin-filter.js` drives the country filter under the category bar — Corpus's own file, not one of the shared assets `lint-shared-assets.py` watches, and referenced only from this page. It is written into the HTML pass and left out of the PDF pass, where WeasyPrint runs no script and the tag would name a file that does nothing. The control itself renders `hidden` and the script removes the attribute, so a page whose script does not load is a page without a filter rather than a page with a dead one.
-
-**The window is often empty and the document still renders.** A bulletin covering two days on which nothing was published says so in its own prose; there is nothing here for RENDER to judge, and no case in which it skips it.
-
-The home page's Bulletin section (Step 3) is heading and one paragraph, and is omitted entirely when the document does not exist, so a first render before BUILD has ever written one is not a broken link.
+**Stylesheets and scripts are stamped with a digest of their own bytes** (`main.css?v=22ef527a`) — the query string changes exactly when the file does. So a change to `report.css` alone reaches a page only when that page next renders (the content gate reads the markdown): a stylesheet fix spreads as editions re-cut, or all at once behind `--force`. The bulletin, re-rendering whenever its window moves, picks it up the same day.
 
 ## Topics
 
-Topic documents are authored by BUILD (`BUILD.md` stage 6) and arrive in `outputs/topics/{slug}/`, two per Level-2 taxonomy slug, 76 of them. They render exactly like the place reports and RENDER judges them no more than it judges anything else. `render.py` takes its output tree from the source path, so they land in `site/topics/{slug}/` with permalinks that agree; nothing needs passing on the command line.
-
-**Step 2's loop and its coverage assertion already reach them** — both trees, one assertion, one number to trust. There is nothing extra to run here. Step 1's mirror carries the tree across for free, since it mirrors `outputs/` whole.
-
-**The home page's Topics boxes are wired to these** *(2026-08-14)*. Each Level-2 box opens `/topics/{slug}/`, written by `scripts/topic-page.py` in Step 4; the box hrefs use the hyphenated slug, as the tree does. Until that day they pointed at `/topics/{dotted.slug}/` and would have 404'd — nothing caught it because nothing was published under either name, so **if the taxonomy grows a slug, check the link, not just the box**: `python - <<'EOF'` over `site/index.html` comparing every `/topics/…` href against `site/topics/…/index.html` is the whole test, and it is worth re-running after any change to either script.
+Topic documents (BUILD stage 6) arrive in `outputs/topics/{slug}/`, two per Level-2 slug. They render exactly like the place reports — `render.py` takes its output tree from the source path, so they land in `site/topics/{slug}/`. Step 2's loop and coverage assertion already reach them. The home page's Topics boxes open `/topics/{slug}/` (hyphenated slug); **if the taxonomy grows a slug, check the link, not just the box** — compare every `/topics/…` href in `site/index.html` against `site/topics/…/index.html`.
 
 ## Log
 
-On completion or error, write **one terse line** to `logs/log.md`, in the form `YYYY-MM-DD HH:MM · render · took · what happened`:
+On completion or error, one terse line:
 
 ```bash
 python scripts/log-line.py render "reports+home+countries+catalogue rendered, deployed — ok"
 ```
 
-On failure, log the stage and error instead (`… errored rendering KEN-status: <message>`). One line per run.
+On failure, log the stage and error instead (`… errored rendering KEN-status: <message>`). The duration writes itself from the Step 0 stamp, then clears it; where the stamp was never taken, state the truth with `--since` or `--took`. The script inserts at the top under the marker and exits 1 if the marker is missing.
 
-**The duration writes itself** *(Bill, 2026-08-17)*, from the `--start render` stamp taken at Step 0 — the call above is unchanged. It reports the gap between that stamp and now, then clears it, so an error line carries how long the run got before it failed. Where Step 0's stamp was never taken, state it rather than leaving the field empty: `--since "2026-08-17 08:55"` or `--took 21m`.
-
-**And message Bill where the run needed him** *(2026-08-16)*. A block under the marker in `logs/messages-for-bill.md`, written before the commit below so it is carried by it: documents that failed to typeset, a Step 0 stop and what has to be re-run, anything the run decided that he would otherwise have been asked. A clean render writes nothing there.
-
-**The log reads newest first** *(2026-08-16)*, so the line is inserted at the top, under the marker comment — `>> logs/log.md` is no longer the recipe. It would still write a correct line, in the wrong place, which is the version of this that nobody notices. `scripts/log-line.py` does the insert and takes the message as an argument, so `·`, em-dashes, slashes and backticks in it are content rather than syntax; it exits 1 rather than guessing if the marker is missing.
+**And message Bill where the run needed him** — before the commit below so it is carried by it: documents that failed to typeset, a Step 0 stop and what has to be re-run, anything the run decided he would otherwise have been asked. A clean render writes nothing.
 
 ## Mirror — back up the repo (final step)
 
-First make sure **all** work is committed — including the log line just written — so the mirror backs up a clean, fully-committed tree:
+First commit everything, including the log line just written:
 
 ```bash
 git add -A && git diff --cached --quiet || git commit -m "Render run: reports, site, log"
 ```
 
-Then run the repo backup, by absolute path:
+Then run the backup, **by absolute path, from PowerShell**:
 
-```bat
-cmd /c C:\CORPUS\mirror.bat
+```powershell
+& cmd /c "C:\CORPUS\mirror.bat"
 ```
 
-**Name the path in full.** Bare `mirror.bat` resolves only if the shell happens to be sitting in the repo root — true when a person types it after working there, false for a shell a session spawns, which is where it failed on 2026-08-13 with *"'mirror.bat' is not recognized"*. That failure is at least loud; the script itself is safe to call from anywhere, since it uses `%~dp0` for the FreeFileSync batch and absolute paths for both repos.
+Bare `mirror.bat` resolves only if the shell is sitting in the repo root, and in Git Bash the unquoted backslashes are escape characters — `cmd` opens an interactive shell and exits **0 having backed up nothing**. So **check the log line rather than the exit code**: the top line of `logs\mirror_log.md` (newest first) must be dated within the last few minutes; the absence of a fresh line is the real failure signal.
 
-**Run it from PowerShell, not from bash, and check the log line rather than the exit code** *(2026-08-14)*. In Git Bash the backslashes in an unquoted `C:\CORPUS\mirror.bat` are escape characters, so the word reaches `cmd` as `C:CORPUSmirror.bat`; `cmd` consumed no command, opened an interactive shell, and exited **0** having backed up nothing. That is the silent version of the failure above — a green exit and no mirror — and it is why the exit code alone cannot be trusted here. Use `& cmd /c "C:\CORPUS\mirror.bat"` from PowerShell, then confirm the **top** line of `logs\mirror_log.md` is dated within the last few minutes — that log reads newest first too. The absence of a fresh line is the real failure signal.
+It backs up **both repos** — OSINT and Corpus, working trees and full git history — to Dropbox, plus one FreeFileSync pass to `D:`, and writes a dated line at the top of `logs\mirror_log.md`. OSINT is read-only here: the backup reads it and writes elsewhere. RENDER is the last job in the pipeline, so this one call captures everything the run produced.
 
-It backs up **both repos** — OSINT and Corpus — mirroring each one's working tree and full git history to Dropbox, plus one FreeFileSync pass to `D:` (which carries both repos and Bill's `Dropbox\Github`), and writes a dated line at the top of `logs\mirror_log.md`. OSINT is read-only here: the backup reads it and writes elsewhere, never into OSINT. Because RENDER is the last job in the pipeline, this one call captures everything the run produced, `outputs/` and `site/` included. A non-zero exit means a leg failed — see `logs\mirror_log.md` and the FreeFileSync log.
-
-**The freshness check is built** *(2026-08-16)*. `scripts/lint-mirror-freshness.py` reads the newest line of `logs/mirror_log.md` and rules on three things: whether that run recorded `FAIL`, whether it predates the newest `· render ·` line in `logs/log.md`, and whether it is simply old (`--max-age-hours`, default 72). The third is not decoration — the first two both compare against *something having happened*, so a quiet fortnight with no render passes them both while the backup ages, which is the week-of-silence that made OSINT's `LINT` #19 necessary in the first place. Commits landed since the mirror are **reported, not gated**: they are the true measure of exposure, but a check that fails all the way through an ordinary working session is one that gets ignored.
+**The freshness check:**
 
 ```bash
 python scripts/lint-mirror-freshness.py     # 0 clean · 1 stale or failed · 2 nothing recorded
 ```
 
-**It reports and never fixes**: `mirror.bat` mirrors *onto* the Dropbox copies, so a `/MIR` is a destructive write on the destination and a lint check does not get to fire one off the back of its own opinion that a backup is overdue. Run it before the mirror to see whether one is owed, and after it to confirm the line landed.
+It rules on three things: the newest mirror line recording `FAIL`; that line predating the newest `· render ·` line; and plain age (`--max-age-hours`, default 72 — the catch for a quiet fortnight in which nothing happened for the first two tests to compare against). Commits landed since the mirror are reported, not gated. **It reports and never fixes**: `mirror.bat` mirrors *onto* the backup copies, a destructive write a lint does not get to fire on its own opinion. Run it before the mirror to see whether one is owed, and after to confirm the line landed.
 
-**That is a rule about the check, not about the run** *(Bill, 2026-08-16, asked directly: "keep RENDER running the mirror")*. This paragraph used to end *"and firing a `/MIR` is Bill's"*, eight lines under a section that instructs the run to fire exactly one — read cold by an unattended session, a flat contradiction on the single destructive step in the job, and the likeliest place in either runbook for one to stop and ask. **RENDER runs the mirror**: it is the last step of the last job in the pipeline, the runbook is the authorisation, and the destination is a backup whose whole purpose is to be overwritten by the current state. What stays Bill's is firing one *outside* a run — which is what `lint-mirror-freshness.py` declines to do on its own. `scripts/test_mirror_freshness.py` proves all three fault paths fire, on the same principle as `test_osint_freshness.py`: this check will read `ok` for weeks at a time, which is exactly when a broken one goes unnoticed.
-
-*(Why it reads a log rather than trusting `mirror.bat`'s exit code is the paragraph above: a bare or bash-mangled invocation exits 0 having backed up nothing. Only a run that reached the end writes a dated line. This is what replaces `LINT` #19, which retires with OSINT's own mirror — `documentation/archived/osint-migration.md` R8 — and it now covers both repos, since one mirror does.)*
+**RENDER runs the mirror.** The runbook is the authorisation and the destination is a backup whose purpose is to be overwritten by the current state. What stays Bill's is firing one *outside* a run.
 
 ## If something fails
 
-- A single report failing to render should not stop the loop, or the run — note it, continue, deploy the rest, and put the list in `logs/messages-for-bill.md`. Step 2 has the reasoning.
-- A WeasyPrint/system-library error is environmental, not a repo bug — surface it rather than working around it. If it takes down every document rather than one, that is the whole run failing: log it and stop, since a deploy of nothing is not worth committing.
-- **Nothing here is a question for Bill.** The one hard stop is Step 0, a mechanical test with a stated repair. Everything else finishes, logs, and leaves a message.
+- A single report failing to render does not stop the loop or the run — note it, continue, deploy the rest, list it in `logs/messages-for-bill.md`.
+- A WeasyPrint/system-library error is environmental, not a repo bug — surface it. If it takes down every document, that is the whole run failing: log it and stop.
+- **Nothing here is a question for Bill.** The one hard stop is Step 0, a mechanical test with a stated repair.
 - Do not write anything to OSINT (`C:\OSINT`) under any circumstance; nothing in this runbook needs to.
