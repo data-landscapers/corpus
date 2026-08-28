@@ -14,7 +14,7 @@ last_reviewed: 2026-08-16
 
 *(**The bar moved up on 2026-08-20** *(Bill)*. This file is for the **irreversible and the already-public** — evidence loss with no backup, a published page stating something false, leaked source text, legal exposure, a slug reissued under a live citation. Anything a later run can undo is decided by the run, taken the conservative way, and recorded in `logs/log.md`. `CLAUDE.md` → *Be decisive* has the rule. A run that writes nothing here is the normal outcome and always was; what changed is how much counts as owing him something.)*
 
-*(**Cap: five open blocks** *(2026-08-20, adopted from OSINT's `CLAUDE.md` → *Reporting*, which caps its decision queue at ten)*. **At the cap a run does not write a sixth block — it takes the conservative option itself and logs it in `logs/log.md`.** That is what converts queue pressure into decisions instead of into backlog, and it is the mechanism this file lacked while it grew to ten blocks and 102 lines with nothing counting. A run reads this file before writing to it — it has to, to insert under the marker — so the count is in front of whoever would add to it.)*
+*(**Caps: five open blocks, 80 words a block** — `python scripts/lint-messages.py` counts both, and a run runs it after writing here. **At the cap a run does not write a sixth block — it takes the conservative option itself and logs it in `logs/log.md`.** That is what converts queue pressure into decisions instead of backlog. The word cap binds blocks dated 2026-08-28 or later; detail belongs in git, analysis in `documentation/`.)*
 
 *(**A finding that carries its own solution is a task, not a message** — do it and log it. OSINT's bar, from its housekeeping register, adopted here on 2026-08-20.)*
 

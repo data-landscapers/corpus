@@ -238,9 +238,9 @@ On completion or error, one terse line:
 python scripts/log-line.py render "reports+home+countries+catalogue rendered, deployed — ok"
 ```
 
-On failure, log the stage and error instead (`… errored rendering KEN-status: <message>`). The duration writes itself from the Step 0 stamp, then clears it; where the stamp was never taken, state the truth with `--since` or `--took`. The script inserts at the top under the marker and exits 1 if the marker is missing.
+On failure, log the stage and error instead (`… errored rendering KEN-status: <message>`). The duration writes itself from the Step 0 stamp, then clears it; where the stamp was never taken, state the truth with `--since` or `--took`. The script inserts at the top under the marker, refuses a message over 40 words, and exits 1 if the marker is missing.
 
-**And message Bill where the run needed him** — before the commit below so it is carried by it: documents that failed to typeset, a Step 0 stop and what has to be re-run, anything the run decided he would otherwise have been asked. A clean render writes nothing.
+**And message Bill where the run needed him** — before the commit below so it is carried by it: documents that failed to typeset, a Step 0 stop and what has to be re-run, anything the run decided he would otherwise have been asked. At most 80 words a block; `python scripts/lint-messages.py` counts both caps. A clean render writes nothing.
 
 ## Mirror — back up the repo (final step)
 

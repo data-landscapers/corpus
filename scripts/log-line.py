@@ -37,6 +37,12 @@ that job clears it rather than inheriting it.
 finds the newest `· render ·` line by matching the timestamp and pass name, and stops
 there; the duration sits after it, which is why it goes third rather than second.
 
+**The message is capped at 40 words and an over-cap line is refused** (strategic review
+task 4; the same cap OSINT's `log-append.py` enforces). The log is a skim of what
+happened — detail belongs in git, and anything owed a decision in
+`logs/messages-for-bill.md`. A cap nobody counts drifts, so this one is counted here,
+at the door.
+
 Usage:  python scripts/log-line.py --start build
         python scripts/log-line.py build  "catalogue 9,407, 20 ledgers updated — ok"
         python scripts/log-line.py render "241/241 rendered, catalogue 10,731 — ok"
@@ -60,6 +66,9 @@ RUN_LOG = os.path.join(ROOT, "logs", "log.md")
 LOGS = os.path.join(ROOT, "logs")
 MARKER = "<!-- newest first: a new entry goes directly below this line -->"
 UNCLOCKED = "unclocked"
+
+# One terse line per run. Refused, not warned: a warning on a cap is a cap nobody keeps.
+ENTRY_WORD_CAP = 40
 
 # Must stay in step with RUN_RE in scripts/lint-mirror-freshness.py, which finds the
 # newest `· render ·` line by matching exactly this shape.
@@ -203,6 +212,13 @@ def main() -> int:
 
     if args.message is None:
         ap.error("a message is required unless --start is given")
+
+    words = len(args.message.split())
+    if words > ENTRY_WORD_CAP:
+        print(f"log-line: the message is {words} words against the cap of "
+              f"{ENTRY_WORD_CAP}. The log line is a skim - detail belongs in git, and "
+              f"anything owed a decision in logs/messages-for-bill.md. Trim and rerun.")
+        return 1
 
     if args.since and args.took:
         print("log-line: --since and --took both state the same thing; give one.")

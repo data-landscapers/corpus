@@ -193,7 +193,7 @@ python scripts/bulletin.py --assemble      # then commit outputs/bulletins/
 
 ## Ending the run — message, log, commit, stand down
 
-**1. Message Bill, if anything is owed him** — one block under the marker in `logs/messages-for-bill.md`. Nothing owed, nothing written: the normal outcome.
+**1. Message Bill, if anything is owed him** — one block under the marker in `logs/messages-for-bill.md`, at most 80 words. Nothing owed, nothing written: the normal outcome. After writing one, `python scripts/lint-messages.py` counts both caps (five open blocks, 80 words each).
 
 **2. Log one terse line:**
 
@@ -201,7 +201,7 @@ python scripts/bulletin.py --assemble      # then commit outputs/bulletins/
 python scripts/log-line.py build "catalogue N, finance N places, scan N units, K ledgers updated — ok"
 ```
 
-The duration writes itself from the stage-0 stamp, then clears it. Where the stamp was never taken, state the truth: `--since "…"` or `--took 3h02m`, never a hand-written figure. The script inserts at the top under the marker (the log reads newest first) and exits 1 if the marker is missing.
+The duration writes itself from the stage-0 stamp, then clears it. Where the stamp was never taken, state the truth: `--since "…"` or `--took 3h02m`, never a hand-written figure. The script inserts at the top under the marker (the log reads newest first), refuses a message over 40 words, and exits 1 if the marker is missing.
 
 **3. Commit everything:**
 
