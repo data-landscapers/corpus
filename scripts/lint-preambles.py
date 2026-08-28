@@ -62,7 +62,8 @@ PREAMBLE_CAP = 250
 HEADING = r"^## "
 MARKER = r"^<!-- newest first:"
 NOTE = r"^\*\*\d+\*\* |^## \d+ "
-JOB = r"^x?\d+\. "
+BAR = r"^## The bar"          # OSINT's boundary for its register, note 50
+DONE = r"^## Done"            # and for its archive
 INDEX = r"^\| *Note *\|"
 
 # (name, owned, where the preamble stops) - owned files fail, the rest are advisory.
@@ -72,8 +73,11 @@ SHARE_FILES = [
     ("notes-for-corpus.md", True, HEADING),
     ("notes-for-osint-resolved.md", True, INDEX + "|" + NOTE),
     ("notes-for-corpus-resolved.md", True, NOTE),
-    ("housekeeping-jobs.md", False, JOB),           # OSINT's register
-    ("housekeeping-jobs-resolved.md", False, JOB),  # OSINT's archive
+    # OSINT's two files, on the boundaries OSINT named when it closed note 50: what its
+    # register's header has to hold is more than a 250-word cap can carry to the first job,
+    # so the cap runs to the rules the register is *for*. Its file, its boundary.
+    ("housekeeping-jobs.md", False, BAR),            # OSINT's register
+    ("housekeeping-jobs-resolved.md", False, DONE),  # OSINT's archive
     ("messages-from-bill.md", False, HEADING),      # Bill's channel
 ]
 CORPUS_FILES = [(os.path.join("logs", "messages-for-bill.md"), True, MARKER)]

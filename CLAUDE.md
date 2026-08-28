@@ -41,7 +41,7 @@ The reason is the direction of dependency. The site is a derived view of the wik
 
 **A finding that carries its own solution is a task, not a message** — do it and log it.
 
-**Notes for OSINT carry `[CRITICAL]`, `[ACT]` or `[FYI]`**, defined in the share's `README.md` → *Conventions*; the same reversibility test picks the tag. Most of what used to be a decision request is an `[ACT]` with the conservative option already taken.
+**Notes for OSINT carry `[CRITICAL]`, `[ACT]` or `[FYI]`**, defined in the share's `README.md` → *Conventions*; the same reversibility test picks the tag. Most of what used to be a decision request is an `[ACT]` with the conservative option already taken. **Every note also carries an `Affects:` line** naming the artefact or the commissioned work it bears on — a note that would have to say *nothing* there is not a note, and is the shape curiosity about OSINT's internals takes. `scripts/lint-notes.py` counts it.
 
 **None of this touches the boundaries.** OSINT stays read-only, the metadata-only commitment on `outputs/` holds, and a destructive or outward-facing step still gets confirmed. Being decisive is not licence to widen what CC may touch.
 
@@ -51,7 +51,7 @@ The reason is the direction of dependency. The site is a derived view of the wik
 
 **`C:\corpus-osint-xfer\` holds the channel files, and delivery is Bill's call.** `notes-for-osint.md` and `notes-for-corpus.md` with an archive apiece (`…-resolved.md`), OSINT's housekeeping register `housekeeping-jobs.md` and its archive, the acquisition feed `africa-acquire.csv` and its far end `acquire-done.csv`, and **`new-queue/`, Bill's hand-carry into OSINT** — a file left there is **not** queued for ingest until he moves it, so say so when leaving one. The share's own `README.md` is the canonical description of all of it, for both sides.
 
-**The share's `README.md` is where the channel conventions live, and a channel file carries a pointer to it rather than a copy.** `scripts/lint-preambles.py` holds each preamble to 250 words and fails on a rule restated away from home — a rule stated twice is one that will eventually disagree with itself. It reports rather than fails on `housekeeping-jobs.md` and `messages-from-bill.md`, which are OSINT's and Bill's; OSINT asserts the same over its own files from `LINT.md` #24. Run it whenever the share is edited.
+**The share's `README.md` is where the channel conventions live, and a channel file carries a pointer to it rather than a copy.** `scripts/lint-preambles.py` holds each preamble to 250 words and fails on a rule restated away from home — a rule stated twice is one that will eventually disagree with itself. It reports rather than fails on `housekeeping-jobs.md` and `messages-from-bill.md`, which are OSINT's and Bill's; OSINT asserts the same over its own files from `LINT.md` #24. Run it, and `scripts/lint-notes.py`, whenever the share is edited.
 
 **Nothing in OSINT polls, and no note is acted on until Bill says so.** Never write anything whose delivery depends on OSINT noticing it by itself, and never tell OSINT to read a `C:\CORPUS` path — a session there cannot see Corpus at all, the same isolation that keeps Corpus out of OSINT. The instruction documents in `documentation/` remain Corpus-side and hand-carried. (The retired request feed `logs/requests-for-osint.csv` holds a header row and nothing else, and is left in place.)
 
