@@ -1,0 +1,61 @@
+indicator_id,subject,briefs_run,candidates_returned,fetched,staged_baseline,staged_progress,not_selected,dropped,drop_codes,outcome,subject_rows_at_probe
+gov.policy--ict-strategy,ICT strategy,2,7,3,1,2,0,0,,staged,5
+gov.policy--broadband-strategy,Broadband strategy,2,5,3,1,2,0,0,,staged,5
+gov.policy--data-storage-cloud-strategy,Data storage / cloud strategy,2,8,3,1,1,1,0,,staged,5
+gov.policy--data-interoperability-framework-roadmap,Data interoperability framework / roadmap,2,11,3,1,2,0,0,,staged,5
+gov.policy--data-localisation-policies,Data localisation policies,2,10,3,1,2,0,0,,staged,5
+gov.policy--open-data-policy,Open data policy,2,11,3,1,2,0,0,,staged,5
+gov.legislate--cybersecurity-legislation,Cybersecurity legislation,2,11,3,1,2,0,0,,staged,5
+gov.legislate--legislation-covering-digital-id,Legislation covering digital id,2,11,3,1,1,1,0,,staged,5
+gov.legislate--digital-payments-legislation,Digital payments legislation,2,7,3,1,2,0,0,,staged,5
+gov.legislate--legislation-enabling-data-interoperability,Legislation enabling data interoperability,2,8,4,1,2,1,0,,staged,5
+gov.legislate--ai-legislation-regulations,AI legislation / regulations,2,10,3,1,2,0,0,,staged,5
+gov.legislate--statistics-legislation,Statistics legislation,2,8,2,1,1,0,0,,staged,5
+gov.legislate--access-to-information-legislation,Access to information legislation,2,7,3,1,2,4,0,,staged,5
+gov.regional--regional-legal-harmonisation,Regional legal harmonisation,2,4,3,1,2,1,0,,staged,1
+gov.regional--cross-border-data-transfers,Cross-border data transfers,2,9,3,1,2,5,0,,staged,1
+gov.standards--national-interoperability-standards,National interoperability standards,2,8,3,1,2,5,0,,staged,1
+gov.standards--adoption-of-international-standards,Adoption of international standards,2,6,3,1,2,3,0,,staged,1
+gov.discourse--non-governmental-contribution-to-national-policy,Non-governmental contribution to national policy,2,11,3,1,2,8,0,,staged,2
+infra.connect--mobile-affordability,Mobile affordability,2,8,3,1,2,5,0,,staged,15
+infra.connect--internet-exchange-points,Internet Exchange Points,2,10,3,1,2,7,0,,staged,15
+infra.store--off-site-backup-capacity,Off-site backup capacity,2,9,3,1,2,6,0,,staged,7
+infra.energy--sufficient-energy-and-water-for-data-centres,Sufficient energy and water for data centres,2,8,3,1,2,5,0,,staged,1
+infra.energy--grid-reliability,Grid reliability,2,10,3,1,2,8,0,,staged,1
+infra.energy--rural-electrification,Rural electrification,2,8,3,1,2,6,0,,staged,1
+dpi.exchange--interoperability-of-health-systems,Interoperability of health systems,2,10,3,1,2,7,0,,staged,6
+dpi.exchange--interoperability-of-education-systems,Interoperability of education systems,2,10,3,1,2,7,0,,staged,6
+dpi.exchange--interoperability-of-social-protection-systems,Interoperability of social protection systems,2,8,2,1,1,4,2,already-seen;out-of-window,staged,6
+dpi.id--national-maintenance-of-id-and-credentials-systems,National maintenance of id and credentials systems,2,11,2,1,1,6,3,already-seen,staged,11
+dpi.id--authentication,Authentication,2,10,2,1,1,6,2,already-seen,staged,11
+dpi.id--interoperability-of-birth-registration-and-digital-id,Interoperability of birth registration and digital id,2,8,3,1,2,4,1,already-seen,staged,11
+dpi.id--use-by-other-systems,Use by other systems,2,10,4,1,1,7,1,already-seen,staged,11
+dpi.registry--population-register,Population register,2,8,3,1,2,5,0,,staged,7
+dpi.registry--electoral-register,Electoral register,2,8,3,1,2,5,0,,staged,7
+dpi.registry--tax-register,Tax register,2,8,3,1,2,5,0,,staged,7
+dpi.registry--land-register,Land register,2,7,3,1,2,4,0,,staged,7
+dpi.mis--education,Education,2,7,3,1,2,4,0,,staged,4
+dpi.mis--social-protection,Social protection,2,8,3,1,2,5,0,,staged,4
+dpi.mis--customs,Customs,2,9,3,1,2,5,1,url-dead,staged,4
+dpi.mis--land,Land,2,8,3,1,2,5,0,,staged,4
+digital.localgov--digitalisation-of-local-government-records,Digitalisation of local government records,2,6,3,1,2,3,0,,staged,2
+digital.rural--digitalisation-of-rural-health-clinics,Digitalisation of rural health clinics,2,7,3,1,2,3,1,url-dead,staged,0
+digital.rural--digitalisation-of-rural-primary-schools,Digitalisation of rural primary schools,2,12,3,1,2,8,1,inadmissible-origin,staged,0
+digital.rural--digitalisation-of-rural-registry-offices,Digitalisation of rural registry offices,2,8,3,1,2,5,0,,staged,0
+digital.rural--digitalisation-of-rural-police-stations,Digitalisation of rural police stations,2,8,3,1,2,5,0,,staged,0
+tech.ai--use-of-ai-in-sectoral-management-information-systems,Use of AI in sectoral management information systems,2,7,3,1,2,4,0,,staged,6
+tech.ai--control-of-ai-abuse,Control of AI abuse,2,10,3,1,2,7,0,,staged,6
+tech.industry--national-capacity-in-dt-related-production,National capacity in DT-related production,2,8,3,1,2,3,2,already-seen,staged,2
+tech.innovate--tech-startup-ecosystem,Tech startup ecosystem,2,6,3,1,2,3,0,,staged,4
+capacity.literacy--digital-literacy-civil-service,Digital literacy (civil service),2,9,3,1,2,6,0,,staged,4
+include.access--citizen-feedback-portals,Citizen feedback portals,2,6,3,1,2,2,0,,staged,5
+include.access--citizen-participation-in-policy,Citizen participation in policy,2,6,4,1,2,2,1,out-of-window,staged,5
+include.access--inclusion-of-refugees-and-idps,Inclusion of refugees and IDPs,2,9,4,1,2,5,1,fetch-blocked,staged,5
+data.statistics--national-strategy-for-development-of-statistics,National strategy for development of statistics,2,6,3,1,2,3,0,,staged,1
+data.statistics--censuses-and-surveys,Censuses and surveys,2,6,3,1,2,2,0,,staged,1
+data.statistics--statistics-from-administrative-data,Statistics from administrative data,2,8,3,1,2,4,1,url-dead,staged,1
+geopol.usa--usa-hyperscaler-mous-engagements-and-commitments,"USA / hyperscaler MoUs, engagements and commitments",2,13,3,1,2,9,0,,staged,1
+geopol.china--chinese-mous-engagements-and-commitments,"Chinese MoUs, engagements and commitments",2,7,3,1,2,4,0,,staged,0
+geopol.eu--eu-mous-engagements-and-commitments,"EU MoUs, engagements and commitments",2,7,3,1,2,4,0,,staged,1
+geopol.gulf--gulf-mous-engagements-and-commitments,"Gulf MoUs, engagements and commitments",2,12,3,1,2,9,0,,staged,1
+geopol.india--india-mous-engagements-and-commitments,"India MoUs, engagements and commitments",2,8,3,1,2,5,0,,staged,1
