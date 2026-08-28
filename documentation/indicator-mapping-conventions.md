@@ -1,16 +1,15 @@
 ---
 type: procedure
 title: indicator-mapping-conventions.md — how a ledger row is mapped onto the frame
-last_reviewed: 2026-08-26
-status: written from the ERI pilot, 2026-08-26. Binds the mapping pass over the remaining country ledgers.
+last_reviewed: 2026-08-28
+status: in force — binds every mapping pass over a country ledger
 ---
 
 # Mapping conventions for the indicator frame
 
 *(`documentation/progress-report-redesign.md` is the decision record and this does not amend it.
-What follows is the set of calls the pilot pass over ERI had to make, written down so the other
-fifty-three units make them the same way. A convention that lives only in the head of whichever
-pass ran first is how fifty-four countries end up answering fifty-four different questions.)*
+A convention that lives only in the head of whichever pass ran first is how fifty-four countries
+end up answering fifty-four different questions; these are the calls, written down.)*
 
 ## The file holds what is mapped and nothing else
 
@@ -85,9 +84,7 @@ check M refuses a raw URL. This base's slugs are record titles, so most carry sp
 them carry a bracketed qualifier — `2025-11-08 Digital 2026 Eritrea (DataReportal)`. Both are
 handled; write the slug exactly as the ledger's `sources` field carries it.
 
-## What ZAF added, 2026-08-26
-
-The thick-ledger pass (153 rows, 77 indicators mapped) settled three more calls.
+## Further calls, settled on the thick ledgers
 
 **A first measurement is *No change*, with the clause saying so.** The vocabulary has no value
 for a figure the base has never held before — 360,000 uncollected identity documents, an 18th

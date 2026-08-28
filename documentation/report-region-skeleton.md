@@ -1,13 +1,13 @@
 ---
 type: spec
 title: report-region-skeleton.md — the shape and drafting contract for region reports
-last_reviewed: 2026-08-14
-status: in force; Corpus-owned. Ported from OSINT's `wiki/` on migration; the register now points at the Corpus one
+last_reviewed: 2026-08-28
+status: in force; Corpus-owned
 ---
 
 # report-region-skeleton.md — the shape and drafting contract for region reports
 
-**This is the knob for what a region report looks like.** Section order, front matter, word budget and the instructions given to a drafting agent live here, in one file. **The register is not here** — house style is the Corpus editorial register (`documentation/report-layer.md` → §10 *The register*), in one copy, and it binds this document exactly as it binds a country report. `REPORT-REGION.md` governs the process and `documentation/report-layer.md` the record layer all the report processes share.
+**This is the knob for what a region report looks like.** Section order, front matter, word budget and the instructions given to a drafting agent live here, in one file. **The register is not here** — house style is the Corpus editorial register (`documentation/report-layer.md` → §10 *The register*), in one copy, and it binds this document exactly as it binds a country report. `BUILD.md` stage 4 governs the process and `documentation/report-layer.md` the record layer all the report processes share.
 
 Change it, then `python scripts/report-render.py --unit {X__} --render --doc progress` — tables rebuild from `ledger.csv`, narrative blocks are carried across by marker id, and nothing is re-read from the base.
 
@@ -15,7 +15,7 @@ Change it, then `python scripts/report-render.py --unit {X__} --render --doc pro
 
 ## One document, for now
 
-**A region issues the progress report only.** The renderer refuses `status` and `monthly` for an `X__` unit rather than writing an empty one, so nothing downstream needs a branch: `REPORT-MONTHLY.md` calls the renderer over every initialised unit and a region silently yields its one document.
+**A region issues the progress report only.** The renderer refuses `status` and `monthly` for an `X__` unit rather than writing an empty one, so nothing downstream needs a branch: `--doc all` over every unit lets a region silently yield its one document.
 
 That is a scope decision, not a claim that the other two are wrong for a region. A regional status report is the obvious next one — it needs no new ledger and no new reading, only this file's sections rendered as an inventory. **What a region has that a country does not is a period question**: a convention gains ratifications, a working group meets or does not, a secretariat is funded or is not, and none of that is legible in a single-date snapshot. Start where the unit's own evidence is.
 
@@ -47,7 +47,7 @@ not_held: N                        # script-emitted; the count a reader is owed
 
 The mapping is `lookups/report-region-sections.csv` and is what the renderer reads; this table is the readable copy. **A section with no ledger rows is written as one sentence saying so** — never padded to parity with a thick one, and never silently dropped. On a thin region that will be most of the document, and it should be.
 
-**Within a section, the renderer sub-groups by taxonomy Level-2 subject and prints a `###` sub-heading with that subject's `lookups/taxonomy.md` label, in the taxonomy's own order** *(added 2026-08-10)* — one small table per subject rather than one table for the whole section, exactly as `documentation/report-country-skeleton.md` describes. A region issues the progress report only, so this affects that one document.
+**Within a section, the renderer sub-groups by taxonomy Level-2 subject and prints a `###` sub-heading with that subject's `lookups/taxonomy.csv` label, in the taxonomy's own order** — one small table per subject rather than one table for the whole section, exactly as `documentation/report-country-skeleton.md` describes. A region issues the progress report only, so this affects that one document.
 
 **Section follows the object class, and the subject map is the fallback.** This is the first way a region report differs from a country one. A country row lands in its section by subject because the subject *is* the object's field; a regional row's section is decided by **what kind of thing it is** — a body, an instrument, a running system, a coordination mechanism, a financing line — and the same `gov.regional` slug sits on all five. The map gives the default; the run overrides `section` per row and is expected to, often. A body is *Institutions* whatever slug the sources carry.
 
@@ -62,7 +62,7 @@ Same schema, `documentation/report-layer.md` §1 — but three of its columns do
 ## What must not be in it
 
 - **A national development, because it happened in the region.** A regional report is not a digest of its members' news. The test is `SWEEP-REGIONAL.md` §4B's: the thing is regional, or it bears on at least three of the region's countries. A country's own programme belongs to that country's ledger, and `documentation/report-layer.md` says a row lives in exactly one.
-- **A roll-up of member states.** A region is a first-class place, not the sum of its children (`REPORT-COUNTRY.md` → *The unit*). Counting how many members have a data-protection law is a **measure of a regional instrument's take-up** and is a row; summarising each member's position is the country reports, restated worse.
+- **A roll-up of member states.** A region is a first-class place, not the sum of its children. Counting how many members have a data-protection law is a **measure of a regional instrument's take-up** and is a row; summarising each member's position is the country reports, restated worse.
 - **A bilateral.** Two members signing with each other is a national development twice over unless a regional body is party to it or it is the first instance of a regional instrument being used.
 - **A body's non-digital work.** Most of these institutions are only fractionally digital (`SWEEP-REGIONAL.md` §4A). Their health, agriculture, energy and trade-in-goods programmes are not our subject and are not rows.
 
@@ -70,7 +70,7 @@ Same schema, `documentation/report-layer.md` §1 — but three of its columns do
 
 **Prose only, tables excluded: 800–1,150 words for a progress report.**
 
-Below the country band (900–1,250) deliberately: a region's ledger is short outside `XAF`, and the failure mode of a thin ledger with a fat budget is prose that fills the gap with the general knowledge the model brought with it. `scripts/report-register-check.py` reads this line — the same script, this skeleton, for an `X__` unit.
+Deliberately low: a region's ledger is short outside `XAF`, and the failure mode of a thin ledger with a fat budget is prose that fills the gap with the general knowledge the model brought with it. `scripts/report-register-check.py` reads this line — the same script, this skeleton, for an `X__` unit.
 
 Count prose with links reduced to their anchor text (`re.sub(r'\[([^\]]*)\]\([^)]*\)', r'\1', body)`).
 
