@@ -2,6 +2,8 @@
 
 Trigger: "**run the progress filler for {ISO}**". Probes the indicators a country's progress report reads ***No evidence*** on, stages what it finds for OSINT's ingest, and accounts for what the run consumed. The accounting in §7 is a deliverable, not overhead.
 
+**Where the trigger names no `{ISO}`**, the queue is `logs/progress-report-log.csv`, not a session's choice: read it top to bottom and take the first row whose `Filler Searched` cell is blank. §8 is what keeps this queue honest — a run that finishes without writing that cell back is a run the next trigger will repeat.
+
 ## 0. Authorisation and boundary — read before running
 
 **This is the one Corpus-side process authorised to fetch.** The standing rule that Corpus does not probe (`documentation/report-layer.md` §4) is suspended inside this procedure only. Nothing else in Corpus fetches.
@@ -43,7 +45,7 @@ Each gap gets **two Exa Agent briefs** (`agent_run`, `effort: "medium"`), compos
 
 - **Origin screen**: run the script, not the prose — `python C:\OSINT\scripts\origin-screen.py --domain a.com b.net`, one command per batch before fetching (the script makes no writes and derives its root from its own location, so the absolute call is correct from anywhere). It reads the mirror's drop list. **An adjudication must be written, and Corpus cannot write OSINT's list** — so any new watch/drop adjudication goes to **`C:\corpus-osint-xfer\progress-filler-drop-list.csv`**, header verbatim `domain,network,status,rule,added,note,,` with every row at the same 8 fields, and §8's note asks OSINT to append those rows to its own list.
 - **Scope**: drop what is not our subject, coded from `reference.md` §7's closed table. Every drop logged (§7), nothing discarded silently.
-- **Dedup before fetching**: grep the mirror's `logs/sweep-url_log.md`; run `python C:\OSINT\scripts\raw-url-index.py --check` read-only against the mirror — `DUP-EXACT`/`DUP-SLUG` skip, `REJECTED` drops, `FLAG-SLUG` never skips; and cross-check what already sits under `new-queue\{ISO}\` — **both folders**, since a sibling may have staged your URL under the other brief.
+- **Dedup before fetching**: run `python C:\OSINT\scripts\raw-url-index.py --check` read-only against the mirror — `DUP-EXACT`/`DUP-SLUG` skip, `REJECTED` drops, `FLAG-SLUG` never skips; and cross-check what already sits under `new-queue\{ISO}\` — **both folders**, since a sibling may have staged your URL under the other brief. **The script is the whole of this check, not one leg of it** — `logs/sweep-url_log.md` sits outside the interface CC may read from `C:\OSINT` (`CLAUDE.md` → *The OSINT repo is read-only*: `raw/`, `wiki/`, `lookups/` and git metadata only), so this run does not grep it. `raw-url-index.py` reaches back for ever where the log reaches back one rotation, so the script is the wider check, not a narrower substitute.
 - **The mirror caveat**: `C:\OSINT` is a mirror, so a URL absent from its logs and index is *probably* new, not certainly. This dedup is a cost-saver; OSINT's ingest remains the authoritative door.
 
 ## 4a. Selection — the cap, and why it is Corpus's to apply
@@ -113,4 +115,5 @@ Two files, both Corpus-side:
 3. One note in `notes-for-osint.md`: **`[FYI]`** for the batch — label, count staged, one line on what it is; ingest disposition is OSINT's. **Say the batch is capped and state the rule** (one baseline, two progress, selected Corpus-side with the frame in hand). Where the run made origin adjudications, the note is **`[ACT]`** and adds one line: append the rows in `progress-filler-drop-list.csv` to `logs/drop-list.csv`.
 4. **On the run that creates `progress-filler-drop-list.csv`, add it to the share's `README.md` file table** — the canonical enumeration of the share; a file it does not name does not exist to the other side.
 5. Tell Bill: gaps searched, staged, nil count, what the run consumed against §7's four stages — **and that the batch sits in `new-queue\{ISO}\` undelivered until he moves it** — with the two folders' counts separately, because they are what he decides between when the week is tight.
-6. One line in Corpus's log, per the house form.
+6. **Update `logs/progress-report-log.csv`**: set this run's `{ISO}` row's `Filler Searched` cell to today's date, `DD/MM/YYYY` as the column already carries. This is the queue the no-`{ISO}` trigger reads — a run that skips this step leaves its own country selectable again.
+7. One line in Corpus's log, per the house form.
