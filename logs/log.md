@@ -13,6 +13,7 @@ title: Corpus process log
 
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 <!-- newest first: a new entry goes directly below this line -->
+2026-08-28 22:47 · render · 6m · 242 report docs, home, 54 countries, 38 topics, catalogue 11849, finance, 203 editions pruned, deployed — ok
 2026-08-28 22:41 · build · 40m · catalogue 11849, finance 61 places, scan 24 units 74 sources, 12 ledgers moved, 25 rows minted, 2 duplicate rows folded, topics 68 docs, bulletin 27 summaries — ok
 2026-08-28 20:29 · progress-filler · 1h10m · thirteenth run, BWA, six slices: 69 gaps searched, zero nils; 177 selections over 118 files; 21 multi-indicator files under real load; own merge bug lost the unselected register, declared; two origin adjudications; UNDELIVERED until Bill moves it
 2026-08-28 19:37 · progress-filler · 1h05m · twelfth run, TZA, largest frame yet: 60 gaps searched, zero nils; 173 selections over 145 files after cap; nine cross-slice duplicates merged, two overwrites self-repaired mid-run; 20 files carry dropped bullet-glyphs, declared; batch staged, UNDELIVERED until Bill moves it
