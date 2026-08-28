@@ -75,6 +75,24 @@ def mirror_head(path: str | None = None) -> str | None:
     return out.stdout.strip() or None if out.returncode == 0 else None
 
 
+def _is_ancestor(commit: str, repo: str | None = None) -> bool:
+    """Whether `commit` is in the history the mirror is holding.
+
+    This is what separates *the manifest is older than the tree* from *the manifest and the
+    tree are not the same repository*. Only `SWEEP-CYCLE` and `SWEEP-BULLETIN` write a
+    manifest, and OSINT commits from passes that do neither, so a manifest naming an earlier
+    commit than HEAD is the ordinary state and not a fault - it was measured firing within
+    minutes of this reader being written. A commit that is *not* an ancestor is the real
+    fault: a tree and an account of it that arrived from different histories."""
+    try:
+        out = subprocess.run(
+            ["git", "-C", repo or MIRROR, "merge-base", "--is-ancestor", commit, "HEAD"],
+            capture_output=True, text=True, timeout=60)
+    except (OSError, subprocess.SubprocessError):
+        return False
+    return out.returncode == 0
+
+
 def read_manifest(path: str | None = None) -> tuple[dict | None, str]:
     """`(the manifest, why it is or is not usable)`.
 
@@ -91,10 +109,13 @@ def read_manifest(path: str | None = None) -> tuple[dict | None, str]:
     schema is the one failure the fallback cannot catch, because a field that changed
     meaning under a new number still parses under the old reading.
 
-    **`head` disagreeing with the mirror's own HEAD.** This is a *half-copied mirror*, not a
-    stale manifest: the manifest is written after the final commit, so a mismatch means the
-    tree and its account of itself arrived from different moments. Refusing sends the
-    callers to the logs, which describe the tree that is actually here.
+    **`head` naming a commit the mirror's history does not contain.** A tree and an account
+    of it that arrived from different histories. Note 16 asks for a plain equality check
+    here, and equality is too strict: only the two mirroring passes write a manifest and
+    OSINT commits from passes that do neither, so `head` trailing HEAD is the ordinary
+    state - measured firing within minutes of this being written. A manifest whose `head`
+    is an **ancestor** of HEAD is accepted and says so, because its stamps then understate
+    freshness, which is the direction this repo prefers to be wrong in.
 
     Where git cannot answer at all the head check is skipped rather than failed — an absent
     git is not evidence of a bad copy, and the schema and shape checks have already run.
@@ -113,10 +134,16 @@ def read_manifest(path: str | None = None) -> tuple[dict | None, str]:
                       f"{MANIFEST_SCHEMA}. A schema this does not know is refused rather "
                       f"than guessed at")
     head = data.get("head")
-    here = mirror_head(os.path.dirname(path) or None)
+    repo = os.path.dirname(path) or None
+    here = mirror_head(repo)
     if head and here and head != here:
-        return None, (f"the cycle manifest names {head[:8]} and the mirror is holding "
-                      f"{here[:8]} - a half-copied mirror, not a stale manifest")
+        if _is_ancestor(head, repo):
+            return data, (f"the cycle manifest, written at {head[:8]} and the mirror since "
+                          f"moved to {here[:8]} - its stamps understate, which is the safe "
+                          f"direction")
+        return None, (f"the cycle manifest names {head[:8]}, which is not in the history the "
+                      f"mirror is holding at {here[:8]} - a half-copied mirror, not a stale "
+                      f"manifest")
     return data, "the cycle manifest"
 
 

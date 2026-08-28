@@ -524,6 +524,33 @@ def case_the_manifest_answers_on_its_own(tmp):
         f"the run did not name the manifest as its source:\n{out}")
 
 
+def case_a_manifest_naming_an_unknown_commit_is_refused(tmp):
+    """A `head` outside the mirror's history sends the reading back to the logs.
+
+    Equality with HEAD is too strict — only the two mirroring passes write a manifest, so a
+    `head` trailing HEAD is ordinary and its stamps merely understate. A commit the mirror
+    has never held is the real fault, and the logs describe the tree that is actually here."""
+    b = Bench(tmp, [row("only", TODAY, "KEN", "gov.policy")])
+    b.stamp("2026-05-14 05:20", swept="2026-05-13 23:55")
+    b.manifest(tmp, sweep_closed="2026-05-13 21:00")
+    # A real repo at the manifest's side, holding a commit the manifest does not name.
+    import subprocess
+    for cmd in (["init", "-q"], ["config", "user.email", "t@example.com"],
+                ["config", "user.name", "t"]):
+        subprocess.run(["git", "-C", str(tmp), *cmd], capture_output=True)
+    (tmp / "seed.txt").write_text("x", encoding="utf-8")
+    subprocess.run(["git", "-C", str(tmp), "add", "-A"], capture_output=True)
+    subprocess.run(["git", "-C", str(tmp), "commit", "-q", "-m", "seed"], capture_output=True)
+    path = tmp / "cycle-manifest.json"
+    path.write_text(json.dumps({"schema": 1, "head": "0" * 40,
+                                "collection": {"sweep_closed": "2026-05-13 21:00"}}),
+                    encoding="utf-8")
+    out = b.assemble()
+    assert "Last updated 13-05-2026 at 23:55" in b.document(), (
+        f"a manifest from another history reached the byline:\n{b.document()[:400]}")
+    assert "no manifest" in out, f"the run did not say it had fallen back:\n{out}"
+
+
 def case_a_manifest_stamp_is_read_as_local(tmp):
     """The manifest's collection stamps are copied out of OSINT's local logs.
 
@@ -542,6 +569,8 @@ def case_a_manifest_stamp_is_read_as_local(tmp):
 CASES = [
     ("the manifest answers on its own", case_the_manifest_answers_on_its_own),
     ("a manifest stamp is read as local", case_a_manifest_stamp_is_read_as_local),
+    ("a manifest naming an unknown commit is refused",
+     case_a_manifest_naming_an_unknown_commit_is_refused),
     ("the summary anchors on the earliest topic in document order",
      case_anchor_is_earliest_in_document_order),
     ("every cross-reference points backwards", case_every_cross_reference_points_backwards),

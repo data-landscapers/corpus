@@ -13,6 +13,7 @@ title: Corpus process log
 
 *(**`status-init` joined the log on 2026-08-16** and writes one line per country, not per session. Before that it rewrote status reports and committed them while leaving no trace here, so the log implied `outputs/` only ever moves under BUILD — untrue since the campaign began, and the lines above 12:21 on 2026-08-16 are the gap it left. Nothing has been backfilled: the runs are in git, and a hand-written line dated to a run nobody logged is a worse record than an admitted hole.)*
 <!-- newest first: a new entry goes directly below this line -->
+2026-08-28 09:54 · review · unclocked · manifest head check relaxed to ancestry: only mirroring passes write one, so head trailing HEAD is normal and its stamps understate; an unknown commit still falls back - ok
 2026-08-28 09:51 · review · unclocked · task 14 CORPUS half: osint_lib reads the cycle manifest first, logs as fallback; collected_to() is the byline's one policy. Manifest stamps are local not UTC as labelled - OSINT note 54 - ok
 2026-08-28 09:19 · review · unclocked · task 17: both process layers feature-frozen 2026-08-28 to 09-27, defect-fix test in CLAUDE.md; freeze-status.py reports the split and refuses only the freeze outliving its end date; OSINT note 53 - ok
 2026-08-28 09:13 · review · unclocked · task 16: notes carry an Affects: line naming the artefact or commissioned work; lint-notes.py counts it, tests run the review's own block/keep claim; notes 48/49/51 retrofitted, OSINT note 52 - ok
