@@ -1,0 +1,85 @@
+indicator_id,file,brief,rank,why
+gov.policy--data-governance-policy,2025-10-01-national-cloud-policy-2025.md,baseline,1,National Cloud Policy 2025 is the operative mandatory instrument governing government data classification/sovereignty and supersedes the 2019 cloud policy -- closest thing Nigeria has to a national data governance policy
+gov.policy--data-governance-policy,2026-05-07-ndpc-ngf-mou-sub-national-privacy.md,progress,1,NDPC-NGF MoU (7 May 2026) extends federal data governance policy implementation to state level via a formal working group
+gov.policy--open-data-policy,2018-07-01-nigeria-open-data-policy.md,baseline,1,"the only national instrument expressly titled Nigeria Open Data Policy (Jul 2018), still the operative framework for data.gov.ng and MDA obligations"
+gov.policy--open-data-policy,2025-12-14-power-of-data-nigeria-action-plan-2025-2028.md,progress,1,Power of Data: Nigeria Action Plan 2025-2028 (launched 15 Dec 2025) is the clearest national-level move to govern data production/coordination/availability as a multi-year agenda
+gov.legislate--statistics-legislation,2007-06-11-statistics-act-2007-official-gazette.md,baseline,1,"the enacted Statistics Act 2007 establishing the National Statistical System and NBS, still operative pending the Statistics Bill 2025's passage"
+gov.legislate--statistics-legislation,2025-12-10-house-passes-statistics-bill-third-reading.md,progress,1,"House of Representatives passed the Statistics Bill 2025 (HB.2491) at Third Reading (10 Dec 2025), the most consequential single-chamber step toward repeal/replacement of the 2007 Act"
+gov.legislate--statistics-legislation,2026-06-08-reps-public-hearing-statistics-bill.md,progress,2,public hearing on the Statistics Bill 2025 (8 Jun 2026) with Speaker and Statistician-General testimony -- a distinct later-stage legislative event
+gov.legislate--access-to-information-legislation,2011-05-28-freedom-of-information-act-2011.md,baseline,1,"the Freedom of Information Act 2011, Nigeria's founding access-to-information statute, assented 28 May 2011 and still in force"
+gov.legislate--access-to-information-legislation,2025-10-13-heda-v-nnpcl-judgment.md,progress,1,Federal High Court judgment (13 Oct 2025) holding NNPCL remains a public institution subject to the FOI Act despite its corporate form -- broadens the Act's reach
+gov.legislate--access-to-information-legislation,2026-03-21-foi-act-overrides-other-laws-shippers-council.md,progress,2,Federal High Court ruling (24 Feb 2026) that the FOI Act overrides conflicting disclosure laws -- a distinct precedent strengthening enforceability
+finance.mou--strategic-relationships,2026-08-28-international-economic-relations-department.md,baseline,1,no single umbrella instrument exists for this indicator; the Ministry's own IER Department page is the closest institutional description of the function managing Nigeria's strategic bilateral/multilateral relationships
+finance.mou--strategic-relationships,2025-12-09-eu-global-gateway-45m-digital-economy.md,progress,1,"EU-Nigeria Digital Open Day (9 Dec 2025), a signed EUR45m programme completing the EU Digital Economy Package -- the largest financial commitment found in the window"
+finance.mou--strategic-relationships,2026-03-23-nigeria-finland-mou-digitalisation.md,progress,2,"Nigeria-Finland MoU on Digitalisation and Innovation (23 Mar 2026), a distinct bilateral strategic-relationship instrument covering digital government, DPI and cybersecurity"
+infra.connect--international-internet-bandwidth,2020-03-01-nigerian-national-broadband-plan-2020-2025.md,baseline,1,"the operative National Broadband Plan states the last clear official national position on international bandwidth (6 submarine cables in Lagos, over 40Tbps available, under 10% utilised)"
+infra.connect--international-internet-bandwidth,2026-02-07-airtel-second-breakout-2africa.md,progress,1,"Airtel announced (7 Feb 2026) a second international breakout point via 2Africa at Kwa Ibo, reducing dependence on Lagos as sole breakout"
+infra.connect--international-internet-bandwidth,2026-08-18-wiocc-ring-protected-ip-transit.md,progress,2,WIOCC activated (18 Aug 2026) ring-protected IP transit across 2Africa/Equiano/WACS/EASSy -- a distinct resilience/redundancy movement
+infra.energy--grid-reliability,2026-07-01-nerc-q1-2026-quarterly-report.md,baseline,1,"NERC's own Q1 2026 quarterly report is the most recent authoritative dated statement of grid reliability, with KPIs and two Q1 collapse incidents"
+infra.energy--grid-reliability,2026-01-01-nerc-q3-2025-quarterly-report.md,progress,1,NERC Q3 2025 report records a total grid collapse (10 Sep 2025) -- a distinct document/event from the baseline's Q1 2026 report
+infra.energy--grid-reliability,2026-04-01-nerc-q4-2025-quarterly-report.md,progress,2,NERC Q4 2025 report records a partial grid collapse (29 Dec 2025) -- a second distinct document/event ahead of the baseline's Q1 2026 window
+dpi.exchange--interoperability-of-health-systems,2025-11-20-nch-2025-salako-digital-health-remarks.md,baseline,1,"Minister's dated statement of current HIE/NDHI standing with quantified reach (7.2m registered, 200+ hospitals)"
+dpi.exchange--interoperability-of-health-systems,2026-06-26-nhtdao-tinubu-approves-national-health-technology-data-analytics-office.md,progress,1,New coordinating office created to operationalise the NDHA
+dpi.exchange--interoperability-of-health-systems,2025-11-13-jar-2025-salako-inaugural-address-health-resilience.md,progress,2,"NCH endorsement of nationwide NDHI implementation and NDHA as sector ""rules of the road"""
+dpi.exchange--interoperability-of-education-systems,2026-06-29-dnemis-fg-unveils-national-digital-education-platform.md,baseline,1,Official pre-launch announcement of DNEMIS/NEDI flagship platform
+dpi.exchange--interoperability-of-education-systems,2026-07-10-fg-extends-trusted-digital-identity-80-million-learners.md,progress,1,LIN-NIN integration extending trusted digital identity to nearly 80 million learners
+dpi.exchange--interoperability-of-education-systems,2026-03-06-nerd-fg-deploys-national-education-data-repository.md,progress,2,NERD deployment integrating 250+ tertiary institutions for real-time credential verification
+dpi.exchange--interoperability-of-social-protection-systems,2025-03-17-nitda-dpi-technical-standards-draft-v1-3.md,baseline,1,NGDX draft technical standard explicitly including government subsidies/social-benefit payments
+dpi.exchange--interoperability-of-social-protection-systems,2026-03-25-ohoprs-fg-flags-off-one-humanitarian-one-poverty-response.md,progress,1,OHOPRS unified national register architecture flag-off
+dpi.exchange--interoperability-of-social-protection-systems,2025-12-01-nitda-dpi-framework-public-review-ngdx.md,progress,2,Federal-state public review session moving NGDX toward implementation
+dpi.id--digital-id-from-birth,2026-06-26-president-tinubu-assents-nimc-act-2026.md,baseline,1,Founding/enacting act for the current national identity system
+dpi.id--digital-id-from-birth,2026-07-24-npc-launches-vitalreg-digital-registration-platform.md,progress,1,Nationwide operational rollout of VitalReg birth-registration platform
+dpi.id--digital-id-from-birth,2025-09-11-unicef-npc-digital-birth-registration-gombe.md,progress,2,Field-level pilot integrating electronic birth capture with NIN enrolment
+dpi.id--interoperability-of-birth-registration-and-digital-id,2024-08-26-npc-unicef-first-lady-partner-birth-registration.md,baseline,1,NPC's own dated statement of e-CRVS interoperability with NIMC and NIN-at-birth objective
+dpi.id--interoperability-of-birth-registration-and-digital-id,2026-07-24-npc-launches-vitalreg-digital-registration-platform.md,progress,1,Nationwide VitalReg rollout also evidencing CRVS-NIN interoperability at scale
+dpi.id--interoperability-of-birth-registration-and-digital-id,2026-06-26-president-tinubu-assents-nimc-act-2026.md,progress,2,NIMC Act 2026 strengthens legal basis for CRVS-identity data exchange
+dpi.pay--g2p-functionality,2021-10-25-cbn-regulatory-guidelines-on-the-enaira.md,baseline,1,CBN's regulatory instrument explicitly defining P2G/G2P and MDA transaction types
+dpi.pay--g2p-functionality,2026-07-29-doro-unified-g2p-digital-payment-workshop.md,progress,1,Business-requirements validation workshop for a unified G2P payment solution
+dpi.pay--g2p-functionality,2026-06-04-fg-disburses-hope-ct-imo-beneficiaries.md,progress,2,Concrete NIN-linked state-level G2P disbursement under HoPE-CT
+dpi.registry--tax-register,2025-06-26-nigeria-tax-administration-act-2025.md,baseline,1,Founding statute requiring taxpayer Tax ID registration
+dpi.registry--tax-register,2026-01-01-fctirs-nigerian-tax-id-portal-goes-live.md,progress,1,"Centralised Tax ID portal goes live nationwide, linked to NIN/CAC"
+dpi.registry--tax-register,2026-07-14-nrs-sensitises-mdas-rev360-digital-tax-platform.md,progress,2,"REV360 replaces TaxPro Max, consolidating registration/filing/payment"
+dpi.mis--education,2021-08-01-reviewed-national-policy-on-emis.md,baseline,1,Foundational EMIS policy instrument establishing NEMIS/SEMIS/LEMIS
+dpi.mis--education,2026-04-09-fg-launches-learner-identification-number.md,progress,1,Nationwide Learner Identification Number launch built on the DNEMIS school register
+dpi.mis--education,2026-03-06-nerd-fg-deploys-national-education-data-repository.md,progress,2,NERD tertiary-records repository deployment
+dpi.mis--social-protection,2025-09-03-worldbank-nassp-su-implementation-status-results-report.md,baseline,1,World Bank dated status report on the operating delivery-system-strengthening component
+dpi.mis--social-protection,2026-03-25-ohoprs-fg-flags-off-one-humanitarian-one-poverty-response.md,progress,1,OHOPRS unified register/MIS architecture flag-off
+dpi.mis--social-protection,2026-07-29-doro-unified-g2p-digital-payment-workshop.md,progress,2,Unified G2P payment/beneficiary-management design workshop under OHOPRS
+dpi.mis--land,2025-03-19-fmhud-keynote-national-land-registration-documentation-programme.md,baseline,1,"Minister's dated statement that no unified national land information system existed, with NDLIS planned"
+dpi.mis--land,2025-08-13-fmhud-land4growth-unlock-150-billion-dormant-land-capital.md,progress,1,National Land4Growth/NLRDTP rollout to 18-20 reform-ready states
+dpi.mis--land,2025-10-20-kwara-launches-kw-gis-digital-land-administration.md,progress,2,Concrete state-level KW-GIS digital land information system launch
+digital.rural--digitalisation-of-rural-health-clinics,2025-07-21-nphcda-digital-innovation-hub.md,baseline,1,"NPHCDA's own institutional page for its PHC data-aggregation hub, the clearest primary instrument statement"
+digital.rural--digitalisation-of-rural-health-clinics,2026-08-21-lmvsv-vaccine-last-mile-nigeria.md,progress,1,largest documented nationwide rollout of facility-level digital vaccine-stock reporting in the window
+digital.rural--digitalisation-of-rural-health-clinics,2025-10-25-automated-standing-orders-app-chps.md,progress,2,distinct official launch of a mandatory-by-2027 digital clinical decision tool for rural CHPs
+digital.rural--digitalisation-of-rural-registry-offices,2026-07-18-nigeria-crvs-digitalisation-vitalreg.md,baseline,1,"Nigeria's own dated country-case presentation, most current authoritative status statement for the CRVS digitalisation system"
+digital.rural--digitalisation-of-rural-registry-offices,2026-07-15-npc-nationwide-digital-birth-death-registration.md,progress,1,NPC's announcement that nationwide digital birth/death registration took effect 1 July 2026
+digital.rural--digitalisation-of-rural-registry-offices,2025-08-13-land4growth-national-land-registration-programme.md,progress,2,distinct land-registry digitalisation programme rollout
+digital.rural--digitalisation-of-rural-police-stations,2024-12-02-national-data-fusion-centre-npcidb.md,baseline,1,"Ministry's own account of the NPCIDB/NCDFC, biometric capture at divisional stations nationwide"
+digital.rural--digitalisation-of-rural-police-stations,2026-04-23-fg-ptf-mou-map-digitalise-police-stations.md,progress,1,"nationwide MoU to map and fibre-connect police stations, including rural stations"
+digital.rural--digitalisation-of-rural-police-stations,2026-06-11-galaxy-backbone-nptf-smart-police-station-gombe.md,progress,2,"first Smart Police Station deployment, a distinct implementation event"
+include.access--citizen-feedback-portals,2025-03-15-servicom-e-citizens-feedback-portal.md,baseline,1,SERVICOM Presidency's own launch of the Citizens E-Feedback Portal
+include.access--citizen-feedback-portals,2026-03-05-servicom-nigeria-egm-electronic-grievance-management.md,progress,1,distinct new World Bank-backed grievance platform launch
+include.access--citizen-feedback-portals,2026-05-19-tax-ombud-website-call-centre-case-management.md,progress,2,distinct new taxpayer complaints channel
+include.access--citizen-participation-in-policy,2023-01-01-ogp-nigeria-citizen-participation-budget-cycle.md,baseline,1,Nigeria's own OGP commitment record for citizen participation across the budget cycle
+include.access--citizen-participation-in-policy,2026-04-17-nigeria-ogp-national-action-plan-iv.md,progress,1,unveiling of OGP National Action Plan IV
+include.access--citizen-participation-in-policy,2026-07-15-national-assembly-open-week.md,progress,2,distinct legislative-branch citizen engagement event
+include.access--inclusion-of-refugees-and-idps,2022-12-28-ncfrmi-act-2022.md,baseline,1,founding statute for Nigeria's refugees/IDP institution
+include.access--inclusion-of-refugees-and-idps,2026-07-16-solid-programme-idps-host-communities.md,progress,1,launch of the USD 300m World Bank-financed SOLID programme for IDPs and host communities
+include.access--inclusion-of-refugees-and-idps,2026-03-09-kampala-convention-domestication-act-assent.md,progress,2,distinct new statute: presidential assent to the Kampala Convention domestication Act
+data.statistics--national-strategy-for-development-of-statistics,2025-12-14-nsds-iii-2024-2028-catalogue.md,baseline,1,NBS's own catalogue record for the current NSDS III (2024-2028)
+data.statistics--national-strategy-for-development-of-statistics,2025-12-15-fg-unveils-strategic-data-initiatives.md,progress,1,government's ceremonial unveiling event for NSDS III
+data.statistics--national-strategy-for-development-of-statistics,2026-01-01-nbs-statistician-general-2026-message.md,progress,2,distinct dated 2026 statement committing to NSDS III implementation
+data.statistics--statistics-from-administrative-data,2007-06-11-statistics-act-2007.md,baseline,1,founding Statistics Act 2007 establishing the National Statistical System
+data.statistics--statistics-from-administrative-data,2025-11-13-nhsw-jar-2025-health-renewal-compact.md,progress,1,administrative-data-driven performance review of health-sector indicators
+data.open--use-of-open-data,2018-07-01-nigeria-open-data-policy.md,baseline,1,the only national instrument expressly titled Nigeria Open Data Policy
+data.open--use-of-open-data,2026-06-29-dnemis-fg-unveils-national-digital-education-platform.md,progress,1,launch of the Public DNEMIS Portal opening official education data to the public
+data.open--use-of-open-data,2025-08-26-nigerian-data-exchange-platform-ngdx.md,progress,2,distinct interoperable data-exchange platform enabling anonymised public-data use
+data.satellite--meteorological-use-of-satellite-data,2025-05-09-nimet-mtg-satellite-installation.md,baseline,1,NiMet's own dated completion announcement for its Meteosat Third Generation receiving station
+data.satellite--meteorological-use-of-satellite-data,2025-08-19-nimet-enacts-climate-data-initiative.md,progress,1,launch of ENACTS integrating satellite data with ground observations via NiMet's Maproom
+data.satellite--meteorological-use-of-satellite-data,2025-08-01-nimet-sadis-platform-aviation.md,progress,2,distinct centralised SADIS satellite-derived aviation weather platform
+geopol.gulf--gulf-mous-engagements-and-commitments,2026-01-13-nigeria-uae-cepa.md,baseline,1,"Nigeria's own ministerial explanation of the CEPA with the UAE, the most significant Gulf instrument found"
+geopol.gulf--gulf-mous-engagements-and-commitments,2025-12-09-nigeria-saudi-arabia-defence-mou.md,progress,1,distinct five-year Nigeria-Saudi Arabia defence cooperation MoU
+geopol.gulf--gulf-mous-engagements-and-commitments,2026-01-19-ad-ports-group-nigeria-mou.md,progress,2,distinct AD Ports Group-Nigeria maritime/digital trade MoU
+geopol.india--india-mous-engagements-and-commitments,2024-11-17-india-nigeria-joint-statement-modi-visit.md,baseline,1,"standing India-Nigeria Joint Statement, fullest dated statement of the Strategic Partnership framework"
+geopol.india--india-mous-engagements-and-commitments,2025-08-12-india-nigeria-defence-bilateral-meeting.md,progress,1,distinct defence-industrial bilateral meeting in New Delhi
+geopol.india--india-mous-engagements-and-commitments,2026-04-14-nigeria-india-steel-investment-mou.md,progress,2,distinct $1 billion steel-sector MoU with Rashmi Metaliks Group
