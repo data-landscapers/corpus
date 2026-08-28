@@ -1,21 +1,23 @@
 ---
 title: Digital divides — monthly update, July 2026
-compiled: 2026-08-27
-period: 2026-07-01 to 2026-08-27
+compiled: 2026-08-28
+period: 2026-07-01 to 2026-08-28
 subject: include.divides
-places: AGO; BWA; BDI; COD; EGY; SWZ; ETH; GHA; KEN; MWI; MOZ; NGA; SEN; UGA; ZWE
-record: 91eed551cf19
+places: AGO; BWA; BDI; COD; EGY; SWZ; ETH; GHA; KEN; MWI; MOZ; NER; NGA; SEN; UGA; ZWE
+record: 456116c75cd8
 ---
 
 # Digital divides: monthly update, July 2026
 
-*15 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*16 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
 ## Angola
 
 Satellite-based inclusion produced two counts eight days apart on different bases: [20,000 students across six universities and more than 300 localities on 13 July](https://angop.ao/noticias/economia/vinte-mil-estudantes-beneficiam-do-projecto-conecta-angola/), and [3,972 students at two Luanda schools connected by satellite and white-space on 14 July](https://techreviewafrica.com/news/6298/angola-connects-nearly-4000-students-through-angosat-2-and-tv-white-space-connectivity-project).
+
+The programme's antenna recovery and migration reached two more localities at the end of the month: a point restored at Quiage commune in Bengo, stated to serve five thousand residents, and a connection under way at [Quirimbo municipality in Cuanza-Sul, delivered by startups of the national space programme](https://angop.ao/noticias/economia/populacao-do-quirimbo-entra-na-era-da-conectividade-com-angosat-2/). No running total of points restored or live accompanies the site-by-site reports.
 
 ## Botswana
 
@@ -66,6 +68,10 @@ The universal service fund is in operation and funded from the regulator's annua
 The inclusion figures move in opposite directions depending on which one is read. The central bank's 2025 report puts the [financial inclusion index at 36.4 points, classified moderate, with Cabo Delgado rising from 23.3 to 25.8](https://clubofmozambique.com/news/atms-and-pos-terminals-lose-further-ground-to-mobile-money-in-mozambique/) — a national index that did not move while access points rose 36%. Underneath it the [gender gap in access to credit stands at 34% women against 66% men](https://clubofmozambique.com/news/atms-and-pos-terminals-lose-further-ground-to-mobile-money-in-mozambique/), and women's mobile money holding rose 24% over the same period. The account gap is narrowing while the credit gap widens.
 
 The funding aimed at those gaps shrank in the same window. An implementing partner's account of 12 August reports that [connectivity and digital-inclusion work in Mozambique slowed or stopped after the American aid wind-down of 2025, in which 83% of the agency's programmes were cut](https://www.developingtelecoms.com/telecom-business/humanitarian-communications/20670-usaids-exit-leaves-a-gap-in-the-drive-for-meaningful-connectivity.html), the multi-funder Women in the Digital Economy Fund losing its American component while the parts other funders backed continued. No replacement funder is named and no Mozambican figure is given.
+
+## Niger
+
+One training cohort is the whole of the window's movement here. [500 women working in agri-food processing and pottery at Zinder completed a ten-day programme in business management, financial planning and the use of digital financial tools, run by a mobile operator's foundation as part of an effort it is extending across several countries](https://techafricanews.com/2026/08/28/airtel-africa-foundation-expands-financial-inclusion-support-for-women/). What is established is a completed cohort, not any change in the women's access to financial services: no follow-up, account-opening figure, cost or continuation is published.
 
 ## Nigeria
 

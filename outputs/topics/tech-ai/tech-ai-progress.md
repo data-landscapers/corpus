@@ -1,13 +1,13 @@
 ---
-title: AI — progress report, 2025-08-01 to 2026-08-27
-compiled: 2026-08-27
-period: 2025-08-01 to 2026-08-27
+title: AI — progress report, 2025-08-01 to 2026-08-28
+compiled: 2026-08-28
+period: 2025-08-01 to 2026-08-28
 subject: tech.ai
 places: XAF; XSA; XWA
-record: 99742b3a4f32
+record: 2e47f89d18ac
 ---
 
-# AI: progress report, 2025-08-01 to 2026-08-27
+# AI: progress report, 2025-08-01 to 2026-08-28
 
 *3 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -15,7 +15,7 @@ record: 99742b3a4f32
 
 ## Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-27 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-28 | Movement |
 |---|---|---|---|
 | Africa AI Council | Did not exist | [Established under a board of 42 heads of state with the AU Commissioner for Energy and Infrastructure and the ITU Secretary-General; no work programme or output held in the nine months since](https://smartafrica.org/the-smart-africas-board-unveils-the-inaugural-africa-ai-council-to-lead-the-continents-ai-transformation/) | Advanced |
 | Free student access to a commercial assistant | Did not exist | [A technology company offered African students one year of its paid artificial-intelligence assistant tier at no charge, pitched at study materials, assignments and planning](https://blog.google/intl/en-africa/one-year-of-gemini-on-us-for-students/) | Advanced |
@@ -26,17 +26,18 @@ record: 99742b3a4f32
 | Monitoring and evaluation of the AU Continental AI Strategy | Provided for in the Strategy through an African AI readiness index, a public monitoring dashboard and regional AI observatories, with nothing published | [Still nothing published; the Peace and Security Council requested the Commission and its AI Advisory Group to submit periodic reports on 2026-04-16, and the Strategy's own midterm review falls in 2027](https://au.int/sites/default/files/documents/44004-doc-EN-_Continental_AI_Strategy_July_2024.pdf) | No change |
 | Common African Position on AI and its Impact on Peace, Security, Democracy and Development | ***Baseline not held*** | [The Council requested the Commission to expedite the comprehensive study and the Common African Position and submit them for its consideration; a Policy Brief on AI for Peace, Security and Governance in Africa is reported in progress and no text is published](https://aupaps.org/en/article/communique-of-the-1339th-meeting-of-the-psc-on-artificial-intelligence-governance-peace-and-security-held-on-thursday-16-april-2026) | ***Baseline not held*** |
 | Google Africa Applied AI Lab | Did not exist | [A co-development programme based at the Accra AI Community Centre and run with the sponsor's AI futures fund, giving selected African startups from pre-seed to Series C+ pre-release access to its Gemini, Gemma and Veo models plus research mentorship and go-to-market support, with no equity taken and no cash award guaranteed; it closes with a demo day in Accra](https://www.ictworks.org/apply-now-google-africa-applied-ai-lab-for-founders/) | ***Baseline not held*** |
+| Public capital committed to the AU Continental AI Strategy | Baseline not held | [About US$150m of public capital committed by African governments against an implementation cost the Strategy itself prices at between US$250bn and US$500bn - a fraction of one per cent - and an ambition to add US$1.5 trillion to Africa's GDP by 2030; independent research over the Strategy's first eighteen months found the funding heavily concentrated in Kenya, Nigeria, South Africa and Egypt, with little reaching the remaining member states](https://thevaultznews.com/2026/08/27/africa-risks-missing-2030-ai-targets-over-500-billion-financing-shortfall/) | ***Baseline not held*** |
 
 ## Southern Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-27 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-28 | Movement |
 |---|---|---|---|
 | COMESA regional AI strategy | Did not exist | [Stakeholder consultation held under the World Bank-supported IDEA programme to inform the strategy and its action plan; no draft, drafter or adoption route published](https://techafricanews.com/2026/07/14/zambia-and-comesa-launch-ai-initiative-to-advance-regional-digital-transformation/) | Advanced |
 | SADC Regional Artificial Intelligence Strategy and Regulatory Framework | ***Baseline not held*** | [Under development according to Malawi's ICT ministry (2026-06); no draft, adoption date or Secretariat document held; a regional workshop at Harare on data governance in the artificial-intelligence age, convened with the World Bank, a continental alliance and a United Nations agency, set out to harmonise member states' data policy for readiness](https://itweb.africa/article/sadc-puts-spotlight-on-ai-data-governance/JN1gP7OAw5wqjL6m) | ***Baseline not held*** |
 
 ## West Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-27 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-28 | Movement |
 |---|---|---|---|
 | ECOWAS Regional AI Governance Framework | Did not exist | [Resolved to be developed, citing algorithmic bias, labour displacement and information disorder; no draft, drafting body or date held in the six months since; a four-country comparative study presented on 2026-08-10 found none of Benin, Senegal, Cote d'Ivoire or Burkina Faso holds AI-specific legislation in force or in draft, rating Cote d'Ivoire's strategy the most advanced of the four on inclusion and data governance and finding Burkina Faso's data-protection law the only one to name AI-based processing](https://grain-africa.org/en/intelligence-artificielle-en-afrique-de-louest-grain-presente-les-resultats-dune-etude-comparative-pour-une-gouvernance-plus-inclusive-et-responsable-de-lia/) | Advanced, marginal |
 | Francophone West African AI governance guidelines | Did not exist | [Adopted by Benin, Burkina Faso, Cote d'Ivoire, Guinea, Mali and Senegal; advisory, complementing national strategies rather than replacing them](https://www.wearetech.africa/en/fils-uk/news/tech/six-francophone-west-african-countries-unite-on-ai-governance-framework) | Advanced |

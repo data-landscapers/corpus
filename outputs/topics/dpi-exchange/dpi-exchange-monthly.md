@@ -1,10 +1,10 @@
 ---
 title: Data Exchange — monthly update, July 2026
-compiled: 2026-08-27
-period: 2026-07-01 to 2026-08-27
+compiled: 2026-08-28
+period: 2026-07-01 to 2026-08-28
 subject: dpi.exchange
 places: DZA; AGO; BEN; CMR; TCD; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MWI; MLI; MRT; MUS; MAR; MOZ; NGA; SEN; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; ZMB; ZWE
-record: 3825940f2769
+record: 4ae5f95e7dd9
 ---
 
 # Data Exchange: monthly update, July 2026

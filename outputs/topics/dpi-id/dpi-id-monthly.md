@@ -1,10 +1,10 @@
 ---
 title: Digital Identity and CRVS — monthly update, July 2026
-compiled: 2026-08-27
-period: 2026-07-01 to 2026-08-27
+compiled: 2026-08-28
+period: 2026-07-01 to 2026-08-28
 subject: dpi.id
 places: DZA; AGO; BWA; BFA; BDI; CMR; CPV; COG; CIV; DJI; COD; EGY; ETH; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TUN; UGA; ZMB; ZWE
-record: 162a5d075931
+record: 86ed6bb229c0
 ---
 
 # Digital Identity and CRVS: monthly update, July 2026
@@ -105,7 +105,7 @@ Government is [procuring a system to cut identity-card issuance to ten days and 
 
 Two identity systems met the courts instead. The High Court [barred the transport authority from discontinuing physical vehicle logbooks](https://www.the-star.co.ke/news/2026-08-11-court-preserves-validity-of-ntsa-physical-logbooks) on 11 August, pending a petition arguing the electronic logbook was introduced without public participation and without adequate data-protection and cybersecurity impact assessments. Separately, the Attorney-General's six-month window to legislate on phone-number recycling, opened by the March judgment recognising a registered number as a protected digital identifier, [was still open in August with nothing tabled](https://www.kictanet.or.ke/https-www-kictanet-or-ke-phone-number-recycling-digital-identity-kenya/), while banks, savings societies and platforms continue to rely on numbers after reassignment.
 
-The transport and safety authority [announced a Sh42 billion public-private partnership to roll out smart driving licences over twenty-one years](https://swalanyeti.co.ke/business/article/11563/ntsa-unveils-sh42-billion-ppp-to-roll-out-smart-driving-licences-over-21-years). A twenty-one-year concession over a national credential is a long commitment, and no concessionaire, financial close or first issuance date is named.
+The transport and safety authority's own disclosure notice under the PPP Act settles the smart driving licence partnership the base had held only in summary: a twenty-one-year Strategic Partnership with [a KCB Bank Limited and Pesa Print consortium, estimated at KSh 42bn over its first two to three years and funded entirely from private debt and equity, approved by Cabinet on 15 December 2025 after the Attorney-General cleared the draft agreement in January](https://gaa.go.ke/sites/default/files/2026-02/NTSA%20Public%20Notice%20on%20Disclosure%20On%20The%20Implementation%20Of%20The%20Public%20Private%20Partnership%20%28PPP%29%20Strategic%20Partnership%20For%20The%20Design%2C%20Supply%2C%20Delivery%2C%20Installation%20And%20Maintenance%20Of%20Smart%20Driving%20Licences%20And%20Associated%20Services.pdf). It is to issue 5 million polycarbonate cards every three years, stand up 102 enrolment centres, install 700 fixed and 300 mobile speed cameras behind a national command centre, and carry a licence wallet taking deposits and payments. The project began in 2017 with the National Bank of Kenya and passed to KCB by novation after Access Bank bought NBK. No financial close or first issuance date is named.
 
 ## Lesotho
 

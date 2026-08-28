@@ -1,15 +1,17 @@
 ---
 title: Literacy — monthly update, July 2026
-compiled: 2026-08-27
-period: 2026-07-01 to 2026-08-27
+compiled: 2026-08-28
+period: 2026-07-01 to 2026-08-28
 subject: capacity.literacy
 places: AGO; BEN; BFA; CMR; CIV; COD; GAB; GMB; GHA; KEN; LBR; MOZ; RWA; STP; SEN; TZA; TGO; ZMB
-record: f53ac2759079
+record: 47a09e6ebeef
 ---
 
 # Literacy: monthly update, July 2026
 
 *18 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Angola
 

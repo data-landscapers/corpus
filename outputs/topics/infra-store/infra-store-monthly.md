@@ -1,10 +1,10 @@
 ---
 title: Data Storage — monthly update, July 2026
-compiled: 2026-08-27
-period: 2026-07-01 to 2026-08-27
+compiled: 2026-08-28
+period: 2026-07-01 to 2026-08-28
 subject: infra.store
 places: DZA; AGO; BWA; BFA; CMR; CAF; COG; CIV; DJI; COD; EGY; GNQ; ETH; GAB; GMB; GHA; KEN; LSO; LBR; MWI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; SLE; SOM; ZAF; TZA; UGA; ZWE
-record: 346467d9e538
+record: c1f7c85707b6
 ---
 
 # Data Storage: monthly update, July 2026
@@ -62,6 +62,8 @@ A data-centre group lifted [committed capital from US$350m to US$380m](https://t
 A market report puts an East Cairo campus at [25 MW operating with plans for 45](https://businessday.ng/technology/article/investors-pour-into-africas-digital-backbone-as-data-centre-projects-near-900-mw/) and names an Egyptian expansion inside a continental pipeline of 890 MW, with no site, capacity, investment figure or date. The report itself is not held.
 
 Huawei [has bid to build the government's AI data centres](https://thenextweb.com/news/huawei-egypt-ai-data-centres-ascend-us-consortium), proposing to export 1,408 Ascend 950-series chips for a training cloud and a further 600 for two inference clusters on a twelve-month build, while the US State Department assembles a rival consortium of Nvidia, AMD and Microsoft. It would be the first confirmed export of Huawei's Ascend accelerators; no award is on file, and the reporting rests on unnamed sources and documents the correspondent reviewed.
+
+The operator's own hub moved on its schedule rather than its capacity. Its chief executive told the half-year results call that [phase two of the Regional Data Hub is expected to begin operating within one to two months on economics improved against phase one, with further data-centre projects screened on internal rate of return, payback period and business model](https://www.fintechgate.net/250173); the carve-out of the data-centre assets into a wholly owned subsidiary continues, and the chief financial officer said the uncompleted stake sale was not a negative development because the business is worth more retained. No entry-into-service date or capacity figure is confirmed, against a schedule the base already records as slipped.
 
 ## Equatorial Guinea
 
@@ -170,6 +172,8 @@ The commercial estate is expanding on the operator's own numbers rather than on 
 
 The expansion also drew its first organised objection. A civil-society coalition [submitted concerns to the human rights commission on 10 August calling for a halt on data-centre developments pending transparent public participation, citing strain on scarce water, land and electricity](https://climatejusticecoalition.org/cjc-public-participation-in-south-africas-data-centre-expansion/). No participation process, commission response or moratorium is on record, which is what makes the objection the only thing here that can be dated.
 
+The operators answered it in August. The country's major data-centre companies [defended their electricity and water use publicly, resting on renewable-energy and resource-management programmes, one of them stating science-based climate targets and full clean and renewable coverage locally](https://www.itweb.co.za/article/sa-data-centre-operators-push-back-amid-sustainability-probe/5yONP7EroNQMXWrb); the commission has published no finding, timetable or report date, and no independent measurement of the sector's draw is held either way.
+
 Two compute announcements closed the month, both making sovereignty the argument and both resting on the announcer's own figures. Three partners [launched what they describe as Africa's most powerful AI cloud, a 7.2 EFLOPS deployment on more than 50 NVIDIA B300 HGX servers carrying over 400 GPUs in carrier-neutral Tier-3+ colocation, pitched as keeping African training and inference workloads, and the data behind them, resident on the continent](https://techafricanews.com/2026/08/27/south-africa-partnership-launches-africas-most-powerful-sovereign-ai-cloud/); no independent benchmark, customer, price or site accompanies the number. Separately the mobile operator group [named the UAE backer of its Africa Data Hub Holding vehicle as Tarek Al Ashram, founder of the Dubai colocation operator Gulf Data Hub](https://www.mtn.com/mtn-group-advances-africas-ai-ready-digital-infrastructure-ecosystem-through-strategic-partnership/), three days after its own half-year results booklet named the vehicle without the partner behind it, [with a first phase targeting 150MW across South Africa and Nigeria](https://capacityglobal.com/news/mtn-targets-150mw-of-ai-data-centre-capacity/) and no split, site, cost or commissioning date stated. Against those, the one deployment in the country with an externally verified figure is the Cape Town artificial-intelligence factory, which [entered the June 2026 global supercomputer list at rank 36 on 285,696 cores and 77.79 PFlop/s measured against a 102.16 PFlop/s theoretical peak](https://www.top500.org/system/180464/).
 
 ## Tanzania
@@ -185,3 +189,5 @@ The Namanve colocation facility is operating with no Uganda capacity figure publ
 ## Zimbabwe
 
 The ICT ministry's 29 July address named a national high-performance computing centre, the state fixed operator and a private operator's data centre — the listed infrastructure company's Harare technology park among them — as the infrastructural spine for future government artificial intelligence ([launch account](https://spikedmedia.co.zw/zimbabwe-bets-on-digital-gold-inside-the-launch-of-ndarama-and-the-push-for-ai-sovereignty/)).
+
+Against that argument for a national spine, the country's largest operator moved the other way. It says it has [fully migrated its operations, mobile money and telecommunications infrastructure included, off on-premise computing and private data centres onto Google Cloud, and intends to sell cloud services on to local enterprises next](https://itweb.africa/article/econet-targets-zim-enterprise-cloud-market/rW1xL75ngDKMRk6m), citing resilience, continuity and faster feature deployment. No migration date, workload split, contract term or data-residency arrangement is published, and nothing in the base records a regulator's position on the country's mobile money platform running on infrastructure sited and operated elsewhere.

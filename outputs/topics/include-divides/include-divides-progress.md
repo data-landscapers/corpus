@@ -1,13 +1,13 @@
 ---
-title: Digital divides — progress report, 2025-08-01 to 2026-08-27
-compiled: 2026-08-27
-period: 2025-08-01 to 2026-08-27
+title: Digital divides — progress report, 2025-08-01 to 2026-08-28
+compiled: 2026-08-28
+period: 2025-08-01 to 2026-08-28
 subject: include.divides
 places: XAF; XSA
-record: a584cabbed90
+record: 215897ac5263
 ---
 
-# Digital divides: progress report, 2025-08-01 to 2026-08-27
+# Digital divides: progress report, 2025-08-01 to 2026-08-28
 
 *2 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -15,12 +15,12 @@ record: a584cabbed90
 
 ## Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-27 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-28 | Movement |
 |---|---|---|---|
 | Women and girls digital-inclusion accelerator | ***Baseline not held*** | [An industry-body accelerator backed by two private foundations opened its next call for digital-inclusion solutions for women and girls across India and sub-Saharan Africa, with a grant amount listed at INR 42,000,000](https://www.ngobox.org/full_grant_announcement_Applications-Invited-for-SheConnects-Digital-Accelerator-to-Advance-Womens-Digital-Inclusion-_13239) | ***Baseline not held*** |
 
 ## Southern Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-27 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-28 | Movement |
 |---|---|---|---|
 | COMESA Regional Digital Inclusion Strategy | Did not exist | [In drafting under the World Bank-supported IDEA programme, with consultation on affordable connectivity and devices, skills gaps, accessibility and digital trust; no draft, drafter or adoption date published](https://www.comesa.int/consultations-held-to-shape-regional-artificial-intelligence-digital-inclusion-strategies-in-comesa/) | Advanced |

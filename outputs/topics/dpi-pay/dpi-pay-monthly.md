@@ -1,10 +1,10 @@
 ---
 title: Digital Payments and Fintech — monthly update, July 2026
-compiled: 2026-08-27
-period: 2026-07-01 to 2026-08-27
+compiled: 2026-08-28
+period: 2026-07-01 to 2026-08-28
 subject: dpi.pay
 places: DZA; AGO; BWA; BFA; BDI; CMR; CAF; TCD; COM; COG; CIV; COD; EGY; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 9266142db63f
+record: 9ed9513225af
 ---
 
 # Digital Payments and Fintech: monthly update, July 2026
@@ -36,6 +36,8 @@ The same EAC central bank governors [agreed to accelerate the East African Monet
 ## Cameroon
 
 Payments had the month's densest run. On 9 July the regional central bank [joined the pan-African settlement system, extending it to all six member states and 72m people](https://techafricanews.com/2026/07/09/beac-joins-papss-to-strengthen-cross-border-payments-in-central-africa/), with member-state banks to be integrated by end-2026; no Cameroonian bank is yet named as live on it. On 29 July an [interoperable QR-code standard launched under a regional regulation of 8 April](https://leconomie.info/article/paiement-numerique-le-gimac-officialise-la-norme-qr-code-interoperable-de-la-cemac), letting any bank, microfinance or mobile-money application scan any merchant code across the six states. A day later a [consultation opened on revising the switch's tariff grid](https://leconomie.info/article/paiements-numeriques-gimacpay-enregistre-203-millions-de-transactions-pour-863-milliards-de-fcfa-en-2025), the operator conceding that current pricing penalises low-value transactions and drives artificial splitting of payments; no revised grid or effective date is published.
+
+The continental rail reached the monetary union without reaching its businesses. The central bank joined the pan-African payment and settlement system on 9 July, which [an analysis of the trade minister's 21 August call to business describes as the necessary monetary and regulatory piece and not one that opens the service to customers: commercial banks, fintechs and payment providers must still connect technically and switch on the channels that initiate transactions](https://africtelegraph.com/blog/papss-en-cemac-les-entreprises-camerounaises-encore-en-attente/). The operator's coverage claims - 28 countries, more than 190 banks and fintechs, 16 switches - establish reachability rather than that any institution here can yet send and receive.
 
 ## Central African Republic
 
@@ -261,9 +263,13 @@ Tunisia's payments market is large enough for the question of who bears a loss t
 
 The month's other payments item was an outage notice rather than a policy: the interbank switch [announced a planned technical intervention overnight on 11 August](https://fr.linkedin.com/posts/monetique-tunisie_information-importante-dans-le-cadre-activity-7492663715733983232-dNXD), which is the only public statement the base holds about the availability of the rail those 164.8 million transactions run on.
 
+The founding instrument behind the online honour loans is now held: [Decree 2026-148 of 23 July 2026, published in the official journal, fixes the conditions and criteria on which the micro-financings are granted](https://lake.jort.tn/journal-officiel/fr/2026/075.pdf) - the text the base had been carrying only through a secondary account of its ceilings and grace period.
+
 ## Uganda
 
 Three payment arrangements were opened in the month, all private. A [licensed local-currency-in, stablecoin-out settlement corridor across four East African markets including Uganda](https://techafricanews.com/2026/07/16/scrypt-expands-stablecoin-settlement-network-across-four-east-african-markets/) opened on 16 July with no volume or counterparty figure published. On 21 July [motor third-party insurance went on sale over a mobile-money channel](https://techafricanews.com/2026/07/22/airtel-money-uganda-and-britam-partner-to-expand-digital-insurance-and-financial-services/) with a digital sticker issued online, framed by the insurance regulator as narrowing the protection gap; no premium, policy count or target was published. On 24 July a bank and a payments company [signed a memorandum on school-fees saving with payment-history-based financing, agent-network healthcare payments and digitised insurance](https://www.newvision.co.ug/category/business/centenary-micropay-partner-to-expand-digital-NV_237612_072026). The signature date is unestablished, and nothing is on file about consent, retention or the legal basis for the credit-scoring layer.
+
+A fifth put fares on a network. An operator and an electric bus company [launched a cashless route in Kira Municipality, combining electric mobility, connectivity and digital payments](https://techafricanews.com/2026/08/28/mtn-uganda-and-ebus-xpress-launch-electric-cashless-bus-route-in-kira/), attended by the ministers for science and technology and for Kampala; no fleet size, fare, ridership or payment instrument is published. It is the base's first instance of public-transport fare collection being digitised here.
 
 A fourth opened a settlement route rather than a product: a commercial bank [integrated China's cross-border interbank payment system to offer direct yuan settlement to Ugandan businesses](https://ntv.co.ug/news/uganda-china-tradenew-banking-system-opens-direct-yuan-payments), against imports from China of US$3.3bn in 2025 and exports of US$118m. One bank's service, with no volume, fee or central-bank position stated.
 

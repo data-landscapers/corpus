@@ -1,10 +1,10 @@
 ---
 title: Access to services — monthly update, July 2026
-compiled: 2026-08-27
-period: 2026-07-01 to 2026-08-27
+compiled: 2026-08-28
+period: 2026-07-01 to 2026-08-28
 subject: include.access
 places: DZA; AGO; BFA; BDI; CIV; COD; EGY; SWZ; ETH; GAB; GHA; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: de027fd8f457
+record: f5e000ace1be
 ---
 
 # Access to services: monthly update, July 2026
@@ -146,6 +146,8 @@ The cost of the handset is being financed rather than reduced. An operator and a
 The South African Social Security Agency [set 350,000 grant reviews for 2026/27](https://www.sundaytimes.timeslive.co.za/news/2026-07-21-government-to-review-350000-social-grants-in-bid-to-save-r15bn-and-curb-fraud/) against a projected R1.5bn saving, while beneficiaries flagged from September 2025 [reported continued non-payment](https://www.timeslive.co.za/news/south-africa/2026-07-30-sassa-fraud-crackdown-delays-payments-for-thousands/). An account of the digitalised grants system published on 25 July set out the [bank-account means test applied across eight grants](https://www.dailymaverick.co.za/article/2026-07-25-a-peek-behind-south-africas-digitalised-grants-system/), which remains in operation under appeal, with the Supreme Court of Appeal hearing set for 25 August 2026. Gold Cards were confirmed to [cease functioning after 31 August](https://iol.co.za/thepost/news/2026-07-24-deadline-looms-your-sassa-gold-cards-will-no-longer-work-after-august-31/); the position of beneficiaries who miss the deadline was not stated.
 
 One cooperation arrangement addressed a group the grants system serves and the data rarely describes. South Africa and China [agreed a seven-point plan on disability-inclusive data, universal design and artificial-intelligence-enabled assistive technology](https://www.sanews.gov.za/south-africa/sa-china-deepen-cooperation-disability-inclusion), anchored in a proposed centre of excellence working with the national statistics office. No instrument, funding, timetable or data-sharing arrangement is published for cooperation that names the statistics office as a partner.
+
+The state's own IT agency was told why it cannot deliver. The Public Service Commission's investigation of government IT procurement over 2020 to 2025 found [86% of managing-director roles held on an acting or interim basis, board tenures too short for strategic continuity, and irregular expenditure above R2bn across four audited years read as control failure through absent deterrence](https://www.itweb.co.za/article/sita-prioritises-exec-placements-as-it-looks-to-revival/Kjlyr7wBrQ4vk6am); the agency told Parliament in August it is finalising executive recruitment, naming no appointment or date, while some of the hundred-plus departments it carries look elsewhere.
 
 The grant-review audit reached [105,600 of 352,000 targeted reviews with an estimated R450-million saved](https://www.dailymaverick.co.za/article/2026-08-24-sassa-grant-reviews-strand-vulnerable-south-africans-in-systemic-chaos/), while suspending lawful beneficiaries' payments without effective notice. The saving is the agency's own estimate; the suspensions are reported against it.
 

@@ -1,10 +1,10 @@
 ---
 title: Registries (population, land, address, etc.) — monthly update, July 2026
-compiled: 2026-08-27
-period: 2026-07-01 to 2026-08-27
+compiled: 2026-08-28
+period: 2026-07-01 to 2026-08-28
 subject: dpi.registry
 places: DZA; AGO; BEN; BWA; BFA; CMR; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; SWZ; GMB; GHA; GIN; GNB; KEN; LBR; LBY; MDG; MWI; MLI; MRT; MAR; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: c4bdb5796ac8
+record: edd5450dca54
 ---
 
 # Registries (population, land, address, etc.): monthly update, July 2026
@@ -111,6 +111,8 @@ The register moved without the electorate changing. The electoral support office
 ## Kenya
 
 The registry movement in the window is a proposal rather than a build. The National Qualifications Framework (Amendment) Bill, 2026 [proposes a national database of qualifications established, maintained and published by the qualifications authority, extending to foreign qualifications recognised in Kenya, with awarding institutions required to notify the authority within 90 days of issuing a qualification](https://thekenyatimes.com/education/new-bill-proposes-national-database-to-track-university-and-college-qualifications/). What it would add to the register estate is a verification route for a credential, which the base currently has no instrument for. The Bill itself is now on file, [gazetted on 24 July 2026 as National Assembly Bills No. 53](https://www.parliament.go.ke/sites/default/files/2026-08/THE%20KENYA%20NATIONAL%20QUALIFICATIONS%20FRAMEWORK%28AMENDMENT%29%20BILL%2C2026.pdf). Nothing is settled beyond that: it is a bill, with no enactment date, hosting arrangement or access rule on record.
+
+A second register was announced rather than built. The agriculture cabinet secretary is championing a nationwide rollout of an [animal identification and traceability system giving every head of livestock a unique identity and a lifetime record of origin, ownership, health, vaccination and movement, tagged physically and linked to a central platform readable by veterinarians, abattoirs and traders](https://ynews.digital/development-news/kagwe-digital-ids-livestock-theft/). No operator, legal basis, budget or start date accompanies it.
 
 ## Liberia
 

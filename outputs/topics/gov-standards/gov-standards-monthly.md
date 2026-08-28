@@ -1,15 +1,15 @@
 ---
 title: Standards — monthly update, July 2026
-compiled: 2026-08-27
-period: 2026-07-01 to 2026-08-27
+compiled: 2026-08-28
+period: 2026-07-01 to 2026-08-28
 subject: gov.standards
-places: DZA; AGO; BEN; CPV; CAF; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; GIN; KEN; LBY; MWI; MUS; MOZ; NER; NGA; RWA; SEN; SLE; SOM; ZAF; TGO; UGA
-record: 4915ca13242e
+places: DZA; AGO; BEN; CPV; CAF; CIV; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; GIN; KEN; LBY; MWI; MUS; MOZ; NER; NGA; RWA; SEN; SLE; SOM; ZAF; TZA; TGO; UGA
+record: 8c77f43130a1
 ---
 
 # Standards: monthly update, July 2026
 
-*28 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*29 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -102,6 +102,8 @@ On 27 July the regulator's verification campaign opened against the [mises en de
 
 ## Nigeria
 
+The clearance gate over federal IT spending was quantified for the first time. The technology development agency's director-general told a bar association conference that it [reviewed 1,092 project proposals from 326 ministries, departments and agencies between July 2023 and July 2026, worth more than N4.24 trillion, and cleared 1,056 of them worth N3.84 trillion](https://techafricanews.com/2026/08/27/nitda-urges-public-institutions-prioritise-homegrown-digital-solutions/) — about N400bn and 36 proposals not cleared, on criteria and for reasons that are not published. He urged a Nigeria First approach in procurement so that public spending creates market for indigenous suppliers.
+
 The standards move of the month is aimed at the innovation estate rather than at government systems. A draft [National Innovation Hub Standards Framework went to an Abuja validation exercise, giving hubs a self-assessment tool across seven dimensions and about 35 categories and a defined maturity pathway](https://von.gov.ng/nigeria-unveils-innovation-hub-framework-to-boost-digital-economy/), against a count of more than 339 hubs heavily concentrated in Lagos and Abuja — the stated purpose being to make a hub in a state outside those two legible enough to be funded without its founders relocating. At the same workshop the [EU delegation put Team Europe support for the country's digital sector at more than €820m between 2021 and 2027](https://punchng.com/fg-to-begin-90000km-fibre-rollout-in-october-minister/). It is a draft at validation, so what the framework will require of a hub, and who will assess it, is not yet settled.
 
 ## Rwanda
@@ -125,6 +127,10 @@ The auditor general's office and a partner supreme audit institution [completed 
 ## South Africa
 
 Parliament's communications committee [prefers strengthening the existing regulators through the ICT and media regulators forum to creating the four artificial-intelligence bodies the withdrawn draft policy proposed](https://www.timeslive.co.za/news/sci-tech/2026-07-31-parliament-against-creating-new-ai-watchdogs-for-sa-diko). The forum was launched in 2024 and no instrument establishing its powers is held.
+
+## Tanzania
+
+The window's only standards movement is a visit. The communications regulator [undertook a two-day benchmarking visit to its Kenyan counterpart to exchange experience and practice in regulating satellite communications](https://techafricanews.com/2026/08/27/kenya-tanzania-deepen-satellite-regulatory-cooperation/). Nothing was signed and nothing issued: it is carried because the base holds no other statement of how this regulator approaches satellite licensing, and it will settle or lapse on whether anything follows.
 
 ## Togo
 

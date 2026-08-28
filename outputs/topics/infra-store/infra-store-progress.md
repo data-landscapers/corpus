@@ -1,13 +1,13 @@
 ---
-title: Data Storage — progress report, 2025-08-01 to 2026-08-27
-compiled: 2026-08-27
-period: 2025-08-01 to 2026-08-27
+title: Data Storage — progress report, 2025-08-01 to 2026-08-28
+compiled: 2026-08-28
+period: 2025-08-01 to 2026-08-28
 subject: infra.store
 places: XAF; XWA
-record: cebec3e2fe93
+record: b9f6a44b0090
 ---
 
-# Data Storage: progress report, 2025-08-01 to 2026-08-27
+# Data Storage: progress report, 2025-08-01 to 2026-08-28
 
 *2 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -15,7 +15,7 @@ record: cebec3e2fe93
 
 ## Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-27 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-28 | Movement |
 |---|---|---|---|
 | Sovereign AI cloud on edge data centres | Did not exist | [The operator's AI factory is ranked 36th on the global list of the most powerful supercomputers, presented as evidence that African organisations can train and deploy models on infrastructure sited on the continent rather than abroad; the underlying offer remains AI processing units hosted inside an African edge data-centre network and sold as locally-hosted enterprise AI](https://techafricanews.com/2026/08/26/cassava-ai-factory-ranks-36th-top500/) | Advanced |
 | Continental dependence on foreign public cloud | Not held | [African artificial-intelligence startups are exposed to hidden financial and operational risk where a large share of workloads sits with a single provider, against which a new generation of African-founded sovereign and low-latency cloud providers is emerging](https://nairametrics.com/2026/08/26/cloud-dependence-exposes-african-ai-startups-to-hidden-cost-risks-expert/) | ***Baseline not held*** |
@@ -24,6 +24,6 @@ record: cebec3e2fe93
 
 ## West Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-27 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-28 | Movement |
 |---|---|---|---|
 | Data-centre capacity gap | ***Baseline not held*** | [About 150MW to 200MW of new capacity — 30 or more large-scale facilities — needed to reach the capacity-to-population ratio of a moderately mature market such as Morocco, on a regional depth of 0.04MW per million people; as at early 2025 the region was the only one on the continent with no established or announced public cloud region from any of the world's five largest cloud providers](https://cms.d4dhub.eu/assets/West-Africa-Data-Center-Markets-Brief.pdf) | ***Baseline not held*** |

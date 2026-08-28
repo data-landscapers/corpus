@@ -1,10 +1,10 @@
 ---
 title: Data protection — monthly update, July 2026
-compiled: 2026-08-27
-period: 2026-07-01 to 2026-08-27
+compiled: 2026-08-28
+period: 2026-07-01 to 2026-08-28
 subject: gov.protect
 places: DZA; AGO; BWA; BFA; BDI; CIV; DJI; COD; EGY; SWZ; ETH; GMB; GHA; GIN; KEN; LBR; MWI; MLI; MUS; MAR; MOZ; NAM; NGA; RWA; STP; SEN; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: c08c35e7fe71
+record: 9de0c0d85835
 ---
 
 # Data protection: monthly update, July 2026
@@ -201,3 +201,5 @@ August brought the objections. Healthcare providers and the medical association 
 Two further protection questions surfaced without a regulator attached. The anti-corruption commission is [investigating cyber-enabled fraud across three state digital systems](https://technomag.co.zw/zacc-probes-cyber-fraud-in-vid-licences-netone-airtime-and-zimra-systems/): suspected manipulation of the driver-licensing platform, a US$150m diversion of state mobile-operator airtime with a criminal case pending and asset forfeiture completed, and a scheme crediting more than ZiG55m and US$260,000 of fictitious prepayments on the revenue authority's customs platform. And the National Child Online Protection Policy 2026-2030, [approved by Cabinet in June, has no reporting route, responder training or funded rollout on record](https://www.newsday.co.zw/opinion-analysis/article/200059225/protecting-zimbabwes-children-online-will-take-more-than-a-policy) — which is what a published analysis argues will decide whether it protects anyone.
 
 The government put the national data volume at [179 petabytes against 114 previously](https://technomag.co.zw/from-114pb-to-179pb-as-zimbabwes-data-doubles-govt-tells-tech-firms-corporate-responsibility-is-non-negotiable/) and cited the near-doubling in telling technology firms that corporate responsibility is not negotiable, resting the point on the National Child Online Protection Policy approved by Cabinet in June. Separately, civil-society organisations say [data-protection certification fees are high enough to exclude rural communities and young women](https://www.midweekwatch.com/civil-society-raises-alarm-as-exorbitant-data-protection-certification-fees-threaten-to-exclude-rural-communities-and-young-women/) from compliance; no fee schedule, exemption or regulator response is on file. The base had been carrying that child-protection policy as three separate rows, minted from three separate reports; they are now resolved to one.
+
+The approval date itself is now settled from the primary record: the Office of the President and Cabinet's own briefing dates approval to the [Seventeenth Cabinet Meeting of 2 June 2026, and sets out nine strategic focus areas from institutional capacity and legal framework through technical control and corporate responsibility to monitoring and learning, aligned to the Constitution and the Children's Act, with legislation carrying enforceable sanctions to follow](https://www.zbcnews.co.zw/wp-content/uploads/2026/06/17th-PRESS-FINAL.pdf). The base had been carrying 10 July 2026, which is the policy's Bulawayo launch.

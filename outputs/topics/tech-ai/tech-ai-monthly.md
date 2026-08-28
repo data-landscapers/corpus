@@ -1,10 +1,10 @@
 ---
 title: AI — monthly update, July 2026
-compiled: 2026-08-27
-period: 2026-07-01 to 2026-08-27
+compiled: 2026-08-28
+period: 2026-07-01 to 2026-08-28
 subject: tech.ai
 places: DZA; AGO; BEN; BFA; BDI; CMR; CPV; TCD; COM; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 59284ab9f4f5
+record: 70edf7ade5ab
 ---
 
 # AI: monthly update, July 2026
@@ -121,6 +121,8 @@ An analysis published on 23 July recorded that the National AI Strategy, costed 
 
 The draft then drew its first substantive submission, and a headline figure. A civil-society organisation [urged institutional independence for the proposed AI council and mandatory human-rights impact assessments](https://cipesa.org/2026/08/cipesa-urges-kenya-to-align-and-strengthen-its-draft-ai-policy/) on 14 August, with the draft reported as nearing Cabinet consideration. Alongside it, a commercial data compiler's mid-year update [put 97.5% of Kenya's online adults using an artificial-intelligence tool monthly, first globally, ahead of the United Arab Emirates at 94.2% and Indonesia at 93.6%](https://www.itweb.africa/article/kenya-tops-global-ai-usage-rankings/5yONP7Ero1NMXWrb). It is a self-reported survey of online adults rather than a population measure.
 
+The ministry meanwhile put up an assistant of its own. The ICT cabinet secretary [put up a platform, hosted on his own official website, intended as a single entry point routing citizens to the agency or service responsible for a given digital programme](https://www.kenyans.co.ke/news/126535-cs-kabogo-unveils-ai-platform-transform-ict-ministry-operations); its developers say it will launch once the underlying information, routing and review safeguards are in place, so it is not yet answering questions. A public-information service sited on a minister's website rather than a government domain carries no stated operator or accountability route.
+
 ## Lesotho
 
 The same Econet-UNDP memorandum establishes a National AI Academy, with nothing naming a timetable, governance structure, curriculum or host institution for it. Econet Group separately states an agreement with NVIDIA for African AI compute capacity; nothing on file corroborates it and no capacity figure or siting is given.
@@ -182,6 +184,8 @@ On 28 July the communications minister told the same banking and finance confere
 The national strategy behind all of this is still in drafting, and its consultation now includes the market. On 12 August the ICT institute [consulted the largest mobile operator on the proposed strategy at the operator's Maputo premises](https://techreviewafrica.com/news/6792/mozambique-advances-national-ai-strategy-consultations-with-vodacom). The institute's fuller account puts the drafting under the communications ministry with UNESCO and other partners supporting, and gives the strategy [three areas: digital inclusion and access to automated public services, private-sector innovation and technology jobs, and ethical and governance frameworks for data security](https://techafricanews.com/2026/08/18/mozambique-presents-national-ai-strategy-proposal-to-vodacom/). No consultation record, respondent list or revised draft is published, and the strategy has not reached the Council of Ministers.
 
 A body to watch it is named but not made. At a cultural-economy dialogue in Maputo on 14 August the institute's board president [named a National Artificial Intelligence Observatory as expected to support transparency, build trust and measure the impact of AI deployment](https://techafricanews.com/2026/08/18/mozambique-explores-ais-role-in-driving-cultural-and-creative-economy/). It exists as a remark: no establishing instrument, host, membership, funding or method is on the record.
+
+A body was inaugurated where the observatory is still a remark. An [Association of Artificial Intelligence was launched in Maputo on 27 August under a named president, which the national ICT institute describes as a step towards a unified technical platform joining government, academia, the private sector, the technological community and civil society](https://itweb.africa/article/mozambique-steps-up-ai-drive/nWJadvbND3dvbjO1). No constitution, membership, funding or relationship to the strategy or the artificial-intelligence commission is published; what is established is an inauguration and a stated purpose.
 
 ## Namibia
 

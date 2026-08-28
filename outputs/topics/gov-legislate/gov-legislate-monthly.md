@@ -1,10 +1,10 @@
 ---
 title: Legislation and regulation — monthly update, July 2026
-compiled: 2026-08-27
-period: 2026-07-01 to 2026-08-27
+compiled: 2026-08-28
+period: 2026-07-01 to 2026-08-28
 subject: gov.legislate
 places: DZA; AGO; BWA; BFA; BDI; CMR; CPV; CAF; COG; CIV; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 1e621c08af23
+record: ef2233f647d0
 ---
 
 # Legislation and regulation: monthly update, July 2026
@@ -218,6 +218,8 @@ On 28 July the communications minister listed cloud-computing and radio-centre r
 In August the institute set out what is still missing and what is coming. Its board chairman [said the country has no dedicated artificial-intelligence legislation, and that an Online Copyright Protection Act is in drafting for next year](https://360mozambique.com/innovation/tech/intic-drafts-copyright-and-ai-legislation-to-protect-digital-creators/), naming authorship of artificial-intelligence output and liability for artificial-intelligence training as open questions no law here answers. The absence of an artificial-intelligence statute is now recorded as a gap; the copyright bill has no draft text, scope or introduction date behind it.
 
 A new Telecommunications and Scarce Resources Licensing Regulation, adopted by decree, [lets the regulator convert operators' fines into universal-service obligations](https://www.agenceecofin.com/actualites-numerique/2608-141049-mozambique-les-amendes-telecoms-financent-desormais-l-inclusion-numerique) â€” turning a penalty into a coverage commitment. No decree number, entry-into-force date or first conversion is on file.
+
+The regulator's own account of the new licensing regulation is now held, settling the instrument the earlier report named without citing: [Decree 36/2026 on the licensing of telecommunications and scarce resources](https://www.incm.gov.mz/2026/08/21/licenciamento_telecomunicacoes_recursos_escassos/).
 
 ## Namibia
 

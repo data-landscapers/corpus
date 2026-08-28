@@ -1,15 +1,17 @@
 ---
 title: MoUs and other agreements — monthly update, July 2026
-compiled: 2026-08-27
-period: 2026-07-01 to 2026-08-27
+compiled: 2026-08-28
+period: 2026-07-01 to 2026-08-28
 subject: finance.mou
 places: DZA; CIV; COD; EGY; GAB; GHA; KEN; LSO; RWA; SYC; TZA; TGO; UGA; ZWE
-record: 55ba4babe4cb
+record: adc9fbe53b1b
 ---
 
 # MoUs and other agreements: monthly update, July 2026
 
 *14 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Algeria
 

@@ -1,10 +1,10 @@
 ---
 title: New investments — monthly update, July 2026
-compiled: 2026-08-27
-period: 2026-07-01 to 2026-08-27
+compiled: 2026-08-28
+period: 2026-07-01 to 2026-08-28
 subject: finance.new
 places: AGO; BEN; BFA; TCD; COG; CIV; COD; EGY; SWZ; ETH; GHA; GIN; KEN; LBR; MWI; MLI; MUS; MAR; MOZ; NGA; RWA; STP; SEN; SLE; ZAF; TZA; TGO; UGA; ZMB; ZWE
-record: 32cc09d392e9
+record: ea6d18d6c8a4
 ---
 
 # New investments: monthly update, July 2026
@@ -28,6 +28,8 @@ A digital acceleration project stated on 13 July that it will support connectivi
 ## Chad
 
 The digital transformation project [shows US$12,220,932 disbursed and three thousand electronic payment terminals handed to the finance ministry](https://www.lepaystchad.com/tchad-3-000-terminaux-de-paiement-electronique-remis-au-ministere-des-finances-pour-moderniser-la-collecte-des-recettes-publiques/), with about 500 unserved localities named as the outstanding challenge. Its envelope is [carried as FCFA 76.45bn in one source and US$92.2m in another](https://projects.worldbank.org/en/projects-operations/project-detail/P180000) — the first close to total project cost, the second to the grant alone — and no source reconciles them. A [further programme of about FCFA 8bn sits at pipeline stage](https://d-portal.iatistandard.org/ctrack.html#view=act&aid=46002-P-TD-K00-019), 90 per cent externally committed with a closing date of 31 January 2029, covering electronic tax, standardised electronic invoicing, customs upgrades, tax teleservice centres and one-stop-shop interconnection. It is an aid-transparency record, not a signed instrument.
+
+The fund's own appraisal report now settles the amount the base could not reconcile: the [grant is UA 9.52m against a phase-one total cost of UA 10.535m](https://www.afdb.org/sites/default/files/documents/projects-and-operations/chad_-_support_program_to_improve_the_business_climate_and_the_modernization_of_public_administration_paacama_phase_i.pdf), so the FCFA figure the base had been carrying was a reporting outlet's conversion, and the gap between the two is the rest of the financing plan rather than a discrepancy.
 
 ## Congo
 
@@ -70,7 +72,7 @@ Two financings were signed. A [EUR270m facility across 21 obligors in eight juri
 On 4 August the development lender committed [US$24.2m across three Kenyan lenders under the first catalytic first-loss guarantee transactions anywhere in Africa](https://www.ifc.org/en/pressroom/2026/ifc-supports-expansion-of-financing-for-kenya-s-small-businesses-through-the-first), backed by US$11m of concessional private-sector-window money and expected to catalyse about US$144.4m of local-currency lending to micro-enterprises. Only one of the three counterparties is a digital lender; the individual allocations are not disclosed, so what the structure buys in fintech terms cannot be read off the announcement.
 
 
-On the lending side, a guarantee structure was announced on 5 August: [a catalytic first-loss guarantee of US$24.2m across three Kenyan transactions, backed by US$11m of concessional financing, expected to catalyse about US$144.4m of local-currency lending to small and medium enterprises](https://www.4g-capital.com/post/4g-capital-partners-with-ifc-to-expand-financing-for-kenya-s-micro-and-small-businesses). The catalysed figure is an expectation rather than a disbursement.
+On the lending side, a guarantee structure was announced on 5 August: [a catalytic first-loss guarantee of US$24.2m across three Kenyan transactions, backed by US$11m of concessional financing, expected to catalyse about US$144.4m of local-currency lending to small and medium enterprises](https://www.4g-capital.com/post/4g-capital-partners-with-ifc-to-expand-financing-for-kenya-s-micro-and-small-businesses). The catalysed figure is an expectation rather than a disbursement. One of the three counterparties [reports having disbursed more than US$1bn cumulatively over thirteen years to micro and small businesses without collateral or financial records, underwriting on its own model rather than credit files](https://techcabal.com/2026/08/28/4g-capital/) — a lifetime total given in a profile, with no outstanding book, default rate or borrower count beside it.
 
 ## Liberia
 

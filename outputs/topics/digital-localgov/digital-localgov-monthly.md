@@ -1,10 +1,10 @@
 ---
 title: Digitalisation of sub-national government — monthly update, July 2026
-compiled: 2026-08-27
-period: 2026-07-01 to 2026-08-27
+compiled: 2026-08-28
+period: 2026-07-01 to 2026-08-28
 subject: digital.localgov
 places: AGO; BFA; CMR; COD; EGY; SWZ; ETH; GAB; GHA; GIN; MWI; MLI; NAM; NGA; SOM; ZAF; TZA; TGO; ZMB; ZWE
-record: 38c674e98975
+record: 8f9f1b407b05
 ---
 
 # Digitalisation of sub-national government: monthly update, July 2026

@@ -1,10 +1,10 @@
 ---
 title: Training and skills — monthly update, July 2026
-compiled: 2026-08-27
-period: 2026-07-01 to 2026-08-27
+compiled: 2026-08-28
+period: 2026-07-01 to 2026-08-28
 subject: capacity.training
 places: AGO; BEN; BWA; BFA; BDI; CMR; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; TZA; TUN; UGA; ZMB; ZWE
-record: 6d62892736ed
+record: b8d3c9e2f12d
 ---
 
 # Training and skills: monthly update, July 2026
@@ -194,7 +194,7 @@ The pipeline that authority sits in was reviewed on 14 August. A development ban
 
 One intervention was announced against that pipeline, at the far end of the country and five months out. A networking vendor's academy and a private group agreed with the Northern Cape education department to take [networking, cyber security and artificial-intelligence courses into 235 schools as extracurricular classes for grades 10 to 12 from February 2027](https://www.itweb.co.za/article/cisco-hanley-group-bring-digital-skills-training-to-northern-cape-schools/raYAyqorGPEMJ38N), inside a global programme the vendor says has already trained more than 600,000 South Africans. No learner target, cost, funding split, teacher-training provision or certification pathway accompanies it, and the training figure is the vendor's own.
 
-At the other end of the pipeline, industry began paying for places itself. Two domestic firms [joined a data-centre operations academy as industry partners and are sponsoring a full candidate cohort for its 2026 intake, the first South African firms to fund a whole cohort, one opening a newly launched Midrand OEM training facility and the other a live operational data centre to supply the practical component of a graduate-to-employment pipeline](https://datacentresafrica.com/master-power-technologies-and-digital-parks-africa-join-ibtc-dc-academy-as-key-ecosystem-partners/), the sponsoring founder framing it as a recruitment expense rather than a training one — which is the clearest statement yet of why the estate's operators are not waiting for the state pipeline above. No cohort size, placement rate or cost per place is published.
+The industry association put up a route of its own, [launching a portal to link employers, ICT jobseekers and graduates and professional development in one platform rather than as a conventional job board, against what it calls the disconnect between people holding ICT skills and the businesses that need them](https://www.itweb.co.za/article/saicta-targets-ict-jobs-gap-with-new-portal/KjlyrvwBrx5qk6am); no listing, placement or funding figure accompanies it. At the other end of the pipeline, industry began paying for places itself. Two domestic firms [joined a data-centre operations academy as industry partners and are sponsoring a full candidate cohort for its 2026 intake, the first South African firms to fund a whole cohort, one opening a newly launched Midrand OEM training facility and the other a live operational data centre to supply the practical component of a graduate-to-employment pipeline](https://datacentresafrica.com/master-power-technologies-and-digital-parks-africa-join-ibtc-dc-academy-as-key-ecosystem-partners/), the sponsoring founder framing it as a recruitment expense rather than a training one — which is the clearest statement yet of why the estate's operators are not waiting for the state pipeline above. No cohort size, placement rate or cost per place is published.
 
 ## South Sudan
 
@@ -208,7 +208,7 @@ Training opened in Dar es Salaam on 27 July for [110 participants from public, p
 
 ## Tunisia
 
-The family and women's ministry, a national entrepreneurs' organisation and a UN regional commission [opened a training programme for 100 women entrepreneurs in e-commerce and artificial-intelligence applications, alongside a national platform for marketing women's products](https://www.assabahnews.tn/ar/%D9%85%D9%82%D8%A7%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%B5%D8%A8%D8%A7%D8%AD/152460). Both sit under a declaration on women, youth, digitalisation and African economic integration whose action plan targets training 100,000 women and young people in e-commerce, AI and cross-border digital payments by 2028, and a US$50m fund for inclusive markets by the same date. The training launch's own date is not established in the source.
+The family and women's ministry, a national entrepreneurs' organisation and a UN regional commission [opened a training programme for 100 women entrepreneurs in e-commerce and artificial-intelligence applications, alongside a national platform for marketing women's products](https://www.assabahnews.tn/ar/%D9%85%D9%82%D8%A7%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%B5%D8%A8%D8%A7%D8%AD/152460). Both sit under a [declaration on women, youth, digitalisation and African economic integration whose action plan targets training 100,000 women and young people in e-commerce, AI and cross-border digital payments by 2028, and a US$50m fund for inclusive markets by the same date](https://www.assabahnews.tn/ar/%D9%85%D9%82%D8%A7%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D8%B5%D8%A8%D8%A7%D8%AD/152460). The training launch's own date is not established in the source.
 
 ## Uganda
 
