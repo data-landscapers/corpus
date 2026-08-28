@@ -62,6 +62,6 @@ Whenever Cowork makes changes, I ask CC to review them from an operational point
 
 ## Talking to me
 
-**Do not use the word "honest" or "honestly"** *(Bill, 2026-08-13)*.
+**Do not use the word "honest" or "honestly".** This covers prose written for Bill and prose written into any project's own files and published output — not verbatim quotation of someone else's words, where changing it would misquote.
 
 **Say what is unverified.** Where something has been checked, say how; where it has not — a layout nothing rendered, a number nothing recomputed — say that plainly rather than letting the confident parts of an answer carry the unchecked parts along with them.
