@@ -178,6 +178,27 @@ FIGURE = re.compile(r"(?:US\$|R|EUR|£|\$)\s?\d[\d,.]*\s?(?:m|bn|billion|million
 YEAR = re.compile(r"^(?:19|20)\d\d$")
 
 
+def sentences(block):
+    """`block` split into sentences, **never through the inside of a link label**.
+
+    The split is on `.` and `;` followed by space, and a citation's label is prose. `[377,060
+    identity numbers remained blocked ... unconstitutional; Home Affairs blames ...](url)` is one
+    linked claim carrying a semicolon, and cutting it there left the figures in a fragment with no
+    `](http` in it and the citation in the next one — check H then reported an uncited figure that
+    sat inside its own citation, which is the false-positive rate `unprovenanced()`'s own docstring
+    names as how a check stops being read. Fragments are rejoined until every `[` opened has closed.
+    """
+    out, buf = [], ""
+    for part in re.split(r"(?<=[.;])\s+", (block or "").strip()):
+        buf = f"{buf} {part}" if buf else part
+        if buf.count("[") <= buf.count("]"):
+            out.append(buf)
+            buf = ""
+    if buf:
+        out.append(buf)
+    return out
+
+
 def unprovenanced(block):
     """Check H — **a figure in narrative prose must have a source; it need not be in the ledger**
     *(Bill, 2026-08-14)*.
@@ -215,7 +236,7 @@ def unprovenanced(block):
     what the base does not hold, and the one connecting sentence the register allows, pass
     untouched."""
     out = []
-    for s in re.split(r"(?<=[.;])\s+", block.strip()):
+    for s in sentences(block):
         if CITED.search(s):
             continue
         out += [f for f in dict.fromkeys(FIGURE.findall(s)) if not YEAR.match(f.strip())]
@@ -260,7 +281,7 @@ CITED_ANY = re.compile(r"\]\([^)]+\)")
 def unprovenanced_slug(block):
     """`unprovenanced()`'s rule — a figure needs a source in its own sentence — for slug prose."""
     out = []
-    for s in re.split(r"(?<=[.;])\s+", (block or "").strip()):
+    for s in sentences(block):
         if CITED_ANY.search(s):
             continue
         out += [f for f in dict.fromkeys(FIGURE.findall(s)) if not YEAR.match(f.strip())]
