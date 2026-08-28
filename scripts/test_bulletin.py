@@ -527,7 +527,7 @@ def case_the_manifest_answers_on_its_own(tmp):
 def case_a_manifest_stamp_is_read_as_local(tmp):
     """The manifest's collection stamps are copied out of OSINT's local logs.
 
-    They are labelled UTC and are not (`notes-for-osint` 54, measured 2026-08-28). Reading
+    They are labelled UTC and are not (`notes-for-osint` 55, measured 2026-08-28). Reading
     one as UTC would move the byline an hour later than the moment collection stopped, so
     the value is read exactly as written - and this case is what fails if that is changed
     without the field being settled first."""

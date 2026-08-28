@@ -124,7 +124,7 @@ def _stamp(text) -> dt.datetime | None:
     r"""A manifest collection or rotation stamp, read as naive local time.
 
     **The manifest says every stamp is UTC, and its collection and rotation stamps are not**
-    *(measured 2026-08-28; `notes-for-osint` 54)*. They are copied verbatim out of OSINT's
+    *(measured 2026-08-28; `notes-for-osint` 55)*. They are copied verbatim out of OSINT's
     own logs, which are local: the manifest of 2026-08-28 08:36 reports
     `rotation.newest_close` as `19:07`/`21:31` and `logs/sweep-cycle_log.md` carries that row
     as `19:07`/`21:31`, and it reports `collection.last_admission` as `20:36` against the same
