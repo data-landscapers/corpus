@@ -65,7 +65,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from copy_lib import copy_inline  # noqa: E402
-from chrome_lib import chrome, foot, styles  # noqa: E402
+from chrome_lib import chrome, foot, ga, styles  # noqa: E402
 import editions  # noqa: E402  — §9's filename grammar has one implementation
 
 CORPUS = Path(__file__).resolve().parent.parent
@@ -447,6 +447,7 @@ COUNTRY = """<!DOCTYPE html>
 <meta property="og:url" content="{base}/countries/{iso}/">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Data Landscapers">
+{ga}
 </head>
 <body>
 <div class="site-wrap">
@@ -526,6 +527,7 @@ FINANCE = """<!DOCTYPE html>
 <link rel="canonical" href="{base}/countries/{iso}/finance.html">
 {styles}
 <link rel="icon" href="{favicon}" type="image/svg+xml">
+{ga}
 </head>
 <body>
 <div class="site-wrap">
@@ -646,7 +648,7 @@ def build(iso: str) -> list[Path]:
         budget_intro=copy_inline("country", "budget-intro"),
         reports=report_rows(report_editions(iso), iso),
         finance_section=finance_section,
-        styles=styles(2, "home.css", "country.css"),
+        styles=styles(2, "home.css", "country.css"), ga=ga(),
         **common), encoding="utf-8")
 
     written = [out_dir / "index.html", out_dir / cat_csv]
@@ -656,7 +658,7 @@ def build(iso: str) -> list[Path]:
             fin_total=f"{sum(amounts):,.0f}",
             y0=(min(ys) if ys else "&mdash;"), y1=(max(ys) if ys else "&mdash;"),
             styles=styles(2, "home.css", "country.css", "datatable.css"),
-            **csv_names, **common), encoding="utf-8")
+            ga=ga(), **csv_names, **common), encoding="utf-8")
         written.append(out_dir / "finance.html")
         written.append(out_dir / csv_names["csv_name"])
 

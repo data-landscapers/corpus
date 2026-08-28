@@ -31,7 +31,7 @@ from pathlib import Path
 import markdown
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from chrome_lib import chrome, foot, styles  # noqa: E402
+from chrome_lib import chrome, foot, ga, styles  # noqa: E402
 from copy_lib import copy  # noqa: E402
 
 # The edition grammar and the same-day suffix live in `editions.py`, because `country.py`,
@@ -433,6 +433,7 @@ TEMPLATE = """<!DOCTYPE html>
 <meta property="og:type" content="article">
 <meta property="og:site_name" content="Data Landscapers">
 <meta name="dl-record" content="{record}">
+{ga}
 </head>
 <body>
 <div class="site-wrap">
@@ -770,7 +771,7 @@ def build_document(md_path: Path, edition: str | None, absolute: bool,
         h1=h1 or title,
         subtitle=subtitle,
         body=html_body,
-        styles=sheets, chrome=page_chrome, foot=foot(), logo=logo,
+        styles=sheets, chrome=page_chrome, foot=foot(), logo=logo, ga=ga(),
         favicon=f"{MAIN_SITE}/assets/favicon.svg",
         edition=edition,
         permalink_html=url_html,

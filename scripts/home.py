@@ -50,7 +50,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import taxonomy_lib  # noqa: E402
 from copy_lib import copy_inline  # noqa: E402
-from chrome_lib import chrome, foot, styles  # noqa: E402
+from chrome_lib import chrome, foot, ga, styles  # noqa: E402
 
 CORPUS = Path(__file__).resolve().parent.parent
 OUTPUTS = CORPUS / "outputs"
@@ -309,6 +309,7 @@ TEMPLATE = """<!DOCTYPE html>
 <meta property="og:url" content="{base}/">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Data Landscapers">
+{ga}
 </head>
 <body>
 <div class="site-wrap">
@@ -402,6 +403,7 @@ COUNTRIES_TEMPLATE = """<!DOCTYPE html>
 <meta property="og:url" content="{base}/countries/">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Data Landscapers">
+{ga}
 </head>
 <body>
 <div class="site-wrap">
@@ -467,7 +469,7 @@ def build_countries() -> Path:
         base=SITE_BASE, built=built,
         favicon=f"{MAIN_SITE}/assets/favicon.svg",
         chrome=chrome("countries", depth=1), foot=foot(depth=1),
-        styles=styles(1, "home.css"),
+        styles=styles(1, "home.css"), ga=ga(),
         docs=f"{s['documents']:,}",
         ncountries=sum(1 for k, v in by_place.items() if not k.startswith("X") and v),
         countries=country_boxes(by_place),
@@ -506,6 +508,7 @@ TOPICS_TEMPLATE = """<!DOCTYPE html>
 <meta property="og:url" content="{base}/topics/">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Data Landscapers">
+{ga}
 </head>
 <body>
 <div class="site-wrap">
@@ -567,7 +570,7 @@ def build_topics() -> Path:
         base=SITE_BASE, built=built,
         favicon=f"{MAIN_SITE}/assets/favicon.svg",
         chrome=chrome("topics", depth=1), foot=foot(depth=1),
-        styles=styles(1, "home.css"),
+        styles=styles(1, "home.css"), ga=ga(),
         docs=f"{s['documents']:,}", ntopics=ntopics,
         topics=topic_grid(s["by_topic"]),
         topics_intro=copy_inline("home", "topics-intro"),
@@ -594,7 +597,7 @@ def build() -> Path:
         docs_month=f"{s['by_month'].get(this_month, 0):,}",
         bulletin=bulletin_section(),
         chrome=chrome(None, depth=0),
-        styles=styles(0, "home.css"),
+        styles=styles(0, "home.css"), ga=ga(),
         hero=copy_inline("home", "hero"),
         countries_intro=copy_inline("home", "countries-intro"),
         regions=region_boxes(by_place), regions_intro=copy_inline("home", "regions-intro"),

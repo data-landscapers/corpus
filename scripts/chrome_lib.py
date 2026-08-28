@@ -70,6 +70,29 @@ _MAIN_NAV = [
 ]
 
 
+# The Google Analytics 4 measurement ID — the same property as the main site
+# (`_config.yml` → `google_analytics`), so both sites report into one stream
+# and the hostname dimension separates them. Change it there and here together.
+GA_ID = "G-BF3X4N6YML"
+
+
+def ga(ga_id: str = GA_ID) -> str:
+    """The GA4 tag, ready to drop into a page's <head>.
+
+    The same snippet the main site carries in `_includes/google-analytics.html`,
+    minus the Jekyll templating. It lives here for the reason everything in this
+    file does: eight head templates would otherwise each carry a copy, and the
+    ninth would be written without one. Templates take it as a `{ga}` field —
+    never paste it inline, because the JS braces collide with `str.format`."""
+    return f"""<script async src="https://www.googletagmanager.com/gtag/js?id={ga_id}"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){{dataLayer.push(arguments);}}
+  gtag('js', new Date());
+  gtag('config', '{ga_id}');
+</script>"""
+
+
 def assets(depth: int) -> str:
     return "../" * depth + "assets"
 

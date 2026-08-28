@@ -37,7 +37,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import editions  # noqa: E402  - one implementation of the edition grammar (§9)
 from copy_lib import copy  # noqa: E402
-from chrome_lib import chrome, foot, styles  # noqa: E402
+from chrome_lib import chrome, foot, ga, styles  # noqa: E402
 
 CORPUS = Path(__file__).resolve().parent.parent
 OUTPUTS = CORPUS / "outputs"
@@ -131,6 +131,7 @@ PAGE = """<!DOCTYPE html>
 <link rel="canonical" href="{base}/finance/">
 {styles}
 <link rel="icon" href="{main}/assets/favicon.svg" type="image/svg+xml">
+{ga}
 </head>
 <body>
 <div class="site-wrap">
@@ -223,7 +224,7 @@ def render(agg: dict, names: dict, csv_name: str) -> str:
     yr = f"{agg['year_min']}–{agg['year_max']}" if agg["year_min"] else "n/a"
     return PAGE.format(
         base=SITE_BASE, main=MAIN_SITE, chrome=CHROME, foot=FOOT,
-        styles=styles(1, "home.css", "country.css", "datatable.css"),
+        styles=styles(1, "home.css", "country.css", "datatable.css"), ga=ga(),
         csv_name=csv_name, labels=labels, metadata=METADATA_CSV,
         page_intro=indent(copy("finance", "page-intro")),
         non_state_intro=indent(copy("finance", "non-state-intro")),

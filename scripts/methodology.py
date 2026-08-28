@@ -33,7 +33,7 @@ from datetime import date
 from pathlib import Path
 
 import markdown
-from chrome_lib import chrome, foot, styles  # noqa: E402
+from chrome_lib import chrome, foot, ga, styles  # noqa: E402
 
 CORPUS = Path(__file__).resolve().parent.parent
 CONTENT = CORPUS / "content" / "methodology.md"
@@ -53,6 +53,7 @@ PAGE = """<!DOCTYPE html>
 <link rel="canonical" href="{canonical}">
 {styles}
 <link rel="icon" href="{main}/assets/favicon.svg" type="image/svg+xml">
+{ga}
 </head>
 <body>
 <div class="site-wrap">
@@ -118,7 +119,7 @@ def build(md_path: Path, out_dir: Path, *, title: str, description: str,
         title=title, description=description, canonical=canonical,
         base=SITE_BASE, main=MAIN_SITE,
         chrome=chrome('methodology', depth=depth), foot=foot(depth=depth),
-        styles=styles(depth, "home.css", "country.css"),
+        styles=styles(depth, "home.css", "country.css"), ga=ga(),
         body=indent(prefix + convert(md_path)),
         source=md_path.relative_to(CORPUS).as_posix(),
         built=date.today().isoformat(),
