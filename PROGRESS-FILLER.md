@@ -26,7 +26,7 @@ A **set difference**: every `indicator_id` in `lookups/indicators.csv` (the fram
 
 ## 2. The two briefs per gap indicator
 
-Each gap gets **two Exa Agent briefs** (`agent_run`, `effort: "medium"`), composed per `SWEEP-COUNTRY-DEEP.md` §3: a natural-language objective, the date range stated explicitly, per-item reporting of URL / title / publisher / date / one line on why it matters, and the standing preference for primary and official sources.
+Each gap gets **two Exa Agent briefs** (`agent_run`, `effort: "medium"`): a natural-language objective, the date range stated explicitly, per-item reporting of URL / title / publisher / date / one line on why it matters, and the standing preference for primary and official sources.
 
 **The objective names the chapter, the topic and the indicator together, as `{topic_l1} — {topic}: {indicator}`, all in the objective sentence** — not a trailing context line. A large part of the frame is one or two bare words (`dpi.mis--land` is "Land") that mean nothing without the Topic, and the Topic alone can still lack the anchoring chapter (*MoUs and other agreements* does not say **finance**).
 
@@ -39,7 +39,7 @@ Each gap gets **two Exa Agent briefs** (`agent_run`, `effort: "medium"`), compos
 
 ## 3. Fetch and capture — OSINT's machinery, unchanged
 
-**The Agent returns leads, never bodies; nothing the Agent writes is ever staged.** Every candidate goes through fetch → verify → classify → stage exactly as `SWEEP-DAILY-OFFLIST.md` runs it, under the capture rule in `C:\OSINT\wiki\capture-rule.md`: full verbatim body, never an excerpt or a synthesis, `body_completeness` marked honestly, truncated captures flagged not retried. **Never trust the Agent's dates** — establish `published` from the fetched page.
+**The Agent returns leads, never bodies; nothing the Agent writes is ever staged.** Every candidate goes through fetch → verify → classify → stage under the sweep-intake rules of `wiki/intake.md` §7 and the capture rule in `wiki/capture-rule.md`: full verbatim body, never an excerpt or a synthesis, `body_completeness` marked honestly, truncated captures flagged not retried. **Never trust the Agent's dates** — establish `published` from the fetched page.
 
 ## 4. Screening and dedup — best-effort against a mirror
 
@@ -72,7 +72,7 @@ Each gap gets **two Exa Agent briefs** (`agent_run`, `effort: "medium"`), compos
 
 ## 5. Staging shape
 
-**Two folders per country: `new-queue\{ISO}\baseline\YYYY-MM-DD-slug.md` and `new-queue\{ISO}\progress\YYYY-MM-DD-slug.md`**, flat within each. Best-effort frontmatter per the daily sweep's schema (`SWEEP-DAILY-LIST.md`), with `place:` = the ISO-3, the indicator's Topic L2 slug first in `topics:`, and `sweep_batch: progress-filler-{ISO}-YYYY-MM-DD` — the batch label is what tells OSINT's ingest where these came from.
+**Two folders per country: `new-queue\{ISO}\baseline\YYYY-MM-DD-slug.md` and `new-queue\{ISO}\progress\YYYY-MM-DD-slug.md`**, flat within each. Best-effort frontmatter per the source schema (`wiki/schemas.md` §4), with `place:` = the ISO-3, the indicator's Topic L2 slug first in `topics:`, and `sweep_batch: progress-filler-{ISO}-YYYY-MM-DD` — the batch label is what tells OSINT's ingest where these came from.
 
 **The split is by brief, and one document goes in one folder.** A document selected as anyone's baseline is staged under `baseline\`, even where other indicators took it as progress — **baseline wins**, because the baseline layer is what a thin week should carry first, and the selected register still records the document under every indicator that chose it. The dedup at §4 and the merge at §6 work **across the pair**; and the batch is splittable by construction — §7's scheduling is a folder move.
 
