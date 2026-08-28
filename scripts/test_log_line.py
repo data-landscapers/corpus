@@ -67,6 +67,13 @@ def run(tmp: Path, argv: list[str]) -> tuple[int, str, list[str]]:
     return rc, out.getvalue(), body[at + 1:]
 
 
+def entry(lines: list[str], stamp: str) -> str:
+    """The line carrying `stamp`. Back-dated entries no longer land at the top: the
+    insert keeps the file newest-first, so a case using `--at` has to name what it
+    wrote rather than assume position 0."""
+    return next(l for l in lines if l.startswith(stamp))
+
+
 def stamped(minutes_ago: int) -> str:
     return (dt.datetime.now() - dt.timedelta(minutes=minutes_ago)).strftime(ll.STAMP_FMT)
 
@@ -117,7 +124,8 @@ with tempfile.TemporaryDirectory() as td:
     check("--took is used verbatim", lines[0].split(" · ")[2], "4h15m")
     _, _, lines = run(tmp, ["build", "x — ok", "--since", "2026-08-17 06:00",
                             "--at", "2026-08-17 09:30"])
-    check("--since is measured against --at", lines[0].split(" · ")[2], "3h30m")
+    check("--since is measured against --at",
+          entry(lines, "2026-08-17 09:30").split(" · ")[2], "3h30m")
     rc, out, _ = run(tmp, ["build", "x — ok", "--took", "ages"])
     check("an unparseable --took refuses the write", rc, 1)
     rc, out, _ = run(tmp, ["build", "x — ok", "--took", "1h", "--since", "2026-08-17 06:00"])
@@ -132,7 +140,8 @@ with tempfile.TemporaryDirectory() as td:
     print("a clock that runs backwards is reported as unclocked, not as a negative")
     _, out, lines = run(tmp, ["build", "x — ok", "--since", "2026-08-17 12:00",
                               "--at", "2026-08-17 09:00"])
-    check("field reads unclocked", lines[0].split(" · ")[2], ll.UNCLOCKED)
+    check("field reads unclocked",
+          entry(lines, "2026-08-17 09:00").split(" · ")[2], ll.UNCLOCKED)
     check("and the run is told why", "is after this line's own time" in out, True)
 
     print("an unreadable stamp is cleared rather than left to poison every later run")
@@ -148,6 +157,33 @@ with tempfile.TemporaryDirectory() as td:
     m = RUN_RE.match(lines[0])
     check("the freshness regex still matches", bool(m), True)
     check("and still reads the pass name", m.group(2) if m else None, "render")
+
+    print("a timestamp ahead of the clock is refused, not written")
+    rc, out, lines = run(tmp, ["build", "x - ok", "--at", stamped(-180)])
+    check("a forward --at exits 1", rc, 1)
+    check("and says why", "ahead of the clock" in out, True)
+    check("nothing was written", any(l.startswith("2026-08-27") for l in lines), False)
+    rc, out, _ = run(tmp, ["--start", "build", "--at", stamped(-180)])
+    check("a forward --start --at exits 1", rc, 1)
+    check("the stamp was not taken", Path(ll.stamp_path("build")).exists(), False)
+    rc, _, lines = run(tmp, ["build", "logged inside its own minute - ok",
+                             "--at", stamped(0)])
+    check("the current minute is not the future", rc, 0)
+
+    print("insert_at keeps the file newest-first when a line arrives late")
+    with tempfile.TemporaryDirectory() as td2:
+        t2 = Path(td2)
+        rc, _, lines = run(t2, ["build", "newer - ok", "--at", "2026-08-17 09:00"])
+        rc, out, lines = run(t2, ["render", "older - ok", "--at", "2026-08-17 08:00"])
+        check("the late line exits 0", rc, 0)
+        check("the newer line is still on top", lines[0].split(" · ")[3], "newer - ok")
+        check("the late line went below it", lines[1].split(" · ")[3], "older - ok")
+        check("and the run is told", "goes below them" in out, True)
+        rc, _, lines = run(t2, ["build", "oldest of all - ok", "--at", "2026-08-15 08:00"])
+        check("older than every entry goes to the bottom",
+              [l for l in lines if l.strip()][-1].split(" · ")[3], "oldest of all - ok")
+        stamps = [l.split(" · ")[0] for l in lines if " · " in l]
+        check("the file reads newest-first throughout", stamps, sorted(stamps, reverse=True))
 
     print("--start refuses a message; the closing call requires one")
     rc, out, _ = run(tmp, ["--start", "build", "message here"])

@@ -37,6 +37,16 @@ that job clears it rather than inheriting it.
 finds the newest `· render ·` line by matching the timestamp and pass name, and stops
 there; the duration sits after it, which is why it goes third rather than second.
 
+**A timestamp in the future is refused, and the insert finds its place by date.**
+`--at` used to be taken on trust, which is how 39 entries came to carry stamps up to 22
+hours ahead of the run that wrote them (strategic review task 7; corrected 2026-08-28
+from the commit that introduced each). A run cannot have reached a time it has not
+reached, so a forward `--at` is an error rather than a preference. And because the line
+goes in newest-first, an `--at` earlier than the entry at the top would leave the file
+half-sorted if it went in at the top regardless — so the insert scans for the first
+entry older than this one and goes above that. A line that does not land at the top says
+so, because that is usually a sign the timestamp is wrong.
+
 **The message is capped at 40 words and an over-cap line is refused** (strategic review
 task 4; the same cap OSINT's `log-append.py` enforces). The log is a skim of what
 happened — detail belongs in git, and anything owed a decision in
@@ -73,6 +83,10 @@ ENTRY_WORD_CAP = 40
 # Must stay in step with RUN_RE in scripts/lint-mirror-freshness.py, which finds the
 # newest `· render ·` line by matching exactly this shape.
 PASS_RE = re.compile(r"^\w[\w-]*$")
+
+# The shape this writes, read back: `insert_at` compares stamps as strings, which sorts
+# correctly because the format is fixed-width and big-endian.
+ENTRY_RE = re.compile(r"^(\d{4}-\d{2}-\d{2} \d{2}:\d{2}) · ")
 
 STAMP_FMT = "%Y-%m-%d %H:%M"
 TOOK_RE = re.compile(r"^(?:(\d+)d)?\s*(?:(\d+)h)?\s*(?:(\d+)m)?$")
@@ -171,6 +185,39 @@ def resolve_took(args, when: dt.datetime):
     return format_took(delta), stamp, None
 
 
+def refuse_future(when: dt.datetime, flag: str) -> bool:
+    """True when `when` is ahead of the clock, having said so.
+
+    A minute of grace, because `--at` is minute-granular and a run logging inside its own
+    current minute is stating the truth, not the future."""
+    ahead = when - dt.datetime.now()
+    if ahead <= dt.timedelta(minutes=1):
+        return False
+    print(f"log-line: {flag} '{when:%Y-%m-%d %H:%M}' is ahead of the clock. A run cannot "
+          f"log a time it has not reached; drop {flag} to stamp now, or give the time the "
+          f"run actually happened.")
+    return True
+
+
+def insert_at(lines: list[str], marker_at: int, when: dt.datetime) -> int:
+    """Where this entry goes so the file stays newest-first.
+
+    Directly below the marker in the ordinary case, since the newest run is the newest
+    line. A run logging late — its true time earlier than a line already written — goes
+    below that line instead of above it, because the file's whole contract is that it
+    reads top-down in time."""
+    stamp = when.strftime(STAMP_FMT)
+    after_last = marker_at + 1
+    for i in range(marker_at + 1, len(lines)):
+        m = ENTRY_RE.match(lines[i])
+        if not m:
+            continue
+        if m.group(1) <= stamp:
+            return i
+        after_last = i + 1
+    return after_last
+
+
 def main() -> int:
     ap = argparse.ArgumentParser(description="Write one line to logs/log.md, newest first.")
     ap.add_argument("job", help="the pass name, e.g. build or render")
@@ -203,6 +250,8 @@ def main() -> int:
             except ValueError:
                 print(f"log-line: --at '{args.at}' is not 'YYYY-MM-DD HH:MM'.")
                 return 1
+            if refuse_future(began, "--at"):
+                return 1
         os.makedirs(LOGS, exist_ok=True)
         with io.open(stamp_path(args.job), "w", encoding="utf-8", newline="\n") as fh:
             fh.write(began.strftime(STAMP_FMT) + "\n")
@@ -230,6 +279,8 @@ def main() -> int:
         except ValueError:
             print(f"log-line: --at '{args.at}' is not 'YYYY-MM-DD HH:MM'.")
             return 1
+        if refuse_future(when, "--at"):
+            return 1
     else:
         when = dt.datetime.now()
 
@@ -256,7 +307,11 @@ def main() -> int:
 
     entry = "{:%Y-%m-%d %H:%M} · {} · {} · {}".format(
         when, args.job, took, args.message.strip())
-    lines.insert(at + 1, entry)
+    where = insert_at(lines, at, when)
+    lines.insert(where, entry)
+    if where != at + 1:
+        print(f"log-line: this line is older than the {where - at - 1} above it, so it "
+              f"goes below them rather than at the top - check the timestamp is right.")
 
     body = "\n".join(lines)
     if not body.endswith("\n"):
@@ -278,7 +333,8 @@ def main() -> int:
     # its line. A captured stdout has no reconfigure at all, which is how the tests run.
     if hasattr(sys.stdout, "reconfigure"):
         sys.stdout.reconfigure(errors="replace")
-    print(f"log-line: wrote to the top of logs/log.md - {entry}")
+    place = "the top of" if where == at + 1 else "its place in"
+    print(f"log-line: wrote to {place} logs/log.md - {entry}")
     return 0
 
 
