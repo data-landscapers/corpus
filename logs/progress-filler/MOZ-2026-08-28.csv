@@ -1,0 +1,45 @@
+indicator_id,subject,briefs_run,candidates_returned,fetched,staged_baseline,staged_progress,not_selected,dropped,drop_codes,outcome,subject_rows_at_probe
+gov.policy--ict-strategy,gov.policy,2,5,3,1,2,1,1,already-seen,staged,5
+gov.policy--data-interoperability-framework-roadmap,gov.policy,2,4,3,1,2,1,0,,staged,5
+gov.policy--open-data-policy,gov.policy,2,3,0,0,0,3,0,,nil,5
+gov.legislate--legislation-covering-digital-id,gov.legislate,2,6,3,1,2,3,0,,staged,11
+gov.legislate--digital-payments-legislation,gov.legislate,2,5,2,0,2,1,2,already-seen,staged,11
+gov.legislate--legislation-enabling-data-interoperability,gov.legislate,2,4,3,1,2,1,0,,staged,11
+gov.legislate--statistics-legislation,gov.legislate,2,5,3,1,2,2,0,,staged,11
+gov.legislate--access-to-information-legislation,gov.legislate,2,5,3,1,2,2,0,,staged,11
+gov.standards--national-quality-standards,gov.standards,2,8,3,1,2,5,0,,staged,3
+gov.discourse--non-governmental-contribution-to-national-policy,gov.discourse,2,7,2,0,2,5,0,,staged,0
+finance.mou--strategic-relationships,finance.mou,2,3,3,1,2,0,0,,staged,0
+infra.store--off-site-backup-capacity,infra.store,2,6,3,1,2,3,0,,staged,9
+dpi.exchange--interoperability-of-health-systems,dpi.exchange,2,9,3,1,2,0,0,,staged,5
+dpi.exchange--interoperability-of-education-systems,dpi.exchange,2,6,3,1,1,0,1,already-seen,staged,5
+dpi.exchange--interoperability-of-social-protection-systems,dpi.exchange,2,7,3,1,2,0,0,,staged,5
+dpi.id--national-maintenance-of-id-and-credentials-systems,dpi.id,2,9,3,1,1,0,1,already-seen,staged,6
+dpi.id--digital-id-from-birth,dpi.id,2,8,3,1,2,0,0,,staged,6
+dpi.id--interoperability-of-birth-registration-and-digital-id,dpi.id,2,7,3,1,2,0,0,,staged,6
+dpi.pay--b2b-and-b2g-functionality,dpi.pay,2,6,4,1,2,0,1,already-seen,staged,7
+dpi.pay--cross-border-functionality,dpi.pay,2,7,3,1,2,0,0,,staged,7
+dpi.pay--consumer-protection,dpi.pay,2,7,3,1,1,0,1,already-seen,staged,7
+dpi.registry--population-register,Population register,2,6,5,1,2,1,0,,staged,5
+dpi.registry--address-register,Address register,2,6,3,1,2,0,0,,staged,5
+dpi.registry--electoral-register,Electoral register,2,6,3,1,2,0,0,,staged,5
+dpi.registry--tax-register,Tax register,2,7,5,1,2,0,2,fetch-blocked,staged,5
+dpi.mis--education,Education,2,4,1,1,0,0,1,already-seen,staged,2
+dpi.mis--social-protection,Social protection,2,7,3,1,2,0,0,,staged,2
+dpi.mis--tax,Tax,2,7,2,1,1,0,1,url-dead,staged,2
+dpi.mis--land,Land,2,8,3,1,2,0,1,already-seen,staged,2
+digital.localgov--ict-infrastructure-for-local-government,ICT infrastructure for local government,2,10,3,1,2,0,0,,staged,2
+digital.rural--digitalisation-of-rural-health-clinics,Digitalisation of rural health clinics,2,6,3,1,2,0,0,,staged,0
+digital.rural--digitalisation-of-rural-registry-offices,Digitalisation of rural registry offices,2,6,3,1,1,0,2,inadmissible-origin;fetch-blocked,staged,0
+digital.rural--digitalisation-of-rural-police-stations,Digitalisation of rural police stations,2,6,1,1,0,0,0,,staged,0
+tech.ai--use-of-ai-in-government-administration,tech.ai,2,5,3,1,2,0,1,already-seen,staged,8
+tech.ai--use-of-ai-in-sectoral-management-information-systems,tech.ai,2,7,3,1,2,0,1,already-seen,staged,8
+tech.innovate--technology-hubs,tech.innovate,2,7,3,1,2,0,0,,staged,2
+tech.innovate--tech-startup-ecosystem,tech.innovate,2,6,3,1,2,0,0,,staged,2
+capacity.training--graduates-entering-dt-ecosystem,capacity.training,2,8,3,1,2,0,0,,staged,3
+include.access--citizen-feedback-portals,include.access,2,9,5,1,2,2,0,,staged,5
+include.access--citizen-participation-in-policy,include.access,2,7,3,1,2,0,0,,staged,5
+include.access--inclusion-of-persons-with-disabilities,include.access,2,9,3,1,2,0,0,,staged,5
+include.access--inclusion-of-refugees-and-idps,include.access,2,8,3,1,2,0,0,,staged,5
+data.satellite--agricultural-use-of-satellite-data,data.satellite,2,9,3,1,2,0,0,,staged,4
+geopol.gulf--gulf-mous-engagements-and-commitments,geopol.gulf,2,12,3,1,2,0,0,,staged,1
