@@ -5,7 +5,7 @@ r"""build-names-index.py — the searchable index of names occurring in source b
     python scripts/build-names-index.py --check     report drift, write nothing
     python scripts/build-names-index.py --stats     size profile, write nothing
 
-Stage 3 of `documentation/catalogue-search.md`. The catalogue's search box reaches
+Stage 3 of `documentation/archived/catalogue-search.md`. The catalogue's search box reaches
 titles, publishers and entity tags; this reaches the **names that occur in the
 sources themselves**, so a reader can find the document that mentions a person or
 a company nobody tagged.

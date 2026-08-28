@@ -58,7 +58,7 @@ since from here the two are indistinguishable.
 **What this does not fix.** Deleting a PDF from `site/` removes it from the published site and
 leaves the blob in `.git` for ever. The saving is against GitHub Pages' soft ceiling of about
 1 GB, not against the repository. Getting repository weight back is a different operation
-(`documentation/osint-pdf-history-purge.md`).
+(`documentation/archived/osint-pdf-history-purge.md`).
 
 Credentials, which are secrets and must not be in git: `CF_ACCOUNT_ID`, `CF_KV_NAMESPACE_ID`
 and `CF_API_TOKEN` in the environment, or the same three keys in the gitignored

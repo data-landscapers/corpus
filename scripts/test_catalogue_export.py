@@ -17,7 +17,7 @@ is then that file with rows removed, and demonstrably nothing else.
 
 Needs node on PATH, and the catalogue built. Skips rather than fails without either,
 because this is a check on the site build and not everyone running the suite has one.
-See documentation/catalogue-filtered-download.md.
+See documentation/archived/catalogue-filtered-download.md.
 """
 from __future__ import annotations
 import json, shutil, subprocess, sys, tempfile
@@ -104,7 +104,7 @@ def main() -> int:
         print(f"    page      {d['page']!r}")
         print(f"    published {d['published']!r}")
     print("  the page's csvCell()/toCSV() and build-catalogue.py's csv.DictWriter have "
-          "diverged — see documentation/catalogue-filtered-download.md")
+          "diverged — see documentation/archived/catalogue-filtered-download.md")
     return 1
 
 

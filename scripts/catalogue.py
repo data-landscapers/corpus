@@ -316,7 +316,7 @@ SCRIPT = r"""
   var ENTS = D.ents || [], ENTLABEL = {}, DERIVED = D.entnames || {};
   (function(){
     // A slug is not a display name — deriving those is stage 2
-    // (documentation/catalogue-search.md). Until then the label is the slug,
+    // (documentation/archived/catalogue-search.md). Until then the label is the slug,
     // mechanically prettified: title-case, except short tokens, which in this
     // vocabulary are overwhelmingly acronyms (ITU, UNDP, NIMC, ODPC, DRC, ICT).
     //
@@ -880,7 +880,7 @@ def main() -> int:
     # into the page — about 12 KB — so that the first search costs exactly one
     # request rather than a manifest round-trip and then a shard. The shards
     # themselves are fetched one at a time, on demand, and never by a reader who
-    # only browses. See documentation/catalogue-search.md.
+    # only browses. See documentation/archived/catalogue-search.md.
     # Display names for entity slugs (stage 2). Absent slugs fall back to the page's
     # own prettifier — 64% named today, and the file is meant to be hand-corrected.
     ent_names = {}

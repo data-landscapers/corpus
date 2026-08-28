@@ -5,7 +5,7 @@ r"""build-entity-names.py — display names for OSINT's entity slugs.
     python scripts/build-entity-names.py --check    report coverage, write nothing
     python scripts/build-entity-names.py --sample N show N derivations and stop
 
-Stage 2 of `documentation/catalogue-search.md`. The catalogue can filter by entity
+Stage 2 of `documentation/archived/catalogue-search.md`. The catalogue can filter by entity
 tag, but a tag is a slug — `bf-ministry-digital-transition`, `nira-uganda` — and a
 slug is not a name. This derives one, from the corpus itself.
 

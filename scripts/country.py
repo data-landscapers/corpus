@@ -259,7 +259,7 @@ def publish_catalogue_cut(iso: str, out_dir: Path, cols: list[str], rows: list[d
 
     Written `utf-8-sig` with CRLF, which is `csv.DictWriter`'s own default and what
     `build-catalogue.py` writes — a country cut that opened worse in Excel than the whole file it
-    came from would be the same mojibake `documentation/catalogue-filtered-download.md` records
+    came from would be the same mojibake `documentation/archived/catalogue-filtered-download.md` records
     against the large download on 2026-08-25, reintroduced one file down."""
     path = out_dir / f"{iso}-catalogue.csv"
     with open(path, "w", encoding="utf-8-sig", newline="") as fh:

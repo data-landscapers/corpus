@@ -7,7 +7,7 @@ status: in force; Corpus-owned. Ported from OSINT's `wiki/` on migration; the re
 
 # report-region-skeleton.md — the shape and drafting contract for region reports
 
-**This is the knob for what a region report looks like.** Section order, front matter, word budget and the instructions given to a drafting agent live here, in one file. **The register is not here** — house style is the Corpus editorial register (`documentation/migration-report-layer.md` → *Corpus editorial register*), in one copy, and it binds this document exactly as it binds a country report. `REPORT-REGION.md` governs the process and `documentation/report-layer.md` the record layer all the report processes share.
+**This is the knob for what a region report looks like.** Section order, front matter, word budget and the instructions given to a drafting agent live here, in one file. **The register is not here** — house style is the Corpus editorial register (`documentation/report-layer.md` → §10 *The register*), in one copy, and it binds this document exactly as it binds a country report. `REPORT-REGION.md` governs the process and `documentation/report-layer.md` the record layer all the report processes share.
 
 Change it, then `python scripts/report-render.py --unit {X__} --render --doc progress` — tables rebuild from `ledger.csv`, narrative blocks are carried across by marker id, and nothing is re-read from the base.
 
@@ -99,4 +99,4 @@ Every agent prompt carries these seven, verbatim in substance:
 4. **Report absence rather than filling it.** A body that has published nothing in the window is a finding, and the most common one: say *no work programme, communiqué or meeting record is held for this body since {date}* and stop. **This is where a region report is most at risk** — every one of these institutions has a public reputation a model can write from, and a paragraph about what the AU "is working towards" that rests on no source is the exact failure the register and check H exist for.
 5. **The regional test, stated** — the item is regional, or bears on at least three of the region's countries; a member state's own programme is not a row. Give the agent the *What must not be in it* list above.
 6. **No web search. Local files only.** An agent that helpfully fetches a fresh source has broken the sweep containment boundary and put unadmitted material into a deliverable.
-7. **The Corpus editorial register — `documentation/migration-report-layer.md` → *Corpus editorial register* — in full**, wherever the agent writes narrative rather than ledger rows.
+7. **The Corpus editorial register — `documentation/report-layer.md` → §10 *The register* — in full**, wherever the agent writes narrative rather than ledger rows.

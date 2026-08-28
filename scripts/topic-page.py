@@ -136,7 +136,7 @@ def document_rows(slug_path: str) -> str:
 # main-site row at all, a nav offering Home but neither Regions nor Method, and
 # a footer in prose where every other page carries the licence line. That is
 # exactly what `chrome_lib`'s own header note predicted would happen to a copy
-# nothing compares against — see documentation/house-style-review-2026-08-24.md
+# nothing compares against — see documentation/archived/house-style-review-2026-08-24.md
 # §2. Nothing about the chrome belongs in this file.
 
 PAGE = """<!DOCTYPE html>

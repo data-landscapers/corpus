@@ -670,7 +670,7 @@ def build_document(md_path: Path, edition: str | None, absolute: bool,
     # `main.css` + `corpus.css` + page-type sheet every other page loads, and the same
     # header, nav and footer. This file used to build its own of each, which is how the
     # bulletin and every report came to carry a nav with no main-site row and three links
-    # to pages that do not exist (documentation/house-style-review-2026-08-24.md §2).
+    # to pages that do not exist (documentation/archived/house-style-review-2026-08-24.md §2).
     #
     # `base` is passed rather than a depth because this is the one builder that emits a
     # document twice: once for the web at a relative path, once for WeasyPrint at `file://`,

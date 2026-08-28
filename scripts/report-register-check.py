@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 report-register-check.py — standing. Verifies report prose against the register
-(`documentation/migration-report-layer.md` → *Corpus editorial register*, and
+(`documentation/report-layer.md` → *Corpus editorial register*, and
 `documentation/report-layer.md` §10 for the boundary it does not move) and the word budget
 (`documentation/report-country-skeleton.md`).
 

@@ -116,7 +116,7 @@ def facets(rows):
         # the same type-ahead it already uses for 62 places and 38 topics, so
         # the cap now only hides vocabulary from anyone reading this file —
         # including a reader checking whether a tag they searched for exists.
-        # Uncapped 2026-08-24 (documentation/catalogue-search.md, stage 1).
+        # Uncapped 2026-08-24 (documentation/archived/catalogue-search.md, stage 1).
         f[key] = dict(c.most_common())
     f["publisher"] = dict(Counter(r["publisher"] for r in rows if r["publisher"]).most_common())
     f["year"] = dict(sorted(Counter(r["published"][:4] for r in rows if r["published"]).items()))
