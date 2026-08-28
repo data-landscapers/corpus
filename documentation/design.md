@@ -1,268 +1,141 @@
 ---
 type: doc
 title: Phase 3 — the public site
-status: built and deployed; current architecture is documentation/migration-report-layer.md (see banner)
-last_reviewed: 2026-08-06
+status: built and deployed
+last_reviewed: 2026-08-28
 ---
-
-> **Superseded in part (2026-08-13).** `documentation/migration-report-layer.md` is the current architecture: Corpus now **authors** the output layer (Job 1 — BUILD.md) and renders it (Job 2 — RENDER.md), rather than pulling `outputs/` from OSINT. §8 below describes that earlier pull model; its reasoning on editions, verification and the folder-is-the-rule discipline still holds, but where the two disagree on how data reaches the site, the migration doc wins. Code moved from `build/` to `scripts/` the same day.
 
 # Phase 3 — the public site
 
-*(Design record, opened 2026-08-05. Phase 3 of the three-phase plan — automated collection → automated reporting → public website. Now built and deployed — the architecture below is partly superseded (see the banner above). This file holds what has been settled, what follows from it, and what is still open; it is revised, not appended to. When the site build lands, the runnable parts move to a root procedure file and this file keeps only the reasoning.)*
+*(Design record. Phase 3 of the three-phase plan — automated collection → automated reporting → public website. This file holds what has been settled, what follows from it, and what is still open; it is revised, not appended to.)*
 
 ## What it is
 
 A public, browsable surface over the wiki, at **corpus.data-landscapers.com**, feeding and fed by the long-form output at data-landscapers.com.
 
-The site is a **derived view**, generated from `outputs/`. It is not a second store, it holds no state of its own, and nothing on it is authored by hand. That is the same relation a place hub has to the sources beneath it — a hub is a derived view, not a document — applied one layer up.
+The site is a **derived view**, generated from `outputs/` — which Corpus itself authors (Job 1, `BUILD.md`) and renders (Job 2, `RENDER.md`). It is not a second store, it holds no state of its own, and nothing on it is authored by hand.
 
 ## 1. Settled
 
-Decisions taken and not to be re-opened without a reason. Each is a decision Bill has made, not an inference.
+Decisions taken and not to be re-opened without a reason. Each is Bill's decision, not an inference.
 
-- **The site is `corpus.data-landscapers.com`** *(Bill, 2026-08-06)*. Chosen over `atlas.`, `base.` and `records.`. Site and repo carry one name, so there is nothing to map between them, and *corpus* is the term of art for a body of collected texts — which is what this is.
+- **The site is `corpus.data-landscapers.com`.** Site and repo carry one name, and *corpus* is the term of art for a body of collected texts.
 - **Look and feel matches data-landscapers.com.** Same family, not a separate identity.
-- **The OSINT repo is private and nothing served comes from outside `outputs/`.** The build reads OSINT — that is how data reaches the site (§8) — but it reads committed `outputs/` only, never writes, and nothing else in the vault is published. Access to the full vault, bodies included, is granted individually on request: a named list of researchers who asked and why, which is better grant evidence than a download count.
-- **Corpus is the single site-side repo** *(2026-08-06)*. It manages, prepares and serves the data as well as the site — the CSVs, PDFs and HTML published from `outputs/`, rewritten every time those reports are updated. There is no third repo: OSINT is the store of record and nothing else, Corpus is everything downstream of it.
-- **PDFs are tracked in Corpus** *(2026-08-06)*. This reverses an earlier position and is dealt with in §8.
-- **Every published file carries its build date in the filename**, and earlier editions are retained for re-access. This reverses an earlier position (no retention) and is the right way round: a citation to a dated edition stays checkable. Retain silently, expose only current plus a quiet "earlier editions" affordance — no version picker to maintain. How editions are minted, named and verified is §9.
-- **Everything is open. No account, no registration, no gate on anything** *(Bill, 2026-08-06 — reverses the earlier download wall and the three-field registration)*. Once Corpus both serves the data and is public the wall was a courtesy anyway, and a courtesy that costs every reader a form is a bad trade. There is nothing to log in to and no user record to hold, which also removes a privacy surface a data-governance project would rather not defend.
+- **The OSINT repo is private and nothing served comes from outside `outputs/`.** The build reads OSINT but publishes committed `outputs/` only. Access to the full vault, bodies included, is granted individually on request.
+- **Corpus is the single site-side repo.** It manages, prepares and serves the data as well as the site. There is no third repo: OSINT is the store of record and nothing else, Corpus is everything downstream of it.
+- **PDFs are tracked in Corpus** (§8).
+- **Every published file carries its build date in the filename**, and earlier editions are retained for re-access — a citation to a dated edition stays checkable. Retain silently; expose only current plus a quiet "earlier editions" affordance. §9 has the rules.
+- **Everything is open. No account, no registration, no gate on anything.** There is nothing to log in to and no user record to hold, which removes a privacy surface a data-governance project would rather not defend.
 - **An API with key control comes later.** Not at launch, but the data shapes should not preclude it.
 
-## 2. Content at launch
+## 2. Content
 
 | Surface | Source | Notes |
 |---|---|---|
-| Catalogue | `outputs/catalogue/raw-catalogue.{json,csv}` | 9,407 records; metadata only, never bodies |
+| Catalogue | `outputs/catalogue/raw-catalogue.{json,csv}` | metadata only, never bodies |
 | Country reports | `outputs/reports/{ISO3}/` | Status, monthly update, twelve-month progress |
-| Regional reports | `REPORT-REGION.md` (written 2026-08) | Progress only — the status and monthly reports are not issued for a region |
-| Topic reports | `outputs/topics/{slug}/` | A Level-1 category, or one Level-2 slug, across places |
+| Regional reports | `outputs/reports/{X__}/` | Progress only |
+| Topic reports | `outputs/topics/{slug}/` | One Level-2 slug across places, two documents each |
 | National budgets | `outputs/budgets/{ISO3}-budget.csv` | 17 countries initialised |
-| Non-state finance | `outputs/non-state-finance/` | Per country, plus `all-nonstate.csv` |
-| Metadata | frontmatter, facets, freshness | Extensive, and part of the offer rather than an afterthought |
+| Non-state finance | `outputs/non-state-finance/` | Per country, plus the all-Africa editions |
+| Metadata | frontmatter, facets, freshness | Part of the offer rather than an afterthought |
 
-All seven exist and publish. *(Corrected 2026-08-27, strategic review task 7 — this paragraph said the topic layer was unwritten while 38 topic slugs were live under `outputs/topics/` and `site/topics/`.)*
+All seven exist and publish.
 
 ## 3. Structure
 
 **Six top-level sections: Countries · Regions · Topics · Catalogue · Data · Method.** No seventh — there is no account.
 
-**Lead with place and topic, not document type.** Every artefact on the launch list except the catalogue hangs off a country, a region or a taxonomy slug. Filing by document type — "Reports", "Datasets", "Downloads" — forces a reader to know what they want before they can look, and the audience does not arrive wanting *a progress report*; they arrive working on Algeria, or on data protection.
+**Lead with place and topic, not document type.** The audience does not arrive wanting *a progress report*; they arrive working on Algeria, or on data protection.
 
-**The country page is the atomic unit.** Position statement and last-updated date; the three reports as dated rows, each readable and downloadable without a gate; the ledger counts; the catalogue count with the country's own cut of the catalogue to download and a link into the filtered browse view; the finance summary; and a heading for public budgeting and expenditure saying the work is under way. Region and topic pages take the same shape with whatever reports they carry.
+**The country page is the atomic unit**: position statement and last-updated date; the three reports as dated rows, readable and downloadable without a gate; the ledger counts; the catalogue count with the country's own cut to download and a link into the filtered browse; the finance summary; a budgets heading with a sentence under it even while the work is under way — a reader who finds nothing about budgets cannot otherwise tell an absent subject from an absent finding. Index rows and bylines say *last updated*, not *built* (the reader's question, not the machine's act), and carry no ***Not held*** count — that is a property of the ledger's completeness, visible and countable inside the document; on an index row it reads as a warning about a report nobody opened. Region and topic pages take the same shape with whatever reports they carry.
 
-**Four changes to that page on 2026-08-25** *(Bill)*, each small and each about the same thing — what a reader is being told versus what the build happened to know. ***Not held*** came off the report rows and off the report bylines: it is a property of the ledger's completeness, visible and countable inside the document, and on an index row it read as a warning about a report nobody had opened. *Built* became *last updated*, in the subtitle and the colophon here and on `/countries/`, because the first describes what the machine did and the second answers the reader's actual question. *Sources* became *Catalogue*, and the *most frequent publishers* line went with it — a ranking of who files the most press releases is a fact about the newswire, not about the country. And the budget heading went on with nothing under it but a sentence, on the wiki's own reasoning about a known vacuum: a reader who finds nothing about budgets cannot otherwise tell an absent subject from an absent finding.
+**`Data` is the tables as tables** — the CSVs for someone who wants the numbers rather than the narrative; the second of the two equally-weighted audiences (policy readers and researchers) served without a separate site.
 
-**`Data` is the tables as tables** — the CSVs for someone who wants the numbers rather than the narrative. It is the same data as the country pages, at a different resolution, and it is the second of the two audiences (policy readers and researchers, weighted equally) getting what they came for without a separate site.
-
-**`Method` is content, not boilerplate.** Inclusion criteria (the origin screen), how currency and dating work, what *Not held* means, the licence, the retention policy, the privacy notice. A project about data governance publishing an exemplary account of its own practice is a credential, not overhead.
+**`Method` is content, not boilerplate.** Inclusion criteria, how currency and dating work, what *Not held* means, the licence, the retention policy, the privacy notice. A project about data governance publishing an exemplary account of its own practice is a credential.
 
 ## 4. Three design commitments
 
-These are what distinguish the site from every other Africa-digital dashboard. They are cheap, because the base already holds what they need.
+Cheap, because the base already holds what they need — and what distinguishes the site from every other Africa-digital dashboard.
 
-**Not held is a counted, visible number.** Eight of Algeria's ninety-nine tracked items. Publishing your own gaps says the base knows the difference between *no* and *we don't know*, and it makes depth-on-demand self-documenting: a thin country looks accurately thin rather than neglected.
-
-**Every figure is one click from its source record.** Already true in the data and true almost nowhere else. Made visible, it answers *where did that number come from* — which is the question the whole project exists to be able to answer.
-
-**Build dates and earlier editions in the open.** Freshness is a fact about the page, stated on the page, in the same idiom as every dated figure in the wiki. §9 makes it checkable as well as stated.
+- **Not held is a counted, visible number.** Publishing your own gaps says the base knows the difference between *no* and *we don't know*, and a thin country looks accurately thin rather than neglected.
+- **Every figure is one click from its source record.** Already true in the data and true almost nowhere else; it answers *where did that number come from*, the question the whole project exists to answer.
+- **Build dates and earlier editions in the open.** Freshness is a fact about the page, stated on the page. §9 makes it checkable.
 
 ## 5. Prototypes
 
-- `prototypes/catalogue-prototype.html` — working browse-and-filter over all 9,407 real catalogue records. Facet counts recompute against the *other* active filters so a reader never clicks into an empty result; type-ahead inside the long lists (62 places, 38 topics); filter state in the URL hash so a filtered view is citable. Double-click to open; no server.
-- `prototypes/build-catalogue-data.py` — regenerates the prototype's data file (`prototypes/catalogue-data.js`). Bespoke scaffolding; delete all three when the real build lands.
-- `prototypes/record-viewer.html`, in the OSINT repo — the earlier record-rendering prototype. Its palette is the working basis for the site's.
-
-The first two live in this repo (Corpus); paths above are relative to it. Moved into `prototypes/` on 2026-08-06 when the §8 layout was created; deleted when the real build lands.
+`prototypes/` holds disposable scaffolding. `prototypes/datatable-test.mjs` is the live jsdom test for the finance tables (`RENDER.md` → *The finance tables*); the catalogue prototype pair is superseded by `scripts/catalogue.py` and deletable.
 
 ## 6. Open
 
-- **Serving shape of the catalogue.** ~7.2 MB JSON at 9,407 records; ~23 MB at the 30,000 projected for spring 2027. A single fetch stops being defensible around 15–20k rows. `raw/` is already sharded by year, so sharding the catalogue the same way is nearly free — but the boundary is expensive to move once anything external consumes the file. Decide before launch, not when it breaks. *(Two consumers now, not one: the filtered download fetches `raw-catalogue.json` at its published URL on the reader's first export click, which is a second reason a split has to keep that URL working — `catalogue-filtered-download.md`, 2026-08-24.)*
+- **Serving shape of the catalogue.** ~7.2 MB JSON now; ~23 MB at the 30,000 records projected for spring 2027. A single fetch stops being defensible around 15–20k rows; `raw/` is already sharded by year, so sharding the catalogue the same way is nearly free — but the boundary is expensive to move once anything external consumes the file, and there are two consumers (the page, and the filtered download's export fetch). Decide before it breaks.
 - **The home page.** It has to say what this is, to someone arriving from a link, in about eight seconds, without becoming a dashboard. Hardest page on the site.
 
-## 7. Preconditions
+## 7. Preconditions — met
 
-Not website work, but the website cannot launch over them.
-
-- **Repo size.** 4.6 GB and growing ~150 MB/day; GitHub recommend under 5 GB. Private or public, it is the same problem, and it makes "contact me for vault access" a chore rather than an offer. The 425 tracked PDFs in `raw/` are the weight, and the reasoning that removed 507 budget-archive PDFs applies to them.
-- ~~**`capture-rule.md` and `build-catalogue.py` describe a private vault that is never republished.**~~ Cleared 2026-08-06. `outputs/` carries no verbatim bodies, so publishing it does not touch the CDPA s.29 basis, which is a claim about the bodies in `raw/` and stays true. `build-catalogue.py` already says the catalogue is public and sends readers to the publisher, so it never disagreed. A wording point remains in `capture-rule.md` and is note 2 in `C:\corpus-osint-xfer\notes-for-osint.md`.
-- **A consolidated, versioned, methodology-documented cross-country dataset** (2026-08-02 review). Fifty-nine per-country CSVs are not a citable dataset, and the budget CSV's programme grain is documented as broken. The site should launch on one or it spends its credibility on day one.
-- **REPORT-LINT over the reporting layer.** The review's finding is that the system's outputs are ahead of its verification; a public site is the largest possible extension of the output surface, and publication raises the cost of a MOZ-class defect by an order of magnitude.
+The launch preconditions are discharged: OSINT's repo weight (the PDF history purge), the consolidated cross-country dataset (`all-nonstate.csv`, dated editions), and verification over the report layer (checks G–M, `documentation/report-layer.md` §6).
 
 ## 8. How data reaches the site
 
-*(Settled 2026-08-06. Replaces the earlier "Publish" section, which assumed a publish pass running inside OSINT.)*
+**Corpus authors `outputs/` itself and renders it in the same repo.** There is no pull, no `upstream/` tree, and no push from OSINT: OSINT holds no credentials for Corpus, contains no part of the site, and has no publication step in its night. The night acquires no network dependency, and the presentation layer stays out of the store of record.
 
-**Corpus pulls; OSINT never pushes.** A build step in Corpus reads OSINT's committed `HEAD`, diffs `outputs/` against the last SHA it built, converts what changed, and publishes. OSINT holds no credentials for Corpus, contains no part of the site, and gains no publication step in its night.
+**Rendering is at build time, never on request.** A request-time renderer is a second uptime obligation, and it makes two downloads of the same dated file differ. WeasyPrint keeps one template for the HTML page and the PDF; a second toolchain is a second template that drifts.
 
-The alternative considered was a push at the close of `REPORT-UPDATE` (or of `SWEEP-CYCLE`). Three things decided it:
+**PDFs are tracked in the Corpus repo.** The repo is the deploy unit, and a dated PDF a citation points at is retained by the same mechanism that retains everything else. Git does not forget a binary, so the trajectory is a known cost — roughly 400 MB a year at full coverage under content-change minting (§9) — accepted rather than met as a surprise.
 
-- **`REPORT-UPDATE` governs one part of `outputs/`.** Budgets, non-state finance, the catalogue and country narratives are written by other passes entirely, and `REPORT-UPDATE.md` states in terms that most nights it writes nothing. A transfer hung off it ships the whole of `outputs/` on the cadence of the report layer alone. Moving the push to `SWEEP-CYCLE`'s close fixes the coverage but not the other two.
-- **The night acquires no network dependency.** `SWEEP-CYCLE` has no time envelope and runs unattended past midnight. A push is a step that can fail at 02:00, into a repo the run cannot verify, in a process whose recovery model is "re-run from scratch".
-- **One leak gate, at the point of publication.** A guard inside OSINT would check the markdown and not the HTML it becomes, so a push model needs two gates. Pulling puts a single gate where the artefacts actually enter the public repo. *(The gate itself was retired on 2026-08-25 — see below. The case for pulling never rested on it.)*
+**One rule per folder, and the folder is the rule.** `outputs/` is written by BUILD; `site/` is generated, so an edit there is overwritten by the next build; `scripts/` is where code is authored. A file's folder is its state.
 
-A third shape — OSINT rendering HTML and PDF and writing them into Corpus — was rejected. It moves the presentation layer into the store of record: templates, palette and `WeasyPrint` config would live in the private vault, changing a font would be a commit to it, and the render cost would land inside the serialised night. The site is a derived view; a store that knows how its derived view looks has stopped being only a store.
+**Publish selectively.** The build renders only what it has a renderer for. **A directory in `outputs/` is not a decision to publish it**; publication is a renderer, written deliberately. (For any material Corpus consumes but does not author, the standing constraints are: mirror exactly, no reshaping — a mapping between two trees is a second copy of a structure that fails silently when one side moves.)
 
-**The trigger is a commit, not a clock.** Reading committed state rather than the working tree is what makes this safe against a run in progress: a clock-triggered read of `outputs/` can catch a night mid-write, whereas a half-finished night is simply not yet committed. `git diff --name-only {last-built}..HEAD -- outputs/` is the changed set, and it is cheaper than the bookkeeping a push model would have to carry. Both repos are on the same machine, so the read costs nothing.
+### Source bodies
 
-**The build assumes nothing about how often OSINT commits, and that is deliberate.** `SWEEP-CYCLE` is started by hand, normally overnight, and is not yet on a schedule because whether Exa functions unattended is unestablished *(Bill, 2026-08-06)*. A session may also be run during the day to force an update on a live issue. A commit trigger absorbs all three cadences identically — a clock trigger would have to be tuned to one of them, and would either miss the daytime run or poll for it. If the sweep is ever scheduled, nothing here changes.
+**`outputs/` carries metadata and compiled prose and never a verbatim source body.** A leak into a public repo's history would be permanent. The boundary is bodies, not internal reasoning — this design record and the prototypes are public, which on §3's argument that method is content is closer to an asset than a cost.
 
-**The build records the SHA it built from** in `upstream/BUILT-FROM`, which doubles as the citation anchor: every page can state which state of the base it was derived from. *(No page does, since 2026-08-18 — see §9. The stamp is still written and is now the build's own record rather than anything published.)* It is idempotent and reversible, like every other pass. Where the pulled copy lives, and why it is tracked rather than fetched, is the next subsection.
+**The leak-check gate is retired.** Every file in `outputs/` is written by a compiler in this repo, so there is no path along which a source body reaches the tree; a gate against a fault the architecture cannot produce is a standing cost, not a safety net. What upholds the rule is the drafter, at the point of writing: a summary reports its source and does not lift a sentence out of the body — a lifted sentence was always a register failure first (`BUILD.md` → *Narrative integrity*).
 
-### Rendering
-
-Markdown to HTML and PDF, in Corpus, at build time — never on request. A request-time renderer is a second uptime obligation, and it makes two downloads of the same dated file differ. `WeasyPrint` keeps one template for the HTML page and the PDF; a second toolchain is a second template that drifts.
-
-**PDFs are tracked in the Corpus repo** *(Bill, 2026-08-06 — reverses the earlier "never tracked in git")*. Tracking them makes the served artefact and its history one object: the repo is the deploy unit, and a dated PDF that a citation points at is retained by the same mechanism that retains everything else, rather than by a second store with its own backup story.
-
-The cost is real and it compounds, because git does not forget a binary. At full country coverage the two *dated* report types alone are 54 × 2 × 12 ≈ 1,300 PDFs a year; report markdown currently runs to a median of 35 KB and a progress report to 58 KB, so call it 300 KB rendered — roughly 400 MB a year, never shrinking. That is affordable for some years and is worth stating as a known trajectory rather than meeting as a surprise. The status report is the variable that could break it, and is in §6.
-
-**That estimate assumed §9's content-change minting, which had never been implemented, and the measured rate was some twenty times it** *(2026-08-18)*. The estimate counts editions that differ; the renderer counted render days. `render.py` takes the edition from the date it runs and RENDER hands it all 241 documents on every run, so every render day cut 241 new dated PDFs and retained every one — **1,053 PDFs and 314 MB between 2026-08-05 and 2026-08-18**, against the 400 MB *a year* costed here, with `.git` at 722 MB after a fortnight. The gate is now in `render.py` (§9 below) and the trajectory is the one this paragraph describes. Recording it because the number above was right about the rule and wrong about the code, and a design record that is never checked against the tree it describes is where that gap lives: OSINT reached 5.1 GB the same way and needed `git filter-repo` to come back (`documentation/osint-pdf-history-purge.md`).
-
-### Repo layout
-
-*(Settled 2026-08-06.)*
-
-```
-upstream/          pulled from OSINT outputs/, 1:1 — never hand-edited   [removed 2026-08-16]
-  BUILT-FROM       the OSINT SHA this copy was taken from
-  budgets/ catalogue/ non-state-finance/ reports/
-scripts/           the compilers, renderers and templates — the authored code (moved from build/ 2026-08-13)
-site/              rendered artefacts: what is served
-prototypes/        disposable scaffolding (§5)
-documentation/design.md · C:\corpus-osint-xfer\notes-for-osint.md · CLAUDE.md
-```
-
-*(**`upstream/` no longer exists, 2026-08-16.** The 2026-08-13 migration made Corpus author `outputs/` itself, which left `upstream/` as a mirror of Corpus's own output tree that RENDER refreshed on every run — a second copy of a tree the renderers could read directly. It has been deleted and every renderer repointed at `outputs/`, which is the durable path `RENDER.md` Step 1 had been deferring. `BUILT-FROM` moved to the repo root and still does the job described above. What follows in this subsection is the reasoning for the pull as it stood, and is kept because the constraints it derives — mirror exactly, no reshaping, pull exhaustively and publish selectively — still govern how Corpus treats material it does not author. `scripts/pull.py` and `scripts/test_pull.py` were deleted the same day: the pull had no tree left to write into, and the leak gate it once carried lived in `scripts/leak-check.py` from the migration until it was retired in turn on 2026-08-25 — *The leak gate — retired* below.)*
-
-**One rule per folder, and the folder is the rule.** `upstream/` is replaced wholesale by the pull, so an edit there is overwritten without warning. `site/` is generated, so an edit there is overwritten by the next build. `scripts/` is where code is authored (`build/` now holds only assets). This is OSINT's own `new/ → raw/` discipline — a file's folder is its state — applied to a repo where three different things write.
-
-**The upstream tree mirrors `outputs/` exactly, with no renaming and no reshaping.** Any transformation between the two is a mapping, and a mapping is a second copy of a structure that has to be maintained in step with the first. Adding a directory in OSINT would then require a matching edit here, and forgetting it fails silently. `SWEEP-CYCLE.md` has the same lesson written into it in blood: two copies of one mapping is how a rotation silently stops running.
-
-**Not `osint-outputs/`.** That names the provenance rather than the role, and it imports the upstream vocabulary — *outputs* is OSINT's word for the end of its pipeline, whereas here the identical material is the input. A reader of Corpus should not have to hold OSINT's frame in their head to parse a folder name. `upstream/` states the relationship instead, and carries the conventional meaning: maintained elsewhere, vendored here, do not edit.
-
-**The pulled copy is committed to Corpus, not read from OSINT and thrown away** *(Bill, 2026-08-06)*. The alternative was to read `outputs/` straight out of the OSINT clone at build time, render from it, and commit only the rendered result — borrowing the input for the duration of the build and keeping none of it. Three things decided it:
-
-- **Corpus becomes rebuildable on its own.** Reading from the clone means anyone without OSINT cannot reproduce the site — which is nearly everyone, since it is private — and neither can Bill on another machine.
-- **The input sits beside the output, where a reader can check it.** §4 promises that every figure is one click from its source record. Holding the data a page was rendered from in the same repo as the page is that promise at full strength.
-- **Git supplies the history for free.** Any past state of the site can be recovered together with the data that produced it, which is what keeps a dated citation checkable years later.
-
-The cost is 16 MB of duplication — the same files existing in both repos — against the ~400 MB a year of PDFs already accepted above.
-
-**Pull exhaustively; publish selectively.** The pull takes the whole tree with no per-directory logic, so new upstream material can never be missed. The build renders only what it has a renderer for, so that material appears in the repo but is not served until someone writes one. The two rules together fail closed, which is the right direction for a public site.
-
-The case that prompted this was `outputs/dev/`, holding internal method notes that should be pulled and not published. Bill removed `dev/` and the empty `country-narratives/` from `outputs/` on 2026-08-06 and moved the notes to `documentation/`, so the example is gone — but the rule stands, because the next directory nobody thought about is the one it exists for. **A directory in `outputs/` is not a decision to publish it**; publication is a renderer, written deliberately.
-
-### The leak gate — retired 2026-08-25
-
-**The rule stands and the gate is gone.** `outputs/` carries metadata and compiled prose and never a verbatim source body, and a leak into a public repo's history would be permanent. The boundary that matters is bodies, not internal reasoning — this design record and the prototypes sit in the served repo and are public, which is acceptable and, on §3's argument that method is content, closer to an asset than a cost. What has been withdrawn is `scripts/leak-check.py`, the check that read every published artefact on every BUILD and RENDER looking for a body.
-
-**Bill's reasons, in his order**: the system does not publish full documents; if it ever did, it would be a trivial mistake; running the gate has never once discovered a leak; and it is expensive in both time and tokens. The first carries the rest. The gate belonged to the pull model set out above, where Corpus mirrored a tree it did not author and the next directory nobody had thought about might arrive full of bodies — *pull exhaustively, publish selectively* needed something failing closed at the point of publication, which is the bullet near the top of this section. The 2026-08-13 migration ended that arrangement: Corpus authors `outputs/` itself, every file in it is written by a compiler in this repo, and there is no path along which a source body reaches the tree. A gate against a fault the architecture cannot produce is not a safety net but a standing cost, and in every run since it was written it has returned clean while reading 731 MB of immutable PDF to do it.
-
-**The verdict cache is the tell** *(added 2026-08-23, deleted with the gate)*. It was the right fix for the cost — a clean verdict keyed on the file's own bytes, discarded wholesale when the gate's source changed — but the note written at the time said the thing to be careful of is that a cache on a gate can quietly turn a check into a formality. On a tree of immutable files that only grows, near enough every file is answered from cache, and a check that re-reads almost nothing has already stopped being a check. Retiring it outright is the coherent version of what the cache was approximating.
-
-**What upholds the rule now is the drafter, at the point of writing.** `BUILD.md` → *Narrative integrity* and the register already hold it: a summary reports its source and does not lift a sentence out of the body, and a lifted sentence was always a register failure first. `logs/.leak-check-cache.json` and its `.gitignore` entry go with the script, `scripts/test_leak_check.py` with them, and the runbooks' references have been removed rather than rewritten — a check that does not exist should not be describable.
-
-**Some sources ban reproduction outright, and the rule already covers them** *(2026-08-26, on `notes-for-corpus.md` note 12)*. OSINT reported that two Xalam Analytics data-centre market briefs in `raw/` carry an explicit prohibition on reproduction and on *"use within artificial intelligence language models"*, and asked whether a published Corpus report quoting them at length would be a licensing risk. **The answer is that it would be, and that nothing has to change to prevent it.** Holding the capture is the vault's business and rests on its own basis; what Corpus controls is what reaches a page, and the rule above — no verbatim body, paraphrase and cite — already forbids the only thing that would create the exposure. Making it explicit for paid-research material costs a sentence and is worth having: **material published under a reproduction ban is paraphrased and cited, never block-quoted, and the citation carries the reader to the publisher's own record rather than standing in for it.**
-
-**What the base actually does with them was checked rather than assumed.** All seven Xalam briefs in the catalogue reach `outputs/` only as compressed figures inside ledger rows — live IT load, facility counts, occupancy, cable counts, tariffs — attributed as *an analyst brief* or *an independent research house*, in Corpus's own words, in four units. No prose in any report, topic document or bulletin quotes them, at any length. That is the shape the rule asks for, and it arrived without the rule, which is the same finding the retired gate kept returning: the architecture does not produce this fault, and the drafter is where it is prevented.
+**Material published under a reproduction ban is paraphrased and cited, never block-quoted**, and the citation carries the reader to the publisher's own record rather than standing in for it. Holding the capture is the vault's business on its own basis; what Corpus controls is what reaches a page, and compressed figures inside ledger rows, attributed in Corpus's own words, is the shape the rule asks for.
 
 ## 9. Editions and verification
 
-*(Settled 2026-08-06. The case: a journalist or academic downloads a report in August, cites a figure from it in November, and is asked to stand it up.)*
+*(The case: a journalist downloads a report in August, cites a figure in November, and is asked to stand it up.)*
 
-**"Verify" is three different questions, and dating a filename answers none of them on its own** — a filename can be typed by anyone.
+**"Verify" is three questions** — **integrity** (*is this the file you published?*), **currency** (*is what it says still true?*), **provenance** (*where did that figure come from?*).
 
-- **Integrity** — *is this the file you published?*
-- **Currency** — *is what it says still true?*
-- **Provenance** — *where did that figure come from?*
-
-Someone whose reporting has been challenged usually needs all three, so the site owes an answer to each. None is expensive, because the base already holds what they need.
-
-**The site answers two of the three, and the integrity machinery is withdrawn** *(Bill, 2026-08-18)*. **The commitment to a reader here is a moral one, not a legal one.** The manifest, the `Derived from` row and the `Verify` row were the legal reading of it: a hash to be checked, a commit SHA to be produced on demand, an apparatus for standing up to a challenge. What is actually owed is that a document says plainly what it is, when it was cut, and that it is not revised afterwards — which is what dating, retention and permanent URLs do, and they do it whether or not anyone ever audits us. The two footer rows are gone from every template, the `Manifest` footer link with them, and no manifest is built. What follows in this subsection is the design as it stood; it is kept because the reasoning is sound and the question may come back, not because it is being implemented.
-
-### Integrity — a published manifest *(withdrawn 2026-08-18, see above)*
-
-**One CSV at a permanent URL, listing every edition ever published.**
-
-| Column | |
-|---|---|
-| `path` | the file's permanent location |
-| `kind` | `status` · `monthly` · `progress` · `dataset` · `catalogue` |
-| `unit` | ISO3, region or topic slug |
-| `edition` | build date, as in the filename |
-| `osint_commit` | the OSINT SHA the edition was built from |
-| `sha256` | of the file as published |
-| `bytes` | |
-| `superseded_by` | the later edition's `path`, or empty if current |
-
-Verification is then a single instruction anyone can follow: **hash your copy and find it in the manifest.** It works even if the file was renamed, it is machine-readable so the eventual API costs nothing extra, and because the manifest is itself tracked in git it carries its own tamper-evident history.
-
-**`osint_commit` is the column that matters most, and it is nearly free** *(this whole subsection is withdrawn — see above)* — the build already records the SHA in `BUILT-FROM` at the repo root (§8). Because `upstream/` is committed at every pull, naming the commit takes verification past *"yes, that is our file"* and down to *"and here is the exact state of the base it was derived from"*. Very little published in this field can do that.
+**The site answers currency and provenance; the integrity machinery (manifest, `Derived from` and `Verify` rows) is withdrawn.** The commitment to a reader is a moral one, not a legal one: what is owed is that a document says plainly what it is and when it was cut, and that it is not revised afterwards — which dating, retention and permanent URLs do whether or not anyone audits us. `BUILT-FROM` at the repo root still records the commit each render was cut at, as the build's own record; no page prints it.
 
 ### Provenance — URLs are permanent, and never reissued
 
-**`/reports/KEN/KEN-status-2026-08-06.pdf` resolves for ever.** Retention is silent (§1): the reader sees the current edition and a quiet *earlier editions* affordance, not a version picker.
+**A dated URL resolves for ever *if anybody ever took it*.** Retention is conditional on the one fact that matters — whether a reader actually downloaded the edition — and a superseded edition nobody ever fetched is deleted. `documentation/cloudflare.md` holds the Worker, the KV record and the credentials; `scripts/prune-editions.py` is the rule, run by `RENDER.md` Step 6a. The promise was always to a person rather than to a URL: a citation only exists if somebody took the file. What it buys is that storage tracks demand rather than catalogue size, against GitHub Pages' soft ceiling of ~1 GB; the repository does not shrink, because git keeps the blob.
 
-**Amended 2026-08-18: a dated URL resolves for ever *if anybody ever took it*.** Retention is now conditional on the one fact that matters — whether a reader actually downloaded the edition — and a superseded edition nobody ever fetched is deleted. `documentation/cloudflare.md` is the reference — the Worker, the KV record, the rule and what it will not touch, all of it; `scripts/prune-editions.py` is the rule itself, run by `RENDER.md` Step 6a. The reasoning that got there is `documentation/archived/delete-unless-downloaded.md`.
+**Four things keep it narrow, and every uncertainty resolves towards keeping the file**: the current edition of anything is never deleted; nothing published on or before 2026-08-18 is ever deleted (the rule is forward-only); nothing superseded less than a week ago is deleted, so a late log entry still arrives first; and any fetch at all protects, a crawler's included. A missing credential, an API error, an empty listing or a stale-looking record stops the whole run rather than being read as *nobody wanted these*. **The residue, stated**: someone may hold a URL they never downloaded from — a link pasted into a message — and for them the file goes. `logs/deleted-editions.csv` is the account of what went.
 
-**This is a real weakening of the promise above, and it is written here rather than left as a divergence between the design record and the code** — this repo has just been bitten by exactly that gap, §9 having said since 2026-08-06 that an edition is cut when the content changes while the renderer cut one every render day for twelve days unnoticed.
-
-**What it costs is smaller than it sounds, because the promise was always to a person rather than to a URL.** A citation only exists if somebody took the file; an edition nobody fetched has no reader holding it and no footnote pointing at it. What it buys is that storage tracks demand rather than catalogue size, and the catalogue is the half that grows without limit — 241 documents, each cutting an edition every time its content moves, against a set of downloads that will not grow like that. The saving is against GitHub Pages' soft ceiling of about 1 GB; the repository does not shrink, because git keeps the blob (`documentation/osint-pdf-history-purge.md` is what that would take).
-
-**Four things keep the amendment narrow, and every uncertainty resolves towards keeping the file.** The current edition of anything is never deleted. Nothing published on or before 2026-08-18 is ever deleted — the rule applies **forward only**, so the ~1,053 editions already live stand for ever rather than being deleted for want of a record that did not exist when they were published. Nothing superseded less than a week ago is deleted, so a log entry that arrives late still arrives first. And any fetch at all protects, a crawler's included. A missing credential, an API error, an empty listing or a record that looks stale each stop the whole run rather than being read as *nobody wanted these*.
-
-**The residue, stated rather than hidden:** someone may hold a URL they never downloaded from — a link pasted into a message, an address copied off the page — and for them the file goes. The lag covers most of that and not all of it, and it is the price of the rule. `logs/deleted-editions.csv` is the account of what went.
-
-**No undated download URL exists at all.** An undated one invites a citation that changes underneath the person who made it, which is the precise failure this section is here to prevent. Browse the HTML at a stable address; every download hands back a dated file. *(One download is deliberately outside this, and it is named below rather than left as a silent exception.)*
-
-This makes catalogue slugs permanent identifiers upstream, since the source links inside a PDF downloaded today must still resolve in 2029. That is a constraint on OSINT rather than on the site, and it is recorded as a standing constraint in `C:\corpus-osint-xfer\notes-for-osint.md`.
+**No undated download URL exists at all** (the catalogue is the named exception, below). An undated URL invites a citation that changes underneath the person who made it. Browse the HTML at a stable address; every download hands back a dated file. This makes catalogue slugs permanent identifiers upstream — a constraint on OSINT, recorded as a standing constraint in the exchange's `notes-for-osint.md`.
 
 ### Currency — every edition says that it is one
 
-**A footer on every page of every PDF: *Edition of 2026-08-06 · current edition at {url}*.** One template line.
-
-Without it the retention policy actively manufactures the risk it exists to remove — a reader who finds a three-year-old status report has no way to know it is not the live one. An old edition that announces itself is an asset; one that does not is a liability.
+**A footer on every page of every PDF: *Edition of {date} · current edition at {url}*.** Without it the retention policy manufactures the risk it exists to remove: an old edition that announces itself is an asset; one that does not is a liability.
 
 ### How often an edition is minted
 
-**A new edition is cut when the content changes, not when a build runs.** The build hashes the markdown *below the frontmatter* and compares it to the last retained edition; identical means no new edition, only a refreshed *current* pointer.
+**A new edition is cut when the content changes, not when a build runs.** `render.py` digests the markdown **below the frontmatter** (`compiled:` moves on every render, so hashing the rendered file would mint nightly editions of an unmoved document), stamps the digest into the served page as `<meta name="dl-record">`, and reads it back next run: same digest, no new edition, no rewrite. **The record travels inside the artefact it describes**, so no state file can fall out of step with it. `scripts/test_render_gate.py` exercises both directions — a gate that only ever holds off is indistinguishable from one that has stopped working.
 
-Hashing below the frontmatter is the whole trick: `compiled:` changes on every render, and so does the PDF's build date, so hashing the rendered file would mint an edition every night for a document that had not moved.
+Two things the gate deliberately does not do: it does not touch **naming** — the edition is the render date, so a moved document can never land on a name a citation already rests on — and it does not restyle a held-off edition, since the PDF embeds the stylesheet and *not revised after publication* is meant literally. `--force` re-cuts the whole set when a presentation change should reach it.
 
-**Implemented in `render.py` on 2026-08-18, twelve days after it was settled here** *(and see §8 for what the gap cost)*. `render()` digests the body below the frontmatter, stamps the digest into the served page as `<meta name="dl-record">`, and reads it back on the next run: same digest, no new edition and no rewrite of anything. **The record travels inside the artefact it describes**, so there is no state file beside the output that could fall out of step with it — the page a reader browses is also the gate's memory of what that page was cut from. `scripts/test_render_gate.py` exercises both directions, because a gate that only ever holds off is indistinguishable from one that has stopped working. Two things it deliberately does not do: it does not touch **naming** — the edition is still the render date, so a document that has moved can never land on a name a citation already rests on (the 2026-08-13 overwrite) — and it does not restyle a held-off edition, since the PDF embeds the stylesheet and *not revised after publication* is meant literally. `--force` re-cuts the whole set when a presentation change should reach it.
+**Two editions can share a date**: the first is unsuffixed, the second takes `-2` — a daytime session forcing an update on a live issue is normal, not an edge case. `render.py` takes the first name of the day no retained PDF already carries; existence on disk is the test. **The first edition is never renamed when a second appears** — retrospective `-1` symmetry would break every URL already handed out. **Every script that reads editions parses and orders them with `render.py`'s own functions** — the script that names them is the one that reads them; two copies of one filename grammar fail silently the first time a `-2` is cut.
 
-**The bulletin refreshes its page while holding its edition, and it is the only document that does** *(Bill, 2026-08-21)*. The rule above — a held-off document is left entirely alone, page as well as PDF — was written for documents whose freshness is not itself news. The bulletin's is. A sweep that admits fifty sources of which none carries a publication date inside its two-day window has still updated it: we looked, and nothing was published. A page that goes on saying *last updated the 20th* through that reports neglect where there was work, and a reader cannot tell the two apart. So for `type: bulletin` a held-off render rewrites the **page**, under the edition it is already holding, and leaves the **PDF** alone. This is not the disagreement the rule forbids. The byline is a claim about the material and moves with the sweep; the colophon names the dated file it is offering and moves only when the material does; and a PDF is a snapshot, entitled to the stamp it was cut with. The digest stays what it always was — the body — so the gate holds off through a moved clock exactly as before, and the bulletin does not mint an edition a night.
+**The bulletin refreshes its page while holding its edition, and it is the only document that does.** Its freshness is itself news — *we looked, and nothing was published* — so a held-off render rewrites the page under the edition it is holding and leaves the PDF alone. The digest stays the body, so a moved clock cannot mint an edition; the byline is a claim about the material, the colophon names the dated file, and a PDF is a snapshot entitled to the stamp it was cut with.
 
-**The `-2` suffix is implemented too, the same day.** `render.py` takes the first name of the day no retained PDF already carries — existence on disk is the test, because the retained editions *are* the record of which names are spoken for. It applies to `--force` as well: a forced re-cut differs from what is published, which is what it is for, so writing it over the published name would change the bytes under a citation.
-
-**It could not go in alone, because two other scripts held their own idea of what an edition looks like.** `country.py` read one off the last three hyphen-separated parts of a PDF filename (`2026-08-18-2` parsed as `08-18-2`) and `topic-page.py` took the last name in a sorted list (`-2026-08-18-2.pdf` sorts *before* `-2026-08-18.pdf`, because `-` precedes `.`). Each was correct for exactly one filename grammar and would have failed silently the first time a second edition was cut in a day, by offering a superseded PDF from a page that looked entirely normal. **Both now parse and order editions with `render.py`'s own functions** — the script that names them is the one that reads them, which is this repo's standing rule about two copies of one mapping, applied where it was already broken.
-
-**Two editions can share a date, so the name has to survive it.** `SWEEP-CYCLE` is normally run overnight, but a session may be run during the day to force an update on a live issue *(Bill, 2026-08-06)* — so a same-date second edition is a normal occurrence, not an edge case. The first edition of a day is unsuffixed and the second takes `-2`: `KEN-status-2026-08-06.pdf`, then `KEN-status-2026-08-06-2.pdf`.
-
-**The first edition is never renamed when a second appears.** Retrospectively making it `-1` for symmetry would break every URL already handed out, which is the one thing this section exists to prevent. Asymmetry in the filenames is the price of permanence, and it is worth paying — most days have one edition, so most names stay clean.
-
-**This resolves what §6 previously held open, and better than the fudge it proposed.** The earlier suggestion was to treat status reports as uncitable, because dating every nightly re-render would have produced thousands of near-identical PDFs a year. With content-change minting the volume tracks real movement instead: a country whose ledger moves twice a year gets two editions, not seven hundred. All three report types are therefore citable, which is the right answer — the status report is the one a reader is most likely to have downloaded.
+With content-change minting, all three report types are citable — volume tracks real movement, and a country whose ledger moves twice a year gets two editions, not seven hundred.
 
 ### Which downloads are editions
 
-*(Settled 2026-08-18, on Bill's instruction that the finance CSVs should be dated and follow the same rules, and that the catalogue need not be.)*
+**Compiled findings are editions; indexes over other people's records are not.** That is the rule that decides every case:
 
-**The rule was written for the PDFs and had never reached the CSVs.** `site/countries/{ISO3}/{ISO3}-nonstate.csv`, its field dictionary and `site/finance/all-nonstate.csv` were overwritten in place on every build, at an undated URL, with a download button beside them — which is this section's opening scenario exactly, in the one format a reader is most likely to quote a figure straight out of. All three are now editions on the same terms as the reports.
-
-**The gate is a byte comparison, not a digest of the source.** A PDF carries its build date inside it and so differs from its predecessor on every render, which is why `render.py` has to compare a digest of the markdown it was made from. A CSV written from unchanged data is the same file, so the newest retained edition can simply be read back and compared — and the retained editions are then their own record, with nothing kept beside them that could fall out of step with what was actually published.
-
-**The data CSV and its field dictionary carry independent editions.** The dictionary describes the *columns*, which move far less often than the rows do, so pinning it to the data's edition would cut an identical copy of it every time one deal was added. A dictionary cut in August still describes a September edition's columns correctly, and its own date says when it last moved.
-
-**The undated predecessor is deleted when the dated edition first appears.** That does break a URL that was published, and it is the lesser of the two breakages: `site/` is generated but never purged, so a file that simply stops being written would go on being served indefinitely, and an undated URL left in place keeps inviting the citation this section exists to prevent. It has been live for days, against a rule meant to hold for years.
-
-**The catalogue is not an edition** *(Bill, 2026-08-18)*. `raw-catalogue.csv` stays at its undated URL, republished wholesale on every build. The distinction being drawn is between a compiled finding of ours — a ledger, a set of commitments, something a reader quotes a figure out of and may be asked to stand up — and an index over other people's records, which is what the catalogue is: every row points at a publisher's own document, and it is the pointer rather than the claim. It is worth naming as an exception to *no undated download URL exists at all* rather than leaving it as the one download that quietly does not follow the rule, because the argument for dating it would be the same argument, and if anyone ever cites a catalogue count as of a date, it should become an edition too.
-
-**The per-country cut on the country page follows the catalogue, not the finance CSV beside it** *(Bill, 2026-08-25, item 9)*. `site/countries/{ISO3}/{ISO3}-catalogue.csv` is the published catalogue with rows removed and nothing else — same sixteen columns, same order, cut by the same `places` test the count in the paragraph above it is made with — so it inherits the catalogue's answer rather than the finance table's: undated URL, republished wholesale on every build, no retained editions. Two files sit in the same folder under opposite rules, and the rule that decides which is which is the one this section is about. The finance CSV is our compiled finding about the country; the catalogue cut is an index over other people's records that happens to have been narrowed to it.
-
-**A filtered selection is a cut of it, and is not an edition either** *(2026-08-24)*. The page will now hand a reader the current filter as CSV or JSON, with the same sixteen columns as the whole file. The temptation was to tell them to cite the full download instead, as though that were the stable object — it is not, per the paragraph above. So what the export points at is **the view's own URL**, which re-cuts against whatever the catalogue holds when it is opened, and the build date rides in the filename to say which cut the file in hand was. `catalogue-filtered-download.md` is the record.
+- **The finance CSVs are editions** — per-country `{ISO3}-nonstate-{edition}.csv`, the all-Africa file, on the same terms as the reports. The gate for a CSV is a byte comparison against the newest retained edition (a CSV from unchanged data is the same file; a PDF never is, since it carries its build date inside it). The data CSV and its field dictionary carry independent editions — columns move far less often than rows.
+- **The catalogue is not an edition.** `raw-catalogue.csv` stays at its undated URL, republished wholesale on every build: every row points at a publisher's own document, and it is the pointer rather than the claim. If anyone ever cites a catalogue count as of a date, it should become an edition too.
+- **The per-country catalogue cut follows the catalogue, not the finance CSV beside it** — same columns, rows removed, undated, republished wholesale. Two files in one folder under opposite rules, and the compiled-finding test is what decides which is which.
+- **A filtered selection is a cut of the catalogue and not an edition either.** The export points at **the view's own URL**, which re-cuts against whatever the catalogue holds when opened, with the build date riding in the filename to say which cut the file in hand was.
 
 ### Not yet
 
-**DOIs.** Zenodo will mint one per dated edition and it is the academic gold standard, but it adds an external dependency and a deposit step to every publish. Revisit once the site is up. *(This used to read "the manifest carries most of the credibility without it", which no longer applies — the manifest is withdrawn. The case for a DOI is unchanged and its cost is unchanged; what has gone is the thing that was standing in for it.)*
+**DOIs.** Zenodo will mint one per dated edition — the academic gold standard — but it adds an external dependency and a deposit step to every publish. Revisit now the site is up.
