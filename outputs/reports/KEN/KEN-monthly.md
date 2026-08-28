@@ -1,11 +1,11 @@
 ---
 title: Kenya — monthly update, July – August 2026
-compiled: 2026-08-27
-period: 2026-07-01 to 2026-08-27
+compiled: 2026-08-28
+period: 2026-07-01 to 2026-08-28
 place: KEN
-ledger_rows: 153
+ledger_rows: 155
 not_held: 7
-record: 4323deae63fd
+record: a30eb654aa19
 ---
 
 # Kenya: monthly update, July – August 2026
@@ -88,7 +88,7 @@ Two financings were signed. A [EUR270m facility across 21 obligors in eight juri
 On 4 August the development lender committed [US$24.2m across three Kenyan lenders under the first catalytic first-loss guarantee transactions anywhere in Africa](https://www.ifc.org/en/pressroom/2026/ifc-supports-expansion-of-financing-for-kenya-s-small-businesses-through-the-first), backed by US$11m of concessional private-sector-window money and expected to catalyse about US$144.4m of local-currency lending to micro-enterprises. Only one of the three counterparties is a digital lender; the individual allocations are not disclosed, so what the structure buys in fintech terms cannot be read off the announcement.
 
 
-On the lending side, a guarantee structure was announced on 5 August: [a catalytic first-loss guarantee of US$24.2m across three Kenyan transactions, backed by US$11m of concessional financing, expected to catalyse about US$144.4m of local-currency lending to small and medium enterprises](https://www.4g-capital.com/post/4g-capital-partners-with-ifc-to-expand-financing-for-kenya-s-micro-and-small-businesses). The catalysed figure is an expectation rather than a disbursement.
+On the lending side, a guarantee structure was announced on 5 August: [a catalytic first-loss guarantee of US$24.2m across three Kenyan transactions, backed by US$11m of concessional financing, expected to catalyse about US$144.4m of local-currency lending to small and medium enterprises](https://www.4g-capital.com/post/4g-capital-partners-with-ifc-to-expand-financing-for-kenya-s-micro-and-small-businesses). The catalysed figure is an expectation rather than a disbursement. One of the three counterparties [reports having disbursed more than US$1bn cumulatively over thirteen years to micro and small businesses without collateral or financial records, underwriting on its own model rather than credit files](https://techcabal.com/2026/08/28/4g-capital/) — a lifetime total given in a profile, with no outstanding book, default rate or borrower count beside it.
 <!-- /narrative -->
 
 ## ICT Infrastructure
@@ -133,9 +133,7 @@ The presidency's website was [defaced on 18 July with a 5 BTC ransom demand and 
 
 A vendor threat report published on 13 August put the exposure at the ordinary end rather than the novel one: [malicious email attachments dominated, 46.2% of them scripts, quick-response-code phishing rose 145% between the second half of 2025 and the first of 2026, exploitation of a 2017 Office vulnerability more than doubled, and one loader became the country's fourth most-detected malware family](https://techtrends.africa/eset-threat-report-kenyan-organisations-are-being-attacked-by-the-basics/). The figures are the vendor's own detections, not a national incident series.
 
-The instrument establishing the new agency also reached the base this month, three months after it took effect. The [State Corporations (National Cybersecurity Agency) Order, 2026 — Legal Notice 89 of 2026, gazetted and commenced on 15 May 2026 — makes it an autonomous body corporate headquartered in Nairobi City County under the direction of the Cabinet Secretary for internal security, charged with formulating national cybersecurity strategy, auditing and certifying the resilience of designated critical information infrastructure, running the National Cybersecurity Operations Centre and maintaining a Cybersecurity Centre of Excellence, with a board seating the internal-security, Treasury and ICT principal secretaries alongside one academic and one private-sector appointee](https://new.kenyalaw.org/akn/ke/act/ln/2026/89/eng@2026-05-15). Nothing in the record shows it exercising any of those powers yet.
-
-The President [appointed a director to lead the National Cybersecurity Agency](https://www.kbc.co.ke/dr-martin-koyabe-appointed-to-lead-national-cybersecurity-agency/). The agency now has named leadership and, on this record, no constitutive instrument, budget line or published function; the National Cybersecurity Policy beside it is still only planned.
+The instrument establishing the new agency also reached the base this month, three months after it took effect. The [State Corporations (National Cybersecurity Agency) Order, 2026 — Legal Notice 89 of 2026, gazetted and commenced on 15 May 2026 — makes it an autonomous body corporate headquartered in Nairobi City County under the direction of the Cabinet Secretary for internal security, charged with formulating national cybersecurity strategy, auditing and certifying the resilience of designated critical information infrastructure, running the National Cybersecurity Operations Centre and maintaining a Cybersecurity Centre of Excellence, with a board seating the internal-security, Treasury and ICT principal secretaries alongside one academic and one private-sector appointee](https://new.kenyalaw.org/akn/ke/act/ln/2026/89/eng@2026-05-15). Nothing in the record shows it exercising any of those powers yet. Leadership was named in the same month: an inaugural non-executive chair was announced and the President [appointed a director to lead it](https://www.kbc.co.ke/dr-martin-koyabe-appointed-to-lead-national-cybersecurity-agency/). No budget line, staff complement or first published function is on file, and the National Cybersecurity Policy beside it is still only planned.
 <!-- /narrative -->
 
 ## DPI
@@ -157,7 +155,7 @@ Government is [procuring a system to cut identity-card issuance to ten days and 
 
 Two identity systems met the courts instead. The High Court [barred the transport authority from discontinuing physical vehicle logbooks](https://www.the-star.co.ke/news/2026-08-11-court-preserves-validity-of-ntsa-physical-logbooks) on 11 August, pending a petition arguing the electronic logbook was introduced without public participation and without adequate data-protection and cybersecurity impact assessments. Separately, the Attorney-General's six-month window to legislate on phone-number recycling, opened by the March judgment recognising a registered number as a protected digital identifier, [was still open in August with nothing tabled](https://www.kictanet.or.ke/https-www-kictanet-or-ke-phone-number-recycling-digital-identity-kenya/), while banks, savings societies and platforms continue to rely on numbers after reassignment.
 
-The transport and safety authority [announced a Sh42 billion public-private partnership to roll out smart driving licences over twenty-one years](https://swalanyeti.co.ke/business/article/11563/ntsa-unveils-sh42-billion-ppp-to-roll-out-smart-driving-licences-over-21-years). A twenty-one-year concession over a national credential is a long commitment, and no concessionaire, financial close or first issuance date is named.
+The transport and safety authority's own disclosure notice under the PPP Act settles the smart driving licence partnership the base had held only in summary: a twenty-one-year Strategic Partnership with [a KCB Bank Limited and Pesa Print consortium, estimated at KSh 42bn over its first two to three years and funded entirely from private debt and equity, approved by Cabinet on 15 December 2025 after the Attorney-General cleared the draft agreement in January](https://gaa.go.ke/sites/default/files/2026-02/NTSA%20Public%20Notice%20on%20Disclosure%20On%20The%20Implementation%20Of%20The%20Public%20Private%20Partnership%20%28PPP%29%20Strategic%20Partnership%20For%20The%20Design%2C%20Supply%2C%20Delivery%2C%20Installation%20And%20Maintenance%20Of%20Smart%20Driving%20Licences%20And%20Associated%20Services.pdf). It is to issue 5 million polycarbonate cards every three years, stand up 102 enrolment centres, install 700 fixed and 300 mobile speed cameras behind a national command centre, and carry a licence wallet taking deposits and payments. The project began in 2017 with the National Bank of Kenya and passed to KCB by novation after Access Bank bought NBK. No financial close or first issuance date is named.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
@@ -168,6 +166,8 @@ Borrowers can [repay Hustler Fund loans in loyalty points from 23 July](https://
 
 <!-- narrative: dpi--dpi-registry -->
 The registry movement in the window is a proposal rather than a build. The National Qualifications Framework (Amendment) Bill, 2026 [proposes a national database of qualifications established, maintained and published by the qualifications authority, extending to foreign qualifications recognised in Kenya, with awarding institutions required to notify the authority within 90 days of issuing a qualification](https://thekenyatimes.com/education/new-bill-proposes-national-database-to-track-university-and-college-qualifications/). What it would add to the register estate is a verification route for a credential, which the base currently has no instrument for. The Bill itself is now on file, [gazetted on 24 July 2026 as National Assembly Bills No. 53](https://www.parliament.go.ke/sites/default/files/2026-08/THE%20KENYA%20NATIONAL%20QUALIFICATIONS%20FRAMEWORK%28AMENDMENT%29%20BILL%2C2026.pdf). Nothing is settled beyond that: it is a bill, with no enactment date, hosting arrangement or access rule on record.
+
+A second register was announced rather than built. The agriculture cabinet secretary is championing a nationwide rollout of an [animal identification and traceability system giving every head of livestock a unique identity and a lifetime record of origin, ownership, health, vaccination and movement, tagged physically and linked to a central platform readable by veterinarians, abattoirs and traders](https://ynews.digital/development-news/kagwe-digital-ids-livestock-theft/). No operator, legal basis, budget or start date accompanies it.
 <!-- /narrative -->
 ### Sectoral management information systems
 
@@ -196,6 +196,8 @@ The draft AI policy was published for comment on 21 July and comment closed on 4
 An analysis published on 23 July recorded that the National AI Strategy, costed at KSh 152bn over five years, [carries no dedicated allocation in the 2026/27 budget](https://cipesa.org/2026/07/rethinking-africas-approach-to-the-politics-of-ai-governance-and-regulation/). On 28 July the government and the UN development programme agreed progress on a national AI computing platform; no GPU count, cost or commissioning date was published. Kenya was named on 31 July as one of five governments launching a pooled African-language AI initiative.
 
 The draft then drew its first substantive submission, and a headline figure. A civil-society organisation [urged institutional independence for the proposed AI council and mandatory human-rights impact assessments](https://cipesa.org/2026/08/cipesa-urges-kenya-to-align-and-strengthen-its-draft-ai-policy/) on 14 August, with the draft reported as nearing Cabinet consideration. Alongside it, a commercial data compiler's mid-year update [put 97.5% of Kenya's online adults using an artificial-intelligence tool monthly, first globally, ahead of the United Arab Emirates at 94.2% and Indonesia at 93.6%](https://www.itweb.africa/article/kenya-tops-global-ai-usage-rankings/5yONP7Ero1NMXWrb). It is a self-reported survey of online adults rather than a population measure.
+
+The ministry meanwhile put up an assistant of its own. The ICT cabinet secretary [put up a platform, hosted on his own official website, intended as a single entry point routing citizens to the agency or service responsible for a given digital programme](https://www.kenyans.co.ke/news/126535-cs-kabogo-unveils-ai-platform-transform-ict-ministry-operations); its developers say it will launch once the underlying information, routing and review safeguards are in place, so it is not yet answering questions. A public-information service sited on a minister's website rather than a government domain carries no stated operator or accountability route.
 <!-- /narrative -->
 ### Innovation ecosystem
 

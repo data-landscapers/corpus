@@ -131,6 +131,33 @@ def prose_spans(text):
             for m in MARKER.finditer(text)]
 
 
+FRONTMATTER = re.compile(r"\A---\r?\n.*?\r?\n---\r?\n", re.S)
+NOT_PROSE = re.compile(r"\A\s*(?:#|\||>|<!--|```|-{3,}\s*\Z|[-*+]\s|\d+[.)]\s)")
+
+
+def body_spans(text):
+    """`prose_spans()` for a document whose prose is the body itself, not a marked block.
+
+    An initialised unit's status report is authored by hand and carries no `<!-- narrative -->`
+    markers, so `prose_spans()` returns nothing for it — and a register check that reads nothing
+    printed `0 register hit(s)` over 40 published documents, which is indistinguishable from
+    having checked them. Paragraphs are the unit: a run of lines that is not frontmatter, a
+    heading, a table row, a list item, a blockquote, a fence or an HTML comment."""
+    body = text[FRONTMATTER.match(text).end():] if FRONTMATTER.match(text) else text
+    offset = len(text) - len(body)
+    out, fenced = [], False
+    for m in re.finditer(r"[^\n]*(?:\n|\Z)", body):
+        line = m.group(0)
+        if line.strip().startswith("```"):
+            fenced = not fenced
+            continue
+        if fenced or not line.strip() or NOT_PROSE.match(line):
+            continue
+        raw = line.rstrip("\n")
+        out.append((offset + m.start(), mask_urls(raw), ANCHOR.sub(r"\1", raw), raw))
+    return out
+
+
 def line_of(text, offset):
     return text.count("\n", 0, offset) + 1
 
@@ -291,9 +318,9 @@ def check_indicators_file(path, bands):
                 figs.append((line, f"{iid}/{field}", bare))
     return sorted(hits), sorted(over), sorted(figs)
 
-def check_file(path, budget):
+def check_file(path, budget, authored=False):
     text = open(path, encoding="utf-8").read()
-    spans = prose_spans(text)
+    spans = body_spans(text) if authored else prose_spans(text)
     hits, words, figs = [], 0, []
     for start, block, countable, raw in spans:
         words += len(re.sub(r"\[([^\]]*)\]", r"\1", countable).split())
@@ -374,13 +401,24 @@ def main():
         legacy = kind == "progress" and not region
         if legacy and not MARKER.search(open(path, encoding="utf-8").read()):
             continue                             # re-rendered: its prose is in indicators.csv now
-        if not legacy and kind not in band_for:  # a document the unit's skeleton does not budget
+        # **An initialised unit's status report is authored, not rendered, and carries no
+        # narrative markers** — `BUILD.md` → *Maintaining the status baseline*. Reading it for
+        # marker words scored 40 of the 54 status reports at nought and reported each of them
+        # 1,000 words under band, while every one of them held thousands of words of live prose:
+        # the same defect this file already names for the progress document, in the one place a
+        # deficit can never be true. The band is dropped for it; the register and check H are
+        # not, because unlike the progress case the prose is in this document and nowhere else.
+        authored = (kind == "status" and not region
+                    and not MARKER.search(open(path, encoding="utf-8").read()))
+        if not (legacy or authored) and kind not in band_for:  # not budgeted by the skeleton
             continue
-        hits, words, figs = check_file(path, band_for)
+        hits, words, figs = check_file(path, band_for, authored=authored)
         rel = os.path.relpath(path, ROOT)
         if legacy:
             # No band, and said so rather than printed as a clean nought.
             head = f"{rel}  {words} words (not budgeted — prose moves to indicators.csv)"
+        elif authored:
+            head = f"{rel}  (not budgeted — authored baseline, prose outside the markers)"
         else:
             lo, hi = band_for[kind]
             band = "" if lo <= words <= hi else (f"  OVER by {words - hi}" if words > hi
