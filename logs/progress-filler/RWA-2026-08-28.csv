@@ -1,0 +1,53 @@
+indicator_id,subject,briefs_run,candidates_returned,fetched,staged_baseline,staged_progress,not_selected,dropped,drop_codes,outcome,subject_rows_at_probe
+gov.policy--data-storage-cloud-strategy,gov.policy,2,11,4,1,2,1,1,already-seen,staged,7
+gov.policy--data-interoperability-framework-roadmap,gov.policy,2,9,4,1,2,1,0,,staged,7
+gov.policy--data-localisation-policies,gov.policy,2,7,3,1,1,1,0,,staged,7
+gov.policy--open-data-policy,gov.policy,2,6,2,1,1,0,0,,staged,7
+gov.legislate--cybersecurity-legislation,gov.legislate,2,7,3,1,2,0,0,,staged,3
+gov.legislate--legislation-enabling-data-interoperability,gov.legislate,2,7,3,1,2,0,0,,staged,3
+gov.legislate--e-commerce-legislation,gov.legislate,2,8,2,1,1,0,0,,staged,3
+gov.legislate--statistics-legislation,gov.legislate,2,9,3,1,2,0,0,,staged,3
+gov.legislate--access-to-information-legislation,gov.legislate,2,8,3,1,1,1,0,,staged,3
+gov.standards--national-quality-standards,gov.standards,2,9,3,1,2,0,0,,staged,2
+gov.discourse--open-discussion-of-government-policy,gov.discourse,2,10,3,1,2,0,0,,staged,1
+infra.connect--mobile-affordability,infra.connect,2,7,4,1,2,1,0,,staged,16
+infra.connect--internet-exchange-points,infra.connect,2,9,3,1,2,0,0,,staged,16
+infra.store--off-site-backup-capacity,infra.store,2,6,3,1,2,0,0,,staged,6
+infra.energy--grid-reliability,infra.energy,2,8,3,1,2,0,0,,staged,1
+infra.energy--rural-electrification,infra.energy,2,8,4,1,2,0,0,,staged,1
+infra.capacity--robustness-of-government-hardware-and-software,infra.capacity,2,6,2,1,1,0,0,,staged,2
+digital.localgov--digitalisation-of-local-government-records,digital.localgov,2,8,3,1,2,0,0,,staged,1
+digital.rural--digitalisation-of-rural-health-clinics,digital.rural,2,8,3,1,2,0,0,,staged,1
+digital.rural--digitalisation-of-rural-registry-offices,digital.rural,2,8,3,1,2,0,0,,staged,1
+digital.rural--digitalisation-of-rural-police-stations,digital.rural,2,5,1,1,0,0,0,,staged,1
+tech.ai--use-of-ai-in-government-administration,tech.ai,2,4,2,0,2,1,0,,staged,12
+dpi.exchange--use-of-digital-id-in-other-systems,dpi.exchange,2,8,3,1,2,3,0,,staged,3
+dpi.exchange--interoperability-of-health-systems,dpi.exchange,2,8,3,1,2,3,0,,staged,3
+dpi.exchange--interoperability-of-education-systems,dpi.exchange,2,7,3,1,2,2,0,,staged,3
+dpi.exchange--interoperability-of-social-protection-systems,dpi.exchange,2,7,3,1,2,2,0,,staged,3
+dpi.id--national-maintenance-of-id-and-credentials-systems,dpi.id,2,7,3,1,2,2,0,,staged,5
+dpi.id--authentication,dpi.id,2,8,3,1,2,1,0,,staged,5
+dpi.id--digital-id-from-birth,dpi.id,2,7,3,1,2,2,0,,staged,5
+dpi.id--interoperability-of-birth-registration-and-digital-id,dpi.id,2,7,3,1,2,1,0,,staged,5
+dpi.pay--g2p-functionality,dpi.pay,2,8,3,1,2,2,0,,staged,8
+dpi.pay--revenue-collection,dpi.pay,2,9,3,1,2,2,0,,staged,8
+dpi.pay--p2p-p2g-and-p2b-functionality,dpi.pay,2,8,3,1,2,2,0,,staged,8
+dpi.pay--consumer-protection,dpi.pay,2,8,3,1,2,3,0,,staged,8
+dpi.registry--population-register,Population register,2,5,3,1,2,2,0,,staged,5
+dpi.registry--address-register,Address register,2,8,0,0,0,8,0,,nil,5
+dpi.registry--electoral-register,Electoral register,2,11,1,1,0,10,0,,staged,5
+dpi.registry--tax-register,Tax register,2,6,3,1,2,3,0,,staged,5
+dpi.mis--education,Education,2,9,3,1,2,6,0,,staged,3
+dpi.mis--social-protection,Social protection,2,8,3,1,2,5,0,,staged,3
+dpi.mis--justice,Justice,2,6,2,1,1,4,0,,staged,3
+dpi.mis--customs,Customs,2,7,2,1,1,5,0,,staged,3
+dpi.mis--land,Land,2,7,4,1,2,3,1,headline-only-stub,staged,3
+capacity.training--graduates-entering-dt-ecosystem,Graduates entering DT ecosystem,2,10,3,1,2,7,0,,staged,3
+include.access--citizen-feedback-portals,include.access,2,7,2,1,0,1,0,,staged,2
+include.access--citizen-participation-in-policy,include.access,2,7,4,1,0,3,0,,staged,2
+include.access--gender-equity,include.access,2,8,3,1,2,0,0,,staged,2
+include.access--inclusion-of-persons-with-disabilities,include.access,2,8,3,1,2,0,0,,staged,2
+include.access--inclusion-of-refugees-and-idps,include.access,2,9,4,1,2,1,0,,staged,2
+data.statistics--national-strategy-for-development-of-statistics,data.statistics,2,8,3,1,2,0,0,,staged,1
+data.statistics--censuses-and-surveys,data.statistics,2,9,3,1,2,0,0,,staged,1
+data.satellite--meteorological-use-of-satellite-data,data.satellite,2,7,3,1,1,1,0,,staged,2
