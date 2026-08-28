@@ -1,3 +1,5 @@
+- **2026-08-28 22:50** - ok - osint(robocopy=2 bundle=0) corpus(robocopy=3 bundle=0) ffs=0
+- **2026-08-28 22:47** - FAIL - osint(robocopy=3 bundle=0) corpus(robocopy=3 bundle=0) ffs=1
 - **2026-08-27 23:28** - ok - osint(robocopy=3 bundle=0) corpus(robocopy=3 bundle=0) ffs=0
 - **2026-08-27 16:20** - ok - osint(robocopy=3 bundle=0) corpus(robocopy=3 bundle=0) ffs=0
 - **2026-08-27 16:14** - FAIL - osint(robocopy=3 bundle=0) corpus(robocopy=3 bundle=0) ffs=1
