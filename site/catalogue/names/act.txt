@@ -292,7 +292,7 @@ Act. Repeal	1333,9845
 Act. SCHEDULE	3714
 Act. SCOPE OF APPLICATION	11255
 Act. SECTION	10974
-Act. Section	7832
+Act. Section	7832,3981
 Act. Seychelles	3
 Act. Short	11178
 Act. Sphere	11179
@@ -419,7 +419,7 @@ Acting Undersecretary of Finance	9588
 Acting WHO Somalia Representative Dr Mohamed	11655
 Acting World Bank Country Representative Oyewole	2604
 Acting World Bank Regional Integration Director	5400
-Action	252,215,176,146,49,7,125,30,131,87,10,217,3,3,1,2,3,97,76,148,24,186,160,584,157,77,415,15,187,204,4,19,317,34,235,155,615,114,1184,328,144,102,1,103,454,45,29,31,17,140,646,495,23,226,151,1315,115,29,11,5,2,409,132,112
+Action	252,215,176,146,49,7,125,30,131,87,10,217,3,3,1,2,3,97,76,148,24,186,160,584,157,77,415,15,187,204,4,19,317,34,235,155,615,114,1184,328,144,102,1,103,454,45,29,31,17,140,646,495,23,226,151,1315,115,29,11,5,2,409,132,112,311
 Action Accountability	6936
 Action Activité Article Paragraphe Ces	3396
 Action Africa	7334
@@ -1136,6 +1136,7 @@ Connecting the World Industry Matching Activity	7407
 Conseil de Régulation des Activités de Sécurité	8269
 Conservation Act	6921
 Consolidated Transactional Activities	4517,2461
+Constitution of Zimbabwe and Children's Act	11791
 Constitutional Amendment Act No	7782
 Constitutional CourtComputer Misuse ActJustice Besigye	5422
 Construction Act	1988
@@ -1604,7 +1605,7 @@ Finance Act	1154,771,1658,1019,2319,865,2278,324
 Finance Management Act	6946,602
 Finance Management Act PMDS Performance Management	11224
 Financial Act	2023
-Financial Action Task Force	789,3081,257,268,453,63,123,292,889,505,671,114,14,645,16,14,377,434,669,3,455,23,620,356,7,74,77
+Financial Action Task Force	789,3081,257,268,453,63,123,292,889,505,671,114,14,645,16,14,377,434,669,3,455,23,620,356,7,74,77,532
 Financial Advisory and Intermediary Services Act	8840,84
 Financial Capability Strategic Actions	940
 Financial Crimes Act	9220,121
@@ -1764,7 +1765,7 @@ IA Actualmente	2816
 ICASA Act	4732,1140,1952,3387,24,27
 ICASA Action	11195
 ICT ACT The ICT	2913
-ICT Act	1988,925,643,6474,1618
+ICT Act	1988,925,643,6474,1618,140
 ICT GVA Activity	236
 ICT. The Data Protection Act	10594
 IDENTIFICATION ACT	11213
@@ -2062,7 +2063,8 @@ Mauritania’s National Strategy and Action Plan	1264
 Mauritius Accreditation Service Act	7845
 Mauritius Agricultural Marketing Act	7845
 Mauritius Citizenship Act	7845
-Mauritius Companies Act	9507,1,407
+Mauritius Companies Act	9507,1,407,1898
+Mauritius Companies Act NRS	11813
 Mauritius Insolvency Act	9508
 Mauritius Institute of Training and Development Act	7845
 Mauritius Qualifications Authority Act	7845
@@ -2352,12 +2354,13 @@ POBLADOS CATEGORÍA MINISTERIO CONCEPTO ACTUAL CATEGORÍA	4209
 POPI Act	2117,5905,1106,2124
 PPCC Act	3438
 PPDA Acting Director General Timothy Kalembo	5668
-PPP Act	5793
+PPP Act	5793,5996
 PPP Act. The National Treasury	5793
 PR Activity Schedule Media Elements	8999
 PRESIDENT TINUBU SIGNS NIMC ACT	6871
 PRINCIPAIS ACTIVIDADES DESENVOLVIDAS PELO GOVERNO	2816
 PRINCIPAIS ACTIVIDADES PLANIFICADAS	2816
+PRINCIPLES OF THE WATER ACT AMENDMENT	11791
 PROGRAMMES OBJECTIFS RESULTATS ATTENDUS ACTIONS	10712
 PROTECTION ACT	972
 PROTECTION AND PRIVACY ACT	5113
@@ -2529,6 +2532,7 @@ Public Audit Act	6946,1988,1379,934,5,212
 Public Audit Act No	741
 Public Enterprises Governance Act	3714,3616
 Public Entities Corporate Governance Act	1154,400
+Public Entities and Corporate Governance Act	11791
 Public Finance Act	9492
 Public Finance Management Act	1154,400,1182,315,2057,425,1413,602,362,854,170,1085,294,871,14,1,31,10,7,3,2,11,16,1,184
 Public Finance Management Act Part	9437
@@ -2787,7 +2791,7 @@ South Africa Actis	448
 South Africa's Electronic Communications Act	4244
 South Africa's Protection of Personal Information Act	11677
 South African Citizenship Act	5533
-South African Human Rights Commission Act	6305,4960
+South African Human Rights Commission Act	6305,4960,579
 South African Passports and Travel Documents Act	5533
 South African Police Service Act	11188,2,361
 South African Reserve Bank Act	11190
@@ -3089,7 +3093,7 @@ WSIS Action Lines	7172
 Waqf Act	7845
 Waste Management Act	1988
 Waste Management and Resource Recovery Act	7845
-Water Act	9437
+Water Act	9437,2354
 Water Resources Management The Act	1988
 Water Supply and Sanitation Act	6921
 Wearables Are Actually Being Tested	9456
@@ -3137,6 +3141,7 @@ Zanzibar Health Services Fund Act	11133
 Zanzibar the Microfinance Act No	7763
 Zimbabwe Action Responsibility	958
 Zimbabwe Data Protection Act	958
+Zimbabwe National Water Authority Act	11791
 Zimbabwe Zimbabwe’s Constitution Amendment Act No	5733
 Zimbabwe's Cyber and Data Protection Act	3130,6857
 de PLs Actifs PLs	10975

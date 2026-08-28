@@ -186,6 +186,8 @@ Conta de Depósito de Aceitante	11438
 Controlled Deployment and Pilot Activation	6442
 Controller and Accountant-General's Department	3287
 Conveyancing Department	3379
+Corporate Communications and Public Affairs Department EAC	11806
+Corporate Communications and Public Affairs Department Tel	11807
 Corporate Department	10562
 Corporate Social Investment. Both Departments	11220
 Council of Ministers Department for Science	11135
@@ -443,7 +445,7 @@ Department of Communication Arts	6936
 Department of Communication and Digital Technologies	1695,4488
 Department of Communications	6467,513,157,181,3861,75
 Department of Communications and Digital	10729
-Department of Communications and Digital Technologies	1912,28,177,1147,1911,23,1,399,371,85,299,479,74,74,116,418,74,14,377,109,43,304,511,730,24,59,121,55,194,877,6,158,25,4,31,5,19,11,230
+Department of Communications and Digital Technologies	1912,28,177,1147,1911,23,1,399,371,85,299,479,74,74,116,418,74,14,377,109,43,304,511,730,24,59,121,55,194,877,6,158,25,4,31,5,19,11,230,350
 Department of Communications. Accenture	428
 Department of Community Development	11133
 Department of Computer Science	766,4647,3191,1779,953
@@ -627,7 +629,7 @@ Departments	969,162,541,1,62,552,244,95,21,1,131,210,615,522,1119,199,349,484,11
 Departments Achieved Presidential Hotline Members	11224
 Departments Affected By Supplementary Budget	2428
 Departments Sector	7548
-Departments and Agencies	789,169,1569,248,2253,907,497,76,636,225,379,120,253,246,54,19,192,348,1,235,514,224,98,11,94,1,155,290,78,1076,18
+Departments and Agencies	789,169,1569,248,2253,907,497,76,636,225,379,120,253,246,54,19,192,348,1,235,514,224,98,11,94,1,155,290,78,1076,18,16
 Departments and Agencies CIRCIA Cyber Incident Reporting	6936
 Departments and Agencies Independent	7548
 Departments and Agencies M&E Monitoring and Evaluation MFD	1264
@@ -763,7 +765,7 @@ Depth Pan-African	4030
 Depth Research	4776
 Depth The Secretary General	5878
 Depto de Fiscalização da Divisão de Regulação	2784
-Depuis	12,1426,241,127,16,439,81,12,23,72,2,105,137,75,198,54,78,2,5,14,38,38,72,89,43,127,64,218,225,103,102,129,55,37,20,295,107,1,75,97,380,92,192,22,142,6,104,1,164,6,61,11,160,225,84,139,214,63,63,97,75,19,47,13,28,120,88,5,39,77,39,58,13,67,60,35,173,289,28,66,22,37,43,29,49,92,2,39,21,66,25,10,111,13,102,44,2,183,1,71,150,313,195,20,14,13,105,48,28,81,94,41,29,108,6,87,73,29,59,42,476,56,60,76
+Depuis	12,1426,241,127,16,439,81,12,23,72,2,105,137,75,198,54,78,2,5,14,38,38,72,89,43,127,64,218,225,103,102,129,55,37,20,295,107,1,75,97,380,92,192,22,142,6,104,1,164,6,61,11,160,225,84,139,214,63,63,97,75,19,47,13,28,120,88,5,39,77,39,58,13,67,60,35,173,289,28,66,22,37,43,29,49,92,2,39,21,66,25,10,111,13,102,44,2,183,1,71,150,313,195,20,14,13,105,48,28,81,94,41,29,108,6,87,73,29,59,42,476,56,60,76,34
 Deputada Joana Lina Ramos Baptista	11365
 Deputada Maria de Lourdes Roque Caposso Femandes	539
 Deputada Maria de Lourdes Roque Caposso Fernandes	539
@@ -798,7 +800,7 @@ Deputy CEO of Lonestar Cell	4285
 Deputy CTO	8379
 Deputy Chairman	3714
 Deputy Chairmen	3714
-Deputy Chairperson	8866,2265,3,65
+Deputy Chairperson	8866,2265,3,65,640
 Deputy Chief	10701
 Deputy Chief Agriculture Officer Prof. Aiah	9965
 Deputy Chief Executive Officer	587,3676,4773
@@ -1089,6 +1091,7 @@ Fintech and Innovation Department	7464,142,1126,802
 First Department of Home Affairs	11222
 First Deputy Director of Cabinet Resolution	4640
 First Deputy Governor of CBS Senior	6938
+First Deputy Prime Minister and Minister of East	11806
 Fiscal Affairs Department	1828
 Fiscal Transparency Report Summary The Department	11005
 Fiscal Transparency The Department	11005
@@ -1566,6 +1569,7 @@ South Africa. Science and Innovation Department	1940
 South Africa. The Department	7757
 South African Department of Health	2948
 South African National Department of Health	1009
+South African Police Service and Department of Defence	11845
 South Africa’s Department of Home Affairs	10185
 South Africa’s Department of Social Development	8006
 South Africa’s Department of Trade	9720

@@ -112,7 +112,7 @@ Authority for Regulation of Telecommunications and Posts	4803
 Authority of Regulation of Public Procurement	10870
 Authority's Regular	4251
 Autoridad Reguladora	1701
-Autoridade Reguladora	1338,1528,1408,2188,360,1836,283,493,125,1220
+Autoridade Reguladora	1338,1528,1408,2188,360,1836,283,493,125,1220,1016
 Autoridade Reguladora Nacional	2701,8817,1,1,11,11,10,3,14,14
 Autoridade Reguladora Nacional. ARTIGO	11520
 Autoridade Reguladora da Concorrência	11430
@@ -205,7 +205,7 @@ Communication Regulatory Authority of Namibia	2588,5039,623
 Communication Technologies and Media Regulators Forum	8272
 Communications Regulators Association of Lilongwe	5241
 Communications Regulators Association of Southern Africa	11211
-Communications Regulators' Association of Southern Africa	6427
+Communications Regulators' Association of Southern Africa	6427,5371
 Communications Regulators’ Association of Southern Africa	318,5554,180,3640
 Communications Regulatory Authority	1640,288,749,2410,2114,2619
 Communications Regulatory Authority of Mozambique	3783,2104
@@ -510,6 +510,7 @@ Government Regulation No	11310
 Governments and Regulators	5675
 Great Regulator	2776
 Green AI and Digital Regulations NEMA	7548
+Group Chief Regulatory Officer	11800
 Group Executive and Head of Regulatory	4896
 Group Head of Regulatory	4896
 Harmonisation of Regulations and Regulatory Policies	4785
@@ -599,10 +600,12 @@ International Health Regulations IMCI	10776
 International Medical Device Regulators Fo-	8301
 International Medical Device Regulators Forum	3651,4650
 Internet da Autoridade Reguladora	2866
+Interoperability and Regulation	11819
 Issuing Directive and Regulation	7538
 JOSÉ EDUARDO DOS SANTOS. REGULAMENTO	11360
 JOÃO MANUEL GONÇALVES LOURENÇO. REGULAMENTO	744,50
 José Mário Vaz. REGULAMENTO GERAL	11527
+Junho. O Regulamento	11795
 Jurisdictional Complexity and Regulatory Overlap	4848
 Kagame Says... Under New Regulations	3256
 Key Regulatory Gaps	4848
@@ -641,7 +644,7 @@ Legal and Regulatory Compliance Requirements NIMC.pdf	4794
 Legal and Regulatory Dimension	5676
 Legal and Regulatory Environment	1777
 Legal and Regulatory Environment Liberia	1777
-Legal and Regulatory Framework	718,240,42,6548,2307
+Legal and Regulatory Framework	718,240,42,6548,2307,1936
 Legal and Regulatory Framework Digital	9855
 Legal and Regulatory Framework Kenya	7548
 Legal and Regulatory Framework Supporting the Implementation	11006
@@ -664,6 +667,7 @@ License Regulatory Fees Fee	10407
 License and Regulatory Fees	10407
 Licensing Regulations	1988,1957
 Licensing and Regulations Department	9859,1
+Local Regulatory Practice	11819
 Localisation Requirements Regular Legal	6432
 MACRA G5 Regulatory Collaboration Summit	6052
 MATTERS PREAMBLE A. These Regulations	11233
@@ -781,6 +785,7 @@ Non-Traditional Consumer Lending Regulation	7600
 Non-Traditional Consumer Lending Regulations	3538,5043
 NonBank Financial Institutions Regulatory Authority	6938
 Nov-2025 Executive Regulations	3525
+Novo Regulamento de Licenciamento de Telecomunicacoes	11795
 Nuclear Energy Regulation and Management	11272
 Number of Regulations	1228
 Numbering Plan Fourth Amendment Regulat	4732
@@ -1028,7 +1033,7 @@ Regulamentação da Inteligência Artificial da União Europeia	2816
 Regulamentação de Cartões de Pagamento	11403
 Regulamentações	2816
 Regulamentações de Danos Ambientais	11390
-Regulamento	13,563,168,50,1,1642,1,378,50,380,273,755,895,1293,2283,219,1786,4,1,28,576,1,9,4,17,15,14,11,1,14,3,4,15,21,31,1,11,11,27
+Regulamento	13,563,168,50,1,1642,1,378,50,380,273,755,895,1293,2283,219,1786,4,1,28,576,1,9,4,17,15,14,11,1,14,3,4,15,21,31,1,11,11,27,226
 Regulamento ANEXO II	794
 Regulamento C	11531
 Regulamento Constituição da República de GuinéBissau Lei	11542
@@ -1075,6 +1080,7 @@ Regulamento de Fiscalização da Qualidade	2816
 Regulamento de Funcionamento	11443
 Regulamento de Gestão	11443
 Regulamento de Implementação	11448
+Regulamento de Licenciamento de Telecomunicacoes	11795
 Regulamento de Oferta de Redes	11520
 Regulamento de Padrões de Desenvolvimento de Sistemas	2816
 Regulamento de Procedimento de Consulta Pública	11520
@@ -1235,7 +1241,7 @@ Regulator Upholds Local Ownership Rules	6785
 Regulator of Immigration Law	10841
 Regulator of South Africa NNR National Nuclear	11228
 Regulator. The Consumer	11138
-Regulators	940,18,3,851,2049,260,74,388,265,80,156,257,31,303,6,182,192,1,92,100,137,284,163,2,104,235,8,279,88,58,39,570,68,181,199,54,410,52,317,112,130,21,28,30,138,120,80,185,230,83,65,138,215,60,3,33,584
+Regulators	940,18,3,851,2049,260,74,388,265,80,156,257,31,303,6,182,192,1,92,100,137,284,163,2,104,235,8,279,88,58,39,570,68,181,199,54,410,52,317,112,130,21,28,30,138,120,80,185,230,83,65,138,215,60,3,33,584,68
 Regulators AI	7548
 Regulators Algeria Financial Stability Committee Angola	6938
 Regulators Chief Executive Officer	6938
@@ -1245,11 +1251,12 @@ Regulatory Actions Report	8354,570
 Regulatory Administration	236
 Regulatory Administration Division	8247
 Regulatory Adviser	3678
+Regulatory Affairs	11800
 Regulatory Agencies Key	7548
 Regulatory Agencies and County Focal Points Sector	7548
 Regulatory Agency	718,251,2682,45,105
 Regulatory Agency for Post and Electronic Communications	3805
-Regulatory Agency for Posts and Electronic Communications	2306
+Regulatory Agency for Posts and Electronic Communications	2306,9541
 Regulatory Alignment	5665
 Regulatory Approach Risk-based	11268
 Regulatory Approval and Ongoing Monitoring	3861
@@ -1370,6 +1377,7 @@ Regulatory and Legal Significance	11313
 Regulatory and Market Environment	26,1,1
 Regulatory and Market Incentives	6936
 Regulatory and Operational Reporting	9855
+Regulatory and Oversight	11807
 Regulatory and Policy Coordination	4167
 Regulatory and Policy Framework Zimbabwe’s AI	4528
 Regulatory and Standards	395
@@ -1499,7 +1507,7 @@ Takeover Regulation	3714
 Takeover Regulation Panel	3714
 Takeover Regulation Panel of Experts	3714
 Takeover Regulations	3714
-Tanzania Communications Regulatory Authority	721,1956,2276,163,581,74,112,147,138,409,134,17,88,2198,675,281,39,90,927,711
+Tanzania Communications Regulatory Authority	721,1956,2276,163,581,74,112,147,138,409,134,17,88,2198,675,281,39,90,927,711,94
 Tanzania Communications Regulatory Authority. South Korea	2947
 Tanzania Fertiliser Regulatory Authority	8908
 Tanzania Insurance Regulatory Authority	11133

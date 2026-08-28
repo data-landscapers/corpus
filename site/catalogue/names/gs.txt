@@ -91,7 +91,7 @@ GSMA Handset Affordability Coalition	6593
 GSMA Handset Ethiopia	6593
 GSMA Head Office	6593,4411,13
 GSMA Head Office One Angel Lane	10856
-GSMA Intelligence	1623,858,1,4,4,1,1,1,1,1,2,1,5,1,1,1,1402,3,1,1,4,1,1,1,1755,918,239,54,461,226,452,2047,750,34,3,73,72,757
+GSMA Intelligence	1623,858,1,4,4,1,1,1,1,1,2,1,5,1,1,1,1402,3,1,1,4,1,1,1,1755,918,239,54,461,226,452,2047,750,34,3,73,72,757,31
 GSMA Intelligence Connectivity	6593
 GSMA Intelligence Enterprise	6593
 GSMA Intelligence Figure	10856
@@ -165,6 +165,7 @@ GSMA's Sh662bn	7989
 GSMA's State	8514
 GSMA's US	10209
 GSMA's Wamola	5789
+GSMA-hosted PDF	11792
 GSMA-modelled	6769
 GSMA-projected GDP	1400
 GSMA-rated	3912

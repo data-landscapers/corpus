@@ -505,6 +505,7 @@ DoB&emaildominant	8606
 DoD IL6	4434
 DoH-pinned IP	7047
 DoH-resolved	1826,173,438,347
+DoH. Section	11791
 DoJ&CD	11285
 Doação	10783
 Doações	13,2803,8711,50
@@ -631,6 +632,7 @@ Document. Relevant Section	3502
 Document. Relevant Sections	3502
 Document. The NRO EC	8047
 Document. Under	3503
+DocumentDB	11804
 DocumentObjectModel	8606
 Documentación de Vehículos	4209
 Documentaires	6959
@@ -803,7 +805,7 @@ Domain Name System Security Extensions	1036,3174,6554
 Domain Name Systems	2117
 Domain Server	4924
 Domain-Wise Implementation Status and Improvement Road Map	1824
-Domaine	643,588,1245,1662,2751,3987,26
+Domaine	643,588,1245,1662,2751,3987,26,945
 Domaine N	10975
 Domaine Procédure	10876
 Domaines	643,604,1351,13,140,220,1953,406,1624,5,1310,743,556,669,580,41,18,89
@@ -1001,7 +1003,7 @@ Donnell&volume	1219
 Donnelly	8301
 Donner	2992,1133,1034,3065,1686
 Donnée	436,795
-Données	232,187,10,7,111,3,18,1,19,159,1,436,3,44,1,447,122,183,358,257,757,116,105,14,742,70,1149,1402,1383,108,446,515,75,727,609,4,4,11,130,601
+Données	232,187,10,7,111,3,18,1,19,159,1,436,3,44,1,447,122,183,358,257,757,116,105,14,742,70,1149,1402,1383,108,446,515,75,727,609,4,4,11,130,601,251
 Données Fermées Données Partagées Données Ouvertes	747,1,1236
 Données Mali-Mètre	6959
 Données Personnelles	3356,7465
@@ -1167,7 +1169,7 @@ Dougbe	3569
 Douglas Carpenter. Avant	1189
 Douglas G	10784
 Douglas Kendyson	9972
-Douglas Mboweni	50,4289,557,2650
+Douglas Mboweni	50,4289,557,2650,4297
 Douglas Mboweni ANNEXURE D5	4896
 Douglas Mboweni Business Leadership Zimbabwean	4896
 Douglas Mboweni Nil Nil Nil	4896
@@ -1215,7 +1217,7 @@ DownLoadPublicCommunicationFile	4127
 Downes	10763
 Downey J	9739
 Downlink	5502
-Download	439,134,13,189,235,202,1095,143,380,683,915,814,558,112,26,217,95,127,46,469,93,237,1609,236,362,48,262,1045,30,146,46,1,10,123,128,131,157
+Download	439,134,13,189,235,202,1095,143,380,683,915,814,558,112,26,217,95,127,46,469,93,237,1609,236,362,48,262,1045,30,146,46,1,10,123,128,131,157,269,14
 Download Agreement	1234
 Download CIV1 Site Tech Specs Download	10956
 Download Cancel Report Ad Violent Disturbing	4790
@@ -1240,7 +1242,7 @@ Download the Report	7445
 Download the Roads4U	11253
 Download the UN News	9786
 Download-articles.png	2518
-Downloaded	236,7965
+Downloaded	236,7965,3624
 Downloaded Domestic Off Net Minutes	9781
 Downloading	34
 Downloads	2816,3729,2477,40,1816,255
@@ -1553,6 +1555,7 @@ Joël Dominique Ledaga	6570
 K Hotel de Douala	3779
 K. Donders and L. Van Audenhove	11028
 KAKOU Dominique	2342
+KB Download	11825
 KE Domain	6671
 KE Domains	6671
 KE Domains SUB-DOMAIN USER Mar-26 Number	6671
@@ -2211,7 +2214,7 @@ Year-on-Year Off-Net Domestic Mobile Voice Traffic	2776
 Year-on-Year On-Net Domestic Mobile Voice Traffic	2776
 Year-on-Year Total Domestic Mobile Voice Traffic	2776
 Yumnaa Ocks’s Doctorate of Philosophy	8022
-ZA Domain Name Authority	9700,429
+ZA Domain Name Authority	9700,429,1671
 ZIMRA Regional Manager for Domestic Taxes Region	10019
 Zakaria Sawadogo. Docteur	10642
 Zimbabwe Dollars	736,4160

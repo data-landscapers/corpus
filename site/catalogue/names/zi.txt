@@ -23,6 +23,7 @@ Affaires Dr. Melanie Anne Zimmerman	4340,5
 Affaires Zimmerman	4340,5
 Africa Cameroon Senegal Zimbabwe Union	11563
 Africa Ethiopia Cameroon Senegal Zimbabwe International	10844
+Africa. In Zinder	11846
 Airtel Tanzania and ZICTIA Partner	3458
 Alan Zimmermann	3897
 Ali Ziat	7952
@@ -98,6 +99,7 @@ Confederation of Zimbabwe Industries	1554,2974
 Conference The Research Council of Zimbabwe	1154
 Constitution of Zimbabwe	3025,3596
 Constitution of Zimbabwe Amendment	3051,2682,1218
+Constitution of Zimbabwe and Children's Act	11791
 Corporate Zimbabwe Is Falling Behind the AI	6011,985
 Council of Zimbabwe	1154,400
 Council of Zimbabwe Risk Committee	1154
@@ -338,6 +340,7 @@ PILLARS of SMART Zimbabwe	395
 POLICY FOR ICT INTRODUCTION The Zimbabwe	958
 POTRAZ ZIMCHE Academia Parliament Service	958
 POTRAZ Zimbabwe's Data Protection Authority	3746
+PRINCIPLES OF THE ZIMBABWE NATIONAL WATER	11791
 PROCUREMENT OF ICT Equipment TO ZIMBABWE	9599,6
 Paratus Zimbabwe	7014
 Parirenyatwa Group of Hospitals. Example Zimbabwean Patient	6666
@@ -439,6 +442,7 @@ Smart Zimbabwe	395,563,7525
 Smart Zimbabwe Master Plan	3760
 Smart Zimbabwe Masterplan	395
 Social Cohesion and Cultural Preservation Zimbabwe	4528
+Social Development. The Zimbabwe National Child	11791
 Sophia Mtare Binga Unicef Zimbabwe	3274
 South Africa Unpacking Econet Wireless Zimbabwe	2987,16,13,949,1438,159,1347
 South Africa and Zimbabwe	3619,1628,2546,157,1111,2,1462,76
@@ -540,6 +544,7 @@ ZIM-HPC	4528
 ZIM17008	9433
 ZIMBABWE	940,18,14,953,2284,687,837,267,3459,1543
 ZIMBABWE BOARD COMMITTEES	1154
+ZIMBABWE CABINET SEVENTEENTH POST-CABINET PRESS BRIEFING	11791
 ZIMBABWE Corporate Profile The Research	1154,400
 ZIMBABWE DATA CENTER MARKET BRIEFING	3185
 ZIMBABWE GOVERNMENT ICT SPECIFICATIONS STANDARDS	2779
@@ -576,6 +581,7 @@ ZINGSA Project	520
 ZINGSA Projects' Co-leader	520
 ZINGSA Projects' Leader	520
 ZINGSA's Constitution	413
+ZINWA	11791
 ZIPIT	5222,883
 ZIPIT ZiG	6105
 ZIPSS	6938
@@ -662,7 +668,7 @@ ZiG974.72	4517
 ZiG990.7	6978
 ZiG994	4390
 ZiG994.68	4517
-Ziaad Suleman	5735,1,1,427,1,188,1114
+Ziaad Suleman	5735,1,1,427,1,188,1114,4377
 Ziad Dalloul	778
 Ziad Zubidah	10764
 Ziada	6019
@@ -709,7 +715,7 @@ Zimabweans	8437
 Zimba-Soaring Eagle	4528
 Zimba-corn	4528
 Zimbabawe	40
-Zimbabwe	21,1,14,4,2,9,54,91,29,17,7,113,33,7,1,5,112,58,43,30,32,1,30,22,17,13,96,78,18,4,8,2,41,24,1,116,6,31,32,20,5,115,177,14,31,34,64,12,1,8,9,99,2,1,2,55,5,48,52,2,46,68,24,139,262,51,91,22,97,37,72,32,26,41,16,13,5,30,60,19,55,62,27,3,55,20,27,6,99,65,29,18,2,144,4,14,18,139,48,9,120,6,163,35,41,43,11,56,68,11,55,39,261,13,16,60,88,17,71,14,1,2,38,9,1,9,16,4,5,16,101,18,4,17,8,22,11,12,5,68,4,5,12,12,37,23,94,11,6,94,20,61,92,1,10,74,14,6,60,40,7,29,3,1,49,45,11,27,50,36,29,20,81,28,14,7,24,1,2,39,2,22,60,1,5,28,36,14,9,7,17,42,45,18,22,151,69,51,5,16,94,14,57,16,12,13,5,7,58,41,33,29,73,1,64,16,18,1,127,43,19,21,157,48,1,141,40,2,4,16,140,42,24,42,115,2,27,1,44,7,33,54,31,84,84,22,143,2,3,30,4,22,4,1,1,138,6,15,15,124,2,33,193,32,53,1,9,86,1,300,12,21,99,1,5,16,91,45,5,21,50,3,6,106,18,36,92,35,18,6,37,110,178,129,2,7,38,21,3,12
+Zimbabwe	21,1,14,4,2,9,54,91,29,17,7,113,33,7,1,5,112,58,43,30,32,1,30,22,17,13,96,78,18,4,8,2,41,24,1,116,6,31,32,20,5,115,177,14,31,34,64,12,1,8,9,99,2,1,2,55,5,48,52,2,46,68,24,139,262,51,91,22,97,37,72,32,26,41,16,13,5,30,60,19,55,62,27,3,55,20,27,6,99,65,29,18,2,144,4,14,18,139,48,9,120,6,163,35,41,43,11,56,68,11,55,39,261,13,16,60,88,17,71,14,1,2,38,9,1,9,16,4,5,16,101,18,4,17,8,22,11,12,5,68,4,5,12,12,37,23,94,11,6,94,20,61,92,1,10,74,14,6,60,40,7,29,3,1,49,45,11,27,50,36,29,20,81,28,14,7,24,1,2,39,2,22,60,1,5,28,36,14,9,7,17,42,45,18,22,151,69,51,5,16,94,14,57,16,12,13,5,7,58,41,33,29,73,1,64,16,18,1,127,43,19,21,157,48,1,141,40,2,4,16,140,42,24,42,115,2,27,1,44,7,33,54,31,84,84,22,143,2,3,30,4,22,4,1,1,138,6,15,15,124,2,33,193,32,53,1,9,86,1,300,12,21,99,1,5,16,91,45,5,21,50,3,6,106,18,36,92,35,18,6,37,110,178,129,2,7,38,21,3,12,99,1,51
 Zimbabwe A Xalam Analytics Country Report	3185
 Zimbabwe AI	5733
 Zimbabwe AI Ethics Framework	8483
@@ -730,6 +736,7 @@ Zimbabwe Appointed SADC Data Protection Leader	3016
 Zimbabwe Artificial Grand Challenge	3760
 Zimbabwe Basis for Adverse Conclusion	4896
 Zimbabwe CEOs Network Awards. Accepting	7312
+Zimbabwe Cabinet Seventeenth Post-Cabinet Press Briefing	11791
 Zimbabwe Centre for High Performance Computing	8483,222,325
 Zimbabwe Closing Date	4896
 Zimbabwe College of Public Health Physicians	5203
@@ -827,7 +834,7 @@ Zimbabwe National Artificial Intelligence	4528
 Zimbabwe National Artificial Intelligence Strategy	3760,632,994,614,793
 Zimbabwe National Chamber of Commerce	4528
 Zimbabwe National Chamber of Commerce Business Leader	7312
-Zimbabwe National Child Online Protection Policy	9794,1817
+Zimbabwe National Child Online Protection Policy	9794,1817,180
 Zimbabwe National Code	4896
 Zimbabwe National Defence University	1154
 Zimbabwe National Development Strategy	970
@@ -846,6 +853,8 @@ Zimbabwe National Policy for ICT	958
 Zimbabwe National Road Administration	8296
 Zimbabwe National Statistics Agency	395,7126,1731
 Zimbabwe National Vision	958
+Zimbabwe National Water Authority Act	11791
+Zimbabwe National Water Authority Amendment Bill	11791
 Zimbabwe News You Trust	5733
 Zimbabwe Newspapers	8975
 Zimbabwe Notaries Public	4896
@@ -867,6 +876,7 @@ Zimbabwe Power Company	9458
 Zimbabwe Practitioner Practitioner	6666
 Zimbabwe President Robert Mugabe	225
 Zimbabwe Prisons and Correctional Service Band Seke	1154
+Zimbabwe Programme	11791
 Zimbabwe Property	4896
 Zimbabwe Province Code System	6666
 Zimbabwe Province Value Set	6666
@@ -1040,7 +1050,7 @@ Zimbabwe. UNICEF’s Zimbabwe Representative Etona Ekole	10623
 Zimbabwe. Under	1154
 Zimbabwe. ZiG	6105
 Zimbabwe. Zimbabwe	1248,4163
-Zimbabwean	21,1,14,15,311,33,20,147,174,17,187,18,7,5,2,182,69,25,306,65,198,55,5,641,142,451,74,92,55,264,164,629,2,34,24,79,368,129,140,238,8,322,94,20,252,6,100,40,22,316,83,243,87,550,236,98,266,337,12,367,74,7,33,54,199,170,61,334,193,494,21,800,309,7
+Zimbabwean	21,1,14,15,311,33,20,147,174,17,187,18,7,5,2,182,69,25,306,65,198,55,5,641,142,451,74,92,55,264,164,629,2,34,24,79,368,129,140,238,8,322,94,20,252,6,100,40,22,316,83,243,87,550,236,98,266,337,12,367,74,7,33,54,199,170,61,334,193,494,21,800,309,7,225
 Zimbabwean AI	4528
 Zimbabwean AI Grand Challenge	4528
 Zimbabwean Border	736
@@ -1078,7 +1088,7 @@ Zimbabwe’s Constitution. Centralised	6793
 Zimbabwe’s Data Protection Authority	6181,2256
 Zimbabwe’s Digital Finance Sector Sees Explosive	3578
 Zimbabwe’s Digital ICT Backbone	7036
-Zimbabwe’s Econet Wireless	40
+Zimbabwe’s Econet Wireless	40,11803
 Zimbabwe’s Emerging Entrepreneurs	3016
 Zimbabwe’s First Mobile Call	7312
 Zimbabwe’s Gold Shift	3016,2546

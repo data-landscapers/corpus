@@ -2,6 +2,7 @@ AEAA President	10196
 AFAN’s National President	3742
 AFC’s President and CEO	11657
 AFRICA VIRTUAL WORKSHOP. Presented	10819
+AFRINIC Board. Presentation	11801
 AI Afreximbank Appoints New President	5985,909
 AI Now Institute. Previously	6487,392
 AI Preparedness Index	11140
@@ -554,7 +555,7 @@ Excellency President Mahama	7695
 Excellency President William Samoei Ruto	10313
 Excellency President Yoweri Kaguta Museveni	9781
 Excellency Vice President Mohammed B.S	7694
-Excellency the President	3760,3935,972
+Excellency the President	3760,3935,972,3124
 Excellency the President Cde. Dr. Emmerson	3760
 Excellency the President's Attendance	3760
 Excise and Preventive Service CFC Consumption of Fixed	236
@@ -711,6 +712,7 @@ Honour the Acting President	1222
 Honourable President	2525
 Honourable Vice President	1154,400
 Honourable Vice President Col	3760
+Honourable Vice President Dr. Mohadi	11791
 Honourable Vice President Gen	1554
 Hotel Sofitel Presidencial de Malabo Malabo	4209
 House. Presenting the Office	7054
@@ -1467,7 +1469,7 @@ Precipitation Indicators	11762
 Precisam	10752
 Precise	789,1078,121
 Precisely	10,7141,1309,2678
-Precision	1738,179,2611,717,3359,2,1160
+Precision	1738,179,2611,717,3359,2,1160,2074
 Precision Air Conditioners	9123
 Precision Recall F1 Score	8604
 Precision-Recall Curve	8604
@@ -1738,7 +1740,7 @@ Present for Facebook and Instagram. Unclear for Google	8436
 Present for Netflix	8436
 Present the Auditor General	3583
 Presentación	1701
-Presentation	422,344,196,70,668,78,54,645,512,792,2072,2016,1334,1619,467
+Presentation	422,344,196,70,668,78,54,645,512,792,2072,2016,1334,1619,467,512
 Presentation Attack Detection	9747,54,3,23
 Presentation Template	11479
 Presentation of Financial Statements	1154
@@ -1753,7 +1755,7 @@ Presente Plano Estratégico	10772
 Presented	1222,1537,1354,184,2001,124,511,36,329,3521
 Presenter	3641,7839
 Presenters	10335
-Presenting	2576,1007,828,839,601,179,121,40,625,111,129,287,347,49,1,4,5,71,468,111,763,42,246,86,424,49,635,954,153
+Presenting	2576,1007,828,839,601,179,121,40,625,111,129,287,347,49,1,4,5,71,468,111,763,42,246,86,424,49,635,954,153,94
 Presenting Accounts	10
 Presenting AfricaNenda	9036
 Presenting NAFA	5202
@@ -1774,9 +1776,9 @@ Preservativo	10760
 Preservação	6970,3785
 Preservação de Dados	10747
 Preservação de Provas	6970,3777
-Preserve	1988,4454,4714
+Preserve	1988,4454,4714,641
 Preserve the Bottom-Up	3503
-Preserving	7242,1878,942
+Preserving	7242,1878,942,1734
 Preserving Ghana	4126
 Preserving the Arab Cultural Identity and Promoting Arab	2958
 Presid1e1n.7tiaPl	10157
@@ -1828,7 +1830,7 @@ Presidency. Standing	5231
 Presidency.156	3583
 Presidency’s Digital Services Unit	3922
 Presidency’s Inter-Ministerial Committee	3922
-President	3,8,16,206,1,79,2,230,42,312,59,14,42,117,23,44,16,8,11,1,48,51,10,45,86,80,39,149,12,19,56,45,1,16,18,60,19,129,125,63,1,1,4,7,1,58,1,11,5,26,37,8,70,31,60,32,9,60,67,51,20,44,1,50,58,12,6,25,56,36,22,44,10,49,86,19,8,90,81,21,1,16,1,31,5,77,32,14,37,16,13,33,3,21,8,51,5,14,4,21,1,67,28,20,1,11,12,42,21,8,9,22,19,8,25,2,20,212,14,47,22,43,13,10,5,45,25,17,18,25,72,55,27,56,25,112,3,96,5,13,8,57,3,56,147,47,121,34,73,41,23,41,19,3,11,7,34,4,3,9,3,2,39,75,11,12,53,33,33,1,7,91,26,54,84,8,93,115,28,4,12,3,2,1,3,22,14,39,53,12,2,8,5,70,30,16,77,28,17,103,79,70,6,1,4,6,34,2,44,12,3,62,2,30,44,2,9,19,124,14,10,89,54,3,31,171,29,1,120,12,4,10,25,6,61,28,20,38,38,72,67,6,70,11,120,28,60,4,20,15,6,57,67,18,5,7,9,110,1,37,78,59,67,1,75,51,35,87,28,80,6,83,9,32,13,54,12,41,90,13,8,3,6,86,60,32,1,48,42,31,32,51,27,79,10,79,40,14,2,1,2,7,13,97,13,15,14,7,4,13,4,1,7,14,1,1,1,2,1,1,5,1,1,9,2,9,8,6,13,9,1,16,9,8,9,14,77,84,53,8,20,6,90,22,19
+President	3,8,16,206,1,79,2,230,42,312,59,14,42,117,23,44,16,8,11,1,48,51,10,45,86,80,39,149,12,19,56,45,1,16,18,60,19,129,125,63,1,1,4,7,1,58,1,11,5,26,37,8,70,31,60,32,9,60,67,51,20,44,1,50,58,12,6,25,56,36,22,44,10,49,86,19,8,90,81,21,1,16,1,31,5,77,32,14,37,16,13,33,3,21,8,51,5,14,4,21,1,67,28,20,1,11,12,42,21,8,9,22,19,8,25,2,20,212,14,47,22,43,13,10,5,45,25,17,18,25,72,55,27,56,25,112,3,96,5,13,8,57,3,56,147,47,121,34,73,41,23,41,19,3,11,7,34,4,3,9,3,2,39,75,11,12,53,33,33,1,7,91,26,54,84,8,93,115,28,4,12,3,2,1,3,22,14,39,53,12,2,8,5,70,30,16,77,28,17,103,79,70,6,1,4,6,34,2,44,12,3,62,2,30,44,2,9,19,124,14,10,89,54,3,31,171,29,1,120,12,4,10,25,6,61,28,20,38,38,72,67,6,70,11,120,28,60,4,20,15,6,57,67,18,5,7,9,110,1,37,78,59,67,1,75,51,35,87,28,80,6,83,9,32,13,54,12,41,90,13,8,3,6,86,60,32,1,48,42,31,32,51,27,79,10,79,40,14,2,1,2,7,13,97,13,15,14,7,4,13,4,1,7,14,1,1,1,2,1,1,5,1,1,9,2,9,8,6,13,9,1,16,9,8,9,14,77,84,53,8,20,6,90,22,19,166
 President Abdel Fattah El Sisi	10103
 President Abdelmadjid Tebboune	2406,161,719,67,518,57,267,1112,563,83,1078,285
 President Adama Barrow	6008,218,787,3049
@@ -2011,6 +2013,7 @@ President Samia Suluhu Hassan	741,647,1978,1348,1074,295,40,439,953,2989
 President Senator Ibrahim Hassan Hadejia	8241
 President Senghor	7207
 President Talon	1724
+President Taye Atske Selassie of Ethiopia	11817
 President Tebboune	2131,1222
 President Tebboune's Rome	3353
 President Tendy	3961
@@ -2043,7 +2046,7 @@ President and CEO of Algeria Telecom	3278
 President and CEO of Biu Capital	9371
 President and CEO of IREX	9641
 President and CEO of MTN Group	5127
-President and Cabinet	395,1159,1225,272,1477,6208
+President and Cabinet	395,1159,1225,272,1477,6208,1055
 President and Cabinet E-Government Technology Unit	2779
 President and Cabinet Following	2779
 President and Cabinet GOVERNMENT OF ZIMBABWE GOVERNMENT	2779
@@ -2424,7 +2427,7 @@ Preventing and Combating Corruption	3583
 Preventing and Combating Fraud and Corruption	1264,1625,715,2299,636,4229,61,135,453,108
 Preventing and Combatting Corruption	3583
 Preventing and Responding	10776
-Prevention	1009,979,281,720,394,1830,2,318,568,837,383,1528,48,719,62,479,188,575,211,3,42,3,2,9,6,3,2,12,20,30,154,134,22
+Prevention	1009,979,281,720,394,1830,2,318,568,837,383,1528,48,719,62,479,188,575,211,3,42,3,2,9,6,3,2,12,20,30,154,134,22,218
 Prevention Framework	11188
 Prevention Re-use Recycling Recovery Dispose Figure	1988
 Prevention Strategy NDP National Development Plan	11188
@@ -2584,7 +2587,7 @@ Regional Integration and Development The President	10321
 Regional Preparatory Meeting for ITU PP-26	6488
 Regional Presence Careers Contact Us Legal	9109
 Regional President	2310,6807
-Regional Vice President	969,295,20,583,1022,673,42,2935,126,4103,196,416,37,132,11
+Regional Vice President	969,295,20,583,1022,673,42,2935,126,4103,196,416,37,132,11,279
 Regional Vice President for Eastern and Southern Africa	6539
 Regional Vice President of Sales	5528
 Registo Predial	5850,4902,9,623,24
@@ -2930,11 +2933,12 @@ Venerando Presidente	10750
 Viabilidade Financeira Presidencial	10750
 Vice Chair and President of Microsoft	2525
 Vice Presidency Complex for Private Sector	10718
-Vice President	972,582,224,89,121,331,128,26,153,834,123,71,75,31,169,777,7,343,382,11,335,18,496,638,129,45,219,123,132,67,43,1373,88,245,179,79,1394,77,181,158
+Vice President	972,582,224,89,121,331,128,26,153,834,123,71,75,31,169,777,7,343,382,11,335,18,496,638,129,45,219,123,132,67,43,1373,88,245,179,79,1394,77,181,158,323
 Vice President Benjamin Bol Mel	3583
 Vice President Bol Mel	3584
 Vice President Dr. W.K. Mutale Nalumango	6541
 Vice President Gaolathe	3729
+Vice President Hon. Col	11791
 Vice President Hon. Gen	1554
 Vice President Jallow	7692
 Vice President Jane Naana Opoku-Agyemang	6136
@@ -3015,11 +3019,13 @@ Yahclick Premium	6980
 Yale University Press	2518
 Yale University Press. Crum	11050
 YouTube Premium	11301
+ZIMBABWE CABINET SEVENTEENTH POST-CABINET PRESS BRIEFING	11791
 Zambia Artificial Intelligence Cooperation. Presentations	9379
 Zambia Free Press Initiative	9082
 Zambia Free Press Initiative and Zambian Cyber	9416
 Zambian President	6534
 Zanzibar President of Zanzibar and Chairman	10746
+Zimbabwe Cabinet Seventeenth Post-Cabinet Press Briefing	11791
 Zimbabwe Country Risk Premium	4896
 Zimbabwe President Robert Mugabe	225
 Zimbabwe's President Emerson Mnangagwa	5411

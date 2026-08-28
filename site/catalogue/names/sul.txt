@@ -54,7 +54,7 @@ Lunda Norte Lunda Sul	10766
 Lunda Norte Lunda Sul Malanje Moxico	10766
 Lunda Norte Province Lunda Sul Province	11418
 Lunda Norte and Lunda Sul	9399
-Lunda Sul	9399,1358,3,3,2,1,9,2,589
+Lunda Sul	9399,1358,3,3,2,1,9,2,589,471
 Lunda Sul Chiumbuhe	11366
 Lunda Sul Cuanza Norte Cuanza Sul	10775
 Lunda Sul Cuanza Sul	10760
@@ -131,7 +131,7 @@ Suleiman Namara Boban Varghese Paul	10768
 Suleiman. Niger	5886
 Suleja	9879
 Suleja Prison	10560
-Suleman	3108
+Suleman	3108,8736
 Sulemana	7886
 Sulemana Braimah	9960
 Sulemane	1828
@@ -158,4 +158,4 @@ Tanzania Dkt. Samia Suluhu Hassan	1921
 Tanzanian President Samia Suluhu Hassan	9350
 Visa's Godfrey Sullivan	6983
 Zaire Bengo Namibe Lunda Sul Cabinda	4044
-Ziaad Suleman	5735,1,1,427,1,188,1114
+Ziaad Suleman	5735,1,1,427,1,188,1114,4377

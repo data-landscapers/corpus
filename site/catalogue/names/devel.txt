@@ -102,6 +102,7 @@ Africa CDD-Ghana Ghana Center for Democratic Development	10759,78
 Africa Developer Ecosystem	7596
 Africa Development Bank	3782,6981
 Africa Development Centre	388,9627
+Africa Development Economics	11839
 Africa Development Forum	11149
 Africa Development Forum Series The Africa	11149
 Africa Development Program Progress Report	345
@@ -168,10 +169,11 @@ African Development Review. Image Credit	4794
 African Development Review. Purva Khera	1828
 African Development Solutions	7167
 African Developpment University	9357
+African Digital Development and Transformation	11802
 African Financial Architecture for Development	6338
 African Least Developed Countries	273,841
 African Union Data Policy Framework. Developed	5244
-African Union Development Agency	1243,571,1544,509,11,3070,847
+African Union Development Agency	1243,571,1544,509,11,3070,847,4020
 African Union Development Agency-New Partnership for Africa	5804
 African Union Development Agency. AI	6948
 Africa’s Development and Prosperity	1814,863
@@ -438,12 +440,14 @@ Connectivity Market Development and Integration	1264,5664
 Constituency Development Fund	1988,3259,275,2912,141,166,190
 Constitutional Development	10729
 Construction Project Economic Development Cooperation Fund	354
+Consultancy For The Development Of COMESA	11825
 Content Development Support Programme	9781
 Content Development and Provision of Devices for Learners	6946
 Context of National Development	7493
 Continuous Personal Development	21
 Continuous Professional Development	6946,4188
 Continuous Professional Development CSL	6832
+Continuous Professional Development and Capacity Building	11791
 Contributing Practice Areas Digital Development Finance	1264
 Contributing Practice Areas Digital Development Governance	3604
 Contributing Practice Areas Governance Digital Development	969
@@ -860,7 +864,7 @@ Development PRAMS Procurement Risk Assessment and Management	1264
 Development Parliament	7548
 Development Partner	1261
 Development Partner. Contrary	1261
-Development Partners	940,321,517,36,1790,291,1349,2208,96,1874,238
+Development Partners	940,321,517,36,1790,291,1349,2208,96,1874,238,2131
 Development Partners Development	5244
 Development Partners International	835,604,871
 Development Partners Thematic	7548
@@ -910,7 +914,7 @@ Development Series. Washington	10964
 Development Service	7548
 Development Solid Waste	1988
 Development Strategies and Policies	11129
-Development Strategy	1909,6058,2998,564
+Development Strategy	1909,6058,2998,564,277
 Development Student Industrial Work Experience Scheme	10721
 Development Support	970,7576
 Development System PM&E Planning	11224
@@ -1186,6 +1190,8 @@ Education Sector Medium Term Development Plan	789
 Education and Digital Development Global Quality Assurance	6832
 Education and Human Development	1228
 Education and Human Resource Development Educational	3861
+Education and Skills Development	11791
+Education and Skills Development Pillar	11791
 Education for Sustainable Development13	11439
 Educational Equity and Regional DevelopmentSpeaking	7672
 Educational Social Development and Small Business	11280
@@ -1331,7 +1337,7 @@ French Development Agency. DRC	6073
 Functional Consultant and Developer	6353
 Fund Adaptation and Development Resilience	970
 Fund for Export Development	10718
-Fund for Export Development Africa	8149
+Fund for Export Development Africa	8149,3660
 Funding Research and Development	1154
 Funds. When the Railway Development Fund	10313
 Fusion Developer	6353
@@ -1877,6 +1883,7 @@ Measuring Digital Development	1814,754,1510,32,860,6185
 Measuring Digital Development Facts and Figures	961
 Mechanical Components and Minerals Development	3760
 Mechanisation and Irrigation Development	940
+Mechanisation and Water Resources Development	11791
 Mediating Effects of ICT Development and Institutional	5349
 Medium Enterprise Development and Infrastructure	1988
 Medium Term Development Plan	5032,501,5685,6,26,39
@@ -2034,7 +2041,7 @@ National Development Plans	1814,53,6546,2718,3
 National Development Priorities	4528
 National Development Programme	11536
 National Development Strategies	4528
-National Development Strategy	940,18,196,400,749,748,709,101,353,314,1653,1340,359,603,547,364,3,63,612,769,122,1,16,5,12,621
+National Development Strategy	940,18,196,400,749,748,709,101,353,314,1653,1340,359,603,547,364,3,63,612,769,122,1,16,5,12,621,173
 National Development Strategy This Policy	3861
 National Development Strategy and Zimbabwe's Digital Economy	7036
 National Development Strategy. Building	4214
@@ -2072,7 +2079,7 @@ National Identity for Development	4257
 National Information Systems Development Agency	6130
 National Information Technology Development	5215
 National Information Technology Development Act	5665
-National Information Technology Development Agency	2218,176,68,218,45,208,1,120,79,489,122,198,641,38,69,35,940,60,333,478,153,308,113,451,69,116,2,675,1,15,547,131,1,245,210,2,96,82,127,77,1,57,142,113,40,117,146,107,1,271,1,88,85,178,34,268
+National Information Technology Development Agency	2218,176,68,218,45,208,1,120,79,489,122,198,641,38,69,35,940,60,333,478,153,308,113,451,69,116,2,675,1,15,547,131,1,245,210,2,96,82,127,77,1,57,142,113,40,117,146,107,1,271,1,88,85,178,34,268,226
 National Information Technology Development Agency Act	10157
 National Information Technology Development Agency Nigeria	8764
 National Information Technology Development Agency. Nigeria	4621
@@ -2405,7 +2412,7 @@ Rescue Services Development	4896
 Research Administration and Development	8604
 Research And Development	10979
 Research and Business Administration Development	236
-Research and Development	789,211,512,159,116,861,127,429,1324,992,127,1139,299,4111,81
+Research and Development	789,211,512,159,116,861,127,429,1324,992,127,1139,299,4111,81,514
 Research and Development Collaboration	1814
 Research and Development Emmanuel Larbi Offei Over	236
 Research and Development GHG Greenhouse Gas GII	7548
@@ -2549,7 +2556,7 @@ Smart Africa Support for Telecoms and AI Development	7157,40,31
 Smart Zambia Institute Proposed Development Objective	2291
 Smart Zambia National ICT Development Project	59,134,1
 Social Data Development Eritrea UNDP	400
-Social Development	970,1018,319,1197,98,2053,2948,1464,90,1028,11,78
+Social Development	970,1018,319,1197,98,2053,2948,1464,90,1028,11,78,517
 Social Development ESTA Extension of Security of Tenure	11188
 Social Development Goals	940
 Social Development Minister Dina Pule and SASSA	9372
@@ -2563,6 +2570,8 @@ Social Development Specialist Monitoring	1778
 Social Development Specialist Sorting	1778
 Social Development and Transport	5533
 Social Development. Once	2307
+Social Development. The National Youth Policy	11791
+Social Development. The Zimbabwe National Child	11791
 Social Economy and Handicrafts VSE National Development	10980
 Social Recovery and Human Development	970
 Social Recovery and Human Development Specific Objective	970
@@ -2593,6 +2602,7 @@ South Africa Google Developer Groups	1363
 South Africa US Trade and Development Agency	219,187,325,1,441
 South Africa. African Journal of Development Studies	8603
 South Africa. Develop	396
+South African Development Bank	11844
 South African Development Community	6720,4429
 South African National Development Plan Vision	396
 South African National Energy Development Institute	11281

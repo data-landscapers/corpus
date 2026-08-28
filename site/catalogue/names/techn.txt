@@ -365,7 +365,7 @@ Chief Technical Officer	4759
 Chief Technology Officer	3652,41,1523,1475,1184,1945,685
 Chief Technology Officer DC Data Centre	6432
 Chief Technology and Information Officer	3699
-China Academy of Information and Communications Technology	7174
+China Academy of Information and Communications Technology	7174,4628
 China Aerospace Science and Technology Corporation	9816
 China Information Technology Expo	5755,1
 China National Technical Import	2285
@@ -443,7 +443,7 @@ Communications Technology ID Identification	11261
 Communications Technology Standards and Guidelines	34
 Communications Technology Unit Haile Sellaise Avenue	34
 Communications Technology and National Guidance	1283,4060,703
-Communications and Digital Technologies	5060,115,23,954,899,3518,477,174,10
+Communications and Digital Technologies	5060,115,23,954,899,3518,477,174,10,615
 Communications and Digital Technologies. Sangoni-Diko	8435
 Communications and Information Technology	7428,1000,870,2
 Communications and Information Technology Committee	9472
@@ -572,7 +572,7 @@ Dell Technologies	3220,1214,2357,2119
 Democratizing Urban Technology	5700
 Department ICT Information and Communication Technology IDA	1264
 Department of Communication and Digital Technologies	1695,4488
-Department of Communications and Digital Technologies	1912,28,177,1147,1911,23,1,399,371,85,299,479,74,74,116,418,74,14,377,109,43,304,511,730,24,59,121,55,194,877,6,158,25,4,31,5,19,11,230
+Department of Communications and Digital Technologies	1912,28,177,1147,1911,23,1,399,371,85,299,479,74,74,116,418,74,14,377,109,43,304,511,730,24,59,121,55,194,877,6,158,25,4,31,5,19,11,230,350
 Department of Computer Science and Information Technology	10323
 Department of Emerging Technologies	7548
 Department of Information Communications Technology	1882
@@ -676,6 +676,7 @@ E-Government Technology Unit Signature Date	2779
 E-Government Technology Unit. Month	2779
 E-commerce Emerging Technologies	1161
 E. Technical	10829
+EAC Inaugurates Three Technical Working Groups	11807
 EACO E-Waste Technical Working Group Based	6946
 EAST RIFTVALLEY LIVESTOCK TECHNOLOGY COMPANY LIMITED	7167
 EASY LINK TECHNOLOGIES Data Processor INST-41013908EAB	7167
@@ -1096,6 +1097,7 @@ Industry Technologies	7548
 Inf Technol Dev	766
 Infocom Technologies and Optimization	9128
 Informatics and Technological Traces Directorate	10911
+Information Communication Technologies	11791
 Information Communication Technology	958,2093,2832,1063,575,501,953,2154
 Information Communication Technology Agency	1714
 Information Communication Technology Architecture	3760
@@ -1111,7 +1113,7 @@ Information Systems and Technology	1248
 Information Technologies	226,3619,5655,1264
 Information Technologies and Services	3722
 Information Technologies and Social Communication	3136,419,131,181,11,1560,329,220,495,114,32,36,133,465,3697,507
-Information Technology	762,481,41,320,68,1,267,277,650,26,470,105,1504,693,1167,114,420,393,371,80,402,58,227,110,201,329,39,407,77,160,506,96,312,73,2,573
+Information Technology	762,481,41,320,68,1,267,277,650,26,470,105,1504,693,1167,114,420,393,371,80,402,58,227,110,201,329,39,407,77,160,506,96,312,73,2,573,47
 Information Technology Act	8210,998
 Information Technology Agency	4525
 Information Technology Agency NLP Natural	4126
@@ -1360,7 +1362,7 @@ Liberia Technology Summits	7617
 Libya Telecom and Technology	9262
 Libyan Technology Foundation	7724,2139
 Line No Change Technologies	1284
-Liquid Intelligent Technologies	242,211,142,23,3,62,3,28,149,102,161,303,40,257,13,104,142,40,269,313,369,620,263,566,12,24,269,470,421,172,292,79,1,79,6,103,153,98,142,511,732,1071,1,2,19,59,546,967,512
+Liquid Intelligent Technologies	242,211,142,23,3,62,3,28,149,102,161,303,40,257,13,104,142,40,269,313,369,620,263,566,12,24,269,470,421,172,292,79,1,79,6,103,153,98,142,511,732,1071,1,2,19,59,546,967,512,634
 Liquid Intelligent Technologies Botswana	6165
 Liquid Intelligent Technologies EAAIF	9061
 Liquid Intelligent Technologies Nigeria	9141,546
@@ -1584,7 +1586,7 @@ National Information Technology Authority-Uganda	5064,1512,1456,42,649,1060,2
 National Information Technology Authority-Uganda Palm Courts	11750
 National Information Technology Development	5215
 National Information Technology Development Act	5665
-National Information Technology Development Agency	2218,176,68,218,45,208,1,120,79,489,122,198,641,38,69,35,940,60,333,478,153,308,113,451,69,116,2,675,1,15,547,131,1,245,210,2,96,82,127,77,1,57,142,113,40,117,146,107,1,271,1,88,85,178,34,268
+National Information Technology Development Agency	2218,176,68,218,45,208,1,120,79,489,122,198,641,38,69,35,940,60,333,478,153,308,113,451,69,116,2,675,1,15,547,131,1,245,210,2,96,82,127,77,1,57,142,113,40,117,146,107,1,271,1,88,85,178,34,268,226
 National Information Technology Development Agency Act	10157
 National Information Technology Development Agency Nigeria	8764
 National Information Technology Development Agency. Nigeria	4621
@@ -1965,7 +1967,7 @@ Staples Retailing Financials Information Technology Consumer	4972
 Star.ai Spatio-temporal Intelligence Technology Co	9238
 Startup and Technical Centre of Excellence	9853
 State Department of Emerging Technologies B2-Private	7548
-State Information Technology Agency	1912,181,659,2456,115,1735,13,25,418,504,3,1655,83,343,1082,12,34,11,7
+State Information Technology Agency	1912,181,659,2456,115,1735,13,25,418,504,3,1655,83,343,1082,12,34,11,7,597
 State Information Technology Agency Act	1009,10175
 State Information Technology Agency Bids	7514
 State Information Technology Agency General Regulation	11184
@@ -2065,7 +2067,7 @@ Technecultura	4734,5993
 Technecultura Meta	10727
 Technext	9112,1393
 Technext24	8852
-Technical	11,247,303,28,60,69,48,23,173,8,21,18,11,241,3,20,61,479,4,49,1,1,194,359,295,162,226,198,247,35,9,74,67,100,16,335,21,40,92,19,186,123,171,396,55,70,581,18,104,34,18,90,199,2,17,236,129,149,205,69,2,56,20,250,163,134,6,170,22,258,50,195,82,82,69,111,132,45,136,34,153,116,70,16,24,412,60,319,75,282,4,7,1,36,4,3,10,19,18,98,10,32,22,103,2,5,18,24,4,21,4,13,30,17,6,21,102,19,70,38,25,22,140
+Technical	11,247,303,28,60,69,48,23,173,8,21,18,11,241,3,20,61,479,4,49,1,1,194,359,295,162,226,198,247,35,9,74,67,100,16,335,21,40,92,19,186,123,171,396,55,70,581,18,104,34,18,90,199,2,17,236,129,149,205,69,2,56,20,250,163,134,6,170,22,258,50,195,82,82,69,111,132,45,136,34,153,116,70,16,24,412,60,319,75,282,4,7,1,36,4,3,10,19,18,98,10,32,22,103,2,5,18,24,4,21,4,13,30,17,6,21,102,19,70,38,25,22,140,91
 Technical AI Governance	5276
 Technical Adviser No	9514
 Technical Advisor	1009,4596,2764,2,1359,1308
@@ -2106,6 +2108,7 @@ Technical Committees	1264,2839
 Technical Compliance Re-Rating	5130
 Technical Connectivity Provider	5201,54
 Technical Contact Agent Tel. E-mail	736
+Technical Control and Corporate Responsibility	11791
 Technical Controls	21,3840
 Technical Cooperation Facility	970
 Technical Criteria	5665
@@ -2204,7 +2207,7 @@ Technical Working Committee	9874,189,93,157
 Technical Working Group	4528,1152,521,587,2723,341,656,533,598,112
 Technical Working Group HAC Humanitarian Aid	6947
 Technical Working Group UN United Nations	7548
-Technical Working Groups	1965,2563,3020
+Technical Working Groups	1965,2563,3020,4259
 Technical Working Groups. Customer Focus	2775
 Technical Working Sessions Technical	7548
 Technical and Artisanal Education	1959
@@ -2362,7 +2365,7 @@ Technologique	12,3663
 Technologique CSLP Cadre Stratégique de Lutte	12
 Technologiquement	4325
 Technologiste	7670
-Technology	22,12,192,189,105,51,72,75,71,110,41,18,42,154,7,58,9,29,7,99,165,26,399,35,6,102,196,43,4,134,201,26,171,77,28,127,117,61,97,5,58,163,178,4,12,49,14,1,7,53,171,16,5,12,47,157,102,96,148,14,118,82,118,28,12,16,20,143,15,2,1,1,11,19,73,7,11,51,22,30,16,14,11,8,9,5,28,9,130,15,70,4,94,92,61,20,14,218,2,45,97,113,48,42,1,35,46,115,66,32,8,8,34,82,85,4,21,32,4,12,1,1,5,51,20,14,2,7,13,24,1,6,81,1,6,62,17,5,11,108,36,1,27,1,19,6,5,157,38,44,31,1,108,131,119,78,7,7,78,52,1,25,33,22,9,8,4,1,17,59,14,66,82,35,9,49,42,50,2,100,7,16,81,32,31,2,24,29,21,18,20,49,16,24,16,17,15,4,43,54,6,24,3,2,10,23,78,18,127,18,4,4,22,101,7,24,7,23,20,178,48,38,62,4,30,6,4,40,36,3,1,1,5,42,3,5,43,4,8,10,3,2,6,4,113,58,1,22,7,73,1,2,2,85,17,44,21,11,182,68,6,56,28,14,60,3
+Technology	22,12,192,189,105,51,72,75,71,110,41,18,42,154,7,58,9,29,7,99,165,26,399,35,6,102,196,43,4,134,201,26,171,77,28,127,117,61,97,5,58,163,178,4,12,49,14,1,7,53,171,16,5,12,47,157,102,96,148,14,118,82,118,28,12,16,20,143,15,2,1,1,11,19,73,7,11,51,22,30,16,14,11,8,9,5,28,9,130,15,70,4,94,92,61,20,14,218,2,45,97,113,48,42,1,35,46,115,66,32,8,8,34,82,85,4,21,32,4,12,1,1,5,51,20,14,2,7,13,24,1,6,81,1,6,62,17,5,11,108,36,1,27,1,19,6,5,157,38,44,31,1,108,131,119,78,7,7,78,52,1,25,33,22,9,8,4,1,17,59,14,66,82,35,9,49,42,50,2,100,7,16,81,32,31,2,24,29,21,18,20,49,16,24,16,17,15,4,43,54,6,24,3,2,10,23,78,18,127,18,4,4,22,101,7,24,7,23,20,178,48,38,62,4,30,6,4,40,36,3,1,1,5,42,3,5,43,4,8,10,3,2,6,4,113,58,1,22,7,73,1,2,2,85,17,44,21,11,182,68,6,56,28,14,60,3,111
 Technology Acceptance Model	5349,2672,109,2810
 Technology Acceptance Model and Diffusion of Innovation	8671
 Technology Africa Finance Corporation Breaks	9796
@@ -2454,6 +2457,7 @@ Technology Parks	8910
 Technology Penetration	4972
 Technology Policy	5216,1681
 Technology Policy Advisor	5321
+Technology Policy Analyst	11827
 Technology Policy Commitments	1264
 Technology Polley Framework. Retrieved	1009
 Technology Portals	8208,197,791
@@ -2492,11 +2496,13 @@ Technology and Competitive	7548
 Technology and Creative	567
 Technology and Curriculum Enhancement Programmes	11220
 Technology and Development	8704
+Technology and Digital Transformation	11791
+Technology and Digital Transformation Pillar	11791
 Technology and Green Technologies	4450
 Technology and Health	9560,437
 Technology and Higher Education	2473,1741,5184,36
 Technology and Infrastructure	7182
-Technology and Innovation	410,379,57,308,46,14,251,89,156,999,66,97,193,198,95,5,498,89,164,215,24,79,665,148,4,25,2,137,110,10,316,214,111,84,122,100,143,208,72,208,71,180,136,50,171,95,301,115,41,288,14,37,90,96,107,193,30,9,209,12,122,104,536,92,82,129,159,94,132,83,237,95,9,14,3,18,16,7,190,107,66,103
+Technology and Innovation	410,379,57,308,46,14,251,89,156,999,66,97,193,198,95,5,498,89,164,215,24,79,665,148,4,25,2,137,110,10,316,214,111,84,122,100,143,208,72,208,71,180,136,50,171,95,301,115,41,288,14,37,90,96,107,193,30,9,209,12,122,104,536,92,82,129,159,94,132,83,237,95,9,14,3,18,16,7,190,107,66,103,94
 Technology and Innovation Act	2709,1644
 Technology and Innovation Conference	5601
 Technology and Innovation Create Innovation Fund	1161
@@ -2532,6 +2538,7 @@ Technology and Innovation. Under	5898
 Technology and Jobs	11356
 Technology and KEBS	7548
 Technology and Knowledge Gap Many Arab	2958
+Technology and Kyambogo University. Through	11829
 Technology and Law Review Committee	3861
 Technology and Mandates NACOSTI and NRF	7548
 Technology and Maritime Transport	8645
@@ -2651,7 +2658,7 @@ Use of Artificial Intelligence Technologies	2958
 User Acceptance of Information Technology	5349
 Utilising Information and Communication Technology	11231
 VI Technopolis	4563
-VP and CEO of Cassava Technologies South Africa	6353
+VP and CEO of Cassava Technologies South Africa	6353,5491
 Vaal University of Technology	10082
 Vas2nets Technologies Limited	3862
 Vdl Technologies Limited	3862

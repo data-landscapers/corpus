@@ -602,7 +602,7 @@ Capacity Aggregation	10157
 Capacity Audit Checklist	3861
 Capacity Base Station Name	736
 Capacity Base Stations Latitude Longitude Antenna	736
-Capacity Building	578,686,2597,667,82,522,544,756,514,602,3300,283,3,118,31,286
+Capacity Building	578,686,2597,667,82,522,544,756,514,602,3300,283,3,118,31,286,238
 Capacity Building A. The LTA and Telecommunications	4610
 Capacity Building Capacity	1988
 Capacity Building Central	6946
@@ -698,7 +698,7 @@ Cape Gate Regional Centre	8999
 Cape Metropolitan Council	6683
 Cape Mount	10406
 Cape Peninsula University of Technology	8130
-Cape Town	596,365,77,168,1,1,155,41,160,1,82,71,23,69,10,140,157,346,61,48,49,5,51,145,121,51,43,163,90,28,60,294,102,8,58,14,5,63,10,5,17,288,227,231,250,75,49,10,63,14,47,44,375,1,109,71,378,46,18,118,103,15,305,41,376,2,108,25,63,72,91,42,27,160,88,24,11,33,64,4,90,18,143,194,28,69,27,164,81,79,84,58,149,143,268,152,333,379,16,8,30,57,137,65,95,86,37,122,42,3,2,28,1,40,24,15,35,7,13,150,166
+Cape Town	596,365,77,168,1,1,155,41,160,1,82,71,23,69,10,140,157,346,61,48,49,5,51,145,121,51,43,163,90,28,60,294,102,8,58,14,5,63,10,5,17,288,227,231,250,75,49,10,63,14,47,44,375,1,109,71,378,46,18,118,103,15,305,41,376,2,108,25,63,72,91,42,27,160,88,24,11,33,64,4,90,18,143,194,28,69,27,164,81,79,84,58,149,143,268,152,333,379,16,8,30,57,137,65,95,86,37,122,42,3,2,28,1,40,24,15,35,7,13,150,166,184
 Cape Town Bloemfontein Public Library Natal	11237,21,28
 Cape Town CPT1	595,1,6195
 Cape Town Campus	2994,938
@@ -719,7 +719,7 @@ Cape Town Yumnaa Ocks	8022
 Cape Town and Durban	9676
 Cape Town and Durban. Yolanda Cuba	7626
 Cape Town and Gauteng	10690
-Cape Town and Johannesburg	411,8597
+Cape Town and Johannesburg	411,8597,2836
 Cape Town's Deputy Mayor and Mayoral Committee	6486
 Cape Town's Municipal Planning Tribunal	8915
 Cape Town-based	448,6895,135,1437,854,510,37,78,1223
@@ -946,7 +946,7 @@ Captive	10781,80
 Captive Insurance Act	7845
 Captive Live	3184,1,1340,6470
 Captura	11569
-Capture	6,4,2,383,32,2,118,3,14,4,2,6,172,210,22,9,9,15,15,116,43,34,7,36,20,295,55,3,12,55,163,53,24,9,11,20,4,150,90,209,1,27,8,1,150,85,75,62,20,100,23,40,29,118,129,29,79,51,82,168,137,69,47,67,168,12,189,125,96,26,3,230,72,17,46,68,83,167,38,159,130,216,147,204,160,18,5,49,67,82,10,23,89,20,80,34,1,102,24,29,24,149,8,101,33,39,95,108,201,1,2,83,12,27,87,24,21,52,50,126,29,48,65,70,12,45,5,46,356,57,254,1,221,5,2,3,22,1,44,1,12,1,2,73,31,137,182,29,6,140,158,51,14,126,235,1,1,1,1,3,13,23,51,127,2,2,40,97,17,1,1,2,1,2,8,1,1,1,3,1,1,1,1,169,9,13,198,4,30,23
+Capture	6,4,2,383,32,2,118,3,14,4,2,6,172,210,22,9,9,15,15,116,43,34,7,36,20,295,55,3,12,55,163,53,24,9,11,20,4,150,90,209,1,27,8,1,150,85,75,62,20,100,23,40,29,118,129,29,79,51,82,168,137,69,47,67,168,12,189,125,96,26,3,230,72,17,46,68,83,167,38,159,130,216,147,204,160,18,5,49,67,82,10,23,89,20,80,34,1,102,24,29,24,149,8,101,33,39,95,108,201,1,2,83,12,27,87,24,21,52,50,126,29,48,65,70,12,45,5,46,356,57,254,1,221,5,2,3,22,1,44,1,12,1,2,73,31,137,182,29,6,140,158,51,14,126,235,1,1,1,1,3,13,23,51,127,2,2,40,97,17,1,1,2,1,2,8,1,1,1,3,1,1,1,1,169,9,13,198,4,30,23,240
 Capture Consultation Minutes Stakeholder	1778
 Capture ITI TF-2x	1009
 Capture New Partnership Details	11276
@@ -1008,6 +1008,7 @@ Conselho de Administração da APD. CAPÍTULO II REMUNERAÇÃO	752
 Conselho de Administração. CAPÍTULO III ORGANIZAÇÃO	13
 Construction Input Price Index CMA Capital	2775
 Consumer Protection and Financial Capability	940
+Continuous Professional Development and Capacity Building	11791
 Contract Management Capacity	3614
 Cooling Capacity	9123
 Copyright Act Cap	34
@@ -1404,7 +1405,7 @@ Innovation and Capacity	1131
 Innovation and Capacity Building	4528
 Installed and Effective Capacity of Electricity	2775
 Instituições Financeiras. CAPÍTULO V PESSOAL	13
-Institutional Capacity	8184
+Institutional Capacity	8184,3607
 Institutional Capacity Building Framework	9439
 Institutional Capacity Development	6442
 Institutional Capacity Development Programs	3861
@@ -1543,6 +1544,7 @@ Metier Capital Growth Fund III. EM-Three	10735
 Million Capital Raise Anchored	9735
 Minimum Liquid Capital KES	10738
 Mining Cap	6921
+Minister for Kampala Capital City and Metropolitan Affairs	11848
 Mobile Live Capture	8793
 Mobile Live Capture Unit	8793
 Moderate Institutional Capacity for Implementation	10870
@@ -1830,6 +1832,7 @@ Skills and Capabilities	6432
 Skills and Capabilities Business Acumen	6432
 Skills and Capacity Development	11196
 Skills and Human Capital Data	3861
+Smart Africa Capacity Building Programme	11822
 Social Capital	265
 Social Protection System for Human Capital and Resilience	10768
 SoftSuite Human Capital Management	7973
@@ -1943,6 +1946,7 @@ Tigere Is Turning Liquidity Into Capital	6011,985
 Times Group CAPACITY STRAIN	8279
 Timon Capital	2232
 Title Interpretation Cap	22
+Toulouse Capitole University	11821
 Town Cape Winelands Garden Route Garden	8999
 Transferencia de Capital	4209
 Transferencias de Capital	4209
@@ -1966,6 +1970,7 @@ USTDA Western Cape	732
 Ubuntu Capital	11659
 Ubuntu Capital and Agrofresh Ug	11659
 Uganda Printing and Publishing Corporation Act CAP	320
+Uganda's Capital Markets Authority	11819
 Uganda’s Capital Markets Authority	5743
 Under the Human and Social Capital Development	9959
 Undersea Bandwidth Capacity	6671,275
@@ -2048,7 +2053,7 @@ Wegagen Capital	10025
 Weight Western Cape	11286
 Weighted Average Cost of Capital	4896
 Westen Cape View Western Cape Overview	8999
-Western Cape	219,80,107,42,87,196,1,223,1,215,1,1,116,280,370,154,192,2876,1522,149,1186,4,90,263,34,49,106,15,267,1,152,792,103,73,276,295,273,369,8,4,3,16,21,16,5,9,10,13,4,5,2,40,158
+Western Cape	219,80,107,42,87,196,1,223,1,215,1,1,116,280,370,154,192,2876,1522,149,1186,4,90,263,34,49,106,15,267,1,152,792,103,73,276,295,273,369,8,4,3,16,21,16,5,9,10,13,4,5,2,40,158,347
 Western Cape AI Cluster	11012
 Western Cape Artificial Intelligence	11012
 Western Cape Beneficiaries	8999

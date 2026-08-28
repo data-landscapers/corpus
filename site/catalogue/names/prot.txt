@@ -45,7 +45,7 @@ Africa ONAPE National Office for Employment Protection	10841
 Africa Personal Data Protec-	961
 Africa Threatens Privacy and Data Protection	2549
 Africa. A New Era of Protecting Africans	11283
-African Continental Free Trade Area Protocol	7596,1826
+African Continental Free Trade Area Protocol	7596,1826,2405
 African Network of Data Protection Authorities	961
 African Network of Personal Data Protection Authorities	2734
 African Union Data Protection Framework	5244
@@ -967,8 +967,10 @@ Oficial de Protocolo	4209
 Oficial de Protocolo Secretario Juzgado Comarcal Conserje	4209
 Oficiales de Protocolo	4209
 Oicial de Protocolo	4209
+Online Child Protection Policy	11791
 Online Child Protection Policy Zimbabwe	5407,676
 Online Copyright Protection Act	10139
+Online Protection Policy	11791
 Open APIs and Protocols	3861
 Open CPE WAN Management Protocol	7627
 Open Data Policy and Data Protection Law	1161
@@ -995,6 +997,7 @@ PPSD Politique Nationale de Protection Sociale	10964
 PRINCIPIOS RECTORES SOBRE LA PROTECCION	163
 PROJECTO Projecto de Protecção Social	11406
 PROMOCIÓN INDUSTRIAS Y PROTECCIÓN DE GRAL	4209
+PROPOSED ONLINE CHILD PROTECTION POLICY Cabinet	11791
 PROT. INFRAEST. INFRAESTURAS Y SERVICIOS SERVICIOS	4209
 PROTECTING PRIVACY AND USER RIGHTS	10765
 PROTECTION	4867,2671,3043
@@ -1157,6 +1160,7 @@ Protect Your Startup	7518
 Protect Your Vote	9914
 Protect the Future. World Bank Group	969
 Protect the ICT	958
+Protect the Ledger	11796
 Protect the World's Cultural Heritage	3745
 Protect. Strategic Objective	1777
 Protected	6770
@@ -1165,7 +1169,7 @@ Protected Areas The Global Economy	11586
 Protected Computers and Critical Database	4484
 Protecteur	10826
 Protecteur du Citoyen	10826
-Protecting	571,1417,330,6,103,20,74,20,25,48,44,62,5,53,41,1,3,50,41,11,18,4,70,1,8,154,105,18,126,31,163,119,40,38,69,141,37,21,171,109,185,78,45,100,55,254,159,66,32,106,45,60,43,101,181,78,116,183,19,70,19,178,5,104,1,149,7,16,9,34,80,2,128,202,92,576,76,16,169,776,64,30,229,246,122,234,196,547,366,62,54,23,543
+Protecting	571,1417,330,6,103,20,74,20,25,48,44,62,5,53,41,1,3,50,41,11,18,4,70,1,8,154,105,18,126,31,163,119,40,38,69,141,37,21,171,109,185,78,45,100,55,254,159,66,32,106,45,60,43,101,181,78,116,183,19,70,19,178,5,104,1,149,7,16,9,34,80,2,128,202,92,576,76,16,169,776,64,30,229,246,122,234,196,547,366,62,54,23,543,114
 Protecting Africa	10169
 Protecting Americans’ Data	11154
 Protecting Cyber Infrastructure	4676
@@ -1661,6 +1665,6 @@ Zanzibar Social Protection Policy	11133
 Zanzibar Social Protection Policy. Available	11133
 Zimbabwe Appointed SADC Data Protection Leader	3016
 Zimbabwe Data Protection Act	958
-Zimbabwe National Child Online Protection Policy	9794,1817
+Zimbabwe National Child Online Protection Policy	9794,1817,180
 Zimbabwe's Cyber and Data Protection Act	3130,6857
 Zimbabwe’s Data Protection Authority	6181,2256

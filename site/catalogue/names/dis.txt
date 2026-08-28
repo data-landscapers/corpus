@@ -641,7 +641,7 @@ Disaster Science	9128
 Disaster and Risk Management Mauritius National Assembly	11332
 Disasters	11245
 Disastrous	1887
-Disbursed	39,6,2,1,43,19,1,4,33,17,77,1,58,34,160,72,17,65,28,1,67,47,25,1,178,23,136,52,1032,1,233,51,2129,1926,15,334,563,1070,2309,317,7,8,1,1,1,1,1,1,85,2,80,20
+Disbursed	39,6,2,1,43,19,1,4,33,17,77,1,58,34,160,72,17,65,28,1,67,47,25,1,178,23,136,52,1032,1,233,51,2129,1926,15,334,232,331,1070,2309,317,7,8,1,1,1,1,1,1,85,2,80,20
 Disbursed AUD	249
 Disbursed CAD	2167
 Disbursed IBRD	2473
@@ -719,7 +719,7 @@ Disclosed	449,4427,935,9,3622,778,573,6
 Disclosed Data	8436
 Disclosed Not Disclosed	4972
 Disclosing	3,7365,3777
-Disclosure	3,8,15,561,196,429,121,655,721,17,1,388,599,68,79,26,789,568,174,282,1240,172,436,1555,2030,48,1,8,19,387
+Disclosure	3,8,15,561,196,429,121,655,721,17,1,388,599,68,79,26,789,568,174,282,1240,172,436,1555,2030,48,1,8,19,387,193
 Disclosure Query Resolution	11250
 Disclosure Statement	11209
 Disclosure of Information	11250
@@ -767,6 +767,7 @@ Discrepancies	11585
 Discrepancy	2775
 Discrepancy2	2775
 Discrete	5237,1013
+Discretion	11797
 Discretionary	4439
 Discretionary Industrials Real Estate Communication Services	4972
 Discriminant	9129
@@ -804,7 +805,7 @@ Discussion Paper No	5700
 Discussion Technological	7278
 Discussion and Implications	7966
 Discussion and Recommendations	4439
-Discussions	1814,16,326,187,26,180,57,108,252,41,225,527,4,14,519,366,28,200,198,48,22,69,55,57,24,244,65,43,27,40,2,18,115,47,149,17,2,15,63,52,86,63,95,41,36,142,54,56,64,30,7,94,34,113,96,423,13,161,68,8,128,7,201,72,61,12,181,66,35,87,203,91,18,27,126,109,1,351,59,19,1,42,42,15,17,21,399,104,146,61,59,22,384,18,154,3,1,10,8,291
+Discussions	1814,16,326,187,26,180,57,108,252,41,225,527,4,14,519,366,28,200,198,48,22,69,55,57,24,244,65,43,27,40,2,18,115,47,149,17,2,15,63,52,86,63,95,41,36,142,54,56,64,30,7,94,34,113,96,423,13,161,68,8,128,7,201,72,61,12,181,66,35,87,203,91,18,27,126,109,1,351,59,19,1,42,42,15,17,21,399,104,146,61,59,22,384,18,154,3,1,10,8,291,200,33
 Discussões	2816
 Disease	1988,1873,399,414,2272,2772,1062,416,309
 Disease Detectives	9779
@@ -940,7 +941,7 @@ Disproportionate Control	3503
 Dispute	3503,211,147,2571,4706
 Dispute Avoidance and Dispute Settlement	1243
 Dispute Over Intellectual Property Could Derail	11303
-Dispute Resolution	3502,1108
+Dispute Resolution	3502,1108,7186
 Dispute Resolution A. Any	4610
 Dispute Resolution AfCFTA African Continental Free	1243
 Dispute Resolution All	6432
@@ -978,7 +979,7 @@ Disruptive Tech I-17	10785
 Disruptor	11348
 Disrupção	10762
 Dissatisfaction	2477
-Disse	2688,360,858,805,36,7,551,513,200,154,413,10,146,2255,2396,195,91
+Disse	2688,360,858,805,36,7,551,513,200,154,413,10,146,2255,2396,195,91,159
 Dissecting	8460
 Dissecting Racial Bias	5700
 Disseminate	1814,2312,1550
@@ -993,7 +994,7 @@ Dissertation	9739
 Dissertação de Mestrado	10775
 Dissidence and Social Media Censorship	2518
 Dissin	10812,63
-Dissolution	3714,110
+Dissolution	3714,110,7977
 Dissolução	167,10588
 Distance	737,1251,2104,2379,2652,543,522,526
 Distance Learning Centers	2989
@@ -1005,6 +1006,7 @@ Distinct	24,1157,462,177,341,112,501,204,878,380,236,65,482,407,422,1328,5,995,5
 Distinct World Bank Angola	1176
 Distinction	9124
 Distinguish	1250,9767
+Distinguish LIR	11797
 Distinguish Urban and Rural Network Performance	4130
 Distinguish Urban and Rural Network Performance NCC	4130
 Distinguished	3861,3708,2390,99,1232
@@ -1362,7 +1364,7 @@ G20 Disponibilité	10858
 GBV Survivors District	10829
 GEN Description Disaggregated	10768
 GIM-UEMOA Disponibilité	10711
-GOVERNING LAW AND DISPUTE RESOLUTION	8866
+GOVERNING LAW AND DISPUTE RESOLUTION	8866,2930
 GSS Disaggregated	236
 Gambia National Disaster Management Agency	1000
 Gartner Hype Cycle. Disponível	2816

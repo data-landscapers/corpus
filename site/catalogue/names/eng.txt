@@ -352,7 +352,7 @@ England	2096,309,106,3100,297,442,230,625,3937
 England No Comments	5482
 England and Wales	8978,2001
 Englewood Cliffs	11130
-English	19,58,182,477,30,133,59,3,1,7,16,6,223,5,29,13,204,173,82,58,36,12,2,14,43,103,79,184,58,195,1,152,25,192,84,82,19,56,16,3,23,3,38,1,247,70,66,1,13,26,123,46,43,27,57,1,1,14,34,4,4,6,67,72,5,1,5,21,1,13,35,15,30,13,24,17,1,30,17,85,5,93,27,3,28,6,29,11,2,24,2,46,46,4,112,3,17,4,18,12,29,7,60,32,2,18,44,10,31,131,62,69,5,26,5,7,26,23,41,2,10,22,87,2,1,1,1,114,58,5,15,31,16,21,3,3,25,33,35,53,19,43,50,27,1,17,19,12,7,19,7,4,9,3,120,24,13,78,5,12,12,19,10,9,47,27,53,9,32,9,46,30,3,6,12,43,68,37,40,13,22,42,3,20,34,17,8,31,18,23,32,34,18,29,8,40,3,14,36,10,164,61,17,86,174,116,40,13,1,98,52,6,49,11,24,82,10,53,1,74,41,86,4,4,28,96,43,55,30,83,16,71,162,30,187,14,109,55,127,23,25,78,27,377,241,21,15,35,1,4,33,40,3,15,6,99,21,15,61,68,4,2,5,23,13,1,2,2,1,7,1,9,1,1,8,22,27,5,9,7,1,61,57,19,7,73,54,1,11,9,72
+English	19,58,182,477,30,133,59,3,1,7,16,6,223,5,29,13,204,173,82,58,36,12,2,14,43,103,79,184,58,195,1,152,25,192,84,82,19,56,16,3,23,3,38,1,247,70,66,1,13,26,123,46,43,27,57,1,1,14,34,4,4,6,67,72,5,1,5,21,1,13,35,15,30,13,24,17,1,30,17,85,5,93,27,3,28,6,29,11,2,24,2,46,46,4,112,3,17,4,18,12,29,7,60,32,2,18,44,10,31,131,62,69,5,26,5,7,26,23,41,2,10,22,87,2,1,1,1,114,58,5,15,31,16,21,3,3,25,33,35,53,19,43,50,27,1,17,19,12,7,19,7,4,9,3,120,24,13,78,5,12,12,19,10,9,47,27,53,9,32,9,46,30,3,6,12,43,68,37,40,13,22,42,3,20,34,17,8,31,18,23,32,34,18,29,8,40,3,14,36,10,164,61,17,86,174,116,40,13,1,98,52,6,49,11,24,82,10,53,1,74,41,86,4,4,28,96,43,55,30,83,16,71,162,30,187,14,109,55,127,23,25,78,27,377,241,21,15,35,1,4,33,40,3,15,6,99,21,15,61,68,4,2,5,23,13,1,2,2,1,7,1,9,1,1,8,22,27,5,9,7,1,61,57,19,7,73,54,1,11,9,72,181
 English 0.pdf	8113
 English AI	1720
 English Channel	5957
@@ -389,6 +389,7 @@ English-language and Global North	7151
 English-only	7244
 English-origin	7151
 English-speaking	766,1553,831,228,3415,155,842,416,583,2536
+English-speaking African	11821
 English-speaking East African	4150
 English-speaking North West and South West	7958
 English-speaking RoA	10954
@@ -403,6 +404,7 @@ English. Page	962
 English. Realizing AI	10727
 English. So	8376
 English. Sources	9969
+English. Submission	11825
 English.pdf Revolutionary Government of Zanzibar	11142
 Englishspeaking RoA	10954
 Englishterminologiesremainslimited.Thishighlights	8606
@@ -646,6 +648,7 @@ Risk Communication and Community Engagement RCCE	10776
 Risk Communication and Community Engagement SDGs	10776
 Road Map for EU Engagement	970
 Robert Ochola Engagement	7787
+Rt. Hon. Eng. Asiimwe Jonard	11848
 Rules Engine	6423
 RunyankoleEnglishLuganda English News Cybersecurity	9695
 SARS and Stakeholder Impact and Engagement	8670
@@ -659,6 +662,7 @@ SIGNATURE FREQUENCE Engineering	998
 SINA English Copyright	10369
 SINGLE ORIGINAL IN ENGLISH	11517
 SMMEs. Engagement	7759
+SRE Engineer. Maintain	11805
 ST Engineering	5528
 ST Engineering and Airbus Defence and Space	6482
 STAKEHOLDER ENGAGEMENT	1988,3257
@@ -680,6 +684,8 @@ Search Engine Imaginary	11028
 Search Engine Marketing and Affiliate Programs	9855
 Search Engine Provider	26
 Secretary General-elect Engr. Kezias Kazuba Mwale	7884
+Security Engineer. Embed	11803
+Security Engineer. Oversee	11804
 Security Engineers	6832
 Selamawit Engida Abdella	4253,2958
 Senior Engineer	6946
@@ -697,7 +703,7 @@ Social Risks and Impacts Relevant Stakeholder Engagement	1284,9545,135
 Software Development and Engineering	6832
 Software Development and Knowledge Engineering	5700
 Software Engineer	10374
-Software Engineering	1154,5678,2007,1221,1254
+Software Engineering	1154,5678,2007,1221,1254,515
 Software Engineers	6832
 Sole Director of ITS Engineering. Italian Deputy	9971
 Solutions Engineer	10636
@@ -707,7 +713,7 @@ Spon's Civil Engineering and Highway Works Price	3583
 Staff Engineer	9592
 Stakeholder Consultations and Engagements	1988
 Stakeholder Consultative Engagement and Awareness Training	10598
-Stakeholder Engagement	958,1030,1070,429,1758,1701,2157,2028,3,54,28
+Stakeholder Engagement	958,1030,1070,429,1758,1701,2157,2028,3,54,28,624
 Stakeholder Engagement Activities	6946
 Stakeholder Engagement During Implementation	958
 Stakeholder Engagement Lead	4528
@@ -751,6 +757,7 @@ Talent Retention and Diaspora Engagement Zimbabwe	4528
 Tanzania Journal of Engineering and Technology	9128
 Technician Engineer Minister’s Advisor Head	2989
 Tele-control and Instrumentation Engineer	6946
+Telecom Fraud and Social Engineering	11840
 Telecommunications Under-Secretary Engineer Thomas Gatkuoth	3728
 Tenders Engagement of Consultant	10060
 Thematic Engagement Structure Stakeholder	7548

@@ -6,6 +6,7 @@ ABBREVIATIONS Abbreviation Full Term ADCA Africa	7548
 ABBREVIATIONS Term	11228
 ACESSO AO ENSINO SUPERIORNext Termos	6837
 ADDITIONAL SUMMARY TERMS FACTSHEET	1818
+AFRINIC Bylaws Review Committee Terms of Reference	11812
 AFRINIC's Terms of Reference	9612
 ANTI-MONEY LAUNDERING AND COMBATING TERRORISM FINANCING	4633,6646
 APM TERMINALS KENYA LIMITED Data Controller	7167
@@ -48,11 +49,14 @@ Atualmente Terra	2125
 Avec Insight Terra	2407,41,490,2760,1057,3927
 BGAN Terminal	736
 BOSS FREIGHT TERMINAL LIMITED Data Controller	7167
+BRC Terms of Reference	11801,11
+BRC’s Terms of Reference	11801
 BULK STORAGE TERMINAL LIMITED Data Controller	7167
 Banking and POS Terminals	6671
 Blast and Terrorist Attack	9123
 Boost Terminal Business	5336
 Bruta de Natalidade Terapia Combinada	10777
+Bylaws Review Committee’s Terms of Reference	11812
 C. Term	7845
 CEO of Terra Industries	8780
 COMPANY IN TERMS OF DIRECTORS' RESOLUTUION	4896
@@ -228,6 +232,7 @@ Général Direction Générale des Transports Terrestres	10812
 HDP Groupes Armés Terroristes	643
 Health and Territorial Administration	3585
 Higher and Tertiary Education	413,527
+Hnizdo. Teraco	11844
 Honourable Commissioner Maria Teresa Manuela	8485
 Hospedagem de Dados Públicos Termos de Referência Luanda	11448
 Housing and Territorial Planning	4945
@@ -545,6 +550,7 @@ Terabytes	3862
 Teracnosnmdisqsuioanrteanr	11152
 Teraco	447,955,549,9,579,33,401,21,694,171,14,59,1018,75,775,432,18,16,255,59,211,101,746,625,10,318,53,973,152
 Teraco Brackenfell	9617
+Teraco CEO Jan Hnizdo	11844
 Teraco CEO Jan Hnizdo. JB7	1951
 Teraco CFO Samuel Erwin	1951
 Teraco Data Environments	7638
@@ -620,11 +626,12 @@ Terminal Turístico de Ressano Garcia. Numa	10145
 Terminal de Bata	4209
 Terminal de Pagamento Automático	6462,4976
 Terminal de Paiement	10711
+Terminal-approval	11801
 Terminal3	3994
 Terminale C	8877
 Terminales de Pago Electrónico	2927
 Terminals	3491,150,634
-Termination	22,563,569,2560,258,77,105,93,55,2130,766,1668,1847
+Termination	22,563,569,2560,258,77,105,93,55,2130,766,1668,1847,1110
 Termination Clauses Every	6432
 Termination Fees	7198
 Termination of Membership Rationale	8866
@@ -656,7 +663,7 @@ Terms and Conditions	962
 Terms and Conditions of Bidding	11240
 Terms of Foreign Borrowing	3583
 Terms of Historically Disadvantaged Individuals	11218
-Terms of Reference	170,792,299,3,107,723,18,8,869,350,476,288,550,1140,1153,1600,40,1017,1,8,116,332,19,33,307,301,56,94,137,262,481
+Terms of Reference	170,792,299,3,107,723,18,8,869,350,476,288,550,1140,1153,1600,40,1017,1,8,116,332,19,33,307,301,56,94,137,262,481,51,24
 Terms of Reference Name of Committee Constitution Terms	940
 Terms of Reference and Project Brief Annexure	11240
 Terms of Reference for Consultancy Services	2112
@@ -673,7 +680,7 @@ Terms of Use All	6408
 Terms. Non-commercial	11596
 TermsLastAcceptedAt	10848
 Termuma and Crossword Puzzle	10001
-Terra	2125,3417,1075,2163,70,1312,37,1,577,117,485,26,109,11,127
+Terra	2125,3417,1075,2163,70,1312,37,1,577,117,485,26,109,11,127,185
 Terra AI	11652
 Terra Bénin	2354,8522
 Terra Bénin. Ces	10876
@@ -689,6 +696,7 @@ Terra Payment Services	1415
 Terra Payment Services South Africa	8840
 Terra Ranka	11525,1,17,1,8
 Terra Ranka. Tal	11523
+Terra. No Cuanza-Sul	11837
 Terra. São	11405
 TerraFinance	3395
 TerraPay	1415,4,1521,2869,5491
@@ -696,9 +704,10 @@ TerraPay Holdings	1419
 TerraPay Payment Services	1419
 TerraPay's VP Sub-Sahara Africa	2940
 Terrace	11129
-Terraform	10617
+Terraform	10617,1187
 Terraform. Actual	10617
 Terragon	515
+Terragrunt	11804
 Terrain Physical Address Station Name Site	736
 Terrains	6954
 Terrance M. Booysen	10570

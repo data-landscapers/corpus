@@ -100,14 +100,14 @@ Africa Next Tech Frontier	8386
 Africa and France	3036
 Africa. Francophone Weekly	6368
 African Continental Free	4126
-African Continental Free Trade Agreement	961,38,244,874,889,1117,1121,1119,1422,3034,366
+African Continental Free Trade Agreement	961,38,244,874,889,1117,1121,1119,1422,3034,366,624
 African Continental Free Trade Agreement AMP	5244
 African Continental Free Trade Agreement’s Digital	5487
 African Continental Free Trade Area	789,16,156,9,12,17,7,251,7,550,14,289,342,1159,842,123,7,87,46,48,16,4,117,20,25,108,23,160,3,104,81,31,238,33,144,5,213,1,30,194,23,25,32,70,50,118,299,59,6,36,25,9,48,21,33,233,102,13,6,19,29,16,8,145,2,180,37,47,7,25,37,86,131,88,56,57,38,13,246,175,59,5,1,34,49,34,15,11,297,62,41,14,43,36,48,149,8,53,1,64,80,82,105,59,155,79,76,87,101,22,15,124,158,11,47,25,59,4,266,186,11
 African Continental Free Trade Area ADEEG	11271
 African Continental Free Trade Area Agreement	5247
 African Continental Free Trade Area Artificial	4528
-African Continental Free Trade Area Protocol	7596,1826
+African Continental Free Trade Area Protocol	7596,1826,2405
 African Continental Free Trade Area Secretariat	10819
 African Continental Free Trade Area. AfCFTA	10075
 African Continental Free Trade Area. Again	10819
@@ -565,6 +565,7 @@ Digital Freedom Enabling Networks	1566
 Digital Freedom of Expression	1157
 Digital Frontiers	217,9889
 Digital Frontiers Institute	128,144,215,3090
+Digital Frontline	11840
 Digital Governance and Accountability Frameworks	6936
 Digital Health Impact Framework	396
 Digital ID and AU Data Policy Framework	1243
@@ -1022,7 +1023,7 @@ Framponneur B-52	10389
 Fran-aises	10718
 Fran1ework	4153
 Franapon and Luzafon	6985
-Franc	9616,1242,17,647
+Franc	9616,1242,17,647,295
 Franc CFA	2342,2344
 Franc Communauté	11553
 France	235,308,19,11,216,110,71,38,28,147,11,19,16,296,159,18,41,37,123,49,3,93,218,17,31,63,2,8,6,1,150,64,18,106,148,95,61,121,200,108,231,5,3,49,34,67,18,2,253,517,29,3,45,129,122,50,7,296,87,26,92,26,113,133,199,153,46,67,59,15,54,76,6,25,1,11,3,4,15,6,71,112,100,74,60,38,148,81,57,30,31,46,108,104,52,68,88,12,245,56,2,1,82,11,18,36,73,295,29,107,35,79,51,143,19,355,373,256,143,44,103,89,65,182,85,9,11,2,20,23,78,20,13,4,25,67,9,5,30,14,26,170,162,49,36,37,78,55
@@ -1130,6 +1131,7 @@ Francisco Queiroz Edição	10750
 Francisco Queiroz Ministério da Justiça	10752
 Francisco Queiroz Secção Edição	10753
 Francisco Queirós	438
+Francisco Ramos da Cruz	11837
 Francisco Tchimbavo	10366
 Francisco Valle	10764
 Francisco de Pina	11561
@@ -1231,6 +1233,7 @@ Français	1955,777,4210,2397,318,1309,799
 Français. Pour	1955
 Française de Développement	450
 Françaisاقرأ	6368
+François	11814
 François Amour Bakpè	10287
 François Avomato	2697
 François Avomato. Tout	2697
@@ -1262,7 +1265,7 @@ Fratini	5242
 Fratini S	5242
 Fratmat	4549,167
 Fratmat.info	2630,1919,167
-Fraud	26,556,2519,1747,399,79,207,728,126,172,603,11,305,40,88,322,8,418,357,364,722,978,363,15,44,1,91
+Fraud	26,556,2519,1747,399,79,207,728,126,172,603,11,305,40,88,322,8,418,357,364,722,978,363,15,44,1,91,551,1
 Fraud A- Deposit	582
 Fraud Detection May Be Flagging the Wrong	5820
 Fraud Driven From Within the State	9517
@@ -1450,7 +1453,7 @@ Freetown. Technology	8610
 Freetown’s Fallen Cotten Tree	5390,965,827
 Freeway Management System Closest	8603
 Freeway Management System Infrastructure Tambo Memorial	8603
-Freeze	2050,2596,3131
+Freeze	2050,2596,3131,4020
 Freezing	587
 Frego.12048&pages	2096
 Frego.12331&pages	2096
@@ -1469,7 +1472,7 @@ Freja	10714
 Frejus Thoto	10852
 Freleases	4861,929,900
 Frelimo	5815
-French	25,31,69,64,21,25,10,1,14,48,30,99,38,6,225,29,31,195,1,55,32,147,269,60,67,136,43,7,59,5,24,19,13,5,49,3,4,3,280,63,119,83,163,12,341,5,6,25,72,3,23,41,1,144,173,44,147,40,87,48,14,72,66,93,5,8,64,33,30,17,9,110,31,162,29,1,36,2,12,3,31,46,4,115,39,12,36,15,18,14,45,2,17,16,33,37,64,29,169,31,5,7,26,25,15,24,2,10,22,87,2,1,1,1,20,45,49,8,44,6,33,34,21,31,30,91,19,43,49,1,76,49,120,22,2,4,4,7,29,4,22,21,17,12,29,56,69,52,16,19,20,30,3,6,92,30,1,22,55,13,21,43,74,39,12,6,23,34,1,20,29,62,125,278,3,45,93,111,6,88,1,62,36,234,46,8,205,32,674,99,117,83,52,179,43,71,40,74,57,176,19,108,57,97,4,8,11,29,21,57,29,14,9,3,4,1,136,14,6,28,307,55,61
+French	25,31,69,64,21,25,10,1,14,48,30,99,38,6,225,29,31,195,1,55,32,147,269,60,67,136,43,7,59,5,24,19,13,5,49,3,4,3,280,63,119,83,163,12,341,5,6,25,72,3,23,41,1,144,173,44,147,40,87,48,14,72,66,93,5,8,64,33,30,17,9,110,31,162,29,1,36,2,12,3,31,46,4,115,39,12,36,15,18,14,45,2,17,16,33,37,64,29,169,31,5,7,26,25,15,24,2,10,22,87,2,1,1,1,20,45,49,8,44,6,33,34,21,31,30,91,19,43,49,1,76,49,120,22,2,4,4,7,29,4,22,21,17,12,29,56,69,52,16,19,20,30,3,6,92,30,1,22,55,13,21,43,74,39,12,6,23,34,1,20,29,62,125,278,3,45,93,111,6,88,1,62,36,234,46,8,205,32,674,99,117,83,52,179,43,71,40,74,57,176,19,108,57,97,4,8,11,29,21,57,29,14,9,3,4,1,136,14,6,28,307,55,61,207
 French AI	10527
 French Agency for Development	11380
 French Archaeologists	3841,905,65,38,926,129,44,409
@@ -2087,7 +2090,7 @@ Legal Framework for Cyberlaws	1243
 Legal Frameworks	3,1197,4163
 Legal Notification Framework Due	6432
 Legal Services Division Division Frequency Department	6946
-Legal and Regulatory Framework	718,240,42,6548,2307
+Legal and Regulatory Framework	718,240,42,6548,2307,1936
 Legal and Regulatory Framework Digital	9855
 Legal and Regulatory Framework Kenya	7548
 Legal and Regulatory Framework Supporting the Implementation	11006
@@ -2201,6 +2204,7 @@ Mohloai Mpesi FRUSTRATION	11628
 Monitoring Framework	6946,602,3228
 Monitoring and Evaluation Framework	940,60,4579
 Monitoring and Evaluation Framework Framework	1000
+Monitoring and Reporting Framework	11807
 Monsieur François Fayiri Mara	11725
 Monsieur Frédéric Panda	11592
 Monthly High Frequency Events	11228
@@ -2224,7 +2228,7 @@ Multi-Tier Framework Companion	423
 MultiTier Framework	11136
 Multiannual Financial Framework	6468,3348
 Multilayer Framework for Good Cybersecurity Practices for AI	2816
-Mutual Recognition Framework	4301
+Mutual Recognition Framework	4301,7506
 Médecin Sans Frontière	10826
 Médecins Sans Frontiers	10829
 Médecins Sans Frontières	10302
@@ -2504,6 +2508,7 @@ Program. Frequency Annual Data	3604
 Program. Frequency Annual. Data	3604
 Programme Free	11347
 Programming FR	789
+Project Clearance Framework	11832
 Project Development Objective Indicators RESULT FRAME TBL PD	10964
 Project Frame	11525
 Project Results Framework	10963
@@ -2579,6 +2584,7 @@ Refreshed WBG Fragility	11468
 Refugee Policy Review Framework	10841
 Refugee Policy Review Framework Country Summary	10841
 Regional AI Governance Framework	4738
+Regional Cooperative Oversight Framework	11807
 Regional Fragmentation	6051
 Regional Framework	11400
 Regional Framework for Trusted Cross Border Data	8426
@@ -2852,6 +2858,7 @@ Technologies Fluency Fluency Framework	7548
 Technology Polley Framework. Retrieved	1009
 Teilhabe von Frauen	1051
 Telecom CEO Frehiwot Tamru	4806
+Telecom Fraud and Social Engineering	11840
 Telecom and Postal Legal Framework	6002
 Telecommunications Frequency Registration	11
 Telegram de Framponneur B-52	10389

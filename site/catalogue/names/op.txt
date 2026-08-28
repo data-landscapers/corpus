@@ -1184,7 +1184,7 @@ Open APIs	7596
 Open APIs and Protocols	3861
 Open Access	3378,1760,108,1,2484,552,153,692,1,108,502,1045,370,80
 Open Access Article Publishing Charges	5246
-Open Access Data Centres	892,661,292,505,222,33,432,150,321,351,70,262,834,136,39,870,510,486,263,1262,261,765,260,287,341,738
+Open Access Data Centres	892,661,292,505,222,33,432,150,321,351,70,262,834,136,39,870,510,486,263,1262,261,765,260,287,341,738,601
 Open Access Data Centres Bellville. Teraco	9617
 Open Access Data Centres Expands Footprint	11243
 Open Access Data Centres Rondebosch	9617
@@ -1618,7 +1618,7 @@ Operadores de Telecomunicações	2866
 Operaonal	9237
 Operar	1701,736,1781
 Operat	9123
-Operate	958,4333,2357,2509,662,187,1
+Operate	958,4333,2357,2509,662,187,1,798
 Operate CAB Central African Backbone CCDR	1264
 Operate Digital Industrial Park	9117
 Operate Guidelines for Europe	11007
@@ -1841,7 +1841,7 @@ Operations and Maintenance Policy	11007
 Operations and Maintenance Regularly	11007
 Operations and Organisational Development	11237
 Operative	3896,3811
-Operator	593,125,2058,1086,63,1320,434,321,51,372,170,78,43,232,602,1098,477,914,370,449,372
+Operator	593,125,2058,1086,63,1320,434,321,51,372,170,78,43,232,602,1098,477,914,370,449,372,573
 Operator Airtel Networks TKL Finserve JTL	6671
 Operator BWA Data	2776
 Operator BWA Subscription Q3	2776
@@ -1868,8 +1868,9 @@ Operator Telecel’s Fixed Data	2776
 Operator Telesol	2776
 Operator Type Compliance	6432
 Operator and Market	2776
+Operator-facing	11801
 Operator. Hence	3862
-Operators	718,18,1565,153,257,65,695,44,33,93,160,61,42,519,136,49,29,438,41,84,44,261,23,257,15,11,97,92,266,73,220,34,78,37,40,142,56,120,221,115,146,361,218,80,59,132,270,160,282,2,9,2,385,15,120,93,23,91,5,1,299,382,51,268,102,536,56,13,79,86
+Operators	718,18,1565,153,257,65,695,44,33,93,160,61,42,519,136,49,29,438,41,84,44,261,23,257,15,11,97,92,266,73,220,34,78,37,40,142,56,120,221,115,146,361,218,80,59,132,270,160,282,2,9,2,385,15,120,93,23,91,5,1,299,382,51,268,102,536,56,13,79,86,113
 Operators Are Expanding Beyond Connectivity Africa	6714
 Operators Increased International Capacity	718
 Operators Increased International Capacity Operators	718
@@ -2519,6 +2520,7 @@ Trade and Investment Approved Operations	10779
 Trade and Investment Operation Name Angola DPF3	10779
 Trade and Investment Operation Name Angola DPO2	10779
 Trans-Saharan Fiber Optic Backbone	2533
+Transform ICT Ministry Operations	11828
 Translate.org. Open-source	985
 Transmission System Operator	11236,36
 Treasury Operations	11131

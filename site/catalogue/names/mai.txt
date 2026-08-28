@@ -193,6 +193,8 @@ MAI-Voice-2	6498
 MAIIC	8399
 MAIKIBI DJIBRILA Décision	998
 MAIN ACTIVITIES IN VILLAGES AS REPORTED	10763
+MAIN DUTIES AND ACCOUNTABILITIES Own	11803,2
+MAIN DUTIES AND ACCOUNTABILITIES Own the AWS	11804
 MAIN SOCIO-ECONOMIC DEVELOPMENT INDICATORS AND ICT	958
 MAIN Station	736
 MAIN THREATS CONFRONTING THE DHA	5533
@@ -301,7 +303,7 @@ Mainstreaming AI	1814
 Mainstreaming Activities and Environmental Sustainability	6946
 Mainstreaming Trust and Safety	42
 Mainstreaming of Regulatory Sandboxes	4848
-Maintain	940,1048,1873,265,484,1055,767,1106,10,998,453,167,271,313,105,302,250,314,98,310,2,3,46,96
+Maintain	940,1048,1873,265,484,1055,767,1106,10,998,453,167,271,313,105,302,250,314,98,310,2,3,46,96,528,1
 Maintain Time	1009
 Maintain the PIU	11417
 Maintainability Testing	5665
@@ -477,6 +479,7 @@ Road Maintenance Funds	2775
 Road Maintenance Trust Fund	7695
 Rodolfo Maino	1828
 Rural Mais	10777
+SRE Engineer. Maintain	11805
 STANDARD FOR MAIL ADDRESSING	11129
 Second Class Air Mail	1220
 Sector Produtivo Pede Arquitectura Financeira Mais	8003

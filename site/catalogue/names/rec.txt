@@ -393,7 +393,7 @@ Exploração de Recursos Naturais Na	2816
 External Financing Recedes	5913
 Eye Recognition The Republic of Niger	2427
 F. Conclusions and Policy Recommendations	1828
-FATF Recommendation	11233
+FATF Recommendation	11233,588
 FATF Recommendations	10775,458
 FATF Recommendations. If the Reporting Financial Institution	11233
 FC. Recettes	2561
@@ -624,7 +624,7 @@ Motivos de Recusa	11520
 Movilización de Recursos	8048
 Moxico. Recent	10768
 Mutual Recognition Agreements	4590
-Mutual Recognition Framework	4301
+Mutual Recognition Framework	4301,7506
 Mutual Recognition and Interoperability of National IDs	10819
 Método de Recolha Anualmente	10766
 N Sector Received	718
@@ -961,7 +961,7 @@ Received	22,396,801,1299,4694,598,566,226,1,1,1,1,148,374,1,108,416,86,33,1008,4
 Received Date	11276
 Received Feedback	9772
 Received InfraCo Shares	4896
-Receiver	736,938,245,733,2999,3855,1,105,1,302,77
+Receiver	736,938,245,733,2999,3855,1,105,1,302,77,1808,12,1
 Receiver Group Elevation	11405
 Receiver I Certify	736
 Receiver P1	1674
@@ -988,7 +988,7 @@ Recensement Général des Entreprises	10875,105
 Recensement Général des Entreprises RGPH	10874
 Recensements	10875
 Recenser	10876
-Recent	233,728,8,274,41,544,59,209,422,108,41,159,187,339,231,21,202,42,279,301,86,334,124,70,203,140,148,73,306,256,58,7,199,84,77,337,8,179,241,1,186,166,20,59,86,10,80,56,125,2,125,9,18,125,214,52,177,21,239,20,6,279,7,298,117,21,19,57,179,56,242,120,214,117,116,31,108,4,9,6,269,45,55,25,11
+Recent	233,728,8,274,41,544,59,209,422,108,41,159,187,339,231,21,202,42,279,301,86,334,124,70,203,140,148,73,306,256,58,7,199,84,77,337,8,179,241,1,186,166,20,59,86,10,80,56,125,2,125,9,18,125,214,52,177,21,239,20,6,279,7,298,117,21,19,57,179,56,242,120,214,117,116,31,108,4,9,6,269,45,55,25,11,261
 Recent AI Factories and Gigafactories	6879
 Recent AU African Position	1814
 Recent Angola	10781
@@ -1266,7 +1266,7 @@ Reconstruction Development Programme Objective	11209
 Reconstruction Investment Fund	11310
 Reconstrução	11390,50
 Reconversão	11373
-Record	103,3,85,1,36,1,9,52,10,3,13,1,2,101,1,56,21,53,2,20,7,1,155,464,274,514,263,458,452,553,147,559,32,694,357,920,67,123,1375,616,420,1367,790
+Record	103,3,85,1,36,1,9,52,10,3,13,1,2,101,1,56,21,53,2,20,7,1,155,464,274,514,263,458,452,553,147,559,32,694,357,920,67,123,1375,616,420,1367,790,616
 Record Activities	10775
 Record Date	7198,1741
 Record FAMS Financial Management System FTP	34
@@ -1428,6 +1428,7 @@ Recurso Contencioso	4274
 Recurso Humanos	10752
 Recursos	13,2,148,1538,1165,1343,1454,5120,603,1,140,1,15,26
 Recursos Conexos	11430
+Recursos Escassos	11795
 Recursos Externos	4209
 Recursos Financeiros	10783
 Recursos Financeiros Artigo	2866

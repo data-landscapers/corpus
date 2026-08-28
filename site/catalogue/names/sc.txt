@@ -374,7 +374,7 @@ Complete Complete Complete Ahead of Schedule Ahead	11134
 Compliance Requirements Compliance Level Score Regulations	5665
 Composite Score	2957
 Computation of Sovereignty Score Commission	3787
-Computer Science	1554,5724,1328,522,347,585,642,429,2,1,510,71
+Computer Science	1554,5724,1328,522,347,585,642,429,2,1,510,71,114
 Computer Science Department	8606
 Computer Science Information Systems	10060
 Computer Science Review	8603,2
@@ -498,7 +498,7 @@ Data Science Without Borders	11143
 Data Science and Adaptive Analysis	5244
 Data Science and Analytics	9576
 Data Science and Analytics Education	8560
-Data Science and Artificial Intelligence	7034
+Data Science and Artificial Intelligence	7034,4795
 Data Science for Health	1653
 Data Science for Social Impact	11143
 Data Sciences	1183
@@ -841,6 +841,7 @@ Governance Climate Change and Disaster Screening	10829
 Government Data Classification Scheme	6432
 Government Printing Works. Schreiber	5876
 Government Scales	10822
+Government of Uganda Scholarship	11829
 Government’s UHC Scheme	10970
 Grabouw Wynberg Schemanshoek Khayelitsha Mobile Teams	8999
 Grace Nursery School	11773
@@ -1198,6 +1199,7 @@ MathSciNet Google Scholar Gera S	9739
 Mathematics and Science	7695
 Maths STI Science	4126
 Max. Score	3787
+Mbarara University of Science	11829
 Mbaye Scellé	4960,62,2035
 Measure Score	10759,209
 Medical Laboratory Science Council of Nigeria	7409
@@ -2101,6 +2103,7 @@ Schwalbe	11585
 Schwartz	3279,7661
 Schwarz	236
 Schwarz EUR	6946
+Schwarz GmbH	11830
 Schwarz GmbH ContentLens.ai Barcelona Provincial Council	8530
 Schwarz Group	5846,1033
 Schwerpunkt Boden	49
@@ -2122,7 +2125,7 @@ SciELO Scientific Electronic Library Online STM	5246
 SciELO-SA	5246
 SciPap	7886
 Scidev.Net	4674
-Science	737,52,57,53,255,7,304,89,156,46,58,282,590,14,9,107,69,73,92,90,218,5,241,257,265,402,26,82,249,49,102,61,120,27,1,1,3,8,17,97,42,110,177,366,108,306,143,209,80,85,365,136,50,171,303,208,150,80,99,14,127,101,213,112,352,98,6,48,156,424,82,8,300,168,8,117,71,5,59,22,85,21,59,5,1,9,58,190,82
+Science	737,52,57,53,255,7,304,89,156,46,58,282,590,14,9,107,69,73,92,90,218,5,241,257,265,402,26,82,249,49,102,61,120,27,1,1,3,8,17,97,42,110,177,366,108,306,143,209,80,85,365,136,50,171,303,208,150,80,99,14,127,101,213,112,352,98,6,48,156,424,82,8,300,168,8,117,71,5,59,22,85,21,59,5,1,9,58,190,82,288
 Science Academy	4353
 Science And Technology	899
 Science Based Targets	7402
@@ -2239,7 +2242,7 @@ Scission	10875
 Scolarisation	737,10110
 Scolarisation TIC Technologies	12
 Scombined	8606
-Scope	25,3,208,526,97,150,176,24,5,9,20,94,14,163,72,1,5,13,132,5,43,9,83,36,75,102,5,64,1,48,217,40,314,423,5,389,32,1,22,27,78,105,24,159,56,13,16,173,64,16,11,97,1,27,22,1,193,162,236,59,1,6,61,406,199,39,529,133,189,78,59,46,1,122,23,2,3,133,181,49,97,183,59,101,258,53,344,44,163,11,297,2,39,21,186,294,1,484,69,31,576,98,70,85,44,95,23,1,1,28,56,48,43,44,1,16,100
+Scope	25,3,208,526,97,150,176,24,5,9,20,94,14,163,72,1,5,13,132,5,43,9,83,36,75,102,5,64,1,48,217,40,314,423,5,389,32,1,22,27,78,105,24,159,56,13,16,173,64,16,11,97,1,27,22,1,193,162,236,59,1,6,61,406,199,39,529,133,189,78,59,46,1,122,23,2,3,133,181,49,97,183,59,101,258,53,344,44,163,11,297,2,39,21,186,294,1,484,69,31,576,98,70,85,44,95,23,1,1,28,56,48,43,44,1,16,100,284
 Scope Conditions and Limitations	7966
 Scope Implementation Guidelines Education	2958
 Scope Implementation Guidelines Education AI	2958
@@ -2380,7 +2383,7 @@ Scrutin	5738
 Scrutiny	6947
 Scylla	8283,232
 Secod Schedule	736
-Second Schedule	587,149,487,649,5,111,721,1037,4099
+Second Schedule	587,149,487,649,5,111,721,1037,4099,3944
 Second Schedule and Third Schedule	1223
 Second Schedule. Access	587
 Second Schedule. Administrative	587

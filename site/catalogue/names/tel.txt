@@ -48,7 +48,7 @@ Africa Ethiopia International Telecommunication Union	10764
 Africa Telecommunications Union	961
 African Advanced Level Telecommunications Institute	7167
 African Telcos	4993
-African Telecommunications Union	962,3663,560,365,36,90,331,332,303,148,156,128,31,457,31,76,139,17,51,7,1,39,15,12,96,71,124,177,78,1,233,73,433,431,89,14,1441,289
+African Telecommunications Union	962,3663,560,365,36,90,331,332,303,148,156,128,31,457,31,76,139,17,51,7,1,39,15,12,96,71,124,177,78,1,233,73,433,431,89,14,1441,289,302
 African Telecommunications Union Secretariat	7562
 African Telecommunications Union Spectrum Assignment	7827,262
 African Telecommunications Union Spectrum Assignment Plan	7850,323
@@ -191,6 +191,7 @@ CLICK N TELL LIMITED Data Controller	7167
 CLICK N TELL LIMITED Data Processor	7167
 COMESA Telecommunications Officer Mr. Leonard Chitundu	9182
 COMMUNICATION AUTHORITY OF KENYA Fixed Telephony	6946
+COMRiC's Telecommunications Sector Report	11841
 CREI Solar Energy for Telecom Towers	2234
 CREI South Sudan Telecom Energy Infrastructure	1470
 CV Telecom	5884
@@ -291,6 +292,7 @@ Consortium of Telco Operators	6019
 Contact Centre Tel	1009,10187,17,360
 Contact Person Designation Email Telephone Date	6432
 Contact Telephone Number	11250
+Corporate Communications and Public Affairs Department Tel	11807
 Corporate Services Tel	11224
 Correios Tel	11515
 Cumulative Number of Telecommunications Licensees	6946
@@ -438,7 +440,7 @@ Ethio Telecom's Digital Experience Center	3788
 Ethio Telecom-Ericsson	5333
 Ethio Telecom-National ID	4916
 Ethio Telecom-ZTE	5333
-Ethiopia Tel	961,6990
+Ethiopia Tel	961,6990,3857,9
 Ethiopia Telecom Market Assessment	3773
 Ethiopia's Ethio Telecom	4192,5708
 Ethiotelecom's Telebirr	8671
@@ -748,7 +750,7 @@ MTN Telecel AT Total Figure	2776
 MTN Telecel Figure	2776
 MTN Telecel Total Figure	2776
 MTN and Telecel	2776,1361,3888
-Mahanagar Telephone	11648
+Mahanagar Telephone	11648,140
 Mahanagar Telephone Mauritius Ltd	1401
 Major General MT Mathonsi Telephone	11188
 Mali Tel	6959
@@ -771,7 +773,7 @@ Maroc Telecom and Orange Maroc	5772
 Maroc Telecom. Crosswalk	1065,376
 Maroc Telecom. Morocco	8828
 Mauritania's Telecommunications Regulatory Authority	4637
-Mauritius Telecom	3292,902,228,276,61,363,360,1742,20,91,30,1,1,123,1209,1249,1,98,1601,113
+Mauritius Telecom	3292,902,228,276,61,363,360,1742,20,91,30,1,1,123,1209,1249,1,98,1601,113,27
 Mauritius Telecom CEO Veemal Gungadin	7366
 Mauritius Telecom Chairman Sarat Lallah	7335,31,2583
 Mauritius Telecom Connect	4194
@@ -941,6 +943,7 @@ No. of No. Type of Television Service	236
 Notification Type Cell C MTN Telkom	11259
 Nouakchott Mauritanie. Tel	5983
 Noviembre. Plan Nacional de Numeración Telefónica	9543
+Novo Regulamento de Licenciamento de Telecomunicacoes	11795
 Number of Telecommunications Licensees ICT Statistics	6946
 O Relatório da União Internacional de Telecomunicações	795
 OFF-NET ENVIADAS TELECEL ORANGE	11574
@@ -1078,6 +1081,7 @@ Registration of Telecommunications Service Subscribers	2996
 Registration of Telecommunications Services. Registration	1583
 Reguladores de Telecomunicações	11531
 Regulamento de Controlo de Tráfego de Telecomunicações	4274,3969,415
+Regulamento de Licenciamento de Telecomunicacoes	11795
 Regulamento de Segurança de Redes de Telecomunicações	795
 Regulatory Authority for Telecommunications and ICT	10198
 Related Legislation. Telecommunicatio	1777
@@ -1262,7 +1266,7 @@ TV Television UHF Ultra-High Frequency UN	6946
 Tags Econet Zimbabwe NetOne Telecel POTRAZ	6011
 Takoradi Tel	2776
 Tamale Tel	2776
-Tanzania Tel	7967
+Tanzania Tel	7967,3840
 Tanzania Telecom Sector Should Be Declared	6711
 Tanzania Telecom Subscriptions Reach	5715
 Tanzania Telecommunication Corporation	9149
@@ -1291,6 +1295,7 @@ TelOne and Econet’s AI Data Centre	8483
 TelOne and Telecontract	6000
 TelOne's Omni Centre	9397
 TelOne’s ADSL2	6244
+TelQuel Dans	11835
 Telangana	9025,533,1598
 Telangana’s Integrated Platform	11156
 Telas	2816
@@ -1376,6 +1381,7 @@ Telecom Egypt and Zain Omantel International	3342
 Telecom Egypt's Regional Data Center Hub	7425
 Telecom Egypt's Regional Data Hub	1956
 Telecom Egypt. Telecom Egypt	10461
+Telecom Fraud and Social Engineering	11840
 Telecom GITEX Nigeria	9117
 Telecom Giant Orange Côte	6017
 Telecom Identity Risk Management System	5880
@@ -1445,6 +1451,7 @@ Telecommunication Companies TOR Terms of Reference TRIPS	236
 Telecommunication Construction Co	619
 Telecommunication Contractors	6946
 Telecommunication Development Bureau	961,7984,1819,80,719
+Telecommunication Directive	11788
 Telecommunication GDP Gross Domestic Product GFCF	236
 Telecommunication Gedung Sapta Pesona Centre Union	11563
 Telecommunication Infrastructure Index	1353,9487
@@ -1472,7 +1479,7 @@ Telecommunication Union Newsletter	9109
 Telecommunication X X	236
 Telecommunication and Information Policy	4896
 Telecommunication and Postal Regulation Authority	1851
-Telecommunications	26,1,1,12,196,346,136,18,26,481,21,613,3,29,40,357,5,74,13,112,188,61,16,185,129,7,101,212,55,96,39,5,37,111,18,1,13,61,17,97,138,29,107,107,5,7,159,17,27,126,215,351,41,32,301,56,4,32,277,222,78,72,262,66,315,184,403,12,684,105,523,166,41,11,55,57,28,61,64,89,12,74,185,56,55,53,17,53,375,200,79,264,66,51,183,51,162,100,26,2,212
+Telecommunications	26,1,1,12,196,346,136,18,26,481,21,613,3,29,40,357,5,74,13,112,188,61,16,185,129,7,101,212,55,96,39,5,37,111,18,1,13,61,17,97,138,29,107,107,5,7,159,17,27,126,215,351,41,32,301,56,4,32,277,222,78,72,262,66,315,184,403,12,684,105,523,166,41,11,55,57,28,61,64,89,12,74,185,56,55,53,17,53,375,200,79,264,66,51,183,51,162,100,26,2,212,77
 Telecommunications ACT	4610
 Telecommunications Act	3760,850,634,2166,206,1126,93,921,650,1
 Telecommunications Authority	3464
@@ -1538,6 +1545,7 @@ Telecommunications Republic of Liberia	5244
 Telecommunications Secretariat	1264
 Telecommunications Sector	236,4374,1067,5585
 Telecommunications Sector Market Report	1013
+Telecommunications Sector Report	11840
 Telecommunications Sector Revenues	11211
 Telecommunications Sector Revenues OTT	11262
 Telecommunications Sector. B. The CERT	4610
@@ -1592,7 +1600,7 @@ Telecommunications and Postal Services P567	1670
 Telecommunications and Technology	109
 Telecommunications. Emerging	1777
 Telecompaper	564,953,481,854
-Telecoms	36,2306,952,240,26,118,184,5,322,426,23,49,62,15,291,118,74,468,12,130,392,40,4,196,194,82,69,395,317,16,463,441,780,1132,2
+Telecoms	36,2306,952,240,26,118,184,5,322,426,23,49,62,15,291,118,74,468,12,130,392,40,4,196,194,82,69,395,317,16,463,441,780,1132,2,1461
 Telecoms Amazon	7284
 Telecoms Contribution	8466
 Telecoms Ecosystem	3862
@@ -1619,7 +1627,7 @@ TelecomsLilongweDigital	5320
 Telecomu	11518
 Telecomunicaciones	163,812,726,154,1639,715,2632,259,603,1,379,70,401,764,1446,765,34
 Telecomunicaciones Las	1701
-Telecomunicações	13,2,152,263,750,12,23,49,1031,3,24,43,66,150,32,116,87,5,45,271,421,348,240,1,71,30,2,24,1055,76,137,412,20,5,1,557,48,10,15,7,23,158,97,31,192,122,5,700,214,384,307,4,4,22,116,240,21,1,176,125,527,80,385,63,140,18,300,86,159,13,41,1,7,3,4,3,3,4,1,5,13,13,13,49,28,1,12,1,23,8,6,13,49
+Telecomunicações	13,2,152,263,750,12,23,49,1031,3,24,43,66,150,32,116,87,5,45,271,421,348,240,1,71,30,2,24,1055,76,137,412,20,5,1,557,48,10,15,7,23,158,97,31,192,122,5,700,214,384,307,4,4,22,116,240,21,1,176,125,527,80,385,63,140,18,300,86,159,13,41,1,7,3,4,3,3,4,1,5,13,13,13,49,28,1,12,1,23,8,6,13,49,193
 Telecomunicações Móveis Internacionais	9236
 Telecomunicações Tecnologias de Informação	1192,6053,4157
 Telecomunicações da Comunidade	11531
@@ -1639,7 +1647,7 @@ Telefonia Móvel Banda Larga Subscrições da Rede	11418
 Telefonia Móvel Celular Taxa	11418
 Telefonica	4676,942
 Telefonica and Telecom Italia	4676
-Telegram	1594,88,1976,33,263,798,270,150,64,535,9,14,61,268,152,26,84,35,308,106,114,661,1038,923,46,340,37,37,349,2,8,90,92,42,78,326,245
+Telegram	1594,88,1976,33,263,798,270,150,64,535,9,14,61,268,152,26,84,35,308,106,114,661,1038,923,46,340,37,37,349,2,8,90,92,42,78,326,245,558,15,3
 Telegram Email Copy Link Previous ArticlePost	6721
 Telegram Email Copy Link Previous ArticleTakealot	6898
 Telegram Lancement	2629,770,367,55,45,867,580,142,234,14,2,102,70,47,210,371,62,277,263,16,2,157

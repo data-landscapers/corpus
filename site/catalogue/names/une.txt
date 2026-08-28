@@ -50,6 +50,7 @@ Comunicación UNESCO	1701
 Conferência Geral da UNESCO	2816
 Constitucional Presidente Comisión Nac. UNESCO Secretario	4209
 Continental Artificial Intelligence Strategy. UNECA	7529
+Copyright UNECA	11816
 Cybersecurity UNECA	10819
 D-Money. Une	1287
 DG du FOGEC. Une	4893
@@ -381,7 +382,7 @@ Unevenstaffcapacity	8602
 Unexpectedly	4432
 Unexplained	3583
 Unexplored Frontier of Innovation and Inclusivity	4970
-Union. Une	8066
+Union. Une	8066,3760
 United Nations UNECA United Nations Economic	1814
 Universidade Eduardo Mondlane UNESCO	2816
 Urban Rural Urban Rural Employed Unemployed	10763
@@ -389,4 +390,5 @@ VIE DES POPULATIONS UNE ACCÉLÉRATION	2342
 Vouloir Exécuter Une Commande Politique Politique	4960,62,2035
 Washington Une	8755
 Women Employed Women Unemployed	11004
+World Bank and UNECA	11839
 World Unemployment Rate	2775

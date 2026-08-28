@@ -302,7 +302,7 @@ Requerer	11383,47
 Requerimento	794,10625,48
 Requerimento de Reembolso	11467
 Requerir	163
-Request	34,202,351,1241,167,1892,547,427,932,630,9,2702,140,356,106,157,875,7,34,161,47,164,47,297
+Request	34,202,351,1241,167,1892,547,427,932,630,9,2702,140,356,106,157,875,7,34,161,47,164,47,297,272
 Request Correction	11276
 Request Form Portals Complaints Portal Voice	9109
 Request IT3	11276
@@ -322,7 +322,7 @@ Request for Quotations	2989,8536
 Request for Quotations RPF Resettlement Policy Framework	11525
 Request the National Audit Chamber	3583
 RequestLevel	10848
-Requested	9123
+Requested	9123,2674
 Requested Federal	5773
 Requested the AACB Secretariat	4103
 Requested the African Union Commission	4103
@@ -330,7 +330,7 @@ Requesting	6432,4866,287
 Requesting Officer	34
 Requesting Unit	10870
 Requestors and Providers	3815
-Requests	1474,304,2037,46,2011,69,1006,265,1628,283,937,756,424,31,246,68
+Requests	1474,304,2037,46,2011,69,1006,265,1628,283,937,756,424,31,246,68,212
 Requests for Rollover of Funds	11250
 Requests the AU Commission	5825
 Requiert	10876

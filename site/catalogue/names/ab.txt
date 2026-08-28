@@ -1,3 +1,4 @@
+A. Absence	11821
 A. S. Abdallah	5349
 A3 ABACERIAS	4209
 AB Construction	3868
@@ -169,7 +170,7 @@ ACRONYMS Abbreviation Full	11261
 ACRÓNIMOS E ABREVIATURAS ADM Método	11555
 ACRÓNIMOS E ABREVIATURAS BAD	11387
 ACT DONE AT ABUJA	11517
-ADDIS ABABA	7538,2103
+ADDIS ABABA	7538,2103,2167,9
 ADDIS ABABA TELECOMMUNICATIONS LICENSING DIRECTIVE WHEREAS	762
 ADDIS ABEBA	4209
 ADULTS WORRY ABOUT HAVING ENOUGH	10977
@@ -271,6 +272,7 @@ Abdallah Ali-Nakyea	10335
 Abdallah Deguig	1241,7650
 Abdallah Ibrahim Yonis. Complements the JO	4197
 Abdallah Jabbour	10714
+Abdallah Mukalled	11819
 Abdallah Tabhiret	5760
 Abdan Marivvs Mikpon'ai	7879
 Abdel Aal	10448
@@ -307,8 +309,10 @@ Abdelkrim Bouzred. Lors	6195
 Abdellah Deguig Catégorie	8891
 Abdellah Mouttaqi	8891
 Abdellah Saaf Jeunes Marocains	8891
+Abdellatif Hammouchi	11835
 Abdellatif Jouahri	8891
 Abdellatif KIDAI	8891
+Abdellatif Ouahbi. Selon	11835
 Abdelmadjid TEBBOUNE	4403,7243
 Abdelmadjid Tebboune	3883,285,787,2076,21,1585,607,253,1,2165
 Abdelmaksoud Rachdi	8891
@@ -661,13 +665,15 @@ Aboubakar NACANABO	2063,3241
 Aboubakar NACANABO Officier	10875
 Aboubakar Nacanabo	2598,5,1780,167,967,205
 Aboubaker Omar Hadi	1287
+Aboubakri Diaw	11808
 Aboudou	7113
 Aboudou. Ce	7113
 Aboudou. Cet	7113
 Aboukar Nacanabo	1298
-About	225,193,144,209,18,110,41,290,584,174,348,631,50,550,333,301,39,138,183,393,76,426,17,292,55,150,145,172,241,139,537,28,405,285,152,124,332,74,211,13,63,35,17,27,86,1,10,549,50,6,37,30,33,13,12,127,144,87,105,36,17,138,87,57,123,10,35,5,16,28,17,12,20,17,82,17,13,38,106,1,14,7,14,76,43,91,89,56,27,211
+About	225,193,144,209,18,110,41,290,584,174,348,631,50,550,333,301,39,138,183,393,76,426,17,292,55,150,145,172,241,139,537,28,405,285,152,124,332,74,211,13,63,35,17,27,86,1,10,549,50,6,37,30,33,13,12,127,144,87,105,36,17,138,87,57,123,10,35,5,16,28,17,12,20,17,82,17,13,38,106,1,14,7,14,76,43,91,89,56,27,211,45
 About AFC AFC	5913,5744
 About AFC Capital Partners AFC Capital	11657
+About Afreximbank Academy	11809
 About Afreximbank African Export-Import Bank	8149
 About Africa CDC	4782
 About Africa Digital Intelligence	8426
@@ -679,9 +685,11 @@ About CBE Mandate	11134
 About CTechTerms of UsePrivacy PolicyDubai Flights Developed	10068
 About Contactable Contactable	6559
 About Convalt Energy Convalt Energy	6633
+About CreditRegistry Corporation CreditRegistry Corporation	11809
 About DEEP	11133
 About Digicloud Africa	5256
 About Disrupt Africa	4884
+About ECA The United Nations Economic	11808
 About EFG Holding	9826
 About EUMETSAT	11291
 About GCG The Global Centre	9889
@@ -747,7 +755,7 @@ About the Authors	4689,861
 About the Authors George Gor	8511
 About the Data Summit and Nafasi	8713
 About the Democratic Republic	9682
-About the East African Community	7967
+About the East African Community	7967,3839,1
 About the Executive Table The Bridgforte Executive	11138
 About the GATEWAY Program GATEWAY	11347
 About the Global Findex Database	10977
@@ -816,7 +824,7 @@ Abridged Audited Financial Statements	1154
 Abridged Circular	4896
 Abridged ICT Sector	958
 Abridged and Main Report the Expert Group	582
-Abril	414,135,203,1613,364,12,125,653,755,895,42,452,58,70,59,104,20,5,1,8,580,230,172,3780,3,4,20,6,534,46,5,4,5,1,3,1,1,3,17,1,1,11,5,8,3,3,17,1,2,1,1,1,1,1,1,6,12,47,16,13,22
+Abril	414,135,203,1613,364,12,125,653,755,895,42,452,58,70,59,104,20,5,1,8,580,230,172,3780,3,4,20,6,534,46,5,4,5,1,3,1,1,3,17,1,1,11,5,8,3,3,17,1,2,1,1,1,1,1,1,6,12,47,16,13,22,260
 Abril ATRIBUIÇÃO DO NIF	11435
 Abril ATRIBUIÇÃO DO NIF A PESSOAS	11435
 Abril Fluxograma	11435
@@ -1048,7 +1056,7 @@ Acronyms and Abbreviations	970,5862,114,4304
 Acronyms and Abbreviations ACP Africa	970
 Across Lagos and Abuja Fresh	4601
 Acto de Abertura de Conta de Moeda Electrónica	11404
-Addis Ababa	26,1,1,83,266,252,104,228,70,132,56,18,6,354,117,100,446,257,359,2,5,23,16,258,36,22,249,108,64,36,93,335,226,227,190,16,5,19,267,1,18,110,100,179,344,48,88,5,894,650,28,152,104,25,1,67,22,165,14,104,135,22,322,248,112,275,1,1,493,30,7,658,87,76,50,177,397,5,129,177,71
+Addis Ababa	26,1,1,83,266,252,104,228,70,132,56,18,6,354,117,100,446,257,359,2,5,23,16,258,36,22,249,108,64,36,93,335,226,227,190,16,5,19,267,1,18,110,100,179,344,48,88,5,894,650,28,152,104,25,1,67,22,165,14,104,135,22,322,248,112,275,1,1,493,30,7,658,87,76,50,177,397,5,129,177,71,143,9,2,20
 Addis Ababa Action Agenda	970,2613,6752,858
 Addis Ababa Agreement	3583
 Addis Ababa City Administration	7463
@@ -1093,6 +1101,7 @@ Africa Conclusion Appendices About the Research Disclaimer	5247
 Africa Is Punching Above the Global Average	6714
 Africa. Abidjan	10718
 Africa. About	10718
+Africa. About Afreximbank African Export-Import Bank	11809
 Africa. About IFC IFC	9079
 Africa. About the Strengthen for Early Warning	11283
 Ahmed Abaddi	1241,7650
@@ -1339,6 +1348,7 @@ Décision Abrogation	998
 D’après Aboubakar Nacanabo	4550
 E. Aben	3782
 E. Abu-Taieh	7278
+ECA Chief of Staff Mr Aboubakri Diaw	11817
 ECOWAS Business Council. Dr. Abdul Kamara	7452
 ENDS About Moove	9098
 ENDS- About the GSMA The GSMA	7825
@@ -1570,7 +1580,7 @@ Kampala and Addis Ababa	8074
 Kano Governor Abba Yusuf	9876
 Kashifu Abdullahi	4621,5952
 Kashifu Abudullahi	10681
-Kashifu Inuwa Abdullahi	2680,374,690,2314,631,1735,15,547,131,1,839,467,142,114,446,178
+Kashifu Inuwa Abdullahi	2680,374,690,2314,631,1735,15,547,131,1,839,467,142,114,446,178,528
 Kashifu Inuwa Abdullahi CCIE Director-General	5665
 Kenn Abuya	3621,343,360,1048,102,1054,1414,66,1459
 Kenn Abuya Kenn Abuya	10731
@@ -1842,6 +1852,7 @@ Olajuwon Abayomi	9594
 Omar Abdoulkader Mohamed	11271
 Online Child Sexual Exploitation and Abuse	9843
 Online Child Sexual Exploitation and Abuse. UNICEF	7548
+Online Sexual Exploitation and Abuse	11791
 Operation Abstract	2473,2180
 Operational IT C13 Absence	9237
 Opportunity Nobody Is Talking About	8206
@@ -1875,6 +1886,7 @@ Par Abdou Moustoifia	6068
 Par Abibou Ndiaye SÉNÉGAL	5156
 Par Aboubakar Bamba	10924
 Par Dr.Papa Abdoulaye Seck	2582
+Par La Rédaction Abdellatif Hammouchi	11835
 Par Me Abdoulaye Tine	2582
 Participation Absence of Corruption	10759
 Past Decade and Opportunities Ahead. Abidjan	10718
@@ -1904,7 +1916,7 @@ Prime Minister Abdi Farah Shirdoon HOL	2743
 Prime Minister Abdoulaye Maiga. All	3646
 Prime Minister Abdul Hamid Dabaiba	3073
 Prime Minister Abdulhamid Dbaiba	6433
-Prime Minister Abiy Ahmed	2979,232,4676,2917,790,71
+Prime Minister Abiy Ahmed	2979,232,4676,2917,790,71,152
 Prime Minister Abiy Ahmed. The Planning	7091
 Prime Minister Dr. Abiy Ahmed. Powered	10709
 Prime Minister Hamsa Abdi Barre	4088

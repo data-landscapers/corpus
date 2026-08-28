@@ -164,7 +164,7 @@ Ellen Summey	6048,979
 Environment and Social Review Summary	10768
 Environmental and Social Review Summary	1260,30,4330,1736,4034
 Environmental and Social Review Summary FNE Environmental	10964
-Executive Summary	395,184,3,317,358,106,234,633,828,799,2,669,55,389,160,112,2,1,533,271,375,16,448,57,18,186,2877,690,45,12,1,65,15,121,153,6,52,7,14,50,12,274,7,1,19
+Executive Summary	395,184,3,317,358,106,234,633,828,799,2,669,55,389,160,112,2,1,533,271,375,16,448,57,18,186,2877,690,45,12,1,65,15,121,153,6,52,7,14,50,12,274,7,1,19,268
 Executive Summary Africa	3859
 Executive Summary Angola	10763
 Executive Summary Artificial	1814
@@ -484,7 +484,7 @@ Sumario Executivo	11543
 Sumario Executivo A República da Guiné-Bissau	11543
 Sumba	11485
 Sumbawanga	7250
-Sumbe	11678,18
+Sumbe	11678,18,141
 Sumec	3792
 Sumiko Ogawa and Ratna Sahay	1828
 Suministro	1701
@@ -504,7 +504,9 @@ Summarising	8648
 Summarized	2477,8286
 Summarized Consult	11578
 Summarizes	11269
-Summary	236,160,503,305,24,33,284,1,84,148,40,170,105,373,1,1,1,1,1,2,1029,81,544,442,1,1,1,1,1,79,195,399,228,202,489,279,501,1,35,216,561,617,227,2,593,307,1,1,1,104,1,97,99,105,1,76,1,25,318,491,307,83,21,59,105,74,78,32
+Summary	236,160,503,305,24,33,284,1,84,148,40,170,105,373,1,1,1,1,1,2,1029,81,544,442,1,1,1,1,1,79,195,399,228,202,489,279,501,1,35,216,561,617,227,2,593,307,1,1,1,104,1,97,99,105,1,76,1,25,318,491,307,83,21,59,105,74,78,32,216
+Summary AFRINIC	11796,1,15
+Summary AFRINIC Resolution	11813
 Summary Advice	7471
 Summary Description Operation Abstract	4653
 Summary Description of Proposed Operation The Mozambique	4653
@@ -570,6 +572,7 @@ Summit Insight- Jesse Cann	10729
 Summit Synthesis	5241
 Summit Troika	9761
 Summit University’s AI	8710
+Summit of EAC Heads of State	11806
 Summit of Heads of State	5045
 Summit of Heads of States	1814
 Summit of SADC Heads of State and Government	10321

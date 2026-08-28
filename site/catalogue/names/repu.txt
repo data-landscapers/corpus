@@ -167,7 +167,7 @@ Democratic People's Republic of Korea Democratic Republic	11765
 Democratic People’s Republic of Korea	10764,76
 Democratic Republic	291,427,196,449,662,652,98,675,65,104,140,108,188,121,49,217,5,31,133,449,98,267,8,297,79,34,57,713,325,74,49,210,238,198,86,43,114,85,2,442,164,756,9,299,52,2,228,95,13,70,2,305,32,258,58,18,165,135,70,134,57,16,3,50
 Democratic Republic Congo Disaster Risk Financing	10763
-Democratic Republic of Congo	123,76,54,65,142,17,120,254,111,76,325,363,45,44,52,47,212,125,27,13,407,14,63,92,57,46,147,121,77,155,6,32,229,23,392,134,79,218,98,69,59,17,57,48,27,1,34,111,143,5,277,185,88,34,64,130,43,23,42,18,9,3,70,134,1,73,25,22,46,42,12,54,24,39,43,11,36,25,1,66,117,178,70,34,56,9,69,82,32,211,213,2,2,53,13,444,8,15,253,307,1,88,250,211,1,148,22,39,104,35,38,12,23,42,154,74,10,194,96,161,5,8,53,12,7,17,27,40,8,23,20,166,6,11,77,67,22,85,83,72,37,8,139
+Democratic Republic of Congo	123,76,54,65,142,17,120,254,111,76,325,363,45,44,52,47,212,125,27,13,407,14,63,92,57,46,147,121,77,155,6,32,229,23,392,134,79,218,98,69,59,17,57,48,27,1,34,111,143,5,277,185,88,34,64,130,43,23,42,18,9,3,70,134,1,73,25,22,46,42,12,54,24,39,43,11,36,25,1,66,117,178,70,34,56,9,69,82,32,211,213,2,2,53,13,444,8,15,253,307,1,88,250,211,1,148,22,39,104,35,38,12,23,42,154,74,10,194,96,161,5,8,53,12,7,17,27,40,8,23,20,166,6,11,77,67,22,85,83,72,37,8,139,50,1
 Democratic Republic of Congo EU European Union	10861
 Democratic Republic of Congo Global Affairs Canada	61
 Democratic Republic of Congo Me José Mpanda	9756
@@ -248,7 +248,7 @@ Federal Republic of Nigeria and Co-Chair	7199
 Federal Republic of Nigeria. All	4301
 Federal Republic of Nigeria. Nigeria	3226
 Federal Republic of Nigeria. PREAMBLE	9660
-Federal Republic of Somalia	109,303,345,459,526,1844,4381,702,1807,660
+Federal Republic of Somalia	109,303,345,459,526,1844,4381,702,1807,660,670,1
 Federal Republic of Yugoslavia	11765
 Federal Republic ofNigeria	4301,1
 Federal Republic ofNigeria Thematic Arca Surveillance	4301
@@ -474,7 +474,7 @@ Republic of Benin and Smart Africa Supported	10819
 Republic of Benin and Webb Fontaine	2392
 Republic of Benin. The Authority	7452
 Republic of Botswana	2909,2778,102,1108,1588,2231,573,128
-Republic of Burundi	993,291,294,1167,493,1796,908,2025,2405,90,955
+Republic of Burundi	993,291,294,1167,493,1796,908,2025,2405,90,955,389,1
 Republic of Burundi Mr. Emmanuel M. Tutuba	7815
 Republic of Burundi. The Bill	3738
 Republic of Cabo Verde	583,16,205,1976,3227,2159
@@ -484,9 +484,9 @@ Republic of Cameroon	125,112,536,198,9870
 Republic of Cameroon Implementing Agencies	10963
 Republic of Cameroon Ministry of Economy and Planning	10963
 Republic of Cameroon. Dr Priscilla Muthoora Thakoor	4103
-Republic of Chad	224,90,478,1107,8821
+Republic of Chad	224,90,478,1107,8821,1070
 Republic of China	8918,2236
-Republic of Congo	81,147,1,623,1,38,24,72,61,38,60,97,294,178,99,14,2,680,174,396,16,16,85,31,85,96,86,104,5,92,67,8,13,21,156,271,345,6,98,23,9,362,500,306,491,1,220,91,80,5,12,11,23,286,49,197,659,1511,118,185,212,797,12,51,342,375
+Republic of Congo	81,147,1,623,1,38,24,72,61,38,60,97,294,178,99,14,2,680,174,396,16,16,85,31,85,96,86,104,5,92,67,8,13,21,156,271,345,6,98,23,9,362,500,306,491,1,220,91,80,5,12,11,23,286,49,197,659,1511,118,185,212,797,12,51,342,375,238
 Republic of Congo Country Economic Memorandum	1828
 Republic of Congo Date	5915
 Republic of Congo EAC-5	2775
@@ -535,7 +535,7 @@ Republic of Guinea-Bissau Implementing Agency	11525
 Republic of India	11183
 Republic of Iraq	2958,5687,3093
 Republic of Japan	10989
-Republic of Kenya	899,302,1476,1476,1,10,1,1624,124,1033,602,419,334,1554,391,67,403,103,3
+Republic of Kenya	899,302,1476,1476,1,10,1,1624,124,1033,602,419,334,1554,391,67,403,103,3,984,1
 Republic of Kenya Ministry of Health	10822
 Republic of Kenya and Africa Finance Corporation	10313
 Republic of Kenya and U.S	4154
@@ -586,7 +586,7 @@ Republic of Namibia Nauru Yes Nauru ICT	11529
 Republic of Niger	552,3889
 Republic of Nigeria	4301,2187
 Republic of Republic	4301
-Republic of Rwanda	321,463,7,252,161,2963,803,1295,1702,2852,598
+Republic of Rwanda	321,463,7,252,161,2963,803,1295,1702,2852,598,389,1
 Republic of Rwanda Ministry of ICT and Innovation	1204
 Republic of Rwanda and Chair	3987
 Republic of Rwanda and Chairman	10819
@@ -620,7 +620,7 @@ Republic of South Africa. Reply	10889
 Republic of South Africa. The Marriage Bill	5533
 Republic of South Africa’s Department of Higher Education	6832
 Republic of South Korea	3601
-Republic of South Sudan	1216,890,1401,76,1,149,309,555,43,1552,1775
+Republic of South Sudan	1216,890,1401,76,1,149,309,555,43,1552,1775,3839,1
 Republic of South Sudan South Sudan Poverty	3583
 Republic of South Sudan. SDGs	3583
 Republic of Sudan	1851,4013
@@ -632,7 +632,7 @@ Republic of The Gambia. STEM	1264
 Republic of Togo	10509,1195
 Republic of Tunisia	7074,1571,591,1583
 Republic of Tunisia Page	10819
-Republic of Uganda	107,213,436,526,1723,1212,896,1836,1018
+Republic of Uganda	107,213,436,526,1723,1212,896,1836,1018,3839,1
 Republic of United States of America Mozambique	10713
 Republic of Vu la Constitution	1214
 Republic of Zambia	193,1674,121,303,5502,157,1132,311,210,1,157,255,1096,305
@@ -674,6 +674,7 @@ Republique	10841
 Republique Centrafricaine	4127,6699
 Republique Gabonaise	1231
 Republique Togolaise	436
+Republique Tunisienne	11793
 Republique de Cote	3780
 Republish	5044,322,52,1050,19,392,233,35,27
 Republished	1281,6469
@@ -746,7 +747,7 @@ United Republic of Tanzania. Bull World Health	771
 United Republic of Tanzania. PART I PRELIMINARY	6921
 United Republic of Tanzania. Robust	11133
 United Republic of Tanzania. Sectoral	11142
-United Republic of Tanzania. The EAC	7967
+United Republic of Tanzania. The EAC	7967,3839,1
 VERSION DU CITOYEN REPUBLIQUE DU BENIN	2476
 VRR Republic Taiwan	10714
 Vice President of The Republic of The Gambia	7694

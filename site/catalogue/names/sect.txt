@@ -35,7 +35,7 @@ Abridged ICT Sector	958
 Account Holder. Section V Due Diligence	11233
 Act Section	6946
 Act. SECTION	10974
-Act. Section	7832
+Act. Section	7832,3981
 Act. Under Section	10134
 Acting Director of Private Sector and Industry	10262
 Action Sectoriel	5374
@@ -151,6 +151,7 @@ CNPS. Sector	10975
 COHERENT SECTOR POLICIES TO ENHANCE DATA	961
 COMMUNICABLES ET NON COMMUNICABLES Section	113
 COMMUNICATIONS Section	28
+COMRiC's Telecommunications Sector Report	11841
 CONFORME CERTIFIED TRUE COPY SECTION	10974
 CONSOLIDAR A MODERNIZAÇÃO DO SECTOR POSTAL	11397
 CONSUMER PROTECTION IN REGULATED SECTORS	718
@@ -193,7 +194,7 @@ Communication Sector Information Sharing and Analysis Centre	5132
 Communications Authority Sector	7548
 Communications Authority’s Third Quarter Sector Statistics	8872
 Communications Section	10345
-Communications Section Economic Commission for Africa PO	8754,1962,1020
+Communications Section Economic Commission for Africa PO	8754,1962,1020,72,9
 Communications Sector	5245,1544
 Communications Sector Cybersecurity Posture Report	9695,288
 Communications Sector Indicators Harmonisation	8753
@@ -273,6 +274,7 @@ Digital Transformation Public Sector Forum and Awards	2668
 Digitize Agriculture Sector	6280
 Director of Public Sector Digital Transformation	7499
 Dividendos Sector Petrolero	4209
+DoH. Section	11791
 Document. Relevant Section	3502
 Document. Relevant Sections	3502
 Douala. LA TRANSPARENCE POUR UN SECTEUR	10975
@@ -797,7 +799,7 @@ Priorities Sectors Team Europe Initiative	789
 Priority Sector Lending	11134
 Priority Sectors	1814
 Priority Sectors All	1814
-Private Sector	192,707,101,87,117,573,37,14,302,1996,169,162,1,35,3,1,15,16,716,433,226,250,679,716,41,1730,292,119,95,934,9,51,16,2,1,3,60,67,161,7,60,32,115,13
+Private Sector	192,707,101,87,117,573,37,14,302,1996,169,162,1,35,3,1,15,16,716,433,226,250,679,716,41,1730,292,119,95,934,9,51,16,2,1,3,60,67,161,7,60,32,115,13,435
 Private Sector AI	7548
 Private Sector Adoption and KPI Monitoring Design	4126
 Private Sector All	7548
@@ -1076,7 +1078,7 @@ Secteur. L’entrée	10975
 Secteurs	2342
 Secteurs Primaire	2342
 SectiDn Il	37
-Section	3,7,1,6,5,6,6,3,76,119,4,70,90,40,137,9,3,2,57,92,1,221,3,1,8,2,4,33,145,32,23,9,5,8,12,21,8,10,2,149,121,76,12,95,16,25,23,66,10,42,1,5,1,49,5,4,4,69,2,1,55,2,190,56,111,38,3,16,16,22,158,9,221,30,9,9,20,26,110,146,5,71,119,1,34,46,68,49,14,32,12,29,6,68,26,55,30,77,118,35,7,3,2,3,5,13,12,13,3,3,35,1,26,21,9,12,2,1,194,43,23,39,4,56,21,56,39,48,55,157,5,28,6,68,30,1,75,31,11,3,56,65,46,10,157,80,34,25,33,31,124,154,50,134,18,4,36,9,45,16,19,8,14,14,35,83,17,44,43,14,9,32,7,74,1,29,10,1,134,56,15,24,22,127,21,22,1,31,11,2,25,10,10,11,25,11,20,23,28,119,81,1,12,1,42,13,5,19,41,56,152,60,32,70,156,77,17,52,8,13,2,43,78,27,111,2,50,99,59,35,81,18,9,13,21,98,159,37,100,83,31,35,45,3,34,4,35,25,29,3,20,98,36,8,34,20,92,33,64,11,6,12,4,34,9,64,100,96,1,15,90,3,7,7,20,110,8,1,2,2,6,20,2,29,17,47,15,14,1,1,3,5,17,22,2,2,6,5,3,2,1,2,8,2,13,4,2,3,2,1,4,2,8,2,6,1,1,1,1,1,16,1,2,4,3,21,31,60,16,134,1,8,68,22
+Section	3,7,1,6,5,6,6,3,76,119,4,70,90,40,137,9,3,2,57,92,1,221,3,1,8,2,4,33,145,32,23,9,5,8,12,21,8,10,2,149,121,76,12,95,16,25,23,66,10,42,1,5,1,49,5,4,4,69,2,1,55,2,190,56,111,38,3,16,16,22,158,9,221,30,9,9,20,26,110,146,5,71,119,1,34,46,68,49,14,32,12,29,6,68,26,55,30,77,118,35,7,3,2,3,5,13,12,13,3,3,35,1,26,21,9,12,2,1,194,43,23,39,4,56,21,56,39,48,55,157,5,28,6,68,30,1,75,31,11,3,56,65,46,10,157,80,34,25,33,31,124,154,50,134,18,4,36,9,45,16,19,8,14,14,35,83,17,44,43,14,9,32,7,74,1,29,10,1,134,56,15,24,22,127,21,22,1,31,11,2,25,10,10,11,25,11,20,23,28,119,81,1,12,1,42,13,5,19,41,56,152,60,32,70,156,77,17,52,8,13,2,43,78,27,111,2,50,99,59,35,81,18,9,13,21,98,159,37,100,83,31,35,45,3,34,4,35,25,29,3,20,98,36,8,34,20,92,33,64,11,6,12,4,34,9,64,100,96,1,15,90,3,7,7,20,110,8,1,2,2,6,20,2,29,17,47,15,14,1,1,3,5,17,22,2,2,6,5,3,2,1,2,8,2,13,4,2,3,2,1,4,2,8,2,6,1,1,1,1,1,16,1,2,4,3,21,31,60,16,134,1,8,68,22,190
 Section A of Annex	7821
 Section A of Annex I	7821
 Section B	582,7263
@@ -1091,6 +1093,8 @@ Section D	582,636,2386,4241
 Section Disbursement	10768
 Section Evaluation Criteria Points Allocation Weight	11240
 Section F	1218,25,6602
+Section Five	11840
+Section Four	11840
 Section I	4260
 Section I F	1284
 Section I General Reporting Requirements A	11233
@@ -1275,6 +1279,7 @@ Sector Regulation	9877
 Sector Regulators	6936
 Sector Research Department. Contents	774
 Sector Revenues	718
+Sector Risk Intelligence	11840
 Sector Social	4209
 Sector Solutions Leadership	3487
 Sector Statistics Plans	1188
@@ -1449,6 +1454,7 @@ Telecommunication Sector Market Report Table of Contents	1013
 Telecommunication Standardization Sector KEBS Kenya Bureau	6946
 Telecommunications Sector	236,4374,1067,5585
 Telecommunications Sector Market Report	1013
+Telecommunications Sector Report	11840
 Telecommunications Sector Revenues	11211
 Telecommunications Sector Revenues OTT	11262
 Telecommunications Sector. B. The CERT	4610

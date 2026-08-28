@@ -258,7 +258,7 @@ Current Security-by-design Standards	7548
 Customers. Network and Infrastructure Security Cloud	9123
 Cyber Crimes Act and Cyber Security Act	8418
 Cyber Crimes and Cyber Security Act	7025
-Cyber Security	318,640,285,1065,419,13,1147,879,400,131,31,1618,907,1482,1484,412,317
+Cyber Security	318,640,285,1065,419,13,1147,879,400,131,31,1618,907,1482,1484,412,317,281
 Cyber Security Act	2726,1,13,2426,162,1049,401,805,2434,199,1475
 Cyber Security Act No	2727,19,2880,1682
 Cyber Security Activity USAID	1567
@@ -1203,7 +1203,7 @@ Security Airtel Urges Uganda’s Digital Finance	9899
 Security Analysts	6832
 Security Anti-DDOS	6432
 Security Architecture	5665
-Security Audit	783,217
+Security Audit	783,217,10788
 Security Audit. Acts	783
 Security Authority	4126
 Security Authority the AI	4126
@@ -1236,6 +1236,8 @@ Security Depaitment	4153
 Security Documentation	5665
 Security Emerging C- Certified	7548
 Security Endpoint	10721
+Security Engineer. Embed	11803
+Security Engineer. Oversee	11804
 Security Engineers	6832
 Security Enjoy	9446
 Security Entities	10775
@@ -1272,6 +1274,7 @@ Security Operations Centre SQL Structured Query	6432
 Security Operations Centres	3787
 Security Operations and Management Incident	9123
 Security Orchestration	5677
+Security Oversight Agency	11806
 Security Page	10721
 Security Peace Fund	6422
 Security Personnel Security Personnel When the Borrower	1988

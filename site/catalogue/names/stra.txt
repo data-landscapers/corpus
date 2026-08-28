@@ -92,7 +92,7 @@ African Union Digital Transformation Strategy. Reference	5676
 African Union STI Strategy for Africa STISA-2024	5246
 African Union Strategy for Gender Equality	11193
 African Union's Continental AI Strategy	8301,1909
-African Union's Continental Artificial Intelligence Strategy	8088
+African Union's Continental Artificial Intelligence Strategy	8088,3739
 African Union's Digital Transformation Strategy	975,3136
 African Union’s Continental AI Strategy	5092,1318,380,1839
 African Union’s Continental Artificial Intelligence Strategy	10620
@@ -281,7 +281,7 @@ Conseiller Stratégique	10965
 Contents THE NATIONAL CYBERSECURITY STRATEGY	1000
 Continental AI Strategy	1814,2875,403,210,116,407,216,14,195,17,316,20,394,329,262,90,3457,130
 Continental AI Strategy. Civil	8143
-Continental Artificial Intelligence Strategy	2677,2567,1227,50,269,346,34
+Continental Artificial Intelligence Strategy	2677,2567,1227,50,269,346,34,4657
 Continental Artificial Intelligence Strategy Harnessing AI	1814,863
 Continental Artificial Intelligence Strategy. UNECA	7529
 Continental Education Strategy for Africa	1814
@@ -366,7 +366,7 @@ Detailed Risk Analysis and Mitigation Strategies. National	4528
 Develop Strategies and Guidelines	5677
 Developed National AI Strategic Implementation Plan	11230
 Development Strategies and Policies	11129
-Development Strategy	1909,6058,2998,564
+Development Strategy	1909,6058,2998,564,277
 Development and Application of AI National AI Strategy	11135
 Development and Innovation Strategic Objective	4528
 Developpment Company DSCE Document de Stratégie	10975
@@ -746,7 +746,7 @@ LMICs. The WHO-led Global Strategy	2678
 LRA Corporate Strategic Plan	10581
 LRA's Corporate Strategic Plan	11710
 LSO60 Lesotho National Digital Transformation Strategy	1370
-La Stratégie	5786,2057,1216
+La Stratégie	5786,2057,1216,2759
 La Stratégie Nationale	10914,51
 Labour Migration Strategy	10463
 Launch of Geospatial Information Management Strategy	11275
@@ -945,7 +945,7 @@ National Data Strategy	1161,543,75,339,2465,267,5824
 National Data Strategy. Contact	2118
 National Data Strategy. DIAL	2118
 National Development Strategies	4528
-National Development Strategy	940,18,196,400,749,748,709,101,353,314,1653,1340,359,603,547,364,3,63,612,769,122,1,16,5,12,621
+National Development Strategy	940,18,196,400,749,748,709,101,353,314,1653,1340,359,603,547,364,3,63,612,769,122,1,16,5,12,621,173
 National Development Strategy This Policy	3861
 National Development Strategy and Zimbabwe's Digital Economy	7036
 National Development Strategy. Building	4214
@@ -1139,6 +1139,7 @@ POSAF ORIENTATION STRATÉGIQUE N	10712
 POSAF PLAN D'ORIENTATION STRATÉGIQUE DE L'ADMINISTRATION	10712
 POSAF POSAF PLAN D'ORIENTATION STRATÉGIQUE	10712
 POSAF. PLAN D'ORIENTATION STRATÉGIQUE DE L'ADMINISTRATION	10712
+PPP Strategic Partnership for Smart Driving Licences	11789
 PPSD Procurement Strategy for Development SEA	10768
 PPSD Project Procurement Strategy for Development PRAMS	11560
 PPSD Project Procurement Strategy for Development PRODEL	11380
@@ -1208,6 +1209,7 @@ RESA National Strategy for Restoration of State Authority	969
 RESET Strategic Plan	7722
 RESOURCE MOBILIZATION STRATEGIES	1131
 Re-prioritisation of Strategic Initiatives The Bank	11131
+Reading the Strategy Against Itself Sitsofe Mensah	11827
 Regional AI Strategy	8995,187
 Regional Cybersecurity and Cybercrime Strategy	1264
 Regional Data Strategy for Marine and Coastal	961
@@ -1404,7 +1406,7 @@ Strasser S	10780
 Strat	8891,1924
 Strata Identity	2778
 Strateg Rev South Afr	9739
-Strategic	396,322,258,155,30,100,23,534,275,723,132,839,74,26,239,45,31,12,45,90,83,96,266,96,6,544,93,27,117,352,403,303,73,24,104,11,1,330,270,172,39,262,69,94,419,1126,30,554,463,53,12,99,37,40,114,2,1,59,4,1,32,7,52,319
+Strategic	396,322,258,155,30,100,23,534,275,723,132,839,74,26,239,45,31,12,45,90,83,96,266,96,6,544,93,27,117,352,403,303,73,24,104,11,1,330,270,172,39,262,69,94,419,1126,30,554,463,53,12,99,37,40,114,2,1,59,4,1,32,7,52,319,200
 Strategic Accounts	6270
 Strategic Acquisition of Seven NTT Data Centres	11243
 Strategic Action Plan	1000
@@ -1543,7 +1545,7 @@ Strategic Outlook	3859
 Strategic Outlook for Mining Technology Governance Looking	10069
 Strategic Overview	11250
 Strategic Partners	11345
-Strategic Partnership	2626,2024,13,2853,3667,27
+Strategic Partnership	2626,2024,13,2853,3667,27,579
 Strategic Partnership Agreement	7522,1740
 Strategic Partnerships	3487
 Strategic Partnerships and Cooperation	4528
@@ -1738,7 +1740,7 @@ Stratos Lab	11502
 Stratos Lab’s GPU	11502
 Strattcomm Director Sibusiso Mngadi	11666
 Stratup	1574
-Stratégie	555,88,122,453,537,587,11,65,128,222,40,48,19,144,12,24,204,39,23,7,1,52,263,232,192,102,213,436,120,16,557,239,154,436,54,42,123,55,46,144,77,619,180,1,36,125,47,298,49,32,409,119,88,6,11,157,73,46,109,55,42,22,309,329,21,220,371,56,146,16,7,54,30,10,176,378
+Stratégie	555,88,122,453,537,587,11,65,128,222,40,48,19,144,12,24,204,39,23,7,1,52,263,232,192,102,213,436,120,16,557,239,154,436,54,42,123,55,46,144,77,619,180,1,36,125,47,298,49,32,409,119,88,6,11,157,73,46,109,55,42,22,309,329,21,220,371,56,146,16,7,54,30,10,176,378,289
 Stratégie Activités	10874
 Stratégie Comores Numérique	324,2636,5400
 Stratégie Natio-	10965

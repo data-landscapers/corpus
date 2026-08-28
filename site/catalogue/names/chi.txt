@@ -293,6 +293,7 @@ Chief	26,1,1,1526,753,869,951,170,306,1874,310,159,583,1291,575,678,73,983,19,31
 Chief Accountant	1554,2050
 Chief Accountant MoH	34
 Chief Accountant and RAPID-CI PCU	3604
+Chief Administrative Officer	11800
 Chief Administrator of Kauto Administrative Area	8213
 Chief Administrators	7814
 Chief Audit Executive CARA Criminal Assets	11218
@@ -327,7 +328,7 @@ Chief Directorate	11350
 Chief Directorates	11237
 Chief Diversification Officer	9097
 Chief Economic Adviser	5072
-Chief Economist	7815,1210,2106,3,15
+Chief Economist	7815,1210,2106,3,15,690
 Chief Economist and Vice President	10718
 Chief Economist for Asia Pacific	8890
 Chief Economist of Development Bank Ghana	11032
@@ -366,6 +367,7 @@ Chief Executive Officer and Founder	4832
 Chief Executive Officer and Head of Coverage	10745
 Chief Executive Officer and Managing Director	8352
 Chief Executive Officer de Mauritius Telecom	8699
+Chief Executive Officer of AFRINIC	11800
 Chief Executive Officer of ATC Uganda	9041
 Chief Executive Officer of Access	5356
 Chief Executive Officer of AfricaNenda Foundation	8865
@@ -550,7 +552,7 @@ Chief of Grafton Community	8820
 Chief of Mission Cabinet Secretary United Nations	4153
 Chief of Mission Principal Secretary	4154
 Chief of Section	4357
-Chief of Staff	1014,236,517,2517,1248,2837,2,740,308,1634,236
+Chief of Staff	1014,236,517,2517,1248,2837,2,740,308,1634,236,519
 Chief of UNICEF Lagos Field Office	10704
 Chief-Artificial-Intelligence-Officer-CAIO	6997
 Chiefs	4126
@@ -753,11 +755,11 @@ Chimène Anani Dègla	5899
 Chimène Lougbegnon Bossa	6475
 Chin J Int Polit	5242
 China	51,1,8,62,58,3,2,35,6,10,140,83,16,6,47,33,10,147,73,67,103,9,68,112,93,7,304,147,27,86,12,1,68,198,24,194,24,30,153,31,77,51,98,29,12,20,193,27,141,201,64,49,8,27,37,15,1,93,258,31,60,12,2,71,127,5,1,167,13,8,1,47,19,103,49,8,2,71,7,5,121,27,63,40,19,4,11,78,2,23,92,3,5,5,5,31,5,9,62,76,93,65,2,58,22,2,34,17,22,47,61,9,34,79,6,12,10,6,83,11,83,59,12,35,24,5,24,6,7,25,14,3,1,66,45,14,5,12,12,3,12,2,10,98,69,31,18,17,9,33,1,2,5,18,1,52,2,2,70,78,11,3,14,48,35,11,24,11,80,72,64,3,74,21,142,48,98,3,3,7,92,17,35,12,20,4,76,11,35,93,66,16,16,97,35,15,10,96,22,32,34,36,48,1,101,2,29,7,8,31,3,44,1,3,178,42,12,13,19,2,8,52,35,8,5,7,32,30,132,15,21,3,13,14,108,2,47,35,44,89,10,31,1,12,9,11,10,10,10,26,43,16,28,14,3,24,28,25,55,1,22,57,11,2,1,7,50,26,96,7,2,17,65,13,2,23,10,23,11,50,99,32,3,24,8,38,22,23,36,4,5,9,5,1,28,10,25,18,14,21,13,18,16,13,98,3,22,14,1,10,85,8,15,22,9,15,50,57
-China Academy of Information and Communications Technology	7174
+China Academy of Information and Communications Technology	7174,4628
 China Aerospace Science and Technology Corporation	9816
 China Builds Underlying Infrastructure	10350
 China Category	8726
-China Chengxin International Credit Rating Co	7785
+China Chengxin International Credit Rating Co	7785,4024
 China Christmas Island Cocos	11470
 China Citic Bank	1430,714
 China Citic Bank Corporation	1430,714
@@ -1215,7 +1217,9 @@ Communication Towers Project Export-Import Bank of China	193
 Community Chief	8820
 Competition Space China European Union Data	9816
 Conclusion Both China	5242
+Congo Chine	11847
 Constitution of AFRINIC. Eddy Kayihura Chief Executive	585
+Constitution of Zimbabwe and Children's Act	11791
 Contact Chima Nwaokoma	8408
 Contracts for Chinese-financed	4563
 Convalt Chief Executive Officer Hari Achuthan	8801
@@ -1321,6 +1325,7 @@ E-MARK Innovation Hub Chief Executive Officer	7432
 E.A.P.C Archers Child Development Centre Data	7167
 E2bn Chinese	3331,91,225,6,324,50,31,115,12,487,194,149,2015,234
 EA Enterprise Architecture GCIO Government Chief	11184
+ECA Chief of Staff Mr Aboubakri Diaw	11817
 ECD Early Childhood Development ECE Early	11560
 ECOWAS Chief Negotiator Alhaji Aliko Dangote	7452
 ECZ Chief Electoral Officer Brown	3547
@@ -1395,6 +1400,7 @@ Flutterwave Founder and Chief Executive Officer	4725
 Following the China	5755
 Foreign Ministry and Chinese Ambassador	4630,50,637
 Forum China	11045
+Founder and Chief Executive Officer of ARED Group	11834
 Founder and Chief Executive Officer of Civic Watch	10370
 Founder and Chief Executive Officer of Egyptian	4723
 Founder and Chief Executive Officer of Margins ID	4677,1500
@@ -1457,6 +1463,7 @@ Group Chief Financial Officer	10793
 Group Chief Information Officer	8583
 Group Chief Operating Officer of WTES Projects	11168
 Group Chief Product and Innovation Officer	8429
+Group Chief Regulatory Officer	11800
 Group Managing Director and Chief Executive Officer	7371
 Group Managing Director and Chief Executive of Zenith	11357
 Guterres China	2857,3026,94
@@ -1765,6 +1772,7 @@ Okey Chigbu for TechTrends Africa. Counter-narrative	7798
 Oladiran Stephen Olabiyi and Caleb Childozie Chinedu	6948
 Olorropil Child Development Center Data Controller	7167
 Ombudsperson for Children	11648
+Online Child Protection Policy	11791
 Online Child Protection Policy Zimbabwe	5407,676
 Online Child Sexual Exploitation and Abuse	9843
 Online Child Sexual Exploitation and Abuse. UNICEF	7548
@@ -1786,6 +1794,7 @@ P. Chikudza and NCRST Chief Executive	1554
 PART III Offences Against Chil	972
 PPCC Chief Executive Officer Bodger Scott	9088
 PRC. China Perspectives	2518
+PROPOSED ONLINE CHILD PROTECTION POLICY Cabinet	11791
 Panama and Chile	11155
 Paramount Chiefs	7814
 Paratus Africa Group Chief Commercial Officer	6405
@@ -1924,6 +1933,7 @@ Smart Education Project Export-Import Bank of China	860
 Smart Education Project Home China-Rwanda Economy	791
 Smart Zambia Chief Government Technical	5527
 Smart Zambia National Coordinator Percy Chinyama	5522,3870
+Social Development. The Zimbabwe National Child	11791
 Softtribe Chief Executive Officer Francis Ayivi	236
 Solutions Stanbic Bank’s Africa China Trade	5247
 Somalia Most Valuable Chinese Tech Import	10451
@@ -2094,6 +2104,6 @@ Zealand and Chile	11154
 Zhongguancun Science Park. China	9816
 ZimSwitch Chief Executive Officer Zabron Chilakalaka	7781
 Zimbabwe Dr. Chirume	10073
-Zimbabwe National Child Online Protection Policy	9794,1817
+Zimbabwe National Child Online Protection Policy	9794,1817,180
 Zimbabwe and China	10822
 Zimbabwean Children Face Violent Discipline	2987,16,962,1438,1506

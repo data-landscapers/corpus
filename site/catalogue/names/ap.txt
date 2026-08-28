@@ -608,7 +608,7 @@ Apparel Distribution	4972
 Apparel Performance Indicators	2775
 Apparently	3782
 Appau-Klu	11038
-Appeal	2307,1407,1962,766,4739
+Appeal	2307,1407,1962,766,4739,616
 Appeal Authority	8915
 Appeal Board	11177
 Appeal Committee	7845,1768
@@ -747,14 +747,14 @@ Applicable Rates and Collection of Tax	8590
 Applicable Regulations	1988
 Applicable Table	11180
 Applicable Taxes	8590
-Applicant	22,740,461,415,239,42,1732,63,1819,890,2159,2653,469
+Applicant	22,740,461,415,239,42,1732,63,1819,890,2159,2653,469,93
 Applicant Functions	6423
 Applicant Signature Position Held Date	736
 Applicant Signature Position Held Date Area	736
 Applicant Signature Position Held Date Official	736
 Applicant Tel	22
 Applicant's Best Price Offer	8582
-Applicants	736,26,876,282,429,656,959,63,64,863,218,112,182,67,331,375,184,12,505,159,269,542,167,505,116,1576,418,51,386,575
+Applicants	736,26,876,282,429,656,959,63,64,863,218,112,182,67,331,375,184,12,505,159,269,542,167,505,116,1576,418,51,386,575,125
 Applicants. An Applicant	8582
 Applicants. E. Procedures for Evaluation of Applications	1638
 Applicatifs Promotion des TICs	10812
@@ -875,7 +875,7 @@ Applied Statistics	6946
 Applies	2712,3867,4329,361
 Appliquer	8891,1985
 Applis	9993
-Apply	1204,681,789,1452,302,126,1111,11,196,496,64,351,153,612,427,5,255,371,466,576,362,711,239,57,123,9,7,96,95
+Apply	1204,681,789,1452,302,126,1111,11,196,496,64,351,153,612,427,5,255,371,466,576,362,711,239,57,123,9,7,96,95,457
 Apply AES-256	10721
 Apply AI	6477
 Apply AI Strategy	6487,392
@@ -918,6 +918,7 @@ Appointment of Directors Rationale	8866
 Appointment of General Manager	10948
 Appointment of Local Representative	573
 Appointment of Mr Fayaz King	5538
+Appointment of Mr Mike Silber	11800
 Appointment of Registrar	1
 Appointment of Tax Ombud	11181
 Appointments	3,11244
@@ -933,6 +934,7 @@ Apports des PTF	2966
 Appraisal	7198,3570
 Appraisal ESRS	1260,9704
 Appraisal Environmental and Social Review Summary	1260
+Appraisal Report	11790
 Appraisal Rights	7198
 Appraisal Stage	1260,312,132,549,38,1165,7507
 Appraisal-Stage Project Information Document	1704
@@ -1903,6 +1905,7 @@ Latest Headlines WASPAN Appeals Judgement Upholding	7776
 Legislação Aplicável	167,4051,6537,626
 Lei Orgânica da APD	11456
 Lemi App	10605
+Lesotho By Nana Appiah Acquaye	11798
 Letter of Approval	9393
 Level of Assurance Approve Periodic Audit	10819
 Liberté. Après	8269
@@ -2068,7 +2071,7 @@ Nana Appiah Acquaye Safaricom Ethiopia	7037
 Nana Appiah Acquaye Sand Technologies	5625
 Nana Appiah Acquaye Senegal	8608,1569
 Nana Appiah Acquaye Senegal and The Gambia	6869
-Nana Appiah Acquaye Smart Africa	5950,1304,3196
+Nana Appiah Acquaye Smart Africa	5950,1304,3196,1384
 Nana Appiah Acquaye Somalia	10183
 Nana Appiah Acquaye The African Telecommunications	10336
 Nana Appiah Acquaye The African Union	7136,393
@@ -2162,6 +2165,8 @@ Ouagadougou. Après	7279
 Ouverture des Appels	2975
 P0211 Appendices Appendix	11296
 PAA Percursos de Aprendizagem Alternativos	11557
+PAACAMA Phase I Appraisal Report	7160
+PAPSS. Après	11810
 PART APPLIES	3714
 PART APPLIES Political	3714
 PART VI General Provisions Applicable	736

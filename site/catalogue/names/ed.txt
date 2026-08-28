@@ -738,7 +738,7 @@ Educate	5676,5045
 Educated	4301,4159
 Educatel	10121
 Educating	958,3774
-Education	12,9,188,1,185,23,102,93,30,1,93,38,14,2,31,38,39,59,12,36,148,7,58,144,234,107,4,69,1,36,10,4,49,111,105,380,3,128,62,21,83,5,41,109,33,8,92,323,15,166,21,21,86,101,68,2,42,125,98,156,246,30,57,10,28,176,164,93,23,118,17,3,264,22,122,16,131,173,236,3,209,116,209,84,44,70,2,11,38,30,158,19,181,59,37,57,10,114,10,59,112,33,10,383,151,182,50,21,45,222,16,5,106,36,17,8,1,10,298,41,4,333,9,372,90,119,203,103,3,45,6,10,1,8,30,7,5,3,6,2,1,3,3,3,9,14,43,27,25,2,1,1,7,3,27,73,55,1,5,40,5,7,1,2,1,2,22,1,44,1,5,25,11,162,67,16,5,24,30,33,38,72,16
+Education	12,9,188,1,185,23,102,93,30,1,93,38,14,2,31,38,39,59,12,36,148,7,58,144,234,107,4,69,1,36,10,4,49,111,105,380,3,128,62,21,83,5,41,109,33,8,92,323,15,166,21,21,86,101,68,2,42,125,98,156,246,30,57,10,28,176,164,93,23,118,17,3,264,22,122,16,131,173,236,3,209,116,209,84,44,70,2,11,38,30,158,19,181,59,37,57,10,114,10,59,112,33,10,383,151,182,50,21,45,222,16,5,106,36,17,8,1,10,298,41,4,333,9,372,90,119,203,103,3,45,6,10,1,8,30,7,5,3,6,2,1,3,3,3,9,14,43,27,25,2,1,1,7,3,27,73,55,1,5,40,5,7,1,2,1,2,22,1,44,1,5,25,11,162,67,16,5,24,30,33,38,72,16,21
 Education A Mixed School Bag	5606
 Education Above All	899
 Education Act	3583
@@ -861,6 +861,8 @@ Education and Research Network	8965
 Education and Scientific Research PESTEL Political	11552
 Education and Skills	5246
 Education and Skills Data Challenge	9259
+Education and Skills Development	11791
+Education and Skills Development Pillar	11791
 Education and Social Protection	11560
 Education and Teaching System. Figure	10775
 Education and Technical Education	9414
@@ -895,7 +897,7 @@ Education. Given	899
 Education. Leverage	899
 EducationPriorité AfriqueCountry	8387
 EducationTechAIInclusive AI	4028
-Educational	582,317,262,716,63,1018,903,265,527,81,2099,194,1575,518,8,1631,72,6,358,76,289
+Educational	582,317,262,716,63,1018,903,265,527,81,2099,194,1575,518,8,1631,72,6,358,76,289,231
 Educational Administration	7278
 Educational Assessment and Examination Service	10709
 Educational Awareness Campaign	9394
@@ -1214,6 +1216,7 @@ IEBC’s Director of Voter Education	3758
 IFC EDGE	447
 IFC's EDGE	3604
 II Cycle of Secondary Education	10775
+IMANI Centre for Policy and Education	11827
 IMINININGWANE YEMPAHLA EDINGA UKUPHASISWA KANYE NEZITIFIKETI	11573
 INCM. Editores	1526
 INE Plano de Acção Nacional de Educação Para	10766
@@ -1934,6 +1937,7 @@ UNICEF Angola's Education Specialist	10748
 UNICEF Reimagine Education	403
 UNICEF's Reimagine Education	724
 Ubungo Municipal Education Department	8884
+Uganda Certificate of Education	11829
 Uganda Editors Guild Secretary Sylvia Nankya	8687
 Uganda Editors' Convention	8653
 Uganda and Edward Kimbugwe	5658

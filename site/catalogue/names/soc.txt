@@ -318,7 +318,7 @@ Computer Emergency Response Team SOC Security	1000
 Computer Society of Zimbabwe	4528
 Computing and Sustainable Societies	4439
 Comunicacao Social	11045
-Comunicação Social	167,372,653,146,957,70,66,150,32,116,92,316,769,240,1,101,2,1155,137,412,20,5,1,557,48,10,15,7,23,158,97,31,192,122,5,700,363,1,182,52,337,356,21,1,13,815,28,500,158,273,27,86,159,13,52,4,3,7,1,5,13,13,62,141
+Comunicação Social	167,372,653,146,957,70,66,150,32,116,92,316,769,240,1,101,2,1155,137,412,20,5,1,557,48,10,15,7,23,158,97,31,192,122,5,700,363,1,182,52,337,356,21,1,13,815,28,500,158,273,27,86,159,13,52,4,3,7,1,5,13,13,62,141,193
 Comunicação Social Sublinhou	5974
 Comunicação Social. Disse	3906
 Concept Environment and Social Review Summary	1988
@@ -794,7 +794,7 @@ Instituto Nacional de Fomento da Sociedade de Informação	1192,4762,25,702,4091
 Instituto Nacional de Segurança Social	4075,6697,631,30,116
 Instituto Nacional de Seguridad Social	4209,4163
 Instituto de Desenvolvimento Local-Fundo de Apoio Social	11406
-Instituto de Fomento da Sociedade da Informação	2581,8749
+Instituto de Fomento da Sociedade da Informação	2581,8749,507
 Instituto de Segurança Social Kz	10757
 Insurance SHIF Social Health Insurance Fund	2775
 Insurance and Social Security Supervisory Authority	6938
@@ -1280,7 +1280,7 @@ Role of Nafeer and Social Networks	6947
 Rubavu Societe Petroliere Bugesera Standard Gas	718
 Rusizi Societe Petroliere Ntarama	718
 Rwanda Information Society	9123
-Rwanda Information Society Authority	607,299,997,1340,409,163,1541,114,126,29,212,251,300,2061,674,1
+Rwanda Information Society Authority	607,299,997,1340,409,163,1541,114,126,29,212,251,300,2061,674,1,2698
 Rwanda Social Protection Transformation Project	1003
 Rwanda Social Security Board	8838
 Rwandan Government Launches Imibereho Dynamic Social	11133
@@ -1478,7 +1478,7 @@ Sociais Positivos Relacionados	11406
 Sociais Relacionados	11406
 Sociais Utilizados	11406
 Sociais. O EIASS	6269
-Social	12,5,209,169,162,383,30,35,256,2,1,358,1,2,1,1,1,58,15,77,36,14,39,77,44,319,35,48,28,23,41,1,1,1,2,1,1,2,2,2,1,1,1,6,1,1,12,371,69,31,295,33,287,304,1,1,2,5,1,1,1,49,160,21,50,9,221,9,89,132,27,487,304,55,122,45,514,55,189,81,209,95,308,53,344,33,21,4,181,67,2,30,69,120,60,241,91,343,81,33,148,56,52,28,129,279,148,60,193,199,29,208,143,129,1,3,22,2,10,2,3,7,4,33,7,10,12,5,13,81,23,1,13,3,5,21,1,126,1,2,2,4,14,32,5,2,3,17,35,11,13,116,16,11,52,73,2,32,34
+Social	12,5,209,169,162,383,30,35,256,2,1,358,1,2,1,1,1,58,15,77,36,14,39,77,44,319,35,48,28,23,41,1,1,1,2,1,1,2,2,2,1,1,1,6,1,1,12,371,69,31,295,33,287,304,1,1,2,5,1,1,1,49,160,21,50,9,221,9,89,132,27,487,304,55,122,45,514,55,189,81,209,95,308,53,344,33,21,4,181,67,2,30,69,120,60,241,91,343,81,33,148,56,52,28,129,279,148,60,193,199,29,208,143,129,1,3,22,2,10,2,3,7,4,33,7,10,12,5,13,81,23,1,13,3,5,21,1,126,1,2,2,4,14,32,5,2,3,17,35,11,13,116,16,11,52,73,2,32,34,231
 Social APDCH Aliança	11390
 Social Action	10763,5,7
 Social Action Centers	11395
@@ -1524,7 +1524,7 @@ Social Contract	4430
 Social Cultural Rights	3583
 Social Data Development Eritrea UNDP	400
 Social Demands	11265
-Social Development	970,1018,319,1197,98,2053,2948,1464,90,1028,11,78
+Social Development	970,1018,319,1197,98,2053,2948,1464,90,1028,11,78,517
 Social Development ESTA Extension of Security of Tenure	11188
 Social Development Goals	940
 Social Development Minister Dina Pule and SASSA	9372
@@ -1538,6 +1538,8 @@ Social Development Specialist Monitoring	1778
 Social Development Specialist Sorting	1778
 Social Development and Transport	5533
 Social Development. Once	2307
+Social Development. The National Youth Policy	11791
+Social Development. The Zimbabwe National Child	11791
 Social Dimension	5676
 Social EAC East Africa Community EARDIP	1264
 Social Economic Transformation	1867
@@ -2066,6 +2068,7 @@ Technology Agency SOC Ltd	11184
 Technology and Social Inclusion	6948
 Technology and Society	3596,23,4356
 Technology for Social Change and Development Initiative	11314
+Telecom Fraud and Social Engineering	11840
 Telkom SA SOC	498
 Telkom SA SOC Limited	378,120
 Telkom SA SOC Ltd. Vodacom Group	9759
@@ -2137,6 +2140,7 @@ WOMEN'S EQUALITY Public Perception of Social Protection	10835,3,130
 Wake-Up Call for Social Assistance	10985
 Water Biodiversity Protection Social Protection	10837
 Weekly Organic Posts Promoted Social Media	8999
+Whole-of-Government and Society	11791
 Wide Penetration of Social Media	11400
 Wildlife Conservation Society	10276
 Women and Social Solidarity	6087

@@ -63,6 +63,7 @@ Amendment of Identification Regulations	6512
 Amendment of Identification Regulations POPIA	6512
 Amendment of Identification Regulations Publish	6512
 Amendment of Identification Regulations The Regulations	6512
+Amine Idriss Adoum	11815
 Angola National Identity Card	10714
 Angola's ID	1225
 Angola. IDEA	1767
@@ -72,6 +73,7 @@ Angola’s CR and ID	10775
 Angola’s ID Card	10765,10
 Anibe Idajili	4794
 Animal Identification Act	11188
+Animal Identification and Traceability System	11836
 Antigua and Administrative Identification Number	10714
 Antonin Idriss Bossoto	11658
 Ao IDIIA	11443
@@ -961,6 +963,7 @@ ID. All	10728
 ID. Already	4278
 ID. Among	10775
 ID. Angola	10765,10
+ID. Bind	11797
 ID. Biometric	6559
 ID. Critics	3610
 ID. Data	10714,61
@@ -1487,7 +1490,7 @@ Identifier DPoeslFitviOegrfuyfircSeeer9vi	11129
 Identifier MPQ NDoH Integrating the Healthcare Enterprise	1009
 Identifies	6542,1286
 Identifizierung	9062
-Identify	899,101,9,122,73,39,137,397,163,48,1690,183,265,402,82,238,396,1,431,4,752,1116,998,192,740,1242,43,197,47,10,168,6,61,13,10,278
+Identify	899,101,9,122,73,39,137,397,163,48,1690,183,265,402,82,238,396,1,431,4,752,1116,998,192,740,1242,43,197,47,10,168,6,61,13,10,278,244
 Identify A Human Need And Reach	36
 Identify Critical Infrastructure	7538
 Identify National	1009
@@ -1505,7 +1508,7 @@ IdentifyingaTractableCaseStudy	8301
 Identifyingfactorsaffectingthead-	8606
 Identitas Kependudukan Digital F25 Jul	10714
 Identitication Act	11213
-Identity	22,302,443,242,152,50,222,92,289,124,1,379,6,103,20,94,25,42,6,44,62,5,36,17,41,1,3,50,41,11,18,4,48,22,1,8,259,18,88,44,25,72,72,19,119,78,69,141,37,21,39,312,75,39,78,101,41,3,31,24,11,19,35,176,13,28,102,95,11,96,3,28,45,40,20,6,37,101,181,33,45,19,97,35,148,19,70,19,24,28,17,36,73,5,13,34,57,1,149,7,16,123,195,3,31,103,91,109,83,35,43,61,228,59,40,12,786,79,452,52,80,128,54,8,58,119,25,213,207,414,7,44,10,37,4,3,3,8,308,39,4,50
+Identity	22,302,443,242,152,50,222,92,289,124,1,379,6,103,20,94,25,42,6,44,62,5,36,17,41,1,3,50,41,11,18,4,48,22,1,8,259,18,88,44,25,72,72,19,119,78,69,141,37,21,39,312,75,39,78,101,41,3,31,24,11,19,35,176,13,28,102,95,11,96,3,28,45,40,20,6,37,101,181,33,45,19,97,35,148,19,70,19,24,28,17,36,73,5,13,34,57,1,149,7,16,123,195,3,31,103,91,109,83,35,43,61,228,59,40,12,786,79,452,52,80,128,54,8,58,119,25,213,207,414,7,44,10,37,4,3,3,8,308,39,4,50,570
 Identity Access	10721
 Identity Act	7221
 Identity Authentication	10721
@@ -2356,6 +2359,7 @@ Sierra Leone's ID	4201
 Significant IDP	10841
 Sim IDnumber	8604
 Singapore National Digital Identity	7981
+Singapore's National Digital ID	11822
 Single Digital ID	5539,804
 Single Digital ID System	5596
 Single Digital Identification Law	5399

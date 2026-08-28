@@ -210,6 +210,8 @@ IPv6 Protocol	5904
 IPv6 Protocol Advertisement Reach	5904
 IPv6 and ASN	9506
 IPv6-capable	6946
+IPv6-only	11797
+IPv6-transition	11797
 IPv6. Ce	1702
 IPv6. Cette	7010
 IPv6. Mais	7010

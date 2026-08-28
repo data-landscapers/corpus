@@ -235,7 +235,7 @@ Central African Customs and Economic Union	1599
 Central Bank Digital Currencies	3965,12,7071,82
 Central Bank Digital Currencies EZULWINI	3977
 Central Bank Digital Currencies. Sending	982
-Central Bank Digital Currency	3705,2995,1435,1224,350,1422,3
+Central Bank Digital Currency	3705,2995,1435,1224,350,1422,3,687
 Central Bank Digital Currency Central Bank	11130
 Central Bank Digital Currency Research	11131
 Centralize Customs Services A Guide	3907
@@ -319,7 +319,7 @@ Cuanza- Norte Sociedade Cuanza Norte	10778
 Cuanza-Norte	8425,2340,10,2
 Cuanza-Norte Bengo OSVALDO ANTÓNIO JACINTO	10751
 Cuanza-Norte LUCIANO SINGUI GUILHERME	10751
-Cuanza-Sul	5721,1864,840,304,2048,652,249,18
+Cuanza-Sul	5721,1864,840,304,2048,652,249,18,128,13
 Cuanza-Sul ANTÓNIO MANEIPO	10751
 Cuanza-Sul Benguela TERESA NTULA PUNA	10751
 Cuanza-Sul Edição Nº	10751
@@ -572,7 +572,7 @@ Currency Unit	969,295,603,1022,673,42,2935,4229,61,135,416,37,51,57,35
 Currency and Banking	11134
 Currency and Exchanges Act	8840
 Currency. TechBooky	4467
-Current	34,172,190,22,353,18,110,59,4,266,513,126,73,26,518,228,63,171,2,606,139,33,185,5,211,92,434,35,208,349,2,76,210,144,556,199,45,62,3,37,253,96,392,228,162,167,89,335,196,631,242,246,572,30,575,19,7,10,17,10,14,90,25,12,133,1,3,2,2,2,58,26,9,26,12,14,110,129
+Current	34,172,190,22,353,18,110,59,4,266,513,126,73,26,518,228,63,171,2,606,139,33,185,5,211,92,434,35,208,349,2,76,210,144,556,199,45,62,3,37,253,96,392,228,162,167,89,335,196,631,242,246,572,30,575,19,7,10,17,10,14,90,25,12,133,1,3,2,2,2,58,26,9,26,12,14,110,129,277
 Current AI	5029,2519,3587
 Current AI Lifecycle	7548
 Current Account	2775
@@ -581,7 +581,7 @@ Current Affairs ZA	7639,119
 Current Allocation Actuals	4653
 Current Application Location	11314
 Current Approaches and Lessons	10714
-Current Article	9991
+Current Article	9991,1810
 Current Beneficiaries	8999
 Current Bilateral	7548
 Current Budget	2989
@@ -1105,6 +1105,7 @@ M Cumulative Investment Google	2209
 M300. Customers	7840,58,726
 M6’s World Cup	5407,676
 MAGISTRADO TRIBUNAL DE CUENTAS	4209
+MANSA Customer Due Diligence Repository	11809
 MB. Customers	11083
 MEDIO AMBIENTE LICENCIA MEDIO AMBIENTAL CULTURA	4209
 MICDE Trade and Customs	7548
@@ -1371,6 +1372,7 @@ Technical Outcomes Current	3840
 Technical Working Groups. Customer Focus	2775
 Technology and Curriculum Enhancement Programmes	11220
 Telecom Review Africa My Custom Home	2302,60,225,502,203,504,1184,21,339,1433
+Terra. No Cuanza-Sul	11837
 Tf Status Original Closing Current Proposed	1284
 Through the Union's Customs Risk Management Framework	11036
 Tomás Culolo	3899

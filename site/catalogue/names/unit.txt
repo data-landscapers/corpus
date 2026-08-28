@@ -12,6 +12,7 @@ AI Unit	3556,1027,1203,971,487,996,2381
 AIDS UNCTAD United Nations Conference	10759,78
 AN. Traffic Management and Road Safety Unit	7845
 AUDA-NEPAD Communication and Advocacy Unit- Office	7795
+About ECA The United Nations Economic	11808
 Adequate Staffing of High-Volume Polling Units	10049
 Administrative and Business Data Unit	11423
 Administrative and Financial Unit	11401
@@ -165,6 +166,7 @@ Economist Intelligence Unit	11195
 Enhance Police Cybercrime Response Unit Time	1000
 Enterprise Analysis Unit	10976
 Enterprise Analysis Unit. The Enterprise Surveys	10862
+Enterprise Business Unit	11848
 Environment Unit Team Leader Sameer Khudaroo	11332
 Ericsson and UNITEL	2528
 Ericsson and UNITEL S.A	2528
@@ -785,7 +787,7 @@ United Nations E-Government Survey. Countries EDGI	10840
 United Nations E-Government Survey. Legend	10840
 United Nations E-Participation Index	11569
 United Nations Economic	1554,9286
-United Nations Economic Commission for Africa	26,1,1,930,596,260,1244,1299,1235,291,726,278,642,898,327,408,32,1154,67,305,99,731,22,93,71
+United Nations Economic Commission for Africa	26,1,1,930,596,260,1244,1299,1235,291,726,278,642,898,327,408,32,1154,67,305,99,731,22,93,71,72,8
 United Nations Economic Commission for Africa Conference	8472
 United Nations Economic Commission for Africa RES4Africa	941
 United Nations Economic Commission for Asia	11572
@@ -955,7 +957,7 @@ United Republic of Tanzania. Bull World Health	771
 United Republic of Tanzania. PART I PRELIMINARY	6921
 United Republic of Tanzania. Robust	11133
 United Republic of Tanzania. Sectoral	11142
-United Republic of Tanzania. The EAC	7967
+United Republic of Tanzania. The EAC	7967,3839,1
 United SA	6238
 United States	10,561,196,194,4,73,185,11,9,120,191,168,92,183,99,21,40,1,121,6,233,159,1,91,6,94,55,151,157,173,36,21,20,72,29,43,25,135,188,75,78,5,21,1,11,2,35,13,2,30,11,2,1,40,1,43,4,3,74,21,1,66,24,45,86,5,82,31,174,11,57,13,2,104,15,2,48,3,26,15,30,15,50,14,5,66,19,27,67,66,84,16,57,90,138,196,1,1,28,37,2,60,60,24,61,6,43,1,13,8,40,51,39,7,11,9,77,14,12,4,2,41,30,18,32,17,1,50,154,23,3,32,33,2,12,88,102,5,97,29,35,26,57,25,30,30,9,78,72,103,7,1,45,31,5,84,133,112,19,33,21,81,30,26,10,30,78,1,63,10,42,17,55,39,10,42,29,25,8,59,33,8,34,21,106,203,29,84,3,106,253,20,67,22,11,13,22,47,80,80,13,1,1,154,3,99,12,1,79,12,14,22,5,2,92,65,31,14,4,41,36,4,5,9,5,15,108,33,32,221,9,37,76,7
 United States Agency for International Development	396,370,453,42,563,8944,9,229,125
@@ -1074,7 +1076,7 @@ Unity State and Upper Nile State.176	3583
 Unity State.306 Despite	3583
 Unity and Trust Amidst Current Challenges	9914
 Unity and Upper Nile	3583
-Unité	37,700,1100,147,2436,119,335,2030,202,1163,1250,750,206,69,331,1,99
+Unité	37,700,1100,147,2436,119,335,2030,202,1163,1250,750,206,69,331,1,99,843
 Unité Africaine	9637
 Unité Républicaine	4539
 Unité Statistique	9553

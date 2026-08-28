@@ -479,6 +479,7 @@ CMCA Cloud	6432
 CNAME CLOAKING	1231
 COCO DENTAL CLINIC LIMITED Data Controller	7167
 COICOP Classes	2775
+COMESA CLEARING HOUSE Vacancies	11803,1,1
 COMESA Clearing House	2197,4
 COMESA Clearing House Bank Al-Maghrib SIMT	6938
 COMPREHENSIVE DATA DOMAIN CLASSIFICATION	3861
@@ -635,11 +636,11 @@ Clase Pueblo Adjunto	4209
 Clases Pasivas Ministerio de Hacienda	4209
 Clash	10062
 Clash Against Future FC Artificial	7814
-Class	11,725,26,461,2428,2014,210,144,847,170,1388,699
+Class	11,725,26,461,2428,2014,210,144,847,170,1388,699,2672
 Class A Solutions	5665
 Class B	3651,2014,2759,15
 Class B Solutions	5665
-Class C	3651,2014,2759,15,684
+Class C	3651,2014,2759,15,684,2672
 Class C and D	3651
 Class C0	9123
 Class C0 and C1 Telecommunications Infrastructure	9123
@@ -684,11 +685,11 @@ Class0wasperfectlypredicted	8606
 Class1	8606
 Class1precisionof98	8606
 Class1withonlyeightfalsepos-	8606
-Classe	737,3830,6199,81,28,1,510,49
+Classe	737,3830,6199,81,28,1,510,49,360
 Classe Acadêmica	11569
 Classe Alunos Angola	10766
 Classe Alunos Angola Bengo Benguela Bié	10766
-Classe C	2866
+Classe C	2866,8929
 Classe M	10766
 Classe M F	10766
 Classe M F Angola Bengo	10766
@@ -731,7 +732,7 @@ Classificador Intersectorial	10783
 Classificador Orgânico	10783
 Classificador Territorial	10783
 Classificador de Programa	10783
-Classification	747,440,44,96,661,144,13,928,603,170,1,251,1034,533,767,133,886,97,337,436,1836,153,411,233,185,119,309
+Classification	747,440,44,96,661,144,13,928,603,170,1,251,1034,533,767,133,886,97,337,436,1836,153,411,233,185,119,309,230
 Classification Boundaries Automatic Class A Classification	5665
 Classification Definition Examples Residency Security Level	5244
 Classification Expiration Date	1284
@@ -887,7 +888,7 @@ Clever Menji Mbuyi	2880
 Clever Mwale	8279
 CleverCloud	5846
 CleverCloud and OVHcloud	5846
-Click	2504,1,161,2,42,8,24,55,265,23,1,305,56,62,249,160,1,1,63,78,38,265,23,62,64,41,536,20,137,169,158,42,95,78,11,123,92,99,46,156,93,107,1,14,71,23,138,24,9,204,250,15,46,32,220,1546,721,130,416,386,57,40,87,71,259,22
+Click	2504,1,161,2,42,8,24,55,265,23,1,305,56,62,249,160,1,1,63,78,38,265,23,62,64,41,536,20,137,169,158,42,95,78,11,123,92,99,46,156,93,107,1,14,71,23,138,24,9,204,250,15,46,32,220,1546,721,130,416,386,57,40,87,71,259,22,505,1,1
 Click Activation	11298
 Click HERE To Apply	9960
 Click Here Now To Discover	5574,215
@@ -977,6 +978,7 @@ Climate Change Related Natural Disasters	1828
 Climate Change Related Natural Disasters Congo	1828
 Climate Change Risks and Vulnerabilities	10829
 Climate Change and AI	4126
+Climate Change and Adaptation	11791
 Climate Change and Adaptation Needs	1828
 Climate Change and Adaptive Safety Nets	10964
 Climate Change and Climate	10870
@@ -1216,7 +1218,7 @@ Closing-the-US-320-Million-Acquisition-of-MainOne	6521
 Closing. Work Package	8546
 Closser S	1219
 Closser&author	1219
-Closure	1988
+Closure	1988,9824
 Closure Elections	4608
 Closure Tier	10721
 Clotchor Secongo	5555
@@ -1269,8 +1271,8 @@ Cloud Infrastructure Investments	3859
 Cloud Infrastructure Penetration	3859
 Cloud Infrastructure The Datacenter	9123
 Cloud Infrastructure and Solution Service	6432
-Cloud Innovation	6653,2960,196
-Cloud Innovation Ltd	1919,7890
+Cloud Innovation	6653,2960,196,2014
+Cloud Innovation Ltd	1919,7890,2004
 Cloud Interconnect	1739,2698
 Cloud Knowledge and Skills	1810
 Cloud Market	7548
@@ -1353,7 +1355,7 @@ CloudSufi	1243
 CloudWalk	2518,6229
 Cloudera	10636
 Cloudera. Johannesburg	10636
-Cloudflare	4259,2385,55,1229,1058,631,1153,1009
+Cloudflare	4259,2385,55,1229,1058,631,1153,1009,12
 Cloudflare DNS-over-HTTPS	700
 Cloudflare DoH	1,16,718,2081,1045,3186,2435
 Cloudflare Radar	9477
@@ -1702,6 +1704,7 @@ European Open Science Cloud	3861,3452
 European Sovereign Cloud	6471,4327
 Evidence and CLOUD Act	10088
 Excellence Cloud	3857
+Executive Secretary Mr Claver Gatete	11817
 Executive Summary Executive Summary Weather and Climate	11553
 Exit Clause	6432
 Exit Clause All	6432
@@ -1780,7 +1783,7 @@ GmbH Human Asset Clouds&Training Inetum España	8530
 Golden Clinic Complexes	5317
 Good Clinical Practice	7845
 Google Classroom	6748
-Google Cloud	1267,96,227,46,90,13,471,82,334,51,139,341,279,118,65,64,176,260,7,133,175,3,56,1,706,56,479,1,1,109,62,324,18,17,83,121,6,29,161,124,88,30,21,1,4,70,25,36,107,298,1173,839,1315,870
+Google Cloud	1267,96,227,46,90,13,471,82,334,51,139,341,279,118,65,64,176,260,7,133,175,3,56,1,706,56,479,1,1,109,62,324,18,17,83,121,6,29,161,124,88,30,21,1,4,70,25,36,107,298,1173,839,1315,870,175
 Google Cloud CEO Thomas Kurian	2025
 Google Cloud Credits	674
 Google Cloud Credits. African	5302
@@ -1901,7 +1904,7 @@ IV.1.1.7.3 Clôture	10876
 Impact of Climate and Health Shocks	1828
 Implement Cloud Policy	6432
 Improve Climate Risk Monitoring	11103
-Improve the Business Climate	7160
+Improve the Business Climate	7160,4630
 Improving Clean Renewable Energy	7020
 Inclusive Climate	11469
 Inclusive Climate Insurance RSF	11469
@@ -2006,6 +2009,7 @@ LTA Board Chairman Clarence Massaquoi	7410
 LTA Board Chairperson Clarence K. Massaquoi	9088
 LTA Chairman Clarence Massaquoi	4817,3576,562
 LTA Chairperson Clarence Massaquoi	7230,386
+LUSAKA TIME. Click	11825
 La Clé du Succès	4127
 Lagos State and Kasi Cloud	6376
 Land Claim Commissioner SACPLAN South African	11261
@@ -2313,6 +2317,7 @@ Privé Privé Commun Classiqu Satellite Bilingue	10847
 Programme CLE	2966
 Programmes Climate	970
 Project Clearance	5665,2774
+Project Clearance Framework	11832
 Project Clearance. Recognising	8424
 Project Cloning and Institutional Outreach	1554
 Project Closure Report	1988

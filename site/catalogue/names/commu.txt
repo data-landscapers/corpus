@@ -7,7 +7,8 @@ ACP-Information and Communication Technologies	26,1,1
 AFR-IX Data Communications Ltd	3862
 AFRICA INSIGHT COMMUNICATIONS LIMITED Data Controller	7167
 AFRICAN COMMUNITY MONETARY AFFAIRS COMMITTEE	7815
-AFRINIC Communication	9507
+AFRINIC Communication	9507,2304
+AFRINIC Communiqué	11800
 AHMADIYYA MUSLIM COMMUNITY Data Controller INST-648055FB65B	7167
 AI Community Center	2209,1135,3586
 AI Somalia Community and Somali	10451
@@ -24,7 +25,7 @@ AU TITRE DES COMMUNICATIONS DES MINISTRES	8269
 AUDA-NEPAD Communication and Advocacy Unit- Office	7795
 AUTHORITY The Information and Communication Technologies Act	22
 Abir Ibrahim Community Lead	4807
-About the East African Community	7967
+About the East African Community	7967,3839,1
 About the National Communications Authority	3986
 Abrogation ABG COMMUNICATIONS Décision	998
 Absence of Prevention and Community-Based Care	6534
@@ -55,6 +56,7 @@ Africa. Communication Platforms External	10793
 Africa. The Global System for Mobile Communications	7135
 AfricaNenda's Communication Director	8151
 African Community	1216
+African Community Affairs	11806
 African Community EASSy Eastern Africa Submarine	6671
 African Community Southern African Development Community	2775
 African Economic Community	1243,5754
@@ -68,7 +70,7 @@ Africa’s Regional Economic Communities	4787
 Agence de Régulation des Communications Electroniques	11580
 Agency for Regulation of Posts and Electronic Communications	5075
 Agenda CA Communications Authority of Kenya CAJ	7548
-Aileen Mallya Communications Expert Eastern African	7967
+Aileen Mallya Communications Expert Eastern African	7967,3840
 Air and Water Communities Project	1988
 Airtel Nigeria and Mafab Communications	2472
 Airtel and Safaricom. The Communications Authority of Kenya	10822
@@ -271,6 +273,7 @@ CcHUB Communications	8327
 Cedarview Communiations Limited	3862
 Cedarview Communication	1805
 Celeste Nell Acting Head of Communications Western	8564
+Cellplus Mobile Communications	11788
 Cellule de Communication	5471
 CenterThe Joint Communiqué	8167
 Central African Economic and Monetary Community	969,859,550,484,4076,212,2029,747,149,163,603
@@ -291,7 +294,7 @@ Checklist Connect Communicate Combine Collaborate Repository	8603
 Chef du Département des Infrastructures de Communication	8678
 Chief Communication Platforms Officer	9380
 Chief of Grafton Community	8820
-China Academy of Information and Communications Technology	7174
+China Academy of Information and Communications Technology	7174,4628
 China Communications Construction Co	35,9531
 China Communications Services Corporation	125
 China. International Journal of Communication	2518
@@ -409,7 +412,7 @@ Communication Network	6832
 Communication Nigeria Yes National Broadband Plan	11529
 Communication Officer	11289,366
 Communication Officers	11271
-Communication Plan	958
+Communication Plan	958,10833
 Communication Plan INTERNAL Board of Directors MPCC	11131
 Communication Platforms	10793
 Communication Polytechnique	3604
@@ -501,7 +504,7 @@ Communication. L'ÉCOSYSTÈME DIGITAL	10024
 Communication. Le Conseil des Ministres	2738,3329
 Communication. Nous	2514
 Communication. Quatre	2342
-Communications	11,26,199,200,151,374,200,39,31,376,1,1,1,1,1,1,25,106,57,36,26,159,244,4,68,69,169,14,46,22,74,32,12,32,67,21,1,1,1,1,1,1,143,22,279,12,5,33,59,14,88,34,42,32,3,2,34,14,94,13,70,32,19,15,26,6,36,30,152,188,33,253,60,136,9,199,8,11,8,59,6,1,1,1,9,1,4,10,37,29,233,3,76,137,36,4,8,14,183,78,188,198,25,62,104,4,57,1,16,30,20,17,22,156,231,3,47,25,27,27,48,8,79,40,67,2,58,1,1,99,10,106,61,29,1,175,1,2,5,115,16,11,20,110,27,56,31,16,67,2,3,61,15,7,44,21,68,12,7,13,185,41,30,44,116,18,14,64,68,137,28,50,319,58,98,18,42,6,53,16,20,13,33,35,149,60,9,90,33,53,13,29,13,21,42,13,4,7,1,189,82,96,9,49,56,235,146
+Communications	11,26,199,200,151,374,200,39,31,376,1,1,1,1,1,1,25,106,57,36,26,159,244,4,68,69,169,14,46,22,74,32,12,32,67,21,1,1,1,1,1,1,143,22,279,12,5,33,59,14,88,34,42,32,3,2,34,14,94,13,70,32,19,15,26,6,36,30,152,188,33,253,60,136,9,199,8,11,8,59,6,1,1,1,9,1,4,10,37,29,233,3,76,137,36,4,8,14,183,78,188,198,25,62,104,4,57,1,16,30,20,17,22,156,231,3,47,25,27,27,48,8,79,40,67,2,58,1,1,99,10,106,61,29,1,175,1,2,5,115,16,11,20,110,27,56,31,16,67,2,3,61,15,7,44,21,68,12,7,13,185,41,30,44,116,18,14,64,68,137,28,50,319,58,98,18,42,6,53,16,20,13,33,35,149,60,9,90,33,53,13,29,13,21,42,13,4,7,1,189,82,96,9,49,56,235,146,102
 Communications Act	1209,326,215,97,53,75,5,6,1122,2060,375,996,245,41,1,447,138,2,112,23,1115,554,1227
 Communications Act No	5502
 Communications Act. SpaceX	6825
@@ -517,7 +520,7 @@ Communications Authority Kenya	6946
 Communications Authority Sector	7548
 Communications Authority and KNBS	11086
 Communications Authority of Ghana	5164
-Communications Authority of Kenya	2677,948,249,109,621,737,582,210,494,44,62,12,18,24,38,5,34,82,158,100,190,154,3,56,26,76,233,15,93,517,1,2,272,29,1,212,105,21,125,1,307,93,2,112,800,172,263
+Communications Authority of Kenya	2677,948,249,109,621,737,582,210,494,44,62,12,18,24,38,5,34,82,158,100,190,154,3,56,26,76,233,15,93,517,1,2,272,29,1,212,105,21,125,1,307,93,2,112,800,172,263,745,1
 Communications Authority of Kenya Figure	6946
 Communications Authority of Kenya Financial Statements	6946
 Communications Authority of Kenya Identity Module	6946
@@ -562,15 +565,16 @@ Communications Organisation	6946
 Communications Redundancy	1000
 Communications Regulators Association of Lilongwe	5241
 Communications Regulators Association of Southern Africa	11211
-Communications Regulators' Association of Southern Africa	6427
+Communications Regulators' Association of Southern Africa	6427,5371
 Communications Regulators’ Association of Southern Africa	318,5554,180,3640
 Communications Regulatory Authority	1640,288,749,2410,2114,2619
 Communications Regulatory Authority of Mozambique	3783,2104
 Communications Regulatory Authority of Namibia	1750,150,75,1,1,2,1,6,36,547,19,429,442,2039,9,22,14,21,48,5,850,298,19,1,41,447,150,318,513,1,159,1,245,606,1199,575,673
+Communications Risk and Information Centre	11840,1
 Communications STAKEHOLDERS Civil	1161
 Communications Sambhavi Mathiyazhagan	10852
 Communications Section	10345
-Communications Section Economic Commission for Africa PO	8754,1962,1020
+Communications Section Economic Commission for Africa PO	8754,1962,1020,72,9
 Communications Sector	5245,1544
 Communications Sector Cybersecurity Posture Report	9695,288
 Communications Sector Indicators Harmonisation	8753
@@ -592,9 +596,10 @@ Communications Towers Project Phase II	193
 Communications and Digital Economy	11553
 Communications and Digital Economy MNDC Mobile National	6946
 Communications and Digital Economy. INM-GB	11553
-Communications and Digital Technologies	5060,115,23,954,899,3518,477,174,10
+Communications and Digital Technologies	5060,115,23,954,899,3518,477,174,10,615
 Communications and Digital Technologies. Sangoni-Diko	8435
 Communications and Digitalisation	11135
+Communications and Events Manager	11809
 Communications and Informatics	2843
 Communications and Informatics Sector	4849
 Communications and Information Regulatory Authority	2837
@@ -657,7 +662,7 @@ Communities RTAs Regional Trade Agreements SADC	1243
 Communities Relevant Cultural Heritage Relevant Financial	10829
 Communities Said About GCTs Members	6947
 Communities and Refugees WTO World Trade Organization	10841
-Community	7,4,725,204,18,12,249,70,63,202,224,89,42,79,104,683,69,612,258,24,388,41,486,210,455,168,819,528,113,1,91,100,13,12,29,244,16,309,74,132,80,485,144,144,179,105,19,138,405,52,18,25,11,142,1,44,33,177,144,8,155,300,46,7,25,66,20,66,127,1,54,64,29,15,6,30,15,170,31,33,5
+Community	7,4,725,204,18,12,249,70,63,202,224,89,42,79,104,683,69,612,258,24,388,41,486,210,455,168,819,528,113,1,91,100,13,12,29,244,16,309,74,132,80,485,144,144,179,105,19,138,405,52,18,25,11,142,1,44,33,177,144,8,155,300,46,7,25,66,20,66,127,1,54,64,29,15,6,30,15,170,31,33,5,220
 Community AI	6948
 Community AI Councils	4528
 Community Act	2781
@@ -829,6 +834,7 @@ Community-led	6955
 Community-level	1867,5081,2668
 Community. Election of New President	7452
 Community. Southern Africa	9959
+Community. The Council	11806
 CommunityBased Voluntary Counselling	11134
 Commutations Regulatory Authority	7741
 Complete Communications Infrastructure	395
@@ -851,6 +857,8 @@ Corporate Communication	6946
 Corporate Communication and Liaison	11188
 Corporate Communications	6946,802,2984
 Corporate Communications Email	5136
+Corporate Communications and Public Affairs Department EAC	11806
+Corporate Communications and Public Affairs Department Tel	11807
 Council of Arab Ministers of Communication and Information	2958,202,5374
 Council of Arab Ministers of Communications and Information	8645
 Council of Ministers' Communiqué No	10930
@@ -898,7 +906,7 @@ Department of Communication Arts	6936
 Department of Communication and Digital Technologies	1695,4488
 Department of Communications	6467,513,157,181,3861,75
 Department of Communications and Digital	10729
-Department of Communications and Digital Technologies	1912,28,177,1147,1911,23,1,399,371,85,299,479,74,74,116,418,74,14,377,109,43,304,511,730,24,59,121,55,194,877,6,158,25,4,31,5,19,11,230
+Department of Communications and Digital Technologies	1912,28,177,1147,1911,23,1,399,371,85,299,479,74,74,116,418,74,14,377,109,43,304,511,730,24,59,121,55,194,877,6,158,25,4,31,5,19,11,230,350
 Department of Communications. Accenture	428
 Department of Community Development	11133
 Department of Digital Communications	1672,977,2999
@@ -938,6 +946,7 @@ Digital Governance The Nigerian Communications Commission	9667
 Digital Public Infrastructure EMSP Economic Community	3604
 Digital Public Infrastructure and Community Inclusion	5700
 Digital Week. The Ministry of Communication	4859
+Digital and Community Information Centres	11791
 Dignited Staff The Uganda Communications	6207
 Direct Customer Communications	8999
 Director General of Communication	8839
@@ -949,7 +958,7 @@ Director of Communications	8767
 Director of Communications Sakhile Dlamini	6013
 Director of Communications Titus W. Tokpah	8860,352
 Director of Corporate Communications and Media Relations	8439
-Director of Electronic Communications Networks and Services	3696
+Director of Electronic Communications Networks and Services	3696,8151
 Director of Information and Communication Technology	8560
 Director of Networks and Electronic Communications Services	3805,1270
 Director of Stakeholder Engagement and Communication	9415
@@ -1006,7 +1015,8 @@ East Africa Community Bill	374
 East Africa East African Community	10260
 East African Communications	6946
 East African Communications Organisation	8245,1536
-East African Community	26,1,1,292,172,124,211,72,317,27,2,39,822,36,154,87,278,114,463,345,153,14,204,15,575,135,366,327,229,282,210,3,375,179,192,86,10,167,50,23,329,41,267,1,114,2,35,57,50,352,23,77,1,19,243,273,91,112,367,75,98,1,249,20,111,1,73,57,134,25,343,3,314,13,61,207
+East African Community	26,1,1,292,172,124,211,72,317,27,2,39,822,36,154,87,278,114,463,345,153,14,204,15,575,135,366,327,229,282,210,3,375,179,192,86,10,167,50,23,329,41,267,1,114,2,35,57,50,352,23,77,1,19,243,273,91,112,367,75,98,1,249,20,111,1,73,57,134,25,343,3,314,13,61,207,389,1
+East African Community Civil Aviation Safety	11806
 East African Community Common External Tariff	6921
 East African Community Common Market Protocol	7506
 East African Community Competition Authority	4583
@@ -1317,6 +1327,7 @@ Individual Electronic Communications Network and Service	6152
 Individual Electronic Communications Service	6906,3905
 Information And Communication Sierra Leonean Passenger	8115
 Information Communication	6832
+Information Communication Technologies	11791
 Information Communication Technology	958,2093,2832,1063,575,501,953,2154
 Information Communication Technology Agency	1714
 Information Communication Technology Architecture	3760
@@ -1328,7 +1339,7 @@ Information Technologies and Social Communication	3136,419,131,181,11,1560,329,2
 Information Technology and Communication	1248,6290
 Information Technology and Social Communication	2411
 Information and Communication	236,1751,788,5555
-Information and Communication Directorate	4123
+Information and Communication Directorate	4123,7716
 Information and Communication Sector. Figure	3862
 Information and Communication Syllabus	288,1699
 Information and Communication Technologies	21,1,373,1202,391,925,2175,978,1940,177,780,2554
@@ -1438,7 +1449,7 @@ Learning Centre Nigerian Communications Commission	9117
 Lebanon No Lesotho Yes Lesotho Communications	11529
 Les Information and Communication Technologies	10030
 Lesotho Communications Act	5744
-Lesotho Communications Authority	1209,1207,332,401,2019,228,348,2486,343
+Lesotho Communications Authority	1209,1207,332,401,2019,228,348,2486,343,3225
 Lesotho Communications Authority Annual Report	5168
 Lesotho's Minister of Communications	1710
 Levels of Communication	958
@@ -1502,6 +1513,7 @@ Managing Director of Powertel Communications	7036
 Mass Communication	6946
 Mass Communications	2217,1251
 Massive Machine Type Communications	5675
+Masterplan East African Community Headquarters	11807
 Mathewos T. Community	1219
 Mauritius COMMUNIQUÉ Responsible Use of Social Media	10134
 Mayamiko Nkoloma. The Malawi Communications Regulatory	7413
@@ -1830,6 +1842,7 @@ Proprietor. Communication	10721
 Protect Vulnerable Communities	11285
 Providers CA Communications Authority of Kenya Dare	6671
 Provision of Communication-related Information Act	11190
+Public Awareness and Communication	11791
 Public Communication	9400
 Public Communication Access Centres	6946
 Public Communications Access Centre	9335
@@ -1885,7 +1898,7 @@ Regulation of Interception of Communications	7576
 Regulation of Interception of Communications Act	6949
 Regulation of Interception of Communications Regulations	7771
 Regulatory Agency for Post and Electronic Communications	3805
-Regulatory Agency for Posts and Electronic Communications	2306
+Regulatory Agency for Posts and Electronic Communications	2306,9541
 Regulatory Authority for Electronic Communication	173
 Regulatory Authority for Electronic Communications and Posts	4182,1808
 Regulatory Authority for Post and Electronic Communications	3221
@@ -2079,7 +2092,7 @@ Tabora Bojang The Minister of Communication	4228
 Takoradi Office National Communications Authority	2776
 Tamale Office National Communications Authority	2776
 Tana River and Kilifi Counties. Community	6946
-Tanzania Communications Regulatory Authority	721,1956,2276,163,581,74,112,147,138,409,134,17,88,2198,675,281,39,90,927,711
+Tanzania Communications Regulatory Authority	721,1956,2276,163,581,74,112,147,138,409,134,17,88,2198,675,281,39,90,927,711,94
 Tanzania Communications Regulatory Authority. South Korea	2947
 Tanzania’s Communication and Information Minister	3460
 Tarif Extérieur Commun	10712
@@ -2091,6 +2104,7 @@ Temba Gubula Parliamentary Communication Services	9883
 Tension Grips Rivers Community As Gunmen	10274
 Theme Communicate Phone	8603
 Theory and Practice of Global Media and Communication Policy	11028
+Third Round of Community Consultation Tue Aug	11811
 Théorie du Changement TEC Tarif Extérieur Commun	10712
 Tier IV Community Microfinance Groups	7763
 Togo's High Authority for Audiovisual and Communication	4237

@@ -632,7 +632,7 @@ Land Reform DPME Department of Planning Monitoring	11224
 Le Comité des Affaires Monétaires	7956
 Le Groupement Interbancaire Monétique	8328,2671
 Le Mobile Money	2261,504,6254
-Le Monde	2377,5236,2126
+Le Monde	2377,5236,2126,2096
 Le Monde Afrique	4127,1175
 Le Monde and AFP	4127
 Le Monde. Jabaroot	11499
@@ -878,6 +878,7 @@ Monetaria	1701
 Monetary	1154,1621,1352,769,351,663,195,74,2392,923,215,1422,3
 Monetary Affairs	4103,3684,1375
 Monetary Affairs Committee	7815,152,2293,202
+Monetary Affairs Committee Sub-Committees	11807
 Monetary Developments	11134
 Monetary Developments Monetary	11134
 Monetary Developments The Central Bank	11131
@@ -1019,7 +1020,7 @@ Monitoreo	1701
 Monitoria	2138,678,7961,664,8,98
 Monitoria da Política	11362
 Monitoria da Política. Revoga	11362
-Monitoring	7,4,23,350,12,197,125,71,169,42,131,83,29,41,494,36,53,121,489,232,3,246,555,70,21,74,183,265,134,268,35,220,462,204,84,890,9,147,100,153,36,78,2,600,297,438,246,32,562,270,50,26,45,170,75,180,189,29,564,42,12,1,33,3,17,52,83,43,124,25,32,5,5,26,6,22,149,16,108
+Monitoring	7,4,23,350,12,197,125,71,169,42,131,83,29,41,494,36,53,121,489,232,3,246,555,70,21,74,183,265,134,268,35,220,462,204,84,890,9,147,100,153,36,78,2,600,297,438,246,32,562,270,50,26,45,170,75,180,189,29,564,42,12,1,33,3,17,52,83,43,124,25,32,5,5,26,6,22,149,16,108,266
 Monitoring Alcoholic and Sugary Beverages	10776
 Monitoring And Evaluation	958
 Monitoring CDMAS Centralised Data Management Analytical	11224
@@ -1090,6 +1091,7 @@ Monitoring and Measuring Digital Success Develop	11231
 Monitoring and Prediction	2816
 Monitoring and Remote	9475
 Monitoring and Reporting	1778,210,7867
+Monitoring and Reporting Framework	11807
 Monitoring and Reporting MoHAIS PMU	1988
 Monitoring and Reporting Online Platform	9353
 Monitoring and Research	5676
@@ -1117,6 +1119,7 @@ Monnaie Numérique de Banque Centrale	8316
 Monnaie de Paris	11134
 Monnaie. Il	8316
 Monnaies	5992
+Monnaies Numériques de Banque Centrale	11799
 Monniot	8605
 Monochrome	34
 Monochrome USB Dot	34
@@ -1701,6 +1704,7 @@ Son Excellence Monsieur le Président	2695,2079
 Son Excellence Monsieur le Président du Conseil	8755
 South Sudan Economic Monitor	3583
 South Sudan's Electronic Money Regulation	6776
+Spectrum Monitoring Sub-System	11830
 Sport Dossiers Economie Afrique Monde People	9890
 Sri Lanka Kiribati Mongolia Myanmar Nepal	10764
 St. Monica’s Girls School	5802
@@ -1743,6 +1747,7 @@ Thema Monroe-White	5349
 Thuku Connects Crypto and Mobile Money Through	6887,414
 Tigo Money and Vodafone Cash	6996
 Togo. Economic and Monetary Union of Central Africa	2775
+Tokenised Money	11819
 Tools for Enhanced Monitoring	11469
 Tosin Eniolorunda. Moniepoint	5690
 Trade and Monetary Affairs	7815,152
@@ -1811,7 +1816,7 @@ Wave Money Group	3345
 Wave Money for Digital	3345
 West Africa Economic and Monetary Union	5395,5,6159
 West African Economic Monetary Union	138
-West African Economic and Monetary Union	7,19,1,1,90,1146,1511,1620,2076,467,134,559,165,75,211,1590,275,128,128,638,4,679,1,11,14,36
+West African Economic and Monetary Union	7,19,1,1,90,1146,1511,1620,2076,467,134,559,165,75,211,1590,275,128,128,638,4,679,1,11,14,36,235
 West African Economic and Monetary Union Interopera	1502
 West African Economic and Monetary Union Interoperable	1502
 West African Economic and Monetary Union. Agritech	10939

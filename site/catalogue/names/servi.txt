@@ -20,6 +20,7 @@ AFENET The Minister of Health and Social Services	10477
 AFFORDABLE COMPUTER SERVICES KENYA LIMITED Data	7167
 AFRINIC Registration Service	585
 AFRINIC Service Region	8866
+AFRINIC's Head of Member Services	11797
 AFRINIC’s Registration Service Agreement	585
 AHK SERVICES EASTERN AFRICA LTD Data	7167
 AI Act AI Act Service Desk	8529
@@ -927,8 +928,9 @@ Director Universal Service Fund	6946
 Director of Core and Services	2528
 Director of Digital Development Services	9117
 Director of Digital Transformation and Services	8343
-Director of Electronic Communications Networks and Services	3696
+Director of Electronic Communications Networks and Services	3696,8151
 Director of Financial Services	8758
+Director of Industry Services for Africa	11815
 Director of Networks and Electronic Communications Services	3805,1270
 Director of Postal Services	10509
 Director of Regulated Services and Consumers	9923
@@ -1206,6 +1208,7 @@ Financial Services Assess	4848
 Financial Services Authority	7760
 Financial Services Authority Director	6938
 Financial Services Commission	783,4699,1456
+Financial Services Commission of Mauritius	11819
 Financial Services Commission. Dans	6757
 Financial Services Consumers	11131,3
 Financial Services Demand Side Survey Financial	940
@@ -1576,6 +1579,7 @@ Internet Service Providers JSI Joint Statement	1243
 Internet Service Providers’ Association	10690
 Internet Service US	736
 Internet Services	1872,903
+Internet Services Licence	11788
 Internet Services Provider	1872
 Internet Services Providers	11259
 Internet Services The Internet	6946
@@ -2208,6 +2212,7 @@ Payment Service for Commercial Registration	4542
 Payment Services	10785
 Payment Services Directive	7468,2026
 Payment Services I-22 Customs Services	10785
+Payment Services Instruction	11821
 Payment Solution Service Providers	3491,3207,237,2755
 Payment Systems and Services Act	587,5122,1231,174,211
 Payment Terminal Service Aggregator	3491
@@ -2376,7 +2381,7 @@ Public Service	3,2772,439,500,503,311,1904,750,366,111,1858,1659,8,32,29,324
 Public Service AI	7548
 Public Service Act	11178,4,2,17,15,2,62
 Public Service Amos Gathecha	10043
-Public Service Commission	395,2384,485,1581,480,808,813,112,13,25,1503,841,873,869,42,23
+Public Service Commission	395,2384,485,1581,480,808,813,112,13,25,1503,841,873,869,42,23,598
 Public Service Commission Act	10313
 Public Service Commission PA’s Performance Agreements	11224
 Public Service Commission R&D Research and Development	7548
@@ -2804,6 +2809,7 @@ Service Delivery Requirements	9855
 Service Delivery Standards	6786
 Service Delivery Time	4528
 Service Delivery and Access	11250
+Service Delivery and Accessibility	11791
 Service Delivery and Organisational Environment Statistics	11250
 Service Delivery and System Strengthening Project	10829
 Service Demandeur TDR	10876
@@ -3290,15 +3296,17 @@ Solid Interconnectivity Services Limited	3862
 Solutions and Services for Carrier Phones	3511
 Somalia’s National Employment Service Center	5172
 South Africa Public Service and Administration	1009
+South Africa's Internet Service Providers' Association	11823
 South Africa-based Fides Advisory Services	4672
 South African Community Library and Information Services	8022
 South African Crypto Asset Service Provider	8840
 South African Intelligence Service	11277
 South African Internet Service Provider	10811
-South African Police Service	2117,509,599,2098,210,1538,25,1258,543,1442,467,382,2,95,4,262
+South African Police Service	2117,509,599,2098,210,1538,25,1258,543,1442,467,382,2,95,4,262,290
 South African Police Service Act	11188,2,361
 South African Police Service Amendment Bill	11285
 South African Police Service Division	11188
+South African Police Service and Department of Defence	11845
 South African Police Services	8600,179,2506
 South African Public Library and Information Services	8022
 South African Revenue Service	2681,11,2455,386,58,93,192,1726,2,306,449,311,422,1,652,150,163,268,483,372,44,15,6,12,18,3,10,396
@@ -3463,6 +3471,7 @@ Thuraya Satellite Phones and BrainSAT Satellite Services	11290
 Thusong Service Centres	5199
 Timeline Yet for Service Restoration Starlink	4601
 Tororo Service Uganda Centre	8032
+TouchPoint Financial Services	11826
 Touchpoint Financial Services	5324
 Toward More People-Centered Service Delivery	984
 Tower Infrastructure Services	4896
@@ -3648,7 +3657,7 @@ ViceMinistro Servicio	4209
 Videos Religious Service Sleeping	582
 Virtual Asset Service Provider	9311,223,220,121
 Virtual Asset Service Provider Association	9956
-Virtual Asset Service Providers	3289,581,732,303,226,2210,493,346,410,113,120,3,404,1901
+Virtual Asset Service Providers	3289,581,732,303,226,2210,493,346,410,113,120,3,404,1901,690
 Virtual Asset Service Providers Act	3793,1115,2699,227,863,6,608,223,2165
 Virtual Asset Service Providers Regulations	7607
 Virtual Asset Service Providers Regulations. Select	10738
@@ -3703,6 +3712,7 @@ Y NORMATIVO SERVICIOS REG. SERVICIOS REG	4209
 Yes. Service	10617
 Yomi Arowosafe. Nigeria’s Universal Service Provision	2590
 Youth Employment Service	11245
+Youth Service	11791
 Youth Service Corp Village Anglican Christ	11129
 Youth Services Corps NDP National Development	11261
 Youth-Shaped Income Generation Activities’ Advisory Services	10964

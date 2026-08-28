@@ -36,6 +36,7 @@ Africa West	7286,1,3947
 Africa West Bayobab Digital Infrastructure Meta	11234
 Africa West and Central	3604
 Africa and Madagascar AWS Automatic Weather Station	11553
+Africa's Languages Are Missing From the Web	11827
 Africa. Francophone Weekly	6368
 Africa. Other West African	10861
 Africa. We're	2986,6809
@@ -47,6 +48,7 @@ African Digital Week	6447
 African Energy Week	8755
 African Government. World Wide Web Foundation	1243
 African Union Commission I Web	4123
+African Union Commission Web	11839
 African Web3	2826
 African and West African	10856
 African and Western	9739
@@ -157,7 +159,7 @@ Central Africa Western Africa	11572
 Central African Republic Webpage	4127
 Central African and West African CFA	8265
 Central Asia Sub-Saharan Eastern Asia Western	11572
-Central Bank of West African States	7,2768,485,731,3159,481,165,75,202,9,1993,128,726,595,26,19
+Central Bank of West African States	7,2768,485,731,3159,481,165,75,202,9,1993,128,726,595,26,19,252
 Central Bank of West African States. Mr	11554
 Central Bank's Website	6938
 Central Rift Northern Nairobi Coast Western	7869
@@ -288,6 +290,7 @@ Digitale Transformation Westafrika	1531,1
 Digitale Transformation Westafrika KfW Development Bank	900
 Digitization of Weekly	11231
 Director for West Africa	4109
+Director of Government Affairs for West Africa	11815
 Dirk Werner	11735
 Disabilities WC Western Cape WHO World	11192
 Disability and Social Welfare Mary Navicha	8575
@@ -473,6 +476,8 @@ Headmistress of Wesley Girls Basic School	8384
 Health Community of West Africa Association	10630
 Health Wellness	11134
 Health and Social Welfare	5141
+Health and Well-Being	11791
+Health and Well-Being Pillar	11791
 Health and Well-being	970,7636
 Hierdie Wet	11189
 High Excess Energy Week	11228
@@ -1231,7 +1236,7 @@ Web3.0 Alliance	5145
 WebAPI	3530
 WebBanner	7139
 WebDHIS	396
-WebFetch	3162,7211,959
+WebFetch	3162,7211,959,477
 WebLab	1348
 WebLabs	181,9,1734
 WebSIG	3812
@@ -1255,7 +1260,7 @@ Webmasters Kenya	3583
 Webmasters Kenya Limited	2742
 Webmasters Kenya and Olivetree Limited	6796
 Webphone	10417
-Website	236,178,173,131,254,159,23,400,224,998,24,16,205,365,2292,1,114,878,296,497,86,417,765,1123,380,297,230,2,1,10,18,30,21,67,69,37,174,6,1,42,17,3,303,91
+Website	236,178,173,131,254,159,23,400,224,998,24,16,205,365,2292,1,114,878,296,497,86,417,765,1123,380,297,230,2,1,10,18,30,21,67,69,37,174,6,1,42,17,3,303,91,153
 Website Address	11250
 Website Hacking	3214
 Website Maintenance	8897
@@ -1547,7 +1552,7 @@ West African Eco	11550
 West African Eco-	2775
 West African Economic	10856
 West African Economic Monetary Union	138
-West African Economic and Monetary Union	7,19,1,1,90,1146,1511,1620,2076,467,134,559,165,75,211,1590,275,128,128,638,4,679,1,11,14,36
+West African Economic and Monetary Union	7,19,1,1,90,1146,1511,1620,2076,467,134,559,165,75,211,1590,275,128,128,638,4,679,1,11,14,36,235
 West African Economic and Monetary Union Interopera	1502
 West African Economic and Monetary Union Interoperable	1502
 West African Economic and Monetary Union. Agritech	10939
@@ -1646,7 +1651,7 @@ Westen Cape View Western Cape Overview	8999
 Westerman	6832
 Westermann	8606
 Westermeier	4676
-Western	161,75,335,182,801,907,207,108,615,207,276,182,71,131,168,250,58,17,293,198,5,55,116,95,169,181,244,124,36,71,160,194,116,17,122,1,49,177,46,215,260,138,24,12,17,160,160,164,90,50,119,48,213,2,392,147,198,13,97,62,15,41,181,50,342,21,508,69,56,51,5,14,586
+Western	161,75,335,182,801,907,207,108,615,207,276,182,71,131,168,250,58,17,293,198,5,55,116,95,169,181,244,124,36,71,160,194,116,17,122,1,49,177,46,215,260,138,24,12,17,160,160,164,90,50,119,48,213,2,392,147,198,13,97,62,15,41,181,50,342,21,508,69,56,51,5,14,586,81
 Western AI	571,4796,864,2461,1047
 Western Africa	585,376,303,1331,215,6056,1974,19,53,660
 Western Africa Leadership	10835,3
@@ -1664,7 +1669,7 @@ Western Area Urban District	8903
 Western Asia	10840,732
 Western Asia and Northern Africa	11572
 Western Australia	2390,1902,563,470,255,313,73,322,83
-Western Cape	219,80,107,42,87,196,1,223,1,215,1,1,116,280,370,154,192,2876,1522,149,1186,4,90,263,34,49,106,15,267,1,152,792,103,73,276,295,273,369,8,4,3,16,21,16,5,9,10,13,4,5,2,40,158
+Western Cape	219,80,107,42,87,196,1,223,1,215,1,1,116,280,370,154,192,2876,1522,149,1186,4,90,263,34,49,106,15,267,1,152,792,103,73,276,295,273,369,8,4,3,16,21,16,5,9,10,13,4,5,2,40,158,347
 Western Cape AI Cluster	11012
 Western Cape Artificial Intelligence	11012
 Western Cape Beneficiaries	8999
@@ -1775,7 +1780,7 @@ Wezesha Vijana	7204
 We’ll	3391,909,824,1605,742,460
 We’ll Link Citizens’ Credit Scores	3030
 We’re	40,520,339,737,959,389,22,29,15,83,167,78,13,556,607,82,357,182,81,129,136,30,271,100,110,200,459,45,112,100,13,353,437,157,67,38,80,198,259,102,325,120,249,262,261,186,224,165,37,8,103,110,95,1,185,143,49,99,57,11
-We’ve	411,2061,231,124,179,44,130,198,13,592,1273,1272,163,45,235,95,5,213,98,631,278,230,29,115,63,51,110,118,10,80,249,20,273,24,91,9,6,28,72,11,16,23,32,4,1,12,4,12,59,112,6,39,473,29,36,2,58,3,6,151,83,122,4,2,6,160,169,1,1,262,15
+We’ve	411,2061,231,124,179,44,130,198,13,592,1273,1272,163,45,235,95,5,213,98,631,278,230,29,115,63,51,110,118,10,80,249,20,273,24,91,9,6,28,72,11,16,23,32,4,1,12,4,12,59,112,6,39,473,29,36,2,58,3,6,151,83,122,4,2,6,160,169,1,1,262,15,62
 We’ve Already Done This Mobile	8182
 WhatsApp Web	5113
 WhatsApp WebTV WebRadio Newsletter Library	11548

@@ -7,12 +7,14 @@ ADEA Senior Programs Officer Shem Bodo	10359
 ADULTS BORROWED MONEY	10977
 ADULTS IN SUB-SAHARAN AFRICA BORROWED	10977
 AFRIKA BANQUE BGFIBANK BIMAO BNDE BOA	11588
-AFRINIC Board	10079,371
-AFRINIC Board of Directors	10079
+AFRINIC Board	10079,371,1346,4,1
+AFRINIC Board of Directors	10079,1721
+AFRINIC Board. Presentation	11801
 AFRINIC Board. Subject	8867
 AFRINIC's Board	9992
 AFRINIC's Board Documents	9612
 AFRINIC's Unfinished Board-Authority Chain AFRINIC	9507
+AFRINIC. The AFRINIC Board	11800
 AFYA BORANJEMA MEDICAL CENTRE	7167
 AI Advisory Body	2816
 AI Algeria Award Bahrain Bootcamp Business	5322
@@ -140,6 +142,7 @@ Autres BOUCLE DU MOUHOUN BANWA	10847
 Awa Bousso Dramé	5074,1859
 Awali Boubacar. Ensemble	6252
 Axian Telecom Bond	890,46
+Ayrton Boavida	11837
 B Bonne	10975
 BABY BOMA CHILDREN'S MEDICAL CENTRE LIMITED	7167
 BALE BOROMO MOUHOUN DEDOUGOU NAYALA TOMA	10847
@@ -479,7 +482,7 @@ Boali. S'exprimant	9277
 Boane	5087
 Boane Earth Station	6797
 Boao INCLUSIVE DIGITAL USE Vision Easy	1885
-Board	11,225,349,2,131,18,222,38,135,23,45,355,17,7,1,195,33,11,1,48,3,30,1,18,334,284,172,66,54,321,180,80,114,77,92,21,32,34,107,11,89,43,17,79,137,187,16,96,184,150,253,40,431,26,41,538,219,95,103,71,41,167,25,252,6,166,164,4,125,182,34,156,122,128,108,15,106,19,55,278,1,72,30,78,55,1,22,137,124,119,1,1,1,67,37,1,168,74,59,1,76,1,87,62,10,150,12,32,30,175,128,16,27,243,167,3,45,20,19,18,4,25,4,11,5,67,4,83,25,61,35,122
+Board	11,225,349,2,131,18,222,38,135,23,45,355,17,7,1,195,33,11,1,48,3,30,1,18,334,284,172,66,54,321,180,80,114,77,92,21,32,34,107,11,89,43,17,79,137,187,16,96,184,150,253,40,431,26,41,538,219,95,103,71,41,167,25,214,38,6,166,164,4,125,182,34,156,122,128,108,15,106,19,55,278,1,72,30,78,55,1,22,137,124,119,1,1,1,67,37,1,168,74,59,1,76,1,87,62,10,150,12,32,30,175,128,16,27,243,167,3,45,20,19,18,4,25,4,11,5,67,4,83,25,61,35,122,114,4,1,10,1,1
 Board Annual Integrated Report	11134
 Board Appointment Our Board Individual Members	11134
 Board Approval	2712,1976,1891,254,95,949,3518
@@ -580,6 +583,7 @@ Board of Directors of Afreximbank	4401,3384
 Board of Directors of EBID	9536
 Board of Directors of Econet	4896
 Board of Directors of Econet Wireless Zimbabwe Limited	4263,633
+Board of Directors of ICANN	11800
 Board of Directors of IHS Holding Limited	7198
 Board of Directors of INCM	6822
 Board of Directors of MTN Group Limited	7198
@@ -606,12 +610,16 @@ Board-and-member	9612
 Board-appointed	10079
 Board-approval	1899
 Board-approved	2130,6736,2268
+Board-cleared	11801
 Board-constitution	9508
 Board-controlled	9915
 Board-document	9992
+Board-endorsed	11801
 Board-labelled	9506
 Board-level	5281
+Board-preparation	11801
 Board-prescribed	9914
+Board-to-SGMM	11801
 Board. A.230 Tenure	3887
 Board. Africa	9642
 Board. Allowances	587
@@ -624,9 +632,11 @@ Board. Divisions	587
 Board. Establishment	3887
 Board. Financial Provisions Funds	587
 Board. Inspections	9855
+Board. Meeting-support	11801
 Board. Separate	9613
 Board. Sub-Part B	7845
-Board. The Board	1554
+Board. The BRC	11801
+Board. The Board	1554,10246
 Board. The Economic Regulation	718
 Board. Under Prof. Muranda	1554
 Board. Vice-Chairperson	585
@@ -634,7 +644,7 @@ Board. While the Board	8866
 Boarding	5399
 Boardroom	10010
 Boardroom Mandate	3279
-Boards	3025,3921,2408,341,288,40,393,715,3
+Boards	3025,3921,2408,341,288,40,393,715,3,667
 Boards Support Bujagali Refinancing Package	11310
 Boards Waste	9123
 Boards and C-Suites. No-one	8025
@@ -1224,7 +1234,7 @@ Bots Sociais	3519
 Botshabelo	6832
 Botsuana	11437
 Botsuana. Cristina Caniço	8492
-Botswana	8,12,6,1,1,12,12,184,82,85,29,189,91,2,52,72,24,96,4,51,141,89,120,12,90,89,66,20,20,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,29,110,10,120,36,142,143,95,42,2,149,16,7,60,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,10,18,49,4,1,37,2,41,18,75,1,6,19,1,3,7,30,11,12,85,30,156,12,7,71,22,102,109,56,39,20,52,1,33,25,27,1,22,18,10,80,4,89,2,6,5,11,12,39,31,10,3,36,16,11,174,157,7,84,35,100,103,19,1,40,15,73,70,111,9,11,2,32,20,13,21,14,19,11,37,1,2,11,1,1,1,2,12,2,25,1,31,1,8,4,10,70,4,14,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,33,5,25,18,20,1,13,20,6,57,27,18,33,27,28,13,57,16,36,3,7,25,16,6,1,47,14,15,20,10,48,1,33,74,27,9,70,104,2,2,1,1,67,64,6,2,16,28,50,21,41,58,18,22,4,2,4,190,2,1,36,116,47,2,69,162,1,35,36,277,88,20,1,35,1,155,117,40,309,385,95,45,251,146,51,49,61,17,27,110,27,1,22,78,66,1,85,55,5,51,4,36,5,75,67,1,112,2,14,29,26,8,1,41,3,2,4,2,99,5,18,37,135,194,66,7,10,183,9,139
+Botswana	8,12,6,1,1,12,12,184,82,85,29,189,91,2,52,72,24,96,4,51,141,89,120,12,90,89,66,20,20,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,29,110,10,120,36,142,143,95,42,2,149,16,7,60,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,10,18,49,4,1,37,2,41,18,75,1,6,19,1,3,7,30,11,12,85,30,156,12,7,71,22,102,109,56,39,20,52,1,33,25,27,1,22,18,10,80,4,89,2,6,5,11,12,39,31,10,3,36,16,11,174,157,7,84,35,100,103,19,1,40,15,73,70,111,9,11,2,32,20,13,21,14,19,11,37,1,2,11,1,1,1,2,12,2,25,1,31,1,8,4,10,70,4,14,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,33,5,25,18,20,1,13,20,6,57,27,18,33,27,28,13,57,16,36,3,7,25,16,6,1,47,14,15,20,10,48,1,33,74,27,9,70,104,2,2,1,1,67,64,6,2,16,28,50,21,41,58,18,22,4,2,4,190,2,1,36,116,47,2,69,162,1,35,36,277,88,20,1,35,1,155,117,40,309,385,95,45,251,146,51,49,61,17,27,110,27,1,22,78,66,1,85,55,5,51,4,36,5,75,67,1,112,2,14,29,26,8,1,41,3,2,4,2,99,5,18,37,135,194,66,7,10,183,9,139,96
 Botswana Accelerates Digital Transformation TechAfrica News	4070
 Botswana Accountancy College	4060
 Botswana Advances Digital Government	5444
@@ -1957,7 +1967,7 @@ Film and Publications Board R112	6152
 Film and Publications Board R112m	6151
 Finance Minister Abdelkrim Bouzred	6204
 Financial Management Board	11525
-Financial Stability Board	4127,2259,552,4192,8
+Financial Stability Board	4127,2259,552,4192,8,683
 Finanças Seguros Bolsa	6970
 Fintech Association of Botswana	2773
 Firmin N'Dri Bonfils	6817
@@ -2774,6 +2784,7 @@ Public Service Minister Faya François Bourounou	4116
 Public The Board and Management	6946
 Publication Services PO Box	1828
 Punch Editorial Board	8440
+Purported Board	11812,1
 Péripneumonie Contagieuse Bovine	3396
 QoE Bottleneck	6051
 Qualifications Bodies	6832
@@ -2985,6 +2996,7 @@ Société Béninoise de Boissons Rafraichissantes	7212
 Solidarity Beyond Borders	6947
 Sonatel Local Currency Bond	518
 Soumana Boubacar	7333
+Sources AFRINIC Board Meetings and Resolutions	11813
 South Africa and Botswana	1815,1368,2080,474,1730,2292
 South Africa. Bond	460
 South Africa. Van Zyl Botha	7318

@@ -197,14 +197,15 @@ Director National Payment Systems	9820
 Director of National Payment System	9585
 Director of Payment System Policy	8986
 Director of Payments System Supervision	6814
-Djogana Pay	3650
+Djogana Pay	3650,8176
 Draft National Payment System Bill	10186,1
 Draft Specific Payment Activities Exemption Notice	4824
+Drive Implementation of Regional Cross-Border Payment System	11807
 Due and Payable	573,2588
 E ENS ArticleThird-party Payment Providers	6998
 E- Pay	582
 EAC Cross-Border Payment System Master Plan	7192
-EAC Cross-Border Payment System Masterplan	7178,637,152,559,1734
+EAC Cross-Border Payment System Masterplan	7178,637,152,559,1734,1547
 EAC Cross-Border Payment System Masterplan. Under	7178
 EBURY PARTNERS PAYMENTS SOLUTIONS LIMITED Data	7167
 ECOWAS Payment System and Settlement	6938
@@ -390,7 +391,7 @@ Interbank Payment and Settlement System	3736
 International Trade and Balance of Payments	2775
 Interoperability of Retail Payment Systems	3288
 Interoperable Instant Payment Platform	10203,726
-Interoperable Instant Payment System Platform	5054
+Interoperable Instant Payment System Platform	5054,6767
 Jamii Pay	2868
 July. Payments	1191
 Jumia Pay	5822
@@ -587,7 +588,7 @@ PagSeguro and Paytm. All	5124
 Pan African Payment and Settlement System	8442
 Pan-African Payment	9673
 Pan-African Payment System	6699
-Pan-African Payment and Settlement System	999,855,68,1152,366,663,487,133,48,120,10,4,3,347,185,657,39,265,299,238,101,25,86,310,76,81,168,143,2,78,11,5,15,5,22,15,1,65,682,324,26,1297,79,163,420
+Pan-African Payment and Settlement System	999,855,68,1152,366,663,487,133,48,120,10,4,3,347,185,657,39,265,299,238,101,25,86,310,76,81,168,143,2,78,11,5,15,5,22,15,1,65,682,324,26,1297,79,163,420,671
 Pan-African Payment and Settlement System MTN Ghana	5908,442
 Pan-African Payment and Settlement System. Further	6679
 Pan-African Payment and Settlement System. Separate	7880
@@ -720,6 +721,7 @@ Payment Service for Commercial Registration	4542
 Payment Services	10785
 Payment Services Directive	7468,2026
 Payment Services I-22 Customs Services	10785
+Payment Services Instruction	11821
 Payment Solution Service Providers	3491,3207,237,2755
 Payment Story Behind Its Food	5765
 Payment Switch	11134

@@ -57,6 +57,7 @@ ASSEMBLEE NATIONALE. Loi	10819
 ASSEMBLEE NATIONALE. République du Bénin	10819
 Abbreviation Description NPA National Prosecuting Authority	11250
 Abbreviations ANPTIC Agence Nationale	10812
+About ECA The United Nations Economic	11808
 About Impilo Nationally	9429
 About Kenya National Bureau of Statistics	2775
 About the National Communications Authority	3986
@@ -742,6 +743,7 @@ Digital Services Act. National	8529
 Digital Technology and Innovations. A National AI	5946
 Digital Uganda and National Development Plan IV	6789
 Digital for Strengthening National Health	10865
+Digitalisation and Smart Nation Readiness	11822
 Digitalization RF Resettlement Framework RNPP National	3604
 Digitally Transformed Nation	3485
 Digitize National Exams	4670
@@ -1492,7 +1494,7 @@ La Commission Nationale	547,1,2,18,20,10233
 La Cotonnière Industrielle du Cameroun CNAR National	10841
 La Force Nationale de Police	4420
 La Nation	1287,1,1066,49,9,321,343,24,6,84,5,64,193,125,14,91,37,318,120,1,526,31,82,15,127,64,120,137,176,76,4,307,19,40,17,17,33,29,14,225,17,18,27,13,49,54,3,77,26,169,26,26,17,1,55,10,31,4,13,35,89,24,77,42,48,164,23,101,258,1,344,2228
-La Nation Benin	87
+La Nation Benin	87,11707
 La Nation Bénin	545,5870,977,1,4210
 La Nation Bénin... Le Bénin	7293
 La Nation Bénin... Quatre	11752
@@ -1744,6 +1746,7 @@ NATIONAL ASSEMBLY BILLS	7832
 NATIONAL ASSEMBLY QUESTION FOR WRITTEN REPLY	6868
 NATIONAL ASSEMBY	11272
 NATIONAL BUDGET ALLOCATION	11285
+NATIONAL CAREER GUIDANCE POLICY Cabinet	11791
 NATIONAL COMMUNICATIONS AUTHORITY	3641
 NATIONAL COMMUNICATIONS AUTHORITY LIST OF AUTHORISED	3386
 NATIONAL COMMUNICATIONS AUTHORITY THIRD QUARTER	2776
@@ -2242,7 +2245,7 @@ National Bank of Ethiopia Concurrently	5655
 National Bank of Ethiopia's Digital Payment	8671
 National Bank of Ethiopia. Nazrawit Endale	8671
 National Bank of Malawi	2231,1807,7051
-National Bank of Rwanda	2450,87,701,865,1269,767,45,551,99,104,334,5,24,48,668,8,424,15,71,223,288,12,962,649
+National Bank of Rwanda	2450,87,701,865,1269,767,45,551,99,104,334,5,24,48,668,8,424,15,71,223,288,12,962,649,1138
 National Bank of Rwanda Minister of Finance and Economic	6938
 National Bank of Rwanda Ms. Annette Mutaawe	7815
 National Bank of Rwanda. Continuous	9046
@@ -2328,6 +2331,7 @@ National Capability Ambassador Khathibe	9741
 National Capacity	958
 National Capacity-Building Workshop	7814
 National Carbon Registry	9424
+National Career Guidance Policy	11791
 National Case Management System	8978
 National Case Management System. If the Supreme	8978
 National Census	11133
@@ -2797,7 +2801,7 @@ National Development Plans	1814,53,6546,2718,3
 National Development Priorities	4528
 National Development Programme	11536
 National Development Strategies	4528
-National Development Strategy	940,18,196,400,749,748,709,101,353,314,1653,1340,359,603,547,364,3,63,612,769,122,1,16,5,12,621
+National Development Strategy	940,18,196,400,749,748,709,101,353,314,1653,1340,359,603,547,364,3,63,612,769,122,1,16,5,12,621,173
 National Development Strategy This Policy	3861
 National Development Strategy and Zimbabwe's Digital Economy	7036
 National Development Strategy. Building	4214
@@ -3472,7 +3476,7 @@ National Information Technology Authority-Uganda	5064,1512,1456,42,649,1060,2
 National Information Technology Authority-Uganda Palm Courts	11750
 National Information Technology Development	5215
 National Information Technology Development Act	5665
-National Information Technology Development Agency	2218,176,68,218,45,208,1,120,79,489,122,198,641,38,69,35,940,60,333,478,153,308,113,451,69,116,2,675,1,15,547,131,1,245,210,2,96,82,127,77,1,57,142,113,40,117,146,107,1,271,1,88,85,178,34,268
+National Information Technology Development Agency	2218,176,68,218,45,208,1,120,79,489,122,198,641,38,69,35,940,60,333,478,153,308,113,451,69,116,2,675,1,15,547,131,1,245,210,2,96,82,127,77,1,57,142,113,40,117,146,107,1,271,1,88,85,178,34,268,226
 National Information Technology Development Agency Act	10157
 National Information Technology Development Agency Nigeria	8764
 National Information Technology Development Agency. Nigeria	4621
@@ -3901,7 +3905,7 @@ National Programme for NTD Control	10188
 National Project Collect	1988
 National Project Policy Stakeholder Group	1867
 National Project Steering Committee	9650
-National Prosecuting Authority	7505,3224,550
+National Prosecuting Authority	7505,3224,550,562
 National Prosecuting Authority Act	11190
 National Prosecution Authority	972
 National Public	6832,4015,704
@@ -4446,7 +4450,7 @@ National Youth Authority	4126
 National Youth Commission	9450
 National Youth Council	7171
 National Youth Development Agency OHS Occupational	11198
-National Youth Policy	11664
+National Youth Policy	11664,127
 National Youth Service	9873
 National Youth Service Corps	3030,2114,183,3111,1137,2079
 National and County Governments	6432
@@ -4514,7 +4518,7 @@ Nationally Determined Contribution Net Interest Income	11134
 Nationally Determined Contributions	970,294,2340,5789,1436,381,326
 Nationaux	12,10863
 Nationaux Etrangers	10875
-Nations	747,496,1080,84,510,694,106,75,791,236,967,596,97,99,546,108,142,60,15,166,2,103,258,118,533,307,516,60,963,129,52,185,7,117,39,565,107
+Nations	747,496,1080,84,510,694,106,75,791,236,967,596,97,99,546,108,142,60,15,166,2,103,258,118,533,307,516,60,963,129,52,185,7,117,39,565,107,134
 Nations Children’s Fund UNODC United Nation	11586
 Nations Children’s Fund USSD Unstructured Supplementary	11133
 Nations Children’s Fund WASH Water	11560
@@ -4707,8 +4711,10 @@ PPP Act. The National Treasury	5793
 PPSD Politique Nationale de Protection Sociale	10964
 PREFACE The Nigerian National Addressing Standard	11129
 PRESS RELEASE National ID Program Reestablished	8971
+PRINCIPLES OF THE ZIMBABWE NATIONAL WATER	11791
 PROGRAMME NATIONAL FONCIER	10876
 PROJECT PANGOLIN National AI	4528
+PROPOSED NATIONAL YOUTH POLICY Cabinet	11791
 PROVINCES FOR THE NATIONAL DEPARTMENT	11252
 PUBLIC CLINICAL TRIAL UNIT AND NATIONAL	7845
 PUBLIC-SECTOR INFRASTRUCTURE REFORMS The National Treasury	11248
@@ -5109,6 +5115,8 @@ Singapore NCSA National Cybersecurity Agency NISR	1204
 Singapore National AI Office	4126,2871
 Singapore National AI Strategy	11135
 Singapore National Digital Identity	7981
+Singapore's National Digital ID	11822
+Singapore's Smart Nation	11822
 Single National Register	10991
 Six West African Nations Align AI	965,3804,120,206,68,334,86
 Sixth National Development Plan	4980,56,890
@@ -5127,6 +5135,8 @@ Smart Zambia National Coordinator Percy Chinyama	5522,3870
 Smart Zambia National ICT Development Project	59,134,1
 SmartCare Pro EHR and National Digital ID	4624
 Social Cohesion NCB National Competitive Bidding	11525
+Social Development. The National Youth Policy	11791
+Social Development. The Zimbabwe National Child	11791
 Social Economy and Handicrafts VSE National Development	10980
 Social PNSAN Politique Nationale de Nutrition PPBA	643
 Social Security Fund NTSA National Transport	2775
@@ -5546,7 +5556,7 @@ United Nations E-Government Survey. Countries EDGI	10840
 United Nations E-Government Survey. Legend	10840
 United Nations E-Participation Index	11569
 United Nations Economic	1554,9286
-United Nations Economic Commission for Africa	26,1,1,930,596,260,1244,1299,1235,291,726,278,642,898,327,408,32,1154,67,305,99,731,22,93,71
+United Nations Economic Commission for Africa	26,1,1,930,596,260,1244,1299,1235,291,726,278,642,898,327,408,32,1154,67,305,99,731,22,93,71,72,8
 United Nations Economic Commission for Africa Conference	8472
 United Nations Economic Commission for Africa RES4Africa	941
 United Nations Economic Commission for Asia	11572
@@ -5782,7 +5792,7 @@ Zimbabwe National Artificial Intelligence	4528
 Zimbabwe National Artificial Intelligence Strategy	3760,632,994,614,793
 Zimbabwe National Chamber of Commerce	4528
 Zimbabwe National Chamber of Commerce Business Leader	7312
-Zimbabwe National Child Online Protection Policy	9794,1817
+Zimbabwe National Child Online Protection Policy	9794,1817,180
 Zimbabwe National Code	4896
 Zimbabwe National Defence University	1154
 Zimbabwe National Development Strategy	970
@@ -5801,6 +5811,8 @@ Zimbabwe National Policy for ICT	958
 Zimbabwe National Road Administration	8296
 Zimbabwe National Statistics Agency	395,7126,1731
 Zimbabwe National Vision	958
+Zimbabwe National Water Authority Act	11791
+Zimbabwe National Water Authority Amendment Bill	11791
 Zimbabwe Yes National ICT Policy	11529
 Zimbabwe's National AI Strategy	7436
 Zimbabwe's National Development Strategy	11618

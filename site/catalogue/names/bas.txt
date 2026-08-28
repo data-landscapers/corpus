@@ -122,7 +122,7 @@ Base-T	34
 Base-T Gigabit LAN	34
 Base-TX	34
 Baseband Security	10721
-Based	236,195,340,128,59,12,191,58,9,1,14,21,20,79,284,164,3,4,10,10,29,5,116,1001,38,134,118,80,5,123,96,21,48,93,117,264,88,439,23,46,126,48,76,141,131,204,85,18,311,216,261,89,1,1,1,1,97,10,132,77,173,9,8,8,2,13,105,114,42,42,14,39,231,96,51,185,86,124,211,10,125,24,144,19,54,102,57,1,6,280,6,72,83,27,20,408,20,98,112,291,503,1,4,11,6,9,18,7,10,12,15,9,1,15,82,1,21,19,126,1,3,2,4,2,50,3,41,1,25,27,91,19,25,45,56,38,15,3
+Based	236,195,340,128,59,12,191,58,9,1,14,21,20,79,284,164,3,4,10,10,29,5,116,1001,38,134,118,80,5,123,96,21,48,93,117,264,88,439,23,46,126,48,76,141,131,204,85,18,311,216,261,89,1,1,1,1,97,10,132,77,173,9,8,8,2,13,105,114,42,42,14,39,231,96,51,185,86,124,211,10,125,24,144,19,54,102,57,1,6,280,6,72,83,27,20,408,20,98,112,291,503,1,4,11,6,9,18,7,10,12,15,9,1,15,82,1,21,19,126,1,3,2,4,2,50,3,41,1,25,27,91,19,25,45,56,38,15,3,264
 Based Black Economic Empowerment CBM Citizen-based	11224
 Based Care	7761
 Based Health Service Delivery	10829
@@ -135,6 +135,7 @@ BasedontheiravailabilityintheheterogeneousXMLfiles	8606
 Basedonthis	8606
 Basel	10,4093,157,2678,598,2203,1180,221
 Basel Capital Framework	11134
+Basel Committee	11821
 Basel Convention	1988
 Basel II	1155,9976
 Basel II and III	10408
@@ -681,6 +682,7 @@ Proyecto de Interconexión Bases de Datos CNEDOGE	4209
 Proyecto de Migración Bases	4209
 Président Bassirou Diomaye Faye	2440,38
 Public Service Houses Baseline	3604
+Quality Cost Based Selection	11825
 Quality and Cost Based Selection	11750
 Quality and Cost Based Selections	8669
 RECOMMENDATIONS Based	10049

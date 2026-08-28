@@ -40,7 +40,7 @@ Act. Functions	587
 Acção. O Futuro Fiscal de Angola	10786
 Adaptation Fund	11332
 Additional Funding Sources	11285
-Adjustment Fund	7785
+Adjustment Fund	7785,4024
 Administración Pública Función Pública	4209
 Administration and Human Resources Committee Functions	1154
 Advanced the Deposit Protection Fund	11134
@@ -236,6 +236,7 @@ CEO de Futa	2429
 CEO of A Common Future	10962
 CEPAR and One Acre Fund-Tubura Sign Landmark	3256
 CFA du Pandemic Fund	8636
+COMESA Full Compliance Matrix-Finalv1.docx	11825
 COMMUNITY HEALTH PROMOTION FUND Data Controller	7167
 CONCESSIONAL FINANCE A European Fund for Sustainable	1818
 CONGO STOCK-TAKING OF FUEL SUBSIDIES	1828
@@ -866,7 +867,7 @@ Función Pública	758,1097,2354,2632,2683,2219
 Función Pública. Artículo	4209
 Function	4528,1859,4747
 Function-specific	6432
-Functional	582,572,2753,1626,417,231,251,1116,3271,314,76,7,24,29
+Functional	582,572,2753,1626,417,231,251,1116,3271,314,76,7,24,29,528
 Functional AI Exchequer	7548
 Functional Audit Committee The GAC	9650
 Functional Compulsion	3615
@@ -954,7 +955,7 @@ Fund for Access and Universal Electronic Communications	4798
 Fund for Africa	4972
 Fund for Electronic Communications GO Gross Output	236
 Fund for Export Development	10718
-Fund for Export Development Africa	8149
+Fund for Export Development Africa	8149,3660
 Fund the Panel	7112
 Fund the Trustees	11
 Fund's Digital Transformation Window	1073
@@ -977,7 +978,7 @@ Fundamental Principles of Official Statistics	11237
 Fundamental Rights	3861,667
 Fundamental Rights Impact Assessments	4689
 Fundamental Rights Protection GUARANTEEING	3861
-Fundamentally	10,8173,2581,272,182
+Fundamentally	10,8173,2581,272,182,627
 Fundamentals	10,9119,366
 Fundamentals of Cybersecurity for Media Practitioners	10383
 Fundamentação	11461
@@ -1137,7 +1138,7 @@ Fursa Lab	11333
 Fursa Women	11643
 Furtasan Ali	6948
 Furtasan Ali Yusuf	6948
-Further	32,204,159,23,167,133,181,41,18,3,21,27,152,61,21,5,13,3,25,44,202,19,76,8,176,14,39,121,108,21,190,83,122,156,74,33,94,20,169,186,63,206,32,38,131,21,47,9,66,5,184,81,26,110,320,9,115,25,2,90,72,217,102,31,1,7,168,128,48,135,40,20,29,3,6,254,147,73,81,102,51,98,44,153,112,1,14,21,54,85,24,76,12,9,36,53,453,85,97,48,11,117,68,226,59,173,96,32,68,117,18,124,6,33,75,310,37,19,1,56,79,20,64,181,86,173,50,214,174,3,59,1,1,3,7,4,14,26,10,15,12,5,25,75,2,1,33,9,22,91,11,1,2,1,1,7,13,1,14,18,83,146,51,15,12,30,20,4,36,97,68
+Further	32,204,159,23,167,133,181,41,18,3,21,27,152,61,21,5,13,3,25,44,202,19,76,8,176,14,39,121,108,21,190,83,122,156,74,33,94,20,169,186,63,206,32,38,131,21,47,9,66,5,184,81,26,110,320,9,115,25,2,90,72,217,102,31,1,7,168,128,48,135,40,20,29,3,6,254,147,73,81,102,51,98,44,153,112,1,14,21,54,85,24,76,12,9,36,53,453,85,97,48,11,117,68,226,59,173,96,32,68,117,18,124,6,33,75,310,37,19,1,56,79,20,64,181,86,173,50,214,174,3,59,1,1,3,7,4,14,26,10,15,12,5,25,75,2,1,33,9,22,91,11,1,2,1,1,7,13,1,14,18,83,146,51,15,12,30,20,4,36,97,68,51
 Further Improvements	1698
 Further Information	4896
 Further Information Further	1246
@@ -1597,6 +1598,7 @@ Livable Planet Fund	2391
 LoA. Further	10819
 Local Innovation Fund	4126
 Local Scholarship Funding	5583
+Localized Future Decision and Voluntary Adoption	11797
 Logistics Performance Index.16 Further	10856
 Long-Rains-Assessment-Report Full-version.pdf	7548
 Low Carbon Future	6387
@@ -2372,6 +2374,7 @@ Youth Enterprise Development Fund Loan Disbursement	2775
 Youth Enterprise Revolving Fund	4535
 Youth Entrepreneurship and Innovation Multi-Donor Trust Fund	567,373
 Youth Entrepreneurship and Innovation Trust Fund	940
+Youth Fund	11791
 Zakat Fund	5920
 Zambia Refugees Fund	1988
 Zambia Targets Full Digitalisation of Public Services	6104

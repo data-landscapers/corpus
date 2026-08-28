@@ -126,7 +126,7 @@ Directorate of Human Resources CHWs	10829
 Directorate of Human Resources Number	10829
 Disclosure Query Resolution	11250
 Disconnection Complaint Resolution Time... Order Completion	5168
-Dispute Resolution	3502,1108
+Dispute Resolution	3502,1108,7186
 Dispute Resolution A. Any	4610
 Dispute Resolution AfCFTA African Continental Free	1243
 Dispute Resolution All	6432
@@ -169,7 +169,7 @@ Fund Department Department Resource	6946
 Funding and Resourcing for Inclusive Empowerment. Ghano	6936
 Further Resources	5822
 Future Minister for Education and Human Resource Development	8609
-GOVERNING LAW AND DISPUTE RESOLUTION	8866
+GOVERNING LAW AND DISPUTE RESOLUTION	8866,2930
 GUIDELINES The Human Resource Information System	34
 Gadileh Resort Hotel	4774
 Gardens Hill Resort	10420
@@ -181,6 +181,7 @@ Gov-Cloud Government Cloud HR Human Resource	6432
 Governing Law and Dispute Resolution Note	8866
 Government Energy and Resources Authority	7548
 Government Printing Works HRM&D Human Resource	11218
+Group Managing Director of Human Resources	11809
 HP Resort de Yamoussoukro	2342
 HRA Human Resources and Administration HRIS Human	34
 HRIS Human Resource Information System IaaS	6432
@@ -329,6 +330,7 @@ Measurement Study Ministry of Energy and Water Resources	11136
 Mecanismo de Resolução	11542
 Mecanismo de Resolução de Reclamação	11390
 Mecanismo de Resolução de Reclamações	11390
+Mechanisation and Water Resources Development	11791
 Mechanism HeRAMS Health Resources Availability Mapping	10829
 Meetings and Resolutions	9915,77
 Mineral Resource	11280
@@ -461,6 +463,7 @@ Rapid Response and Conflict Resolution	3861
 Regional Centre for Mapping of Resources for Development	5805
 Registered Members and Resource Members	585,8281
 Registered and Resource	585
+Registered and Resource Members	11801
 Regulations. F. RESOLUTION OF ISSUES Issue	5113
 Regulations. RESOLUTION OF ISSUES BY PDPO	3307
 Relevant Resources ESS	1867
@@ -470,7 +473,7 @@ Resolucao	795
 Resolución	9543
 Resolución Núm	10487
 Resolutio	4301
-Resolution	11,23,362,832,586,1191,110,449,19,1,138,139,242,971,459,132,1438,1044,338,597,690,323,634,35,1,10,363,43,28,43,172,126
+Resolution	11,23,362,832,586,1191,110,449,19,1,138,139,242,971,459,132,1438,1044,338,597,690,323,634,35,1,10,363,43,28,43,172,126,263
 Resolution AGM22	5677
 Resolution BCB No	11138
 Resolution For Against Abstain SIGNED	4896
@@ -523,10 +526,10 @@ Resource Holder Support	3503
 Resource Holders	3503
 Resource Management	6422
 Resource Management Information	10870
-Resource Member	585,8281,746
+Resource Member	585,8281,746,2199,1
 Resource Member and Associate Member	585
 Resource Member of AFRINIC	585
-Resource Members	585,8281,746
+Resource Members	585,8281,746,2200
 Resource Members. Yet	9612
 Resource Membership	8866
 Resource Mobilisation Committee	1554
@@ -593,14 +596,16 @@ Social Health Authority and Human Resources for Health	4153
 Social Protection Assessment Resource Kit for Systems	10991
 Social Value of Shared Resources	5700
 Société B2GOLD MALI RESOURCES SARL	9287,55
+Sources AFRINIC Board Meetings and Resolutions	11813
 South Africa's Legal Resources Centre	8915
 South African Journal of Human Resource Management	4432,2400
 South African National Water Resources Infrastructure	8599
 South Korea’s National Information Resources Service	7471
 Special General Members' Meeting. Special Resolution	8866
-Special Resolution	585,3129,5152
+Special Resolution	585,3129,5152,2935
 Special Resolutions	585
 Starlink. Resolve Communications	7051
+Summary AFRINIC Resolution	11813
 Sustainable Environment and Resource Management	1154
 System Health Products and Technologies Human Resources	4153
 TRIBUNAL SUPREMO Resolução	6462

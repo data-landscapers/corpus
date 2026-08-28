@@ -202,7 +202,7 @@ Capacity Building and Mentorship Program Universities	1824
 Capacity Enhancement Programme	8950
 Capacity-Building and Mentorship Partnership Program	1212
 Capital MPA Early Years Program	11469
-Carnegie Africa Program	5550,1240
+Carnegie Africa Program	5550,1240,5025
 Carnegie Technology and International Affairs Program	5257
 Cascador Founders Program	9919
 Cash Transfer Compensation Program	10991
@@ -1208,7 +1208,7 @@ Programa COMBO	10276
 Programa Comunicación Institucional	4209
 Programa Conjunto	1701
 Programa Detalhado	4455,647
-Programa Espacial Nacional	5405,1180,25,28,361,1544,2529,324,1,31,9
+Programa Espacial Nacional	5405,1180,25,28,361,1544,2529,324,1,31,9,387,13
 Programa Especial de Protecção	539
 Programa Estratégico de Cooperação Portugal	11455
 Programa Integrado de Desenvolvimento Local	11577,101
@@ -1478,6 +1478,7 @@ Programmes Officer for East Africa	3776
 Programmes SALGA South African Local Government	11192
 Programmes de Formation Avenue Abdoulaye FADIGA	10237
 Programmes&publication year	1219
+Programmes. Under the Governance Pillar	11791
 Programming	236,6596,4153,145
 Programming Code	6946
 Programming FR	789
@@ -1578,6 +1579,7 @@ Reforms PROGRESS Q3 REPORT PHASE II	11236
 Regional Communications Infrastructure Program	1264
 Regional Communications Infrastructure Program Phase	107,11422
 Regional Disease Surveillance Systems Enhancement Program	11560
+Regional Programs	11839
 Regional Statistical Program	8532
 Regional Training Programme	5677
 Registered Program	6423
@@ -1696,6 +1698,7 @@ Skills Development Programme	6695
 Small Grants Programme	11332
 Small and Medium-sized Enterprises Programme	10510
 Smallholder Farmer Input Support Program	5765
+Smart Africa Capacity Building Programme	11822
 Smart Labs Programme	5444
 Smart Policing Programme	9394
 Social Assistance Programme	3602
@@ -1738,7 +1741,7 @@ Substantial. The Program	3604
 Suivi CTGP Comité Technique de Gestion de Programme	10712
 Suivi. Chaque Comité Technique de Gestion de Programme	10712
 Supplies the IDEA Programme	4538
-Support Program	7160
+Support Program	7160,4630
 Support Program for AI Emerging Technologies IP	7548
 Support Programme	10972
 Support Programme Implementation	10965
@@ -1954,3 +1957,4 @@ Zambia’s Child Grant Program	10964
 Zambia’s School Feeding Programme	10510
 Zero-Rated Programme	6748
 Zimbabwe National Indicative Programme	970
+Zimbabwe Programme	11791

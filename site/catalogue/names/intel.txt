@@ -36,7 +36,7 @@ African Regional Intellectual Property Organisation B-BBEE	11250
 African Regional Intellectual Property Organization	6997,848
 African Research Centre for Artificial Intelligence	1814
 African Union Artificial Intelligence	1243
-African Union's Continental Artificial Intelligence Strategy	8088
+African Union's Continental Artificial Intelligence Strategy	8088,3739
 African Union’s Continental Artificial Intelligence	9119
 African Union’s Continental Artificial Intelligence Strategy	10620
 Age of Artificial Intelligence	2918,7808
@@ -274,7 +274,7 @@ Congolese Academy of Artificial Intelligence	3747
 Conselho Nacional de Inteligência Artificial	3519
 Context of Artificial Intelligence	2958
 Context of Artificial Intelligence Refers	2958
-Continental Artificial Intelligence Strategy	2677,2567,1227,50,269,346,34
+Continental Artificial Intelligence Strategy	2677,2567,1227,50,269,346,34,4657
 Continental Artificial Intelligence Strategy Harnessing AI	1814,863
 Continental Artificial Intelligence Strategy. UNECA	7529
 Continental Intelligence Report	6441
@@ -297,7 +297,7 @@ DPI Readiness and Intelligent Revenue Authorities	3735
 DRAFT SOUTH AFRICA NATIONAL ARTIFICIAL INTELLIGENCE	11265
 Data Consumption and Broadband Demand GSMA Intelligence	5245
 Data Protection for Health Data and Artificial Intelligence	5363
-Data Science and Artificial Intelligence	7034
+Data Science and Artificial Intelligence	7034,4795
 Data Warehouse and Business Intelligence System	33
 Data and Artificial Intelligence	11314
 Day Anti Drug Walkathon Liquid Intelligent	2987,16,962,1438,1506
@@ -427,7 +427,7 @@ Fórum Nacional de Inteligência Artificial	7245
 G20 Presidency. The Artificial Intelligence	2526
 GHANA NATIONAL ARTIFICIAL INTELLIGENCE STRATEGY	4126
 GLOSSARY AI Artificial Intelligence ASN Autonomous	10861
-GSMA Intelligence	1623,858,1,4,4,1,1,1,1,1,2,1,5,1,1,1,1402,3,1,1,4,1,1,1,1755,918,239,54,461,226,452,2047,750,34,3,73,72,757
+GSMA Intelligence	1623,858,1,4,4,1,1,1,1,1,2,1,5,1,1,1,1402,3,1,1,4,1,1,1,1755,918,239,54,461,226,452,2047,750,34,3,73,72,757,31
 GSMA Intelligence Connectivity	6593
 GSMA Intelligence Enterprise	6593
 GSMA Intelligence Figure	10856
@@ -491,6 +491,7 @@ Hype Cycle for Artificial Intelligence. Gartner. Disponível	2816
 IA. O Regulamento Inteligência Artificial	2816
 IBA Intellectual Property	1387
 III PREFÁCIO A Inteligência Artificial	2816
+INTELI EXPRESS	11816
 INTELIGENCIA REGLAMENTACIÓN SERVICIOS	4209
 INTELIGÊNCIA ARTIFICIAL	2816,8581
 INTELIGÊNCIA ARTIFICIAL Desafios	2816
@@ -508,6 +509,7 @@ Importância da Regulamentação da Inteligência Artificial	2816
 Inclusive and Ethical Artificial Intelligence	3366
 Indian Ocean and Atlantic Ocean Intelsat	9455
 Information Warfare and Intelligence	1786,1417,3881
+Information and Labour Market Intelligence	11791
 Infrastructure National ICT Policy Intellectual Property	4528
 Innovation and Business Intelligence Unit	5587
 Inspector-General of Intelligence	11277
@@ -675,7 +677,7 @@ Libya Launches National Strategy for Artificial Intelligence	3841
 Libyan Financial Intelligence Unit	7159
 Liquid Intelligence	1817
 Liquid Intelligent	965,5035
-Liquid Intelligent Technologies	242,211,142,23,3,62,3,28,149,102,161,303,40,257,13,104,142,40,269,313,369,620,263,566,12,24,269,470,421,172,292,79,1,79,6,103,153,98,142,511,732,1071,1,2,19,59,546,967,512
+Liquid Intelligent Technologies	242,211,142,23,3,62,3,28,149,102,161,303,40,257,13,104,142,40,269,313,369,620,263,566,12,24,269,470,421,172,292,79,1,79,6,103,153,98,142,511,732,1071,1,2,19,59,546,967,512,634
 Liquid Intelligent Technologies Botswana	6165
 Liquid Intelligent Technologies EAAIF	9061
 Liquid Intelligent Technologies Nigeria	9141,546
@@ -862,6 +864,7 @@ SUB-CATEGORIA DA INTELIGÊNCIA ARTIFICIAL	2816
 SUCH AS ARTIFICIAL INTELLIGENCE	1885
 Sala de Inteligência Artificial	8807
 Saudi Data and Artificial Intelligence Authority	2958
+Sector Risk Intelligence	11840
 Senior Research Analyst Artificial Intelligence	7334
 Serviço de Inteligência	4147,1064,4779
 Serviço de Inteligência Externa	4147

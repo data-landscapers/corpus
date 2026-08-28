@@ -263,7 +263,7 @@ Equilibrar	1701
 Equilibration of Cognitive Structures. Pitanga	2816
 Equilibres	6772
 Equilibrium	4824
-Equinix	856,1,1103,195,417,105,360,147,3,501,94,77,70,262,278,556,175,427,1,337,91,14,416,546,34,168,95,14,295,387,248,642,853,1,108,160,468,356,241
+Equinix	856,1,1103,195,417,105,360,147,3,501,94,77,70,262,278,556,175,427,1,337,91,14,416,546,34,168,95,14,295,387,248,642,853,1,108,160,468,356,241,742
 Equinix Acquisition of MainOne	856
 Equinix Fabric	3929,1271
 Equinix Ghana	6056
@@ -278,6 +278,7 @@ Equinix Nigeria	2155
 Equinix PR1	3554
 Equinix SA	5965
 Equinix South Africa	857
+Equinix South Africa MD Sandile Dube	11844
 Equinix West Africa	3859
 Equinix West Africa. Named	3859
 Equinix and Airtel’s Nxtra	11338
@@ -463,6 +464,7 @@ Gates-backed Equity Initiative	1246
 Gender Equality	970,584,260,167,7,1595,7381,229,139,137
 Gender Equality Goal	11332
 Gender Equality Index	10829
+Gender Equality and Inclusivity	11791
 Gender Equality and Women’s Empowerment	11193
 Gender Equity	5244
 Gender Equity Gender	5244

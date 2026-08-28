@@ -21,6 +21,7 @@ AUDA-NEPAD Launches Island Economy Programme	7795
 AUDA-NEPAD Programme for African Developing Island Economies	7795
 AWS Economic Impact Study	1206
 Abdelkader AMARA Président du Conseil Economique	8891
+About ECA The United Nations Economic	11808
 Acacia Economics	2199
 Accelerate Digital Economy	5919
 Accelerating AfCFTA Implementation Economic	8015
@@ -56,6 +57,7 @@ Affairs The Department of Economic and Social Affairs	10840
 Africa Blue Economy Accelator Programme	11283
 Africa Blue Economy Accelator Programme Africa	11283
 Africa Blue Economy Accelator Programme for Youth	11283
+Africa Development Economics	11839
 Africa Economic Brief	10718
 Africa Economic Cooperation	10219
 Africa WAEMU West African Economic and Monetary	11545
@@ -285,7 +287,7 @@ Championing the Creator Economy	1363
 Championing the Creator Economy African	1363
 Changing Connectivity and Digital Economies	226
 Chief Economic Adviser	5072
-Chief Economist	7815,1210,2106,3,15
+Chief Economist	7815,1210,2106,3,15,690
 Chief Economist and Vice President	10718
 Chief Economist for Asia Pacific	8890
 Chief Economist of Development Bank Ghana	11032
@@ -331,7 +333,7 @@ Common Good Economy	5700
 Communauté Economique	2863
 Communauté Economique des Etats	37
 Communication and Technology and Digital Economy CS	1236
-Communications Section Economic Commission for Africa PO	8754,1962,1020
+Communications Section Economic Commission for Africa PO	8754,1962,1020,72,9
 Communications and Digital Economy	11553
 Communications and Digital Economy MNDC Mobile National	6946
 Communications and Digital Economy. INM-GB	11553
@@ -529,7 +531,7 @@ Digital Economy Task Force	468
 Digital Economy Task Force European Commission	468
 Digital Economy Taskforce	10819
 Digital Economy The Kenya AI	7548
-Digital Economy William Kabogo	9006
+Digital Economy William Kabogo	9006,2822
 Digital Economy William Kabogo Gitau	6790,3059
 Digital Economy Working Group	5044,1342
 Digital Economy Working Group. Although the DEWG	7242
@@ -741,7 +743,7 @@ Econ&title	771
 Econ3x3	6387
 Econe Development	4896
 Econect Wireless	2987
-Econet	36,2,2,2,183,81,102,345,212,72,1,834,153,742,117,4,128,242,892,148,62,168,368,642,206,83,20,153,11,239,746,550,58,927,1228
+Econet	36,2,2,2,183,81,102,345,212,72,1,834,153,742,117,4,128,242,892,148,62,168,368,642,206,83,20,153,11,239,746,550,58,927,1228,2084
 Econet AI	5827,20
 Econet AI. Now	5847
 Econet Board	4896
@@ -953,7 +955,7 @@ Economic Diversification	10759,76,2,1,130
 Economic Diversification Equality	10835,3,130
 Economic Diversification Initiative	2508
 Economic Efficiency	4430
-Economic Empowerment	1824,951
+Economic Empowerment	1824,951,9016
 Economic Empowerment BMA Border Management Authority	5533
 Economic Empowerment of Persons	4133
 Economic Empowerment of Poor and Vulnerable Households	10866
@@ -1433,7 +1435,7 @@ Human and Economic Impact of Digital Public	5700
 Hyperinflationary Economies	1154,1897
 ICT Principal Secretary for Digital Economy and Emerging	9333
 ICT Regulation Impact the Global Economy	3604
-ICT and Digital Economy	2666,1382,4334,187
+ICT and Digital Economy	2666,1382,4334,187,3259
 ICT and Digital Economy Budget Policy Statement	5108
 ICT and Digital Economy Cabinet Secretary William	6160
 ICT and Digital Economy John Kipchumba Tanui	9851
@@ -2238,7 +2240,7 @@ UEMOA Union Economique	12
 UK-Singapore Digital Economy Partnership	1243
 UN Department of Economic and Social Affairs	1912
 UN Economic Commission	562
-UN Economic Commission for Africa	289,150,522,395,2612,212,1122,948,359,58,191,79,60,175
+UN Economic Commission for Africa	289,150,522,395,2612,212,1122,948,359,58,191,79,60,175,4645,2
 UNCTAD Partnership On Digital Economy	1064
 UNDP Economic	11332
 UNDP's Strategic Economic Cluster	11546
@@ -2261,7 +2263,7 @@ United Nation Economic Commission for Africa	10819
 United Nations Department of Economic and Social Affairs	2510,8084,120,51,10,60,3,18,112,36
 United Nations Department of Economics and Social Affairs	11572
 United Nations Economic	1554,9286
-United Nations Economic Commission for Africa	26,1,1,930,596,260,1244,1299,1235,291,726,278,642,898,327,408,32,1154,67,305,99,731,22,93,71
+United Nations Economic Commission for Africa	26,1,1,930,596,260,1244,1299,1235,291,726,278,642,898,327,408,32,1154,67,305,99,731,22,93,71,72,8
 United Nations Economic Commission for Africa Conference	8472
 United Nations Economic Commission for Africa RES4Africa	941
 United Nations Economic Commission for Asia	11572
@@ -2307,7 +2309,7 @@ West Africa Economic and Monetary Union	5395,5,6159
 West Africa. The Economic Community of West	5351
 West African Economic	10856
 West African Economic Monetary Union	138
-West African Economic and Monetary Union	7,19,1,1,90,1146,1511,1620,2076,467,134,559,165,75,211,1590,275,128,128,638,4,679,1,11,14,36
+West African Economic and Monetary Union	7,19,1,1,90,1146,1511,1620,2076,467,134,559,165,75,211,1590,275,128,128,638,4,679,1,11,14,36,235
 West African Economic and Monetary Union Interopera	1502
 West African Economic and Monetary Union Interoperable	1502
 West African Economic and Monetary Union. Agritech	10939
@@ -2370,7 +2372,7 @@ Zimbabwe Record Date for Econet Shareholders	4896
 Zimbabwe Tatenda A. Ngowe Econet Wireless	4896
 Zimbabwe. Econet EGM	4896
 Zimbabwe. Public and Economic	970
-Zimbabwe’s Econet Wireless	40
+Zimbabwe’s Econet Wireless	40,11803
 Zimbabwe’s Ministry of Finance and Economic Development	362
 Zona Económica	5568
 Zona Económica Especial	1265,436

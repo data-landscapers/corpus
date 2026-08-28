@@ -345,6 +345,7 @@ Commonwealth and Development Office FM Financial Management	10768
 Communication World Geodetic System Management	1009
 Communication and Management	4127
 Communications Manager	5116
+Communications and Events Manager	11809
 Community Health Management System	4217
 Competition Management	6946
 Competition Management Tel	6671
@@ -833,7 +834,7 @@ Gambia's National Identity Management System	6941
 Game Management Areas	1988
 Gautrain Management Agency	11248
 Gavi’s Grant Management Requirement	11401
-General Manager	1742,2063,1444,560,128,669,933,2751,127,42,341,156,31,142,500
+General Manager	1742,2063,1444,560,128,669,933,2751,127,42,341,156,31,142,500,219
 General Manager Africa	11162
 General Manager Sales and Services Lebohang Ramaisa	3258
 General Manager and Secretariat	3513
@@ -880,6 +881,7 @@ Group Managing Director	2552,2344
 Group Managing Director and CEO of Equity Group	8654
 Group Managing Director and Chief Executive Officer	7371
 Group Managing Director and Chief Executive of Zenith	11357
+Group Managing Director of Human Resources	11809
 Group Managing Partner	1652
 Guinean Backbone Management Society	3089
 Gulu Regional Manager Eng. George Kyalikunda	9781
@@ -1255,6 +1257,7 @@ MANAGING AND PROMOTING QUALITY STATISTICS Economic	2775
 MEA Managing Director Santhosh Rao	9359
 MEA01 Managed of RPA	9237
 MEA03 Managed	9237
+MFA. Manage HSMs	11805
 MILLION FROM THE ENERGY SECTOR MANAGEMENT	11549
 MINEPIA Management Information System Ministère	10964
 MINFIN’s Debt Management Unit	10779
@@ -1287,14 +1290,17 @@ Manag	10881
 Manag Rev Q	9739
 Managa	10812
 Managawendé Safiata BOUDA	7670,651
-Manage	194,201,563,51,592,387,1803,737,585,1310,9,400,114,602,2221,1248,139,53,43,37
+Manage	194,201,563,51,592,387,1803,737,585,1310,9,400,114,602,2221,1248,139,53,43,37,516
+Manage CI	11804
 Manage Climate Risks and Bolster Resilience	10420
 Manage Crisis	1000
 Manage Crisis and Prevent Damage and Losses	1000
 Manage People	34
 Manage Security Terms In The Cloud	34
 Manage Tax Type Transfer Facebook X	11276
+Manage the AWS	11803
 Manage the Health of Populations	5700
+Manage the Mojaloop	11803
 ManageEngine	7371
 ManageEngine ManageEngine ServiceDesk Plus	10617
 Manageable	7451
@@ -1495,6 +1501,7 @@ Managing Director of Afrimoney Sierra Leone	2395
 Managing Director of Airtel Malawi	9820
 Managing Director of Airtel Money Kenya	8623
 Managing Director of Airtel Zambia	9082
+Managing Director of Bayobab Nigeria	11815
 Managing Director of Belitra Enterprises Limited	6946
 Managing Director of BnB Sierra Leone	9920
 Managing Director of CAMTEL	4712
@@ -1811,6 +1818,7 @@ Procurement Risk Assessment and Management System REDISSE	11560
 Procurement and Financial Management	1284
 Product GMAs Game Management Areas GRZ	1988
 Product Manager	10193,222
+Product and Growth Manager	11803
 Production Management	2093
 Program Management	4153
 Program Management and Capacity Building	6539
@@ -2032,6 +2040,7 @@ Satellite Managed of Data Service	10407
 Satellite Project Management Unit	1867
 Satellite Service Providers and Managed Service Providers	5245
 Satu Kristiina Jyrintytar Kahkonen Practice Manager	6539
+Secrets Manager. Own	11804
 Sector Education and Training Management Information System	11303
 Sector Management Assistance Program ESMF Environmental	11380
 Secure Operation Managing	9123

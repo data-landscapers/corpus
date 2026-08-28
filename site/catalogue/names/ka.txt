@@ -184,6 +184,7 @@ COCOTECH Sacco Data Controller INST-881321E2416 KAJIADO	7167
 CONSOLATA KABACHIA MEDICAL CENTRE Data Controller	7167
 COUNTY ASSEMBLY OF KAKAMEGA Data Controller	7167
 CS Kabogo	5944,216
+CS Kabogo Unveils AI Platform	11828
 CU de Kaya	3396
 Cabinet Dr. Oliver Kalabo	7432
 Cabinet Patrick Kangwa	7223
@@ -306,7 +307,7 @@ Dieu Béni Anderson Kabou	9279
 Dieudonné Kamuleta	8345
 Digital Economy Cabinet Secretary William Kabogo	9333
 Digital Economy H.E. Hon. William Kabogo	7548
-Digital Economy William Kabogo	9006
+Digital Economy William Kabogo	9006,2822
 Digital Economy William Kabogo Gitau	6790,3059
 Digital Kazakhstan	11529
 Digitalisation of Government Services Kangemi Boda Boda	6946
@@ -613,7 +614,7 @@ Jean Sansan Kambile	2349
 Jean Sansan Kambilé	2332,3513,22,1037
 Jean-Claude KABORE Ali KABORE Dramane CESSOUMA	10875
 Jean-Claude Kassi BROU	10836
-Jean-Claude Kassi Brou	3259,425,35,2679,1197
+Jean-Claude Kassi Brou	3259,425,35,2679,1197,4204
 Jean-Claude Kassi Brou. Pour	3684
 Jean-Jacques Kayembe	8524
 Jemima Kariuki-Njuguna	6865
@@ -747,9 +748,10 @@ Kabiru and Amendah	9969
 Kabisa	9689
 Kabla	5090,2160
 Kabo Phetlhu	10414
-Kabogo	6160,1321,733,356,436,327,1472
+Kabogo	6160,1321,733,356,436,327,1472,1023
 Kabogo Gitau and Rwanda Minister of ICT and Innovation	4030
 Kabogo. The CS	8214
+Kabogo.AI	11828
 Kabonero	11075
 Kabore Junction Bakado	2776
 Kaboré	10812
@@ -829,6 +831,7 @@ Kagina	4941
 Kagiso Peace Seakamela	8604
 Kagniendia Cheick Oumar TRAORE	7670
 Kagombe	9940
+Kagwe	11836
 Kahama	10592
 Kahawatungu	7549
 Kahda	5225
@@ -1155,6 +1158,7 @@ Kanupula	10502
 Kanuri	11163
 Kanvoli Stanislas	3449,2506
 Kanwar	1243
+Kanwulia Okafor	11815
 Kanyama MP Monty Chinkuli	3182
 Kanyanga	6391
 Kanyange Village. In Rwezamenyo Sector	4941
@@ -1337,7 +1341,7 @@ Kashifu	10681
 Kashifu Abdullahi	4621,5952
 Kashifu Abudullahi	10681
 Kashifu Inuwa	3133,4615,676,693,456,2,1,95,1281,89,565,145
-Kashifu Inuwa Abdullahi	2680,374,690,2314,631,1735,15,547,131,1,839,467,142,114,446,178
+Kashifu Inuwa Abdullahi	2680,374,690,2314,631,1735,15,547,131,1,839,467,142,114,446,178,528
 Kashifu Inuwa Abdullahi CCIE Director-General	5665
 Kashifu Inuwa By Justice Okamgba Kindly	9753
 Kashifu Inuwa CCIE	4725
@@ -1753,11 +1757,13 @@ Minister Kairuki	9011,1366
 Minister Kalil Konaté	3261,308
 Minister Kamuntu Pledges Government Support	9386
 Minister Nialé Kaba. Konaté	4096
+Minister for Kampala Capital City and Metropolitan Affairs	11848
 Minister of Defence Dr. Feston Kaupa	6813
 Minister of Interior Kamel Feki	1688
 Ministre Kalil KONATE	1598
 Ministre Kalil Konaté	2931
 Ministre Kanka-Malik NATCHABA	2966
+Minsa Kabanda	11848
 Miriam Kadiri	10571
 Mithetho Kazwelonke Yezokuthutha Ezihamba Phansi	11573
 Mithetho Yesibili Kazwelonke Yezokuthutha Ezihamba Phansi	11573
@@ -1805,6 +1811,7 @@ Mr. Kezias Kazuba Mwale of Zambia	9756
 Mr. Maxime Sansan Kambou	6938
 Mr. Salum Kassim the Chief Government Statistician	11133
 Mr. Stephen Kasaija	3005
+Mr. Stephen Kauma	11809
 Ms Angellah Kairuki	4714,2714,2261
 Ms Kabura	10462
 Ms Kadiri	10571
@@ -1825,6 +1832,7 @@ Mulilo Dimas Kabesha	9082
 Municipality of Kajiado	6946
 Musa Kamara	8820,1123
 Mustafa Kamal	10764
+Mutahi Kagwe	11836
 Mwajuma. Katika	4099
 Mwenya Kaela Bwalya	9082
 Myriam Micheline Kagorou YAGO	8321
@@ -2004,6 +2012,7 @@ Roundtable Conversation Richard Kafui Amanfu	6936
 Rt. Hon. Justine Kasule Lumumba	7389,2392
 Rt. Hon. Justine Kasule Lumumba Hon	9781
 Rt. Hon. Justine Kasule Lumumba and Hon	9781
+Rt. Hon. Rebecca Alitwala Kadaga	11806
 Ruto Kalonzo Matiang'i Sifuna Gachagua Babu	7869
 Ruto and Kalonzo	7869
 Rwanda President Paul Kagame	5418

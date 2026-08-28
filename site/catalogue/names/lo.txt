@@ -1099,6 +1099,7 @@ Local Ownership Rule for Telcos	3003,962,1438,1506
 Local Partners and Government of Mozambique	4260
 Local Prazos	11456
 Local Privado	549
+Local Regulatory Practice	11819
 Local Representation Requirement All GCSPs	6432
 Local Representative	573
 Local Response	6947
@@ -1160,6 +1161,7 @@ Localização Administrativa	11384
 Localização Celular	549
 Localização Geográfica	11384
 Localização de Sinal Celular	549
+Localized Future Decision and Voluntary Adoption	11797
 Localized Identify	1988
 Localized Peaks	6051
 Localizing	5145,2326,4276
@@ -1656,7 +1658,7 @@ Low Density	9437
 Low EAF and High Demand Sensitivities	11228
 Low EPI	11569
 Low Earth	4442
-Low Earth Orbit	1812,132,31,938,63,628,92,655,91,234,405,260,37,961,66,264,39,25,131,82,361,360
+Low Earth Orbit	1812,132,31,938,63,628,92,655,91,234,405,260,37,961,66,264,39,25,131,82,361,360,4164
 Low High	10775
 Low HighModerate	418
 Low Income	10714

@@ -47,6 +47,7 @@ Application Service Providers	6946
 Application Service Providers ATCOs Air Traffic	2775
 Approved Government Cloud Service Providers	6432
 Approved Provider Requirement	6432
+ArgoCD GitOps. Provision	11804
 Assess The Security Provisions For Cloud	34
 Association of Private Providers of Education	6832
 Attributaires Provisoires	3321
@@ -391,7 +392,7 @@ GRM Committees Provision	1778
 GSM FSP Providers	10819
 GSM Provi- Social Inclusion	10819
 GSM Providers	10819
-Gabinete Provincial	11485
+Gabinete Provincial	11485,352
 Gabinete Provincial da Saúde	11458
 Gabinete Provincial da Saúde. ARTIGO	11445
 Gabinete Provincial de Saúde de Luanda	10784
@@ -1118,6 +1119,7 @@ Sistema Biométrico de Prova de Vida	2816
 Sofala and Maputo Provincia	1526
 Software of Unknown Provenance	3651
 Somalia’s Provisional Constitution	3615
+South Africa's Internet Service Providers' Association	11823
 South Africa. Proven	11252
 South African Crypto Asset Service Provider	8840
 South African Internet Service Provider	10811
@@ -1203,7 +1205,7 @@ VSAT Service Provider	10407
 Vipnet Connectivity Provider	10956
 Virtual Asset Service Provider	9311,223,220,121
 Virtual Asset Service Provider Association	9956
-Virtual Asset Service Providers	3289,581,732,303,226,2210,493,346,410,113,120,3,404,1901
+Virtual Asset Service Providers	3289,581,732,303,226,2210,493,346,410,113,120,3,404,1901,690
 Virtual Asset Service Providers Act	3793,1115,2699,227,863,6,608,223,2165
 Virtual Asset Service Providers Regulations	7607
 Virtual Asset Service Providers Regulations. Select	10738

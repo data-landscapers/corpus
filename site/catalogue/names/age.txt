@@ -96,7 +96,7 @@ African Risk Capacity Agency	10819
 African Space Agency	2125,4503,1647,829
 African Union Agenda	961,853,6191,3188
 African Union Agenda2063	5246
-African Union Development Agency	1243,571,1544,509,11,3070,847
+African Union Development Agency	1243,571,1544,509,11,3070,847,4020
 African Union Development Agency-New Partnership for Africa	5804
 African Union Development Agency. AI	6948
 African Union's Agenda	5246,203,1489,198,457,903
@@ -132,7 +132,7 @@ Age-related	11156
 Age-verification	9328
 Ageing	2096
 Ageing Society	2096
-Agence	324,112,207,4,88,2,28,93,129,202,58,44,290,10,58,31,10,284,87,17,276,22,11,16,26,47,38,50,91,42,35,83,96,165,7,16,1,4,2,19,48,75,50,40,24,19,71,34,40,64,1,126,2,88,5,44,10,30,147,82,10,3,32,99,98,7,28,205,64,5,41,12,4,41,38,26,36,83,3,36,25,3,39,16,24,157,78,74,104,36,52,90,34,40,58,51,5,42,3,28,78,57,67,100,180,27,50,60,17,79,52,39,44,12,23,13,29,87,7,1,129,108,60,58,14,9,38,31,107,23,16,12,17,41,1,19,10,62,36,20,11,59,8,23,12,24,12,3,34,8,9,2,68,3,8,24,2,41,13,24,12,31,18,32,33,16,3,15,24,60,24,54,27,92,3,14,9,35,15,2,26,40,1,46,14,31,2,22,8,1,5,10,158,27,45,43,4,53,109,38,6,34,91,1,71,50,25,59,65,32,24,31,49,6,6,86,30,17,26,87,8,105,102,89,7,1,33,13,16,17,28,49,37,12,20,102,4,3,1,1,5,16,15,16,1,1,45,3,42,9,35,139,2,453,48,9,47,17
+Agence	324,112,207,4,88,2,28,93,129,202,58,44,290,10,58,31,10,284,87,17,276,22,11,16,26,47,38,50,91,42,35,83,96,165,7,16,1,4,2,19,48,75,50,40,24,19,71,34,40,64,1,126,2,88,5,44,10,30,147,82,10,3,32,99,98,7,28,205,64,5,41,12,4,41,38,26,36,83,3,36,25,3,39,16,24,157,78,74,104,36,52,90,34,40,58,51,5,42,3,28,78,57,67,100,180,27,50,60,17,79,52,39,44,12,23,13,29,87,7,1,129,108,60,58,14,9,38,31,107,23,16,12,17,41,1,19,10,62,36,20,11,59,8,23,12,24,12,3,34,8,9,2,68,3,8,24,2,41,13,24,12,31,18,32,33,16,3,15,24,60,24,54,27,92,3,14,9,35,15,2,26,40,1,46,14,31,2,22,8,1,5,10,158,27,45,43,4,53,109,38,6,34,91,1,71,50,25,59,65,32,24,31,49,6,6,86,30,17,26,87,8,105,102,89,7,1,33,13,16,17,28,49,37,12,20,102,4,3,1,1,5,16,15,16,1,1,45,3,42,9,35,139,2,453,48,9,47,17,93,17
 Agence Afrique	4127
 Agence Article	735
 Agence Au	10975
@@ -145,7 +145,7 @@ Agence Centrale	969
 Agence Coréenne de Coopération Internationale	10524
 Agence Djiboutienne de Développement Social	4402
 Agence Djiboutienne des Routes	4402
-Agence Ecofin	1690,580,423,37,532,115,370,479,1208,1,331,125,171,271,26,738,30,59,235,508,826,702,166,468,84,51,258,127,789,92,234
+Agence Ecofin	1690,580,423,37,532,115,370,479,1208,1,331,125,171,271,26,738,30,59,235,508,826,702,166,468,84,51,258,127,789,92,234,69
 Agence Ecofin Oct	1440
 Agence Ecofin. Cette	3361
 Agence Emploi Jeunes	10942,1
@@ -286,7 +286,7 @@ Agency Ministry of Finance STAKEHOLDERS Civil	1161
 Agency OMG Object Management Group TOGAF	11184
 Agency Objective	1000
 Agency Order	1131,5672
-Agency Problem	9914,1,77
+Agency Problem	9914,1,77,1820
 Agency Promote	1161
 Agency Proposed National Digital Development Council	1161
 Agency SARAO South African Radio Astronomy	5246
@@ -569,7 +569,7 @@ DatacenterDynamics and Ecofin Agency	778
 Dedicated Children's Agency Data Controller INST-84490224289	7167
 Dedicated Children's Agency Data Processor INST-84490224289	7167
 Department and Agencies	3907
-Departments and Agencies	789,169,1569,248,2253,907,497,76,636,225,379,120,253,246,54,19,192,348,1,235,514,224,98,11,94,1,155,290,78,1076,18
+Departments and Agencies	789,169,1569,248,2253,907,497,76,636,225,379,120,253,246,54,19,192,348,1,235,514,224,98,11,94,1,155,290,78,1076,18,16
 Departments and Agencies CIRCIA Cyber Incident Reporting	6936
 Departments and Agencies Independent	7548
 Departments and Agencies M&E Monitoring and Evaluation MFD	1264
@@ -747,6 +747,7 @@ Global Cybersecurity Agenda	10764
 Global Health Security Agenda	11376
 Global South Agenda	6386
 Golden Age of Strategic PR	7253
+Government Advertising Agency	11789
 Government Agencies	18,744,399,1837,2247,2344,2691
 Government Agencies France Launch Africa Ventures	4972
 Government Agencies R1	11138
@@ -864,7 +865,7 @@ JICA Japan International Cooperation Agency MASFAMU	11380
 JOJ. Agenda du Président	8269
 JSON CSV JSON CSV Séances Agenda	9480
 Japan Aerospace Exploration Agency	11291
-Japan Credit Rating Agency	7785
+Japan Credit Rating Agency	7785,4024
 Japan International Cooperation Agency	207,691,232,399,688,1,408,99,329,414,1032,1837,1315,1251,1865,8,155,538
 Japan International Cooperation Agency LNME	10776
 Japan International Cooperation Agency TA Networking	10780
@@ -1035,7 +1036,7 @@ National Identification Agency	1880,1163,200,172,22,598,32,874,1,457,140,57,360,
 National Information Systems Development Agency	6130
 National Information Systems Security Agency	3228
 National Information Technology Agency	587,202,1888,552,21,134,418,324,1809,121,221,70,59,966,1,1615,1397,200,237,39
-National Information Technology Development Agency	2218,176,68,218,45,208,1,120,79,489,122,198,641,38,69,35,940,60,333,478,153,308,113,451,69,116,2,675,1,15,547,131,1,245,210,2,96,82,127,77,1,57,142,113,40,117,146,107,1,271,1,88,85,178,34,268
+National Information Technology Development Agency	2218,176,68,218,45,208,1,120,79,489,122,198,641,38,69,35,940,60,333,478,153,308,113,451,69,116,2,675,1,15,547,131,1,245,210,2,96,82,127,77,1,57,142,113,40,117,146,107,1,271,1,88,85,178,34,268,226
 National Information Technology Development Agency Act	10157
 National Information Technology Development Agency Nigeria	8764
 National Information Technology Development Agency. Nigeria	4621
@@ -1149,7 +1150,7 @@ Regulatory Agencies Key	7548
 Regulatory Agencies and County Focal Points Sector	7548
 Regulatory Agency	718,251,2682,45,105
 Regulatory Agency for Post and Electronic Communications	3805
-Regulatory Agency for Posts and Electronic Communications	2306
+Regulatory Agency for Posts and Electronic Communications	2306,9541
 Regulatory Postal and Electronic Communications Agency	4577
 Renewed Hope Agenda	2394,142,2189,1651,1275,233,1089,2495
 Renewed Hope Agenda Deji Elumoye	11126
@@ -1221,6 +1222,7 @@ Sector Agencies	7548
 Securitization Agenda	2117
 Security Agency	5307,1629,4341
 Security Agency Press Statement	9067
+Security Oversight Agency	11806
 Senegal Korea International Cooperation Agency	86,612
 Senegalese Agency for Digital Development	4912
 Senegalese Press Agency	5985
@@ -1257,7 +1259,7 @@ State Departments and Agencies	9239
 State IT Agency	10129,1041
 State IT Agency and Eskom	5968
 State Information Agency General Regulations	11184
-State Information Technology Agency	1912,181,659,2456,115,1735,13,25,418,504,3,1655,83,343,1082,12,34,11,7
+State Information Technology Agency	1912,181,659,2456,115,1735,13,25,418,504,3,1655,83,343,1082,12,34,11,7,597
 State Information Technology Agency Act	1009,10175
 State Information Technology Agency Bids	7514
 State Information Technology Agency General Regulation	11184

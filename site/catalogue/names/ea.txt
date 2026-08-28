@@ -34,7 +34,7 @@ AVIPRO EAST AFRICA LIMITED Data Controller	7167
 AWS Local Zone Orange Middle East	1729
 AXIOM MOTORS EAST AFRICA LIMITED Data	7167
 AXMED EAST AFRICA LIMITED Data Controller	7167
-About the East African Community	7967
+About the East African Community	7967,3839,1
 Above Kavango East	1944
 Absent the Middle East	7655
 Abuso Sexual EAS	11413
@@ -58,7 +58,7 @@ Africa. Eastcastle	597
 African Community EASSy Eastern Africa Submarine	6671
 African and Middle Eastern	7295,2090,1198
 Agence Nationale des Eaux	8891
-Aileen Mallya Communications Expert Eastern African	7967
+Aileen Mallya Communications Expert Eastern African	7967,3840
 Algérienne des Eaux	10021
 Alsat-3B Earth	4880
 America East and Asia Saharan	10977
@@ -176,6 +176,7 @@ Congo Brazzaville and Ghana. EAIF	516
 Connect East and Southern Africa	3523
 Connectivity for Early	2989
 Continental Early Warning System	5825
+Corporate Communications and Public Affairs Department EAC	11806
 Country Profiles For Early Childhood Development	10768
 Crowned Eagle Safaris Limited Data Controller	7167
 Current EAC	7548
@@ -255,7 +256,7 @@ EAC Common Market	8546
 EAC Common Market Protocol	961
 EAC Competition Act	961
 EAC Cross-Border Payment System Master Plan	7192
-EAC Cross-Border Payment System Masterplan	7178,637,152,559,1734
+EAC Cross-Border Payment System Masterplan	7178,637,152,559,1734,1547
 EAC Cross-Border Payment System Masterplan. Under	7178
 EAC Customs Union	961
 EAC DPI Acceleration Mechanism	8546
@@ -272,6 +273,7 @@ EAC Gazette Notice No	7548
 EAC Headquarters	8546,1161
 EAC Heads of State	3738
 EAC Heads of State Summit	3738
+EAC Inaugurates Three Technical Working Groups	11807
 EAC Large-value	6938
 EAC Legal Framework for Cyberlaws	1243
 EAC MAC	7967
@@ -280,8 +282,9 @@ EAC Monetary Affairs Committee	7967
 EAC National Statistics Offices	8527
 EAC One Network Area	6928
 EAC Partner Baseline	7548
+EAC Partner State	11807
 EAC Partner State Central Banks	7815
-EAC Partner States	1243,5599,350,623,152,1740
+EAC Partner States	1243,5599,350,623,152,1740,2100
 EAC Partner States C3- Kenya	7548
 EAC Region	7815
 EAC Regional AI Strategy	6792
@@ -290,12 +293,14 @@ EAC Regional Framework for Trusted Cross Border	8426
 EAC Regional STI Conference	5601
 EAC Regional Science	5601
 EAC SDMX	8527
-EAC Secretariat	3238,500,941,2499,370,2159,553
-EAC Secretariat Arusha	7967
+EAC Secretariat	3238,500,941,2499,370,2159,553,1547
+EAC Secretariat Arusha	7967,3840
 EAC Secretariat and Bank of Uganda	10186
+EAC Secretariat and Partner States	11807
 EAC Secretariat. Present	7815
 EAC Secretariat. The Committee	7967
 EAC Secretary General	9707
+EAC Senior Statistician	11807
 EAC Total Others	6671
 EAC Trade	7548
 EAC Trade and Customs	7548
@@ -378,7 +383,7 @@ EAPC Kiugu CDC Data Controller INST-3452558042F	7167
 EAPC MUKOTHIMA CDC Data Controller INST-384734B711F	7167
 EAPC NTHIGIRANI CDC Data Controller INST-73508091389	7167
 EAP’s	11149
-EARDIP	1264,1974,132,2726,832,229,35,5,31,728,11,3348
+EARDIP	1264,1974,132,2726,832,229,35,5,31,728,11,3348,492
 EARDIP Le Projet	7956
 EARDIP Project	3238
 EARDIP SOP-II	1264
@@ -482,7 +487,7 @@ Eagle Wings Organization Data Controller INST-167019967DF	7167
 Eagles	1245
 Earl Road	4896
 Earlbeam Plaza	3386
-Earlier	10,187,29,1300,116,53,130,18,44,16,170,211,241,148,2,124,275,190,68,10,166,180,62,9,343,30,5,34,30,26,202,643,428,80,16,1,168,41,326,64,94,55,32,261,25,9,236,42,366,55,54,29,59,56,63,11,8,57,82,57,33,327,38,16,27,13,123,75,87,23,50,121,92,101,9,135,167,74,178,39,1,185,247,97,289,179,102,451,10,472,169
+Earlier	10,187,29,1300,116,53,130,18,44,16,170,211,241,148,2,124,275,190,68,10,166,180,62,9,343,30,5,34,30,26,202,643,428,80,16,1,168,41,326,64,94,55,32,261,25,9,236,42,366,55,54,29,59,56,63,11,8,57,82,57,33,327,38,16,27,13,123,75,87,23,50,121,92,101,9,135,167,74,178,39,1,185,247,97,289,179,102,451,10,472,169,24
 Earlier Giga Kenya	1164
 Earlier MIS	1371
 Earliest	2432,108,500,898,716
@@ -577,7 +582,7 @@ Easier	2319,8445
 Easier Said Than Done	5366
 Easler	1885
 Eassy	3559
-East Africa	107,71,196,136,203,73,44,12,45,48,141,47,122,19,263,193,1,1,56,46,4,29,131,287,73,328,1,2,95,24,16,36,107,29,201,6,107,122,94,7,53,7,42,102,11,7,29,14,71,80,15,198,287,116,8,49,140,43,11,42,70,17,23,1,13,16,26,19,40,51,100,23,125,46,67,36,80,26,1,1,61,16,59,257,19,5,15,35,17,37,81,27,8,52,20,65,23,80,97,88,25,1,56,16,1,52,8,87,1,8,15,21,27,3,22,106,11,4,45,8,198,34,20,47,18,23,25,46,18,179,18,33,54,11,33,2,34,32,78,40,50,5,320,2,18,4,94,133,5,44,46,102,42,10,59,61,3,116,46,176,4,102,86,28,74,14,10,132,127,11,118,16,3,24,25,127,10,53,13,61,107,3,27,1,34,21,13,3,57,5,26,155,125,17,47,141,93,172,205,6
+East Africa	107,71,196,136,203,73,44,12,45,48,141,47,122,19,263,193,1,1,56,46,4,29,131,287,73,328,1,2,95,24,16,36,107,29,201,6,107,122,94,7,53,7,42,102,11,7,29,14,71,80,15,198,287,116,8,49,140,43,11,42,70,17,23,1,13,16,26,19,40,51,100,23,125,46,67,36,80,26,1,1,61,16,59,257,19,5,15,35,17,37,81,27,8,52,20,65,23,80,97,88,25,1,56,16,1,52,8,87,1,8,15,21,27,3,22,106,11,4,45,8,198,34,20,47,18,23,25,46,18,179,18,33,54,11,33,2,34,32,78,40,50,5,320,2,18,4,94,133,5,44,46,102,42,10,59,61,3,116,46,176,4,102,86,28,74,14,10,132,127,11,118,16,3,24,25,127,10,53,13,61,107,3,27,1,34,21,13,3,57,5,26,155,125,17,47,141,93,172,205,6,23,1
 East Africa BMZ	178
 East Africa Banking Industry Outlook	5883
 East Africa Breweries PLC Data Controller	7167
@@ -650,7 +655,8 @@ East African Carbon and Biodiverity Ltd Data	7167
 East African Com-	2775
 East African Communications	6946
 East African Communications Organisation	8245,1536
-East African Community	26,1,1,292,172,124,211,72,317,27,2,39,822,36,154,87,278,114,463,345,153,14,204,15,575,135,366,327,229,282,210,3,375,179,192,86,10,167,50,23,329,41,267,1,114,2,35,57,50,352,23,77,1,19,243,273,91,112,367,75,98,1,249,20,111,1,73,57,134,25,343,3,314,13,61,207
+East African Community	26,1,1,292,172,124,211,72,317,27,2,39,822,36,154,87,278,114,463,345,153,14,204,15,575,135,366,327,229,282,210,3,375,179,192,86,10,167,50,23,329,41,267,1,114,2,35,57,50,352,23,77,1,19,243,273,91,112,367,75,98,1,249,20,111,1,73,57,134,25,343,3,314,13,61,207,389,1
+East African Community Civil Aviation Safety	11806
 East African Community Common External Tariff	6921
 East African Community Common Market Protocol	7506
 East African Community Competition Authority	4583
@@ -851,7 +857,7 @@ Eastern and Middle Africa	10714
 Eastern and South-eastern Asia. Energy	11572
 Eastern and South1-8eastern Asia	11572
 Eastern and Southern	2117
-Eastern and Southern Africa	351,166,2,162,535,551,147,340,37,100,288,33,892,761,173,288,1713,389,333,704,125,204,41,660,187,2218,17,173
+Eastern and Southern Africa	351,166,2,162,535,551,147,340,37,100,288,33,892,761,173,288,1713,389,333,704,125,204,41,660,187,2218,17,173,249
 Eastern and Southern Africa Anti-Money Laundering Group	5034,96,1
 Eastern and Southern Africa Economic Partnership Agreement	970
 Eastern and Southern Africa IEG Independent Evaluation	6539
@@ -940,6 +946,7 @@ Famines Early Warning Systems Network	10763
 Far East Asia	523
 Financial Management Ingrid Cesarine Meka EAEG2	1284
 Financial Management Public Perception of Easiness	10759,78
+First Deputy Prime Minister and Minister of East	11806
 First for East Africa	3193
 Five East African	10476
 Floor Earthworks Civils Complete Foundation	11134
@@ -1053,7 +1060,7 @@ Limpopo and Eastern Cape	11192
 Liquid Intelligent Technologies EAAIF	9061
 Low EAF and High Demand Sensitivities	11228
 Low Earth	4442
-Low Earth Orbit	1812,132,31,938,63,628,92,655,91,234,405,260,37,961,66,264,39,25,131,82,361,360
+Low Earth Orbit	1812,132,31,938,63,628,92,655,91,234,405,260,37,961,66,264,39,25,131,82,361,360,4164
 Lower Eastern	7869
 Lower Eastern Mt Kenya Nairobi Northern	7869
 Lower Eastern Mt Kenya Western	7869
@@ -1077,6 +1084,7 @@ Markup Language EA Electronic Medical Record	1009
 Maseru East	5744
 Mashonaland East	1154
 Mashonaland East Province	10623
+Masterplan East African Community Headquarters	11807
 May’23 Aug’24 Oct’25 Southern Africa East	5247
 Mazowe Earth Stations	9455
 Mbabane East MP Welcome Dlamini	7264
@@ -1186,6 +1194,7 @@ Orange Middle East and Africa CEO Jérôme	1729
 Owner Degrees Minutes Seconds East	736
 PANORAMA SECTORIEL EAU ET ASSAINISSEMENT UNE	2342
 PAYE Pay As You Earn	8590
+PM EAT	11839
 Paratus Group's East African	4958
 Paratus Group's East-West Southern Africa	11320
 Parow East	8999
@@ -1303,6 +1312,7 @@ Sub-Saharan Africa and South East Asia	10846
 Sub-Saharan Africa. of EAP	11149
 Subscriptions Internet Penetration EAC Active Mobile	6946
 Subsriptions EAC Internet Penetration	6946
+Summit of EAC Heads of State	11806
 Supporting the EAC Cross-Border Payment Systems Master	8546
 Sustain Early Deployment of Election Officials and Materials	10049
 TH ORDINARY MEETING OF THE EAST	7815
@@ -1338,7 +1348,7 @@ Uganda EAC Axis Title Active Mobile	6946
 Under EARDIP	1704
 United Nations' Early Warnings for All	9238
 United Nations’ Early Warnings for All EW4A	11283
-United Republic of Tanzania. The EAC	7967
+United Republic of Tanzania. The EAC	7967,3839,1
 University of East Anglia	11131,3
 University of Eastern Africa	6946
 Unlike EAP	11149

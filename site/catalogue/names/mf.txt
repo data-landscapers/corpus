@@ -77,6 +77,7 @@ MF M F Outros MF M	10766
 MF M F Pessoal	10766
 MF MP NAIs ODINE PAN	10766
 MFA and Conditional Access	10617
+MFA. Manage HSMs	11805
 MFAEAC	10592
 MFB Ministry of Finance and Budget	969
 MFB Transactions Account	3604

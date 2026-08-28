@@ -16,6 +16,7 @@ ADVOCACY AND PUBLIC AWARENESS	1000
 AFP Public-private	2702
 AFRINIC Governance Committee Published	10079
 AFRINIC Members and Stakeholders Survey Published	10225
+AFRINIC-37 Public Policy Meeting	11797
 AI Chatbot for Public Services	5464
 AI Publican	7740
 AI Skills and Public Trust	8653
@@ -342,6 +343,8 @@ Convergence and Evaluation of Public Policies	5772,1152
 Coordinating and Advisory Public	6832
 Core Pillars of Public Governance Reform	7063
 Core Pillars of Public Governance Reform Senegal	7063
+Corporate Communications and Public Affairs Department EAC	11806
+Corporate Communications and Public Affairs Department Tel	11807
 Corporation of Kenya PFM Public Finance Management	6946
 Corporation of South Africa PFMA Public Finance	11261
 Corrupt Activities Act PSCBC Public Service	11197
@@ -537,7 +540,7 @@ Director Press and Public Relations	8087
 Director Press and Public Relations Office	7973
 Director of Digital Transformation of Public Administration	6374
 Director of Information and Public Education	2113
-Director of Public Prosecutions	783,1944,48,939,3995,1479,1375,901,211
+Director of Public Prosecutions	783,1944,48,939,3995,1479,1375,901,211,158
 Director of Public Prosecutions Chambers	11131,3
 Director of Public Prosecutions. Representatives	6787
 Director of Public Sector Digital Transformation	7499
@@ -1159,7 +1162,7 @@ Missing Publics	11006
 Model LLM Exchange for Telcos Public	5226
 Model PURA Public Utility and Regulatory Authority	1000
 Moderate Public Disclosure Authorized	10870
-Modernization of Public Administration	1709,5451
+Modernization of Public Administration	1709,5451,4630
 Modernization of Public Financial Management	1284
 Modernization of Public Financial Management Page	1284
 Modernization of Public Financial Management World Bank	1578
@@ -1617,7 +1620,7 @@ PubMed Web of Science	11028
 PubMed and Scopus	766
 Pubica	11523,39
 Publi-Reportage	2608
-Public	7,14,374,23,127,37,136,18,30,1,22,110,62,8,1,28,2,60,101,26,56,18,3,19,1,313,33,51,3,2,18,73,1,36,14,57,103,105,3,211,205,102,63,98,41,73,54,82,33,13,144,49,192,36,91,12,105,14,77,18,50,2,81,184,1,55,19,6,42,279,162,63,20,66,1,20,1,111,211,6,55,3,35,58,129,16,32,16,2,15,47,21,47,1,11,23,31,54,128,88,348,37,10,36,31,76,49,5,10,145,38,46,104,10,2,5,47,41,14,96,29,2,9,13,17,1,91,7,38,98,92,58,3,1,47,74,291,194,50,9,2,69,8,86,34,11,12,77,29,25,55,81,100,51,26,14,23,9,80,44,8,4,5,41,122,138,8,48,21,25,68,17,120,23,43,29,24,58,2,32,12,78,51,11,58,31,48,77,22,5,256,45,122,12,1,4,32,7,4,23,1,9,37,18,31,21,1,12,9,12,3,5,1,10,30,4,55,24,2,3,1,1,19,1,24,1,12,3,19,15,1,16,1,4,9,1,3,6,34,51,10,51,52,55,1,20,4,1,2,20,9,30,71
+Public	7,14,374,23,127,37,136,18,30,1,22,110,62,8,1,28,2,60,101,26,56,18,3,19,1,313,33,51,3,2,18,73,1,36,14,57,103,105,3,211,205,102,63,98,41,73,54,82,33,13,144,49,192,36,91,12,105,14,77,18,50,2,81,184,1,55,19,6,42,279,162,63,20,66,1,20,1,111,211,6,55,3,35,58,129,16,32,16,2,15,47,21,47,1,11,23,31,54,128,88,348,37,10,36,31,76,49,5,10,145,38,46,104,10,2,5,47,41,14,96,29,2,9,13,17,1,91,7,38,98,92,58,3,1,47,74,291,194,50,9,2,69,8,86,34,11,12,77,29,25,55,81,100,51,26,14,23,9,80,44,8,4,5,41,122,138,8,48,21,25,68,17,120,23,43,29,24,58,2,32,12,78,51,11,58,31,48,77,22,5,256,45,122,12,1,4,32,7,4,23,1,9,37,18,31,21,1,12,9,12,3,5,1,10,30,4,55,24,2,3,1,1,19,1,24,1,12,3,19,15,1,16,1,4,9,1,3,6,34,51,10,51,52,55,1,20,4,1,2,20,9,30,71,115
 Public AI	7548
 Public AI Voice and Engagement	7038
 Public Access Centre and Training Centre	11287
@@ -1665,6 +1668,7 @@ Public Audit Act No	741
 Public Authorities	3
 Public Authority	3
 Public Awareness	3861
+Public Awareness and Communication	11791
 Public Awareness and Education	1814
 Public Broadcaster	718
 Public Broadcasting Scorecard	8481
@@ -1752,6 +1756,7 @@ Public Enterprises Market Share Public Enterprises	1944
 Public Entities	6432,4786
 Public Entities Corporate Governance Act	1154,400
 Public Entities Corporate GovernanceAct	1154
+Public Entities and Corporate Governance Act	11791
 Public Entity	5533,5717,15
 Public Entity Companies and Intellectual Property Commission	11250
 Public Entity’s General Information	11250
@@ -1846,6 +1851,7 @@ Public Interest	6442
 Public Interest Clinical Trial	7845
 Public Interest Content	8485
 Public Interest Corpus	7313
+Public Interest Registry	11800
 Public Interest Supremacy	3861
 Public Interest and Transparency	3861
 Public Investment	1828
@@ -2072,7 +2078,7 @@ Public Service	3,2772,439,500,503,311,1904,750,366,111,1858,1659,8,32,29,324
 Public Service AI	7548
 Public Service Act	11178,4,2,17,15,2,62
 Public Service Amos Gathecha	10043
-Public Service Commission	395,2384,485,1581,480,808,813,112,13,25,1503,841,873,869,42,23
+Public Service Commission	395,2384,485,1581,480,808,813,112,13,25,1503,841,873,869,42,23,598
 Public Service Commission Act	10313
 Public Service Commission PA’s Performance Agreements	11224
 Public Service Commission R&D Research and Development	7548
@@ -2283,7 +2289,7 @@ Publique-se. O Presidente da República	14,1,524,10,2970,7228,2,6,1,602,5,21,4,2
 Publique-se. O Primeiro-Ministro	576,219
 Publique-se. Publicado	13
 Publique-se. Tribunal Supremo	6462
-Publish	396,808,3657,815,747,409,104,15,161,141,295,1851,694,64,922,70,87
+Publish	396,808,3657,815,747,409,104,15,161,141,295,1851,694,64,922,70,87,560,1,15
 Publish Draft Bylaws Amendments for Comment	5853
 Publish National AI Policy Guidelines	11265
 Publish New Cybersecurity Law Amid Rising	6845
@@ -2306,7 +2312,7 @@ Publisher's Note Springer Nature	9739
 Publishers	4674,825,5164
 Publisher’s Note	771,490,2530
 Publishes the Xalam DC	4428
-Publishing	1279,665,831,3648,2700,1641,155,210,16,1,1
+Publishing	1279,665,831,3648,2700,1641,155,210,16,1,1,665
 Publishing Classified Military Information Aids Terrorists	4738
 Publishing More Data	8013
 Publishing and Versioning	6423
@@ -2427,6 +2433,7 @@ Purpleline Solutions	9839,409,57
 Purpleline Solutions Limited	9839,3
 Purpleline Solutions Limited Company	9728,114
 Purpleline Solutions Limited Company. The CSA	9728
+Purported Board	11812,1
 Purpos1e.5anPduArppopsreoacnhdoAfptphirsoPacohlicoyf	10157
 Purpos1e1.1anPduJrpuostsifiecaantdioJnustification	10157
 Purpos3e.1anPduPrprionsceipalensd Principles	10157

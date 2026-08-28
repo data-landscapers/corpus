@@ -460,6 +460,7 @@ Evélia Gadegbeku	7784
 Excellency Josephine Gauld	3895
 Exchange Gateway	6019
 Executive Secretary Gatete	8754
+Executive Secretary Mr Claver Gatete	11817
 Executive Secretary of GACC	7457
 Exercise Over Technical Challenges Gambiaj.com	10110
 Exploitation du Gisement Gazier	2342
@@ -719,7 +720,7 @@ Gabinete Jurídico	167
 Gabinete Jurídico GPCGC	11435
 Gabinete Ministerio Oficial Mayor	4209
 Gabinete Primeiro Ministro X	11569
-Gabinete Provincial	11485
+Gabinete Provincial	11485,352
 Gabinete Provincial da Saúde	11458
 Gabinete Provincial da Saúde. ARTIGO	11445
 Gabinete Provincial de Saúde de Luanda	10784
@@ -735,7 +736,7 @@ Gabinete de Comunicação Tomada de Posse	10752
 Gabinete de Estudo	11453
 Gabinete de Estudos	13,4741,4505,1493,14,595,26,4,147,19
 Gabinete de Estudos Planeamento	10752
-Gabinete de Gestão	5405,6000,23,9,132
+Gabinete de Gestão	5405,6000,23,9,132,255
 Gabinete de Gestão Espacial Nacional. Assegurou	10366
 Gabinete de IA da UE	3519
 Gabinete de Informação de Macau	11683
@@ -744,6 +745,7 @@ Gabinete de Planeamento	11435
 Gabinete de Prensa	6298,1785,289,931,2440
 Gabinete de Recursos Humano VIRGINIA RAIMUNDO XIRIMBIMBI	10750
 Gabinete de Recursos Humanos	167,11282
+Gabinete de Registos	11837
 Gabinete de Relações Internacionais	167
 Gabinete de Tecnologia	11435
 Gabinete de Tecnologias de Informação	167,10586,19,639,38
@@ -1369,8 +1371,9 @@ Gastos de Transporte	4209
 Gasura	7880
 Gataca	2390,1902,563,470,255,313,73,322,83
 Gatare. In Gasabo District	4941
+Gate Handoff Ledger	11801
 GateOfWise and BSC	5049
-Gatekeeper	4583
+Gatekeeper	4583,7213
 Gatekeepers XII	5092
 Gatekeeping	6793,3596
 Gatenga	718
@@ -1500,7 +1503,7 @@ Gazette No.30	1263
 Gazette No.52	1263
 Gazette No.65	1263
 Gazette Notice Gazette Notice Within	7548
-Gazette Notice No	396,8939,604
+Gazette Notice No	396,8939,604,1850
 Gazette Notice Number	7551
 Gazette Notices	6946
 Gazette Notices No	1131
@@ -2252,6 +2255,7 @@ Seyni Ganamtoré	7319
 Shang Gao and Dr Said Rutabayiro	431
 Sharing the Gains	11140
 Should The Gambia	10062
+Shroug Ganawa. Sixteen-country	11792
 Sidi Mohamed Gaouzi	8891
 Sierra Leone Gazette	439
 Sierra Leone Gazette Vol. CXLX	410

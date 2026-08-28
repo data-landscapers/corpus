@@ -243,6 +243,7 @@ Channel Exclusive Offer	11259
 Channel Exclusive Offers	11259
 Channel Exclusive Offers. Table	11259
 Channels Offered	9781
+Chief Administrative Officer	11800
 Chief Business Officer	5764,1848,2877
 Chief Commercial Officer	3470,1482,97,557,580,80,128,5106
 Chief Commercial Officer of Optasia	8663
@@ -294,6 +295,7 @@ Chief Executive Officer and Founder	4832
 Chief Executive Officer and Head of Coverage	10745
 Chief Executive Officer and Managing Director	8352
 Chief Executive Officer de Mauritius Telecom	8699
+Chief Executive Officer of AFRINIC	11800
 Chief Executive Officer of ATC Uganda	9041
 Chief Executive Officer of Access	5356
 Chief Executive Officer of AfricaNenda Foundation	8865
@@ -743,6 +745,7 @@ Foreign Assistance Office Ministerio	10713
 Foreign Assistance Office U.S. Embassy Avenida	4260
 Foreign Commonwealth and Development Office	11572
 Foreign Office Consultations	2667
+Founder and Chief Executive Officer of ARED Group	11834
 Founder and Chief Executive Officer of Civic Watch	10370
 Founder and Chief Executive Officer of Egyptian	4723
 Founder and Chief Executive Officer of Margins ID	4677,1500
@@ -809,6 +812,7 @@ Group Chief Financial Officer	10793
 Group Chief Information Officer	8583
 Group Chief Operating Officer of WTES Projects	11168
 Group Chief Product and Innovation Officer	8429
+Group Chief Regulatory Officer	11800
 Group Data Protection Officer	10694
 Group Management Office	4723
 Group Managing Director and Chief Executive Officer	7371
@@ -928,7 +932,7 @@ Job Officer	10721
 Joint Offices Responsible for SIC and SINSE	9399
 Jornal Oficial da União Europeia	2816
 Jornal Oficial da União Europeia. Perrault	2816
-Journal Officiel	233,1,202,112,666,17,1890,32,1102,148,17,147,5641,179,518,1,15,45,15,599
+Journal Officiel	233,1,202,112,666,17,1890,32,1102,148,17,147,5641,179,518,1,15,45,15,599,213
 Journal Officiel Nombre	3396
 Journal Officiel Spécial	10902
 Journal Officiel de Côte	10906
@@ -944,7 +948,7 @@ Kasi Cloud Datacenters Flags Off West	6376
 Kenya International Boundaries Office	6946
 Kenya Representative Office Data Controller INST-34718680D7A	7167
 Kenya's Office	11677
-Kenya’s Office	4583,501
+Kenya’s Office	4583,501,6749
 Kibaha. Officials	10460
 Kicukiro Sector Office	4941
 Kimihurura Sector Office	4941
@@ -1308,13 +1312,13 @@ Offer Shares	4896
 Offer Zero-Fee Digital Bank Accounts for UAE	5322
 Offer and Dividend	4896
 Offered	3862
-Offering	5675
+Offering	5675,6168
 Offering High-Speed Connectivity Across	5289
 Offerings	10841
 Offeror	7108
 Offers	961,2753,416,212,2856,3936
 Offers Client Data for Sale	3364
-Office	395,16,176,131,244,7,1,2,42,11,129,74,15,39,2,6,264,22,54,44,103,1,32,57,7,1,53,16,20,24,81,48,136,79,10,47,135,92,36,16,59,48,4,94,47,111,20,66,2,188,57,22,70,70,6,30,21,9,3,25,40,54,11,217,46,66,53,7,12,8,80,3,11,139,161,7,48,7,7,43,28,47,4,89,28,60,84,53,39,6,35,4,6,11,81,5,143,3,97,70,17,48,18,10,16,9,124,69,150,37,102,26,1,22,47,2,31,128,32,71,13,28,34,149,4,72,13,25,1,17,55,32,10,5,8,15,1,14,65,56,31,18,8,24,121,126,9,1,27,19,54,59,8,2,16,14,23,26,13,11,23,102,60,1,67,45,4,28,24,176,40,49,28,53,49,21,30,9,103,162,10,18,23,46,9,8,81,65,23,35,22,33,8,13,42,44,36,89,20,12,8,1,70,27,5,40,21,1,42,23,10,17,32,2,8,16,85,3,86,11,15,12,90,7,44,1,47,93,57,5,3,25,5,58,15,3,53,38,53,30,6,4,86,47,28,11,5,29,3,10,4,1,14,3,12,70,38,13,66,83,5,2,1,15,7,8,13,5,36,4,2,23,11,3,4,12,3,6,3,180,94,21,2,42,9,25
+Office	395,16,176,131,244,7,1,2,42,11,129,74,15,39,2,6,264,22,54,44,103,1,32,57,7,1,53,16,20,24,81,48,136,79,10,47,135,92,36,16,59,48,4,94,47,111,20,66,2,188,57,22,70,70,6,30,21,9,3,25,40,54,11,217,46,66,53,7,12,8,80,3,11,139,161,7,48,7,7,43,28,47,4,89,28,60,84,53,39,6,35,4,6,11,81,5,143,3,97,70,17,48,18,10,16,9,124,69,150,37,102,26,1,22,47,2,31,128,32,71,13,28,34,149,4,72,13,25,1,17,55,32,10,5,8,15,1,14,65,56,31,18,8,24,121,126,9,1,27,19,54,59,8,2,16,14,23,26,13,11,23,102,60,1,67,45,4,28,24,176,40,49,28,53,49,21,30,9,103,162,10,18,23,46,9,8,81,65,23,35,22,33,8,13,42,44,36,89,20,12,8,1,70,27,5,40,21,1,42,23,10,17,32,2,8,16,85,3,86,11,15,12,90,7,44,1,47,93,57,5,3,25,5,58,15,3,53,38,53,30,6,4,86,47,28,11,5,29,3,10,4,1,14,3,12,70,38,13,66,83,5,2,1,15,7,8,13,5,36,4,2,23,11,3,4,12,3,6,3,180,94,21,2,42,9,25,129,57
 Office Accommodation	5533
 Office Accra	2308
 Office Address	11220
