@@ -32,6 +32,7 @@ python scripts/bulletin.py --write {slug} --text "…"         # one to three se
 python scripts/bulletin.py --assemble
 python scripts/render.py outputs/bulletins/corpus-bulletin.md
 python scripts/catalogue.py                                  # publish the catalogue the bulletin was built off
+python scripts/home.py                                       # the stat bar makes the same claim on three more pages
 python scripts/log-line.py build "bulletin top-up: window N, K new summaries, rendered — ok"
 git add -A && git commit -m "Bulletin top-up: <n> items published today"
 ```
@@ -39,7 +40,8 @@ git add -A && git commit -m "Bulletin top-up: <n> items published today"
 - **`--catalogue`, not `--all`.** Stage 7 reads the catalogue and nothing the report or finance layers write, so those compiles are cost with no consumer here.
 - **No stage 0 sentinel and no `--start build`.** The sentinel asserts a *cycle* is part-way through; a ten-minute run writing one document has nothing for it to protect, and a sentinel left by a crash here would block tonight's cycle over a document that rebuilds itself in full next run.
 - **The catalogue page is published in the same run.** `--catalogue` rebuilds `outputs/catalogue/`, so from that moment the top-up works off a catalogue the site is not serving; `scripts/catalogue.py` closes the gap. The count on the catalogue page is a published claim about what the base holds, and it would otherwise disagree with the bulletin published the same morning. The names index comes with it — `rebuild.py --catalogue` runs stages 2b and 2c — so the shards are part of the top-up's commit, which is why it is larger than one document.
-- **Nothing else re-renders.** No home page, no report loop; RENDER Step 2's coverage assertion is not in play — it counts a full pass and this is one document plus one page.
+- **The home page goes with it, for the same reason.** `scripts/home.py` is RENDER Step 3 and its stat bar — total, published this year, published this month — is the same published claim about the same base as the catalogue page's count, on `site/index.html`, `site/countries/` and `site/topics/`. Left out, `/` says one figure and `/catalogue/` another for the rest of the day. The counts are publication-date counts off `raw-catalogue.csv`, so they move on a top-up exactly when the bulletin does. The country and topic matrices come with it and their per-country figures are unchanged; only the bar fills rescale against the new maximum.
+- **Nothing else re-renders.** No country or topic pages, no report loop; RENDER Step 2's coverage assertion is not in play — it counts a full pass and this is one document plus four pages.
 - **The dated PDF is `render.py`'s call as always.** A second cut in a day gets `-2`; an unmoved body holds its edition and refreshes only the page — the bulletin's own exception at `RENDER.md` → *The bulletin*, and exactly what a nil morning produces.
 
 ## Deploy
