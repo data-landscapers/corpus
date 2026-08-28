@@ -14,6 +14,10 @@ last_reviewed: 2026-08-28
 
 <!-- newest first: a new block goes directly below this line -->
 
+## 2026-08-28 22:41 · build
+
+- **`report-register-check.py` read narrative markers only, so the 40 status baselines authored by STATUS-INIT scored nought words and had their register and check H pass over nothing while printing 0 hits.** Fixed: it now reads body paragraphs there. That exposes 218 register hits and 47 uncited figures across those documents. This run cleared KEN's and ZAF's; the rest is a report pass of about 38 documents, which is yours to commission or leave.
+
 ## 2026-08-20 16:05 · review
 
 - **Swept this file against the current state and deleted nine blocks that are settled. Git holds every one.** Bill's instruction of 2026-08-20 was that both systems be more decisive and that his attention is the scarce thing; a message that has been true and unread for three days is not a message, it is a backlog. Each was verified before deletion, not assumed:
