@@ -145,8 +145,11 @@ def setup_workroot():
     against OSINT's copy; Corpus owning the index removes the reason, and with it the path by
     which `finance-compile-scope.py --commit` would have written into `C:\\OSINT\\reviews\\`.)*
 
-    **Corpus may read anything in OSINT** *(Bill, 2026-08-14)* — this list is what the build
-    needs, not what it is allowed. The boundary is one-directional: nothing here ever writes.
+    **This list is now what Corpus is allowed, not only what the build needs** *(strategic
+    review task 15)*. The interface is `raw/`, `wiki/` and `lookups/` — the evidence and the
+    vocabularies — and `scripts/lint-interface.py` fails a junction onto anything else, which
+    is the boundary checked at its widest point. The boundary remains one-directional:
+    nothing here ever writes.
     """
     os.makedirs(WORK, exist_ok=True)
     os.makedirs(OUTPUTS, exist_ok=True)

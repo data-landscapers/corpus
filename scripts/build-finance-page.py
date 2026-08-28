@@ -34,7 +34,7 @@ NONSTATE_OUT = "outputs/non-state-finance"     # {ISO3}-nonstate.csv, {ISO3}-sum
 
 # ---------------------------------------------------------------- small helpers
 def taxonomy_labels():
-    """`{slug: label}` from Corpus's `lookups/taxonomy.csv` — the display vocabulary.
+    r"""`{slug: label}` from Corpus's `lookups/taxonomy.csv` — the display vocabulary.
 
     Was a regex over OSINT's `lookups/taxonomy.md` until 2026-08-19. The two now sit
     under the same directory name in different repositories, so read the extension:

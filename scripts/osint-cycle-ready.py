@@ -195,17 +195,20 @@ def base_moved(since_head: str) -> str:
         if head in ("unknown", since_head):
             return ""
         rng = f"{since_head}..{head}"
-        allf = subprocess.run(["git", "-C", MIRROR, "diff", "--name-only", rng],
+        # Scoped to the evidence, and only the evidence (strategic review task 15). This
+        # used to count every changed file and report the total alongside the raw/wiki
+        # figure, which read OSINT's logs, reviews and process files to produce a number
+        # nothing here acts on - and inflated the one number that is acted on with OSINT's
+        # own housekeeping. What Corpus is entitled to know is how much of the base moved.
+        base = subprocess.run(["git", "-C", MIRROR, "diff", "--name-only", rng,
+                               "--", "raw", "wiki"],
                               capture_output=True, text=True, timeout=60)
-        base = subprocess.run(["git", "-C", MIRROR, "diff", "--name-only", rng, "--", "raw", "wiki"],
-                              capture_output=True, text=True, timeout=60)
-        if allf.returncode or base.returncode:
+        if base.returncode:
             return ""
-        n = len([x for x in allf.stdout.splitlines() if x.strip()])
         nb = len([x for x in base.stdout.splitlines() if x.strip()])
-        if not n:
+        if not nb:
             return ""
-        return (f"; the base has moved since: {n} file(s), {nb} of them under raw/ or wiki/ "
+        return (f"; the base has moved since: {nb} file(s) under raw/ or wiki/ "
                 f"(OSINT {since_head[:8]}..{head[:8]})")
     except (OSError, subprocess.SubprocessError):
         return ""
