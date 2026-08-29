@@ -6,7 +6,7 @@ place: MRT
 ledger_rows: 65
 not_held: 4
 indicators: 121
-record: 734f1eb3f11e
+record: 80ff50fc81bf
 ---
 
 # Mauritania: progress report, August 2025 – August 2026
@@ -118,7 +118,7 @@ Where a row reads ***No evidence***, the base holds nothing on that indicator. *
 | Registries | Social protection register |  | ***No evidence*** |
 | Registries | Electoral register |  | ***No evidence*** |
 | Registries | Tax register |  | ***No evidence*** |
-| Registries | Land register |  | ***No evidence*** |
+| Registries | Land register | A [decree of 27 August 2026](https://www.ami.mr/archives/267317) creates a national digital cadastral reference with a unique identifier for every parcel, where no integrated cadastral system existed. <details><summary>Full record</summary>The Council of Ministers adopted a decree on 27 August 2026 establishing a national digital reference for land and cadastral data as the state's authoritative source, with a permanent, unique, non-duplicable identifier for every parcel independent of administrative divisions, the land minister stating that no integrated cadastral survey system meeting these requirements has existed ([decree](https://www.ami.mr/archives/267317)). The decree states expressly that neither the reference nor the cadastral certificate creates or extinguishes any real property right.</details> | Advanced |
 | Sectoral management information systems | Health |  | ***No evidence*** |
 | Sectoral management information systems | Education | An [education certificate service](https://ami.mr/fr/archives/276019) runs on the national identity application for certificates issued after 2013 or linked to the identity number, with no usage figure held. <details><summary>Full record</summary>The service extracts and confirms national education certificates through the identity application ([service](https://ami.mr/fr/archives/276019)).<br><br>It covers certificates issued after 2013 or otherwise linked to the national identity number, which puts a date before which the record is not reachable digitally. No usage figure, coverage share or education management information system for the country is held.</details> | No change |
 | Sectoral management information systems | Social protection |  | ***No evidence*** |
@@ -161,7 +161,7 @@ Where a row reads ***No evidence***, the base holds nothing on that indicator. *
 | Literacy | Digital literacy (civil service) |  | ***No evidence*** |
 | Literacy | Digital literacy (general population) |  | ***No evidence*** |
 | Training and skills | DT-related training in secondary education |  | ***No evidence*** |
-| Training and skills | DT-related university facilities and qualifications |  | ***No evidence*** |
+| Training and skills | DT-related university facilities and qualifications | The national university opened a [first summer school on language models for low-resource African languages](https://www.ami.mr/archives/267189) in August 2026. <details><summary>Full record</summary>The University of Nouakchott opened the first edition of a summer school on language models for low-resource African languages at Nouadhibou on 25 August 2026, taking participants from corpus construction and semantic annotation through model adaptation and evaluation to prototypes in translation and conversational assistants ([summer school](https://www.ami.mr/archives/267189)). No participant count, budget or repeat commitment is stated.</details> | Advanced |
 | Training and skills | Graduates entering DT ecosystem | A [youth digital employability programme](https://www.ami.mr/archives/264918) launched in July 2026 for 2,150 beneficiaries across six cities, about 2,000 of them young people. <details><summary>Full record</summary>The programme is financed by a French fund and delivered by an external implementer, succeeding a predecessor that closed in 2025; the implementer puts its three-year record at about 5,000 people given basic digital skills ([programme](https://www.ami.mr/archives/264918)).<br><br>No completion, certification or placement figure is published for the current programme, and no national count of digital graduates or of employment in the sector is held.</details> | Advanced |
 | Research institutions | Think tanks and academic departments contributing to DT policy | The university's [computing and data sciences research unit](https://prs-mesrs.gov.mr/calcul-scientifique-informatique-et-data-sciences-2/) lost its accreditation period in May 2024 with no renewal published, having held sixteen doctoral candidates. <details><summary>Full record</summary>The unit at the science and technology faculty was accredited for May 2021 to May 2024 and held sixteen doctoral candidates concentrated in artificial intelligence and data science, covering network optimisation, distributed-ledger and internet-of-things process mining, health-data management and cloud-resource elasticity, with three theses defended in 2022 ([unit](https://prs-mesrs.gov.mr/calcul-scientifique-informatique-et-data-sciences-2/)).<br><br>The accreditation period ended in May 2024 with no renewal published. It is the only research capability on the country's digital questions in the base, and its formal standing lapsed two years ago.</details> | Stalled |
 
