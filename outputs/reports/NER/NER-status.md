@@ -1,15 +1,15 @@
 ---
 title: Niger — digital transformation and data governance status report
-compiled: 2026-08-28
+compiled: 2026-08-29
 place: NER
-ledger_rows: 62
+ledger_rows: 63
 not_held: 4
-record: 9fd9e3ee23f9
+record: 306db781cd48
 ---
 
 # Niger: status report
 
-*Compiled 2026-08-28 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/NER/ledger.csv` (62 systems and instruments, 4 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-29 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/NER/ledger.csv` (63 systems and instruments, 4 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -170,6 +170,7 @@ The regulator has real-time visibility of the networks it supervises, through a 
 |---|---|---|
 | Bank-to-wallet interoperability | [Implemented](https://www.lesahel.org/communique-de-presse-niger-banque-atlantique-et-nita-renforcent-linteroperabilite-entre-services-bancaires-et-paiement-mobile/) | Instant transfers launched 2026-06-26 |
 | Identity-fee payment kiosks | [Implemented](https://www.actuniger.com/societe/21937-carte-nationale-didentite-biometrique-cnib-avec-nita-les-demarches-simplifiees-pour-regler-ses-frais-et-se-faire-enroler-en-toute-serenite.html) | Deployed at enrolment sites 2026-04-27 |
+| Mobile-money international transfer service | [Implemented](https://actuniger.com/societe/22299-transfert-dargent-airtel-money-niger-lance-son-service-international-pour-des-operations-simples-et-securisees-au-dela-des-frontieres.html) | Service launched 2026-08-25 |
 | Scholarship payment through the Treasury application | [Planned](https://anp.ne/niger-plusieurs-reformes-engagees-pour-ameliorer-le-secteur-de-lenseignement-superieur-et-les-performances-de-lanab/) | Announced as part of the grants agency reform 2026-07-29 |
 
 ### Registries

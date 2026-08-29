@@ -1,11 +1,11 @@
 ---
 title: Namibia — monthly update, July – August 2026
-compiled: 2026-08-27
-period: 2026-07-01 to 2026-08-27
+compiled: 2026-08-29
+period: 2026-07-01 to 2026-08-29
 place: NAM
-ledger_rows: 64
+ledger_rows: 65
 not_held: 12
-record: 5b68cc205226
+record: 0f7922769d35
 ---
 
 # Namibia: monthly update, July – August 2026
@@ -95,11 +95,15 @@ Alongside the outreach runs a [Youth e-ID Ambassadors Programme, using young peo
 The central bank, the instant payments company and the clearing house signed a declaration of intent on 2 July to integrate instant payments with the national clearing infrastructure, publishing no deliverables, funding or timetable ([declaration account](https://techafricanews.com/2026/07/02/bank-of-namibia-ipn-and-namclear-sign-pact-to-strengthen-instant-payments/)).
 
 The payments association's annual general meeting on 28 July also heard that licensing and supervision of payment providers will move to the central bank, with no instrument, commencement date or transition plan published ([central bank account](https://thebrief.com.na/2026/07/namibia-becomes-fourth-african-country-to-launch-instant-payments-system/)).
+
+The central bank governor put a date on the phone-based channel. He [said on 27 August that a digital money and instant payment solution should be fully functional by about June 2027, sequenced government-to-person, then person-to-person and person-to-merchant](https://www.namibian.com.na/central-bank-to-introduce-digital-money-next-year/), pitching it as a way to build transaction histories that substitute for the financial statements banks demand of informal businesses; how cash integrates with the instant payment system was not stated.
 <!-- /narrative -->
 ### Registries
 
 <!-- narrative: dpi--dpi-registry -->
 The business and intellectual property authority [offers online name search, name reservation and application-status verification](https://www.bipa.na/), with no transaction or uptake figure published and no publication date on the capture. The civil registration statute is unchanged and was [read by officials on 25 July as permitting institutions to accept either the physical card or its digital version, with disclosure conditional on the holder's consent](https://informante.web.na/?p=398234). Its [commencement date is not established](https://namiblii.org/akn/na/act/2024/13/eng@2024-12-30) and the held record summarises rather than reproduces it.
+
+The securities depository was used for the first time by a listed corporate issuer. A N$250.5 million sustainability-linked bond [was converted into an electronic record on 21 August after bondholders were notified on 8 August, the first practical use of the dematerialisation capability since the exchange launched the depository in December 2025](https://www.namibiansun.com/mw-main/n250m-bond-moves-online-NMH017110-3015-21006); the issuer's three other listed bonds were notified for 8 September.
 <!-- /narrative -->
 ### Sectoral management information systems
 

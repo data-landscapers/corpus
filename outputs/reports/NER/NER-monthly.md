@@ -1,11 +1,11 @@
 ---
 title: Niger — monthly update, July – August 2026
-compiled: 2026-08-28
-period: 2026-07-01 to 2026-08-28
+compiled: 2026-08-29
+period: 2026-07-01 to 2026-08-29
 place: NER
-ledger_rows: 31
+ledger_rows: 32
 not_held: 4
-record: ebb7e8f20abf
+record: 487fde14c671
 ---
 
 # Niger: monthly update, July – August 2026
@@ -59,6 +59,8 @@ On 27 July an account of the [restructured WURI-Niger project](https://www.lesah
 
 <!-- narrative: dpi--dpi-pay -->
 On 29 July the higher education minister said the grants agency reform consists of [acquiring database software and routing scholarship and social-aid payments through the banking system via the Treasury's application](https://anp.ne/niger-plusieurs-reformes-engagees-pour-ameliorer-le-secteur-de-lenseignement-superieur-et-les-performances-de-lanab/); no budget, vendor, timetable or beneficiary count was published.
+
+The mobile-money issuer opened cross-border corridors. It [launched an international transfer service on 25 August, taking inbound transfers from eight countries directly into the recipient's wallet through five remittance partners and sending outbound transfers to seven West African states](https://actuniger.com/societe/22299-transfert-dargent-airtel-money-niger-lance-son-service-international-pour-des-operations-simples-et-securisees-au-dela-des-frontieres.html); no volume or fee schedule is published.
 <!-- /narrative -->
 ### Registries
 

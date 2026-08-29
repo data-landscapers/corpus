@@ -1,11 +1,11 @@
 ---
 title: Ghana — monthly update, July – August 2026
-compiled: 2026-08-27
-period: 2026-07-01 to 2026-08-27
+compiled: 2026-08-29
+period: 2026-07-01 to 2026-08-29
 place: GHA
-ledger_rows: 128
+ledger_rows: 130
 not_held: 9
-record: 379a8781a332
+record: c39843380e14
 ---
 
 # Ghana: monthly update, July – August 2026
@@ -156,6 +156,8 @@ One sectoral system was assessed rather than built. A Danish-funded gap assessme
 The finance ministry reported to Parliament that the customs valuation system had [analysed about 366,000 declarations to 17 July](https://www.myjoyonline.com/publican-ai-system-generates-gh%c2%a2300m-additional-revenue-since-rollout-ato-forson/), 24% triggering more than one risk indicator, with collections up 17.5% against a 6.3% rise in declared value. A second public sector reform strategy was validated on 30 July on seven pillars, 27 programmes and 135 activities.
 
 The revenue side gained a plan on 12 August. A [Korean-backed Tax Modernisation Master Plan covering income tax, value-added tax, tax administration and electronic tax administration was set out](https://www.graphic.com.gh/business/business-news/ghana-korea-unveil-master-plan-for-tax-modernisation.html), with artificial intelligence already in service on customs valuation. No cost, timetable or implementation schedule accompanies it, which puts it a stage behind the customs system it is presented alongside.
+
+Two systems moved in opposite directions in the same week. The online passport application service [went down on 25 August, the foreign ministry confirming a technical fault the same day and naming no cause and no restoration date](https://www.graphic.com.gh/news/general-news/ghana-passport-online-portal-down-over-technical-problem.html). The accountant-general's department, meanwhile, [will suspend from 15 September the salaries of government employees whose national identity details are missing from or do not match the payroll system, ahead of a nationwide re-verification exercise](https://www.myjoyonline.com/government-workers-without-valid-nia-details-risk-salary-suspension-from-september-15/), the directive prompted by discrepancies surfaced when the upgraded payslip system left some employees unable to open their payslips.
 <!-- /narrative -->
 
 ## Digitalisation

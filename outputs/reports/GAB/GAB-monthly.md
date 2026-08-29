@@ -1,11 +1,11 @@
 ---
 title: Gabon — monthly update, July – August 2026
-compiled: 2026-08-27
-period: 2026-07-01 to 2026-08-27
+compiled: 2026-08-29
+period: 2026-07-01 to 2026-08-29
 place: GAB
-ledger_rows: 50
+ledger_rows: 51
 not_held: 27
-record: 529719cb3328
+record: a53e28c9f8b1
 ---
 
 # Gabon: monthly update, July – August 2026
@@ -111,6 +111,8 @@ A different kind of exchange went live in August. The airport-security committee
 
 <!-- narrative: dpi--dpi-mis -->
 On 30 July the education ministry received 1,000 tablets for what the minister described as 148 connected schools ([handover](https://agpgabon.ga/gabon-remise-de-1-000-tablettes-au-ministere-de-leducation-nationale/)).
+
+The state's civil-service human-resources record has been failing for months. The Fichier unique de reference [is near-inoperative, blocking tenure confirmations, reclassifications, recruitments and promotions and stopping their pay effects reaching agents, the breakdown sitting in the data-replication link between the civil service and pay services; on 25 August the vice-president of the government ordered an emergency plan restoring career management, agent mobility and data replication](https://union.sonapresse.com/fr/fonction-publique-redynamiser-le-fichier-unique-de-reference). The civil service ministry says it is migrating to an integrated state human-resources management system.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
@@ -144,6 +146,8 @@ A ride-hailing platform [began recruiting drivers at Libreville in partnership w
 The open-innovation programme was launched on 14 July 2026 with the employers' federation, addressing a population the organisers put at 150 to 200 start-ups, with pre-selection on 24 July and a final on 4 August ([launch](https://www.gabonreview.com/kimba-connect-le-gabon-lance-son-premier-defi-national-dopen-innovation-pour-accelerer-la-transformation-numerique/)). The final was postponed on 6 August after participating start-ups objected to how the edition was organised, and a [revised agenda published on 11 August](https://agpgabon.ga/gabon-numerique-kimba-connect-le-bilan-de-la-premiere-preselection-dresse/) runs pitches to 24 August and moves the final to late September or early October. The same account gives the programme's first participation figures: 155 registered start-ups, 133 of which submitted against its 16 published challenges, and 66 shortlisted. The figures are the organisers' own and no laureate list or selection criteria has been published.
 
 On 4 July, at the data-centre inauguration, the ministry and the facility's operator signed a memorandum giving ministry-supported start-ups professional hosting at preferential rates ([account](https://www.wearetech.africa/en/fils-uk/news/tech/gabon-launches-14-million-tier-iii-data-center-in-digital-sovereignty-push)). No rate, eligibility list or take-up figure has been published.
+
+The state digital incubator was not closed after all. It [has been placed under interim management, a deputy director general of the state holding that owns 30 per cent of its capital taking the post pending a new model, with a state takeover, conversion to a parapublic entity, absorption into the national innovation centre or supervision by the holding all under discussion](https://union.sonapresse.com/fr/sing-une-restructuration-en-vue-apres-le-depart-du-directeur-general); the digital economy ministry is to decide.
 <!-- /narrative -->
 
 ## Capacity

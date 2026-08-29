@@ -1,11 +1,11 @@
 ---
 title: Burundi — monthly update, July – August 2026
-compiled: 2026-08-27
-period: 2026-07-01 to 2026-08-27
+compiled: 2026-08-29
+period: 2026-07-01 to 2026-08-29
 place: BDI
-ledger_rows: 28
+ledger_rows: 29
 not_held: 10
-record: 693edb2e5289
+record: b6c48ed46b73
 ---
 
 # Burundi: monthly update, July – August 2026
@@ -24,6 +24,8 @@ Two things in this period bear on everything else Burundi is building. The regul
 
 <!-- narrative: governance--gov-legislate -->
 An [access-to-information bill is on the National Assembly's order paper for the session opened at the Kigobe Congress Palace on 3 August 2026](https://lerenouveau.bi/assemblee-nationale-ouverture-de-la-session-parlementaire-ordinaire-daout-2026/). The first vice-president listed it among the bills the chamber will examine. Article 176 caps ordinary sessions at three months, putting the outer bound for passage in this sitting at roughly end-October 2026. No text, tabling number, sponsoring ministry or timetable was published and no copy is held — the announcement establishes only that the bill exists and is scheduled. Burundi has had no access-to-information statute on file to date.
+
+The ministry opened consultations on the country's first dedicated framework for online publishing. A workshop on 26 August [gathered influencers, content creators, legal experts and jurists for sector input before a bill regulating social-media influencers and content creators is finalised](https://www.burunditimes.com/burundi-begins-talks-on-new-law-for-social-media-influencers/); no draft provisions are published, and whether the law would require registration, set disclosure rules for sponsored content, create an oversight body or set penalties is unestablished.
 <!-- /narrative -->
 ### Data protection
 

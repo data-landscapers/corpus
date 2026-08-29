@@ -1,11 +1,11 @@
 ---
 title: Zambia — monthly update, July – August 2026
-compiled: 2026-08-27
-period: 2026-07-01 to 2026-08-27
+compiled: 2026-08-29
+period: 2026-07-01 to 2026-08-29
 place: ZMB
-ledger_rows: 70
+ledger_rows: 71
 not_held: 53
-record: ec97b0c30618
+record: db535105cb4e
 ---
 
 # Zambia: monthly update, July – August 2026
@@ -72,6 +72,8 @@ External money made a smaller and vaguer offer. On 11 August the United Kingdom 
 A government-owned shared 4G network for public institutions was launched at Ndola Teaching Hospital on 15 July 2026, run by the state ICT institute with three named partners and the health ministry ([launch account](https://itweb.africa/article/zambia-launches-govlink-private-4g-network/G98YdMLGBZw7X2PD)). The reported outcomes are clinician accounts at the launch site; no baseline or measured result is held.
 
 On 5 August the institute confirmed that connectivity gaps persist at Nakonde, Victoria Falls, Kazungula and Chirundu, and set a single national standard through the government network of tiered 10 to 100 Mbps bandwidth, dual links with automatic failover and enterprise-grade firewalls. A trade facilitation body has commissioned an audit of ICT infrastructure at five border posts; no budget, timetable or completion date is published, and the audit precedes the procurement rather than following it ([status update](https://techafricanews.com/2026/08/05/zambia-moves-to-close-border-connectivity-gaps-with-national-network-upgrade/)).
+
+The technology ministry [put the country at about 26.2 million mobile subscriptions in 2025, up from 23.2 million in 2024, with about 14.7 million mobile internet subscriptions](https://www.lusakatimes.com/2026/08/28/govt-to-strengthen-cyber-security-capacity/) - its own figures, given in a seminar address rather than a regulator publication.
 <!-- /narrative -->
 ### Cybersecurity
 

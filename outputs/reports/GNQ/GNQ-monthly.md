@@ -1,11 +1,11 @@
 ---
 title: Equatorial Guinea — monthly update, July – August 2026
-compiled: 2026-08-27
-period: 2026-07-01 to 2026-08-27
+compiled: 2026-08-29
+period: 2026-07-01 to 2026-08-29
 place: GNQ
-ledger_rows: 30
+ledger_rows: 31
 not_held: 6
-record: 8b63217789b9
+record: 84076392645a
 ---
 
 # Equatorial Guinea: monthly update, July – August 2026
@@ -124,6 +124,8 @@ An investigation opened into [where more than 425 million CFA francs allocated t
 INEGE opened a three-day validation workshop on 27 July at the Ministry of Finance, Budgets and National Planning on the project document, resource-mobilisation advocacy strategy and social-communication strategy for the [fifth population census and the first agricultural census](https://ahoraeg.com/politica/2026/07/28/el-inege-inicia-el-taller-de-validacion-de-los-documentos-estrategicos-del-v-censo-de-poblacion-y-viviendas-y-el-i-censo-general-agropecuario/), with UNFPA and FAO technical support and around fifty representatives of ministries, the National Assembly, the UN system, the AfDB, the World Bank, WHO and CEMAC. Decree 25/2025 of 3 March 2025 authorises both operations; the last population census was in 2015.
 
 Census preparation was validated a second time in four weeks without an enumeration date being set. The scientific committee [validated the project document, the resource-mobilisation strategy and the communication strategy for the fifth population and housing census and the first agricultural census](https://ahoraeg.com/politica/2026/08/20/el-comite-cientifico-valida-los-documentos-estrategicos-del-v-censo-de-poblacion-y-del-i-agropecuario/), reading into the record the 2025 decree ordering both operations and the resolution that created the committees. The project document is stated to fix objectives, methodology, timetable and the agricultural sample size; none of it is published, and neither is a date on which anyone will be counted.
+
+The fifth interministerial council of the year [adopted a National Quality Assurance Framework for official statistics on 25 August, a standardised protocol for the collection, processing and dissemination of socio-economic data presented as aligning national method with international standards](https://ahoraeg.com/politica/2026/08/25/el-gobierno-afianza-la-disciplina-fiscal-y-la-transparencia-en-el-quinto-consejo-interministerial-del-2026/); the framework text is not published.
 <!-- /narrative -->
 ### Open data
 

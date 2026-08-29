@@ -1,11 +1,11 @@
 ---
 title: Mauritius — monthly update, July – August 2026
-compiled: 2026-08-28
-period: 2026-07-01 to 2026-08-28
+compiled: 2026-08-29
+period: 2026-07-01 to 2026-08-29
 place: MUS
-ledger_rows: 45
+ledger_rows: 46
 not_held: 9
-record: 35e1469457e7
+record: 5205d3fc989f
 ---
 
 # Mauritius: monthly update, July – August 2026
@@ -80,6 +80,8 @@ A United Nations development agency published its [country annual report for 202
 The Prime Minister announced on [16 July 2026 that Mauritius will join the America-India Connect subsea cable programme](https://mitci.govmu.org/mitci/mauritius-to-join-america-india-connect-subsea-cable-programme-announces-pm-ramgoolam/). Reporting on [2 August established what sits behind it](https://journaldudimanche.com/google-amazon-et-maurice-les-coulisses-dun-tournant-numerique-majeur/): a signed non-disclosure agreement, terms still under negotiation, no published timetable. The driver is ageing infrastructure — LION and LION2 still carry most international traffic — and the same account notes that Google already operates a ground station at Baie-du-Jacotet serviced by the state operator, so the cable would deepen a relationship rather than open one.
 
 An industry survey put the 5G record on file for the first time: service since July 2021, when the state incumbent opened what the survey calls Africa's first 5G experience zones on spectrum assigned directly to the three operators, [reaching 86 per cent of the population in 2025](https://digitalmag.ci/acces-a-internet-etat-dadoption-de-la-technologie-5g-par-les-pays-africains/) with take-up projected to move from 9 to 44 per cent. It is delivered mainly as home internet boxes and in shopping centres, business districts and the university.
+
+Connectivity reached the remotest of the Outer Islands by contract if not yet by service. The ICT authority [awarded a two-year contract on 28 August to provide satellite-based internet and communications to Raphael Island in the St Brandon archipelago, a first for the archipelago, with the coast guard, the meteorological services and the island's fishing company as partners](https://platformafrica.com/2026/08/28/emtel-is-awarded-icta-contract-to-bring-internet-connectivity-to-st-brandon/); no service date, capacity or value is stated.
 <!-- /narrative -->
 ### Data Storage
 

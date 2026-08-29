@@ -1,11 +1,11 @@
 ---
 title: Angola — monthly update, July – August 2026
-compiled: 2026-08-28
-period: 2026-07-01 to 2026-08-28
+compiled: 2026-08-29
+period: 2026-07-01 to 2026-08-29
 place: AGO
-ledger_rows: 52
+ledger_rows: 56
 not_held: 7
-record: db2a58d1d02a
+record: da59d19cdd47
 ---
 
 # Angola: monthly update, July – August 2026
@@ -102,6 +102,8 @@ A logistics regulator communiqué of 27 July described a single window absorbing
 On 28 July the justice ministry [launched an at-home service priced at Kz 250,000](https://angop.ao/noticias/politica/ministerio-da-justica-lanca-servico-de-tratamento-do-bi-ao-domicilio/) for processing and Kz 10,000 for delivery alone, in one province only, the minister justifying the fee as a product of exclusivity.
 
 The single digital identity, named as a workstream since 2024 and as [a component of the US$150m public digital infrastructure contract in June](https://angop.ao/noticias/economia/ima-e-tis-formalizam-contrato-para-implementacao-do-projecto-digitais-publicas/), acquired a price and a procurement. [Despacho Presidencial 300/26 of 13 August authorised US$28m and opened the public tender](https://pti.ao/pr-aprova-usd-28-milhoes-para-aquisicao-de-plataforma-de-identidade-digital-e-assinaturas-electronicas/) for a National Digital Identity and Electronic Signatures Platform, specified to support up to 30 million digital identities and to let citizens, firms and public officials use one digital credential for public services, digital contracts, electronic verification of customers and legally valid electronic signatures. No supplier, timetable, or relationship to the earlier contract is stated.
+
+The territorial administration ministry is updating the voter register at a religious pilgrimage, [stationing brigades at the Muxima sanctuary from 29 August to 6 September under the 2026-2027 official electoral registration, with more than a million citizens already enrolled for the 2027 general election](https://novojornal.co.ao/politica/detalhe/mat-aproveita-peregrinacao-a-muxima-para-pescar-dados-eleitorais-74244.html); pilgrims need an identity card or voter card to take part.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
@@ -118,6 +120,8 @@ A single social register was launched in the week ending 25 July, and the minist
 The electoral register, updating since 15 June against a universe of 16.7 million citizens, acquired its first national enrolment figure in August and it came from the opposition rather than the administration. Four parties [put the count above 730,000 and demanded an independent audit of the electoral database, alleging administrative discretion, uneven deployment of registration brigades and recurring biometric-system failures](https://www.novojornal.co.ao/politica/detalhe/partidos-da-oposicao-lancam-alerta-sobre-obstaculos-burocraticos-que-ameacam-exclusao-massiva-de-cidadaos-do-processo-de-actualizacao-do-registo-eleitoral-74052.html), and said the administration refuses to release enrolment statistics disaggregated by province, municipality and commune. At provincial level the Lunda-Norte government [reported over 40,000 residents updated and pressed mining-sector workers to register through the one-stop service desks](https://angop.ao/noticias/politica/governadora-apela-a-actualizacao-dos-dados-eleitorais/). None of the allegations has been adjudicated, and because no official series exists there is nothing to test them against - which is itself the complaint.
 
 Field enrolment for the single social register [opened in a pilot phase at Sumbe, in Cuanza-Sul](https://angop.ao/noticias/sociedade/cadastro-social-nico-inicia-fase-piloto-no-sumbe/), directed by the social-action minister, to identify and characterise Angolan families and especially those in need. The register itself was activated in July; this is the first enrolment operation on record behind it.
+
+The education ministry made school enrolment independent of documentation. Circular 05/2026 of 19 August [orders every public and private school teaching primary and first-cycle secondary education to enrol children holding no birth certificate and no identity card, and to compile by the end of October a survey of undocumented pupils for the justice ministry's registry directorate, whose services are then to travel to the schools and register them](https://novojornal.co.ao/sociedade/detalhe/med-obriga-escolas-a-aceitar-matricula-de-criancas-que-ainda-nao-possuem-registo-de-nascimento-e-bi-74156.html); the ministry says the 17-21 August enrolment round drew large numbers of children with no registration of any kind.
 <!-- /narrative -->
 ### Sectoral management information systems
 
@@ -128,6 +132,8 @@ The education ministry and a domestic technology firm [expanded their work on th
 
 <!-- narrative: dpi--dpi-govtech -->
 The government-systems movement in the window is a procurement decision rather than a build. The executive [authorised an integrated digital transformation programme for the public finances by presidential order, as a direct award, covering modernisation of finance ministry services and a restructuring of state bodies and framed as raising revenue collection and cutting bureaucracy](https://correiokianda.info/executivo-preve-gastar-cerca-mais-de-2-mil-milhoes-de-kwanzas-para-digitalizar-financas-publicas/). What a direct award removes is the part of the record a reader could check: the supplier, the scope document and the delivery schedule are all unpublished, so the programme enters the ledger as an intention with a price attached and nothing behind it. Against that, the one government system already in service produced its first operating figures: the tax authority reported on 23 August that [51,245 large taxpayers and state suppliers had joined electronic invoicing since November 2025, issuing 36,341,801 invoices at a daily run-rate near 400,000 and peaking around 700,000, through 255 automatically certified software packages](https://angop.ao/en/noticias/economia/mais-de-50-mil-contribuintes-aderem-a-facturacao-electronica-em-angola/). The figures are the collector's own and the mandate reaches general and simplified-regime taxpayers only in 2027, so this is the compliant half of the base rather than the base.
+
+The health ministry's recruitment competition shows what online registration costs when it goes wrong. Of more than 420,000 who registered in July, [more than 170,000 were excluded for defective registration, leaving more than 262,000 to sit tests for 6,030 posts on 21-25 September, sat simultaneously nationwide and marked online](https://novojornal.co.ao/sociedade/detalhe/minsa-seleccionou-262-mil-candidatos-para-concurso-publico-mas-excluiu-170-mil-por-ma-inscricao-74185.html); a complaints window ran from 25 to 31 August.
 <!-- /narrative -->
 
 ## Digitalisation
@@ -138,6 +144,8 @@ The government-systems movement in the window is a procurement decision rather t
 Sub-national digitalisation in this window is policing infrastructure. The interior ministry [laid the foundation stone for an Integrated Public Security Centre in Saurimo, Lunda-Sul, on 30 July](https://angop.ao/noticias/sociedade/cisp-sera-instalado-na-lunda-sul/), with more than 100 cameras on the city's main arteries in a first phase and tooling for occurrence management, traffic management, city video surveillance, intelligent-camera monitoring and criminal investigation across Saurimo, Cassengo and Muanguenji; the centres' director-general said the expansion is under way in almost every province and is meant to move policing and investigation from the traditional model to one in which technology is the base of police activity.
 
 What is being replicated is visible in the standard build. Cabinda became the fifth province to get a centre when the interior minister [inaugurated it on 9 December 2025 with a 24-hour command and video-surveillance room answering the 111 emergency number, 184 cameras carrying facial recognition, number-plate reading and protection of designated strategic state sites, and 180 staff](https://cabinda.gov.ao/web/noticias/cisp-or-centro-integrado-de-seguranca-publica-de-cabinda-inaugurado-pelo-ministro-do-interior). No data-protection basis, retention rule or supervisory authority is named for any of that estate, and the data-protection agency's own organic law was [still out to consultancy in April](https://c2a.portais.gov.ao/uploads/Td_Rs_Consultoria_para_Elaboracao_da_Lei_Organica_da_Agencia_de_Proteccao_de_Dados_5a7f75b595.pdf).
+
+Benguela's provincial water utility [begins installing prepaid smart meters on 7 September, targeting 25,000 to 26,000 by March 2027 on a stated USD 23 million budget drawn from a USD 191.3 million rehabilitation project across five municipalities, starting with 500 units at Restinga and using 266 technicians](https://www.novojornal.co.ao/sociedade/detalhe/benguela-no-pre-pago-para-reduzir-desperdicio-de-agua-e-assegurar-pagamento-justo---projecto-absorve-usd-23-milhoes-74212.html). It follows [a USD 15 million registration exercise that produced a 70,000-client database, replacing estimate-based billing against arrears stated above 10 billion kwanzas](https://www.novojornal.co.ao/sociedade/detalhe/benguela-no-pre-pago-para-reduzir-desperdicio-de-agua-e-assegurar-pagamento-justo---projecto-absorve-usd-23-milhoes-74212.html).
 <!-- /narrative -->
 
 ## Technology

@@ -1,11 +1,11 @@
 ---
 title: Nigeria — monthly update, July – August 2026
-compiled: 2026-08-28
-period: 2026-07-01 to 2026-08-28
+compiled: 2026-08-29
+period: 2026-07-01 to 2026-08-29
 place: NGA
-ledger_rows: 167
+ledger_rows: 170
 not_held: 9
-record: 3e978b9e48ae
+record: 3deea7e117b5
 ---
 
 # Nigeria: monthly update, July – August 2026
@@ -111,6 +111,8 @@ Two build programmes put dates on themselves. The government says resource mobil
 The state also went back to orbit, and changed suppliers doing it. The Federal Executive Council [approved the acquisition and deployment of two high-throughput communications satellites, NIGCOMSAT-2A and 2B, to be built by Thales Alenia Space and Israel Aerospace Industries](https://saharareporters.com/2026/08/22/nigerian-government-approves-nigcomsat-2a-2b-satellites-expand-broadband-strengthen) on 22 August, with [NIGCOMSAT-2A due by the end of 2028 and 2B in 2029 or 2030 on the operator's own timetable](https://www.wearetech.africa/fr/fils/actualites/telecom/internet-le-nigeria-choisit-iai-et-thales-alenia-space-pour-acquerir-deux-nouveaux-satellites). The award [breaks with the Chinese partnership that built NigComSat-1, which failed in November 2008, and NigComSat-1R, launched in 2011 and approaching the end of its fifteen-year design life](https://www.wearetech.africa/fr/fils/actualites/telecom/internet-le-nigeria-choisit-iai-et-thales-alenia-space-pour-acquerir-deux-nouveaux-satellites), and sits alongside a January 2025 partnership with Eutelsat for low-earth-orbit services. No contract value is published and negotiation with the two manufacturers precedes manufacture.
 
 Beneath all of that the licensed retail-ISP market is a rounding error and is concentrating. Regulator data released on 25 August put [active licensed-ISP subscribers at 420,989 in June 2026, up 19.6% from 352,006 in December 2025, with three providers holding close to 70% of the market — Spectranet 111,384, Starlink 98,642 and FibreOne 56,486 — points of presence up from 2,508 to 2,893, and 126 of the 230 licensed ISPs reported to have a single active subscriber](https://techcabal.com/2026/08/27/three-companies-now-control-nearly-70-of-nigerias-isp-market/). The same data puts that whole market at [0.27% of the country's 156.4 million active internet subscriptions](https://techcabal.com/2026/08/27/three-companies-now-control-nearly-70-of-nigerias-isp-market/), which is the scale at which any argument about broadband competition here has to be read.
+
+Katsina State [began the last-mile stage of its fibre network, the state investment promotion agency coordinating with commercial providers to move from core installation to connections for homes, businesses and public facilities across all 34 local government areas, with right-of-way fees waived and a roadmap target of 2,000-3,000 km of fibre and 70 per cent broadband penetration](https://dailyquery.com.ng/connecting-the-future-katsina-state-launches-mass-fibre-optic-network-for-homes-and-businesses/) for which no date is given. The satellite programme got its financing shape: the operator [disclosed that NIGCOMSAT-2A and 2B will be vendor-financed and backed by export-import banks, with the amount official only once financing closes](https://nigeriacommunicationsweek.com.ng/2026/08/28/fg-taps-french-israeli-firms-to-build-new-satellites-for-nigeria).
 <!-- /narrative -->
 ### Data Storage
 
@@ -183,6 +185,8 @@ The withdrawn credit product came back on 24 August. The dominant operator [resu
 
 <!-- narrative: dpi--dpi-mis -->
 Federal [HR and payroll](https://fmino.gov.ng/fg-launches-ippis-human-resource-modules-deepens-digital-transformation-of-civil-service/) moved to a locally built platform across more than 508 ministries and more than 600,000 civil servants, justified explicitly as data sovereignty.
+
+The federal payroll is to be audited from the outside. The President [directed the finance minister on 28 August to coordinate a forensic audit of the integrated personnel and payroll information system and related payroll, pension and financial-management platforms - reconciling ghost-worker figures, tracing how ineligible persons were enrolled, reviewing access, identity, biometric and bank-account controls, and examining the interfaces with the financial management system and the Treasury Single Account](https://www.thisdaylive.com/2026/08/29/fake-agencies-tinubu-orders-forensic-sweep-of-ippis-ministries-fg-institutions/), alongside a definitive inventory of every federal agency and its legal basis.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
@@ -266,6 +270,8 @@ Nothing moved on the identity gender gap, on rural access, or on the schools pro
 
 <!-- narrative: data--data-statistics -->
 An inclusive-data initiative brought the national statistics office into a five-country programme.
+
+A state put a household survey at the centre of its budgeting. Katsina [launched six planning documents on 28 August, among them a General Household Survey Report and a State Statistical Yearbook covering poverty, employment, livelihoods, agriculture, education, healthcare, housing, water, sanitation and access to basic services across its 34 local government areas](https://www.vanguardngr.com/2026/08/radda-moves-katsina-to-data-driven-governance-targets-poverty-food-crisis/), the budget commissioner directing agencies to align their programmes to the new frameworks.
 <!-- /narrative -->
 
 ## Geopolitics

@@ -1,11 +1,11 @@
 ---
 title: South Africa — monthly update, July – August 2026
-compiled: 2026-08-28
-period: 2026-07-01 to 2026-08-28
+compiled: 2026-08-29
+period: 2026-07-01 to 2026-08-29
 place: ZAF
-ledger_rows: 122
+ledger_rows: 126
 not_held: 23
-record: 8bd96432b126
+record: 59ff0a57f933
 ---
 
 # South Africa: monthly update, July – August 2026
@@ -134,6 +134,8 @@ Home Affairs reported that its electronic travel authorisation had [refused more
 By mid-August the branch channel had a locator of its own. The department [launched a My Home Affairs Online portal on 17 August to help citizens find a participating branch, putting the network at 372 branches and more than half a million users to date](https://www.biometricupdate.com/202608/south-africa-advances-broader-digital-identity-and-public-services-ecosystem), and framing it with the electronic travel authorisation as a building block of the national digital public infrastructure roadmap. Its own downtime statement a week earlier put the branch count above 408; the two are not reconciled. The travel authorisation itself [drew industry questions over its R500 fee and the adequacy of consultation](https://www.tourismupdate.com/article/schreiber-faces-industry-questions-over-eta) after its airport launch.
 
 The draft digital-identity regulations drew their sharpest technical criticism yet. A published argument holds that they [under-specify verifier authentication, transparency about the purpose of a request, and enforcement of data minimisation](https://it-online.co.za/2026/08/11/share-doesnt-mean-surrender-when-it-comes-to-digital-id/), and urges binding rules requiring a requesting party to prove who it is, state why it is asking, and log every share — so that accountability falls on institutions rather than on the citizen who consented.
+
+The department put a number on the fraud it is chasing. The minister [said about 300,000 identity documents have been blocked behind court orders where duplicates or people illegally in the country were detected, that the great majority of identity-theft cases involve the manual green identity book still held by about 16 million people, and that the answer is expanding the smart card and the electronic travel authorisation](https://www.sundaytimes.timeslive.co.za/news/2026-08-27-home-affairs-blocks-300000-ids-amid-fraud-crackdown/).
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
@@ -171,6 +173,8 @@ The courts project went the other way. On 13 August the justice minister [referr
 Two services were told to integrate or to open. The Public Protector [found the student-aid scheme's systems insufficiently integrated with the home affairs, social security and revenue data it needs to verify students, and gave the board 30 days to produce a digital modernisation and systems-integration plan](https://www.itweb.co.za/article/nsfas-gets-30-days-to-shake-off-ict-limitations/KA3Ww7dzpAPqrydZ) covering verification interfaces, fraud controls, the elimination of duplicate applications and manual workarounds, case tracking and costed milestones; the [report records that the scheme cannot resolve 80% of contact-centre queries without internal escalation](https://www.itweb.co.za/article/nsfas-gets-30-days-to-shake-off-ict-limitations/KA3Ww7dzpAPqrydZ). In the Western Cape the province [opened free access for small businesses to a private funding-matching platform covering over 300 funders and 600 finance products](https://startupmag.co.za/2026/08/western-cape-launches-free-digital-funding-platform-for-small-businesses/), against the platform's own finding that 65.3% of provincial applicants cannot supply their latest financial statements.
 
 The month's longest departmental procurement went to the least connected population in the country. Correctional services [advertised a fifteen-year tender for an inmate communication system across 243 centres, replacing copper telephony that has deteriorated beyond support for about 166,000 inmates](https://www.itweb.co.za/article/top-ict-tenders-inmates-to-get-telecoms-upgrade/KzQenvjyx98qZd2r), the appointed supplier to design, install, integrate, operate and maintain it and to tie it to the inmate cash system so that airtime is bought from prisoners' own balances, with monitoring, recording, data storage, security and compliance in scope. No contract value is published and [bids close on 14 September](https://www.itweb.co.za/article/top-ict-tenders-inmates-to-get-telecoms-upgrade/KzQenvjyx98qZd2r), so nothing is awarded.
+
+The social security agency [opened a messaging self-service channel letting a grant beneficiary check application status, review status and proof-of-life verification without visiting an office, after verification by mobile number, one-time PIN and identity number](https://www.citizen.co.za/alberton-record/news-headlines/local-news/2026/08/28/sassa-rolls-out-whatsapp-self-service-for-grant-beneficiaries/); no usage figure is published.
 <!-- /narrative -->
 
 ## Digitalisation
@@ -181,6 +185,8 @@ The month's longest departmental procurement went to the least connected populat
 Nothing moved at a municipality this month. What the record gained is the rule the municipal programmes are obliged to work to: the national archives' [standing guidance on managing electronic records](https://www.nationalarchives.gov.za/node/1225) is now held, having been cited by none of the digitisation programmes this ledger tracks.
 
 That is an addition to the record rather than a development. No compliance assessment against the guidance appears for any municipality, and the two metro programmes on this ledger — a records digitisation rollout reported to the National Council of Provinces and an electronic records system awarded on a three-year term — both predate this window and are carried in the progress report.
+
+Two municipal items, one opening a counter and one pricing the problem. Home Affairs [opened an appointment-only office inside the Cape Town Civic Centre on 24 August, which the city describes as the first municipal facility to host a national home affairs office; 148 people applied on the opening day, and Atlantis is named next](https://www.timeslive.co.za/news/south-africa/2026-08-24-cape-town-residents-get-a-new-way-to-beat-home-affairs-queues/). The local government association [issued a request for proposal for consultants to build a municipal revenue management plan across the 257 municipalities it represents, putting consumer debt at about R467.2bn, municipalities' own debt to creditors at about R160.8bn, and annual water and electricity revenue loss at about R25bn from leaks, theft, illegal connections and weaknesses in metering and billing](https://www.sundaytimes.timeslive.co.za/news/2026-08-24-salga-needs-consultants-help-to-fix-almost-r500bn-municipal-debt/).
 <!-- /narrative -->
 
 ## Technology

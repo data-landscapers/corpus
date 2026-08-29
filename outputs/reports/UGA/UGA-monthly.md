@@ -1,11 +1,11 @@
 ---
 title: Uganda — monthly update, July – August 2026
-compiled: 2026-08-28
-period: 2026-07-01 to 2026-08-28
+compiled: 2026-08-29
+period: 2026-07-01 to 2026-08-29
 place: UGA
-ledger_rows: 83
+ledger_rows: 85
 not_held: 16
-record: 0663ae5847ea
+record: e8e0607509d2
 ---
 
 # Uganda: monthly update, July – August 2026
@@ -107,6 +107,8 @@ The ICT ministry [launched an updated national information security framework on
 On 17 July the regulator opened work on a [national anti-piracy coordination framework](https://techafricanews.com/2026/07/17/ucc-leads-national-push-against-digital-piracy-to-protect-creative-economy/) with broadcasters, three mobile operators, the revenue authority and the registration bureau. Legitimate pay-television subscriptions were [given as about 800,000 in March 2026 against about 1.65 million in 2021](https://techafricanews.com/2026/07/17/ucc-leads-national-push-against-digital-piracy-to-protect-creative-economy/). Dynamic address and name-resolution blocking is under exploration, and participants at the convening raised the dual use of blocking infrastructure built for piracy.
 
 Two accounts in August put the threat above the response. A continental police assessment [attributes over US$2m of losses to a single Ugandan deepfake investment scam](https://techcabal.com/2026/08/13/africa-cybercriminals-adopting-ai-institutions-them/), against 8% of intelligence analysts recorded as having advanced artificial-intelligence expertise and 94% of agencies as lacking digital forensics tools. At the communications regulator's first national cybersecurity conference on 13 August, an operator [called for fraud protection to be built into digital-finance products and described an interface letting banks check for recent SIM-swap activity before processing a transaction](https://techafricanews.com/2026/08/13/airtel-urges-ugandas-digital-finance-sector-to-build-fraud-protection-into-products/); no uptake figure for the interface is published. The central bank separately told a conference that [cybersecurity is now a national security issue](https://www.newvision.co.ug/category/news/cybersecurity-now-a-national-security-issue-s-NV_238608_082026).
+
+The criminal investigations directorate [told a parliamentary committee inspection that its Crime Data Centre, originally due earlier, is now targeted for March 2027, that it will recruit internally to close an investigator shortage, and that it wants government and security databases integrated so detectives can link suspects, incidents and evidence quickly](https://nilepost.co.ug/news/367069/cid-seeks-more-investigators-as-criminals-shift-to-digital-spaces) - integration its director said would first require agreement on the legal and policy frameworks governing access.
 <!-- /narrative -->
 
 ## DPI
@@ -131,6 +133,8 @@ The scale underneath all of it is in the regulator's quarterly report: [2.55 bil
 
 
 A fourth arrangement opened on 19 August, and it is card rather than wallet: a commercial bank and an international scheme [opened online acceptance of that scheme's cards to participating merchants in nine African markets including Uganda](https://techafricanews.com/2026/08/19/unionpay-and-standard-bank-expand-e-commerce-acceptance-across-nine-african-markets/), settling in local currency, US dollars or both. The merchant count is given for the nine markets together.
+
+A parliamentary committee found the expressway concession still running on cash. Its report of 25 August [recommends that the revenue authority take over toll collection and introduce electronic payment, calls for a forensic audit of the concession's operations and revenue collections, and asks for scrutiny of a reported UGX 36 billion contract extension](https://www.newvision.co.ug/category/news/mps-want-ura-to-take-over-toll-collections-of-NV_239482_082026); the ICT minister of state told the House that the operator has never given government the source code or password of the system.
 <!-- /narrative -->
 ### Registries
 

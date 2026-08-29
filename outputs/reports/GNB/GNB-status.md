@@ -1,15 +1,15 @@
 ---
 title: Guinea-Bissau — digital transformation and data governance status report
-compiled: 2026-08-27
+compiled: 2026-08-29
 place: GNB
-ledger_rows: 38
+ledger_rows: 39
 not_held: 1
-record: 17152131dc19
+record: 51edf071d246
 ---
 
 # Guinea-Bissau: status report
 
-*Compiled 2026-08-27 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/GNB/ledger.csv` (38 systems and instruments, 1 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-29 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/GNB/ledger.csv` (39 systems and instruments, 1 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -76,6 +76,7 @@ Guinea-Bissau's tracked development finance is concentrated in three instruments
 
 | System or instrument | Status | Milestone |
 |---|---|---|
+| .GW country-code top-level domain | [Implemented](https://ang.gw/arn-nic-gw-guine-bissau-passa-a-permitir-registo-de-dominios-gw-com-caracteres-acentuados/) | Internationalised domain names supported from 2026-06-05 |
 | ACE (Africa Coast to Europe) submarine cable landing | [Implemented](https://www.agenceecofin.com/actualites-numerique/2908-131059-deploiement-de-la-fibre-optique-la-guinee-bissau-veut-apprendre-du-tchad) | Guinea-Bissau connects to its first international submarine fibre-optic cable (ACE) |
 | Starlink satellite internet service | [Implemented](https://arn.gw/arn-tic-concede-autorizacao-geral-provisoria-a-starlink-guine-bissau/) | Commercial launch |
 | WARDIP-GB National Fibre-Optic Backbone | [In development](https://ang.gw/guine-bissau-nao-pode-perder-o-comboio-da-modernizacao-tecnologica-diz-presidente-da-republica/) | EIASS environmental and social safeguards study published, moving toward implementation |

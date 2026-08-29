@@ -1,15 +1,15 @@
 ---
 title: Burundi — digital transformation and data governance status report
-compiled: 2026-08-27
+compiled: 2026-08-29
 place: BDI
-ledger_rows: 67
+ledger_rows: 68
 not_held: 10
-record: 820a3b24261b
+record: 15ca7c43139a
 ---
 
 # Burundi: status report
 
-*Compiled 2026-08-27 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/BDI/ledger.csv` (67 systems and instruments, 10 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-29 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/BDI/ledger.csv` (68 systems and instruments, 10 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -36,6 +36,7 @@ Against that, [ARCT says internet quality is degraded and traces it mainly to th
 |---|---|---|
 | Access to information bill | [Planned](https://lerenouveau.bi/assemblee-nationale-ouverture-de-la-session-parlementaire-ordinaire-daout-2026/) | Listed on the National Assembly's order paper for the session opened 3 August 2026 |
 | Anti-money-laundering and counter-terrorist-financing regime | [Enacted](https://www.burunditimes.com/burundi-modernizes-financial-crime-defense-as-central-bank-issues-new-aml-cft-rules/) | Five central bank circulars issued, FATF-aligned |
+| Law regulating social-media influencers and content creators | [In development](https://www.burunditimes.com/burundi-begins-talks-on-new-law-for-social-media-influencers/) | Consultation workshop held 2026-08-26 |
 
 ### Data protection
 

@@ -1,11 +1,11 @@
 ---
 title: DR Congo — monthly update, July – August 2026
-compiled: 2026-08-27
-period: 2026-07-01 to 2026-08-27
+compiled: 2026-08-29
+period: 2026-07-01 to 2026-08-29
 place: COD
-ledger_rows: 60
+ledger_rows: 61
 not_held: 13
-record: d734878915f5
+record: 413943c860b6
 ---
 
 # DR Congo: monthly update, July – August 2026
@@ -182,6 +182,8 @@ A [campaign to publicise the digital code launched in Kinshasa on 6 August, mobi
 The employment office launched a [portal and mobile application in July](https://rdc-monde.com/onem-lancement-dune-application-numerique-mikuba-pour-mieux-cartographier-les-competences-et-les-besoins-des-entreprises/) on which jobseekers register skills and employers post needs, intended to build a national skills database. It was externally financed, and no user or placement figure is held.
 
 The digital economy ministry [opened the first of a planned series of five-day training sessions for 580 of its own agents and managers](https://actu7.cd/2026/08/24/le-ministere-de-leconomie-numerique-lance-la-premiere-session-de-formation-de-pres-de-600-agents-et-cadres-de-son-administration/) at the INPES in Kinshasa on 24 August 2026. No curriculum, completion target or budget line is published.
+
+The land ministry [closed a roughly month-long course for 50 conservators of property titles on 25 August, drawn from several provinces and run with the national school of administration as part of a capacity-building programme under the land reform](https://actualite.cd/2026/08/25/rdc-oneige-nsele-cloture-la-formation-de-50-conservateurs-des-titres-immobiliers-pour), setting it alongside archiving operations already running in seven pilot land districts of Kinshasa; no further wave or provincial timetable is stated.
 <!-- /narrative -->
 
 ## Inclusion

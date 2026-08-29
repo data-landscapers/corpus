@@ -1,15 +1,15 @@
 ---
 title: Comoros — digital transformation and data governance status report
-compiled: 2026-08-28
+compiled: 2026-08-29
 place: COM
-ledger_rows: 113
+ledger_rows: 114
 not_held: 35
-record: 18204192857f
+record: 924836a84310
 ---
 
 # Comoros: status report
 
-*Compiled 2026-08-28 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/COM/ledger.csv` (113 systems and instruments, 35 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-29 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/COM/ledger.csv` (114 systems and instruments, 35 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -202,6 +202,7 @@ Infrastructure is thinly evidenced in both directions. The one built asset is th
 
 | System or instrument | Status | Milestone |
 |---|---|---|
+| Cschool school-management platform | [Implemented](https://alwatwan.net/societe/transformation-num%C3%A9rique-i-abdoul-wahid-hassani-lance-officiellement-%C2%ABcschool%C2%BB.html) | Launched 2026-08-25 |
 | Digital data capture in national health campaigns | [Implemented, a single campaign](https://www.wearetech.africa/en/fils-uk/news/tech/comoros-goes-digital-in-measles-rubella-drive-to-vaccinate-101-000-children) | First use in a national campaign, launched 2025-10-04 |
 | School records and digital textbook platforms | [Piloting](https://www.lagazettedescomores.com/soci%C3%A9t%C3%A9/digitalisation-de-l%E2%80%99enseignement-les-comores-passent-%C3%A0-l%E2%80%99%C3%A8re-du-num%C3%A9rique-avec-e-msomo-et-e-shiyo-.html) | Launched 2025-06-05 at a primary school |
 | Education management information system beyond the pilot | ***Not held*** | — |

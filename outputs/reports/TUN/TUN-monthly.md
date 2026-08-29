@@ -1,11 +1,11 @@
 ---
 title: Tunisia — monthly update, July – August 2026
-compiled: 2026-08-28
-period: 2026-07-01 to 2026-08-28
+compiled: 2026-08-29
+period: 2026-07-01 to 2026-08-29
 place: TUN
-ledger_rows: 41
+ledger_rows: 43
 not_held: 9
-record: a83cfe7b3235
+record: e39a7ec2d50b
 ---
 
 # Tunisia: monthly update, July – August 2026
@@ -24,6 +24,8 @@ On 1 July digital identity stopped being optional for two classes of user, and o
 
 <!-- narrative: governance--gov-policy -->
 Policy movement in the window was a meeting rather than an instrument. The head of government [chaired a ministerial council devoted to digitalisation, stating that it is a necessity rather than a choice](https://pm.gov.tn/fr/decision-gouvernementale/zenzri-lors-dun-conseil-ministeriel-la-digitalisation-nest-pas-un-choix). The council's decisions are not itemised in the record held, so what the base can carry is the fact that it met and the framing it used.
+
+The customs administration [settled a 2026-2030 strategic plan built around digitisation, presented with a governance charter, its axes covering border protection, an environment for attracting foreign investment, revenue collection, working methods and social responsibility](https://www.alchourouk.com/article/%D8%A7%D9%84%D8%AF%D9%8A%D9%88%D8%A7%D9%86%D8%A9-%D8%AA%D8%B6%D8%A8%D8%B7-%D9%85%D8%AE%D8%B7%D8%B7%D9%87%D8%A7-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A-2026-2030); the plan document itself is not published.
 <!-- /narrative -->
 ### Legislation and regulation
 
@@ -111,6 +113,8 @@ Six days before the health identifier's provenance became public, the ministry h
 Two more registers moved. The employment ministry [launched the national register of community companies on 20 July 2026](https://www.nessma.tv/fr/economie/actu/lancement-du-registre-national-des-societes-communautaires-pour-impulser-le-developpement-local/560812), and the launch figures were the disclosure: 230 companies created, 15,000 participants, but only 60 operational and 380 jobs. On [4 August the tax directorate put business tax registration online](https://www.lapresse.tn/2026/08/04/patente-en-ligne-la-direction-generale-des-impots-lance-sa-nouvelle-plateforme-numerique/), ending the required visit to a tax office; it was announced by video capsule rather than by gazette, and its confidentiality assurance names no instrument and no supervisory authority.
 
 A restricted ministerial council of 16 August put a count on the rest: [114 projects in execution, some reported above 90% complete](https://africanmanager.com/transformation-numerique-114-projets-en-cours-et-lancement-imminent-de-lapplication-khadamet/), covering remote residence certificates, driving-licence renewal, remote passport and identity-card applications, the national health identifier and the customs and health-insurance systems. It is not the same measure as the 192 projects the February council tracked, and the two should not be read as a fall. The council also announced [the imminent launch of a Khadamet mobile application offering more than 40 administrative services, reached through the national digital identity and paid by card or virtual wallet](https://africanmanager.com/transformation-numerique-114-projets-en-cours-et-lancement-imminent-de-lapplication-khadamet/). No launch date was given, and the application sits on top of the existing administrative portal of the same name rather than replacing it.
+
+The industry ministry [opened a unified digital services platform on 28 August, its first online service the technical cards governing effective transfer operations - more than 4,000 a year - filed and processed entirely online and interconnected with customs so data is exchanged and decisions notified in real time](https://www.alchourouk.com/article/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D8%A9-%D8%AA%D8%B7%D9%84%D9%82-%D9%85%D9%86%D8%B5%D8%AA%D9%87%D8%A7-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D9%88%D8%AA%D8%B6%D8%B9-%D8%A3%D9%88%D9%84%D9%89-%D8%AE%D8%AF%D9%85%D8%A7%D8%AA%D9%87%D8%A7-%D8%A7%D9%84%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A9-%D8%AD%D9%8A%D9%91%D8%B2-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%BA%D9%84%D8%A7%D9%84), running on the national digital identity mechanisms and linked to the enterprise register, with import authorisations, an olive oil promotion fund and establishment licences to follow.
 <!-- /narrative -->
 
 ## Technology

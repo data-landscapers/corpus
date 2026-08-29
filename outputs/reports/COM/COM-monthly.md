@@ -1,11 +1,11 @@
 ---
 title: Comoros — monthly update, July – August 2026
-compiled: 2026-08-28
-period: 2026-07-01 to 2026-08-28
+compiled: 2026-08-29
+period: 2026-07-01 to 2026-08-29
 place: COM
-ledger_rows: 13
+ledger_rows: 14
 not_held: 35
-record: 64d282f65982
+record: ee8422527570
 ---
 
 # Comoros: monthly update, July – August 2026
@@ -54,6 +54,12 @@ A fault between the mobile-money service and the utility's prepaid electricity m
 
 <!-- narrative: dpi--dpi-registry -->
 The Registre social unique (RSU) reported [62,000 households enrolled as of 10 July 2026](https://lagazettedescomores.com/soci%C3%A9t%C3%A9/registre-social-unique-62-000-m%C3%A9nages-d%C3%A9j%C3%A0-enregistr%C3%A9s-.html), a figure the World Bank's Comoros representative, Amada Aida, called the most complete socio-economic database ever built in the country. The registry was created by decree n°20-090/PR of 23 June 2020 and is intended as the reference base for targeting social-protection programmes. No participation rate against a national household count and no completion date is stated in the account. The civil-registry programme beside it was priced rather than advanced: a consultant recruited by the children's fund [put the residual financing need for the reform at EUR 9,009,900 at a presentation in Moroni on 14 August](http://comoresdroit.centerblog.net/3012-la-modernisation-de-l-etat-civil-un-chantier-strategique), ahead of an international resource-mobilisation mission and a partners' conference. None of it is committed on the record.
+<!-- /narrative -->
+### Sectoral management information systems
+
+<!-- narrative: dpi--dpi-mis -->
+
+The base holds one movement on school records this window, and it is private rather than ministerial. Cschool, a school-management platform built to centralise pupil enrolment, report cards, examinations, financial tracking, parent communication and online payment of fees, [was launched at Comor'Lab on 25 August](https://alwatwan.net/societe/transformation-num%C3%A9rique-i-abdoul-wahid-hassani-lance-officiellement-%C2%ABcschool%C2%BB.html); no adoption decision, procurement route or school count is stated, and the hosting association's call for the education ministry to require interoperability with existing systems drew no answer on adoption.
 <!-- /narrative -->
 
 ## Technology

@@ -1,15 +1,15 @@
 ---
 title: Gambia — digital transformation and data governance status report
-compiled: 2026-08-27
+compiled: 2026-08-29
 place: GMB
 ledger_rows: 68
 not_held: 13
-record: 34afb8aabd15
+record: 8607fdc38ddc
 ---
 
 # Gambia: status report
 
-*Compiled 2026-08-27 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/GMB/ledger.csv` (68 systems and instruments, 13 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-29 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/GMB/ledger.csv` (68 systems and instruments, 13 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -155,7 +155,7 @@ Satellite access is unresolved. The Minister of Digital Economy said on [24 May 
 | System or instrument | Status | Milestone |
 |---|---|---|
 | Margins ID national identity contract | [Implemented](https://thepoint.gm/africa/gambia/headlines/govt-signs-id-card-deal-with-margins-id-systems-applications-ltd) | Signed by the Ministry of Interior with Margins ID Systems Applications, 21 January 2026 |
-| National Identity Management System (GAM ID) | [Implemented](https://standard.gm/new-biometric-id-card-issuance-starts/) | First phase of public registration and issuance for citizens aged eighteen and over began 4 August 2026 |
+| National Identity Management System (GAM ID) | [Implemented](https://thepoint.gm/africa/gambia/headlines/govt-launches-first-phase-of-new-biometric-national-id-card-rollout) | Phased rollout calendar and fee published, 2026-08-25 |
 
 ### Digital Payments and Fintech
 

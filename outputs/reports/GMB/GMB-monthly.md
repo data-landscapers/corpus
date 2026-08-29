@@ -1,11 +1,11 @@
 ---
 title: Gambia — monthly update, July – August 2026
-compiled: 2026-08-27
-period: 2026-07-01 to 2026-08-27
+compiled: 2026-08-29
+period: 2026-07-01 to 2026-08-29
 place: GMB
 ledger_rows: 30
 not_held: 13
-record: cab2f966ffea
+record: 1efa63cbc2ee
 ---
 
 # Gambia: monthly update, July – August 2026
@@ -69,6 +69,8 @@ Cross-border exchange moved further than domestic exchange did. At Saly on [16-1
 
 <!-- narrative: dpi--dpi-id -->
 The [National Identity Management System went live on 1 July 2026](https://standard.gm/barrow-inaugurates-national-data-centre-digital-identity-system/), issuing GAM ID cards on the spot, with nationwide enrolment from 4 August 2026. On 7 August the interior ministry [began a nationwide rollout of new ten-year biometric national identity cards, with registration opening simultaneously at six centres](https://www.voicegambia.com/gambia-rolls-out-new-10-year-national-identity-cards/), produced with a Ghana-based supplier. No enrolment or issuance figure has been published since launch, so the system's reach is unestablished.
+
+The rollout got the calendar the base had been missing. The government [published the phased schedule and fee structure: registration extends to Sibanor and Jarra Soma on 7 September, to Barra, Kerewan, Farafenni and Kaur on 11 September and to Janjanbureh, Basse and Fatoto on 21 September, with a first-time card at D450 waived during the rollout for holders of a valid immigration department card](https://thepoint.gm/africa/gambia/headlines/govt-launches-first-phase-of-new-biometric-national-id-card-rollout). An applicant with no passport, birth certificate or prior document must be vouched for by both the Alkalo and the Seyfo of their place of residence.
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
