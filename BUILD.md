@@ -90,6 +90,8 @@ python scripts/lint-scope.py                               # the whole backlog
    - *mints a row* — a named system or instrument the ledger lacks, passing the row test;
    - *settles a **Not held** row* — strike it from `gaps.csv`, give it a status;
    - *default: nothing moves* — most sources report activity, not movement. Do **not** attach a slug to a row that did not move.
+   **A row that moves or is minted is then mapped**, in `outputs/reports/{ISO3}/indicators.csv` — the progress report renders from the indicator frame and not from the ledger, so a ledger the build moves and an `indicators.csv` it does not leaves that document stating a position the base no longer holds. `documentation/indicator-mapping-conventions.md` is the procedure and `progress-report-redesign.md` §3 the vocabulary; the file is maintained like the ledger, never rebuilt. Checks I and L in step 6 test the frame's own consistency, not whether the mapping was done — that is this step's.
+
 3. **Ask the same source the baseline question** — see *Maintaining the status baseline* below. Asked of the record already open, independent of step 2.
 4. **Mark every slug read**, moved or not: `python scripts/report-scan.py --mark {ISO3} <slugs>`. (Sources on `origin_status: hold` are dropped by the script — pass them in regardless.)
 5. **Rebuild the unit's documents**: `--doc all`. The renderer decides which documents the unit issues — a region issues the progress report only; a unit whose status report carries `built_by: STATUS-INIT` does not issue a rendered status report — so this line is the same on every unit. A build that changes nothing prints `unchanged`.
