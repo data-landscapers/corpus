@@ -1,11 +1,11 @@
 ---
 title: Libya — monthly update, July – August 2026
-compiled: 2026-08-27
-period: 2026-07-01 to 2026-08-27
+compiled: 2026-08-29
+period: 2026-07-01 to 2026-08-29
 place: LBY
-ledger_rows: 35
+ledger_rows: 37
 not_held: 7
-record: afbeacc365cb
+record: 4dc5e605de29
 ---
 
 # Libya: monthly update, July – August 2026
@@ -81,6 +81,8 @@ The government issued [Decision No. 348 of 2026 on 17 July](https://libyaherald.
 
 <!-- narrative: dpi--dpi-id -->
 The national digital identity's [biometric tier is in technical trials with the central bank and several banks, ahead of integration into banking know-your-customer checks](https://www.gia.gov.ly/en/2026/07/09/the-general-information-authority-participates-in-a-national-workshop-to-enhance-information-exchange-in-combating-money-laundering-and-terrorism-financing/). The [same system is named differently in the authority's own April and July releases](https://www.gia.gov.ly/en/2026/04/19/general-information-authority-central-bank-of-libya-national-authority-for-combating-money-laundering-with-the-relevant-authorities/), which is the only naming the base has for it.
+
+An independent count put a figure on what the enforcement is chasing. A data analysis built on 66 official publications of the Attorney General's office to April 2026 [found 278,969 nationality files exposed to forgery over a 43-year window, with 10,620 families and more than 4,000 individuals implicated, and named five mechanisms from insertion of records into family registers to direct manipulation of the registry database](https://alwasat.ly/news/475886).
 <!-- /narrative -->
 ### Digital Payments and Fintech
 
@@ -91,6 +93,8 @@ On 30 July the Central Bank said it had received July disbursement authorisation
 
 <!-- narrative: dpi--dpi-registry -->
 On 3 August the interior and labour ministries [agreed in Benghazi to create a unified national database of expatriate workers](https://www.lananews.com/ar/?p=499082) and a dedicated electronic platform, citing Labour Relations Law No. 12 of 2010 and Law No. 24 of 2023, together with joint ministerial committees and joint inspection campaigns drawing in passport investigations.
+
+The health ministry's registration portal reported its first numbers. PharmaGate [has registered 131 local and 53 foreign pharmaceutical companies and is being extended to the products themselves, confining attendance at the ministry to the final stage and licence collection](https://libyaherald.com/2026/08/ministry-of-health-developing-its-pharmagate-system-to-regulate-register-pharmaceutical-companies).
 <!-- /narrative -->
 ### Sectoral management information systems
 

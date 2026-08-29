@@ -1,11 +1,11 @@
 ---
 title: Mauritania — monthly update, July – August 2026
-compiled: 2026-08-26
-period: 2026-07-01 to 2026-08-26
+compiled: 2026-08-29
+period: 2026-07-01 to 2026-08-29
 place: MRT
-ledger_rows: 22
+ledger_rows: 25
 not_held: 4
-record: 8c4bee2324ba
+record: 6504ead12f72
 ---
 
 # Mauritania: monthly update, July – August 2026
@@ -73,6 +73,8 @@ The identity application is now load-bearing, and the month showed what that mea
 
 <!-- narrative: dpi--dpi-registry -->
 The consular-services platform launched 9 July 2026 [built a unified digital consular registry](https://www.wearetech.africa/en/fils-uk/news/public-management/mauritania-launches-digital-consular-services-platform-for-citizens-abroad), compiled by diaspora engineers after consultations in 22 countries.
+
+The Council of Ministers adopted two registry decrees on 27 August. One [builds a secured national information system for the central criminal-record register, wiring courts, prosecution offices and central services together electronically](https://www.ami.mr/archives/267317); the other [establishes the referentiel national numerique des donnees foncieres et cadastrales as the state's authoritative source of cadastral data, with a permanent unique identifier for every parcel, the minister stating that no integrated cadastral survey system meeting these requirements has existed](https://www.ami.mr/archives/267317).
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
@@ -94,6 +96,8 @@ Separately the state is preparing to [recruit 3,852 education-sector agents thro
 
 <!-- narrative: capacity--capacity-training -->
 The Ministry of Vocational Training [launched a digital-employability project on 23 July](https://www.ami.mr/archives/264918) financed by France's Fonds Équipe France and implemented by Simplon: 2,150 beneficiaries across six cities, about 2,000 of them young people, with a stated focus on women and people with disabilities. It succeeds a programme closed in 2025.
+
+The university opened the first edition of a summer school on language models for low-resource African languages at Nouadhibou on 25 August, [taking participants from corpus construction and semantic annotation through model adaptation and evaluation to prototypes in translation and conversational assistants](https://www.ami.mr/archives/267189).
 <!-- /narrative -->
 
 ## Data

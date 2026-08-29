@@ -1,11 +1,11 @@
 ---
 title: Tanzania — monthly update, July – August 2026
-compiled: 2026-08-28
-period: 2026-07-01 to 2026-08-28
+compiled: 2026-08-29
+period: 2026-07-01 to 2026-08-29
 place: TZA
-ledger_rows: 84
+ledger_rows: 87
 not_held: 13
-record: 12e7275a2b5b
+record: 1a9ab7681ba4
 ---
 
 # Tanzania: monthly update, July – August 2026
@@ -44,6 +44,8 @@ The legislative response to all of this is a review rather than a bill. The gove
 The data protection commission and the open university [opened a certification programme for data protection officers on 14 July](https://mediawireexpress.co.tz/out-pdpc-launch-national-data-protection-programme/), the university training and assessing and the commission certifying, aimed at government, finance, telecommunications, healthcare, education and technology. It answers the statutory officer duty; no intake number, fee or cohort date was published.
 
 A separate rule pulls in the other direction. Businesses selling on social media must now [display tax credentials — a taxpayer identification number, tax clearance certificate or certificate of registration — on their public pages](https://www.thecitizen.co.tz/tanzania/news/national/tanzania-s-new-social-media-tax-rule-for-businesses-sparks-privacy-and-cybersecurity-fears-5555022), and digital creators and online traders have objected that publishing those credentials exposes them to impersonation and fraud (12 August). The objections are those of named creators and traders reported by the paper rather than a regulator finding; no data-protection assessment or redress route is published.
+
+The regulator set a date for the enforcement it announced in April. On-site inspections [begin on 31 August, after preliminary assessment found limited understanding of legal obligations, inaccurate registration information, difficulty implementing data-subject rights and personal data leaving the country outside the statutory procedure](https://www.thecitizen.co.tz/tanzania/news/national/data-protection-regulator-begins-compliance-crackdown-5574710).
 <!-- /narrative -->
 ### Standards
 
@@ -135,6 +137,8 @@ August supplied the adoption side of the same picture, from two directions. The 
 
 
 Acceptance widened from outside as well. A commercial bank and an international card scheme [opened online acceptance of that scheme's cards to participating merchants in nine African markets including Tanzania on 19 August](https://techafricanews.com/2026/08/19/unionpay-and-standard-bank-expand-e-commerce-acceptance-across-nine-african-markets/), settling in local currency, US dollars or both; the merchant count is given for the nine markets together and not for Tanzania.
+
+Zanzibar moved a fare box onto a wallet. Fares on the fifteen electric buses that entered commercial service on 1 August [are paid by smart card through a single mobile-money platform at Sh700 a journey and Sh350 for students and passengers over 70, the same platform carrying municipal parking fees, traffic fines and state payments to clove farmers](https://www.thecitizen.co.tz/tanzania/zanzibar/zanzibar-shifts-quietly-from-cash-to-fast-digital-payment-systems-5572738).
 <!-- /narrative -->
 ### Registries
 
@@ -156,6 +160,8 @@ The state's own asset record is being enforced rather than built. The finance mi
 The central bank [launched a sovereign yield curve system on 7 August](https://www.mwananchi.co.tz/mw/habari/biashara/bot-yaja-na-mfumo-kuongeza-wawekeza-dhamana-za-serikali-5549792), letting investors compare secondary-market government-security returns against domestic and international alternatives before investing. [Retail participation stands at 32,631 investors against 897 in 2016](https://www.mwananchi.co.tz/mw/habari/biashara/bot-yaja-na-mfumo-kuongeza-wawekeza-dhamana-za-serikali-5549792), on the governor's own figures given at the launch.
 
 Upstream of any single system, German cooperation [tendered a consultancy on 5 August to identify and prepare bankable digital public infrastructure projects across Tanzania, Kenya and Uganda](https://www.gtai.de/de/trade/tansania/ausschreibungen-projekte/consulting-digitale-oeffentliche-infrastrukturprojekte-ostafrika--2018684) — identity, data exchange, payments and e-government — under the European programme with the East African Community. A procurement notice fixes the consultancy and nothing about any project it may produce; neither value nor duration is stated.
+
+The commodity exchange took its first crop online. The cereals regulator [sold 335,238 kilogrammes of white maize in Rukwa Region in a first phase run on a digital trading system, with the mercantile exchange, the warehouse receipts board and the cooperative development commission joining the sale and an accredited laboratory testing aflatoxin and moisture before bidding](https://www.thecitizen.co.tz/tanzania/business/tanzania-makes-history-with-first-ever-digital-white-maize-auction-5572996); further phases are unannounced.
 <!-- /narrative -->
 
 ## Digitalisation

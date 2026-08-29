@@ -1,11 +1,11 @@
 ---
 title: Mozambique — monthly update, July – August 2026
-compiled: 2026-08-28
-period: 2026-07-01 to 2026-08-28
+compiled: 2026-08-29
+period: 2026-07-01 to 2026-08-29
 place: MOZ
-ledger_rows: 77
+ledger_rows: 79
 not_held: 19
-record: 496ca7928f56
+record: 7013029ee5bf
 ---
 
 # Mozambique: monthly update, July – August 2026
@@ -41,6 +41,8 @@ In August the institute set out what is still missing and what is coming. Its bo
 A new Telecommunications and Scarce Resources Licensing Regulation, adopted by decree, [lets the regulator convert operators' fines into universal-service obligations](https://www.agenceecofin.com/actualites-numerique/2608-141049-mozambique-les-amendes-telecoms-financent-desormais-l-inclusion-numerique) â€” turning a penalty into a coverage commitment. No decree number, entry-into-force date or first conversion is on file.
 
 The regulator's own account of the new licensing regulation is now held, settling the instrument the earlier report named without citing: [Decree 36/2026 on the licensing of telecommunications and scarce resources](https://www.incm.gov.mz/2026/08/21/licenciamento_telecomunicacoes_recursos_escassos/).
+
+Two instruments moved on the same week, one drafting and one made. The labour ministry and the ICT institute [met on 27 August on a targeted Labour Law revision to cover work carried out through digital platforms, with classification of the employment relationship, identifying the employer behind a platform, inspection and algorithmic transparency named as the open questions](https://clubofmozambique.com/news/mozambique-labour-law-review-debates-protection-of-digital-platform-workers-intic/) and no draft text or timetable stated. The Press and Media Law, Law No. 19/2026, [was presented publicly from 28 August for entry into force in December, bringing online-only publications inside the media framework and capping direct and indirect foreign capital in a media organisation at 35 per cent](https://clubofmozambique.com/news/mozambiques-press-and-media-law-caps-foreign-ownership-at-35/), replacing a law in force since 1991.
 <!-- /narrative -->
 ### Data protection
 

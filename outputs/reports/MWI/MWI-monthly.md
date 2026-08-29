@@ -1,11 +1,11 @@
 ---
 title: Malawi — monthly update, July – August 2026
-compiled: 2026-08-27
-period: 2026-07-01 to 2026-08-27
+compiled: 2026-08-29
+period: 2026-07-01 to 2026-08-29
 place: MWI
-ledger_rows: 62
+ledger_rows: 64
 not_held: 57
-record: 7315248ed6c0
+record: ba19dcf069f5
 ---
 
 # Malawi: monthly update, July – August 2026
@@ -26,6 +26,8 @@ The month also produced the clearest statement yet of what local-government digi
 
 <!-- narrative: governance--gov-policy -->
 The draft national artificial intelligence strategy the UNESCO readiness assessment is intended to guide remains pre-adoption.
+
+The revenue authority launched a five-year Corporate Strategic Plan in Blantyre on 24 August, [resting on a wider tax base, digitisation and evidence-based research and targeting a rise in the tax-to-GDP ratio from 16 per cent towards 20 per cent by 2031](https://malawi24.com/2026/08/25/mra-strategy-plan-targets-stronger-domestic-revenue-for-malawi/), the finance minister framing domestic taxation as the route left by falling donor support and shrinking customs revenue.
 <!-- /narrative -->
 ### Legislation and regulation
 
@@ -70,6 +72,8 @@ The communications regulator found both mobile operators in breach of the tariff
 The ICT minister told Parliament on 17 July that additional mobile operator licences are under consideration, and on 24 July that the President had authorised the ministry to identify an investor able to roll out a network without delay; no bid timetable, licence terms or spectrum allocation was stated. The minister also told the House that spectrum licence fees had been reduced by 50%, against the 20% the regulator announced in June 2025 ([parliamentary account](https://www.nyasatimes.com/malawi-seeks-new-mobile-operators-to-boost-competition-after-tariff-backlash/)).
 
 The gap the licensing round is meant to close acquired figures in August. An industry association report published ahead of its Malawi summit on 20 August [puts fourth-generation coverage at 87% of the population against mobile-internet penetration of 12.5%, with mobile-money adoption described as near universal, and scores Malawi 36 of 100 on its digital nations and society index and 55 of 100 on policy and regulation](https://techafricanews.com/2026/08/13/digital-africa-summit-heads-to-malawi-as-the-country-enters-its-next-digital-chapter/). These are the association's own index and figures; the base still holds no official national subscriber and coverage series.
+
+The operator's annual report replaced a figure that had carried no period. It [puts network infrastructure investment at MK30.87bn in 2025, directed mainly at modernisation, 4G site expansion and continued 5G rollout](https://malawi24.com/2026/08/24/can-tnms-mk30-87bn-investment-meet-demand/); the [US$31m the same operator stated in August](https://techafricanews.com/2026/08/17/tnm-invests-us31-million-to-expand-network-coverage-across-malawi/) carried no period and is not reconciled with it.
 <!-- /narrative -->
 ### Data Storage
 
@@ -113,6 +117,8 @@ On 25 July the central bank's expected banknote replacement cost for 2026 was re
 
 
 Two things moved in the regional rails above it. The regional clearing house [published the scheme rulebook for instant low-cost cross-border retail payments, with a gender audit and strategy to 2030 drawn from research along the corridor with Zambia](https://www.linkedin.com/posts/comesa-clearing-house_comesaclearinghouse-drpp-regionalintegration-activity-7492550470780182528-vX_W), which gives the platform operational and governance rules it did not have. Separately a commercial bank and an international card scheme [opened online acceptance of that scheme's cards to participating merchants in nine African markets including Malawi on 19 August](https://techafricanews.com/2026/08/19/unionpay-and-standard-bank-expand-e-commerce-acceptance-across-nine-african-markets/), settling in local currency, US dollars or both; the merchant count is given for the nine markets together and not for Malawi.
+
+The same report gives the mobile-money platform its first published revenue line: [MK51.93bn in 2025, up 77 per cent, on a stated base of more than 140,000 active agents](https://malawi24.com/2026/08/24/can-tnms-mk30-87bn-investment-meet-demand/).
 <!-- /narrative -->
 ### Registries
 
