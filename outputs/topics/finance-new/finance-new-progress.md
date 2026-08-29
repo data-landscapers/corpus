@@ -1,21 +1,23 @@
 ---
-title: New investments — progress report, 2025-08-01 to 2026-08-28
-compiled: 2026-08-28
-period: 2025-08-01 to 2026-08-28
+title: New investments — progress report, 2025-08-01 to 2026-08-29
+compiled: 2026-08-29
+period: 2025-08-01 to 2026-08-29
 subject: finance.new
 places: XAF; XSA; XWA
-record: 97867bc8e744
+record: 18a23db1f752
 ---
 
-# New investments: progress report, 2025-08-01 to 2026-08-28
+# New investments: progress report, 2025-08-01 to 2026-08-29
 
 *3 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
+*The place reports do not share one window; the period above is the range they span.*
+
 ## Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-28 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-29 | Movement |
 |---|---|---|---|
 | African technology equity and debt funding | US$3.25bn in total equity and debt funding across 534 deals in 2024 | [US$4.1bn in 2025, up about 25% year on year and the strongest level since 2022, across 570 deals, up 7%; debt reached its highest volume ever at US$1.6bn, up 63% on a 40% rise in the number of debt transactions and making up almost half of total capital raised, while equity funding grew 8% on a broadly stable deal count, so the growth came through larger ticket sizes rather than more transactions](https://partechpartners.com/africa-reports/2025-africa-tech-venture-capital-report) | Advanced |
 | Development agency shift from aid delivery to investment mobilisation | Did not exist | [A United Nations development agency told its executive board that its finance model is shifting from delivering aid to using scarce public resources to unlock investment at scale, citing official development assistance down 23.3% in 2025 with a further fall expected](https://www.undp.org/speeches/second-regular-session-undp-executive-board-2026) | Advanced |
@@ -54,7 +56,7 @@ record: 97867bc8e744
 
 ## West Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-28 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-29 | Movement |
 |---|---|---|---|
 | Digital Transformation Fund (BOAD/KfW) | Did not exist | [A joint fund of the West African Development Bank and the German development bank carrying an envelope of 71 billion FCFA for digital modernisation of public administrations across the eight monetary-union states, with a published six-step instruction and validation process, a named focal point in each member state, and eligibility terms of a maximum 24-month project, a budget ceiling of 2,500 million FCFA, an interest rate the fund states at 2.2% and obligatory partial state co-financing; no date of signature or entry into force, no country allocation and no committed or disbursed total is published](https://ftd.boad.org/) | Advanced |
 | WARDIP (Western Africa Regional Digital Integration Program) | The first series alone: US$293.00m across four states, ECOWAS, the African Union and Smart Africa | [A second series approved on 2026-03-11 for Benin, Liberia and Sierra Leone, with Liberia's US$50m share signed in June](https://documents1.worldbank.org/curated/en/099110923155592015/pdf/BOSIB00f52bbfa0b60b39402a346c5434ee.pdf) | Advanced |

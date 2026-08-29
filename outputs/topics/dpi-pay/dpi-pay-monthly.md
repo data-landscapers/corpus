@@ -1,10 +1,10 @@
 ---
 title: Digital Payments and Fintech — monthly update, July 2026
-compiled: 2026-08-28
-period: 2026-07-01 to 2026-08-28
+compiled: 2026-08-29
+period: 2026-07-01 to 2026-08-29
 subject: dpi.pay
 places: DZA; AGO; BWA; BFA; BDI; CMR; CAF; TCD; COM; COG; CIV; COD; EGY; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 9ed9513225af
+record: f2b323656d41
 ---
 
 # Digital Payments and Fintech: monthly update, July 2026
@@ -153,6 +153,8 @@ On 25 July the central bank's expected banknote replacement cost for 2026 was re
 
 Two things moved in the regional rails above it. The regional clearing house [published the scheme rulebook for instant low-cost cross-border retail payments, with a gender audit and strategy to 2030 drawn from research along the corridor with Zambia](https://www.linkedin.com/posts/comesa-clearing-house_comesaclearinghouse-drpp-regionalintegration-activity-7492550470780182528-vX_W), which gives the platform operational and governance rules it did not have. Separately a commercial bank and an international card scheme [opened online acceptance of that scheme's cards to participating merchants in nine African markets including Malawi on 19 August](https://techafricanews.com/2026/08/19/unionpay-and-standard-bank-expand-e-commerce-acceptance-across-nine-african-markets/), settling in local currency, US dollars or both; the merchant count is given for the nine markets together and not for Malawi.
 
+The same report gives the mobile-money platform its first published revenue line: [MK51.93bn in 2025, up 77 per cent, on a stated base of more than 140,000 active agents](https://malawi24.com/2026/08/24/can-tnms-mk30-87bn-investment-meet-demand/).
+
 ## Mali
 
 On 27 July a ministry field visit [recorded the social security fund's bank-payment pilot for pensions as complete](https://maliemergenceinfo.com/2026/07/28/%f0%9d%90%8ba-digitalisation-des-services-de-la-sante-et-du-developpement-social-l%f0%9d%90%9a-%f0%9d%90%aa%f0%9d%90%ae%f0%9d%90%9a%f0%9d%90%a5%f0%9d%90%a2%f0%9d%90%ad%f0%9d%90%9e-%f0%9d%90%9d/) and ready for phased rollout.
@@ -173,9 +175,13 @@ The central bank, the instant payments company and the clearing house signed a d
 
 The payments association's annual general meeting on 28 July also heard that licensing and supervision of payment providers will move to the central bank, with no instrument, commencement date or transition plan published ([central bank account](https://thebrief.com.na/2026/07/namibia-becomes-fourth-african-country-to-launch-instant-payments-system/)).
 
+The central bank governor put a date on the phone-based channel. He [said on 27 August that a digital money and instant payment solution should be fully functional by about June 2027, sequenced government-to-person, then person-to-person and person-to-merchant](https://www.namibian.com.na/central-bank-to-introduce-digital-money-next-year/), pitching it as a way to build transaction histories that substitute for the financial statements banks demand of informal businesses; how cash integrates with the instant payment system was not stated.
+
 ## Niger
 
 On 29 July the higher education minister said the grants agency reform consists of [acquiring database software and routing scholarship and social-aid payments through the banking system via the Treasury's application](https://anp.ne/niger-plusieurs-reformes-engagees-pour-ameliorer-le-secteur-de-lenseignement-superieur-et-les-performances-de-lanab/); no budget, vendor, timetable or beneficiary count was published.
+
+The mobile-money issuer opened cross-border corridors. It [launched an international transfer service on 25 August, taking inbound transfers from eight countries directly into the recipient's wallet through five remittance partners and sending outbound transfers to seven West African states](https://actuniger.com/societe/22299-transfert-dargent-airtel-money-niger-lance-son-service-international-pour-des-operations-simples-et-securisees-au-dela-des-frontieres.html); no volume or fee schedule is published.
 
 ## Nigeria
 
@@ -251,6 +257,8 @@ August supplied the adoption side of the same picture, from two directions. The 
 
 Acceptance widened from outside as well. A commercial bank and an international card scheme [opened online acceptance of that scheme's cards to participating merchants in nine African markets including Tanzania on 19 August](https://techafricanews.com/2026/08/19/unionpay-and-standard-bank-expand-e-commerce-acceptance-across-nine-african-markets/), settling in local currency, US dollars or both; the merchant count is given for the nine markets together and not for Tanzania.
 
+Zanzibar moved a fare box onto a wallet. Fares on the fifteen electric buses that entered commercial service on 1 August [are paid by smart card through a single mobile-money platform at Sh700 a journey and Sh350 for students and passengers over 70, the same platform carrying municipal parking fees, traffic fines and state payments to clove farmers](https://www.thecitizen.co.tz/tanzania/zanzibar/zanzibar-shifts-quietly-from-cash-to-fast-digital-payment-systems-5572738).
+
 ## Togo
 
 Payments moved on a deadline. Retirement allowances [began paying by bank transfer and mobile money in July](https://actu-togo.tg/2026/08/04/togo-paiements-des-allocations-de-retraite-les-beneficiaires-invites-a-utiliser-le-numero-vert-8220/), and allowances stop on 31 August for beneficiaries who have not registered payment details; no beneficiary count or registration rate is published, and no alternative is stated for someone without a bank account, a handset or an identity document. The regional [deadline to connect to the instant payment platform moved from 30 June to 30 September](https://www.togofirst.com/fr/finance/0304-18641-la-bceao-fixe-au-30-juin-l-adhesion-des-operateurs-a-sa-plateforme-de-paiement-instantane-pi-spi), and to 30 June 2027 for microfinance institutions. A [treasury prepaid card was announced](https://www.togofirst.com/en/public-management/2407-19673-togo-plans-prepaid-cards-to-digitize-public-payments) with no timetable and no confirmation that a file has been lodged with the central bank.
@@ -277,6 +285,8 @@ The scale underneath all of it is in the regulator's quarterly report: [2.55 bil
 
 
 A fourth arrangement opened on 19 August, and it is card rather than wallet: a commercial bank and an international scheme [opened online acceptance of that scheme's cards to participating merchants in nine African markets including Uganda](https://techafricanews.com/2026/08/19/unionpay-and-standard-bank-expand-e-commerce-acceptance-across-nine-african-markets/), settling in local currency, US dollars or both. The merchant count is given for the nine markets together.
+
+A parliamentary committee found the expressway concession still running on cash. Its report of 25 August [recommends that the revenue authority take over toll collection and introduce electronic payment, calls for a forensic audit of the concession's operations and revenue collections, and asks for scrutiny of a reported UGX 36 billion contract extension](https://www.newvision.co.ug/category/news/mps-want-ura-to-take-over-toll-collections-of-NV_239482_082026); the ICT minister of state told the House that the operator has never given government the source code or password of the system.
 
 ## Zambia
 

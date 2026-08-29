@@ -1,10 +1,10 @@
 ---
 title: Registries (population, land, address, etc.) — monthly update, July 2026
-compiled: 2026-08-28
-period: 2026-07-01 to 2026-08-28
+compiled: 2026-08-29
+period: 2026-07-01 to 2026-08-29
 subject: dpi.registry
 places: DZA; AGO; BEN; BWA; BFA; CMR; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; SWZ; GMB; GHA; GIN; GNB; KEN; LBR; LBY; MDG; MWI; MLI; MRT; MAR; NAM; NER; NGA; RWA; STP; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: edd5450dca54
+record: b7554c9cdc68
 ---
 
 # Registries (population, land, address, etc.): monthly update, July 2026
@@ -26,6 +26,8 @@ A single social register was launched in the week ending 25 July, and the minist
 The electoral register, updating since 15 June against a universe of 16.7 million citizens, acquired its first national enrolment figure in August and it came from the opposition rather than the administration. Four parties [put the count above 730,000 and demanded an independent audit of the electoral database, alleging administrative discretion, uneven deployment of registration brigades and recurring biometric-system failures](https://www.novojornal.co.ao/politica/detalhe/partidos-da-oposicao-lancam-alerta-sobre-obstaculos-burocraticos-que-ameacam-exclusao-massiva-de-cidadaos-do-processo-de-actualizacao-do-registo-eleitoral-74052.html), and said the administration refuses to release enrolment statistics disaggregated by province, municipality and commune. At provincial level the Lunda-Norte government [reported over 40,000 residents updated and pressed mining-sector workers to register through the one-stop service desks](https://angop.ao/noticias/politica/governadora-apela-a-actualizacao-dos-dados-eleitorais/). None of the allegations has been adjudicated, and because no official series exists there is nothing to test them against - which is itself the complaint.
 
 Field enrolment for the single social register [opened in a pilot phase at Sumbe, in Cuanza-Sul](https://angop.ao/noticias/sociedade/cadastro-social-nico-inicia-fase-piloto-no-sumbe/), directed by the social-action minister, to identify and characterise Angolan families and especially those in need. The register itself was activated in July; this is the first enrolment operation on record behind it.
+
+The education ministry made school enrolment independent of documentation. Circular 05/2026 of 19 August [orders every public and private school teaching primary and first-cycle secondary education to enrol children holding no birth certificate and no identity card, and to compile by the end of October a survey of undocumented pupils for the justice ministry's registry directorate, whose services are then to travel to the schools and register them](https://novojornal.co.ao/sociedade/detalhe/med-obriga-escolas-a-aceitar-matricula-de-criancas-que-ainda-nao-possuem-registo-de-nascimento-e-bi-74156.html); the ministry says the 17-21 August enrolment round drew large numbers of children with no registration of any kind.
 
 ## Benin
 
@@ -124,6 +126,8 @@ The central bank is preparing a register of a different kind. It announced on 14
 
 On 3 August the interior and labour ministries [agreed in Benghazi to create a unified national database of expatriate workers](https://www.lananews.com/ar/?p=499082) and a dedicated electronic platform, citing Labour Relations Law No. 12 of 2010 and Law No. 24 of 2023, together with joint ministerial committees and joint inspection campaigns drawing in passport investigations.
 
+The health ministry's registration portal reported its first numbers. PharmaGate [has registered 131 local and 53 foreign pharmaceutical companies and is being extended to the products themselves, confining attendance at the ministry to the final stage and licence collection](https://libyaherald.com/2026/08/ministry-of-health-developing-its-pharmagate-system-to-regulate-register-pharmaceutical-companies).
+
 ## Madagascar
 
 The day after the biometric-registration review, the electoral commission [opened a full reconstitution of the electoral roll at Talata Volonondry](https://2424.mg/election-la-ceni-lance-les-operations-de-recensement-pour-la-refonte-de-la-liste-electorale-avant-les-scrutins-de-2027/) — a rebuild rather than the routine revision — running four months to 24 November 2026, to produce the single roll for all elections and referendums scheduled in 2027. The trigger is stated: the previous roll drew sustained contestation and is named as a source of tension at earlier polls. Registration runs through five channels, at fokontany level on presentation of a national identity card. The commission states that an unregistered citizen may not observe polling in their own place of residence and may not lodge a complaint or contest results.
@@ -140,6 +144,8 @@ A [national digital directory of diaspora skills was launched at a ceremony in W
 
 The consular-services platform launched 9 July 2026 [built a unified digital consular registry](https://www.wearetech.africa/en/fils-uk/news/public-management/mauritania-launches-digital-consular-services-platform-for-citizens-abroad), compiled by diaspora engineers after consultations in 22 countries.
 
+The Council of Ministers adopted two registry decrees on 27 August. One [builds a secured national information system for the central criminal-record register, wiring courts, prosecution offices and central services together electronically](https://www.ami.mr/archives/267317); the other [establishes the referentiel national numerique des donnees foncieres et cadastrales as the state's authoritative source of cadastral data, with a permanent unique identifier for every parcel, the minister stating that no integrated cadastral survey system meeting these requirements has existed](https://www.ami.mr/archives/267317).
+
 ## Morocco
 
 The month's registry work is a membership audit rather than a build. The interior ministry [launched a wide screening and update of the membership rolls of collective land communities, with circulars sent to community delegates through local authority officials from 22 August 2026, beginning in two regions and open to extension nationwide](https://www.hespress.com/الداخلية-تطلق-عملية-واسعة-لـغربلة-لو-1794573.html). Each listed member is to be verified for actual affiliation, legal majority and residence under law 62.17 and its implementing decree, on a single methodology so that criteria stop varying from one community to another.
@@ -147,6 +153,8 @@ The month's registry work is a membership audit rather than a build. The interio
 ## Namibia
 
 The business and intellectual property authority [offers online name search, name reservation and application-status verification](https://www.bipa.na/), with no transaction or uptake figure published and no publication date on the capture. The civil registration statute is unchanged and was [read by officials on 25 July as permitting institutions to accept either the physical card or its digital version, with disclosure conditional on the holder's consent](https://informante.web.na/?p=398234). Its [commencement date is not established](https://namiblii.org/akn/na/act/2024/13/eng@2024-12-30) and the held record summarises rather than reproduces it.
+
+The securities depository was used for the first time by a listed corporate issuer. A N$250.5 million sustainability-linked bond [was converted into an electronic record on 21 August after bondholders were notified on 8 August, the first practical use of the dematerialisation capability since the exchange launched the depository in December 2025](https://www.namibiansun.com/mw-main/n250m-bond-moves-online-NMH017110-3015-21006); the issuer's three other listed bonds were notified for 8 September.
 
 ## Niger
 

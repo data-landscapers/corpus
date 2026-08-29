@@ -1,21 +1,23 @@
 ---
-title: Connectivity — progress report, 2025-08-01 to 2026-08-28
-compiled: 2026-08-28
-period: 2025-08-01 to 2026-08-28
+title: Connectivity — progress report, 2025-08-01 to 2026-08-29
+compiled: 2026-08-29
+period: 2025-08-01 to 2026-08-29
 subject: infra.connect
 places: XAF; XSA; XWA
-record: 829303c4d9b0
+record: 2e4637ff7497
 ---
 
-# Connectivity: progress report, 2025-08-01 to 2026-08-28
+# Connectivity: progress report, 2025-08-01 to 2026-08-29
 
 *3 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
+*The place reports do not share one window; the period above is the range they span.*
+
 ## Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-28 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-29 | Movement |
 |---|---|---|---|
 | 2026 Abuja Declaration on Meaningful Connectivity for Africa | Did not exist | [Adopted, committing member states to technology-neutral regulation, continental harmonisation, fair access to spectrum and fibre, shared infrastructure and data governance; the text itself is not published](https://techafricanews.com/2026/07/27/atu-conference-adopts-abuja-declaration-to-advance-meaningful-connectivity-across-africa/) | Advanced |
 | Harmonised national broadband mapping project | Did not exist | [A 2025-2028 project to establish or strengthen harmonised national broadband mapping systems in eleven sub-Saharan regulators - Benin, Botswana, Burundi, Ethiopia, Ivory Coast, Kenya, Malawi, Nigeria, Uganda, Zambia and Zimbabwe - with a five-day intermediate GIS and data-management training opened at Lilongwe for practitioners from Malawi, Zimbabwe, Botswana and Zambia, hosted by the Malawian regulator and supported by the European Union](https://www.itweb.africa/article/itu-launches-sub-saharan-broadband-push/o1Jr5MxPawdMKdWL) | Advanced |
@@ -35,7 +37,7 @@ record: 829303c4d9b0
 
 ## West Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-28 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-29 | Movement |
 |---|---|---|---|
 | CSquared West Africa backbone | Carrying regional traffic on its own subsea and terrestrial routes | [Capacity on the 2Africa West system added for route diversity, after three multi-country outages in 28 months at the Accra, Lagos and Abidjan landing concentration](https://www.mobileeurope.co.uk/csquared-boosts-internet-resilence-integrating-with-2africa-west/) | Advanced |
 | EllaLink Mauritania branch | Launched at Nouadhibou in July 2025, with nothing laid | [Coastal landing complete, offshore laying scheduled for August 2026 and commissioning expected in the first quarter of 2027](https://ami.mr/fr/archives/294524) | Advanced |

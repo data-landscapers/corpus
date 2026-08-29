@@ -1,21 +1,23 @@
 ---
-title: AI — progress report, 2025-08-01 to 2026-08-28
-compiled: 2026-08-28
-period: 2025-08-01 to 2026-08-28
+title: AI — progress report, 2025-08-01 to 2026-08-29
+compiled: 2026-08-29
+period: 2025-08-01 to 2026-08-29
 subject: tech.ai
 places: XAF; XSA; XWA
-record: 2e47f89d18ac
+record: 69c17e525093
 ---
 
-# AI: progress report, 2025-08-01 to 2026-08-28
+# AI: progress report, 2025-08-01 to 2026-08-29
 
 *3 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
+*The place reports do not share one window; the period above is the range they span.*
+
 ## Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-28 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-29 | Movement |
 |---|---|---|---|
 | Africa AI Council | Did not exist | [Established under a board of 42 heads of state with the AU Commissioner for Energy and Infrastructure and the ITU Secretary-General; no work programme or output held in the nine months since](https://smartafrica.org/the-smart-africas-board-unveils-the-inaugural-africa-ai-council-to-lead-the-continents-ai-transformation/) | Advanced |
 | Free student access to a commercial assistant | Did not exist | [A technology company offered African students one year of its paid artificial-intelligence assistant tier at no charge, pitched at study materials, assignments and planning](https://blog.google/intl/en-africa/one-year-of-gemini-on-us-for-students/) | Advanced |
@@ -37,7 +39,7 @@ record: 2e47f89d18ac
 
 ## West Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-28 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-29 | Movement |
 |---|---|---|---|
 | ECOWAS Regional AI Governance Framework | Did not exist | [Resolved to be developed, citing algorithmic bias, labour displacement and information disorder; no draft, drafting body or date held in the six months since; a four-country comparative study presented on 2026-08-10 found none of Benin, Senegal, Cote d'Ivoire or Burkina Faso holds AI-specific legislation in force or in draft, rating Cote d'Ivoire's strategy the most advanced of the four on inclusion and data governance and finding Burkina Faso's data-protection law the only one to name AI-based processing](https://grain-africa.org/en/intelligence-artificielle-en-afrique-de-louest-grain-presente-les-resultats-dune-etude-comparative-pour-une-gouvernance-plus-inclusive-et-responsable-de-lia/) | Advanced, marginal |
 | Francophone West African AI governance guidelines | Did not exist | [Adopted by Benin, Burkina Faso, Cote d'Ivoire, Guinea, Mali and Senegal; advisory, complementing national strategies rather than replacing them](https://www.wearetech.africa/en/fils-uk/news/tech/six-francophone-west-african-countries-unite-on-ai-governance-framework) | Advanced |

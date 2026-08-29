@@ -1,13 +1,13 @@
 ---
-title: ICT Industry — progress report, 2025-08-01 to 2026-08-28
-compiled: 2026-08-28
-period: 2025-08-01 to 2026-08-28
+title: ICT Industry — progress report, 2025-08-01 to 2026-08-29
+compiled: 2026-08-29
+period: 2025-08-01 to 2026-08-29
 subject: tech.industry
 places: XAF
-record: 17e791db781a
+record: 4e4b8091bff4
 ---
 
-# ICT Industry: progress report, 2025-08-01 to 2026-08-28
+# ICT Industry: progress report, 2025-08-01 to 2026-08-29
 
 *1 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -15,6 +15,6 @@ record: 17e791db781a
 
 ## Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-28 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-29 | Movement |
 |---|---|---|---|
 | Charging for business messages on a dominant messenger | Service messages on the business platform free of charge | [Free service messages to end from 1 October 2026, with businesses charged for every delivered message at rates varying by country and by message type, a cost increase for African companies that rely heavily on the messenger for customer service](https://www.wearetech.africa/fr/fils/breves/breves-simple/whatsapp-va-faire-payer-l-envoi-de-messages-aux-entreprises-des-octobre) | Regressed |

@@ -1,10 +1,10 @@
 ---
 title: Public debate and participation in policymaking — monthly update, July 2026
-compiled: 2026-08-28
-period: 2026-07-01 to 2026-08-28
+compiled: 2026-08-29
+period: 2026-07-01 to 2026-08-29
 subject: gov.discourse
 places: BEN; BFA; BDI; CMR; TCD; CIV; COD; EGY; ETH; GAB; GHA; GIN; KEN; LSO; LBR; MLI; MUS; MAR; NGA; RWA; STP; SEN; SYC; SOM; ZAF; TZA; TGO; UGA; ZMB
-record: 444dd4e4df64
+record: 128b698cc776
 ---
 
 # Public debate and participation in policymaking: monthly update, July 2026
@@ -72,6 +72,8 @@ Neither the regulator ARPT, the operators nor the internet service providers iss
 ## Kenya
 
 One item moved in this window and it is a contested procurement rather than a policy debate: a former deputy president [told reporters on 24 August 2026 that the electoral commission's results-transmission contract specifications were tailor-made for a single South Korean bidder, that every other competitor has gone to the procurement appeals board, and that the firm has failed at every election it has taken part in](https://nation.africa/kenya/news/politics/gachagua-iebc-election-tech-deal-tailor-made-for-korean-firm-5569838). He says he is still documenting the claim; the report names neither the company nor the contract, and no commission or appeals-board response is on file.
+
+The commission answered on 27 August. It [said no company has been awarded the 2027 election-technology tender, that tenders for the management system's hardware and for ballot papers are frozen at the Public Procurement Administrative Review Board on a request for review, and that the documents were published on 11 August with generic performance-based specifications](https://www.standardmedia.co.ke/business/national/article/2001556378/iebc-rejects-gachaguas-claims-defends-2027-polls-preparations). The forum that would normally host this argument met the same week: KICTANet [published the report of the nineteenth Kenya Internet Governance Forum, held with more than 300 participants and confirming Kenya as host of the global forum, in Nairobi for the first time since 2011](https://www.kictanet.or.ke/keigf-2026-report-digital-futures/).
 
 ## Lesotho
 

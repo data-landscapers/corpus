@@ -1,10 +1,10 @@
 ---
 title: Data protection — monthly update, July 2026
-compiled: 2026-08-28
-period: 2026-07-01 to 2026-08-28
+compiled: 2026-08-29
+period: 2026-07-01 to 2026-08-29
 subject: gov.protect
 places: DZA; AGO; BWA; BFA; BDI; CIV; DJI; COD; EGY; SWZ; ETH; GMB; GHA; GIN; KEN; LBR; MWI; MLI; MUS; MAR; MOZ; NAM; NGA; RWA; STP; SEN; SLE; SOM; ZAF; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 9de0c0d85835
+record: 20e5767d6eb6
 ---
 
 # Data protection: monthly update, July 2026
@@ -90,6 +90,8 @@ The gambling regulator [confirmed on 3 August](https://www.the-star.co.ke/news/2
 
 The regulator also pressed an older instrument into the campaign. The data commissioner [said guidance now binds every organisation touching voter data, from the electoral commission down to civil-society registration groups, with the commission's own processing anchored in statutory mandate rather than consent and parties' obligations turning on how they obtained the data](https://www.the-star.co.ke/news/2026-08-18-political-sms-raise-questions-over-kenyans-personal-data), as unsolicited political messaging spreads ahead of the 2027 election. The guidance itself is not new: the Office [issued its Guidance Notes for Electoral Purposes on 29 February 2024, covering the voter register, political parties' member registers and campaign use of personal data under the Data Protection Act 2019](https://www.odpc.go.ke/wp-content/uploads/2024/02/ODPC-Guidance-Notes-for-Electoral-Purposes.pdf). What changed in August is the statement of it, not the rule. No enforcement action under the guidance is on record.
 
+A gap the regulator does not cover was named at the internet governance forum, where a United Nations agency [said an Agency Coordination Mechanism is being fast-tracked against AI-manipulated images and the doxing of female candidates ahead of the 2027 elections](https://www.kictanet.or.ke/keigf-2026-report-digital-futures/); no terms of reference or date is published.
+
 ## Liberia
 
 The telecoms regulator [fined an operator LRD 4m for issuing a subscriber's SIM to a third party without authorisation](https://fpa.news/liberia-lta-unveils-sweeping-telecom-reforms-revokes-star-cell-license-after-six-years-of-inactivity/). The penalty came under telecoms powers rather than data-protection law — which is the point, since the Act that would have supplied the latter is unsigned.
@@ -169,6 +171,8 @@ The supervisor said plainly what it cannot do. At a webinar on 18 August the reg
 The data protection commission and the open university [opened a certification programme for data protection officers on 14 July](https://mediawireexpress.co.tz/out-pdpc-launch-national-data-protection-programme/), the university training and assessing and the commission certifying, aimed at government, finance, telecommunications, healthcare, education and technology. It answers the statutory officer duty; no intake number, fee or cohort date was published.
 
 A separate rule pulls in the other direction. Businesses selling on social media must now [display tax credentials — a taxpayer identification number, tax clearance certificate or certificate of registration — on their public pages](https://www.thecitizen.co.tz/tanzania/news/national/tanzania-s-new-social-media-tax-rule-for-businesses-sparks-privacy-and-cybersecurity-fears-5555022), and digital creators and online traders have objected that publishing those credentials exposes them to impersonation and fraud (12 August). The objections are those of named creators and traders reported by the paper rather than a regulator finding; no data-protection assessment or redress route is published.
+
+The regulator set a date for the enforcement it announced in April. On-site inspections [begin on 31 August, after preliminary assessment found limited understanding of legal obligations, inaccurate registration information, difficulty implementing data-subject rights and personal data leaving the country outside the statutory procedure](https://www.thecitizen.co.tz/tanzania/news/national/data-protection-regulator-begins-compliance-crackdown-5574710).
 
 ## Togo
 

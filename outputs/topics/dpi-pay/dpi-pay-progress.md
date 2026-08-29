@@ -1,21 +1,23 @@
 ---
-title: Digital Payments and Fintech — progress report, 2025-08-01 to 2026-08-28
-compiled: 2026-08-28
-period: 2025-08-01 to 2026-08-28
+title: Digital Payments and Fintech — progress report, 2025-08-01 to 2026-08-29
+compiled: 2026-08-29
+period: 2025-08-01 to 2026-08-29
 subject: dpi.pay
 places: XAF; XSA; XWA
-record: d1b3938416ec
+record: c5391e559eec
 ---
 
-# Digital Payments and Fintech: progress report, 2025-08-01 to 2026-08-28
+# Digital Payments and Fintech: progress report, 2025-08-01 to 2026-08-29
 
 *3 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
+*The place reports do not share one window; the period above is the range they span.*
+
 ## Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-28 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-29 | Movement |
 |---|---|---|---|
 | Association of African Central Banks (AACB) | No decision of the Assembly on continental payment harmonisation held | [A list of 54 decisions, of which decision 21 rules that the Payment Systems Directive for Africa is not to be led by an entity external to central banks and directs its own task force to lead the work](https://aacb.org/sites/default/files/past_event_documents/2025_List%20of%20Decisions_Yaounde_Nov_2025.pdf) | Advanced |
 | Banks and countries connected to PAPSS | 28 banks within nine months of launch, against an ambition of all 500 to 600 African banks (2022) | [28 countries and over 190 banks and financial-technology firms connected, with the Central African central bank acceding in July 2026 and the West African central bank's pilot pending; connecting the EAC, West, Central and Southern African regional systems is put at reaching more than 60% of African countries, and no continent-wide transaction value is published (2026-08)](https://papss.com/wp-content/uploads/2026/06/PAPSS-PAYMENTS-NETWORK-COVERAGE_JUNE2026-5.pdf) | Advanced |
@@ -42,11 +44,11 @@ record: d1b3938416ec
 
 ## West Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-28 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-29 | Movement |
 |---|---|---|---|
 | BCEAO connection obligation for instant-payment participants | Interoperability announced as mandatory from 30 June 2026 | [Banks, e-money issuers and payment institutions have until 30 September 2026 and microfinance institutions until 30 June 2027](https://www.fratmat.info/article/2641755/economie/uemoa-linteroperabilite-des-paiements-devient-obligatoire-des-le-30-juin-2026) | Advanced, slipped |
 | Institutions connected to PI-SPI | 45 at launch (2025-09-30) | [104 authorised at 31 July 2026, against 80 connected at 24 June 2026 and 74 at the end of December 2025, with Senegal (24) and Cote d'Ivoire (23) holding nearly half, ahead of Mali (14), Burkina Faso (13), Benin (11), Togo (9) and Guinea-Bissau and Niger (5 each)](https://financesao.com/uemoa-pi-spi-atteint-104-etablissements-autorises/) | Advanced |
-| Institutions issuing electronic money in the UEMOA | 63 institutions (2024-12-31), 14 of them licensed electronic money issuers | [78 institutions at 31 December 2025 - 59 banks working through partnerships with telecommunications operators or technical providers, 18 licensed electronic money issuers and one microfinance institution, alongside four national treasuries offering the service in Benin, Burkina Faso, Cote d'Ivoire and Togo. The licensed issuers rose from 14 to 18 on approvals for Djogana Pay in Cote d'Ivoire, QuickPay and TouchPoint Financial Services in Senegal and Tmoney in Togo, and are spread unevenly: Senegal 5, Cote d'Ivoire 4, Benin 3, Mali 2, and one each in Burkina Faso, Niger and Guinea-Bissau. Provisional data on 17 active issuers puts their combined turnover at FCFA 323.2bn in 2025, up 12% on the year, with transaction volume rising 16.6% in Cote d'Ivoire, 16.5% in Niger and 15.2% in Burkina Faso; Cote d'Ivoire holds 30.6% of turnover, Mali 23% and Benin 22%](https://www.horonyafinance.com/umoa-la-monnaie-electronique-gagne-du-terrain-les-encours-bondissent-de-352-en-2025/) | Advanced |
+| Institutions issuing electronic money in the UEMOA | 63 institutions (2024-12-31), 14 of them licensed electronic money issuers | [78 institutions at 31 December 2025 against 63 a year earlier - 59 banks in partnership with telecommunications operators or technical providers, 18 licensed electronic money issuers, one microfinance institution, and four national treasuries also issuing. The licensed issuers rose from 14 to 18 on approvals for Djogana Pay (Cote d'Ivoire), QuickPay SA and TouchPoint Financial Services (Senegal) and Tmoney (Togo), concentrated in Senegal (5) and Cote d'Ivoire (4). Provisional data on the 17 active issuers put turnover at FCFA 323.2bn, up 12%, outstanding electronic money at FCFA 1,923.2bn, up 35.2%, and profit at FCFA 16.9bn after FCFA 6.1bn in 2024](https://www.bceao.int/sites/default/files/2026-08/RAPPORT_ANNUEL_2025_DE_LA_COMMISSION_BANCAIRE.pdf) | Advanced |
 | PI-SPI (UEMOA interoperable instant-payment platform) | In live testing from August 2025, ahead of a launch set for 30 September 2025 | [In service across the eight member states, free for person-to-person transfers, with banks and mobile money interconnected since May 2026](https://lefaso.net/spip.php?article139887) | Advanced |
 | Users connected to PI-SPI | Did not exist | [30 million connected users and one million transactions worth 110 billion FCFA in under ten months](https://www.togofirst.com/en/finance/2407-19672-bceao-instant-payment-platform-connects-30-million-users-in-less-than-10-months) | Advanced |
 | BCEAO guide to digitalising member-state payments | In force | [In force, unrevised on the record](https://www.bceao.int/sites/default/files/2021-03/Guide%20pour%20la%20digitalisation%20des%20paiements%20des%20Etats%20membres%20de%20l%27UEMOA.pdf) | No change |

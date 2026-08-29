@@ -1,17 +1,19 @@
 ---
-title: Legislation and regulation — progress report, 2025-08-01 to 2026-08-28
-compiled: 2026-08-28
-period: 2025-08-01 to 2026-08-28
+title: Legislation and regulation — progress report, 2025-08-01 to 2026-08-29
+compiled: 2026-08-29
+period: 2025-08-01 to 2026-08-29
 subject: gov.legislate
 places: XSA; XWA
-record: 844aaa812f7e
+record: 8c578cfc7880
 ---
 
-# Legislation and regulation: progress report, 2025-08-01 to 2026-08-28
+# Legislation and regulation: progress report, 2025-08-01 to 2026-08-29
 
 *2 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
+
+*The place reports do not share one window; the period above is the range they span.*
 
 ## Southern Africa
 
@@ -23,6 +25,6 @@ record: 844aaa812f7e
 
 ## West Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-28 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-29 | Movement |
 |---|---|---|---|
 | Cybercrime statutes in the Sahel states | ***Baseline not held*** | [A press-freedom organisation reports the cybercrime statutes of Burkina Faso, Mali, Niger and Guinea being used to prosecute journalists, and calls for the repeal of vague public-order and human-dignity provisions](https://thenationonlineng.net/mfwa-sahel-juntas-weaponising-cybercrime-laws-to-silence-journalists/) | ***Baseline not held*** |

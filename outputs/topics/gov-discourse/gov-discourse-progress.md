@@ -1,13 +1,13 @@
 ---
-title: Public debate and participation in policymaking — progress report, 2025-08-01 to 2026-08-28
-compiled: 2026-08-28
-period: 2025-08-01 to 2026-08-28
+title: Public debate and participation in policymaking — progress report, 2025-08-01 to 2026-08-29
+compiled: 2026-08-29
+period: 2025-08-01 to 2026-08-29
 subject: gov.discourse
 places: XWA
-record: c96f54c62743
+record: f4d20ade3746
 ---
 
-# Public debate and participation in policymaking: progress report, 2025-08-01 to 2026-08-28
+# Public debate and participation in policymaking: progress report, 2025-08-01 to 2026-08-29
 
 *1 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
@@ -15,6 +15,6 @@ record: c96f54c62743
 
 ## West Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-28 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-29 | Movement |
 |---|---|---|---|
 | Regional Feminist Data Agenda 2026-2028 | Did not exist | [Ratified with three priorities for 2026-2028, each carrying a named owner, alongside eight thematic policy briefs and a cross-border encrypted data collective with rapid-response protocols; no text is published](https://rflgd.org/2026/08/02/thanks-to-sida-l-west-africa-feminist-data-summit-2026-%c2%b7-one-hundred-delegates-%c2%b7-twenty-one-countries/) | Advanced |

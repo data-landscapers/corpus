@@ -1,10 +1,10 @@
 ---
 title: Legislation and regulation — monthly update, July 2026
-compiled: 2026-08-28
-period: 2026-07-01 to 2026-08-28
+compiled: 2026-08-29
+period: 2026-07-01 to 2026-08-29
 subject: gov.legislate
 places: DZA; AGO; BWA; BFA; BDI; CMR; CPV; CAF; COG; CIV; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: ef2233f647d0
+record: ff5b7c778ea8
 ---
 
 # Legislation and regulation: monthly update, July 2026
@@ -44,6 +44,8 @@ On the statute book already in force, a press-freedom organisation [presented a 
 ## Burundi
 
 An [access-to-information bill is on the National Assembly's order paper for the session opened at the Kigobe Congress Palace on 3 August 2026](https://lerenouveau.bi/assemblee-nationale-ouverture-de-la-session-parlementaire-ordinaire-daout-2026/). The first vice-president listed it among the bills the chamber will examine. Article 176 caps ordinary sessions at three months, putting the outer bound for passage in this sitting at roughly end-October 2026. No text, tabling number, sponsoring ministry or timetable was published and no copy is held — the announcement establishes only that the bill exists and is scheduled. Burundi has had no access-to-information statute on file to date.
+
+The ministry opened consultations on the country's first dedicated framework for online publishing. A workshop on 26 August [gathered influencers, content creators, legal experts and jurists for sector input before a bill regulating social-media influencers and content creators is finalised](https://www.burunditimes.com/burundi-begins-talks-on-new-law-for-social-media-influencers/); no draft provisions are published, and whether the law would require registration, set disclosure rules for sponsored content, create an oversight body or set penalties is unestablished.
 
 ## Cameroon
 
@@ -220,6 +222,8 @@ In August the institute set out what is still missing and what is coming. Its bo
 A new Telecommunications and Scarce Resources Licensing Regulation, adopted by decree, [lets the regulator convert operators' fines into universal-service obligations](https://www.agenceecofin.com/actualites-numerique/2608-141049-mozambique-les-amendes-telecoms-financent-desormais-l-inclusion-numerique) â€” turning a penalty into a coverage commitment. No decree number, entry-into-force date or first conversion is on file.
 
 The regulator's own account of the new licensing regulation is now held, settling the instrument the earlier report named without citing: [Decree 36/2026 on the licensing of telecommunications and scarce resources](https://www.incm.gov.mz/2026/08/21/licenciamento_telecomunicacoes_recursos_escassos/).
+
+Two instruments moved on the same week, one drafting and one made. The labour ministry and the ICT institute [met on 27 August on a targeted Labour Law revision to cover work carried out through digital platforms, with classification of the employment relationship, identifying the employer behind a platform, inspection and algorithmic transparency named as the open questions](https://clubofmozambique.com/news/mozambique-labour-law-review-debates-protection-of-digital-platform-workers-intic/) and no draft text or timetable stated. The Press and Media Law, Law No. 19/2026, [was presented publicly from 28 August for entry into force in December, bringing online-only publications inside the media framework and capping direct and indirect foreign capital in a media organisation at 35 per cent](https://clubofmozambique.com/news/mozambiques-press-and-media-law-caps-foreign-ownership-at-35/), replacing a law in force since 1991.
 
 ## Namibia
 

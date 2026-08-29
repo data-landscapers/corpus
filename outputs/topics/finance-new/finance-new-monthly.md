@@ -1,10 +1,10 @@
 ---
 title: New investments — monthly update, July 2026
-compiled: 2026-08-28
-period: 2026-07-01 to 2026-08-28
+compiled: 2026-08-29
+period: 2026-07-01 to 2026-08-29
 subject: finance.new
 places: AGO; BEN; BFA; TCD; COG; CIV; COD; EGY; SWZ; ETH; GHA; GIN; KEN; LBR; MWI; MLI; MUS; MAR; MOZ; NGA; RWA; STP; SEN; SLE; ZAF; TZA; TGO; UGA; ZMB; ZWE
-record: ea6d18d6c8a4
+record: d1ded1557190
 ---
 
 # New investments: monthly update, July 2026

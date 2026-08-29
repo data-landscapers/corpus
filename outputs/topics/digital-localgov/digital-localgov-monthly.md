@@ -1,10 +1,10 @@
 ---
 title: Digitalisation of sub-national government — monthly update, July 2026
-compiled: 2026-08-28
-period: 2026-07-01 to 2026-08-28
+compiled: 2026-08-29
+period: 2026-07-01 to 2026-08-29
 subject: digital.localgov
 places: AGO; BFA; CMR; COD; EGY; SWZ; ETH; GAB; GHA; GIN; MWI; MLI; NAM; NGA; SOM; ZAF; TZA; TGO; ZMB; ZWE
-record: 8f9f1b407b05
+record: 36cf21e1e0fb
 ---
 
 # Digitalisation of sub-national government: monthly update, July 2026
@@ -18,6 +18,8 @@ record: 8f9f1b407b05
 Sub-national digitalisation in this window is policing infrastructure. The interior ministry [laid the foundation stone for an Integrated Public Security Centre in Saurimo, Lunda-Sul, on 30 July](https://angop.ao/noticias/sociedade/cisp-sera-instalado-na-lunda-sul/), with more than 100 cameras on the city's main arteries in a first phase and tooling for occurrence management, traffic management, city video surveillance, intelligent-camera monitoring and criminal investigation across Saurimo, Cassengo and Muanguenji; the centres' director-general said the expansion is under way in almost every province and is meant to move policing and investigation from the traditional model to one in which technology is the base of police activity.
 
 What is being replicated is visible in the standard build. Cabinda became the fifth province to get a centre when the interior minister [inaugurated it on 9 December 2025 with a 24-hour command and video-surveillance room answering the 111 emergency number, 184 cameras carrying facial recognition, number-plate reading and protection of designated strategic state sites, and 180 staff](https://cabinda.gov.ao/web/noticias/cisp-or-centro-integrado-de-seguranca-publica-de-cabinda-inaugurado-pelo-ministro-do-interior). No data-protection basis, retention rule or supervisory authority is named for any of that estate, and the data-protection agency's own organic law was [still out to consultancy in April](https://c2a.portais.gov.ao/uploads/Td_Rs_Consultoria_para_Elaboracao_da_Lei_Organica_da_Agencia_de_Proteccao_de_Dados_5a7f75b595.pdf).
+
+Benguela's provincial water utility [begins installing prepaid smart meters on 7 September, targeting 25,000 to 26,000 by March 2027 on a stated USD 23 million budget drawn from a USD 191.3 million rehabilitation project across five municipalities, starting with 500 units at Restinga and using 266 technicians](https://www.novojornal.co.ao/sociedade/detalhe/benguela-no-pre-pago-para-reduzir-desperdicio-de-agua-e-assegurar-pagamento-justo---projecto-absorve-usd-23-milhoes-74212.html). It follows [a USD 15 million registration exercise that produced a 70,000-client database, replacing estimate-based billing against arrears stated above 10 billion kwanzas](https://www.novojornal.co.ao/sociedade/detalhe/benguela-no-pre-pago-para-reduzir-desperdicio-de-agua-e-assegurar-pagamento-justo---projecto-absorve-usd-23-milhoes-74212.html).
 
 ## Burkina Faso
 
@@ -87,6 +89,8 @@ Hirshabelle put [tariff-loaded card terminals at its border checkpoints, reporte
 Nothing moved at a municipality this month. What the record gained is the rule the municipal programmes are obliged to work to: the national archives' [standing guidance on managing electronic records](https://www.nationalarchives.gov.za/node/1225) is now held, having been cited by none of the digitisation programmes this ledger tracks.
 
 That is an addition to the record rather than a development. No compliance assessment against the guidance appears for any municipality, and the two metro programmes on this ledger — a records digitisation rollout reported to the National Council of Provinces and an electronic records system awarded on a three-year term — both predate this window and are carried in the progress report.
+
+Two municipal items, one opening a counter and one pricing the problem. Home Affairs [opened an appointment-only office inside the Cape Town Civic Centre on 24 August, which the city describes as the first municipal facility to host a national home affairs office; 148 people applied on the opening day, and Atlantis is named next](https://www.timeslive.co.za/news/south-africa/2026-08-24-cape-town-residents-get-a-new-way-to-beat-home-affairs-queues/). The local government association [issued a request for proposal for consultants to build a municipal revenue management plan across the 257 municipalities it represents, putting consumer debt at about R467.2bn, municipalities' own debt to creditors at about R160.8bn, and annual water and electricity revenue loss at about R25bn from leaks, theft, illegal connections and weaknesses in metering and billing](https://www.sundaytimes.timeslive.co.za/news/2026-08-24-salga-needs-consultants-help-to-fix-almost-r500bn-municipal-debt/).
 
 ## Tanzania
 

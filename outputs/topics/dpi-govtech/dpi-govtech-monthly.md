@@ -1,10 +1,10 @@
 ---
 title: Other GovTech and e-Gov — monthly update, July 2026
-compiled: 2026-08-28
-period: 2026-07-01 to 2026-08-28
+compiled: 2026-08-29
+period: 2026-07-01 to 2026-08-29
 subject: dpi.govtech
 places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 39a600f63da4
+record: b88417afebb9
 ---
 
 # Other GovTech and e-Gov: monthly update, July 2026
@@ -30,6 +30,8 @@ The state fuel distributor [made its e-Mahata platform the single window for ord
 ## Angola
 
 The government-systems movement in the window is a procurement decision rather than a build. The executive [authorised an integrated digital transformation programme for the public finances by presidential order, as a direct award, covering modernisation of finance ministry services and a restructuring of state bodies and framed as raising revenue collection and cutting bureaucracy](https://correiokianda.info/executivo-preve-gastar-cerca-mais-de-2-mil-milhoes-de-kwanzas-para-digitalizar-financas-publicas/). What a direct award removes is the part of the record a reader could check: the supplier, the scope document and the delivery schedule are all unpublished, so the programme enters the ledger as an intention with a price attached and nothing behind it. Against that, the one government system already in service produced its first operating figures: the tax authority reported on 23 August that [51,245 large taxpayers and state suppliers had joined electronic invoicing since November 2025, issuing 36,341,801 invoices at a daily run-rate near 400,000 and peaking around 700,000, through 255 automatically certified software packages](https://angop.ao/en/noticias/economia/mais-de-50-mil-contribuintes-aderem-a-facturacao-electronica-em-angola/). The figures are the collector's own and the mandate reaches general and simplified-regime taxpayers only in 2027, so this is the compliant half of the base rather than the base.
+
+The health ministry's recruitment competition shows what online registration costs when it goes wrong. Of more than 420,000 who registered in July, [more than 170,000 were excluded for defective registration, leaving more than 262,000 to sit tests for 6,030 posts on 21-25 September, sat simultaneously nationwide and marked online](https://novojornal.co.ao/sociedade/detalhe/minsa-seleccionou-262-mil-candidatos-para-concurso-publico-mas-excluiu-170-mil-por-ma-inscricao-74185.html); a complaints window ran from 25 to 31 August.
 
 ## Benin
 
@@ -129,6 +131,8 @@ The finance ministry reported to Parliament that the customs valuation system ha
 
 The revenue side gained a plan on 12 August. A [Korean-backed Tax Modernisation Master Plan covering income tax, value-added tax, tax administration and electronic tax administration was set out](https://www.graphic.com.gh/business/business-news/ghana-korea-unveil-master-plan-for-tax-modernisation.html), with artificial intelligence already in service on customs valuation. No cost, timetable or implementation schedule accompanies it, which puts it a stage behind the customs system it is presented alongside.
 
+Two systems moved in opposite directions in the same week. The online passport application service [went down on 25 August, the foreign ministry confirming a technical fault the same day and naming no cause and no restoration date](https://www.graphic.com.gh/news/general-news/ghana-passport-online-portal-down-over-technical-problem.html). The accountant-general's department, meanwhile, [will suspend from 15 September the salaries of government employees whose national identity details are missing from or do not match the payroll system, ahead of a nationwide re-verification exercise](https://www.myjoyonline.com/government-workers-without-valid-nia-details-risk-salary-suspension-from-september-15/), the directive prompted by discrepancies surfaced when the upgraded payslip system left some employees unable to open their payslips.
+
 ## Guinea
 
 The treasury [began rolling out Œil du Trésor](https://mediaguinee.com/2026/07/gestion-des-fonds-publics-avec-transparence-le-tresor-public-accelere-la-digitalisation-a-travers-la-plateforme-oeil-du-tresor/), a platform for prefectural treasurers to submit and track fund calls. No cost, vendor or completion date was disclosed.
@@ -142,6 +146,8 @@ The Controller of Budget's report entered July's reading: [1,695 of a target 11,
 The platform sells better abroad than it migrates at home. Its operator [pitched the Democratic Republic of the Congo's digital economy ministry on 12 August on digital company registries, beneficial-ownership traceability and real-time state-revenue tracking](https://acp.cd/economie/rdc-la-mise-en-place-de-registres-numeriques-recommandee-pour-moderniser-ladministration/), citing eCitizen's forty-plus digitised services and existing registry deployments in Malawi and South Sudan; the Congolese minister asked officials to continue talks toward a partnership. The claims are the vendor's own, made in a sales meeting, and the same operating consortium's domestic position remains under challenge.
 
 The procurement platform got a hard date for the tier that has resisted it. On 25 August the Treasury [gave all 47 county governments until 30 September 2026 to finish integrating the electronic procurement platform with the Integrated Financial Management Information System, so that tendering, award and contract monitoring connect to budget planning, spending and payment](https://www.wearetech.africa/actualites/fils/actualites/gestion-publique/kenya-les-47-comtes-sommes-de-passer-aux-marches-publics-numeriques). The deadline lands on a rollout that has already slipped: a first phase launched in April 2025 for extension to all national and local administrations from 1 July 2025, against resistance from the Council of Governors over pace and service disruption, with more than 900 public entities migrated by February 2026. Public procurement is [put at close to 30% of Kenyan GDP](https://www.wearetech.africa/actualites/fils/actualites/gestion-publique/kenya-les-47-comtes-sommes-de-passer-aux-marches-publics-numeriques), which is the size of what the deadline is meant to bring onto one record.
+
+The election system's own procurement stopped moving. The electoral commission [said tenders for the Integrated Elections Management System hardware and for ballot papers were temporarily halted after a request for review at the procurement review board, with the Register of Voters to undergo a 30-day biometric verification and an independent audit before certification](https://www.standardmedia.co.ke/business/national/article/2001556378/iebc-rejects-gachaguas-claims-defends-2027-polls-preparations).
 
 ## Lesotho
 
@@ -288,6 +294,8 @@ Two services were told to integrate or to open. The Public Protector [found the 
 
 The month's longest departmental procurement went to the least connected population in the country. Correctional services [advertised a fifteen-year tender for an inmate communication system across 243 centres, replacing copper telephony that has deteriorated beyond support for about 166,000 inmates](https://www.itweb.co.za/article/top-ict-tenders-inmates-to-get-telecoms-upgrade/KzQenvjyx98qZd2r), the appointed supplier to design, install, integrate, operate and maintain it and to tie it to the inmate cash system so that airtime is bought from prisoners' own balances, with monitoring, recording, data storage, security and compliance in scope. No contract value is published and [bids close on 14 September](https://www.itweb.co.za/article/top-ict-tenders-inmates-to-get-telecoms-upgrade/KzQenvjyx98qZd2r), so nothing is awarded.
 
+The social security agency [opened a messaging self-service channel letting a grant beneficiary check application status, review status and proof-of-life verification without visiting an office, after verification by mobile number, one-time PIN and identity number](https://www.citizen.co.za/alberton-record/news-headlines/local-news/2026/08/28/sassa-rolls-out-whatsapp-self-service-for-grant-beneficiaries/); no usage figure is published.
+
 ## South Sudan
 
 On 20 July revised fees were [published on the electronic visa portal](https://techcabal.com/2026/07/20/south-sudan-slaps-visa-kenya-rwanda-uganda/), putting US$50 on citizens of Kenya, Uganda, Rwanda and DR Congo and US$100 on Somali, Burundian and Nigerian citizens.
@@ -304,6 +312,8 @@ The central bank [launched a sovereign yield curve system on 7 August](https://w
 
 Upstream of any single system, German cooperation [tendered a consultancy on 5 August to identify and prepare bankable digital public infrastructure projects across Tanzania, Kenya and Uganda](https://www.gtai.de/de/trade/tansania/ausschreibungen-projekte/consulting-digitale-oeffentliche-infrastrukturprojekte-ostafrika--2018684) — identity, data exchange, payments and e-government — under the European programme with the East African Community. A procurement notice fixes the consultancy and nothing about any project it may produce; neither value nor duration is stated.
 
+The commodity exchange took its first crop online. The cereals regulator [sold 335,238 kilogrammes of white maize in Rukwa Region in a first phase run on a digital trading system, with the mercantile exchange, the warehouse receipts board and the cooperative development commission joining the sale and an accredited laboratory testing aflatoxin and moisture before bidding](https://www.thecitizen.co.tz/tanzania/business/tanzania-makes-history-with-first-ever-digital-white-maize-auction-5572996); further phases are unannounced.
+
 ## Togo
 
 Two government systems advanced without either being shown in production. [Document management and digitisation training ran at the finance ministry](https://www.togofirst.com/fr/gestion-publique/0707-19475-togo-la-transition-numerique-relance-le-chantier-de-la-gestion-des-archives), with no statement that the system itself is live; and the volunteering agency's [mobile application is live](https://www.republiquetogolaise.tg/tic/2707-12130-volontariat-l-anvt-lance-son-application-mobile) carrying four programmes for registration and record tracking, with no formal launch date and nothing establishing whether it authenticates against a national citizen account or mints a separate identity store.
@@ -313,6 +323,8 @@ Two government systems advanced without either being shown in production. [Docum
 Two more registers moved. The employment ministry [launched the national register of community companies on 20 July 2026](https://www.nessma.tv/fr/economie/actu/lancement-du-registre-national-des-societes-communautaires-pour-impulser-le-developpement-local/560812), and the launch figures were the disclosure: 230 companies created, 15,000 participants, but only 60 operational and 380 jobs. On [4 August the tax directorate put business tax registration online](https://www.lapresse.tn/2026/08/04/patente-en-ligne-la-direction-generale-des-impots-lance-sa-nouvelle-plateforme-numerique/), ending the required visit to a tax office; it was announced by video capsule rather than by gazette, and its confidentiality assurance names no instrument and no supervisory authority.
 
 A restricted ministerial council of 16 August put a count on the rest: [114 projects in execution, some reported above 90% complete](https://africanmanager.com/transformation-numerique-114-projets-en-cours-et-lancement-imminent-de-lapplication-khadamet/), covering remote residence certificates, driving-licence renewal, remote passport and identity-card applications, the national health identifier and the customs and health-insurance systems. It is not the same measure as the 192 projects the February council tracked, and the two should not be read as a fall. The council also announced [the imminent launch of a Khadamet mobile application offering more than 40 administrative services, reached through the national digital identity and paid by card or virtual wallet](https://africanmanager.com/transformation-numerique-114-projets-en-cours-et-lancement-imminent-de-lapplication-khadamet/). No launch date was given, and the application sits on top of the existing administrative portal of the same name rather than replacing it.
+
+The industry ministry [opened a unified digital services platform on 28 August, its first online service the technical cards governing effective transfer operations - more than 4,000 a year - filed and processed entirely online and interconnected with customs so data is exchanged and decisions notified in real time](https://www.alchourouk.com/article/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B5%D9%86%D8%A7%D8%B9%D8%A9-%D8%AA%D8%B7%D9%84%D9%82-%D9%85%D9%86%D8%B5%D8%AA%D9%87%D8%A7-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D9%88%D8%AA%D8%B6%D8%B9-%D8%A3%D9%88%D9%84%D9%89-%D8%AE%D8%AF%D9%85%D8%A7%D8%AA%D9%87%D8%A7-%D8%A7%D9%84%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A9-%D8%AD%D9%8A%D9%91%D8%B2-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%BA%D9%84%D8%A7%D9%84), running on the national digital identity mechanisms and linked to the enterprise register, with import authorisations, an olive oil promotion fund and establishment licences to follow.
 
 ## Uganda
 

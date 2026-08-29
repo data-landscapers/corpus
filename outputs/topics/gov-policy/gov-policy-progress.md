@@ -1,21 +1,23 @@
 ---
-title: Strategies, plans and policies — progress report, 2025-08-01 to 2026-08-28
-compiled: 2026-08-28
-period: 2025-08-01 to 2026-08-28
+title: Strategies, plans and policies — progress report, 2025-08-01 to 2026-08-29
+compiled: 2026-08-29
+period: 2025-08-01 to 2026-08-29
 subject: gov.policy
 places: XAF; XSA; XWA
-record: 2fa45c050469
+record: f2e3e199f765
 ---
 
-# Strategies, plans and policies: progress report, 2025-08-01 to 2026-08-28
+# Strategies, plans and policies: progress report, 2025-08-01 to 2026-08-29
 
 *3 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
+*The place reports do not share one window; the period above is the range they span.*
+
 ## Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-28 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-29 | Movement |
 |---|---|---|---|
 | Anti-IFFs Policy Tracker | Piloted eighteen months in Cote d'Ivoire, Ghana, Liberia, Namibia, Uganda and Zambia, built by Tax Justice Network Africa with the AU Commission's ETTIM department and the African Tax Administration Forum | [Endorsed for continental roll-out as a standing self-assessment instrument scoring anti-IFF policy, legal, institutional and data-sharing frameworks; no roll-out timetable, country list or governance body named](https://www.taxjusticeafrica.net/resources/news/landmark-win-africa-au-member-states-endorse-continental-roll-out-anti-iffs-policy) | Advanced |
 | AUDA-NEPAD island economies programme | Did not exist | [A country-owned framework for seven island states built around industrialisation, digitalisation, corridors and AI, in partnership with the Republic of Korea; the ministerial communique adopting it is not published](https://www.nepad.org/news/auda-nepad-launches-first-continental-programme-dedicated-africas-island-economies) | Advanced |
@@ -29,7 +31,7 @@ record: 2fa45c050469
 
 ## West Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-28 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-29 | Movement |
 |---|---|---|---|
 | BCEAO regulatory approach to cryptoassets | No recognition of cryptoassets as legal tender and repeated warnings to users, with no regulatory work under way | [The central bank opened a structured process across 2025 and 2026: a questionnaire sent to fintech operators, a dedicated committee named C-CRYPTO, and a high-level international conference in May 2026. Cryptoassets remain outside legal tender and no instrument has been issued; the legal framework is described as still incomplete, and the question the bank has set itself is how to admit the instruments without compromising monetary stability, the issuance monopoly of the CFA franc and the integrity of the regional financial system](https://www.financialafrik.com/en/2026/08/26/regulation-of-cryptoassets-in-the-uemoa-between-financial-innovation-and-preservation-of-monetary-stability/) | Advanced |
 | ECOWAS Regional Digital Single Market roadmap | Did not exist | [Adopted as a commitment to harmonise policy across interoperable fintech, unified digital ID and rural broadband; no work programme, timetable or budget held](https://prnigeria.com/2026/01/24/ecowas-adopts-digital-roadmap/) | Advanced |

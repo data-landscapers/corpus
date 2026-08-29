@@ -1,10 +1,10 @@
 ---
 title: Strategies, plans and policies — monthly update, July 2026
-compiled: 2026-08-28
-period: 2026-07-01 to 2026-08-28
+compiled: 2026-08-29
+period: 2026-07-01 to 2026-08-29
 subject: gov.policy
 places: BEN; BWA; BFA; CMR; CPV; CAF; TCD; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NGA; RWA; STP; SEN; SYC; SLE; ZAF; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: e4b301e784c2
+record: e80cacda7ed7
 ---
 
 # Strategies, plans and policies: monthly update, July 2026
@@ -58,6 +58,8 @@ A [public-finance digital transformation steering committee met for the first ti
 The draft cyber-security strategy for 2026 to 2030 was [put to stakeholder review on 23 July](https://www.aip.ci/cote-divoire-aip-cybersecurite-lanssi-prepare-une-nouvelle-strategie-nationale-face-a-la-montee-des-menaces-numeriques/) and awaits the Council of Ministers; the 2021 to 2025 text remains the instrument formally in force. The draft extends scope to artificial intelligence, emerging technologies and cloud.
 
 The universal-service agency published its own five-year plan on 11 August. It [rests on four pillars — universal connectivity, digital services and financial inclusion, digital usage and literacy, and operational excellence — across ten projects, four of them funded at FCFA 60.144bn through the national development plan and six from the agency's own funds](https://digitalmag.ci/parlons-projet-gilles-thierry-beugre-devoile-le-plan-strategique-2026-2030-de-lansut/). The [stated targets are 300 newly connected localities, smartphone penetration of 80% by 2028 against 40% now, and more than 15,000 km of new fibre by 2028, against a starting point at which 70% of rural households have no internet access](https://digitalmag.ci/parlons-projet-gilles-thierry-beugre-devoile-le-plan-strategique-2026-2030-de-lansut/). No adoption instrument is published; the plan is the agency's own.
+
+The space agency got its first head more than a year after the decree that created it. The government [appointed an inaugural Director General of the Space Agency, a public administrative institution of a scientific and technological character under the higher education ministry with programme areas spanning Earth observation, space meteorology, astronomy, satellite navigation and satellite communications](https://spaceinafrica.com/2026/08/28/dr-tidiane-ouattara-appointed-inaugural-dg-of-cote-divoires-space-agency-2/); the appointment date is not stated.
 
 ## Djibouti
 
@@ -129,6 +131,8 @@ On 20 July the [Technical Assistance Facility for the Refondation was launched a
 ## Malawi
 
 The draft national artificial intelligence strategy the UNESCO readiness assessment is intended to guide remains pre-adoption.
+
+The revenue authority launched a five-year Corporate Strategic Plan in Blantyre on 24 August, [resting on a wider tax base, digitisation and evidence-based research and targeting a rise in the tax-to-GDP ratio from 16 per cent towards 20 per cent by 2031](https://malawi24.com/2026/08/25/mra-strategy-plan-targets-stronger-domestic-revenue-for-malawi/), the finance minister framing domestic taxation as the route left by falling donor support and shrinking customs revenue.
 
 ## Mali
 
@@ -218,6 +222,8 @@ The [government roadmap for 2026-2031 is in force](https://www.republiquetogolai
 ## Tunisia
 
 Policy movement in the window was a meeting rather than an instrument. The head of government [chaired a ministerial council devoted to digitalisation, stating that it is a necessity rather than a choice](https://pm.gov.tn/fr/decision-gouvernementale/zenzri-lors-dun-conseil-ministeriel-la-digitalisation-nest-pas-un-choix). The council's decisions are not itemised in the record held, so what the base can carry is the fact that it met and the framing it used.
+
+The customs administration [settled a 2026-2030 strategic plan built around digitisation, presented with a governance charter, its axes covering border protection, an environment for attracting foreign investment, revenue collection, working methods and social responsibility](https://www.alchourouk.com/article/%D8%A7%D9%84%D8%AF%D9%8A%D9%88%D8%A7%D9%86%D8%A9-%D8%AA%D8%B6%D8%A8%D8%B7-%D9%85%D8%AE%D8%B7%D8%B7%D9%87%D8%A7-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%B1%D8%A7%D8%AA%D9%8A%D8%AC%D9%8A-2026-2030); the plan document itself is not published.
 
 ## Uganda
 

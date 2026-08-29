@@ -1,10 +1,10 @@
 ---
 title: National statistics — monthly update, July 2026
-compiled: 2026-08-28
-period: 2026-07-01 to 2026-08-28
+compiled: 2026-08-29
+period: 2026-07-01 to 2026-08-29
 subject: data.statistics
 places: AGO; BEN; BWA; CMR; CPV; CAF; TCD; COM; COG; COD; EGY; GNQ; SWZ; GAB; GMB; GHA; GNB; LBY; MDG; MWI; MLI; MRT; MOZ; NAM; NER; NGA; SEN; SYC; ZAF; SSD; TUN; UGA; ZWE
-record: 10c0c995d028
+record: 07ffb603107e
 ---
 
 # National statistics: monthly update, July 2026
@@ -69,6 +69,8 @@ INEGE opened a three-day validation workshop on 27 July at the Ministry of Finan
 
 Census preparation was validated a second time in four weeks without an enumeration date being set. The scientific committee [validated the project document, the resource-mobilisation strategy and the communication strategy for the fifth population and housing census and the first agricultural census](https://ahoraeg.com/politica/2026/08/20/el-comite-cientifico-valida-los-documentos-estrategicos-del-v-censo-de-poblacion-y-del-i-agropecuario/), reading into the record the 2025 decree ordering both operations and the resolution that created the committees. The project document is stated to fix objectives, methodology, timetable and the agricultural sample size; none of it is published, and neither is a date on which anyone will be counted.
 
+The fifth interministerial council of the year [adopted a National Quality Assurance Framework for official statistics on 25 August, a standardised protocol for the collection, processing and dissemination of socio-economic data presented as aligning national method with international standards](https://ahoraeg.com/politica/2026/08/25/el-gobierno-afianza-la-disciplina-fiscal-y-la-transparencia-en-el-quinto-consejo-interministerial-del-2026/); the framework text is not published.
+
 ## Eswatini
 
 The central bank [launched the FinScope Eswatini 2026 Consumer Survey on 24 July](https://independentnews.co.sz/46654/business/cbe-launches-new-survey-to-gauge-state-of-financial-inclusion/) with ESEPARC, the Central Statistical Office and FinMark Trust. [Its governor said the 87% access rate recorded in 2018 measured access rather than use, and that the 2026 round will cover access, usage and quality — the first measurement since the Consumer Credit Act, the payment switch and the FinTech Strategy changed the stack](https://independentnews.co.sz/46654/business/cbe-launches-new-survey-to-gauge-state-of-financial-inclusion/). No fieldwork dates, sample size or publication date were given.
@@ -126,6 +128,8 @@ Traditional chiefs at Diffa were [trained as mobilisers for the fifth population
 ## Nigeria
 
 An inclusive-data initiative brought the national statistics office into a five-country programme.
+
+A state put a household survey at the centre of its budgeting. Katsina [launched six planning documents on 28 August, among them a General Household Survey Report and a State Statistical Yearbook covering poverty, employment, livelihoods, agriculture, education, healthcare, housing, water, sanitation and access to basic services across its 34 local government areas](https://www.vanguardngr.com/2026/08/radda-moves-katsina-to-data-driven-governance-targets-poverty-food-crisis/), the budget commissioner directing agencies to align their programmes to the new frameworks.
 
 ## Senegal
 

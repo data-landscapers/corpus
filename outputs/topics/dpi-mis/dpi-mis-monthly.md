@@ -1,15 +1,15 @@
 ---
 title: Sectoral management information systems (HMIS, EMIS, etc.) — monthly update, July 2026
-compiled: 2026-08-28
-period: 2026-07-01 to 2026-08-28
+compiled: 2026-08-29
+period: 2026-07-01 to 2026-08-29
 subject: dpi.mis
-places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COG; CIV; COD; EGY; ETH; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; ZMB; ZWE
-record: 66004e3fcee4
+places: DZA; AGO; BEN; BWA; BFA; BDI; CMR; CPV; CAF; TCD; COM; COG; CIV; COD; EGY; ETH; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MUS; MAR; MOZ; NAM; NER; NGA; RWA; STP; SEN; SYC; SLE; SOM; ZAF; SSD; SDN; TZA; TGO; TUN; ZMB; ZWE
+record: 3416dcf8ac05
 ---
 
 # Sectoral management information systems (HMIS, EMIS, etc.): monthly update, July 2026
 
-*45 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*46 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -53,6 +53,10 @@ Health information in the window is a single link run by someone other than the 
 
 The education management information system is [in use in the higher-education ministry, whose statistics and digitalisation staff were trained between 20 and 25 July](https://www.unesco.org/fr/articles/le-mesrsfp-renforce-les-capacites-de-ses-agents-sur-lapplication-stateduc-pour-ameliorer-la) on questionnaire configuration, data-entry masks, extraction and database validation. No coverage figure or published output is held, and nothing at all is on file for the basic-education ministry. Electronic medical records and interconnection of health facilities remain [exploratory, discussed on a Washington mission with no contract, pilot or system named](https://techafricanews.com/2026/07/01/chad-and-us-explore-partnerships-on-satellite-connectivity-and-cybersecurity/).
 
+## Comoros
+
+The base holds one movement on school records this window, and it is private rather than ministerial. Cschool, a school-management platform built to centralise pupil enrolment, report cards, examinations, financial tracking, parent communication and online payment of fees, [was launched at Comor'Lab on 25 August](https://alwatwan.net/societe/transformation-num%C3%A9rique-i-abdoul-wahid-hassani-lance-officiellement-%C2%ABcschool%C2%BB.html); no adoption decision, procurement route or school count is stated, and the hosting association's call for the education ministry to require interoperability with existing systems drew no answer on adoption.
+
 ## Congo
 
 Health acquired equipment rather than a system. On 7 August the Global Fund and UNDP [handed over e-health equipment, a P2-level biosafety laboratory and a secure biomedical-waste management system at the Edith Lucie Bongo Ondimba hospital at Oyo](https://fr.apanews.net/health/congo-le-systeme-de-sante-se-renforce-grace-au-numerique-et-aux-laboratoires/), for early disease detection, patient data management and health-service coordination. It is a single site; no value, system name, national rollout or interoperability with any other health system is stated, and it sits beside a civil-service payroll platform whose own operator has minuted three failure modes. That platform gained a fourth problem in public: the public service minister [told the Senate on 7 August of fraudulent duplicate payroll numbers and of deceased or retired staff still drawing salaries](https://brazzavilleinsider.com/congo-bets-on-digital-records-to-curb-civil-fraud/). No count, value or remedy is stated, and the disclosure is the minister's own.
@@ -78,6 +82,8 @@ A technology group and a bank [signed an agreement to digitise the agricultural 
 ## Gabon
 
 On 30 July the education ministry received 1,000 tablets for what the minister described as 148 connected schools ([handover](https://agpgabon.ga/gabon-remise-de-1-000-tablettes-au-ministere-de-leducation-nationale/)).
+
+The state's civil-service human-resources record has been failing for months. The Fichier unique de reference [is near-inoperative, blocking tenure confirmations, reclassifications, recruitments and promotions and stopping their pay effects reaching agents, the breakdown sitting in the data-replication link between the civil service and pay services; on 25 August the vice-president of the government ordered an emergency plan restoring career management, agent mobility and data replication](https://union.sonapresse.com/fr/fonction-publique-redynamiser-le-fichier-unique-de-reference). The civil service ministry says it is migrating to an integrated state human-resources management system.
 
 ## Ghana
 
@@ -146,6 +152,8 @@ On 27 July the public service minister [presented the integrated state human res
 ## Nigeria
 
 Federal [HR and payroll](https://fmino.gov.ng/fg-launches-ippis-human-resource-modules-deepens-digital-transformation-of-civil-service/) moved to a locally built platform across more than 508 ministries and more than 600,000 civil servants, justified explicitly as data sovereignty.
+
+The federal payroll is to be audited from the outside. The President [directed the finance minister on 28 August to coordinate a forensic audit of the integrated personnel and payroll information system and related payroll, pension and financial-management platforms - reconciling ghost-worker figures, tracing how ineligible persons were enrolled, reviewing access, identity, biometric and bank-account controls, and examining the interfaces with the financial management system and the Treasury Single Account](https://www.thisdaylive.com/2026/08/29/fake-agencies-tinubu-orders-forensic-sweep-of-ippis-ministries-fg-institutions/), alongside a definitive inventory of every federal agency and its legal basis.
 
 ## Rwanda
 

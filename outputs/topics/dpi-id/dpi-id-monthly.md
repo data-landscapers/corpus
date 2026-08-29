@@ -1,10 +1,10 @@
 ---
 title: Digital Identity and CRVS — monthly update, July 2026
-compiled: 2026-08-28
-period: 2026-07-01 to 2026-08-28
+compiled: 2026-08-29
+period: 2026-07-01 to 2026-08-29
 subject: dpi.id
 places: DZA; AGO; BWA; BFA; BDI; CMR; CPV; COG; CIV; DJI; COD; EGY; ETH; GMB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SLE; SOM; ZAF; SSD; SDN; TZA; TUN; UGA; ZMB; ZWE
-record: 86ed6bb229c0
+record: 6add48e8e0a0
 ---
 
 # Digital Identity and CRVS: monthly update, July 2026
@@ -22,6 +22,8 @@ The unified national digital identity is being used as a single sign-on, and the
 On 28 July the justice ministry [launched an at-home service priced at Kz 250,000](https://angop.ao/noticias/politica/ministerio-da-justica-lanca-servico-de-tratamento-do-bi-ao-domicilio/) for processing and Kz 10,000 for delivery alone, in one province only, the minister justifying the fee as a product of exclusivity.
 
 The single digital identity, named as a workstream since 2024 and as [a component of the US$150m public digital infrastructure contract in June](https://angop.ao/noticias/economia/ima-e-tis-formalizam-contrato-para-implementacao-do-projecto-digitais-publicas/), acquired a price and a procurement. [Despacho Presidencial 300/26 of 13 August authorised US$28m and opened the public tender](https://pti.ao/pr-aprova-usd-28-milhoes-para-aquisicao-de-plataforma-de-identidade-digital-e-assinaturas-electronicas/) for a National Digital Identity and Electronic Signatures Platform, specified to support up to 30 million digital identities and to let citizens, firms and public officials use one digital credential for public services, digital contracts, electronic verification of customers and legally valid electronic signatures. No supplier, timetable, or relationship to the earlier contract is stated.
+
+The territorial administration ministry is updating the voter register at a religious pilgrimage, [stationing brigades at the Muxima sanctuary from 29 August to 6 September under the 2026-2027 official electoral registration, with more than a million citizens already enrolled for the 2027 general election](https://novojornal.co.ao/politica/detalhe/mat-aproveita-peregrinacao-a-muxima-para-pescar-dados-eleitorais-74244.html); pilgrims need an identity card or voter card to take part.
 
 ## Botswana
 
@@ -87,6 +89,8 @@ What is not on the record is the counterweight. A published critique argues the 
 
 The [National Identity Management System went live on 1 July 2026](https://standard.gm/barrow-inaugurates-national-data-centre-digital-identity-system/), issuing GAM ID cards on the spot, with nationwide enrolment from 4 August 2026. On 7 August the interior ministry [began a nationwide rollout of new ten-year biometric national identity cards, with registration opening simultaneously at six centres](https://www.voicegambia.com/gambia-rolls-out-new-10-year-national-identity-cards/), produced with a Ghana-based supplier. No enrolment or issuance figure has been published since launch, so the system's reach is unestablished.
 
+The rollout got the calendar the base had been missing. The government [published the phased schedule and fee structure: registration extends to Sibanor and Jarra Soma on 7 September, to Barra, Kerewan, Farafenni and Kaur on 11 September and to Janjanbureh, Basse and Fatoto on 21 September, with a first-time card at D450 waived during the rollout for holders of a valid immigration department card](https://thepoint.gm/africa/gambia/headlines/govt-launches-first-phase-of-new-biometric-national-id-card-rollout). An applicant with no passport, birth certificate or prior document must be vouched for by both the Alkalo and the Seyfo of their place of residence.
+
 ## Ghana
 
 The identity regulator publicised amendment regulations on 16 July that had come into force on 9 June, and the interior minister then set the enforcement date: banks, telecoms operators, hospitals, schools, insurers and agencies have [a three-month transition from 27 July to 2 November 2026](https://www.graphic.com.gh/news/general-news/banks-telcos-and-hospitals-have-until-november-2-to-stop-taking-ghana-card-photocopies.html) to install readers and integrate with the verification service, on a sanctions ladder running to suspension of access and licence withdrawal. Verification tied to SIM registration is explicitly excluded, with no timetable announced.
@@ -120,6 +124,8 @@ A second identity register is being built outside the state entirely. On 16 Augu
 ## Libya
 
 The national digital identity's [biometric tier is in technical trials with the central bank and several banks, ahead of integration into banking know-your-customer checks](https://www.gia.gov.ly/en/2026/07/09/the-general-information-authority-participates-in-a-national-workshop-to-enhance-information-exchange-in-combating-money-laundering-and-terrorism-financing/). The [same system is named differently in the authority's own April and July releases](https://www.gia.gov.ly/en/2026/04/19/general-information-authority-central-bank-of-libya-national-authority-for-combating-money-laundering-with-the-relevant-authorities/), which is the only naming the base has for it.
+
+An independent count put a figure on what the enforcement is chasing. A data analysis built on 66 official publications of the Attorney General's office to April 2026 [found 278,969 nationality files exposed to forgery over a 43-year window, with 10,620 families and more than 4,000 individuals implicated, and named five mechanisms from insertion of records into family registers to direct manipulation of the registry database](https://alwasat.ly/news/475886).
 
 ## Madagascar
 
@@ -207,6 +213,8 @@ Home Affairs reported that its electronic travel authorisation had [refused more
 By mid-August the branch channel had a locator of its own. The department [launched a My Home Affairs Online portal on 17 August to help citizens find a participating branch, putting the network at 372 branches and more than half a million users to date](https://www.biometricupdate.com/202608/south-africa-advances-broader-digital-identity-and-public-services-ecosystem), and framing it with the electronic travel authorisation as a building block of the national digital public infrastructure roadmap. Its own downtime statement a week earlier put the branch count above 408; the two are not reconciled. The travel authorisation itself [drew industry questions over its R500 fee and the adequacy of consultation](https://www.tourismupdate.com/article/schreiber-faces-industry-questions-over-eta) after its airport launch.
 
 The draft digital-identity regulations drew their sharpest technical criticism yet. A published argument holds that they [under-specify verifier authentication, transparency about the purpose of a request, and enforcement of data minimisation](https://it-online.co.za/2026/08/11/share-doesnt-mean-surrender-when-it-comes-to-digital-id/), and urges binding rules requiring a requesting party to prove who it is, state why it is asking, and log every share — so that accountability falls on institutions rather than on the citizen who consented.
+
+The department put a number on the fraud it is chasing. The minister [said about 300,000 identity documents have been blocked behind court orders where duplicates or people illegally in the country were detected, that the great majority of identity-theft cases involve the manual green identity book still held by about 16 million people, and that the answer is expanding the smart card and the electronic travel authorisation](https://www.sundaytimes.timeslive.co.za/news/2026-08-27-home-affairs-blocks-300000-ids-amid-fraud-crackdown/).
 
 ## South Sudan
 

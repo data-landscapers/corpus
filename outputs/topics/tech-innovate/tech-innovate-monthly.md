@@ -1,10 +1,10 @@
 ---
 title: Innovation ecosystem — monthly update, July 2026
-compiled: 2026-08-28
-period: 2026-07-01 to 2026-08-28
+compiled: 2026-08-29
+period: 2026-07-01 to 2026-08-29
 subject: tech.innovate
 places: DZA; BFA; BDI; CMR; CPV; CIV; DJI; COD; EGY; ERI; SWZ; GAB; GMB; GHA; KEN; LSO; LBR; MLI; NER; NGA; RWA; SEN; SOM; ZAF; TZA; TUN; UGA; ZMB
-record: 13221487e80c
+record: b47f3d9b7a84
 ---
 
 # Innovation ecosystem: monthly update, July 2026
@@ -64,6 +64,8 @@ On 15 August the Ministry of Information [interviewed Shambko Apps Group, a self
 The open-innovation programme was launched on 14 July 2026 with the employers' federation, addressing a population the organisers put at 150 to 200 start-ups, with pre-selection on 24 July and a final on 4 August ([launch](https://www.gabonreview.com/kimba-connect-le-gabon-lance-son-premier-defi-national-dopen-innovation-pour-accelerer-la-transformation-numerique/)). The final was postponed on 6 August after participating start-ups objected to how the edition was organised, and a [revised agenda published on 11 August](https://agpgabon.ga/gabon-numerique-kimba-connect-le-bilan-de-la-premiere-preselection-dresse/) runs pitches to 24 August and moves the final to late September or early October. The same account gives the programme's first participation figures: 155 registered start-ups, 133 of which submitted against its 16 published challenges, and 66 shortlisted. The figures are the organisers' own and no laureate list or selection criteria has been published.
 
 On 4 July, at the data-centre inauguration, the ministry and the facility's operator signed a memorandum giving ministry-supported start-ups professional hosting at preferential rates ([account](https://www.wearetech.africa/en/fils-uk/news/tech/gabon-launches-14-million-tier-iii-data-center-in-digital-sovereignty-push)). No rate, eligibility list or take-up figure has been published.
+
+The state digital incubator was not closed after all. It [has been placed under interim management, a deputy director general of the state holding that owns 30 per cent of its capital taking the post pending a new model, with a state takeover, conversion to a parapublic entity, absorption into the national innovation centre or supervision by the holding all under discussion](https://union.sonapresse.com/fr/sing-une-restructuration-en-vue-apres-le-depart-du-directeur-general); the digital economy ministry is to decide.
 
 ## Gambia
 

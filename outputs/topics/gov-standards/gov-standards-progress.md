@@ -1,26 +1,28 @@
 ---
-title: Standards — progress report, 2025-08-01 to 2026-08-28
-compiled: 2026-08-28
-period: 2025-08-01 to 2026-08-28
+title: Standards — progress report, 2025-08-01 to 2026-08-29
+compiled: 2026-08-29
+period: 2025-08-01 to 2026-08-29
 subject: gov.standards
 places: XAF; XSA; XWA
-record: 7f6a091baf52
+record: e3f09d5daa41
 ---
 
-# Standards: progress report, 2025-08-01 to 2026-08-28
+# Standards: progress report, 2025-08-01 to 2026-08-29
 
 *3 places. Every table below is carried verbatim from that place's own progress report; nothing is written here.*
 
 **Movement values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a measured position worsened. *Closed* — the programme ended. *No change* — the position at both ends is the same. ***Baseline not held*** — the base carries no position at the start of the period, so no movement can be stated. A value may carry a qualifying clause after a comma, as in *Advanced, slipped*.
 
+*The place reports do not share one window; the period above is the range they span.*
+
 ## Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-28 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-29 | Movement |
 |---|---|---|---|
 | Africa PKI Forum harmonisation of digital-trust rules | Did not exist | [Participants called for harmonised African rules so that digital credentials, electronic signatures and documents can be verified across borders; nothing is adopted and no instrument, timetable or signatory list is on file](https://ait.live/africa-moves-to-harmonise-digital-trust-rules-across-borders/) | Advanced |
 | African Common Proposals for WRC-27 | Preliminary African Common Proposals for WRC-27 and RA-27 are to be consolidated from the recommendations of the African Telecommunications Union's WRC-27 working groups at the third African Preparatory Meeting, Tunis, 7-11 September 2026, co-organised with Tunisia's Agence Nationale des Frequences; no proposal text is published | [The union's third radiocommunication working group met as an e-meeting convened from Nairobi from 18 to 21 August 2026, input contributions having closed on 11 August, to prepare its recommendations for the third African Preparatory Meeting; the meeting's own output is not published, and no proposal text is published](https://atuuat.africa/event/atu-r-wg3/) | Advanced |
 | AFRINIC Constitution (Bylaws) | Fifth version in force since December 2020, with no review under way | [The Bylaws Review Committee ran a first consultation from 2026-04-20, extended on 2026-05-08 to close 2026-05-17, published a draft amended Constitution on 2026-08-04 for a second consultation that closed 2026-08-21, and opened a third round on 2026-08-25 closing 30 August while it reviews the second round's submissions. It has now obtained an independent external legal opinion on a dispute resolution clause and on the legality of the board's discretionary power to terminate resource membership, and states that it does not at this stage intend to recommend a dispute resolution clause and is considering options to strengthen the safeguards on the termination power; the opinion itself is withheld as privileged. The draft's Article 24, governing law and dispute resolution, was still blank in the 53-page draft members were asked to review provision by provision, carrying only a bracketed note that advice had been sought. A new Article 3 would write into the constitution that AFRINIC is the Regional Internet Registry for Africa and the Indian Ocean and that its governance will be periodically reviewed against internationally recognised governance standards; proposed article 9.8 would let a two-thirds board vote revoke the nomination committee and restart an election the board itself had judged to have failed; the current rule barring a conflicted director from voting would be dropped and recusal relocated into board policy, which matters because Mauritius company law lets an interested director vote after disclosure unless the constitution says otherwise; article 16 opens a wide advice channel with no register of advice given or received; and article 17.5 would create an acting chief executive office with no maximum term. The published-draft milestone slipped about six weeks against the Committee's own indicative timetable while the Special General Members Meeting stayed in September 2026, and no consolidation or analysis of any round's submissions is published](https://lists.afrinic.net/pipermail/africann/2026-August/014834.html) | Advanced |
-| AFRINIC IPv4 policy proposal AFPUB-2026-IPv4-002 (waiver of the 90% utilisation threshold) | Did not exist | [Draft 1 dated 6 May 2026 and Draft 2 dated 16 June 2026, presented on 24 June and moved to Last Call on rough consensus at AFRINIC-37, still a proposal rather than an implemented exception as at 23 August 2026. It would waive the Exhaustion Phase requirement to demonstrate at least 90% use of all prior IPv4 resources where a demonstrated key technical purpose - redundancy, high availability, IPv6 transition mechanisms, expansion to new sites - cannot practically be served from existing resources, treating such a request like a first allocation; the whole evidence rule is that the justification be sufficiently documented, the registry's head of member services having drawn the boundary that technical constraints may support the exception and operational ones may not, and the author having declined to publish any universal document list](https://btw.media/en/governance/rir-watchdog/afrinic/story/afrinic-draft-2-waive-90-sufficiently-documented-no-fields) | ***Baseline not held*** |
+| AFRINIC IPv4 policy proposal AFPUB-2026-IPv4-002 (waiver of the 90% utilisation threshold) | Did not exist | [Draft 1 dated 6 May 2026 and Draft 2 dated 16 June 2026, presented on 24 June and moved to Last Call on rough consensus at AFRINIC-37, still a proposal rather than an implemented exception as at 23 August 2026. The Last Call text is now held: it amends Article 5.4.6.1 of the Consolidated Policy Manual so that members with multiple sites or high-availability needs qualify for new allocations without first reaching 90 per cent utilisation of prior blocks, where a demonstrated key technical purpose cannot practically be served from existing resources, treating such a request like a first allocation; the whole evidence rule is that the justification be sufficiently documented, the registry's head of member services having drawn the boundary that technical constraints may support the exception and operational ones may not](https://afrinic.net/afpub-2026-ipv4-002-draft02.html) | ***Baseline not held*** |
 | Continental ICT standardisation alignment | ***Baseline not held*** | [Talks opened on a coordinated continental approach across the standards lifecycle, from development through harmonised adoption and implementation by countries, naming fragmentation and the failure to translate continental and international standards into national frameworks as the problem](https://techreviewafrica.com/news/6809/atu-gist-and-arso-seek-stronger-alignment-of-ict-standards-across-africa) | ***Baseline not held*** |
 
 ## Southern Africa
@@ -33,7 +35,7 @@ record: 7f6a091baf52
 
 ## West Africa
 
-| Body, instrument or system | At 2025-08-01 | At 2026-08-28 | Movement |
+| Body, instrument or system | At 2025-08-01 | At 2026-08-29 | Movement |
 |---|---|---|---|
 | Alliance ouest-africaine des noms de domaine (AOAN) | Did not exist | [Announced as an initiative to coordinate country-code domain policy across the region; no charter, membership or founding act held](https://lefaso.net/spip.php?article148370) | Advanced |
 | ECOWAS free-roaming regulation C/REG.21/12/17 | In force since December 2017, implemented between Liberia, The Gambia and Sierra Leone (2025-02), with full implementation by all mobile operators due by end-2025 | [A second three-state arrangement live, giving free incoming calls for up to 30 days and local rates on outgoing traffic; the end-2025 deadline passed with six of fifteen member states covered](https://techreviewafrica.com/news/5159/senegal-togo-and-benin-launch-free-roaming-initiative) | Advanced, against a missed end-2025 deadline |

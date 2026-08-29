@@ -1,15 +1,15 @@
 ---
 title: Energy — monthly update, July 2026
-compiled: 2026-08-28
-period: 2026-07-01 to 2026-08-28
+compiled: 2026-08-29
+period: 2026-07-01 to 2026-08-29
 subject: infra.energy
-places: BWA; BDI; DJI; ETH; GAB; GHA; KEN; MWI; MUS; MOZ; SLE; ZAF; UGA; ZWE
-record: 0b93d6f4720b
+places: BWA; BDI; DJI; ETH; GAB; GHA; KEN; MWI; MUS; MOZ; NGA; SLE; ZAF; UGA; ZWE
+record: 52f2c7a5de37
 ---
 
 # Energy: monthly update, July 2026
 
-*14 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*15 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -52,6 +52,10 @@ Cabinet also [approved for signature a memorandum with Saudi Arabia](https://www
 ## Mozambique
 
 The same data centre draws on grid, photovoltaic and generator supply ([inauguration account](https://www.diarioeconomico.co.mz/2026/08/03/trends/inovacao/uem-inaugura-centro-de-dados-para-reforcar-transformacao-digital-e-investigacao-cientifica/)).
+
+## Nigeria
+
+The regulator's own quarterly report is the first authoritative statement of grid reliability the base has carried for some time. Its first-quarter 2026 instalment [records frequency and voltage outside the Grid Code range, 7.96 per cent transmission loss and 32.72 per cent plant availability, with a total grid collapse on 23 January and a partial collapse on 27 January](https://nerc.gov.ng/wp-content/uploads/2026/07/2026_Q1-Report.pdf). The document is statutory under section 56(3) of the Electricity Act 2023, which is what makes it a series rather than an announcement.
 
 ## Sierra Leone
 

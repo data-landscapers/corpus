@@ -1,10 +1,10 @@
 ---
 title: Connectivity — monthly update, July 2026
-compiled: 2026-08-28
-period: 2026-07-01 to 2026-08-28
+compiled: 2026-08-29
+period: 2026-07-01 to 2026-08-29
 subject: infra.connect
 places: DZA; AGO; BWA; BFA; BDI; CMR; CPV; CAF; COM; COG; CIV; DJI; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GHA; GIN; KEN; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: 9e4406698f50
+record: 2948f96f2d69
 ---
 
 # Connectivity: monthly update, July 2026
@@ -191,6 +191,8 @@ The ICT minister told Parliament on 17 July that additional mobile operator lice
 
 The gap the licensing round is meant to close acquired figures in August. An industry association report published ahead of its Malawi summit on 20 August [puts fourth-generation coverage at 87% of the population against mobile-internet penetration of 12.5%, with mobile-money adoption described as near universal, and scores Malawi 36 of 100 on its digital nations and society index and 55 of 100 on policy and regulation](https://techafricanews.com/2026/08/13/digital-africa-summit-heads-to-malawi-as-the-country-enters-its-next-digital-chapter/). These are the association's own index and figures; the base still holds no official national subscriber and coverage series.
 
+The operator's annual report replaced a figure that had carried no period. It [puts network infrastructure investment at MK30.87bn in 2025, directed mainly at modernisation, 4G site expansion and continued 5G rollout](https://malawi24.com/2026/08/24/can-tnms-mk30-87bn-investment-meet-demand/); the [US$31m the same operator stated in August](https://techafricanews.com/2026/08/17/tnm-invests-us31-million-to-expand-network-coverage-across-malawi/) carried no period and is not reconciled with it.
+
 ## Mali
 
 On 15 July CSquared [added capacity on the 2Africa West subsea system](https://www.mobileeurope.co.uk/csquared-boosts-internet-resilence-integrating-with-2africa-west/) to the West African backbone whose inland fibre reaches Mali, giving an independent route behind the Abidjan, Accra and Lagos landings.
@@ -212,6 +214,8 @@ The second operator [launched a commercial 5G network at Nouakchott on 10 August
 The Prime Minister announced on [16 July 2026 that Mauritius will join the America-India Connect subsea cable programme](https://mitci.govmu.org/mitci/mauritius-to-join-america-india-connect-subsea-cable-programme-announces-pm-ramgoolam/). Reporting on [2 August established what sits behind it](https://journaldudimanche.com/google-amazon-et-maurice-les-coulisses-dun-tournant-numerique-majeur/): a signed non-disclosure agreement, terms still under negotiation, no published timetable. The driver is ageing infrastructure — LION and LION2 still carry most international traffic — and the same account notes that Google already operates a ground station at Baie-du-Jacotet serviced by the state operator, so the cable would deepen a relationship rather than open one.
 
 An industry survey put the 5G record on file for the first time: service since July 2021, when the state incumbent opened what the survey calls Africa's first 5G experience zones on spectrum assigned directly to the three operators, [reaching 86 per cent of the population in 2025](https://digitalmag.ci/acces-a-internet-etat-dadoption-de-la-technologie-5g-par-les-pays-africains/) with take-up projected to move from 9 to 44 per cent. It is delivered mainly as home internet boxes and in shopping centres, business districts and the university.
+
+Connectivity reached the remotest of the Outer Islands by contract if not yet by service. The ICT authority [awarded a two-year contract on 28 August to provide satellite-based internet and communications to Raphael Island in the St Brandon archipelago, a first for the archipelago, with the coast guard, the meteorological services and the island's fishing company as partners](https://platformafrica.com/2026/08/28/emtel-is-awarded-icta-contract-to-bring-internet-connectivity-to-st-brandon/); no service date, capacity or value is stated.
 
 ## Morocco
 
@@ -259,6 +263,8 @@ Two build programmes put dates on themselves. The government says resource mobil
 The state also went back to orbit, and changed suppliers doing it. The Federal Executive Council [approved the acquisition and deployment of two high-throughput communications satellites, NIGCOMSAT-2A and 2B, to be built by Thales Alenia Space and Israel Aerospace Industries](https://saharareporters.com/2026/08/22/nigerian-government-approves-nigcomsat-2a-2b-satellites-expand-broadband-strengthen) on 22 August, with [NIGCOMSAT-2A due by the end of 2028 and 2B in 2029 or 2030 on the operator's own timetable](https://www.wearetech.africa/fr/fils/actualites/telecom/internet-le-nigeria-choisit-iai-et-thales-alenia-space-pour-acquerir-deux-nouveaux-satellites). The award [breaks with the Chinese partnership that built NigComSat-1, which failed in November 2008, and NigComSat-1R, launched in 2011 and approaching the end of its fifteen-year design life](https://www.wearetech.africa/fr/fils/actualites/telecom/internet-le-nigeria-choisit-iai-et-thales-alenia-space-pour-acquerir-deux-nouveaux-satellites), and sits alongside a January 2025 partnership with Eutelsat for low-earth-orbit services. No contract value is published and negotiation with the two manufacturers precedes manufacture.
 
 Beneath all of that the licensed retail-ISP market is a rounding error and is concentrating. Regulator data released on 25 August put [active licensed-ISP subscribers at 420,989 in June 2026, up 19.6% from 352,006 in December 2025, with three providers holding close to 70% of the market — Spectranet 111,384, Starlink 98,642 and FibreOne 56,486 — points of presence up from 2,508 to 2,893, and 126 of the 230 licensed ISPs reported to have a single active subscriber](https://techcabal.com/2026/08/27/three-companies-now-control-nearly-70-of-nigerias-isp-market/). The same data puts that whole market at [0.27% of the country's 156.4 million active internet subscriptions](https://techcabal.com/2026/08/27/three-companies-now-control-nearly-70-of-nigerias-isp-market/), which is the scale at which any argument about broadband competition here has to be read.
+
+Katsina State [began the last-mile stage of its fibre network, the state investment promotion agency coordinating with commercial providers to move from core installation to connections for homes, businesses and public facilities across all 34 local government areas, with right-of-way fees waived and a roadmap target of 2,000-3,000 km of fibre and 70 per cent broadband penetration](https://dailyquery.com.ng/connecting-the-future-katsina-state-launches-mass-fibre-optic-network-for-homes-and-businesses/) for which no date is given. The satellite programme got its financing shape: the operator [disclosed that NIGCOMSAT-2A and 2B will be vendor-financed and backed by export-import banks, with the amount official only once financing closes](https://nigeriacommunicationsweek.com.ng/2026/08/28/fg-taps-french-israeli-firms-to-build-new-satellites-for-nigeria).
 
 ## Rwanda
 
@@ -344,6 +350,8 @@ The largest mobile operator [extended its group-level Starlink partnership to Ug
 A government-owned shared 4G network for public institutions was launched at Ndola Teaching Hospital on 15 July 2026, run by the state ICT institute with three named partners and the health ministry ([launch account](https://itweb.africa/article/zambia-launches-govlink-private-4g-network/G98YdMLGBZw7X2PD)). The reported outcomes are clinician accounts at the launch site; no baseline or measured result is held.
 
 On 5 August the institute confirmed that connectivity gaps persist at Nakonde, Victoria Falls, Kazungula and Chirundu, and set a single national standard through the government network of tiered 10 to 100 Mbps bandwidth, dual links with automatic failover and enterprise-grade firewalls. A trade facilitation body has commissioned an audit of ICT infrastructure at five border posts; no budget, timetable or completion date is published, and the audit precedes the procurement rather than following it ([status update](https://techafricanews.com/2026/08/05/zambia-moves-to-close-border-connectivity-gaps-with-national-network-upgrade/)).
+
+The technology ministry [put the country at about 26.2 million mobile subscriptions in 2025, up from 23.2 million in 2024, with about 14.7 million mobile internet subscriptions](https://www.lusakatimes.com/2026/08/28/govt-to-strengthen-cyber-security-capacity/) - its own figures, given in a seminar address rather than a regulator publication.
 
 ## Zimbabwe
 

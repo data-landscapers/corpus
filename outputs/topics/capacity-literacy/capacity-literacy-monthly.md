@@ -1,10 +1,10 @@
 ---
 title: Literacy — monthly update, July 2026
-compiled: 2026-08-28
-period: 2026-07-01 to 2026-08-28
+compiled: 2026-08-29
+period: 2026-07-01 to 2026-08-29
 subject: capacity.literacy
 places: AGO; BEN; BFA; CMR; CIV; COD; GAB; GMB; GHA; KEN; LBR; MOZ; RWA; STP; SEN; TZA; TGO; ZMB
-record: 47a09e6ebeef
+record: ca90a2a3fe6d
 ---
 
 # Literacy: monthly update, July 2026
@@ -51,7 +51,7 @@ The education council completed a revised basic-education curriculum adding codi
 
 ## Kenya
 
-The regulator donated computers to a school in Turkana on 30 July, one of 23 institutions recently supported, with no quantity or value disclosed.
+The regulator [donated computers to a school in Turkana on 30 July, one of 23 institutions recently supported](https://techafricanews.com/2026/07/30/ca-kenya-expands-digital-inclusion-with-computer-donation-to-turkana-school/), with no quantity or value disclosed. Private money reached further into the same gap: three laboratories [opened at Kholera Primary, Moody Awori Primary and Ralak Girls High in the weekend to 25 August under a Rotary Foundation Global Grant, taking that programme to at least 13 schools on a stated USD 91,650](https://www.standardmedia.co.ke/education/article/2001556160/digital-divide-threatens-to-leave-vulnerable-learners-behind-as-jobs-go-high-tech), against a state literacy programme running since 2016 that has not reached every school equally.
 
 ## Liberia
 

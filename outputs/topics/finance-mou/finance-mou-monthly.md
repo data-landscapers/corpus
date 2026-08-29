@@ -1,15 +1,15 @@
 ---
 title: MoUs and other agreements — monthly update, July 2026
-compiled: 2026-08-28
-period: 2026-07-01 to 2026-08-28
+compiled: 2026-08-29
+period: 2026-07-01 to 2026-08-29
 subject: finance.mou
-places: DZA; CIV; COD; EGY; GAB; GHA; KEN; LSO; RWA; SYC; TZA; TGO; UGA; ZWE
-record: adc9fbe53b1b
+places: DZA; CIV; COD; EGY; GAB; GHA; KEN; LSO; NGA; RWA; SYC; TZA; TGO; UGA; ZWE
+record: 01ba176c363a
 ---
 
 # MoUs and other agreements: monthly update, July 2026
 
-*14 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
+*15 places. Every block below is carried verbatim from that place's own monthly update, where it was written, sourced and checked; nothing is written here.*
 
 *The place reports do not share one window; the period above is the range they span.*
 
@@ -44,6 +44,10 @@ The judiciary took on a foreign partner for its access-to-justice work. A memora
 ## Lesotho
 
 The development-partner support named at the Blueprint workshop carries no amount; no appropriation, disbursement or training figure was published in the window.
+
+## Nigeria
+
+Nothing was signed in this window that the base records. What entered it is an institutional fact rather than a development: the finance ministry's [international economic relations department is the administrative home managing bilateral and multilateral economic relationships, memoranda of understanding and concessional financing](https://finance.gov.ng/fmf/international-economics-relations-department/), and it is the closest thing to an umbrella instrument the base holds. The page is undated on the ministry site and lists no relationship, agreement or financing volume.
 
 ## Rwanda
 

@@ -1,10 +1,10 @@
 ---
 title: Training and skills — monthly update, July 2026
-compiled: 2026-08-28
-period: 2026-07-01 to 2026-08-28
+compiled: 2026-08-29
+period: 2026-07-01 to 2026-08-29
 subject: capacity.training
 places: AGO; BEN; BWA; BFA; BDI; CMR; COM; COG; CIV; DJI; COD; EGY; GNQ; SWZ; ETH; GAB; GHA; GIN; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SYC; SLE; SOM; ZAF; SSD; TZA; TUN; UGA; ZMB; ZWE
-record: b8d3c9e2f12d
+record: 971c07d89baa
 ---
 
 # Training and skills: monthly update, July 2026
@@ -64,6 +64,8 @@ Against unemployment, the state is [using digital channels to connect graduates 
 The employment office launched a [portal and mobile application in July](https://rdc-monde.com/onem-lancement-dune-application-numerique-mikuba-pour-mieux-cartographier-les-competences-et-les-besoins-des-entreprises/) on which jobseekers register skills and employers post needs, intended to build a national skills database. It was externally financed, and no user or placement figure is held.
 
 The digital economy ministry [opened the first of a planned series of five-day training sessions for 580 of its own agents and managers](https://actu7.cd/2026/08/24/le-ministere-de-leconomie-numerique-lance-la-premiere-session-de-formation-de-pres-de-600-agents-et-cadres-de-son-administration/) at the INPES in Kinshasa on 24 August 2026. No curriculum, completion target or budget line is published.
+
+The land ministry [closed a roughly month-long course for 50 conservators of property titles on 25 August, drawn from several provinces and run with the national school of administration as part of a capacity-building programme under the land reform](https://actualite.cd/2026/08/25/rdc-oneige-nsele-cloture-la-formation-de-50-conservateurs-des-titres-immobiliers-pour), setting it alongside archiving operations already running in seven pilot land districts of Kinshasa; no further wave or provincial timetable is stated.
 
 ## Egypt
 
@@ -134,6 +136,8 @@ On 1 August recruitment opened for the first cohort of a [digital-skills program
 ## Mauritania
 
 The Ministry of Vocational Training [launched a digital-employability project on 23 July](https://www.ami.mr/archives/264918) financed by France's Fonds Équipe France and implemented by Simplon: 2,150 beneficiaries across six cities, about 2,000 of them young people, with a stated focus on women and people with disabilities. It succeeds a programme closed in 2025.
+
+The university opened the first edition of a summer school on language models for low-resource African languages at Nouadhibou on 25 August, [taking participants from corpus construction and semantic annotation through model adaptation and evaluation to prototypes in translation and conversational assistants](https://www.ami.mr/archives/267189).
 
 ## Mauritius
 
