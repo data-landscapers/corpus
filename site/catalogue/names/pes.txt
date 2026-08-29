@@ -13,20 +13,28 @@ Apêndice D PESSOAL DO INQUÉRITO	10777
 Area Office Gedung Sapta Pesona	10764,80
 Autoridades Nacionais de Protecção de Dados Pessoais	11374
 Autoridades de Proteção de Dados Pessoais	3079
+B B.1 Pessoa Singular	12018
+B.2 Pessoa Singular	12018
+B.4 Pessoa Coletiva	12018
 Bankita Conta Pessoa Singular Conta Pessoa	11403
 Bureau Internacional de Pesos	11381
+C C.1 Pessoa Singular	12018
+C.2 Pessoa Singular	12018
+C.4 Pessoa Coletiva	12018
 CAPÍTULO II TRATAMENTO DE DADOS PESSOAIS	14
 CAPÍTULO V PESSOAL E DISPOSIÇÕES DIVERSAS	13
 CAPÍTULO V PESSOAL E ORGANIGRAMA Artigo	167
 CAPÍTULO V Pessoal	13
 Centro Nacional de Pesquisa	2816
 Centro de Pesquisa	2816,876
+Comissão Nacional de Proteção de Dados Pessoais	11943
 Concesiones de Pesca	4209
 Condições de Processamento de Dados Pessoais	11374
 Constituição. Sociedades Pesquisar	10753
 Control Estadístico Pesquero Nacional	4209
 Cédula Pessoal	10765,10
 Cédulas Pessoais	10765,10
+Código Geral Tributário. Sujeitos Passivos Pessoas	12018
 D.G DE PESCA	4209
 D.G. DE PESCA INDUSTRIAL Y ORDEN	4209
 DADOS PESSOAIS Artigo	14
@@ -55,6 +63,8 @@ I Pessoas	11569
 INVESTIGACION ALIMENTOS SEGURIDAD BOSQUES CLIMATICO PESCA	4209
 IPMP Integrated Pest Management Plan LMP	1988
 IPMPs and Management of Pesticides	1988
+Imposto de Rendimentos de Pessoas Coletivas. Exemplos	12018
+Imposto de Rendimentos de Pessoas Singulares. Exemplos	12018
 Informação Técnica de Pesquisa	11405
 Informação de Pesquisa	11405
 Informações Pessoais	3519
@@ -132,7 +142,7 @@ Pesalink-PAPSS	5201
 Pesapal	5124,981,1693
 Pesapal and DPO	5124
 Pesapal and Paywise	4801
-Pesca	4209,6549
+Pesca	4209,6549,1260
 Pesca Artesanal	4209
 Pesca de Guinea Ecuatorial	4209
 Pescado	4209
@@ -150,9 +160,10 @@ Pesquisa X X	11569
 Pesquisa da Guiné-Bissau	11552
 Pesquisador	2816
 Pesquisadora	2816
-Pesquisas	2816,703,7997
+Pesquisas	2816,703,7997,382
 Pessimistic	5245
 Pessimistic and Neutral	6539
+Pessimistic and Neutral. Discounted	11965
 Pessoa	576,10190,11,587,1,217
 Pessoa Institucionalizada	10754
 Pessoa Singular	11383,21
@@ -163,14 +174,18 @@ Pessoal Responsável	6568
 Pessoal da Administração Pública	11530
 Pessoal de Campo	10777
 Pessoas	4274,2188,508,3780,4,3,20,608,31,153,8
-Pessoas Colectivas	10786,597
+Pessoas Colectivas	10786,597,635
+Pessoas Colectivas O Imposto de Selo	12018
 Pessoas Colectivas Públicas	11388
+Pessoas Colectivas São	12018
+Pessoas Coletivas. Ver	12018
 Pessoas Falecidas	11386
 Pessoas Serviços	11569
 Pessoas Serviços Sustentabilidade Economia Dados Literacia	11569
-Pessoas Singulares	5467,5319,597,36
+Pessoas Singulares	5467,5319,597,36,599
+Pessoas Singulares São	12018
 Pessoas. Há	11569
-Pest Management OP	11525
+Pest Management OP	11525,330
 Pesticidas	1701
 Pesticide and Toxic Substance Licence	1988
 Pesticides	8797,416,2056
@@ -196,6 +211,7 @@ Recolha de Informações Pessoais	11368
 Rede Lusófona de Proteção de Dados Pessoais	6568
 Regime de Pessoal	2866
 Regulamento Técnico de Entrega de Dados de Pesquisa	11405
+Rendimentos Pessoas Coletivas	12018
 Sector Pesquero	1701
 Selected Integrated Pest Management	1988
 Serviços da Protecção de Dados Pessoais	6568

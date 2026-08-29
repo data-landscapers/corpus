@@ -2,12 +2,16 @@ AAAS Energy MD Maarten Mennes	3688
 Adib Bin Rashid and MD Ashfakul Karim	6948
 Afreximbank's MD	1922
 Alignment of MDA	958
-All MDAs	10157
+All MDAs	10157,1834
+Annual Budgets of MDAs	11866
+Annual MDAs	11866
 Audit MDA	10157
 BPP NITDA NITDA MDAs	10157
+BVN of MD	11861
 Basis Tetrapol Whip UHF-SHF MDN-TET-ATT-ARCEP- Conforme	998
 Bayobab Kenya MD Sylvia Anampiu	2814
 Bayobab Uganda MD Juliet Nsubuga	2814
+CBN MD	11857
 CEO and MoMo MD	9103
 CERC of MDAP	1228
 Central African Republic MDA Ministries	969
@@ -23,11 +27,16 @@ Endpoint MDR	10721
 Equinix South Africa MD Sandile Dube	11844
 Evaluation MDAs Ministries	3604
 Evaluation MDM Master Data Management SITA	396
-Federal MDAs	10157
+Federal MDAs	10157,1700
+Federal MDAs Q3	11857
+Federal MDAs RoW IN-5 Prepare National	11857
+Gauteng Growth and Development Agency MDTT Monitoring	11986
 Global AI Hub and MDB	11061
 GoZ MDAs	970
 Google Africa MD Alex Okosi	6961
 Google’s MD for Africa Alex Okosi	3619
+Government Areas MDAs Ministries	11857
+Government MDAs	11854
 Harvard Extension School. Md Abdullah Omar	1828
 Host MDAs	7548
 Hse No. MDN	3386
@@ -38,9 +47,11 @@ Issue No. MD08-2025	3651
 Kasaye MD	3791
 Kenya School of Government MDAC Ministries	7548
 Key Performance Indicator MDAs Ministries	4126
+Lipa Mdogo	11994
 Lipa Mdogo Mdogo	6114
 Long-Term Evolution MDAs	958
 Lot Quality Assurance Sampling MDA	10776
+MAP Meter Assets Provider MDA Ministries	12062
 MD Anne Kinuthia-Otieno	8623
 MD Ashfakul Karim Kausik	6948
 MD Briefing	3398
@@ -64,10 +75,12 @@ MD. Noble	7278
 MD08-2025	3651,4650
 MD2020	8812
 MD2030	8812
+MDA Budgets	11866
 MDA Cash Payment Solution	2287
 MDA ERPs	2527
 MDA Ministries	1264
 MDA Naira	2287
+MDA Transactions Upon	11861
 MDA. Backbone	9123
 MDA. The HDA	9123
 MDACs	7548
@@ -79,10 +92,11 @@ MDAP Mozambique Digital Acceleration Project MEF	4214
 MDAP PIU	2989
 MDAP-financed	2989
 MDAs Annual	7548
+MDAs Chief Executive Officers	11951
 MDAs Distribute	9123
-MDAs MDAs	10157,713
+MDAs MDAs	10157,713,991
 MDAs Methodology for Data Collection Data	3604
-MDAs Ministries	970,1805,8770
+MDAs Ministries	970,1805,8770,315
 MDAs My	1161
 MDAs NITDA NITDA GBB	10157
 MDAs Naira Payment Solution	2287
@@ -93,14 +107,17 @@ MDAs Universities	6936
 MDAs and HDAs. The IDA	9123
 MDAs for AI	7548
 MDAs of President Tinubu	8981
+MDAs. BudgIT	11866
 MDAs. Circuits	9123
 MDAs. Critical	9123
 MDAs. Earlier	7973
 MDAs. Inclusive Climate Insurance Program Note	11469
+MDAs. M. INFRASTRUCTURE REQUIREMENTS	11860
 MDAs. Making	9310
 MDAs. Methodology for Data Collection	3604
 MDAs. Mrs Eno Olotu	7973
 MDAs. NiRA President Adesola Akinsanya	4690
+MDAs. SERVICOM	11951
 MDAs. Serviços	11555
 MDAs. Similarly	9123
 MDAs. Surveys	1284
@@ -117,8 +134,12 @@ MDEPT Ministry of Digital Economy	969
 MDG MWI MUS MOZ NER NGA	4912
 MDG. EUR	709
 MDG.csv	7299
+MDGs Millennium Development Goals MFIS Ministry	11855
 MDM2510 NBE-5AC-Gen2	998
 MDN-TET-HAN-ARCEP- Conforme	998
+MDP-EHL	11956
+MDP-OHL	11956
+MDP-UHL	11956
 MDPCZ	21
 MDR and SOC	4084
 MDR-TB	10784
@@ -139,10 +160,12 @@ Md Rashidujjaman Rifat	4439
 Md Romael Haque	4439
 MdE Memorandum de Entendimento MINSA Ministério da Saúde	11376
 Mdata	10974
+Mdaterkcehtnsoolopghyisotiuctaptiuotns	11885
 Mdemu	7759
 MdeurltMi-Parokevitder Market	10157
 Mdladla and Another	2307
 Mdlokovana	7836
+Mdogo	11994
 MdriivneinngbaynhdigQhuearrprryoindgucer	11152
 Mds FCFA	3326
 Mdundo	4150
@@ -152,25 +175,34 @@ NIDA MD James Kaji	5697
 NIMC MDA	7847
 NITDA. Software Developers and MDAs	5665
 Nigcomsat MD Jane Egerton-Idehen	2294
+Nigeria MDAs	11861
 Nigeria. MDAs	10157
+Nigeria. These MDAs	11942
 Non-Tax Revenue Portal Across Different MDAs	8669
 Number of MDA	1284
+Number of MDAs	11866
+Number of MDAs' Annual Budgets	11866
 Oracle Kenya MD	7069
 Original Theory of Change for MDAP The World	1228
 Os MdEs	11542
 P. O. Box Md	3386
 PM.21. The Minister of MDEPT	969
 Paratus Namibia MD	3539
+Paydia. Bank Indonesia Exempts QRIS MDR	11994
 Payments Systems Mduduzi Mathunjwa Policy	11131,3
 Providers and MDAs	10310
+Publish MDA	11866
+Quarterly MDAs	11866
 Redundant MDAs	9123
 S Mdubeki Chief Surveyor-General	11261
 SASPP MDTF	10866
 SDN MDG SOM COM Low	6593
+Safaricom. Lipa Mdogo Mdogo	11994
 Salome Chapeyama Mdala	9516
 Sector MDAs	7548
 Seeks Full Adoption Across MDAs	8632
 Select MDAs	6539
+Sipho Mdhluli CSIR	11953
 State Information Technology Agency MDS Master	396
 T-Connect MD Advocate Phelane Phomane	4656
 Tax Administration System MDA Ministries	1284

@@ -16,11 +16,15 @@ CATEGORÍA COMERCIO CUOTA ANUAL Ficha	4209
 COMERCIO Ficha	4209
 CUOTA ANUAL CUOTA ANUAL Ficha	4209
 CUOTA ANUAL Ficha	4209
+Categoria C Fica	12018
+Categoria D Fica	12018
 D2 COMERCIO Ficha	4209
 D2 Ficha	4209
 D3 Ficha	4209
+DAICF Ficheiros de Apoio	12018
 DE LOS FICHEROS PUBLICOS Y PRIVADOS	163
 Departamento de Registo de Ficheiros	167
+Desdobravel Ficheiros	12018
 Diploma FICHA DE IDENTIFICAÇÃO E CARACTERIZAÇÃO	10783
 Diploma Ficha de Acompanhamento	10783
 Diploma Ficha de Programação Financeira Trimestral ANEXO	10783
@@ -30,8 +34,10 @@ Direcção de Registo de Ficheiros	167
 Direcção de Registo de Ficheiros de Dados	167
 Dr. Andrea Ficchì	2816
 E HABITAÇÃO RGPH-2024 FICHA TÉCNICA Joel	11421
+Especificacao Tecnica Gerador Ficheiro XML XSD.pdf	12018
 FIC Act	4633,3721,486
 FIC Report	7664
+FICCI	11857
 FICHA DE EXCLUSÃO	11406
 FICHA DE TRIAGEM AMBIENTAL E SOCIAL	11390
 FICHA DO CADASTRO	10754
@@ -45,7 +51,7 @@ FICHIER Leer LEGISLATIVE	10974
 FICHIERS ADMINISTRATIFS Article	785
 FICMC	11654
 FICSOC	5532
-Ficam	539,10821,8,62,1
+Ficam	539,10821,8,62,1,470
 Ficha	1526,612,90,556,1425,6574,633,30,131
 Ficha Técnica Título	2816
 Ficha de Análise Custo	10783
@@ -56,6 +62,7 @@ Fiche	765,1219,8892
 Ficheiro	14,9385,1961
 Ficheiro Informático	11425
 Ficheiro Informático de Cidadãos Maiores	5791,5634
+Ficheiro XSD	12018
 Ficheiro de Cidadãos Maiores	10428
 Ficheiro de Unidades de Empresas GTREMPE	10757
 Fichero	163
@@ -63,12 +70,13 @@ Fiches	10876
 Fiches C	10876
 Fiches DG	10876
 Fiches Prépare	10876
-Fichier	436,311,484,2078,72,373,1363,6,822,437,3826,324,293
-Fichier Général	6620
+Fichier	436,311,484,2078,72,373,1363,6,822,437,3826,324,293,1266,20
+Fichier Général	6620,5423
 Fichier TES	10714
 Fichier Unique	4420
 Fichtner	4676
 Ficksburg	11285
+Ficou	11901
 Financial Intelligence Centre Act the FIC	3714
 GEMERAL SER FICHIER LEGISLATIF	10974
 Guiné-Bissau Educação Fichas	11557

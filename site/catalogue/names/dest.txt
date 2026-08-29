@@ -9,10 +9,11 @@ DESTURI	7167
 DEstonian	5700
 DWELLING DESTROYED INTERVIEWED	582
 Desta	2816,7209,1346,16,9,17,207
+Desta Abore	11986
 Desta Bayissa	11620
 Destaca	5986,5569,14
-Destaca-se	11461,108
-Destacam-se	2816,8555,90
+Destaca-se	11461,108,452
+Destacam-se	2816,8555,90,560
 Destacamos	1701,9056,812
 Destacar	1701,1115,7967
 Destacaram	8729
@@ -28,7 +29,7 @@ Destes	10760,606,50
 Destina-se	10766
 Destinada	4436
 Destinataire	436,795,9594,51
-Destination	2775
+Destination	2775,9185
 Destination Codes MNO Mobile Network Operator	6946
 Destination Earth	11291
 Destination Montant	10876

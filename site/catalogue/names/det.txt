@@ -9,6 +9,7 @@ Angola’s Nationally Determined Contribution	10768
 Anomaly Detection	10721,510
 Antenna Details Make Model Frequency Range	736
 Antenna Details Model Make	736
+Area Details Indices Targets	11857
 Autonome de Gestion des Dettes CCE	10876
 B. SHAREHOLDING DETAILS Certi	4896
 Banco Nacional de Angola. DETERMINO	11403
@@ -24,10 +25,13 @@ COMPULSORY BRIEFING SESSION DETAILS	11240
 CONTENU DETAILLÉ DES MODULES Module	10237
 CROSS-BORDER TRANSFER MECHANISMS AND ADEQUACY DETERMINATIONS	3861
 CSP Information Item Details Name of Entity	6432
+CV-IXP Internet Exchange Point Details Name	11878
+Cabo Verde Consulta Situação Fiscal Detalhes	12018
 Cabo Verde Lança Plataforma Para Detectar	8324
 Call Detail Record	4274
 Call Detail Records	9969
 Capacidade Humana Determinará O Retorno	8827
+Cape Verde Nationally Determined Contribution	11863
 Capture New Partnership Details	11276
 Capture Partnership Details	11276
 Certificate of Independent Tender Determination	1638
@@ -58,7 +62,7 @@ DETAILED PRESCRIPTION OF ANY ACTIONS	2709
 DETAILED PROJECT DESCRIPTION	10829
 DETAILED PROJECT DESCRIPTION Table	10829
 DETAILED QUARTERLY DASHBOARD PROGRESS L	11236
-DETAILS	1284,2172,148,7605,208
+DETAILS	1284,2172,148,7605,208,438
 DETAILS OF THE COMPANY SECRETARY	4896
 DETAILS OF THE COMPANY SECRETARY Authorized	4896
 DETAILS OF THE COMPLAINT	2709
@@ -77,9 +81,11 @@ DETECTAR	11376
 DETECTOR SECURITY GROUP LIMITED Data Controller	7167
 DETENTEURS DE MONNAIE ELECTRONIQUE	11522
 DETERMINATION	5113
+DETERMINATION OF RESIDENCE Foreign Employments	11976
 DETERMINED	3861
 DFIL. Details	10768
 DIGITAL HEALTH SOLUTION DETAILS	2709
+DPP Details	12058
 DPSA Determination and Directive	11196
 Data Classification and Residency Details System	6432
 Declaration of Partner Details	11276
@@ -93,20 +99,22 @@ DetailFreeIncluded	10848
 DetailFreeIncludedOrderOfMagnitude	10848
 DetailFreeSubscriberCount	10848
 DetailOrderOfMagnitude	10848
-Detailed	236,500,476,45,7,20,540,43,121,721,969,220,74,242,87,48,17,310,437,552,470,697,242,464,763,596,226,75,990,59,467,7,130,5,74,87,113,94,125,50,2,171
+Detailed	236,500,476,45,7,20,540,43,121,721,969,220,74,242,87,48,17,310,437,552,470,697,242,464,763,596,226,75,990,59,467,7,130,5,74,87,113,94,125,50,2,171,291,61,28,43
 Detailed Analysis	236
 Detailed Audit Trails	5665
 Detailed Data Storage Location Inventory	6432
 Detailed Findings	7869
 Detailed Gescmotice	3972
 Detailed Implementation Plan	4349
+Detailed Project	11855
 Detailed Quarterly Dashboard Progress	11236
 Detailed Risk Analysis and Mitigation Strategies. National	4528
 Detailed Roles and Responsibilities for AISIO Leadership	4528
+Detailed STG and GEA	11916
 Detailed Sector Analyses	2957
 Detailed Urban Planning Plans	10930
 Detailing	10388,757
-Details	22,560,154,273,236,28,1,1,270,1,232,89,451,65,12,439,844,36,834,21,1,1,1,1,1,86,101,123,361,104,248,68,758,116,14,1883,1447,125,326,495,33,322,64,2,60,89
+Details	22,560,154,273,236,28,1,1,270,1,232,89,451,65,12,439,844,36,834,21,1,1,1,1,1,86,101,123,361,104,248,68,758,116,14,1883,1447,125,326,495,33,322,64,2,60,89,506,50
 Details Application	8726
 Details Baseline Target Due	1818
 Details Location	9134,140
@@ -134,7 +142,7 @@ Detect Financial Fraud	6549
 Detectar	2816,1402
 Detected	4610
 Detecting	315,5218,1172,3013,410,593
-Detection	5132,401,2257,814,2117,510,38
+Detection	5132,401,2257,814,2117,510,38,717
 Detection Process	10721
 Detection Process CIRMR-DP.S1	10721
 Detection and Investigation	5533
@@ -158,16 +166,16 @@ Detention	4531,6646,527
 Deter	11520
 Detergentes	4209
 Deteriorated	5679
-Deterioration	1828,9007,3,130
+Deterioration	1828,9007,3,130,902,16
 Deterioration Angola	10759
 Deterioration Bouncing Back Not Classified	10837
 Deterioration Characteristic Score	10759
 Deterioration Increasing Deterioration Not Classified	10759
 Deterioration Increasing Deterioration Not Classified Best	10759
-Deterioration No Change Not Classified	10759,76,3,130
+Deterioration No Change Not Classified	10759,76,3,130,918
 Deterioration No Change Not Classified FOUNDATIONS	10759
 Deterioration No Change Not Classified SECURITY	10837
-Deterioration Overall Governance	10968
+Deterioration Overall Governance	10968,902
 Determinados	3519,7936
 Determinantes de Saúde	11543
 Determinants	7886,135,1107,532,1,299,816,188,231,76
@@ -175,7 +183,7 @@ Determinants Of Implementation Of The Digital	899
 Determinants of Health Addressed	10776
 Determinants of Property Tax Revenue	10997
 Determinar	1701,9076,653,88,1
-Determination	1,2,19,214,526,2243,302,407,1399,1833,492,1691,1592,460,88
+Determination	1,2,19,214,526,2243,302,407,1399,1833,492,1691,1592,460,88,717
 Determination Committee	11177
 Determination No	6946
 Determination Officer SA South Africa	5533
@@ -184,14 +192,14 @@ Determinations	10157
 Determinations Meets Minimum Requirements	11005
 Determinação	11360,46,113
 Determinação da Coima	11430
-Determine	573,427,630,463,1068,1053,3807,1102,1034,972,51,5
+Determine	573,427,630,463,1068,1053,3807,1102,1034,972,51,5,676,95,30
 Determine Whether the Entity	11233
 Determine the MNE Group	573
 Determined	11169,49
 Determined Contribution NDP National Development Plan	10768
 Determined Contributions NDP National Development Plan	11380
 Determines	10822
-Determining	236,337,202,1321,4850,2772,1515,52
+Determining	236,337,202,1321,4850,2772,1515,52,577
 Determining Fairness	7198
 Determining Themes for Addressing Zones	11129
 Determining the Contribution	236
@@ -225,10 +233,12 @@ Event Details	10707
 Expertise Contact Details	6432
 Extended Deterrence Theory Approach	226
 FORM APPLICANT’S DETAILS	2709
+FRAMEWORK DETAILS	11857
 FURNISH THE DETAILS OF THE LEAD	11240
+Facilitation Centre RSDO Refugee Status Determination	11986
 Factor Determinante	10772
 Factores de Determinação	11430
-Financing Details	2889
+Financing Details	2889,9076
 Fine Determination and Ranges	3861
 Fire Detection System	593
 Fire Detection and Suppression	10956
@@ -255,17 +265,21 @@ IV. DETAILED CHANGE	1228,1245,2180
 Identify Protect Detect Respond Recover All	6423
 Impact. Detailed	6100
 Improvement Bouncing Back Increasing Deterioration Slowing	10837
-Improvement Increasing Deterioration Slowing Improvement	10835,3,130
+Improvement Increasing Deterioration Slowing Improvement	10835,3,130,918
 Improvement No Change Increasing Deterioration Slowing	10837
-Improvement Slowing Deterioration Warning Signs Increasing	10759,76,3,130
+Improvement Slowing Deterioration Warning Signs Increasing	10759,76,3,130,902,16
 Improving the Detection	11417
 Inadequate Incident Detection and Response Capabilities	5677
 Incident Coordination Determining	775
 Inclusive Obj. Objective Details No	1818
-Increasing Deterioration	10759
+Increasing Deterioration	10759,1128,1,1
 Increasing Deterioration Angola	10759
 Increasing Deterioration Score	10837
-Increasing Deterioration Security	10835,3
+Increasing Deterioration Security	10835,3,1048
+Increasing Deterioration. Accountability	11888
+Increasing Deterioration. Participation	11888
+Increasing Deterioration. Rights	11888
+Increasing Improvement Increasing Deterioration Impartiality	11870
 Individual Details	11276
 Injection Attack Detection	9747,54,3,23
 Institutional Capacity Requirements DETERMINING	3861
@@ -304,18 +318,20 @@ Monitoring Farm Management Recycling Detecting Food	4126
 My Registration Details	7266
 N Company Name Date of Contact Details	3386
 NCD Non-Communicable Disease NDC Nationally Determined	11560
+NDC Nationally Determined Contribution	11965
 NDC Nationally Determined Contribution NDP National	11549
 NDC Nationally Determined Contribution NDTS National	3604
 NDC Nationally Determined Contribution NPV Net	1264
 Name and Registration Details	5538
 National Determined Contribution	970
-Nationally Determined Contribution	5247,1292,4878,169
+Nationally Determined Contribution	5247,1292,4878,169,319
 Nationally Determined Contribution NDE New Digital	2775
 Nationally Determined Contribution Net Interest Income	11134
 Nationally Determined Contributions	970,294,2340,5789,1436,381,326
 Network Intrusion Detection Systems	1000
 News Details	9884
 News Details Latest News	2311,24,2424,534,613,107,100,280,14,352,339,157,80
+No. Key Area Details Indices Targets	11857
 OPS DETAILEDCHANGES REALLOCATION	1228
 Obj. Monitoring Details Baseline Target Due	1818
 Outlook Live Details	10235
@@ -333,6 +349,7 @@ PlumX Metrics Detail Page	2518,4027
 Point Link Details MAIN ROUTE Station	736
 Pre- Determined Change Control Plan	3651
 Presentation Attack Detection	9747,54,3,23
+Procedures and Criteria for Citizenship Determining Refugee	11986
 Procedures and Criteria for Determining Refugee	5533
 Programa Detalhado	4455,647
 Programa de Determinante de Doenças Crónicas	10188
@@ -344,13 +361,14 @@ RESPONDENT’S DETAILS	2709
 Radar Interference Detection	736
 Rapid Detection and Response	10776
 Rapidly Detected And Responded To Responding	10776
-Refugee Status Determination Officer	11177,41
+Refugee Status Determination Officer	11177,41,768
 Refugee Status Determination Officers	11177
 Registo de Detalhe de IP	4274
 Registry Power Detaches	9914,1,77
 Regulations Determine	9123
 Remote Earth Station Details Type of Earth	736
 Republic of South Africa. Determine	11285
+Review of Detention and Deportation Policy	11986
 Revision Details Revised	11188
 Risk and ICT Committee Member Details	11250
 S-Year Baseline Taraet Deteetion S	4301
@@ -369,9 +387,19 @@ Session Details	9858
 Seychelles Details Vaughan O'Grady Category	2511
 Signs Bouncing Back Slowing Deterioration Increasing	10759
 Size and Determinants	10856
+Slowing Deterioration	11887,1,1
 Slowing Deterioration Score	10837
-Slowing Improvement Slowing Deterioration Not Classified	10835,3,130
-Slowing Improvement Slowing Deterioration Warning Signs	10835,3
+Slowing Deterioration. African	11888
+Slowing Deterioration. Between	11888
+Slowing Deterioration. Foundations for Economic Opportunity	11888
+Slowing Deterioration. Health	11888
+Slowing Deterioration. Human Development	11888
+Slowing Deterioration. Infrastructure	11888
+Slowing Deterioration. Public Administration	11888
+Slowing Deterioration. Rule of Law	11888
+Slowing Deterioration. Security	11888
+Slowing Improvement Slowing Deterioration Not Classified	10835,3,130,902,16
+Slowing Improvement Slowing Deterioration Warning Signs	10835,3,1048
 Smart Zambia Institute MPA FINANCING DETAILS	3562
 Station Details MAIN Station	736
 Stronger Sanctions and Deterrence	6936
@@ -386,22 +414,23 @@ TEL NO. REQUEST DETAILS	2709
 Tables A.1 Details	10977
 Tanzania and Uganda. Explore Firm Details South	6683
 Taxpayer Details	11276
-Trend Bouncing Back Slowing Deterioration Increasing	10835,3,130
+Trend Bouncing Back Slowing Deterioration Increasing	10835,3,130,902,16
 Trust Event Details	10707
 Uganda Determination	5113
 V. Dette	6896
 VACANT LAND SIZE BUILDING DEED DETAILS	4896
 VII DETAILED CHANGE	1284
-VII. DETAILED CHANGE	2889
+VII. DETAILED CHANGE	2889,9076
 Very Early Smoke Detection Apparatus	593
 Victoria Falls and Dete	1554
 WIA Supported Media Size Details ADF	34
 Warning Signs Bouncing Back Slowing Deterioration	10759
-Warning Signs Increasing Deterioration	10835,3,130
+Warning Signs Increasing Deterioration	10835,3,130,902,16
 Water Leakage Detection	593
 Weitere Details	9062
 WhatsApp. Determination	5113
 Willing CERTIFICATION DEPARTMENT Determines	10819
+Women Slowing Deterioration Absence of Armed Conflict	11870
 World Bank IPF. Detailed FM	3604
 Yvon Detchenou	4246
 Zambia’s Nationally Determined Contribution	1867

@@ -2,8 +2,10 @@ AAAAAD TyPXwwDBg0s0jC6f8MlawFINDn&gclid	7638
 AI Adoption Typology	10726
 AI Adoption Typology of Degree and Type	10726
 ANPR. Typical	5716
+AU-IPED Document Type	12052
 Account Number Type	11685
 Account Type	11685
+Additional Financing Type	11965
 Address Types	11129
 African Union Document Type AU-EU Space	11283
 Algorithm Type Approach	8604
@@ -33,10 +35,12 @@ Classification Internationale Type	10874
 Closing Type	4972
 Colonne Type Description Exemple	747
 Combining Degree and Type	10726
-Conditions Type Citation Description Financing	1264,603,1737,2935,4229,649,143
+Component Minimum Target Type Coverage Coverage	11952
+Conditions Type Citation Description Financing	1264,603,1737,2935,4229,649,143,345
 Conditions Type Financing	1284,9545,720
 Consulting Service Type	8726
 Contender Typology and Electoral Dynamics	10062
+Contract Type and Payment Schedule	12008
 Controlling Person Type and Self Certification	11685
 DES Scope Subsystem Type Categorical	7221
 DES Scope System Type Binary	7221
@@ -74,6 +78,7 @@ Ghana Type	236
 Government And Civil Society. Flow Type	7589
 Grand Bassam NATURE DE L’EFFET TYPOLOGIE	1005
 Grant Type	6222,2777
+Grants Type Disbursement Page	11855
 Guinea-Bissau Type	11570
 HEALTH INTEROPERABILI TY IN SOUTH AFRICA	1009
 HL7v3 Abstract Data Type Specification	1009
@@ -92,6 +97,7 @@ Information Type Research Article Information Data	8436
 Investor Type	4972
 Item Type	10878
 Item Type Article Elements ID	10878
+JavaScript and TypeScript	11922
 Joint Typology	10726
 KSh Million Type of Asset	2775
 Kuni Tyessi	8421
@@ -103,6 +109,7 @@ Loyiso Tyira	9935
 MARQUES ET TYPES TOYOTA RAV4	10821
 Manage Tax Type Transfer Facebook X	11276
 Massive Machine Type Communications	5675
+May-2025. Review Type	11965
 Media Type	1009
 Message Type	11276
 Mitigation Measures Responsible Party Type	1988
@@ -131,6 +138,7 @@ PHASE CHARACTERISTICS TYPICAL STRATEGIES Phase	6432
 PROVIDER TYPE	10861
 PSPs Scope System Type Binary Indicates	7221
 Percentage Contribution Type of Asset	2775
+Performance Test Types Implement	11952
 Polarization Deployment Type Front	736
 Post Office Address Type	11129
 Project ESMF Type Responsible Party Development	1988
@@ -170,11 +178,13 @@ Scope System Type Categorical Indicates	7221
 Scope System Type Nominal	7221
 Scope System Type Nominal Distinguishes	7221
 Scope System Type Nominal Indicates	7221
+Security Testing Schedule Test Type Frequenc	11952
 Seismic Source Type	11405
 Select the TRN Tax Type	11298
 Selection Duplex Type TDD TDD TDD	736
 Sex and Type of Offence	2775
 Signature Type of Radio System Position Held	736
+Specific Types of Data Controllers and Data Processors	11956
 Specification of Types of Portable Identity Card Readers	1263
 Standard Bank and Tyme Bank	7910
 Station Types	6946
@@ -207,12 +217,15 @@ Tax Types	11276
 Technology Type Airtel Africa	4442
 Technology Type Vodacom	4442
 Thoroughfare Type District	11129
+Transaction Types	11861
 Ty Personal	5113
 Tyco International	4676
 Tyco Telecommunications	3782
 Tydacomm	3862
 Tyger Valley	3200
 Tygerberg Central Hospital	8564
+Tygerberg Hospital WC Cape Winelands DM	11986
+Tygerberg. Kimberly Hospital	11986
 Tygervalley	8999
 Tyira	9935
 Tyira and Ledwaba	9935
@@ -229,11 +242,13 @@ TymeBank CEO Coenraad Jonker	3435,1337
 TymeBank Ltd	611
 TymeBank’s CEO	4772
 Tymtrack Limited	6946
+Type Amount Disbursed Key Revisions	11924
 Type Approval	718,6228
 Type Approval Regulations	11573
 Type Approval and Distribution	8916
 Type Approval and Equipment Clearance	6946
 Type Billion Birr	5655
+Type Description Effectiveness	11855
 Type Financing	10829,720
 Type IBRD	10964
 Type II	8376
@@ -241,6 +256,7 @@ Type II Card	34
 Type IV	9123
 Type Indicative Lead Purpose Timeline	7548
 Type Institutions	6832
+Type Manual	11855
 Type Model Gain	736
 Type Of License Licensed	718
 Type QR	10900
@@ -275,16 +291,16 @@ Type of Television Service Authorised TV Stations	2776
 Type-2	196,66,102,498,605,698
 Type-Approved-Equipment-List.php	8916
 Type-Approved-Equipment-List.php Buying	8916
-TypeScript	5513
-Types	582,136,529,691,686,4597,569,1616,682,788,99,29,135,55,30,293
+TypeScript	5513,6409
+Types	582,136,529,691,686,4597,569,1616,682,788,99,29,135,55,30,293,439,8
 Types Effectif Pourcentage	10875
 Types of AI Machine Learning	4528
 Types of Incidents and Level of Support All	775
 Types of Misconduct Addressed	11218
-Typical	5238,3885
-Typically	1248,493,1172,451,1918,1597,343,2853,744,160,175,132,259
+Typical	5238,3885,2883
+Typically	1248,493,1172,451,1918,1597,343,2853,744,160,175,132,259,461
 Typographic	8604
-Typologie	5740,3151,2084
+Typologie	5740,3151,2084,969
 Typologie des Ser-	10237
 Tyree	8604
 Tyrell Sykes	2626

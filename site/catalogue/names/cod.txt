@@ -35,6 +35,8 @@ Benin's Electoral Code	5782
 Biseau Codel	11544
 Bissau Codex	11518,1,8
 Board’s Health Safety Code	9855
+Building Codes	11857
+Building Codes IN- Internet Exchange	11857
 Burundi's Electoral Code	2859
 CAPÍTULO II DESCRIÇÃO DA CODIFICAÇÃO	11409
 CBE Code of Conduct	11134
@@ -44,6 +46,7 @@ COD FY2026	6390
 COD GHA CIV RWA UGA ZMB	689
 COD. DFC	291
 COD. Norfund USD	513
+COD200948.FE	11864
 COD22022-10116 Pays	8643
 CODAFIS	4209
 CODAN ENVOY X1 Base	998
@@ -55,7 +58,7 @@ CODE BREEZE LTD Data Processor INST-9730244A10F	7167
 CODE DU NUMÉRIQUE	11098
 CODE LISTS MOST COMMONLY USED	11180
 CODE NOMENCLATURE	3164,1,1,1,1
-CODE OF CONDUCT	11218,6
+CODE OF CONDUCT	11218,6,698
 CODE OF CONDUCT COUNTERING DISINFORMATION	6907
 CODEBU	6122
 CODEFREMICS LIMITED Data Controller INST-716990FCC73 NAIROBI	7167
@@ -102,6 +105,7 @@ Code Aster Impact Z88	9475
 Code CPV	8643
 Code Civil Mauricien	7845
 Code Codification	7966
+Code Coverage Requirements	11952
 Code Descri	11180
 Code DescriDtion	11180
 Code Description	11180
@@ -117,6 +121,8 @@ Code Général des Impôts	4420,147,1889,4256,266
 Code Général des Impôts. La Taxe de Soutien	3045
 Code I Description	11180
 Code ICT	236
+Code ISO International Organization for Standardization JWT	11952
+Code Implement IaC	11952
 Code Minier	2342
 Code Nation	6133
 Code Nation Plan	6133
@@ -126,6 +132,7 @@ Code Pénal	743,488,10349
 Code Pénal. Article	1231
 Code Pénal. Cette	743
 Code QR	5471,5682
+Code Review Continuo N	11952
 Code SO System Operator SSEG Small-Scale	11228
 Code SOP Standard Operating Procedure UHC	9855
 Code Series AICT000	11235
@@ -136,6 +143,7 @@ Code System Countries	6666
 Code Systems	6666
 Code Systems Terminology	6666
 Code Yo Maali Yo	9223
+Code and Continuity	12131
 Code de Douanes	4567
 Code de Transparence	10981
 Code des Collectivités	9287,55
@@ -157,12 +165,15 @@ Code for Africa’s DataLab	6055
 Code for South Africa	961
 Code of Code of Conduct for PIU SPMU	1988
 Code of Conduct	27,945,1016,1468,57,3415,509,766,1569,681,597,81,23,43,53
+Code of Conduct for Data Protection Compliance Organisations	11956
 Code of Conduct for Workers	1988
 Code of Corporate Governance for Issuers of Securities	7204
-Code of Ethics	11131,3
+Code of Criminal Procedure	11900
+Code of Ethics	11131,3,821
+Code of Ethics for Accountants and Auditors	11955
 Code of Ethics for Print	10735
 Code of GBV	1988
-Code of Good Practice	5533
+Code of Good Practice	5533,6453
 Code of Governance for Corporations Act	6946
 Code of Internet Practice	6748
 Code of Persons and Family	10812
@@ -181,6 +192,7 @@ Code. Désormais	3267
 Code.ai	3527
 CodeForAfrica	6055
 CodeLoccol	3395
+CodeQL	11922
 Codebook	7221,1215
 Coded	11156
 Codenroll Privacy	11539
@@ -210,8 +222,8 @@ Codified Exit Protocols	5141
 Codifies	4366
 Codify	11136,13
 Codifying	3503
-Coding	1261,6017,511,1,497,318,286
-Coding Academy	8016
+Coding	1261,6017,511,1,497,318,286,3199
+Coding Academy	8016,4066
 Coding Academy’s Project-Based Learning	8839
 Coding Camp	2816
 Coding Camps	2989
@@ -221,35 +233,42 @@ Coding Training for All	3397
 Coding and Encoding Rights	11028
 Coding and Labelling	1261
 Coding and Robotics	6832
+Coding for Employment	11863
 Coding4Girls	2989,1664
 Codinger	7053
 Combined Ref. Code	11180
 Competition Law Code of Conduct	3513
 Complétant le Code de Commerce	4567
 Composição da Codificação	11409
-Consumer Code	11
-Consumer Code of Practice Regulations	9110
+Consumer Code	11,11982
+Consumer Code of Practice Regulation	11993
+Consumer Code of Practice Regulations	9110,2883
 Content Services Using Short Code Numbers	3862
 Contenu Code des Marchés Publics du Bénin Référence	10876
 Copyright Code	11550
-Criminal Code	27,931,14
+Corporate Income Tax Code	11955
+Criminal Code	27,931,14,10881,11
 Criminal Law Code	972,8279
 Criminal Law Codification and Reform Amendment Act	6951
 Criminal Procedure Code	10979
+Criminal Procedure Code Law	11857
 D.R. Le QR Code	8357
 DGI Codes A1.1.2.2 A1.1.2.3 A1.1.2.4 A1.1.2.6	10858
 DGI Codes Action	10858
 DGI Codes Axes	10858
 Data Sharing Code	2998,1585
 Definition and Coding Digital ID	10714
-Departmental Disciplinary Code and Procedures	5533
+Departmental Disciplinary Code and Procedures	5533,6453
 Description Code des Marchés Publics	10876
 Destination Codes MNO Mobile Network Operator	6946
 Develop Code of Conduct	1988
 Development of Code of Conduct	1988
 Digit Short Codes	6946
-Digital Code	1839,1314,40,411,281,68,251,125,254,511,313,18,475,4174,782
+Digital Code	1839,1314,40,411,281,68,251,125,254,511,313,18,475,4174,782,1024,26,12
 Digital Code Act	2679
+Digital Code Law	11880
+Digital Code. Electronic	11880
+Digital Code. Security	11880
 Disinformation Code	6907
 Djibouti Code Campus Association	5720
 Djibouti Code Campus Association and Association	5720
@@ -285,13 +304,16 @@ Family Code	10765,10,39
 Feldspar of HS Code	6921
 Finalize TORs for Coding Camp for Girls Finalize	2989
 Forestry Code	10841
+GDP Weaknesses Rank Code	11884
 GPAI Code of Practice	11050
 GPAI Code of Practice and High-Level Expert Group	11050
 General Code of Conduct	8354
+General Tax Code	11858
 General-Purpose AI Code of Practice	11050
 General-Purpose AI Code of Practice Template	8529
 Ghana ISIC Codes Activity ICT	236
 Ghana’s One Million Coders Programme	5298
+GitHub Codespaces	11922
 GitHub Copilot and Claude Code	10534
 GitHub Copilot and VS Code. All	6498
 Government AI Adoption Code	7548
@@ -322,18 +344,24 @@ ICT Sector Code. Icasa	6183
 ICT Sector Code. Whatever	4242
 ICT. Rwanda Coding Academy	770
 INCLUDING DEDICATED IT CODES	3537
+IPRC Code	11955
+IRPC Code	11955
 ISIC Codes Activity	236
+Information Request COD200966	11868
 Intermediary Guidelines and Digital Media Ethics Code	8210,998
 International Building Code	9123
 International Building Code Data Center Design	9123
 International Data Policy Committee CODATA	5246
-Internet Code of Practice	3945,638
+International Monetary Fund Code	11895
+Internet Code of Practice	3945,638,7410
 Introduces Digital Code	3153
 Investment Code	11550
+Investment Code Drawing	11906
 JEL CODES D63	10985
 JEL Codes	10323
 KING CODE AND CORPORATE GOVERNANCE	4896
 Kenya Master Facility List Code	2709
+Kenya Quick Response Code Standard	11994
 King Codes	4896
 L'adoption du Code	3267
 L223-1 du Code	11742
@@ -342,17 +370,21 @@ LANGUAGE CODES	582
 LEI SOBRE A CODIFICAÇÃO DAS UNIDADES	11409
 LINKS TO SECTORAL DAC CODES	970
 Labor Code	10841
-Labour Code	10841
-Le Code	3267,5054,2553,1,1
+Labour Code	10841,1059
+Le Code	3267,5054,2553,1,1,1056,167
 Le Code CIMA	10965
 Le Code Electoral	2808
 Le Green Coding	11687
+Legacy Code	11952
 Lei da Codificação	11409
 Life Safety and Fire Safety Codes	1988
+Livre III du Code	11932
+Low Code	11939
 Lusaka. ZIP Code	9603,1
 M.F. Vahid Codjia	7186,910,136,1363
 MVola Wallet-to-Bank and QR Code	2633
 Management System QR Code Quick Response	9855
+Media Council Code of Media Practice	12100
 Million Coders	4766,4001,1483
 Million Coders Initiative	8113
 Million Coders Programme	3582,1637,8,71,480,157,2352,78,400,657,116,534,162,351
@@ -373,7 +405,7 @@ Méthodes de Sélection Le Code	10876
 NAMFULL2 ID ENTITY CODBRANCH Notably	3364
 NITDA Code of Practice	5215
 National AI Code of Ethics	11135
-National Building Codes	1988
+National Building Codes	1988,9869
 National Code of Corporate Governance for Mauritius	8866
 National Signalling Point Codes	6946
 National Unique Code	10765,10
@@ -386,13 +418,16 @@ Network Subnetwork Code Decentralised	8605
 Network Subnetwork Code Edge	8605
 Network Subnetwork Code Web	8605
 News Media Bargaining Code	7613
+Nigeria Code Indicator	11884
 Number Portability Routing Codes	6946
 OpenAI. Codex	5967
 Ordem de Codificação	11409
 Ouest CGI Code Général des Impôts CMR	10712
 PIU Code	1988
-Penal Code	3583,1060,475,304,1548,303,2943,317,446
+PROJECT NAME AND SAP CODE	11863
+Penal Code	3583,1060,475,304,1548,303,2943,317,446,874
 Penal Code Act	1535,3887
+Penal Code Cap	11857
 Penal Code Chapter	1988
 Petroleum Code	10841
 Plus Code	4118
@@ -403,6 +438,8 @@ Primarv Ret Code	11180
 Programming Code	6946
 Promo Code	9031
 Proyecto Comisión Nacional de Codificación	4209
+Public Procurement Code	11905
+Public Procurement Code. Single Investment Window	11939
 Purpose and Scope This Code of Conduct	6432
 QR Code	3033,1426,977,304,1354,408,826,1,28,298,218,300,4,1078,259,174,23,39,6,60,318
 QR Code GIMACPAY	4208
@@ -411,18 +448,24 @@ QR Code VDS	2465
 QR Code. Avec	9177
 QR Code. Ce	9177
 QR Code. Cette	4459
-QR Codes	4208,156,879,28,1667,792,1447,1495
+QR Codes	4208,156,879,28,1667,792,1447,1495,1322
 QR Codes GIMAC	5243
 QR Codes. C'est	10515
+QRIS Quick Response Code Indonesian Standard	11994
 Qr Code	7269
-Rank Code Indicator	10969
+Quick Response Code Indonesian Standard	11994
+RTSR The Consumer Code	11993
+Rank Code Indicator	10969,916
 References the Digital Code	5094
+Reform of Its Electricity Grid Code	11936
 Regarding the Internet Code of Practice	3945
+Registration The Digital Code	11880
 Remote Code Execution	3214
 Repeating The Current Year Ref. Code	11180
 Report ACCOUNTABILITY Code of Conduct	1988
 Responsibility and Ethics CODATA ISC Committee	5246
 Revised ICT Sector Code	11235
+RoC Energy Code	11905
 Rural Ref. Code	11180
 Rwanda Coding Academy	697,73,6727,409,933,2505
 Rwanda Coding Academy Capacity Development	770
@@ -437,6 +480,7 @@ Secondary Ret Code	11180
 Section S du Code	4567
 Signaling Point Codes IT Information Technology	6946
 Signing of Codes of Conduct	2989
+South Africa Code Indicator	11885
 South Africa. I Code Description	11180
 South African Grid Code	11228,69
 South Sudan Penal Code Act	4042
@@ -446,7 +490,7 @@ Statement AICT000 of Code Series AICT	11235
 Statement AICT000 of Code Series AICT000	11235
 Statement AICT600 of Code Series AICT600	11235
 Statistical Code Card	10645
-Strengths Weaknesses Rank Code Indicator	10969
+Strengths Weaknesses Rank Code Indicator	10969,916
 Structural Building Code Compliance and Coordination Local	9123
 Submit the Market Code	11236
 Such Codes	961
@@ -460,6 +504,8 @@ Tax Procedures Code Act	10202
 Tax Procedures Code Act. But the Data	10281
 Team CodeCraft Mavericks	9007
 TechCabal Codar	7395
+Testing Code	11952
+Title Chapter Extent of Repeal Criminal Code	11857
 Tone Code	736
 Tone Code Frequerr	736
 Translate Code	1988
@@ -468,7 +514,9 @@ UK's Code of Practice for Statistics	8283
 UK’s Age-Appropriate Design Code	7983
 Under the Civil Procedural Code	11550
 Under the Union Customs Code	11036
+Unicorn Strengths Rank Code	11884
 Union Customs Code	11036
+Urban Planning and Construction Code	11906
 Urban Planning and Urban Land Code	10930
 Urban Ref. Code	11180
 VISITS RESULT CODES	582

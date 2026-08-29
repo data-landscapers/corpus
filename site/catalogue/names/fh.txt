@@ -4,6 +4,7 @@ CHWs and FHWs. CHWs	10940
 Conflict-affected Situations FM Financial Management FHH	11549
 Digital Health Architecture Blueprint and FHIR	3385
 EU Enterprise Architecture FHIR HIMSS Electronic	1009
+FH Freedom House	11887
 FHIR Cross-reference for Mobile	1009
 FHIR Demographics Query Mobile	1009
 FHIR Discovery	1009
@@ -36,8 +37,8 @@ Kenya FHIR IGs	10100
 Kenya Patient Summary FHIR Implementation Guide	10031
 Mitsubishi FH	6705,1007
 Mohd NIPOST FHA Sch. Scdry. Lk	11129
-Peace WID.World World Inequality Database FH	10835,3,130
+Peace WID.World World Inequality Database FH	10835,3,130,902,16
 SUIT NO. FHC	6296
-Suit No. FHC	7560,40
-United Nations FFP Fund for Peace FH	10759,78
+Suit No. FHC	7560,40,4393
+United Nations FFP Fund for Peace FH	10759,78,1052
 XDS. HL7 FHIR	1009

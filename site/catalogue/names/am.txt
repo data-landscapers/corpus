@@ -2,6 +2,7 @@ A.5 DESENHO DA AMOSTRA	10777
 A3.1.1.1 Améliorer	10858
 AACB AML BCM BIS CAF CBE	11131
 ABC Attribute-Based Credential ANSI American National	10765
+ACRONYMS AML	11960
 ADD DG Amine El Mezouaghi	3272
 ADD Director General Amine El Mezouaghi	3272
 ADDITIONS AND AMENDMENTS	6907
@@ -30,6 +31,7 @@ AM East Africa	8669
 AM Maubane	11289
 AM Page	11209
 AM Smart	9804,910
+AM The Government of The Gambia	12085
 AM WAT	2378,3990
 AM. Annex	2989
 AMA ADVOCATES LLP Data Controller INST-594912A5A22	7167
@@ -107,10 +109,10 @@ AMELSTAR MEDICAL CENTRE Data Controller INST-1220615886B	7167
 AMEN Program	1954
 AMENDED STANDARDS	11269
 AMENDMENT	2677,1184,521,1305,1704,441,2481,94
-AMENDMENT BILL	4633,1239,5407
+AMENDMENT BILL	4633,1239,5407,775
 AMENDMENT OF ARTICLES OF ASSOCIATION	4896
 AMENDMENT OF EXISTING STANDARDS	11269
-AMENDMENT OF IDENTIFICATION REGULATIONS	6512
+AMENDMENT OF IDENTIFICATION REGULATIONS	6512,5535
 AMENDMENT OF REGULATIONS	11249
 AMENDMENT OF THE ELECTRONIC TRANSACTIONS ACT	6921
 AMENDMENT OF THE IMPORTS CONTROL ACT	6921
@@ -120,11 +122,13 @@ AMENDMENT OF THE RAILWAYS ACT	6921
 AMENDMENT OF THE ROAD AND FUELS	6921
 AMENDMENT OF THE ROAD TRAFFIC ACT	6921
 AMENDMENT PROCEDURES AND CONSTITUTIONAL REQUIREMENTS	3861
+AMENDMENTS TO REVISED ANNUAL PERFORMANCE PLAN	11986
 AMENDMENTS TO STRATEGIC PLAN OUTCOME INDICATORS	5533
 AMENU	6613
 AMERICA	71,70,62,1,68,8,1,84,1,7,1,113,1,3,174,203,3,4,231,6,374,3,5,12,664,1,19,10,1849,153,1150
 AMERICA Crosswalk	2198
-AMERICA M	11004
+AMERICA M	11004,960
+AMERICA M Mexico W	11964
 AMERICA UNSERT COUMTPY NAME	3972
 AMERICAN	998
 AMERICAN TOWERS	998
@@ -239,11 +243,13 @@ AWS and Amazon Sustainability Data Initiative	10794
 Abbreviations AACB AFI AI AML AML	11134
 Abdelkader AMARA Président du Conseil Economique	8891
 Abdi AM	11596
+Abeid Amani Karume International Airport	12115
 Abou Seydou Amouda	6252
 Accepting the American	8479
 Access Method and Physical Layer Specifications. Amendment	3604
 Accra-IX. Among	10037
 Acquired Immuno-Deficiency Syndrome AM Amplitude Modulation	2775
+Acronyms AMEX	11955
 Acronyms AmeliCA Open Knowledge for Latin America	5246
 Across Latin America	8629
 Act Amendment Regulations	5865
@@ -267,15 +273,17 @@ Africa Check and Amani Africa	5302
 Africa North America	5618
 Africa and America	11041
 Africa and America. Today	10979
-Africa and Latin America	4972,5177
+Africa and Latin America	4972,5177,1773
 Africa and Latin America. U. Miami Inter-Am	2518
 Africa and South America	3840
 Africa and South America. Cable	144
 Africa-focused America First Global Health	4426
+Africa. American Economic Review	12006
 Africa. Among	6794
 African Americans. Doctors	4426
 African Continental Free Trade Agreement AMP	5244
 African Development Bank Group Amb. Baba	7452
+African Nations Among Top Cybersecurity Models	11917
 African and South American	124
 Africa’s AI Policy Ambitions Ignore Energy	5418
 Ahmad Amsyar	10764
@@ -290,7 +298,7 @@ Albertina Amutenya	6676,2046
 Alexandre Amard	10714
 Am All	7987,1
 Am Are Mistaken	9989
-Am I Online	5533
+Am I Online	5533,6453
 Am I Online ZEP Zimbabwean Exemption	5533
 Am J Int Law	5242
 Am J Int Law Unbound	5242
@@ -375,6 +383,7 @@ Amamentação	10760
 Amamentação Contínua	10777
 Amamentação Exclusiva	10777
 Amamitha	11551
+Amana. Leur	12128
 Amancio Ubisse Ivone Muocha João Caribo	2989
 Amand Lawin	7168
 Amanda K. Serumaga UNDP Resident Representative	11332
@@ -432,7 +441,7 @@ Amatole District Municipality	11343
 Amaury Sport Organisation	8186
 Amazigh	3880,2,3311,102
 Amazing. Okay	560
-Amazon	767,440,1,63,92,403,511,16,17,19,88,94,3,24,14,125,85,54,10,4,176,5,1,53,46,22,18,4,58,165,16,71,5,110,41,37,67,2,10,45,147,13,22,81,146,133,99,138,41,199,20,13,154,2,35,17,8,4,1,29,75,80,3,10,115,5,41,50,11,124,20,64,18,6,37,23,35,68,11,34,19,34,172,136,135,1,9,1,24,26,6,40,4,7,55,84,2,64,12,28,75,31,19,48,25,85,50,19,14,35,109,1,19,15,64,21,210,118,70,330,3,39,372,53,190,730,99,54,98,263,504,52,209,207,46,52,14,24,56,398
+Amazon	767,440,1,63,92,403,511,16,17,19,88,94,3,24,14,125,85,54,10,4,176,5,1,53,46,22,18,4,58,165,16,71,5,110,41,37,67,2,10,45,147,13,22,81,146,133,99,138,41,199,20,13,154,2,35,17,8,4,1,29,75,80,3,10,115,5,41,50,11,124,20,64,18,6,37,23,35,68,11,34,19,34,172,136,135,1,9,1,24,26,6,40,4,7,55,84,2,64,12,28,75,31,19,48,25,85,50,19,14,35,109,1,19,15,64,21,210,118,70,330,3,39,372,53,190,730,99,54,98,263,504,52,209,207,46,52,14,24,56,398,370
 Amazon AWS	3859,3020,15
 Amazon Amazon Alibaba Amazon Amazon Amazon	6477
 Amazon Bedrock	5967,2175,2047
@@ -479,7 +488,7 @@ Amazon Simple Notification Service	10794
 Amazon Simple Queue Service	10794
 Amazon Simple Storage Service	9123,1671
 Amazon Web	1245
-Amazon Web Services	1729,114,314,659,168,202,46,209,21,21,71,368,204,899,4,55,77,464,75,137,96,34,299,145,60,6,190,124,88,177,10,13,37,57,36,109,49,181,238,15,341,557,60,162,928,4,95,1,66,32,189,402,156,4,337,533
+Amazon Web Services	1729,114,314,659,168,202,46,209,21,21,71,368,204,899,4,55,77,464,75,137,96,34,299,145,60,6,190,124,88,177,10,13,37,57,36,109,49,181,238,15,341,557,60,162,928,4,95,1,66,32,189,402,156,4,337,533,278,164
 Amazon Web Services Inc	5837
 Amazon Web Services South Africa	7210
 Amazon Web Services and Canal Plus	3264
@@ -511,7 +520,7 @@ Amb. Baba Kamara	7452
 Amb. Dr. Mohamed Kadah	9516
 Ambam	10980
 Ambar Khawaja	6886
-Ambas	11406
+Ambas	11406,612
 Ambas-	2342
 Ambassad	737
 Ambassade	2801,685,2774,4830
@@ -532,11 +541,12 @@ Ambassadeur du Japon	8956
 Ambassadeur du Niger	8808
 Ambassadeur du Sénégal	11024
 Ambassadeurs	3396,6242,451
-Ambassador	1,1638,1441,201,579,435,355,13,186,408,1001,384,257,1295,554,148,54,442,29,125,292,1468
+Ambassador	1,1638,1441,201,579,435,355,13,186,408,1001,384,257,1295,554,148,54,442,29,125,292,1468,778
 Ambassador A.R. Chimbindi	5148
 Ambassador Abbas	10427
 Ambassador Anne Katusiime	7815
 Ambassador Bianca Odumegwu-Ojukwu	5991
+Ambassador Bitange Ndemo	12104
 Ambassador Bílek	8896
 Ambassador Claudia Patricia Mosquera Rosero	6963
 Ambassador Claver Gatete	1554
@@ -570,6 +580,7 @@ Ambassador Sola Enikanolaiye	8982,376
 Ambassador Tai	11154
 Ambassador Tebogo Seokolo	9761
 Ambassador Teboko Seokolo	9761
+Ambassador Thigo	12104
 Ambassador Tom Nørring	2714
 Ambassador Tony	11277
 Ambassador Tremont	7780
@@ -601,29 +612,33 @@ Ambata Platform Trust Data Controller INST-66786452C5E	7167
 Ambata Platform Trust Data Processor INST-66786452C5E	7167
 Ambazonia	2319
 Amber Ijebor	11017
+Amber PAF	12062
 Amber Rosier	6277
 Ambiance	1005
 Ambient Insight	3059
 Ambientais	11390
 Ambiental	1948,9458
-Ambiente	1948,4321,2989,1496,636,16,121,15,27
+Ambiente	1948,4321,2989,1496,636,16,121,15,27,410
 Ambiente Digital	8385,3008
 Ambiente Externo	10772
 Ambiente Interno	10772
+Ambiente Legal	11898,123
 Ambiente MINARS Ministro de Assistência	11390
 Ambiente Macroeconómico Internacional Acentua-se	11396
 Ambiente Macroeconómico Nacional	11396
 Ambiente Sostenible	1701
+Ambiente de Negócios	11898
+Ambiente de Negócios. Nesse	11898
 Ambiente. Es	1701
 Ambientes	2816
 Ambientes Digitais	2816,8577
 Ambientes Digitais Os Estados-Membros da Comunidade	11393
 Ambientes Digitas	11393
 Ambiguidade Legal	11436
-Ambiguity	4583,265,5657
+Ambiguity	4583,265,5657,1404
 Ambiguity Regarding Data Controllers	8776
 Ambiguous	10841
-Ambition	235,689,1335,555,584,1738,1003,271,58,95,1619,425,206,288,2,247,266,1123,54,538
+Ambition	235,689,1335,555,584,1738,1003,271,58,95,1619,425,206,288,2,247,266,1123,54,538,535,7
 Ambition28	3600,1623,45
 Ambitions	1961,999,639,2695
 Ambitious	11133
@@ -669,6 +684,7 @@ AmeliCA	5246
 Amembershall	972
 Amen Bank and Attijari Bank Tunisia	10692
 Amen Program	1954
+Amenable	11956
 Amenazas	1701
 Amenazas Amenazas Debilidades	1701
 Amenazas Oportunidades Fortalezas	1701
@@ -679,6 +695,7 @@ Amend and Extend Agreement	1234
 Amend the Anti-Pornography Act	6949
 Amend the Civil Registration Code. ST	10765
 Amend the Interception of Communications Act	6951
+Amend the Law	11906
 Amend the Lawful Interception Framework	958
 Amend the Nigeria Data Protection Act	2586
 Amend the OSA	6029
@@ -686,18 +703,20 @@ Amend the Personal Income Tax Code	3479
 Amend the Regulations	6512
 Amend the Uganda Communications Act	6949
 Amende	10842
-Amended	585,5006,5618,60
+Amended	585,5006,5618,60,588,205,32
 Amended Broad-Based Black Economic Empowerment	11235
 Amended ICT Sector Code	6183
 Amended Mandatory Use of National Identity Card	1263
 Amended Regulation	6891
+Amended and Supplemented	11864
 Amender	10826
 Amendes	2476
 Amendes Transactionnelles Vu	7470
 Amending	1867,8989
+Amending the Law	11906
 Amendmen	10713
-Amendment	11,225,337,12,133,18,418,69,40,487,64,30,144,542,147,211,32,5,236,113,229,211,47,17,83,722,27,23,66,27,6,410,80,25,3,113,170,26,128,185,227,6,16,40,44,582,98,6,30,2,17,6,3,51,14,293,62,22,31,30,6,237,5,60,72,195,134,3,1,626,58,296,75,121,204,234,76,85,124,66,150,33,315,22,4,202,165,64,30,20,41,5,18,2,8,4,46,4,16,1,237,34,240
-Amendment Act	3383,2489,1079,3206,1042,1
+Amendment	11,225,337,12,133,18,418,69,40,487,64,30,144,542,147,211,32,5,236,113,229,211,47,17,83,722,27,23,66,27,6,410,80,25,3,113,170,26,128,185,227,6,16,40,44,582,98,6,30,2,17,6,3,51,14,293,62,22,31,30,6,237,5,60,72,195,134,3,1,626,58,296,75,121,204,234,76,85,124,66,150,33,315,22,4,202,165,64,30,20,41,5,18,2,8,4,46,4,16,1,237,34,240,195,7,2,52,7
+Amendment Act	3383,2489,1079,3206,1042,1,786,68
 Amendment Bill	2626,2007,107
 Amendment Bill Bill	7548
 Amendment Bill Please	4633
@@ -714,7 +733,7 @@ Amendment of Articles of Association	4896
 Amendment of Cap	972
 Amendment of Cap.11	972
 Amendment of Chapter VIII of Cap	972
-Amendment of Identification Regulations	6512
+Amendment of Identification Regulations	6512,5535
 Amendment of Identification Regulations POPIA	6512
 Amendment of Identification Regulations Publish	6512
 Amendment of Identification Regulations The Regulations	6512
@@ -722,7 +741,9 @@ Amendment of License Conditions	762
 Amendment of Prequalification Document	1638
 Amendment of S.I. No	1844
 Amendment of Schedule	5687
-Amendments	22,563,569,109,1555,1043,111,77,105,93,55,281,172,608,2185,307,1890,1020,10,18,349,106,41,502
+Amendment of Utilisation	12058
+Amendments	22,563,569,109,1555,1043,111,77,105,93,55,281,172,608,2185,307,1890,1020,10,18,349,106,41,502,195
+Amends	12058
 Amends the Electronic Payment Services Regulations	5687
 Amenorreia	10777
 Amenya	7750
@@ -753,8 +774,9 @@ America's. The U.S	9284
 America-First	4447
 America-First-Global-Health-Strategy-Report.pdf	4426,2508
 America-India Connect	5122,2243,1,1333
+America-to-Europe	11863
 America. Yet Nigeria	6266
-American	571,420,47,985,73,271,159,214,129,132,74,38,21,98,376,18,180,68,175,83,21,12,2,35,15,41,1,86,7,74,21,25,197,77,58,157,74,7,32,10,40,24,14,54,8,18,15,45,9,41,14,199,180,27,1,64,63,101,230,19,12,64,84,61,6,13,27,34,31,22,63,65,58,89,29,21,245,35,47,87,1,86,41,108,171,1,106,269,8,72,141,1,45,25,61,16,15,170,12,198,14,17,55,31,8,12,92,50,60,34,21,203,9,97,66,80,308,21,20,58,31,24,229,3,13,5,38,16,22,32,234,12,124,76,149,188,398
+American	571,420,47,985,73,271,159,214,129,132,74,38,21,98,376,18,180,68,175,83,21,12,2,35,15,41,1,86,7,74,21,25,197,77,58,157,74,7,32,10,40,24,14,54,8,18,15,45,9,41,14,199,180,27,1,64,63,101,230,19,12,64,84,61,6,13,27,34,31,22,63,65,58,89,29,21,245,35,47,87,1,86,41,108,171,1,106,269,8,72,141,1,45,25,61,16,15,170,12,198,14,17,55,31,8,12,92,50,60,34,21,203,9,97,66,80,308,21,20,58,31,24,229,3,13,5,38,16,22,32,234,12,124,76,149,188,398,206,136,28
 American AI	5216,41,516,1017,277,142,805,333,148,15,505,248,366,801,97,1213
 American AI Exports Program	5216,41,516,1017,277,142,1286,2032,783
 American AI Exports Program. Applicants	7067
@@ -765,7 +787,7 @@ American AI. Context	5257
 American Artificial Intelligence	5773
 American Association of Geographers	226
 American Bar Association	2546
-American Behavioral Scientist	2096
+American Behavioral Scientist	2096,9994
 American Big Tech	5366
 American Big Tech. Well	6517
 American Chamber of Commerce	7537,159,84,3025
@@ -775,10 +797,14 @@ American Corner Maseru	6695
 American Corner de Libreville	11708
 American DFC	560
 American Democracy. Washington	2096
+American Dollars	11924
 American Economic Association	9759
 American Economic Review	1161,103,8495,1381
 American English	991
 American Enterprise Fellow Ryan Fedasiuk	5257
+American Express	11877
+American Express ATM	11955
+American Express SafeKey	11955
 American FinTech-focused VC	4972
 American First	4426
 American First Healthcare	4426
@@ -800,6 +826,7 @@ American Security’s Technology and National Security	4617
 American Sociological Review	5349
 American Spaces	9621
 American Standard Code for Information Interchange	1984
+American Statistical Association	12006
 American Telecom	2137,526
 American Tower	3232,4561
 American Tower Corporation	236,8494,311
@@ -830,7 +857,7 @@ Americans and Europeans	7337
 Americans and Ivoirians	7430
 Americans and Ivoirians. American	7430
 Americans for Responsible Innovation	9027
-Americas	2794,71,1983,124,1570,38,366,949,300,26,362,198,1266,671,46,17,59,155,160,408
+Americas	2794,71,1983,124,1570,38,366,949,300,26,362,198,1266,671,46,17,59,155,160,408,317,14
 Americas Antigua and Barbuda Global Cybersecurity Index	10764
 Americas Botswana High EGDI M-OSI H-HcI	10840
 Americas Brazil Barbados Chile Honduras União	10844
@@ -864,6 +891,7 @@ Ametaja	7311,538,766,1811
 Ametolea	8463
 Ametorgoh	11052
 Amewataka	10556
+Amex Clearing	11955
 Ameya Naik	6668
 Ameya-3-620x349.png	6668
 Ameya-bw-110x110.png	6668
@@ -871,7 +899,7 @@ Ameyasema	11627
 Ameyataja	4099
 Ameyaw	10112
 Amezitaja	6015
-Amhara	111,1101,7,2105,467,3246,3967
+Amhara	111,1101,7,2105,467,3246,3967,898,62
 Amhara Bureau of Revenue	8102
 Amhara National	3791
 Amhara National Regional State	11596
@@ -883,6 +911,7 @@ Amharic-language	4766
 Amharic. Google Translate	5302
 AmharicNews	10025
 Amherst	10794
+Amianto	11898
 Amicus Curiae	3572
 Amid Gradual Diversification Sales	4972
 Amidou Baba-Moussa	766
@@ -944,6 +973,7 @@ Amini AI	6332,3300
 Aminu Kano Street and Aminu Kano Crescent	11129
 Aminu Maida	3725,1330,825,410,1561,356,210,630,70,552,639
 Aminu Umar-Sadiq	6376
+Aminu Yusuf	12064
 Aminuis	9666
 Aminuis In Aminuis	9666
 Aminuis and Otjimbinde	8660
@@ -967,7 +997,7 @@ Ammar Albouzaidi	5336
 Ammar Bin Yasir Community Health	7167
 Ammenwerth	10780
 Amnesty	11156
-Amnesty International	2024,3191,388,1348,1099,1349,629,735,63,245,85,535
+Amnesty International	2024,3191,388,1348,1099,1349,629,735,63,245,85,535,177
 Amnesty International Kenya	1354,5433,1308
 Amnesty International Kenya Data Controller INST-521767F7A69	7167
 Amnesty International Togo	11704
@@ -989,7 +1019,7 @@ Amofia Nara	6211
 Amon Magunje	10418
 Amonai Medical Clinic Data Controller INST-432992369F9	7167
 Amonestación	163
-Among	418,164,136,243,8,274,18,293,132,128,11,3,75,37,48,276,18,37,128,54,56,20,91,92,15,7,143,126,57,72,52,67,24,21,137,12,64,26,18,3,98,11,38,101,9,67,139,11,7,35,7,23,194,201,16,33,82,24,131,17,167,21,89,19,100,2,1,65,9,42,148,53,19,383,71,35,75,54,11,19,42,1,60,59,118,272,6,11,6,17,32,91,126,121,56,90,45,45,18,29,36,49,63,67,50,44,17,31,36,15,2,36,17,23,21,9,29,1,3,110,155,11,57,9,32,59,2,10,7,5,39,29,24,89,5,9,10,17,97,142,2,3,12,3,15,29,15,116,18,84,210,9,28,5,124,8,24,2,57,194,34,24,21,21,46,8,21,92,13,124,41,37,1,22,54,109,149,11,34,2,10,5,21,28,11,1,3,20,2,15,38,20,19,5,1,3,10,3,5,19,13,10,19,31,23,31,4,1,4,2,7,5,108,9,14,1,3,7,84,37,119,27,15,3,4,66
+Among	418,164,136,243,8,274,18,293,132,128,11,3,75,37,48,276,18,37,128,54,56,20,91,92,15,7,143,126,57,72,52,67,24,21,137,12,64,26,18,3,98,11,38,101,9,67,139,11,7,35,7,23,194,201,16,33,82,24,131,17,167,21,89,19,100,2,1,65,9,42,148,53,19,383,71,35,75,54,11,19,42,1,60,59,118,272,6,11,6,17,32,91,126,121,56,90,45,45,18,29,36,49,63,67,50,44,17,31,36,15,2,36,17,23,21,9,29,1,3,110,155,11,57,9,32,59,2,10,7,5,39,29,24,89,5,9,10,17,97,142,2,3,12,3,15,29,15,116,18,84,210,9,28,5,124,8,24,2,57,194,34,24,21,21,46,8,21,92,13,124,41,37,1,22,54,109,149,11,34,2,10,5,21,28,11,1,3,20,2,15,38,20,19,5,1,3,10,3,5,19,13,10,19,31,23,31,4,1,4,2,7,5,108,9,14,1,3,7,84,37,119,27,15,3,4,66,204,39,8,14,2,37,9,30,2,7,2,46
 Among CQC	9698
 Among Chadians	10841
 Among Cheapest Currencies In The World	5390,965,827
@@ -1025,7 +1055,8 @@ Amortización de Crédito Chino	4209
 Amortización de Deuda Externa	4209
 Amortización de Obligaciones	4209
 Amortización de Otras	4209
-Amortization	5655
+Amortization	5655,6300
+Amory	11927
 Amorçage PME. L’institut	2342
 Amos Haddebe	5802
 Amos Kamugabirwe	10764
@@ -1036,6 +1067,7 @@ Amos Nungu	11623
 Amos Robi	9736
 Amos Siwoi	1639
 Amos Yeboah	8384
+Amos-6	12078
 Amossys Consulting Services Private Limited Data	7167
 Amostra	10777
 Amostra Bengo	10777
@@ -1071,7 +1103,7 @@ Amount-quality Rounded	357
 Amount-quality Rounded. Crosswalk	207
 Amount-quality Rounded. JPY-	898
 Amounting	3583
-Amounts	789,803,98,129,1895,1182,6106,129,3,52,1,7,39,447
+Amounts	789,803,98,129,1895,1182,6106,129,3,52,1,7,39,447,275
 Amounts Payable	11131,3
 Amour Muziki	8376
 Amour Tchègnon Degnon	7355
@@ -1093,6 +1125,7 @@ Amplification	8999,1727
 Amplification Human-in-the-loop	10726
 Amplification of Some Strategic Policy Actions	958
 Amplified Voices	8311
+Amplifier MNO Mobile Network Operator OECD	12006
 Amplifiée	10965
 Amplify Girls Africa Data Controller INST-288256B6952	7167
 Amplify Girls Africa Data Processor INST-288256B6952	7167
@@ -1120,7 +1153,7 @@ Amro Mohamed	11786
 Amsinck	4432
 Amsoshnodws	11152
 Amssalu	8531
-Amsterdam	3840,33,1640,187,486,353,790,1186,389,251
+Amsterdam	3840,33,1640,187,486,353,790,1186,389,251,2933
 Amsterdam Institute for Advanced Metropolitan Solutions	11007
 Amsterdam University Press	11135
 Amsterdam-based	4467,2762
@@ -1155,7 +1188,9 @@ Amélioration des Statistiques	7675,3199,1
 Amélioration du Climat	643
 Amélioration du Favoriser	10965
 Amélioration du Service	11549
-Améliorer	12,631,355,440,1528,3993,863,871,198,650,1171,2,3,100,41,16,2,89
+Amélioration du Système Educatif	11905
+Amélioration du Système RoC Educatif	11905
+Améliorer	12,631,355,440,1528,3993,863,871,198,650,1171,2,3,100,41,16,2,89,979
 Améliorer Système	10712
 Améliorer la Améliorer	10965
 Améliorer la Informer	10965
@@ -1181,11 +1216,11 @@ Américo Muchanga. L’initiative	10226
 Américo Muchanga. Na	8858
 Américo Ramos	5572
 Américo Ramos. Na	5572
-Amérique	3268,2477,868,790,267,1221,2199
+Amérique	3268,2477,868,790,267,1221,2199,940
 Amérique du Nord	2732,951,5449,1073
 Amérique. Cette	8237
 Amérique. L'ambition de Qantev	7390
-Amílcar Cabral	2887,1371,7255,56
+Amílcar Cabral	2887,1371,7255,56,294
 Amílcar Cabral Submarine Cable	1264
 Andre Amaral	8775
 Anglo American	937,2448
@@ -1203,7 +1238,7 @@ Artificial Intelligence AML Anti-Money Laundering ARIPO	11250
 Arusha. Amesema Wizara	1859
 Asia Africa America and World Europe Annual	11572
 Asia Latin America	10977,595
-Asia and Latin America	6960,4044,151
+Asia and Latin America	6960,4044,151,933
 Asia and North America. Across	4972
 Asia and South America	1123,10012
 Asian and South American	1219
@@ -1217,6 +1252,7 @@ Authority. Amendment	736
 Autonomous Amortization Fund	10964
 Autonomous Fund for Amortization of Public Debt	57
 Autoridade de Avaliação Ambiental Competente	11542
+Av. Amílcar Cabral	11941
 Avaliação Ambiental	6269,5137
 Avaliação de Impacte Ambiental	11390
 Avaliação de Impacto Ambiental	11542
@@ -1230,11 +1266,13 @@ BRITISH AMERICAN TOBACCO AREA LIMITED Data	7167
 BRITISH AMERICAN TOBACCO KENYA PLC Data	7167
 Bade TMC Amplio GmbH TrustOriginality.ai	8530
 Bank of America	8610,233,2246
+Bank of America Corporation	12069
 Bank of America Europe DAC and Citibank	7198
 Bank of America Europe DAC and Citibank N.A	7198
 Bank’s AM	2889
 Barbra Among Arinda	8290
 Base de Amostragem	10777
+Bashir Aminu	12051
 Behind Emotions and The American Bias	4554
 Belal Amin	10683
 Benin Foreign Minister and Chinese Ambassador. RMB	715
@@ -1272,6 +1310,7 @@ CE.2 Ambiente	11376
 CEO Ambiance and Ambiance	6576
 CEO of AMA	3742
 CEO of AMN. Jean-Philippe Gillet	3952
+CFT AML	11861
 CFT Onsite Inspections. Enhanced AML	11134
 CHAPTER IV GENERAL Amplification	11176
 CHIDI AMUTAAugust	9876
@@ -1279,8 +1318,10 @@ CLASSIFICAÇÃO DO RISCO AMBIENTAL E SOCIAL	11390
 CONAC. Among	3135
 CONOMIQUE ET FINANCIÈRE UNE GESTION AMÉLIORÉE	2342
 CPA Amendment Regulations	5865
+CPPA Amended Act	11993
 Cabinda AMÉRICO JAMBA TCHILINGUTILA	10751
 Cabinet Secretary William Kabogo and China's Ambassador	9938
+Cabo Verde Ambition	11891
 Caja Autónoma de Amortización	57,284
 Camarade Aminata ZERBO	8454
 Camarade Dr Aminata ZERBO	6685
@@ -1308,10 +1349,11 @@ Chinese Ambassador Han Jing	10215
 Chinese Ambassador Rao Hongwei and Minister of Finance	791
 Circuit-breakers. Amended	11269
 Citizen Science. Among	5246
-Civil Union Amendment Act	5533
+Civil Union Amendment Act	5533,6453
 Ciências Ambientais	9694
 Clarifies Vehicle Procurement Amid Public Questions	11054
 Coega Green Ammonia Project. Local	11226
+Col. Aminu Ingawa Fatima Ibrahim-Haruna	11857
 Collateral Amounts	4517,2461
 Colombia Ambassador	6963
 Colombia's Ambassador	6963
@@ -1325,7 +1367,8 @@ Community of Latin American and Caribbean States	10038
 Companies Act Amendment	11250
 Compete Amazon	10588
 Competition From Starlink and Amazon	965,3804,120,206,402
-Complexity and Ambiguity	7444
+Complexity and Ambiguity	7444,4512
+Components Amounts	11924
 Computação Em Nuvem Pode Ampliar	8827
 Comércio Ambulante	9403
 Connected Women Amber Ijebor Guest Author	11083
@@ -1380,16 +1423,18 @@ Dario Amodei	5287
 Dashen Bank's Amole	11620
 Data Protection Amendment Bill	7853
 Deeds Registries Amendment Act	11217
+Department Matters Amendment Act	11986
 Deposit Protection Corporation Amendment Bill	8681
 Depreciation and Amortisation	3898,2202,1104,2435,24,479,1193
 Deputy Attorney General Amabelia Chuquela	4270
 Deputy Minister for Finance Thomas Nyarko Ampem	9729
 Desenho da Amostra	10777
 Despite Expanding Tech Ambitions.md	4159
+Diaba-Nuhoho and Amponsah-Offeh	12090
 Dickson Amoung-Yam	8696
 Digital Ambassador	2989
 Digital Ambassador Program	906
-Digital Ambassadors	906,2083,615,1049
+Digital Ambassadors	906,2083,615,1049,7312
 Digital Ambassadors Forum	7471
 Digital Ambassadors Program	1903
 Digital Ambassadors Programme	3243,4254
@@ -1401,6 +1446,7 @@ Digital Skills Ambassadors	5386
 Digital Skills Ambassadors Programme	10072
 Digital Transition Minister Aminata Zerbo	1709
 Digital Transition Minister Dr Aminata Zerbo	4947
+Digital skills among the young and older populations. Fleer	11879
 Director de Tecnologia da Amazon	2816
 Director-General Amara Brewah	3986
 Director-General.’’. Amendment	11280
@@ -1408,6 +1454,7 @@ Direito Ambiental	11358
 Displacing American	6582
 District Registration Officer for Amudat District	3005
 Diverging Paths North America	4972
+Divestitures Amortization	11955
 Djabirou Amadou	4246
 Djibouti City. Among	11271
 Dk Mwasaga. Amesema	3447
@@ -1417,6 +1464,7 @@ Docteure Aminata ZERBO	3469
 Doha Ammour of N	3001
 Dominant American	5257
 Don’t Have To Be America	11140
+Doreen Ahimbisibwe. Eliamringi Mandari and Amil Aneja	11960
 Dr. Amanda Data Controller INST-407625F549A NAIROBI	7167
 Dr. Amani Abou-Zeid AU Commissioner	961
 Dr. Americo Oliveira	8487
@@ -1438,7 +1486,9 @@ Draft Proposed Amended Constitution	9914,1,77
 Duarte Amaral	10503
 Dumisha Amani Project	2857,3026,94
 Dumisha Amani Skills	2857,3026,94
+E LICENÇAS AMBIENTAIS	11898
 E-Waste Exposure Amongst E-Waste Entrepreneurs	1154
+EC Amathole DM Stutterheim EC Chris	11986
 ECA Amendment Bill	11235
 ECOWAS’ Amilcar Cabral Submarine Cable Project	1264
 EDITOR Instituto Nacional de Estatísticas Avenida Amílcar	11537
@@ -1446,6 +1496,7 @@ EHILE Amoi FAITS MARQUANTS Adm MMPE	2342
 EHTP. Par Amine Bouwafoud	8109
 ELABORAÇÃO E APROVAÇÃO DOS INSTRUMENTOS AMBIENTAIS	11390
 ELC13936 Amazon	7210
+ELECTORAL MATTERS AMENDMENT BILL	12054
 ELECTRONIC COMMUNICATIONS AMENDMENT BILL	5872
 EMPLOYMENT SERVICES AMENDMENT BILL	11280
 END-USER AND SUBSCRIBER SERVICE CHARTER AMENDMENT	4732
@@ -1477,7 +1528,9 @@ Egyptian Ambassador	9332
 Ekye Amanfrom Bridge	7695
 El Amine Souef	7991
 Elaboração de Estudos de Impacte Ambiental	11390
-Electoral Amendment Bill	5533
+Electoral Amendment Bill	5533,6453
+Electoral Laws Amendment Act	12054
+Electoral Matters Amendment Act	11986
 Electricity Regulation Amendment Act	11272
 Electronic Communications Amendment Act	5872
 Electronic Communications Amendment Bill	5872,280,2009,2408,477
@@ -1523,10 +1576,12 @@ Europe and South America	2320
 European Union Ambassador	11283
 European Union Ambassador Karsten Mecklenburg	6013
 European and American	5482,381
+European and South American	11863
 Eutelsat OneWeb and Amazon Leo	6898
 Excellency Corinne Amori Brunet	9043
 Executive Vice-Chairman and Chief Executive Officer Aminu	8241
 Explicitly Regional Ambition NITDA	10424
+External Company Name and Amendments	12041
 FATF-aligned AML	6413
 FICHA DE TRIAGEM AMBIENTAL E SOCIAL	11390
 FISCAL ADJUNTO DE MEDIO AMBIENTE	4209
@@ -1536,6 +1591,8 @@ FOURTEENTH AMENDMENT OF THE REGULATIONS MADE	11213
 Facilitation de Améliorer	10965
 FanDuel Group North America	10293
 Felista Amaragat	7334
+Female Digital Ambassadors	11965
+Female LATIN AMERICA	11964
 Ficha de Monitorização Ambiental	11406
 Films and Publications Amendment Act	2117
 Final Call Termination Amendment Regulations	11211
@@ -1572,10 +1629,12 @@ Germany’s Ambassador	4180
 Ghana Amalgamated Trust	7695
 Ghana Appoints Nana Yaw Amoah-Yeboah	7372
 Gigawatt. Amos Siwoi	1639
+GitHub Copilot. Among	11922
 Global Financial Integrity and American University	4127
 Global North Europe Asia America Latin	4972
 Global South. Amid	8936
 Global South. South America	5252
+Glossary of Terms AML	11861
 Godfred Ameyaw Asiedu	10112
 Google Amazon Leo Eutelsat OneWeb Icasa	6898
 Google and Amazon	9671
@@ -1587,6 +1646,7 @@ Green Amayaga II	8674
 Grid That Supports Africa’s Digital Ambitions	4906
 Group AML	10718
 Grupo de Amigos da Iniciativa	11564
+Guinea Worm. Findings Among	11912
 Général Amara Camara	2344
 Général Amara Camara. Ce	7978
 Général de Brigade Amadou Didili	6578
@@ -1649,7 +1709,7 @@ Ilza Amado Vaz	2688
 Ilza Maria Amado Vaz	2688
 Imagem Ambiental	549
 Immigration Amendment Act	11177
-Immigration Amendment Bill	5533
+Immigration Amendment Bill	5533,6453
 Impact Categories Amongst VC Deals	4972
 Impacte Ambiental	11390
 Impactes Ambientais	11390,16
@@ -1667,11 +1727,13 @@ Indicativos de Ameaças	11569
 Indigenous Latin American	7151
 Indirect Participants. Among Indirect Participants	2836
 Indonesia and Guatemala Among	11004
+Indonesia and Latin American	11902
 Ines Amani	5379
 Innovation Among	7151
 Innovation. Amélioration	8269
 Inspecção Ambiental	11542
 Instrumentos Ambientais	11406
+Interagency Collaboration Among Law Enforcement Agencies	11928
 Interface AWS Amazon Web Services BCP	6432
 Inês Amado	4938
 Início Precoce da Amamentação	10777
@@ -1692,6 +1754,7 @@ Japan's Ambassador	7300
 Jeff Bezos’ Amazon Web Services	9239
 Jennifer Ambolley	8363
 Jim Crow America	4426
+Joana Gomes Rosa Amado	11901
 Joaquim Amaro Gomes Mustasse	11544
 Johari. Amesema	7311
 Join America-India Connect Subsea Cable Programme	7366
@@ -1700,15 +1763,18 @@ Joy Amulya and Julian Lopez	769
 Jumia American Depositary Shares	9984
 Justice Ambrose Lewis-Allagoa	7469,91,216
 Justice Edward Amoako Asante	11704
+K Latin America	11922
 KAOUN International. Amine El Mezouaghi	5608
 KENYA THE UNITED STATES OF AMERICA	4154
 KOUAKOU N’guessan Amédée	2342
-KYC and AML	10718,412
+KYC and AML	10718,412,731
+KZN Amajuba DM Newcastle Provincial Hospital	11986
 Kabiru and Amendah	9969
 Kairuki. Amesema	7849
 Kajwengye Among	6009
 Kallot of Amini	7151
 Keep Reading Among	7521
+Kenge. Among	12003
 Kenya's Ambassador	3867,11
 Kenya. Amazon's Project Kuiper	6745
 Kenyan Amini Corp	3604
@@ -1721,13 +1787,16 @@ Komi Amedjonekou ICT	5087
 Korean Ambassador	9729
 Kousseri and Amchidé	302,37
 Kousseri and Amchidé. Huawei Technologies Co	303,7286
+Kwango Province Among	12003
 LA GRAL. DE DELEGACION ORIENTE AMERICA	4209
 LATIN AMERICA	11004
 LATIN AMERICA AND THE CARIBBEAN	10977
-LATIN AMERICA Guatemala	11004
+LATIN AMERICA Guatemala	11004,960
 LATIN AMERICA Male	11004
-LATIN AMERICA Men	11004
+LATIN AMERICA Men	11004,960
+LATIN AMERICA Mexico	11964
 LATIN AMERICA Women Self-Employed	11004
+LAWS AMENDED	12054
 LAWS REPEALED OR AMENDED	11182
 LKS Ambassadors	10277
 LMIC and Latin American	10188
@@ -1736,34 +1805,42 @@ LTD PROPOSED AMENDED CONSTITUTION	8866
 La Ministre Aminata Zerbo	3668
 Laboratório de Segurança da Amnistia Internacional	5211
 Laboratórios de Ambiente	11542
-Latin America	226,96,915,577,559,305,152,1538,106,260,129,109,70,182,394,407,245,323,378,180,251,146,338,743,111,590,309,70,30,76,373,526,71,61,131,27,131,14,6,417
+Latin America	226,96,915,577,559,305,152,1538,106,260,129,109,70,182,394,407,245,323,378,180,251,146,338,743,111,590,309,70,30,76,373,526,71,61,131,27,131,14,6,417,283,12,35,20,42,124
 Latin America Middle East Africa Pacific	10977
-Latin America Sub-Saharan South	11004
-Latin America and Africa	8598
+Latin America Sub-Saharan South	11004,960
+Latin America and Africa	8598,3257
 Latin America and Africa. Reflecting	10846
 Latin America and Asia	4426
 Latin America and Asia Pacific	9151
 Latin America and Caribbean	11155
+Latin America and Indonesia	11902
 Latin America and Oceania	4734
 Latin America and The Caribbean	11135
 Latin America and The Caribbean Country Argentina	11135
 Latin America of G42 Presight	3281
 Latin America. Among	2025
 Latin America. Cooperating	9709
-Latin American	322,6829,811,667,41,660,2410
+Latin American	322,6829,811,667,41,660,2410,115,67
 Latin American Companies	226
 Latin American Context	5349
 Latin American Energy Organization	11572
+Latin American and Southeast Asian	11964
 Lavish’ Elite Wedding Amid Economic Hardship	7312
 Leading American	8014
 Legislação Ambiental	11406
+Legislação de Licenciamento Ambiental	11898
 Lei da Avaliação Ambiental	11542
+Leon Amos Schreiber	12047
 Ley de Delitos Ambientales	1701
 Ley de Educación Ambiental	1701
+Liberações Ambientais	11898
 Liberia’s Ambassador	7722
 Liberty Latin America. TDB	398
 Libya’s Apollonia Foreign Ministry and Chinese Ambassador	6357
-Licenciamento Ambiental	10276
+Licenciamento Ambiental	10276,1622
+Licenças Ambientais	11898
+Licenças Ambientais Acessibilidade	11898
+Licenças Ambientais de Construção	11898
 Like Amazon Web Services	7382
 Lithium Americas	4447
 Live Events Among	9208
@@ -1789,6 +1866,7 @@ M. Dina Amadou	4657
 M. Dina Mahamat Amadou. C’est	4657
 M. El Amine Souef	8360
 M. Kaboré Amadou Directeur de Direction Générale	10812
+M. Kokou Sefako Amelowonou Senior Education	11916
 MAUEZA EURIDCE AMADO GARCIA MAURÍCIO GANDO	10750
 MEDIO AMBIENTE LICENCIA MEDIO ABIENTAL	4209
 MEDIO AMBIENTE LICENCIA MEDIO AMBIENTAL	4209
@@ -1812,8 +1890,10 @@ Madame Amal El Fallah Seghrouchni	8002
 Madame Antoinette Ashley NGUESSO AMBENDET	3326
 Madame Patricia Amand	6116
 Magdi Amin	2516
+Maina. Ambassador Dennis Awori	12084
 Maintaining American Leadership	11135
 Malawi Police Service and Bank of America	11089
+Manager Ambassade de France Francophonie	11916
 Managing Director and Chief Executive Officer of Ambosit	7928
 Maputo How Amazon	6365
 Maritime and Amateur	6946
@@ -1873,6 +1953,7 @@ Mme Aminata Ndiaye Niang	2441
 Mme la Ministre Amal El Fallah Seghrouchni	2717
 Mnyango Wezokuqashwa Nezabasebenzi. Amakhophi	11573
 Mode of Land Acquisition Among Nigerian Refugees	10841
+Modestus Amutse	12106
 Mohamed Amer	6653
 Mohamed Amine Charar	1241
 Mohamed Amine Riahla	6437
@@ -1930,11 +2011,13 @@ National Qualifications Framework. Citation. Amendmeat	7832
 National Research Policy. Amendments	1154
 National Road Traffic Act.’’. Amendment	11551
 National Treasury.’’. Amendment	11280
+Nations USD United States of America	11863
 Nelson Amenya	3758,3992
 Netherlands Ambassador	9546
 Newsfeed Amazon Leo	7382
 Newsfeed Amazon Web Services	2277
 Nigeria Data Protection Commission. Among	5363
+Nigeria's Digital Registration Ambition Recognising	12057
 Nigeria. Amazon Leo	4623
 Nigerian American	9739
 Nigeria’s AML	4848
@@ -1942,13 +2025,13 @@ Nilekani and Amitabh Kant	6692
 No.1 Amanfro Ashaley Botwe Street	3386
 Norma Ambiental	11390,152
 Normas Ambientais	6269,5121,16,7
-North America	144,846,1,45,1800,600,346,644,88,349,109,850,252,327,97,192,142,165,105,54,52,194,171,180,510,85,803,4,554,106,15,258,32,83,18,471,22,4,46,21,355
+North America	144,846,1,45,1800,600,346,644,88,349,109,850,252,327,97,192,142,165,105,54,52,194,171,180,510,85,803,4,554,106,15,258,32,83,18,471,22,4,46,21,355,888
 North America and Asia	8936
-North America and Europe	2948,2622,1135
+North America and Europe	2948,2622,1135,5217
 North America and Europe. Africa	7281
 North America. Investments	6542
 North America. Over	415
-North American	4972,395,5787
+North American	4972,395,5787,934
 North American LPs	4972
 North American and East African	8040
 North and South America	1036,5568
@@ -1970,6 +2053,7 @@ Objectifs Améliorer	8556
 Odria Dr. Aminah Zawedde State Minister	9781
 Office National du Contrôle des Aménagements	7674
 Officer Dr. Aminu Maida	4937
+Officer WAIO Who Am I Online	11986
 Ojo Amupitan	7748
 Omolola Amoussou and George Marbuah	10718
 Open Weights and American AI Leadership	8680
@@ -1980,9 +2064,11 @@ Organization of American States	10764,371
 Oscar Amaman	9162
 Osvaldo Amaro	11479
 Osvaldo Amaro João Cuti	11479
+Otto Group Among	11922
 Oui Ambition	10817
 Outcomes Among	11284
 Oxford Academic. Amoretti	10841
+P. and Amponsah-Offeh	12090
 P.S Dr. Aminah Zawedde	9781
 PAGF-SI AMI	3537,2277
 PART II AMENDMENT OF THE BANK	6921
@@ -2037,7 +2123,9 @@ POLITIQUE D’ENDETTEMENT DES UNE GESTION AMÉLIORÉE	2342
 PRICING RULES OR STANDARDS’’. Amendment	5872
 PRINCIPLES OF THE WATER ACT AMENDMENT	11791
 PS Amélioration	10858
+Paciﬁc Latin America Sub-Saharan South	11964
 Padrão Ambiental	11390
+Pakistan. Among	11964
 Pamod Amarakoon	6048
 Pan American Health Organization and WHO	1824
 Pan American Health Organization. Electronic Immunization	8376
@@ -2093,6 +2181,7 @@ Prof. Doutor Américo Muchanga	9694,446
 Prof. Dr. Mohamed Ould Amar Director	2958
 Programa Nacional de Gestão Ambiental	11390
 Programas de Monitorização Ambiental	11406
+Project. Among	11855
 Projecto WARDIP Guiné-Bissau NORMAS AMBIENTAIS	11542
 Projecto WARDIP Guiné-Bissau Norma Ambiental	11542
 Projet Amecc I Vers	5530
@@ -2144,7 +2233,7 @@ Realizing the Ambition	11468
 Reference Amirkhani and Barshooi2022	8283
 References Amaratunga	8130
 Refugees Amendment Act	11177
-Refugees Amendment Bill	5533
+Refugees Amendment Bill	5533,6453
 Registo Eleitoral Oficioso. Osvaldo Amaro	11479
 Registrar-General. Amendment	11
 Regulamentações de Danos Ambientais	11390
@@ -2165,7 +2254,9 @@ Rica Americas	10840
 Richard Kafui Amanfu	6936
 Ringo. Ameongeza	7311
 Risco Ambiental	11390
+Risco Ambiental Moderado Disponibilidade	11898
 Riscos Ambientais	11406
+Riscos Ambientais Definidos	11898
 Roadstuds. Amended	11269
 Roble AM	11596
 Rohit Amritlal Devani Clinic Data	7167
@@ -2181,6 +2272,7 @@ SANOGO Amara	2342
 SARL Bénin Control Les Transports AMS	10821
 SARS's Rule Amendments	9745
 SBA Communications and American Tower	7793,157
+SCHEDULE Amendment	12047
 SCHEDULE LAWS REPEALED OR AMENDED CHAPTER	11182
 SINTAG. Ambas	9065
 SMS AMERICAN TOWERS Fixe	998
@@ -2193,6 +2285,7 @@ SUBSCRIBER SERVICE CHARTER AMENDMENT REGULATIONS	4732
 SYSTEM Among	1243
 Sa Majesté Ambassadeur du Royaume du Maroc	8891
 Saaïd Amzazi	6924
+Salvaguardas Ambientais	11898
 Samantha Amabelia Chuquela	10750
 Samir Amin	4258,2975
 Samir Amin's Unequal Development. Strong	7233
@@ -2200,7 +2293,7 @@ Saudi Ambassador	10701
 Savina Ammassari	2545,3197
 Schedule Amendment	11551
 Scopus. Among	766
-Second and Third Amendment	5533
+Second and Third Amendment	5533,6453
 Second and Third Amendments	11218
 Secretaria Adjunta de Medio Ambiente Servicio	4209
 Secretaria Titular de Medio Ambiente	4209
@@ -2239,6 +2332,7 @@ Soraga. Amesema	6602
 Souhila Amazouz	4123
 South Africa Amazon Leo	5050,1315,533
 South Africa. Among	318
+South Africa. Home Affairs' Amended Performance	11986
 South African Police Service Amendment Bill	11285
 South America	225,766,1600,245,239,784,15,552,1256,588,3885,45,949
 South America and Africa	10221
@@ -2257,6 +2351,7 @@ Statistics Amendment Act	11178,23,36,19
 Stephane Boyera and Aman Grewal	769
 Study Ranks Rwanda Among Africa’s	3256
 Sua Excelência Américo António Cuononoca	11436
+Submissão de Licenças Ambientais Mecanismo Disponível	11898
 Subsector de Medio Ambiente	4209
 Sutherland Egypt Concentrix Egypt President Amr	11162
 Swedish Ambassador	2373
@@ -2274,6 +2369,7 @@ Tax Administration Laws Amendment Act	11263
 Tax Procedures Amendment Bill	3938,17
 Taye Amssalu	8531
 Tech Ambassador	5454
+Technology Amb. Philip Thigo	12104
 Telecoms Amazon	7284
 Third Amendment	11259
 Third Amendment Standard Terms and Conditions for Individual	11259
@@ -2281,6 +2377,7 @@ Third Amendments	11218
 Thomas Nyarko Ampem	8368,1053,308
 Thursday. Chinese Ambassador Zhao Weiping	5010
 Top Verticals Amongst Tech-Enabled Companies	4972
+Trans Amadi 1	12062
 Transferências Sociais Monetárias QAS Quadro Ambiental	11390
 Trust Amplifier and Systemic Risk Primary	11138
 Tunisia Chad Egypt Americas Congo	11563
@@ -2316,13 +2413,14 @@ US Ambassy Senegal	10258
 US American AI Exports Program	5216
 US. Ambitions	5044
 USA United States of America USB Universal	2775
+USA United States of America WU Western	11960
 Uganda Anita Among	6009
 Uganda's Ambassador	6199,63,2
 Ugandans. Dr Aminah Zawedde	5371
 United Nations Economic Commission for Latin America	11572
 United States Ambassador	6199,65
 United States and American	7430
-United States of America	1243,624,908,1197,77,104,1,10,3,50,30,11,44,47,90,89,259,326,1500,1232,688,1112,573,495,72,394
+United States of America	1243,624,908,1197,77,104,1,10,3,50,30,11,44,47,90,89,259,326,1500,1232,688,1112,573,495,72,394,715
 United States of America Data Controller INST-449650E1463	7167
 United States of America Data Processor INST-449650E1463	7167
 United States of America Japan International Scene	2775
@@ -2351,8 +2449,11 @@ Vice-chancellor Professor Nana Aba Appiah Amfo	8287
 Visa and American Express	5700
 Vital Statistics. Among	10765,10
 VodaCash. Al Americani	5714
+Voice of America	11868
 Voz de América	2444
+W M Guatemala LATIN W AMERICA	11964
 WAEMU. Amount-quality	508
+WERs. Among	12003
 Wacc Amortissement Base Tarifaire Nette	10975
 Washington’s America First Global Health Strategy	10602
 Water Services Amendment Bill	8599,2637
@@ -2369,6 +2470,7 @@ YA Rona Digital Ambassadors Programme	11230
 YYYY MM DD ISIQEPHU J AMATHAYIMUTHEBULA	11573
 Yakan Annick Amani-Koné	9961
 Yaw Amoah-Yeboah	8988
+Yes. Digital Ambassadors	11965
 Yvonne Boatemaa-Yeboah and Henrietta Brobbey Ameyaw	9535
 Zambia. Amongst	1988
 Zanzibar. Amesema	11612

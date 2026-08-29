@@ -54,11 +54,16 @@ Cabinet of Studies	10775
 Cairo Institute for Human Rights Studies	11079
 Cameroon Unveils Key Study	2918
 Case Studies	1250,3313,2384,1,203,3701
+Case Studies Annexure F	11952
+Case Studies E.1 Global Implementation Examples	11952
 Case Studies and Precedents	3861
-Case Study	797,230,1084,312,962,1463,396,899,1564,1149,1963,187,1,133
+Case Study	797,230,1084,312,962,1463,396,899,1564,1149,1963,187,1,133,776
 Case Study Analysis Report	7151
 Case Study Companion	2858
 Case Study Financial	10719
+Case Study Highlights	11987
+Case Study Multi	11987
+Case Study NIP Nigeria	12000
 Case Study of Fiji	5349
 Case Study of Hwange Power Plant Power	1154
 Case Study of Langata and Westlands Constituencies	899
@@ -78,6 +83,7 @@ Centre for Applied Legal Studies	6683,3206
 Centre for Economic Studies and Planning	10
 Centre for Human Rights and Policy Studies	7167
 Centre for Interdisciplinary Study of Pandemic Signatures	5141
+Centre for Primary Health Care Studies	12025
 China Society for WTO Studies	10038
 Citizenship Studies	5448
 Comparative Political Studies	7886
@@ -85,8 +91,10 @@ Comparative Study of Australia	11006
 Comprehensive Draft Study	2117
 Computer Studies	2308
 Computer Studies and Technology	7564
+Congo Case Study	11916
 Consumer and Market Study	10841
 Contemporary French and Francophone Studies	3782
+Context of Digital Transformation. Higher Education Studies	11927
 Country Case Studies	4430,245
 Country Contexts. Stud Fam Plann	10881
 Critical Fantasy Studies	11028
@@ -94,6 +102,7 @@ Critical Policy Studies	11028
 Cross-cultural Study of Sharing Digital Devices	4439
 Crypto Asset Market Study	9677
 Curriculum Studies	11134
+D-3 Implement Student Device Affordability Schemes	11857
 DAWN AI STUDY	8327
 DAWN AI STUDY and Efiwe	8889
 DDP. In Study	8436
@@ -103,6 +112,7 @@ DESIGN MASTERS STUDIO LIMITED Data Processor	7167
 DEVELOPMENT STUDIES Data Processor INST-86521012D9D	7167
 DPT3 Vaccine Stunting	10829
 Dala Studio	8149,1492
+Democratic Republic of Congo Case Study	11916
 Demographic Studies	3437
 Development Student Industrial Work Experience Scheme	10721
 Development and Policy Studies Dept. Public Management	10123
@@ -113,8 +123,10 @@ Digital Infrastructure Investment Study	6152
 Digital Outreach Studio	6623
 Digital Transformation Case Study World	1278
 Digital Transformation Case Study.pdf	1278
+Directorate of Studies and Planning	11974
 Discourse Studies	8460
 Dutch Institute Of Management Studies Data	7167
+EC Amathole DM Stutterheim EC Chris	11986
 ECTI STU	6517
 EDITION STUDIES	10980
 EDT OCR Studio	9747,54,3,23
@@ -137,6 +149,7 @@ FL Studio	9739
 FM Studios	6946
 Finds New GSMA Study. Press Release	10822
 Fiscal Studies	11727
+Five-Country Study	11879
 Foundation for Studies and Research	6773
 Frequency Assignments for Broadcast Studio	6946
 Gebeya Dala Studio Mini App	7625
@@ -163,6 +176,7 @@ Higher Education Students’ Loans Board	3460
 History and Political Studies	6946
 Human Factors and Usability Case Studies	10919
 ICT-Based Start-Ups and Asian Studies	905
+IGRP Studio	11939
 ITU Study Group	7174
 ITU-R Study Groups	5680
 ITU-T Study Group	7320
@@ -201,6 +215,7 @@ Italian Institute for International Political Studies	4676
 J Afr Media Stud	9739
 J Lang Lit Soc Cult Stud	9739
 Japan’s National Institute for Environmental Studies	11291
+Journal of Cape Verdean Studies	11909
 Journal of Chinese Economic and Business Studies	5302
 Journal of Common Market Studies	11050
 Journal of Computer Science and Technology Studies	8606
@@ -232,9 +247,11 @@ Media Studies	6946
 Media and Information Studies	11651
 Medical Center Service Expansion Feasibility Study	955
 Meeple S.r.l. MEGASTAR S.L. Minio Studio	8530
+Methods Study	12003
 Microsoft SQL Server Management Studio	10617
 Mind the Gap Study Guides	11241
 Ministry of Education Student Data Protection Framework	3861
+Ministry of Health. Study	12003
 MoCTI’s Digital Skills Market Study Report	7182
 Monrovia Urban Transport Modernization Study	4840
 Multidisciplinary Studies	7759
@@ -251,7 +268,7 @@ National Graduate Institute for Policy Studies	11109
 National ICT Usage Study	9781
 National Institute for Legislative and Democratic Studies	1163
 National Office for Technical Studies and Development	3604
-National Student Financial Aid Scheme	6832,1078,1218,237,1029,828,3,11,67
+National Student Financial Aid Scheme	6832,1078,1218,237,1029,828,3,11,67,694
 National Union of Eritrean Youth and Students	3851
 National Union of Students	10503
 Ndileka Stuurman	10247
@@ -300,7 +317,7 @@ Saharan Africa. Stud Health Technol Inform	8376
 School Based Assessment Mind the Gap Study	11241
 School of Graduate Studies	9534
 Security Studies	9616
-Social Studies of Science	11028
+Social Studies of Science	11028,1062
 South Africa Digital Infrastructure Investment Study	5602
 South Africa Economic Impact Study	1208
 South Africa's Digital Infrastructure Investment Study	2116
@@ -324,20 +341,24 @@ Student Credentials	10765,10
 Student Credentials Order	10775
 Student Identification	10765,10
 Student Information Systems. FIGURE	9128
+Student Integrated Management and Monitoring System	11939
 Student Pilot License SSA Sub-Saharan Africa	2775
 Student Satisfaction	2518
 Student Success	9128
 Student Suooort	11180
 Student Voices	6948
-Students	899,329,639,1644,586,29,93,400,16,18,327,822,173,380,246,232,113,2,343,104,173,387,324,560,281,8,237,175,333,86,99,336,131,75,126,49,90,83,134,233,154,213
+Student Women	11857
+Students	899,329,639,1644,586,29,93,400,16,18,327,822,173,380,246,232,113,2,343,104,173,387,324,560,281,8,237,175,333,86,99,336,131,75,126,49,90,83,134,233,154,213,197,26,2,11,4
 Students Engagement	2318,6506
+Students and Graduates	12053
 Students and Young Professionals African Liberty Academy	11827
 Studentsuccess Categories	8602
+Students’ Attitudes and Outcomes	11879
 Studia Inc	6120
 Studia Informacyjne	8022
 Studie	9739
 Studied	11228
-Studies	1212,7,29,580,160,108,581,271,212,444,523,548,674,1599,410,432,96,80,55,1,108,246,752,1,108,248,262,142,500,376,15,39,10,203
+Studies	1212,7,29,580,160,108,581,271,212,444,523,548,674,1599,410,432,96,80,55,1,108,246,752,1,108,248,262,142,500,376,15,39,10,203,847,30,56,25,35,39,26
 Studies MoU	1154
 Studies Research	6832
 Studies School of Technology and Social Sciences Dept	10123
@@ -351,7 +372,7 @@ Studieshaveexploredsimilarity-basedjoins	8606
 Studiesindicatethatwhenanalyticstoolsarepoorlyalignedwith	8602
 Studio	11572
 Studs	9123
-Study	299,600,63,245,5,7,42,553,1790,187,534,1024,253,937,293,1062,128,108,246,60,49,956,298,1025,77,29,11,59,8,353,277
+Study	299,600,63,245,5,7,42,553,1790,187,534,1024,253,937,293,1062,128,108,246,60,49,956,298,1025,77,29,11,59,8,353,277,279,3,45,11,90,19
 Study AI Patentability and Digital Rights	7624
 Study Awareness of Health Effects Due	1154
 Study Calls for More Cybersecurity Opportunities for African	7156
@@ -385,14 +406,18 @@ Stupid AI	8460
 Stupidity	5022
 Stupidity Dans	5022
 Stuti Piya	11572
+Stutterheim	11986
 Stutts	4432
 Stutzmann	2093
 Stutzmann and Kobold	2093
 Sudan. Institute of Development Studies. Accessed	6947
 Summary of Workshops and Study Tours	11552
+Support for Students	11918
 Survey of Students and Staff	11552
 Survival Program for Human Stunting Reduction	11469
 Sustainability Studies School Of Research and Graduate	10123
+Synthetic Control Methods for Comparative Case Studies	12006
+TCLE Democratic Republic of Congo Case Study	11916
 TERI School of Advanced Studies	11572
 TV Studios	6946
 Tanzania-German Centre for Eastern African Legal Studies	7155

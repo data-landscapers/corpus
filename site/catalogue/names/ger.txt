@@ -43,7 +43,7 @@ CONTEXTO GERAL	11523
 Caixa Geral de Depósitos	9832
 Caracterização Geral	10783
 Características Gerais	11419
-Censo Geral da População	6595,4981
+Censo Geral da População	6595,4981,491
 Cessação Geral da Oferta	11430
 Ciência de Dados. Requisitos Gerais. Os	11472
 Cláusulas Gerais	11386
@@ -72,6 +72,8 @@ Coordenação Geral	10754
 Critérios de Avaliação Geral	11390,16
 Cyprus Denmark Estonia Finland France Germany	10764
 Código Geral Tributário	11383,52
+Código Geral Tributário. Sujeitos Passivos Pessoas	12018
+Código Geral Tributário. Ver	12018
 DA INFORMAÇÃO CAPÍTULO I DISPOSIÇÕES GERAIS	11360
 DE DADOS CAPÍTULO I DISPOSIÇÕES GERAIS	167
 DISPOSIÇÕES GERAIS	4218,7149,16,145
@@ -104,12 +106,14 @@ Diretor Geral da Energia	11549
 Diretor Geral de Identificação Civil	11566
 Diretor Geral de Migração	11566
 Diretora Geral-Adjunta	11423
-Direção Geral	2688,8849,20
+Direção Geral	2688,8849,20,461
 Direção Geral da Administração	11543
 Direção Geral da Função Pública	11527
+Direção Geral de Apoio	11983
 Direção Geral de Contratos Públicos	11549
 Direção Geral de Identificação Civil	11537
-Direção Geral de Planeamento	6530
+Direção Geral de Inclusão Social	11855
+Direção Geral de Planeamento	6530,5325
 Direções Gerais	11538,23
 Disposições Gerais	576,1861
 Disposições Gerais Artigo	5169
@@ -141,6 +145,8 @@ Ensino Secundário Geral Província Total MF	10766
 Ensino Técnico-Profissional Recenseamento Geral da População	10766
 Environment Facility GERD Gross Expenditure	7548
 Escola de Formação de Professores Ensino Geral Avaliação	10766
+Especificacao Tecnica Gerador Ficheiro XML XSD.pdf	12018
+Especificação Técnica Gerador XML V07.pdf DPR	12018
 Estado. CAPÍTULO II CONDIÇÕES GERAIS	15
 Estatuto Orgânico da Administração Geral Tributária	11435
 FGI STP A Autoridade Geral de Rguladora	8487
@@ -182,8 +188,11 @@ Gerardo Quinones	226
 Gerardo Uña	1828
 Geração	2816
 Geração Z	5479
+Geração de DUC	12021
 Geração de Renda PNADECOS Política Nacional	11390
 Gerações Futuras	2816
+Geregu 1	12062
+Geregu 2	12062
 Geremia	10878
 Gerente de Treinamento de Modelos de Inteligência Artificial	2816
 Gerhard Oosthuizen	9683
@@ -193,7 +202,7 @@ Gerishon Gitonga Kithinji	5332
 Germain	5022
 Germaine Boni	2379,8,632,249
 Germaine NGALA	2655
-German	560,266,189,183,225,670,225,6,33,70,3,17,74,20,25,48,44,62,5,53,41,1,3,50,41,11,18,4,23,47,1,8,35,119,42,63,18,126,31,163,119,78,69,141,20,17,21,280,185,64,14,145,55,254,16,18,191,32,106,45,60,43,101,4,127,50,73,5,116,183,19,70,19,108,46,1,23,5,104,1,14,135,7,16,43,210,294,424,220,206,122,204,348,210,701,1,284,474,396,28,13,133,170,232
+German	560,266,189,183,225,670,225,6,33,70,3,17,74,20,25,48,44,62,5,53,41,1,3,50,41,11,18,4,23,47,1,8,35,119,42,63,18,126,31,163,119,78,69,141,20,17,21,280,185,64,14,145,55,254,16,18,191,32,106,45,60,43,101,4,127,50,73,5,116,183,19,70,19,108,46,1,23,5,104,1,14,135,7,16,43,210,294,424,220,206,122,204,348,210,701,1,284,474,396,28,13,133,170,232,393
 German Academic Exchange Service	7955
 German Adaptation Policy	11028
 German Agency for GRM International Cooperation	10964
@@ -212,6 +221,7 @@ German Development Corporation	6958
 German Embassy	3697,3028,2903,79,404,2
 German Embassy Nairobi	4890
 German Embassy Representative Mr. Ulrich Thueer	7362
+German Embassy. Participation	11897
 German Federal Foreign Office	7794,1676,237
 German Federal Foreign Office Press Release	7794
 German Federal Government	11135
@@ -235,7 +245,7 @@ German-backed	8266
 Germann	11585
 Germano Marques da Silva	9176
 Germanwatch	8891
-Germany	402,118,40,229,181,66,174,40,617,36,193,530,76,1,72,387,22,1,181,60,157,204,641,97,92,225,48,82,57,13,118,42,100,26,235,309,61,538,6,40,1,24,71,112,124,82,181,114,16,36,324,77,52,63,127,45,310,70,30,316,535,325,155,108,17,8,250,21,2,60,354,187,67,4,14,20,27,15,3,131,11,1,88,40,5,15,1,135,281,37
+Germany	402,118,40,229,181,66,174,40,617,36,193,530,76,1,72,387,22,1,181,60,157,204,641,97,92,225,48,82,57,13,118,42,100,26,235,309,61,538,6,40,1,24,71,112,124,82,181,114,16,36,324,77,52,63,127,45,310,70,30,316,535,325,155,108,17,8,250,21,2,60,354,187,67,4,14,20,27,15,3,131,11,1,88,40,5,15,1,135,281,37,313,63,18,87
 Germany BAMF	4842
 Germany Civil Registry	10714
 Germany Consortium Veridos. Uganda Security Printing	1282
@@ -266,7 +276,7 @@ Germany’s GIZ’s Support	5948
 Germany’s GTZ Municipality of Tripoli Centre	5948
 Germany’s Hetzner	6879
 Germanò	2518
-Germiston	9768
+Germiston	9768,2218
 Gernone	11135
 Gernot Rieder	11050
 Geroge Akume	2390
@@ -276,7 +286,7 @@ Gerry Chanda	121
 Gerson Zandemela	2989
 Gerstion	3396
 Gert Koen	10735
-Gert Sibande	11252
+Gert Sibande	11252,734
 Gertrude Umeh	7579
 Gertz	4676
 Gervais Abayeho	3738
@@ -291,6 +301,7 @@ I DISPOSIÇÕES GERAIS ARTIGO	3519,8001
 I DISPOSIÇÕES GERAIS Artigo	15,534,195,50
 I DISPOSIÇÕES GERAIS Publicado	11359
 I Disposições Gerais ARTIGO	11365
+I PRINCÍPIOS GERAIS Artigo	11901
 IA SECÇÃO I DISPOSIÇÕES GERAIS ARTIGO	3519
 IA de Propósito Geral	3519
 ILO GERME	10963,1
@@ -301,11 +312,13 @@ ITU International Telecommunication Union KfW German	3604
 IV Recenseamento Geral da População	7792,1531
 IVº Recenseamento Geral da População	7666
 Imposto Geral	11532
+Impostos Direcao Geral	12018
 Informação Geral	11405
 Informações Gerais Prévias	10755
 Inspecção Geral da Administração	11361,91
 Inspetor Geral da Educação	11557
 Inspetores da Inspeção Geral da Educação	11538
+Inspeção Geral	12021
 Inspeção Geral da Administração	11417
 Ivoire and German	8894
 Japan Germany PAGE	2775
@@ -322,7 +335,10 @@ Lei Geral	11390
 Lei Geral de Protecção de Dados Pessoais	3519
 Linhas Gerais	11383
 Lúcio Rodrigues Director Geral da Solidariedade Social	11560
+M Germany	11922
+M. Gervais Songa MoF	11916
 MINUTOS MÉDIO DE TRÁFEGO GLOBAL GERADO	11531
+MP Medi-Clinic Ermelo Gert Sibande	11986
 Malawian AI German-EU	10111
 Malik Arnold Geraldo	3866
 Management GGOAW Specialist Gernot Brodnig Social	11525
@@ -378,12 +394,16 @@ REGRAS GERAIS	10755
 REPUBLICAÇÃO REGULAMENTO GERAL DAS COMUNICAÇÕES ELECTRÓNICAS	11430
 RESULTADOS DEFINITIVOS RECENSEAMENTO GERAL DA POPULAÇÃO	11421
 Rapport geral corrigido.pdf	11562
+Ratio GDP Global Partnership for Education GER	11905
+Receitas de Estado Direção Geral	12018
+Recenseamento Geral	12014
 Recenseamento Geral da Agricultura	11526
 Recenseamento Geral da População	4040,4,42,1064,329,1512,3769,17,644,1,24,131
 Redes de Nova Geração	15,11382
 Regime Geral	167,577,2775,684,7183,10,1,6,1,28,6
 Regime Geral de Segurança Social	167
 Regime Jurídico Geral de Protecção de Dados	2345
+Regime Jurídico Geral de Transportes	11983
 Regimes Geral	11432
 Registo Geral de Contribuintes	11383
 Regras Gerais	11430
@@ -395,6 +415,7 @@ Regulamento Geral de Protecção de Dados	2816
 Representing the German Embassy	6013
 Requisitos Gerais	10755,675
 Responsabilidade Geral da Autoridade Reguladora Nacional	11519
+Robin Gerbaux	11868
 Rwandan and German	457
 S P R S Direção Geral	6530
 SECÇÃO I CONDIÇÕES GERAIS DA ACTIVIDADE	11386
@@ -429,6 +450,8 @@ UK and Germany	1813
 UMc Germany Europe Western Europe Berlin	10840
 V Recenseamento Geral da População	8211
 V. OBJECTIVOS GERAIS	4146
+VI Recenseamento Geral da Agricultura	11979
 Visão Geral	9432,1974,54
 West Africa Germany's BMZ	11293
+XML XSD actualizado.pdf Gerador XML XSD Modelo	12018
 Years of Inactivity By Gerald C. Koinyeneh	7410

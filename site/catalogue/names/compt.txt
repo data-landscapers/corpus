@@ -27,7 +27,7 @@ Comptabilité-Matières	10975
 Comptable	8321,2284,198,73
 Comptable Vérifie	10876
 Comptables	10876,99
-Compte	12,417,118,3,18,20,1091,295,368,83,541,78,1,144,167,2470,1185,638,6,15,137,257,827,190,1714,41,38,2,89,615
+Compte	12,417,118,3,18,20,1091,295,368,83,541,78,1,144,167,2470,1185,638,6,15,137,257,827,190,1714,41,38,2,89,615,364,99
 Compte Administratif	969,10006
 Compte Administratif. Budgétisation	10975
 Compte Courant Postal	10981
@@ -49,10 +49,11 @@ Comptoir des Minéraux	4127
 Comptroller General	4102
 Comptroller-General	587,2431,6458,1843
 Comptroller-General of Customs	8167,111,221,977
+Comptroller-General of Immigration	12015
 Comptés	7655
 Contrôle Comptes	3396
 Cour de Comptes	1284
-Cour des Comptes	1284,398,1714,7316
+Cour des Comptes	1284,398,1714,7316,1193
 Cour des Comptes. Article	1231
 Cour des Comptes. Chapitre III	37
 DAF Comptabilise	10876

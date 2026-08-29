@@ -108,7 +108,7 @@ Arabian Peninsula	1741
 Arabian Sea	4676
 Arabian Sea and Arabian Gulf	3342
 Arabian Travel Market United Arab Emriates	11185
-Arabic	0,569,392,24,64,194,599,24,1092,10,192,286,269,94,73,14,465,1,1502,579,262,14,48,180,181,65,597,131,299,591,1881,437,6,658
+Arabic	0,569,392,24,64,194,599,24,1092,10,192,286,269,94,73,14,465,1,1502,579,262,14,48,180,181,65,597,131,299,591,1881,437,6,658,295
 Arabic LLM	6232,337
 Arabic PDF	11153
 Arabic and English	4091
@@ -119,6 +119,7 @@ Arabic. Arabic	6947
 Arabica-roasting	10592
 Arabie	4919,1694,126,385,209,539,367,451,1232
 Arabie Saoudite	7620,223
+Arabization	12088
 Arabs	10313
 Arabsat	6241
 Arabsat and Yahsat. Several	10406
@@ -137,6 +138,7 @@ Arange	1885
 Araqamy	10105
 Aras and Büyüközkan	4432
 Arasasingham	1243
+Aratek	11994
 Aratek USE CASE AND CONTEXT	10852
 Araujo	8436,2697
 Araya Deepa Seeburn Procurement Specialist Procurement	11332
@@ -201,6 +203,7 @@ Minister. Maritime Transport The United Arab	11185
 Ministry of Digital Economy and Entrepreneurship United Arab	2958
 Mohamed Araqab	3286
 NAIROBI United Arab Emirates	7167
+Nigeria and United Arab Emirate	12026
 ONG Noé Arabsat	998
 Oman Qatar Saudi Arabia United Arab	10764
 PAgence Maghreb Arabe Presse. LOUANGE	308
@@ -208,6 +211,7 @@ Palestine Sudan Suriname Syrian Arab Republic	10764
 Philippines and Saudi Arabia. South Africa	8208
 Playground For The Fashion-Savvy Arab	7322
 Preserving the Arab Cultural Identity and Promoting Arab	2958
+President United Arab Emirate Mohamed	12026
 Principe Saudi Arabia Senegal Serbia Seychelles	11470,295
 Privé Classique Satellite Bilingue Franco arabe Passerelle	10847
 Project Arachnid	11648,140
@@ -215,7 +219,7 @@ Regional and International Cooperation The Arab Charter	2958
 Respect for Arab	2958
 Rome’s Arab Italian Trade Forum	5264
 Rwanda Saudi Arabia Serbia Singapore Slovenia	10764
-Saudi Arabia	1634,42,65,137,239,484,1846,525,188,92,346,770,245,175,2,145,604,149,579,228,150,375,632,775,274,13,71,61,289,437,37,33
+Saudi Arabia	1634,42,65,137,239,484,1846,525,188,92,346,770,245,175,2,145,604,149,579,228,150,375,632,775,274,13,71,61,289,437,37,33,468
 Saudi Arabia EACO and Smart Africa	2511
 Saudi Arabia Global Cybersecurity Index	10764
 Saudi Arabia Zain	2405
@@ -247,10 +251,11 @@ Unequal Distribution of Technology Arab	2958
 Unified Arab AI Standards	11135
 Union des Banques Arabes	10718
 United Arab	9399
-United Arab Emirates	1639,1285,34,323,776,158,232,136,28,216,127,119,13,161,844,211,109,110,92,177,9,50,97,34,17,154,388,148,129,37,196,77,139,2,228,150,297,457,61,397,361,567,61,225,60,3,1,1,4,45,105,206,5,108,33,80
+United Arab Emirates	1639,1285,34,323,776,158,232,136,28,216,127,119,13,161,844,211,109,110,92,177,9,50,97,34,17,154,388,148,129,37,196,77,139,2,228,150,297,457,61,397,361,567,61,225,60,3,1,1,4,45,105,206,5,108,33,80,200,104,43
 United Arab Emirates Central Bank and South	11185
 United Arab Emirates Global Cybersecurity Index	10764
 United Arab Emirates UHC Universal Health	2775
+United Arab Emirates UN United Nations	11960
 United Arab Emirates Yes ICT Fund	11529
 United Arab Emirates and Singapore	6689,3020
 United Arab Emirates and South Africa	11185
@@ -262,3 +267,4 @@ United Arab Emirates. Samira Njoya	4887
 United Arab Emirates. The Agreement	11185
 United Arab Emirates. Varisco	1741
 United Arab Emirates.113 The Commission	3583
+Zayed Al Nahyan and United Arab Emirates	12026

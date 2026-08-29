@@ -71,6 +71,8 @@ Chinese Enterprise Contracting Engineering Association	3546
 Citizen Engagement	2889,1764,6353,411
 Citizen Engagement CERC Contingency Emergency Response	11549
 Citizen Engagement Component	2989
+Citizen Engagement Indicator	11855
+Citizen Engagement Indicator MIS	11855
 Citizen Engagement Stats Public I-32	10785
 Citizen Engagements	9437
 Civic Engagement	2096
@@ -87,10 +89,14 @@ Communication Engineering	6946
 Communication and Engagement SO	6946
 Communication and Stakeholder Engagement	6946
 Communications Engineer Ahmed Dirdiri Ghandour	10663
-Community Engagement	11417
+Community Engagement	11417,535
 Community Engagement Contractors and Service Providers	1867
 Community Engagement Division	7784
+Community Engagement Initiative	12020
+Community Engagement Requirement	11952
+Community Engagement Service	11952
 Community Engagement and Equity	10776
+Computer Engineering	11862
 Computer Systems Engineering	6832
 Computer and Telecommunications Engineering	9128
 Conferência Anual da Rede Africana de Engenharia	11411
@@ -99,10 +105,13 @@ Consulting Key Stakeholders and Engaging	10720
 Consumer Engagement Models	5676
 Consumer Engagement Models Effective	5676
 Consumer Engagement and Education	408
+Consumer Enlightenment and Stakeholder Engagements	12062
+Contacto ECTS Engenharia de Software	12019
 Continued Stakeholder Engagement INEC	10049
 Convention ENG.pdf Page	10819
 Coordenadora Engrácia Costa	10757
 Coordenadora da Difusão Engracia Costa	10757
+Coordinator Engr. A.J. Maina Engr. Usman	11857
 Country Engagement	11417
 County Engagement Forums	2668
 Current Engagement Kenya	7548
@@ -113,6 +122,7 @@ Cynthia English and Chris McCarty	10977
 CÔTE D’IVOIRE ENGINEERING Gestion Patrimoniale	2342
 D Engage International AUC	961
 DAF Engage	10876
+DANGOTE CEMENT Banking Engineering	11884
 DATA SYSTEMS ENGINEERING LTD Data Controller	7167
 DES TRAVAUX ENGAGES DEPUIS MAI	9277
 DG Provincial Engagements Resources Programmes Care	11241
@@ -129,9 +139,10 @@ Department of Geomatic Engineering	9561
 Deputy Governor Engr. Ikechukwu Emetu	5072
 Design Engineering and Manufacturing Solutions	3760
 DhenhMerr.eE. DhenhereDr Eng. L. KDurnEaknag. L	1154
-Diaspora Engagement	4528
-Digital Citizen Engagement	10785
-Digital Citizen Engagement Index	10785
+Diaspora Engagement	4528,7335
+Digital Citizen Engagement	10785,1082
+Digital Citizen Engagement Index	10785,1082
+Digital Citizen Engagement The AFW	11867
 Digital Citizen Engagement and GovTech Enablers. Tanzania	4612
 Digital Economy Eng. John K. Tanui	7548
 Digital Economy Eng. John Tanui	10587
@@ -202,6 +213,7 @@ Eng. Arnold Bareba Mujuni	9781
 Eng. Ayman Ateyya	11162
 Eng. Collins Mbulo	3524,5558
 Eng. Daniel Murenzi	3238
+Eng. Davi Severiano Goia Cabral D'Almada	12056
 Eng. Dennis Chepkwony	10397
 Eng. Dr. Brilliant Haabenzu	9082
 Eng. Dr. Brilliant Habeenzu	7261
@@ -243,11 +255,11 @@ Eng. Rúben Manhiça	2816
 Eng. Sham Mesfin	10001
 Eng. Tamer El-Mahdy	11738
 Eng. Tanui	3878,1230,2372
-Engage	396,562,492,364,663,481,625,543,402,717,908,794,804,1316,1090
+Engage	396,562,492,364,663,481,625,543,402,717,908,794,804,1316,1090,1700,178
 Engage For Change	2448,490,3817
 Engage IPAM Students	5939
 Engaged	1554,2286,7291
-Engagement	226,492,181,71,191,469,148,210,108,581,1476,375,211,938,432,558,273,608,306,494,651,129,644,83,205,393,323,82,18,130,128,103,52,179,15
+Engagement	226,492,181,71,191,469,148,210,108,581,1476,375,211,938,432,558,273,608,306,494,651,129,644,83,205,393,323,82,18,130,128,103,52,179,15,377,7,38,7,32,62
 Engagement Approaches	7548
 Engagement Bill	2185
 Engagement CEMAC Central African Economic and Monetary	969
@@ -265,12 +277,12 @@ Engagement and Partnerships	1554
 Engagement des Parties Prenantes PGES Plan de Gestion	10876
 Engagement of Operators	5245
 Engagementdatawasreducedmainlytosurfacemetricssuchas	8602
-Engagements	1154,624,848,695,575,1364,1791,9,299,1311,892,1413,218,43,53
+Engagements	1154,624,848,695,575,1364,1791,9,299,1311,892,1413,218,43,53,697
 Engagements du Président	1247
 Engagements of Other Development Partners	3604
 Engager	8891
 Engages	1686,9538
-Engaging	34,1743,6109,717,67,988,785,687,155
+Engaging	34,1743,6109,717,67,988,785,687,155,620,22,70
 Engaging Civil Society Organizations	10714,293
 Engaging the Judiciary	5227
 Engagé	3032,4025
@@ -283,16 +295,20 @@ Engelmann	2093
 Engelschalk	10997
 Engelse	11189,1,9,2,62,288
 Engenha	11527
-Engenharia	2741,4154,31,4461,4,136,42
+Engenharia	2741,4154,31,4461,4,136,42,329
 Engenharia Electrotécnica	2741
 Engenharia Electrónica da Universidade Pedagógica de Maputo	2816
-Engenharia Informática	2816,8632,86
+Engenharia Informática	2816,8632,86,485,2
 Engenharia Informática Apresentação	11534
 Engenharia da IA	2816
 Engenharia de IA	2816
+Engenharia de Sistemas	12021
 Engenharia de Software	2816
 Engenharias	11387,147
+Engenharias. Duração	12019
+Engenheiro	11898
 Engenheiro David Bila	9694
+Engenheiro P	11898
 Engenheiro Sénior da Dell	2816
 Engenheiros Técnicos. Despacho Decreto Lei	11534
 Engenheiros de Machine Learning	2816
@@ -318,11 +334,12 @@ Engineer Tererai Tinashe Maposa	8483
 Engineer Thomas Gatkuoth Nyak	3659
 EngineerIT	9128
 Engineered	6946
-Engineering	236,275,753,724,828,97,691,178,344,306,478,334,436,1528,1920,1733,270,3
+Engineering	236,275,753,724,828,97,691,178,344,306,478,334,436,1528,1920,1733,270,3,735,36,26,10
 Engineering Backgrounds Matter	10010
 Engineering Design	3840
 Engineering Director James Bush	2537
 Engineering Institution of Zambia	1988
+Engineering Lead	11922
 Engineering Licence	2913
 Engineering Management	2093
 Engineering Management HJL ARUP AFRY Schneider	10861
@@ -334,7 +351,8 @@ Engineering Social	11153
 Engineering Systems	7055
 Engineering and Information Technology	8606
 Engineering and Management	11156
-Engineering and Mathematics	789,1911,4132,230,2514,1024
+Engineering and Math	11863
+Engineering and Mathematics	789,1911,4132,230,2514,1024,1367
 Engineering and Mathematics Strengths	4528
 Engineering and Mathematics TVET	6832
 Engineering and Technology	10157
@@ -352,8 +370,9 @@ England	2096,309,106,3100,297,442,230,625,3937
 England No Comments	5482
 England and Wales	8978,2001
 Englewood Cliffs	11130
-English	19,58,182,477,30,133,59,3,1,7,16,6,223,5,29,13,204,173,82,58,36,12,2,14,43,103,79,184,58,195,1,152,25,192,84,82,19,56,16,3,23,3,38,1,247,70,66,1,13,26,123,46,43,27,57,1,1,14,34,4,4,6,67,72,5,1,5,21,1,13,35,15,30,13,24,17,1,30,17,85,5,93,27,3,28,6,29,11,2,24,2,46,46,4,112,3,17,4,18,12,29,7,60,32,2,18,44,10,31,131,62,69,5,26,5,7,26,23,41,2,10,22,87,2,1,1,1,114,58,5,15,31,16,21,3,3,25,33,35,53,19,43,50,27,1,17,19,12,7,19,7,4,9,3,120,24,13,78,5,12,12,19,10,9,47,27,53,9,32,9,46,30,3,6,12,43,68,37,40,13,22,42,3,20,34,17,8,31,18,23,32,34,18,29,8,40,3,14,36,10,164,61,17,86,174,116,40,13,1,98,52,6,49,11,24,82,10,53,1,74,41,86,4,4,28,96,43,55,30,83,16,71,162,30,187,14,109,55,127,23,25,78,27,377,241,21,15,35,1,4,33,40,3,15,6,99,21,15,61,68,4,2,5,23,13,1,2,2,1,7,1,9,1,1,8,22,27,5,9,7,1,61,57,19,7,73,54,1,11,9,72,181
+English	19,58,182,477,30,133,59,3,1,7,16,6,223,5,29,13,204,173,82,58,36,12,2,14,43,103,79,184,58,195,1,152,25,192,84,82,19,56,16,3,23,3,38,1,247,70,66,1,13,26,123,46,43,27,57,1,1,14,34,4,4,6,67,72,5,1,5,21,1,13,35,15,30,13,24,17,1,30,17,85,5,93,27,3,28,6,29,11,2,24,2,46,46,4,112,3,17,4,18,12,29,7,60,32,2,18,44,10,31,131,62,69,5,26,5,7,26,23,41,2,10,22,87,2,1,1,1,114,58,5,15,31,16,21,3,3,25,33,35,53,19,43,50,27,1,17,19,12,7,19,7,4,9,3,120,24,13,78,5,12,12,19,10,9,47,27,53,9,32,9,46,30,3,6,12,43,68,37,40,13,22,42,3,20,34,17,8,31,18,23,32,34,18,29,8,40,3,14,36,10,164,61,17,86,174,116,40,13,1,98,52,6,49,11,24,82,10,53,1,74,41,86,4,4,28,96,43,55,30,83,16,71,162,30,187,14,109,55,127,23,25,78,27,377,241,21,15,35,1,4,33,40,3,15,6,99,21,15,61,68,4,2,5,23,13,1,2,2,1,7,1,9,1,1,8,22,27,5,9,7,1,61,57,19,7,73,54,1,11,9,72,181,35,9,53,7,21,5,21,26,6,17,16,1,5,7
 English 0.pdf	8113
+English AFRICAN DEVELOPMENT BANK PROJECT APPRAISAL	11863
 English AI	1720
 English Channel	5957
 English Contracting	9274
@@ -365,9 +384,10 @@ English Funding Agency	8726
 English High Court	7587
 English ICT	4628
 English Informatique	7057
-English Language	7951
+English Language	7951,3906
 English Language. Supporting	1638
 English Media	8564
+English Original	11863
 English Premier League	3274
 English Procurement Method	9892,1
 English SIXTY-NINTH	7452
@@ -376,15 +396,17 @@ English Search UN News Global	9786
 English Topics	9679
 English and Amharic	11607
 English and Arabic	6947
-English and French	6488,2192,2294,189,276
+English and French	6488,2192,2294,189,276,424
 English and Kiswahili	899
 English and Persian	7790
+English and Portuguese	12008
+English and Portuguese. Legal and Regulatory Specialist	12008
 English and Swahili	4439
 English-	8301
 English-Vision 2050 Abridged version WEB Final.pdf	2998,400
 English-dominated	3622
 English-first	8815
-English-language	1017,1928,2159,1543,58,885,200,416,1436,97,709,33
+English-language	1017,1928,2159,1543,58,885,200,416,1436,97,709,33,1607
 English-language and Global North	7151
 English-only	7244
 English-origin	7151
@@ -419,6 +441,7 @@ Engr. Abraham Oshadami	8256
 Engr. Aliyu Yusuf Aboki	7876
 Engr. Darma	8087
 Engr. Dr. Muttaqha Rabe Darma	8087
+Engr. Femi Williams Ahmad Abubakar Bello	11857
 Engr. Gbenga Adebayo	8288
 Engr. Jude Ozinegbe	8627
 Engr. Kezias Kazuba Mwale of Zambia	7883,1
@@ -426,6 +449,7 @@ Engr. Muttaqa Rabe Darma	8979
 Engr. Mwale	7884
 Engr. Nadungu Gagare	10063
 Engr. Ngozi Ogujiofor	11129
+Engr. Ngozi Ogujiofor Mohammed C. Babajika	11857
 Engr. Ozigi O. Bernard	10098
 Engr. Umar Abdullahi Umar	8256
 Engr. Y. Z. Ya'u	9443
@@ -436,6 +460,7 @@ Establish Fintech Engagement Forum	4848
 European Patent Organisation English	9067
 Every Province MCAZ Engages Influencers Over	7312
 Expansion of Community Engagement	1554
+FG Engages Israeli	12066
 FS Engineering	9971,621
 FS Engineering and ITS Engineering	9971
 Factsheet English	9067
@@ -443,6 +468,7 @@ Faculdade de Engenharia	2816
 Faculty of Engineering	9129,1194
 Faculty of IT Engineering	2958
 Faculty of Science and Engineering	4058
+Falalu Engr. Remigius Okoro FMoCDE	11857
 Financière des Engagements Contractuels	10975
 Fintech Engagement Forum	4848,80
 Five Money Engines	5869
@@ -459,8 +485,10 @@ GDPR English	9067
 GESD Citizen Engagement Committee	6754,1680
 GESD Citizen Engagement Committee Willy Kambwandira	8434
 GIA's Eng. Ayoub Al-Shweikh	5027
+GRM. The Stakeholder Engagement Plan	11965
 GSMA MobileEconomy2020 SSA Eng.pdf Page	10819
 GTMI Digital Citizen Engagement Index	10785
+General Data Engineering Services Engr. Fidelis	11857
 General Data Protection Regulation English	9067
 General Eng. Majed Sultan Al Mesmar	7687
 General Manager of FS Engineering	9971
@@ -483,6 +511,7 @@ Head of Engineering	10117
 Hebo Alfredo José Engrácia Costa Chissola	11421
 Hespress English	2422
 High-Level Engagements	4528
+Hon. Engr. Bello Lawal	12049
 Honourable Commissioner Dr. Eng. Martin Muduva	4528
 Horizon Engage	9399
 Humble French Engineering Term Shaped the Modern	5700
@@ -491,6 +520,7 @@ IFC-house-style English	6724,632
 IRMA AI Engine	10342
 IRMA Engine	10342
 IRMA Engine Asia	10342
+ISN Board Chairman Engr. Hanson Johnson	12053
 ITEC English Language Proficiency Course	11579
 Igbo and Nigerian-accented English	8552
 Improved Governance and Citizens Engagement	170
@@ -546,6 +576,7 @@ Low Bandwidth English	9429
 Lunda-Sul ENGRÁCIA MANUEL ADÃO	10751
 M Engineering Hub Nairobi and Lagos Microsoft	388
 MESURES DE RATIONALISATION DES ENGAGEMENTS Article	4420
+MHz Engage	11857
 ML Engineer	4528
 MOTA Engil	2342
 MULTI-STAKEHOLDER ENGAGEMENT AND CIVIL SOCIETY INTEGRATION	3861
@@ -573,9 +604,13 @@ Multi-Stakeholder Engagement and Civil Society Integration	3861
 Multilateral and Bilateral Engagement	1243
 Municipal Engagements	8999
 NATIONAL DIALOGUE Engagement	4528
+NCC Akinwale Goodluck Engr. Ibraheem Mohammed	11857
+NIGCOMSAT FMW&H Aremu Ade A. Engr	11857
 NIMC Director General Engr. Bisoye Coker-Odusote	9114
 NIMC Director-General and CEO Engr. Abisoye Coker-Odusote	7561
+NITDA Engr. AbdulRaheem Adajah Sidi Dennis	11857
 Najat Yamouri Team Member Citizen Engagement	11525
+National Agency for Clinical Engineering and Digital Health	11892
 National Engineering Coordinating Team	11037
 Ndama Engas Aconibe	4209
 Network Engineering User	6832
@@ -592,6 +627,7 @@ Open Open Review RFQ Engineering and International	11525
 Opportunities for Refugee Engagement	10841
 Opportunities for Refugee Engagement Equatorial Guinea	10841
 Ops Engineers	6832
+Order of Engineers	11941
 Overall Engagement and Index Trends	11131
 PC Network Engineering Information	6832
 PIN's Digital Policy Engagement Series	3776
@@ -607,9 +643,11 @@ Persons Engaged	2775
 Pilares da ENGD.GW	11569
 Platform Engineer	7578
 Playbook For Family-School Engagement	899
-Portuguese and English	1526
+Policy Engagement	12053
+Portuguese and English	1526,10343
 Presidência de Sua Excelência Eng.º Cipriano Cassamá	11561
 Private Sector Engagement	1818,6059
+Private Sector Engagement for Internally Displaced Persons	11994
 Private Sector and International Engagement	3861
 Prof. Doutor Eng	2816
 Prof. Doutor Eng. Lourino Chemane	7736,2404,300
@@ -649,6 +687,7 @@ Risk Communication and Community Engagement SDGs	10776
 Road Map for EU Engagement	970
 Robert Ochola Engagement	7787
 Rt. Hon. Eng. Asiimwe Jonard	11848
+Rufai Muhammad Rudman Dept. of Computer Engineering	11857
 Rules Engine	6423
 RunyankoleEnglishLuganda English News Cybersecurity	9695
 SARS and Stakeholder Impact and Engagement	8670
@@ -683,6 +722,8 @@ Search Engine	26
 Search Engine Imaginary	11028
 Search Engine Marketing and Affiliate Programs	9855
 Search Engine Provider	26
+Secretariat Engr. Bello Usman Engr. Nura	11857
+Secretariat Oji Ndukwe Uche Engr. Ighor	11857
 Secretary General-elect Engr. Kezias Kazuba Mwale	7884
 Security Engineer. Embed	11803
 Security Engineer. Oversee	11804
@@ -692,9 +733,10 @@ Senior Engineer	6946
 Senior Lecturer of Civil Engineering	718
 Senior Network Engineer Dr. Davy Misheck	34
 Senior Sectional Engineer and Assistant Manager Engineering	6946
-Senior Software Engineer	9592
+Senior Software Engineer	9592,2330
 Service du Suivi des Engagements Contractuels SAMF	10975
 Sexual Harassment SEP Stakeholder Engagement Plan	1867,1737,7956
+Shuaibu Ag. Executive Sec. USPF Engr	11857
 Sichuan Telecom Construction Engineering Co	125
 Smart Africa B Engage Continental Engage	961
 Smart Government Integrated Country Engine	958
@@ -702,7 +744,7 @@ Social Engineering	11153
 Social Risks and Impacts Relevant Stakeholder Engagement	1284,9545,135
 Software Development and Engineering	6832
 Software Development and Knowledge Engineering	5700
-Software Engineer	10374
+Software Engineer	10374,1548
 Software Engineering	1154,5678,2007,1221,1254,515
 Software Engineers	6832
 Sole Director of ITS Engineering. Italian Deputy	9971
@@ -713,7 +755,7 @@ Spon's Civil Engineering and Highway Works Price	3583
 Staff Engineer	9592
 Stakeholder Consultations and Engagements	1988
 Stakeholder Consultative Engagement and Awareness Training	10598
-Stakeholder Engagement	958,1030,1070,429,1758,1701,2157,2028,3,54,28,624
+Stakeholder Engagement	958,1030,1070,429,1758,1701,2157,2028,3,54,28,624,185
 Stakeholder Engagement Activities	6946
 Stakeholder Engagement During Implementation	958
 Stakeholder Engagement Lead	4528
@@ -721,18 +763,19 @@ Stakeholder Engagement Overview	11131
 Stakeholder Engagement Plan	1264,514,89,121,901,715,2935,126,596,3507,61,135,426,27
 Stakeholder Engagement Plan SIGED Sexual Harassment	10964
 Stakeholder Engagement Plan SSA Sub-Saharan Africa	969
+Stakeholder Engagement Plan37	11905
 Stakeholder Engagement Program	1778
 Stakeholder Engagement Report	3058
 Stakeholder Engagement The Bank	11131,3
 Stakeholder Engagement The Research Council of Zimbabwe	1154
-Stakeholder Engagement Workshop	6858,3862
+Stakeholder Engagement Workshop	6858,3862,1335
 Stakeholder Engagement and Capacity Building The Research	1554
 Stakeholder Engagement and Change Management Public	4528
 Stakeholder Engagement and Communication Plan	11131,3
 Stakeholder Engagement and Disclosure	1988
-Stakeholder Engagement and Information Disclosure	1264,514,210,8841,135
+Stakeholder Engagement and Information Disclosure	1264,514,210,8841,135,1001
 Stakeholder Engagement and Information Disclosure ESIA	1988
-Stakeholder Engagement and Information Disclosure ESS	3604
+Stakeholder Engagement and Information Disclosure ESS	3604,8301
 Stakeholder Engagement and Information Disclosure Relevance	1988
 Stakeholder Engagements The Uganda Registration Services	11759
 Stakeholder Mapping and Engagement Potential	1824
@@ -747,15 +790,18 @@ Study of CSR Engagement	2518
 Suivi des Engagements Contractuels Dans	10975
 Sultan Qaboos University Palestine Eng. Nour	2958
 Supervising Engineer	1988
+Support English	11952
 Sustainable Energy Engineering	10227
 Swahili and English	6266,4462
 Swahili and English and Huawei	6232
+System Engineers	11863
 Systems Engineering	6832
 TKL’s KRTS and KCCT Communications Engineering Schools	6946
 Talent Engine	4528
 Talent Retention and Diaspora Engagement Zimbabwe	4528
 Tanzania Journal of Engineering and Technology	9128
 Technician Engineer Minister’s Advisor Head	2989
+Tecnavia's Telecom Engineer Pierre Harris Koumda	11966
 Tele-control and Instrumentation Engineer	6946
 Telecom Fraud and Social Engineering	11840
 Telecommunications Under-Secretary Engineer Thomas Gatkuoth	3728

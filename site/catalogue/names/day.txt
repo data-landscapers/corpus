@@ -1,7 +1,7 @@
 AI Innovation Demo Day	5413
 Africa CRVS Day	3426,7,1,6370
 Africa CRVS Day. Only	3426
-Africa Civil Registration and Vital Statistics Day	9765
+Africa Civil Registration and Vital Statistics Day	9765,2150
 Africa's Every Day Earners	7618,1
 African Civil Registration and Vital Statistics Day	9548
 Algeria's Independence Day	7127
@@ -15,6 +15,7 @@ Budget Day	11193
 Business Day	226,2432,660,2294,2139,516,315,19,1160,1479
 Business Day. For the IEC	9375
 CERTAIN TIMES OF THE DAY	11004
+CERTAIN TIMES OF THE DAY M	11964
 CRVS Day	3434,6114
 CSO Open Days	7784
 Camtel Cloud Days	10994
@@ -55,6 +56,7 @@ Day Africa Lost Internet	2677
 Day Ago	11040,56
 Day Anti Drug Walkathon Liquid Intelligent	2987,16,962,1438,1506
 Day C	771
+Day Enterprise	12017
 Day Hope Arrived	11656
 Day One Mark WalkerSeptember	7156
 Day Three. Nairobi City County Recognises	11033
@@ -71,8 +73,10 @@ Daya Sudrajat	226
 Dayforce	2700
 Dayforce Partner Academy	2700
 Days After Abduction	7176
+Days Cabo Verde2024 Sub-Saharan Africa Lower	11874
 Days Campaign for No Violence Against Women	11224
 Days Hôtel Les Oliviers	8713
+Days Interoperable	11869
 Days President Abdelmadjid Tebboune	5407,676
 Days R	11259
 Days of Activism Against GBV Transition	11332
@@ -81,8 +85,10 @@ Daystar University	6946,584,1093
 Dayton Eberwein	10829
 DbHOXlX0py4 Day	8713
 Demo Day	5413,4704,628
+Democracy Day	11857
 Digital Financial Services Day	940
 Dr. Dayo Lajide	9444
+ECA-convened World Fintech Day	12033,15
 Eastern Congo Use Independence Day... MONUSCO	3245
 Eastern Daylight Time	5773
 Election Day	3758,6228
@@ -100,6 +106,8 @@ Freedom Day and Freedom Month	2626
 Friday. Day	3847
 Friday. International Vulture Awareness Day	1554
 Gao Yuan and Matt Day	11740
+Gas Coal Day	11953
+Gas Day	11953
 Geneva Digital Week. Days	7309
 German-Kenyan Business Day	8342
 Global Commemoration of World Statistics Day	9708
@@ -113,7 +121,9 @@ ICT Day	958,5375
 ID Day	1700,1881,42
 INFORMATION SOCIETY DAY	6168
 IR Demo Day	11309
+Imports Nuclear Day	11953
 Inaugural AI Innovation Demo Day	5413
+Income Days	11874
 Independence Day	2968,1204,992,563,624,1750,3231
 Independence Day and Republic Day	7845
 Information Commission Data Protection Day	4800
@@ -141,6 +151,8 @@ Liberia Technology Summit Day	7617
 MOH Celebrates African CRVS Day Posted	9548
 MOSIP Connect Day	5085
 Magistrates Open Days	3961
+Mamelodi Day	11986
+Mamelodi Day Hospital	11986
 Mandela Day	2844,13,2461,490,75,94,206,896,84,90
 Mandela Day Jackass	5017
 Mandela Day Malatsi	5808
@@ -176,6 +188,7 @@ TH DAYOF	11517
 Talk About the Day	10841
 Technology Day	7691,1170
 Terhadap Manajemen Sumber Daya Manusia	7759
+Trade Days	11874
 Travel World PR Day	7253
 TrendAI Zero Day Initiative and Pwn2Own	7137
 UN Day	3851
@@ -210,7 +223,7 @@ World TV Day	4058
 World Telecommunication Day and International Girls	6333
 World Telecommunication and Information Society Day	6168,151
 World Telecommunications Day	1215
-World Telecommunications and Information Society Day	6152,168
+World Telecommunications and Information Society Day	6152,168,5647
 World Telecommunications and Information Technology Day	6243
 World Television Day	4058
 World Wide Web Day	9120

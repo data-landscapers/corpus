@@ -1,34 +1,41 @@
 AFRICA Kenya W	11004
-ASIA Indonesia W	11004
+AMERICA M Mexico W	11964
+ASIA Indonesia W	11004,960
 Akinyi W. Ooko Ombaka	8898
 Anys W	8606
 B. W	5349
-Bangladesh W	11004
+Bangladesh W	11004,960
 Brunette W	1219
 D. W	8301
 Director of Communications Titus W. Tokpah	8860,352
 E No W Ah Sav Nor	2776
 E. W	1248,9892
-Egypt W	11004
-Ethiopia W	11004
+Egypt W	11004,960
+Ethiopia W	11004,960
 G. W	2518
 George W. Bush	5141
 Ghana W	11004
 Google Scholar Adedeji W	9739
-Guatemala LATIN W	11004
+Guatemala LATIN W	11004,960
 H. L. Zhang and W. Y. Leong	6948
 I. W. Parry	11140
-India W	11004
+India W	11004,960
+Indonesia W M Pakistan W M	11964
 Innocent W. Nyakudya	520
 J. W	2518,2831
 Jimma W. Adoption	10784
 Kendall’s W	11578
+Kenya W	11964
 Lawrence P. W	6948
 Lawrence P. W. Wong	6948
 Liao W	8460
 Lt Colonel W Vrieslaar	11285
 M Guatemala LATIN W AMERICA M	11004
-M W Base	11004
+M India W M ASIA Indonesia	11964
+M Mexico W	11964
+M Senegal W M Tanzania W	11964
+M Uganda W M Bangladesh W	11964
+M W Base	11004,960
 M. W	899,6987,717
 MTN Digital Infrastructure Project E2 W	4069
 Mabirizi Vincent W Athanasias	9781
@@ -36,19 +43,22 @@ Mao W	8460
 Mary W. Jackson NASA Headquarters	6897
 Member Attendance Prof. W. Magwa	1554
 Mengesha W	10881
-Mexico W	11004
+Mexico W	11004,960
 Mignolo W	9739
 Mogoa W	10780
 Mohammed W	766
 Mutale W	766,10014,101
 Mutale W. Challenges	10919
+N. W. Ezechukwu	11994
 NM M W Figure	1154
 Nicholas W. Omollo and Manoj Maharaj	9887
-Nigeria W	11004
+Nigeria W	11004,960
 OTI NAH EAST AS E W	2776
 P. W. C	7548
-Pakistan W	11004
+Pakistan W	11004,960
 Pakistan W M Sri Lanka W	11004
+Philippines W	11964
+Philippines W M Guatemala LATIN W	11964
 Prof. L. GwPanrozfu.rLa. Gwanz Prof. W	1154
 Prof. W. Magwa	1554
 Quoting W. Edwards Deming	8483
@@ -57,18 +67,21 @@ R. W	4676
 R.T. MasePkreosfa. W. MagPwroaf. W. MagwAair	1154
 RCCC Chairman Professor W. Magwa	1554
 References Adedeji W	9739
+Rwanda W	11964
 Samuel W. Ugwumba	6521
-Senegal W	11004
+Senegal W	11004,960
+Shiroro 1 Others W	12062
 Sri Lanka W	11004
 Stahl-Timmins W	7187
 Stephen W. Smith	4127
 T A O S R W	2776
 T. W	9759
+Tanzania W	11964
 Terefe W. Level	1219
 U Gre W Figure	2776
 U Y W	9237
 US NM M W E MZ	1154
-Uganda W	11004
+Uganda W	11004,960
 V R E T A W	11236
 W A SA NGU IE KADIOGO	10847
 W Africa	2772,847
@@ -79,9 +92,15 @@ W J BOSHOFF	11272
 W Kilowatt	3184,1,1340,6256,80,134
 W M ASIA Indonesia W M	11004
 W M Bangladesh W M India	11004
+W M Guatemala LATIN W AMERICA	11964
+W M India W M ASIA	11964
+W M Pakistan W M Philippines	11964
+W M Senegal W M Tanzania	11964
 W M Senegal W M Uganda	11004
+W M Uganda W M Bangladesh	11964
 W N E O ST R	582
 W Non-specific	736
+W Rated Capacity	11953
 W SA NO TOTAL NO	2776
 W Signals Video	34
 W UPS	9123
@@ -99,6 +118,7 @@ W. J. T. Mollema	11028
 W. James	8787
 W. L	5349
 W. Luo	5349
+W. M	12006
 W. Media	3001
 W. Mosuro	11140
 W. Obwexer	1243

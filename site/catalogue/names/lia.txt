@@ -1,6 +1,8 @@
+ACCRUED LIABILITY EXPENSES	11955
+ASSETS AND LIABILITIES	11955
 Accountability and Liability	3861
 Accountability and Liability Data	3861
-Act. Liability	3714
+Act. Liability	3714,8262
 Air Liaison	11285
 Assets and Liabilities	2775
 Assets and Liabilities of Deposit Taking Savings and Credit	2775
@@ -15,7 +17,7 @@ CAROLINE ADVOCATES LIMITED LIABILITY Data Processor	7167
 CHAPTER XI LIMITATION OF LIABILITY	11179
 CHARTAFAI LIMITED LIABILITY PARTNERSHIP Data Controller	7167
 CHARTERED GOVERNANCE CENTRE LIMITED LIABILITY PARTNERSHIP	7167
-CONTINGENT LIABILITIES	11248
+CONTINGENT LIABILITIES	11248,707
 CONTINGENT LIABILITIES Uncertain	10793
 CURRENT LIABILITIES	4896
 Central Bank of Kenya Assets and Liabilities	2775
@@ -28,7 +30,7 @@ Contingent Liabilities and Contingent Assets. Termination	1154
 Corporate Communication and Liaison	11188
 Corridor LED Light Emitting Diode LIA	2775
 Criminal Liability	3615,968,2955
-Current Liabilities	4896
+Current Liabilities	4896,7059
 DIUTURNIQS LIMITED LIABILITY PARTNERSHIP Data Controller	7167
 DIUTURNIQS LIMITED LIABILITY PARTNERSHIP Data Processor	7167
 Digital Services Act's Platform Liability Regime	5349
@@ -45,15 +47,18 @@ INTEREST-BEARING LIABILITIES Bank	10793
 International Liaison	6946
 LEASE PAYMENTS AND CONTINGENT LIABILITIES	4896
 LEASE PAYMENTS AND CONTINGENT LIABILITIES the Directors	4896
-LIABILITIES	4896
+LIABILITIES	4896,7059
+LIABILITIES Non-current	11955
+LIABILITIES OWNER EQUITY Capital	11955
 LIABILITY OF MEMBERS AND OTHERS	3714
 LIABILITY RESULTING FROM INSIDER TRADING	3714
 LIABILITY TO TAX ON A SIGNIFICANT	3161
-Liabilities	1154,790,8849
+Liabilities	1154,790,8849,1162
 Liabilities Currency	11131,3
 Liabilities NAD	1013,931
-Liability	3,23,2,1305,1828,553,1182,1995,657,2366,1,77,113,1033,43
+Liability	3,23,2,1305,1828,553,1182,1995,657,2366,1,77,113,1033,43,795
 Liability No Monitoring	26
+Liability and Resolution of Issues	11995
 Liability for Digital Services Tax	573
 Liaise	170,3956,402
 Liaison	1131,2382
@@ -69,6 +74,7 @@ Liapeca Village	10765,10
 Liar’s Dividend Old	10725
 Liasse	10858
 Liasses	10230
+Limited Liability Company	11939
 Limited Liability Partnerships Act	7845
 Lu-Hai Liang	5729,918
 Lu-Hai Liang Categories Biometrics News	2943,2367,138,896
@@ -80,6 +86,7 @@ NON-CURRENT LIABILITIES	4896
 Non Current Liabilities	4896
 Oke-Odo LCDA Liaison Office	5321
 Operations Liaison Officer	3005
+Owner Equity and Liabilities	11955
 PPE Revenue Net Profit Assets Liabilities	1944
 Parliamentary Liaison Office	10313
 Parliamentary Liaison Officer	11289
@@ -92,6 +99,7 @@ Revenue Net Profit Assets Liabilities Shareholder	1013,931
 Revenues Net Profit Assets Liabilities Shareholders	1944
 SSRA Kampala Liaison Office	10599
 Siaw-Teng Liaw	1824
+Single Partner Limited Liability Company	11939
 Startups and MSME Liaison	4528
 TAX LIABILITY AND PAYMENT Part	11181
 Worsening Commentary Liabilities Currency	11134

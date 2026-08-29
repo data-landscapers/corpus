@@ -44,9 +44,11 @@ AGRIBORA KENYA LIMITED Data Processor INST-30963624517	7167
 AGRICHEM AFRICA LIMITED Data Controller INST-7396380818D	7167
 AGRICULTURA	4209
 AGRICULTURAL HOUSEHOLDS	11192
+AGRICULTURAL SECTOR	12090
 AGRICULTURAL SUB-PROJECT ACTIVITIES Date Submitted	1988
 AGRICULTURE	737
 AGRICULTURE L’Agriculture	737
+AGRICULTURE MEDIA MESSAGING VIDEO ENTERTAINMENT ONLINE	11964
 AGRICULTURE MINISTER HANDS OVER E313	9526
 AGRICULTURE MÉDIA	2342
 AGRIHUB	1009
@@ -105,17 +107,22 @@ African Continental Free Trade Agreement’s Digital	5487
 African Continental Free Trade Area Agreement	5247
 African Regional Cooperative Agreement for Research	5756
 African Union Digital Agriculture Strategy	9609
+Agency SLA Service Level Agreement DEPARTMENT	11986
 Agenda for Transforming Ghana's Agriculture	789
 Agradecemos	2784,8631,140
 Agradecimentos	5663
 Agradecimentos Agradecemos	2784
 Agrcultura	6743
-Agree	961,2028,5614,526,1700,721
+Agree	961,2028,5614,526,1700,721,307
+Agree Financial	11857
+Agree Funding Options USPF	11857
+Agree Plan	11857
 Agreeably	10
 Agreed	1228,175,2180,353
 Agreed Actions Complete	2989
+Agreed Q1	11857
 Agreeing	5148,2039
-Agreement	905,22,34,119,163,21,20,442,188,74,129,357,203,271,308,272,55,351,38,77,105,93,55,47,321,23,1841,5,125,170,205,103,310,393,117,1293,182,1039,79,158,55,61,207,117,1,31,13,46,41,132,133,10,18
+Agreement	905,22,34,119,163,21,20,442,188,74,129,357,203,271,308,272,55,351,38,77,105,93,55,47,321,23,1841,5,125,170,205,103,310,393,117,1293,182,1039,79,158,55,61,207,117,1,31,13,46,41,132,133,10,18,327,50,10,11,10,40
 Agreement DFFT Data Free Flow	1243
 Agreement Establishing the AfCFTA	11140
 Agreement Establishing the African Continental Free Trade	10157,319
@@ -124,11 +131,13 @@ Agreement G20 Group of Twenty GATS General	1243
 Agreement Register AI	7548
 Agreement SLAG Settlement Land Acquisition Grant	11261
 Agreement SMME Small	11197
+Agreement TLS Transport Layer Security	11952
 Agreement Text	5550
 Agreement and Plan of Merger	7198,1741
 Agreement for National Unity	7452
 Agreement of Sale Land Land Harare	4896
 Agreement-	5550
+Agreement. Collectively	12026
 Agreement. Figure	1243
 Agreement. Media Contact Yafika Chitanda	9153
 Agreement. Page	1867
@@ -169,6 +178,7 @@ Agregar	1701
 Agregation	2461
 Agregação Pedagógica	11419
 Agresment	3972
+Agri Ind	11953
 Agri Project	3604
 Agri RSF	11469
 Agri SA	11188
@@ -188,7 +198,7 @@ AgriSoko	5172
 AgriSoko Digital Platform	5172
 AgriSoko Digital Platform Ministry of Labor and Social	5172
 AgriStack	3742,4239
-AgriTech	507,654,403,1013,1951,1355
+AgriTech	507,654,403,1013,1951,1355,6170
 AgriTech Mission	9635
 AgriWatch	11407
 AgriWatch Agriculture	11407
@@ -203,19 +213,20 @@ Agribusiness Sub-	1988
 Agribusiness and Digital Transformation	11608
 Agribusiness and Industry	9931,700
 Agribusiness and Industry Ministry	9931
+Agric	11857
 Agric Infrastructure Fund	5267
 Agric Ministry	7219
 Agricoles	2342
 Agricu Elevag	737
 Agriculteurs Connectés de Guinée	9325
 Agricultores	1701,9725,53,48
-Agricultura	1265,436,1115,1393,1454,2340,45,2439,270,633,31,61,45,15,5,30
+Agricultura	1265,436,1115,1393,1454,2340,45,2439,270,633,31,61,45,15,5,30,324,78
 Agricultura FETP Programa de Formação	11376
 Agricultura FND	1701
 Agricultura Inteligente	2816
 Agricultura Sem	10777
 Agricultura Utilizando	2816
-Agricultural	970,858,160,2138,1121,318,857,1423,838,878,585,617,16,62,123,233,61,162,300
+Agricultural	970,858,160,2138,1121,318,857,1423,838,878,585,617,16,62,123,233,61,162,300,186,184
 Agricultural Bank	9588
 Agricultural Bank of Sudan	9587
 Agricultural Biotechnology Dr Fortune Jomane Marondera	1154
@@ -224,7 +235,7 @@ Agricultural Commodity Exchange. Through Zaulimi	4172
 Agricultural Credit Scoring	7334
 Agricultural Data	3861
 Agricultural Development Bank	789,6906,4025
-Agricultural Development IHME Institute for Health Metrics	10759,78
+Agricultural Development IHME Institute for Health Metrics	10759,78,1052
 Agricultural Development Programme	5267
 Agricultural Development and Marketing Corporation	6809
 Agricultural Development and Services	11579
@@ -239,6 +250,7 @@ Agricultural Information Exchange Platform	7151
 Agricultural Information Management System	6641
 Agricultural Interactive Voice Response	9965
 Agricultural Land Holdings Account	11197
+Agricultural Law	11906
 Agricultural Marketing	11469
 Agricultural Marketing Authority	3742
 Agricultural Marketing Cooperative Societies	6816,1649,1125
@@ -260,7 +272,7 @@ Agricultural and Environmental	1988
 Agricultural and Environmental Soil	1988
 Agricultural and Livestock Processing	11579
 Agriculturalists	6948
-Agriculture	278,117,23,102,123,94,52,151,30,161,30,393,40,88,5,91,36,24,102,48,343,3,8,131,88,63,1,150,33,124,25,108,178,340,21,138,117,2,165,51,49,75,81,246,97,32,238,85,97,167,3,120,913,142,12,514,72,131,5,3,8,116,255,7,3,76,38,8,61,145,102,94,197,34,18,15,142,181,56,3,100,468,39,81,69,6,45,27,115,93,198,16,228,17,211,69,92,171,5,73,15,19,1,24,21,15,28,1,15,17,130,13,48,77,15,5,11,9,102,62,55,57
+Agriculture	278,117,23,102,123,94,52,151,30,161,30,393,40,88,5,91,36,24,102,48,343,3,8,131,88,63,1,150,33,124,25,108,178,340,21,138,117,2,165,51,49,75,81,246,97,32,238,85,97,167,3,120,913,142,12,514,72,131,5,3,8,116,255,7,3,76,38,8,61,145,102,94,197,34,18,15,142,181,56,3,100,468,39,81,69,6,45,27,115,93,198,16,228,17,211,69,92,171,5,73,15,19,1,24,21,15,28,1,15,17,130,13,48,77,15,5,11,9,102,62,55,57,282,3,15,44,19,50,41,15
 Agriculture AI	4528
 Agriculture Agricultural	5245
 Agriculture Agricultural Precision	10856
@@ -270,6 +282,7 @@ Agriculture Biotechnology and Indigenous Knowledge Systems	11183
 Agriculture Commerce Compte Nationaux Conjoncture Economie	9481
 Agriculture Commerce Education Santé Entreprise Etc	9481
 Agriculture Commerce Elevage Couture Maçonnerie Travail	10841
+Agriculture Commerciale	11897
 Agriculture Composition of GDP	10856
 Agriculture Data Controller INST-458655D16E5 NAIROBI Kenya	7167
 Agriculture Engineering Secretary	9609
@@ -277,8 +290,10 @@ Agriculture FDS	10874
 Agriculture FG Nigeria Leave	9876
 Agriculture Fertilizer Financing	11469
 Agriculture Fertilizer Target	11469
+Agriculture Fishing Mining Public	11874
 Agriculture Food Authority	10313
 Agriculture Forestry and Fishing	2775
+Agriculture Humanitarian	11994
 Agriculture Industry	11000
 Agriculture Kenya	7167
 Agriculture Manufacturing	10976
@@ -299,6 +314,7 @@ Agriculture and Agro	10841
 Agriculture and Agro-Processing	10841
 Agriculture and Agro-Processing Agriculture	10841
 Agriculture and Agro-Processing The Central African Republic	10841
+Agriculture and Climate Risk Enterprise	11994
 Agriculture and Digital Transformation Energy	11608
 Agriculture and Engineering and Technology	1554
 Agriculture and Financial Services	10220
@@ -372,15 +388,18 @@ Articles of Agreement	7845
 Associate Membership Agreement	585
 Association Agreement	7845
 Association. Sections and Description Financing Agreement	10964
+Association. This Agreement	11905
 B3 Agregado Administrativo A1 Agregado Administrativo	4209
 BACKGROUND State’s Health Funding Agreements	5692
 BANK CHANNELS AGRICULTURAL DEVELOPMENT BANK	11002
 BILLION CONCESSION AGREEMENT FOR CUSTOMS MODERNISATION	9255
 BOURSE DES MATIÈRES PREMIÈRES JUIN AGRICOLES	2342
+BTS Agree Financial Incentives	11857
 BUKURA AGRICULTURAL COLLEGE Data Controller INST-368169050A1	7167
 Bangui Agreement	11550
 Bangui Agreement. Disputes	11550
 Bank Agreement	7845
+Bank Loan and Guarantee Agreements	11863
 Bank of Agriculture	5765
 Bank. The Subsidiary Agreement	10768
 Banque Nationale Agricole	10692
@@ -412,6 +431,7 @@ Canada Agreement WEF World Economic Forum	1243
 Canadian Boreal Forest Agreement	4429
 Característica Urbana Agregados	10777
 Censo Agro-Pecuário	9441
+Centre for Agriculture and Biosciences International	12090
 Centres Régionaux de Mécanisation Agricole	8303
 Certificate PDA Provincial Department of Agriculture PDIs	11261
 Chad Livelihoods Program Sector of Employment Agriculture	10841
@@ -431,13 +451,14 @@ Collective Bargaining Agreements Registered	2775
 Comercial A2 Agregado Comercial A3 Cónsul	4209
 Comercial A3 Agregado Militar A3 Consejero	4209
 Commerce Agriculture	10763
-Commercial Agriculture Development Project	11380
+Commercial Agriculture Development Project	11380,517
 Commercial Pilot Agreement	10959
 Commission Zimbabwe Agricultural	1554
 Commissioner for Agriculture	8192,3091
 Commissioner for Economic Affairs and Agriculture	8532,1976
 Commissioner of Agriculture	9609
 Commonwealth of Independent States Agreement	10764
+Communities Agree	11857
 Communities RTAs Regional Trade Agreements SADC	1243
 Community Development Agreements	7513
 Company. The Merger Agreement	7198
@@ -448,9 +469,11 @@ Comprehensive Africa Agriculture Development Programme	9609,152,496
 Comprehensive African Agricultural Development Programme	1257
 Comprehensive Agriculture Master Plan	3583
 Comprehensive Agriculture Trade Programme. Certain	8550
-Comprehensive Economic Partnership Agreement	4583
+Comprehensive Economic Partnership Agreement	4583,7443
+Comprehensive Economic Partnership Agreement CEPA	12026
 Comprehensive Peace Agreement	3583
 Concession Agreement	9168,87,1348
+Concession Agreements	11863
 Concessional Loan Framework Agreement of Rwanda Smart	791
 Confidentiality and Non-Disclosure Agreement	9211
 Congo Signs Agreement	2398
@@ -458,11 +481,13 @@ Construction Agriculture Non	10875
 Construction Phase of Agro Business Infrastructure	1988
 Construction and Maintenance Agreement	124
 Consular B1 Agregado Administrativo A1 Embajador	4209
+Consultative Groups for International Agricultural Research	12090
 Continental AgriTech Blueprint for Africa . Kigali	11140
 Contract and Service Level Agreement The Ministry	34
 Contributing Practice Areas Agriculture and Food	1867
 Cooperation Agreement	1228,9613,447,237
 Cooperation Agreement.170 Oil	3583
+Cooperative Agreement Number NU2HGH000047	11912
 Coopérative Agricole	1247
 Corporation Agreement	7845
 Cotonou Agreement	970
@@ -480,7 +505,9 @@ DRC and M23 Agree	3768
 DRC. Agreements	4150
 Da Estatística Agregada Para	9559
 Data Pact The National Agricultural	8818
-Data Sharing Agreement	3815,157,2,179,1,13,35,15,43,41,48,1003,198
+Data Processing Agreement	11956
+Data Processing Agreement Article	11956
+Data Sharing Agreement	3815,157,2,179,1,13,35,15,43,41,48,1003,198,6445
 Data Sharing Agreements	5692,900
 Data Transfer Agreements	9969
 Data Use Agreement	7313
@@ -490,7 +517,7 @@ Deepening and Enforcing Agreements Overview	11149
 Deepening and Enforcing Agreements. Chapter	11149
 Departamento de Metrologia. Serviços de Apoio Agrupados	11381
 Department of AGRITEX	520
-Department of Agriculture	1188,1438,4541,347,3295,388,28,19,41,49
+Department of Agriculture	1188,1438,4541,347,3295,388,28,19,41,49,652,11
 Department of Agriculture Busia County Data Controller	7167
 Department of Agriculture Busia County Data Processor	7167
 Department of Agriculture Livestock and Blue Economy Data	7167
@@ -501,6 +528,7 @@ Departments of Agriculture	11188
 Dept of Agriculture	7167
 Deputy Chief Agriculture Officer Prof. Aiah	9965
 Description Multi-Partner Contribution Agreement	1447
+Desenvolvimento Agrícola	12034
 Design of International Trade Agreements	1243
 Development DoA Department of Agriculture DOD Department	11261
 Development Goal TAPED Trade Agreements Provisions	1243
@@ -529,7 +557,9 @@ District Centre for Agriculture	1512
 Double Tax Agreement	11685
 Double Tax Agreements	3161,6862
 Double Tax Agreements. ATAF	3161
+Double Taxation Agreements	11976
 Double Taxation Agreements. A DST	3161
+Double Taxation Avoidance Agreement	11925
 Download Agreement	1234
 Draft Order Gazetting the Host Country Agreement	10313
 Drive Evidence-based Agricultural Financing	8818
@@ -541,7 +571,7 @@ E-commerce Transportation Agriculture Digital	1204
 E-health Logistics Agri-tech Energy Mobility Nigeria	4883
 EEA Agreement	7081
 EN - Protocol to AfCFTA Agreement on Digital Trade.pdf	5487
-ENACT ENACT Africa FAO Food and Agriculture	10759,78
+ENACT ENACT Africa FAO Food and Agriculture	10759,78,1052
 ENTREPRISES FAMILIALES NON AGRICOLES	737
 EPTC Loan Agreement	6539
 EU Economic Partnership Agreement. Baker	1243
@@ -562,6 +592,7 @@ Early Warning System Food and Agriculture Organisation	10763
 Eastern Cape Department of Agriculture	7514
 Eastern and Southern Africa Economic Partnership Agreement	970
 Economic Affairs and Agriculture	7452
+Economic Cooperation Agreement	11925
 Economic Partnership Agreement	789,1039,4726,4656
 Economic Partnership Agreements	10980
 Economic Planning of Rwanda Signed Framework Agreement	791
@@ -582,17 +613,19 @@ Est Agriculture Industry Services GDP GDP	11271
 Establishment Agreement of Afreximbank	7785
 Estimated Production of Selected Agricultural Commodities	2775
 Eswatini Water and Agricultural Development Enterprise	9526
+Et Agri-Marketplace	12036
 Ethiopia's Ministry of Agriculture	1368
 Ethiopian Agricultural Authority	10709
 Ethiopian Ministry of Agriculture	8183
 Excluding Agriculture and Private	11296
 Exploration and Production Sharing Agreements	3583
-FAO Food and Agriculture Organization	11390
+FAO Food and Agriculture Organization	11390,497
 FAO Food and Agriculture Organization FDI Foreign	10841
 FCFA Agronomique	2342
 FORESTAL ALIMENTARIA AGRARIA	4209
 FacebookTwitterPinterestEmail With Conservation Agriculture	6526
 Facility Agreement	7198
+Farming Vocational Agriculture	11857
 Federal Ministry of Agriculture	5267,4609,281
 Federal Ministry of Agriculture and Food	3742
 Federal Ministry of Agriculture and Food Security	5765,1454,2657
@@ -604,11 +637,12 @@ Fiber-Optic Agreement	5001
 Filières Agroalimentaires	643
 Filling the Agriculture Data Gap	7596
 FinTech and AgriTech	4528
-Financing Agreement	1264,440,163,606,1,415,715,2935,2130,2099,61,10
+Financing Agreement	1264,440,163,606,1,415,715,2935,2130,2099,61,10,1016,8,42,19
 Financing Agreement Description Under Category	10964
 Financing Agreement Financing	10964
 Financing Agreement and Disbursement Letter	5620
-Financing Agreement. Procurement	1867
+Financing Agreement. Procurement	1867,9988
+Financing Agreement. Specifically	11863
 Financing Agreement. The Procurement Plan	11417
 Financing Agreements	1264
 Financing Agreements for Vision	7426
@@ -637,6 +671,7 @@ Free Trade Agreement	3861
 Fund Agreement	7845
 G20's Meeting of Agricultural Chief Scientists	2626
 GCSP AGREEMENTS	6432
+GDP Financing Agreement GNI Gross Domestic	11855
 GOEWERMENTSKENNISGEWINGS Agriculture	1009
 GRC Department of Agriculture	10809
 GSMA AgriTech Innovation Fund	10856
@@ -673,7 +708,8 @@ IDA EPTC Loan Agreement	6539
 IDA Effectiveness the Loan Agreement of Effectiveness	11417
 IDA KOE Loan Agreement	6539
 IDA The Guarantee Agreement	6539
-IFAD International Fund for Agricultural Development IHME	10835,3,130
+IFAD International Fund for Agricultural Development	11887
+IFAD International Fund for Agricultural Development IHME	10835,3,130,902,16
 IFAD International Fund for Agricultural Development ILO	10841
 IFC Support Agriculture	2562
 II Censo Agropecuario	4209
@@ -686,6 +722,7 @@ IVRS. The Sierra Leone Agro-Processing Competitiveness	1161
 Implement Digital Cooperation Agreement By Awa	11670
 Implementation Agreement	1867,8492
 Implementation Agribusiness Sub-	1988
+Improving Farmer Livelihoods Through Digitised Agricultural	11994
 Inaugural Research for Agricultural Excellenc	1554
 Inaugural Research for Agricultural Excellence Indaba	1554
 Inaugural Research for Agricultural Excellence Indaba Fig	1554
@@ -703,7 +740,8 @@ Interconnection Agreement	3089
 International African Continental Free Trade Agreement	5244
 International Civil Aviation Air Services Agreement	11185
 International Exhibition of Agriculture and Animal Resources	6280
-International Fund for Agricultural Development	7030,203,951,1342,1315,191
+International Fund for Agricultural Development	7030,203,951,1342,1315,191,1095
+International Institute of Tropical Agriculture	12090
 International Journal of Agricultural Sustainability	7759
 International Tax Agreements	10762
 Investec and Old Mutual Bank. Agreements	5533,58
@@ -740,6 +778,7 @@ Laboratorio Agroalimentario	4209
 Labour Management Procedures MoA Ministry of Agriculture	1988
 Legal Agreement	1778,9747
 Legal Agreement. Project	6539
+Legal Agreements	11855
 Legal Covenants Sections and Description Financing Agreement	10964
 Level Agreement SMS Short Message Service	34
 Liberia Agriculture Commercialization Fund	9650
@@ -757,6 +796,7 @@ M P504693 Rural Access and Agricultural Marketing	11469
 M. AgriTech	295
 MARS AGRICOLE République de Côte	2342
 MBABANE- Minister of Agriculture Mandla Tshawuka	9526
+MEPPSA Recurrent Continuous Agreed	11905
 MERGER AGREEMENT	7198
 MIGA Sign Agreement	11310
 MINISTER OF AGRICULTURE	11197
@@ -770,6 +810,7 @@ Malawi Agriculture and Industrial Investment Corporation	8399
 Malawi Financing Agreement	1914
 Malária Agregados	10760
 Management SLA Service Level Agreement SOC	6432
+Mandate for Service Level Agreements	11995
 Marketed Agricultural Production	2775
 Marketing of Agricultural Products Act	1009
 Markets Economy Real Estate Agriculture Aviation	9750,247
@@ -802,7 +843,7 @@ Minister of Lands and Agriculture	7236
 Minister of State for Agriculture and Food Security	9876
 Ministerio de Agricultura	6841
 Ministries of Agriculture	1257,4270
-Ministry of Agriculture	940,221,361,165,180,121,574,310,711,945,719,982,44,673,273,600,364,725,577,41,124,820,293,5,163,254,368,76
+Ministry of Agriculture	940,221,361,165,180,121,574,310,711,945,719,982,44,673,273,600,364,725,577,41,124,820,293,5,163,254,368,76,268,217
 Ministry of Agriculture Methodology for Data Biannual	1867
 Ministry of Agriculture MoHAIS Ministry of Home Affairs	1867
 Ministry of Agriculture and Fisheries	10763
@@ -814,16 +855,19 @@ Ministry of Agriculture and Rural Development	10964,21
 Ministry of Agriculture's Digital Farmer Registry System	2872
 Ministry of Agriculture. Support	1988
 Ministry of Agriculture. Up	1988
-Ministry of Food and Agriculture	7695
+Ministry of Food and Agriculture	7695,4395
 Ministry of Lands and Agriculture	1663,977,2996,1005,595
 Ministère Agriculture	3396
 Ministério da Agricultura	3519,7235,9,6,800,18
 Ministério de Agricultura	11530
 Model Specimen Sharing Agreement	4426
+Modernising Agriculture	12090
+Modernization of Agriculture	11863
 Modernização Agrícola	11564
 Moi University and Jomo Kenyatta University of Agriculture	9334
 Multilateral Competent Authority Agreement	11233
 Multilateral Environmental Agreements	9353
+Municipality Agreement	11855
 Mutual Administrative Assistance Agreements	9745
 Mutual Recognition Agreements	4590
 Mº AGRICULTURA	4209
@@ -860,10 +904,13 @@ News Agriculture A Closer Look	5407,676
 Nigeria Agribusiness Group and Farmer Aggregation Companies	5765
 Nigeria Incentive-based Risk Sharing System for Agricultural	5267
 Nigeria Signs Agreement	3054
+Nigeria's Commitments Under the Agreement	12026
 Non-Disclosure Agreement	7433,3288
 Non-Disclosure Agreement and Memorandum of Understanding	8514
 Nível de Agregação	966
+O Ministério da Agricultura	11979
 O Projeto de Desenvolvimento da Agricultura Comercial	10769
+OPEX Agree Funding Options Department of Policy	11857
 Oil Exploration and Production Sharing Agreements	3583
 Operation and Maintenance Phase of Agrobusiness Activities	1988
 Organised Agriculture	11188
@@ -879,7 +926,7 @@ PYMES Agrícolas	1701
 Pandemic Agreement	4049,1501
 Pandemic Preparedness Agreement	6534
 Parent Support Agreement	7198
-Paris Agreement	789,181,294,20,534,49,1022,541,1,173,1643,1292,917,1105,832,31,889,405,50,415,27,207
+Paris Agreement	789,181,294,20,534,49,1022,541,1,173,1643,1292,917,1105,832,31,889,405,50,415,27,207,446,42,60
 Paris Agreement's Enhanced Transparency Framework	3431
 Paris Agreement. Enhancing Wildfire Preparedness	11332
 Paris Agreement. Promoting	1867
@@ -900,10 +947,13 @@ Power Purchase Agreement	1196
 Preferential Trade Agreements. Retrieved	1243
 Primaire Agriculture	10875
 Primaire Secondaire Agriculture	10875
+Principal Agreement	11956
+Principal Agribusiness Development Officer	11863
 Produtores Agro-pecuários de Angola	10769
 Project Agreement	5793,5996
 Project. Sections and Description Financing Agreement	10964
 Projecto de Transformação Agrícola de Angola	10769
+Projet Agroforesterie Nord Congo	11897
 Promote Sustainable Agribusiness and Fisheries	11536
 Promotion of Climate Smart Agriculture Specialists Promotion	1988
 Protocol Amending and Extending the Agreement	1234
@@ -939,6 +989,7 @@ Remote Sensing Agricultural Services Agreement	10559,537
 Reporting System CSA Climate Smart Agriculture-Based	970
 Research for Agricultural Excellence Indaba	1554
 Resultados Já Aparecem Na Agricultura	9558
+Review of Existing Agreements	11995
 Revised Agreement	1284
 Revision Of Zimbabwe's Agro-Ecological Zones. ISBN	520
 Revision of Agro-Ecological Zones Report Authors	520
@@ -949,6 +1000,7 @@ Revitalized Agreement.355	3583
 Revitalized Agreement.41	3583
 Revitalized Peace Agreement	3584
 Revolutionize Public Transit and Agriculture	10405
+Risk Purchase Agreement	11863
 Roaming Agreement	3986
 Rural Youth Employment and Agri	10841
 Rwanda’s Flagship Agribusiness Hub	3256
@@ -978,14 +1030,15 @@ Selected Agro-Sub-	1988
 Senegal's Ministry of Agriculture	1522
 Separate Agreements	4153
 Service Agreement	10829
-Service Level Agreement	34,2708,761,758,349,1066,756,4531,246,31,12,300
+Service Level Agreement	34,2708,761,758,349,1066,756,4531,246,31,12,300,404,39
 Service Level Agreement SMS Senior Management	11218
 Service Level Agreement SOP	11252
 Service Level Agreement Security Operations Centre	10157
-Service Level Agreements	3741,1107,827,757,1556,2169,564
+Service Level Agreements	3741,1107,827,757,1556,2169,564,1274,2,4
 Services Agreement	1243
 Services Agreement TPP Trans-Pacific Partnership UK	1243
 Servicios de Extensión Agraria	4209
+Serviços de Agricultura	12018
 Serviços de Apoio Agrupados	4218,7164,67
 Settlement Agreement	3962
 Seychelles Agriculture Development Agency	7760
@@ -996,6 +1049,7 @@ Signing of Multiparty Collaboration Agreement	2681
 Signing of Performance Agreements	11218,6
 Similar Agreements Across Africa	5163
 Simple Agreement for Future Equity	2773
+Sistema Permanente de Inquéritos Agrícolas Integrados	11979
 Sistema de Extensión Agraria	4209
 Smart Agriculture	395,563,5322
 Smart Agriculture Phase	395
@@ -1007,11 +1061,13 @@ Social Services Administration and Agriculture	10313
 Social Services Administration and Agriculture. Looking	10313
 Social and Cultural Rights. Revitalized Agreement	3583
 Société Ivoirienne de Transformation Agricole	2342
+Special Partnership Agreement	11909
 Specimen Sharing Agreement	3974,75,198,54,1,1050,5361
 Specimen Sharing Agreement Between the Government	4247,55
 Specimen Sharing Agreement and Data Sharing Agreement	4260
 Specimen-Sharing Agreement	5456
 Standard Forms of Agreement	11417
+Strategic Agreement	12026
 Strategic Partnership Agreement	7522,1740
 Strategy Specimen Sharing Agreement	3974
 Strengthen Mutual Legal Assistance Agreements	961
@@ -1032,6 +1088,7 @@ TRIPS Agreement	11550
 TRIPS Agreement and Public Health	6534
 TWG for Agriculture Over	4528
 Tanzania Agricultural Research Institute	9290
+Tax Information Exchange Agreements	11976
 Technical and Related Assistance Agreement	4217
 Technology Agency SLA Service Level Agreement	5533
 Technology Agreement	11550
@@ -1041,6 +1098,7 @@ ThriveAgric’s Agricultural Operating System	11127
 Through the Agricultural Credit Facility	3705
 Through the Responsible Party Agreement	9353
 Time TRIPS The Agreement	11250
+Tinubu GCFR. What This Agreement Delivers	12026
 Trade Agreement AI Artificial Intelligence APEC	1243
 Trade Agreement GAM Global	10841
 Trade Agreement Provisions	1243
@@ -1075,6 +1133,7 @@ United Arab Emirates. The Agreement	11185
 United Nations Food and Agriculture Organization19	10763
 United States. This Data Sharing Agreement	3972
 United StatesMexico-Canada Agreement	11154
+VI Recenseamento Geral da Agricultura	11979
 Var Agriculture	2342
 Violence Against Children Agriculture	1988
 Virtual Agronomist	5598
@@ -1092,6 +1151,7 @@ WTO Trade Facilitation Agreement	9343,1693,681
 WTO Valuation Agreement	11036
 Weighted Mean Vegetation Health Index Agricultural	11762
 Wendel Support Agreement	7198
+West Africa Agricultural Productivity Programme	12090
 West Africa and AGRHYMET	11553
 West African Economic and Monetary Union. Agritech	10939
 West African Nations Sign Roaming Agreement	2362
@@ -1099,7 +1159,7 @@ Western Cape Minister of Agriculture	9791
 Wezesha Agri and Wezesha Mama	3898,2202
 WhatsApp Department Tags Agriculture	11283
 World Bank Agriculture and Rural Development	9
-World Bank FAO Food and Agriculture Organization	10835,3,130
+World Bank FAO Food and Agriculture Organization	10835,3,130,902,16
 World Bank-financed Agricultural Commercialisation Project	8957
 World Health Organization and Pandemic Agreement	4049
 World Trade Organization Agreement	11550

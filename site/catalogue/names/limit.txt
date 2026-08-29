@@ -1153,6 +1153,7 @@ Baluba Limited Data Processor INST-51079986546 MERU	7167
 Bamba Maternity and Nursing Home Limited Data	7167
 Bamburi Wananchi Regulated NWDT Sacco Limited	7167
 Bank Limited	4896
+Banksforte Technologies Limited	12051
 Baobab Circle Kenya Limited Data Controller	7167
 Baraka Smiles Dental Limited Data Controller	7167
 Base Resources Limited Data Processor INST-5055129782F	7167
@@ -1253,6 +1254,7 @@ CAPITAL LAW GROUP LIMITED Data Controller	7167
 CAPITAL PAY INTERNATIONAL LIMITED Data Processor	7167
 CAPITAL VALUERS LIMITED Data Controller INST-2168212C216	7167
 CAPITAL VALUERS LIMITED Data Processor INST-2168212C216	7167
+CAPITEC BANK HOLDINGS LIMITED NSoouterc	11885
 CAPRICORN PRESTIGE LIMITED Data Processor INST-1600407A6C8	7167
 CAPS AND CROWN DENTAL STUDIO LIMITED	7167
 CAPTAIN DUNGA ENTERPRISES LIMITED Data Processor	7167
@@ -1341,6 +1343,7 @@ CENTRON TECHNICS LIMITED Data Controller INST-3967956492E	7167
 CENTUM REAL ESTATE LIMITED Data Controller	7167
 CENTUM REAL ESTATE LIMITED Data Processor	7167
 CENTURY DENTAL LIMITED Data Controller INST-334490DA08D	7167
+CEO BCN Nigeria Limited Services	11857
 CEO of Webmasters Kenya Limited	2742
 CERBA LANCET KENYA LIMITED Data Controller	7167
 CERBA LANCET KENYA LIMITED Data Processor	7167
@@ -1723,6 +1726,7 @@ Chartered Adjusters Kenya Limited Data Processor	7167
 Cheli and Peacock Limited Data Controller INST-893019F0BBD	7167
 Chepsaiti Farmers Co-operative Society Limited Data	7167
 Chief Executive Officer MTN Group Limited	7198
+Chief Executive Officer of HSC Systems Limited	12084
 Chief Executive Officer of Nairtime Nigeria Limited	8663
 Chronicles Software Development Company Limited	7444
 Circle Credit Limited Data Controller INST-11606275DC9	7167
@@ -1732,6 +1736,7 @@ Citigroup Global Markets Limited	7198
 Clairvoyant Business Option Limited	3862
 Classic Talents Optimization Limited Data Processor	7167
 Clean Start Solutions Limited Data Controller	7167
+Climate Limited	12006
 Closely Held Company Limited	3714
 Cloud Network Limited Email	3386
 Cloud Network Limited Tel	3386
@@ -1746,7 +1751,7 @@ Collstep Limited Data Controller INST-2530594D036 NAIROBI	7167
 Coloplus Worldwide Services Limited	3862
 Comcare Limited	3862
 ComfCare Consulting Limited Data Controller INST-123876BDBFE	7167
-Company Limited	1282
+Company Limited	1282,10711
 Company Limited Data Processor INST-957624ED452 NAIROBI	7167
 Compatel Nigeria Limited	3862
 Competition Limited	10718
@@ -1756,6 +1761,7 @@ Computech Limited Data Controller INST-933817C4FDC NAIROBI	7167
 Computech Limited Data Processor INST-933817C4FDC NAIROBI	7167
 Comviva Technologies Nigeria Limited	3862
 Concorde Co-operative Savings and Credit Society Limited	7167
+Confidenti Limited	11952
 Coninx Industries Limited Data Controller INST-746467CD26B	7167
 Consult Limited. Auditors	9650
 Contas Bancárias Limites	11403
@@ -2280,8 +2286,11 @@ Edward Elgar Publishing Limited	4432
 Egerton University SACCO Society Limited Data	7167
 Electricity Limited	11136
 Electricity Transmission Company Limited KFS Kenya	2775
+Emerald Group Publishing Limited. Vol	12090
 Emerging Markets Telecommunications Services Limited	330
 Emt Networks Limited	3862
+Eskom Holdings SOC Limited	11953
+Eskom SA Eskom Holdings SOC Limited	11953
 Everse Technology Limited	5368
 Executive Director and Group COO of Seamfix Limited	9876
 Explore Unlock Premium Limited-time Premium	9629
@@ -2291,6 +2300,7 @@ Eye Media Limited	7447,1631
 FCFA SEUS COTE D’IVOIRE Limited	2342
 FG&B Technology Limited	3386
 FINANCIAL SERVICES LIMITED Data Processor INST-4553980E2BE	7167
+FIRSTRAND LIMITED	11885
 FSD Africa Investments Limited	8612,1608
 FULFILLMENT SERVICES LIMITED Data Processor INST-24648675F6B	7167
 Federal Ministry of Education and ICEDT Consult Limited	8586
@@ -2311,7 +2321,7 @@ Four Corners Transform Limited	3700
 Fringe Infrastructure Limited	4565
 G TELCOMS LIMITED Data Processor INST-296014BF144	7167
 GA-059- Digital Arena Limited	3386
-Galaxy Backbone Limited	3557,385,1618,165,333,3515,98,486,153
+Galaxy Backbone Limited	3557,385,1618,165,333,3515,98,486,153,1642,93
 Gambia Telecommunications Company Limited	7195
 Ghana Digital Centres Limited	4126,3159
 Ghana Digital Centres Limitied AI Lab	4126
@@ -2319,6 +2329,7 @@ Ghana Integrated Digital Transformation Limited Leadership	4126
 Ghana Interbank Payment and Settlement Systems Limited	982
 Ghana Limitations	236
 Ghana Limited	3386
+Globacom Limited	11857
 Global Independent Connect Limited	2284
 Granet Technologies Limited	5212
 Group CEO of ZSE Holdings Limited	8626
@@ -2390,14 +2401,17 @@ Kuanos Cloud Limited	3386
 Kuunda Holdings Limited	884
 L CAPITAL LIMITED Data Controller INST-325907C5C3F	7167
 LIFTING OF LIMITATIONS ON PARTNERSHIPS	3714
+LIMITATION	12090
 LIMITATION OF CAPACITY AND RING-FENCED COMPANIES	3714
+LIMITATIONS AND FUTURE RESEARCH	12090
 LIMITATIONS OF THE STUDY	8604
 LIMITAÇÃO DA RESPONSABILIDADE DOS PRESTADORES	11582
 LIMITED	306,1523,513,8451
 LIMITED AND EXIT OFFER	4896
 LIMITED AND EXIT OFFER ECONET WIRELESS	4896
 LIMITED AND EXIT OFFER IMPORTANT	4896
-LIMITED COST GENERAL INTERNET INTERNET	11004
+LIMITED COST COST GENERAL INTERNET	11964
+LIMITED COST GENERAL INTERNET INTERNET	11004,960
 LIMITED Data Controller INST-10212622055 NAIROBI Kenya	7167
 LIMITED Data Controller INST-10684197F45 NAIROBI Kenya	7167
 LIMITED Data Controller INST-110895ADA40 MERU Kenya	7167
@@ -2510,7 +2524,7 @@ Lagos Avenue Not Limited Operational	3386
 Laxton Limited Data Controller INST-4688876A8A1 KILIFI	7167
 Leo and Telecom Namibia Limited	1847
 Lightwave Health Information Management System Limited	3833
-Limit	899,1089,3125,574,749,4285,239
+Limit	899,1089,3125,574,749,4285,239,1026
 Limit Cyber Impact How Cloud Security	3279
 Limit the Department	5773
 Limita-se	11547
@@ -2523,8 +2537,9 @@ Limitation of Company Powers and Objectives	3714
 Limitation of Company Powers and Objectives PART	3714
 Limitation of Control and Equity Ownership	11235
 Limitation of Rights JUDGMENT TWALA	2307
-Limitations	27,209,530,5,128,344,581,1890,31,687,2400,319,300,339,511,1458,13,197,219,576,1,10,9,135,262,14,16,51
+Limitations	27,209,530,5,128,344,581,1890,31,687,2400,319,300,339,511,1458,13,197,219,576,1,10,9,135,262,14,16,51,643,55,30,4,12,19
 Limitations Even	3791,6923
+Limitations NOSi	11891
 Limitations Participants	4439
 Limitations and Theoretical Boundaries	7966
 Limitations of AI While AI	6982
@@ -2534,7 +2549,7 @@ Limitação	10755,763,2
 Limitações	2816,703
 Limite	9480,2040
 Limite de Crédito	11386
-Limited	60,64,104,1,32,45,89,310,78,116,29,12,18,3,8,44,141,7,58,45,20,270,260,455,208,853,56,328,126,22,264,175,59,488,48,66,10,275,30,225,31,85,182,255,159,194,24,161,239,104,2,8,90,78,37,5,42,87,44,115,104,242,345,39,127,136,501,190,488,339,94,33,106,32,205,293,1,60,14,26,10,5,130,16,142,9,2,1,6,28,25,55,4,33,116,68,55,1,27,222
+Limited	60,64,104,1,32,45,89,310,78,116,29,12,18,3,8,44,141,7,58,45,20,270,260,455,208,853,56,328,126,22,264,175,59,488,48,66,10,275,30,225,31,85,182,255,159,194,24,161,239,104,2,8,90,78,37,5,42,87,44,115,104,242,345,39,127,136,501,190,488,339,94,33,106,32,205,293,1,60,14,26,10,5,130,16,142,9,2,1,6,28,25,55,4,33,116,68,55,1,27,222,81,2,48,2,9,11,27,11,21,4,4,6,6,45,15,26
 Limited Access	1988
 Limited Authority Guidelines	11131
 Limited Awareness and Digital Literacy	6936
@@ -2542,6 +2557,7 @@ Limited Awareness and Digital Literacy Challenge	6936
 Limited Bethel Equities	4896
 Limited CQS Most TORs	11525
 Limited Company SEACOM Sea Sub-Marine Communications	6671
+Limited Competitive Bidding	11863
 Limited Data Controller INST-131191A2260 NAIROBI UK	7167
 Limited Data Controller INST-183324F8C19 NAIROBI United	7167
 Limited Data Controller INST-299000B63FF MACHAKOS Kenya	7167
@@ -2558,10 +2574,12 @@ Limited EWATSAN Energy	718
 Limited Fails	11252
 Limited Focus	11400
 Limited GTL Ghana Tech Lab IEAI	4126
+Limited HSM Hardware Security Module	11952
 Limited Ho Chi Minh City Branch	2836
 Limited Integration	5665
 Limited Inventories	4896
 Limited JV	3700
+Limited Liability Company	11939
 Limited Liability Partnerships Act	7845
 Limited Listings Requirements	10793
 Limited Mr Mgqibelo Gasela	4896
@@ -2572,6 +2590,7 @@ Limited Progress	8943
 Limited Public Awareness	11400
 Limited Results	10793
 Limited SIM Subscriber Identification Module	6671
+Limited Selection	11855
 Limited Septembe Accra-North P.O. Box	3386
 Limited Statement	4896
 Limited Tel	4896
@@ -2584,13 +2603,14 @@ Limited. Benedict	7664
 Limited. Together	9079
 Limitedinteroperability	8602
 Limiter	12,25,961,7,9871
-Limites	539,4630,1293,497,4444
+Limites	539,4630,1293,497,4444,498
 Limites da Utilização	10755
 Limites de Valor	11404
 Limiting	7695
 Limiting Conditions	4896
 Limits	1474,2177,3295,1067,2989,26,102
 Limits Even	11130
+Limits of Technology Even	12092
 Limitée	5370
 Link Limited Highway Division Belt Abbreviation	11129
 Liquid Telecommunications Holding Limited	242
@@ -2604,6 +2624,7 @@ M-KOPA Kenya Limited	198,696,541
 M-KOPA Uganda Limited	894
 M-KOPA Uganda Limited. M-KOPA	894
 MEDIUM SIZE ENTERPRISES LIMITED Data Controller	7167
+MIS National Limited	11855
 MOGO Auto Limited	10313
 MOGO Auto Limited. Article	10313
 MRE Real Estate Limited	10464
@@ -2624,6 +2645,7 @@ MTN Nigeria Communications Limited	240
 MUTAI ADVISORY LIMITED LIABILITY PARTNERSHIP Data	7167
 Maintenance of Digital Forensic Lab Tools Limited	6946
 Managing Director and Co-Founder of BigData Ghana Limited	9561
+Managing Director of Barnksforte Technologies Limited	11915
 Managing Director of Belitra Enterprises Limited	6946
 Managing Director of Soft Alliance and Resources Limited	7973
 Margins ID Group Limited	9316
@@ -2635,26 +2657,33 @@ Mawingu Networks Limited	147
 Mechanics Econet Global Limited	4896
 Media Limited Data Controller INST-801646B309F NAIROBI	7167
 Medical Services Limited	11469
+Meristem Securities Limited	11942
+Micronics Consulting Limited	12129
+Micronics Consulting Limited Managing Consultant Michael	12126
 Mkel Networks Limited	3862
 MoMo Payment Service Bank Limited and Y'ello	8581
 Mobile Intelligence Limited	3862
 Mobile Money Fintech Limited	10117
 Mobile Money Limited	8766
 Mobile Subscriptions Airtel Networks Kenya Limited	6946
-Mobile Telecommunications Limited	774,239,834,1912,2609,2898,296
+Mobile Telecommunications Limited	774,239,834,1912,2609,2898,296,2544
 Mobile Telephone Networks Holdings Limited Loan	10793
 Mobility Arts Nigeria Limited	3862
 Model Law Part X Limitations HIPSSA	27
+Moderate Post Limited Direct Contract	11855
+Moderate Post Limited Qualifying	11855
+Moderate Post Limited Request	11855
 Moninet Limited	3386
 Monthly Aggregated Limit	5687
 Moveon Telecoms Limited	6394
 Mozhandling Limited	11089
 MultiChoice Uganda Limited	3990
-Multimedia Group Limited	7606,91,1,1,667,2962
+Multimedia Group Limited	7606,91,1,1,667,2962,766
 Mwananchi Communications Limited	3447,6748
 Mweiga Homes Limited and Dualway Properties Limited	6946
 N' GO LIMITED Data Controller INST-9891903A3F3	7167
 NASENI Solar Energy Limited	10098
+NASPERS LIMITED	11885
 NCR Kenya Limited	6946
 NGX Regulation Limited	6408
 NOSE AND THROAT CLINIC LIMITED Data	7167
@@ -2668,12 +2697,12 @@ Networks Kenya Limited and Telkom Kenya Limited	6946
 Next Gen Infraco Limited	7400,1,1525
 Nextenders Private Limited	3639
 Nigeria Communication Satellite Limited	1546,921,2103
-Nigeria Communications Satellite Limited	10699
+Nigeria Communications Satellite Limited	10699,1431
 Nigeria. Pathway Advisors Limited	8186
 Nigerian Communications Satellite Limited	3942,1681,5185
 Nigerian Exchange Limited	6408
 Nigerian Exchange Limited The Domestic and Foreign	6408
-Nigerian Telecommunications Limited	3782,4375,134
+Nigerian Telecommunications Limited	3782,4375,134,3566
 Nipol Telecoms Limited	3862
 Nitroswitch Limited	3862
 OEA Consult Limited	9104
@@ -2692,6 +2721,7 @@ Operational Inet Communications Limited Mob	3386
 Operational Mining Optimisation Solutions Limited	3386
 Operational Prodata Africa Limited	3386
 Orange Brand Services Limited	8125
+PC Data and High Limitations	11916
 PEACOCK MANAGEMENT LIMITED Data Controller INST-5230737C7E4	7167
 PHARMACY AND LAB SERVICES LIMITED Data	7167
 POSSIBLE LIMITED Data Processor INST-8976118FE4F NAIROBI	7167
@@ -2711,6 +2741,7 @@ Pesaflow Limited	2742,4054
 Pesaflow Limited and Mr James Kabiru	2742
 Pesaflow Limited and Olive Tree Limited	2742
 Petroleum Refineries Limited KPSEA Kenya Primary	2775
+Pinnacle Security Limited	12095
 Pnet Proprietary Limited	6832
 Poa Internet Kenya Limited	831
 Principal Consult Limited	8368
@@ -2733,6 +2764,7 @@ RESORT LIMITED Data Controller INST-477471E74E1 KERICHO	7167
 RESPONSABILITÉ LIMITÉE	1005
 Rate Limiting	5665
 Reach Solutions Limited Email	3386
+References Eskom Holdings SOC Limited	11953
 Responsabilité Limitée Pluripersonnelles	11522
 Revabit Limited	3386
 Revision of Operating Limits	7391
@@ -2777,6 +2809,8 @@ Sierra Leone Cable Limited	3378
 Simba Media Ghana Limited Government School	3386
 Simo Mobile Ghana Limited	3386
 Simteckcard Plant Limited	3862
+Single Partner Limited Liability Company	11939
+Single-Member Private Limited Company	11939
 Sistema de Pagamentos Instantâneo. Anexo II Limites	5169
 Skills Development Limited	3862
 Skye Astral Limited	3386
@@ -2840,10 +2874,12 @@ Tizeti Network Ghana Limited	3386
 Tlou Energy Limited	3649
 Tpay Telecom Services Limited	3862
 TradeMark Africa Limited	881,240
+Transaction and Balance Limits	11861
 Tri-State Capital Limited and Mombo	7984
 Tymtrack Limited	6946
 UNICEF and Barnksforte Technologies Limited	10704
 USE LIMITATION AND PURPOSE COMPATIBILITY Data	1243
+USPF Limited	11857
 Ubuntu Universe Limited	8209
 Uganda Limited	3307
 Un Risque Central Limiter	11034

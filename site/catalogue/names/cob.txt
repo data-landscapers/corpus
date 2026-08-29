@@ -5,19 +5,24 @@ CHC Council for Scientific and Industrial Research COBIT	1009
 CNEF COBAC Promotion	10965
 CNEF COBAC Renforcement	10965
 COB BIRR	1732,1,1
-COBAC	4785,568,714,688,14,169,1126,106,1007,1788,2
-COBAC Commission Bancaire	10965
+COBAC	4785,568,714,688,14,169,1126,106,1007,1788,2,977
+COBAC Banque des Etats	11944
+COBAC Commission Bancaire	10965,979
 COBAC MPMEs Activité	10965
 COBAC Promotion	10965
+COBAC R-2020	11944
 COBAC Renforcer la Mettre	10965
 COBAC SPTF	10965
+COBAC. La COBAC	11944
+COBAC.58	11944
+COBAC.58 Une	11944
 COBE Act	4896
 COBE the Memo and Articles	4896
 COBE. Accordingly	4896
 COBERTURA RÁDIO	11556
 COBETWIN TECHNICAL LIMITED Data Controller INST-863721C2A8A	7167
 COBETWIN TECHNICAL LIMITED Data Processor INST-863721C2A8A	7167
-COBIT	1009,677,3991,3560
+COBIT	1009,677,3991,3560,2771
 COBIT-informed	9237
 COBIT2019	9237
 COBIT28	1009
@@ -31,14 +36,16 @@ Cobbe	8283
 Cobbe and Singh2018	8436
 Cobbe and Singh2020	8436
 Cobertura	4436,6324,17,644,25,101,9,21
+Cobertura Cobertura	11898
 Cobertura Escolar	4209
 Cobertura Não Significa	9559
 Cobertura Sanitaria Universal CT&I	1701
 Cobertura Universal de Saúde	11543,44
 Cobertura de Antigénios Básicos	10777
 Cobertura de Internet	2132,2323,647
+Cobertura de Registro de Propriedade	11898
 Cobranet Ltd	3862
-Cobrança	11419,16
+Cobrança	11419,16,466
 Cobrança CSPFT	11435
 Cobrança Coerciva	2866
 Cobrança SIGT	11435
@@ -58,12 +65,15 @@ ITIL and COBIT Vendor Management	6432
 Inquérito de Cobertura	11416,5,25,131
 Inquérito de Cobertura. Os	4040,4
 Inquérito de Cobertura. Os Resultados Definitivos	11421,25,131
-La COBAC	10965
+Instructions COBAC	11944
+La COBAC	10965,979
 Le Règlement COBAC	10965
 Legacy COBOL Systems	6432
 Mapa Cobertura	11537
 Mr. James Kanja Cobba	8271
 NÍVEIS PRÉ-DEFINIDOS DE AVALIAÇÃO DE COBERTURA	11531
+Nível Nacional Cobertura Cadastral	11898
+Nível Principal da Cidade Cobertura Cadastral	11898
 O Inquérito de Cobertura	11416,5,25,131
 Orange GB. Cobertura	11556
 Percentagem da População Coberta	11418
@@ -72,6 +82,8 @@ REGULAMENTO DAS TAXAS A COBRAR PELA	744
 Rapport de COBAC	10965
 Reference Cobbe	8283
 República de Angola. Cobrança	11435
+Règlement COBAC R-	11944
+Règlement COBAC R-2020	11944
 SECÇÃO DO CONTENCIOSO E COBRANÇA	11435
 Smile Communications and Cobranet	11506
 TAXAS A COBRAR PELA AGÊNCIA	744

@@ -4,8 +4,9 @@ Consulta Pública Datas	3118
 DATASET	6470,95
 DATASHEET	3562,7855,132
 DATASHEET BASIC INFORMATION BASIC INFO TABLE Country	10829
-DATASHEET BASIC INFORMATION Project	11560
+DATASHEET BASIC INFORMATION Project	11560,345
 DATASHEET BASIC INFORMATION Project Name BASIC INFO TABLE	10964
+DATASHEET BASIC INFORMATION Project Name Environmental	11855
 DATASHEET BASIC INFORMATION Project Operation Name	1867,1737,7164,649
 DATASHEET Component Name Cost	11380,169
 DATASHEET The Project Development	969
@@ -33,10 +34,12 @@ Datastruct Technologies Ltd	3862
 Description Frequency Datasource Collection Collection	1284
 Fidelity TABLE OF CONTENTS DATASHEET	6539
 Global Dataset	10819
+GovTech Dataset	11867
 IATI Datastore	91,57,1007,1084,1
 IATI Datastore API	6982
+ID4D Dataset	11919
 ID4D GLOBAL DATASET	10714
-ID4D Global Dataset	10714,61
+ID4D Global Dataset	10714,61,1092,52
 National Agricultural Dataset and National Health	4528
 National Foundational Datasets	4528
 Novel Dataset and Its Potential Uses	11140
@@ -45,8 +48,9 @@ R9 Shared AI Datasets	11138
 Records Dataset	4528
 Standard for Government Datasets	3861
 Support the Development of Shared AI Training Datasets	11138
-TABLE OF CONTENTS DATASHEET	3604,7164,61,551,180
+TABLE OF CONTENTS DATASHEET	3604,7164,61,551,180,295,50
 Testing Dataset	4528
 Training Dataset	4528
 V-Dem Dataset	11550
+World Bank's GovTech Dataset	11867
 World Bank's Identification for Development Dataset	4807

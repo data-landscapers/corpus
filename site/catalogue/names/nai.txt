@@ -753,6 +753,7 @@ East Africa Data Processor INST-190042FFF42 NAIROBI	7167
 Easycoach Ltd Data Controller INST-9957823C73A NAIROBI	7167
 Edenways Limited Data Processor INST-7128266E44A NAIROBI	7167
 Eight Hundred and Twenty Naira	3862
+Electronic Naira	11861
 Email Nairobi	2313
 Ethiopia’s EAII and Rwanda’s NAIA	6997
 Europe. A Nairobi	8261
@@ -1572,10 +1573,12 @@ NAIC Success Indicator ZCHPC	4528
 NAICOM	2462,4476
 NAICOM Issues New Licences	9117
 NAICOM Revokes Nigeria Reinsurance’s Licence	9117
+NAICP	12045
 NAIJA	11469,7
 NAIJA DPF	11469,7
 NAIMOS	7695,2440
-NAIRA	3862
+NAIRA	3862,7999
+NAIRA The Central Bank of Nigeria	11861
 NAIROBI	1131,499,885,153,916,41,1286,1002,778,26,1115,2210,976,818
 NAIROBI Afghanistan	7167
 NAIROBI Australia Renewed	7167
@@ -1608,6 +1611,7 @@ Naicker	8583
 Naidoo	4432,3869,290,190,1612
 NaidooD	6907
 Naidu	9128
+Naigluearitaio’snm	11884
 Naija Feminist Media	8713
 Naila Goven-Vassen Style	11195
 Naim Yazbeck	5364
@@ -1616,15 +1620,36 @@ Naima Muse	5225
 Naime	10780
 Naing Ngan Thar Sisityay Card	10714
 Nair Abakar	5671
-Naira	925,1352,250,1200,135,115,173,659,82,10,154,519,215,85,825,1155,74,337,24,941,55,285,1,2,96,82,2,207,742,339
+Naira	925,1352,250,1200,135,115,173,659,82,10,154,519,215,85,825,1155,74,337,24,941,55,285,1,2,96,82,2,207,742,339,819,1,91,24
+Naira Branch Wallets An FI	11861
+Naira Helpdesk	11861
+Naira Helpdesk Team	11861
+Naira Merchant	11861
+Naira Merchant Speed Wallet	11861
+Naira Merchant Speed Wallets	11861
 Naira Payment Solution	2287
+Naira Platform	11861
+Naira Speed App	11861
+Naira Speed Merchant App	11861
+Naira Speed Wallet	11861
+Naira Speed Wallet App	11861
+Naira Speed Wallet Recovery	11861
+Naira Speed Wallet Recovery Process	11861
+Naira Speed Wallet Users	11861
+Naira Speed Wallets	11861
+Naira Stock Wallets	11861
+Naira Treasury Wallets	11861
+Naira URL	11861
 Naira Wallet Payments	4901
+Naira Wallets	11861
 Naira-backed	9285
 Naira-based	9751
 Naira-denominated	9751,406
+Naira. Financial	11861
+NairaCircularAndGuidelines	11861
 NairaHost	10558
 Nairametrics	925,1457,8,287,549,3182,1637,1073,892,495,833
-Nairobi	18,341,29,23,42,118,23,216,1,76,43,71,130,114,117,1,201,148,14,94,37,66,210,27,357,149,36,73,231,51,243,100,13,128,25,18,11,1,29,11,52,49,21,2,99,15,101,112,66,1,285,32,44,13,33,2,159,46,28,94,21,47,1,19,106,116,1,37,14,50,39,27,95,11,115,27,54,14,32,147,50,10,34,7,42,35,5,68,36,11,25,26,2,17,19,8,8,33,9,44,42,15,1,61,17,10,74,1,7,3,84,24,24,1,17,3,9,28,10,5,2,1,17,17,25,16,26,40,5,1,8,4,53,9,61,1,28,2,27,9,37,10,13,8,48,4,5,141,75,29,38,1,19,5,15,20,103,75,12,71,52,63,2,3,1,60,38,5,2,12,24,75,11,44,66,14,42,3,93,71,48,25,6,25,110,73,33,14,16,116,63,109,18,30,97,124,48,41,1,39,7,9,7,23,15,1,89,19,14,34,45,9,83,74,60,2,2,43,81,32,11,6,9,14,54,1,1,67,53,11,2,57,18,1,78,16,1,26,7,15,29,11,6,2,3,60,2,3,42,98,13,66,15,10,32,11,57,6,15,1,1,36,45,60,3,28,79,83,4,1,4,69,7,192
+Nairobi	18,341,29,23,42,118,23,216,1,76,43,71,130,114,117,1,201,148,14,94,37,66,210,27,357,149,36,73,231,51,243,100,13,128,25,18,11,1,29,11,52,49,21,2,99,15,101,112,66,1,285,32,44,13,33,2,159,46,28,94,21,47,1,19,106,116,1,37,14,50,39,27,95,11,115,27,54,14,32,147,50,10,34,7,42,35,5,68,36,11,25,26,2,17,19,8,8,33,9,44,42,15,1,61,17,10,74,1,7,3,84,24,24,1,17,3,9,28,10,5,2,1,17,17,25,16,26,40,5,1,8,4,53,9,61,1,28,2,27,9,37,10,13,8,48,4,5,141,75,29,38,1,19,5,15,20,103,75,12,71,52,63,2,3,1,60,38,5,2,12,24,75,11,44,66,14,42,3,93,71,48,25,6,25,110,73,33,14,16,116,63,109,18,30,97,124,48,41,1,39,7,9,7,23,15,1,89,19,14,34,45,9,83,74,60,2,2,43,81,32,11,6,9,14,54,1,1,67,53,11,2,57,18,1,78,16,1,26,7,15,29,11,6,2,3,60,2,3,42,98,13,66,15,10,32,11,57,6,15,1,1,36,45,60,3,28,79,83,4,1,4,69,7,192,106,153,68,27
 Nairobi AI Forum	5095,5620,641
 Nairobi AI Forum Partnership	10715
 Nairobi Central Business District	18
@@ -1720,6 +1745,7 @@ Nairobi’s Safe City	4563
 Nairobi’s Sheng	7712
 Nairobi’s Women Representative	10662
 Nairoibi	1363
+Nairometrics	12015
 Nairtime Nigeria Limited	8587,76
 Naissance	5063,16
 Naissances	5079,5733
@@ -1728,7 +1754,7 @@ Naivasha	1245,477,4191,4400,789,625
 Naivasha Girls’ Secondary School	10313
 Naivasha Prime Cabinet Secretary Musalia Mudavadi	1245
 Ndolénodji Alixe Naimbaye	5671
-Nigerian Naira	1929,51,2643,1435,2350,35
+Nigerian Naira	1929,51,2643,1435,2350,35,3533,24
 Njoroge Data Processor INST-445591159A6 NAIROBI Kenya	7167
 Nkaimurunya Data Controller INST-537184234C8 NAIROBI Kenya	7167
 Northern Kenya and Nairobi	7833
@@ -1868,6 +1894,8 @@ Ray Naicker	8583
 Raya Nassar and Terrence Naidoo	7116,685
 Reduce Cross-Border Trade Risks Nairobi Startup	2269,19,45,14,9,24,65,84,4,11,6,12,38,10,6,3,8,49,4,421,243,278,96,422,265,221,430,282,332,124,146,163,355,164,56,209,176,238,23
 Roland Naidoo	10393
+Rotary Club of Nairobi-Lang'ata	12084
+Rotary Club of Nairobi-Lang'ata President Maina	12084
 République Centrafricaine L'acte de Naissance	10880
 SAMBURU WEST Hon. Naisula Lesuuda	10313
 SARIT CENTRE Data Processor INST-35623816A01 NAIROBI	7167
@@ -1881,6 +1909,8 @@ STEEL LIMITED Data Processor INST-154463FFB18 NAIROBI	7167
 STEVE ADVOCATES Data Controller INST-8621870E071 NAIROBI	7167
 SUPPLIERS LIMITED Data Controller INST-6964343D087 NAIROBI	7167
 SUPPLIERS LIMITED Data Processor INST-6964343D087 NAIROBI	7167
+Same Naira. More Possibilities	11861
+Sashin Naidoo	11961
 Seattle and Nairobi	7256
 Serving Households NSE Nairobi Securities Exchange	2775
 Sevela Naik Mude	2407

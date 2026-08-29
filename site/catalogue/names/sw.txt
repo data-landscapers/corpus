@@ -31,6 +31,7 @@ CORRECTION TO THE FY2025 SWEEP RUN	1339
 Can Battery Swaps Actually Scale	5200
 Card Switching	11134
 Central Bank of Swaziland Order	11134
+Central Switch	12000
 Century and Swift Telephone Network	3862
 China’s Swift	10026
 Choose and Switch	5226
@@ -58,6 +59,7 @@ Dignity Training Eswatini Payment Switch Soft	11131
 Docker Swarm	6985
 Domestic Switch	11134
 EBRD and Switzerland's SECO	1596
+ECOWAS. Swift Implementation The Federal Ministry	12026
 EU Unveils Sweeping Tech Sovereignty Push	6487
 Econet Land Nkayi Switch Owned Switch	4896
 Embassy of Sweden	377,2870
@@ -153,11 +155,13 @@ National Electronic Payment Switch	4282,3
 National Financial Switch	8039
 National Instant Payment Switch	2395
 National Interoperable Payment Switch	3473
+National Money Switch	11994
+National Money Switch.123	11994
 National Payment Switch	2849,28,524,91,3,210,5746,1680,3
 National Payment Switch Bolstering FX Reserves	11134
 National Payments Switch Financial System Adequate	11131
 National Payments Switch Project	11131,3
-National Switch	3895,1936,846,1424
+National Switch	3895,1936,846,1424,3859,34
 National Switching and Processing System	1889
 Northern and Central Switzerland	10919
 Norway Portugal Serbia Slovenia Spain Sweden	10764
@@ -182,6 +186,7 @@ Public Switched Telephone Network	6000
 Public Switched Telephone Network SMS	6000
 RTP and SWIFT. Customers	9834
 Remittances for Development Sweden	377
+Report and SW	11869
 Romania Slovakia Switzerland T1 Role-modelling Belgium	10764
 Ruling SWAPO	1981
 Rwanda Switch	8758
@@ -195,6 +200,7 @@ SME SPI SSELGS SWP UNESWA USA	11134
 SSELGS SWP UNESWA USA VAT WEO	11131
 SW-243580	8606
 SWAKOPMUND	8249
+SWANA	12088
 SWAPO	1981
 SWAp and National Health Insurance Authority	4301
 SWEDFUND	2373
@@ -203,13 +209,15 @@ SWEEP-IATI.md	110,5,904,7542,2625,1,7,8,1,1,1,1,1,1,87
 SWFDP	11191
 SWFDP-Southern Africa	11191
 SWFP-Southern Africa	11191
-SWIFT	4,5120,739,562,402,115,278,392,705,611,503,595,62,623,423
+SWIFT	4,5120,739,562,402,115,278,392,705,611,503,595,62,623,423,821
 SWIFT CBPR	11134
 SWIFT Customer Security Programme	11131,3
 SWIFT Hardware Security Module	11134
 SWIFT Infrastructure Strengthened and Independently Assured	11134
 SWIFT MX	5125
+SWIFT Service	11955
 SWIFT TELEPHONE NETWORK LIMITED	3862
+SWIFT Transactions	11955
 SWIFTNG	7110
 SWIFTTALK Ltd	3862
 SWIPSS	11130,1
@@ -224,6 +232,7 @@ SWOT. Desta	11569
 SWZ GHA GNB KEN LSO LBR	4912
 SWZ-dpi.registry-population	1
 SWyhisathreeousotf	11572
+SYGMA Système de Gros Montants Automatisé SWIFT	11960
 SZL South Africa Lesotho Swaziland Madagascar	418
 Shirnel Swarts	2626
 Smart Switch	2935
@@ -242,7 +251,7 @@ Sudan's National Payment Switch	9451
 Suriname No Sweden Yes Digital Agenda	11529
 Suriname Sweden Switzerland Syrian Arab Republic	11765
 Svalbard and Jan Mayen Sweden Switzerland Syria	11470
-Swagger	6423
+Swagger	6423,5529
 Swahili	1261,459,6,52,1818,26,104,361,352,418,23,9,195,355,971,183,112,9,234,761,3,157,52,174,109,2,346,128,162,1980,211,130,334
 Swahili and English	6266,4462
 Swahili and English and Huawei	6232
@@ -297,7 +306,7 @@ Swazipharm	3331,91,225,6,324,50,31,115,12,487,194,149,2015,234
 Swazis	2885
 Swe Tax Agency	33
 Swear’n’Slash	3395
-Sweden	8,11,11,1,1,59,19,5,33,58,291,270,121,82,49,136,1084,1,133,575,326,309,965,754,111,1200,36,141,59,30,769,111,127,974,352,212,221,1069,4,67,61,18,322,1,7,335,80
+Sweden	8,11,11,1,1,59,19,5,33,58,291,270,121,82,49,136,1084,1,133,575,326,309,965,754,111,1200,36,141,59,30,769,111,127,974,352,212,221,1069,4,67,61,18,322,1,7,335,80,248
 Sweden Global Cybersecurity Index	10764
 Sweden and Ericsson	6649
 Sweden&author	1219,877
@@ -305,12 +314,13 @@ Sweden's Arbetsformedlingen	148
 Sweden's BankID	10147
 Sweden's Sida	8318
 Sweden. Aidha	2868
+Sweden. BGFA	11923
 Sweden. Version	427
 Sweden’s Development Cooperation Agency	3274
 Swedfund	94,285,18,551,1,107,97,9,1061,20
 Swedfund PR	94
 Swedfund. LeapFrog	1439
-Swedish	19,11,47,38,33,67,2158,1210,1093,1900,303,769,3356,182,1,7
+Swedish	19,11,47,38,33,67,2158,1210,1093,1900,303,769,3356,182,1,7,729,41
 Swedish Ambassador	2373
 Swedish Civil Contingencies Agency	6649
 Swedish DPA	8436
@@ -319,7 +329,7 @@ Swedish Employment Setvices	148
 Swedish ICT	2673
 Swedish International Development Agency	1814
 Swedish International Development Cooperation	11572
-Swedish International Development Cooperation Agency	92,1,56,64,1,1,80,98,1,128,1,1,1,1,1,192,1,223,1,75,137,1,1,1,1,396,1,684,5645,425,2530,162,80,103,1,7
+Swedish International Development Cooperation Agency	92,1,56,64,1,1,80,98,1,128,1,1,1,1,1,192,1,223,1,75,137,1,1,1,1,396,1,684,5645,425,2530,162,80,103,1,7,708,58,128
 Swedish Mapping	888
 Swedish Post and Telecom Authority	215
 Swedish Privacy Protection Authority	8436
@@ -356,7 +366,7 @@ Swinhoe	3598,1078
 Swiss	1884,440,288,1515,504,23,1167,127,1470,2378,1174
 Swiss Agency for Cooperation and Development	10970
 Swiss Agency for Development Co-operation	3274
-Swiss Agency for Development and Cooperation	8456,529,1756,401
+Swiss Agency for Development and Cooperation	8456,529,1756,401,818
 Swiss Attorney General	4127
 Swiss Center for International Health	10919
 Swiss Confederation	1344,10242
@@ -385,7 +395,7 @@ Swiss-funded	3004
 SwissID F25 Syrian Arab Civil Registry	10714
 Swistak	10997
 Switalski	2096
-Switch	1988,2692,3876,621,223,804,311,616,78
+Switch	1988,2692,3876,621,223,804,311,616,78,735,56
 Switch Close	4896
 Switch Financial Technology Gross Domestic Product	11131
 Switch Highlands	4896
@@ -399,7 +409,7 @@ Switching	9123,1962
 Switching Centers	10721
 Switching Companies	6935
 Switching and Processing Licence Granted	11138
-Switzerland	789,181,273,1216,606,1028,34,769,68,291,1358,430,92,283,10,4,97,99,131,915,393,61,133,291,189,973,4,46,16,5,61,18,55,138,78,289,139,46
+Switzerland	789,181,273,1216,606,1028,34,769,68,291,1358,430,92,283,10,4,97,99,131,915,393,61,133,291,189,973,4,46,16,5,61,18,55,138,78,289,139,46,313
 Switzerland Agriculture	970
 Switzerland Email	10764,80
 Switzerland Geneva	10764,80,719
@@ -428,6 +438,7 @@ Telecom Namibia's Swakopmund	6663
 Telecom Namibia’s Swakopmund	6638
 Tobias Swai	6816
 UPS Output Switchboards Output	9123
+USSD. Money Switch	11994
 Uniondale Swellendam Haarlem Gugulethu Darling Worcester	8999
 University of Swaziland	11131,3
 Unstable SWAZI-NET	6273

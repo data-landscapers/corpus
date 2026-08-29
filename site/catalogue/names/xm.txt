@@ -7,6 +7,9 @@ Cross- XDS XML V1	1009
 Customised XML Pivot	8606
 Dissemination The XMUVI	11258
 Données XML	1984
+Especificacao Tecnica Gerador Ficheiro XML XSD.pdf	12018
+Especificação Técnica Gerador XML V07.pdf DPR	12018
+Estrutura XML	12018
 Introduction The XMUVI	11258
 MARKING. The PDF's XMP	5598
 MS Cross-Enterprise Document Sharing XML XPID	1009
@@ -14,6 +17,7 @@ Metadata Data Cite XML RDF	10878
 Normalise structure XML Require	8606
 Normalised XML	8606
 Normalised XML3Normalised XML2Normalised XML1 Extraction	8606
+O XML	12018
 OpenURL ContextObject RIOXX2 XML METS Dublin	10878
 Patient Patient Administration XML V1	1009
 Pre-Treatment Heterogeneous XML Input	8606
@@ -110,10 +114,12 @@ XML Registry Document Reliable Interchange	1009
 XML Registry Services Specifications	1009
 XML Schema	1009
 XML V1	1009
+XML XSD actualizado.pdf Gerador XML XSD Modelo	12018
 XML and Documents	1009
 XML and Kotlin	3851
 XML-REG	8606
 XML-REGapproachusesanefficientmappingschema	8606
+XML-based	12000
 XML1contains	8606
 XML2 XML1 XML3 DOM	8606
 XML2contains	8606

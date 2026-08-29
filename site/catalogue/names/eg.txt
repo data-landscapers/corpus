@@ -4,7 +4,7 @@ AI and Digital Services Drive Growth Egypt	11162
 Ababa Middle EGDI M2	10840
 Acquires Cicor’s Tunisia... Egyptian National Theatre	7322
 Across Egypt’s Courts Eng. Raafat Hindi	11641
-Affordability Connectivity Egypt	11004
+Affordability Connectivity Egypt	11004,960
 Africa EGDI	1885
 Africa Eastern Africa Moroni Middle EGDI	10840
 Africa Gabon High EGDI M-OSI H-HcI	10840
@@ -12,6 +12,7 @@ Africa Middle Africa Brazzaville Middle EGDI	10840
 Africa Middle Africa Kinshasa Middle EGDI	10840
 Africa Middle Africa Yaounde Middle EGDI	10840
 Africa Suriname High EGDI M-OSI H-HcI	10840
+Africa. Egypt	11883
 Aires Very High EGDI V2	10840
 Algeria and Egypt	6542
 Alter Ego Media S.A Bria.ai Alyntoris	8530
@@ -68,6 +69,7 @@ Connecting Africa Egypt	4974
 Critical Reading of Egypt's E-Government Experience	3271
 Cyprus and Egypt	1213
 DCDT. The EGDI	1912
+DG EG	11953
 Daily News Egypt	3451
 Data CentersTelecom Egypt	2285,9,26,249,245,725,1420,15,4,352,360,114,242,17,15,24,145,11,245,323,24,7
 Data Protection. Egypt	4590
@@ -80,6 +82,7 @@ Digital Egypt Portal	1902
 Distribution of EGDI	10840
 Drive Digital Economy Growth Egypt	6678
 EA EE EFP EG EGRA EJA	10766
+EEDCV and EGDCV	12008
 EG-CERT	6569,484
 EG-CERT and Fortinet	7053
 EG-IX	11842
@@ -87,6 +90,7 @@ EG.ELC.ACCS.ZS	4127,3986
 EG60KWHEDG	6517
 EGALITE VENTURES LTD Data Controller INST-487728D552E	7167
 EGALITE VENTURES LTD Data Processor INST-487728D552E	7167
+EGDCV	12008
 EGDDS	3968
 EGDI EDGI	10840
 EGDI Entretanto	11569
@@ -94,6 +98,7 @@ EGDI H1	10840
 EGDI H2	10840
 EGDI H3	10840
 EGDI High EGDI Middle EGDI Low	10840
+EGDI Index Score	11863
 EGDI M-OSI H-HcI M-TII Africa Burkina	10840
 EGDI M-OSI H-HcI VH-TII Europe Antigua	10840
 EGDI M-OSI M-HcI	10840
@@ -110,6 +115,7 @@ EGDI de Telecomunicações	11569
 EGDI. Development Index	11569
 EGEE-ICT	350
 EGENA	10913
+EGENFR	11907
 EGERTON UNIVERSITY Data Controller INST-2811028BEB0 NAKURU	7167
 EGERTON UNIVERSITY Data Processor INST-2811028BEB0 NAKURU	7167
 EGERTON UNIVERSITY GRADE I-IV STAFF RETIREMENT	7167
@@ -128,7 +134,7 @@ EGM. All	8939
 EGM. Attendance	4896
 EGM. Because the Company	8939
 EGM. Econet	4896
-EGMRG	11479,1
+EGMRG	11479,1,584
 EGNOS	466
 EGP0.50	2657
 EGP20	2657
@@ -143,8 +149,9 @@ EGY LBY MAR DZA TUN	285
 EGY TUN GHA MAR RWA SEN	6593
 EGYPRO EAST AFRICA LIMITED Data Controller	7167
 EGYPRO EAST AFRICA LIMITED Data Processor	7167
+EGYPT	11902
 EGYPT LIVE SOON	11002
-EGYPT Men	11004
+EGYPT Men	11004,960
 EGovernment	7453
 EY MENA Chooses Egypt for Regional	7045
 Econet EGM	4896
@@ -161,6 +168,8 @@ Egbedore LGA	10049
 Egbedore Local Government Area	10049,205
 Egbi and Uzodinma	7907
 Egbin	10157
+Egbin 1	12062
+Egbin 1 Kainji 1 Ihovbor 2 Jebba 1 Delta 1 Zungeru 1	12062
 Egbin Power Plant. Egbin	10157
 Egboye	2595
 Egbunike	9129
@@ -169,13 +178,15 @@ Egere N	9739
 Egerson	2816
 Egerton University	6946
 Egerton University SACCO Society Limited Data	7167
-Egerton-Idehen	5623,5076
+Egerton-Idehen	5623,5076,1367,12,52
 Egesa	6121
+Egger	11924
 Eghovf3BOnoBAQ	5790
 Egieya	8022
 Egipto	2125,691,703,8174
 Egipto A Estratégia Nacional de Inteligência Artificial	3519
 Egipto ABDELBASET	6613
+Egis Road Operation	12095
 Egito	2125,565
 Egito Praia	10298
 Egito Praia Durante	10298
@@ -185,7 +196,7 @@ Egloff	2117
 Egon Zehnder	10801
 Egovernment Survey	11379
 Egoïsme	6959
-Egypt	39,122,75,175,23,178,301,36,41,23,20,5,17,107,81,16,104,271,85,22,61,12,43,21,12,3,1,8,54,449,4,10,40,74,24,50,66,4,5,37,56,47,26,107,3,10,97,3,198,5,71,15,34,38,11,11,70,4,29,22,7,13,2,21,118,122,13,86,90,73,29,2,16,8,13,6,29,1,65,34,8,50,19,24,43,28,87,7,21,1,16,34,14,46,12,18,15,116,1,59,1,20,8,2,8,37,24,120,39,12,128,22,62,13,58,110,94,15,55,13,71,14,41,38,8,1,15,83,158,19,34,1,34,7,93,58,62,7,37,28,10,10,16,22,2,25,50,45,15,2,1,1,31,2,108,4,1,59,11,1,36,97,3,252,28,15,66,10,1,18,1,1,3,8,83,76,78,51,85,18,94,2,1,1,7,1,31,3,9,43,18,40,31,1,1,53,111,109,39,111,61,33,16,15,58,15,182,10,29,21,9,61,143,1,1,32,85,54,62,41,24,3,23,98,1,12,55,36,1,1,52,6,129,88,2,159,11,103,2,68,1,12,28,138,38,49,4,27,14,4,22,14,1,35,3,2,6,41,53,14,14,34,2,7,68,54,2,5,22,13,125,10,14,14,62,1,76,28,24,80,32,1,63,30,3,1,1,52,17
+Egypt	39,122,75,175,23,178,301,36,41,23,20,5,17,107,81,16,104,271,85,22,61,12,43,21,12,3,1,8,54,449,4,10,40,74,24,50,66,4,5,37,56,47,26,107,3,10,97,3,198,5,71,15,34,38,11,11,70,4,29,22,7,13,2,21,118,122,13,86,90,73,29,2,16,8,13,6,29,1,65,34,8,50,19,24,43,28,87,7,21,1,16,34,14,46,12,18,15,116,1,59,1,20,8,2,8,37,24,120,39,12,128,22,62,13,58,110,94,15,55,13,71,14,41,38,8,1,15,83,158,19,34,1,34,7,93,58,62,7,37,28,10,10,16,22,2,25,50,45,15,2,1,1,31,2,108,4,1,59,11,1,36,97,3,252,28,15,66,10,1,18,1,1,3,8,83,76,78,51,85,18,94,2,1,1,7,1,31,3,9,43,18,40,31,1,1,53,111,109,39,111,61,33,16,15,58,15,182,10,29,21,9,61,143,1,1,32,85,54,62,41,24,3,23,98,1,12,55,36,1,1,52,6,129,88,2,159,11,103,2,68,1,12,28,138,38,49,4,27,14,4,22,14,1,35,3,2,6,41,53,14,14,34,2,7,68,54,2,5,22,13,125,10,14,14,62,1,76,28,24,80,32,1,63,30,3,1,1,52,17,48,13,13,3,1,2,5,8,1,14,5,42,53,52,64
 Egypt Adonijah Ndege	3737
 Egypt Aug	3429
 Egypt Bets	6678
@@ -194,13 +205,14 @@ Egypt Digital Economy Actions	226
 Egypt Digital Platform	7537
 Egypt Egypt ACH System CCAA	6938
 Egypt Ethiopia Ghana Kenya Nigeria Senegal	11004
+Egypt Ethiopia Kenya Nigeria Rwanda Senegal	11964
 Egypt Global Cybersecurity Index	10764
 Egypt H3	10840
 Egypt Invests Over	6459
 Egypt Launches for Export	8770
 Egypt Leads Africa’s FDI Rankings	5163
 Egypt Male	11004
-Egypt Men	11004
+Egypt Men	11004,960
 Egypt National AI Council	4126
 Egypt National Artificial Intelligence Strategy	1814
 Egypt Nigeria Uganda Kenya Morocco Tunisia	4972
@@ -222,7 +234,7 @@ Egypt University of Informatics	1902
 Egypt Ventures. The InfiniLink	4324
 Egypt Vision	1033,8500
 Egypt Vodafone Intelligent Solutions	11162
-Egypt W	11004
+Egypt W	11004,960
 Egypt and Africa. The NTRA	10461
 Egypt and Airtel	8045
 Egypt and Algeria	11324
@@ -242,7 +254,7 @@ Egypt and Nigeria	4722,480,2402,3350
 Egypt and Orange Egypt	2968,1227
 Egypt and Rwanda	3280
 Egypt and SAP Deepen Ties	5607
-Egypt and South Africa	949,4674,4586
+Egypt and South Africa	949,4674,4586,1648
 Egypt and Tanzania	7506
 Egypt's AI	6569
 Egypt's CBE	3957,886
@@ -333,6 +345,7 @@ Egyptology	4432
 Egypt’s Deputy Minister for Digital Transformation	7203
 Egypt’s Financial Regulatory Authority	5869,4395
 Egypt’s ICT	4628
+Egypt’s Ministry of Communication and Information Technology	11922
 Egypt’s National AI	1814
 Egypt’s National Artificial Intelligence Strategy	4126,3552
 Egypt’s National Council for AI	7836
@@ -400,18 +413,24 @@ ITU EGDI	6769
 Identity Card Egypt	10714
 Implement... The Egyptian National Theatre Festival	7322
 India Giza Governorate Thailand Cairo Egypt	11563
+India Kenya South Africa Rwanda Egypt	11857
 Inside Egypt	4972
 International Cooperation and Egyptian Expatriates	9299
-Jane Nkechi Egerton-Idehen	5623,5076,109
+Jane Egerton-Idehen	12078
+Jane Nkechi Egerton-Idehen	5623,5076,109,1258,64
 June. Why Egypt Egypt	11740
 Justice Egonda-Ntende	5422
+Kainji 1 Egbin 1 Ihovbor 2 Jebba 1 Delta 1 Zungeru 1	12062
 Kelvyn Eglinton	11006
+Kenya Ethiopia Egypt Male	11964
+Kenya Ethiopia Egypt Men	11964
 Kenya and Egypt	3859,1193,3800
 Kenya and Egypt. Algeria	7127
 Kingston High EGDI H3	10840
-Leveraging Technology for Sustainable CRVS EGMRG Victoria	11480
+Leveraging Technology for Sustainable CRVS EGMRG Victoria	11480,584
 Libya and Egypt	3306
 Libya and Egypt. The Trans-Saharan Fiber Optic	5006
+M Egypt	11922
 M Liquid Bank Deposits EGP	5869
 M Total Passive Income EGP	5869
 M-TII Oceania Samoa Middle EGDI M-OSI	10840
@@ -439,7 +458,7 @@ Minister of Supply and Internal Trade. Egypt	9722
 Ministry of Communications and Information Technology Egypt	5607
 Mogadishu HOL Egyptian Troops	3637
 Morocco South Africa Kenya Egypt UMOA	6938
-Morocco and Egypt	4126,1214,397,1201
+Morocco and Egypt	4126,1214,397,1201,4956
 Myanmar High EGDI M-OSI H-HcI H-TII	10840
 Nairobi. Facilitators Catherine Otieno and Egline Samoei	11018
 Nassau High EGDI HV	10840
@@ -448,6 +467,7 @@ National Bank of Egypt and Banque Misr	4324,5779
 National E-commerce Strategy for Egypt	226
 Nepal High EGDI M-OSI H-HcI VH-TII	10840
 Nigcomsat MD Jane Egerton-Idehen	2294
+Nigeria Egypt Ghana Rwanda Kenya South	11857
 Nigeria and Egypt	5716,5238
 Nkechi Egerton-Idehen	5623
 Notice of EGM	4896
@@ -482,10 +502,12 @@ SSA-49. No Egypt	398
 Santo Domingo High EGDI HV	10840
 Sarajevo High EGDI H2	10840
 Saudi Arabia and Egypt	3342
+Senegal and Egypt	11902
 Series A for Egyptian PropTech	4972
 Seychelles High EGDI M-OSI H-HcI VH-TII	10840
-Seychelles and Egypt	1893
-South Africa and Egypt	6845,1172,16,819,1225,198,298,369,885
+Seychelles and Egypt	1893,10001
+South Africa Egypt Pakistan Brazil	11857
+South Africa and Egypt	6845,1172,16,819,1225,198,298,369,885,30,231
 South Africa. Egypt	3554
 South Sudan Sudan Egypt Morocco East	9616
 South Sudan. Tanzanians and Egyptians	7507
@@ -523,14 +545,17 @@ Telecom Egypt. Telecom Egypt	10461
 Telecoms Telecom Egypt	10461
 Thromde High EGDI H3	10840
 Togo Sierra Leone Burkina Faso Egypt	10837
+Touche Egomaron Jegede Deloitte	11857
 Transfer Secretaries Econet EGM	4896
 Tunisia Chad Egypt Americas Congo	11563
-Tunisia and Egypt	8828,2012
+Tunisia and Egypt	8828,2012,1054
+Turkey and Egypt	11857
 Turkmenistan Middle EGDI M-OSI H-HcI H-TII	10840
 UAE and Egypt	9094
 UAE and Egypt. Beyond	9094
 UMc Egypt Africa Northern Africa	10840
-UN EGDI	1890,536,171,667,111,375,152,64,233,831,89,605,104,1082
+UN EGDI	1890,536,171,667,111,375,152,64,233,831,89,605,104,1082,4957
+UN EGDI Index OUTCOME INDICATOR	11863
 UNDP Egypt	1902
 UNICEF Egypt	4767
 URSB and Caroline Egesa	6121
@@ -539,7 +564,7 @@ Ugonma Egwuatu	8627
 Unemployed Egypt Unemployed	11004
 United Nations’ EG	1885
 United Nations’ EGD	1885
-V2 and V1. Morocco and Egypt	10840
+V2 and V1. Morocco and Egypt	10840,1054
 VC Investment Firms Egypt E Squared	4972
 VH-HcI VH-TII Europe Algeria High EGDI	10840
 VH-TII Americas Dominica High EGDI M-OSI	10840

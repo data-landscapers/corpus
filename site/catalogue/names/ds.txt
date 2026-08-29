@@ -1,5 +1,6 @@
 ANSIE's DSSI	4255
 API SP.URB.TOTL DS2 fr excel v2 318520	747
+Actual DSR	11953
 Administration DMO District Medical Office DSL	34
 African DSM.5	1243
 Against the DSCE	10963,1
@@ -11,13 +12,14 @@ Club Dsi	5260
 Club Dsi Bénin	5260
 Club Dsi. La CoP	5260
 Club Dsi. Son	5260
-Columbia University DSP Digital Society Project	10759,78
+Columbia University DSP Digital Society Project	10759,78,1052
 Conditions de Vie des Ménages DSSE	10874
 Congo DSL Digital Subscriber Line. DVCMS	718
 Congo DSQ Domestic Servants Quarters DWT	2775
 Crédit Autogérée DSCE Document de Stratégie	10965
 Currency DSC3	3830
 DE LA DSITRIBUCIÓN DE SUBSIDIOS	4209
+DEP and DSIC	11905
 DFIL Country Partnership Framework DSCE Designated	10964
 DFS Serviço Financeiro Digital DSS Padrões	11555
 DMA and DSA	8436
@@ -45,11 +47,14 @@ DSF DADF SF DSF DSF DSF	10858
 DSF DSF DSF DSF DSF DSF	10858
 DSF EA FCFA GAR IFU MEFP	10858
 DSF SCRP Programmation	10858
+DSFABFE	11944
+DSFABFE Page	11944
 DSFOne	6832
 DSHNS	723
 DSHP Digital Superhighway Project DSL Digital	6946
 DSI Africa. All	11143
 DSI Bénin	6744
+DSI Direction des Systèmes	11944
 DSI au sein des ministères.pdf	10906
 DSIDs	8604
 DSIFI. Attente	8556
@@ -62,28 +67,37 @@ DSM for Digital Trade Chapter	1243
 DSM. Figure	1243
 DSMLv2 SOAP	1009
 DSMLv2 XDS Affinity Domain Change Management	1009
+DSMP Banque des Etats	11944
+DSMP Page	11944
 DSMP-2024	5740
+DSMP.2022. Données	11944
 DSN. Il	3465
+DSNIS	11892,20
 DSNISI	11599
 DSNPQ	11550,216
 DSNTIC	4025
-DSP Digital Society Project V-DEM Varieties	10835,3,130
+DSP Digital Society Project	11887
+DSP Digital Society Project V-DEM Varieties	10835,3,130,902,16
 DSP Ovie Ewhubare	4725
-DSP&V-DEM	10759,76,2,1,130
+DSP&V-DEM	10759,76,2,1,130,902,16,2,1
 DSP-i	6091
 DSPDP	6361,207,5115
 DSPDP Director Yang Chongwei	6361
 DSPDP de Macau	6568
+DSR Other RE	11953
+DSR System Load	11953
 DSR and BEDS	4260
 DSR and Integrated Outbreak Management System	4217
 DSRP D	2966
 DSRVHQWDGR GH	11530
 DSS Abducted	7176
+DSS of EUC and Import EUC	11857
 DSS01 ITCap	9237
 DSS01 Managed	9237
 DSS05 Managed Security Centre of Excellence	9237
 DSS05 Managed Security DGov	9237
 DSS06	9237
+DSSI G20 Debt Service Suspension Initiative	11863
 DSSRN	5349,351
 DST Global Partners	1547
 DST Return	573
@@ -92,6 +106,7 @@ DST. Commission	573
 DST. Section	573
 DST. Such	573
 DSTI Data Science Unit	6903
+DSTI Decadal Plan	11986
 DSTI Director and Chief Operating Officer	8903
 DSTI James Bangura	5276
 DSTI and CRS Drive Sierra Leone’s Digital	6903
@@ -143,12 +158,15 @@ Email DSTV Reports Higher Earnings Per	2987
 Enterprise Architecture DSUB Electronic Business	1009
 FDGDV HP DSHQDV	11527
 Filing of DST	573
+Financement des Economies DSMP Direction des Systèmes	11944
 G20 DSSI	238
 I DSKGIELDLS R AENPODR DTIGITAL DIVIDE	582
+IDWG PMO and DSU	11940
 IGN INF ABE DGEFC DGAS DSC	10876
 INSTITUANT DSI AU SEIN DES MINISTÈRES	10906
 ISO and PCI DSS	2350
 Industry and Competition DSM	6832
+Information DSFABFE Direction	11944
 Kinshasa Achieves ISO and PCI DSS Certifications	2350
 LQLVWURV DSURYD R SUHVHQWH GHFUHWR	11530
 La DSMP	8556
@@ -159,6 +177,7 @@ Les Dsi	5516
 MultiChoice DStv	8130
 NITDA-CERRT and DSS	5132
 Netflix and DStv	8130
+ONSA and DSS	11857
 Opportunité de DSP	2342
 Opportunités de DSP	2342
 P. O. Box DS	3386
@@ -173,7 +192,10 @@ SENEGAL-EDUCATION-NUMERIQUE Par DS	9891
 Scientific and Industrial Research DSUB Consistent Time	1009
 Serviços Fiscais DSFR	11435
 Small Business and Development DSD Department of Social	11261
+Solar PV CSP Pump DSR System	11953
 Sovere11ig.2n DSoatvaeDreeigfineDdata Defined	10157
+Supply Sources DSR	11953
+Supply Sources DSR Other RE Solar	11953
 Sustainability Analysis Framework DSA Debt Sustainability	11271
 Thomas DSK	1219
 Through the DSR	5242
@@ -182,3 +204,4 @@ Université de Dschang. Tél	10826
 Welt II DS4JI II Digital Skills	1427
 World Bank DSA	11271
 XDS-MS X DS	1009
+Year Duration Energy DSR of Shed	11953

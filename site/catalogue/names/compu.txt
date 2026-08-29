@@ -28,11 +28,12 @@ Annual Compute and Plan	7548
 Annual Computers	8604
 AoJ Computerisation	1667,977,2996
 Applied Computing	8604,1
+Arquitetura de Computadores	12019
 Artificial Intelligence and Advanced Computing	9126
 Artificial IntelligenceCloud ComputingCloud	6506
 Asia Pacific Computer Emergency Response Team	10764
 Association for Computational Linguistics	7548,1058,2534
-Association for Computing Machinery	2093,6671,364,109,502,951,445
+Association for Computing Machinery	2093,6671,364,109,502,951,445,955
 Association for Computing Machinery. Crossref Google Scholar	8460
 Atmospheric Administration PC Personal Computer PR	11553
 B1- Compute	7548
@@ -42,6 +43,7 @@ BYTRONICS COMPUTERS LIMITED Data Controller INST-205399F2A1F	7167
 Bachelor of Computer and Information Sciences	6832
 Bat Computer Technologies Ltd	3862
 Big Data and Cognitive Computing	9128,2028
+Births and Deaths Compulsory Act	12064
 Botswana Computer Security	3887
 Botswana Computer Security Incident Response	3887
 Botswana Computer Security Incident Response Team	3887
@@ -95,8 +97,9 @@ Chapman Computers Nigeria Ltd	3862
 Checklist of Compulsory Returnable Schedules and Documents	11240
 Citizen Computer Centres	5244
 Ciência da Computação	11441
-Ciências da Computação	8858
-Cloud Computing	34,539,1941,417,3501,221,138,1,40,716,3648
+Ciência de Computação	12021
+Ciências da Computação	8858,3163
+Cloud Computing	34,539,1941,417,3501,221,138,1,40,716,3648,671
 Cloud Computing Cloud	1363
 Cloud Computing NKCC	6946
 Cloud Computing News	2520
@@ -111,7 +114,7 @@ Code of Practice for Interactive Computer Service Platforms	5215
 College of Computing and Information Sciences	5413
 Communications Authority of Kenya's National Kenya Computer	6803
 Competitive Marketplace for Compute	6445
-Compulsion	7777
+Compulsion	7777,4273
 Compulsory	1940,48,1726,706,3094,2162,426,707,372,1,70
 Compulsory Briefing Session Meeting Registration Link	11240
 Compulsory Documents	11240
@@ -124,8 +127,8 @@ Comput	1219,4023
 Comput Law Secur Rev	5242
 Computable Name	6666
 Computador	4044,6713,20,639,5,25,131,5
-Computadores	2816
-Computation	2775,1753,3438
+Computadores	2816,9203
+Computation	2775,1753,3438,3939
 Computation and Language	3726
 Computation of Sovereignty Score Commission	3787
 Computational	4528,2447,815,2974,371
@@ -165,8 +168,9 @@ Computech Institute	9082
 Computech Limited Data Controller INST-933817C4FDC NAIROBI	7167
 Computech Limited Data Processor INST-933817C4FDC NAIROBI	7167
 Computeconfusionmatrixentries	8606
+Computed	11907
 Computed Value Method Method	11036
-Computer	26,8,192,10,346,155,46,217,154,939,3,5521,405,1594,276,1087,216
+Computer	26,8,192,10,346,155,46,217,154,939,3,5521,405,1594,276,1087,216,667,17,39,37,25
 Computer Applications	10001
 Computer Assisted Personal Interview	582,3462,6733,669,131
 Computer Assisted Personal Interview1	4040,7381
@@ -199,14 +203,16 @@ Computer Emergency Response Team D4WEE	5244
 Computer Emergency Response Team SOC Security	1000
 Computer Emergency Response Team of Mauritius	783
 Computer Emergency Response Teams	395,5137,145,5087,147
+Computer Engineering	11862
 Computer Incidence Response Team	958
 Computer Incident Response Team	4693,10,61,2081,2588,1701
+Computer Incident Response Teams	11920
 Computer Information Systems	4896,419
 Computer Laboratory	1246
 Computer Law	1243,6779,754,461
 Computer Literacy	21
 Computer Misuse	3983,2966,2196
-Computer Misuse Act	3005,2417,1527
+Computer Misuse Act	3005,2417,1527,5151
 Computer Misuse Act. NITA-U ED	3275
 Computer Misuse and Cyber Crimes Act	6432
 Computer Misuse and Cybercrime	6432
@@ -220,7 +226,7 @@ Computer Owner	34
 Computer Room	9123
 Computer Room Equipment Power Distribution	9123
 Computer Room Wall Construction	9123
-Computer Science	1554,5724,1328,522,347,585,642,429,2,1,510,71,114
+Computer Science	1554,5724,1328,522,347,585,642,429,2,1,510,71,114,40,72
 Computer Science Department	8606
 Computer Science Information Systems	10060
 Computer Science Review	8603,2
@@ -239,7 +245,7 @@ Computer Specifications DATE QUANTITY	34
 Computer Standards	8605
 Computer Studies	2308
 Computer Studies and Technology	7564
-Computer Supported Cooperative Work	226,1870
+Computer Supported Cooperative Work	226,1870,9994
 Computer Systems Engineering	6832
 Computer Systems Organization	8605
 Computer Systems and Cyber Security	10227
@@ -263,11 +269,13 @@ Computerisation	1660,1,1,1,1,1,1,1,1,1,5,1,964,2992,4
 Computerisation P42	5634
 Computerised	9237
 Computerization of Government Procedures	10663
+Computerize	11906
 Computerized	1824
-Computers	236,346,7440,438,146,234,288,488,1143,76,2,1,74,56,584,204
+Computers	236,346,7440,438,146,234,288,488,1143,76,2,1,74,56,584,204,114,16,1,1,1,91,110
 Computers Conference	9237
-Computers Public Perception of Accountability	10835,3,130
+Computers Public Perception of Accountability	10835,3,130,902,16
 Computers Shipping	10759,78
+Computers and Education	11879
 Computing	2096,7379,1660,5
 Computing Can Unlock	4970
 Computing Centre	5932,2574
@@ -327,6 +335,7 @@ Development of Computer Services	2919
 Digital Control A National AI Computing	5970
 Digital Journal of Computer Science and Technology	9128
 Distributed Computation	6975
+Draft National Cloud Computing Policy	11993
 Dynamic Computable General Equilibrium Model	10980
 EIGHTY ONE COMPUTER LEARNING RESOURCE CENTRE	7167
 Eastern Data Western Computing	5242
@@ -359,6 +368,7 @@ Gambia Computer Security Response Units Supporting	1000
 Ghana National Computer Emergency Response Team	775
 Giga Computing	11502
 Google’s Compute Engine	9123
+Government Data Centres and Cloud Computing	11940
 Government and Academic Computer Security Incident Response	2989
 Green Compute	7548
 Green Computing	7715
@@ -390,6 +400,7 @@ International Computer Driving License	10865
 International Journal of Computer Applications	9128
 International Journal of Computer Networks and Applications	7278
 International Journal of Computer Theory	9128
+Item of Intangible Assets Years Computer	11955
 Ivoire Computer Emergency Response Team	10911
 Journal of Applied Mathematics and Computing	8604
 Journal of Computer Assisted Learning	8602
@@ -426,6 +437,7 @@ MTI Computerisation	1665
 MW of Renewable Energy and Next-Generation AI Compute	3049
 Malawi Computer Emergency Response Team	5548
 Marketing CIRTs Computer Incident Response Teams	6946
+Meta-Analysis. Computers	11927
 Methods of Computing Core Inflation Measures	2775
 Ministry. Computer	34
 MoA Computerisation	1663
@@ -444,6 +456,7 @@ National AI and Compute Infrastructure	7548
 National Agency for Computer Security	9616
 National Cloud Computing Guideline	8986,132,1306,914
 National Cloud Computing Policy	4492,2681,2704
+National Cloud Computing Policy D.2 Regulatory	11952
 National Compute Capacity	4528
 National Computer Board Certificate Authority	1379
 National Computer Center	2578
@@ -467,7 +480,8 @@ National High-Performance Computing	4528
 National Kenya Computer Incident	6946
 National Kenya Computer Incident Response Team	7481
 National and Sectoral Computer Emergency Response Teams	587
-Nigeria Cloud Computing Policy	10157,153
+Nigeria Cloud Computing	11993
+Nigeria Cloud Computing Policy	10157,153,1685
 Nigeria Computer Society	8424
 Nigeria Computer Society International Conference	8424
 Nigeria. Newsroom Cloud Computing	3220
@@ -487,6 +501,7 @@ Parliament Computerisation	5631
 Penalties for Telecommunications and Computer Offences	4610
 Penalties for Telecommunications and Computer Offences A	4610
 Perplexity Computer	5599,966
+Personal Computer PCI	11955
 Personal Computers Entities	6432
 Plataformas de Computação	6970
 Presidency. Compulsory	9676
@@ -499,12 +514,16 @@ Quantum Computing	961,3567,3020
 Quantum Computing Working Group	8534
 Quantum Computing Working Group. The Kingdom	8645
 Química Computacional. Trabalhos	2741
+R Foundation for Statistical Computing	12003
 REview. Comput Inf Nurs	1219
+Redes de Computadores	12019
 Renting Compute Makes Sense	9119
 Repeal The Computer Misuse and Cybercrime Act	783
+Report Management and Management Accounts. Computerization	11939
+Rufai Muhammad Rudman Dept. of Computer Engineering	11857
 Rwanda Computer Security Incident Response	9125
 Rwanda Computer Security Incident Response Team	3243,5882
-Rwanda Institute of Computing	7906,933
+Rwanda Institute of Computing	7906,933,3243
 Rwanda Institute of Computing Rwanda	8839
 SADC Computer Crime and Cybercrime Model	26
 SADC Model Law Part II Computer-	26
@@ -522,6 +541,7 @@ Sectoral Computer Emergency Response Team	587
 Sectoral Computer Emergency Response Teams	587
 Seri Kembangan. Computer Science	9129
 Soft Computing	9128
+Solutions System Ltd Computer Society Ayuba	11857
 Somalia Computer	5338
 Somalia Computer Incident Response Team	4810,528,332
 South Africa's National Computer Security Incident	8897
@@ -538,6 +558,7 @@ Technologies Compute	7548
 Technologies Compute and A2- Plan	7548
 Telecommunications and Computer	4610
 Telecommunications and Computer Cabinets and Racks	9123
+Teoria da Computação	12019
 Treasury Compute	7548
 Uganda Computer Emergency Response Team	9695
 United Nations International Computing Centre	9147

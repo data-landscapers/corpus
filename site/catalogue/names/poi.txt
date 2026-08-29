@@ -19,13 +19,18 @@ Analysis of Point of Presence	3862
 Angola Internet Exchange Point	11470
 Appoint Cybersecurity Focal Points. Identify	1777
 Artificial Intelligence. Pointing	10370
+Associação Cabo Verde Internet Exchange Point	11878
 Aster Point Hospital Data Controller INST-266477267AE	7167
 BENRECCA POINT LIMITED Data Processor INST-5077415CFED	7167
 BUSARA COMPUTER POINT LIMITED Data Controller	7167
 Bonga Points	7710
 Border Points	2775
 Brazil's Internet Exchange Point	3840
-Brazzaville and Pointe-Noire	1828,4378
+Brazzaville and Pointe Noire	11907,17
+Brazzaville and Pointe Noire. AF2	11924
+Brazzaville and Pointe-Noire	1828,4378,5653,46,150
+Brazzaville and Pointe-Noire. Granting	11897
+Brazzaville and Pointe-Noire. Objectives Assess the Republic	12055
 Burkina Point de Vue Politique Quantum Robotics	9993
 CHAIRMAN PHARMACY AND POISONS BOARD	9855
 CHIEF EXECUTIVE OFFICER PHARMACY AND POISONS	9855
@@ -34,6 +39,7 @@ CONTACT POINT World Bank Erkin Mamadaliev	10963
 CONTACT POINT World Bank Natalija Gelvanovska-Garcia	3456
 CRITERIA POINTS Price	11209
 CROWN POINT DENTAL CARE Data Controller	7167
+CV-IXP Internet Exchange Point Details Name	11878
 Cardbased Point of Sale	11134
 Cardbased Point of Sale and Card-based Automated Teller	11131
 Cardinal Points	5202
@@ -62,6 +68,7 @@ Crown Point Dental Care Data Processor	7167
 DATA POINT	7167
 DESIGNATED POINT OF CONTACT REPORTING OBLIGATIONS	11190
 DIF Digital Investment Facility POP Point	3184,1,1340,6470
+Demand Points and ICT Training DBI	11857
 Demerit Points System	11774
 Digital Access Points Operators	10856
 Digital Economy Focal Points	11545
@@ -74,7 +81,9 @@ Educare Point Limited Data Processor INST-35748873455	7167
 Emerging Technologies Focal Points	7548
 Entry Point for U.S.-Africa AI Partnerships	6790
 Establish Focal Points	1000
+Exchange Point JTB Joint Tax Board	11857
 Exchange Points	961
+Exchange Points FMCT	11857
 FOREWORD The Pharmacy and Poisons Board	9855
 FiTI Lead Ministry and National Focal Point	10112
 Fixed Office and Service Points Districts Local	8999
@@ -102,6 +111,7 @@ II- Points	8891
 ISP Point of Presence	2913
 ISPs Point of Presence	3862
 IXP Internet Exchange Point KCL Knowledge	11552
+IXPN Points. INTERNATIONAL SUBMARINE CABLE LANDING	11857
 Institut de Sondage Les Points	11592
 Integration Points	5665
 International Signalling Point	6946
@@ -109,7 +119,7 @@ Internet Exchange Point	762,2705,1081,67,1178,1407,28,3278
 Internet Exchange Point Emerging Technologies	7548
 Internet Exchange Point LTE	958
 Internet Exchange Point Locations	11609
-Internet Exchange Point of Nigeria	2754,4575,1298
+Internet Exchange Point of Nigeria	2754,4575,1298,3401
 Internet Exchange Points	1264,1467,823,324,1798,4,232,1,102,153,374,3253,362,1313,30,109
 Internet Exchanges Points Accra-IX	10037
 Investment RPO Recovery Point Objective RTO	6432
@@ -118,6 +128,7 @@ KEY POINTS	6377
 Kenya Internet Exchange Point	7548
 Kenya Internet Exchange Point KLRC Kenya	7548
 Key Entry Point for Cyber Risk	9815
+Key Focal Point Departments	11905
 Key Points	8027,1257,1904
 Key Points Afreximbank and South Africa’s Industrial	8044
 LE POINT CARE	8637
@@ -139,15 +150,18 @@ Microsoft Power Point	962
 Monitoring Points	1000
 Monitoring of Rwanda Internet Exchange Point	718
 Mozambique Internet Exchange Point	8858
+Municipality Service Point Name Lat Long	11986
 Muster Point	1988
 N Operator Number of Points of Presence	3862
 National Key Points Act	5161
 National Signalling Point Codes	6946
 OTC Over-the-Counter PPB Pharmacy and Poisons Board	9855
 Offices Operational Service Points Fix Service	8999
+Outside Brazzaville and Pointe-Noire	11905
 PAYMENT SYSTEMS ACCESS POINTS Mobile Banking	4517
 PAYMENT SYSTEMS ACCESS POINTS Mobile Money	6978
 PHARMACY AND POISONS BOARD GUIDELINES	9855
+PMO Project Management Office POA Point	11857
 PMS Premium Motor Spirit PoS Point	718
 POINT APPLICATION FORM	736
 POINT DE PRESSE RELATIF A L'ARRET	10923
@@ -160,12 +174,15 @@ PRETORIA Points of Contact Mr Enos Sella	11180
 Partners Exchange Point C- Connectivity Resilience	7548
 Payment Access Points	4517,2461
 Payment Systems Access Points and Devices	4517,2461
+PfoR Focal Points DLI	11905
 Pharmacy and Poisons	9855
 Pharmacy and Poisons Act	2709,7145,1
 Pharmacy and Poisons Board	2709,1444,5701,1,1309,104,317
-Poids	2342,624
+Poids	2342,624,8978
 Poids des IPP	10975
+Poids des MPME	11944
 Poikela	8606
+Poilão Fonseca	11962
 Poilão Marine National Park	11586
 Point	736,3332,459,1699,206,1043,721,567,128,434,988,126,382,90,218
 Point Application	21
@@ -175,6 +192,7 @@ Point Focal	7675,1602
 Point Kilométrique	11322
 Point Km Kilometer	10861
 Point Link Details MAIN ROUTE Station	736
+Point Name Lat Long Name	11986
 Point Newspaper	6226
 Point Outcome Document	11285
 Point Plan	4972
@@ -188,7 +206,7 @@ Point of Presence	2913,226,723
 Point of Sale	1925,924,28,1848,1728,9,516,931,169,40
 Point of Sale and ATM Switching	2276
 Point of Sale-POS-cards	8806
-Point of Sales	4630,50,637
+Point of Sales	4630,50,637,6721
 Point of Sales Persons With Disabilities	10763
 Point-	736
 Point-in-time	10985
@@ -204,18 +222,20 @@ Point. Bojang	6226
 Point. Like	6226
 PointNoirTV	2545
 Pointe N	3994
-Pointe Noire	3994
-Pointe-Noire	1643,793,71,1045,249,35,125,1060,1434,1206,406,1751,585,70,70,1304
+Pointe Noire	3994,7930
+Pointe- Noire	11924
+Pointe-Noire	1643,793,71,1045,249,35,125,1060,1434,1206,406,1751,585,70,70,1304,3,8,23,16,8,6,13
+Pointe-Noire and Brazzaville	11905,19
 Pointe-NoireBrazzaville	6067
 Pointing	34,9642,1419
-Points	164,6795,696,1582,1263,211,165,376
+Points	164,6795,696,1582,1263,211,165,376,683,108,85
 Points Development Discoveries Education	9989
 Points WRA Water Resources Authority	2775
 Points Weight	10785
 Points Weight I-27 UN E-Participation Index	10785
 Points of Customer Contact E-mail	775
 Points of Entry	11590
-Points of Presence	1289,2573,2887,4757
+Points of Presence	1289,2573,2887,4757,522
 Points ofEntry	4260
 Points-Based Valuation System for Property Taxation	11133
 Points. Government of Cybersecurity	1777
@@ -228,11 +248,15 @@ Posts and Points and Customs	10762
 Preference Point System All	11209
 Price and Preferential Points Assessment	11240
 Promoter Score Point of Sale Quarterly Gross	11134
+Public Key Infrastructure POS- Point of Sales	11955
 Public Key Infrastructure Proof-of-Concept Point of Sale	11130
+Qwiper Points	12128
+RPO Recovery Point Objective RPS Requests	11952
 Radware Point of Presence	5793
 Rationale for Revision The Pharmacy and Poisons Board	9855
 Recommended Universal Contact Points	5676
-Recovery Point Objective	6432,30,4259
+Recovery Point Objective	6432,30,4259,1231
+Recovery Point Objectives	11995
 Refuge Point	346
 Regional Internet Exchange Point	578
 Regional Internet Exchange Points	5675
@@ -254,6 +278,8 @@ Security Focal Point62	3604
 Service Access Points	906
 Service Framework Service Point Application Service	21
 Service Point Applications	21
+Service Point Name Lat Long District	11986
+Service Point Name Long EC Alfred	11986
 Service Points	8999
 Signaling Point Codes IT Information Technology	6946
 Staff Development and Learning Focal Point	10776
@@ -269,6 +295,7 @@ Trust Breakdown Points	11138
 Uganda Internet Exchange Point	9477
 Universal Contact Points	5676
 Vult Pay Point	2749
+Water Point	11918
 Water Purification Points and Boreholes Drilled1	2775
 Wide Expansion of Customer Touch Points	9117
 Wireless Access Point	11503

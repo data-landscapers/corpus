@@ -2,7 +2,9 @@ Accord Cadre	10876
 Actualisation des Données Cadastrales	10876
 Actualisation des Données Cadastrales MTGES Manuel Technique	10876
 BN Budget National CDMT Cadre des Dépenses	10712
+Benjamin Cadet	12095
 Brazil's Cadastro	4981,5047,1105
+CAD CIP VALIDAR	11862
 CAD CREATIONS LTD Data Controller INST-4815997CAF5	7167
 CADANA TECHNOLOGIES LIMITED Data Controller INST-88011200095	7167
 CADANA TECHNOLOGIES LIMITED Data Processor INST-88011200095	7167
@@ -37,7 +39,9 @@ CADRE STRATÉGIQUE DU POSAF	10712
 CADTECH SERVICES LIMITED Data Processor INST-69152319499	7167
 CADYST Développement	10975
 CAPÍTULO IV EXERCÍCIO DE ACTIVIDADES CADASTRAIS	11384
+CAPÍTULO V EXERCÍCIO DE ATIVIDADES CADASTRAIS	11901
 CAPÍTULO VI CARTOGRAFIA CADASTRAL	11384
+CAPÍTULO VII CARTOGRAFIA CADASTRAL Artigo	11901
 CM Cadre	737
 CNE Cadernos Eleitorais	10271
 COMOE SUD-OUEST CAS CADE S CEN	10847
@@ -49,11 +53,13 @@ Cada Estado Parte	11374
 Cada Fase	9432
 Cada Livro	11369
 Cadaadisyada	11136
+Cadamuro	12006
 Cadaster	427
 Cadastrada	11384
 Cadastrado	11384
-Cadastral	4596
+Cadastral	4596,7343
 Cadastral Information System CLCC Chief Land	11261
+Cadastral Zone A00 Central Business District	12062
 Cadastral de Angola	11408
 Cadastramento	10754
 Cadastre	4138,458,1077,3339,1749,115,26,34,1,61
@@ -64,41 +70,52 @@ Cadastre PMPP Plan de Mobilisation des Parties Prenantes	10876
 Cadastre and Cartography	5004
 Cadastre and Land Registration Authority	888
 Cadastre. Au	10902
-Cadastro	427,1675,8677,354,250,1,49,94
+Cadastro	427,1675,8677,354,250,1,49,94,371,3
 Cadastro Diferido	11384
+Cadastro Disponibilidade de Estatísticas	11898
+Cadastro Interoperabilidade	11898
 Cadastro Nacional de Terras	11527
-Cadastro Predial	11384
+Cadastro Predial	11384,517
+Cadastro Predial. Artigo	11901
 Cadastro Social	3594,4288,867,2005,9,12,600,31,75,1,196,18
 Cadastro Social Unico	10775,4
 Cadastro Social Unico Gaspar Dos Santos	7882,3599
 Cadastro Socio	10768
+Cadastro Subsecção I Disposições	11901
 Cadastro Unico. Angola	10779
 Cadastro de Bens	574
+Cadastro. Artigo	11901
+Cadastro. Entre	11901
 Cadeia	6970
 Cadeia de Identidade	11566
 Cadeia de Valor	11379
 Cadeias	10783
 Cadeira	10777
+Cadeiras	12018
 Cadena	4209
 Caderno Eleitoral	11425
 Caderno de Recenseamento	11528
+Cadernos Ao	11933
 Cadernos Eleitorais	3246,7025,1154
 Cadernos Eleitorais da GTAPE	10271
 Cadernos Eleitorais. O GTAPE	10271
+Cadernos de Estudos Africanos	11909
 Cadi Ayyad University	1735,5560
 Cadjèhoun-Aupiais	2697
 Cadmium	1988
 Cadmium Cadmium	1988
-Cadre	545,98,94,268,213,461,305,30,861,441,10,614,54,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,191,124,478,50,599,23,1100,672,462,544,256,31,953,315,888,114,48,1,1,37,52,10,164,522
+Cadre	545,98,94,268,213,461,305,30,861,441,10,614,54,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,191,124,478,50,599,23,1100,672,462,544,256,31,953,315,888,114,48,1,1,37,52,10,164,522,283,99,25
 Cadre Associations	10965
 Cadre Général	1984
 Cadre Harmonisé	10866
 Cadre Institutionnel L’EHCVM	737
 Cadre Intégré Renforcé	4402
+Cadre M&E SNIP	12043
 Cadre National	2625
 Cadre National de Collecte	2625
 Cadre Organique des Etablissements Publics Burundais	2625
 Cadre PDF	545
+Cadre Partenarial du Secteur	11916
 Cadre Politique Africain	11818
 Cadre Réglementaire	1218
 Cadre Sectoriel Dialogue	643
@@ -112,7 +129,8 @@ Cadre de Vie Culture	4895
 Cadre des Dépenses	1990
 Cadre-strategique	8891
 Cadreco	2015
-Cadres	1679,1717,905,5105,831,263,475
+Cadres	1679,1717,905,5105,831,263,475,969
+Cadres des Zones de Santé	11892
 Caducidad	163
 Caducidade	10755,631,196
 Cadyst Autoproducti	10975
@@ -126,6 +144,7 @@ Conseil le Cadre	3326
 Conservação de Cadernos de Recenseamento Compete	11528
 Conteúdo da Cartografia Cadastral	11384
 Contrat Cadre de Concession	10975
+Custos Cadastrais Normas de Serviço	11898
 D H Cadastro	11527
 DES LOIS ISSUES DU NOUVEAU CADRE	2342
 DH Cadastro	11527
@@ -162,6 +181,8 @@ LETTRE DE CADRAGE BUDGETAIRE POUR L'EXERCICE	1866
 La CADECO	7783,30
 Laboratory Cadres Year U.S. Government	4217
 Le Cadre	7283
+Levantamento Cadastral Base de Dados Nacional de Verificação	11898
+Licenciamento da Atividade de Cadastro Predial Taxas Devidas	11901
 L’élaboration du Cadre	11661
 MINPMEESA Mr NONGNI Abednego Cadre	10980
 MODERNIZAÇÃO E AMPLIAÇÃO DO CADASTRO SOCIAL	11482
@@ -174,17 +195,23 @@ Mining Cadastre Department	10873
 Mining Cadastre General Directorate	10873
 Mining Cadastre System	11232
 NOTE DE CADRAGE RAPPORTS D'ETAPES Capacités	9049
+Nível Nacional Cobertura Cadastral	11898
+Nível Principal da Cidade Cobertura Cadastral	11898
 O Cadastro Social	10754,727
 O Serviço Central de Cadastro	11384
 Obrigatoriedade da Inscrição Cadastral	11384
 Online Mining Cadastre	5244
 Operação de Renovação de Cadastro	11384
 PROCEDURE DE L’ACCORD CADRE	10876
+Planos Cadastrais	11898
+Planos Cadastrais Método	11898
 Planta Cadastral	11384
 Provincial Cadastral Offices	427
 Prédio Cadastrado	11384
 REGULAMENTO DO CADASTRO SOCIAL	10754
 RENOVAÇÃO E CONSERVAÇÃO DO CADASTRO	11384
+RENOVAÇÃO E CONSERVAÇÃO DO CADASTRO Secção	11901
+RGÃO TÉCNICO CADASTRAL Artigo	11901
 Reforço da Cadeia de Identificação	11565,1
 Reporting Cadence	4528
 Responsáveis Cada	10751
@@ -203,6 +230,7 @@ Sociale CD Cadre de Dépense CEC Certificat	10876
 Special General Members Meeting. CADE	11796
 Statistics Unit Mr KWEBITEU Dimitri Cadre	10980
 Statistics Unit Mrs NGAFFO Manuela Cadre	10980
+Subsecção VIII Cadastro	11901
 Système Intégré de Gestion du Cadastre	2598
 Technologique CSLP Cadre Stratégique de Lutte	12
 Thème Cible Effectif Cadre	10975

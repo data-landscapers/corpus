@@ -4,6 +4,7 @@ ALL BIDDERS MUST ENSURE COMPLIANCE	11240
 Accelerate Open Banking Implementation Ensure	4848
 Act Ensure	1630
 Action Description Ensure	10870
+Affordability E.g. Ensure	11964
 Africa Finance E ENS	6998
 Africa Finance E ENS ArticleNot E-money	6998
 Africa Finance E ENS ArticleRCR Season	6998
@@ -16,8 +17,10 @@ Burkina Faso. Ensuite	6827
 CNSS Boucle du Mouhoun Urbain Rural Ensem	10875
 Cases Numériques. Ensuite	7925
 Centros de Enseñanza Superior	4209
+Company. ENSURING ACCESS TO WATER	11897
 Construction Enseignement	10875
 Construction Enseignement Hébergement	10875
+Continue des Enseignants	11905
 Cost of Ensuring Privacy	1243
 Culturel ESR Enseignement Supérieur	12
 Cívica Ensino Primário Ensino Secundário Ensino	10766
@@ -37,10 +40,11 @@ Digital Skills and Human Capital Development Ensure	1161
 Distância. NÍVEL DE ENSINO	10766
 E ENS ArticleRCR Season	6998
 E ENS ArticleThird-party Payment Providers	6998
-E.g. Ensure	11004
+E.g. Ensure	11004,960
 EB Ensino Básico ESE Escola Superior	11557
 EDUCACION ENSEÑANZA FORMACION PROFESIONAL	4209
 EMS Expedited Mail Service ENSO El-Nino	2775
+ENS' TMT	11908
 ENSAE	10548
 ENSAN II	10776
 ENSCS	6437
@@ -67,6 +71,8 @@ ENSURE ACCESS TO QUALITY EDUCATION	899
 ENSURE EFFICIENT DIGITAL TRANSFORMATION	3604
 ENSURE INCLUSIVE DIGITAL TRANSFORMATION	3604
 ENSURiNG QUALiTY AND RELEVANCE OF PUBLiC	961
+ENSafrica.com	11908
+ENSafrica.com Shaaista Tayob Associate	11908
 East and Central Africa. Margee Ensign	11682
 Emergency Operations Center ENSAN II	10776
 Enable Interoperability and Open Standards Ensure	10157
@@ -79,22 +85,24 @@ Enseignant-chercheur	5826,2495,400
 Enseignant-chercheur. Au	8321
 Enseignants	8321
 Enseignants-chercheurs	8321
-Enseignement	643,94,28,532,297,85,3,26,251,1007,430,358,71,10,257,782,297,500,23,541,202,77,593,13,65,485,14,294,259,32,52,15,118,112,107,218,65,124,164,26,386,157,121,642,32,3,236,16,12,448,307,39,4
+Enseignement	643,94,28,532,297,85,3,26,251,1007,430,358,71,10,257,782,297,500,23,541,202,77,593,13,65,485,14,294,259,32,52,15,118,112,107,218,65,124,164,26,386,157,121,642,32,3,236,16,12,448,307,39,4,370,25
 Enseignement Général de Zogbo	10821
+Enseignement IFSA Primaire	11905
 Enseignement National	1005
+Enseignement Primaire	11905,11
 Enseignement Professionnel	86
-Enseignement Préscolaire	5103
+Enseignement Préscolaire	5103,6802
 Enseignement Restauration	10841
 Enseignement Secondaire	3396
-Enseignement Supérieur	12,1171,525,188,800,21,258,221,200,5024,471,1930,104,23,649
+Enseignement Supérieur	12,1171,525,188,800,21,258,221,200,5024,471,1930,104,23,649,308,11
 Enseignement Supérieur Monsieur Ali Mohamed Ali	2960
-Enseignement Technique	8895,160,1227
+Enseignement Technique	8895,160,1227,1623,11
 Enseignement de Base	10847
 Enseignement du Premier	10847
 Enseignement. L’initiative	10611
 Enseignements	1679,294,993,4689,2724,504
 Enseignent	8237
-Ensemble	737,494,1111,45,215,22,459,215,30,13,145,286,885,238,196,1868,135,636,128,136,897,240,351,1042,302,48,1,1,280,115,309
+Ensemble	737,494,1111,45,215,22,459,215,30,13,145,286,885,238,196,1868,135,636,128,136,897,240,351,1042,302,48,1,1,280,115,309,531
 Ensemble Aucun Primaire Post	737
 Ensemble Industrie	10875
 Ensemble Masculin Féminin Ensemble Milieu	737
@@ -111,7 +119,7 @@ Enshrining	1161
 Ensibuuko	11773
 Ensinar	4146
 Ensinger GmbH	8342
-Ensino	2816,1228,6722,11,583,27,19,13,2,156
+Ensino	2816,1228,6722,11,583,27,19,13,2,156,490
 Ensino Básico	1948,9575,34
 Ensino Básico Nos	11523
 Ensino Especial	10766
@@ -119,7 +127,7 @@ Ensino Geral Direcção Nacional de Educação de Jovens	10766
 Ensino MASFAMU	11387
 Ensino Masculino Ministério da Educação Total de Masculinos	10766
 Ensino Presencial	10766
-Ensino Primário	10750,16,11,610,32,158
+Ensino Primário	10750,16,11,610,32,158,490
 Ensino Primário Direcção Nacional	10766
 Ensino Primário População Novos	10766
 Ensino Primário Província	10766
@@ -164,7 +172,7 @@ Ensino Público-Privado Província Angola Bengo Benguela	10766
 Ensino Público-Privado Província MF M	10766
 Ensino Público-Privado Província Professores	10766
 Ensino Público-privado	10766
-Ensino Secundário	1948,3202,5616,621,32,53,105
+Ensino Secundário	1948,3202,5616,621,32,53,105,490
 Ensino Secundário Direcção Nacional	10766
 Ensino Secundário Geral	10766,653
 Ensino Secundário Geral Anuário Estatístico da Educação	10766
@@ -234,37 +242,45 @@ Ensoft	3733
 Ensoleillement	1005
 Ensuing	3583
 Ensuite	737,10,1,257,182,797,423,5,31,518,1024,80,828,1382,181,316,55,132,324,936,50,630,94,1212,82,228,293,67,1,187
-Ensure	34,136,225,504,59,3,39,9,122,30,43,39,14,27,346,74,73,37,14,160,1151,444,21,74,183,265,88,314,82,238,396,1,1,287,132,10,1,5,509,242,36,275,89,104,4,9,599,998,59,1,388,88,41,537,195,82,220,250,143,171,44,10,41,13,131,25,19,3,122,2,2,7,16,32,7,1,20,20,4,36,277
+Ensure	34,136,225,504,59,3,39,9,122,30,43,39,14,27,346,74,73,37,14,160,1151,444,21,74,183,265,88,314,82,238,396,1,1,287,132,10,1,5,509,242,36,275,89,104,4,9,599,998,59,1,388,88,41,537,195,82,220,250,143,171,44,10,41,13,131,25,19,3,122,2,2,7,16,32,7,1,20,20,4,36,277,301,3,3,1,41,14,24,1,11,4,8,13,9,9,13,33
 Ensure AI	1814,2714
 Ensure AU Member States	1814
-Ensure Access	4528
+Ensure Access	4528,7329
 Ensure Accountability	3503
+Ensure Annual School Census	11860
 Ensure Cloud Networks And Connections	34
 Ensure Curriculum	958
 Ensure Cybersecurity Awareness	1000
+Ensure Data Security and Privacy	11952
+Ensure Fibre	11857
 Ensure Ghana	4126
 Ensure Government	395
 Ensure ICT Systems	4610
 Ensure Inclusivity CBZ Bank Crowned Zimbabwe	2987
 Ensure Intellectual Property	958
+Ensure Interoperability	11995
 Ensure Long	11131,3
 Ensure O&M EHS Plan	1988
 Ensure Proper Protection of Data and Information Security	34
+Ensure Reporting	11857
 Ensure Security and Resilience of Infrastructure	958
 Ensure Socio-Economic Development	11134
 Ensure Socio-economic	11131
 Ensure Strategic Align	1777
 Ensure Strategic Alignment of NCC	1777
 Ensure Their Growth	10718
+Ensure Transparency	11995
 Ensure Vulnerable Groups	1000
 Ensure the Alignment	1777
+Ensure the National Cloud Policy	11995
 Ensured	10776
-Ensures	236,2822,2187,908,2975,727,1274,87
+Ensures	236,2822,2187,908,2975,727,1274,87,700,23,9,4
 Ensurethatcommunitiesarefullyinvolvedinlandmanagement Land	10960
-Ensuring	396,544,18,3,9,191,82,18,517,36,4,540,101,243,256,656,37,90,46,102,88,283,394,286,192,113,329,101,2,23,220,496,123,407,456,146,328,307,298,205,366,151,234,98,87,20,117,1081,1,119,13,7,151,12,2,1,10,40,30,30,1,8,91,326
+Ensuring	396,544,18,3,9,191,82,18,517,36,4,540,101,243,256,656,37,90,46,102,88,283,394,286,192,113,329,101,2,23,220,496,123,407,456,146,328,307,298,205,366,151,234,98,87,20,117,1081,1,119,13,7,151,12,2,1,10,40,30,30,1,8,91,326,179,1,17,21,2,50,12,22,11,4,7
 Ensuring Justice and Equality The Charter	2958
 Ensuring No One Is Left Behind	8861
 Ensuring Open Data	5246
+Ensuring Resilience and Sustainability	11940
 Ensuring Sustainable Business Growth and Job Creation	10964
 Ensuring Transparency	4528
 Ensuring Transparency and Accountability	2958
@@ -285,6 +301,7 @@ Financial Sustainability Ensure	11131
 Fonio Niébé Voandzou Arachide Gombo Ensemble	737
 GRM Ensure	1988
 Good Practices For Ensuring Data Protection	11156
+Govt Inter- Ensure	11857
 Hauts Bassins Garçons Filles Ensemble Garçons	10847
 House ENS	6683
 Houédako K. Tokandji. Ensemble	6221
@@ -317,6 +334,7 @@ Margee Ensign	11682
 Masculin Féminin Ensemble Ensemble	737
 Masculin Féminin Ensemble Masculin Féminin Ensemble	737
 Mathias ADEDJE MINISTERE DES ENSEIGNEMENTS PRIMAIRE	2966
+Ministry of Finance Ensure	11916
 Ministère des Enseignements	2966
 Natureza da Instituição de Ensino Superior	11387
 Nenhum Ensino Primário	10777
@@ -331,8 +349,10 @@ PP Substantial Ensure	10768
 PPE Ensure	1988
 PPPs. Ensure	4126
 PROTOCOLO GENDARMERIA LOGISTICA ENSEÑANZA INSPEC.GRAL. GRAL	4209
+Paie des Enseignants Provincial	11916
 Paridade de Género3 ENSINO PRIMÁRIO	10777
 Percurso de Ensino Aprendizagem PND	11387
+Pertinence des Enseignements	11918
 Pourcentage Boucle du Mouhoun Urbain Rural Ensemble	10875
 Privacy Design E.g. Ensure	11004
 Privacy E ENS ArticleThe New DPO	6632
@@ -349,6 +369,7 @@ Rwanda Environmental Management Authority. Ensure	9123
 SA DT JR Ens ES	163
 STEP. Activities Substantial Ensure	10768
 Secundário Ensino	10777
+Serviços de Ensino	12018
 Sistema de Ensino	11577
 Source. Ensuite	747
 Specialist Ensure	1988

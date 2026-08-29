@@ -18,6 +18,7 @@ COTECNA Inspection SA	3045
 Cabinet's Inspection and Follow-Up Department	3310
 Cabinet's Inspection and Follow-Up Department. Launch	3310
 Certificado de Actualización PE INDUSTRIA INSPECCION ANUAL	4209
+Chief Inspector of Education	11860
 Civil Inspector General Servicios	4209
 Comissão Inspectiva	11452
 Coordenador da Comissão Inspectiva	11452
@@ -49,14 +50,16 @@ G Inspector Grupo G Jefe Servicio	4209
 GRAL GRAL INSPEC.GRAL. INSPEC.GRAL. INSPEC.GRAL	4209
 General Health Inspection	10829
 General Inspection of Education ITMA Instituto Tecnológico	11552
-General Inspectorate	4260
+General Inspectorate	4260,7645,69
 General Inspectorate of Finance	969,2635
 General Inspectorate of State Administration	11380
+General Labor Inspectorate	11965
 Gisagara Districts. Inspections	718
 Grupo B Especialista Grupo B Inspector	4209
 Grupo D Especialista Grupo D Inspector	4209
 Grupo E Habilitado Pagador Inspector Grupo	4209
 Guide for Planning RiskBased Inspections	10776
+IDP General Inspectorate	11905
 IGAE Inspecção-Geral da Administração	11380
 INDUSTRIA INSPECCION ANUAL	4209
 INDUSTRIA INSPECCION ANUAL ACTUAL	4209
@@ -126,10 +129,10 @@ Inspecteurs Contrôleurs	11676
 Inspecteurs Contrôleurs Fiscaux	11676
 Inspection	3,733,2978,455,791,118,39,6,784,483,967,880,32,1586,269,277,475,305,415
 Inspection Generale	8651,1473
-Inspection Générale	557,8193,1374
+Inspection Générale	557,8193,1374,1781
 Inspection Générale des Finances	969,2635,374,3645,1127
 Inspection Générale des Finances- IGF	969
-Inspection Panel	1264,20,583,1022,715,2935,4229,61,135,453,108
+Inspection Panel	1264,20,583,1022,715,2935,4229,61,135,453,108,330,50,60
 Inspection and Evaluation	7538
 Inspection and Follow-Up Department	3310
 Inspection and Supervision	9855
@@ -138,7 +141,7 @@ Inspection des Services des Impôts	10978
 Inspections	718,1270,3180,5608
 Inspections Site	1988
 Inspector	11452
-Inspector General	4209,426,4667,2277,96
+Inspector General	4209,426,4667,2277,96,193
 Inspector General Adjunto	4209
 Inspector General Adjunto Servicio	4209
 Inspector General Servicio	4209
@@ -150,7 +153,7 @@ Inspector General Servicios Servicio	4209
 Inspector General de Peaje Inspector General Servicios	4209
 Inspector General de Servicio	4209
 Inspector General de Servicios Servicio	4209
-Inspector General of Police	4677,159,660,2975,611
+Inspector General of Police	4677,159,660,2975,611,2775
 Inspector General of Police Douglas Kanja	3320
 Inspector Gral	4209
 Inspector Gral. de Servicio	4209
@@ -171,8 +174,9 @@ Inspector-General	11464
 Inspector-General of Intelligence	11277
 Inspector-General of Police	587,427,5773,4275
 Inspector-Geral da Administração	11452
-Inspectorate	5533,5685,62
+Inspectorate	5533,5685,62,706
 Inspectorate Compliance and Enforcement	7141
+Inspectorate General of Finance	11910
 Inspectorate General of Judicial Services	10990
 Inspectores	4209,7243
 Inspectores da IGAE	11452
@@ -188,8 +192,13 @@ Inspecções	3519,7887
 Inspetor	11566
 Inspetor Geral da Educação	11557
 Inspetores da Inspeção Geral da Educação	11538
+Inspeção	12021
+Inspeção Final	11898
+Inspeção Geral	12021
 Inspeção Geral da Administração	11417
 Inspeção Judicial	2054
+Inspeção de Materiais Proibidos	11898
+Inspeções	11898
 Inspirado	8760
 Inspired	3006,1077,277,1210,3794,1477,705
 Inspired Evolution Evolution II Fund	704,1
@@ -226,6 +235,7 @@ PE INDUSTRIA INSPECCION ANUAL INFORMACIÓN Rótulos	4209
 PE INSPECCION ANUAL Rótulos	4209
 PG Mayor Senado Inspector General	4209
 PROTOCOLO GENDARMERIA LOGISTICA ENSEÑANZA INSPEC.GRAL. GRAL	4209
+Painel de InspecçãoInspeção Independente	11898
 Part B Inspection	11181
 Periodic Audits and Inspections Periodic	5665
 Periodicidade da Actividade Inspectiva	11452
@@ -263,9 +273,10 @@ Tax Inspectors Without Borders. Today	11356
 Telecommunications Inspection	6946
 Tercera Brigada Jefe Inspector	4209
 Through the OECD-UNDP Tax Inspectors Without Borders	11356
+Tipo de Materiais Proibidos Inspecionados	11898
 Togo Koffi KOUGBLENOU Inspecteur Central du Tésor	10708
 USAID. USAID Office of Inspector General Follow-Up	3583
 Vehicle Inspection Department	8639,755,3
-World Bank Inspection Panel	10829,135,561
+World Bank Inspection Panel	10829,135,561,330
 XAF Inspector General Servicios Servicio	4209
 ZEMA Inspector	1988

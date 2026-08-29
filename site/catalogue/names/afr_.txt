@@ -1,5 +1,6 @@
-AFR Afrobarometer AUC African Union Commission	10759,78
-AFR Afrobarometer UNESCO United Nations Educational	10835,3,130
+AFR Afrobarometer	11887
+AFR Afrobarometer AUC African Union Commission	10759,78,1052
+AFR Afrobarometer UNESCO United Nations Educational	10835,3,130,902,16
 AFR EAP ECA LCR MNA NAM	10785
 AFR Regional	578
 AFR and LCR	10785
@@ -7,6 +8,7 @@ Afr Aff	5242
 Afr Identities	9739
 Afr Lit Today	9739
 Afr Music J Int Libr Afr	9739
+Burundian and Central Afr	11900
 Codevelop and AFR	8449
 Ghana Cote Nigeria Bangladesh AFR	10985
 J Afr Media Stud	9739

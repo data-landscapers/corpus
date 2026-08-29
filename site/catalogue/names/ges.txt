@@ -30,6 +30,7 @@ COMPAGNIE MINIERE DU BAFING Gestion	2342
 COMPAGNIE MINIÈRE DU LITTORAL Gestion	2342
 CONOMIQUE ET FINANCIÈRE UNE GESTION AMÉLIORÉE	2342
 Cellule de Gestion	10712
+Cellule de Gestion des Marchés Publics	11905
 Champions Gestion	2342
 Champions Opportunité de Gestion	2342
 Comissão de Gestão	167
@@ -72,6 +73,7 @@ Deutschen Gesellschaft	11316
 Directrizes de Gestão de Riscos	6462
 ET DE GESTION DES RISQUES	2342
 EU's GESTDOC	4415,1,1,1
+Economia. Gestão	11898
 Engagement des Parties Prenantes PGES Plan de Gestion	10876
 Entidade Gestora	10783,660
 Entidade Gestora Protecção Social Obrigatória	11433
@@ -92,6 +94,7 @@ GESCOM	10024
 GESD Citizen Engagement Committee	6754,1680
 GESD Citizen Engagement Committee Willy Kambwandira	8434
 GESD Project	6754,1645
+GESIMPOT	11906
 GESTDOC	6530,41,4994,1
 GESTDOC. Da Guiné-Bissau	11566
 GESTION	2959,7853
@@ -127,7 +130,7 @@ Gest-exo	3674
 Gestao	574
 Gestao de Contas	570
 Gestao de Receitas	574
-Gestion	12,198,25,408,94,11,250,7,180,85,379,344,349,473,352,102,127,23,263,643,671,374,678,115,664,56,76,696,262,352,118,120,384,158,795,180,248,247,192,1,109,37,16,2,37,12,50,164,585
+Gestion	12,198,25,408,94,11,250,7,180,85,379,344,349,473,352,102,127,23,263,643,671,374,678,115,664,56,76,696,262,352,118,120,384,158,795,180,248,247,192,1,109,37,16,2,37,12,50,164,585,319
 Gestion Axée	10712,164
 Gestion Barrages	3396
 Gestion Bois	3396
@@ -144,6 +147,7 @@ Gestion de Projet	235
 Gestion de Réseaux de Transport	10975
 Gestion de Réseaux de Transport. L’année	10975
 Gestion des	3396
+Gestion des Activités	11958
 Gestion des Bases de Données	10975
 Gestion des Boues de Vidange	2342
 Gestion des Burkinabè	3396
@@ -154,6 +158,7 @@ Gestion des Emplois	8125
 Gestion des Finances	5866
 Gestion des Finances Publiques	1284,582,9115
 Gestion des Infrastructures Informatiques	10975
+Gestion des Magistrats	11958
 Gestion des Organisation	2342
 Gestion des Projets	2342
 Gestion des Ressources	7843,2869
@@ -194,13 +199,14 @@ Gestor	2816
 Gestor Municipal	10754
 Gestor de Negócios	2816
 Gestor de Projecto	11448
+Gestora da Rede Tecnológica Privativa	11939
 Gestores	11436
 Gestores da Saúde	11453
 Gestores de Componente	11390
 Gestores de Informação Científica	8000
 Gestores de TI	11555
 Gestual	10777
-Gestão	13,154,247,925,1,741,2,733,851,551,56,1169,1019,508,3782,2,1,22,3,3,578,9,1,12,13,1,9,7,2,10,10,3,3,2,5,8,5,62,4,4,11,13
+Gestão	13,154,247,925,1,741,2,733,851,551,56,1169,1019,508,3782,2,1,22,3,3,578,9,1,12,13,1,9,7,2,10,10,3,3,2,5,8,5,62,4,4,11,13,300,164,2
 Gestão A&S	11406
 Gestão Adaptativa	11437
 Gestão Autárquica	9403
@@ -235,12 +241,15 @@ Gestão de Identidade Electrónica	7466
 Gestão de Incidentes	2784
 Gestão de Incumprimentos de Liquidação	10755
 Gestão de Informação Sanitária	11569
+Gestão de Pedidos	12021
 Gestão de Projectos	8000,3390,50,1
 Gestão de Projectos de IA	2816
+Gestão de Projetos Informáticos	12019
 Gestão de Qualidade de Serviço	11531
 Gestão de Reclamações	11386
 Gestão de Recursos Humanos	10614
 Gestão de Recursos Naturais	2816
+Gestão de Redes	12019
 Gestão de Resíduos	11390
 Gestão de Resíduos Hospitalares	11390
 Gestão de Resíduos Urbanos	11390
@@ -273,6 +282,7 @@ Implementação da Política Nacional de Gestão	11448
 Inclusiva Ejes Estratégicos Sistemas de Gestión Estratégica	1701
 Industrias Creativas Ejes Estratégicos Sistemas de Gestión	1701
 Information Gestion	2342
+Informática de Gestão	11898,123
 Instituto Nacional de Gestão	9484
 Instituto Nacional de Gestão de Bolsas de Estudo	11391,81
 Instituto Superior de Gestão	11552
@@ -393,8 +403,10 @@ Secção da Sociedade da Informação. CAPÍTULO IV GESTÃO	11382
 Serviço da Entidade Gestora da Protecção Social	11433
 Sistema Electrónico de Gestão de Incentivos	10769
 Sistema Gestao Orcamental	574
+Sistema Gestor de Base de Dados	12021
 Sistema Integrado de Gestão	10783,662,13,15
 Sistema Integrado de Gestão Documental	4294
+Sistema Integrado de Gestão Eleitoral	11893
 Sistema Integrado de Gestão Financeira	10768,15,4
 Sistema Integrado de Gestão SIGFE Financeira	11417
 Sistema Integrado de Gestão Tributária	11371
@@ -415,10 +427,13 @@ Sistema de Gestão	10768,613,99
 Sistema de Gestão Autárquica	9403
 Sistema de Gestão da Terra	795
 Sistema de Gestão de Aprendizagem	11463
+Sistema de Gestão de Base de Dados	12021
+Sistema de Gestão de Depósitos	11933
 Sistema de Gestão de Domínios	1736
 Sistema de Gestão de Inteligência Artificial	2816
 Sistema de Gestão de Inteligência Artificial Em	2816
 Sistema de Gestão de Inteligência Artificial SLM	2816
+Sistema de Gestão de Mercados	11933
 Sistema de Informacao de Gestao Financeira	574
 Sistema de Informação de Gestão de Domínios. CV	1736
 Sistemas de Gestión	4209
@@ -451,16 +466,21 @@ TROPICAL RUBBER CÔTE D’IVOIRE Gestion Patrimoniale	2342
 UE Gestion	643
 UNE GESTION AMÉLIORÉE DES ENJEUX LIÉS	2342
 UNIDADE DE GESTÃO DE PROJECTOS ESPECIAIS	8166
+UNIDADE DE GESTÃO DE PROJETOS ESPECIAIS	11941
 Uitvoerende Gesag	11190
 Unidad de Gestión de SYDONIA	4209
 Unidade de Gestão	8166
-Unidade de Gestão de Projectos Especiais	8166
+Unidade de Gestão de Projectos Especiais	8166,3689
+Unidade de Gestão de Projetos Especiais	11863,6,29,43,24,56
 Unidades de Gestão	10752
 Unidades de Gestão Provinciais	10752
+Unit of Account UGPE Unidade de Gestão de Projetos	11863
 Unité de Gestion de Projet	3715
-Unité de Gestion du Projet	4342,898
+Unité de Gestion des Réformes des Institutions Financières	11944
+Unité de Gestion du Projet	4342,898,6803
 Unité de Gestion du Projet Moroni	3715
 Unité de Gestion du Projet PAEBC	8507
+Unité de Gestion du Projet de Transformation Numérique	12043
 Urbaine de Gestion Foncière	10876
 Urbaines de Gestion Foncière	10876
 Usage Gestionnaire Fonds IDA	10876

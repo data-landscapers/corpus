@@ -16,7 +16,7 @@ Limpeza	11373
 Limpeza Urbana	9403
 Limpieza de Terreno	4209
 Limpop	11192
-Limpopo	2093,1171,2249,611,1635,270,438,532,229,456,557,951,3,16,4,9,24,4,10,8,16,10
+Limpopo	2093,1171,2249,611,1635,270,438,532,229,456,557,951,3,16,4,9,24,4,10,8,16,10,594,71,19,6,6,13
 Limpopo Attendance	8999
 Limpopo Central Hospital	11248
 Limpopo Central Hospital Project Implementation Construction	11248
@@ -38,6 +38,7 @@ Limpopo Unknown Mpumalanga NoUrtnhk-nWoewsnt Free State	8999
 Limpopo and Eastern Cape	11192
 Limpopo and KwaZulu-Natal	11297
 Limpopo and Mpumalanga	9967,1278,27,25
+Limpopo and Northern Cape Departments of Health	11980
 Limpopo's Department of Sport	8018
 Limpopo's Vhembe District Municipality	8029
 Limpopo. Consistent	7759

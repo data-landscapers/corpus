@@ -3,7 +3,9 @@ A. M	6832,1839,2047
 A. M. Mashood	11036
 A. M. Mashood Attorney-at-Law	11036
 A. M. Ross and E. Werker	1828
-AMERICA M	11004
+AFRICA M	11964
+AMERICA M	11004,960
+AMERICA M Mexico W	11964
 ANE. M. Agbetse	3109
 APS. M. Fall	5552
 ARCEP. M. Nouhou Aboubacar	5170
@@ -14,6 +16,7 @@ Acting M	6350
 Aczel M	6483
 Adam M. Community	1219
 Addise M	3791
+Adv A M Malakate	12047
 Advanced M L	8283
 Advocate M Kritzinger Instructed	2307
 Air Cdre. Dr. Eng. E. M	1554
@@ -21,6 +24,7 @@ Algérie. Pour M. Ahmat Mbodou Mahamat	8851
 Ali M	766
 Anfiteatro António M. da Cruz	10752
 Aprovados M F	10766
+Arochi M	11860
 Article Google Scholar Cazzaniga M	9739
 Article Google Scholar Veal M	9739
 Asressie M	11596
@@ -32,6 +36,7 @@ Bacharelato MF M F	10766
 Bacharelato MF M F Angola	10766
 Bacharelato MF M F MF M	10766
 Bacharelato MF M F N.º	10766
+Baweye M. Barka	12003
 Bertin M	8641
 Bigdeli M	11596
 Bismark M Tyobeka	2626
@@ -43,6 +48,7 @@ C. M	8301
 C. M. Bonina	5700
 C. M. and Nasrabadi	11258
 CC M	1154
+CERTAIN TIMES OF THE DAY M	11964
 CSP CSP CSP GR M	9123
 CSP CSP CSP I A M	9123
 CSP CSP CSP M OS-	9123
@@ -131,6 +137,7 @@ F O R M A T	11586
 F and M	1261
 F- BBH N M- Internet	582
 F. A. M. Tenorio	11140
+FS Mangaung M St Elizabeths Hospital	11986
 Factor Literature M SD	9129
 Federica M	1261
 Fund Flows M Risk	3604
@@ -142,11 +149,13 @@ Gouvernement. Pour M. Bourouno	11724
 Governance. In M. Buri	1243
 Governor Soraya M. Hakuziyaremye. Verbatim	9046
 Graue M	1219
+Guni M. K	11860
 Guy M. Sagna. Un	2353
 H. E. M. Abdoulaye WADE H	11517
 H. M	8605
-Hafez M. H. Ghanem Country Director	11380
+Hafez M. H. Ghanem Country Director	11380,475
 Hakimi M	8460
+Harding M	11977
 Hardware and Networks Mrs Matildah M. Zyambo	34
 Health Minister Dr. Louise M. Kpoto	9548
 Heisler M. Perspectives	1219
@@ -169,9 +178,11 @@ ISIQEPHU M- OKWEHHOVISI KUPHELA EMINYE IMIBANDLELA	11573
 Ibnou M. Abdou	1943,1998
 Identification M. Parbignalé Arsène Yoda Directeur	10812
 Impôts Prévisions M. Mamadou Boulouma Directeur	10812
+Indonesia W M Pakistan W M	11964
 Information Minister Jerolinmek M. Piah	11720
 Information Sociale M. Samuel Michel Yameogo	10812
 Information. M. Adji Ali Salatou	3337
+Ivan Bruno de M	11879
 J. M	1248,6638,718
 J. M. Cavanillas	1243
 J. M. Montes Hincapie	5349
@@ -203,6 +214,7 @@ M AfricInvest	605
 M Africa	1428,116
 M Airtel Mobile Commerce	2226
 M Apr	913
+M Argentina	11922
 M Atlas Tower Kenya	1518
 M Aug	462,134,538
 M BIF	1776,1389,1,1,1,3
@@ -217,8 +229,10 @@ M CONSULT COMPANY LIMITED Data Controller	7167
 M CONSULT COMPANY LIMITED Data Processor	7167
 M CPDIF	1054
 M Center for Inclusive Digital Transformation of Africa	911
+M China	11922
 M Cloud Library	8022
 M Cocaine Case Sirleaf	4261
+M Colombia	11922
 M Compulsory Briefing Session Meeting Registration	11240
 M Cumulative Investment Google	2209
 M Côte	210
@@ -244,6 +258,7 @@ M EIB-led	1420
 M EU	854
 M EUR	643,146
 M Early-Stage Tech Investment Fund Orange	515
+M Egypt	11922
 M Enabel-managed	256
 M Engineering Hub Nairobi and Lagos Microsoft	388
 M Environment	11469
@@ -251,6 +266,7 @@ M Equity DFC	623,209,228,1
 M Equity Fund Google	673
 M Equity Investment	701
 M Eurobond	4461
+M Europe and Middle East	11922
 M Executive	11131
 M Explanation	4653
 M F Angola Bengo Benguela Bié	10766
@@ -263,11 +279,13 @@ M Federal Negarit Gazette No.41	7538
 M Fihrer	2307
 M Finnfund	929
 M Foya Project By Leroy M	4998
+M France	11922
 M Fund	3131
 M Fund-of-Funds Mastercard Foundation	909
 M GDP	10822
 M GNF	142
 M Gcwabaza	11289
+M Germany	11922
 M Government Environment	7548
 M Growth Investment	1054
 M Guatemala LATIN W AMERICA M	11004
@@ -284,6 +302,8 @@ M IFC-led	893,526
 M IFC-led Series B	1058
 M IFU	84
 M Impact Innovation Fund. Supports	4500
+M India W M ASIA Indonesia	11964
+M Indonesia	11922
 M Injection Into Ivorian Ventures Published	10942
 M Innovation IPF	11469
 M Investment	627,2717
@@ -291,6 +311,7 @@ M Investment AI	3344
 M JPY	898,232,399,689,2282
 M JPY Japanese	207
 M Jan	623,290
+M Japan	11922
 M Jul	610
 M Jun	610
 M KES	1137
@@ -313,9 +334,12 @@ M Major MNOs MTN	10822
 M Mapaila	11289
 M Member Sex	582
 M Metrics	3972
+M Mexico	11922
+M Mexico W	11964
 M Minority Stake	1537
 M Mobile	10822
 M Mobile Money Active Subscriptions	9781
+M Modiba	11986
 M Mwali	11289
 M N PAULSEN	11272
 M NAME	582
@@ -365,8 +389,10 @@ M PROJECT TO BOOST TAX ADMINISTRATIONS	10581
 M Pan-African Fund	912
 M Partnership Google	675
 M Pays	10519
+M Peru	11922
 M PforR	11469
 M Phase	5879
+M Philippines	11922
 M Pre-paid	10822
 M Programa	4209
 M Project Water	11469
@@ -388,6 +414,7 @@ M SEK. SEK	92,1,56,65,308,2,1,195,224,212,1,2,397,1,684
 M Sanitation and Hygiene Program-for-Results Economy	11469
 M Saudi Arabians	3429
 M Segede	11289
+M Senegal W M Tanzania W	11964
 M Senior	1434
 M Senior Bond	460
 M Series	265,28,98,138,402,3,613
@@ -400,11 +427,13 @@ M Series C for MFS Africa	606
 M Setshedi	11289
 M Sierra Leone Compact	1538,1
 M Social Policy IPF	11469
+M Spain	11922
 M Strategic	1284
 M Strategic Equity Investment DFC	1436
 M Sustainable Procurement	11469
 M Syndicated Debt Facility Norfund	929
 M System Strengthening	409
+M TRANSFORME	12031
 M Tanzania	814,650
 M TechPark	2803
 M Telecom Expansion Loan Overseas Private	291
@@ -415,17 +444,19 @@ M The RAPID-CI PCU	3604
 M Total Cost	10892
 M Total Passive Income EGP	5869
 M Transmission Backbone Project	1539
+M Turkey	11922
 M U.S. Backing for Digital Sovereignty	2869
 M U.S. GRANT	10581
 M UNECA	289
 M USD	474,173,154,321,420,2919
 M USG	1167
+M Uganda W M Bangladesh W	11964
 M Ugandans	3285
 M Unique	10822
 M VC	913,221
 M VaMoz Digital	1129
 M Vodacom Tanzania	4521
-M W Base	11004
+M W Base	11004,960
 M Women	11004
 M World Bank	1584,1666,468,3989
 M World Bank-supported	7707
@@ -469,6 +500,7 @@ M. A. Kose	10997
 M. A. R	8603
 M. AMOUZOU-GLIKPA	2966
 M. AXIAN Telecom SSA	829
+M. Abbé Noel Bisibu Ntungu Representatives	11916
 M. Abdel Aziz Dahi	765
 M. Abdelkader Amara	8891
 M. Abdelkader Djellaoui	10395
@@ -501,6 +533,7 @@ M. Ahouantchédé	2915
 M. Akaya	6260
 M. Alain Kouadio	6180
 M. Alamine Khader	6275
+M. Albert Lubanzadio Kheto MEPST	11916
 M. Alberto Wenceslas Mounguengui Moudoki	2961,620
 M. Ali Gazibo Moussa	7348
 M. Ali Ghannam	8891
@@ -526,12 +559,15 @@ M. Antoine Ngom	2441
 M. Anvam	3512
 M. Aqel	5349
 M. Aristide Guy Adjinacou	4957
+M. Arthur Mputu Mutombo PROVED	11916
+M. Arthur Mutu Provincial MP for Kasaï	11916
 M. Arthur Yapo	10933
 M. Assane Gueye	2441
 M. Assets	856
 M. Athoumani Abdou Mmadi	5814
 M. Attahirou Mahamadou Maidouka	8228
 M. Audrey Alban Jean-Baptiste Mapithy-Ma-Mapithy	5079
+M. Augustin Tumba Nzuji General Secretary	11916
 M. Axian	813
 M. Azouz Nasri	6195
 M. Azzedine EL MIDAOUI	2717
@@ -541,6 +577,9 @@ M. BIALABNA Abaloutou	11645
 M. BII USD	4516
 M. BMZ	510
 M. Babić	4676
+M. Bachir SAMNA	12074
+M. Bachir SAMNA. Cette	12074
+M. Bachir Samna. Premier	12074
 M. Badaoui	6957
 M. Baddari	9080
 M. Baddari.R. S	9244
@@ -548,6 +587,7 @@ M. Bah	10718
 M. Bakary Yaou Sangaré	8584
 M. Bakary Yaou Sangaré. Auparavant	8584
 M. Bakolo. Le Président	3316
+M. Bamanga Representative Provincial	11916
 M. Bambara. Pour	2665
 M. Bara Ndao	7822
 M. Barqué	11067
@@ -561,6 +601,7 @@ M. Benguela Guidjinga	6125
 M. Benoît Wu	6280
 M. Bertrand	6948
 M. Blaise Bienvenu ALI	9277
+M. Blaise Miahumba Provincial MP	11916
 M. Boukar Michel	3799
 M. Bourita	11638
 M. Bouzred	6195
@@ -569,6 +610,7 @@ M. Bright Fiaga	9493
 M. Bruno Jean Richard ITOUA	2738
 M. Bâ	10174
 M. C	8604
+M. C. Jippe Team Member Aubain	11924
 M. C. van Schalkwyk	11028
 M. CIDR	726
 M. CRS	401
@@ -579,6 +621,7 @@ M. Chandra	10775
 M. Cheikh-Ammar	5349
 M. Cheikhna Ould Idoumou	9746
 M. Cho	5349
+M. Christian Ngobenzey	11982
 M. Christian YOKA	3326,2741
 M. Christopher Yoshida	5745
 M. Co-financiers	1405
@@ -589,6 +632,7 @@ M. Coupet	11310
 M. Covers Benin	5362
 M. Crosswalk	188,54,385,161,29,113,236,33,236
 M. Cyriaque Didier Kouma	8762
+M. Cédric Wakandwa MEPST	11916
 M. D	5349
 M. D. Alhassan	5349
 M. D. Myers	5349
@@ -635,6 +679,7 @@ M. Emile Kossi N’GUISSAN	2966
 M. Emmanuel Ouédraogo. Ces	2575
 M. Equiano	1463
 M. Escobar-Sierra	5349
+M. Ezra Simon	11916
 M. F	1828,988
 M. FIVE	501
 M. FX	63,66,67,168,498,605,698
@@ -660,8 +705,10 @@ M. GODOM OUALOU Appolinaire	9277
 M. Garcia-Escribano	1828
 M. Gassama	9715,1211
 M. Gassim Chérif Mahamat	3224
+M. Gervais Songa MoF	11916
 M. Ghislson Ngondo. Leur	1876
 M. Gilles Thierry BEUGRÉ	10182
+M. Godefroid Matondo Spokesperson	11916
 M. Grâce	9277
 M. Gutjahr. Ce	2263
 M. Guy ADOUA	7374
@@ -699,10 +746,12 @@ M. Included	46
 M. Includes MoMo	924
 M. Initial	402
 M. Isidor Diouf	2441
+M. Isla Gilmore Education Advisor	11916
 M. Ismail Omar Guelleh	4957
 M. Ismaïl Omar Guelleh	6902,4759
-M. J	1248,3428,3625,302,2,66
+M. J	1248,3428,3625,302,2,66,3256
 M. Jaap Zuiderveld	5745
+M. Jacques Tshibalanga National	11916
 M. Jaouad Chouaib	8891
 M. Jean Fructueux Bako	9717
 M. Jean Robert Hountomey	3341
@@ -713,7 +762,10 @@ M. Jean-Baptiste Ondaye	1297
 M. Jean-Marc Dewerpe	3064
 M. Johannez Klotz	6260
 M. John Abalo Takou	11067
+M. Jonathan Lelo MEPST	11916
+M. Joseph Chico Katumba	11982
 M. Joseph LÉ	10524
+M. Joseph Miwinkeu Tshiend PROVED	11916
 M. Josué Rodrigue NGOUONIMBA	2738
 M. José Barahona	8344
 M. Jovis Omondji	9721
@@ -729,6 +781,7 @@ M. Kabura	6742
 M. Kalonji	8901,1574
 M. Kalonji. Privilégier	8901
 M. Kamuleta	8345
+M. Kargougou	12068
 M. Karim Zidane	4599
 M. Kellé Zoubeyrou	4657
 M. Kemoko Dioubaté. L’événement	7902
@@ -736,6 +789,7 @@ M. Kenya DHIS2	150
 M. Kerfalla Camara	8553
 M. Kiese	7684
 M. Klarmann	9129
+M. Kokou Sefako Amelowonou Senior Education	11916
 M. Korean	850
 M. Kouamé Philippe	3376
 M. Kpowbié Akaya	6260
@@ -745,6 +799,7 @@ M. Lahcen Oulhaj	8891
 M. Lameiras	11028
 M. Landry Lingombe	8761
 M. Lange	9237
+M. Lars Udsholt Global Programme Manager	11916
 M. Laurent Munzemba	4893
 M. Liquid Telecommunications	621
 M. Loan	147
@@ -758,6 +813,7 @@ M. M. Quinlan	5349
 M. M. Tavares	11140
 M. MTN	925
 M. Ma	8022
+M. Mabiala Ma Umba Representative CSOs	11916
 M. Magdi Mohammed Abdallah Taha	4919
 M. Magloire Bawénao Adzoké	6260
 M. Magré	1876
@@ -768,27 +824,33 @@ M. Mahdi Darar Obsieh	4774
 M. Mahdi Mahamoud Goudone	3795
 M. Maidouka	8228
 M. Majeed	6948
+M. Maker Mwangu Famba Former Minister	11916
 M. Mamadou KONÉ	6883
 M. Mamadou Tangara	3967,22
 M. Mamady Doumbouya	3986
 M. Mamady Souaré	1189
 M. Mamane Alassane Ahmed	7164
 M. Mamane Laouali Abdou Rafa	7348
+M. Marcel Lungomba	11982
 M. Mashologu	11265
 M. Massaoudou Tahirou	4813
 M. Mastercard	701
 M. Mathias TRAORÉ	5304
 M. Mathias TRAORÉ. Au	5304
+M. Mathieu Mukenge MEPST	11916
 M. Mazzucato	5700
 M. McNaughton	5700
 M. Meressa	11140
 M. Meïssa Tall	2441
 M. Mfouatie	5905
 M. Michael G. Colemere	1876
+M. Michel Lumengo MEPST	11916
+M. Michel Otto Coordinator for APE APE	11916
 M. Millogo	983
 M. Mills Jr. Of NIGERIA	4302
 M. Mironov	5022
 M. Mobile and Fixed Operators	1872
+M. Modest Baloyi Provincial MP for Haut	11916
 M. Mohamed Abdallahi Ould Louly	8226
 M. Mohamed Abdessadek Essaidi	8891
 M. Mohamed Abdi	4957
@@ -842,6 +904,7 @@ M. N’GUISSAN	2966
 M. O	10865,275
 M. OHOUNSOU Sononkpon	11645
 M. OKOCHI Akihiro	8344
+M. Odia Musungayi MEPST	11916
 M. Ondele	1876
 M. Othman	5349
 M. Ouattara	3825,726,3625
@@ -854,11 +917,14 @@ M. Ousmane Thiongane	5842
 M. Ousmanou Oumara	8507
 M. Ousseini Garba Bechir	2801
 M. Ouédraogo	3825,920
+M. Ouédraogo. En	12068
 M. P	1243,7360
 M. P. Wingender	11140
 M. PROPARCO	212
+M. Papy Mangobe MEPST	11916
 M. Part	686,875
 M. Part of UNDP	951
+M. Pascal Tshimanga	11916
 M. Paul Manga	6125
 M. Pawel Tomasz CHORAZY	7660
 M. Pecho	11140
@@ -890,12 +956,14 @@ M. Reinhard Ohlig	9867
 M. Reported	1563
 M. Review	7845
 M. Richard Ndayisaba	9810
+M. Robert Mwanba MP World Bank	11916
 M. Rounded	893
 M. Ruckenstein	11028
 M. Rushwaya Chief Secretary	2779
 M. S	8603,2537
 M. S. M	8604
 M. S. Schäfer	11028
+M. SAMNA	12074
 M. SINANE	8956
 M. SORO Nongolougo	4273
 M. SSA	511,554,376
@@ -911,6 +979,7 @@ M. Sall	5156
 M. Sana	5759
 M. Sankara	4717
 M. Saïdou Sankara. Il	4717
+M. Saïp Sy Chief	11916
 M. Schief	11140
 M. Sector	1160
 M. Sector CRS	400,322,1,229
@@ -918,6 +987,7 @@ M. Sectors	1562,1
 M. Semdé. Toutefois	6889
 M. Senyuta	3616
 M. Seoulou Auger	2332,787
+M. Serge Bondedi General Secretary	11916
 M. Series B	10954
 M. Serigne Ahmadou Bamba SY	8313
 M. Serigne Ahmadou Bamba SY. C’est	8313
@@ -929,6 +999,7 @@ M. Signed	473
 M. Signed Apr	356
 M. Signed Dec	123
 M. Signed Nov	255
+M. Simon Zono PROVED	11916
 M. Sitoe	2816
 M. Smart	355,281
 M. Somé	3633
@@ -946,13 +1017,14 @@ M. Sylla	9186
 M. Sène. Par	2828
 M. Sékou KONE	11604
 M. Séraphin Ondele	1876
-M. T	8605,2525
+M. T	8605,2525,794
 M. T. Etienne	11140
 M. TLcom	296
 M. Tabati Pêhessi Francis	9898
 M. Taddeo	11140
 M. Takou	11067
 M. Tangara	4039
+M. Tanvir Muntasim Senior Education Specialist	11916
 M. Targets	188
 M. Thiaw	6882
 M. Thiongane	7501
@@ -963,13 +1035,17 @@ M. Uganda	642
 M. Unlike	7921
 M. Using	685
 M. V	1243,5,7053
+M. Valère Molomb Munsya MEPST	11916
+M. Valéry Nsumpi General Secretary TCLE	11916
 M. Viboudoulou Vilpoux	1828
 M. Vodacom	733
 M. W	899,6987,717
 M. WB	607
+M. Wali Belade MEPST	11916
 M. Wang	8605
 M. Warner	11050
 M. Warsama Mouhoumed Guireh	5993
+M. Webster	11879
 M. Willy Mulamba	9822
 M. Wojtek Piorko	8002
 M. World Bank	852
@@ -980,11 +1056,15 @@ M. Yacoub Ould Salem Vall	9867
 M. Yassine Benjelloun	8002
 M. Yayé Hassane	5170
 M. Yehouenou Nicolas Victorien Joël	8099
+M. Yoka MEPST	11916
 M. Younes Bekkar	8891
 M. Youssouf Gorou Tchaby	6125
+M. Yoyi Bokete PROVED	11916
+M. Yves Mafongo	11916
 M. Zamani	7278
 M. Zambrano Vizuete	7886
 M. Zongo	4211
+M. and Burke	12006
 M. and Lundgren	11135
 M. and Medková	8193
 M. and Stewart	11156
@@ -998,6 +1078,8 @@ M. le Président	2961
 M.' Using IFC	681
 M.- Concepto	4209
 MACALOU M	11517
+MAI-NDOMBE D E M O C	11900
+MDAs. M. INFRASTRUCTURE REQUIREMENTS	11860
 MF M	10766
 MF M Angola	10766
 MF M F	10766
@@ -1039,9 +1121,11 @@ Mitiku M	10784
 Mohamed M. Mohamed	5941
 Monrovia. Minister of Posts and Telecommunications Sekou M	3008
 Morrow M	9739
+Mr. M Mosala	12046
 Mr. M. Gasela	4263
 Mrs. Charlyne M. Brumskine	7452
 Mrs. M. Marongwe	1554
+Ms M	11980
 Ms M Kobe	11285
 Ms M Mokono Acting Chief Financial	11261
 Ms M Shabalala	11289
@@ -1052,6 +1136,7 @@ Ms. I. M. Doroh	1554
 Ms. I. M. Doroh Prof. L	1154
 Ms. Irene. M. Doroh	1554
 Ms. M. Marongwe	1554
+Mukhtar M. Sadiq Consultant	11857
 Mulaku M	10780
 Mzyece M	5242
 N M Accounting	10829
@@ -1075,10 +1160,12 @@ NM M W Figure	1154
 NORD NOU M BIEL CENTRE	10847
 Nathan M. Belete Practice Manager	1867,1695
 Nations Unies M. José Barahona	8344
+Nyathi M	11977
 Nyssen M	766
 Néonatale Santé M. Bassirou Nignan Directeur	10812
 OUB RITEN GA GOUR M	10847
 Officer Magdi M. Abdalla Taha	4898
+Ojo O. M	11860
 Olanrewaju M. Lassise-Phillips	5574
 Omar M. Health	11596
 Ou M	8460
@@ -1093,6 +1180,7 @@ Par M. DIALLO	10565
 Paul M. Love	6997
 PayPal and M	6350
 Pharmacy Technicians U.S. Mozambique Mozambique M	4260
+Philippines W M Guatemala LATIN W	11964
 Planning M	1777
 Pour M. Adoua	7374
 Pour M. Cissé	11745
@@ -1177,7 +1265,7 @@ Technical Design M N	11469
 Terrance M. Booysen	10570
 Tolani M	3791
 Toleo la M	6019
-Tomlinson M	1219
+Tomlinson M	1219,10758
 Tumusiime DK and Venkateswaran M	8376
 Turley M	3604
 Twahir M. Khalfan	11133
@@ -1189,7 +1277,13 @@ V M Secu	9123
 Vodacom M	6350
 W M ASIA Indonesia W M	11004
 W M Bangladesh W M India	11004
+W M Guatemala LATIN W AMERICA	11964
+W M India W M ASIA	11964
+W M Pakistan W M Philippines	11964
+W M Senegal W M Tanzania	11964
 W M Senegal W M Uganda	11004
+W M Uganda W M Bangladesh	11964
+W. M	12006
 Wally M. ZOUMAROU Conseiller Onésime MADODE	10821
 Web of Science Google Scholar Atari M	8460
 WilmetDramaix M. Factors	766
@@ -1199,3 +1293,4 @@ Y Y Y YM M D	11573
 Yankolina M. Tingaena	9974
 Yitayal M	3791
 Yoshimori M	5242
+Zubairu M	11860

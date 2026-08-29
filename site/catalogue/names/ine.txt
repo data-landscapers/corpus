@@ -17,7 +17,7 @@ Facility GII Gender Inequality Index GPN	10829
 GDP and Inequality Adaptation	1828
 GDPand Inequality	1828
 Gender Inequality Index	10829,757
-Gender Inequality Index UN Human Development	11004
+Gender Inequality Index UN Human Development	11004,960
 Gender Inequality Index of Cameroon	10963,1
 GmbH Human Asset Clouds&Training Inetum España	8530
 Historical Inequities	11265
@@ -36,6 +36,7 @@ INE Plano de Acção Nacional de Educação Para	10766
 INE SurFviegyuorneE2x.p1e5nd	10763
 INE Survey	10763
 INE VVN	10757
+INE and INGT	11939
 INE and National Bank of Angola	10775
 INE de Angola	11423
 INE de Luanda	5150
@@ -55,6 +56,7 @@ INEFOP Francisco Miúdo-Angop Ndalatando	10778
 INEGE	3038,1171,3839,2439
 INEGE Gastos de Funcionamiento de INEGE	4209
 INELEGIBILlDADES	11528
+INEP MTEF Allocations Programme	11890
 INES Abogado Dugan	4209
 INES Múltiples Nacional	4209
 INES Padre Sialo	4209
@@ -66,13 +68,14 @@ INES de Mongomeyen	4209
 INES de Mongomo Mongomo	4209
 INESIA	6997
 INIS Instituto Nacional de Investigação de Saúde INEMA	11376
-Ineffective	5679,5722
+Ineffective	5679,5722,465,50
 Ineffective Reference	5679
+Ineffectiveness	11986
 Inefficiencies	7751,3398
-Inefficient	1284,704,8988
+Inefficient	1284,704,8988,898,7
 Ineligibility	3714
-Inequalities	1988,8841,366
-Inequality	1264,564,2906,2098,116,2811,967,53,184,22,286,254
+Inequalities	1988,8841,366,895
+Inequality	1264,564,2906,2098,116,2811,967,53,184,22,286,254,330
 Inequality Productivity	1828
 Inequitable	3861
 Inequities	10775
@@ -95,6 +98,8 @@ Inezincwadi	11551
 Instituições de Ensino Superior INE	11387
 Institutional Inertia	11265
 Instituto Nacional de Emergência de Angola INEM Instituto	11376
+International Financial Reporting Standards INE	11955
+Internet and Social Inequality	11879
 Lere Olayinka INEC Data Leak Investigation	7176
 MINPLAN and ICNE. INE	10775
 Mozambique INE National Statistics Institute INGD	4214
@@ -104,7 +109,7 @@ O INE	6461,2240,2056,1,663,1,1,23,3,67,61
 O INECV	5578
 Official INEC	3154
 Operational Inet Communications Limited Mob	3386
-Peace WID.World World Inequality Database FH	10835,3,130
+Peace WID.World World Inequality Database FH	10835,3,130,902,16
 Politics of Inevitability	7857
 Poverty and Inequality Statistics	11237
 President of INE	7702
@@ -113,11 +118,11 @@ Provision of Adequate Technical Support INEC	10049
 REMPE INE	10757
 RGÃOS DELEGADOS DO INE Artigo	11516
 Recognised By INEC	2355,176,4,1,56,3,339,96,901,1006,1761,673
-Reduced Inequalities	3745
+Reduced Inequalities	3745,8110
 Reduced Inequalities Goal	11332
 Reducing Inequality	970
 SPE GRH GTIC INADE INE INEE	10766
-Socioeconomic Inequality Mitigation	10759,76,2,1,130
+Socioeconomic Inequality Mitigation	10759,76,2,1,130,902,16,1,1,1
 Socioeconomic Inequality Mitigation Decent Housing Food	10837
 Southern Center for Inequality Studies	8515
 State of Educational Inequality	10831
@@ -128,5 +133,6 @@ Urban Inequality	11285
 Urban Inequality Must	11285
 VII. Inequity	6832
 WB ESHGs and Good Inequality	1988
-WID.World World Inequality Database WJP World	10759,78
+WID.World World Inequality Database	11887
+WID.World World Inequality Database WJP World	10759,78,1052
 World Bank. Poverty and Inequality Platform	11417

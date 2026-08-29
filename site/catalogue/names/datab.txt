@@ -40,13 +40,17 @@ DCAF Legal Databases	0
 DHIS2 Database Responsibility for Data Collection	11417
 DataBank	10714
 DataBreachToday	3279
-Database	7,963,543,3163,989,758,9,1556,1682,1044,415,636
+DatabankWide.xlsx	11960
+Database	7,963,543,3163,989,758,9,1556,1682,1044,415,636,92,3,63,29
 Database Administration	9437
 Database Administrators	6832
 Database ID	6423
 Database Maintenance	11129
 Database Management	11129
 Database Management Department	7159
+Database Manager	11860
+Database Managers	11860
+Database Managers and Analysts	11860
 Database MySQL	2674
 Database Schema	6423
 Database Size	9124
@@ -64,8 +68,10 @@ Development and Management of Database	1512
 Diagram DATABASE	6423
 Disaster Risk Management Emergency Events Database	10763
 DisclaimerThe Treaty Body Database	11765
+EMIS Database	11860
 EXECUTIVE SUMMARY The Global Findex Database	10977
 Emergency Events Database	10763
+Executive Order IN-4 Establish CNI Database	11857
 Export Import Database	11579
 Extent Databases Contain Sufficient Information	11233
 External Data Sources DIMAMO Operational Database	8604
@@ -77,9 +83,10 @@ GSMA Tax Database. Côte	10932
 Global Electrification Database	11572
 Global Emerging Markets Risk Database	11310
 Global Emerging Markets Risk Database Consortium	11310
-Global Findex Database	940,4625,974,4175,108,19,136,161
+Global Findex Database	940,4625,974,4175,108,19,136,161,822
 Global Household Energy Database	11572
 Global Innovation Index Database	10846
+GovTech Projects Database	11867
 ICASA Database	11259
 ICT Indicators Database	1248,8511
 ICT Regulatory Database	11529
@@ -88,10 +95,11 @@ ID4D Global Database	10714
 ID4D Global Database Volume	10714
 ID4D- Global Findex Database	10714
 ID4D-Global Findex Database	10714
+IN-1 Develop CNI Database	11857
 IRENA Public Investments Database	11572
 Incident Database	9968
 Indonesia’s Unified Database of Beneficiaries	11133
-Industrial Statistics Database	10969
+Industrial Statistics Database	10969,926
 Infrastructure and Database	11129
 Intelligence Database	1000
 Investments AVCA’s Venture Capital Database	4972
@@ -101,14 +109,18 @@ Mongolia's Integrated Household Information Database	11133
 Multilateral Surveillance Mechanism Database	7
 Multiple Databases	6423
 NEWS SMS DATABASE	11251
+NUMBEO Database	11863
 National Address Database	11129
 National Addressing Database	11129
 National Database	5920,4360
+National Education Database	11860
+National ID Database	11960
 National Identity Database	4602,972,1567,3,1970,556
 National Identity Database. Under DG Abisoye	3703
 National Identity Management Database and Immigration	7914
 National Research Database System National Research	1554
 National Research Database of Zimbabwe	1554
+Nigeria Police Crime and Incident Database Centre	11928
 OECD Family Database	8891
 Open Data Commons Open Database License	1232,1026
 Open Database License	1984
@@ -119,8 +131,9 @@ PHYSICAL ADDRESSES IN DATABASE	11211
 Pakistan's National Database and Registration Authority	2274,5,2413
 Pakistan’s National Database and Registration Authority	10521
 Passport Database	10714
-Peace WID.World World Inequality Database FH	10835,3,130
+Peace WID.World World Inequality Database FH	10835,3,130,902,16
 Personal Records Database	10714
+Pharmaceutical and Food Legislation Database	11939
 Population Database	10714
 Project. Quarterly PBF Database Patient	10829
 Project. Quarterly PBF Database Routine HMIS	10829
@@ -139,6 +152,7 @@ TERRORISTS WITH NIMC DATABASE	6871
 Tanzania National ID Database	10714
 TiVa Database	8891
 TiVa Database Graphique	8891
+Transaction Database	11952
 Turkmenistan Database	10714
 UN Treaty Body Database English	11765
 United Nations Comtrade Database	10969
@@ -146,8 +160,11 @@ VRR Togo DGDN Database	10714
 Voter Turnout Database. Retrieved	10714
 WDI and Informal Economy Database	10997
 WEO Database	11581
-WID.World World Inequality Database WJP World	10759,78
+WID.World World Inequality Database	11887
+WID.World World Inequality Database WJP World	10759,78,1052
+WIPO Statistics Database	11883
 World Bank DataBank	11004
+World Bank Database	11863
 World Bank Global Findex Database	1828
 World Bank Global Findex Database and IMF	1828
 World Bank Group DataBank	10768

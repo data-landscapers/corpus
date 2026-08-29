@@ -15,6 +15,7 @@ Alignment Alignment SDGs Area	970
 All SDPs	1212
 BIO SDG	820
 Business Register SDG Sustainable Development Goals	2775
+C- Universal Access SDG	11863
 C. Sdralevich	1828
 CDN and SDN	8130
 CENTRAL NYANZA CONFERENCE OF SDA Data	7167
@@ -23,6 +24,7 @@ Cloud Adoption Committee Entities GCSPs SDICT&DE	6432
 Concentrix CVG Malaysia Sdn. Bhd Data	7167
 DHIS2 SDG	6048
 Development Goal SDI Service Delivery Indicator	11560
+Development Goals SDGs Statement of Expenditures SOE	11855
 Drawing Rights SDHUD State Department for Housing	2775
 EAC SDMX	8527
 ENERGY EFFICIENCY SDG	11572
@@ -43,10 +45,12 @@ INCM WordPress SDM	6970
 Infrastructure Act SDIP Service Delivery Implementation	11261
 Infrastructure SCM Supply Chain Management SDF	11261
 Institutions SDG Sustainable Development Goal SOE	11192
+Joint SDG Fund	11982
 June. Beyond the SDID	5596
 Le SDR	3875
 Le SDS	10874
 Le SDSI	10858
+MB SDM and MB ABIS	11859
 MDX QRPHDGR SDUD H	11530
 MTN SDIA	3897
 Management SDIP Service Delivery Improvement Plan	11224
@@ -57,6 +61,7 @@ NBFIs NPLs SACU SADC SDRs SME	11131
 NHC and SDUHD	2775
 NHI. The SDG	396
 NSDD SDMX	10874
+National Treasury's SDF. Indicative Phase	11940
 National Treasury’s SDF	8817
 Nombre de SDAGE	3396
 OUTLOOK FOR SDG	11572
@@ -82,11 +87,12 @@ RS SDMX-HD Submit	1009
 RTGS Real-Time Gross Settlement SDM Single	1264
 Readiness Assessment SDG Sustainable Development Goal	10829
 Recouvrer SDSI Schéma Directeur du Système Informatique	10712
-Refugee Affairs SDG Sustainable Developmental Goals	5533
+Refugee Affairs SDG Sustainable Developmental Goals	5533,6453
 Republic of South Sudan. SDGs	3583
 Ressources Humaines du Marché SDAAB	10975
 Risk Communication and Community Engagement SDGs	10776
 Rural Electrification Authority SDA Strategic Development	1867
+SADC Southern African Development Community SDGs	11960
 SCD Systematic Country Diagnostic SDG Sustainable	11549
 SCM Supply Chain Management SDIP Service	11218
 SD Bioline Malária Ag. P	10777
@@ -112,7 +118,7 @@ SDG Contract	789
 SDG Digital Investment Framework	3731
 SDG Digital Investment Framework. A Whole-of-Government	396
 SDG Impact Investment Facility	9873
-SDG Index	10759,76,2,1,74,56
+SDG Index	10759,76,2,1,74,56,902,16,1,1,1
 SDG Investment	1064
 SDG Investor Maps	11356
 SDG PF	4349
@@ -176,10 +182,13 @@ SDN MDG SOM COM Low	6593
 SDNA3WBSM-VdOrj02IWdoWCpXGkuHp	4563
 SDNEA2024001.ashx	11140
 SDR SDR	969
+SDR SDR0.72352	11855
 SDR Special Drawing Rights SEA Sexual	10829
 SDR. Page	2989
 SDR0.76046 FISCAL YEAR	1264
+SDR1 FISCAL YEAR	11855
 SDR37	1228
+SDR7.3 MILLION	11855
 SDRTGRT	10975
 SDS-5	10874
 SDS4D	6903
@@ -192,6 +201,7 @@ SPACE APPLICATIONS TOWARDS ACHIEVEMENT OF SDGS	1131
 SRUDULDPHQWH XPD REUD SDUD	11527
 ST R&D SDGs SGCI SOPs STI	1154
 SdeRciusrkitAysasnedsRsmiskenAtssessment	10157
+SdouutchaAtiofrnic	11885
 Sduga	6591
 Sdumo Mtshali	10481
 Service des Affaires Juridiques SDAFT	10975
@@ -201,6 +211,7 @@ Sous-Direction des Ressources Humaines SDRDC	10975
 Southern African Development Community SDG Sustainable	1243
 Spatial Development Framework SDI Spatial Data	11261
 Statistique SDSI	10874
+Strategy Paper SDG Sustainable Development Goals	11863
 Supply Chain Management Division SDR Special	1264
 Supply Chain Management SDI Special Dwelling	11192
 Supports SDG	2772
@@ -215,8 +226,9 @@ UN Global Compact SDG Innovation Accelerator	8035
 UN Joint SDG Fund	1073
 UN Joint SDG Fund European Commission	1073
 UN SDG	2829
-UN SDGs	7204,3387
+UN SDGs	7204,3387,1266
 UN SDGs Good	7204
+UNESCO SDG	11918
 Union SDIA Spatial Data Infrastructure Act	11196
 Urban Agenda and SDG	11285
 Veille Technologique SDSIR	10975

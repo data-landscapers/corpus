@@ -38,6 +38,7 @@ Beneficial Owner Register for Partnerships	11276
 Beneficial Owner Workpage	11276
 Beneficial Owner Workpage. Click	11276
 Beneficial Ownership	170,11080
+Beneficial Ownership Declaration	12041
 Beneficial Ownership Disclosure Form	7951,215
 Beneficial Ownership Information	11277
 Beneficial Ownership Register	7845
@@ -55,6 +56,7 @@ COMPANY'S OWN ANNOUNCEMENT	9098
 CRA Gazettes Standards and Guidelines for County Own-source	9939
 CS Owalo	1236,2739
 Calculate Total Cost of Ownership	6432
+Central Bank of Nigeria Ownership	12000
 Certificates of Customary Ownership	1391,8336
 Charge of Reforming Publicly Owned	1284
 Charles Owino	7441,192
@@ -71,12 +73,14 @@ Cost of Ownership TLS Transport Layer	6432
 Critical Infrastructure Owner	7538
 Customers Are Transferring Their Own Funds	6362
 Damola Owolade	6720
-Data Owners	6423
+Data Owners	6423,5518
 Data Ownership	3972,1948
+Data Ownership and Exit Strategy	11995
 Data Ownership. The U.S. Government	4154
 Definitions FEATURE PHONE OWNER	11004
 Demographic Patterns of Account Ownership	1828
 Deputy Majority Leader Owen Baya	7000
+Develop the Bring Your Own Device	11986
 Dieudonné Aba’a Owono	11049
 Digital Autonomy and Ownership	4430
 Digital Ownership Creating	7337
@@ -84,6 +88,7 @@ Digital Technology Eliud Owalo	1245
 Disclose Beneficial Owners	6698
 Doctor Salomón Nguema Owono	9303
 Dr. Owiso Owiso and Ashioya Biko	9645
+Dr. Tayo Owolabi	11968
 Dr.Samuel Owinga Data Processor INST-670435AF585 NAIROBI	7167
 Econet Land Nkayi Switch Owned Switch	4896
 Economic Identities for Small Business Owners Insights	10819
@@ -92,15 +97,18 @@ Elhanan Owureku Asare	7114,48,2372
 Eliud Owalo	1236,9
 Equity Ownership	11235
 Exclude Rural Communities and Young Women OWN	11677
+FEATURE PHONE OWNER	11964
 Facilities Finance Business Unit Owner N	9124
 Financial System of Its Own	9593
 First Street EWZL Owned Shop N	4896
 Formal Account Ownership	11138
 GB Night Owl Bundle	11259
+GENDER GAP IN MOBILE OWNERSHIP	11902
 GENDER GAP IN MOBILE OWNERSHIP Urban	11004
+GENDER GAP IN SMARTPHONE OWNERSHIP	11902
 GENDER GAP IN SMARTPHONE OWNERSHIP Urban	11004
-GENDER GAP SMARTPHONE OWNERSHIP	11004
-GENDER GAPS IN MOBILE OWNERSHIP	11004
+GENDER GAP SMARTPHONE OWNERSHIP	11004,960
+GENDER GAPS IN MOBILE OWNERSHIP	11004,960
 Godavery Pension Owned Com- N	4896
 Gokwe Stand EWZL Owned Vacant Shop	4896
 Government Owned Cloud	6432
@@ -145,6 +153,7 @@ Kenya Bodaboda Riders and Owners Association	10313
 Kwekwe EWPL Owned Vacant Shop	4896
 Kwekwe Mars Owned Vacant Mars Base	4896
 LANDLOCKED DEVELOPING COUNTRY MOBILE OWNER	11004
+LIABILITIES OWNER EQUITY Capital	11955
 Landing Ceesay Owned	6226
 Lead Its Own Financing	5913
 Licensed Network Owned	736
@@ -155,8 +164,9 @@ Local Ownership Rule for Telcos	3003,962,1438,1506
 MAIN DUTIES AND ACCOUNTABILITIES Own	11803,2
 MAIN DUTIES AND ACCOUNTABILITIES Own the AWS	11804
 MARKET SHARE OF OWNERSHIP	3862
-MOBILE MOBILE INTERNET SMARTPHONE OWNERSHIP ADOPTION	11004
-MOBILE OWNERSHIP	11004
+MOBILE MOBILE INTERNET SMARTPHONE OWNERSHIP ADOPTION	11004,960
+MOBILE OWNER	11964
+MOBILE OWNERSHIP	11004,960
 Majority Owner	10425
 Majority Party. Hon. Owen Baya	10313
 Marondera EWZL Owned Shop N	4896
@@ -186,6 +196,7 @@ Nana Owusu-Marfo	10117
 National Cybersecurity Agency By Ronald Owili	11675
 Nemanwa EWZL Owned Vacant Shop Stand	4896
 Nkayi EWPL Owned Vacant Shop Econet	4896
+NonVisual Desktop Access OWASP Open Web	11952
 Novatek Fintech Owned Offices N	4896
 Nyabira Pension Owned Vacant Residential	4896
 OE Owner	11380
@@ -194,18 +205,21 @@ OWASP	7283,1141,15,1164,1118,544
 OWASP Application Security Verification Standard	5665
 OWASP Compliance Security	5665
 OWASP MASVS	10721
-OWASP Top	5665,3938
+OWASP Security Standards	11952
+OWASP Top	5665,3938,2349
 OWH SE	1829
 OWLPRESS Fintech Firm Open Hub Launches	5939
 OWLSORV FRQÀLWRV HPHUJHQWHV GR DFHVVR H	11527
 OWN English	8219
 OWNED	4896
-OWNERSHIP	11004
+OWNER Slower	11863
+OWNERSHIP	11004,960
 OWNERSHIP A Assess Continental Ensure	961
 Optimized Beneficial Ownership Declaration Functionality	11219
 Orange Money By Owl	7777
 Owalo	1245
 Owalo. The Mombasa	1236
+Owede Agbajileke	11985
 Owen Baya	10313
 Owen DeLong	7437
 Owen Odia	9955
@@ -223,6 +237,8 @@ Owned Entity SONA State	11250
 Owner	587,10601
 Owner Cybersecurit	6432
 Owner Degrees Minutes Seconds East	736
+Owner Equity	11955
+Owner Equity and Liabilities	11955
 Owner Own	582
 Owner Pre-registered	582
 Owner of Critical Infrastructure Any	7538
@@ -231,8 +247,9 @@ OwnerLand Describes	11180
 Owners	4676
 Owners and Operators	1000
 Owners and Operators CII	1000
-Ownership	582,2193,387,421,270,119,704,1076,669,2,142,56,319,397,184,238,2406,530,282,152,106,375
+Ownership	582,2193,387,421,270,119,704,1076,669,2,142,56,319,397,184,238,2406,530,282,152,106,375,247
 Ownership Chinese	4563
+Ownership Data Standards	12050
 Ownership Dilemma Despite	2515
 Ownership Documents	2775
 Ownership Economy Underlying	7337
@@ -240,11 +257,15 @@ Ownership GOK	6432
 Ownership Indicates	11180
 Ownership Regulations	11235
 Ownership Requirements for Licences	6621
+Ownership Structure	11955
+Ownership Structure Banco de Cabo Verde	11955
 Ownership Type	10718,462
+Ownership and Confidentiality All	12008
 Ownership and Control	11235
 Ownership and Economic Interest	4896
 Ownership and Location	6432
 Ownership and Tier	10721
+Ownership of Data	11956
 Ownership of SIM	582
 Ownership of SIM Cards Multiple SIM	582
 Owner’s Authority Yes No Site Owner	736
@@ -256,8 +277,10 @@ Owona Wolfgang Fernand Jr.Article	6420
 Owono	9156
 Owureku Asare	9075,459
 Owusu	8724,2039
+Owusu Danquah	12090
 Owusu SA	1219
 Owusu-Ansah	8022
+PHCs. Dr. Owolabi	11968
 PRINCIPAL IMMOVABLE PROPERTY OWNED AND LEASED	4896
 PROMOTION OF EMERGING BLACK OWNED SERVICE	11209
 PUBLISHER'S OWN FILE	573
@@ -281,9 +304,9 @@ Ruwa Stands Pension Owned Vacant Residential	4896
 S1.1.3 Ownership of ID	10977
 SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS	7198
 SIM CARD OWNERSHIP AND USAGE	582
-SMARTPHONE OWNER	11004
+SMARTPHONE OWNER	11004,960
 SMARTPHONE OWNERSHIP Across LMIC	11004
-SMARTPHONE OWNERSHIP Across LMICs	11004
+SMARTPHONE OWNERSHIP Across LMICs	11004,960
 SOC State Owned Company SOE State	11250
 SOCIETY NMB PEOPLE'S OWN SAVINGS BANK	11002
 SOE State Owned Enterprise SSA Sub-Saharan	11545
@@ -295,9 +318,11 @@ Save the Beneficial Owner Register for Partnership IT3	11276
 Secrets Manager. Own	11804
 Securities Ownership	7198
 Senator John Owan Enoh	7141
+Service Providers and State Owned Corporations	11854
 Solomon Owusu	11149
 Stanley House EWZL Owned Guest N	4896
 State Owned	11224
+State Owned Corporations	11854
 State Owned Enterprise	1282,8875,1083
 State Owned Enterprise Sub-Saharan Africa	10157
 State Owned Enterprises	789

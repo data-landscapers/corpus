@@ -1,4 +1,4 @@
-A. B	8301,2964
+A. B	8301,2964,662
 AFRINIC's Legal Counsel B. Radhakissoon	9612
 AI B- Legal	7548
 AI and B-	7548
@@ -6,9 +6,9 @@ AI and B- Kenya	7548
 AIDS and Hepatitis B	11417
 ANEXO B	11406,50
 ANNEX B	3861,3337
-ANNEXURE B	5533
+ANNEXURE B	5533,6453
 ANSWER PART B	11240
-APPENDIX B	11129
+APPENDIX B	11129,728
 APPENDIX B Table	3862
 Abdul B. Kamara	5351,4871
 Abdul B. Kamara and Jules Tapsoba	5351
@@ -20,16 +20,17 @@ Administrador Grupo B	4209
 Agentes de Desarrollo. B	1701
 Airtel Congo B	5915
 Alagie B. Sowe	7823
+Alínea B	12018
 Ambassador Innocent B. Muhizi	5596
 Annex B	7850,1089,691,1084,419
 Annex B Initial	11133
 Annexe B	748
 Annexes A and B	2957,4241
-Annexure B	1900,6940,2400,18,1
+Annexure B	1900,6940,2400,18,1,693,34
 Anthony B Turner	10764
 Antigénio Central da Hepatite B Antirretroviral Bacille	10777
 Antigénio de Superfície da Hepatite B Haemophilus Influenzae	10777
-Appendix B	236,1012,2614,666,1914,696,13,115,3751,112
+Appendix B	236,1012,2614,666,1914,696,13,115,3751,112,961
 Appendix B Appendix B	11129
 Appendix B Summary	10977
 Appendix B User Acceptance MINISTRY	34
@@ -45,12 +46,14 @@ Asesor Grupo B	4209
 Asesor Grupo B Servicio	4209
 Audit B. Project Components	11417
 Average Series B	4972
+Ayemoba B	11860
 B AI and Cloud Expansion	2523
 B ASOTHO	7898
 B AUM	4722
 B Africa	1174,5735
 B Africa Cloud Push	6909
 B Appeals	11177
+B B.1 Pessoa Singular	12018
 B BBEE	11235,5
 B BBEE Strategy	11235
 B BRAUN MEDICAL KENYA LIMITED Data	7167
@@ -71,6 +74,7 @@ B Corps	9079
 B Cutting-Edge Green Data Center	1722
 B Cyber-bullying	972
 B Deka	11289
+B Digital Plan	12035
 B Digital Strategy	3306
 B Director Grupo B Director Nacional	4209
 B Dynamic F	736
@@ -83,6 +87,8 @@ B Establish	961
 B Establishment of Cyber Security Committee	972
 B Expedited	972
 B Exposing	972
+B Flyer Sydonia World Flyer Franquia	12018
+B Formulário Mod	12018
 B IKHASI	11573
 B In Strategy and Design	11006,1
 B Included	34
@@ -107,11 +113,14 @@ B Programa de Mantenimiento	4209
 B Programa de Profesionalización	4209
 B Programa de Reforzamiento	4209
 B Programa de Reforzamiento Institucional	4209
+B REMPE Regime Contactos TACs Declaração	12018
+B RESULTS MATRIX UNIT BASELINE TARGET	11863
 B RWF	898
 B Satellites To Expand Broadband	10699
 B Satisfactory C Average D Unsatisfactory	5679
 B Satisfied C Moderately	5679
 B Series B	4972
+B Significant Focus	11867
 B Significant GovTech Maturity C Medium	10785
 B Smart Traffic Project	9647
 B Spouse	11177
@@ -165,6 +174,7 @@ B- Vodafone B- Using	582
 B- WhatsApp C- Instagram C- Cost	582
 B- Work A- MTN R ALLOWED	582
 B. A	1243,4457,2601,3284
+B. ACHIEVEMENT OF PDOs	11924
 B. AU TITRE DE LA PRIMATURE	7670
 B. AU TITRE DU MINISTERE	8321
 B. Access	5676
@@ -174,6 +184,7 @@ B. Ainslie	6305
 B. Antitrust Formation	5773
 B. Any	11551
 B. Appeal	7845
+B. Application	12047
 B. Assistance	613,5017
 B. Audit	7845
 B. Benchmark	1218
@@ -182,12 +193,15 @@ B. Broadcasting Sector Radio	2022
 B. Building the Foundations	11140
 B. C	10726,409
 B. CBDC	11821
+B. COMMITTEES ON EMIS The National	11860
+B. CONDITIONS ASSOCIATED WITH BANK’S INTERVENTION	11863
 B. CPF Outcomes and IDA21 Policy Commitments	11469
 B. CURRICULUM VITAE	962
 B. Carter	6947
 B. Chen	11140
 B. Chronic	3583
 B. Composition of NFGC	7845
+B. Conditions Associated	11863
 B. Consumer Consultation	5676
 B. Consumer Consultation NRAs	5676
 B. Contents	1638
@@ -195,21 +209,24 @@ B. Countries	1548,2
 B. Creating	4848
 B. Crianças	10777
 B. D	8603
+B. DOI	12090
 B. Data	5773
 B. De Cleen	11028
 B. Desk	10764
+B. Disclosure and Compliance Monitoring	11863
 B. Discover	7015
 B. Dossou	11140
 B. Durakovic	7886
 B. Duties	7845
 B. E	7886
+B. ENVIRONMENTAL AND SOCIAL SAFEGUARDS	11863
 B. En	6241,4018
 B. Endemic	3583
 B. Estimated	837
 B. Estimating The Tax Gap	1828
 B. Evaluation	822
 B. F	8604
-B. Fiduciary	969,295,603,1737,2935,4229,196,416,169,11
+B. Fiduciary	969,295,603,1737,2935,4229,196,416,169,11,295,50
 B. Fiduciary Financial Management	11417
 B. Filing	7845
 B. Financial Management	1284
@@ -221,10 +238,13 @@ B. Golshan	7759
 B. INDUSTRY FINANCIAL REPORT	3862
 B. Identity Infrastructure	11138
 B. International	3583
+B. Interpretation	11995
 B. Introduction and Context Country Context	1704,587,1165,7507
 B. Irrespective	4610
 B. Itoro Bassey	11140
 B. K	7886
+B. KEY FACTORS DURING IMPLEMENTATION Factors	11924
+B. KEY OUTPUTS Objective	11924
 B. Kimani	11140
 B. Komolafe	10
 B. Lee	11050
@@ -240,16 +260,18 @@ B. Microfinance	613
 B. Mission	10914
 B. Mobile	5872
 B. Mobilisation	822
+B. Modelo	12018
 B. Noma	11551
 B. Non-oil	3583
 B. Objectivos de Desenvolvimento	11441,1
 B. Operating Limits for Non-Account Based Payment	5687
 B. Order State	5692
 B. Outside of AI	10954
+B. PROCUREMENT	11863
 B. Pace of Adoption Policies	11140
 B. Page	940
 B. Pandey	6948
-B. Parent Project Description and Current	1284
+B. Parent Project Description and Current	1284,10681
 B. Park	11140
 B. Partial	11821
 B. Patent	7845
@@ -258,8 +280,9 @@ B. Policy	4214,6642
 B. Policy Options for Developing Climate Change	1828
 B. Powers	5700
 B. Private Wealth Management Licence Notwithstanding	7845
+B. Program Description	11905
 B. Project Beneficiaries	11525
-B. Project Components	969,295,603,1737,2935,4229,61,135,416,169,11
+B. Project Components	969,295,603,1737,2935,4229,61,135,416,169,11,295
 B. Project Components Component	10768
 B. Project Components Table	10829
 B. Project Cost and Financing	11525
@@ -272,15 +295,19 @@ B. Recommendations	3583
 B. Record	7845
 B. Recruitment	7845
 B. Results Monitoring and Evaluation	11525
-B. Results Monitoring and Evaluation Arrangements	969,295,603,1737,2935,4229,61,135,416,37,132,11
+B. Results Monitoring and Evaluation Arrangements	969,295,603,1737,2935,4229,61,135,416,37,132,11,295
 B. Right	3583
 B. Rowan	5349
 B. S	5349,3255
+B. SECTOR AND INSTITUTIONAL CONTEXT	11863
 B. SHAREHOLDING DETAILS Certi	4896
+B. SIGNIFICANT CHANGES DURING IMPLEMENTATION	11924
 B. SSA	1142
+B. STAFF TIME	11924
 B. Secteur	998
+B. Sector and Institutional Context B.1 Cabo	11863
 B. Sectoral	11549
-B. Sectoral and Institutional Context	969,295,603,1737,2935,4229,61,135,416,37,108,35
+B. Sectoral and Institutional Context	969,295,603,1737,2935,4229,61,135,416,37,108,35,295,50
 B. Sectoral and Institutional Context Public Financial	969
 B. Sectoral and Institutional Context Sectoral	11560
 B. Sectoral and Institutional Context Social Safety	10964
@@ -300,7 +327,8 @@ B. Suivi	10975
 B. Supriyono	4432
 B. Sécurité	7977
 B. T	3782
-B. Technical	2889,8636
+B. THEORY OF CHANGE	11863
+B. Technical	2889,8636,440
 B. Temporary	7845
 B. Tenderers	11240
 B. The Department	11230
@@ -310,6 +338,7 @@ B. The OECD	11233
 B. The Potential Role of Renewables Renewable	11140
 B. The Recent Seasonal Rainy Season	1828
 B. The South Asia	10785
+B. Theory of Change	11863,42
 B. Unlocking	1828
 B. Updates	2626
 B. Vasconcellos	5700
@@ -317,6 +346,9 @@ B. W	5349
 B. What Has Been Done So	1828
 B. Where Does Congo Stand	1828
 B. and H.-A. Satti	6947
+B. and Lee	12090
+B. and Osburn	12090
+B. and Woolgar	12090
 Balcha B	3791
 Barry B	10784
 Board. Sub-Part B	7845
@@ -330,8 +362,14 @@ COMPANY TABLE B	3714
 CONGO B. The Recent Seasonal	1828
 CONGO B. Where Does Congo	1828
 CONTENTS PART B	11218
-Category B	7695
+Cabo Verde B	11867
+Cabo Verde. B. Escopo de Trabalho Espera-se	11898
+Cabo Verde. Group B	11867
+Categoria B	12018
+Categoria B Integra	12018
+Category B	7695,4173,92
 Cell No. Part B	11276
+Cenário B. Emissão	12018
 Chiluba B	3791
 Christian YOKA B	6589
 Civil and Political Rights.31 B. International	3583
@@ -344,12 +382,14 @@ Comisario Grupo B	4209
 Component B	5370
 Componente B	11416
 Composante B	5370
+Constitutional Part B	11986
 Cordinador Grupo B	4209
 Corporate Social Responsibility Kathieno B Self	6946
 County B- Government AI	7548
 County Technologies B- Connectivity	7548
 Courier New OCR B	11129
 D. B	8603,68
+D. B. and Ermon	12006
 DEMOGRAPHIC INFORMATION SECTION B	582
 DIGITALIZATION LIFE CYCLE Strategy B and Design	11007
 Data Protection Act. B. Right	1630
@@ -375,20 +415,23 @@ Emerging B- Weighting	7548
 Envelope B	7368
 Especialista Grupo B	4209
 Estado. B	4209
+FCC B	11857
 FIDO Fintech Digital Credit Series B	1472
 FIDO's Series B	1472
 Fase B	1701
 Fekadie B	10784
-Figure B	11250
+Figure B	11250,812
 Form B	5687
 G A B C D	236
 G. B. Davis	5349
 GB B G G	11259
 GhIPSS CEO Clara B. Arthur	6097
+Ghana B	11867
 Ghana. Appendices A and B	236
+Glossary Annexure B	11952
 Gozem Series B	2135
 Grade B	5134
-Group B	4612,6173,446
+Group B	4612,6173,446,636
 Groups A and B	10785
 Grupo B	4209
 Grupo B Especialista Grupo B Inspector	4209
@@ -464,23 +507,25 @@ National Technologies B- Annual	7548
 Node B	6728
 None B- Send	582
 O B- Entertainment	582
+O. B	11927
 OPPORTUNITY The B Strategy and Design	11006
 Online Annex B	8436
 Option B	6748
 Ouest B	8321
 P. B	5700,1132
 PAIX Data Centers Series B Equity	811
-PART B	3714,1182,637,5662,2,1,42,10,11
+PART B	3714,1182,637,5662,2,1,42,10,11,725
 PART B IN THE DISTRICT COURT	7845
 PART B PERFORMANCE INFORMATION	11224
 PERFORMANCE INFORMATION B AUDITOR-GENERAL’S REPORT	11198
 PERFORMANCE INFORMATION Figure B	11250
 PERFORMANCE INFORMATION Table B	11250
+PNFS. B. ENVIRONMENTAL	11924
 PREVALÊNCIA DO VIH E HEPATITE B	10777
 Panel B	7886,3424
 Panel B Public	11135
 Parliament B	5533
-Part B	1679,309,1595,131,1182,637,1388,924,3395,10,26
+Part B	1679,309,1595,131,1182,637,1388,924,3395,10,26,631,79
 Part B Insert	3714
 Part B Inspection	11181
 Part B Judgment	11181
@@ -498,8 +543,10 @@ Powers B	8460
 Pre-Series B	4883
 Presidente B. Maria	10770
 Price Proposal Requirement Annexure B	11240
+ProGrant. B. Procurement Procurement	11863
 Production Airtel A B C D	236
 Prof. Alex B. Makulilo	7258
+Program. B. Results Monitoring and Evaluation	11905
 Purpose of Chapter Part B Fixed	11181
 R. Wodak and B. Forchtner	11028
 Regulations. B. THE PARTIES	5113
@@ -513,6 +560,7 @@ SOSTENIBLE B	1701
 STRATEGIC FOCUS PART B	5533
 Sabi Series B	1138
 Scale B. TWALA M L Judge	2307
+Schedule B	11995
 Schreurs B	10780
 Secretario Grupo B	4209
 Section B	582,7263
@@ -553,11 +601,13 @@ Townsend B	5242
 Track B	7685
 Translation Part B Reportable	11181
 Twiga Foods Series B TLcom Capital	296
+Unified Social Registry B. Project Components	11855
 Universal Services Provider Class B	736
 University B	8022
 Uppe B	2776
 VC Prof. Alex B. Makulilo	7258
 Virginie B. Zoubere	10864
+Volet B	12043
 Vírus da Hepatite B Vírus da Imunodeficiência Humana	10777
 YEARS PART B TERMS AND CONDITIONS	11240
 Yakob B	3791

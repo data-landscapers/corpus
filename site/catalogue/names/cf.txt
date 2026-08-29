@@ -9,9 +9,9 @@ CEC CEC CFL CNEPT DME DNASE	10766
 CF Mounana	10036
 CF and OR for Mozambique	771
 CF&start	4127
-CFA Franc	10841
+CFA Franc	10841,1064
 CFA Franc FCV Fragile	969
-CFA Francs	7958,3595
+CFA Francs	7958,3595,371
 CFA du Pandemic Fund	8636
 CFA-franc	9593
 CFA. Article	1801,5545
@@ -20,7 +20,7 @@ CFA. C'est	2014
 CFA. Ce	1684,1642
 CFA. Ces	10576
 CFA. Dans	1955
-CFA. En	1231,570,8745
+CFA. En	1231,570,8745,1304
 CFA. Huit	10576
 CFA. Il	1281,9431
 CFA. La Gendarmería Nacional	11633
@@ -164,9 +164,11 @@ CFPNBUH	6954
 CFPRNB	6954
 CFR Certificat Foncier	10876
 CFRSP	11599
+CFT AML	11861
 CFT BCM BIS CAR CBE CBDC	11134
 CFT Bill	2193
 CFT CBS CIF EA EAC EMDEs	11136
+CFT Compliance Financial Institutions	11861
 CFT Onsite Inspections. Enhanced AML	11134
 CFT Regulations	4848
 CFTC Chief Executive Officer	3288
@@ -247,6 +249,8 @@ Francs CFA. Ce	8636
 Francs CFA. Ces	5740
 Francs CFA. Nous	1806
 French-controlled CFA	4127
+HRM&D and CFO	11986
+HRM&D and CFO Q1	11986
 ICT CFT	899
 Informal Sector CFAF Establishments LC Franc	10980
 Kenya CFLG	9079
@@ -280,6 +284,7 @@ Togo Raises CFA26.5 Billion Through WAEMU	4769,394,334,86
 Togo Signs CFA257.4 Billion	7426
 UNESCO ICT CFT	899
 Union CFA	9616
+Using the CFIR	12025
 West African CFA	2627,633,7563
 West African CFA Franc	10862,687
 Wh and CFA130	2861

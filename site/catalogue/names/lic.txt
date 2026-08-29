@@ -73,6 +73,7 @@ Commercial Regional Courier Service Licence	1223
 Commercial Regional Courier Services Licence	1223
 Communications Equipment Vendor Class Licence	7708
 Competence Licence	1988
+Complete Digital Licensees	11857
 Conditions for Licensing Private Network Operators	736
 Conditions for Licensing Private Network Operators. PART	736
 Constitution. Licence	11
@@ -82,7 +83,8 @@ Converged Licensing Framework System	718
 Converged Licensing Management System	718
 Copyright and License	1219
 County Licensing Uniform Procedures Act	9852
-Creative Commons Attribution License	8376,2543
+Creative Commons Attribution International License	11927
+Creative Commons Attribution License	8376,2543,1084
 Cumulative Broadcasting Licensees	6946
 Cumulative Broadcasting Licensees FY	6946
 Cumulative Number of Telecommunications Licensees	6946
@@ -96,10 +98,13 @@ Data Protection License Number	1877
 Department of Transport’s Driving License Card Account	2521
 Des Licences	998
 Digital Mobile Driving License	11774
+Digital Mobile Licenses	11857
+Digital Mobile Licensing EUC End User	11857
 Directive and License Conditions	762
 Directive for Land Mobile Radio Licenses	762
 Director of Companies and Business Licensing	5883
 Directorate of Liquor Control and Licensing Data Processor	7167
+Distance Operators FMoP Licensees	11857
 Drillers and Constructor License	1988
 Driver Licence	10714
 Driver Licensing	5645
@@ -108,6 +113,7 @@ Driver and Vehicle Licensing Authority. Industry	6177
 Drivers Licence ZRCP TBA	1988
 Driver’s License	10765,10
 Driving Licence Card Account	4554
+E LICENÇAS AMBIENTAIS	11898
 ECTS Licenciatura	11534
 Effect of License Revocation	762
 Electricity Licensing Regulations N	718
@@ -179,7 +185,7 @@ Interepretation. PART II Public Licences	736
 International Computer Driving License	10865
 International Courier License	718
 International Gateway License	762
-International License	5656,4083,1045,222,1,147,1
+International License	5656,4083,1045,222,1,147,1,852,83
 International Public License. Any	10841
 Internet Service Provider License	762
 Internet Services Licence	11788
@@ -209,6 +215,8 @@ LICs and LMICs	771,9943
 LMD Licence-Master-Doctorat MEN Ministère	12
 LTA License	10407
 LTA-issued Satellite Communications License. Stakeholders	10406
+LTE Licensees Expansion	11857
+Legislação de Licenciamento Ambiental	11898
 Licence	11,1,10,67,217,427,3,451,36,649,5,1444,575,26,641,1102,1703,986,110,118,527,1629,117,120,156,3
 Licence Appeals By Rihab Ben Moussa	6784
 Licence Application Forms	736
@@ -235,24 +243,28 @@ Licence. Fincra	6368
 Licence.pdf	2677
 Licenced	8180,2473
 Licencees	8841,1897
-Licences	11,725,234,628,279,3656,2598,2985
+Licences	11,725,234,628,279,3656,2598,2985,870,76
+Licences Issued	12062
 Licences Professionnelles	10893
+Licences and Permits	12062
 Licences. A.K. DRAMÉ	7999
 Licences. SpaceX	6891
 Licencia	9441
 Licencia Mostrando	9441
 Licenciados	6462,4925
-Licenciamento	2437,3025,3388,2692
-Licenciamento Ambiental	10276
+Licenciamento	2437,3025,3388,2692,359
+Licenciamento Ambiental	10276,1622
+Licenciamento da Atividade de Cadastro Predial Taxas Devidas	11901
+Licenciamento de Construção	11898
 Licencias	1701,2508
-Licenciatura	2816,8625,7,24,62
+Licenciatura	2816,8625,7,24,62,364
 Licenciatura MF M F Angola	10766
 Licenciatura MF M F N.º	10766
 Licenciement	10876
 Licencing	8180
 Licensable	3887
 Licensable the Authority	3887
-License	586,132,18,26,1226,721,963,51,1130,1,50,137,309,315,1281,602,1055,1,1,321,99,207,1175,314,118,124,1,172,460
+License	586,132,18,26,1226,721,963,51,1130,1,50,137,309,315,1281,602,1055,1,1,321,99,207,1175,314,118,124,1,172,460,261,67,79
 License Agreement	5665
 License Annual Universal Fee Fee Regulatory	10407
 License Application Conditions and Requirements	762
@@ -271,6 +283,7 @@ License Type	10407
 License Validity	5665
 License and Regulatory Fees	10407
 License for Radiation Sealed	718
+License-free Data	11854
 License. PART FIVE RADIO FREQUENCY SPECTRUM	762
 Licensed	718,2057,355,1429,1106,1713,385,2092,468,84
 Licensed CC	7954,1071
@@ -293,7 +306,7 @@ Licensed Testing Organisation	5665
 Licensed Testing Organisations	5665
 Licensed Verification Agents	3703
 Licensee	306,456,3970,3850,546
-Licensees	11,751,3100,870,933,120,87,1074,2163,8
+Licensees	11,751,3100,870,933,120,87,1074,2163,8,2740
 Licensees Interference	736
 Licensees Telecom Namibia Powercom MTC Paratus	1944
 Licensees Telecom Namibia Telecom Namibia	1944
@@ -301,7 +314,7 @@ Licenses	762,1150,765,2743,4435,761,240
 Licenses and Permits	6792
 Licenses for Liquefied Petroleum Gas	718
 LicenseÉƧƨ SACJisapublicationof SAICSIT. ISSN1015-7999	8602,4
-Licensing	22,386,179,131,18,26,1015,100,111,689,1210,158,803,166,304,244,103,207,541,19,161,345,8,3,255,344,97,1863,251,96,313,448,1,113,46,241
+Licensing	22,386,179,131,18,26,1015,100,111,689,1210,158,803,166,304,244,103,207,541,19,161,345,8,3,255,344,97,1863,251,96,313,448,1,113,46,241,922,1
 Licensing Board	7845
 Licensing Categories This Guideline	5665
 Licensing Considerations	6432
@@ -324,11 +337,12 @@ Licensing of Cybersecurity Providers	3887
 Licensing of Cybersecurity Service Providers	587,3300
 Licensing of Cybersecurity Service Providers Licensing	587
 Licensing of International Mobile Telecommunications	11259
+Licensing of OEMs	11857
 Licensing of Starlink	1872
 Licensing of Testing Entities	5665
 Licensing. Embed	1777
 Licensing. LTA	1777
-Licença	2437,8939,1,27,26,15,73,2
+Licença	2437,8939,1,27,26,15,73,2,378
 Licença Creative Commons Nossos	9432
 Licença Multiserviços	11428
 Licença Unificada	2866
@@ -336,8 +350,12 @@ Licença de Classe B	2866
 Licença de Classe C	2866
 Licença de Maternidade	11467
 Licença de Telecomunicações	2866
-Licenças	11383,47,90
+Licenças	11383,47,90,378
+Licenças Ambientais	11898
+Licenças Ambientais Acessibilidade	11898
+Licenças Ambientais de Construção	11898
 Licenças Individuais	11520
+Licenças de Construção	11898
 Liceu	11631
 Liceu No	7262
 Licha	7849
@@ -346,6 +364,7 @@ Liciecnensisningg	736
 Licitación	1701
 Licitude	11461
 Local Access Licence	5872
+Lose It Policy. Licensees	11857
 Lost License	762
 Luminosos ACTUAL TURISMO LICENCIA	4209
 Luminosos INDUSTRIA INSPECCION ANUAL CULTURA LICENCIA	4209
@@ -482,6 +501,7 @@ SSA and LICs	10714
 SSA and LICs. Four	10714
 STARLINK Licences	1872
 STATION LICENCES Instructions	736
+Safe Conduct License	11877
 Sam Wolfe Purchase Licensing Rights	4244
 Satellite Communications License	10407
 Satellite Licenses	3641
@@ -498,6 +518,11 @@ Services Licence	1223
 Shi1reAllke License	1009
 Should the Licensee	762
 Signal Distribution License	718
+Simplified Business Licensing Processing	11939
+Simplified Licensing for Retail Trade	11939
+Simplified Licensing for Tourism Enterprises	11939
+Simplified Licensing for Wholesale Commerce	11939
+Simplified Licensing of Industrial Activity	11939
 Single Regulatory Window and Smart Licensing Gateway	4848
 Smart Driving Licences	11774
 Social Licence	11006,1
@@ -521,6 +546,7 @@ Starlink's Network Services Licence	2547
 Streamline Environmental Licensing The Mozambican	10470
 Student Pilot License SSA Sub-Saharan Africa	2775
 Submarine Cable Licences	9109
+Submissão de Licenças Ambientais Mecanismo Disponível	11898
 Surrender of Individual License	762
 Suspension of License	5665,1873
 Switching and Processing Licence Granted	11138
@@ -551,6 +577,7 @@ Telecommunications Service Licensees	1900
 Telecommunications Service Provider License	762
 Telecommunications Services Licensing Kirinyaga	6946
 Telecommunications Value Added Service License	762
+Telecoms and Postal Director Licensing	11857
 Telecomunicações. Licença de Classe C	2866
 Third-Party Licenses	5665
 Titulaires de Licence	5753
@@ -593,7 +620,7 @@ Water-Use License Application	11236
 Wholesale Electronic Communications Infrastructure License	5277
 World Bank Group. License	10714
 World Bank License	10765,10,37
-World Bank. License	10714,422,436
+World Bank. License	10714,422,436,307
 Year License	2716,1353
 ZEMA Licence	1988
 ZEMA Licence Obtain	1988

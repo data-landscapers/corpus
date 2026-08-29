@@ -25,6 +25,7 @@ Azercosmos. Ce	4822
 B000000016minfi-du-1... Ce	10087
 BAD. Ce	3406
 BIF. Ce	6112
+Banque Mondiale. Ce	11944
 Belgique. Ce	4479
 Bis Ce	1231
 Borj El Amri. Ce	9596
@@ -38,12 +39,13 @@ CAYO. Ce	2738
 CCDR Climate Change Development Report CE	11549
 CE Marking	3651
 CE QUI CHANGE	8637
-CEMAC. Ce	10965
+CEMAC. Ce	10965,979
 CFA. Ce	1684,1642
 CIBLES Ce	10237
 CIL. Ce	3116
 CNI. Ce	2513
 Cameroun. Ce	4356
+Cameroun119. Ce	11944
 Ce Béninois	8016
 Ce Conseil	1679
 Ce Datacenter	3406
@@ -134,12 +136,15 @@ Mlle Faizatou Abdoulaye Idé. Ce	9357
 Monsieur Mohamed Bouarourou. Ce	3196
 Nations Unies. Ce	9615
 Niger. Ce	2514,4701,778,1294,55
+ODD. Ce	11982
 ONECI. Ce	2758,6296
 ONI. Ce	4107
 Open Data. Ce Comité	9406
 Ouagadougou. Ce	3946
 Oxford Insights. Ce	10914
+PDG de Qwiper. Ce	12128
 PIB. Ce	2478
+PSIPJ. Ce	12027
 Personnel. Ce	1184
 Power BI. Ce	10975
 Premier Ministre. Ce	10966
@@ -150,11 +155,13 @@ Président. Ce	10825
 QR Code. Ce	9177
 QU'EST CE QUE L'ASSEMBLÉE NATIONALE L'Assemblée	9480
 RCA. Ce	5135
+RD Congo. Ce	11958
 Responsable Open Data. Ce	748
 Rodrigues. Ce	6399
 République de Djibouti. Ce	3267,1300
 République de Guinée. Ce	746
 République du Congo. Ce	3326
+République. Ce	12043
 Réserves. Ce	11597
 Réunis Ce	10524
 SANTÉ GÉNÉRALE Ce	737
@@ -166,7 +173,7 @@ Small Média. Ce	2377
 Starlink. Ce	5412
 Stellar. Ce	10810
 TIC. Ce	737,8116
-Tchad. Ce	2554,5289
+Tchad. Ce	2554,5289,4101
 Tchadinfos Ce	3224
 Toumodi. Ce	2342
 Travail. Ce	8515

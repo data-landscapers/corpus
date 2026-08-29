@@ -2,7 +2,7 @@ A. Introduction The African Union Agenda	10856
 ACCEDED TO THE AFRICAN UNION CONVENTION	4867
 ACKNOWLEDGMENT The African Union Strategy	1814
 ADDRESSING ELEMENTS The Universal Postal Union	11129
-AFR Afrobarometer AUC African Union Commission	10759,78
+AFR Afrobarometer AUC African Union Commission	10759,78,1052
 AFRICAN TELECOMMUNICATIONS UNION L'UNION AFRICAINE DES	7074
 AFRICAN UNION	578,597,89,8135
 AFRICAN UNION AND THE COMMON MARKET	10016
@@ -15,8 +15,9 @@ AI.pdf International Telecommunication Union	2816
 ATOC European Union	11154
 AU Africa Union B2B Business-to-Business BATNA	1243
 AU Data Policy Framework. African Union	1243
+AUC African Union Commission	11887
 Abidjan By Mercy Kamau African Union	9162
-About ITU The International Telecommunication Union	7199
+About ITU The International Telecommunication Union	7199,4721
 About the African Union	10840
 Abuja The European Union	11304
 Acceded To The African Union Convention	1243
@@ -33,7 +34,7 @@ African Telecommunications Union	962,3663,560,365,36,90,331,332,303,148,156,128,
 African Telecommunications Union Secretariat	7562
 African Telecommunications Union Spectrum Assignment	7827,262
 African Telecommunications Union Spectrum Assignment Plan	7850,323
-African Union	26,1,1,143,54,335,2,191,7,139,59,3,1,76,40,83,14,29,39,21,13,320,174,8,35,40,397,208,107,111,5,105,29,23,199,36,15,73,421,1,14,6,47,99,111,13,94,77,58,20,3,49,5,245,1,102,35,20,188,5,6,5,297,8,83,27,40,2,8,50,60,33,5,18,22,23,319,43,53,125,38,14,18,23,90,45,36,27,37,7,14,17,8,55,89,62,20,64,23,100,18,125,5,59,42,4,21,41,31,14,20,2,54,7,9,13,54,143,8,88,40,8,82,14,15,59,19,2,7,14,113,17,13,11,50,3,29,6,93,158,141,69,99,426,68,49,9,17,59,17,144,70,140,9,4,10,124,3,2,169,39,46,2,21,35,96,88,13,206,79,163,2,99,3,18,12,243,40,3,2,9,28,16,17,55,12,6,57,60,105,12,53,11,81,2,1,27,108,9,30
+African Union	26,1,1,143,54,335,2,191,7,139,59,3,1,76,40,83,14,29,39,21,13,320,174,8,35,40,397,208,107,111,5,105,29,23,199,36,15,73,421,1,14,6,47,99,111,13,94,77,58,20,3,49,5,245,1,102,35,20,188,5,6,5,297,8,83,27,40,2,8,50,60,33,5,18,22,23,319,43,53,125,38,14,18,23,90,45,36,27,37,7,14,17,8,55,89,62,20,64,23,100,18,125,5,59,42,4,21,41,31,14,20,2,54,7,9,13,54,143,8,88,40,8,82,14,15,59,19,2,7,14,113,17,13,11,50,3,29,6,93,158,141,69,99,426,68,49,9,17,59,17,144,70,140,9,4,10,124,3,2,169,39,46,2,21,35,96,88,13,206,79,163,2,99,3,18,12,243,40,3,2,9,28,16,17,55,12,6,57,60,105,12,53,11,81,2,1,27,108,9,30,24,42,55,77,15,40,41
 African Union AI Policy Working Group	4528
 African Union AI Strategy	4528,1261,1759,2389,779
 African Union AU Strategy	1243
@@ -49,7 +50,7 @@ African Union CBA Cost-Benefit Analysis CIRT	6539
 African Union Champion for AI and Digital Health	5966
 African Union Charter	961
 African Union Child Online Safety	1597
-African Union Commission	578,383,116,84,82,21,13,180,357,868,207,169,929,116,20,664,305,152,58,739,209,417,123,207,139,119,71,203,264,1,156,1,476,320,415,32,415,407,153,307,673,134
+African Union Commission	578,383,116,84,82,21,13,180,357,868,207,169,929,116,20,664,305,152,58,739,209,417,123,207,139,119,71,203,264,1,156,1,476,320,415,32,415,407,153,307,673,134,769,81
 African Union Commission Andrew Dabalen	11839
 African Union Commission Digital Identity Platform	289
 African Union Commission Headquarters	7951
@@ -62,19 +63,21 @@ African Union Commission Ref	10616,1
 African Union Commission The Information Society	10840
 African Union Commission Web	11839
 African Union Commission of Inquiry	3583
+African Union Commission. Available	11909
 African Union Commission. E-mail	4123
 African Union Commissioner for Energy and Infrastructure	3987,43
 African Union Commissioner for Infrastructure and Energy	7255
 African Union Commission’s	5302
 African Union Committee of Experts	1597,1986
 African Union Conference Center and Office Complex	6003
+African Union Congress Special Technical Committee	12092
 African Union Continental AI Strategy	5042,1090,2169,32,1553
 African Union Continental AI Strategy and Africa	9204
-African Union Convention	318,640,3,282,144,210,270,42,197,443,509,525,21,118,139,563,342,41,306,294,80,38,1411,13,48,681,514,1207,386,979,1,10,44,22,15
+African Union Convention	318,640,3,282,144,210,270,42,197,443,509,525,21,118,139,563,342,41,306,294,80,38,1411,13,48,681,514,1207,386,979,1,10,44,22,15,1044
 African Union Convention Governing the Specific Aspects	10841
 African Union Cyber Security Expert Group	10689
 African Union Cybersecurity Experts Group	8982,376
-African Union Data Policy Framework	1753,61,304,1044,196,260,243,319,244,166,654,808,296,878,16,306,595,604,1281,45,1366
+African Union Data Policy Framework	1753,61,304,1044,196,260,243,319,244,166,654,808,296,878,16,306,595,604,1281,45,1366,616
 African Union Data Policy Framework CBL	5244
 African Union Data Policy Framework Implementation	3861
 African Union Data Policy Framework and Malabo	3861
@@ -86,11 +89,11 @@ African Union Development Agency	1243,571,1544,509,11,3070,847,4020
 African Union Development Agency-New Partnership for Africa	5804
 African Union Development Agency. AI	6948
 African Union Digital Agriculture Strategy	9609
-African Union Digital Transformation Strategy	961,3805,719,191,5578
+African Union Digital Transformation Strategy	961,3805,719,191,5578,801
 African Union Digital Transformation Strategy for Africa	7548,3271
 African Union Digital Transformation Strategy. Reference	5676
 African Union Document Type AU-EU Space	11283
-African Union Election Observation Mission	1981,7101
+African Union Election Observation Mission	1981,7101,2827
 African Union Executive Council	1243,354,217,6933,801
 African Union Financial	4103
 African Union Framework Compliance African Union	3861
@@ -106,7 +109,7 @@ African Union Infrastructure and Energy Department	8192
 African Union Lever	6948
 African Union Mechanism for Police Cooperation	961
 African Union Member State	1243
-African Union Member States	562,399,282,2340,3456,1708
+African Union Member States	562,399,282,2340,3456,1708,3305
 African Union Organs	961
 African Union Peace and Security Council	3583,7694
 African Union Protocol	10841
@@ -125,6 +128,7 @@ African Union URL	11283
 African Union and ASEAN	4734
 African Union and AfCFTA	9593
 African Union and AfCFTA Secretariat	5201
+African Union and Africa	12127
 African Union and COMESA Election Observation Mission	10016
 African Union and ECOWAS	5244
 African Union and Germany Embassy	7362
@@ -145,6 +149,8 @@ African Union's Convention	1777
 African Union's Data Policy Framework	2118
 African Union's Data Policy Framework. Trends	6593
 African Union's Digital Transformation Strategy	975,3136
+African Union's EMIS	12052
+African Union's EMIS Norms and Standards	12052
 African Union's Malabo	9399
 African Union's Malabo Convention	1777,1851,576,19,5393
 African Union's Malabo Convention and ECCAS	9616
@@ -160,6 +166,7 @@ African Union. Lead Entity Ministry of ICT	4528
 African Union. President Xi Jinping of China	10945
 African Union. Regular	1777
 African Union. Sensitive	961
+African Union. Technical Assistance	11906
 African Union. The Charter	8747
 African Union. Together	10819
 African Union’s AI Agenda	4528
@@ -191,10 +198,10 @@ Cairo Egypt International Telecommunication Union	10844
 Capital Markets Union	6938
 Central African Customs and Economic Union	1599
 Christine Lagarde European Union European	9832
-Civil Union Act	5533,5644
-Civil Union Amendment Act	5533
-Civil Union Regulations	5533
-Columbia University UPU Universal Postal Union	10835,3,130
+Civil Union Act	5533,5644,809
+Civil Union Amendment Act	5533,6453
+Civil Union Regulations	5533,6453
+Columbia University UPU Universal Postal Union	10835,3,130,902,16
 Community EU European Union F Forecast	10781
 Competition Space China European Union Data	9816
 Conference. The Union	7793,90,1,66
@@ -202,8 +209,10 @@ Credit Union Cap	1020
 Credit Unions	7760
 Customs and Economic Union of Central Africa	10841
 Cybersecurity and Personal Data Protection. African Union	1243
+DC. International Telecommunication Union	11879
 DF Brazil Barbados International Telecommunication Union	10764
 DF Brazil International Telecommunication Union	10844
+DI Digital Identity AU African Union	11986
 Data As Evidence European Union Privacy	6632
 Data Governance International Telecommunication Union United	11439
 Data Protection Authorities. The African Union	5084
@@ -219,6 +228,7 @@ Directorate of Customs Union and Taxation	10572
 Directorate of Customs Union and Taxation Darlingston Y	10644
 Directs the African Union Commission	5825
 EAC Customs Union	961
+EAC Monetary Union	11948
 ECOWAS African Union Convention	5244
 ECOWAS COMMISSION AND AFRICAN UNION CONCLUDE	9469
 ECOWAS Customs Union	7452
@@ -250,10 +260,11 @@ Estonian Hospitals Union	11006
 Europe AU African Union CIO Chief	11545
 Europe Switzerland International Telecommunication Union	10764
 European Investment Bank EU European Union	970
-European Union	26,1,1,527,234,172,1,7,1,100,16,1,156,14,7,543,7,4,49,96,154,37,2,55,46,63,17,98,98,93,213,119,65,41,16,82,22,1,170,143,85,17,4,47,112,14,83,12,230,21,4,53,115,152,23,1,43,11,3,55,34,33,13,5,83,17,80,194,133,27,40,5,55,26,35,3,38,83,12,4,98,100,19,143,85,99,3,22,41,118,8,41,31,20,30,16,10,116,36,15,28,59,38,20,26,18,82,7,106,89,54,31,62,58,10,7,85,117,97,94,89,90,24,10,111,19,29,81,98,1,22,30,29,1,71,88,1,86,7,17,64,19,118,26,3,13,71,338,14,15,38,19,25,89,1,63,1,33,112,224,6,19,158,73,23,2,44,31,82,5,42,28,228,19,39,79,5,5,45,3,7,1,4,1,38,10,12,5,11,4,58,31,10,1,18,16,41,14,45,40,14,5,1,1,12,42,16,18,39,5,51,62,23,45,79,38,53,23,15,123
+European Union	26,1,1,527,234,172,1,7,1,100,16,1,156,14,7,543,7,4,49,96,154,37,2,55,46,63,17,98,98,93,213,119,65,41,16,82,22,1,170,143,85,17,4,47,112,14,83,12,230,21,4,53,115,152,23,1,43,11,3,55,34,33,13,5,83,17,80,194,133,27,40,5,55,26,35,3,38,83,12,4,98,100,19,143,85,99,3,22,41,118,8,41,31,20,30,16,10,116,36,15,28,59,38,20,26,18,82,7,106,89,54,31,62,58,10,7,85,117,97,94,89,90,24,10,111,19,29,81,98,1,22,30,29,1,71,88,1,86,7,17,64,19,118,26,3,13,71,338,14,15,38,19,25,89,1,63,1,33,112,224,6,19,158,73,23,2,44,31,82,5,42,28,228,19,39,79,5,5,45,3,7,1,4,1,38,10,12,5,11,4,58,31,10,1,18,16,41,14,45,40,14,5,1,1,12,42,16,18,39,5,51,62,23,45,79,38,53,23,15,123,63,5,1,40,13,14,30,8,11,50,18,2,33,45
 European Union AI Act	9204
 European Union AI Act. Many African	7678
 European Union AI Office	6997
+European Union Agency for Asylum	11868
 European Union Agency for Cybersecurity	5677
 European Union Ambassador	11283
 European Union Ambassador Karsten Mecklenburg	6013
@@ -262,8 +273,9 @@ European Union Commission	7678,208
 European Union Cyber Security Agency	10764
 European Union Data Protection Directive	8436
 European Union Deforestation Regulation	11659
-European Union Delegation	970,3132,137,6602,463
+European Union Delegation	970,3132,137,6602,463,681
 European Union EN L	1807,6048
+European Union Earth	12133
 European Union Election Observation Mission	10017
 European Union External Action Service	11155
 European Union FDI Foreign Direct Investment	7548
@@ -280,12 +292,14 @@ European Union SAAO South African Astronomical	5246
 European Union The Program	3604
 European Union Twinning	10510
 European Union and BMZ. Aims	886
+European Union and Cabo Verde	11909
 European Union and Ghana	789
 European Union and Mozambique	6552,191
 European Union and Nigeria	11148
 European Union and Singapore	9706
 European Union and Smart Africa	1779
 European Union and South Africa	11210,78
+European Union and Team Europe	11985
 European Union and WFP	10866
 European Union's Artificial Intelligence Act	9921
 European Union's Carbon Border Adjustment Mechanism	10718
@@ -293,8 +307,9 @@ European Union's Digital Education Action Plan	6936
 European Union's Digital Markets Act	7731
 European Union's Digital Services Act	5366
 European Union's Directive	11313
+European Union's EUR	12133
 European Union's General Data Protection	9399
-European Union's General Data Protection Regulation	9987
+European Union's General Data Protection Regulation	9987,2003
 European Union's Horizon Europe Framework Programme	11210
 European Union's ViDA	8670
 European Union-Singapore FTA	1243
@@ -304,10 +319,11 @@ European Union-funded Global Gateway ICT Standards	7985
 European Union-funded Liberia Media Empowerment Project	3008
 European Union. AI	11135
 European Union. Assessing	1219
+European Union. Available	11909
 European Union. Creative Commons Attribution	6436
 European Union. In Nigeria	6690
 European Union. Months	9486
-European Union. National	3918,1,1
+European Union. National	3918,1,1,8082
 European Union. Neither the European Union	6947
 European Union. Oxford University Press. Corporate	11050
 European Union. R3315408. R6658766	3583
@@ -325,6 +341,7 @@ European Union’s GDPR	5242
 European Union’s General Data Protection	5281
 European Union’s General Data Protection Regulation	2117,4246,158,3448,1227
 European Union’s Global Gateway	5672
+European Union’s Horizon	12090
 European Union’s Markets	8215
 European Union’s Revised Payment Services	4848
 Executive Summary The African Union	1257
@@ -352,13 +369,17 @@ Huduma Namba. The European Union	9600
 ICT AU African Union AWS Amazon	4126
 ID for All The European Union	6650
 INTRODUCTION European Union	11156
+IPU Inter-Parliamentary Union	11887
 IST The Union	9431
-ITU International Telecommunication Union ITUC International	10759,78
+ITU International Telecommunication Union	11887
+ITU International Telecommunication Union ITUC International	10759,78,1052
 ITU International Telecommunication Union IUCD Intrauterine	2775
+ITU International Telecommunication Union IXP Internet	11857
 ITU International Telecommunication Union KfW German	3604
 ITU International Telecommunication Union LTE Long	236
 ITU International Telecommunications Union Figure	582
 ITU-R International Telecommunication Union	6946
+ITUC International Trade Union Confederation	11887
 India International Telecommunication Union	10844
 India Stack. The European Union	8046
 Indonesia India International Telecommunication Union	10764
@@ -366,9 +387,10 @@ Indonesia International Telecommunication Union	10844
 Infrastructure PDQ International Telecommunication Union PHC	1009
 Inter-Parliamentary Union	8090,1113
 International Communications Union’s Radiocommunication	5245
-International Monetary Fund IPU Inter-Parliamentary Union	10759,78
-International Telecommunication Union	11,15,1,1,176,81,33,78,106,187,1,1,45,222,3,168,399,249,37,455,33,72,9,52,133,22,73,14,26,61,52,97,24,7,2,67,82,1,38,85,9,4,12,10,210,140,146,168,1,1,67,43,48,104,22,340,39,70,222,283,27,25,42,55,31,69,90,57,16,32,68,5,1,1,364,11,9,35,72,35,62,32,34,136,169,6,148,146,10,103,56,14,16,64,29,18,63,17,102,3,1,130,107,124,34,56,1,39,27,30,66,27,16,24,60,68,223,32,45,77,27,158,227,76,31,297,182,32,108,3,22,5,2,4,132,18,25,65,375,187,126,44,55,25,4,102,54,19,117,55,16,5,4,34,8,221,80,88,31,55
+International Monetary Fund IPU Inter-Parliamentary Union	10759,78,1052
+International Telecommunication Union	11,15,1,1,176,81,33,78,106,187,1,1,45,222,3,168,399,249,37,455,33,72,9,52,133,22,73,14,26,61,52,97,24,7,2,67,82,1,38,85,9,4,12,10,210,140,146,168,1,1,67,43,48,104,22,340,39,70,222,283,27,25,42,55,31,69,90,57,16,32,68,5,1,1,364,11,9,35,72,35,62,32,34,136,169,6,148,146,10,103,56,14,16,64,29,18,63,17,102,3,1,130,107,124,34,56,1,39,27,30,66,27,16,24,60,68,223,32,45,77,27,158,227,76,31,297,182,32,108,3,22,5,2,4,132,18,25,65,375,187,126,44,55,25,4,102,54,19,117,55,16,5,4,34,8,221,80,88,31,55,142,38,3,44,38,30
 International Telecommunication Union Council	6007
+International Telecommunication Union ICT Development Index	11935
 International Telecommunication Union ITI Internet User	1009
 International Telecommunication Union JIPSA	6832
 International Telecommunication Union LAN Local Area	6539
@@ -411,6 +433,7 @@ Nations Development Programme African Union	11439
 Neither the Berne Union	11310
 Nigeria Union of Journalists	7179,2,4111,21,391
 Nigeria. The African Union	8438
+Nigerian Union of Journalists	11866
 Nigerian Union of Teachers	8588
 Number of Societies and Unions	2775
 Office Application Programming Interface African Union	4528
@@ -443,7 +466,7 @@ Review Mechanism of The African Union Residents	7182
 Risk Management EU European Union FCIM	6946
 Russian Federation International Telecommunication Union	10844
 SOUTH AFRICA-EUROPEAN UNION SUMMIT URL	11210
-Scientific and Cultural Organization AUC African Union	10835,3,130
+Scientific and Cultural Organization AUC African Union	10835,3,130,902,16
 Segundo African Union	2816
 Seychelles Credit Union	1892
 Smart Africa and African Union	7255
@@ -476,7 +499,7 @@ Thailand Indonesia International Telecommunication Union	10764
 Thailand International Telecommunication Union	10844
 Through the Union's Customs Risk Management Framework	11036
 Togo. Economic and Monetary Union of Central Africa	2775
-Trade Union Confederation ODW Open Data	10759,78
+Trade Union Confederation ODW Open Data	10759,78,1052
 Trade Unions and Employers	11280
 Treasury AU African Union OECD Organisation	11193
 UA Union	6959
@@ -492,9 +515,10 @@ UNION BANK UNITY BANK WEMA BANK	11002
 UNION DES COMORES	5370
 UNION DES COMORES Unité-Solidarité-Développement	3715
 UNIVERSAL POSTAL UNION	11129
+UPU Universal Postal Union	11887
 USAF POTRAZ Building Union	11563
 Under the Union Customs Code	11036
-Union	11,544,88,93,1,52,172,9,219,219,184,163,52,166,297,53,56,28,133,21,62,152,18,15,134,24,54,11,33,3,106,86,3,99,29,52,84,51,107,3,20,12,53,20,20,44,122,184,7,57,50,104,6,73,80,50,414,51,11,70,112,66,11,33,58,19,2,19,22,226,104,18,21,10,136,15,77,298,16,73,17,72,7,22,4,68,70,146,5,1,5,50,21,98,18,22,27,33,29,11,72,10,1,3,63,103,23,59,82,47,9,1,67,56,3,25,51,11,1,5,1,14,19,14,1,12,41,75,6,24,44,30,22,2,2,28,13,4,75,5,18,7,14,32,227,30,110,44,31,26,31,34,7,13,74,193,58,17,40,15,167,3,30,228,66,11,244,78,57,11,90,9,8,10,17,148,92,31,18,51,1,52,72,4,3,9,22,14,8,1,1,5,1,1,1,7,9,76,52,85,19,338,30,41,75,49,39,26,62,4,3,5
+Union	11,544,88,93,1,52,172,9,219,219,184,163,52,166,297,53,56,28,133,21,62,152,18,15,134,24,54,11,33,3,106,86,3,99,29,52,84,51,107,3,20,12,53,20,20,44,122,184,7,57,50,104,6,73,80,50,414,51,11,70,112,66,11,33,58,19,2,19,22,226,104,18,21,10,136,15,77,298,16,73,17,72,7,22,4,68,70,146,5,1,5,50,21,98,18,22,27,33,29,11,72,10,1,3,63,103,23,59,82,47,9,1,67,56,3,25,51,11,1,5,1,14,19,14,1,12,41,75,6,24,44,30,22,2,2,28,13,4,75,5,18,7,14,32,227,30,110,44,31,26,31,34,7,13,74,193,58,17,40,15,167,3,30,228,66,11,244,78,57,11,90,9,8,10,17,148,92,31,18,51,1,52,72,4,3,9,22,14,8,1,1,5,1,1,1,7,9,76,52,85,19,338,30,41,75,49,39,26,62,4,3,5,31,11,197,38
 Union AUC AU Commission AWPB Annual	1264
 Union Africaine	234,2461,147,227,287,3603,193,194,1930
 Union Africaine UE	10874
@@ -520,7 +544,7 @@ Union Digital Transformation	11216
 Union E- Waste Electronic Waste FAO	2775
 Union EUA Fast Healthcare Interoperability Resources	1009
 Union Economique	737,3722,4828,55,1369,145,19,13,634,45
-Union Européenne	643,1105,1218,79,404,3510,701,108,2944,148
+Union Européenne	643,1105,1218,79,404,3510,701,108,2944,148,1122
 Union Européenne Programme Indicatif Multi-annuel	643
 Union Européenne Type	10880
 Union Européenne UEMOA	10874
@@ -528,7 +552,7 @@ Union Européenne. Cette	3449
 Union FCV Fragility	11560
 Union GDP Financial Management GHG Global	3604
 Union ICD-10 ICT Fast Healthcare Interoperability	1009
-Union ITUC International Trade Union Confederation	10835,3,130
+Union ITUC International Trade Union Confederation	10835,3,130,902,16
 Union IaaS Infrastructure	11196
 Union Internationale des Télécommunications	998,440,546,570,21,120,754,1912,2543
 Union Internationale des Télécommunications UIT	5361
@@ -536,12 +560,13 @@ Union L-	11180
 Union Matters	2806
 Union Minister Dr Jitendra Singh	6480
 Union Monétaire Est-Africaine	7956
-Union Monétaire Ouest Africaine	8316,2520,686,45
+Union Monétaire Ouest Africaine	8316,2520,686,45,498
 Union Monétaire Ouest Africaine Le Gouverneur	10836
 Union Nationale des Femmes Djiboutiennes	4402
 Union Portugal Brazil Spain Italy CORE	11586
 Union Postale Universelle	998
 Union Progressiste le Renouveau	6292
+Union Regional Harmonization of Remittance Policies	11960
 Union SDIA Spatial Data Infrastructure Act	11196
 Union Socialiste des Forces Populaires	8891
 Union Towers	3862
@@ -573,7 +598,7 @@ Union. Article	10836
 Union. Ce	7279
 Union. Cette	8066,3733
 Union. D’une	10371
-Union. Elle	4459
+Union. Elle	4459,7485
 Union. En	7269
 Union. Eng. Mwale	7938
 Union. Ghana	4126
@@ -607,7 +632,7 @@ Universal Postal Union	940,4013,232,1761,2810,1227,146
 Universal Postal Union Council of Administration	3990
 Universal Postal Union International Addressing Standards	11129
 Universal Postal Union Standard for Mail Addressing	11129
-Universal Postal Union V-DEM Varieties of Democracy	10759,78
+Universal Postal Union V-DEM Varieties of Democracy	10759,78,1052
 Unión Internacional de Unión Internacional de Brazil Union	11563
 Unlike the European Union	4045
 Valeur Ajoutée UEMOA Union	10712,164
@@ -622,7 +647,7 @@ West African Economic and Monetary Union. Agritech	10939
 West African Monetary Union	6938,1135
 West African Monetary Union’s Council	8275
 Western Union	2368,409,3590,4802
-Western Union and MoneyGram	11169
+Western Union and MoneyGram	11169,791
 Within the African Union	10765,10
 Within the European Union	10819
 World Bank and European Union	3784

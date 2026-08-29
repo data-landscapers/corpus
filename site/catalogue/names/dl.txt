@@ -1,6 +1,7 @@
 ANDF DLI	10876
 ANDF. DLI	10876
 Achieved DLI	10870
+Action Description Source DLI	11905
 Anniversaries. Mr. Dlamini	11131,3
 Asakhona Dlamini	9304
 Bhekithemba Dlamini	4535
@@ -15,6 +16,7 @@ Ces DLI	10876
 Chairperson Ms. Nomusa Dlamini Dr. Petros	11131
 Chaque DLI	10876
 Communication Mfanfikile Dlamini Chief Operations Officer	11131
+Components RESULT FRAME T BL IO DLI Baseline	11855
 Comunidade de Países de Língua Portuguesa DLI	2816
 Current DLP	899
 DADF DADF DLC DLC DLC DC	10858
@@ -23,10 +25,17 @@ DGUF DI DLC DME DPSR DRI	10858
 DL Charges	11774
 DL Disbursement Letter DP Development Partner	11525
 DL4ALL	4725,4392
-DLA Piper	1243,5966
+DLA Piper	1243,5966,4671
+DLA Piper LLP	11880
+DLA Piper's Data Protection Laws	11880
 DLC DLC DLC DLC BCMS SCRP	10858
 DLC LF	10858
 DLC X X X	10858
+DLI Allocation	11905
+DLI Allocation DLR	11905
+DLI Allocation N	11905
+DLI Allocation Page	11905
+DLI Baseline Intermediate Targets End Target	11855
 DLI Comments	10870
 DLI Domaine	10876
 DLI Front-line	10870
@@ -35,9 +44,14 @@ DLI No Dec	10870
 DLI Page	10876
 DLI Reports	10870
 DLI Sectoral	10870
+DLI Table	11905
 DLI. Cette	10876
 DLI. Page	10876
 DLISS FAMILY HOSPITAL LTD Data Controller	7167
+DLIs Capacity	11905
+DLIs and Program	11905
+DLIs. Economic Justification	11905
+DLIs. Table	11905
 DLOCAL PAYMENTS KENYA LIMITED Data Controller	7167
 DLOCAL PAYMENTS KENYA LIMITED Data Processor	7167
 DLP Blueprint	899
@@ -58,9 +72,12 @@ DLP. Shifts	899
 DLP. THE PROMISING FUTURE OF DIGITAL	899
 DLP. The DLP Blueprint	899
 DLP21	899
+DLR. The PIU	11905
 DLRRD	11261
 DLRRD SWOT	11261
 DLRRD.gov.za RP57	11261
+DLRs. Depending	11905
+DLRs. Relevant	11905
 DLT-enabled	6672
 DLegacy	5700
 DLeveraging	4676
@@ -73,9 +90,11 @@ Description DLI	10876
 Development Finance Stellenbosch University Lungile Dlamini	11134
 Digital Literacy Programme Blueprint. The DLP	899
 Direct UPS Managing Director Behlule Dlomo	9304
+Direction Générale de DLI	11905
 Director of Communications Sakhile Dlamini	6013
+Disbursement Linked Indicators DLI	11905
 Dladla	11353
-Dlamini	2117,1530,69,342,1392,324,25,1244,562,9,988,702,1,728,1101,532
+Dlamini	2117,1530,69,342,1392,324,25,1244,562,9,988,702,1,728,1101,532,261
 Dlamini Ex-Officio Member	11134
 Dlamini Ms. Felicia Dlamini-Kunene	11131
 Dlamini Ms. Felicia Dlamini-Kunene Mr. Vusi	11131
@@ -83,7 +102,7 @@ Dlamini Remuneration Committee The Remunerations Committee	11131
 Dlamini-Kunene Risk and IT Committee Risk	11131
 Dlaspora and African Integration	11517
 Dle1S	1009
-Dlomo	9304
+Dlomo	9304,2623
 DlorraL MomoccS	1885
 Dlorral	1885
 Dlrrd.gov.za	11260
@@ -91,6 +110,7 @@ Dr. Dumsile Dlamini	11131,3
 Due DLI	10870
 Définition des DLIs	10876
 Définition du DLI Modulable	10876
+EMIS. DLR	11905
 ESCCOM CEO Mvilawemphi Dlamini	4885
 Emaswati. Dlamini	5450
 Environmental and DLI	10870
@@ -106,6 +126,8 @@ Foncier Bénin. DLI	10876
 Future of DLP	899
 Governor Sikhumbuzo Dlamini Director Research Beverly	11131
 Hon. Sikhumbuzo Dlamini	9197
+IVA DLR	11905
+Integrated DLR	11905
 International Affairs Bhekizwe Dlamini Bank Supervision	11131
 Ku DL	6891
 Linda Dlamini	11134
@@ -113,6 +135,8 @@ Linda Dlamini Fintech and Innovation Nothando Nxumalo	11131,3
 Lungile Dlamini Director Operations Zithulele Gina	11131
 Lutfo Dlamini	5774
 MANDATES DLRRD	11261
+MEPPSA DLI	11905
+MEPPSA DLR	11905
 Macamo Dlhovo	2667
 Majozi Sithole and Martin Dlamini	11131
 Maseyisini MP Nokuthula Dlamini	5450
@@ -121,6 +145,7 @@ Mbabane East MP Welcome Dlamini	7264
 Mbuso Dlamini	7614
 Member HRH Prince Sicalo N. Dlamini	11131,3
 Member Ms. Nomusa T. Dlamini Non-Executive	11131,3
+Ministries DLR	11905
 Mlandvo Dlamini	6820
 Mr. Dlamini	11131,3
 Mr. Mfanfikile Dlamini	11131,3
@@ -140,8 +165,13 @@ Ms. S. Dlamini	11131
 Ms. Sizakele Dlamini	11131
 Muzi Dladla	11353
 Mvilawemphi Dlamini	4058
+National Learning Assessment Unit. DLI	11905
 Nqobile Dludla	6931
+Number of DLR	11905
+PD O Indicator Name DLI Baseline	11855
+PDO and DLIs	11905
 PRIME Minister Russell Mmiso Dlamini	5450
+PfoR Focal Points DLI	11905
 Prime Minister Dlamini	8918
 Prime Minister Russell Dlamini	3716,6886
 Prime Minister Russell Mmiso Dlamini	4535,1239,1269,1875
@@ -149,11 +179,14 @@ Prime Minister Russell Mmiso Dlamini and Deputy	4535
 Prime Minister Russell Mmiso Dlamini and Minister	5799
 Prime Minister Thuli Dladla	4535
 Prince Mshishimba Dlamini	3648
+Procedure DLR	11905
 Program. Environmental and Social Systems DLI	10870
 Programme Terra Bénin DLI	10876
+Proposed DLIs and Program	11905
 Protection Services Acute Dlamini Domestic Economy	11131,3
 Public Relations Institute of Southern Africa. Dladla	11353
 R DL	34
+RESULT FRAME T BL IO DLI Baseline Intermediate	11855
 Red Note Africa's Khetsiwe Dlamini	9304
 Reference Dlamini and Mbambo2019	2117
 Russell Mmiso Dlamini	7030
@@ -162,6 +195,7 @@ SIMBED. DL4ALL	4725
 Sanda Dlamini	11666
 Savannah Maziya. Dlamini	9305
 Settlements DLRRD Department of Land Reform and Rural	11261
+Sibongamandla Silindokuhle Dlomo	11927
 Sinaye Dlamini Head IT Wandile Mathonsi	11131
 South African Theological Seminary. Ms. Dlamini	11131,3
 Study The DLP	899
@@ -176,4 +210,6 @@ Vusi E. Dlamini Ex-Officio Member	11131
 Warren Dlamini Supply Chain Mayibongwe Nkambule	11134
 Warren Dlamini Supply Chain Nondumiso Dlamini	11131
 Williams College Massachusetts Mfanfikile Dlamini	11134
+World Bank. DLR	11905
 World Bank. Ms. Dlamini	11131,3
+World Bank. Procedure DLR	11905

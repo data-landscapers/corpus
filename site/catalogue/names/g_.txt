@@ -1,5 +1,6 @@
 A8me g	1984
 ANEXO G	11406
+ANNEXURE G	11986
 APPENDIX G Table	3862
 ASUNTOS GRAL ADJUNTA GRAL. ASUNTOS G	4209
 Achèvement Garçons Filles G	10847
@@ -17,7 +18,7 @@ Alleyne G	10780
 Ambler G	1219
 Amissi G	10625
 Annex G	3861
-Annexure G	11240
+Annexure G	11240,746
 Appendix G	236
 Asiki G	771
 B. G	5349
@@ -30,6 +31,7 @@ C. G	1243
 C. G. Reddick	5349
 Cabo Verde D G A P	6530
 Chowdhury G	9653
+Citrusdal Ms G Sekhu	11986
 Class G Investor Permit	7406
 Commissioner G Topsy-Sonoo	10729
 Composante G	5370
@@ -64,6 +66,7 @@ E G Airtel Vodafone Tigo MTN	236
 E. G	5349
 ENT G	11178
 ENVIRONMENTAL STATISTICS Table G	11250
+Ebrima G. Sankareh Government Spokesperson	12085
 Encargado Grupo G Servicio	4209
 Especialista Grupo G	4209
 Especialista Grupo G Servicio	4209
@@ -88,6 +91,7 @@ G 30 GB Monthly Bundle	718
 G 500 MB Weekly	718
 G 90 GB Monthly Bundle	718
 G A B C D	236
+G Adoption	11857
 G Advanced	8841,2015
 G Asked	6351
 G BOX	11574
@@ -135,9 +139,11 @@ G FWA	8828,1965,968
 G FWA. Ce	11761
 G Fifth Generation ASPs Application Service	6671
 G Fifth Generation Network ABMT Appropriate	2775
+G Fifth Generation Telephone Wireless Technology	11857
 G Fixed Wireless Access	6100
 G Fourth Generation	6671
 G Fourth Generation Network	2775
+G Fourth Generation Telephone Wireless Technology	11857
 G Frameworks and Cyber Security Capacity	721
 G Frameworks and Cybersecurity Capacity	721
 G G Low	6936
@@ -150,13 +156,14 @@ G Hybrid ASON	3797
 G Hybrid Automatically Switched Optical Network	3797
 G Hybrid Optical Network	3797
 G IAM	3896
+G IMT	11857
 G Identity-related	972
 G Implementation Strategy	5675
 G Inspector Grupo G Jefe Servicio	4209
 G Is Starlink	5874
 G Is for Google	3782
 G Key	1885
-G LTE	18,71,176,298,155,1185,1761,198,697,269,2484,954,548,830,10
+G LTE	18,71,176,298,155,1185,1761,198,697,269,2484,954,548,830,10,2203
 G LTE Advanced	3487
 G LTE. Thirty	718
 G Lab	2405,3367
@@ -166,7 +173,7 @@ G License Following Competitive Tender Process	3221
 G Low Earth Orbit	7307
 G Market	10856
 G Market Snapshot	5675
-G Mobile	4150
+G Mobile	4150,7707
 G Moroccan	2673
 G Much	5675
 G NSA	8828
@@ -175,6 +182,7 @@ G National Software Development Guideline Title	5665
 G Nchini	6019
 G Nemerk	3972
 G Network	2923,1888,478,2095
+G Network Coverage	11857
 G Network Coverage Outlook. Ericsson Mobility	5675
 G Network Nationwide	5391
 G Network Now Exceeds NetOne and Telecel	6011
@@ -207,20 +215,25 @@ G Report	3972
 G Retail	718
 G Revolution By Ishmael F. Menkor	4817
 G Rollout	2708,689,2278
+G Rollout Target NCC	11857
 G Rollout and Sets Vision	6771
 G SA	2405,106,17,15,1156
 G SPOT	9646
 G Second	1818
 G Second Generation	6671
 G Second Generation Network	2775
+G Second Generation Telephone Wireless Technology	11857
+G Service Terms	11878
 G Servicio	4209
 G Sites and Respective Coverage	6946
+G Smart	11857
 G South Africa	6593
 G Spectrum	7368
 G Spectrum Acquisition	926,31
 G Spectrum Licence	925
 G Spectrum Licences	7401
 G Spectrum Public Policy Position	5675
+G Spectrum Spectrum Pricing and Allocation Digital	11857
 G Standalone	2528,15,3822
 G Strategy	3564,1473,638,1833
 G Strategy Development	7508
@@ -232,6 +245,7 @@ G TELECEL ORANGE	11574
 G Technology Will Contribute	5675
 G Third Generation	6671
 G Third Generation Network	2775
+G Third Generation Telephone Wireless Technology	11857
 G Transport Network Ericsson	5332
 G Tunisia	8828
 G USIM	5391
@@ -286,6 +300,7 @@ G. Cette	1272,5496
 G. Chaque	5071
 G. Chinyama	10215
 G. Como	11111
+G. DATA DICTIONARY	11860
 G. DECLARATIONS	5113
 G. Des	5877
 G. Developing	7759
@@ -304,8 +319,9 @@ G. Grâce	2695
 G. Gupta	5700
 G. H	5349
 G. Il	3120,6217
+G. In Senegal	11902
 G. Instead	9560
-G. K	8604
+G. K	8604,3402
 G. Kaladzavi	11140
 G. Kenya	10796
 G. Kioko	11140
@@ -322,10 +338,12 @@ G. Messages	2626
 G. Mobile	6728
 G. Moroccan	8828
 G. Morocco	8828
+G. Muschert	11879
 G. N	11133,9
 G. N. N	8605
 G. Nationwide	4400
 G. Nearly	3975
+G. Network	11964
 G. Notwithstanding	11233
 G. Nous	2881
 G. O	10
@@ -337,6 +355,7 @@ G. Paulatinamente	1215
 G. Plank. LASER Synthesis Paper	11006
 G. Pour	10226
 G. Quels	7715
+G. RISK MANAGEMENT	11863
 G. Risk-based	7845
 G. Risks and Monitoring	10997
 G. S	8301,2834
@@ -351,6 +370,7 @@ G. Technology	4214
 G. The UN Department of Economic and Social	2383
 G. Toledo. Interim Evaluation	11006
 G. Toutefois	3526
+G. Transparency	11857
 G. Un	2400
 G. Under	8127,321
 G. Uña	11140
@@ -408,6 +428,7 @@ Menu Display Início Orgânica D G	6530
 Mesud G. Reta	8351
 Mezzabotta G	10784
 Mhila G	1219
+Middelburg Ms G Sekhu	11986
 Mirutse G	1219
 Mothibi G. Ramusi	4732,3096
 Mr. G. Gomwe	4263
@@ -431,6 +452,7 @@ Préscolaire Garçons Filles G	10847
 Republic of Angola and Country Director Albert G	1770
 Ryan G	1219
 S. G	4131,545
+Salto Fund. G. Risk Management	11863
 School G- Grand	582
 Sitaraman G	5242
 Somi G	1261
@@ -447,6 +469,7 @@ Unguja and Pemba. Two G	5771
 User Associations G	5679
 V. G	1248
 VAN H RT REAT ES G	2776
+Volet G	12043
 WB G	10841
 Watts G. The Tanzanian	1261
 Wood G	5242

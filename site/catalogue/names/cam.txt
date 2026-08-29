@@ -38,7 +38,7 @@ Anthony. The Consequences of Modernity. Cambridge	11138
 Area Office and Innovation Centre C-DOT Campus	10764,80
 Artisanat CAMEROUN	10965
 Assimilés du Cameroun	718
-Au Cameroun	2751,241,4830,2433,124,586,109
+Au Cameroun	2751,241,4830,2433,124,586,109,870
 Autorité Camerounaise	3233
 Av. Julius Nyerere Campus Universitario	9442
 Avant la Le Cameroun	10965
@@ -53,6 +53,7 @@ BOFI Cameroun	8356
 BSIC BENIN YELLO DISTRIBUTION CAME Traitement	10821
 Bafoussam City Council and CAMTEL	303,7286
 Bange Bank Cameroun	3779
+Banque Camerounaise des Petites	11944
 Banque Internationale du Cameroun	10965
 Barreaux du Cameroun	2546
 Basic Guide. Cambridge	11310
@@ -161,6 +162,7 @@ CAMTEL's Yah	4192
 CAMTEL. Cela	10255
 CAMTEL. L’opérateur	10255
 CAMTEL’s Special Commercial Agency of Yaoundé	9917
+CAMU and CNSS	11987
 CAMWATER	10024
 CAMWATER. Celle-ci	10024
 CAMWATER. En	10024
@@ -174,6 +176,7 @@ CEO of MTN Cameroon	3034
 CHAINE YOUTUBE CAMER PRESS AGENCYCamer Press	9916
 CHIMTEC CAMEROUN	2342
 CIV Cameroon Tanzania	10995
+CNEF Cameroun	11944
 CONAFE Cameroon National Trade Facilitation Committee	10841
 CONTRA EL CAMBIO CLIMA..- Con1cepto	4209
 CREATIVE CAMEROUN	10960
@@ -219,7 +222,7 @@ Cambio Climático	1701,2508
 Cambio Climático. Acciones	1701
 Cambios	4209
 Cambodge	6613,511
-Cambodia	771,3833,1622,387,1349,213,1256,999,334,21,206,13,150,156,262,37
+Cambodia	771,3833,1622,387,1349,213,1256,999,334,21,206,13,150,156,262,37,307,48
 Cambodia Cameroon Canada Central African Republic	11765
 Cambodia Khmer National Identity Card	10714
 Cambodia Rapid	226
@@ -231,7 +234,7 @@ Cambodia the HIV	771
 Cambodia's MekongNet	4604
 Cambodian	11310
 Camboya SENG	6613
-Cambridge	40,1397,2345,650,224,586,10,448,3428,570,1148,118,176,16
+Cambridge	40,1397,2345,650,224,586,10,448,3428,570,1148,118,176,16,934
 Cambridge Analytica	432,1,2149,486
 Cambridge Centre	11819
 Cambridge Centre for Alternative Finance	8074,277,1669,1799
@@ -244,7 +247,7 @@ Cambridge Handbooks	9128
 Cambridge Judge Business School	6231,1843,1946
 Cambridge Prism Glob Ment Heal	8376
 Cambridge University	5682,585,3365,1220
-Cambridge University Press	1243,3,3724,272,458,2031,552,153,692,1922,85,3,18,154
+Cambridge University Press	1243,3,3724,272,458,2031,552,153,692,1922,85,3,18,154,684
 Cambridge University Press. Adams	1243
 Cambridge University Press. Bouraïma	7886
 Cambridge University Press. Burri	1243
@@ -263,7 +266,7 @@ Cameron	5323
 Cameron Kerry	6411
 Cameron McLoughlin	1828
 Cameron Smith	7673
-Cameroon	55,2,46,14,6,1,65,47,66,11,89,246,4,56,4,221,80,22,16,90,1,221,2,34,15,1,4,11,35,72,13,2,18,22,7,54,43,19,33,64,12,4,29,24,65,12,39,70,77,23,62,74,16,17,21,73,31,58,101,62,13,10,70,10,77,56,1,115,44,4,53,16,6,22,54,1,1,19,3,26,52,57,20,21,3,59,33,17,149,36,84,6,85,18,11,1,28,140,5,19,5,11,28,18,3,15,8,4,1,51,10,87,58,36,61,39,32,9,67,4,19,10,9,52,119,48,25,16,19,42,68,57,76,2,80,21,42,28,83,81,28,20,40,22,11,7,41,17,47,5,15,127,34,98,48,23,72,22,45,37,1,2,67,89,2,65,45,5,7,125,69,18,67,66,54,89,15,34,37,142,269,80,29,86,8,145,4,8,4,88,23,74,3,115,162,72,6,1,160,370,120,118,75,164,103,141,47,113,27,45,6,27,53,169,126,296,74,19,26,8,36,6,3,3,15,5,31,68,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,2,1,1,1,1,2,1,1,2,3,1,120,46,253,189,88,31,8
+Cameroon	55,2,46,14,6,1,65,47,66,11,89,246,4,56,4,221,80,22,16,90,1,221,2,34,15,1,4,11,35,72,13,2,18,22,7,54,43,19,33,64,12,4,29,24,65,12,39,70,77,23,62,74,16,17,21,73,31,58,101,62,13,10,70,10,77,56,1,115,44,4,53,16,6,22,54,1,1,19,3,26,52,57,20,21,3,59,33,17,149,36,84,6,85,18,11,1,28,140,5,19,5,11,28,18,3,15,8,4,1,51,10,87,58,36,61,39,32,9,67,4,19,10,9,52,119,48,25,16,19,42,68,57,76,2,80,21,42,28,83,81,28,20,40,22,11,7,41,17,47,5,15,127,34,98,48,23,72,22,45,37,1,2,67,89,2,65,45,5,7,125,69,18,67,66,54,89,15,34,37,142,269,80,29,86,8,145,4,8,4,88,23,74,3,115,162,72,6,1,160,370,120,118,75,164,103,141,47,113,27,45,6,27,53,169,126,296,74,19,26,8,36,6,3,3,15,5,31,68,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,2,1,1,1,1,2,1,1,2,3,1,120,46,253,189,88,31,8,131,3,13,3,1,2,71,57
 Cameroon A Xalam Analytics Country Report	10995
 Cameroon Adaptive Safety Nets and Economic Inclusion	971,9993
 Cameroon Aims	4219
@@ -272,6 +275,7 @@ Cameroon Awards	11001
 Cameroon Baccalaureate Office	4670
 Cameroon Backbone Expansion Project	55
 Cameroon Bahrom Shukurov	10997
+Cameroon C	11867
 Cameroon CEI Africa	10993
 Cameroon CNEF	10967
 Cameroon COLEPS	2221
@@ -553,7 +557,7 @@ Cameroon’s Sugar Market A Closer Look	5407,676
 Cameroon’s Sugar Market Nasco	5407,676
 Cameroon’s VAT	10997
 Cameroon’s VAT Credit Refunds Fall	965,3924,206
-Cameroun	1189,459,32,68,58,128,76,57,213,113,6,66,48,21,12,149,9,47,34,78,63,6,10,165,50,37,36,1,9,58,30,1,39,120,123,47,25,41,55,3,10,148,45,80,38,24,83,28,31,56,30,124,586,17,209,55,11,1,382,89,290,18,26,78,34,145,136,19,38,2,65,197,229,177,288,251,506,179,129,163,92,286,1,95,3,236,104,96,324,8,43,168,99,25,2,22,121,24,143,135,15,8,114,2,10,3,2,1,4,1,6,4,2,12,5,658,25,112
+Cameroun	1189,459,32,68,58,128,76,57,213,113,6,66,48,21,12,149,9,47,34,78,63,6,10,165,50,37,36,1,9,58,30,1,39,120,123,47,25,41,55,3,10,148,45,80,38,24,83,28,31,56,30,124,586,17,209,55,11,1,382,89,290,18,26,78,34,145,136,19,38,2,65,197,229,177,288,251,506,179,129,163,92,286,1,95,3,236,104,96,324,8,43,168,99,25,2,22,121,24,143,135,15,8,114,2,10,3,2,1,4,1,6,4,2,12,5,658,25,112,134,86,6,38
 Cameroun Afrique Centrale Gabon Tchad Congo	9916
 Cameroun Au	3658,2617,145
 Cameroun Banque	10975
@@ -568,6 +572,7 @@ Cameroun Le Ministère	4325
 Cameroun L’année	10965
 Cameroun L’objectif	10996
 Cameroun N	10975
+Cameroun Page	11944
 Cameroun Paris	10379
 Cameroun SSA Sub-Saharan Africa UNCTAD United	10841
 Cameroun Selon le Centre	4325
@@ -632,15 +637,21 @@ Cameroun. Vers	3107
 Cameroun. World Bank	10964
 Cameroun................................43	10965
 Cameroun.data.gouv.cm	10966
+Cameroun119. Ce	11944
+Cameroun124	11944
 Cameroun24	311,6019
-Camerounais	2534,283,423,88,1,798,83,145,6655,345
+Cameroun29	11944
+Cameroun61. L’accès	11944
+Cameroun70	11944
+Camerounais	2534,283,423,88,1,798,83,145,6655,345,589
 Camerounais Achille Mbembe	11669
 Camerounais Etinge Edward Mabian	2448
 Camerounais. Elle	10975
 Camerún	3179
 Camerún ANGONEMANE MVONDO	6613
 Camfed Kenya Data Controller INST-2507074914D NAIROBI	7167
-Camila Mejia Giraldo	1751,9794
+Camila Mejia Giraldo	1751,9794,420
+Camilla Holmemo Erkin Mamadaliev	11924
 Camille BAKI	8736
 Camilleri	11156
 Camilo Leitão da Graça	11566
@@ -656,14 +667,17 @@ Camp Coordination and Camp Management	10864
 Camp Tuli Bonse	10374
 Campagne	17
 Campagnes	6827
-Campaign	1710,1174,925,719,1923,690,2525,1063,530
+Campaign	1710,1174,925,719,1923,690,2525,1063,530,597,10
 Campaign Bill	1116
 Campaign Mnena Iyorkegh	7144
 Campaign for Female Education	1540
 Campaign for Free Expression	10729
 Campaign for Free Expression Addressing	10729
 Campaigning	10729
-Campaigns	6936,1010,1041,629,1113,47,72
+Campaigns	6936,1010,1041,629,1113,47,72,1138
+Campaigns Action Plan	11986
+Campaigns Communication Strategy	11986
+Campaigns Explanation	11986
 Campaigns Safety	9429
 Campamento Bata	4209
 Campamento Militar	4209
@@ -682,7 +696,8 @@ Campeonato Nacional Absoluto de Xadrez	2315
 Campeonato de Defeso de Canchungo	10114
 Campeões	11479
 Campeões Africanos Moçambique	11587
-Campo	10975,430
+Campion Zharima	12025
+Campo	10975,430,613
 Campone	8604
 Campos	10963,1,623
 Campos Electromagnéticos	9543
@@ -691,7 +706,7 @@ Campost Activité	10965
 Campost DG Pierre Kaldadak	1946
 Camps About	9772
 Campsite	1988
-Campus	1245,5131,1669
+Campus	1245,5131,1669,3996
 Campus II	4209
 Campus Principal da UEM	8807
 Campus Universitario	4209
@@ -728,6 +743,7 @@ Caprins Camelins	737
 Card Replacement Campaign	8999
 Case of Cameroon	9616
 Cashless Economy Cameroon’s Lekel Asonganyi Builds	7301
+Central African Republic and Cameroon	11867
 Centre Campus	8045
 Century Technologies Ikeja Campus	8045
 Certains Camerounais	3808
@@ -751,6 +767,7 @@ Coding Camps for Girls	2989
 Comme le Camerounais	4334
 Commercial Bank Cameroon	3151,7829
 Commercial Bank Cameroon for US	5033
+Communication Campaign IGA Income-Generating Activity IMF	11924
 Community FM Stations Campus FM Stations	2776
 Conducteurs des Motos Taxis Tricycles Assimilés du Cameroun	718
 Connectivity CamGSM	11310
@@ -801,6 +818,7 @@ E. Estimating Cameroon’s Tax Revenue Potential	10997
 EBL Institute of Business and Technology and G-CITI Campus	8579
 EL CAMBIO CLIMA	4209
 EMF. CAMEROUN	10965
+EMF. Le Cameroun	11944
 ENEO Cameroun S.A	10975
 ESCP Fourth Cameroon Household Survey ESF	10964
 EXECUTIVE SUMMARY Cameroon	10965
@@ -888,7 +906,9 @@ Henda ASC Assistente Social de Campo	11390
 Honduras Cambodia Iraq Chad Lao P.D.R	10764
 IA Le Cameroun	2546
 IBBS CAM IBBS CAM HIV-IBBS	966
+ICR Practice Manager Regional Director Camilla	11924
 IDC Campus Head Office	11209
+IDP Camp	12020
 IGInnlndooebvxaal2t0io2n4 Cameroon	10969
 IHS Cameroon	5824
 IHS Cameroon and State-owned	11728
@@ -952,7 +972,7 @@ Lançamento da Campanha de Sensibilização Cívica	7310
 Laos Thailand Cambodia DRC Zimbabwe Botswana	418
 Large Bande Cambodia Yes Policy	11529
 Laye Sékou Camara	7978
-Le Cameroun	2424,110,161,545,418,535,162,710,292,1,235,147,397,26,112,145,195,65,1676,822,534,1253,708,137
+Le Cameroun	2424,110,161,545,418,535,162,710,292,1,235,147,397,26,112,145,195,65,1676,822,534,1253,708,137,134
 Le Camerounais Idris Nfongang Tabi	7603
 Le Campus Yas	7899
 Legal Void Civic Watch Cameroon and Paradigm	10370
@@ -1055,6 +1075,7 @@ Organizations The Republic of Cameroon Borrower	10964
 Ousmane Dady Camara	9324
 Outside Minawao Camp	10841
 Overall Governance Cameroon’s Overall Governance	10968
+Oxymoron. Cambridge	12090
 PI and DY for Cambodia	771
 POWERCAM Cameroon Electricity Corporation PNT Pertes	10975
 PR CAMPAIGN SMS Messaging On-going On-going	8999
@@ -1064,6 +1085,7 @@ PUBLIC CAMPUS	2776
 Parques de Campismo	11458
 Patricia da Camara	10977
 Payment Agregation Monopoly Threatens Cameroon's Digital	2461
+Pays Zone CEMAC Cameroun République Congo	11944
 Pedro Margarida Lourenço Alcides Cambundo Orlanda	4044
 Penelope Campbell	5851
 Pessoal de Campo	10777
@@ -1080,6 +1102,7 @@ Pregnancy Moni Campaign	8438
 Prime Minister of Cameroon	4171
 Producción Campesina	4209
 Project Location and Size Meheba Settlement Camp	1988
+Protection Campaign	11857
 Président Dady Camara	9324
 REI Cameroon	10993
 REI Cameroon’s CEO Jude Numfor	10993
@@ -1216,6 +1239,7 @@ XAfrica NBOX1 Nairobi Campus	2850
 XX SANTOS CAMBINDA NDALA	10751
 Yamoussa Nana Camara	11749
 Yango Cameroon	3335
+Yaounde Bangui BAS-UELE HAUT-UELE NORD-UBANGI CAMEROON	11900
 Yaounde. The General Manager of CAMTEL	4192
 Yaoundé Cameroon Senegal Union	10764
 Yaoundé Cameroon Union	10844

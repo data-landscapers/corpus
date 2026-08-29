@@ -1,7 +1,7 @@
 AB Traffic	9781
 AMENDMENT OF THE ROAD TRAFFIC ACT	6921
 AN. Traffic Management and Road Safety Unit	7845
-Absence of Human Trafficking	10759,76,2,1,130
+Absence of Human Trafficking	10759,76,2,1,130,902,16,1,1,1
 Administrative Adjudication of Road Traffic Offences	7755
 Air Traffic	261
 Air Traffic Management System	261
@@ -18,6 +18,7 @@ Broadband Volume of Internet Traffic	2776
 Broadband Volume of Internet Traffic BWA	2776
 Broadband Wireless Access Data Traffic	2776
 CHALLENGES ON IMPLEMENTATION OF DIGITAL TRAFORMATION	11231
+Combat Trafficking	11900
 Commercial Cargo and Mail Traffic	2775
 Commercial Passenger Traffic1	2775
 Container Freight Traffic	2775
@@ -90,10 +91,14 @@ International Traffic	2776,1086,1911
 International Traffic Capacity	718
 International Traffic Inbound International Traffic	2776
 International Traffic Traffic Q3	2776
+Internet Traffic	11857
 Keep Web Traffic Local	6542
 LOCAL AND NATIONAL TELEPHONE TRAFFIC	3862
+LOCALISATION OF INTERNET TRAFFIC IN- Internet	11857
 Local and National Telephone Traffic	3862
 Local and National Traffic	3862
+Localise Traffic IN- Submarine Cable Landing	11857
+Localise Traffic the IXPs	11857
 MILLION Domestic Courier Traffic Ms	9781
 MILLION International Outgoing Traffic	9781
 MILLION ONA Outgoing Traffic	9781
@@ -129,6 +134,7 @@ Motor Traffic and Transport Department	9205,1876
 NATIONAL MOBILE TRAFFIC	11211,51
 NATIONAL TELEPHONE TRAFFIC	3862
 NETWORK TRAFFIC	11211,51
+National Agency for Prohibition of Trafficking	11928
 National Road Traffic Act	11551
 National Road Traffic Act.’’. Amendment	11551
 National Road Traffıc Act	11551

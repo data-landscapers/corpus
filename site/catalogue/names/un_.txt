@@ -13,14 +13,17 @@ Afrique. Un	2280,562,5290
 Agence. LA TRANSPARENCE POUR UN SECTEUR	10975
 Agent UN United Nations UNFPA United	11560
 Alger. Un	10230
+Authority of South Africa UN United Nations	11986
 BERGMANS SIGNENT UN ACCORD DE CONCESSION	10476
 Banque Centrale. Un	11614
 Banque de France LA TRANSPARENCE POUR UN	10975
 Bénoué. LA TRANSPARENCE POUR UN SECTEUR	10975
 CCAK. Un	10096
+CEMAC Un	11944
 CFA. Un	2014,2111
 CGI Un	10858
 Cameroun Un	3328
+Children's Fund UN Unified Social Registry	11855
 China's UN	8740
 Comité de Pilotage Open Data. Un	748
 Conakry Un	3252
@@ -71,7 +74,7 @@ G20 and UN Sustainable Development Goal	8265
 GCTs. UN	6947
 GIM-UEMOA Un	10711
 Gabon LA TRANSPARENCE POUR UN SECTEUR	10975
-Gender Inequality Index UN Human Development	11004
+Gender Inequality Index UN Human Development	11004,960
 Global South. At the UN General Assembly	6001
 Goma After... UN Sanctions More Top	3245
 Google Scholar UN	11028
@@ -111,12 +114,13 @@ L’ÉTAT ACTIONNAIRE Un	2342
 M. Doualeh Saïd Mohamoud. Un	4957
 MW. LA TRANSPARENCE POUR UN SECTEUR	10975
 Madagascar. Un	11088
+Management Unit for Special Projects UN United	11863
 Mapé. LA TRANSPARENCE POUR UN SECTEUR	10975
 Marché DAAFRH LA TRANSPARENCE POUR UN	10975
 Masaar. On the UN	3271
 Mauritius's UN Human Rights Committee	2363
 Mobile Money. Un	2765
-Mortality Estimation UN MMEIG United Nations	10759,76,2,1,130
+Mortality Estimation UN MMEIG United Nations	10759,76,2,1,130,902,16,3
 Médina Wandifa. Un	8270
 Nations UN Water	11417
 Nations. Google Scholar UN Women	11028
@@ -137,7 +141,7 @@ Qatar. Un	7531
 REPUBLIQUE DU SENEGAL Un Peuple	11139
 REPUBLIQUE DU SENEGAL Un Peuple-Un But-Une	11139
 Refus Un	1005
-Reports Gender Development Index UN Human	11004
+Reports Gender Development Index UN Human	11004,960
 Resident Coordinators and UN Country Teams	11356
 Responsables. LA TRANSPARENCE POUR UN SECTEUR	10975
 Responsive Planning UN United Nations and Budgeting	11193
@@ -166,7 +170,7 @@ Tchad. Un	6275
 Technical Working Group UN United Nations	7548
 Ten UN Principles	1243
 Third UN Conference	10844
-UCDP Uppsala Conflict Data Program UN	10759,76,2,1,130
+UCDP Uppsala Conflict Data Program UN	10759,76,2,1,130,902,16,3
 UEMOA. Un	5455
 UK United Kingdom UN United Nations	2775
 UN AI	8113
@@ -179,32 +183,38 @@ UN ASG	4431
 UN ATOUT RÉGIONAL MAJEUR DANS	10711
 UN Agencies	1814,2714,7025
 UN Agencies and International Organizations	1243
+UN Agency for Digital Technologies	11920
 UN Agreement	8681
 UN Angola	10776
 UN Basic Principles and Guidelines	3583
 UN Binding Treaty	6960
 UN Bodies	3513
+UN Broad Band Commission	11863
+UN Broadband Commission	11857
 UN Broadband Commission. A Starlink	6467
 UN CADRE JURIDIQUE PROTECTEUR POUR	2695
 UN CADRE ORGANISATIONNEL OPTIMISÉ POUR L’ATTEINTE	2342
 UN CRC	1211
 UN Cameroon	10841
 UN Charter	11210
-UN Children’s Fund	4545,6462
+UN Children’s Fund	4545,6462,893
 UN Classification	9477
-UN Commission	2117,1467,3192,2020,1922
+UN Commission	2117,1467,3192,2020,1922,1184
 UN Committee	1211,2372
 UN Comprehensive Convention	11183
 UN Comtrade	4445
 UN Conference	4127,6591,126
-UN Convention	1163,1514,906,365,4035,2836,252
+UN Convention	1163,1514,906,365,4035,2836,252,904
 UN Convention Against Corruption	3583
 UN Cooperation Framework	8754
 UN Council	961
 UN Country Team	10346
 UN Cybercrime Convention	4204,2222
 UN DESA	1890,3,19,471,1133,7324,145,587
+UN DESA Division for Public Institutions and Digital	11894
 UN DESA Statistics Division	8546
+UN DESA United Nations Department of Economic	11960
+UN Data Extrapolation	11857
 UN Day	3851
 UN Declaration	11188
 UN Department	961
@@ -214,6 +224,7 @@ UN Development Program	11006
 UN Development Program. The World Bank	9556
 UN Development Programme	400,1,1,320,1,228,1,609,1,1,1,681,2828,5934
 UN Dialogue Namibia	7098
+UN Digital Literacy Target	11857
 UN E Government Survey	11451
 UN E-	10852
 UN E-Gov Index	5114
@@ -225,7 +236,8 @@ UN E-Participation Index	10785
 UN E-government Survey	11569
 UN ECA	10765,10
 UN ECA's Deputy Executive Secretary and Chief	8472
-UN EGDI	1890,536,171,667,111,375,152,64,233,831,89,605,104,1082
+UN EGDI	1890,536,171,667,111,375,152,64,233,831,89,605,104,1082,4957
+UN EGDI Index OUTCOME INDICATOR	11863
 UN ESCWA	4819
 UN EScAP	10840
 UN EScWA	10840
@@ -233,6 +245,7 @@ UN EcA	10840
 UN EclAc	10840
 UN Economic Commission	562
 UN Economic Commission for Africa	289,150,522,395,2612,212,1122,948,359,58,191,79,60,175,4645,2
+UN Educational	11900
 UN Environment Programme	3431,7287
 UN Envoy	11185
 UN Executive Office	5227
@@ -241,6 +254,7 @@ UN First	2117
 UN First Committee	2117
 UN Forum	7060
 UN Foundation	7320
+UN Framework	11925
 UN Fundamental Principles	2775
 UN GGE	2117
 UN General Assembly	1038,776,1769,129,3285,177,939,1600,1344,299
@@ -266,12 +280,15 @@ UN Health Industry Foundation	5658
 UN High Commissioner	3583
 UN High Commissioner for Refugees	4127,7229
 UN Human Capital Index	10785
-UN Human Development Index	3584
-UN Human Development Reports	11004
-UN Human Development Reports UN Human	11004
+UN Human Development Index	3584,8318
+UN Human Development Ranking	11935
+UN Human Development Reports	11004,960
+UN Human Development Reports UN Human	11004,960
 UN Human Rights Council	3584
 UN Human Rights Office	3584,543,6880
 UN IGF	9858
+UN IGF Secretariat's Chengetai Masango	12104
+UN IGME United Nations Inter-agency Group	11887
 UN IMPACT REAFFIRMÉ SUR LE DEVELOPPEMENT	2342
 UN IMPACT REAFFIRMÉ SUR LE DÉVELOPPEMENT	2342
 UN Independent Expert	3109,474
@@ -287,7 +304,8 @@ UN L.8	2117
 UN Lana NADA	163
 UN Legal Identity Agenda	10591
 UN Legal Identity Agenda Task Force	5274
-UN Member States	2371,4667
+UN MMEIG United Nations Maternal Mortality	11887
+UN Member States	2371,4667,4864
 UN Member States Africa Asia Europe	10840
 UN Member States Americas Africa Asia	10840
 UN Member States Linear	10840
@@ -300,7 +318,7 @@ UN News Global	9786
 UN OCHA	3583
 UN ODET	11006
 UN OEWG	2117
-UN Office	4810,2137
+UN Office	4810,2137,4953
 UN Office for Digital and Emerging Technologies	7112,3894,1
 UN Office of Information and Communications Technology	5825
 UN Online Service Index	10785
@@ -311,6 +329,8 @@ UN PRINCIPLES AND GUIDELINES The United	1243
 UN Pact	4940
 UN Panel of Experts	3583
 UN Population	970
+UN Population Data	11857
+UN Population Division	11965
 UN Principles	1243
 UN Principles and Recommendations	10765,10
 UN Processes South Africa	2117
@@ -325,7 +345,7 @@ UN Resident Coordinator Let	10210
 UN Resident Coordinator's Office	7749,2193
 UN Resident Coordinator’s Office	10776
 UN SDG	2829
-UN SDGs	7204,3387
+UN SDGs	7204,3387,1266
 UN SDGs Good	7204
 UN SGDs	2319
 UN Scientific Advisory Panel	8629
@@ -342,14 +362,14 @@ UN Secretary-General for Sustainable Energy for All	11137
 UN Secretary-General’s Envoy	10844
 UN Secretary-General’s High-Level Panel	11210
 UN Secretary-General’s Special Representative and Head	10409
-UN Security Council	2117,1467,529,162,941,2236,342,2341,274,55,746
+UN Security Council	2117,1467,529,162,941,2236,342,2341,274,55,746,715
 UN Security Council Counter-Terrorism Committee Executive	571
 UN Security Council Resolution	7452
 UN Special Rapporteur	7946,1136
 UN Special Representative	10776
 UN Statistical Commission	6337,626
 UN Summit of Futures	1264
-UN Sustainable Development Goals	582,207,1009,2022,4101,80,2818,299
+UN Sustainable Development Goals	582,207,1009,2022,4101,80,2818,299,846
 UN Sustainable Development Goals. Entities Joint	3583
 UN Sustainable Development Report	11195
 UN System	1243
@@ -359,7 +379,7 @@ UN Telecommunication Infrastructure Index	10785
 UN Third Committee	2117
 UN Trade And Development	250,814
 UN Trade and Development	7548,1267
-UN Treaty	2117
+UN Treaty	2117,9818
 UN Treaty Body Database English	11765
 UN United Nations UNEP United Nations	11553
 UN Universal DPI Safeguards Framework	11007
@@ -367,6 +387,7 @@ UN Urges Protection	10025
 UN Women	1407,1038,1138,520,1141,3616,352,1133,848
 UN Women WHO IOM Bilateral	11332
 UN Women and UNICEF	8427
+UN Women's Queenie Meria	12104
 UN Working Group	7147
 UN and Kepios	3908
 UN and OFAC	5369
@@ -406,6 +427,7 @@ Un Sud-Africain	10682
 Un Sénégalais	9580
 Under the UN Guiding Principles	9082
 Union. Un	11826
+United Arab Emirates UN United Nations	11960
 United Kingdom UN United Nations UNCTAD	1243
 Université des Comores I Un	1996,2390
 User Acceptance Testing UN United Nations	11192

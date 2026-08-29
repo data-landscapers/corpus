@@ -58,21 +58,23 @@ Desempenho CICA Conselho de Igrejas Cristãs de Angola	11390
 Desempenho Esperado	11442
 Desempleados	1701
 Desemprego	11406
-Desencadear	11384
+Desencadear	11384,517
 Desenho	11367,77,4,121
 Desenho Curricular	2816
 Desenho da Amostra	10777
+Desenho de Interfaces1	12021
 Desenvolvedor	2816
 Desenvolvedor de Assistentes Virtuais. Segundo Xavier	2816
 Desenvolvedores	3519
 Desenvolvedores de IA	3519
-Desenvolver	1192,1624,1330,72,2244,2972,1320,29,577,16,5,1,14,1,46,1,4,1,2,5,113
+Desenvolver	1192,1624,1330,72,2244,2972,1320,29,577,16,5,1,14,1,46,1,4,1,2,5,113,332
 Desenvolver Angola	2821
 Desenvolver Plano de Trabalho	11448
 Desenvolvi	11527
 Desenvolvido	6837,2595
 Desenvolvido Por SP Media	9799
-Desenvolvimento	13,2,780,731,282,1008,50,653,173,814,514,1442,2774,24,174,711,175,427,8,5,9,14,546,33,3,11,9,5,15,25,10,1,1,9,5,70,4,1,11,1,12,7,4,3,140
+Desenvolvimento	13,2,780,731,282,1008,50,653,173,814,514,1442,2774,24,174,711,175,427,8,5,9,14,546,33,3,11,9,5,15,25,10,1,1,9,5,70,4,1,11,1,12,7,4,3,140,146,43,123
+Desenvolvimento Agrícola	12034
 Desenvolvimento Comunitário	10763
 Desenvolvimento Comunitário AP Agente Parceiro APEE	11557
 Desenvolvimento Digital	4641
@@ -115,8 +117,10 @@ Desenvolvimento da Inteligência Artificial. Este	2816
 Desenvolvimento da Polícia Nacional	11392
 Desenvolvimento da Primeira Infância	10760,17,629
 Desenvolvimento da Primeira Infância Efeito de Desenho Food	10777
+Desenvolvimento da Protecção Social	11855
 Desenvolvimento da Sociedade de Informação	1251,88,743,734,1596
 Desenvolvimento de Aplicacoes	570
+Desenvolvimento de Aplicações Web	12019
 Desenvolvimento de Capacidade	11379
 Desenvolvimento de Carreiras	167
 Desenvolvimento de Governo Electrónico	2581
@@ -204,7 +208,8 @@ Os Objetivos de Desenvolvimento Sustentável	11547
 PNDS Plano Nacional de Desenvolvimento Sanitário PNUD	11376
 PRINCIPAIS ACTIVIDADES DESENVOLVIDAS PELO GOVERNO	2816
 PROMOÇÃO E ACOMPANHAMENTO DO DESENVOLVIMENTO	11397
-Plano Estratégico de Desenvolvimento Sustentável	1948,3936
+Plano Estratégico de Desenvolvimento PEDS Sustentável	11855
+Plano Estratégico de Desenvolvimento Sustentável	1948,3936,6081
 Plano Estratégico de Desenvolvimento da Polícia Nacional	11392
 Plano Nacional de Desenvolvimento	438,10322,17,613,179
 Plano Nacional de Desenvolvimento Sanitário	10760,17,766,17

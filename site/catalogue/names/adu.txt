@@ -28,7 +28,7 @@ AdulaiBaldé	11544
 Adulcínio Lutucuta	11484
 Adulcínio Lutucuta DR Delegado	11484
 Adulcínio Lutucuta. Localizado	11484
-Adult	1828,1755,21,7110,290
+Adult	1828,1755,21,7110,290,853,107,22
 Adult Centres	2775
 Adult Education	2775
 Adult Education Centres	2775
@@ -44,7 +44,7 @@ Adultos Direcção Nacional	10766
 Adultos Direcção Nacional da Educação Pré-Escolar	10766
 Adultos Educação Moral	10766
 Adultos. Anuário Estatístico da Educação	10766
-Adults	418,1227,183,7966,920,263,27,581
+Adults	418,1227,183,7966,920,263,27,581,272,62,45,93
 Adumo and GAAP	10393
 Adurelang Nsomo	4209
 Adurelang Oyek Añisok	4209
@@ -71,15 +71,19 @@ Ensino Secundário de Adultos	10766
 Ernest Kofi Adu	8545
 Estimativas Diretas da Mortalidade Adulta	10777
 Fambé Adulaisó Moma Nhancú Malam Sambú	11544
+GSMA Intelligence Adult	11964
 Jeffery Acheampong Adu	10143
 M-Pesa Faces Its Adult Future	6603
 MEN. MORE ADULTS ARE USING	10977
 MORTALIDADE ADULTA E MATERNA	10777
 NUTRIÇÃO DE CRIANÇAS E ADULTOS	10777
 National ADU Caravan	10937
+Nigeria Adult	11857
 Nº Productos Tarifa de IVA Aduanas	4209
+Obinna Adumike	11946
 POOR ADULTS	10977
 Patricia Adusei-Poku	1779
+Penetration Number of Adults	11857
 Primero Cabo Aduanero de Primera Agente de Primera	4209
 Prince Adu-Owusu	7697,1
 Probabilidades da Mortalidade Adulta	10777
@@ -90,3 +94,4 @@ Sub-Saharan Africa Adults	10977
 TERRESTRES AÉREAS MONUMENTO DE ADUANAS	4209
 W.N. TOTAL DIRECTIVO ADUANAS SEGUROS	4209
 WORKFORCE Adults	10977
+Youth and Adults	11857

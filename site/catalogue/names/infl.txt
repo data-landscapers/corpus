@@ -1,4 +1,4 @@
-Absence of Undue Influence	10759,76,2,1,130
+Absence of Undue Influence	10759,76,2,1,130,902,16,1,1,1
 African Average Inflation Rate	6938
 Annual Inflation	2775
 Annual Inflation Projections	11131
@@ -29,7 +29,7 @@ Growth and Inflation	6938
 High-Level Model of Influential Factors	5349
 Highly Pathogenic Avian Influenza and African Swine	11197
 INFLUENCING Identity	1939
-INFRASTRUCTURE Absence of Undue Influence	10835,3,130
+INFRASTRUCTURE Absence of Undue Influence	10835,3,130,902,16
 Import Cover Annual Headline Inflation Currency	11131
 Infl. IPC	7655
 Infla-	2775
@@ -93,6 +93,7 @@ SOCIAL MEDIA INFLLUENCERS	8999
 Score Rank Absence of Undue Influence	10835
 Somalia’s Inflation Outlook	11136
 Spain. Global Inflation	11131
+Stable Inflation Rate	11863
 Strengthen Influence	7562
 Variance Inflation Factors	11195
 World Inflation	2775

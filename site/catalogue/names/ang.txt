@@ -134,12 +134,14 @@ Ange Kouassi	10877
 Angebot	503
 Angebote	8546
 Angebotsfristen	8546
-Angel	9495
+Angel	9495,2368,97
 Angel Groups	4972
+Angel Investment Fund	11863
 Angel Investors	4528
 Angel Investors. Deals	4972
 Angel Jordan	7711
-Angel Lane London EC4R	6593,4411,13
+Angel Lane	11902
+Angel Lane London EC4R	6593,4411,13,947,30
 Angel Margaret Zalwango of White Lake Secondary	9014
 Angel Networks Family	4972
 Angel and VC	1204
@@ -171,7 +173,7 @@ Angglena	8022
 Angie	11180
 Angius	11050
 Angl. CAC AUD NNPC Hosp. JIBWIS	11129
-Anglais	5698,3057
+Anglais	5698,3057,3288
 Anglais Cyberattaques	9961
 Anglais Français	9961
 Anglais Le Tchad	2407
@@ -201,7 +203,7 @@ AngoSat	2613
 AngoSat-2	5421
 AngoSat-3	2242,189,182
 AngoSat-II	3555
-Angola	15,129,23,13,40,71,27,84,22,6,8,101,22,84,99,8,26,15,7,162,11,40,25,1,9,98,6,40,23,9,1,2,3,13,120,20,82,84,51,47,120,3,71,26,254,28,66,2,25,61,2,43,63,33,20,64,15,30,8,101,30,63,12,4,13,12,5,272,4,37,2,190,142,16,4,31,36,79,52,6,19,11,37,86,14,8,11,15,13,60,14,60,4,31,29,23,17,2,57,3,42,2,25,75,15,17,63,3,105,30,23,130,18,66,42,110,48,62,24,44,52,9,31,5,25,33,4,10,44,29,12,1,16,6,11,25,25,54,45,1,1,26,152,108,37,42,20,5,6,2,1,54,27,104,1,67,41,27,51,1,102,4,4,11,31,11,1,14,40,1,3,2,11,14,7,2,5,12,2,25,1,17,13,8,7,89,83,14,31,11,1,57,4,109,7,19,106,5,14,34,278,14,46,36,40,129,24,22,63,74,1,6,17,85,1,30,149,1,31,65,70,16,1,1,4,97,36,125,95,4,27,6,76,33,44,118,1,90,9,1,1,32,107,100,1,1,92,166,40,16,144,31,95,10,71,22,171,69,62,180,44,34,2,1,1,1,1,1,1,1,1,1,1,1,2,2,1,1,1,3,1,2,1,1,1,2,1,1,1,2,1,3,1,1,2,27,16,3,54,76,23,40,41,39,29,18,152,51,1,2,1,1,2,3,1,3,1,3,1,1,2,3,1,1,2,1,3,1,1,1,1,3,1,3,1,1,3,1,2,2,1,1,1,2,1,2,3,2,1,1,2,2,1,1,1,1,1,1,1,1,2,2,2,2,1,3,1,1,3,1,1,1,4,4,2,1,5,1,1,1,1,1,50,10,3,26,4,1,32,74,109
+Angola	15,129,23,13,40,71,27,84,22,6,8,101,22,84,99,8,26,15,7,162,11,40,25,1,9,98,6,40,23,9,1,2,3,13,120,20,82,84,51,47,120,3,71,26,254,28,66,2,25,61,2,43,63,33,20,64,15,30,8,101,30,63,12,4,13,12,5,272,4,37,2,190,142,16,4,31,36,79,52,6,19,11,37,86,14,8,11,15,13,60,14,60,4,31,29,23,17,2,57,3,42,2,25,75,15,17,63,3,105,30,23,130,18,66,42,110,48,62,24,44,52,9,31,5,25,33,4,10,44,29,12,1,16,6,11,25,25,54,45,1,1,26,152,108,37,42,20,5,6,2,1,54,27,104,1,67,41,27,51,1,102,4,4,11,31,11,1,14,40,1,3,2,11,14,7,2,5,12,2,25,1,17,13,8,7,89,83,14,31,11,1,57,4,109,7,19,106,5,14,34,278,14,46,36,40,129,24,22,63,74,1,6,17,85,1,30,149,1,31,65,70,16,1,1,4,97,36,125,95,4,27,6,76,33,44,118,1,90,9,1,1,32,107,100,1,1,92,166,40,16,144,31,95,10,71,22,171,69,62,180,44,34,2,1,1,1,1,1,1,1,1,1,1,1,2,2,1,1,1,3,1,2,1,1,1,2,1,1,1,2,1,3,1,1,2,27,16,3,54,76,23,40,41,39,29,18,152,51,1,2,1,1,2,3,1,3,1,3,1,1,2,3,1,1,2,1,3,1,1,1,1,3,1,3,1,1,3,1,2,2,1,1,1,2,1,2,3,2,1,1,2,2,1,1,1,1,1,1,1,1,2,2,2,2,1,3,1,1,3,1,1,1,4,4,2,1,5,1,1,1,1,1,50,10,3,26,4,1,32,74,109,71,7,16,1,2,20,5,46,159
 Angola 2010	9399
 Angola A Xalam Analytics Country Report	10781
 Angola Adaptive Safety Nets Report	10768
@@ -356,8 +358,9 @@ Angola and Namibia	6618,3341
 Angola and Rockville	10765,10
 Angola and Rwanda	1867
 Angola and South Africa	1977,2
+Angola and Sudan	11900
 Angola and São Tomé	1599
-Angola and São Tomé and Príncipe	1599
+Angola and São Tomé and Príncipe	1599,10356
 Angola and Tanzania	1147
 Angola opens graft case into would be ruling party	9399
 Angola's ANGOSAT-2	7262
@@ -476,6 +479,7 @@ Angola. While the Code	10765,10
 Angola. With Ericsson	2528
 Angola. Within	11417
 Angola.15 Men	11417
+Angola.3 The DRC	11960
 Angola.A	11482
 Angola.Notably	5363
 Angola.Para Cesaltino Miranda	8160
@@ -568,9 +572,10 @@ Angoli Angola	10780
 Angoli. Dodatna	10780
 Angoli. Ključne	10780
 Angoli. Za	10780
+Angoloa-25	11863
 Angonix	1011
 Angonix IXP	1011
-Angop	1176,973,93,2969,775,1977,345,573,115,240,163,306,1724,3,47,6
+Angop	1176,973,93,2969,775,1977,345,573,115,240,163,306,1724,3,47,6,612
 Angop Benguela	4979
 Angop Cabinda	8053
 Angop Huambo	5721
@@ -670,6 +675,7 @@ Cloud Nacional de Angola	1192
 Cloud de Angola	5954
 Cocody Angré	6810
 Colegio Nacional de Angock Moloho Ebibeyín	4209
+Column Labels Row Labels REF ANG	11900
 Comandante-Geral da Polícia Nacional de Angola	4147
 Comando Geral da Polícia Nacional de Angola	794
 Comando Provincial da Polícia Nacional de Angola	794
@@ -691,7 +697,7 @@ Consulares da República de Angola	11452
 Context for Angola	171
 Contexto O Governo de Angola	11463
 Contexto O Projecto de Aceleração Digital de Angola	11440,1
-Correios de Angola	11396,1
+Correios de Angola	11396,1,700
 Country Profiles Africa Angola Global Cybersecurity	10764
 Câmara de Compensação Automatizada de Angola	11370
 DATA GOVERNANCE IN AFRICA ANGOLA DATA	10781
@@ -738,7 +744,7 @@ Economia Angolana	11434
 Educação de Adultos AAPD Agência Angolana de Protecção	11390
 Effectiveness of Angola’s HIS Jedinstveni	10780
 Elevation Angle Please	736
-Em Angola	4086,2712,1461,2498,3,17,617,11,54
+Em Angola	4086,2712,1461,2498,3,17,617,11,54,608
 Embaixada de Angola	2581,5364
 Embaixador da República de Angola	5319
 Emma Theofelus and Angola	6618
@@ -765,6 +771,7 @@ Esono Angue	5525
 Estado Angolano	14,1,4131,6605,3,624,8,10,29,5
 Estado Angolano. Mas	10751
 Estado Angolano. Publicado	15
+Estado. Angola	12119
 Estatuto Orgânico da Agência Angolana de Protecção de Dados	167
 Estatísticas Vitais de Angola	10775
 Estrangeiros de Angola	10765,10
@@ -899,11 +906,13 @@ Kongamano la Kimataifa la Anga	2868
 LARGE HYDROPOWER PLANTS Angola	11366
 LEGISLAÇÃO ANGOLANA APLICÁVEL	11390
 LEGISLAÇÃO Constituição de Angola Códigos Leis Decretos	11358
+LUALABA SOUTH ANGOLA ZAMBIA ATLANTIC OCEAN	11900
 Legislação Angolana. Sempre	11390
 Legislação Constituição de Angola Códigos Leis Decretos	11358
 Lei de Governo Digital de Angola	11461
 Leigh Angelo	8563
-Lesotho and Angola. The DHA	5533
+Les Anges	11868
+Lesotho and Angola. The DHA	5533,6453
 Lessons The Angola ICR	10779
 Liberation of Angola	9399
 Licenciatura MF M F Angola	10766
@@ -1122,6 +1131,7 @@ SME.45 Angola	9399
 SUMÁRIO EXECUTIVO O Governo de Angola	11406
 SV Angel	10162
 SV Angel. Terra	10200
+Salto Angel	11863
 Sample Angola	10781
 Saneamento Em Angola	10760
 Saúde de Angola	10760,17,3

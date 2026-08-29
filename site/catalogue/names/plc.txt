@@ -1,12 +1,13 @@
 AA KENYA PLC Data Processor INST-2067513A5DB	7167
 ABSA BANK KENYA PLC Data Controller	7167
 ABSA BANK KENYA PLC Data Processor	7167
+AEDC Abuja Electricity Distribution Plc ATC&C	12062
 AURORA ALLIANCE PLC Data Controller INST-767765F81B7	7167
 AURORA ALLIANCE PLC Data Processor INST-767765F81B7	7167
 AUTO SPRINGS EAST AFRICA PLC Data	7167
 About Scancom PLC MTN Ghana	5136
 Access Bank PLC FIG Trade Finance	11469
-Access Bank Plc	4771,7018
+Access Bank Plc	4771,7018,249
 Africom Technologies PLC	7037
 Airtel Africa PLC	891,628
 Airtel Malawi Plc	6291
@@ -18,6 +19,8 @@ BIGOT FLOWERS KENYA PLC Data Controller	7167
 BOC Kenya PLC Data Controller INST-3357766893A	7167
 BRITISH AMERICAN TOBACCO KENYA PLC Data	7167
 BSA GROUP PLC Data Controller INST-359141F532C	7167
+BUA CEMENT PLC	11884
+BUA FOODS PLC	11884
 BWASCO WATER AND SEWERAGE PLC Data	7167
 Board of Scancom PLC	8813
 Briclinks Africa Plc Chief Executive Officer	11764
@@ -27,6 +30,7 @@ British International Investment Plc	1135
 CBS Safaricom PLC CEO	3898
 CENTUM INVESTMENT COMPANY PLC Data Controller	7167
 CENTUM INVESTMENT COMPANY PLC Data Processor	7167
+CEO IXPN ABU Zaria Communication Plc	11857
 CEO of Safaricom PLC	6081
 CEVA INTERFREIGHT KENYA PLC Data Controller	7167
 CORNERSTONE ENTERPRISES PLC Data Controller INST-81759804D7E	7167
@@ -41,6 +45,8 @@ Crown Paints Kenya PLC	6946
 Description MTN Nigeria Communications PLC	925
 Description Vodacom Tanzania PLC	4521
 Dimension Data SPV Funding Plc	8186
+Distribution Plc EKEDP Eko Electricity Distribution	12062
+Distribution Plc PP Percentage	12062
 Dot Com Zambia PLC	6187
 Dot Com Zambia PLC Chief Executive	6187
 EAST AFRICAN CABLES PLC Data Controller	7167
@@ -48,13 +54,16 @@ EAST AFRICAN CABLES PLC Data Processor	7167
 EAST AFRICAN PORTLAND CEMENT PLC Data	7167
 East Africa Breweries PLC Data Controller	7167
 East Africa Connecting Europe PLC Public	6671
+Electric Plc JED Jos Electricity Distribution	12062
 Fidelity Bank PLC	4771
 Fidelity Bank Plc	9752
 Galaxy Backbone Plc	3859
 Helios Towers PLC	460,957,17
+IBEDC Ibadan Electricity Distribution Plc IEDN	12062
 IHS Nigeria Plc	80
 Indicator Safaricom PLC Kenya Ltd Jan-Mar	6671
 Jaiz Bank Plc	4771
+KEDCO Kano Electricity Distribution Plc	12062
 KenGen PLC	1722
 Kenya Electricity Generating Company PLC	1722
 Kepha Muiruri Safaricom Plc	8451
@@ -78,6 +87,10 @@ PLC Data Processor INST-3357766893A NAIROBI Kenya	7167
 PLC Lab	7955
 PLC's	6985
 Parliamentary Legal Committee The PLC	8681
+Plc CAPEX Capital Expenditure CCU Customer	12062
+Plc EPSRA Electric Power Sector Reform	12062
+Plc KAEDC Kaduna Electricity Distribution Plc	12062
+Plc TLF Transmission Loss Factor YEDC	12062
 Royal Dutch Shell PLC	6946
 SAFARICOM PLC Associates	7204
 SAFARICOM PLC RESULTS BOOKLET AUDITED RESULTS	6100
@@ -102,12 +115,14 @@ Scancom PLC H1	8607
 Scancom PLC and MMFL	8607
 Scancom PLC and Mobile Money Fintech LTD	10793
 Scancom PLC's H1	7491
+TRANSNATIONAL CORPORATION OF NIGERIA PLC NSoouterc	11884
 Telekom Networks Malawi PLC	10131
 UNITED BANK OF AFRICA PLC	1829
 Unity Bank Plc. Last	4771
 VTB CAPITAL PLC	1829
 Vodacom Tanzania PLC	4521,5519
 Vodacom Tanzania Plc	10678
-Vodafone Group Plc	1135
+Vodafone Group Plc	1135,10859
 Wema Bank Plc	4771
-Zenith Bank Plc	4771,6586
+Yola Electricity Distribution Plc	12062
+Zenith Bank Plc	4771,6586,681

@@ -28,7 +28,7 @@ B2 COMERCIO Certificado de Comercio	4209
 B3 COMERCIO Certificado de Comercio	4209
 BANCO COMERCIAL PORTUGUES S.A	1829
 BEST IS YET TO COME	5366
-Banco Comercial	2816
+Banco Comercial	2816,9139
 Banco Comercial Português	9832
 BancoMundial Comentário	9426
 Bancos Comerciais	2816
@@ -59,7 +59,7 @@ COMERCIO Certificado de Comercio Libreta	4209
 COMERCIO Ficha	4209
 COMES NEXT	10714
 COMES NEXT The ID4D Global	10714
-COMESA	26,1,1,844,331,501,63,3,44,100,283,94,421,63,962,11,12,93,33,53,589,10,45,1956,481,241,684,18,76,255,41,259,401,158,29,334,500,297,59,181,578,3,15
+COMESA	26,1,1,844,331,501,63,3,44,100,283,94,421,63,962,11,12,93,33,53,589,10,45,1956,481,241,684,18,76,255,41,259,401,158,29,334,500,297,59,181,578,3,15,739,72,83
 COMESA AI	8995
 COMESA Business Council	279,593
 COMESA CLEARING HOUSE Vacancies	11803,1,1
@@ -68,6 +68,7 @@ COMESA Clearing House	2197,4
 COMESA Clearing House Bank Al-Maghrib SIMT	6938
 COMESA Committee of Governors Meeting	11131
 COMESA Committee of Governors of Central Banks	2276
+COMESA Common Market for Eastern and Southern Africa	11960
 COMESA Competition Authority	4583
 COMESA Competition Commission	9817
 COMESA Competition Regulations and Competition Rules	961
@@ -96,6 +97,8 @@ COMESA. Chinyama	4365
 COMESA. Zimbabwe	3760
 COMESAClearingHouse	9516
 COMESA’s Regional Payment and Settlement System	10372
+Certidão Comercial Online	12021
+Certidão Comercial Online Manuais de Utilizador	12021
 Certificado de Comercio	4209
 Certificado de Comercio Certificado de Comercio	4209
 Certificado de Comercio Certificado de Comercio Libreta	4209
@@ -116,12 +119,13 @@ Comercialização Interna de Castanha de Caju	11532
 Comercialização Interna de Castanha de Caju. Comercialização	11532
 Comerciante	11438
 Comerciantes	1701
-Comercio	4209,2632,3086,434
+Comercio	4209,2632,3086,434,1660
 Comercio Digital	10361
 Comercio Exterior	4209
 Comercio Libreta	4209
 Comercio de Bioko Malabo	4209
-Comes	3188,1792
+Comers	11986
+Comes	3188,1792,6984
 Comes Next	4625
 Comes Next The FCCPC	7181
 Comes Next Would Tip the Balance	8464
@@ -196,6 +200,7 @@ PESSOAS SINGULARES COM ACTIVIDADE COMERCIAL	11435
 Partilhar Tweetar Partilhar Email Comentários	2315,3242
 Partilhar Tweetar Partilhar Email Comentários Duas	2444
 Partilhar Tweetar Partilhar Email Comentários São	5819
+Pedido Certidão Comercial	12021
 Política de Comercio	1701
 Processo de Constituição de Sociedades Comerciais	11365
 Protocolo Comercial	1701
@@ -203,6 +208,7 @@ Proyecto de Estudio Zona Libre Comercio	4209
 Purpose COMESA Common Market for Eastern and Southern	2775
 Real Authority Comes Into Question	8380
 Regional Food Balance Sheet COMESA Opens	7020
+Registo Comercial	12021
 S ENTIDADES EQUIPARADAS A SOCIEDADES COMERCIAIS	11435
 SADC and COMESA	7965
 Salaam. Comes	5045

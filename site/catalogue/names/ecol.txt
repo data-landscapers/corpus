@@ -14,6 +14,7 @@ Ecole Formation Cours Autres	737
 Ecole Multinationale Supérieure des Postes	3604
 Ecole Nationale	969
 Ecole Nationale Supérieure des Postes	10948
+Ecole Nationale de Formation Initiale	11905
 Ecole Pay	10942,1
 Ecole Supérieure Africaine des ESF Technologies	3604
 Ecole Supérieure Africaine des Technologies	3604,7307,37
@@ -30,7 +31,8 @@ Ecoles NB Salles SENO	10847
 Ecoles NB Salles Total CASCADES	10847
 Ecoles NB Salles Total CENTRE-NORD	10847
 Ecoles NB Salles Urbain	10847
-Ecological	10969
+Ecoles Normale des Instituteurs	11905
+Ecological	10969,915,1,10
 Ecological Informatics	8604
 Ecological Resources	1988
 Ecological Systems	11006

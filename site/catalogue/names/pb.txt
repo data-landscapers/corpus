@@ -17,6 +17,7 @@ Components RESULT FRAME TBL IO Indicator Name PBC Baseline	1228
 Components RESULT FRAME TBL IO PBC Baseline Intermediate	10964
 Current PBF	10829
 Customer Base Ingestion PB	8999
+Evaluation NPV Net Present Value PBF	11924
 GCI PB 012 EN FIN.pdf	474,2,2,2,2
 GCI PB 019 CLA-2023-FIN.pdf	645,2,211,2
 Governing Global Tech Giants CIGI PB226.pdf	4846
@@ -27,7 +28,7 @@ LMP Labor Management Plan PBA Performance-Based	1264
 MLGRD PBB Estimates	4490
 MOH Report PBF National Technical Unit	10829
 National Action Plan for Youth PBC Employment	10964
-National PBA	969,9860,135
+National PBA	969,9860,135,891
 National Technical Unit for PBF	10829
 National Telecommunication Coverage Project. The PBC	228,1
 O Indicator Name PBC Baseline Intermediate	10964
@@ -80,6 +81,7 @@ PBF and GBV	10829
 PBF. The World Bank CAR Health	10829
 PBKDF2	6766,3136
 PBoC-Central Bank of Libya	10026
+PDSS PBF	11924
 PFM The PBF	10829
 Parliament PBO	1835
 Pbps. Global Content Provider Bandwidth	1766
@@ -102,6 +104,7 @@ RESULT FRAME TBL PD O Indicator Name PBC	10829,135
 Rationale for PBCs	6539
 Redesign the PBF	10829
 SAFE and PBOC	5863
+SO NSO PBO	11863
 Safe City Project. The PBC	259
 Second PB	6000
 Supp I PBB FY2025	5660,1

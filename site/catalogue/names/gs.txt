@@ -3,12 +3,14 @@ ANRT. The GSMA	9868
 APIs. The GSB	2112
 Aayushya Ranjan GSMA	2334
 About GSMA Connected Women The GSMA	11003
+Already GSMA	11857
 Authority GSS Ghana Statistical Service GVA	236
 Authorization Fee GSO	10407
 BAOFANG UV-9RPlus GSP-BAO-UV5-ARCEP- Conforme VITAL SECURITE	998
 BESTTONE BT-1000 BT-1000 GSP-BES-BT1-ARCEP-	998
 BTS GSM Mobile Phones	6946
 BVN and GSI	4848
+Backbone GDP Gross Domestic Product GSM	11857
 CEO of GSN	3727
 Caroline Mbugua of GSMA Africa	8050
 Challenges and Learnings. GSMA	10819
@@ -25,6 +27,7 @@ Dubai. GSU	4934
 E GSP-MOT-DP4-ARCEP-	998
 ENDS- About the GSMA The GSMA	7825
 Economy. GSMA	10841
+Ethiopia and Uganda. GSMA	11902
 Finds New GSMA Study. Press Release	10822
 G Coverage GSMA	10856
 GDJF and GSA	6960
@@ -42,6 +45,7 @@ GSA Ghana Standards Authority SME Small	6936
 GSA Training	405
 GSC Gambia Submarine Cable	1000
 GSCARR-2025-0350.pdf	4074
+GSCID	11986
 GSI Guidelines	4848
 GSIE TECHNOLOGIE C	998
 GSIMT Switch	6938
@@ -49,6 +53,7 @@ GSM Active Voice Subscriptions	3862
 GSM Association	1228,2676,2877,34,4004,22,136
 GSM Association Introduction Benin Ghana Digital	10822
 GSM Association Official Document FS.31 CM	10721
+GSM Connectivity	11857
 GSM FIXED ISP VAS C&I OTHERS	3862
 GSM FSP Providers	10819
 GSM Global System for Mobile Communications Association	6946
@@ -61,21 +66,26 @@ GSM Providers	10819
 GSM SOBEBRA PLAINTES	10821
 GSM and WCDMA	35,9531
 GSM-MTN	10821
+GSM. Banque des Etats	11944
 GSMA AFRICA ME2025 R Web-3.pdf	6289
 GSMA Africa	7793,157,100,191,2287
 GSMA AgriTech Innovation Fund	10856
+GSMA Associates Ltd. Ltd Osondu Nwokoro	11857
+GSMA Authors Kenechi Okeleke	11994
 GSMA Building Digital Ecosystems	5241
 GSMA Caroline Mbugua	10856
 GSMA Connected	11004
-GSMA Connected Women	1169,9835,13
-GSMA Connected Women Commitment Initiative	11003
-GSMA Connected Women Partnership	11004
+GSMA Connected Women	1169,9835,13,947
+GSMA Connected Women Commitment Initiative	11003,961
+GSMA Connected Women Partnership	11004,960
 GSMA Connected Women The GSMA Connected	11017
-GSMA Consumer Survey	5232,5772
+GSMA Consumer	11964
+GSMA Consumer Survey	5232,5772,898,62
 GSMA Consumer Surveys	11004
 GSMA Contents	10856
-GSMA Contents Executive	6593
+GSMA Contents Executive	6593,5401
 GSMA Contributor	10822
+GSMA Coverage	11857
 GSMA DG	3975
 GSMA Data	1264
 GSMA Digital Africa Index for Digital Nations	9820
@@ -85,32 +95,42 @@ GSMA Digital Identity	10822
 GSMA Digital Inclusion Fund	6748
 GSMA Digital Nations and Society	6861
 GSMA Digital Nations and Society Index	6781,34
+GSMA GSM Association	12006
 GSMA GSM Association HPC High-Performance Computing	7548
 GSMA GSMA The GSMA	10856
+GSMA Global Adoption Surveys	11994
 GSMA Handset Affordability Coalition	6593
 GSMA Handset Ethiopia	6593
-GSMA Head Office	6593,4411,13
+GSMA Head Office	6593,4411,13,885,62,30
 GSMA Head Office One Angel Lane	10856
-GSMA Intelligence	1623,858,1,4,4,1,1,1,1,1,2,1,5,1,1,1,1402,3,1,1,4,1,1,1,1755,918,239,54,461,226,452,2047,750,34,3,73,72,757,31
+GSMA Intelligence	1623,858,1,4,4,1,1,1,1,1,2,1,5,1,1,1,1402,3,1,1,4,1,1,1,1755,918,239,54,461,226,452,2047,750,34,3,73,72,757,31,65,107,30,8
+GSMA Intelligence Adult	11964
 GSMA Intelligence Connectivity	6593
 GSMA Intelligence Enterprise	6593
+GSMA Intelligence Fig	11857
 GSMA Intelligence Figure	10856
+GSMA Intelligence GSMA Intelligence	11964
+GSMA Intelligence Nigerian National Broadband Plan	11857
 GSMA Intelligence Operators	6593
+GSMA Intelligence Panos Loukos	11994
 GSMA Intelligence Policies	6593
 GSMA Intelligence and GoYo Analytics	10856
 GSMA Intelligence and Kepios	2483,1,1,4,7,1413
 GSMA Intelligence. Authors	10932
 GSMA Intelligence. Copyright	10932
 GSMA Intelligence. The Mobile Economy Africa	6467
+GSMA Intelligence.5	11994
+GSMA Internet	11857
 GSMA M4H	6024
 GSMA ME SSA 2024 Web.pdf	7548
 GSMA MMU Phase	372
-GSMA Mobile Connectivity Index	7954
+GSMA Mobile Connectivity Index	7954,4052
 GSMA Mobile Data for Humanitarian Action.pdf	6024
 GSMA Mobile Economy Africa	6714
 GSMA Mobile Economy SSA	10856
 GSMA Mobile Industry Leadership	214
-GSMA Mobile Internet Skills Training Toolkit	11004,13
+GSMA Mobile Internet Skills Training Toolkit	11004,13,947
+GSMA Mobile Internet Skills Training Toolkit.43	11964
 GSMA Mobile Internet Skills Training Toolkit.45	11004
 GSMA Mobile Money	5820
 GSMA Mobile Money API	2633
@@ -120,10 +140,11 @@ GSMA Mobile Money Data	5232
 GSMA Mobile Money Deployment Tracker	10977
 GSMA Mobile Money Program	66,306
 GSMA Mobile for Development	719,505,5662,2186,1750
-GSMA Mobile for Development Blog	11004
+GSMA Mobile for Development Blog	11004,960
 GSMA Mobile for Development Blog. The Mobile	11004
-GSMA Mobile for Development Foundation	11003
+GSMA Mobile for Development Foundation	11003,991
 GSMA Mobile for Development Foundation Inc	66
+GSMA Mobile for Development Sayali Borole	11994
 GSMA Mobile for Development. SSA	719
 GSMA Mobile for Humanitarian	195
 GSMA Mobile for Humanitarian Innovation	1224
@@ -143,6 +164,7 @@ GSMA SSA	1923
 GSMA Satellite Regulatory Playbook	7825
 GSMA State	5497,2677
 GSMA Tax Database. Côte	10932
+GSMA The GSMA	11964
 GSMA The GSMA Digital Identity Programme	10822
 GSMA Through Line Advisors Through Line	10856
 GSMA USAID	1169
@@ -156,6 +178,7 @@ GSMA and French AI	8552
 GSMA and IMF	7989
 GSMA and Invictus Global Media Group	9820
 GSMA and OECD.AI	3859
+GSMA and Paradigm Initiative	11857
 GSMA and Pleias	9944
 GSMA and Zindi	8204
 GSMA's African AI	6593
@@ -171,6 +194,7 @@ GSMA-projected GDP	1400
 GSMA-rated	3912
 GSMA. GSMA Mobile Economy Report	5675
 GSMA. Le Mozambique	7737
+GSMA. Lead	11902
 GSMA. Longtemps	5891
 GSMA. Mobile Infrastructure Sharing	5675
 GSMA. Organisations	11017
@@ -190,6 +214,8 @@ GSMA’s Digital Africa Summit	10528
 GSMA’s Handset Affordability Coalition	6714
 GSMA’s Inclusive Tech Lab	5820
 GSMA’s Mobile Connectivity Index	11195
+GSMA’s Mobile Money	11994
+GSMA’s State	11994
 GSMaP	8689
 GSP Portal	8121
 GSP-BAO-UV9-ARCEP-	998
@@ -219,14 +245,19 @@ Gates GSMA Intelligence	11004
 Geographical Information System GSMA	958
 Ghana. GSMA	10819
 Given GS	11417
+Global System for Mobile Communications GSMA GSM	11857
+Gseaopf	11964
 Gsenger and Strle	8283
 Gseocvoenrndmareyn	10969
 ICOM UV-5R GSP-ICO-ICF-ARCEP- VHF	998
 IDAS Pilot. GSMA	10819
 IMEIs. A GSMA	8941
+ITU and GSMA	11857
 Identity The GSMA	10822
+Indonesia and Kenya GSMA Mobile Money	11994
 Infrastructure Program GSC Gambia Submarine Cable	1000
 Introduction Benin Ghana GSMA Head Office	10822
+Ipsos the GSMA	11964
 Kenya GPS Global Positioning Systems GSM	2775
 Kenya. GSH and AKIBA	5743
 Kenya. GSMA	10819
@@ -252,8 +283,9 @@ NCA and GSS	236
 NCA and GSS. Any	236
 Nigeria. GSMA	10819
 POD FDA FBO FTE GHS GS	4153
-Previous GSMA	11004
+Previous GSMA	11004,960
 Prosperity The GSMA Connected Women	11004
+Prosperity The GSMA’s Connected Women	11964
 RSS Dark Mode A GSMA	3463
 Recent GSMA	9349
 Reference Gsenger and Strle2021	8283
@@ -265,6 +297,7 @@ Selon la GSMA	9724
 Sonia Gsir	10865
 Sover1e2ig.7n GSoverenimgneGntoCvleorundmGeonvt	10157
 Specialist GSU01 Sofia De Abreu Ferreira	11525
+Standards GSCID Governance	11986
 Stanford GSB	1037,4561,1730
 Through the GSMA Open Gateway	6714
 Trusted Cross- Border GSM Providers	10819
@@ -272,6 +305,6 @@ UNICEF and GSMA	8050
 UganSocial Inclusion GSM Associa-	10819
 Used GSMA	1363
 VHF GSP-MOT-DP2-ARCEP- Conforme IC-F5000	998
-World Bank and GSMA	6078,1972
+World Bank and GSMA	6078,1972,3956
 YoY. GSMA Intelligence	2500,1414
 Zambia GSMA	10819

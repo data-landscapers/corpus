@@ -12,6 +12,7 @@ AUTORISATIONS REFERENCE MANGA SECURITE N	998
 AVIS DE CONSULTATION OUVERTE DCOT N	9339
 AVISO N	11583
 Act N	11178
+Added Tax Amount of Tax N	11976
 Additif N	5983
 Afghanistan N	10844
 Agence Faso Vêenem. PP-G N	8321
@@ -80,6 +81,7 @@ Citizenship Card No N	10714
 Client UI Platform N	9124
 CoDir Septembre N	10876
 Code Owner N	9124
+Code Review Continuo N	11952
 Comment N	9124
 Commissioner N. Matshe	1554
 Committee Committee Committee N	11134
@@ -101,6 +103,7 @@ DA GUINÉ-BISSAU N	11569
 DECRET N	2625,8281
 DEMOCRATIQUE ET POPULAIRE N	4658
 DGI ORIENTATION STRATEGIQUE N	10712
+DLI Allocation N	11905
 DOCUMENTATIO Chronos des N ET DES OP	10975
 DR. N. RAMGOOLAM	7845
 DREPPNF ET DPEPPNF N Directions Régionales	10847
@@ -128,7 +131,7 @@ Dr. N. N. Wekwete	1554
 Dwivedi N	771
 DÉCRET N	10812
 Décision N	3297,7415,263
-Décret N	311,2113,275,1721,1894,1156,2617,739,29,120,3,551
+Décret N	311,2113,275,1721,1894,1156,2617,739,29,120,3,551,321
 E C O N O M	11586
 E N T	11527
 E N T I D ITEM	582
@@ -137,7 +140,9 @@ E S P O N D	582
 E T R H N EASTERN	582
 E X P A N D	11586
 E. N	7167
+EC N Mandela MM Dora Nginza	11986
 EOL Target Date N	9124
+EQUALITY N	11870
 ER N UPP N ER	2776
 ET N	7470
 Edward N. Z	5700
@@ -161,6 +166,7 @@ F. N. H	8993
 F25 No N	10714
 FHW N	10940
 FHWs N	10940
+FOCUS AREAS RECOMMENDED INITIATIVES N F1	11857
 Facilities Finance Business Unit Owner N	9124
 Fawry Business Tap N Pay	9533
 Fetene N	3791
@@ -208,6 +214,7 @@ ID Identity Card No N	10714
 IDA Crédit N	1178
 II. COMMUNICATIONS ORALES PP-G N	8321
 III. NOMINATIONS PP-G N	8321
+IMPACT N F3 Increase Review	11857
 INSD N	10875
 INSTRUCTION N	10836,686
 INSTRUCTION N RELATIVE A L'IDENTIFICATION	11567
@@ -218,10 +225,14 @@ Identity Card No N	10714
 Identity Card San Marino No N	10714
 Inie N	9739
 Installed Locations N	9124
+Instruction du Gouverneur N	11944
 Iraqi National No N	10714
 Ireland N	10714
 Italy N	10714
 Itanyi N	9739
+J MM J S N J	11953
+J S N J	11953
+J S N J MM J	11953
 J. N	7886
 JO N	10812
 JOURNAL OFFICIEL N	548,11032
@@ -231,6 +242,7 @@ Jeremie N	1219
 Jordan N	10714
 Joseph N. Besong	10841
 Justice N. Bawole	5349
+KWANGO KASAI ORIENTAL TA N Z	11900
 Keizer N	771
 Kenya K E N YA Nairobi	10822
 Kraamwinkel N	1219
@@ -259,7 +271,9 @@ M N PAULSEN	11272
 M. N	8604,67
 MB N	11259
 MCLU Newsletter N	10937
+MEPPSA N	11905
 ML4 NASCOP N L M	4153
+MM J S N J MM	11953
 MP K A UTSA N B	1154
 Magazine BÂTIR N	10937
 Malta N	10714
@@ -294,10 +308,14 @@ Ms N. Marongwe Dr R.T. Masekesa	1154
 Ms. Felicia P. N. Dlamini	11134
 Ms. N. Dlamini	11131,3
 Msasa Current EWZL Owned Offices N	4896
+Multiplier Grant N	11916
 Munshi N	5242
 Mutare EWZL N	4896
 Mutare N	4896
 Mutare Trade Pension Owned Shop N	4896
+N AREAS	11857
+N AREAS AFFORDABILITY Incentivise OEMs	11857
+N AREAS D4 Promote Government	11857
 N Band	5245
 N C I A L	11586
 N C I O N Global	4209
@@ -310,11 +328,15 @@ N D K	11586
 N D- News H- Have	582
 N DATA COMMUNiTiES USE CASE Typically	961
 N Dakar	998
+N FOCUS AREAS RECOMMENDED INITIATIVES TIMELINE	11857
+N FOCUS RECOMMENDED INITIATIVES TIMELINE RESPONSIBLE	11857
 N G N A T U	11586
 N H Pienaar	11270
+N ID State Zone Population	11857
 N IHS	4260
 N IPS.Tender	5864
 N ITEM QUANTITY	1988
+N J MM J S N	11953
 N LT	2776
 N Licensee Project	718
 N Licensees Total Number of Gateways	3862
@@ -328,10 +350,11 @@ N Metula	10102
 N Mobile Technologies Coverage	3862
 N Motsieloa	11289
 N N Data	10719
-N NZUZA	5533,5685
+N NZUZA	5533,5685,768
 N Neutralidade Tecnológica	2866
 N Newton-King	10793
 N Nombre	3396
+N ORGANISATION	11857
 N Operator	3862
 N Operator Access Speed	3862
 N Operator Bandwidth Capacity	3862
@@ -341,6 +364,7 @@ N P R O C	10775
 N PHI N PHIIS PHC PMTCT	4153
 N Programas Educativos	4209
 N Query AUC Response	10617
+N RECOMMENDATIONS	11857
 N Redundancy	9123
 N Reforzamiento	4209
 N S E R	11157
@@ -371,11 +395,14 @@ N. Cherian	11140
 N. Does	7886
 N. E	3782
 N. Edelmann	5349,351
+N. FOCUS AREA RECOMMENDED INITIATIVES PS-1	11857
+N. FOCUS AREA RECOMMENDED INITIATIVES Timeline	11857
 N. General	7845
 N. Goburdhan	3782
 N. Green	11050
 N. Haug	5349,351
 N. I	8605
+N. IMPLEMENTATION COSTS	11860
 N. M	961,1557,8740,52
 N. M. F	8603
 N. M. M	961
@@ -391,7 +418,10 @@ N. S	4676
 N. Tempini	5700
 N. Tirivayi	10768
 N. Vernon	11140
+N. W. Ezechukwu	11994
 N. Wekwete Ms N. Marongwe	1154
+N. and Chantre	11909
+N. and Palmer	12090
 N. van Horen	10718
 NAME OWNER RENTED TYPE ADDRESS N	4896
 NINA Card No N	10714
@@ -414,6 +444,7 @@ North Macedonia N	10714
 Novatek Fintech Owned Offices N	4896
 NtiPoPnI N	11152
 Number S. N Type of License	718
+Number of N	11905
 O N Global Especial Mensual Mensual	4209
 O N Mensual Mensual Mensual Mensual	4209
 O N UNDP	11586
@@ -422,8 +453,10 @@ ORIENTATION STRATEGIQUE N	10712
 Octobre N	10876
 Official Use Onl Licence N	736
 Offres Ouvert National N	9565
+Ofuani N. C	11860
 Oguego N	3791
 Oman Omani ID Card Yes N	10714
+Onyeneke A. N	11860
 Orden Cantidad F U N C	4209
 Ordinance N	10979
 Ordonnance N	548,3251,1171,2500,4110
@@ -440,6 +473,7 @@ PROJET DE LOI N	1801
 Page N	5692
 Panama N	10714
 Par Arrêté N	10087
+Percentage of N	11905
 Pockets Hill EWZL Owned Guest N	4896
 Pockets Hill EWZL Owned Switch N	4896
 Pointe N	3994
@@ -458,6 +492,7 @@ RMNCAH- N	11417
 RYO PRESIDENTIAL ORDER N	1214
 Rapid Response Option. M N	11469
 Reclamações N	11413
+Ref N	11965
 Refused N	5247
 Register Voter Description N	9124
 Regulation N	718
@@ -467,13 +502,15 @@ Republic N	10714
 Resident Identity Card No N	10714
 Responses Increased N	5247
 Rizk N	9739
-Règlement N	8357
+Règlement N	8357,3587
 République du Bénin Référence Loi N	10876
 République du Bénin Références Loi N	10876
 République du Congo N	7152,194,1844
 Résolution N	10975
 S I T Y A N	11586
 S IR C M A N	10775
+S N J MM J S	11953
+S. Leonelli and N. Tempini	12090
 SILUE N	2342
 SOCIETE DE RECHERCHE MINIERE N	998
 STRATEGIQUE N	10712
@@ -496,6 +533,7 @@ T N HE A T	582
 T N S P	6000
 T Y A N D	11586
 TOFE ORIENTATION STRATÉGIQUE N	10712
+TRANSFORMATION NUMÉRIQUE PROJET N	12043
 TV N	582
 Ta N	8460
 Tap N Pay	9533
@@ -536,6 +574,7 @@ West Bank and Gaza Strip No N	10714
 Willowvale EWZL Owned Switch N	4896
 Willowvale Pension Owned N	4896
 Wirelees Pvt Ltd Cession Willowvale N	4896
+Withholding Tax Amount of Tax N	11976
 World N	10844
 Wu N. Trump	7187
 X. N	2518

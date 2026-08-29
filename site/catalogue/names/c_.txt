@@ -9,8 +9,8 @@ AFRICATEL AVS C	998
 AI and Other Emerging Technologies C	7549
 ANEXO C	11406,50
 ANNEX C	3861,3337
-ANNEXURE C	5533
-APPENDIX C	11129
+ANNEXURE C	5533,6453
+APPENDIX C	11129,728
 APPENDIX C BUILDING IDENTIFICATION AND BUILDING	11129
 ATLAS INTERACTIV C	998
 Aarthy C	9128
@@ -27,12 +27,15 @@ Adamson C	9739
 Administrador Grupo C Asesor Grupo C	4209
 Agencies C- Supply	7548
 Akinyi C. Utilization	1219
+Akor R. C	11860
 Allen C	10784
+Alínea C	12018
+Alíneas C	12018
 Amoroso C	766,10014,101
 Amy McDonough and Daniela C. Rodríguez	6948
 Angola. C. Beneficiários	11441,1
 Annex C	7198
-Annexure C	11240
+Annexure C	11240,712,34
 Any Cell C	10673
 Appendix C	236,3626,666,2623,115,524,3227,112
 Appendix C Authorisation	34
@@ -42,6 +45,7 @@ Apêndice C QUADROS DA QUALIDADE	10777
 Apêndice C Quadro C.1 Quadro C.2.1	10777
 Arsenault C	3791,7805
 Arthur C Clarke	9698
+Asuquo A. C	11860
 Attribution ATLANTIQUE TELECOMS C	998
 Attribution DE TRANSPORT C	998
 Ayudante Grupo C	4209
@@ -65,14 +69,17 @@ Bande C WHH-CHA-24M- Conforme Hilfe	998
 Barkman C	1219
 Base C	9123
 Baynes C	766,10014
+Benin C	11867
 Bessat C	10881
 Beyond Cell C Blu Label	11159
 Bié Province Cuando Cubango Province C	11418
-Block C	2776
+Block C	2776,9224
 Bloco C Edificio da ONU CP	10776
 Bodart C	771
 Brook C	10780
+Burkina Faso C	11867
 C Assess International Focusing	961
+C C.1 Pessoa Singular	12018
 C CUOTA ANUAL	4209
 C Comissão Nacional de Direitos Humanos	6530
 C Crime	6970
@@ -90,6 +97,7 @@ C L I M A T	11586
 C List	1988
 C Lovis	1824
 C Months	4972
+C NN	12006
 C NOE-ARA-IDI-ARCEP- Conforme	998
 C News	9736
 C O U N T R	11157
@@ -111,6 +119,7 @@ C Roads	11129
 C SA Vodacom SA Tmcel Mozambique	1013
 C Serviço C SERVIÇOS CENTRAIS EXECUTIVOS	11379
 C Sistema Nacional de Identificação	6530
+C Some Focus	11867
 C Squared InvestCo	610
 C Standards	9123
 C Street NW	5692
@@ -121,13 +130,15 @@ C Transparence	10975
 C Unlawful	972
 C Yaoundé	9916
 C acc	10975
-C and D	11525
+C and C	11922
+C and D	11525,342
 C and D. Figure	10785
 C and Ku Bands	736
 C and Robertson	2096
 C da Silva-Ne	11289
 C ex	10975
 C of Act	11279
+C of Os	11981
 C of Schedule	3714
 C pert	10975
 C reg	10975
@@ -163,6 +174,7 @@ C- Supplier	7548
 C- Targets	7548
 C- Tier-based	7548
 C- Transparence	10975
+C- Universal Access SDG	11863
 C- Withdraw	582
 C- Yes Tablet N	582
 C- Zakat	5864
@@ -177,14 +189,19 @@ C. Article	4420
 C. Assurance	613
 C. Award Public Citizen	5692
 C. B	2816
+C. BANK PERFORMANCE Quality	11924
 C. Baraka	3782
+C. C	11927
+C. COMPLIANCE WITH BANK POLICIES	11863
 C. Cabinet	2626
 C. Cap	7832
+C. Clearance	11863
 C. Climate Change Related Natural Disasters	1828
 C. Cobo	6948
 C. Collaboration	7845,711
 C. Complaint Monitoring	5676
 C. Complaint Monitoring Consumer	5676
+C. Compliance	11863
 C. Conclusion and Policy Recommendations	1828
 C. Confidentiality	4610
 C. Confidentiality and FOIA Information	5773
@@ -199,21 +216,25 @@ C. Developing Human Capital	11140
 C. Di Ciccio	9237
 C. Di Francescomarino	9237
 C. Digital Infrastructure and Affordability AI	11140
+C. Disbursements Arrangements	11905
 C. Draude	9237
 C. E	2816,5787
 C. E. Ndhlovu Prof. I. D.T	1154
+C. EFFICIENCY Assessment of Efficiency and Rating Rating	11924
 C. ELECTION SHAREHOLDER ENTITLEMENTS UNDER	4896
 C. Emezue	11140
 C. Enhanced Review Procedures for High	11233
 C. Enhancing	10768
 C. Entity Accounts With Respect	11233
-C. Environmental and Social	2989
+C. Environmental and Social	2989,8916
+C. Expenditure Framework	11905
 C. F	10780
 C. F. Tabela	10780
+C. FINANCIAL MANAGEMENT	11863
 C. FINANCIAL PROPOSAL	962
 C. Feuille	1218
 C. Fills	3130
-C. Financial Management	2889,8636
+C. Financial Management	2889,8636,338,102
 C. From Promise	7548
 C. G	1243
 C. G. Reddick	5349
@@ -221,7 +242,7 @@ C. Geiger	5349
 C. George	3782
 C. Ghidini	9237
 C. Hefeker	11310
-C. Higher Level Objectives	11525
+C. Higher Level Objectives	11525,330
 C. Homburg	9129
 C. Huawei	11740
 C. INDUSTRY INFRASTRUCTURAL DEVELOPMENT	3862
@@ -258,12 +279,15 @@ C. N. Olien	6948
 C. Newton	4432
 C. Notwithstanding	11233
 C. O	961
+C. OTHER CROSS-CUTTING PRIORITIES	11863
+C. Objetivos	11898
 C. On-budget	3583
 C. Onyefuluchi	11140
 C. Open Finance Lab	4848
 C. P	8603
 C. PDO-Level Results Indicators	11525
 C. POLICIAL S ECONOMICOS DISCIPLINA DISCIPLINA	4209
+C. PROJECT COMPONENTS	11863
 C. Padovani	11028
 C. Participation	822,4808
 C. Payment	7845
@@ -273,17 +297,25 @@ C. Policy Implications	1828
 C. Policy Recommendations	1828
 C. Preparation of Applications	1638
 C. Procurement	1284
-C. Project Beneficiaries	969,295,603,1737,2935,4229,61,135,416,37,132,11
+C. Program Development Objectives	11905
+C. Project Beneficiaries	969,295,603,1737,2935,4229,61,135,416,37,132,11,295
+C. Project Components	11863
 C. Proposed Development Objective	1704,587,1165,7507
 C. R	10726
 C. R. Harvey	11310
+C. RATIONALE FOR BANK’S INVOLVEMENT	11863
+C. RECORD BOOKS	11860
+C. Rationale for Bank’s Involvement C.1	11863
 C. Regular Audits	4610
+C. Relationship	11905
 C. Relevance	969,295,603,1737,2935,4229,61,135,416,37,132,11
 C. Right	1630,1953
+C. Safeguards	11855
 C. Sdralevich	1828
+C. Se	12018
 C. Sectoral Context Key PFM Processes1	1284
 C. Supporting Capital Access and Sustainable Busi-	4848
-C. Sustainability	969,295,603,1737,2935,4229,196,416,145,35
+C. Sustainability	969,295,603,1737,2935,4229,196,416,145,35,295
 C. T. Lundblad	11310
 C. TEEVAN	11155
 C. TEEVAN European Commission	11155
@@ -293,6 +325,7 @@ C. Tax Revenue Performance and Challenges Tax	10997
 C. Teevan	11155
 C. Term	7845
 C. The Challenge	1828
+C. The National Backbone	11857
 C. Types of Exposed Sectors	11140
 C. Utility	7845
 C. Vogeli	5700
@@ -301,7 +334,7 @@ C. What Can Be Done Next	1828
 C. Wu	11140
 C. Z-W	1264
 C. and Satyajit	11133
-C. and Shanahan	11004
+C. and Shanahan	11004,960
 C. and Stein-Kaempfe	11156
 C. the Borrower	1914
 CELTEL NIGER SA C	998
@@ -313,10 +346,13 @@ CONGO C	1828
 CONGO C. The Challenge	1828
 CRP.5 C. Right	3583
 CSP CSP CSP D C S	9123
+Cameroon C	11867
 Can Cell C	4732
 Cat C	5005
 Catalani C	1219
-Category C	5005,2690
+Categoria C	12018
+Categoria C Fica	12018
+Category C	5005,2690,4173
 Cell C	78,1,4653,318,2006,2855,626,85,51,60,60,4,362,36,64,76
 Cell C All-in-One Plus	11259
 Cell C Buy and Get Promotional Bundles	11259
@@ -352,11 +388,12 @@ Cell C and Liquid Intelligent Technologies. Vodacom	5050
 Cell C and Telkom	11195
 Cell C. Now	11335
 Charles C	10
-Class C	3651,2014,2759,15,684,2672
+Class C	3651,2014,2759,15,684,2672,160
 Class C and D	3651
 Class License APPENDIX C OTHER LICENSES	762
 Classe C	2866,8929
 Classes C and D	3651
+Climate Change. C. Other Cross-cutting Priorities	11863
 Comisario Grupo C	4209
 Commission Implementing Decision C	644
 Communication C	7472
@@ -406,12 +443,14 @@ Economies D C B	10785
 Electricité Où C d	10975
 Emerging C- Annual	7548
 Encargado Grupo C Especialista Grupo C	4209
+Engr. Ngozi Ogujiofor Mohammed C. Babajika	11857
 Environment and Planning C	11028
 Excluding Cell C and Comm Equipment Company	9911
 Exporting Digital Authoritarianism C	5242
 F- Busy D C- Yes Tablet	582
 Fase C	1701
 Fiches C	10876
+Figure C	12062
 Form C	5687
 Foster C	5242
 Freedom C Onuoha	9616
@@ -433,7 +472,7 @@ Google Scholar Nkechi C	9739
 Google Scholar Obijiaku C	9739
 Governments C- Readiness	7548
 Grade C	5134
-Group C	2626,8159
+Group C	2626,8159,1082
 Gustavo C	10763
 H E A LT H C	11157
 H. C	10763
@@ -454,6 +493,7 @@ I N C L U S	11586
 I Use C- Make	582
 ID and C	7065
 ID4 D C	10812
+IDA Disbursement Section IV. C	11905
 INTERACTIVE MULT C	998
 INVALID. PART C CHECKLIST OF COMPULSORY	11240
 ISIQEPHU C	11573
@@ -465,6 +505,8 @@ Inspector Grupo C	4209
 Inspector Grupo C Interventor Grupo C	4209
 Interfaces Service C	10876
 Internet Series C Equity Investment Africa50	810
+Ivoire C	11867
+Iwuchukwu C. O	11860
 J. C	2816,2533,4410,1238
 J. C. L	11585
 J. C. Magalhães	11028
@@ -490,7 +532,9 @@ Liu C. Health	10919
 M Series C	606,324,509
 M Series C for MFS Africa	606
 M. C	8604
+M. C. Jippe Team Member Aubain	11924
 M. C. van Schalkwyk	11028
+MAI-NDOMBE D E M O C	11900
 MB. Vodacom and Cell C	11259
 MEASURING PERFORMANCE PART C	5533
 MINFI C	10965
@@ -498,6 +542,7 @@ MINPOSTEL C	10965
 MOOV AFRICA NIGER C	998
 MTN and Cell C	11259
 Maheba C Primary School	1867
+Mali C	11867
 Malik C	11734
 Mapa C	4508
 Marie C	5673
@@ -527,10 +572,12 @@ N C I O N Global	4209
 N C L U S	11586
 N P R O C	10775
 N. C	2518
+NGDX Standards and Architecture Documents Annexure C	11952
 NIGER C	998
 Namibia. C. Conclusion	2022
 National C	10829
 Ndhlovu Prof. Z.BMouarradndCahairman Prof. C. E	1154
+Nigeria C	11867
 None. TABLE C	3714
 Notification Type Cell C MTN Telkom	11259
 Novelli C	5242
@@ -538,14 +585,17 @@ O Regulamento C	11531
 OCWAR C	5677
 OPPORTUNITY The C Development	11006
 Official Use Only C. Implementation Arrangements	11469
+Ofuani N. C	11860
 Okafor C	9739
+Okonkwo C	11860
 Option C	6748
 Orden Cantidad F U N C	4209
 O’Donnell C	1219
 O’Shea C	10784
 P R O T E C	11586
+P. C	11927
 P. W. C	7548
-PART C	3714,1182,637,5664,21,6,16,10,11
+PART C	3714,1182,637,5664,21,6,16,10,11,725
 PDPO. C. EVIDENCE	5113
 PIM. C. Legal Operational Policies	10768
 POL. PERSONAL POL. LUCHA C. R	4209
@@ -556,7 +606,7 @@ Panel C	7886
 Par Thibaud C. NAGNONHOU	4077,2695
 Park C	5242
 Parlamento Jefe Servicio Grupo C Jefe	4209
-Part C	1988,1001,594,131,1182,6344,10,275
+Part C	1988,1001,594,131,1182,6344,10,275,382
 Part C Delegations	11181
 Part C Inquiries	11181
 Part C Insert	3714
@@ -577,8 +627,10 @@ Practices C. Circa	1818
 Processo Eleitoral C N D H	6530
 Production Airtel A B C D	236
 Prof. Z. Muranda Prof. C. E	1154
+Project. C. Project Beneficiaries	11855
 Projecto C. Beneficiários	11440
 Q4. While Series C	4972
+R A T I C RWANDA	11900
 R C- Modem Bande C IRC-CHA-NOR-ARCEP-	998
 R EFE R E N C	396
 R. C. W	8604
@@ -602,10 +654,12 @@ S. C	2518,8617,450
 S. C. P	10763
 SBD4 Declaration of Interest Annexure C	11240
 SECTION C	582,2193
+SNIP. Volet C	12043
 SOSTENIBLE C	1701
 Safeguards Specialist Social GSU01 Jose C	11525
 Sandvig C	8460
 Scale C. Order	2307
+Schedule C	11995
 Secretario General Adjunto C. Nac. UNESCO	4209
 Secretario Grupo C Segundo Jefe Estado	4209
 Secretario Grupo C Servicio	4209
@@ -613,9 +667,11 @@ Section C	582,2226
 Section I. C	10964
 Security C	7538
 Security Emerging C- Certified	7548
+Senegal C	11867
 Series C	606,105,99,8,112,210,288,11,105,679,24,63,772,1242,398,250,718,189,2819,400,46,40,161,1,773,345,490,663
 Servicio Grupo C	4209
 Serviço D Serviço C C Serviço	11379
+Sierra Leone C	11867
 Sistema Político-Institucional. C	1701
 Smart Africa C Drive	961
 Soberanía F U N C	4209
@@ -631,6 +687,7 @@ TABLE OF CONTENTS PART C	11198
 Table C	7,11243,46
 Table C of Schedule	3714
 Tawiah Agyemang C	1219
+Taxa de RTC C	12018
 Teacher Zainab C. Koroma	11651
 Telecomunicações. Licença de Classe C	2866
 Telkom Mobile FNB Connect Cell C	11259
@@ -639,6 +696,9 @@ Tema Limited Operational C	3386
 Terminale C	8877
 Thibaud C. NAGNONHOU	3076,2823,797
 Tinashe C. Makambaire	4529
+Togo C	11867
+Togo. Group C	11867
+Touche Belinda Danquah Emmanuel C. Ugah	11857
 U N C I O N	4209
 User I D C	9123
 Utsu C	9739

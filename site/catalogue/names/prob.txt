@@ -1,7 +1,7 @@
 AI Must Solve Real Problems	9030
 Africa's Cross-Border Payment Problem Is Still	7460
 Agency Problem	9914,1,77,1820
-Aspects of Refugee Problems	11177
+Aspects of Refugee Problems	11177,720,8
 Availability Problem Nobody Talks About	5874
 Behavioural Problems	11180
 Blog The Off-Switch Problem	11006,1
@@ -20,9 +20,11 @@ Everyone Else’s Problem	11006,1
 Finalisé Problématique des Non	10975
 Frame the Problem	4258
 Fritz VB. Problem-driven Political Economy Analysis	1261
+General Problem	11866
 Genuine Problem First	7471
 Governance Problem	5975,1028
 Governance and Accountability Problem Poor HMIS	11596
+Identifying the Problem	12025
 Infrastructure Problem	11138
 Infrastructure Problem Nigeria	11138
 Infrastructure Problem SECTION III The Bridgforte	11138
@@ -48,10 +50,12 @@ Prisons and Probation Officers	2775
 Probabilidade	2784,8632,5,25,131
 Probabilidade Valores Probabilidade	11421
 Probabilidade de Inclusão	11421
-Probabilidades	10777
+Probabilidades	10777,1242
 Probabilidades da Mortalidade Adulta	10777
 Probabilidades de Amostra	10777
 Probabilistic Modelling	11336
+Probability	11953
+Probable	11956
 Probably	1243,4579,4491
 Probation Officers	2775
 Probation and Aftercare	2775
@@ -65,15 +69,16 @@ Problem	396,370,2182,1484,1101,41,401,502,1282,138,124,1,108,3026,109,509
 Problem Driver	6477
 Problem Perhaps	8111
 Problem Solving	6832
-Problem Statement	5246,6019
+Problem Statement	5246,6019,590
 Problem Too	8050
 Problem-driven	1261
 Problemas	10760,17,6,778,8
 Problemas Concretos	8827
+Problemas Estruturais	11898
 Problemas de Comunicação	11561
 Problematic	2948
-Problems	3583,1487,609,2925,1365,1659
-Problème	737,2229,3417,576
+Problems	3583,1487,609,2925,1365,1659,279
+Problème	737,2229,3417,576,4985
 Problème II	6383
 Problème III	6383
 Problème IV	6383
@@ -82,7 +87,7 @@ Problématique	10712,263
 Problématique de Attente	10975
 Problématiques des Conseils	2342
 Quo and Problems	11156
-Refugee Problems	10841
+Refugee Problems	10841,1145
 SHAMING NOT PROBLEM SOLVER	10033
 Solving Complex Problems. Harvard University	11007
 South Africa and Lesotho. Problem	3484

@@ -1,29 +1,38 @@
+ACLED Armed Conflict Location	11887
 ACRONYMS AF Additional Financing ARMP Burundi	1284
 ARMAAN LTD Data Controller INST-284135866B1 NAIROBI	7167
 ARMANDO EMILIO GUEBUZA	1829
 ARMANDO NDAMBI GUEBUZA	1829
+ARME Multisectoral Regulation Agency	11965
+ARME and MMEAP	11965
+ARME and NOSi	11965
 ARMED	10776
 ARMOR	11469
 ARMOR EAST AFRICA IMAGING SUPPLIES LIMITED	7167
+ARMP Accelerating Governance Institutional Reforms General	11905
 ARMP Gère	10876
 ARMP Mise	10876
 ARMP Procurement Regulation Authority	969
 ARMP Public Procurement Regulatory Authority	10829
+ARMP Semiannually Report	11905
 ARMP-	8021
 ARMP-3	8021
 ARMP-4	8021
 ARMP-5 and ARMP-1	8021
 ARMP. Relation	10829
 ARMYTEX INTERNATIONAL SECURITY SERVICES LIMITED Data	7167
-Absence of Armed Conflict	10759,76,2,1,130
+Absence of Armed Conflict	10759,76,2,1,130,902,16,1,1,1
 Absence of Armed Conflict Absence of Violence	10837
-Acronyms ACLED Armed Conflict Location	10759,76,2,1,130
+Absence of Armed Conflict1	11889
+Acronyms ACLED Armed Conflict Location	10759,76,2,1,130,902,16,3
 Angola Dominica Argentina El Salvador Armenia	10764
+Arm's Length	11976
 Armada	6636
 Armadas. Tem	10752
 Armadilha	10751
 Armagh Avenue	4896,642
 Arman Doskaliev	10714
+Armand Christ Kiyaloulou	11897
 Armand Hatchuel	8891
 Armand Hatchuel Ahmed Abaddi Fouad Ben	8891
 Armand Swart	6727
@@ -38,9 +47,9 @@ Armazenagem de Armas Bacteriológicas	11365
 Armazenagem de Armas Químicas	11365
 Armazenamento	6970
 Armazéns de Medicamentos Prestadores	6970
-Armed	3583,1057,2307,390,572,1707,1213,108,80
-Armed Conflict	10835,3,130
-Armed Forces	5270,4779,1468
+Armed	3583,1057,2307,390,572,1707,1213,108,80,840
+Armed Conflict	10835,3,130,902,16
+Armed Forces	5270,4779,1468,340
 Armed Forces Health Services	11401
 Armed Forces SARHO Sudanese Agency for Relief	6947
 Armed Forces and Nigeria Security and Civil Defence	10254
@@ -49,7 +58,7 @@ Armed Services Integrated Information System Establishment	246,92
 Armel Ndoumba. L'attestation	2854
 Armelle Ouédraogo	7353
 Armelle Ouédraogo Dalilha Ky	10125
-Armenia	6849,2233,88,1615,59,2,159,351,253
+Armenia	6849,2233,88,1615,59,2,159,351,253,285
 Armenia Aruba Australia Austria Azerbaijan Bahamas	11470
 Armenia MINASYAN	6613
 Armenia Yes Governmental Decree	11529
@@ -78,6 +87,7 @@ Armée Assimi GOÏTA	1968
 Armée Assimi Goïta	7926,1033
 Armée Philippe MANGOU	7805
 Armée Saïd Chanegriha	4838,2214
+Armée du Salut	11916
 Armée-Nation	3396
 Armées	5907
 Arménie	5361,1252
@@ -85,6 +95,7 @@ Barbuda Argentina Armenia Australia Austria Azerbaijan	11765
 British Army	11783
 CONT. ARMADAS INSULAR INSULAR REG.CONT	4209
 Capacidade De Armazenamento Cresce	8827
+Capacity Strengthening for ARME	11965
 China's People's Liberation Army	7870
 Commonwealth of Independent States Armenia Azerbaijan	10764
 Conflitos Armados	11562
@@ -96,7 +107,7 @@ ESTADO MAYOR DE LAS FUERZAS ARMADAS.-Concepto	4209
 Eric Armel N’Doumba	1814
 Events ARM	2552,1639,797
 Force Armée Congolaise	5103
-Forces Armées	7843,394
+Forces Armées	7843,394,3663
 Forças Armadas	11513,56
 Forças Armadas Angolanas	14,4133,6636
 Forças Armadas Revolucionárias	11513
@@ -111,6 +122,7 @@ HELENA MARISA ARMANDO MUCHINENE	10750
 Humanitarian Operations SLA Sudan Liberation Army	6947
 INAGE Desenvolve Sistema de Armazenamento de Arquivos	570
 INSPEC. GRAL DE LAS FUERZAS ARMADAS.-Concepto	4209
+Indian Army	11925
 Integrated ID Armenia Civil Registry	10714
 Internacional FAA Forças Armadas de Angola FAO	11376
 Ivoire Gala Armand KOUAME Conseiller Technique	10708
@@ -123,13 +135,15 @@ Managing Director. Armin Wieland	11707
 NACIONAL Y ACADEMIAS FUERZAS ARMADAS R	4209
 National Cybersecurity Committee Professor Vinaye Armoogum	9949
 News Army	4351
-Nigerian Army	10566
+Nigeria Army	11928
+Nigerian Armed Forces	11851
+Nigerian Army	10566,1359,51
 Nii Armah Ollenu Street	3386
 Nii Kodzo Armah Street Operational	3386
 OBR ARMP	1284
 Offre Restreint ARMP Autorité de Régulation des Marchés	10876
 PRESTADORES DE ARMAZENAGEM PRINCIPAL	10747
-PUBLIC ADMINISTRATION Absence of Armed Conflict	10835,3,130
+PUBLIC ADMINISTRATION Absence of Armed Conflict	10835,3,130,902,16
 Paratus Namibia's Armada	9953
 Participant ARMP-4	8021
 People’s Liberation Army	8510,1934,898
@@ -141,17 +155,18 @@ Proliferação de Armas de Destruição	11386,18
 Qualité ARMP Agence de Régulation des Marchés	10975
 Republic of Armenia Australia Yes The National	11529
 Retail Army	7446
-SAFETY Absence of Armed Conflict	10759,78
+SAFETY Absence of Armed Conflict	10759,78,1052
 SAFETY Absence of Armed Conflict Absence of Violence	10759
 SEU ARMAZENAMENTO	794
 SEU ARMAZENAMENTO Artigo	794
-Score Rank Absence of Armed Conflict	10838
+Score Rank Absence of Armed Conflict	10838,1048
 Sistemas de Armas Autónomas	2816
 Small Arms Survey Briefing Paper	3583
 Somali National Army	10701
 Sudanese Armed Forces	1851,36,2358,2702,1186,1875
 Synthèse de Armelle Ouédraogo Lefaso.net	9048
 T4 Evolving Armenia Tajikistan Turkmenistan T3	10764
+TA for ARME	11965
 Tableau Armoire Table Meuble	10847
 Terrorist Armed Groups	7452
 Transport des Armées	8237
@@ -163,3 +178,4 @@ Uzbekistan Panama Armenia Türkiye Bolivia Georgia	11563
 Vinaye Armoogum	9948
 Willard Munyoka and Prof. Armstrong Kadyamatimba	2093
 Women Absence of Armed Conflict Absence of Forced	10759
+Women Slowing Deterioration Absence of Armed Conflict	11870

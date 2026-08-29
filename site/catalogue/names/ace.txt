@@ -3,6 +3,7 @@ ACE AUTOCENTRE LTD Data Controller INST-886967D7352	7167
 ACE Africa Coast	1000
 ACE Electoral Knowledge Network	10714
 ACE Electoral Knowledge Network Constitute Project	10062
+ACE Electoral Knowledge Network. Available	11909
 ACE GABON SA	8542
 ACE Gabon SA	8540
 ACE II	8540
@@ -30,7 +31,9 @@ ACENTRIA INSURANCE BROKERS LIMITED Data Processor	7167
 ACENTRIA INTERNATIONAL REINSURANCE BROKERS COMPANY LIMITED	7167
 ACEPA	9203
 ACEPA Seeks National Consultant	9203
-ACERWC	1597
+ACERD	11923
+ACERT	11923
+ACERWC	1597,10380
 ACESSO	11391
 ACESSO AO ENSINO SUPERIORNext Termos	6837
 ACESSO E CONDIÇÕES GERAIS DA ACTIVIDADE	10755
@@ -41,7 +44,7 @@ Abbreviations Term Description ACE Africa Coast	11552
 Ace Technologies Limited Data Controller INST-525122ED6EA	7167
 Aceda	10755
 Acede	10777
-Aceder	167,10588,629,46,19,85
+Aceder	167,10588,629,46,19,85,367
 Aceitante	11438
 Aceitantes	11438
 Aceitar	167,4051
@@ -70,8 +73,9 @@ Acessibilidade	11359,8,12,39,43,55,4,35,1
 Acessibilidade Cesta Básica	11418
 Acessibilidade Digital	5663
 Acessibilidade Estatística	11516
+Acessibilidade Maior	11893
 Acessibilidades	11367
-Acesso	14,1,524,255,1344,678,263,1195,2469,227,1230,2547,8,22,5,576,2,2,5,1,2,1,6,6,4,1,3,5,1,9,19,5,3,85,1,1,3,8,11,14,1,5,7,13
+Acesso	14,1,524,255,1344,678,263,1195,2469,227,1230,2547,8,22,5,576,2,2,5,1,2,1,6,6,4,1,3,5,1,9,19,5,3,85,1,1,3,8,11,14,1,5,7,13,319,120
 Acesso Ao Mundo Digital Para Todos	899
 Acesso Blog Inter	2816
 Acesso Controlado	6462
@@ -82,7 +86,7 @@ Acesso Público	10754
 Acesso Universal	13,2853,1280,7250,1,121
 Acesso Vedado	549
 Acesso Veja	2816
-Acessoriamente	11384
+Acessoriamente	11384,517
 Acessos	11531
 Acessórios	1431,715,2317
 Acronyms ACE Africa Coast	11545
@@ -140,6 +144,7 @@ LEI DAS ACESSIBILIDADES	11367
 Laboratório de Aceleração	11531
 Lei da Acessibilidade	11367
 Lei de Acesso	11358,103
+Licenças Ambientais Acessibilidade	11898
 List of Abbreviations ACE	5244
 Mejora Acelerada	9539
 Melhoria Acelerada	11537
@@ -154,6 +159,7 @@ O Projecto de Aceleração Digital de Angola	8594,2857
 O Projecto de Aceleração Digital de Moçambique	9558
 OPERADORES DE COMUNICAÇÕES ELECTRÓNICAS ACESSÍVEIS AO	10747
 ORABANK UBA ORANGE MONEY ACEP BAOBAB	11588
+Obrigações Acessórias	12018
 Os Aceitantes	11438
 Os Provedores Intermediários de Serviços Acessíveis	6970
 Outras Obrigações de Acesso	11430
@@ -176,8 +182,9 @@ REFORÇO DO ACESSO AO SERVIÇO UNIVERSAL	11397
 REPARTIÇÃO ANUAL DE ACESSO POR TECNOLOGIA	11531
 REPARTIÇÃO GLOBAL DE ACESSO A INTERNET	11531
 Recomendações de Aceitação Em	11442
+References ACE	11909
 Regime Jurídico de Acesso	11448
-Regime de Acesso	11569
+Regime de Acesso	11569,304
 Regras de Acesso	10755
 Regulamento de Acesso	2816
 Requisitos de Acesso	3519
@@ -191,6 +198,7 @@ SECÇÃO II Acesso	11360
 SECÇÃO III ACESSO E INTERLIGAÇÃO	11430
 SECÇÃO IV NÍVEIS DE ACESSO	10754
 SECÇÃO V Acesso	11360
+SEforALL and ACERD	11923
 SUBSECÇÃO I INTERLIGAÇÃO E ACESSO	11430
 Sandra Aceng	7946
 Sanções Acessórias	3519,7911
@@ -203,9 +211,11 @@ Serviços de Acesso Universal	2866
 Serviços de Acesso Universal de Telecomunicações. Artigo	2866
 Sociais PADA Projecto de Aceleração Digital de Angola	11413
 TAXA DE PENETRAÇÃO GLOBAL DE ACESSO	11531
+Termo de Aceitação	12021
 Todos Aceda	9432
 Um Contrato de Aceitação	11438
 Under the Acemoglu	11140
 Unlock ACERO METAL Expansion	4769,394,334,86
 VARIAÇÃO ANUAL DE CRESCIMENTO DE ACESSO	11531
 VARIAÇÃO ANULA D CRESCIMENTO DE ACESSO	11531
+Visit ACERD	11923

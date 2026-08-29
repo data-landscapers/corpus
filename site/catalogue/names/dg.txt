@@ -7,6 +7,7 @@ ARPCE. ARPCE DG Louis-Marc Sakala	1643
 ARPT DG Mamady Doumbouya. Guinean	3549
 Affaires Sociales DGEFC Direction Générale des Eaux	10876
 Africa CDC DG Jean Kaseya	5213
+Allowed the DGCI	11939
 Assessment DGFP General Directorate of Civil Service	969
 Avec DG	2342
 BAI03 DGov	9237
@@ -15,9 +16,12 @@ Bassani DG	3791
 Benin's DGI	1238
 Budget DGFD Direction	10712
 CENTRAL SAH EL SUD-OUE ST DGESS-MENAPLN	10847
+CNE and DGAPE	11909
+CNE and DGAPE. Notwithstanding	11909
 CNEDOGE DG Teodomiro Monsuy Eyi	2683
 COGIL DG LIMITED Data Controller INST-3354963197C	7167
 COGIL DG LIMITED Data Processor INST-3354963197C	7167
+Cabo Verdean Escudo DGTED Directorate of Telecommunications	11863
 Campost DG Pierre Kaldadak	1946
 Centers DGMEC General Directorate for Civil Registry	10812
 Central Supplier Database DG Director General	11250
@@ -41,20 +45,29 @@ DG Arzouma Parfait Louré	3925
 DG Attia Byll	6446
 DG Connect	11155
 DG Connect European Commission	10819
+DG DEPARTMENT OF HOME AFFAIRS	11986
+DG Definition	11986
+DG Delivery of DHA	11986
 DG Development	11155
+DG Director-General Advance Passenger Processing System	11986
+DG EG	11953
 DG Functional	5533
 DG GANADERÍA	4209
 DG INTPA	970,10185
 DG INTPA Directorate General for International Partnerships	970
 DG Impuestos	4209
+DG Indicator	11986
 DG International Partnerships	6552,191,4412
 DG Jordan-Dyani	2902
 DG Justine Adebiyi	6446
 DG Kashifu Inuwa	4725
 DG Makhode	6196
+DG Means	11986
 DG Mohamed Assalia Boncana	4404
+DG NA Disaggregation	11986
 DG Nicolas Yenoussi	1724
 DG North-West Africa	5760
+DG Permanent	11986
 DG Provincial Engagements Resources Programmes Care	11241
 DG RESULTATS ATTENDUS	10712
 DG RTD	11288
@@ -64,6 +77,7 @@ DG SALUD	4209
 DG Semestriel PTA	10876
 DG Solomane Koné	1717
 DG Solomane Koné and Minister Léon Juste	1717
+DG Target	11986
 DG Territorial Admin	3294
 DG Trade and DG Just	11155
 DG Trésor	648
@@ -87,10 +101,11 @@ DG. Japhet Toko	7385
 DG. Page	10876
 DG... Cybersécurité Régulation	10379
 DGA Directeur Général	10876
-DGAENF	2966
+DGAENF	2966,8939
 DGAENF Horaires Activités Présentateurs Jour	2966
 DGAENF Rec	2966
 DGAIE	3044,7814
+DGAPE	11893,16,74
 DGAPR	8891
 DGASJ	6942
 DGASS	11543
@@ -107,6 +122,7 @@ DGCCRF	10647,1095
 DGCI. Para	11532
 DGCIS Development Partnership	2667
 DGCM and GAF AG	10873
+DGCMP	11905
 DGCOOP ANNEXE	3396
 DGCP Public Tenders General Directorate	11549
 DGCT&QoS	11531
@@ -118,8 +134,15 @@ DGDDVHJXLQWH	11530
 DGDVWUR GD	11527
 DGDVWUR GR Ordenamento	11527
 DGDVWUR H GR UHVSHWLYR JRYHUQR	11527
+DGE General Directorate for Environment	11905
+DGEANF	11905
+DGEANF Verification Entity World Bank	11905
+DGEB Collection Reading	11905
+DGEB General Directorate of Basic Education	11905
+DGEB Verification Entity World Bank	11905
 DGEFC	10876
 DGEFC AVI L'ANDF	10876
+DGENAF Collection Sub-indicator Schools	11905
 DGENER	1993
 DGEPASE	11557
 DGESS	10847,27
@@ -208,6 +231,10 @@ DGICRAN	2953
 DGID. Après	6954
 DGID. Article	7346
 DGID. Il	7346
+DGIS Cape Verdean Escudo Disbursement and Financial	11855
+DGIS and DGPOG	11855
+DGIS of MFIS. DGIS	11855
+DGIS. The Project	11855
 DGMEC	10812,2,14,26,14,6
 DGMEC. Health	10812
 DGMP Procurement General Directorate	969
@@ -219,9 +246,13 @@ DGPEPWIG	975,7579
 DGPER Nombre	3396
 DGPLQLV	11530
 DGPN Mame Seydou Ndour	4960
+DGPOG	11855,7
 DGPSN	417,3783
-DGRAD	477,5906,1087,595,122
+DGRAD	477,5906,1087,595,122,3719
+DGRHAS	11905
+DGRHAS Verification Entity World Bank	11905
 DGRN and INIC	3594
+DGRNI	11909,30,82
 DGRRN	4169
 DGSN CNI	3090
 DGSN Director General	4052
@@ -239,7 +270,8 @@ DGTCP	2330,146,920,208,779,2444,3885,146,18
 DGTCP En	3396
 DGTCP Recettes	10876
 DGTCP. L'exécution	10876
-DGTED	3558,6,1765
+DGTED	3558,6,1765,6534,102,43
+DGTED OUTCOME INDICATOR	11863
 DGTIC SETIC BRB SETIC	1284
 DGTTC	10926
 DGTTM	8322,2490
@@ -258,6 +290,7 @@ DGovernment	5349,351
 DGs INTPA MENA and ENEST. DG Trade	11155
 DGs MENA and DG ENEST	11155
 DI DGI	10858
+DRR Banque DGI	11934
 DSS05 Managed Security DGov	9237
 Datacenter de La DGI	10858
 Dedicated DG	10785
@@ -271,10 +304,12 @@ Dgtl Infra	597
 Directeur Général Adjoint DGAS Direction Générale	10876
 Directeur Général Adjoint DGD	10874
 Directeur Général DGA	10874
+Direction DGRHAS Générale des Ressources Humaines	11905
 Direction Générale des Douanes DGEP	10874
 Direction des Affaires Administratives DGEC	10847
 Diretor Geral da DGRN	2688
 Droits Indirects DGTCP Direction Générale du Trésor	10876
+Délégation Générale des Grands DGGT Travaux	11905
 Démographie DG	10874
 EEAS and DG Connect	11155
 EIB and DGT	1405
@@ -296,6 +331,7 @@ Fiches DG	10876
 Finance Institutions DG ECHO Directorate General	970
 Financement du Développement DGI Direction	10712
 Finances DGB Direction	10712
+GDST and DGTED	12008
 GSMA DG	3975
 Gates-funded DG	1368
 German DGTV	1405
@@ -307,6 +343,8 @@ INIC and DGRN	992,2602
 INSA DG	4331
 IV II- DGPE	2342
 Impôts DGTCP Direction	10712
+Information Letter DGPOG General Directorate for Social	11855
+Integrated Tax Management DGI	11906
 Interoperability-Paper DG 2024.pdf	6337
 Investigação Científica DGEPASE Direcção-Geral	11557
 JCPS DG’s Meeting Home Affairs Bill	5533
@@ -329,9 +367,12 @@ Lt Colonel DG Mashele	11285
 Luc Missidimbazi. Note the DG	6033
 L’intervention du DG	6600
 L’évaluation du DG	10876
+MFIS and DGIS	11855
+MFIS’s DGPOG	11855
 Malienne Maïmouna Dicko. Pour la DG	11652
 Managed Requirements DGov	9237
 Matches the DGB	1990
+Methodology DGEANF	11905
 Monsieur le DG. Nous	3849
 Mulheres DGAENF Direção-Geral da Alfabetização	11557
 NESDB DG. Consolidating	5096
@@ -349,12 +390,15 @@ ONECI DG	5283
 ONIP DG Richard Ilunga	1864,1560
 Office of DG	11218
 PDPC DG Dr. Emmanuel Mkilia. Launch	7258
+PIUs. DGE	11905
 PORTEFEUILLE DE L’ÉTAT DGPE DIRECTION GENERALE	2342
 POSAF DGI PLAN D'ORIENTATION STRATÉGIQUE	10712
 POSAF la DGI Rapports	10712
 Per DG Louis-Marc Sakala	1643
 Per the DGI	3579
 Planification DGMEC	10874
+Politique Fiscale DGEFRI Direction Générale des Etudes	11944
+ProCapital and DGTED	11863
 Quand la DGI	6383
 RECETTES BRUTES DGI	10712
 Rapport Rapport DGB	643
@@ -369,16 +413,20 @@ Secrétariat du DG	10876
 Secundário DGESIC Direção-Geral	11557
 Selon la DGE	3389
 Selon la DGI	9192
-Selon le DG	2758
+Selon le DG	2758,9316
 Signature du DGCC	10975
 Sistema Educativo DGPEE Direção-Geral de Previsão	11557
 Smart Africa Alliance DG Lacina Kone	5348
 Smart Africa DG Lacina Koné	3959,3238
+Statistiques DGEPF Direction Générale	11944
 Support DG	10876
 Support Facility DA Designated Account DGE	11549
 System DFI Development Finance Institutions DG	11224
 TRIBUNE du DG Paterne Binene	10163
+Tidiane Ouattara Appointed Inaugural DG	12133
+Tot DG	11867
 Transmission des DG	10876
 Tré- DG	2342
+UGPE and DGTED	11965
 VRR Togo DGDN Database	10714
 Vision La DGPE	2342

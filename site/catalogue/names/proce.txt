@@ -452,6 +452,7 @@ Appeal Process	5665
 Appeal Process Reject Page	10819
 Appkings Solutions Limited Data Processor INST-20601121C7F	7167
 Applicants. E. Procedures for Evaluation of Applications	1638
+Application Processing Indicator	11986
 Application of Criminal Procedure Act	11190
 Apt Realty Limited Data Processor INST-30388429B2D	7167
 Aptivaa Management Consulting LLC Data Processor	7167
@@ -465,6 +466,7 @@ Ashley Aryo Digital Data Processor INST-71869421350	7167
 Assessment Procedure	1824
 Asset Payment Processor Virtual Asset Investment	10738
 Attributes Standardisation Process	8606
+Automated Core Processor. Given	11986
 Automated Processing Provides	10908
 Automatic Data Processing	972
 Automatic Processing of Personal Data	8776
@@ -739,6 +741,7 @@ Beth Wairimu Maingi Data Processor INST-560750CB16D	7167
 Beth Wanjiku Chira Data Processor INST-2158780A190	7167
 Betterby Limited Data Processor INST-1426212E04B MOMBASA	7167
 Beverly Achieng Data Processor INST-5982212E355 NAKURU	7167
+Big Data Processing Capacity RAM	11863
 Billy Ogero Data Processor INST-2351663BFD3 NAIROBI	7167
 Binary Limited Data Processor INST-748523D5FFC NAIROBI	7167
 Bioneer Corporation Data Processor INST-46323341196 NAIROBI	7167
@@ -775,10 +778,11 @@ Bungoma County Data Processor INST-718851D3EBE BUNGOMA	7167
 Bungoma County Data Processor INST-8146561DA86 BUNGOMA	7167
 Bungoma West Hospital Data Processor INST-8497939EDCF	7167
 Business Information Processing	11156
+Business Process	12064
 Business Process Flow	10765,10
 Business Process Management Journal	9129,108
 Business Process Modelling Business	9124
-Business Process Outsourcing	2428,4518
+Business Process Outsourcing	2428,4518,4917
 Business Processes Automation Phase	11231
 Business Rescue Proceedings	11250
 Business Rescue Proceedings Commenced	11250
@@ -1024,6 +1028,7 @@ CONFY AUCTIONEERS Data Processor INST-2789838B750 UASIN	7167
 CONNECTIVITY OPTIONS LIMITED Data Processor INST-3873650750C	7167
 CONNIE ALUOCH STYLING MANAGEMENT Data Processor	7167
 CONRAN TRADERS LIMITED Data Processor INST-579994D5786	7167
+CONSELHO DE MINISTROS Procede	11983
 CONSOLATA SHRINE Data Processor INST-636647DC29F NAIROBI	7167
 CONSULT CABANE AFRICA LIMITED Data Processor	7167
 CONSULTING LIMITED Data Processor INST-198778CBA2C NAIROBI	7167
@@ -1057,6 +1062,7 @@ CPF ASSET MANAGERS LIMITED Data Processor	7167
 CPF FINANCIAL SERVICES LIMITED Data Processor	7167
 CPF Mwamba Trust Fund Data Processor	7167
 CPHRM GROUP LIMITED Data Processor INST-230182B3DB0	7167
+CPU Central Processing Unit CSA Cloud	11952
 CR and ID Process and Procedures Rationalize CR	10765
 CRAFT REFINE CONSULTING LTD Data Processor	7167
 CRAFT SILICON LIMITED Data Processor INST-856110EE389	7167
@@ -1176,6 +1182,7 @@ Classic Talents Optimization Limited Data Processor	7167
 Cloud Productivity Solutions Limited Data Processor	7167
 Co. Advocates Data Processor INST-4351920F009 NAIROBI	7167
 Code SOP Standard Operating Procedure UHC	9855
+Code of Criminal Procedure	11900
 Colcheccio Limited Data Processor INST-982584F4D6A LAIKIPIA	7167
 Collection and Processing	4951
 Collection and Processing Personal Data	11662
@@ -1193,6 +1200,7 @@ Computer Science and Data Processing	6832
 Computer Vision Robotic Process Automation	4528
 Computerization of Government Procedures	10663
 Conclusão de Processo	11452
+Conditions for Lawful Data Processing	11896
 Condições de Processamento de Dados Pessoais	11374
 Conference Proceedings	1248,1568
 Confidential Attributes Symbol Example Process Name	9124
@@ -1215,8 +1223,9 @@ County Youth and Adolescent Network Data Processor	7167
 Credit Bank Plc Data Processor INST-5006303240E	7167
 Credops Kenya Limited Data Processor INST-458599E2EB7	7167
 Crescent Tech Ltd Data Processor INST-849295FCFA0	7167
-Criminal Procedure Act	2307,1407,509,860,6105,2
+Criminal Procedure Act	2307,1407,509,860,6105,2,667
 Criminal Procedure Code	10979
+Criminal Procedure Code Law	11857
 Criminal Procedure Law	9064
 Criminal Procedure and Evidence Act	972,7892
 Cross Border Processing	10157
@@ -1268,7 +1277,7 @@ DASH BPO LTD Data Processor INST-7958309076A	7167
 DATA CENTRE LIMITED Data Processor INST-109186885B9	7167
 DATA GHALA LTD Data Processor INST-986333A597B	7167
 DATA ORIGIN TECHNOLOGIES LIMITED Data Processor	7167
-DATA PROCESSING	3861
+DATA PROCESSING	3861,7999
 DATA PROCESSING AND PROTECTION Defining	961
 DATA PROTECTION Processing	1333
 DATA RUSH SERVICES LIMITED Data Processor	7167
@@ -1333,6 +1342,7 @@ DEVKI STEEL MILLS LIMITED Data Processor	7167
 DEZIGNIKA KENYA LIMITED Data Processor INST-824444D421D	7167
 DEZZO COMMUNICATION LIMITED Data Processor INST-2379133D535	7167
 DFT HEALTH SERVICES LTD Data Processor	7167
+DG Director-General Advance Passenger Processing System	11986
 DHAMANA GUARANTEE COMPANY LIMITED Data Processor	7167
 DHLAKS HOLDINGS LIMITED Data Processor INST-85534144CB9	7167
 DIALESCAS AFRICA LIMITED Data Processor INST-2001718DF7D	7167
@@ -1436,18 +1446,28 @@ Data Centre Processing	9123
 Data Controller and Data Processor	27
 Data Controller and Data Processor Information	27
 Data Controller and Processor of Major Importance	8118
-Data Controllers and Data Processors of Major Importance	8118,60
+Data Controllers and Data Processors	11956
+Data Controllers and Data Processors Article	11956
+Data Controllers and Data Processors of Major Importance	8118,60,3778
 Data Controllers and Processors Entity Steering Committee	6432
 Data Controllers and Processors of Major Importance	8078
 Data Controllers and Processors of Major Importance. Quoting	8118
 Data Controllers and Processors of Significant Importance	4583
 Data Integrated Limited Data Processor INST-9352264489B	7167
 Data Labelers Association Data Processor INST-9143850AC00	7167
-Data Processing	3861,1383,1188,1319,3378
+Data Processing	3861,1383,1188,1319,3378,827
+Data Processing Agreement	11956
+Data Processing Agreement Article	11956
+Data Processing Fees	11956
+Data Processing Service Unit	11956
+Data Processing Software	11956
 Data Processing The WBES	10862
+Data Processing Which Requires Consent	11956
+Data Processing Which Requires Consent Article	11956
 Data Processing and Protection	961
-Data Processor	972,658,479,1752
+Data Processor	972,658,479,1752,8095
 Data Processor Accountability	3861
+Data Processor Article	11956
 Data Processor Engagement	4583
 Data Processor INST-1076953B704 VIHIGA Kenya	7167
 Data Processor INST-115440AC131 UASIN Kenya	7167
@@ -1557,9 +1577,12 @@ Data Processor INST-97741718905 MOMBASA Kenya	7167
 Data Processor INST-980101438DC MACHAKOS Kenya Renewed	7167
 Data Processor INST-98856881106 NAIROBI Kenya Renewed	7167
 Data Processor INST-9993924E7E6 NAIROBI Kenya	7167
-Data Processor of Major Importance	11763
+Data Processor of Major Importance	11763,193
+Data Processor of Major Importance Article	11956
 Data Processor of Major Importance. The NDPC	11763
+Data Processors	11956
 Data Processors of Major Importance. FIJ	11763
+Data Transaction Process	11952
 Datasec Limited Data Processor INST-9632430615D NAIROBI	7167
 Dataworld Research Limited Data Processor INST-743082275A3	7167
 David Kibira Data Processor INST-429820F224E NAKURU	7167
@@ -1575,11 +1598,13 @@ Departamento de Procedimentos Fiscais DSF	11435
 Departamento de Procedimentos Fiscais DTF	11435
 Department of Agriculture Busia County Data Processor	7167
 Department of Health- Garissa County Data Processor	7167
-Departmental Disciplinary Code and Procedures	5533
+Departmental Disciplinary Code and Procedures	5533,6453
 Deployment Procedures	5665
+Deployment Processes	11952
 Description Review of Electoral Processes	5641
 Description of Process	1778
 Desenvolvimento POP Procedimentos Operacionais Padrão	11376
+Designation of Data Controllers and Data Processors of Major	11956
 Desmaterialização de Processos	11461
 Detection Process	10721
 Detection Process CIRMR-DP.S1	10721
@@ -1589,6 +1614,7 @@ Devido Procedimento	11388
 Devpart Consult Data Processor INST-910183D2B2B NAIROBI	7167
 Dhig GmbH Data Processor INST-462142FDCF6 NAIROBI	7167
 Dickson Gitonga Kabete Data Processor INST-486047FF24E	7167
+Differential Registration Procedures	11977
 Diffusion Processes	10323
 Digital Green Foundation Data Processor INST-8837942E222	7167
 Digital Health Agency Data Processor INST-74526950625	7167
@@ -1624,6 +1650,7 @@ Dyron Howell School Data Processor INST-582309ACAD9	7167
 E BARMAO AND ADVOCATES Data Processor	7167
 E&M CREATIVE AGENCY LIMITED Data Processor	7167
 E&M TECHNOLOGY HOUSE LTD Data Processor	7167
+E. DATA PROCESSING	11860
 E. Timing of Review and Additional Procedures Applicable	11233
 EAGLE EYE AUCTIONEERS Data Processor INST-96173261BCA	7167
 EAGLE HR CONSULTANTS LIMITED Data Processor	7167
@@ -1710,6 +1737,7 @@ El Monitoreo de Proceso	1701
 Eldohub Innovation Center Data Processor INST-123035BFEA4	7167
 Election Process	8866,1048
 Election Process and Election Guidelines	8866
+Electoral Process	11909
 Electoral Process Act No	8513
 Electoral Processes	10390
 Electric Sector Transformation Process	11366
@@ -1723,8 +1751,10 @@ Elgeyo Marakwet Data Processor INST-743998EB731 ELGEYO	7167
 Elgeyo Marakwet Data Processor INST-816005CB495 ELGEYO	7167
 Empoderamento da Mulher PPP Processo de Participação Pública	11390
 Empowerment BPMN Business Process Modelling Notation	11184
+Enabling the Processing of MOSOLO Card Transactions	11994
 End-to-End Digital Processes	3088
 Enforcement Process Regulations	3945
+Enforcement Processes	11993
 Enterprise Creation Procedure Centre	10980
 Entity Accounts. A. Review Procedures	11233
 Environmental and Social Risk Management Procedures	1988
@@ -1733,8 +1763,11 @@ Epidemiological Data Processing Center	10775
 Establish Procedures for Incident NCC MOPT	1777
 Eurasia Proceedings of Educational and Social Sciences	6948
 Evaluation Process	11240
+Evaluation of Lawful Bases of Data Processing	11956
+Evaluation of Lawful Bases of Data Processing Article	11956
 Evidence-Based and Consultative Process Delivering	8367
 Examples of RADIOSCOPICALLY GUIDED INTERVENTIONAL PROCEDURES	11269
+Excessive Processing of PD	11956
 Exit Process	34
 Export Processing Zones	2775
 External Audits Application Process for Potential Trust	10819
@@ -1750,6 +1783,7 @@ Finances. Processus	10693
 Fiscal Transparency Review Process and Criteria	11005
 Food Processing Industry Investigation of Water Tube	1154
 Forfeiture of Proceeds of Crimes Act	2726,1
+Fundamental Rights Enforcement Procedure Rules	11956
 Funding for Advance Passenger Processing	11285
 G License Following Competitive Tender Process	3221
 G TELCOMS LIMITED Data Processor INST-296014BF144	7167
@@ -1775,6 +1809,7 @@ GlobalSystemArchitectureDiagram Process	8606
 Governance Operational Procedures PROCEDURE PROCESS FLOW	6432
 Graphics Processing Unit	8219
 Graphics Processing Units	6583,642
+Grievance Procedures	11986
 Grounds and Procedures	5665
 HEALTH INFORMATION MANAGEMENT PROCEDURES	2709
 HOMABAY COUNTY Data Processor INST-15136082003 HOMABAY	7167
@@ -1798,6 +1833,7 @@ I INSTRUÇÃO DO PROCESSO DE AUTORIZAÇÃO	794
 ICT Innovation Programme and Business Process Outsourcing	1283
 ID Processing Errors	4439
 IEC Defends Integrity of Process IEC Vice	9315
+IGEPSA Procedure and ENFICE	11905
 IHE Change Proposal Process	1009
 II.2.3.1 Processus	10876
 INDIVIDUALS WITH REGARD TO THE PROCESSING	1333
@@ -1816,7 +1852,7 @@ Immunization. Process	8376
 Implementation Procedure	3503
 Implementation Procedures	3502,1
 Implementation Procedures. An Emergency Continuity	3503
-Implementation Process	3840
+Implementation Process	3840,8185
 Implementation Process Phases	3840
 Implementation Process of Street Addressing Guidelines	11129
 Improvement of Land Administration Procedures	8
@@ -1826,6 +1862,7 @@ Inc. Data Processor INST-3339002F83C NAIROBI Kenya	7167
 Incident Management Process	8897
 Incident Management Process The Cybersecurity Hub	8897
 Initial Screening Process	11209
+Inner Setting and Implementation Process Domains	12025
 Institutional Framework and Processes	10819
 Institutional Framework and Processes Page	10819
 Instrução de Processo	11452
@@ -1837,7 +1874,7 @@ JAMES ASSOCIATES ADVOCATES LLP Data Processor	7167
 JAMLICK MICHENI MUTHUURI Data Processor	7167
 JOSPHAT KYALO SAMMY Data Processor	7167
 Journal of Process Management and New Technologies	9237
-Judicial Processes	10759,76,2,1,130
+Judicial Processes	10759,76,2,1,130,902,16,1,1,1
 Judicial System Judicial Processes Equality	10759,78
 KENNETH ADVOCATES LLP Data Processor INST-983602FF56B	7167
 KENYA Data Processor INST-14995135BCE NAIROBI Kenya	7167
@@ -1854,7 +1891,7 @@ Kakamega County Data Processor INST-432425862D6 BUNGOMA	7167
 Kenya Limited Data Processor INST-642544415AD NAIROBI	7167
 Kimberley Process	2889
 Kisumu County Data Processor INST-175606322DE KISUMU	7167
-LABOUR ENVIRONMENT Judicial Processes	10835,3,130
+LABOUR ENVIRONMENT Judicial Processes	10835,3,130,902,16
 LIMITED Data Processor INST-10323276806 NAIROBI Kenya	7167
 LIMITED Data Processor INST-10684197F45 NAIROBI Kenya	7167
 LIMITED Data Processor INST-110895ADA40 MERU Kenya	7167
@@ -1916,7 +1953,10 @@ Labour Management Procedures	1988
 Labour Management Procedures MoA Ministry of Agriculture	1988
 Land Processes Distributed Active Archive Center	11334
 Languages Processing	4126
+Lawful Bases of Data Processing	11956
+Lawful Bases of Data Processing Article	11956
 Lawful Bases of Processing	6792
+Lawful Basis and Context of Processing	11956
 Legal Obligations and Procedures	3861
 Lei Processual Penal. CAPÍTULO IV ELEMENTOS	549
 Leonard Kamenwa Njenga Data Processor	7167
@@ -1944,17 +1984,23 @@ MEDICAL CLINIC LTD Data Processor INST-57255188A6C	7167
 MEDICARE LTD Data Processor INST-24904985BE6 WAJIR	7167
 METHODOLOGICAL PROCEDURES	8604
 MISSION Data Processor INST-52058900CEE UASIN Kenya	7167
+MODIFY DATA PROCESSING	11956
 MWEA Data Processor INST-59724551F3D EMBU Kenya	7167
-Major Data Processing	8078,40
+Major Data Processing	8078,40,3838
+Major Data Processing-Extra High Level	11956
+Major Data Processing-Ordinary High Level	11956
 Managed Business Process Controls	9237
-Mandatory Upload of Electronic Copies of Processes	8978
+Mandatory Upload of Electronic Copies of Processes	8978,3085
+Manuais de Procedimentos	11898
 Manual de Procedimentos Internos	11370
 Manual of Procedures	3640
 MappingWordnetsontheflywithpermanentsensekeys. Proceedings	8606
+Material Context of Data Processing and Priority	11956
 Maua Medical Centre Data Processor INST-1371641ACD1	7167
 Meaning SOP Standard Operating Procedure SSA	11218
 Media Data Processor INST-801646B309F NAIROBI Kenya	7167
 Medium Enterprises Standard Operating Procedures Science	4528
+Medium Term Period Process	11986
 Medium-Term Budget Preparation Process	7831
 Meetings and Proceedings of Board	3887
 Methodology Business Process Used	9124
@@ -1968,6 +2014,7 @@ Monitoring and Evaluation Processes and Reporting Mechanisms	4528
 NDGC Standard Operating Procedures Manual	3861
 NLP. Proceedings	7548
 NOTIFICATION PROCESS	10819
+Naira Speed Wallet Recovery Process	11861
 Nandi County Data Processor INST-158202F1674 NANDI	7167
 Nandi County Data Processor INST-63153456D27 NANDI	7167
 Nat Lang Process J	9739
@@ -1991,6 +2038,7 @@ OBLIGATIONS OF CONTROLLERS AND PROCESSORS	1474
 OFFICER REMUNERATION OF DIRECTORS PROCEEDINGS	585
 OMEGA D.M Data Processor INST-988415D993D	7167
 Object and Restrict Processing	3861
+Onboarding and Transactional Processes	11861
 One-Envelope Bidding Process	8166
 Open Data Licensing and Publication Procedures Sectoral	3861
 Operating Procedures	1988,1803
@@ -1998,12 +2046,14 @@ Operating Procedures. Mogadishu	11596
 Organ Behav Hum Decis Process. Dec	10919
 Organizational Behavior and Human Decision Processes	5349
 Outros Procedimentos de Consulta	11520
-PARLIAMENTARY PROCEDURE	5872,5408
+P-8 Harmonize Process and Establish Uniform Framework	11857
+PARLIAMENTARY PROCEDURE	5872,5408,774
 PART IV PROHIBITIONS ON THE PROCESSING	10974
 PART SEVEN PROCEDURES FOR TRANSFER	762
 PBF Procedural Manual for Education. IBRD	11560
 PBF Procedural Manual for Health. IBRD	11560
 PCU Procedures	11525
+PD Processing	11956
 PERSONAL DATA PROCESSING Article	11517
 PERSONAL DATA PROCESSING PRINCIPLES SECTION	10974
 PERSONAL DATA SEE VTE PROCESSING	10974
@@ -2058,12 +2108,14 @@ PROCESSO DE ELABORAÇÃO DA ENDE	11526
 PROCESSO ELEITORAL	11528
 PROCESSOR	2668,41,8265
 PROCESSORS	1333,141,2387
+PROCESSORS OF MAJOR IMPORTANCE AND ALL	11956
 PROCESSORS Safe	1333
 PROCESSOS ADMINISTRATIVOS	11397
 PROCESSOS DE OBRAS PÚBLICAS E ENERGIA	11473
 PROCESSOS DE RECURSO EM SESSÃO PLENÁRIA	11473
 PROCESSOS ELECTRÓNICOSNext	11473
 PROCESSUS	10876
+PROJECT PROCESSING SCHEDULE TO BOARD APPROVAL	11863
 PTE LTD Data Processor INST-925756A546A NAIROBI	7167
 PUBLIC LIMITED COMPANY Data Processor INST-490749FDE56	7167
 Packaging Procedure	1988
@@ -2072,8 +2124,10 @@ Pall Mall Process	10949
 Part D Procedure	11181
 Participation and Collaboration Processors	3861
 Paul Njunguna Ngugi Data Processor	7167
+People and Process	11956
 Periodic Review License Renewal Process Steps	5665
 Personal Jurisdiction Over Data Controllers and Processors	3861
+PforR Policy and Procedures	11905
 Planning CONSUMER PROCESS Compare	418
 Platform APC Article Processing Charge ARC	5246
 Policies and Procedures GC-PP	10721
@@ -2088,12 +2142,12 @@ Prequalification Procedures	1638
 Princípio da Adequação Procedimental	11388
 Proce	972
 Procedam	11363
-Proceder	167,4051,7156,7,1,53,8,6,69,1,8,42
+Proceder	167,4051,7156,7,1,53,8,6,69,1,8,42,332
 Procederá	163
-Procedeu-se	11543,26
+Procedeu-se	11543,26,332
 Procedia	9129
 Procedia Computer Science	226,5123,3256,523,1
-Procedimento	539,37,3981,6826,5,18,29,17,9,57,2,62
+Procedimento	539,37,3981,6826,5,18,29,17,9,57,2,62,319
 Procedimento Administrativo	11388,45,19,9
 Procedimento Administrativo Conjunto	11388
 Procedimento Geral de Consulta	11518
@@ -2140,18 +2194,21 @@ Procedural Law	26
 Procedural Law Assistance	26
 Procedural Legitimacy	10062
 Procedural Safeguards	2307,1554
-Procedure	11,1977,178,141,118,1289,7265,150,52
+Procedure	11,1977,178,141,118,1289,7265,150,52,687,37
+Procedure DLR	11905
 Procedure Make	9109
 Procedure Periodically	1988
 Procedure and House Rules Committee	10313
 Procedure for Submissions Submission	6748
-Procedures	969,31,750,238,1690,536,1451,1162,962,1198,868,866,50,410,343
+Procedures	969,31,750,238,1690,536,1451,1162,962,1198,868,866,50,410,343,346
+Procedures ESCON Environmental and Social Compliance Note	11863
 Procedures MWFSC Ministry of Women	11525
 Procedures Manual for Environmental and Social Management	1988
 Procedures Manual. The FM	10829
 Procedures Manuals	11525
 Procedures N	6946
 Procedures Performed	4896
+Procedures and Criteria for Citizenship Determining Refugee	11986
 Procedures and Criteria for Determining Refugee	5533
 Procedures and Guidelines	11129
 Procedures for Asbestos Removal	1988
@@ -2162,7 +2219,7 @@ Procedures for Voting	7198
 Procedência	10777
 Proceed	9960,150
 Proceeding	6950
-Proceedings	3,223,359,658,850,3,1618,718,7,590,320,1572,27,811,371,330,144,2,260,262,1,108,502,1041,226,44,85,5,16
+Proceedings	3,223,359,658,850,3,1618,718,7,590,320,1572,27,811,371,330,144,2,260,262,1,108,502,1041,226,44,85,5,16,934
 Proceedings of Directors Rationale This Article	8866
 Proceedings of Khatri	9237
 Proceedings of Machine Learning Research	8301
@@ -2174,8 +2231,9 @@ ProcesSing	11517
 Proceso de Enseñanza-Aprendizaje	4209
 Proceso de Recopilación de Datos	8378
 Procesos	4209
-Process	1161,827,127,4,870,725,399,415,105,716,351,73,116,534,1595,265,93,230,517,114,1528,10,9,30,5,187,125
+Process	1161,827,127,4,870,725,399,415,105,716,351,73,116,534,1595,265,93,230,517,114,1528,10,9,30,5,187,125,724,2,52,26,119
 Process A Well	9123
+Process Analysis	11941
 Process Autonomy	8283
 Process Autonomy. Stage	8283
 Process Evaluation	958
@@ -2190,6 +2248,7 @@ Process Metric Update for Q2	3972
 Process Metrics	4153,14,35,15,43,89,1003
 Process National Rwanda Is Counting Everything	5889
 Process Outcomes	7548
+Process PROCESS FOR THE REGISTRATION	12064
 Process Re-engineering Programme	11131
 Process Refer for Approval Page	9124
 Process Reporting Critical Factors	11131
@@ -2197,6 +2256,7 @@ Process Reporting Monetary Policy Economic Review	11131
 Process Service Order Connection Uses	9124
 Process Theory View	11006
 Process Visa Application	9124
+Process and Board	11857
 Process and Policy	2093,3256,351
 Process and Result Verification for Transparency	9986
 Process and Results Verification Statement	10054
@@ -2211,20 +2271,23 @@ Processamento	2816,8589,16,17,8,74,57
 Processamento de Dados	10754,23
 Processamento de Dados Pessoais	11374
 Processamento de Dados Pessoais Princípio	11374
+Processamento de Imagem	12019
 Processamento de Linguagem Natural	2816
 Processar	167,2649
+Processe	11862
 Processed	3931,7305
-Processes	1824,2037,667,1137,35,1521,1,3597,145
+Processes	1824,2037,667,1137,35,1521,1,3597,145,992
 Processes of Technological Innovation. Lexington	5349
 Processes6	8606
 Processes9	8606
 Processiflg	11517
 Processin	972
-Processing	3,13,9,2,284,451,527,44,141,119,37,107,50,90,14,218,666,114,119,196,100,310,247,1121,131,86,45,119,316,744,89,573,246,597,508,170,1551,16,548,120,139,275,150,112
+Processing	3,13,9,2,284,451,527,44,141,119,37,107,50,90,14,218,666,114,119,196,100,310,247,1121,131,86,45,119,316,744,89,573,246,597,508,170,1551,16,548,120,139,275,150,112,379,60,30,14
 Processing History	3861
 Processing LEARN MORE ABOUT THE METHODOLOGY	11539
 Processing Manually	10814
 Processing Time	10709
+Processing Vinti4	11955
 Processing Zone EPZA Export Processing Zones	2775
 Processing and Collection	2115
 Processing of Biometric Data	2873
@@ -2237,12 +2300,14 @@ Processo Actualmente	10772
 Processo Administrativo	11388
 Processo Automático	11566
 Processo Civil	11537
-Processo Eleitoral	10114,157,1257,33
+Processo Eleitoral	10114,157,1257,33,422
 Processo Eleitoral C N D H	6530
 Processo Legislativo	11521
 Processo Penal	5424
 Processo Penal. Lei	539
 Processo de Abertura de Conta Usando Redes Neurais	2816
+Processo de Alteração de Integrações	12021
+Processo de Alteração de Manuais de Utilizador	12021
 Processo de Amostragem	10777
 Processo de Colheita	966
 Processo de Conservação	11384
@@ -2250,6 +2315,7 @@ Processo de Constituição de Sociedades Comerciais	11365
 Processo de Consulta Nacional	11387
 Processo de Definição de Mercados	11430
 Processo de Desenvolvimento	11362
+Processo de Encerramento	12021
 Processo de Falência	10755
 Processo de Implementação	11448,15
 Processo de Inspecção	11452
@@ -2423,10 +2489,10 @@ Processor INST-9857503D92D NAIROBI Kenya	7167
 Processor INST-9866599AA0F NAIROBI Kenya	7167
 Processor of Major Importance	5137
 Processor of Major Importance. The NDPC	3480
-Processors	1652,1221,988,1177
+Processors	1652,1221,988,1177,6918
 Processors and FMCG	11127
-Processors of Major Importance	8078,40,60
-Processos	2228,8525,607,4,88
+Processors of Major Importance	8078,40,60,3815
+Processos	2228,8525,607,4,88,569
 Processos de Execução Fiscal	11435
 Processos de Negócio	11569
 Processos de Registo	11363
@@ -2434,9 +2500,9 @@ Processos de Registos	11537
 Processos. Relativamente	10753
 Processual	11371
 Processual Penal	10747
-Processus	1187,2194,6025,74,1356,40,89,10
+Processus	1187,2194,6025,74,1356,40,89,10,1068
 Procesus	6977
-Procurement Process	9274
+Procurement Process	9274,2721
 Products and Processes	2595
 Professional Secrecy and Rules of Procedure	11517
 Project Cycle and E&S Management Procedures	1988
@@ -2446,14 +2512,15 @@ Project Strengthening Digital Processes	10984
 Projecto de Simplificação de Procedimentos	11379
 Proposta de Procedimento de Triagem de Projectos	11406
 Proyecto de Digitalización de Procedimientos	4209
-Public Procurement Procedures	10759,76,2,1,130
+Public Procurement Procedures	10759,76,2,1,130,902,16,1,1,1
 Public Sector Public Procurement Procedures Absence	10759,78
+Publication of Marketplace Listing Process	11995
 R.4.3 Procedimentos	11376
 RADIOSCOPICALLY GUIDED INTERVENTIONAL PROCEDURES	11269
 RAMESH MEGHI SHAH Data Processor	7167
 RAPID-CI FM Procedures Manual	3604
 RESOLUÇÃO EXTRAJUDICIAL DE LITÍGIOS E PROCEDIMENTO	10755
-Record of Processing Activities	6792,617
+Record of Processing Activities	6792,617,4547
 Records of Processing Activities	10721
 Records of Processing Evidence of Incident GC-SE	10721
 Redesenhar Processos	7948
@@ -2471,12 +2538,14 @@ Report The Money Bills Amendment Procedure	11230
 Reportable Accounts. D. Review Procedures for Identifying	11233
 Reporting and Planning Processes	3430
 Reporting. Central Bank of Procedures Liberia	1777
+Requirements and Procedures for Obtaining	11864
 Research Grant Appeal Process and Procedures	1554
 Results Report KP Kimberley Process MMG	2889
 Review Process	958,10047
 Review Process Conclusions The Department	11005
 Review of Electoral Processes	5641
 Revocation Procedure	5665
+Rights Management and Benefit Processing. National Center	11939
 Robotic Process Automation	7334,1903
 Rules of Procedure	7081,934,470,2290
 Rwanda Integrated Payments Processing System	6938
@@ -2487,6 +2556,7 @@ SCM Processes and Systems	11250
 SECÇÃO I INSTRUÇÃO DO PROCESSO	794
 SECÇÃO I PROCEDIMENTOS INSPECTIVOS E PROCESSOS	11452
 SECÇÃO III PROCESSO DE PROGRAMAÇÃO	10783
+SERVICE PROCESS AND ARCHITECTURE STANDARDS	11952
 SIPOP Procurement Process	9134
 SIRC MANUAL REGISTRATION PROCESS Mobile	10765
 SLIPTA Standard Operating Procedure SOP State	11417
@@ -2499,6 +2569,7 @@ SSA. Proceeds	939
 ST Rationalize CR and ID Process and Procedures	10775
 STAKEHOLDER ENGAGEMENT PROCESS AND METHODOLOGY	7548
 STEEL LIMITED Data Processor INST-154463FFB18 NAIROBI	7167
+STOP DATA PROCESSING	11956
 STUDIES LIMITED Data Processor INST-245210F2E08 UASIN	7167
 SUPPLIERS LIMITED Data Processor INST-6964343D087 NAIROBI	7167
 Salaries and Wages Processing	9437
@@ -2515,6 +2586,7 @@ Shell Processing Support	11405
 Signal Processing Developer	11623
 Simplification of Administrative Procedures	3375
 Simplificação de Procedimentos	11379,66
+Simplified Business Licensing Processing	11939
 Simplified Procurement Procedures’. Based	11525
 Sistema de Processamento	574
 Smooth Transition Process Mercy K. Kainobwisho	2757
@@ -2523,6 +2595,7 @@ Soma Associates Data Processor INST-291364F3F54 NAIROBI	7167
 Sonigra Data Processor INST-79167604162 NAIROBI	7167
 Sources Process	9237
 Specially Permitted Procurement Procedure	2512,3
+Specific Types of Data Controllers and Data Processors	11956
 Speech and Language Processing. Prentice Hall. JurídicoAI	2816
 Staff Retirement Benefits Scheme Data Processor	7167
 Standard Copy of Standard Operating Procedures	1988
@@ -2562,6 +2635,7 @@ Tender Process	11240
 Tendering Process	11240
 Testing Process	5665
 Thematic Proceedings	4432
+Transferência de Propriedade Processos Disponíveis Online	11898
 Tuitoek Cherogony Data Processor INST-1888064C612 NAIROBI	7167
 U.S.A Data Processor INST-897307F8DBF NAIROBI Kenya	7167
 UMOJA ONE LTD Data Processor INST-8500724A072	7167
@@ -2571,7 +2645,9 @@ Understanding Zim’s Criminal Procedure and Evidence	2888,32,354,504,1444,877,6
 Unidades de Processamento Gráfico	2816
 United States of America Data Processor INST-449650E1463	7167
 União Africana. SECÇÃO II Procedimento	11365
+Unlawful Automated Processing of PD	11956
 Upheld Appeal Process Reject Amended Reject	10819
+User Access Management Procedure	11986
 VALUERS LIMITED Data Processor INST-932723CA892 NAIROBI	7167
 VI. PROCEDURE DE PASSATION	10876
 VII. PROCEDURE DE COLLECTE DE DONNEES	10876
@@ -2582,5 +2658,7 @@ WILCOCK Data Processor INST-6441911DEC1 NAIROBI Kenya	7167
 WTO Processes	2117
 Waste Best Practice Procedure Manual Sign	2989
 Workflow of RCI Birth Registration Process	10765,10
+World Bank Policy and Procedures	11905
+World Bank. Procedure DLR	11905
 World Bank. Process	1988
 X.3. Processus	10876

@@ -6,8 +6,10 @@ Horizon Europe. The JSTCC	11288
 Infrastructure Library JSON JavaScript Object Notation	6432
 Internet Service Providers JSI Joint Statement	1243
 Investment. JSIS University of Washington	4676
+JS Malema	12054
 JS-heavy	6659
-JS-rendered	613,2547,3424,2252,189,625,46,2127
+JS-rendered	613,2547,3424,2252,189,625,46,2127,179,40
+JS-rendered SPA	12098
 JS-rendered. Full	5523
 JS-rendering	10254
 JS-shell	8301
@@ -24,13 +26,16 @@ JSON API	7885
 JSON CSV JSON CSV Commissions Commissions	9480
 JSON CSV JSON CSV Séances Agenda	9480
 JSON CSV JSON CSV Textes Législatifs	9480
+JSON Data Exchange Format	11952
 JSON Discovery	1009
 JSON JSON API	9480
 JSON JSON Groupes Parlementaires Groupes	9480
 JSON Schema	6423
+JSON Web Token	11952
 JSON and CSV	9480
 JSON-LD	6261,1791,3770
 JSON. Choose	3972
+JSON. Une API	12024
 JSON.parse	10848
 JSONdata	8606
 JSONstructure	8606
@@ -52,5 +57,6 @@ Sekondi Near MA Primary JSS	3386
 South Africa's JSE	6938
 Technology JPO Japan Patent Office JSE	11250
 Universal Telecom. Marang JSS	5295
+Use JSON	11952
 WTO E-Commerce JSI	1243
 WordPress Download Manager JS-triggered	1209

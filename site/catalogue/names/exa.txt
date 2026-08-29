@@ -11,12 +11,14 @@ AÑO QUE SE EXAMINA	3179
 Bennett S. Examining	3791
 CLOSED EXAMINATION OF DATA PROVISIONS	1243
 Case Example of Thailand	226
+Case Studies E.1 Global Implementation Examples	11952
 Ciências Exactas	11472
 Classification Definition Examples Residency Security Level	5244
 Confidential Attributes Symbol Example Process Name	9124
 DELIVERY CHAIN PHASE Provide Manage EXAMPLE	11156
 Digitize National Exams	4670
 Direction Générale des Examens	10847
+Directorate of Examinations of MEPPSA	11905
 EU AI Act. Examples	11135
 EX189-SEC Exagrid	11209
 EXA Express	1766
@@ -48,7 +50,7 @@ Exagrid Partner Note	11209
 Exame	549,2267
 Exame de Saúde Pós-Natal	10777
 Exame de Saúde Pós-natal	10777
-Examen	2377,1715,5420,1364
+Examen	2377,1715,5420,1364,1106
 Examen Périodique Universel	10826
 Examen des Dossiers Programme Résultats	3396
 Examen du Rapport Périodique	10826
@@ -58,7 +60,7 @@ Examination	3,8351,1842
 Examination Council	899,1786,2,359,86,176,15,119,65,590,447,96,374,93,240
 Examinations	736,3874
 Examinations Grade	11220
-Examine	5677
+Examine	5677,6317
 Examine NGSO	5680
 Examined	1958,7781
 Examiner	747,8144,1985
@@ -74,7 +76,7 @@ Examining the Job Creation and Workforce Potential of AI	7588
 Examining the Linkages Between Digitalisation	5349
 Examining the Mediating Role of ICT Regulatory Environment	5349
 Examiné	8735,1,150,1075
-Example	21,878,344,535,2194,556,1216,409,270,243,2333,1765,277,88,62
+Example	21,878,344,535,2194,556,1216,409,270,243,2333,1765,277,88,62,727,76
 Example Encounter	6666
 Example Forthreepatientswithages25	8606
 Example Individual Address	11129
@@ -94,9 +96,11 @@ Example of Private Mail Bag	11129
 Example of Rural Addresses	11129
 Example of Rural Addressing	11129
 Example of Urban Addressing	11129
-Examples	21,375,36,1,149,379,9,39,252,553,14,160,901,762,210,265,484,15,347,468,158,67,35,453,386,54,121,874,162,1,532,153,563,124,1591,51,10,4,33,7,27,131,30,133,9,47,2,347,27,158
+Examples	21,375,36,1,149,379,9,39,252,553,14,160,901,762,210,265,484,15,347,468,158,67,35,453,386,54,121,874,162,1,532,153,563,124,1591,51,10,4,33,7,27,131,30,133,9,47,2,347,27,158,188,34,4,38,1,6,22,67
 Examples for Section	8530
 Examples of G2P	11130
+Examples of M-PESA	11994
+Examples of Notable Enforcement	11896
 Examples of RADIOSCOPICALLY GUIDED INTERVENTIONAL PROCEDURES	11269
 Examples of Successful African	10856
 Examples.xlsx Manuel Open Data	747
@@ -107,6 +111,7 @@ FAIS REGULATORY EXAMINATIONS	8354
 FDI Examples	10856
 FIGURE A.3 GENERIC EXAMPLE	1009
 First School Leaving Certificate Examination. Walter	2319
+Formação Ciências Exatas	12019
 Grouping Roles Examples	6832
 Guides Learning and Teaching Support Materials Examinations	11241
 Harare. Example Zimbabwean Location	6666
@@ -117,8 +122,11 @@ International Examples Show This Can Work	7648
 KENYA PUBLIC SECTOR EXAMPLES	6432
 Kenya Core IG. Examples	10100
 Kenya National Examinations Council	899,3084,2963
+Level Description Examples Public	11952
 Matches Exa	3098
 Mozambican Example	3861
+NABTEB National Business and Technical Examinations Board	11860
+NECO National Examinations Council	11860
 Naming Systems Example	6666
 Nation Address SSE Substantive Search and Examination	11250
 National Examination Council of Tanzania	10196
@@ -129,6 +137,7 @@ Oio Quinara Tombali Example Sra. Celina	11515
 PROTECTION CAN LEAD TO HARM Examples	11156
 Parirenyatwa Group of Hospitals. Example Zimbabwean Patient	6666
 Parirenyatwa. Example Related Person	6666
+Park. Examples	11863
 Past Exam	11220,21
 Primary School Leaving Examination	7671
 Princípio de Exactidão	11374
@@ -150,6 +159,8 @@ Substantive Search and Examination	11250
 Technical Description Example Profile Framework	1009
 Technical Examinations Unit	258
 Trade Mark Examiner	10358
+WAEC West African Examination Council	11860
+WAEC West African Examinations Council WAT	11952
 WMO. Examples	11553
 West African Senior School Certificate Examination	7171
 X ExaGrid	11209

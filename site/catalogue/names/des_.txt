@@ -1,4 +1,5 @@
 A. SECTEUR DES COMMUNICATIONS ELECTRONIQUES	998
+ABBAS MAHAMAT TOLLI Banque des Etats	11944
 AC des Marchés Publics	10876
 ACTES NBRE Chronos des GESTION	10975
 ACTEURS IMPLIQUES DANS LA COLLECTE DES	10876
@@ -52,6 +53,7 @@ Affaires Sociales DGEFC Direction Générale des Eaux	10876
 Africaine des Assurances Traitements	10821
 Afrique Centrale CIMA Conférence Interafricaine des Marchés	10965
 Afrique Centrale COP Conférence des Parties	10975
+Afrique Centrale DAJR Département des Affaires Juridiques	11944
 Afrique de Formation des Avocats Francophones	10821
 Afrique des Nations	11761
 Afrique des Nations U17	8321
@@ -71,15 +73,17 @@ Agence Nationale des Systèmes	4402
 Agence Nationale des Technologies	2695,1290,2753
 Agence Nationale des Titres Sécurisés	3588,2394,107,4752
 Agence Nationale des Transports Terrestres	6300,4521
+Agence Nationale du Registre des Populations	11867
 Agence Nationale du Service Universel des Télécommunications	3322,282,765
 Agence de Développement des Petites	2733
 Agence de Développement des Technologies	6125,150
 Agence de Promotion des Investissements	3222,3884,3717
 Agence de Régulation des Communications Electroniques	11580
-Agence de Régulation des Postes	6684
+Agence de Régulation des Postes	6684,5237
 Agence de Régulation des Télécommunications	2695,1574,293,1262,4263
 Agence de Régulation des Télécommunications Cameroun	10965
 Agence de Transfert des Technologies Financières	10237
+Agence des Nations Unies	11944
 Agence des Services	10821
 Agence des Systèmes	2451,184,98,462,1051,1014,2132,1872
 Agence des Télécommunications de Côte	6834,1083
@@ -101,6 +105,7 @@ Amélioration des Services	11549
 Amélioration des Statistiques	7675,3199,1
 Aménagement des Territoires	3381
 Analyse des Marchés	998
+Analyse des Systèmes Educatifs	11905
 Anip. Des	7332
 Applicatifs Promotion des TICs	10812
 Apports des IPPs	10975
@@ -122,7 +127,9 @@ Association des Parents	10847
 Association des Tunisies	7649
 Association des Usagers des Services Publics	2328
 Association du Réseau des E-marchands	2261
+Associations des PME	11944
 Associations des Parents	8555
+Assurance CIP Centrale des Incidents de Paiement CIPRES	11944
 Assurance Qualité des Données	2625
 Attribution des Fréquences	5361
 Attribution des Titres Tarification SSEC	10975
@@ -140,14 +147,15 @@ Autorité Nationale de Sécurité des Systèmes	7668
 Autorité Nationale des Elections	2366
 Autorité de Contrôle des Assurances	568
 Autorité de Gestion des Réparations	8237
-Autorité de Protection des Données	232,1093,690,2140,818,1106,757,1445,678,83,1198,29,552
+Autorité de Protection des Données	232,1093,690,2140,818,1106,757,1445,678,83,1198,29,552,1059
 Autorité de Protection des Données Personnelles	1231,759,2807,749,277,916,2007
 Autorité de RégulatiDn des Communications Electroniques	37
+Autorité de Régulation des CCDB Marchés Publics	11905
 Autorité de Régulation des Communications	969,1585,335,430,37,115,1331,20,96,252,620,467,354,141,485,1304,1357
 Autorité de Régulation des Communications Electroniques	37,961,5243,4581,245,513
 Autorité de Régulation des Communications Eléctroniques	969
 Autorité de Régulation des Marchés Publics	969,9860,47
-Autorité de Régulation des Postes	3104,4980
+Autorité de Régulation des Postes	3104,4980,3796,52
 Autorité de Régulation des TIC de Côte	5605,539
 Autorité de Régulation des Télécommunications	2418,958,500,1804,15,414,35,97,628,148,2,1112,2764,1,1,1,8,5,240,444
 Autorité de Régulation des Télécommunications de CBA Côte	3604
@@ -158,6 +166,8 @@ Autorités de Protection des Données	6252
 Autorités de Protection des Données Personnelles	5842,4979
 B. L’Autorité de Protection des Données	10821
 B. MINISTERE DE L’ECONOMIE ET DES	7670,651
+BANQUE DES ETATS DE L’AFRIQUE CENTRALE	11944
+BCEAO Banque Centrale des Etats	11944
 BCEAO RAPPORT ANNUEL SUR L'ÉVOLUTION DES	4459
 BCEAO RAPPORT ANNUEL SUR L’ÉVOLUTION DES	4459
 BCRG's Direction des Systèmes	6942
@@ -167,11 +177,14 @@ BN Budget National CDMT Cadre des Dépenses	10712
 BOURSE DES MATIÈRES PREMIÈRES JUIN AGRICOLES	2342
 Baie des Rois	11674
 Baisse des Baisse Maladie Aléas	737
+Banque Camerounaise des Petites	11944
 Banque Centrale des Comores	1854,606,3585,14,87
-Banque Centrale des Etats	3604,7107,811,45
+Banque Centrale des Etats	3604,7107,811,45,377
 Banque Mondiale Table des Matières Version	1187
+Banque Mondiale. Banque des Etats	11944
+Banque de Développement des Etats	11944
 Banque des Dépôts du Trésor	3396
-Banque des Etats	969,330,4441,155,1368,3702
+Banque des Etats	969,330,4441,155,1368,3702,979
 Banque des Règlements Internationaux	11799
 Beschleunigung des Wirtschaftswachstums	823
 Bois des Singes	10971
@@ -181,6 +194,7 @@ Bourse des Matières Premières Agricoles	2342
 Bourse des Valeurs	4887
 Brigade des Montées	10934
 Bureau Central des Recensements	4325,6639
+Bureau Conjoint des Nations-Unies	11982
 Bureau de Coordination des Affaires Humanitaires. In OC	10826
 Bureau de Coordination des Programmes Filets Sociaux	10927
 Bureau des Stratégies	4090
@@ -193,6 +207,7 @@ CARACTERISTIQUES DES ENTREPRISES	10875
 CARACTERISTIQUES ET ETAT DES LOCAUX	10847
 CATÉGORIE DES	10087
 CEG Bohicon and Lycée des Jeunes Filles	5547
+CEMAC. Des	11944
 CFA. Le Conseil des Ministres	6067
 CHAINE DES RÉSULTATS VÉRIFICATION CONDITIONS CRITIQUES	10712
 CHAPITRE I DES FINATITES DU REGISTRE	10813
@@ -203,6 +218,9 @@ CHAPIÏRE III DES INSCRIPTIONS AU REGISTRE	10813
 CHARGE DES POSTES ET DES TELECOMMUNICATIONS	4402
 CHIFFRES CLES DES SERVICES FINANCIERS NUMÉRIQUES	4459
 CHIFFRES CLÉS DES SERVICES FINANCIERS NUMÉRIQUES	4459
+CIPRES. Banque des Etats	11944
+CNSMO. Banque des Etats	11944
+COBAC Banque des Etats	11944
 COMITÉS D’AUDIT ET DE GESTION DES	2342
 COMMISSION INTERNE DE PASSATION DES MARCHÉS	10975
 COMMUNIQUÉ DE L'OFFICE TOGOLAIS DES RECETTES	9976
@@ -223,6 +241,7 @@ COVID-19. Des	4325
 Cadastre PMPP Plan de Mobilisation des Parties Prenantes	10876
 Cadre Organique des Etablissements Publics Burundais	2625
 Cadre des Dépenses	1990
+Cadres des Zones de Santé	11892
 Cahier des Charges de KPDC. Réunions	10975
 Cahier des Clauses Administratives	4342
 Cahier des Ouvrage	10876
@@ -234,12 +253,15 @@ Cameroun. Dans des EMF	10965
 Cameroun. Des	2534
 Caractère Personnel. Autorité de Protection des Données	1325,690,2140
 Case des Tout-Petits	8269,862
+Caucus des Femmes	11868
 Cellule Nationale de Traitement des Informations Financières	2623,8899,45
 Cellule Technique Nationale des Projets	10829
+Cellule de Gestion des Marchés Publics	11905
 Cellule de Suivi des Réformes Economiques	969
 Cellule des Affaires	8269
 Centrafrique Des	4249
 Centrafrique. Pour le Ministre des Finances	2071
+Centrale Récapitulative des Risques Bancaires	11944
 Centrale des Risques des EMF	10965
 Centrale des Risques des Etablissements	10965
 Centre National des Données Numériques	2266
@@ -292,6 +314,8 @@ Collège des Hautes	10656
 Collège des Sciences	8891
 Collège des Startups	4567
 Comité Consultatif des Consommateurs	10975
+Comité Consultatif des Partenaires Techniques	11944
+Comité de Concertation des Partenaires Techniques	11944
 Comité de Gestion des Etablissements Scolaires CE1	10847
 Comité des Affaires Monétaires	7956
 Comité des Droits	10826
@@ -327,6 +351,7 @@ Comores. Représentant le Ministre des Finances	5814
 Comptoir des Minéraux	4127
 Compétition des Plans	6827
 Compétitivité des Entreprises	1247
+Concertation des Partenaires Techniques	11944
 Conditions de Vie des Ménages	737,6938,3874,11,21
 Conditions de Vie des Ménages DSSE	10874
 Conditions de Vie des Ménages EIPBF	10874
@@ -337,11 +362,12 @@ Confédération des Etats du Sahel	1967,1,1427,739,2567,182,76,594,117,1138,479,
 Confédération des Etats du Sahel. Au	1968
 Confédération des Etats du Sahel. Il	7670
 Confédération des Institutions Financières	11293
-Conférence Interafricaine des Marchés	10965,174
+Conférence Interafricaine des Marchés	10965,174,805
 Conférence Internationale des Commissaires	10821
 Conférence des Administrateurs	8269
 Conférence des Chefs	8269
 Conférence des Forces Vives	10712
+Conférence des Ministres	11905
 Conférence des Nations	5077
 Conférence des Nations Unies	8891
 Conférence des Parties	8891
@@ -370,6 +396,7 @@ Consommation des Négatif	1005
 Consultation des Fournisseurs	5370
 Contact Des	9482
 Contenu Code des Marchés Publics du Bénin Référence	10876
+Continue des Enseignants	11905
 Contrôle des Systèmes Financiers Décentralisés	6827
 Convention des Nations	10003,1085
 Convention des Nations Un	10826
@@ -381,12 +408,13 @@ Coopération des Médias Sino-Africains. Devant	10615
 Coordination des Activités de Détection	11139
 Correction des Dates	747
 Cour de Répression des Infractions	5478
-Cour des Comptes	1284,398,1714,7316
+Cour des Comptes	1284,398,1714,7316,1193
 Cour des Comptes. Article	1231
 Cour des Comptes. Chapitre III	37
 Cours Secondaire Notre Dame des Apôtres de Cotonou	10821
 Création L’Autorité de Régulation des Télécommunications	7917
 Création du Collège des Startups	4567
+Crédit BVMAC Bourse des Valeurs Mobilières	11944
 Crédits des MESPTA	2966
 Cérémonie de Lancement des Nouveaux Moyens de Paiement	6045
 D'ELIGIBILITE DES REFUGIES	998
@@ -533,11 +561,14 @@ DIRECTION GENERALE DES ETUDES ET DES	10847
 DIRECTION GENERALE DES IMPOTS BURKINA FASO	10858
 DISPOSITIONS RELATIVES A LA PROTECTION DES	11522
 DITION DES JOURNÉES DU DROIT	3675
+DMSP Banque des Etats	11944
 DOCUMENTATIO Chronos des N ET DES OP	10975
 DONNEES INSCRITES AUX REGISTRES DES PERSONNES	10813
 DROITS DES	10965
 DROITS DES CONSOMMATE URS Activité	10965
+DSI Direction des Systèmes	11944
 DSI au sein des ministères.pdf	10906
+DSMP Banque des Etats	11944
 DU CHIFFRE D'AFFAIRES DES ENTREPRISES	2342
 DU CHIFFRE D’AFFAIRES CUMULÉ DES ENTREPRISES	2342
 DU CONSEIL DES MINISTRES	8321
@@ -589,6 +620,7 @@ Directeur du Développement des Infrastructures Numériques	7661,516
 Directeur du Développement des Systèmes Applicatifs	5103
 Directeurs des Académies	8956
 Directeurs des Systèmes	4881,1
+Direction DGRHAS Générale des Ressources Humaines	11905
 Direction Générale des Collectivités Territoriales	557
 Direction Générale des Domaines	4420,6291
 Direction Générale des Douanes	2971,425,1024,4388,2068
@@ -614,7 +646,7 @@ Direction des Affaires Générales. Cette	2961
 Direction des Affaires Juridique	10975
 Direction des Affaires Juridiques	10975
 Direction des Douanes	4420,6291
-Direction des Etudes	10975
+Direction des Etudes	10975,930
 Direction des Grandes Entreprises	6163
 Direction des Investissements. L'objectif	9425
 Direction des Mines	235
@@ -634,6 +666,7 @@ Disponibilité des SIU	3396
 Disposer des DAO	10975
 District des Montagnes	2342
 Division des Fonds	7660
+Données Findex Banque des Etats	11944
 Dossiers Noirs Des Lions	4960,62,2035
 Doudoubalala MINISTÈRE DES AFFAIRES MUSULMANES ET	4402
 Droits des Enfants	1231
@@ -651,6 +684,8 @@ Délimitation des Provinces	2625
 Délivrance des Services	3604
 Délivrance des Services de Base	3443
 Délivrer des Certificats	10876
+Délégation Générale des Grands DGGT Travaux	11905
+Délégation Générale des Grands Travaux	11905
 Démarrage des RAS	10975
 Département des Ressources	3551
 Département des TIC	9941
@@ -665,6 +700,7 @@ ECHANTILLON DES POSTE HTA	10975
 ECOSOC des Nations	8891
 EDS. Des	10874
 EFFECTIFS DES ELEVES	10847
+EMF Banque des Etats	11944
 EN FONCTION DES AXES ET OBJECTIFS	998
 ENA SIGED Interconnexion des IESR PRESENTATION CONVENTION	9049
 ENF des CEB	3396
@@ -697,7 +733,9 @@ Ecole Nationale Supérieure des Postes	10948
 Ecole Supérieure Africaine des ESF Technologies	3604
 Ecole Supérieure Africaine des Technologies	3604,7307,37
 Ecole des Mines	11597
+Ecoles Normale des Instituteurs	11905
 Ecosystème des FinTech	10237
+Education des Etats	11905
 Egard des Femmes	10826
 Elaboration des DAO	10975
 Electrification Rurale COMIFAC Commission des Forêts	10975
@@ -738,7 +776,7 @@ Exécution des Lois de Finances	10975
 Exécution des Projets	10876
 F CFA. Des	737
 FCFA Des Plans	3396
-FCFA. Des	2342
+FCFA. Des	2342,9602
 FDJ. Communiqué Le Ministre des Affaires Etrangères	4402
 FDJ. MINISTERE DES AFFAIRES SOCIALES ET	4402
 FFI Des	10858
@@ -755,9 +793,11 @@ Fev. COMPTE RENDU DU CONSEIL DES MINISTRES DU JEUDI 13 FE	8673
 Fiabilisation du Registre National des Fréquences	998
 Finalisé Problématique des Non	10975
 Finance Inclusive PNUD Programme des Nations Unies	10965
+Financement des Economies DSMP Direction des Systèmes	11944
 Financement des PME	6827
 Finances MGP Mécanisme de Gestion des Plaintes MPA	10876
 Financière des Engagements Contractuels	10975
+Financières BEAC Banque des Etats	11944
 Fonction des Postes	1837
 Fonctionnement du Comite Consultatif des Consommateurs	10975
 Fonctionnement du Ministère des Finances	2625
@@ -767,16 +807,19 @@ Fonds Spécial des Activités de Sécurité	2695
 Fonds de Développement des Communes de Conakry	9637,1
 Fonds de Garantie des Investissements Prioritaires	7106
 Fonds des Nations	8072,2441,95
-Fonds des Nations Unies	6578,104,1873,336,386,1008,589
+Fonds des Nations Unies	6578,104,1873,336,386,1008,589,1108
+Fonds des Nations-Unies	11982
 Formulaire de Divulgation des Bénéficiaires Effectifs	9339
 Formule Dénombrement des CEC	10876
 Forum Africain des Régulateurs des Services Publics	10975
 Forum Arabe des Régulateurs	10975
 Forum des Administrateurs	8257
 Forum des Entreprises Publiques	2342
+Fournisseurs des Services Financiers	11944
 Fédération Syndicale Autonome des Télécommunications	6284
 Fédération des Entreprises du Congo	7812
 Fédération des Entreprises du Gabon	4208
+Fédération des Sociétés	11944
 G. Des	5877
 G. MINISTERE DES SPORTS	8321
 GARDE DES SCEAUX RELATIF	8236
@@ -785,6 +828,7 @@ GESTION DES RISQUES	2342
 GESTION DES RISQUES OPERATIONNELS INHERENTS AUX	10836
 GOUVERNANCE DES DONNEES SANITAIRES AU SENEGAL	7804
 GOUVERNANCE OPÉRATIONS EN CAPITAL SIGNATURE DES	2342
+GSM. Banque des Etats	11944
 GUIDE POUR LA DIGITALISATION DES PAIEMENTS	10711
 Gabon Agence Nationale des Infrastructures Numériques	6129
 Garde des Sceaux	1214,1594,237,74,1006,1352,390,1037,1074,87,122,49,166,1434,169,893,682
@@ -792,6 +836,7 @@ Gestion Electronique des Documents	2342
 Gestion Intégrée des Ressources	643
 Gestion L'Assemblée Générale des Etablissement Publics	3396
 Gestion des	3396
+Gestion des Activités	11958
 Gestion des Bases de Données	10975
 Gestion des Boues de Vidange	2342
 Gestion des Burkinabè	3396
@@ -802,6 +847,7 @@ Gestion des Emplois	8125
 Gestion des Finances	5866
 Gestion des Finances Publiques	1284,582,9115
 Gestion des Infrastructures Informatiques	10975
+Gestion des Magistrats	11958
 Gestion des Organisation	2342
 Gestion des Projets	2342
 Gestion des Ressources	7843,2869
@@ -824,10 +870,13 @@ Groupement des Unités	3396
 Guichet Unique Elaboration des Disposer	10975
 Guichet Unique des Opérations du Commerce Extérieur	5593
 Guichet Unique des Services Publics	5429
+Guinée Equatoriale Banque des Etats	11944
 Guinée. Des	3309
 Général Direction Générale des Transports Terrestres	10812
 Général des Dépenses	4420
+Générale des Ressources Humaines	11905
 Harmonisation des Statistiques	10874
+Haut Commissariat des Nations-Unies	11982
 Haut-Commissariat des Nations Unies	8891,1983,39
 Haute Autorité de Protection des Données	2514,842
 Haute Autorité des Médias	8772,281
@@ -862,6 +911,8 @@ III.2.4 Caisse Autonome de Gestion des Dettes	10876
 III.2.9 Direction Générale des Eaux	10876
 III.EFFECTIFS DES ELEVES III.2. EFFECTIFS DES	10847
 III.EFFECTIFS DES ELEVES III.9.NOUVEAUX INSCRITS AYANT	10847
+INS Banque des Etats	11944
+INS. Banque des Etats	11944
 INSTITUANT DSI AU SEIN DES MINISTÈRES	10906
 INSTITUANT UN DEPARTEMENT EN CHARGE DES	10905
 INTEGRATION DES DONNEES DANS LA BASE	10876
@@ -872,11 +923,14 @@ IV. PERSONNEL ENSEIGNANT IV.1 REPARTITION DES	10847
 IV. PERSONNEL ENSEIGNANT IV.2 REPARTITION DES	10847
 IV. PRINCIPES DE PROTECTION DES INFRASTRUCTURES	10906
 IV.1.3 GESTION DES IMMOBILISATIONS ET DES	10876
+Ibid Banque des Etats	11944
+Ibid. Banque des Etats	11944
 Ibrahim Mohamed Abdourazak. Des	4386
 Identification des Exploitants	10096
 Identification des OPP	998
 Identification des Personnes	2623,110,2473,340,192,44,1430,3610,2,43
 Inc.iii TABLE DES MATIÈRES Liste	7655
+Inclusion Financière Banque des Etats	11944
 Indicateurs de Déclenchement des Paiements	10876
 Indice Harmonisé des Prix	10874
 Indice de Développement des TIC	1323,742,2015
@@ -918,6 +972,7 @@ Intervention du Chef de File des PTF	2966
 Intégrée des Schémas Directeurs	3396
 Intérêt Le Ministère des Finances	3715
 Intérêt des PTF	10874
+Issoufa. Des	12128
 Ivoire. Des	4814
 Ivoire. L'Autorité de Régulation des Télécommunications	3755
 Ivoire. The Caisse des Dépôts	4627
@@ -990,11 +1045,13 @@ LISTE DES TABLEAUX Tableau	737,9975,163
 La Banque Centrale des Etats	8316
 La Caisse Autonome de Retraite des Fonctionnaires	7800
 La Caisse des Dépôts	4549
-La Cellule de Communication du Ministère des Finances	4135,34,172,655,475,1204,336,252,33
+La Cellule de Communication du Ministère des Finances	4135,34,172,655,475,1204,336,252,33,4716
+La Centrale des Incidents de Paiement	11944
 La Commission Béninoise des Droits	1990
 La Compétition des Plans	6827
 La Confédération des Etats du Sahel	6959
 La Conférence Internationale des Commissaires	10821
+La Congolaise Industrielle des Bois	11897
 La Congolaise des Banques	6954
 La Direction Générale des Affaires Sociales	10876
 La Direction Générale des Impôts	5814,349
@@ -1017,7 +1074,9 @@ La SOCIETE DES MINES DE LA-	2342
 La SOCIETE DES MINES D’ITY	2342
 La SOCIÉTÉ DES MINES	2342
 La Société de Gestion des Stocks	2342
+Le Banque des Etats	11944
 Le Centre de Formation des Handicapés Moteurs	10826
+Le Comité de Concertation des Partenaires Techniques	11944
 Le Comité des Affaires Monétaires	7956
 Le Conseil des Ministres	2342,283,113,453,135,1094,147,1500,1776,394,1050,55,1534,20,684,17
 Le Directeur des Systèmes	7674
@@ -1082,6 +1141,7 @@ L’analyse des Celle	10965
 L’atomicité des EMF	10965
 L’ensemble des Ministères	4420
 L’ensemble des OPH	10826
+L’impulsion des Gouvernements. L’amélioration	11944
 L’intégration des TIC	7926
 L’offre des Activité	10965
 L’ÉTAT CONTINUE DES MEILLEURES ACTIONNAIRE	2342
@@ -1106,6 +1166,7 @@ MINISTRE AUTORITE DE REGULATION DES COMMUNICATIONS	998
 MINISTRE DES FINANCES	10965
 MINISTRE DES FINANCES L’inclusion	10965
 MINISTÈRE DE L'ÉCONOMIE ET DES FINANCES	2959,1443
+MINISTÈRE DES AFFAIRES FONCIÈRES	12009
 MINISTÈRE DES FINANCES	7470
 MINISTÈRE DES FINANCES DU BUDGET ET	3715
 MINISTÈRE DES INFRASTRUCTURES ET DE L'EQUIPEMENT	4402
@@ -1139,10 +1200,10 @@ Mines Agriculture des Marchés Eau	2342
 Mines. La Direction du Portefeuille des Secteurs Tertiaire	2342
 Ministere des Finances	566
 Ministre Ministère des Finances	10708
-Ministre des Affaires	7978,2734
+Ministre des Affaires	7978,2734,1260,37
 Ministre des Affaires Etrangères	4420
 Ministre des Affaires Sociales	10824,45
-Ministre des Finances	1214,33,53,506,149,749,1132,395,18,92,22,633,25,42,40,804,549,219,588,33,384,1501,906,888,6
+Ministre des Finances	1214,33,53,506,149,749,1132,395,18,92,22,633,25,42,40,804,549,219,588,33,384,1501,906,888,6,1031
 Ministre des Finances Hervé NDOBA	1300
 Ministre des Forces	5907
 Ministre des Infrastructures	7978
@@ -1157,9 +1218,10 @@ Ministre des Sports	3045,4933,2936
 Ministre des Transports	7978
 Ministre des Télécommunications	2554,1245,3842,2453,1045,12
 Ministry of Protection Sociale des Public Health	10985
-Ministère des Affaires	2366,2769,2198,1558
+Ministère des Affaires	2366,2769,2198,1558,3025
 Ministère des Affaires Etrangères	1302,1506,237,351,1707,5718
-Ministère des Affaires Sociales	3351,7470,48,95
+Ministère des Affaires IPF Sociales	11905
+Ministère des Affaires Sociales	3351,7470,48,95,941,19
 Ministère des Eaux	3045
 Ministère des Enseignements	2966
 Ministère des Finances	969,315,13,3,3,1,1,1,1,1,1,1,1,367,274,3,72,1,1,1,1,1,1,1,1,704,69,237,670,420,34,135,1,1,1,1,1,1,1,1,30,21,633,107,368,343,349,738,110,285,1388,2027,253,1,10,6
@@ -1170,7 +1232,7 @@ Ministère des Infrastructures	1284,2112,2597,4819
 Ministère des Mines	3045
 Ministère des PME	10823,162
 Ministère des Petites	10964
-Ministère des Postes	1264,8,1423,557,76,1317,1105,2226,1
+Ministère des Postes	1264,8,1423,557,76,1317,1105,2226,1,3967
 Ministère des Serviteurs du Peuple le Conseil	5304
 Ministère des Sports	3396
 Ministère des TIC	765
@@ -1179,6 +1241,7 @@ Ministère des Transports Routiers	10711
 Ministère des Travaux	3231
 Ministère des Travaux Publics	3231
 Ministère des Télécommunications	10720,967
+Ministères des Postes	11944
 Minsitere des Finance	940
 Mobilisation des	3396
 Mobilisation des Ressources Internes	8557
@@ -1201,6 +1264,7 @@ Nationale Supérieure des Technologies	10094
 Nationale des Droits	10826
 Nationale des Elections	10826
 Nationale des Telecommunications	1818
+Nationales des Assurances	11944
 Nature des Prévision	2476
 Nigeria. Des	6200
 Nomination des Membres du Comité National	2625
@@ -1247,6 +1311,7 @@ Organisation Nationale des Personnes	10826
 Organisation Nationale des Personnes Handicapées	10826
 Organisation des Nations	6455,962,1160
 Organisation des Nations Unies	737,8154,1956,27
+Organisation des Nations-Unies	11900
 Organisation des Pays	3045
 Organisation des Personnes Handicapées	10826
 Organisations des Personnes Handicapées	10826
@@ -1264,6 +1329,7 @@ PERMIS POUR LA CONSTRUCTION DES MARCHÉS	2342
 PERSONNES PHYSIQUES CHAPITRE I DES FINATITES	10813
 PERSONNES PHYSIQUES CHAPITRE PREMIER DES DISPOSITIONS	10813
 PHASE PILOTE DES OPÉRATIONS	2342
+PHB Banque des Etats	11944
 PLAN DE PROTECTION DES INFRASTRUCTURES CRITIQUES	10906
 PLAN PREVISIONNEL DE PASSATION DES MARCHES	1993
 POLITIQUE D’ENDETTEMENT DES UNE GESTION AMÉLIORÉE	2342
@@ -1280,6 +1346,7 @@ POSTE A. SECTEUR DES COMMUNICATIONS ELECTRONIQUES	998
 PRESENTATION DES ROLES	3381
 PRISE EN CHARGE DES OPÉRATIONS ET	10711
 PROCÉDURE DE PASSATION DES MARCHÉS	10876
+PROFIL DU CABINET ET DES EXPERTS	12043
 PROJET ET DES INSTANCES DE PILOTAGE	10711
 PROTECTION DES UTILISATEURS DE SERVICES	10836
 PROVINCES NOMS DES REGIONS	10847
@@ -1290,6 +1357,7 @@ PRÉVISION DES RECETTES FISCALES INTÉRIEURES PAR	10712
 PRÉVISION GLOBALE DES RECETTES FISCALES INTÉRIEURES	10712
 PTA. Des	3455
 PYRAMIDE DES AGES A L'ARSEL	10975
+Paie des Enseignants Provincial	11916
 Palais des Congrès	3341,2137,6219
 Palais des Congrès de Lomé	11067
 Palais des Congrès de Niamey	2556,785,210,1106,1302,1374
@@ -1310,6 +1378,7 @@ Passionnée des TICs	9357
 Performance des Entreprises Publiques	2342
 Personne Responsable des Marchés Publics	10876
 Personne Responsable des Marchés Rédige	10876
+Pertinence des Enseignements	11918
 Place des Nations CH-1211 Geneva	10764,80,719
 Place des Nations CH-1211 Geneva E-mail	26,1,1
 Place des Nations Place des Nations CH-1211 Geneva	11563
@@ -1321,7 +1390,9 @@ Plan de Passation des Marchés du Programme	10876
 Plan de Protection des Infrastructures	10906
 Plateforme Nationale de Contrôle des Réseaux Mobiles	4802
 Poids des IPP	10975
+Poids des MPME	11944
 Police des Nations	10475
+Politique Fiscale DGEFRI Direction Générale des Etudes	11944
 Politique de Gouvernance des Données	3064
 Politique de Sécurité des Systèmes	10874,265
 Pool des Transports Publics de Voyageurs	6901
@@ -1342,8 +1413,9 @@ Production des Actes	10937
 Professionnelle des Education	10985
 Professionnelle des Jeunes	10826
 Programme des Nations	3850,757,1475,3212,1237
-Programme des Nations Unies	737,28,2638,922,3315,85,179,846,141,164,413,151,873,220,109,53,91
+Programme des Nations Unies	737,28,2638,922,3315,85,179,846,141,164,413,151,873,220,109,53,91,979
 Programme des Nations-Unies	1684,9028
+Projet de Développement des Compétences	11924
 Projet de Développement des Infrastructures	11529
 Projet de Restauration des Terres Dégradées	11604
 Projets Compte-rendu du Conseil des Ministres	3675
@@ -1406,6 +1478,7 @@ Regard des Malien.ne.s	6959
 Registre National des Nationalités	7993,1675
 Registre National des Personnes Physiques	2623,135,551,78,217,1874,612,3547,1,1183,117
 Registre des Bénéficiaires Effectifs. MINISTÈRE	4402
+Remontée des Comité	11944
 Remplacement des Terminé	10975
 Renforcement des Capacités du Personnel	10975
 Renforcement des Capacités du Personnel L’année	10975
@@ -1441,6 +1514,7 @@ Réforme des Finances Publiques	10400
 Références Juridiques Contenu Code des Marchés Publics	10876
 Référentiel des Prestataires	8058
 Régie Nationale des Postes	4915
+Réglementation DERS Direction des Etudes	11944
 Régulation des Communications	998
 Régulation des Systèmes de SB	10975
 Régulation des Télécommunications	5380,1607
@@ -1454,6 +1528,7 @@ Réseau National des Responsables	6600
 Réseau des Acteurs du Numérique	9293,2
 Réseau des Autorités de Protection des Données Personnelles	3356
 Réseau des Data Protection Officers	5415
+Réseau des Femmes	11868
 Réseau des Femmes Leaders	8713
 Réseau des Journalistes Africains Spécialistes	5546
 Réseau des Services	8336
@@ -1484,6 +1559,8 @@ SOCIÉTÉ D’ETAT Le Conseil des Ministres	2342
 SOCIÉTÉ POUR LE DÉVELOPPEMENT DES FORÊTS	2342
 SOMELEC's Commission des Marchés	1993
 SOUTENUE PAR L’AUGMENTATION DES CAPACITÉS	2342
+SRIF Banque des Etats	11944
+SRIF. Banque des Etats	11944
 STATISTIQUES DES DONNEES CONTENUES DANS	785
 SUIVI DE LA POLITIQUE D’ENDETTEMENT DES	2342
 SYFEE L’Association des Femmes	10975
@@ -1598,6 +1675,7 @@ TABLE DES MATIERES	737,10138,31
 TABLE DES MATIERES AVANT-PROPOS	10875
 TABLE DES MATIERES Avant	10847
 TABLE DES MATIERES TABLE DES MATIERES	10876,89
+TABLES DES MATIERES	12043
 TAT COMPARATIF DE L'ÉVOLUTION DES COMPTES	4459
 TAT DES LIEUX DE LA DIGITALISATION	10711
 TAT DES LIEUX DE L’INCLUSION FINANCIERE	10965
@@ -1616,6 +1694,7 @@ TRAITEMENTS DES INCIDENTS DE SECURITE	10906
 Table des Matières	747,1,1236
 Tableau des Ressources	9276
 Tableaux de Bord de Suivi des Indicateurs	10712
+Tahirou. S'agissant des VTC	12128
 Tchadinfos ANNONCE-L’Agence Nationale des Titres Sécurisés	6125
 Tech Rek. Des	9656
 Terre des Hommes	4090
@@ -1635,11 +1714,13 @@ Tunisia’s Instance Nationale des Télécommunications	2711
 Twitter L’Agence Nationale des Titres Sécurisés	6089
 Typologie des Ser-	10237
 UBA. Des	10344
+UGP. Des	12043
 UNE GESTION AMÉLIORÉE DES ENJEUX LIÉS	2342
 UNION DES COMORES	5370
 UNION DES COMORES Unité-Solidarité-Développement	3715
 UNSTIM L'Université Nationale des Sciences	10855
 USSD des OTM	10965
+USSD. Des	11944
 UTILISATEURS DES CYBERCAFES Ce	10906
 UTILISATEURS DES CYBERCAFES LE PRESIDENT	10898
 UTILISATION DES SERVICES	4459
@@ -1661,8 +1742,9 @@ Union des Conseils	8891
 Union des MECK	6146
 Union. La Banque Centrale des Etats	10888
 Unité de Cession des Médicaments	10829
+Unité de Gestion des Réformes des Institutions Financières	11944
 Université Nationale des Sciences	7001
-Université des Comores	2594,129,2647
+Université des Comores	2594,129,2647,6732
 Université des Comores I Un	1996,2390
 Université des Comores. Ils	5669
 Université des Sciences	10121
@@ -1702,6 +1784,7 @@ Vulgariser le Mécanisme de Gestion des Plaintes	10876
 Véhicules de Tourisme des Sociétés	6954
 WSIS. Des	2842
 Wirtschaft des Landes	614
+World Fact Book Banque des Etats	11944
 X Responsable des X	1984
 X. TYPOLOGIE ET ANALYSE DES RISQUES	10876
 X.1. Objectifs du Plan de Gestion des Risques	10876

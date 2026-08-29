@@ -1,11 +1,13 @@
 Autenticação Civil U I F Unidade	6530
 CAPÍTULO II REGISTO EM UNIDADES	11363
 Comandante Supremo Nações Unidas	11569
+Comunicação Unidades Curriculares Horas	12019
 Convenção da Organização de Unidade Africana	11364,1
 Crear Unidades de Negocio	1701
 DAS UNIDADES ESCOLARES	10766
 DISTRIBUIÇÃO POR UNIDADE ORGÂNICA	11531
 Dos Unidades de Ramificación	3179
+ECV Unidade Orgânica Faculdade de Ciências	12019
 EMIRATOS ARABES UNIDOS DUBAI	4209
 Estados Unidos	1701,1115,277,426,88,85,5068,103,1888,9,17,779
 Estados Unidos Medidas	2816
@@ -22,7 +24,7 @@ Nacionales Unidas	975
 Naciones Unidad	975
 Naciones Unidas	758,217,726,2508,3839,2439,541
 Nações Unidades	11569
-Nações Unidas	220,575,420,593,593,180,235,232,992,4,102,565,36,525,546,200,154,754,740,643,165,156,145,485,1060,430,27,331,256,1,6,5,3,8,3,3,1,2,1,9,10,5,25,5,4,27,41,15,5,4,10,5,2,2,3,8
+Nações Unidas	220,575,420,593,593,180,235,232,992,4,102,565,36,525,546,200,154,754,740,643,165,156,145,485,1060,430,27,331,256,1,6,5,3,8,3,3,1,2,1,9,10,5,25,5,4,27,41,15,5,4,10,5,2,2,3,8,386
 Nações Unidas Em Março	2816
 Nações Unidas Guiné-Bissau	11547
 Nações Unidas OCDE	2816
@@ -37,6 +39,7 @@ Por Unidade Estatística	11516
 Por Unidade Estatística Identificável	11516
 Por Unidade Estatística Não Identificável	11516
 Povo Unido	11544
+Primeiro Ministro. A Unidade de Competitividade	11898
 Project CRESCER and Project Todos Unidos Pela	10768
 Projecto UPS Unidades de Alimentação Ininterrupta VBG	11413
 Projecto URIP Unidade Regional de Implementação	11390
@@ -47,15 +50,18 @@ Reino Unido de Gran Bretaña	6613
 Reino Unido. Sem	2784
 República Unida de Tanzanía	6613
 República da Guiné-Bissau Unidade	11523
+Semestre Unidades Curriculares Horas	12019
 Sistema Internacional de Unidades	11381
+Sistemas de Informação Unidades Curriculares Horas	12019
 Todos Unidos	11387
 Todos Unidos Pela Primeira Infância VBG	11387
 Tráfego Nações Unidas	11569
 UCAN Universidade Católica de Angola UIP Unidade	11390
 UIP Unidade de Implementação	11413
 UNIDADE DE GESTÃO DE PROJECTOS ESPECIAIS	8166
+UNIDADE DE GESTÃO DE PROJETOS ESPECIAIS	11941
 UNIDADE LUTA PROGRESSO	11513
-UNIDO	2816,4826,1249,2078,160,443
+UNIDO	2816,4826,1249,2078,160,443,312,11
 Unida	9399
 Unidad	4209
 Unidad Regional	11525
@@ -71,8 +77,10 @@ Unidade Sanitária Mais Próxima......................182	10777
 Unidade Tecnica de Implementacao da ENIF	2138
 Unidade Técnica de Implementação da ENIF	2138
 Unidade da Justiça	6944
+Unidade de Competitividade	11898,123
 Unidade de Gestão	8166
-Unidade de Gestão de Projectos Especiais	8166
+Unidade de Gestão de Projectos Especiais	8166,3689
+Unidade de Gestão de Projetos Especiais	11863,6,29,43,24,56
 Unidade de Governo	11569
 Unidade de Implementação	11390,50,1,1,21,79
 Unidade de Informação Financeira	6360,5008,315
@@ -80,7 +88,9 @@ Unidade de Informação Financeira de Cabo Verde	11683
 Unidade de Intermediação da Mão de Obra	10778
 Unidade de Investigação Tecnológica	549
 Unidade de Tecnologias	3118
-Unidades	539,1162,5269,4435,11,5,156
+Unidades	539,1162,5269,4435,11,5,156,442
+Unidades Curriculares Horas	12019
+Unidades Curriculares Opcionais Horas	12019
 Unidades Especializadas	6970
 Unidades Nacionales de Referencia	1701
 Unidades Sanitárias	11401
@@ -92,3 +102,4 @@ Unidades de Processamento Gráfico	2816
 Unidades de Saúde	11363
 Unidas	4641,6928
 Unidos	1192,5421,4776
+Unit of Account UGPE Unidade de Gestão de Projetos	11863

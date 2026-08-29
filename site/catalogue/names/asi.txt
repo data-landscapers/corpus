@@ -7,11 +7,12 @@ ASI Rehabilitación	4209
 ASI and Market Capitalization	10
 ASI. Growth	10
 ASIA Crosswalk	70,1,2,3,61,3,1,61,66,4,8,1,85,1,8,113,5,170,3,207,2,1,8,215,2,1,10,1,371,2,1,4,1,1,5,1,671,2,9,13,5,1,3,2274
-ASIA Indonesia	11004
-ASIA Indonesia W	11004
-ASIA Male	11004
-ASIA Men	11004
+ASIA Indonesia	11004,960
+ASIA Indonesia W	11004,960
+ASIA Male	11004,960
+ASIA Men	11004,960
 ASIA Mexico Guatemala Sri Lanka Pakistan	11004
+ASIA Philippines	11964
 ASIA Self-Employed	11004
 ASIA Subject	868,249,389
 ASIAN BETTING AND GAMING ENTERPRISES AFRICA	7167
@@ -37,12 +38,14 @@ Africa Americas Arab States Asia-Pacific CIS	11563
 Africa Asia Dairy Genetic Gains	8183
 Africa Asia Europe North America South	10718
 Africa Asia Middle	7167
-Africa and Asia	947,3247,410,643,1892,105,121,1,953,1728
+Africa and Asia	947,3247,410,643,1892,105,121,1,953,1728,1810,137
+Africa and Asia Pacific	11880
 Africa and Asia. BIO	821
 Africa and Asia. Fund	948
 Africa and Asia. Phases	129
 Africa and Asia. The PEACE	4676
 Africa and Asia. Together	1969
+Africa and Asia.163	11994
 Africa and Central Asia	8477
 Africa and South Asia	47,47,285,18,11175
 Africa and South Asia. Africa-focused	94
@@ -66,6 +69,7 @@ Asia Africa	10977
 Asia Africa America and World Europe Annual	11572
 Asia Almaty Very High EGDI V3	10840
 Asia B2B	3260
+Asia Banking and Finance	11994
 Asia Caribbean	11572
 Asia Eastern Asia Shanghai Very High	10840
 Asia Infrastructure Fund	1145,7916,2
@@ -73,7 +77,7 @@ Asia Infrastructure Fund. Operates DCs	7259
 Asia Latin America	10977,595
 Asia Namibia High EGDI M-OSI H-HcI	10840
 Asia Note	5618
-Asia Pacific	3874,1098,2175,1798,2072
+Asia Pacific	3874,1098,2175,1798,2072,905
 Asia Pacific Computer Emergency Response Team	10764
 Asia Pacific Gateway	1766,2910
 Asia Pacific Journal of Management	9129
@@ -90,11 +94,14 @@ Asia United Gateway East	1766
 Asia Western Asia la Habana Very High	10840
 Asia and Africa	10844
 Asia and Europe	3636,1336,252,1467,3727
-Asia and Latin America	6960,4044,151
+Asia and LMICs	11964
+Asia and Latin America	6960,4044,151,933
 Asia and Middle East	11185
 Asia and North America. Across	4972
 Asia and Pacific	11004
 Asia and South America	1123,10012
+Asia and Sub-Saharan Africa	11964
+Asia and Sub-Saharan Africa.14 Digital	11994
 Asia-Africa	7365,1
 Asia-Africa-Europe	5252
 Asia-Africa-Europe-2	3342,3431
@@ -117,6 +124,7 @@ Asia. Lendable	624
 Asia. Liquidity	5863
 Asia. Multiple	4121
 Asia. Nigeria	6266
+Asia. Notable	11922
 Asia. Overall	8945
 Asia. So	1038
 Asia21	11004
@@ -124,9 +132,9 @@ Asia31	11004
 AsiaPac	7147
 AsiaPaciﬁc	11154
 Asiama	5519,802,1020,4358
-Asian	2461,130,239,283,761,802,398,1796,1156,100,222,255,67,536,503,1137,114,10,161,18,43,629
+Asian	2461,130,239,283,761,802,398,1796,1156,100,222,255,67,536,503,1137,114,10,161,18,43,629,73
 Asian Association of Open Universities Journal	1248,7880
-Asian Development Bank	396,6743,3579,438,154
+Asian Development Bank	396,6743,3579,438,154,684
 Asian Development Bank AIDS Acquired Immune	396
 Asian Development Bank Report No	10718
 Asian Infrastructure Investment Bank	607,3460,1351,3308,2630
@@ -189,9 +197,11 @@ CAPÍTULO II Direito de Asilo SECÇÃO	11365
 CHINA ASIA ENTREPRISE	2342
 CONCEJALES AYUNTAMIENTOS Categoria Ayunt. Asignac. Mensual	4209
 Can African and Asian	226
-Caribbean Africa Asia	11004
+Caribbean Africa Asia	11004,960
 Caroline Asiimwe	9805
-Central Asia	8449,2528,27,151,155
+Central Asia	8449,2528,27,151,155,592,62
+Central Asia CenEturraol	11964
+Central Asia Proportion	11964
 Central Asia Sub-Saharan Eastern Asia Western	11572
 Central Asia and Southern Asia	11572
 Central Asian	10068
@@ -201,6 +211,7 @@ Chief Economist for Asia Pacific	8890
 China and Asia	5863
 Co-Founder of Asiedu	8697
 Concessão de Asilo ARTIGO	11365
+Congo ASEAN Association of Southeast Asian Nations	11994
 Cotonou. ASIN’s Director General	3514
 DG ASIA	4209
 DG of ASIN	1728
@@ -215,12 +226,12 @@ EAP and Europe and Central Asia	11149
 EPI TEC SP CP IF Asia	10840
 EU-Central Asia Digital Bridge	11155
 East African Asian	6231
-East Asia	6997,3849,158,131,14
+East Asia	6997,3849,158,131,14,753,62
 East Asia Europe Latin Middle South	10977
 East Asia Pacific	10714,71
 East Asia and Europe and Latin America Middle	10977
 East Asia and Oceania	10846
-East Asia and Pacific	10785,192,163,9
+East Asia and Pacific	10785,192,163,9,718
 East Asia and Pacific and Latin	11004
 East Asia and Pacific. Senegal	10977
 East Asian	4053,6924,172
@@ -237,7 +248,7 @@ Emerging Africa and Asia Infrastructure Fund	7259,29,1772
 Europe Asia Oceania	4972
 Europe and Asia	1903,1733,889,323,1830,13,99,438,2892
 Europe and Asia. While Africa	4121
-Europe and Central Asia	226,5372,5187,192,27,136,9
+Europe and Central Asia	226,5372,5187,192,27,136,9,718,35,62
 Europe and Central Asia and East Europe and Central	11004
 Europe-East Asia and Europe-Sub-Saharan Africa	2830
 European Investment Bank. Connecting Europe and Asia	11155
@@ -291,8 +302,10 @@ LLDCs Asia	10844
 LLDCs Asia N	10844
 Latin America and Asia	4426
 Latin America and Asia Pacific	9151
+Latin American and Southeast Asian	11964
 Lead for UNDP Europe and Central Asia	9170
 Ley Fundamental de Guinea Ecuatorial. Asimismo	9320
+M India W M ASIA Indonesia	11964
 M LIVE IN South Asia	11004
 M-HcI H-TII Asia Marshall Islands Middle	10840
 M-OSI H-HcI M-TII Asia Zimbabwe Middle	10840
@@ -337,28 +350,32 @@ SANITAR. PROFESORES MAESTROS ASIMILADOS MEDIOS Importe	4209
 SECRETARÍA TOTAL Asignaciones Globales CAMARA GENERAL	4209
 SOCIALES Y MULTI SECT. ASIS. ADOLESENCIA	4209
 SOUTH ASIA AND SUB-SAHARAN	10977
+SSA and Southeast Asia	12006
 Saharan Africa and South Asia	9653
 Six Asian and African Countries	226
 Smartphone East Asia and Pacific Europe and Central	10977
 South America and South Asia	10199
-South Asia	379,3742,1103,273,101,1107,292,640,992,1159,926,71,192,26,1,131,5,16,416
+South Asia	379,3742,1103,273,101,1107,292,640,992,1159,926,71,192,26,1,131,5,16,416,295,35,1,61,42
 South Asia President Zuma and Prime Minister	11183
 South Asia Region	10714
 South Asia Sub-Saharan East Asia and Europe	10977
 South Asia and Africa	5367
 South Asia and Beyond	10768
+South Asia and LMICs	11902
 South Asia and Southeast Asia	1558
-South Asia and Sub-Saharan Africa	10977,27
+South Asia and Sub-Saharan Africa	10977,27,960
+South Asia and Sub-Saharan Africa. Generally	11903
+South Asia and Sub-Saharan Africa. Women	11902
 South Asia. Brazil	11183
 South Asia. In Indonesia	11004
 South Asia. True	10200
-South Asian	7151,639,839,2934
+South Asian	7151,639,839,2934,339
 South East Asia	9616,1230
 South East Asia and Australia	4676
 South East Asia and South America	4676
 South Sub-Saharan East Asia and Europe and Latin	10977
 South and Asia	4528
-South and Southeast Asia	1162
+South and Southeast Asia	1162,10926
 South and Southeast Asia. SSA African	1162
 South-East Asia	4676,6278
 South-East Asia-Middle East-Western Europe	4676
@@ -369,19 +386,23 @@ Southeast Asia-Japan Cable	1766,2910
 Southeast Asia. Cape Town	7208
 Southeast Asia. Reaping the Low-Hanging Fruits for Africa	10848
 Southeast Asian	2677
+Southeast Asian Nations	11994
 Southern Africa and Asia	8246
 Southern Asia South-eastern Asia Central Africa	11572
+Southwest Asia and North Africa	12088
 Stress Index The Annual ASI	11762
 Sub-Saharan Africa Aside	7423
 Sub-Saharan Africa Central and Southern Asia Eastern	11572
-Sub-Saharan Africa and South Asia	11003,1
+Sub-Saharan Africa and South Asia	11003,1,898,1
 Sub-Saharan Africa and South Asia. In Nigeria	1681
 Sub-Saharan Africa and South Asia. This Pakistan	11004
 Sub-Saharan Africa and South East Asia	10846
+Sub-Saharan Africa. In South Asia	11964
 Sudeste Asiático	2816
 TII Asia Democratic People's Republic of Korea	10840
 TII Asia Eritrea	10840
 Tech Africa. Aside	2970
+Tech In Asia	11994
 Telecom Review Asia	8945
 TikTok and Asia	226
 Trans Europe Asia System	1741
@@ -399,6 +420,8 @@ United Nations Economic Commission for Western Asia	11572
 United States and Asia	7577
 Very Different Intensity Africa and South-East Asia	10954
 W M ASIA Indonesia W M	11004
+W M India W M ASIA	11964
+West Asia	12110
 Western Asia	10840,732
 Western Asia and Northern Africa	11572
 Zimbabwe. Asia	10844

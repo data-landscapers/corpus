@@ -1,10 +1,11 @@
 ANI Last Updated	8210
 ANIAD	3494
+ANICNS	11892
 ANIES	10991
 ANIESE TCHISSOLA PORFIRIO SILVESTRE	10751
 ANIJA COMMUNITY MEDICAL HEALTHCARE Data Processor	7167
 ANIMF	5835
-ANINF	1560,606,795,122,42,166,7,64,138,81,136,246,2166,28,622,23,16,1379,1638,2,1871
+ANINF	1560,606,795,122,42,166,7,64,138,81,136,246,2166,28,622,23,16,1379,1638,2,1871,403
 ANINF Director General	3291
 ANINF Director General Alberto Mounguengui Moudoki	9837
 ANINF Tower	6779,23
@@ -43,9 +44,10 @@ Animal Health P8	5636
 Animal Health Regional Blood Safety Laboratories	4153
 Animal Identification Act	11188
 Animal Identification and Traceability System	11836
+Animal Rearing School	11857
 Animals	11836
 Animals Electrical	1988
-Animation	7106,3715
+Animation	7106,3715,1042
 Animation Production	9781
 Animations Sign	11334
 Animations Turn	11334
@@ -53,8 +55,8 @@ Animaux	4420
 Animer	10965
 Animista	10777
 Animé	8403
-Animée	7677
-Aninf	4043,3897,34
+Animée	7677,4402
+Aninf	4043,3897,34,4117
 Aninternetserviceproviderwhoenables	972
 Anip. Des	7332
 Anip. Enregistrant	4812

@@ -40,6 +40,8 @@ Description IP-transit	6943
 Directors IoT Internet of Things IP Internet	6946
 Disbursement Guidelines for IPFs	3604
 Disbursement Guidelines for World Bank IPF Operations	10964
+DoE IPP Office	11953
+DoE IPP Office Renewable	11953
 DoH-pinned IP	7047
 Draft IPPF	10964
 Démographie IP	10847
@@ -55,6 +57,7 @@ Energy Storage IPP Bid Windows	11228
 Engage IPAM Students	5939
 Europe IPE	643
 European IPO	8049
+Expanding IPPIS	11942
 Extractives IPF	11469
 FSU-source IP-transit	6943
 Faso IPv6 Academy	7010
@@ -80,6 +83,7 @@ IMF International Monetary Fund IPP Independent	10861
 INIS Infection Prevention and Control IPC Joint	11417
 INTIC IP ISR ITU M&E MDA	4653
 IOC Indian Ocean Dipole IP Internet	2775
+IP Address Mapping	12041
 IP BTS	54
 IP Commercialization C1-Number	7548
 IP Core	10721
@@ -93,9 +97,11 @@ IP Phone	6946
 IP Policy for African AI	5858
 IP Policy for African AI.pdf	5858
 IP Portuguese Institute for Sea and Atmosphere	11553
+IP Prefixes	11878
 IP Principais Colaboradores Internos	2816
 IP Protocol	5858
 IP RAN	9529,3
+IP Rating Actual Disbursements	11924
 IP Server Equipment	6946
 IP TCP	1036
 IP Transit	1011,2829,4159,1447,1510
@@ -110,6 +116,7 @@ IP-200279	2096
 IP-220057	2096
 IP-address	26
 IP-based Access Network	194
+IP-centric	12028
 IP-intensive	8967
 IP-pinned	2667
 IP-protection	8593
@@ -137,9 +144,15 @@ IPDCP du Togo	10240
 IPDCP. Any	436
 IPDCP. Après	8672
 IPEME	2816
+IPF Borrowers	11905
+IPF Component	11905
+IPF Environmental and Social Risk Program-for-Results	11905
+IPF Investment Project Financing	11965
 IPF Investment Project Financing IPP Independent	11549
 IPF Investment Project Financing IPPs Independent	11380
+IPF Investment Project Financing ISP Implementation	11855
 IPF-financed	11525
+IPF. The PIU	11905
 IPHD International Partnership for Human Development M&E	11525
 IPI Africa Programme Lead Nompilo Simanje	10533
 IPI. Sometimes	1261
@@ -165,13 +178,14 @@ IPP Independent Power Producer IT Information	10781
 IPP Media	2947,6859
 IPP. Pour	10975
 IPPF Indigenous Peoples Planning Framework	11390
-IPPIS	7973
+IPPIS	7973,3969,194
 IPPIS Data Harmonization Project	7973
 IPPIS Human Resource Modules	7973
 IPPMEDIA.COM. ALL RIGHTS RESERVED	2857,3026,94,2907
 IPPR Democracy Report	1021
 IPPlus Nigeria Ltd	3862
 IPPs. Sets	10995
+IPRC Code	11955
 IPRC-Kigali and Coordinator of Rwanda TVET Trainer Institute	718
 IPREC Instituto de Preços	11380
 IPRES	3381
@@ -191,8 +205,11 @@ IPT Powertech	344
 IPT Powertech Group SAL	344
 IPT Powertech for Telecom Tower Energy	344
 IPTSIznnzgs200XEJW950jUoyC1hD	4563
+IPU Inter-Parliamentary Union	11887
 IPV ISRS ISO KEMSA KEMSA-QA KEMRl	4153
+IPV Intimate Partner Violence	11965
 IPs. AI Civil	4126
+IPs. In the RoC	11905
 IPsec	10721
 IPv4 and IPv6	3503,5993
 IPv4-IPv6	2405
@@ -200,6 +217,8 @@ IPv4. Elle	7010
 IPv4. Hanifa Koussoubé Lefaso.net	7010
 IPv4. L'ingénieur	7010
 IPv6 Au	7010
+IPv6 Company	12058
+IPv6 Coverage	11878
 IPv6 Dual Stack	2405
 IPv6 En	7010
 IPv6 Forum Burkina Faso	7010
@@ -220,16 +239,18 @@ IPv6. The Chairman	5904
 IPv6. Under	1702
 IPv67	961
 ISP Internet Service Provider IPP Independent	3184,1,1340,6470
+Imports Eskom1 IPPs1 Imports Exports	11953
 Imposto Industrial IP	11435
 Improved Child Survival Program for IPF Human	11469
 Improved IPC	10776
 Independent Pension Plans IPTV Internet-Protocol Televisions	2775
+Indigenous Peoples Policy Framework IPPF	11924
 Infl. IPC	7655
 Instituto Nacional de Administración Pública IP	1701
 Integrated Management of Childhood Illness IPC	10776
 Inter-Agency CONTACTS Bernadette-Mah Ippet	10864
 Interesting Investment IPO Iraq Jordan KSA	5322
-International Monetary Fund IPU Inter-Parliamentary Union	10759,78
+International Monetary Fund IPU Inter-Parliamentary Union	10759,78,1052
 Internet of Things IP	2816
 Internet of Things IPR	958
 IpNX Internet	3862
@@ -244,10 +265,12 @@ Iphasiphothi Umazisi	11573
 Iphemithi	11573
 Iphini	11573
 Ipotnews	9399
-Ipsos	2816,63,5216,224,2685
+Ipsos	2816,63,5216,224,2685,960
 Ipsos Gig Economy	8515
 Ipsos Kenya Gig Economy Report	10319
 Ipsos Kenya Ltd	10862
+Ipsos the GSMA	11964
+Ipsos. Published	11902
 Ipyana Jengela	5002
 Kenya's IP	10041
 London IPO	6350
@@ -264,6 +287,7 @@ M Social Policy IPF	11469
 M. IPT	344
 Marketing Transport IPF	11469
 Middle East. IPT	344
+Ministère des Affaires IPF Sociales	11905
 Modernizing IP	4528
 Mojaloop-based IPS	4675
 Mozambique Approves IP Strategy	7624
@@ -288,8 +312,10 @@ Port IPMI Communication	9475
 Principal of IPRC Karongi	718
 Prix IPv6 Activé	7010
 Procurement Regulations for IPF	7951
-Procurement Regulations for IPF Borrowers	6539,3064,1,1164,757
+Procurement Regulations for IPF Borrowers	6539,3064,1,1164,757,330
+Program Action Plan and IPF	11905
 Program IPF	11469
+Program and IPF	11905
 Project IPF	11469
 Project Population IPF Digital Development	11469
 Protecção IP66	794
@@ -333,7 +359,9 @@ Updated IPC	3583
 World Bank Disbursement Guidelines for IPF	1264
 World Bank IPF Policy and Directive	1264,2340
 World Bank IPF. Detailed FM	3604
-World Bank Procurement Regulations for IPF Borrowers	1264,603,1737,2935,3064,1226,135,453
+World Bank Policy and Directive for IPF	11905
+World Bank Procurement Regulations for IPF Borrowers	1264,603,1737,2935,3064,1226,135,453,438,50,19,41
+World Bank's IPF	11905
 World Bank's Procurement Regulations for IPF Borrowers	9604
 World Bank’s Procurement Regulations for IPF Borrowers	2889,3014,5622
 World Wide Web. IP	1036

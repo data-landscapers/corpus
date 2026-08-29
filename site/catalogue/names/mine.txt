@@ -1,7 +1,7 @@
 Abuja The Ministry of Solid Minerals Development	7513
 Acting Minister of Industry and Minerals	9862
 Adm MINEF	2342
-Africa Centre for Critical Minerals and Energy Transition	8850
+Africa Centre for Critical Minerals and Energy Transition	8850,3269
 Africa's Real Gold Mine Isn't Underground	10078
 Agricultural and Critical Minerals Transformation	10321
 Average Export Prices of Selected Minerals	2775
@@ -18,6 +18,7 @@ Chamber of Mines	1554
 Chamber of Mines of Zimbabwe	4528
 Clúster de Recursos Minerales	1701
 Clúster de Recursos Minerales Para	1701
+Coal Mine	12082
 Corporate Social Responsibility Lumwana Mines	1988
 Critical Energy Transition Minerals	11210
 DAVID WHITTLE FORTUNA SILVER MINES. Elle	2342
@@ -27,7 +28,9 @@ DU MINERAI PRODUIT. En	2342
 Datacenter de ST Digital Minette Libom Li	3298
 Deal for Glencore’s Kamoto Mine Congolese	5407,676
 Department of Geology and Mines	2889
+Department of Mineral Resources	11890
 Department of Mineral Resources and Energy	6683,4589
+Department of Mineral and Energy. Over	11890
 Department of Mineral and Petroleum Resources	11232
 Desarrollo Minero	4209
 Direction des Mines	235
@@ -133,7 +136,7 @@ Mineração	2816
 Mineração de Dados Educacionais	2816
 Minerva	11028
 Minerva Technology Futures	7209
-Mines	235,1753,354,1054,43,192,1185,686,62,107,751,340,3,361,642,169,384,434,199,47,286,55,254,418,859,2,25,697
+Mines	235,1753,354,1054,43,192,1185,686,62,107,751,340,3,361,642,169,384,434,199,47,286,55,254,418,859,2,25,697,309
 Mines Agriculture des Marchés Eau	2342
 Mines Artisanales	643
 Mines Commerce Crafts	10763

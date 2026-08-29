@@ -8,10 +8,12 @@ APO07 Managed Human ITCap L	9237
 APO08 Managed ITGov	9237
 ASSUMPTION OF MARY ITHANGA CATHOLIC HOSPITAL	7167
 AU and ITU	958,6368
-About ITU The International Telecommunication Union	7199
+About ITU The International Telecommunication Union	7199,4721
+Acknowledgements Itad and Steward Redqueen	12006
 Additional Information Regulation M-A Item	7198
 AfDB and ITU	10819
 Africa. ITU	2677
+African ITU GCI	11917
 African Union and ITU	6936
 Agenda Items	5680
 Agile and Iterative Development Approaches Software	5665
@@ -50,6 +52,7 @@ Build ITMA	11545
 Bundesverband IT-Mittelstand	457
 C. Ithuli	11140
 CAMP Cyber Accelerated Maturity Program ITU	6936
+CBPRs Item	11993
 CEO IT-NUM	8848
 CEO of ITIDA	11162
 CO-CREATION AND ITERATION Open	4528
@@ -75,6 +78,7 @@ Courier Items Jan-Mar	6671
 Cross-Enterprise Cross-Enterprise Document Media ITI TF-3	1009
 DC-powered ITE	9123
 DPSR DPSR SCRP ITI SRH SRH	10858
+DRC. The ITAP	11916
 DSS01 ITCap	9237
 Daisy Gladys Iteriteka	4068
 Daniel Itai	5330,1578
@@ -87,14 +91,17 @@ Description ITP	215
 Description ITU	502,188,1,438
 Description ITU-managed	285
 Diplomatic Corps Representatives of UN ODET and ITU	10210
+Director of ITU's Telecommunication Development Bureau	11920
 Director of ITU’s Telecommunication Development Bureau	7139
 Djibouti Seeks ITU	7157,40,31
 Download the ITU GSI Report	10848
 Dylan Martheze Angela Itzikowitz	6998
 E N T I D ITEM	582
+EFA and ITAP	11916
 EGDI and ITU	6382
 EGX Chairman Omar Radwan and ITDA Head	10498
 Economic Item and Funding	1512,1,695
+Efficiency and Equity of Domestic Financing The ITAP	11907
 Electromagnetic Interference ITE	9123
 Embaixador Itinerante	6970
 Embassy of Italy	10592
@@ -108,6 +115,7 @@ Exit Item Summary	4896
 FCFA ITY HOLDINGS SA	2342
 FactsFigures2021.pdf ITU	1243
 Federal Association for IT-SME	2143
+Fi. ITU	11857
 Financial Management Information Systems ITMA Instituto	11545
 Financial Statements Regulation M-A Item	7198
 Food Crops and Related Items	2775
@@ -150,7 +158,7 @@ IT-equipment	8985
 IT-governance	4297
 IT-led	9237
 IT-network	5046
-IT-related	5533,5601
+IT-related	5533,5601,852
 IT-security	1904
 IT-specific	1942,1595
 IT.CEL.SETS	4127
@@ -177,6 +185,8 @@ ITEC and ICCR	11579
 ITEDGENEWS&utm medium	7139
 ITEKA RYA PEREZIDA N	1214
 ITEL. Nessa	11402
+ITEM DESCRIPTION RESPONSIBILITY TIMELINE	11857
+ITEMS	11860
 ITEMS REQUIRED TO BE INCLUDED	3714
 ITERATIVE HNSF DEVELOPMENT AND IMPLEMENTATION CYCLES	1009
 ITEdgeNews	2339
@@ -241,7 +251,8 @@ ITU Creating	10764
 ITU Critical	10764
 ITU Cybersecurity	10764
 ITU DFS	5428
-ITU DataHub	3569,7855,139
+ITU Data Hub	11965
+ITU DataHub	3569,7855,139,402
 ITU DataHub Note	6946
 ITU DataHub. Table A2.1	10844
 ITU Deputy Secretary-General Tomas Lamanauskas and ICPC	7199
@@ -275,8 +286,10 @@ ITU ICTPriceBaskets 2008-2024.xlsx	11563
 ITU ICTPriceBaskets Allowance 2024.xlsx	11563
 ITU In LLDCs	10844
 ITU Innovation Centre	10764,80,719
-ITU International Telecommunication Union ITUC International	10759,78
+ITU International Telecommunication Union	11887
+ITU International Telecommunication Union ITUC International	10759,78,1052
 ITU International Telecommunication Union IUCD Intrauterine	2775
+ITU International Telecommunication Union IXP Internet	11857
 ITU International Telecommunication Union KfW German	3604
 ITU International Telecommunication Union LTE Long	236
 ITU International Telecommunications Union Figure	582
@@ -285,15 +298,18 @@ ITU L.1021	3604
 ITU L.1036	3604
 ITU Legal	10764
 ITU Localities	4653
+ITU Make	11857
 ITU Median	11563
 ITU Member States	6168,4596,498
 ITU Methodology for Data Collection Data	3604
+ITU Names	11917
 ITU National E-Health Strategy Toolkit	21
 ITU Organizational	10764
 ITU P2C	2137
 ITU PP-26	6488,1753
 ITU PP-26. V. Social	6488
 ITU Partner2Connect	1634,503,526,1857
+ITU Penetration	11857
 ITU Plenipotentiary Conference	6488,154,304,723,124,157,602,93,1111,1008
 ITU Plenipotentiary Conference. Maida	7562
 ITU Presentation	5681
@@ -314,7 +330,7 @@ ITU Regional Office for Africa	27
 ITU Report	958,10258
 ITU Rural Access	5241
 ITU SG Doreen Bogdan-Martin	7197
-ITU Secretary-General	7235,91
+ITU Secretary-General	7235,91,4594
 ITU Secretary-General Doreen Bogdan-Martin	1883,5256,60
 ITU Sector Member	8753
 ITU Sectoral CIRTs	10764
@@ -335,9 +351,11 @@ ITU Workshop	6331
 ITU World Bank	961
 ITU World Radiocommunication Conference	7850,1442
 ITU World Telecommunication	6946
+ITU and GSMA	11857
 ITU and ICPC	5950
 ITU and Kaspersky Lab. Issued	318
 ITU and Member States. Page	962
+ITU and PricewaterhouseCoopers	11917
 ITU and UNDESA	10844
 ITU and UNESCO	7174
 ITU and UNESCO Broadband Commission	6467
@@ -348,7 +366,7 @@ ITU score	10940
 ITU's	1915,4552
 ITU's DFS	5677
 ITU's DFS Lab	5677
-ITU's Global Cybersecurity Index	2464,780,1566
+ITU's Global Cybersecurity Index	2464,780,1566,7107,3
 ITU's Measuring Digital Development	9616
 ITU's Partner2Connect	4520,2615
 ITU's Partner2Connect Digital Coalition	2137,2383
@@ -359,7 +377,7 @@ ITU- T	3604
 ITU-ALERT International Cyber Drill for Africa Region	318
 ITU-Applied	318
 ITU-Cisco DTC Initiative	689
-ITU-D	26,1,1,257,37,180,42,145,1,1,270,168,114,285,286,7585,217,1235,712
+ITU-D	26,1,1,257,37,180,42,145,1,1,270,168,114,285,286,7585,217,1235,712,316
 ITU-EC Project	26,1,1
 ITU-EC-ACP	26,1,1,257,9114
 ITU-EC-ACP Project Assistant	26,1,1
@@ -387,6 +405,7 @@ ITU. Foreword HIPSSA	26,1,1
 ITU. National E-Health Strategy Toolkit	21
 ITU. Table A2.2	10844
 ITU.INT	578
+ITUC International Trade Union Confederation	11887
 ITUHandbookTelecomAdminData2020	6671
 ITUManualHouseholds2	6671
 ITUPublications	4970
@@ -451,6 +470,7 @@ ITl-18	1009
 ITl-8	1009
 ITweb	2117
 IV. ITU PP-26 Finally	6488
+Identification Identification Menu Items	11877
 India and Italy	5095
 India and Italy Launch Trilateral Sovereign AI	5095
 Information Technology ITIL Information Technology	6432
@@ -466,6 +486,8 @@ It's Actually Like	5874
 It's MOSIP	7065
 It's Peter Shor	9698
 ItD0yR2nE-uAOmcdtab2tea0	10763
+Itad and Steward Redqueen	12006
+Itad. Copyright	12006
 Italia	3238,5536
 Italia CORINTO	6613
 Italia Matlala Executive Group Head	5247
@@ -489,7 +511,7 @@ Italian President Sergio Mattarella	3353
 Italian Prime Minister Giorgia Meloni	2367
 Italian and Indonesian	7242
 Italian-supported	7068
-Italicized	10840
+Italicized	10840,1054
 Italie	1247,1201,4165,444,1258,576,2053
 Italie. Entre	5916
 Italy	402,568,243,34,3,1019,19,45,14,9,11,13,65,84,4,11,6,12,38,10,6,3,7,1,49,4,157,264,241,2,9,4,265,96,154,268,265,221,430,39,243,332,124,146,163,223,132,155,9,56,112,59,38,143,33,179,59,23,698,324,324,728,154,252,167,621,111,82,79,424,37,247,14,23
@@ -527,9 +549,11 @@ Item SCHEDULE OF FEES OF OFFICE	11249
 Item Summary Shareholders Who Elect	4896
 Item Type	10878
 Item Type Article Elements ID	10878
+Item of Intangible Assets Years Computer	11955
+Item of Tangible Fixed Assets Years Buildings	11955
 ItemExtent	3714
 Itemid	432,1,8966
-Items	1212,44,737,782,939,718,464,3512,715,658,1012,336
+Items	1212,44,737,782,939,718,464,3512,715,658,1012,336,824,2,31
 Items Delivered Countrywide	9781
 Items Domestic Delivered Countrywide Couriers	9781
 Items Inter-City Delivered Countrywide Couriers	9781
@@ -561,9 +585,15 @@ ItsMe	10819
 Itsandra	3772
 Itsandra. Cette	3772
 Itsme	2390,524,103,443,7254
+Itsoseng Upgrading	11986
 Itumanaho	1214
 Itumanaho. Communication. Ingingo	1214
-Ituri	6495,2913
+Itumeleng Clinic	11980
+Ituri	6495,2913,2474,18,18,5,120
+Ituri Province	11900
+Ituri and Kasai	11918
+Ituri and North Kivu	11900
+Ituri and Tshopo	11923
 Ity Holdings	2342
 Ity-Zouan-Hounien	2342
 Itália	2816,8740,137
@@ -577,6 +607,7 @@ Join ITU	9434
 Kleos Advisory and ITFA	10718
 Knowledge Transfer Programme. The ITU	5428
 Kristof Ithana	7743
+Kwilu and Ituri. Component	11923
 LEGISLATIVE PROPOSAL ITSELF	6476
 LLDCs. ITU	10844
 Le Rapport ITIE-RDC	8524
@@ -584,7 +615,7 @@ Lewis Itenya	9645
 List of Core CPI Items	2775
 List of Non-Core CPI Items	2775
 Lomé for International Forum ITC	8282
-Ludovic Itoua	6456,219
+Ludovic Itoua	6456,219,5183
 M. Bruno Jean Richard ITOUA	2738
 M. Guy Parfait Sosthène ITOUMOU	7661
 MEMORANDUM ITEMS IN PUBLIC	2775
@@ -609,12 +640,14 @@ Monsieur Mpeye Itonime	6460
 Mr. Samson Itodo	5825
 Must Complete and Submit IT3	11276
 N ITEM QUANTITY	1988
+NNBP ITEM DESCRIPTION RESPONSIBILITY TIMELINE	11857
 National ICT Development Strategy ITU	691
 Negotiations and Agreements Regulation M-A Item	7198
 Newsfeed Itana	3006
 No. Item Rate	6921
 Norad-funded ITU	689
 Norme ITIE	4127,4397
+North Kivu and Ituri	11916
 O ITMA	11555
 OASIS Standard ITI TF-2b	1009
 OKTO Technologies and IT6	3690
@@ -630,6 +663,7 @@ PURCHASED ITEMS	10977
 Pan-African Programme. ITU	285
 Partnership IT3	11276
 Per ITU	3579,1479
+Plan SN ITEM DEFINITION METRICS	11857
 Policy BEE Publications ITWeb Africa Brainstorm	10735
 Policy Number of ITU Indicators	1818
 Postal Items	6671
@@ -650,16 +684,20 @@ Regional Preparatory Meeting for ITU PP-26	6488
 Regulation for Digital Transformation. ITU	961
 Related ITU	578
 Report IT Information Technology ITAS Integrated	1284
+Republic of Congo. The ITAP	11907
 Request IT3	11276
 Return ISP Internet Service Provider ITU	6539
 Roadmap Items	6936
 Rome’s Arab Italian Trade Forum	5264
 SADC Model Law. ITU	1243
+SN ITEM DEFINITION METRICS	11857
 SSA ITU	502
+SUD-UBANGI DEMOCRATIC REPUBLIC OF MONGALA ITURI	11900
 SYSTEM CAN'T TALK TO ITSELF	9696
 Samson Itodo	10054
 Save the Beneficial Owner Register for Partnership IT3	11276
 Saved List of IT3	11276
+Self-analysis ITAP Data	11916
 Services ITGov	9237
 Shelter and Non-Food Items	1828,9036
 Snapped Underwater Cables and It’s Still	2677
@@ -694,7 +732,7 @@ U.S. ITA Country Commercial Guide	4186,908,1246
 UNICEF and ITU	6539
 US ITA	982,904,2027,1060,5868
 US ITA Country Commercial Guide	4186,908,1246
-Union ITUC International Trade Union Confederation	10835,3,130
+Union ITUC International Trade Union Confederation	10835,3,130,902,16
 Union Portugal Brazil Spain Italy CORE	11586
 United Kingdom and Italy	9815
 Used ITU	1363

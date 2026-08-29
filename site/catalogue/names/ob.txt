@@ -1,5 +1,7 @@
+A. Objects	12047
 A. Obligation	5872
-A. Project Development Objective	969,295,603,1737,2935,4229,61,551,180
+A. PROJECT DEVELOPMENT OBJECTIVE	11863
+A. Project Development Objective	969,295,603,1737,2935,4229,61,551,180,295
 A. Project Development Objective PDO Statement	10829
 ACCOUNTING BY HOLDING COMPANIES Obligation	3714
 ACHPR Observer Status No	8713
@@ -21,7 +23,7 @@ Actos Administrativos da Protecção Social Obrigatória	11433
 Affaires Sociales Guy Patrick OBIANG NDONG	1231
 Africa. Observer Research Foundation	2518
 African Observatory	1814,3784,1288
-African Union Election Observation Mission	1981,7101
+African Union Election Observation Mission	1981,7101,2827
 African Union and COMESA Election Observation Mission	10016
 Afrique OBJET DE LA REQUETE Traitement	10821
 Agency OMG Object Management Group TOGAF	11184
@@ -39,6 +41,7 @@ Appeals and Objections	9314
 Arctic Observing Mission	11291
 Area Consumer Rights and Obligations Digital Literacy	5676
 Artificial Intelligence for Earth Observation	9104
+Assessment of Achievement of Each Objective	11924
 Assurance Maladie Obligatoire	8891
 Assurance Maladie Obligatoire. Si	8891
 Authority. Objects	587
@@ -47,6 +50,7 @@ Axe Objectifs Actions Résultats Activités Budget	10965
 Axe Objectifs Spécifiques Actions Résultats Activités	10965
 Axe Stratégique AXES OBJECTIFS SPECIFIQUES MONTANT	10965
 Ayene Obuk	4209
+B. KEY OUTPUTS Objective	11924
 B. Objectivos de Desenvolvimento	11441,1
 BERKELEY Objection RAS Plusieurs ENERGY	10975
 BRIGADA DE CONSTRUC. Y OBRAS	4209
@@ -56,18 +60,23 @@ Basic Emergency Obstetric and Newborn Care	9766
 Bata Por Catalina Obono Mba Nchama	11633
 Beyond Obstruction	7857
 Bibaray Obekuiñ	4209
-Biggest Obstacle	10976
+Biggest Obstacle	10976,905,1
+Biggest Obstacle Access	11874
 Bilhetes de Identidade. IV. OBJECTIVOS GERAIS	10772
 Blessing Obeng	6936
 Borrow Pit Management Plan Objective	1988
 Brazil’s Artificial Intelligence Observatory	11135
+Brazzaville and Pointe-Noire. Objectives Assess the Republic	12055
 Brice Voltaire Etou Obami	6456,555
 Build. Strategic Objective	1777
 Burkina OB	11652
-Business Environment Obstacles	10976
+Business Environment Obstacles	10976,898,7
+Business Environment Obstacles Top	11882
 Bénin Télécoms Services S.A OBJET	10821
 C Obligations	972
-C. Higher Level Objectives	11525
+C. Higher Level Objectives	11525,330
+C. Objetivos	11898
+C. Program Development Objectives	11905
 C. Proposed Development Objective	1704,587,1165,7507
 CAPÍTULO I OBJECTO	11369
 CAPÍTULO II OBJECTIVOS E ATRIBUIÇÕES	13
@@ -84,6 +93,7 @@ CONSTANCIA MANGUE OBIANG LIMA	1855
 CONTINUITY OF RIGHTS AND OBLIGATIONS	4360
 CONVITE AOS OBSERVADORES INTERNACIONAIS	11528
 CPF Objective	6539
+Cabo Verde Technology Park Development Objective	11863
 Capacity and Human Capital Development Policy Objective	7548
 Capital Objetivo	11569
 Central Africa Observatory	4127
@@ -112,15 +122,17 @@ Comunicações Obrigatórias	11363
 Concluding Observations	6951,1534
 Concluding Observations and Recommendations	8485
 Concluding Policy Observations The South African	2117
+Congolese Human Rights Observatory	11924
 Conrad Onésime Oboulas Tsahat	6033
 Conrad Onésine Oboulhas Tsalat	4671
+Consideration of Time-Bound and Non-Time-Bound Obligations	11956
 Constancia Mangue Obiang Lima	6841
 Constitution of Uganda and Objectives	3005
 Construcción Obras	4209
 Consumer Obligations	5676
 Consumer Rights and Obligations	5676,2
 Continuing Obligations	3861
-Contractual Obligation	1243
+Contractual Obligation	1243,10713
 Contractual and Regulatory Obligations All	3861
 Contribuinte Obs. CI	11532
 Contribuinte Obs. Imposto	11532
@@ -160,6 +172,7 @@ DIGITAL PUBLIC INFRASTRUCTURE REFORM Objective	11236
 DIRECTIVO OBRAS EDIFICIFIC. Y CARRETERAS	4209
 DIREITOS E OBRIGAÇÕES RELATIVAMENTE	10755
 DOI Digital Object Identifier DORA San	5246
+DRC. Observations	11994
 Daily Observer	8151,804,697
 Daily Observer Deputy News Editor David	8151
 Dassault Systèmes. Objectif	3157
@@ -168,15 +181,15 @@ Data Protection Authority. Objective	4808
 Defining Objectives and Areas of Application	2958
 Delivering Key IT Objectives	11134
 Description Object	2078,2330,1
-Development Objective	1284,420,70,517,1165,7507,454
+Development Objective	1284,420,70,517,1165,7507,454,446,42,60
 Development Objective Agreements	4260
-Development Objective Original Development Objective	2712,1976,1891,349,949,2993,525
+Development Objective Original Development Objective	2712,1976,1891,349,949,2993,525,576,17
 Development Objective PEP Post-exposure Prophylaxis PFM	10829
 Development Objective PI Productive Inclusion PIM	10768
 Development Objective PIM Project Implementation Manual	11549
 Development Objective Project Implementing Entity Special	1228
 Development Objective and Results Framework	2291
-Development Objectives	1228
+Development Objectives	1228,10627
 Development Objectives Assistance Agreement	4301
 Development Objectives The Project Development Objective	11525
 Development and Innovation Strategic Objective	4528
@@ -205,10 +218,12 @@ ELECTRICITY SECTOR REFORM Objective	11236
 EN FONCTION DES AXES ET OBJECTIFS	998
 ENEO Zone Titre Localités Observations DRY	10975
 ENTREPRENEURSHIP DEVELOPMENT Objective	940
+ETHNOGRAPHIC OBSERVATION Observations	12090
 EU Electoral Observation Mission	970
 EU Observer	11050
 EU Specific Objective	970
-Earth Observation	1131,8413,1790,428
+Earth Observa	12006
+Earth Observation	1131,8413,1790,428,244
 Earth Observation Page Content	11334
 Earth Observation Satellite FUNCTIONS	1131
 Earth Observation Satellite System	2242,63
@@ -217,6 +232,7 @@ Earth Observation and Communication Satellites	1131
 Earth-Observation.aspx Earth Observation Turn	11334
 Ebenezer Obey	9739
 Education Nationale OEF Observatoire	12
+Education Section Observatoire	11916
 El Obeid	10192,142
 El Obeid Criminal Court	10192
 Election Observation Group	9645,404
@@ -229,6 +245,7 @@ Entidade Gestora Protecção Social Obrigatória	11433
 Entidade Gestora da Protecção Social Obrigatória	11433,34
 Entidade Gestora de Protecção Social Obrigatória	11433,34
 Epiphanus Obia The Enugu State	8537
+Escopo A. Objectivos	11898
 Establishment of The Financial Inclusion Observatory	10775
 Eswatini Data Protection Terms. Object	2109
 Eswatini Observer	5450
@@ -241,6 +258,7 @@ FINANCIAL INNOVATION Objective	940
 FREIGHT LOGISTICS SYSTEM REFORM Objective	11236
 Faculty of Economic and Objectives	9237
 Feliciano Obiang AVA	7703
+Fiduciary Obligations	11956
 Fiscalização de Obras	10783
 Following Vice-President Teodoro Nguema Obiang Mangue	3029
 Foundational Infrastructure and Data Ecosystems Objective	4528
@@ -253,6 +271,7 @@ GM- Specific Objectives	1000
 GOAL AND OBJECTIVES OF THE SPECTRUM	5245
 GOVERNANCE OBJECTIVE	1161
 GSM OBJET DE LA REQUETE Connexion	10821
+GenCo Invoice and Final Obligation	12062
 General Obiang	4209
 General Objectives	2958
 Georges Elanga Obam	3234,8464
@@ -274,7 +293,7 @@ Guiné-Bissau Objetivo	11569
 HLO1 Objective	6539
 Hajji Obeid Lutale and Captain Denis Oola	8470
 Harnessing Earth Observation for Agriculture	11407
-Has the Development Objective	2712,3867,254,95,4467
+Has the Development Objective	2712,3867,254,95,4467,576,17
 Health Centre COBIT CSIR Control Objectives	1009
 Henry Obiekea	7689
 High Level Objective	1867
@@ -285,6 +304,7 @@ Higher-level Objectives	11549
 Human Capital Development Objective	4528
 I Objectives and Standards	5132
 I. Objet	5928
+I. PROJECT CONTEXT AND DEVELOPMENT OBJECTIVES	11924
 I.1.2.1 Objectifs du Programme	10876
 I.2- ORIENTATIONS STRATEGIQUES I.2.1- Objectif	10858
 I.2.1- Objectif	10858
@@ -293,7 +313,7 @@ ICT Observatory	2913
 ICT Observatory Focal Point Persons	3476
 ICT Services Effectiveness Strategic Objectives	6946
 ID. Obstacles	4439
-IFC Collaboration No Proposed Development Objective	1867,8901,61,135,561,35
+IFC Collaboration No Proposed Development Objective	1867,8901,61,135,561,35,295
 II. OBJECTIFS ET MISE EN	10876
 II. PROJECT DEVELOPMENT OBJECTIVES	11525
 II. PROJECT DEVELOPMENT OBJECTIVES A. PDO	11525
@@ -331,6 +351,7 @@ IV.1.4.4.1 Objet	10876
 IV.1.4.4.1 Objet Assurer	10876
 Igolo ACHPR Observer Status No	8713
 Impactos Socioambientais Objectivo	11542
+Implementation Unit PDO Project Development Objective	11924
 Impôt OBJECTIFS SPÉCIFIQUES INDICATEURS D’EFFET OBJECTIFS	10712
 Incidência Objectiva	744,10686
 Inclusive Development and Innovation Open Data Objectives	170
@@ -349,6 +370,7 @@ International Treaty Obligations and Commitments	3861
 Internet de Objetivo Estratégico OE1	11569
 Internet des Objets	7283
 Investment RPO Recovery Point Objective RTO	6432
+Jacob Markson Oboth	12095
 JavaScript Object Notation	11585
 Job Obiang Esono Mbengo	11743
 Jornal de Angola and AFRO Health Observatory. Institutional	10776
@@ -369,7 +391,8 @@ Kingdom of Eswatini. Objectives	593
 Kintambo Objet	10400
 LABORATION DU PLAN DE DIGITALISATION Objectif	10711
 LOCAL GOVERNMENT REFORM Objective	11236
-Legal Obligation	7409
+Legal Obligation	7409,4547
+Legal Obligation Article	11956
 Legal Obligations and Procedures	3861
 Legal and Regulatory Frameworks Policy Objective	7548
 Lei da Observação Internacional Eleitoral	11528
@@ -380,6 +403,7 @@ Liberian Observer Corporation ELWA Junction	4261
 Limitation of Company Powers and Objectives	3714
 Limitation of Company Powers and Objectives PART	3714
 Local News By Obert Siamilandu	2920
+Local Praia Objetivos	12019
 Long-Term Observers	9986
 Lukudu Obede and Information Minister Patrick Nyarsuk	8330
 L’INSTAURATION L’ATTEINTE DES OBJECTIFS CLÉS	2342
@@ -391,7 +415,7 @@ MARÍA FLAVIA MBA OBONO	1855
 MBITO DAS OBRAS	11372
 MDAs Specific Objectives	1000
 MEMORANDUM OF REASONS AND OBJECTS Statement	7832
-MEMORANDUM ON THE OBJECTS	5872,5408
+MEMORANDUM ON THE OBJECTS	5872,5408,774
 MENA Observatory	7211
 MENER PERIODE DE SPECIFIQUES REALISATION OBJECTIFS	10712
 METAS E OBJECTIVOS	11390
@@ -406,12 +430,15 @@ MPA Program Development Objective Official Use	11417
 MPA Program Development Objective Original MPA	2712,3867
 MULTI-ACTOR OBJECTIVES	10819
 Madigipaie. Objectif	5271
+Main Objective	11866
 Main Obstacles	1828
 Management System PrDO Program Development Objective	3604
 Mandate and Objectives	408
 Mangaung IDP Strategic Development Objectives	11231
 Mantenimiento Obras	4209
 Map Earth Observation	11762
+Mar-2017 Portal Development Objective	11924
+Mark-Alexandre Doumba. Objectif	12091
 Market Leadership Strategic Objectives Ethio	3487
 Martison Obeng Agyei	9449
 Martison Obeng-Agyei	2395
@@ -452,6 +479,7 @@ National Housing Data Observatory	8087
 National Incident Response Unit. Strategic Objective	1777
 National Objectives and Directive Principles of State Policy	3005
 National Observatory of Artificial Intelligence	11135
+National Observatory of Public Health Technological	11939
 National Policy Objectives Economic	10856
 National Roads Administration Project Development Objective	1228
 National Spatial Data Observatory	11261
@@ -471,7 +499,7 @@ OBJECTIF GLOBAL INDICATEURS D’IMPACT OBJECTIF GLOBAL	10712
 OBJECTIF INDICATEURS STRATEGIQUE Réglementaire Nombre	10965
 OBJECTIF STRATEGIQUE	10712
 OBJECTIF STRATÉGIQUE	10712
-OBJECTIFS	10237,475
+OBJECTIFS	10237,475,1331
 OBJECTIFS ET MÉTHODOLOGIE DE L’ENQUÊTE	737
 OBJECTIFS ET MÉTHODOLOGIE DE L’ENQUÊTE Cette	737
 OBJECTIFS RESULTATS ATTENDUS	10712
@@ -481,9 +509,11 @@ OBJECTIFS SPECIFIQUES RESULTATS ATTENDUS	10712
 OBJECTIFS SPÉCIFIQUES	10712
 OBJECTIFS SPÉCIFIQUES INDICATEURS D’EFFET Rapports	10712
 OBJECTIFS STRATÉGIQUES ET PROGRAMMES	10712
-OBJECTIVE	962,199,1551,1976,1891,349,949,3518
+OBJECTIVE	962,199,1551,1976,1891,349,949,3518,467,126
+OBJECTIVE AND JURISDICTION OF TAX AUTHORITIES	11976
 OBJECTIVE PROPOSAL FOR PRIORITY ACTIONS TIMELINE	10765,10
-OBJECTIVES	4153,7043
+OBJECTIVE Public Disclosure Authorized	11971
+OBJECTIVES	4153,7043,658
 OBJECTIVES AND APPLICATION	1220
 OBJECTIVES AND PRIORITIES	5244
 OBJECTIVES AND SCOPE	1243
@@ -502,6 +532,7 @@ OBJECTS AND APPLICATION Definitions	11179
 OBJECTS AND REASONS This Bill	1474
 OBJECTS OF BILL	5872
 OBJECTS OF COMPANY FUNDING REGISTERED	585
+OBJECTS OF THE BILL	12054
 OBJET DE LA PROCEDURE Permettre	10876
 OBJET DE LA REQUETE Base	10821
 OBJET DE LA REQUETE DECISION FINALE	10821
@@ -536,6 +567,7 @@ OBR. Une	9175
 OBRAS PUBLICAS Y URBANISMO	4209
 OBRIEN	6613
 OBRIGATORIEDADE DE ENTIDADES PÚBLICAS E PRIVADAS	10770
+OBRIGAÇÕES DE PAGAMENTO Contribuintes	12018
 OBRIGAÇÕES E REQUISITOS A OBSERVAR PELOS	3519
 OBSERVADORES INTERNACIONAIS	11528
 OBSERVAR PELOS DESENVOLVEDORES E FORNECEDORES	3519
@@ -549,7 +581,8 @@ OBUHA	3816
 OBUHA. Mais	3816
 OBsERVAtIONs INCLUsEs	7655
 ODS Objetivos de Desenvolvimento Sustentável	11547
-ODW Open Data Watch OEC Observatory	10835,3,130
+ODW Open Data Watch OEC Observatory	10835,3,130,902,16
+OEC Observatory for Economic Complexity	11887
 OECD AI Policy Observatory	1204,5628
 OECD Artificial Intelligence Policy Observatory	11140
 OECD Publishing. OECD AI Policy Observatory	6832
@@ -565,6 +598,8 @@ Obafemi Awolowo University	9104
 Obaido	740
 Obaj Okuj	7912
 Obala	4269,6706
+Obaloluwa	12037
+Obaloluwa Ajiboye	12037
 Obama Foundation	7886
 Obama Ondo	2432
 Obanua’s Entertainment’s Kumi Bora	9739
@@ -575,6 +610,7 @@ Obedecendo	11366
 Obegue	4209
 Obeki	6948
 Obendiek	11050
+Obeng Dankwa	12090
 Obermeyer	5700,2760
 Obert	10963
 Obert Pimhidzai	10964
@@ -586,6 +622,7 @@ Obiekea	7689
 Obiex	3213
 Obijiaku	9739
 Obimenguere Comunicaciones	11633
+Obinna Adumike	11946
 Obiora	9969
 Obiora Obeagu	6211
 Obispado	4209
@@ -594,21 +631,22 @@ Obiter	7278
 Obj. Monitoring Details Baseline Target Due	1818
 Object	11,576,385,1737,1848
 Object Area	1161
+Object Oriented Programming	11941
 Object Workgroup	1009
 Object and Purpose	11247
 Object and Restrict Processing	3861
 Object of Agency	11464
-Objectif	12,223,408,103,2,574,1,1,740,1,1,195,19,686,67,50,279,308,409,1,81,235,171,451,87,15,2435,170,66,31,154,1,292,247,179,1512,440,64,1,105,41,18,89,27,57,90
+Objectif	12,223,408,103,2,574,1,1,740,1,1,195,19,686,67,50,279,308,409,1,81,235,171,451,87,15,2435,170,66,31,154,1,292,247,179,1512,440,64,1,105,41,18,89,27,57,90,805,99
 Objectif Assurer	10876
 Objectif Cette	10711
 Objectif Global	10965
 Objectif Global SNFI	10965
 Objectif L’étape	10711
-Objectif Spécifique	643,10322
+Objectif Spécifique	643,10322,979
 Objectif Stratégique	10906
 Objectif de Développement Durable	8577
 Objectif de Développement du Projet	2966
-Objectifs	12,130,93,408,94,11,690,265,1263,53,36,537,19,27,430,39,460,790,1602,165,119,482,97,565,169,956,1200,162,1,1,99
+Objectifs	12,130,93,408,94,11,690,265,1263,53,36,537,19,27,430,39,460,790,1602,165,119,482,97,565,169,956,1200,162,1,1,99,1068
 Objectifs Améliorer	8556
 Objectifs Assurer	8556
 Objectifs CP Comité de Pilotage CSC Cellule	10712
@@ -618,7 +656,7 @@ Objectifs Spécifiques Actions Activités	10965
 Objectifs Total Réalisations	10975
 Objectifs Un	10876
 Objectifs Unifier	8556
-Objectifs de Développement Durable	643,2125,74,75,392,4366,1602,360,1,635,12,680
+Objectifs de Développement Durable	643,2125,74,75,392,4366,1602,360,1,635,12,680,1017
 Objectifs de Développement Durable OIM	10874
 Objectifs de Développement Durable. Durant	6578
 Objectifs de Développement du Programme	10876
@@ -633,7 +671,7 @@ Objection	1988,1515,7218,460
 Objection. The Candidate RIR	3503
 Objections	3714,1434
 Objectiv	2948
-Objective	26,1,7,202,343,183,238,53,101,7,123,60,18,19,42,15,134,29,5,98,74,46,164,686,331,451,148,697,539,839,511,349,399,1662,472,365,1342,140,45,33,134,286,108
+Objective	26,1,7,202,343,183,238,53,101,7,123,60,18,19,42,15,134,29,5,98,74,46,164,686,331,451,148,697,539,839,511,349,399,1662,472,365,1342,140,45,33,134,286,108,330,14,36,11,8,17,35,49
 Objective Area	1161
 Objective Area IV	1161
 Objective Criteria	11209,31
@@ -649,24 +687,32 @@ Objective PIM Project Implementation Manual PMU	1867
 Objective Preparations for APM27-3	10235
 Objective Project Development Objective	10768
 Objective Responsibility Action Timeframe	11195
+Objective Strategic Plan for Sustainable Development	11855
 Objective The Bank	11131
 Objective This Guideline	5665
 Objective and PAs	10779
+Objective of Automation	12041
 Objective of Zero-Rated Access	6748
 Objective. Disponível	2816
 Objective4	1000
-Objectives	21,558,3,376,197,54,11,8,1,53,2,494,107,103,105,183,672,730,36,145,28,280,35,15,43,89,83,178,522,220,313,1083,530,260,221,69,193,1,108,637,361,1,308,166,1,284,435,397,45,10,1,3,5,28,7,376,70,85,70
+Objectives	21,558,3,376,197,54,11,8,1,53,2,494,107,103,105,183,672,730,36,145,28,280,35,15,43,89,83,178,522,220,313,1083,530,260,221,69,193,1,108,637,361,1,308,166,1,284,435,397,45,10,1,3,5,28,7,376,70,85,70,431,1,8,80,38,17,13
 Objectives BS	1885
 Objectives Contribute	10854
+Objectives Established	11891
 Objectives Guideline	5665
 Objectives Ranked	1885
 Objectives Short-Term	1777
+Objectives Target	11994
 Objectives The Desk	10157
 Objectives The Forest Conservation and Management Act	1988
+Objectives The National Policy	11860
 Objectives The Project Development Objective	10779
+Objectives and Application	11956
+Objectives and Application Article	11956
 Objectives and Goals of Street Addressing	11129
 Objectives and Outcomes	5246
 Objectives and Outcomes Successful	5246
+Objectives and Results Indicators	11855
 Objectives and Scope	2112
 Objectives for Information and Related Technologies	9237
 Objectives of Authority	3887
@@ -718,7 +764,7 @@ Objects and Reasons	1474
 Objects of Act	11179,3
 Objects of Act CHAPTER	11182
 Objeetive	4301
-Objet	1214,33,554,1595,1171,6269,40,12,251,383,45
+Objet	1214,33,554,1595,1171,6269,40,12,251,383,45,476
 Objet Date	998
 Objet L'actualité	10387
 Objet Tout	4420
@@ -737,22 +783,24 @@ Objetivo General	1701
 Objetivo Geral	11537
 Objetivo Geral Este	11537
 Objetivo de Desenvolvimento Sustentável. Disse	2671
-Objetivos	1265,436,247,9445,154,18,4
+Objetivos	1265,436,247,9445,154,18,4,452
 Objetivos Como	11534
-Objetivos Específicos	1701,9836
+Objetivos Específicos	1701,9836,484
 Objetivos Estratégicos	11569
 Objetivos Estratégicos da ENTD.GW	11569
 Objetivos Gerais	10766
 Objetivos Globales de Desarrollo Sostenible	1701
 Objetivos Globales de Desarrollo Sostenible El Eje	1701
+Objetivos O Regime Jurídico	11901
 Objetivos São	11516
 Objetivos da Supervisão	11561
-Objetivos de Desarrollo Sostenible	1701,7180
+Objetivos de Desarrollo Sostenible	1701,7180,3194
 Objetivos de Desarrollo Sostenible OIT	1701
 Objetivos de Desarrollo Sostenibles	975
 Objetivos de Desenvolvimento Sustentável	2816,7941,786,26
 Objetivos de Desenvolvimento Sustentável da ONU. A AI	2816
-Objeto	163,11368
+Objeto	163,11368,370
+Objetos	12019
 Objets	1231
 Obligaciones	1701,2508
 Obligaciones de Servicios Públicos	9543
@@ -760,7 +808,7 @@ Obligataire	2476
 Obligates	11184
 Obligation	26,1,735,210,182,89,494,1424,553,706,1452,274,1392,2670,179,449,6,680,45
 Obligation for GCSP	6432
-Obligations	11,17,1186,6,254,228,175,832,97,822,187,46,480,2280,927,1216,1623,439,10,6,34,263,51,69,258
+Obligations	11,17,1186,6,254,228,175,832,97,822,187,46,480,2280,927,1216,1623,439,10,6,34,263,51,69,258,417,22,20,71
 Obligations des Acteurs	746
 Obligations du Trésor Assimilables	7680
 Obligations of Data Controllers	1652
@@ -797,18 +845,20 @@ Obrađeni	10780
 Obrigacional	10753
 Obrigado	2787,1053,7578
 Obrigado Annual Expert Group Meeting for Registrar	11480
-Obrigatoriedade	5169,6256,5,6,92
+Obrigatoriedade	5169,6256,5,6,92,373
 Obrigatoriedade da Inscrição Cadastral	11384
 Obrigatoriedade de Existência	11369
 Obrigatoriedade de Identificação	11373
 Obrigatoriedade de Partilha	11430
 Obrigatoriedade de Uso	10754
-Obrigação	14,2423,1,1836,7086,83,139
+Obrigação	14,2423,1,1836,7086,83,139,316,120
+Obrigação Legal de Registar	11898
 Obrigação de Intercepção	10747
 Obrigação de Notificação de Incidentes	11377
 Obrigação de Não Discriminação	11519
 Obrigação de Reportar Alterações	3519
-Obrigações	576,1861,429,4104,3785,28,577,9,1,4,10,21,25,13,77,62
+Obrigações	576,1861,429,4104,3785,28,577,9,1,4,10,21,25,13,77,62,319,117
+Obrigações Acessórias	12018
 Obrigações Aplicáveis	11430
 Obrigações Contratuais	11374
 Obrigações Estratégia Nacional	11569
@@ -874,37 +924,40 @@ Observação Para	10766
 Observação da Terra ANGEO-1	5405
 Observação da Terra. HM	5405
 Observações	11435,13
-Observe	4258,4865,1654,42,642
+Observe	4258,4865,1654,42,642,444
 Observed	5134,1564
-Observer	585,1751,690,189,489,4870,248,1195,636,169
+Observemos	12018
+Observer	585,1751,690,189,489,4870,248,1195,636,169,1083
 Observers	2736,303,179,761,774,281,696,408,39,2434,344
 Observing	6612
 Observou	10760
 Observou-se	10777
 Obsolete	7548
+Obsoletes	12058
 Obstacles	5679,1976,366,1867
 Obste	10881
 Obstetrics	10780
 Obstetrics4 Pedijatrija5	10780
 Obstructing	11190
-Obstruction	783,550,260,749,6781
+Obstruction	783,550,260,749,6781,2853
 Obstructions	9123
 Obstrução	11425,157
 Obstáculos	11430,98
-Obtain	1988,4444,2562,1765,76,2,1,74,56,165,100,3,165
-Obtain Executive Compliance	10835,3,130
-Obtain RULE OF LAW	10835,3,130
+Obtain	1988,4444,2562,1765,76,2,1,74,56,165,100,3,165,469,16,1,1,1,66
+Obtain CPIA	11863
+Obtain Executive Compliance	10835,3,130,902,16
+Obtain RULE OF LAW	10835,3,130,902,16
 Obtain TIN	4449
 Obtain the Installation Request	34
 Obtained	3028
-Obtaining	3247,6550,505,412,51,10,39,365,11
+Obtaining	3247,6550,505,412,51,10,39,365,11,765
 Obtaining SIM	4439
 Obtención	163
 Obtener	1701
 Obtenido	11154
-Obtenir	4342,3725,1540,1235
+Obtenir	4342,3725,1540,1235,1130
 Obtention	2403,226,770,367,55,45,867,580,142,234,14,2,102,70,47,210,371,62,277,263,16,2,157,3693
-Obtenção	11360
+Obtenção	11360,538
 Obtenção de Carta de Condução	11383
 Obtenção de Passaporte	11383
 Obter	167,10610,591,62
@@ -920,9 +973,11 @@ Omobola and Obadare	7314,594
 Onvang Obuk Añisok	4209
 Open Observatory of Network Interference	9082
 Open Science Observatory	5246
+Opérateur de Réseau Mobile OS Objectif Spécifique	11944
 Oriade and Obokun. Team Four	10049
 Orientations Objectifs	10712
 Original Development Objective	4653
+Original Objective	11891
 Os Objetivos de Desenvolvimento Sustentável	11547
 Osun Election Observation Mission	10054
 Outputs Primary Secondary Strategic Objective	1777
@@ -936,10 +991,14 @@ PART V- OBLIGATIONS OF CONTROLLERS	1474
 PAÍS UNIVERSIDADE OBSERVAÇÃO	2816
 PB Object Storage	3487
 PDC Participation Observing Member Sitemap	11493
+PDO Project Development Objective	11965
 PDO Project Development Objective PIM Project	1264
 PDO Project Development Objective The World	2473
 PEDRO OBAMA RABOGO	1855
 PEI Project Development Objective PIM Partnership	10964
+PIU Program Development Objective PPSD Program-for-Results	11905
+PLAN Plan Objective	11857
+PMU Lisungi DEVELOPMENT OBJECTIVE Original Development	11924
 POR UNA GUINEA MEJOR. OBIANG NGUEMA	1855,4986
 POSAF OBJECTIFS SPÉCIFIQUES	10712
 PREDETERMINED OBJECTIVES	11218,6
@@ -947,6 +1006,9 @@ PREDETERMINED OBJECTIVES The AGSA	11224
 PRIVILEGES AND OBLIGATIONS OF THE REDEEMABLE	3714
 PROCESSOS DE OBRAS PÚBLICAS E ENERGIA	11473
 PROGRAMMES OBJECTIFS RESULTATS ATTENDUS ACTIONS	10712
+PROJECT DESCRIPTION A. Project Development Objective	11863
+PROJECT DEVELOPMENT OBJECTIVE	11863
+PROJECT DEVELOPMENT OBJECTIVE AND COMPONENTS Project	11863
 PROJECT DEVELOPMENT OBJECTIVE Current PDO	1284
 PROJECT DEVELOPMENT OBJECTIVE Public Disclosure Authorized	10870
 PTA OBJECTIFS SPÉCIFIQUES	10712
@@ -957,12 +1019,15 @@ Part B Objection	11181
 Part II--Barriers and Obstacles	10812
 Parties’ Obligations Responsibilities	6432
 Pedro Obama Rabago	6841,259
+Per Second RTO Recovery Time Objective	11952
 Performance Contracting Obligations	6946
+Periódica Obrigações Fiscais A Portaria	12018
 Personal Data Protection Obligations	3861
 Peter Obi	5508
 Peter Omari and Elvis Obaigwa	9188
 Pillars and Objectives	1777
 Plainte de X RESPONSABLE DE TRAITEMENT OBJET	10821
+Plan Observe	11905
 Policy Goal and Objectives	7548
 Policy Objective	1013
 Policy Objective Action Responsibility	958
@@ -974,23 +1039,24 @@ Pour Georges Elanga Obam	11698
 Pour OBA	7891
 PrDO Program Development Objective RAC Regional	11417
 Predetermined Objectives	11224
-President Obama	42
+President Obama	42,11812
 Principais Obrigações	11390
 Principles and Objective The Environmental and Social	1988
 Priority Area Specific Objective	970
 Procedimentos de Gestão da Mão-de- Obra	11542
-Program Development Objective	2712,892,2935,40,4291,547
+Program Development Objective	2712,892,2935,40,4291,547,488
 Program Development Objective PSC Project Steering	6539
 Program Manager Francesco Obino	10852
 Program Objectives and Pillars	10779
-Project Development Objective	427,801,639,1022,100,615,1049,967,919,4290,134,1,453,108
+Project Development Objective	427,801,639,1022,100,615,1049,967,919,4290,134,1,453,108,440,23
 Project Development Objective Improved	1988
 Project Development Objective Indicators	1228,56
+Project Development Objective Indicators RESULT FRAME T BL	11855
 Project Development Objective Indicators RESULT FRAME TBL PD	10964
 Project Development Objective PIM Project Implementation	2889
 Project Development Objective POM Project Operation	11417
-Project Development Objectives	10829
-Project Objective	2712,1976,1891,349,949,3518
+Project Development Objectives	10829,1095
+Project Objective	2712,1976,1891,349,949,3518,576,17
 Project Project Development Objectives	10964
 Project's Development Objectives	1228,56
 Projecto WARDIP Guiné-Bissau de Obra	11542
@@ -1008,15 +1074,20 @@ Purpose and Objective This Consultation Paper	8670
 REALISATION OBSERVATION S ET SOURCES RESULTATS	10975
 REGULAMENTO SOBRE OBRIGATORIEDADE DE EXISTÊNCIA	11369
 RESPONSABLE DE TRAITEMENT OBJET	10821
+RESULTS FRAMEWORK Project Development Objective	11965
 RIGHTS AND OBLIGATIONS OF REFUGEES	11177
+RPO Recovery Point Objective RPS Requests	11952
 RSL Acting CG Obed	4983
 RSL Acting Commissioner General Obed	4983
 Rating Moderately Satisfactory OBJECTIVE	10779
+Reasons for Nonalignment PforR Objective	11905
 Reconstruction Development Programme Objective	11209
 Recovery Objectives	6432
-Recovery Point Objective	6432,30,4259
-Recovery Time Objective	6432,30,4259
+Recovery Point Objective	6432,30,4259,1231
+Recovery Point Objectives	11995
+Recovery Time Objective	6432,30,4259,1231
 Recovery Time Objective SaaS Software	6432
+Recovery Time Objectives	11995
 Red de Observación Meteorológica	1701
 Reformas Objetivos	1701
 Reformas de Objetivos	1701
@@ -1026,14 +1097,19 @@ Relevance of Objectives	10779
 Rely On Unlawfully Obtained Personal	6632
 Renforcement de Objectif	10712
 Reparación de Obras Eléctricas	4209
+Repartição de Finanças. Obrigação	12018
 Republic of Liberia Strategic Objective	1777
 Republic of Liberia. OBJECTIVES	10407
+Requirements and Procedures for Obtaining	11864
 Responsabilidade Contra-ordenacional Objectiva	3519
 Responsabilidade Objectiva	3519
 Review Moderately Satisfactory OBJECTIVE	10779
+Review of Administrative and Financial Obligations	11956
+Revised Objective	11891
 Ricardo Nsue Ndemesogo Obono	8048
 Risk Analysis and Objective Criteria Risk Analysis	11240
 Risk Management Objective	11134
+Roles and Obligations of Cloud Service Providers and Service	11995
 Rollout Obligations	5245
 Ruanda. Das Oberziel des Vorhabens	457
 Résultats Observations Infrastructures	10975
@@ -1066,6 +1142,7 @@ STRATEGIC OBJECTIVES AND POLICY RATIONALE	3861
 STRATEGIC OBJECTIVES AND POLICY RATIONALE Recital	3861
 STRATEGIC OBJECTIVES AND PROGRAMS	1000
 STRATEGIC OBJECTIVES AND PROGRAMS Based	1000
+STRATEGY AND OBJECTIVES	11863
 SURVEY OBJECTIVES	582
 Secretario de Estado de Obras Públicas	1855
 Section II.- Obligations	11139
@@ -1098,22 +1175,23 @@ Sovereignty and Strategic Autonomy Policy Objective	7548
 Speaker Jacob Marksons Oboth	10672,218
 Specific Objective	351,1,437,173,8,30
 Specific Objective2	1000
-Specific Objectives	1000,7546
+Specific Objectives	1000,7546,3395,67
 State AI Observatory	11135
 State Intelligence Specific Objectives	1000
 Statistics and Enhancing the SADC ICT Observatory	3476
-Statutory Obligations	6422
+Statutory Obligations	6422,5534
 Strategic Focus Area Business Objectives and Goals	11231
 Strategic Goals Objective	1000
 Strategic Investment and Partnerships Objective	4528
 Strategic National Objectives	7672
 Strategic Objective	1777,6976
 Strategic Objective Zimbabwe	4528
-Strategic Objectives	396,11174
+Strategic Objectives	396,11174,321
 Strategic Objectives Prosperity for All UNDP Mauritius	11332
 Strategic Objectives and Actions Indicators	1777
 Strategic Oblectives	4301
 Strategic Pillars and Objectives The National Cybersecurity	1777
+Strategy and Objectives A.1. For Cabo Verde	11863
 Study Objectives and Scope	6832
 Su Excelencia Nguema Obiang Mangue	8083
 Substantial. The OBR	1284
@@ -1149,6 +1227,7 @@ UTILIZAÇÃO E MENÇÃO OBRIGATÓRIA DO NIF	11383
 UVRE DU MANUEL II.1 Objectifs	10876
 Unidade de Intermediação da Mão de Obra	10778
 Unit PDO Project Development Objective PFM	11560
+Universal Service Obligation	11935
 Universal Service Obligations	1289,5545
 Universal Service and Access Obligations for Telkom SOC	11259
 Universal Services Obligation	11199
@@ -1170,7 +1249,7 @@ Vice-President Teodoro Nguema Obiang Mangue	2432
 W. Obwexer	1243
 WATER AND SANITATION REFORM Objective	11236
 WMO Global Observing System	11553
-Watch OEC Observatory for Economic Complexity PTS	10759,78
+Watch OEC Observatory for Economic Complexity PTS	10759,78,1052
 Water Observations	10794
 Weather Prediction WIGOS WMO Global Observing	11553
 Windhoek Observer	1981,1036,3659,2000,294

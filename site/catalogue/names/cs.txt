@@ -3,19 +3,25 @@ Access CSP	9123
 Access CSP CSP CSP	9123
 Africa. The CSA	10949
 African CSOs	11007
-All CSPs	6432
+All CSPs	6432,5563
 Attorney-General’s Office. The CSA	10248
 B Y O D CSP CSP	9123
 BNC CAAZ CSIC FAHRC FRC GEII	1554
+Bureau CSOs Civil	11994
 CBDC CCBG CFT CMA CPI CSI	11131
 CDC CNBS COVID CPN CSPro DAM	10777
 CIDP County Integrated Development Plan CSO	7548
 CIPC Companies and Intellectual Property Commission CSD	11250
 CPD Continuous Professional Development CSP Content	6946
 CPF Country Partnership Framework CSF Climate	11549
+CPU Central Processing Unit CSA Cloud	11952
 CR Civil Registry CSU Cadastro Social	10765,10
 CS Adjusted	1818
+CS Assumptions Q2	11986
 CS Cabinet Secretary for ICT CSP Cloud	6432
+CS DDG	11986
+CS DEPARTMENT OF HOME AFFAIRS	11986
+CS Deputy Director-General	11986
 CS Duale	3400
 CS ISP	718
 CS Joe	899
@@ -29,6 +35,7 @@ CS Ministry of ICT	1245
 CS Murkomen	5711,605
 CS NA Functional	5533
 CS Owalo	1236,2739
+CS Q4	11986
 CS Ruku	2666,76,1016,225,530,597,506,95,212,191,46,156,93,107,15,232,24,9,204,265
 CS Ruku Citizen Digital	6192
 CS Sovereign	7774
@@ -63,10 +70,12 @@ CSA. Consequently	9728,114
 CSA. Organisations	9728
 CSA. The Authority	10268
 CSA. Under	10268
+CSACEFA	11860
 CSAM-filtering	11788
 CSAMF	10975
 CSBAG	11615
 CSBAG Executive Director Julius Mukunda	11615
+CSC. Pour	12068
 CSCA. Note	7777
 CSCAs	7370
 CSCRP	12
@@ -101,12 +110,15 @@ CSI Donations Organisation	11134
 CSI Handover Ceremony	11131
 CSI. People	3604
 CSIR Defence and Security	10889
+CSIR Energy Research Centre	11953
 CSIR Infographic	1938,1
 CSIR Information and Cybersecurity Centre	1940
 CSIR Ladies and Gentlemen	11221
+CSIR Sources	11953
 CSIR South Africa	5598
 CSIR and NRF	6886
 CSIR and SASRIA	11353
+CSIR-CRI	12090
 CSIR-INST	4126
 CSIR-INSTI	4126
 CSIR. The Centre for High Performance Computing	9126
@@ -121,6 +133,7 @@ CSIRT NCCD	1000
 CSIRT Nacional	2784,32,4154,2256
 CSIRT Nacional. SUBSECÇÃO V Operadores de Infra-estruturas	6970
 CSIRT Nacional. SUBSECÇÃO VIII Provedor de Serviços	6970
+CSIRT RTPE Duas	11939
 CSIRT Sectorial	6970
 CSIRT da Administração Pública	6970
 CSIRT for The Gambia	1000
@@ -174,14 +187,24 @@ CSP CSP CSP IV S	9123
 CSP CSP CSP M OS-	9123
 CSP CSP CSP SE F	9123
 CSP CSP CSP ST	9123
+CSP Coal	11953
+CSP Eskom	11953
 CSP Information Item Details Name of Entity	6432
+CSP Jan Feb Mar Apr	11953
 CSP M OS-	9123
 CSP Ministry	6432
+CSP Other RE	11953
+CSP Pumped Storage	11953
+CSP Sources	11953
+CSP Wind	11953
+CSP and SI	11995
+CSP and SI Certification Pathway	11995
 CSP du CM Cadre	737
 CSP. Cette	7892
 CSP. Le Groupe	1679
 CSPEF	10870
 CSPGFR	10936
+CSPP Ministry of Finance	11916
 CSPS and High Courts	10812
 CSPSs	10881
 CSPro	6048,3229,1500
@@ -193,8 +216,12 @@ CSPs International	6432
 CSPs MCDAs and CSPs	6432
 CSPs MICDE	6432
 CSPs and End User Agreements All	6432
+CSPs and FPI	11995
 CSPs and ISPs	3300
 CSPs and MCDAs National Computer and Cybercrime Coordination	6432
+CSPs and SIs	11995
+CSPs and Service Integrators	11995
+CSPs. Compatibility	11995
 CSP’s MICDE	6432
 CSR and Strategic Partnerships. The Fursa Lab	10732
 CSSDOS	7707
@@ -247,15 +274,20 @@ Continuous Professional Development CSL	6832
 Contractor CSM Tech Limited	10411
 Country Cooperation Strategy CSO	10776
 Cross-Border Data Flow CSPs	6432
+Cschool	12102
 Csernatoni	11050
 Cyber Security Authority CSA	6936
 Czechia’s Transformation Cooperation Programme. CSA	8947
+DHA and CSIR	11986
 DPC. CSA	6936
+DPs and CSOs. Grant Agent World Bank	11916
 Data CSIR Council for Scientific and Industrial Research	5246
 Data Localization. CSIS. Zillner	1243
 Diesel CSP Biomass Biogas BESS	11236
 Dublin Core JSON Multiline CSV Simple	10878
 Durée Moyenne de Scolarisation CSPS	737
+EAF. CSP	11953
+EOC Enterprise Operational Centre CSIR Council	11986
 EU CSO Roadmap	970
 EU CSP	9123
 EU CSP CCC-	9123
@@ -279,6 +311,7 @@ Evidence of CSIRT	10721
 Expert CSIRTs	5241
 FINALISED ANNUAL REPORT CSD.pdf	1377
 Family CR Civil Registration CSPS Local	10812
+Foreign CSPs	11995
 Francophonie BAD Banque Africaine de Développement CSCRP	12
 GCSPS Entities CAC Entities and CSPs	6432
 GIEC CSA	6936
@@ -292,6 +325,7 @@ GOK Entities CSPs Compliance	6432
 GOK Entities CSPs Entities	6432
 GOK Entities CSPs Identify	6432
 Gambia CSIRT	1000
+Gas Hydro Pumped CSP Wind Solar	11953
 Ghanaian CSOs	789
 Ghana’s CSA	8947
 Glo1b.1alTChleouGdloTbranl CsflorumdaTtriaonsformation	10157
@@ -301,6 +335,7 @@ Government CSPs	6432
 Government and Academia CSIRTs Finalize the TORs	2989
 Government and Academic CSIRTs	2989
 HONOURABLE CS MATHABATHA	11261
+HTML and CSS	11941
 Health CS	2709,6225
 Health CS Aden Duale	3393
 Health CS Aden Duale. BHI	3400
@@ -308,7 +343,9 @@ Health CS Aden Duale. Four	3400
 Health CS Duale	8934
 Health Centre COBIT CSIR Control Objectives	1009
 Honourable CS Mathabatha	11261
+Hydro PS CSP Wind Solar PV	11953
 Hydromet Diagnostics CSO Civil Society Organization	11553
+IDEV Evaluation of Cabo Verde CSPs	11863
 ISPs CSA	6936
 Implementar CSIRT RTPE	1431,1
 Improve CSAT	5226
@@ -328,13 +365,16 @@ L'atelier du CSC	10546
 La CSCP	10876
 Leverage CSP	6432
 Liberia CSP	4840
+M. Mabiala Ma Umba Representative CSOs	11916
 MEST CSIR-	4126
+MW of CSP	11953
 Major CSPs	6477
 Mali-Mètre. Le CS	6959
 Medicamentos. CS Centro de Saúde. CSP Cuidados	11543
 Ministro Secretario Mesa Magistrado CSJ	4209
 MoCDTI CSA	6936
 Mobile CSC	11188
+Mobilize CSOs	11866
 NATO North Atlantic Treaty Organization CSA	6936
 NC4 CSPs KoTDA MCDAs NC4	6432
 NCC CSIRT	5677
@@ -346,17 +386,25 @@ NCC- CSIRT	10721
 NCC- Updated Subscription CSIRT	10721
 NCC’s CSIRT	9117
 NIST CSF	5677,103,643
+NIST CSF Auditing	11952
 NW4457E REPLY The CSIR	10889
 National and MICDE MCDAs CSPs Ministry	6432
 Natureza O CSE	11516
+Nigerian CSOs	11866
+Number of CSOs	11866
 O CSE	11516
 ODPC. GOK Entities CSPs	6432
 OPERATING WITHOUT A LICENSE The CSA	9728
 Objectifs CP Comité de Pilotage CSC Cellule	10712
 Open CS	6985
 Open CSIRT Foundation	7736,1734
+Organizations CSP Country Strategy Paper CVE	11863
 Os CSIRTs	6970
 OtSO CSEE	1885
+PV CSP	11953
+PV Wind CSP Pumped Storage Hydro	11953
+PV and CSP	11953
+PV and CSP System	11953
 Partnership Framework CSI Corporate Scorecard Indicator	6539
 Partnership Framework CSU Single Social Registry	10768
 Património CSCC	11435
@@ -368,32 +416,43 @@ Program Supporting Digital CSIs	3604
 Promoting CSA	970
 Promotion Social CSP	737
 Promotion of CSA	970
+Pumped Storage CSP Wind Solar PV	11953
 Purpleline Solutions Limited Company. The CSA	9728
+RE Wind Solar PV CSP Pump	11953
 RE and CSA	970
 Rapport CSD-DS	643
 Rede Nacional de CSIRTs	6970
 Reporting System CSA Climate Smart Agriculture-Based	970
 Resilience Building CSO Civil Society Organisation	970
+Resilience and Fragility Assessment CSO Civil Society	11863
 Restitution of Land Rights CSI Committee for Spatial	11261
 SERVICE PROVIDERS The CSA	9728
+SIs and CSPs	11995
 SLAs CAC MCDAs CSPs CAC	6432
 SOC and CSIRT	1432,657,2321,9
 SOC and CSIRT Cabo Verde	3843
+Schedule A. CSP	11995
 Sector Environment CS-ISAC	10721
 Security Ghana CSA Fines ORC GH	9839
 Service Provider CSV Comma-Separated Values CTO	6432
 Service Providers CSR Corporate Social Responsibility	6946
+Sipho Mdhluli CSIR	11953
+Solar PV CSP Pump DSR System	11953
+Solar PV Wind CSP	11953
 South Africa. The CSIR	1009
 South African National CSIRT	8897
 Statistique CS	10874
 Strengthening CSOs	7784
 Study of CSR Engagement	2518
+Supply Sources Solar PV Wind CSP	11953
+Supply Sources Solar Wind CSP	11953
 TECH5 CSO Rob Haslam	1836
 TIMELINES CSP Accreditation Process	6432
 TREASURY CSD	11240
 Technologies Office CSOs	7548
 Technologique CSLP Cadre Stratégique de Lutte	12
 Telecel and CSquared	3184
+Thabo Hlalele CSIR	11953
 Third-party CSPs International	6432
 Top CSO	3092
 Treasury CS John Mbadi	6587
@@ -401,5 +460,6 @@ US CSPs	6477
 US-based CSPs	6477
 Uma CSD	11370
 Warning The CSA	9842
+Wind CSP	11953
 World Bank’s ID4D’s CSO	11007
 Youth-focussed CSOs. EU	970

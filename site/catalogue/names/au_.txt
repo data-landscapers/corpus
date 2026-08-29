@@ -66,7 +66,8 @@ AU DTS	1264
 AU DTS for Africa	1264
 AU Data	1243
 AU Data Policy	961
-AU Data Policy Framework	961,200,82,21,103,447,868,376,104,196,237,266,262,301,159,7,99,613,61,100,623,385,49,338,95,183,393,18,1572,1601
+AU Data Policy Framework	961,200,82,21,103,447,868,376,104,196,237,266,262,301,159,7,99,613,61,100,623,385,49,338,95,183,393,18,1572,1601,1335
+AU Data Policy Framework AU Convention	12055
 AU Data Policy Framework Simplified Version	3162
 AU Data Policy Framework and Africa Digital	1243
 AU Data Policy Framework and X-Road	10028
@@ -91,6 +92,7 @@ AU Headquarters	5092,6191
 AU Heads of State	1115
 AU High-Level Panel	1243
 AU ID	2979
+AU Implement	11906
 AU Institutions and Organs	1814
 AU Interoperability Framework	1243
 AU Interoperability Framework for Digital ID	7529
@@ -120,7 +122,7 @@ AU Specialized Technical Committee	4103
 AU Strategic Partnerships	1814
 AU Strategy	1243,571,4227,1488,3606
 AU Strategy for Gender Equality and Women’s Empowerment	1814
-AU Summit	1243,354,2834,3098
+AU Summit	1243,354,2834,3098,4563
 AU TITRE DE L'ACCÈS	4459
 AU TITRE DES ADMINISTRATEURS INDEPENDANTS	7670
 AU TITRE DES COMMUNICATIONS DES MINISTRES	8269
@@ -176,13 +178,13 @@ Assainissement. Au	10902
 Au BIP	10876
 Au Burkina Faso	643,94,2728,1859,2296,1101,1825,296,33
 Au Bénin	2312,311,71,883,1629,262,1924,1,227,266,333,2021,46,426
-Au Cameroun	2751,241,4830,2433,124,586,109
+Au Cameroun	2751,241,4830,2433,124,586,109,870
 Au Cap-Vert	8515
 Au Centre	10875
 Au Code	10876
 Au Congo-Brazzaville	6241
 Au Conseil	3337,4,1472,2351
-Au Gabon	3581,3874,165,3394
+Au Gabon	3581,3874,165,3394,930
 Au Ghana	4479
 Au Kenya	5082,3811,702,163,1590,144
 Au Mali	5324,1635,661
@@ -198,7 +200,7 @@ Au Royaume-Uni	8515
 Au Rwanda	11492
 Au Sénégal	2280,120,3549,1621,945,616,196,1185,65,1168
 Au T1	7655
-Au Tchad	7620,604,1056
+Au Tchad	7620,604,1056,2664
 Au Togo	3399,467,867,580,142,234,16,102,698,339,279,2,157,338,408,440,205,1107
 Aubin Essaie Moussa. Au	3231
 B. AU TITRE DE LA PRIMATURE	7670
@@ -224,6 +226,7 @@ Colonel Sidi Sadio DIALLO. AU TITRE	8237
 Colonel-major Lanseny DOUMBIA. AU TITRE	8237
 Colonel-major Mamadou Namballa TRAORE. AU TITRE	8237
 Colonel-major Moussa DEME. AU TITRE	8237
+Comité Technique. Au	11944
 Commission. Au Cours	4567
 Communication and ICT. The AU Data Policy	961
 Communication. Au	8269
@@ -239,6 +242,7 @@ DANS LES FONCTIONS INDIVIDUELLESA. AU TITRE	7670
 DE L'ETAT CIVIL AU BURKINA FASO	10812
 DE L’AGRICULTURE ET DE L’ELEVAGE AU	2625
 DGI Au	10858
+DI Digital Identity AU African Union	11986
 DSI au sein des ministères.pdf	10906
 Deal Technologique. Au	7852
 Digital ID and AU Data Policy Framework	1243
@@ -385,6 +389,7 @@ RGSSI ET PPIC ANNEXE I AU	10906
 Radio Ergo AU	3405
 Raise AU Member States	1814
 Recent AU African Position	1814
+Relevant Continental Frameworks AU Digital Transformation	12055
 Requests the AU Commission	5825
 Régulation Technique Au	10975
 Réo. Au	6889

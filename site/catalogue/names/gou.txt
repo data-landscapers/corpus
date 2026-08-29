@@ -11,6 +11,7 @@ Bonne Gouvernance	643,7693,281,2364
 Bonne Gouvernance Financière	6260
 Bénin Gouvernance	2629,770,367,55,45,867,580,142,234,14,2,102,70,47,210,371,62,277,263,16,2,157
 CAR Minister of Digital Economy Justin Gourna	5461
+CEMAC Mot du Gouverneur L’écosystème	11944
 CHEF DU GOUVERNEMENT	10981
 COMPOSANTS DU DISPOSITIF NATIONAL DE GOUVERNANCE	4403
 Celine Gouveia	10635
@@ -24,6 +25,7 @@ Chef du Gouvernement Julien NKOGHE BEKALE	548
 Chef du Gouvernement du Congo	4169
 Chef du Gouvernement. La DNSSI	1185
 Chief Innovation Officer Gabrie Gouws	1590
+Communication ONG Organisation Non Gouvernementale ORM	11944
 Congo. Le Gouvernement	3191
 Conseil du Gouvernement	747,1
 DE GOUVERNANCE DES DONNEES Art	4403
@@ -61,6 +63,7 @@ GOUVERNANCE	2342,2225,5399
 GOUVERNANCE Coopération	2342
 GOUVERNANCE DES DONNEES SANITAIRES AU SENEGAL	7804
 GOUVERNANCE ET CONTRÔLE INTERNE Article	10836
+GOUVERNANCE ET SUPERVISION DE LA MISSION	12043
 GOUVERNANCE Modulation	2342
 GOUVERNANCE OPÉRATIONS EN CAPITAL SIGNATURE DES	2342
 GOUVERNANCE Opérations	2342
@@ -87,11 +90,12 @@ GouvID	10714
 GouvNum	5506,3102,236
 GouvNum Committee	8608
 Gouvciofficiel	5464
-Gouvernance	643,105,333,137,29,191,904,107,290,12,61,74,46,137,312,15,47,161,35,19,24,136,250,125,374,77,206,230,143,482,547,23,145,311,8,104,59,220,152,59,12,156,169,100,35,81,451,108,273,90,479,55,64,849,124,2,138,123,49,21,114,10,38,2,38,51,10,49,498,197
+Gouvernance	643,105,333,137,29,191,904,107,290,12,61,74,46,137,312,15,47,161,35,19,24,136,250,125,374,77,206,230,143,482,547,23,145,311,8,104,59,220,152,59,12,156,169,100,35,81,451,108,273,90,479,55,64,849,124,2,138,123,49,21,114,10,38,2,38,51,10,49,498,197,280,44
 Gouvernance Financière	3715,627,1472,19
 Gouvernance Nationale des Comm	4020
 Gouvernance Nationale des Communications Electronique	4020
 Gouvernance Numérique	2006
+Gouvernance ONIP	12043
 Gouvernance Ouverte10	1984
 Gouvernance Ouverte4	748
 Gouvernance Ouverte5	747
@@ -100,7 +104,7 @@ Gouvernance. La Direction des Affaires Juridiques	2342
 GouvernanceDesDonnées	9474
 Gouverne-	10965
 Gouvernemenl	10813
-Gouvernement	17,20,398,1,112,8,181,10,1,17,20,401,45,56,11,300,239,131,16,358,28,7,65,34,38,141,40,4,39,70,143,9,85,144,1,1,137,13,15,40,279,94,30,37,131,101,24,70,7,104,68,22,20,19,18,461,55,53,168,213,378,66,93,138,22,247,10,17,42,206,86,10,142,32,4,41,55,193,64,47,13,57,13,28,96,198,2,46,67,60,48,25,10,27,25,210,8,32,9,32,67,51,168,21,8,33,16,3,42,7,49,1,1,14,128,8,5,11,110,1,130,38,9,83,4,10,7,1,30,17,64,76,20,10,107,18,1,30,168,54,314,177,97,14,8,24,7,12,22,50,96,1,101,8,2,2,30,3,11,6,1,34,3,52,10,6,109,3,46,12,429,17,79,48,25
+Gouvernement	17,20,398,1,112,8,181,10,1,17,20,401,45,56,11,300,239,131,16,358,28,7,65,34,38,141,40,4,39,70,143,9,85,144,1,1,137,13,15,40,279,94,30,37,131,101,24,70,7,104,68,22,20,19,18,461,55,53,168,213,378,66,93,138,22,247,10,17,42,206,86,10,142,32,4,41,55,193,64,47,13,57,13,28,96,198,2,46,67,60,48,25,10,27,25,210,8,32,9,32,67,51,168,21,8,33,16,3,42,7,49,1,1,14,128,8,5,11,110,1,130,38,9,83,4,10,7,1,30,17,64,76,20,10,107,18,1,30,168,54,314,177,97,14,8,24,7,12,22,50,96,1,101,8,2,2,30,3,11,6,1,34,3,52,10,6,109,3,46,12,429,17,79,48,25,183,12,14,24,27,34
 Gouvernement ACTEURS	10965
 Gouvernement Accueil Bilan	4895
 Gouvernement CONAKRY-	11724
@@ -150,10 +154,10 @@ Gouvernemental Centralisé	4236
 Gouvernemental Centralisé Dec	2611
 Gouvernementale	1461
 Gouvernementaux	6827
-Gouvernements	8237,1050,55
+Gouvernements	8237,1050,55,2563
 Gouvernements du Mali	8956
 Gouverner	2342,4163,2776,1663
-Gouverneur	3341,343,524,1532,303,2,1329,247,326,290,79,1251,101,824,344,686
+Gouverneur	3341,343,524,1532,303,2,1329,247,326,290,79,1251,101,824,344,686,422
 Gouverneur Brou	8316
 Gouverneur Jean-Claude Kassi Brou	8316
 Gouverneur de Tahoua	11694
@@ -171,10 +175,13 @@ IA Gouvernance	7123
 III. CADRE INSTITUTIONNEL ET GOUVERNANCE	10876
 III. CADRE INSTITUTIONNEL ET GOUVERNANCE III.1	10876
 INSTITUTIONS FINANCIERES Le Gouverneur	11567
+INTRODUCTION Le Gouvernement	12043
 IV. Gouvernance	235
+Instruction du Gouverneur N	11944
 Internet. Le Gouvernement	2695
 Intérim du Ministre Porte-parole du Gouvernement	5304
 Issa GOUO	8321
+Jane Goudge	12025
 Justice Gouvernance	4895
 Justin GOURNA ZACKO	3368
 Justin Gourna	4874
@@ -196,7 +203,7 @@ La Cheffe du Gouvernement	10065
 La Gouvernance	3381
 La Gouverneure	5275
 Le Chef du Gouvernement	10565
-Le Gouvernement	2370,325,2079,690,1495,1017,1,599,109,327,993,199,609,11,151,118,58,446,104
+Le Gouvernement	2370,325,2079,690,1495,1017,1,599,109,327,993,199,609,11,151,118,58,446,104,342
 Le Gouvernement de Madagascar	9339
 Le Gouvernement du Bénin	10876
 Le Gouvernement du Mali	8577
@@ -210,6 +217,7 @@ Le Secrétaire Général du Gouvernement	9287,1618,692
 Le Secrétariat Général du Gouvernement	3121
 Liptako Gourma	643
 Lobito Le Gouvernement	10204
+L’impulsion des Gouvernements. L’amélioration	11944
 M. Héliodore Francis Alex GOULOUBI	7660,1
 M. Justin GOURNA ZAKO	4327
 M. Mahdi Mahamoud Goudone	3795
@@ -222,7 +230,7 @@ Ministère Gouvernement Accueil Ministère	3675
 Ministère Gouvernement Adresse	3675
 Missions du Gouvernement	2625
 Monsieur le Gouverneur	11522
-Mot du Gouverneur	5740
+Mot du Gouverneur	5740,6204
 Moyennes Entreprises ONG Organisation Non Gouvernementale	10965
 Mr. Justin GOURNA ZAKO	4327
 Notto Gouye Diama	8270

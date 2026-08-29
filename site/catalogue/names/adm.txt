@@ -9,9 +9,12 @@ ADM IDD04 Ariss Responsible	1284
 ADM Mamata Tiendrebeogo Procurement GGOPF Responsible	11525
 ADM Philippe Auffret Economist GSP05 Responsible	11525
 ADM Responsible	1284
+ADM Responsible Team Leader Co-Team Leader	11924
 ADM SAWS4 Waterinckx Responsible	1284
+ADM STAFF Role At Approval	11924
 ADM. Descriptions	8436
 ADM. The Bill	5363
+ADM.18	12006
 ADMINISTRACION HOSPITALARIA	4209
 ADMINISTRATEUR REPRESENTANT LA POSTE BURKINA FASO	7670
 ADMINISTRATEUR REPRESENTANT LA SOCIETE SUCRIERE	8321
@@ -23,14 +26,16 @@ ADMINISTRATEURS ET MEMBRES DES COMITÉS D’AUDIT	2342
 ADMINISTRATEURS REPRESENTANT L’ETAT Au	8321
 ADMINISTRATEURS REPRESENTANT L’ETATAu	7670
 ADMINISTRATIFS Section	113
-ADMINISTRATION	1829,3704,1388,4340
+ADMINISTRATION	1829,3704,1388,4340,725
 ADMINISTRATION ACT	6921
 ADMINISTRATION AND HUMAN RESOURCES COMMITTEE	1154,400
-ADMINISTRATION Administration	5533
+ADMINISTRATION Administration	5533,6453
+ADMINISTRATION Audited Audited	11986
 ADMINISTRATION NIL	6921
 ADMINISTRATION OF THE SCHEDULE	3714
 ADMINISTRATION PUBLIQUE	5478
 ADMINISTRATION Part	11179
+ADMINISTRATION RESOURCE CONSIDERATIONS Expenditure	11986
 ADMINISTRATION Section	3161
 ADMINISTRATIVA	11435
 ADMINISTRATIVA Fluxograma	11435
@@ -54,9 +59,12 @@ ADMON	4209
 ADMON. PALACIOS Y RESID. MALABO	4209
 ADMON. PALACIOS Y RESID. REG. CONT	4209
 ADMVA Y ANTIC	4209
+ADMs Vector	12006
+ADMs31	12006
 ADOPO N’guessan Sylvain Adm MMPE	2342
 AFRICAN TAX ADMINISTRATION FORUM	3161
 AGT A Administração Geral Tributária	10787
+AI Artificial Intelligence ADM Add	12006
 AI for Executive Office Administrators	6946
 ALGUMAS ESTATÍSTICAS DE ORIGEM ADMINISTRATIVA	11526
 ANGORA Stephane BAFING. Adm MMPE	2342
@@ -73,6 +81,7 @@ AU TITRE DES ADMINISTRATEURS INDEPENDANTS	7670
 AUTONOMIA ADMINISTRATIVA E FINANCEIRA DOS TRIBUNAIS	10752
 Account DAF Financial and Administrative Director	11525
 Act. Administrative	1243
+Act. Nigeria Tax Administration Act	11976
 Actas Pleno Parlamento Administrador Grupo	4209
 Actos Administrativos da Protecção Social Obrigatória	11433
 Actos da Administração	11452
@@ -91,10 +100,12 @@ Admarc	6809
 Admarc CEO Ben Botolo	6809
 Admas Grand Hotel	6652
 Admassu	11487
-Admin	2775,1574,1306,767,4195,97
+Admin	2775,1574,1306,767,4195,97,1213,98
+Admin Clerk	11927,98
 Admin Console	7266
 Admin Data for Tax Justice Initiative	10335
 Admin External Vendor	10617
+Admin First Lady	11915
 Admin MPPEEP	2342
 Admin NHA EPSS	4349
 Admin Officer	11285
@@ -102,11 +113,13 @@ Admin Reform	2788,2221
 Admin Simplification	3375
 Admin.A3	4209
 Admin.B3	4209
+Admini	11955
 Adminis-	2775
 Administ	7538
 Administer	6432
 Administer ICT	10157
 Administer the Digital Infrastructure Assurance Registration	10157
+Administra-	11976
 Administracao Publica	1340,743,2330
 Administraciones	1701
 Administraciones Públicas	8522
@@ -131,7 +144,7 @@ Administración Pública de Guinea Ecuatorial	2585,6939
 Administración Territorial	6841
 Administración Tributaria	4209
 Administración de Justicia	4209
-Administrador	2315,469,32,6743,1806,67
+Administrador	2315,469,32,6743,1806,67,531
 Administrador Adjunto	10751
 Administrador Executivo	430,2386,50
 Administrador Executivo. Artigo	430
@@ -174,10 +187,11 @@ Administratiewe Liggame	11255
 Administratif	7993,3604
 Administratifs	2476,8345
 Administratio Publica	4432
-Administration	1,21,551,174,1,17,134,3,67,31,154,27,6,31,29,17,7,10,15,240,18,58,6,84,6,70,59,39,108,78,34,170,76,107,29,76,163,22,17,52,7,48,12,75,105,103,3,14,6,15,4,24,57,15,58,2,25,8,7,32,27,17,29,4,47,31,21,110,40,18,27,25,33,312,164,42,45,180,44,73,113,41,59,173,94,152,135,49,138,74,1,13,39,28,81,76,12,117,44,300,9,210,10,217,165,7,93,166,60,39,106,61,21,14,21,15,25,148,23,20,10,8,21,53,107,92,47,13,32,52,50,146,59,33,47,22,40,55,35,14,56,79,92,74,20,144,6,49,64,31,201,92,83,52,286,43,76,94,38,11,33,32,46,41,50,93,4,8,89,3,9,37,18,3,21,3,2,51,19,17,99,2,12,31,3,42,37,6,6,18,13,24,260,85,41,5,49,24
+Administration	1,21,551,174,1,17,134,3,67,31,154,27,6,31,29,17,7,10,15,240,18,58,6,84,6,70,59,39,108,78,34,170,76,107,29,76,163,22,17,52,7,48,12,75,105,103,3,14,6,15,4,24,57,15,58,2,25,8,7,32,27,17,29,4,47,31,21,110,40,18,27,25,33,312,164,42,45,180,44,73,113,41,59,173,94,152,135,49,138,74,1,13,39,28,81,76,12,117,44,300,9,210,10,217,165,7,93,166,60,39,106,61,21,14,21,15,25,148,23,20,10,8,21,53,107,92,47,13,32,52,50,146,59,33,47,22,40,55,35,14,56,79,92,74,20,144,6,49,64,31,201,92,83,52,286,43,76,94,38,11,33,32,46,41,50,93,4,8,89,3,9,37,18,3,21,3,2,51,19,17,99,2,12,31,3,42,37,6,6,18,13,24,260,85,41,5,49,24,191,46
 Administration Act	6921
 Administration All	11230
 Administration Batho Pele House	11184
+Administration Bill	11976
 Administration CASEM	10874
 Administration Centrale	12
 Administration DMO District Medical Office DSL	34
@@ -203,6 +217,7 @@ Administration Mise	10712
 Administration Modernisation	4859
 Administration Numérique Faire du Numérique	1247
 Administration Officers	6946
+Administration PERFORMANCE Programme	11986
 Administration Programme	5533
 Administration Publique	1281,1554,125,1442
 Administration Publique Comorienne	5370
@@ -210,10 +225,12 @@ Administration Publique Sous le Haut Patronage du Président	2960
 Administration Reform	1885
 Administration Renforcement	10712
 Administration Résultat	3396
+Administration Scolaire	11905
 Administration Standard Classroom	899
 Administration Stellenbosch University Isabel Da Silva	11134
 Administration Territoire	9567
 Administration Territoriale	557,86,649,765,675,664,974,6442
+Administration Through the ICT	11986
 Administration VITIB	1005
 Administration and Agriculture	10313
 Administration and Agriculture. My	10313
@@ -259,14 +276,16 @@ Administration. Sont	6675
 Administration49	1984
 Administration6	1984
 Administrationn	10712
-Administrations	1885,1799,1292,699,6,1393,3637,210,54,6,158,522
+Administrations	1885,1799,1292,699,6,1393,3637,210,54,6,158,522,283
 Administrations Publiques	10975
 Administrations. Il	10711
-Administrativa	1855,2354,6541,632,53,92,3,7
+Administrativa	1855,2354,6541,632,53,92,3,7,338
 Administrativas	11537
 Administrativas da República de Angola	11409
-Administrative	236,351,175,571,193,281,289,631,48,762,46,278,26,533,703,124,21,306,849,1931,769,1009,25,178,35,344,98,64,61,11,37,148,23,24,18,54,63,102,136,54,194
+Administrative	236,351,175,571,193,281,289,631,48,762,46,278,26,533,703,124,21,306,849,1931,769,1009,25,178,35,344,98,64,61,11,37,148,23,24,18,54,63,102,136,54,194,79,16,80,49
 Administrative Account	969
+Administrative Act	11956
+Administrative Actions	11995
 Administrative Adjudication of Road Traffic Offences	7755
 Administrative Appeals and Review Procedures	3861
 Administrative Assistance	573
@@ -287,6 +306,7 @@ Administrative District	3386
 Administrative Efficiency	10852
 Administrative Enforcement Powers and Procedures	3861
 Administrative Incentive Pricing	3102,6
+Administrative Instruction	11960
 Administrative Justice CBK Central Bank of Kenya	7548
 Administrative Justice. The Bill	7000
 Administrative Law Alignment	3861
@@ -295,10 +315,13 @@ Administrative Manual	11525
 Administrative Map of Guinea-Bissau	11552
 Administrative Measures	7538
 Administrative Modernisation	3080
+Administrative Modernization	11965
 Administrative Modernization Institute	10765,10
+Administrative Police	11868
 Administrative Procedures Manual	10829
 Administrative Provisions Appointment of Director-General	587
 Administrative Reforms	10110
+Administrative Regulation	11900
 Administrative Requirements	573,2588
 Administrative Resources	10776
 Administrative Sanction and Review	7845
@@ -307,6 +330,7 @@ Administrative Sciences	4432,3589
 Administrative Services	10765,10
 Administrative Studies	8671
 Administrative and Business Data Unit	11423
+Administrative and Financial Management	11941
 Administrative and Financial Unit	11401
 Administrative and Public Administration Data	3861
 Administrative and Support Service Activities	7992
@@ -340,8 +364,10 @@ Administração Digital. Por	11461
 Administração Directa	744,3474,7231,3,3
 Administração Educacional Bissau Zona-I Private	11552
 Administração Eleitoral. Dada	4938
-Administração Fiscal	11532
+Administração Fiscal	11532,486
 Administração Fiscal Procura Capturar Transacções	8003
+Administração Fiscal. Pode	12018
+Administração Fiscal. Regularizações de Clientes	12018
 Administração Geral Tributária	4203,1647,674,1,1527,2734,597,3,22,24
 Administração Geral Tributária ADT	11435
 Administração Indirecta	4146,6637,605,61
@@ -351,7 +377,7 @@ Administração Municipal	10754,29,590,35,35,2,13
 Administração Nacional de Estradas	1228
 Administração Nacional de Rádio	11045
 Administração Postal	13
-Administração Pública	14,1,152,585,43,470,3,468,212,106,241,142,144,37,198,302,401,319,237,360,171,35,664,24,392,348,633,268,21,254,955,730,359,620,705,158,1,299,258,29,1,1,2,8,8,5,4,6,2,1,11,17,17,2,1,2,1,1,2,1,4,2,3,2,27,26,26,27
+Administração Pública	14,1,152,585,43,470,3,468,212,106,241,142,144,37,198,302,401,319,237,360,171,35,664,24,392,348,633,268,21,254,955,730,359,620,705,158,1,299,258,29,1,1,2,8,8,5,4,6,2,1,11,17,17,2,1,2,1,1,2,1,4,2,3,2,27,26,26,27,306,26,38,26,56,19
 Administração Pública Artigo	11461
 Administração Pública Central	1265,683
 Administração Pública Local. São	1265
@@ -360,7 +386,7 @@ Administração Pública Mais Moderna	11394
 Administração Pública Propõe-se	2816
 Administração Pública. ANG	4435
 Administração Pública. Artigo	15
-Administração Pública. Como	11388
+Administração Pública. Como	11388,626
 Administração Pública. Competirá	11569
 Administração Pública. Data de Início	11440
 Administração Pública. Este	8879
@@ -371,7 +397,7 @@ Administração Pública. Neste	11444,19
 Administração Pública. OE11. Afirmar Angola	11379
 Administração Pública. Para	11379
 Administração Pública. Visa	9257
-Administração Tributária	11435
+Administração Tributária	11435,583
 Administração da Justiça	4274,6478
 Administração da Justiça. Artigo	6970
 Administração. ARTIGO	11461
@@ -381,6 +407,7 @@ Administrações Municipais	10754,29,642
 Administrações Públicas	11371
 Administrer	10858,18
 Admins	10617
+Admire Chibisa Department of Education	11927
 Admire Moyo	3290,4254,43,48,401,53,286,990,1,545
 Admired Ethiopian Brands Doing Good	8919
 Admissibilidade	549,11033
@@ -400,8 +427,9 @@ Admissible. SLE	7111
 Admissible. Single-country	7071
 Admissible. XAF	7064
 Admissible. ZAF	7145
-Admission	2709,5755,375,1064,916,28
+Admission	2709,5755,375,1064,916,28,1139
 Admission Garçons Filles G	10847
+Admission Services	11986
 Admissions Academics Academic Calendar Business School	10123
 Admissions Services	1617
 Admissão	11528
@@ -430,6 +458,7 @@ Agregado Administrativo A1	4209
 Agregado Administrativo A2	4209
 Agregado Administrativo A3	4209
 Agência Fiduciária de Administração	2974
+Alta Administração	11898
 Andualem Admassie	6218
 Angola Modernizes Land Administration	10761
 Angola Revenue Administration	10762
@@ -496,6 +525,9 @@ Centre Administrator	11336
 Centro Africano de Treinamento Administrativo	5020
 Centro Nacional de Formação Administrativa	11516
 Certificado de Admissibilidade	11435
+Certificado de Admissibilidade de Firma	12021
+Certificate FCTA Federal Capital Territory Administration	11857
+Certificate of Admissibility	11939
 Challenges of Angola Revenue Administration	10762
 Challenges of General Tax Administration	10762
 Charge of Administration	8371
@@ -519,6 +551,7 @@ Comissão de Administração	11436
 Commerce Department’s International Trade Administration	7209
 Commercial and Administrative Activities Zone	4900
 Commission of Administrative Justice	9645
+Committee Nigeria Tax Administration Act	11976
 Communication Systems Administration	9437
 Community Administrator	1246
 Competência da Administração Municipal	11458
@@ -548,6 +581,7 @@ Conselho de Administração da ARN	11520
 Conselho de Administração da ARN. ARTIGO	11520
 Conselho de Administração da Administração Geral Tributária	6309
 Conselho de Administração da Agência Marítima Nacional	8729
+Conselho de Administração da Agência Reguladora de Seguros	12097
 Conselho de Administração da Agência de Protecção de Dados	430,322,3395
 Conselho de Administração da Autoridade Reguladora	2866,1408
 Conselho de Administração da Imprensa Nacional de Cabo Verde	11566
@@ -597,6 +631,7 @@ DJOHAN Gerard Adm MCI	2342
 DOCUMENTS ADMINISTRATIFS Section	113
 DOS MEMBROS DO CONSELHO DE ADMINISTRAÇÃO	752
 DPI for Tax Administration	3735
+DPSA Department of Public Service and Administration BMCS	11986
 Da Administracao Publica	1340,743,2330
 Da Administração Municipal	11373
 Data Capturer Ward Clerk Administration Manager	8603
@@ -604,13 +639,14 @@ Data From INEC’s Admin Webpage	7176
 Data Strategy for Public Administration	6050
 Database Administration	9437
 Database Administrators	6832
+Defense Space ALTON Director Information Administration	11857
 Denis Mark BRISTOW FAITS MARQUANTS Adm	2342
 Departamento de Administração	167,4051,7163,1,67
 Departamento de Administração de Sistemas	11382
 Departamentos da Administração	11561
 Department of Administration	7167
 Department of Business Administration	6936
-Department of Public Service and Administration	1810,102,5146,38,3006,1091
+Department of Public Service and Administration	1810,102,5146,38,3006,1091,747,46
 Department of Public Services and Administration	11193
 Department of Public and Service Administration	11236
 Deputy Speaker for Administration and Finance	9585
@@ -650,6 +686,7 @@ Direcção de Administração	167
 Direito Administrativo	11358,90
 Direito. A Administração Pública	11388
 Direção Geral da Administração	11543
+Direção Nacional da Administração Pública	12014
 Dispatcher Paramedic Paramedic Trainer Admissions Clerk	8603
 District Administrator	1154
 District Administrators	11721
@@ -671,16 +708,21 @@ E Admissibility	972
 E INTELIGÊNCIA ARTIFICIAL NA ADMINISTRAÇÃO PÚBLICA	11461
 E O MINISTÉRIO DA ADMINISTRAÇÃO INTERNA	11455
 E-Governance and Public Administration Modernisation Program	804
+E-Governance and Public Administration Modernization Program	11863
+E-Government and Public Administration Modernization Project	11863
+E10. Administrative	11869
+E2. Administration Interfaces	11869
 EHILE Amoi FAITS MARQUANTS Adm MMPE	2342
 ELECTRÓNICA DOS PROCEDIMENTOS ADMINISTRATIVOS DA PROTECÇÃO	11433
 EMPLOYMENT IN PUBLIC ADMINISTRATION	11182
 EMPLOYMENT IN PUBLIC ADMINISTRATION Individual	11182
+ENCARGOS ADMINISTRATIVOS Artigo	11901
 EOLFD Reforma Administrativa	11530
 EQUALITY RURAL ECONOMY PUBLIC ADMINISTRATION	10835
 ERP Administratif	1993
 Education and Administrative Support Service	2775
 Educational Administration	7278
-Effective Administration	10759,76,2,1,74,56
+Effective Administration	10759,76,2,1,74,56,902,16,1,1,1
 Egypt’s New Administrative Capital	4563
 Electricité Le Compte Administratif	10975
 Electronic Certification Administration	6946
@@ -704,6 +746,7 @@ Ethiopian Food and Drug Administration	1824,2525
 Executive Administrative Assistant	11314
 Executivo A Agenda de Transição Digital da Administração	11394
 Export Administration Regulations	5773
+ExtraordinaNryigeria Tax Administration Act	11976
 FADCOM. O Conselho de Administração	13
 FAIS Act. Administrative	8354
 FCFA de Adm MMPE	2342
@@ -712,8 +755,8 @@ FISCAL TITULAR DE INVESTIGACIONES ADMVAS	4209
 FISCALIA DE INVESTIGACIONES ADM.Y ANTICORUPCION	4209
 FISCALIA DE INVESTIGACIONES ADMINISTRATIVAS Y ANTICORUPCION	4209
 FORMATION DES ADMINISTRATEURS ET MEMBRES DES	2342
-FOUNDATIONS FOR ECONOMIC OPPORTUNITY PUBLIC ADMINISTRATION	10759
-FOUNDATIONS FOR ECONOMIC OPPORTUNITY Public Administration	10759,78
+FOUNDATIONS FOR ECONOMIC OPPORTUNITY PUBLIC ADMINISTRATION	10759,1130
+FOUNDATIONS FOR ECONOMIC OPPORTUNITY Public Administration	10759,78,1052
 FUNCIONAMENTO E GESTÃO DA ADMINISTRAÇÃO PÚBLICA	11397
 FY2026 the Administration	4830
 Fair Administrative Action Act	2709
@@ -738,6 +781,7 @@ Funcionario Administrativo	4209
 Funcionários da Administração Pública	11413
 G. Administrations	5675
 GENERAL ADMINISTRATION PROVISIONS Part	11181
+GENERAL AND ADMINISTRATIVE PROVISIONS PART	11976
 Gabinete de Administração	11405
 Gastos Administrativos	4209
 Gender Value Set Administrative Gender MaritalStatus	6666
@@ -757,6 +801,7 @@ Gouvernement. Administrations	8855
 Government ICT Infrastructure Development and Administration	1795,1413,3881
 Government Pensions Administration Agency	10102
 Government Service and Administration Policy	7820
+Governments and Nigeria Tax Administration Act	11976
 Governor Peter Mbah Administration	8973
 Grupo A Abogado Fiscal Administrador Grupo	4209
 H Administrative	11177
@@ -772,6 +817,7 @@ Human Resource and Administration	1778,210
 Human Resource and Administration Mrs Christine Mshanga	34
 Human Resource and Administration Nalituba Mwale	10510
 Human Resources and Administration	34
+Human Resources and School Administration Directorate	11905
 Human Rights and Administrative Justice	3384,4985,2
 Hussein Adm ME-MINADERPV	2342
 I Administrative	11177
@@ -799,12 +845,15 @@ Implementing Smart Administration	10856
 Improve Land Administration	2355
 Improve Land Administration The Kaduna Geographic	2355
 Improvement of Land Administration Procedures	8
+Improving School Administration. Tsai	11927
 Impugnação Administrativa	11388
 Independent Administrator	170
 Information Network Security Administration	1785,1,1416,1,392,2276,1212,1,454,1768,1
 Informatización Admón. Púb	4209
 Informação Administrativa Consulta Prévia	3079
+Informações Administrativas	11873
 Infrastructure Specialists Administration Design	6832
+Innovation and Modernization of Administration	11867
 Inspector-Geral da Administração	11452
 Inspecção Geral da Administração	11361,91
 Inspecção-Geral da Administração	11452
@@ -825,7 +874,7 @@ Instituto de Modernização Administrativa. OE5. Elaborar	11379
 Instituto de Modernização Administrativa. Sinopse	11444,19
 Integrated Tax Administration	10852
 Integrated Tax Administration System	2112,1623,4623,187,1874,103,102
-Integrated Tax Administration Systems	10550
+Integrated Tax Administration Systems	10550,1317
 Integrated Tax Adminstration System-ITAS	1789,1,1,1
 Interim Administration	11765
 Interior and Territorial Administration	10814
@@ -837,7 +886,9 @@ International Trade Admission	10180
 Interoperabilidade da Administração Central	11371,8
 Interoperabilidade da Administração Pública	11442
 Ivoire. Adm MPPEEP	2342
+JAMB Joint Admissions and Matriculations Board	11860
 JEFE ECONOMICO Y ADMINISTRATIVO	4209
+Japan Administered Account for Selected Fund Activities	11973
 Jefe Económico Admón.. B3 Oficial de Comunicación	4209
 Joint Admissions and Matriculation Board	5321,1215,5118
 Joint Cybersecurity Committee Administrative Provisions	587
@@ -847,6 +898,7 @@ Journal of Comprehensive Business Administration Research	9129
 Journal of Public Administration	4432
 Journal of Public Administration Research	5700
 Journal of Public Administration Research and Theory	2096
+Judicial Officer. Nigeria Tax Administration Act	11976
 Justicia Subsector Administración de Justicia	4209
 K. Administrative	7845
 Kauto Administrative Area	8213
@@ -867,10 +919,12 @@ Land Administration Institutional Framework	9727
 Land Administration Mahmoud Solomon	9651
 Land Administration Modernization Program	10761
 Land Administration System IMC Inter-Ministerial Committee	11261
+Law of Administrative Modernization	11965
 Le Manuel des Procédures Administratives Financières	10975
 Le Socle Fondamental Administratif	11676
 Lib Law Administrator	4610
 Liberia Integrated Tax Administration System	10550
+Liquid ADM	12006
 Local Administration	11525
 Local Administrative Entities Development Agency	431
 Local Government Administration	11129
@@ -884,6 +938,7 @@ MAT Ministério da Administração	10765,10
 MENTAL Y ADMVA. Y GESTIÓN GRAL	4209
 MESURES ADMINISTRATIVES ET SANCTIONS Article	10836
 METODOLOGIAS PARA UMA ADMINISTRAÇÃO LOCAL EFICAZ	11390
+MFA Admin	11952
 MNE Administration	573
 MODERNIZAÇÃO TECNOLÓGICA DA ADMINISTRAÇÃO PÚBLICA	11397
 MTND's Administration Générale	1312,724,2277
@@ -892,6 +947,7 @@ Management Administratif	6163
 Management and Administration	1512,273,2,6,1,3,1405,2,2,1,3,1279,2594,2,2,1,2
 Management and Administration GHS	4489
 Management and Public Administration	8776
+Manual de Administração	12021
 Manuel de Procédures Administratives	10975
 Manuel des Procédures Administratives	10975
 Mapa da Guiné-Bissau Administrativamente	11537
@@ -906,6 +962,7 @@ Mbah Administration	8973
 Meaning DPSA Department of Public Service and Administration	11218
 Medical Scheme Administrators	11255
 Mediese Skema Administrateurs	11255
+Minister for Public Service and Administration	11986
 Minister of Digital Transition and Administrative Reform	4032
 Minister of Public Service and Administration	11184,9
 Minister of Public Service and Administrative Reforms	9658
@@ -924,11 +981,12 @@ Ministry of Digital Transformation and Administration Reform	2788
 Ministry of Digital Transition and Administration Reform	2577,2427,356,248
 Ministry of Digital Transition and Administrative Reform	5777,324,2143
 Ministry of Interior and National Administration	6823,123
-Ministry of Internal Administration	11553
+Ministry of Internal Administration	11553,356
 Ministry of Public Administration Modernization and Civil	6228
 Ministry of Public Administration and Political Affairs	7182
 Ministry of Public Service and Administrative Modernization	3604,7333
 Ministry of Regional Administration and Decentralization	10841
+Ministry of State Modernization and Public Administration	11873,36
 Ministry of Territorial Administration	2461,8302,2,3,7,53,136
 Ministry of Territorial Administration and Decentralisation	1235,2411
 Ministry of Territorial Administration and Decentralization	10812
@@ -957,13 +1015,16 @@ Modernização da X X X X Administração	11569
 Modernize Public Administration	3661
 Modernize Public Administration Guinea	6228
 Modernize Public Administration TechAfrica News	6050
+Modernizing the Congolese Tax Administration	11858
 Municipal and Communal Administrations	10775
 Mutual Administrative Assistance Agreements	9745
 Mº INTERIOR Y ADMINISTRACION LOCAL Servicio	4209
 Mº INTERIOR Y ADMINISTRACIÓN LOCAL	4209
 NASA Deputy Administrator Matthew Anderson and U.S	6897
 NDC Administration	7695
+NIGERIA TAX ADMINISTRATION ACT	11976
 NISPAcee Journal of Public Administration and Policy	2093
+NORMAS REGULATÓRIAS PARA ADMINISTRAÇÃO DO TERRENO	11898
 NTAA Nigeria Tax Administration Act	8590
 NUST's Administration	1554
 Nacional de Administração da Justiça Edição Nº	10750
@@ -986,7 +1047,9 @@ National School of Administration and Magistracy	10990
 National School of Local Administration	3234
 Neste Nacional de Administração	10752
 Networking and Systems Administration	2308
-Nigeria Tax Administration Act	4602,3988,236
+Nigeria Institute of Educational Planning and Administration	11860
+Nigeria Tax Administration Act	4602,3988,236,3150,46
+Nigeria. Nigeria Tax Administration Act	11976
 Nigerian Maritime Administration and Safety Agency	2677
 Nigerian National Agency for Food and Drug Administration	4426
 O Administrador Municipal	10754
@@ -1000,6 +1063,7 @@ O Departamento de Administração de Sistemas de Redes	11382
 O Inspector-Geral da Administração	11452
 O Instituto de Modernização Administrativa	6694,8,2177
 O Ministro da Administração Territorial	3246
+O Ministério da Administração	12120
 O Procedimento Administrativo	11388
 ONU Par Admin	8297
 Oficial Administrativo	4209
@@ -1024,10 +1088,10 @@ PROCEDIMENTO ADMINISTRATIVO DIGITAL SECÇÃO I Disposições	11461
 PROCEDURES ADMINISTRATIVES IV.1.1 Gestion	10876
 PROCESSOS ADMINISTRATIVOS	11397
 PROVINCIAL PROVINCIAL KIE- PROVINCIAL TOTAL ADMVA	4209
-PUBLIC ADMINISTRATION	10759,78,1,344
-PUBLIC ADMINISTRATION Absence of Armed Conflict	10835,3,130
-PUBLIC ADMINISTRATION Absence of Violence	10835,3,130
-PUBLIC ADMINISTRATION BUSINESS	10835,3,130
+PUBLIC ADMINISTRATION	10759,78,1,344,706,1
+PUBLIC ADMINISTRATION Absence of Armed Conflict	10835,3,130,902,16
+PUBLIC ADMINISTRATION Absence of Violence	10835,3,130,902,16
+PUBLIC ADMINISTRATION BUSINESS	10835,3,130,902,16
 PUBLIC ADMINISTRATION Civil Registration	10837
 PUBLIC ADMINISTRATION Office of Standards and Compliance	11182
 PUBLIC ADMINISTRATION Rank	10759,78
@@ -1066,34 +1130,38 @@ Procedimentos de Simplificação Administrativa	11394
 Processo Administrativo	11388
 Programme National de Recensement Administratif	2756
 Programme de Performance Administratif	10975
+Programmes Administration	11986
 Programmes Administration Générale	1598
 Project Administration	1787,1417,3881
 Project Administration-Lead	8436
 Project Proponents and Administrators	520
 Projecto de Investimento Público da Administração Indirecta	10783
-Promotion of Administrative Justice Act	2307,3226,854,1017,3878
+Promotion of Administrative Justice Act	2307,3226,854,1017,3878,704
 Promoção da Mulher MAT Ministério da Administração	11390
 Proof of Delivery Food and Drug Administration	4153
 Provinces Présents Admis Taux	10847
 Provincial Administrations and Hospitals	10780
 Provincial Administrations and Public Hospitals	10780
-Public Administration	2775,829,86,742,2514,3813,16,60,2,1,74,56,297
+Public Administration	2775,829,86,742,2514,3813,16,60,2,1,74,56,297,602,3,2,14,1,1,1,50,69
 Public Administration Business	10837
 Public Administration Efficiency Reform Program	6824
 Public Administration Ethics	11182
-Public Administration Health	10835,3,130
+Public Administration Health	10835,3,130,902,16
 Public Administration Human Resources Management System	10768
 Public Administration Interoperability Platform	3661
 Public Administration Management Act	11182,14
+Public Administration Rank	11889
 Public Administration Review	2096,3253,351,2186,717
 Public Administration and Defence	2775
 Public Administration and Development	5349
 Public Administration and Labor	6087
 Public Administration and Political Science	6946
+Public Administration- Support	11906
+Public Administration. Civil Registration	11887
 Public Administrator The Odd Quirks of Peter	2355,176,4,1,56,3,339,96,901,1006,1761,673
 Public Policy and Administration	2096,4850
-Public Procurement Administrative Review Board	2512
-Public Service and Administration	8652,2527,5,32
+Public Procurement Administrative Review Board	2512,9601
+Public Service and Administration	8652,2527,5,32,724
 Public Service and Administration Premier of Mpumalanga	11227
 Q1 By Admire Moyo	5806
 Quarterly Administrativ	10829
@@ -1105,10 +1173,12 @@ REFORMA ADMINISTRATIVA Y SS	4209
 REFORMA ADMTIVA Y SEGURIDAD SOCIAL. Servicio	4209
 REGULAMENTO DA ACTIVIDADE INSPECTIVA DA ADMINISTRAÇÃO	11452
 RGÃOS ADMINISTRATIVOS	11388
+Rate of Return E-PAMP E-governance and Public Administration	11863
 Rear Admiral Hamza Ibrahim	7371
 Rear Admiral Helder Nhanque	11579
 Recensement Administratif	2781,8040,1
 Recursos Humanos da Administração Pública	10768,626
+Recursos Humanos da Administração Pública. Este	12014
 Redevance Administrative Unique	1996
 Reforma Administrativa	758,1097,2354,2632,2683
 Reformas da Administração Pública	11394
@@ -1123,6 +1193,7 @@ Resolução Administrativa de Conflitos	11520
 Responsabilidades O Instituto de Modernização Administrativa	11441,1
 Revenue Administration	1155,673,9312
 Revenue Administration. CAMEROON IMF	10997
+Review of Administrative and Financial Obligations	11956
 Review of Public Personnel Administration	8021
 Revista de Administracao Mackenzie	226
 Roteiro de Interoperabilidade da Administração Pública	11444
@@ -1137,6 +1208,7 @@ Réseau Administratif	1294,765,2313,1
 S.E. Presidente República Administrador General de Palacios	4209
 SANCTIONS ADMINISTRATIVES Article	10825
 SANCTIONS ADMINISTRATIVES ET PENALES CHAPITRE	10825
+SCHEDULE TO THE NIGERIA TAX ADMINISTRATION	11976
 SCHEDULE Table of Administrative Penalties THIRD SCHEDULE	587
 SECTORS Services Administration Resources Circular Economy	4126
 SECÇÃO I CONSELHO DE ADMINISTRAÇÃO Artigo	13
@@ -1180,14 +1252,19 @@ Simplification of Administrative Procedures	3375
 Single Administrative Document	7512
 Sistema de Administración de Justicia	1701
 Sistema de Administração Financeira	795
+Sistema de Administração Territorial	11898
 Sistema de Administração de Monitoria de Projectos	414
 Sixth Administration	11218
+Slowing Deterioration. Public Administration	11888
+Social Protection Public Administration	11924
 Social Services Administration and Agriculture	10313
 Social Services Administration and Agriculture. Looking	10313
 Sociedad El Instituto Nacional de Administración Pública	9524
 Sous-Direction des Affaires Administratives	10975
 South Africa LAW Land Administration Web	11261
 South Africa Public Service and Administration	1009
+South African School Administration and Management System	11927
+South African School Administration. Journal of Information	11927
 South African Tax Administration Act	11685
 Staffing. The MASFAMU Administrative and Finance Department	10768
 State Administration and Public Service	1228
@@ -1195,6 +1272,10 @@ State Administration and Public Service Ministry of Science	1228
 State Administration of Foreign Exchange	5863
 State Department for Interior and National Administration	6946
 State Financial Administration	8769
+State Financial Administration Reform	11909
+State Modernization and Public Administration	11965
+State and Public Administration	11965
+State and Public Administration Support Institution	11873
 Statistical System Effective Administration Tax	10759,78
 Strengthening Tax Administration Capacity Project	5351,4871,350,72
 Sudan's General Administration for Procurement	10008
@@ -1219,15 +1300,18 @@ Tags Administration Partager Facebook X WhatsApp	1876
 Tax Administration	573,2588,574,3188,2856,1218,143
 Tax Administration Achievements and Challenges	10997
 Tax Administration Act	6921,2769,333,1167,43,30,13,22
+Tax Administration Bill	11947
 Tax Administration Diagnostic Assessment Tool	10519,465
 Tax Administration General	10064
 Tax Administration Laws Amendment Act	11263
 Tax Administration Performance Shapes Compliance	10997
 Tax Administration Reforms. IMF Working Paper	10997
-Tax Administration System	2744
+Tax Administration System	2744,9221
 Tax Administration System MDA Ministries	1284
 Tax Administration Technology Innovation Hub	2189
 Tax Administration Technology Innovation Hub Bill	2189
+Tax ID. Nigeria Tax Administration Act	11976
+Tax Policy and Administration	11906
 Tax and Customs Administrations Expertise France	648
 Tech Policy Press. Admissible	4259
 Technological Institute for Administrative Modernization	2351
@@ -1239,6 +1323,7 @@ Territorial Administration Program	6093
 Therapeutic Goods Administration	3651
 Togo’s Ministry of Territorial Administration	11104
 Trading Economics Public Administration	10856
+Traditional Administration	11927
 Traductor Embajada A2 Jefe Económico Admón	4209
 Transformação Digital da Administração Pública	11379,63
 Transgressões Administrativas	11373
@@ -1263,6 +1348,7 @@ United States Food and Drug Administration	4153,14,35,58,89,77,926
 Universal Postal Union Council of Administration	3990
 VAT Administration Act	11252
 WATAF Strengthening Tax Administration Capacity Project	10222
+WOMEN'S EQUALITY PUBLIC ADMINISTRATION Rank	11870
 West African Tax Administration Forum	5351,4871,350,72
 Yaouré. Adm MMPE	2342
 ZAMBIA INTERGRATED LAND ADMINISTRATION SYSTEM	1222
