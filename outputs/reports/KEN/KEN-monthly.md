@@ -1,11 +1,11 @@
 ---
 title: Kenya — monthly update, July – August 2026
-compiled: 2026-08-28
-period: 2026-07-01 to 2026-08-28
+compiled: 2026-08-29
+period: 2026-07-01 to 2026-08-29
 place: KEN
-ledger_rows: 156
+ledger_rows: 160
 not_held: 7
-record: d623baabd7c8
+record: 7274ecf4c55e
 ---
 
 # Kenya: monthly update, July – August 2026
@@ -48,6 +48,9 @@ The gambling regulator [confirmed on 3 August](https://www.the-star.co.ke/news/2
 
 
 The regulator also pressed an older instrument into the campaign. The data commissioner [said guidance now binds every organisation touching voter data, from the electoral commission down to civil-society registration groups, with the commission's own processing anchored in statutory mandate rather than consent and parties' obligations turning on how they obtained the data](https://www.the-star.co.ke/news/2026-08-18-political-sms-raise-questions-over-kenyans-personal-data), as unsolicited political messaging spreads ahead of the 2027 election. The guidance itself is not new: the Office [issued its Guidance Notes for Electoral Purposes on 29 February 2024, covering the voter register, political parties' member registers and campaign use of personal data under the Data Protection Act 2019](https://www.odpc.go.ke/wp-content/uploads/2024/02/ODPC-Guidance-Notes-for-Electoral-Purposes.pdf). What changed in August is the statement of it, not the rule. No enforcement action under the guidance is on record.
+
+A gap the regulator does not cover was named at the internet governance forum, where a United Nations agency [said an Agency Coordination Mechanism is being fast-tracked against AI-manipulated images and the doxing of female candidates ahead of the 2027 elections](https://www.kictanet.or.ke/keigf-2026-report-digital-futures/); no terms of reference or date is published.
+
 <!-- /narrative -->
 ### Regional collaboration
 
@@ -66,6 +69,9 @@ Two sets of standards arrived, one binding and one draft. The revenue allocation
 
 <!-- narrative: governance--gov-discourse -->
 One item moved in this window and it is a contested procurement rather than a policy debate: a former deputy president [told reporters on 24 August 2026 that the electoral commission's results-transmission contract specifications were tailor-made for a single South Korean bidder, that every other competitor has gone to the procurement appeals board, and that the firm has failed at every election it has taken part in](https://nation.africa/kenya/news/politics/gachagua-iebc-election-tech-deal-tailor-made-for-korean-firm-5569838). He says he is still documenting the claim; the report names neither the company nor the contract, and no commission or appeals-board response is on file.
+
+The commission answered on 27 August. It [said no company has been awarded the 2027 election-technology tender, that tenders for the management system's hardware and for ballot papers are frozen at the Public Procurement Administrative Review Board on a request for review, and that the documents were published on 11 August with generic performance-based specifications](https://www.standardmedia.co.ke/business/national/article/2001556378/iebc-rejects-gachaguas-claims-defends-2027-polls-preparations). The forum that would normally host this argument met the same week: KICTANet [published the report of the nineteenth Kenya Internet Governance Forum, held with more than 300 participants and confirming Kenya as host of the global forum, in Nairobi for the first time since 2011](https://www.kictanet.or.ke/keigf-2026-report-digital-futures/).
+
 <!-- /narrative -->
 
 ## Finance
@@ -184,6 +190,9 @@ The Controller of Budget's report entered July's reading: [1,695 of a target 11,
 The platform sells better abroad than it migrates at home. Its operator [pitched the Democratic Republic of the Congo's digital economy ministry on 12 August on digital company registries, beneficial-ownership traceability and real-time state-revenue tracking](https://acp.cd/economie/rdc-la-mise-en-place-de-registres-numeriques-recommandee-pour-moderniser-ladministration/), citing eCitizen's forty-plus digitised services and existing registry deployments in Malawi and South Sudan; the Congolese minister asked officials to continue talks toward a partnership. The claims are the vendor's own, made in a sales meeting, and the same operating consortium's domestic position remains under challenge.
 
 The procurement platform got a hard date for the tier that has resisted it. On 25 August the Treasury [gave all 47 county governments until 30 September 2026 to finish integrating the electronic procurement platform with the Integrated Financial Management Information System, so that tendering, award and contract monitoring connect to budget planning, spending and payment](https://www.wearetech.africa/actualites/fils/actualites/gestion-publique/kenya-les-47-comtes-sommes-de-passer-aux-marches-publics-numeriques). The deadline lands on a rollout that has already slipped: a first phase launched in April 2025 for extension to all national and local administrations from 1 July 2025, against resistance from the Council of Governors over pace and service disruption, with more than 900 public entities migrated by February 2026. Public procurement is [put at close to 30% of Kenyan GDP](https://www.wearetech.africa/actualites/fils/actualites/gestion-publique/kenya-les-47-comtes-sommes-de-passer-aux-marches-publics-numeriques), which is the size of what the deadline is meant to bring onto one record.
+
+The election system's own procurement stopped moving. The electoral commission [said tenders for the Integrated Elections Management System hardware and for ballot papers were temporarily halted after a request for review at the procurement review board, with the Register of Voters to undergo a 30-day biometric verification and an independent audit before certification](https://www.standardmedia.co.ke/business/national/article/2001556378/iebc-rejects-gachaguas-claims-defends-2027-polls-preparations).
+
 <!-- /narrative -->
 
 ## Technology
@@ -210,7 +219,7 @@ Venture funding data published on 27 July put Kenyan startups at [US$126m in the
 ### Literacy
 
 <!-- narrative: capacity--capacity-literacy -->
-The regulator donated computers to a school in Turkana on 30 July, one of 23 institutions recently supported, with no quantity or value disclosed.
+The regulator [donated computers to a school in Turkana on 30 July, one of 23 institutions recently supported](https://techafricanews.com/2026/07/30/ca-kenya-expands-digital-inclusion-with-computer-donation-to-turkana-school/), with no quantity or value disclosed. Private money reached further into the same gap: three laboratories [opened at Kholera Primary, Moody Awori Primary and Ralak Girls High in the weekend to 25 August under a Rotary Foundation Global Grant, taking that programme to at least 13 schools on a stated USD 91,650](https://www.standardmedia.co.ke/education/article/2001556160/digital-divide-threatens-to-leave-vulnerable-learners-behind-as-jobs-go-high-tech), against a state literacy programme running since 2016 that has not reached every school equally.
 <!-- /narrative -->
 ### Training and skills
 
