@@ -1,0 +1,93 @@
+indicator_id,subject,briefs_run,candidates_returned,fetched,staged_baseline,staged_progress,not_selected,dropped,drop_codes,outcome,subject_rows_at_probe
+gov.policy--ict-strategy,ICT strategy,2,6,3,1,2,0,0,,staged,1
+gov.policy--broadband-strategy,Broadband strategy,2,7,2,0,2,0,0,,staged,1
+gov.policy--data-storage-cloud-strategy,Data storage / cloud strategy,2,8,3,1,2,0,0,,staged,1
+gov.policy--data-interoperability-framework-roadmap,Data interoperability framework / roadmap,2,8,2,1,2,0,0,,staged,1
+gov.policy--data-localisation-policies,Data localisation policies,2,9,2,1,2,0,0,,staged,1
+gov.policy--data-governance-policy,Data governance policy,2,6,3,1,0,0,2,already-seen,staged,1
+gov.policy--open-data-policy,Open data policy,2,7,1,1,0,0,0,,staged,1
+gov.legislate--legislation-covering-digital-id,Legislation covering digital id,2,9,3,1,2,0,0,,staged,3
+gov.legislate--digital-payments-legislation,Digital payments legislation,2,11,3,1,2,0,0,,staged,3
+gov.legislate--ai-legislation-regulations,AI legislation / regulations,2,7,2,1,1,0,1,already-seen,staged,3
+gov.legislate--statistics-legislation,Statistics legislation,2,7,1,1,0,0,0,,staged,3
+gov.legislate--access-to-information-legislation,Access to information legislation,2,8,2,1,0,1,0,,staged,3
+gov.protect--data-protection-authority,Data protection authority,2,3,3,1,2,0,0,,staged,2
+gov.regional--regional-policy-collaboration,Regional policy collaboration,2,4,4,1,1,1,0,,staged,0
+gov.regional--regional-legal-harmonisation,Regional legal harmonisation,2,4,4,1,1,1,1,already-seen,staged,0
+gov.regional--shared-regional-infrastructure,Shared regional infrastructure,2,3,3,1,1,1,0,,staged,0
+gov.regional--cross-border-data-transfers,Cross-border data transfers,2,4,3,1,1,2,0,,staged,0
+gov.standards--national-interoperability-standards,National interoperability standards,2,4,4,1,1,3,1,already-seen,staged,1
+gov.standards--national-quality-standards,National quality standards,2,4,4,1,2,1,0,,staged,1
+gov.standards--adoption-of-international-standards,Adoption of international standards,2,5,3,1,1,2,0,,staged,1
+gov.discourse--non-governmental-contribution-to-national-policy,Non-governmental contribution to national policy,2,4,4,1,2,1,0,,staged,0
+finance.mou--strategic-relationships,Strategic relationships,2,4,3,1,2,1,0,,staged,0
+finance.new--development-partner-project-financing,Development-partner project financing,2,2,2,1,0,0,0,,staged,1
+infra.connect--internet-usage,Internet usage,2,7,4,1,2,1,0,,staged,3
+infra.connect--mobile-affordability,Mobile affordability,2,7,6,1,2,3,1,already-seen,staged,3
+infra.connect--national-fibre-backbone,National fibre backbone,2,5,3,1,2,2,0,,staged,3
+infra.connect--internet-exchange-points,Internet Exchange Points,2,7,2,1,1,0,1,inadmissible-origin,staged,3
+infra.store--local-data-centre-capacity-national-providers,Local data centre capacity (national providers),2,8,3,1,2,0,0,,staged,2
+infra.energy--sufficient-energy-and-water-for-data-centres,Sufficient energy and water for data centres,2,6,3,1,2,0,0,,staged,1
+infra.energy--grid-reliability,Grid reliability,2,7,3,1,2,0,0,,staged,1
+infra.energy--rural-electrification,Rural electrification,2,5,3,1,2,1,0,,staged,1
+infra.capacity--local-capacity-to-maintain-manage-and-develop-government-systems,"Local capacity to maintain, manage and develop government systems",2,5,3,1,2,0,0,,staged,1
+dpi.exchange--use-of-digital-id-in-other-systems,Use of digital id in other systems,2,9,3,1,2,0,1,already-seen,staged,4
+dpi.exchange--interoperability-of-health-systems,Interoperability of health systems,2,6,3,1,2,0,0,,staged,4
+dpi.exchange--interoperability-of-education-systems,Interoperability of education systems,2,6,3,1,2,0,0,,staged,4
+dpi.exchange--interoperability-of-social-protection-systems,Interoperability of social protection systems,2,6,3,1,2,0,0,,staged,4
+dpi.id--registration-of-entire-population,dpi.id,2,7,4,1,2,0,1,fetch-blocked,staged,1
+dpi.id--national-maintenance-of-id-and-credentials-systems,dpi.id,2,5,1,1,2,0,1,already-seen,staged,1
+dpi.id--authentication,dpi.id,2,6,2,1,2,0,0,,staged,1
+dpi.id--digital-id-from-birth,dpi.id,2,5,1,1,2,0,0,,staged,1
+dpi.id--interoperability-of-birth-registration-and-digital-id,dpi.id,2,4,0,1,1,0,0,,staged,1
+dpi.id--use-by-other-systems,dpi.id,2,9,1,1,1,0,0,,staged,1
+dpi.pay--g2p-functionality,dpi.pay,2,6,0,1,2,0,0,,staged,6
+dpi.pay--b2b-and-b2g-functionality,dpi.pay,2,6,1,1,2,0,0,,staged,6
+dpi.pay--p2p-p2g-and-p2b-functionality,dpi.pay,2,6,2,1,2,0,0,,staged,6
+dpi.pay--cross-border-functionality,dpi.pay,2,5,3,1,2,0,0,,staged,6
+dpi.pay--consumer-protection,dpi.pay,2,4,3,1,2,0,0,,staged,6
+dpi.registry--population-register,Population register,2,8,2,0,0,2,0,,nil,2
+dpi.registry--civil-register,Civil register,2,9,3,1,2,0,0,,staged,2
+dpi.registry--address-register,Address register,2,8,2,1,0,1,0,,staged,2
+dpi.registry--business-register,Business register,2,8,4,1,2,1,0,,staged,2
+dpi.registry--electoral-register,Electoral register,2,7,1,1,0,0,0,,staged,2
+dpi.registry--tax-register,Tax register,2,9,3,1,2,0,0,,staged,2
+dpi.registry--land-register,Land register,2,11,3,1,2,0,0,,staged,2
+dpi.mis--education,Education,2,8,3,1,2,0,0,,staged,2
+dpi.mis--social-protection,Social protection,2,8,3,1,2,0,0,,staged,2
+dpi.mis--tax,Tax,2,7,3,1,2,0,0,,staged,2
+dpi.mis--land,Land,2,9,4,1,1,2,0,,staged,2
+digital.localgov--ict-infrastructure-for-local-government,ICT infrastructure for local government,2,7,5,1,2,3,0,,staged,0
+digital.localgov--digitalisation-of-local-government-records,Digitalisation of local government records,2,7,4,1,2,1,0,,staged,0
+digital.rural--digitalisation-of-rural-health-clinics,Digitalisation of rural health clinics,2,7,4,1,2,1,0,,staged,1
+digital.rural--digitalisation-of-rural-primary-schools,Digitalisation of rural primary schools,2,5,3,1,2,0,0,,staged,1
+digital.rural--digitalisation-of-rural-registry-offices,Digitalisation of rural registry offices,2,6,4,1,2,1,0,,staged,1
+digital.rural--digitalisation-of-rural-police-stations,Digitalisation of rural police stations,2,5,2,1,1,0,1,already-seen,staged,1
+tech.ai--use-of-ai-in-government-administration,Use of AI in government administration,2,4,3,1,0,2,0,,staged,1
+tech.ai--use-of-ai-in-sectoral-management-information-systems,Use of AI in sectoral management information systems,2,4,3,1,2,1,0,,staged,1
+tech.ai--development-of-national-regional-ai-systems,Development of national / regional AI systems,2,4,3,1,2,0,0,,staged,1
+tech.ai--control-of-ai-abuse,Control of AI abuse,2,5,4,1,2,1,0,,staged,1
+tech.industry--national-capacity-in-dt-related-production,National capacity in DT-related production,3,9,4,1,2,1,1,already-seen,staged,1
+tech.innovate--technology-hubs,Technology hubs,2,6,4,1,2,1,0,,staged,1
+tech.innovate--tech-startup-ecosystem,Tech startup ecosystem,2,6,5,1,2,2,0,,staged,1
+capacity.literacy--digital-literacy-civil-service,capacity.literacy,2,5,3,1,2,0,1,already-seen,staged,1
+capacity.literacy--digital-literacy-general-population,capacity.literacy,2,5,3,1,2,0,1,already-seen,staged,1
+capacity.training--dt-related-training-in-secondary-education,capacity.training,2,4,3,1,2,0,1,already-seen,staged,1
+capacity.training--dt-related-university-facilities-and-qualifications,capacity.training,2,5,3,1,2,0,0,,staged,1
+capacity.research--think-tanks-and-academic-departments-contributing-to-dt-policy,capacity.research,2,3,3,1,2,0,0,,staged,1
+include.access--citizen-feedback-portals,include.access,2,4,2,0,2,0,1,already-seen,staged,0
+include.access--citizen-participation-in-policy,include.access,2,4,3,1,2,0,0,,staged,0
+include.access--gender-equity,include.access,2,4,3,1,2,0,0,,staged,0
+include.access--inclusion-of-persons-with-disabilities,include.access,2,3,2,1,1,0,1,already-seen,staged,0
+include.access--inclusion-of-refugees-and-idps,include.access,2,4,3,1,2,0,0,,staged,0
+include.divides--bridging-of-digital-divides,include.divides,2,4,2,0,2,0,1,already-seen,staged,0
+data.statistics--national-strategy-for-development-of-statistics,data.statistics,2,6,3,1,2,0,0,,staged,0
+data.statistics--censuses-and-surveys,data.statistics,2,5,3,1,2,0,0,,staged,0
+data.statistics--statistics-from-administrative-data,data.statistics,2,7,3,1,2,0,0,,staged,0
+data.open--use-of-open-data,data.open,2,5,3,1,2,0,0,,staged,1
+data.satellite--agricultural-use-of-satellite-data,data.satellite,2,4,4,1,2,1,0,,staged,1
+data.satellite--meteorological-use-of-satellite-data,data.satellite,2,4,4,1,2,1,0,,staged,1
+geopol.usa--usa-hyperscaler-mous-engagements-and-commitments,geopol.usa,2,6,4,1,2,1,0,,staged,1
+geopol.china--chinese-mous-engagements-and-commitments,geopol.china,2,6,3,1,2,0,3,inadmissible-origin;fetch-blocked;fetch-blocked,staged,1
+geopol.eu--eu-mous-engagements-and-commitments,geopol.eu,2,4,3,1,2,0,0,,staged,1
+geopol.india--india-mous-engagements-and-commitments,geopol.india,2,6,3,1,2,0,1,fetch-blocked,staged,1
