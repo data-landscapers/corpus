@@ -339,14 +339,37 @@ def check_indicators_file(path, bands):
                 figs.append((line, f"{iid}/{field}", bare))
     return sorted(hits), sorted(over), sorted(figs)
 
+DERIVED = "<!-- derived -->"
+
+
+def derived_lines(text):
+    """Line numbers of the paragraph a `<!-- derived -->` marker introduces.
+
+    **A figure the report computed from its own tables carries no link by design**, and
+    `status-check.py` has exempted these paragraphs since the baseline layer was written. Check H
+    did not, because `body_spans()` drops HTML comments before the prose reaches it, so the marker
+    was invisible here and the paragraph read as uncited narrative. Two checks over one document
+    then disagreed about the same two paragraphs, and every run re-reported a hit the other check
+    had already ruled exempt — which is how a check stops being read. The exemption is the
+    marker's whole purpose; what was missing was its application here.
+    """
+    out = set()
+    pat = re.compile("^" + re.escape(DERIVED) + r"[^\n]*\n((?:[^\n]+\n?)+)", re.M)
+    for m in pat.finditer(text):
+        first = text.count("\n", 0, m.start(1)) + 1
+        out.update(range(first, first + len(m.group(1).rstrip("\n").split("\n"))))
+    return out
+
+
 def check_file(path, budget, authored=False):
     text = open(path, encoding="utf-8").read()
     spans = body_spans(text) if authored else prose_spans(text)
+    exempt = derived_lines(text)
     hits, words, figs = [], 0, []
     for start, block, countable, raw in spans:
         words += len(re.sub(r"\[([^\]]*)\]", r"\1", countable).split())
         bare = unprovenanced(raw)
-        if bare:
+        if bare and line_of(text, start) not in exempt:
             figs.append((line_of(text, start), bare))
         for label, patterns, icase in TERMS:
             for pat in patterns:
