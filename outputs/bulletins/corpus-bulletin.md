@@ -4,7 +4,7 @@ title: Bulletin
 subtitle: Last updated 29-08-2026 at 19:31 — Covering sources published on 29 and 30 August 2026
 window_start: 2026-08-29
 window_end: 2026-08-30
-items: 5
+items: 6
 collected_to: 2026-08-29 19:31
 compiled: 2026-08-29 19:32
 ---
@@ -25,6 +25,7 @@ compiled: 2026-08-29 19:32
 <option value="">All countries</option>
 <option value="KEN">Kenya</option>
 <option value="NGA">Nigeria</option>
+<option value="RWA">Rwanda</option>
 </select>
 <span class="bulletin-filter__count" aria-live="polite"></span>
 </div>
@@ -76,6 +77,14 @@ The Treasury's Government Digital Payments Unit sets out the origin of the count
 </div>
 
 ### Registries
+
+<div class="bulletin-item" data-places="RWA" markdown="1">
+
+**[Business Registration](https://org.rdb.rw/business-registration/)** — Rwanda Development Board (Office of the Registrar General), 30 August 2026 <a class="wip-item-card__status wip-item-card__status--active country-box" href="https://corpus.data-landscapers.io/countries/RWA/" title="RWA">Rwanda</a>
+
+Rwanda's registrar general describes company registration as wholly online and free of charge, completed within six working hours on the issue of a certificate of incorporation. There is no minimum share capital, shareholding may be entirely foreign, and a support unit at the board's Kigali offices assists applicants who cannot complete the form unaided.
+
+</div>
 
 <div class="bulletin-item bulletin-item--xref" data-places="KEN" markdown="1">
 
