@@ -1,10 +1,10 @@
 ---
 title: EU activities — monthly update, July 2026
-compiled: 2026-08-29
-period: 2026-07-01 to 2026-08-29
+compiled: 2026-08-30
+period: 2026-07-01 to 2026-08-30
 subject: geopol.eu
 places: COG; KEN; MLI; MAR; NGA; UGA
-record: 3b027f7ed10a
+record: 2b328a57f85d
 ---
 
 # EU activities: monthly update, July 2026

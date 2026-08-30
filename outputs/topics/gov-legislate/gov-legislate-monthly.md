@@ -1,10 +1,10 @@
 ---
 title: Legislation and regulation — monthly update, July 2026
-compiled: 2026-08-29
-period: 2026-07-01 to 2026-08-29
+compiled: 2026-08-30
+period: 2026-07-01 to 2026-08-30
 subject: gov.legislate
 places: DZA; AGO; BWA; BFA; BDI; CMR; CPV; CAF; COG; CIV; COD; EGY; GNQ; ERI; SWZ; ETH; GAB; GMB; GHA; GIN; GNB; KEN; LSO; LBR; LBY; MDG; MWI; MLI; MRT; MUS; MAR; MOZ; NAM; NER; NGA; RWA; SEN; SLE; ZAF; SSD; SDN; TZA; TGO; TUN; UGA; ZMB; ZWE
-record: ff5b7c778ea8
+record: c8d01d59d8f8
 ---
 
 # Legislation and regulation: monthly update, July 2026
@@ -223,7 +223,7 @@ A new Telecommunications and Scarce Resources Licensing Regulation, adopted by d
 
 The regulator's own account of the new licensing regulation is now held, settling the instrument the earlier report named without citing: [Decree 36/2026 on the licensing of telecommunications and scarce resources](https://www.incm.gov.mz/2026/08/21/licenciamento_telecomunicacoes_recursos_escassos/).
 
-Two instruments moved on the same week, one drafting and one made. The labour ministry and the ICT institute [met on 27 August on a targeted Labour Law revision to cover work carried out through digital platforms, with classification of the employment relationship, identifying the employer behind a platform, inspection and algorithmic transparency named as the open questions](https://clubofmozambique.com/news/mozambique-labour-law-review-debates-protection-of-digital-platform-workers-intic/) and no draft text or timetable stated. The Press and Media Law, Law No. 19/2026, [was presented publicly from 28 August for entry into force in December, bringing online-only publications inside the media framework and capping direct and indirect foreign capital in a media organisation at 35 per cent](https://clubofmozambique.com/news/mozambiques-press-and-media-law-caps-foreign-ownership-at-35/), replacing a law in force since 1991.
+Two instruments moved on the same week, one drafting and one made. The labour ministry and the ICT institute [met on 27 August on a targeted Labour Law revision to cover work carried out through digital platforms, with classification of the employment relationship, identifying the employer behind a platform, inspection and algorithmic transparency named as the open questions](https://clubofmozambique.com/news/mozambique-labour-law-review-debates-protection-of-digital-platform-workers-intic/) and no draft text or timetable stated. The Press and Media Law was [gazetted as Law 3/2026 of 26 May, revoking the law in force since 1991](https://cibercidadaos.org.mz/wp-content/uploads/2026/06/BR_98_I_SERIE_2.o-SUPLEMENTO_2026.pdf) and [presented publicly from 28 August for entry into force in December, bringing online-only publications inside the media framework and capping direct and indirect foreign capital in a media organisation at 35 per cent](https://clubofmozambique.com/news/mozambiques-press-and-media-law-caps-foreign-ownership-at-35/); the same supplement of the gazette carries Law 4/2026 on broadcasting and Law 5/2026 on the media council.
 
 ## Namibia
 
