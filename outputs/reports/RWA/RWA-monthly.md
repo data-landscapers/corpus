@@ -1,11 +1,11 @@
 ---
 title: Rwanda — monthly update, July – August 2026
-compiled: 2026-08-27
-period: 2026-07-01 to 2026-08-27
+compiled: 2026-08-30
+period: 2026-07-01 to 2026-08-30
 place: RWA
 ledger_rows: 56
 not_held: 9
-record: 2593db00fedb
+record: da7250acf42a
 ---
 
 # Rwanda: monthly update, July – August 2026
@@ -109,14 +109,14 @@ The layer the rail does not touch moved the other way. Regulator statistics for 
 ### Registries
 
 <!-- narrative: dpi--dpi-registry -->
-Business registration moved entirely online in January and now runs at [incorporation in 24 to 72 hours at a cost among the continent's lowest](https://techcabal.com/2026/07/22/norebase-report-nigeria-rwanda-lead-africas-fastest-incorporation-markets/). The prior state is inferred from the source's own wording rather than stated in it.
+Business registration moved entirely online in January. The Office of the Registrar General's own page states the process is [wholly online, free of charge, and completed within six working hours](https://org.rdb.rw/business-registration/), where a July account had put it at [24 to 72 hours at a cost among the continent's lowest](https://techcabal.com/2026/07/22/norebase-report-nigeria-rwanda-lead-africas-fastest-incorporation-markets/). The registrar's page carries no date of its own, so which figure is current cannot be settled here.
 
 The civil register acquired an outside account of what it now carries. Case studies published on 13 August [describe civil registration as digitised and integrated with the national identity system, giving real-time identity verification and data sharing across hospitals, government agencies and businesses and supporting access to around 200 services, on a network of thousands of registration points that replaced a centralised, travel-dependent process](https://www.biometricupdate.com/202608/birth-registration-emerges-as-foundation-for-digital-public-infrastructure); the same account puts [about 85% of public services digitised as at 2024](https://www.biometricupdate.com/202608/birth-registration-emerges-as-foundation-for-digital-public-infrastructure). The figures are those of the advocacy organisation that has worked on the system since 2016, and no government statement of them is held.
 <!-- /narrative -->
 ### Sectoral management information systems
 
 <!-- narrative: dpi--dpi-mis -->
-Health information is the strongest part of the state's digital estate and the part whose claims rest most on partners. The [electronic immunisation registry is nationwide with near-complete data consistency reported by 2024, though facility-level underuse persists at some sites](https://www.frontiersin.org/journals/health-services/articles/10.3389/frhs.2026.1816682/full), phased in from 2019 across more than 500 facilities and integrated with civil registration and the identity agency in early 2022. A [national health intelligence centre launched in April 2025 has cut data-to-insight latency from about two months to near real-time](https://institute.global/insights/public-services/how-rwanda-is-using-data-to-deliver-better-health-care), on a partner's account that is not independently verified. Against both, a [national electronic medical record for all hospitals and health centres is described as an intention with no rollout date](https://www.ktpress.rw/2026/07/rwanda-showcases-real-time-health-data-system-during-bill-gates-visit/), and a 2025 analysis had described the same system as already operating.
+Health information is the strongest part of the state's digital estate and the part whose claims rest most on partners. The [electronic immunisation registry is nationwide with near-complete data consistency reported by 2024, though facility-level underuse persists at some sites](https://www.frontiersin.org/journals/health-services/articles/10.3389/frhs.2026.1816682/full), phased in from 2019 across more than 500 facilities and integrated with civil registration and the identity agency in early 2022. A [national health intelligence centre launched in April 2025 has cut data-to-insight latency from about two months to near real-time](https://institute.global/insights/public-services/how-rwanda-is-using-data-to-deliver-better-health-care), on a partner's account that is not independently verified. Against both, a [national electronic medical record for all hospitals and health centres is described as an intention with no rollout date](https://www.ktpress.rw/2026/07/rwanda-showcases-real-time-health-data-system-during-bill-gates-visit/) — against a health ministry statement of April 2025 that [e-Ubuzima was deployed in 15 districts and paper records would be gone from every public facility by December 2025](https://techcabal.com/2025/04/24/rwanda-e-ubuzima-rollout/). Nothing on file states what was delivered against that date.
 <!-- /narrative -->
 ### Other GovTech and e-Gov
 
