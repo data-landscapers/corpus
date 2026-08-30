@@ -1,12 +1,12 @@
 ---
 title: Ethiopia — digital transformation and data governance status report
-compiled: 2026-08-25
+compiled: 2026-08-30
 place: ETH
 region: XEA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-30
 intersections_read: 8
-sources_cited: 156
+sources_cited: 154
 sections_written: 37
 not_established: 1
 acquire_lines: 67
@@ -40,7 +40,7 @@ Copyright still rests on the 2004 proclamation, whose [remedies run to sentences
 ### Data protection
 <!-- gov.protect -->
 
-Ethiopia has a comprehensive data protection law and, more than a year after it was gazetted, almost nothing running under it: the [secondary directives needed to operate Proclamation No. 1321/2024 had still not been issued as of November 2025](https://shega.co/ethiopia-data-protection-slow-enforcement), and the [Ethiopian Communications Authority had taken no enforcement action](https://shega.co/ethiopia-data-protection-slow-enforcement). The [proclamation was approved on 4 April 2024 and gazetted on 24 July 2024, replacing the country's piecemeal sectoral regulation of personal data](https://www.aln.africa/ethiopia-new-data-protection-law).
+Ethiopia has a comprehensive data protection law and, more than a year after it was gazetted, almost nothing running under it: the [secondary directives needed to operate Proclamation No. 1321/2024 had still not been issued as of November 2025](https://shega.co/news/one-year-on-ethiopia-s-personal-data-protection-law-faces-a-slow-path-to-enforcement), and the [Ethiopian Communications Authority had taken no enforcement action](https://shega.co/news/one-year-on-ethiopia-s-personal-data-protection-law-faces-a-slow-path-to-enforcement). The [proclamation was approved on 4 April 2024 and gazetted on 24 July 2024, replacing the country's piecemeal sectoral regulation of personal data](https://www.aln.africa/ethiopia-new-data-protection-law).
 
 It [sets a broad definition of personal data, claims extraterritorial reach over processing outside Ethiopia, and imposes distinct duties on controllers and processors](https://www.aln.africa/ethiopia-new-data-protection-law), [requires controllers to notify both the Authority and affected data subjects within 72 hours of becoming aware of a breach](https://www.techhiveadvisory.africa/insights/review-of-ethiopias-data-protection-act), and [obliges personal data to be stored locally](https://digitalpolicyalert.org/change/12100-data-localisation-requirements-in-personal-data-protection-proclamation-proclamation-no-13212024) — matching [Digital Ethiopia 2030's principle of national anchoring for data, infrastructure and systems](https://www.pmo.gov.et/media/other/Digital_Ethiopia_2030.pdf).
 
@@ -181,7 +181,7 @@ Enrolment itself has been contracted out to the telecoms sector. [Ethio Telecom 
 ### Digital Payments and Fintech
 <!-- dpi.pay -->
 
-Ethiopia's payment volumes and its payment users have come apart. [Telebirr carried 4.19 trillion Birr across 2.61 billion transactions and 60.6 million customers in the year to 30 June 2026](https://www.thereporterethiopia.com/52133/), yet [only 20.7 per cent of adults had used a digital payment by the 2025 Global Findex, barely above the 19.7 per cent recorded in 2022](https://digitalfinance.shega.co/insights/articles/findex-2025-and-ethiopia-s-digital-financial-leap-momentum-without-maturity). [Digital accounts multiplied 2.3-fold to 222.1 million by March 2025 while formal account ownership barely moved](https://shega.co/findex-2025-ethiopia): the account counts measure accounts, not people.
+Ethiopia's payment volumes and its payment users have come apart. [Telebirr carried 4.19 trillion Birr across 2.61 billion transactions and 60.6 million customers in the year to 30 June 2026](https://www.thereporterethiopia.com/52133/), yet [only 20.7 per cent of adults had used a digital payment by the 2025 Global Findex, barely above the 19.7 per cent recorded in 2022](https://digitalfinance.shega.co/insights/articles/findex-2025-and-ethiopia-s-digital-financial-leap-momentum-without-maturity). [Digital accounts multiplied 2.3-fold to 222.1 million by March 2025 while formal account ownership barely moved](https://digitalfinance.shega.co/insights/articles/findex-2025-and-ethiopia-s-digital-financial-leap-momentum-without-maturity): the account counts measure accounts, not people.
 
 The rails are now largely built. [EthSwitch launched EthioPay-IPS, the national instant payment system, in December 2025, connecting 32 banks, 12 microfinance institutions, three payment system operators and three payment instrument issuers for real-time account-to-account, wallet, QR and bulk payments](https://cioafrica.co/ethiopia-launches-national-instant-payments/). [The switch processed 287.4 million transactions worth 741.1 billion Birr in 2024/25, person-to-person transfers overtaking ATM withdrawals](https://capitalethiopia.com/2025/11/02/ethswitch-reports-historic-growth-as-p2p-payments-surpass-atm-withdrawals/). [The National Bank holds 46 per cent of EthSwitch and chairs its board of bank chief executives, overseeing rather than operating the switch](https://www.africanenda.org/uploads/files/siips2025/siips_2025_EthSwitch-Ethiopia_CaseStudy_en.pdf) (2025).
 
@@ -317,7 +317,7 @@ Identity is now the gate on most transactions. Fayda enrolment is [formally volu
 
 [Provision for people with disabilities](https://techafricanews.com/2025/05/13/ethio-telecom-champions-digital-inclusion-for-persons-with-disabilities/) is partial, not designed in: telebirr offers IVR, USSD and voice-command access and Ethio Telecom discounts connectivity by up to 35 per cent for them, but the National Financial Inclusion Strategy mandates no binding accessibility standards and most banking apps and ATMs lack screen-reader support (2025).
 
-Where a transfer is the service, the account is the point of access. The [Productive Safety Net Programme's fifth phase reaches around 25 million people](https://www.eeas.europa.eu/delegations/ethiopia/strengthening-food-security-through-ethiopia%E2%80%99s-national-safety-net-phase-5_en) (2024), and its transfers have been [moving to electronic payment](https://blogs.worldbank.org/ethiopia-e-payments-financial-inclusion) since 2005. Bank-account ownership [rose from 22 per cent in 2014 to about 45 per cent in 2020](https://blogs.worldbank.org/ethiopia-e-payments-financial-inclusion) on central bank figures, and the revised national financial-inclusion strategy targeted 70 per cent by 2025; it has since [moved very little](https://shega.co/findex-2025-ethiopia), leaving Ethiopia far short of the average for low- and middle-income countries (2024).
+Where a transfer is the service, the account is the point of access. The [Productive Safety Net Programme's fifth phase reaches around 25 million people](https://www.eeas.europa.eu/delegations/ethiopia/strengthening-food-security-through-ethiopia%E2%80%99s-national-safety-net-phase-5_en) (2024), and its transfers have been [moving to electronic payment](https://blogs.worldbank.org/ethiopia-e-payments-financial-inclusion) since 2005. Bank-account ownership [rose from 22 per cent in 2014 to about 45 per cent in 2020](https://blogs.worldbank.org/ethiopia-e-payments-financial-inclusion) on central bank figures, and the revised national financial-inclusion strategy targeted 70 per cent by 2025; it has since [moved very little](https://digitalfinance.shega.co/insights/articles/findex-2025-and-ethiopia-s-digital-financial-leap-momentum-without-maturity), leaving Ethiopia far short of the average for low- and middle-income countries (2024).
 
 The physical counter is being consolidated, not replaced: Addis Ababa runs [one-stop service centres and mobile units](https://www.amn.gov.et/en/addis-ababas-digital-one-stop-platform-streamlines-government-services-bringing-over-150-services-under-one-digital-system-official/), staffed desks backed by systems integration rather than a self-service portal (July 2026). For the online version the device is the barrier: Ethio Telecom's arrangements with two banks [target up to two million smartphones a year](https://www.biometricupdate.com/202607/ethio-telecom-huawei-partner-to-expand-ethiopias-digital-infrastructure) sold to low-income customers on instalments (July 2026).
 

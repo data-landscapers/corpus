@@ -1,12 +1,12 @@
 ---
 title: Cameroon — progress report, August 2025 – August 2026
-compiled: 2026-08-29
-period: 2025-08-01 to 2026-08-29
+compiled: 2026-08-30
+period: 2025-08-01 to 2026-08-30
 place: CMR
-ledger_rows: 133
+ledger_rows: 134
 not_held: 7
 indicators: 121
-record: 7089997ec61b
+record: 597710a36d2a
 ---
 
 # Cameroon: progress report, August 2025 – August 2026
@@ -15,7 +15,7 @@ This report asks the same set of questions of every country. The rows below are 
 
 Where a row reads ***No evidence***, the base holds nothing on that indicator. **That is a statement about this base, not about the country** — it does not mean nothing exists, only that nothing has been collected here yet. The rows that carry evidence say what it is; the rows that do not are left to speak for themselves.
 
-*The period is 2025-08-01 to 2026-08-29.*
+*The period is 2025-08-01 to 2026-08-30.*
 
 **Progress values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Mixed* — the indicator's instruments moved in different directions in the period; the clause after the comma names which moved which way. *No change* — the base holds a standing position and nothing in the period touched it. ***No evidence*** — the base holds nothing on this indicator at all. A value may carry a qualifying clause after a comma, as in *Advanced, regulations still pending*.
 
@@ -76,7 +76,7 @@ Where a row reads ***No evidence***, the base holds nothing on that indicator. *
 | Connectivity | International internet bandwidth |  | ***No evidence*** |
 | Connectivity | Internet Exchange Points |  | ***No evidence*** |
 | Connectivity | Satellite broadband licensing and availability | A [draft concession convention was finalised in December 2025](https://actucameroun.info/2025/12/12/internet-satellitaire-starlink-finalise-son-projet-de-convention-de-concession-avec-lart-avant-son-entree-au-cameroun/), with the [file at the ministry undecided for more than two years](https://newswatchcameroon.com/cameroon-starlink-licensing-stalls-over-security-sovereignty-concerns/). <details><summary>Full record</summary>The [licence was refused in March 2025](https://www.camerounweb.com/CameroonHomePage/NewsArchive/EXCLUSIF-Le-Cameroun-refuse-d-octroyer-une-licence-Starlink-l-entreprise-d-Elon-Musk-dans-le-viseur-des-autorit-s-779264). 2025-12-12 - the regulator [finalised a draft concession convention and specification](https://actucameroun.info/2025/12/12/internet-satellitaire-starlink-finalise-son-projet-de-convention-de-concession-avec-lart-avant-son-entree-au-cameroun/), and as at July 2026 the [file at the ministry had been undecided for more than two years, with the objections on record being lawful interception, armed-group use and the incumbent's commercial position](https://newswatchcameroon.com/cameroon-starlink-licensing-stalls-over-security-sovereignty-concerns/).<br><br>The [2024 customs circular remains the operative instrument, with kits entering through indirect registration abroad and ten modems seized at one post on 12 December 2025](https://actucameroun.com/2025/12/16/la-douane-saisit-des-kits-starlink-a-nkometou/). No other satellite broadband offer is on file, so the country's whole position on the technology is one undecided file and a seizure regime.</details> | Advanced, a draft concession convention was finalised while the file stayed undecided and the seizure circular stayed operative |
-| Data Storage | Local data centre capacity (all providers) |  | ***No evidence*** |
+| Data Storage | Local data centre capacity (all providers) | A United States company [stated an intention to invest US$75m](https://www.africa-newsroom.com/press/united-states-and-cameroon-announce-7-billion-in-investment-and-trade-opportunities-at-inaugural-economic-and-commercial-dialogue?lang=en) in an artificial-intelligence data centre and power plant at Douala. <details><summary>Full record</summary>The intention was announced on 27 August 2026 at the inaugural bilateral economic and commercial dialogue, as one project among an estimated US$7bn of investment and trade opportunities floated there ([announcement](https://www.africa-newsroom.com/press/united-states-and-cameroon-announce-7-billion-in-investment-and-trade-opportunities-at-inaugural-economic-and-commercial-dialogue?lang=en)).<br><br>No agreement, site, capacity, financing arrangement or date is on record, and the pairing of a data centre with its own power plant is the part worth noting: the developer is proposing to supply the power rather than to draw it. The national provider's own facility is recorded separately.</details> | No change, a first position with no earlier figure behind it |
 | Data Storage | Local data centre capacity (national providers) | The [Zamengoe data centre is in operation and being shown to prospective tenants](https://camerpressagency.com/pari-reussi-pour-camtel-le-data-center-de-zamengoe-seduit-plan-international-cameroon/), the central bank having inspected it in December 2025. <details><summary>Full record</summary>The base carries no record of the facility before December 2025, when the [regional central bank's national director inspected it with a view to hosting](https://techreviewafrica.com/news/3479).<br><br>2026-06-09 - it was [presented at a national digital forum as in operation and tourable](https://techreviewafrica.com/news/5885/camtel-highlights-digital-sovereignty-and-data-protection-at-government-action-fair-in-yaounde), and on [13 August 2026 a second prospective tenant was shown round](https://techafricanews.com/2026/08/14/camtel-showcases-zamengoe-data-center-to-plan-international-cameroon/).<br><br>The largest-in-Central-Africa and Tier III claims are unverified wire claims and are not adopted here. No IT load, floor area, customer count or contracted power figure has been published, and no tenancy is reported signed.</details> | Advanced |
 | Data Storage | Off-site backup capacity |  | ***No evidence*** |
 | Energy | Sufficient energy and water for data centres |  | ***No evidence*** |

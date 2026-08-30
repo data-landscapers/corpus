@@ -1,11 +1,11 @@
 ---
 title: Somalia — monthly update, July – August 2026
-compiled: 2026-08-27
-period: 2026-07-01 to 2026-08-27
+compiled: 2026-08-30
+period: 2026-07-01 to 2026-08-30
 place: SOM
-ledger_rows: 25
+ledger_rows: 26
 not_held: 10
-record: 0e59a6ae784d
+record: 762495442790
 ---
 
 # Somalia: monthly update, July – August 2026
@@ -20,6 +20,13 @@ The Central Bank published, for the first time, the sequence by which banks and 
 
 ## Governance
 
+### Legislation and regulation
+
+<!-- narrative: governance--gov-legislate -->
+The Cybersecurity Law is not yet through parliament. The Upper House [gave a six-chapter, 33-article cybersecurity bill its first reading on 29 August 2026](https://www.dawan.africa/news/somalia-senate-holds-first-reading-of-cybersecurity-meteorological-agency-bills), at the first sitting of its eighth term, alongside a separate bill establishing a national meteorological agency. The chamber's [own published procedure requires three readings](https://senate.gov.so/laws/?lang=en) before a bill passes it.
+
+The House of the People [approved a Cybersecurity Law on 26 January 2026](https://nca.gov.so/somalias-parliament-approves-the-cybersecurity-law/), assigning policy to the communications ministry, technical oversight to the regulator and obligations to critical-infrastructure operators. Nothing on file states whether the bill now before the Upper House is that instrument, and neither text is held.
+<!-- /narrative -->
 ### Data protection
 
 <!-- narrative: governance--gov-protect -->

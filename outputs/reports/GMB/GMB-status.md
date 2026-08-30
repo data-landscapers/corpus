@@ -1,15 +1,15 @@
 ---
 title: Gambia — digital transformation and data governance status report
-compiled: 2026-08-29
+compiled: 2026-08-30
 place: GMB
 ledger_rows: 68
 not_held: 13
-record: 8607fdc38ddc
+record: 64a4d68e8f08
 ---
 
 # Gambia: status report
 
-*Compiled 2026-08-29 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/GMB/ledger.csv` (68 systems and instruments, 13 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-30 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/GMB/ledger.csv` (68 systems and instruments, 13 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -60,7 +60,7 @@ Two questions about foreign operators are open: [Starlink is still unlicensed](h
 |---|---|---|
 | ATAF Heads of Tax Administrations Master Class | [Implemented](https://www.gra.gm/news/74649367-8629-11f1-b086-029254d29bb1) | Seventh Master Class convened in Banjul, 23-24 July 2026 |
 | Senegal-Gambia regulatory cooperation and free roaming agreement | [Implemented](https://techreviewafrica.com/news/6078/senegal-and-the-gambia-enhance-digital-integration-through-regulatory-cooperation-agreement) | Signed between the two regulators, June 2026 |
-| Senegal–Gambia digital cooperation memorandum | [Implemented](https://www.wearetech.africa/fr/fils/actualites/tech/senegal-gambie-la-cooperation-numerique-se-concretise-autour-de-quatre-priorites) | Moved into implementation on four priorities |
+| Senegal–Gambia digital cooperation memorandum | [Implemented](https://digitalmagazine.bf/2026/08/29/senegal-gambie-dakar-et-banjul-mettent-en-chantier-une-feuille-de-route-numerique-commune/) | First steering-committee session, Banjul, 29 August 2026 |
 
 ### Public debate and participation in policymaking
 

@@ -169,7 +169,13 @@ infra.store--local-data-centre-capacity-all-providers,"Advanced, marginal agains
 
 2025-11 — the only completed facility of scale was a [Cape Town expansion adding 32MW to reach 50MW](2025-11-10-teraco-ct2-50mw-cape-town). 2026-07-14 — a second operator [cleared a municipal planning tribunal for a Cape Town site](2026-07-16-cape-town-tribunal-data-centre-greenlight), which is an approval and not capacity.
 
-What the base does not hold is a national register: no regulator or department publishes site counts, capacity, utilisation or grid connections, so every figure here is an operator's or an analyst's.",ZAF-infra.connect-delivered-data-centre-load|ZAF-infra.store-teraco-ct2-cape-town|ZAF-infra.connect-equinix-cape-town-land-use
+What the base does not hold is a national register: no regulator or department publishes site counts, capacity, utilisation or grid connections, so every figure here is an operator's or an analyst's.
+
+2024-01-31 - a foreign hyperscaler declared its first African cloud region operational at Johannesburg, a year after picking the city, letting customers deploy from a domestic location ([cloud region](2024-01-31-googles-first-africa-cloud-region-now-operational)). No capacity, customer count or investment figure accompanies it.
+
+2026-08-27 - a metropolitan council approved a developer's request to connect a proposed hyperscale campus at a special economic zone directly to the national utility rather than the municipal grid, for up to 556 MW, against a R3bn municipal and community infrastructure investment offered by the developer and objections from councillors ([campus](2026-08-29-southafrica-vexa-coega-ai-data-hub-power)).
+
+The connection is what was approved; the campus has no capacity in service, construction start or completion date on file. A single requested connection of 556 MW set against national delivered load of roughly 390 MW is the measure of what the pipeline would ask of the grid.",ZAF-infra.connect-delivered-data-centre-load|ZAF-infra.store-teraco-ct2-cape-town|ZAF-infra.connect-equinix-cape-town-land-use|ZAF-infra.store-foreign-hyperscaler-cloud-region|ZAF-infra.store-coega-artificial-intelligence-campus
 infra.store--local-data-centre-capacity-national-providers,Advanced,"A domestically headquartered operator [acquired seven facilities from a foreign one, taking its capacity above 25 MW](2026-02-11-oadc-acquires-seven-ntt-data-centres-south-africa).","2025-12-31 — [an African operator completed its acquisition of seven facilities from a foreign operator after competition approval, taking its total capacity above 25 MW](2026-02-11-oadc-acquires-seven-ntt-data-centres-south-africa).
 
 It is the one movement on this ledger in which national providers gain estate rather than international ones, and it is a transfer of existing capacity rather than new build — the megawatts changed owner, not the country's total.

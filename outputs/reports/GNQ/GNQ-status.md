@@ -1,15 +1,15 @@
 ---
 title: Equatorial Guinea — digital transformation and data governance status report
-compiled: 2026-08-29
+compiled: 2026-08-30
 place: GNQ
 ledger_rows: 69
 not_held: 6
-record: fb4b5543a8fa
+record: 43033c3d6ef3
 ---
 
 # Equatorial Guinea: status report
 
-*Compiled 2026-08-29 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/GNQ/ledger.csv` (69 systems and instruments, 6 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
+*Compiled 2026-08-30 by Claude Opus from the documents in the Corpus repository, from `outputs/reports/GNQ/ledger.csv` (69 systems and instruments, 6 of them ***Not held***). Each section opens with its ledger; specific events are covered in the monthly updates. Figures are dated because most are time-varying.*
 
 **Status values.** *Implemented* — in operation or in force. *Piloting* — running with a limited user group or in a controlled environment. *In development* — build or drafting under way, not yet operating. *Planned* — announced or provided for, no build or draft on record. *Enacted* — an instrument passed into law; pair with a qualifying clause for its in-force date. *Under review* — a law or policy currently being reconsidered. *Discontinued* — closed or superseded. ***Not held*** — the base carries no reliable statement of status; these are the gaps to fill and are listed again at the end.
 
@@ -103,7 +103,7 @@ The two instruments above are the only committed external capital on record, bot
 | July-December 2026 connectivity plan | [Planned](https://www.guineaecuatorialpress.com/noticias/secundo_consejo_directivo_extraordinario_del_ministerio_de_transportes) | Semestral departmental plan presented to the Prime Minister, 15 July 2026 |
 | Medusa submarine cable connection | [Planned](https://realequatorialguinea.com/destacado/politica/guinea-ecuatorial-estudia-conectarse-a-un-nuevo-cable-submarino-para-mejorar-el-internet/) | Analysys Mason study of a landing at Bome or Bata |
 | Nigeria-Equatorial Guinea subsea cable | [Planned](https://www.telecomreviewafrica.com/articles/reports-and-coverage/28289-nigeria-and-equatorial-guinea-sign-landmark-subsea-fiber-optic-agreement/) | Subsea fibre agreement signed, February 2026 |
-| Starlink satellite internet service | [Implemented, offshore only](https://www.guineaecuatorialpress.com/noticias/guinea_ecuatorial_autoriza_uso_de_starlink_a_empresas_norteamericanas_en_alta_mar) | Temporary offshore authorisation signed at the Palacio del Pueblo, 28 July 2026 |
+| Starlink satellite internet service | [Implemented](https://realequatorialguinea.com/destacado/mundo/elon-musk-confirma-que-el-internet-satelital-de-starlink-ya-esta-disponible-en-guinea-ecuatorial/) | Service confirmed available, 29 August 2026 |
 | TELGESA, the second state operator | [In development](https://www.pdge-guineaecuatorial.com/el-gobierno-impulsa-el-cumplimiento-del-regimen-de-incompatibilidades-de-las-empresas-publicas/) | Merger halted pending a full audit of GECOMSA, 22 July 2026 |
 
 ### Data Storage

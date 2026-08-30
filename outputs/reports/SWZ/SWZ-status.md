@@ -1,12 +1,12 @@
 ---
 title: Eswatini — digital transformation and data governance status report
-compiled: 2026-08-17
+compiled: 2026-08-30
 place: SWZ
 region: XSA
 built_by: STATUS-INIT
 hub_last_reviewed: 2026-07-23
 intersections_read: 7
-sources_cited: 136
+sources_cited: 135
 sections_written: 37
 not_established: 1
 acquire_lines: 57
@@ -93,7 +93,7 @@ Elsewhere the meetings have outrun the signatures. At the [February 2026 meeting
 ### New investments
 <!-- finance.new -->
 
-Eswatini's largest live external commitment is the World Bank's [Digital Eswatini Project, active over 2026–2031 with a digital-sector commitment of about US$20 million](https://projects.worldbank.org/en/projects-operations/project-detail/P508948), covering broadband deployment, government service platforms and the enabling environment for the digital economy. The Ministry of ICT was [training cross-ministry change agents ahead of a 2027 rollout of the E1.2bn (about US$65m) programme](https://independentnews.co.sz/45098/business/ict-trains-change-agents-for-e1-2bn-digitization-project/) in June 2026. The Bank's own [concept paper of June 2025 printed the operation at US$65.16m proposed, with appraisal and Board approval both given as estimated dates](https://documents.worldbank.org/curated/en/099062825152022388).
+Eswatini's largest live external commitment is the World Bank's [Digital Eswatini Project, active over 2026–2031 with a digital-sector commitment of about US$20 million](https://projects.worldbank.org/en/projects-operations/project-detail/P508948), covering broadband deployment, government service platforms and the enabling environment for the digital economy. The Ministry of ICT was [training cross-ministry change agents ahead of a 2027 rollout of the E1.2bn (about US$65m) programme](https://independentnews.co.sz/45098/business/ict-trains-change-agents-for-e1-2bn-digitization-project/) in June 2026. The Bank's own [concept paper of June 2025 printed the operation at US$65.16m proposed, with appraisal and Board approval both given as estimated dates](https://documents1.worldbank.org/curated/en/099062825152022388/pdf/P508948-c554abd8-33f6-48f0-87f8-1d3c340f194c.pdf).
 
 The earlier money is smaller, and mostly either spent or still waiting to move. About [US$5 million for the Eswatini IFMIS and PFM Capacity Building Project](https://projects.worldbank.org/en/projects-operations/project-detail/P159628) rolled the Integrated Financial Management Information System out to line ministries between 2020 and 2023, and is closed. A [World Bank health-system project appraised in May 2020 finances the electronic Community-Based Health Information System among its components](https://documents.worldbank.org/curated/en/667311591296915504), and stands at approval rather than disbursement. India's Export-Import Bank [signed a line of credit of about US$10 million to build a disaster recovery site for the national data centre under Phase 2 of the Royal Science and Technology Park](https://economictimes.indiatimes.com/news/economy/finance/exim-bank-inks-10-40-million-soft-loan-pact-with-eswatini/articleshow/81310064.cms) in 2021 — an agreement to lend, with no completed site behind it.
 

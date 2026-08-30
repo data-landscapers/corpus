@@ -1,12 +1,12 @@
 ---
 title: Somalia — progress report, August 2025 – August 2026
-compiled: 2026-08-27
-period: 2025-08-01 to 2026-08-27
+compiled: 2026-08-30
+period: 2025-08-01 to 2026-08-30
 place: SOM
 ledger_rows: 63
 not_held: 10
 indicators: 121
-record: 75765f1e54d2
+record: 8fde0181d7b9
 ---
 
 # Somalia: progress report, August 2025 – August 2026
@@ -15,7 +15,7 @@ This report asks the same set of questions of every country. The rows below are 
 
 Where a row reads ***No evidence***, the base holds nothing on that indicator. **That is a statement about this base, not about the country** — it does not mean nothing exists, only that nothing has been collected here yet. The rows that carry evidence say what it is; the rows that do not are left to speak for themselves.
 
-*The period is 2025-08-01 to 2026-08-27.*
+*The period is 2025-08-01 to 2026-08-30.*
 
 **Progress values.** *Advanced* — a system entered service, a stage was completed or an instrument was made. *Stalled* — a stated target passed without delivery. *Regressed* — an instrument was withdrawn or neutralised, or a reported position worsened. *Mixed* — the indicator's instruments moved in different directions in the period; the clause after the comma names which moved which way. *No change* — the base holds a standing position and nothing in the period touched it. ***No evidence*** — the base holds nothing on this indicator at all. A value may carry a qualifying clause after a comma, as in *Advanced, regulations still pending*.
 
@@ -34,7 +34,7 @@ Where a row reads ***No evidence***, the base holds nothing on that indicator. *
 | Strategies, plans and policies | Data governance policy |  | ***No evidence*** |
 | Strategies, plans and policies | Open data policy |  | ***No evidence*** |
 | Legislation and regulation | Data protection legislation | A [Data Protection Act](https://www.techhiveadvisory.africa/insights/review-of-somalias-data-protection-act-and-implementing-regulations) has been in effect since March 2023, and a [regulatory framework under it](https://techafricanews.com/2026/01/08/somalia-advances-digital-governance-with-approval-of-public-data-protection-regulation/) was approved by the Council of Ministers in January 2026 and adopted the following month. <details><summary>Full record</summary>The Act has been in effect since 23 March 2023 and its implementing regulations were reviewed ([Act](https://www.techhiveadvisory.africa/insights/review-of-somalias-data-protection-act-and-implementing-regulations)).<br><br>The regulatory framework was approved on 8 January 2026 and adopted in February ([approval](https://techafricanews.com/2026/01/08/somalia-advances-digital-governance-with-approval-of-public-data-protection-regulation/), [adoption](https://itweb.africa/article/somalia-adopts-data-regulatory-framework/)).<br><br>A statute in force since 2023 with regulations adopted in 2026 and an authority taking its first nationwide enforcement step in June puts this country ahead of several larger units in this frame on the sequence, if not on capacity.</details> | Advanced |
-| Legislation and regulation | Cybersecurity legislation | Parliament [approved a Cybersecurity Law](https://www.wearetech.africa/en/fils-uk/news/tech/somali-parliament-approves-cybersecurity-law-amid-rising-threats) on 26 January 2026, against a fifth-tier international cybersecurity index score. <details><summary>Full record</summary>The law was approved amid rising threats; the country ranked in the international index's fifth tier at 37.39 of 100 in 2024 and is a signatory to the continental cyber convention ([law](https://www.wearetech.africa/en/fils-uk/news/tech/somali-parliament-approves-cybersecurity-law-amid-rising-threats)).<br><br>The law's own text is not held, and no implementing regulation, commencement date or enforcement action is on record. What followed it in the same year — an incident response team in March, a risk management framework in July — is recorded separately and is institutional rather than legal.</details> | Advanced |
+| Legislation and regulation | Cybersecurity legislation | The lower house [approved a Cybersecurity Law](https://nca.gov.so/somalias-parliament-approves-the-cybersecurity-law/) in January 2026, and the upper house [took only a first reading](https://www.dawan.africa/news/somalia-senate-holds-first-reading-of-cybersecurity-meteorological-agency-bills) on 29 August 2026. <details><summary>Full record</summary>The House of the People approved the law on 26 January 2026, assigning policy to the communications ministry, technical oversight to the regulator and obligations to critical-infrastructure operators ([approval](https://nca.gov.so/somalias-parliament-approves-the-cybersecurity-law/), [coverage](https://www.wearetech.africa/en/fils-uk/news/tech/somali-parliament-approves-cybersecurity-law-amid-rising-threats)).<br><br>The Upper House gave a six-chapter, 33-article cybersecurity bill its first reading on 29 August 2026, at the first sitting of its eighth term ([first reading](https://www.dawan.africa/news/somalia-senate-holds-first-reading-of-cybersecurity-meteorological-agency-bills)). The chamber's own published procedure requires three readings before a bill passes it ([procedure](https://senate.gov.so/laws/?lang=en)).<br><br>So the instrument is short of final approval, and nothing on file states whether the bill now before the upper house is the one the lower house approved in January. The country ranked in the international index's fifth tier at 37.39 of 100 in 2024 and is a signatory to the continental cyber convention ([index](https://www.wearetech.africa/en/fils-uk/news/tech/somali-parliament-approves-cybersecurity-law-amid-rising-threats)).<br><br>The law's text is not held, and no implementing regulation, commencement date or enforcement action is on record.</details> | Advanced, and the law is not yet through both chambers |
 | Legislation and regulation | Legislation covering digital id |  | ***No evidence*** |
 | Legislation and regulation | Digital payments legislation |  | ***No evidence*** |
 | Legislation and regulation | Legislation enabling data interoperability |  | ***No evidence*** |

@@ -1,11 +1,11 @@
 ---
 title: Gambia — monthly update, July – August 2026
-compiled: 2026-08-29
-period: 2026-07-01 to 2026-08-29
+compiled: 2026-08-30
+period: 2026-07-01 to 2026-08-30
 place: GMB
 ledger_rows: 30
 not_held: 13
-record: 1efa63cbc2ee
+record: ddf50146072f
 ---
 
 # Gambia: monthly update, July – August 2026
@@ -37,7 +37,7 @@ The body that carries both of the country's information statutes surfaced in the
 <!-- narrative: governance--gov-regional -->
 The revenue authority [hosted the seventh ATAF Heads of Tax Administrations Master Class in Banjul on 23-24 July 2026](https://www.gra.gm/news/74649367-8629-11f1-b086-029254d29bb1). The Forum's executive secretary argued from Rwanda, Kenya and Morocco that digital systems deliver only alongside governance reform — "technology alone collects nothing" — and [pressed for a united African position at the United Nations](https://foroyaa.net/african-tax-officials-meet-in-gambia-to-strengthen-revenue-mobilisation/).
 
-The bilateral channel that bears on connectivity moved from signature to work. The June 2026 telecommunications and digital-economy memorandum with Senegal [went into implementation around four priorities — connectivity, cybersecurity, skills and digital transformation — with the Senegalese telecommunications and digital minister travelling to Banjul to agree the first joint work, the two regulators having separately deepened cooperation on frequency coordination, service quality and cross-border roaming](https://www.wearetech.africa/fr/fils/actualites/tech/senegal-gambie-la-cooperation-numerique-se-concretise-autour-de-quatre-priorites). The structural case for it is the country's own: a limited terrestrial fibre build and dependence on a single submarine cable for international access, with only limited terrestrial redundancy through Senegal. No work programme, budget or timetable is published.
+The bilateral channel that bears on connectivity moved from signature to work. The June 2026 telecommunications and digital-economy memorandum with Senegal [went into implementation around four priorities — connectivity, cybersecurity, skills and digital transformation — with the Senegalese telecommunications and digital minister travelling to Banjul to agree the first joint work, the two regulators having separately deepened cooperation on frequency coordination, service quality and cross-border roaming](https://www.wearetech.africa/fr/fils/actualites/tech/senegal-gambie-la-cooperation-numerique-se-concretise-autour-de-quatre-priorites). The structural case for it is the country's own: a limited terrestrial fibre build and dependence on a single submarine cable for international access, with only limited terrestrial redundancy through Senegal. No work programme, budget or timetable is published. That work took its first steering-committee session at [Banjul on 29 August 2026](https://digitalmagazine.bf/2026/08/29/senegal-gambie-dakar-et-banjul-mettent-en-chantier-une-feuille-de-route-numerique-commune/), where the four priorities were settled as infrastructure and interoperability, cyber resilience, capacity building and regulatory harmonisation, with rural electronic-government access named among them. No timetable, budget or named deliverable is attached to any of the four.
 <!-- /narrative -->
 
 ## Finance
