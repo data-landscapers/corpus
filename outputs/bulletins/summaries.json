@@ -2213,5 +2213,25 @@
     "published": "2026-08-29",
     "written": "2026-08-29",
     "summary": "The President directed the finance minister on 28 August to coordinate a forensic audit of the federal payroll system and the payroll, pension and financial-management platforms around it, tracing how ineligible people were enrolled and examining the interfaces with the government financial management system and the Treasury Single Account. A second component is a definitive inventory of every federal agency and its legal basis. No auditor, budget or reporting date is stated."
+  },
+  "2026-08-30-electricity-tariff-overview": {
+    "published": "2026-08-30",
+    "written": "2026-08-30",
+    "summary": "The energy regulator's tariff page sets out its mandate to set and review retail and bulk electricity tariffs. It names no data-centre or large-load category, which dates an absence Corpus had previously recorded only as unsearched: the country is building data centres against a tariff schedule that does not distinguish them."
+  },
+  "2026-08-30-government-digital-payments-and-ecitizen": {
+    "published": "2026-08-30",
+    "written": "2026-08-30",
+    "summary": "The Treasury's Government Digital Payments Unit sets out the origin of the country's payments-into-government programme: a 2013 survey found more than a third of receipts still cash-based, a presidential directive that November ordered all payments into government digitised, and a taskforce was gazetted in April 2014. The unit's stated mandate is to digitise every payment into government, raising collection and cutting its cost."
+  },
+  "2026-08-30-integrated-financial-management-information-system": {
+    "published": "2026-08-30",
+    "written": "2026-08-30",
+    "summary": "The National Treasury's financial management system, which moves public money from budget to payment, publishes its own site. It sets out six components spanning budgeting, procurement, revenue, reporting and support, alongside a supplier portal and a training academy; no coverage of ministries and counties, transaction volume or audit finding against it appears there."
+  },
+  "2026-08-30-integrated-population-registration-service": {
+    "published": "2026-08-30",
+    "written": "2026-08-30",
+    "summary": "The State Department for Immigration and Citizen Services publishes a page for the service that holds the country's population register, the one queried when an agency needs to confirm who someone is. What the register holds, which bodies may query it and on what basis are not stated on it — a gap that matters more now that the electoral commission has confirmed it verifies voter data against the registration bureau."
   }
 }
