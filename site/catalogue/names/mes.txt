@@ -14,6 +14,7 @@ Addis MESOB	7887,1644
 Addis Mesob Digital One-Stop Government Service	7463
 Alert Messages	7988
 Anos Meses Dias	11530
+Asynchronous Messaging	12359
 Auditor General H.E. Mrs. Meseret Damtie	7054
 Authority SMS Short Message Service TV	2776
 B. Mesure	5630
@@ -30,6 +31,7 @@ CRVS Key Message	12064
 Cadre de Mesure de Rendement	10712
 Cadre de Mesure de Rendement CO Contrats	10712
 Card Replacement Message	8999
+Categories of Payment Messages	12364
 Chapitre III Mesures	308
 Chpter Mesongo Sibuti	10464
 Citizen SMS Short Message Service UIN	10812
@@ -60,7 +62,7 @@ Ethiopia’s MESOB One Stop Service	7820
 FDRE MESOB SERVICE The New Horizon	10709
 FDRE MESOB Service Achieves	10709
 FNB's Meshack Ndwandwe	2285,9,26,249,245,725,1420,15,4,352,360,114,242,17,15,24,145,11,245,323,24,7
-Facebook Messenger	5679,567,722,1923,1106
+Facebook Messenger	5679,567,722,1923,1106,2481
 Facebook Twitter LinkedIn Pinterest Messenger Messenger	3954,1817,84,268,178,427
 Fayda Digital ID and MESOB	10516
 Federal MESOB Service Center	7887
@@ -75,6 +77,8 @@ ISO20022 Global Messaging Standard	11994
 Intermédiation Financière Indirectement Mesuré	9276
 International A2P Messaging and Firewall Solution	7315
 J. Messe	10775
+Java Messaging	12364
+Java Messaging Service	12364
 KEY MESSAGES	11271
 Key Message Key Takeaways	3840
 Key Messages	6418
@@ -149,6 +153,7 @@ Mesas da Atualização	11561
 Mesdames	2695,6942,1,1285
 Meserole	2117,401,2724
 Meses Perpetrada	10777
+Mesfin Nigatu AI	12379
 Mesfin Tafesse	1860
 Mesh Alloys	10464
 Mesh Alloys Mesh Alloys	10464
@@ -168,31 +173,38 @@ Mesongo Sibuti	9467
 Mesongo Sibuti Mesongo Sibuti	10464
 Mesoscale Model	9475
 Mesoud Mohammed	1824,10431
-Message	582,4694,1670,258,1795,1777,507,669,3,259
+Message	582,4694,1670,258,1795,1777,507,669,3,259,150
 Message Development Workshop	12241
 Message Development Workshop A Civic Education	12241
 Message Fenella Frost Resident Representative UNDP	12214
+Message Flows and Technical Specifications Documents	12364
+Message Formats	12359
 Message From Ghana Statistical Service	582
 Message From Sustainability Executive	9103
 Message Kindly	5903
+Message Priorities	12364
+Message Priorities TTC Priority Default Range	12364
 Message Royal	8891
+Message Service ESWASA Eswatini Standards Authority	12395
 Message Service Traffic	2775
 Message Services Traffic	2775
 Message Structure	21
 Message Structures Service Point Application Enterprise	21
 Message Type	11276
+Message Type TTC Types MT298 SMT	12364
 Message du Camarade Capitaine Ibrahim Traoré	3395,3488
 Message of Support	10453
 Messagerie	3381,6643
 Messagerie Collaborative	9049
 Messageries	10389
-Messages	21,1015,8580,178,2181
+Messages	21,1015,8580,178,2181,384
 Messages Forwarded	11955
 Messages Received	11955
-Messaging	3898,1623,579,2899,617,1177,1207,269,1
+Messaging	3898,1623,579,2899,617,1177,1207,269,1,89
+Messaging and Routing Transactions	12359
 Messamena	8737
 Messamendongo	10975
-Messenger	582,1922,1,1413,1,1,1544,8,4144,773,470,116,205,822,140
+Messenger	582,1922,1,1413,1,1,1544,8,4144,773,470,116,205,822,140,299
 Messenger Services	10819
 Messer	8460
 Messier M	10775
@@ -241,6 +253,7 @@ Mustapha Ben Messaoud	3000
 N. Mesrobian	11140
 NATURE DE L’EFFET TYPOLOGIE DE MESURES	1005
 NATURE DE L’EFFET TYPOLOGIE MESURES	1005
+NISR SUMMARY OF KEY MESSAGES	12445
 NUMBER OF SMS MESSAGES LOCAL	3862
 National ID MESOB	12215
 National MEST	4126
@@ -251,6 +264,11 @@ OSGF’s Email Address Can’t Receive Messages	10034,231
 Oromia MESOB	7887
 PR CAMPAIGN SMS Messaging On-going On-going	8999
 PREPAID AND POST-PAID VOICE AND MESSAGING	11211
+Payment Message	12364
+Payment Message Format	12364
+Payment Message Priorities	12364
+Payment Message Priorities The Participants	12364
+Payment Message Processing	12364
 Project Coordinator Ato Mesfin Dabi	12195
 RECOMMANDATIONS LIEES AU MESR	2966
 REPUBLICA DE GUINEA ECUATORIAL MES	163
@@ -259,11 +277,16 @@ Recommandations Mesures	1005
 Reddit Linkedin Messenger Telegram VK Bluesky	9608,208,16
 Reference Polyakova and Meserole2019	2117
 Responsibility for Data MESRSIT	11905
+Return Message	12364
 SECRETARIO DE MESA Y DEL PLENO	4209
+SMS Messages. The Notification Engine	12359
 SMS Short Message Service SSA Sub-Saharan	6946
 SMS Short Message Service UN United	10765,10
 SMS Short Messaging Service TEAMS	6671
 SMS Short Messaging Services Figure	582
+STP Message Format Specifications	12364
+SUMMARY OF KEY MESSAGES	12445
+School About Message	12407
 Secretario de Mesa	4209
 Secretarios de Mesa	4209
 Secure and Monetise International A2P Messaging	7315
@@ -271,7 +294,7 @@ Send Message Contact Information Our Office	12211
 Sending False Messages	3383
 Sending Offensive Messages	3383
 Seynabou Messou	11653
-Short Message Service	34,10050,728
+Short Message Service	34,10050,728,1583
 Short Message Service VoIP	6000
 Short Message Services	2776
 Short Message Tangaza University. Services	2775
@@ -282,6 +305,7 @@ Short Messaging Services SNA System of National	2775
 Should the MES	11228
 Suprema Justicia Ministro de Estado Vocal de Mesa	4209
 Swatini. Messages	10263
+Synchronous Messaging	12359
 TDD Topology P-MP P-P Mesh AP-MP	736
 Takeaway Messages	4439
 Tesh Mbaabu and Mesongo Sibuti	10464

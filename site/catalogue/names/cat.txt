@@ -1,4 +1,5 @@
 A. Categorisation	7845
+A. TARIFFS FOR ALL CUSTOMER CATEGORIES	12436
 ACK St Paul's Cathedral Church Data	7167
 ACTUAL ACTUAL CATEGORÍA Certificado de Actualización PE	4209
 ACTUAL CATEGORÍA MINISTERIO CONCEPTO	4209
@@ -13,12 +14,14 @@ ARCHERS POST CATHOLIC HEALTH CENTRE Data	7167
 ASSUMPTION OF MARY ITHANGA CATHOLIC HOSPITAL	7167
 Abdellah Deguig Catégorie	8891
 Abhishek Jadhav Categories Biometrics News	9827
+Admin Category	12465
 AfricInvest and Cathay Innovation	945
 AfricInvest and Cathay Innovation. Invests	612
 All Saints Cathedral Primary School Data	7167
 Approval Last Approved Rating Risk Category	2712
 Approval Risk Category Approval Package	4688
 Assessment Category BASIC INFO TABLE C-Not Required Country	11855
+Asset Addition Categories	12445
 Authority. A Category	2913
 Awasi Catholic Mission Health Centre Data	7167
 Ayang Macdonald Categories Access Control	3623
@@ -28,6 +31,7 @@ BANDE DE FREQUENCE CATEGORIE SIGNATURE CNPC	998
 BARICHO CATHOLIC HEALTH CENTRE Data Controller	7167
 BARICHO CATHOLIC HEALTH CENTRE Data Processor	7167
 BCMS CAT CGI CT DADF DC	10858
+BFA Catalyst Fund	12339
 Bata Por Catalina Obono Mba Nchama	11633
 Big Cat Alliance and Global Biofuels Alliance	2787
 Big Data Analytics CATHSSETA	6832
@@ -65,7 +69,7 @@ CATEGORIES OF AUTHORISED FM STATIONS	2776
 CATEGORIES OF COMPANIES AND MODIFIED APPLICATIONS	3714
 CATEGORIES OF DATA Certain	961
 CATEGORISATION OF CO-OPERATIVE SOCIETIES SN Category	7845
-CATEGORY	12253
+CATEGORY	12253,136
 CATEGORÍA	4209
 CATEGORÍA COMERCIO CUOTA ANUAL Ficha	4209
 CATEGORÍA COMERCIO Certificado de Comercio	4209
@@ -95,6 +99,7 @@ CATHOLIC DIOCESE OF NYAHURURU-POPE BENEDICT XVI	7167
 CATHOLIC DISPENSARY DIMESSE SISTERS Data Controller	7167
 CATHOLIC DISPENSARY MAKINDU Data Controller INST-932430E05A9	7167
 CATHOLIC HOSPITAL WAMBA Data Processor INST-503288E3328	7167
+CATHRINE T. NENGOMASHA	12325
 CATTY MEDICAL CLINIC LIMITED Data Controller	7167
 CATÉGORIE DES	10087
 CATÉGORIES INSTITUTIONS ROLES ET RESPONSABILITES Organes	11944
@@ -131,12 +136,12 @@ Catalyst	226,6880,5180
 Catalyst Fund	4972,2607,1569
 Catalyst for Inclusive E-Commerce	7860
 Catalysts	10464,685,157
-Catalytic	4185,2227,5177,708
+Catalytic	4185,2227,5177,708,147
 Catalytic Agents	2957
 Catalytic Are Political Development and Corruption	1828
 Catalytic First Loss Guarantee	8937,1,141
 Catalytic First Loss Guarantee Program	8938,141
-Catalytic Fund	3385
+Catalytic Fund	3385,9033
 Catalytic Policies	3861
 Catalyzed	12241
 Catalyzing	1914,7845
@@ -148,7 +153,7 @@ Catastro Minero	9303
 Catastrophic	5665,3458
 Catastros	4209
 Catcher	9123
-Catching	8126,3437
+Catching	8126,3437,806
 Cate and Mayer-Schönberger	8436
 Cate-	2775
 Catedral Metropolitana	4209
@@ -170,24 +175,28 @@ Categorias de Rendimento da DPR	12018
 Categorias de Rendimentos	12018
 Categorias de Rendimentos da DPR	12018
 Categorical	7451,832
-Categories	236,725,808,158,394,69,147,190,314,29,444,200,89,84,405,409,63,62,29,258,29,2,181,75,100,80,96,217,309,86,83,128,44,403,62,56,47,32,823,317,153,167,1,1,34,201,44,369,715,110,55,272,846,616,20,1,7,44,84,131,5,44,99
+Categories	236,725,808,158,394,69,147,190,314,29,444,200,89,84,405,409,63,62,29,258,29,2,181,75,100,80,96,217,309,86,83,128,44,403,62,56,47,32,823,317,153,167,1,1,34,201,44,369,715,110,55,272,846,616,20,1,7,44,84,131,5,44,99,36,3
 Categories Consultancy	9893
 Categories Cybersecurity Allan Juma	9830
 Categories Information Technology	9892
 Categories News	9936
 Categories Security	10759
 Categories Startups When Africa	10010
-Categories Sub-categories	10835,3,130,902,16
+Categories Sub-categories	10835,3,130,902,16,466,1
 Categories Tech and Innovation Every	10015
 Categories and Sub-categories	11889,274
 Categories of Eligible Expenditures Category	10964
+Categories of Participants	12364
+Categories of Payment Messages	12364
 Categories-	9399
+Categorisation	12333
 Categorised	8243
 Categorization	11863
 Categorization Does	11863
 Categorization of Lamu Basin Blocks Category Blocks	12256
 Categorização	3519,2943
-Category	969,250,9,36,20,1189,1,301,1,137,1983,76,33,129,303,718,384,407,749,895,241,9,283,447,46,854,289,9,8,53,6,2,1,74,52,4,224,142,215,306,8,5,2,16,1,1,1,173,90,1,1,9,114,20,7
+Categorizing	12445
+Category	969,250,9,36,20,1189,1,301,1,137,1983,76,33,129,303,718,384,407,749,895,241,9,283,447,46,854,289,9,8,53,6,2,1,74,52,4,224,142,215,306,8,5,2,16,1,1,1,173,90,1,1,9,114,20,7,33,3,1,11,1,20,59
 Category A1	11868
 Category A2	11868
 Category Allocated Financed	11525
@@ -204,12 +213,15 @@ Category Findings Relevant Scores and Statistics Data	12210
 Category Foreign Currency	11863
 Category Grant Allocated Financed	2474
 Category HQ Location Digital Africa	4972
+Category I Sub-regional Offices	12337
+Category II	12337
 Category Licence Category FY	6946
 Category Not Required	11924
 Category One and Category Two Authorised CASP	8840
 Category Points Qualification and Skills	962
 Category Qualifying	11855
 Category Respondents	11138
+Category Risk Bytes Percent Secure Socket	12395
 Category Score	11138
 Category Submitted	10819
 Category Tenure Application Fee Landing Rights	10407
@@ -221,6 +233,7 @@ Category and Sex1	2775
 Category for Major Routes	2830
 Category of Complaints Received	12062
 Category of Institution	2775
+Category of Movable Assets	12389
 Category1	2775
 Catena-X	7313
 Catena-X Organization Chart.pdf	7313
@@ -247,7 +260,7 @@ Catherine Savery	5807
 Catherine Wanjala	12227
 Catherine and Donatienne	3852
 Catholic	5889,4940,1087
-Catholic Church	12201
+Catholic Church	12201,210
 Catholic Commission for Justice	2993
 Catholic Diocese of Malindi Data Controller INST-181078796C8	7167
 Catholic Diocese of Nakuru Data Controller INST-454011F253C	7167
@@ -256,6 +269,8 @@ Catholic Organization for Relief and Development Aid Data	7167
 Catholic Relief Services	6903
 Catholic Relief Services Data Controller INST-565076B2C51	7167
 Catholic University of Eastern Africa	6946
+Cathrine Nengomasha	12325
+Cathrine T. Nengomasha	12325
 Cathy O’Neil	571
 Cathy and Adea Kryeziu	10964
 Catija Issumalgy Abdula	2816
@@ -302,6 +317,7 @@ Closed Current EA Category Original EA	11924
 Closing the Loop Catherine Otono	11033
 Collocation and Infrastructure Sharing Operator Category	3862
 Collège Catholique Cours de Soutien	10821
+Combined Category of Movable Assets	12389
 Commercial Catalogue	1011
 Common Data Categorisation and Sharing Framework	961
 Compliance Level Monitoring Category Core Requirements	11952
@@ -310,6 +326,7 @@ Coordenador Manuel Artur Catende	10757
 Cotonou Catholic Relief Services	10821
 Courts Prosecuting Cat Matlala	3962
 Current Expenditure Category	1228
+Customer Categories	12436
 Customer Category	2775
 D D.1 Categoria D.1	12018
 D.2 Categoria D.2	12018
@@ -330,9 +347,11 @@ Data Centre. Cat	12253
 Data Controller Category Tier	1877
 Data Protection Officer Categories	6792
 Data Science Catalytic Fund	392
+Data Usage Summary Category Total Data	12395
 Datasharing Categories	8606
 Date Environmental Assessment Category	11525
 Definition of Customer Categories Individual	5687
+Demographic Category of PWDs	12460
 Developing Telecoms Details Vaughan O'Grady Category	5908
 Development of Bank Categorization Large Banks Medium-sized	11960
 Devices and Terminals No Category of Q2	2776
@@ -349,13 +368,14 @@ EDT Lu-Hai Liang Categories Biometric R&D	9713
 ENVIRONMENT Categorised B	1818
 Economic Category BeTA Bottom-up Economic Transformation	2775
 Editorial Team Category	5289
+Electronic Green Catalogues	12389
 Emma Catalfamo	11004
 Endeavor Catalyst	4457,2071,2616
 Enhanced Category	6074
 Enquiries Handled Category Total Received Resolved	6946
 Environmental Assessment Category	12137
 Event Category	10235
-Expenditure Categories	11525
+Expenditure Categories	11525,920
 Expenditure Category	2775
 Exterior Nº Categoría de Funcionario Público Monto	4209
 Ezulwini Catholic Primary School	11134
@@ -379,6 +399,7 @@ Girls’ Category	9014
 Global Fund Data Science Catalytic Fund	392
 Global Ventures and Endeavor Catalyst	2310
 GovZAUpdates Event Category Issued	11225
+Government of Rwanda Category	12398
 Health Catalytic Fund	11589
 Holders of Category	11960
 Huawei Safe City Angola. Cat	645
@@ -388,9 +409,13 @@ IDA Under Category	10964
 IFC Catalytic First Loss Guarantee	8937
 INSTITUTO GEOGRAF. Y CATASTRAL.- Concepto	4209
 INSULAR Y CONTINENTAL CATEGORIA ACTIVIDAD CUOTA	4209
+IRC Information Resource Catalogue IT Information	12359
 Igreja Católica	11537
+Immediate Catalytic	12444
 Impact Categories Amongst VC Deals	4972
+Income Categories	12445
 Individuals Merchants Retail Agents and Category Lite	5687
+Industry Category	12436
 Infrastructure and Rural Economy. Category	11887
 Interim President Catherine Samba-Panza	10837
 Investment Incentives Investment Categories PUBLIC SECTOR	11857
@@ -436,6 +461,7 @@ NASA Harvest's Catherine Nakalembe	5367
 Nairobi. Facilitators Catherine Otieno and Egline Samoei	11018
 National AI Strategy Ecosystem Category	4528
 National Product Catalogue	3400
+News Categories News Stories Press Release	12465
 No. Category Allocation Committed Allocation	2473
 No. DESCRIPTION TENDER NO. Category Closing	1638
 No. Licence Category	9335
@@ -447,7 +473,7 @@ Occupational Category	7151
 Official Use Only Risk Category Rating	11469
 Official Use Only Risk Category Risks	11469
 Otmane Gair Catégorie	8891
-Overall Governancep.7 Category	10838,1032
+Overall Governancep.7 Category	10838,1032,482
 PAR CATÉGORIE AU	3396
 POBLADOS CATEGORÍA MINISTERIO CONCEPTO ACTUAL CATEGORÍA	4209
 PRIMERA CATEGORIA	4209
@@ -469,6 +495,7 @@ REGIONES CATEGORÍA MINISTERIO CONCEPTO ACTUAL CATEGORÍA	4209
 RESIDUAL AND CATCH-ALL SAFEGUARDS	3861
 Reallocation of Funds Across Disbursement Categories	4653
 Reference Cate and Mayer-Schönberger2013	8436
+Registration. Category	12349
 Regulation Is Catching Up	9112
 Reinstated Broadcast Licences License Category FY	6946
 Religião Católica	10777
@@ -487,7 +514,7 @@ Rubaga Cathedral	4954
 SEGUNDA CATEGORIA Oficina	4209
 SEP Budget Table Budget Category	1778
 SSVP St Christopher Catholic Church	11204
-SYSTEMATIC OPERATIONS RISK-RATING TOOL Risk Category	6579,349,949,2993,1101,17,240,39
+SYSTEMATIC OPERATIONS RISK-RATING TOOL Risk Category	6579,349,949,2993,1101,17,240,39,173
 Saad Sefrioui Catégorie	8891
 Sabas SONOU AGOSSOU Environmental and Social Category	11863
 Sample Budget and Capacity Audit Templates Category	3861
@@ -504,11 +531,14 @@ Secretario de Estado de Catastro	1855
 Selected Categories of Commodities	2775
 Senegal Category	9134
 Sep-2022 Portal EA Category	11924
+Service Catalog	12359
+Service Catalog Hosted	12359
 Seychelles Details Vaughan O'Grady Category	2511
 Short List of National Consultants Prior Category	11525
 Short List of National Prior Consultants Category	11525
 Special Categories	3861
 Staff Trained Across Various Categories	6946
+Stakeholder Categories	12356
 Stakeholder Categories Stakeholders	7548
 Stats SA. Stats SA Library Cataloguing-in-Publication	11258,28
 Still Catching Up Nigeria	8088
@@ -525,6 +555,7 @@ TESORO PÚBLICO CATEGORÍA MINISTERIO CONCEPTO MINISTERIO	4209
 TESORO PÚBLICO MINISTERIO CONCEPTO CATEGORÍA	4209
 TM Forum Catalyst	7490
 Tariff Category	9409
+Tariff Category Facility Charge	12394
 Thami Abderrahmani Ghorfi Catégorie	8891
 Thematic Categories Macroeconomic Stability Trade Openness	5247
 Threshold Category Open Open Short List	11855

@@ -103,7 +103,7 @@ CPF Implementation	11469
 CPF Intervention Logic and Results	11468
 CPF Mwamba Trust Fund Data Controller	7167
 CPF Mwamba Trust Fund Data Processor	7167
-CPF Objective	6539
+CPF Objective	6539,5887
 CPF Outcomes and Indicators CPF Outcome CPF	11469
 CPF and FCV	10829
 CPF and Rationale for Use	12176
@@ -171,6 +171,8 @@ CPU’s. Minimum Requirement of Compute Modules Dual	11209
 CPV-2025-run-2026-08-03.md	1339
 CPV-journals.csv	2945
 CPVs Business	9893
+CPs EGD	12453
+CPs MoTL- OEMS	12453
 CTO and CPO	5124
 California Consumer Privacy Act CPTPP Comprehensive	1243
 Cape Town CPT1	595,1,6195

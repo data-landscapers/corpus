@@ -3,6 +3,7 @@ A. Ramkilowan	11140
 A.H. and Rappert	12090
 AAOUJ-08-2021-0084 Sohail Raza Chohan	1248
 ACHPR Special Rapporteur Remy Ngoy Lumbu	8713
+ACRONYMS CBR Crude Birth Rate	12367
 AD3 Rapport	10965
 ADB KEY FINANCING INFORMATION Interest Rate	11863
 AFRINIC's Legal Counsel B. Radhakissoon	9612
@@ -21,10 +22,11 @@ AMR Rapports	10712
 AMUMPAIRE RAYMOND	3307
 ANNUAL CHANGE IN ELECTRICITY ACCESS RATES	11572
 ANTI-CORRUPTION HEALTH Rank	10838
-ANTI-CORRUPTION Rank	10759,78,131,902,16
+ANTI-CORRUPTION Rank	10759,78,131,902,16,454,12
 ARCEP RAPPORT ANNUEL	998
 ARCEP. Rapport Annuel	10856
 ARTCI and Raxio Côte	3139
+ASBR Age-Specific Birth Rate ASFR Age-Specific	12413
 ASFR Age Specific Fertility Rates ASPs	2775
 ATB Ranking Oct	5247
 ATRIBUIÇÃO DE LICENÇAS RADIOELÉTRICAS	11531
@@ -83,8 +85,12 @@ Afrique du Nord Rapport	7655
 Age Female Male Sex Ratio	12151
 Age Range and Gender Distribution	11955
 Age Range and Gender Distribution Chart	11955
-Age Specific Fertility Rate	12151
+Age Specific Fertility Rate	12151,262
 Age Specific Fertility Rates	12151
+Age Specific Marriage Rates	12413
+Age-Specific Fertility Rate	12413
+Age-Specific Fertility Rates	12413
+Age-Specific Mortality Rate	12413
 Age-Specific Mortality Rates	12151
 Agence RAPPORTS	10975
 Agency SARAO South African Radio Astronomy	5246
@@ -132,7 +138,7 @@ Applicable Rates and Collection of Tax	8590
 Appointment of Directors Rationale	8866
 Appropriation Medium Term Expenditure Framework Rand	5533
 Approval Date Social Risk Rating	3604
-Approval Last Approved Rating Proposed Rating	10870,1101,257,39
+Approval Last Approved Rating Proposed Rating	10870,1101,257,39,173
 Approval Last Approved Rating Risk Category	2712
 Archive Subscribe Now Desert Radio Podcast	11122
 Argentina RAPPALLINI	6613
@@ -150,6 +156,7 @@ Associação Moçambicana de Doenças Raras	10188
 Assoua Raymond	4149
 Athletics Gauteng North Championships.1.4. Rassie Erasmus	2626
 Atlantique RAPPORT ANNUEL	998
+Attendance Rate	12431
 Aude Pascale Rabault	1901
 Audit Committees. Raising	789
 Audited Rm Raised Repaid	10793
@@ -158,6 +165,10 @@ Authority KRC Kenya Railways Corporation KRCS	2775
 Authority’s Radio Frequency Spectrum Management Directive	762
 Availability Ranking Level	9123
 Avaliacao Rapida	574
+Avatar of RAFSix	12478
+Avatar of Rainexn0b	12478
+Avatar of Raldo23	12478
+Avatar of RaoulBock	12478
 Avec la RAF	6889
 Average Default Rates	10718
 Average Exchange Rates.pdf Powercom Powercom	1944
@@ -171,6 +182,7 @@ Aziza Sultan Al Rashdi	10764
 Azrin Rahim. Joseph Rebello	10977
 Aïssetou Raymonde NANEMA	8321
 B Often C Sometimes D Rarely	5679
+B Ras El-Hikma	12339
 B. Broadcasting Sector Radio	2022
 B. Radhakissoon	10079
 B. Rationale for Restructuring	1228,3425
@@ -236,6 +248,7 @@ Build Resilience of People and Ecosystems Rationale	11469
 Burkina Faso. Rama Diallo Lefaso.net	5491
 Burkina. Oumarou RABO	4399
 Bus Rapid Transit	2342,4474,508
+Business Enterprise Usage of Rwandan-sourced Raw Materials	12445
 Business RATING BASIC STAGE Malawi	12214
 C. EFFICIENCY Assessment of Efficiency and Rating Rating	11924
 C. RATIONALE FOR BANK’S INVOLVEMENT	11863
@@ -243,13 +256,15 @@ C. Rationale for Bank’s Involvement C.1	11863
 C4IR RAIO	1204
 CAF Radar	2159
 CAGR Compound Annual Growth Rate CCG	1818
-CAGR Compound Annual Growth Rate CapEx	10781
+CAGR Compound Annual Growth Rate CapEx	10781,1646
 CAMHYDRO Concession Attente RAS En	10975
 CAPTAIN RAY SECURITY LIMITED Data Controller	7167
 CARACTERE PERSONNEL RAPPORT D’ACTIVITES	10821
 CBC Radio-Canada	10293
 CBE Order. Interest Rate Risk Interest	11131
 CBE Sports Club Chairperson Raymond Mamba	11131
+CBR Crude Birth Rate CDR Crude	12413
+CDR Crude Death Rate	12367
 CEO Mohale Ralebitso	5052,1660
 CEO Ralph Mupita	6563,4558,210
 CEO of Rack Centre	2595,4471
@@ -288,6 +303,8 @@ Cartwright Ramon	11136
 Casablanca Commuter Rail Line	4769,394,334,86
 Casablanca and Rabat	11723
 Casablanca-Settat and Rabat-Salé-Kénitra. Notably	3001
+Cash Collateral RA	12364
+Cash RA	12364
 Catégories Abdelmaksoud Rachdi Catégorie	8891
 Ce Rapport	10975
 Cell Tower Range	12006
@@ -306,6 +323,7 @@ Chief Accountant and RAPID-CI PCU	3604
 Chief Executive Officer Engineer Raphael Mushanawani.When	7312
 Chief Executive Officer Rationale This Article	8866
 Chief HP RA Others Key RCRO	12138
+Child Mortality Rate	12367,16,30
 Childhood Mortality Rates	12151
 China Chengxin International Credit Rating Co	7785,4024
 China Railway Construction Group	183
@@ -333,6 +351,7 @@ Commune de Ratoma-Conakry	7977
 Communication and Innovation Dr Avinash Ramtohul	7335,2961
 Communication and Innovation Minister Dr Avinash Ramtohul	7366
 Communications Minister Sidi Mohamed Raliou	2569
+Community Broadcasting Radio	12395
 Community FM Radio	6946
 Community Meetings Rationale	8866
 Community Radio	8999
@@ -341,8 +360,10 @@ Community Radio Reform Bill	5244
 Community Radio Stations	5244
 Community Radio Stations Syndication Nationwide	8999
 Community Radion Stations Community Radio Presence	8999
+Companies Rationale	12376
 Complaint Resolution Rate	5676
 Completed IFR RAPID-CI PCU	3604
+Completeness Rate	12367
 Completion Rate Intangible	11955
 Completion Rates	12199
 Compound Annual Growth Rate	9759,1452,948
@@ -374,6 +395,7 @@ Corporation CDR Crude Death Rate CECM	2775
 Cost Foreign Exchange Rate Fluctuation Adjustment	12256
 Cost Ratio	11417
 Cost Ratio Center	11417
+Cost Recovery Rate	12457
 Counselor Rabie Labana	11641
 Counter Ransomware Initiative	10689
 Country Access Rate	11136
@@ -384,8 +406,9 @@ Country Rankings	5247
 Country Rating	10840
 Coverage Rate Calculations Coverage	10714
 Critical Raw Materials	970
-Crude Birth Rate	12151
-Crude Death Rate	12151
+Crude Birth Rate	12151,216,16,30,58
+Crude Death Rate	12151,232,30
+Crude Marriage Rate	12367
 Cryp- Wiper Ransom- DDOS Other Months	1938
 Cultural Norms RATING OPPORTUNISTIC STAGE Technology	12214
 Current Year Ratio Capital	11134
@@ -440,7 +463,9 @@ Data Exchange RATING OPPORTUNISTIC STAGE Malawi	12214
 Data Mean Data Rate	5744
 Data Protection RATING SYSTEMATIC STAGE Malawi	12214
 Date Social Risk Rating	11417
+Death Rate CoD Cause of Death CR	12413
 Debt Pension Assets Ratio	11134
+Debt-to-Equity Ratio	12445
 Deep Tech Hub and Raxio Data Centre	5249
 Default Rates	10718
 Definition and Interpretation Rationale This Article	8866
@@ -489,6 +514,7 @@ Dr. the Hon. Avinash Ramtohul	12132
 Draft National Radio Frequency Plan	11259
 Draft Radio Frequency Spectrum Assignment Plans	7980,109
 Dropout Rate	12199
+Dropout Rates	12411
 Duha Rahahleh	10764
 Décentralisation Hanitra Velonjara Tiaray Rakotonandrasana	7995
 Décrets Ordonnances Lois Rapports Protocole	3675
@@ -502,7 +528,7 @@ E. Rationale for World Bank Involvement and Role	1264,9565,731
 ECOWAS Radio	4738
 ECOWAS. The RAVIP	10822
 EDT Raise	10293
-EDUCATION Rank	10759,78,1
+EDUCATION Rank	10759,78,1,1502
 EDUCATION SOCIAL PROTECTION INFRASTRUCTURE Rank	11870
 EGX Chairman Omar Radwan and ITDA Head	10498
 EGX Chairperson Omar Radwan	8770
@@ -513,9 +539,10 @@ ELON MUSK RACISTE	5022
 EMPIRICAL FOUNDATIONS AND RATIONAL BASIS	3861
 EMPIRICAL FOUNDATIONS AND RATIONAL BASIS Recital	3861
 EMTEL and Raphael Fishing	12132
+ENMR Early Neonatal Mortality Rate GFR	12413
 ENTREPRISES Rapport Annuel	2342
-ENVIRONMENT Rank	10835
-EQUALITY Rank	10759,78,1,130,918
+ENVIRONMENT Rank	10835,1517
+EQUALITY Rank	10759,78,1,130,918,454,12,1
 ERI RANK Senegal	12256
 ERR Economic Rate of Return ESF Environmental	10768
 ERR Economic Rate of Return ESMF Environmental	11525
@@ -536,6 +563,7 @@ Education Rank	11889
 Educators. Raising	12175
 Edéa DIRECTION DE RAS CONSTRUCTION RAS	10975
 Edéa Rapport	10975
+Effective Tax Rate	12389
 Egypt Leads Africa’s FDI Rankings	5163
 Egypt Records the Lowest Mobile Complaint Rate	11642
 Egyptian Tax Authority Head Rasha Abdel	10448
@@ -587,6 +615,7 @@ Exchange Rates.pdf MTC	1944
 Exchange Rates.pdf Subscribers	1944
 Executive Director of RACE Centre	8662
 Expedito Rafael	4994
+Exportation Duty Rates Exportation Of Goods	12454
 Eye Radio	3212,467,54,921,14,168,2611,414,70,1,137,1009
 Eye Radio Ateny	6006
 Eye Radio Author	6278
@@ -615,7 +644,8 @@ Farouk Rabiu-Mudi	3742
 Farouk Ramji	5218
 Favilli Raffaele. Project	427
 Favorable Raisons	1005
-Fertility Rate	12151
+Fertility Rate	12151,232,30
+Fertility Rate ASMR Age-Specific Mortality Rate	12413
 Fertility Rate TJ Tera Joules	2775
 Fidèle Rafalimanana	6828
 Fifa Rahman	7187
@@ -642,6 +672,7 @@ Forced Displacement. Justification of Overall Rating of Bank	11924
 Foreign Currency FIRR Financial Internal Rate	11863
 Foreign Exchange Rate Fluctuation Adjustments	12256
 Foreign Exchange Rates	1154,1621,276,1845
+Foreign Exchange Rates File	12454
 Foreign Exchange Rates. The Directors	4896
 Foreign Exchange Rates1	2775
 Forestry and Range	10477
@@ -664,7 +695,7 @@ Félix Tshisekedi. Rappelons	8345
 G RAN	5675
 G RAN. Targeted	1818
 G. A. Galicia Rabadan	11310
-GB RAM	34,8255
+GB RAM	34,8255,4075
 GB of RAM	8299
 GCI Ranking Framework	10848
 GDP Weaknesses Rank Code	11884
@@ -682,6 +713,8 @@ Galicia Rabadan	10714
 Gauge Railway	2775
 Gautrain Rapid Rail Link PPP	11248
 Gautrain Rapid Rail Link System	11248
+General Fertility Rate	12383,30
+General Fertility Rate HBCP Home-Based Care	12413
 General Manager Raxio DRC	11914
 General Manager Sales and Services Lebohang Ramaisa	3258
 General Manager of Raxio DRC	10506
@@ -693,6 +726,9 @@ Ghetto Radio	8095
 Ghz Total RAM	9475
 Global AI Research Ranking	4528
 Global Competitiveness Rank WEF	11379
+Global Innovation Ranking	12376
+Global Innovation Ranking of Zambia	12376
+Global Rank Firm Intensity	12355
 Global Ranking	11935
 Global Rapid Post-Disaster Damage Estimation	1228
 Go RAM	4735
@@ -711,10 +747,13 @@ Governor Dikko Umaru Radda	12125,10
 Governor Radda	3718
 Great AI Race	7548
 Great Data Race Beneath the Oceans	4676
+Gross Enrollment Rate	12411
 Gross Enrolment Rate	12175,24
 Gross Enrolment Rate GESD	12175
 Gross Enrolment Rates for ECD	12175
 Gross Intake Ratio GoM	12175
+Gross Reproductive Rate	12383
+Gross School Attendance Rate	12431
 Group President and CEO Ralph Mupita	10793
 Group Ranking	11935
 Growth NPL Ratio Bank Profitability Public	11134
@@ -730,7 +769,7 @@ H.E. RAO Hongwei	791
 H1-2025 RAPEX	3638
 HACHIMOU Hassane RAPPORT ANNUEL	998
 HDI-Human Development Index Ranking	11935
-HEALTH Rank	10759,78
+HEALTH Rank	10759,78,1503
 HEREBY ISSUES THE NATIONAL RADIOFREQUENCY PLAN	7850
 HON. MOHAMED RAHMAN SWARAY Minister of Information	1161
 Habitação Razão de Mortalidade Materna Vacina Contra	10777
@@ -748,6 +787,7 @@ Henry Raul Gonzalez Brito	10764
 Heritier Ramazani	9408
 High Priority Enabling Factor Challenges and Rationale	11907
 High Priority Rating Data and Evidence Challenge	11907
+Higher Tax Rates	12389
 Highest Rankings	12204,1
 Homeboyz Radio Gukena FM East FM	9646
 Hon Maropene Ramokgopa	4831
@@ -781,7 +821,7 @@ IMR Infant Mortality Rate IMT International	2775
 INC Ransom	7741
 INC Ransomware Group	6765
 INFRASTRUCTURE RIGHTS Rank	10968
-INFRASTRUCTURE Rank	10759,78,1
+INFRASTRUCTURE Rank	10759,78,1,1502
 INSIDER SUBSCRIPTION APP NEWSLETTERS PODCASTS RADIO	7343
 IP RAN	9529,3
 IP Rating Actual Disbursements	11924
@@ -806,16 +846,21 @@ Implementation Ranking	11935
 Implementation Rationale Bank	10779
 Import Dependency and Self-Sufficiency Ratios	2775
 Import Radiation Devices	718
+Importance of Rwandan Raw Materials	12445
 Imran Rasul	10964
 In-bundle Data Rates	11259
 In-bundle Data Rates Monthly	11259
 In-bundle Data Rates. Table	11259
 Incidence Rate	10780
 Included RAM Installed	34
+Including Their Rationale	12389
+Income Growth Rates	12445
 Income Ratio	6000
+Increase Electricity Access Rate	12399
 Incremental Capital Output Ratio	8891
 Indemnity and Insurance Rationale	8866
 Indicator Capital Adequacy Liquidity Ratio Credit	11134
+Infant Mortality Rate	12367,16,30
 Infant Mortality Rate and Neonatal	12138
 Inflation Rate and Current Account Balances for Selected	2775
 Inflation and Exchange Rate Volatility	6938
@@ -840,7 +885,7 @@ International Monetary Fund IQR Interquartile Range	11258
 International Ransomware Initiative	1777
 International Rare Diseases Research Consortium	10188
 Internet Fixe RAPPORT ANNUEL	998
-Internet Penetration Rate	6000
+Internet Penetration Rate	6000,6453
 Internet RAPPORT ANNUEL	998
 Interquartile Range	11258
 Intervenants Tâches Délai Rapporteur Analyse	10876
@@ -859,7 +904,7 @@ J. Ralyea	11140
 JUSTICE ACCOUNTABILITY Rank	10968
 JUSTICE EDUCATION Rank	10835
 JUSTICE RIGHTS HEALTH Rank	11886
-JUSTICE Rank	10759,78,1033
+JUSTICE Rank	10759,78,1033,470,12
 JUSTICE SUSTAINABLE ENVIRONMENT Rank	10838
 JUSTIFICATION AND RATIONALE	12240
 Jacquis Georges Rainimbahy	9340
@@ -913,15 +958,18 @@ Krisstina Rao	11006,1
 Kuandaa Rasimu	2868
 Kuito-l raw.dlis	11405
 Kundai Ngwena and Swaraj Ram	1814
+Kwacha-US Dollar Exchange Rate During Droughts	12376
 L Satellite Wide Ra Cable	9781
 L'Oiseau Rare	11015
 L'analyse des RAR	10858
 LABOUR ENVIRONMENT HEALTH Rank	10835
-LABOUR ENVIRONMENT Rank	10759,78,1049
+LABOUR ENVIRONMENT Rank	10759,78,1049,454
 LABOUR HEALTH PARTICIPATION ENVIRONMENT Rank	11870
 LABOUR PUBLIC ADMINISTRATION ENVIRONMENT Rank	10968
+LABOUR Rank	12352,1
 LE LITHIUM ET LES TERRES RARES	2342
 LICENCES OTHER THAN PRIVATE RADIO	736
+LNMR Late Neonatal Mortality Rate MAS2	12413
 LOWEST RATES OF ELECTRIFICATION	11572
 LTA's Revenue Secrecy Raises Transparency Questions	8955
 LTE RAN	5675
@@ -963,6 +1011,7 @@ Like AlgeriaAngolaBenin Tanzania’s Heavy Rainfall	9989
 Linda Bonyo and Rachel Adams. The AU	1814
 Line Gamrath Rasmussen	2615
 Literacy RA1	11905
+Literacy Rate	12395,36
 Lived Poverty Score Rank Public Procurement	11870
 Long Rains	2775
 Long Rains Season Assessment Report. Nairobi	7548
@@ -970,6 +1019,7 @@ Long Range Planning	2093
 Lourenco's Succession Race Heats Up	9399
 Low Learning Rate	11953
 Low Rate	12256
+Low Rationale	12376
 Low-carbon Strengths Rank Code	12205
 Lower Rand	11131
 Lowest Rankings	12204,1
@@ -1007,6 +1057,7 @@ MCDWD and Poverty Rate MCDWD	10763
 MD Mohale Ralebitso	2748,2648
 MEA Managing Director Santhosh Rao	9359
 MESURES DE RATIONALISATION DES ENGAGEMENTS Article	4420
+METHODOLOGY AND RATIONALISATION OF KEY CONCEPTS	12445
 METOD RADA	10780
 MHz Radio	736
 MICSTI Principal Secretary Kanono Ramashamole	7161
@@ -1035,6 +1086,7 @@ Make Model Frequency Range	736
 Make Model Operation Frequency Range	736
 Malawi GII Ranking	12204
 Male Female Both Sexes Rank Cause	12151
+Males Female Rank Cause	12413
 Mandla Radebe	10497
 Manigandan and Raghuram	9129
 Mansell and Raboy	11028
@@ -1067,12 +1119,14 @@ Mean Data Rate	5744
 Mean Monthly Foreign Exchange Rate	12256
 Measles Cases Maternal Mortality Rate	4202
 Measles Cases Maternal Mortality Rate Children	5352
-Measure Value Rank Unit GDP	10837
+Measure Value Rank Unit GDP	10837,1503
+Measurement and Unit Rate	12360
 Medical Director of Randle General Hospital	11968
 Medium Term Expenditure Framework R'000 Rand	11986
 Medium Term Outcomes Access RA1	11905
 Membership Rationale This Article	8866
 Merchant Discount Rates	5124
+Message Priorities TTC Priority Default Range	12364
 Methods of Radio Frequency Spectrum Licensing	762
 Metodologia de Avaliação da Prontidão RAM	2816
 Metre Gauge Railway	2775
@@ -1083,13 +1137,16 @@ Mheshimiwa Rais	2868,3151
 Mheshimiwa Rais Dkt. Samia Suluhu Hassan	2868,3151
 Mheshimiwa Rais. Aidha	2868
 Miangaly Ralitera	5995,833
+Miarintsoa Vonjy Rakotondramanana	12388
 Michael Aboneka and Raymond Amumpaire	4753
 Michaël Randrianirina	7555
+Microloan Rationale	12376
 Microwave Radio	3862
 Million Capital Raise Anchored	9735
 Million Raxio Data Centre	11914
 Millions and Penetration Rate	2776
 Min. Ramokgopa	4783
+Minimum Wage Rate	12389
 Mining City Radio	9111
 Minister Kgosientsho Ramokgopa	11215
 Minister Raafat Hindi	6569,2056
@@ -1115,6 +1172,7 @@ Mobile Voice Subscription and Penetration Rate	2776
 Mobile Voice Subscriptions and Penetration Rate	2776
 Mobile Voice Subscriptions and Penetration Rate Subscription	2776
 Mobile Voice Subscriptions and Penetration Rate3	2776
+Moderate Rationale	12376
 Moderately Satisfactory Overall Risk Rating	6579,5409
 Moderately Satisfactory. Achievement Rating	10779
 Moderately Unsatisfactory Overall Bank Performance Rating	10779
@@ -1142,7 +1200,9 @@ Mothibi Ramusi. ICASA	2944,2
 Mozambique Government Network Global Rapid Post-Disaster	1228
 Mpiko Rafono	11628
 Mr. Amumpaire Raymond and Ms. Awino Mercy	3307
+Mr. Bala Gopalan and Mr. Raj Gautam	12337
 Mr. Kanono Ramashamole	7362
+Mr. Raimo Dengeinge	12345
 Mr. Ramashamole	7362
 Mrs. Rakiya Shuaibu Mohammed Rev	11857
 Ms K Ramolobeng and Ms N Makasi	11285
@@ -1163,10 +1223,12 @@ NATIONAL RADIO FREQUENCY PLAN	7850
 NCC Close Ranks On Submarine Cable	2677
 NIGER TELECOMS. RAPPORT ANNUEL	998
 NJR2784HK Radio	998
+NMR Neonatal Mortality Rate NSDS National	12413
 NOTE DE CADRAGE RAPPORTS D'ETAPES Capacités	9049
 NPL Ratio	1828,9641
 NPS Rankings	6051
 NRO NC Changes and Rationales Preamble	3502
+NSI RA	12364
 NTRA's Radio Spectrum Guidelines for Earth Stations	1259
 NUCLEAR AND RADIATION PROTECTION	718
 NUMBER OF TV AND RADIO	11211,51
@@ -1182,6 +1244,7 @@ National Cybersecurity Strategy and Awareness Raising Plan	5780
 National Development Plan Terra Ranka	11536
 National Electrification Rate	11923,268
 National Forum of Community Radios	12201
+National Leased Lines Wholesale Rates Reduction	12395
 National Poverty Rate. Survey	10768
 National Radio Broadcasters	958
 National Radio Frequency Plan	7827,23,239,84,62,606
@@ -1194,12 +1257,16 @@ Negligible Rating Highly Unsatisfactory OVERALL EFF	10779
 Nego1t0ia.t3edNReagtoetsiated Rates	10157
 Negotiated Rates	10157
 Nehanda Radio	753,1064
-Neonatal Mortality Rate	4349
+Neonatal Mortality Rate	4349,8018,46
 Nepal Rapid	226
+Net Attendance Rate	12413
+Net Enrollment Rate	12411
+Net Enrollment Rates	12411
 Net Enrolment Rate	12175,24
 Net Enrolment Rates NESIP	12175
 Net Enrolment Ratio	12175
 Net Intake Rate NLGFC	12175
+Net School Attendance Rate	12431
 Netherlands Lead European Ranking of Resilience	8891
 Netherlands-based PAIX and Raxio	10861
 News Culture Moroccan Filmmaker and Rapper	5407,676
@@ -1223,12 +1290,21 @@ Nominal and Real Interest Rates	2775
 Nomination Committee Rationale This Article	8866
 Non Ionising Radiation Protection	736
 Non-Ionizing Radiation Protection ICT	958
+Northwest Railway	12376
 Nuclear and Radiation Protection	718
 Nuclear and Radiological Weapons Acts Cap	3887
 Nuclear and Radiological Weapons Management Authority	3887
+Number of Commercial Broadcasting Radio Licences	12395
+Number of Commercial Broadcasting Radio Licences Operational	12395
+Number of Community Broadcasting Radio Licences	12395
+Number of Community Broadcasting Radio Licences Operational	12395
 Number of Instructions Transaction Value Range Number	12252
+Number of Public Broadcasting Radio Licences Operational	12395
 Number of Radio Communication Installations Inspected	6946
+Number of Radio Employees	12395
+Number of Radio Stations	12395
 Number of Users Rate	11857
+Nyamagabe District Cyanika Rwaniro Ntendezi Rangiro	12413
 Nyatefe Radio	9111
 O RATIO	236
 OBJECTIFS SPÉCIFIQUES INDICATEURS D’EFFET Rapports	10712
@@ -1239,7 +1315,7 @@ OVERALL RATINGS Name	11988
 OVERALL RATINGS Name Current Progress	4688
 OVERALL RATINGS Name Previous Current Progress	2712,3867,349,949,2993,525
 OVERALL RATINGS Previous Current	11971
-OVERALL RATINGS Previous Current Satisfactory Satisfactory	12228,39
+OVERALL RATINGS Previous Current Satisfactory Satisfactory	12228,39,173
 Objectives Ranked	1885
 Ocean Race	1948
 Oct Proposed Rating	2712,1976
@@ -1252,6 +1328,7 @@ Operating Frequency Range	736
 Operation Document SYSTEMATIC OPERATIONS RISK- RATING	3562
 Operation Frequency Range	736
 Operation Ratings	11965
+Operational Public Broadcasting Radio Licensee	12395
 Operator CAGR Compound Annual Growth Rate	3184,1,1340,6470
 Operator Response Rate Cairo	11642
 Operator Response Rate NTRA Receives	11642
@@ -1262,11 +1339,14 @@ Ouagadougou Rapport	10812
 Oumarou RABO	4551,959,1191,578,1454
 Oumarou RABO Beyon Romain NEBIE	3346
 Ousmane KOUTOU Raissa ZOUNGRANA Koudjari PISSIGA	10875
+Out-of-Bundle Rates	12395
 Outcome Rationale The Overall Outcome	10779
 Overall Bank Performance Rationale With Bank	10779
-Overall Risk Rating	1228,10167,576,296
+Overall Ranking of Perceptions of Business Factors	12445
+Overall Risk Rating	1228,10167,576,296,173
 Overall Risk Rating Apr	12228
 Oxford University Press. Rasmussen	12151
+P Rugerero Burega Nyakiriba Rambura Gasiza	12413
 P. Rao	5700
 P.3.2 Vigilância da RAM	11376
 P1 CNAFGE Relación Servicios Radiocomunicación	9543
@@ -1276,7 +1356,7 @@ PART VII Amateur Radio Transceiver Stations	736
 PART VIII Radiocommunication Equipment Dealers and Repairers	736
 PART XVII AMENDMENT OF THE RAILWAYS	6921
 PARTICIPATION RIGHTS ANTI-CORRUPTION SUSTAINABLE Rank	10835
-PARTICIPATION Rank	10759,78,131
+PARTICIPATION Rank	10759,78,131,1372,13
 PCA Principal Component Analysis RCT Randomised	12006
 PDO3. Overall Efficacy Rating Moderately Unsatisfactory	10779
 PEDRO OBAMA RABOGO	1855
@@ -1307,7 +1387,7 @@ PS Raymond Omollo and IG Douglas Kanja	12313
 PSRI Population Studies and Research Institute RA	12151
 PSSIE Rapports	10712
 PTA Rapport	10712
-PUBLIC ADMINISTRATION Rank	10759,78
+PUBLIC ADMINISTRATION Rank	10759,78,1503
 PV Photovoltaic RAP Resettlement Action Plan	11549
 Pacific Railroad Act	4259
 Pacific Railroads Act	4259
@@ -1357,6 +1437,7 @@ Powers of Directors Rationale This Article	8866
 Powers of Members Rationale	8866
 PrDO Program Development Objective RAC Regional	11417
 Prabhu Rajagopal	7034
+Pre-Primary Education Enrollment Rates	12411
 Premium Rate Numbers	6946
 Prepare and Publish Awareness Raising Materials. Establish	1777
 Prescribed Rate of Interest Act	3714
@@ -1380,6 +1461,7 @@ President Wavel Ramkalawan of Seychelles	2371
 President William Ruto and Raila Odinga	7833
 Price Flat Rate	9409
 Prices and In-bundle Rates for Standard Daily Data	11259
+Primary Education Enrollment Rates	12411
 Primary Pupil Teacher Ratio	12175
 Primary Raxio	3686
 Prime Lending Rate	11289
@@ -1395,7 +1477,7 @@ Principal Secretary Mr Kanono Ramashamole	5097
 Principle and Rationale	3861
 Principle and Rationale Data	3861
 Princípio da Rastreabilidade	11419
-Private Mobile Radio Station	736
+Private Mobile Radio Station	736,11659
 Private Radio Networks	6946
 Private Radio Station Fees and Conditions Licence	736
 Private Radio Station Licence Initial	736
@@ -1423,9 +1505,12 @@ Provide State Ranking	11857
 Príncipe Pela República Portuguesa Paulo Rangel	11393
 Public Administration Rank	11889
 Public FM Radio	6946
+Public Radio Commercial	12395
 Pupil Teacher Ratio. Reducing PTR	12175
+Pupil-Classroom Ratios Between	12411
 Pupil-Section Ratio	12199
 Pupil-Teacher Ratio	12199
+Pupil-Trained Teacher Ratios	12411
 Purpose of Authorised Radio Stations	2776
 Público Rastreando	11898
 QUALITATIVE RATING Low	11156
@@ -1478,6 +1563,7 @@ RADIUS	10617,104
 RAF. Il	6889
 RAF. Lors	6889
 RAFFINAGE DE LA SIR Au	2342
+RAFSix	12478
 RAI Authority	4126
 RAI-KE-NA-KNAISXX-2025	10246
 RAI-led	4126
@@ -1507,6 +1593,7 @@ RANDS	11262
 RANHOTEL de Bouaké. Concernant	2342
 RANKING SCORES	11211,51
 RANKING SOBRE A INTELIGÊNCIA ARTIFICIAL	2816
+RAOUL BOCK	12478
 RAP Resettlement Action Plan RCV Republic	11863
 RAP Resettlement Action Plan REDISSE Regional	11380
 RAP Resettlement Action Plan RPF Resettlement	1988
@@ -1585,17 +1672,20 @@ RESPONSABLE DU RAPPORT SEMESTRIEL	7620
 RESUME DU RAPPORT	12065
 RIA RAMP Index	9759
 RIA RAMP Index Q4	9759
-RIGHTS Rank	10759,78,1
+RIGHTS PARTICIPATION Rank	12352
+RIGHTS Rank	10759,78,1,1502
 RM Mozambique Radio SADC Southern African	12201
 RPS Error Rate	11952
 RRH Rassemble	10876
 RSF Rapid Support Forces SAF Sudanese	6947
-RURAL ECONOMY Rank	10759,78,1049
+RURAL ECONOMY EDUCATION PUBLIC ADMINISTRATION Rank	12352
+RURAL ECONOMY Rank	10759,78,1049,467
 Ra'yi	11136
 Raabo	10812
 Raad.’’. Wysiging	11201
 Raafat Hendy	5607,1438,352,2325
 Raafat Hindy	11162
+Rababah	12467
 Rabah Aouadi	8797
 Rabah Nassim Iklef	2838
 Rabai Power	12256
@@ -1616,6 +1706,7 @@ Rabat. Elle	308
 Rabat. Leur	7729
 Rabat. Par Amal Mountassir	7732
 Rabat. The Minister Delegate	5890
+Rabbison M. Chongo	12415
 Rabe and Lucero-Prisno	9969
 Rabeal Tadesse	1824,10431
 Rabie El Aouel	11646
@@ -1691,6 +1782,7 @@ Rackspace	9123
 Racontez	10070
 Rada Mihalcea	6948
 Radar Interference Detection	736
+Radargram of Zambian	12376
 Radda	3718,8417
 Raddy Fibre	2868,3151
 Rademan	9759
@@ -1708,7 +1800,7 @@ Radical Inclusion	5513
 Radical Technology Network Ltd	3862
 Radical Transparency	4528
 Radif	9128
-Radio	236,346,154,26,178,58,946,1164,121,167,813,345,140,551,430,197,799,185,90,13,1063,73,713,191,1616,162,16,46,22,397,11,422,166,344
+Radio	236,346,154,26,178,58,946,1164,121,167,813,345,140,551,430,197,799,185,90,13,1063,73,713,191,1616,162,16,46,22,397,11,422,166,344,182,12
 Radio Access	6946
 Radio Access Network	1944,584,356,2791
 Radio Access Networks	5266,5455
@@ -1717,6 +1809,7 @@ Radio Amani FM Malinde	10097
 Radio Amateur Examination Certificate	736
 Radio Amateur Operator’s Certificate	736
 Radio Audience Measures RDP Reconstruction and Development	11192
+Radio Broadcasting Total Number of Public Broadcasting	12395
 Radio Communautaire Kivu	10097
 Radio Communications and Frequency Spectrum	6946
 Radio Dealer	736
@@ -1747,6 +1840,7 @@ Radio Frequency Spectrum for Individual Licenses	762
 Radio Frequency Spectrum-dependent	762
 Radio Jambo Smooth FM ADVERTISEMENT News11	9646
 Radio KC	8999
+Radio Licences	12395
 Radio Malabo	4209
 Radio Mondiale DSB Digital Sound Broadcasting	6946
 Radio Mozambique	12201
@@ -1770,6 +1864,7 @@ Radio Talk	718
 Radio Tamazuj	4042,181,860,1763
 Radio Tamazuj Skip	4042,1041,1763
 Radio Tamazuj South Sudan's President Salva	4597
+Radio Television Total Revenue	12395
 Radio Televisión Guinea Ecuatorial	11672
 Radio Transceiver	736
 Radio Tygerberg	8999
@@ -1798,6 +1893,7 @@ Radiographer Year U.S. Government	4153
 Radiographics	11156
 Radiological Hazards	1988
 Radios	1920
+Radios and TVs	12358
 Radiotherapy	718
 Radiotélévision	2344
 Radiotélévision Ivoirienne	10924
@@ -1881,18 +1977,19 @@ Rain and Telkom	5050
 Rain and Vodacom	11195
 Rainbow	5399
 Rainbow Towers Hotel	10073
+Rainexn0b	12478
 Rainfall	2775,681
 Rainforest Builder	7140
 Rainha Njinga A’Mbande University	10776
 Raining Men	10955
 Rains	10595
-Rainwater	1245,743
+Rainwater	1245,743,10457
 Rainy Season Led	1828
 Rais Idara	8411
 Rais John Magufuli	4099
 Rais Samia	2718
 Rais Samia Suluhu Hassan	2718,344,1037
-Raise	1000,814,645,3217,5328,127,833,250
+Raise	1000,814,645,3217,5328,127,833,250,114
 Raise AU Member States	1814
 Raise Implementing Risk	1000
 Raise Privacy	7750
@@ -1904,7 +2001,7 @@ Raised	1206,806,1285,5826,25,68,1515
 Raised Access Floors Raised	9123
 Raised Over	9321
 Raises Growth Targets	8035
-Raising	3782,1482,269,627,1488,374,815,1240,412,365,302,701,129,271
+Raising	3782,1482,269,627,1488,374,815,1240,412,365,302,701,129,271,71,41
 Raising Materials. National Education	1777
 Raising Transparency Concerns	9399
 Raison	737,2921,7054,266
@@ -1933,6 +2030,7 @@ Rakiya Yusuf	6814,2172,1519
 Rakotomaniraka	6845,308
 Rakuten	12036
 Rakuten Symphony	4434
+Raldo23	12478
 Ralebitso	7898,136,590
 Raleigh Fitkin Memorial	7030
 Raleigh Fitkin Memorial Hospital	7030
@@ -1981,6 +2079,7 @@ Ramdas	7759
 Rameck Masaire	12225
 Ramesh Govindaraj Task Team Leaders	11417
 Ramgoolam	7365,1
+Ramin Hossaini	12478
 Ramirez M	1219
 Ramirez&author	1219
 Ramirez-Madrid	5349
@@ -2029,8 +2128,9 @@ Rands. From the NSFAS	5017
 Rands. Monetary	11131,3
 Randy Bush	1036
 Ranga	6832
-Range	9616,1789,589,209
+Range	9616,1789,589,209,170
 Range Nulls	3861
+Range of FinTech Products	12444
 Rangel	6060,5329,57
 Rangeland	12229
 Ranhôtel de Bouaké	2342
@@ -2038,13 +2138,20 @@ Ranjit Singh	4253
 Rank Account Name Ordinary	4896
 Rank Brand Industry	11884,321
 Rank Brand Industry Brand	11885
+Rank Cause	12413
 Rank Cause of Death Male Female	12151
 Rank Code Indicator	10969,916
-Rank Institutions	10969,916
+Rank Code Labor	12351
+Rank Female Male	12413
+Rank Freedom of Association	12341
+Rank Institutions	10969,916,470
+Rank Laws	12341
 Rank Microfinance Bank	7565
 Rank Perks	7565
-Rank Score	10969,916
-Rank Unit	10835,3,130,902,16
+Rank Public Procurement Procedures	12341
+Rank Score	10969,916,470
+Rank Shipping	12341
+Rank Unit	10835,3,130,902,16,466,1
 Rank University	12205
 Rank University Score	11885
 Rank-based	10764
@@ -2053,16 +2160,18 @@ Ranked	767,1118,9972
 Ranking	899,986,59,872,2783,4017,2247,22,4
 Ranking Africano	11569
 Ranking Country RGI RSI ERIGS ROI	12256
+Ranking Data Only Mobile Target	12395
 Ranking Global	11569
 Ranking Global de Inteligência Artificial Governamental	2816
 Ranking List Rank System Vendor	11471
 Ranking Namibia	1944
 Ranking Overall Government Business Individual South	236
+Ranking of Doing Business Indicators for Zambia	12376
 Ranking of Top Confirming Banks for African Issuing	10718
-Rankings	11004,960
+Rankings	11004,960,412
 Rankings Matter	10848
 Rankings de Inteligência Artificial	2816
-Ranks	10759,76,2,1,130,902,16,1,1,1,263,1,1,9
+Ranks	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1
 Ranqueamento	11569
 Ransford A. Acheampong	9232
 RansomHub	6426
@@ -2088,6 +2197,7 @@ Raonsecure	2390,1902,563,725,313,73,322,83
 Raouf Aboudou	8499
 Raouf Khodabaccus	10643
 Raouf Mazou	1963
+RaoulBock	12478
 Raoush	10780
 Rapadama Village	10828
 Raparigas	10777
@@ -2105,8 +2215,9 @@ Raphael Island	12132
 Raphael Konan General Manager	10956
 Raphael Mforlem	10994
 Raphael Mushanawani	8419,556
+Raphael Thikusho	12478
 Raphaël Akotègnon	3682
-Rapid	226,169,394,110,1619,667,676,356,311,822,522,891,69,505,272,142,550,370,354,124,1811,174,75,147,501,48,11,272,45
+Rapid	226,169,394,110,1619,667,676,356,311,822,522,891,69,505,272,142,550,370,354,124,1811,174,75,147,501,48,11,272,45,100,111
 Rapid AI	3554
 Rapid Assessment	6832,3944
 Rapid Assessment of Counties	5134
@@ -2145,11 +2256,12 @@ Rapid Social Response. The World Bank	12158
 Rapid Support Forces	1676,175,36,1696,662,2702,3061,326
 Rapid Survey	899
 Rapid Testing Continuous Quality Improvement	4153
+Rapid Urbanization and Low Population Density	12399
 Rapid-Pro	11537
 Rapid-iteration	7451
 RapidDeploy’s US	4972
 RapidPro	10919,618
-RapidSMS	1219,10919
+RapidSMS	1219,10919,195
 Rapide	4567
 Rapidité	7357,3354
 Rapidly	12189
@@ -2223,7 +2335,7 @@ Rare Disease Diagnosis	10188
 Rare Disease Patient Card	10188
 Rare Diseases	10188
 Rare Earth	1988
-Rarely	5679,1668,440,3763
+Rarely	5679,1668,440,3763,829
 Rarieda's Otiende Amollo	9545
 Ras Bath	10533
 Ras Ghareb	3342
@@ -2260,18 +2372,20 @@ Rate Orange Egypt	11642
 Rate Stability	7695
 Rate Stability. Fiscal Correction	7695
 Rate Tax Rate Tax Income	11955
+Rate of Agreement	12383
 Rate of Return E-PAMP E-governance and Public Administration	11863
 Rate of Return ESCP Environmental and Social	11549
 Rate of Return IDA International Development Association	11924
+Rateable	12369
 Ratebk Lahzi	3425
 Rated	5626,6594
 Rated Criteria	7951,3466
-Rates	4896,137,4404,1560,262,933,60
+Rates	4896,137,4404,1560,262,933,60,77
 Rates About US Our Board	9750,247
 Rates and Collection	8590
 Rates and Valuation Office	11129
 Rates and Valuation Officer	11129
-Rather	10,418,533,75,1,124,827,129,337,248,304,301,163,37,76,12,531,1,132,188,116,39,23,75,32,19,221,25,47,128,70,40,4,16,161,237,73,5,21,1,3,66,23,22,61,177,125,67,37,5,1,31,49,24,7,14,32,15,3,31,10,245,3,96,1,23,25,1,1,68,5,71,9,21,3,3,31,11,33,28,33,23,2,28,15,24,14,45,3,105,5,40,71,57,5,2,23,13,1,63,16,7,31,1,13,18,13,14,15,2,1,17,22,51,4,17,12,4,10,13,2,127,12,8,8,10,10,69,13,33,1,23,8,2,4,119,22,4,15,18,75,47,17,8,34,19,15,9,5,1,43,63,5,4,20,23,2,15,66,36,20,20,33,87,55,97,34,16,82,23,50,15,25,33,2,18,4,5,7,65,31,6,3,24,91,38,29,36,40,50,5,59,54,4,65,44,4,66,48,62,42,51,34,19,53,21,22,113,9,1,19,23,30,14,51,18,19,11,20,52,51,20,21,40,3,135,72,33,12,12,3,35,72,37,155,2,66,16,46,38,20,122,2,63
+Rather	10,418,533,75,1,124,827,129,337,248,304,301,163,37,76,12,531,1,132,188,116,39,23,75,32,19,221,25,47,128,70,40,4,16,161,237,73,5,21,1,3,66,23,22,61,177,125,67,37,5,1,31,49,24,7,14,32,15,3,31,10,245,3,96,1,23,25,1,1,68,5,71,9,21,3,3,31,11,33,28,33,23,2,28,15,24,14,45,3,105,5,40,71,57,5,2,23,13,1,63,16,7,31,1,13,18,13,14,15,2,1,17,22,51,4,17,12,4,10,13,2,127,12,8,8,10,10,69,13,33,1,23,8,2,4,119,22,4,15,18,75,47,17,8,34,19,15,9,5,1,43,63,5,4,20,23,2,15,66,36,20,20,33,87,55,97,34,16,82,23,50,15,25,33,2,18,4,5,7,65,31,6,3,24,91,38,29,36,40,50,5,59,54,4,65,44,4,66,48,62,42,51,34,19,53,21,22,113,9,1,19,23,30,14,51,18,19,11,20,52,51,20,21,40,3,135,72,33,12,12,3,35,72,37,155,2,66,16,46,38,20,122,2,63,31,1,27,3,1,72
 Rathäuser	1533,687
 Ratificar	4146
 Ratification	240,2385,2900,3278
@@ -2283,10 +2397,11 @@ Ratificação	11374,527
 Ratified	1243,2618
 Ratified ECOWAS Supplementary Act	10908
 Ratified International Treaties	3861
-Ratify	1000
+Ratify	1000,11453
 Ratifying the Convention	7102
 Ratifying the Malabo	969
-Rating	5247,1332,342,7,949,2993,261,3,721,39,30,47,17,240,39
+Rating	5247,1332,342,7,949,2993,261,3,721,39,30,47,17,240,39,173
+Rating Act.16	12369
 Rating Class EGDI Rank LOSI Rank	10840
 Rating Highly Satisfactory Page	10779
 Rating Moderately Satisfactory OBJECTIVE	10779
@@ -2300,7 +2415,7 @@ Rating and Explanation of Key Risks	11525
 Rating of RI7	10779
 Ratings	1216,68,490,281,198,7064,1462,107
 Ratings Ratings Outcome Bank Performance Relevance	10779
-Ratio	643,1699,624,430,1063,69,6184,135,11,275,1,1091
+Ratio	643,1699,624,430,1063,69,6184,135,11,275,1,1091,164
 Ratio Analysis	9437
 Ratio Assessment	11955
 Ratio Décile	737
@@ -2308,7 +2423,7 @@ Ratio GDP Global Partnership for Education GER	11905
 Ratio Personnel	11134
 Ratio Ton-Km	5247
 Rationa7l.4isinRgaOtionn-aPlriseimngisOe	10157
-Rationale	1228,1205,40,306,2117,349,1187,400,716,1055,2160,16,50,436,595,6,39,2,303,30
+Rationale	1228,1205,40,306,2117,349,1187,400,716,1055,2160,16,50,436,595,6,39,2,303,30,136,68
 Rationale Improving	10779
 Rationale Nigeria	10157
 Rationale RI10	10779
@@ -2340,6 +2455,7 @@ Raul Gomes	3004
 Raum. Dieses System	11316
 Raumordnungsplanun BMZ	49
 Rauno Kulla	6423
+Ravec	12478
 Ravesteyn	4432
 Ravi Kumar	4214
 Raviglione MC	10784
@@ -2410,6 +2526,7 @@ Raymond Suttner	6387
 Raymond Zéphirin MBOULOU	435
 Raymond Zéphirin Mboulou	2507
 Raymond Zéphyrin Mboulou. Il	3296
+Rayne Binneman	12478
 Rayner Tabetando	10985
 Raynor	8130
 Rayonnement	6014
@@ -2482,6 +2599,9 @@ Rural Economy Rank	11889
 Rural Electrification Rate	12191
 Rural Electrification Rate Number	11923
 Rural Telephony Project. Mr Rashid-Computer	5359
+Rwandan Produced Raw Materials	12445
+Rwandan Produced Raw Materials Raw	12445
+Rwandans. Rather	12328
 Règlement de Radiocommunications	5361
 Règlement des Radiocommunications	5361
 Règlement des Radiocommunications ABBREVIATIONS AFP	5361
@@ -2495,12 +2615,13 @@ SA Rand	378
 SABC Radio	8999
 SADC Model Law Part II Racist	26
 SAFETY EDUCATION HEALTH Rank	10968
-SAFETY Rank	10759,78,1033
+SAFETY Rank	10759,78,1033,470
 SAFETY SOCIAL PROTECTION Rank	10838
 SARB POLICY RATE CPI PPI PRIME	8571
 SECTEUR ELECTRIQUE PERFORMANT XV Rapport	10975
 SERVICES FINANCIERS NUMÉRIQUE RAPPORT ANNUEL SUR	4459
 SMS RAPPORT ANNUEL	998
+SMS and Radio	12383
 SOFR Secured Overnight Financing Rate	8590
 SOUS-CATEGORIES SCORE RATING APPRECIATION Bilan Transparence	10975
 SOUTH AFRICA GLOBAL RANKING FOR MOBILE	11262
@@ -2511,7 +2632,7 @@ STRATEGIC OBJECTIVES AND POLICY RATIONALE Recital	3861
 STRATEGIC RATIONALE	4896
 STRATEGIC RATIONALE Vodacom JSE	4896
 STRONG NATIONAL RAILS	12050
-SUSTAINABLE ENVIRONMENT Rank	10759,78,1033,16
+SUSTAINABLE ENVIRONMENT Rank	10759,78,1033,16,454
 SYSTEMATIC OPERATIONS RISK- RATING TOOL	1264,603,1737,2935,4229,649,143
 SYSTEMATIC OPERATIONS RISK-RATING TOOL Rating	2712,1976,6707
 Safaricom’s Ethiopian Unit Delivers Rapid Growth	8843
@@ -2521,22 +2642,28 @@ Sam-Sumana Joins Flagbearer Race	7934
 Samoa Rapid	226
 Satisfactory Overall Risk Rating	4688,3189,2993
 Score Range	8604
-Score Rank	10759,76,3,130,902,16
-Score Rank Absence of Armed Conflict	10838,1048
+Score Rank	10759,76,3,130,902,16,466,1
+Score Rank Absence of Armed Conflict	10838,1048,454
 Score Rank Absence of Undue Influence	10835
 Score Rank Absence of Violence	10837,131,1184
 Score Rank Access	10837
 Score Rank Freedom of Association	10837
+Score Rank Internet	12340
 Score Rank Laws	10837,1315
 Score Rank Political Pluralism	11870
 Score Rank Protection	12152
-Score Rank Public Perception of Economic Opportunities	12152
+Score Rank Public Perception of Economic Opportunities	12152,188
 Score Rank Public Perception of Infrastructure	11870
+Score Rank Rural Market Access	12352
+Score Rank Rural Representation	12353
 Score Rating Caractéristique	10975
 Second Draft National Radio Frequency Plan	11259,3
+Secondary Education Enrollment Rates	12411
 Secondary Transition Rate PSUT Physical Supply	2775
 Secretary Rationale	8866
+Sector and Size Sector Industry Debt-to-Equity Ratio	12445
 Secured Overnight Financing Rate	11976
+Securities Collateral RA. The Participant	12364
 SecurityRwandaShain RahimCiscoPaula IngabireRead	3697
 Seewoosagur Ramgoolam	10045
 Selected Real Principal Interest Rates	2775
@@ -2549,7 +2676,9 @@ Senior Associate for Policy and Outreach Rohit Ranjan	8175
 September. Rainfall	10763
 Sergiy Radonezhsky Str. Moscow	10764,80,719
 Service Bargaining Council RAA Refugee Appeals	5533
+Service PMO Project Management Office RACI	12359
 Service RAG Radiocommunication Advisory Group RAO	6946
+Settlement Reserve Account RA Accounts	12364
 Sex Ratio	958,8527,2666
 Sex Ratios	12151
 Sex Ratios for Registered Deaths	12151
@@ -2571,6 +2700,7 @@ Sivasubramanian Ramann	7981
 Skills and Literacy RATING SYSTEMATIC STAGE Malawi	12214
 Social Risk Rating	6539
 Social Risk Rating Low	11965
+Society for Poverty Rationale	12376
 Société Béninoise de Boissons Rafraichissantes	7212
 Société Ivoirienne Raffinage	2342
 Société Ivoirienne de Raffinage	3045
@@ -2592,6 +2722,7 @@ South African Radio Astronomy Observatory	11248
 South African Rail Commuter	11551
 South African Rail Commuter Corporation	11551
 South African Rand	1429,5110,1904,2687,1,3,99,19
+South African Rand. Eswatini	12426
 South African Rands	11896
 South Africa’s Credit Rating Renaissance South	6998
 Southern Railway	4259
@@ -2602,7 +2733,7 @@ St. Brandon. The Raphael Fishing Company	12132
 St. Peter’s Rambusi Secondary School	6946
 St. Raphael’s Burangusi	6946
 Stable Inflation Rate	11863
-Standard Gauge Railway	2775,6717,1100
+Standard Gauge Railway	2775,6717,1100,1734
 Standard Gauge Railway Traffic	2775
 Standard Gauge Railway. The TTCL-managed NICTBB	9149
 Standard of Responsibility RATING BASIC STAGE Malawi	12214
@@ -2612,13 +2743,15 @@ Stephenie Coker Rank	5423
 Strategic Foundation and Rationale Zimbabwe	4528
 Strategic Rationale	4896,1007
 Strengthen Regional Connectivity The Blue Raman	6554
-Strengths Weaknesses Rank Code Indicator	10969,916
+Strengths Rank Code	12351
+Strengths Weaknesses Rank Code Indicator	10969,916,470
 Study Ranks Rwanda Among Africa’s	3256
 Sua Excelência Raúl Augusto Lima	11436
 Sub- Saharan Africa. Cameroon GII Ranking	10969
 Sub-Saharan Africa. Cabo Verde GII Ranking	11895
 Sub-Saharan Africa. Mozambique GII Ranking	12159
 SubSaharan Africa. Nigeria GII Ranking	11884
+SubSaharan Africa. Rwanda GII Ranking	12351
 Subtotal Raw	11955
 Sudan. Rather	6947
 Sumiko Ogawa and Ratna Sahay	1828
@@ -2636,8 +2769,11 @@ Systems RATING OPPORTUNISTIC STAGE Malawi	12214
 Sécurité Mme Randé Directrice Intérimaire Ministère	10812
 TB RAM	12253
 TERRA RANKA	11544
+TFR Total Fertility Rate UN United	12413
+TRANSPARENCY ENVIRONMENT ENVIRONMENT Rank	12353
 TRANSPARENCY ENVIRONMENT Rank	10838
-TRANSPARENCY Rank	10759,78,131,918
+TRANSPARENCY Rank	10759,78,131,918,454,12
+TTC Type TTC Code Default Range	12364
 TV Radio Social Media News Squeeze	8999
 Tahiry Rakotoheriniaina	10354
 Tanganda Tea’s Ratelshoek Estate	6492
@@ -2663,6 +2799,7 @@ Technologies Mothibi Ramusi MTN Rain Telkom	5050
 Technopolis Rabat	168
 Telecommunications Tariff Exchange Rate Adjustment	6874
 Telecommunications and Computer Cabinets and Racks	9123
+Television Employment Radio Employment Total Employment	12395
 Television and Radio Broadcasters	11211,51
 Telkom and Rain	7626
 Ten Rand	11213
@@ -2687,6 +2824,7 @@ Trade Finance Approval and Rejection Rates	10718
 Trade Finance Approval and Rejection Rates Banks	10718
 Trade Finance Approval and Rejection Rates Trade	10718
 Transaction Value Range Transaction Value Range	12252
+Transition Rates	12411
 Transparency Rank	11889
 Transport Radiation Device	718
 Transportation and Storage Sector Water Transport Railway	2775
@@ -2711,6 +2849,7 @@ USD Rank USD Rank Kenya	236
 Uganda Railway	2798,16
 Uganda. Raxio Group	1843
 Un Rapport	8524
+Under-five Mortality Rate	12383
 Understanding MTR Mobile Termination Rate NEMA	6946
 Unicorn Strengths Rank Code	11884
 Unified Payment Rails	9752
@@ -2719,6 +2858,8 @@ Union's Director for Radiocommunications	7793,157
 Union's Director of Radiocommunications	7884
 United States. Rather	6231
 Universidade Rainha Njinga	11472
+University of Rationale	12376
+University of Sussex. Razan Amine	12332
 Université Mohammed V de Rabat. Cette	8721
 União Africana de Radiodifusão	11045
 União Internacional de Radiocomunicação	9236
@@ -2753,9 +2894,10 @@ Vivek Rana	6423
 Vodacom Lesotho CEO Mohale Ralebitso	8034,590
 Voter Registration Rate	10714
 W Rated Capacity	11953
-WELFARE Rank	10759,76,2,1,130,902,16
+WELFARE Rank	10759,76,2,1,130,902,16,454,12,1
 WOMEN'S EQUALITY PUBLIC ADMINISTRATION Rank	11870
-WOMEN’S EQUALITY Rank	10759,78,1049
+WOMEN'S EQUALITY Rank	12352
+WOMEN’S EQUALITY Rank	10759,78,1049,454
 Wan Abdul Rahman	8604
 Wanita Ramsubak	11234
 Wanjala. Hon. Raphael Wanjala	10313
@@ -2774,16 +2916,19 @@ World Radio Communications Conference	5245
 World Radio Day	4660
 World Radiocommunication Conference	5680,913,481,753,153,109,84,1608,1449
 World Radiocommunication Conferences	11023
-World Radiocommunications Conference	5680
+World Radiocommunications Conference	5680,6715
 World Unemployment Rate	2775
 XI.3. Rapportage	10876
 Xiv.2407.01557 Rana	11156
 Xolile Ndzulu and Kadisha Ramaru	396
 Yearbook. Radda	12135
+Years Rank Cause	12413
 ZCHPC Utilization Rate	4528
 ZIMBABWE PRIVATE RADIO TRANSCEIVER STATION APPLICATION	736
 ZTE AIR RAN EnergyTurbo	8112
+Zambia Chamber of Commerce and Industry Rationale	12376
 Zambia Railways Limited	5247
+Zambia Rationale	12376
 Zanzibar Mudrik Ramadhan Soraga	10392
 Zara Rahman and Elisa Lindinger	12088
 Ziani Mohammed Bachir Rachdi Idriss Ilali	8891

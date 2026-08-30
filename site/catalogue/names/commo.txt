@@ -21,6 +21,7 @@ COMMODITIES	4153
 COMMON GOAL RESEARCH CENTER Data Controller	7167
 COMMON GOOD	11006
 COMMON SEAL	585,8281
+COMMON STANDARDS	12338
 Central Authentication Server Common ICT Processes	9123
 Commission COG Commonwealth Observation Group CPLP	12201
 Commodified	226,10802
@@ -44,12 +45,13 @@ Commodities and Supply Chain	4260
 Commoditized Tech Stack	7471
 Commoditv	4349
 Commodity	236,3917,14,35,15,43,41,48,1003,1080,506,4042
+Commodity Exchanges	12326
 Commodity Futures Trading Commission	2826
 Commodity Market Exchange	7167
 Commodity Prices and Trade	6938
 Commodity TB Commodities ARVs and PrEP Opportunistic	4217
 Commodité	10711
-Common	21,550,648,721,2236,263,89,883,742,998,115,747,30,562,1104,230,880,198,112,4,77,25,34,195,333,155,42,47,155,50,7
+Common	21,550,648,721,2236,263,89,883,742,998,115,747,30,562,1104,230,880,198,112,4,77,25,34,195,333,155,42,47,155,50,7,167
 Common African Position	5825
 Common Agenda	11028
 Common Agenda Policy Brief	11028
@@ -57,6 +59,7 @@ Common Approach	6432
 Common Approaches	6432
 Common Article	3583
 Common Aspirations	8352,1296,223,2
+Common Biometric Exchange File Format	12360
 Common Carrier Pan Africa Network Group	6946
 Common Cause Zambia	9082,334
 Common Challenges	12041
@@ -78,15 +81,16 @@ Common Identifier Standards Service	11952
 Common Identifiers	11952
 Common Identifiers Requirement	11952
 Common Law. Domestically	8354
-Common Market	827,11337
+Common Market	827,11337,280
 Common Market Protocol	2106,5401,3312
 Common Market for East and South Africa	12286
 Common Market for Eastern Africa	1914
 Common Market for Eastern and RSPs	11960
-Common Market for Eastern and Southern Africa	26,1,1,2263,1457,12,778,2001,481,576,367,76,255,41,818,29,834,1,296,59,777,811,193,10,123
+Common Market for Eastern and Southern Africa	26,1,1,2263,1457,12,778,2001,481,576,367,76,255,41,818,29,834,1,296,59,777,811,193,10,123,55,11,24,50,18
+Common Market for Eastern and Southern Africa President	12353
 Common Market for Eastern and Southern Africa Summit	3760
 Common Market for Eastern and Southern Africa's Regional	10718
-Common Monetary Area	6539,997,633,671,2208,82,1,3
+Common Monetary Area	6539,997,633,671,2208,82,1,3,1335
 Common Monetary Area Consumer Price Index	11131
 Common Monetary Area. The Digital Lilangeni	11130
 Common National Digital Architecture	4126
@@ -102,12 +106,16 @@ Common Uses	4434
 Common Voice	7313
 Common-Carrier Broad-	6946
 Common-Pool Resource	5700
+Common-wealth	12410
 CommonLingua	8552,1392
-Commonly	771,4475,6608,3
+Commonly	771,4475,6608,3,471
+Commonly Used Terms	12349
 Commons	7313
 Commons Attribution	9129,108
 Commons Incubator	7313
-Commonwealth	249,2341,1536,46,1000,1254,460,833,323,936,652,403,218,1,511,254,66,50,60,9,1,1,1,1,1,1,715,83,36,159
+Commonsoft Sa	12478
+Commonwealth	249,2341,1536,46,1000,1254,460,833,323,936,652,403,218,1,511,254,66,50,60,9,1,1,1,1,1,1,715,83,36,159,209
+Commonwealth Association of Architects	12369
 Commonwealth Cybercrime Journal	9616
 Commonwealth Development Corporation	11131,3
 Commonwealth Digital Identity DFAT	249
@@ -135,13 +143,14 @@ Commonwealth of Independent States	6946,3818,799
 Commonwealth of Independent States Agreement	10764
 Commonwealth of Independent States Armenia Azerbaijan	10764
 Commonwealth of Learning	8609,1146
+Commonwealth of Nations	12327
 Commonwealth-backed	10252
 Commonwealth’s Meridian Team	11134
 Compactors Common	12253
 Continental Common Market. Trading	2117
 Corporate Finance Commons	10
 Creative Commons	432,948,2481,2193,1677,552,153,692,304,307,991,34,20,60,34,276,1,221,187,664,28
-Creative Commons Attribution	1212,6519,28,262,1,108,153,153,1303,20,955,51,10,37,2,163,172,396,27,21,3,287,123,1,83
+Creative Commons Attribution	1212,6519,28,262,1,108,153,153,1303,20,955,51,10,37,2,163,172,396,27,21,3,287,123,1,83,238
 Creative Commons Attribution CC	9025,1689,249,1,13,159,13,730,376
 Creative Commons Attribution International License	11927
 Creative Commons Attribution License	8376,2543,1084,228,15
@@ -149,6 +158,7 @@ Creative Commons Attribution NonCommercial ShareAlike	2709
 Creative Commons Attribution NonCommercial-ShareAlike	11376
 Creative Commons Attribution-Non- Commercial-Share Alike	10844,719
 Creative Commons Attribution-Non-Commercial	10841
+Creative Commons Attribution-NonCommercial	12467
 Creative Commons Attribution-NonCommercial-NoDerivatives	5656,5128,370,1,1100
 Creative Commons Attribution-NonCommercial-Share Alike	10764
 Creative Commons AttributionNonCommercialShareAlike	11006,1
@@ -179,6 +189,7 @@ Financing of Terrorism Common Monetary Area Centre	11134
 Foreign Commonwealth and Development Office	11572
 Foreign and Commonwealth Development Office FLN	12175
 G20 Common Framework	4907,295
+GENERAL GUIDELINES FOR COMMON ENTRIES	12338
 GHS Lab Commodities	4167
 Gimac. Commode	6877
 Global Common Good	6832
@@ -187,6 +198,7 @@ Harmonised Commodity Description and Coding System	11258
 Harmonised Commodity Description and Coding System IMF	11258
 Health Commodity Logistics Management Information System	4260
 House of Commons Library. Clark	5675
+IEC Common Biometric Exchange Formats Framework	12360
 International Business Commons Recommended Citation Sere-	10
 Journal of Common Market Studies	11050
 Lab Commodities	4153,14,35,58,41,48,1003
@@ -213,11 +225,13 @@ Malawi Voice Data Commons	7313
 Malawi. The Common Market for Eastern and Southern	10553
 Managing Common Barriers	11007
 Maternal Child Health Commodities Warehousing	4202
+MoU Memorandum of Understanding CIRT Common Market	12444
 Mozilla Common Voice	8096
 NCI Cancer Research Data Commons	7313
 NGI Commons	6468
 National Data Commons	9030
 Newsfeed The Common Market for Eastern and Southern	3737
+OASIS XML Common Biometric	12360
 OECD Common Reporting Standard	11685
 OECD's Common Reporting Standard	11685
 Open Data Commons Open Database License	1232,1026
@@ -230,6 +244,7 @@ Planned U.S. Commodity Funding Appendix	4153
 Planned U.S. Commodity Funding The U.S	4153,14,35,15,43,41,48,1003
 Point of Common Coupling	11269
 Policies Around Common Governance Principles	965,3804,120,206,68,334,86
+Portal Zambia Development Agency Common Market	12454
 Production of Selected Commodities	2775
 Public FTA FM Common-Carrier Broadcasting Signal	6946
 Purpose COMESA Common Market for Eastern and Southern	2775
@@ -253,8 +268,9 @@ U.S. Government Commodity Funding	4217
 UK Foreign Commonwealth	12191
 UK Foreign and Commonwealth Development Office	11142
 Under the Commonwealth’s Nagdi	4172
-Under the Creative Commons Attribution	10714,51,10,37,165,172,396
+Under the Creative Commons Attribution	10714,51,10,37,165,172,396,783
 Wikimedia Commons	7532,1718
 Year Lab Commoditie	4202
 Year Lab Commodities	4153
 Year Laboratory Commodities	4217
+Zambia Commonwealth	12410

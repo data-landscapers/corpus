@@ -28,15 +28,20 @@ AdulaiBaldé	11544
 Adulcínio Lutucuta	11484
 Adulcínio Lutucuta DR Delegado	11484
 Adulcínio Lutucuta. Localizado	11484
-Adult	1828,1755,21,7110,290,853,107,22,165,74
+Adult	1828,1755,21,7110,290,853,107,22,165,74,142,16,19
 Adult Centres	2775
+Adult Content	12395
 Adult Education	2775
 Adult Education Centres	2775
+Adult Education Enrollment	12411
 Adult Education and Training	11252
 Adult ID	10714
 Adult Learning Application	899
-Adult Population	940
+Adult Literacy	12411
+Adult Literacy Centers	12411
+Adult Population	940,11469
 Adult and Continuing Education and Training	6832
+Adult and Youth Literacy	12383
 Adultes Jeunes Jeunes de Français Langues Autres	737
 Adulthood	8283
 Adultos	10766,11,683
@@ -44,7 +49,7 @@ Adultos Direcção Nacional	10766
 Adultos Direcção Nacional da Educação Pré-Escolar	10766
 Adultos Educação Moral	10766
 Adultos. Anuário Estatístico da Educação	10766
-Adults	418,1227,183,7966,920,263,27,581,272,62,45,93,93,99
+Adults	418,1227,183,7966,920,263,27,581,272,62,45,93,93,99,124,10,26
 Adumo and GAAP	10393
 Adurelang Nsomo	4209
 Adurelang Oyek Añisok	4209
@@ -54,15 +59,19 @@ António Adulai Queta	11561
 Autoridade Geral Aduaneira	4747
 BENARD OTIENO NYANGA ADUOL Data Controller	7167
 Bag Person Shopping Adult Clothing Pants	6517
+Banked Adult	12409
+CLIMATE CHANGE Adults Experiencing Climate Change	12409
 CUERPO DE ADUANAS.- Concepto	4209
 Caribbean and Sub-Saharan Africa Adults	10977
 Commission of Adult Education	6946
 D. G. DE ADUANAS	4209
 DEFICIÊNCIA EM ADULTOS	10777
+DEMOGRAPHICS Regional Distribution of Adults	12409
 DERECHOS ADUANEROS	4209
 DERECHOS ADUANEROS Artículo	4209
 DG Aduanas	4209
 Direcciones Generales de Aduanas	4209
+Directorate of Adult Education	12345
 Dr. Michael Adusei	10067
 ED Patricia Adusei-Poku	1779
 EDUCAÇÃO DE ADULTOS	10766
@@ -75,6 +84,7 @@ Fambé Adulaisó Moma Nhancú Malam Sambú	11544
 GSMA Intelligence Adult	11964
 Jeffery Acheampong Adu	10143
 M-Pesa Faces Its Adult Future	6603
+MALES VS FEMALES DEFINITIONS Adult	12409
 MEN. MORE ADULTS ARE USING	10977
 MORTALIDADE ADULTA E MATERNA	10777
 NUTRIÇÃO DE CRIANÇAS E ADULTOS	10777
@@ -90,10 +100,13 @@ Prince Adu-Owusu	7697,1
 Probabilidades da Mortalidade Adulta	10777
 Professor Kofi Sarpong Adu-Manu	10383
 REFERENCES Adu	6938
+Regional and Sex Distribution of Adults Regarding	12409
 Registered Adult Deaths	12151
 Special Programmes Adut Salva Kiir	4668
 Sub-Saharan Africa Adults	10977
+Survey Topline Findings Distribution of Adults	12409
 TERRESTRES AÉREAS MONUMENTO DE ADUANAS	4209
+Uptake of Informal Financial Services Adults Belonging	12409
 W.N. TOTAL DIRECTIVO ADUANAS SEGUROS	4209
 WORKFORCE Adults	10977
 Youth and Adults	11857

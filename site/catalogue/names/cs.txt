@@ -1,6 +1,7 @@
 Academia CSIRTs	2989
 Access CSP	9123
 Access CSP CSP CSP	9123
+Acronyms and Definitions BC Birth Certificate CSOs	12328
 Africa. The CSA	10949
 African CSOs	11007
 All CSPs	6432,5563
@@ -40,6 +41,7 @@ CS Owalo	1236,2739
 CS Q4	11986
 CS Ruku	2666,76,1016,225,530,597,506,95,212,191,46,156,93,107,15,232,24,9,204,265
 CS Ruku Citizen Digital	6192
+CS Rural	12399
 CS Sovereign	7774
 CS Sovereign Cable Ship	7774
 CS Treasury. Kindiki	2666
@@ -82,15 +84,28 @@ CSC. Pour	12068
 CSCA. Note	7777
 CSCAs	7370
 CSCRP	12
+CSD Approval Manager	12364
+CSD CA03 Participant’s ID	12364
 CSD Central Supplier Database CSIR Council	5533
+CSD Collateral Setup Default TTC	12364
 CSD Conseil National de Secours	643
 CSD International Statistical Classification of Diseases	1009
 CSD Minimum Interoperability Standard MHD Multi-Patient	1009
 CSD NUMBER	11240
 CSD NUMBER MUST BE PROVIDED	11240
+CSD Name User ID Certificate Issuance	12364
 CSD Poverty	11136
 CSD REGISTRATION NUMBER TAX COMPLIANCE	11240
+CSD Redemptions	12364
+CSD SYSTEM	12364
+CSD SYSTEM Designation Comment Signature Date	12364
+CSD SYSTEM Participant	12364
+CSD Service Desk Received	12364
+CSD Service Desk for Collection	12364
 CSD Tax Compliance Status and Registration Requirements	11240
+CSD Transfer Default TTC	12364
+CSD User	12364
+CSD User ID	12364
 CSD- R1.2	643
 CSD-GE	10858
 CSD-GE DPSR CAT DPSR DPSR DPSR	10858
@@ -125,7 +140,7 @@ CSIR-CRI	12090
 CSIR-INST	4126
 CSIR-INSTI	4126
 CSIR. The Centre for High Performance Computing	9126
-CSIRT	301,426,273,200,142,89,1,103,242,314,139,731,28,117,6,298,184,244,5,567,9,234,513,142,369,103,759,371,18,42,1708,22,197,228,101,1495,16,174,486,764
+CSIRT	301,426,273,200,142,89,1,103,242,314,139,731,28,117,6,298,184,244,5,567,9,234,513,142,369,103,759,371,18,42,1708,22,197,228,101,1495,16,174,486,764,265
 CSIRT Capabilities	5677
 CSIRT Capabilities Strengthening	5677
 CSIRT Computer Security Incident Response Team	6936
@@ -171,11 +186,15 @@ CSO Open Days	7784
 CSO Thematic Programme	970
 CSO-Data-governance-620x354.jpeg	6639
 CSO. ER	970
+CSO. Further	12330
 CSOs Authority	4126
+CSOs Digital	12333
+CSOs and NGOs	12328
 CSOs. Citizen’s Portal	11586
 CSOs. Civil	789
 CSOs. Four	970
 CSOs. Lessons	11536
+CSOs. The Rwandan CSO	12333
 CSP CSP CSP	9123
 CSP CSP CSP BCR-	9123
 CSP CSP CSP CCC-	9123
@@ -263,6 +282,7 @@ Catégorie Socio Professionnelle CSLP	737
 Centres for Disease Control CSIR Council for Scientific	396
 Chefe da Repartição Fiscal CSA	11435
 Chefe da Secção Administrativa CSCARP	11435
+Citizen and CSOs	12333
 Civil Society CSA	6936
 Cloud Adoption Committee. CSPs	6432
 Cloud Services Providers. GOK Entities CSPs	6432
@@ -273,6 +293,7 @@ Commission CSO Civil Society Organization EU	11586
 Communication and Technology and Digital Economy CS	1236
 Competências O CSE	11516
 Comunidad de Países de Lengua Portuguesa CSU	1701
+Conferences Research Grants Students CS Dept	12361
 Conferência CSA	2816
 Conseiller Pédagogique Itinérant CSAP	10847
 Consistent Time CSIR Digital Imaging and Communications	1009
@@ -357,13 +378,16 @@ Health Centre COBIT CSIR Control Objectives	1009
 Honourable CS Mathabatha	11261
 Hydro PS CSP Wind Solar PV	11953
 Hydromet Diagnostics CSO Civil Society Organization	11553
+ID. CSOs and NGOs BCs	12328
 IDEV Evaluation of Cabo Verde CSPs	11863
 ISPs CSA	6936
 Implementar CSIRT RTPE	1431,1
 Improve CSAT	5226
+Including CSOs	12333
 Interior CS Kipchumba Murkomen	3544,1755,1484,5520,10
 Interior CS Murkomen	12303
 Internal Audit Agency CSA	6936
+Interview CSO	12333
 JSON CSV JSON CSV Commissions Commissions	9480
 JSON CSV JSON CSV Séances Agenda	9480
 JSON CSV JSON CSV Textes Législatifs	9480
@@ -373,6 +397,7 @@ Kabogo. The CS	8214
 Kenya CS William Kabogo. Harmonise	5964
 Kenya News Agency. ICT CS	899
 Kenya Treasury CS John Mbadi and China	2160
+Kicukiro CSOs and NGOs BCs	12328
 Kwok CS	10780
 L'atelier du CSC	10546
 La CSCP	10876
@@ -388,6 +413,7 @@ Ministro Secretario Mesa Magistrado CSJ	4209
 MoCDTI CSA	6936
 Mobile CSC	11188
 Mobilize CSOs	11866
+NAM- CSIRT	12459
 NATO North Atlantic Treaty Organization CSA	6936
 NC4 CSPs KoTDA MCDAs NC4	6432
 NCC CSIRT	5677
@@ -402,6 +428,7 @@ NIST CSF	5677,103,643
 NIST CSF Auditing	11952
 NW4457E REPLY The CSIR	10889
 Nation Media Group The CS	12258
+National CSO	12333
 National and MICDE MCDAs CSPs Ministry	6432
 Natureza O CSE	11516
 Nigerian CSOs	11866
@@ -410,6 +437,7 @@ O CSE	11516
 ODPC. GOK Entities CSPs	6432
 OPERATING WITHOUT A LICENSE The CSA	9728
 Objectifs CP Comité de Pilotage CSC Cellule	10712
+Only Only and CSD	12364
 Open CS	6985
 Open CSIRT Foundation	7736,1734
 Organizations CSP Country Strategy Paper CVE	11863
@@ -440,6 +468,7 @@ Reporting System CSA Climate Smart Agriculture-Based	970
 Resilience Building CSO Civil Society Organisation	970
 Resilience and Fragility Assessment CSO Civil Society	11863
 Restitution of Land Rights CSI Committee for Spatial	11261
+Row's CSV	12416
 SCTP and CS-EPWP	12181
 SERVICE PROVIDERS The CSA	9728
 SIs and CSPs	11995
@@ -469,12 +498,16 @@ Technologique CSLP Cadre Stratégique de Lutte	12
 Telecel and CSquared	3184
 Thabo Hlalele CSIR	11953
 Third-party CSPs International	6432
+Token Usage ZIPSS CSD Both ZIPSS	12364
 Top CSO	3092
 Treasury CS John Mbadi	6587
 US CSPs	6477
 US-based CSPs	6477
 Uma CSD	11370
+VI. Enhance CSO	12333
 Warning The CSA	9842
 Wind CSP	11953
 World Bank’s ID4D’s CSO	11007
 Youth-focussed CSOs. EU	970
+ZIPSS Profile CSD Profile First	12364
+Zambian CSOs	12435

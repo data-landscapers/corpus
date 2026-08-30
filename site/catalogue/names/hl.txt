@@ -24,7 +24,7 @@ HL7standardsandDICOM	8606
 HL7v3 Abstract Data Type Specification	1009
 HLEG’s Ethical Guidelines	11050
 HLO-2	6539
-HLO1 Objective	6539
+HLO1 Objective	6539,5887
 Hl.7 FHIRstandard Release	1009
 HlViCare	9781
 Hlabisa	11986
@@ -35,6 +35,7 @@ Hlane	4535
 Hlane At Independent News Eswatini	5799
 Hlase	2117
 Hlathi Dam Clinic	11980
+Hlathikhulu	12405
 Hlazo-Webster	11289
 Hlelweni	11551
 Hlengani Mathebula	9365,1029

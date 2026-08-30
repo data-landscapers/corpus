@@ -13,6 +13,8 @@ Agent-as-a-Service. Digital Parks Africa	11502
 Apple Park	306
 Auckland Park Theological Seminary and Another	2307
 Aurélio Prudence Le Smart Car Park	10045
+Authority RSTP Royal Science and Technology Park	12444
+Availability of Science and Technology Parks	12389
 B. Park	11140
 BOMAYANGU PARKROAD HOMEOWNERS ASSOCIATION Data Processor	7167
 BRISTOL PARK HOSPITAL LIMITED Data Controller	7167
@@ -45,6 +47,7 @@ County Industrial Parks	9852
 DESIGN OF PARKING FACILILTIES Built-in Garage	11129
 Daran Park	10764
 Data Park	11863
+Diaz and Cerim Wind Parks US	12399
 Digital Industrial Park	8973
 Digital Industrial Park and Learning Centre	8973,1335
 Digital Parks Africa	2539,33,8919,11
@@ -74,6 +77,7 @@ Etosha National Park	9873
 Gaborone International Finance Park P.O. Box	5241
 Ghana Kyongsig Park	9729
 Ghana's Agility Logistics Park Data Centre	8045
+Government Office Park	12345
 Grand Palace Parking	12215,66
 Grassy Park	8999
 Green Energy Park	1722
@@ -87,7 +91,7 @@ IASP International Association of Science Parks ICAO	2775
 ICT Parks	6015
 ICT Technology Parks	958
 India's Software Technology Parks	8206
-Industrial Parks	9852,1372
+Industrial Parks	9852,1372,1152
 Industrial Tech Park	4622
 Industry and Competition Minister Parks Tau	8044
 Industry and Competition Parks Tau	5621
@@ -126,6 +130,7 @@ NCC Digital Industrial Park and NCC Learning	9117
 NCC Leases Digital Industrial Park	8973
 NYUNGWE National Park	718
 National Data Park and Compute Infrastructure	10157
+National Park Gikondo	12413
 National Parks	1988
 National Parks and Game Reserves	2775
 Newtown Parkhome Clinic	11980
@@ -188,13 +193,15 @@ Reference Parker	7731
 Research Symposium Zimbabwe Parks and Wildlife Management	1554
 Research Triangle Park	11912
 Riverside Office Park	6907
-Royal Science and Technology Park	593,95,1128,1831,888,331,149,1258,266,914,4214
+Royal Science Technology Park	12348,13
+Royal Science and Technology Park	593,95,1128,1831,888,331,149,1258,266,914,4214,763,3,11,19
 Royal Science and Technology Park and UNDP Eswatini	4866
+Royal Science and Technology Park-Business Incubator	12401
 Safari Park Hotel	12303
 Sameer Business Park	12285
 Sameer Industrial Park	594,11691
 Sapo National Park	11720
-Savious Parker Kwinika	6900,488,453,300,1966
+Savious Parker Kwinika	6900,488,453,300,1966,2316
 Science Technology Park	11863
 Science and Technology Park	4561
 Senegal Technology Park	11863
@@ -215,7 +222,7 @@ Tech Park Partnerships	11863
 Tech Park. The Prime Minister	2807
 Techno Park	11863
 Technological Park Project	11863
-Technology Park	803,2004,58,5301,3697,28
+Technology Park	803,2004,58,5301,3697,28,470,83
 Technology Park Infrastructure	11863
 Technology Park Phase II	11863
 Technology Park Services	11863

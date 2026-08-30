@@ -12,6 +12,7 @@ AICT603 Code	11235
 AICT604 Code	11235
 AICT605 Code	11235
 ARCEP-090720 CODAN C-463 Antenne HF	998
+Abort Reason Code	12324
 Access Code	4866
 Advertising Code	12161
 Africa. CODESRIA	9739
@@ -23,13 +24,17 @@ Amended ICT Sector Code	6183
 American Standard Code for Information Interchange	1984
 Angola. While the Code	10765,10
 Angolan Criminal Code	3722
+Applicant Code	12367
+Archives Code	12325
 Au Code	10876
+Avatar of CodeGrogu	12478
 Avr. Code	8673
 B-BBEE Code	2937
 B-BBEE ICT Sector Code	2946,2114,4875
 BCP Requirements Code of Conduct for Public Entities	6432
 BILLING CODE	5773
 Baltic Code	5700
+Bank Code	12364
 Benin Digital Code	10822
 Benin's DIGITAL CODE	1728
 Benin's Electoral Code	5782
@@ -37,17 +42,21 @@ Birth Registration Mozambique's Civil Registration Code	12167
 Biseau Codel	11544
 Bissau Codex	11518,1,8
 Board’s Health Safety Code	9855
-Building Codes	11857
+Branch Code	12364,36
+Building Codes	11857,532
 Building Codes IN- Internet Exchange	11857
 Burundi's Electoral Code	2859
+Business Identifier Code	12364
 CAPÍTULO II DESCRIÇÃO DA CODIFICAÇÃO	11409
 CBE Code of Conduct	11134
 CHINA CODAN TQJ350M Station Relais HF	998
 CHLOROFLUOROCARBONS CODE OF CONDUCT CAT	12253
 CMR CAF TCD COG COD GNQ	690
+COD Commercial Operation Date CoW City	12399
 COD FY2026	6390
 COD GHA CIV RWA UGA ZMB	689
 COD Local	12138
+COD for Namibia	12399
 COD. DFC	291
 COD. Norfund USD	513
 COD200948.FE	11864
@@ -90,6 +99,7 @@ Chairman Code of Conduct Tribunal	1014
 Challenge CODAN MCA-COD-ENV- Conforme Account	998
 Challenge Categories and Coding Rules Nine	7151
 Civil Code	27,1833,10286,15,32,8,25,68
+Civil Code. MINALOC	12413
 Civil Procedural Code	12161
 Civil Processual Code	12201
 Civil Registration Code	10765,10,1392
@@ -108,6 +118,7 @@ Codafis	4209
 Codage	4742
 Codar	7395
 Code Act	1988
+Code Amateurs	12478
 Code Aster Impact Z88	9475
 Code CPV	8643
 Code Civil Mauricien	7845
@@ -130,6 +141,7 @@ Code I Description	11180
 Code ICT	236
 Code ISO International Organization for Standardization JWT	11952
 Code Implement IaC	11952
+Code Indicator	12355
 Code Minier	2342
 Code Nation	6133
 Code Nation Plan	6133
@@ -202,12 +214,15 @@ Code. Article	4420
 Code. Désormais	3267
 Code.ai	3527
 CodeForAfrica	6055
+CodeGrogu	12478
 CodeLoccol	3395
 CodeQL	11922
+CodeWithSilas	12478
 Codebook	7221,1215
 Coded	11156
 Codenroll Privacy	11539
-Coders Eswatini	4866,2821
+Coder	12478
+Coders Eswatini	4866,2821,4776
 Coders and AI Practioners	4866
 CodersEswatini	11667
 Codes	961,11,1109,1806,567,1,1,676,1562,252,332,3902,55
@@ -219,6 +234,7 @@ Codes of Conduct	961,916,10376
 Codes of Conduct This Appendix	12253
 Codes of Conduct for Responsible Use	6432
 Codes of Practice	8692
+Codevelop Fund	12366
 Codevelop and AFR	8449
 Codex	5967,531,5071
 Codezone	5869
@@ -251,6 +267,7 @@ Coding for Impact	12241
 Coding4Girls	2989,1664
 Codinger	7053
 Combined Ref. Code	11180
+Community Health Worker CoD	12338
 Competition Law Code of Conduct	3513
 Complétant le Code de Commerce	4567
 Composição da Codificação	11409
@@ -263,7 +280,9 @@ Contractor's Code of Conduct	12253
 Contractors Code of Conduct	12253
 Control and Prevention CoD Cause of Death CRDP	12151
 Copyright Code	11550
+Corporate Governance Code	12376
 Corporate Income Tax Code	11955
+Country Code	12364,13
 Criminal Code	27,931,14,10881,11,297,71
 Criminal Code. Main	12232
 Criminal Law Code	972,8279
@@ -275,7 +294,9 @@ D.R. Le QR Code	8357
 DGI Codes A1.1.2.2 A1.1.2.3 A1.1.2.4 A1.1.2.6	10858
 DGI Codes Action	10858
 DGI Codes Axes	10858
+Data Coding and Editing	12367
 Data Sharing Code	2998,1585,7718
+Death Rate CoD Cause of Death CR	12413
 Death Registration The Civil Registration Code	12167
 Definition and Coding Digital ID	10714
 Departmental Disciplinary Code and Procedures	5533,6453
@@ -342,6 +363,7 @@ Ghana’s One Million Coders Programme	5298
 GitHub Codespaces	11922
 GitHub Copilot and Claude Code	10534
 GitHub Copilot and VS Code. All	6498
+Global Code Indicator	12355
 Government AI Adoption Code	7548
 Green Coding	11687
 Guidelines and Code	7548
@@ -353,6 +375,7 @@ HF CPE-COD-ENV- Conforme CODAN	998
 HS Code	6921
 HS Code Description Industrial Development Levy	6921
 HSC Health Safety Code ICT Information	9855
+HTTP CODE	12478
 Harmonised Commodity Description and Coding System	11258
 Harmonised Commodity Description and Coding System IMF	11258
 Heading H.S Code No. Description Unit	6921
@@ -389,6 +412,7 @@ Investment Code	11550
 Investment Code Drawing	11906
 JEL CODES D63	10985
 JEL Codes	10323
+Japanese Stewardship Code	12376
 KING CODE AND CORPORATE GOVERNANCE	4896
 Kenya Master Facility List Code	2709
 Kenya Quick Response Code Standard	11994
@@ -406,10 +430,13 @@ Le Code	3267,5054,2553,1,1,1056,167
 Le Code CIMA	10965
 Le Code Electoral	2808
 Le Green Coding	11687
+Leading COD	12413
 Legacy Code	11952
 Lei da Codificação	11409
+Leon CodeZilla Matota	12478
 Life Safety and Fire Safety Codes	1988
 Livre III du Code	11932
+Location Code	12364
 Low Code	11939
 Low-carbon Strengths Rank Code	12205
 Lusaka. ZIP Code	9603,1
@@ -440,6 +467,7 @@ Mwongozo Code of Governance for State Corporations	6946
 Méthodes de Sélection Le Code	10876
 NAMFULL2 ID ENTITY CODBRANCH Notably	3364
 NITDA Code of Practice	5215
+Namibia Code Indicator	12355
 National AI Code of Ethics	11135
 National Building Codes	1988,9869
 National Code of Corporate Governance for Mauritius	8866
@@ -466,7 +494,7 @@ PIU Code	1988
 PROJECT NAME AND SAP CODE	11863
 Penal Code	3583,1060,475,304,1548,303,2943,317,446,874,348,93
 Penal Code Act	1535,3887
-Penal Code Cap	11857
+Penal Code Cap	11857,596
 Penal Code Chapter	1988
 Penal Code Republic Information	12201
 Petroleum Code	10841
@@ -498,23 +526,29 @@ QR Codes. C'est	10515
 QRIS Quick Response Code Indonesian Standard	11994
 Qr Code	7269
 Quick Response Code Indonesian Standard	11994
+RTGS Transaction Type Codes	12364
+RTGS Transaction Type Codes TTC Priority	12364
 RTSR The Consumer Code	11993
 Rank Code Indicator	10969,916
+Rank Code Labor	12351
 References the Digital Code	5094
 Reform of Its Electricity Grid Code	11936
 Regarding the Internet Code of Practice	3945
 Registered Proportion Code National	12151
 Registration The Digital Code	11880
+Rejection Reasons CODE DEFINITION DEFINITION AGNT	12364
 Remote Code Execution	3214
 Repeating The Current Year Ref. Code	11180
 Report ACCOUNTABILITY Code of Conduct	1988
 Responsibility and Ethics CODATA ISC Committee	5246
+Return Codes CODE INTERNAL RTGS CODE	12364
 Revised Family Code	12188
 Revised Family Code. Child	12188
 Revised Family Code. Federal Negarit	12188
 Revised ICT Sector Code	11235
 RoC Energy Code	11905
 Rural Ref. Code	11180
+Rwanda Code Indicator	12351
 Rwanda Coding Academy	697,73,6727,409,933,2505
 Rwanda Coding Academy Capacity Development	770
 Rwanda’s Coding Academy	2702
@@ -524,6 +558,7 @@ SECOND-ROUND CODING	8605
 SECTOR CODE	11235
 STANDARD FOR DATA CODING	11180
 STP COD BDI MRT ETH BFA	6593
+SWIFT Bank Identifier Codes	12324
 Secondary Ret Code	11180
 Section S du Code	4567
 Signaling Point Codes IT Information Technology	6946
@@ -538,13 +573,18 @@ Statement AICT000 of Code Series AICT	11235
 Statement AICT000 of Code Series AICT000	11235
 Statement AICT600 of Code Series AICT600	11235
 Statistical Code Card	10645
-Strengths Weaknesses Rank Code Indicator	10969,916
+Strengths Rank Code	12351
+Strengths Weaknesses Rank Code Indicator	10969,916,470
 Structural Building Code Compliance and Coordination Local	9123
 Submit the Market Code	11236
 Such Codes	961
+Swift BIC Codes	12364
+Swift BIC Codes SWIFT BIC TEST	12364
+System CCV Computer Coded Verbal Autopsy	12413
 System Operation Code Version	11228
 System Operator Code	11228
 TAX COMPLIANCE SYSTEM PIN CODE	11240
+TTC Type TTC Code Default Range	12364
 Tagged COD	3117,2041,678
 Tax Codes	10762
 Tax Procedures Code	6121
@@ -556,10 +596,14 @@ Testing Code	11952
 Title Chapter Extent of Repeal Criminal Code	11857
 Tone Code	736
 Tone Code Frequerr	736
+Transaction Type A Code	12364
+Transaction Type Codes	12364
 Translate Code	1988
+Type Code	12360
 UK Age-Appropriate Design Code	6029
 UK's Code of Practice for Statistics	8283
 UK’s Age-Appropriate Design Code	7983
+USSD Code	12465
 Under the Advertisement Code	12294
 Under the Civil Procedural Code	11550
 Under the Union Customs Code	11036
@@ -569,11 +613,16 @@ Urban Planning and Construction Code	11906
 Urban Planning and Urban Land Code	10930
 Urban Ref. Code	11180
 VISITS RESULT CODES	582
+VSDC API Specification Item Classification Codes	12454
 Value-Added Tax Code	11550
 Victims Under Ethiopia’s Criminal Procedure Code	11607
 Wayleave Code	1988
 Whereas the GPAI Code of Practice	11050
 Workers' Code of Conduct Increased	12253
+Written By Codevelop Fund Fostering	12366
+ZIPSS Identifier Code	12364
+ZIPSS Validation Codes	12364
+ZIPSS Validation Codes High Value Payments	12364
 Zambia Bureau of Standard Codes	1988
 Zimbabwe District Code System Districts	6666
 Zimbabwe Health Facility Code Namespace Identifier	6666

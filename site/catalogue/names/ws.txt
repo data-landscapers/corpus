@@ -12,10 +12,13 @@ RID WSDL XHTML Update	1009
 Standards WS- Base Notification	1009
 Tanzania’s WSIS	3245
 WS-Brokered Notification	1009
+WS-Federation	12359
+WS-Federation SAML	12359
 WS-HumanTask	1009
 WS-To	1009
 WS-Topics	1009
 WS6a59a226c6d00ca5f9a0c432.html	8628
+WSDL and XML Schema	12360
 WSIS Action Lines	7172
 WSIS Forum	4520,1430,263,922,1,3,33,17,29,2043
 WSIS Forum and AI for Good	7161

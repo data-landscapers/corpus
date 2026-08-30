@@ -63,9 +63,11 @@ Fiber Backbone Energy Efficiency Improvements	1264
 Fiber Channel	11209
 Fiber Game	4879
 Fiber Gamers	4879
+Fiber Infracos	12427
 Fiber Infracos The Data Center Specialists	4525
 Fiber Infrastructure	10861
 Fiber Market Economy	3185
+Fiber Markets	12427
 Fiber Markets Investment Incentives	10781
 Fiber Mlangoni Kwako	11612
 Fiber Optic	6832,5107
@@ -102,7 +104,7 @@ Fibertime Group Proprietary Limited	1092
 Fibertime Group South Africa Fibre Internet	1092
 Fibra	3179,8217,122,1,12
 Fibras	11382
-Fibre	998,15,130,504,225,221,820,557,489,1157,445,119,174,365,25,152,23,330,102,516,658,182,435,200,205,102,411,109,18,390,182,329,205,163,2,79,820,273
+Fibre	998,15,130,504,225,221,820,557,489,1157,445,119,174,365,25,152,23,330,102,516,658,182,435,200,205,102,411,109,18,390,182,329,205,163,2,79,820,273,265
 Fibre Broadband	5112
 Fibre Builds	11857
 Fibre Channel	11209
@@ -126,18 +128,20 @@ Fibre Route	2827
 Fibre Subscriptions	6000
 Fibre and Data Centre Expansion	618
 Fibre and Mobile Network Expansion Orange	1548
-Fibre-To-The-Home	4150,883
+Fibre-To-The-Building	12395
+Fibre-To-The-Home	4150,883,7362
 Fibre-To-The-Home FTTO Fibre-To-The-Office FY Financial Year	6671
 Fibre-To-The-Home. Even	6834
 Fibre-To-The-X	11857
 Fibre-optic	11728
 Fibre-related	8785
-Fibre-to-the-Home	1944,78,6185,1321,1430
+Fibre-to-the-Home	1944,78,6185,1321,1430,1437
 Fibre-to-the-Premises	10958
 Fibre-to-the-Room	9528
 Fibre-to-the-home	11259
 Fibre. Fibre	11857
 FibreCo and AI-enabled	10243
+FibreCom	12453
 FibreOne	11506
 FibreOne Broadband Ltd	3862
 Fibreboard	11269
@@ -184,6 +188,7 @@ MTN Supersonic Home Fibre	11259
 Malaba Fiber and Tower Network	1171
 Malawi National Fibre Backbone Project	127
 Map of Fibre Optic	8679
+Map of Fibre and Broadband Coverage	12453
 Map of Nigeria Fibre Network Routes Q4	11857
 Maroc Telecom Transafrican Terrestrial Fibre Cable	837
 Maroc Telecom West Africa Submarine Fibre	627
@@ -278,4 +283,5 @@ Yas Fiber	10590,1147
 Yas Fiber CEO Maxime Woimant	10590
 Yas Fibre	4526,2324,5229
 Yas Tanzania Brings Fibre Connectivity	10590
+Zamtel and FibreCom	12453
 Zanzibar and Yas Fibre	6850

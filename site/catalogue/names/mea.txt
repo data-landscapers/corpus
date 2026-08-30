@@ -1,6 +1,10 @@
 A. Measures	7845
 ATU Pushes for Meaningful Connectivity Africa	8241
 Abolition of Racially Based Land Measures Act	11261
+Absence of Contingent Trade-Protective Measures	12389
+Absence of Finance Measures	12389
+Absence of Price Control Measures	12389
+Absence of Quantity Control Measures	12389
 Acceptability of Intervention Measure	8376
 Access Does Not Mean Safety Being	9648
 Achieving and Measuring Change	11006
@@ -14,6 +18,7 @@ Analysys Mason's MEA	8828
 Annual Weighted Mean VHI	11762
 Annual Weighted Mean Vegetation Health Index	11762
 Approach and Methodology Measuring	236
+Availability of Simplified and Enhanced CDD Measures	12389
 BBBEE Act. A Measured Entity	11235
 BLACK ECONOMIC EMPOWERMENT EMPLOYMENT MEASURES	11211,51
 BROADCASTING BLACK ECONOMIC EMPOWERMENT MEASURES	11211,51
@@ -36,6 +41,7 @@ Capacity Constraints Mean for Africa's Satellite	7762
 Capacity Development Measures	2230
 Capacity Strategic Goals Meaningful Connectivity	6946
 Capacity’ Means When Every Group	6947
+Charges and Non-Tariff Measures	12389
 Cheaper Satellite Still Does Not Mean	10588
 Classification and Measurement Issues	5700
 Classification and Measurement of Financial Instruments	10793
@@ -51,6 +57,8 @@ Corruption and Integrity Measures	11285
 Country Mean	1013,931
 Create Meaningful Opportunities for Youth	7719
 Cyber Defense Time Bound Measurable Target	1000
+Cyber Security Risk Management Frameworks and Measures	12364
+Cybersecurity Measures	12356
 Cybersecurity Time Bound Measurable Target Supporting	1000
 DATA LOSS PREVENTATIVE MEASURES	1938
 DESCRIPTION RATING MITIGATION MEASURE RISK MACROECONOMIC	11863
@@ -58,6 +66,7 @@ DG Means	11986
 DPI Conceptualisation and Measurement Framework	7222
 DPI Measurement	4863
 Data Mean Data Rate	5744
+Data Protection Measures	12356
 Defining and Measuring Artificial Intelligence	11140
 Delivering Universal Meaningful Connectivity. Retrieved	1243
 Deployment Measure	11007
@@ -77,6 +86,7 @@ Economic and Financial Measures	7845,149
 Education and Sustainable Environment. Measure	12154
 Efficiency Measures Adopted	10864
 Electronic Travel Authorisation Means	11986
+Eligibility and Proxy Means Test	12335
 Entry Stop List Means	11986
 Environmental and Social Measures	10829
 Environmental and Social Risks and Mitigation Measures	1988
@@ -92,6 +102,7 @@ FX Auction Meant	10025
 Fair Value Measurement	4896
 Feasibility of Intervention Measure	8376
 Fertility Measures	12151
+Fertility Other Measures	12383
 Financial Intermediation Services Indirectly Measured	2775
 Flood Response and Mitigation Measures Mr. Speaker	7695
 Framework for Conceptualisation and Measurement	5700
@@ -104,7 +115,7 @@ Government Measure	5700
 Greenwich Mean Time	12270
 HIV and AIDS. Mitigation Measures	12253
 HMIS and Performance Measurement	10829
-Health and Sustainable Environment. Trend Measure Score	11886
+Health and Sustainable Environment. Trend Measure Score	11886,466
 Human Rights Measurement Initiative	11401
 Human-Centeredness and Meaningful Human Control AI	7548
 IEA-IRENA Joint Policies and Measures Database	12261
@@ -169,10 +180,11 @@ MEASURING HOUSEHOLD EXPENDITURE ON ICT SERVICES	11424
 MEASURING OUR PERFORMANCE	11261
 MEASURING PERFORMANCE	5533,6453
 MEASURING PERFORMANCE PART C	5533
+MEASURING THE SECTOR AND ECONOMIC IMPACTS	12385
 MITIGATION MEASURES	12253
 MITIGATION MEASURES Data	12253
 Mandatory Coherence Measures	3861
-Manual for Measuring ICT Access and Use	11424
+Manual for Measuring ICT Access and Use	11424,920
 Mary's Meals and Nascent Solutions	12175
 Meacham	11135
 Meaden	3680
@@ -229,6 +241,7 @@ Means for You. Retrieved	1243
 Means for Your Business	8027
 Means of Responsibilit Monitoring	12253
 Means of Verification	12175
+Means of Voting the Reorganization Plan	12389
 Meantime	11131
 Meantouo	2342
 Mearcpe5n.t1	12151
@@ -242,25 +255,27 @@ Measles Cases Baseline	4153
 Measles Cases Maternal Mortality Rate	4202
 Measles Cases Maternal Mortality Rate Children	5352
 Measles-Rubella Drive	3707
-Measurable	4528,3020,2609
+Measurable	4528,3020,2609,2199
 Measurable KNBS Annual Emerging Technologies	7548
 Measurable NIF MICDE	7548
 Measurable Target Supporting	1000
 Measurable Target Supporting Responsibil Agencies	1000
 Measurable Target Supporting Responsibil Agency	1000
-Measure	899,59,1030,688,1763,3482,2172,742,3,130,36,46,83,724,13,16,3,75,174,16,99
+Measure	899,59,1030,688,1763,3482,2172,742,3,130,36,46,83,724,13,16,3,75,174,16,99,88,11,1
 Measure Evaluation	12138
 Measure GDP GDP	10759
-Measure Score	10759,209,902
+Measure Score	10759,209,902,470
 Measure Sub	11252
 Measure Target Actual Implementation	11134
-Measure Value Rank Unit GDP	10837
+Measure Value Rank Unit GDP	10837,1503
 Measure and Early Evidence	7151
 Measure the Contractor	12253
 Measured	2775,3470,422,2225,2248
 Measured Entity	11235
 Measured Return Early Stage	4972
-Measurement	961,251,72,3148,431,2309,1111,2561,26,286,113,552,404
+Measureme	12360
+Measurement	961,251,72,3148,431,2309,1111,2561,26,286,113,552,404,215
+Measurement Conflicts	12360
 Measurement Methods	11007
 Measurement Ministry of Comments NA Economy and Recurrent	10870
 Measurement Study Ministry of Energy and Water Resources	11136
@@ -268,17 +283,19 @@ Measurement Training	10421
 Measurement While Drilling	11405
 Measurement and Accountability for Health	3791
 Measurement and Reporting of Service Level	9123
+Measurement and Unit Rate	12360
 Measurement of Bank-Intermediated Trade Finance Gap	10718
 Measurement-Lab	11857
-Measures	970,294,210,212,91,100,111,1595,598,402,662,288,261,1113,205,436,398,75,660,448,726,909,1,10,5,49,27,76,118,85,42,39,73,180,1,54,333,108,28,208,13,39
+Measures	970,294,210,212,91,100,111,1595,598,402,662,288,261,1113,205,436,398,75,660,448,726,909,1,10,5,49,27,76,118,85,42,39,73,180,1,54,333,108,28,208,13,39,103,111
 Measures After Spate of Fatal Crashes Big	6077
 Measures Against Privacy Breach Abetment	11956
 Measures Against Privacy Breach Abetment Article	11956
 Measures Frequency	1988
 Measures Indicator Responsib Budget Procurement Purchase	1988
 Measures Lack	10829
+Measures and Constraints	12467
 Measures of Success	8184
-Measuring	718,525,1332,373,4224,587,1857,143,1005,80,133,422,164,22
+Measuring	718,525,1332,373,4224,587,1857,143,1005,80,133,422,164,22,800,28
 Measuring AI	8240
 Measuring DPI	7222
 Measuring DPI Framework	7221,1
@@ -314,6 +331,7 @@ NCA Tower. Greenwich Meantime	775
 National Development-Impact Measurement System	8184
 National Integrated Measuring	9424
 National Report Measurement	958
+Non-Tariff Measures	12389
 Notice and Awareness Measures	3861
 Notice and Awareness Measures The NDGC	3861
 OVERVIEW What It Means	6432
@@ -344,7 +362,8 @@ Project Implementation Manual PMT Proxy Means	11525
 Project for Modernisation of Means of Communication	699
 Proposed Mitigation Measures	1988
 Protection Regimes and Required Measures	3861
-Proxy Means Test	11855,172
+Proxy Means Test	11855,172,453
+Public Administration and Rural Economy. Trend Measure	12353
 Public Health Statistics and Measures	6948
 Pushing for Meaningful Connectivity	6318
 Quarterly Audience Measurement and Media Consumption Trends	6946
@@ -358,6 +377,7 @@ Redundancy Measures	2677
 Research and Development Time Bound Measurable Target	1000
 Responsibility Timing Completion Recurrent Measurement CCDB	11905
 Risk Mitigating Measures Incorporated	10829
+Risk Mitigation Measures	12356
 Risk Rating Risk-Mitigation Measures Conditions for Residual	3604
 Risk Risk Rating Mitigation Measure	10768
 Risk Risk Rating Risk Mitigating Measures	10829
@@ -381,9 +401,11 @@ SPECIFIC STRATEGIC MEASURES	940
 Safe Online Time Bound Measurable Target	1000
 Safety Net Measures	10822
 Safety and Anti-Corruption. Measure Score	12152
+Sanitary and Phytosanitary Measures	12389
 Schedule. Meaning	3714
 Security Measures	12193
 Security and Resilience Features Measures Implemented	3840
+Services Services Means	12364
 Sex and KCSE Mean Grade	2775
 Sex and Mean Scores	2775
 Stakeholders and Proposed Mitigation Measures	12253
@@ -392,6 +414,7 @@ Starlink's Architecture Means for Nigeria's Connectivity	6749
 Sub-Pillars Measured	12214
 Sunset of Transitional Measures	3861
 Sunset of Transitional Measures All	3861
+Supplementary Environmental Fiscal Measures	12389
 Support Measures	1465
 Supreme Audit Institution Performance Measurement Framework	9439
 Systemic Oversight Measures	6935,2815

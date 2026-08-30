@@ -31,7 +31,7 @@ African Startups	10010
 African Startups Database. Retrieved	12214
 African Startups That Skipped VC	7798
 African Tech Start-ups Funding Report	5214
-African Tech Startups Funding Report	4883,1
+African Tech Startups Funding Report	4883,1,7492
 African Union Startup Model Law and Policy	8495
 African. Starlink	1812
 Africa’s Startup Scene From Cotonou	10887
@@ -68,7 +68,10 @@ Boost Digital Startups Côte	6678,209,414,23
 Boost Tech Startups	3131
 Botswana Startups Through Angel Network Partnership	10151
 Broadband Market Starlink	7762
+Business Registration STARTING A BUSINESS	12342
 Business Starlink	6197
+Business Start-Up	12389
+Business Start-Up Process	12389
 Buzz Startups VC AI DefenseTech Opinions	10068
 C'est Starlink	5412
 CDC-CI Capital Extends Startup Funding Spree	10942
@@ -150,11 +153,13 @@ GARANTIES ET FACILITÉS POUR LES STARTUPS	4567
 GHz. Starlink Network CIV	3755
 GITEX Nigéria Startup Festival	3527
 GLOBAL STARTUP	2339
+Gaps and Opportunities for Zambia’s Startup Ecosystem	12376
 Get Started	12287
 Getting Started	1229,1445
 Ghana Startup Network. Spécialiste	10467
 Gitex Africa Morocco STARTUPS Vision Develop	1885
-Global Startup Ecosystem Index	2676
+Glimmertech and Starlink. All	12395
+Global Startup Ecosystem Index	2676,9700
 Google For Startups Accelerator	1363
 Google News Was Starlink and Elon Musk	5808
 Google Opens Africa AI Lab for Startup	8698
@@ -176,6 +181,7 @@ Guinea-Bissau. Starlink	7509
 Happen Next For Starlink	6629
 Harambee Stars. Mr. Isaboke	6946
 Helios Towers Starlink	3658,2617,145
+High-Level Policy Dialogue Stark	12461
 History of Regulatory Friction Starlink	6784
 Hundreds of Starlink	7422
 ICT Startups	6019
@@ -184,6 +190,7 @@ II. Starting	4217
 II.2.2 STAR-UEMOA	10922
 INCITATIONS FISCALES ET SUBVENTIONS AUX STARTUPS	4567
 ISP Starlink	3506
+Identification of Ecosystem Players and Startup Support	12376
 InStock Availability Starts	10244
 Inclusive and Diverse AI Start-up and Enterprise Ecosystem	1814
 Incubateur Startup	4567
@@ -201,6 +208,8 @@ Janngo Capital Startup Fund SLP	1061
 Janngo Start-Up Fund	9462,1
 Janngo Start-Up Fund The African Development	9463
 Jannie van Zyl OneWeb Starlink Vodacom WhatsApp	6898
+Japanese Investors and African Startups	12376
+Jenny Touch IT Starlink Other Telecommunications	12395
 K Pre-Seed STARTUP VENTURE CAPITALNovember	4095
 KMR Start-up HUB	6655
 KMR Start-up HUB. Cette	6655
@@ -257,6 +266,7 @@ Mbps. D'ailleurs Starlink	1648
 Mbps. Starlink	6245
 Meet the Google for Startups Accelerator Africa Class	5875
 Mesh Star	736
+Microfinance Institutions Startups	12444
 Million Debt Financing for Tech Startups	8350
 Million Startup Hub Project	3054
 Million Vehicle for Southern African Startups	5930
@@ -268,6 +278,7 @@ Musk’s Starlink	5933,1018
 Mustapha Iderawumi Starlink	4232
 NCA Approves Starlink's Satellite Broadband Application	1692
 Namba Has Started Plans	1644
+Namibia E-Governance Capacity Building Project Starting	12354
 Namibia Shuts The Door On Starlink	6825
 Namibia and Starlink	1980
 Namibia. Starlink	6710
@@ -293,6 +304,7 @@ Nigerian Startup Bill	9936
 Nigeria’s Startup Act	9958
 North Star	3255,1273,7525
 North Star Africa	5608
+Number of Startups	12376
 Nyombi and Starlink	6248
 Offre Startup Maroc	3007
 Open Data Startups ADD	2258
@@ -338,6 +350,7 @@ Rising Prices and Regulatory Scrutiny Starlink	4601
 Robinah Kakonge. Starlink	6264
 Rocket Health. StartupBlink	2676
 Royal Ibeh Starlink	6708,548
+SEF Startup Ecosystem Framework STEM Science	12376
 SICA-UEMOA ET STAR-UEMOA Trésor Public Constats	10711
 STAR UEMOA	10922
 STAR-P	9650
@@ -411,13 +424,14 @@ Starbase	6891
 Starburst	4434
 Starcell	7410,206
 Starcell International Liberia	7616
+Starecas3 Technologies	12478
 Stargate	2413
 Stargate UAE	6790
 Starita	10714,263
 Stark	4439,3527
 Starke	7886
 Starling	2514
-Starlink	736,523,326,34,28,1,2,26,19,1,106,10,3,2,34,2,3,16,15,24,15,3,19,27,1,1,2,1,6,11,272,8,3,11,2,17,6,13,10,30,48,15,12,70,18,2,4,9,5,2,2,13,18,9,83,22,18,10,19,14,24,3,4,4,4,11,4,10,20,40,51,7,2,60,5,1,8,33,12,4,42,22,16,2,1,31,29,1,3,1,7,8,17,2,67,14,33,6,7,27,8,57,35,1,6,14,25,9,10,10,23,18,4,12,4,17,4,42,21,2,10,13,23,1,25,19,57,1,18,35,13,22,81,146,41,6,4,2,1,24,55,3,8,5,5,6,1,15,56,19,30,75,5,3,6,20,20,1,2,19,33,1,19,35,90,20,4,9,52,13,13,11,65,2,32,3,10,5,9,1,4,1,5,24,3,69,1,1,49,1,2,2,6,18,43,16,23,23,31,8,10,22,21,1,1,2,16,8,2,11,17,7,4,5,22,14,21,42,5,1,5,41,37,1,10,4,17,16,11,12,13,22,7,14,8,39,5,6,34,19,3,36,1,3,14,10,11,1,51,22,14,34,6,44,14,1,1,6,2,19,1,14,3,1,1,1,1,9,5,1,1,11,9,5,26,24,26,3,10,1,15,2,9,15,47,28,33,11,33,1,10,46,8,8,14,3,7,17,22,2,16,6,1,12,4,35,14,27,1,4,18,3,3,10,12,9,6,1,6,10,39,24,16,6,58,7,39,7,2,25,20,105,27,1,19,4,11,26,31,7,28,11,1,1,7,2,2,2,73,136,1,1,109,6,97,56,1,42,6,61,58,3,45,3,20,7,334,114,143,1,97,201,34,52,259,81,41,2,249,12,137,7,72,35,40,12,13,131,17,67,69,12,13,78,52,52,1,102,6,47,53,257,62,119,85,186,63,111,76,20,396,42,49
+Starlink	736,523,326,34,28,1,2,26,19,1,106,10,3,2,34,2,3,16,15,24,15,3,19,27,1,1,2,1,6,11,272,8,3,11,2,17,6,13,10,30,48,15,12,70,18,2,4,9,5,2,2,13,18,9,83,22,18,10,19,14,24,3,4,4,4,11,4,10,20,40,51,7,2,60,5,1,8,33,12,4,42,22,16,2,1,31,29,1,3,1,7,8,17,2,67,14,33,6,7,27,8,57,35,1,6,14,25,9,10,10,23,18,4,12,4,17,4,42,21,2,10,13,23,1,25,19,57,1,18,35,13,22,81,146,41,6,4,2,1,24,55,3,8,5,5,6,1,15,56,19,30,75,5,3,6,20,20,1,2,19,33,1,19,35,90,20,4,9,52,13,13,11,65,2,32,3,10,5,9,1,4,1,5,24,3,69,1,1,49,1,2,2,6,18,43,16,23,23,31,8,10,22,21,1,1,2,16,8,2,11,17,7,4,5,22,14,21,42,5,1,5,41,37,1,10,4,17,16,11,12,13,22,7,14,8,39,5,6,34,19,3,36,1,3,14,10,11,1,51,22,14,34,6,44,14,1,1,6,2,19,1,14,3,1,1,1,1,9,5,1,1,11,9,5,26,24,26,3,10,1,15,2,9,15,47,28,33,11,33,1,10,46,8,8,14,3,7,17,22,2,16,6,1,12,4,35,14,27,1,4,18,3,3,10,12,9,6,1,6,10,39,24,16,6,58,7,39,7,2,25,20,105,27,1,19,4,11,26,31,7,28,11,1,1,7,2,2,2,73,136,1,1,109,6,97,56,1,42,6,61,58,3,45,3,20,7,334,114,143,1,97,201,34,52,259,81,41,2,249,12,137,7,72,35,40,12,13,131,17,67,69,12,13,78,52,52,1,102,6,47,53,257,62,119,85,186,63,111,76,20,396,42,49,132,31
 Starlink AFP	1911
 Starlink Approval	7430
 Starlink Auteur	5022
@@ -438,6 +452,7 @@ Starlink DRC S.A	2786,3,4
 Starlink DRC SA	10032
 Starlink Direct	3063
 Starlink Direct-to-Cell	5341,2790,741,1125,87
+Starlink Eswatini.net Eswatini Mobile Real	12395
 Starlink Expands	6993
 Starlink Guinea Ecuatorial	2432
 Starlink Guiné-Bissau	2701
@@ -458,7 +473,7 @@ Starlink Internet Services Nigeria Ltd	3862,2887
 Starlink Internet Services Nigeria Ltd Nil	3862
 Starlink Internet Services Nigeria Ltd and FiberOne	3862
 Starlink Kit	1695
-Starlink Kits	3332
+Starlink Kits	3332,9043
 Starlink L'ARCEP	3894
 Starlink LEO	6467
 Starlink Launches Services	2587
@@ -559,6 +574,7 @@ Starlink. Cette	4874
 Starlink. Dans	3894,1518
 Starlink. En	1648,7870
 Starlink. Fear of Economic Impact	6226
+Starlink. Figure	12395
 Starlink. Il	5412,4106
 Starlink. Jabbi	5035
 Starlink. L'opérateur	6645
@@ -587,7 +603,8 @@ Start-Up	11385
 Start-Up Act	1704
 Start-Ups	8106
 Start-Ups and Micro-enterprises	6127
-Start-up	1200,2847,79,7520,309,39
+Start-of-	12364
+Start-up	1200,2847,79,7520,309,39,382
 Start-up Act	3019,1829,658
 Start-up Act Implementation	12053
 Start-up Act Tunisie	1247
@@ -601,24 +618,27 @@ Start-ups	614,4779,2632,2211,899
 Start-ups and Entrepreneurship Development Policy	3714
 Start-ups and MSMEs	4528
 StartUp Maroc	1232
-Starting	1243,1145,584,17,38,410,912,85,8,86,387,114,437,104,252,219,130,422,617,139,30,47,139,304,591,1133,1125,47,3,7,4,83,68,43,12,32,284,572,162,219
+Starting	1243,1145,584,17,38,410,912,85,8,86,387,114,437,104,252,219,130,422,617,139,30,47,139,304,591,1133,1125,47,3,7,4,83,68,43,12,32,284,572,162,219,85,48
 Starting FY	4217
 Starting the Journey Towards	10841
-Startup	168,1079,638,373,23,954,1332,2432,2994,738,110,1022,6
+Startup	168,1079,638,373,23,954,1332,2432,2994,738,110,1022,6,507
 Startup ACT Mauritania	1271
 Startup Abuja	10332
-Startup Act	1247,1211,561,112,26,40,756,17,229,130,196,42,898,49,1370,1255,545,217,1057,54,53,627,103
+Startup Act	1247,1211,561,112,26,40,756,17,229,130,196,42,898,49,1370,1255,545,217,1057,54,53,627,103,1581
 Startup Act Djibouti	3953,17
 Startup Act Mauritanie	1247
 Startup Act Mauritanie II. Analyse	1247
 Startup Act Mauritanie Un	1247
 Startup Act Une	3157
+Startup Act and Economic Zone Expansion Macroeconomic	12376
 Startup Act. Enfin	10205
 Startup Act. Il	8751
-Startup Acts	4590
+Startup Acts	4590,7786
 Startup Anda Deploys	7324
-Startup Bill	7579
+Startup Bill	7579,4797
+Startup Blink	12376
 Startup Boost Capital	3131
+Startup Challenge Fund	12376
 Startup Charter	9598
 Startup Charter. UMAMI E-Learning Solutions	9598
 Startup Chile	11863
@@ -626,8 +646,11 @@ Startup Compliance Readiness Assessment	7519
 Startup Consultative Forum	9958
 Startup Djibouti	4567
 Startup Ecosystem Challenges	12172
+Startup Ecosystem Framework	12376
+Startup Ecosystem Framework. Available	12376
 Startup Ecosystem Status Report	5883
 Startup Ecosystem for Africa	9321
+Startup Ecosystem of Zambia	12376
 Startup Ecosystems	5200
 Startup Festival	9117
 Startup Formation	4528
@@ -636,16 +659,20 @@ Startup Funding	3859
 Startup Garage	10053
 Startup Hub	3054
 Startup Hub Project	3054
+Startup Infrastructure	12376
+Startup Initiatives	12376
 Startup Istanbul	2212,1883
 Startup Label	9598
 Startup Label Certificate	9598
 Startup Label Start-w	1885
 Startup Law	1889
 Startup Law. Ghana	1889
+Startup Map	12376
 Startup Odi Group	10436
 Startup Pact and Trade Desk	2871
 Startup Pitchathon	10133
 Startup Success Team	6058
+Startup Support and Ecosystem Stakeholders Map	12376
 Startup Tunisia	10692
 Startup Tunisia Global Program. Tunisia and China	2475
 Startup VC Fund FMO	865
@@ -655,6 +682,8 @@ Startup Wave	3157
 Startup World Cup	3378,4239,103
 Startup and Innovation Centre of Excellence	10236
 Startup and Innovation Startup	4590
+Startup and Investment Climate	12376
+Startup and Investment Landscape	12376
 Startup and Technical Centre of Excellence	9853
 Startup-Kapital	694,1
 Startup-Szene	694,1
@@ -668,7 +697,7 @@ StartupBlink's Global Startup Ecosystem Index	3377
 StartupList Africa	12214
 Startupbootcamp	5159
 Startupbootcamp for Meta	10133
-Startups	168,1075,4,845,328,22,348,18,8,10,42,151,138,18,203,17,900,233,33,6,58,258,20,69,459,36,248,260,44,39,97,729,131,467,33,50,344,30,778,110,342,950,386,434,3,1,402,318,331,41,18,188
+Startups	168,1075,4,845,328,22,348,18,8,10,42,151,138,18,203,17,900,233,33,6,58,258,20,69,459,36,248,260,44,39,97,729,131,467,33,50,344,30,778,110,342,950,386,434,3,1,402,318,331,41,18,188,115,20,68
 Startups About	6155
 Startups Decide	3929,2919
 Startups Desk	8008,1459
@@ -678,7 +707,9 @@ Startups Headquartered In Africa	4972
 Startups NITDA Moves	9958
 Startups Nigerian	2277,33,1068
 Startups Project Progress Reports	11863
+Startups Startups	12376
 Startups Strategy Students Summit Sustainability Syria	5322
+Startups Ten Zambian Startups	12376
 Startups With EGP	5322
 Startups and Established Technology	11863
 Startups and Innovators	11345
@@ -686,15 +717,19 @@ Startups and Innovators Program Support Stage-appropriate	11345
 Startups and MSME Liaison	4528
 Startups and Micro-Enterprises Noureddine Zahid. Officials	5952
 Startups and Operations	5413
+Startups and SMEs	12356
 Startups de IA	2816
 Startups. Un	4567
 Step Back Starlink	1812
+Support Innovation and Startups	12399
 Support Startups	2676
 Support Startups Uganda	2676
 Supporting Environment for Social Startups	3054
 Swatini's Starlink	2748
 Sénégalais Déploiement de Starlink	4899
 Sénégalais L’arrivée de Starlink	4899
+TVET Startup Kits	12412
+Tabular Mapping of Startup Ecosystem Mapping	12376
 Taifa Stars	2857,3026,94,2907
 Tanzania Startup Association	5883
 Tech Senegal's Startup Law Advances	2333
@@ -747,7 +782,9 @@ Wi-Fi. Starlink	9518
 Will Probably Cost Starlink	6629
 Win Back Its Startups	4972
 Wireless Technologies TelOne Potraz Starlink	6244
+ZIPSS Start-of-Day	12364
 Zambia and Zimbabwe. Starlink	5617
+Zambian Startup Ecosystem Overview	12376
 Zero Malaria Starts	10776
 Zimbabwe Commemorates Gilrs In ICT Starlink	3016
 Zimbabwe Starlink	6339

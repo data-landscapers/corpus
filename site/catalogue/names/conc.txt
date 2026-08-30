@@ -89,7 +89,8 @@ CONCESSIONAL FINANCE A European Fund for Sustainable	1818
 CONCLUDING	1938
 CONCLUDING REMARKS	10861
 CONCLUDING REMARKS African	10861
-CONCLUSION	737,221,40,11,239,691,1,2186,333,389,397,432,2926,1,1066,1042,50,18,95,3,87,15,216,15,20,31,288,180,260
+CONCLUSION	737,221,40,11,239,691,1,2186,333,389,397,432,2926,1,1066,1042,50,18,95,3,87,15,216,15,20,31,288,180,260,368,2,84
+CONCLUSION ANNUAL INFORMATION AND COMMUNICATION TECHNOLOGY	12395
 CONCLUSION Angola	9399
 CONCLUSION Artificial	11156
 CONCLUSION Au	10821
@@ -101,9 +102,13 @@ CONCLUSION Remote Channels ASYCUDA WORLD Email	10762
 CONCLUSION South Africa	1810,6795
 CONCLUSION The NBA Election Working Group	10049
 CONCLUSION The National Digital Health Strategy	396
+CONCLUSION The National FinTech Strategy	12444
 CONCLUSION The Republic of Ghana	4126
+CONCLUSION These Public Service ICT Data	12360
 CONCLUSION Thisstudyexaminedhowinstitutional	8602
+CONCLUSION Whilst Rwanda	12333
 CONCLUSIONS	236,976,31
+CONCLUSIONS AND FURTHER AREAS OF RESEARCH	12445
 CONCLUSIONS AND RECOMMENDATIONS	2518
 CONCLUSÃO	2816,703
 CONCLUSÃO E RECOMENDAÇÕES	11561
@@ -161,20 +166,22 @@ Concentrating	8130,2711
 Concentration	961,5426,445,650,66,3406,180
 Concentration Globally	10954
 Concentration Risk	11209
+Concentration of NIDA	12328
 Concentration of Risk	6793
 Concentrix	11162
 Concentrix CVG Malaysia Sdn. Bhd Data	7167
 Concentrix Egypt Teleperformance General Manager Africa	11162
 Concep1t0o	4209
 Concepción	4209
-Concept	1865,252,607,853,3089,989,3485,846
+Concept	1865,252,607,853,3089,989,3485,846,413,54
 Concept Environment and Social Review Summary	1988
 Concept Note	1154,4444,5221,321
 Concept Note and Programme	12174
 Concept Note for Zimbabwe's National Research Policy	1554
 Concept Note. Page	10819
 Concept Project Information Document	12253
-Concept Stage	1193,1929
+Concept Review Decision	12426
+Concept Stage	1193,1929,9304
 Concept and Role for UHC. Geneva	10829
 Concept and Viability	11134
 Concept of MORHCSA	1778
@@ -206,7 +213,7 @@ Conceptos Liquidac. Liquidac. Liquidac. Ley	4209
 Concepts	236,501,524,835,4697,155,1488,692,278,1852,38,855
 Concepts Age-specific	12151
 Concepts Ltd	718
-Concepts and Definitions	11258,38
+Concepts and Definitions	11258,38,1135
 Concepts and Methods	11258
 Conceptual	396,355,510,1687,1311,173,810,2036,481,31,231,355,226,526,1,108,522,1181,1050
 Conceptual Al-Amin	9129
@@ -242,10 +249,10 @@ Concernant la Régulation	10975
 Concernant le Niger	998
 Concerned	9660
 Concerned Medics Foundation	7895
-Concerning	25,3456,1345,6093,1041
+Concerning	25,3456,1345,6093,1041,443
 Concerning the Identification and Registration of Voters	11864
 Concerningly	11900
-Concerns	1696,196,626,371,668,201,681,293,6,346,131,27,252,106,1678,796,673,376,846,365,395,127,129,210,40,388,28,9,541,9,43
+Concerns	1696,196,626,371,668,201,681,293,6,346,131,27,252,106,1678,796,673,376,846,365,395,127,129,210,40,388,28,9,541,9,43,156
 Concerns Djibouti	469
 Concerns Raised	12253
 Concertation	8227
@@ -264,6 +271,7 @@ Concession Agreement	9168,87,1348
 Concession Agreements	11863
 Concession Attente Primature Hydraulique	10975
 Concessional	107,5,44,1,3,2,4,55,1,1,1,3,3,7,70,3,2,2,7,88,3,4,9,1,110,7,9,14,11,6,167,4,2,1,6,1,8,1,11,3,1,2,169,12,3,5,2,6,5,1,3,1,6,20,1,166,7,2,2,15,61,3,10,288,6,186,1,128,148,202,3113,1303
+Concessional Financing and Incentives	12399
 Concessional Loan	106,85,47,62,19,155,3,103,1,415,1256,1,1527,2885
 Concessional Loan Framework Agreement of Rwanda Smart	791
 Concessional Loan. Phase	482
@@ -284,6 +292,8 @@ Conceção	11547
 Concha Verdugo Yepes	11559
 Conciliation	10975,159,920,107
 Conciliation Commission	10975
+Conciliation Procedure	12364
+Conciliation and Arbitration Procedures	12364
 Conciliação	10753
 Concilier	8515
 Concise	8130
@@ -301,10 +311,12 @@ Conclue	4549
 Conclui-se	10780
 Concluir	1701,9675
 Concluiu	10777
-Conclusion	25,371,23,328,19,8,125,59,51,210,42,18,154,121,125,265,41,108,183,200,301,171,103,106,234,5,2,243,150,19,317,39,93,173,10,121,20,93,58,106,66,336,4,1,281,10,12,24,101,1,3,1,100,83,48,475,11,18,6,21,25,4,29,190,100,2,1,98,56,295,1,23,12,173,44,236,28,30,1,96,35,100,1,108,153,18,369,458,1,108,162,360,129,140,34,184,77,403,38,16,4,37,1,12,31,9,27,39,35,2,2,13,36,4,18,80,1,3,1,13,8,27,8,1,1,66,26,25,90,150,13,179,79,86,2,18,13,18,19,26,107,28,13,31,5,6,3,31,6,8,1,4,47,4
+Conclusion	25,371,23,328,19,8,125,59,51,210,42,18,154,121,125,265,41,108,183,200,301,171,103,106,234,5,2,243,150,19,317,39,93,173,10,121,20,93,58,106,66,336,4,1,281,10,12,24,101,1,3,1,100,83,48,475,11,18,6,21,25,4,29,190,100,2,1,98,56,295,1,23,12,173,44,236,28,30,1,96,35,100,1,108,153,18,369,458,1,108,162,360,129,140,34,184,77,403,38,16,4,37,1,12,31,9,27,39,35,2,2,13,36,4,18,80,1,3,1,13,8,27,8,1,1,66,26,25,90,150,13,179,79,86,2,18,13,18,19,26,107,28,13,31,5,6,3,31,6,8,1,4,47,4,30,6,2,23,8,13,4,28,2
 Conclusion AI-driven	11140
 Conclusion Acknowledgements References Appendix	7759
+Conclusion Adopting ICT	12327
 Conclusion Algorithmic	7966
+Conclusion And Recommendations	12411
 Conclusion Appendix A Survey	10977
 Conclusion As South Africa	8022
 Conclusion Bibliography	4734
@@ -316,6 +328,7 @@ Conclusion CHAPTER	11156
 Conclusion Cape Verde	11909
 Conclusion Ce	5159
 Conclusion Challenge	9237
+Conclusion Complaints	12395
 Conclusion Conclusion	10822
 Conclusion Continuity	10784
 Conclusion Data	12189
@@ -323,6 +336,7 @@ Conclusion Despite	11907
 Conclusion Digital	10725
 Conclusion Digitalisation	12278
 Conclusion Digitalising	7910
+Conclusion District	12379
 Conclusion Faire	11669
 Conclusion Ghana’s Data Protection Act	8776
 Conclusion Ghand	6936
@@ -369,7 +383,7 @@ Conclusion and Recommendations	236,3155,8760
 Conclusion and Recommendations. The National	12151
 Conclusion. L’interopérabilité	9177
 Conclusion48 Recommendations	12227
-Conclusions	236,529,447,612,1977,3031,1604,1180,353,912,38,960,146,230
+Conclusions	236,529,447,612,1977,3031,1604,1180,353,912,38,960,146,230,74
 Conclusions PHC	771
 Conclusions and Lessons Learnt	236
 Conclusions and Recommendations	1824,10182
@@ -409,7 +423,7 @@ Concurrence SACE	10975
 Concurrence Se	7655
 Concurrency	7560,1103,3134
 Concurrency and Computation	8605
-Concurrent	1828,4044,3251
+Concurrent	1828,4044,3251,3237
 Concurrently	1828,931,417,407,864,206,594,1755,202,1924,488,236,916,73,370
 Concurrently Maintainable Tier III	9123
 Concursal	4557
@@ -427,6 +441,7 @@ Council Conclusions	11155
 Cuentas CONCEPTO	4209
 Cuentas CONCEPTO PROM. EMPRES. EXTERIOR PROVINCIAL	4209
 Cyber Concerns	9027
+D. Concept Description	12426
 D. Concept Description A US	12137
 D. No Country of Concern	5773
 D.G COORD. ADMIN. ASUNT. JUR.- Concepto	4209
@@ -548,6 +563,7 @@ Electricité Conclusion L'année	10975
 En Conclusion	11034
 Entidade Concedente	11443
 Ethical Concerns	12210
+Ethical and Privacy Concerns	12356
 F. Conclusions and Policy Recommendations	1828
 F. DELCROS Conclusion	11154
 FOSS. Conceptual	8021
@@ -594,10 +610,12 @@ IV. CONCLUSION	2966
 Ijara. Concernant	10965
 Implementation Roadmap. Conclusions	6832
 India-Africa Defence Minister's Conclave	11579
+Information Gaps and Japanese Investor Concerns	12376
 Infrastructure Concession Regulatory Commission	10603
 Infrastructure and Capacity Conclusion	4848
 Innovation Technologique Conception	3675
 Introduction Benin Ghana Kenya Uganda Conclusion	10822
+Items of Information and Related Concepts Apart	12445
 Ivoire Conception	4895
 JURISDIC.MILITAR.- Concepto	4209
 KEY TAKEAWAYS CONCLUSION ACKNOWLEDGEMENT WHITE PAPER	6936
@@ -614,10 +632,13 @@ Key Concerns Regarding AI	12210
 Key Concerns and Policy Considerations	1243
 Klipfontein Hospital Concept	11248
 LEGAL CONCERNS	315
+LITERATURE REVIEW OF KEY CONCEPTS	12333
 LOGISTICA E INST. R. CONT.- Concepto	4209
 Lauréats du Concours	8269
 Layout Abdoul Malick ALMAIMOUNE Conception	6959
 Le Comité de Concertation des Partenaires Techniques	11944
+Legal Provisions for Conciliation	12389
+Level Of Worry Concerning Financial Management	12409
 Liberia's Public Procurement and Concessions Commission	9338
 Liberia’s Public Procurement and Concessions Commission	9742
 Life Counts CHAPTER SEVEN Conclusion and Recommendations	12151
@@ -628,6 +649,7 @@ MARIA DA CONCEIÇÃO JOSÉ MALUNDO DANGO	10751
 MATTER CONCERNING INFRINGEMENT	3307
 MEDICINA TRAD.- Concepto.-	4209
 MESA DE LA CAMARA- Concepto	4209
+METHODOLOGY AND RATIONALISATION OF KEY CONCEPTS	12445
 MINISTERIO CONCEPTO	4209
 MINISTERIO CONCEPTO ACTUAL	4209
 MINISTERIO CONCEPTO ACTUAL CATEGORÍA MINISTERIO CONCEPTO	4209
@@ -640,6 +662,7 @@ MORHCSA Concept	1778
 MW Concession	10975
 Main Panel Conclusions Data and Evidence	11907
 Main Persons of Concern	10841
+Market Concentration	12389
 Master. Concernant	1598
 Mid-year Fiscal Policy Review CONCLUSION	7695
 Mineral Access Concessions	6534
@@ -653,6 +676,7 @@ Mº DEFENSA NACIONAL Cuentas CONCEPTO	4209
 Mº SEGURIDAD NACIONAL Cuentas CONCEPTO	4209
 NICA DE CONCESSÃO DE DIREITOS FUNDIÁRIOS	11384,24
 NIP Numbers Conclusion	10812
+NISR Conclusion The Vital Statistics	12413
 NOTARIA DE LA REGION CONTINENTAL.- Concepto	4209
 NOTARIA DE LA REGION INSULAR.- Concepto	4209
 Namibia. C. Conclusion	2022
@@ -701,6 +725,7 @@ PubMed Google Scholar Contributions Conceptualization	10784
 Public Procurement and Concessions Act	9088
 Public Procurement and Concessions Act. Within	5994
 Public Procurement and Concessions Commission	3438,5649,1,1039
+Public Service of Namibia. Conclusion	12325
 PwC Concluding	7751
 PÚBLICO MINISTERIO CONCEPTO MINISTERIO CONCEPTO HACIENDA	4209
 Quadro Conceptual	11569
@@ -766,11 +791,13 @@ South Africa Conclusion	9129
 South Africans. CONCLUSION Chair	3264
 Sovereignty Concerns	7750,2696
 Structural Concerns Specific	9123
+Summarised Conclusion	12435
 Summary Conclusions	12257
 Summary and Conclusion	11552
 Summary of Recommendations and Conclusion	12182
 Sustainable Development PCN Project Concept Note	11863
 Sutherland Egypt Concentrix Egypt President Amr	11162
+Systems Project Conceptual	12395
 TATS MEMBRES DE L’UEMOA Concernant	10711
 TAXA DE CONCLUSÃO	10766
 TESORO PÚBLICO ACTUAL MINISTERIO CONCEPTO	4209
@@ -806,6 +833,8 @@ VIII. Conclusion	6832
 VIII. Conclusion South Africa	6832
 VIII. Conclusions	3583
 VIVIENDAS Y URBANISMO Cuentas CONCEPTO	4209
+WHOM IT MAY CONCERN REQUEST	12400
+WHOM IT MAY CONCERN Subject	12374
 World Bank. Conclusion	12253
 XII. CONCEPTS ET DEFINITIONS Abandon	10847
 Y BANCO DE SANGRE.- Concepto.-66111	4209

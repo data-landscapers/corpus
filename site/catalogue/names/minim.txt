@@ -28,6 +28,7 @@ Data Minimisation and Security Breach. Results	962
 Data Minimization	3861,749,2938,3173
 Data Minimization All	3861
 Data Privacy and Security Baselines Minimum	3861
+De Minimis	12389
 De Minimis Part II	573
 Death X Minimum	12138
 Details Minimum Paid-up Capital KES	10738
@@ -46,6 +47,7 @@ Guaranteed Minimum Banking Service	10967
 Harm Minimization	3861
 Health Documents PWP Minimum Interoperability Standard	1009
 High Medium Basic Minimal	5665
+Identify Minimum Separation	12389
 Kenya's Minimum Energy Performance	12256
 Lu Heng's Minimum Initial Specification	11797
 MES Minimum Emission Standards MTS Main	11228
@@ -53,18 +55,20 @@ MINIMAL TO CAUTIOUS	12241
 MINIMAL TO Risk	12241
 MINIMISING CONFLICT OF INTEREST	11218,6
 MINIMIZATION	3861
+MINIMUM BALANCE REQUIREMENTS SECTION	12324
 MINIMUM INTEROPERABILITY STANDARDS	11184
 MINIMUM REQUIREMENTS BY CLASS OF SOCIETIES	7845
 MINIMUM REQUIREMENTS FOR CONSULTANT'S QUALIFICATIONS	3678
 MISS Minimum Information Security Standards MMM	5533
 MPSS Minimum Physical Security Standards MTDP	5533
+Mandatory Minimum Energy Efficiency Performance Standards	12389
 Mandatory SIM Registration Minimal	10415
 Mean Annual Maximum and Minimum Temperatures	2775
 Mean Annual Minimum Temperatures	2775
 Meet Minimum Requirements	11005
 Meeting MP Member of Parliament MPSS Minimum	11218
 Meeting Minimum Fiscal Transparency Requirements Significant	11005
-Minimal	961,4286,967,218,2691,493,1110,375,766,85
+Minimal	961,4286,967,218,2691,493,1110,375,766,85,424
 Minimal Data Collection	12281
 Minimal Identity	10775
 Minimal Meaning	9855
@@ -88,11 +92,12 @@ Minimize	1988,7135,1652,439,1026
 Minimized	10550
 Minimizing	1988,5771
 Minimizing Algorithmic Bias and Discrimination	1161
-Minimum	34,713,24,1006,163,1381,357,36,147,567,6,298,933,11,3,1261,6,602,1575,205,275,506,767,100,153,53,13,57,311,234,60,3,14,67,11,1,3,39,13,35,160,11
+Minimum	34,713,24,1006,163,1381,357,36,147,567,6,298,933,11,3,1261,6,602,1575,205,275,506,767,100,153,53,13,57,311,234,60,3,14,67,11,1,3,39,13,35,160,11,132,43,51,43
 Minimum Access Conditions	5620
 Minimum Alternative Tax	5247,5381
 Minimum Assurance Level	3787
 Minimum Cybersecurity Guidelines	9695
+Minimum Duration	12389
 Minimum Emission Standard Compliance	11228
 Minimum Emission Standards	11228
 Minimum Energy Performance Standards	12206
@@ -107,7 +112,9 @@ Minimum Interoperability Standard	11184
 Minimum Interoperability Standards	11184
 Minimum Licence Duration	6891
 Minimum Liquid Capital KES	10738
+Minimum Loan Size	12389
 Minimum Minimum Minimum	7845
+Minimum Monthly Allowance Broad-	12395
 Minimum N	9446,1510
 Minimum Physical Security Standards	11986
 Minimum Required Data	6423
@@ -116,10 +123,14 @@ Minimum Reserve Price	8582
 Minimum Rural Download	11857
 Minimum SLA Requirements	11995
 Minimum Sample Size Requirements for Seasonal Forecasting	236
+Minimum Standards for Electronic Payments EPS Fast	12390
 Minimum Team Size	5665
 Minimum Technical	6432
 Minimum Viable Product	10970
+Minimum Wage Attributes	12389
+Minimum Wage Rate	12389
 Minimum Wages	226
+Minimum Workstation Configuration Requirements	12364
 Minimum de Perception	6954
 Minimum-Wages-3.pdf	226
 Ministry of Health and Population MPA Minimum Package	10829
@@ -128,6 +139,8 @@ National Minimum Wage Act	11280
 No. Equipment Minimum Lifespan	34
 Non-ECC Minimum	34
 Operations Parameter for Data Centre Room Minimum	9123
+Paid-in Minimum Capital Requirements for Domestic	12389
+Paid-in Minimum Capital Requirements for Foreign	12389
 Population Urban Minimum	11857
 Printing Works MIOS Minimum Information Security	11986
 Protecting the Work Force Child Labour and Minimum	1988
@@ -141,4 +154,5 @@ Survival Minimum Expenditure Basket Civil Protection	10763
 System Processor Minimum Intel Quad Core	34
 TEAM COMPOSITION AND MINIMUM QUALIFICATION	3678
 Technical Minimum Require-	6946
+Token USB. Minimum	12364
 Uninterrupted Power Supply Minimum	9123

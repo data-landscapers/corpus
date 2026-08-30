@@ -1,5 +1,6 @@
 A. Definitions	11995
 A.1 Definitions	8840
+ABBREVIATIONS AND DEFINITIONS Access Control	12419
 ACCESS DEFICITS IN URBAN AND RURAL	11572
 AFFECTED TRANSACTIONS AND OFFERS Definitions	3714
 AIDS Acquired Immune Deficiency Syndrome DMMU	1988
@@ -11,6 +12,9 @@ Acronym Definition Acronym Definition ETA Electronic	11986
 Acronym Definition Acronym Definition PI Performance	11986
 Acronym Definition LRB Late Registration of Birth	5533
 Acronym Definition STAGES Screen Talent and Global	5533
+Acronyms and Definitions	12328
+Acronyms and Definitions BC Birth Certificate CSOs	12328
+Act News Defeat Poverty	12336
 Act. DEFINITION OF OPEN DATA	11854
 Advancing Ghana's National Security and Cyber Defence	8767
 Advancing the Agenda Defining	7596
@@ -31,6 +35,7 @@ BT DEFECTUEUX	10975
 BUDGET DEFICIT	5655
 BUSINESS RESCUE PROCEEDINGS Application and Definitions	3714
 Baseline Cybersecurity Measures. Define	1777
+Benefits of Standardizing Data Definition	12360
 Birthday Charity Run of Chief of Defence Forces	9781
 Board Governance Deficit	11138
 Botswana Defence Force	3887
@@ -52,6 +57,8 @@ CORE COMPONENTS Components IHE Definition	1009
 COULIBALY RESULTATS DEFINITIFS DU RGE	10875
 CREATING PUBLIC VALUE Defining	961
 CS for Implementation Plan Defence	1131
+CSD Collateral Setup Default TTC	12364
+CSD Transfer Default TTC	12364
 CSIR Defence and Security	10889
 CURRENT GOVERNANCE DEFICIENCIES	3861
 Cameroon Ministry of Defense	339,7250
@@ -71,15 +78,17 @@ Civic DEFENDERS	1566
 Civil Defence Corps NSIP Nigeria Social	11857
 Classification Definition Examples Residency Security Level	5244
 Clear Role Definitions and Mandates	6936
+Clearly Defined	12389
 Clearly Defined Financial Inclusion Outcomes	940
 Coker-Odusote. The Defence	8120
 Collective Defence Primary	11138
 Comissão de Defesa	9258
 Commerce and Defence	10445
-Concepts and Definitions	11258,38
+Concepts and Definitions	11258,38,1135
 Consejo Nacional Fiscalía Defensor	4209
 Conselho Administrativo de Defesa Econômica	8760
 Contents Definitions	11017
+Contents Working Definitions	12360
 Corporate Accounts Definition	11986
 Countries Project Definition Project Stage Project	10892
 Courts Defining the Red Lines	4583
@@ -130,7 +139,7 @@ DEFINITION OF FINANCIAL INCLUSION	940
 DEFINITION OF TERMS	2776,4772
 DEFINITION OF TERMS Average SMS	2776
 DEFINITION OF TRUST ARCHITECTURE Trust Architecture	11138
-DEFINITIONS	34,4698,512,1663,3500,789,44,617
+DEFINITIONS	34,4698,512,1663,3500,789,44,617,510
 DEFINITIONS AND ACRONYMS	11298
 DEFINITIONS AND INTERPRETATION	28,11162
 DEFINITIONS AND INTERPRETATION Definitions	11190
@@ -145,6 +154,7 @@ DEFINITIONS Gender	11902
 DEFINITIONS Ministry of Health All	34
 DEFINITIONS OF TELECOMMUNICATIONS CATEGORIES	11211
 DEFINITIONS OF TELECOMMUNICATIONS CATEGORIES..104 APPENDIX	11262
+DEFINITIONS SECTION	12324
 DEFINITIONS Table	11857
 DEFINITIVE PPP	3094
 DEFINIÇÃO DOS INSTRUMENTOS E AVALIAÇÃO AMBIENTAL	11406
@@ -157,6 +167,9 @@ DES PRINCIPES DE LA DEFINITION	785
 DEffects	5349
 DG Definition	11986
 Data Classification Data Classification Define	6432
+Data Element Definitions	12360
+Data Element Definitions Data	12360
+Data Explanation Example Good Poor Definition	12360
 Data Indicator Name Definition	1284
 Data Protection Defines	10819
 DeFacto	9601
@@ -164,14 +177,18 @@ DeFi Decentralised Finance	8590
 DeFiLlama	11117
 Death of Member of Defence Force	12226
 DefExpo	11579
-Default	170,3691,1381,2,1179,4538,220,673,122,209
+Default	170,3691,1381,2,1179,4538,220,673,122,209,204,50
+Default Efficient Business Processes Privacy Data	12359
 Default GBB Hosting	10157
+Default Infrastructure Sharing Bring Your Own	12359
 Default Method Method	11036
 Default Outcome Where No Election	4896
 Default Position	3861
 Default Rates	10718
 Default Settlement Layer of Choice	9899,4
+Default TTC	12364
 Default and Recovery Statistics	11310
+Defaulting Party	12400
 Defaults	10718,1258
 Defeat	1000
 Defeat Ruto	7869
@@ -180,7 +197,7 @@ Defecação	10760
 Defect	11181,771
 Defect Management	5665
 Defeito	11461
-Defence	21,566,2188,1112,641,687,626,1707,299,20,744,788,1302,484,89,11,4,318,318,31,30,316
+Defence	21,566,2188,1112,641,687,626,1707,299,20,744,788,1302,484,89,11,4,318,318,31,30,316,71
 Defence AI Innovation Hub	4528
 Defence Act	11289
 Defence DoJ Department of Justice DPME Department	11261
@@ -234,17 +251,23 @@ Defense Command and Control Centre for Cybersecurity	1000
 Defense Production Act	4447
 Defense Secretary Pete Hegseth	5287
 Defense Space ALTON Director Information Administration	11857
+Defense and Investigation	12483
+Defense and Security Wings	12453
+Defense and Security Wings EGD	12453
 Defense and Sustainability	8275
 Defense des Utilisateurs des Technologies Numériques	7920
 Defenses	6202
-Defensive	10088
+Defensive	10088,2254
 Defensive Driving	6946
+Defensive Name	12342
 Defensor	4209
 Defer	11156
 Deferimento	11435
 Deferrals	11955
 Deferred	4896,2325,3572,1162,45
 Deferred Drawdown	1284,583,1695,42,7164,61,135,453,143,295
+Deferred Net DNS Participant	12364
+Deferred Net Settlement	12364
 Defesa	539,255,1643,347,32,3170,3413,1351,680,90
 Defesa Nacional	549,6421,3802,11,786
 Defficiency	6729
@@ -260,12 +283,18 @@ Deficits	961,10584,647
 Deficiência	10754,23,644
 Deficiência O Censo	11577
 Defin-	8602
-Define	1000,777,1742,159,294,154,1118,421,12,1,745,9,400,104,404,208,1558,749,781,129,10,185,57,55,84,60,331,6,16,234,2,52,6,145,206,97
+Define	1000,777,1742,159,294,154,1118,421,12,1,745,9,400,104,404,208,1558,749,781,129,10,185,57,55,84,60,331,6,16,234,2,52,6,145,206,97,32,13,3,40,20
+Define Enterprise Architecture	12359
 Define KPIs	4528
+Define National	12419
+Define New Areas of Benefit	12419
 Define Performance Benchmarks	11952
 Define and Implement Innovative Financing Mechanisms	958
 Define the Define the Cybersecurity Implement	1777
-Defined	1824,272,3148,306,882,234,2462,1640,1089,374,24
+Define the IT Strategy	12359
+Defined	1824,272,3148,306,882,234,2462,1640,1089,374,24,134
+Defined Milestones and Timelines	12356
+Defined Standards	12419
 Defines	396,2662,7850,314,47
 Defines the Application Programming Interface	11269
 Defines the Year	7445
@@ -281,6 +310,8 @@ Defining Capabilities and Application Areas	11156
 Defining Choice for Africa’s Future	6690
 Defining Digital Transformation	5349,351
 Defining Era	4856
+Defining FinTech	12444
+Defining Fintech	12444
 Defining Matters	5700
 Defining Moment	8978
 Defining Objectives and Areas of Application	2958
@@ -291,24 +322,41 @@ Defining the RPPI An RPPI	11286
 Definir	167,1534,1115,703,699,6536,29,577,21,49,14,4,3,5,2,3,55,2,1,50,332
 Definite-match	8,11,11,5,4,4,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,2,2,1,2,3,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,2,4,8,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,3,10,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,2,6,3,4,7,9,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,2,3,13,1,21,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,2,2,3,1,1,1,1,1,1,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,2,1,2,1,1,1,1,1,1,1,1,1,1,1,1,30,18,10,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,12,5,4,2,1,16,3,8,3,1,2,11,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,15,23,6,16,3,1,1,17,1,1,2,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,2,1,2,1,1,1,1,1,1,1,1,1,1,1,4,1,3,1,1,2,1,1,1,1,1,2,2,1,1,1,1,1,1,1,2,1,16,7,4,6,73,123,2,1,1,1,2,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,6,1,1,1,1,2,1,3,1,1,1,1,1,1,1,3,1,1,1,1,1,1,1,3,1,1,1,1,1,1,3,1,1,1,1,1,1,1,1,2,1,1,1,109,93,357,1,7,3,1,1,1,1,7,1,4,4,1,1,1,1,1,1,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,6,1,3,1,2,1,1,1,1,6,1,1,2,3,1,1,2,2,4,275,1640,286,1,2,7,1,5,8,3,23,4,11,1,5,2073,2044,299,102,24,256,144,41,95,12,86,109,123,233,154,745
 Definitely	12214
-Definition	545,221,1058,1337,924,1580,35,1048,143,995,890,348,113,1484,431,25,81,18,20,121,452,47,27,43,160,29,10,109,7
+Definition	545,221,1058,1337,924,1580,35,1048,143,995,890,348,113,1484,431,25,81,18,20,121,452,47,27,43,160,29,10,109,7,59,29
 Definition ABIS Automated Biometric Identification System	11986
+Definition Acceptance	12364
 Definition Appendix	11857
 Definition Applicants	11986
+Definition Authorised	12364
+Definition Beneficiary Ben	12364
+Definition Block Block A BoZ-only	12364
+Definition Constraining Constraining Processing	12364
+Definition Definition	12360
+Definition Delivery	12364
 Definition Digital	11986
 Definition Digital-Inclusion.pdf WEF	1243
+Definition Fall-back Fall-back Documented	12364
+Definition Government of GRZ	12364
 Definition Implementation of ETA	11986
+Definition Insolvency Any	12364
+Definition International	12364
+Definition Materials Materials These Rules	12364
 Definition Number	11986
 Definition Number of DHA	11986
 Definition PKI Public Key Infrastructure PMDS	5533
+Definition Participant User PUSA	12364
+Definition Payment	12364
 Definition Percentage	11986
 Definition Public	11986
+Definition Public Key	12364
 Definition RSA	11986
 Definition Reform	7451
 Definition Section	3161
 Definition Section This Section	3161
+Definition Straight Through	12364
 Definition The Namibia Producer Price Index	11152
 Definition Unless	12146
+Definition User User An Authorised Person	12364
 Definition Workstreams Possible Actors Goal Build	899
 Definition Workstreams Possible Actors Goal Transform	899
 Definition and Analytical Framework	7966
@@ -330,7 +378,7 @@ Definition of SEP	3161
 Definition of SEP Section	3161
 Definition of Sensitive Personal Data	11880
 Definition of Terms	12302
-Definitions	7,18,1,1,1,734,1545,854,342,211,258,1062,210,421,1167,706,3343,93,30,172,1,1,4,7,1,58,17,4,7,125,16,100,55,384,8,83,163,4,12,68
+Definitions	7,18,1,1,1,734,1545,854,342,211,258,1062,210,421,1167,706,3343,93,30,172,1,1,4,7,1,58,17,4,7,125,16,100,55,384,8,83,163,4,12,68,30,36,5,9,21,18,34
 Definitions Asbestos Asbestos	1988
 Definitions CHAPTER	11255
 Definitions Central Bank Digital Currency	11130
@@ -342,6 +390,8 @@ Definitions FEATURE PHONE OWNER	11004
 Definitions GENDER GAP	11964
 Definitions Implementers Organisations	11017
 Definitions PART	3714
+Definitions PART II	12447
+Definitions PART II STATEMENT OF POLICY	12365,9
 Definitions Retrieval-augmented	12210
 Definitions SCHEDULES Schedule	11956
 Definitions Submissions	4732
@@ -365,12 +415,14 @@ Definições	14,1,524,37,218,1643,1,428,653,755,2188,508,3777,7,1,28,575,1,1,4,1
 Definições CAPÍTULO II	11461
 Definições Os	5169
 Definições Para	6462,4912,527
+Deflation	12403
 Deflator	11258
 Deforestation	12233
 Deforestation Regulation	11149
 Defrauded Isma'il Bilyaminu	12038
 Democratic Deficit	7147
 Departamento da Defesa	11405
+Department of Defence	12373
 Department of Defense	5216,71
 Deportations Definition	11986
 Description Digital Defenders Partnership	523,1034
@@ -418,8 +470,13 @@ GUIDANCE NOTES FOR ELECTORAL PURPOSES DEFINITIONS	1630
 Gazette. Section VIII Defined Terms Any	11233
 Glossary Term Definition ABAC Attribute-Based Access	11952
 Glossary of Definitions	1597
+Glossary of Definitions and Statistical Items	12338
+Good Poor Definition Reason	12360
 Government of Cameroon's Ministry of Defense	303,36,7250
 Guide Defines Best Practices for Electronic	3907
+Guidelines for Data Definition	12360
+Guidelines for Data Element Definitions	12360
+Guidelines for Data Element Definitions Table	12360
 HELD COMPANIES Definitions	3714
 HOL Somali Defense Minister	3610
 Heroes and Defence Forces	9394
@@ -430,6 +487,10 @@ House of Representatives Defence	4188
 Human Rights Defenders Network Strategic Plan	11586
 I. Definitions Article	6612
 IEC Defends Integrity of Process IEC Vice	9315
+ILF Drawdown Default TTC	12364
+ILF Reversal Default TTC	12364
+ILFDD ILF Drawdown Default TTC	12364
+ILFREV ILF Reversal Default TTC	12364
 INFORMATIVO OE 2024 DEFINITIVO.pdf	1251,1,1,1,1
 INTERPRETATION Definitions	3714
 IRI7 Definition	11417
@@ -440,6 +501,7 @@ Indicator Indicator Definition Years	236
 Information Protection Defining Access Control Policies	11231
 Inquérito de Cobertura. Os Resultados Definitivos	11421,25,131
 Institutional Cost of Deferred Reform	10062
+Instituto Brasileiro de Defesa	12366
 Instituto Nacional de Defesa	11369
 Interbank Interbank Deferred Net Settlement System	6938
 Intermediate Results Indicators Indicator Name Definition	10829,135,891
@@ -448,7 +510,7 @@ Joint Enterprise Defense Infrastructure	4259
 KDF Kenya Defense Forces KES Kenya	6432
 KENYA Goal Definition Workstreams	899
 KEY DEFINITIONS Data	10861
-KEY DEFINITIONS Key	3184,1,1340,6256,214
+KEY DEFINITIONS Key	3184,1,1340,6256,214,1432
 Kaupa Defence Minister Feston Kaupa	7870
 Kenya Defence Forces	7548,3916
 Kenya Defence Forces AI and Emerging Technologies	7548
@@ -463,18 +525,21 @@ LIST OF ACRONYMS Acronym Definition ABIS	5533
 LIST OF ACRONYMS Acronym Definition Acronym	11986
 LOGISTICS INTERNATIONAL INVESTMENTS Defendants LLC	1829
 Large Accounts Unit Definition	11986
+Law Definitions Authority Registration Data	12468
 Lei de Defesa	2816,8553
 Lesotho Defence Force	1200
 Life Counts Table of Contents Definition of Terms	12151
 Lines of Defence	12315
 List of Definitions	11188
 List of Definitions Word	11188
+MALES VS FEMALES DEFINITIONS Adult	12409
 MINISTERE DE LA DEFENSE ET DES	8237
 MONITORING AND EVALUATION Definition of Indicators	962
 Maio. Definição da Visão	11526
 Malawi Defence Force	7870
 Maximize Chances of Defeating Ruto	7869
 Members of Defence Forces	12226
+Message Priorities TTC Priority Default Range	12364
 Microsoft Defender	8405
 Microsoft and Oracle. The Department of Defence	6477
 Microsoft’s Digital Defense Report	8711
@@ -494,6 +559,7 @@ Ministry of National Defence of Mozambique	2667
 Ministry of National Defense	1777,1061,1917,515
 Ministério da Defesa	11531
 Ministério da Defesa Nacional	10754,776,39
+Mutual Defence Cooperation	12326
 Mº DEFENSA NACIONAL	4209
 Mº DEFENSA NACIONAL Cuentas CONCEPTO	4209
 Mº DEFENSA NACIONAL Servicio	4209
@@ -501,6 +567,7 @@ NATIONAL DEFENCE FORCE IN SUPPORT	11289
 NDU National Defence University NEMA National	2775
 NFMC Deferred	11857
 NFRASTRUCTURE Defining	961
+NISR Definitions	12413
 NOTE ON A DEFECT	573
 National Assembly's Defence	572
 National Civil Defence Service	6811
@@ -517,6 +584,7 @@ Nigeria’s Defence Intelligence Agency	5215
 Nigeria’s Minister of Defense	8120
 OBJECTS AND APPLICATION Definitions	11179
 OECD AI Definition	7548
+Open Access and Open-Source Definition	12389
 Open By Default and Protected	11854
 Operational Definition of Legal Identity	10819
 Operational Definitions	5665
@@ -529,6 +597,7 @@ PLA’s National University of Defense Technology	8510
 PORTANT DEFINITION DES CONDITIONS DE FOURNITURE	10895,11
 PRINCIPAIS CONCEITOS E DEFINIÇÕES	10757
 PRIVACY BY DEFAULT OR DESIGN	1630
+Pacs.010 Financial Institution Credit Default	12364
 Palakiyem Assih Named Chairman of Cyber Defense	8262
 Part D Deferral	11181
 Part I Definitions HIPSSA	27
@@ -544,6 +613,7 @@ Public Administration and Defence	2775
 Question That Cannot Be Deferred	10570
 REBALANCING THE LEGAL ECOSYSTEM Defining	961
 RELATÓRIO SÍNTESE DOS RESULTADOS DEFINITIVOS	4044
+RESMOV Reserve Operation Default TTC	12364
 RESULTADOS DEFINITIVOS RECENSEAMENTO GERAL DA POPULAÇÃO	11421
 RESULTATS DEFINITIFS DU RGE	10875
 RGE. RESULTATS DEFINITIFS DU RGE	10875
@@ -553,9 +623,13 @@ Reality Defender	7064,47,32
 Redação Forças de Defesa	2816
 Reducing Default Rates	7334
 Regional Network Provider MOD Ministry of Defense	1000
+Rejection Reasons CODE DEFINITION DEFINITION AGNT	12364
 Release Criteria Define	11952
 Relevant Definitions	11993
+Replacement of Definitive Driving License	12333
 Requirements Definition	9237
+Requirements Requir Data Definition Explanation Example	12360
+Reserve Operation Default TTC	12364
 Responsibility for Data Indicator Name Definition	1284
 Resultados Definitivos	4044,2551,4162,664,1,155
 Resultados Definitivos Empresa Pública	10757
@@ -564,6 +638,7 @@ Resultados Definitivos Gráfico	10757
 Resultados Definitivos Situação	10757
 Resultats definitifs RGPH 2006.pdf The State	10812
 Riscos Ambientais Definidos	11898
+Risk of Defaults and Closures	12376
 Royal United Services Institute for Defence and Security	4127
 SALA DEFINITIVA	10766
 SCHEDULE Definition	11213
@@ -573,6 +648,7 @@ SECÇÃO II DEFINIÇÕES E PRINCÍPIOS Artigo	11516
 SERVICE PROVIDERS Definition Recognition	11179
 SN ITEM DEFINITION METRICS	11857
 ST Engineering and Airbus Defence and Space	6482
+STANDARD FOR DATA ELEMENT DEFINITIONS	12360
 STARTUPS VC AI DefenseTech OPINIONS EVENTS	10068
 SUBREGIONAL ACCESS DEFICITS IN AFRICA	11572
 Safeguards Deferral OPSTABLE Will	11525
@@ -597,9 +673,12 @@ South Sudan People's Defence Forces	3583
 South Sudan Peoples Defence Forces	3583
 Sovere11ig.2n DSoatvaeDreeigfineDdata Defined	10157
 Sovereign Data Defined	10157
+Standardized Data Element Definitions	12360
 Subiect Data Definitions Authorisation	1009
+Summary Definition	12444
 TAXATiON POLiCY Defining	961
 TRADE POLiCY Defining	961
+TTC Type TTC Code Default Range	12364
 Tanzania People’s Defence Force	2867
 Taxonomia de Dados Públicos Quadro de Definições	11448
 Tech Somalia Strengthens Cyber Defenses	5338
@@ -624,7 +703,9 @@ WORKiNG DEFiNiTiONS	961
 Web Subject Data Definitions Personnel White	1009
 Web. Subject Data Definitions RFC1510	1009
 West Africa Digital Rights Defenders Coalition	9082
+Working Definitions	12360
 World Bank. Defining Digital Financial Services	11994
 Wrapped Tokens and DeFi Receipt Tokens	8590
 XII. CONCEPTS ET DEFINITIONS Abandon	10847
+XML Metadata Definition XML-Schema RelaxNG W3C	12360
 Zimbabwe National Defence University	1154

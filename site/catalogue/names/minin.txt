@@ -4,6 +4,7 @@ AI for Mining Exploration	4528
 African Mining Legal Atlas	2889
 Agriculture Fishing Mining Public	11874
 Bitcoin. Mining	9367
+Business Enterprises Formal Informal Sector Mining	12445
 Christmas Pass Mining	8639
 DEAVOUR MINING	2342
 Data Mining	2816,8442
@@ -16,6 +17,7 @@ ENDEAVOUR MINING	2342
 Economic Activities Mining	1988
 Energy and Mining	6490
 Forestry Mining and Quarrying	2775
+Formal Informal Mining and Quarrying Manufacturing Utilities	12445
 Future of Mining Summit	7275
 GROUPE ENDEAVOUR MINING	2342
 Ghana Landscape Restoration and Small Scale Mining	1513
@@ -33,7 +35,7 @@ Liberia International Mining	8755
 MADAOUELA MINING COMPANY	11597
 MINEDU MININTER Others	1284
 MINFIN MININT MINSA MNO MNSSP MODIS	10763
-MININFRA	718
+MININFRA	718,11640
 MINING	5733
 MINING ACT	6921
 MINING AND DIGITAL ECONOMY	7167
@@ -44,10 +46,11 @@ MININTER PPM	1776
 MININTER-PPM-Revise-1.pdf	1776
 MINSOLID MININFR A ICT	1284
 Machine Learning for Sustainable Mining Practices	1554
+Male Female Total Mining	12445
 Managing Director of Data Mining Company	2536
 Mandela Mining Precinct	11221
 Mimosa Mining Company	1554
-Mining	697,857,1221,114,742,496,717,403,764,354,581,50,577,178,2,697,124,1814,453,104,61,143,3,63,81,228,57,300,325
+Mining	697,857,1221,114,742,496,717,403,764,354,581,50,577,178,2,697,124,1814,453,104,61,143,3,63,81,228,57,300,325,150,80,9
 Mining AI	4528
 Mining CEOs	7751
 Mining Cadastre	10873
@@ -60,12 +63,12 @@ Mining Code	2889
 Mining Code. Delivery	2889
 Mining Indaba	10592
 Mining Malawi Wins Global Recognition for Offline	3965,1438,1506
-Mining Motor	10976
+Mining Motor	10976,1370
 Mining Operations Transformation	7751
 Mining Operations Transformation PwC South Africa	7751
 Mining Qualifications Authority NDFSS	6832
 Mining Revenue and Inclusive Development	1828
-Mining Sector	2775
+Mining Sector	2775,9581
 Mining Sector Governance Support	2889
 Mining Sector Optimization and Transformation Zimbabwe	4528
 Mining Technology and Innovation Event	11221
@@ -73,9 +76,15 @@ Mining VP Mohadi Launches National Child	2987,16
 Mining World	7253
 Mining and Agriculture	4528
 Mining and Manufacturing	4528
+Mining and Manufacturing Utilities	12445
 Mining and Metallurgy Regions of EU	11007
-Mining and Quarrying	1940,835,8377
+Mining and Quarrying	1940,835,8377,1293
+Mining and Quarrying Manufacturing	12445
+Mining and Quarrying Manufacturing Micro	12445
+Mining and Quarrying Manufacturing Utilities Services	12445
+Mining and Quarrying Manufacturing Utilities Services Having	12445
 Mining and Quarrying NPPI	11152
+Mining and Quarrying and Manufacturing	12445
 Mining of Mineral Deposits	7759
 MiningEntrepreneurshipESG	7253
 MiningTech	4528
@@ -86,6 +95,7 @@ Ministry of Mines and Mining Development	1554
 Ministry of Petroleum and Mining Market Report	3583
 Modernizing Mining and Manufacturing	11221
 Mulenga. Mining	8039
+Namibia Institute of Mining and Technology	12399
 National Anti-Illegal Mining Operations Secretariat	7695
 OFFICE Presidenc MINCOTI BRB MININTER	1284
 Online Mining Cadastre	5244
@@ -105,6 +115,7 @@ Saudi Arabian Mining Company	4447
 Smart Mining	395,563
 Société La DRC Mining Week	6843
 Société TELOUA SAFEGUARDING URANIUM MINING COMPAGNY	11597
+Soft Skills Gaps Mining and Quarrying Manufacturing	12445
 South African Mining	7751
 Strategic Outlook for Mining Technology Governance Looking	10069
 Tanzania Mining Summit	10592

@@ -1,23 +1,30 @@
 Added Tax XML Extensible Markup Language	11261
 Basic RFC1738 RFC2616 XML V1.0	1009
+COMPONENT OASIS Secure XML Encoding for OASIS	12360
 CRS XML Schema V.3	11685
 Core EP3 XML HTML Citation Export	10878
+Courier Manifest ASYCUDA IATA Cargo XML	12454
 Create XML	8606
 Cross- XDS XML V1	1009
 Customised XML Pivot	8606
 Dissemination The XMUVI	11258
 Données XML	1984
+Ensure XML	12360
 Especificacao Tecnica Gerador Ficheiro XML XSD.pdf	12018
 Especificação Técnica Gerador XML V07.pdf DPR	12018
 Estrutura XML	12018
+IEC Secure XML	12360
+ISO XML Data Transformation Xpath W3C	12360
 Introduction The XMUVI	11258
 MARKING. The PDF's XMP	5598
 MS Cross-Enterprise Document Sharing XML XPID	1009
+MetaLanguage XML	12360
 Metadata Data Cite XML RDF	10878
 Normalise structure XML Require	8606
 Normalised XML	8606
 Normalised XML3Normalised XML2Normalised XML1 Extraction	8606
 O XML	12018
+OASIS XML Common Biometric	12360
 OpenURL ContextObject RIOXX2 XML METS Dublin	10878
 Patient Patient Administration XML V1	1009
 Pre-Treatment Heterogeneous XML Input	8606
@@ -25,13 +32,17 @@ RFC2616 W3C XML	1009
 RFC2616 XML V1	1009
 RS XDS-1.b XDS XML V1	1009
 RS XML V1	1009
+Security An XML-based	12360
 South Africa. The XMUVI	11258
 South African XMUVI	11258
 South African XMUVI Table	11258
 Standardised XML Phase	8606
 Statistics South Africa. The XMUVI	11258
+Use XML Metadata Interchange	12360
 W3C XML	1009
 WAF Web Application Firewall XML	6432
+WSDL and XML Schema	12360
+Web An XML-based	12360
 Well-formed XML	8606
 XDS-MS XDS XML V	1009
 XDS-MS XML V1	1009
@@ -99,8 +110,10 @@ XM-DAC-903-SII-52276	7356
 XM-DAC-903-SII-52548	6724
 XMHYPVOXBHT5AAC4GTW6WDEMU	4848
 XML Advanced Electronic Signatures Signature	1009
+XML Data Transformation XSL	12360
 XML Digital Imaging and Communications	1009
 XML Display	1009
+XML Document	12360
 XML Enterprise User Authentication EMR European	1009
 XML Extensible Markup Language XPID XAD-PI	1009
 XML HTTP	1009
@@ -108,12 +121,18 @@ XML MARC	10878
 XML Mapping	8606
 XML Messaging Document Reliable	1009
 XML Messaging Services Soecifications	1009
+XML Metadata	12360
+XML Metadata Definition XML-Schema RelaxNG W3C	12360
+XML Metadata Interchange	12360
 XML Output	8606
 XML Registry	1009
 XML Registry Document Reliable Interchange	1009
 XML Registry Services Specifications	1009
 XML Schema	1009
+XML Schema for Data Interoperability	12360
+XML Signature XML DSIGW3C W3C XML	12360
 XML V1	1009
+XML Variable XML	12360
 XML XSD actualizado.pdf Gerador XML XSD Modelo	12018
 XML and Documents	1009
 XML and Kotlin	3851

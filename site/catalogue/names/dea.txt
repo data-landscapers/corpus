@@ -7,6 +7,8 @@ Actualité Jeff Dean	9620
 AfCFTA Secretariat Sign Deal	7523
 Africa Deal Volume Finds	4972
 Algeria Sets One-Month Deadline for Government Data	6678,209,414,15,8
+Analyzing Mortality Levels and Causes of Death	12413
+Analyzing Mortality and Causes of Death	12413
 Angel Investors. Deals	4972
 Announcement of Deadline	8999
 Apolitical. Deal	5092
@@ -41,6 +43,7 @@ Births and Deaths Office	11133
 Births and Deaths Registrar	3287
 Births and Deaths Registration	5142,5680,1316
 Births and Deaths Registration Act	1,1008,4290,234,5289,354,1,760,40,9,130
+Births and Deaths Registration Act No	12449
 Births and Deaths Registration Act. Regulations	8280
 Births and Deaths Registration Act. The RA	12151
 Births and Deaths Registration Bill	5299
@@ -52,6 +55,8 @@ Births and Deaths Registry	3287,5082,1166,1287
 Busoga Kingdom Seal Five-Year Deal	4608
 CAMEROON Deadline	9274
 CAMTEL Sign Deal	4171
+CAUSE OF DEATH STATISTICS.pdf	12471
+CDR Crude Death Rate	12367
 CENTRAL AFRICA DEAL ACTIVITY	4972
 Call for Applications Deadline	11345
 Cameroon's Technology New Deal	10995
@@ -62,6 +67,7 @@ Cause of Death	12151,16
 Cause of Death Asthma HIV	12151
 Cause of Death Cause of Death N	12151
 Cause of Death N	12151
+Cause of Death Statistics	12413
 Causes Of Death	12151
 Causes Of Death According To Global	12151
 Causes Of Death From Foreign Deaths	12151
@@ -69,18 +75,22 @@ Causes Of Death Pneumonia	12151
 Causes Of Registered Death With Special	12151
 Causes Of Registered Deaths	12151
 Causes of Death	12138,13
+Causes of Death CR	12338
 Causes of Death From Foreign Deaths Registration	12151
 Causes of Registered Death With Special Programmes	12151
 Causes of Registered Deaths	12151
 Center Deal Doha Dubai	5322
-Community Deaths	12151
+Certification of Cause of Death MIGEPROF Ministère du Gerne	12413
+Child Deaths	12367
+Children Deaths	12383
+Community Deaths	12151,262
 Compliance Deadline Lapses	5562
 Congo Dead Weight Tonnage COSSOP	12256
 Control and Prevention CoD Cause of Death CRDP	12151
 Corporation CDR Crude Death Rate CECM	2775
 Country Of Death	12151
 Crowdfunding. Deals	4972
-Crude Death Rate	12151
+Crude Death Rate	12151,232,30
 Current Representative Mr Dean Veverka	3513
 DEADAN GROUP LIMITED Data Controller INST-15537353009	7167
 DEADAN GROUP LIMITED Data Processor INST-15537353009	7167
@@ -98,14 +108,19 @@ DEANESH HOSPITAL LIMITED Data Controller INST-3428009C40A	7167
 DEANS DENTAL LIMITED Data Controller INST-711739AFF30	7167
 DEANS DENTAL LIMITED Data Processor INST-711739AFF30	7167
 DEANS TRAVEL CENTRE LTD Data Processor	7167
+DEATH	12471
+DEATH CERTIFICATE QUALITY ASSESSMENT TOOL	12413
+DEATH REGISTRATION In Namibia	12337
 DEAVOUR MINING	2342
 DEaves	5700
+DISCLOSURE OF DEBT DEALS	12339
+DISCLOSURE OF EQUITY DEALS	12339
 Deactivated	12225
 Dead Capital	2592
 Dead SIMs Died	3798
 Dead-end	9123
 DeadLock	9815
-Deadline	7253,1232,61,453,893,1,723,206,505,190
+Deadline	7253,1232,61,453,893,1,723,206,505,190,872
 Deadline Responsible Body Key Outputs	3861
 Deadline for Development	8485
 Deadline for Submission of Applications	1638
@@ -118,6 +133,7 @@ Deadweight Tons EA Environmental Audit EAC	2775
 Deaf Outreach Program	8209
 Deal Activity Deal Value Shows Early	4972
 Deal Count	10954
+Deal Count Per Stage Seed	12339
 Deal Count Share of Capital Invested	4972
 Deal Eswatini	10602
 Deal Horizon	2622
@@ -141,12 +157,12 @@ Deal for Technology Tarik Dadi Combats	2627
 Deal. Ce	2443
 Deal. Qu’est-ce	2443
 Dealer	736
-Dealers	4513
+Dealers	4513,7882
 Dealers and ISPs	1872
 Dealing	587,1931,1065,742,1208,1301,2006,165,2981
 Dealings	3714
 Dealroom	7181
-Deals	3695,1277,1818,397,1516,2566,766
+Deals	3695,1277,1818,397,1516,2566,766,304
 Deals US	4972
 Deals VENTURE DEBT DEAL VOLUME	4972
 Dean Bennett Appleby	7198
@@ -160,7 +176,7 @@ Dear Listers	9858
 Dear Madam	7074
 Dear Shareholders	11955,360
 Dear Sirs Space Exploration Technologies Corp	6891
-Death	418,1410,1144,2169,392,356,2714,796,1413,364,5,759,46,152,13,66,24
+Death	418,1410,1144,2169,392,356,2714,796,1413,364,5,759,46,152,13,66,24,86,10,1,29,35,3,5,3,58
 Death Certificate	12217,74
 Death Certificates	11282,1009
 Death Death	12151
@@ -170,25 +186,29 @@ Death Death Prematurity Prematurity	12151
 Death Match of Institutional Orders	11028
 Death Occurring	12226
 Death Prematurity Prematurity Prematurity	12151
+Death Rate CoD Cause of Death CR	12413
 Death Registration	2775,9376,90
 Death Registration Completeness	12151
 Death Registration Forms Appendix A1	12151
 Death Registration Platform National Population Commission	7632
 Death Registration The Civil Registration Code	12167
+Death Services	12333
 Death X	12138
 Death X Minimum	12138
 Death and Identity Registers	2072
 Death of Member of Defence Force	12226
 Death of Several Persons	12226
-Deaths	2775,1485,41,6479,351,3,426,409,169,13,16
+Deaths	2775,1485,41,6479,351,3,426,409,169,13,16,167,3,1,29,46
 Deaths Among	12151
 Deaths Among Children Under	12151
 Deaths Registered	12291
-Deaths Registration	12151
-Deaths Registration Act	11986
+Deaths Registration	12151,216
+Deaths Registration Act	11986,351,30
 Deaths Registry	2772
 Deaths Registry and Ghana Health Service	2772
+Deaths Table D01	12367
 Deaths and Burials Ordinance	10822
+Deaths and Marriages	12367
 Decisões da CE DEAO	11519
 Declare Death	12226
 Defends NRM Cooperation Deal MTN Apologises	4608
@@ -214,8 +234,11 @@ European Green Deal	789,181,10185,381
 European Green Deal. European	789
 Executive Dean	8142
 FCFA New Deal Technologique	2439
+FETAL DEATH REGISTRATION	12338
 Faces December Reauthorization Deadline	10351
 Female Both Country Of Death	12151
+Female Death	12413
+Food Bank The Goal for Zero Deaths	12448
 Free-Trade Deal. Now Comes the Hard Part	10555
 GAB. Deal	5801
 Global Gateway. Deal	5499
@@ -229,12 +252,15 @@ HOL Deadly	3405
 Harmonised Births and Deaths Registry Portal	9535
 Have Seen Enough Death	6947
 Health Institution Deaths	12151
+ICD-10 International Classification of Causes of Deaths	12413
 ID. New Deal	3656
 IHS Deal	5752
 INTERESTS OF AND DEALINGS BY DIRECTORS	3714
 Impact Categories Amongst VC Deals	4972
+Implementation of Medical Certification of Cause of Death	12338
 Infinity Marketing Lenovo Dealnews.gr Limbo DECAID	8530
 Infrastructure Deal	6909
+International Medical Certificate of Cause of Death	12413
 Italy's Mattei Plan. Deal	5095
 Ivoire Dear Madam Director	3604
 KICTANet Dear KICTANet Community	10694
@@ -256,6 +282,7 @@ Leading Causes of Medically Certified Registered Death	12151
 Leading Causes of Medically Certified Registered Deaths	12151
 Leading Causes of Registered Deaths Among Children	12151
 Leading Causes of Registered Deaths For Under	12151
+Legal Deadline for Procuring Entities	12389
 Lesotho Submission Deadline	10060
 Liberia and Ghana Pursue Free Roaming Deal	2362
 Life Counts Besides the Births and Deaths Registration	12151
@@ -267,16 +294,20 @@ MULTI REGION DEAL ACTIVITY	4972
 Malaria Deaths	4153,14,35,15,132,1003
 Maputo Deadline	11619
 Marissa Dean	226
-Marriages and Deaths	1,5532,6453
-Marriages and Deaths Registration Act	1
+Marriage and Death	12367
+Marriages and Deaths	1,5532,6453,381
+Marriages and Deaths Act	12337
+Marriages and Deaths Registration Act	1,12326,10,30
 Maternal and Perinatal Death Surveillance Response	1212
 Median Deal	4972
-Medical Certification of Cause of Death	9370
+Medical Certificate of Cause of Death	12338,133
+Medical Certification of Cause of Death	9370,3051
 Medically Certified Causes of Registered Deaths	12151
 Medicolegal Death Investigations Mozambique	12167
 Ministry of Health. Deaths	12167
 NIGERIA'S TRADE DEAL WITH THE UAE	12026
 NORTH AFRICA Volume and Value of Venture Deals	4972
+NPRS. Death	12327
 Nairobi Deadline for Input Contributions	10235
 National ID Birth Death Resident	12241
 National Statistics Research Deaths Registry	12151
@@ -284,13 +315,17 @@ Neonatal Deaths	12151
 Neonatal Deaths Neonatal	12151
 News Deal Technologique. Cet	3120
 Nine Dead	5889
+Notification of Death Form	12337
 Number of Deals	10
+Number of Deals Breakdown	12339
 OUTPUTS AND DEADLINES	11862
 Oct-2028. Proposed Deadline for Withdrawal Applications	11965
 One-Month Deadline for Government Data Center Integration	6678
+Operations Bank of Zambia LUSAKA Dear Sir	12364
 Orchestration of Palestinian Life and Death	7147
 PART VIII Radiocommunication Equipment Dealers and Repairers	736
 Part of New Technology Deal	1529
+Partech Africa Team Topline Deals	12339
 Particulars of Records of Death	12226
 Pauvreté DEA Diplôme	12
 Place of Registration of Death	12226
@@ -299,13 +334,16 @@ Private Sector and Economic Deals Beyond	6790
 Proportion of Registered Deaths	12151
 Proposal Refinement and Deal Structuring	8546
 Proposed Deadline Closing	1284
+Publication of Tender Notice and Submission Deadline	12389
 Qatar Charity Sign Deal	5910,491
+REGISTRATION OF DEATH PROCEDURE Death	12338
 ROI With Dead	7176
 Radio Dealer	736
 Rank Cause of Death Male Female	12151
 Region Deal Volume Deal	4972
 Registered Adult Deaths	12151
-Registered Deaths	2775,9376
+Registered Births. Deaths and Marriages	12413
+Registered Deaths	2775,9376,262
 Registered Deaths Among	12151
 Registered Deaths Among Children Under	12151
 Registered Deaths Of Kenyans Occuring Ovition	12151
@@ -359,8 +397,10 @@ U.K.-U.S. Economic Prosperity Deal	10433
 U.S.-Kenya Technology Prosperity Deal	6790
 UK Singapore DEA	1243
 UK-Singapore DEA	1243
+UNESWA Computer Science Department Deadline	12361
 UNICEF and Ghana’s Births and Deaths Registry	10822
 Underlying Cause of Death	12151
+Upon Death	12405
 VC Deal Volume	4972
 VC Deals	4972
 VENTURE CAPITAL DEAL	4972
@@ -381,6 +421,7 @@ Venture Debt Deal Activity	4972
 Venture Debt Deal Activity By Sector	4972
 Venture Debt Deal Volume	4972
 Vice Dean	2958
+Vital Statistics and Causes of Deaths Report	12367
 Volume and Value of Venture Deals	4972
 Volume of Venture Deals	4972
 WEST AFRICA Volume and Value of Venture Deals	4972
@@ -390,6 +431,7 @@ Working Group Dates and Time Deadline for Input	10235
 World Cup Distribution Through Orange Deal	3437,3942,47
 X Deaths	12138
 X. Deadly	6820
+Year Births Deaths Marriages	12413
 Year Registration of Births and Deaths Act	10822
 Year the Births and Deaths Registration Law	10822
 Zambia Revenue Authority Signs ICTD Deal	7433

@@ -23,12 +23,14 @@ Appendix G	236
 Asiki G	771
 B. G	5349
 BUNDLING OF TELECOMS SERVICES SECTION G	582
+Berhe G	12379
 Biemba G	3791
 Bjune G. Assessing	10881
 Blank G	8460
 C- Communication G-	582
-C. G	1243
+C. G	1243,11090
 C. G. Reddick	5349
+CBDC. G	12343
 Cabo Verde D G A P	6530
 Chowdhury G	9653
 Citrusdal Ms G Sekhu	11986
@@ -51,6 +53,7 @@ D. G. DE CONTROL FINANCIERO	4209
 D. G. DE IMPUESTOS Y CONTRIBUCIONES	4209
 D. G. DE PATRIMONIO DEL ESTADO	4209
 D. G. DE PRESUPUESTOS Y CLASES	4209
+D. G. G	12369
 D. G. GESTION ADMINISTRATIVA Y RECURSOS	4209
 D. G. PALACIOS Y RESID. MALABO	4209
 DE G. DE GRAL POLICIA JUDICIAL	4209
@@ -117,7 +120,8 @@ G D P Public	11248
 G D P R	8436
 G D P R Article	8436
 G D2D	2405
-G Data	1284
+G Data	1284,11111
+G Data Correspondingly	12395
 G Deployment	5675
 G Deployment From Telecom Experts	2262
 G Deployment Guidelines	5680
@@ -164,7 +168,7 @@ G Inspector Grupo G Jefe Servicio	4209
 G Is Starlink	5874
 G Is for Google	3782
 G Key	1885
-G LTE	18,71,176,298,155,1185,1761,198,697,269,2484,954,548,830,10,2203
+G LTE	18,71,176,298,155,1185,1761,198,697,269,2484,954,548,830,10,2203,538
 G LTE Advanced	3487
 G LTE. Thirty	718
 G Lab	2405,3367
@@ -172,11 +176,13 @@ G Launch	1548,5114
 G Licence	7400
 G License Following Competitive Tender Process	3221
 G Low Earth Orbit	7307
+G MNOs Mobile Network Operators MTN	12395
 G Market	10856
 G Market Snapshot	5675
 G Mobile	4150,7707
 G Moroccan	2673
 G Much	5675
+G NETWORK	12395
 G NSA	8828
 G NTN	5528
 G National Software Development Guideline Title	5665
@@ -235,7 +241,7 @@ G Spectrum Licence	925
 G Spectrum Licences	7401
 G Spectrum Public Policy Position	5675
 G Spectrum Spectrum Pricing and Allocation Digital	11857
-G Standalone	2528,15,3822
+G Standalone	2528,15,3822,6030
 G Strategy	3564,1473,638,1833
 G Strategy Development	7508
 G Subscriptions	3862
@@ -253,7 +259,7 @@ G USIM	5391
 G USSD	4150
 G Utilization Gap	6051
 G VERNANCE GOVERNANCE GOVERNANCE GOVERNANCE GOVERGNAONCVE	10785
-G Voice	2528
+G Voice	2528,9867
 G W Hydro Wind Solar	12233
 G WDM	2446
 G and AI	6242
@@ -292,7 +298,7 @@ G. Au	5955
 G. B. Davis	5349
 G. Based	8828
 G. Businesses	8266
-G. C	11135
+G. C	11135,1198
 G. C. Bowker	5700
 G. CONTACT DETAILS First Transfer Secretaries	4896
 G. Cependant	6861
@@ -323,6 +329,7 @@ G. Gupta	5700
 G. H	5349
 G. Il	3120,6217
 G. In Senegal	11902
+G. Increased	12333
 G. Instead	9560
 G. K	8604,3402
 G. Kaladzavi	11140
@@ -349,7 +356,7 @@ G. Nearly	3975
 G. Network	11964
 G. Notwithstanding	11233
 G. Nous	2881
-G. O	10
+G. O	10,12323
 G. Of AT Ghana	8926
 G. Orange Centrafrique	1949
 G. Other Safeguard Policies	11525
@@ -387,6 +394,7 @@ GOVERNANCE GOVERNANCE GOVERNANCE GOVERNANCE GOVERNANCE G	10785
 Garçons Filles G	10847
 General Instruction G	7198
 Geral de Política de Justiça D G	6530
+Germany. G	12343
 Gestão D G P J Direção	6530
 Gilano G	12255
 Gourley G	1219
@@ -410,6 +418,7 @@ Jefe Servicio Grupo G Sección	4209
 Jefe Servicio Grupo G Servicio	4209
 Joseph G. Harmon	9652
 K. G. M	8301
+Kamubuga Byumba G	12413
 Karara G	766
 L. G	5349
 Launching Event By Stephen G. Fellajuahs	9861
@@ -417,6 +426,7 @@ Liberians. By Francis G. Boayue	8804
 Lincoln G. Peters SINKOR	10046
 Liquid G	4119
 M E S S A G	11586
+M G Z	12373
 M. G	8603
 M. G. Melina	11140
 M. G. Morris	5349
@@ -463,8 +473,9 @@ Préscolaire Garçons Filles G	10847
 Republic of Angola and Country Director Albert G	1770
 Richard G	12138
 Ryan G	1219
-S. G	4131,545
+S. G	4131,545,7653
 Salto Fund. G. Risk Management	11863
+Schedule G	12324
 School G- Grand	582
 Sitaraman G	5242
 Somi G	1261

@@ -22,7 +22,7 @@ AfCFTA African Continental Free Trade Area	12241
 Africa Continental Free Trade Area	4891,10,1468,454
 Africa Continental Free Trade Area Agreement	4368
 Africa Free Trade Area	961
-African Continental Free Trade Area	789,16,156,9,12,17,7,251,7,550,14,289,342,1159,842,123,7,87,46,48,16,4,117,20,25,108,23,160,3,104,81,31,238,33,144,5,213,1,30,194,23,25,32,70,50,118,299,59,6,36,25,9,48,21,33,233,102,13,6,19,29,16,8,145,2,180,37,47,7,25,37,86,131,88,56,57,38,13,246,175,59,5,1,34,49,34,15,11,297,62,41,14,43,36,48,149,8,53,1,64,80,82,105,59,155,79,76,87,101,22,15,124,158,11,47,25,59,4,266,186,11,279,43,23,169
+African Continental Free Trade Area	789,16,156,9,12,17,7,251,7,550,14,289,342,1159,842,123,7,87,46,48,16,4,117,20,25,108,23,160,3,104,81,31,238,33,144,5,213,1,30,194,23,25,32,70,50,118,299,59,6,36,25,9,48,21,33,233,102,13,6,19,29,16,8,145,2,180,37,47,7,25,37,86,131,88,56,57,38,13,246,175,59,5,1,34,49,34,15,11,297,62,41,14,43,36,48,149,8,53,1,64,80,82,105,59,155,79,76,87,101,22,15,124,158,11,47,25,59,4,266,186,11,279,43,23,169,115
 African Continental Free Trade Area ADEEG	11271
 African Continental Free Trade Area Agreement	5247
 African Continental Free Trade Area Artificial	4528
@@ -82,13 +82,14 @@ Area and Average Yield of Tea	2775
 Area and Country of Residence	2775
 Area for Housing Development Figure	2775
 Area of Action	9433
+Area of Business	12400
 Area of Cooperation	4167,35,15,43,41,48,1003
 Area of Open Data	11854
 Area of Origin	10841
 Area of Project Name Project Description Budget	11986
 Area of Weakness Description Ideal State Infrastructure	11986
-Area-based	10864
-Areas	718,836,3570,553,1155,106,9,1019,798,670,210,379,741,77,48,240,6,53,669,16,301,1,80
+Area-based	10864,1505
+Areas	718,836,3570,553,1155,106,9,1019,798,670,210,379,741,77,48,240,6,53,669,16,301,1,80,129
 Areas Beyond National Jurisdiction	8681
 Areas Lacking Sufficient Commercial Interest for Investments	11529
 Areas Management	789,172
@@ -96,6 +97,7 @@ Areas Privadas	11373
 Areas and Deliverables	11188
 Areas for Consideration	10841
 Areas for Further Research	6947
+Areas for Improvement	12356,55
 Areas of Collaboration	5676
 Areas of Collaboration National Regulatory Authorities	5676
 Areas of Cooperation	4167,35,15,43,41,48,1003
@@ -134,6 +136,7 @@ Business Area Head for Planning	11289
 CC Practice Area	1284
 CENTRAL AREA	8590
 CEO of ARED Group	11834
+CONCLUSIONS AND FURTHER AREAS OF RESEARCH	12445
 Chief Administrator of Kauto Administrative Area	8213
 Chief Resident Magistrate Court Lilongwe Area	12174
 Chipiku Stores and Area	12253
@@ -141,7 +144,7 @@ Citizen’s Rights Priority Area	970
 City Centre Clinic and Area	12253
 City Local Area State City Government	11129
 Commission EAs Enumeration Areas EBK Engineers	2775
-Common Monetary Area	6539,997,633,671,2208,82,1,3
+Common Monetary Area	6539,997,633,671,2208,82,1,3,1335
 Common Monetary Area Consumer Price Index	11131
 Common Monetary Area. The Digital Lilangeni	11130
 Community Settlement Areas NAP National Adaptation	1867
@@ -158,6 +161,7 @@ Contributing Practice Areas Energy	11380
 Contributing Practice Areas Governance Digital Development	969
 Contributing Practice Areas Health	10829,588,143
 Contributing Practice Areas Social Protection	10768
+Cooperating Partners THEMATIC AREA	12453
 Coverage Area Proposed Frequency Band Proposed	736
 Coverage Areas	7368
 Cumulative INSTITUTIONAL DATA Contributing Practice Areas	10964
@@ -168,6 +172,7 @@ Daria Arentva	6985
 Data for Policy Area	2096
 Data for Policy Focus Area	2096
 Data for Policy Focus Area of Digital	2096
+Define New Areas of Benefit	12419
 Defining Capabilities and Application Areas	11156
 Defining Objectives and Areas of Application	2958
 Delineation of Postcode Areas NIPOST	11129
@@ -179,7 +184,7 @@ Digital Divide Thematic Area	899
 Digitalization of TLM Results Area	11905
 Digitisation and Government Wide Area Network	958
 Directorate General and Area Chiefs	1382
-Disputed Area OP	1867,1589,148,7164,649,488
+Disputed Area OP	1867,1589,148,7164,649,488,521
 Disputed Areas OP	1284,9545,134,1,561,330,110,172
 Districts And Areas In Which Registration	12138
 Draft Exclusive Geographic Areas	7980,109
@@ -196,9 +201,10 @@ Ede South Local Government Area	10049
 Egbedore Local Government Area	10049,205
 Egypt Policy Area	1802
 Emerging Organisational Efficiency and Areas	6946
-Enumeration Area	11136
+Enumeration Area	11136,1267
 Enumeration Area Geographical	582
 Enumeration Areas	6106
+Enumeration Areas. EAC	12403
 Equipment Distribution Area	9123
 Ethiopia Policy Area	12184
 Ethiopia. SECTION2 Areas of Cooperation The Participants	4349
@@ -212,7 +218,7 @@ Financial Capability Priority Area Consumer Protection	940
 Financing of Terrorism Common Monetary Area Centre	11134
 Focus Area	10964,170,771
 Focus Area FCFA The Central Africa	969
-Focus Areas	1814,3431,6953
+Focus Areas	1814,3431,6953,207
 Focus Areas The Focus Areas	1814
 Founder and Chief Executive Officer of ARED Group	11834
 Four Strategic Focus Areas	5245
@@ -238,7 +244,7 @@ GovTech Focus Areas	11867
 GovTech Focus Areas The GTMI	11867
 Governance. Focus Areas	11420
 Government Areas MDAs Ministries	11857
-Government Wide Area Network	2386,702,4042,304,1718,2019,332,711,85
+Government Wide Area Network	2386,702,4042,304,1718,2019,332,711,85,154
 Government Wide Area Network ITU International	12241
 Government of Kenya. PARAGRAPH2 AREAS OF COOPERATION	4153
 Government of Nigeria's Presidential Priority Areas	12308
@@ -265,6 +271,8 @@ INATRO's Technical Area Administrator	12275
 INSTITUTIONAL DATA Contributing Practice Areas Practice	11855
 INSTITUTIONAL DATA Practice Area	969,315,9545,551,145
 INTERVENTION FRAMEWORK Priority Area	970
+Identify Areas	12389
+Identify Areas Allocated	12389
 Identifying Focus Areas and Gaps	7588
 Ife South Local Government Area	10254
 Impact Area Manager	1009
@@ -301,6 +309,7 @@ LDCs AND FCV-AFFECTED AREAS	11572
 LOCAL AREA NETWORKS LCC	12253
 Labor Contributing Practice Areas Education Fragile	11525
 Lagos Metropolitan Area Transport Authority	11469
+Land Area	12395
 Last Mile Connectivity for Rural Area and National	340
 Leaf Area Index	11334
 Leveraging the African Continental Free Trade Area	11140
@@ -317,6 +326,8 @@ Local Government Areas	3718,1313,2113,1903,63,939,1080,891,31
 Local Government Areas of Osun State. Delimitation	10049
 Local Governments and Local Council Development Areas	3101
 Locality Area	582
+Lusaka. Area-based	12369
+MCDSS THEMATIC AREA	12453
 MIP Priority Areas	970
 Main Areas of Additional Support and Timing Time	11855
 Main Distribution Area	9123
@@ -362,6 +373,7 @@ Overcome Areas of Underperformance	11218
 Overview Of Key Thematic Focus Areas	6936
 PLOS One Browse Subject Areas	12231
 PLOS Subject Areas	12231
+POLICY AREAS AND ESSENTIAL COMPONENTS	12419
 POLICY PRIORITY AREAS	958
 POPULATION IN URBAN AND RURAL AREAS	11572
 PRACTICE AREA	1264,603,1695,42,7164,649,143,345
@@ -381,9 +393,12 @@ Policy Areas EVOBJ TBL Page	10779
 Policy Areas Fiscal Openness	11866
 Policy Areas Legislation	11873
 Policy Areas The Angola Development Policy	10779
+Policy Areas and Essential Components	12419
 Policy Priority Areas	958
+Policy and Legal Framework. Thematic Area	12453
 Postcode Area	11129
-Practice Area	1264,603,1695,42,7164,11,638,143,345,232
+Potential Research Questions and Priority Areas	12445
+Practice Area	1264,603,1695,42,7164,11,638,143,345,232,275,14
 Presidential Priorities Areas of President Bola Ahmed	12308
 Presidential Priority Areas	12308
 Principles Governance Legal Framework Priority Areas	21
@@ -400,6 +415,7 @@ Priority Awareness Areas	5676
 Priority Awareness Areas Consumer	5676
 Priority Human Settlements and Housing Development Areas	11224
 Priority6A.1reParsiority Areas	10157
+Private Sector THEMATIC AREA	12453
 Product GMAs Game Management Areas GRZ	1988
 Project Area	12253
 Project The Government-Wide Area Network	2256
@@ -423,7 +439,7 @@ Results Areas Improving	11905
 Results Areas Increased	10870
 Road Safety Commission Abuja Municipal Area	11129
 Rural Area	11129
-Rural Areas	6422,3689,853
+Rural Areas	6422,3689,853,1431
 Rural Areas Figure	10763
 Rural Areas Table	10763
 Rural Areas Under Digital Transformation Project	3770
@@ -439,8 +455,10 @@ Sahelian Areas	10841
 Satellite Town and Alimosho Local Government Area	10742
 Scope Policy Area	12235
 Security and Cybersecurity Controls Control Area Description	6432
+Segmentation of Government Wide Area Network	12453
 Sep-2021. Practice Area	761
 Service Delivery Thematic Area	11951
+Service Local Area LAN	12364
 Six Priority Areas Enablers	1204
 Snow Incorparated LAN Local Area Network	34
 Software Defined Wide Area Network	5444
@@ -456,12 +474,15 @@ Strategic Development Area	1867
 Strategic Focus Area Business Objectives and Goals	11231
 Supervision Area	6938
 System Information Coverage Area	736
+THEMATIC AREA	12453
 TRENDS AND RISK AREAS	8354
 Tax Debt Priority Area Coordinator	12162
 Tax Online Service Area	12282
+Thematic Area	12453
 Topic Area Immediate	6832
 Trade Area	4126,2218,1178,1733,1221
 Trade Area AFD French Development Agency	10841
+Trade Area CCPC Competition and Consumer Protection	12376
 Traffic Management for Protected Areas	1132
 Tripartite Free Trade Area THC Tetrahydrocannabinol	11197
 U.S Government Thematic Area	4301
@@ -487,5 +508,6 @@ White Group Area	11245
 Wide Area Network	1783
 Wireless Local Area Network	3386
 Workshop Participants Focus Areas Output Outcome	6946
+Zambia Police Service Local Area Network	12462
 Zimbabwe. This Priority Area	970
 Zorbisi Zaare Residential Area	2776

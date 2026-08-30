@@ -1,6 +1,7 @@
 Abonnés Tel. Fixe	419
 Africa Americas Arab States Fixed	11563
 Application Fixed Wireless Access Maximum	736
+Authority FTE Full-Time Equivalent FWA Fixed	12395
 B. Fixed Penalty Notice	7845
 BRICS FIXED AFFORDABILITY	11262
 Basket Fixed- Mobile- Data-only Mobile	11563
@@ -16,7 +17,7 @@ COMMUNICATION AUTHORITY OF KENYA Fixed Telephony	6946
 CRA Iraq Yes Fixed Broadband Policy	11529
 Cameroon's Camtel Expands Fiber Network and Fixed	3528
 Chief Fixed Network Officer	9528
-Connectivity Fixed	11884,321
+Connectivity Fixed	11884,321,146
 Coverage of Fixed Assets	11955
 Câmara Fixa	794
 DATE FIX	4964
@@ -31,7 +32,7 @@ E. No Fixed Cap	5773
 EVOLUÇÃO DE ACESSO FIXO VIA RÁDIO	11531
 Enhanced Mobile Broadband and Fixed Wireless Access	2528
 Excise and Preventive Service CFC Consumption of Fixed	236
-FBB Fixed Broadband FDI Foreign Direct	10781,80
+FBB Fixed Broadband FDI Foreign Direct	10781,80,1566
 FIXANT LES CONDITIONS D'ETABLISSEMENT ET	10896,10
 FIXANT LES MODALITÉS DE MISE EN	10897,9
 FIXATION DES PRIORITES DE PROTECTION	10906
@@ -43,6 +44,7 @@ FIXED LINE BROADBAND SUBSCRIPTIONS	11211,51
 FIXED LINE REVENUE	11211,51
 FIXED LINE TRAFFIC	11211,51
 FIXED LINE VOICE SUBSCRIPTIONS	11211,51
+FIXED MARKET CONNECTIVITY ANNUAL INFORMATION	12395
 FIXED NETWORK	2776
 FIXED NETWORK SERVICES	2776,3895
 FIXED NETWORK SERVICES Fixed Voice Subscriptions	6671
@@ -74,17 +76,24 @@ Fixate	7751
 Fixating	9759
 Fixação	11518,2
 Fixe Taux	998
-Fixed	173,409,136,18,277,271,534,126,44,373,350,65,1086,36,223,86,352,129,1312,100,144,427,66,95,114,164,767,160,1607,1149,51,12,113,116,96,30,37,14,301,79,38,177,28,10,264,45
+Fixed	173,409,136,18,277,271,534,126,44,373,350,65,1086,36,223,86,352,129,1312,100,144,427,66,95,114,164,767,160,1607,1149,51,12,113,116,96,30,37,14,301,79,38,177,28,10,264,45,121,19,5,6,28,12,1,49
 Fixed Asset Management Units	9004
 Fixed Asset Register	9004
 Fixed Assets Coverage	11955
-Fixed Broadband	2776
+Fixed Assets Tax	12452
+Fixed Broadband	2776,9619
 Fixed Broadband Complaints Reach	11642
+Fixed Broadband Market	12395
+Fixed Broadband Market Shares	12395
 Fixed Broadband Networks Access	718
 Fixed Broadband Plan Ireland Yes National	11529
+Fixed Broadband Revenue Subscriptions Market	12395
 Fixed Broadband Subscription	2776
-Fixed Broadband Subscriptions	2776
+Fixed Broadband Subscriptions	2776,9619
+Fixed Broadband Subscriptions Market	12395
+Fixed Broadband Subscriptions Market Share Market	12395
 Fixed Broadband Subscriptions Quarter Q3	2776
+Fixed Broadband Subscriptions The Eswatini Government	12395
 Fixed Broadband Subscriptions The Total Fixed	2776
 Fixed Broadband Traffic	2776
 Fixed Broadband Traffic Fixed Broadband Q3	2776
@@ -109,6 +118,7 @@ Fixed Fibre Optic	6946
 Fixed Fixed Application Fixed Wireless Access	736
 Fixed Interest Rate	9566
 Fixed Internet	6000,5211,51
+Fixed Internet Broadband Broadband	12395
 Fixed Internet Data Traffic Market	6085
 Fixed Internet Subscriptions	718,5953
 Fixed Internet Wu	9781
@@ -120,12 +130,16 @@ Fixed Line Data Subscriptions and Penetration Fixed	2776
 Fixed Line Revenue	11211,51
 Fixed Line Subscriptions	6671
 Fixed Links	6946
+Fixed Market Broadcasting Market	12395
 Fixed Minutes International	3862
 Fixed Mobile Convergence	3258
 Fixed Network	762,2014,3895
+Fixed Network Connectivity Fixed Network Connectivity	12395
 Fixed Network Minute of Use	2776
 Fixed Network Minutes	2776
+Fixed Network Operations	12395
 Fixed Network Operators	3862
+Fixed Network Operators Employment	12395
 Fixed Network Planning and Engineering Director	9528
 Fixed Network Services	6671
 Fixed Network Voice Subscription and Penetration Rate	2776
@@ -148,8 +162,12 @@ Fixed Service Providers	3862,3084
 Fixed Service and Incoming	3898
 Fixed Service and Wholesale Transit Revenue Fixed	3898
 Fixed Telephone	2775,1
-Fixed Telephone Subscriptions	6000,671
+Fixed Telephone Financial Year	12395
+Fixed Telephone Lines	12395
+Fixed Telephone Shaping The Mobile Licenses	12395
+Fixed Telephone Subscriptions	6000,671,5724
 Fixed Telephone Subscriptions Figure	6671
+Fixed Telephone Subscriptions Fixed	12395
 Fixed Telephone and Mobile Network Services	2775
 Fixed Telephony	3862
 Fixed Telephony Operators	958
@@ -177,6 +195,7 @@ Fixed Voice Traffic	2776,3224
 Fixed Voice Traffic Average Fixed	2776
 Fixed Voice Traffic Total Fixed Voice	2776
 Fixed Wired	3862
+Fixed Wired Broadband Fixed Wireless Broadband	12395
 Fixed Wired Internet Market Lags	7110
 Fixed Wired Internet Subscriptions	3862
 Fixed Wireless	3862,2809
@@ -186,6 +205,8 @@ Fixed Wireless Access Subscriptions	6000
 Fixed Wireless Access System	736
 Fixed Wireless Internet Subscription	3862
 Fixed Wireless Subscriptions	6671
+Fixed Wireless Subscriptions Fixed Line Subscriptions	12395
+Fixed Wireless Telephone	12395
 Fixed Wireless and Fiber Access Network Expansion	956
 Fixed Wireless-Fixed Wireless	6671
 Fixed and Mobile Network Services	2775
@@ -196,24 +217,30 @@ Fixed-	10844
 Fixed-Fixed	6671
 Fixed-Line Services Record	11642
 Fixed-Mobile Convergence	1272
+Fixed-Wired Broadband Subscriptions	12395
+Fixed-Wired Telephone Subscriptions	12395
+Fixed-Wireless Broadband Subscriptions	12395
+Fixed-Wireless Telephone Subscriptions	12395
 Fixed-Wireless-Internet-Works.jpg	7110
 Fixed-broad	10844
 Fixed-broadband	6648,298,3898,719
 Fixed-broadband Internet	11563,402
 Fixed-effect	10881
 Fixed-effects	10852
-Fixed-line	1013,1763,1783,6652
+Fixed-line	1013,1763,1783,6652,1184
 Fixed-speed	11085
 Fixed-tele	10844
-Fixed-telephone	718,6228,3898
+Fixed-telephone	718,6228,3898,1489,11
 Fixed-term	10776,358,162
-Fixed-wireless	1818,5080
+Fixed-wired	12395
+Fixed-wireless	1818,5080,5497
 FixedBB	11563
 Fixer	7920,971,1985
 Fixes	998
 Fixes L’évolution	998
-Fixing	9683,26
+Fixing	9683,26,2629,118
 Fixing Ghana	3691
+Fixing Land Records Is Central	12456
 Fixing The Nation	6258
 Fixing the Frictions	11149
 Fixing the Frictions. Chapter	11149
@@ -248,10 +275,12 @@ Internet Fixe Parc	998
 Internet Fixe RAPPORT ANNUEL	998
 Internet Fixe Taux	998
 Internet Fixo	11531
+Internet and Broadband Fixed Broadband	12395
 IoT Fixed Service	3898
 IoT Fixed Services and IoT	6100
 Item of Tangible Fixed Assets Years Buildings	11955
 KSh Gross Fixed Capital Formation	2775
+Kingdom of Eswatini. Fixed Network Operators	12395
 Kyrgyzstan. Fixed	10844
 Land Disputes Ease As Govt Fixes	5070,1633
 Land Mobile Networks Fixed Networks	6946
@@ -260,12 +289,14 @@ M-PESA and Fixed Services	6100
 M. Mobile and Fixed Operators	1872
 MOBILE DATA AND FIXED BROADBAND	11262
 MTN’s Fixed Data	2776
+Main Fixed Telephone Lines	12395
 Market Fixing	5700
 Mbps. Fixed	1818
 Mn Fixed	3898,2202
 Mn Fixed Service and IoT	3898
 Mobile Data and Fixed Broadband	11262
 Mobile Fixed	1013
+Mobile Network Operators Fixed Network Operators	12395
 Mobile and Fixed Network	2776
 Mobile and Fixed Network Breakdown of Off- Q3	2776
 Mobile and Fixed Networks	2776
@@ -311,6 +342,7 @@ SMS AMERICAN TOWERS Fixe	998
 SOUTH AFRICA FIXED AND MOBILE UPLOAD	11262
 Service Gross Compensation of Consumption of Fixed Taxes	236
 TANGIBLE FIXED ASSETS AND INTANGIBLE ASSETS	11955
+TECHNOLOGY SECTOR REPORT Fixed Telephony Main	12395
 Telecel’s Fixed Broadband	2776
 Telefone Fixo	11577
 There’s No Fix for Weeks After FIJ	10034,231
@@ -318,6 +350,7 @@ Thousand Fixed Line Subscriptions Devices and Terminals	9781
 TradeSmart Fixed Income EMS Cyber Heroines	7156
 UGPE. Fixed-broadband Internet	11965
 UTILIZADORES DE SERVIÇO DE INTERNET FIXO	11531
+Usage Basket Fixed Broadband	12395
 Uzbekistan. Fixed-broadband	10844
 VDSL and Fixed Wireless Access	1818
 VHF PMR Fixed	6946

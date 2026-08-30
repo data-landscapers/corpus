@@ -8,6 +8,7 @@ Annex B. Other Major Sources of Funding	12175
 Annual Sources	11953
 BUSINESS MODEL AND REVENUE SOURCES	4896
 Battery Energy Storage System Sources	11953
+Business Enterprise Water Sources	12445
 CEMAC1 Gasoline Diesel Sources	1828
 CSIR Sources	11953
 CSP Sources	11953
@@ -21,10 +22,12 @@ Cost Sources	7548
 Cost Sources Technologies Council	7548
 Cunene and Benguela Cunene Benguela Sources	10763
 DES SOURCES DE DONNEES ET	785
-Data Sources	2775,2197,6885,294
+Data Sources	2775,2197,6885,294,205
+Data Sources Government	12356
 Data Sources Structured	11138
 Data Sources The HDSS	8604
 Data Sources and Compilation	236
+Data Sources and Methodology	12413
 Data Sources and Triangulation	7966
 Data for Policy Funding Sources Data for Policy	1246
 Dec Annual Supply Sources	11953
@@ -49,7 +52,7 @@ Fraunhofer ISE Sources	11953
 Fraunhofer ISE. Sources	11953
 Full Pass-Through Price Gasoline Diesel Sources	1828
 Fund. Sources	587
-Funding Sources	1000
+Funding Sources	1000,11457
 Funding Sources Responsibili Responsibilities Frame Cost	7548
 Funding Sources for Adaptation Investments	1828
 G FBB Sources	10995
@@ -121,7 +124,7 @@ SourceID	55
 SourceModified	5598
 Sourcebook	10985,171
 Sourced	3422,345,470,812,1885,415,2215,2229
-Sources	11,518,58,56,94,477,614,116,37,164,237,317,76,58,351,1,158,88,4,142,246,391,31,186,80,14,94,169,352,143,102,270,370,129,87,73,63,113,82,31,30,102,136,50,14,216,305,92,578,45,49,216,244,110,25,76,84,148,281,101,2,1,105,83,14,204,1,77,70,15,80,31,344,186,41,4,18,48,6,2,1,23,51,50,3,3,8,1,18,66,75,2,18,154,250,241,62,1,6,4,7,5,1,1,1,27,37,41,21,137,1,1,9,25,11,2,37,23,39
+Sources	11,518,58,56,94,477,614,116,37,164,237,317,76,58,351,1,158,88,4,142,246,391,31,186,80,14,94,169,352,143,102,270,370,129,87,73,63,113,82,31,30,102,136,50,14,216,305,92,578,45,49,216,244,110,25,76,84,148,281,101,2,1,105,83,14,204,1,77,70,15,80,31,344,186,41,4,18,48,6,2,1,23,51,50,3,3,8,1,18,66,75,2,18,154,250,241,62,1,6,4,7,5,1,1,1,27,37,41,21,137,1,1,9,25,11,2,37,23,39,40,1,5,6,1,42,32
 Sources A1- Disclosure	7548
 Sources AFRINIC	11812
 Sources AFRINIC Board Meetings and Resolutions	11813
@@ -138,7 +141,7 @@ Sources Develop	7548
 Sources NOG Alliance	11797
 Sources Process	9237
 Sources Publish	7548
-Sources SECURITY	10759,76,2,1,130,902,16,3,274
+Sources SECURITY	10759,76,2,1,130,902,16,3,274,177,1,11,1
 Sources ZANOG	11796
 Sources and Acronyms	12152
 Sources and Methodology	4563
@@ -147,15 +150,17 @@ Sources and Methods Embargoed	11286
 Sources and References	2958
 Sources of Change	2775
 Sources of Data	170
+Sources of Energy	12403
 Sources of Evidence	12225
 Sources of Finance for Central African Republic Refugees	10841
+Sources of Financing for Business Enterprises	12445
 Sources of Funding	940
 Sources of Funding Implementation	7548
 Sources of Growth	2775
 Sources of Housing Finance	2775
 Sources of Income for Central African Republic Returnees	10841
 Sources of Income for Returnees	10841
-Sourcing	1940,396,879,572,361,98,55,1246,235,180,248,174,56,4691
+Sourcing	1940,396,879,572,361,98,55,1246,235,180,248,174,56,4691,1314
 Sourcing Criterion	7548
 Sourcing of Fund	11129
 Sourgou	10875
@@ -180,4 +185,5 @@ Theory Origin Sources ITGov	9237
 Theory Origin Sources Ref	9237
 Transparency Under Scrutiny Sources	8835
 VAM Food Consumption Score Sources	10763
+ZRA. Funding Sources and Investor Networks	12376
 ZRCP TBA Pollution of Water Sources	1988

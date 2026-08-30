@@ -1,5 +1,10 @@
 Alto Cauale	539
+Analyzing Mortality Levels and Causes of Death	12413
+Analyzing Mortality and Causes of Death	12413
+Blackouts Causes	12358
+Business Enterprise Managers Major Causes of Skill	12445
 CAUSALITY	10852
+CAUSE OF DEATH STATISTICS.pdf	12471
 CAUTION	927,9348
 CAUTION ON TWO CAPITAL FIGURES	5912
 CAUTIOUS	12241
@@ -17,15 +22,16 @@ CausalFoundry Spain SL Data Processor INST-555721B874F	7167
 Causas	2438,9119
 Causas de Morte	11537
 Causas de Morte Mortalidade Contém	966
-Cause	1988,8775,43,611,721,13
+Cause	1988,8775,43,611,721,13,187,75
 Cause of Cause of Death N	12151
 Cause of Death	12151,16
 Cause of Death Asthma HIV	12151
 Cause of Death Cause of Death N	12151
 Cause of Death N	12151
+Cause of Death Statistics	12413
 Cause of N	12151
 CauseDeath	11180
-Causes	4047,7109,906,76,13
+Causes	4047,7109,906,76,13,320
 Causes Of Death	12151
 Causes Of Death According To Global	12151
 Causes Of Death From Foreign Deaths	12151
@@ -35,6 +41,7 @@ Causes Of Registered Deaths	12151
 Causes Preminule	10780
 Causes and Solutions	10
 Causes of Death	12138,13
+Causes of Death CR	12338
 Causes of Death From Foreign Deaths Registration	12151
 Causes of Registered Death With Special Programmes	12151
 Causes of Registered Deaths	12151
@@ -44,16 +51,22 @@ Caution	37,1935,2879,1095,208,586,1287,159,975,1190,1227
 Caution and Restraint	2367
 Cautioning	10729
 Cautious	3859,669,674
+Certification of Cause of Death MIGEPROF Ministère du Gerne	12413
 Chief Operating Officer Cauridor	5809
 Common Cause Zambia	9082,334
 Control and Prevention CoD Cause of Death CRDP	12151
+Death Rate CoD Cause of Death CR	12413
 Direct and Indirect Causes	10780
 Editorial Team F E Cauridor	9811
 Event Cause Impact	12241
 Extensive CAUTIOUS	12241
+External Causes	12413
 Fintech Cauridor and BnB Move	9920
 Fintech Ecosystem Caught Between Cash	10692
 Healthcare System Failures Cause Chaos	12227
+ICD-10 International Classification of Causes of Deaths	12413
+Implementation of Medical Certification of Cause of Death	12338
+International Medical Certificate of Cause of Death	12413
 Juiz da Causa	549
 Leading CauseS of Registered Deaths for Neonates	12151
 Leading Causes Of Registered Deaths	12151
@@ -66,16 +79,23 @@ MCCD Medical Certification of Cause of Death NCD	12151
 MINIMAL TO CAUTIOUS	12241
 MISCELLANEOUS CAUSE NO	3005
 Main Causes of Morbidity	10780
+Major Causes of Skill Gaps	12445
 Majority Caucus	8368
 Male Female Both Sexes Rank Cause	12151
+Males Female Rank Cause	12413
+Matrimonial Causes Act	12367
+Matrimonial Causes Jurisdiction Act	12367
 McCord. CAUTION	6445
-Medical Certification of Cause of Death	9370
+Medical Certificate of Cause of Death	12338,133
+Medical Certificate of Cause-of-death MINALOC	12338
+Medical Certification of Cause of Death	9370,3051
 Medically Certified Causes of Registered Deaths	12151
 Meeting of African Caucus of Finance Ministers	1885
 Men Caught Digging Grave of Late	7964
 Minority Caucus	8368,177
 Miscellaneous Cause No	3005
 Multi-faceted Program Causes Lasting Progress	10964
+N Causes	12413
 Nala. Cauridor	5809
 News Cauridor Deepens West Africa Push	9811
 PRIMARY CAUSE OF THE BREACH MALICIOUS	2709
@@ -83,6 +103,7 @@ Pakistan and Caucasus and Central Asia	11140
 Parliament's Permanent Committees and Caucuses	8015
 RAPID TECHNOLOGY ATTRIBUTION AND CHANGES CAUSALITY	10852
 ROOT CAUSE	1938
+Rank Cause	12413
 Rank Cause of Death Male Female	12151
 Root Cause Analysis	10721
 Root Cause Analysis of Deviations Table	5245
@@ -96,3 +117,5 @@ Ten Leading Causes of Registered Deaths Among	12151
 Ten Leading Medically Certified Causes	12151
 Ten Leading Medically Certified Causes of Registered	12151
 Underlying Cause of Death	12151
+Vital Statistics and Causes of Deaths Report	12367
+Years Rank Cause	12413

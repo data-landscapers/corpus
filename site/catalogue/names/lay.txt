@@ -30,6 +30,7 @@ Layer	4611,79,81,1002,1235,782,2419,103,276
 Layer AI	7147
 Layer C Integration Layer	1009
 Layer Component Description References Contextual	9128
+Layer Protocol Infrastructure	12395
 Layer Transaction	11310
 Layer3	2277,1277,305,3,4345,3739
 Layer3 Ltd	3862

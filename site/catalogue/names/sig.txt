@@ -8,6 +8,7 @@ ARSEL LISTE DES SIGLES LA TRANSPARENCE	10975
 ART Signal	10856
 ARTCI Signal	10856
 ATAFTAX SUGGESTED APPROACH TO DRAFTING SIGNIFICANT	3161
+AUTHORIZATION Participant’s Authorized Signatories	12364
 Accounting Officer Signature Approved	5533
 Achievements Significant	11420
 Acompanhamento de Operadores Dr. Rui Inumba Sigá	11574
@@ -26,9 +27,12 @@ Applicant Signature Position Held Date Area	736
 Applicant Signature Position Held Date Official	736
 Attributaire Signe	10876
 Authentication and Digital Signature	11872
+Authorised Signatory Authorised Signatory	12364
 Authorized Signatory Letter	3604
 AutoGPT Significant-Gravitas	11922
 Autorité Signe	10876
+Availability of Electronic Signature and Authentication	12389
+Avatar of Sigberth-MK	12478
 B Significant Focus	11867
 B Significant GovTech Maturity C Medium	10785
 B. SIGNIFICANT CHANGES DURING IMPLEMENTATION	11924
@@ -36,6 +40,7 @@ BANDE DE FREQUENCE CATEGORIE SIGNATURE CNPC	998
 BERGMANS SIGNENT UN ACCORD DE CONCESSION	10476
 BIDDER’S STAMP OR SIGNATURE Development Bank	11240
 BSD Broadcasting Signal Distributor CA Communications	6946
+Bank of Zambia. Participant’s Authorized Signatories	12364
 Base Signé	8507
 Bazéga Siglé	10875
 Benin Signs Landmark Agreements	3299
@@ -58,8 +63,10 @@ CLEAR SIGHTS LIMITED Data Controller INST-892128BE737	7167
 CMDCV Digital Signature	11875
 COLECTIVAS PRAZOS Ref.ª Na Plataforma SIGT	11435
 CONTRACTOR Signed	12253
+CSD SYSTEM Designation Comment Signature Date	12364
 Cabinet. Sigwe MP David Ngcamphalala	5450
 California-based Sign	3950
+Capacity of Signatory	12400
 Cape Verdean State. Through Single Sign	11939
 Central Bank of Egypt and Afreximbank Sign	4401
 Centre for Interdisciplinary Study of Pandemic Signatures	5141
@@ -72,21 +79,24 @@ Chronos des SIGNEES	10975
 Civic Services Signature Adv Constance Moitse	5533
 Civic Services Signature Dr L	11986
 Civil Registry SIGIEC Integrated Electronic Identification	10812
-Classified Warning Signs No Change	10835,3,130,918
+Classified Warning Signs No Change	10835,3,130,918,466,1
 Classified Warning Signs No Change Best	10835,3,130,918
 Cobertura Não Significa	9559
 Cobrança SIGT	11435
 Codes NSPC National Signalling Point Codes	6946
+Comment Signature Date and Time	12364
 Conclusion SIGFU	10937
 Conetividade Significativa	11569
 Congo Signs Agreement	2398
 Congo’s SIGAJ	10990
-Contract Signing	9409
+Contract Signing	9409,2980
+Contract Signing Electronically	12389
 Counter Corruption and Security Services Signature	5533,6453
 Country Signing Certificate Authorities	7370,191
 Cross-Cutting Requirements Significant	6423
 Cybersecurity Bill Awaits President Boakai's Signature	6968
 DATE DE BANDE DE SIGNATURE FREQUENCE	998
+DATE STAMP Signature of Registrar	12410
 DE IMPLEMENTAÇÃO DO SIGTC	11473
 DES POPULATIONS DE L’ÉTAT SIGNATURE DES	2342
 DGI LISTE DES SIGLES ET ABREVIATIONS	10858
@@ -103,10 +113,13 @@ Development of Digitally Signed QR Code and Digital	12241
 Development of Street Signage Maps	11129
 Dever de Sigilo	11383,1,49
 Dever de Sigilo Profissional	167
+Digital Certificate and Digital Signature. Authorised Person	12364
 Digital Infrastructure and Other Services Significant	3487
 Digital Readiness Assessment Significant	2001
+Digital Signature	12359,5
 Digital Signature Platform	10785
 Digital Signature Platform I-42	10785
+Digital Signature RISA RISA RISA Digital	12359
 Digitally Signed QR Code	12291
 Digitally Signed QR Code IDs and Birth	12241
 Director Sign	9855
@@ -120,13 +133,15 @@ E Signet	7065
 E-Government Technology Unit Signature Date	2779
 ECOWAS PRESENTS SIGMAT	4827
 ECOWAS SIGMAT	4827
+EICV5. Significant	12403
 EMPLOYER Signed	12253
 ENA SIGED Interconnexion des IESR PRESENTATION CONVENTION	9049
 Early Warning Signal Against	5550
 Economic Planning of Rwanda Signed Framework Agreement	791
 Education Completion Warning Signs Business	11870
 El SIGFE	1701
-Electronic Signatures	1163,1243,3465
+Electronic Signature A Sound	12453
+Electronic Signatures	1163,1243,3465,6518
 Electronic Signatures Council of Europe	10819
 Electronic Signatures and Infrastructures	10819
 Email Signature of Complainant	1778
@@ -137,10 +152,12 @@ Ethiopia Signs Up	7474
 Europe. Signing	8125
 Executive Authority Signature OFFICIAL SIGN OFF	5533
 Exit Offer. Signed	4896
+Expiry Date Signature Issued	12364
 Exploitation and Harassment SIG-HR Integrated Human Resource	11863
 False Signals and Impersonation	736
 Federal Republic of Nigeria Signed	4302
 Framework. Signed	8424
+Full Name of Signatory	12400
 GAMTEL and SYSROAD Sign	4543
 GDP Signal Strong High and Acceptable Moderate	11134
 GIM-UEMOA Signature	10711
@@ -160,12 +177,14 @@ ICT. Signed	6618
 IITPSA SIGCyber	8563
 IPN and NamClear Sign Pact	6988
 IX OFFICIAL SIGN-OFF	11261
+Identity Management and Single Sign-On	12359
 Immigration Services Signature Mr Thomas Sigama	5533
-Improvement Slowing Deterioration Warning Signs Increasing	10759,76,3,130,902,16
+Improvement Slowing Deterioration Warning Signs Increasing	10759,76,3,130,902,16,466,1
 Inadequate Significantly	11252
 Individual Qualified Signature Qualified Signature	11955
 Installation of Street Name Signs	11129
 Institutional Coordination and Signalling Stakeholders	4848
+InsurTechs Significant	12444
 Integration SIGTAS Medium Term Revenue Strategy	12225
 Integrity Sensitization and Pledge Signing Workshop	1554
 International Signalling Point	6946
@@ -230,10 +249,16 @@ NDICE LISTA DE SIGLAS E ACRÓNIMOS	2816
 NDPC Sign MoU	4937
 NIMC Emerges Nigeria’s Digital Signature Authority	7371
 NSIA Banque CI Signs Strategic Partnership	5163
+NUMBER REPUBLIC OF ZAMBIA SIGNATURE	12410
 Na Plataforma SIGT. Para	11435
 Naaba Sigri	12068
+Name Designation Comment Signature Date	12364
+Name Designation Comment Signature Date and Time	12364
+Name Signature	12364
 Name Signature Date Environmental Safeguards Officer	11863
+Name Signature Date Time BOZ ZIPSS	12364
 Name Signature Mr Godfrey Gomwe	4896
+Name of BOZ Signature Date CA Approver	12364
 Name of Officer of District Court Signature of Officer	7845
 National Mobile Digital Identity and Electronic Signature	11120
 National Signalling Point Codes	6946
@@ -245,6 +270,7 @@ Nigeria Signs Agreement	3054
 Nigeria Signs MoU	3743
 Nigeria and Equatorial Guinea Sign Landmark Subsea	5001
 Ntokozo Sigwebela	11228
+Number of Signal Distributors	12395
 OFFICIAL SIGN OFF	11986
 OFFICIAL SIGN-OFF	11261
 Officer Signature Ms Tampane Molefe-Sefanyetso	11986
@@ -263,6 +289,7 @@ PRESIDENT TINUBU SIGNS NIMC ACT	6871
 PRINCIPAUX SIGLES ET ACRONYMES	10876
 PRINCIPAUX SIGLES ET ACRONYMES ABE Agence	10876
 Pan-African Parliament Signals	8012
+Participant Authorised Signatories	12364
 Plataforma Estatística SIGE	11538
 Poder de Mercado Significativo	11430
 Poder de Mercado Significativo Conjunto	11430
@@ -280,6 +307,9 @@ Qatar Charity Sign Deal	5910,491
 Quality Management Sign	9855
 RCZ-NCRST MoU Signing Ceremony	1554
 REA Sign Agreement	8417
+REGISTRATION NUMBER REPUBLIC OF ZAMBIA SIGNATURE	12410
+REGISTRATION OFFICER RIGHT SIGNATURE	12410
+REGISTRATION OFFICER RIGHT SIGNATURE OF HOLDER	12410
 RGPH SEN SFP SIGE SPE TBA	10766
 RWANDA SIGN A MEMORANDUM	2450
 Ratification and Signatories	11935
@@ -287,7 +317,9 @@ Rd Sibongile Sigenu	8999
 ReDIV RRR SEWA SIGAS SIIPS SMAP	10763
 Realizing Africa’s Potential Landry Signé	5440
 Register Sign In Menu Menu South	6281
+Registrar's Signature	12410
 Regulatory and Legal Significance	11313
+Remember Me Sign	12345
 Remote Station Signal-to-Noise Ratio	736
 Republic of Sierra Leone Signs Free	3986
 Research and Significant	12210
@@ -378,6 +410,7 @@ SIGMaP Documents	10876
 SIGMaP Dès	10876
 SIGMaP Délais	10876
 SIGMaP Page	10876
+SIGN A PARTNERSHIP TO SPONSOR	12358
 SIGN Foundation	9135,1539
 SIGN UP FOR THE AWARD-WINNING	6997
 SIGNATURE	1988,319
@@ -385,6 +418,7 @@ SIGNATURE A LA PRIMATURE DE CONVENTION	7926
 SIGNATURE DES LETTRES DE MISSIONS AVEC	2342
 SIGNATURE FREQUENCE ARCEP	998
 SIGNATURE FREQUENCE Engineering	998
+SIGNATURE OF DEPONENT	12374
 SIGNATURE SOUS FORME ELECTRONIQUE	10906
 SIGNATURE SOUS FORME ELECTRONIQUE LE PRESIDENT	10896
 SIGNATURES Pursuant	8939
@@ -422,7 +456,7 @@ SIGTUR	11445,13
 SUGGESTED APPROACH TO DRAFTING SIGNIFICANT ECONOMIC	3161
 Samsa Fundacja BBS Signly Ltd Getty	8530
 School Feeding Programme SIG	12175
-Score Slowing Improvement Warning Signs	10835,3,130,902,16
+Score Slowing Improvement Warning Signs	10835,3,130,902,16,466,1
 Secrétaire Exécutif SIG Système	10876
 Secured Electronic Signature Accreditation	5780
 Self-Provision Broadcasting Signal Distributor	6946
@@ -431,6 +465,8 @@ Sexual Harassment SIGAS Social Action Management	10768
 SiGIT	427,147,11563
 Siga-nos	11587
 Sigama	11986
+Sigberth Mbote	12478
+Sigberth-MK	12478
 Sightsavers	10290,1941
 Sigilo	14,525,10,3598,6607,609,155,2,791
 Sigilo Profissional	11425
@@ -454,7 +490,7 @@ Sign the Petition	7412
 Signage	1988,9141
 Signal	34,2333,7663,359,467,406
 Signal Distribution License	718
-Signal Distributor	6946
+Signal Distributor	6946,5449
 Signal Distributor In the FY	6946
 Signal Distributors	6946
 Signal Processing Developer	11623
@@ -475,13 +511,13 @@ Signals Digital Government Shift Liberian Observer	5994
 Signals Mali	5348
 Signals Recovery Across Core Businesses	7427
 SignatCuonrdeitions	736
-Signatories	697,1985,1485,2623,170,1570,2020,364,1026
+Signatories	697,1985,1485,2623,170,1570,2020,364,1026,424
 Signatories Robert Dussey	4502
 Signatories Verbatim	6849
 Signatory Organizations	11079
 Signatory Tech Review Africa	6897
 Signatur	8546
-Signature	28,6,702,222,265,8,683,41,33,354,367,280,584,21,22,193,518,22,547,812,492,232,82,1678,699,615,313,184,35,349,388,83,18,62,37,204,797,65,185,27,49
+Signature	28,6,702,222,265,8,683,41,33,354,367,280,584,21,22,193,518,22,547,812,492,232,82,1678,699,615,313,184,35,349,388,83,18,62,37,204,797,65,185,27,49,58,4,10,26,10
 Signature By Destiny D. Jabula	6968
 Signature Date	1770,144
 Signature Form PT3	736
@@ -494,17 +530,19 @@ Signature du Contrat	2342
 Signature du DGCC	10975
 Signature du Projet	3381
 Signature du Signature	10876
+Signature of Director	12364
 Signature of Offender	7845
+Signature of Registrar	12410
 Signature.................................. Completion	1988
 Signature........................................... Date	1223
 Signature...................................this	11976
-Signatures	1704,587,1271,7267,47
+Signatures	1704,587,1271,7267,47,1498
 Signatures Legally	12211
 Signatário. CLÁUSULA	11455
 Signatários	11455
 Signe	3024,7852
 Signe le B	10876
-Signed	144,92,18,32,271,158,21,347,122,29,229,76,36,203,184,129,151,194,1018,365,230,175,28,210,38,19,3,177,33,164,133,257,112,80,113,19,136,700,596,162,55,19,14,42,92,30,8,351,252,686,557,357,1054,216,926,113,10,99,66,34
+Signed	144,92,18,32,271,158,21,347,122,29,229,76,36,203,184,129,151,194,1018,365,230,175,28,210,38,19,3,177,33,164,133,257,112,80,113,19,136,700,596,162,55,19,14,42,92,30,8,351,252,686,557,357,1054,216,926,113,10,99,66,34,143,36
 Signed CVs	11252
 Signed CoC	12253
 Signed Council of Europe Additional Protocol	10908
@@ -528,7 +566,7 @@ Significa	1948,8603,1467
 Significance	2113,835,4938,135,1
 Significance Rating of Project Impacts Assessment	12253
 Significance of Big Data	9128
-Significant	34,362,544,29,185,58,52,290,2,258,14,173,888,496,12,59,146,1294,548,81,8,252,647,515,748,659,775,362,389,89,796,10,4,1,5,55,1,5,94,45,12,8,129,2,59,66,11,129,162,9,295,12,15,6,5,11,24,13,2,1,30,8,172,9,1,25,5,19,8,8
+Significant	34,362,544,29,185,58,52,290,2,258,14,173,888,496,12,59,146,1294,548,81,8,252,647,515,748,659,775,362,389,89,796,10,4,1,5,55,1,5,94,45,12,8,129,2,59,66,11,129,162,9,295,12,15,6,5,11,24,13,2,1,30,8,172,9,1,25,5,19,8,8,170
 Significant Corporate Events	7198
 Significant Cyber	5242
 Significant Economic Presence	961,2200,5303,3402
@@ -539,6 +577,7 @@ Significant Market Player	6834,1191
 Significant Market Players	11857
 Significant Market Power	7368,657
 Significant Progress	11005
+Significant Remarks	12370
 Significant Social Media Intermediaries	9208
 Significant Step Forward for Seychelles’ Legal Affairs	6806
 Significant for GNQ	3038
@@ -559,14 +598,14 @@ Signing of Performance Agreements	11218,6
 Signiﬁcant	10844
 Signiﬁcantly	11154
 Signpost AI	5233
-Signs	3583,7252,3,130,161,741,16
+Signs	3583,7252,3,130,161,741,16,466,1
 Signs Benin	10835
 Signs Bouncing Back Slowing Deterioration Increasing	10759
 Signs Burkina Faso	10838
 Signs Cameroon	10968
 Signs Nigeria	11886
 Signs No Change Bouncing Back Slowing	10759
-Signs Score	11870
+Signs Score	11870,482,1
 Signs of Stabilisation	4972
 Signup	8943
 Signvrse	8209,1735
@@ -580,10 +619,12 @@ Sigur	9237
 Similar Signals	10954
 Single Authentication and Digital Signature	11869
 Single Sign On Login	11939
-Single Sign-On	5140,3831,2260,641
+Single Sign- On RISA RISA RISA	12359
+Single Sign-On	5140,3831,2260,641,487,30
 Single Sign-on	11872
 Sistema Integrado de Gestão SIGFE Financeira	11417
-Slowing Improvement Slowing Deterioration Warning Signs	10835,3,1048
+Slowing Improvement Not Classified Warning Signs	12353
+Slowing Improvement Slowing Deterioration Warning Signs	10835,3,1048,466,1
 Slowing Improvement Warning Signs Security	10968,902
 Sommaire SIGLES ET ABREVIATIONS	12
 South African Sign Language	9767
@@ -596,10 +637,11 @@ Street Name Sign Size	11129
 Street Name Signage	11129
 Street Signage Map	11129
 Substack. Sign	4095
+Support for Single Sign-On Single	12359
 Sustainable Development SIGASPE Integrated System for Human	10812
 TABLE OF CONTENTS SIGNATURES	7198
-TF Status Approval Signing Effectiveness Orig	2712,1976,2240,949,2993,1101,257,39
-TREND Increasing Improvement Warning Signs Slowing	10837
+TF Status Approval Signing Effectiveness Orig	2712,1976,2240,949,2993,1101,257,39,173
+TREND Increasing Improvement Warning Signs Slowing	10837,1503
 TRENDSNAFRICAAFRICAN NEWS PORTAL Sign	3768
 Tanzanian Sign Language. Sign	9944
 Teacher Training Institutes Sign	2989
@@ -607,7 +649,9 @@ Tech Senegal and Mauritania Sign MoU	2288
 Technology NITDA Signs MoUs With Canadian	9882
 Tf Approval Signing Effectiveness Net Closing	1228
 Togo Signs CFA257.4 Billion	7426
-Trend Warning Signs Slowing Improvement Increasing	10837
+Trend Warning Signs	12341
+Trend Warning Signs Slowing Improvement Increasing	10837,1503
+Trend Warning Signs Social Protection	12341
 Trésor. Le SIGRHEP	8585
 Tunisia Signs MoU	4933
 UAE Signals	5086
@@ -616,10 +660,11 @@ United States and Kenya Sign Five-Year	4165
 V Sigles	10874
 Version History Significant	6423
 W Signals Video	34
-Warning Signs	11887,1,1,264,1,9
+Warning Signs	11887,1,1,264,1,9,178
+Warning Signs Absence of Forced Migration	12352
 Warning Signs Bouncing Back Slowing Deterioration	10759
-Warning Signs Increasing Deterioration	10835,3,130,902,16
-Warning Signs Score	10837,1315
+Warning Signs Increasing Deterioration	10835,3,130,902,16,466,1
+Warning Signs Score	10837,1315,188
 Warning Signs. African	12163
 Warning Signs. Women's Equality	11888
 Warning Signs. Yearly Overall Governance	11888
@@ -628,7 +673,10 @@ West African Nations Sign Roaming Agreement	2362
 WhatsApp. Sign	5050,494
 World Bank Sign	965,3924,206
 XML Advanced Electronic Signatures Signature	1009
+XML Signature XML DSIGW3C W3C XML	12360
 Yacinthe Sigui	8224
+ZIPSS SYSTEM Designation Comment Signature Date	12364
+ZIPSS SYSTEM Name Designation Comment Signature	12364
 Zambia Revenue Authority Signs ICTD Deal	7433
 Zambia. Signatories	9082
 Zembendé SIGUIBEOGO Abdoul Fatah SORE Abdoulaye	10875

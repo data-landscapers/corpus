@@ -17,6 +17,7 @@ Autoridades de Proteção de Dados Pessoais	3079
 B B.1 Pessoa Singular	12018
 B.2 Pessoa Singular	12018
 B.4 Pessoa Coletiva	12018
+Background PES	12383
 Bankita Conta Pessoa Singular Conta Pessoa	11403
 Bureau Internacional de Pesos	11381
 C C.1 Pessoa Singular	12018
@@ -26,6 +27,7 @@ CAPÍTULO II TRATAMENTO DE DADOS PESSOAIS	14
 CAPÍTULO V PESSOAL E DISPOSIÇÕES DIVERSAS	13
 CAPÍTULO V PESSOAL E ORGANIGRAMA Artigo	167
 CAPÍTULO V Pessoal	13
+Census and PES	12383
 Centro Nacional de Pesquisa	2816
 Centro de Pesquisa	2816,876
 Comissão Nacional de Proteção de Dados Pessoais	11943
@@ -194,7 +196,7 @@ Pessoas. Há	11569
 Pest Management OP	11525,330,282
 Pesticidas	1701
 Pesticide and Toxic Substance Licence	1988
-Pesticides	8797,416,2056
+Pesticides	8797,416,2056,1120
 Pesticides and Toxic Substances	1988
 Pilar Pessoas	11569
 Política de Pesca	1701

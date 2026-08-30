@@ -90,6 +90,7 @@ Author Etenat Awol Published	12249
 Avec Ethio Telecom	4355
 Ayang Macdonald Ethio Telecom	7971
 Ayang Macdonald The National Bank of Ethiopia	12274
+Ayder Referral Hospital Ethiopia. J Heal	12379
 B. MINISTERE DE L’ECONOMIE ET DES	7670,651
 BANQUE ATLANTIQUE ET NITA RENFORCENT L’INTEROPÉRABILITÉ	6883
 BANQUE DES ETATS DE L’AFRIQUE CENTRALE	11944
@@ -346,6 +347,7 @@ Description Supports Ethiopia	1290
 Description USAID Ethiopia Digital Health Activity	531
 Designed for Ethiopia	12215
 Despite Ethiopia	12255
+Develop Ethical Guidelines	12356
 Develop National Al Governance and Data Ethics	6936
 Developed Ethiopia	12171
 Development Bank of Ethiopia	9407,2788
@@ -363,10 +365,12 @@ Director General of Ethio Telecom	4192
 Disability Inclusion Initiatives Ethio	12236
 Djibouti and Ethiopia	6022,6223
 Doges. Et	5916
+Domicillium Citandi Et Executandi	12400
 Données Findex Banque des Etats	11944
 Double Meurtre D'aziz Dabala Et Waly	4960,62,2035
 Doudoubalala MINISTÈRE DES AFFAIRES MUSULMANES ET	4402
 Draft Arab Charter of Ethics for Artificial Intelligence	2958
+Drafting Policies and Ethical Guidelines	12356
 DÉFIS ET PERSPECTIVES	5928
 DÉMARCHE MÉTHODOLOGIQUE ET PROBLÉMATIQUE	10712
 D’ABENGOUROU ET DE DALOA Botro	2342
@@ -521,6 +525,7 @@ ETSI EN	9123
 ETSI Identity	10819
 ETSI TR	10819
 ETSI TS	1009
+ETSIP	12325
 ETTORS	4349
 EXECUTION ET SUIVI DES MARCHÉS	10876
 EXECUTION ET SUIVI DES MARCHÉS VI.1	10876
@@ -529,6 +534,7 @@ EXONÉRATIONS FISCALES ET DOUANIÈRES	4567
 Early Access Ethiopia	12199
 Earnings and Consumer Prices Ethiopia	2775
 East African Community EACC Ethics and Anti-Corruption	2775
+East Ethiopia	12379
 East Shewa Zone of Eastern Ethiopia	12246
 East and Northeast Africa. Ethio	4898
 Eastern Ethiopia	12246
@@ -554,6 +560,7 @@ Erastus Ethekon	9545
 Eritrea Estonia Eswatini Ethiopia European Union	11765
 Eritrea Estonia Eswatini Ethiopia Falkland Islands	11470
 Eritrea and Djibouti. Ethiopia	8131
+Establishing Ethical and Regulatory Frameworks	12356
 Eswatini X Ethiopia X Gabon X	11005
 Et Agri-Marketplace	12036
 Et Aminata Camara	9620
@@ -710,6 +717,8 @@ Etats. Pour	2400
 Etayi	3475
 Etc. Anuário Estatístico da Educação	10766
 Etc. Click	10762
+Etegameno	12421
+Etegameno Rehabilitation Centre	12421
 Eteindre	1005
 Etendre	10965
 Eternel	12099
@@ -746,16 +755,19 @@ Ethernet and Fibre Channel	11209
 Ethi-	1204
 Ethica	3897
 Ethica's CloudAccess	3897
-Ethical	771,190,243,15,42,832,855,10,1168,306,96,320,685,18,67,423,401,504,2,330,270,211,207,55,1,108,171,75,84,193,215,260,1,726,333,947,21,91,739,4,100,120,21,15,9
-Ethical AI	2958,1570,238,515,2267,3590,1072
+Ethical	771,190,243,15,42,832,855,10,1168,306,96,320,685,18,67,423,401,504,2,330,270,211,207,55,1,108,171,75,84,193,215,260,1,726,333,947,21,91,739,4,100,120,21,15,9,180
+Ethical AI	2958,1570,238,515,2267,3590,1072,146
 Ethical AI Framework and Implementation Ubuntu-Centred AI	4528
 Ethical AI for Development	4528
 Ethical Awareness Campaigns and Demand	9855
 Ethical Challenge. In AI	2518
 Ethical Charter for Artificial Intelligence	2958
 Ethical Code	3861
+Ethical Commitment and International Alignment Embracing AI	12356
 Ethical Committee Review	771
+Ethical Committee TB Tuberculosis Declarations Ethics	12379
 Ethical Concerns	12210
+Ethical Consideration	12379
 Ethical Considerations	1824,9095,1263
 Ethical Considerations Ethics	12025
 Ethical Considerations and Participant Compensation	4439
@@ -768,18 +780,24 @@ Ethical Guidelines	11050
 Ethical Hackers	6832
 Ethical Hacking	4610
 Ethical Impact Assessment	1814
+Ethical Impact Assessment of AI Systems	12389
 Ethical Impact Assessments	4528
 Ethical Insights	6538
 Ethical MINICT	1204
+Ethical Oversight	12356
 Ethical Principles	5676
 Ethical Principles Consumer	5676
 Ethical Safeguards	7548
 Ethical Use of Artificial Intelligence	2958
 Ethical and Developmental State	11230
 Ethical and Human-Centric	4528
+Ethical and Legal Risks	12356
+Ethical and Privacy Concerns	12356
+Ethical and Responsible AI	12356
+Ethical and Responsible AI Adoption	12356
 Ethical and Scientific Committee for Research	7313
 Ethicaltensionswereespeciallyapparent	8602
-Ethics	766,5,190,251,7,1739,833,70,265,402,718,987,704,9,601,1,753,75,752,1060,596,97,59,110,84,1,21,422,7,418,207,21,15,9
+Ethics	766,5,190,251,7,1739,833,70,265,402,718,987,704,9,601,1,753,75,752,1060,596,97,59,110,84,1,21,422,7,418,207,21,15,9,164
 Ethics Ambassadors	11131,3
 Ethics Ambassadors Initiative The Bank	11134
 Ethics Ambassadors Programme	11134
@@ -797,6 +815,7 @@ Ethics Hotline	11334
 Ethics Integrity	11131
 Ethics Office	11134
 Ethics Officer	11131,3
+Ethics Recommendations	12356
 Ethics The Bank	11134
 Ethics and Anti- Total Corruption Commission	6946
 Ethics and Anti-Corruption Commission	2775,9338
@@ -816,8 +835,8 @@ Ethics and Security	6947
 Ethics and Sustainability	7211
 Ethics and Transparency	1814
 Ethics for Artificial Intelligence	2958
-Ethics of AI	1072,742,2312,608,2814,130,163,2096,1198,130,71,874
-Ethics of Artificial Intelligence	1814,1144,1168,563,347,1258,818,58,378,1199,457,1952,327
+Ethics of AI	1072,742,2312,608,2814,130,163,2096,1198,130,71,874,146
+Ethics of Artificial Intelligence	1814,1144,1168,563,347,1258,818,58,378,1199,457,1952,327,873
 Ethics of Autonomous and Intelligent Systems	11135
 Ethio	2272,1215,286,202,196,100,10,617,37,40,364,2570,62,675,273,609,4,1051,120,6,1491,2,31,3,13,23
 Ethio Telecom	1219,458,14,204,1322,249,322,79,108,175,21,21,163,200,251,22,88,2,1,114,100,200,471,64,178,547,257,162,117,221,48,290,2,111,18,152,567,1,107,25,172,686,2,228,141,803,183,1363,15,3,5
@@ -856,7 +875,7 @@ Ethiooia	4349
 Ethiop	7065
 Ethiop J Heal Dev	12255
 EthiopiAI	2162
-Ethiopia	111,43,41,2,11,28,12,42,74,21,7,10,3,36,10,18,46,16,40,52,31,3,5,40,12,19,17,12,53,5,30,29,30,43,61,25,29,26,30,1,1,8,2,12,5,60,4,3,20,4,45,2,73,5,75,22,11,41,23,21,21,7,44,12,12,20,106,1,1,1,1,1,1,1,1,1,1,1,1,1,1,7,9,1,10,36,35,69,31,102,5,9,6,45,53,9,14,12,53,15,6,38,65,20,8,8,39,16,23,7,18,4,17,27,7,37,19,2,3,37,1,5,50,3,5,8,13,15,1,3,50,33,6,2,8,3,5,13,4,32,7,2,29,1,3,5,11,52,23,20,3,41,25,1,1,1,1,1,1,1,1,1,6,1,21,27,20,18,21,81,55,6,21,96,12,28,4,32,36,42,5,31,18,29,39,30,9,18,33,22,6,53,37,21,35,16,11,2,24,16,6,27,124,9,10,58,19,93,15,2,21,4,3,7,1,20,20,21,22,60,32,10,23,7,22,3,11,11,1,10,19,9,6,6,3,9,2,17,37,3,32,26,8,32,11,1,146,1,16,19,15,20,4,4,29,25,19,65,33,12,4,3,53,28,2,13,33,26,37,5,32,75,21,43,5,5,33,1,1,37,6,10,59,47,24,4,43,4,71,7,30,11,8,16,47,7,2,17,8,41,59,63,7,5,34,3,10,8,12,37,1,105,35,8,1,7,16,37,73,5,10,2,32,55,17,11,17,1,1,1,1,1,1,1,1,1,1,9,28,9,49,7,10,55,29,62,1,47,65,11,64,10,69,8,12,41,10,2,17,14,33,40,25,15,2,50,1,22,12,33,8,9,33,29,2,10,5,24,39,18,19,25,8,12,18,52,84,102,21,66,1,23,48,37,24,111,61,76,1,51,54,6,5,34,34,20,182,1,1,91,16,16,42,55,1,1,80,1,11,19,31,87,3,39,30,37,32,125,168,265,23,1,14,20,58,9,76,44,11,45,4,1,4,12,4,1,19,18,10,3,3,1,1,1,3,2,6,26,8,54,10,13,1,4,17,19,2,5,5,1,101,2,16,1,3,9,122,39,5,17,20,65,70,85,22,2,11,2,11,44,1,66,10,67,9,22,31,13,3,1,2,13,1,11,8,42,88,17,53,16,8,5,2,1,4,4,1,8,2,4,6,1,1,3,5,2,3,1,1,2,3,10,7,1,1,1,1,1,1,1,3,1,3,2,6,1,1,2,1,1,5,1,1,6,1,3,2,2,1,1,1,2,3,2,11,5,1,6,13
+Ethiopia	111,43,41,2,11,28,12,42,74,21,7,10,3,36,10,18,46,16,40,52,31,3,5,40,12,19,17,12,53,5,30,29,30,43,61,25,29,26,30,1,1,8,2,12,5,60,4,3,20,4,45,2,73,5,75,22,11,41,23,21,21,7,44,12,12,20,106,1,1,1,1,1,1,1,1,1,1,1,1,1,1,7,9,1,10,36,35,69,31,102,5,9,6,45,53,9,14,12,53,15,6,38,65,20,8,8,39,16,23,7,18,4,17,27,7,37,19,2,3,37,1,5,50,3,5,8,13,15,1,3,50,33,6,2,8,3,5,13,4,32,7,2,29,1,3,5,11,52,23,20,3,41,25,1,1,1,1,1,1,1,1,1,6,1,21,27,20,18,21,81,55,6,21,96,12,28,4,32,36,42,5,31,18,29,39,30,9,18,33,22,6,53,37,21,35,16,11,2,24,16,6,27,124,9,10,58,19,93,15,2,21,4,3,7,1,20,20,21,22,60,32,10,23,7,22,3,11,11,1,10,19,9,6,6,3,9,2,17,37,3,32,26,8,32,11,1,146,1,16,19,15,20,4,4,29,25,19,65,33,12,4,3,53,28,2,13,33,26,37,5,32,75,21,43,5,5,33,1,1,37,6,10,59,47,24,4,43,4,71,7,30,11,8,16,47,7,2,17,8,41,59,63,7,5,34,3,10,8,12,37,1,105,35,8,1,7,16,37,73,5,10,2,32,55,17,11,17,1,1,1,1,1,1,1,1,1,1,9,28,9,49,7,10,55,29,62,1,47,65,11,64,10,69,8,12,41,10,2,17,14,33,40,25,15,2,50,1,22,12,33,8,9,33,29,2,10,5,24,39,18,19,25,8,12,18,52,84,102,21,66,1,23,48,37,24,111,61,76,1,51,54,6,5,34,34,20,182,1,1,91,16,16,42,55,1,1,80,1,11,19,31,87,3,39,30,37,32,125,168,265,23,1,14,20,58,9,76,44,11,45,4,1,4,12,4,1,19,18,10,3,3,1,1,1,3,2,6,26,8,54,10,13,1,4,17,19,2,5,5,1,101,2,16,1,3,9,122,39,5,17,20,65,70,85,22,2,11,2,11,44,1,66,10,67,9,22,31,13,3,1,2,13,1,11,8,42,88,17,53,16,8,5,2,1,4,4,1,8,2,4,6,1,1,3,5,2,3,1,1,2,3,10,7,1,1,1,1,1,1,1,3,1,3,2,6,1,1,2,1,1,5,1,1,6,1,3,2,2,1,1,1,2,3,2,11,5,1,6,13,12,4,8,11,1,26,6,42,1,13
 Ethiopia AFE BCP ABBREVIATIONS AND ACRONYMS	12225
 Ethiopia AU Commences Validation of Data Governance	4123
 Ethiopia Across	6948
@@ -888,6 +907,7 @@ Ethiopia Digital ID for Inclusion and Service	1290
 Ethiopia Digital ID for Inclusion and Services	1260,10985
 Ethiopia Digital ID for Inclusion and Services Project	1290,1165,8384,47,1342,17,22
 Ethiopia Digital Payment Conference	8671,3621
+Ethiopia Digital Simon Kemp	12441
 Ethiopia ETB	11002
 Ethiopia EXECUTIVE SUMMARY	12225
 Ethiopia Economic Situation Ethiopia	12225
@@ -1071,7 +1091,7 @@ Ethiopia. Another	10653
 Ethiopia. Arch Public Health	8376
 Ethiopia. At Wello University	11315
 Ethiopia. BMC Health Serv Res	3791,8455,9
-Ethiopia. BMC Med Inform Decis Mak	12255
+Ethiopia. BMC Med Inform Decis Mak	12255,124
 Ethiopia. BMJ Glob Health	3791
 Ethiopia. Blended	1561
 Ethiopia. CEO Frehiwot Tamru	9532
@@ -1292,7 +1312,7 @@ Ethswitch S.C	12271,2
 Ethswitch's Instant Payment System	12273
 Eti-Osa Local Government Area	3101
 Etienne Marie FIFATIN Président	10821
-Etienne Maritz	2995,7,15,5097
+Etienne Maritz	2995,7,15,5097,4213
 Etienne Nduwimana	6162
 Etienne Paka	9714
 Etienne Paka. L'originalité	9714
@@ -1306,6 +1326,7 @@ Etiópia	2816,6983
 Etlodothreetc.omparatively	12151
 Etols	10813
 Etom Onvang	4209
+Etoo Mbari	12478
 Etosha National Park	9873
 Etot. Elle	10813
 Etot.- Foità Cotonou	10813
@@ -1353,6 +1374,7 @@ Executive Director of Ethiopia’s National ID Program	5966
 Executive Summary Ethiopia	12233
 Existing Ethiopia Fundim1	4349
 Existing Ethiopia Funding	4349
+Expand Etegameno	12421
 Expand the ETA	11236
 Expanding Ethiopia	12233
 Extension of Security of Tenure Act ETC Et	11261
@@ -1566,7 +1588,7 @@ Le Sort Nabou Léye Et Tarba	4960,62,2035
 Legal and Ethics Expert	4528
 Les Etats	1968,1497,6906,337,1236
 Les Etats-Unis	3486
-Liberia Uganda Mozambique Ethiopia Niger Zimbabwe	10837
+Liberia Uganda Mozambique Ethiopia Niger Zimbabwe	10837,1503
 Livestock Information System. Ethiopia	1368
 Livestock Information Vision for Ethiopia	8183
 Looking Ahead The Ethiopia Digital Foundations	12245
@@ -1816,8 +1838,9 @@ Risk Assessment Ethio	3487
 Robert Prey. Ethics	9739
 Rural Ethiopia	12224
 Rural Ethiopia Ethio Telecom	8539
-Rwanda National Ethics Committee	8376
+Rwanda National Ethics Committee	8376,4003
 Rwanda and Ethiopia	7030
+Rwanda and Ethiopia. Presently	12376
 RÈGLES COMPTABLES ET PRUDENTIELLES Article	10836
 RÉGISSANT LES CONDITIONS ET MODALITÉS D’EXERCICE	11522
 Réglementation DERS Direction des Etudes	11944
@@ -1872,11 +1895,13 @@ Safaricom Telecommunications Ethiopia. Safaricom Ethiopia	3773
 Safaricom's Ethiopia	8671
 Safaricom’s Ethiopian Unit Delivers Rapid Growth	8843
 Salem Bede Etvagha	2813
+Saudi Arabia and Ethiopia	12379
 Service HCR Ethiopian Calendar HQ Ethiopian	12225
 Service des Etudes	10847
 Services des Etudes	10847
 Session du Conseil des Ministres des Affaires Etrangères	3045
 Shabani Lukoo Jacquemain Et	5123
+Shaun Ethien Kamesiepo	12478
 Shega. Ethiopia	12272
 Signed for Ethiopia	4349
 Smart Police Station Ethiopia	5481

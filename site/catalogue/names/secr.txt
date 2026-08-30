@@ -99,10 +99,12 @@ Board T.A. Ngowe Group Company Secretary	4263
 Board and Secretariat	1154
 Body The Principal Secretary	11299
 Bosun Tijani and US Deputy Secretary of State	2284
+Brilliant Habeenzu Permanent Secretary Minister	12356
 Burundi's Executive Secretary for ICT	2408
 CABINET SECRETARY FOR FOREIGN	4153
 CBS PRINCIPAL SECRETARY	12165
 CBS Principal Secretary State Department for ICT	6432
+CEO Board Member Board Member and Secretary	12358
 CIL. Le Secrétaire	10825
 CNR’s Secretariat	11900
 COHESION NATIONALE Secrétaire	8237
@@ -146,6 +148,10 @@ Cape Verde's Secretary of State	2945
 Caractère Personnel. Le Secrétariat Général	548
 Carbon Market Secretariat	9424
 Catherine Bitarakwate Musingwiire Permanent Secretary	8032
+Cell Executive Secretaries	12413
+Cell Executive Secretary	12338
+Cell Executive Secretary CHUB	12338
+Cell and Village. Trained Cell Executive Secretaries	12413
 Central Ministry New Planification Economique Secrétariat	1284
 Certified Secretary	6946
 Chairman and Secretary	12145
@@ -158,6 +164,7 @@ Chrispine Owiye and Michael Ouma. NRB Secretary	3936
 Circular Directors Transfer Secretaries First Transfer	4896
 Civilian Secretariat of Police	11188
 Commerce Secretary Howard Lutnick	10038
+Commissioner Judith Mbabazi and Executive Secretary	12372
 Committee Secretariat	10313,972
 Committee Secretary	10569,716,4
 Committee Secretary. ISSUED BY PARLIAMENT COMMUNICATIONS	10569
@@ -264,7 +271,7 @@ Eugénio Adolfo Alves da Silva. SECRETÁRIA	11391
 European Commission and ACP Secretariat	26,1,1
 Executive Secretariat	2889,1317
 Executive Secretariat for ICT	2840
-Executive Secretary	1474,80,754,1444,1189,28,382,122,19,297,28,182,311,82,546,356,29,553,684,194,64,626,397,328,475,72,106,231,815,177
+Executive Secretary	1474,80,754,1444,1189,28,382,122,19,297,28,182,311,82,546,356,29,553,684,194,64,626,397,328,475,72,106,231,815,177,293,75
 Executive Secretary Albert Nsengiyumva	10359
 Executive Secretary Gatete	8754
 Executive Secretary Mr Claver Gatete	11817
@@ -276,6 +283,8 @@ Executive Secretary Wisdom Kwaku Deku	2829,3473
 Executive Secretary ZPC	11133
 Executive Secretary and Chief Executive Officer	7317
 Executive Secretary of ATAF	7694
+Executive Secretary of Cell	12338,75
+Executive Secretary of Cell. Available	12338
 Executive Secretary of GACC	7457
 Executive Secretary of Héritiers	11864,4
 Executive Secretary of NBTE	9575,180
@@ -391,6 +400,7 @@ Juzgado Comarcal Secretario Particular	4209
 KMPDU Secretary General Davji Atellah and UKCS	2512
 KP Secretariat	2889
 KUPPET Nyamira Executive Secretary George Ayieko	8383
+Kangwa SECRETARY TO THE CABINET ACKNOWLEDGEMENT	12453
 Kenya Digital Economy Cabinet Secretary William	4030
 Kenya Secretary Registration Statistics	12151
 Kenya and Europe. Principal Secretary	6725
@@ -465,6 +475,7 @@ Ministro Vocal de Mesa Secretario de Mesa	4209
 Ministro de Estado Ministro Vocal de Mesa Secretario	4209
 Ministry of Finance. Financial Secretary Matthew Dingie	10328
 Ministry of ICT Permanent Secretary Aminah Zawedde	6262
+Ministry of Labour and Social Security Permanent Secretary	12416
 Ministry of Science and Technology Permanent Secretary	8294
 Ministry of Technology and Science Permanent Secretary	12126
 Ministry's Principal Secretary	7362
@@ -480,6 +491,7 @@ NAS Secretariat and County Addressing Units	12149
 NAS Secretariat. The National Addressing GIS	11129
 NBA National Secretariat	10049
 NCPWD Executive Secretary	12038
+NEC Executive Secretary	12372
 NEC Secretariat	10345
 NECTA Executive Secretary Prof Said Mohamed	10675
 NFIS Secretariat	940
@@ -537,9 +549,9 @@ Perfect Forward Secrecy	11952
 Permanent Secretariat	6361,5539
 Permanent Secretariat for Innovation and Forecasting	7361
 Permanent Secretariat of CNR	11900
-Permanent Secretaries	1014,974,5985,1008,688,1921
+Permanent Secretaries	1014,974,5985,1008,688,1921,863
 Permanent Secretaries and Equivalent Grades	2779
-Permanent Secretary	34,284,1236,313,42,758,90,875,242,654,6,143,1010,231,281,8,20,12,25,269,2,411,236,79,171,413,29,89,10,59,89,163,36,23,206,39,373,19,6,167,233,6,1,31,20,225,207,187,93,39,1,19,209,53,120,4,2,1008,59,190,108,81,46,34,16,75
+Permanent Secretary	34,284,1236,313,42,758,90,875,242,654,6,143,1010,231,281,8,20,12,25,269,2,411,236,79,171,413,29,89,10,59,89,163,36,23,206,39,373,19,6,167,233,6,1,31,20,225,207,187,93,39,1,19,209,53,120,4,2,1008,59,190,108,81,46,34,16,75,105,34
 Permanent Secretary Ally Senga Gugu	5697
 Permanent Secretary Dr Amina Zawedde	5658
 Permanent Secretary Dr. Beaullah Chirume	4528
@@ -549,10 +561,13 @@ Permanent Secretary Ministry	8087
 Permanent Secretary Ministry of ICT and National Guidance	5658
 Permanent Secretary Ministry of Technology and Science	9082
 Permanent Secretary Professor Albert Malama	6170
+Permanent Secretary RBC	12338
 Permanent Secretary Secretary Ministry of Justice	9082
 Permanent Secretary for ICT	4528,5545
 Permanent Secretary for Innovation	6707
 Permanent Secretary for Youth	9792
+Permanent Secretary of Local Government	12338
+Permanent Secretary of Local Organize	12413
 Permanent Secretary's Office	1778
 Permanent Secretary-CRIAR	1778
 Permanent Secretary. Guidelines	34
@@ -576,10 +591,10 @@ Primer Secretario	4209
 Primer Secretario A1	4209
 Primer Secretario A2	4209
 Primer Secretario A3	4209
-Principal Secretaries	5536,5763,1000
+Principal Secretaries	5536,5763,1000,113
 Principal Secretaries for Interior	6787
 Principal Secretaries for Reforms	10736
-Principal Secretary	3349,299,230,635,118,5,887,13,1003,248,44,107,8,123,338,73,68,57,777,187,223,365,52,7,224,380,493,86,732,2,1,330,675,160,1,9
+Principal Secretary	3349,299,230,635,118,5,887,13,1003,248,44,107,8,123,338,73,68,57,777,187,223,365,52,7,224,380,493,86,732,2,1,330,675,160,1,9,21,82,14
 Principal Secretary John Tanui	10668
 Principal Secretary Ministry for Finance Non-Executive Board	11131,3
 Principal Secretary Mphatso Sambo	2264
@@ -603,6 +618,7 @@ Principal Secretary for Micro	8261
 Principal Secretary for Parliamentary Affairs	8382
 Principal Secretary for State Department for Energy	10313
 Principal Secretary for The National Treasury	6946
+Principal Secretary of MEPD	12412
 Principal Secretary of Ministry of Education Seychelles	3511
 Principal Secretary. Mr Isaboke	6946
 Professional Secrecy and Rules of Procedure	11517
@@ -760,7 +776,7 @@ Secretarias Fiscalías de Salas	4209
 Secretarias Fiscalías de Salas Servicio	4209
 Secretarias Municipais	10766
 Secretarias Municipais Virtuais	1808
-Secretariat	21,5,1,1,290,269,184,169,22,20,172,89,21,290,1922,107,278,242,425,1173,426,217,297,221,177,222,191,70,1,25,215,535,69,102,58,212,296,118,15,39,48,106,221,348,29,198,12,17,1,73,53,4,4,24,131,364,24,265,9,134,493,32,1,8,1,93,16,142,87,30
+Secretariat	21,5,1,1,290,269,184,169,22,20,172,89,21,290,1922,107,278,242,425,1173,426,217,297,221,177,222,191,70,1,25,215,535,69,102,58,212,296,118,15,39,48,106,221,348,29,198,12,17,1,73,53,4,4,24,131,364,24,265,9,134,493,32,1,8,1,93,16,142,87,30,163,6,12
 Secretariat African Financial Stablity Committee	6938
 Secretariat Arusha	11806
 Secretariat Deloitte	11857
@@ -863,7 +879,8 @@ Secretarios Técnicos	4209
 Secretarios de Estado	1855,4986
 Secretarios de Estado. En	6841
 Secretarios de Mesa	4209
-Secretary	11,576,149,47,231,206,334,224,221,382,1,8,162,115,253,5,9,579,374,744,441,1272,136,302,156,8,96,140,282,315,66,93,650,393,329,644,109,16,150,900,2,3,445,278,3,116,15,4,150,6,89,1,82
+Secretary	11,576,149,47,231,206,334,224,221,382,1,8,162,115,253,5,9,579,374,744,441,1272,136,302,156,8,96,140,282,315,66,93,650,393,329,644,109,16,150,900,2,3,445,278,3,116,15,4,150,6,89,1,82,41,3,86
+Secretary Administration	12433
 Secretary Adv. Kedilatile Legodi NATIONAL CREDIT	11198
 Secretary Clinton	11154
 Secretary Dickson Matembo	8480
@@ -1003,6 +1020,8 @@ Secrétariat Permanent du Conseil National de Secours	643
 Secrétariat Technique	10965
 Secrétariat des Systèmes	6942
 Secrétariat du DG	10876
+Sector Executive Secretary. Sector Executive Secretary	12338
+Sector Executive Secretary. The Director	12338
 Segundo Secretario	4209
 Segundo Secretario A1	4209
 Segundo Secretario A2	4209
@@ -1012,7 +1031,7 @@ Selon le Secrétariat	7729
 Shri Pabitra Margherita. Principal Secretary Kanono	3363
 Sid Ali Zerrouki. Pour le Secrétaire	4226
 Silica Technology Under Secretary for Economic Affairs	6849
-Smart Africa Secretariat	603,358,303,2610,4371,1647,1,180,746
+Smart Africa Secretariat	603,358,303,2610,4371,1647,1,180,746,1547
 Smart Africa Secretariat RFP	4050
 Smart Africa Secretariat Terms of Reference	4050
 Smart Africa Secretariat. Mare	10073
@@ -1032,6 +1051,7 @@ State Secretary von Geyr	7794
 State of Cabo Verde Secretaries Gilda Maria	11955
 Strategy. TAMBA JUANA Permanent Secretary	1161
 Sudanhorizon The Secretary-General	8972
+Suggested Composition Permanent Secretary	12359
 Survey. Ictam General Secretary Exile Njoka	2264
 Swiss State Secretariat for Economic Affairs	6175
 TADAT Secretariat	10997,1228
@@ -1044,11 +1064,14 @@ Tanzania’s Private Secretaries	5822
 Taskforce Secretariat	12321
 Tatenda Alice Ngowe Group Company Secretary	4896
 Tatenda Alice Ngowe Transfer Secretaries	4896
+Technical Committee The Secretary	12453
 Technical Secretariat	8645,2196
 Technical Secretariat for Election Administration	12201
 Technical Secretariat for Electoral Administration	12201
 Technical Secretariat for Electoral Administration. Page	12201
 Telecommunications Secretariat	1264
+Tender Secretariat	12400
+Tender Secretariat. Failure	12400
 Tercer Secretario	4209
 Tercer Secretario A1	4209
 Tercer Secretario A2	4209

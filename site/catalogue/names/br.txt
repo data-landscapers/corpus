@@ -47,7 +47,7 @@ Adequacy Decision for Brazil English	9067
 Admired Ethiopian Brands Doing Good	8919
 Advocate J. Brickhill Advocate MBE Mbikiwa	2307
 AfCFTA FDI Broad	10841
-Affordable Broadband	6539,126
+Affordable Broadband	6539,126,5761,55
 Affordable Broadband Connectivity and Inclusion	1914,798,3867
 Affordable Broadband Loan DFC	831
 Affordable Broadband US	6539
@@ -73,6 +73,7 @@ Africa. China’s BRI	2518
 Africa. The Africa Broadband Maps	6427
 African European Digital Innovation Bridge	789
 Ag. Systems Analyst Mr. Brain Ntentabunga	34
+Age of Bride	12413
 Agência Brasil	2816
 Air Transport Pilot License BEC Broad	2775
 Airtel Chad CEO Brahim Nallar	6857
@@ -106,6 +107,9 @@ Atiku Alleges Bank Data Breach	9400
 August. Transport Minister Brabara Creecy	2521
 Australia Bahrain Bangladesh Belgium Brazil Cyprus	10764
 Automatic Exchange of Information BRS AEOI	11685
+Avatar of BraViza	12478
+Avatar of Braol	12478
+Avatar of Brethrenking	12478
 B BRAUN MEDICAL KENYA LIMITED Data	7167
 B Satellites To Expand Broadband	10699
 B and Bright	2096
@@ -286,11 +290,12 @@ BROADBAND DEPLOYMENT	11857
 BROADBAND PENETRATION	3862
 BROADBAND WIRELESS ACCESS	2776
 BROADBAND WIRELESS ACCESS SERVICES	2776
-BROADCASTING	2776,8486
+BROADCASTING	2776,8486,1133
 BROADCASTING BLACK ECONOMIC EMPOWERMENT MEASURES	11211,51
+BROADCASTING MARKET ANNUAL INFORMATION AND COMMUNICATION	12395
 BROADCASTING PRODUCTIONS EXPENDITURE	11211,51
 BROADCASTING REVENUE	11211,51
-BROADCASTING SECTOR	11211,51
+BROADCASTING SECTOR	11211,51,1133
 BROADCASTING SECTOR EMPLOYMENT	11211,51
 BROADCASTING SERVICES	2776,3895
 BROADCASTING SERVICES DTT Subscriptions	6671
@@ -309,6 +314,7 @@ BROOKS INSURANCE AGENCIES LIMITED Data Controller	7167
 BROOKSIDE SACCO Data Controller INST-122591FCA58 KIAMBU	7167
 BROTHER ANDRE HOSPITAL LTD Data Controller	7167
 BROWANEX HEALTHCARE SERVICES LIMITED Data Processor	7167
+BROWN NIMI MBONGO	12478
 BROWNFIELD	5253
 BRR Australia Austria National Registry	10714
 BRR Barbuda Civil and Criminal Identification	10714
@@ -430,6 +436,7 @@ Botswana Yes Broadband Strategy Brazil	11529
 Bouvet Island Brazil British Indian Ocean	11470
 Br. Med. J	11585
 Br. Telebirr	11620
+BraViza	12478
 Braa J	766,5,10110
 Braa J. Comparing	766
 Braa&author	766,5
@@ -438,6 +445,7 @@ Braamfontein	12046
 Bracing	1988,4960,2175
 Brackenfell	2994,6005,618
 Brackenfell and Kraaifontein	10535
+Bracket Analysis	12339
 Bracketeers	3782
 Brackets Analysis	10954
 Bracy	1243
@@ -495,17 +503,19 @@ Branca	11373
 Branca Fim de Local	11373
 Branca Formato da Placa	11373
 Brancas Formato da Placa Rectangular III	11373
-Branch	571,21,3122,1182,328,309,287,1362,1941,2040,823,8,231,44,1
+Branch	571,21,3122,1182,328,309,287,1362,1941,2040,823,8,231,44,1,213
 Branch AOP	11218
 Branch Appointment Booking System	2115,1085
 Branch Appointment Booking System DMO District	11986
 Branch CCSS	11986
 Branch Civic Services	5533,6453
+Branch Code	12364,36
 Branch Exchange PAYG Pay-As-You-Go PCK Postal	6946
 Branch Exchange PC Personal Computer PDF	34
 Branch HRM&D. Around	11986
 Branch International	11163
 Branch Kenya CEO	11119
+Branch Number	12397
 Branch Office	7909,2955
 Branch Operations	11986
 Branch Report	12225
@@ -528,9 +538,10 @@ Brand	5247,2719,289,1200,514,1048,114,753,321
 Brand Africa	8919
 Brand Equity	6946
 Brand Equity The Authority	6946
-Brand Finance	10969,926,264,1,45
+Brand Finance	10969,926,264,1,45,146,4
 Brand Name	6946
 Brand Trust	3487
+BrandIn WordPress Lightbox X	12390
 Branda	8518
 Branded	4254,7090
 Branded Reseller US	736
@@ -539,18 +550,21 @@ BrandiQ	11305
 BrandiQ Analysis	11305
 BrandiQ Verdict	11305
 BrandiQ Verdict The World Bank	11305
+Brandin Eswatini ANNUAL INFORMATION AND COMMUNICATION	12395
 Branding	2920
 Branding and App Stores	7266
 Brandon Remington	5773
 Brandon Wanguep	10983
 Brands	10393
 Brandsen	2096
-Brandt	9128
+Brandt	9128,3252
 Brankamp and Gl	12227
 Branqueamento de Capitais	11386,18,279
+Bransford	12329
 Braojos	9237
+Braol	12478
 Brasam Investments	7167
-Brasil	899,802,1115,263,100,340,1873,1317,1810,1280,973,300,66,238,18,38,24,5,12,45,1,8,17,20,5,114,304,7
+Brasil	899,802,1115,263,100,340,1873,1317,1810,1280,973,300,66,238,18,38,24,5,12,45,1,8,17,20,5,114,304,7,342
 Brasil BCC Central Bank	11994
 Brasil Em	2816
 Brasil Mauro Vieira Ministro	11393
@@ -567,7 +581,7 @@ Brastorne	4931
 Brastorne Enterprises	4931
 Brasília	5366,5399,10,363
 Bratton	7886
-Braun	4676,673,3253,3
+Braun	4676,673,3253,3,3862
 Braun R	1219
 Braun V. Teaching	12231
 Braun and Clarke	8460,145,2423,1203
@@ -587,7 +601,7 @@ Bravery	10399
 Bravocrest Hospital Limited Data Controller INST-5334668891B	7167
 Brayn A. Garner	10979
 Brayne	7966
-Brazil	124,20,82,423,362,208,594,38,251,15,658,61,239,104,212,260,189,419,170,19,533,61,82,128,3,111,222,14,306,154,299,25,26,130,71,55,24,81,59,103,1,72,143,24,45,22,186,120,54,46,63,20,122,109,609,58,35,6,119,60,42,96,80,154,275,213,30,93,356,82,227,30,187,13,41,17,61,6,77,56,20,1,1,126,2,3,17,28,27,214,44,57,38,46,285,15,13,2,16,24,30,3,249
+Brazil	124,20,82,423,362,208,594,38,251,15,658,61,239,104,212,260,189,419,170,19,533,61,82,128,3,111,222,14,306,154,299,25,26,130,71,55,24,81,59,103,1,72,143,24,45,22,186,120,54,46,63,20,122,109,609,58,35,6,119,60,42,96,80,154,275,213,30,93,356,82,227,30,187,13,41,17,61,6,77,56,20,1,1,126,2,3,17,28,27,214,44,57,38,46,285,15,13,2,16,24,30,3,249,130,67
 Brazil Chile Uruguay Colombia Peru Costa	11135
 Brazil Croatia Korea Chile Poland Vietnam	7655
 Brazil Daniel Berhanie Enyew	12246
@@ -613,8 +627,9 @@ Brazil and Tokyo Taxi	9098,247,1
 Brazil and Turkey	12088
 Brazil and UEMOA	11586
 Brazil's AI Governance Vision Got	5366
+Brazil's Active Search	12443
 Brazil's Bolsa Familia	10985
-Brazil's Cadastro	4981,5047,1105
+Brazil's Cadastro	4981,5047,1105,1310
 Brazil's Internet Exchange Point	3840
 Brazil's National Data Authority	3601
 Brazil's National Data Protection Authority	6361
@@ -624,7 +639,7 @@ Brazil. Designed	11439
 Brazil. For the Tech Diplomacy Global Institute	5454
 Brazil. Pix	11138
 Brazil. SAIL	124
-Brazilian	1219,874,682,405,602,1260,2,322,1466,388,428,957,762,272,193,1301,23,1005,85
+Brazilian	1219,874,682,405,602,1260,2,322,1466,388,428,957,762,272,193,1301,23,1005,85,133
 Brazilian AI	11135
 Brazilian Central Bank	9832,1175
 Brazilian Debate	11028
@@ -686,13 +701,15 @@ Breach Seychelles Bank	3364
 Breach TRENDING	3279
 Breach Triage And The Insurer’s First	6632
 Breach of Child's Privacy	11956
+Breach of Contract	12400
 Breaches	4528,3826,286,487,1637,1468
 Bread	6921,1537,2676
 Breadcrumb Navigation	11877
 Breadfast’s US	4972
 Break	3256,2026,1150,2432,3088
 Break-Even Within Reach	8843
-Breakdown	5247,5733,1026,264
+Break-up	12445
+Breakdown	5247,5733,1026,264,58,11,37,7,2
 Breakdown of Fuel Subsidies	1828
 Breakdown of Global Venture Capital	4972
 Breakdown of Google	3782
@@ -710,6 +727,7 @@ Breaking Down the Barriers	10841
 Breaking Down the Costs	2515
 Breaking Down the Implications	5044,322,52,1069,392,295
 Breaking the Metal Ceiling	10964
+Breast	12413
 Breast Clinic Ltd Data Controller INST-108077E589F	7167
 Breast Clinic Ltd Data Processor INST-108077E589F	7167
 Breastfeeding	8437
@@ -733,6 +751,7 @@ Bremner Building	11027
 Brenda Gabantu	6946
 Brenda Maniraguha	6358
 Brenda Maniraguha Project Manager	5064
+Brendan Pearce	12432
 Brenden Kuerbis and Milton MuellerGeneral Across	6562
 Brennan	1248
 Brennan Michael Young	3598
@@ -746,6 +765,7 @@ BreslowNE	8376
 Bresnihan and Brodie	7789
 Brest	7774
 Brethren	10776
+Brethrenking	12478
 Brett Levy	11335
 Brett Levy and Mark Levy	11159
 Brett Sayles	5252
@@ -786,7 +806,7 @@ Brian Tippens	7479,1033
 Brian Webster	1027
 Brianas Investment Limited Data Processor INST-267743EEE52	7167
 Bribe	10034
-Bribery	5533,5443,898,7,1,104,241
+Bribery	5533,5443,898,7,1,104,241,119
 Bribes	5533,6453
 Brice Allowanou	3687
 Brice Clotaire Oligui Nguema	2336,789,173,827,980,138,886,673,233,86,1031,289
@@ -849,7 +869,7 @@ Bridgforte Trust Architecture Framework Five	11138
 Bridgforte Trust Architecture Framework Taken	11138
 Bridgforte. Executive Table	11138
 Bridgforte’s Policy Framework Reports	11138
-Bridging	958,93,1042,276,208,371,457,386,131,152,720,54,1064,627,100,134,505,280,278,118,991,116,68,573,37,20,429,819,25,179,54,235,367,97,126,151,56
+Bridging	958,93,1042,276,208,371,457,386,131,152,720,54,1064,627,100,134,505,280,278,118,991,116,68,573,37,20,429,819,25,179,54,235,367,97,126,151,56,129
 Bridging AI Divides	7098
 Bridging Africa	4698
 Bridging Africa and Asia	7244
@@ -860,7 +880,7 @@ Bridging Nigeria	8288
 Bridging Nigeria's Digital Divide Through Innovation	8288
 Bridging Rwanda	8017
 Bridging Silence	11623
-Bridging the Digital Divide	2339,1231,1675,1703,4476,817
+Bridging the Digital Divide	2339,1231,1675,1703,4476,817,115
 Bridging the Digital Divide Authorities	12057
 Bridging the Digital Divide Develop	12241
 Bridging the Digital Divide Through Local Innovation	9197
@@ -873,7 +893,7 @@ Bridging the Gaps	1751,8967
 Bridging the Knowledge Gap	11927
 Bridging the Mobile Gender Gap	11004
 Bridier	9129
-Brief	22,218,1748,489,111,86,343,697,2436,1440,296,720,1847,369,449,254,54,300,259,115
+Brief	22,218,1748,489,111,86,343,697,2436,1440,296,720,1847,369,449,254,54,300,259,115,71,32
 Brief Description	1988
 Brief Description of Scope	1988
 Brief Digital Identity and Migration	11006,1
@@ -915,6 +935,7 @@ Brightness	34
 Brighton	12162
 Brighton Dube	9516
 Brights	4676
+Brightwell Nkambule	12423
 Brigitte Brigitte	4127
 Brigitte Touadéra BRIGITTE	4127
 Brigitte Touadéra Brigitte	4127
@@ -928,10 +949,11 @@ Brill	12227
 Brilliant AI Doctor	12246
 Brilliant Haabenzu	8294
 Brilliant Habeenzu	10215,1911,3
+Brilliant Habeenzu Permanent Secretary Minister	12356
 Brin and Page	3782
 Brindar	1701
 Briney	12090
-Bring	6029,4318,1944
+Bring	6029,4318,1944,37,28,3
 Bring Affordable	11310
 Bring High-Speed Internet and AI	4762
 Bring Ilegal	10819
@@ -977,8 +999,12 @@ Britam Uganda Managing Director Allan Mafabi	7591
 Britannica	10841
 Britcham	10718
 Briter	12042
-Briter Bridges	9148
-Briter Intelligence	12042
+Briter Bridges	9148,3228
+Briter Bridges Database	12376
+Briter Bridges Database62	12376
+Briter Bridges. Briter Intelligence	12376
+Briter Intelligence	12042,334
+Briter Intelligence. Briter Intelligence Platform	12376
 Brites	7578
 Brithol	9399
 Brithol Michcoma	9399
@@ -1029,14 +1055,16 @@ Brittain	2816
 Brittney's Medical Centre Data Controller INST-37538955806	7167
 Briwa	9121
 Brière	424
-Broad	3325,536,521,294,2650,132,1687,561,849,209,144,89,9,128,101,561
+Broad	3325,536,521,294,2650,132,1687,561,849,209,144,89,9,128,101,561,560
 Broad AI	5551
 Broad Audience	1777
 Broad Based Black Economic Empowerment	11184
 Broad Based Black Economic Empowerment BISG	11250
 Broad Economic Category	2775
+Broad Groups	12413
 Broad Intended Use and Functionality	3651
 Broad Money	2775
+Broad Public Consultation	12389
 Broad Street	5903
 Broad VAT	10997
 Broad-Based Black Economic Act	11209
@@ -1044,15 +1072,16 @@ Broad-Based Black Economic Empowerment	2526,2534,561,187,900,595,3286,622,39
 Broad-Based Black Economic Empowerment Act	4242,2649,4344,5
 Broad-Based Government	7833,36,53
 Broad-Based’ Government	7869
-Broad-based	11525
-Broadband	129,66,523,295,271,5,144,180,257,546,360,92,34,282,1,419,10,248,663,643,26,806,56,27,588,207,50,286,239,754,916,354,282,92,930,63,12,94,45,171,65,74,224,34,48,246,149,208,84
+Broad-based	11525,860
+Broadband	129,66,523,295,271,5,144,180,257,546,360,92,34,282,1,419,10,248,663,643,26,806,56,27,588,207,50,286,239,754,916,354,282,92,930,63,12,94,45,171,65,74,224,34,48,246,149,208,84,35,62,32
 Broadband Access	6414
 Broadband Access But Don't Use	12214
 Broadband Access for All	3456
 Broadband Annual	3184,7811
-Broadband Commission	958,2838,3378,3670,7,411,69,232
+Broadband Commission	958,2838,3378,3670,7,411,69,232,832
 Broadband Commission for Sustainable Development	958,7155,1646,314,1189,177,839
-Broadband Connectivity	607,6941,4004,388
+Broadband Commission's Goals	12395
+Broadband Connectivity	607,6941,4004,388,416
 Broadband Connectivity Program	1914
 Broadband Connectivity for MNO	330
 Broadband Council	11857
@@ -1105,6 +1134,7 @@ Broadband Subscription	6671
 Broadband Subscriptions	3862,3084
 Broadband Systems Corporation	563,155,4331,1339,3992
 Broadband Systems and Oman Data Park Sign	6388
+Broadband Targets	12395
 Broadband Tower Infrastructure	1552
 Broadband Traffic	2776
 Broadband Volume of Internet Traffic	2776
@@ -1144,8 +1174,10 @@ Broadcast Studio-To-Transmitter Links Figure	6946
 Broadcast Transmitters	6946
 Broadcast Transmitters Broadcast Transmitters	6946
 Broadcast and Multimedia	3990,5791
+Broadcasters	12436
 Broadcasters Multimedia	236
-Broadcasting	11,225,482,1226,832,1282,1110,1778,1970,273,1218,804,24,27
+Broadcasting	11,225,482,1226,832,1282,1110,1778,1970,273,1218,804,24,27,1133,41
+Broadcasting AI	12356
 Broadcasting Act	8130,3081,51
 Broadcasting Authority of Zimbabwe	958
 Broadcasting Authority of Zimbabwe BDA	958
@@ -1153,21 +1185,34 @@ Broadcasting Authority of Zimbabwe.72	6951
 Broadcasting Baseline Survey	6946
 Broadcasting Digital Migration	1610,200,1089,8331
 Broadcasting Disputes and Resolution Panel	5168
+Broadcasting Economic Indicators	12395
 Broadcasting FM Radio	718
 Broadcasting Headlines UCC Suspends Song Over	9781
+Broadcasting Indicators	12395
+Broadcasting Industry	12395
+Broadcasting License Revenue Market	12395
+Broadcasting Licensees Market	12395
 Broadcasting Licensees Mobile Money Penetration	6946
+Broadcasting Licensees Subscriptions Market	12395
 Broadcasting Licenses Revoked	6946
 Broadcasting Licensing The Authority	6946
+Broadcasting Market Revenue	12395
 Broadcasting Network Development Project	2217
+Broadcasting Networks	12395
 Broadcasting Organisations of Nigeria	7179,2,4111,21
 Broadcasting Overview Country Mapping for The Pay-Tv	9781
 Broadcasting Plans	6946
 Broadcasting Procurement Spend	11211
 Broadcasting Project	6946
 Broadcasting Project the Digital Economy	6946
-Broadcasting Sector	718,561
+Broadcasting Revenue	12395
+Broadcasting Sector	718,561,11116
 Broadcasting Sector Conclusion ICT Sector Market	1944
+Broadcasting Sector Employment	12395
+Broadcasting Sector Employment Employment	12395
+Broadcasting Sector ICT Profile Revenue Employment	12395
 Broadcasting Sector Radio	1944
+Broadcasting Sector Telecommunications Industry	12395
 Broadcasting Service	6946
 Broadcasting Service Providers	10407
 Broadcasting Services	958,5713,275
@@ -1249,6 +1294,7 @@ Brookings Institution Global China Report	2518
 Brookings Institution Press	2096
 Brookings Institution's Foresight Africa	10977
 Brookings Institution’s Center for Technology Innovation	5302
+Brooks	12467
 Brooks Washington	7259
 Brooks of Cherith Hospitals Limited Data Controller	7167
 Brother	1638,9178
@@ -1262,11 +1308,13 @@ Brouwer	11156
 Brouwers	4432
 Brown	5700,3428,109,732,633,1631
 Brown Epstein	11585
+Brown Kasaro	12472
+Brown Kasaro Chief Electoral Officer	12465
 Brown and Root	4746
 Browne	11154
 Brownfield	5085
 Brownlee	8604
-Browse	9429,1588
+Browse	9429,1588,1342
 Browse Broadband Ltd	3386
 Browsepoint Telecom Nig Ltd	3862
 Browsepoint Telecom Nigeria Ltd	3862
@@ -1277,6 +1325,7 @@ Browser-based	11952
 Browser. Biographic	12269
 Browsing	1243,6230,2978
 Broyage	4895
+Brs Interactive	12478
 Bruce Ayonote	11946
 Bruce Jooste Acting DDG	11237
 Bruce Kyerere	4753
@@ -1378,7 +1427,7 @@ CANOPY INSURANCE BROKERS LTD Data Processor	7167
 CARE ALGERIA DIGITAL BRIEF CARE	8637
 CBDC Channels Branch ATM	12000
 CENTAUR INSURANCE BROKERS LIMITED Data Controller	7167
-CENTER MARKET BRIEFING	10781
+CENTER MARKET BRIEFING	10781,1646
 CEO Cybersecurity Breakfast	3990
 CEO of BrainSAT Technologies	11290
 CEO of British International Investment	9802
@@ -1432,6 +1481,7 @@ Citi Breakfast Show	10135
 Citizens. Broadband	6539
 Civic Services Branch	11274
 Civil Society Joint Brief	11028
+Claude KIREZI Remy Bruce SHEMA Fred	12445
 Clinton Brown	10602
 Club de Brazzaville	1828
 Cluster BriefingsMedia	11215
@@ -1439,12 +1489,15 @@ Coffee Break	5241
 Colombie Britannique	747,1,1236
 Commercial Bank Branches ATMs	1828
 Commission's Policy Brief	10453
+Commissioner General Brightwell Nkambule	12422,17
 Common Agenda Policy Brief	11028
 Common-Carrier Broad-	6946
 Communication Mauritius Yes National Broadband Policy	11529
 Communication Nigeria Yes National Broadband Plan	11529
 Communication Technology Stats Brief Q4	2361
 Communication of Personal Data Breach To Data	12185
+Community Broadcasting	12395
+Community Broadcasting Radio	12395
 Compensate Customers Over Tariff Notice Breach	7411
 Complete Solutions Insurance Brokers Limited Data	7167
 Compliance Breaches	5939
@@ -1530,7 +1583,9 @@ Data SLA Reporting Breach	11153
 Data-Only Broadband Subscriptions	3862
 Dated Brent	3583
 Dave Brown	6894
+Debt Breakdown	12339
 Debt Financing British International Investment	176
+Default Infrastructure Sharing Bring Your Own	12359
 Deloitte Analysis of National Broadband Plans and Country	11857
 Demand for Mobile Broadband Infrastructure	4896
 Denis Mark BRISTOW FAITS MARQUANTS Adm	2342
@@ -1570,6 +1625,7 @@ Dun and Bradstreet	8436
 Déconcentration PIB Produit Intérieur Brut PNUD	10712
 Défense Nationale Brigitte ONKANOWA Le Ministre	11580
 E Broadband	4525
+E&S Project Brief	12426
 E. Brynjolfsson	5700
 EAGLE AFRICA INSURANCE BROKERS KENYA LIMITED	7167
 EASY BROADBAND LIMITED Data Controller INST-6284029539D	7167
@@ -1587,19 +1643,24 @@ EU and Brazil	9067
 EU-Central Asia Digital Bridge	11155
 EU-funded BRIDGE-Tanzania	6807
 EU-labelled Africa-Europe Digital Innovation Bridge	9309
+EUCL Branches	12358
 EUROPEAN COMMISSION Brussels	6477,995
 East Africa Breweries PLC Data Controller	7167
 East Africa Data Center Markets Brief	4428,2043
 East African Breweries Foundation Data Controller	7167
+East and Southern Africa Branch	12325
+East and Southern Africa Regional Branch	12325
 Eastern and Southern Africa Regional Branch	8021
 Ecobank's Head of Brand	3895
 Ecofin Agency and Broadcast Media Africa	4909
 Economic Co-operation and BBBEE Broad-Based Black Economic	11193
+Economic Contribution of Broadband	12385
 Economic Impact of Broadband. World Bank	1264
 Edgard Brice Ngoungou	766
 Education Budget Brief	12175
 Education Budget Brief. World Bank Group	12175
 Education PIB Produit Intérieur Brut PISE	12
+Edward K. Brown	12329
 Egypt's University of In-formatics and British	4628
 Egypt. Brazil	11740
 Egyptian and British ICT	4628
@@ -1609,6 +1670,7 @@ Embiveni Biggest Braai	4866
 Emerald Expert Briefings	2518
 Emerging Evidence and Questions Bringing	10852
 Emmanuel Kpakpo Brown	6979
+Employment Breakdown Revenue	12395
 Encyclopaedia Britannica Editors	7790
 Encyclopedia Britannica	10841
 Energy and Broadband Access. Digital	788
@@ -1618,7 +1680,8 @@ Enhanced Mobile Broadband	5675
 Enhanced Mobile Broadband and Fixed Wireless Access	2528
 Environmental Project Brief	1988
 Equipment Bracing System Equipment	9123
-Equity Breakdown	10954
+Equity Breakdown	10954,1385
+Equity Brief	12399
 Equity Investments British International Investment	120
 Erik Brown	2677
 Erik Brynjolfsson and Andrew McAfee	8380
@@ -1628,6 +1691,7 @@ Essay Collection. Bria	11135
 Estratégia Brasileira de Inteligência Artificial	2816,703
 Estudante da Uni-CV Conquista Medalha de Bronze	10349
 Eswatini Broadband Market Structure	6539
+Eswatini Broadcasting and Information Services	12395
 Eswatini TV’s Kusile Breakfast Show	11667
 Ethio Telecom and Huawei Broaden Partnership	5407,676
 Ethiopia Briefing	9031
@@ -1650,7 +1714,7 @@ Extension of Broadband Connectivity	3604
 F. Bria	5700
 F6 The Nigerian National Broadband Plan	11857
 FATCA. The Final External BRS Version	11685
-FBB Fixed Broadband FDI Foreign Direct	10781,80
+FBB Fixed Broadband FDI Foreign Direct	10781,80,1566
 FINANCE BRANCH	9398
 FIXED LINE BROADBAND SUBSCRIPTIONS	11211,51
 FM Sound Broadcasting Frequencies Assigned	6671
@@ -1673,13 +1737,19 @@ Finances. BRM	10986
 Finland Yes Fast Broadband	11529
 Firms Over Contract Breaches and False Documents	3955
 First Qua National Breweries Posts First	6011,985
-Fixed Broadband	2776
+Fixed Broadband	2776,9619
 Fixed Broadband Complaints Reach	11642
+Fixed Broadband Market	12395
+Fixed Broadband Market Shares	12395
 Fixed Broadband Networks Access	718
 Fixed Broadband Plan Ireland Yes National	11529
+Fixed Broadband Revenue Subscriptions Market	12395
 Fixed Broadband Subscription	2776
-Fixed Broadband Subscriptions	2776
+Fixed Broadband Subscriptions	2776,9619
+Fixed Broadband Subscriptions Market	12395
+Fixed Broadband Subscriptions Market Share Market	12395
 Fixed Broadband Subscriptions Quarter Q3	2776
+Fixed Broadband Subscriptions The Eswatini Government	12395
 Fixed Broadband Subscriptions The Total Fixed	2776
 Fixed Broadband Traffic	2776
 Fixed Broadband Traffic Fixed Broadband Q3	2776
@@ -1687,6 +1757,11 @@ Fixed Broadband Traffic The Total Fixed	2776
 Fixed Data and Broadband Services	6671
 Fixed Data and Broadband Subscriptions	6671
 Fixed Data and Broadband Subscriptions Internet Technology	6671
+Fixed Internet Broadband Broadband	12395
+Fixed Market Broadcasting Market	12395
+Fixed Wired Broadband Fixed Wireless Broadband	12395
+Fixed-Wired Broadband Subscriptions	12395
+Fixed-Wireless Broadband Subscriptions	12395
 Foo Yun Chee BRUSSELS	8596
 Forbes Brasil	2816
 Foreword Brahima Sanou BDT	26,1,1
@@ -1710,6 +1785,7 @@ G20 and BRICS	7242
 G7-IAP-statement-03-29-23.pdf Bradford	11154
 GAC's Project Browser	9203
 GAPS Broadband	11857
+GB Data For Broadcasting	12395
 GDC-submission APC.pdf. Google Scholar Braun	11028
 GHANA DATA CENTER MARKET BRIEFING	3184
 GOGLA Bridge	12191
@@ -1752,8 +1828,11 @@ Government Last Mile Broadband Connectivity	2256
 Government Last Mile Broadband Connectivity Project	2256
 Grande Bretagne	8891
 Gratif. Cantidad Total General Salario Bruto	4209
+Great Britain	12369
 Great Britain and North Ireland	12225
 Great Britain and Northern Ireland United Nations	11765
+Groom Bride	12413
+Groom and Bride	12413
 Gross Broadband of Gross Annual N	10407
 Group Meetings Beneficiaries’ Brunch Retire	11131
 Général Brice Clotaire Oligui Nguema	8925
@@ -1777,6 +1856,7 @@ Henrike van Briel	8342
 Henry Raul Gonzalez Brito	10764
 Hosted the CBE Beneficiaries’ Brunch	11131
 Hour Data Breach Notification Requirement	6632
+Hours Browse All Reports Global Reports	12441
 Hugo Brousset	10985
 Hôtel Bravia de Niamey	12074
 I'm Brad Smith	1038
@@ -1792,6 +1872,7 @@ ILO-WAEMU Country Briefs	11581
 ILO-WAEMU Youth Country Briefs	11581
 IMF Says By Bruck Getachew	7637
 IN-6 Broadband Develop	11857
+INTERNATIONAL GROWTH CENTRE POLICY BRIEF ZMB-23106	12369
 INVOLVED IN THE DATA BREACH	2709
 IPC-IG Research Brief No	417
 ITC Trade Briefs	10718
@@ -1819,9 +1900,11 @@ Infrastructure Brian Sihlongonyane Application	11131,3
 Infrastructure Problem SECTION III The Bridgforte	11138
 Innovation Issue Brief	10088
 Instituto Brasileiro de Administração	10750
+Instituto Brasileiro de Defesa	12366
 Intelligence Brief	6397
 International Association of Privacy Professionals. Bryant	1243
 International Breakdown of Venture Capital	4972
+Internet and Broadband Fixed Broadband	12395
 Internet. BrainSAT	6980
 Introduce Broadband State Ranking Report	11857
 Introduction Brief	11879
@@ -1848,6 +1931,7 @@ Jobs Survey. Asian Development Bank Brief	10718
 Johannesburg Branch	12252
 Joint Broadband Expansion	6539
 José Domingos Brito	2401
+Journalist Rwanda Broadcasting Agency	12370
 Judge Brian Spilg	10955
 Judicial Branches	3861
 June. Briefing	6474
@@ -1857,6 +1941,7 @@ K. Bruno	7807
 Karina Broens Nielsen	10977
 Karine Brunet	7488
 Karl Bremer	11986
+Kayla Brandt	12478
 Kenya Breaks Ground for Kikuyu Digital Hub	10668
 Kenya Briefs Parliament	5536
 Kenya Broadcasting Corporation	4583,1733,3332
@@ -1865,6 +1950,7 @@ Kenya's Broadband Sector Kenya	6830
 Kerry Payments Brazzaville SARLU	6684
 Kigongo-Busisi Bridge	9492
 Kiira Brian Alex	3005
+Kikoba BR	12379
 Korea Poland Brazil Croatia Chile India	7655
 L'institution de Bretton Woods	9457
 L. Van Brussel	11028
@@ -1947,6 +2033,7 @@ Malawi Launches Broadband Mapping System	12263
 Management DoT Department of Transport BBBEE Broad	11986
 Management GGOAW Specialist Gernot Brodnig Social	11525
 Mandatory Breach Notification Form	3861
+Map of Fibre and Broadband Coverage	12453
 Marco Brandstaetter	6238
 Mark Bryson-Richardson	4628
 Mark and Brett Levy	11159
@@ -1962,6 +2049,7 @@ Measures Against Privacy Breach Abetment Article	11956
 Media and Broadcasting	1877
 Media and Broadcasting Services	1474,2354,3041
 Medical Association of Nigerians Across Great Britain	7895
+Medora Brown and Zarina Nteta	12328
 MegaMore Wireless Broadband Ltd	3862
 Megamore Wireless Broadband Ltd	3862
 Messieurs Brahim Bouabid	547,3,18,20
@@ -1969,10 +2057,12 @@ Mestre Brenda Malison	2816
 Michael Bratton	7886
 Microsoft President Brad Smith	5840
 Microsoft's Brad Smith	1720
+Mid-Year Review Media Breakfast	12375
 Miguel De Bruycker	10764
 Mike Bracken	4259,170,1992,1050
 Million for Poor Service and Regulatory Breaches	3257
 Millions British Thermal Units-MMBTU-	7263
+Minimum Monthly Allowance Broad-	12395
 Minister Bah Brings National Tour	5276
 Minister Bruno Koné	6280
 Minister Bruno Nabagné Koné	10937
@@ -1981,16 +2071,22 @@ Minister of Education Bright Msaka	5851
 Ministre Bruno Jean Richard ITOUA	2738
 Ministre Bruno Koné	6280
 Ministry Headquarters. The British	11299
+Ministry of Environment Saudi Fund for Development BRD	12358
+Ministry of Information and Broadcasting	12325,31
 Ministry of Roads and Bridges	3583
 Ministry of Technology and Science Brilliant Habeenzu	9392
 Ministry. Operation New Broom	2943
 Misr National Broadband Plan El Salvador	11529
 Mme Konan Brah Juliette	8694
-Mobile Broadband	1363,2499
+Mobile Broadband	1363,2499,8533
 Mobile Broadband Consumption	6671
+Mobile Broadband Penetration	12395
 Mobile Broadband Services	6946
-Mobile Broadband Subscriptions	6671
+Mobile Broadband Subscribers	12395
+Mobile Broadband Subscriptions	6671,5724
 Mobile Broadband Wireless Access Services	5872
+Mobile Cellular Penetration Mobile Broadband Penetration	12395
+Mobile Cellular Subscriptions Mobile Broadband Subscriptions	12395
 Mobile Data and Broadband Services	6671
 Mobile Data and Broadband Subscriptions	6671
 Mobile Data and Broadband3 Services	6671
@@ -2018,6 +2114,7 @@ Muchinga Province Deputy Permanent Secretary Brian	6104
 Multilateral and Diplomatic Partners British High Commission	11332
 Mwango Brain	9259,1100
 N.A. London Branch	7198
+NA Broadband	12344
 NATIONAL BROADBAND PLAN	11857
 NATIONAL BROADBAND PLAN Ms Funke Opeke	11857
 NBA Osun State Branches	10049
@@ -2066,7 +2163,8 @@ National Broadband Plan. Participating	11857
 National Broadband Plan. The Honourable Minister	11857
 National Broadband Policy	2588,7877,730,1,333
 National Broadband Policy and Implementation Strategy Greece	11529
-National Broadband Policy and Strategy	3796
+National Broadband Policy and Strategy	3796,8589
+National Broadband Policy for Rwanda	12333
 National Broadband Policy of Namibia	1433
 National Broadband Programme	11529
 National Broadband Roadmap	3212
@@ -2105,6 +2203,16 @@ Nigeria’s Broadband Affordability A4AI Report	11857
 Nigeria’s National Broadband Plan	2284
 Nigeria’s Wholesale Fixed Broadband Market Assessment	10958
 Notification of Personal Data Breach	12185
+Number of Broadcasting	12395
+Number of Broadcasting Licenses Issued	12395
+Number of Broadcasting Productions	12395
+Number of Broadcasting Productions ANNUAL INFORMATION	12395
+Number of Commercial Broadcasting Radio Licences	12395
+Number of Commercial Broadcasting Radio Licences Operational	12395
+Number of Community Broadcasting Radio Licences	12395
+Number of Community Broadcasting Radio Licences Operational	12395
+Number of Deals Breakdown	12339
+Number of Public Broadcasting Radio Licences Operational	12395
 Number of Satellite Broadband Subscriptions	3641
 Nyamtema AS. Bridging	3791
 O Brasil	2816
@@ -2119,6 +2227,7 @@ Oldest Psychiatric Hospital Brings Website Back	7176
 Oman Yes Oman National Broadband Strategy	11529
 Ope Brown	9739
 Operation New Broom	2943,2590,663
+Operational Public Broadcasting Radio Licensee	12395
 Operator Fixed Broadband Operators Q3	2776
 Opinion Regarding the Broad-Based Government	7869
 Oral Taxa Bruta de Frequência Escolar Taxa	10777
@@ -2135,6 +2244,7 @@ PIB Produit Intérieur Brut PME Petite	11944
 PIX Captures One-Third of Brazil's Physical Retail	5691
 PLOS One Browse Subject Areas	12231
 PMU Bridges	1988
+POLICY BRIEF ZMB-23106	12369
 PR and Brand	9304
 PR and Brand Network	9304
 PRESS BRIEFING BY THE EXECUTIVE DIRECTOR	4661
@@ -2165,9 +2275,10 @@ Plano Brasileiro de Intelig	7548
 Platform-Led Finance About Bridgforte The Bridgforte	11138
 Pointe-Noire and Brazzaville	11905,19
 Policy BEE Publications ITWeb Africa Brainstorm	10735
-Policy Brief	1814,704,97,3085,125,687,282,323,545,2791,315,61
+Policy Brief	1814,704,97,3085,125,687,282,323,545,2791,315,61,1496
 Policy Brief Digital IDs	1383
 Policy Brief No	961
+Policy Brief ZMB-23106	12369
 Policy Brief. Available	11133
 Policy South Africa Yes National Broadband	11529
 Polytechnique de Bruxelles	8621
@@ -2232,6 +2343,7 @@ REMARKS TYPE OF CYBER BREACH Low	1938
 RESILIENT USE OF BROADBAND INTERNET People	3604
 RNB Revenu National Brut SND	10965
 RPM Bruxelles	8643
+Radio Broadcasting Total Number of Public Broadcasting	12395
 Radio Mondiale DSB Digital Sound Broadcasting	6946
 Rank Brand Industry	11884,321
 Rank Brand Industry Brand	11885
@@ -2241,6 +2353,7 @@ Receitas de Estado Breadcrumb Direção Nacional	12018
 Reference Breaux	8436
 Reference Capel and Brereton2023	8283
 References Broadband Commission for Sustainable Development	12278
+References INTERNATIONAL GROWTH CENTRE POLICY BRIEF	12369
 Regional Brief	11867
 Reino Unido de Gran Bretaña	6613
 Reinstated Broadcast Licences	6946
@@ -2272,12 +2385,14 @@ Rural Fixed Broadband Wireless Access Systems	736
 Rwanda Broadcasting Agency	718
 Rwanda Space Agency Brochure.pdf	1903
 Rwanda Yes National Broadband Policy	11529
+Rwanda's Broadband Policy and Strategy	12385
 Rwandan ISP Broadband Systems Corporation	10380
 Réouverture de BRAFASO PV	3396
 République Brice Clotaire Oligui Nguema	2961,756
 S.E. Brice Clotaire Oligui Nguema	3125
 SA Connect Broadband Policy	8089
 SA Connect Broadband Policy. The Authority	7980
+SADC Broadband Basket Mobile Data and Voice	12395
 SADC Region and South African BRICS	11289
 SAT Digital Video Broadcasting	6946
 SCO and BRICS	5242
@@ -2305,6 +2420,7 @@ Scope of Breach	1877
 Sean Broomhead	396
 Sectors. The Broad-Based Black Economic Empowerment	11262
 Securing Broadband Infrastructure	11857
+Security Breach	12468
 Security Breach. OnDemand	3279
 Secção Breves	10750
 Self-Provision Broad-	6946
@@ -2333,8 +2449,10 @@ Social Integration. Briefing the Secretary General	9469
 Social Protection for Brazil	11133
 Sociale PIB Produit Intérieur Brut PMAF	10876
 Société Béninoise de Brasseries	10821
+Solar PV MSB Namibia Breweries Limited	12399
 Son Excellence Brice Clotaire Oligui Nguema	3581
 Son Excellence Monsieur Brice Clotaire Oligui	2808
+Sound Broadcasting	12395
 Sound Broadcasting Frequencies	6946
 Sound Broadcasting Frequencies During the FY	6946
 South Africa Connect and Broadcast Digital Migration	11230
@@ -2379,6 +2497,7 @@ Subscription Broadcasting	6946
 Subscription Broadcasting Services	6946
 Suburban Broadband Ltd	3862
 Sulemana Braimah	9960
+Summary of SMART Zambia Mid-Year Press Briefing	12375
 Support Breast Cancer Screening Senegalese Fintech	2269,19,45,14,9,24,65,84,4,11,6,12,38,10,6,3,8,49,4,421,243,278,96,422,265,221,430,282,332,124,146,163,355,164,56,209,176,238,23
 Sustainable Energy and Broadband Access	788
 Sustainable Finance Bridging	11332
@@ -2389,6 +2508,7 @@ Système de Règlement Brut	8556
 T.H. Bradley	7278
 T1 Role-modelling Brazil United States Tier	10764
 TAIS Bridge Builders Circle	6808
+TAKUDZWA BRANDON KUCHERERA	12478
 TAXA BRUTA DE ADMISSÃO	10766
 TAXA BRUTA DE ESCOLARIZAÇÃO	10766
 TAXI BRANDING	8999
@@ -2426,6 +2546,7 @@ Telecel’s Fixed Broadband	2776
 Telecom and Broadband Expansion Revamping	12035
 Telecommunications Broadcasting	11211
 Television Broadcasters	958
+Television Broadcasting KINGDOM OF ESWATINI	12395
 Television and Radio Broadcasters	11211,51
 Teraco Brackenfell	9617
 Tercera Brigada Jefe Inspector	4209
@@ -2458,8 +2579,10 @@ UMc Belgium Europe Western Europe Brussels	10840
 UMc Brazil Americas South America Sao	10840
 UMc Brunei Darussalam Asia South-Eastern Asia	10840
 UN Broad Band Commission	11863
-UN Broadband Commission	11857
+UN Broadband Commission	11857,538
+UN Broadband Commission for Sustainable Development	12333
 UN Broadband Commission. A Starlink	6467
+UN Broadband ISP	12395
 UNESCO Broadband Commission	6467,5096
 UNU-WIDER and Brazil’s National Data Protection Authority	11439
 UPDF Engineering Brigade	5394
@@ -2488,6 +2611,7 @@ Unión Internacional de Unión Internacional de Brazil Union	11563
 Update Regional Brief	11867
 Update Regional Brief for West and Central Africa	11867
 Uruguay FOSTIK BRITO	6613
+Usage Basket Fixed Broadband	12395
 Use of Satellite Broadband for Disaster	3641
 VC Fund Managers Mauritius British International	4972
 Valor Acrescentado Bruto	3421,168,5186
@@ -2506,6 +2630,7 @@ WHOLESALE RETAIL BROADBAND FIXED MOBILE	6539
 WORLD BANK Nigeria Broadband Infrastructure	11857
 Walker and Brown Mismatched	9128
 Washington and Brussels	10088
+Werther Brunow de Carvalho2. Disclaimer	12379
 Wes Brown	6423
 West Africa Data Center Markets Brief	4428
 Western Cape Province Broadband Expansion	732
@@ -2514,6 +2639,7 @@ Whether BRICS Pay	7220
 William Brederode	2677
 Wireless Broadband ISP	1418
 Wireless Broadband Infrastructure Upgrade	11857
+Work Breakdown Structure	12448
 World Bank The Nigerian National Broadband	11857
 World Bank. Angola Poverty and Equity Brief	11417
 World Bank. Encyclopedia Britannica	10841
@@ -2535,6 +2661,9 @@ Yvonne Boatemaa-Yeboah and Henrietta Brobbey Ameyaw	9535
 ZIMBABWE CABINET SEVENTEENTH POST-CABINET PRESS BRIEFING	11791
 ZIMBABWE DATA CENTER MARKET BRIEFING	3185
 Zambia Brunei Darussalam	10785
+Zambia Country Brief. Website	12369
+Zambia. Briter Bridges	12376
+Zambian Branch	12364
 Zero-Touch Broadband	5133
 Zimbabwe Cabinet Seventeenth Post-Cabinet Press Briefing	11791
 Zimbabwe Simbisa Brands ATMs Zimbabwe	6996

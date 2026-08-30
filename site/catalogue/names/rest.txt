@@ -1,6 +1,13 @@
 A1 BARES Y RESTAURANTES	4209
+ABSENCE OF RESTRICTION ON OWNING	12389
+ABSENCE OF RESTRICTIONS	12389
 AFRICA AND THE REST	11277
 API REST	9480
+Absence of Additional Restrictions	12389
+Absence of Export Restrictions	12389
+Absence of Restriction	12389
+Absence of Restrictions	12389
+Absence of Restrictions Subject	12389
 Acemoglu and Restrepo	7789,3351
 Act Restricted Application of Act Related	3714
 Add RESTful Query	1009
@@ -40,12 +47,14 @@ Diamniadio Data Centre Restructuring and Smart Senegal	647
 Digital Services Trade Restrictiveness	11550
 Disclosable Restructuring Paper	772,1298
 Document Sharing REST	1009
+EMPLOYMENT RESTRICTIONS AND COST	12389
 EU’s Cloud Service Restrictions	6582
 Employment Restriction	7845
 Enseignement Restauration	10841
 Eskom Restructuring Task Team	8599
 Estabelecimentos de Restauração	11445
 Fonction Publique Restez	1297
+Foreign Currency Bank Account Restrictions	12389
 Free State. Restoration	11297
 Full Restoration of Cables	2677
 Gambia Electricity Restoration and Modernization	10857
@@ -78,6 +87,8 @@ Observations Restauration	10876
 Oct-2019 Restructuring Sequence.03 Not Applicable	11924
 Offre Restreint ARMP Autorité de Régulation des Marchés	10876
 Offres Restreint	10876
+Out-of-Court Restructuring Mechanisms	12389
+Ownership and Participation Restrictions	12389
 P. Restrepo	11140
 PROCÉDURE D’APPEL D’OFFRES RESTREINT	10876
 PROJECT RESTRUCTURING OF Digital Governance and Economy	2473
@@ -99,22 +110,25 @@ RATIONALE FOR RESTRUCTURING	2473,2180
 RES00782 RESTRUCTURING PAPER ON A PROPOSED	2473
 RES01377 RESTRUCTURING PAPER ON A PROPOSED	4653
 RESA National Strategy for Restoration of State Authority	969
-REST API	9480
+REST API	9480,2924
 REST API Design Standards	11952
 REST APIs	7266
 REST BORROWED FROM FAMILY BORROWED	10977
+REST Security	12359
 RESTAURANTES CAPITALES DE DISTRITALES Y MUNICIPALES	4209
 RESTAURANTES CAPITALES DE PROVINCIAS CAPITALES	4209
 RESTAURANTES CAPITALES DE REGIONES CAPITALES	4209
 RESTAURANTES CONSEJOS DE POBLADOS CONSEJOS	4209
 RESTCONF	10721
+RESTORATION OR RECONSTRUCTION OF CIVIL	12338
 RESTORE	11240
 RESTORED	6313
+RESTRICTIONS ON INTERNATIONAL TRADE	12389
 RESTRICTIVENESS	11550
 RESTRIÇÕES DE LOCAÇÃO DE PROPRIEDADE	11898
 RESTRUCTURING	2473,9451
 RESTRUCTURING A. Project	1228,3425
-RESTRUCTURING HISTORY	2712,1976,1891,1298,4094,257,39
+RESTRUCTURING HISTORY	2712,1976,1891,1298,4094,257,39,173
 RESTRUCTURING HISTORY Restructuring Level	6928,4467
 RESTRUCTURING OF MOZAMBIQUE DIGITAL ACCELERATION PROJECT	1228
 RESTRUCTURING PAPER ON A PROPOSED PROJECT	1228
@@ -123,6 +137,7 @@ RESTful	1009,10943
 RESTful API	9603
 RESTful APIs	6432
 RESTful ISO	1009
+RESTful. API Gateway	12419
 RID Multi-Patient Queries RIM REST National	1009
 RIM Retrieve Form for Data Capture REST	1009
 Regional Coral Restoration Project Associate Anshinee	11332
@@ -132,7 +147,7 @@ Rest Essence	9427
 Rest Service	11952
 Rest of APAC	6477
 Rest of APAC Europe Rest of World	6477
-Rest of Africa	4883,6071
+Rest of Africa	4883,6071,1385
 Rest of Africa Startups	4883
 Rest of Center-South	11882
 Rest of East	11882
@@ -197,12 +212,13 @@ Restricted Confidential Secret Top Secret Revision	11188
 Restricted Data	3861,1383,1188,5520
 Restricted Data Access	3861
 Restricted GCSP	6432
+Restricted Physical Access Physical	12364
 Restricted Strictly Financial	11952
 Restricted Tendering and Single-Source Procurement	7695
 Restricting	5363,1202,183,1519,748,954
 Restriction	1187,1522,5136,1278,2054
 Restriction of Processing	12185
-Restrictions	573,163,225,282,21,20,583,121,1616,110,1951,897,2119,442,732,866,47,61,135,2,213,238,143,345,4,84,54,154,52,41,8
+Restrictions	573,163,225,282,21,20,583,121,1616,110,1951,897,2119,442,732,866,47,61,135,2,213,238,143,345,4,84,54,154,52,41,8,87
 Restrictions Barrister Manga	10370
 Restrictive	4848,1714
 Restrictive Very Restrictive	4848
@@ -213,9 +229,9 @@ Restroom	9123
 Restrooms	9123
 Restructuration	1281,1195
 Restructuration Program	10775
-Restructure	958
+Restructure	958,11495
 Restructurer	4004
-Restructuring	1228,56,1189,2180,2082,98,182,4924
+Restructuring	1228,56,1189,2180,2082,98,182,4924,386
 Restructuring Data Sheet	11924
 Restructuring Level	6833
 Restructuring Of E-Transform Ghana	10856
@@ -231,9 +247,12 @@ Rm Restatement Rm Restated Rm	10793
 Rm Restatement Rm Restated Rm CASH	10793
 Secret and Restricted	6432
 Sector-Specific Restrictions	11993
+Sector-Specific Restrictions for Domestic Entrepreneurs	12389
+Sector-Specific Restrictions for Foreign Entrepreneurs	12389
 Sep-2022 Restructuring Sequence.04 Not Applicable	11924
 Servers Regular Restoration Tests of Servers and Services	9123
 Service Rest	9781
+Sociodemographic Restrictions for Domestic Entrepreneurs	12389
 Specific Restrictions	11956
 Stratégie de Restauration	969
 S’améliorer Rester	6959

@@ -18,12 +18,14 @@ Against Independent Candidacies	4608
 Agrément Canada	10021
 Albania Austria Azerbaijan Benin Canada China	10764
 Amadu Candé. Assembleia	11544
+Amaury Cansa	12478
 Amazon Web Services and Canal Plus	3264
 Applications for CANEX Create-Thon	9641
 Arleen Cannata	12227
 Asesor S.E. Canciller Secretario Jefe de Estado	4209
 BIRGER Candos Recovery Center	3292
 Bank of Canada	6938
+Bank of Zambia ZIPSS Rules CUTA CancelUponUnableToAppl	12364
 Bank’s Canteen	11130
 Bembe Uíge Viana Cangola Camacupa Quiçama	10765
 Benin and Canada	9043
@@ -47,6 +49,8 @@ CANAL	5022,4971
 CANARIAN HOLDINGS LIMITED Data Controller INST-7969798477B	7167
 CANARY ISLANDS TRADERS LIMITED Data Controller	7167
 CANARY ISLANDS TRADERS LIMITED Data Processor	7167
+CANBLKCRED	12364
+CANBLKDEB	12364
 CANCEL	4209
 CANCELSUBMIT	6997
 CANCER CARE KENYA LIMITED Data Controller	7167
@@ -64,8 +68,14 @@ CANEX	8149
 CANEX Create-Thon	9641
 CANEX Create-thon	8149,1492
 CANEX WKND	8149
+CANFCO Transaction	12364
+CANFORBIDPEND Transaction	12364
 CANGO	11131,3
 CANIK SPY LTD Data Processor INST-570311FD0A0	7167
+CANINVACC Invalid	12364
+CANINVCRED	12364
+CANINVDEB Invalid	12364
+CANINVTTC The Debtor	12364
 CANNON ASSET MANAGERS	7167
 CANNON GENERAL INSURANCE	7167
 CANNON LIFE ASSURANCE	7167
@@ -78,9 +88,11 @@ CANONICAL REALTY LIMITED Data Processor INST-89428021E08	7167
 CANOPY INSURANCE BROKERS LTD Data Controller	7167
 CANOPY INSURANCE BROKERS LTD Data Processor	7167
 CANPAD	7895
+CANPENTIME Transaction	12364
 CANSPI HOSPITAL LIMITED Data Processor INST-445188D7CA5	7167
 CANTERAS CONTROL DE REGIONAL PRODUCTOS	4209
 CANTERAS REG. CANTERAS REG. REFINADOS	4209
+CANUSR Transaction	12364
 CANYAMA VISSIONS	7167
 COUNTRY REASONS Reallocations IDA-D9060-001 Cancellations	2473
 Cabo Verde Cambodia Cameroon Canada Cayman	11470
@@ -120,15 +132,17 @@ Can Take That Value Back	5700
 Can Telkom	4732
 Can Train	10015
 Can Two-Sided Activation Break the Cash Equilibrium	10277
+Can Uganda's Land Support	12333
 Can Vodacom	4732
 Can We Distinguish	6947
 Can You Have It All	7857
 Can the AT50 Index	4561
 Can the Artificial Intelligence Commissioner	11247
 Can the United Nations Bring the World Together	5044,322,52,1069,392,233,35
-Canada	643,75,29,1,41,430,24,408,97,236,358,390,84,95,94,58,402,118,68,152,94,33,197,88,44,170,18,170,427,258,268,97,205,202,336,35,54,114,325,59,11,135,4,95,128,101,260,114,76,316,28,62,18,170,114,81,333,24,61,99,48,370,53,117,17,50,75,131,32,117,33,261,233,1,10,10,14,20,27,94,39,22,114,16,4,19,15,122,272,46,285,180,59,18,45,5,9
+Canada	643,75,29,1,41,430,24,408,97,236,358,390,84,95,94,58,402,118,68,152,94,33,197,88,44,170,18,170,427,258,268,97,205,202,336,35,54,114,325,59,11,135,4,95,128,101,260,114,76,316,28,62,18,170,114,81,333,24,61,99,48,370,53,117,17,50,75,131,32,117,33,261,233,1,10,10,14,20,27,94,39,22,114,16,4,19,15,122,272,46,285,180,59,18,45,5,9,127,129
 Canada Agreement WEF World Economic Forum	1243
 Canada Job	9616
+Canada K1G	12327
 Canada Prime Minister Mark Carney	5044
 Canada Tanzania	12151
 Canada Tel	12138
@@ -206,11 +220,14 @@ Canary Islands	789,65,2928,2387,333
 Canaux	737,10228
 Canberra	9645,1511
 Cancel	3583,7434,259,201
+Cancel Online Purchases	12389
 Cancel Report Ad Violent Disturbing Offensive	4790
+Cancel Transaction	12364
 Cancelación	163
 Cancelamento	11452,130,729
 Cancelar	11587
-Cancellation	2473,239,15,987,974,1891,349,949,2993,525,529,47,257,5,34
+Cancellation	2473,239,15,987,974,1891,349,949,2993,525,529,47,257,5,34,97,25,11,40
+Cancellation of Queued Payment Instructions Payment	12364
 Cancellation of Registration	12185
 Cancellations Financial Management Reliance	4653
 Cancellations Proposed	1228,56
@@ -218,6 +235,7 @@ Cancelled	6579,4796
 Cancer	6379,5772
 Cancer Anaemia	12151
 Cancer601 Heart Diseases	12151
+Cancers	12413
 Canchungo	11587
 Canchungo and Gabu	11549
 Canciller	4209
@@ -274,6 +292,7 @@ Canon SEGESA	4209
 Canonical	571,677,2125,618,443,2765,124,222
 Canonical URL	3981,1944
 Canonicalised	3847
+Cansa	12478
 Canshuurta	9583
 Cantagalo	5557
 Cantanhez	11586
@@ -308,6 +327,7 @@ Chef de Canton de Tahoua	9567
 Chief Executive Officer of Canal	5802
 Children’s Cancer Helpline	11350
 China and Canada	562
+Christian Camilo Gomez Canon	12403
 Colina CanoL. Assessing	12246
 Community Participation Can't Wait	7147
 Components Results Loan Cancellations Reallocations	11924
@@ -328,6 +348,7 @@ Deputy High Commission of Canada	10120
 Deputy High Commission of Canada and Nkemdirim Emovuon	10120
 Description FinDev Canada	263,828,3383
 Development Finance Institute Canada	9275
+Development Link That Citizens Can	12456
 Dhahabu Cancer Care LTD Data Controller	7167
 Digital Identity Canadian Trust Framework	10819
 Digital Identity Government of Canada	10819
@@ -367,9 +388,9 @@ France Luc Lapointe Consultant Canada Nicolas	11525
 Félix João Cândido Canda	11391
 GVA Canal	2263
 Germany and Canada	9857
-Global Affairs Canada	64,136,453,8021,186,183,160,9,63,44,801,2018
+Global Affairs Canada	64,136,453,8021,186,183,160,9,63,44,801,2018,189
 Global Affairs Canada The Honourable Anita	9275
-Global Affairs Canada and IDRC	327,11811
+Global Affairs Canada and IDRC	327,11811,189
 Global Fintech Lending FinDev Canada	4474
 Gobierno Canciller Secretario General Secretario General	4209
 Gobierno Consejero Ministro Gran Canciller Secretario	4209
@@ -440,6 +461,7 @@ Mujica Canas	10763
 MultiChoice and Canal	9039
 Mwonzora Candid Comment	6179
 NCI Cancer Research Data Commons	7313
+Namibia Can Match Singapore’s Economic Miracle	12378
 National Cancer Centre	7845
 National Cancer Centre de Solférino	10391
 National Cancer Clinical Trials Programme	7845
@@ -451,12 +473,14 @@ Nidaamka Maamulka Canshuuraha Elektarooniga	9583
 Nigeria Can the AT50 Index	4324
 Number of Registered KCPE Candidates and KPSEA Learners	2775
 Number of Registered KCSE Special Needs Candidates	2775
+OFFER. THE BANK MAY CANCEL	12400
 OSGF’s Email Address Can’t Receive Messages	10034,231
 Objection. The Candidate RIR	3503
 Only One Cable-laying Ship Can Fix	2677
 OpenAI's ChatGPT. In Canada	12210
 Orden Cantidad F U N C	4209
 Orden Total General Cantidad Asignación Compl	4209
+Oskar Matheus Candenge Cassinga	12478
 Othniel Canice	8121,2560
 PAPSS CANNOT FIX Weak	9593
 PART SIX CANCELLATION AND SUSPENSION	762
@@ -469,6 +493,7 @@ Paraguay CANO RICCIARDI	6613
 Parlamento Letrado Mayor Canciller Director General	4209
 Partial Cancellation	2473
 Parties and Candidates	7266
+Payment Cancellation Request	12364
 PhD Candidate	6487,392
 Pierre Canton Bacara	5783
 Plénipotentiaire du Canada	7670
@@ -497,6 +522,7 @@ Registrar. Cancellation	3714
 Registration of Candidates	12201
 Rep. Canada Japan Release	11135
 Reply Cancel	8437,202,383,854,113
+RequestedByCustomer Cancellation	12364
 Respiratory Cancer	12151
 Retrait du DAO Candidats Retrait	10876
 Revised Cancelled Disbursed Undisbursed	11395
@@ -524,7 +550,7 @@ Support Breast Cancer Screening Senegalese Fintech	2269,19,45,14,9,24,65,84,4,11
 Switzerland and Canada	2626
 Systems Global Affairs Canada	63,136
 T2 Advancing Canada Ecuador Mexico Uruguay	10764
-TF Status Original Revised Cancelled Disbursed	2712,1976,2240,949,2993,1101,257,39
+TF Status Original Revised Cancelled Disbursed	2712,1976,2240,949,2993,1101,257,39,173
 Tanzania. Can	5925
 Tech Anti-Monopoly and Accountability Agenda for Canada	5044
 TechSoup Canada	8022
@@ -544,6 +570,7 @@ VIII. REGISTRATION OF CANDIDATES	12201
 Visibility Can	8644
 Voltar Canais de Atendimento Fale	1192
 Warning Africa Cannot Ignore	8497
+Ways We Can Improve the Digital Divide	12336
 West Africa. Canada and Benin	9275
 World Bank. Can Enhancing the Benefits of Formalization	10856
 World Bank’s Cancellation Letter MOZAMBIQUE	2474

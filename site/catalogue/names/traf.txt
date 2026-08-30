@@ -2,7 +2,7 @@ AB Traffic	9781
 AIDS Malaria Pneumonia Tuberculosis Road Traffic	12151
 AMENDMENT OF THE ROAD TRAFFIC ACT	6921
 AN. Traffic Management and Road Safety Unit	7845
-Absence of Human Trafficking	10759,76,2,1,130,902,16,1,1,1,263,1,1,9
+Absence of Human Trafficking	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1
 Accidents Road Traffic Accident Respiratory Infections	12151
 Administrative Adjudication of Road Traffic Offences	7755
 Air Traffic	261
@@ -24,6 +24,7 @@ Cardiopulmo- Road Traffic	12151
 Combat Trafficking	11900
 Commercial Cargo and Mail Traffic	2775
 Commercial Passenger Traffic1	2775
+Communications Sector Drive Traffic	12395
 Container Freight Traffic	2775
 Courier Traffic	6671,3110
 D.G. DE TRAFICO RODADO Y SEGURIDAD	4209
@@ -33,7 +34,7 @@ DEL.REG. DE TRAFICO	4209
 DEL.REG.DE TRAFICO RODADO	4209
 DELEG. TRAFICO GESTIÓN DE GOBIERNOS GOBIERNOS	4209
 DOMESTIC MOBILE TRAFFIC	2776
-Data Traffic	2776,3224
+Data Traffic	2776,3224,6395
 Data Traffic Market	6000
 Data Traffic NB	6000
 Digital Road Traffic System	5119
@@ -50,6 +51,9 @@ Domestic Mobile Voice and SMS Traffic	6671
 Domestic Mobile Voice and SMS Traffic Safaricom	6671
 Electronic Traffic Management System	9395
 Energy Agency IGTVS International Gateway Traffic	718
+Eswatini Mobile Network Data Traffic	12395
+Eswatini Mobile Network Voice Traffic ANNUAL	12395
+Eswatini Mobile Voice Traffic ANNUAL INFORMATION	12395
 FIXED LINE TRAFFIC	11211,51
 FIXED-TO-MOBILE TELEPHONE TRAFFIC	11211,51
 Financial Management Absence of Human Trafficking	10759
@@ -113,6 +117,7 @@ MOBILE SMS TRAFFIC	6000
 MOBILE SMS TRAFFIC Total SMS	6000
 MOBILE TO MOBILE TRAFFIC	3862
 MOBILE VOICE TRAFFIC	6000
+MTN Eswatini Network Voice Traffic	12395
 Malaba Traffic Snarl Deepens	3955
 Malawi Traffic	12214
 Malawi Traffic Information System	12309
@@ -122,7 +127,9 @@ Metre Gauge Railway Traffic	2775
 Minutes Traffic Q3	2776
 Mkalipi. The Road Traffic Infringement Agency	7755
 Mobile Data Traffic	2776
+Mobile Data Traffic Eswatini Mobile	12395
 Mobile Data Traffic Figure	2776
+Mobile Data Traffic Recovery	12395
 Mobile Internet Traffic	2776
 Mobile Off-Net Traffic	2776
 Mobile Off-Net Traffic Distribution	2776
@@ -135,7 +142,8 @@ Mobile Traffic	3862,3084
 Mobile Traffic Trends	6946
 Mobile Traffic Trends FY	6946
 Mobile Voice Call Traffic	3862
-Mobile Voice Traffic	2776,1086,2809
+Mobile Voice Traffic	2776,1086,2809,5724
+Mobile Voice Traffic For Eswatini Mobile	12395
 Mobile Voice Traffic Market	6000
 Mobile Voice Traffic Minutes of Use	2776
 Motor Traffic Act	3061
@@ -143,6 +151,7 @@ Motor Traffic and Transport Department	9205,1876
 NATIONAL MOBILE TRAFFIC	11211,51
 NATIONAL TELEPHONE TRAFFIC	3862
 NETWORK TRAFFIC	11211,51
+Namibia Traffic Information System	12476
 National Agency for Prohibition of Trafficking	11928
 National Road Traffic Act	11551
 National Road Traffic Act.’’. Amendment	11551
@@ -218,7 +227,7 @@ Standard Gauge Railway Traffic	2775
 Storage Revenue Container Freight Traffic Developments	2775
 Subscriptions Total Mobile Data Traffic	2776
 Subscriptions Traffic Q3	2776
-TRAFFIC	11211,51
+TRAFFIC	11211,51,1133
 TRAFFIC DATA	3862
 TRAFIGO SARL	6597
 TRAFITECH	11062
@@ -227,7 +236,7 @@ Tbps Traffic Milestone	2754
 Telecommunications Traffic Control Regulation	9288
 Telecommunications Traffic Control Regulations	8742,1
 Telephone Call Traffic	2775
-Traffic	26,210,159,197,182,358,856,689,99,1064,22,2138,671,3110,1350,100,19,524,479
+Traffic	26,210,159,197,182,358,856,689,99,1064,22,2138,671,3110,1350,100,19,524,479,124
 Traffic Acci-	12151
 Traffic Acci- Kidney	12151
 Traffic Acci-385Heart	12151
@@ -240,6 +249,7 @@ Traffic Control	12253
 Traffic Control Police	12253
 Traffic Control Police Risk	12253
 Traffic Data	2776,9409
+Traffic Fines	12333
 Traffic Handled	2775
 Traffic Impact Assessment	11131
 Traffic Law Enforcement	11494
@@ -248,6 +258,7 @@ Traffic MTC	1013
 Traffic Management Centres	10603
 Traffic Management and Road Safety Unit	7845
 Traffic Management for Protected Areas	1132
+Traffic Monitoring Dashboard Application	12395
 Traffic Network Infrastructure Broadband Speeds	1013
 Traffic Police	12275
 Traffic Q3	2776
@@ -255,6 +266,7 @@ Traffic Registration Number	6527
 Traffic Registration Numbers	6527
 Traffic Safety	1988
 Traffic Safety Council of Zimbabwe	9394
+Traffic Statistics	12377
 Traffic Study	11131
 Traffic Table	2776
 Traffic Traffic	2776
@@ -263,8 +275,9 @@ Traffic Trends Network Infrastructure Broadband Speeds	1944
 Traffic and Road Safety Directorate	10775
 Traffic and Road Safety The Borrower	1988
 Traffic and Usage	3990,5791
-Trafficking	5242,5517,78,4,1311,101
+Trafficking	5242,5517,78,4,1311,101,87,33
 Trafficking Data	1243
+Trafficking In Persons	12373
 Trafic	9781
 Trafic International Entrant	11597
 Transit Traffic	2775

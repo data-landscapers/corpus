@@ -58,10 +58,13 @@ Adjunto B2 Cónsul General B2 Ministro	4209
 Adjunto Gobierno Delegado Gobierno Delegado Regional	4209
 Adjunto Letrado Mayor Director General Director	4209
 Adjust	12253
-Adjusted	3583,4542,1610,887,117,392,165
+Adjusted	3583,4542,1610,887,117,392,165,1071,46
 Adjusted Appropriation	11218
 Adjusted Appropriation Bill	11289
 Adjusted Budget	750,540,494,1,2,7,3
+Adjusted CBR	12367
+Adjusted CDR	12413
+Adjusted Crude	12413
 Adjusted EBITDA	9735,1058
 Adjusted EBITDA Basis	9735
 Adjusted EV	4896
@@ -70,8 +73,8 @@ Adjusted HEPS	10793
 Adjusted Quality	1818
 Adjusted R²	8075
 Adjusted Value Tax	10870
-Adjusting	3583,7573,68
-Adjustment	2902,7891,503
+Adjusting	3583,7573,68,1189
+Adjustment	2902,7891,503,1117
 Adjustment Appropriation Act	11986
 Adjustment Budget	11251
 Adjustment Fund	7785,4024
@@ -112,6 +115,7 @@ Consul General Adjunto	4209
 Coordenador Geral Coordenadora Geral Adjunta José	10757
 Cost Adjustments	2515
 Cost Foreign Exchange Rate Fluctuation Adjustment	12256
+Cost of IDs Adjust	12328
 Cámara Secretario General Adjunto	4209
 Cónsul General Adjunto B1 Cónsul General	4209
 Cónsul General Adjunto B3 Primer Secretario	4209
@@ -148,6 +152,7 @@ Director-Geral Adjunto	4218
 Directora Geral Adjunta ANÁLISE DE QUALIDADE	10757
 Directora Geral Adjunta Adão Fernando	10757
 Directores-Gerais Adjuntos	4218
+EA. Adjustments	12403
 EAGLE ADJUSTERS LIMITED Data Controller INST-3640402B568	7167
 EBITDAaL. Adjusted	8125
 EU’s Carbon Border Adjustment Mechanism	11149
@@ -185,6 +190,7 @@ General Adjunto C. Nac. UNESCO Jefe	4209
 General Adjunto Oficial Mayor Interventor Abogado	4209
 General Adjunto Presidencia Juez Primer Instancia	4209
 Gobierno Adjunto Delegado Provincial Delegado Distrital	4209
+IDs. Adjusting	12328
 INGEST ADJUDICATION	1807,3811,859,1378
 INSPECC. GEN. SERV ADJ. R. CONT.-	4209
 Inflation Adj	12256
@@ -279,4 +285,6 @@ Tariff Exchange Rate Adjustment	7933,2635
 Telecommunications Tariff Exchange Rate Adjustment	6874
 Toubou RIPAMA Directeur Général Adjoint Bernard	10875
 Trends of Starlink Price Adjustments	1926
+Unadjusted Adjusted Year	12413
+Unadjusted and Adjusted	12413
 Visa Adjudication System	5533,6453

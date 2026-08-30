@@ -5,9 +5,12 @@ AKOTO Epse OKRY Chilina Vicentia S	10712
 ANCIEN S	998
 AU S- AAGBER	582
 AUTHORS S. Name Expertise	9855
+Abebe S. Health	12379
 Abimbola S	11596
+Acharya S	12379
 Ackerman S	1219
 Agarwal S	1219,9662
+Anagaw Mengiste S	12379
 Annual PA12b S Revenue Requirements	10779
 Ansar S. The Global Findex Database	12231
 Arc. Sonny S. T. Echono	11860
@@ -20,6 +23,7 @@ Autistic S	11180
 Ayabakan S	10780
 Ayele S	3791
 Azmeh S	5242
+B S R L	12373
 B. S	5349,3255
 Bacias Hidrográficas de S. João Batista	1265
 Bandwidth Capacity. S	3862
@@ -28,6 +32,7 @@ Being Offered S	3862
 Bennett S. Examining	3791
 Beth S. Rabinowitz	4970
 Bull S	1219
+C S S	12373
 C. POLICIAL S ECONOMICOS DISCIPLINA DISCIPLINA	4209
 COMOE SUD-OUEST CAS CADE S CEN	10847
 CSP CSP CSP D C S	9123
@@ -91,6 +96,7 @@ Excellency Mrs. Sarah S. Molosiwa	6642
 Exclusion List S	1988
 External Affairs Minister Dr. S. Jaishankar	2667
 FDGRV GR GRPtQLR S	11527
+FY. S	12358
 Fedel-al School of Statistics. S. Establisl	11852
 Feldstein S	5242
 Firewalls Web Applications S	10617
@@ -101,6 +107,7 @@ GE S POR UNA GUINEA MEJOR	163
 Garossi S. Maturity	12255
 Githinji S	10881
 Google Scholar Zuboff S	8460
+Government Digital Performance Assessment for Zambia S	12453
 Gyaase S	3791
 H E R E S	11586
 H. S	6832
@@ -129,7 +136,9 @@ J Base Stations Tx Channel S	736
 J MM J S N J	11953
 J S N J	11953
 J S N J MM J	11953
+J S Ndumba	12478
 J. S	12227
+Jadhav S	12379
 James S. Fishkin	11006
 Japanese Prime Minister S. Abe	11154
 Jariatu S. Bangura The Minister	9077
@@ -155,10 +164,11 @@ Lewis S. Teh Monrovia	7230
 Lightfoot S	5242
 Ljungblad S	9739
 Louart S	10940
+Lucas S	12333
 M E S S A G	11586
 M S Inherent Risks	3604
 M. Baddari.R. S	9244
-M. S	8603,2537
+M. S	8603,2537,1185,142
 M. S. M	8604
 M. S. Schäfer	11028
 M. Steinhaus and S. Petroni	12188
@@ -202,6 +212,7 @@ Neurological and S	11180
 Ngallaba S	3791
 Non Formelle OUD ALAN S SO	10847
 Number S. N Type of License	718
+O N S	12328
 O. S	2816,4016,116,2045
 O. S. Obeki and E. S. Diamond	6948
 OAlition S	5246
@@ -230,6 +241,7 @@ R. D. S	11265
 R. S	11133,9
 REALISATION OBSERVATION S ET SOURCES RESULTATS	10975
 RECOMMENDATIONS ON POLICY AND REGULATION S	11857
+References Hailegebreal S	12379
 Reg S	4461
 Reinserção Social S N	6530
 Residual S Incorporated	3604
@@ -240,6 +252,7 @@ Rosenstock S	9739
 Rune Rysbjerg Møller S	12233
 Russpatrick S	1219
 S A Designated Account	10829
+S ADMINISTRATIVE MAP OF RWANDA Musheri	12413
 S AUTORIDADES COMPETENTES Artigo	15
 S Aeroport	10821
 S Afr Med J	7836
@@ -263,6 +276,7 @@ S IR C M A N	10775
 S IS-	4260
 S IS-COVE	4260
 S Infrastructure Infrastructure Whittlesea R10	11986
+S Karama Rukomo Nyagatare Kagogo Kinyababa	12413
 S Krishnan	9404
 S Learning	11157
 S M Budgeting	10829
@@ -270,8 +284,10 @@ S Magagula	11289
 S Mdubeki Chief Surveyor-General	11261
 S Ministère	10821
 S Mokoena	11289
+S Muhanga District Gacurabwe	12413
 S N J MM J S	11953
 S Ngubane	11285
+S Nyagisozi Rwabicuma BuP	12413
 S P R S Direção Geral	6530
 S Percentage	10763
 S Perumal	10793
@@ -279,6 +295,8 @@ S Programas de Cooperación	4209
 S Rajagopalan	6692
 S Regulatory Compliance Audit	4301
 S Richard5	10793
+S Rusenge Kansi Mugombwa Bugarama Nyaruguru	12413
+S Rwempasha	12413
 S S Financial Management MS MS	1284
 S S MS Overall ESS Performance	1284
 S S Registrar External	10775
@@ -295,6 +313,7 @@ S Team	10829
 S The Government	10829
 S Titus	11289
 S U P L E M	11527
+S Uganda	12413
 S Video	34
 S Where Pref Div	3714
 S Yeboah-Amankwah6	10793
@@ -304,7 +323,9 @@ S and Meijer	2096
 S and Renault	2096
 S and Samuels	2096
 S and Schlozman	2096
+S hi	12445
 S ignificant	6133
+S- Commerce and Enterprise	12339
 S-Year Baseline Taraet Deteetion S	4301
 S. A	1243,5589,1771,3352
 S. A. H	8605
@@ -344,7 +365,7 @@ S. Figueroa Street Los Angeles	3364
 S. Filipe	1948
 S. Foreign	7886
 S. Freshia	11140
-S. G	4131,545
+S. G	4131,545,7653
 S. Goodwin	8022
 S. Goundar	7278
 S. Government	4153,148
@@ -360,19 +381,20 @@ S. Jaeger	11140
 S. Jasanoff	12090
 S. Jasanoff and S.-H. Kim	11028
 S. Jayantilal	9237
-S. K	2518,4420,1665,2
+S. K	2518,4420,1665,2,3862
 S. Kabongo	11140
 S. Khandaker	5349
 S. Kift	9128
 S. Kiptinness	11140
 S. Kleimeier	11310
 S. Krishnan	5349,2632
+S. L. Schneberger	12467
 S. Lefophane	1939
 S. Leonelli and N. Tempini	12090
 S. Li	11140
 S. Lindgren	11028
 S. Los	163
-S. M	2096,1686,4823
+S. M	2096,1686,4823,3728
 S. Mananze	2816
 S. Maruwada	5700
 S. Matta	1828
@@ -388,14 +410,14 @@ S. Nunhuck	11140
 S. Oluwole Akinola	11140
 S. Osei	11140
 S. Ozyurt	11310
-S. P	10391
+S. P	10391,1942
 S. P. Une	10391
 S. Pattanayak	11140
 S. Pawirosumarto	5349
 S. Petroleras	4209
 S. Popovs	5349
 S. Proximity	7886
-S. R	11028
+S. R	11028,1305
 S. Rajagopalan	2982
 S. Ruto	4165
 S. S	1248,10679,313

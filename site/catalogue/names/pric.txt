@@ -1,10 +1,13 @@
 AWS Region Table. Pricing	7210
 Abbreviations CPI Consumer Price Index IMF	11286
+Absence of Price Control Measures	12389
+Absence of Price Floors and Guidelines	12389
 Administrative Incentive Pricing	3102,6
 Adverse Price	11994
 African Prices	10856
 Annual Average Retail Prices of Selected Consumer	2775
 Applicant's Best Price Offer	8582
+Avatar of PriceListNamibia	12478
 Average Export Prices of Selected Minerals	2775
 Average Fully Indexed Price Biomass	11953
 Average Gross Commodity Prices	2775
@@ -21,7 +24,9 @@ CPI Consumer Price Index CPIMS Child	2775
 CPI Consumer Price Index DFA Debt	11271
 CRITERIA POINTS Price	11209
 Cameroon Cocoa Farmgate Prices Rise CFA250	965,3924,206
+Carbon Pricing System	12389
 Cell C Home LTE Price Plan	11259
+Change Prices	12389
 Co-operation and Development PPI Producer Price Index	11286
 Commodity Prices and Trade	6938
 Common Monetary Area Consumer Price Index	11131
@@ -30,7 +35,7 @@ Constant Prices	2775
 Construction Input Price Index CMA Capital	2775
 Construction Input Price Indices	2775
 Consumer Price Basket	2775
-Consumer Price Index	2775,808,131,1883,2930,725,1882,155,135
+Consumer Price Index	2775,808,131,1883,2930,725,1882,155,135,979
 Consumer Price Index Manual	11258
 Consumer Price Indices	2775
 Consumer Price Indices Kenya	2775
@@ -38,6 +43,7 @@ Consumer Price Indices for Food and Non-Alcoholic Beverages	2775
 Consumer Price Indices for Nairobi Lower Income	2775
 Contract Price	6946
 Cost Proposal and Price Declaration Form	11209
+Cross-Border Carbon Pricing Instruments	12389
 Crude Oil Price	12256
 Current Market Prices	2775
 Current Prices	2775
@@ -89,6 +95,7 @@ Government. Price	1284
 ICT Price Basket	11262,137
 ICT Price Basket Manual	11563
 IMF Producer Price Index Manual Theory	11152
+ITU Price Baskets ICT Price Basket	12395
 ITU and PricewaterhouseCoopers	11917
 Institute for Prices and Competition	11380
 Internet Prices Slashed	4070
@@ -132,21 +139,24 @@ Nepal stock market price prediction	11265
 OPEC Reference Basket Prices	2775
 Oil Price Differential Account	10779
 Operators' Prices for Prepaid Daily Data Bundles	11259
+Ordnance Survey Blog. Prichard	12369
 Overall Producer Price Index	11152
 POST-PAID DATA PRICES	11211
 PREPAID DATA PRICES	11211
-PRICE	11252
+PRICE	11252,1143
 PRICES	962,10249
 PRICING RULES OR STANDARDS	5872
 PRICING RULES OR STANDARDS’’. Amendment	5872
 PRICNAC	3157
 PS-6 Spectrum Pricing PS-7 Clear	11857
 Post- Prices	11563
+Postal Market Indicators the Pricing of ICT	12395
 Prepaid Data Prices	11259
-Price	1284,3150,1245,1058,191,908,346,424,1153,398,606,81,17,291,2,86,12,6,1,12,15,191,86,294,6,137
+Price	1284,3150,1245,1058,191,908,346,424,1153,398,606,81,17,291,2,86,12,6,1,12,15,191,86,294,6,137,344,32,19
 Price Changes	2775
 Price Developments Consumer	11131
 Price Developments Inflationary	11134
+Price Eswatini Electronic Communications Services of Data	12395
 Price Flat Rate	9409
 Price Index	2775,8377
 Price Index CRDP Comprehensive Rural Development	11261
@@ -160,27 +170,36 @@ Price Stability Average	11134
 Price Stability Financial Stability KPI	11131
 Price Stability Financial Stability Sustainable Income	11131
 Price Statistics	11237
+Price Transformation	12395
 Price Waterhouse Coopers	1814
 Price Waterhouse and Coopers	1814
 Price and Melon Mobile	10537
 Price and Preferential Points Assessment	11240
 Price and Specific Goals	11209
+Price of Data	12395
 Price-Survey-Somalia-2020-2023.pdf	4555
 Price-to-Earnings	4263
+PriceListNamibia	12478
 PriceWaterhouseCoopers	6409
 Priced	6690
+Pricelist Namibia	12478
 Pricemou	4369
-Prices	970,43,625,213,924,808,837,1454,1372,122,343,40,707,1301,1393,106,305,693
+Prices	970,43,625,213,924,808,837,1454,1372,122,343,40,707,1301,1393,106,305,693,133,11,3
 Prices Adjusted	2775
 Prices and In-bundle Rates for Standard Daily Data	11259
 PricewaterhouseCoopers	6893
 PricewaterhouseCoopers Zambia	2240
-Prichard	11133
-Pricing	958,936,1159,1381,1027,1274,1231,42,719,1069,1342,57,16,41,95,510,61
+Prichard	11133,1236
+Pricing	958,936,1159,1381,1027,1274,1231,42,719,1069,1342,57,16,41,95,510,61,446,31,5
 Pricing Mechanism	1828
+Pricing Power	12389
 Pricing Requirements Completion	7266
+Pricing Rules	12364
+Pricing Rules The BoZ	12364
 Pricing Schedule	7266
 Pricing Schedule and Appendix B1	7266
+Pricing The Bank of Zambia	12364
+Pricing The Charges	12364
 Pricing for Data Protection Training	2987
 Producer Price Index	2775,8377,106
 Producer Price Index SARB South African	11258
@@ -197,6 +216,7 @@ RAMP Index. Prices	9759
 RIA’s Retail Africa Mobile Pricing	9759
 RPPI Residential Property Price Index SARB	11286
 Remittance Prices	5255
+Request for Proposal Prices	12400
 Residential Property Price	11286
 Residential Property Price Index	11286
 Residential Property Price Index Practical Compilation	11286
@@ -245,3 +265,4 @@ Weighted Average Sale Price for Residential Properties	2775
 Wh. Prices	10995
 Wholesale Prices1 of Petroleum Fuels	2775
 World Bank Remittance Prices	6397
+Worldwide Mobile Data Pricing	12336

@@ -45,11 +45,13 @@ Agostinho Neto International Airport and Cabinda	9399
 Air Afrik Aviation Limited	3583
 Air Algérie	4128
 Air CI	2342
+Air Cargo Express Declaration User Guidelines	12454
 Air Cargo Malawi	12241
 Air Cdre. Dr. Eng. E. Kamusoko	1554
 Air Cdre. Dr. Eng. E. M	1554
 Air Cdre. Dr. Eng. Edgar Munyarari	1554
 Air Commodore Dr Eng. Edgar Kamusoko	1554
+Air Conditioner	12383
 Air Conditioning	11134
 Air Conditioning International Financial Reporting Standards	11134
 Air Cote	2342
@@ -62,7 +64,7 @@ Air Interface Encryption	10721
 Air Liaison	11285
 Air Pollution	1988
 Air Pollution Management	1988
-Air Quality	8891,1868,76,2,1,130,902,16,1,1,1,264,1,9
+Air Quality	8891,1868,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1
 Air Quality Act	11228
 Air Quality Sustainable Use of Land	10837
 Air Services Agreement	11185
@@ -99,7 +101,7 @@ Airlines	9119
 Airlines Association of Southern Africa	10360,363
 Airong	11006
 Airong Zhang	11006
-Airport	2775,611,1924,4585
+Airport	2775,611,1924,4585,2494
 Airport By-pass Road Accra Ghana Digital	775
 Airport City	3386,3982
 Airport City Fuller Road	2776
@@ -123,7 +125,7 @@ Airports Company of South Africa	9895
 Airports Sacco Society Limited Data Controller	7167
 Airports Sacco Society Limited Data Processor	7167
 Airports of Mauritius	10045
-Airtel	236,167,321,175,99,5,701,1,107,209,112,1,157,106,39,36,42,44,70,90,79,71,145,9,6,260,42,19,128,28,21,28,12,92,30,174,113,80,95,39,245,8,116,23,76,30,66,62,81,60,77,36,131,9,132,2,411,39,9,72,34,111,32,32,45,104,14,1,103,243,121,49,1,5,22,18,7,18,17,6,20,15,43,11,50,27,268,121,113,35,32,106,195,49,83,20,4,78,225,4,179,192,1,25,118,1,57,87,125,8,396,18,60,64,51,18,67,76,26,72,2,33,52,15,58,6,4,45,16,50,79,231,144,65,25,500,535,61,42,34,80,140,48,29
+Airtel	236,167,321,175,99,5,701,1,107,209,112,1,157,106,39,36,42,44,70,90,79,71,145,9,6,260,42,19,128,28,21,28,12,92,30,174,113,80,95,39,245,8,116,23,76,30,66,62,81,60,77,36,131,9,132,2,411,39,9,72,34,111,32,32,45,104,14,1,103,243,121,49,1,5,22,18,7,18,17,6,20,15,43,11,50,27,268,121,113,35,32,106,195,49,83,20,4,78,225,4,179,192,1,25,118,1,57,87,125,8,396,18,60,64,51,18,67,76,26,72,2,33,52,15,58,6,4,45,16,50,79,231,144,65,25,500,535,61,42,34,80,140,48,29,44,41,51,7
 Airtel AI Spam Alert Service. Airtel	2558
 Airtel Africa	701,23,62,105,628,502,112,196,143,86,239,214,354,85,116,122,71,108,76,499,55,84,315,110,1133,107,1,19,23,50,11,117,202,39,143,81,163,196,354,18,279,107,82,596,144,1126,35,52,128,16,261,831
 Airtel Africa CEO	5802
@@ -283,7 +285,7 @@ Airtel Uganda	4581,568,1098,220,921,1,40,342,581,1429,201,1338,460
 Airtel Uganda Reaffirms	7389
 Airtel Uganda Telecom	10822
 Airtel Uganda's Managing Director and CEO Soumendra	6247
-Airtel Zambia	1195,6330,1557
+Airtel Zambia	1195,6330,1557,3294
 Airtel Zambia Zamtel MTN SA Cell	1013
 Airtel Zambia and IHS Towers	5247
 Airtel and Africell	6156
@@ -378,6 +380,7 @@ DRC Airtel	10084
 Data Boom and Airtel Money Surge Author	7663
 Data Center Dynamics. Airtel	8852
 Deliveroo and Air France. The Government	3394
+Desert Air	12378
 Diaspora Advertisement Airtel Africa Foundation	5802
 Dr. António Agostinho Neto International Airport	4275
 E G Airtel Vodafone Tigo MTN	236
@@ -394,6 +397,7 @@ Ethiopian Airlines	9531
 FRW MTN Rwanda Ltd Airtel Rwanda	718
 Federal Airport Authority of Nigeria	11951
 Federal Airports Authority of Nigeria	7561
+Filing Guidance Air Cargo Manifest User	12454
 Finance Minister Urges Airtel Uganda	8352
 Financial Management Air Quality	10968
 Fly Net Zero The African Airlines	10723
@@ -419,6 +423,7 @@ International Air Transport Association	9895,465,363
 International Airport	5147
 International Airport Hospital	11986
 International Airport. Schreiber	8137
+International Airports	12376
 International Civil Aviation Air Services Agreement	11185
 Investisseur Air	4567
 Investisseurs Air	4567
@@ -426,7 +431,7 @@ Jomo Kenyatta International Airport	2775,2632,676
 Joyce Onyeagoro Airtel Uganda	7389
 Juba International Airport	261,2424,2,359,86,176,15,119,65,590,447,96,374,93,240,768,696,438,257
 Julius Nyerere International Airport	9014
-Kenneth Kaunda International Airport	5247
+Kenneth Kaunda International Airport	5247,7129
 Kenya Airports Authority. Elle	7530
 Kenya Airways	562,10236
 Kenya. For Airtel	8872
@@ -537,7 +542,9 @@ Saharan Africa. Airtel Africa	6932
 Second Class Air Mail	1220,10756
 Security Airtel Urges Uganda’s Digital Finance	9899
 Seguas Aire Comprimido	8530
+Self Assessment Questionnaire Automation of Air Cargo	12454
 Service des Aire	10876
+Sewage and Air Pollution	12389
 Seychelles. Airtel	786
 Sierra Leone. Airtel Sierra Leone	4189
 Simon Mwansa Kapwepwe International Airport	5247
@@ -578,6 +585,7 @@ UNICEF and Airtel	5802
 Uganda Telkom and Airtel Unique	10822
 University of Buenos Aires	5682
 Unlike Airtel	4442
+User Guidelines for AIR CARGO FREIGHT FORWARDERS	12454
 Vice-Presidente Executivo de Space Systems da Airbus	5405
 Victor Attah International Airport	10229
 Victoria Falls International Airport	1713
@@ -591,6 +599,8 @@ Vodafone and AirtelTigo	582
 Yas and Airtel	6083
 Yet Airtel Money’s Initial Public Offering	8049
 ZTE AIR RAN EnergyTurbo	8112
+Zambia Airport Corporation Limited	12376
+Zambia Airport Corporation Limited. Available	12376
 Zambia Airports Corporation Limited	5247
 Zambia Airports Corporations Limited	5247
 Zambia Airtel Zambia	1195

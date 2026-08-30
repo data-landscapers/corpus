@@ -36,11 +36,14 @@ AVOYA MEDICAL CENTER LIMITED Data Controller	7167
 Abdelatif-Rahal International Conference Center	4168
 Academic Center' Crosswalk	178
 Academic Security Operation Center	11077
+Access Center	12376
+Access Center ZBAN Zambian Business Angel	12376
 Accra’s Kosmos Innovation Center	10841
 Action Center	10763
 Activating Angola’s Emergency Operations Center	10776
 Adetic’s Data Center	5088
-Africa CDD-Ghana Ghana Center for Democratic Development	10759,78,1052
+Adult Literacy Centers	12411
+Africa CDD-Ghana Ghana Center for Democratic Development	10759,78,1052,451
 Africa Center	8947
 Africa Center for Digital Transformation	8748,199
 Africa Center for Disease Control	560
@@ -57,7 +60,8 @@ Africa Tunisia Targets Data Centers	3768
 Africa. Centenary	6311
 African Academic Security Operation Center	11077
 African Actors of Data Center Association	10077
-African Center for Economic Transformation	8042
+African Center for Economic Transformation	8042,4287
+African Center for Economic Transformation Photos	12329
 African Center for Equitable Development	10852
 African Center for Media Excellence	1738
 African Center for Research	3228,2653
@@ -69,6 +73,7 @@ African Population and Health Research Center Data	7167
 African Union Conference Center and Office Complex	6003
 Africa’s AI Data Center Boom	6735,200
 Africa’s Center for Disease Control In Burundi	10865
+Afrisource Innovation Center Afrisource Innovation Center	12450
 Al-HAMEED MEDICAL CENTER LIMITED Data Controller	7167
 Al-Qantara Center Concludes Entrepreneurship Program	5322
 Algeria Opens Dual Data Center Infrastructure	7127
@@ -78,7 +83,8 @@ American. The Belfer Center	6471
 Angola. Um Data Center	5954
 Angolan National Data Center	6636
 Angola’s Emergency Operations Center	10776
-Annual Commercial Data Center Revenue	10781
+Annual Commercial Data Center Revenue	10781,1646
+Antiretroviral Therapy CDC Centers for Disease Control	12379
 Any Huduma Center	12209
 Aon’s Data Center Lifecycle Insurance Program	11310
 Applied Innovation Center	7537
@@ -134,8 +140,8 @@ CASI Integrated Social Action Center	10768
 CCTA Talatona Convention Center	6628
 CD Communicable Diseases CDC Center for Disease	12151
 CDC Center for Disease Control and Prevetion CPU	34
-CDD-Ghana Ghana Center for Democratic Development	11887,266,1,9
-CDD-Ghana Ghana Center for Democratic Development UNU-WIDER	10835,3,130,902,16
+CDD-Ghana Ghana Center for Democratic Development	11887,266,1,9,178
+CDD-Ghana Ghana Center for Democratic Development UNU-WIDER	10835,3,130,902,16,466,1
 CENTENARY MICRO ENTERPRISE SERVICES LIMITED Data	7167
 CENTER BUILD	10861
 CENTER BUILD ASSESSING AFRICAN DATA CENTER	10861
@@ -145,7 +151,7 @@ CENTER BUILD DATA PRIVACY REGULATORY ENVIRONMENT	10861
 CENTER CAPACITY REQUIREMENTS	10861
 CENTER FOR FAMILY HEALTH RESEARCH	7167
 CENTER FOR INTERNATIONAL HEALTH	7167
-CENTER MARKET BRIEFING	10781
+CENTER MARKET BRIEFING	10781,1646
 CENTER PIPELINE AND OUTLOOK	10861
 CENTER PREPARED FOR HAUS	10861
 CENTER VALUE CHAIN EU	10861
@@ -169,6 +175,7 @@ CURESPRINGS MEDICAL CENTER LIMITED Data Controller	7167
 CUSTOM MEDICAL CENTER LTD Data Processor	7167
 Calabar International Convention Center	12004
 Call Center	235,2581,7934,25,200,1307
+Call Center RISA	12359
 Call Center Service License	762
 Call Center The NTRA	11642
 Call Center for NRB Customer	12241
@@ -210,6 +217,7 @@ Center Digital Government Service	9531
 Center East	12225
 Center For Financial Inclusion	11994
 Center For Investigative Journalism	5247
+Center HIV Human Immunodeficiency Virus ICT	12379
 Center Integration By Samira Njoya	7316
 Center Integration Orange Expands Global Connectivity	6678,209,414,23
 Center Manager of National Integrated Cyberinfrastructure	5439
@@ -226,6 +234,7 @@ Center for Democracy and Human Rights	9288
 Center for Democratic Development	7886
 Center for Democratic Governance	10817
 Center for Digital Public Infrastructure	4675,1025,2749
+Center for Disease Control	12379
 Center for Disease Control Prevent	12138
 Center for Disease Control. As I’m	560
 Center for Doctoral Studies	2422
@@ -238,7 +247,7 @@ Center for Financial Inclusion. Accion	12231
 Center for Financial Information Systems	3058
 Center for Global Development	3782,1918,1035,200,3840,54,481,546
 Center for Global Development Working Paper	1350
-Center for Global Development. Accessed	5700
+Center for Global Development. Accessed	5700,6676
 Center for Health	3005
 Center for Human Rights and Democracy	10841
 Center for Human Rights and Global Justice	1823
@@ -246,7 +255,7 @@ Center for Information and Decision	11969
 Center for Intellectual Property and Information Technology	12210
 Center for International Development	11007
 Center for International Development. PDIA Toolkit	11007
-Center for International Earth Science Information Network	10835,3,130,902,16
+Center for International Earth Science Information Network	10835,3,130,902,16,466,1
 Center for International Governance Innovation	12278
 Center for International Private Enterprise	4750
 Center for Journalism and Liberty	5700
@@ -270,7 +279,7 @@ Centering	5282,3094,2630,44,1040
 Centers	5167,1712,5092
 Centers DGMEC General Directorate for Civil Registry	10812
 Centers for Disease Control	396
-Centers for Disease Control and Prevention	5700,2050,2696,195,1271
+Centers for Disease Control and Prevention	5700,2050,2696,195,1271,467
 Centers of Excellence	1814,10396
 Centers.pdf	689
 Centerstar	7167
@@ -293,9 +302,9 @@ Civic Event Center	2807,4
 Civil Servants Training Center	3604
 Civil Service Agency. The Data Center	5244
 Civil Society Demands Human Rights Centered	7552
-Colo Colocation DC Data Center DIF	10781
+Colo Colocation DC Data Center DIF	10781,1646
 Colocation NDC National Data Center DC	3184,1,1340,6470
-Columbia Center for International Earth Science Information	10759,78,1050,2,264,1,9
+Columbia Center for International Earth Science Information	10759,78,1050,2,264,1,9,177,1
 Command Center	9123
 Communication CEFORE Business Formalities Center CENI	10812
 Community Center	4969
@@ -393,13 +402,17 @@ Digital Infrastructure Monitoring Center	4682
 Digital Infrastructure Supervision Center	4701
 Digital Public Service Centers	3604
 Digital Training Center	5453
-Digital Transformation Center	615,1288,1701,8449
+Digital Transformation Center	615,1288,1701,8449,280
 Digital Transformation Center Kenya	614,6111
 Digital Transformation Centers	1264,1027,6654
 Director of The Urban Center	9528
 Distance Learning Centers	2989
 Distributed Active Archive Center	10794
 Distribution Dispatch Center	1538,1
+District Hospital Health Center	12379
+District Hospital Health Center EMR Only	12379
+District Hospital Health Center Short	12379
+District Hospital Health Center Very	12379
 District Registration Center	12217
 Drone Operations Center	1903
 EAPC Ebenezer Worship Center Data Controller	7167
@@ -422,6 +435,7 @@ Emergency Management and Operations Centers	4301
 Emergency Operation Center PIC Project Implementation	11417
 Emergency Operations Center ENSAN II	10776
 Emirates’ Khazna Data Centers	10861
+Employment Centers and Training	12389
 Employment and Professional Training Centers	11855
 Emtel Data Center	3292
 Epidemiological Data Processing Center	10775
@@ -456,7 +470,7 @@ Global Center for Rehumanizing Democracy. Patrice Habinshuti	11682
 Global Data Center Markets	11310
 Global Engagement Center	528
 Global North. The Georgetown Beeck Center	7921
-Government Data Center	11466,425
+Government Data Center	11466,425,468
 Government Data Center and Cloud	11483
 Government Information and Communication Center	5817
 Government Procurement Media Center IFMIS News	12322
@@ -472,9 +486,9 @@ Harvard Kennedy School Ash Center for Democratic	5700
 Harvard Kennedy School’s Ash Center Policy	5700
 Hassan Allam Digital Infrastructure and Data Center	4496,2182
 HathiTrust Research Center	7313
-Health Center	11653
+Health Center	11653,726
 Health Center Head	977
-Health Centers	10775
+Health Centers	10775,1651
 Health Centers CTID Intermediary Data Processing	10812
 Health Intelligence Center	8815
 High Performance Computing Center	51
@@ -496,7 +510,7 @@ Information Sharing and Analysis Center	6928
 Information System Emergency Operations Center Electronic	4153
 Infrastructure Monitoring Center	4682
 Infrastructure and Data Center Development	12035
-Innovation Centers	11871
+Innovation Centers	11871,530
 Instant and Inclusive Payment System Center of Excellence	2180
 Integrated Social Action Centers	10768,7
 Intelligent Operation Center	5793
@@ -528,6 +542,7 @@ Kansas Water Science Center	12151
 Kenya. The EcoCloud-G42 Mega Data Center	1639
 Khazna Data Center	8045
 Khazna Data Centers. Khazna	1639
+Kigali Collaborative Research Center	12358
 Kigali International Arbitration Center	718
 Kikuyu Center of Excellence Digital Hub	10668
 Konza National Data Center	5793
@@ -589,7 +604,7 @@ National Cybersecurity Operations Center	11464,211
 National Data Cente	483
 National Data Center	1694,533,573,609,1139,377,319,1392,274,406,3545,605,401,24
 National Data Center Construction	2800
-National Data Center OEM Original Equipment	10781
+National Data Center OEM Original Equipment	10781,1646
 National Data Center Strengthens Digital Capacity	11466
 National Data Center The National	5244
 National Data Center Within	5407,676
@@ -730,15 +745,18 @@ Tier I Data Center	9123
 Tier II Data Center	9123
 Tier III Data Center	3959,5164
 Tier IV Data Center	9123
-Tinkhundla Centers	6539
+Tinkhundla Centers	6539,5887
 Togo Data Center Market Briefing	3156
 Togo Data Center Market Briefing Companion	3156
 Townsend’s Data Center Cost Index	6266
 Training Center	3558
+Training Center Manager	12403
+Training Center ZIZABONA Zimbabwe	12399
 Training and Qualification Center	2807,4
 Transmission Dispatch Center	1538,1
 Transmission Dispatch Center and SCADA Upgrades	1539
 Tunisia Targets Data Centers As Key	3768
+U.S. Centers for Disease Control	12334
 U.S. Centers for Disease Control and Prevention	10641
 UEM Data Center	9225
 UNCTAD Data Center	10844
@@ -762,11 +780,13 @@ WEST AFRICAN DATA CENTER MARKET	10861
 West Africa Data Center Markets	10861
 West Africa Data Center Markets Brief	4428
 Wh. XALAM DATA CENTER MARKET BRIEFING	3185
+Windhoek Vocational Training Center	12399
+Women's Entrepreneurial Access Center	12376
 World Bank and International Center for Research	12188
 World Bank-UNHCR Joint Data Center	10841
 World Data Centers Day	2918
 XALAM DATA CENTER MARKET BRIEFING	3184,1,1340,6256,214
-Yale Yale Center for Environmental Law	10759,76,2,1,130,902,16,1,2,264,1,9
+Yale Yale Center for Environmental Law	10759,76,2,1,130,902,16,1,2,264,1,9,177,1,11,1
 Yaoundé du Cameroon Digital Innovation Center	2695
 Youth Development Center Data Controller INST-44582650E8E	7167
 Youth Technology Centers	1264

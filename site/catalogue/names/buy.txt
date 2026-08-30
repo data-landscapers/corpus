@@ -23,7 +23,7 @@ Buyer Profile Figure	4972
 Buyer Region	4972
 Buyer's Credit	192,36,1,269
 Buyers	2775,1159,193,4423,120,1080,2086
-Buying	6441,2346,332,308,40
+Buying	6441,2346,332,308,40,2915
 Buyiselwa	11260
 Buyoya	11691
 Buypass ID	10714
@@ -38,10 +38,15 @@ Kisumu West MP Rozzah Buyu	2742
 M-PESA Buy Goods	8714,128,155
 M-PESA Buy Goods Kadogo	8842
 M-Pesa Buy Goods	8714
+Management Buyouts	12376
 Maputo. Buyer	11619
+Modified Single Buyer	12399
+Modified Single Buyer MV Medium Voltage	12399
 Ms Buyu. Dr Kipsang	2742
 Preferential Export Buyer's Credit. Previous Madagascar	480
+Rurembo Kageyo Buyoga Gisenyi Rubavu Janja	12413
 Should You Buy Starlink	5874
+Single Buyer	12399
 Strategic Engagements and Institutional Buy-In	12241
 Tenant Households Preferred Dwelling Units for Buying	2775
 Trade Buyers PE	4972

@@ -1,4 +1,5 @@
 AGRÉMENT ET ENREGISTREMENT Section	10836
+Adult Education Enrollment	12411
 Anip. Enregistrant	4812
 Antsimondrano. Enrolment	4789
 Assess Enrol EXAMPLE AI-enabled	11156
@@ -19,8 +20,8 @@ Déploiement du Desk ENR	1993
 ENR Sector	29
 ENROL	11156
 ENROLLMENT	12146
-Education Education Enrolment Education Completion Human	10837,1315
-Education Enrolment	10759,76,2,1,130,902,16,1,1,1,264,1,9
+Education Education Enrolment Education Completion Human	10837,1315,188
+Education Enrolment	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1
 Enregistre	10876
 Enregistrement	7993,1675,486,393,329,26,1042
 Enregistrement Cadastral	10876
@@ -40,21 +41,27 @@ Enrichissant	8891
 Enrichissement Illicite ONU Organisation des Nations Unies	6959
 Enrico Bagnasco	3342
 Enrique	4209
-Enroll	2604,8161,10
-Enrolled	11006,498
+Enriquez	12333
+Enroll	2604,8161,10,1678
+Enrolled	11006,498,936
 Enrolling	571,4877,5685,791
-Enrollment	2775,1260,931,2163,467,3216,27,641,387
+Enrollment	2775,1260,931,2163,467,3216,27,641,387,460,2,82
+Enrollment The Gender Parity Index	12411
 Enrollment and Service Provision	12146
 Enrollment for Digital ID	10153
 Enrollments	4291,6521
-Enrolment	1525,1250,2191,608,1648,1906,1691,1105,123,152
+Enrolment	1525,1250,2191,608,1648,1906,1691,1105,123,152,157
+Enrolment Education	12356
 Enrolment Infrastructure	11774
 Enrolment of Female Learners	2775
 Enrolment of Learners	2775
 Enrolment of Male Learners	2775
+Enrolment of Students	12411
 Enrôlement	1187,1278,2276,1353
 Enrôlement du Président	3337,4,1472,2351
 FCFA Gross Domestic Product Gross Enrollment	11905
+General and Professional Secondary Education Enrollment	12411
+Gross Enrollment Rate	12411
 Gross Enrolment Rate	12175,24
 Gross Enrolment Rate GESD	12175
 Gross Enrolment Rates for ECD	12175
@@ -62,6 +69,7 @@ Gustave Enrichir	5022
 Health Sciences’ Students Enrolment	2775
 Higher Education Enrolment	12199
 IDENTITY ENROLMENT AND BIOMETRIC CAPTURE	12047
+Learner Enrollment	12411
 Local Government’s National ID Enrolment	11857
 MASS ENROLMENT	1920
 MASS ENROLMENT AND RENEWAL EXERCISE	1920
@@ -70,19 +78,25 @@ Mass Enrolment and Renewal Exercise	1920,7466
 NDPA. Enrolment	9670
 NIMC Enrols	7141
 NIMC Intensifies Ward-Level NIN Enrolment Nationwide	5284
+Net Enrollment Rate	12411
+Net Enrollment Rates	12411
 Net Enrolment Rate	12175,24
 Net Enrolment Rates NESIP	12175
 Net Enrolment Ratio	12175
 Nigerian Government Intensifies National Identity Enrolment	7141,3
 OBJET DE LA REQUETE Enregistrement	10821
 Platform Enrolment	4528
+Pre-Primary Education Enrollment Rates	12411
 Pre-enrollment and Enrollment	6343
+Primary Education Enrollment Rates	12411
 Primary and Junior School Enrolment	2775
 Public Services for Women Education Enrolment Public	10759
 Pupil Enrolment and Number of Teachers	2775
 Registre du Courrier Enregistrement	10975
 STEM Education and Enrolment	11140
 Saisines Enregistrées Dossiers	10975
+Secondary Education Enrollment Rates	12411
+Services. Enrolment	12359
 Tailored Enrollment	11987
 Teacher Trainees Enrolment	2775
 UPDATE OF MASS ENROLMENT EXERCISE	1920

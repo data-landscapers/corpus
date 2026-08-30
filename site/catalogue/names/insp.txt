@@ -1,3 +1,4 @@
+Absence of Pre-Shipment Inspections	12389
 Acción Inspectora	9543
 Actividade Inspectiva	11452
 Actualización PE C2 INDUSTRIA INSPECCION ANUAL	4209
@@ -115,11 +116,14 @@ INSPECTIVA	11452
 INSPECTOR GENERAL DE SERVICIOS	4209
 INSPECTOR REGIONAL MINISTERIO	4209
 INVESTIGATION INTO AFFAIRS OF COMPANY Inspection	3714
+Implementation of Inspections for Electricity Connections	12389
+Implementation of Inspections for Water Connections	12389
 Independent Software Inspectors UGO AMADI	8424
 Inspeccionar	167
 Inspección	163
 Inspecctor General Servicios Servicio	4209
 Inspect	6423,2257
+Inspect ICS	12358
 Inspected Studios	6946
 Inspecteur	2966,78,1545,1318,982,781,564,3,32,52,1544,536,446,878
 Inspecteur Général des Services	3191
@@ -128,7 +132,7 @@ Inspecteur des Finances	8269
 Inspecteur des Impôts	8269
 Inspecteurs Contrôleurs	11676
 Inspecteurs Contrôleurs Fiscaux	11676
-Inspection	3,733,2978,455,791,118,39,6,784,483,967,880,32,1586,269,277,475,305,415,657
+Inspection	3,733,2978,455,791,118,39,6,784,483,967,880,32,1586,269,277,475,305,415,657,105
 Inspection EDO	12253
 Inspection Generale	8651,1473
 Inspection Générale	557,8193,1374,1781
@@ -138,6 +142,7 @@ Inspection Information	12253
 Inspection PPPC	12253
 Inspection PPPC Quarterly	12253
 Inspection Panel	1264,20,583,1022,715,2935,4229,61,135,453,108,330,50,60
+Inspection Regimes	12389
 Inspection Treat	12253
 Inspection and Evaluation	7538
 Inspection and Follow-Up Department	3310
@@ -147,7 +152,7 @@ Inspection des Services des Impôts	10978
 Inspection of Contractor	12253
 Inspection of Ministry	12253
 Inspection of Site Monthly	12253
-Inspections	718,1270,3180,5608,1477
+Inspections	718,1270,3180,5608,1477,136
 Inspections PPPC	12253
 Inspections PPPC During Construction E-Government	12253
 Inspections Site	1988
@@ -213,6 +218,7 @@ Inspeção Judicial	2054
 Inspeção de Materiais Proibidos	11898
 Inspeções	11898
 Inspirado	8760
+Inspire Women	12336
 Inspired	3006,1077,277,1210,3794,1477,705,669
 Inspired Evolution Evolution II Fund	704,1
 Inspiring Change	11332
@@ -229,6 +235,7 @@ Jurisdicción Militar Inspector Regional Ministerio Jefe	4209
 Kenya Plant Health Inspectorate Service	10313
 Kenya Plant Health Inspectorate Services	10313
 Kenya Plant Inspectorate Services	10313
+Labor Inspectorates	12389
 Liderança Inspiradora Líderes	2816
 Luminosos INDUSTRIA INSPECCION ANUAL	4209
 Luminosos INDUSTRIA INSPECCION ANUAL CULTURA LICENCIA	4209
@@ -238,6 +245,7 @@ MPs. The Inspector General	12310
 Metro Inspection Services	6683
 Ministerio Inspector Regional Ministerio Juez Distrito	4209
 Modern Security and Food Inspection	2837,989,15,690,99,50,66,65,38,415,53,275,183,129,44,409,340
+Motor Vehicle Inspection	12333
 NIC. Inspired	10822
 National Inspectorate of Economic Activities	12161
 Normas da Actividade Inspectiva	11452
@@ -246,6 +254,8 @@ Number of Inspection E-Government Monthly	12253
 Number of Radio Communication Installations Inspected	6946
 O Inspector	11452
 O Inspector-Geral da Administração	11452
+ONLINE INSPECTION OF THE PROVISIONAL REGISTER	12465
+Online Inspection	12465
 PART VIII INSPECTORATE	2727
 PE INDUSTRIA INSPECCION ANUAL INDUSTRIA INFORMACIÓN	4209
 PE INDUSTRIA INSPECCION ANUAL INFORMACIÓN Rótulos	4209
@@ -256,6 +266,7 @@ Painel de InspecçãoInspeção Independente	11898
 Part B Inspection	11181
 Periodic Audits and Inspections Periodic	5665
 Periodicidade da Actividade Inspectiva	11452
+Physical Inspection	12465
 Planeamento da Actividade Inspectiva	11452
 Plano Estratégico da Inspecção-Geral da Administração	11452
 Plans Modern Security and Food Inspection	2837,989,15,690,99,50,66,65,38,415,53,275,183,129,44,409,340
@@ -277,11 +288,13 @@ Regulamento da Actividade Inspectiva da Administração	11452
 Regulatory Inspection	10776
 Remote Vehicle Damage Inspection and Assessment	9417
 Report IPF General Inspectorate of Finance	3604
+Requirement of Final Inspection	12389
 SECÇÃO I PRINCÍPIOS E ACTIVIDADE INSPECTIVA	11452
 SECÇÃO I PROCEDIMENTOS INSPECTIVOS E PROCESSOS	11452
 SECÇÃO III ACTIVIDADES INSPECTIVAS	11452
 SECÇÃO III INSPECTOR DA IGAE	11452
 SECÇÃO IV RELATÓRIOS INSPECTIVOS	11452
+Safety and Health Inspection	12389
 Sargento de Primera Inspector de Tercera Sargento Cabo	4209
 Savings CHAPTER XI1 CYBER INSPECTORS Appointment	11179
 Survey and Inspection	1000
@@ -292,6 +305,7 @@ Tercera Brigada Jefe Inspector	4209
 Through the OECD-UNDP Tax Inspectors Without Borders	11356
 Tipo de Materiais Proibidos Inspecionados	11898
 Togo Koffi KOUGBLENOU Inspecteur Central du Tésor	10708
+Type of Inspections Carried Out During Construction	12389
 USAID. USAID Office of Inspector General Follow-Up	3583
 Vehicle Inspection Department	8639,755,3
 World Bank Inspection Panel	10829,135,561,330

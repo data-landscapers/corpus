@@ -166,7 +166,7 @@ Dia da Criança	10753
 Diaba-Nuhoho	12090
 Diaba-Nuhoho and Amponsah-Offeh	12090
 Diabaté	5739
-Diabetes	12151
+Diabetes	12151,262
 Diabetes Every	12151
 Diabetes Kidney	12151
 Diabetes Respiratory	12151
@@ -180,7 +180,7 @@ Diagnose	6832
 Diagnosing Readiness Gaps and Country Archetypes	2957
 Diagnosis	9075
 Diagnosis Approach	10881
-Diagnostic	1155,597,987,996,467,12,2618,1134,925,1297,523,108,22,290,9,438,430,35,198
+Diagnostic	1155,597,987,996,467,12,2618,1134,925,1297,523,108,22,290,9,438,430,35,198,158
 Diagnostic Accuracy	4528
 Diagnostic Approach	10881
 Diagnostic Assessment Tool Tax Audit Quality	12225
@@ -235,11 +235,12 @@ Dialgaye	10875
 Diallo	766,2409,4711
 Dialo Ssekidde	9781
 Dialogo	12169
-Dialogue	789,890,2753,1053,1474,1,78,65,19,198,474,49,43,257,94,654,396,55,468,1054,274,659
+Dialogue	789,890,2753,1053,1474,1,78,65,19,198,474,49,43,257,94,654,396,55,468,1054,274,659,570
 Dialogue Facility	789
 Dialogue Facility Culture	789
 Dialogue. Thank	7103
 Dialogues	3596,7268
+Dialysis	12421
 Diama Djigui	7896,6
 Diamantino Pedro Azevedo	11405
 Diameter	5677,5044
@@ -274,6 +275,7 @@ Diana Nyakundi	8473
 Diana Parra Silva	10714
 Diana Sang	6668
 Diana Sey of AFS International Exchange Program	7696
+Diana Somses	12336
 Diana-Sang-110x150.jpg	6668
 Diane Coyle	4429
 Diane Karusisi	8292
@@ -286,6 +288,7 @@ Dianne Hubbard	1659
 Diante	2816,2204,1200,5167,6,169
 Diantini	11006
 Diapangou	10875
+Diapers	12373
 Diapoulis G	9739
 Diarra	1806
 Diarreia	10777
@@ -293,14 +296,15 @@ Diarreias	966
 Diarreicas Agudas	4209
 Diarrhea	10780,49,1322
 Diarrhea Anaemia	12151
-Diarrheal	10768
+Diarrheal	10768,1645
 Diarrhoea	21,12130
+Diarrhoeal	12413
 Diarrhée	737
 Diary	8460
 Dias Afrinet	11412
 Dias Santos	11955
 Diasonama	10032,196
-Diaspora	1247,1594,18,537,36,694,402,197,171,9,577,251,69,317,183,635,173,350,88,250,45,349,762,333,55,274,1200,149,171,585,142,76,262
+Diaspora	1247,1594,18,537,36,694,402,197,171,9,577,251,69,317,183,635,173,350,88,250,45,349,762,333,55,274,1200,149,171,585,142,76,262,171
 Diaspora AI Advisory Group	4528
 Diaspora Advanced Health Programme	7895
 Diaspora Advertisement Airtel Africa Foundation	5802
@@ -331,10 +335,12 @@ Diaspora Starting	1882
 Diaspora Studio	2577
 Diaspora and Academia	11863
 Diaspora-led	6947
+Diaz and Cerim Wind Parks US	12399
 Diaz-Garcia and Carvalho	7790
 Digital Economy Country Diagnostic	1751,9794
 Digital Economy Country Diagnostic for Equatorial	1751
 Digital Economy Diagnostic	1002,714,1107,8729
+Digital Economy Diagnostic Report for Zambia	12453
 Digital Economy Diagnostic for Malawi. Washington	12214
 Digital Economy Diagnostics	6539,5013
 Digital Economy for Africa Country Diagnostic	9759
@@ -350,6 +356,7 @@ Djiba Diakité	3540,496
 Djibouti Digital Economy Diagnosis	3153
 Djibril Diaw	7796
 Doenças Diarreicas	10777
+Dr. Diane Gashumba	12338
 Dr. Mabouba Diagne	2335
 Dr. Reetika Khera and Diana Gichengo	3005
 Draft Sierra Leone AI Readiness Diagnostic	6380
@@ -365,13 +372,17 @@ EU AI Regulatory Dialogue	6189
 EU-Nigeria Ministerial Dialogue	5499,4
 Ecobank-JoyNews Business Financial Dialogue	9075
 Ecobank-JoyNews Business Financial Dialogue. Where the Forum	9075
+Ecosystem Diamond	12376
 EdTech Mondays Dialogue	5606
+Edith MUGISHA Diamond UMUTESI Bernice MUGISHA	12445
 Elena Dia	7106
 Elvino Dias	12201
 Elvino Dias and PODEMOS	12201
 Elvino Dias and Paulo Guambe	12201
 Elvino Dias and Paulo Guambe. Mais Integridade	12201
 Encada Fernando Dias	11544
+End. Diagram	12367
+Energy Access Diagnostic Report	12376
 Energy Access Diagnostic Report Based	423
 Equatorial Guinea Digital Economy Diagnostic	1716
 Erinna Corinne DIA	2966
@@ -412,7 +423,8 @@ Hamidou Dia de Google	2442
 HausaNLP's DialectBridge	9929
 Healthcare AI. Diagnostics. Clinical	6214
 Helder Dias	6595
-High-Level Policy Dialogue	5825
+High-Level Policy Dialogue	5825,6636
+High-Level Policy Dialogue Stark	12461
 High-level Policy Dialogue. Date	5328
 Hotel Diamante	10442
 Human Rights Dialogue	11210
@@ -424,6 +436,7 @@ ID4D Diagnostic and ID Enabling Environment Assessment	10819
 ID4D Diagnostic of ID Systems	442,957
 ID4D Diagnostics	11867
 III. DIAGNÓSTICO DA SITUAÇÃO ACTUAL Nos	10772
+IPP Diaz	12399
 ISEP Diamniadio	698
 ISEP Diamniadio. Supports	698
 Ibrahim Manzo DIALLO	10615
@@ -461,6 +474,7 @@ Le Diagnostic	1679
 Leadership Dialogue	6963
 Les Confidences De Pape Cheikh Diallo	4960,62,2035
 Les Larmes De Pape Cheikh Diallo	4960,62,2035
+Level Policy Dialogue. Persons	12461
 Liberia ID4D Country Diagnostic	108
 Local Community Immersion and Advocacy Dialogue	9760
 Lomé Dialogue	10864,56
@@ -591,6 +605,7 @@ Rapid Diagnostic	2659,1555
 Rapid Diagnostic Copyright	4214
 Rapid Diagnostic Test	1824
 Rare Disease Diagnosis	10188
+Relationship Diagram	12360
 Relatório de Diagnóstico	11442,6,8
 Relatório de Diagnóstico Integrado	11451
 Relatório de Diagnóstico Jurídico Institucional	11456
@@ -620,6 +635,7 @@ Souleymane Diallo	2582
 Souleymane Diarrassouba	2453,3996
 South Sudan ID4D Country Diagnostic	7644
 Sr. Diamantino Gomes Barai. A CNE	11561
+Stakeholder Dialogues	12399
 State Department for Diaspora Affairs	5160
 State Department for Diaspora Affairs Principal Secretary	9738
 State Dept for Diaspora Affairs. Kenyans	5160
@@ -667,7 +683,7 @@ WB Digital Economy Diagnostic	1809
 Western Cape Transport Dialogue	11494
 Women’s Dialogue	11193
 World Bank Digital Diagnostic for Nigeria	11857
-World Bank Digital Economy Diagnostic	1809,2494
+World Bank Digital Economy Diagnostic	1809,2494,8150
 World Bank Group’s Strategic Country Diagnostic	10964
 World Bank Ousmane Diagana Mathew A	11468
 World Bank Systematic Country Diagnostic	3456
@@ -677,3 +693,4 @@ World Population Day High-Level Dialogue	7749
 World Trade Organisation.1.1.3. A National Dialogue	2626
 Yacouba Diallo	11581
 Youssouf DIALLO	7670
+Zambia. The Global Urban Economic Dialogue	12369

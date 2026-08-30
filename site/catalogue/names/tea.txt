@@ -21,6 +21,7 @@ Aissata Coulibaly Task Team Leader	11924
 Alignment Team Lead	9592
 Alphonsus Nji T Achomuma Team Member	1284
 Ananda Marga Universal Relief Team	7167
+Approval Task Team Leader	12412,14
 Area and Average Yield of Tea	2775
 Arthur Davison Children’s Hospital and Kitwe Teaching	7384
 Asia Pacific Computer Emergency Response Team	10764
@@ -52,6 +53,7 @@ COAST GENERAL TEACHING	7167
 COMPOSITION OF TH E TECHNICAL TEAM	11862
 COMPOSITION OF THE TECHNICAL TEAM	11862
 COMPUTER EMERGENCY RESPONSE TEAM OF MAURITIUS	783
+CRVS Core Technical Team	12338
 CSIRT Computer Security Incident Response Team	6936
 Cabo Verde Management Team	11863
 Capacity Building of Teachers	7405
@@ -70,7 +72,7 @@ Computer Emergency Response Team SOC Security	1000
 Computer Emergency Response Team of Mauritius	783
 Computer Emergency Response Teams	395,5137,145,5087,147
 Computer Incidence Response Team	958
-Computer Incident Response Team	4693,10,61,2081,2588,1701
+Computer Incident Response Team	4693,10,61,2081,2588,1701,1261,58
 Computer Incident Response Teams	11920
 Computer Security Incident Response Team	1200,28,549,1817,249,44,766,1886,5622
 Computer Security Incident Response Team CERT	1000
@@ -80,12 +82,14 @@ Conditions PROJECT TEAM Bank Staff Name	11525
 Continuous Automated Red Teaming	10721
 Continuous Training of Teachers	11860
 Contributors Task Team	11188
+Core Technical Team Quarter	12413
 Counsel Oounsel LEGEN Extended Team Name	11525
 Country Product Line Team Leader	1284
 County Health Management Teams	12143
 Crisis Management Team	11134
 Cyber Incident Response Team	1877,1727
-Cyber Security Incident Response Team	11955
+Cyber Security Incident Reporting Team	12364
+Cyber Security Incident Response Team	11955,471
 Cybersecurity Incident Response Team	6539,2161
 Cybersecurity Incident Response Team COMESA Common	6539
 Cybersecurity Teams and Capabilities. Finance	1777
@@ -116,6 +120,7 @@ District Health Management Teams	12240
 District Health Management Teams. Citeseer	1261
 Djibrilla Karamoko Team Member Sariette Jene	11924
 Drafting Team	8047
+EA Team	12359
 EAEG2 Maureen P. Blassou Team Member	1284
 EAEG2 Michele Sandrine Team Member AEMBI	1284
 EDITORIAL TEAM	2668
@@ -153,15 +158,18 @@ Education. Teachers	11918
 Emergency Response Team	587,10277
 Emergency Response Teams	318
 Emma Mercedes Task Team Leader	10768
+Enhancing Teacher Training	12411
 Environment Unit Team Leader Sameer Khudaroo	11332
 Eskom Restructuring Task Team	8599
 Establishment of LTA Computer Emergency Response Team	4610
 European Union and Team Europe	11985
+Evaluation Team	12356
 Expert Task Team	5246
 FIRST. Teams	1777
 Federal Democratic Republic of Ethiopia. Task Team	10832
 Federal Government Constituted Presidential Advisory Team	10
 Festival Nacional de Teatro de Guinea Ecuatorial	4209
+Finance CFI Computer Incident Response Team	12444
 Finance Team Manager Ato Fitsum Haile	12195
 Forum for Incident Response and Security Teams	5780
 Forum of Incident Response and Security Teams	1264,513,3900,5087,147
@@ -178,6 +186,9 @@ Google Teachable Machine	2816
 Governance Team Leader Julius Coredo and Project	8094
 Government Addressing Team	11129
 Government Digital Service Team	583,1512,9913
+Government Standards Task Team	12360
+Government-wide Computer Incident Response Team	12453
+Governmentwide Computer Incident Response Team	12453
 Grabouw Wynberg Schemanshoek Khayelitsha Mobile Teams	8999
 Guidelines for Task Teams	2677
 Guides Learning and Teaching Support Materials Examinations	11241
@@ -280,7 +291,7 @@ Member Darren Danielle Minu Samba Team	11924
 Member IDD04 Claudia Cardelli Team Member	1284
 Member Khurshid Banu Noorwalla Team Member	11924
 Mental Health Art Competition Organizing Team	10776
-Microsoft Teams	2093,320,261,5929,1499,707,431
+Microsoft Teams	2093,320,261,5929,1499,707,431,1155
 Microsoft Teams Tender	10102,707
 Microsoft Teams and Google	12006
 Microsoft Teams and Zoom	9304
@@ -302,12 +313,15 @@ NAMIBIA CYBER SECURITY INCIDENTS RESPONSE TEAM	3336
 NCC's Computer Security Incident Response Team	5677
 NCC’s Computer Security Incident Response Team	5308
 NIRA Teams	1920
+NISR ABAYISENGA Claudine FIELD TEAM LEADERS	12445
+NISR MEMBERS OF TECHNICAL TEAM SIBOMANA	12445
 NRB Civic Education Team	12241
 NTI National Teachers' Institute	11860
 Naira Helpdesk Team	11861
 Najat Yamouri Team Member Citizen Engagement	11525
+Namibia Computer Incident Response Team	12459
 Namibia Cyber Security Incidence Response Team	1870
-Namibia Cyber Security Incident Response Team	2230,1180,663,2692,862,114
+Namibia Cyber Security Incident Response Team	2230,1180,663,2692,862,114,4718
 Namibia's National Cybersecurity Incident Response Team	9562
 National Computer Emergency Response Team	587,8720,656,213,2056
 National Computer Emergency Response Team. Functions	587
@@ -347,7 +361,10 @@ PROJECT MANAGEMENT TEAM PPE	12253
 PROJECT TEAM Bank Staff Name Role	1284
 Paradigm Initiative Equips Lagos Teachers	7564
 Parent Teacher Association	11860
+Parent Teacher Associations	12408
 Partech Africa Team	10954
+Partech Africa Team Marie Benrubi	12339
+Partech Africa Team Topline Deals	12339
 Partnerships The UNDP Mauritius Team	11332
 Paul Mboutchouang Team Member Andrea Anna	11924
 Paul Viet-Minh Nguyen Task Team Leaders	3604
@@ -355,6 +372,7 @@ Phalombe Teachers Training College	12241
 Pharmacy Teaching and Learning	8603
 Picture of Mission Team	1778
 Policy Review Teams	7548
+Population Census Team	12413
 Portugal. An INTERPOL Operational Support Team	11325
 Presidential Advisory Team	10
 Presidential Task Team	6832
@@ -373,10 +391,18 @@ Public Primary and Junior School Teachers1	2775
 Public Secondary Schools and Teachers Training Colleges	2775
 Pupil Enrolment and Number of Teachers	2775
 Pupil Teacher Ratio. Reducing PTR	12175
+Pupil-Trained Teacher Ratios	12411
 Putting Teachers	8609
 Quality Foundational Teaching and Learning	12175
 Quality Teaching	11916
 RDGW Team Leader Uyoyo EDOSIO	11863
+RISA EA Team	12359
+RISA EA Team The RISA-EA Team	12359
+RISA Team GoR Digitization Advisory Committee	12359
+RISA-EA Team	12359
+RISA-EA Team Frequency Quarterly	12359
+RISA-EA Team. All	12359
+RISA-EA Team. The RISA EA Team	12359
 Rajesh Kumar Shakya Team Member	1284
 Ramesh Govindaraj Task Team Leaders	11417
 Rapid Response Team	10729
@@ -425,6 +451,7 @@ South Africa Teams Up With Google	5583
 South African Investment Task Team	11185
 South African Joint Technical Team	11185
 Specialization Unit Audrey Anne Alexandra Team	1284
+Standards Task Team	12360
 Startup Success Team	6058
 State Addressing Team	11129
 State-Owned Enterprise Reform Task Team	11131,3
@@ -432,6 +459,7 @@ Strategic Theme Teams	1131
 Strategy Teamwork	11131
 Street Addressing Team	11129
 Stru Team	7283
+Students Welfare Teaching and Learning Research Centres	12361
 Support Team	10765,237
 System Steering Team	6832
 TA Technical Assistance TEI Team Europe	970
@@ -479,25 +507,28 @@ Teacher Learning Circles	12175
 Teacher Learning Circles TLM	12175
 Teacher Management Strategy. Ministry of Education	12175
 Teacher Professional Learning	899
+Teacher Qualification	12411
 Teacher Ratio PSIG	12175
 Teacher Ratio RNE	12175
 Teacher Service Commission	899
 Teacher Trainee Allowance	7695
 Teacher Trainees Enrolment	2775
-Teacher Training	899,2090,1539,3020
+Teacher Training	899,2090,1539,3020,4863
 Teacher Training College	11905
 Teacher Training College TWG	12175
-Teacher Training Colleges	383,6821
+Teacher Training Colleges	383,6821,5207
+Teacher Training Despite	12411
 Teacher Training Institutes	2989,1664
 Teacher Training Institutes Finalize	2989
 Teacher Training Institutes Sign	2989
 Teacher Training Institutes Videoconference	2989
 Teacher Training Institutions	2775,7008
+Teacher Training KBC Knowledge-Based Curriculum NEET	12329
 Teacher Zainab C. Koroma	11651
 Teacher and Head Teacher	899
 Teacher and Health Professionals	1988
 Teacher-related	11860
-Teachers	395,504,1089,787,183,553,72,1155,303,1791,114,2,600,16,873,683,674,253,71,129,33,75,1197,308,45,2,9,2,52,67,47,150
+Teachers	395,504,1089,787,183,553,72,1155,303,1791,114,2,600,16,873,683,674,253,71,129,33,75,1197,308,45,2,9,2,52,67,47,150,95,16
 Teachers Focus Group Discussion	899
 Teachers Kenya Global Partnership for Education Compact	899
 Teachers Service Commission	899,1876,4171
@@ -514,11 +545,13 @@ Teaching	395,1698,3758,2659,3665,23
 Teaching And Learning In Secondary	899
 Teaching Assistants	10541,59
 Teaching Public Service	4429
+Teaching Staff	12411
 Teaching Support Materials	11220,21
 Teaching Vacancies	4261
 Teaching and Learning	8376,752,1227,1572
 Teaching and Learning Material ToC	12175
 Teaching and Learning for All Girls and Boys	12175
+Teaching the CBC	12329
 Teaching-related	12175
 Teadbinle	11152
 Teak Street	3386
@@ -546,6 +579,7 @@ Team Gambia Women Reach Round	10070
 Team HSSP III Health Sector Strategic	12240
 Team Leader	2549,1129,1870,5322,382,196,8,294,119,72
 Team Leader Name Team Leader Erkin	11924
+Team Leader Statistician	12403
 Team Leader for Regional Cooperation	11548
 Team Member Gabriel Njimgye Tekumafor Team	11924
 Team Members Information	775
@@ -553,6 +587,7 @@ Team OPD Open Patient Department RHIS	3791
 Team Red	11153
 Team Relations	11131
 Team SA	432,2194
+Team Story The Outlier Press Sustainability	12339
 Team Structure	8999
 Team Telecom	4676
 Team Wiadze	8384
@@ -570,18 +605,20 @@ TeamEurope. L’égalité	643
 TeamEuropeKenya	842
 TeamHomeAffairs	5533
 Teammate	11134
-Teams	2093,571,325,814,231,2319,145,207,129,1864,1223,97,329,384,45,1,379,153,18
+Teams	2093,571,325,814,231,2319,145,207,129,1864,1223,97,329,384,45,1,379,153,18,1073
 Teams CAC	6432
 Teams FM Financial Management GBV Gender-Based	1264
 Teams South Africa	2626
-Teamwork	2775,1,8355,1192
+Teamwork	2775,1,8355,1192,35,37,50
 Teasers	10480
 Teatro	4209
 Teatro Nacional de Guinea Ecuatorial	4209
 TechCabal Editorial Team	5624
 Technical Implementation Team	11134
+Technical Task Team	12419
 Theme Teams	1131
 Town Team Team	8999
+Trade and Services Statistics Team Leader Email	12445
 Transaction Advisory Team	11248
 Twitter and Tear Gas	2518
 UN Country Team	10346
@@ -607,6 +644,8 @@ World Bank Task Team Leaders	6972
 World Bank's Nagaland Enhancing Classroom Teaching	11918
 World Bank. The AI Teacher Coach	8609
 World Bank’s Digital Transformation Team	10852
+Yadviga Viktorivna Semikolenova. Task Team Leaders	12388
+Zambia Computer Incident Response Team	12453
 Zambia Cyber Incidence Response Team	2727
 Zambia Cyber Incident Response Team	2727
 Zoom and Teams	1778

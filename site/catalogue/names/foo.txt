@@ -24,6 +24,7 @@ BIO FOOD PRODUCTS LIMITED Data Controller	7167
 BIO FOOD PRODUCTS LIMITED Data Processor	7167
 BUA FOODS PLC	11884
 Basic Education for All Agriculture and Food Accelerating	11469
+CIFAR’s Future of Food	12357
 Carbon Footprint of National Compute	4528
 Climatic Shocks and Food Security	10763
 Climatic Shocks and Food Security Figure	10763
@@ -42,12 +43,12 @@ Drug and Food Control Authority	3583
 EAST AFRICAN SEA FOOD LIMITED Data	7167
 ECOWAS Regional Food	6422
 EIT Food	7966
-ENACT ENACT Africa FAO Food and Agriculture	10759,78,1052
+ENACT ENACT Africa FAO Food and Agriculture	10759,78,1052,451
 EUR Good Food Financial	970
 Early Warning System Food and Agriculture Organisation	10763
 Ethiopian Food and Drug Administration	1824,2525
 Ethiopian Food and Drug Authority	10709
-FAO Food and Agriculture Organization	11390,497,266,1,9
+FAO Food and Agriculture Organization	11390,497,266,1,9,178
 FAO Food and Agriculture Organization FDI Foreign	10841
 FLOUR MILLS NIGERIA Food SNoouterc	11884
 FOOD SECURITY BY PROVINCE Data	10763
@@ -62,6 +63,10 @@ Fishing and Food	1940
 Foo Yun Chee	8596
 Foo Yun Chee BRUSSELS	8596
 Food Balance Sheet	2775
+Food Bank	12373,75
+Food Bank The Goal for Zero Deaths	12448
+Food Bank URL	12448
+Food Bank and Marginalised	12448
 Food Basket	6947
 Food Communi-	2775
 Food Communi- Services	2775
@@ -72,10 +77,13 @@ Food Inclusive	970
 Food Insecurity Domestic Food Production	1828
 Food Processing Industry Investigation of Water Tube	1154
 Food Production of Côte	10931
+Food Provision	12373
+Food Provision Beneficiaries	12373
 Food Research Institute	12090
-Food Security	1828,1516,1184,5348,89,192,602,9,67,2,1,130,217,54,93,75,62,401,16,1,1,1,263,1,1,9,31
+Food Security	1828,1516,1184,5348,89,192,602,9,67,2,1,130,217,54,93,75,62,401,16,1,1,1,263,1,1,9,31,146,1,11,1
 Food Security Following	11185
 Food Security Nigeria	11469
+Food Security Pack	12453
 Food Security Programme	7845
 Food Security Project	10841
 Food Security Task Forces	12158
@@ -122,10 +130,10 @@ Foodora	8515
 Foondamate	818,77
 Foot and Mouth Disease	5444
 Foot-and-Mouth Disease	2626,4610,2525
-Football	1876,3203,3805,1109,43
+Football	1876,3203,3805,1109,43,2375
 Football Congo	5079
 Football Shalulile	9779
-Footer	2674
+Footer	2674,9674,1
 Footer Accessibility	10919
 Footer Help Section	11877
 Footnote	1243,1670,1763,1024,4039,1046,129,967,105,316
@@ -187,6 +195,7 @@ Plans Modern Security and Food Inspection	2837,989,15,690,99,50,66,65,38,415,53,
 Plant Genetic Resources for Food and Agriculture JE	11197
 Planting for Food and Jobs	789
 Plastic Coat Footwear and Shoe Photo-Illustration	6517
+Previous Previous Addressing Food Security	12366
 Professional Services Capital Goods Food	4972
 Proof of Delivery Food and Drug Administration	4153
 REGIONAL SERVICE DELIVERY FOOTPRINT	8999
@@ -198,6 +207,7 @@ Retail Footprint With New Shell Station	10151
 Rural Development and Food Production Minister Bruno	6280
 Rwanda Food and Drug Authority	718
 Rwanda Food and Drugs Authority	4167,4134
+Sanitation Provision Food	12373
 Satellite Footprint	10407
 Scientific and Cultural Organization WFP World Food	7548
 Sectoral AI Adoption Framework Agriculture and Food	4528
@@ -205,7 +215,7 @@ Service Data WFP World Food Programme	11133
 Service Delivery Footprint Local Offices	8999
 Services Food	4972
 Small and WFP World Food Programme Medium	12297
-Socioeconomic Inequality Mitigation Decent Housing Food	10837,1315
+Socioeconomic Inequality Mitigation Decent Housing Food	10837,1315,188
 Somalia Acute Food Insecurity and Malnutrition Snapshot	11136
 Sports Football	8884
 Standard Bank Luju Food	4866
@@ -236,7 +246,7 @@ WFP Specialized Nutritious Foods	10841
 WFP World Food Program The World	11560
 WFP World Food Programme Regional Vice	11525
 Warani Food	2851
-World Bank FAO Food and Agriculture Organization	10835,3,130,902,16
+World Bank FAO Food and Agriculture Organization	10835,3,130,902,16,466,1
 World Bank World Food Programme	10763
 World Food Program	969,259,10297,35
 World Food Program WHR Window for Host	10841

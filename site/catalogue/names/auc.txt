@@ -1,10 +1,10 @@
 ACV Auctions. Son	8484
-AFR Afrobarometer AUC African Union Commission	10759,78,1052
+AFR Afrobarometer AUC African Union Commission	10759,78,1052,451
 AI AU African Union AUC African	1814
 ANTIQUE AUCTIONS AGENCIES Data Controller INST-9739624C69E	7167
 ANTIQUE AUCTIONS AGENCIES Data Processor INST-9739624C69E	7167
 ARTCI. Aucun	6810
-AUC African Union Commission	11887,266,1,9
+AUC African Union Commission	11887,266,1,9,178
 AUC Commissioner for ARBE	11283
 AUC Departments	1814
 AUC Director for SEBE	11283
@@ -68,7 +68,9 @@ DRACO AGENCIES AUCTIONEERS Data Processor INST-68415451219	7167
 Dalali Traders Auctioneers Data Controller INST-237497AD619	7167
 Dalali Traders Auctioneers Data Processor INST-237497AD619	7167
 Deputy Secretary of State Christopher Landau and AUC	4787
+E-Reverse Auction Module	12389
 EAGLE EYE AUCTIONEERS Data Processor INST-96173261BCA	7167
+Electronic Auction	12389
 Electronic Auctions Platform	10411
 Ensemble Aucun Primaire Post	737
 FX Auction Meant	10025
@@ -94,7 +96,7 @@ Precedent the AUC Has Already Forgotten	5302
 RFP Wireless Infrastructure for AUC Final	7951
 Ricaud Auckbur	4759
 Région Milieu Aucun SYSCOHADA Cahier	10875
-Scientific and Cultural Organization AUC African Union	10835,3,130,902,16
+Scientific and Cultural Organization AUC African Union	10835,3,130,902,16,466,1
 Secteur Sous- Aucun SYSCOHADA Cahier	10875
 Siasa Climate Change Auctioneer In-pictures	9646
 Spectrum Auctions	5245

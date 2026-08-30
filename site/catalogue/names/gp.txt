@@ -68,7 +68,7 @@ GPE Board	11352,553,2,9
 GPE DRC Compact	11916
 GPE Debt Project	1125
 GPE Government	11905
-GPE KIX	1947,4101,6132,16
+GPE KIX	1947,4101,6132,16,151
 GPE KIX Africa	12196
 GPE KIX and Norad	1017,942
 GPE KIX. Takeaways	4829
@@ -99,7 +99,7 @@ GPS the DRC and Namibia	9399
 GPS-compatible	10983
 GPS-enabled	10427
 GPS. L’utilisation	1984
-GPSDD	1218,7123
+GPSDD	1218,7123,3986
 GPT Cameroon	3235,7765
 GPT Education	7244
 GPT Education Project	4759
@@ -156,7 +156,7 @@ Gov GPT	3465
 Government of Malawi GPE	12175
 Grievance Redress Mechanism GPE Internally Displaced	11905
 I.roMh. Doroh Prof. L. GPrwoaf.nLzu.rGa Ms	1154
-IBRD Fund for Innovative GPG Solutions	11417
+IBRD Fund for Innovative GPG Solutions	11417,971
 IDA and GPE	11905
 Kenya GPS Global Positioning Systems GSM	2775
 Key GPE	11916

@@ -44,6 +44,7 @@ Besides MTN	3184
 Biashara Mtandao	6019
 Biashara Mtandao Nchini	2868,3151
 Biashara Mtandao. Hatua	6019
+Billing Billing TTC MT298 SMT	12364
 Billion MTN	10425
 Board of Directors of MTN Group Limited	7198
 CARE MTAANI SERVICES LIMITED Data Processor	7167
@@ -109,6 +110,7 @@ Ericsson West and Southern Africa Ericsson and MTN	10666
 Ericsson and MTN Complete MoMo Cloud Migration	10666
 Ericsson and MTN Group Fintech	10666
 Estimated MTEF	11986
+Eswatini.net Eswatini Mobile MTN Real	12395
 Eutelsat and MTN Côte	5937,773,799
 Evaluate Strategic Impact of MTN	5067
 Exchange Rates.pdf MTC	1944
@@ -125,6 +127,7 @@ Free MTN-to-MTN	11083
 Full MTRS	10997
 Fund MTRI Information Technology MTRS Large	12225
 G Both MTN and Vodacom	10797
+G MNOs Mobile Network Operators MTN	12395
 G and MTN AirFibre	10793
 G. MTN	5754
 GHz NCC Auction MTN Group	925
@@ -183,6 +186,7 @@ LUNCEDO MTWENTWE	3318,1707,183
 Lagos. MTN Digital Infrastructure	11489
 Launched the MTN Foundation	9103
 Le Programme de Renforcement des Capacités du MTFP	1281
+Licensed Payment Service Providers MTN Fintech	12390
 Licensees Telecom Namibia Powercom MTC Paratus	1944
 Lindi and Mtwara	9590
 Linking the MTEF	11237
@@ -222,6 +226,9 @@ MT West Sub-Saharan Africa	10861
 MT&BT	10975
 MT-based	11960
 MT. IMPRENSA NACIONAL DE MOÇAMBIQUE	576
+MT103 Bank	12364
+MT202 Bank	12364
+MT298 SMT	12364
 MTAESS. Chiffres	8891
 MTBPS	8779,2451
 MTC Cote	4292
@@ -241,6 +248,7 @@ MTC TN Paratus	1944
 MTC Telecom Namibia Company Powercom Paratus	1944
 MTC USD MNO Ranking	1013
 MTC and BoFiNet	9562
+MTC and Leo	12325
 MTC and Paratus	1013
 MTC and TN	1013
 MTC and TN Mobile. MTC	1013
@@ -338,7 +346,9 @@ MTN Digital Infrastructure’s South Sudan	4069
 MTN Dubai	10793
 MTN Dutch Holdings	8025
 MTN Dutch Holdings B.V	5709
-MTN Eswatini	1816,178,4765,4372
+MTN Eswatini	1816,178,4765,4372,1217,47,75
+MTN Eswatini Mobile The Commission	12395
+MTN Eswatini Network Voice Traffic	12395
 MTN Eswatini and Eswatini Mobile	1642,4334
 MTN Executives and SME Partners	9840
 MTN FINCO	11469
@@ -346,7 +356,7 @@ MTN Fairs	11083
 MTN FiberX	11506
 MTN FibreX	5874,1236
 MTN Financials	10425
-MTN Fintech	8025
+MTN Fintech	8025,4318,101
 MTN Foundation	9102,1
 MTN GHANA	6242
 MTN GLO AIRTEL EMTS	3862
@@ -433,7 +443,7 @@ MTN Is Partnering	8111
 MTN Liberia	4285,3331
 MTN Lonestar Cell Mobile Money	4261
 MTN MBB Router Promotion	11259
-MTN MOBILE MONEY	10821
+MTN MOBILE MONEY	10821,1571
 MTN MOBILE MONEY Commune	10821
 MTN Mauritius	10793
 MTN Mauritius Revolving	10793
@@ -454,6 +464,7 @@ MTN MoMo and Nikulipe	3545
 MTN MoMo and Nikulipe Expand Digital Finance	3545
 MTN MoMo. Son	2765
 MTN MoMo’s Senior Manager for Products and Services	3442
+MTN Mobile	12376
 MTN Mobile Money	1537,724,696,693,611,2735,166,537,1067,2057,709
 MTN Mobile Money Company and Airtel Money	10299
 MTN Mobile Money Corporation	6601
@@ -593,7 +604,7 @@ MTN Zakhele Futhi MTN Ghana	10793
 MTN Zakhele Futhi Recognition	10793
 MTN Zakhele Futhi Shareholders	10793
 MTN Zakhele Futhi. Results	10793
-MTN Zambia	1013,1801,2619,1034,2615,1711
+MTN Zambia	1013,1801,2619,1034,2615,1711,1583
 MTN Zambia Syndicated	10793
 MTN and Airtel	1903,569,871,458,4,948,1067,54,834,168,1390,1493,450,652
 MTN and Airtel Africa	4150
@@ -602,6 +613,7 @@ MTN and Canal	4756
 MTN and Cell C	11259
 MTN and DHL	9720
 MTN and Digitel	3442
+MTN and Eswatini Mobile	12395
 MTN and Globacom	6851
 MTN and Huawei	9870
 MTN and Moov	10822
@@ -610,6 +622,7 @@ MTN and Orange Bissau	11550
 MTN and Orange Money	4261
 MTN and Orange. Orange Liberia	7616
 MTN and Rack Centre	3477
+MTN and Real Image Internet	12395
 MTN and Safaricom	6714
 MTN and Telecel	2776,1361,3888
 MTN and Vodacom	2117,2779,3502,2797
@@ -637,6 +650,7 @@ MTN. MTN	9101
 MTN. MTN Uganda	3011
 MTN. Once	9100
 MTN. Operating	9639
+MTN. The OOB	12395
 MTND Decommissioning	3604
 MTND Methodology for Data Collection Biennial	3604
 MTND Methodology for Data Collection Data	3604
@@ -726,6 +740,7 @@ Mbire. MTN	3330
 Media and Content MTEF R1.2bn	5183
 Medium Term Development Plan MTEF Medium	5533
 Medium Term Strategic Framework MTSF Targets	11890
+Message Type TTC Types MT298 SMT	12364
 Migori Kisii Nyamira Narok Kajiado Mt	7869
 Millicom and MTN	4150
 Mkurugenzi Mkuu Mtendaji	6602
@@ -770,6 +785,7 @@ Mtandaoni	2868
 Mtanzania	1921,4098
 Mtare	3274
 Mtawali	12194
+Mtc Namibia	12478
 Mtebe	8856
 Mteja	4364,2886
 Mtenzi	8021
@@ -778,6 +794,7 @@ Mteto Nyati	9769
 Mteto Nyati Chris Hattingh	9769
 Mtetwa	4896
 Mtfongwaneni Member of Parliament	5450
+Mtfupha	12480
 Mthalane	8022
 Mthatha	6353,4856,51
 Mthatha Deeds Registry	11260
@@ -846,6 +863,7 @@ Next Article MTN	5050
 Nigeria. MTN Nigeria	240
 Noloyiso Mtembu	4448
 North Africa MTEF Medium-Term Expenditure Framework	11271
+Nosizo Mtfupha	12480
 Notification Type Cell C MTN Telkom	11259
 Number of MTN	10425
 Nyanza Lower Eastern Mt Kenya	7869
@@ -867,6 +885,7 @@ Orange and MTN Cameroon	3257
 Oshana Oshikoto Otjozondjupa Zambezi Namibia MTC	1013
 Pan-African Payment and Settlement System MTN Ghana	5908,442
 Partnership Requires Regulatory Fairness While MTN	8111
+Payload MTU	12377
 Percentage MTN	2776
 Performance Assessment Tool MTEF Medium Term	11224
 Performance Close Mt Pleasant Business Park	1877
@@ -878,6 +897,7 @@ Promotional MtM FTTH	11259
 Q2 for MTN Uganda	10793
 R281m of MTN	10241
 R888.8m MTEF	5199
+REPORT Eswatini Mobile MTN EPTC	12395
 Red de Distribución de MT	4209
 Regulations. MTN	8841
 Reserves Requirements The MTSAO	11228
@@ -903,6 +923,7 @@ Sipho Mtombeni	5892
 Skills MTN MoMo	10741
 Small Scale Embedded Generation The MTSAO	11228
 Small and Medium Enterprises MTEF Medium Term	1988
+Small and Medium-sized Enterprise Africa MTO Money	12444
 Sophia Mtare	3274
 Sophia Mtare Binga Unicef Zimbabwe	3274
 South Africa MTN	10740

@@ -32,10 +32,10 @@ AFC's State of Africa's Infrastructure Report	5913
 AFCONS AFRICA LIMITED Data Controller INST-86152423F75	7167
 AFD's Choose Africa	7891
 AFE Eastern and Southern Africa AMR Antimicrobial	11417
-AFIDEP African Institute for Development Policy	11887,266,1,9
-AFIDEP African Institute for Development Policy UNDESA	10835,3,130,902,16
-AFR Afrobarometer AUC African Union Commission	10759,78,1052
-AFRICA	65,1,4,1,2,1,2,57,4,3,1,61,1,1,64,4,2,6,1,84,1,1,2,4,1,1,111,1,1,1,2,2,1,160,7,2,1,1,1,3,1,198,3,2,2,1,8,213,2,2,1,4,6,1,4,361,1,4,1,2,1,1,1,2,1,1,1,4,1,5,2,4,231,198,231,1,1,9,4,1,2,2,2,2,2,2,1,1,3,1253,1021,1074,504,484,628,661,22,2969,185,188,204,1,567
+AFIDEP African Institute for Development Policy	11887,266,1,9,178
+AFIDEP African Institute for Development Policy UNDESA	10835,3,130,902,16,466,1
+AFR Afrobarometer AUC African Union Commission	10759,78,1052,451
+AFRICA	65,1,4,1,2,1,2,57,4,3,1,61,1,1,64,4,2,6,1,84,1,1,2,4,1,1,111,1,1,1,2,2,1,160,7,2,1,1,1,3,1,198,3,2,2,1,8,213,2,2,1,4,6,1,4,361,1,4,1,2,1,1,1,2,1,1,1,4,1,5,2,4,231,198,231,1,1,9,4,1,2,2,2,2,2,2,1,1,3,1253,1021,1074,504,484,628,661,22,2969,185,188,204,1,567,375
 AFRICA A XALAM MARKET BRIEF DATA	10861
 AFRICA ABOUT	10977
 AFRICA AI LABS LIMITED Data Controller	7167
@@ -140,6 +140,7 @@ AFRICAN STATES	1177,87
 AFRICAN STATES DES ETATS DE L'AFRIQUE	11517
 AFRICAN STATES HAVE SIGNED THIS SUPPLEMENTARY	11517
 AFRICAN TAX ADMINISTRATION FORUM	3161
+AFRICAN TECH	12339
 AFRICAN TECH FUNDING REBOUNDS TO US	4722
 AFRICAN TECHIS CHARTINGITS OWN DISTINCTCOURSE	10954
 AFRICAN TELECOMMUNICATIONS UNION L'UNION AFRICAINE DES	7074
@@ -201,7 +202,7 @@ AI and Africa	4970
 AI and Africa's Demographic Dividend	2686
 AI and Africa’s Collective	2359,13,87,68,36,30,118,5,38,73,95,11,121,34,20,130,25,37,6,91,61,22,11,33,54,34,36,14,40,26,12,3,1,53,40,95,124,13,13,112,45,4,29,54,220,29,47,10,98,73,98,92,74,21,20,30,170,31,30,91,61,13,2,12,12,47,7,58,2,58,102,75,67,26,56,46,65,1,8,8,1,14,28,62,8,33,16,28,4,8,71,7,18,54,11,5,3,96,47,11,2,12,27,34,3,24,18,34,7,1,30,3,82,57,50,35,3,70,4,171,6,45,2470
 AI and Local Languages Become Part of Africa	8241
-AI for Africa	1814,2145,71,6,90,2106,716,2791
+AI for Africa	1814,2145,71,6,90,2106,716,2791,2617
 AI for Africa Blueprint	1814,2312
 AI for African	7867,1707
 AI for Sub-Saharan Africa	11140
@@ -232,6 +233,7 @@ AMREF HEALTH AFRICA Data Controller INST-1548854BD45	7167
 ANNUAL REPORT Commission for Africa	1554
 AOADC and Digital Parks Africa	8591
 APAI-CRVS Africa Programme	11537
+APAI-CRVS Africa Programme For Accelerated Improvement	12413
 APC's Southern Africa Digital Rights Issue	799
 APERTURE AFRICA PRODUCTIONS LTD Data Controller	7167
 APERTURE AFRICA PRODUCTIONS LTD Data Processor	7167
@@ -262,7 +264,7 @@ AU Digital Transformation Strategy for Africa	542
 AU and Smart Africa	1179
 AU and Smart Africa Alliance	1277
 AU's Common African Position	3583
-AUC African Union Commission	11887,266,1,9
+AUC African Union Commission	11887,266,1,9,178
 AUC and AfricaNenda Foundation	4103
 AUDA-NEPAD Programme for African Developing Island Economies	7795
 AUDA-NEPAD. AI for Africa	6948
@@ -273,6 +275,7 @@ AUTORATES AFRICA LIMITED Data Processor INST-5580625BFCE	7167
 AUXICA AFRICA LIMITED Data Controller INST-945289D5D38	7167
 AUXICA AFRICA LIMITED Data Processor INST-945289D5D38	7167
 AU’s Smart Africa Digital Academy	7921
+AVANDA Fund of Funds and South Africa	12376
 AVCA Africa-Based Investor International Investor	4972
 AVCA Southern Africa	4972
 AVCA and Disrupt Africa	4972
@@ -283,6 +286,7 @@ AWS Africa	1206,1,1,521,5387,94
 AWS South African	1206
 AXIOM MOTORS EAST AFRICA LIMITED Data	7167
 AXMED EAST AFRICA LIMITED Data Controller	7167
+Abbreviations AFENET Africa Epidemiology Network ARV	12379
 Abbreviations CAR Central African Republic CFA	4127
 Abbreviations Term Description ACE Africa Coast	11552
 Abbreviations Term Description ACHPR African Commission	1814
@@ -296,6 +300,7 @@ Abidjan for Francophone West Africa	11175
 Abidjan. Africanews	10841
 About Afreximbank African Export-Import Bank	8149
 About Africa CDC	4782
+About Africa Co Namibia	12478
 About Africa Digital Intelligence	8426
 About Airtel Africa	6932
 About Digicloud Africa	5256
@@ -365,7 +370,7 @@ AfCFTA. About Afreximbank African Export-Import Bank	7785
 AfCFTA. African Central Banks	982
 AfCFTA. The African Trade Policy Centre	10819
 AfDB Africa Information Highway Portal	11863
-AfDB African Development Bank	11887,266,1,9
+AfDB African Development Bank	11887,266,1,9,178
 AfDB African Development Bank AFW World	969
 AfDB African Development Bank AFWRI Country	10841
 AfDB African Development Bank ARR Annual	11380
@@ -392,7 +397,7 @@ AfricInvest's Financial Inclusion Vehicle	501
 AfricInvest-specific	606
 AfricTivistes	9082,119
 AfricTivistes CitizenLabs and Sahel Activistes	9201
-Africa	5,14,7,1,1,8,2,2,2,5,30,13,4,8,18,4,4,1,42,8,7,1,20,18,1,10,4,11,4,11,1,15,3,2,2,4,8,34,9,1,6,1,25,2,16,1,3,8,4,4,17,24,4,2,4,19,5,4,5,12,3,7,2,20,17,2,9,2,5,7,19,1,1,6,8,1,3,36,11,4,1,2,3,1,8,1,15,20,1,2,11,5,8,7,6,1,9,5,8,8,8,14,2,14,10,12,15,20,2,4,1,9,5,30,4,2,9,3,4,4,1,12,3,5,1,8,7,7,6,3,13,1,1,1,4,5,1,6,1,1,4,1,23,5,6,3,22,2,1,15,1,9,1,1,3,5,4,5,2,1,2,2,22,7,1,15,18,2,4,2,1,2,2,11,3,3,81,15,4,19,29,2,2,4,5,6,2,18,13,15,19,4,13,26,3,3,2,6,1,20,1,10,7,39,3,4,2,2,4,7,37,17,3,7,4,1,2,8,2,1,1,1,7,17,9,35,2,2,6,4,4,15,24,2,11,9,1,3,9,1,9,32,5,2,9,17,11,9,24,4,67,25,9,7,17,5,9,25,20,1,1,13,12,1,2,4,4,22,2,6,1,10,3,1,1,1,10,5,1,1,9,9,6,4,9,14,11,1,1,3,2,5,3,21,8,42,30,12,9,8,4,3,1,12,1,1,3,6,3,5,5,5,6,4,3,6,5,4,10,2,3,16,1,7,30,4,9,1,1,1,2,4,1,15,1,5,7,5,4,38,7,3,3,2,14,3,13,2,2,3,2,6,2,2,1,3,1,5,1,1,1,11,15,20,60,3,6,3,16,3,3,3,4,1,1,10,3,5,5,1,1,1,7,13,2,2,15,3,2,5,2,2,8,7,7,4,1,2,1,4,2,8,1,1,20,17,1,6,4,1,11,2,9,13,1,15,4,2,3,10,1,5,5,9,2,1,1,4,4,6,2,7,13,8,4,2,9,15,12,2,15,5,1,1,5,4,3,13,3,4,3,33,1,1,1,19,4,10,7,7,3,8,13,8,5,1,1,6,4,1,5,6,1,4,4,7,2,3,4,6,2,2,3,13,2,1,1,4,13,1,1,2,1,4,5,5,18,18,6,10,3,2,17,1,9,5,1,1,2,5,3,8,23,6,8,6,3,5,1,9,1,7,25,5,1,3,5,6,8,3,2,1,1,4,17,3,17,14,2,1,5,5,5,3,2,2,5,5,4,7,2,10,43,6,5,4,8,2,2,9,3,7,2,6,1,5,5,2,6,6,2,1,3,2,2,2,2,3,1,5,18,2,15,4,1,4,4,9,2,1,3,20,10,7,4,5,7,2,3,4,1,5,12,11,6,32,2,4,27,2,9,13,19,1,22,1,1,1,2,3,1,1,4,2,3,2,1,2,1,2,2,6,11,5,3,16,19,2,11,3,15,4,7,1,3,3,2,3,17,7,2,9,1,1,1,1,7,9,4,1,10,14,13,3,3,5,2,1,4,3,5,1,10,3,1,1,2,14,1,1,2,1,8,2,7,7,3,6,4,2,1,2,3,5,6,5,4,4,1,5,5,1,2,15,1,3,1,5,7,3,2,2,8,1,2,3,1,5,8,3,1,3,1,1,4,1,1,5,2,3,4,1,1,1,3,1,6,8,1,1,1,2,3,1,14,3,6,1,2,1,1,1,6,2,2,1,3,2,1,7,5,2,2,2,2,3,21,3,1,4,2,7,12,1,4,1,1,5,1,3,3,1,7,3,8,3,4,5,5,3,9,3,3,9,2,7,6,4,6,2,37,2,1,9,2,1,1,1,1,6,2,4,2,3,1,1,1,1,2,1,2,1,1,1,5,3,1,1,9,1,14,4,1,1,6,4,3,2,9,1,15,3,9,1,5,4,14,1,2,1,1,3,1,6,6,14,2,1,6,3,3,5,1,1,5,6,2,6,1,14,2,5,2,11,6,1,3,1,2,10,1,4,6,5,1,4,1,2,7,5,3,3,2,9,1,14,4,1,11,3,13,1,1,2,1,5,1,3,7,3,1,1,2,2,1,42,5,2,4,1,2,6,11,5,3,7,8,2,1,3,4,1,1,1,6,6,3,12,1,7,5,12,1,8,1,1,1,1,2,4,2,10,1,1,3,11,1,1,2,3,15,5,6,4,2,3,1,1,6,6,11,3,4,1,1,1,1,17,5,1,3,13,4,1,6,1,4,1,2,2,11,2,3,1,9,1,2,10,9,1,2,1,3,12,11,3,1,5,4,5,4,1,3,5,2,6,1,4,1,3,1,6,6,4,9,1,5,1,3,3,8,1,2,2,2,1,14,2,6,6,3,1,1,1,14,2,7,1,1,1,10,1,3,2,1,6,1,11,8,3,1,4,1,3,4,13,1,1,1,4,5,9,3,1,3,10,7,1,5,1,5,4,4,11,5,1,1,1,1,4,9,1,7,1,2,1,4,2,2,2,3,2,1,13,15,5,1,11,9,2,1,1,9,5,2,11,1,3,1,8,1,4,3,1,1,1,4,2,8,3,2,1,2,10,5,2,2,1,1,1,3,3,1,3,4,3,2,8,1,2,7,1,5,23,3,1,1,2,3,1,3,13,8,1,1,7,2,11,1,1,2,10,4,1,6,1,1,1,4,2,9,3,1,13,4,6,5,6,3,11,6,1,1,2,5,1,8,17,7,2,8,6,3,5,4,10,3,2,1,11,4,1,1,1,15,21,1,1,1,2,2,1,8,2,2,2,3,5,1,10,9,3,2,8,4,1,5,2,4,6,13,2,4,2,3,9,13,2,1,1,1,4,1,1,1,6,13,1,2,3,1,2,1,4,3,1,1,6,2,2,6,8,1,1,2,1,2,3,1,4,1,4,1,11,3,2,3,2,2,8,2,10,1,3,1,4,2,15,1,2,1,4,1,8,4,7,1,1,4,2,13,1,6,2,1,1,1,15,2,6,6,3,3,2,3,3,5,1,2,2,4,15,1,3,5,12,1,2,13,10,1,2,12,2,3,1,4,1,4,5,20,5,2,9,2,4,7,4,5,11,1,8,1,3,1,6,6,1,3,6,3,14,3,8,4,1,1,4,5,5,1,2,1,4,1,2,6,2,3,4,12,2,4,1,5,2,11,7,6,9,7,2,5,1,1,1,11,40,4,2,10,22,1,2,6,1,1,3,3,7,17,11,5,12,1,6,7,3,6,3,4,1,2,35,2,5,10,1,3,4,4,2,8,3,2,16,8,8,4,6,1,2,2,3,2,2,1,1,1,1,2,1,7,2,1,1,3,2,2,1,1,3,1,26,5,7,2,17,4,2,4,6,1,1,1,4,1,3,8,1,4,2,1,1,16,7,8,10,2,1,3,3,1,2,2,1,1,1,1,8,3,20,4,2,5,9,1,1,1,1,7,1,2,13,1,1,4,4,1,2,18,8,6,8,2,4,1,2,9,4,1,12,10,19,3,13,5,1,2,1,12,1,3,2,1,15,8,1,6,6,1,8,1,1,1,2,12,17,3,15,3,1,1,1,19,2,1,1,8,8,9,3,2,5,2,16,1,11,4,10,9,2,6,8,1,18,13,6,5,5,12,1,7,6,1,20,3,3,2,5,2,14,12,11,3,7,1,6,9,5,4,4,1,5,1,17,3,3,12,8,5,16,1,1,12,22,10,1,5,19,8,2,1,7,1,4,1,4,1,3,4,4,8,6,2,4,8,4,3,1,1,1,12,3,1,1,2,5,3,5,2,7,2,1,4,8,3,4,1,2,3,1,1,6,6,1,10,5,1,6,3,2,5,2,3,4,12,10,6,8,7,2,8,12,9,1,19,1,4,2,10,12,12,4,1,2,7,9,6,6,1,4,14,17,6,5,4,11,2,8,4,6,5,2,1,6,10,5,4,1,7,1,7,18,1,5,1,8,3,1,8,5,10,1,2,5,14,1,4,4,7,1,6,2,3,1,8,2,1,1,2,3,2,1,18,3,4,4,1,1,6,2,6,4,1,10,4,1,2,1,8,1,1,7,6,1,1,4,15,3,2,4,2,4,16,2,8,1,1,5,1,1,1,6,4,2,3,38,1,10,1,1,2,4,3,1,15,7,2,2,12,11,7,7,11,1,3,3,1,6,2,1,12,5,8,13,5,10,1,6,5,10,17,2,1,2,4,2,1,1,21,25,10,2,1,2,5,2,12,5,2,1,4,7,14,3,3,3,1,3,17,1,7,15,14,3,1,9,5,15,7,15,9,14,1,6,9,8,1,3,12,3,2,12,22,4,6,17,5,4,9,5,17,1,7,17,12,7,3,5,4,3,1,12,2,28,5,3,1,2,6,1,16,3,16,2,3,16,2,4,3,9,14,1,2,3,7,5,7,1,1,2,2,2,1,4,2,2,3,2,2,2,23,1,1,3,7,1,4,1,4,4,1,3,1,2,2,1,2,5,1,9,3,3,7,11,1,3,2,2,8,5,4,22,5,27,12,1,7,10,1,3,1,2,2,5,1,8,4,1,3,3,2,15,2,2,3,4,5,11,14,2,29,5,18,7,12,3,1,1,2,1,5,6,1,1,1,1,1,2,3,6,6,8,4,1,1,6,2,1,5,8,2,2,15,5,6,13,3,2,4,2,9,11,7,2,9,1,4,2,1,2,7,1,1,2,6,8,1,1,7,1,3,3,1,2,1,6,12,1,43,1,6,10,3,4,15,29,1,1,8,11,2,4,1,1,1,2,2,2,1,1,40,3,1,9,4,6,3,9,27,49,8,17,10,43,13,3,13,11,2,15,8,1,7,1,3,3,1,1,2,3,1,8,3,5,5,11,2,6,5,1,1,1,8,4,4,7,3,2,1,2,3,4,2,1,2,3,1,2,2,2,5,6,5,1,5,1,6,11,1,1,1,2,4,4,9,4,4,2,2,2,2,4,11,15,3,7,6,4,3,14,9,10,2,2,12,18,9,2,12,8,1,1,7,1,8,1,1,15,3,1,4,5,5,4,4,7,6,2,3,1,6,3,2,1,1,4,7,8,6,1,1,5,11,8,1,19,1
+Africa	5,14,7,1,1,8,2,2,2,5,30,13,4,8,18,4,4,1,42,8,7,1,20,18,1,10,4,11,4,11,1,15,3,2,2,4,8,34,9,1,6,1,25,2,16,1,3,8,4,4,17,24,4,2,4,19,5,4,5,12,3,7,2,20,17,2,9,2,5,7,19,1,1,6,8,1,3,36,11,4,1,2,3,1,8,1,15,20,1,2,11,5,8,7,6,1,9,5,8,8,8,14,2,14,10,12,15,20,2,4,1,9,5,30,4,2,9,3,4,4,1,12,3,5,1,8,7,7,6,3,13,1,1,1,4,5,1,6,1,1,4,1,23,5,6,3,22,2,1,15,1,9,1,1,3,5,4,5,2,1,2,2,22,7,1,15,18,2,4,2,1,2,2,11,3,3,81,15,4,19,29,2,2,4,5,6,2,18,13,15,19,4,13,26,3,3,2,6,1,20,1,10,7,39,3,4,2,2,4,7,37,17,3,7,4,1,2,8,2,1,1,1,7,17,9,35,2,2,6,4,4,15,24,2,11,9,1,3,9,1,9,32,5,2,9,17,11,9,24,4,67,25,9,7,17,5,9,25,20,1,1,13,12,1,2,4,4,22,2,6,1,10,3,1,1,1,10,5,1,1,9,9,6,4,9,14,11,1,1,3,2,5,3,21,8,42,30,12,9,8,4,3,1,12,1,1,3,6,3,5,5,5,6,4,3,6,5,4,10,2,3,16,1,7,30,4,9,1,1,1,2,4,1,15,1,5,7,5,4,38,7,3,3,2,14,3,13,2,2,3,2,6,2,2,1,3,1,5,1,1,1,11,15,20,60,3,6,3,16,3,3,3,4,1,1,10,3,5,5,1,1,1,7,13,2,2,15,3,2,5,2,2,8,7,7,4,1,2,1,4,2,8,1,1,20,17,1,6,4,1,11,2,9,13,1,15,4,2,3,10,1,5,5,9,2,1,1,4,4,6,2,7,13,8,4,2,9,15,12,2,15,5,1,1,5,4,3,13,3,4,3,33,1,1,1,19,4,10,7,7,3,8,13,8,5,1,1,6,4,1,5,6,1,4,4,7,2,3,4,6,2,2,3,13,2,1,1,4,13,1,1,2,1,4,5,5,18,18,6,10,3,2,17,1,9,5,1,1,2,5,3,8,23,6,8,6,3,5,1,9,1,7,25,5,1,3,5,6,8,3,2,1,1,4,17,3,17,14,2,1,5,5,5,3,2,2,5,5,4,7,2,10,43,6,5,4,8,2,2,9,3,7,2,6,1,5,5,2,6,6,2,1,3,2,2,2,2,3,1,5,18,2,15,4,1,4,4,9,2,1,3,20,10,7,4,5,7,2,3,4,1,5,12,11,6,32,2,4,27,2,9,13,19,1,22,1,1,1,2,3,1,1,4,2,3,2,1,2,1,2,2,6,11,5,3,16,19,2,11,3,15,4,7,1,3,3,2,3,17,7,2,9,1,1,1,1,7,9,4,1,10,14,13,3,3,5,2,1,4,3,5,1,10,3,1,1,2,14,1,1,2,1,8,2,7,7,3,6,4,2,1,2,3,5,6,5,4,4,1,5,5,1,2,15,1,3,1,5,7,3,2,2,8,1,2,3,1,5,8,3,1,3,1,1,4,1,1,5,2,3,4,1,1,1,3,1,6,8,1,1,1,2,3,1,14,3,6,1,2,1,1,1,6,2,2,1,3,2,1,7,5,2,2,2,2,3,21,3,1,4,2,7,12,1,4,1,1,5,1,3,3,1,7,3,8,3,4,5,5,3,9,3,3,9,2,7,6,4,6,2,37,2,1,9,2,1,1,1,1,6,2,4,2,3,1,1,1,1,2,1,2,1,1,1,5,3,1,1,9,1,14,4,1,1,6,4,3,2,9,1,15,3,9,1,5,4,14,1,2,1,1,3,1,6,6,14,2,1,6,3,3,5,1,1,5,6,2,6,1,14,2,5,2,11,6,1,3,1,2,10,1,4,6,5,1,4,1,2,7,5,3,3,2,9,1,14,4,1,11,3,13,1,1,2,1,5,1,3,7,3,1,1,2,2,1,42,5,2,4,1,2,6,11,5,3,7,8,2,1,3,4,1,1,1,6,6,3,12,1,7,5,12,1,8,1,1,1,1,2,4,2,10,1,1,3,11,1,1,2,3,15,5,6,4,2,3,1,1,6,6,11,3,4,1,1,1,1,17,5,1,3,13,4,1,6,1,4,1,2,2,11,2,3,1,9,1,2,10,9,1,2,1,3,12,11,3,1,5,4,5,4,1,3,5,2,6,1,4,1,3,1,6,6,4,9,1,5,1,3,3,8,1,2,2,2,1,14,2,6,6,3,1,1,1,14,2,7,1,1,1,10,1,3,2,1,6,1,11,8,3,1,4,1,3,4,13,1,1,1,4,5,9,3,1,3,10,7,1,5,1,5,4,4,11,5,1,1,1,1,4,9,1,7,1,2,1,4,2,2,2,3,2,1,13,15,5,1,11,9,2,1,1,9,5,2,11,1,3,1,8,1,4,3,1,1,1,4,2,8,3,2,1,2,10,5,2,2,1,1,1,3,3,1,3,4,3,2,8,1,2,7,1,5,23,3,1,1,2,3,1,3,13,8,1,1,7,2,11,1,1,2,10,4,1,6,1,1,1,4,2,9,3,1,13,4,6,5,6,3,11,6,1,1,2,5,1,8,17,7,2,8,6,3,5,4,10,3,2,1,11,4,1,1,1,15,21,1,1,1,2,2,1,8,2,2,2,3,5,1,10,9,3,2,8,4,1,5,2,4,6,13,2,4,2,3,9,13,2,1,1,1,4,1,1,1,6,13,1,2,3,1,2,1,4,3,1,1,6,2,2,6,8,1,1,2,1,2,3,1,4,1,4,1,11,3,2,3,2,2,8,2,10,1,3,1,4,2,15,1,2,1,4,1,8,4,7,1,1,4,2,13,1,6,2,1,1,1,15,2,6,6,3,3,2,3,3,5,1,2,2,4,15,1,3,5,12,1,2,13,10,1,2,12,2,3,1,4,1,4,5,20,5,2,9,2,4,7,4,5,11,1,8,1,3,1,6,6,1,3,6,3,14,3,8,4,1,1,4,5,5,1,2,1,4,1,2,6,2,3,4,12,2,4,1,5,2,11,7,6,9,7,2,5,1,1,1,11,40,4,2,10,22,1,2,6,1,1,3,3,7,17,11,5,12,1,6,7,3,6,3,4,1,2,35,2,5,10,1,3,4,4,2,8,3,2,16,8,8,4,6,1,2,2,3,2,2,1,1,1,1,2,1,7,2,1,1,3,2,2,1,1,3,1,26,5,7,2,17,4,2,4,6,1,1,1,4,1,3,8,1,4,2,1,1,16,7,8,10,2,1,3,3,1,2,2,1,1,1,1,8,3,20,4,2,5,9,1,1,1,1,7,1,2,13,1,1,4,4,1,2,18,8,6,8,2,4,1,2,9,4,1,12,10,19,3,13,5,1,2,1,12,1,3,2,1,15,8,1,6,6,1,8,1,1,1,2,12,17,3,15,3,1,1,1,19,2,1,1,8,8,9,3,2,5,2,16,1,11,4,10,9,2,6,8,1,18,13,6,5,5,12,1,7,6,1,20,3,3,2,5,2,14,12,11,3,7,1,6,9,5,4,4,1,5,1,17,3,3,12,8,5,16,1,1,12,22,10,1,5,19,8,2,1,7,1,4,1,4,1,3,4,4,8,6,2,4,8,4,3,1,1,1,12,3,1,1,2,5,3,5,2,7,2,1,4,8,3,4,1,2,3,1,1,6,6,1,10,5,1,6,3,2,5,2,3,4,12,10,6,8,7,2,8,12,9,1,19,1,4,2,10,12,12,4,1,2,7,9,6,6,1,4,14,17,6,5,4,11,2,8,4,6,5,2,1,6,10,5,4,1,7,1,7,18,1,5,1,8,3,1,8,5,10,1,2,5,14,1,4,4,7,1,6,2,3,1,8,2,1,1,2,3,2,1,18,3,4,4,1,1,6,2,6,4,1,10,4,1,2,1,8,1,1,7,6,1,1,4,15,3,2,4,2,4,16,2,8,1,1,5,1,1,1,6,4,2,3,38,1,10,1,1,2,4,3,1,15,7,2,2,12,11,7,7,11,1,3,3,1,6,2,1,12,5,8,13,5,10,1,6,5,10,17,2,1,2,4,2,1,1,21,25,10,2,1,2,5,2,12,5,2,1,4,7,14,3,3,3,1,3,17,1,7,15,14,3,1,9,5,15,7,15,9,14,1,6,9,8,1,3,12,3,2,12,22,4,6,17,5,4,9,5,17,1,7,17,12,7,3,5,4,3,1,12,2,28,5,3,1,2,6,1,16,3,16,2,3,16,2,4,3,9,14,1,2,3,7,5,7,1,1,2,2,2,1,4,2,2,3,2,2,2,23,1,1,3,7,1,4,1,4,4,1,3,1,2,2,1,2,5,1,9,3,3,7,11,1,3,2,2,8,5,4,22,5,27,12,1,7,10,1,3,1,2,2,5,1,8,4,1,3,3,2,15,2,2,3,4,5,11,14,2,29,5,18,7,12,3,1,1,2,1,5,6,1,1,1,1,1,2,3,6,6,8,4,1,1,6,2,1,5,8,2,2,15,5,6,13,3,2,4,2,9,11,7,2,9,1,4,2,1,2,7,1,1,2,6,8,1,1,7,1,3,3,1,2,1,6,12,1,43,1,6,10,3,4,15,29,1,1,8,11,2,4,1,1,1,2,2,2,1,1,40,3,1,9,4,6,3,9,27,49,8,17,10,43,13,3,13,11,2,15,8,1,7,1,3,3,1,1,2,3,1,8,3,5,5,11,2,6,5,1,1,1,8,4,4,7,3,2,1,2,3,4,2,1,2,3,1,2,2,2,5,6,5,1,5,1,6,11,1,1,1,2,4,4,9,4,4,2,2,2,2,4,11,15,3,7,6,4,3,14,9,10,2,2,12,18,9,2,12,8,1,1,7,1,8,1,1,15,3,1,4,5,5,4,4,7,6,2,3,1,6,3,2,1,1,4,7,8,6,1,1,5,11,8,1,19,1,7,4,4,2,1,1,2,2,13,2,2,4,4,1,9,1,5,3,1,5,4,4,2,3,14,1,13,6,6,13,10,11
 Africa . Boulder	2518
 Africa . Geneva	11140
 Africa . Oxford University Press	2518
@@ -492,7 +497,7 @@ Africa CDC's Kaseya	5203
 Africa CDC's Nsengimana	5911
 Africa CDC. Even	5213
 Africa CDC’s Africa Pathogen Genomics Initiative	9718
-Africa CDD-Ghana Ghana Center for Democratic Development	10759,78,1052
+Africa CDD-Ghana Ghana Center for Democratic Development	10759,78,1052,451
 Africa CEO Forum	3311,673,256,1953,96,50,128,241,888,515,2690
 Africa CEO Forum Annual Summit	7596
 Africa CEO Forum MTN’s Ebenezer Asante	9899
@@ -544,6 +549,7 @@ Africa Collective	7418
 Africa Collective Circles	7418
 Africa Collective Davos	4723
 Africa Collective Helina Bischoff	7418
+Africa Comment Facebook	12441
 Africa Commerce and Industry Summit	9333
 Africa Community Advocacy Workshop	9760
 Africa Companion	1203
@@ -590,6 +596,7 @@ Africa DIODE Paper	226
 Africa DPG Index	7921
 Africa DPI Private Sector Coalition	8654
 Africa DPI Private Sector Coalition. Let	8654
+Africa Daily Focus	12382
 Africa Dar	2718
 Africa Data	1814,6907
 Africa Data Center Association	9155
@@ -598,7 +605,7 @@ Africa Data Center Market Landscape	7032
 Africa Data Centers Association	8126
 Africa Data Centers. Equinix	2539
 Africa Data Centre Association	6471,5020
-Africa Data Centres	462,132,1,1,25,420,155,208,25,40,96,240,15,140,360,197,55,35,989,263,332,539,470,589,11,270,162,239,94,102,68,56,144,97,435,522,272,2,328,550,546,693,310,32,139,610,373,441
+Africa Data Centres	462,132,1,1,25,420,155,208,25,40,96,240,15,140,360,197,55,35,989,263,332,539,470,589,11,270,162,239,94,102,68,56,144,97,435,522,272,2,328,550,546,693,310,32,139,610,373,441,142
 Africa Data Centres Association	1697,3273,341,423,1814,288,290,599,394,36,1269
 Africa Data Centres Cape Town	1565
 Africa Data Centres Diep Rivier	9617
@@ -670,6 +677,7 @@ Africa Digital Payments	521
 Africa Digital Public Infrastructure Community of Practice	8446
 Africa Digital Public Infrastructure Study	8446
 Africa Digital Single Market	961
+Africa Director	12366
 Africa Director General	8665
 Africa Download	4095
 Africa Dreieckskooperation	1423
@@ -721,6 +729,7 @@ Africa Future Connectivity Summit	2577
 Africa Future Plans and Conclusion Short	11191
 Africa GI	10358
 Africa Gabon High EGDI M-OSI H-HcI	10840
+Africa Gender Index	12399
 Africa Gender Innovation Lab	3604
 Africa Gender Statistics Forum	8427
 Africa Gender and Child Statistics Forum	8427
@@ -733,6 +742,8 @@ Africa Governance and Civic Innovation Hub	8628
 Africa Green Compute Coalition	7836,3304
 Africa Green Hydrogen Summit	2626
 Africa Green Transition PPP Fund	7795
+Africa GreenCo	12376
+Africa GreenCo. Available	12376
 Africa GreenTech Hub	8094
 Africa Grew	10954
 Africa Group	7187,3944,3
@@ -755,7 +766,7 @@ Africa Health Security Strategy	6337
 Africa Health Security and Sovereignty Agenda	5456
 Africa Health Strategy	1824
 Africa Health Tech Summit	3673
-Africa HealthTech Summit	937
+Africa HealthTech Summit	937,11501
 Africa Hinges	7637
 Africa Hub	4999,6924
 Africa Hub for Innovation and Development	9444
@@ -769,10 +780,10 @@ Africa IGF	6190,3668,849
 Africa Ibrahima Guimba-Saïdou	5440
 Africa In Africa	10718
 Africa Inaugurated	7207
-Africa Income	10976
+Africa Income	10976,1370
 Africa Income Cameroon2024 Cameroon2024 Sub-Saharan Africa	10976
 Africa Infrastructure Investment Partners	9503,1,299
-Africa Initiative	3162,22,1,938,402,1488,845,1112,2811,80,134
+Africa Initiative	3162,22,1,938,402,1488,845,1112,2811,80,134,1432,1
 Africa Initiative for Medical Access and Manufacturing	11468,1
 Africa Inklusive	456
 Africa Inland Church Data Processor INST-488545879F0	7167
@@ -807,6 +818,7 @@ Africa Just AI Conference	6052
 Africa Kennedy Mbekeani	9702
 Africa Launches First Pan-African Card Scheme--	10718
 Africa Lead	8142
+Africa Lions' Den Initiative	12376
 Africa Looks Beyond the Signal Bar	8241
 Africa MSWSA Money Smart Week South	11198
 Africa MVNO	10537
@@ -849,6 +861,7 @@ Africa Network	10450
 Africa Network for Animal Welfare	7167
 Africa News	3625,8562
 Africa Newsroom	7967
+Africa Next Digital	12441
 Africa Next Talent	6155
 Africa Next Tech Frontier	8386
 Africa North America	5618
@@ -880,7 +893,7 @@ Africa Private Capital Fundraising Report Companion	8612
 Africa Private Equity News	597,459,4823,3732
 Africa Program	5550,2038,1960
 Africa Program Jane Munga	5550
-Africa Programme	171
+Africa Programme	171,12242
 Africa Progress Panel	225
 Africa Project	11863
 Africa Prudential	9368
@@ -906,11 +919,12 @@ Africa Regional Initiatives	578
 Africa Regional Integration Index	11550
 Africa Regional Lead	8341
 Africa Regional Strategy for Disaster Risk Reduction	11283
-Africa Regions	9896,322
+Africa Regions	9896,322,2143
 Africa Remains Dependent	8275
 Africa Renewed	11291
-Africa Report	1375,283,156,2887,271,1495,4251,123,1386
+Africa Report	1375,283,156,2887,271,1495,4251,123,1386,186
 Africa Rest	12201
+Africa Rise	12395
 Africa Rockefeller Foundation	942
 Africa Rose	4964
 Africa Roundup	4583
@@ -964,10 +978,11 @@ Africa Tech Policy Summit	12104
 Africa Tech Policy Summit. When UN	8143
 Africa Tech Space	1857
 Africa Tech Summit Nairobi	7465
-Africa Tech VC	682
+Africa Tech VC	682,11657
 Africa Tech VC Fund	609
 Africa Tech VC Report	4722
-Africa Tech Venture Capital Report	4722
+Africa Tech Venture Capital Report	4722,7654
+Africa Tech Venture Report	12376
 Africa Tech Week Awards	11273
 Africa Tech Workers Movement	5616
 Africa TechUp Tour	6395
@@ -985,7 +1000,7 @@ Africa This AI Strategy	1814
 Africa Thousands	7210
 Africa Threat Landscape	6426
 Africa Threatens Privacy and Data Protection	2549
-Africa Today	11549
+Africa Today	11549,813
 Africa Tomorrow	7359
 Africa Top	8029
 Africa Top Success	1591
@@ -996,18 +1011,19 @@ Africa Trade Gateway	7785,259
 Africa Transformation Office	1038
 Africa Travel Indaba	11185
 Africa Tunisia Targets Data Centers	3768
-Africa UNICEF United Nations Children's Fund	10838,1032
-Africa UNICEF United Nations Children’s Fund	10835,133,918
+Africa UNICEF United Nations Children's Fund	10838,1032,482
+Africa UNICEF United Nations Children’s Fund	10835,133,918,467,60
 Africa US Department of State	528
-Africa USD US	10781
+Africa USD US	10781,1646
 Africa Umoja	7825
 Africa Umoja AI	7825,271
 Africa Uncensored	6231
 Africa Union	1243,10196
+Africa Union Commission. Goverment Republic of Namibia	12367
 Africa Union Convention	5244
 Africa University	2987,1541
 Africa Urged	10405
-Africa VC	7233,3721
+Africa VC	7233,3721,1385
 Africa VOLUME OF VENTURE CAPITAL EXITS	4972
 Africa Vaccine Acquisition Task Team	6250
 Africa Visitors	6385
@@ -1054,7 +1070,7 @@ Africa and Digital Realty	3873
 Africa and EAAIF	9060
 Africa and Equiano	6791,2318
 Africa and Equiano. Now	5401
-Africa and Europe	1454,649,2586,244,1375,1815,1004,505,39
+Africa and Europe	1454,649,2586,244,1375,1815,1004,505,39,2691
 Africa and Europe. Paratus Group	4959
 Africa and Europe. Together	4958
 Africa and France	3036
@@ -1134,6 +1150,7 @@ Africa's Great Digital Buildout	11815
 Africa's Growing Pains	4997
 Africa's Growth and Development	7414
 Africa's ICT	9802
+Africa's ICT Hub	12333
 Africa's Information Regulator	6683
 Africa's Internet	6604,3191
 Africa's Languages Are Missing From the Web	11827
@@ -1303,12 +1320,14 @@ Africa. Central	4590
 Africa. Chapter	7476
 Africa. China’s BRI	2518
 Africa. Chinese	5242
+Africa. Cloud	12362
 Africa. Co-funded	4428
 Africa. Co-investors	248
 Africa. Combining Anthropic	1636
 Africa. Commenting	4401
 Africa. Committed	388
 Africa. Communication Platforms External	10793
+Africa. Companies	12339
 Africa. Contact	11234
 Africa. Cooperation	11149
 Africa. Coordinated Australian	6650
@@ -1355,12 +1374,14 @@ Africa. Figure	4972,5746
 Africa. FinScope Eswatini	418
 Africa. Fintech	8049
 Africa. Fintechs	7577
+Africa. Firstly	12337
 Africa. Following	5255
 Africa. For Payaza	4988
 Africa. For Samuel Owusu Yeboah	3470
 Africa. Founded	10464,1153
 Africa. Francophone Weekly	6368
 Africa. Fund	855,57,647
+Africa. Further	12376
 Africa. Ghana	10822
 Africa. Global	1814
 Africa. Google	6250,486,2585
@@ -1429,6 +1450,7 @@ Africa. Morocco	4837
 Africa. Mozambique	8246
 Africa. Mr Hardy Pemhiwa Hardy	4896
 Africa. Mr Soraga	7034
+Africa. Mr. Antoine Sebera	12438
 Africa. Mukuru Group CEO Andy Jury	10418
 Africa. NALA	1547
 Africa. NOTE	782
@@ -1550,6 +1572,7 @@ Africa. The Kenyan Virtual Asset Service	8215
 Africa. The Malabo Convention	1243
 Africa. The Malawian	10736
 Africa. The Ministry	6013
+Africa. The National Identification Agency	12328
 Africa. The Next Horizon	3487
 Africa. The Nigerian	11925
 Africa. The Refugee Regulations	11628
@@ -1574,6 +1597,7 @@ Africa. Trust Architecture	11138
 Africa. Uganda	10697
 Africa. Under	5286,2145
 Africa. Underpinned	1454
+Africa. United Nations Economic and Social Commission	12413
 Africa. Upon	562
 Africa. Urgency	6790
 Africa. Users	9579
@@ -1603,6 +1627,7 @@ Africa. World Bank Group. Bastagli	10768
 Africa. Would ICANN	3874
 Africa. Yet	6714,234,1142,2067
 Africa.' Fund	1061
+Africa.....................................68	12376
 Africa.11 Maternal	10768
 Africa.167	11994
 Africa.23 Kenya	12227
@@ -1685,7 +1710,7 @@ Africaine Vie Bénin Traitement	10821
 Africaine des Assurances Traitements	10821
 Africaines	10975
 Africains	1648,2389,4182,1238,504,473,1188,506
-African	10,28,2,2,82,53,59,6,22,7,14,7,1,1,28,23,2,4,1,59,4,13,4,1,14,9,29,15,1,7,2,6,1,2,9,1,1,14,16,2,6,3,2,9,3,9,1,11,3,12,5,1,27,6,13,1,2,4,3,18,5,8,2,8,16,15,5,6,1,9,13,21,1,6,1,8,3,1,2,22,2,1,33,5,4,13,16,2,6,2,7,6,7,3,1,3,17,3,5,1,8,1,4,2,16,14,1,1,10,5,2,1,3,25,12,19,19,5,8,1,3,10,1,2,10,21,1,8,3,12,4,4,16,2,5,7,7,3,81,15,48,4,8,5,8,16,15,5,10,3,30,22,7,3,3,4,5,2,3,26,7,34,3,2,11,4,7,25,3,10,1,29,3,6,4,1,29,41,2,2,1,5,4,2,1,1,13,2,9,2,3,5,7,14,2,2,2,4,4,25,16,6,18,14,1,2,9,6,3,24,1,1,2,67,25,14,4,4,11,29,1,52,4,23,10,15,1,4,3,2,9,7,10,37,5,12,4,5,2,3,47,15,9,2,11,46,8,3,15,5,4,4,11,1,8,9,1,4,4,26,1,55,1,1,7,1,15,6,7,4,15,21,7,7,6,2,6,4,4,3,10,5,5,8,2,2,11,1,1,21,28,1,21,9,1,2,24,2,6,3,19,3,1,2,16,8,28,2,1,16,3,7,2,9,8,7,6,1,7,8,1,2,21,15,1,2,4,3,1,23,1,12,1,1,18,5,4,7,20,1,1,1,4,14,18,8,42,2,9,6,6,6,4,3,13,7,7,4,4,5,4,1,4,5,2,2,4,19,9,2,1,11,10,16,7,6,1,1,16,10,5,7,15,7,2,10,1,2,1,1,4,4,9,1,1,3,2,12,1,10,6,1,24,8,2,13,6,3,1,16,2,8,8,5,1,8,12,7,4,9,5,5,2,3,7,30,5,11,2,6,6,1,4,4,8,12,37,8,1,16,9,4,10,3,37,3,11,4,19,12,9,10,2,6,6,1,7,2,2,2,3,1,5,11,1,6,15,2,1,5,3,6,3,6,4,9,10,1,4,6,7,1,20,5,24,3,7,6,1,51,1,6,11,14,19,23,1,1,4,2,5,2,3,6,2,3,7,1,6,9,17,21,1,1,5,7,7,3,5,11,9,2,18,7,11,1,2,4,3,1,14,2,3,3,35,3,2,1,1,1,12,11,1,4,17,1,7,4,9,7,3,5,6,2,5,5,5,10,4,34,1,12,4,2,8,1,9,13,1,3,1,5,2,5,2,3,4,1,2,3,1,6,8,2,3,4,17,1,6,2,3,6,2,2,1,3,2,1,7,5,4,7,4,2,5,24,3,2,4,4,8,1,12,1,7,3,8,3,6,13,10,14,2,5,3,4,6,3,1,1,2,10,25,1,1,1,9,1,3,2,4,4,3,8,1,1,3,2,2,1,5,3,10,1,1,12,8,10,4,1,9,16,3,8,1,1,1,10,12,1,3,1,3,18,4,8,2,11,4,1,12,2,6,1,16,1,4,2,19,5,10,1,9,1,5,2,10,25,1,3,15,1,19,3,6,1,9,3,1,5,6,2,2,1,52,1,9,11,15,11,7,1,2,12,3,3,10,24,5,7,1,1,1,5,11,1,1,3,2,1,9,3,18,5,6,6,3,1,7,6,18,1,1,1,1,5,11,2,8,10,1,6,4,6,3,1,14,16,2,4,1,15,1,1,1,15,5,2,4,2,1,8,7,4,4,7,8,3,1,2,3,1,2,2,10,3,7,3,2,3,1,3,1,7,3,4,1,1,13,8,1,6,2,3,1,3,3,7,2,2,5,1,1,1,11,3,2,1,4,11,1,2,8,1,3,4,1,13,7,1,1,1,4,5,9,3,4,6,5,5,2,2,3,1,5,4,4,11,5,2,1,1,1,4,8,1,7,1,2,1,4,2,2,2,3,3,3,5,5,6,9,5,5,16,4,16,5,6,4,1,9,5,1,1,1,1,5,8,7,1,2,19,1,1,7,8,3,10,10,1,9,15,1,6,2,2,3,1,13,11,2,21,1,17,2,4,3,12,3,1,2,1,20,8,3,6,17,1,3,5,8,1,7,10,1,6,2,14,2,1,5,1,13,5,1,9,1,6,1,5,8,3,18,3,1,2,4,1,8,2,2,2,1,2,6,4,10,10,12,6,2,4,3,2,1,15,6,3,9,12,1,1,2,1,7,1,8,21,1,14,4,6,8,1,1,1,1,3,3,1,4,1,4,1,14,2,1,8,6,1,1,19,12,5,4,3,1,1,4,8,2,6,1,1,1,2,1,26,2,3,8,4,4,2,11,6,11,21,1,8,4,7,3,1,5,8,1,12,6,4,4,1,2,5,7,3,12,8,5,2,1,10,1,3,7,4,4,12,1,8,1,3,1,2,10,1,9,3,14,2,9,4,1,1,9,5,3,1,4,1,2,7,3,1,3,13,14,11,13,9,7,2,5,1,13,1,36,3,4,1,1,1,9,4,19,2,7,4,10,17,10,1,15,3,6,1,6,9,3,4,1,2,35,17,1,13,3,3,5,2,5,5,14,8,4,4,3,4,3,2,2,1,1,1,1,2,1,7,2,1,1,5,2,2,3,1,10,9,4,3,5,1,6,2,3,2,12,4,2,4,6,3,5,3,8,1,4,2,1,1,16,15,3,8,5,3,1,2,2,1,3,8,22,1,4,7,9,2,2,6,4,19,4,1,2,18,8,6,7,1,2,4,1,38,32,3,8,13,1,3,2,1,15,8,7,16,1,1,2,1,11,3,17,2,17,2,22,9,15,12,4,7,3,4,14,2,8,2,6,2,2,4,9,3,18,12,7,9,1,12,1,7,17,13,10,2,26,14,4,3,1,6,13,1,5,3,1,2,3,13,8,6,19,3,1,7,8,14,18,4,6,8,10,11,8,1,9,1,8,1,1,3,21,1,2,4,5,25,3,4,1,14,7,2,13,12,1,1,1,6,6,1,10,12,10,5,1,15,8,2,4,1,1,8,9,1,5,2,12,8,4,5,16,1,2,10,9,1,7,7,4,19,12,1,18,16,41,3,3,1,4,4,5,8,11,1,7,1,7,24,1,8,4,8,5,9,4,5,13,1,1,8,6,1,1,1,5,2,3,1,8,2,1,6,2,1,25,5,5,10,22,1,8,1,1,13,1,1,4,18,2,1,10,6,9,3,8,1,4,1,1,1,1,10,2,17,25,9,1,4,4,3,1,5,14,3,2,2,6,16,1,7,7,9,6,3,7,15,5,6,2,13,5,11,2,4,15,15,11,2,1,1,7,14,21,17,2,5,14,1,4,2,1,4,10,9,5,3,3,1,3,9,5,1,2,1,7,16,8,5,3,15,9,26,2,7,4,12,1,11,1,3,4,3,1,1,9,6,17,49,5,4,1,2,1,5,5,5,7,5,8,16,18,11,3,13,5,18,15,6,8,18,12,4,1,1,15,6,7,6,3,14,6,2,5,12,2,2,2,3,4,2,4,3,1,22,2,2,1,1,2,8,5,1,8,1,1,2,1,4,1,2,15,3,3,7,5,1,2,1,2,1,7,8,5,26,25,27,1,2,7,3,2,3,2,1,2,1,1,4,15,14,5,2,2,5,5,27,18,34,7,12,3,1,1,11,1,4,1,1,1,2,3,6,6,8,1,2,1,1,1,6,4,4,2,7,1,2,1,14,11,2,3,4,4,1,2,6,2,20,6,6,6,17,2,1,5,2,9,2,3,3,1,3,3,3,1,6,12,44,39,39,11,8,1,4,3,20,11,14,2,11,9,6,3,4,4,5,2,11,1,9,40,6,19,8,2,3,23,4,1,4,3,1,4,1,4,17,44,7,1,7,3,2,1,1,4,7,5,16,1,1,3,3,4,3,1,7,5,3,1,1,1,2,3,8,7,5,3,2,3,7,17,14,4,5,17,1,7,6,3,3,27,15,7,14,21,2,12,18,11,19,1,1,1,8,9,15,5,4,5,9,17,5,5,1,1,5,2,10,9,13,39,1
+African	10,28,2,2,82,53,59,6,22,7,14,7,1,1,28,23,2,4,1,59,4,13,4,1,14,9,29,15,1,7,2,6,1,2,9,1,1,14,16,2,6,3,2,9,3,9,1,11,3,12,5,1,27,6,13,1,2,4,3,18,5,8,2,8,16,15,5,6,1,9,13,21,1,6,1,8,3,1,2,22,2,1,33,5,4,13,16,2,6,2,7,6,7,3,1,3,17,3,5,1,8,1,4,2,16,14,1,1,10,5,2,1,3,25,12,19,19,5,8,1,3,10,1,2,10,21,1,8,3,12,4,4,16,2,5,7,7,3,81,15,48,4,8,5,8,16,15,5,10,3,30,22,7,3,3,4,5,2,3,26,7,34,3,2,11,4,7,25,3,10,1,29,3,6,4,1,29,41,2,2,1,5,4,2,1,1,13,2,9,2,3,5,7,14,2,2,2,4,4,25,16,6,18,14,1,2,9,6,3,24,1,1,2,67,25,14,4,4,11,29,1,52,4,23,10,15,1,4,3,2,9,7,10,37,5,12,4,5,2,3,47,15,9,2,11,46,8,3,15,5,4,4,11,1,8,9,1,4,4,26,1,55,1,1,7,1,15,6,7,4,15,21,7,7,6,2,6,4,4,3,10,5,5,8,2,2,11,1,1,21,28,1,21,9,1,2,24,2,6,3,19,3,1,2,16,8,28,2,1,16,3,7,2,9,8,7,6,1,7,8,1,2,21,15,1,2,4,3,1,23,1,12,1,1,18,5,4,7,20,1,1,1,4,14,18,8,42,2,9,6,6,6,4,3,13,7,7,4,4,5,4,1,4,5,2,2,4,19,9,2,1,11,10,16,7,6,1,1,16,10,5,7,15,7,2,10,1,2,1,1,4,4,9,1,1,3,2,12,1,10,6,1,24,8,2,13,6,3,1,16,2,8,8,5,1,8,12,7,4,9,5,5,2,3,7,30,5,11,2,6,6,1,4,4,8,12,37,8,1,16,9,4,10,3,37,3,11,4,19,12,9,10,2,6,6,1,7,2,2,2,3,1,5,11,1,6,15,2,1,5,3,6,3,6,4,9,10,1,4,6,7,1,20,5,24,3,7,6,1,51,1,6,11,14,19,23,1,1,4,2,5,2,3,6,2,3,7,1,6,9,17,21,1,1,5,7,7,3,5,11,9,2,18,7,11,1,2,4,3,1,14,2,3,3,35,3,2,1,1,1,12,11,1,4,17,1,7,4,9,7,3,5,6,2,5,5,5,10,4,34,1,12,4,2,8,1,9,13,1,3,1,5,2,5,2,3,4,1,2,3,1,6,8,2,3,4,17,1,6,2,3,6,2,2,1,3,2,1,7,5,4,7,4,2,5,24,3,2,4,4,8,1,12,1,7,3,8,3,6,13,10,14,2,5,3,4,6,3,1,1,2,10,25,1,1,1,9,1,3,2,4,4,3,8,1,1,3,2,2,1,5,3,10,1,1,12,8,10,4,1,9,16,3,8,1,1,1,10,12,1,3,1,3,18,4,8,2,11,4,1,12,2,6,1,16,1,4,2,19,5,10,1,9,1,5,2,10,25,1,3,15,1,19,3,6,1,9,3,1,5,6,2,2,1,52,1,9,11,15,11,7,1,2,12,3,3,10,24,5,7,1,1,1,5,11,1,1,3,2,1,9,3,18,5,6,6,3,1,7,6,18,1,1,1,1,5,11,2,8,10,1,6,4,6,3,1,14,16,2,4,1,15,1,1,1,15,5,2,4,2,1,8,7,4,4,7,8,3,1,2,3,1,2,2,10,3,7,3,2,3,1,3,1,7,3,4,1,1,13,8,1,6,2,3,1,3,3,7,2,2,5,1,1,1,11,3,2,1,4,11,1,2,8,1,3,4,1,13,7,1,1,1,4,5,9,3,4,6,5,5,2,2,3,1,5,4,4,11,5,2,1,1,1,4,8,1,7,1,2,1,4,2,2,2,3,3,3,5,5,6,9,5,5,16,4,16,5,6,4,1,9,5,1,1,1,1,5,8,7,1,2,19,1,1,7,8,3,10,10,1,9,15,1,6,2,2,3,1,13,11,2,21,1,17,2,4,3,12,3,1,2,1,20,8,3,6,17,1,3,5,8,1,7,10,1,6,2,14,2,1,5,1,13,5,1,9,1,6,1,5,8,3,18,3,1,2,4,1,8,2,2,2,1,2,6,4,10,10,12,6,2,4,3,2,1,15,6,3,9,12,1,1,2,1,7,1,8,21,1,14,4,6,8,1,1,1,1,3,3,1,4,1,4,1,14,2,1,8,6,1,1,19,12,5,4,3,1,1,4,8,2,6,1,1,1,2,1,26,2,3,8,4,4,2,11,6,11,21,1,8,4,7,3,1,5,8,1,12,6,4,4,1,2,5,7,3,12,8,5,2,1,10,1,3,7,4,4,12,1,8,1,3,1,2,10,1,9,3,14,2,9,4,1,1,9,5,3,1,4,1,2,7,3,1,3,13,14,11,13,9,7,2,5,1,13,1,36,3,4,1,1,1,9,4,19,2,7,4,10,17,10,1,15,3,6,1,6,9,3,4,1,2,35,17,1,13,3,3,5,2,5,5,14,8,4,4,3,4,3,2,2,1,1,1,1,2,1,7,2,1,1,5,2,2,3,1,10,9,4,3,5,1,6,2,3,2,12,4,2,4,6,3,5,3,8,1,4,2,1,1,16,15,3,8,5,3,1,2,2,1,3,8,22,1,4,7,9,2,2,6,4,19,4,1,2,18,8,6,7,1,2,4,1,38,32,3,8,13,1,3,2,1,15,8,7,16,1,1,2,1,11,3,17,2,17,2,22,9,15,12,4,7,3,4,14,2,8,2,6,2,2,4,9,3,18,12,7,9,1,12,1,7,17,13,10,2,26,14,4,3,1,6,13,1,5,3,1,2,3,13,8,6,19,3,1,7,8,14,18,4,6,8,10,11,8,1,9,1,8,1,1,3,21,1,2,4,5,25,3,4,1,14,7,2,13,12,1,1,1,6,6,1,10,12,10,5,1,15,8,2,4,1,1,8,9,1,5,2,12,8,4,5,16,1,2,10,9,1,7,7,4,19,12,1,18,16,41,3,3,1,4,4,5,8,11,1,7,1,7,24,1,8,4,8,5,9,4,5,13,1,1,8,6,1,1,1,5,2,3,1,8,2,1,6,2,1,25,5,5,10,22,1,8,1,1,13,1,1,4,18,2,1,10,6,9,3,8,1,4,1,1,1,1,10,2,17,25,9,1,4,4,3,1,5,14,3,2,2,6,16,1,7,7,9,6,3,7,15,5,6,2,13,5,11,2,4,15,15,11,2,1,1,7,14,21,17,2,5,14,1,4,2,1,4,10,9,5,3,3,1,3,9,5,1,2,1,7,16,8,5,3,15,9,26,2,7,4,12,1,11,1,3,4,3,1,1,9,6,17,49,5,4,1,2,1,5,5,5,7,5,8,16,18,11,3,13,5,18,15,6,8,18,12,4,1,1,15,6,7,6,3,14,6,2,5,12,2,2,2,3,4,2,4,3,1,22,2,2,1,1,2,8,5,1,8,1,1,2,1,4,1,2,15,3,3,7,5,1,2,1,2,1,7,8,5,26,25,27,1,2,7,3,2,3,2,1,2,1,1,4,15,14,5,2,2,5,5,27,18,34,7,12,3,1,1,11,1,4,1,1,1,2,3,6,6,8,1,2,1,1,1,6,4,4,2,7,1,2,1,14,11,2,3,4,4,1,2,6,2,20,6,6,6,17,2,1,5,2,9,2,3,3,1,3,3,3,1,6,12,44,39,39,11,8,1,4,3,20,11,14,2,11,9,6,3,4,4,5,2,11,1,9,40,6,19,8,2,3,23,4,1,4,3,1,4,1,4,17,44,7,1,7,3,2,1,1,4,7,5,16,1,1,3,3,4,3,1,7,5,3,1,1,1,2,3,8,7,5,3,2,3,7,17,14,4,5,17,1,7,6,3,3,27,15,7,14,21,2,12,18,11,19,1,1,1,8,9,15,5,4,5,9,17,5,5,1,1,5,2,10,9,13,39,1,7,4,4,2,1,3,1,1,11,1,3,3,2,6,2,7,4,2,19,3,6,3,1,3,11,16,25
 African AI	1363,451,278,117,179,1010,461,267,127,5,124,43,19,245,45,149,81,78,53,207,117,94,38,341,22,127,190,19,17,65,45,33,183,74,47,76,18,144,3,42,75,79,74,285,38,25,96,167,136,88,28,38,23,33,24,95,47,204,92,193,282,36,467,20,97,205,133,42,576,106,153,141,236,7,18,854
 African AI By Sibahle Malinga	10638
 African AI Compute Grid	6690
@@ -1711,7 +1736,7 @@ African Affairs	3583
 African Affordability	1013,931
 African After Access Survey	11195
 African Agency	5242
-African Agenda	11289
+African Agenda	11289,1124
 African Agri Investment Indaba	8755
 African Agriculture Is the Key	11140
 African Airlines	10723
@@ -1721,6 +1746,7 @@ African Alliance for Access	10729
 African Alternatives	12227
 African Americans. Doctors	4426
 African Approved By Department	1828
+African Asian European	12410
 African Aspirations	1814
 African Association of Central Banks	6938,5154
 African Astronomical Society	1735
@@ -1744,7 +1770,8 @@ African CEOs	6520,2134,920,647
 African CIO Awards	6767,2889
 African CPLP	10188
 African CSOs	11007
-African Center for Economic Transformation	8042
+African Center for Economic Transformation	8042,4287
+African Center for Economic Transformation Photos	12329
 African Center for Equitable Development	10852
 African Center for Media Excellence	1738
 African Center for Research	3228,2653
@@ -1809,7 +1836,7 @@ African Continental Free	4126
 African Continental Free Trade Agreement	961,38,244,874,889,1117,1121,1119,1422,3034,366,624
 African Continental Free Trade Agreement AMP	5244
 African Continental Free Trade Agreement’s Digital	5487
-African Continental Free Trade Area	789,16,156,9,12,17,7,251,7,550,14,289,342,1159,842,123,7,87,46,48,16,4,117,20,25,108,23,160,3,104,81,31,238,33,144,5,213,1,30,194,23,25,32,70,50,118,299,59,6,36,25,9,48,21,33,233,102,13,6,19,29,16,8,145,2,180,37,47,7,25,37,86,131,88,56,57,38,13,246,175,59,5,1,34,49,34,15,11,297,62,41,14,43,36,48,149,8,53,1,64,80,82,105,59,155,79,76,87,101,22,15,124,158,11,47,25,59,4,266,186,11,279,43,23,169
+African Continental Free Trade Area	789,16,156,9,12,17,7,251,7,550,14,289,342,1159,842,123,7,87,46,48,16,4,117,20,25,108,23,160,3,104,81,31,238,33,144,5,213,1,30,194,23,25,32,70,50,118,299,59,6,36,25,9,48,21,33,233,102,13,6,19,29,16,8,145,2,180,37,47,7,25,37,86,131,88,56,57,38,13,246,175,59,5,1,34,49,34,15,11,297,62,41,14,43,36,48,149,8,53,1,64,80,82,105,59,155,79,76,87,101,22,15,124,158,11,47,25,59,4,266,186,11,279,43,23,169,115
 African Continental Free Trade Area ADEEG	11271
 African Continental Free Trade Area Agreement	5247
 African Continental Free Trade Area Artificial	4528
@@ -1825,8 +1852,9 @@ African Continental Free-Trade Area. Support	789
 African Continental Qualifications Framework	7573
 African Continental Trust Scheme Authority	10819
 African Convention	1535,2048
+African Convention of Cybersecurity and Personal Data	12333
 African Council of Regulators	3986
-African Countries	961,300,567,947,4163,4372,22,882
+African Countries	961,300,567,947,4163,4372,22,882,169
 African Countries After Access	961
 African Countries Are Badly Damaged and Need	2677
 African Countries Are Not Responding Uniformly	5456
@@ -1924,6 +1952,7 @@ African Development Bank. Beyond	6400
 African Development Bank. Forty-two	10990
 African Development Bank. Guinea-Bissau Country	11525
 African Development Bank. KutanaPay	7408
+African Development Bank. Zambia Economic Outlook	12376
 African Development Bank’s African Information Highway	9207
 African Development Context. ID4AFRICA. RWANDA NATIONAL	10819
 African Development Fund	809,1097,3445,445,798,566,761,2301,350,72
@@ -1957,6 +1986,8 @@ African Digital Week	6447
 African Directors General GIS Geographic Information	11224
 African Disability Rights Yearbook	10826
 African Disability Rights Yearbook Elle	10826
+African E-Access and Usage Across Fourteen African	12325
+African E-Index	12325
 African Economic Community	1243,5754
 African Economic Outlook	6338,870,484,4171
 African Economic Research Consortium	374
@@ -1979,6 +2010,7 @@ African Export-Import Bank. Alam	10718
 African FIs	10718
 African FX	2777
 African Fibre Networks Formerly Dark Fibre	6000
+African Field Epidemiology Network	12379
 African Fin- Tech Ecosystem	961
 African FinTech	4972,2362
 African Financial Architecture	5202
@@ -2075,10 +2107,12 @@ African Island States Climate Commission	10348,72
 African Joint Operation	6426
 African Journal of Business Tulasi	9128
 African Journal of Education	11927
+African Journal of Empirical Research	12467
 African Journal of Entrepreneurship and Innovations	6948
 African Journal of Information Systems	8856
 African Journal of Innovation and Entrepreneurship	6948
 African Journal of Inter	7759
+African Journal of Land Policy and Geospatial Sciences	12369
 African Journal of Library	8022
 African Journal of Primary Health	2948
 African Journal of Public Affairs	4432
@@ -2117,7 +2151,7 @@ African Meteorological Satellite Application Facility	11283
 African Migrations	12227
 African Mining Legal Atlas	2889
 African Ministerial Meeting	2131,1682
-African Ministers	5586
+African Ministers	5586,6752,29,46
 African Ministers Conference	4120
 African Ministers Responsible for Civil Registration	10822
 African Ministers of Finance	8472
@@ -2180,6 +2214,7 @@ African Population and Health Research Center	6948,4195
 African Population and Health Research Center Data	7167
 African Population and Health Research Centre	11143
 African Post	961
+African Power Pool SCADA Supervisory Control	12399
 African Preparatory Meeting	6642,432
 African Preparatory Meeting for WRC-27	7074
 African President Cyril Ramaphosa	5621
@@ -2220,6 +2255,7 @@ African Reserve Bank. The South African	11185
 African Resources Corporation Ltd	3583
 African Revenue Service	10394
 African Revenue Service SCRA Standing Committee	5533
+African Rhythmic Gymnastics Championships	12358
 African Risk Capacity	12181
 African Risk Capacity Agency	10819
 African Risk Capacity Facility	10768
@@ -2279,13 +2315,14 @@ African TFGBV	1237
 African Tax Administration Forum	573,388,1228,973,4076,454,1,1,770,698
 African Tax Administration Forum Regional Community	961
 African Taxation Administration Forum	961
+African Tech	12339
 African Tech Ecosystem	8898,1893
 African Tech Ecosystem Report	8898
 African Tech Ecosystems	10834
 African Tech Futures Lab	4964
 African Tech Scale-Up Fund	819
 African Tech Start-ups Funding Report	5214
-African Tech Startups Funding Report	4883,1
+African Tech Startups Funding Report	4883,1,7492
 African Technology Forum	4109
 African Telcos	4993
 African Telecommunications Union	962,3663,560,365,36,90,331,332,303,148,156,128,31,457,31,76,139,17,51,7,1,39,15,12,96,71,124,177,78,1,233,73,433,431,89,14,1441,289,302
@@ -2301,7 +2338,7 @@ African Trade Report	7408,3310
 African Trust	6593,1611
 African Trust Scheme Authority. A Trust	10819
 African Undersea Cables	2677
-African Union	26,1,1,143,54,335,2,191,7,139,59,3,1,76,40,83,14,29,39,21,13,320,174,8,35,40,397,208,107,111,5,105,29,23,199,36,15,73,421,1,14,6,47,99,111,13,94,77,58,20,3,49,5,245,1,102,35,20,188,5,6,5,297,8,83,27,40,2,8,50,60,33,5,18,22,23,319,43,53,125,38,14,18,23,90,45,36,27,37,7,14,17,8,55,89,62,20,64,23,100,18,125,5,59,42,4,21,41,31,14,20,2,54,7,9,13,54,143,8,88,40,8,82,14,15,59,19,2,7,14,113,17,13,11,50,3,29,6,93,158,141,69,99,426,68,49,9,17,59,17,144,70,140,9,4,10,124,3,2,169,39,46,2,21,35,96,88,13,206,79,163,2,99,3,18,12,243,40,3,2,9,28,16,17,55,12,6,57,60,105,12,53,11,81,2,1,27,108,9,30,24,42,55,77,15,40,41,28,35,5,9,23,69
+African Union	26,1,1,143,54,335,2,191,7,139,59,3,1,76,40,83,14,29,39,21,13,320,174,8,35,40,397,208,107,111,5,105,29,23,199,36,15,73,421,1,14,6,47,99,111,13,94,77,58,20,3,49,5,245,1,102,35,20,188,5,6,5,297,8,83,27,40,2,8,50,60,33,5,18,22,23,319,43,53,125,38,14,18,23,90,45,36,27,37,7,14,17,8,55,89,62,20,64,23,100,18,125,5,59,42,4,21,41,31,14,20,2,54,7,9,13,54,143,8,88,40,8,82,14,15,59,19,2,7,14,113,17,13,11,50,3,29,6,93,158,141,69,99,426,68,49,9,17,59,17,144,70,140,9,4,10,124,3,2,169,39,46,2,21,35,96,88,13,206,79,163,2,99,3,18,12,243,40,3,2,9,28,16,17,55,12,6,57,60,105,12,53,11,81,2,1,27,108,9,30,24,42,55,77,15,40,41,28,35,5,9,23,69,25,6,23
 African Union AI Policy Working Group	4528
 African Union AI Strategy	4528,1261,1759,2389,779
 African Union AU Strategy	1243
@@ -2429,6 +2466,7 @@ African Union's Smart Africa	7921
 African Union's Specialized Technical Committee	8865
 African Union-Africa Water Investment Programme Water	2626
 African Union-backed	9817
+African Union. CAPI	12403
 African Union. Disponível	2816
 African Union. Lead Entity Ministry of ICT	4528
 African Union. President Xi Jinping of China	10945
@@ -2437,7 +2475,9 @@ African Union. Sensitive	961
 African Union. Technical Assistance	11906
 African Union. The Charter	8747
 African Union. Together	10819
+African Union’s AI	12356
 African Union’s AI Agenda	4528
+African Union’s AI Strategy and UNESCO’s AI	12356
 African Union’s Agenda	970,844,2554,419,1174,1078,3636,144,3,388
 African Union’s Commission	26,1,1
 African Union’s Continental AI Strategy	5092,1318,380,1839
@@ -2449,7 +2489,7 @@ African Union’s Digital Transformation Strategy	2677,1837,76,186,1593
 African Union’s Digital Transformation Strategy for Africa	5242,5577
 African Union’s Malabo Convention	1243
 African Union’s Special Envoy	560
-African VC	510,102,443,3917,4523,1459,384
+African VC	510,102,443,3917,4523,1459,384,1001
 African VCs	5957,3538
 African Vaccine Acquisition Task Team	760
 African Values	1814
@@ -2476,6 +2516,7 @@ African and CEMAC	6769
 African and Caribbean	9179
 African and Chinese	9720
 African and DCO Member States	3837
+African and Dutch	12333
 African and European	789,5287,1800,670,763
 African and European Economies	6948
 African and French	6583
@@ -2627,9 +2668,10 @@ Africa’s Smart State	3398
 Africa’s Sovereign AI Play	4425
 Africa’s Space Industry Makes Its Case	8275
 Africa’s Startup Scene From Cotonou	10887
+Africa’s Tech Venture Capital	12339
 Africa’s Top	5101,850,4454
 Africa’s Undersea Cable Landscape	2677
-Africa’s VC	4972
+Africa’s VC	4972,7367
 Africa’s Web3	2826,901,2016,126
 Africel	6610,975,2781
 Africell	83,208,487,437,9,325,2,844,148,1607,469,196,1093,318,256,903,200,308,267,593,101,595,174,133,243,168,111,79,9,456,590,506,76
@@ -2655,6 +2697,7 @@ Africell. Automatic	11960
 Africell. Clientes	11412
 Africell. Kidzonet	7385
 Africell. The MNOs	11960
+Africinvest	12339
 Africom	6000,245
 Africom Media Limited Data Controller INST-518102EA816	7167
 Africom Technologies PLC	7037
@@ -2738,6 +2781,7 @@ American and Central African	4340
 Americans and Africans	4787
 America’s Africa	4258
 Amka Africa Justice Initiative Data Controller	7167
+Among Francophone Africa	12339
 Amplify Girls Africa Data Controller INST-288256B6952	7167
 Amplify Girls Africa Data Processor INST-288256B6952	7167
 Amref Health Africa	7167,20
@@ -2747,7 +2791,7 @@ Anda Africa	5875
 Andrea Kivi and Smart Africa CEO Lacina	6370
 Anglophone West Africa	4901,4715,517
 Angola African	10759
-Angola and South Africa	1977,2
+Angola and South Africa	1977,2,10397
 Annex II References African Declaration	12214
 Announcement of Africa	8654
 Annual Africa CRVS Expert Meeting	7861
@@ -2831,7 +2875,7 @@ BASHY AFRICAN CREDIT LIMITED Data Controller	7167
 BASHY AFRICAN CREDIT LIMITED Data Processor	7167
 BAYCOMS AFRICA LIMITED Data Controller INST-71513267F54	7167
 BAYCOMS AFRICA LIMITED Data Processor INST-71513267F54	7167
-BBC Africa	3625
+BBC Africa	3625,8757
 BBC Africa Eye	8050
 BDO EAST AFRICA KENYA Data Controller	7167
 BECTON DICKINSON EAST AFRICA LIMITED Data	7167
@@ -2869,7 +2913,7 @@ Banco Africano de Desenvolvimento.AB	9259
 Banco Africano de Investimentos	5309
 Bangladesh India Australia South Africa Rwanda	11135
 Bangladeshi and South African	11135
-Bank AFIDEP African Institute for Development Policy	10759,78,1052
+Bank AFIDEP African Institute for Development Policy	10759,78,1052,451
 Bank AfDB African Development Bank CAGR	11572
 Bank Africa Trade Barometer	5247
 Bank Of Africa Benin	10821
@@ -2959,6 +3003,7 @@ Botswana and South African	10414
 Botswana's Vice President Calls for United African	3729
 Bounced African Low Lunar Spheres. African	10076
 Bounced African Low Lunar Spheres. Once	10076
+Bouncing Back African	12341
 Bouncing Back. African	11887
 Bpifrance Africa Co-Investment	706,430,408
 Bpifrance-Mubadala Africa Co-Investment Partnership	706
@@ -2986,6 +3031,7 @@ Building Africa	6930,2174,1231
 Building Africa's AI	7952
 Building Africa's Digital Backbone	9350
 Building Africa's Digital Future Together Africa	7876
+Building Africa's First Regional DPI Ecosystem	12432
 Building Africa's Permanent Digital Economy	12131
 Building Africa’s Capabilities	1814
 Building Africa’s Own Digital Trade Highway	7523
@@ -3243,7 +3289,7 @@ Central African Regional Doctoral School	766
 Central African Rep. D	11867
 Central African Rep. Yes Politique	11529
 Central African Repubic	10841
-Central African Republic	174,62,336,397,12,7,60,17,160,1,139,18,58,24,116,18,29,6,44,37,113,65,14,23,1,1,1,1,1,1,1,12,3,48,2,1,1,1,1,1,1,1,1,1,1,1,221,103,41,126,178,93,39,75,34,154,80,276,62,105,29,239,50,76,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,101,109,44,47,13,5,7,913,3,48,117,20,8,68,443,1,17,195,148,280,24,73,116,124,200,557,778,1274,263,280,457,5,21,29,12,3,6,2,1,3,3,4,9,21,14,76,169,283,80,109,258,3,9,7,1,1,1,8,3,17,43,46,147,1,9
+Central African Republic	174,62,336,397,12,7,60,17,160,1,139,18,58,24,116,18,29,6,44,37,113,65,14,23,1,1,1,1,1,1,1,12,3,48,2,1,1,1,1,1,1,1,1,1,1,1,221,103,41,126,178,93,39,75,34,154,80,276,62,105,29,239,50,76,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,101,109,44,47,13,5,7,913,3,48,117,20,8,68,443,1,17,195,148,280,24,73,116,124,200,557,778,1274,263,280,457,5,21,29,12,3,6,2,1,3,3,4,9,21,14,76,169,283,80,109,258,3,9,7,1,1,1,8,3,17,43,46,147,1,9,178,11,1
 Central African Republic CAR Health Service	10829
 Central African Republic CBO Community-Based Organization	10829
 Central African Republic Commercial Forests Briefing	10841
@@ -3406,6 +3452,7 @@ Commentaires Technologie Cyber Africa Forum	7057
 Commentary Realizing Africa	5440
 Commercial Bank of Africa	7567
 Commission COBAC Central African Banking Commission	10841
+Commission and Africa Rise	12395
 Commission and African	7136
 Commission for Africa	11808
 Commission for Africa ADDIS ABABA	8472
@@ -3417,7 +3464,8 @@ Common African Position	5825
 Common Carrier Pan Africa Network Group	6946
 Common Market for East and South Africa	12286
 Common Market for Eastern Africa	1914
-Common Market for Eastern and Southern Africa	26,1,1,2263,1457,12,778,2001,481,576,367,76,255,41,818,29,834,1,296,59,777,811,193,10,123
+Common Market for Eastern and Southern Africa	26,1,1,2263,1457,12,778,2001,481,576,367,76,255,41,818,29,834,1,296,59,777,811,193,10,123,55,11,24,50,18
+Common Market for Eastern and Southern Africa President	12353
 Common Market for Eastern and Southern Africa Summit	3760
 Common Market for Eastern and Southern Africa's Regional	10718
 Commonwealth West Africa	9616
@@ -3462,7 +3510,7 @@ Confederation of Financial Institutions- West Africa	1502
 Conference of Central African Telecommunications Regulators	5158
 Conferência Anual da Rede Africana de Engenharia	11411
 Congo Background As African	12055
-Congo Central African Republic Equatorial Guinea	10837
+Congo Central African Republic Equatorial Guinea	10837,1503
 Congo Component African Development Bank	117
 Congo-Central African Republic	1715
 Connect Africa	292
@@ -3571,6 +3619,7 @@ DATA FLOW The African	1243
 DATA GOVERNANCE IN AFRICA	3184,1,1340,6470
 DATA GOVERNANCE IN AFRICA ANGOLA DATA	10781
 DATA GOVERNANCE IN AFRICA Learn	10781
+DATA GOVERNANCE IN AFRICA RWANDA DATA	12427
 DATACELL CONSULT AFRICA LIMITED Data Controller	7167
 DCDT and Henley Business School Africa	11495
 DE Africa	11239,168
@@ -3641,7 +3690,7 @@ Defence Force SAPS South African Police	11188
 DefendDefenders for East Africa	8318
 Defining Choice for Africa’s Future	6690
 Deloitte South Africa	10605,906
-Democracy Institute ENACT ENACT Africa WB	10835,3,130,902,16
+Democracy Institute ENACT ENACT Africa WB	10835,3,130,902,16,466,1
 Democratic Republic of Congo Citibank South Africa	12252
 Democratic Republic of Congo and Zambia. South Africa	9672
 Denúncia CASO AFRICA GROWTH CORPORATION CONFERÊNCIA	10751
@@ -3701,7 +3750,7 @@ Diaspora Advertisement Airtel Africa Foundation	5802
 DigiSkills Africa. Retrieved	6832
 Digicloud Africa	3859,1397
 Digital Access Africa	2236
-Digital Africa	226,712,1491,607,687,56,1380,996,3607,513,612
+Digital Africa	226,712,1491,607,687,56,1380,996,3607,513,612,1540
 Digital Africa Corridor	3527
 Digital Africa Index	1923,4670
 Digital Africa Post the Pandemic	3672,7523
@@ -3750,7 +3799,7 @@ Digital Identity West Africa Unique Identification	10819
 Digital Identity and Data Privacy for African	289
 Digital Infrastructure Investments Africa	3859
 Digital Interoperability African Development Bank	1046
-Digital Investment Facility EAC East African	10781
+Digital Investment Facility EAC East African	10781,1646
 Digital Market SAA Smart Africa Alliance	1264
 Digital Network AFRALTI African Advanced Level	6946
 Digital Opportunityof Sub-Saharan Africa	1363
@@ -3789,10 +3838,11 @@ Directs the African Union Commission	5825
 Disabilities and South Africa's White Paper	9767
 Disclaimer EXECUTIVE SUMMARY Being Africa	5247
 Disclaimer the African Development Bank	5247
+Disclosure The Partech Africa Report	12339
 Discussion Materials of Merrill Lynch South Africa	7198
 Disinformation and Information Warfare Africa	6950
 Dispute Resolution AfCFTA African Continental Free	1243
-Disrupt Africa	2380,2078,54,210,161,1,330,3684,841,1052,1203
+Disrupt Africa	2380,2078,54,210,161,1,330,3684,841,1052,1203,382
 Disrupt Africa's Africa-2025	5214
 Disrupt Africa. All	4883
 Distributed Power Africa	1196,624,2540,536,1596,4230
@@ -3843,7 +3893,7 @@ EAST AFRICAN ORNITHOLOGICAL SAFARIS LIMITED Data	7167
 EAST AFRICAN PORTLAND CEMENT PLC Data	7167
 EAST AFRICAN SEA FOOD LIMITED Data	7167
 EAST AND CENTRAL AFRICA OPTICAL FIBER	255
-EASTERN AND SOUTHERN AFRICA	2712,3867,254,95,4447,20,833,39
+EASTERN AND SOUTHERN AFRICA	2712,3867,254,95,4447,20,833,39,145,14,14
 EASTERN AND SOUTHERN AFRICA ELECTION	10016
 EASTERN AND SOUTHERN AFRICA Operation ID	2291
 EASTERN AND SOUTHERN AFRICA REPORT NO	1228
@@ -3858,6 +3908,7 @@ ECCAS Economic Community of Central African States	11960
 ECCAS for Economic Community of Central African States	10841
 ECOBLOX and Digital Parks Africa Launch Africa	11502
 ECONET INFRACO Distributed Power Africa	4896
+ECONOMY Namibia REGION Sub-Saharan Africa INCOME	12389
 ECOWAS African Union Convention	5244
 ECOWAS COMMISSION AND AFRICAN UNION CONCLUDE	9469
 ECOWAS Economic Community of West African States	1264,10288,8
@@ -3880,8 +3931,8 @@ EGDI M-OSI H-HcI M-TII Africa Burkina	10840
 EGYPRO EAST AFRICA LIMITED Data Controller	7167
 EGYPRO EAST AFRICA LIMITED Data Processor	7167
 ELECTION MATTERS Africa	7938
-ENACT ENACT Africa	11887,266,1,9
-ENACT ENACT Africa FAO Food and Agriculture	10759,78,1052
+ENACT ENACT Africa	11887,266,1,9,178
+ENACT ENACT Africa FAO Food and Agriculture	10759,78,1052,451
 EO Africa Cloud	6744
 EOIR. South Africa	11685
 EPI TEC SP CP IF Africa	10840
@@ -3917,7 +3968,8 @@ EXECUTIVE SUMMARY African	6938
 Early-stage African	9495
 Earth Africa and AWS	10794
 Earth. Africa2Moon	10076
-East Africa	107,71,196,136,203,73,44,12,45,48,141,47,122,19,263,193,1,1,56,46,4,29,131,287,73,328,1,2,95,24,16,36,107,29,201,6,107,122,94,7,53,7,42,102,11,7,29,14,71,80,15,198,287,116,8,49,140,43,11,42,70,17,23,1,13,16,26,19,40,51,100,23,125,46,67,36,80,26,1,1,61,16,59,257,19,5,15,35,17,37,81,27,8,52,20,65,23,80,97,88,25,1,56,16,1,52,8,87,1,8,15,21,27,3,22,106,11,4,45,8,198,34,20,47,18,23,25,46,18,179,18,33,54,11,33,2,34,32,78,40,50,5,320,2,18,4,94,133,5,44,46,102,42,10,59,61,3,116,46,176,4,102,86,28,74,14,10,132,127,11,118,16,3,24,25,127,10,53,13,61,107,3,27,1,34,21,13,3,57,5,26,155,125,17,47,141,93,172,205,6,23,1,348,9,9,18,30,6,6,12,10,2,28,12
+East Africa	107,71,196,136,203,73,44,12,45,48,141,47,122,19,263,193,1,1,56,46,4,29,131,287,73,328,1,2,95,24,16,36,107,29,201,6,107,122,94,7,53,7,42,102,11,7,29,14,71,80,15,198,287,116,8,49,140,43,11,42,70,17,23,1,13,16,26,19,40,51,100,23,125,46,67,36,80,26,1,1,61,16,59,257,19,5,15,35,17,37,81,27,8,52,20,65,23,80,97,88,25,1,56,16,1,52,8,87,1,8,15,21,27,3,22,106,11,4,45,8,198,34,20,47,18,23,25,46,18,179,18,33,54,11,33,2,34,32,78,40,50,5,320,2,18,4,94,133,5,44,46,102,42,10,59,61,3,116,46,176,4,102,86,28,74,14,10,132,127,11,118,16,3,24,25,127,10,53,13,61,107,3,27,1,34,21,13,3,57,5,26,155,125,17,47,141,93,172,205,6,23,1,348,9,9,18,30,6,6,12,10,2,28,12,36,8,44,42,12
+East Africa Avg	12385
 East Africa BMZ	178
 East Africa Banking Industry Outlook	5883
 East Africa Breweries PLC Data Controller	7167
@@ -3956,6 +4008,7 @@ East Africa Rwanda	8266
 East Africa Share Organisation	9679
 East Africa Submarine Cable Outage Report	2677
 East Africa VP Anne Kinuthia Otieno	8623
+East Africa Vision	12413
 East Africa Yas and ZICTIA	5908,442
 East Africa and Europe	9265,996
 East Africa's AI	7548
@@ -3991,7 +4044,7 @@ East Africa. Through	12164
 East Africa. United Nations	12138
 East Africa. Yet FindMe	10983
 East Africa.The	7955
-East African	178,204,1145,711,428,11,8,2,56,2,29,1,39,172,2,23,402,147,23,74,36,95,151,213,392,61,7,54,87,15,122,28,11,6,14,9,1,29,26,19,407,189,68,68,57,17,183,24,7,4,21,15,57,97,20,122,82,83,163,56,18,32,76,47,63,169,200,170,202,66,51,100,107,140,31,89,192,23,74,48,118,95,504,205,50,294,1,264,73,6,31,86,64,129,41,229,305,154,831,13,13,14,36,12,33,32
+East African	178,204,1145,711,428,11,8,2,56,2,29,1,39,172,2,23,402,147,23,74,36,95,151,213,392,61,7,54,87,15,122,28,11,6,14,9,1,29,26,19,407,189,68,68,57,17,183,24,7,4,21,15,57,97,20,122,82,83,163,56,18,32,76,47,63,169,200,170,202,66,51,100,107,140,31,89,192,23,74,48,118,95,504,205,50,294,1,264,73,6,31,86,64,129,41,229,305,154,831,13,13,14,36,12,33,32,22,59
 East African AI	8334
 East African Artificial Intelligence Policy Outlook	8334
 East African Asian	6231
@@ -4001,7 +4054,7 @@ East African Carbon and Biodiverity Ltd Data	7167
 East African Com-	2775
 East African Communications	6946
 East African Communications Organisation	8245,1536
-East African Community	26,1,1,292,172,124,211,72,317,27,2,39,822,36,154,87,278,114,463,345,153,14,204,15,575,135,366,327,229,282,210,3,375,179,192,86,10,167,50,23,329,41,267,1,114,2,35,57,50,352,23,77,1,19,243,273,91,112,367,75,98,1,249,20,111,1,73,57,134,25,343,3,314,13,61,207,389,1,93,60,204,63,29,30,11
+East African Community	26,1,1,292,172,124,211,72,317,27,2,39,822,36,154,87,278,114,463,345,153,14,204,15,575,135,366,327,229,282,210,3,375,179,192,86,10,167,50,23,329,41,267,1,114,2,35,57,50,352,23,77,1,19,243,273,91,112,367,75,98,1,249,20,111,1,73,57,134,25,343,3,314,13,61,207,389,1,93,60,204,63,29,30,11,44,86
 East African Community Civil Aviation Safety	11806
 East African Community Common External Tariff	6921
 East African Community Common Market Protocol	7506
@@ -4020,8 +4073,10 @@ East African Community Statistics Bureau	3738
 East African Community Statistics Bureau Bill	3738
 East African Community Vergabestelle	8546
 East African Community Vorgesehen	9062
+East African Community and COMESA	12469
 East African Community and Intergovernmental Authority	6096
 East African Community. Carnegie	5550
+East African Community. EDPRS	12403
 East African Community. Kabogo	8214
 East African Community. New York and Geneva	1243
 East African Community. WB ID4D	10819
@@ -4070,6 +4125,8 @@ East and Northeast Africans	12227
 East and South Africa	11867
 East and Southeastern Africa	5912
 East and Southern Africa	519,745,1757,512,3404,1060,150,188,144,3388
+East and Southern Africa Branch	12325
+East and Southern Africa Regional Branch	12325
 East and Southern Africa and Indian Ocean Region	350
 East and Southern Africa. Alongside	7150
 East and Southern African	7601
@@ -4085,7 +4142,9 @@ East and West Africa.' BII	682
 East-West Southern Africa	10697
 East-to-West Africa	7036
 Easter Africa Region	12285
-Eastern Africa	585,631,48,458,1516,2247,611,92,221,306,213,4,14,149,698,157,916,165,906,903,1054,339
+Eastern Africa	585,631,48,458,1516,2247,611,92,221,306,213,4,14,149,698,157,916,165,906,903,1054,339,152,56
+Eastern Africa Avg	12385
+Eastern Africa Geography	12341
 Eastern Africa Journalists	6788
 Eastern Africa Power Pool	12233,23
 Eastern Africa Regional Digital Integration	6096
@@ -4095,6 +4154,7 @@ Eastern Africa Regional Statistics Program for Results	8527
 Eastern Africa Southern Africa Population	11572
 Eastern Africa Sub-region	4103
 Eastern Africa Submarine Cable System	2677
+Eastern Africa and SSA	12385
 Eastern Africa. Geography	12163
 Eastern Africa. M-KOPA	1042
 Eastern Africa. Officials	6096
@@ -4107,16 +4167,18 @@ Eastern Cape Province of South Africa	12007
 Eastern Coast of Africa	12151
 Eastern and Central Africa. Officials	7989
 Eastern and Middle Africa	10714
-Eastern and Southern Africa	351,166,2,162,535,551,147,340,37,100,288,33,892,761,173,288,1713,389,333,704,125,204,41,660,187,2218,17,173,249,367
-Eastern and Southern Africa Anti-Money Laundering Group	5034,96,1
+Eastern and Southern Africa	351,166,2,162,535,551,147,340,37,100,288,33,892,761,173,288,1713,389,333,704,125,204,41,660,187,2218,17,173,249,367,182,56
+Eastern and Southern Africa Anti-Money Laundering Group	5034,96,1,7273
 Eastern and Southern Africa Economic Partnership Agreement	970
 Eastern and Southern Africa IEG Independent Evaluation	6539
 Eastern and Southern Africa MPA FINANCING DATA	3562
 Eastern and Southern Africa Program	1039,731
 Eastern and Southern Africa Region	989,7
 Eastern and Southern Africa Region. Marked	5620
+Eastern and Southern Africa Region. Regional Vice	12388
 Eastern and Southern Africa Regional Branch	8021
 Eastern and Southern Africa Simultaneous	6539
+Eastern and Southern Africa World Customs Organisation	12454
 Eastern and Southern Africa. BMJ Glob Health	10881
 Eastern and Southern Africa. Capital	517
 Eastern and Southern Africa. Convened	7963
@@ -4133,12 +4195,12 @@ Ecobank Pan African Sandbox	8341
 Ecofin Agency and Broadcast Media Africa	4909
 Ecole Supérieure Africaine des ESF Technologies	3604
 Ecole Supérieure Africaine des Technologies	3604,7307,37
-Economic Commission for Africa	941,4848,4927,103
+Economic Commission for Africa	941,4848,4927,103,1548
 Economic Commission for Africa.12 Constraints	10718
 Economic Community Of West African States	27
 Economic Community RIA Research ICT Africa	1814
 Economic Community of African States	10841
-Economic Community of Central African States	26,1,1,2633,201,3471,4426,78,131,181,738,73
+Economic Community of Central African States	26,1,1,2633,201,3471,4426,78,131,181,738,73,381
 Economic Community of Central African States ESO	10841
 Economic Community of Central African States European	9616
 Economic Community of West African States	7,19,1,1,933,282,21,513,1017,9,36,632,133,20,135,824,118,444,218,32,5,179,1,382,101,289,586,134,380,144,936,662,275,163,4,36,259,16,315,247,17,267,26,3,13,74,3,237,375,1,10,1,12,338,3,126,112
@@ -4181,6 +4243,7 @@ Emerging Technologies. The African Union Data	1243
 Emerging Technology ARCAI African Research Centre	1814
 Emirates and South Africa	11185
 Empower Africa	1717,603,1219,1420,19,1100,180
+Empower Africa. Accessed	12376
 Empower African SMEs	10151
 Empower Africans	1243
 Empowering Africa	6948,3128
@@ -4239,6 +4302,11 @@ Estratégia Espacial Africana. A Agência	2125
 Estratégias da Transformação Digital da União Africana	2816
 Eswatini Africa Southern Africa Mbabane High	10840
 Eswatini Standard Bank of South Africa Limited	12252
+Eswatini2024 Africa Income	12346
+Eswatini2024 Africa Income Eswatini2024 Sub-Saharan Africa	12346
+Eswatini2024 Sub-Saharan Africa	12346
+Eswatini2024 Sub-Saharan Africa Lower Middle Income	12346
+Eswatini2024 Sub-Saharan Lower Africa Middle All	12346
 Ethiopia African Development Bank	451
 Ethiopia and Kenya. In Africa	2518
 Ethiopia and South Africa	2248,1904
@@ -4268,7 +4336,7 @@ European Union and Smart Africa	1779
 European Union and South Africa	11210,78
 European and African	4689,148,5960
 Even Africa	7876
-Event Data Project AfDB African Development	10759,78,1052
+Event Data Project AfDB African Development	10759,78,1052,451
 Every African	6997,924
 Every African Country's National Digital Health	7707
 Every South African	5533,6453
@@ -4372,7 +4440,7 @@ Foresight Africa	5059,5760
 ForewOrd South Africa	396
 Forum Africain	2855,547,4441
 Forum Africain des Régulateurs des Services Publics	10975
-Forum for African Women Educationalists	1540
+Forum for African Women Educationalists	1540,10789
 Forum of South African Directors-General	11201
 Forward Africa Leaders Summit	7337
 Foundation for Space Development Africa	10076
@@ -4386,21 +4454,23 @@ Frames Africa	5858
 Framework DTSfA Digital Transformation Strategy for Africa	1814
 France and Africa	3036
 France-co-hosted Africa Forward	8598
-Francophone Africa	652,241,1248,320,361,329,6,103,1,1461,332,1294,20,738,44,133,899,545,1965,39,62,30,160
+Francophone Africa	652,241,1248,320,361,329,6,103,1,1461,332,1294,20,738,44,133,899,545,1965,39,62,30,160,1356
 Francophone Africa App	3905
 Francophone Africa Cameroon Côte	10793
 Francophone Africa South Africa	10793
 Francophone Africa. Already	3905
 Francophone Africa. Held	6348
-Francophone African	2461,1079,3630,3784
+Francophone African	2461,1079,3630,3784,1385
 Francophone African Countries Powering the Next	3157
 Francophone Africa’s EV	6368
+Francophone North Africa. Morocco	12339
 Francophone West Africa	1061,1080,669,1149,5503,1,812,612
 Francophone West Africa and East Africa. Beyond	7631
 Francophone West Africa. Digital	929
 Francophone West Africa. Stefan Nalletamby	9462
 Francophone West African	9291
 Francophone West and Central Africa	6580
+Francophone. Francophone North Africa	12339
 Francophonie BAD Banque Africaine de Développement CSCRP	12
 Free Movement of People Across Africa	12227
 Free Trade Area AfDB African Development	7548
@@ -4476,6 +4546,7 @@ Gazoduc Africain Atlantique	8755
 General Manager Africa	11162
 General Manager for Africa	3409
 General Manager for Sub-Saharan Africa	5837
+German South West Africa	12367
 Germany. Southern Africa Research Foundation for Artificial	2816
 Get The Best African Tech Newsletters	2826,239,405,257,318
 Ghana Research ICT Africa	7954
@@ -4499,6 +4570,7 @@ Global Africa Tech Summit	5584,369
 Global Banking and Markets Africa	11134
 Global Center for AI Governance and CSIS Africa	7588
 Global Council for Investment and Business for Africa	10518
+Global Entrepreneurship Monitor. Supporting Africa	12376
 Global Findex Africa	11919
 Global Fund South Africa Digital Health	7707
 Global Funding Report Africa	4972
@@ -4527,6 +4599,7 @@ Google Africa MD Alex Okosi	6961
 Google Africa Nonprofit Support	676
 Google Backs AI Innovation Across Africa	8698
 Google Business Profile. Africa	1363
+Google Cloud Africa	12362
 Google Cloud Credits. African	5302
 Google Cloud Summit Africa	7030
 Google Cloud's Africa	2292
@@ -4580,6 +4653,7 @@ Governo da União Africana	795
 Grand Challenges Africa	1148
 Grant-in-Aid Under the India-Brazil-South Africa Fund	11579
 Greater Horn of Africa Climate Outlook	9766
+Green Energy Africa Summit	12380
 GreyDale Africa	2668
 Grid That Supports Africa’s Digital Ambitions	4906
 Gross Settlement Southern African Customs Union	11134
@@ -4597,6 +4671,7 @@ Guinée. Voir Connecting Africa	6704
 Gulf African Bank	6946
 H-HcI H-TII Africa Tonga High EGDI	10840
 H-TII Africa Nicaragua High EGDI M-OSI	10840
+H2 Atlas Africa	12358
 H55PM Development Bank of Southern Africa Page	11240
 HEALTH INTEROPERABILI TY IN SOUTH AFRICA	1009
 HEALTH INTEROPERABILITY IN SOUTH AFRICA	1009
@@ -4762,12 +4837,13 @@ ITU RDF Africa	690,1
 ITU Regional Development Forum for Africa	6642,304
 ITU Regional Director for Africa	8464
 ITU Regional Office for Africa	27
+ITU for Africa	12385
 ITU-ALERT International Cyber Drill for Africa Region	318
 ITU’s Global Africa	6946
 ITW Africa	11489
 ITWeb Africa	564,222,386,413,545,22,65,42,1045,877,294,20,52,166,245,94,344,15,108,696,464,44,55,78,6,296,3,126,96,84,111,642,228,522,71,503,72,87,19,65,15,161,1751
 ITWeb Africa Contributor	4106
-ITWeb Africa Contributor Johannesburg	8141
+ITWeb Africa Contributor Johannesburg	8141,4282
 ITWeb Africa Contributor. Johannesburg	7388,453
 ITWeb Africa ContributorJohannesburg	6900,3207
 ITWeb Africa and Taarifa	7349
@@ -4775,7 +4851,7 @@ ITWeb Africa. Johannesburg	6238
 ITWeb South Africa	7478,22,2108
 ITWeb and Tech Africa News	8947
 IX Africa	10261
-Ibrahim Index of African Governance	5879,4880,76,2,1,130,902,16,1,1,1,263,1,1,9
+Ibrahim Index of African Governance	5879,4880,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1
 Ibrahim de Governação Africana	11543
 Ic Burundi Africa Eastern Africa Bujumbura	10840
 Icasa South African	4110
@@ -4797,6 +4873,7 @@ Increasing African	10188
 Independent Communications Authority of South Africa	926,31,738,115,2,757,368,7,2,1296,490,328,132,406,19,191,64,118,193,284,424,160,372,404,1,22,130,109,41,31,12,62,163,203,67,173,76,412,430,777,659,16,9,10,5,27,705
 Independent Communications Authority of South Africa Act	5872,1956,3407
 Independent Communications Authority of South Africa ICT	6832
+Indexed African Journal of Empirical Research	12467
 India AI Impact Summit. African	6267
 India Africa Forum Summit	2667
 India Africa Forum Summit III	11579
@@ -4862,6 +4939,7 @@ Institute of South Africa NICIS National Integrated	11196
 Institute of South Africa and AI Hubs	4970
 Institution SARS South African Revenue Service	11298
 Institutions Multilatérales Africaines Ministère	10708
+Institutions. Sub-Saharan Africa Namibia	12355
 Integrated Africa	11149
 Integrated African Strategy	11283
 Integrating Africa	11149,134,556
@@ -4922,6 +5000,7 @@ JHUB Africa JHUB Africa	12155
 JOURNÉE AFRICAINE DE LA DÉCENTRALISATION	9637
 James Currey Prize for African Literature	2702
 Janngo Start-Up Fund The African Development	9463
+Japanese Investors and African Startups	12376
 Jean-Christophe Maur Integrating Africa	11149
 Jennifer Onyeagoro Smart Africa	4326
 Jetstream Africa	4972
@@ -4977,6 +5056,7 @@ Kenya and Tanzania. African Development Bank	10718
 Kenya and Uganda. Africa Analysis	10537
 Kenya and United Bank for Africa	10223
 Kenya and World Bank- Eastern Africa Regional	12151
+Kenya and Zambia Introduction How Africans	12435
 Kenya. As for Africans	12151
 Kenya. InfraCo Africa	1127
 KenyaEast AfricaEsther WaitituPeter NdengwaRead	4087
@@ -4984,6 +5064,7 @@ Kenyan Startups Beat Rest of Africa	12221
 Kenyan and African	7548
 Kenyans In the East African	12151
 Kenya’s and Africa	8093
+Kepple Africa	12376
 Kepple Africa Ventures and Endeavor Catalyst. Moniepoint	711
 Kestrel Capital and AfricInvest	4978
 Key Points Afreximbank and South Africa’s Industrial	8044
@@ -5021,7 +5102,7 @@ Land Claim Commissioner SACPLAN South African	11261
 Latin America Middle East Africa Pacific	10977
 Latin America and Africa	8598,3257
 Latin America and Africa. Reflecting	10846
-Launch Africa	3779,1380,720,78,1525,129,465,3,977,411
+Launch Africa	3779,1380,720,78,1525,129,465,3,977,411,2872
 Launch Africa Seed Fund	7611
 Launch Africa VaulFi	5159
 Launch Africa Ventures	5879,18,92,1493,129,328,2525
@@ -5054,7 +5135,7 @@ LeapFrog and Tana Africa Capital	908
 Learning Africa News. Retrieved	899
 Leaves Francophone Africa Channel-Hopping Canal	5407,676
 Left Many African Data Workers	6948
-Lesotho and South Africa	11131,3
+Lesotho and South Africa	11131,3,1298
 Lessons for African	5570
 Lessons for South Africa	2948
 Levantine Arabic and African French	6705
@@ -5067,10 +5148,12 @@ Liberians. As Front Page Africa	5494
 Lighting Africa	12191
 Lighting Africa Country Page	12191
 Lightrock Africa Fund II	4450
+Line AFRALTI African Advanced Level Telecommunications	12395
 LinkedIn YouTube South Africa	6559,339
 Liquid Intelligent Technologies South Africa	1524
 Liquid Telecom South Africa Term Loan	686
 Liquid Telecommunications South Africa	686
+List of Abbreviations AfCFTA African Continental Free	12376
 Lista de Países Africanos	2816
 Livelihood Strategies of Central African Refugees	10841
 Livre Continental Africana	11569
@@ -5091,7 +5174,9 @@ M Africa	1428,116
 M Bpifrance-Mubadala Africa	1544
 M Center for Inclusive Digital Transformation of Africa	911
 M DI. ECP Africa Fund IV	292
+M PEOPLE IN AFRICA TO ENERGY	12399
 M Series C for MFS Africa	606
+M and Moove Africa’s US	12339
 M-KOPA Convertible Loan Note Africa Finance	1042
 M-OSI H-HcI VH-TII Africa Andorra High	10840
 M-PESA Africa	6971,528,68,375,641
@@ -5137,6 +5222,7 @@ MTN's African	6593
 MTN's and Equinix's South African	1208
 MTN. Africa	10739
 MTN’s South African	9663
+MUGABEKAZI Neema Crepine UWITONZE African YIBUKUWAYO	12445
 MW Africa Data ACC-1 Accra Pipeline	10861
 MW. Combined South Africa	596
 MWC Africa	10482
@@ -5213,6 +5299,7 @@ Mediclinic Southern Africa	10538
 Mediclinic Southern Africa Pippa Yeats	10538
 Mediterranean-Equatorial Digital United SEALINK for Africa	854
 Medusa Africa	6503,270,3605
+Meet South Africa’s Internet Big Sisters	12336
 Meet the Google for Startups Accelerator Africa Class	5875
 Meeting Africa’s Growing Compliance Needs	4791
 Meeting of African Caucus of Finance Ministers	1885
@@ -5258,12 +5345,14 @@ Ministry of East African Community	11994
 Ministry of External Affairs. The South African	6480
 Ministry of Health Zambia and IHM Southern Africa	5984
 Ministry of Health. IHM Southern Africa	7383
+MinistryA Yes South Africa MinistryB	12325
 Ministério da Justiça Africana	10750
 Miss South Africa	12116
 Mmegi's African Politics	6141
 Mo Ibrahim Foundation’s Ibrahim Index of African	11863
 Mobile Economy Africa	6426,167,2519,1744
 Mobile Economy Africa State	6593
+Mobile Economy Report for Sub-Saharan Africa	12385
 Mobile Economy Sub-Saharan Africa	5434,3319,2066
 Mobile Financial Services Platform Africa	294
 Mobile Health Technology Africa Ministry of Foreign	833
@@ -5326,6 +5415,7 @@ Moov Africa. Jusqu’ici	3658
 Moov Africa. Pour	6497
 Moov Africa. Sa	7010
 Moov Africa. Sur	3658
+Moove Africa and Moniepoint	12339
 Morabeza Innovation Project African Development Bank	1409
 Morne Gijben AfricaWebinar Mar2022 PPT.pdf Author	11191
 Morocco Gitex Africa	5772
@@ -5336,7 +5426,7 @@ Move Africa Gabon Télécom	2263
 Movement South Africa NPC	11986
 Mozambique Eastern and Southern Africa Region Attachment	2474
 Mozambique Zimbabwe Botswana South Africa North	9616
-Mozambique and South Africa	9761
+Mozambique and South Africa	9761,2621
 Mozambique and South Africa. Figure	12256
 Mozambique. The Africa Local Public	1740
 Ms Cynthia Lesufi of South Africa	7793,157
@@ -5413,6 +5503,7 @@ Nelson Mandela African Institution of Science	2816,8241
 Nelson Mandela African Institution of Science and Technology	2816,8241
 Neoma Africa Fund III	448
 Neoma Africa Fund III. Octotel	448
+Network SADC Southern African Development Community	12395
 Network of African Data Protection Authorities	1243,1526,40,1774
 News Cauridor Deepens West Africa Push	9811
 News Southern Africa Strengthens Protection of Cultural	11439
@@ -5465,7 +5556,7 @@ North Africa and West Asia	4807
 North Africa. Benmouloud	2845
 North Africa. By Samira Njoya	2567
 North Africa. Recent	4084
-North African	2673,4,291,960,124,32,84,27,433,346,366,36,577,612,127,2136,378,1486,1547
+North African	2673,4,291,960,124,32,84,27,433,346,366,36,577,612,127,2136,378,1486,1547,97
 North African Power Pool	11149
 North Africa’s Digital Health Push Tunisia	7766
 North America and Europe. Africa	7281
@@ -5594,6 +5685,8 @@ Pan Africa Network Group	6946
 Pan African	961
 Pan African Advocacy and Advancement Centre	8551
 Pan African Alliance of Small and Medium Industry	10262
+Pan African Challenger	12376
+Pan African Conference	12361
 Pan African Lawyers Union	3583,5562
 Pan African Mathematics Olympiad	9014
 Pan African Payment and Settlement System	8442
@@ -5618,7 +5711,7 @@ Parliament’s South Africa	3035,253,61,689,520,84,1026,183,181,224,255,42,811,4
 Part of Africa	8350
 Part of Proparco's Choose Africa VC	4516
 Part of UNDP Africa	951
-Partech Africa	293,98,322,222,3787,126
+Partech Africa	293,98,322,222,3787,126,7491
 Partech Africa Fund	188
 Partech Africa Fund I	855
 Partech Africa Fund II	818,47,30,160
@@ -5628,6 +5721,8 @@ Partech Africa II Fund	818,610,116
 Partech Africa II Fund LP	1428,116
 Partech Africa Series	293,98,543
 Partech Africa Team	10954
+Partech Africa Team Marie Benrubi	12339
+Partech Africa Team Topline Deals	12339
 Partech Africa and Briter Bridges	5930
 Partech Africa. Co-investors	293
 Partnership for Africa	5095
@@ -5762,6 +5857,7 @@ Public Relations Institute of Southern Africa	7227
 Public Relations Institute of Southern Africa. Dladla	11353
 Public Sector Lead for Sub-Saharan Africa	9849
 Public Sector Permalink Share Africa	10794
+Public Service Management Division Southern African	12453
 Publicis Groupe Africa. Aujourd'hui	8433
 Publisher Research ICT Africa Workshop	9759
 Pulse of Africa	8671
@@ -5828,6 +5924,7 @@ Recommendations Africa	6938
 Recommendations for Southern African Member States	6979
 Records Service of South Africa	11349
 Red Note Africa's Khetsiwe Dlamini	9304
+References Africa Union Commission	12367
 References African Development Bank	10841,1351
 References African Union	11135,1040
 References Republic of South Africa. Department of Home	6512
@@ -5864,12 +5961,15 @@ Regional and ECOWAS and African Union	1777
 Registry. The African Union AI Strategy	9937
 Regulator of South Africa	11904
 Regulator of South Africa NNR National Nuclear	11228
+Regulators' Association of Southern Africa DSL Digital	12395
 Regulatory Crossroads South Africa	6998
 Regulatory Crossroads South Africa Finance	6998
 Regulatory Harmonization. AfricaNenda Foundation	8151
 Reimagining Africa	5825
 Reimagining Economic Opportunities for Africa's Workforce	2686
 Reinforcement of South Africa	11235
+Related Stories How Is South Africa	12336
+Related Stories Meet South Africa’s Internet	12336
 Remote Sensing South African Weather Service	11191
 Remove Metadata and Documents RFD South African	1009
 Renewable Energy and Climate Technologies Sub-Saharan Africa	12191
@@ -5906,7 +6006,7 @@ Republic of South Africa’s Department of Higher Education	6832
 Republic. The Central African Republic	10826
 Requested the African Union Commission	4103
 Research Council of Zimbabwe and The African Centre	1154
-Research ICT Africa	236,350,74,120,1,1,179,24,6,1126,1555,504,268,70,186,83,225,36,197,80,482,19,230,366,18,76,374,62,155,206,645,71,118,303,152,235,3,923,1436
+Research ICT Africa	236,350,74,120,1,1,179,24,6,1126,1555,504,268,70,186,83,225,36,197,80,482,19,230,366,18,76,374,62,155,206,645,71,118,303,152,235,3,923,1436,1130
 Research ICT Africa After Access	544
 Research ICT Africa Just AI Framework	7103
 Research ICT Africa Submission	6512
@@ -5927,7 +6027,7 @@ Resilience. The Western and Central Africa Regional	10829
 Resilient Digital Ecosystem for West Africa	5790
 Resolution System SA South African SACCL	11250
 ResponsibleAI East Africa AI	11307
-Rest of Africa	4883,6071
+Rest of Africa	4883,6071,1385
 Rest of Africa Startups	4883
 Restated1 South Africa Nigeria Ghana SEA	10793
 Results Report Eastern Africa Regional Digital	6928
@@ -5942,6 +6042,7 @@ Rights for South African Citizens	11896
 Ring With IBO Africa Title Fight	10151
 Road Ahead. African Development Bank	11909
 Roads Agency SARS South Africa Revenue	11261
+Robust Digital and Financial Africa	12444
 Rock Africa Limited	8595
 Role of MOBEX Africa At MOBEX	5970
 Rural Africa	11140
@@ -5952,6 +6053,8 @@ Rwanda and East Africa	3245
 Rwanda and South Africa	7648,2172,149,2245
 Rwanda and South Africa. Management Policy	12214
 Rwanda's Carnegie Mellon Africa	8206
+Rwanda's East African	12333
+Rwandan and African	12438
 Réseau Africain APDP BILAN	10821
 Réseau Africain des Autorités de Protection des Données	3356
 Réseau des Journalistes Africains Spécialistes	5546
@@ -5968,6 +6071,7 @@ SABC. South Africa	8946
 SABRIC South African Banking Risk Information	5533
 SADA Smart Africa Digital Academy SCMD	1264
 SADC Region and South African BRICS	11289
+SADC Southern Africa Development SAFE Simple	12376
 SADC Southern African Development Community SASRA	2775
 SADC Southern African Development Community SDGs	11960
 SADC and African	4528
@@ -5998,7 +6102,7 @@ SMART AFRICA TRUST ALLIANCE	10819
 SMART AFRICA USE CASE	10819
 SMART AFRiCA	961
 SMART Africa Manifesto	395
-SOUTH AFRICA	2660,8342,182,1048
+SOUTH AFRICA	2660,8342,182,1048,246
 SOUTH AFRICA COMMUNICATION	3161
 SOUTH AFRICA DATA	11262
 SOUTH AFRICA DEEDS REGISTRIES AMENDMENT ACT	11217
@@ -6036,6 +6140,7 @@ SSA Sub-Saharan Africa STEP Systematic Tracking	11380
 SSA Sub-Saharan Africa USAID United States	12006
 SSA Sub-Saharan Africa USD US	10861
 SSA US African Development Foundation	530
+SSA and Eastern Africa	12385
 STA-S Southern Africa Annex	9630
 STA-S Southern Africa Programme	9630
 STANBIC BANK AFRICA TRADE BAROMETER ISSUE	5247
@@ -6052,6 +6157,7 @@ SUB-SAHARAN AFRICA	10977
 SUBMISSION BY RESEARCH ICT AFRICA	6512
 SUBREGIONAL ACCESS DEFICITS IN AFRICA	11572
 SUCCESS STORIES FROM SUB-SAHARAN AFRICA	11572
+SURVEY TOPLINE FINDINGS Southern Africa REGISTERED	12409
 SWFDP-Southern Africa	11191
 SWFP-Southern Africa	11191
 SYSTEMS IN AFRICA SIIPS	12000,269,1
@@ -6060,16 +6166,18 @@ SaaS. AfricaGrow	912
 Safe Digital Boost for Africa	1452
 Saga Africa Holdings	241
 Sahara Africa	8376
-Saharan Africa	19,73,57,64,1,22,288,65,354,18,61,125,9,1,1,1,60,29,115,191,2,170,225,15,11,2,179,83,194,104,56,107,73,170,3,236,1,251,46,5,117,178,409,276,30,17,11,196,251,64,461,36,241,28,140,131,75,55,123,19,27,1,190,41,33,42,205,253,14,78,12,19,64,215,6,3,56,15,182,35,50,133,357,248,30,372,93,9,27,51,24,55,171,118,42,19,36,38,30,49,16,67,32,66,219,89,147,350,6,1,60,20,102,32,2,19,124,15,109,44,2,91,16,52,55,35,19,7,51,84,101,42,51,2,8,62,4,16,72,12,141,3,12,32,19
+Saharan Africa	19,73,57,64,1,22,288,65,354,18,61,125,9,1,1,1,60,29,115,191,2,170,225,15,11,2,179,83,194,104,56,107,73,170,3,236,1,251,46,5,117,178,409,276,30,17,11,196,251,64,461,36,241,28,140,131,75,55,123,19,27,1,190,41,33,42,205,253,14,78,12,19,64,215,6,3,56,15,182,35,50,133,357,248,30,372,93,9,27,51,24,55,171,118,42,19,36,38,30,49,16,67,32,66,219,89,147,350,6,1,60,20,102,32,2,19,124,15,109,44,2,91,16,52,55,35,19,7,51,84,101,42,51,2,8,62,4,16,72,12,141,3,12,32,19,39,31,2,48,10
 Saharan Africa and South Asia	9653
 Saharan Africa's GDP. Yet	3691
 Saharan Africa. AI	7545
 Saharan Africa. Africa	1726
 Saharan Africa. Airtel Africa	6932
 Saharan Africa. Beyond	6111
+Saharan Africa. Classified	12367
 Saharan Africa. Consequently	11924
 Saharan Africa. Ctrack's IoT	620
 Saharan Africa. Côte	6884
+Saharan Africa. Despite	12399
 Saharan Africa. First	623
 Saharan Africa. Fund	454,366,12
 Saharan Africa. GSMA	12278
@@ -6087,6 +6195,7 @@ Saharan African	215,551,299,147,229,113,172,201,409,44,1411,258,2240,2087,753,50
 Salaam. Wingu Africa	2580
 Sales Director-East Africa	6186
 Samkelisiwe Mavimbela Ezulwini- Southern African	8377
+Samurai Incubate Africa	12376
 Santiago Declaration. Africa	5302
 Saudi Arabia EACO and Smart Africa	2511
 Scalar International's Africa Decarbonisation Fund	5431
@@ -6103,7 +6212,7 @@ Science For Africa Foundation	1148
 Science Forum South Africa	6480,4705
 Science for Africa	5601
 Scientific African	2093,425,430
-Scientific and Cultural Organization AUC African Union	10835,3,130,902,16
+Scientific and Cultural Organization AUC African Union	10835,3,130,902,16,466,1
 Scott Timcke of Research ICT Africa	10729
 Scramble for Africa	4426
 SecFin Africa	5640
@@ -6153,10 +6262,11 @@ Sesan. South Africa	1812
 Sets Roadmap for Scaling African Solutions Rwanda	8674
 Seven African	9263
 Seven of South Africa	11297
+Several Africa-	12376
 Several African	961,2637,770,1971,242,4359,1292
 Several African AI	6410
 Several South African	428,6627
-Seychelles Mauritius Cabo Verde South Africa	10837
+Seychelles Mauritius Cabo Verde South Africa	10837,1503
 Seychelles and South Africa	962
 Seychelles and South Africa The Tony Blair	11894
 Shadrach Aziz Kamara Africell Sierra	9449
@@ -6194,9 +6304,10 @@ Skosana PayInc PayShap South African Reserve	6286
 Skye Africa Intelligence	8907
 Skye Africa Intelligence Co-Founder and Chief Executive	8907
 Slowing Deterioration. African	11888
-Small Medium Africa Middle	10976
+Small Medium Africa Middle	10976,1370
 Small World Financial Africa	4459
-Smart Africa	961,221,22,218,306,51,35,868,112,45,170,32,121,110,67,39,20,96,55,325,85,27,1,43,6,14,76,200,188,69,222,543,47,5,276,25,120,392,37,16,1,81,21,1,576,58,142,51,31,26,1,107,495,3,183,93,207,628,99,49,17,492,4,78,148,28,187,746,3,318,299,44,339,12
+Small and Medium-sized Enterprise Africa MTO Money	12444
+Smart Africa	961,221,22,218,306,51,35,868,112,45,170,32,121,110,67,39,20,96,55,325,85,27,1,43,6,14,76,200,188,69,222,543,47,5,276,25,120,392,37,16,1,81,21,1,576,58,142,51,31,26,1,107,495,3,183,93,207,628,99,49,17,492,4,78,148,28,187,746,3,318,299,44,339,12,532
 Smart Africa AI	10801
 Smart Africa AI Blueprint	6054,5211
 Smart Africa AI for Africa Blueprint	2682
@@ -6235,7 +6346,7 @@ Smart Africa Partners	10819
 Smart Africa Partners Ascend Digital Solutions	4326
 Smart Africa Representative	7362
 Smart Africa SDG5 Global Council	7687
-Smart Africa Secretariat	603,358,303,2610,4371,1647,1,180,746
+Smart Africa Secretariat	603,358,303,2610,4371,1647,1,180,746,1547
 Smart Africa Secretariat RFP	4050
 Smart Africa Secretariat Terms of Reference	4050
 Smart Africa Secretariat. Mare	10073
@@ -6281,7 +6392,7 @@ Sommet Digital Africa	6861
 Soouurrccee Tanzania South Africa	12256
 Sources of Finance for Central African Republic Refugees	10841
 Sources of Income for Central African Republic Returnees	10841
-South Africa	52,38,4,11,78,36,17,6,7,69,4,54,20,6,1,8,7,10,4,1,27,2,48,5,29,16,11,15,9,1,15,1,8,1,2,1,25,24,2,8,1,2,28,39,13,1,52,1,1,14,22,4,1,51,13,21,1,9,1,3,29,19,4,3,20,2,16,1,2,1,4,64,8,1,1,3,1,32,2,22,10,2,33,2,1,118,1,41,14,16,31,55,4,13,13,2,2,36,15,42,39,9,42,3,1,69,2,2,6,32,17,21,3,19,26,1,1,4,7,9,12,13,12,96,9,13,1,1,93,36,31,16,1,13,3,19,23,65,6,36,33,26,3,2,1,1,1,6,6,1,2,11,17,3,23,6,6,7,7,5,34,2,15,5,10,10,22,38,13,43,4,4,68,41,2,6,1,2,2,9,16,25,3,5,5,1,9,16,16,12,38,8,22,18,34,28,9,42,26,54,8,26,13,14,30,4,24,7,8,6,37,1,11,21,22,4,15,1,2,21,2,1,14,15,2,35,37,2,10,23,22,58,14,5,14,16,8,25,7,3,5,5,12,8,2,66,15,40,41,1,23,2,39,14,27,10,2,12,3,65,99,2,7,10,1,2,3,21,35,7,9,5,29,7,22,7,12,31,34,22,33,8,2,2,38,11,3,15,15,8,7,3,11,3,35,13,15,17,22,2,10,2,6,2,16,2,18,9,8,7,3,9,6,4,1,5,24,26,12,2,14,3,6,14,14,23,2,2,6,6,4,13,11,4,1,5,4,5,2,60,3,2,22,13,1,2,6,29,7,12,19,1,4,19,11,24,4,5,22,4,11,7,13,5,14,14,1,2,2,10,5,4,1,5,1,56,7,10,1,4,18,11,2,6,42,16,7,2,17,13,7,18,4,3,3,1,2,2,34,8,8,3,24,8,3,1,3,13,5,64,1,17,5,47,15,8,3,1,1,13,4,14,3,10,1,18,11,22,7,6,5,1,19,3,16,3,29,2,26,3,18,1,23,16,37,4,4,9,6,4,2,20,9,6,1,11,3,9,8,6,7,8,3,10,10,10,3,16,1,34,2,3,11,7,1,17,2,4,6,1,8,5,1,1,26,3,8,17,1,1,16,17,1,6,2,14,19,1,8,10,5,1,2,4,8,24,3,2,2,1,8,2,13,10,9,16,1,1,11,5,22,15,4,1,2,6,2,5,5,3,14,3,10,20,1,8,2,1,7,6,5,17,7,1,6,11,7,3,2,10,13,9,11,13,12,3,2,1,19,6,9,16,5,4,16,18,5,24,17,8,9,12,15,11,11,9,7,5,26,3,5,1,3,21,5,2,1,4,7,14,16,4,4,5,4,2,1,1,9,30,1,28,24,12,3,5,5,1,1,1,15,8,3,8,34,1,8,9,5,3,33,24,11,18,23,13,4,1,9,17,7,2,3,1,2,1,1,2,1,3,4,2,1,1,7,1,32,11,1,22,15,2,1,1,1,3,3,5,1,18,12,9,26,27,26,4,2,5,1,28,53,21,11,12,11,22,4,8,7,8,9,27,1,5,21,50,8,4,8,7,1,2,2,1,1,11,2,26,8,8,4,4,2,10,67,34,2,1,56,1,5,1,5,5,35,5,18,2,7,15,7,59,3,9,8,7,3,10,16,15,8,1,7,1,3,1,22,2,5,1,1,1,1,16,37,39,12,1,8,7,61,19,1,18,18,5,3,84,37,66,12,10,9,23,1,5,8,3,1,11,31,1,1,4,1,8,6,1,4,4,53,2,2,4,1,1,46,65,7,2,6,1,7,27,23,6,8,1,1,16,30,17,5,21,18,1,41,18,2,27,4,4,12,17,7,5,1,2,1,23,2,18,14,41,3,2,2,1,2,9,4,54,31,17,12,28,8,8,5,3,16,13,1,1,1,1,50,1,6,6,21,14,17,20,17,24,8,7,6,3,2,4,15,4,1,21,8,1,3,1,1,2,5,5,24,3,2,6,10,5,20,6,2,43,14,6,2,14,17,10,9,1,1,5,5,11,19,56,20,6,2,1,3,1,5,8,1,14,4,3,7,1,4,1,1,1,3,3,1,1,2,1,1,1,11,1,1,1,3,3,2,1,1,1,1,1,1,1,1,1,1,3,1,1,1,1,2,1,2,1,1,1,1,2,2,2,1,1,2,1,1,1,3,2,1,4,3,3,1,1,3,4,1,1,2,1,1,2,2,1,1,1,1,12,11,4,9,2,2,5,57,1,6,62,20,2,4,2,5,43,27,29,8,19,32,25,82,25,48,1,2,1,13,13,13,2,1,1,2,1,4,2,3,9,9,5,5,2,9,2,6,1,2,4,14,10,3,6,6,5,4,4,12,6,2,16,13,15,3,1,15,12,16,35,2,1,9,15,9,5,9,5,15,4,7,7,13,26,31,8
+South Africa	52,38,4,11,78,36,17,6,7,69,4,54,20,6,1,8,7,10,4,1,27,2,48,5,29,16,11,15,9,1,15,1,8,1,2,1,25,24,2,8,1,2,28,39,13,1,52,1,1,14,22,4,1,51,13,21,1,9,1,3,29,19,4,3,20,2,16,1,2,1,4,64,8,1,1,3,1,32,2,22,10,2,33,2,1,118,1,41,14,16,31,55,4,13,13,2,2,36,15,42,39,9,42,3,1,69,2,2,6,32,17,21,3,19,26,1,1,4,7,9,12,13,12,96,9,13,1,1,93,36,31,16,1,13,3,19,23,65,6,36,33,26,3,2,1,1,1,6,6,1,2,11,17,3,23,6,6,7,7,5,34,2,15,5,10,10,22,38,13,43,4,4,68,41,2,6,1,2,2,9,16,25,3,5,5,1,9,16,16,12,38,8,22,18,34,28,9,42,26,54,8,26,13,14,30,4,24,7,8,6,37,1,11,21,22,4,15,1,2,21,2,1,14,15,2,35,37,2,10,23,22,58,14,5,14,16,8,25,7,3,5,5,12,8,2,66,15,40,41,1,23,2,39,14,27,10,2,12,3,65,99,2,7,10,1,2,3,21,35,7,9,5,29,7,22,7,12,31,34,22,33,8,2,2,38,11,3,15,15,8,7,3,11,3,35,13,15,17,22,2,10,2,6,2,16,2,18,9,8,7,3,9,6,4,1,5,24,26,12,2,14,3,6,14,14,23,2,2,6,6,4,13,11,4,1,5,4,5,2,60,3,2,22,13,1,2,6,29,7,12,19,1,4,19,11,24,4,5,22,4,11,7,13,5,14,14,1,2,2,10,5,4,1,5,1,56,7,10,1,4,18,11,2,6,42,16,7,2,17,13,7,18,4,3,3,1,2,2,34,8,8,3,24,8,3,1,3,13,5,64,1,17,5,47,15,8,3,1,1,13,4,14,3,10,1,18,11,22,7,6,5,1,19,3,16,3,29,2,26,3,18,1,23,16,37,4,4,9,6,4,2,20,9,6,1,11,3,9,8,6,7,8,3,10,10,10,3,16,1,34,2,3,11,7,1,17,2,4,6,1,8,5,1,1,26,3,8,17,1,1,16,17,1,6,2,14,19,1,8,10,5,1,2,4,8,24,3,2,2,1,8,2,13,10,9,16,1,1,11,5,22,15,4,1,2,6,2,5,5,3,14,3,10,20,1,8,2,1,7,6,5,17,7,1,6,11,7,3,2,10,13,9,11,13,12,3,2,1,19,6,9,16,5,4,16,18,5,24,17,8,9,12,15,11,11,9,7,5,26,3,5,1,3,21,5,2,1,4,7,14,16,4,4,5,4,2,1,1,9,30,1,28,24,12,3,5,5,1,1,1,15,8,3,8,34,1,8,9,5,3,33,24,11,18,23,13,4,1,9,17,7,2,3,1,2,1,1,2,1,3,4,2,1,1,7,1,32,11,1,22,15,2,1,1,1,3,3,5,1,18,12,9,26,27,26,4,2,5,1,28,53,21,11,12,11,22,4,8,7,8,9,27,1,5,21,50,8,4,8,7,1,2,2,1,1,11,2,26,8,8,4,4,2,10,67,34,2,1,56,1,5,1,5,5,35,5,18,2,7,15,7,59,3,9,8,7,3,10,16,15,8,1,7,1,3,1,22,2,5,1,1,1,1,16,37,39,12,1,8,7,61,19,1,18,18,5,3,84,37,66,12,10,9,23,1,5,8,3,1,11,31,1,1,4,1,8,6,1,4,4,53,2,2,4,1,1,46,65,7,2,6,1,7,27,23,6,8,1,1,16,30,17,5,21,18,1,41,18,2,27,4,4,12,17,7,5,1,2,1,23,2,18,14,41,3,2,2,1,2,9,4,54,31,17,12,28,8,8,5,3,16,13,1,1,1,1,50,1,6,6,21,14,17,20,17,24,8,7,6,3,2,4,15,4,1,21,8,1,3,1,1,2,5,5,24,3,2,6,10,5,20,6,2,43,14,6,2,14,17,10,9,1,1,5,5,11,19,56,20,6,2,1,3,1,5,8,1,14,4,3,7,1,4,1,1,1,3,3,1,1,2,1,1,1,11,1,1,1,3,3,2,1,1,1,1,1,1,1,1,1,1,3,1,1,1,1,2,1,2,1,1,1,1,2,2,2,1,1,2,1,1,1,3,2,1,4,3,3,1,1,3,4,1,1,2,1,1,2,2,1,1,1,1,12,11,4,9,2,2,5,57,1,6,62,20,2,4,2,5,43,27,29,8,19,32,25,82,25,48,1,2,1,13,13,13,2,1,1,2,1,4,2,3,9,9,5,5,2,9,2,6,1,2,4,14,10,3,6,6,5,4,4,12,6,2,16,13,15,3,1,15,12,16,35,2,1,9,15,9,5,9,5,15,4,7,7,13,26,31,8,8,2,6,4,2,2,11,1,9,5,9,4,2,1,2,14,16,4,3,4,6,37
 South Africa ABSTRACT	8604,1
 South Africa AI	6886
 South Africa AI Artificial Intelligence API	5533
@@ -6322,6 +6433,7 @@ South Africa Developers	12239
 South Africa Digital Economy Working	6386
 South Africa Digital Infrastructure Investment Study	5602
 South Africa Domestic Developments The South	11131
+South Africa E-GOVERNMENTINITIATIVES IN THE PUBLIC	12325
 South Africa Economic Developments	11134
 South Africa Economic Impact Study	1208
 South Africa Edition	1972
@@ -6355,9 +6467,11 @@ South Africa Lack	1939
 South Africa Launches African Digital Transformation	11254
 South Africa Lever	6948
 South Africa Limited	7785
+South Africa Local AuthorityB	12325
 South Africa MTN	10740
 South Africa Mahlatse M. Shekgola Received	8021
 South Africa Method	9237
+South Africa Ministry F No MinistryG	12325
 South Africa Moyana and Chuma	8022
 South Africa Mozambique Tanza	12256
 South Africa NIS National Operations Centre	11986
@@ -6391,6 +6505,7 @@ South Africa Rank Unicorn Company Industry	11885
 South Africa Rated Capacity Substation Transmission	11953
 South Africa Received	11927
 South Africa Reclaims Momentum	4722
+South Africa Regional Council	12325
 South Africa Remains the Anchor Johannesburg and Cape	6791
 South Africa Report Andrew Partridge	11195
 South Africa Reserve Bank	8268
@@ -6425,7 +6540,7 @@ South Africa Will Meng	7979
 South Africa World Bank Country Office	6832
 South Africa ZAR	11002
 South Africa and Africa	2525
-South Africa and Angola	2775,5353,2968
+South Africa and Angola	2775,5353,2968,1280
 South Africa and Botswana	1815,1368,2080,474,1730,2292
 South Africa and Brazil	3840
 South Africa and Brazil. Four	11004
@@ -6435,12 +6550,12 @@ South Africa and EU	11210
 South Africa and EU Member States	11210
 South Africa and Egypt	6845,1172,16,819,1225,198,298,369,885,30,231
 South Africa and Europe	2773
-South Africa and Ghana	1805,8797,1698
+South Africa and Ghana	1805,8797,1698,115
 South Africa and Guinea	403
 South Africa and India	2117,9066,101
 South Africa and Indonesia	5366
 South Africa and Japan	2626
-South Africa and Kenya	462,523,3987,112,280,2575,1800,230,749,384
+South Africa and Kenya	462,523,3987,112,280,2575,1800,230,749,384,1237
 South Africa and Lesotho	3484
 South Africa and Lesotho. Problem	3484
 South Africa and M-Pesa	6563
@@ -6461,7 +6576,7 @@ South Africa and São Tomé and Príncipe	776
 South Africa and Tanzania	9759
 South Africa and Tunisia	9025
 South Africa and Uganda	1814,6259,3096
-South Africa and Zambia	1146,1924,3191,926,2572,2140
+South Africa and Zambia	1146,1924,3191,926,2572,2140,477
 South Africa and Zambia. Supports	944
 South Africa and Zimbabwe	3619,1628,2546,157,1111,2,1462,76,1298
 South Africa and Zimbabwe. Full	11899
@@ -6483,6 +6598,7 @@ South Africa's Data Centre Expansion Climate	9682
 South Africa's Department of Higher Education and Training	9985
 South Africa's Department of Home Affairs	2352,481,3887,1038
 South Africa's Department of Science	11288
+South Africa's Digital Divide	12336
 South Africa's Digital Infrastructure Investment Study	2116
 South Africa's Digital Transformation Journey	11940
 South Africa's DocFox and MNDR	7015
@@ -6555,11 +6671,13 @@ South Africa. A Kenyan	6214
 South Africa. Abstract	10323
 South Africa. Accepted	9129
 South Africa. African Journal of Development Studies	8603
+South Africa. Agritech and Cleantech	12376
 South Africa. All	3523
 South Africa. Among	318
 South Africa. Another	8021
 South Africa. BMC Med Inform Decis	766
 South Africa. Backfill	2025
+South Africa. Based	12376
 South Africa. Bond	460
 South Africa. Brazil’s Pix	7284
 South Africa. By Kelle Howson and Andrew	6512
@@ -6725,7 +6843,7 @@ South AfricaAugust	7076
 South AfricaJanuary	7076
 South AfricaMs Nicole Roos	11221
 South AfricaProf. Francis Petersen	11221
-South African	78,1,299,18,148,16,126,149,126,48,13,70,48,34,22,10,1,1,35,120,41,282,9,115,102,27,1,32,25,96,22,2,34,54,74,28,45,169,3,1,14,68,14,5,34,64,213,6,1,2,2,281,35,26,264,97,63,208,15,25,123,65,106,176,10,16,3,8,42,1,71,84,65,51,41,7,52,69,41,24,8,7,12,6,10,24,63,51,16,28,4,15,65,94,13,6,94,11,7,32,19,19,6,1,74,31,73,4,12,50,61,219,44,18,1,10,6,1,23,31,79,21,1,80,13,32,47,113,49,87,24,54,5,7,8,24,1,4,45,16,2,53,5,23,58,8,6,102,25,3,3,34,21,43,22,48,26,66,25,7,1,10,15,9,140,6,2,26,51,14,6,54,65,4,34,6,1,1,1,3,8,2,1,8,1,84,1,4,27,47,55,4,6,7,21,53,21,23,7,27,18,8,36,1,63,13,20,8,3,1,2,47,18,10,101,59,1,6,10,40,18,93,24,25,62,6,2,1,1,105,16,61,63,7,115,121,46,15,20,61,4,5,1,8,112,6,1,55,8,9,1,46,43,17,7,36,11,114,96,41,72,1,28,56,18,34,6,27,14,3,154,6,7,200,109,2,14,3,14,28,1,5,1,2,3,4,3,1,2,1,10,1,1,1,6,4,6,2,3,2,5,4,1,5,2,6,4,2,1,7,3,2,1,2,4,1,1,3,1,2,2,4,10,17,10,1,155,4,7,183,82,1,15,40,17,1,55,31,2,11,9,4,8,16,9,21,18,16,6,22,152,18
+South African	78,1,299,18,148,16,126,149,126,48,13,70,48,34,22,10,1,1,35,120,41,282,9,115,102,27,1,32,25,96,22,2,34,54,74,28,45,169,3,1,14,68,14,5,34,64,213,6,1,2,2,281,35,26,264,97,63,208,15,25,123,65,106,176,10,16,3,8,42,1,71,84,65,51,41,7,52,69,41,24,8,7,12,6,10,24,63,51,16,28,4,15,65,94,13,6,94,11,7,32,19,19,6,1,74,31,73,4,12,50,61,219,44,18,1,10,6,1,23,31,79,21,1,80,13,32,47,113,49,87,24,54,5,7,8,24,1,4,45,16,2,53,5,23,58,8,6,102,25,3,3,34,21,43,22,48,26,66,25,7,1,10,15,9,140,6,2,26,51,14,6,54,65,4,34,6,1,1,1,3,8,2,1,8,1,84,1,4,27,47,55,4,6,7,21,53,21,23,7,27,18,8,36,1,63,13,20,8,3,1,2,47,18,10,101,59,1,6,10,40,18,93,24,25,62,6,2,1,1,105,16,61,63,7,115,121,46,15,20,61,4,5,1,8,112,6,1,55,8,9,1,46,43,17,7,36,11,114,96,41,72,1,28,56,18,34,6,27,14,3,154,6,7,200,109,2,14,3,14,28,1,5,1,2,3,4,3,1,2,1,10,1,1,1,6,4,6,2,3,2,5,4,1,5,2,6,4,2,1,7,3,2,1,2,4,1,1,3,1,2,2,4,10,17,10,1,155,4,7,183,82,1,15,40,17,1,55,31,2,11,9,4,8,16,9,21,18,16,6,22,152,18,88,12
 South African AI	2523,1989,371,3901,1137,322
 South African AI Association	11012
 South African AI Startup Verascient Raises	11128
@@ -6891,6 +7009,7 @@ South African Post Office	1810,1454,1927,2323,241,3425,19,1,30,793
 South African Post Office Limited	11179
 South African Post Office R595	6152
 South African Post Office R595m	6151
+South African Post Office Regional Transit	12395
 South African Post Office SOC	11200
 South African Post Office SOC LTD	11199,1
 South African Post Office SOC Ltd	11199,1
@@ -6914,6 +7033,7 @@ South African Radio Astronomy Observatory	11248
 South African Rail Commuter	11551
 South African Rail Commuter Corporation	11551
 South African Rand	1429,5110,1904,2687,1,3,99,19
+South African Rand. Eswatini	12426
 South African Rands	11896
 South African Regulatory Divergence	6467
 South African Renewable Energy Masterplan	2626,8589
@@ -7033,6 +7153,7 @@ South Africa’s Financial Sector Conduct Authority	2826
 South Africa’s Free State	6791
 South Africa’s G20	8598
 South Africa’s G20 Presidency. Department of Home	9250
+South Africa’s GDP	12362
 South Africa’s Google	7181
 South Africa’s Government of National Unity	11131
 South Africa’s Herotel	5908,442
@@ -7084,32 +7205,41 @@ South HL7 Africa HNSF International Statistical	1009
 South IUA Africa	1009
 South Korea and Africa	11291
 South Sudan Vodacom South Africa	5908,442
-South West Africa	7404,851
+South West Africa	7404,851,4072,40
+South West Africa Act	12327,40
+South West Africa Identity Documents	12367
 South West Africa Peoples Organisation	1981
 South West Africa People’s Organisation	1981
 South West Africa Proclamation	3714
+South West Africa. Despite	12367
+South West Africa. The Births	12367
+South West African Administration	12367
 South and East Africa Contact	11234
 South and Southeast Asia. SSA African	1162
+South-West Africa	12337
+South-West Africa Act	12337
+South-West Africa ID UIN	12337
+South-West Africa-ID	12337
 South-eastern Asia Northern Africa and Western Asia	11572
 South-eastern Asia Western Asia and Northern Africa	11572
 SouthAfricanretailers. South African Computer Journal	8606
 Southeast Asia. Reaping the Low-Hanging Fruits for Africa	10848
 Southeastern African	3820
-Southern Africa	376,141,68,969,150,23,93,37,124,547,149,344,76,52,310,62,1,337,573,96,378,66,112,45,118,146,38,16,41,41,14,78,180,78,18,29,4,27,30,199,46,194,10,200,5,22,1,107,91,75,1,59,384,101,311,15,113,29,15,661,240,484,49,194,37,67,62,200,113,1,96,152,3,13,56,208,117,4,46,7,16,8,41,21,116,214,52,157,1,6,165,322,66,193,68
+Southern Africa	376,141,68,969,150,23,93,37,124,547,149,344,76,52,310,62,1,337,573,96,378,66,112,45,118,146,38,16,41,41,14,78,180,78,18,29,4,27,30,199,46,194,10,200,5,22,1,107,91,75,1,59,384,101,311,15,113,29,15,661,240,484,49,194,37,67,62,200,113,1,96,152,3,13,56,208,117,4,46,7,16,8,41,21,116,214,52,157,1,6,165,322,66,193,68,106,29,20,4,19,29,4,9
 Southern Africa Connectivity	9759
 Southern Africa Customs Union	6539
 Southern Africa Data Center Markets Brief	4428
-Southern Africa Development Community	958,4405
+Southern Africa Development Community	958,4405,7069
 Southern Africa Digital Rights	1642,17,157
 Southern Africa Digital Rights. Historical	1816
 Southern Africa Digital Rights. Named-analyst	1642
 Southern Africa Fraud Prevention Services	11940
-Southern Africa Geography	10759,1395
+Southern Africa Geography	10759,1395,186
 Southern Africa Governor	11134
 Southern Africa Health Community	11417
 Southern Africa Health Community ECSA-HC Excellence	11417
 Southern Africa Lead RSMC	11191
-Southern Africa Leadership	11870
+Southern Africa Leadership	11870,482,1
 Southern Africa MFB Micro Finance Banks	2775
 Southern Africa Morne Gijben Lead Scientist	11191
 Southern Africa Multi-Region East Africa	4972
@@ -7121,6 +7251,7 @@ Southern Africa Proparco	519
 Southern Africa Region	1814
 Southern Africa Region for Meta	8652
 Southern Africa Research and Policy Centre	1966
+Southern Africa Stephen Ndoma Stephen	12380
 Southern Africa Tech Review Africa	6427
 Southern Africa The FCDO	9697
 Southern Africa Trade and Connectivity Project	9945
@@ -7149,14 +7280,19 @@ Southern Africa. The Scalar Botswana Innovation	5393
 Southern Africa. The Southern Africa Subregional	6427
 Southern Africa. Under the MSA	6638
 Southern Africa. West Africa	4972
-Southern African	1554,66,194,1,1,401,80,1137,34,220,28,145,193,716,240,372,32,93,22,227,131,43,27,128,456,1,76,20,26,29,133,250,155,577,33,178,584,893,253,10,200,114,96,249,103,86,254,917,182,227,45,84
+Southern Africa. Zambian	12376
+Southern African	1554,66,194,1,1,401,80,1137,34,220,28,145,193,716,240,372,32,93,22,227,131,43,27,128,456,1,76,20,26,29,133,250,155,577,33,178,584,893,253,10,200,114,96,249,103,86,254,917,182,227,45,84,68,28,57
 Southern African AI	4528
 Southern African Climate Outlook Forum	8006
 Southern African Community	10169
-Southern African Customs Union	3653,4516,2962,3
+Southern African Customs Union	3653,4516,2962,3,1292
 Southern African Customs Union Southern African	11131
+Southern African Development	12444
 Southern African Development Commu-	2775
-Southern African Development Community	26,1,1,107,826,1,281,108,362,404,656,2,227,474,283,102,93,23,1270,16,71,59,38,102,184,155,58,422,11,241,37,23,128,70,117,126,902,12,1,19,75,14,1,18,121,109,597,155,270,293,16,51,127,131,58,94,152,3,90,7,167,135,36,8,192,175,57,1,1,17,1,66,12,581,283,1,47
+Southern African Development Community	26,1,1,107,826,1,281,108,362,404,656,2,227,474,283,102,93,23,1270,16,71,59,38,102,184,155,58,422,11,241,37,23,128,70,117,126,902,12,1,19,75,14,1,18,121,109,597,155,270,293,16,51,127,131,58,94,152,3,90,7,167,135,36,8,192,175,57,1,1,17,1,66,12,581,283,1,47,126,13,12,1,23,19,4,45
+Southern African Development Community Committee	12432
+Southern African Development Community EPTC Eswatini	12444
+Southern African Development Community SAPP Southern	12399
 Southern African Development Community SDG Sustainable	1243
 Southern African Development Community SGIA	2816
 Southern African Development Community Secretariat	962
@@ -7170,7 +7306,7 @@ Southern African Journal of Accountability	9237
 Southern African Journal of Security	8022
 Southern African Kingdom	3215
 Southern African Labour and Development Research Unit	2307
-Southern African Power Pool	9959,1057,133,1084
+Southern African Power Pool	9959,1057,133,1084,166
 Southern African Power Pool. Every	10169
 Southern African Programme	961
 Southern African Regional Submarine System	6638,25,1
@@ -7237,6 +7373,7 @@ State of African Energy	7093,1632
 State of Africa’s Infrastructure Report	2677
 State-Owned Enterprise SSA Sub-Saharan Africa TB	11271
 State-backed South African	6980
+Statistical Commission for Africa	12367
 Statistician-General STATISTICS SOUTH AFRICA	11258,28
 Statistician-General of South Africa Official Sign-Off	11237
 Statistics Council The South African Statistics	11237
@@ -7284,11 +7421,12 @@ Students and Young Professionals African Liberty Academy	11827
 Study Calls for More Cybersecurity Opportunities for African	7156
 Study In South Africa	6832
 Study Ranks Rwanda Among Africa’s	3256
-Sub Saharan Africa	870,493,102,349,5116,217,1279,120,1605,563,496,645,8,143
+Sub Saharan Africa	870,493,102,349,5116,217,1279,120,1605,563,496,645,8,143,327
 Sub Saharan Africa Business	5411,2135,58,2857,146
 Sub Saharan Africa European Commission	1455
+Sub Saharan Africa. Namibia	12355
 Sub Saharan African	6807
-Sub- Saharan Africa	1828,5720,3456,568
+Sub- Saharan Africa	1828,5720,3456,568,801
 Sub- Saharan Africa. Cameroon GII Ranking	10969
 Sub- Saharan Africa. Result	789
 Sub- Saharan Africa. South Africa GII	11885
@@ -7298,7 +7436,7 @@ Sub-Regional African Maritime Rescue Coordination Centres	2677
 Sub-Regional Hub for West and Central Africa Funding	9134
 Sub-SaRheagriaonn Africa Score	12205
 Sub-Sahara Africa	26,1,1,1800,10027
-Sub-Saharan Africa	21,5,1,1,53,1,2,44,58,40,10,6,42,8,52,19,14,25,51,46,29,43,36,3,11,10,52,106,54,4,49,50,14,9,91,19,75,89,3,18,15,84,31,1,1,32,37,79,284,116,44,33,100,1,353,141,61,67,31,66,5,33,186,119,1,159,201,59,187,5,632,11,37,49,94,58,23,5,76,59,17,32,7,35,39,20,43,91,110,87,28,216,5,28,57,110,55,2,57,18,11,189,135,153,12,16,50,8,94,15,13,66,55,120,112,2,17,270,83,16,13,113,5,80,3,30,24,35,55,15,108,61,78,13,22,18,3,15,25,63,36,109,168,198,412,25,11,40,237,224,43,16,1,87,19,48,182,382,174,11,34,18,65,61,49,5,13,38,3,7,17,10,5,71,18,14,5,7,1,8,18,1,13,104,14,1,4,9,46,105,80,37,51,104,9,240,60,1,2,1,10,7,16,1,5,36,4,1,29,161,4,1,16,28,1,5,4,17,15,23,28,3
+Sub-Saharan Africa	21,5,1,1,53,1,2,44,58,40,10,6,42,8,52,19,14,25,51,46,29,43,36,3,11,10,52,106,54,4,49,50,14,9,91,19,75,89,3,18,15,84,31,1,1,32,37,79,284,116,44,33,100,1,353,141,61,67,31,66,5,33,186,119,1,159,201,59,187,5,632,11,37,49,94,58,23,5,76,59,17,32,7,35,39,20,43,91,110,87,28,216,5,28,57,110,55,2,57,18,11,189,135,153,12,16,50,8,94,15,13,66,55,120,112,2,17,270,83,16,13,113,5,80,3,30,24,35,55,15,108,61,78,13,22,18,3,15,25,63,36,109,168,198,412,25,11,40,237,224,43,16,1,87,19,48,182,382,174,11,34,18,65,61,49,5,13,38,3,7,17,10,5,71,18,14,5,7,1,8,18,1,13,104,14,1,4,9,46,105,80,37,51,104,9,240,60,1,2,1,10,7,16,1,5,36,4,1,29,161,4,1,16,28,1,5,4,17,15,23,28,3,33,3,10,5,4,21,9,10,1,3,68
 Sub-Saharan Africa . Paris	11140
 Sub-Saharan Africa . Washington	11140
 Sub-Saharan Africa Adults	10977
@@ -7316,13 +7454,17 @@ Sub-Saharan Africa Key Findings	11879
 Sub-Saharan Africa Nigeria	11884
 Sub-Saharan Africa Population	12204
 Sub-Saharan Africa Proparco	939
+Sub-Saharan Africa Rwanda	12351
 Sub-Saharan Africa S4.1.3	10977
 Sub-Saharan Africa Safety Advisory Council	9201
 Sub-Saharan Africa Score	11895
 Sub-Saharan Africa Sub-Saharan African	11919
+Sub-Saharan Africa THE OPPORTUNITY	12427
 Sub-Saharan Africa TWO-THIRDS OF THEM	10977
 Sub-Saharan Africa Women	10977
 Sub-Saharan Africa and Google Cloud	1363
+Sub-Saharan Africa and It's Holding Women Back	12336
+Sub-Saharan Africa and It’s Holding Women Back	12336
 Sub-Saharan Africa and Lower Middle Income. Indicator	11881
 Sub-Saharan Africa and South	11004
 Sub-Saharan Africa and South Asia	11003,1,898,1
@@ -7381,7 +7523,7 @@ Sub-Saharan Africa.240	3583
 Sub-Saharan Africa.3	1867
 Sub-Saharan Africa.80	10822
 Sub-Saharan Africa.pdf	5234
-Sub-Saharan African	685,206,637,300,39,12,109,227,208,285,1114,37,291,295,588,559,6,111,884,241,589,2734,1,463,191,10,7,134,1,13,8,155,55,386,321,17,45,173,126
+Sub-Saharan African	685,206,637,300,39,12,109,227,208,285,1114,37,291,295,588,559,6,111,884,241,589,2734,1,463,191,10,7,134,1,13,8,155,55,386,321,17,45,173,126,113
 Sub-Saharan African Historically	12253
 Sub-Saharan African Historically Provide	1988
 Sub-Saharan African Historically Underserved Not Currently	1867
@@ -7395,6 +7537,7 @@ Sub-Saharan- African Forum	11131
 Sub-saharan Africa	27,12270
 SubSaharan Africa	1944,9192
 SubSaharan Africa. Nigeria GII Ranking	11884
+SubSaharan Africa. Rwanda GII Ranking	12351
 Subregional Office for Central Africa	11736
 Subsahara Africa Office	9082
 Success Story. African Development Bank	11909
@@ -7519,6 +7662,7 @@ Telkom South Africa	1403,3151
 Telkom South Africa Actis	1403
 Tells Africa’s AI Story	10695
 Ten African Countries	1250
+Ten African Countries. Johannesburg	12325
 Teraco. Africa	3873
 Teraco’s South African	6580
 Terra Payment Services South Africa	8840
@@ -7549,13 +7693,14 @@ TowerCo of Africa Tanzania	1417
 TowerCo of Africa Uganda	1420
 Trade Mark Africa	5076,171
 Trade Readiness Assessments of African Least Developed	226
-Trade and Development AfDB African Development Bank	10835,3,130,902,16
+Trade and Development AfDB African Development Bank	10835,3,130,902,16,466,1
 Trade-Off for African Markets	9903
 TradeDepot Partech Africa	293
 TradeMark Africa	5077,4015,1,59,779,2017
 TradeMark Africa Limited	881,240
 TradeMark Africa and Port of Antwerp-Bruges International	10592
 TradeMark Africa. The Cabinet Secretary	9333
+TradeMark East Africa. ASYCUDA	12386
 Trademark Africa	5247
 Trademark East Africa	718
 Training African	5302
@@ -7605,6 +7750,7 @@ UN Member States Africa Asia Europe	10840
 UN Member States Americas Africa Asia	10840
 UN Member States. South Africa	1912
 UN Processes South Africa	2117
+UN-GGIM Africa and GLTN	12457
 UN-recognised African	2682,4741,708
 UNDP Accelerator Labs Network Africa UNDP	402
 UNDP Africa	8861
@@ -7612,6 +7758,8 @@ UNDP Africa UNDP	8100
 UNDP Regional Bureau for Africa	1564,2867
 UNDP Sub-Regional Hub for West and Central Africa	9134
 UNDP's Africa Accelerator for Digital Public Infrastructure	11118,613
+UNDP’s Africa Lion’s Den Initiative	12376
+UNDP’s Africa Sustainable Finance Hub and UNDP	12376
 UNECA African Trade Policy Centre	1356
 UNECA Digital Identity Platform for Africa	289
 UNECA and Smart Africa	10819
@@ -7676,13 +7824,14 @@ United Bank for Africa	3779,1545,2122,1383,750,1242,1217
 United Bank of Africa	4809
 United Kingdoms of South Africa	5600
 United Nation Economic Commission for Africa	10819
-United Nations Economic Commission for Africa	26,1,1,930,596,260,1244,1299,1235,291,726,278,642,898,327,408,32,1154,67,305,99,731,22,93,71,72,8,306,5,11
+United Nations Economic Commission for Africa	26,1,1,930,596,260,1244,1299,1235,291,726,278,642,898,327,408,32,1154,67,305,99,731,22,93,71,72,8,306,5,11,229,46
 United Nations Economic Commission for Africa Conference	8472
 United Nations Economic Commission for Africa RES4Africa	941
 United Nations Sustainable Development Goals. Africa	1196
 United Nations and African Union	3583
 United States South Africa United Kingdom	4972
 United States and Africa	3075,1712,1056,947
+United States and South Africa. Figure	12376
 United States. No African	6849
 United States. The South African Revenue	8784
 Unité Africaine	9637
@@ -7693,7 +7842,7 @@ Universities South Africa WFH	6832
 University Sports South Africa’s Team SA	432
 University of Eastern Africa	6946
 University of Pennsylvania's Wharton African Business Forum	7233
-University of South Africa	396,4036,464,1936,446,743,1107,2003,3,54
+University of South Africa	396,4036,464,1936,446,743,1107,2003,3,54,1137
 University of South Africa. Cardno	7278
 University of South Africa. Ms. Sarah Masiyiwa	4896
 Université de Tunis. Argues Africa	8126
@@ -7733,6 +7882,7 @@ Vantage Towers Africa	499
 Vaya Africa	562
 Venture Capital for Digital Start-ups Sub-Saharan Africa	212,941
 Verde Africa Western Africa Praia High	10840
+Verrod-Kepple Africa Partners	12376
 Vertiv Africa	6186
 Vertiv Africa MD Wojtek Piorko and Morocco	8245
 Vertiv Africa Managing Director Wojtek Piorko	8245
@@ -7751,7 +7901,9 @@ Vice President of Sales and Business Development Africa	3281
 Vice-President of Eutelsat Africa	7275
 Victoria Falls Tech Review Africa	6642
 Village Manufacturing Value Added AfCFTA African	10980
+Villgro Africa	12376
 Villgro Africa Villgro Kenya	12155
+Villgro Africa X X X Bongo	12376
 Virtual InfoSec Africa Limited	2824
 Visa South Africa Data Centre and Digital	1174
 Vision Behind East Africa's Quest for Unified	8528
@@ -7813,7 +7965,7 @@ WeAreTech Africa	5905
 Web Africa	5087
 Website Strengthening Young Africa’s AI Skills	11006,1
 Wednesday. But South Africa	9769
-West Africa	118,103,21,1,17,40,7,245,10,33,32,118,4,40,14,34,20,145,59,62,20,121,148,4,105,203,5,160,35,170,61,165,42,7,153,155,57,26,12,22,9,4,4,16,20,18,4,76,40,68,79,7,11,1,4,20,9,2,12,1,21,35,8,41,73,1,92,1,58,25,70,158,15,37,14,11,70,173,9,38,42,177,32,115,10,38,60,54,61,173,17,44,112,61,55,24,106,21,7,37,5,37,48,84,1,9,44,4,1,47,1,1,1,3,20,89,32,87,23,3,11,10,47,5,48,210,42,27,5,36,34,16,20,77,57,14,111,86,43,35,68,1,23,105,55,24,89,52,37,21,61,25,22,165,136,21,19,61,32,35,29,15,80,102,4,124,16,152,56,23,70,18,14,89,83,47,139,61,74,77,81,44,19,20,112,16,10,56,21,20,23,44,11,68,29,43,63,7,66,13,3,99,13,31,49,2,1,18,4,23,19,22,18,35,81,30,16,52,32,1,16,1,34,12,58,14,74,73,3,18,7,4,11,22,5,23,55,1,2,14,21,316,107,125,10,10,3,1,3,1,6,1,9,10,29,247,2,6,10,36,56,29,9,12,75
+West Africa	118,103,21,1,17,40,7,245,10,33,32,118,4,40,14,34,20,145,59,62,20,121,148,4,105,203,5,160,35,170,61,165,42,7,153,155,57,26,12,22,9,4,4,16,20,18,4,76,40,68,79,7,11,1,4,20,9,2,12,1,21,35,8,41,73,1,92,1,58,25,70,158,15,37,14,11,70,173,9,38,42,177,32,115,10,38,60,54,61,173,17,44,112,61,55,24,106,21,7,37,5,37,48,84,1,9,44,4,1,47,1,1,1,3,20,89,32,87,23,3,11,10,47,5,48,210,42,27,5,36,34,16,20,77,57,14,111,86,43,35,68,1,23,105,55,24,89,52,37,21,61,25,22,165,136,21,19,61,32,35,29,15,80,102,4,124,16,152,56,23,70,18,14,89,83,47,139,61,74,77,81,44,19,20,112,16,10,56,21,20,23,44,11,68,29,43,63,7,66,13,3,99,13,31,49,2,1,18,4,23,19,22,18,35,81,30,16,52,32,1,16,1,34,12,58,14,74,73,3,18,7,4,11,22,5,23,55,1,2,14,21,316,107,125,10,10,3,1,3,1,6,1,9,10,29,247,2,6,10,36,56,29,9,12,75,279
 West Africa Addressee	5677
 West Africa Agricultural Productivity Programme	12090
 West Africa Border Security Week Accra	2521,659,249,939,974,1524,210,294
@@ -7830,6 +7982,7 @@ West Africa Economic Summit	3427,941
 West Africa Economic and Monetary Union	5395,5,6159
 West Africa Feminist Data Summit	8318,395
 West Africa Germany's BMZ	11293
+West Africa Identity Document UN United	12327
 West Africa Integration and Investment Summit	11608
 West Africa Interconnection Exchange	7329
 West Africa Internet Exchange	7329
@@ -8048,9 +8201,11 @@ World Bank’s Western and Central Africa Regional	10829
 World Central and Eastern and Sub-Saharan Africa Western	11572
 World Economic Forum. Of Africa	2839
 World Health Organization Regional Office for Africa	1095,5,1084,9819
+World Trade Organisation Southern African Development	12454
 World Vision Southern Africa Regional Office	11134
 WorldRemit South Africa	8840
 Writing The Next Chapter of African Integration	7965
+X X Accelerator Lab Growth Africa	12376
 X. The Central African Republic	5461
 XMUVI for South Africa. Statistics South Africa	11258
 YALI RLC East Africa	10475
@@ -8061,6 +8216,7 @@ Yas Togo and Moov Africa Togo	8621
 Years Median Hold North Africa	4972
 Years of Counting South Africa	11294,47
 Yellow Africa	12214
+Yellow Africa. Available	12376
 Yellowdot Africa Nigeria Limited	3862
 Yesterday Statistics South Africa	10058
 Yet Africa	415,10734,659
@@ -8084,13 +8240,17 @@ Young Consumers Are Reshaping Africa	4972
 Young People of Western and Central Africa	11905
 Youth Connekt Africa and Ascend Digital Solutions	4030
 YouthConnekt Africa	4036,4638
+ZICBZMLU UNITED BANK FOR AFRICA ZNCOZMLU	12364
 ZPWMA African Centre for Technology Studies Botswana	1554
 ZTE South Africa	8112
 Zambia AFRICA TRADE BAROMETER AN OVERVIEW	5247
+Zambia Africa BBC Africa	12382
 Zambia and South Africa	10026,822
 Zambia and Zimbabwe. For African	11324
 Zambia and Zimbabwe. West African Economic and Monetary	2775
+Zambia. African Journal of Information and Communication	12467
 Zambia. Airtel Africa	891
+Zambia. South African Journal of Geomatics. Collier	12369
 Zanzibar. Airtel Africa and Vodacom Group	10228
 Zap Africa	7015
 Zhe Jiang Africa Service Centre	10539

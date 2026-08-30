@@ -1,4 +1,4 @@
-AFR Afrobarometer UNESCO United Nations Educational	10835,3,130,902,16
+AFR Afrobarometer UNESCO United Nations Educational	10835,3,130,902,16,466,1
 AI Strategies. UNESCO	2816
 AI. UNESCO	7841
 AI. UNESCO UNESCO	11439
@@ -12,6 +12,7 @@ AU Commission and UNECA	7529
 AU and UNESCO	1965
 Achat Une	10876
 Acuerdo de Cooperación UNESCO	4209
+African Union’s AI Strategy and UNESCO’s AI	12356
 Afrique Subsaharienne. Etude UNESCO	10841
 Afrique. Une Afrique	11622
 Agence Française de Développement. Une	4342
@@ -62,8 +63,9 @@ DGI. Une	10858
 Digital Transformation Strategy. UNECA	10819
 Diretor-Geral da UNESCO	1265,3,468
 EN UNE MINUTE Après	8637
+ESWATINI Innovation Hackathon UNESWA	12361
 EU-funded UNESCO Social Media	7709
-Economic and Social Affairs UNESCO United Nations	10759,78,1052
+Economic and Social Affairs UNESCO United Nations	10759,78,1052,451
 Environnemental Une	8891
 Estados Membros da UNESCO	2816
 Etat-civil. Une	5530
@@ -72,8 +74,10 @@ Etats-Unis. Une	2808
 Eurico Wongo Gungula. This UNESCO Chair	11478
 Event UNESCO Learning Cities	11439
 Event UNESCO World Conference	11439
+Events CISCO Networking Academy UNESWA Cisco	12361
 FCFA. Une	3789
 Finances. Une	1837
+Financial Stability Board UNESWA Universal Service	12444
 Foundation and UNESCO	5618
 Future. A UNESCO Chair	11478
 GDP. UNECA	10819
@@ -130,6 +134,7 @@ Moyen Terme. Une	1990
 NU A UNESCO	2816
 Nac. UNESCO Director General Jefe	4209
 Naneye Yarda’’. Une	2327
+Nations UNECA United Nations Economic Commission	12413
 Nações Unidas UNESCO	11387
 News UNESCO	11439
 Niger. Une	2556
@@ -165,6 +170,9 @@ RECOMENDAÇÕES DO RELATÓRIO DA UNESCO	2816
 REGLADA UNESCO	4209
 REPRESENTACION ANTE LA UNESCO	4209
 RGPH Par ONEP NE Une	8228
+RICYT International Energy Agency UNESCO Institute	12351
+RICYT International Labour Organization UNESCO Institute	12351
+RICYT UNESCO Institute for Statistics	12351
 RSU. Une	12027
 Reaffirming UNECA	9162
 Recomendação da UNESCO	2816,2847,1232
@@ -216,16 +224,18 @@ UNE MISE	2342
 UNE PREMIERE SESSION CONSACREE AUX ORIENTATIONS	10273
 UNE PRIORITE PRESIDENTIELLE POUR L'EMERGENCE	2695
 UNE STRAGTÉraGpIEhDiEquPOeR1T	2342
-UNECA	10,16,1,1,143,118,56,613,3,853,963,261,20,451,344,327,77,100,171,55,1009,514,144,359,563,357,898,735,32,1154,67,404,753,93,457,5,11,13
+UNECA	10,16,1,1,143,118,56,613,3,853,963,261,20,451,344,327,77,100,171,55,1009,514,144,359,563,357,898,735,32,1154,67,404,753,93,457,5,11,13,262
 UNECA APAI-CRVS	5599
 UNECA African Trade Policy Centre	1356
 UNECA Conference of Ministers	5789
 UNECA Digital Identity Platform for Africa	289
+UNECA INTRODUCTION	12338
 UNECA La Francophonie	8673
 UNECA Lastly	12151
 UNECA and AFROPAC	9162
 UNECA and AfDB	9469
 UNECA and Smart Africa	10819
+UNECA& AfDB	12413
 UNECA's CRVS Assessment Tool	12241
 UNECA’s Africa	7172
 UNECA’s Digital Centre of Excellence	10819
@@ -241,20 +251,24 @@ UNEP-WCMC	11586
 UNEPCCC	9424
 UNESC's Journey	8860
 UNESCAP	1243
-UNESCO	19,624,256,59,246,159,316,29,106,98,53,580,193,78,142,8,430,187,543,83,319,277,14,217,6,185,19,56,297,19,45,31,7,234,84,192,83,37,17,29,59,128,145,123,54,9,31,22,49,46,19,6,44,58,58,17,37,169,47,50,130,31,15,117,41,161,320,7,17,120,70,132,1,37,209,35,148,63,2,378,173,66,65,56,131,66,2,42,27,36,55,150,52,82,16,35,84,39,76,2,1,75,55,43,129,14,2,109,42,80,4,48,39,80,11,12,92,59,1,127,10,9,7,2,1,11,5,2,9,2,47,188,1,9,12,35,4
+UNESCO	19,624,256,59,246,159,316,29,106,98,53,580,193,78,142,8,430,187,543,83,319,277,14,217,6,185,19,56,297,19,45,31,7,234,84,192,83,37,17,29,59,128,145,123,54,9,31,22,49,46,19,6,44,58,58,17,37,169,47,50,130,31,15,117,41,161,320,7,17,120,70,132,1,37,209,35,148,63,2,378,173,66,65,56,131,66,2,42,27,36,55,150,52,82,16,35,84,39,76,2,1,75,55,43,129,14,2,109,42,80,4,48,39,80,11,12,92,59,1,127,10,9,7,2,1,11,5,2,9,2,47,188,1,9,12,35,4,126,1,11,1,3,5,34
 UNESCO AI	5036
 UNESCO AI Readiness Assessment Methodology and Nigeria	9511
 UNESCO AI Readiness Assessments	6862
 UNESCO Addressing	7709
 UNESCO Broadband Commission	6467,5096
 UNESCO Campus Africa and JICA	9707
-UNESCO Chair	9475,2003
+UNESCO Chair	9475,2003,879
+UNESCO Chairs	12357
+UNESCO Chairs The Namibia University of Science	12357
+UNESCO Chairs URL	12357
 UNESCO Country Representative	9202
 UNESCO Côte	11078
 UNESCO Dakar	11558,349
 UNESCO Deep Dive for Policymakers	1814
 UNESCO Digital Platform Governance Toolkit	8473
 UNESCO Empowering Local Radio	19
+UNESCO Eswatini. Contact	12347
 UNESCO Ethics Recommendation	1814
 UNESCO GO-SPIN Kenya Profile	7548
 UNESCO Global Education	9202
@@ -266,7 +280,7 @@ UNESCO ICT Competency Framework for Teachers	899,5933
 UNESCO ICT Competency Framework for Teachers. Paris	899
 UNESCO IICBA	11598
 UNESCO Institute for Lifelong Learning	1049
-UNESCO Institute for Statistics	7548,3421,514,396,5,1,10,70,194,46
+UNESCO Institute for Statistics	7548,3421,514,396,5,1,10,70,194,46,146,4
 UNESCO Institute of Statistics	11860
 UNESCO International Institute for Capacity Building	7405,4791
 UNESCO International Standard Classification of Education	7845
@@ -287,7 +301,7 @@ UNESCO Secretariat	11262
 UNESCO South Sudan Education Sector Analysis	3583
 UNESCO Supports Southern Africa	10601
 UNESCO Towards	7709
-UNESCO United Nations Educational	11887,266,1,9
+UNESCO United Nations Educational	11887,266,1,9,178
 UNESCO World Natural Heritage Site DEMOGRAPHICS	11586
 UNESCO and ISO	7955
 UNESCO and UNECA. The Strategy	1814
@@ -307,7 +321,8 @@ UNESCO's Pole de Dakar	11557
 UNESCO's Readiness Assessment Methodology	5036
 UNESCO's Recommendation	8747,457,2279,727
 UNESCO-IICBA	7405,1551
-UNESCO-India-Africa Hackathon	11579
+UNESCO-India-Africa Hackathon	11579,782
+UNESCO-India-Africa Hackathon UNESWA	12361
 UNESCO-Korea Funds-in-Trust	10469
 UNESCO-ROSA	7841
 UNESCO-UNEVOC	6832
@@ -342,11 +357,15 @@ UNESCO’s Global Toolkit	4126
 UNESCO’s Information for All Programme	7724
 UNESCO’s Member States	1814
 UNESCO’s Readiness Assessment Methodology	10601
-UNESCO’s Recommendation	11265
+UNESCO’s Recommendation	11265,1091
 UNESCWA	4819
-UNESWA	4058,7073,3
+UNESWA	4058,7073,3,1227,83
+UNESWA Centre for Sustainable Energy Research	12361
+UNESWA Computer Science Department Deadline	12361
 UNESWA Economics Society	11134
 UNESWA FM	4058,5246
+UNESWA Innovation Centre	12361
+UNESWA UNESWA	12361
 UNESWA. Hosted	11131
 UNEVEN STATE ADOPTION Nigeria	12050
 UNEVOC	6832
@@ -382,8 +401,9 @@ Unemployed NEETs	11581
 Unemployed Unemployed	11004
 Unemployed Women	11004
 Unemployed Women Employed	11004
-Unemployment	1867,121,787,2769,2151,56,3012,49,29,122,1,307,25,424,135,2,6,61,268
+Unemployment	1867,121,787,2769,2151,56,3012,49,29,122,1,307,25,424,135,2,6,61,268,207,10
 Unemployment Figure	11296
+Unemployment Insurance	12389
 Unemployment Insurance Act	11280
 Unemployment Insurance Contributions Act	11181
 Unemployment Insurance Fund	7910,26,531,2818
@@ -395,7 +415,7 @@ Unequal Distribution of Technology Arab	2958
 Unequal Political Voice	2096
 Unesco	2387,307,575,619,3393,332,316,4369
 Unestablished	9168,87
-Uneven	432,1,528,5391,1196,2640,776,437
+Uneven	432,1,528,5391,1196,2640,776,437,1043
 Uneven AI-driven	11140
 Uneven Africa	6248
 Uneven Digital Geographies	226

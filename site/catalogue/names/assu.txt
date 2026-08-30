@@ -139,7 +139,7 @@ DES ASSURANCES DROIT OHADA	10996
 DGI Assurer	10858
 DGI Stabilité de Assurer	10712
 DIRECTLINE ASSURANCE COMPANY LIMITED Data Controller	7167
-Data Quality Assurance	12151
+Data Quality Assurance	12151,205
 Description Assurer	3172
 Description Pros Cons Assumptions	961
 Diamond Bank Bénin SUNU Assurances Vie	10821
@@ -149,6 +149,7 @@ Digital Quality Assurance Guideline	11041
 Director Physical Security Assumptions NA Disaggregation	11986
 Director-General Office of Education Quality Assurance	7444
 Directorate of Accounting Services and Quality Assurance	12321
+Directorate of Programmes and Quality Assurance	12345
 EHSS Audit and Assurance	10643
 Education Standards and Quality Assurance Council	899
 Education Standards and Quality Assurance and Inclusion	899
@@ -214,7 +215,7 @@ Planning Assumptions The Electoral Commission	7266
 Proficiency Testing Quality Assurance I Quality	4153
 QUALITY ASSURANCE	9855
 QUALITY ASSURANCE Standard Digital	9855
-Quality Assurance	899,6367,63,4528,3,96
+Quality Assurance	899,6367,63,4528,3,96,400,44
 Quality Assurance Framework	9855
 Quality Assurance Manual. Audit Transformation	11134
 Quality Assurance Office	8957
@@ -244,6 +245,7 @@ SUNU Assurances Vie Bénin Traitement	10821
 SWIFT Infrastructure Strengthened and Independently Assured	11134
 Scheme. Level of Assurance Levels	10819
 Service Crédit Epargne Assurance Dépôts	11944
+Service Quality Assurance	12389
 Settlement Combined Assurance Forum Central Bank	11131
 Significantly Higher Assuming	11140
 Sources Assumed	1828
@@ -262,7 +264,7 @@ Supplies Authority KEMSA Quality Assurance Laboratory	4153
 Sustainability Assurance	2518
 TESTING AND QUALITY ASSURANCE STANDARDS	11952
 Technologies Assurance Emerging Technologies	7548
-Testing and Quality Assurance	11216,725
+Testing and Quality Assurance	11216,725,459
 Tiered Identity Assurance Framework	12241
 Treasury Management and Revenue Assurance System’for	2527
 Twitter Assurer	4568

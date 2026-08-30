@@ -41,6 +41,7 @@ CONTACT POINT World Bank Natalija Gelvanovska-Garcia	3456
 CRITERIA POINTS Price	11209
 CROWN POINT DENTAL CARE Data Controller	7167
 CV-IXP Internet Exchange Point Details Name	11878
+Card Point of Sale Switch	12343
 Cardbased Point of Sale	11134
 Cardbased Point of Sale and Card-based Automated Teller	11131
 Cardinal Points	5202
@@ -59,6 +60,7 @@ Cloud Service Providers and Internet Exchange Points	10956
 Codes NSPC National Signalling Point Codes	6946
 Confusing Collection Points	9696
 Congo. Internet Exchange Points	10506
+Contact Point	12412,14
 Contact Point National Consumer Helpline Online	5676
 Council of County AI Focal Point Intergovernme	7548
 County AI Focal Point	7548
@@ -81,6 +83,7 @@ Eco Point Office Park Eco Park	11259,3
 Economy World Bank Poised	8478
 Educare Point Limited Data Processor INST-35748873455	7167
 Emerging Technologies Focal Points	7548
+Enquiry Points	12389
 Entry Point for U.S.-Africa AI Partnerships	6790
 Establish Focal Points	1000
 Ethiopia's New Digital Strategy Poised	12183
@@ -141,10 +144,11 @@ LPA-approved Point-of-Sale	4283
 Le Point De Vue De L’Expert	11034
 Les Points	11592
 Low Point of Sale	10901
+Lusaka Internet Exchange Point	12377
 M2200000020563ON MOULINS GM PNR DE POINTE-NOIRE	7346
 MMG. A Technical Focal Point	2889
 MOMO Focal Point	9699
-Manufacturer POP Point of Presence PUE Power	10781
+Manufacturer POP Point of Presence PUE Power	10781,1646
 Manufacturer PoP Point of Presence PUE Power	10861
 Mastercard Interface Point	12273
 Mauritius Internet Exchange Point	3292
@@ -161,6 +165,8 @@ National Key Points Act	5161
 National Signalling Point Codes	6946
 National Traffic Point-Based Penalty Management	12200
 National Traffic Point-Based Penalty Management System	12200
+No. of Gazetted Border Control Points	12453
+Number of Internet Exchange Point	12453
 OTC Over-the-Counter PPB Pharmacy and Poisons Board	9855
 Offices Operational Service Points Fix Service	8999
 Outside Brazzaville and Pointe-Noire	11905
@@ -171,6 +177,7 @@ PMO Project Management Office POA Point	11857
 PMS Premium Motor Spirit PoS Point	718
 POINT APPLICATION FORM	736
 POINT DE PRESSE RELATIF A L'ARRET	10923
+POINT OF SALES GADGETS	12392
 POINT TO POINT APPLICATION FORM	736
 POINTS	11209
 POINTS Arial	11129
@@ -178,8 +185,10 @@ POINTS Courier	11129
 PP Nine Point Plan NT National	11193
 PRETORIA Points of Contact Mr Enos Sella	11180
 Partners Exchange Point C- Connectivity Resilience	7548
+Pay Point Managers	12335
 Payment Access Points	4517,2461
 Payment Systems Access Points and Devices	4517,2461
+Percentage of Postal Service Points	12395
 PfoR Focal Points DLI	11905
 Pharmacy and Poisons	9855,2288
 Pharmacy and Poisons Act	2709,7145,1
@@ -235,14 +244,14 @@ Pointe-Noire	1643,793,71,1045,249,35,125,1060,1434,1206,406,1751,585,70,70,1304,
 Pointe-Noire and Brazzaville	11905,19
 Pointe-NoireBrazzaville	6067
 Pointing	34,9642,1419
-Points	164,6795,696,1582,1263,211,165,376,683,108,85,99
+Points	164,6795,696,1582,1263,211,165,376,683,108,85,99,168
 Points Development Discoveries Education	9989
 Points WRA Water Resources Authority	2775
 Points Weight	10785
 Points Weight I-27 UN E-Participation Index	10785
 Points of Customer Contact E-mail	775
 Points of Entry	11590
-Points of Presence	1289,2573,2887,4757,522
+Points of Presence	1289,2573,2887,4757,522,425
 Points ofEntry	4260
 Points-Based Valuation System for Property Taxation	11133
 Points. Government of Cybersecurity	1777
@@ -252,6 +261,7 @@ Poisons	9855
 Poisons Board	9855
 Poisons and Medicines Regulatory Authority	12253
 Postal Facility Delivery Point	11129
+Postal Service Point Counter	12395
 Posts and Points and Customs	10762
 Preference Point System All	11209
 Price and Preferential Points Assessment	11240
@@ -290,6 +300,9 @@ Service Point Name Lat Long District	11986
 Service Point Name Long EC Alfred	11986
 Service Points	8999
 Signaling Point Codes IT Information Technology	6946
+Single Point of Access	12389
+Single Point of Decision Making	12389
+Single Point of Payment	12389
 Staff Development and Learning Focal Point	10776
 Sticking Point	10360
 System Key Point	6173
@@ -309,3 +322,4 @@ Wide Expansion of Customer Touch Points	9117
 Wireless Access Point	11503
 Wireless Access Points	34
 Xchange PointIXPDigital	7200
+ZAMTEL Establish Internet Exchange Point	12453

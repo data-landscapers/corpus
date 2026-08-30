@@ -3,6 +3,7 @@ AFD Agence Française de Développement AMR Avis	10712
 AFD French Development Agency	969,10580
 AFD Group	212,82,225,197,1,221,1,212,1,1,398,1,1,683,2279,1
 AFD N	3715
+AFD Otjikoto Biomass	12399
 AFD US	543
 AFD USD	473
 AFD and EIB	543,6600
@@ -24,7 +25,7 @@ Additional Financing AFD French Development Agency	11924
 AfD-Bundestagsabgeordnete Edgar Naujok	11316
 AfD-Bundestagsfraktion	11316
 AfDB Africa Information Highway Portal	11863
-AfDB African Development Bank	11887,266,1,9
+AfDB African Development Bank	11887,266,1,9,178
 AfDB African Development Bank AFW World	969
 AfDB African Development Bank AFWRI Country	10841
 AfDB African Development Bank ARR Annual	11380
@@ -59,7 +60,7 @@ AfDB and IsDB	1406
 AfDB and MCDF	9988
 AfDB and Standard Bank	9702
 AfDB and WBG	4214
-AfDB&AUC	10759,76,2,1,130,902,16,2,1,264,1,9
+AfDB&AUC	10759,76,2,1,130,902,16,2,1,264,1,9,177,1,11,1
 AfDB's Data Innovation Lab	4214
 AfDB's Governance and Economic Reform Department	4181
 AfDB's Statistics Department	4214
@@ -101,11 +102,12 @@ EUR7m AfDB and EUR3.5m European Union	9463
 Enabel and AFD. Senegal	641
 Erkin Mamadaliev and Ioana Botea AFD ABBREVIATIONS	10964
 Ethiopia and Burkina Faso. The AFD	2303
-Event Data Project AfDB African Development	10759,78,1052
+Event Data Project AfDB African Development	10759,78,1052,451
 FR-3 AFD	1405
 First AFD Sovereign Digital Loan	1043
 Free Trade Area AfDB African Development	7548
 Fund AEO African Economic Outlook AfDB	11863
+Groupe AFD	12427
 Indicators AfDB3 Gates IsDB5 AFD6 EU7	11469
 Ivoire's AfDB Governor	4096
 Kamara. The AfDB	5804
@@ -120,8 +122,9 @@ SSA. REG. No AFD	1551
 Sole AFD	450
 Sovereign AFD	789
 Trade Area AFD French Development Agency	10841
-Trade and Development AfDB African Development Bank	10835,3,130,902,16
+Trade and Development AfDB African Development Bank	10835,3,130,902,16,466,1
 UNECA and AfDB	9469
+UNECA& AfDB	12413
 WATAF LAUNCHES AFDB-FINANCED US	10581
 WB IDEA and AFD	4841
 World Bank IDA and AFD	473

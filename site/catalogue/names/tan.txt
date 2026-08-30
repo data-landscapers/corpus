@@ -56,6 +56,7 @@ Citizen Geneva. Tanzania	7105
 Citizen Mbeya. Tanzania’s Personal Data	5002
 Citizen Tanzania	5697
 Comoros and Tanzania	2137
+Congo and Tanzania	12413
 Constitution of Tanzania	11133
 Cross-Border Money Flow Tanzanian	6397
 Crossref Web of Science Google Scholar Tang	8460
@@ -161,6 +162,7 @@ ICT Principal Secretary John Tanui	6787
 ICT and Digital Economy John Kipchumba Tanui	9851
 ID for All Tanzania	5697
 ID for All Tanzania’s Home Affairs Minister	2947
+Impact Tank Impact Tank	12450
 Income Tax Act. Tanzania	10388
 Infrastructure Business John Tanui	9938
 InnoIP Tanzania	11643
@@ -171,6 +173,7 @@ Internet of Things. But Tanzania	10099
 Item of Tangible Fixed Assets Years Buildings	11955
 Ivoire Ghana Angola Tanzania MW	10781
 Ivoire Liberia Benin Tanzania Mali Guinea-Bissau	10856
+J-PAL. Tanele Magongo	12332
 JUSTICE FOR WOMEN IN TANZANIA	11206
 Jeshi la Polisi Tanzania	6019
 Jeshi la Polisi Tanzania Bara	6019
@@ -220,6 +223,7 @@ M-Pesa. Vodacom Tanzania	8624
 M. Mamadou Tangara	3967,22
 M. Tangara	4039
 M. Tanvir Muntasim Senior Education Specialist	11916
+M. Tanzania	12339
 MADAGASCAR AND TANZANIA	1464
 MIC Tanzania	813,11419
 MIC Tanzania Ltd	814
@@ -317,12 +321,13 @@ Sanjay Tanna and Huawei Technologies	6576
 Senegal Tanzania	11964
 Senegal and Tanzania	2285
 Serikali Tanzania Bara	11612
-Shark Tank	4178
+Shark Tank	4178,8198
 Shirika la Mawasiliano Tanzania	2868,579,2572,1830,3763
 Shirika la Posta Tanzania	2868,3151,1830
 Short Message Tangaza University. Services	2775
 Silaa. The Tanzanian	8214
 Snapshot of CRVS Systems of Tanzania Mainland	327
+Solar PV REFIT Tandii Investment	12399
 Somalia and Tanzania	4583
 Soouurrccee Tanzania South Africa	12256
 South Africa Mozambique Tanza	12256
@@ -381,6 +386,7 @@ Tanat Kozhmanov	1749
 Tandis	6067,4810
 Tandjilé	3433
 Tandjilé and Ennedi Est	3433
+Tandy Kuda Lungu. Published	12416
 Tang Sanzang	8460
 Tanga	2867,1,3860,79,4816,2,18
 Tanga SERIKALI	11643
@@ -388,6 +394,10 @@ Tanga. Akizungumza	11643
 Tanganda Tea’s Ratelshoek Estate	6492
 Tanganyika	1867,10033,18
 Tangara	2625
+Tangeni Kashihakumwa	12478
+Tangeni Kwedhi	12478
+Tangeni Matheus	12478
+Tangeni NN Abel	12478
 Tangeni Shindondola	12106
 Tanger	2258,3572,1899,1162,515,2336
 Tanger Med	3113,791,4987
@@ -451,7 +461,7 @@ TanzTech	2868
 Tanza	12256
 Tanzan	1261
 Tanzan Health Res Bull	1261
-Tanzania	62,2,13,4,12,1,38,4,12,6,52,30,6,7,14,14,17,88,7,13,1,57,54,2,105,16,1,18,12,11,22,13,3,1,3,3,42,5,11,16,16,3,4,8,61,17,24,5,11,1,14,51,35,61,103,4,45,102,52,2,2,15,28,3,62,13,7,7,90,159,11,45,62,100,81,15,2,17,1,2,11,3,21,32,1,8,9,2,10,2,12,25,21,284,83,14,5,21,5,2,65,8,14,9,10,41,1,9,1,56,23,39,2,74,24,17,135,7,121,81,3,10,24,25,12,2,10,65,34,106,21,32,68,8,19,53,15,107,15,23,13,38,2,212,68,7,3,3,76,26,6,30,25,3,1,56,46,38,1,115,15,35,33,2,19,21,9,43,71,120,11,54,34,50,31,95,90,28,68,18,50,6,12,5,1,13,18,2,53,8,10,32,52,38,4,1,1,1,24,37,19,5,40,21,44,54,65,19,18,9,94,40,1,30,12,8,15,16,78,40,9,8,8,10,45,1,7,8,9,105,6,11,8,63,17,8,71,40,10,23,40,32,8,1,29,23,10,39,68,13,65,9,118,15,59,39,13,6,33,18,20,27,1,57,14,4,7,21,50,4,12,2,1,1,13,85,79,51,3,8,58,77,52,14,50,1,18,15,53,1,1,137,104,26,1,4,20,103,3,48,20,2,62,3,7,80,29,84,1,26,1,75,1,38,1,97,21,1,5,19,53,1,18,52,19,1,2,22,1,2,63,28,27,20,26,62,8,24,11,24,56,40,17,5,1,10,49,38,54,8,11,27,39,5,1,4,16,24,30,22,34,1,1,72,11,3,36,2,2,14,14,13,5,4,17,9,5,23,13,3,10,8,22,3,76,11,2,27,7,13,9,17,14,4,72,1,3,3,2,13,51,104,14,9,23,44,172,37,14,2,14,4,19,33,42,55,14,1,48,15,16,1,2,25,2,1,2,41,4,136,14,24,13,2,1,9,1,37,13,7,6,5,7,13,4,29,19
+Tanzania	62,2,13,4,12,1,38,4,12,6,52,30,6,7,14,14,17,88,7,13,1,57,54,2,105,16,1,18,12,11,22,13,3,1,3,3,42,5,11,16,16,3,4,8,61,17,24,5,11,1,14,51,35,61,103,4,45,102,52,2,2,15,28,3,62,13,7,7,90,159,11,45,62,100,81,15,2,17,1,2,11,3,21,32,1,8,9,2,10,2,12,25,21,284,83,14,5,21,5,2,65,8,14,9,10,41,1,9,1,56,23,39,2,74,24,17,135,7,121,81,3,10,24,25,12,2,10,65,34,106,21,32,68,8,19,53,15,107,15,23,13,38,2,212,68,7,3,3,76,26,6,30,25,3,1,56,46,38,1,115,15,35,33,2,19,21,9,43,71,120,11,54,34,50,31,95,90,28,68,18,50,6,12,5,1,13,18,2,53,8,10,32,52,38,4,1,1,1,24,37,19,5,40,21,44,54,65,19,18,9,94,40,1,30,12,8,15,16,78,40,9,8,8,10,45,1,7,8,9,105,6,11,8,63,17,8,71,40,10,23,40,32,8,1,29,23,10,39,68,13,65,9,118,15,59,39,13,6,33,18,20,27,1,57,14,4,7,21,50,4,12,2,1,1,13,85,79,51,3,8,58,77,52,14,50,1,18,15,53,1,1,137,104,26,1,4,20,103,3,48,20,2,62,3,7,80,29,84,1,26,1,75,1,38,1,97,21,1,5,19,53,1,18,52,19,1,2,22,1,2,63,28,27,20,26,62,8,24,11,24,56,40,17,5,1,10,49,38,54,8,11,27,39,5,1,4,16,24,30,22,34,1,1,72,11,3,36,2,2,14,14,13,5,4,17,9,5,23,13,3,10,8,22,3,76,11,2,27,7,13,9,17,14,4,72,1,3,3,2,13,51,104,14,9,23,44,172,37,14,2,14,4,19,33,42,55,14,1,48,15,16,1,2,25,2,1,2,41,4,136,14,24,13,2,1,9,1,37,13,7,6,5,7,13,4,29,19,29,6,2,11,1,23,3,6,30,12
 Tanzania AI	11061,3
 Tanzania Accountants Association President Godvictor Lyimo	8888
 Tanzania Act	6921
@@ -480,7 +490,7 @@ Tanzania Cooperative Development Commission	12114
 Tanzania Cooperative Permanent Secretary	6938
 Tanzania Cyber Partnership	721
 Tanzania Cybersecurity Forum	2703
-Tanzania Côte	10837
+Tanzania Côte	10837,1503
 Tanzania Dar	12232
 Tanzania Data Lab	10392
 Tanzania Data Lab Executive Director Dr	10392
@@ -541,6 +551,7 @@ Tanzania Irish Aid	11206
 Tanzania Is Getting Online. Its Digital	6562
 Tanzania Journal of Engineering and Technology	9128
 Tanzania Kidijitali	2868
+Tanzania Kigali	12413
 Tanzania Kikanda	2868,3151
 Tanzania Korea International Cooperation Agency	907
 Tanzania Land Information Infrastructure Development Project	637
@@ -741,6 +752,7 @@ Tanzania’s Vision	3632
 Tanzania’s WSIS	3245
 Tanzanie	2732,756,71,920,1514,248,1855,659,393,1485,193
 Tanzanie. Adoni Conrad Quenum Edité	8096
+Tanzi	12385
 Tanzânia	2816,6420
 Tanzânia. Diferentemente	6798
 Tech Tanzanian Fintech NALA Receives Uganda	4405

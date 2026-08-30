@@ -55,7 +55,8 @@ Probabilidades	10777,1242
 Probabilidades da Mortalidade Adulta	10777
 Probabilidades de Amostra	10777
 Probabilistic Modelling	11336
-Probability	11953,198
+Probability	11953,198,216,46
+Probability Proportional	12403
 Probable	11956
 Probably	1243,4579,4491,1901
 Probably Definitely Very	12214
@@ -75,13 +76,14 @@ Problem Perhaps	8111
 Problem Solving	6832
 Problem Statement	5246,6019,590
 Problem Too	8050
+Problem- Solving Innovation	12376
 Problem-driven	1261
 Problemas	10760,17,6,778,8
 Problemas Concretos	8827
 Problemas Estruturais	11898
 Problemas de Comunicação	11561
 Problematic	2948
-Problems	3583,1487,609,2925,1365,1659,279
+Problems	3583,1487,609,2925,1365,1659,279,431
 Problème	737,2229,3417,576,4985
 Problème II	6383
 Problème III	6383

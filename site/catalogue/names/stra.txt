@@ -7,10 +7,11 @@ AI Continental Strategy	1814
 AI Expert Mission and AI National Strategy	12210
 AI Strategic Council	11154
 AI Strategic Implementation Plan	11230
+AI Strategic Initiatives	12356
 AI Strategic Team	11154
 AI Strategies	1814
 AI Strategies. UNESCO	2816
-AI Strategy	1814,1933,781,55,106,697,17,8,883,275,692,327,2704,329,514,1075,31
+AI Strategy	1814,1933,781,55,106,697,17,8,883,275,692,327,2704,329,514,1075,31,115
 AI Strategy Focus Areas	1814
 AI Strategy Focus Areas Figure	1814
 AI Strategy Foundations	12210
@@ -34,7 +35,7 @@ AI and National Cloud Strategy	5011
 AI. Center for Strategic and International Studies	11135
 AMENDMENTS TO STRATEGIC PLAN OUTCOME INDICATORS	5533
 APAI-CRVS Strategic Plan	3038
-ARTIFICIAL INTELLIGENCE STRATEGY	4126
+ARTIFICIAL INTELLIGENCE STRATEGY	4126,8230
 AU AI Strategy	5789,1758
 AU Climate Change and Resilient Development Strategy	1264
 AU Continental AI Strategy	2682,1908,99,353,50,210,556,183,148,78,204,466,15,558,4700
@@ -100,6 +101,7 @@ African Union Strategy for Gender Equality	11193
 African Union's Continental AI Strategy	8301,1909
 African Union's Continental Artificial Intelligence Strategy	8088,3739
 African Union's Digital Transformation Strategy	975,3136,8060
+African Union’s AI Strategy and UNESCO’s AI	12356
 African Union’s Continental AI Strategy	5092,1318,380,1839
 African Union’s Continental Artificial Intelligence Strategy	10620
 African Union’s Digital Transformation Strategy	2677,1837,76,186,1593
@@ -224,11 +226,14 @@ COMESA Regional AI Strategy	7261
 COMESA Regional Digital Inclusion Strategy. Delivering	9182
 COMMUNICATION AUTHORITY OF KENYA Strategic Direction	6946
 CONCLUSION The National Digital Health Strategy	396
+CONCLUSION The National FinTech Strategy	12444
 CONGO’S DIVERSIFICATION STRATEGY	1828
 CONTINENTAL ARTIFICIAL INTELLIGENCE STRATEGY Harnessing AI	1814
 COVID-19 Strategic Preparedness and Response	10829
 COVID-19 Strategic Preparedness and Response Project	11417
 CPCIF Strategic Minority Stake	53
+CRVS National Strategic Plan	12367
+CRVS Strategic Plan	12330,4,33
 CSR and Strategic Partnerships. The Fursa Lab	10732
 CTD Strategic Performance Framework EMPRETEC Regional	10980
 Cabo Verde Digital Governance Strategy	11863,10
@@ -262,12 +267,14 @@ Chief Strategy Officer and Deputy CEO of Cybastion	8244
 Child Online Protection Strategy. Vincent Kumwenda	12172
 China’s Strategic Aims	2518
 Civic Education Strategy for NRB Figure	12241
+Civil Registration and Vital Statistics Strategic Plan	12334
 Civilian Recruitment of TPLF Strains Erupt	3768
 Clear Strategy for Attractiveness Morocco	3113
 Clement Madale Head of Strategic Planning	11224
 Cloud First Strategy	11196
 Cloud Migration Strategy	6432
 Cloud Strategy	11986
+Cluster Strategy	12419
 Co-founder and Chief Strategy Officer	1969
 CoK City of Kigali CSI Cybersecurity Strategic	718
 Comité Stratégie. de Pilotage	10965
@@ -277,7 +284,8 @@ Commerce Strategy	1264,1032
 Commercial Law Wilmari Strachan Your Author	6683
 Commission’s Open Source Strategy	6468
 Commission’s Strategic Plan	11250
-Communication Strategy	761,179,838,3801,4530,236,1641
+Communication Strategies	12356
+Communication Strategy	761,179,838,3801,4530,236,1641,372
 Communication Strategy Integrated Approach Timetable	940
 Communication Strategy and Action Plan	11986
 Communication Strategy and Strategy	11986
@@ -292,6 +300,7 @@ Community Subsystem Strategy	4260
 Comparative AI Strategy References	4528
 Compliance Strategy	12225
 Composition du Conseil Stratégique	4567
+Comprehensive Assessment and Strategic Plan	12337
 Comptabilité Stratégie Transport Telecom	2342
 Computational Sovereignty Zimbabwe National AI Strategy	4528
 Computer Capacity Data Strategy Safeguard Trustworthy	1204
@@ -320,7 +329,7 @@ Coordinating the PC4IR Strategic Implementation Plan	11230
 Copernicus Strategy	11155
 Core Strategic Thrusts Core	4528
 Cornerstone of Congo’s Digital Strategy	6581
-Corporate Strategic Plan	10550,31,1500
+Corporate Strategic Plan	10550,31,1500,295
 Corporate Strategy	9103,2028
 Corporate Strategy and Enterprise Committee	6946
 Council. An International Digital Strategy	11155
@@ -393,6 +402,8 @@ Data Strategy for Public Administration	6050
 Data Systems Strategic Investments	4301
 Data and Cloud Strategy	1912
 Data-driven Strategy	8999
+Define the IT Strategy	12359
+Definition Straight Through	12364
 Department of Home Affairs Strategic Plan	2662,9315
 Department’s Strategic Ministerial Projects	11281
 Department’s Strategic Plan	5533
@@ -408,6 +419,7 @@ Development Strategy	1909,6058,2998,564,277
 Development and Application of AI National AI Strategy	11135
 Development and Innovation Strategic Objective	4528
 Development and Training The Strategic Human Capital	11955
+Development of E-Commerce Strategy the Ministry of ICT	12395
 Development of National Digital Transformation Strategy	12241
 Development of Strategic Plan for National Registration	12241
 Developpment Company DSCE Document de Stratégie	10975
@@ -418,7 +430,7 @@ Digital Development Strategy Host	1161
 Digital Economy Development Strategy Vision	3096
 Digital Economy Policy Strategy Brief	226
 Digital Economy Strategic Framework	4714,1848,184,3353
-Digital Economy Strategy	6816,5149,43,164
+Digital Economy Strategy	6816,5149,43,164,272
 Digital Economy Strategy Framework. NEEC	5883
 Digital Education Strategy	11220
 Digital Education Strategy Menu About	11220
@@ -430,6 +442,9 @@ Digital Governance Strategy	11873,92,43
 Digital Governance and National AI Strategies	10375
 Digital Government Strategic Roadmap	4980
 Digital Government Strategy	751,2461,6021
+Digital Government Strategy Digital Government Platform	12359
+Digital Government Strategy Digital Government Strategy	12359
+Digital Government Strategy Ownership and Governance	12359
 Digital Government Strategy and Enterprise Architecture	12183
 Digital Government Strategy and Government Enterprise	12183
 Digital Health Strategy	396,865,4124,1409,913,4533
@@ -475,6 +490,7 @@ Drive Strategic Growth	5336
 E-Commerce Strategy	3397,3074
 E-Health Strategy	21
 E-Learning Strategy	7062
+EA. Stratification	12403
 EAC AI Strategy	6937
 EAC Development Strategy	7967
 EAC Digital Transformation Strategy	7548,998
@@ -489,6 +505,7 @@ EN AFRIQUE DE L'OUEST STRATEGIE NATIONALE	10812
 EN Continental AI Strategy July 2024.pdf. Allen	11135
 EN- Continental AI Strategy July 2024.pdf	2677,3378,212,254,1027,753
 ESCP I. STRATEGIC CONTEXT A. Country	1264
+ESWATINI THE SIX STRATEGIC PILLARS	12444
 ETAT D'AVANCEMENT DES LEVIERS STRATÉGIQUES	613
 EU Data Union Strategy	5487
 EU Global Gateway Strategy	6743
@@ -499,6 +516,7 @@ EU-Africa Strategy	11536
 EU-Nigeria Digital Package and Global Gateway Strategy	10573
 EU. The Zimbabwean National Development Strategy	970
 EUMETSAT’s Head of Strategy	11291
+Economic Development and Poverty Reduction Strategy. EICV	12403
 Economic Transformation Strategy	11863
 Economic and Social Development SCADD Strategy for Growth	10812
 Economy Policy and Strategy	4126
@@ -506,6 +524,7 @@ Economy Strategy	12214
 Economy and Strategic Monitoring Minister Badanam Patoki	11613
 EdTech Strategy and Action Plan	11918
 Education Financière SNFI Stratégie Nationale de Finance	11944
+Education Sector Strategic Plan	12329,82
 Education Sector Strategy	11905,2
 Education Strategic Plan	789
 Egypt National Artificial Intelligence Strategy	1814
@@ -517,11 +536,13 @@ Elderly and Children. Health Sector Strategic Plan	1261
 Electoral Integrity and Governance Strains	10062
 Electricité SND30 Stratégie Nationale de Développement	10975
 Electrification Strategy	12191
+Electronic Change Management Strategy Change Management	12453
 Emerging Technologies Missions and Strategic Programmes	7548
 Emerging Technologies Steering Strategic	7548
 Emerging Technologies Strategy	6132
 Emerging Technologies. Strategy Expected Output Key	7548
 Emerging and Strategic Technologies	7981
+Energy Sector Strategic Plan EUCL	12358
 Energy Transition Strategy	12206
 Energy and Industrial Strategy	11135
 Engagement Strategies Campaign Director	7147
@@ -536,8 +557,10 @@ Enterprise Transformation Strategist	9230
 Entrepreneurship Development Strategic Actions Develop	940
 Equality of Opportunity Strategy	1818
 Estonia’s National AI Strategy Ministry of Economic	11135
+Eswatini Digital Strategy	12395
 Eswatini Digitalisation Strategy	1994,2678
 Eswatini Digitalization Strategy	2001
+Eswatini FinTech Landscape This Strategy	12444
 Eswatini Government Digital Transformation Strategy	1953,13
 Eswatini National FinTech Strategy	4173
 Eswatini National Health Sector Strategic Plan	1831
@@ -566,6 +589,7 @@ Exit Strategy Data Classificatio	6432
 Expenditure Framework MTSF Medium Term Strategic	11224
 Expenditure Per Strategic Priority The Department	11230
 Expense Management Strategies	2518
+Extensive National Digital Transformation Strategy	12428
 F. National AI Strategies and Regulatory Frameworks	11140
 FINANCIAL INCLUSION Financial Access Strand Education	418
 FINANCIAL OUTPUTS STRATEGIC OUTPUTS CLIENTS	11131
@@ -577,13 +601,14 @@ Federal Total Federal Strategic Investment ofNigeria	4301
 Fertilizer Rwanda’s Refugee Strategy Focuses	6526
 FinScope Employment Strategy Paper	10965
 FinScope Stratégie	10965
-FinTech Strategy	4185
+FinTech Strategy	4185,8259
 Final Data Governance Strategy	3058
 Finance Reform Strategic Plan	11906
 Finances PLAN D'ORIENTATION STRATÉGIQUE DE L'ADMINISTRATION	10712
-Financial Access Strand	940
+Financial Access Strand	940,11520
 Financial Access Strand FINANCIAL CAPABILITY	418
 Financial Access Strand Livelihoods	418
+Financial Access Strand PWD	12460
 Financial Capability Strategic Actions	940
 Financial Inclusion Finance Strategy	940
 Financial Inclusion Strategies	940
@@ -591,10 +616,13 @@ Financial Inclusion Strategies for PWDs	940
 Financial Inclusion Strategies for Youth	940
 Financial Inclusion Strategy	11130,1119
 Financial Sector Development Strategy	111
+Financial and Operational Strain	12399
 Financiers Numériques SNEF Stratégie Nationale	11944
 Financing and Investment Strategy Given	4528
 Finds Strangers Listed	10034,231
 Fintech Strategy	11134
+First National Strategy for Transformation	12403
+First National Strategy for Transformation. NST2	12403
 Five Strand Education Foundations Strategy	12175
 Five-Year Strategic Plan	4614
 Follows the National AI Strategy	3575
@@ -673,16 +701,22 @@ Google Global Strategy and Operations Manager Taslim	5570
 Gov Strategy	10785
 Governance E-Health Strategy Change and Adoption Information	21
 Government Program Cabo Verde's Strategic Plan	11863
+Government Strategic Action Plan	12327
+Government Strategic Plan	12453
 Government Strategies for Digital Transformation	10785
 Government Strategy	798,1114,212,3120,829,200,159
+Government Strategy Implementation Roadmap Considering	12359
 Government Strategy and Roadmap	1009,903,9284,34
 Government Strategy. The Ministry of ICT	6273
+Government Strategy. Windhoek	12325
 Government and Digital Service Delivery Strategy	5108
 Government of Rwanda Deepens AI Strategy Through	5460
+Government of Zambia’s Technology Strategy Development	12356
 Government's National Development Strategy	940
 Green Hydrogen Strategy and Roadmap	12192
 Grenadines National ICT Strategy and Action Plan	11529
 Guarantee Scheme Strategic Workforce Planning University	11131
+Guiding Principles and Strategic Pillars	12444
 Guinea-Bissau's Strategic and Operational Plan	11552
 Guinea’s National Climate Change Strategy	1264
 HEART OF CAMEROON’S DEVELOPMENT STRATEGY Reforming	10960
@@ -698,10 +732,10 @@ Head of Strategic Planning	7749
 Head of Strategy and Business Transformation	3951
 Health Information and Digital Health Strategic Plan	7707
 Health Sector ICT Policy and Strategy	4126
-Health Sector Strategic Plan	1261,2322,584,8073
+Health Sector Strategic Plan	1261,2322,584,8073,173
 Health Sector Strategic Plan III	12240
 Health Sector Strategic Plan and Rwanda	4167
-Health Strategy	21,375,195,418,252,6446,1497,1625,366,795
+Health Strategy	21,375,195,418,252,6446,1497,1625,366,795,431
 Health Strategy Consultative Workshop	396
 Health Strategy Toolkit	396
 Health Strategy Toolkit23	1009
@@ -727,13 +761,15 @@ ICT Media Strategies	3658,2617,145
 ICT Medias Strategies	3658,2617,145
 ICT Policy National Broadband Strategy Singapore	11529
 ICT Policy and Strategy	3637,1203
-ICT Sector Strategic Plan	3013,4484
+ICT Sector Strategic Plan	3013,4484,4836
 ICT Sector Strategy	1818,9711
 ICT Services Effectiveness Strategic Objectives	6946
 ICT Strategic Plan	7707
 ICT Strategic Plan and Implementation	11231
 ICT Strategic Plan and Implementation Roadmap	11231
 ICT Strategy Norway Yes Digital Agenda	11529
+ICT for Education Strategy	12333
+ICT for Governance Cluster Strategy	12333
 ICTs. Under the National Development Strategy	958
 ID Credentials Strategy	3427
 IHS Strategic Rationale and Digital Infrastructure	5752
@@ -745,7 +781,7 @@ IMPLEMENTATION ROADMAP AND STRATEGY	3861
 IMPLEMENTATION STRATEGY	3861
 IMPÔTS PLAN D’ORIENTATION STRATÉGIQUE DE L’ADMINISTRATION	10712
 IN-2 Develop CNI Strategy IN-3 Facilitate	11857
-INTELLIGENCE STRATEGY	4126
+INTELLIGENCE STRATEGY	4126,8230
 IRDSS Integrated Rural Development Sector Strategy	11261
 ISN Strategic Direction	12053
 ITU National E-Health Strategy Toolkit	21
@@ -753,6 +789,7 @@ ITU. National E-Health Strategy Toolkit	21
 IV- STRATEGIES ET ACTIONS	12
 IV. STRATEGIES ET ACTIONS Pour	12
 Identified Strategic Risks	11218
+Implement Comprehensive Data Management Strategy	12384
 Implementation Communications Strategy	12149
 Implementation Roadmap and Strategy	3861
 Implementation Strategies	11952
@@ -780,9 +817,12 @@ Institute for AI Policy and Strategy	5216
 Institutional Policies and Strategies	11986
 Instruments Continental Artificial Intelligence Strategy	5244
 Insurance Strand	418
+Insurance Strand Without	12460
 Integrated African Strategy	11283
+Integrated Civil Registration and Vital Statistics Strategy	12330
 Integrated Infrastructure Platform Strategic	4896
 Integrated Rural Development Sector Strategy. Planned	11261
+Integrated Strategic Business Plan	12380
 Integrated Strategic Plan	1870
 Integration SIGTAS Medium Term Revenue Strategy	12225
 Intellectual Property Policy and Strategy	7624
@@ -806,6 +846,7 @@ Ivoire's National Digital Strategy	3261
 Journal of Global Operations and Strategic Sourcing	8021
 Journal of Strategic Information Systems	7278
 Journal of Strategy and Management	2093
+Jéanne Strauss	12478
 KENYA SPACE AGENCY STRATEGIC PLAN	1131
 KEY ELEMENTS FOR A SUCCESSFUL STRATEGY1	1000
 KNCCI and COG Sign Landmark Strategic Partnership	9852
@@ -833,7 +874,10 @@ Kenya’s Artificial Intelligence Strategy	6790
 Kenya’s National AI Strategy	4890,1033
 Kenya’s National Artificial Intelligence Strategy	7678,2568
 Kenya’s Strategy	6946
+Key Strategic Pillars	12356
 Key Strategic Priorities	8367
+Kingdom This Strategy	12444
+Kingdom of Eswatini's National FinTech Strategy	12444
 KoboToolbox. Under the National Social Protection Strategy	4427
 LA STRATÉGIE	2342
 LABORATION DE LA STRATÉGIE INTEGRÉE	12043
@@ -851,9 +895,11 @@ La Stratégie Régionale	11944
 Labour Migration Strategy	10463
 Launch of Geospatial Information Management Strategy	11275
 Lead Growth Strategy	1895
+Leadership and Strategic Thinking Ready	12325
 Leadership and Strategy	12214
 Leadership and Strategy Implementation Capacity and Systems	12214
 Leadership and Strategy RATING OPPORTUNISTIC STAGE	12214
+Ledger Technology NFS National FinTech Strategy	12444
 Lesotho AI Strategy and Data Centre Planning	9942
 Lesotho's National Digital Transformation Strategy	1370
 Liberia Country Strategy Paper	4840
@@ -865,6 +911,7 @@ Livelihood Strategies of Central African Refugees	10841
 Loan Agreements. The Procurement Strategy for Development	10768
 Long Term Climate Change Strategy of The Gambia Final.pdf	1264
 Long Term Development Strategy	10781
+Long Term Strategies and NDCs	12399
 Long-Term Climate Neutral-Development Strategy	1264
 Long-Term Strategy	2411,8357
 Luxembourg Yes Stratégie	11529
@@ -874,6 +921,7 @@ M Strategic Equity Investment DFC	1436
 MALAWI DEVELOPMENT GROWTH STRATEGY MIX	12253
 MANGAUNG IDP STRATEGIC DEVELOPMENT OBJECTIVES	11231
 MEF PLAN D'ORIENTATION STRATÉGIQUE DE L'ADMINISTRATION	10712
+MEGATRENDS UNDERGIRDING THE ESWATINI FINTECH STRATEGY	12444
 MEST’s Strategic Technology	4126
 METHODOLOGY Ghana’s National AI Strategy	4126
 MINICT's ICT4GOV Cluster Strategy	9124
@@ -883,6 +931,7 @@ MOR's Compliance Strategy	12225
 MTDP Strategic Priority	11218
 Maartje M van Stralen	899
 Macroeconomic Sector Strategies and Policies	11971
+Macroeconomic Sector Strategies and Policies Low Low	12440
 Macroprudential Policy Strategy	6938
 Madagascar's National Financial Inclusion Strategy	323
 Malawi Growth Development Strategy III	12175
@@ -933,6 +982,7 @@ Mid-Year Strategic Plan Review Workshop	1554
 Migration Strategy	6432
 Migration Strategy International	6432
 Minister’s Strategic Blueprint	2933
+Ministry of Labour Launches Digital Strategy	12416
 Ministry's Strategic Blueprint. The Desk	10157
 Ministry's Strategic Performance Framework	10980
 Mission STRATEGIC OVERVIEW Overall	11198
@@ -965,15 +1015,17 @@ Multi-Cloud Support Strategy Cloud	6432
 Multi-Layered Mitigation Strategy Mitigation	4528
 NATIONAL AI STRATEGY FRAMEWORK	4126
 NATIONAL AI STRATEGY FRAMEWORK MISSION	4126
-NATIONAL ARTIFICIAL INTELLIGENCE STRATEGY	1965,2161
+NATIONAL ARTIFICIAL INTELLIGENCE STRATEGY	1965,2161,8230
 NATIONAL CYBERSECURITY STRATEGY	1000
 NATIONAL CYBERSECURITY STRATEGY AND ACTION	1000
 NATIONAL CYBERSECURITY STRATEGY Today	11277
 NATIONAL EHEALTH STRATEGY STIPULATED	1009
 NATIONAL FINANCIAL INCLUSION STRATEGY II	940
-NATIONAL FINTECH STRATEGY Kingdom of Eswatini	11134
+NATIONAL FINTECH STRATEGY FOR THE KINGDOM	12444
+NATIONAL FINTECH STRATEGY Kingdom of Eswatini	11134,1310
 NATIONAL RESEARCH PRIORITISATION AND STRATEGIC PLANNING	1554
 NATIONAL STRATEGY	1885
+NATIONAL STRATEGY ON FINANCIAL EDUCATION	12376
 NCA Regulatory Functions MOPT NCC Strategy	1777
 NCIC AS THE STRATEGIC NERVE	11277
 NCS Strategic Pillars Strategic Objectives Build	1777
@@ -987,11 +1039,14 @@ NIMC Seals Strategic Partnerships	7868
 NITA-U Launches Five-Year Digital Strategy	6786
 NITDA Strategic Roadmap	10861
 NPS Strategic Plan	3320
+NPS Strategic Vision	12390
+NPS Vision and Strategy Document	12390
 NRB Strategic Plan	12241
 NRB's Strategic Plan-2025-30. The Strategic Plan	12241
 NRSS National Rural Safety Strategy PIE	11188
 NSA Strategic Plan	1188
 NSIA Banque CI Signs Strategic Partnership	5163
+NST1 National Strategy for Economic Transformation RDB	12329
 NTFC Strategic Induction and Roadmap Workshop	8845
 NT’s Strategic Plan	12321
 Namibia Statistics Agency Strategic Plan	976
@@ -1009,7 +1064,7 @@ National AI Policy Strategies. International Journal	11135
 National AI Strategic Implementation Plan	11230
 National AI Strategies	1814,5774,3547,1075
 National AI Strategies. AI	11135
-National AI Strategy	2557,129,85,483,29,83,190,19,29,130,26,349,17,402,445,254,159,25,188,102,92,139,2,12,95,164,28,144,3,62,141,20,189,755,1,462,78,152,92,31,55,612,174,12,335,306,215,138,36,55,834,3,301,339,144,288,31
+National AI Strategy	2557,129,85,483,29,83,190,19,29,130,26,349,17,402,445,254,159,25,188,102,92,139,2,12,95,164,28,144,3,62,141,20,189,755,1,462,78,152,92,31,55,612,174,12,335,306,215,138,36,55,834,3,301,339,144,288,31,115
 National AI Strategy Committee	9511
 National AI Strategy Date	6440
 National AI Strategy Ecosystem Category	4528
@@ -1018,6 +1073,7 @@ National AI Strategy National AI Strategy	11135
 National AI Strategy National Strategy for AI	11135
 National AI Strategy and National Data Governance	3604
 National AI Strategy and Startup Bill	7432
+National AI Strategy and Vision	12356
 National AI Strategy of Ghana	4126
 National AI Strategy. Donor	5784
 National AI Strategy. This Committee	4528
@@ -1028,7 +1084,7 @@ National Adaptation Strategy	11131,3
 National Anti-Corruption Strategy	11224,362
 National Anti-Corruption Strategy. The Strategy	5533,6453
 National Artificial Intelligence Strategies	2958
-National Artificial Intelligence Strategy	3133,102,48,321,156,366,402,277,896,83,134,17,396,46,56,7,143,651,194,109,551,873,69,87,280,25,116,36,413,85,67,18,77,36,30,1,812,51,563
+National Artificial Intelligence Strategy	3133,102,48,321,156,366,402,277,896,83,134,17,396,46,56,7,143,651,194,109,551,873,69,87,280,25,116,36,413,85,67,18,77,36,30,1,812,51,563,629
 National Artificial Intelligence Strategy. Abuja	11138
 National Artificial Intelligence Strategy. Cooperation	10510
 National Artificial Intelligence Strategy. Malawi	3643
@@ -1036,10 +1092,11 @@ National Artificial Intelligence and Big Data Strategy	6893,3963
 National Basic Social Security Strategy	12247
 National Biodiversity Conservation Strategy	11720
 National Broadband Policy and Implementation Strategy Greece	11529
-National Broadband Policy and Strategy	3796
+National Broadband Policy and Strategy	3796,8589
 National Broadband Strategy	10650,879,734
 National Broadband Strategy Kiribati No Korea	11529
 National Broadband Strategy and Cybersecurity	12214
+National CRVS Strategic Plan	12413
 National Child Online Protection Strategy	4583
 National Civil Status and Identification Strategy	10915
 National Clean Cooking Energy Strategy	10460
@@ -1062,7 +1119,7 @@ National Cyber Strategy	1000,9446
 National Cybersecurity Governance. Strategic Objective	1777
 National Cybersecurity Policy and Strategy	5132,386,5203
 National Cybersecurity Strategies	10848,1072
-National Cybersecurity Strategy	1000,200,176,401,212,309,405,336,207,46,486,109,61,256,2,7,22,348,185,476,63,477,755,371,638,525,2691,513,614,29,20,221
+National Cybersecurity Strategy	1000,200,176,401,212,309,405,336,207,46,486,109,61,256,2,7,22,348,185,476,63,477,755,371,638,525,2691,513,614,29,20,221,265
 National Cybersecurity Strategy D1.1	1200
 National Cybersecurity Strategy Formulation and Action Plan	1000
 National Cybersecurity Strategy NSCA National Security	6432
@@ -1109,7 +1166,7 @@ National Digital Payments Strategy. Vanhelleputte	9762
 National Digital Public Infrastructure Strategy	10451
 National Digital Strategy	1818,2615,217,13,214,103,56,45,163,4709,498
 National Digital Strategy.5	5244
-National Digital Transformation Strategy	2351,487,151,517,98,5,166,1255,832,571,359,30,107,2505
+National Digital Transformation Strategy	2351,487,151,517,98,5,166,1255,832,571,359,30,107,2505,2981,13
 National Digital Transformation Strategy and AI Strategy	12241
 National Digital Transformation Strategy and Roadmap	1376,10865
 National Digital Transformation Strategy for Côte	3604
@@ -1132,9 +1189,12 @@ National E-commerce Strategy	11032
 National E-commerce Strategy for Egypt	226
 National Economic Strategy	6376
 National Education Strategy	11900
-National FinTech Strategy	3398,787,3617,3332
+National Electrification Strategy	12399
+National Electrification Strategy NIRP National Integrated	12399
+National FinTech Strategy	3398,787,3617,3332,1310
 National Financial Access Strategy	4115,8158
-National Financial Inclusion Strategy	418,522,2467,488,981,341,921,1664,3328,8,448,320,54,34,255,21
+National Financial Inclusion Strategy	418,522,2467,488,981,341,921,1664,3328,8,448,320,54,34,255,21,139,35
+National Financial Inclusion Strategy DPI Distributed	12444
 National Financial Inclusion Strategy II	940,3025
 National Financial Inclusion Strategy Implementation Support	1475
 National Financial Inclusion Strategy National Payment	940
@@ -1144,7 +1204,7 @@ National Financial Inclusion Strategy. KEY DRIVERS	940
 National Financial Inclusion Strategy. The Reserve	940
 National Financial Inclusion and Development Strategy	1889
 National Financial Literacy Strategy	11134
-National Fintech Strategy	6887,4244,3
+National Fintech Strategy	6887,4244,3,1310
 National Food Security Strategy	7845
 National Fourth Industrial Revolution Strategy	7043
 National Girls Education Strategy	12175
@@ -1162,6 +1222,7 @@ National ICT Development Strategy. Activities	691
 National ICT Policy and Sectoral Strategy Saint	11529
 National ICT Policy and Strategy	3405,345,1090
 National ICT Strategy	395
+National IT Strategy	12359
 National Incident Response Unit. Strategic Objective	1777
 National Inclusive Education Strategy	12175
 National Inclusive Finance Strategy	10967
@@ -1203,20 +1264,21 @@ National Strategic Development Plan	1200,10700
 National Strategic Development Plan II	5274,1349,2077
 National Strategic Hub	11940
 National Strategic Intelligence Act	11177,13
-National Strategic Plan	1596,3937,5247,1080,126
+National Strategic Plan	1596,3937,5247,1080,126,432
 National Strategic Plan for HIV	10776
 National Strategic Plan for Health System Recovery	8613
 National Strategic Plan for NTDs	10188
 National Strategic Plan for Neglected	10780
 National Strategic Plan for Tuberculosis OCHA	10776
 National Strategic Planning	11224
-National Strategy	236,740,733,1524,266,65,1285,188,3469,1202,47,1020,1,53,35,101,170,66,36,8,280,488,162
+National Strategy	236,740,733,1524,266,65,1285,188,3469,1202,47,1020,1,53,35,101,170,66,36,8,280,488,162,183,55
 National Strategy for Artificial Intelligence	3826,15,1674,260,4366
 National Strategy for Birth Registration	10765,10
 National Strategy for Broadband Access	11529
 National Strategy for Civil Registration	10812
 National Strategy for Community Networks	8161
 National Strategy for Data Management	1284
+National Strategy for Development of Statistics	12413
 National Strategy for Developmental Statistics	11289
 National Strategy for Digital Governance	1380
 National Strategy for Digital Growth	11529
@@ -1232,7 +1294,8 @@ National Strategy for New Renewable Energies	11366
 National Strategy for Primary Health Care	7707
 National Strategy for Risk Management	11907
 National Strategy for Sustainable Development	11905
-National Strategy for Transformation	718,1185,3693,2882,2174
+National Strategy for Transformation	718,1185,3693,2882,2174,1706,28,17,8
+National Strategy for Transformation NUC	12358
 National Strategy for Transformation Pillar	770
 National Strategy of Civil Registration	10812
 National Supply Chain Strategic Plan	10829
@@ -1260,6 +1323,13 @@ OBJECTIF INDICATEURS STRATEGIQUE Réglementaire Nombre	10965
 OBJECTIF STRATEGIQUE	10712
 OBJECTIF STRATÉGIQUE	10712
 OBJECTIFS STRATÉGIQUES ET PROGRAMMES	10712
+OBJECTIVE STRATEGIES ACTIVITIES INDICATOR PLANED TARGET	12453
+OBJECTIVES AND STRATEGIES	12453
+OBJECTIVES AND STRATEGIES The Plan	12453
+OBJECTIVES STRATEGIES ACTIVITIES Enforce	12453
+OBJECTIVES STRATEGIES ACTIVITIES INDICATOR PLANED TARGET	12453
+OBJECTIVES STRATEGIES ACTIVITIES INDICATOR Train	12453
+OBJECTIVES STRATEGIES ACTIVITIES Strengthen Government	12453
 ODPC Strategic Plan	7548
 OECD Skills Strategy Flanders	6832
 OPPORTUNITY The B Strategy and Design	11006
@@ -1281,6 +1351,7 @@ Orientation Stratégique	10712
 Outcome Strategic	11237
 Outputs Primary Secondary Strategic Objective	1777
 Outputs Primary Secondary Strategic Pillar	1777
+Overall Cyber Security Policy and Strategy	12364
 Overall Strategic Objectives	1814
 Overall Strategic Objectives The Strategic Objectives	1814
 Overall-2018 Savings Strand	418
@@ -1383,6 +1454,7 @@ Quarterly Strategic Briefings	4528
 RCV RCV SECTOR STRATEGIES	11863
 RCZ's MidYear Strategic Review and Results-Based Management	1554
 REFERENCE GUIDE STRATEGY DESCRIPTION	6432
+REG Strategic Plan	12358
 RESA National Strategy for Restoration of State Authority	969
 RESET Strategic Plan	7722
 RESOURCE MOBILIZATION STRATEGIES	1131
@@ -1416,6 +1488,7 @@ Revised Framework for Strategic Plans and Annual	11986
 Revised Framework for Strategic Plans and Annual Performance	11224
 Revised National Development Strategy	3583
 Revised Raw Water Pricing Strategy	8599
+Risk Impact Mitigation Strategy Cybersecurity High	12444
 Risk Management Management Strategy	10721
 Risk Management Strategy GC-RM.S1	10721
 Risk Management and Mitigation Strategies The Philosophy	4528
@@ -1429,10 +1502,15 @@ Rural Electrification Authority SDA Strategic Development	1867
 Rural Safety Strategy	11188
 Rural Safety Strategy The Key Focus	11188
 Rural Safety Strategy. Rural Safety Priority	11188
+Rwanda CRVS National Strategic Plan	12338
+Rwanda Digital Government Strategy and Governance	12359
 Rwanda National Strategy for Transformation	791
 Rwanda Unveils Strategic Digital FDI Report	3837
+Rwanda's Broadband Policy and Strategy	12385
 Rwanda's FinTech Strategy	5384
+Rwanda's National Strategy for Transformation	12329
 Rwandan National Strategy	3398
+Rwanda’s Digital Government Strategy	12359
 Rwanda’s Health Sector Strategic Plan V	4781
 Rwanda’s ICT Sector Strategic Plan	8266
 Rwanda’s National Data Strategy	4970
@@ -1472,6 +1550,8 @@ STRATEGIC COMPONENTS	396
 STRATEGIC CONTEXT	1818,10045
 STRATEGIC CONTEXT A. Country Context	11863
 STRATEGIC CONTEXT Tunisia	1818
+STRATEGIC DIRECTION	12453
+STRATEGIC DIRECTION This Plan	12453
 STRATEGIC DOCUMENTS	9485
 STRATEGIC FIT AND KEY ISSUES	1818
 STRATEGIC FOCUS	5533,5728,725
@@ -1502,10 +1582,10 @@ STRATEGIE NATIONALE DE LA FINANCE INCLUSIVE	10965
 STRATEGIE NATIONALE DE TRANSITION IP V6	1702
 STRATEGIE NATIONALE D’INCLUSION FINANCIERE	10965
 STRATEGIE NATIONALE POUR LA CONNECTIVITÉ UNIVERSELLE	9824
-STRATEGIES	10975,885
+STRATEGIES	10975,885,593
 STRATEGIQUE N	10712
 STRATEGIQUES	10273
-STRATEGY	1000,161,724,2241,8084
+STRATEGY	1000,161,724,2241,8084,146
 STRATEGY AND BUSINESS MODEL	7204
 STRATEGY AND OBJECTIVES	11863
 STRATEGY Despite	11131
@@ -1531,10 +1611,12 @@ Science and Technology National Development Strategy	1554
 Second Botswana Strategy for Development	9708
 Second Financial Inclusion Strategy	5043
 Second National Financial Inclusion Strategy	10299
-Second National Strategy for Transformation	2998,7660
+Second National Strategy for Transformation	2998,7660,1745
+Second National Strategy for Transformation. PPS	12403
+Second National Strategy for Transformation. Utilities	12403
 Sector Policy and Digital Transformation Strategy Page	3604
 Sector Strategic Plan	899
-Sector Strategic Plans	1261
+Sector Strategic Plans	1261,11152
 Sector Strategies Nigeria	11469
 Sector Strategies and Policies	969,898,1737,2935,4229,61,135,453,108,35,295
 Sector Strategies and Policies Substantial	11380,525
@@ -1552,12 +1634,15 @@ Sierra Leone’s National Data Strategy	1161
 Simandou Strategic Committee	3540
 Singapore National AI Strategy	11135
 Singapore’s AI Strategy	4126
+Six Strategic Pillars	12444
+Skills Development Strategy and Plan	12399
 Small Business Portfolio Digital Transformation Strategy	8458
 Small and Medium Enterprises National Development Strategy	940
 Smart Agriculture Strategic Interventions Project Activities	395
 Smart Cities Strategic Interventions Project Activities	395
 Smart Government Strategic Interventions Project Activities	395
 SmartBots Strategy	2576
+Social Protection Policy Strategies URL	12373
 Social Protection Strategy	10963,1,891
 Sociale Stratégique RFU Registres Fonciers Urbains	10876
 Somalia's Digital Transformation Strategy	3750
@@ -1586,6 +1671,9 @@ Stats SA Linking Policy and Strategy Stats	11289
 Stockholm. Strauss	10841
 Strafproseswet	11190
 Strafregtelike Aangeleenthede	11190
+Straight-Through Processing	12364
+Straight-through Processing	12364
+Straight-through Processing All	12364
 Strait of Hormuz	5912,1877,2929,418
 Strait of Hormuz Disruption Scenario	10718
 Strait of Malacca	5252
@@ -1608,7 +1696,7 @@ Strat	8891,1924
 Strat-	11909
 Strata Identity	2778
 Strateg Rev South Afr	9739
-Strategic	396,322,258,155,30,100,23,534,275,723,132,839,74,26,239,45,31,12,45,90,83,96,266,96,6,544,93,27,117,352,403,303,73,24,104,11,1,330,270,172,39,262,69,94,419,1126,30,554,463,53,12,99,37,40,114,2,1,59,4,1,32,7,52,319,200,144,13,21,20,132,72,4,11,16,54
+Strategic	396,322,258,155,30,100,23,534,275,723,132,839,74,26,239,45,31,12,45,90,83,96,266,96,6,544,93,27,117,352,403,303,73,24,104,11,1,330,270,172,39,262,69,94,419,1126,30,554,463,53,12,99,37,40,114,2,1,59,4,1,32,7,52,319,200,144,13,21,20,132,72,4,11,16,54,32,32,73
 Strategic Accounts	6270
 Strategic Acquisition of Seven NTT Data Centres	11243
 Strategic Action Plan	1000
@@ -1623,6 +1711,7 @@ Strategic Advocacy Missions	10776
 Strategic Agreement	12026
 Strategic Alignment	4528
 Strategic Allocation of ODA Official Development Assistance	11487
+Strategic Ambition	12356,88
 Strategic Anchors for Fintech Development	4848
 Strategic Approach	3840
 Strategic Apps	6432
@@ -1683,7 +1772,7 @@ Strategic Foundation and Rationale Zimbabwe	4528
 Strategic Foundation and Vision	4528
 Strategic Foundation and Vision Transforming Zimbabwe	4528
 Strategic Foundation and Vision Zimbabwe	4528
-Strategic Framework	1257,9599,1134
+Strategic Framework	1257,9599,1134,409
 Strategic Framework Education and AI Literacy Foundations	4528
 Strategic Framework M	3604
 Strategic Framework NA Not Applicable NIR	5533
@@ -1692,18 +1781,23 @@ Strategic Framing If Global Gateway	11155
 Strategic Goal	1000,3301
 Strategic Goals	1000,2487
 Strategic Goals Objective	1000
+Strategic Guidance	12356
 Strategic Head of Emergency Department Managing Medical	8603
+Strategic ICT	12359
 Strategic Identity Asymmetry	7008
 Strategic Impact Advisors	11017
 Strategic Impact Advisors Digital	11017
 Strategic Impact The CBE	11131
 Strategic Imperative for National Sovereignty	3313
 Strategic Imperative. Community Paper. Retrieved	10819
+Strategic Imperatives for Zambia	12356
+Strategic Implications	12444
 Strategic Importance	3495
 Strategic Importance Critical	10892
 Strategic Importance of AI	12210
-Strategic Initiatives	11131
+Strategic Initiatives	11131,1225
 Strategic Initiatives Ethio	3487
+Strategic Initiatives Zambia	12356
 Strategic Innovations	4260
 Strategic Inputs and Strategic Outputs	11131
 Strategic Insight and Outlook	11134
@@ -1743,14 +1837,17 @@ Strategic Management and Finance	6946
 Strategic Mandate	4896
 Strategic Mapping of Plan Outcomes	11857
 Strategic Meetings	10776
+Strategic Mergers and Acquisitions	12376
 Strategic Mind	4528
 Strategic Minerals	11608
+Strategic Monitoring	12356
+Strategic Move Households	12370
 Strategic Move National Talent Development	4528
 Strategic National Asset Gaps	7548
 Strategic National Objectives	7672
-Strategic Objective	1777,6976
+Strategic Objective	1777,6976,3603
 Strategic Objective Zimbabwe	4528
-Strategic Objectives	396,11174,321
+Strategic Objectives	396,11174,321,465
 Strategic Objectives Prosperity for All UNDP Mauritius	11332
 Strategic Objectives and Actions Indicators	1777
 Strategic Oblectives	4301
@@ -1779,9 +1876,11 @@ Strategic Pathways for Overcoming the Cost Barrier	6690
 Strategic Performance Framework	10980
 Strategic Perspectives	4103
 Strategic Pillar	1777
-Strategic Pillars	1777,2751,717
+Strategic Pillars	1777,2751,717,7199
+Strategic Pillars The National FinTech Strategy	12444
 Strategic Pillars and Objectives The National Cybersecurity	1777
-Strategic Plan	789,211,131,767,1753,10,159,436,334,288,367,288,303,652,24,274,160,761,53,333,1346,46,622,1,668,4,505,47,24,173,7,17,363,70,233,22,39
+Strategic Pillars for Eswatini's National Fintech Strategy	12444
+Strategic Plan	789,211,131,767,1753,10,159,436,334,288,367,288,303,652,24,274,160,761,53,333,1346,46,622,1,668,4,505,47,24,173,7,17,363,70,233,22,39,57,29
 Strategic Plan Committee	1131
 Strategic Plan Development	10776
 Strategic Plan Guinea-Bissau	11525
@@ -1796,15 +1895,16 @@ Strategic Plan for Public Finance Reform	11906
 Strategic Plan for Surveillance and Animal Health	11417
 Strategic Plan for Sustainable Development	11891
 Strategic Plan for TVET Transformation	789
+Strategic Plan. Vital	12367
 Strategic Planning	408,3453,5608,2517
 Strategic Planning and Capacity Building The Committee	1554
 Strategic Plans	7548
 Strategic Policy Actions Policy Priority	958
 Strategic Positioning	4896
-Strategic Priorities	1161,2326,1048,7451,329
+Strategic Priorities	1161,2326,1048,7451,329,129
 Strategic Priorities for Nigeria’s Fintech Future Based	4848
 Strategic Prioritization Focusing	4528
-Strategic Priority	6603
+Strategic Priority	6603,5841
 Strategic Program Management Office	11272
 Strategic Project Valued	6581
 Strategic Projects Coordinator	5036
@@ -1822,6 +1922,8 @@ Strategic Rethink	5752
 Strategic Review	4528
 Strategic Review Summit	4528
 Strategic Risk Indices	5141
+Strategic Risks	12356
+Strategic Road Map	12457
 Strategic Roadmap	543
 Strategic Roadmap and Action Plan	4725,3699
 Strategic Roadmap for Digitalization and AI	6582
@@ -1837,7 +1939,7 @@ Strategic Theme Teams	1131
 Strategic Themes The Next Horizon Strategy	3487
 Strategic UNDP	11332
 Strategic Unit	899
-Strategic Vision	10819
+Strategic Vision	10819,1638
 Strategic Workforce Planning	11134
 Strategic Workforce Planning The Strategic Workforce	11131
 Strategic and Financial Plan	7938
@@ -1851,7 +1953,7 @@ Strategie Nationale	10964
 Strategie Nationale de Développement	10963
 Strategie-nationale-d'alphabetisation-SNA-	1049
 Strategien	615
-Strategies	226,714,18,3,9,909,937,1616,1618,1228,481,262,355,827,1573,105,83,169,91,6,35,281,370
+Strategies	226,714,18,3,9,909,937,1616,1618,1228,481,262,355,827,1573,105,83,169,91,6,35,281,370,529,8
 Strategies Personal Data Protection and Privacy Act	5244
 Strategies To Mitigate ICT Challenges	958
 Strategies and Guidelines for Capacity Building	5677
@@ -1862,7 +1964,7 @@ Strategies for Rolling Out New Tech Within	899
 Strategies for Sustainability and Growth	7444
 Strategies of Training	11860
 Strategies-plans-programmes	8891
-Strategy	395,1,52,59,211,71,33,118,29,31,49,105,7,67,29,4,3,513,2,35,4,10,81,394,374,321,489,117,156,11,60,30,34,231,45,14,241,102,55,7,238,12,258,12,117,115,18,43,79,31,37,27,294,64,11,24,103,221,86,398,12,2,40,39,22,44,9,90,168,18,266,60,10,30,119,656,4,2,7,163,132,248,184,16,63,548,201,141,143,31,99,467,17,11,1,15,5,9,94,1,15,151,3,1,53,5,3,22,6,13,3,10,25,14,1,42,24,112,61,41,37,248,2,6,42,11,69,1,22,9,38,116,5,34,4,27,38
+Strategy	395,1,52,59,211,71,33,118,29,31,49,105,7,67,29,4,3,513,2,35,4,10,81,394,374,321,489,117,156,11,60,30,34,231,45,14,241,102,55,7,238,12,258,12,117,115,18,43,79,31,37,27,294,64,11,24,103,221,86,398,12,2,40,39,22,44,9,90,168,18,266,60,10,30,119,656,4,2,7,163,132,248,184,16,63,548,201,141,143,31,99,467,17,11,1,15,5,9,94,1,15,151,3,1,53,5,3,22,6,13,3,10,25,14,1,42,24,112,61,41,37,248,2,6,42,11,69,1,22,9,38,116,5,34,4,27,38,53,24,3,25,60,9
 Strategy AI	7548
 Strategy Alignment	11131
 Strategy Annual	11986
@@ -1872,6 +1974,8 @@ Strategy Conversation	11134
 Strategy Data	12210
 Strategy Description	4528
 Strategy Development	1261
+Strategy Development Approach	12356
+Strategy Development Process	12356
 Strategy Document	10965
 Strategy EU-Asia Connectivity Strategy	11155
 Strategy Ethio Telecom	8538
@@ -1899,7 +2003,7 @@ Strategy Paper SDG Sustainable Development Goals	11863
 Strategy Realignment Without	11134
 Strategy Report	1360
 Strategy Reset The Bank	11134
-Strategy Review	11134
+Strategy Review	11134,1222
 Strategy Review The Bank	11134
 Strategy Reviews	11134
 Strategy Service Providers	10721
@@ -1913,6 +2017,7 @@ Strategy The Bank	11131,3
 Strategy The Government	7548
 Strategy Through TRANSCO CLSG Partnership	6688
 Strategy Townhall	11131
+Strategy Vision and Objectives Digital Government Platform	12359
 Strategy Window for Host Communities and Refugees	11905
 Strategy and Action Plan	1000,3180,6077
 Strategy and Action Plan for Grenada	11529
@@ -1943,6 +2048,7 @@ Strategy for Cross-Border Retail	6938
 Strategy for Development Education Sector Support Project	11905
 Strategy for Development PRAMS Procurement Risk Assessment	3604
 Strategy for Development PSDG Public Sector Digital	10829
+Strategy for Development of Statistics RBC Rwanda Biomedical	12413
 Strategy for Energy Security	11366
 Strategy for External Action	11536
 Strategy for Growth and ECD Employment	10964
@@ -1950,10 +2056,12 @@ Strategy for Growth and Employment	10963,1
 Strategy for Growth and Sustainable Development	10812
 Strategy for Inclusive Finance	10965
 Strategy for New Renewable Energies	11366
+Strategy for Transparency andAccountability	12325
 Strategy for Youth Employment	10841
 Strategy of Accelerated Growth and Promotion of Employment	11529
 Strategy of Digital Agenda	11529
 Strategy of Liberia	1777
+Strategy of Zambia	12356
 Strategy. Addresses. Fiber. Data. Law	7617
 Strategy. CAMPAIGN IMPACT	7204
 Strategy. Department of Social Development	11188
@@ -1972,7 +2080,7 @@ Strathmore	1742,523
 Strathmore Business School	8623
 Strathmore University	1742,11,434,4284,964,2420,475
 Strathmore University Business School	8728
-Stratification	10976,898,7
+Stratification	10976,898,7,465,57
 Stratified	10862
 Stratos Lab	11502
 Stratos Lab’s GPU	11502
@@ -2066,6 +2174,7 @@ Technologique CSLP Cadre Stratégique de Lutte	12
 Technology Development Agency Strategic Business Group	10157
 Technology and Innovation Strategy for Africa	789,1025,5183
 Telecommunications National Cybersecurity Strategy	1777
+Template. NY. Vital Strategies	12413
 Tenfold Growth Strategy. Musasizi	8559
 Tenfold Growth Strategy. Zhang Hao	8559
 Test PPSD Project Procurement Strategy for Development	11525
@@ -2083,6 +2192,9 @@ Trump National Security Strategy. Same	4258
 Trump’s National Security Strategy	4258
 Tunisia’s Digital Strategy	5340
 Tunisia’s National Digital Strategy	5340
+Turn Around Strategy	12337
+Turnaround Strategy	12327,10
+Turnaround Strategy. The Office	12327
 Turning Strategy Into Delivery Collectively	7764
 U.S. Global Health Strategy	4349
 U.S. Government Strategic Assistance Funding	4153,14,50,132
@@ -2091,6 +2203,7 @@ UAE-France Strategic Dialogue. The MoU	706
 UK-Kenya Strategic Partnership	10540
 UN Secretary General's Global Strategy for Women	12138
 UN-Habitat Strategic Plan	11285
+UN-LIA IN COLLABORATION WITH VITAL STRATEGIES	12337
 UN. Vital Strategies	12151
 UNCTAD Strategic Partnership	250
 UNDP Strategic Plan	11332
@@ -2129,12 +2242,14 @@ VIII. STRATEGIC CONTEXT A. Country Context	10768
 VP of Strategic Pursuits	1267
 Vertiv Cooling and Power Solutions for Strategically Located	11243
 Violence Strategy	10841
+Virtual Asset Service Strategic Priority	12444
 Visa Strategic Investment	2247
 Vision and Mission The Continental AI Strategy	1814
 Vision and Strategy	5246
-Vital Strategies	1710,2547,1042,4505,787,381,1214
+Vital Strategies	1710,2547,1042,4505,787,381,1214,151,1,29,46
 Vital Strategies Latest Biometrics News Foundational	9804
 Vital Strategies. UN	12151
+Vital Strategies. United Nations Economic Commission	12413
 WATRA Strategic Plan	5676,4
 WHO's Global Strategy	4940
 Washington’s America First Global Health Strategy	10602
@@ -2161,10 +2276,15 @@ XIII. COMMUNICATION ET STRATEGIE DE COMMUNICATION	10876
 Year Development Strategy	7815
 Year-End Strategic Plan Review Workshop	1554
 ZIMBABWE NATIONAL STRATEGY	3760
+Zambia AI Strategy and Vision	12356
 Zambia Border Development Strategy	5247,5381
 Zambia National Artificial Intelligence Strategy	1965
 Zambia National Digital Health Strategy	7707
 Zambia's National AI Strategy	7432
+Zambia’s AI Strategy	12356
+Zambia’s National AI Strategy	12356
+Zambia’s National Artificial Intelligence Strategy	12356
+Zambia’s Technology Strategy Development Toolkit	12356
 Zero Trust Strategy for Google Distributed Cloud	4434
 Zimbabwe AI Strategy	5411
 Zimbabwe Digital Health Strategy	3385

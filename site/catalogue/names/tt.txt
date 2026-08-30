@@ -1,7 +1,15 @@
 Ameitaka TTCL	11612
 Amesema TTCL	11612
 BIF TTC	3163,3780
+BOZ TTC	12364
+Bank of Zambia ZIPSS Rules The TTC	12364
+Billing Billing TTC MT298 SMT	12364
+Billing TTC	12364
 CRS TT Muchuru	12138
+CSD Collateral Setup Default TTC	12364
+CSD Transfer Default TTC	12364
+Cash Reserve TTC	12364
+Default TTC	12364
 Digitization TT UNICEF Kenya	12138
 Director General TTCL Moremi Andrea Marwa	8214
 ETA and TTOS	6867,1
@@ -12,10 +20,23 @@ F CFA TTC	3044,145,5132
 F CFA TTC.Le	7670
 FCFA TTC	8577,2398
 FCFA TTC CTD Décision	10975
+ILF Drawdown Default TTC	12364
+ILF Reversal Default TTC	12364
+ILFDD ILF Drawdown Default TTC	12364
+ILFREV ILF Reversal Default TTC	12364
+INVTRANTYPEFORTTC Class of TTCs	12364
+INVTTCPARTTYPE The TTC	12364
 Impact TND Tunisian Dinar TT Tunisie	1818
 Komori Tts	8876
+LUSE TTC	12364
+LuSE TTC and VISA	12364
+Message Priorities TTC Priority Default Range	12364
+Message Type TTC Types MT298 SMT	12364
 Nairobi TT Official	12138
 Partnership TTOS Trusted Tour Operator Scheme	11986
+RESMOV Reserve Operation Default TTC	12364
+RTGS Transaction Type Codes TTC Priority	12364
+Reserve Operation Default TTC	12364
 Residence Visa TTOS Trusted Tour Operator	5533
 Standard Gauge Railway. The TTCL-managed NICTBB	9149
 State Security Agency TTOS Trusted Tour	11218
@@ -32,6 +53,8 @@ TT Pelowski	12138
 TT Plan International	12138
 TT Registration	12138
 TT UNICEF	12138
+TTC Pacs.010	12364
+TTC Type TTC Code Default Range	12364
 TTCL Corporation	3954
 TTCL Dar	2868
 TTCL Dodoma Telephone House	2868
@@ -41,6 +64,7 @@ TTCL Zanzibar Manager Nasra Mugheiry	10746
 TTCL and Huawei Tanzania	1122
 TTCL’s Faiba Mlangoni Kwako	10746
 TTCL’s National Internet Data Centre	10746
+TTCs. Energy	12411
 TTL Tounwendé Alain Sawadogo. Foundation	1641
 TTOS Visa Application System	11986
 TTOS and TES. Building	5533
@@ -59,5 +83,7 @@ TtmreeanttmaenndtSaunpdplSyuNpPpPlIy	11152
 Ttodeterminewhethertwoentitiesareconsideredsimilar	8606
 TtéAgiPeEd5e	10711
 Under TTOS	11218
+VISA TTC	12364
 WB TTL	973
+ZECHL TTC	12364
 Zanzibar TTCL	6083

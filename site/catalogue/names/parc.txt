@@ -3,6 +3,7 @@ APURAMENTO PARCIAL	11528
 Action Environnemental PARC Plan	10876
 Agence Nationale des Parcs	11597
 Burkina Faso. Parce	8678,43
+COMMUNICATION TECHNOLOGY SECTOR REPORT Parcels	12395
 Congo Télécom. Parce	10543
 Cumbersome Parcel	11129
 DE PLANS PARCELLAIRES EN LIGNE	9976
@@ -28,18 +29,25 @@ I.A. Parce	5065
 Inteligência Artificial A Parceria Global	2816
 International Incoming Parcels	6671
 International Outgoing Parcels	6671
+International Packets and Parcels	12395
 Internet Fixe Parc	998
 Internet Parc Internet	998
 Le Parc	998
 Le Parcours	10237
+M Parcels	12457
+M Per Parcel	12457
 Múltiplos Parceiros Sexuais	10777
 NACIONAL DE PRODUTORES AGROPECUÁRIOS E PARCEIROS	10769
 NUMBER OF PARCEL DELIVERY SERVICES	11211,51
 O Pacto de Parceria	11557
+Outbound Parcels	12395
 PACTO DE PARCERIA DA GUINÉ-BISSAU	11557
 PARCA	10841
 PARCOURS CERTIFIANT EN FINANCE DIGITALE	10237
 PME Parceria Mundial	11557
+Packets Inbound Parcels	12395
+Packets Total Parcels	12395
+Packets and Parcels	12395
 Pacto de Parceria	11557
 Parc Internet	998
 Parc Robotics	3395
@@ -52,11 +60,15 @@ Parceiros	9434,1332,11,1371
 Parceiros Técnicos	11526,31
 Parcel	12211
 Parcel Post	11129
+Parcel and Packet	12395
+Parcel and Packet Volumes	12395
+Parcel and Packet Volumes ANNUAL INFORMATION	12395
 Parcela Condição	11456
 Parcelle	737,10139
-Parcels	10937
+Parcels	10937,1458
 Parcels Domestic	6671
 Parcels and Packages	9781
+Parcentage	12413
 Parceria	2816,6444,2128,138,43
 Parceria Estratégica	11564
 Parceria Global	2816

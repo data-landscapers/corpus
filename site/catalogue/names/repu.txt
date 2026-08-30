@@ -8,11 +8,13 @@ Abbreviations CAR Central African Republic CFA	4127
 About the Democratic Republic	9682
 Abuja Nigeria For the Federal Republic ofNigeria	4301
 Accelerating Digital Inclusion Nationwide The Republic	3777
+Act. Government Printer. Republic of Zambia	12467
 Adamu Adamu Minister of Education Federal Republic	11860
 Addis Ababa. The Republic of Equatorial Guinea	8192
 Additional Responsibilities The Federal Republic of Nigeria	4301
 Adopt Open Standards REPUBLIC OF KENYA	12165
 Africa Country Republic of Kenya Federal Republic	4528
+Africa Union Commission. Goverment Republic of Namibia	12367
 Africa. REPUBLIC OF GHANA NATIONAL ARTIFICIAL	4126
 Africa. The Democratic Republic of Congo	6938
 African Markets The Central African Republic	5990
@@ -78,7 +80,7 @@ Cameroon and Republic	6333
 Cameroun. The Republic of Congo	1828
 Central Africa Republic	10826
 Central African Repubic	10841
-Central African Republic	174,62,336,397,12,7,60,17,160,1,139,18,58,24,116,18,29,6,44,37,113,65,14,23,1,1,1,1,1,1,1,12,3,48,2,1,1,1,1,1,1,1,1,1,1,1,221,103,41,126,178,93,39,75,34,154,80,276,62,105,29,239,50,76,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,101,109,44,47,13,5,7,913,3,48,117,20,8,68,443,1,17,195,148,280,24,73,116,124,200,557,778,1274,263,280,457,5,21,29,12,3,6,2,1,3,3,4,9,21,14,76,169,283,80,109,258,3,9,7,1,1,1,8,3,17,43,46,147,1,9
+Central African Republic	174,62,336,397,12,7,60,17,160,1,139,18,58,24,116,18,29,6,44,37,113,65,14,23,1,1,1,1,1,1,1,12,3,48,2,1,1,1,1,1,1,1,1,1,1,1,221,103,41,126,178,93,39,75,34,154,80,276,62,105,29,239,50,76,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,101,109,44,47,13,5,7,913,3,48,117,20,8,68,443,1,17,195,148,280,24,73,116,124,200,557,778,1274,263,280,457,5,21,29,12,3,6,2,1,3,3,4,9,21,14,76,169,283,80,109,258,3,9,7,1,1,1,8,3,17,43,46,147,1,9,178,11,1
 Central African Republic CAR Health Service	10829
 Central African Republic CBO Community-Based Organization	10829
 Central African Republic Commercial Forests Briefing	10841
@@ -159,9 +161,9 @@ Community Health Federal Republic Federal Republic	4301
 Comoros Mongolia Tonga Democratic Republic	11005
 Conclusion The Republic of Congo	11907
 Congo AT A GLANCE Democratic Republic	11994
-Congo Central African Republic Equatorial Guinea	10837
+Congo Central African Republic Equatorial Guinea	10837,1503
 Congo Denmark Djibouti Dominica Dominican Republic	11470,295
-Congo Republic	10759,76,3,130,902,16,1,2,264,1,9
+Congo Republic	10759,76,3,130,902,16,1,2,264,1,9,178,11,1
 Congo Republic's Overall Governance	11887
 Congo The Republic	12055
 Congo-Central African Republic	1715
@@ -200,9 +202,9 @@ Dec-2021. Republic of Mozambique. Social Protection	12220
 Dem. Republic of Congo	11879
 Democratic People's Republic of Korea Democratic Republic	11765
 Democratic People’s Republic of Korea	10764,76
-Democratic Republic	291,427,196,449,662,652,98,675,65,104,140,108,188,121,49,217,5,31,133,449,98,267,8,297,79,34,57,713,325,74,49,210,238,198,86,43,114,85,2,442,164,756,9,299,52,2,228,95,13,70,2,305,32,258,58,18,165,135,70,134,57,16,3,50,394,4,15,17,12,6,17,25,34,12,204,46,62
+Democratic Republic	291,427,196,449,662,652,98,675,65,104,140,108,188,121,49,217,5,31,133,449,98,267,8,297,79,34,57,713,325,74,49,210,238,198,86,43,114,85,2,442,164,756,9,299,52,2,228,95,13,70,2,305,32,258,58,18,165,135,70,134,57,16,3,50,394,4,15,17,12,6,17,25,34,12,204,46,62,95
 Democratic Republic Congo Disaster Risk Financing	10763
-Democratic Republic of Congo	123,76,54,65,142,17,120,254,111,76,325,363,45,44,52,47,212,125,27,13,407,14,63,92,57,46,147,121,77,155,6,32,229,23,392,134,79,218,98,69,59,17,57,48,27,1,34,111,143,5,277,185,88,34,64,130,43,23,42,18,9,3,70,134,1,73,25,22,46,42,12,54,24,39,43,11,36,25,1,66,117,178,70,34,56,9,69,82,32,211,213,2,2,53,13,444,8,15,253,307,1,88,250,211,1,148,22,39,104,35,38,12,23,42,154,74,10,194,96,161,5,8,53,12,7,17,27,40,8,23,20,166,6,11,77,67,22,85,83,72,37,8,139,50,1,61,11,13,5,3,10,4,2,2,5,27,10,13,21,9,28,4,17,112,63
+Democratic Republic of Congo	123,76,54,65,142,17,120,254,111,76,325,363,45,44,52,47,212,125,27,13,407,14,63,92,57,46,147,121,77,155,6,32,229,23,392,134,79,218,98,69,59,17,57,48,27,1,34,111,143,5,277,185,88,34,64,130,43,23,42,18,9,3,70,134,1,73,25,22,46,42,12,54,24,39,43,11,36,25,1,66,117,178,70,34,56,9,69,82,32,211,213,2,2,53,13,444,8,15,253,307,1,88,250,211,1,148,22,39,104,35,38,12,23,42,154,74,10,194,96,161,5,8,53,12,7,17,27,40,8,23,20,166,6,11,77,67,22,85,83,72,37,8,139,50,1,61,11,13,5,3,10,4,2,2,5,27,10,13,21,9,28,4,17,112,63,168
 Democratic Republic of Congo Abstract Background	12003
 Democratic Republic of Congo Case Study	11916
 Democratic Republic of Congo Citibank South Africa	12252
@@ -262,6 +264,7 @@ ECA Supporting the Republic	12055
 ES OF AMERICA FEDERAL REPUBLIC Richard	4302
 EXECUTIVE SUMMARY REPUBLIC OF GHANA NATIONAL	4126
 East Africa. REPUBLIC OF KENYA	12165
+Eastern REPUBLIC OF ZAMBIA Figure	12431
 Economic Context Central African Republic	10841
 Enabling Factors1 Republic of Congo	11907
 Enterprise Survey for Congo Democratic Republic. Business	11882
@@ -327,7 +330,7 @@ Frente Reputacional	10751
 GENERAL ELECTION IN THE REPUBLIC	10016
 GII Global Innovation Index RCV Republic	11863
 GOVERNMENT DOMESTIC ARREARS IN THE REPUBLIC	1828
-GOVERNMENT GAZETTE OF THE REPUBLIC	1750,97,53,99
+GOVERNMENT GAZETTE OF THE REPUBLIC	1750,97,53,99,10448
 GOVERNMENT GAZETTE STAATSKOERANT VAN DIE REPUBLIEK	11178
 GOVERNMENT OF THE FEDERAL REPUBLIC	4301
 GOVERNMENT OF THE REPUBLIC	4153,1,13,50,43
@@ -337,8 +340,10 @@ Gana Senegal São Guiné- Republica Ilustração	11569
 Ghana. REPUBLIC OF GHANA NATIONAL ARTIFICIAL	4126
 Government Gazette REPUBLIC OF SOUTH AFRICA	11182,369
 Government Gazette Staatskoerant REPUBLIC OF SOUTH	1009,10224,340,474
+Government Printer. Republic of Zambia	12467
 Government of Malawi. Republic of South Africa	12240
-Guinea-Bissau Congo Republic Libya Chad	10837
+Guinea-Bissau Congo Republic Libya Chad	10837,1503
+HOLDER THUMB PRINT REPUBLIC OF ZAMBIA	12410
 HRH. Federal Republic ofNigeria	4301
 Heallh REPUBLIC OF SOUTH AFRICA	1009
 Health REPUBLIC OF SOUTH AFRICA	1009
@@ -390,27 +395,34 @@ Law Republic States	12201
 Learning Assessment System The Republic of Congo	11907
 Long-Term Energy Planning The Republic	11936
 Looking Ahead In the Central African Republic	10857
+Luapula Eastern REPUBLIC OF ZAMBIA Figure	12431
+Luapula Northern REPUBLIC OF ZAMBIA Figure	12431
 Législation Republique Centrafricaine	10826
 L’ETAT CIVIL EN REPUBLIQUE CENTRAFRICAINE	10880
 MAADA BIO PRESIDENT OF THE REPUBLIC	4114
 MAHAMA PRESIDENT OF THE REPUBLIC	7695
+MBESC. Republic of Namibia	12325
 MILLION TO THE CENTRAL AFRICAN REPUBLIC	10829
 MILLION TO THE REPUBLIC OF ANGOLA	10768,612
 MILLION TO THE REPUBLIC OF GUINEA	1178,86
 MINISTER REPUBLIC OF GHANA NATIONAL ARTIFICIAL	4126
 MINISTERE DE LA COMMUNICATION REPUBLIQUE	2738,453,135
 MINISTERE DE L’ENSEIGNEMENT SUPERIEUR REPUBLIQUE	12
+MRLGH. Republic of Namibia	12325
 Market Development Republic of Congo Advances Electricity	11936
 Marrakesh Treaty The Republic of Niger	10358
 Mc Democratic People's Republic of Korea Asia	10840
 Med J Islam Repub Iran	12255
 Ministre Ahmadôu Alhaminou Mohamed LO REPUBLIQUE	11139
+Ministry of Education. Republic of Namibia	12325
 Ministry of Republic of Mozambique Health	2473
 Moderate Simultaneous Democratic Republic of Congo	11417
 Mozambican Republic Constitution and Law No	3861
 Mozambique Republic of Mozambique Type Country	4653
 My Country Is the Republic of Refugee	12227
 NHIA. Federal Republic of Nigeria	4301
+NPC. Republic of Namibia	12325
+NUMBER REPUBLIC OF ZAMBIA SIGNATURE	12410
 Nairobi. Republic of Kenya	10246
 National Department of Health Republic of South Africa	396
 National Republic Participate	12201
@@ -421,6 +433,7 @@ Nigeria Republic of Zambia Document Reference Republic	4528
 Nigeria and Benin Republic	8499
 Notary Republic	12041
 Nurses Year U.S. Government Federal Republic	4301
+OPM. Republic of Namibia	12325
 OSI M-HcI M-TII Africa Democratic Republic	10840
 Off-Grid Solar Market Assessment Democratic Republic	11923
 Once the Federal Republic of Nigeria's Medipool	4301
@@ -452,10 +465,12 @@ People’s Republic of China	258,751,5941,1012,1056,2136,188
 People’s Republic of China. V- ON INSTITUTIONAL	7452
 Personal Protection THE REPUBLIC OF UGANDA	5113
 Peru Costa Rica Dominican Republic United	11135
+Police News. Republic of Zambia	12467
 Portugal Qatar Republic of Korea Republic of Moldova	11765
 Portuguese Republic	6743
 Position the Central African Republic	2211,1389
 Preamble WHEREAS the Republic of South Africa	11177
+Prime Minister. Republic of Namibia	12327
 Privacy and Data Republic Protection	12201
 Project Appraisal Document for Republic of Congo LISUNGI	11924
 Project Name Central African Republic CAR	10829
@@ -463,6 +478,7 @@ Prosecutions DRC Democratic Republic	2775
 Public Disclosure Authorized REPUBLIC OF ANGOLA	11417
 Public Disclosure Authorized REPUBLIC OF ZAMBIA	1988
 RAP Resettlement Action Plan RCV Republic	11863
+REGISTRATION NUMBER REPUBLIC OF ZAMBIA SIGNATURE	12410
 REPUBLIC	11900
 REPUBLIC OF ANGOLA	1914
 REPUBLIC OF ANGOLA and INTERNATIONAL BANK	1914
@@ -496,8 +512,10 @@ REPUBLIC OF MALAWI	12176
 REPUBLIC OF MOZAMBIQUE	989,7,1478
 REPUBLIC OF MOZAMBIQUE Claimant	1829
 REPUBLIC OF MOZAMBIQUE DIGITAL DEVELOPMENT	1228
+REPUBLIC OF NAMIBIA BANK OF NAMIBIA	12365,9
 REPUBLIC OF NIGERIA FY26	11468
 REPUBLIC OF Nigeria PREAMBLE The United	4302
+REPUBLIC OF RWANDA ACRONYMS	12338
 REPUBLIC OF SEYCHELLES SUPPLEMENT TO OFFICIAL	1333
 REPUBLIC OF SOUTH AFRICA	1940,367,2939,4515,1469,10,40,5,4
 REPUBLIC OF SOUTH AFRICA ELECTORAL MATTERS	12054
@@ -511,13 +529,21 @@ REPUBLIC OF THE GAMBIA	1264
 REPUBLIC OF TOGO	4114
 REPUBLIC OF TUNISIA	7074
 REPUBLIC OF UGANDA	3005,302
-REPUBLIC OF ZAMBIA	1867,387,1308
+REPUBLIC OF ZAMBIA	1867,387,1308,8869
+REPUBLIC OF ZAMBIA APPLICATION	12410
+REPUBLIC OF ZAMBIA APPLICATION FOR NATIONAL	12410
+REPUBLIC OF ZAMBIA FFigiugreu4r.4e2	12431
+REPUBLIC OF ZAMBIA Figure	12431
 REPUBLIC OF ZAMBIA MINISTRY	1988
+REPUBLIC OF ZAMBIA NATIONAL ELECTRONIC GOVERNMENT	12453
+REPUBLIC OF ZAMBIA THE NATIONAL REGISTRATION	12410
+REPUBLIC OF ZAMBIA Table	12431
 REPUBLICA DE GUINEA ECUATORIAL	163,4046
 REPUBLICA DE GUINEA ECUATORIAL MES	163
 REPUBLICA DE GUINEA ECUATORIAL Presidencia	4209
 REPUBLICAÇÃO REGULAMENTO GERAL DAS COMUNICAÇÕES ELECTRÓNICAS	11430
 REPUBLICOFKENY A OFFICE OF THE DATA	1630
+REPUBLICOFZAMBIA	12431
 REPUBLIEK VAN SUID AFRIKA Vol	11213
 REPUBLIQ PRESIDENCE DE LA PRESIDENGY	10974
 REPUBLIQUE	10904
@@ -551,10 +577,11 @@ Readiness Analysis DRC Democratic Republic of Congo	11545
 References Republic of South Africa. Department of Home	6512
 Refugee Profiles The Central African Republic	10841
 Repubblica	8774
-Republic	11,424,110,226,12,403,28,378,237,159,129,189,1,12,101,141,121,44,1,48,70,191,81,9,457,131,56,31,60,307,87,449,221,248,97,118,145,332,7,43,38,34,21,114,32,144,311,172,25,61,1,69,467,353,36,157,533,2,257,1,300,326,30,34,367,222,81,38,160,12,353,48,6,44,65,12,3,13,108,9,13,18,130,41,1,1,1,3,6,2,11,17,17,2,18,6,2,2,12,2,1,9,228,12,22,90,22,65,136,19,33,20,24,11,15,20,41,8,146,31
+Republic	11,424,110,226,12,403,28,378,237,159,129,189,1,12,101,141,121,44,1,48,70,191,81,9,457,131,56,31,60,307,87,449,221,248,97,118,145,332,7,43,38,34,21,114,32,144,311,172,25,61,1,69,467,353,36,157,533,2,257,1,300,326,30,34,367,222,81,38,160,12,353,48,6,44,65,12,3,13,108,9,13,18,130,41,1,1,1,3,6,2,11,17,17,2,18,6,2,2,12,2,1,9,228,12,22,90,22,65,136,19,33,20,24,11,15,20,41,8,146,31,132
 Republic Angola	10775
 Republic CC	12201
 Republic Decree	3583
+Republic E-GOVERNMENTINITIATIVES IN THE PUBLIC SERVICE	12325
 Republic Fairness	12201
 Republic Federal Republic	4301
 Republic Federal Republic Federal Republic	4301
@@ -638,6 +665,7 @@ Republic of D	11867
 Republic of Data	9128
 Republic of Djibouti	450,1799,904,1142,4350
 Republic of Equatorial Guinea	8192
+Republic of Estonia Ministry of Foreign Affairs	12427
 Republic of Ethiopia	12225
 Republic of GUinea Bissau H. E. Mrs	11517
 Republic of Gabon	160,141,3152,1083,434
@@ -657,6 +685,7 @@ Republic of Guinea-Bissau Implementing Agency	11525
 Republic of India	11183,742
 Republic of Indonesia	11994
 Republic of Iraq	2958,5687,3093
+Republic of Ireland	12410
 Republic of Japan	10989
 Republic of Kenya	899,302,1476,1476,1,10,1,1624,124,1033,602,419,334,1554,391,67,403,103,3,984,1,331,13,76,4
 Republic of Kenya Ministry of Health	10822
@@ -710,12 +739,13 @@ Republic of Mozambique. Privacy	3861
 Republic of Mozambique. RECOGNISING	3861
 Republic of Mozambique. Responsible Agency	12220
 Republic of Moçambique	12142
-Republic of Namibia	318,7,700,974,1588,127,1322,1628
+Republic of Namibia	318,7,700,974,1588,127,1322,1628,5661,2,40,32,1,59
+Republic of Namibia HE Higher Education HVDC	12399
 Republic of Namibia Nauru Yes Nauru ICT	11529
 Republic of Niger	552,3889
 Republic of Nigeria	4301,2187
 Republic of Republic	4301
-Republic of Rwanda	321,463,7,252,161,2963,803,1295,1702,2852,598,389,1,357
+Republic of Rwanda	321,463,7,252,161,2963,803,1295,1702,2852,598,389,1,357,164,5,5,73,2,6
 Republic of Rwanda Ministry of ICT and Innovation	1204
 Republic of Rwanda and Chair	3987
 Republic of Rwanda and Chairman	10819
@@ -731,6 +761,7 @@ Republic of Sierra Leone H.E. Tiémoko Meyliet	7452
 Republic of Sierra Leone Signs Free	3986
 Republic of Singapore	1243
 Republic of Somalia	119
+Republic of South	12395
 Republic of South Africa	396,1697,24,575,245,7,2008,581,339,1035,878,230,286,539,288,631,2,560,809,46,1,1,1,2,1,1,2,3,1,1,3,3,2,1,2,9,1,5,1,1,6,6,7,3,12,9,1,1,2,14,1,5,4,262,389,37,9,68
 Republic of South Africa Act	5533,6453
 Republic of South Africa Company	10793
@@ -767,12 +798,13 @@ Republic of Tunisia Page	10819
 Republic of Uganda	107,213,436,526,1723,1212,896,1836,1018,3839,1,357
 Republic of United States of America Mozambique	10713
 Republic of Vu la Constitution	1214
-Republic of Zambia	193,1674,121,303,5502,157,1132,311,210,1,157,255,1096,305
+Republic of Zambia	193,1674,121,303,5502,157,1132,311,210,1,157,255,1096,305,939,8,45,1,43,14
 Republic of Zambia CC	9082
 Republic of Zambia HEPRR Health Emergency Preparedness	1867
 Republic of Zambia HIV Human Immunodeficiency Virus	1988
 Republic of Zambia Implementing Agency	1867,424,1271
 Republic of Zambia Ministry of Health Information	34
+Republic of Zambia Office	12360
 Republic of Zambia. Lusaka	10018
 Republic of Zimbabwe	395,563,14,182,400,2974,368,4865,408,152
 Republic of Zimbabwe Gen	1554
@@ -820,6 +852,7 @@ Repubulika	1214
 Repubulika President	1214
 Repubulika Pursuant	1214
 Repurchase	6432
+Repurchase Agreement	12364
 Repurchase Modern	6432
 Repurchase Unique	6432
 Repurposing	11269
@@ -831,6 +864,7 @@ Research Directorate. Democratic Republic	11868
 Return Intentions Among Central African Republic	10841
 Rica Dominican Republic Western Europe United	11135
 Rule of Law Republic	12201
+Rules. Repurchase of Repo	12364
 Rwanda. Republic of Rwanda. du Rwanda	1214
 République Repubulika	1214
 SAPO Business Rescue Plan and SITA Repurposing	11230
@@ -865,6 +899,7 @@ Syrian Arab Republic	6613,4101,71,8,736
 Syrian Arab Republic Global Cybersecurity Index	10764
 TCLE Democratic Republic of Congo Case Study	11916
 TECHNOLOGY AND INNOVATION REPUBLIC OF SOUTH	10889
+THUMB PRINT REPUBLIC OF ZAMBIA	12410
 TII Asia Democratic People's Republic of Korea	10840
 TRANSITION AND REPUBLIC OF COTE D’IVOIRE	3604
 Tanzania The United Republic of Tanzania Ministry	6168
@@ -894,6 +929,7 @@ United Republic of Tanzania. PART I PRELIMINARY	6921
 United Republic of Tanzania. Robust	11133
 United Republic of Tanzania. Sectoral	11142
 United Republic of Tanzania. The EAC	7967,3839,1
+Urban REPUBLIC OF ZAMBIA Figure	12431
 VERSION DU CITOYEN REPUBLIQUE DU BENIN	2476
 VRR Republic Taiwan	10714
 Vice President of The Republic of The Gambia	7694
@@ -909,4 +945,6 @@ Year U.S. Government Federal Republic Existing	4301
 Year U.S. Government Federal Republic Federal	4301
 Yemen Republic	10714
 ZRP Zimbabwe Republic Police	970
+ZamPortal. Government Printer. Republic of Zambia	12467
+Zambia Police Service. Republic of Zambia	12467
 Zimbabwe Republic Police	736,234,2,8422,3

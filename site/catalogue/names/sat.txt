@@ -130,6 +130,7 @@ LTA Signs New Satellite Framework	10406
 LTA-issued Satellite Communications License. Stakeholders	10406
 Landing Rights Authorization for Satellite Service Provider	10407
 Landlines VoIP Satellite FTTh	1013,931
+Landlocked President Michael Sata	12353
 Liberia. Satellite Gateway Service	10407
 Liberia. Satellite Gateway Terminal	10407
 Licensing for Satellite Services	11211
@@ -166,7 +167,7 @@ NGSO Satellite System Space	2913
 NIA. INTEGRATED NATIONAL SATELLITE INFRASTRUCTURE DEPLOYMENT	11857
 NIGCOMSAT Communications Satellite SUPEB Resources	11857
 NJtE SAtDY	11517
-Name Satisfactory Satisfactory Progress	12228,39
+Name Satisfactory Satisfactory Progress	12228,39,173
 Natcom SAT-3	7329
 National Consumer Satisfaction Index	5676
 National SEXE Classique Satellite Bilingue	10847
@@ -184,8 +185,9 @@ Non-Geostationary Satellite Orbit	2913,2767
 Non-Geostationary Satellite Orbits	2913
 Nov-2014 Moderately Satisfactory Satisfactory	11924
 Nowcasting Satellite Application Facility	11191
+Number of Digital Satellite Stations	12395
 Number of Satellite Broadband Subscriptions	3641
-OVERALL RATINGS Previous Current Satisfactory Satisfactory	12228,39
+OVERALL RATINGS Previous Current Satisfactory Satisfactory	12228,39,173
 Obligations of Licensed Satellite Network Operators	10407
 Oct-2020 Satisfactory Moderately Satisfactory	11924
 Oct-2022 Moderately Satisfactory Moderately Satisfactory	11924
@@ -246,7 +248,7 @@ Sat-3	2320,1022,179
 Satariano	1243
 Satcab	6663
 Satelaiti	2868,3151
-Satellite	236,526,497,5,390,148,54,31,39,18,44,550,308,67,63,607,42,16,906,8,26,42,437,150,31,137,150,1,35,116,257,68,257,77,320,3,9,55,7,97,2,19,40,7,48,464,548,173,3,38,374,103,500,412,436,37,373,129,52,109,66,405,23,99,210,357
+Satellite	236,526,497,5,390,148,54,31,39,18,44,550,308,67,63,607,42,16,906,8,26,42,437,150,31,137,150,1,35,116,257,68,257,77,320,3,9,55,7,97,2,19,40,7,48,464,548,173,3,38,374,103,500,412,436,37,373,129,52,109,66,405,23,99,210,357,538
 Satellite Backhaul Service	10407
 Satellite Backhaul Service Providers	10407
 Satellite Backhaul Services	10407
@@ -358,13 +360,13 @@ Satellite Wide Terrestrial Jinja	9781
 Satellite and Regional Models Satellite	11191
 Satellite-Earth-Stations.pdf	1259
 Satellite-backed	8871
-Satellite-based	3641
+Satellite-based	3641,8812
 Satellite-derived	11142,97
 Satellite-enabled	5378
 Satellite-to-mobile	9997
 SatelliteS	736
 SatelliteServiceFactor	736
-Satellites	5378,2733,2477,1542
+Satellites	5378,2733,2477,1542,265
 Satellites Are Accelerating Health Tech	5378
 Satellites Asante	8111
 Satems Tracking and Electromechanical	12195
@@ -374,7 +376,7 @@ Sation of AI	11050
 Satiri	983,9892
 Satisfacción	1701
 Satisfacer	1701
-Satisfaction	10,727,2867,2072,375,908,1678,632,1443,426,447,359,248
+Satisfaction	10,727,2867,2072,375,908,1678,632,1443,426,447,359,248,187
 Satisfaction Connecting Availability	6051
 Satisfaction Trend Glo T2	6051
 Satisfactory	1228,62,963,636,4988,2902,40,51,16,509,22,488,19,41,6
@@ -388,7 +390,7 @@ Satisfactory. Staffing	11525
 Satisfait Peu	737
 Satisfaits	3346
 Satisfação	11555
-Satisfied	5679
+Satisfied	5679,6700
 Satisfied Thank	5679
 Satisfies	5070,958,1176
 Satish Krishnan	11006
@@ -397,7 +399,9 @@ Satta T. Massaley Sow	9861
 Sattari M. Health	12255
 Satti	6947
 Satu Kahkonen	2832,541,1162
+Satu Kristiina Jyrintytar Kahkonen	12412,14
 Satu Kristiina Jyrintytar Kahkonen Practice Manager	6539
+Satu Kristiina Jyrintytar Kahkonen. Practice Manager	12388
 Satu Kristiina Kahkonen	6832
 Satu Lassila	10440
 Saturate	5349

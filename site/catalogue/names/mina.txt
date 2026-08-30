@@ -3,7 +3,11 @@ Agriculture Within and Outside Minawao Camp Employment	10841
 Akurenam- Minang	4209
 Ambiente MINARS Ministro de Assistência	11390
 Armenia MINASYAN	6613
+CRVS System MINALOC	12413
+Charge of Emergency Management MINALOC Ministry of Local	12328
 Chevaux Camp Minawao Hors Camp Pourcentage	10841
+Citizen Experience Management MINALOC RGB RGB	12359
+Civil Code. MINALOC	12413
 Colegio Nacional de Minang	4209
 D.G DE MINAS PETROLERA JURÍDICOS SERVICIOS	4209
 D.G. DE MINAS	4209
@@ -16,12 +20,17 @@ INSPECCION GRAL. MINAS Y CANTERAS	4209
 ISIQEPHU E ISIFUNGO Mina	11573
 ITCZ KYC LPG MASFAMU MAT MINAGRIF	10763
 Instituto Tecnológico de Minas	4209
+Kabaya Muringa Minazi Muyongwe Rutare DRC	12413
 Kujenga Minara	6019
 Ley de Minas	9303
 MINADER	10963,1,1,20
 MINADER MPMEs Activité	10965
 MINADRPV	6280
-MINALOC	431
+MINAFFET	12338
+MINALOC	431,11897,5,5,20,55
+MINALOC Ministère de L’Administration Locale	12413
+MINALOC RWANDA Rwanda	12370
+MINALOC Rwanda Imibereho	12370
 MINAMB	11390
 MINAS	10963,1,1,20
 MINAS Activité	10965
@@ -35,6 +44,7 @@ MINAS. The Project	10963
 MINAT	10975
 MINEPAT and MINAS--and	10985
 MNEPIA and MINADER	10964
+Medical Certificate of Cause-of-death MINALOC	12338
 Mina Rouchati	8891
 Mina Rouchati Fouad Ben Seddik Lalla	8891
 Minahil	8605

@@ -28,6 +28,7 @@ E GSP-MOT-DP4-ARCEP-	998
 ENDS- About the GSMA The GSMA	7825
 Economy. GSMA	10841
 Ethiopia and Uganda. GSMA	11902
+FISP GDP G2B G2C G2G GSB	12453
 Finds New GSMA Study. Press Release	10822
 G Coverage GSMA	10856
 GDJF and GSA	6960
@@ -43,6 +44,7 @@ GS1 Standards	10631
 GS1 Tanzania Chief Executive Officer	5883
 GSA Ghana Standards Authority SME Small	6936
 GSA Training	405
+GSB. Secure Infrastructure Overview The Secure	12359
 GSC Gambia Submarine Cable	1000
 GSCARR-2025-0350.pdf	4074
 GSCID	11986
@@ -82,7 +84,7 @@ GSMA Connected Women The GSMA Connected	11017
 GSMA Consumer	11964
 GSMA Consumer Survey	5232,5772,898,62
 GSMA Consumer Surveys	11004
-GSMA Contents	10856
+GSMA Contents	10856,1529
 GSMA Contents Executive	6593,5401
 GSMA Contributor	10822
 GSMA Coverage	11857
@@ -97,13 +99,13 @@ GSMA Digital Nations and Society	6861
 GSMA Digital Nations and Society Index	6781,34
 GSMA GSM Association	12006
 GSMA GSM Association HPC High-Performance Computing	7548
-GSMA GSMA The GSMA	10856
+GSMA GSMA The GSMA	10856,1529
 GSMA Global Adoption Surveys	11994
 GSMA Handset Affordability Coalition	6593
 GSMA Handset Ethiopia	6593
 GSMA Head Office	6593,4411,13,885,62,30
 GSMA Head Office One Angel Lane	10856
-GSMA Intelligence	1623,858,1,4,4,1,1,1,1,1,2,1,5,1,1,1,1402,3,1,1,4,1,1,1,1755,918,239,54,461,226,452,2047,750,34,3,73,72,757,31,65,107,30,8
+GSMA Intelligence	1623,858,1,4,4,1,1,1,1,1,2,1,5,1,1,1,1402,3,1,1,4,1,1,1,1755,918,239,54,461,226,452,2047,750,34,3,73,72,757,31,65,107,30,8,439
 GSMA Intelligence Adult	11964
 GSMA Intelligence Connectivity	6593
 GSMA Intelligence Enterprise	6593
@@ -114,6 +116,7 @@ GSMA Intelligence Nigerian National Broadband Plan	11857
 GSMA Intelligence Operators	6593
 GSMA Intelligence Panos Loukos	11994
 GSMA Intelligence Policies	6593
+GSMA Intelligence and GSMA	12385
 GSMA Intelligence and GoYo Analytics	10856
 GSMA Intelligence and Kepios	2483,1,1,4,7,1413
 GSMA Intelligence. Authors	10932
@@ -248,9 +251,13 @@ Geographical Information System GSMA	958
 Ghana. GSMA	10819
 Given GS	11417
 Global System for Mobile Communications GSMA GSM	11857
+Government. The GSB	12416
+Gross Domestic Product GSMA Global System	12395
+Gs1 Namibia	12478
 Gseaopf	11964
 Gsenger and Strle	8283
 Gseocvoenrndmareyn	10969
+Gsionveesrsn	12351
 ICOM UV-5R GSP-ICO-ICF-ARCEP- VHF	998
 IDAS Pilot. GSMA	10819
 IMEIs. A GSMA	8941
@@ -283,6 +290,7 @@ NCA GSS GRA Operator’s Working Session	236
 NCA Telcos GSS GRA MoF BoG	236
 NCA and GSS	236
 NCA and GSS. Any	236
+Namibia Operator Pushes GSM. RetrievedAugust	12325
 Nigeria. GSMA	10819
 POD FDA FBO FTE GHS GS	4153
 Previous GSMA	11004,960

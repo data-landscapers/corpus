@@ -25,6 +25,7 @@ Ack St. Johns Agulu Cdc Data	7167
 Ack St. Peter's Maraba CDC Data	7167
 Ack St. Stephens Rawa CDC Data	7167
 Act. Babatunde Bamigboye Esq. CDPRP Head	3226
+Adjusted CDR	12413
 Africa CDC	560,2118,2104,359,62,10,165,78,455,426,158,502,710,1497,514,251,200,308,169,130,814,89
 Africa CDC Chief Digital Advisor Nsengimana	5378
 Africa CDC Continental Health Data Governance	6794
@@ -39,13 +40,15 @@ Africa CDC's Kaseya	5203
 Africa CDC's Nsengimana	5911
 Africa CDC. Even	5213
 Africa CDC’s Africa Pathogen Genomics Initiative	9718
-Africa CDD-Ghana Ghana Center for Democratic Development	10759,78,1052
+Africa CDD-Ghana Ghana Center for Democratic Development	10759,78,1052,451
 Air Cdre. Dr. Eng. E. Kamusoko	1554
 Air Cdre. Dr. Eng. E. M	1554
 Air Cdre. Dr. Eng. Edgar Munyarari	1554
+Antiretroviral Therapy CDC Centers for Disease Control	12379
 Appearance Notices The CDH	11868
 Application Programming Interface CDSS Clinical Decision	9855
 Assédio Sexual CdC Código de Conduta COS	11413
+Availability of Simplified and Enhanced CDD Measures	12389
 Average Revenue Per User CDMA	6000
 Ayene Cdo Mongomo	4209
 BCC Banque Centrale du Congo CDD	11960
@@ -57,9 +60,11 @@ Board Chairman Air Cdre. Dr. Eng	1554
 Business Intelligence CDHO Chief Digital Health	12240
 CAPEX Capital Expenditure CD Compact Disc	6432
 CBAO Comtech CDD564 AL CDD564	998
+CBR Crude Birth Rate CDR Crude	12413
 CCI RUIRU CDC Data Processor INST-626651D9C67	7167
 CD Communicable Diseases CDC Center for Disease	12151
 CD Continuous Integration	11952
+CD Cor	12360
 CD HS	11350
 CD Pipelines	11952
 CD Pipelines Requirement	11952
@@ -95,9 +100,10 @@ CDC-CI and GREEN-PAY Partner	4627
 CDC-funded	10641
 CDD Customer	12227
 CDD Ghana	7662
-CDD-Ghana	7886,2873,76,2,1,130,902,16,2,1,264,1,9,29,86
-CDD-Ghana Ghana Center for Democratic Development	11887,266,1,9
-CDD-Ghana Ghana Center for Democratic Development UNU-WIDER	10835,3,130,902,16
+CDD for Existing Customers	12389
+CDD-Ghana	7886,2873,76,2,1,130,902,16,2,1,264,1,9,29,86,62,1,11,1
+CDD-Ghana Ghana Center for Democratic Development	11887,266,1,9,178
+CDD-Ghana Ghana Center for Democratic Development UNU-WIDER	10835,3,130,902,16,466,1
 CDE District Election Commission CEDAW Convention	12201
 CDEAO	998
 CDF Dashboard	8741
@@ -124,6 +130,7 @@ CDPH. Eu	10826
 CDPI Team	5726
 CDPO CPPPS	11956
 CDPSE	10876
+CDR Crude Death Rate	12367
 CDR-based	6024
 CDS Gen. Thomas Oppong-Peprah	10523
 CDS Solutions	9533
@@ -136,7 +143,7 @@ CDigital	5700
 CDncession	37
 CPE and CDE	12201
 CPEs and CDEs	12201
-Capital Expenditures CDN Content Delivery Network	10781
+Capital Expenditures CDN Content Delivery Network	10781,1646
 Care Record CDA Clinical Document Architecture	1009
 Cde. Dr. E.D. Mnangagwa	3760,8031
 Cde. Dr. Emmerson Dambudzo Mnangagwa	3760
@@ -153,6 +160,7 @@ Chief Director CDC Coega Development Corporation	11261
 Chimkwita CDF	3035,253,61,689,520,84,1026,364,224,297
 Climate Change Funds CDMA Code Division	2775
 Committee for Standardization CDA Community Health Centre	1009
+Conduct CDD and Customer Identity Risk Factors	12389
 Constitutional Council CDD Centre for Democratic Development	12201
 Cooperation and CDmmunlties	11517
 Corporation CDR Crude Death Rate CECM	2775
@@ -168,6 +176,7 @@ EAPC MUKOTHIMA CDC Data Controller INST-384734B711F	7167
 EAPC NTHIGIRANI CDC Data Controller INST-73508091389	7167
 ESONG CDO	4209
 Elong CDO Nsork Wele-Nzas	4209
+Enhanced CDD	12389
 Excellency CDE	4528
 Excellency the President Cde. Dr. Emmerson	3760
 Expenditures MSP Managed Service Provider CDN	3184,1,1340,6470
@@ -218,9 +227,11 @@ Results The AI-enabled CDSS	11578
 Selection and Land Allocation Policy CD	11261
 Selon la CDHC	9512
 Senegal’s CDP	5363
+Simplified CDD	12389
 Sociale CD Cadre de Dépense CEC Certificat	10876
 Spurr CD	1219
 Staff Writer CDC-CI Capital	10942
+TFR GFR CBR CDR Neonatal Infant	12413
 Through UNICEF CDS-EOS	11401
 Through WHO CDS	11401
 Tshs. Tshs. CD	6921
@@ -231,5 +242,6 @@ UNDP and CDC	4642
 US CDC	4338
 US CDC and Bundung Hospital	4338
 US Government-funded CDC	10970
+Unadjusted CDR	12413
 Vodacom CDRs	6024
 ZSE Zimswitch CDC	4517,2461

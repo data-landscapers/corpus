@@ -35,6 +35,7 @@ Access and Infrastructure Sharing	6946
 Acquisition of Assets and Infrastructure Institution	1131
 Acting Regional Manager for Infrastructure	6932,163
 Added Tax VDIs Virtual Digital Infrastructure	2775
+Addressing Regional Exclusion Through Shared Infrastructure	12432
 Administer the Digital Infrastructure Assurance Registration	10157
 Administration and Human Resources Audit Risk Infrastructure	1154
 Advance National AI Infrastructure	8094
@@ -160,7 +161,7 @@ CRA. LEGISLAÇÃO INFRACONSTITUCIONAL	11461
 CREI South Sudan Telecom Energy Infrastructure	1470
 CRITICAL INFORMATION INFRASTRUCTURE	2727
 CRITICAL INFORMATION INFRASTRUCTURE PROTECTION	783
-CRITICAL NATIONAL INFRASTRUCTURE	1000
+CRITICAL NATIONAL INFRASTRUCTURE	1000,11459
 CSIRT Nacional. SUBSECÇÃO V Operadores de Infra-estruturas	6970
 Cable Infrastructure Licence Fees And Charges	9109
 Calls Econet InfraCo	4298
@@ -178,6 +179,7 @@ Cellular Mobile Network Infrastructure and Services Project	6946
 Cellular Network Infrastructure and Services	6946
 Center for Digital Public Infrastructure	4675,1025,2749
 Centre for Digital Public Infrastructure	3070,733,1897,992,1808
+Centre for Digital Public Infrastructure and Co-Develop	12366
 Centre for Infrastructural and Technological Advancement	11975,63
 Century Skills Reliable Infrastructure Robust Accelerators	1204
 Certification CM-NSCI.S8 Infrastructure	10721
@@ -240,6 +242,7 @@ Connectivity and Infrastructure Division	12055
 Connectivity and Network Infrastructure AI	4528
 Construction Phase of Agro Business Infrastructure	1988
 Construção de Infra-estruturas Computacionais	3519
+Consumer Infrastructure	12395
 Context of Country’s Data Infrastructure	1161
 Contextual Infrastructure	10819
 Continental Digital Public Infrastructure	7073
@@ -253,7 +256,7 @@ County Technologies Infrastructure Technologies	7548
 Cour de Répression des Infractions	5478
 Coverage Infrastructure IN6	11857
 Critical Economic Infrastructure	6711
-Critical Information Infrastructure	958,42,535,2936,139,158,764,763,244,407,629,2153,111,429,37,71,1856,70
+Critical Information Infrastructure	958,42,535,2936,139,158,764,763,244,407,629,2153,111,429,37,71,1856,70,124,27
 Critical Information Infrastructure Designation	6295,605
 Critical Information Infrastructure of The Gambia	1000
 Critical Information Infrastructure. The ORC	9728
@@ -273,7 +276,7 @@ Critical Infrastructure Protection	4755
 Critical Infrastructure Protection Act	2677,8588
 Critical Infrastructure Protection Plan	3604,7307
 Critical National Assets and Infrastructure Protection	9669
-Critical National Information Infrastructure	700,3025,1407,176,1979,1001,759,622,1020,32
+Critical National Information Infrastructure	700,3025,1407,176,1979,1001,759,622,1020,32,1738
 Critical National Infrastructure	5244,610,2353,770,385
 Critical National Infrastructure CoS Class of Service	11857
 Critical National Infrastructure Protection	11857
@@ -307,6 +310,7 @@ DELEGACION TOTAL DIRECTIVO ELECTRICIDAD Y INFRAESTRUCT	4209
 DES INFRACTIONS ET DES SANCTIONS Article	113
 DESENVOLVIMENTO DA INFRA-ESTRUTURA DE GESTÃO	11397
 DESIGNATION OF CRITICAL INFRASTRUCTURE	12302
+DIGITAL AND PHYSICAL INFRASTRUCTURE	12389
 DIGITAL IDENTITY AND DIGITAL PUBLIC INFRASTRUCTURE	9670
 DIGITAL INFRASTRUCTURE	10861
 DIGITAL INFRASTRUCTURE DIGITAL INCLUSION AND SKILLS	11586
@@ -325,10 +329,12 @@ Data Data Data Digital Infrastructure Environment	1161
 Data Governance and Digital Public Infrastructure	6725
 Data Infrastructure	1147,14,2676,7646
 Data Infrastructure for Development	8275
+Data Systems Infrastructure Ready	12325
 Data and Infrastructure	3235,5969
 Datacentre Infrastructure	11209
 Decisions The Building Resilient Digital Infrastructure	7877
 Deepen Digital Infrastructure	4126
+Default Infrastructure Sharing Bring Your Own	12359
 Definition PKI Public Key Infrastructure PMDS	5533
 Delisting Circular and Econet InfraCo Pre-Listing	4896
 Delivering Multi-Functional Blue-Green Infrastructure	11006
@@ -351,6 +357,7 @@ Designation of Critical Infrastructure	7538
 Designation of Critical National Information Infrastructure	10721
 Develop AI Infrastructure and Green Compute Zones	7548
 Develop Africa's Digital Trade Infrastructure	7522
+Develop Public Key Infrastructure	12453
 Develop Renewable Energy and Digital Infrastructure Projects	6529
 Developing Digital Public Infrastructure	6539
 Development Infrastructure and State Capability AI	7548
@@ -363,7 +370,7 @@ Digital Financial Infrastructure	263,828,3383
 Digital Health Infrastructure	12240
 Digital Identity Infrastructure Work	4848
 Digital Information Infrastructure	396
-Digital Infrastructure	3861,265,770,345,3,325,103,867,1009,438,3154,56,695
+Digital Infrastructure	3861,265,770,345,3,325,103,867,1009,438,3154,56,695,465
 Digital Infrastructure Amid Challenges	2568
 Digital Infrastructure Assurance Registration	10157
 Digital Infrastructure Availability of DFS	11994
@@ -371,7 +378,9 @@ Digital Infrastructure Bridging the Digital Divide	11243
 Digital Infrastructure Campus	7960
 Digital Infrastructure Deficits	7921
 Digital Infrastructure Development	5349
-Digital Infrastructure Expansion	4963
+Digital Infrastructure Digital	12453
+Digital Infrastructure Expansion	4963,7393
+Digital Infrastructure Gaps	12356
 Digital Infrastructure Hit New Record	1518
 Digital Infrastructure Investment Study	6152
 Digital Infrastructure Investments	3859
@@ -393,7 +402,7 @@ Digital Infrastructure for Growth	4688
 Digital Innovation Digital Infrastructure Smart Education	2256
 Digital Payment Infrastructure Component World Bank	1197
 Digital Payments Infrastructure Loan Belgian Investment	1419
-Digital Public Infrastructure	263,100,1,243,484,6,384,11,410,99,99,23,41,16,24,1,46,67,426,43,576,28,181,22,33,108,124,6,57,9,241,29,167,56,7,43,150,16,38,12,86,49,31,125,191,53,19,23,54,35,114,15,215,41,200,12,13,9,98,40,184,40,49,1,16,77,59,260,22,13,65,29,57,45,43,32,6,30,80,1,20,129,225,34,21,40,57,112,566,120,42,12,215,46,110,9,82,73,47,162,12,43,32,104,135,22,187,1,535,8,251,40,2,59,77,384,478,226,8,4,13,20,23,29,6,14,157,13,14
+Digital Public Infrastructure	263,100,1,243,484,6,384,11,410,99,99,23,41,16,24,1,46,67,426,43,576,28,181,22,33,108,124,6,57,9,241,29,167,56,7,43,150,16,38,12,86,49,31,125,191,53,19,23,54,35,114,15,215,41,200,12,13,9,98,40,184,40,49,1,16,77,59,260,22,13,65,29,57,45,43,32,6,30,80,1,20,129,225,34,21,40,57,112,566,120,42,12,215,46,110,9,82,73,47,162,12,43,32,104,135,22,187,1,535,8,251,40,2,59,77,384,478,226,8,4,13,20,23,29,6,14,157,13,14,91,34,66,6,43
 Digital Public Infrastructure -DPI Report.pdf	5485
 Digital Public Infrastructure 0.pdf	7242
 Digital Public Infrastructure Based Approach	12214
@@ -405,6 +414,7 @@ Digital Public Infrastructure Digitalisation	9535
 Digital Public Infrastructure EMSP Economic Community	3604
 Digital Public Infrastructure MALAWI DIGITAL READINESS	12214
 Digital Public Infrastructure Map	5700
+Digital Public Infrastructure Next Next Co-Develop	12366
 Digital Public Infrastructure Now	3391
 Digital Public Infrastructure Reform	11236
 Digital Public Infrastructure Roadmap Bill	2205
@@ -439,6 +449,7 @@ Director of Infrastructure and Energy Dr. Kamugisha Kazaura	1814
 Directorate of Infrastructure	962
 Directorate of Infrastructure. Facilities	962
 Directors of Econet InfraCo	4896
+Disclosure Standards for Digital Connectivity Infrastructure	12389
 Disease-2019 DPI Digital Public Infrastructure DPGA	12241
 Drains Infrastructure Construction Ltd	7845
 Département Infrastructures	10708
@@ -465,6 +476,7 @@ ESTABLISHMENT OF ECONET INFRACO	4360
 EV ICE Infrastructure	12233
 EVENTS Directors Legal Advisors Econet InfraCo	4896
 EXPAND ITS DIGITAL INFRASTRUCTURE Capital	10861
+EXPANSION AND INVESTMENT IN INFRASTRUCTURE	12399
 Eascastle Infrastructure DRC	9061
 Eastcastle Infrastructure	597,463,85,6211
 Eastcastle Infrastructure DRC	7356,1705
@@ -501,6 +513,7 @@ Econet and Econet InfraCo	4896
 Econet and Econet InfraCo Boards	4896
 Economic Impact of Full Fibre Infrastructure	12006
 Economy and Infrastructure	11245
+Electrical Infrastructure	12399
 Electricity Distribution Infrastructure	12256
 Electricity Transmission Infrastructure Electricity	12256
 Electricity Transmission Infrastructure Regulations	11236
@@ -513,13 +526,16 @@ Emerging Technologies Compute and Infrastructure	7548
 Emerging Technologies Compute and Infrastructure Plan	7548
 Emerging Technologies Infrastructure	7548
 Emerging Technologies Infrastructure Investment AI	7548
+Emissions and Energy Efficiency of Infrastructure	12389
 Employment and Infrastructure Development DD	11986
+Enabling Digital Public Infrastructure	12438
 Enabling Infrastructure	10157
 Enabling Long-Term Infrastructure Finance	11310
 Energy Infrastructure	4528
 Energy and Power Infrastructure Reliable	10157
 Enhance Infrastructure	958
 Enhance Nigeria's Digital Infrastructure and Health Security	3721
+Enhancing Digital Infrastructure	12356
 Enrolment Infrastructure	11774
 Ensure Security and Resilience of Infrastructure	958
 Enterprise Value for Econet InfraCo of US	4896
@@ -527,6 +543,8 @@ Enugu State Ministry of Works and Infrastructure	6211
 Environment Infrastructure ICT Services Sustainability SO	6946
 Environmental Sustainability and Green Infrastructure	7548
 Equipment Maternal and Child Health Infrastructure	4217
+Establish Interoperable Digital Payment Infrastructure	12444
+Establish Interoperable Harmonization Payment Infrastructure	12444
 Estimating Digital Infrastructure Investment Needs	10856,284
 Eswatini Communications Infrastructure Corporation Bill	6539
 Ethiopian Infrastructure and Construction Week	5868
@@ -536,6 +554,7 @@ European Digital Public Infrastructure Steward Organization	6468
 European Infrastructure	6477
 Evaluate Security Controls On Physical Infrastructure	34
 Existing Infrastructure Compute	11209
+Existing Infrastructure and Planned Works	12389
 Existing Payments System Infrastructure Across ECOWAS	807
 Exit Offer and Econet InfraCo	4896
 Expand Digital Infrastructure	6939,156,1322
@@ -543,6 +562,7 @@ Expand Digital Infrastructure and Cybersecurity	5843
 Expand Rwanda’s Digital Infrastructure	6388
 Expand Senegal's Digital Infrastructure	7477
 Expand Stablecoin Infrastructure for African Businesses	7465
+Expanding Infrastructure	12411
 FEC P-3 Federal Infrastructure Asset Sharing	11857
 FOMENTO DE GENERACIÓN Y INFRAEST	4209
 FOUNDATIONAL DATA INFRASTRUCTURE	961
@@ -550,10 +570,12 @@ Facilitates Infrastructure	11857
 Federal Government Recognises Digital Infrastructure	6376
 Federal Infrastructure	11857
 Fees and Infrastructure	11957
+Fiber Infracos	12427
 Fiber Infracos The Data Center Specialists	4525
 Fiber Infrastructure	10861
 Fibre Reach Infrastructure IN4	11857
 Fii's Digital Public Infrastructure Regulatory Programme	8351
+FinTechs. Infrastructure	12444
 Finance Infrastructure Indicator GDP	5247
 Financial Infrastructure Trends	1828
 Financial Market Infrastructures	4103,7028
@@ -578,6 +600,7 @@ Fund. Critical Information Infrastructure Designation	587
 Future-Ready Infrastructure	3487
 GESTOR DE INFRAESTRUCTURAS DE TELECOMUNICACIONES	3179
 GM for Infrastructure Roger Shutte	3155
+GSB. Secure Infrastructure Overview The Secure	12359
 GSMA. Mobile Infrastructure Sharing	5675
 Gabon Agence Nationale des Infrastructures Numériques	6129
 Galaxy Backbone Infrastructure	11952
@@ -592,6 +615,8 @@ Global Network Infrastructure	1726
 Gov Telecommunication Infrastructure Index	10785
 Governance Framework for Digital Public Infrastructure	11006
 Governance and Digital Public Infrastructure	2156,2083
+Government Digital Infrastructure	12453
+Government Digital Infrastructure Government	12453
 Government ICT Infrastructure Development and Administration	1795,1413,3881
 Government Information Infrastructure	11184
 Government Infrastructure Phase II	6623
@@ -599,10 +624,11 @@ Government Infrastructure Phase II African Development	333
 Government Infrastructure Project	106,203,24
 Government Infrastructure Project Phase V	1283
 Government Infrastructure Project. The Government of Uganda	106
+Government Systems and Infrastructure	12453
 Government of Malawi ICT Infrastructure	12253
 Government's Digital Public Infrastructure Stack	11940
 Government’s Big Push Infrastructure Programme	7695
-Green Infrastructure	3487
+Green Infrastructure	3487,8902
 H.E Dr. Amani Abou-Zeid Commissioner for Infrastructure	1243,571
 HDA. Outside Plant Cabling Infrastructure	9123
 HDAs. Class C4 Telecommunications Infrastructure	9123
@@ -619,12 +645,14 @@ Hollow Infrastructure	5482
 Hospedagem de Infra-Estrutura	4556,1
 Host First National Digital Public Infrastructure	4808
 Huawei Calls for Stronger Digital Infrastructure	7979
-Human Development Infrastructure Development	10835,3,130,902,16
+Human Development Infrastructure Development	10835,3,130,902,16,466,1
+Human Infrastructure	12325
 Hyper-converged Infrastructure	1632
 I Infraestrutura	6970
 I-16 UN Telecommunication Infrastructure Index	10785
 IC Infrastructure	1660,1,1,1,1,1,1,1,1,1,5,1
-ICT Infrastructure	1824,3519,6637
+ICT INFRASTRUCTURE AND COVERAGE	12395
+ICT Infrastructure	1824,3519,6637,345,8
 ICT Infrastructure Connectivity	1734
 ICT Infrastructure Development and Support	11230
 ICT Infrastructure Development and Support All	11230
@@ -641,6 +669,8 @@ IHEIT Infrastructure Technical Framework Supplement2O	1009
 IHS Kenya Tower Infrastructure	1518
 IHS Strategic Rationale and Digital Infrastructure	5752
 III. FONCTIONNEMENT DES INFRASTRUCTURES DE MARCHÉS	10922
+IIIT-B’s Centre for Digital Public Infrastructure and SZI	12366
+INCLUSIVE TECHNOLOGY INFRASTRUCTURE Establishing	12444
 INFORMATION ON ECONET INFRACO	4896
 INFRA- ESTRUTURAS DA QUALIDADE	11381
 INFRA-ESTRUTURA DE TELECOMUNICAÇÕES	11397
@@ -657,15 +687,17 @@ INFRAESTRUTURA DE CHAVES PÚBLICAS	11397
 INFRAESTRUTURAS DE BANDA LARGA	11397
 INFRAESTRUTURAS DE CENTROS DE DADOS	11397
 INFRASTRUCTU	3396
-INFRASTRUCTURE	10759,78,1,23,107,889,13,16,2,1,263,1,10
+INFRASTRUCTURE	10759,78,1,23,107,889,13,16,2,1,263,1,10,177,1,11,1,42
 INFRASTRUCTURE AND ACCESS	10852
 INFRASTRUCTURE AND RETIREMENT OBLIGATIONS	10581
 INFRASTRUCTURE ASSET SHARING P-3 Federal	11857
-INFRASTRUCTURE Absence of Undue Influence	10835,3,130,902,16
+INFRASTRUCTURE Absence of Undue Influence	10835,3,130,902,16,466,1
+INFRASTRUCTURE BUSINESS	12352
 INFRASTRUCTURE COMMITTEE DEVELOPMENT The Research Council	1154
 INFRASTRUCTURE COMMITTEE The Research Council of Zimbabwe	1554
 INFRASTRUCTURE CONSTRAINTS AND ENABLERS Surveyed Zambian	5247
-INFRASTRUCTURE Civic Checks	10835,3,130,902,16
+INFRASTRUCTURE Civic Checks	10835,3,130,902,16,466,1
+INFRASTRUCTURE Corporation	12395
 INFRASTRUCTURE DEPLOYMENT	3862
 INFRASTRUCTURE EXPENDITURE	11211,51
 INFRASTRUCTURE Enabler	11960
@@ -679,17 +711,17 @@ INFRASTRUCTURE Q Q Q Q Q	11857
 INFRASTRUCTURE RECOMMENDATIONS S	11857
 INFRASTRUCTURE REQUIREMENTS	11860
 INFRASTRUCTURE RIGHTS Rank	10968
-INFRASTRUCTURE Rank	10759,78,1
+INFRASTRUCTURE Rank	10759,78,1,1502
 INFRASTRUCTURE SECURITY	11886
 INFRASTRUCTURE SHARING	3862
 INFRASTRUCTURE TIME AND MAINTENANCE CHALLENGES Sustaining	12090
-INFRASTRUCTURE Transport Network	10759,78,1052
+INFRASTRUCTURE Transport Network	10759,78,1052,451
 INFRASTRUCTURES CRITIQUES	10906
 INFRASTRUCTURES NATIONALES	5478
 INFRASTRUCTURES RESEARCH PAPERS	12090
 INFRASTRUCTURES SCOLAIRES V.1 Répartition	10847
 INFRASTUCTURE DEVELOPMENT Works Progress and Road Map	11131
-INFRATEL	3859
+INFRATEL	3859,8594
 INFRAÇÕES	11528
 INFRAÇÕES RELATIVAS	11528
 INFRAÇÕES RELATIVAS A APRESENTAÇÃO DE CANDIDATURAS	11528
@@ -698,7 +730,7 @@ IOSCO Principles for Financial Market Infrastructures	4103
 IV. PRINCIPES DE PROTECTION DES INFRASTRUCTURES	10906
 Identify Critical Infrastructure	7538
 Identify and Manage the Critical Information Infrastructure	1000
-Identity Document Infrastructure	10837,1052,263,11
+Identity Document Infrastructure	10837,1052,263,11,177,1
 Implementation of Digital Public Infrastructure	2934
 Implementação Novas Infraestruturas Tecnológicas	1256,84,743,2330
 Importance of National Data Infrastructure for Low	1264
@@ -708,9 +740,11 @@ Improving Infrastructure	11289
 Improving Service Delivery Infrastructure	10776
 Inaugural Western Cape Infrastructure Ministerial	8564
 Inaugural Western Cape Infrastructure Ministerial Roundtable	8564
+Inclusive Technology Infrastructure	12444
 Increased Infrastructure Investment	12210
 India's Digital Public Infrastructure	9431,2521
 Industry Innovation and Infrastructure	11855
+Information Infrastructure	12453
 Information Infrastructure Assets CM-NSCI	10721
 Information Infrastructure Provider CIM Chartered Institute	6946
 Information Infrastructures	5700
@@ -798,14 +832,16 @@ Infrastructural	4676,2272,3217,1695
 Infrastructural Development for Whom	12227
 Infrastructural Dimension	12210
 Infrastructural State Capacity	5700
-Infrastructure	21,374,1,183,14,50,105,14,3,134,63,8,191,103,20,494,89,12,30,79,5,423,359,382,40,21,74,86,78,98,29,13,139,126,1,125,139,41,74,287,112,200,8,48,34,34,16,28,7,226,5,1,29,13,51,24,6,70,73,20,18,51,73,25,43,50,118,35,29,8,47,40,180,136,46,35,92,34,143,37,16,43,2,103,10,1,118,7,78,5,125,6,50,6,16,51,42,1,18,72,3,2,45,3,155,85,53,1,3,58,14,1,42,19,2,45,109,58,60,198,26,39,10,54,126,10,214,145,5,78,138,125,105,42,68,23,11,41,61,4,135,11,25,14,38,23,82,19,17,22,11,159,85,58,140,58,38,22,54,2,1,3,3,17,1,50,1,35,17,3,1,7,65,79,10,1,2,1,5,10,6,38,3,13,66,30,164,60,19,2,257,33,17,6,7,11,1,2,1,1,1,1,1,6,32,13,8,4,8,5,25,16,29,55,59,4,1,5,1,3,29,12,1,5,4,22,4,1,12,49,13
+Infrastructure	21,374,1,183,14,50,105,14,3,134,63,8,191,103,20,494,89,12,30,79,5,423,359,382,40,21,74,86,78,98,29,13,139,126,1,125,139,41,74,287,112,200,8,48,34,34,16,28,7,226,5,1,29,13,51,24,6,70,73,20,18,51,73,25,43,50,118,35,29,8,47,40,180,136,46,35,92,34,143,37,16,43,2,103,10,1,118,7,78,5,125,6,50,6,16,51,42,1,18,72,3,2,45,3,155,85,53,1,3,58,14,1,42,19,2,45,109,58,60,198,26,39,10,54,126,10,214,145,5,78,138,125,105,42,68,23,11,41,61,4,135,11,25,14,38,23,82,19,17,22,11,159,85,58,140,58,38,22,54,2,1,3,3,17,1,50,1,35,17,3,1,7,65,79,10,1,2,1,5,10,6,38,3,13,66,30,164,60,19,2,257,33,17,6,7,11,1,2,1,1,1,1,1,6,32,13,8,4,8,5,25,16,29,55,59,4,1,5,1,3,29,12,1,5,4,22,4,1,12,49,13,18,7,1,5,5,1,1,2,1,3,5,12,10,9,1,25,15,8,1,8
 Infrastructure Access	12214
+Infrastructure Accessibility	12411
 Infrastructure Act	1777
 Infrastructure Act SDIP Service Delivery Implementation	11261
 Infrastructure Agency	2626,4224
 Infrastructure All ICTs	395
 Infrastructure And Services	958
 Infrastructure Annual Infrastructure Plan	7548
+Infrastructure Architecture Specialist	12359
 Infrastructure Asked	5752
 Infrastructure Assurance Framework	11338
 Infrastructure Assurance Registration	10157
@@ -828,10 +864,11 @@ Infrastructure Construction and Renovations Strengthening	4260
 Infrastructure Course	11007
 Infrastructure Crime	11840
 Infrastructure Critical National Infrastructure	11857
+Infrastructure Current State	12356
 Infrastructure DPIA Data Protection Impact Assessment	7548
 Infrastructure Deal	6909
 Infrastructure Deployment	3862
-Infrastructure Development	1818,2043,1814,5,1,4640,810,3
+Infrastructure Development	1818,2043,1814,5,1,4640,810,3,1222,17
 Infrastructure Development Committee	1154,400
 Infrastructure Development Conakry	5681
 Infrastructure Development Following	11134
@@ -869,14 +906,18 @@ Infrastructure Integrity Cultural Confidence	11138
 Infrastructure Integrity Secondary	11138
 Infrastructure Integrity. The Institution	11138
 Infrastructure Interoperability Framework	7548
-Infrastructure Investment	7548
+Infrastructure Investment	7548,4808
 Infrastructure Investment Visa Inc	1174
 Infrastructure Library JSON JavaScript Object Notation	6432
+Infrastructure Limitations	12356
 Infrastructure MICDE	7548
 Infrastructure Management	10861
+Infrastructure Market	12355
 Infrastructure Masterplan ERERA	6422
 Infrastructure Monitoring Center	4682
 Infrastructure Most HEWs	1219
+Infrastructure NCSS National Clearing and Settlement Systems	12444
+Infrastructure NSDI	12453
 Infrastructure National ICT Policy Intellectual Property	4528
 Infrastructure Number	11874
 Infrastructure Numérique	1560
@@ -898,6 +939,7 @@ Infrastructure Protection Plan	3604
 Infrastructure Providers	6946
 Infrastructure Rank	11889
 Infrastructure Readiness	7548
+Infrastructure Reliability	12356
 Infrastructure Report	8726
 Infrastructure Requirements	11952
 Infrastructure Requirements Requirement	11952
@@ -925,8 +967,11 @@ Infrastructure Technician Training and B1- Baseline	7548
 Infrastructure Technologies	7548
 Infrastructure Test Penetration	11153
 Infrastructure That Reflects Where Investment Has	7208
-Infrastructure Top	10969,915,1,320
+Infrastructure Top	10969,915,1,320,146
 Infrastructure Upgrade	11857
+Infrastructure Utility	12457
+Infrastructure Vandalism Project And Copper Theft	12395
+Infrastructure Vandalism and Copper Theft	12395
 Infrastructure and Access	10775,77
 Infrastructure and Business	1672,1,976,2999
 Infrastructure and Capacity Conclusion	4848
@@ -935,6 +980,7 @@ Infrastructure and Chinese	4676
 Infrastructure and Compute	7548
 Infrastructure and Compute Constraints Kenya	7548
 Infrastructure and Data Center Development	12035
+Infrastructure and Data Ecosystems	12356
 Infrastructure and Data Governance	4528
 Infrastructure and Database	11129
 Infrastructure and Digital Readiness	7547,1
@@ -960,6 +1006,7 @@ Infrastructure and Utilities	970
 Infrastructure for Cybercrime	1777
 Infrastructure for Growth	3456,4421,3592
 Infrastructure for Growth Program	11469
+Infrastructure for Inclusive Growth	12432
 Infrastructure for Movement and Control	12227
 Infrastructure for Transformation	10956
 Infrastructure of Essential Facilities Demand Aggregation	3604
@@ -976,7 +1023,7 @@ InfrastructureICT and GovernanceCloudCyber	3557
 InfrastructureSouth SudanHuaweiEthiopiaRead	3659
 InfrastructureTelecomsBusinessParatus GroupRead	3371
 InfrastructureZambiaSmart Zambia InstituteDigital	7383
-Infrastructures	643,362,796,541,466,261,88,141,98,10,153,107,152,469,608,28,777,177,867,194,454,675,170,32,256,283,378,704,71,434,137,404,39,164,12,879,13
+Infrastructures	643,362,796,541,466,261,88,141,98,10,153,107,152,469,608,28,777,177,867,194,454,675,170,32,256,283,378,704,71,434,137,404,39,164,12,879,13,414
 Infrastructures Actualité Nathalie Roy	3658,2617,145
 Infrastructures Critiques	1801
 Infrastructures Média	2342
@@ -989,16 +1036,18 @@ Infrastructures3	2342
 InfrastructuresNumériques	11595
 Infrastruktur	504,319,80,519,797,6843
 Infrastrukturprojekte	384,8678
+Infratel	12428,25
 Infratel Africa Limited	3862
 Infratel Ltd	3862
 Infraworks	3862
-Infringement	783,7864
+Infringement	783,7864,3812
 Infringement Notice. Failure	12046
 Infringements	1333,10828
 Infrinja	3519
 Innovation and Infrastructure	1131
 Innovation and Infrastructure Goal	11332
 Instalação de Infra-estruturas	11520
+Institutional Infrastructure Ready	12325
 Institutional Infrastructure and Arrangements Established	11265
 Integrated Infrastructure Platform	4896
 Integrated Infrastructure Platform Strategic	4896
@@ -1012,6 +1061,7 @@ Interoperable Identity Infrastructure	11987
 Interrogating Digital Public Infrastructure	5485
 Intervention Infrastructure	11857
 Introduction Infrastructure for Transformation	9446
+Investment In Network Approval Rebasing Infrastructure	12395
 Investment Incentive Infrastructure Investment	7548
 Italian Ministry of Infrastructure	9971
 Ivoire Benin Congo-Brazzaville MTN Digital Infrastructure3	10793
@@ -1025,18 +1075,20 @@ Kenya. InfraCo Africa	1127
 Key Infrastructure NPRC Number Portability Routing	6946
 Key Infrastructure and Digital Public Infrastructure	8440
 L'Agence Nationale des Infrastructures Numériques	3581
-LABOUR ENVIRONMENT INFRASTRUCTURE RURAL ECONOMY WOMEN’S	10837
+LABOUR ENVIRONMENT INFRASTRUCTURE RURAL ECONOMY WOMEN’S	10837,1503
 LISTING OF ECONET INFRACO	4896
 LISTING OF ECONET INFRACO ON Legal	4896
 LISTING OF ECONET INFRACO ON SHAREHOLDERS	4896
 LISTING STATEMENT FOR ECONET INFRACO	4896
 LPG Import and Bulk Storage Infrastructure	12256
 Labour Environment Infrastructure Rural Economy Health	10759
-Labour Environment Infrastructure Rural Economy Human	10837,1315
+Labour Environment Infrastructure Rural Economy Human	10837,1315,188
 Lack Of Oversight Infrastructure	6315
 Lagos. MTN Digital Infrastructure	11489
 Launch AI Infrastructure Hub	6332
 Launch Smart Surveillance Infrastructure	8520
+Layer Protocol Infrastructure	12395
+Legislative Infrastructure Ready	12325
 Lei. CAPÍTULO V Infracções	539
 Lesotho Explores Child-Focused Digital Public Infrastructure	5741
 Lesotho’s Digital Public Infrastructure	5097
@@ -1083,7 +1135,9 @@ Ministre des Infrastructures	7978
 Ministries of Infrastructure	1257
 Ministries of Territorial Administration and Infrastructures	11536
 Ministry of Communications and Infrastructure	8320
-Ministry of Infrastructure	1130,154,704,3259,923,4642,1093
+Ministry of Infrastructure	1130,154,704,3259,923,4642,1093,453
+Ministry of Infrastructure EnDev	12358
+Ministry of Infrastructure MV	12358
 Ministry of Infrastructure and Transport	8133
 Ministry of Transport and Infrastructural Development	395,7901,2206
 Ministry of Transport and Infrastructure	1669,977,2999
@@ -1142,6 +1196,7 @@ National Digital Public Infrastructure Strategy	10451
 National Fibre Optic Backbone Infrastructure Project	360
 National ICT Infrastructure Master Plan	2867
 National Identity Infrastructure. Cooperative	9876
+National Information Communication Infrastructure	12333
 National Information and Communication Infrastructure	1816
 National Infrastructure	7548
 National Infrastructure Burkina Faso Yes Projet	11529
@@ -1156,11 +1211,11 @@ National Optic Fibre Backbone Infrastructure	126
 National Optical Fibre Backbone Infrastructure	1164
 National Payments Infrastructure	11985
 National Public Digital Infrastructure	4528
-National Public Key Infrastructure	1000,5168,1580,2132
+National Public Key Infrastructure	1000,5168,1580,2132,2479
 National Public Key Infrastructure Time Bound	1000
 National Public Key Infrastructure and DPI	9670
 National Research and Education Infrastructure	9126
-National Spatial Data Infrastructure	976,820,1193,220,2035,1449,2792,166,2211
+National Spatial Data Infrastructure	976,820,1193,220,2035,1449,2792,166,2211,507,88
 National Spatial Data Infrastructure ODA	5244
 National Water Resources Infrastructure Agency	11236
 Navigating Global AI Infrastructure	11135
@@ -1195,11 +1250,13 @@ O Departamento de Gestão de Infra-Estruturas Tecnológicas	11382
 O Departamento de Protecção de Infra-Estruturas Críticas	4218
 O Operador de Infra-estrutura Crítica	6970
 O Operador de Rede de Infra-estruturas Críticas	6970
+OASIS Public Key Infrastructure X509v3	12360
 OE5 OE6 Infraestruturas	11569
 Obras de Infra-Estrutura	11372
 Obras de Infra-Estrutura A MFI	11372
 Observational Infrastructure	11553
 Open Contracting for Infrastructure Data Standard	3969,5463
+Open Infrastructure	12389
 Open Science Infrastructure	5246
 Open Source Software and Digital Public Infrastructure	5700
 Operador de Infra-estrutura Crítica	6970
@@ -1220,6 +1277,7 @@ Overview The Development of Data Centre Infrastructures	10892
 Owner of Critical Infrastructure Any	7538
 Oxford Infrastructure	12210
 P3 Infrastructure	6937
+PART III- CRITICAL NATIONAL INFRASTRUCTURE Designation	12459
 PART TWO IDENTIFYING CRITICAL INFRASTRUCTURE	7538
 PAYMENT INFRASTRUCTURE The DRC	11960
 PKI Infraestrutura	11555
@@ -1251,8 +1309,8 @@ Penetration Infrastructure IN6	11857
 Petroleum Import Infrastructure Petroleum	12256
 Petroleum Sector Infrastructure and Quality Regulation	408
 Phygital Public Infrastructure’ Bridges DPI Theory	5700
-Physical Infrastructure	34,8631,2311,898,7,214,224
-Physical Infrastructure Figure	10976
+Physical Infrastructure	34,8631,2311,898,7,214,224,27
+Physical Infrastructure Figure	10976,1370
 Physical Infrastructure Mwine Mpaka	12319
 Physical Infrastructure Reliability	11882
 Physical Infrastructure Support	471
@@ -1266,8 +1324,9 @@ Plug-and-Play Infrastructure	5700
 Policy Actions On Infrastructure And Services	958
 Portal de Divulgação de Dados de Infra-estruturas Públicas	9432
 Portfolio Management PKI Public Key Infrastructure	6946
+Postal Infrastructure Total Number of Postal Service	12395
 Postal Network Public Perception of Infrastructure RURAL	10759
-Postal Network Public Perception of Infrastructure Rural	10837,1315
+Postal Network Public Perception of Infrastructure Rural	10837,1315,188
 Potential of Digital Public Infrastructure	5700
 Power Infrastructure	3487
 Power of Partnership and Invisible Infrastructure	5528
@@ -1275,6 +1334,7 @@ Pre-Listing Statement of Econet InfraCo	4896
 Preface Digital Public Infrastructure	10852
 Principal Rural Infrastructure	9609
 Principles for Financial Market Infrastructures	4103
+Principles for Financial Market Infrastructures3	12364
 Prioritize Secure Digital Infrastructure KAMPALA	8352
 Privacy and Confidentiality Supporting Infrastructure	21
 Private Infrastructure Development Group	1227,7833,1,2249
@@ -1301,10 +1361,11 @@ Provincial Minister of Infrastructure Tertuis Simmers	11253
 Public Digital Infrastructure	1770,3471,720,2668
 Public Digital Infrastructure. The MoU	5961
 Public Digital Infrastructures Project	6694
+Public Electric Charging Infrastructure	12436
 Public Infrastructure	5519,181,6252,262,27
 Public Infrastructure and Minister	11285
 Public Infrastructure and Private Protection	5700
-Public Key Infrastructure	24,277,17,682,1725,518,271,90,1160,769,58,1355,684,118,572,94,1466,543,342,10,77,717,300,22,48,16,31,267
+Public Key Infrastructure	24,277,17,682,1725,518,271,90,1160,769,58,1355,684,118,572,94,1466,543,342,10,77,717,300,22,48,16,31,267,111,89
 Public Key Infrastructure Asymmetric	11869
 Public Key Infrastructure NDP National Development	1000
 Public Key Infrastructure ORTIA One-stop	11986
@@ -1313,8 +1374,8 @@ Public Key Infrastructure Proof-of-Concept Point of Sale	11130
 Public Key Infrastructure. Founding	8073
 Public Key Infrastructures	11939
 Public Perception of Economic Opportunities Infrastructure	10759,1395
-Public Perception of Infrastructure	10759,76,2,1,74,56,902,16,1,1,1,264,1,9
-Public Perception of Infrastructure Rural Economy	10759,1130,265,9
+Public Perception of Infrastructure	10759,76,2,1,74,56,902,16,1,1,1,264,1,9,177,1,11,1
+Public Perception of Infrastructure Rural Economy	10759,1130,265,9,178
 Public Works and Infrastructure	11248,37
 Public Works and Infrastructure CA Certificate Authority	11986
 Public-Private Infrastructure Advisory Facility	12245
@@ -1328,6 +1389,7 @@ REQUIREMENTS FOR CYBER INFRASTRUCTURE PROTECTION	1000
 REQUIREMENTS FOR CYBER INFRASTRUCTURE PROTECTION Given	1000
 RESUMO EXECUTIVO Infraestrutura	10766
 RFP Wireless Infrastructure for AUC Final	7951
+RISA RISA RISA Secure Infrastructure Communication	12359
 Rationalising On-Premise Infrastructure	10157
 Readiness Infrastructure	7548
 Received InfraCo Shares	4896
@@ -1343,8 +1405,9 @@ Registries and Notaries DPI Digital Public Infrastructure	10765,10
 Relatório de Operação de Infra-estrutura	2866
 Reliable Infrastructure	1204
 Removal of Critical Infrastructure	7538
-Renewable Energy Infrastructure	2234
+Renewable Energy Infrastructure	2234,10165
 Reporting Accountant of Econet InfraCo	4896
+Requirements for Trunk Infrastructure Service Access	12389
 Research Infrastructure	1554
 Research Infrastructure Classification	7548
 Resilient Digital Infrastructure	3456
@@ -1361,6 +1424,7 @@ Robust Int’l Nigeria Infrastructure Baseline	11469
 Role of Infrastructure Policies	4442
 Rural Telecom Infrastructure	4442
 Rwanda Centre for Digital Public Infrastructure	5356,114
+Rwanda INFRASTRUCTURE	12344
 Rwanda's Centre of Digital Public Infrastructure	5356
 Rwanda’s Centre of Digital Public Infrastructure	5470
 Résultats Observations Infrastructures	10975
@@ -1377,6 +1441,7 @@ SECÇÃO II Modernização de Infra-Estruturas	15
 SERVER AND STORAGE INFRASTRUCTURE	11209
 SIFEM Digital Infrastructure and Financial Services SIFEM	1559
 SMART Zambia Expands Digital Infrastructure	7130
+SOCIAL PROTECTION INFRASTRUCTURE	12353
 SOMALIA STRENGTHENING ECONOMIC GOVERNANCE AND INFRASTRUCTURE	8669
 STANLIB Infrastructure Fund II	4730
 STANLIB Infrastructure Fund II. Following	4730
@@ -1387,6 +1452,7 @@ Satellite Connectivity Where Infrastructure Falls Short	7375
 Scalar Infrastructure and Real Assets	5393,53
 Scale Infrastructure Financing Across Africa	9803
 Scaling Digital Public Infrastructure Bill	2178
+School Infrastructure	12411
 Schools. Infrastructure. Jobs. Yet	11356
 Score Infrastructure	10835,2
 Score Rank Public Perception of Infrastructure	11870
@@ -1396,11 +1462,15 @@ Sector Infrastructure Plan	7548
 Sector Promote Government A- AI Infrastructure	7548
 Sector-Specific Critical Information Infrastructure	11754
 Secure Connectivity and Digital Infrastructure	2156,2083
+Secure Data Infrastructure	12356
 Secure Digital Infrastructure	6653
 Secure Digital Infrastructure and Services	11230
 Secure Digital Infrastructure and Services The Department	11230
+Secure ICT Systems and Infrastructure	12453
+Secure Infrastructure	12359
 Secure Infrastructure Transactions	4988
 Secure and Shared Infrastructure	395,563
+Secured and Shared Infrastructure	12359
 Securing Broadband Infrastructure	11857
 Sentech and Broadband Infraco	5208,760,1088
 Sentech-Broadband Infraco	5968
@@ -1442,6 +1512,7 @@ Spatial Data Infrastructure Act	1009,10187
 Spectrum PS-2 Active Infrastructure Sharing Framework	11857
 Speed Infrastructure IN6-10	11857
 Stablecoin Infrastructure Scales Stablecoin	10802
+Startup Infrastructure	12376
 State Connectivity Infrastructure Modernization Project	4548
 State Digital Infrastructure Company	5968,1088
 State of Africa's Infrastructure Report	5912,1
@@ -1460,6 +1531,7 @@ Strengthening of Technical Infrastructure	5677
 Strengthening of Transmission Infrastructure	12256
 Strengthening the Resilience of Critical Infrastructure	5677
 Structural Safety of Project Infrastructure	1988
+Sub-category Score Infrastructure	12340
 Subsea Infrastructure	7145,3233
 Supply and Installation of Datacenter Infrastructure	10839
 Supply and Installation of Wireless Infrastructure Solution	7951
@@ -1469,6 +1541,7 @@ Sustainable Peering Infrastructure	2706
 Sustainable Peering Infrastructure Grant Program	6318
 System Report. Principles for Digital Public Infrastructure	12214
 Systemically Important Financial Market Infrastructures	4103
+Systems and Infrastructure Vendor Engagement Guidelines	12453
 Systems. Deploying Infrastructure for Industrialisation	5912
 TECHNICAL INFRASTRUCTURE	5665
 TECHNOLOGICAL INFRASTRUCTURE NECESSITIES	3861
@@ -1481,18 +1554,21 @@ Tatenda A. Ngowe Econet InfraCo	4896
 Tech Somalia Upgrades Digital Infrastructure	6622
 Technical Deliverables and Infrastructure	11774
 Technological Infrastructure Necessities RECOGNISING	3861
+Technological Infrastructure Ready	12325
 Technologies Foreign Affairs Infrastructure Fund	7548
 Technologies Infrastructure	7548
 Technologies Infrastructure Investment Budget	7548
 Technologies Infrastructure Readiness Budget Treasury	7548
 Technologies Infrastructure Recognition B1- Model	7548
 Technology ISO Information Technology Infrastructure	1009
+Technology Infrastructure	12444
 Technology Infrastructure Solutions	11857
 Technology Park Infrastructure	11863
 Technology and Infrastructure	7182
 Telecom Infrastructure Development	12245
 Telecom Infrastructure and Digital Connectivity Development	6459
 Telecom Tower Infrastructure	1417
+Telecommunication Infrastructure	12453
 Telecommunication Infrastructure Index	1353,9487
 Telecommunications Cabling Infrastructure Classes	9123
 Telecommunications Infrastructure	54,9069
@@ -1510,12 +1586,14 @@ Tonga Yes National Infrastructure Investment Plan	11529
 Towards Public Digital Infrastructure	11007
 Towards Sovereign Cloud Infrastructure Data	9877
 Tower Infrastructure Services	4896
+Trade Infrastructure	12389
 Traffic Network Infrastructure Broadband Speeds	1013
 Traffic Trends Network Infrastructure Broadband Speeds	1944
 Transnational Infrastructures	4676
 Transport and Infrastructure	10313
 Travail PLAN DE PROTECTION DES INFRASTRUCTURES	10906
 Treasury Infrastructure Guidelines	7548
+Trend Slowing Improvement Infrastructure	12341
 Trust Infrastructure	6539
 Trust and Digital Governance Infrastructure	9876
 UN Telecommunication Infrastructure Index	10785
@@ -1523,7 +1601,9 @@ UNDP's Africa Accelerator for Digital Public Infrastructure	11118,613
 US. Cybersecurity and Infrastructure Security Agency	6936
 USTDA Digital Infrastructure Activities Under Digital	1172
 Uganda’s Digital Public Infrastructure	4753
+Underdeveloped Research Infrastructure	12356
 Undersea Communications Cables and Infrastructure	4676
+Understanding Digital Public Infrastructure	12366
 Uneven Resource Distribution and Infrastructure Gaps	6936
 Uneven Resource Distribution and Infrastructure Gaps Launch	6936
 Uneven Resource Distribution and Infrastructure Gaps SUMMARY	6936
@@ -1560,7 +1640,7 @@ WEST AFRICAN MARKETS Carrier-Neutral Telco InfraCo	10861
 WOMEN’S EQUALITY INFRASTRUCTURE	10835
 WORLD BANK Nigeria Broadband Infrastructure	11857
 Water Services Infrastructure Grant	11197
-Welfare Infrastructure	10835,3,130,902,16
+Welfare Infrastructure	10835,3,130,902,16,466,1
 West Africa Regional Communications Infrastructure Program	1264
 West Africa Regional Communications Infrastructure Project	221,86,957
 West African Regional Communications Infrastructure Program	3461

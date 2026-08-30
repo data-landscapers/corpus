@@ -1,4 +1,5 @@
 AC Adapter	34
+AC Alternating Current ANNA Angola-Namibia Interconnector	12399
 AC P	11953
 AC and DC	9123,2146
 AC des Marchés Publics	10876
@@ -25,5 +26,5 @@ NIP AC PIS	958
 NITDA Ac	11952
 Partido Ac	12201
 Power Requirements AC	34
-V AC	11269
+V AC	11269,1130
 Voltage Required AC	34

@@ -26,6 +26,7 @@ Association. Sections and Description	11525
 Association. Sections and Description FA	10829
 Association. Sections and Description Financing Agreement	10964
 Association. Sections and Description Schedule	10829
+Avatar of Descande	12478
 Awareness Responsible Behaviour Integrity Description Pay	5676
 B. Parent Project Description and Current	1284,10681
 B. Program Description	11905
@@ -47,10 +48,11 @@ Code I Description	11180
 Colonne Type Description Exemple	747
 Conditions Type Citation Description Financing	1264,603,1737,2935,4229,649,143,345
 Cooperation Acronym Description	11218
+D. Concept Description	12426
 D. Concept Description A US	12137
 D. Project Description	1704,1752,7507
 D. Project Description Investment Project Financing	761
-DESCRIPTION	11240
+DESCRIPTION	11240,1124
 DESCRIPTION Addressed	11252
 DESCRIPTION DE LA PROCEDURE	10876
 DESCRIPTION DE LA PROCEDURE Pour	10876
@@ -80,8 +82,10 @@ DIMENSION Likelihood Severity Scale DESCRIPTION	11156
 Data Description	4528
 Data Locations Date of Change Description of Change	6432
 Deliverable Short Description	11188
+Descande	12478
 Descarga	12018
 Descarregar Related Items	4711
+Descendants Bill	12337
 Descending	5363
 Descent	10841
 Descentralización	1701
@@ -104,12 +108,12 @@ Descontos	752
 Descrevem	10777
 Descrevem-se	10766
 Describe	1988,1984,1693,128,5019,1373,117
-Described	2161,1518,825,1834,2042
+Described	2161,1518,825,1834,2042,3979
 Describes	422,10847
 Describing	3405,856,3860,680,328,132
 Describing Liberia	8574
 Describing the National Regulatory Sandbox	11751
-Description	29,1,3,2,4,5,5,1,1,1,2,1,1,1,1,1,1,5,1,1,1,1,1,1,1,1,1,1,1,2,1,6,6,12,1,1,1,5,4,3,3,1,2,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,24,9,2,4,1,1,1,1,1,4,1,1,1,1,1,7,1,1,1,1,23,1,7,2,3,3,1,1,1,5,5,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,17,1,2,13,1,2,13,1,1,3,1,1,1,1,1,1,5,1,4,5,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,3,4,38,1,30,1,7,6,2,1,2,5,2,2,2,2,1,1,1,1,1,1,1,1,1,1,1,4,53,2,2,8,4,13,1,14,4,1,2,1,1,3,1,10,1,9,1,4,1,1,11,6,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,4,1,39,22,8,47,13,2,1,6,3,21,3,3,4,1,4,6,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,5,58,93,1,1,22,6,6,6,1,6,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,27,27,11,7,57,1,1,1,1,17,29,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,10,1,1,2,66,4,1,2,2,1,15,1,1,13,10,1,1,5,14,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,3,6,16,17,15,1,1,38,41,52,28,47,56,1,32,10,53,1,1,1,1,1,1,1,5,46,14,1,1,1,1,1,1,1,1,1,1,1,14,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,11,1,1,10,3,1,2,3,1,1,1,40,1,1,1,1,1,1,1,2,7,1,1,2,1,3,1,1,2,2,3,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,2,1,1,1,4,4,8,2,4,2,1,4,2,2,2,2,1,1,1,2,269,36,330,73,468,173,2,59,11,170,1,39,86,22,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,53,1,49,83,10,44,38,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,35,31,1,1,1,14,4,2,3,1,1,1,34,2,1,1,1,1,3,1,1,4,1,1,1,1,1,1,2,1,1,1,3,1,2,2,2,5,1,1,1,1,1,1,3,1,2,1,1,1,1,1,1,1,6,1,1,2,1,1,2,1,3,26,28,1,1,1,19,38,1,1,1,1,1,4,74,169,285,12,2,3,305,107,21,3,112,67,207,1,219,183,5,1,1,1,13,46,34,28,34,108,30,767,145,346,579,1,41,1,1,33,138,161,231,130,21,114,30,136,12,23,63,109,19,30,74,839,7,61,40,67,118,119,22,1,2,1,90,79,24,18,52,56,344,4,32,50,40,18,162,60,67
+Description	29,1,3,2,4,5,5,1,1,1,2,1,1,1,1,1,1,5,1,1,1,1,1,1,1,1,1,1,1,2,1,6,6,12,1,1,1,5,4,3,3,1,2,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,24,9,2,4,1,1,1,1,1,4,1,1,1,1,1,7,1,1,1,1,23,1,7,2,3,3,1,1,1,5,5,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,17,1,2,13,1,2,13,1,1,3,1,1,1,1,1,1,5,1,4,5,1,1,1,1,3,1,1,1,1,1,1,1,1,1,1,3,4,38,1,30,1,7,6,2,1,2,5,2,2,2,2,1,1,1,1,1,1,1,1,1,1,1,4,53,2,2,8,4,13,1,14,4,1,2,1,1,3,1,10,1,9,1,4,1,1,11,6,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,4,1,39,22,8,47,13,2,1,6,3,21,3,3,4,1,4,6,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,5,58,93,1,1,22,6,6,6,1,6,1,1,1,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,27,27,11,7,57,1,1,1,1,17,29,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,10,1,1,2,66,4,1,2,2,1,15,1,1,13,10,1,1,5,14,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,3,6,16,17,15,1,1,38,41,52,28,47,56,1,32,10,53,1,1,1,1,1,1,1,5,46,14,1,1,1,1,1,1,1,1,1,1,1,14,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,1,11,1,1,10,3,1,2,3,1,1,1,40,1,1,1,1,1,1,1,2,7,1,1,2,1,3,1,1,2,2,3,7,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,2,1,1,1,4,4,8,2,4,2,1,4,2,2,2,2,1,1,1,2,269,36,330,73,468,173,2,59,11,170,1,39,86,22,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,53,1,49,83,10,44,38,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,35,31,1,1,1,14,4,2,3,1,1,1,34,2,1,1,1,1,3,1,1,4,1,1,1,1,1,1,2,1,1,1,3,1,2,2,2,5,1,1,1,1,1,1,3,1,2,1,1,1,1,1,1,1,6,1,1,2,1,1,2,1,3,26,28,1,1,1,19,38,1,1,1,1,1,4,74,169,285,12,2,3,305,107,21,3,112,67,207,1,219,183,5,1,1,1,13,46,34,28,34,108,30,767,145,346,579,1,41,1,1,33,138,161,231,130,21,114,30,136,12,23,63,109,19,30,74,839,7,61,40,67,118,119,22,1,2,1,90,79,24,18,52,56,344,4,32,50,40,18,162,60,67,58,19,30
 Description ADC	594,2
 Description AFC	240,90,119,593
 Description AFC's Board	4450
@@ -293,6 +297,7 @@ Description First AFD	1043
 Description First EIB	253
 Description Follow-on	453
 Description Format Requir	11952
+Description Framework	12360
 Description Framework Loan	473,990
 Description Fraternité Matin	2157
 Description Frequency Datasource Collection Collection	1284
@@ -501,6 +506,7 @@ Description Sector-wide	952
 Description Security	1449
 Description Selected	1867
 Description Series	120,491,2280,1,1,1,1,8,1,2273,1,2,16,1
+Description Sex Very Somewhat	12409
 Description Should	11417
 Description Sida	92,432,195,1522
 Description Sonatel Group	1143,405
@@ -658,9 +664,10 @@ Description of Process	1778
 Description of Processing and Data Flows	12302
 Description of SEP	1778
 Description of Use	34
+Description of Work	12400
 Description. Recording	4455
 Descriptions	5773,6473
-Descriptive	2948,5428,2505,1122
+Descriptive	2948,5428,2505,1122,376
 Descrito	9694
 Descrição	794,172,9789,15,591,8,17,19,1,7,17,18,15,56,1,381,241
 Descrição Detalhada da Subcomponente	11440
@@ -673,6 +680,7 @@ Descuentos Num. PERSONAL Mensual Integro Impuestos	4209
 Descuentos Percibir Mensual	4209
 Design Description	10765
 Designação Descrição	2816
+Diego HP Descande	12478
 Digit DESCRIPTION Postcode Zone Group of Postal	11129
 Dignity Job Description Writing	11131
 Direção-Geral de Descen	11527
@@ -731,6 +739,7 @@ ITEM DESCRIPTION RESPONSIBILITY TIMELINE	11857
 IV.1.1.12.5 Description	10876
 IV.1.1.5.4 Description	10876
 IV.1.3.5.5 Description	10876
+Implementer Project Description Funding Northern Regional	12399
 Initiatives Description Critical	11131
 Institution Describe	11180
 Investment Description Planned	11955
@@ -744,6 +753,7 @@ LEGAL Legal Covenants Sections and Description I	3562
 LEGAL Legal Covenants Sections and Description KOE	6539
 LEGAL Legal Covenants Sections and Description Schedule	3604,7164,792
 LEGAL Legal Covenants Sections and Description Section	11417
+Last Mile Projects Description Responsible Party	12399
 Layer Component Description References Contextual	9128
 Legal Covenants Conditions Description	11855
 Legal Covenants Sections and Description Financing Agreement	10964
@@ -753,6 +763,7 @@ Liquidable Gravamen Descuentos Num. PERSONAL Mensual	4209
 Location Description	1988
 M. Description	2214
 Mali's Digital Week. Described	4858
+Mile Projects Description Responsible Party Locality	12399
 NNBP ITEM DESCRIPTION RESPONSIBILITY TIMELINE	11857
 Name Description	8605
 Narrative Description	6432
@@ -766,6 +777,7 @@ No. Description Contract Number Supplier Name	6946
 No. Objective Description	5244
 Objective No Reallocations Yes Summary Description	2473
 Official Use Only Description of Type of Air	12253
+Ontology Description	12360
 Open Data Budget Description URL	748
 Open Description Data	10157
 Operating Expenditure Execution Description Budgeted	718
@@ -775,6 +787,8 @@ PROJECT DESCRIPTION	11863
 PROJECT DESCRIPTION A. Project Development Objective	11863
 ParentLearnerRelationship Describes	11180
 Pillar Access Connectivity Affordability Description Promote	5676
+Pillar Description	12444
+Places Descriptive	12360
 Political and Rating Description	11469
 PopulationGroup Describe	11180
 Program Action Plan Action Description Appointment	10870
@@ -783,22 +797,29 @@ Programa de Promoção da Governação Descentralizada	1808
 Programme Terra Bénin Description Suivi	10876
 Programme. Description Modulable	10876
 Project Brief Description Links	3604
-Project Description	1914,74,9537,24
+Project Description	1914,74,9537,24,863
 Project Description Budget Allocation District Specific	11986
 Project Description The Zambia Refugees and Host	1778
 Project. Sections and Description Financing Agreement	10964
+Projects Project Name Timeline Project Description	12399
 Protection Customer Support Description Detailed	5676
 Province Area District Municipality Description of Project	6832
+Public and Private Partnership. Described	12359
 Quarterly Financial Information PCU System Description	11525
 Question Rating Description	11916
 REFERENCE GUIDE STRATEGY DESCRIPTION	6432
 REGULATORY FRAMEWORK DESCRIPTION	1988
+Recommended Metadata Standards Suffix Description Domain	12360
 Register Voter Description N	9124
 Requirement Service Description Tariffs and Charges Contract	5676
 Results Area Description	11905
 Results Descriptive	7886
+Rwanda Document Description Birth Certificate	12328
+Rwanda Formal Informal Descriptive Kigali South	12445
+SAIDI&SAIFI DESCRIPTION UNITS BASELINE	12358
 SRI Description Disaggregated	10768
 STAKEHOLDER ENGAGEMENT Activity Description BOLESWA Friendly	11131
+SWIFT FIN Copy Service Description	12324
 SYSTEM BREACH DESCRIBED ABOVE	2709
 Sections and Description	1284,583,9658
 Sections and Description ESCP	10964
@@ -810,10 +831,12 @@ Security and Cybersecurity Controls Control Area Description	6432
 Service Acronym Description	11218
 Service Description	10876
 Services Consumer Confidence Description Consumer	5676
+Services Description Language	12360
 Services Emerging Technologies Description Increase	5676
 South Africa. I Code Description	11180
 Stage Description Number	9237
 Strategy Description	4528
+Sub Activity Description	12448
 Subproject Description and Activities	1988
 Substantial Risks Description	11417
 Summary Description	11965
@@ -834,6 +857,7 @@ Technical Description Example Profile Framework	1009
 Technology Inter-Agency Committee Description Date Creation	2779
 Tender Number KE-MOH-556751-NC-RFB Tender Description	7987
 Time-sensitivity Description Strengthening	8603
+Timeline Project Description Funding	12399
 Type Description Effectiveness	11855
 UrbanRural Describe	11180
 Use Service Category Description Deployment Model	6432
@@ -843,3 +867,4 @@ WEIGHT CRITERIA DESCRIPTION Addressed	11252
 WG CONSUMER Description	5679
 Waterford Career Fair Description The Bank	11134
 World Bank Environmental and Social Standards Description	1988
+World Description Wide Web	12360

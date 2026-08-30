@@ -4,7 +4,7 @@ AFRINIC Appeal Stopped	9809
 AI Strategy Mandates Local Storage	5403
 ANALYSIS OF THE NIGERIAN STOCK MARKET	10
 Activité du Stockage	10975
-Adobe Stock	10764,799
+Adobe Stock	10764,799,776
 African Stock Market Capitalization of GDP	6938
 African Stock Market Robust	6938
 Alamy Stock	11841
@@ -21,13 +21,14 @@ Apple Store	11253
 Authors Chris Stokel-Walker	7174
 BEI Svetla Stoeva	5303
 BESS Battery Energy Storage System BOAD	11549
+BESS Battery Energy Storage System BONA	12399
 BESS Battery Energy Storage System BWs	11228
 BLACKBIRD STORAGE AND AUCTION YARD LTD	7167
 BULK STORAGE TERMINAL LIMITED Data Controller	7167
 Backup Storage	11209
 Batteries de Stockage	1993
 Battery Energy Storage System Sources	11953
-Battery Energy Storage Systems	12256
+Battery Energy Storage Systems	12256,143
 Battery Energy Storage Systems The Kenya	12256
 Biggest Corruption Stories	9736
 Blob Storage	6432
@@ -59,9 +60,13 @@ Chris Stoner and Caroline Sang	10794
 Cloud Storage	4061,2730,5511
 Cloud Storage. Ikumbukwe	4061
 Committee of SADC Stock Exchanges	6938
+Company Information Records Digitally Stored	12389
 Considerations for Cloud Storage	12302
+Cook Stoves	12358
 Covered Stockpiles	1988
 DATA STORAGE	5244
+DHIS2 User Story	12408
+DIGITIZATION AND STORAGE	12338
 DOES THE STORY MATTER	11730
 Dangers of Stochastic Parrots	11140
 Data Centre Storage Capacity	11863
@@ -107,13 +112,14 @@ Gas Hydro Pumped Storage Imports	11953
 Gas Hydro Pumped Storage Wind Solar	11953
 Gas Storage Hydro	11953
 Gas Storage Load Load	11953
+Gas Stove	12383
 Gb CNA Storage	11209
 Ghana Stock Exchange	5136,849,909,1131,149,340
 Gianluca Storchi	5232
 Good Storage and Distribution Practices	4301
 Google Cloud Storage	9123
 Google Finance StoneCo	5124
-Google Play Store	7266,3804,1139
+Google Play Store	7266,3804,1139,256
 Google Play Store and Apple App Store	2885
 Google Play Store for FREE and Register	12209
 Google Play Store. NIMC	5284
@@ -129,6 +135,7 @@ INTERNATIONALIZATION OF THE NIGERIAN STOCK MARKET	10
 IPP Battery Energy Storage System	11228
 Impact Stories The EPI Pro	977
 Impact Stories The EPI Program	977
+Improved Cook Stoves	12358
 Insurance Supply Trade Storage	2775
 Integration of ExaGrid Backup Storage	11209
 International Migrant Stock	11960
@@ -160,7 +167,9 @@ London Stock Exchange Group	7007
 Ltd and Stefanutti Stocks Construction Eswatini	11134
 Luanda Stock	8497
 Lucie Lusungu’s Story of Hope and Protection	10776
-Lusaka Stock Exchange	10101
+Lusaka Stock Exchange	10101,2275
+Lusaka Stock Exchange and VISA	12364
+Lusaka Stock LuSE	12364
 Luxembourg Stock Exchange	896
 Lysosomal Storage Diseases Brazil Network and Hospital	10188
 M2 Stores	4283
@@ -177,6 +186,7 @@ Multi-zone Data Storage	11952
 Musikavanhu's Telemedicine Story By Regina Pasipanodya	11656
 NIGERIAN STOCK MARKET	10
 Naira Stock Wallets	11861
+Namibia Economic Policy Research Unit. Stork	12325
 Namibia Stock	3714
 Namibian Stock Exchange	1013,2446,255
 Namibian Stock Exchange. Revenues	1013
@@ -186,6 +196,7 @@ National Water Harvesting and Storage Authority	12254
 Nepal Stock Market Price Prediction	11265
 Nepal stock market price prediction	11265
 Network Attached Storage	9123
+News Categories News Stories Press Release	12465
 Nigerian Stock Exchange	10,11119
 Nigerian Stock Exchange Review of Rules	10
 Nigerian Stock Market Reflection	10
@@ -222,6 +233,7 @@ Pumped Storage CSP Wind Solar PV	11953
 Pumped Storage Hydro	11953
 Quentin Stoeffler	10963,1
 Quentin Stoeffler. Forthcoming	10985
+RDB One Stop Centre. Read More	12483
 RELATED STORIES	8202
 RMB Nigeria Stockbrokers	8040
 Real Story Behind the Turnaround National Breweries	6011,985
@@ -230,11 +242,16 @@ Received Finalized Stock	12225
 Recordings Stored	6946
 Regional Stock Exchange Settlement Bank	10853
 Registry Stored Query	1009
-Related Stories	8549,174,2004
+Related Stories	8549,174,2004,1609
 Related Stories Export-Import Bank Export-Import Bank	10351
 Related Stories From AI	9786
+Related Stories How Is South Africa	12336
+Related Stories Meet South Africa’s Internet	12336
 Related Stories Osun Governorship	9876
+Related Stories Why Internet Access Needs	12336
+Related Stories Women-Owned Businesses Are Taking	12336
 Related Story	4554
+Renewable Power Generation and Energy Storage Systems	12418
 Rodrigues Success Story	11332
 Rupturas de Stock	8324
 S.r.l StoryTailors Ltd StratIA Global Studio	8530
@@ -249,6 +266,7 @@ STOP CONDITION CHECK	2215
 STOP DATA PROCESSING	11956
 STOP. THINK. CONNECT. Campaign	6936
 STOPEACOP Countering Xenophobia	9682
+STORAGE	12413
 STORE	1009
 STORY HIGHLIGHTS	6251
 STORY HIGHLIGHTSSTORY HIGHLIGHTS In Benin	6251
@@ -270,7 +288,7 @@ Stochastic Frontier Analysis	1828
 Stochastic Frontier Model Estimates 19 BOX	10997
 Stochastic Frontier Model Estimates Variables Model	10997
 Stochastic Frontier Models	1828
-Stock	396,1592,137,3505,1160,148,773,1800,400,40,761,67,27,3,43,24,130,1,422,526,270
+Stock	396,1592,137,3505,1160,148,773,1800,400,40,761,67,27,3,43,24,130,1,422,526,270,104
 Stock Add	3962
 Stock Cape Town	11012
 Stock Exchange	4896,7059
@@ -315,7 +333,7 @@ Stoga Kancelarija	10780
 Stoker	7886
 Stokes	2093
 Stokoe	11128
-Stomach	10295
+Stomach	10295,2118
 Stone	376,1612,1648,1040,2015,4438
 Stone City	9111
 Stone Town	104
@@ -340,7 +358,7 @@ Stop. Think. Verify	9764
 Stopa	10780
 Stopblablacam	2336
 Stopgap	11551
-Storage	395,371,1062,160,1020,1252,1533,630,9,1590,583,235,283,323,9,20,1481,20,233,665,7,71,4,134,166,46
+Storage	395,371,1062,160,1020,1252,1533,630,9,1590,583,235,283,323,9,20,1481,20,233,665,7,71,4,134,166,46,44
 Storage Area Networks	9123
 Storage Authority NWHSA National Water Harvesting	2775
 Storage Authority NYS National Youth Service	2775
@@ -353,10 +371,12 @@ Storage Sphere	3292
 Storage and Filling Facility	12256
 Storage and Networking	11209
 Storage and Visualization	8604
+Storage of Company and Beneficial Ownership Information	12389
 Storage of Crude Oil	12256
 Storage of LPG	12256
 Storage of Payment System Data	6735,200,4375
 Store	1089,60,839,489,8502,307,967,49
+Store Google Play	12390
 Stored	1291,1,1,1,1,1,761,1,1,1,1,1,2308,1,1,1,1,1,1811,334,2717,920,822,973
 Stored Communications Act	10088
 Stored for Phase	8606
@@ -367,7 +387,11 @@ Storey	11129
 Storeys	11129
 Stories	1580,3933,1663,1767,1898,815
 Storing	6542,4543
-Stork	961,8798
+Stork	961,8798,2566
+Stork and Aochamub	12325
+Stork and Aochamus	12325
+Stork and Deen	12325
+Stork and Deen-Swarray	12325
 Story	6972,809,1,97,416,369,279,502,589,231,1045,924
 Story of Hope and Heritage	12005
 Story of Transformation	5245
@@ -382,20 +406,23 @@ Supply Sources Pumped Storage Hydro Diesel	11953
 Supply Storage	2775
 Supply Trade Storage	2775
 TB SATA Drive Storage	9475
+Team Story The Outlier Press Sustainability	12339
 Tells Africa’s AI Story	10695
 Top Stories	7314,1939
 Top Story	5502,231
+Transmission Expansion and Energy Storage Project	12399
 Transportation and Storage	2775
 Transportation and Storage Activities	2775
 Transportation and Storage KSh	2775
 Transportation and Storage Sector Water Transport Railway	2775
 Transportation and Storage and Services	6946
-Trending Stories	8884
+Trending Stories	8884,3494
 Trending Stories Namibia	11122
 Tropical Storm Fred	11965
 US Stored Communications Act and GDPR	10088
 United Nations High Commissioner for Refugees Stories	10841
 Use and Storage	718
+User Stories Zambia Education Management System	12408
 User Story	6423
 VICTORIA FALLS STOCK EXCHANGE	4263
 Victoria Falls Stock Exchange	4263,35,598,642,1996
@@ -407,11 +434,13 @@ Victoria Falls Stock Exchange. Publication	4896
 Viettel Global Joint Stock	6019
 Volume and Value of Stocks	10
 World Bank Feature Story	7644
+World Bank Transmission Expansion and Energy Storage	12399
 X MSA2052 Storage Devices	11209
 York Stock Exchange	415,6257,526,1902,1,562,1130,8,1154
 York Stock Exchange. Bloomberg	8049
 York Stock Exchange. Liquidity	6938
 You. More Stories	9878
 ZIMBABWE LIMITED FROM THE ZIMBABWE STOCK	4896
+Zambia’s FDI Inflow and Stock	12376
 Zimbabwe Stock Exchange	4263,97,157,379,2082,350
 Zimbabwe Stock Exchange Limited and Lloyd	8626

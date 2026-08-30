@@ -1,6 +1,7 @@
 Abuja The Ministry of Solid Minerals Development	7513
 Acting Minister of Industry and Minerals	9862
 Adm MINEF	2342
+Administrative Entities Development Agency MINEMA Ministry	12328
 Africa Centre for Critical Minerals and Energy Transition	8850,3269
 Africa's Real Gold Mine Isn't Underground	10078
 Agricultural and Critical Minerals Transformation	10321
@@ -42,6 +43,7 @@ Empresa Minera Nacional	4209
 Energy and Mineral Resources	1228
 FCFA Mines SA	2342
 Foreign Policy Instruments OCDE Mines Artisanales	643
+Government MINEMA Ministry	12328
 HIDROCARBUROS Y DESARROLLO MINERO	4209
 HIRE GOLD MINE	2342
 HIRE GOLD MINE Gestion	2342
@@ -68,7 +70,8 @@ MDAP MEF MINEDH MIREME MISAU MOPHRH	1228
 MFD Maximizing Finance for Development MINEA Ministério	11380
 MFPTE MINEDU OBR ARMP New Technical	1284
 MINEA	11380
-MINECOFIN	697,21,52,991,1383
+MINECOFIN	697,21,52,991,1383,9214,1
+MINECOFIN CEO-RISA GCINO	12359
 MINECOFIN Ministry of Public Service and Labour MINEDUC	1204
 MINECOFIN and MINEDUC. Acquired	697
 MINECOFIN's and MINEDUC	697
@@ -88,6 +91,8 @@ MINEE	6400,4575
 MINEFID	3044,4626,651,2390,164
 MINEFOP	10963,1,1
 MINEFOP Ministère	10964
+MINEMA	12328
+MINEMA Barriers	12328
 MINEPAT	55,1,47,22,122,55,4023,148,6490,1,1,15,5,11
 MINEPAT Ministre	10964
 MINEPAT Statistical Yearbook	10980
@@ -127,7 +132,7 @@ Mineral Resource	11280
 Mineral and Petroleum Resources	11232
 Mineral and Petroleum Resources Development Act	6683
 Mineral and Petroleum Resources Royalty	11181
-Minerals	2889,1639,316,4555,1911,298
+Minerals	2889,1639,316,4555,1911,298,844
 Minerals Council	7751,699
 Minerals Council South Africa. Drawn	7751
 Minerals Management and ESEPARC	11131,3
@@ -141,6 +146,7 @@ Mines Agriculture des Marchés Eau	2342
 Mines Artisanales	643
 Mines Commerce Crafts	10763
 Mines and Energy	5086
+Mines and Energy MOU Memorandum of Understanding MSB	12399
 Mines and Mineral Resources	2667
 Mines and Minerals Development Act	1988
 Mines and Quarries	10873
@@ -167,7 +173,8 @@ Ministre des Mines	7978
 Ministry of Industry and Minerals	9862
 Ministry of Minerals and Energy and P23.7	2736
 Ministry of Mines	1777,10456
-Ministry of Mines and Energy	1242,4002,3844
+Ministry of Mines and Energy	1242,4002,3844,3237,55,86
+Ministry of Mines and Energy Electricity Control Board	12399
 Ministry of Mines and Geology	981,1908,6111
 Ministry of Mines and Geology MS Moderately Satisfactory	2889
 Ministry of Mines and Mining Development	1554
@@ -210,6 +217,7 @@ SOCIÉTÉ DES MINES DE LAFIGUE Gestion	2342
 SOCIÉTÉ IVOIRE MANGANÈSE MINES SA Gestion	2342
 Salubrité Mines	4895
 Selon Minette Libom Li Likeng	3138
+Skorpion Mine	12399
 Small Miners	8639
 Sociedad Minera GEEMINA	4209
 Société des Mines	11597
@@ -220,6 +228,7 @@ TONGON GOLD MINE	2342
 TRCI INIE INS-SODE MINES LONACI Exploitation	2342
 Telecoms Minister Minette Libom Li Likeng	3283
 Turn.io Minette Barkhuysen	10538
+UNHCR and MINEMA	12328
 United States and South Korea. Minerva	11050
 Update the MINEPAT-based PIU PIM	10964
 Vuyiswa Khutlang SA Mine Project Leader	7751

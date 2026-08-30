@@ -67,6 +67,9 @@ Claudino Filipe	10752
 Coal Fly Ash-Derived Filter Media for Water	1554
 Colonel Fily FOFANA. Directeur	8237
 Commission File Number	8939
+Common Biometric Exchange File Format	12360
+Companies File	12483
+Company Information Filing Requirements	12389
 Configuration Files Overview	5665
 Coordenadora Filipe Samuel	10757
 Coordonnatrice Projets Filets Sociaux M. André	10812
@@ -84,6 +87,8 @@ EST Filles	10847
 EST GNAGNA Filles	10847
 East African Documentary Film Fund Data	7167
 Electronic Files	1009,10187,17,20,340,474
+Electronic Filing	12389
+Electronic Filing of Taxes	12389
 F Garçons Filles G	10847
 F KOMPIENGA Garçons Filles G	10847
 F Régions Provinces Garçons Filles G	10847
@@ -107,9 +112,12 @@ Fawry Official Financial Filings	5869
 Filaires LAN	4342
 Filani Funso	10571
 Filas	1701
+File Annual Returns	12389
 File Bank of Tanzania	2857
 File Count	11268
+File Dispute Online	12389
 File Format	3972
+File My Return	12454
 File Payment	5977
 File Photo Purchase Licensing Rights	4057,2874
 File Photo The U.S	10068
@@ -117,9 +125,11 @@ File President Dr Samia Suluhu Hassan	5883
 File Returns	573,2588
 File Size	9854,1414
 File Tanzania	8135
+File Transfer	12395
 File Transfer Protocol GB Gigabyte GHz	34
 File Type	8831
-File&t	1814,1184
+File and Pay Taxes	12389
+File&t	1814,1184,9340
 File&tx filelist filelist	2998
 File-Based Encryption	10721
 FileDown.do	11064
@@ -131,7 +141,7 @@ Filed Under	5456,364
 Filemon Sambú	11574
 Filename	1593,698,1271,2381,1509,620
 Filers MUST	11219
-Files	1243,2884,156,889,5790,178,60,370,568
+Files	1243,2884,156,889,5790,178,60,370,568,238,24
 Files Avec	11499
 Files By Central News Reporter	5597
 Filets	737
@@ -147,13 +157,18 @@ Filiares	4209
 Filias	11386
 Filiação	10749,670,6,55
 Filimbi	9408
-Filing	3161,2523,1659,680,761,722,1279,212,279,22,387,116,400
+Filing	3161,2523,1659,680,761,722,1279,212,279,22,387,116,400,137
+Filing Date	12389
 Filing Fee Table	7198
+Filing Guidance Air Cargo Manifest User	12454
 Filing Person	7198
 Filing Persons	7198
+Filing Requirements	12389
 Filing Season	8784
 Filing System	12185
+Filing Systems	12389
 Filing and Manage Your User Profile	11276
+Filing and Payment	12389
 Filing for Tax	10785
 Filing of DST	573
 Filing of NDP Act Compliance Audit Returns	11956
@@ -183,6 +198,7 @@ Filles Ensemble Garçons Filles Ensemble Banwa	10847
 Filles Ensemble Garçons Filles Ensemble Houet	10847
 Filles Total Filles	10847
 Filling	972,2915,5430,1625
+Filling Annual	12483
 Filling of Funded Vacant SMS	11218
 Filling of LPG	12256
 Filling the Agriculture Data Gap	7596
@@ -211,8 +227,12 @@ Filtrage	10869,779
 Filtrer	10876
 Filtro	794
 Fily Sissoko	2026
+Firms Filing and Paying Taxes Electronically	12389
+Foreign Exchange Rates File	12454
 Former President Filipe Nyusi	2667
+Free of Charge Filing	12389
 GANZOURGOU Filles	10847
+GB Multi Thread File	12395
 GNAGNA Filles	10847
 GOURMA Filles	10847
 Garçons Filles	10847
@@ -228,6 +248,7 @@ IOBA Filles	10847
 Identification France Secure Electronic Titles File	10714
 Identity and Background of Filing Persons	7198
 Identity and Background of Filing Persons Regulation M-A	7198
+Income Tax Filing Season and Compliance Improvement	12439
 Interplanetary File System	8605
 Intervention du Chef de File des PTF	2966
 Irineu E. de Carvalho Filho	1828
@@ -272,6 +293,7 @@ Ndiame Diop Michel Rogy Fily Sissoko	4653
 Negative List. Fill	1988
 News Culture Moroccan Filmmaker and Rapper	5407,676
 Northern Uganda Film Awards	9781
+Notice-Based Filing	12389
 Nouveaux Inscrits Garçons Filles G	10847
 Número Ideal de Filhos	10777
 OUBRITENGA Filles	10847
@@ -338,8 +360,10 @@ Short Film	11332
 Stamp TO BE READ AND FILLED	7845
 Storage and Filling Facility	12256
 Supplementary File	10940
+Supplementary Files Additionalfile1.docx Additional	12379
 TAPOA Filles	10847
 TBS Filles	2966
+TPIN File Returns Pay Taxes Online	12454
 TUY Filles	10847
 Taux Brut de Scolarisation Garçons Filles G	10847
 Taux Net de Scolarisation Garçons Filles G	10847
@@ -357,6 +381,7 @@ Unique Participation File	4620
 Urbain Rural Total Total Filles	10847
 Valter Filipe Duarte da Silva	11370
 Valter Filipe Duarte da Silva. Download Para	11368,2
+Whatsapp File Transfer Mobile Applications	12395
 XBRL Filings Comparison	11250
 YAGHA Filles	10847
 YATENGA Filles	10847

@@ -26,6 +26,7 @@ BANKING INFORMATION FOR VERIFICATION PURPOSES	11240
 BANKING SECTOR SUPERVISION	11131
 BANKING SPACE	418
 BANKING TRUST TO STAY STRONG	10517
+BBA. Banking	12447
 Bank of Namibia's Currency and Banking Operations Department	5254
 Bank of Namibia’s Currency Management and Banking Operations	8252
 BankID	10714,105
@@ -35,7 +36,7 @@ Banki Kuu SACCO Ltd Data Processor	7167
 Banki Nkuru	5958
 Bankily	4655,5001
 Bankim Brahmbhatt	5033
-Banking	22,396,522,59,129,739,722,260,222,644,813,328,40,759,656,112,404,119,368,3,151,67,1,198,174,95,67,854,151,80,619,219,267,194,264,57,37,319,3,2,388,420,12,199,142
+Banking	22,396,522,59,129,739,722,260,222,644,813,328,40,759,656,112,404,119,368,3,151,67,1,198,174,95,67,854,151,80,619,219,267,194,264,57,37,319,3,2,388,420,12,199,142,68,82
 Banking Accounting	12231
 Banking Act	5687,1251,907,139,2148
 Banking Act Through Urban Saving Schemes	12297
@@ -48,11 +49,13 @@ Banking Bantoo Blog	9993
 Banking Circular No. for Refugees	12297
 Banking Commission Secretary General	6938
 Banking Commission WAMU Financial Markets Authority	6938
+Banking Details	12342,55,3
 Banking Former Safaricom	3621,343,1408,102,1054
 Banking Hall	11134
 Banking Industry Persons	12231
-Banking Institutions Act	3714
+Banking Institutions Act	3714,8651,9,73
 Banking Network	10775
+Banking Ombudsman	12343
 Banking Ombudsman Office	11134
 Banking Sector	11131,3,151
 Banking Sector Despite	11134
@@ -61,13 +64,15 @@ Banking Sector Indicators Capital AdequacCyapital Adequacy	11134
 Banking Sector Indicators Capital Adequecy Asset	11131
 Banking Sector Supervision	11131
 Banking Service	11939
-Banking Services	10759,76,2,1,130,902,16,1,1,1,264,1,9
+Banking Services	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1
 Banking Services Absence of Undue Influence Freedom	10759
 Banking Services Achieve	11131
-Banking Services Labour Relations Secure Employment	10759,78,1315
-Banking Services Property Rights	10835,3,130,902,16
+Banking Services Labour Relations Secure Employment	10759,78,1315,188
+Banking Services Property Rights	10835,3,130,902,16,466,1
 Banking Sidney Jele Legal	11131,3
 Banking Subscribers	4517
+Banking Supervision	12444
+Banking Supervision MNO Mobile Network Operator	12444
 Banking Supervision Office	11134
 Banking Supervision and Financial Stability	8377
 Banking System Opens Direct Yuan	9387
@@ -90,6 +95,7 @@ Business Banking	3895
 Business and Commercial Banking	8974
 CBE Banking Hall	11134
 CBN Open Banking Framework	4848
+Cellphone Banking	12447
 Central African Banking Commission	10967
 Central Bank of Egypt Community of African Banking	6938
 Central Bank of Nigeria Banking Sector Reform	10
@@ -108,6 +114,7 @@ Core Banking System	7783,30,79
 Corporate and Investment Banking	8974
 Course Fundamentals of Central Banking Exchange Control	11131
 Cross-Border Banking Supervision Chaired	6938
+Currency Management and Banking Operations Department	12477
 Currency and Banking	11134
 D. BANKING DETAILS Name of Bank	4896
 DANGOTE CEMENT Banking Engineering	11884
@@ -168,11 +175,12 @@ Mozambican Banking Association	7734
 Mozambican Banking Association and INTIC	2601
 Mozambique Banking	7735
 NBE Banking Supervision Director Frezer Ayalew	7909
+NSI. The Banking Division	12364
 National Banking College	7341
 National Treasury Safetyweb Banking System	10809
 National Treasury-owned SafetyWeb Banking System	10809
 Offshore Banking	3364
-Open Banking	2276,1115,1457,1512,3877,894,3
+Open Banking	2276,1115,1457,1512,3877,894,3,1209
 Open Banking Framework	6757,4374,3
 Open Banking Guidelines	4848
 Open Banking Operational Guidelines	4848
@@ -180,6 +188,7 @@ Open Banking and Open Finance	10385,647
 Oracle Flexcube Private Banking	3279,85
 Oui Oui Banking	11944
 PAYMENT SYSTEMS ACCESS POINTS Mobile Banking	4517
+Participant’s Core Banking System	12364
 Performance of Banking Sectors	6938
 Permit SABRIC South African Banking Risk	11986
 Personal and Private Banking	8583,391,1244

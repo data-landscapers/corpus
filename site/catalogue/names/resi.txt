@@ -59,6 +59,7 @@ Capital and Resilience Project Environmental and Social Risk	10768
 Cartão de Residente	11383,21
 Category and Residency	2775
 Certificado de Residência Fiscal	11435
+Certificate of Residence	12333
 Chief Resident Magistrate	12174
 Chief Resident Magistrate Court Lilongwe Area	12174
 China Macao SAR Resident Identity Card	10714
@@ -85,6 +86,7 @@ Commission’s Cyber Resilience Framework	9117
 Communication Infrastructure Resilience Tiers	10721
 Companies Tribunal Resignation	3714
 Components Resilient Digital Infrastructure Baseline Actual	4688,3189
+Comprehensive Planning and Climate Resilience	12399
 Coordenador Residente	11108
 Coordenadora Residente	9260,2703
 Cornerstone of Resilient Digital Systems	1368
@@ -243,6 +245,7 @@ PRESIDENCIAL TOTAL TO DE RESID. PRESIDENCIA	4209
 Partners Exchange Point C- Connectivity Resilience	7548
 Payments System Resilience	4848
 Percentage Distribution of Residential Properties	2775
+Permanent Resident Permit	12337
 Permanent Residents	2115
 Phase II Innovation Building Resilient Digital	11469
 Place of Residence Urban Place of Residence Rural	10829
@@ -256,6 +259,7 @@ Prevention and Resilience Allocation SEA Standard Bidding	10964
 Principal Fragility and Resilience Officer	11863
 Project Design Conditions for Effectiveness Residual Risk	10829
 Project for Resilience and Integrity	8860,352
+Proof of Residency Only	12350
 Proportion of Residential Properties Advertised and Sold	2775
 Prospect Pension Owned Vacant Residential	4896
 Protection and Resilience of Critical Infrastructure	3604
@@ -280,6 +284,7 @@ RPPI Residential Property Price Index SARB	11286
 Recommendations for Submarine Cable Resilience	5681
 Recovery and Resilience Framework	1155
 Reforço da Resiliência	11406
+Regularization of Status of Certain Residents of Namibia	12337
 Rep. Resident Register	10714
 Report CM-CIR.S7 Resilience	10721
 Representante Residente	758,8502
@@ -287,7 +292,7 @@ Representing the UNDP Resident Representative	3895
 ResiTchad	10841
 Residam	10754
 Reside	11314,33
-Residence	1219,306,1250,7990,10,66,1304
+Residence	1219,306,1250,7990,10,66,1304,193,75
 Residence Address. If the Reporting Financial Institution	11233
 Residence Education	1828,6058
 Residence Permit	2119,8646,10,1097,67,225
@@ -305,7 +310,7 @@ Residency Programme	11487
 Residency Requirements Mandatory	6432
 Residency and Control Requirements	10157
 Residency-on-Other-Grounds Permits	2115
-Resident	573,1546,1042,5679,3306,71
+Resident	573,1546,1042,5679,3306,71,110,118
 Resident Advisor	12225
 Resident Alien	10775
 Resident Coordinator Ms Wenyan Yang	9708
@@ -325,10 +330,13 @@ Resident Representative	158,6178,1366,19,953,631,461,1505,274
 Resident Representative Aissatou Diallo	1751
 Resident Representative of UNDP	5356
 Resident Services Agency	12222
+Resident of Swaziland	12405
 Resident of Zimbabwe	736
 Residente	10754
 Residentes	4209,7809
-Residential	718,2057,483,229,745,980,1680,531,3706,443,184,477
+Residential	718,2057,483,229,745,980,1680,531,3706,443,184,477,136,20,10,37
+Residential Address	12410
+Residential Child Care	12373
 Residential Houses	11129
 Residential Lite	4232,980,1680
 Residential Plan	5874
@@ -341,6 +349,8 @@ Residential Property Price Index Residential	11286
 Residential Property Prices	2775,8511
 Residential Property Prices Indices	11286
 Residential Workshop	6077
+Residential and Hazardous Occupancies	12389
+Residential and Postal	12374
 Residential-Property-Price-Indices-RPPIs-and-related-housing	11286
 Residents	2775,1002,1,1621,1629,744,950,116,1114,82,114,5,112,985,617,205,74,63
 Residents Association Treasurer	736
@@ -362,13 +372,14 @@ Residência	10749,7,1,20
 Residência Fiscal	11383
 Residência Urbana	10757
 Residências	11416
-Resignation	3714
+Resignation	3714,8650
 Resignations	11134
 Resili	9123
 Resilien	9123
 Resilience	789,153,28,1369,287,486,401,91,517,1791,256,264,1012,104,309,1814,288,762,120,123,167,2,129,113,91,494,44
 Resilience Action Network Africa	4674,3805
 Resilience Assessment	11469
+Resilience Building	12356
 Resilience Building CSO Civil Society Organisation	970
 Resilience Centre	11033
 Resilience Gap Recent	5913
@@ -436,6 +447,7 @@ Rukungiri Deputy Resident District Commissioner	7772
 Rukungiri Resident District Commissioner	7772
 Rural and Resilience Global Practice. Financing	12137
 Ruwa Stands Pension Owned Vacant Residential	4896
+Rwandan Residents	12445
 SYSTEM FOR HUMAN CAPITAL AND RESILIENCE	10768
 Sectoral Resilience	4610
 Security and Resilience	1554
@@ -455,6 +467,7 @@ Stoneridge Pension Owned Vacant Residential	4896
 Strenghtening Climate Resilience	8891
 Strengthen Digital Resilience	10587
 Strengthen Digital Resilience TechAfrica News	6657
+Strengthen Financial Capability and Resilience	12460
 Strengthen Submarine Cable Resilience	7199
 Strengthening Regional Resilience	5677
 Strengthening Regional Resilience Beyond	5677
@@ -464,6 +477,7 @@ Strengthening the Resilience of Critical Infrastructure	5677
 Sub Marine Cable Resilience	5680,1
 Sub Marine Cable Resilience Following	5680
 Submarine Cable Resilience	5950,1249,124
+Subsidies and Grants for Residential Child Care Facilities	12373
 Summerfields EWZL Residential	4896
 Supply Chain Resiliency Initiative	4447
 Supply Resilience	7548
@@ -501,6 +515,7 @@ UN Resident Coordinator	2545,3197,3012
 UN Resident Coordinator Let	10210
 UN Resident Coordinator's Office	7749,2193
 UN Resident Coordinator’s Office	10776
+UNDP Chief Digital Office UNDP Resident	12384
 UNDP Deputy Resident Representative	8531
 UNDP Eswatini Resident Representative	1953
 UNDP Malawi Deputy Resident Representative	3820

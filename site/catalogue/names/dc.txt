@@ -22,7 +22,8 @@ CGSI PSDI DCEI GTEI Ilustração	11569
 CRVS Civil Registration and Vital Statistics DCI	11133
 Central Bank of Nigeria DCMS	11861
 Chief Technology Officer DC Data Centre	6432
-Colo Colocation DC Data Center DIF	10781
+Civil Registration Vital Statistics and Identity DCR	12337
+Colo Colocation DC Data Center DIF	10781,1646
 Colocation NDC National Data Center DC	3184,1,1340,6470
 Commercialisation DCCB	10975
 Connectors for DC-application	11269
@@ -133,6 +134,7 @@ DCP Jubilee Wiper DAP-K Other None	7869
 DCP. Such	7869
 DCPMI	12232
 DCPMIs	8078,100,4054
+DCR. Customary	12337
 DCRNPI	1963,2294,579,2808,217,70
 DCRNPI Director General Simon Majur	1963
 DCRP-MCCAT	11123
@@ -188,7 +190,7 @@ Founder of IBTC DC Academy	11491
 GTMI CGSI PSDI DCEI GTEI	10785
 Gachagua’s DCP	11084
 Green DC	4833
-H Street NW Washington DC	4214,6571,56,135,295,603,5
+H Street NW Washington DC	4214,6571,56,135,295,603,5,467
 IBTC DC Academy	11491
 ICASA and DCoG	5872
 Implement DCI	11133
@@ -200,7 +202,7 @@ Kinshasa Tier-III DCs	1845,13
 Konza DC	2965,3465,157
 LTH COORPORATION Dcccm	4301
 Lefaso.net DCRP	4882
-Live DC	3184,1,1340,6256
+Live DC	3184,1,1340,6256,1646
 MIT DCI	12048
 MTN Sifiso Dabengwa DC	6735
 MW DC	1227
@@ -208,7 +210,7 @@ MW DC Campus	1639
 MW NA NA Live DC	10995
 Merges Paratus's DC3	1227
 NC4 and DCI	3983
-NW Washington DC	10976,898
+NW Washington DC	10976,898,472
 National DCS	8249
 No. A DCSP	6940
 OADC Texaf DC	6238
@@ -249,7 +251,7 @@ UDA ODM Wiper Jubilee DCP	7869
 V DC	11269
 Visa and MasterCard’s DCC	11955
 Wahington DC	5242
-Washington DC	445,577,16,688,588,118,153,11,212,2434,198,822,4452,49,102,36,63,21,164,109,314,295,14,1
+Washington DC	445,577,16,688,588,118,153,11,212,2434,198,822,4452,49,102,36,63,21,164,109,314,295,14,1,450
 Washington DC. Liscence	12255
 Washington DC16	748
 Washington of Kenya. International Journal of Advanced DC	12297

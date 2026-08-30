@@ -17,6 +17,9 @@ Effectiveness GDP Gross Domestic Product RFS	3184,1,1340,6470
 Energy Independent Power Procurement Programme RFP	11228
 Enterprise XDS RFC	1009
 FHIR RFC2616 RFC4627 RFC6585 RFC5424 RFC3339	1009
+Figure RF.01	12367
+Figure RF.02	12367
+Figure RF.04	12367
 IDA-E2020-001 RFP	7951
 IETF RFC7159	1009
 IMT RFSAPs	7828
@@ -27,6 +30,7 @@ Kuito-l rft.lis	11405
 Le Rfu	6795
 May. RFIs	11685
 Mobile Care Services IETF RFC7159	1009
+Non-eligible RFPs	12400
 Open Open Engineering Review RFQ International	11525
 Open Open Review RFQ Engineering and International	11525
 PDF RFC	1009
@@ -89,10 +93,13 @@ RFID Journal	8776
 RFID and EAS	736
 RFID-enabled	8296
 RFLD for West and Central Africa	8318
+RFP Conditions	12400
 RFP FOR PROVISION OF TRANSACTION ADVISORY	5793
+RFP NUMBER	12400
 RFP Number	11240
 RFP Part C	11240
 RFP Part D	11240
+RFP Registration Form	12400
 RFP Wireless Infrastructure for AUC Final	7951
 RFP for Implementing	10822
 RFP. Accordingly	11240
@@ -119,6 +126,7 @@ Request for Proposals The RFP	11134
 Retrieve Information for RFC1738	1009
 RfP Request for Proposal UNHCR United Nations	11986
 Rfieda	7759
+Rfuwnadnindga	12351
 RfxEvent	8726
 Russophonie Afrique. See RFI	4127
 SITA RFB	7514
@@ -126,7 +134,7 @@ SMART CITY FACILITIES RFP NO. PPPD	5793
 Serviço Regional Tributário RF	11435
 Smart Africa Secretariat RFP	4050
 Sociale Stratégique RFU Registres Fonciers Urbains	10876
-Usage Effectiveness RFS Ready For Service	10781,80
+Usage Effectiveness RFS Ready For Service	10781,80,1566
 Web. Subject Data Definitions RFC1510	1009
 White RFID Plastic Cards	11955
 XDS RFC	1009

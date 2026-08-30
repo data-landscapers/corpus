@@ -3,7 +3,7 @@ ACLED Armed Conflict Location	11887,267
 ACM Conference	11050,85
 AEAA Annual Conference	10675
 AI Everything- Gitex Kenya Conference	6299
-AIDS UNCTAD United Nations Conference	10759,78,1052
+AIDS UNCTAD United Nations Conference	10759,78,1052,451
 APPEL D’OFFRES AVEC CONCOURS Conformément	10876
 APRECIAÇÃO DA CONFORMIDADE DOS REQUISITOS FORMAIS	11461
 ARCEP-200521 Conforme IC-78 Conforme	998
@@ -14,14 +14,15 @@ ATU Conference of Plenipotentiaries	6488,1074,321,920,864
 ATU Conference of Plenipotentiaries. Dr Bosun Tijani	8241
 ATU Plenipotentiary Conference	7876,1880
 Abdelatif-Rahal International Conference Center	4168
-Absence of Armed Conflict	10759,76,2,1,130,902,16,1,1,1,263,1,1,9
-Absence of Armed Conflict Absence of Violence	10837,1315
+Absence of Armed Conflict	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1
+Absence of Armed Conflict Absence of Violence	10837,1315,188
 Absence of Armed Conflict1	11889
+Absence of Armed Conflict2	12352
 Academic Conferences International	9237
 Accountability Configuration	8283
 Accountability Configuration. Stage	8283
 Accountant General’s Conference Hall	7475
-Acronyms ACLED Armed Conflict Location	10759,76,2,1,130,902,16,3,264,10
+Acronyms ACLED Armed Conflict Location	10759,76,2,1,130,902,16,3,264,10,177,1,11,1
 Additional Confirmations	5903
 Addressing the Zimswitch Payments Conference	7880
 Advise the Conference of Regulators and Executive Committee	5680
@@ -45,6 +46,7 @@ African Union Conference Center and Office Complex	6003
 Afrique Centrale CIMA Conférence Interafricaine des Marchés	10965
 Afrique Centrale COP Conférence des Parties	10975
 Agent Conference	10249
+Aggregation Conflicts	12360
 All Africa Conference of Churches Data Processor	7167
 All Confidential and Classified	3861
 All-Party Conference	10363
@@ -63,7 +65,8 @@ Aplicativo CONFIN	4209
 Applications Conference	8604
 Appointment and Confirmation	3861
 Arab Civil Status Conference	10521
-Armed Conflict	10835,3,130,902,16
+Armed Conflict	10835,3,130,902,16,466,1
+Armed Conflict1	12353
 Australasian Conference	5349
 Authority. The Video Conference	8616
 Avaliação da Conformidade	11381
@@ -106,6 +109,7 @@ CONFERÊNCIA EM DAKAR A Universidade Agostinho	11411
 CONFIDENCE GAP Trust	11138
 CONFIDENT SUFFICIENT IS NOT CONTENT CONTACTING	11964
 CONFIDENT SUFFICIENT NOT RELEVANT CONTENT CONTACTING	11004
+CONFIDENTIAL	12339
 CONFIDENTIALITY	4153,7087
 CONFIDENTIALITY OF INFORMATION	11181
 CONFIDENTIALITY Personal	1243
@@ -135,6 +139,7 @@ Climate and Conflict. Annual Review of Economics	10963
 Cloud de Confiance	3787
 Committee Harare International Conference Centre Information	1154
 Companies Tribunal Conflicting	3714
+Computational Conflicts	12360
 Computers Conference	9237
 Conclusion Building the Architecture of Confidence	11138
 Conclusion Building the Architecture of Confidence Nigeria	11138
@@ -150,7 +155,7 @@ Confederazione Svizzera	1243
 Confer	7548
 Confere	12119
 Conferen	6612
-Conference	325,246,583,942,1487,746,361,137,853,808,50,408,847,91,54,12,1117,170,668,153,85,692,3,130,166,1,5,16,40,14,75,575,10,16,367
+Conference	325,246,583,942,1487,746,361,137,853,808,50,408,847,91,54,12,1117,170,668,153,85,692,3,130,166,1,5,16,40,14,75,575,10,16,367,99,1
 Conference Hall Superstructure Construction	11134
 Conference Leadership	4528
 Conference Preparatory Committee	6488,1074
@@ -165,7 +170,7 @@ Conference and Exhibition	2541
 Conference of Arab Civil Status and Civil Registry	10521
 Conference of Central African Telecommunications Regulators	5158
 Conference of Financial Institutions	1644
-Conference of Ministers	5789,1208,3719
+Conference of Ministers	5789,1208,3719,1622
 Conference of Parties	11011
 Conference of Plenipotentiaries	7669,124,32,58,1,54,12,96,71,124,255,1171
 Conference. Guided	7874
@@ -174,12 +179,14 @@ Conference. The Union	7793,90,1,66
 Conference202 Mutsagondo	1248
 Conference202 Nani	1248
 Conferences	961,8944,1681
+Conferences Research Grants Students CS Dept	12361
 Conferences of Plenipotentiaries	7938
 Conferencia Económica Nacional CIC	1701
 Conferencia Internacional	6613
 Conferencia Mundial de Radiocomunicaciones	8881
 Conferencia de Correos	4209
 Conferencia de Jefes de Estado	4209
+Confers	12337
 Conferência	2816,9281
 Conferência Anual	11454
 Conferência Anual DHIS2	11454
@@ -221,6 +228,7 @@ Confiança Digital	8487
 Confiança. Acautelam-se	11569
 Confidence	7611,1111,84,511,996,140,7,546,132,629
 Confidence Building Measures	2117
+Confidence Intervals	12403
 Confidence Mr Acheampong	7558
 Confidence and Security	395
 Confidence and Security of Networks and Services	395
@@ -229,7 +237,7 @@ Confidencialidade	15,11057,292,19,36,11,3,9,10,4,63
 Confidencialidade da Informação	11438
 Confident	3691,7440
 Confidenti Limited	11952
-Confidential	34,3827,269,1535,758,2683,18,2107,630,125,9,265
+Confidential	34,3827,269,1535,758,2683,18,2107,630,125,9,265,77,2,35
 Confidential Asset Standard Comment Rationale Data	9124
 Confidential Asset Standard Comment Rationale Framework	9124
 Confidential Attributes Symbol Example Process Name	9124
@@ -243,9 +251,11 @@ Confidential S3er.vCicoensnOefcfetriivnigtys	4130
 Confidential S6er.vOicpeesrOaftfoerrinPgrsofiles	4130
 Confidential Supported	9124
 Confidential Thank	4130
-Confidentiality	11,225,725,258,419,1137,728,211,147,26,85,182,13,35,15,43,41,48,1003,313,1883,582,734,33,1653,429,199,778,229,117
+Confidentiality	11,225,725,258,419,1137,728,211,147,26,85,182,13,35,15,43,41,48,1003,313,1883,582,734,33,1653,429,199,778,229,117,36,21,41
 Confidentiality Integrity and Availability	11956
 Confidentiality Security Transparency Transfer Accoutability	1243
+Confidentiality and Cyber Security Management	12364
+Confidentiality and Cyber Security Management The BoZ	12364
 Confidentiality and Data Protection	2806
 Confidentiality and Non-Disclosure Agreement	9211
 Confidentialité	1801
@@ -254,17 +264,18 @@ Confier	8891
 Configs	10848
 Configurable	6985
 Configurar	10783
-Configuration	977,2863,4111,1286,1896,819
+Configuration	977,2863,4111,1286,1896,819,448
 Configuration Documentation	5665
 Configuration Files Overview	5665
 Configuration Management	9123,1598
 Configuration Options	5665
 Configuration Power Capacity	736
+Configuration of FHIR-based	12458
 Configurational Theory of Architecture	5700
 Configuração	10747,36,1118
 Configuração Geométrica	11384
 Configuração da Carteira de Projectos	10783
-Configure	6432,4585
+Configure	6432,4585,1383
 Configuring	11995
 Confirm	11002,274,601,109,171,145
 Confirm Delete	11276
@@ -295,7 +306,7 @@ Confiscation	4420
 Confisqués	6959
 Confisqués BRICS Brésil	6959
 Conflating	3160,6832
-Conflict	736,53,72,109,249,1,44,20,165,365,53,20,101,530,257,787,21,1,20,523,2023,797,1429,763,477,123,1029,12,49,12,99,23,1,237,109,107,51,57,35,345,71,243,27,3,4
+Conflict	736,53,72,109,249,1,44,20,165,365,53,20,101,530,257,787,21,1,20,523,2023,797,1429,763,477,123,1029,12,49,12,99,23,1,237,109,107,51,57,35,345,71,243,27,3,4,136
 Conflict Between	762
 Conflict Financing	11855
 Conflict Management	6946
@@ -303,7 +314,7 @@ Conflict Research	6947
 Conflict and Violence	969,10499,1,76,322
 Conflict and Violence FMIS Financial Management Information	969
 Conflict and Violence GDP Gross Domestic Product	11545
-Conflict of Interest	5903,2963
+Conflict of Interest	5903,2963,3534
 Conflict of Interest A Director	585
 Conflict of Interest Declaration. Applicants	9198
 Conflict of Interest Policy	8866
@@ -319,7 +330,7 @@ Conflict-of-Interest Policy	6946
 Conflict-phase	8201
 Conflict-related	3583
 Conflicting	3714,733
-Conflicts	4381,3167,2004,407,2031,243
+Conflicts	4381,3167,2004,407,2031,243,127
 Conflicts of Interest	5349,5679,899
 Conflicts of Interest None	1824,9095,1106
 Conflit	6959,696,3203,18
@@ -346,6 +357,7 @@ Conformité Sécurité Des Systèmes D’Information Et	11034
 Conforms	5665
 Conformément	17,291,427,50,213,187,2,1155,214,394,376,1037,57,1,262,1070,206,136,1809,89,894,4,396,55,632,397,450,55,99,969,65,34
 Conforter	8891
+Confounding Conflicts	12360
 Confronted	9399
 Confronting	3583,3107,3645
 Confronting AI Poverty	10726
@@ -401,6 +413,7 @@ Continuous Conferences	958
 Contribuinte. Declaração de Conformidade	11435
 Corporate Confidential Data	11995
 Crisis Conflict	10819
+Crown Conference Hall	12358
 Cultural Confidence	11138
 Cultural Confidence Consumer	11138
 Cultural Confidence Primary	11138
@@ -486,6 +499,7 @@ GHz SON-UBI-AF5-ARCEP- Conforme	998
 GHz WHH-UBI-M5-ARCEP- Conforme	998
 General Authority for Exhibitions and Conferences	8770,709
 General Conference	6612
+Generalization Conflicts	12360
 German Confederation of Raiffeisen Cooperatives	11134
 Global Conference	6950
 Global Data Festival and Kenya Space Conference	6729
@@ -499,9 +513,11 @@ Gouvernement Conformément	10975
 Governance Conference	12289
 Governance Cultural Confidence Institutional Accou Consumer	11138
 Government of Nigeria The Conference	7950
+Granularity Conflicts	12360
 Guarantee Confirmations. Mozambique	1829
 HF CPE-COD-ENV- Conforme CODAN	998
 Harare International Conference Centre	1154
+Hardware Configuration	12364
 Hawaii International Conference	2096,6508,633
 Headline CIPS Conference	7055
 Healthcare and Pharmacy. The Conference	9420
@@ -510,6 +526,7 @@ Human Resources for Health Conference	7321
 IAEA General Conference	718
 IAWJ Biennial Conference	2626
 IC-F5000 Conforme UV-5R UV-9RPlus IC-F5062 VHF	998
+ID. Confusion	12328
 ID4Africa Conference	6229
 IDENTIFICAÇÃO ELECTRÓNICA E SERVIÇOS DE CONFIANÇA	11461
 IEEE International Conference	4432
@@ -518,6 +535,7 @@ INSTITUTIONAL SOUNDNESS TO SYSTEMIC CONFIDENCE	11138
 INSURTECH CONFERENCE Mkomazi Hall	2275
 IOP Conference Series	7278,1326
 ISACA Kampala Vice President and Conference Chairperson	10416
+IST-Africa Conference	12467
 IST-Africa Conference and Exhibition	8021
 IST-Africa Week Conference	10881
 ITU Conferences	5680
@@ -525,7 +543,7 @@ ITU Plenipotentiary Conference	6488,154,304,723,124,157,602,93,1111,1008
 ITU Plenipotentiary Conference. Maida	7562
 ITU World Radiocommunication Conference	7850,1442
 ITU's World Radiocommunication Conference	8089
-ITUC International Trade Union Confederation	11887,266,1,9
+ITUC International Trade Union Confederation	11887,266,1,9,178
 ITU’s World Telecommunication Development Conference	11424
 Inaugural RSTI Conference	1154
 Indicators of Conference Tourism	2775
@@ -541,12 +559,13 @@ Inovação Confiança	11569
 Instituição. Informação Confidencial	11377
 Institute of Peace and Conflict Studies	2518
 Institutos Confúcio	11564
+Integrity Conflicts	12360
 Integrity and Confidentiality	12185
 Inter-African Conference	6938
 Interdictions Conformément	10836
 International Anti-Corruption Research Conference	9397
 International Business Conference	4432
-International Conference	226,673,1016,178,3,720,1311,1222,2410,263,7,395,180,2,522,76,33,183,10,106,203,278,625,514,37,17
+International Conference	226,673,1016,178,3,720,1311,1222,2410,263,7,395,180,2,522,76,33,183,10,106,203,278,625,514,37,17,1157
 International Conference Center Bola Ahmed Tinubu	6488
 International Conference Centre	8046
 International Conference Centre Seychelles	10307
@@ -598,11 +617,13 @@ MSF-PRO-GDS-ARCEP- Conforme	998
 MWC Confirmed Mupita	5752
 Mandevu Farm Conference Centre	10412
 MboaTech Conference	6655
+Measurement Conflicts	12360
 Media and Security Conference	6278
 Miatta Conference Centre	10328
 Miatta Conference Hall	5276
 Middle East Conflict	11285
 Minimising Conflict of Interest	11250
+Minimum Workstation Configuration Requirements	12364
 Minister Confidential	3714
 Ministerial Conference	10,2107,3454,4334
 Ministry's Conference Room	10603
@@ -616,6 +637,7 @@ Mulungushi International Conference Centre	6950
 Murkomen Confirms URL	12313
 NPT Review Conferences	11210
 NVIDIA Network Configuration Blueprint	5266
+Naming Conflicts	12360
 National Assembly. Confidential	3714
 National Communications Conference	6771,4,22,4162
 National Conference	5030,4546,832,1452
@@ -649,9 +671,10 @@ POPULATIONS Conformément	2342
 PROCEDURE D’ENCHERE ELECTRONIQUE Conforme	10876
 PRÉAMBULE Conformément	8891
 PTML Conference Hall. Deputy Comptroller Nura	8278
-PUBLIC ADMINISTRATION Absence of Armed Conflict	10835,3,130,902,16
+PUBLIC ADMINISTRATION Absence of Armed Conflict	10835,3,130,902,16,466,1
 PURPOSE Confirm	11156
 Pacific Asia Conference	9128
+Pan African Conference	12361
 Partagez Confiance	743
 PayShap Accelerate Acceptance Conference	6286
 Pelouro de Política Fiscal da Confederação	8003
@@ -680,6 +703,7 @@ Procurement At the Suppliers Conference	9781
 Programa Nacional de Avaliação da Conformidade	11381
 Programa de Conferencias de Alto Nivel	4209
 Promoção da Conformidade	11555
+Protect Privacy and Confidentiality	12419
 Préambule Conformément	1649
 Prévention des Conflits	643
 Public Confidence	11134
@@ -701,6 +725,7 @@ Regional Conference	9660,637
 Registration Confirmation Receipt	10765
 Relai VHF VHF SAM-MOT-SLR-ARCEP- Conforme	998
 Renewable Energy Business Conference	6743
+Representation Conflicts	12360
 Research Conference	1264
 Resolução Administrativa de Conflitos	11520
 Resolução de Conflito. Decreto	11519
@@ -713,7 +738,7 @@ SA Investment Conference	4511,1110,531
 SAAPAM Annual Conference	11224
 SACCOS CONFERENCE Selous Hall	2275
 SADC RTGS End User Conference	11134
-SAFETY Absence of Armed Conflict	10759,78,1052
+SAFETY Absence of Armed Conflict	10759,78,1052,451
 SAFETY Absence of Armed Conflict Absence of Violence	10759
 SAM-MOT-DM4- Conforme ARCEP-25052021	998
 SAMEA Biennial Conference	11224
@@ -730,9 +755,10 @@ Safaricom. Confirming	7567
 Sala de Conferencia de Luba Malabo	4209
 Salle de Conférence	4989,4679
 Schedule Video Conference	11877
+Schema Isomorphism Conflicts	12360
 Scientific Conference and Innovation Expo	6554
 Scientific Health Conference	8614
-Score Rank Absence of Armed Conflict	10838,1048
+Score Rank Absence of Armed Conflict	10838,1048,454
 Second International Conference	10082
 Second Ministerial Conference	2117
 Second National Conference of NIRA	10521
@@ -750,15 +776,18 @@ Should the Conference	6612
 Sir Dawda Kairaba Jawara International Conference	7823,1491
 Sistema Regulador de Conflictos	1701
 Social Conflict	12253
+Software Configuration	12364
 Somalia. Conflict	5225
 South Africa Investment Conference	4511,1110
 South Africa Investment Conferences	11245
 South African Investment Conference	5621,531
 South African Journal of Higher Knowledge Conference	9128
 Southern African Development Coordination Conference	9959
+Spatial Domain Conflict	12360
 Sports BDFX BD Conferences BD Foundation	9750,247
 Stability and Conflict Prevention Thematic Programme	970
 Standard Bank Anti-Financial Crime Conference	3439
+Structural Conflicts	12360
 Subvención Conferencia Episcopal	4209
 Suppliers Conference	9781
 Swiss Confederation	1344,10242
@@ -774,20 +803,20 @@ Tercera Conferencia Económica Nacional	1701
 Third International Conference	3583,7610
 Third UN Conference	10844
 Tokyo International Conference	7016
-Trade Union Confederation ODW Open Data	10759,78,1052
+Trade Union Confederation ODW Open Data	10759,78,1052,451
 Traditional Methods of Conflict Management and Resolutions	1248
 Treatment of Confidentiality	4610
 Twenty-third Americas Conference	4432
-UCDP Uppsala Conflict Data Program	11887,266,1,9
-UCDP Uppsala Conflict Data Program UN	10759,76,2,1,130,902,16,3
+UCDP Uppsala Conflict Data Program	11887,266,1,9,178
+UCDP Uppsala Conflict Data Program UN	10759,76,2,1,130,902,16,3,451,12,1
 UEFA Conference League	8896
 UK. UK Government. United Nations Conference	11879
 UN Conference	4127,6591,126
 UNCTAD United Nation Conference	2775
-UNCTAD United Nations Conference	1264,6284,4339,266,1,9
+UNCTAD United Nations Conference	1264,6284,4339,266,1,9,178
 UNECA Conference of Ministers	5789
 USE MOBILE CONFIDENT SUFFICIENT READING	11964
-Union ITUC International Trade Union Confederation	10835,3,130,902,16
+Union ITUC International Trade Union Confederation	10835,3,130,902,16,466,1
 United Nations Climate Change Conference	10768,804
 United Nations Climate Change Conference DRE	11572
 United Nations Conference	236,1007,21,2863,241,876,2304,1397,1773,105,18,3,1361
@@ -807,6 +836,7 @@ WTO Ministerial Conference	5571
 West African Postal Conference	10509
 Women Absence of Armed Conflict Absence of Forced	10759
 Women Slowing Deterioration Absence of Armed Conflict	11870
+Workshops and Conferences	12356
 World AI Conference	8740,498,578
 World AI Conference Algeria	2311,24,2424,534,613,107,100,280,14,352,339,157,80
 World AI Conference and High-Level Meeting	10945
@@ -817,13 +847,15 @@ World Internet Conference Digital Silk Road	7835,25
 World Radio Communications Conference	5245
 World Radiocommunication Conference	5680,913,481,753,153,109,84,1608,1449
 World Radiocommunication Conferences	11023
-World Radiocommunications Conference	5680
+World Radiocommunications Conference	5680,6715
 World Telecommunication Development Conference	4132,4813
 X X Conflict	789
 XII Conferência Científica da UEM	2816
 Xpatweb Annual Global Mobility Conference	7569,1681
 Xpatweb Annual Global Mobility Conference Programme	7569
 ZAMBIA’S BUSINESS CONFIDENCE INDEX SCORE	5247
+ZIPSS Webstation Configuration	12364
+ZIPSS Webstation Configuration Each Participant	12364
 ZimSwitch Payment Conference	7781
 Zimbabwe Annual Telecommunications Conference	5727
 Zimbabwe’s AI and Cyber Conference	7780

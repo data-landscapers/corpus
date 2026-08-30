@@ -74,13 +74,14 @@ Launching the Governance Series Wave	9205
 Lengo la Serikali	1921
 Lilongwe Series	12253
 M IFC-led Series B	1058
-M Series	265,28,98,138,402,3,613
+M Series	265,28,98,138,402,3,613,10792
 M Series A Jun	934
 M Series A. IATI	2141
 M Series A.5	1047
 M Series B	264,32,415,346,77,2,2,1
 M Series C	606,324,509
 M Series C for MFS Africa	606
+M Series D	12339
 M. Series B	10954
 M. Serigne Ahmadou Bamba SY	8313
 M. Serigne Ahmadou Bamba SY. C’est	8313
@@ -129,9 +130,9 @@ SMART SATA II HDD Serial	34
 Saalam Serikali	1921
 Sabi Series B	1138
 Seattle Coffee Company and Bootleggers. The Series	10279
-Seed and Series	1473
+Seed and Series	1473,10866
 Seri Kembangan. Computer Science	9129
-Serial	736
+Serial	736,11602
 Serial ATA	34
 Serial ATA-600 Serial ATA	34
 Serial Bus USD United States Dollar	2775
@@ -140,22 +141,24 @@ Serial Number of MOH Equipment Model	34
 Serials Librarian	8022
 Serianu	6426,5491
 Seriche Riloha	11672
-Series	264,1,28,98,119,19,44,32,77,31,200,17,4,200,6,11,92,120,184,55,1,1,1,1,9,1,694,726,115,8,1165,133,1,96,294,35,89,216,1,1,1,1,10,12,714,227,373,65,144,278,263,200,4,457,247,512,159,182,58,39,238,385,516,4,37,148,39,293,5,21,120,12,9,20,144,16,32,20,105,21
+Series	264,1,28,98,119,19,44,32,77,31,200,17,4,200,6,11,92,120,184,55,1,1,1,1,9,1,694,726,115,8,1165,133,1,96,294,35,89,216,1,1,1,1,10,12,714,227,373,65,144,278,263,200,4,457,247,512,159,182,58,39,238,385,516,4,37,148,39,293,5,21,120,12,9,20,144,16,32,20,105,21,1018,37
 Series A	4883,5918
 Series A E-Commerce Jun	934
 Series A Series	4972,5982
 Series A The Seed	10954
-Series A and B	4722,6232
+Series A and B	4722,6232,1385
+Series A and Growth	12339
 Series A and Series	4972
-Series A and Series B	4722,6232
+Series A and Series B	4722,6232,1385
 Series A for Chari	4972
 Series A for Egyptian PropTech	4972
 Series A for OmniRetail. Nigerian	2232
 Series A-and-up VCs	7482
 Series A-grade	7482
 Series A.5	1047
-Series B	264,29,98,420,119,5,122,83,995,16,159,726,869,372,606,89,4036,1456,423,67,221,125,921
+Series B	264,29,98,420,119,5,122,83,995,16,159,726,869,372,606,89,4036,1456,423,67,221,125,921,118
 Series B The Series	10954
+Series B and Growth	12339
 Series B for South African	4972
 Series B for Tugende	935
 Series B. Companies	4972
@@ -168,12 +171,13 @@ Series D	895
 Series Editor	7886
 Series F	4972
 Series Information	10862
-Series M No	12151
+Series M No	12151,262
 Series M67rev3en.pdf UNICEF	11133
 Series of Projects	1175,2,1,1,1,1,1,95,7,583,1022,673,42,1758,1566,3840,61,135,453,143,295
 Series of Projects II	12245
 Series of Projects SSA Sub-Saharan Africa SPV	1264
 Series. Page	10964
+Series. The United Nations	12369
 Serigne Abdou Aziz Mbacké Majalis	8031
 Serigne Abdou Aziz Mbacké Majalis. Selon	8031
 Serigne Ahmadou Bamba Sy	9369
@@ -206,12 +210,15 @@ Statement AICT000 of Code Series AICT	11235
 Statement AICT000 of Code Series AICT000	11235
 Statement AICT600 of Code Series AICT600	11235
 São Tomé and Príncipe. Series	1380
+TAKING DUTY SERIOUSLY’ United Democratic Front	12378
 THEMATIC ANALYSIS Policy Insight Series	4848
 TLcom Capital Series	529
 TREATIES AND OTHER INTERNATIONAL ACTS SERIES	1234,3068,6411
 Taifa. Amesema Serikali	11612
 Taking Fundamental Rights Seriously	5349
 Tanga SERIKALI	11643
+Token Certificate ID Serial No Renewal	12364
+Token Serial	12364
 TradeDepot Series	293
 Treaties and Other International Acts Series	1234,3013,55,6411
 Tugende's Series A. Brings	713
@@ -223,6 +230,7 @@ UCL IIPP Working Paper Series	2123
 UN REPORTS SERIOUS HUMAN RIGHTS VIOLATIONS	4127
 UNIVERSITY ACITY INSIGHT SERIES II SECURING	6936
 Ulipaji Serikalini	1261
+Universal Serial Bus	12364
 Virgilio Seriche Rilóha	11672
 Working Paper Series	5700,1522
 Working Paper Series. UCL Institute for Innovation	11006

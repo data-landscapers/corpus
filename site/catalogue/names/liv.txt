@@ -13,6 +13,7 @@ Assess the Livelihood Impact of Electricity Access. Nature	12006
 BETTER LIVING HOSPITAL LIMITED Data Controller	7167
 BETTER LIVING HOSPITAL LIMITED Data Processor	7167
 BURUNDI LIVE SOON	11002
+BeautifulSoup. Live	12454
 Better Lives for People	11469
 Birth Certificate Access Changes Lives	12227
 Blue Water Healthy Living	10373
@@ -66,6 +67,8 @@ Ethiopia's Livestock Information System	8183
 Ethiopia's Livestock Information System Digital Public	8183
 Explore Get Health Services Live Map	9429
 FOURNITURE ET LIVRAISON SERVEUR PAIE ET	9339
+Fifth Integrated Household Living Conditions	12413
+Fifth Integrated Household Living Conditions Survey	12385
 FinNeeds UNDERSTANDING PEOPLE’S LIVES Data	418
 Financial Access Strand Livelihoods	418
 Floor Livingstone Towers Glyn Jones Road	12253
@@ -77,6 +80,7 @@ Gemini Live Gemini Live	11301
 Ghana Living Standard Survey	236
 Ghana Living Standard Surveys	236
 Ghana Living Standards Survey	236
+Girls Education and Women's Empowerment and Livelihoods	12335
 Glance E-Health Goes Live	11332
 Global Action Plan for Healthy Lives and Wellbeing	12141
 Government Wants... Italian Smart Living	3256
@@ -91,12 +95,13 @@ Household Living Conditions and Poverty	10841
 Households Living Standards	11549
 IAPP LinkedIn Live	8773
 IBRD SURPLUS-FUNDED LIVABLE PLANET FUND	11417
-IBRD Surplus-Funded Livable Planet Fund	11417
+IBRD Surplus-Funded Livable Planet Fund	11417,971
 IBRD Surplus-Funded Livable Planet Fund LPF1	11417
 ICT Use and Livelihoods of Women Micro-enterprises	11994
 ID. Live	3594
 IDREA. Livelihood	10763
 IMPROVING LIVING CONDITIONS	11897
+INTEGRATED HOUSEHOLD LIVING CONDITIONS SURVEY REPORT	12403
 IV.1.4.4.3.3 Livraison	10876
 IVA. Livros	12018
 Imagine Live South Africa	9196
@@ -106,7 +111,8 @@ Improved Livelihoods	1257
 Improved Livelihoods and Financial Capability	940
 Improving Farmer Livelihoods Through Digitised Agricultural	11994
 Improving Lives. Paris	11879
-Integrated Household Living Conditions Survey	3013
+Integrated Household Living Conditions Survey	3013,9345,45
+Integrated Households Living Conditions Survey EICV	12445
 International Livestock Research Institute	8183
 International Renewable Energy Agency Living Standards	11136
 Irrigation and Livestock Development	7167
@@ -141,7 +147,8 @@ Live Birth	12151
 Live Births	10780
 Live Broadcast	3016,2546
 Live Capture	2115,1085
-Live DC	3184,1,1340,6256
+Live Chat	12454
+Live DC	3184,1,1340,6256,1646
 Live Events Among	9208
 Live Healthcare Con-	8603
 Live Healthcare Console	8603
@@ -150,34 +157,38 @@ Live Intelligence	6593
 Live News	965,3804,120,206,68,334,86
 Live Residual	4525
 Live Results	7266
+Live URL	12364
 Live the VALUES	11131
 Live-stock	11185
 Lived	12192
-Lived Poverty	10759,76,2,1,130,902,16,1,1,1,263,1,1,9
-Lived Poverty Health	10837,1052,263,11
+Lived Poverty	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1
+Lived Poverty Health	10837,1052,263,11,177,1
 Lived Poverty Public Perception of Economic Opportunities	10759
 Lived Poverty Score Rank Public Procurement	11870
 Lived Poverty Sustainable Environment	10759,1395
-Livelihood	10763,1534
+Livelihood	10763,1534,86
 Livelihood Empowerment Against Poverty	4336
 Livelihood Restoration Plan	1988,8841
 Livelihood Restoration Plan Satellite Social Specialist	1988
+Livelihood Salaried-	12460
 Livelihood Strategies of Central African Refugees	10841
 Livelihood Zones of Angola	10763
 Livelihoods	418,8282,3597
 Livelihoods Are Growing Online Livelihoods	9547
+Livelihoods Salaried-	12460
 Livelihoods Support Program	12181
 Livelihoods Training	226
 Livelihoods and Entrepreneurship	412,345
 Livelihoods and Food Security	10841
 Liveness	12047
 Liveness Detection	4292
+Liver	12413
 Liver Diseases	12151
 Livermore	8480
 Liverpool	2719,672,6485
 Lives	9959,1351
 Lives Have Been Turned Upside	6947
-Livestock	1257,731,574,4605,678,3135,544,312
+Livestock	1257,731,574,4605,678,3135,544,312,537
 Livestock Annually	10098
 Livestock Data Controller INST-1443778C6D8 KITUI Kenya	7167
 Livestock Data Processor INST-1443778C6D8 KITUI Kenya	7167
@@ -192,6 +203,8 @@ Livestock Productivity	11469
 Livestock Products and Livestock Slaughtered	2775
 Livestock Schools	11857
 Livestock Slaughtered	2775
+Livestock Support	12373
+Livestock Support Livestock	12373
 Livestock and Fisheries	11897
 Livestock and Fisheries Development	7167
 Livestock and Product Export Permit	1988
@@ -205,7 +218,7 @@ Living Labs Frontiers	11006
 Living Library	8202
 Living Natural Resources ESS	1988
 Living Standards Measurement Study	1219,10353,9
-Livingstone	4896,2118,22
+Livingstone	4896,2118,22,5413
 Livingstone Avenue	4896
 Livingstone Border Post	11112
 Livingstone EWPL Owned Offices N	4896
@@ -239,7 +252,7 @@ M LIVE IN South Asia	11004
 M P164001 Livestock Productivity and Resilience Support	11469
 MILLION OF THEM LIVE IN JUST	10977
 MOROCCO LIVE SOON	11002
-MW Live	10781
+MW Live	10781,1646
 MW NA NA Live DC	10995
 Management of Living Natural Resources Indigenous Peoples	12253
 Maria Livramento	10765,10
@@ -275,16 +288,20 @@ Persons Living	2775
 Pilot Goes Live	5984
 Primary Livelihood	10841
 Protect Livelihoods and Foster Development	10768
+REGISTRATION OF LIVE BIRTH PROCEDURE	12338
 Recorded Live Births	12005
 Registered Live Births	12151
 Reuters Liverpool	3637
 Room Live	6808
+Rwanda's Fifth Integrated Household Living Conditions	12385
 SOMALIA LIVE SOON	11002
 SSA Live	4525
 Save Lives	10374,909
 Save Lives Jun	11283
 Saving Lives	10964
 Service Manager Web and Live Capture	10619
+Seventh Integrated Household Living Conditions	12403
+Seventh Integrated Household Living Conditions Survey	12403
 SoLHD Synod of Livingstonia Health Department DHO	3791
 Social Support for Resilient Livelihoods Project	12181
 Socioeconomic Living Conditions of Refugees	10841
@@ -292,6 +309,7 @@ Sonia Livingstone	7174
 Stream Events Live	11866
 Stream Type LIVE Remaining Time	5326
 Support Plan LEAP Livelihood Empowerment Against	11855
+Supporting Women's Livelihoods	12335
 Synod of Livingstonia	3791
 Synod of Livingstonia Health Department	3791
 Synod of Livingstonia Health Facilities	3791
@@ -306,6 +324,7 @@ Transforming Lives Through Digital Access	3783
 Transforming Lives. World Bank Group	12175
 Transforming the Livelihoods of Smallholder Farmers	9624
 UNDERSTANDING PEOPLE’S LIVES	418
+USERS The Seventh Integrated Household Living	12403
 Universidade Livre de Bissau Biombo Safim Private	11552
 University of Liverpool	2308
 Urban Living Lab Way of Working	11007

@@ -53,7 +53,7 @@ Classe MF M F Bacharelato MF	10766
 Classe MF M F MF M	10766
 Classe MF M F N.º	10766
 Classe MF M F Novos	10766
-Community EU European Union F Forecast	10781
+Community EU European Union F Forecast	10781,1646
 Composante F	5370
 Cybersecurity F	7538
 D D F- Pay	582
@@ -193,6 +193,7 @@ F. E	8301
 F. Ensuite	9165
 F. Environment	11525
 F. Environmental	11965
+F. F	12467
 F. Faruqe	11140
 F. Fiduciary	10829
 F. Fintech Credit Guarantee Window	4848
@@ -233,6 +234,7 @@ F. The AI Effect Could	11140
 F. Upcoming	2626
 F. Valera	3782
 F. Wu	11140
+F. X	12467
 F. and L.D. Omgba	1828
 Fatehi F	10784
 Fritz F	771
@@ -283,7 +285,9 @@ Lead Specialist Middle Analyst Management F	11131
 Licenciatura MF M F Angola	10766
 Licenciatura MF M F N.º	10766
 M F Angola Bengo Benguela Bié	10766
+M F Number Number	12358
 M F Pública	11387
+M F Total M F	12358
 M. F	1828,988
 MF M F	10766
 MF M F Angola	10766
@@ -303,6 +307,7 @@ Mapa F	4505,1,4
 Matriculados Aprovados Reprovados MF M F	10766
 Milliards F CFA	10858
 Milliers F CFA	2966
+Mrs. Mwangala F. Zaloumis	12415
 Ms. F. Dlamini-Kunene	11131
 Ms. F. DlaminiKunene Deputy Governor Date	11134
 N. M. F	8603
@@ -310,6 +315,7 @@ Non Formelle F	10847
 None G- None D- No F-	582
 Okongwu F	11860
 Orden Cantidad F U N C	4209
+P. and Tafor V. F	12325
 PART F	11197,1,20,6,26
 PART F PFMA COMPLIANCE REPORT	11250
 PB F	10829
@@ -346,6 +352,7 @@ SHS F-	582
 STRONGER TOGETHER DATA F O R	11157
 Sabine F. Mensah	7334,816,886,984
 Sayinzoga F	771,3020
+Schedule F	12324
 Secretaria Provinciais da Educação. F	10766
 Secretario Grupo E Administrador Grupo F	4209
 Secretario Grupo F	4209
@@ -353,6 +360,7 @@ Section F	1218,25,6602
 Section I F	1284
 Series F	4972
 Soberanía F U N C	4209
+South Africa Ministry F No MinistryG	12325
 Statistiques F	7655
 Sub-Part F	7845
 TBD F Good Governance	970
@@ -372,4 +380,5 @@ X00AF000 F Servicio	4209
 YEARS Annexure F	11240
 Yang F	1219
 Yanick F	10887
+Year M F Total M F	12358
 Zastron Health Annexure F Annexure F	11986

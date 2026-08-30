@@ -57,7 +57,7 @@ DNRE National Directorate of State Revenue	11965
 DNREL	10753
 DNRN Direcção Nacional	10765,10
 DNRN National Directorate of Registries and Notary	4214
-DNRPC	1879
+DNRPC	1879,10536
 DNS Registrar	736
 DNS Security and Stability	6738
 DNS Technologies	6402
@@ -88,6 +88,7 @@ DNV KENYA LIMITED Data Processor INST-786005C16BE	7167
 DNational	5700
 DNjanja	3782
 DPRI and DNSI	6593
+Deferred Net DNS Participant	12364
 Denial of Service DNS Domain Name System	6946
 Digital Economy DNMAP National Directorate of Public	11863
 DnetvaenlodpSmkeilnlst and Skills	10157

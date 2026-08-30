@@ -39,12 +39,14 @@ Enquanto	4979,3514,1008,1050,198,4,24,6,778,16
 Enquete	10841
 Enquete Harmonisée	737
 Enquete224	2159
-Enquiries	7464,1535,35,2150,14,14,38
+Enquiries	7464,1535,35,2150,14,14,38,1115,9,73
 Enquiries Handled	6946
 Enquiries Handled Category Total Received Resolved	6946
 Enquiries Log	12041
+Enquiries PART	12365
 Enquiry Appointed	11289
 Enquiry Consumer Complaints FAQs Consumer Complaints	9109
+Enquiry Points	12389
 Enquête	419,318,232,2190,698,2643,250,209,257,439,174,37,61,103,861,385,277,720,556,45,48,43,15,925
 Enquête ANEMCAM	10965
 Enquête ARTICLE	37
@@ -57,7 +59,7 @@ Enquête Djiboutienne	11271
 Enquête FAT Note	7655
 Enquête FAT. Note	7655
 Enquête Harmonisée	737,6938,3199,675,11
-Enquête Intégrale	737
+Enquête Intégrale	737,11621,45,10
 Enquête Légère Intégrée Auprès des Ménages	9553
 Enquête Multisectorielle Continue	30
 Enquête Multisectorielle Continue EICVM	737
@@ -87,6 +89,8 @@ Modernisation des Enquête	737
 NDICE Sumário Executivo Enquadramento PARTE II	11366
 PME TPE Enquêtes	643
 Perguntas Frequentes IRPC Enquadramento CIRPC	12018
+Reports and Enquiry Facilities	12364
+Reports and Enquiry Facilities The ZIPSS	12364
 Supérieure EPAM Enquête Permanente Auprès des Ménages	12
 Telephone Enquiry Call Waiting Time for Financial	12225
 Tema Localização da Empresa I. Enquadramento	11898

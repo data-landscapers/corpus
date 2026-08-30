@@ -5,8 +5,8 @@ BIA BOA BSIC TOGO CORIS BANK	11588
 BMS BNDA BSIC MALI CORIS BANK	11588
 BOA BSIC NIGER CORIS BANK ECOBANK	11588
 BRIDGE BANK BSIC SENEGAL CBAO	11588
-BS Bertelsmann Stiftung	11887,266,1,9
-BS Bertelsmann Stiftung Cable Cable.co.uk CAHF	10759,78,1052
+BS Bertelsmann Stiftung	11887,266,1,9,178
+BS Bertelsmann Stiftung Cable Cable.co.uk CAHF	10759,78,1052,451
 BS EN	1988
 BS-0007-6913	3386
 BS-0428-5841 Brong Ahafo Digital Address	3386
@@ -56,6 +56,7 @@ BSarwar	5349
 BSaturate	5349
 BSaturation	5349
 BSc Electronics	4896
+BSc Information Science BSc Computer Science	12361
 BScale	5700
 BSchmelzle	5349
 BScholl	5349
@@ -156,12 +157,16 @@ Bstrategy&doi	4676
 Bsubmarine	3782,894
 Bsubsea	3782,894
 Bsummary	3782
-Commission BS Bertelsmann Stiftung UN-Habitat United	10835,3,130,902,16
+Commission BS Bertelsmann Stiftung UN-Habitat United	10835,3,130,902,16,466,1
+Computer Science and BSc	12361
 Council Office BSTP Cameroon Bank for Small	10980
 DI FI CL BS GU RPA	11863
+Department of Computer Science Home Programmes BSc	12361
+FSS and BSS Orbital	12395
 GateOfWise and BSC	5049
 Google Scholar BSM-Academy	11028
 Independent Evaluation Office BSG Budget Support	11863
+Information Technology BSc Computer Science Education	12361
 L'UNION BURKINA FASO BOA BSIC BURKINA	11588
 Les BSA-AIR	4567
 MYBS and BSP	4932

@@ -41,7 +41,7 @@ BLINDENMISSION CHRISTIAN BLIND MISSION E.V. Data	7167
 BOUME Missoki Azanledji	8620
 BPC MIS PIU	10964
 Banque Misr	3451
-Bhaskar Mishra	6236
+Bhaskar Mishra	6236,6101
 Bhavesh Mistry	9141,546
 Board. Miscellaneous	12145
 Butula Mission Health Centre Data Controller	7167
@@ -89,7 +89,9 @@ Criminal Justice Miscellaneous Provisions Act	11857
 Culturally Grounded Misogyny Detection Framework	7790
 Cybercrime and Computer Misuse Act	6006,1441
 Cybercrime and Computer Misuse Bill	4583
+Cybercrimes and Computer Misuse	12459
 Cybercrimes and Computer Misuse Bill	4042
+Cybercrimes and Computer Misuse Provisional	12459
 Cybersecurity and Computer Misuse Bill	4082,161
 DE LA MISE EN	113
 DE LOS VIAJES Y MISIONES OFICIALES	4209
@@ -244,6 +246,7 @@ MENER PERIODE DE SPECIFIQUES REALISATION Mise	10712
 MINTECH Ministerial Technical Committee MISA Municipal	11261
 MIP Management Improvement Plan MIS Management	11549
 MIS Handicrafts	10964
+MIS Inventory and Register Upgrade	12453
 MIS Management	11133
 MIS Management Information System M&E Monitoring	11924
 MIS Management Information System NDC Nationally	10768
@@ -255,6 +258,7 @@ MIS Q	766,10014
 MIS Quarterly	5349,471,2851,457,109
 MIS Quarterly. Sep	10919
 MIS Regular	10964
+MIS and Payment Gateway	12335
 MIS. A MIS	11855
 MIS. Project	11855
 MIS. Senegal	10991
@@ -300,7 +304,7 @@ MISS and NCPF	11196
 MISSA	1371
 MISSING AUTHORIZATION HEADER	8676
 MISSING DATA TRAINING	11860
-MISSION	718,222,191,2995,1407,6453,337
+MISSION	718,222,191,2995,1407,6453,337,35,37,4
 MISSION AND VISION STATEMENTS	4126
 MISSION AND VISION STATEMENTS Mission Statement	4126
 MISSION DE L’ADMINISTRATION FISCALE La Direction	10712
@@ -311,6 +315,7 @@ MISSION FMI	2342
 MISSION MEMBERS AND OFFICIALS	12195
 MISSION Safeguarding	1630
 MISSION The DHA	5533
+MISSION300	12399
 MISSOLE	10975
 MISTI	11909
 MISTT	11004,13,947
@@ -356,6 +361,7 @@ Miser	3395,1499
 Mises	7237,1722
 Miseshi Secondary School	3524
 Mishahara	2868,3151
+Mishan Phiri	12478
 Mishkat Salama El Khaldi	8998
 Mishler	7886
 Mishra	7759,846,1,631
@@ -369,7 +375,8 @@ Misión Cubana	4209
 Misión San José	4209
 Miskine	9918
 Misleading	8354
-Mismatch	6832
+Mismatch	6832,5588
+Misogynist Internet Trolls	12336
 Misogyny	7790
 Misomali	3791
 Misr National Broadband Plan El Salvador	11529
@@ -387,7 +394,7 @@ Miss Folashade Molehin	4809
 Miss Mojoyin Adebajo	12061
 Miss South Africa	12116
 Missidimbazi Banzouzi Luc	7793,157
-Missing	7986,450,1157,146,1105,125,183,433,299,1,10,264,1,45
+Missing	7986,450,1157,146,1105,125,183,433,299,1,10,264,1,45,146,4,24
 Missing Elderly Cases Rise	8639
 Missing Link	10726,1501
 Missing Piece	9075
@@ -396,8 +403,9 @@ Missing and Unverified Beneficiary Assets	9650
 Missing for Facebook	8436
 Missing for TikTok. Unclear	8436
 Missingdatacouldbeaddressedthroughadvanced	8606
-Mission	21,215,159,1,369,193,11,31,154,128,272,194,66,577,276,322,392,106,26,81,10,76,357,89,61,241,100,378,338,3,2244,57,429,920,379,181,178,381,2,59,635,109,53,2,10,79,10,41,115,3,2,1,81,6,13,13,39,179,1,103,282,37,9,40,4,251,46,15
+Mission	21,215,159,1,369,193,11,31,154,128,272,194,66,577,276,322,392,106,26,81,10,76,357,89,61,241,100,378,338,3,2244,57,429,920,379,181,178,381,2,59,635,109,53,2,10,79,10,41,115,3,2,1,81,6,13,13,39,179,1,103,282,37,9,40,4,251,46,15,102,61
 Mission Chrétienne	10826
+Mission Contact Us Department of Computer Science	12361
 Mission Creep	12139
 Mission Exploit	958
 Mission Impossible	1038
@@ -410,6 +418,8 @@ Mission Statement CERT-GH	775
 Mission Strategic Objectives Components Business Process	12322
 Mission The Mission	1814
 Mission and Core Values	2775
+Mission and Mandate History	12390
+Mission and Mandate History Of the Bank Departments	12390
 Mission du Groupe Régional	10812
 Mission du Ministre	9567
 Mission for Cybersecurity	1000
@@ -430,6 +440,8 @@ Missions du CERT	11139
 Missions du Gouvernement	2625
 Mississippi	7140
 Missolè	10975
+Missouri	12413
+Missouri Vital Statistics	12413
 Missão	795,3423,1445,5409,307,2,1,67,7,81,6
 Missão Regular	11415,13
 Missão da União Europeia	2315,129,1086,2027,15,247
@@ -447,7 +459,8 @@ Mistry N	771
 Mistry&volume	771
 Misunderstanding	3604
 Misunderstandings	5533,5022,1431
-Misuse	783,3878,1527
+Misuraca	12333
+Misuse	783,3878,1527,6271
 Misuse Act	12232
 Misuse and Cybercrimes	12232
 Modest. Missing RIs	10779
@@ -458,7 +471,10 @@ NATIONAL AI STRATEGY FRAMEWORK MISSION	4126
 NGO and Diplomatic Mission	736
 National AI Missions	8789
 National AI Missions Portfolio	7548
+National Audit MIS	12453
 National Bank of Egypt and Banque Misr	4324,5779
+National Education MIS	12453
+National Health MIS	12453
 National Social Registry MIS	10964
 National Social Registry. MIS	10964
 National Vision and Mission	958
@@ -553,6 +569,7 @@ Unfinished Mission	10985
 Unified Social Registry. The Project's MIS	11855
 United Nations Mission	3583
 United Nations Support Mission	10409
+Unstable MIS	12335
 Updated MIS	10768
 Upgraded Kwenda MIS	10768
 User Acceptance of Information Technology. MIS Quarterly	11927

@@ -24,6 +24,7 @@ Authority's Tripoli	5904
 Auto-scaling Triggers Implement	11952
 Autoridade Tributária	8731,1352
 Autoridade Tributária de Moçambique	12142,76
+Availability of Specialized Procurement Tribunals	12389
 BA Trim	2081,2,1,2327,2,1
 Bank Indonesia Trials QRIS Tap	11994
 Beneficios Fiscais Novos Códigos Tributários Desdobrável	12018
@@ -171,6 +172,7 @@ Justicia Fiscal Tribunal Constitucional Magistrado Corte	4209
 Justicia Fiscal Tribunal Constitucional Ministro de Estado	4209
 LASR's Tripoli	9091
 La Tribune du Faso	2074
+Lands Tribunal. Local	12369
 Le Tribunal	11019
 Legal Operational Policies Triggered	1867,8901,195,942
 Legal Service Directorate for Tax Tribunal and High	12225
@@ -355,7 +357,7 @@ Triadic	7451
 Triage	4610,514,8
 Triagem	11406
 Triagem de Subprojectos	11390
-Trial	587,422,820,1100,4370,546
+Trial	587,422,820,1100,4370,546,4534
 Trial Implementation	1009
 Trial Implementation. Thisexception	1009
 Trial Moroccan	5407,676
@@ -370,7 +372,7 @@ Trials for LLM-supported	11585
 Triangle	2888,32,354,504,1444,877,6,100,680,129,293,115
 Triangular Cooperation for Digitial Innovation Made	1423
 Triangulating	1018
-Triangulation	3791,3157,330,688,1162
+Triangulation	3791,3157,330,688,1162,3275
 Triangulo	10751
 Tribal	3761
 Tribal Heads	8820
@@ -464,7 +466,7 @@ Tridios	12297
 Tried	1150
 Trienios	4209
 Trier	1005
-Trigger	3714,2709,865,80,4807
+Trigger	3714,2709,865,80,4807,214
 Triggered	1284,2172,148,4832,2393,135,453
 Triggers	6423,5752
 Triggers of Success	8029

@@ -44,7 +44,9 @@ CHURPY KENYA LIMITED Data Processor INST-82922285585	7167
 CHUTI LIMITED Data Processor INST-705117E5FF5 KISII	7167
 COPTIC ORTHODOX CHURCH Data Controller INST-949733D557D	7167
 COPTIC ORTHODOX CHURCH Data Processor INST-949733D557D	7167
-Catholic Church	12201
+Catholic Church	12201,210
+Cell Executive Secretary CHUB	12338
+Centre Hospitalier Universitaire de Butare CHUK	12338
 Charles Chukwuma Soludo	9936
 Chijioke Chuku	10597
 Chris Chukwunyere	7027
@@ -58,7 +60,7 @@ Chuangshi Capital	605
 Chuck Schumer	10446
 Chude	6036,34
 ChuekeD. Persisting	12246
-Chui Ventures	909
+Chui Ventures	909,11430
 Chuka Technical and Vocational College Data Controller	7167
 Chuka Technical and Vocational College Data Processor	7167
 Chuka University Data Controller INST-426767550F9 THARAKA	7167
@@ -87,7 +89,7 @@ Chuo Kikuu Berkeley	5090
 Chuo Kikuu Huria	4364
 Chuo Kikuu Stanford	5090
 Chuo Mahiri	2868
-Church	2888,32,126,228,112,392,1444,877,6,100,680,129,293,115,1577
+Church	2888,32,126,228,112,392,1444,877,6,100,680,129,293,115,1577,3396
 Church Square	11289
 Church Yesuka Twe Half Marathon	11134
 Church of God	7167
@@ -95,7 +97,7 @@ Church of God Gatithini	7167
 Church of God Kamayagi Data Controller INST-930467C1703	7167
 Church of God Postmaster- General Chief Officer	11129
 Church of Jesus Christ of Latter-day Saints	8724
-Churches	11857
+Churches	11857,510
 Chutes	10975
 ChutkiAI	5367
 Cnr Of Odendaal And Church Street	8999

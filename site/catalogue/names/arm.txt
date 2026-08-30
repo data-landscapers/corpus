@@ -21,10 +21,11 @@ ARMP-4	8021
 ARMP-5 and ARMP-1	8021
 ARMP. Relation	10829
 ARMYTEX INTERNATIONAL SECURITY SERVICES LIMITED Data	7167
-Absence of Armed Conflict	10759,76,2,1,130,902,16,1,1,1,263,1,1,9
-Absence of Armed Conflict Absence of Violence	10837,1315
+Absence of Armed Conflict	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1
+Absence of Armed Conflict Absence of Violence	10837,1315,188
 Absence of Armed Conflict1	11889
-Acronyms ACLED Armed Conflict Location	10759,76,2,1,130,902,16,3,264,10
+Absence of Armed Conflict2	12352
+Acronyms ACLED Armed Conflict Location	10759,76,2,1,130,902,16,3,264,10,177,1,11,1
 Angola Dominica Argentina El Salvador Armenia	10764
 Arm's Length	11976
 Armada	6636
@@ -35,7 +36,9 @@ Arman Doskaliev	10714
 Armand Christ Kiyaloulou	11897
 Armand Hatchuel	8891
 Armand Hatchuel Ahmed Abaddi Fouad Ben	8891
+Armand M. ZINGIRO	12358
 Armand Swart	6727
+Armand ZINGIRO Chief Executive Officer Pagevii	12358
 Armande Longo	8152
 Armande Longo-Moulengui	8441
 Armando Guebuza	2667
@@ -48,7 +51,8 @@ Armazenagem de Armas Químicas	11365
 Armazenamento	6970
 Armazéns de Medicamentos Prestadores	6970
 Armed	3583,1057,2307,390,572,1707,1213,108,80,840
-Armed Conflict	10835,3,130,902,16
+Armed Conflict	10835,3,130,902,16,466,1
+Armed Conflict1	12353
 Armed Forces	5270,4779,1468,340
 Armed Forces Health Services	11401
 Armed Forces SARHO Sudanese Agency for Relief	6947
@@ -92,6 +96,7 @@ Armée-Nation	3396
 Armées	5907
 Arménie	5361,1252
 Barbuda Argentina Armenia Australia Austria Azerbaijan	11765
+Board THE EXECUTIVE MANAGEMENT Armand ZINGIRO	12358
 British Army	11783
 CONT. ARMADAS INSULAR INSULAR REG.CONT	4209
 Capacidade De Armazenamento Cresce	8827
@@ -104,6 +109,7 @@ Decent Housing Absence of Armed Conflict	10838
 Djámanca MctorCassamá Armando Mango Guilherme Damas	11544
 EQUIPARACION Y ARMONIZACION DE SALARIOS	4209
 ESTADO MAYOR DE LAS FUERZAS ARMADAS.-Concepto	4209
+Eng. Armand Zingiro	12358
 Eric Armel N’Doumba	1814
 Events ARM	2552,1639,797
 Force Armée Congolaise	5103
@@ -143,7 +149,7 @@ Nii Kodzo Armah Street Operational	3386
 OBR ARMP	1284
 Offre Restreint ARMP Autorité de Régulation des Marchés	10876
 PRESTADORES DE ARMAZENAGEM PRINCIPAL	10747
-PUBLIC ADMINISTRATION Absence of Armed Conflict	10835,3,130,902,16
+PUBLIC ADMINISTRATION Absence of Armed Conflict	10835,3,130,902,16,466,1
 Paratus Namibia's Armada	9953
 Participant ARMP-4	8021
 People’s Liberation Army	8510,1934,898
@@ -154,13 +160,14 @@ Prestadores de Armazenagem Principal	6970
 Prof. Vinaye Armoogum	6900
 Proliferação de Armas de Destruição	11386,18
 Qualité ARMP Agence de Régulation des Marchés	10975
+REG CEO Mr. Armand Zingiro and Ms	12358
 Republic of Armenia Australia Yes The National	11529
 Retail Army	7446
-SAFETY Absence of Armed Conflict	10759,78,1052
+SAFETY Absence of Armed Conflict	10759,78,1052,451
 SAFETY Absence of Armed Conflict Absence of Violence	10759
 SEU ARMAZENAMENTO	794
 SEU ARMAZENAMENTO Artigo	794
-Score Rank Absence of Armed Conflict	10838,1048
+Score Rank Absence of Armed Conflict	10838,1048,454
 Sistemas de Armas Autónomas	2816
 Small Arms Survey Briefing Paper	3583
 Somali National Army	10701

@@ -13,6 +13,7 @@ ASIA Mexico Guatemala Sri Lanka Pakistan	11004
 Abolition of Racially Based Land Measures Act	11261
 Access Control Language	1009
 Accounting Officer Land	11197
+Acquisition and Use of Land and Real Estate	12389
 Acteurs Tâches Délai PRMP Lance	10876
 Activity Main Machines Materials Land	12253
 Ada LaNerd	12088
@@ -33,6 +34,7 @@ African AI Language Models	7139
 African AI Policy Landscape and Priorities Understanding	6790
 African Digital ID Landscape	10819
 African Forest Landscape Restoration Initiative	10841
+African Journal of Land Policy and Geospatial Sciences	12369
 African Languages	3726,2026,4192,1196,1070
 African Languages and Cultural Data Programme. Strategy	7548
 African Languages and Voice AI Programme Expected	7548
@@ -47,7 +49,9 @@ Air Quality Sustainable Use of Land	10837
 Akasanoma Lane	3386
 Alienation of Land Act	7278
 Allen Lane	5700
-Angel Lane	11902
+Alternative Land Disputes Resolution Mechanism	12389
+Alternative Land Disputes Resolution Mechanisms	12389
+Angel Lane	11902,483
 Angel Lane London EC4R	6593,4411,13,947,30
 Angola Modernizes Land Administration	10761
 Area Land Committee	1391
@@ -90,6 +94,7 @@ Cadastral Information System CLCC Chief Land	11261
 Cadastre and Land Registration Authority	888
 Calendar Reshapes APC’s Political Landscape	4619
 Can Language Models Be Too Big	11140
+Can Uganda's Land Support	12333
 Case Study of Langata and Westlands Constituencies	899
 Case of TLOKWENG Land Board. Vol	5349
 Category Tenure Application Fee Landing Rights	10407
@@ -97,6 +102,7 @@ Cellular and Landline Phone	11211,51
 Central Equatoria State Ministry of Land	3046
 Chance- Stands Fund Land	4896
 Change and Adaptive Land Management	11407
+Change of Land Use	12333
 Chief Negotiator H.E. Dr. Lansana Kouyaté	7452
 Chinese Language Council	2518
 Christoph Landau Minister of Fo	10713
@@ -117,7 +123,7 @@ Communal Lands	8681
 Community Land Act	10313
 Community of Portuguese Language Countries	6778,4767
 Compensation and Land Costs	11549
-Competitive Landscape	3859
+Competitive Landscape	3859,8517
 Comprehensiveness Land	10960
 Computation and Language	3726
 Congo Nears Completion of Landmark National Data	3409
@@ -168,6 +174,7 @@ Deputy Secretary of State Christopher Landau and AUC	4787
 Development Language N	9124
 Dia Lanzamiento	758
 Digital Land Administration Platform	5733
+Digital Land Management and Identification System	12389
 Digital Land System	637
 Digital Landscape Assesment Report	6273
 Digital Landscape Assessment Report	6273
@@ -201,18 +208,24 @@ Epse Azonfack Procurement Specialist Lanssina Traore	11924
 Equal Socioeconomic Opportunity Sustainable Use of Land	10838
 Equiano Subsea Cable Lands	2677
 Est. Crescent Cr. Lane Ln. Market	11129
-Eswatini FinTech Landscape Report	11130
+Eswatini FinTech Landscape Report	11130,1314
+Eswatini FinTech Landscape This Strategy	12444
 Ethiopia Land Information Management System	354
 Expanding Coverage of African Languages	3745
 Expanding Regulatory Landscape While the NDPA	9877
+Extensible Markup Language	12360
+Extensible Stylesheet Language	12360
 FG Plans Digitisation of Land Information System	2592
 FINANCIAL INCLUSION LANDSCAPE IN ZIMBABWE	940
 Features Land Registration Complete	12211
 Fibre Optic Cable and Landing Stations	2677
 Filaires LAN	4342
+Finance Land-backed	12457
+Fintech Landscape Study	12444
 Fire and Land Surface Temperature	11334
+Fixing Land Records Is Central	12456
 Fleet Management System Land Use and Development	4126
-Forests Land	10837,1315
+Forests Land	10837,1315,188
 Fredericks Langman	8960
 Funding Landscape	7798
 Fundraising Landscape	4972
@@ -233,6 +246,7 @@ General Assembly. Language	7320
 General Directorate of National Land Domain	4596
 General Platform Overview Land Registration Module	12211
 Generative AI and Large Language Models	1814
+Geospatial Investment Alexis Rutagengwa Head of Land	12457
 Ghana Lands Commission	1032
 Ghana Landscape Restoration and Small Scale Mining	1513
 Ghana National Spatial Planning and Land Use	1513
@@ -260,6 +274,7 @@ Hermanus Woodmill Lane Centre	8999
 Higherlife Owned Land N	4896
 Hon. Commissioner of Works Land	11129
 Hoërskool Langenhoven	9138
+Human Resource Capacity Building and Land	12326
 Human Settlements and Land Use Reaseach and Policy	4482
 Human Settlements and Land Use Research and Policy	1514
 I. Lans-Vargas	5349
@@ -282,10 +297,12 @@ International Advisory Body Approves Landmark Report	7199
 International Telecommunication Union LAN Local Area	6539
 International Telecommunications Union Landing Rights	10407
 Inveep. Lancée	8565
+Investment Landscape	12376
 Items Rates Land	1154
 Ivoire’s Agricultural Landscape Agriculture	10931
 J Lang Lit Soc Cult Stud	9739
 JOSÉ PEDRO LANDO	10751
+Jan Written By Guest User Land	12456
 Jordan. Landing	10378
 Journal of Language and Politics	11028
 Judiciary LAN	6946
@@ -298,6 +315,7 @@ Kigali Seals Landmark Rwf1 Billion-a-Year Sponsorship	3256
 King Shaka International Airport and Lanseria International	9895
 Konfinite. Lancée	8132
 Konza Government Landing Zone	6432
+LAN ID	12377
 LAN ISP	3163
 LAN and SAN	9123
 LAN and Web	7988
@@ -356,7 +374,7 @@ Lanciato	10848
 Lancé	555,1200,681,296,243,123,1973,242,152,258,389,1221,22,382,655,499,1364
 Lancée	2312,381,833,841,1336,164,350,671,187,413,597,77,150,1954,78,544,882,14
 Lancés	2942,464,7282
-Land Acquisition	1264,603,1737,7164,61,135,453,143,345
+Land Acquisition	1264,603,1737,7164,61,135,453,143,345,453
 Land Acquisition Act	9727
 Land Act	1391,597,4933
 Land Administration	888,10373
@@ -365,20 +383,25 @@ Land Administration Consultant	10763
 Land Administration Institutional Framework	9727
 Land Administration Mahmoud Solomon	9651
 Land Administration Modernization Program	10761
+Land Administration System	12389
 Land Administration System IMC Inter-Ministerial Committee	11261
 Land Advisor	8903
 Land Affairs	11906
 Land Affairs and Land Transport	5805
 Land Allocation	11261
+Land Area	12395
 Land Audit Report	11193
 Land Bank	11245
 Land Bill	11197
+Land Border	12389
 Land Claim Commissioner SACPLAN South African	11261
 Land Commission	3583
 Land Construction Power	10861
 Land Cruiser FJ Opinion By Andrew	6244,1
+Land Dispute Mechanisms	12389
 Land Disputes Ease As Govt Fixes	5070,1633
 Land Drainage Authority Act	7845
+Land FGDs	12333
 Land For Government Increased	12211
 Land Functionalities Overview Comprehensive	12211
 Land Goal	11332
@@ -398,6 +421,8 @@ Land Management	888,11051
 Land Management Information and Transaction System Table	11862
 Land Management Rwanda	888
 Land Management System	11939
+Land Mapping Agency	12389
+Land Merging	12333
 Land Mobile Networks	6946
 Land Mobile Networks Fixed Networks	6946
 Land Mobile Radio	762
@@ -405,6 +430,7 @@ Land Mobile Radio Service	762
 Land Mutoko CBD	4896
 Land Officer	11129
 Land One-Stop Shop Information System	10937
+Land Ownership	12389
 Land O’Lakes	7007
 Land Planning	11939
 Land Platform Accessibility Physical	12211
@@ -412,6 +438,7 @@ Land Platform Features Cloud-Based Access	12211
 Land Platform. All	12211
 Land Policy	9727
 Land Processes Distributed Active Archive Center	11334
+Land Query Notification System	12333
 Land Redistribution Bill	11197
 Land Redistribution and Tenure Reform	11261
 Land Reform DPME Department of Planning Monitoring	11224
@@ -422,11 +449,15 @@ Land Reform and Rural Development DBE Department	11261
 Land Reform and Rural Development Physical	11197
 Land Reform and Rural Development The DHA	11986
 Land Reforms	11954
+Land Registrar	12451
+Land Registration	12328
+Land Registration Coverage	12389
 Land Registry	10937,196
 Land Registry Information System	11862,77
 Land Registry Office	11862
 Land Registry Offices and Notaries	11862
 Land Registry Streamline	11939
+Land Registry and Mapping Agency	12389
 Land Regulations	1988
 Land Resource Management	12194
 Land Rights Action Collaborative	5035
@@ -437,13 +468,17 @@ Land Surface Temperature	11334
 Land Surveyor	11129
 Land System	12211
 Land Tenure Framework	9727
+Land Tenure Regularisation	12451
+Land Tenure Regularisation Programme	12333
 Land The Ministry of Lands and Country Planning	1161
+Land Transactions	12389
 Land Transactions Until Polls End Bukomansimbi	4175
 Land Transport Authority	6166
 Land Transport Division	2104
 Land Use	1264,724
 Land Use Act	11954,27
 Land Use Change Analysis	7695
+Land Use Plan	12389
 Land Use Planning	888
 Land Use Planning and Land Management Framework	9727
 Land Use Planning and Management Information System	1513
@@ -457,11 +492,14 @@ Land Use and Relevant ESS8 Involuntary Resettlement	12253
 Land Use and Soils	1988
 Land Use and Spatial Planning Authority	1513
 Land Victoria	4896
+Land and Human Rights	12333
 Land and Mining Management Strengthening Project	10873
 Land and Notary Registry Offices	11862
 Land and Resource Justice	10960
 Land and Space Tarik Dadi Combats Health	6678,209,414,23
 Land and Space Zimbabwe’s Maminda Combines AI	6678
+Land for Domestic Firms	12389
+Land for Foreign Firms	12389
 Land of Punt	2279
 Land-locked	11920
 Land-related	5731,5229
@@ -473,6 +511,7 @@ Landelike Ontwikkeling	1009,10251
 Landesa	5070,1633
 Landfill Gas BESS	11953
 Landfolio	3631
+Landifa	12478
 Landing	1647,1014,16,586,3317,2173,103,1301,294
 Landing Ceesay Owned	6226
 Landing Partner for Daraja Subsea Cable Through	3839
@@ -486,9 +525,9 @@ Landing Rights Tenure and Fees	10407
 Landing Submarine Cable Landing Overview	9109
 Landis and Koch	11578
 Landisto	12151
-Landline	1013
+Landline	1013,11390
 Landlines VoIP Satellite FTTh	1013,931
-Landlocked	6318,3330,1852,653
+Landlocked	6318,3330,1852,653,274
 Landlocked BFA	2706
 Landlocked Country Beset	10841
 Landlocked Developing Countries	2663,6282,1899
@@ -511,8 +550,10 @@ Landlocked Developing Countries Share of ICT	10844
 Landlocked Developing Countries Table A2.3	10844
 Landlocked Developing Countries Virtually	10844
 Landlocked Developing Countries and Small Island Developing	10844,728
+Landlocked King Mswati III	12352
 Landlocked President Blaise Compaoré	10838
-Landlocked REC Membership	10837
+Landlocked President Michael Sata	12353
+Landlocked REC Membership	10837,1504
 Landlocked SSA Connectivity	837
 Landlocked. REC Membership	12163
 Landmark	8564,2392
@@ -537,15 +578,18 @@ Lands Act CAP	1867
 Lands Act Cap	1988
 Lands Commission	1032
 Lands Commissioner	1988
+Lands Digitization	12433
 Lands Minister	8741
 Lands Secretary Sarah Maina	3374
 Lands Transport Regulatory Authority	5883
+Lands Tribunal. Local	12369
 Lands and Country Planning	1161
 Lands and Deeds Registry	1249
 Landsat	8787,2007,1212
 Landsat Convolutional Prediction Neural Network Nighttime	12006
 Landsat-8	11239
 Landsberg	4432
+Landsbergtech	12478
 Landscape	226,417,3139,2631
 Landscape Analysis and Tool Selection	1824
 Landscape Assessment	12241
@@ -568,9 +612,10 @@ Lange	2096
 Langlotz	8603
 Langman	8960
 Langseth	9129
-Language	940,45,6,223,1210,1198,1462,140,374,616,594,1318,554,439,5,137,1190,390,292,59,206,107,358,89,89,105,68,28,55
+Language	940,45,6,223,1210,1198,1462,140,374,616,594,1318,554,439,5,137,1190,390,292,59,206,107,358,89,89,105,68,28,55,63,4,12
 Language Academy	10451
 Language Data Commons of Australia	7313
+Language English Français Português Information	12467
 Language Excellence	4126
 Language Left Behind	6287
 Language Models	6593
@@ -585,7 +630,7 @@ Language of Leadership for Decision-makers UNDP Mauritius	11332
 LanguageID	126
 LanguageLevel	11180
 LanguageType	11180
-Languages	4857,2691
+Languages	4857,2691,4863
 Languages ICT Devices	958
 Languages Processing	4126
 Languages Ust	11180
@@ -619,10 +664,12 @@ Large Language Model MCTES	2816
 Large Language Model Meta AI	2816
 Large Language Models	2816,910,19,1770,717,47,1294,3497,1140
 Le LaNSA	8303
+Leasehold of Agricultural Land for Foreign Firms	12389
 Left Lane	9098,46
 Liberia Land Authority	5244,4407
 Liberia Land Authority LTA	5244
 Liberia. Landing Rights Holder	10407
+Literature Review Namibia’s ICT Landscape Information	12325
 Localise Traffic IN- Submarine Cable Landing	11857
 L’INTELLIGENCE ARTIFICIELLE PARLE NOS LANGUES	9916
 M P507935 Land IPF	11469
@@ -640,10 +687,11 @@ Making Language Visible	3745
 Malawi Low Resource Language Data Trust	6813
 Malawi’s Ministry of Lands	8957
 Management Act PLAP Proactive Land Acquisition	11261
+Mapping Department National Land Authority GeoEmpower	12457
 Marit Lani	2475
 Mark-up Language IBES Integrated Business Establishment	236
 Marks Landmark Moment	3931
-Markup Language	1009
+Markup Language	1009,11351
 Markup Language EA Electronic Medical Record	1009
 Markup Language HIS Electronic Medical Record	1009
 Markup Language XAD-PID Change Management Cross-Enterprise	1009
@@ -651,6 +699,7 @@ Masakhane African Languages AI Hub	3344
 Masakhane African Languages Hub	3987,1611,5022
 Masakhane African Languages Hub and Google.org	9929,15
 Master of Land Information Management	6832
+Medici Land Governance	12333
 Medusa Submarine Cable System Lands	3860
 Meheba Settlement Land	1988
 Men Mexico Guatemala Sri Lanka Pakistan	11004
@@ -663,7 +712,7 @@ Minister of Land Reform and Rural Development PART	11261
 Minister of Land Transport Mahomed Osman Cassam	10296
 Minister of Lands	1554,7187
 Minister of Lands and Agriculture	7236
-Minister of Lands and Natural Resources	1222
+Minister of Lands and Natural Resources	1222,11234
 Minister of Lands and Urban Development Chimwemwe Chipungu	8575
 Minister of Rural Development and Land Reform	11189
 Minister van Landelike Ontwikkeling	11189
@@ -673,10 +722,11 @@ Ministry of Land and Survey	11129
 Ministry of Lands	395,125,420,30,584,150,1342,632,2053,1085,2087,1410,1899
 Ministry of Lands and Agriculture	1663,977,2996,1005,595
 Ministry of Lands and Housing	2104,9617
-Ministry of Lands and Natural Resources	1249,625,5821
+Ministry of Lands and Natural Resources	1249,625,5821,4674,87
 Ministry of Lands and Natural Resources. Madam Speaker	1222
 Mobile Landlines Outgoing	1013,931
 Mode of Land Acquisition Among Nigerian Refugees	10841
+Modelling Language	12360
 Monsieur Lanfia SINABA	8237
 Mozambique Land Administration Project	12137
 Mozambique's Current Data Landscape Mozambique	3058
@@ -702,7 +752,7 @@ National Directorate for Land Administration	12137
 National Estate and Land Agency	10818
 National Institute for Land Management	11862
 National Land Administration System	9727
-National Land Authority	5070
+National Land Authority	5070,7381
 National Land Information Management System	3374
 National Land Information Repository	11981
 National Land Information System NSAAs National	11261
@@ -710,6 +760,7 @@ National Land Policy	9727,2410
 National Land Policy Implementation Unit	9727
 National Land Registration	11954,27
 National Land Registration and Documentation Programme	2592,9362
+National Land Titling Programme	12369
 National Land Transport Act	11551
 National Land Transport Amendment Act	11494,57
 National Land Transport Authority Act	7845
@@ -732,6 +783,7 @@ Nii Lante Vanderpuye	10523
 No. of Land Mobile Frequency Assignments	6946
 Noise Land	12253
 Number LLM Large Language Models	3184,1,1340,6470
+Number and Type of Land Disputes	12389
 ORGANISATION DU LANADA	2342
 One-Stop Land Office	2597
 Only Landline Phone	11211,51
@@ -739,9 +791,12 @@ Orientation Index ASAL Arid and Semi-Arid Lands	2775
 Original Language	9892,1
 Oudtshoorn Oudtshoorn Hermanus Hermanus Langa Swellendam	8999
 Overall-2018 LANDSCAPE PRODUCTS	418
+Ownership of Agricultural Land for Domestic Firm	12389
+Ownership of Agricultural Land for Foreign Firms	12389
 PART XI AMENDMENT OF THE LAND	6921
 PLANTING SUSTAINABLE LAND MANAGEMENT COMMUNITY EMPOWERMENT	11586
 PRIMEIRA-DAMA DA REPÚBLICA PRESTIGIA LANÇAMENTO	11482
+PROPERTY TRANSFER AND LAND ADMINISTRATION	12389
 Pakistan W M Sri Lanka W	11004
 Park- Soft Landing Program	11863
 Partnership Landscape SpaceX's S-1	6467
@@ -784,7 +839,8 @@ RELEVANT LANGUAGE ME	11964
 RELEVANT LANGUAGE ME SECURITY FRAUD	11004
 REMARKS LAND USE	4896
 REMITTANCE LANDSCAPE Remittances	11960
-RURAL ECONOMY Rural Land	10759,78,1052
+RURAL ECONOMY Rural Land	10759,78,1052,451
+RWANDA LAUNCHED ELECTRONIC LAND REGISTRATION CERTIFICATE	12451
 RWANDA NATIONAL ID LAND SCAPE. SMART	10819
 Ransomware Landscape Shifts	9815
 Reading Comprehension and Language Structures	899
@@ -798,6 +854,7 @@ Remittance Landscape	11960
 Rent Land	2888,32,354,504,1444,877,6,100,680,129,293,115
 Rep. Malaysia Paraguay Sri Lanka Suriname	11563
 Reshaping the Development Landscape	10630
+Resolve Land Disputes	12389
 Responsible Governance of Tenure of Land	10960
 Restitution of Land Rights Act	1009
 Restitution of Land Rights CSI Committee for Spatial	11261
@@ -805,10 +862,12 @@ Robert Mugabe Owned Land	4896
 Routledge Handbook of Language and Politics	11028
 Rural Development and Land Reform	11188
 Rural Development and Land Reform DSD Department	11188
-Rural Land	10759,76,2,1,130,902,16,1,1,1,263,1,1,9
-Rwanda Land Management and Use Authority	431
+Rural Land	10759,76,2,1,130,902,16,1,1,1,263,1,1,9,177,1,11,1
+Rwanda Land Dashboard	12457
+Rwanda Land Management and Use Authority	431,11902
 Rwanda Land Use P	888
 Rwanda National Land Authority	888
+Rwanda's Paperless Land Registration System Ready	12333
 Rwandans. Land Administration	888
 SIM LAND	11941
 SONAFIR Lancement	2629,770,367,55,45,867,580,142,234,14,2,102,70,47,210,371,62,277,263,16,2,157
@@ -825,13 +884,18 @@ School Connectivity Landscape Analysis	5851
 Second National Land Transport Regulations	11494
 Secretary of State for Land and Environment Gustavo Dgedge	10470
 Securing Land Tenure	161
+Security Assertion Markup Language	12360
 Secção Lançada	10750
 Selection and Land Allocation Policy CD	11261
 Semi-Arid Landscapes	11469
 Senior Land Administration Specialist	10763
 Sentinel-2 and Landsat-8	11239
 Service Land and Network Furniture& Motor Capital	236
+Service Local Area LAN	12364
+Services Description Language	12360
+Services Landscape Launch Telecoms	12395
 Settlements DLRRD Department of Land Reform and Rural	11261
+Shaama. Landless People’s Movement	12378
 Shaping South Africa's AI Landscape	11265
 Shop Silundika Harare Stand Land Chinhoyi	4896
 Sierra Leone By Hassan Lansana Koroma	3895
@@ -876,7 +940,9 @@ Stand Land Chinhoyi	4896
 Stand Land Chivhu New Wireless Town	4896
 Stands Fund Land Pensrose Stands	4896
 Stands Fund Land Stands	4896
+Startup and Investment Landscape	12376
 State Department for Lands	10313
+State Department for Lands and Physical Planning	12433
 State Digital Surveillance Risk Landscape	9399
 State Lands Act	587,9140
 Stephen Lansdown	5930,27
@@ -893,7 +959,7 @@ Sudan Spain Sri Lanka Sudan Suriname	11470
 Survey of Kenya and National Land Commission	12149
 Surveys and Land Affairs	10960
 Surveys and Land Tenure	10987
-Sustainable Use of Land	10759,76,2,1,130,902,16,1,1,1,264,1,9
+Sustainable Use of Land	10759,76,2,1,130,902,16,1,1,1,264,1,9,177,1,11,1
 Systematic Land Regularization	12137
 Systematic Land Titling and Registration	11954
 Systematic Land Titling and Regulation	11954
@@ -903,6 +969,7 @@ Tanzania Land Information Infrastructure Development Project	637
 Tanzanian Sign Language. Sign	9944
 Telecommunications Languages	8726,408,140
 Telegram Lancement	2629,770,367,55,45,867,580,142,234,14,2,102,70,47,210,371,62,277,263,16,2,157
+Through the National Land Titling Project	12456
 Timbéni LANKOANDE	7670
 Title Deed Fund Land Riverside	4896
 Tittle Deed Number Land	4896
@@ -911,6 +978,7 @@ Trade Finance Landscape	10718
 Transform Investment Landscape The Ministry of Investment	3907
 Transforming Landscapes for Resilience and Development	5247
 Transport and Lang	9128
+Transverse Mercator Busanze Land Cover	12413
 Trap That We Land	7233
 Tribal Land Act	3761
 U.N. Adopts Landmark NTD Resolution	965,3924,206
@@ -921,33 +989,46 @@ Uganda's Ministry of Lands	1391
 UgandaBangladesh India Indonesia Pakistan Sri LankaGuatemala	11004
 Umoja AI for African Language AI	8060
 Understanding Africa’s AI Governance Landscape	6603
-Unified Modelling Language	11184
+Unified Modelling Language	11184,1176
 Unique Land Identifier of Ivory Coast	10937
 United Nations H.E. Dr. Lansana Kouyaté	7452
 University of Nairobi Language	9679
 Unlawful Occupation of Land Act	11188
+Updated Land Policy	12457
 Urban Land Simplification and Digital Transformation	10937
 Urban Land and Property Registration and Information Agency	5655
 Urban Planning and Urban Land Code	10930
-Use of Land	12152
+Urvine Landsberg	12478
+Use Extensible Markup Language	12360
+Use Extensible Stylesheet Language	12360
+Use of Land	12152,188
 Users Landowners Investors Service Officers Legal	12211
+Utilizing the Unified Modelling Language Project	12395
 VACANT LAND SIZE BUILDING DEED DETAILS	4896
+VC Landscape	12376
 Vacant Land Pension Owned Land Land	4896
 Vietnam’s Landmark Law	8629
+Visa Application. LAND	12333
 WOfS Landsat	10794
 Waitiki Land	10313
-Wh Kilowatt Hour LLM Large Language	10781
+Wh Kilowatt Hour LLM Large Language	10781,1646
 Will Language Modelers Like ChatGPT	11140
 Wirtschaft des Landes	614
 Woodmill Lane Cntr PnP Parow PnP	8999
+World Language	12360
 XML Extensible Markup Language XPID XAD-PI	1009
 Xtensible Business Reporting Language XDS Xpert	11250
+Xtensible Extensible Markup Language	12360
 Xtensible Markup Language	6432
 XtensibleMarkup Language	8606
 Year Land Network	236
 Yentemma Alex Lankoandé	9378,1721
 ZAMBIA INTERGRATED LAND ADMINISTRATION SYSTEM	1222
-Zambia Integrated Land Administration System	1222,27,625,1
+ZONING AND LAND USE	12389
+Zambia Fintech Landscape	12376
+Zambia Integrated Land Administration System	1222,27,625,1,10578
 Zambia Integrated Land Management Information System	1249
 Zendawa. Lancée	10353
 Zimbabwe Language Value Set Official	6666
+Zoning and Land Use	12389
+Zoning and Land Use Regulations	12389

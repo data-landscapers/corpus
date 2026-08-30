@@ -6,6 +6,7 @@ AI and Extend	6832
 ASUNTOS EXTERIORES	4209
 AUTO EXTREME Data Processor INST-856495288C0 KISUMU	7167
 AVALIAÇÃO EXTERNA CONJUNTA DAS PRINCIPAIS CAPACIDADES	11376
+Act. Extradition	12459
 Actividade Comercial Externa	10757
 Added Tax XML Extensible Markup Language	11261
 Admin External Vendor	10617
@@ -19,6 +20,7 @@ Ambiente Externo	10772
 Amend and Extend Agreement	1234
 Amortización Deuda Externa	4209
 Amortización de Deuda Externa	4209
+Arab Bank for Economic External Auditors	12358
 Arrangement Loan Closing Date Extension Loan	4653
 Arrangement Under the Extended Credit Facility for Burundi	1284
 Asuntos Exteriores	4209
@@ -83,6 +85,7 @@ DPF Developing Policy Financing EFF Extended	11380
 DPO and Extended Credit Facility	5655
 Data Extraction	8604
 Date Extension	11924
+Decentralisation Extension Programme	12325
 Deputy Director for External Relations	10345
 Description Extends RCIP	107
 Description Extends West Africa Regional Communications	221
@@ -103,6 +106,7 @@ Document Enterprise Document Data Element Extraction	1009
 Domain Name System Security Extensions	1036,3174,6554
 Domestic Pools Surpass External Flows	5913
 Dotación Especial Funcionamiento Ser. Exterior	4209
+Duration of Extension	12364
 EAC Common External Tariff	7548
 EAC’s Common External Tariff	10313
 EBRD Extends	7229,1797
@@ -133,6 +137,7 @@ Economic Governance and Extractive Sector Support Project	7160
 Effects and Externalities of Smart Governance	5349
 Embaixadora Extraordinária	11393
 Emisión de Deuda Externa	4209
+Energy and Extractives Global Practice	12388
 Energy and Extractives Global Practice Western and Central	11549
 Equipamiento Servicio Exterior	4209
 Ethio Telecom Extends Digital Access	8539
@@ -142,7 +147,7 @@ European Union External Action Service	11155
 Evaton Ext	1009
 Evolution of Strategic Reciprocity External	5141
 Exploitation du Guichet Unique du Commerce Exté-	11923
-Extend	1828,2298,2706,716,3585,16,757
+Extend	1828,2298,2706,716,3585,16,757,450
 Extend Google Cloud	4434
 Extend Its Super-App Ecosystem	5397
 Extend NSFAS	6832
@@ -161,7 +166,7 @@ Extended Regular Cash Transfer	11988
 Extended Term Consultant for Poverty	10763
 Extended UTAUT Model	5349
 Extender	1701
-Extending	547,1338,2847,742,3398,277,1673,320,149,281,38,396,291
+Extending	547,1338,2847,742,3398,277,1673,320,149,281,38,396,291,102
 Extending Broadband Connectivity	5245
 Extending Financial Inclusion	12297
 Extending Page	11855
@@ -176,8 +181,10 @@ Extends ST Digital	1881
 Extends the DAP Kenya	1466
 Extends the ST Digital	1881
 Extensibility Guidelines	5665
-Extensible	7988
+Extensible	7988,4372
+Extensible Markup Language	12360
 Extensible Project Management Sparx Enterprise	9124
+Extensible Stylesheet Language	12360
 Extension	938,184,112,50,583,359,943,692,147,1350,1533,1594,40,158,1474,780,38,165,40,48,61,635,41
 Extension Africa	5267
 Extension Couverture	3537
@@ -188,17 +195,21 @@ Extension Officer	1988
 Extension and Nutrition	12194
 Extension for Community Healthcare Outcomes	10188
 Extension of Broadband Connectivity	3604
+Extension of Delivery Time	12400
+Extension of Nyabarongo Project	12358
 Extension of Operation Thiba	11289
 Extension of Security of Tenure Act	11188
 Extension of Security of Tenure Act ETC Et	11261
-Extensions	7588
+Extensions	7588,4776
+Extensions ISO	12360
 Extensions of Man	8380
-Extensive	969,1712,11,1640,231,189,1680,2028,663,1662,56,347,704,322,27
+Extensive	969,1712,11,1640,231,189,1680,2028,663,1662,56,347,704,322,27,117
 Extensive Agreements	12241
 Extensive Beneficial ID	12214
 Extensive CAUTIOUS	12241
 Extensive GovTech Maturity	4612,140
 Extensive IDT4M Project Risk	12241
+Extensive National Digital Transformation Strategy	12428
 Extensive Results	11955
 Extensión	1701,2508
 Extensión de OFIVE	4209
@@ -208,7 +219,7 @@ Exterior	4209,7152,75,457
 Exterior Nº Categoría de Funcionario Público Monto	4209
 Exteriores	4209
 Externa	10757
-External	1,427,5,334,202,315,43,2,355,60,70,53,152,74,1298,213,110,160,285,7,87,5,42,824,123,55,211,61,81,208,49,97,18,14,369,13,64,11,20,2,83,32,100,73,127,269,1097,565,70,192,109,240,175,964,1,104,44,3,7,18,36,11,24,267,3,2,13,7,32,10,39,24,10,253,284,52,95,1,30,239,21
+External	1,427,5,334,202,315,43,2,355,60,70,53,152,74,1298,213,110,160,285,7,87,5,42,824,123,55,211,61,81,208,49,97,18,14,369,13,64,11,20,2,83,32,100,73,127,269,1097,565,70,192,109,240,175,964,1,104,44,3,7,18,36,11,24,267,3,2,13,7,32,10,39,24,10,253,284,52,95,1,30,239,21,96,47
 External API	11952
 External Affairs Minister	2667
 External Affairs Minister Dr. S. Jaishankar	2667
@@ -221,6 +232,8 @@ External Auditors Information Auditor-General South Africa	11250
 External Audits	10819
 External Audits Application Process for Potential Trust	10819
 External Borrowing Plan	12127
+External Causes	12413
+External Companies	12342
 External Company Name and Amendments	12041
 External Company Registration Understanding External	12041
 External Cooperation Unit	10530
@@ -244,13 +257,15 @@ External Relations Minister	4220
 External Relations and Cooperation Unit	11423
 External Reserves Eswatini	11131
 External Resources Management Division	1264
+External Review and Internal Control	12389
+External Risks	12356
 External Sector	1155
 External Sector Developments Eswatini	11134
 External Sector Developments Preliminary	11131
 External Sources	940
 External Supplies and Services	11955
 External System Integration	3861
-External Systems	10765,10
+External Systems	10765,10,1614
 External Systems ID	10775
 External Vendor	10616,1
 External Verification Agent	11560
@@ -272,7 +287,7 @@ Extome	6395
 Extorsion	10821
 Extorsão	6970
 Extortion Thrives	5321
-Extra	11937
+Extra	11937,473,50
 Extra News	10105
 Extra News Channel	9522
 Extra Ordinary Specialized Technical Committee	11283
@@ -280,7 +295,7 @@ Extra-High Level	11956
 Extra-Ministerial Departments	11991
 Extra-Ministerial Departments and Agencies	7973,949,59,1175
 Extra-territorial	1243
-Extract	737,29,1576,433,2816,1576,1437,2525,728
+Extract	737,29,1576,433,2816,1576,1437,2525,728,478,3,29
 Extract CRIMINAL JUSTICE	11857
 Extract-	8604
 Extracted	966,360,1,2,1,686,1,2,1,2136,1,2,1,1503,750,2427
@@ -301,13 +316,16 @@ Extractives IPF	11469
 Extractives PforR	11469
 Extractpatients P	8606
 Extracts	12302
-Extradition	318,465,1943,9230
+Extradition	318,465,1943,9230,503
 Extradition Act	587,196,1943,1161
 Extradition Any	783
 Extradition Treaty	11185
 Extraire	7999
+Extrait	12328
+Extrait and Acte	12328
 Extraits	5283
 Extrajudicial de Litígios	10753
+Extraneous Name	12360
 Extranet du GIM Pour	10711
 Extranjería	6841
 Extrants RI	10858
@@ -330,7 +348,7 @@ Extreme Poverty	11133,9,856
 Extreme Poverty DEEP	11142
 Extreme Poverty ESR Enhanced Single	11133
 Extreme Right	1245
-Extremely	1940,3307,6843
+Extremely	1940,3307,6843,370
 Extremely Neither Fairly	12214
 Extrême Nord	10965
 Extrême Nord Mini	10975
@@ -403,6 +421,7 @@ Joint External Evaluation	10776,641
 Joint External Evaluation JICA	10776
 Joint External Evaluation of International Health Regulation	11912
 KIGALI CHANNELS BPR EXTENDED NETWORK	11002
+KYC External Dispute Resolution P2P Person-to-Person	12444
 Kenya External Quality Assessment Scheme	4153
 Kenya Medical Research Institute Kenya External	4153
 Kenyans. External	6231
@@ -514,6 +533,7 @@ Servicio Exterior	4209
 Servicios de Extensión Agraria	4209
 Serviço de Inteligência Externa	4147
 Serviço de Relações Externas	11423
+Sexual Extortion	12459
 Sierra Leone Extractive Industries Technical Assistance	2889
 Sistema de Extensión Agraria	4209
 Social Development ESTA Extension of Security of Tenure	11188
@@ -537,7 +557,10 @@ Ultra High Level and Extra-High Level	11956
 Undersea Cables Extinct	2677
 Unkept Promises Atical Foyoh Extends Olive	7182
 Urban-focused Extended	12214
+Use Extensible Markup Language	12360
+Use Extensible Stylesheet Language	12360
 Verbeke F. Extraction	766
+WINDOW EXTENSION APPLICATION FORM Part	12364
 WRA Water Resources Authority XR Extended	7548
 Wireless Extend	11857
 Women Extractive Transport	10763
@@ -545,5 +568,8 @@ World Bank. Extension	11897
 Worsening E’000 E’000 Assets External Investments	11134
 XI. AUDIT EXTERNE DU PROGRAMME	10876
 XML Extensible Markup Language XPID XAD-PI	1009
+Xtensible Extensible Markup Language	12360
 Yahclick Extra Premium	6980
 ZENITH BANK REMITA NIGERIA EXTENDED NETWORK	11002
+ZIPSS Window Extension Application Form	12364
+ZIPSS Window Extension Application Form ZAMBIA	12364

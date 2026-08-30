@@ -13,6 +13,7 @@ AuthOrity of Heads of Slate and Government	11517
 Availability SLAs	6432
 B. Slow Diffusion of AI	11140
 BEN KEN NER RWA SLE TGO	502
+Balances Slow	12444
 Ben Treynor Sloss	3782
 Botswana and Five SADC Countries Slash Roaming	5382
 CAC Standard SLA Checklist	6432
@@ -52,14 +53,15 @@ Homes SLBC Staff Accused of Assaulting Open	8271
 Humanitarian Operations SLA Sudan Liberation Army	6947
 ICOM SLR	998
 ICT Sector Budget Slashed	2428
-Improvement Bouncing Back Increasing Deterioration Slowing	10837
-Improvement Increasing Deterioration Slowing Improvement	10835,3,130,918
-Improvement No Change Increasing Deterioration Slowing	10837
-Improvement Slowing Deterioration Warning Signs Increasing	10759,76,3,130,902,16
+Improvement Bouncing Back Increasing Deterioration Slowing	10837,1503
+Improvement Increasing Deterioration Slowing Improvement	10835,3,130,918,466,1
+Improvement No Change Increasing Deterioration Slowing	10837,1503
+Improvement Slowing Deterioration Warning Signs Increasing	10759,76,3,130,902,16,466,1
 Information Technology Agency SLA Service Level	11261
 Infrastructure SLAs Component Availabili Redundancy	11952
 Internet Prices Slashed	4070
 Janngo Capital Startup Fund SLP	1061
+Jenna Slotin	12327
 Judicial System Slowing Improvement Not Classified	11870
 Keeps Slipping	6629
 Kisanja No More Sleep	10055
@@ -93,6 +95,7 @@ ONSA PUE SBG SGCGC SLA SOC	10157
 OWNER Slower	11863
 Orange Sierra Leone and Orange Money SL	10580
 P. O. Box SL	2776
+Participants. Account Service Level SLA	12364
 Philippines Poland Romania Russian Federation Slovakia	10764
 Pit Latrine Fecal Sludge Management Plan	1988
 Provider. SLOs	9123
@@ -105,6 +108,7 @@ Review the SLA	11231
 Romania Slovakia Switzerland T1 Role-modelling Belgium	10764
 Rural District Councils. Urban SLB	970
 Rural Rural Rural Rural Slightly	418
+Rural Slowing Improvement Not Classified Market	12352
 Rwanda Saudi Arabia Serbia Singapore Slovenia	10764
 SDGs Sustainable Development Goals SLAs Service	12240
 SEM Youssef Slaoui	10545
@@ -122,11 +126,13 @@ SLAPP	8485
 SLAPPs	8485
 SLAWIJ	11634
 SLAs CAC MCDAs CSPs CAC	6432
+SLAs. Target	12419
 SLB CEO Samuel Seboka	4983
 SLB for Rural Councils	970
 SLB for Urban Councils	970
 SLB's Managing Director for Angola	2348
 SLD Second Level Domain SMAM Singulate	2775
+SLE Comments	12440
 SLE. Entity	8416
 SLE. Includes	1143,405
 SLICOM	6938
@@ -149,7 +155,7 @@ SLSFIP	2112
 SLSSEC	6938
 SLTR Area	11954
 SLTR Officers	11954
-Score Slowing Improvement Warning Signs	10835,3,130,902,16
+Score Slowing Improvement Warning Signs	10835,3,130,902,16,466,1
 Sierra Leone Singapore Slovakia Slovenia Solomon	11765
 Sign SLA	11863
 Signs Bouncing Back Slowing Deterioration Increasing	10759
@@ -174,7 +180,7 @@ Sleiman Kwidini	10623
 Slettebø	4432
 Slewing	11269
 Slice	9733
-Slide	8999,3220
+Slide	8999,3220,164
 Slider 30644 and Angola24Hora	9399
 Slides	3840,8026
 Slideshow	3615
@@ -207,9 +213,10 @@ Slow Adoption and Compliance	11400
 Slow BVAS	10049
 Slow Death Of Scaling	5029
 Slow Pros Down Next	3279
+Slow Uptake of MSB Model	12399
 Slower-moving	4653
-Slowing Deterioration	11887,1,1,264,1,9
-Slowing Deterioration Score	10837,1315
+Slowing Deterioration	11887,1,1,264,1,9,178,11
+Slowing Deterioration Score	10837,1315,188
 Slowing Deterioration. African	11888
 Slowing Deterioration. Between	11888
 Slowing Deterioration. Foundations for Economic Opportunity	11888
@@ -219,13 +226,17 @@ Slowing Deterioration. Infrastructure	11888
 Slowing Deterioration. Public Administration	11888
 Slowing Deterioration. Rule of Law	11888
 Slowing Deterioration. Security	11888
-Slowing Improvement	11887,1,1,264,1,9
-Slowing Improvement Score	10837,1315
-Slowing Improvement Slowing Deterioration Not Classified	10835,3,130,902,16
-Slowing Improvement Slowing Deterioration Warning Signs	10835,3,1048
+Slowing Improvement	11887,1,1,264,1,9,178
+Slowing Improvement Human Development	12341
+Slowing Improvement Not Classified Warning Signs	12353
+Slowing Improvement Participation	12341
+Slowing Improvement Rwanda	12341
+Slowing Improvement Score	10837,1315,188
+Slowing Improvement Slowing Deterioration Not Classified	10835,3,130,902,16,466,1
+Slowing Improvement Slowing Deterioration Warning Signs	10835,3,1048,466,1
 Slowing Improvement Warning Signs Security	10968,902
 Slowing Improvement. Business	11888
-Slowing Score	10835,3,130,902,16
+Slowing Score	10835,3,130,902,16,466,1
 Slowly	4201,4911,966
 Slsuprpelmy	11152
 SltSatiasttiisctsicRseRpeoprto2rt020323	12151
@@ -236,14 +247,23 @@ Slutsker	8604
 Software Composition Analysis SLA Service Level	11952
 South African Qualifications Authority SLA	11252
 Subscriber Identity Module Card SLA Service	34
+System Development Lifecycle SLA Service Level	12359
 TREND Increasing Improvement Slowing Improvement Warning	10759
-TREND Increasing Improvement Warning Signs Slowing	10837
+TREND Increasing Improvement Warning Signs Slowing	10837,1503
 Technology Agency SLA Service Level Agreement	5533
-Trend Bouncing Back Slowing Deterioration Increasing	10835,3,130,902,16
-Trend Increasing Improvement Bouncing Back Slowing	10759,76,3,130,902,16
+Trend Bouncing Back Slowing Deterioration Increasing	10835,3,130,902,16,466,1
+Trend Increasing Improvement Bouncing Back Slowing	10759,76,3,130,902,16,466,1
 Trend Increasing Improvement Slowing Improvement Warning	10759
+Trend Slowing Deterioration Inclusion	12341
+Trend Slowing Deterioration Rights	12341
+Trend Slowing Deterioration Rule of Law	12341
+Trend Slowing Improvement Business	12341
+Trend Slowing Improvement Infrastructure	12341
+Trend Slowing Improvement Participation	12341
+Trend Slowing Improvement Rural Economy	12341
 Trend Trend Increasing Improvement Slowing Improvement	10759
-Trend Warning Signs Slowing Improvement Increasing	10837
+Trend Warning Signs Slowing Improvement Increasing	10837,1503
+VUP and SLE	12440
 Videos Religious Service Sleeping	582
 Warning Signs Bouncing Back Slowing Deterioration	10759
 Women Slowing Deterioration Absence of Armed Conflict	11870

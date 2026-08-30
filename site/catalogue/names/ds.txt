@@ -6,13 +6,14 @@ African DSM.5	1243
 Against the DSCE	10963,1
 Asked DSS for Updates	7176
 Audits of DST	573
+Build DSP	12419
 CA Aprovação Adequação DSF Elaboração	11435
 Certifiée PCI DSS	2312
 Club Dsi	5260
 Club Dsi Bénin	5260
 Club Dsi. La CoP	5260
 Club Dsi. Son	5260
-Columbia University DSP Digital Society Project	10759,78,1052
+Columbia University DSP Digital Society Project	10759,78,1052,451
 Conditions de Vie des Ménages DSSE	10874
 Congo DSL Digital Subscriber Line. DVCMS	718
 Congo DSQ Domestic Servants Quarters DWT	2775
@@ -80,11 +81,13 @@ DSNPQ	11550,216
 DSNTIC	4025
 DSO Distribution System Operator EAPP East	12233
 DSO EEU	12233
-DSP Digital Society Project	11887,266,1,9
-DSP Digital Society Project V-DEM Varieties	10835,3,130,902,16
+DSP Digital Society Project	11887,266,1,9,178
+DSP Digital Society Project V-DEM Varieties	10835,3,130,902,16,466,1
 DSP Ovie Ewhubare	4725
-DSP&V-DEM	10759,76,2,1,130,902,16,2,1,264,1,9
+DSP&V-DEM	10759,76,2,1,130,902,16,2,1,264,1,9,177,1,11,1
 DSP-i	6091
+DSP. Target	12419
+DSP. Timeline	12419
 DSPDP	6361,207,5115
 DSPDP Director Yang Chongwei	6361
 DSPDP de Macau	6568
@@ -189,6 +192,7 @@ PCI DSS	434,1916,4121,1310,3218
 PCI DSS Certified	12285
 PMEs A DSPDP de Macau	6568
 Radio Mondiale DSB Digital Sound Broadcasting	6946
+Regulators' Association of Southern Africa DSL Digital	12395
 Research Assessment DSI Department of Science and Innovation	5246
 Rockefeller Foundation DSCF	937
 Rural Development and Land Reform DSD Department	11188
@@ -209,4 +213,5 @@ Université de Dschang. Tél	10826
 Welt II DS4JI II Digital Skills	1427
 World Bank DSA	11271
 XDS-MS X DS	1009
+XML Signature XML DSIGW3C W3C XML	12360
 Year Duration Energy DSR of Shed	11953

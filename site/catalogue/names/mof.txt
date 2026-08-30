@@ -1,11 +1,14 @@
 Acronyms Description MOFI Ministry of Finance	11857
+CBE Centre for Financial Inclusion MoF Ministry	12444
 CNBC Africa’s Palesa Mofokeng	4723
 Cabo Verde MoF	583,1512
+Civil Society MoFNP	12453
 Constitutional and Religious Affairs MoF Ministry of Finance	4214
 Description MoF Computerisation	1661,977,2995
 Kieren Moffat	11006
 Korea's MOFE and KEXIM	9905
 LTO Human Resources MOF Integrated Financial	12225
+M&E MoTS MoFNP MNO'S NDP	12453
 M. Gervais Songa MoF	11916
 MIC Middle Income Country MoF Ministry	11863
 MOF ICT Development	2638
@@ -16,7 +19,7 @@ MOFCOM	122,3,58,159,117,1368,6811,1577
 MOFDP	10060
 MOFDP-PMU	10060
 MOFED	259
-MOFNP	193
+MOFNP	193,12142,118
 MOFPED and MOH. Overhead	4217
 Meisi Mofokeng	11660
 Minister of Environment and Forestry Thabo Mofosi	8801
@@ -26,11 +29,13 @@ MoF Data Center	2112
 MoF GSB	2112
 MoF Ministry of Finance MoTAI Ministry of Trade	4126
 MoF Other By the Bank	11905
+MoF. Effective	12444
 MoFEA	12176,5
 MoFEA and NLGFC	12181
 MoFED	970
 MoFED Ministry of Finance and Economic Development MoHCC	970
 MoFEPD	5620
+MoFNP	12453
 MoFPED	1150,132,2708,227,3031
 MoFaya	8682
 MoLGRD and MoFEPD	6754
@@ -44,3 +49,4 @@ Term Evolution MoF Ministry of Finance NCA	236
 Thabo Mofutsanyana	11252
 Thabo Mofutsanyana District Municipality	11289
 Tripoli MoF	3425
+World Bank and MOFNP	12335

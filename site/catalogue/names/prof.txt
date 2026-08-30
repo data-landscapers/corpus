@@ -28,6 +28,7 @@ Associate Professor Racheal Mindra	4028
 Associate Professor and Development Economist	3005
 Associate Professor of Law	8697
 Associate Professor of Wireless Communication Networks	10383
+Associated Factors Among Health Professionals	12379
 Association Nationale des Professionnels	10821
 Association Professionnelle	8355,2481
 Association Professionnelle des Banques	10821
@@ -37,6 +38,7 @@ Associação Moçambicana de Profissionais	2816
 Audio By Carbonatix Economist and Professor of Finance	7697
 Auditing Profession Act	11573
 Audition du Professeur Mohamed Tozy	8891
+Automated Profiling and Targeting	12389
 Avenida Professor Doutor Cavaco Silva	4938
 Average User Profile Average Monthly Service	9781
 B Programa de Profesionalización	4209
@@ -46,6 +48,7 @@ Base Erosion and Profit Shifting	961
 Base Erosion and Profit Shifting. Ethiopia	12225
 Billion Profit	10733
 Body of Professors	11715
+Broadcasting Sector ICT Profile Revenue Employment	12395
 Building Capacity Among DFS Professionals Bill	487
 Buyer Profile	4972
 Buyer Profile Figure	4972
@@ -53,6 +56,7 @@ CAPITALISATION OF PROFIT COMPANIES	3714
 CAPITALISATION OF PROFIT COMPANIES Legal	3714
 CNEF BEAC Professionnalisation	10965
 CORE VALUES Excellence Professionalism Integrity	1131
+COUNTRY PROFILE Growth	12395
 CPD Continuous Professional Development CSP Content	6946
 Cameroon Country Profile	10841
 Capacitação Profissional	2816
@@ -90,7 +94,7 @@ Component Beneficiary Profile	10964
 Comprehensive Company Profile	8985
 Consortium Profile Provide	5903
 Continuing Professional Development	11990
-Continuous Professional Development	6946,4188,822
+Continuous Professional Development	6946,4188,822,457
 Continuous Professional Development CSE	12175
 Continuous Professional Development CSL	6832
 Continuous Professional Development Coordinators	12175
@@ -102,14 +106,17 @@ Corporate Profile. Lagos	11138
 Corruption Risk Profile	11986
 Council for Natural Scientific Professions SA-EU South	5246
 Council of Ministers View Profile	5775
-Country Profile	1356,742,8878,906,269
+Country Profile	1356,742,8878,906,269,195
 Country Profile Companion	2098
 Country Profile Contents	11881
 Country Profile ENTERPRISE SURVEYS	11874
+Country Profile Employment Cost	12395
 Country Profile.pdf	1400
-Country Profiles	10764,212,898,7,1
+Country Profiles	10764,212,898,7,1,464
 Country Profiles Africa Angola Global Cybersecurity	10764
 Country Profiles For Early Childhood Development	10768
+Creation and Maintenance of User Profiles	12364
+Creation and Maintenance of User Profiles The BoZ	12364
 Crescimento Profissional	2816
 Cybercrime Legislative Profile	1276
 Cybersecurity Profiling	10721
@@ -174,6 +181,7 @@ Ensino Secundário Técnico Profissional MF M	10766
 Ensino Secundário Técnico- Profissional Província População	10766
 Ensino Secundário de Formação de Professores	10766
 Ensino Secundário de Formação de Professores Província	10766
+Entity's Profile	12400
 Equity Profit Margin Return	1013
 Eritrea Profile	10001
 Escola Formação de Professores Domingos Mendonça	11552
@@ -212,6 +220,9 @@ GHS Index Country Profile for Angola	11417
 Gain Proficiency	6432
 Gender Profile	11525
 General Professional Experience	962
+General and Professional Secondary	12411
+General and Professional Secondary Education	12411
+General and Professional Secondary Education Enrollment	12411
 Generative AI Profile	7451
 Geographic Focus REGIONAL PROFILE	4972
 Ghana Association of Privacy Professionals	3582,1191
@@ -271,13 +282,16 @@ International Association of Privacy Professionals. CIGI	1243
 Intrinsic Risk Profile	11156
 Investor Profile	4972
 Investor Profile Figure	4972
+Investor Profiles	12376
 Investors Profile	4972
 JOURS GRATUITS Profitez	10387,306
 Junior Professional Officer	11867
+KINGDOM OF ESWATINI ICT PROFILE	12395
 KSh Million Year Quar- Public Profession-	2775
 KSh Million Year Quarter Public Profes-	2775
 Kenya Base Set of Profiles	10100
 Khalifa Al Abdulsalam Assistant Professor	2958
+Kingdom of Eswatini Profile Eswatini	12395
 Le Professeur Enaw Ebot Ebot	3985
 Learning Digital Content Professional Life Consumption	582
 Ley Orgánica de Formación Profesional	4209
@@ -301,6 +315,7 @@ NAAIP Founder Professor Emeritus Peter Akinsola	8710
 NAAIP President Professor Eyitope Ogunbodede	8710
 NDTV Profit	9640
 NIST Generative AI Profile	7451
+NPRS Person Profile Data Architecture	12337
 Namibe Uíge Zaire Professores	10766
 National Authority for Professional Education	2989
 National Cybersecurity Committee Professor Vinaye Armoogum	9949
@@ -309,6 +324,9 @@ National Institute of Employment and Professional Training	10768
 Net Profit	1944,10011
 Net Profit NAD	1013,931
 Nigeria. Professional	9739
+No. Name of User Profile Reason for Disabling	12364
+No. Name of User Profile Reason for Removing	12364
+No. Name of User Profile Reason for Revoking	12364
 Non Profit	3714
 Non Profit Institutions Serving Households	2775
 Novas Profissões	2816
@@ -319,6 +337,7 @@ Número de Professores	10766
 O Professor Associado Jorge Nhambiu	9694
 Observatory of Employment and Professional Training	10963,1
 Offsec Certified Professional	1940
+Online Publication of List of Qualified IP Professionals	12389
 Operator Profiles	4130
 Ordens Profissionais	11383
 Organisational Profile	9198
@@ -333,7 +352,7 @@ PROFESSOR A. MURWIRA	413
 PROFESSOR SEM FORMAÇÃO PEDAGÓGICA	10766
 PROFI	3868
 PROFIL DU CABINET ET DES EXPERTS	12043
-PROFILE	4429,5,792,5686,977,263
+PROFILE	4429,5,792,5686,977,263,188,1
 PROFILE African Trade Policy Centre	11550
 PROFILE US	4972
 PROFISSIONAIS LIBERAIS	11435
@@ -387,9 +406,12 @@ Professeur Vincent Kangulumba	5888
 Professeur Wilfried Gabsa	11673
 Professeure Mariatou Koné	10925
 Profession	2775,2121,5879
-Professional	34,1185,720,1,835,328,1411,14,719,1699,843,56,109,942,210,749,363,157,221,380,204,72,44,51,450,77,6,1,243,51
+Professional	34,1185,720,1,835,328,1411,14,719,1699,843,56,109,942,210,749,363,157,221,380,204,72,44,51,450,77,6,1,243,51,171,10,23,32,34,12
+Professional Agency	12389
 Professional Bar of Certified Auditors and Accountants	11955
+Professional Bodies	12453
 Professional Certificate	10133
+Professional Certifications	12389
 Professional Development	6946
 Professional Etiquette	6946
 Professional Evaluation and Certification Board	11131
@@ -397,6 +419,7 @@ Professional Experience	962
 Professional ID	10823
 Professional ID Registration	10823
 Professional Integration and Civic Service	6730
+Professional Liability Insurance	12400
 Professional NonteachingStaff Personnel	11180
 Professional Nursing Today	8603
 Professional Orientation	10963,1
@@ -407,7 +430,9 @@ Professional Services Capital Goods Food	4972
 Professional Services Figure	4972
 Professional Services Transportation Real Estate Energy	4972
 Professional Standards and Continuous Improvement	3861
+Professional Training	12356
 Professional Training Program RAIO	1204
+Professional Training and Upskilling	12356
 Professional Women Accountants of Nigeria	11866
 Professionalisation of Cybersecurity Roles	6936
 Professionalism	718,436,400,1221,8572
@@ -514,6 +539,7 @@ Professor William Webb	7508
 Professor Zoo Zame	2705
 Professor Zororo Muranda	1554
 Professor of Comparative Criminal Law	10270
+Professor of Information and Communication Studies	12325
 Professora	2816
 Professora Associada Esselina Macome	9694
 Professora Doutora Paula Meira Lourenço	3079
@@ -530,7 +556,7 @@ Professores. Gráfico	10766
 Professors Virginia Dignum and Frank Dignum of Umeå	11439
 Proficiency	11879,62
 Proficiency Testing Quality Assurance I Quality	4153
-Proficient	12214
+Proficient	12214,152
 Profil	7655,3057,2,161,1168
 Profilage	1231
 Profile	775,234,27,855,1057,565,915,363,6050,383,731,285,13
@@ -538,6 +564,7 @@ Profile CERT-GH Home RFC	775
 Profile CERT-GH RFC	775
 Profile Country	11865
 Profile Global Registration System	12227
+Profile Profile	12364
 Profile of DIAL's Digital ID Assessment	1582
 Profile of Employees Who Have Salary Levels	11218
 Profile of Employees Whose Positions Were Upgraded	11218
@@ -556,7 +583,7 @@ Profissionais Qualificados	10777
 Profissionais de Comunicação Social Artigo	12311
 Profissional	10777,1534
 Profissional Qualificado	11898
-Profit	2096,2010,1905,985,431,236,378,2649,103,338,3,822,269,90
+Profit	2096,2010,1905,985,431,236,378,2649,103,338,3,822,269,90,74
 Profit Adjusted	11134
 Profit Assets Liabilities Shareholder Equity Addition PPE	1944
 Profit Company	11250
@@ -565,6 +592,7 @@ Profit Margin	1944
 Profit Margin Return	1013,931
 Profit Scaling	5869
 Profit Sharing Percentage Ratio	11276
+Profit Taxes	12389
 Profitability	1944,3157,1846,480,371,1937,1058,343,104
 Profitability Earnings Before Interest Tax	6100
 Profitability Operational Efficiency Prudential Indicators	11955
@@ -581,15 +609,17 @@ Profundo	12021
 Programa Apoyo Formación Profesional Ocupacional	4209
 Programme Doctorate Degree Masters' Degree Professional	11134
 Project Beneficiaries Component Beneficiary Profile	10964
+Project Management Professional	12400
 Província Total Professores Alunos Pública Professores	10766
 QUADRO DE PROFESSORES E INFRAESTRUTURAS	10766
 QUALIFICATIONS ET PROFIL DU CONSULTANT SYSTÈME	7977
 QUALIFIED CYBERSECURITY PROFESSIONALS	1940
 Quadro de Professores	10766
+Qualified Professional	12389
 RCCC Chairman Professor W. Magwa	1554
 REALIZED PROFIT	4602
 REGIONAL PROFILE	4972
-RESULTS PROFILE	10759,76,3,130,902,16,1,267
+RESULTS PROFILE	10759,76,3,130,902,16,1,267,198,1
 Reagents for Mineral Froth Flotation Professor Tawanda	1154
 Recouvrement BEPS Base Erosion Profit Shifting	10712
 Rector André Pedro Neto and Chairholder Professor	11478
@@ -657,6 +687,8 @@ Unidad de Orientación Profesional	4209
 University of Oslo Associate Professor Terje Aksel	6048
 University of Professional Studies	7968,3859
 Use of Built Environment Professionals	2775
+User Profile	12364
+User Profiles	12364
 Vice-chancellor Professor Nana Aba Appiah Amfo	8287
 View Profile	2837,989,15,690,99,50,66,65,38,415,53,275,312,44
 Village Assessment Survey County Profiles	1867
@@ -665,3 +697,4 @@ YoY. Profit	10793
 Young Professional	10765,10
 Young Professionals	1204
 ZIMBABWE Corporate Profile The Research	1154,400
+ZIPSS Profile CSD Profile First	12364

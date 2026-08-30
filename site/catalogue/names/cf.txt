@@ -174,6 +174,8 @@ CFT BCM BIS CAR CBE CBDC	11134
 CFT Bill	2193
 CFT CBS CIF EA EAC EMDEs	11136
 CFT Compliance Financial Institutions	11861
+CFT Financing of Terrorism ICT Information and Communication	12444
+CFT Laws Frameworks	12444
 CFT Onsite Inspections. Enhanced AML	11134
 CFT Regulations	4848
 CFTC Chief Executive Officer	3288
@@ -244,6 +246,7 @@ F Cfa. Le Bénin	5436
 FRANCS CFA	737
 FSRA and CFI	11131
 FSRA and CFI Harmonisation	11131
+Finance CFI Computer Incident Response Team	12444
 Franc CFA	2342,2344
 Francos CFA	4209,7311,3
 Francos CFA. Artículo	4209

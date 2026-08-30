@@ -8,6 +8,7 @@ Atualizado OE2022	12018
 B. The OECD	11233
 Building Fibre Incentivise OEM	11857
 CAT and OECD	11136
+CPs MoTL- OEMS	12453
 DISPOSITIF DE MISE EN OEUVRE ET	10965
 Data Center OEM Original Equipment Manufacturer	3184,1,1340,6470
 Digital Transformation OECD Publishing	573
@@ -37,10 +38,11 @@ Key Economic Indicators for Selected OECD Countries	2775
 Licensing of OEMs	11857
 MODALITES DE MISE EN OEUVRE DES	11567
 MOU OECD	10570
+MoTL- OEMS	12453
 Monetária Oeste Africana	11568
 MÉTHODOLOGIE DE MISE EN OEUVRE	12043
 N AREAS AFFORDABILITY Incentivise OEMs	11857
-National Data Center OEM Original Equipment	10781
+National Data Center OEM Original Equipment	10781,1646
 National Institute of Statistics of Rwanda OECD Organization	1204
 National Security Adviser OEM Original Equipment	11857
 O OE	1265,683
@@ -48,7 +50,7 @@ O OE2024	1265
 OBJETIVOS ESTRATÉGICOS OE1 OE2 OE3 OE4	11569
 OCR Optical Character Recognition OECD Organisation	1814
 ODRA Open Data Readiness Assessment OECD	4214
-ODW Open Data Watch OEC Observatory	10835,3,130,902,16
+ODW Open Data Watch OEC Observatory	10835,3,130,902,16,466,1
 OE Owner	11380
 OE10. Elaborar	11379
 OE2. Elaborar	11379
@@ -60,7 +62,8 @@ OE8. Incentivar	11379
 OE9. Estimular	11379
 OEA Consult Limited	9104
 OEACP	3045
-OEC Observatory for Economic Complexity	11887,266,1,9
+OEC Observatory for Economic Complexity	11887,266,1,9,178
+OEC World	12380
 OECD AI	4970,6184
 OECD AI Dashboard	11135
 OECD AI Definition	7548
@@ -101,11 +104,11 @@ OECD Ministers	11154
 OECD OHCHR UCT UNESCO UNICEF	11156
 OECD Open	1243
 OECD PRIVACY GUIDELINES The Organization	1243
-OECD Principles	7548,3587,19
+OECD Principles	7548,3587,19,1202
 OECD Principles for Government Access	11154
 OECD Privacy Framework. Retrieved	1243
 OECD Privacy Guidelines	1243
-OECD Publishing	2096,5452,3592,16,77,25
+OECD Publishing	2096,5452,3592,16,77,25,1127
 OECD Publishing. Available	11133
 OECD Publishing. Google	1243
 OECD Publishing. OECD	1243,5589
@@ -116,7 +119,7 @@ OECD Skills Strategy Flanders	6832
 OECD The G20 Interestingly	11154
 OECD Trade Policy Paper	11154
 OECD Unemployment Rate	2775
-OECD Working Papers	11007
+OECD Working Papers	11007,1326
 OECD Working Party	4126
 OECD and ASEAN. AU Convention	961
 OECD and EU Standards	9204
@@ -190,5 +193,5 @@ UN OEWG	2117
 UNESCO and UNICEF. OECD DAC	11907
 Updated OECD Framework	11007
 V. MOYENS DE MISE EN OEUVRE	12
-Watch OEC Observatory for Economic Complexity PTS	10759,78,1052
+Watch OEC Observatory for Economic Complexity PTS	10759,78,1052,451
 World Bank and OECD GDP	10969,1236

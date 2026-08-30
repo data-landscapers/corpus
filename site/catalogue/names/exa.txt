@@ -16,9 +16,12 @@ Ciências Exactas	11472
 Classification Definition Examples Residency Security Level	5244
 Confidential Attributes Symbol Example Process Name	9124
 DELIVERY CHAIN PHASE Provide Manage EXAMPLE	11156
+Data Explanation Example Good Poor Definition	12360
 Digitize National Exams	4670
 Direction Générale des Examens	10847
 Directorate of Examinations of MEPPSA	11905
+Directorate of National Examinations and Assessment	12345
+Driving License Exam Results	12333
 EU AI Act. Examples	11135
 EX189-SEC Exagrid	11209
 EXA Express	1766
@@ -60,13 +63,13 @@ Examination	3,8351,1842,2031
 Examination Council	899,1786,2,359,86,176,15,119,65,590,447,96,374,93,240
 Examinations	736,3874
 Examinations Grade	11220
-Examine	5677,6317
+Examine	5677,6317,451
 Examine NGSO	5680
 Examined	1958,7781
 Examiner	747,8144,1985
 Examines	1004,7601,3609
 Examinez	747
-Examining	226,1460,832,2158,3083,3269,107,21,55
+Examining	226,1460,832,2158,3083,3269,107,21,55,1128,30
 Examining Bodies	7832
 Examining Brazil	5366
 Examining E-Government Development Effects	5349
@@ -76,7 +79,7 @@ Examining the Job Creation and Workforce Potential of AI	7588
 Examining the Linkages Between Digitalisation	5349
 Examining the Mediating Role of ICT Regulatory Environment	5349
 Examiné	8735,1,150,1075
-Example	21,878,344,535,2194,556,1216,409,270,243,2333,1765,277,88,62,727,76,308
+Example	21,878,344,535,2194,556,1216,409,270,243,2333,1765,277,88,62,727,76,308,36,1,21,14,18
 Example Encounter	6666
 Example Forthreepatientswithages25	8606
 Example Individual Address	11129
@@ -96,11 +99,12 @@ Example of Private Mail Bag	11129
 Example of Rural Addresses	11129
 Example of Rural Addressing	11129
 Example of Urban Addressing	11129
-Examples	21,375,36,1,149,379,9,39,252,553,14,160,901,762,210,265,484,15,347,468,158,67,35,453,386,54,121,874,162,1,532,153,563,124,1591,51,10,4,33,7,27,131,30,133,9,47,2,347,27,158,188,34,4,38,1,6,22,67,120,19,24,3,46
+Examples	21,375,36,1,149,379,9,39,252,553,14,160,901,762,210,265,484,15,347,468,158,67,35,453,386,54,121,874,162,1,532,153,563,124,1591,51,10,4,33,7,27,131,30,133,9,47,2,347,27,158,188,34,4,38,1,6,22,67,120,19,24,3,46,26,11,20,60,23,3
 Examples for Section	8530
 Examples of G2P	11130
 Examples of M-PESA	11994
 Examples of Notable Enforcement	11896
+Examples of PIPs	12374
 Examples of RADIOSCOPICALLY GUIDED INTERVENTIONAL PROCEDURES	11269
 Examples of Successful African	10856
 Examples.xlsx Manuel Open Data	747
@@ -147,6 +151,7 @@ Primary School Leaving Examination	7671
 Princípio de Exactidão	11374
 Radio Amateur Examination Certificate	736
 Recommendation Examples Entrepreneurship Support	10841
+Requirements Requir Data Definition Explanation Example	12360
 Role Grouping Roles Examples	6832
 S. Exa	10751
 S. Exa. O Titular Justiça	10750

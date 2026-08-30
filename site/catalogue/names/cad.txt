@@ -1,9 +1,11 @@
+AI CAD	12418
 Accord Cadre	10876
 Actualisation des Données Cadastrales	10876
 Actualisation des Données Cadastrales MTGES Manuel Technique	10876
+Availability of Digital Cadastral Plans	12389
 BN Budget National CDMT Cadre des Dépenses	10712
 Benjamin Cadet	12095
-Brazil's Cadastro	4981,5047,1105
+Brazil's Cadastro	4981,5047,1105,1310
 CAD CIP VALIDAR	11862
 CAD CREATIONS LTD Data Controller INST-4815997CAF5	7167
 CAD and ACRIAJUDA	12201
@@ -58,10 +60,11 @@ Cada Fase	9432
 Cada Livro	11369
 Cadaadisyada	11136
 Cadamuro	12006
-Cadaster	427
+Cadaster	427,11962
 Cadastrada	11384
 Cadastrado	11384
 Cadastral	4596,7343
+Cadastral Coverage	12389
 Cadastral Information System CLCC Chief Land	11261
 Cadastral Registration and Property Rights System	12211
 Cadastral Zone A00 Central Business District	12062
@@ -75,7 +78,7 @@ Cadastre PMPP Plan de Mobilisation des Parties Prenantes	10876
 Cadastre and Cartography	5004
 Cadastre and Land Registration Authority	888
 Cadastre. Au	10902
-Cadastro	427,1675,8677,354,250,1,49,94,371,3
+Cadastro	427,1675,8677,354,250,1,49,94,371,3,542
 Cadastro Diferido	11384
 Cadastro Disponibilidade de Estatísticas	11898
 Cadastro Interoperabilidade	11898
@@ -145,6 +148,7 @@ Catégorie Hommes Femmes Total Cadres	10975
 Certidão Cadastral	11384
 Certidões Cadastrais	11384
 Chefe da Secção de Cadastro Arrecadação	11435
+Complaint Mechanisms for Cadaster	12389
 Conseil le Cadre	3326
 Conservação de Cadernos de Recenseamento Compete	11528
 Conteúdo da Cartografia Cadastral	11384
@@ -160,6 +164,7 @@ Directorate of Cadastre and Land Conservation	4034
 Directorate of Land Titles and National Cadastre	3042
 Directorate-General of Mining Cadastre	10873
 Disbursed CAD	2167
+Disclosure of Cadastral Information	12389
 D’ACTUALISATION DES DONNEES CADASTRALES	10876
 ESU Cadre Sectoriel de Dialogue FDSI	643
 ET D’ENREGISTREMENT DE PARCELLES AU CADASTRE	10876
@@ -180,6 +185,7 @@ III. CADRE INSTITUTIONNEL ET GOUVERNANCE III.1	10876
 INSD Cadre	10874
 ISSUES DU NOUVEAU CADRE JURIDIQUE	2342
 IV.1.1.1 Cadre	10876
+Immovable Property Registry and Cadaster	12389
 Informações Cadastrais	11384
 LA PERFORMANCE UN CADRE ORGANISATIONNEL AVEC	2342
 LETTRE DE CADRAGE BUDGETAIRE POUR L'EXERCICE	1866
@@ -241,6 +247,7 @@ Système Intégré de Gestion du Cadastre	2598
 Technologique CSLP Cadre Stratégique de Lutte	12
 Thème Cible Effectif Cadre	10975
 Titulares Cadastrais	11384
+Transparency of Cadaster Costs	12389
 UN CADRE JURIDIQUE PROTECTEUR POUR	2695
 UN CADRE ORGANISATIONNEL OPTIMISÉ POUR L’ATTEINTE	2342
 Urbain Rural Total Cadre	737

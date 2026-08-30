@@ -29,7 +29,9 @@ Andy Castle and Nilesh Nawale	2677
 Angola opens graft case into would be ruling party	9399
 Annual Comparison of Statistics for Cases	11250
 Anticipatory Cash Transfers	10763
+Any Corruption Case	12436
 Apenas Agressão Castigo	10760
+Approve Business Cases	12359
 Aratek USE CASE AND CONTEXT	10852
 Arco Cash	8732
 Ato Forson Finance Minister Dr Cassiel	7740
@@ -43,6 +45,7 @@ BSPI Indonesian Payment System Blueprint CASA	11994
 Barney Afako and Carlos Castresana Fern	3583
 Base Case	5245
 Base Case Scenario	11863
+Basic Bank Account and Cash Deposit Fees	12447
 Batteries Soft Carrying Case	34
 Benefits Functionalities Cities Resources Documentation Case	12211
 Bets Masiyiwa’s Cassava	4425
@@ -67,6 +70,7 @@ Business Case for Providing Financial Services	12297
 CALLS CASE A POLITICAL WITCH-HUNT	10581
 CAS Decentralized	11924
 CAS D’UTILISATION	10819
+CASA Date	12364
 CASA HERA DIANI Data Controller INST-3348788AF17	7167
 CASABLANCA	2258
 CASCADE COMPANY LIMITED Data Controller INST-748738288FD	7167
@@ -87,8 +91,9 @@ CASE STUDIES GUIDANCE Disclosures	5618
 CASE STUDIES GUIDANCE Executive	5618
 CASE STUDIES GUIDANCE Governance	5618
 CASE STUDIES GUIDANCE Introduction REUTERS	5618
-CASE STUDY	10823
+CASE STUDY	10823,1504
 CASE STUDY BANXSO	8354
+CASE STUDY ON THE IMPLEMENTATION	12337
 CASE YOU MISSED	2359,13,87,68,36,30,118,5,38,73,95,11,121,34,20,130,25,37,6,91,61,22,11,33,54,34,36,14,40,26,12,3,1,53,40,95,124,13,13,112,45,4,29,54,220,29,47,10,98,73,98,92,74,21,20,30,170,31,30,91,61,13,2,12,12,47,7,58,2,58,102,75,67,26,56,46,65,1,8,8,1,14,28,62,8,33,16,28,4,8,71,7,18,54,11,5,3,96,47,11,2,12,27,34,3,24,18,34,7,1,30,3,82,57,50,35,3,70,4,171,6,45,2470
 CASEM	2074,501,821,59,14,930,1092,103,4531,749
 CASEM du Ministère	10874
@@ -99,6 +104,7 @@ CASEMF-CIP- CIP-FIBANE	10965
 CASEMF-CIP-FIBANE	10965
 CASEMF-CIP-FIBANE RNSM CREMF	10965
 CASES	11607
+CASH AND CHEQUES	12392
 CASH FLOWS	11955
 CASH FLOWS USED IN FINANCING ACTIVITIES	10793
 CASH Plus	2669
@@ -129,6 +135,7 @@ COMOE SUD-OUEST CAS CADE S CEN	10847
 COMPONENTS Name Economic Shock Responsive Cash	11988
 CONTENTS FOREWORDS EXEC SUMMARY FINDINGS CASE	5618
 COVID-19 Urban Cash Intervention	10763
+CRVSID Case Studies	12337
 CSPs Content Services Providers CT-OVC Cash	2775
 CWG Cash Working Group DRC Danish	6947
 Call for High-Impact AI Use Cases	11345
@@ -192,20 +199,22 @@ Case Law And Digital Proof	11654
 Case Lines	2307
 Case List	9507,105,1
 Case Management	10776
-Case Management System	5642,3032,304,805
+Case Management System	5642,3032,304,805,2606
 Case Management System New Digital Platform	6806
 Case Management System PSC Project Steering	1867
+Case Management-Disability Persons	12373
 Case Minimum Requirements Password User	11952
 Case No	11986
 Case Of Kikuyu Constituency	899
 Case Register and Allegations	11250
 Case Register and Allegations Annual Comparison	11250
 Case Selection Logic and Scope Cases	7966
-Case Studies	1250,3313,2384,1,203,3701
+Case Studies	1250,3313,2384,1,203,3701,1504
 Case Studies Annexure F	11952
 Case Studies E.1 Global Implementation Examples	11952
 Case Studies and Precedents	3861
-Case Study	797,230,1084,312,962,1463,396,899,1564,1149,1963,187,1,133,776,227
+Case Study	797,230,1084,312,962,1463,396,899,1564,1149,1963,187,1,133,776,227,184,91
+Case Study A ZOOM-IN ON EGYPT	12339
 Case Study Analysis Report	7151
 Case Study Companion	2858
 Case Study EthSwitch Ethiopia Origin	12269
@@ -249,7 +258,7 @@ Case-5	1555,58
 Case-Zablocki Act	6534
 CaseStatus	6423
 Cased-based Surveillance	396
-Cases	1009,819,2432,773,2118,1135,150,226,1371,742,5,199,154,445,408,311
+Cases	1009,819,2432,773,2118,1135,150,226,1371,742,5,199,154,445,408,311,28
 Cases Filed	2775
 Cases Numériques. Ensuite	7925
 Cases Reported	11912
@@ -263,15 +272,19 @@ Caseworkers	2096
 Caseworkers Respond	2096
 Cash Assistance	12227
 Cash Back	6504
+Cash Ben	12373
 Cash Bonus	11218
 Cash Card Mobile Money	5247
 Cash Center	7535
 Cash Centre Improvements Eswatini ISO	11134
+Cash Collateral RA	12364
+Cash Collateral Reserve	12364
 Cash Collect	11994
 Cash Collection	6804
 Cash Component	4896
 Cash Consideration	4896
 Cash Consortium of Sudan	6947
+Cash Deposit Fees	12447
 Cash EFT	5247
 Cash Economy	226
 Cash Equivalents	11230
@@ -285,6 +298,9 @@ Cash Over Combat	10409
 Cash Persists	10277
 Cash Point	8816
 Cash Power	9973
+Cash RA	12364
+Cash Reserve Account	12364
+Cash Reserve TTC	12364
 Cash Total Project Cost	11863
 Cash Tranfer Manual	11525
 Cash Transaction Reports	789
@@ -295,6 +311,7 @@ Cash Transfer Manual	11525
 Cash Transfer Manual. The PCU	11525
 Cash Transfer Process and Regulations	4439
 Cash Transfer Program	11525,399
+Cash Transfer Programme	12448
 Cash Transfer Programme102	11994
 Cash Transfer Programs	11133
 Cash Transfer Specialist	11855
@@ -313,6 +330,8 @@ Cash and Voucher Assistance	12227
 Cash for Education Program	10963,1
 Cash for Jobs	4427
 Cash for Work	5057
+Cash for Work Programme	12373
+Cash-	12440
 Cash-Based Interventions	2340
 Cash-based	10779
 Cash-for- Assets	970
@@ -333,6 +352,7 @@ Cashflow Budget	11209
 Cashflow and Debt Management Committee	11131,3
 Cashi	5698
 Cashi Tchad	5051
+Cashier	12379
 Cashing	40
 Cashless	4051,617,1163,3057,3112
 Cashless Economy Cameroon’s Lekel Asonganyi Builds	7301
@@ -506,6 +526,9 @@ Ecoles NB Salles Total CASCADES	10847
 Effectiveness Cash	10985
 Electronic Case Management System	958,5848
 Electronic Case Management System EMF	958
+Electronic Case Management Systems	12389
+Electronic Case Management for Insolvency Administrators	12389
+Electronic Case Management for Judges and Lawyers	12389
 Emergency Cash Transfers	10963,1,21
 Emergency Cash Transfers Households	10964
 Emergency Response Room GCT Group Cash	6947
@@ -513,6 +536,7 @@ Entout Cas	5022
 Erik De Castro	5618
 Establish AI Use Case	7548
 Estudo de Caso	10775
+Eswatini Challenges Solutions Cases PILLAR	12444
 Etat. IV.1.1.8.5 Cas	10876
 Ethiopia Social Cash Transfer Pilot Program	11855,69
 Extended Regular Cash Transfer	11988
@@ -558,6 +582,7 @@ Humanitarian Cash Transfers and Displaced Populations	12297
 Hunt La Cascia	11867
 IDSR Using Individual Case Form Compared	11912
 IDSR for Individually Notified Cases	11912
+IECMS Integrated Electronic Case Management System	12413
 IFC. Cassava	1429
 IMPLEMENTATION OF NATIONAL INTEROPERABILITY USE CASES	1009
 IRR. Cash	3604
@@ -573,14 +598,16 @@ Implementation of National Interoperability Use Cases	1009
 Implementation ofNotional Interoperability Use Cases	1009
 Imprensa Nacional Casa da Moeda	3192
 Imprensa Nacional Casa de Moedas de Portugal	5819
+In-kind Assistance Cash Transfer	12373
 Inflation Erodes Cash Transfers	10985
 Ingrid Case of INCase	10977
 Innovation and Sectoral Use Cases	3235
 Institutional Logics Case Analysis	226
 Integrated Cash Transfer Project Management Information	10763
-Integrated Electronic Case Management System	5039,3635
+Integrated Electronic Case Management System	5039,3635,3713,86
 Integrated Legal Case Management	6946
 Integrated Legal Case Management System	6946
+Interconnection Between Case Management System	12389
 Internet. Case-based	12003
 Interoperability Emerging Technologies and Special Use Cases	5665
 Interoperability Use Cases	1009
@@ -590,6 +617,7 @@ Investment Case	10829
 Investment Case and NHDP III. Core	10829
 Investment Case. Analytical	10829
 Iran Cash and Interestcash	10793
+IremboGov. Case	12338
 Italian Case	5349,351
 Javier Diaz Cassou	7655
 John Mushayavanhu ZiG Cash	5222
@@ -636,6 +664,7 @@ Measles Cases Baseline	4153
 Measles Cases Maternal Mortality Rate	4202
 Measles Cases Maternal Mortality Rate Children	5352
 Michael Caster	8890
+Micro1-3 Small4-30 Medium31-100 Personal Cash	12445
 Minister of Land Transport Mahomed Osman Cassam	10296
 Ministério Público. Caso	549
 Missing Elderly Cases Rise	8639
@@ -679,6 +708,7 @@ Older Persons Cash Transfer OPEC Organization	2775
 Open Cases	11250
 Orange and Zenysis. Zimbabwe Digital Health Case	3385
 Organic Cash Flow	8125
+Oskar Matheus Candenge Cassinga	12478
 Oxford University Press. Casalini	11154
 Oütros Casos de Transmissãp	11514
 PCU. Cash	3604
@@ -737,14 +767,17 @@ SOUROU TOUGAN CASCADES BANFORA COMOE BANFORA	10847
 ST Digital and Cassava	6580
 STUDY CASES	11228
 Sectoral Adoption and Use Cases	4528
+Services Personal Cash Parent Company	12445
 Sim. Caso	12018
 Smart4U’ Bundle Integrated Electronic Case Management	2987,16,13,949,1438,159,1347
 Social Cash	11855
-Social Cash Transfer	8513,2192,58
+Social Cash Transfer	8513,2192,58,1572,129
 Social Cash Transfer Program	12181
 Social Cash Transfer Programme	12182
+Social Cash Transfer Programme Reaches	12464
 Social Cash Transfer Programme The Ministry	10705
 Social Cash Transfer Programme's Learning	12182
+Social Cash Transfer. Government	12453
 Social Cash Transfers	10765,10
 Social Cash Transfers Social	10775
 South Africa's Cash Smart Strategy	4824
@@ -759,6 +792,7 @@ Sudan.56 Group Cash Transfers	6947
 SunnyTech and CasaTech	6037
 Synthetic Control Methods for Comparative Case Studies	12006
 Sánchez Castillo	2948
+TBD Gas-to-Power Use Case Feasibility Study	12399
 TCLE Democratic Republic of Congo Case Study	11916
 Tax Information and Cash Registration Machine Administration	12225
 Taxa de Serviços Casa Cidadão	1340,743,2330
@@ -820,5 +854,9 @@ World Bank GovTech Case Study	1393
 Yves Castanou	6764,3054,563,162,148
 Yves Castanou. Cette	10543
 ZUBAH TOWN ROBBERY CASE MOVES FORWARD	10581
+Zambia Digital Health Case Study	12418
+Zambia Digital Health Case Study Electronic	12418
+Zambia Digital Health Case Study Governance	12418
+Zambia Digital Health Case Study MODESTER	12418
 Zimbabwe Digital Health Case Study Page	3385
 Zimbabwe Harmonized Social Cash Transfer Program	11855,69

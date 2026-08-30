@@ -39,7 +39,7 @@ Affaire Bachar	1943
 Affaire Dangnivo	7392,1
 Affaire Jabaroot	11835
 Affaire Martinez Zogo	10379,2,310
-Affaires	998,596,88,662,63,154,790,45,15,567,349,665,86,39,6,566,177,33,566,90,251,21,56,13,63,226,220,25,111,41,88,152,156,21,73,80,85,2,22,8,67,105,143,134,15,30,58,70,151,2,243,55,106,102,106,319,202,54,173,96,19,26,47,234,34,42,73,116,580,242,32,27,55,56
+Affaires	998,596,88,662,63,154,790,45,15,567,349,665,86,39,6,566,177,33,566,90,251,21,56,13,63,226,220,25,111,41,88,152,156,21,73,80,85,2,22,8,67,105,143,134,15,30,58,70,151,2,243,55,106,102,106,319,202,54,173,96,19,26,47,234,34,42,73,116,580,242,32,27,55,56,344
 Affaires Contentieuses ST	10975
 Affaires Coutumières	6354
 Affaires Coutumières Shabani Lukoo Pour	5123
@@ -58,7 +58,7 @@ Affaires Sociales DGEFC Direction Générale des Eaux	10876
 Affaires Sociales Guy Patrick OBIANG NDONG	1231
 Affaires Thomas Hines	6695,2106
 Affaires Zimmerman	4340,5
-Affairs	250,96,443,44,944,606,1200,543,1407,722,257,564,352,120,26,125,1344,207,936,626,323,83,639,30,18,55,26,167,1,9,134
+Affairs	250,96,443,44,944,606,1200,543,1407,722,257,564,352,120,26,125,1344,207,936,626,323,83,639,30,18,55,26,167,1,9,134,44,126
 Affairs Bill Home Affairs Bill	11986
 Affairs CORS Continually Operating Reference Stations	11261
 Affairs Draft Home Affairs Home Affairs	11986
@@ -85,7 +85,7 @@ Affectation	1205,1271,8400
 Affectation Spéciale	2476
 Affectation Spéciale du Trésor	1974
 Affectation Spéciale du Trésor CCI	10874
-Affected	1778,50,160,1873,740,486,1611,37,1231,1251,1453,549,63,623,261
+Affected	1778,50,160,1873,740,486,1611,37,1231,1251,1453,549,63,623,261,207,102
 Affected Environment. The World Bank Group	10841
 Affected Section	3502
 Affected Sections	3502
@@ -98,6 +98,7 @@ Affessy	10056
 Affessy Affessy	10056
 Afficher	8718
 Affidavit	11282
+Affidavits Checks for Entrepreneurs	12389
 Affiliate	3503,7361
 Affiliate Programme	12241
 Affiliate Researcher	7233
@@ -119,7 +120,7 @@ Affirmative Repositioning	1981
 Affirming	8496,1164
 Affluent	4563
 Afflux	10688
-Affordability	395,1,544,1000,1516,148,591,157,2241,115,2019,280,96,42,4,307,303,165,565,355,88,72,28,104,126,301,9,285,45,1,61,30,12,230,42
+Affordability	395,1,544,1000,1516,148,591,157,2241,115,2019,280,96,42,4,307,303,165,565,355,88,72,28,104,126,301,9,285,45,1,61,30,12,230,42,55,52,4,10
 Affordability Affordability	11964
 Affordability Bangladesh Affordability	11964
 Affordability Concerns Persist	4182
@@ -135,19 +136,21 @@ Affordability Infrastructure IN7-IN9	11857
 Affordability Literacy and Affordability Safety	11004
 Affordability Literacy and Philippines	11964
 Affordability Remains	11737
-Affordability Report	11863
+Affordability Report	11863,470
 Affordability Safety	11964
 Affordability Safety and Connectivity	11004
 Affordability Safety and Safety	11964
 Affordability Smart Access Devices	11857
+Affordability and Availability	12333
 Affordability and Internet	11563
 Affordability of Financial Services	940
 Affordability of ICT	10851
+Affordability of ICT Services UUSD	12395
 Affordability of Internet-Enabled Handsets and Data	11004
 Affordability-Chart.jpg	6318
 Affordability-Variation-Graph.jpg	6318
-Affordable	789,475,440,550,37,952,804,63,1136,433,1525,73,599,215,22,934,712,1324,57,329,261,376,108,22
-Affordable Broadband	6539,126
+Affordable	789,475,440,550,37,952,804,63,1136,433,1525,73,599,215,22,934,712,1324,57,329,261,376,108,22,209
+Affordable Broadband	6539,126,5761,55
 Affordable Broadband Connectivity and Inclusion	1914,798,3867
 Affordable Broadband Loan DFC	831
 Affordable Broadband US	6539
@@ -163,6 +166,7 @@ Affordable Satellite	10588
 Affordable Technology Solutions	10848
 Affordable and Clean Energy Goal	11332
 Affordable and Contributing	8559
+Affordable and Efficient Services	12327
 Affordances	8605
 Afforestation	2738
 Afr Aff	5242
@@ -178,9 +182,10 @@ Afrique Centrale DAJR Département des Affaires Juridiques	11944
 Afrique du Droit des Affaires	10829,7,139,547,27
 Afrique du Droit des Affaires ONG Organisation Non	10876
 AftfoilIiantsitointution of Affiliation	1154
-Alliance for Affordable Internet	4619,7238
+Alliance for Affordable Internet	4619,7238,476
 Alliance for Affordable Internet-	11863
 Alliance. Affirming	11183
+Annual Report of Ministry of Home Affairs	12337
 Assistant Postal Affairs Min Melvin Yealue	2456
 Assistant Postal Affairs Minister Melvin Yealue	2456
 Assistant Secretary for African Affairs	2869
@@ -213,7 +218,7 @@ Bureau de Coordination des Affaires Humanitaires. In OC	10826
 Bureau of Consular Affairs	11868
 Business Affairs	11005
 C. Digital Infrastructure and Affordability AI	11140
-CAHF Centre for Affordable Housing Finance	10835,3,130,902,16,1,266,1,9
+CAHF Centre for Affordable Housing Finance	10835,3,130,902,16,1,266,1,9,178,11,1
 CATEGORIES AFFECTED	2709
 CBL Senior Director for Regulatory Affairs	9943
 CITIZEN AFFAIRS	5533
@@ -232,7 +237,7 @@ Canadian Minister of Foreign Affairs	9043
 Carnegie Technology and International Affairs Program	5257
 Cellule des Affaires	8269
 Central Bank Affirms Mobile Money	3308
-Centre for Affordable Housing Finance	10759,78,1052
+Centre for Affordable Housing Finance	10759,78,1052,451
 Centre for Multilateral Affairs	7946
 Chargé des Affaires Juridiques du Service Juridique	743
 Chief External Affairs Officer	4993,2438
@@ -278,6 +283,7 @@ Coordination of Humanitarian Affairs	10776,380,744
 Coordination of Humanitarian Affairs ONI National	969
 Coordination of Humanitarian Affairs PEN7	10776
 Coordinator. Affairs	1777
+Copyright Ministry of Legal Affairs	12410
 Corporate Affairs	3538,2758,4996
 Corporate Affairs Commission	6536,153,1057,545,246,1737,855,893,286
 Corporate Affairs Director	3567
@@ -328,6 +334,8 @@ Department of Cooperative Governance and Traditional Affairs	11248
 Department of Cultural Affairs	11195
 Department of Disability Affairs	11133
 Department of Economic and Social Affairs	10714,126,629,682
+Department of Economic and Social Affairs.2	12376
+Department of Economics and Social Affairs. World Health	12367
 Department of Foreign Affairs and Trade	11868
 Department of Home Affairs	2115,566,11,141,392,210,487,745,105,11,3,246,115,386,67,322,202,72,191,125,15,340,1,203,25,235,174,39,25,7,63,919,45,176,278,14,5,159,15,541,177,90,266,15,8,47,782,1,35,6,4,3,11,10,2,16,10,4,4,3,209,443,40,9,11,8,42
 Department of Home Affairs Annual Report	11977
@@ -341,6 +349,7 @@ Department of Home Affairs’ Trusted Employer Scheme	9250
 Department of Legal Affairs	1243
 Department of Refugee Affairs	12227
 Department of Traditional Affairs	11188
+Department of Veterans Affairs	12373
 Department of Water Affairs’ Working for Water	11334
 Departments Affected By Supplementary Budget	2428
 Deputy Assistant Secretary of State for African Affairs	7344
@@ -353,6 +362,7 @@ Development. The Department of Home Affairs	11986
 Device Affordability	8111
 Device Affordability and Access Scheme	4653
 Device Affordability and Access Scheme Data Protection	4653
+Device ICT Affordability Security	12359
 Diaspora Affairs	2428,1725,6160
 Diaspora Affairs Office	4126
 Digital Affairs	2398
@@ -389,6 +399,7 @@ Doctrinal Foundation of Data Sovereignty AFFIRMING	3861
 Doudoubalala MINISTÈRE DES AFFAIRES MUSULMANES ET	4402
 Draft Home Affairs Bill	5533
 Draft Home Affairs Bill Reporting	11986
+Dutch Ministry of Foreign Affairs	12333
 Dutch Ministry of Social Affairs and Employment	7966
 Développement Rural MINAS Ministère des Affaires Sociales	10965
 Développement du Social Affairs Cacao	10985
@@ -403,7 +414,7 @@ Economic Affairs and Agriculture	7452
 Economic Affairs and Employment Enterprises France	11135
 Economic and Financial Affairs	4071
 Economic and Social Affairs	11569
-Economic and Social Affairs UNESCO United Nations	10759,78,1052
+Economic and Social Affairs UNESCO United Nations	10759,78,1052,451
 Ekurhuleni Minister of Home Affairs	10058
 El-Hadj Affissou Anonrin	4162
 Elderly Affairs Act	11133
@@ -437,7 +448,7 @@ Financial Sector Regula- Affairs	6938
 First Department of Home Affairs	11222
 Fiscal Affairs Department	1828,10397
 Fiscal Affairs Department International Monetary Fund	12225
-Foreign Affairs	1257,125,269,163,1423,2,17,301,1918,1013,1060,1866,2546,120,65
+Foreign Affairs	1257,125,269,163,1423,2,17,301,1918,1013,1060,1866,2546,120,65,211
 Foreign Affairs Academy Hall	9680
 Foreign Affairs Annual	7548
 Foreign Affairs Emerging	7548
@@ -463,9 +474,9 @@ Gender and Children’s Affairs	7934
 Gender and Development DEPARTMENT OF HOME AFFAIRS	11986
 Geo. J. Int’l Aff	2518
 Ghana’s Affinity and Nigeria’s StraitPay	4972
-Global Affairs Canada	64,136,453,8021,186,183,160,9,63,44,801,2018
+Global Affairs Canada	64,136,453,8021,186,183,160,9,63,44,801,2018,189
 Global Affairs Canada The Honourable Anita	9275
-Global Affairs Canada and IDRC	327,11811
+Global Affairs Canada and IDRC	327,11811,189
 Goewermentskennisgewings DEPARTMENT OF HOME AFFAIRS NO	11213
 Goewermentskennisgewings Home Affairs	11213,834
 Gouvernance. La Direction des Affaires Juridiques	2342
@@ -492,8 +503,9 @@ Head of Public Affairs	9563
 Health Aff	3604
 Health Aff Sch	7836
 Health Platform Ministry of Foreign Affairs	186
+Higher Learning Institutions. Affordability	12333
 Home Affair	3017
-Home Affairs	1,1008,182,187,238,1,1,370,319,45,189,73,138,81,71,1,38,257,25,210,529,292,137,50,85,26,218,11,3,361,49,1,129,207,58,111,370,52,55,17,26,33,132,540,404,73,140,25,70,119,492,308,94,405,14,179,334,82,18,7,204,163,115,12,991,20,16,6,28,2,16,10,4,2,2,3,655,9,37
+Home Affairs	1,1008,182,187,238,1,1,370,319,45,189,73,138,81,71,1,38,257,25,210,529,292,137,50,85,26,218,11,3,361,49,1,129,207,58,111,370,52,55,17,26,33,132,540,404,73,140,25,70,119,492,308,94,405,14,179,334,82,18,7,204,163,115,12,991,20,16,6,28,2,16,10,4,2,2,3,655,9,37,467
 Home Affairs APP	5876
 Home Affairs Act	5533,6453
 Home Affairs Act Home Affairs Bill	11986
@@ -545,6 +557,7 @@ Home Affairs. The White Paper	11986
 Home Affairs. Under	11246
 Home Affairs’ ETA	9250,645
 Honourable Minister for Humanitarian Affairs and Poverty	11998
+Household Affordability	12399
 Housing and Urban Affairs Shri Hardeep S	2667
 Human Development and Social Affairs	7452
 Humanitarian Affairs	970,3184,11,2,6659,1319
@@ -553,6 +566,7 @@ ICT International Relations and Affairs	1607,1289,2289,6045
 ICT International Relations and Affairs All	11230
 ID for All Tanzania’s Home Affairs Minister	2947
 ID for All The Department of Home Affairs	2614
+II. Affordable	12333
 III. KEY FACTORS AFFECTED IMPLEMENTATION	11924
 III.2.10 Direction Générale des Affaires Sociales	10876
 IMF's Fiscal Affairs Department	11906
@@ -636,6 +650,7 @@ Lower Taxes and More Affordable Devices	8241
 MAEC Ministère des Affaires	10712
 MANDATE DEPARTMENT OF HOME AFFAIRS	11986
 MBB Affordable	11563
+MHAI Ministry of Home Affairs and Immigration NIDS	12327
 MINAS Ministère des Affaires Sociales	10964
 MINISTER OF FOREIGN AFFAIRS	4202
 MINISTRY OF HEALTH Humanitarian Affairs	4154
@@ -675,8 +690,8 @@ Minister of Environmental Affairs and Tourism and Others	2307
 Minister of Finance and Economic Affairs	7694
 Minister of Finance and Economic Affairs Seedy K.M	7692
 Minister of Finance. The Department of Home Affairs	11212
-Minister of Foreign Affairs	4345,7,1473,1627,740,1083,1292,1012
-Minister of Foreign Affairs and Cooperation	25,8729
+Minister of Foreign Affairs	4345,7,1473,1627,740,1083,1292,1012,759
+Minister of Foreign Affairs and Cooperation	25,8729,3584
 Minister of Foreign Affairs and International Cooperation	3256,911,5594,715
 Minister of Foreign Affairs and International Trade	9761
 Minister of Foreign Affairs and Minister of Post	4340
@@ -684,11 +699,14 @@ Minister of Foreign Affairs of Benin	9275
 Minister of Foreign Affairs of Côte	9275
 Minister of Foreign Affairs of Nigeria	5499
 Minister of Foreign Affairs. Minister of Foreign Allairs	11517
+Minister of Foreign Affairs. PROCEDURES FOR REGISTRATION	12338
 Minister of Home Affairs	2614,329,74,418,1351,747,58,533,72,1373,989,518,159,349,474,1118,1,35,1,51,14,2,706,61,7
 Minister of Home Affairs Dr LA Schreiber	11218
 Minister of Home Affairs Edgar Lungu	121
 Minister of Home Affairs Leon Schreiber	2833,602
 Minister of Home Affairs and Another	5533
+Minister of Home Affairs and Immigration	12327,10
+Minister of Home Affairs and Internal Security	12449
 Minister of Home Affairs and Others	5533,6444,9
 Minister of Home Affairs of South Africa	11185
 Minister of Humanitarian Affairs and Disaster Management	7141
@@ -730,11 +748,11 @@ Ministry of External Affairs	4576,5173
 Ministry of External Affairs. The South African	6480
 Ministry of Finance and Economic Affairs	1277,3266,819,6814
 Ministry of Finance and Economic Affairs MoGCDSW	12175
-Ministry of Foreign Affairs	11,576,38,438,1,179,965,459,69,760,796,236,112,607,617,409,444,382,651,1232,317,59,480,289,336,33,71,142,132,294,19,333,85,149,204,14,21,120,108,38
+Ministry of Foreign Affairs	11,576,38,438,1,179,965,459,69,760,796,236,112,607,617,409,444,382,651,1232,317,59,480,289,336,33,71,142,132,294,19,333,85,149,204,14,21,120,108,38,112
 Ministry of Foreign Affairs Monrovia	4202
 Ministry of Foreign Affairs Success Indicator Measurable	4528
 Ministry of Foreign Affairs and International Affairs Review	1161
-Ministry of Foreign Affairs and International Cooperation	4849,5628,708
+Ministry of Foreign Affairs and International Cooperation	4849,5628,708,1153
 Ministry of Foreign Affairs and International Trade	395,5155
 Ministry of Foreign Affairs of Finland	5672,6520
 Ministry of Foreign Affairs of Japan	11154
@@ -742,14 +760,15 @@ Ministry of Foreign and Diaspora Affairs	7548
 Ministry of Foreign and International Affairs	1161
 Ministry of Foreign and International Affairs Civil	1161
 Ministry of Health. The Ministry of Foreign Affairs	7030
-Ministry of Home Affairs	1,1658,174,928,163,71,282,1257,587,576,1023,42,58,289,155,641,209,136,3,1,1,1411,794,191,117,195,1,1263
+Ministry of Home Affairs	1,1658,174,928,163,71,282,1257,587,576,1023,42,58,289,155,641,209,136,3,1,1,1411,794,191,117,195,1,1263,103,4,3,30,37,71
 Ministry of Home Affairs Communications Officer	6820
 Ministry of Home Affairs Internal Security	1988
 Ministry of Home Affairs and Cultural Heritage	3274
-Ministry of Home Affairs and Immigration	8960
-Ministry of Home Affairs and Internal Security	1222,556,89,12,109,303,723,548,2667
+Ministry of Home Affairs and Immigration	8960,3367,40
+Ministry of Home Affairs and Internal Security	1222,556,89,12,109,303,723,548,2667,6220,18
 Ministry of Home Affairs and Internal Security Office	1778
 Ministry of Home Affairs and Internal Security Permanent	8480
+Ministry of Home Affairs and Internal Security. Madam	12449
 Ministry of Home Affairs and NIDA	741
 Ministry of Home Affairs. Citizens	10017
 Ministry of Home Affairs. Despite	1816
@@ -757,7 +776,8 @@ Ministry of Humanitarian Affairs	12020
 Ministry of Humanitarian Affairs and Disaster Management	3583
 Ministry of Internal Affairs	1882,38,900,1568,2105,2893
 Ministry of Justice Foreign Affairs	1777
-Ministry of Justice and Constitutional Affairs	2757,826,1014,486,24,2340,2739,1
+Ministry of Justice and Constitutional Affairs	2757,826,1014,486,24,2340,2739,1,2286
+Ministry of Justice and Constitutional Affairs. The Unit	12459
 Ministry of Justice and Constitutional Affairs. Under	9242
 Ministry of Labor and Social Affairs	5172
 Ministry of Labour and Home Affairs	1662,977,2611,384,1,898
@@ -796,6 +816,7 @@ NIA Corporate Affairs	3567
 NaTCA Director of Corporate and Industry Affairs Abdul	8416
 NaTIS and Home Affairs	5017
 Nairobi's Mukuru Affordable Housing Project	6864
+Namibia Affirmative Action Act	12399
 Namibia's Ministry of Home Affairs	7109
 Namibia’s Ministry of Home Affairs	7126,4031
 Nation Address Home Affairs	11246
@@ -822,6 +843,8 @@ Office of International Affairs	9188
 Office of Research Affairs	11585
 Office of Treaty Affairs	1234
 Operational Support DEPARTMENT OF HOME AFFAIRS	11986
+Overcoming Barriers Affecting Electronic Medical Record	12379
+PILLAR VIII CLEAN AND AFFORDABLE LAST	12399
 POTRAZ Ministry of Foreign Affairs	4528
 Parliament Draft Home Affairs Bill	5533
 Parliament Home Affairs Bill	5533
@@ -831,6 +854,7 @@ Partnerships. Foreign Affairs	1777
 Peering Makes the Internet More Affordable	7246
 Physical Security Standards HANIS Home Affairs	11986
 Pillar Access Connectivity Affordability Description Promote	5676
+Plan. The Ministry of Home Affairs	12337
 Political Affairs	7182,270
 Population Affected	1828
 Povo Guiné-Bissau AFF Análise	11557
@@ -858,11 +882,13 @@ Regulatory Affairs	11800
 Religious Affairs	4126
 Reporting and Learning MFA Ministry of Foreign Affairs	7548
 Representatives DEPARTMENT OF HOME AFFAIRS	11986
+Republic of Estonia Ministry of Foreign Affairs	12427
 Republic of South Africa. Department of Home Affairs	6512
 Responsable des Affaires Domaniales	10876
 Russian Foreign Affairs Minister Sergey Lavrov	4127
 Russia’s Federal Agency for Youth Affairs	7515
 Rwanda Affordability	11964
+Rwandan Ministry of Foreign Affairs	12338
 SA Home Affairs	5326
 SADC FIXED-BROADBAND AFFORDABILITY	11262
 SADC MOBILE AFFORDABILITY	11262
@@ -971,20 +997,22 @@ Tunisia's Ministry of Social Affairs	1954
 U.S. Government CHARGE D' AFFAIR	4247
 UCC Director of Corporate Affairs Fred Otunnu	9781
 UCC's Director for Legal Affairs	9781
-UN Department of Economic and Social Affairs	1912
+UN Department of Economic and Social Affairs	1912,10501
 US State Department's Bureau of African Affairs	6534
 USPF Affordability	11857
 Uganda’s Ministry of Foreign Affairs	11075
+Ukraine's Ministry of Veterans Affairs	12391
 Under Secretary for Economic Affairs	6849
 Under Secretary of State for Economic Affairs Jacob	4447
 Une Affaire de Choix	8891
 Union for Foreign Affairs and Security Policy	11155
-United Nations Department of Economic and Social Affairs	2510,8084,120,51,10,60,3,18,112,36,866,16,78,250
+United Nations Department of Economic and Social Affairs	2510,8084,120,51,10,60,3,18,112,36,866,16,78,250,138,1,60
 United Nations Department of Economics and Social Affairs	11572
 United Nations Office for Disarmament Affairs	2117
 United Nations Office for Outer Space Affairs	7760,3484
 Université Nazi BONI. Affilié	8721
 VFS Reports DEPARTMENT OF HOME AFFAIRS	11986
+Veteran Affairs System	12448
 Vice President of Public Affairs and Communications	12187
 Villes Effectif Pourcentage Ville de Ouagadougou Affilié	10875
 WAY FORWARD The Ministry of Internal Affairs	1920
@@ -995,7 +1023,7 @@ Women Affairs	940
 Women Affairs Ministry	7868
 Women Affairs and Social Development	12145
 XDS Affinity Change Management Domain	1009
-Youth Affairs	10985
+Youth Affairs	10985,1427
 Zambia's Minister of Home Affairs and Internal Security	2707,727
 Zambia's Ministry of Home Affairs and Internal Security	3695
 Zambia’s Deputy Minister of Home Affairs Colonel	121

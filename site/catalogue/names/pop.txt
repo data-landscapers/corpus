@@ -13,7 +13,7 @@ Access of Population	11136
 Act POPIA Protection of Personal Information Act	11218
 Act and POPIA	12047
 Adolescent-Responsive Action and Population Data	9766
-Adult Population	940
+Adult Population	940,11469
 Afr Popul Stud	12246
 Africa and PoPs	10861
 African Population and Health Research Center	6948,4195
@@ -49,6 +49,7 @@ Bordeaux Population Health Research Centre	12003
 CAR The Ministry of Health and Population	10829
 CARACTERISTIQUES SOCIO- DEMOGRAPHIQUES DE LA POPULATION	737
 CARACTERISTIQUES SOCIO-DEMOGRAPHIQUES DE LA POPULATION ET	737
+CENSUS OF POPULATION	12431
 CHINÊS A República Popular da China	3519
 Cabo Verde. Population of Cabo Verde	12002
 Cape Town PoP	3840
@@ -56,10 +57,11 @@ Censo Geral da População	6595,4981,491
 Censo Populacional	10772,650
 Census and Population Studies	10964
 Census of Population	10826
-Census of Population and Housing	1867
+Census of Population and Housing	1867,10542,22
 Central African Popcat POPCAR	4127
 Centre NPR National Population Register NSDF	5533
 Centre Population Coverage and Empowerment KRA	6946
+Centre RPHC Rwanda Population and Housing Census	12413
 Chairman National Population Commission	1014
 China National Biometric Population Register	10714
 China. Popular Communication	2518
@@ -73,6 +75,8 @@ Connections See More Popular Content	6683
 Continuous Population Survey	11237,104
 Couverture Population	419
 Coverage of Individuals Population	11857
+Coverage of Population Coverage	12373
+Crude Population	12413
 D'ACHEVEMENT Population	10847
 DEMOCRATIQUE ET POPULAIRE N	4658
 DES POPULATIONS DE L’ÉTAT SIGNATURE DES	2342
@@ -121,6 +125,7 @@ Ensino Técnico-Profissional Recenseamento Geral da População	10766
 Ensuring National Population	12323
 Equitable Access for Displaced Populations	10776
 Estatísticas Mensais da População Refugiada	11460
+Eswatini. ADVERTISEMENT Population of Eswatini	12441
 Etudes de Population	4325
 Evans and Anna Popova	11525
 Evans and Popova	11525
@@ -131,18 +136,19 @@ F25 Thailand Population Identification Number	10714
 FACTOR CURRENT IMPACT Population	11994
 FIR Censo Populacional	11422
 Facts Population	10908
-Female Population	9485
+Female Population	9485,2910
 Femmes Populations Groupes Jeunes	11944
 Fifth General Population and Housing Census	10870
 Fifth General Population and No Dec	10870
 Finland Finnish Population Information System	10714
+Fourth Population and Housing Census	12413
 Fourth Round Eritrea Population and Health Survey	6106
 Fundo de População	11543
 G Population	1013
-GDP Population	10837,1052,265
+GDP Population	10837,1052,265,186,1
 GDP. Population	11887,1
 General Directorate of Population and Primary Health Care	10829
-General Population and Housing Census	7702
+General Population and Housing Census	7702,4701
 Geographic and Population Coverage	6000
 Geral da População	11526
 Governo Popular	11045
@@ -155,6 +161,7 @@ Health and Population	9414
 Healthier Population	11469
 Humanitarian Cash Transfers and Displaced Populations	12297
 ID AT POPULATION SCALE	12165
+IDs. T The National Population Register	12327
 II. População	11416
 INSERT COUNTRY POPULATION	5352
 IPRS Integrated Population Registration System	12227
@@ -162,6 +169,7 @@ IV Recenseamento Geral da População	7792,1531
 IVº Recenseamento Geral da População	7666
 Identity System Eswatini National Population Register	10714
 Income Region Population	10969,916
+Inhabitants Percentage of Population Covered	12395
 Inscription Populaires	9668
 Integrated Information System of National Population App	10714
 Integrated Population Register	12227
@@ -172,6 +180,7 @@ Integrated Population Registration System	1745,2191,6886,1316,1,88,66,4,26
 Integrated Population and Secure Documents Management System	2823
 Integrated Population and Secured Titles Management	10714
 Integrated Population of Refugees and Host Communities	12297
+Integration of Eswatini's Population Registry	12458
 Intelligent Population Register	2662,1594,516,1755,3658,1079
 Japan Population Register	10714
 KDHS ASFR Age Group Projected Population	12151
@@ -199,11 +208,11 @@ MW CAPACITY PER MILLION POPULATION	10861
 Maisha Integrated Population	12323
 Maisha Integrated Population Register	12323
 Malawi Population and Housing Census. Main Report	12175
-Male Population	9485
+Male Population	9485,2910
 Manage the Health of Populations	5700
 Management Office POPIA Protection of Personal Information	5533
 Management of Population and Housing Censuses	4040,4,7377,25,131
-Manufacturer POP Point of Presence PUE Power	10781
+Manufacturer POP Point of Presence PUE Power	10781,1646
 Manufacturer PoP Point of Presence PUE Power	10861
 Marshall Islands Population Registry	10714
 Maximum POPIA	6886
@@ -218,9 +227,15 @@ N ID State Zone Population	11857
 NATIONAL POPULATION COVERAGE	11211,51
 NEWLY ELECTRIFIED POPULATION	11572
 NMSEs. Population Younger	11994
-Namibia Population and Housing Census	9485
+NPR National Population Register RURA Rwanda	12328
+NPRS National Population Registration System	12367
+Namibia Population System	12337
+Namibia Population System NID	12337
+Namibia Population and Housing Census	9485,2898
 Namibia Population and Housing Census PUMS	9485
+Namibia Population and Housing Census Release	12383
 Namibia's National Population Registration System	589
+Namibian Population	12383
 National Agency for Population Register and Secure	6767
 National Biometric Population Register	2823
 National Census of Households and Population	10812
@@ -236,10 +251,17 @@ National Population Commission for Census	11129
 National Population Commission. The Federal Commissioner	8588
 National Population Commission. The NIMC	4120
 National Population Identification Office	11900
-National Population Register	116,2498,48,538,25,307,724,516,554,207,1006,180,685,2280,1030,498,6,64,667,28,9,337
-National Population Registration System	159,146,20,215
-National Population Registry	431,1140,421,4342
+National Population Register	116,2498,48,538,25,307,724,516,554,207,1006,180,685,2280,1030,498,6,64,667,28,9,337,5,10
+National Population Register System	12367
+National Population Registration System	159,146,20,215,11787,10,30
+National Population Registration System NSA	12337
+National Population Registration System Namibia	12327
+National Population Registry	431,1140,421,4342,5999,26,54
+National Population Registry ODK	12338
+National Population Registry System	12475
+National Population Registry The National Population	12413
 National Population Secretariat	9312
+National Population System	12337
 National Population and Housing Census	8795
 Nations Population Fund UNICEF The United	11560
 Nigerian Population Commission	3862
@@ -273,7 +295,7 @@ POPIA. Retrieved	1243
 POPIA. The POPIA	5533,6453
 POPULAIRES LIRE LE JOURNAL DU JOUR	2400,39,1,1,1,1,139,165,81,292,300,1479,308,258,41,255,18,1345,145
 POPULARES DAS LUNDAS CONTAM ABUSOS NA	9399
-POPULATION	12214
+POPULATION	12214,217
 POPULATION AGE	12214
 POPULATION BY MUNICIPALITY Data	10763
 POPULATION DISTRIBUTION Data	10763
@@ -311,6 +333,7 @@ Popote Familiale	3045
 Popov	5022
 Popova	5349,5636
 Poppy Day Next Article Treasury	3933
+Popu2l02a2 CtEiNoSUSnOF	12431
 Popul Music	9739
 Popul1a3ti2o.n1	12205
 Populacao	1144
@@ -318,26 +341,31 @@ Popular	4964,1250,1227,132,60,2013,1826,41,5
 Popular Articles CIPESA Urges Kenya	9937
 Popular Categories	7178
 Popular Content	6632,366
+Popular Democratic Movement	12378
 Popular Movement	9399
 Popular Movie Gender Breakdown Michael	9781
 Popular Posts	9253
 Popular de Liberta	9399
 Populating Shared Value Sets	1009
 Populatino	11572
-Population	21,716,10,223,28,15,350,191,68,1,1,1,1,1,1,54,63,2,41,156,29,82,422,4,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,2,118,1,150,1,252,177,138,261,304,1,1,1,1,5,1,60,66,83,198,107,671,142,457,328,313,277,62,146,100,31,127,192,377,58,1,279,308,87,503,386,35,173,68,115,486,131,262,165,2,49,2,3,7,5,32,9,1,4,3,6,3,3,3,3,9,2,16,7,31,8,44,4,1,16,153,48,1,5,2,68,34,105,16,107,48,9,276,6,4,3,14,1,1,9,5,10,13,3,9,9,32,6,4,12,8,37,95,13,8,32,14,48
+Population	21,716,10,223,28,15,350,191,68,1,1,1,1,1,1,54,63,2,41,156,29,82,422,4,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,5,2,118,1,150,1,252,177,138,261,304,1,1,1,1,5,1,60,66,83,198,107,671,142,457,328,313,277,62,146,100,31,127,192,377,58,1,279,308,87,503,386,35,173,68,115,486,131,262,165,2,49,2,3,7,5,32,9,1,4,3,6,3,3,3,3,9,2,16,7,31,8,44,4,1,16,153,48,1,5,2,68,34,105,16,107,48,9,276,6,4,3,14,1,1,9,5,10,13,3,9,9,32,6,4,12,8,37,95,13,8,32,14,48,84,7,7,1,1,1,1,12,16,2,10,18,18
 Population Administration Information System	10714
 Population Affected	1828
 Population Bas-Sassandra	747
 Population CLIMATE Climate Change and Disaster Screening	11417
 Population Census	10748,122,1037
 Population Census Preliminary Report	11905
+Population Census Team	12413
 Population Commission	11860
 Population Council	899
 Population Coverage	2868
 Population Coverage Digital Terrestrial Television	6946
 Population Coverage Rural Urban	6000
+Population Crude	12413
 Population Database	10714
 Population Density	9485,2438,268
+Population Density Ohangwena	12383
+Population Distribution	12383
 Population Division	3583,7131,290,465,495,174
 Population Education	11560
 Population Estimates	10714
@@ -355,6 +383,7 @@ Population Nawa	747
 Population Nigeria	11469
 Population ODA	10759
 Population Over Age	10765,10
+Population Over the Years	12383
 Population Penetration Rate	2776
 Population Policies	970
 Population Population	12006
@@ -363,9 +392,12 @@ Population Projections	7548
 Population Projections Report. National Statistics Office	12175
 Population Pyramid	12151
 Population Pyramid of Kenya	12151
-Population Register	7569,4408,9
+Population Register	7569,4408,9,351,30,59
+Population Register Database	12337
 Population Register IMS Immigration Services NPR	11986
 Population Register and Secure Titles	2876
+Population Registers Specialist	12413
+Population Registration System SWA ID South	12327
 Population Registration and Identity Management Eco-System	12257
 Population Registry	10812
 Population San-Pédro	747
@@ -379,10 +411,12 @@ Population Urban Minimum	11857
 Population Was Power	7337
 Population Water Climate Change and Disaster Screening	11525
 Population and Civil Service Public Services	1953
-Population and Development	7749,4389,13
+Population and Development	7749,4389,13,216
 Population and Housing	10765,10
-Population and Housing Census	940,36,827,1121,4444,637,243,6,159,1027,1693
+Population and Housing Census	940,36,827,1121,4444,637,243,6,159,1027,1693,1225,41,12,69
 Population and Housing Census. About	9111
+Population and Housing Census. Population	12413
+Population and Housing Census. Thematic	12413
 Population and Social Statistics	11237,52
 Population du Burundi	2624
 Population of Burkina Faso	10859
@@ -400,6 +434,7 @@ Population1	1594
 PopulationDataPageM	2624
 PopulationGroup Describe	11180
 Populations	7337
+Populations Rwanda	12413
 Populatkln	11517
 População	4044,3622,3111,613,26,2,3,25,14,63,34,5,7,8,260
 População Censo População IC Incluído Omitido	11421
@@ -409,6 +444,7 @@ População da Guiné-Bissau	7666
 População de Moçambique	2138
 População-alvo	11543
 Populações	10777
+Popup	12410
 Prefecture Health Districts Population	10829
 Presidente da Assembleia Nacional Popular	11561
 Productive and Healthier Population	11469
@@ -425,6 +461,7 @@ RECENSEMENT GENERAL DE LA POPULATION	2625
 RESULTADOS DEFINITIVOS RECENSEAMENTO GERAL DA POPULAÇÃO	11421
 RURAL POPULATION COVERAGE	11211,51
 Racheal Popoola	6936
+Rapid Urbanization and Low Population Density	12399
 Recenseamento Geral da População	4040,4,42,1064,329,1512,3769,17,644,1,24,131
 Recenseamento da População	4040,4,7377,25,131
 RecenseamentoGeral da População	11421
@@ -439,9 +476,12 @@ República Popular da China	3519,1235,3884,1356,1570
 Resident Population	10714
 Review of Population	11986
 Rights of Indigenous Populations	8485
-Rural Population	7368,1214,903
+Rural Population	7368,1214,903,2910
 Rural Total Urbana População Rural	10777
+Rwanda Census of Population and Housing	12403
 Rwanda National Population Register	10714
+Rwanda Population and Housing Census	12413
+Rwanda Population and Housing Census. SDGs	12403
 Région Population Region	6959
 République Populaire de Chine	10094
 République Populaire du Bénin	10712
@@ -471,8 +511,10 @@ South Africa’s POPIA	6471
 South Africa’s POPIA and Kenya’s Data Protection	10798
 Specific Problems of Refugee Populations	1867
 Starlink's Popularity	3625
+Statistics Namibia Population System	12327,10
 Study Population and Sample Size	10919
 Sub-Saharan Africa Population	12204
+T Statistics Namibia Population System	12327
 Tecnologias Percentagem da População Coberta	11418
 Territorial Planning and Population	3713
 Tribunal Supremo da República Popular da China	10752
@@ -492,30 +534,33 @@ United Nations Family and Population Agency	10829
 United Nations Population Division	10881
 United Nations Population Division. Review	11572
 United Nations Population Division’s World Urbanization	11964
-United Nations Population Fund	6705,997,47,1791,321,248,2029,13
+United Nations Population Fund	6705,997,47,1791,321,248,2029,13,262
 United Nations Population Fund UNICEF United	11586
 United Nations World Population Prospects	10714
 United States Dollar IPRS Integrated Population	12297
-Urban Population	9485
+Urban Population	9485,2910
 Urban Rural Total Population	12006
 V Recenseamento Geral da População	8211
 VIE DES POPULATIONS UNE ACCÉLÉRATION	2342
 VRR Suriname Population Register	10714
 Vulnerable Population Groups	1412
+Vulnerable Populations Orphans and Youth Lack	12328
 William Popp	6264
 William W. Popp U.S. Ambassador	4217
 World Pop	10964
 World Population Day	7749
 World Population Day High-Level Dialogue	7749
-World Population Prospects	10714,255,35,465,426,69,195,46
+World Population Prospects	10714,255,35,465,426,69,195,46,146,4
 World Population Prospects. Volume-II	12138
 World Population Review. DR Congo	11994
 WorldPop Population	10763,1243
 Year Population	12151
 Year Population No	4217
 Year Value Indicator Name Population	6928
+Years Age-group Population Pyramid	12413
 Yes. POPIA	11984
 YouTube Popular Categories Android	9993
+Youth Population Aged	12431
 Zimbabwe Population Registration System	10714
 Zimbabwe Population Registry System	6179
 Zondi. Under POPIA	5806

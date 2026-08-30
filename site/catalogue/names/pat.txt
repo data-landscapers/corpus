@@ -47,6 +47,7 @@ CREST Pathway	4791
 CSP and SI Certification Pathway	11995
 Cabinet Patrick Kangwa	7223
 Cameroon's PATNUC and DRC	1725
+Capacity Pathway	12457
 Carta Patente	11452
 Claudia Patricia Mosquera Rosero	6963
 Clinical Patient Management System	10188
@@ -57,6 +58,7 @@ Commissioner Patrick Honnah	7617
 Commissioner Patrick R. Honnah	4878
 Commissioner of Customs Patrick Kachingwe	9093
 Complementary Pathways	10841
+Compromising Patentability	12389
 Congo's PATN	1725
 Cotización Patronal	4209
 Cotización Patronal INSESO	4209
@@ -74,6 +76,7 @@ DE LA PATRIE Le Conseil	8321
 DR. MEERA PATEL- CHUDASAMA Data Controller	7167
 DR. PATRICK GITOBU MBURUGU PRIVATE CLINIC	7167
 Data Center Cabling Pathways Datacenter	9123
+Data Pathway	12457
 Data Services MPI Master Patient Index	396
 Decision-Maker Pathway	10189
 Demographic Patterns of Account Ownership	1828
@@ -86,6 +89,7 @@ Digital Pathways for All	2585
 Digital Tools for Patient Empowerment	10865
 Dimension Data Pathway Advisors	8186
 Director Ms. Patricia Muchiri	6946
+Disclosure of Patent and Trademark Licensing Agreements	12389
 Diverging Paths North America	4972
 Dr. Adonoo Patrick Lebene	3384
 Dr. Patrick Ndzana Olomo	9162
@@ -118,6 +122,7 @@ FINANCEIRA E PATRIMONIAL Artigo	167
 Facebook and TikTok. PATNUC	4693
 Faizel Patel	8173
 Finance Associate Patricia Li Yuk Fung	11332
+Financial Pathway	12457
 Fleur Birba Patricia TAONSGO	5722
 Fondation Patrick J. McGovern	7282
 Formal Amendment Pathways	3861
@@ -130,8 +135,10 @@ GESTÃO FINANCEIRA E PATRIMONIAL	4218
 Gachagua's Most Viable Path	7869
 General Paths of Access All	9123
 Gestion Patrimoniale	2342
+Getting Patient Records Right	12458
 Ghana Health Service Patients’ Charter	4126
 Global Center for Rehumanizing Democracy. Patrice Habinshuti	11682
+Governance Pathway	12457
 Government of President Dr Patrick Herminie	9582
 Growth Pathway	11347
 Guy Patrick Efoua	6804
@@ -173,6 +180,7 @@ Ismail Patel	6241
 Ivoire. PATRICK N’GUESSAN	6095
 Jaqueline De Sousa Pateguana	4214
 Jaqueline Pateguana	2989
+KINGO MCHOMBU AND PATRICK NGULUBE	12325
 Kau Criar's Path Ahead Kau Criar	11546
 Kenya Patient Summary	10031
 Kenya Patient Summary FHIR Implementation Guide	10031
@@ -188,6 +196,7 @@ Le Ministère du Patrimoine	2342
 Le PATN	2564,2739,2534
 Le PATNUC	2695
 Le Patron des PTN	2602
+Legal Pathway	12457
 Legal and Policy Pathways Artificial Intelligence	8747
 Legend Patient Facility	8605
 Loaded Pictures. Patricia Anne Janer and Ryan	10977
@@ -205,7 +214,7 @@ Mapping Paths	4970
 Marguerite Ouedraogo Bonane and Patricia Poku	961
 Market Pathway	7446
 Master Patient	8605
-Master Patient Index	396
+Master Patient Index	396,12062
 Mattes and Patel	12192
 Mfanelo Patrick	6948
 Mfanelo Patrick Ntsobi and Bongani June Mwale	6948
@@ -216,19 +225,25 @@ Monsieur le Ministre du Patrimoine	2342
 Monsignor Patrick Thawale	10111
 Mrs. Patience Okala	8421
 Mrs. Patricia Ogungbemi	9755
+Mrs. Uwase Patricia	12358
 Ms Patricia de Lille	10058
 Ms. Patience Arko Boham	11699
 Muhammad Ali Pate	4301,1,2885,374
 N2 Pay and Pathetic Inc	2773
 NRB Principal Secretary Mr. Patrick Machika	12291
+NSHIMIYIMANA Patrick	12413
 Namazihana Bachoke Patrick	6620
+Namibia and Patrick Ngulube	12325
 Naomi Clare Lee Patient	10881
+National Electronic Government Plan. Patrick K	12453
 Net Zero Path	7402
 Nigeria. Pathway Advisors Limited	8186
 Nigeria. Patients	8438
 Nigeria’s Path	8665
+Niral Patel	12362
 Nyarsuk James Patrick	8330
 Omer AM. Pathways	12255
+Opposition Mechanisms for Patents and Trademarks	12389
 Orange Cameroon Chief Executive Officer Patrick	6131
 PAM Patient Demographics Query PDF Presidential	1009
 PASTEF Les Patriotes	10576
@@ -269,27 +284,31 @@ Patch Management	10721,510
 Patch Management Page	10721
 Patch Management Policy Tier	10721
 Patches	10721
-Patel	6241,1037,1850,2012,787,265
+Patel	6241,1037,1850,2012,787,265,170
 Patel A. SMARTHealth India	1219
 Patel Hachitema	9792
 Patel and Patel	7278
 Patel&volume	1219
-Patent	4676,6293,674,241,1,10,264,1,44,1
+Patent	4676,6293,674,241,1,10,264,1,44,1,146,4,34,7,87
 Patent And Company Registration Agency	1222
 Patent Applications	11250
 Patent Co	11550
 Patent Cooperation Treaty	11550,611
 Patent Laws Heritage-Based Education	4528
 Patent No. US	4676
+Patent Ownership Developed Within Public Research	12389
+Patent Protection Valid	12389
 Patent Registrations	11250
 Patent Renewals	11250
+Patent and Company Registration Agency Ministry of Finance	12454
+Patentability Requirements	12389
 Patente	8990
 Patente Tributaria	4595
 Patente Tributario	4209
-Patents	7845,3124,915,1,10,264,1,44,1
+Patents	7845,3124,915,1,10,264,1,44,1,146,4,41
 Patents Act	11265
 Patents Officer	10358
-Patents and Companies Registration Agency	6187
+Patents and Companies Registration Agency	6187,6295
 Paterne Binene-A-Kadiat	6460,3707
 Paterne Kadiat	2415
 Paterne Kadiat. Il	2415
@@ -308,7 +327,7 @@ Pathogen Economy Labs	5413
 Pathogen Economy Labs Project	5413
 Pathogens	4426,3939,1353
 Paths	1243,2641,7122
-Pathway	7548,3581
+Pathway	7548,3581,1328
 Pathway Advisors	8186,456
 Pathway Advisors Limited	8186,456
 Pathways	2957,1891,1299,415,230,1390,1777,129,627,53,375,171,964
@@ -343,6 +362,7 @@ Patient Identifier Patient Identifier Cross Referencing	1009
 Patient Identity Feed Actors	1009
 Patient Identity Verification	9855
 Patient Information	11980
+Patient Information Safely	12458
 Patient Location Patient Location Tracking	1009
 Patient Monitoring	10765,10
 Patient Operational Allergies and National	2477
@@ -415,7 +435,7 @@ Patrick Christian	2677
 Patrick Dupoux	7952
 Patrick Herminie	6806,2186
 Patrick Honnah	7721
-Patrick J. McGovern Foundation	3385,3552
+Patrick J. McGovern Foundation	3385,3552,5481
 Patrick Joubert	10420
 Patrick Kabambe	12299
 Patrick Kelly Telephone	11258
@@ -431,6 +451,7 @@ Patrick Musoko Mbuyi	10436
 Patrick Muyaya	6043,4054,159
 Patrick N'Guessan	2418,493,491,2,45,838,1452
 Patrick Namazihana Vendredi	6620
+Patrick Ngulube	12325
 Patrick Niyodusenga	8758
 Patrick N’Guessan	6095,128,14,423
 Patrick Okebu	10010
@@ -469,7 +490,7 @@ Patriot	3114
 Patriotic Bill	6951
 Patriotic Front	121
 Patriotic Party	4174
-Patriotism	12323
+Patriotism	12323,130
 Patriotisme	10874
 Patriotisme Tahoua	3337,4,1472,2351
 Patrobas Katambi	6327,600
@@ -490,6 +511,7 @@ Pattern of Participation Without Accountability	3874
 Patterns	3583,4303,3142,128,36
 Patterns Across the Continent	5551
 Patterson	7789
+Patterson Avenue	12413
 Patticipants	4153
 Patton	5349,2617
 Personal Health Pathways	6232
@@ -511,17 +533,22 @@ Professor Pat Terry	1036
 Professor Prabaht Patnaik	10
 Project. Quarterly PBF Database Patient	10829
 Provisional Certification Pathway	11995
+Provisions for Information Submission System for Patents	12389
 Président Patrice Talon	6366,4516
+Public Disclosure of Patent	12389
 Quarterly PBF Database Patient	10829
 RDTS Patrick NZIRABATINYI NGOGA	11863
 REFORMING WITH URGENCY MALAWI'S PATH	12181
+RUKUNDO Patrick	12413
 Ransomware Breaks the Pattern	9815
 Rare Disease Patient Card	10188
 Ra’eesa Pather and Cheriese Dilrajh for Open Secrets	7910
 Reaffirms Path	9735
+Recordal of Change of Patent Owner and Related Timeframe	12389
 Regional Patterns of Content Creation	226
 Reporting and Escalation Pathways	3861
 Republic of Congo PATN	3080
+Research Exemption for Patents	12389
 Responsible AI Guidance. Pathways Select	11345
 Review the Patch Management Policy	11986
 Rohan Patil	6186
@@ -544,6 +571,7 @@ So What’s The Path Ahead	8629
 Social Assistance. Patient Monitoring	10775
 Société Ivoirienne de Gestion du Patrimoine Ferroviaire	2342
 Sous le Haut Patronage du Président	4989
+Standards Pathway	12457
 Strategic Path Forward for Africa	9511
 Strategic Pathways for Overcoming the Cost Barrier	6690
 Stronger Rights Protections By Patricia Ainembabazi	9145
@@ -571,6 +599,7 @@ UNICEF DPG Pathfinder	7921
 UNICEF's DPG Pathfinder	7921
 US Patent	8604
 US-built Electronic Patient Tracking System	4260
+Uendjipa Patuuomasa	12478
 Under the High Patronage of His Majesty King	2577
 Unified Patents	8967
 United States Patent and Trademark Office	8967
@@ -578,6 +607,7 @@ Unité de Coordination du PATN	7668
 V. Country-Specific Pathways and Strategies Cameroon	10841
 WB-financed PATN	3294
 WESTSIDE MALL and CK Patel Building	7167
+Waivers for Patents	12389
 Wendlassida Patrice Compaoré	4059
 World Bank PATN	6769
 World Bank PATNUC	4523

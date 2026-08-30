@@ -4,6 +4,7 @@ Accessibility Tools Increase Text Decrease Text	12322
 Africa. Text	8246
 Agreement Text	5550
 Atlântico. Texto Felisberto Ruco	11111
+Books and Textbooks Books	12411
 Citv Text	11180
 Clarity of Policy Text	12058
 Clúster Textil	1701
@@ -13,6 +14,7 @@ Contrast Increase Text Decrease Text Readable	11539
 Countries Missing Primary Text Algeria	7707
 Country Text	11180
 Crossroads Textbooks Archived Documents	11241
+Decrease Text	12454
 Design and Text	11332
 Draft Negotiating Text	1243
 Edición de Texto	4209
@@ -28,8 +30,10 @@ Global South. Text	10831
 Governing Texts	11993
 Gross Value Added HTML Hyper Text	236
 I Post Office Text	11180
+Increase Text	12454
 JSON CSV JSON CSV Textes Législatifs	9480
 Justificativa Preliminar Texto	11456
+Length Decimal Classwords Text	12360
 Longueur de Texte	747
 Luanda Luanda SÔNIA MUHONGO TEXEIRA	10751
 Minas. Texto	9303
@@ -72,8 +76,9 @@ Text for Adherence	12143
 Text-and-Data Mining	7548
 Text-free	11801
 Text-to-Speech	8876
+Textbook	12411
 Textbook-to-pupil	12199
-Textbooks	899,11006
+Textbooks	899,11006,506
 Texte	3189,2957,2505,2249,2,19,218
 Texte Données	1984
 Texte TXT	1984

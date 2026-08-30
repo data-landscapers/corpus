@@ -10,11 +10,12 @@ Administrative Manual	11525
 Administrative Procedures Manual	10829
 Advanced Materials and Manufacturing	6480
 Africa Initiative for Medical Access and Manufacturing	11468,1
-Agriculture Manufacturing	10976
+Agriculture Manufacturing	10976,1370
 Agriculture Manufacturing Transport Trade Government	10856
 Agriculture and Manufacturing	11296
 Angola and Brazil. Manufactured	144
 Arnaldo Manuel Carlos. Na	11392
+Association of Manufacturers	12376
 Association. The Project Implementation Manual	1867
 BAGS AND BALERS MANUFACTURES	7167
 BUA Cement MAS Manufacturing	11469
@@ -50,6 +51,7 @@ Conforme Manuel Homem	5392
 Consolidated Policy Manual	11797
 Construction of Water Bowser Manure Building Data	12253
 Consumer Price Index Manual	11258
+Contact Us User Manuals	12454
 Coordenador Manuel Artur Catende	10757
 Costa Chissola Carvalho Dionísio Manuel Título	4044
 Crypto Asset Manual	8840,491
@@ -82,6 +84,7 @@ Enterprise Surveys Manual and Guide	10862
 Estado. Dionísio Manuel da Fonseca	5305
 Examples.xlsx Manuel Open Data	747
 Export and Import Price Index Manual	11258
+FDI. Manufacturing	12376
 FM Manual	3604,7360,1001
 FM Manual for World Bank Investment Project	1867
 FM Manual for World Bank-Financed Investment Operations	2889
@@ -98,6 +101,8 @@ Financial Management Manual for World Bank Investment	10768
 Financial Management Manual. Draft Project Implementation	1778
 Financial Manual	11525
 Float Glass Manufacturing	11469
+Formal Informal Mining and Quarrying Manufacturing Utilities	12445
+Formal Manufacturing Informal Graph	12445
 Frascati Manual	10421
 French Manufacturers	12066
 GRM GRM Manual Committees and GRM Institutional	12253
@@ -181,12 +186,13 @@ MANUFACTURER	11269
 MEF Ministry of Economy and Finance MOP Manual	11525
 MOP Manuel des Opérations du Programme Terra MTFP	10876
 Male Female Total Manufacturing	236
+Male Female Total Manufacturing Electricity	12445
 Manuais	11898
 Manuais Relatórios	12021
 Manuais da Aplicação	12021
 Manuais de Procedimentos	11898
 Manuais de Utilizador	12021
-Manual	467,2,162,1,211,1,2,223,376,10,533,1616,1929,1138,275,258,1400,599,34,594,981,17,300,27,94,127,58,463,43,11,7,6,35,37,27,87,45,59
+Manual	467,2,162,1,211,1,2,223,376,10,533,1616,1929,1138,275,258,1400,599,34,594,981,17,300,27,94,127,58,463,43,11,7,6,35,37,27,87,45,59,95,95
 Manual Checks	9123
 Manual Load Reduction	11953
 Manual POM Procurement Plan PP Purchasing	11855
@@ -203,7 +209,7 @@ Manual de Normas	414,10956
 Manual de Preparação	10783
 Manual de Procedimentos Internos	11370
 Manual for Agents. Cited	12158
-Manual for Measuring ICT Access and Use	11424
+Manual for Measuring ICT Access and Use	11424,920
 Manual of Best Practice. UNCTAD	1243
 Manual of Procedures	3640
 Manual. Draft Environmental and Social Management Framework	1778
@@ -252,13 +258,13 @@ Manufacture of Non-alcoholic	11152
 Manufactured	7204
 Manufacturer	11976
 Manufacturer C1	12256
-Manufacturer POP Point of Presence PUE Power	10781
+Manufacturer POP Point of Presence PUE Power	10781,1646
 Manufacturer PoP Point of Presence PUE Power	10861
-Manufacturers	236,1752,1663,4225,413,487,1713,1368
+Manufacturers	236,1752,1663,4225,413,487,1713,1368,519
 Manufacturers Association of Nigeria	11866
 Manufacturers of AI	3651
 Manufacturer’s Suggested Resale Prices	11036
-Manufacturing	236,182,300,1222,391,3,441,182,1477,788,311,792,1640,1163,1260,304,71,93,120,146,30,144,228,57,293,7,1,94
+Manufacturing	236,182,300,1222,391,3,441,182,1477,788,311,792,1640,1163,1260,304,71,93,120,146,30,144,228,57,293,7,1,94,370,43,10,1,31,5,9
 Manufacturing Accommodation	5247
 Manufacturing Cyber Security	3760
 Manufacturing D3uring	11152
@@ -266,15 +272,21 @@ Manufacturing Data	3861
 Manufacturing Diversify	5245
 Manufacturing Diversify Expand Adoption	10856
 Manufacturing Electricity	2775
+Manufacturing Low Demand	12445
+Manufacturing Male Female Total Water	12445
+Manufacturing Micro	12445
 Manufacturing NPPI	11152
 Manufacturing Output	2775
+Manufacturing Plants	12436
 Manufacturing Projects Approved	2775
 Manufacturing Projects1 Regis-	2775
 Manufacturing Sector	2775
 Manufacturing Sector Review Overview	2775
 Manufacturing Value Added	9761,1219
+Manufacturing Water	12445
 Manufacturing World Osaka	3760
 Manufacturing and Access	789
+Manufacturing and Construction	12399
 Manufacturing and Industrial Development Transformation AI	4528
 Manure	12253
 Manuscript	5349,2672
@@ -287,6 +299,12 @@ Marisa Manuel	6709
 Maroc Manuel	747,1
 Merveille Manuella Ngoufack Tsafack. Avant	2513
 Mining and Manufacturing	4528
+Mining and Manufacturing Utilities	12445
+Mining and Quarrying Manufacturing	12445
+Mining and Quarrying Manufacturing Micro	12445
+Mining and Quarrying Manufacturing Utilities Services	12445
+Mining and Quarrying Manufacturing Utilities Services Having	12445
+Mining and Quarrying and Manufacturing	12445
 Minister Manuel Gomes da Conc	9399
 Ministry of Health Data Governance Manual	3861
 Modernizing Mining and Manufacturing	11221
@@ -308,6 +326,7 @@ Open data manuel ROD Avril	747,1237
 Operation Manual PPA Project Preparation Advance	11380
 Operational Manual	11855
 Operations Manual	8840,2685,330
+Ops Manual	12440
 Organização Mundial da Saúde. Manual	10780
 Original Design Manufacturer	12264
 Original Equipment Manufacturer	10721,488
@@ -323,6 +342,7 @@ PIM Project Implementation Manual PMU Project	1988
 POPIA Manual	11251
 PROGRAMME TERRA BENIN MANUEL D’OPERATIONS	10876
 Par Manuel Open Data	747
+Participant User Manual	12364
 Paulo Manuel de Assunção Pedro	430
 PforR Program-for-Results PIM Project Implementation Manual	3604
 Portfolio Exposure Outstanding IFZ MAS Manufacturing	11469
@@ -376,7 +396,9 @@ Segundo José Manuel Costa Alegre	5818
 Segundo Manuel Guilherme Júnior	8827
 Services Manufacturing	10856
 Simplificado Online Manuais de Utilizador Relatório	12021
+Size Sector Size Manufacturing	12445
 Smart Manufacturing	958
+Soft Skills Gaps Mining and Quarrying Manufacturing	12445
 Software as a service. Manuel	1984
 Somali Manufacturers Association	10476
 Somali Manufacturers Association. Discussions	10476
@@ -391,6 +413,7 @@ TA Manual	1284
 TKMD Syringes Manufacturing	7566
 TV Manufacturing	5124
 Taiwan Semiconductor Manufacturing Company	7789
+Tashinga Ryan Manunure	12478
 Tax Dispute Procedures Manual	12225
 Taxa de Manutenção Rodoviária	12018
 Technical Evaluation for PUE and Manufacturing	12195
@@ -406,10 +429,13 @@ Uganda Manufacturers Association	6576
 Unit POM Project Operations Manual PPP	10829
 Universidade. Para Manuel Guilherme Júnior	9694
 Updating the Project Operations Manual	2989
-User Manual	1828,8952
+User Manual	1828,8952,1584
+User Manuals	12364
+User Manuals and Technical Documentation	12400
 User’s Manual	1828
 V. Manuel	10876
 VII.4 Manuels	10847
+VUP Operations Manual	12440
 Village Manufacturing Value Added AfCFTA African	10980
 Waste Best Practice Manual	2989
 Waste Best Practice Procedure Manual Sign	2989
@@ -417,6 +443,7 @@ Whereas the Manufacture	2775
 Women’s’ Local Manufacturing	11857
 World Bank Directive FM Manual for Investment	10964
 XMPI Manual	11258
+ZIPSS. User Manual	12364
 Zenzeleni and Ganief Manuel	8161
 Zimbabwe Financial Reporting Manual	1554,1497
 Zumba Manuel Martins Alves Raimundo Mauro	10766

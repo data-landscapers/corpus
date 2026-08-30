@@ -18,12 +18,12 @@ Awareness Score	11131
 BRICS IDI RANKING SCORES	11211,51
 BRUT DE SCOLARISATION PAR SEXE Nombre	10847
 Balanced Scorecard	3487,7063,829
-Bouncing Back Score	10837,1315
-Bouncing Score	10835,3,130,902,16
+Bouncing Back Score	10837,1315,188
+Bouncing Score	10835,3,130,902,16,466,1
 Brief Description of Scope	1988
 C. PforR Program Scope	12176
-CHANGE FOUNDATIONS FOR ECONOMIC SCORE	10835,3,130,902,16
-CHANGE HUMAN DEVELOPMENT SCORE	10835,3,130,902,16
+CHANGE FOUNDATIONS FOR ECONOMIC SCORE	10835,3,130,902,16,466,1
+CHANGE HUMAN DEVELOPMENT SCORE	10835,3,130,902,16,466,1
 CHAPTER VI1 CONSUMER PROTECTION Scope	11179
 CLIKNET SCOPES LIMITED Data Controller INST-78578115E29	7167
 CLIKNET SCOPES LIMITED Data Processor INST-78578115E29	7167
@@ -35,6 +35,7 @@ Category Findings Relevant Scores and Statistics Data	12210
 Category Score	11138
 Cell C’s Net Promoter Score	10733
 Chain Management SCOPA Standing Committee	11198
+Civil Score	12376
 Comité de Gestion des Etablissements Scolaires CE1	10847
 Competitiveness Report Score	11863
 Compliance Requirements Compliance Level Score Regulations	5665
@@ -68,6 +69,8 @@ Deterioration Characteristic Score	10759
 Digital Nations Score Index	6593
 Digital Readiness Scale MALAWI SCORE Country	12214
 Durée Moyenne de Scolarisation CSPS	737
+E. SCOPE	12400
+E. Scope	12400
 E.C. P3-8. Scope	12225
 ECONOMIC OPPORTUNITY SCORE	10759
 EGDI Index Score	11863
@@ -83,11 +86,14 @@ Expanded Scope of Application	7391
 FC score	10940
 Fidel Castro and Rev. Michael Scott Streets	1900
 Fido Score	7579
+Financial Scoping Survey	12409
 Foundational Literacy and Numeracy Dashboard and Scorecards	7773
 Fragmented MALAWI SCORE Country	12241
 Freedom House Score	10908
 Fuzzy Matching Algorithm Good Score	8604
-GII Score	10969,915,1,274,46
+GII Score	10969,915,1,274,46,146
+GII Score Effectively	12355
+General Conditions of Contract and Scope	12400
 Geographic Scope	7662,4536
 Geographic Scope This Report	4972
 Geographic Scope of Payment Systems	6938
@@ -97,40 +103,44 @@ Global Influence Score	4528
 Grassroot Innovation Scouting	10067
 Groupe Scolaire Du Mont Kigali	4941
 HOPE-CT and National Social Register Policy Scorecard	10093
-HUMAN DEVELOPMENT SCORE	10759,78
-Health and Sustainable Environment. Trend Measure Score	11886
+HUMAN DEVELOPMENT SCORE	10759,78,1503
+Health and Sustainable Environment. Trend Measure Score	11886,466
+High Score	12376
 ID Scope System Type Binary	7221
 ID ScotAccount	3460,1395,698,735
 IDEA MPA Corporate Scorecard Indicators	6539
 IDI RANKING SCORE FOR SOUTH AFRICA	11211,51
 II. Scope Article	6612
 II. Scope of Eligible Pre-Set Consortia	5773
-INCLUSION SCORE	10759,76,3,130,902,16
+INCLUSION SCORE	10759,76,3,130,902,16,466,1
 INFRASTRUCTURES SCOLAIRES V.1 Répartition	10847
 ITU score	10940
 Implementation Scope Pilot Machines	10617
 Inclusive Digital Economy Scorecard	12214
-Increasing Deterioration Score	10837,1315
-Increasing Improvement Score	10837,1315
-Increasing Score	10835,3,130,902,16
+Increasing Deterioration Score	10837,1315,188
+Increasing Improvement Score	10837,1315,188
+Increasing Score	10835,3,130,902,16,466,1
 Independent Audits and Compliance Scorecards	6936
 Ingteinrdnuatsitornyainl Ocoumtloeoaknsdcpoaretent Score	12205
 Integration Test Scope Integration	11952
+Interim President Guy Scott	12353
 Interior and Scope	9399
 Internet Resilience Score	11470
 Justice and Anti-Corruption. Trend Measure Score	10838
 Kenya ERI Scores	12256
 Lecture Scoping Meeting Currency Retailers’ Training	11131
 Lived Poverty Score Rank Public Procurement	11870
+Low Score	12376
 MATERIAL SCOPE AND DATA CLASSIFICATION TAXONOMY	3861
 Map of Project Scope	11380
 Mark Scott	10088
 Material Scope and Data Classification Taxonomy	3861
 Max. Score	3787
-Measure Score	10759,209,902
+Measure Score	10759,209,902,470
 Methodology Scope	10764
 Microsoft Scout	6498
 Model Law Part II Scope of HIPSSA	27
+Moderate Score	12376
 NARROW SCOPE	2752
 NET DE SCOLARISATION PAR SEXE Nombre	10847
 National Credit Score	10330
@@ -183,6 +193,7 @@ PDI2T. Scope	715
 PE score	10940
 PEOU score	10940
 PERSONAL INFORMATION Scope	11179
+POLICY SCOPE OF APPLICATION	12419
 PPCC Chief Executive Officer Bodger Scott	9088
 PPCC Executive Director Bodger Scott Johnson	9338
 PR score	10940
@@ -195,6 +206,7 @@ Part I--Legal and Regulatory Framework Responses Score	10812
 Participation and Rights. Trend Measure Score	10835
 Particle Physics SCOAP	5246
 Partnership Framework CSI Corporate Scorecard Indicator	6539
+Policy Scope of Application	12419
 Precision Recall F1 Score	8604
 Principle and Scope	3861
 Principle and Scope Data	3861
@@ -202,21 +214,26 @@ Privacy Scorecard Report	6212
 Progress DARE Index Score Summary	11935
 Promoter Score Point of Sale Quarterly Gross	11134
 Propensity Score Matching	9349,1503
+Provision of Credit Scores	12389
 PubMed and Scopus	766
 Public Broadcasting Scorecard	8481
 Purpose and Scope	3972,77,105,93,55,6411
+Purpose and Scope The Reconciliation and Attestation Tool	12400
 Purpose and Scope This Code of Conduct	6432
 RANKING SCORES	11211,51
 RISK ASSESSMENT AND SCORING METHOD	11156
-RULE OF LAW SCORE	10759,76,2,1,130,902,16,266
-Rank Score	10969,916
+RULE OF LAW SCORE	10759,76,2,1,130,902,16,266,188,12,1
+Rank Score	10969,916,470
 Rank University Score	11885
+Region SSA Score	12351
+Registry Scope	12389
 Regulations Scope of Application CHAPTER	11255
 Reporting Scope and Materiality The Report	11131
 Reporting Scope and Materiality This Report	11134
 Research Methodology and Scope	4863
 Responses Score	10812
 Responses Score ICT	10812
+Rwanda Governance Scorecard	12333
 SCO and BRICS	5242
 SCOA SteerCom	11231
 SCOAP	5246
@@ -225,6 +242,7 @@ SCOPA	11230
 SCOPA RESOLUTIONS	11218,6
 SCOPA Resolutions	11197
 SCOPE	11184,12,894
+SCOPE AND APPLICABILITY	12338
 SCOPE AND OBJECTIVES Given	961
 SCOPE AND PURPOSE OF THIS GUIDANCE	1630
 SCOPE AND SME	9399
@@ -233,7 +251,7 @@ SCOPE OF APPLICATION These Guidelines	10407
 SCOPE OF THE REVIEW	4896
 SCOPE OF THE WORK General Project	962
 SCOPE The Minimum Interoperability Standard	11184
-SCORE	10759,76,2,1,130,902,16,3
+SCORE	10759,76,2,1,130,902,16,3,451,12,1
 SCORE GLOBAL	10975
 SCORE SCORE SCORE SCORE SCORE SCORE	1243
 SCoE State Committee	11860
@@ -246,7 +264,7 @@ Scale Data Level Score Data Characteristics	5665
 Scolarisation	737,10110
 Scolarisation TIC Technologies	12
 Scombined	8606
-Scope	25,3,208,526,97,150,176,24,5,9,20,94,14,163,72,1,5,13,132,5,43,9,83,36,75,102,5,64,1,48,217,40,314,423,5,389,32,1,22,27,78,105,24,159,56,13,16,173,64,16,11,97,1,27,22,1,193,162,236,59,1,6,61,406,199,39,529,133,189,78,59,46,1,122,23,2,3,133,181,49,97,183,59,101,258,53,344,44,163,11,297,2,39,21,186,294,1,484,69,31,576,98,70,85,44,95,23,1,1,28,56,48,43,44,1,16,100,284,59,1,79,1,11,4,57,138,15,44,15,15,13,2,47
+Scope	25,3,208,526,97,150,176,24,5,9,20,94,14,163,72,1,5,13,132,5,43,9,83,36,75,102,5,64,1,48,217,40,314,423,5,389,32,1,22,27,78,105,24,159,56,13,16,173,64,16,11,97,1,27,22,1,193,162,236,59,1,6,61,406,199,39,529,133,189,78,59,46,1,122,23,2,3,133,181,49,97,183,59,101,258,53,344,44,163,11,297,2,39,21,186,294,1,484,69,31,576,98,70,85,44,95,23,1,1,28,56,48,43,44,1,16,100,284,59,1,79,1,11,4,57,138,15,44,15,15,13,2,47,37,21,14,15,11,13,34
 Scope Conditions and Limitations	7966
 Scope Implementation Guidelines Education	2958
 Scope Implementation Guidelines Education AI	2958
@@ -262,6 +280,7 @@ Scope NA Type Nominal Refers	7221
 Scope Payment Type Nature of Transactions Payment	6938
 Scope Phase	6029
 Scope Policy Area	12235
+Scope SECTION A PART III IMPLEMENTATION	12374
 Scope Subsystem Type Binary	7221
 Scope Subsystem Type Binary Indicates	7221
 Scope Subsystem Type Binary Refers	7221
@@ -284,6 +303,7 @@ Scope System Type Nominal Distinguishes	7221
 Scope System Type Nominal Indicates	7221
 Scope The Kenya Cloud Policy	6432
 Scope This Appendix	3972
+Scope This Data Interoperability	12360
 Scope This Guideline	5665
 Scope Under Article	10370
 Scope and Applicability	1652,9528
@@ -305,6 +325,7 @@ Scope of Business	1877
 Scope of Digital Pharmacy Regulation	9855
 Scope of NPPI	11152
 Scope of PPI The NPPI	11152
+Scope of Permissible Open Access Research Activities	12389
 Scope of Policy	6432
 Scope of Project Work	3058
 Scope of Services	11869
@@ -318,37 +339,41 @@ Scopus	766,482,6542,881,566
 Scopus and PubMed	766
 Scopus and Web of Science	10323
 Scopus. Among	766
-Score	643,256,288,631,1578,391,1878,5094,76,2,1,36,38,56,1,7,276,618,4,7,3,1,1,1,1,1,6,3,37,217,2,5,1,3,42,36
+Score	643,256,288,631,1578,391,1878,5094,76,2,1,36,38,56,1,7,276,618,4,7,3,1,1,1,1,1,6,3,37,217,2,5,1,3,42,36,99,1,5,5,1,1,2,21
 Score Angola	5247
 Score Angola Ghana Kenya Mozambique	5247
 Score Angola’s Overall Governance	10759
-Score Anti-Corruption	11870,282
+Score Anti-Corruption	11870,282,189
 Score Country	10837,1052
 Score Demonstrate	11252
 Score Extensive	11252
 Score Infrastructure	10835,2
-Score ODA	10835,3,130,902,16
+Score ODA	10835,3,130,902,16,466,1
 Score OMS	643
-Score Participation	10968
+Score Participation	10968,1384
 Score Provincial EMR	11252
 Score Range	8604
-Score Rank	10759,76,3,130,902,16
-Score Rank Absence of Armed Conflict	10838,1048
+Score Rank	10759,76,3,130,902,16,466,1
+Score Rank Absence of Armed Conflict	10838,1048,454
 Score Rank Absence of Undue Influence	10835
 Score Rank Absence of Violence	10837,131,1184
 Score Rank Access	10837
 Score Rank Freedom of Association	10837
+Score Rank Internet	12340
 Score Rank Laws	10837,1315
 Score Rank Political Pluralism	11870
 Score Rank Protection	12152
-Score Rank Public Perception of Economic Opportunities	12152
+Score Rank Public Perception of Economic Opportunities	12152,188
 Score Rank Public Perception of Infrastructure	11870
+Score Rank Rural Market Access	12352
+Score Rank Rural Representation	12353
 Score Rating Caractéristique	10975
-Score Rights	11870
-Score Rural Economy	10837,1,1048,266
-Score Security	10835
+Score Rights	11870,471
+Score Rural Economy	10837,1,1048,266,201
+Score Security	10835,1505,1,11,1
 Score Service Level Requirements	5665
-Score Slowing Improvement Warning Signs	10835,3,130,902,16
+Score Slowing Improvement Warning Signs	10835,3,130,902,16,466,1
+Score Social Protection	12340
 Score Sub-category	11870,16
 Score Women's Equality	10968
 Scorecard	10912,557,436
@@ -356,7 +381,7 @@ Scorecard.pdf	6133
 Scored	6214,306,115
 Scorefam	2826
 Scorefit	8125
-Scores	3391,2208,3005,2155,5,73,301,345,404,1,1,9,254,1,1,6,3
+Scores	3391,2208,3005,2155,5,73,301,345,404,1,1,9,254,1,1,6,3,177,1,55
 Scores Scores Summary Explanation of Assessment	12225
 Scores of Cameroons	2519
 Scoring	1243,2078,1813,1080,4550,1461
@@ -373,10 +398,10 @@ Section VII- Scope of Works	1638
 Sectoral Scope This Policy	7548
 Sex and Mean Scores	2775
 Sheila Scott	769
-Signs Score	11870
-Slowing Deterioration Score	10837,1315
-Slowing Improvement Score	10837,1315
-Slowing Score	10835,3,130,902,16
+Signs Score	11870,482,1
+Slowing Deterioration Score	10837,1315,188
+Slowing Improvement Score	10837,1315,188
+Slowing Score	10835,3,130,902,16,466,1
 Soccersm and Scorefam	2826
 Software Class Score Range Alternative Classification	5665
 South Africa. SCOPE The HNSF	1009
@@ -387,7 +412,9 @@ Study Objectives and Scope	6832
 Sub-SaRheagriaonn Africa Score	12205
 Sub-Saharan Africa Score	11895
 Sub-category Score Inclusion	10837
+Sub-category Score Infrastructure	12340
 Sub-category Score Rural Economy	10837
+Sudan Eritrea Somalia South Sudan Score	12340
 Supporting Voluntary Compliance P3-8. Scope	12225
 SyRI Welfare Risk Scoring The SyRI	7966
 T AND SCORING METHOD FIGURE	11156
@@ -408,12 +435,14 @@ Temporal Scope and Lifecycle Coverage	7548
 Testing Scope	5665
 Timely and Universal Registration Responses Score	10812
 Title Scope	11269
+Topic Scores LEGEND	12389
 Treasury Secretary Scott Bessant. Moonshot	8788
 Treasury Secretary Scott Bessent	10430,15
-Trend Characteristic Scores	10835,3,130,902,16
+Trend Characteristic Scores	10835,3,130,902,16,466,1
 Trend Score	10837,1052
 Trust Resilience Score	11138
 U.S. Consul General Marissa Scott and Visa	3007
+University of Score	12376
 V. INFRASTRUCTURES SCOLAIRES V.2 REPARTITION DES	10847
 V. INFRASTRUCTURES SCOLAIRES V.3 TAILLE DES	10847
 V. INFRASTRUCTURES SCOLAIRES V.4 EQUIPEMENT DES	10847
@@ -422,8 +451,8 @@ V.INFRASTRUCTURES SCOLAIRES V.1 REPARTITION DES ECOLES	10847
 VAM Food Consumption Score Sources	10763
 WBG Scorecard	11469
 WBG Scorecard Indicator	11469
-Warning Score	10835,3,130,902,16
-Warning Signs Score	10837,1315
+Warning Score	10835,3,130,902,16,466,1
+Warning Signs Score	10837,1315,188
 Web of Science and Scopus	1248
 We’ll Link Citizens’ Credit Scores	3030
 World Bank Corporate Scorecard Indicator	10768
@@ -433,5 +462,6 @@ ZAMBIA’S BUSINESS CONFIDENCE INDEX SCORE	5247
 ZAMBIA’S EASE OF TRADE INDEX SCORE	5247
 ZAMBIA’S TRADE OPENNESS INDEX SCORE	5247
 ZAMBIA’S TRANSPORT-RELATED INFRASTRUCTURE INDEX SCORE	5247
+Zambian Score	12376
 Zimbabwe National Diversity Score	970
 score	10940
