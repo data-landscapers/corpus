@@ -86,7 +86,22 @@ PASS_RE = re.compile(r"^\w[\w-]*$")
 
 # The shape this writes, read back: `insert_at` compares stamps as strings, which sorts
 # correctly because the format is fixed-width and big-endian.
-ENTRY_RE = re.compile(r"^(\d{4}-\d{2}-\d{2} \d{2}:\d{2}) · ")
+#
+# **The time is optional because not every writer records one.** `progress-filler` writes
+# date-only entries, and while the pattern demanded a time those lines were invisible to
+# `insert_at`: it skipped straight past them to the first stamped line below, so four
+# entries dated 2026-08-29 came to sit above every 2026-08-30 line and every later run
+# would have been filed under them for good. The file's whole contract is that it reads
+# top-down in time, so a line the comparator cannot see is a line that breaks it silently.
+# A date-only stamp is normalised to that day's last minute rather than its first: an
+# unclocked line is written at the end of the work it describes, which is where the four
+# already sat relative to their own day.
+ENTRY_RE = re.compile(r"^(\d{4}-\d{2}-\d{2}(?: \d{2}:\d{2})?) · ")
+
+
+def entry_stamp(text: str) -> str:
+    """The comparable stamp for a matched entry — a bare date reads as end of day."""
+    return text if len(text) > 10 else f"{text} 23:59"
 
 STAMP_FMT = "%Y-%m-%d %H:%M"
 TOOK_RE = re.compile(r"^(?:(\d+)d)?\s*(?:(\d+)h)?\s*(?:(\d+)m)?$")
@@ -212,7 +227,7 @@ def insert_at(lines: list[str], marker_at: int, when: dt.datetime) -> int:
         m = ENTRY_RE.match(lines[i])
         if not m:
             continue
-        if m.group(1) <= stamp:
+        if entry_stamp(m.group(1)) <= stamp:
             return i
         after_last = i + 1
     return after_last
